@@ -48,7 +48,9 @@
 ## 独立开发变现周刊
 
 <!-- easyindie:START -->
-<!-- easyindie:END -->
+- 💂 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60)
+- 💡 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59)
+- 🌋 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58)<!-- easyindie:END -->
 ## 好工具周刊
 
 <!-- bestxtools:START -->
