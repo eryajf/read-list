@@ -69,7 +69,7 @@
 ## 好工具周刊
 
 <!-- bestxtools:START -->
-<!-- testxtools:END -->
+<!-- bestxtools:END -->
 
 ## 酷玩周刊
 
