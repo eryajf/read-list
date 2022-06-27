@@ -25,33 +25,33 @@
 ## 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/)
-- 🧰 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/)
-- 🌏 [我的开源项目汇总](https://wiki.eryajf.net/pages/67892e/)<!-- eryajf:END -->
+- 🫶 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) | Fri Jun 24 2022 3:52 PM
+- 🧰 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) | Wed Jun 22 2022 5:20 PM
+- 🌏 [我的开源项目汇总](https://wiki.eryajf.net/pages/67892e/) | Sun Jun 19 2022 10:56 AM<!-- eryajf:END -->
 
 ## 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
-- 💪 [科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
-- 🐎 [科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html) | Fri Jun 24 2022 12:30 AM
+- 💪 [科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html) | Fri Jun 17 2022 12:37 AM
+- 🐎 [科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html) | Fri Jun 10 2022 12:33 AM<!-- ruanyf:END -->
 
 ## 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🦣 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699)
-- 👺 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680)
--  [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663)<!-- DecoHack:END -->
+- 🦣 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | Mon Jun 27 2022 12:14 AM
+- 👺 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | Mon Jun 20 2022 1:05 AM
+-  [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | Tue Jun 14 2022 12:47 AM<!-- DecoHack:END -->
 
 ## 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60)
-- 💡 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59)
-- 🌋 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58)<!-- easyindie:END -->
+- 💂 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM
+- 💡 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | Thu Jun 16 2022 12:00 AM
+- 🌋 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | Thu Jun 09 2022 12:00 AM<!-- easyindie:END -->
 ## 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1)
-- 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1)
-- 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1)<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1 | Wed Jun 22 2022 4:28 PM)
+- 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1 | Wed Jun 15 2022 6:58 PM)
+- 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1 | Wed Jun 08 2022 5:01 PM)<!-- bestxtools:END -->
