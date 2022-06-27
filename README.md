@@ -19,7 +19,6 @@
 - [独立产品灵感周刊](#%E7%8B%AC%E7%AB%8B%E4%BA%A7%E5%93%81%E7%81%B5%E6%84%9F%E5%91%A8%E5%88%8A)
 - [独立开发变现周刊](#%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A)
 - [好工具周刊](#%E5%A5%BD%E5%B7%A5%E5%85%B7%E5%91%A8%E5%88%8A)
-- [Go语言爱好者周刊](#go%E8%AF%AD%E8%A8%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
