@@ -58,14 +58,7 @@
 - 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1)
 - 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1)<!-- bestxtools:END -->
 
-## 酷玩周刊
-
-<!-- ColdplayWeekly:START -->
-- 👹 [https://www.getrevue.co/profile/coldplay-weekly/issues/issue-9-1196011](https://t.me/ColdplayWeekly/13)
-- 🌜 [https://www.getrevue.co/profile/coldplay-weekly/issues/issue-8-1142140](https://t.me/ColdplayWeekly/12)
-- 🤭 [https://www.getrevue.co/profile/coldplay-weekly/issues/issue-7-1129406](https://t.me/ColdplayWeekly/11)<!-- ColdplayWeekly:END -->
-
-## go语言爱好者周刊
+## Go语言爱好者周刊
 
 <!-- go-weekly:START -->
 <!-- go-weekly:END -->
