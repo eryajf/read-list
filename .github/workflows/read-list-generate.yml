@@ -14,7 +14,7 @@ jobs:
       - name: Pull in eryajf posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 3
+          max_post_count: 5
           committer_username: "eryajf"
           committer_email: "eryajf@163.com"
           comment_tag_name: "eryajf"
@@ -23,7 +23,7 @@ jobs:
       - name: Pull in ruanyf posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 3
+          max_post_count: 5
           committer_username: "eryajf"
           committer_email: "eryajf@163.com"
           comment_tag_name: "ruanyf"
@@ -32,7 +32,7 @@ jobs:
       - name: Pull in DecoHack posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 3
+          max_post_count: 5
           committer_username: "eryajf"
           committer_email: "eryajf@163.com"
           comment_tag_name: "DecoHack"
