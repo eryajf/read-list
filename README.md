@@ -57,8 +57,3 @@
 - 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1)
 - 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1)
 - 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1)<!-- bestxtools:END -->
-
-## Go语言爱好者周刊
-
-<!-- go-weekly:START -->
-<!-- go-weekly:END -->
