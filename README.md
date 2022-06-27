@@ -61,7 +61,9 @@
 ## 酷玩周刊
 
 <!-- ColdplayWeekly:START -->
-<!-- ColdplayWeekly:END -->
+- 👹 [https://www.getrevue.co/profile/coldplay-weekly/issues/issue-9-1196011](https://t.me/ColdplayWeekly/13)
+- 🌜 [https://www.getrevue.co/profile/coldplay-weekly/issues/issue-8-1142140](https://t.me/ColdplayWeekly/12)
+- 🤭 [https://www.getrevue.co/profile/coldplay-weekly/issues/issue-7-1129406](https://t.me/ColdplayWeekly/11)<!-- ColdplayWeekly:END -->
 
 ## go语言爱好者周刊
 
