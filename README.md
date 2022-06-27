@@ -41,16 +41,9 @@
 ## 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🧐 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699)
-
-- 🧑‍🏫 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680)
-
-- 🥰 [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663)
-
-- 💻 [泛工具产品深度分析 #1 独立产品周刊](https://www.decohack.com/Post/653)
-
-- 🎃 [DecoHack #016 独立产品灵感周刊 – 苹果 WWDC 这周来了](https://www.decohack.com/Post/636)
-<!-- DecoHack:END -->
+- 🦣 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699)
+- 👺 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680)
+-  [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663)<!-- DecoHack:END -->
 
 ## 独立开发变现周刊
 
