@@ -9,6 +9,7 @@
  <img src="https://wiki.eryajf.net/img/dengxia.gif" alt="Project logo"></a>
 </p>
 
+如果你还有其他想要加入到订阅列表里的博客或周刊，欢迎通过issue进行反馈，或者直接通过PR进行提交！
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
