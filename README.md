@@ -61,6 +61,8 @@
 ## learnku订阅
 
 <!-- learnku:START -->
-- 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | Wed Jun 22 2022 4:28 PM
-- 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | Wed Jun 15 2022 6:58 PM
-- 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1) | Wed Jun 08 2022 5:01 PM<!-- learnku:END -->
+- 🦆 [Go开发PHP扩展](https://learnku.com/articles/68847) | Sun Jun 19 2022 8:33 PM
+- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://learnku.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
+-  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://learnku.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
+- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://learnku.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
+- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://learnku.com/articles/68715) | Tue Jun 14 2022 2:48 PM<!-- learnku:END -->
