@@ -29,7 +29,6 @@
   - [知乎每日精选](#%E7%9F%A5%E4%B9%8E%E6%AF%8F%E6%97%A5%E7%B2%BE%E9%80%89)
   - [TechWeb-全站精华](#techweb-%E5%85%A8%E7%AB%99%E7%B2%BE%E5%8D%8E)
 - [播客影视](#%E6%92%AD%E5%AE%A2%E5%BD%B1%E8%A7%86)
-  - [坏蛋调频](#%E5%9D%8F%E8%9B%8B%E8%B0%83%E9%A2%91)
   - [开源面对面](#%E5%BC%80%E6%BA%90%E9%9D%A2%E5%AF%B9%E9%9D%A2)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -39,30 +38,30 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) | Mon Jun 27 2022 4:39 PM
-    <details><summary>展开描述 ...</summary>
-    在GitHub中，我们能看到每个人都在折腾个人同名仓库的profile，我在这上边也花了不少的时间，在这个冲浪经历中，感觉外国人折腾的好像要更厉害一些，浏览过程中看到有人能直接在个人的profile中生成博客最近更新文章，很是新颖，于是就学习了一下。
-    </details>
+- 🫶 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) | Mon Jun 27 2022 4:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    在GitHub中，我们能看到每个人都在折腾个人同名仓库的profile，我在这上边也花了不少的时间，在这个冲浪经历中，感觉外国人折腾的好像要更厉害一些，浏览过程中看到有人能直接在个人的profile中生成博客最近更新文章，很是新颖，于是就学习了一下。 
+    </details> 
 
-- 🧰 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) | Fri Jun 24 2022 3:52 PM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第59期-2022年第24周
-    </details>
+- 🧰 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) | Fri Jun 24 2022 3:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第59期-2022年第24周 
+    </details> 
 
-- 🌏 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) | Wed Jun 22 2022 5:20 PM
-    <details><summary>展开描述 ...</summary>
-    基于git管理的项目，通常在分支管理之外，还会通过tag来对代码进行管理，尤其像go语言，go mod更是依赖tag来对项目的版本进行管理，因此合理的版本管理，对于项目的发展也会是更加健康的一个激励。GitHub中有一个Releases的概念，其实与tag差不多，简单理解就是在打一个tag的基础之上，用releases来进行管理。如果你没有了解过这里边的概念，那么要想成功打一个release还是有点难度的。
-    </details>
+- 🌏 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) | Wed Jun 22 2022 5:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    基于git管理的项目，通常在分支管理之外，还会通过tag来对代码进行管理，尤其像go语言，go mod更是依赖tag来对项目的版本进行管理，因此合理的版本管理，对于项目的发展也会是更加健康的一个激励。GitHub中有一个Releases的概念，其实与tag差不多，简单理解就是在打一个tag的基础之上，用releases来进行管理。如果你没有了解过这里边的概念，那么要想成功打一个release还是有点难度的。 
+    </details> 
 
-- 😎 [我的开源项目汇总](https://wiki.eryajf.net/pages/67892e/) | Sun Jun 19 2022 10:56 AM
-    <details><summary>展开描述 ...</summary>
-    如果你觉得项目不错，欢迎来个🤩 Star 🤩
-    </details>
+- 😎 [我的开源项目汇总](https://wiki.eryajf.net/pages/67892e/) | Sun Jun 19 2022 10:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果你觉得项目不错，欢迎来个🤩 Star 🤩 
+    </details> 
 
-- 💂 [学习周刊-总第58期-2022年第23周](https://wiki.eryajf.net/pages/62a9c7/) | Fri Jun 17 2022 9:11 PM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第58期-2022年第23周
-    </details>
+- 💂 [学习周刊-总第58期-2022年第23周](https://wiki.eryajf.net/pages/62a9c7/) | Fri Jun 17 2022 9:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第58期-2022年第23周 
+    </details> 
 <!-- eryajf:END -->
 
 ### 酷壳
@@ -94,27 +93,27 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。如何在30多个国家建立150万美元的年收入产品
-    </details>
+- 💂 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。如何在30多个国家建立150万美元的年收入产品 
+    </details> 
 
-- 💡 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | Thu Jun 16 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元
-    </details>
+- 💡 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | Thu Jun 16 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元 
+    </details> 
 
-- 🌋 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | Thu Jun 09 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。预售CSS课程，卖出55万美元
-    </details>
+- 🌋 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | Thu Jun 09 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。预售CSS课程，卖出55万美元 
+    </details> 
 <!-- easyindie:END -->
 
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | Wed Jun 22 2022 4:28 PM
-    <details><summary>展开描述 ...</summary>
+- 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | Wed Jun 22 2022 4:28 PM 
+    <details><summary>展开描述 ...</summary> 
     &lt;h1&gt;好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, Flex Box Adventure, Grid Attack&lt;/h1&gt;
 
 &lt;p&gt;发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 &lt;a href=&quot;https://www.bestxtools.com/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;BestXTools&lt;/a&gt; 创作。&lt;/p&gt;
@@ -289,11 +288,11 @@
 &lt;p&gt;&lt;a href=&quot;https://discuss-cn.bestxtools.com/d/43&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;上一期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;往期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;RSS 订阅&lt;/a&gt; | &lt;a href=&quot;https://bestxtools.zhubai.love/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;邮箱订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/5/2&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;微信订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/8&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;工具推荐&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/47/3&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;评论&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
+ 
+    </details> 
 
-    </details>
-
-- 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | Wed Jun 15 2022 6:58 PM
-    <details><summary>展开描述 ...</summary>
+- 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | Wed Jun 15 2022 6:58 PM 
+    <details><summary>展开描述 ...</summary> 
     &lt;h1&gt;好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Open Graph Image Generator, Griddy, Colorsandfonts&lt;/h1&gt;
 
 &lt;p&gt;发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 &lt;a href=&quot;https://www.bestxtools.com/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;BestXTools&lt;/a&gt; 创作。&lt;/p&gt;
@@ -473,11 +472,11 @@
 &lt;p&gt;&lt;a href=&quot;https://discuss-cn.bestxtools.com/d/42&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;上一期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;往期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;RSS 订阅&lt;/a&gt; | &lt;a href=&quot;https://bestxtools.zhubai.love/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;邮箱订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/5/2&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;微信订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/8&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;工具推荐&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/43/3&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;评论&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
+ 
+    </details> 
 
-    </details>
-
-- 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1) | Wed Jun 08 2022 5:01 PM
-    <details><summary>展开描述 ...</summary>
+- 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1) | Wed Jun 08 2022 5:01 PM 
+    <details><summary>展开描述 ...</summary> 
     &lt;h1&gt;好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, TweetPics, SPEEDTEST&lt;/h1&gt;
 
 &lt;p&gt;发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 &lt;a href=&quot;https://www.bestxtools.com/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;BestXTools&lt;/a&gt; 创作。&lt;/p&gt;
@@ -664,8 +663,8 @@
 &lt;p&gt;&lt;a href=&quot;https://discuss-cn.bestxtools.com/d/40&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;上一期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/43&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;下一期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;往期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;RSS 订阅&lt;/a&gt; | &lt;a href=&quot;https://bestxtools.zhubai.love/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;邮箱订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/5/2&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;微信订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/8&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;工具推荐&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/42/3&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;评论&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
-
-    </details>
+ 
+    </details> 
 <!-- bestxtools:END -->
 
 
@@ -713,8 +712,8 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [华强北最后的幸存者，是一家卖数据线的公司](http://www.techweb.com.cn/viewpoint/2022-06-28/2896084.shtml) | Tue Jun 28 2022 9:45 AM
-    <details><summary>展开描述 ...</summary>
+- 👍 [华强北最后的幸存者，是一家卖数据线的公司](http://www.techweb.com.cn/viewpoint/2022-06-28/2896084.shtml) | Tue Jun 28 2022 9:45 AM 
+    <details><summary>展开描述 ...</summary> 
     &lt;!--
 #toc,
 .toc,
@@ -807,47 +806,47 @@ font-family:&#39;Times New Roman&#39;;
 &lt;p&gt;对于手机配件这种&amp;ldquo;边角料&amp;rdquo;产品来说，即便想要进行硬核的研发，也没什么研发空间，横向发展全品类或许是更好的选择。而它的残酷性体现在，即便形成了品牌，但企业的核心竞争力，还是对人力成本的压缩程度。&lt;/p&gt;
 &lt;p&gt;大概十年前，富士康新闻负责人在接受凤凰卫视采访时曾说，&amp;ldquo;中国制造是一分钱一分钱的赚，希望大家对富士康和中国制造，至少能有些许敬畏之心。&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;我们所创造的很多奇迹，其实也是建立在这种残酷之上的。&lt;/p&gt;
-&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522791.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
-    </details>
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522791.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt; 
+    </details> 
 
-- 👹 [苹果M2 Pro芯片将采用3nm制程工艺 已向台积电预订产能](http://www.techweb.com.cn/world/2022-06-28/2896081.shtml) | Tue Jun 28 2022 9:36 AM
-    <details><summary>展开描述 ...</summary>
+- 👹 [苹果M2 Pro芯片将采用3nm制程工艺 已向台积电预订产能](http://www.techweb.com.cn/world/2022-06-28/2896081.shtml) | Tue Jun 28 2022 9:36 AM 
+    <details><summary>展开描述 ...</summary> 
     &lt;p&gt;【TechWeb】6月28日消息，据国外媒体报道，按上一代M系列芯片的命名方式，在6月9日推出采用第二代5纳米制程工艺打造、集成超过200亿个晶体管的M2芯片之后，苹果公司后续就将推出M2 Pro、M2 Max等M2系列的其他芯片。&lt;/p&gt;
 &lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656408353940.jpg&quot; border=&quot;0&quot; alt=&quot;pingguokuke_500&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;而外媒最新的报道显示，苹果后续将推出的M2 Pro芯片，将采用更先进的 3nm制程工艺打造，有报道称苹果已从台积电预订了3nm制程工艺的产能，用于未来的M2 Pro芯片。&lt;/p&gt;
 &lt;p&gt;在M2采用第二代的5nm制程工艺之后，后续推出的M2 Pro芯片，采用台积电的3nm制程工艺，也在意料之中。&lt;/p&gt;
 &lt;p&gt;按计划，台积电去年下半年开始风险试产的3nm制程工艺，将在今年下半年量产。此前也有分析师预计，苹果自研基于Arm架构的M2 Pro芯片，将在今年晚些时候量产，届时台积电的3nm工艺，预计就已经量产，能够为苹果代工M2 Pro芯片。&lt;/p&gt;
-&lt;p&gt;按惯例，在推出M2 Pro芯片时，苹果还会一并推出搭载这一芯片的新款硬件产品。此前已有分析师预计，14英寸和16英寸MacBook Pro、一款高端Mac mini，将会搭载M2 Pro芯片。&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
-    </details>
+&lt;p&gt;按惯例，在推出M2 Pro芯片时，苹果还会一并推出搭载这一芯片的新款硬件产品。此前已有分析师预计，14英寸和16英寸MacBook Pro、一款高端Mac mini，将会搭载M2 Pro芯片。&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt; 
+    </details> 
 
-- 🪜 [继德国后 欧盟2035年的汽油禁令再遭到五个国家的反对](http://www.techweb.com.cn/world/2022-06-28/2896078.shtml) | Tue Jun 28 2022 9:27 AM
-    <details><summary>展开描述 ...</summary>
+- 🪜 [继德国后 欧盟2035年的汽油禁令再遭到五个国家的反对](http://www.techweb.com.cn/world/2022-06-28/2896078.shtml) | Tue Jun 28 2022 9:27 AM 
+    <details><summary>展开描述 ...</summary> 
     &lt;p&gt;【TechWeb】6月28日消息，据国外媒体报道，继德国财政部长表示反对&amp;ldquo;到 2035 年禁止在欧盟境内销售燃油车&amp;rdquo;的计划之后，包括意大利、葡萄牙、斯洛伐克、保加利亚和罗马尼亚在内的几个欧洲国家也相继呼吁延迟这一计划。&lt;/p&gt;
 &lt;p&gt;上个月，欧盟议会投票赞成到2035年禁售燃油车的计划。遭到德国财政部长的强烈反对，随后来自意大利、葡萄牙、斯洛伐克、保加利亚和罗马尼亚的代表计划与理事会中提案的支持者和议员进行谈判，将禁令日期推迟5年。他们指出，如此迅速地实施禁令将对缺乏购买力的国家不利，迫使这些国家的公民承担不适当的负担。&lt;/p&gt;
 &lt;p&gt;欧盟表示，由于现代内燃机汽车的寿命较长，为了实现欧盟到2050年碳中和的目标，快速实施该禁令可能是必要的。&lt;/p&gt;
-&lt;p&gt;另外，在该问题上欧洲企业似乎存在同样的分歧。除了福特、沃尔沃、大众和梅赛德斯都表示支持通过该法案，其他企业要么选择保持沉默，要么支持推迟禁令。&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
-    </details>
+&lt;p&gt;另外，在该问题上欧洲企业似乎存在同样的分歧。除了福特、沃尔沃、大众和梅赛德斯都表示支持通过该法案，其他企业要么选择保持沉默，要么支持推迟禁令。&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt; 
+    </details> 
 
-- 🤭 [夏普以近3亿美元拿下关键LCD工厂SDP所有权](http://www.techweb.com.cn/world/2022-06-28/2896073.shtml) | Tue Jun 28 2022 8:51 AM
-    <details><summary>展开描述 ...</summary>
+- 🤭 [夏普以近3亿美元拿下关键LCD工厂SDP所有权](http://www.techweb.com.cn/world/2022-06-28/2896073.shtml) | Tue Jun 28 2022 8:51 AM 
+    <details><summary>展开描述 ...</summary> 
     &lt;p&gt;【TechWeb】6月28日消息，据国外媒体报道，根据周一宣布的一项协议，夏普以约400亿日元（2.96亿美元）的价格将LCD工厂运营商&amp;ldquo;堺显示器产品公司&amp;rdquo;（Sakai&amp;nbsp;Display&amp;nbsp;Products，简称SDP）转变为全资子公司。&lt;/p&gt;
 &lt;p&gt;2009年，夏普投资约4300亿日元成立了堺显示器产品公司。堺显示器产品公司是一家液晶显示器制造商，主要生产电视用大型液晶面板。此外，它还提供车用、游戏机用等中小尺寸面板产品。&lt;/p&gt;
 &lt;p&gt;成立之初，堺显示器产品公司是夏普的合并子公司，但由于夏普在电视产业的巨大亏损，该工厂在2012年被鸿海收购。之后，夏普与鸿海共同经营堺显示器产品公司。&lt;/p&gt;
 &lt;p&gt;2019年7月，日媒纷纷报道称，夏普有意评估重新购回堺显示器产品公司股权，进而收纳其为夏普子公司。&lt;/p&gt;
 &lt;p&gt;但是，在2021年2月份，夏普又宣布，将在3月份出售堺显示器产品公司的股份。这是因为堺显示器产品公司近年陷入亏损，夏普意在通过出售来实现业绩的稳定。&lt;/p&gt;
-&lt;p&gt;然而，一年后，事情又出现了变化。周一，夏普完成对堺显示器产品公司的收购手续，正式将堺显示器产品公司变为全资子公司，持股比例由原先的20%提高至100%。（小狐狸）&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
-    </details>
+&lt;p&gt;然而，一年后，事情又出现了变化。周一，夏普完成对堺显示器产品公司的收购手续，正式将堺显示器产品公司变为全资子公司，持股比例由原先的20%提高至100%。（小狐狸）&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt; 
+    </details> 
 
-- 🙉 [特斯拉柏林超级工厂7月4日开始三班倒生产Model Y](http://www.techweb.com.cn/world/2022-06-28/2896071.shtml) | Tue Jun 28 2022 8:36 AM
-    <details><summary>展开描述 ...</summary>
+- 🙉 [特斯拉柏林超级工厂7月4日开始三班倒生产Model Y](http://www.techweb.com.cn/world/2022-06-28/2896071.shtml) | Tue Jun 28 2022 8:36 AM 
+    <details><summary>展开描述 ...</summary> 
     &lt;p&gt;【TechWeb】6月28日消息，据国外媒体报道，5月份开始两班制生产Model Y的特斯拉柏林超级工厂，在7月4日，也就是下周一，将开始三班倒生产。&lt;/p&gt;
 &lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656405238974.jpg&quot; border=&quot;0&quot; alt=&quot;tesiladeguochaojigongchangy_500&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;外媒在报道中表示，特斯拉柏林超级工厂目前的两班制，一班从早上6:30开始，另一班则是从下午2:30开始，在加入第三班之后，工厂就将全天24小不间断生产Model Y。&lt;/p&gt;
 &lt;p&gt;在下周一开始三班倒生产之后，特斯拉柏林超级工厂Model Y的产量，也将会有明显提升。柏林超级工厂Model Y的周产量，在上上周就已达到了1000辆。&lt;/p&gt;
 &lt;p&gt;开始三班倒生产，也就意味着特斯拉位于柏林近郊勃兰登堡州格伦黑德的这一超级工厂，在生产线的员工就会更多，他们也就需要更多的员工。&lt;/p&gt;
 &lt;p&gt;外媒在报道中提到，特斯拉柏林超级工厂，目前已有约5000名员工，他们仍计划在未来的几个月大量招人，每月招聘数百人，外媒称特斯拉的目标是在年底有12000名工人。&lt;/p&gt;
-&lt;p&gt;由于电动汽车的生产，还需要大量的电池、芯片等各类零部件，因而柏林超级工厂Model Y的产能，在下周实行三班倒之后能否大幅提升，还需要充足的零部件供应。如果持续有充足的零部件供应，柏林超级工厂Model Y的产量，在三班倒之后就将快速提升。&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
-    </details>
+&lt;p&gt;由于电动汽车的生产，还需要大量的电池、芯片等各类零部件，因而柏林超级工厂Model Y的产能，在下周实行三班倒之后能否大幅提升，还需要充足的零部件供应。如果持续有充足的零部件供应，柏林超级工厂Model Y的产量，在三班倒之后就将快速提升。&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt; 
+    </details> 
 <!-- techweb-allnews:END -->
 
 
