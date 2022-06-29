@@ -131,7 +131,50 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [泼于练手，求推荐相对比较全的产品原型平台](https://www.v2ex.com/t/863042#reply0) | Wed Jun 29 2022 2:11 PM 
+- 🥸 [copilot 最近经常不能提示代码，有相同情况吗？](https://www.v2ex.com/t/863056#reply0) | Wed Jun 29 2022 3:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;vscode 里查看 output, 提示&lt;br/&gt;
+[INFO] [ghostText] [2022-06-29T15:19:53.946Z] Cancelled after extractPrompt&lt;/p&gt;
+&lt;p&gt;搜索了下，有说是网络问题的 &lt;a href=&quot;https://github.com/github-community/community/discussions/14907&quot; rel=&quot;nofollow&quot;&gt;https://github.com/github-community/community/discussions/14907&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前试了以下方法都不生效&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;把 &lt;a href=&quot;http://copilot-proxy.githubusercontent.com&quot; rel=&quot;nofollow&quot;&gt;copilot-proxy.githubusercontent.com&lt;/a&gt;, &lt;a href=&quot;http://api.github.com&quot; rel=&quot;nofollow&quot;&gt;api.github.com&lt;/a&gt;, &lt;a href=&quot;http://githubusercontent.com&quot; rel=&quot;nofollow&quot;&gt;githubusercontent.com&lt;/a&gt; 三个域名设置走代理。&lt;/li&gt;
+&lt;li&gt;使用手机移动网络。&lt;/li&gt;
+&lt;li&gt;直接使用办公室和住处的宽带。&lt;/li&gt;
+&lt;li&gt;重启插件，重启 vscode 。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;目前也不是说不能用，就是写一些模板代码的时候，你希望可以 tap 一键搞定，但就是不给你提示，就很烦。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [在 Windows 设置使用 Caps Lock 切换输入法中英文（PowerToys）](https://www.v2ex.com/t/863055#reply1) | Wed Jun 29 2022 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;本来是 macOS 下面的习惯，两个系统一起用人有点裂开。我想要实现 CapsLock 切换输入法语言，Shift+CapsLock 切换大小写锁定，方法是把 CapsLock 用“重新映射键”改成输入法里的切换中英文快捷键，然后用“重新映射快捷键”把 Shift+切换中英文快捷键（而不是 Shift+CapsLock ）映射成 Shift+CapsLock 。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;img1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/EnBehNz.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;img2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/MaYMGXk.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;因为一开始没有弄懂 PowerToys 的规则所以 Shift+CapsLock 一直实现不了。。。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [VSCode 有仿 JB IntelliJ 的（界面）快捷键插件吗？](https://www.v2ex.com/t/863045#reply2) | Wed Jun 29 2022 2:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;喜欢 JetBrain Intellij 系的 IDE 界面和快捷键：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;统一：dock panel 会显示 number ，可以用 &lt;code&gt;alt+$no&lt;/code&gt; toggle panel ，和按下&lt;code&gt;alt&lt;/code&gt;就显示 menu shortcut key 的体验统一。&lt;/li&gt;
+&lt;li&gt;以代码为主：&lt;code&gt;ctrl+shift+f12&lt;/code&gt;突出 Editor ，收起其他面板，&lt;code&gt;Esc&lt;/code&gt;会将 Focus 从其他面板收回到 Editor 。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;VSCode 有个&lt;a href=&quot;https://github.com/kasecato/vscode-intellij-idea-keybindings&quot; rel=&quot;nofollow&quot;&gt;IntelliJ IDEA Key Bindings&lt;/a&gt;插件，但功能很弱，不完整，例如&lt;code&gt;ctrl+shift+f12&lt;/code&gt;应该是 &lt;code&gt;Toggle maximizing editor&lt;/code&gt;，在 VSCode 里却只有 &lt;code&gt;workbench.action.maximizeEditor&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;想知道有没有更好的快捷键（模拟）插件，或者有没有人有兴趣写一个这样的插件。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [泼于练手，求推荐相对比较全的产品原型平台](https://www.v2ex.com/t/863042#reply2) | Wed Jun 29 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;自己想做点什么总是想不到，就想看看有没有那种成型的产品原型，跟着产品原型撸，好像比较快，也不用纠结样式布局...&lt;/p&gt;
@@ -139,39 +182,12 @@
 	 
     </details> 
 
-- 🤗 [v 友大佬们急问！ wordpress 加速用 CDN 还是 OSS 镜像回源好？](https://www.v2ex.com/t/863014#reply3) | Wed Jun 29 2022 11:20 AM 
+- 🐵 [v 友大佬们急问！ wordpress 加速用 CDN 还是 OSS 镜像回源好？](https://www.v2ex.com/t/863014#reply3) | Wed Jun 29 2022 11:20 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;一般来说业界用哪种方案啊，   &lt;/p&gt;
 &lt;p&gt;有没有什么完整的配置方案的文档可以参考啊？   &lt;/p&gt;
 &lt;p&gt;还有就是支持配置 aliyun CDN 的 wordpress 加速 插件用哪个比较好？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [jetbrains 产品将于 2022 年 11 月 1 日涨价,普遍涨了 20 刀，全家桶涨了 40 刀。](https://www.v2ex.com/t/863011#reply35) | Wed Jun 29 2022 11:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;AppCode 好像没涨，另外现在可以一次性续 3 年。大家会提前续费吗？&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.jetbrains.com/zh-cn/store/#personal&quot; rel=&quot;nofollow&quot;&gt;https://www.jetbrains.com/zh-cn/store/#personal&lt;/a&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [有没有 C/C++做 部分预处理 的工具](https://www.v2ex.com/t/862999#reply5) | Wed Jun 29 2022 10:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;需求大概就是在#define 或者#include 头文件不完整的情况下做预处理，有多少做多少，as much as possible ，缺失的保持原状。&lt;/p&gt;
-&lt;p&gt;如果直接用 gcc -E 的话会直接报错，找不到.h 或者相关定义&lt;/p&gt;
-&lt;p&gt;有没有什么工具能实现？（除了自己写&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [segmentfault 删库跑路了吗？](https://www.v2ex.com/t/862997#reply3) | Wed Jun 29 2022 10:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;刚想查个问题，进去一个大大的 502😅&lt;/p&gt;
 
 	 
     </details> 
