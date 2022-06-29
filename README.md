@@ -205,29 +205,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flask Web 极简教程（三）- SqlAlchemy（Part A）](https://juejin.cn/post/7114691097615400973) | Wed Jun 29 2022 3:55 PM 
+- 🤗 [使用 visibilitychange 处理页面关闭事件](https://juejin.cn/post/7114692229788073997) | Wed Jun 29 2022 3:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    在对web项目部署提示用户刷新功能优化的时候，用到了 `visibilitychange`,这里就简单的介绍下 `visibilitychange` 。 
+    </details> 
+
+- 🎡 [Flask Web 极简教程（三）- SqlAlchemy（Part A）](https://juejin.cn/post/7114691097615400973) | Wed Jun 29 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
     一、ORM 模型设计 在MTV架构中，M表示Model层负责与数据库进行交互，ORM&lpar;Object Relational Mapping&rpar;对象关系映射可以将具体的模型与数据库中的表进行一一对应，模型对 
     </details> 
 
-- 🎡 [Serverless 在阿里云函数计算中的实践](https://juejin.cn/post/7114686546837520420) | Wed Jun 29 2022 3:38 PM 
+- 🕯 [Serverless 在阿里云函数计算中的实践](https://juejin.cn/post/7114686546837520420) | Wed Jun 29 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
     近日，阿里云 aPaaS&amp;Serverless 前端技术专家袁坤在 CSDN 云原生 meetup 长沙站分享了 Serverless 在阿里云函数计算 FC 的实践。 
     </details> 
 
-- 🕯 [web3 的身份验证之以太坊签名消息](https://juejin.cn/post/7114662562158870536) | Wed Jun 29 2022 2:05 PM 
+- 🚀 [web3 的身份验证之以太坊签名消息](https://juejin.cn/post/7114662562158870536) | Wed Jun 29 2022 2:05 PM 
     <details><summary>展开描述 ...</summary> 
     如果参与过以太坊 DApp 相关的开发，可能遇到过要求签名一条消息或一条数据以验证自己（以及钱包地址）。本文将讨论以太坊签名数据的基础知识。 
     </details> 
 
-- 🚀 [50+Vue经典面试题源码级详解（51）：Composition API 与 Options API 有什么不同](https://juejin.cn/post/7114653124131815432) | Wed Jun 29 2022 1:28 PM 
+- 💪 [50+Vue经典面试题源码级详解（51）：Composition API 与 Options API 有什么不同](https://juejin.cn/post/7114653124131815432) | Wed Jun 29 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第28天，点击查看活动详情 前言 小伙伴们好，这是村长《Vue经典面试题源码级详解》系列文章第 51 题，前面已完成题目合集在此：  
-    </details> 
-
-- 💪 [MySQL 锁常见知识点&amp;面试题总结](https://juejin.cn/post/7114649816721784863) | Wed Jun 29 2022 1:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    表级锁和行级锁了解吗？有什么区别？ MyISAM 仅仅支持表级锁&lpar;table-level locking&rpar;，一锁就锁整张表，这在并发写的情况下性非常差。 InnoDB 不光支持表级锁&lpar;table-le 
     </details> 
 <!-- juejin:END -->
 ### 少数派
