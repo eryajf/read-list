@@ -272,19 +272,19 @@ class YourBorg&lpar;Borg&rpar;:
     Serverless Devs 作为开源开放的开发者工具，自其立项始，便以提升 Servelress 应用研发效能为目标，以让 Serverless 架构更好用、更易用为准则，期望在 Serverle 
     </details> 
 
-- 🕯 [超 Nice 的表格响应式布局小技巧](https://juejin.cn/post/7114504079467872293) | Wed Jun 29 2022 3:50 AM 
+- 🕯 [微前端架构的几种技术选型、从月薪600到进入鹅厂、得物多活架构设计之路由服务设计、 货拉拉 Android 动态资源管理系统原理 | 酱酱的下午茶第 17 期](https://juejin.cn/post/7114536293094129695) | Wed Jun 29 2022 5:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    本期看点: 作为前端，要学会用Github Action给自己的项目加上CICD、从月薪600到进入鹅厂、微前端架构的几种技术选型、Spark 一文搞懂 parquet、得物多活架构设计之路由服务设计 
+    </details> 
+
+- 🚀 [超 Nice 的表格响应式布局小技巧](https://juejin.cn/post/7114504079467872293) | Wed Jun 29 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     今天，遇到了一个很有意思的问题，一名群友问我，仅仅使用 CSS，能否实现这样一种响应式的布局效果： 简单解析一下效果： 在屏幕视口较为宽时，表现为一个整体 Table 的样式 而当屏幕视口宽度较小时， 
     </details> 
 
-- 🚀 [新朝旧将 vite和webpack煮酒论英雄](https://juejin.cn/post/7114503513039716388) | Wed Jun 29 2022 3:48 AM 
+- 💪 [新朝旧将 vite和webpack煮酒论英雄](https://juejin.cn/post/7114503513039716388) | Wed Jun 29 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
     我们见证了 webpack、Rollup 和 Parcel 等工具的变迁，它们极大地改善了前端开发者的开发体验。 
-    </details> 
-
-- 💪 [更好用的 Python 任务自动化工具：nox 官方教程](https://juejin.cn/post/7114501740766232589) | Wed Jun 29 2022 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    本教程将引导你学会安装、配置和运行 Nox。 安装 Nox 可以通过pip轻松安装： python3 -m pip install nox 你可能希望使用用户站点&lpar;user site&rpar;来避免对全局的  
     </details> 
 <!-- juejin:END -->
 ### 少数派
