@@ -131,130 +131,54 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Python Borg pattern 模式疑问](https://www.v2ex.com/t/862937#reply0) | Wed Jun 29 2022 7:05 AM 
+- 🥸 [有没有哪个品牌的安卓手机，可以在 macOS 上直接操作呢？](https://www.v2ex.com/t/862960#reply2) | Wed Jun 29 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;pre&gt;&lt;code&gt;from typing import Dict
+	因为工作需要在安卓手机上浏览一些 app ，但是有时候不太方便拿出来手机&lt;br /&gt;&lt;br /&gt;有没有这样的一款安卓手机，可以把屏幕或者某个 app 映射到 macOS 上面，在 macOS 上面进行相关的操作？&lt;br /&gt;&lt;br /&gt;（我使用过一些第三方软件比如「黑洞」，但是体验不好，所以希望找一款本身支持的手机品牌）&lt;br /&gt;&lt;br /&gt;（我知道 miui 似乎在 windows 上面可以，但是不支持 macOS ）
+	 
+    </details> 
 
-
-class Borg:
-    _shared_state: Dict[str, str] = {}
-
-    def __init__&lpar;self&rpar;:
-        self.__dict__ = self._shared_state
-
-
-class YourBorg&lpar;Borg&rpar;:
-    def __init__&lpar;self, state=None&rpar;:
-        super&lpar;&rpar;.__init__&lpar;&rpar;
-        if state:
-            self.state = state
-        else:
-            # initiate the first instance with default state
-            if not hasattr&lpar;self, &quot;state&quot;&rpar;:
-                self.state = &quot;Init&quot;   # 这里为什么会更新到 _shared_state 的 value 中
-
-    def __str__&lpar;self&rpar;:
-        return self.state
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;第 19 行,  &lt;code&gt;self.state = &quot;Init&quot;&lt;/code&gt; 后, 会将&lt;code&gt;_shared_state: {}&lt;/code&gt;, 更新为 &lt;code&gt;_shared_state: {&quot;state&quot;: &quot;Init&quot;}&lt;/code&gt; 这是为什么?&lt;/p&gt;
+- 🤗 [两台个人电脑能不能通过中间服务器进行 rsync 同步?](https://www.v2ex.com/t/862955#reply2) | Wed Jun 29 2022 8:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;需求就是有一个文件夹需要在两台电脑同步, 但是不需要实时同步, 所以想通过 rsync 进行同步, 但是 rsync 似乎需要其中一台电脑必须开启 rsync server&lt;/p&gt;
 
 	 
     </details> 
 
-- 🤗 [声网开发者创业讲堂丨第 4 期：创业团队如何保障产品业务的安全合规？](https://www.v2ex.com/t/862925#reply1) | Wed Jun 29 2022 6:28 AM 
+- 🎭 [新手，请教一个 k8s 的问题](https://www.v2ex.com/t/862953#reply1) | Wed Jun 29 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;安全与合规是两个非常大的话题，即涉及到技术层面，也涉及到政策和业务管理。很多创业团队会在创业初期因为公司规模、项目体量的原因，忽略或刻意规避安全合规，从而引发不可挽回的风险或隐患。在创业初期存在诸多不确定性的情况下，作为创业者应该如何正确且合理的保障产品业务的安全与合规？&lt;/p&gt;
-&lt;p&gt;7 月 16 日下午，声网开发者创业讲堂 • 第 4 期将以&lt;strong&gt;「创业团队如何保障产品业务的安全合规？」&lt;/strong&gt;为题，邀请环信、游族、白山云三家优秀企业的技术专家为大家带来精彩的分享。
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.w2solo.com/photo/Ziran/dce97973-8ab0-45ef-bad6-619ee453b293.jpg?imageView2/2/w/1920/q/100&quot;/&gt;&lt;/p&gt;
-&lt;h1&gt;1 时间地点&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;活动时间：&lt;/strong&gt; 7 月 16 日（星期六） 14:00——16:30&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;活动地点：&lt;/strong&gt; 线上直播&lt;/p&gt;
-&lt;h1&gt;2 活动流程&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;14:00 - 14:10&lt;/strong&gt; &lt;strong&gt;开场&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;14:10 - 14:50&lt;/strong&gt; &lt;strong&gt;《即时通信场景下安全合规的实践和经验》&lt;/strong&gt;  赵亮 环信 IM SDK 研发负责人&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;14:50 - 15:30&lt;/strong&gt; &lt;strong&gt;《&lt;/strong&gt;常见信息安全攻击风险及应对方案&lt;strong&gt;》&lt;/strong&gt; 马寅龙 游族网络信息化中心总监&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;15:30 - 16:10&lt;/strong&gt; &lt;strong&gt;《攻防视角下业务安全的实战经验分享》&lt;/strong&gt; 胡金涌 白山云安全研发总监&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;16:10 - 16:30&lt;/strong&gt; &lt;strong&gt;抽奖&lt;/strong&gt;&lt;/p&gt;
-&lt;h1&gt;3 活动嘉宾&lt;/h1&gt;
-&lt;p&gt;嘉宾一&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.w2solo.com/photo/Ziran/4f68989c-5fcc-4ea1-b184-282b2e03db36.jpeg?imageView2/2/w/1920/q/100&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;赵亮&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;环信 IM SDK 研发负责人&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;strong&gt;分享主题：&lt;/strong&gt;&lt;/strong&gt; &lt;strong&gt;即时通信场景下安全合规的实践和经验&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;‍嘉宾&lt;/strong&gt; &lt;strong&gt;简介：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;环信 IM SDK 研发负责人，十余年电信和互联网从业经验，曾主持研发多个明星项目，目前在环信主持即时通讯云 SDK 研发工作。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;内容简介：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在监管趋紧的形式下，即时通讯场景会遇到很多安全合规领域的挑战，如何满足这些安全合规的要求，如何保护用户的隐私安全，是一件非常有挑战的事情。本次分享将介绍环信在这个领域所做的一些实践和经验。&lt;/p&gt;
-&lt;p&gt;嘉宾二&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.w2solo.com/photo/Ziran/0e9174e5-1cb1-47dc-9a39-8711c55b4675.jpeg?imageView2/2/w/1920/q/100&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;马寅龙&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;游族网络信息化中心总监&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分享主题：&lt;/strong&gt; &lt;strong&gt;常见信息安全攻击风险及应对方案&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;‍嘉宾简介&lt;/strong&gt; &lt;strong&gt;：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;游族网络信息化中心与信息安全部负责人，拥有 12 年信息安全管理建设经验，主导构建了游族网络信息安全纵深防护体系，曾作为嘉宾在 CIS / EISS / FIT / SSC 等国内顶级安全峰会演讲。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;内容简介：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从企业常见的安全事件出发，分析企业信息安全管理的演进路径，包括安全团队建设、安全工具选型、安全服务选型，以及如何以高性价比方式建设企业安全防护能力。&lt;/p&gt;
-&lt;p&gt;嘉宾三&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.w2solo.com/photo/Ziran/ce7763bc-6d46-4e99-a695-bf173d7a6940.jpeg?imageView2/2/w/1920/q/100&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;胡金涌&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;白山云安全研发总监&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分享主题：攻防视角下业务安全的实战经验分享&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;‍嘉宾&lt;/strong&gt; &lt;strong&gt;简介：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;白山云安全研发总监，十年云安全产品研发经验，主持研发了 SCDN 、抗 DDoS 、云 WAF 、SoC 、零信任等安全产品，在攻防领域有丰富的经验。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;内容简介：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从攻防的视角分享业务上线后可能遇到的常见攻击，并分享安全研发规范、上线前的安全巡检、上线后的安全防护等实战经验并给出一些安全建议。&lt;/p&gt;
-&lt;h1&gt;4 抽奖福利&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;报名直播参与活动，即有机会领取&lt;/strong&gt; &lt;strong&gt;精美声网周边&lt;/strong&gt; &lt;strong&gt;，心动不如行动，扫码报名本次活动吧！&lt;/strong&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.w2solo.com/photo/Ziran/7fa73031-2d85-4354-bc5c-311c2b68f765.png?imageView2/2/w/1920/q/100&quot;/&gt;&lt;/p&gt;
-&lt;h1&gt;5 活动报名&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;微信扫描下方二维码即可报名&lt;/strong&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.w2solo.com/photo/Ziran/29a33f4c-8fa0-4130-bfcd-cd0c519bd398.png?imageView2/2/w/1920/q/100&quot;/&gt;&lt;/p&gt;
-&lt;h1&gt;6 声网创业讲堂交流群&lt;/h1&gt;
-&lt;p&gt;当下是一个人人可创业的时代，对技术人来说，更是一个创业友好的时代。如果你懂技术，会比其他人更容易将自己的创业想法和梦想付诸实践。但创业意味着要从 0 到 1 ，意味着要持续的创造和创新，意味着创业者和团队需要不断的成长和突破。只有这样才能打造出满足市场需求的、有价值的产品，逐渐形成企业的优势和壁垒，成长为一家成熟的企业。&lt;/p&gt;
-&lt;p&gt;声网关注有创新能力、开发能力和创业意向的开发者，并希望为开发者提供相应的支持和服务。为此，我们推出了“声网开发者创业讲堂”系列创业分享，以便为大家在成长和创业路上提供更多的帮助。欢迎扫码申请加入我们的创业开发者社群！
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.w2solo.com/photo/Ziran/f5694e10-a3be-4777-9aad-bcec07de9320.jpeg?imageView2/2/w/1920/q/100&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;联合主办&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.w2solo.com/photo/Ziran/7d0e0c88-c4f2-4f28-bb7c-9c7704492d8b.jpeg?imageView2/2/w/1920/q/100&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;合作伙伴&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.w2solo.com/photo/Ziran/e9974c85-7059-4d8b-b657-877ff440b016.jpeg?imageView2/2/w/1920/q/100&quot;/&gt;&lt;/p&gt;
+	中心服 A ，对外提供服务的 B 。B 需要将自己链接到 A ，同时需要对外提供服务。用户先到 A 去拿取 B 的地址在链接到 B 。&lt;br /&gt;&lt;br /&gt;A 可以部署多个，A 服务功能是一样的，采用 deployment 部署。对外访问用 service ，用户访问任意一个都行。&lt;br /&gt;&lt;br /&gt;B 也需要部署多个，虽然功能是一样，但是有服务的逻辑地址，又算是不同的服务。采用 statefulSet 部署，由 podID 来生成逻辑地址。&lt;br /&gt;&lt;br /&gt;类似于官方的案列：部署多个 mysql 服务。但是教程只到了 k8s 集群内通过 ip 来区分并访问不同的 mysql 。对于外部的访问怎么区分访问呢？&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;service 的方式是将一批 pod 统一暴露出去了，不能做到定向访问。怎么将 statefulSet 部署的 pod 通过外部访问，且用户能选择访问那一个 pod ？
+	 
+    </details> 
+
+- 🥷 [万能的 V 友，请教有没有一种运营友好的 k8s 的监控](https://www.v2ex.com/t/862951#reply4) | Wed Jun 29 2022 7:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;例如 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.githubstatus.com/&quot; rel=&quot;nofollow&quot;&gt;https://www.githubstatus.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ops.naibahq.com/&quot; rel=&quot;nofollow&quot;&gt;https://ops.naibahq.com/&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nodestatus-production.up.railway.app/&quot; rel=&quot;nofollow&quot;&gt;https://nodestatus-production.up.railway.app/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;prometheus 这种可能适合运维与开发，想要一个拓扑比较粗 UI 友好给用户看的，有没有类似的项目呢&lt;/p&gt;
+&lt;p&gt;比如 哪吒监控这个超级合适 ，可惜是 VPS 的 带管路后台的。感觉用起来就很麻烦&lt;/p&gt;
 
 	 
     </details> 
 
-- 🎭 [企业微信真是不讲武德](https://www.v2ex.com/t/862923#reply1) | Wed Jun 29 2022 6:22 AM 
+- 🐵 [Gnome Boxes 运行 Win10 虚拟机缓慢](https://www.v2ex.com/t/862941#reply0) | Wed Jun 29 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
     
-	每次重启电脑再启动 Android studio 的时候，adb 设备那里总是显示 loading devices&lt;br /&gt;尝试了很多办法，重启电脑，关闭很多软件，卸载很多软件，反反复复的 kill adb 进程&lt;br /&gt;都不管用（偶尔会管用一次）&lt;br /&gt;今天终于发现了罪魁祸首：企业微信&lt;br /&gt;因为它是开机自启动的，也没怎么去管它&lt;br /&gt;现在发现 Android studio 显示 loading devices 的时候&lt;br /&gt;只要杀掉企业微信进程，再杀一次 adb 进程就好了&lt;br /&gt;设备就加载出来了，logcat 日志就出来了&lt;br /&gt;&lt;br /&gt;去 TM 的企业微信，赶紧狗带吧
-	 
-    </details> 
+	&lt;p&gt;宿主机是 Fedora36 Workstation, CPU 是 AMD R5 3500U, 内存 10G, 用 Fedora 自带的 Gnome Boxes 运行 Win10, 分配的内存 3G, CPU8 个, 也安装了以下软件:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;spice-guest-tools-latest.exe&lt;/li&gt;
+&lt;li&gt;spice-webdavd-x64-latest.msi&lt;/li&gt;
+&lt;li&gt;virtio-win-guest-tools.exe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;拖动窗口依然很卡, 操作不如 VirtualBox 流畅, 有什么解决办法吗? 还是说 Gnome Boxes 对 Win10 本来就优化差?&lt;/p&gt;
 
-- 🥷 [前端源码中需写死后端服务的地址吗](https://www.v2ex.com/t/862910#reply13) | Wed Jun 29 2022 5:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;本人非前端开发，遇到一个问题。&lt;/p&gt;
-&lt;p&gt;某台应用除了内网网段使用外， 外部用户也会通过一个反向代理来访问。&lt;/p&gt;
-&lt;p&gt;vue 的项目中，源码需要写死后端接口服务的 ip 和端口吗，当前是写死在源码中，导致这个应用发布后。只有内部可以用。&lt;/p&gt;
-&lt;p&gt;vue 中的项目中，是否可以使用相对路径的使用，访问后台，然后后台通过 nginx 的配置来实现转发到不同的服务。&lt;/p&gt;
-&lt;p&gt;如：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    location /api {
-	client_max_body_size 1000m;
-        proxy_pass http://127.0.0.1:59000;
-        proxy_read_timeout 1200;
-
-    }
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;前端同事不太了解这块，所以我来问下。&lt;/p&gt;
-&lt;p&gt;有没有什么现成的方法可以用。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [有对 argocd rollouts 熟悉的哥们不](https://www.v2ex.com/t/862906#reply1) | Wed Jun 29 2022 5:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	100 个工程做金丝雀发布的时候，&lt;br /&gt;能否做到金丝雀版本只能访问金丝雀版本？
 	 
     </details> 
 <!-- v2ex:END -->
