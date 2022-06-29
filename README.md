@@ -263,10 +263,10 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [蔚来汽车：做空机构报告包含许多错误](http://www.techweb.com.cn/smarttraveling/2022-06-29/2896204.shtml) | Wed Jun 29 2022 5:39 AM
-- 👹 [郭明錤：苹果5G基带芯片研发可能已失败 iPhone 15仍将用高通芯片](http://www.techweb.com.cn/world/2022-06-29/2896202.shtml) | Wed Jun 29 2022 4:59 AM
-- 🪜 [三星斥资3亿美元收购可折叠OLED屏幕公司Cynora](http://www.techweb.com.cn/world/2022-06-29/2896201.shtml) | Wed Jun 29 2022 4:32 AM
-- 🤭 [英特尔研究院宣布集成光电研究取得重大进展](http://www.techweb.com.cn/internet/2022-06-29/2896195.shtml) | Wed Jun 29 2022 3:39 AM
-- 🙉 [Arm推出一系列新芯片技术 以提升视频游戏质量并延长电池续航](http://www.techweb.com.cn/world/2022-06-29/2896194.shtml) | Wed Jun 29 2022 3:39 AM<!-- techweb-allnews:END -->
+- 👍 [阿里巴巴成立企业数智服务公司“瓴羊”](http://www.techweb.com.cn/internet/2022-06-29/2896210.shtml) | Wed Jun 29 2022 6:38 AM
+- 👹 [360数科反诈实验室：刷单、裸聊诈骗呈抬头趋势 占比达67.1%](http://www.techweb.com.cn/internet/2022-06-29/2896207.shtml) | Wed Jun 29 2022 6:35 AM
+- 🪜 [环球晶圆得州工厂尚未开建 但第一阶段产能已被预订8成](http://www.techweb.com.cn/world/2022-06-29/2896206.shtml) | Wed Jun 29 2022 6:28 AM
+- 🤭 [蔚来汽车：做空机构报告包含许多错误](http://www.techweb.com.cn/smarttraveling/2022-06-29/2896204.shtml) | Wed Jun 29 2022 5:39 AM
+- 🙉 [郭明錤：苹果5G基带芯片研发可能已失败 iPhone 15仍将用高通芯片](http://www.techweb.com.cn/world/2022-06-29/2896202.shtml) | Wed Jun 29 2022 4:59 AM<!-- techweb-allnews:END -->
 
 
