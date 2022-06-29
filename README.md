@@ -15,12 +15,23 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **目录**
 
-- [二丫讲梵](#%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5)
-- [阮一峰的网络日志](#%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)
-- [独立产品灵感周刊](#%E7%8B%AC%E7%AB%8B%E4%BA%A7%E5%93%81%E7%81%B5%E6%84%9F%E5%91%A8%E5%88%8A)
-- [独立开发变现周刊](#%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A)
-- [好工具周刊](#%E5%A5%BD%E5%B7%A5%E5%85%B7%E5%91%A8%E5%88%8A)
-- [techweb-allnews订阅](#techweb-allnews%E8%AE%A2%E9%98%85)
+- [博客周刊](#%E5%8D%9A%E5%AE%A2%E5%91%A8%E5%88%8A)
+  - [二丫讲梵](#%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5)
+  - [酷壳](#%E9%85%B7%E5%A3%B3)
+  - [阮一峰的网络日志](#%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)
+  - [独立产品灵感周刊](#%E7%8B%AC%E7%AB%8B%E4%BA%A7%E5%93%81%E7%81%B5%E6%84%9F%E5%91%A8%E5%88%8A)
+  - [独立开发变现周刊](#%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A)
+  - [好工具周刊](#%E5%A5%BD%E5%B7%A5%E5%85%B7%E5%91%A8%E5%88%8A)
+- [新闻热览](#%E6%96%B0%E9%97%BB%E7%83%AD%E8%A7%88)
+  - [v2ex-全站热点](#v2ex-%E5%85%A8%E7%AB%99%E7%83%AD%E7%82%B9)
+  - [掘金-全站热点](#%E6%8E%98%E9%87%91-%E5%85%A8%E7%AB%99%E7%83%AD%E7%82%B9)
+  - [少数派](#%E5%B0%91%E6%95%B0%E6%B4%BE)
+  - [知乎每日精选](#%E7%9F%A5%E4%B9%8E%E6%AF%8F%E6%97%A5%E7%B2%BE%E9%80%89)
+  - [TechWeb-全站精华](#techweb-%E5%85%A8%E7%AB%99%E7%B2%BE%E5%8D%8E)
+  - [TechWeb-每日热点](#techweb-%E6%AF%8F%E6%97%A5%E7%83%AD%E7%82%B9)
+- [播客影视](#%E6%92%AD%E5%AE%A2%E5%BD%B1%E8%A7%86)
+  - [坏蛋调频](#%E5%9D%8F%E8%9B%8B%E8%B0%83%E9%A2%91)
+  - [开源面对面](#%E5%BC%80%E6%BA%90%E9%9D%A2%E5%AF%B9%E9%9D%A2)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
