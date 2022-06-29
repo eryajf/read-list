@@ -113,10 +113,7 @@ The post &lt;a href=&quot;https://coolshell.cn/articles/21672.html&quot;&gt;我�
 <!-- DecoHack:START -->
 - 🦣 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | Mon Jun 27 2022 12:14 AM
 - 👺 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | Mon Jun 20 2022 1:05 AM
--  [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | Tue Jun 14 2022 12:47 AM
-- 👺 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | Mon Jun 20 2022 1:05 AM
--  [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | Tue Jun 14 2022 12:47 AM
-<!-- DecoHack:END -->
+-  [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | Tue Jun 14 2022 12:47 AM<!-- DecoHack:END -->
 
 ### 独立开发变现周刊
 
