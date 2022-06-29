@@ -131,7 +131,27 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [copilot 最近经常不能提示代码，有相同情况吗？](https://www.v2ex.com/t/863056#reply0) | Wed Jun 29 2022 3:33 PM 
+- 🥸 [iconfont 私有化](https://www.v2ex.com/t/863059#reply0) | Wed Jun 29 2022 4:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;抱歉，私有化这个有点标题党，实在想不到叫啥了。。 &lt;/p&gt;
+&lt;p&gt;仓库 &lt;a href=&quot;https://github.com/xd199153/react-iconfont-cli&quot; rel=&quot;nofollow&quot;&gt;react-iconfont-cli&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;由于总所周知的原因，iconfont 自建项目已经不再能上传新的 svg 图标，所以我做了两件事:&lt;/p&gt;
+&lt;p&gt;1 、把已有的图标下载保存为 svg 文件&lt;br/&gt;
+2 、把从线上地址读取 symbol 改为从本地文件夹读取 svg 文件&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;使用说明&lt;/h2&gt;
+&lt;p&gt;如果你不是&lt;code&gt;react-iconfont-cli&lt;/code&gt;的用户，请先阅读下面的原始文档&lt;/p&gt;
+&lt;p&gt;1 、clone 代码并&lt;code&gt;yarn&lt;/code&gt;&lt;br/&gt;
+2 、修改配置文件 &lt;code&gt;./scripts/config/demo-ts.json&lt;/code&gt; 配置自己的&lt;code&gt;symbol_url&lt;/code&gt;&lt;br/&gt;
+3 、执行 &lt;code&gt;./scripts/&lt;a href=&quot;http://download-svg.sh&quot; rel=&quot;nofollow&quot;&gt;download-svg.sh&lt;/a&gt;&lt;/code&gt; ，把图标下载到本地&lt;br/&gt;
+4 、如果你有需要新增的 svg 文件，可以直接拷贝到 &lt;code&gt;./snapshots/demo-svg&lt;/code&gt; 文件夹内&lt;br/&gt;
+5 、执行 &lt;code&gt;./scripts/&lt;a href=&quot;http://update-snapshot.sh&quot; rel=&quot;nofollow&quot;&gt;update-snapshot.sh&lt;/a&gt;&lt;/code&gt; 生成 react 组件文件&lt;br/&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [copilot 最近经常不能提示代码，有相同情况吗？](https://www.v2ex.com/t/863056#reply2) | Wed Jun 29 2022 3:33 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;vscode 里查看 output, 提示&lt;br/&gt;
@@ -149,7 +169,7 @@
 	 
     </details> 
 
-- 🤗 [在 Windows 设置使用 Caps Lock 切换输入法中英文（PowerToys）](https://www.v2ex.com/t/863055#reply1) | Wed Jun 29 2022 3:32 PM 
+- 🎭 [在 Windows 设置使用 Caps Lock 切换输入法中英文（PowerToys）](https://www.v2ex.com/t/863055#reply3) | Wed Jun 29 2022 3:32 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;本来是 macOS 下面的习惯，两个系统一起用人有点裂开。我想要实现 CapsLock 切换输入法语言，Shift+CapsLock 切换大小写锁定，方法是把 CapsLock 用“重新映射键”改成输入法里的切换中英文快捷键，然后用“重新映射快捷键”把 Shift+切换中英文快捷键（而不是 Shift+CapsLock ）映射成 Shift+CapsLock 。&lt;/p&gt;
@@ -160,7 +180,7 @@
 	 
     </details> 
 
-- 🎭 [VSCode 有仿 JB IntelliJ 的（界面）快捷键插件吗？](https://www.v2ex.com/t/863045#reply2) | Wed Jun 29 2022 2:35 PM 
+- 🥷 [VSCode 有仿 JB IntelliJ 的（界面）快捷键插件吗？](https://www.v2ex.com/t/863045#reply2) | Wed Jun 29 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;喜欢 JetBrain Intellij 系的 IDE 界面和快捷键：&lt;/p&gt;
@@ -174,20 +194,10 @@
 	 
     </details> 
 
-- 🥷 [泼于练手，求推荐相对比较全的产品原型平台](https://www.v2ex.com/t/863042#reply2) | Wed Jun 29 2022 2:11 PM 
+- 🐵 [泼于练手，求推荐相对比较全的产品原型平台](https://www.v2ex.com/t/863042#reply2) | Wed Jun 29 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;自己想做点什么总是想不到，就想看看有没有那种成型的产品原型，跟着产品原型撸，好像比较快，也不用纠结样式布局...&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [v 友大佬们急问！ wordpress 加速用 CDN 还是 OSS 镜像回源好？](https://www.v2ex.com/t/863014#reply3) | Wed Jun 29 2022 11:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;一般来说业界用哪种方案啊，   &lt;/p&gt;
-&lt;p&gt;有没有什么完整的配置方案的文档可以参考啊？   &lt;/p&gt;
-&lt;p&gt;还有就是支持配置 aliyun CDN 的 wordpress 加速 插件用哪个比较好？&lt;/p&gt;
 
 	 
     </details> 
