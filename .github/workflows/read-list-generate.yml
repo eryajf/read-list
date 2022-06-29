@@ -29,7 +29,7 @@ jobs:
       - name: Pull in 阮一峰 posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 3
+          max_post_count: 5
           committer_username: "eryajf"
           committer_email: "eryajf@163.com"
           retry_count: 2
@@ -40,7 +40,7 @@ jobs:
       - name: Pull in DecoHack posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 3
+          max_post_count: 5
           committer_username: "eryajf"
           committer_email: "eryajf@163.com"
           retry_count: 2
@@ -51,7 +51,7 @@ jobs:
       - name: Pull in easyindie posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 3
+          max_post_count: 5
           committer_username: "eryajf"
           committer_email: "eryajf@163.com"
           retry_count: 2
