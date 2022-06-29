@@ -131,14 +131,28 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问小米欧版支持应用双开吗？](https://www.v2ex.com/t/863067#reply1) | Wed Jun 29 2022 6:04 PM 
+- 🥸 [Ubuntu 如何设置快捷键切换 App](https://www.v2ex.com/t/863070#reply0) | Wed Jun 29 2022 7:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;比如 我设置 Alt+c 切换到 chrome&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;当 chrome 没有启动则启动它&lt;/li&gt;
+&lt;li&gt;当 chrome 已经启动，但没有在最顶层窗口，则激活它到最顶层窗口&lt;/li&gt;
+&lt;li&gt;当 chrome 已经启动，并且在最顶层窗口，则将它隐藏或者最小化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其实也就 MacOS 的应用切换方式&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [请问小米欧版支持应用双开吗？](https://www.v2ex.com/t/863067#reply1) | Wed Jun 29 2022 6:04 PM 
     <details><summary>展开描述 ...</summary> 
     
 	手持红米 k40 ，好多年没折腾 rom 了，来问问&lt;br /&gt;&lt;br /&gt;系统语言可以切西班牙语嘛&lt;br /&gt;&lt;br /&gt;另外支持应用双开嘛
 	 
     </details> 
 
-- 🤗 [iconfont 私有化](https://www.v2ex.com/t/863059#reply0) | Wed Jun 29 2022 4:01 PM 
+- 🎭 [iconfont 私有化](https://www.v2ex.com/t/863059#reply0) | Wed Jun 29 2022 4:01 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;抱歉，私有化这个有点标题党，实在想不到叫啥了。。 &lt;/p&gt;
@@ -158,7 +172,7 @@
 	 
     </details> 
 
-- 🎭 [copilot 最近经常不能提示代码，有相同情况吗？](https://www.v2ex.com/t/863056#reply2) | Wed Jun 29 2022 3:33 PM 
+- 🥷 [copilot 最近经常不能提示代码，有相同情况吗？](https://www.v2ex.com/t/863056#reply2) | Wed Jun 29 2022 3:33 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;vscode 里查看 output, 提示&lt;br/&gt;
@@ -176,27 +190,13 @@
 	 
     </details> 
 
-- 🥷 [在 Windows 设置使用 Caps Lock 切换输入法中英文（PowerToys）](https://www.v2ex.com/t/863055#reply3) | Wed Jun 29 2022 3:32 PM 
+- 🐵 [在 Windows 设置使用 Caps Lock 切换输入法中英文（PowerToys）](https://www.v2ex.com/t/863055#reply3) | Wed Jun 29 2022 3:32 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;本来是 macOS 下面的习惯，两个系统一起用人有点裂开。我想要实现 CapsLock 切换输入法语言，Shift+CapsLock 切换大小写锁定，方法是把 CapsLock 用“重新映射键”改成输入法里的切换中英文快捷键，然后用“重新映射快捷键”把 Shift+切换中英文快捷键（而不是 Shift+CapsLock ）映射成 Shift+CapsLock 。&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;img1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/EnBehNz.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;img2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/MaYMGXk.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;因为一开始没有弄懂 PowerToys 的规则所以 Shift+CapsLock 一直实现不了。。。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [VSCode 有仿 JB IntelliJ 的（界面）快捷键插件吗？](https://www.v2ex.com/t/863045#reply3) | Wed Jun 29 2022 2:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;喜欢 JetBrain Intellij 系的 IDE 界面和快捷键：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;统一：dock panel 会显示 number ，可以用 &lt;code&gt;alt+$no&lt;/code&gt; toggle panel ，和按下&lt;code&gt;alt&lt;/code&gt;就显示 menu shortcut key 的体验统一。&lt;/li&gt;
-&lt;li&gt;以代码为主：&lt;code&gt;ctrl+shift+f12&lt;/code&gt;突出 Editor ，收起其他面板，&lt;code&gt;Esc&lt;/code&gt;会将 Focus 从其他面板收回到 Editor 。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;VSCode 有个&lt;a href=&quot;https://github.com/kasecato/vscode-intellij-idea-keybindings&quot; rel=&quot;nofollow&quot;&gt;IntelliJ IDEA Key Bindings&lt;/a&gt;插件，但功能很弱，不完整，例如&lt;code&gt;ctrl+shift+f12&lt;/code&gt;应该是 &lt;code&gt;Toggle maximizing editor&lt;/code&gt;，在 VSCode 里却只有 &lt;code&gt;workbench.action.maximizeEditor&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;想知道有没有更好的快捷键（模拟）插件，或者有没有人有兴趣写一个这样的插件。&lt;/p&gt;
 
 	 
     </details> 
