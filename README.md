@@ -131,64 +131,64 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [代码简洁之美](https://www.v2ex.com/t/862832#reply3) | Wed Jun 29 2022 1:31 AM 
+- 🥸 [怎么才能用自带的 Terminal 终端， rz 上传命令时，会唤起文件选择器的窗口](https://www.v2ex.com/t/862889#reply3) | Wed Jun 29 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;如图，一起来欣赏吧&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;内核的 strcmp&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.bmp.ovh/imgs/2022/06/29/6d1abe7dc8809c9d.png&quot;/&gt;&lt;/p&gt;
+	或者是说误解，不支持？
+	 
+    </details> 
+
+- 🤗 [C++动态内存管理问题求解](https://www.v2ex.com/t/862885#reply5) | Wed Jun 29 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;项目上需要处理若干组，每组 500M 左右的数据，数据组成是大概可以理解为 3 个 std::vector&amp;lt;float&amp;gt;，一个 std::vector&amp;lt;structA&amp;gt;（ structA 为自定义结构体），每处理一组数据就需要释放掉。&lt;/p&gt;
+&lt;p&gt;数据处理大概包括：插值，平移等。&lt;/p&gt;
+&lt;p&gt;由于载入内存比较大，导致处理的时间越来越长，内存越来越碎片化。&lt;/p&gt;
+&lt;p&gt;找了几个内存池的解决方案，好像不是很好解决我的问题。比如 boost::pool ，std::allocator ，使用起来都比较麻烦，比如 boost ，很多释放都是静态的，allocator 的话，基本上需要重新造轮子。后面发现 c++17 添加了 pmr::monotonic buffer resource ，尝试 debug 几次之后，发现在现在的机器上一次只能分配 100M 的内存，200M 和 500M ，都会在运行的时候崩溃掉，应该是没有那么多的连续内存了，想问下大佬们，有什么推荐的解决方案（轮子）吗？&lt;/p&gt;
+&lt;p&gt;我期望中的解决方案其实与 pmr 的预期类似，就是我申请一块足够大的连续内存，让这块内存分配数据的存储空间，处理完后，直接将整块内存释放掉即可。如果没有联系的内存，也可以分配成几个 100M ，几个 50M ，几个 20M 这样子的，也会比完全碎片化的要快。&lt;/p&gt;
 
 	 
     </details> 
 
-- 🤗 [在 Cloudflare Workers 上部署 Hexo 网站](https://www.v2ex.com/t/862828#reply9) | Wed Jun 29 2022 1:17 AM 
+- 🎭 [vue-elementui 项目，请教 V 友们几个表单类的问题](https://www.v2ex.com/t/862884#reply0) | Wed Jun 29 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;&lt;a href=&quot;https://lxnchan.cn/cfworkers-webpages.html&quot; rel=&quot;nofollow&quot;&gt;https://lxnchan.cn/cfworkers-webpages.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;其实还挺方便的，大概等之后续不起服务器了我也会迁移到这上面吧。&lt;/p&gt;
+	&lt;p&gt;请教大家几个表单的新增编辑问题：
+表单结构是一个初始对象 A ，里面假设有 10 个 key ，这些数据是需要编辑和新增的。然后后端返回的数据是很多的，可能有 30 个 key ，想在编辑的时候把数据 set 进表单，比较简单的方法是 object.assign, 但是这样有个问题，就是我保存编辑的时候我不能直接去读表单数据，因为里面很多数据是不需要的，传给后端的话极大地增加了危险性，越少的数据越安全，甚至最好是仅传输改动的数据。
+我目前的的做法是写了个过滤的方法，循环遍历，把后端返回的数据赋值给了初始对象 A ， 但是感觉有点傻。
+也有优雅的写法，比如：&lpar;&lpar;{ name, sex }&rpar; =&amp;gt; &lpar;{ name, sex }&rpar;&rpar;&lpar;source&rpar;，这个如何改成一个通用函数。&lt;/p&gt;
+&lt;p&gt;然后新增和编辑用同一窗口的话展示的内容也是不一样的， 如何优雅地进行控制。&lt;/p&gt;
+&lt;p&gt;综上：请问表单这块怎么做，一定要系统化，组件化，模式化（相当于是自己公司框架类的东西），单单针对一个页面去做是没有任何意义的。&lt;/p&gt;
 
 	 
     </details> 
 
-- 🎭 [使用 Ubuntu22.04 编译 aosp 的问题，求助大佬](https://www.v2ex.com/t/862827#reply3) | Wed Jun 29 2022 1:13 AM 
+- 🥷 [阿里云 starter package 的 CDN 试用期英文界面下多 3 个月？](https://www.v2ex.com/t/862881#reply1) | Wed Jun 29 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;我在运行. build/&lt;a href=&quot;http://envsetup.sh&quot; rel=&quot;nofollow&quot;&gt;envsetup.sh&lt;/a&gt; &amp;amp;&amp;amp; lunch aosp_hotdog-userdebug &amp;amp;&amp;amp; mka bacon 后得到如下错误&lt;/p&gt;
-&lt;p&gt;FAILED: ninja: &#39;Android.bp&#39;, needed by &#39;out/soong/.bootstrap/build.ninja&#39;, missing and no known rule to make it&lt;/p&gt;
-&lt;p&gt;谷歌之后发现并没有我这类似的错误&lt;/p&gt;
-&lt;p&gt;sudo apt-get install libx11-dev:i386 libreadline6-dev:i386 libgl1-mesa-dev g++-multilib
-sudo apt-get install -y git flex bison gperf build-essential libncurses5-dev:i386
-sudo apt-get install tofrodos python-markdown libxml2-utils xsltproc zlib1g-dev:i386
-sudo apt-get install git-core gnupg flex bison gperf build-essential
-sudo apt-get install zip curl zlib1g-dev gcc-multilib g++-multilib
-sudo apt-get install libc6-dev-i386
-sudo apt-get install lib32ncurses5-dev x11proto-core-dev libx11-dev
-sudo apt-get install libgl1-mesa-dev libxml2-utils xsltproc unzip m4
-sudo apt-get install lib32z-dev ccache
-sudo apt-get install libssl-dev
-sudo apt-get install libncurses5&lt;/p&gt;
-&lt;p&gt;环境依赖装了如上，jkd8 也装了，实在找不到问题所在了  求助大佬们&lt;/p&gt;
-
+	我发现阿里云国际版切换到英文下 CDN 试用会多至 6 个月&lt;br /&gt;而中文只有 3 个月&lt;br /&gt;&lt;br /&gt;这是区别对待还是翻译没更新？ 😄&lt;br /&gt;&lt;br /&gt;* &lt;a target=&quot;_blank&quot; href=&quot;https://www.alibabacloud.com/free&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.alibabacloud.com/free&lt;/a&gt;&lt;br /&gt;* &lt;a target=&quot;_blank&quot; href=&quot;https://www.alibabacloud.com/zh/free&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.alibabacloud.com/zh/free&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/hqrY54f&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/hqrY54f&lt;/a&gt; &lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/NJJLPRd&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/NJJLPRd&lt;/a&gt;
 	 
     </details> 
 
-- 🥷 [原来我已经不用浏览器的书签同步了](https://www.v2ex.com/t/862818#reply14) | Wed Jun 29 2022 12:03 AM 
+- 🐵 [JDK 在 Windows11 系统上运行创建`NUL:`文件报错，有哪位大佬知道是什么问题吗？](https://www.v2ex.com/t/862878#reply6) | Wed Jun 29 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;首先，不是要大家不使用浏览器的书签同步，只是分享一下我的经验。&lt;/p&gt;
-&lt;p&gt;以前，特别是 Google 还能在国内流畅访问时，非常依赖浏览器的书签同步。渐渐发现，其实累积了一堆无用数据，因为网址收藏了就是收藏了，而且很多都是一时冲动点了收藏。&lt;/p&gt;
-&lt;p&gt;后来由于 Google 不能访问，渐渐使用了“笔记”记录网址。把相关的网址记录到同一个笔记，即同一个事情、问题或主题。空下来时，消化该笔记，整理成 blog ，相关网址也记录进去，形成自己的 wiki ，或者叫知识库。&lt;/p&gt;
-&lt;p&gt;blog ，除了分享给别人，还能自己搜索。空下来时，可以浏览一下笔记，解决一下相关问题，再形成 blog 。&lt;/p&gt;
-&lt;p&gt;再回过头来，已经很少收藏书签了，也免去了整理书签、同步书签的烦恼。&lt;/p&gt;
+	&lt;p&gt;JDK 在 Windows11 系统上运行创建&lt;code&gt;NUL:&lt;/code&gt;文件报错&lt;/p&gt;
+&lt;p&gt;在 Windows10 系统上运行正常&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;public class Main {
 
-	 
-    </details> 
+    public static void main&lpar;String[] args&rpar; throws FileNotFoundException {
+        FileOutputStream fos = new FileOutputStream&lpar;&quot;NUL:&quot;&rpar;;
 
-- 🐵 [VIM 9 Released](https://www.v2ex.com/t/862816#reply7) | Tue Jun 28 2022 7:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;&lt;a href=&quot;https://www.vim.org/vim90.php&quot; rel=&quot;nofollow&quot;&gt;https://www.vim.org/vim90.php&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;凭直觉估计，Vim9 Script 只会把老用户往 neovim/emacs/vscode 赶。 &lt;/p&gt;
-&lt;p&gt;我自己这些年累计下来写了不少于 5k LOC 的 vimscript ，新的 vim9script 除了性能，似乎并没解决什么痛点，而却要再去重新熟悉一门配置专用的语言。&lt;/p&gt;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Windows11 上的报错信息&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;Exception in thread &quot;main&quot; java.io.FileNotFoundException: Invalid file path
+	at java.base/java.io.FileOutputStream.&amp;lt;init&amp;gt;&lpar;FileOutputStream.java:229&rpar;
+	at java.base/java.io.FileOutputStream.&amp;lt;init&amp;gt;&lpar;FileOutputStream.java:123&rpar;
+	at com.company.Main.main&lpar;Main.java:9&rpar;
+&lt;/code&gt;&lt;/pre&gt;
 
 	 
     </details> 
