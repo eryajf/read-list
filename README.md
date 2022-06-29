@@ -192,29 +192,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Dev Better技术沙龙精彩回顾｜WEB研发效能及新技术实践](https://juejin.cn/post/7114580546763620383) | Wed Jun 29 2022 8:46 AM 
+- 🤗 [如何贡献复杂的项目](https://juejin.cn/post/7114595171467001869) | Wed Jun 29 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-    6月25日，由字节跳动基础架构开发者服务团队✖️华泰证券前端技术团队合作的字节跳动Dev Better系列技术沙龙｜WEB研发效能及新技术实践 直播活动成功在线上举办。 
+    ​Iteration 12[^1] 从 4/23 开始到 5/6 结束，为期两周。这个周期成功走出了自己的舒适圈，探索了不少之前自己从未了解的东西，比如 tree-sitter，parser，hdfs 
     </details> 
 
-- 🎡 [纯 CSS，Vue，React 实现轮播图， 帮你全部搞定](https://juejin.cn/post/7114573566061854751) | Wed Jun 29 2022 8:20 AM 
+- 🎡 [【运维脚手架】之docker](https://juejin.cn/post/7114590363335000071) | Wed Jun 29 2022 9:25 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第29天，点击查看活动详情 之前我们写了一篇使用 CSS 实现的，现在我们用 React 框架来实现一波。 React 最开始传入图 
+    以前有句玩笑话，JAVA是跨平台的，一次编写，到处编译！诚然，java的程序在部署方面是比较复杂和难以调试的，如果是多地部署要考虑的东西很多，而打包成一个镜像，连操作系统都是完全统一的，这样在99%的 
     </details> 
 
-- 🕯 [Postman使用AES加密并更换请求body](https://juejin.cn/post/7114543649181925406) | Wed Jun 29 2022 6:23 AM 
+- 🕯 [Iconfont 还是不能上传，如何维护你的 Icon？](https://juejin.cn/post/7114589614186168350) | Wed Jun 29 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    Postman需要修改请求体，然后再传给后端，这里是在前置脚本中，做了AES加密并修改为jsonbody发给后端 
+    大多情况下，我们不必上传自己的图标，只需要在 iconfont.cn 便捷的搜索，就可以将图标加入到自己的项目图标库中，但最近工作中却遇到了比较严重的问题。 
     </details> 
 
-- 🚀 [【保姆级】Cucumber Test 流程](https://juejin.cn/post/7114542869951545357) | Wed Jun 29 2022 6:20 AM 
+- 🚀 [消息队列 RabbitMQ 遇上可观测--业务链路可视化](https://juejin.cn/post/7114588433255202829) | Wed Jun 29 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第21天，点击查看活动详情 Cucumber简介 Cucumber 是一个能够理解用普通语言 描述的测试用例的行为驱动开发（BDD） 
+    本篇文章主要介绍阿里云消息队列 RabbitMQ 版的可观测功能。RabbitMQ 的可观测能力相对开源有了全面的加强，为业务链路保驾护航。 
     </details> 
 
-- 💪 [postgresql 数据库 系统表](https://juejin.cn/post/7114540724833484831) | Wed Jun 29 2022 6:12 AM 
+- 💪 [把「Go静态分析」放进你的工具箱](https://juejin.cn/post/7114587577084018695) | Wed Jun 29 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼亅活动，一起开启掘金创作之路。 postgresql 数据库 系统表 @[TOC] 版本11.5 系统表是关系型数据库存放模式元数据的地方，比如表和列的信息，以及内部统计信息等。 
+    本文期望扩充静态分析的定义，掌握静态分析的原理，基于特定场景，可以组装属于自己的工具，提升开发效率，把「Go静态分析」」放进你的工具箱。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
