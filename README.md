@@ -213,30 +213,30 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [遵循医嘱吃药不是一件小事，Apple 为了这件事专门做了一个应用](https://sspai.com/post/74030) | Tue Jun 28 2022 9:30 AM
-    <details><summary>展开描述 ...</summary>
-    WWDC22 上，Apple 推出了一款包含了服药提醒以及相互作用预警的 App。Apple 为什么要专门给吃药这件事准备一个 App？看完这篇文章你就懂了。&lt;a href=&quot;https://sspai.com/post/74030&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 👹 [遵循医嘱吃药不是一件小事，Apple 为了这件事专门做了一个应用](https://sspai.com/post/74030) | Tue Jun 28 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    WWDC22 上，Apple 推出了一款包含了服药提醒以及相互作用预警的 App。Apple 为什么要专门给吃药这件事准备一个 App？看完这篇文章你就懂了。&lt;a href=&quot;https://sspai.com/post/74030&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🐘 [咖啡地图 | 巴拿马的瑰夏故事](https://sspai.com/post/74024) | Tue Jun 28 2022 8:04 AM
-    <details><summary>展开描述 ...</summary>
-    写完前面4篇耗费了我太多的精神。不过总算到了我最想分享的内容之一：瑰夏瑰夏，尤其是巴拿马的瑰夏，是目前市面上最贵的豆子（尤其是竞标级）。为什么瑰夏这么贵？瑰夏是如何发展起来的？这篇文章让你彻底明白。瑰 ...&lt;a href=&quot;https://sspai.com/post/74024&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🐘 [咖啡地图 | 巴拿马的瑰夏故事](https://sspai.com/post/74024) | Tue Jun 28 2022 8:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    写完前面4篇耗费了我太多的精神。不过总算到了我最想分享的内容之一：瑰夏瑰夏，尤其是巴拿马的瑰夏，是目前市面上最贵的豆子（尤其是竞标级）。为什么瑰夏这么贵？瑰夏是如何发展起来的？这篇文章让你彻底明白。瑰 ...&lt;a href=&quot;https://sspai.com/post/74024&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🤭 [Fantastical 的有力竞争者，老牌日历应用效率再升级：Calendars](https://sspai.com/post/73991) | Tue Jun 28 2022 6:30 AM
-    <details><summary>展开描述 ...</summary>
-    Calendars 并不是一款简单的从移动端移植到桌面端上的产品，补齐了Apple 平台「最后一块拼图」后的 Calendars，非常适合作为 Apple 全家桶用户的日程和待办任务管理工具。&lt;a href=&quot;https://sspai.com/post/73991&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🤭 [Fantastical 的有力竞争者，老牌日历应用效率再升级：Calendars](https://sspai.com/post/73991) | Tue Jun 28 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    Calendars 并不是一款简单的从移动端移植到桌面端上的产品，补齐了Apple 平台「最后一块拼图」后的 Calendars，非常适合作为 Apple 全家桶用户的日程和待办任务管理工具。&lt;a href=&quot;https://sspai.com/post/73991&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🥸 [一台 17 年前的 iPod，我是如何将它改成「透明探索版」的？](https://sspai.com/post/74022) | Tue Jun 28 2022 2:51 AM
-    <details><summary>展开描述 ...</summary>
-    更轻、更快、更强。&lt;a href=&quot;https://sspai.com/post/74022&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🥸 [一台 17 年前的 iPod，我是如何将它改成「透明探索版」的？](https://sspai.com/post/74022) | Tue Jun 28 2022 2:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    更轻、更快、更强。&lt;a href=&quot;https://sspai.com/post/74022&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🙉 [派早报：中国广电 5G 已上线，腾讯 QQ 回应大批账号被盗等](https://sspai.com/post/74028) | Tue Jun 28 2022 1:01 AM
-    <details><summary>展开描述 ...</summary>
-    13 英寸 M2 芯片基础版本 MacBook Pro SSD 速度比 M1 版本慢，Google 正式宣布 Hangouts 被取代等。&lt;a href=&quot;https://sspai.com/post/74028&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🙉 [派早报：中国广电 5G 已上线，腾讯 QQ 回应大批账号被盗等](https://sspai.com/post/74028) | Tue Jun 28 2022 1:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    13 英寸 M2 芯片基础版本 MacBook Pro SSD 速度比 M1 版本慢，Google 正式宣布 Hangouts 被取代等。&lt;a href=&quot;https://sspai.com/post/74028&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 <!-- sspai:END -->
 
 ### 知乎每日精选
