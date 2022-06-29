@@ -193,29 +193,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [提前感受元宇宙入口-Pico neo 3 一月上手体验](https://juejin.cn/entry/7114493544504492040) | Wed Jun 29 2022 3:08 AM 
+- 🤗 [2022 年中纪](https://juejin.cn/post/7114500277771698189) | Wed Jun 29 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    提前感受元宇宙入口-Pico neo 3 一月上手体验 好奇始于元宇宙 一直对科技产品很感兴趣，最近metaverse的概念比较火就对VR相关的一些东西比较上心。 VR产品，在近几年的发展速度很快，之 
+    本文总结了鄙人在上半年生活、工作等各方面的收获和感悟，发自肺腑，陈词恳切，如果对你有一点点的触动，鄙人不胜荣幸，如果喜欢烦请点赞关注，多谢支持 
     </details> 
 
-- 🎡 [行为序列模型在抖音风控中的应用](https://juejin.cn/post/7114489373541793806) | Wed Jun 29 2022 2:54 AM 
+- 🎡 [Mybatis搞两下（sqlsession，动态代理）](https://juejin.cn/post/7114481350429638693) | Wed Jun 29 2022 2:21 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 行为序列模型相对于传统机器学习的主要优势在于不依赖行为画像特征，无需强专家经验挖掘高效特征来提升模型性能，缩短了特征工程的周期，能快速响应黑产攻击。 
+    Mybatis搞两下（sqlsession，动态代理） 本文已参与「新人创作礼」活动，一起开启掘金创作之路。 本文主要介绍SqlSession的创建流程和Mybatis的动态代理，其中动态代理实操了源 
     </details> 
 
-- 🕯 [Jetpack Compose - AnimationSpec &lpar;七&rpar;](https://juejin.cn/post/7114489007538438158) | Wed Jun 29 2022 2:52 AM 
+- 🕯 [【C++】“引用“的特性与使用原则](https://juejin.cn/post/7114477611635441700) | Wed Jun 29 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    回弹效果的简单实现 本文需要之前JC教程的 第六课作为基础，没看的 先看下之前的第六课 可以参考如下代码： 先看下效果吧 这里的spring 是弹簧的意思 我们可以看下 这里spring的函数 返回的 
+    C++引用最基本的特性在于——不能将读写权限放大。本文已参与「新人创作礼」活动，一起开启掘金创作之路。 
     </details> 
 
-- 🚀 [基于字节码的统一异常上报实践](https://juejin.cn/post/7114487915849187365) | Wed Jun 29 2022 2:47 AM 
+- 🚀 [每日一包 - pyecharts结合flask框架](https://juejin.cn/post/7114474794183032868) | Wed Jun 29 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-    基于字节码的统一异常上报实践 一、前言 在我们的日常工作中，总会出现各种各样的“错误”和突发的“异常”。无论我们做了多少准备，多少测试，这些异常总会在某个时间点出现，如果处理不当或是不及时，往往还会导 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第30天，点击查看活动详情 介绍 本文主要介绍如何在Flask框架中使用pyecharts，关于Flask框架使用这里不做具体说明~ 
     </details> 
 
-- 💪 [令人愉快的 Nuxt3 教程 &lpar;一&rpar;: 应用的创建与配置](https://juejin.cn/post/7114476679598178312) | Wed Jun 29 2022 2:03 AM 
+- 💪 [【SpringBoot】如何用java生成静态html](https://juejin.cn/post/7114473059109011493) | Wed Jun 29 2022 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-    令人愉快的 Nuxt3 教程 &lpar;一&rpar;: 应用的创建与配置 令人愉快的 Nuxt3 教程 &lpar;一&rpar;: 应用的创建与配置 前言 Nuxt 是什么? 创建 Nuxt3 应用 你需要的亿点点配置 0.eslin 
+    静态页面，无接口交互 数据实时性不高且体量小的网站可采用生成静态html的形式 数据提前渲染至html内 
     </details> 
 <!-- juejin:END -->
 ### 少数派
