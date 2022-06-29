@@ -673,11 +673,69 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
-- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
--  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
-- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
-- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+- 🥸 [原来我已经不用浏览器的书签同步了](https://www.v2ex.com/t/862818#reply4) | Wed Jun 29 2022 12:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;首先，不是要大家不使用浏览器的书签同步，只是分享一下我的经验。&lt;/p&gt;
+&lt;p&gt;以前，特别是 Google 还能在国内流畅访问时，非常依赖浏览器的书签同步。渐渐发现，其实累积了一堆无用数据，因为网址收藏了就是收藏了，而且很多都是一时冲动点了收藏。&lt;/p&gt;
+&lt;p&gt;后来由于 Google 不能访问，渐渐使用了“笔记”记录网址。把相关的网址记录到同一个笔记，即同一个事情、问题或主题。空下来时，消化该笔记，整理成 blog ，相关网址也记录进去，形成自己的 wiki ，或者叫知识库。&lt;/p&gt;
+&lt;p&gt;blog ，除了分享给别人，还能自己搜索。空下来时，可以浏览一下笔记，解决一下相关问题，再形成 blog 。&lt;/p&gt;
+&lt;p&gt;再回过头来，已经很少收藏书签了，也免去了整理书签、同步书签的烦恼。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [VIM 9 Released](https://www.v2ex.com/t/862816#reply6) | Tue Jun 28 2022 7:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;&lt;a href=&quot;https://www.vim.org/vim90.php&quot; rel=&quot;nofollow&quot;&gt;https://www.vim.org/vim90.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;凭直觉估计，Vim9 Script 只会把老用户往 neovim/emacs/vscode 赶。 &lt;/p&gt;
+&lt;p&gt;我自己这些年累计下来写了不少于 5k LOC 的 vimscript ，新的 vim9script 除了性能，似乎并没解决什么痛点，而却要再去重新熟悉一门配置专用的语言。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [求解， Java 实现的 CMS 开源项目或者方案](https://www.v2ex.com/t/862814#reply5) | Tue Jun 28 2022 5:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;最近接手了一个非常老旧的门户网站改版项目&lt;/p&gt;
+&lt;p&gt;甲方诉求是把门户网站全部改了，要好看。&lt;/p&gt;
+&lt;p&gt;旧项目使用 Oracle Webcenter Sites 构建，个人觉得它非常的重，并且国内很少相关的视频教程，想学就得啃官方的文档。刚刚说了它很重，功能真的很多，各种缓存设置、集群、角色权限、工作流、界面配置等等一大堆。（看了几天文档我人麻了，文档都是各种文档）&lt;/p&gt;
+&lt;p&gt;现在我考虑的问题是&lt;/p&gt;
+&lt;h3&gt;继续使用 Webcenter sites ？&lt;/h3&gt;
+&lt;p&gt;在他们很多年没有动过的 jsp 、css 里面改。它的各种 jsp 写法、数据获取都要遵循它的规则。太复杂了，说不定还要改系统原本的数据模型。&lt;/p&gt;
+&lt;p&gt;选择这个方案的难点就是，它真的很难，很繁琐，写着我很难受。没有源码，实现一些自己想要的效果也很困难。&lt;/p&gt;
+&lt;h3&gt;选择自己写一个 CMS&lt;/h3&gt;
+&lt;p&gt;自己写的话，肯定是选择前后端分离的模式了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;前后端带来的 seo 问题，想选择 next.js 解决，会可靠吗（公司的技术栈都是 rect 和 Java ）&lt;/li&gt;
+&lt;li&gt;前端的富文本编辑器选择哪个？（自己写一个不现实）&lt;/li&gt;
+&lt;li&gt;希望实现 &lt;strong&gt;前端&lt;/strong&gt;配置一个数据模型，&lt;strong&gt;后端&lt;/strong&gt;动态生成对应的数据库表、Java 类，这个操作希望是运行时就完成，不需要重启的。（总之就是实现前端设计一个数据模型，然后设计完之后可以增删改查）&lt;/li&gt;
+&lt;li&gt;数据从 webcenter sites 迁移过来也很麻烦。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;说实话，可能自己写一个会比第一种更加难，但是想多一些难度，锻炼一下自己&lt;/p&gt;
+&lt;p&gt;大家有什么类似的开源项目或者代码的实现方案推荐吗？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [请教关于 SSR 的问题。SSR 有可能隐藏 AngularJS 入口文件吗？](https://www.v2ex.com/t/862808#reply2) | Tue Jun 28 2022 4:45 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;有一个 AngularJS&lpar;注意是 JS ，也就是 1.x 版本&rpar;写的老项目，现在有一个新的需求。出于安全考虑，要求登录之前浏览器不能获取到任何登录页面以外的内容。目前项目是用 Gulp 打包，所有的 template 都被打包在 Angular 的入口文件里，等于获取了这个 JS 文件就能得到绝大部分页面内容了。&lt;/p&gt;
+&lt;p&gt;考虑了之后想说 SSR 能不能解决这个问题，不过看了 Express 和其它一些解决方案，可能主要都是针对 SEO 设计的，好像并不能把 Angular 的逻辑全放在服务端，让浏览器只拿到 HTML 。&lt;/p&gt;
+&lt;p&gt;我前端完全小白，想请问大家有没有什么建议？ SSR 这个思路能行吗？有没有其他推荐的方法？在这提前谢过&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [想问一个初级的分布式事务问题](https://www.v2ex.com/t/862806#reply1) | Tue Jun 28 2022 3:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;今天看了一下公司的微服务调用，他们是这样实现的，从 A 远程调用 B 的接口，然后 B 远程调用 C 的接口...，如果 C 出错回滚会返回错误结果，然后 B 也回滚，最后到 A 那层就返回执行业务失败，感觉是一条链式嵌套的思想，除了在代码上业务不直观，想问一下大家这样会不会有什么问题？有没有什么更好的办法，今天刚看了 TCC 模型，那个可以吗？&lt;/p&gt;
+
+	 
+    </details> 
 <!-- v2ex:END -->
 
 ### 掘金-全站热点
