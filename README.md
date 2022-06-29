@@ -263,10 +263,10 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [理想汽车：拟增发最高20亿美元美国存托股份](http://www.techweb.com.cn/it/2022-06-29/2896183.shtml) | Wed Jun 29 2022 3:13 AM
-- 👹 [亚马逊云科技宣布成立量子网络中心](http://www.techweb.com.cn/it/2022-06-29/2896181.shtml) | Wed Jun 29 2022 3:05 AM
-- 🪜 [继特斯拉后 福特与澳洲矿商Liontown签署锂供应协议](http://www.techweb.com.cn/world/2022-06-29/2896180.shtml) | Wed Jun 29 2022 3:04 AM
-- 🤭 [蔚来遭做空机构质疑利用蔚能虚增营收和利润](http://www.techweb.com.cn/it/2022-06-29/2896179.shtml) | Wed Jun 29 2022 3:01 AM
-- 🙉 [特斯拉关闭Autopilot团队一办公室 并裁员约200人](http://www.techweb.com.cn/world/2022-06-29/2896164.shtml) | Wed Jun 29 2022 2:39 AM<!-- techweb-allnews:END -->
+- 👍 [英特尔研究院宣布集成光电研究取得重大进展](http://www.techweb.com.cn/internet/2022-06-29/2896195.shtml) | Wed Jun 29 2022 3:39 AM
+- 👹 [Arm推出一系列新芯片技术 以提升视频游戏质量并延长电池续航](http://www.techweb.com.cn/world/2022-06-29/2896194.shtml) | Wed Jun 29 2022 3:39 AM
+- 🪜 [再不开学 文具公司撑不住了](http://www.techweb.com.cn/viewpoint/2022-06-29/2896193.shtml) | Wed Jun 29 2022 3:38 AM
+- 🤭 [投芯片 这届投资人还挺“卑微”的](http://www.techweb.com.cn/viewpoint/2022-06-29/2896190.shtml) | Wed Jun 29 2022 3:32 AM
+- 🙉 [理想汽车：拟增发最高20亿美元美国存托股份](http://www.techweb.com.cn/it/2022-06-29/2896183.shtml) | Wed Jun 29 2022 3:13 AM<!-- techweb-allnews:END -->
 
 
