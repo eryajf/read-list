@@ -265,10 +265,10 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [华强北最后的幸存者，是一家卖数据线的公司](http://www.techweb.com.cn/viewpoint/2022-06-28/2896084.shtml) | Tue Jun 28 2022 9:45 AM
-- 👹 [苹果M2 Pro芯片将采用3nm制程工艺 已向台积电预订产能](http://www.techweb.com.cn/world/2022-06-28/2896081.shtml) | Tue Jun 28 2022 9:36 AM
-- 🪜 [继德国后 欧盟2035年的汽油禁令再遭到五个国家的反对](http://www.techweb.com.cn/world/2022-06-28/2896078.shtml) | Tue Jun 28 2022 9:27 AM
-- 🤭 [夏普以近3亿美元拿下关键LCD工厂SDP所有权](http://www.techweb.com.cn/world/2022-06-28/2896073.shtml) | Tue Jun 28 2022 8:51 AM
-- 🙉 [特斯拉柏林超级工厂7月4日开始三班倒生产Model Y](http://www.techweb.com.cn/world/2022-06-28/2896071.shtml) | Tue Jun 28 2022 8:36 AM<!-- techweb-allnews:END -->
+- 👍 [巨人网络间接参股子公司拟每股21美元出售Playtika总股本25.73%股份](http://www.techweb.com.cn/it/2022-06-29/2896116.shtml) | Wed Jun 29 2022 1:20 AM
+- 👹 [华强北最后的幸存者，是一家卖数据线的公司](http://www.techweb.com.cn/viewpoint/2022-06-28/2896084.shtml) | Tue Jun 28 2022 9:45 AM
+- 🪜 [苹果M2 Pro芯片将采用3nm制程工艺 已向台积电预订产能](http://www.techweb.com.cn/world/2022-06-28/2896081.shtml) | Tue Jun 28 2022 9:36 AM
+- 🤭 [继德国后 欧盟2035年的汽油禁令再遭到五个国家的反对](http://www.techweb.com.cn/world/2022-06-28/2896078.shtml) | Tue Jun 28 2022 9:27 AM
+- 🙉 [夏普以近3亿美元拿下关键LCD工厂SDP所有权](http://www.techweb.com.cn/world/2022-06-28/2896073.shtml) | Tue Jun 28 2022 8:51 AM<!-- techweb-allnews:END -->
 
 
