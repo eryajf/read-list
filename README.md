@@ -75,6 +75,7 @@
 
 <!-- DecoHack:START -->
 - 🦣 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | Mon Jun 27 2022 12:14 AM
+<<<<<<< HEAD
     <details><summary>展开描述 ...</summary>
     本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，感兴趣的伙伴可以点击订阅我的周刊。为保证每期都能收到建 [&amp;#8230;]
     </details>
@@ -89,6 +90,10 @@
     本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，感兴趣的伙伴可以点击订阅我的周刊。欢迎通过 Twitt [&amp;#8230;]
     </details>
 <!-- DecoHack:END -->
+=======
+- 👺 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | Mon Jun 20 2022 1:05 AM
+-  [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | Tue Jun 14 2022 12:47 AM<!-- DecoHack:END -->
+>>>>>>> 16ccc7fc769e19d47c218c8b368ff75a14a06591
 
 ### 独立开发变现周刊
 
