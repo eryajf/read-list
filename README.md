@@ -106,6 +106,16 @@
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。预售CSS课程，卖出55万美元 
     </details> 
+
+- 🕴 [独立开发变现周刊（第57期） : 开发一个免费照片编辑器，一个人每月收入10万美元](https://www.ezindie.com/weekly/issue-57) | Thu Jun 02 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。开发一个免费照片编辑器，一个人每月收入10万美元 
+    </details> 
+
+- 🎊 [独立开发变现周刊（第56期） : 一个基于Notion的项目管理小产品](https://www.ezindie.com/weekly/issue-56) | Thu May 26 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个基于Notion的项目管理小产品 
+    </details> 
 <!-- easyindie:END -->
 
 ### 好工具周刊
