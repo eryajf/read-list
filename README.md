@@ -258,10 +258,10 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [外媒：特斯拉上海超级工厂仍在向德国出口长续航版Model Y](http://www.techweb.com.cn/world/2022-06-29/2896257.shtml) | Wed Jun 29 2022 10:00 AM
-- 👹 [日本瑞萨联手印度塔塔汽车开发下一代汽车芯片解决方案](http://www.techweb.com.cn/world/2022-06-29/2896256.shtml) | Wed Jun 29 2022 9:51 AM
-- 🪜 [腾讯QQ物联PC端服务将下架 8月发布的新版本将不再兼容物联服务](http://www.techweb.com.cn/internet/2022-06-29/2896255.shtml) | Wed Jun 29 2022 9:42 AM
-- 🤭 [12GHz频段争议白热化 SpaceX呼吁星链客户向FCC和国会请愿](http://www.techweb.com.cn/world/2022-06-29/2896245.shtml) | Wed Jun 29 2022 9:28 AM
-- 🙉 [从人类英雄到人间魔鬼，马斯克「人设崩塌」](http://www.techweb.com.cn/viewpoint/2022-06-29/2896242.shtml) | Wed Jun 29 2022 9:19 AM<!-- techweb-allnews:END -->
+- 👍 [京东与腾讯开启第三轮战略合作 进一步拓展深化消费、技术、供应链合作](http://www.techweb.com.cn/it/2022-06-29/2896264.shtml) | Wed Jun 29 2022 11:54 AM
+- 👹 [外媒：特斯拉上海超级工厂仍在向德国出口长续航版Model Y](http://www.techweb.com.cn/world/2022-06-29/2896257.shtml) | Wed Jun 29 2022 10:00 AM
+- 🪜 [日本瑞萨联手印度塔塔汽车开发下一代汽车芯片解决方案](http://www.techweb.com.cn/world/2022-06-29/2896256.shtml) | Wed Jun 29 2022 9:51 AM
+- 🤭 [腾讯QQ物联PC端服务将下架 8月发布的新版本将不再兼容物联服务](http://www.techweb.com.cn/internet/2022-06-29/2896255.shtml) | Wed Jun 29 2022 9:42 AM
+- 🙉 [12GHz频段争议白热化 SpaceX呼吁星链客户向FCC和国会请愿](http://www.techweb.com.cn/world/2022-06-29/2896245.shtml) | Wed Jun 29 2022 9:28 AM<!-- techweb-allnews:END -->
 
 
