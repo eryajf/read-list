@@ -741,11 +741,30 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
-- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
--  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
-- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
-- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+- 🤗 [浅谈前端埋点 &amp; 监控](https://juejin.cn/post/7114450860335169543) | Wed Jun 29 2022 12:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    在开始正文之前，我们先想想为什么需要埋点&amp;监控？ 当我们在分析复盘一个产品是否成功的时候，不同的角色考虑的方向是不同的。 
+    </details> 
+
+- 🎡 [巨石瓦解🎸！我把Vue3巨石应用拆成了12个微应用~](https://juejin.cn/post/7114445286247759908) | Wed Jun 29 2022 12:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    复杂的方案是为了解决复杂的问题。微前端毫无疑问是充满复杂性的技术，但有些时候为了业务、为了研发管理流程，你必须选择！ 
+    </details> 
+
+- 🕯 [Dooring无代码搭建平台技术演进之路](https://juejin.cn/post/7114324484399562766) | Tue Jun 28 2022 4:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    大家好, 我是徐小夕, 之前一直在分享可视化低代码的一些实践, 围绕 H5-Dooring 零代码搭建平台也输出了很多技术文章, 最近2.7.0 版本也顺利迭代完成, 这里详细分享一下 
+    </details> 
+
+- 🚀 [Django Web 极简教程（六）- Django Form（Part A）](https://juejin.cn/post/7114320845668876318) | Tue Jun 28 2022 3:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、Form 表单 普通 Form 表单 表单是在浏览器中用于收集后端需要的信息并提交给后端的一个工具，常见的表单如：登录表单、注册表单、请假表单等，表单分为四个部分：表单提交地址、表单提交方法、表单 
+    </details> 
+
+- 💪 [Git commit 规范](https://juejin.cn/post/7114319715689988133) | Tue Jun 28 2022 3:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    在工作中避免不了多人协作，协作避免不了有一个规范的流程，让大家有效的去合作；让项目有条不紊的进行。自然使用 git 规范进行把控也是项目中必不可少的技术了。 
+    </details> 
 <!-- juejin:END -->
 ### 少数派
 
