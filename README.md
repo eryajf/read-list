@@ -131,7 +131,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [原来我已经不用浏览器的书签同步了](https://www.v2ex.com/t/862818#reply8) | Wed Jun 29 2022 12:03 AM 
+- 🥸 [原来我已经不用浏览器的书签同步了](https://www.v2ex.com/t/862818#reply9) | Wed Jun 29 2022 12:03 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;首先，不是要大家不使用浏览器的书签同步，只是分享一下我的经验。&lt;/p&gt;
