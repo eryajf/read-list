@@ -186,29 +186,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [云音乐FeatureStore建设与实践](https://juejin.cn/post/7114542058030759944) | Wed Jun 29 2022 6:16 AM 
+- 🤗 [Java Agent 踩坑之 appendToSystemClassLoaderSearch 问题](https://juejin.cn/post/7114570744989761544) | Wed Jun 29 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    随着云音乐业务的不断发展拓宽，算法侧对特征开发的效率、特征数据的准确性、特征读写的性能、使用资源的大小等都有了更高的要求，我们以此为契机沉淀了一整套特征工程解决方案来应对以上的问题。 
+    从 Java Agent 报错开始，到 JVM 原理，到 glibc 线程安全，再到 pthread tls，逐步探究 Java Agent 诡异报错。 
     </details> 
 
-- 🎡 [基于信通院 Serverless 工具链模型的实践：Serverless Devs](https://juejin.cn/post/7114539239798374431) | Wed Jun 29 2022 6:06 AM 
+- 🎡 [仿抖音订单React组件设计、腾讯开源 Spring Cloud Tencent｜掘金一周 06.29](https://juejin.cn/post/7114558885628739592) | Wed Jun 29 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-    Serverless Devs 作为开源开放的开发者工具，自其立项始，便以提升 Servelress 应用研发效能为目标，以让 Serverless 架构更好用、更易用为准则，期望在 Serverle 
+    【掘金一周06.29】本期看点：仿抖音订单React组件设计、腾讯开源 Spring Cloud Tencent、数据库主键一定要自增吗.. 
     </details> 
 
-- 🕯 [微前端架构的几种技术选型、从月薪600到进入鹅厂、得物多活架构设计之路由服务设计、 货拉拉 Android 动态资源管理系统原理 | 酱酱的下午茶第 17 期](https://juejin.cn/post/7114536293094129695) | Wed Jun 29 2022 5:56 AM 
+- 🕯 [React18 + React-Router v6 + TypeScript + Vite2 + Ant-Design 管理系统（开源啦🎉🎉）](https://juejin.cn/post/7114555646820745253) | Wed Jun 29 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-    本期看点: 作为前端，要学会用Github Action给自己的项目加上CICD、从月薪600到进入鹅厂、微前端架构的几种技术选型、Spark 一文搞懂 parquet、得物多活架构设计之路由服务设计 
+    Hooks-Admin 🚀 介绍 📖 🚀🚀🚀 Hooks Admin，基于 React18、React-Router v6、React-Hooks、Redux、TypeScript、Vite2、Ant 
     </details> 
 
-- 🚀 [超 Nice 的表格响应式布局小技巧](https://juejin.cn/post/7114504079467872293) | Wed Jun 29 2022 3:50 AM 
+- 🚀 [抛弃HTML Snippets，拥抱Emmet成为html大师！](https://juejin.cn/post/7114554784740950047) | Wed Jun 29 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-    今天，遇到了一个很有意思的问题，一名群友问我，仅仅使用 CSS，能否实现这样一种响应式的布局效果： 简单解析一下效果： 在屏幕视口较为宽时，表现为一个整体 Table 的样式 而当屏幕视口宽度较小时， 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第30天，点击查看活动详情 前言 开开心心学技术大法~~ 来了来了，他真的来了~ 正文 11 &gt; + ^ * &lpar;&rpar; .xx #xx  
     </details> 
 
-- 💪 [新朝旧将 vite和webpack煮酒论英雄](https://juejin.cn/post/7114503513039716388) | Wed Jun 29 2022 3:48 AM 
+- 💪 [系统介绍浏览器缓存机制及前端优化方案](https://juejin.cn/post/7114540697276907551) | Wed Jun 29 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-    我们见证了 webpack、Rollup 和 Parcel 等工具的变迁，它们极大地改善了前端开发者的开发体验。 
+    背景 缓存是用来做性能优化的好东西，但是，如果用不好缓存，就会产生一系列问题： 为什么我的页面显示的还是老版本 为什么我的网页白屏 请刷新下网页 ... 以上问题大家或多或少都遇到过，归根结底是使用缓 
     </details> 
 <!-- juejin:END -->
 ### 少数派
