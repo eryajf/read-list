@@ -214,29 +214,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [思考、方法与信念——我应该怎么与这个世界相处？](https://sspai.com/post/73704) | Wed Jun 29 2022 3:38 AM 
+- 👹 [技术播客月，我们一起聊聊技术与开源](https://sspai.com/post/72270) | Wed Jun 29 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    走进技术、了解开源，听到更多开发者的声音和故事。&lt;a href=&quot;https://sspai.com/post/72270&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [思考、方法与信念——我应该怎么与这个世界相处？](https://sspai.com/post/73704) | Wed Jun 29 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
     我之所以花了较多的篇幅来记录我找到答案的过程，是想告诉大家：很多重要的结论、想法，可能不是一瞬间产生，而是经由时间、经历等各种各样输入和输出锤炼之结成的果。所以保持耐心，也是与自己和世界相处的前提之一。希望我们能够找到自己和世界相处的方法，寻找到自我，以及属于自己的安稳。&lt;a href=&quot;https://sspai.com/post/73704&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：星巴克推出三星手机、耳机保护壳，保时捷设计推出 PDH80](https://sspai.com/post/74045) | Wed Jun 29 2022 12:52 AM 
+- 🤭 [派早报：星巴克推出三星手机、耳机保护壳，保时捷设计推出 PDH80](https://sspai.com/post/74045) | Wed Jun 29 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
     HTC 推出元宇宙手机 Desire 22 Pro，Google 环聊将于 11 月正式关闭等&lt;a href=&quot;https://sspai.com/post/74045&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [遵循医嘱吃药不是一件小事，Apple 为了这件事专门做了一个应用](https://sspai.com/post/74030) | Tue Jun 28 2022 9:30 AM 
+- 🥸 [遵循医嘱吃药不是一件小事，Apple 为了这件事专门做了一个应用](https://sspai.com/post/74030) | Tue Jun 28 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     WWDC22 上，Apple 推出了一款包含了服药提醒以及相互作用预警的 App。Apple 为什么要专门给吃药这件事准备一个 App？看完这篇文章你就懂了。&lt;a href=&quot;https://sspai.com/post/74030&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [咖啡地图 | 巴拿马的瑰夏故事](https://sspai.com/post/74024) | Tue Jun 28 2022 8:04 AM 
+- 🙉 [咖啡地图 | 巴拿马的瑰夏故事](https://sspai.com/post/74024) | Tue Jun 28 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
     写完前面4篇耗费了我太多的精神。不过总算到了我最想分享的内容之一：瑰夏瑰夏，尤其是巴拿马的瑰夏，是目前市面上最贵的豆子（尤其是竞标级）。为什么瑰夏这么贵？瑰夏是如何发展起来的？这篇文章让你彻底明白。瑰 ...&lt;a href=&quot;https://sspai.com/post/74024&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [Fantastical 的有力竞争者，老牌日历应用效率再升级：Calendars](https://sspai.com/post/73991) | Tue Jun 28 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    Calendars 并不是一款简单的从移动端移植到桌面端上的产品，补齐了Apple 平台「最后一块拼图」后的 Calendars，非常适合作为 Apple 全家桶用户的日程和待办任务管理工具。&lt;a href=&quot;https://sspai.com/post/73991&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
