@@ -131,14 +131,33 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [怎么才能用自带的 Terminal 终端， rz 上传命令时，会唤起文件选择器的窗口](https://www.v2ex.com/t/862889#reply3) | Wed Jun 29 2022 3:35 AM 
+- 🥸 [有没有一起维护组件库的兄弟](https://www.v2ex.com/t/862898#reply0) | Wed Jun 29 2022 4:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;一直想写一个组件库，但是一想到很复杂，就一直拖到现在。
+第一次写组件库，很多地方不规范，欢迎纠正，欢迎提建议。
+可能代码也不太规范，也希望有大佬能和我一起维护，但希望能保持 UI 。&lt;/p&gt;
+&lt;p&gt;项目地址： &lt;a href=&quot;https://github.com/lewkamtao/Lew-UI&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lewkamtao/Lew-UI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一点点门槛：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有开源项目&lt;/li&gt;
+&lt;li&gt;极简主义者&lt;/li&gt;
+&lt;li&gt;细节狂人&lt;/li&gt;
+&lt;li&gt;对 UI 有极高要求&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;感兴趣的兄弟=&amp;gt; div#&lt;a href=&quot;http://kamtao.com&quot; rel=&quot;nofollow&quot;&gt;kamtao.com&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [怎么才能用自带的 Terminal 终端， rz 上传命令时，会唤起文件选择器的窗口](https://www.v2ex.com/t/862889#reply5) | Wed Jun 29 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
     
 	或者是说误解，不支持？
 	 
     </details> 
 
-- 🤗 [C++动态内存管理问题求解](https://www.v2ex.com/t/862885#reply5) | Wed Jun 29 2022 3:30 AM 
+- 🎭 [C++动态内存管理问题求解](https://www.v2ex.com/t/862885#reply12) | Wed Jun 29 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;项目上需要处理若干组，每组 500M 左右的数据，数据组成是大概可以理解为 3 个 std::vector&amp;lt;float&amp;gt;，一个 std::vector&amp;lt;structA&amp;gt;（ structA 为自定义结构体），每处理一组数据就需要释放掉。&lt;/p&gt;
@@ -150,7 +169,7 @@
 	 
     </details> 
 
-- 🎭 [vue-elementui 项目，请教 V 友们几个表单类的问题](https://www.v2ex.com/t/862884#reply0) | Wed Jun 29 2022 3:24 AM 
+- 🥷 [vue-elementui 项目，请教 V 友们几个表单类的问题](https://www.v2ex.com/t/862884#reply1) | Wed Jun 29 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;请教大家几个表单的新增编辑问题：
@@ -163,33 +182,10 @@
 	 
     </details> 
 
-- 🥷 [阿里云 starter package 的 CDN 试用期英文界面下多 3 个月？](https://www.v2ex.com/t/862881#reply1) | Wed Jun 29 2022 3:19 AM 
+- 🐵 [阿里云 starter package 的 CDN 试用期英文界面下多 3 个月？](https://www.v2ex.com/t/862881#reply1) | Wed Jun 29 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     
 	我发现阿里云国际版切换到英文下 CDN 试用会多至 6 个月&lt;br /&gt;而中文只有 3 个月&lt;br /&gt;&lt;br /&gt;这是区别对待还是翻译没更新？ 😄&lt;br /&gt;&lt;br /&gt;* &lt;a target=&quot;_blank&quot; href=&quot;https://www.alibabacloud.com/free&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.alibabacloud.com/free&lt;/a&gt;&lt;br /&gt;* &lt;a target=&quot;_blank&quot; href=&quot;https://www.alibabacloud.com/zh/free&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.alibabacloud.com/zh/free&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/hqrY54f&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/hqrY54f&lt;/a&gt; &lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/NJJLPRd&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/NJJLPRd&lt;/a&gt;
-	 
-    </details> 
-
-- 🐵 [JDK 在 Windows11 系统上运行创建`NUL:`文件报错，有哪位大佬知道是什么问题吗？](https://www.v2ex.com/t/862878#reply6) | Wed Jun 29 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;JDK 在 Windows11 系统上运行创建&lt;code&gt;NUL:&lt;/code&gt;文件报错&lt;/p&gt;
-&lt;p&gt;在 Windows10 系统上运行正常&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;public class Main {
-
-    public static void main&lpar;String[] args&rpar; throws FileNotFoundException {
-        FileOutputStream fos = new FileOutputStream&lpar;&quot;NUL:&quot;&rpar;;
-
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Windows11 上的报错信息&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;Exception in thread &quot;main&quot; java.io.FileNotFoundException: Invalid file path
-	at java.base/java.io.FileOutputStream.&amp;lt;init&amp;gt;&lpar;FileOutputStream.java:229&rpar;
-	at java.base/java.io.FileOutputStream.&amp;lt;init&amp;gt;&lpar;FileOutputStream.java:123&rpar;
-	at com.company.Main.main&lpar;Main.java:9&rpar;
-&lt;/code&gt;&lt;/pre&gt;
-
 	 
     </details> 
 <!-- v2ex:END -->
