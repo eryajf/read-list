@@ -131,13 +131,41 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [目前安卓开发测试机要求支持 xposed 内存尽可能大的推荐？](https://www.v2ex.com/t/862987#reply0) | Wed Jun 29 2022 9:15 AM 
+- 🥸 [有没有 C/C++做 部分预处理 的工具](https://www.v2ex.com/t/862999#reply0) | Wed Jun 29 2022 10:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;需求大概就是在#define 或者#include 头文件不完整的情况下做预处理，有多少做多少，as much as possible ，缺失的保持原状。&lt;/p&gt;
+&lt;p&gt;如果直接用 gcc -E 的话会直接报错，找不到.h 或者相关定义&lt;/p&gt;
+&lt;p&gt;有没有什么工具能实现？（除了自己写&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [segmentfault 删库跑路了吗？](https://www.v2ex.com/t/862997#reply2) | Wed Jun 29 2022 10:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;刚想查个问题，进去一个大大的 502😅&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [写了一个开源的面向数据库 IO 的零冗余数据缓存框架，希望大佬们给些意见](https://www.v2ex.com/t/862993#reply0) | Wed Jun 29 2022 9:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;业余时间花了一年左右写了一个开源缓存框架 Kache ，主要用于以类似 Spring cache 的使用方式下沉到数据库持久化操作。可以将有限的空间放大应用于更多的缓存上，增强缓存命中率和降低缓存变动成本
+仓库地址： &lt;a href=&quot;https://gitee.com/Kould/kache&quot; rel=&quot;nofollow&quot;&gt;https://gitee.com/Kould/kache&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;希望各位大佬多多给予意见，能 star 或推荐一下！&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [目前安卓开发测试机的推荐？](https://www.v2ex.com/t/862987#reply1) | Wed Jun 29 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;拿出来 5X 测试自己 app 用了用发现年代久远 nexus 内存太小，xposed 插件多装几个就内存溢出一样卡的要死闪退&lt;/p&gt;
 &lt;p&gt;打算换机，希望能够：
-1.解 BL ，刷原版安卓
-2.内存尽可能大，/下面的文件系统空间也尽可能大
+1.解 BL ，root ，刷原版安卓
+2.内存尽可能大&lpar;至少&amp;gt;4G&rpar;，/下面的文件系统空间也尽可能大
 3.稳定，品控好些的 （踩过骁龙 808 810 大火炉脱焊虚焊降频的坑）&lt;/p&gt;
 &lt;p&gt;电池续航无所谓（基本测试时候一直插电用），摄像头分辨率什么的也无所谓用不到指纹什么的也不需要&lt;/p&gt;
 &lt;p&gt;自己测试 app 和日常墙外 app 用，预算打算两档 500 以内和 1000 以内，肯定是收二手回来耍，先谢谢各位&lt;/p&gt;
@@ -145,7 +173,7 @@
 	 
     </details> 
 
-- 🤗 [对部分转义的 JSON 如何进行 unmarshal？](https://www.v2ex.com/t/862985#reply0) | Wed Jun 29 2022 9:12 AM 
+- 🐵 [对部分转义的 JSON 如何进行 unmarshal？](https://www.v2ex.com/t/862985#reply5) | Wed Jun 29 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;最近写代码请求一个 api ，返回的 json 如下：&lt;/p&gt;
@@ -156,29 +184,6 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;我想对&lt;code&gt;holdings&lt;/code&gt;进行 unmarshal ，但尝试了一下直接调用函数，出现报错。&lt;/p&gt;
 &lt;p&gt;我个人目前的想法是取出&lt;code&gt;holdings&lt;/code&gt;，使用&lt;code&gt;strconv.Unquote&lt;/code&gt;转义后再 unmarshal ，但感觉比较复杂，请问各位有什么好的办法？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [求推荐消息队列相关的书](https://www.v2ex.com/t/862964#reply0) | Wed Jun 29 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;求推荐，读书上瘾。。。。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [有没有哪个品牌的安卓手机，可以在 macOS 上直接操作呢？](https://www.v2ex.com/t/862960#reply4) | Wed Jun 29 2022 8:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	因为工作需要在安卓手机上浏览一些 app ，但是有时候不太方便拿出来手机&lt;br /&gt;&lt;br /&gt;有没有这样的一款安卓手机，可以把屏幕或者某个 app 映射到 macOS 上面，在 macOS 上面进行相关的操作？&lt;br /&gt;&lt;br /&gt;（我使用过一些第三方软件比如「黑洞」，但是体验不好，所以希望找一款本身支持的手机品牌）&lt;br /&gt;&lt;br /&gt;（我知道 miui 似乎在 windows 上面可以，但是不支持 macOS ）
-	 
-    </details> 
-
-- 🐵 [两台个人电脑能不能通过中间服务器进行 rsync 同步?](https://www.v2ex.com/t/862955#reply11) | Wed Jun 29 2022 8:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;需求就是有一个文件夹需要在两台电脑同步, 但是不需要实时同步, 所以想通过 rsync 进行同步, 但是 rsync 似乎需要其中一台电脑必须开启 rsync server&lt;/p&gt;
 
 	 
     </details> 
