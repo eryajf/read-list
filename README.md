@@ -131,7 +131,26 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有 C/C++做 部分预处理 的工具](https://www.v2ex.com/t/862999#reply1) | Wed Jun 29 2022 10:03 AM 
+- 🥸 [v 友大佬们急问！ wordpress 加速用 CDN 还是 OSS 镜像回源好？](https://www.v2ex.com/t/863014#reply3) | Wed Jun 29 2022 11:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;一般来说业界用哪种方案啊，   &lt;/p&gt;
+&lt;p&gt;有没有什么完整的配置方案的文档可以参考啊？   &lt;/p&gt;
+&lt;p&gt;还有就是支持配置 aliyun CDN 的 wordpress 加速 插件用哪个比较好？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [jetbrains 产品将于 2022 年 11 月 1 日涨价,普遍涨了 20 刀，全家桶涨了 40 刀。](https://www.v2ex.com/t/863011#reply15) | Wed Jun 29 2022 11:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;AppCode 好像没涨，另外现在可以一次性续 3 年。大家会提前续费吗？&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.jetbrains.com/zh-cn/store/#personal&quot; rel=&quot;nofollow&quot;&gt;https://www.jetbrains.com/zh-cn/store/#personal&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [有没有 C/C++做 部分预处理 的工具](https://www.v2ex.com/t/862999#reply4) | Wed Jun 29 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;需求大概就是在#define 或者#include 头文件不完整的情况下做预处理，有多少做多少，as much as possible ，缺失的保持原状。&lt;/p&gt;
@@ -141,7 +160,7 @@
 	 
     </details> 
 
-- 🤗 [segmentfault 删库跑路了吗？](https://www.v2ex.com/t/862997#reply3) | Wed Jun 29 2022 10:02 AM 
+- 🥷 [segmentfault 删库跑路了吗？](https://www.v2ex.com/t/862997#reply3) | Wed Jun 29 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;刚想查个问题，进去一个大大的 502😅&lt;/p&gt;
@@ -149,41 +168,12 @@
 	 
     </details> 
 
-- 🎭 [写了一个开源的面向数据库 IO 的零冗余数据缓存框架，希望大佬们给些意见](https://www.v2ex.com/t/862993#reply2) | Wed Jun 29 2022 9:49 AM 
+- 🐵 [写了一个开源的面向数据库 IO 的零冗余数据缓存框架，希望大佬们给些意见](https://www.v2ex.com/t/862993#reply2) | Wed Jun 29 2022 9:49 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;业余时间花了一年左右写了一个开源缓存框架 Kache ，主要用于以类似 Spring cache 的使用方式下沉到数据库持久化操作。可以将有限的空间放大应用于更多的缓存上，增强缓存命中率和降低缓存变动成本
 仓库地址： &lt;a href=&quot;https://gitee.com/Kould/kache&quot; rel=&quot;nofollow&quot;&gt;https://gitee.com/Kould/kache&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;希望各位大佬多多给予意见，能 star 或推荐一下！&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [目前安卓开发测试机的推荐？](https://www.v2ex.com/t/862987#reply3) | Wed Jun 29 2022 9:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;拿出来 5X 测试自己 app 用了用发现年代久远 nexus 内存太小，xposed 插件多装几个就内存溢出一样卡的要死闪退&lt;/p&gt;
-&lt;p&gt;打算换机，希望能够：
-1.解 BL ，root ，刷原版安卓
-2.内存尽可能大&lpar;至少&amp;gt;4G&rpar;，/下面的文件系统空间也尽可能大
-3.稳定，品控好些的 （踩过骁龙 808 810 大火炉脱焊虚焊降频的坑）&lt;/p&gt;
-&lt;p&gt;电池续航无所谓（基本测试时候一直插电用），摄像头分辨率什么的也无所谓用不到指纹什么的也不需要&lt;/p&gt;
-&lt;p&gt;自己测试 app 和日常墙外 app 用，预算打算两档 500 以内和 1000 以内，肯定是收二手回来耍，先谢谢各位&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [对部分转义的 JSON 如何进行 unmarshal？](https://www.v2ex.com/t/862985#reply7) | Wed Jun 29 2022 9:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;最近写代码请求一个 api ，返回的 json 如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-json&quot;&gt;{
-    &quot;publisher&quot;: &quot;中国人民大学出版社&quot;,
-    &quot;holdings&quot;: &quot;[{\&quot;callNo\&quot;:\&quot;F820/49=7\&quot;,\&quot;shelfMark\&quot;:null,\&quot;itemsCount\&quot;:1}]&quot;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我想对&lt;code&gt;holdings&lt;/code&gt;进行 unmarshal ，但尝试了一下直接调用函数，出现报错。&lt;/p&gt;
-&lt;p&gt;我个人目前的想法是取出&lt;code&gt;holdings&lt;/code&gt;，使用&lt;code&gt;strconv.Unquote&lt;/code&gt;转义后再 unmarshal ，但感觉比较复杂，请问各位有什么好的办法？&lt;/p&gt;
 
 	 
     </details> 
