@@ -196,29 +196,29 @@ proxy_read_timeout 1200;&lt;/p&gt;
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022 年中纪](https://juejin.cn/post/7114500277771698189) | Wed Jun 29 2022 3:35 AM 
+- 🤗 [超 Nice 的表格响应式布局小技巧](https://juejin.cn/post/7114504079467872293) | Wed Jun 29 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本文总结了鄙人在上半年生活、工作等各方面的收获和感悟，发自肺腑，陈词恳切，如果对你有一点点的触动，鄙人不胜荣幸，如果喜欢烦请点赞关注，多谢支持 
+    今天，遇到了一个很有意思的问题，一名群友问我，仅仅使用 CSS，能否实现这样一种响应式的布局效果： 简单解析一下效果： 在屏幕视口较为宽时，表现为一个整体 Table 的样式 而当屏幕视口宽度较小时， 
     </details> 
 
-- 🎡 [Mybatis搞两下（sqlsession，动态代理）](https://juejin.cn/post/7114481350429638693) | Wed Jun 29 2022 2:21 AM 
+- 🎡 [新朝旧将 vite和webpack煮酒论英雄](https://juejin.cn/post/7114503513039716388) | Wed Jun 29 2022 3:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们见证了 webpack、Rollup 和 Parcel 等工具的变迁，它们极大地改善了前端开发者的开发体验。 
+    </details> 
+
+- 🕯 [如何制作 Figma 插件](https://juejin.cn/entry/7114491947074453540) | Wed Jun 29 2022 3:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    Figma 是一款专业的在线 UI 设计工具，它因为个人使用免费、在线跨平台、多人协作、蓬勃的 Figma Community 社区组织而广受欢迎。目前设计团队都在使用 Figma 进行 UI 设计交 
+    </details> 
+
+- 🚀 [Mybatis搞两下（sqlsession，动态代理）](https://juejin.cn/post/7114481350429638693) | Wed Jun 29 2022 2:21 AM 
     <details><summary>展开描述 ...</summary> 
     Mybatis搞两下（sqlsession，动态代理） 本文已参与「新人创作礼」活动，一起开启掘金创作之路。 本文主要介绍SqlSession的创建流程和Mybatis的动态代理，其中动态代理实操了源 
     </details> 
 
-- 🕯 [【C++】“引用“的特性与使用原则](https://juejin.cn/post/7114477611635441700) | Wed Jun 29 2022 2:07 AM 
+- 💪 [【C++】“引用“的特性与使用原则](https://juejin.cn/post/7114477611635441700) | Wed Jun 29 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
     C++引用最基本的特性在于——不能将读写权限放大。本文已参与「新人创作礼」活动，一起开启掘金创作之路。 
-    </details> 
-
-- 🚀 [每日一包 - pyecharts结合flask框架](https://juejin.cn/post/7114474794183032868) | Wed Jun 29 2022 1:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第30天，点击查看活动详情 介绍 本文主要介绍如何在Flask框架中使用pyecharts，关于Flask框架使用这里不做具体说明~ 
-    </details> 
-
-- 💪 [【SpringBoot】如何用java生成静态html](https://juejin.cn/post/7114473059109011493) | Wed Jun 29 2022 1:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    静态页面，无接口交互 数据实时性不高且体量小的网站可采用生成静态html的形式 数据提前渲染至html内 
     </details> 
 <!-- juejin:END -->
 ### 少数派
