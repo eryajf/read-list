@@ -29,7 +29,6 @@
   - [知乎每日精选](#%E7%9F%A5%E4%B9%8E%E6%AF%8F%E6%97%A5%E7%B2%BE%E9%80%89)
   - [TechWeb-全站精华](#techweb-%E5%85%A8%E7%AB%99%E7%B2%BE%E5%8D%8E)
 - [播客影视](#%E6%92%AD%E5%AE%A2%E5%BD%B1%E8%A7%86)
-  - [坏蛋调频](#%E5%9D%8F%E8%9B%8B%E8%B0%83%E9%A2%91)
   - [开源面对面](#%E5%BC%80%E6%BA%90%E9%9D%A2%E5%AF%B9%E9%9D%A2)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
