@@ -94,20 +94,20 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。如何在30多个国家建立150万美元的年收入产品
-    </details>
+- 💂 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。如何在30多个国家建立150万美元的年收入产品 
+    </details> 
 
-- 💡 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | Thu Jun 16 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元
-    </details>
+- 💡 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | Thu Jun 16 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元 
+    </details> 
 
-- 🌋 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | Thu Jun 09 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。预售CSS课程，卖出55万美元
-    </details>
+- 🌋 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | Thu Jun 09 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。预售CSS课程，卖出55万美元 
+    </details> 
 <!-- easyindie:END -->
 
 ### 好工具周刊
