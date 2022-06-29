@@ -67,9 +67,40 @@
 ### 酷壳
 
 <!-- coolshell:START -->
-- 🫶 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) | Mon Jun 27 2022 4:39 PM
-- 🧰 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) | Fri Jun 24 2022 3:52 PM
-- 🌏 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) | Wed Jun 22 2022 5:20 PM
+- 💼 [ETCD的内存问题](https://coolshell.cn/articles/22242.html) | Thu May 05 2022 8:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;今天跟大家分享一个etcd的内存大量占用的问题，这是前段时间在我们开源软件Easegress中遇到的问题，问题是比较简单的，但是我还想把前因后果说一下，包括，为...&lt;/p&gt;
+&lt;p class=&quot;read-more&quot;&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://coolshell.cn/articles/22242.html&quot;&gt; Read More&lt;span class=&quot;screen-reader-text&quot;&gt;  Read More&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+The post &lt;a href=&quot;https://coolshell.cn/articles/22242.html&quot;&gt;ETCD的内存问题&lt;/a&gt; first appeared on &lt;a href=&quot;https://coolshell.cn&quot;&gt;酷 壳 - CoolShell&lt;/a&gt;. 
+    </details> 
+
+- 🦣 [“一把梭：REST API 全用 POST”](https://coolshell.cn/articles/22173.html) | Sun Feb 13 2022 4:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;写这篇文章的原因主要还是因为V2EX上的这个贴子，这个贴子中说—— “对接同事的接口，他定义的所有接口都是 post 请求，理由是 https 用 post 更...&lt;/p&gt;
+&lt;p class=&quot;read-more&quot;&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://coolshell.cn/articles/22173.html&quot;&gt; Read More&lt;span class=&quot;screen-reader-text&quot;&gt;  Read More&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+The post &lt;a href=&quot;https://coolshell.cn/articles/22173.html&quot;&gt;“一把梭：REST API 全用 POST”&lt;/a&gt; first appeared on &lt;a href=&quot;https://coolshell.cn&quot;&gt;酷 壳 - CoolShell&lt;/a&gt;. 
+    </details> 
+
+- 🪄 [谈谈公司对员工的监控](https://coolshell.cn/articles/22157.html) | Sat Feb 12 2022 7:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;今天看到微博上有一个热点事件， 是一个关于某公司做的一个监控员工离职倾向的软件，从截图中可以看到员工访问招聘网站的次数，还有投递的简历以及搜索的关建词等等信息，...&lt;/p&gt;
+&lt;p class=&quot;read-more&quot;&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://coolshell.cn/articles/22157.html&quot;&gt; Read More&lt;span class=&quot;screen-reader-text&quot;&gt;  Read More&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+The post &lt;a href=&quot;https://coolshell.cn/articles/22157.html&quot;&gt;谈谈公司对员工的监控&lt;/a&gt; first appeared on &lt;a href=&quot;https://coolshell.cn&quot;&gt;酷 壳 - CoolShell&lt;/a&gt;. 
+    </details> 
+
+- 🧑‍🏫 [网络数字身份认证术](https://coolshell.cn/articles/21708.html) | Sun Jan 02 2022 8:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;这篇文章是《HTTP API 认证授权术》的姊妹篇，在那篇文章中，主要介绍了 HTTP API 认证和授权技术中用到的 HTTP Basic, Digest A...&lt;/p&gt;
+&lt;p class=&quot;read-more&quot;&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://coolshell.cn/articles/21708.html&quot;&gt; Read More&lt;span class=&quot;screen-reader-text&quot;&gt;  Read More&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+The post &lt;a href=&quot;https://coolshell.cn/articles/21708.html&quot;&gt;网络数字身份认证术&lt;/a&gt; first appeared on &lt;a href=&quot;https://coolshell.cn&quot;&gt;酷 壳 - CoolShell&lt;/a&gt;. 
+    </details> 
+
+- 🕯 [我做系统架构的一些原则](https://coolshell.cn/articles/21672.html) | Tue Dec 21 2021 7:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;工作 20 多年了，这 20 来年看到了很多公司系统架构，也看到了很多问题，在跟这些公司进行交流和讨论的时候，包括进行实施和方案比较的时候，都有很多各种方案的比...&lt;/p&gt;
+&lt;p class=&quot;read-more&quot;&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://coolshell.cn/articles/21672.html&quot;&gt; Read More&lt;span class=&quot;screen-reader-text&quot;&gt;  Read More&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+The post &lt;a href=&quot;https://coolshell.cn/articles/21672.html&quot;&gt;我做系统架构的一些原则&lt;/a&gt; first appeared on &lt;a href=&quot;https://coolshell.cn&quot;&gt;酷 壳 - CoolShell&lt;/a&gt;. 
+    </details> 
 <!-- coolshell:END -->
 
 ### 阮一峰的网络日志
