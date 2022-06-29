@@ -328,10 +328,10 @@ class YourBorg&lpar;Borg&rpar;:
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [阿里巴巴成立企业数智服务公司“瓴羊”](http://www.techweb.com.cn/internet/2022-06-29/2896210.shtml) | Wed Jun 29 2022 6:38 AM
-- 👹 [360数科反诈实验室：刷单、裸聊诈骗呈抬头趋势 占比达67.1%](http://www.techweb.com.cn/internet/2022-06-29/2896207.shtml) | Wed Jun 29 2022 6:35 AM
-- 🪜 [环球晶圆得州工厂尚未开建 但第一阶段产能已被预订8成](http://www.techweb.com.cn/world/2022-06-29/2896206.shtml) | Wed Jun 29 2022 6:28 AM
-- 🤭 [蔚来汽车：做空机构报告包含许多错误](http://www.techweb.com.cn/smarttraveling/2022-06-29/2896204.shtml) | Wed Jun 29 2022 5:39 AM
-- 🙉 [郭明錤：苹果5G基带芯片研发可能已失败 iPhone 15仍将用高通芯片](http://www.techweb.com.cn/world/2022-06-29/2896202.shtml) | Wed Jun 29 2022 4:59 AM<!-- techweb-allnews:END -->
+- 👍 [LG能源解决方案计划重新评估在美国建设电池工厂计划](http://www.techweb.com.cn/world/2022-06-29/2896226.shtml) | Wed Jun 29 2022 7:39 AM
+- 👹 [欧盟成员国就2035年前停售内燃机汽车计划达成一致](http://www.techweb.com.cn/world/2022-06-29/2896224.shtml) | Wed Jun 29 2022 7:26 AM
+- 🪜 [韦尔股份采用华大九天EDA工具Empyrean Polas 保障芯片设计可靠性](http://www.techweb.com.cn/internet/2022-06-29/2896219.shtml) | Wed Jun 29 2022 6:54 AM
+- 🤭 [阿里巴巴成立企业数智服务公司“瓴羊”](http://www.techweb.com.cn/internet/2022-06-29/2896210.shtml) | Wed Jun 29 2022 6:38 AM
+- 🙉 [360数科反诈实验室：刷单、裸聊诈骗呈抬头趋势 占比达67.1%](http://www.techweb.com.cn/internet/2022-06-29/2896207.shtml) | Wed Jun 29 2022 6:35 AM<!-- techweb-allnews:END -->
 
 
