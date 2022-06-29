@@ -1,7 +1,5 @@
-name: Automatic Generation TOC
-
 on: push
-
+name: Automatic Generation TOC
 jobs:
   generateTOC:
     name: TOC Generator
@@ -10,4 +8,4 @@ jobs:
       - uses: technote-space/toc-generator@v4
         with:
           TOC_TITLE: "**目录**"
-          MAX_HEADER_LEVEL: 2
+          MAX_HEADER_LEVEL: 3

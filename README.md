@@ -20,49 +20,136 @@
 - [独立产品灵感周刊](#%E7%8B%AC%E7%AB%8B%E4%BA%A7%E5%93%81%E7%81%B5%E6%84%9F%E5%91%A8%E5%88%8A)
 - [独立开发变现周刊](#%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A)
 - [好工具周刊](#%E5%A5%BD%E5%B7%A5%E5%85%B7%E5%91%A8%E5%88%8A)
-- [learnku订阅](#learnku%E8%AE%A2%E9%98%85)
+- [techweb-allnews订阅](#techweb-allnews%E8%AE%A2%E9%98%85)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## 二丫讲梵
+## 博客周刊
+
+### 二丫讲梵
 
 <!-- eryajf:START -->
 - 🫶 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) | Mon Jun 27 2022 4:39 PM
 - 🧰 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) | Fri Jun 24 2022 3:52 PM
 - 🌏 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) | Wed Jun 22 2022 5:20 PM<!-- eryajf:END -->
 
-## 阮一峰的网络日志
+### 酷壳
+
+<!-- coolshell:START -->
+- 🫶 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) | Mon Jun 27 2022 4:39 PM
+- 🧰 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) | Fri Jun 24 2022 3:52 PM
+- 🌏 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) | Wed Jun 22 2022 5:20 PM
+<!-- coolshell:END -->
+
+### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
 - 🌊 [科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html) | Fri Jun 24 2022 12:30 AM
 - 💪 [科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html) | Fri Jun 17 2022 12:37 AM
 - 🐎 [科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html) | Fri Jun 10 2022 12:33 AM<!-- ruanyf:END -->
 
-## 独立产品灵感周刊
+### 独立产品灵感周刊
 
 <!-- DecoHack:START -->
 - 🦣 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | Mon Jun 27 2022 12:14 AM
 - 👺 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | Mon Jun 20 2022 1:05 AM
 -  [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | Tue Jun 14 2022 12:47 AM<!-- DecoHack:END -->
 
-## 独立开发变现周刊
+### 独立开发变现周刊
 
 <!-- easyindie:START -->
 - 💂 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM
 - 💡 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | Thu Jun 16 2022 12:00 AM
 - 🌋 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | Thu Jun 09 2022 12:00 AM<!-- easyindie:END -->
-## 好工具周刊
+
+### 好工具周刊
 
 <!-- bestxtools:START -->
 - 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | Wed Jun 22 2022 4:28 PM
 - 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | Wed Jun 15 2022 6:58 PM
 - 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1) | Wed Jun 08 2022 5:01 PM<!-- bestxtools:END -->
 
-## learnku订阅
 
-<!-- learnku:START -->
-- 🦆 [Go开发PHP扩展](https://learnku.com/articles/68847) | Sun Jun 19 2022 8:33 PM
-- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://learnku.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
--  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://learnku.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
-- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://learnku.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
-- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://learnku.com/articles/68715) | Tue Jun 14 2022 2:48 PM<!-- learnku:END -->
+## 新闻热览
+
+### v2ex-全站热点
+
+<!-- v2ex:START -->
+- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
+- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
+-  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
+- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
+- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+<!-- v2ex:END -->
+
+### 掘金-全站热点
+
+<!-- juejin:START -->
+- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
+- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
+-  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
+- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
+- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+<!-- juejin:END -->
+### 少数派
+
+<!-- sspai:START -->
+- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
+- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
+-  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
+- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
+- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+<!-- sspai:END -->
+
+### 知乎每日精选
+
+<!-- zhihu:START -->
+- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
+- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
+-  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
+- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
+- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+<!-- zhihu:END -->
+
+### TechWeb-全站精华
+
+<!-- techweb-allnews:START -->
+- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
+- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
+-  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
+- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
+- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+<!-- techweb-allnews:END -->
+
+
+### TechWeb-每日热点
+
+<!-- techweb-hotnews:START -->
+- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
+- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
+-  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
+- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
+- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+<!-- techweb-hotnews:END -->
+
+## 播客影视
+
+### 坏蛋调频
+
+<!-- huaidantiaopin:START -->
+- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
+- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
+-  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
+- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
+- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+<!-- huaidantiaopin:END -->
+
+### 开源面对面
+
+<!-- opensource-f2f:START -->
+- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
+- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
+-  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
+- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
+- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+<!-- opensource-f2f:END -->
