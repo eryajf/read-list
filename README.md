@@ -263,10 +263,10 @@ sudo apt-get install libncurses5&lt;/p&gt;
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [巨人网络间接参股子公司拟每股21美元出售Playtika总股本25.73%股份](http://www.techweb.com.cn/it/2022-06-29/2896116.shtml) | Wed Jun 29 2022 1:20 AM
-- 👹 [华强北最后的幸存者，是一家卖数据线的公司](http://www.techweb.com.cn/viewpoint/2022-06-28/2896084.shtml) | Tue Jun 28 2022 9:45 AM
-- 🪜 [苹果M2 Pro芯片将采用3nm制程工艺 已向台积电预订产能](http://www.techweb.com.cn/world/2022-06-28/2896081.shtml) | Tue Jun 28 2022 9:36 AM
-- 🤭 [继德国后 欧盟2035年的汽油禁令再遭到五个国家的反对](http://www.techweb.com.cn/world/2022-06-28/2896078.shtml) | Tue Jun 28 2022 9:27 AM
-- 🙉 [夏普以近3亿美元拿下关键LCD工厂SDP所有权](http://www.techweb.com.cn/world/2022-06-28/2896073.shtml) | Tue Jun 28 2022 8:51 AM<!-- techweb-allnews:END -->
+- 👍 [理想汽车：拟增发最高20亿美元美国存托股份](http://www.techweb.com.cn/it/2022-06-29/2896183.shtml) | Wed Jun 29 2022 3:13 AM
+- 👹 [亚马逊云科技宣布成立量子网络中心](http://www.techweb.com.cn/it/2022-06-29/2896181.shtml) | Wed Jun 29 2022 3:05 AM
+- 🪜 [继特斯拉后 福特与澳洲矿商Liontown签署锂供应协议](http://www.techweb.com.cn/world/2022-06-29/2896180.shtml) | Wed Jun 29 2022 3:04 AM
+- 🤭 [蔚来遭做空机构质疑利用蔚能虚增营收和利润](http://www.techweb.com.cn/it/2022-06-29/2896179.shtml) | Wed Jun 29 2022 3:01 AM
+- 🙉 [特斯拉关闭Autopilot团队一办公室 并裁员约200人](http://www.techweb.com.cn/world/2022-06-29/2896164.shtml) | Wed Jun 29 2022 2:39 AM<!-- techweb-allnews:END -->
 
 
