@@ -113,8 +113,8 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | Wed Jun 22 2022 4:28 PM
-    <details><summary>展开描述 ...</summary>
+- 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | Wed Jun 22 2022 4:28 PM 
+    <details><summary>展开描述 ...</summary> 
     &lt;h1&gt;好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, Flex Box Adventure, Grid Attack&lt;/h1&gt;
 
 &lt;p&gt;发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 &lt;a href=&quot;https://www.bestxtools.com/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;BestXTools&lt;/a&gt; 创作。&lt;/p&gt;
@@ -289,11 +289,11 @@
 &lt;p&gt;&lt;a href=&quot;https://discuss-cn.bestxtools.com/d/43&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;上一期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;往期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;RSS 订阅&lt;/a&gt; | &lt;a href=&quot;https://bestxtools.zhubai.love/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;邮箱订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/5/2&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;微信订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/8&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;工具推荐&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/47/3&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;评论&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
+ 
+    </details> 
 
-    </details>
-
-- 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | Wed Jun 15 2022 6:58 PM
-    <details><summary>展开描述 ...</summary>
+- 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | Wed Jun 15 2022 6:58 PM 
+    <details><summary>展开描述 ...</summary> 
     &lt;h1&gt;好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Open Graph Image Generator, Griddy, Colorsandfonts&lt;/h1&gt;
 
 &lt;p&gt;发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 &lt;a href=&quot;https://www.bestxtools.com/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;BestXTools&lt;/a&gt; 创作。&lt;/p&gt;
@@ -473,11 +473,11 @@
 &lt;p&gt;&lt;a href=&quot;https://discuss-cn.bestxtools.com/d/42&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;上一期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;往期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;RSS 订阅&lt;/a&gt; | &lt;a href=&quot;https://bestxtools.zhubai.love/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;邮箱订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/5/2&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;微信订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/8&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;工具推荐&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/43/3&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;评论&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
+ 
+    </details> 
 
-    </details>
-
-- 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1) | Wed Jun 08 2022 5:01 PM
-    <details><summary>展开描述 ...</summary>
+- 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1) | Wed Jun 08 2022 5:01 PM 
+    <details><summary>展开描述 ...</summary> 
     &lt;h1&gt;好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, TweetPics, SPEEDTEST&lt;/h1&gt;
 
 &lt;p&gt;发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 &lt;a href=&quot;https://www.bestxtools.com/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;BestXTools&lt;/a&gt; 创作。&lt;/p&gt;
@@ -664,8 +664,8 @@
 &lt;p&gt;&lt;a href=&quot;https://discuss-cn.bestxtools.com/d/40&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;上一期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/43&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;下一期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;往期内容&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/t/weekly&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;RSS 订阅&lt;/a&gt; | &lt;a href=&quot;https://bestxtools.zhubai.love/&quot; rel=&quot;ugc noopener nofollow&quot; target=&quot;_blank&quot;&gt;邮箱订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/5/2&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;微信订阅&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/8&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;工具推荐&lt;/a&gt; | &lt;a href=&quot;https://discuss-cn.bestxtools.com/d/42/3&quot; rel=&quot;ugc noopener&quot; target=&quot;_self&quot;&gt;评论&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
-
-    </details>
+ 
+    </details> 
 <!-- bestxtools:END -->
 
 
