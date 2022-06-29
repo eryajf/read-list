@@ -197,29 +197,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [超 Nice 的表格响应式布局小技巧](https://juejin.cn/post/7114504079467872293) | Wed Jun 29 2022 3:50 AM 
+- 🤗 [云音乐FeatureStore建设与实践](https://juejin.cn/post/7114542058030759944) | Wed Jun 29 2022 6:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    随着云音乐业务的不断发展拓宽，算法侧对特征开发的效率、特征数据的准确性、特征读写的性能、使用资源的大小等都有了更高的要求，我们以此为契机沉淀了一整套特征工程解决方案来应对以上的问题。 
+    </details> 
+
+- 🎡 [基于信通院 Serverless 工具链模型的实践：Serverless Devs](https://juejin.cn/post/7114539239798374431) | Wed Jun 29 2022 6:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    Serverless Devs 作为开源开放的开发者工具，自其立项始，便以提升 Servelress 应用研发效能为目标，以让 Serverless 架构更好用、更易用为准则，期望在 Serverle 
+    </details> 
+
+- 🕯 [超 Nice 的表格响应式布局小技巧](https://juejin.cn/post/7114504079467872293) | Wed Jun 29 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     今天，遇到了一个很有意思的问题，一名群友问我，仅仅使用 CSS，能否实现这样一种响应式的布局效果： 简单解析一下效果： 在屏幕视口较为宽时，表现为一个整体 Table 的样式 而当屏幕视口宽度较小时， 
     </details> 
 
-- 🎡 [新朝旧将 vite和webpack煮酒论英雄](https://juejin.cn/post/7114503513039716388) | Wed Jun 29 2022 3:48 AM 
+- 🚀 [新朝旧将 vite和webpack煮酒论英雄](https://juejin.cn/post/7114503513039716388) | Wed Jun 29 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
     我们见证了 webpack、Rollup 和 Parcel 等工具的变迁，它们极大地改善了前端开发者的开发体验。 
     </details> 
 
-- 🕯 [如何制作 Figma 插件](https://juejin.cn/entry/7114491947074453540) | Wed Jun 29 2022 3:02 AM 
+- 💪 [更好用的 Python 任务自动化工具：nox 官方教程](https://juejin.cn/post/7114501740766232589) | Wed Jun 29 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-    Figma 是一款专业的在线 UI 设计工具，它因为个人使用免费、在线跨平台、多人协作、蓬勃的 Figma Community 社区组织而广受欢迎。目前设计团队都在使用 Figma 进行 UI 设计交 
-    </details> 
-
-- 🚀 [Mybatis搞两下（sqlsession，动态代理）](https://juejin.cn/post/7114481350429638693) | Wed Jun 29 2022 2:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    Mybatis搞两下（sqlsession，动态代理） 本文已参与「新人创作礼」活动，一起开启掘金创作之路。 本文主要介绍SqlSession的创建流程和Mybatis的动态代理，其中动态代理实操了源 
-    </details> 
-
-- 💪 [【C++】“引用“的特性与使用原则](https://juejin.cn/post/7114477611635441700) | Wed Jun 29 2022 2:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    C++引用最基本的特性在于——不能将读写权限放大。本文已参与「新人创作礼」活动，一起开启掘金创作之路。 
+    本教程将引导你学会安装、配置和运行 Nox。 安装 Nox 可以通过pip轻松安装： python3 -m pip install nox 你可能希望使用用户站点&lpar;user site&rpar;来避免对全局的  
     </details> 
 <!-- juejin:END -->
 ### 少数派
