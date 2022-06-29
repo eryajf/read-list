@@ -131,53 +131,54 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有哪个品牌的安卓手机，可以在 macOS 上直接操作呢？](https://www.v2ex.com/t/862960#reply2) | Wed Jun 29 2022 8:19 AM 
+- 🥸 [目前安卓开发测试机要求支持 xposed 内存尽可能大的推荐？](https://www.v2ex.com/t/862987#reply0) | Wed Jun 29 2022 9:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;拿出来 5X 测试自己 app 用了用发现年代久远 nexus 内存太小，xposed 插件多装几个就内存溢出一样卡的要死闪退&lt;/p&gt;
+&lt;p&gt;打算换机，希望能够：
+1.解 BL ，刷原版安卓
+2.内存尽可能大，/下面的文件系统空间也尽可能大
+3.稳定，品控好些的 （踩过骁龙 808 810 大火炉脱焊虚焊降频的坑）&lt;/p&gt;
+&lt;p&gt;电池续航无所谓（基本测试时候一直插电用），摄像头分辨率什么的也无所谓用不到指纹什么的也不需要&lt;/p&gt;
+&lt;p&gt;自己测试 app 和日常墙外 app 用，预算打算两档 500 以内和 1000 以内，肯定是收二手回来耍，先谢谢各位&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [对部分转义的 JSON 如何进行 unmarshal？](https://www.v2ex.com/t/862985#reply0) | Wed Jun 29 2022 9:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;最近写代码请求一个 api ，返回的 json 如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-json&quot;&gt;{
+    &quot;publisher&quot;: &quot;中国人民大学出版社&quot;,
+    &quot;holdings&quot;: &quot;[{\&quot;callNo\&quot;:\&quot;F820/49=7\&quot;,\&quot;shelfMark\&quot;:null,\&quot;itemsCount\&quot;:1}]&quot;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我想对&lt;code&gt;holdings&lt;/code&gt;进行 unmarshal ，但尝试了一下直接调用函数，出现报错。&lt;/p&gt;
+&lt;p&gt;我个人目前的想法是取出&lt;code&gt;holdings&lt;/code&gt;，使用&lt;code&gt;strconv.Unquote&lt;/code&gt;转义后再 unmarshal ，但感觉比较复杂，请问各位有什么好的办法？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [求推荐消息队列相关的书](https://www.v2ex.com/t/862964#reply0) | Wed Jun 29 2022 8:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;求推荐，读书上瘾。。。。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [有没有哪个品牌的安卓手机，可以在 macOS 上直接操作呢？](https://www.v2ex.com/t/862960#reply4) | Wed Jun 29 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
     
 	因为工作需要在安卓手机上浏览一些 app ，但是有时候不太方便拿出来手机&lt;br /&gt;&lt;br /&gt;有没有这样的一款安卓手机，可以把屏幕或者某个 app 映射到 macOS 上面，在 macOS 上面进行相关的操作？&lt;br /&gt;&lt;br /&gt;（我使用过一些第三方软件比如「黑洞」，但是体验不好，所以希望找一款本身支持的手机品牌）&lt;br /&gt;&lt;br /&gt;（我知道 miui 似乎在 windows 上面可以，但是不支持 macOS ）
 	 
     </details> 
 
-- 🤗 [两台个人电脑能不能通过中间服务器进行 rsync 同步?](https://www.v2ex.com/t/862955#reply2) | Wed Jun 29 2022 8:13 AM 
+- 🐵 [两台个人电脑能不能通过中间服务器进行 rsync 同步?](https://www.v2ex.com/t/862955#reply11) | Wed Jun 29 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;需求就是有一个文件夹需要在两台电脑同步, 但是不需要实时同步, 所以想通过 rsync 进行同步, 但是 rsync 似乎需要其中一台电脑必须开启 rsync server&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [新手，请教一个 k8s 的问题](https://www.v2ex.com/t/862953#reply1) | Wed Jun 29 2022 8:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	中心服 A ，对外提供服务的 B 。B 需要将自己链接到 A ，同时需要对外提供服务。用户先到 A 去拿取 B 的地址在链接到 B 。&lt;br /&gt;&lt;br /&gt;A 可以部署多个，A 服务功能是一样的，采用 deployment 部署。对外访问用 service ，用户访问任意一个都行。&lt;br /&gt;&lt;br /&gt;B 也需要部署多个，虽然功能是一样，但是有服务的逻辑地址，又算是不同的服务。采用 statefulSet 部署，由 podID 来生成逻辑地址。&lt;br /&gt;&lt;br /&gt;类似于官方的案列：部署多个 mysql 服务。但是教程只到了 k8s 集群内通过 ip 来区分并访问不同的 mysql 。对于外部的访问怎么区分访问呢？&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;service 的方式是将一批 pod 统一暴露出去了，不能做到定向访问。怎么将 statefulSet 部署的 pod 通过外部访问，且用户能选择访问那一个 pod ？
-	 
-    </details> 
-
-- 🥷 [万能的 V 友，请教有没有一种运营友好的 k8s 的监控](https://www.v2ex.com/t/862951#reply4) | Wed Jun 29 2022 7:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;例如 &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.githubstatus.com/&quot; rel=&quot;nofollow&quot;&gt;https://www.githubstatus.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://ops.naibahq.com/&quot; rel=&quot;nofollow&quot;&gt;https://ops.naibahq.com/&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://nodestatus-production.up.railway.app/&quot; rel=&quot;nofollow&quot;&gt;https://nodestatus-production.up.railway.app/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;prometheus 这种可能适合运维与开发，想要一个拓扑比较粗 UI 友好给用户看的，有没有类似的项目呢&lt;/p&gt;
-&lt;p&gt;比如 哪吒监控这个超级合适 ，可惜是 VPS 的 带管路后台的。感觉用起来就很麻烦&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [Gnome Boxes 运行 Win10 虚拟机缓慢](https://www.v2ex.com/t/862941#reply0) | Wed Jun 29 2022 7:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;宿主机是 Fedora36 Workstation, CPU 是 AMD R5 3500U, 内存 10G, 用 Fedora 自带的 Gnome Boxes 运行 Win10, 分配的内存 3G, CPU8 个, 也安装了以下软件:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;spice-guest-tools-latest.exe&lt;/li&gt;
-&lt;li&gt;spice-webdavd-x64-latest.msi&lt;/li&gt;
-&lt;li&gt;virtio-win-guest-tools.exe&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;拖动窗口依然很卡, 操作不如 VirtualBox 流畅, 有什么解决办法吗? 还是说 Gnome Boxes 对 Win10 本来就优化差?&lt;/p&gt;
 
 	 
     </details> 
