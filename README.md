@@ -712,11 +712,141 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 🦆 [Go开发PHP扩展](https://techweb-allnews.com/articles/68847) | Sun Jun 19 2022 8:33 PM
-- 🦆 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://techweb-allnews.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
--  [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://techweb-allnews.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
-- 🌈 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://techweb-allnews.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM
-- 🧑‍🏫 [API 授权为啥要在  Authorization 标头里加个 Bearer？](https://techweb-allnews.com/articles/68715) | Tue Jun 14 2022 2:48 PM
+- 👍 [华强北最后的幸存者，是一家卖数据线的公司](http://www.techweb.com.cn/viewpoint/2022-06-28/2896084.shtml) | Tue Jun 28 2022 9:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;!--
+#toc,
+.toc,
+.mw-warning {
+border: 1px solid #aaa;
+background-color: #f9f9f9;
+padding: 5px;
+font-size: 95%;
+}
+#toc h2,
+.toc h2 {
+display: inline;
+border: none;
+padding: 0;
+font-size: 100%;
+font-weight: bold;
+}
+#toc #toctitle,
+.toc #toctitle,
+#toc .toctitle,
+.toc .toctitle {
+text-align: center;
+}
+#toc ul,
+.toc ul {
+list-style-type: none;
+list-style-image: none;
+margin-left: 0;
+padding-left: 0;
+text-align: left;
+}
+#toc ul ul,
+.toc ul ul {
+margin: 0 0 0 2em;
+}
+#toc .toctoggle,
+.toc .toctoggle {
+font-size: 94%;
+}body{
+padding-top : 1.000000in;
+padding-bottom : 1.000000in;
+padding-left : 1.250000in;
+padding-right : 1.250000in;
+font-family:&#39;Times New Roman&#39;;
+}
+--&gt;
+&lt;p&gt;随着&amp;ldquo;明通数码城&amp;rdquo;换上&amp;ldquo;明通化妆品&amp;rdquo;的招牌，华强北与电子产业的故事有了一个相对体面的收尾。1.45平方公里的商业区，曾经记录过诸如一年2000亿销售额，50多位亿万富翁等等商业传说。&lt;/p&gt;
+&lt;p&gt;走到创业板大门前的绿联科技，也许是整个华强北最后的幸存者。&lt;/p&gt;
+&lt;p&gt;绿联的创始人张清森，学的是跟电子产业没什么关系的国际金融专业，2009年，张清森在智能机革命的前夜下海，创办绿联公司，定位在手机品牌的数据线平替，不但逃过了智能机横扫一切的大清洗，反而依靠廉价的手机配件迅速壮大。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522230.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;华强北的工厂与供应链、依附于高科技产品的配件、国际品牌的廉价平替&amp;mdash;&amp;mdash;这是一个典型的中国制造业的故事。&lt;/p&gt;
+&lt;p&gt;01&lt;/p&gt;
+&lt;p&gt;绿联科技，不是你想的那种科技&lt;/p&gt;
+&lt;p&gt;2020年，苹果宣布iPhone不再附带充电头。随后，华为、三星、小米等一系列厂商纷纷一夜之间化身环保卫士，执行不附赠充电器的策略。&lt;/p&gt;
+&lt;p&gt;一个原装苹果充电头售价145元，一根原装数据线也是145元。所以，第三方手机配件出现的原因非常简单：消费者愿意花一万块钱买手机，不代表他们也愿意花100块买充电头。&lt;/p&gt;
+&lt;p&gt;绿联科技的业务也不复杂，就是原装配件的平替。其产品包括传输类的数据线，拓展坞，集线器，音视频类的无线耳机（只要一两百），以及几十块钱的充电宝等等。在低配平价的手机配件开始占据大众的心智之时，绿联科技成为了最大受益者。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522395.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;虽然公司名字里带着&amp;ldquo;科技&amp;rdquo;两个字，但绿联对科技的理解显然和主流观点有些差别。&lt;/p&gt;
+&lt;p&gt;在招股书里，绿联科技拥有的专利数为1204项，看起来科技感满满，但其中发明专利只有11项，90%都是&amp;ldquo;外观设计专利&amp;rdquo;。招股书披露的三个主要技术负责人中，一个帮助公司仓储管理云技术开发、一个负责精密模具注塑技术，还一个负责团队搭建。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522612.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;团队搭建算不算技术研发，这个见仁见智。但如果看看绿联科技的产品，可能也会理解绿联科技的&amp;ldquo;苦衷&amp;rdquo;。&lt;/p&gt;
+&lt;p&gt;从产品上看，绿联的产品本质上就是高技术数码产品的逆向还原。因为数据线、拓展坞、充电宝这些东西，本身没什么技术壁垒，大部分产品生产都是供应商完成的。在2021年1.57亿的研发投入中，大部分主要的投向还是产品模具和设计方案。&lt;/p&gt;
+&lt;p&gt;不过作为传统制造业，绿联的盈利能力可谓优秀，近三年营收分别为20.45亿，27.38亿，34.46亿，净利润为2.27亿，3.06亿，3.04亿，整体相当稳健，10%的利润率能吊打一堆同行了。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522354.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;和另一家做充电宝的公司安克创新一样，绿联的高利润率也有两个关键因素。&lt;/p&gt;
+&lt;p&gt;一个是拿到了大客户的认证：2014年，绿联通过了苹果的MFI认证，2018年又拿到了华为的DFH认证，顺利从编外员工变成了体制内。&lt;/p&gt;
+&lt;p&gt;另一个因素，则是海外市场的电商红利。&lt;/p&gt;
+&lt;p&gt;02&lt;/p&gt;
+&lt;p&gt;高利润的来源与隐忧&lt;/p&gt;
+&lt;p&gt;根据招股书披露的数据，绿联境外收入占比接近50%，曾经的华强北留下产业聚集效应，使得数码配件的生产成本极低，叠加海外市场的高购买力，2019年，绿联境外毛利率相比境内高出近30%，是公司提升净利率的主要来源。&lt;/p&gt;
+&lt;p&gt;绿联从2014年开始发力海外渠道，亚马逊、Shopee、Lazada、速卖通等跨境电商渠道基本都有它的身影，可谓吃尽了海外电商的红利期。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522539.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;虽然2020年公司毛利率大幅降低，但主因是原本记入销售费用的&amp;ldquo;快递及运费险&amp;rdquo;，在这一年转入主营业务成本，从而导致毛利下滑。&lt;/p&gt;
+&lt;p&gt;但2021年，绿联的利润率再次出现下滑，而且公司整体增收不增利，经营开始显现出疲态，这就是公司的经营遇到问题了。&lt;/p&gt;
+&lt;p&gt;作为面向C端的电子产品，主打的还是平替，消费者对价格非常敏感。一旦成本端出现风吹草动，很容易影响收入。和很多消费品公司一样，绿联也在2021年遇到了一个棘手的问题：原材料涨价。&lt;/p&gt;
+&lt;p&gt;一方面，原材料本身就是最大的成本项；另一方面，绿联很多产品都是从供应商那里采购贴牌，很难压价。芯片，公头，线材三大类主要原材料，每年都在以20%左右的速度涨价，其中芯片价格三年翻三倍 ，线材价格翻两倍，产品成本自然也得跟着涨。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522603.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;所以，就像苹果产业链上中国零部件供应商一样，绿联虽然有着更好的盈利能力，但由于本身的产品属性，在应对外部风险的时候，大家都是一样的脆弱。&lt;/p&gt;
+&lt;p&gt;03&lt;/p&gt;
+&lt;p&gt;制造业的缩影&lt;/p&gt;
+&lt;p&gt;无论是立讯精密、蓝思科技这样的代工企业，还是绿联这样的配件商，其本质都是在做高科技公司边缘的低附加值产业。这类产业往往有两个特点：&lt;/p&gt;
+&lt;p&gt;一个是没有定价权：由于没什么技术差异化的空间，配件品牌涨价都得小心翼翼，比如绿联的充电器和数据线在30元上下，罗马仕最便宜的不到10元，加上原装配件卡死了天花板，品牌自主定价的空间其实不大。&lt;/p&gt;
+&lt;p&gt;代工企业的情况则更差，往往是大客户规定好了利润&amp;mdash;&amp;mdash;毕竟&amp;ldquo;你不想干有的是人干&amp;rdquo;。&lt;/p&gt;
+&lt;p&gt;另一个则是可替代性强：最开始，国内果链中较大供应商是广达，但苹果不念旧情，推出Apple Watch时，马上把部分订单给了仁宝，MacBook的代工也被富士康以抢走了一块。2020年，广达逐渐剥离苹果业务，转投谷歌，它的毛利率涨到了6.4%，而当时留在苹果的仁宝毛利率只有3%。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522314.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;配件品牌自然也是一样，苹果今天给A发MFI认证，明天可以给B发，后天可以给C发。换句话说，命运始终不掌握在自己的手里。&lt;/p&gt;
+&lt;p&gt;所以，大多数代工厂会选择一种横向发展路线：比如以声学起家的歌尔，将版图扩张到声、光、电，组装四大业务；连接器起家的立讯，成为了苹果airpods第一大组装厂，最后甚至晋身成为iPhone的代工厂。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522987.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;从绿联的发展思路看，基本上也是这种&amp;ldquo;横向扩张&amp;rdquo;的路径，比如从最开始的数据线、充电器，到充电宝、无线耳机，目前绿联的新产品线上，还有智能硬件、视频转换器、可穿戴设备等等。&lt;/p&gt;
+&lt;p&gt;对于手机配件这种&amp;ldquo;边角料&amp;rdquo;产品来说，即便想要进行硬核的研发，也没什么研发空间，横向发展全品类或许是更好的选择。而它的残酷性体现在，即便形成了品牌，但企业的核心竞争力，还是对人力成本的压缩程度。&lt;/p&gt;
+&lt;p&gt;大概十年前，富士康新闻负责人在接受凤凰卫视采访时曾说，&amp;ldquo;中国制造是一分钱一分钱的赚，希望大家对富士康和中国制造，至少能有些许敬畏之心。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;我们所创造的很多奇迹，其实也是建立在这种残酷之上的。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656409522791.png&quot; border=&quot;0&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt; 
+    </details> 
+
+- 👹 [苹果M2 Pro芯片将采用3nm制程工艺 已向台积电预订产能](http://www.techweb.com.cn/world/2022-06-28/2896081.shtml) | Tue Jun 28 2022 9:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;【TechWeb】6月28日消息，据国外媒体报道，按上一代M系列芯片的命名方式，在6月9日推出采用第二代5纳米制程工艺打造、集成超过200亿个晶体管的M2芯片之后，苹果公司后续就将推出M2 Pro、M2 Max等M2系列的其他芯片。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656408353940.jpg&quot; border=&quot;0&quot; alt=&quot;pingguokuke_500&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;而外媒最新的报道显示，苹果后续将推出的M2 Pro芯片，将采用更先进的 3nm制程工艺打造，有报道称苹果已从台积电预订了3nm制程工艺的产能，用于未来的M2 Pro芯片。&lt;/p&gt;
+&lt;p&gt;在M2采用第二代的5nm制程工艺之后，后续推出的M2 Pro芯片，采用台积电的3nm制程工艺，也在意料之中。&lt;/p&gt;
+&lt;p&gt;按计划，台积电去年下半年开始风险试产的3nm制程工艺，将在今年下半年量产。此前也有分析师预计，苹果自研基于Arm架构的M2 Pro芯片，将在今年晚些时候量产，届时台积电的3nm工艺，预计就已经量产，能够为苹果代工M2 Pro芯片。&lt;/p&gt;
+&lt;p&gt;按惯例，在推出M2 Pro芯片时，苹果还会一并推出搭载这一芯片的新款硬件产品。此前已有分析师预计，14英寸和16英寸MacBook Pro、一款高端Mac mini，将会搭载M2 Pro芯片。&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt; 
+    </details> 
+
+- 🪜 [继德国后 欧盟2035年的汽油禁令再遭到五个国家的反对](http://www.techweb.com.cn/world/2022-06-28/2896078.shtml) | Tue Jun 28 2022 9:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;【TechWeb】6月28日消息，据国外媒体报道，继德国财政部长表示反对&amp;ldquo;到 2035 年禁止在欧盟境内销售燃油车&amp;rdquo;的计划之后，包括意大利、葡萄牙、斯洛伐克、保加利亚和罗马尼亚在内的几个欧洲国家也相继呼吁延迟这一计划。&lt;/p&gt;
+&lt;p&gt;上个月，欧盟议会投票赞成到2035年禁售燃油车的计划。遭到德国财政部长的强烈反对，随后来自意大利、葡萄牙、斯洛伐克、保加利亚和罗马尼亚的代表计划与理事会中提案的支持者和议员进行谈判，将禁令日期推迟5年。他们指出，如此迅速地实施禁令将对缺乏购买力的国家不利，迫使这些国家的公民承担不适当的负担。&lt;/p&gt;
+&lt;p&gt;欧盟表示，由于现代内燃机汽车的寿命较长，为了实现欧盟到2050年碳中和的目标，快速实施该禁令可能是必要的。&lt;/p&gt;
+&lt;p&gt;另外，在该问题上欧洲企业似乎存在同样的分歧。除了福特、沃尔沃、大众和梅赛德斯都表示支持通过该法案，其他企业要么选择保持沉默，要么支持推迟禁令。&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt; 
+    </details> 
+
+- 🤭 [夏普以近3亿美元拿下关键LCD工厂SDP所有权](http://www.techweb.com.cn/world/2022-06-28/2896073.shtml) | Tue Jun 28 2022 8:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;【TechWeb】6月28日消息，据国外媒体报道，根据周一宣布的一项协议，夏普以约400亿日元（2.96亿美元）的价格将LCD工厂运营商&amp;ldquo;堺显示器产品公司&amp;rdquo;（Sakai&amp;nbsp;Display&amp;nbsp;Products，简称SDP）转变为全资子公司。&lt;/p&gt;
+&lt;p&gt;2009年，夏普投资约4300亿日元成立了堺显示器产品公司。堺显示器产品公司是一家液晶显示器制造商，主要生产电视用大型液晶面板。此外，它还提供车用、游戏机用等中小尺寸面板产品。&lt;/p&gt;
+&lt;p&gt;成立之初，堺显示器产品公司是夏普的合并子公司，但由于夏普在电视产业的巨大亏损，该工厂在2012年被鸿海收购。之后，夏普与鸿海共同经营堺显示器产品公司。&lt;/p&gt;
+&lt;p&gt;2019年7月，日媒纷纷报道称，夏普有意评估重新购回堺显示器产品公司股权，进而收纳其为夏普子公司。&lt;/p&gt;
+&lt;p&gt;但是，在2021年2月份，夏普又宣布，将在3月份出售堺显示器产品公司的股份。这是因为堺显示器产品公司近年陷入亏损，夏普意在通过出售来实现业绩的稳定。&lt;/p&gt;
+&lt;p&gt;然而，一年后，事情又出现了变化。周一，夏普完成对堺显示器产品公司的收购手续，正式将堺显示器产品公司变为全资子公司，持股比例由原先的20%提高至100%。（小狐狸）&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt; 
+    </details> 
+
+- 🙉 [特斯拉柏林超级工厂7月4日开始三班倒生产Model Y](http://www.techweb.com.cn/world/2022-06-28/2896071.shtml) | Tue Jun 28 2022 8:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;【TechWeb】6月28日消息，据国外媒体报道，5月份开始两班制生产Model Y的特斯拉柏林超级工厂，在7月4日，也就是下周一，将开始三班倒生产。&lt;/p&gt;
+&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img src=&quot;http://upload.techweb.com.cn/2022/0628/1656405238974.jpg&quot; border=&quot;0&quot; alt=&quot;tesiladeguochaojigongchangy_500&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;外媒在报道中表示，特斯拉柏林超级工厂目前的两班制，一班从早上6:30开始，另一班则是从下午2:30开始，在加入第三班之后，工厂就将全天24小不间断生产Model Y。&lt;/p&gt;
+&lt;p&gt;在下周一开始三班倒生产之后，特斯拉柏林超级工厂Model Y的产量，也将会有明显提升。柏林超级工厂Model Y的周产量，在上上周就已达到了1000辆。&lt;/p&gt;
+&lt;p&gt;开始三班倒生产，也就意味着特斯拉位于柏林近郊勃兰登堡州格伦黑德的这一超级工厂，在生产线的员工就会更多，他们也就需要更多的员工。&lt;/p&gt;
+&lt;p&gt;外媒在报道中提到，特斯拉柏林超级工厂，目前已有约5000名员工，他们仍计划在未来的几个月大量招人，每月招聘数百人，外媒称特斯拉的目标是在年底有12000名工人。&lt;/p&gt;
+&lt;p&gt;由于电动汽车的生产，还需要大量的电池、芯片等各类零部件，因而柏林超级工厂Model Y的产能，在下周实行三班倒之后能否大幅提升，还需要充足的零部件供应。如果持续有充足的零部件供应，柏林超级工厂Model Y的产量，在三班倒之后就将快速提升。&lt;/p&gt;&lt;p style=&quot;text-align: center; text-indent: 0;&quot;&gt;&lt;img alt=&quot;文章&quot; src=&quot;http://s1.techweb.com.cn/static/img/20180614.png&quot; border=&quot;0&quot; /&gt;&lt;/p&gt; 
+    </details> 
 <!-- techweb-allnews:END -->
 
 
