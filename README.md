@@ -187,29 +187,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java Agent 踩坑之 appendToSystemClassLoaderSearch 问题](https://juejin.cn/post/7114570744989761544) | Wed Jun 29 2022 8:08 AM 
+- 🤗 [Dev Better技术沙龙精彩回顾｜WEB研发效能及新技术实践](https://juejin.cn/post/7114580546763620383) | Wed Jun 29 2022 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-    从 Java Agent 报错开始，到 JVM 原理，到 glibc 线程安全，再到 pthread tls，逐步探究 Java Agent 诡异报错。 
+    6月25日，由字节跳动基础架构开发者服务团队✖️华泰证券前端技术团队合作的字节跳动Dev Better系列技术沙龙｜WEB研发效能及新技术实践 直播活动成功在线上举办。 
     </details> 
 
-- 🎡 [仿抖音订单React组件设计、腾讯开源 Spring Cloud Tencent｜掘金一周 06.29](https://juejin.cn/post/7114558885628739592) | Wed Jun 29 2022 7:22 AM 
+- 🎡 [纯 CSS，Vue，React 实现轮播图， 帮你全部搞定](https://juejin.cn/post/7114573566061854751) | Wed Jun 29 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-    【掘金一周06.29】本期看点：仿抖音订单React组件设计、腾讯开源 Spring Cloud Tencent、数据库主键一定要自增吗.. 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第29天，点击查看活动详情 之前我们写了一篇使用 CSS 实现的，现在我们用 React 框架来实现一波。 React 最开始传入图 
     </details> 
 
-- 🕯 [React18 + React-Router v6 + TypeScript + Vite2 + Ant-Design 管理系统（开源啦🎉🎉）](https://juejin.cn/post/7114555646820745253) | Wed Jun 29 2022 7:10 AM 
+- 🕯 [Postman使用AES加密并更换请求body](https://juejin.cn/post/7114543649181925406) | Wed Jun 29 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-    Hooks-Admin 🚀 介绍 📖 🚀🚀🚀 Hooks Admin，基于 React18、React-Router v6、React-Hooks、Redux、TypeScript、Vite2、Ant 
+    Postman需要修改请求体，然后再传给后端，这里是在前置脚本中，做了AES加密并修改为jsonbody发给后端 
     </details> 
 
-- 🚀 [抛弃HTML Snippets，拥抱Emmet成为html大师！](https://juejin.cn/post/7114554784740950047) | Wed Jun 29 2022 7:06 AM 
+- 🚀 [【保姆级】Cucumber Test 流程](https://juejin.cn/post/7114542869951545357) | Wed Jun 29 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第30天，点击查看活动详情 前言 开开心心学技术大法~~ 来了来了，他真的来了~ 正文 11 &gt; + ^ * &lpar;&rpar; .xx #xx  
+    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第21天，点击查看活动详情 Cucumber简介 Cucumber 是一个能够理解用普通语言 描述的测试用例的行为驱动开发（BDD） 
     </details> 
 
-- 💪 [系统介绍浏览器缓存机制及前端优化方案](https://juejin.cn/post/7114540697276907551) | Wed Jun 29 2022 6:11 AM 
+- 💪 [postgresql 数据库 系统表](https://juejin.cn/post/7114540724833484831) | Wed Jun 29 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 缓存是用来做性能优化的好东西，但是，如果用不好缓存，就会产生一系列问题： 为什么我的页面显示的还是老版本 为什么我的网页白屏 请刷新下网页 ... 以上问题大家或多或少都遇到过，归根结底是使用缓 
+    本文已参与「新人创作礼亅活动，一起开启掘金创作之路。 postgresql 数据库 系统表 @[TOC] 版本11.5 系统表是关系型数据库存放模式元数据的地方，比如表和列的信息，以及内部统计信息等。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
