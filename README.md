@@ -131,7 +131,15 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [v 友大佬们急问！ wordpress 加速用 CDN 还是 OSS 镜像回源好？](https://www.v2ex.com/t/863014#reply3) | Wed Jun 29 2022 11:20 AM 
+- 🥸 [泼于练手，求推荐相对比较全的产品原型平台](https://www.v2ex.com/t/863042#reply0) | Wed Jun 29 2022 2:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;自己想做点什么总是想不到，就想看看有没有那种成型的产品原型，跟着产品原型撸，好像比较快，也不用纠结样式布局...&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [v 友大佬们急问！ wordpress 加速用 CDN 还是 OSS 镜像回源好？](https://www.v2ex.com/t/863014#reply3) | Wed Jun 29 2022 11:20 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;一般来说业界用哪种方案啊，   &lt;/p&gt;
@@ -141,7 +149,7 @@
 	 
     </details> 
 
-- 🤗 [jetbrains 产品将于 2022 年 11 月 1 日涨价,普遍涨了 20 刀，全家桶涨了 40 刀。](https://www.v2ex.com/t/863011#reply27) | Wed Jun 29 2022 11:15 AM 
+- 🎭 [jetbrains 产品将于 2022 年 11 月 1 日涨价,普遍涨了 20 刀，全家桶涨了 40 刀。](https://www.v2ex.com/t/863011#reply35) | Wed Jun 29 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;AppCode 好像没涨，另外现在可以一次性续 3 年。大家会提前续费吗？&lt;/p&gt;
@@ -150,7 +158,7 @@
 	 
     </details> 
 
-- 🎭 [有没有 C/C++做 部分预处理 的工具](https://www.v2ex.com/t/862999#reply5) | Wed Jun 29 2022 10:03 AM 
+- 🥷 [有没有 C/C++做 部分预处理 的工具](https://www.v2ex.com/t/862999#reply5) | Wed Jun 29 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;需求大概就是在#define 或者#include 头文件不完整的情况下做预处理，有多少做多少，as much as possible ，缺失的保持原状。&lt;/p&gt;
@@ -160,20 +168,10 @@
 	 
     </details> 
 
-- 🥷 [segmentfault 删库跑路了吗？](https://www.v2ex.com/t/862997#reply3) | Wed Jun 29 2022 10:02 AM 
+- 🐵 [segmentfault 删库跑路了吗？](https://www.v2ex.com/t/862997#reply3) | Wed Jun 29 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;刚想查个问题，进去一个大大的 502😅&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [写了一个开源的面向数据库 IO 的零冗余数据缓存框架，希望大佬们给些意见](https://www.v2ex.com/t/862993#reply2) | Wed Jun 29 2022 9:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;业余时间花了一年左右写了一个开源缓存框架 Kache ，主要用于以类似 Spring cache 的使用方式下沉到数据库持久化操作。可以将有限的空间放大应用于更多的缓存上，增强缓存命中率和降低缓存变动成本
-仓库地址： &lt;a href=&quot;https://gitee.com/Kould/kache&quot; rel=&quot;nofollow&quot;&gt;https://gitee.com/Kould/kache&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;希望各位大佬多多给予意见，能 star 或推荐一下！&lt;/p&gt;
 
 	 
     </details> 
