@@ -180,29 +180,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Day1：原生JavaScript挑战之Drum Kit](https://juejin.cn/post/7114869372144844814) | Thu Jun 30 2022 3:27 AM 
+- 🤗 [面试突击62：group by 有哪些注意事项？](https://juejin.cn/post/7114874113579040781) | Thu Jun 30 2022 3:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    group by 后面不能加 where 在 MySQL 中，所有的 SQL 查询语法要遵循以下语法 
+    </details> 
+
+- 🎡 [Python 中更优雅的日志记录方案](https://juejin.cn/post/7114873783076257799) | Thu Jun 30 2022 3:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    在 Python 中，一般情况下我们可能直接用自带的 logging 模块来记录日志，包括我之前的时候也是一样。在使用时我们需要配置一些 Handler、Formatter 来进行一些处理，比如把日志 
+    </details> 
+
+- 🕯 [你可能不知道的 Python 技巧](https://juejin.cn/post/7114871768254251021) | Thu Jun 30 2022 3:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    有许许多多文章写了 Python 中的许多很酷的特性，例如变量解包、偏函数、枚举可迭代对象，但是关于 Python 还有很多要讨论的话题，因此在本文中，我将尝试展示一些我知道的和在使用的，但很少在其它 
+    </details> 
+
+- 🚀 [进一步学习 nox 教程，轻松掌握命令行用法](https://juejin.cn/post/7114869933422411790) | Thu Jun 30 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    调用方式 nox 通常是在命令行上被调用的： nox 你还可以通过 Python 解释器调用 nox： python3 -m nox 列出可用的会话 列出所有可用的会话，包括参数化的会话： 运行所有会 
+    </details> 
+
+- 💪 [Day1：原生JavaScript挑战之Drum Kit](https://juejin.cn/post/7114869372144844814) | Thu Jun 30 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
     挑战者需要实现一个“击鼓”的效果，界面上一共有九个鼓点，当用户在键盘上按下 ASDFGHJKL 这几个键，或者点击鼠标和触摸屏幕时，显示对应的击鼓视觉效果和播放对应的音效。 
-    </details> 
-
-- 🎡 [揭秘得物客服IM全链路通信过程](https://juejin.cn/post/7114859353915523102) | Thu Jun 30 2022 2:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    对于整个客服体系在用户端触达人工会话前会经历哪些过程呢？客服人员又是怎样保证精准又快速地匹配到用户解答用户的疑惑诉求，接下来一探究竟吧。 
-    </details> 
-
-- 🕯 [如何快速设计一套支持渲染富文本内容的跨端组件](https://juejin.cn/post/7114851378807177223) | Thu Jun 30 2022 2:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    背景 不知道大家有没有遇到过这种需求，在管理后台配置一段富文本 html 内容，一开始呢，只需要支持渲染到浏览器上面，但随着公司业务的变化，可能需要在小程序上使用，甚至是 ios 或者 android 
-    </details> 
-
-- 🚀 [把「Go静态分析」放进你的工具箱](https://juejin.cn/post/7114851198762483748) | Thu Jun 30 2022 2:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文期望扩充静态分析的定义，掌握静态分析的原理，基于特定场景，可以组装属于自己的工具，提升开发效率，把「Go静态分析」放进你的工具箱。 
-    </details> 
-
-- 💪 [Spring框架系列&lpar;9&rpar; - Spring AOP实现原理详解之AOP切面的实现](https://juejin.cn/post/7114808200662089765) | Wed Jun 29 2022 11:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    前文，我们分析了Spring IOC的初始化过程和Bean的生命周期等，而Spring AOP也是基于IOC的Bean加载来实现的。本文主要介绍Spring AOP原理解析的切面实现过程（将切面类的所 
     </details> 
 <!-- juejin:END -->
 ### 少数派
