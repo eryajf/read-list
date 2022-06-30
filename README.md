@@ -145,7 +145,7 @@
 	 
     </details> 
 
-- 🎭 [深夜感慨，公司裁员了，我却还在](https://www.v2ex.com/t/863325#reply11) | Thu Jun 30 2022 4:15 PM 
+- 🎭 [深夜感慨，公司裁员了，我却还在](https://www.v2ex.com/t/863325#reply12) | Thu Jun 30 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;6 月初我们组还有 7 个人，截止 6-30 ，只剩 2 个人了。&lt;/p&gt;
