@@ -271,10 +271,10 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [名创优品香港上市最高发售价每股22.1港元 拟全球发行4100万股](http://www.techweb.com.cn/finance/2022-06-29/2896266.shtml) | Wed Jun 29 2022 12:23 PM
-- 👹 [京东与腾讯开启第三轮战略合作 进一步拓展深化消费、技术、供应链合作](http://www.techweb.com.cn/it/2022-06-29/2896264.shtml) | Wed Jun 29 2022 11:54 AM
-- 🪜 [外媒：特斯拉上海超级工厂仍在向德国出口长续航版Model Y](http://www.techweb.com.cn/world/2022-06-29/2896257.shtml) | Wed Jun 29 2022 10:00 AM
-- 🤭 [日本瑞萨联手印度塔塔汽车开发下一代汽车芯片解决方案](http://www.techweb.com.cn/world/2022-06-29/2896256.shtml) | Wed Jun 29 2022 9:51 AM
-- 🙉 [腾讯QQ物联PC端服务将下架 8月发布的新版本将不再兼容物联服务](http://www.techweb.com.cn/internet/2022-06-29/2896255.shtml) | Wed Jun 29 2022 9:42 AM<!-- techweb-allnews:END -->
+- 👍 [阿里云李飞飞：中国云数据库在很多主流技术创新上已经领先国外](http://www.techweb.com.cn/it/2022-06-30/2896296.shtml) | Thu Jun 30 2022 1:18 AM
+- 👹 [我国首个桌面操作系统开发者平台“开放麒麟”（openKylin）正式发布](http://www.techweb.com.cn/internet/2022-06-30/2896289.shtml) | Thu Jun 30 2022 1:14 AM
+- 🪜 [名创优品香港上市最高发售价每股22.1港元 拟全球发行4100万股](http://www.techweb.com.cn/finance/2022-06-29/2896266.shtml) | Wed Jun 29 2022 12:23 PM
+- 🤭 [京东与腾讯开启第三轮战略合作 进一步拓展深化消费、技术、供应链合作](http://www.techweb.com.cn/it/2022-06-29/2896264.shtml) | Wed Jun 29 2022 11:54 AM
+- 🙉 [外媒：特斯拉上海超级工厂仍在向德国出口长续航版Model Y](http://www.techweb.com.cn/world/2022-06-29/2896257.shtml) | Wed Jun 29 2022 10:00 AM<!-- techweb-allnews:END -->
 
 
