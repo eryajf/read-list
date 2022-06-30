@@ -131,7 +131,102 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有 chrome 批量截屏平替软件吗？ FireShot](https://www.v2ex.com/t/863296#reply0) | Thu Jun 30 2022 12:29 PM 
+- 🥸 [CabloyJS 4.22 重磅推出弹出式页面交互风格](https://www.v2ex.com/t/863301#reply0) | Thu Jun 30 2022 1:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;h2&gt;升级说明&lt;/h2&gt;
+&lt;p&gt;我们知道 CabloyJS 提供了&lt;code&gt;pc=mobile+pad 自适应布局&lt;/code&gt;机制，可以通过一套代码同时适配 mobile 端和 pc 端。基本思路就是优先适配 mobile 端，然后再把 mobile 端的交互体验带入 pc 端。因此，pc 端可以看作是许多 mobile 尺寸和 pad 尺寸页面组件的组合。在旧版本中，这些页面组件就像大大小小的手机和平板依次向右展开，可以称作&lt;code&gt;展开式&lt;/code&gt;交互风格&lt;/p&gt;
+&lt;p&gt;新版本&lt;code&gt;CabloyJS 4.22&lt;/code&gt;提供了&lt;code&gt;弹出式&lt;/code&gt;交互风格。这样，用户可以根据 pc 电脑的尺寸大小和个人喜好，在这两个交互风格中随时切换&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;关于&lt;code&gt;pc=mobile+pad 自适应布局&lt;/code&gt;机制的详细信息，请参见文档：&lt;a href=&quot;https://cabloy.com/zh-cn/articles/adaptive-layout.html&quot; rel=&quot;nofollow&quot;&gt;自适应布局：pc = mobile + pad&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;意义&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;CabloyJS 4.22&lt;/code&gt;的发布，重磅引入&lt;code&gt;弹出式&lt;/code&gt;页面交互风格，是及其主要的里程碑，将 CabloyJS 推入一个新的发展阶段&lt;/p&gt;
+&lt;p&gt;是以为记 2022 年 6 月 30 日&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;预览&lt;/h2&gt;
+&lt;h3&gt;1. PC 端（展开式）&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;layoutpc-tile-zhcn&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://admin.cabloy.com/api/a/file/file/download/487c6c81a8984da8822aaec7a5676c1e.gif&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;2. PC 端（弹出式）&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;layoutpc-popup-zhcn&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://admin.cabloy.com/api/a/file/file/download/95d88b18fd2347cd902507d44da81b1b.gif&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;3. Mobile 端&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;layoutmobile-zhcn&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://admin.cabloy.com/api/a/file/file/download/a0dd451e2bd74337ae026075aee9ca3d.gif&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;演示站点&lt;/h2&gt;
+&lt;p&gt;直接浏览 CabloyJS 的演示站点，增加更直观的感性认知&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;体验 CabloyJS 应对大型项目的&lt;code&gt;三驾马车&lt;/code&gt;：&lt;code&gt;套件&lt;/code&gt;、&lt;code&gt;模块&lt;/code&gt;、&lt;code&gt;App 应用&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;体验与众不同的&lt;code&gt;pc=mobile+pad&lt;/code&gt;自适应布局风格，强烈推荐：分别用&lt;code&gt;PC&lt;/code&gt;和&lt;code&gt;Mobile&lt;/code&gt;单独体验演示站点。&lt;strong&gt;此言不虚，请您品鉴&lt;/strong&gt;！！！&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;演示站点：&lt;a href=&quot;https://test.cabloy.com/&quot; rel=&quot;nofollow&quot;&gt;https://test.cabloy.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;演示站点的二维码：
+&lt;img alt=&quot;cabloy-test&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://admin.cabloy.com/api/a/file/file/download/d8cedc9dd14e4a10a06ba1627b6ed1a1.png&quot;/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;相关链接&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;文档: &lt;a href=&quot;https://cabloy.com/&quot; rel=&quot;nofollow&quot;&gt;https://cabloy.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/zhennann/cabloy&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zhennann/cabloy&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+	 
+    </details> 
+
+- 🤗 [Github 无法触发阿里云 CI 的 webhook？](https://www.v2ex.com/t/863300#reply0) | Thu Jun 30 2022 1:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://content.hackertalk.net/pub/oEQp9B-6JXWgNp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;最近发现推送代码后阿里云的 webhook 都无法触发了，各位有没相同情况&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hackertalk.net/posts/330456565271470080&quot; rel=&quot;nofollow&quot;&gt;原帖地址&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [Sandboxie-Plus 如何允许摄像头](https://www.v2ex.com/t/863298#reply0) | Thu Jun 30 2022 12:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;把微信和 TIM ，放到沙盒运行后，发现无法使用摄像头，我已经勾选了允许沙盒内程序管理硬件设备&lt;/p&gt;
+&lt;p&gt;配置文件如下&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Enabled=y
+ConfigLevel=9
+AutoRecover=y
+AutoRecover=n
+BlockNetworkFiles=y
+Template=OpenBluetooth
+Template=SkipHook
+Template=FileCopy
+Template=qWave
+Template=BlockPorts
+Template=LingerPrograms
+Template=Chrome_Phishing_DirectAccess
+Template=Firefox_Phishing_DirectAccess
+Template=AutoRecoverIgnore
+RecoverFolder=%Favorites%
+RecoverFolder=%{374DE290-123F-4565-9164-39C4925E467B}%
+RecoverFolder=%Personal%
+RecoverFolder=%Desktop%
+BorderColor=#00FFFF,ttl
+OpenPipePath=D:\Program Files &lpar;x86&rpar;\Tencent\
+OpenPipePath=D:\TIM\
+ProcessGroup=&amp;lt;InternetAccess&amp;gt;,chrome.exe
+ClosedFilePath=C:\Users\brucm\AppData\Local\Google\
+OpenDevCMApi=y
+OpenFilePath=&amp;lt;BlockNetDevices&amp;gt;,InternetAccessDevices
+ClosedFilePathDisabled=&amp;lt;BlockNetDevices&amp;gt;,InternetAccessDevices
+&lt;/code&gt;&lt;/pre&gt;
+
+	 
+    </details> 
+
+- 🥷 [有 chrome 批量截屏平替软件吗？ FireShot](https://www.v2ex.com/t/863296#reply1) | Thu Jun 30 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;RT 、用了 30 天  用是真的好用，打开所有窗口，点击一下全部截屏保存。
@@ -140,42 +235,13 @@
 	 
     </details> 
 
-- 🤗 [Android 应用的权限控制适用于 App 内部的 .so 文件吗？](https://www.v2ex.com/t/863295#reply0) | Thu Jun 30 2022 12:28 PM 
+- 🐵 [Android 应用的权限控制适用于 App 内部的 .so 文件吗？](https://www.v2ex.com/t/863295#reply2) | Thu Jun 30 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;不太了解这一块&lt;/p&gt;
 &lt;p&gt;我理解 .so 文件应该是直接调用 Linux 系统 API 了，和 App 不在一个层面&lt;/p&gt;
 &lt;p&gt;但是如果 .so 可以做 &lpar;root 权限之外的&rpar; 所有事情，那么 Android 的权限控制不是形同虚设了吗？&lt;/p&gt;
 &lt;p&gt;如果并非如此，难道有一个 &quot;Android 权限&quot; 到 &quot;Linux 系统 API&quot; 的映射表这样一个存在吗？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [请教一下大家如何在不能使用 iframe 的前提下在一个网页里面完整的引入另外一个网页](https://www.v2ex.com/t/863294#reply2) | Thu Jun 30 2022 12:09 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;前端设置了&lt;code&gt;X-Frame-Options: DENY&lt;/code&gt;导致不能使用 iframe 嵌入网页。&lt;/p&gt;
-&lt;p&gt;在 bing 简单找了一下解决方案（ include/import ）都不能太好的实现，想问一下各路大神有没有什么好的解决方案。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [登录状态下谷歌搜索结果的工具按钮不见了](https://www.v2ex.com/t/863288#reply0) | Thu Jun 30 2022 11:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;经常用工具过滤搜索结果，特别是找一些教程之类限制时间可以过滤掉一些过时的结果，特别好用。今天发现工具按钮没了。&lt;/p&gt;
-&lt;p&gt;reddit 看到有人也有一样问题，换个小号按钮回来了...账号我也不想换啊，这什么沙雕 feature 啊-_-b&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pbs.twimg.com/media/FWfp7rJUIAEhznv?format=jpg&amp;amp;name=large&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pbs.twimg.com/media/FWfqBBqUUAAysn3?format=jpg&amp;amp;name=large&quot;/&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [jdk 17 应该选择哪个供应商](https://www.v2ex.com/t/863287#reply14) | Thu Jun 30 2022 11:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;oracle jdk 17 免费了。但看有些解读。免费仍然有限制。
-其他发行商不知道哪个更适合商用些。&lt;/p&gt;
 
 	 
     </details> 
