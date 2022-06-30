@@ -131,7 +131,27 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply0) | Thu Jun 30 2022 1:56 PM 
+- 🥸 [寻求大佬写一个协议注册 apple id](https://www.v2ex.com/t/863314#reply2) | Thu Jun 30 2022 2:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;寻求大佬写一个协议注册 apple id ，能力有限只会写模拟的。
+1 、可多线程批量注册
+2 、支持代理池
+3 、邮箱验证，无需手机号（手机号验证以后默认开启了两步认证）
+如有意请留联系方式，感谢&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [求解，侄子毕业，现在万元以内计算机系有啥推荐的 win 本](https://www.v2ex.com/t/863309#reply3) | Thu Jun 30 2022 2:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;如题了，肯定会有部分游戏需求，预算 7000 ～ 10000 吧&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply2) | Thu Jun 30 2022 1:56 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;数据库叫 StoneDB ，基于 MySQL 原生开发，遵循 GPL 协议。
@@ -142,7 +162,7 @@
 	 
     </details> 
 
-- 🤗 [CabloyJS 4.22 重磅推出弹出式页面交互风格](https://www.v2ex.com/t/863301#reply1) | Thu Jun 30 2022 1:31 PM 
+- 🥷 [CabloyJS 4.22 重磅推出弹出式页面交互风格](https://www.v2ex.com/t/863301#reply1) | Thu Jun 30 2022 1:31 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;h2&gt;升级说明&lt;/h2&gt;
@@ -191,57 +211,12 @@
 	 
     </details> 
 
-- 🎭 [Github 无法触发阿里云 CI 的 webhook？](https://www.v2ex.com/t/863300#reply1) | Thu Jun 30 2022 1:21 PM 
+- 🐵 [Github 无法触发阿里云 CI 的 webhook？](https://www.v2ex.com/t/863300#reply3) | Thu Jun 30 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://content.hackertalk.net/pub/oEQp9B-6JXWgNp&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;最近发现推送代码后阿里云的 webhook 都无法触发了，各位有没相同情况&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://hackertalk.net/posts/330456565271470080&quot; rel=&quot;nofollow&quot;&gt;原帖地址&lt;/a&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [Sandboxie-Plus 如何允许摄像头](https://www.v2ex.com/t/863298#reply0) | Thu Jun 30 2022 12:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;把微信和 TIM ，放到沙盒运行后，发现无法使用摄像头，我已经勾选了允许沙盒内程序管理硬件设备&lt;/p&gt;
-&lt;p&gt;配置文件如下&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Enabled=y
-ConfigLevel=9
-AutoRecover=y
-AutoRecover=n
-BlockNetworkFiles=y
-Template=OpenBluetooth
-Template=SkipHook
-Template=FileCopy
-Template=qWave
-Template=BlockPorts
-Template=LingerPrograms
-Template=Chrome_Phishing_DirectAccess
-Template=Firefox_Phishing_DirectAccess
-Template=AutoRecoverIgnore
-RecoverFolder=%Favorites%
-RecoverFolder=%{374DE290-123F-4565-9164-39C4925E467B}%
-RecoverFolder=%Personal%
-RecoverFolder=%Desktop%
-BorderColor=#00FFFF,ttl
-OpenPipePath=D:\Program Files &lpar;x86&rpar;\Tencent\
-OpenPipePath=D:\TIM\
-ProcessGroup=&amp;lt;InternetAccess&amp;gt;,chrome.exe
-ClosedFilePath=C:\Users\brucm\AppData\Local\Google\
-OpenDevCMApi=y
-OpenFilePath=&amp;lt;BlockNetDevices&amp;gt;,InternetAccessDevices
-ClosedFilePathDisabled=&amp;lt;BlockNetDevices&amp;gt;,InternetAccessDevices
-&lt;/code&gt;&lt;/pre&gt;
-
-	 
-    </details> 
-
-- 🐵 [有 chrome 批量截屏平替软件吗？ FireShot](https://www.v2ex.com/t/863296#reply1) | Thu Jun 30 2022 12:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;RT 、用了 30 天  用是真的好用，打开所有窗口，点击一下全部截屏保存。
-我还以为使用删除安装还能用。哈哈&lt;/p&gt;
 
 	 
     </details> 
