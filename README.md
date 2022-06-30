@@ -243,10 +243,10 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [艾迈斯欧司朗推出其首个纯集成电路生命体征传感器系列AS705x](http://www.techweb.com.cn/internet/2022-06-30/2896395.shtml) | Thu Jun 30 2022 8:45 AM
-- 👹 [领先台积电 三星电子已开始量产3纳米芯片](http://www.techweb.com.cn/world/2022-06-30/2896394.shtml) | Thu Jun 30 2022 8:30 AM
-- 🪜 [LG显示OLED面板扩张计划放缓 因受供应链限制](http://www.techweb.com.cn/world/2022-06-30/2896393.shtml) | Thu Jun 30 2022 8:28 AM
-- 🤭 [Snapchat应用程序付费版正式发布](http://www.techweb.com.cn/world/2022-06-30/2896386.shtml) | Thu Jun 30 2022 8:11 AM
-- 🙉 [集度回应“吉利退出”：百度和吉利共同持股 夏一平仍为CEO](http://www.techweb.com.cn/smarttraveling/2022-06-30/2896375.shtml) | Thu Jun 30 2022 7:30 AM<!-- techweb-allnews:END -->
+- 👍 [15年做糊21款硬件，谷歌到底栽在哪儿？](http://www.techweb.com.cn/viewpoint/2022-06-30/2896427.shtml) | Thu Jun 30 2022 9:55 AM
+- 👹 [消费电子需求放缓 韩国5月芯片库存创4年最多](http://www.techweb.com.cn/world/2022-06-30/2896423.shtml) | Thu Jun 30 2022 9:47 AM
+- 🪜 [“女性车”赛道是个伪命题](http://www.techweb.com.cn/viewpoint/2022-06-30/2896418.shtml) | Thu Jun 30 2022 9:39 AM
+- 🤭 [奈雪的茶上市一周年推出虚拟股票：一文说透怎么玩，是否违法？](http://www.techweb.com.cn/it/2022-06-30/2896415.shtml) | Thu Jun 30 2022 9:25 AM
+- 🙉 [新款iPhone SE在日本市场需求强劲 但美国市场表现欠佳](http://www.techweb.com.cn/world/2022-06-30/2896413.shtml) | Thu Jun 30 2022 9:19 AM<!-- techweb-allnews:END -->
 
 
