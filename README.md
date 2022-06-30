@@ -269,10 +269,10 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [Strategy Analytics：6.18网购节智能手机销量为1400万部 同比下降25%](http://www.techweb.com.cn/internet/2022-06-30/2896342.shtml) | Thu Jun 30 2022 3:04 AM
-- 👹 [美FCC成员要求苹果谷歌从商店中下架TikTok](http://www.techweb.com.cn/world/2022-06-30/2896341.shtml) | Thu Jun 30 2022 3:01 AM
-- 🪜 [上海汽车业复产：希望这里学到的经验，以后用不上](http://www.techweb.com.cn/viewpoint/2022-06-30/2896339.shtml) | Thu Jun 30 2022 2:53 AM
-- 🤭 [Spectricity与X-FAB共同推出用于移动设备的光谱成像解决方案](http://www.techweb.com.cn/it/2022-06-30/2896336.shtml) | Thu Jun 30 2022 2:44 AM
-- 🙉 [美光针对数据中心推出业界首款基于176层NAND的SATA SSD](http://www.techweb.com.cn/it/2022-06-30/2896325.shtml) | Thu Jun 30 2022 2:28 AM<!-- techweb-allnews:END -->
+- 👍 [全球首家：三星宣布已量产 3 纳米芯片](http://www.techweb.com.cn/it/2022-06-30/2896349.shtml) | Thu Jun 30 2022 4:08 AM
+- 👹 [车企大佬抢锂忙](http://www.techweb.com.cn/viewpoint/2022-06-30/2896347.shtml) | Thu Jun 30 2022 3:38 AM
+- 🪜 [英特尔CEO：若美国会不落实芯片补贴法案 将优先考虑在欧洲建厂](http://www.techweb.com.cn/world/2022-06-30/2896346.shtml) | Thu Jun 30 2022 3:38 AM
+- 🤭 [Strategy Analytics：6.18网购节智能手机销量为1400万部 同比下降25%](http://www.techweb.com.cn/internet/2022-06-30/2896342.shtml) | Thu Jun 30 2022 3:04 AM
+- 🙉 [美FCC成员要求苹果谷歌从商店中下架TikTok](http://www.techweb.com.cn/world/2022-06-30/2896341.shtml) | Thu Jun 30 2022 3:01 AM<!-- techweb-allnews:END -->
 
 
