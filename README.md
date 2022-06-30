@@ -266,10 +266,10 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [加码电动汽车和豪华车业务 梅赛德斯-奔驰将向欧洲工厂投资逾20亿欧元](http://www.techweb.com.cn/world/2022-06-30/2896352.shtml) | Thu Jun 30 2022 5:06 AM
-- 👹 [消息人士：特斯拉得克萨斯超级工厂每周最多已可生产5000辆Model Y](http://www.techweb.com.cn/world/2022-06-30/2896351.shtml) | Thu Jun 30 2022 4:11 AM
-- 🪜 [全球首家：三星宣布已量产 3 纳米芯片](http://www.techweb.com.cn/it/2022-06-30/2896349.shtml) | Thu Jun 30 2022 4:08 AM
-- 🤭 [车企大佬抢锂忙](http://www.techweb.com.cn/viewpoint/2022-06-30/2896347.shtml) | Thu Jun 30 2022 3:38 AM
-- 🙉 [英特尔CEO：若美国会不落实芯片补贴法案 将优先考虑在欧洲建厂](http://www.techweb.com.cn/world/2022-06-30/2896346.shtml) | Thu Jun 30 2022 3:38 AM<!-- techweb-allnews:END -->
+- 👍 [360数科、蚂蚁集团等入选中国信通院“业务安全推进计划”成员单位](http://www.techweb.com.cn/internet/2022-06-30/2896358.shtml) | Thu Jun 30 2022 6:34 AM
+- 👹 [汽车巨头Stellantis警告：EV再不降价 汽车市场将会崩溃](http://www.techweb.com.cn/world/2022-06-30/2896356.shtml) | Thu Jun 30 2022 6:05 AM
+- 🪜 [加码电动汽车和豪华车业务 梅赛德斯-奔驰将向欧洲工厂投资逾20亿欧元](http://www.techweb.com.cn/world/2022-06-30/2896352.shtml) | Thu Jun 30 2022 5:06 AM
+- 🤭 [消息人士：特斯拉得克萨斯超级工厂每周最多已可生产5000辆Model Y](http://www.techweb.com.cn/world/2022-06-30/2896351.shtml) | Thu Jun 30 2022 4:11 AM
+- 🙉 [全球首家：三星宣布已量产 3 纳米芯片](http://www.techweb.com.cn/it/2022-06-30/2896349.shtml) | Thu Jun 30 2022 4:08 AM<!-- techweb-allnews:END -->
 
 
