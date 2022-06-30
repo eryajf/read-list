@@ -131,7 +131,14 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [深夜感慨，公司裁员了，我却还在](https://www.v2ex.com/t/863325#reply5) | Thu Jun 30 2022 4:15 PM 
+- 🥸 [广电 192 手机号段发布了，你的业务代码里适配了吗？](https://www.v2ex.com/t/863330#reply0) | Thu Jun 30 2022 4:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	
+	 
+    </details> 
+
+- 🤗 [深夜感慨，公司裁员了，我却还在](https://www.v2ex.com/t/863325#reply9) | Thu Jun 30 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;6 月初我们组还有 7 个人，截止 6-30 ，只剩 2 个人了。&lt;/p&gt;
@@ -143,7 +150,7 @@
 	 
     </details> 
 
-- 🤗 [nvim 0.7.2 released](https://www.v2ex.com/t/863322#reply0) | Thu Jun 30 2022 3:24 PM 
+- 🎭 [nvim 0.7.2 released](https://www.v2ex.com/t/863322#reply0) | Thu Jun 30 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;这个更新其实是个小更新，更大的是两个月前的 0.7 ，不过那时候忙，没时间写。。&lt;/p&gt;
@@ -152,7 +159,7 @@
 	 
     </details> 
 
-- 🎭 [求解，侄子毕业，现在万元以内计算机系有啥推荐的 win 本](https://www.v2ex.com/t/863309#reply3) | Thu Jun 30 2022 2:39 PM 
+- 🥷 [求解，侄子毕业，现在万元以内计算机系有啥推荐的 win 本](https://www.v2ex.com/t/863309#reply3) | Thu Jun 30 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;如题了，肯定会有部分游戏需求，预算 7000 ～ 10000 吧&lt;/p&gt;
@@ -160,62 +167,13 @@
 	 
     </details> 
 
-- 🥷 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply5) | Thu Jun 30 2022 1:56 PM 
+- 🐵 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply5) | Thu Jun 30 2022 1:56 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;数据库叫 StoneDB ，基于 MySQL 原生开发，遵循 GPL 协议。
 在 MySQL 的行存引擎基础上，开发了自研的列存引擎，用一体化的架构，可以给 MySQL 平行升级，提升实时分析能力。
 项目在这里，欢迎来提 issue
 &lt;a href=&quot;https://github.com/StoneAtom/stonedb&quot; rel=&quot;nofollow&quot;&gt;https://github.com/StoneAtom/stonedb&lt;/a&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [CabloyJS 4.22 重磅推出弹出式页面交互风格](https://www.v2ex.com/t/863301#reply1) | Thu Jun 30 2022 1:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;h2&gt;升级说明&lt;/h2&gt;
-&lt;p&gt;我们知道 CabloyJS 提供了&lt;code&gt;pc=mobile+pad 自适应布局&lt;/code&gt;机制，可以通过一套代码同时适配 mobile 端和 pc 端。基本思路就是优先适配 mobile 端，然后再把 mobile 端的交互体验带入 pc 端。因此，pc 端可以看作是许多 mobile 尺寸和 pad 尺寸页面组件的组合。在旧版本中，这些页面组件就像大大小小的手机和平板依次向右展开，可以称作&lt;code&gt;展开式&lt;/code&gt;交互风格&lt;/p&gt;
-&lt;p&gt;新版本&lt;code&gt;CabloyJS 4.22&lt;/code&gt;提供了&lt;code&gt;弹出式&lt;/code&gt;交互风格。这样，用户可以根据 pc 电脑的尺寸大小和个人喜好，在这两个交互风格中随时切换&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;关于&lt;code&gt;pc=mobile+pad 自适应布局&lt;/code&gt;机制的详细信息，请参见文档：&lt;a href=&quot;https://cabloy.com/zh-cn/articles/adaptive-layout.html&quot; rel=&quot;nofollow&quot;&gt;自适应布局：pc = mobile + pad&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;意义&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;CabloyJS 4.22&lt;/code&gt;的发布，重磅引入&lt;code&gt;弹出式&lt;/code&gt;页面交互风格，是及其主要的里程碑，将 CabloyJS 推入一个新的发展阶段&lt;/p&gt;
-&lt;p&gt;是以为记 2022 年 6 月 30 日&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;预览&lt;/h2&gt;
-&lt;h3&gt;1. PC 端（展开式）&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;layoutpc-tile-zhcn&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://admin.cabloy.com/api/a/file/file/download/487c6c81a8984da8822aaec7a5676c1e.gif&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;2. PC 端（弹出式）&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;layoutpc-popup-zhcn&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://admin.cabloy.com/api/a/file/file/download/95d88b18fd2347cd902507d44da81b1b.gif&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;3. Mobile 端&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;layoutmobile-zhcn&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://admin.cabloy.com/api/a/file/file/download/a0dd451e2bd74337ae026075aee9ca3d.gif&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;演示站点&lt;/h2&gt;
-&lt;p&gt;直接浏览 CabloyJS 的演示站点，增加更直观的感性认知&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;体验 CabloyJS 应对大型项目的&lt;code&gt;三驾马车&lt;/code&gt;：&lt;code&gt;套件&lt;/code&gt;、&lt;code&gt;模块&lt;/code&gt;、&lt;code&gt;App 应用&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;体验与众不同的&lt;code&gt;pc=mobile+pad&lt;/code&gt;自适应布局风格，强烈推荐：分别用&lt;code&gt;PC&lt;/code&gt;和&lt;code&gt;Mobile&lt;/code&gt;单独体验演示站点。&lt;strong&gt;此言不虚，请您品鉴&lt;/strong&gt;！！！&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;演示站点：&lt;a href=&quot;https://test.cabloy.com/&quot; rel=&quot;nofollow&quot;&gt;https://test.cabloy.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;演示站点的二维码：
-&lt;img alt=&quot;cabloy-test&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://admin.cabloy.com/api/a/file/file/download/d8cedc9dd14e4a10a06ba1627b6ed1a1.png&quot;/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;相关链接&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;文档: &lt;a href=&quot;https://cabloy.com/&quot; rel=&quot;nofollow&quot;&gt;https://cabloy.com/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/zhennann/cabloy&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zhennann/cabloy&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 
 	 
     </details> 
