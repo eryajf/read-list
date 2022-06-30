@@ -131,7 +131,48 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Ubuntu 如何设置快捷键切换 App](https://www.v2ex.com/t/863070#reply0) | Wed Jun 29 2022 7:53 PM 
+- 🥸 [BOSS 直聘解禁 已开放注册](https://www.v2ex.com/t/863105#reply1) | Thu Jun 30 2022 1:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;滴滴还会远吗&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [查询一个坐标在哪些省市区边界内，单核性能 1w+QPS，已开源 Java 代码](https://www.v2ex.com/t/863092#reply4) | Thu Jun 30 2022 1:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;h3&gt;github 地址： &lt;a href=&quot;https://github.com/xiangyuecn/AreaCity-Query-Geometry&quot; rel=&quot;nofollow&quot;&gt;https://github.com/xiangyuecn/AreaCity-Query-Geometry&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;主要用来查询一个坐标对应的城市信息，核心代码全放在一个 Java 文件内，测试程序额外提供了 HTTP API 服务接口&lt;/p&gt;
+&lt;p&gt;编写这套代码主要是因为数据库查询坐标信息太慢了，mysql 要 100 多 ms 查一个坐标，sql server 也要 50 多 ms ，群里有用户告诉我用未知开源库可达到 1ms 查询一次坐标点，数据库就不香了😂&lt;/p&gt;
+&lt;p&gt;如果不限制使用内存，单就检测一个坐标是否在一个几何面内，可以做到极高的性能，README 里面有讲到的 RTree 索引+射线法；不过我这个代码严格限制了使用内存大小，内存占用很低，性能相对低了很多。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;内存占用低，性能优良，进行随机坐标点的查询单线程可以达到 17318 QPS&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tva1.sinaimg.cn/large/a32300cdly1h3pzn9iz4qj20po0jhgq6.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tva1.sinaimg.cn/large/a32300cdly1h3pzo79rsrj20qp0e6wgw.jpg&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;源码全部丢在根目录，没有建包名，可以双击那个 bat 文件直接进行编译和测试（ mac 自己用 javac 编译运行），测试前需要有一个 geojson 文件，测试在初始化的时候会提醒输入一个 json 文件进行初始化，根据提示操作即可测试。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [Anki 和 Supermemo 在背书背资料时哪个高效? 请用过的大佬建议, 谢谢](https://www.v2ex.com/t/863086#reply5) | Thu Jun 30 2022 1:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	
+	 
+    </details> 
+
+- 🥷 [有没有能代替 vscode 的高性能编辑器](https://www.v2ex.com/t/863081#reply39) | Thu Jun 30 2022 12:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;现在 vscode 越来越卡了， 我用来写 vue ，代码提示有时候都弹不出来，内存占用常年在 2g+。
+天下苦 Electron 久矣&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [Ubuntu 如何设置快捷键切换 App](https://www.v2ex.com/t/863070#reply1) | Wed Jun 29 2022 7:53 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;比如 我设置 Alt+c 切换到 chrome&lt;/p&gt;
@@ -141,62 +182,6 @@
 &lt;li&gt;当 chrome 已经启动，并且在最顶层窗口，则将它隐藏或者最小化&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;其实也就 MacOS 的应用切换方式&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🤗 [请问小米欧版支持应用双开吗？](https://www.v2ex.com/t/863067#reply1) | Wed Jun 29 2022 6:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	手持红米 k40 ，好多年没折腾 rom 了，来问问&lt;br /&gt;&lt;br /&gt;系统语言可以切西班牙语嘛&lt;br /&gt;&lt;br /&gt;另外支持应用双开嘛
-	 
-    </details> 
-
-- 🎭 [iconfont 私有化](https://www.v2ex.com/t/863059#reply0) | Wed Jun 29 2022 4:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;抱歉，私有化这个有点标题党，实在想不到叫啥了。。 &lt;/p&gt;
-&lt;p&gt;仓库 &lt;a href=&quot;https://github.com/xd199153/react-iconfont-cli&quot; rel=&quot;nofollow&quot;&gt;react-iconfont-cli&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;由于总所周知的原因，iconfont 自建项目已经不再能上传新的 svg 图标，所以我做了两件事:&lt;/p&gt;
-&lt;p&gt;1 、把已有的图标下载保存为 svg 文件&lt;br/&gt;
-2 、把从线上地址读取 symbol 改为从本地文件夹读取 svg 文件&lt;br/&gt;&lt;/p&gt;
-&lt;h2&gt;使用说明&lt;/h2&gt;
-&lt;p&gt;如果你不是&lt;code&gt;react-iconfont-cli&lt;/code&gt;的用户，请先阅读下面的原始文档&lt;/p&gt;
-&lt;p&gt;1 、clone 代码并&lt;code&gt;yarn&lt;/code&gt;&lt;br/&gt;
-2 、修改配置文件 &lt;code&gt;./scripts/config/demo-ts.json&lt;/code&gt; 配置自己的&lt;code&gt;symbol_url&lt;/code&gt;&lt;br/&gt;
-3 、执行 &lt;code&gt;./scripts/&lt;a href=&quot;http://download-svg.sh&quot; rel=&quot;nofollow&quot;&gt;download-svg.sh&lt;/a&gt;&lt;/code&gt; ，把图标下载到本地&lt;br/&gt;
-4 、如果你有需要新增的 svg 文件，可以直接拷贝到 &lt;code&gt;./snapshots/demo-svg&lt;/code&gt; 文件夹内&lt;br/&gt;
-5 、执行 &lt;code&gt;./scripts/&lt;a href=&quot;http://update-snapshot.sh&quot; rel=&quot;nofollow&quot;&gt;update-snapshot.sh&lt;/a&gt;&lt;/code&gt; 生成 react 组件文件&lt;br/&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [copilot 最近经常不能提示代码，有相同情况吗？](https://www.v2ex.com/t/863056#reply2) | Wed Jun 29 2022 3:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;vscode 里查看 output, 提示&lt;br/&gt;
-[INFO] [ghostText] [2022-06-29T15:19:53.946Z] Cancelled after extractPrompt&lt;/p&gt;
-&lt;p&gt;搜索了下，有说是网络问题的 &lt;a href=&quot;https://github.com/github-community/community/discussions/14907&quot; rel=&quot;nofollow&quot;&gt;https://github.com/github-community/community/discussions/14907&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前试了以下方法都不生效&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;把 &lt;a href=&quot;http://copilot-proxy.githubusercontent.com&quot; rel=&quot;nofollow&quot;&gt;copilot-proxy.githubusercontent.com&lt;/a&gt;, &lt;a href=&quot;http://api.github.com&quot; rel=&quot;nofollow&quot;&gt;api.github.com&lt;/a&gt;, &lt;a href=&quot;http://githubusercontent.com&quot; rel=&quot;nofollow&quot;&gt;githubusercontent.com&lt;/a&gt; 三个域名设置走代理。&lt;/li&gt;
-&lt;li&gt;使用手机移动网络。&lt;/li&gt;
-&lt;li&gt;直接使用办公室和住处的宽带。&lt;/li&gt;
-&lt;li&gt;重启插件，重启 vscode 。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;目前也不是说不能用，就是写一些模板代码的时候，你希望可以 tap 一键搞定，但就是不给你提示，就很烦。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [在 Windows 设置使用 Caps Lock 切换输入法中英文（PowerToys）](https://www.v2ex.com/t/863055#reply3) | Wed Jun 29 2022 3:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;本来是 macOS 下面的习惯，两个系统一起用人有点裂开。我想要实现 CapsLock 切换输入法语言，Shift+CapsLock 切换大小写锁定，方法是把 CapsLock 用“重新映射键”改成输入法里的切换中英文快捷键，然后用“重新映射快捷键”把 Shift+切换中英文快捷键（而不是 Shift+CapsLock ）映射成 Shift+CapsLock 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;img1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/EnBehNz.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;img2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/MaYMGXk.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;因为一开始没有弄懂 PowerToys 的规则所以 Shift+CapsLock 一直实现不了。。。&lt;/p&gt;
 
 	 
     </details> 
