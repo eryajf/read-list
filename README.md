@@ -200,29 +200,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面试突击62：group by 有哪些注意事项？](https://juejin.cn/post/7114874113579040781) | Thu Jun 30 2022 3:45 AM 
+- 🤗 [聊聊 Vue 的双端 diff 算法、移动端渲染原理浅析、数据库主键一定要自增吗？有哪些场景不建议自增？ | 年中总结](https://juejin.cn/post/7114894898867732493) | Thu Jun 30 2022 5:06 AM 
     <details><summary>展开描述 ...</summary> 
-    group by 后面不能加 where 在 MySQL 中，所有的 SQL 查询语法要遵循以下语法 
+    最近鉴于掘友们的热情召唤，我们终于把做了几百期的社群下午茶搬到站内了，酱酱们会一直陪伴，认真创作的掘友们，站内下午茶新增优质作者介绍和码上掘金板块，专注于发掘站内优质创作者和优质内容，欢迎大家多提宝贵 
     </details> 
 
-- 🎡 [Python 中更优雅的日志记录方案](https://juejin.cn/post/7114873783076257799) | Thu Jun 30 2022 3:44 AM 
+- 🎡 [当有人问：详情页的数据变了，列表页面的对应UI如何同步修改？](https://juejin.cn/post/7114873458030280734) | Thu Jun 30 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-    在 Python 中，一般情况下我们可能直接用自带的 logging 模块来记录日志，包括我之前的时候也是一样。在使用时我们需要配置一些 Handler、Formatter 来进行一些处理，比如把日志 
+    废话开篇：最近写了一段 ApiCloud 混合开发 APP，说是混合开发，但是大部分的功能还是以 JS 为主，其实，ApiCloud 跨平台的开发只能算是工具，而不能算是一门语言。那么，JS 本身是运 
     </details> 
 
-- 🕯 [你可能不知道的 Python 技巧](https://juejin.cn/post/7114871768254251021) | Thu Jun 30 2022 3:36 AM 
+- 🕯 [刚学会Transform，你告诉我就要被移除了](https://juejin.cn/post/7114863832954044446) | Thu Jun 30 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
-    有许许多多文章写了 Python 中的许多很酷的特性，例如变量解包、偏函数、枚举可迭代对象，但是关于 Python 还有很多要讨论的话题，因此在本文中，我将尝试展示一些我知道的和在使用的，但很少在其它 
+    背景 我们的工程使用的AGP4.0.2，是去年升级的，目前最新版本是AGP7.2.1，已经落后官方5个大版本了 gradle升级是必然的，只是时候未到而已，同样在去年也进行了AGP7.0升级调研，由于 
     </details> 
 
-- 🚀 [进一步学习 nox 教程，轻松掌握命令行用法](https://juejin.cn/post/7114869933422411790) | Thu Jun 30 2022 3:30 AM 
+- 🚀 [HMS Core音频编辑服务3D音频技术，助力打造沉浸式听觉盛宴](https://juejin.cn/post/7114858897361354765) | Thu Jun 30 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
-    调用方式 nox 通常是在命令行上被调用的： nox 你还可以通过 Python 解释器调用 nox： python3 -m nox 列出可用的会话 列出所有可用的会话，包括参数化的会话： 运行所有会 
+    2022年6月28日，HDD·HMS Core.Sparkle影音娱乐沙龙在线上与开发者们见面。HMS Core[音频编辑服务]&lpar;https://developer.huawei.com/consu 
     </details> 
 
-- 💪 [Day1：原生JavaScript挑战之Drum Kit](https://juejin.cn/post/7114869372144844814) | Thu Jun 30 2022 3:27 AM 
+- 💪 [FlutterWeb浏览器刷新后无法回退的解决方案](https://juejin.cn/post/7114848130004156446) | Thu Jun 30 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-    挑战者需要实现一个“击鼓”的效果，界面上一共有九个鼓点，当用户在键盘上按下 ASDFGHJKL 这几个键，或者点击鼠标和触摸屏幕时，显示对应的击鼓视觉效果和播放对应的音效。 
+    在Flutter开发的网页运行时，浏览器刷新网页后，虽然会显示刷新前的页面（前提是用静态路由跳转），但这时调用==Navigator.pop==方法是回不到上一页的，包括点击浏览器的回退按钮 
     </details> 
 <!-- juejin:END -->
 ### 少数派
