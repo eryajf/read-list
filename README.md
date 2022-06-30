@@ -131,57 +131,70 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [BOSS 直聘解禁 已开放注册](https://www.v2ex.com/t/863105#reply1) | Thu Jun 30 2022 1:38 AM 
+- 🥸 [面试时问业务场景问题，一般该如何回答](https://www.v2ex.com/t/863154#reply0) | Thu Jun 30 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;滴滴还会远吗&lt;/p&gt;
+	&lt;p&gt;楼主本人最近面试，遇到问业务场景该怎么做的，总是容易卡壳，不知各位 V 友有无比较好的经验，可以应对这些的，或者说在哪里可以找到比较多的业务场景题可以看看，学习学习的&lt;/p&gt;
 
 	 
     </details> 
 
-- 🤗 [查询一个坐标在哪些省市区边界内，单核性能 1w+QPS，已开源 Java 代码](https://www.v2ex.com/t/863092#reply4) | Thu Jun 30 2022 1:13 AM 
+- 🤗 [提醒一下， Google Domains 土区域名续费即将涨价](https://www.v2ex.com/t/863152#reply0) | Thu Jun 30 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;h3&gt;github 地址： &lt;a href=&quot;https://github.com/xiangyuecn/AreaCity-Query-Geometry&quot; rel=&quot;nofollow&quot;&gt;https://github.com/xiangyuecn/AreaCity-Query-Geometry&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;主要用来查询一个坐标对应的城市信息，核心代码全放在一个 Java 文件内，测试程序额外提供了 HTTP API 服务接口&lt;/p&gt;
-&lt;p&gt;编写这套代码主要是因为数据库查询坐标信息太慢了，mysql 要 100 多 ms 查一个坐标，sql server 也要 50 多 ms ，群里有用户告诉我用未知开源库可达到 1ms 查询一次坐标点，数据库就不香了😂&lt;/p&gt;
-&lt;p&gt;如果不限制使用内存，单就检测一个坐标是否在一个几何面内，可以做到极高的性能，README 里面有讲到的 RTree 索引+射线法；不过我这个代码严格限制了使用内存大小，内存占用很低，性能相对低了很多。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;内存占用低，性能优良，进行随机坐标点的查询单线程可以达到 17318 QPS&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tva1.sinaimg.cn/large/a32300cdly1h3pzn9iz4qj20po0jhgq6.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tva1.sinaimg.cn/large/a32300cdly1h3pzo79rsrj20qp0e6wgw.jpg&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;源码全部丢在根目录，没有建包名，可以双击那个 bat 文件直接进行编译和测试（ mac 自己用 javac 编译运行），测试前需要有一个 geojson 文件，测试在初始化的时候会提醒输入一个 json 文件进行初始化，根据提示操作即可测试。&lt;/p&gt;
+	&lt;p&gt;&lt;a href=&quot;http://目前.com&quot; rel=&quot;nofollow&quot;&gt;目前.com&lt;/a&gt; 域名续费是 TRY 75/year ，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;.COM 域名的续期价格从 2022 年 7 月 29 日开始将上涨至 TRY195/年&lt;/p&gt;
+&lt;/blockquote&gt;
 
 	 
     </details> 
 
-- 🎭 [Anki 和 Supermemo 在背书背资料时哪个高效? 请用过的大佬建议, 谢谢](https://www.v2ex.com/t/863086#reply5) | Thu Jun 30 2022 1:00 AM 
+- 🎭 [写了个便利贴小工具，还有什么其他功能可以拓展的吗？](https://www.v2ex.com/t/863147#reply3) | Thu Jun 30 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
     
-	
-	 
-    </details> 
-
-- 🥷 [有没有能代替 vscode 的高性能编辑器](https://www.v2ex.com/t/863081#reply39) | Thu Jun 30 2022 12:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;现在 vscode 越来越卡了， 我用来写 vue ，代码提示有时候都弹不出来，内存占用常年在 2g+。
-天下苦 Electron 久矣&lt;/p&gt;
+	&lt;p&gt;外观直接抄的 windows10 自带的 StickNote,个人感觉这个软件外观交互什么的都还比较和我的拍，就是有些功能用着确实不舒服，于是自己写了一个，基本功能已经完成了，拿出来给大家用用。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;img&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.bmp.ovh/imgs/2022/06/23/b092b446efa16507.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;img&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.bmp.ovh/imgs/2022/06/23/279b46332ba3e3d7.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;下载地址： &lt;a href=&quot;http://cppdebug.com/download/299/&quot; rel=&quot;nofollow&quot;&gt;http://cppdebug.com/download/299/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;顺便吐槽一下，现在桌面开发用 qt ，安装包都好大啊，也没写啥东西，动态链接库直接干到 50M 去了，你们现在 windows 桌面开发都用啥？微软的那套东西感觉要做花里胡哨的界面感觉很不容易啊！&lt;/p&gt;
 
 	 
     </details> 
 
-- 🐵 [Ubuntu 如何设置快捷键切换 App](https://www.v2ex.com/t/863070#reply1) | Wed Jun 29 2022 7:53 PM 
+- 🥷 [这算不算是静态类型系统的缺憾](https://www.v2ex.com/t/863142#reply26) | Thu Jun 30 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;比如 我设置 Alt+c 切换到 chrome&lt;/p&gt;
+	&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/Faputa/a/master/img20220630105453.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;以这段 typescript 代码为例，f 期待一个类型为 10 的参数，x 等于 10 ，但是因为 x 的类型为 number ，所以不匹配&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [关于 jetbrains 涨价问题， intellij idea VS vscode 对比请教](https://www.v2ex.com/t/863139#reply4) | Thu Jun 30 2022 3:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;其实一直想发一个贴请教一下 idea 和 vscode 的区别，两者有什么功能是对方不可满足的，或者难以满足，完全阻碍开发效率的问题。刚好看到了 jetbrains 涨价，所以发这个贴请教下大家几个问题。当然主要是针对 javaer：idea 和 vscode 。虽然很多人没用过 vscode ，但是依然可以提供的你的答案和建议。&lt;/p&gt;
+&lt;h2&gt;问题&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;当 chrome 没有启动则启动它&lt;/li&gt;
-&lt;li&gt;当 chrome 已经启动，但没有在最顶层窗口，则激活它到最顶层窗口&lt;/li&gt;
-&lt;li&gt;当 chrome 已经启动，并且在最顶层窗口，则将它隐藏或者最小化&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;idea 的使用&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 、idea 有没有哪个功能缺少后，会导致你无法正常工作或者需要绕很大的圈子才能正常工作的。比如测试率覆盖率这个功能，vscode 之前就是没有的了（现在不清楚还有没有）&lt;/li&gt;
+&lt;li&gt;2 、idea 有没有哪个功能或者插件 可以提升你较高的开发效率，在开发中经常会使用到的，能方便自己进行开发、调试或者其他。比如，调试，某些类跳转方式，xml 跳转到 bean 类等&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;其实也就 MacOS 的应用切换方式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;vscode 的使用&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 、是否存在哪种功能是 idea 无法提供的。比如经典的就是 remote ssh ，idea 还难以做到。&lt;/li&gt;
+&lt;li&gt;2 、是否存在哪种功能可以提升效率的，或者用起来比较舒服的插件。比如 git graph 更直观，其他很多智能小提示插件等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;说明&lt;/h2&gt;
+&lt;p&gt;这里单纯讲功能上的使用，不谈性能，内存这些。我想尽量收集一些观点。虽然我 2 个都用过，也用了很久。但是毕竟用到里面的功能都很有限。虽然本身作为一个开发，但是我没有依赖太多 ide 的功能，用的比较浅，对两者还没涉及到非常深入的理解，肯定有很多好用的或者能提升效率的功能，我还没发现。希望大家能多多给点建议。&lt;/p&gt;
 
 	 
     </details> 
