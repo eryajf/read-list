@@ -249,10 +249,10 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [集度回应“吉利退出”：百度和吉利共同持股 夏一平仍为CEO](http://www.techweb.com.cn/smarttraveling/2022-06-30/2896375.shtml) | Thu Jun 30 2022 7:30 AM
-- 👹 [快手与乐视视频展开深度合作 共享二次创作内容红利](http://www.techweb.com.cn/internet/2022-06-30/2896374.shtml) | Thu Jun 30 2022 7:29 AM
-- 🪜 [吉利退出集度汽车？回应：百度和吉利所持股份不变](http://www.techweb.com.cn/smarttraveling/2022-06-30/2896373.shtml) | Thu Jun 30 2022 7:28 AM
-- 🤭 [西门子和英伟达合作扩大数字服务 以Omniverse平台创造工业元宇宙](http://www.techweb.com.cn/world/2022-06-30/2896368.shtml) | Thu Jun 30 2022 7:06 AM
-- 🙉 [苹果7月29日凌晨发布第三财季财报 已预计疫情会影响营收](http://www.techweb.com.cn/world/2022-06-30/2896366.shtml) | Thu Jun 30 2022 6:59 AM<!-- techweb-allnews:END -->
+- 👍 [艾迈斯欧司朗推出其首个纯集成电路生命体征传感器系列AS705x](http://www.techweb.com.cn/internet/2022-06-30/2896395.shtml) | Thu Jun 30 2022 8:45 AM
+- 👹 [领先台积电 三星电子已开始量产3纳米芯片](http://www.techweb.com.cn/world/2022-06-30/2896394.shtml) | Thu Jun 30 2022 8:30 AM
+- 🪜 [LG显示OLED面板扩张计划放缓 因受供应链限制](http://www.techweb.com.cn/world/2022-06-30/2896393.shtml) | Thu Jun 30 2022 8:28 AM
+- 🤭 [Snapchat应用程序付费版正式发布](http://www.techweb.com.cn/world/2022-06-30/2896386.shtml) | Thu Jun 30 2022 8:11 AM
+- 🙉 [集度回应“吉利退出”：百度和吉利共同持股 夏一平仍为CEO](http://www.techweb.com.cn/smarttraveling/2022-06-30/2896375.shtml) | Thu Jun 30 2022 7:30 AM<!-- techweb-allnews:END -->
 
 
