@@ -184,29 +184,29 @@ underscores_in_headers on
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊聊 Vue 的双端 diff 算法、移动端渲染原理浅析、数据库主键一定要自增吗？有哪些场景不建议自增？ | 年中总结](https://juejin.cn/post/7114894898867732493) | Thu Jun 30 2022 5:06 AM 
+- 🤗 [JavaScript 设计模式之代理模式](https://juejin.cn/post/7114912169447129125) | Thu Jun 30 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-    最近鉴于掘友们的热情召唤，我们终于把做了几百期的社群下午茶搬到站内了，酱酱们会一直陪伴，认真创作的掘友们，站内下午茶新增优质作者介绍和码上掘金板块，专注于发掘站内优质创作者和优质内容，欢迎大家多提宝贵 
+    JavaScript 设计模式之代理模式，代理（proxy）是一个对象，它可以用来控制对另一个对象的访问。 
     </details> 
 
-- 🎡 [当有人问：详情页的数据变了，列表页面的对应UI如何同步修改？](https://juejin.cn/post/7114873458030280734) | Thu Jun 30 2022 3:42 AM 
+- 🎡 [与换行相关的CSS属性](https://juejin.cn/post/7114905247910199332) | Thu Jun 30 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
-    废话开篇：最近写了一段 ApiCloud 混合开发 APP，说是混合开发，但是大部分的功能还是以 JS 为主，其实，ApiCloud 跨平台的开发只能算是工具，而不能算是一门语言。那么，JS 本身是运 
+    一、默认换行行为 在 Web 文字排版中，默认的换行行为如下。 1. 中文（CJK文字） 所有中文的文字内容都是换行点，例如，当宽度很小的时候，文字一柱擎天显示了： 但是如果有标点符号，则情况发生了变 
     </details> 
 
-- 🕯 [刚学会Transform，你告诉我就要被移除了](https://juejin.cn/post/7114863832954044446) | Thu Jun 30 2022 3:05 AM 
+- 🕯 [没想到你是这样的npm install](https://juejin.cn/post/7114896608029835272) | Thu Jun 30 2022 5:13 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 我们的工程使用的AGP4.0.2，是去年升级的，目前最新版本是AGP7.2.1，已经落后官方5个大版本了 gradle升级是必然的，只是时候未到而已，同样在去年也进行了AGP7.0升级调研，由于 
+    使用npm install这个条命令对于我们前端开发者来说应该是形成“肌肉记忆”，之前一直对 npm 的相关知识停留在“会用”的阶段，但是内部的原理却不甚了解。直到项目中出现了一次由 npm 包... 
     </details> 
 
-- 🚀 [HMS Core音频编辑服务3D音频技术，助力打造沉浸式听觉盛宴](https://juejin.cn/post/7114858897361354765) | Thu Jun 30 2022 2:46 AM 
+- 🚀 [测一测你的代码：关于前端自动化测试](https://juejin.cn/post/7114894935689527310) | Thu Jun 30 2022 5:06 AM 
     <details><summary>展开描述 ...</summary> 
-    2022年6月28日，HDD·HMS Core.Sparkle影音娱乐沙龙在线上与开发者们见面。HMS Core[音频编辑服务]&lpar;https://developer.huawei.com/consu 
+    自动化测试就是把人对软件的测试行为转化为由机器执行测试行为的一种实践，对于最常见的 GUI 自动化测试来讲，就是由自动化测试工具模拟之前需要人工在软件界面上的各种操作，并且自动验证其结果是否符合预期 
     </details> 
 
-- 💪 [FlutterWeb浏览器刷新后无法回退的解决方案](https://juejin.cn/post/7114848130004156446) | Thu Jun 30 2022 2:05 AM 
+- 💪 [做直播，我们是认真的：Web音视频串流与WebRTC](https://juejin.cn/post/7114874359403151390) | Thu Jun 30 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-    在Flutter开发的网页运行时，浏览器刷新网页后，虽然会显示刷新前的页面（前提是用静态路由跳转），但这时调用==Navigator.pop==方法是回不到上一页的，包括点击浏览器的回退按钮 
+    本文章主要对在浏览器环境中实现直播相关的技术介绍，其中包括了对音视频的格式以及推送、播放技术的探索，最后还会简单介绍现在比较热门的WebRTC 
     </details> 
 <!-- juejin:END -->
 ### 少数派
