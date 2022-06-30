@@ -131,64 +131,51 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [PHP 编译器 BPC 可以下载试用了!](https://www.v2ex.com/t/863267#reply1) | Thu Jun 30 2022 10:05 AM 
+- 🥸 [有 chrome 批量截屏平替软件吗？ FireShot](https://www.v2ex.com/t/863296#reply0) | Thu Jun 30 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;不清楚 BPC 是什么的参看这里:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/826154&quot; rel=&quot;nofollow&quot;&gt;开发了一年多的 PHP 编译器 BPC 初见成效,发一些测试程序给大家看看&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/836369&quot; rel=&quot;nofollow&quot;&gt;PHP 编译器 BPC 的第一个成功案例来了!&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/857855&quot; rel=&quot;nofollow&quot;&gt;PHP 编译器 BPC 新里程碑达成: 可以编译 web 应用了!&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;官网在此: &lt;a href=&quot;https://bpc.dev&quot; rel=&quot;nofollow&quot;&gt;https://bpc.dev&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;之前只是给大家看编译好的程序,现在你可以自己动手编译了,感兴趣的下载试试吧.&lt;/p&gt;
-&lt;p&gt;内置 license 7 天有效,过期的话可以发邮件申请或者等我们下次发布新版本.&lt;/p&gt;
+	&lt;p&gt;RT 、用了 30 天  用是真的好用，打开所有窗口，点击一下全部截屏保存。
+我还以为使用删除安装还能用。哈哈&lt;/p&gt;
 
 	 
     </details> 
 
-- 🤗 [现在前端打包现在都用什么工具？求推荐](https://www.v2ex.com/t/863266#reply2) | Thu Jun 30 2022 10:04 AM 
+- 🤗 [Android 应用的权限控制适用于 App 内部的 .so 文件吗？](https://www.v2ex.com/t/863295#reply0) | Thu Jun 30 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
     
-	我是后端，小公司接手了个 node 项目，需要做一个前端的 demo ，里面有个 node 的依赖，感觉以前的&amp;lt;script&amp;gt;引入 js 都不能用了，看了一圈，现在前端都得打包了，什么 webpack ，vite ，gulp ，不知道大家推荐用哪一个打包工具？
-	 
-    </details> 
-
-- 🎭 [.ssh/config 里面内容太多，用 Python 做了个带 ui 的检索工具](https://www.v2ex.com/t/863264#reply5) | Thu Jun 30 2022 9:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;h1&gt;.ssh/config 里面内容太多，用 python 做了个带 ui 的检索工具&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;程序的作用是，自动解析 &lt;code&gt;.ssh/config&lt;/code&gt;文件，解析出 host&lt;/li&gt;
-&lt;li&gt;单击 标题头 可以排序&lt;/li&gt;
-&lt;li&gt;单击行， 会复制相应的 &lt;code&gt;ssh your_host_config&lt;/code&gt; 到剪贴板；&lt;/li&gt;
-&lt;li&gt;TODO: 右键单击，会 Term 中运行 ssh your_host_config ，未实现，用于右键单击后，能自动打开 term 并运行&lt;code&gt;ssh your_host_config&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/zhangyc310/search_ssh_config_host/master/show_demo.png&quot;/&gt;
-	 
-    </details> 
-
-- 🥷 [阿里云 OSS 删除文件有多慢](https://www.v2ex.com/t/863261#reply4) | Thu Jun 30 2022 9:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;阿里云 oss,上传嗖嗖的，上次说的下载拉胯，下载 5TB ，流量费好几千，现在发现删除更要命，1 秒大约删除 1000 个文件，5TB 存的图片，每个图片 10kb ，5&lt;em&gt;1024&lt;/em&gt;1024*1024 ，53687 万个文件，536870 秒，大约 6.2 天，如果是 500TB ，删除文件就需要 620 天，大约 2 年。。。&lt;/p&gt;
-&lt;p&gt;删除方法（网页上点击根目录的一个文件夹，选择彻底删除，就是这么慢，其他方法没试过）&lt;/p&gt;
+	&lt;p&gt;不太了解这一块&lt;/p&gt;
+&lt;p&gt;我理解 .so 文件应该是直接调用 Linux 系统 API 了，和 App 不在一个层面&lt;/p&gt;
+&lt;p&gt;但是如果 .so 可以做 &lpar;root 权限之外的&rpar; 所有事情，那么 Android 的权限控制不是形同虚设了吗？&lt;/p&gt;
+&lt;p&gt;如果并非如此，难道有一个 &quot;Android 权限&quot; 到 &quot;Linux 系统 API&quot; 的映射表这样一个存在吗？&lt;/p&gt;
 
 	 
     </details> 
 
-- 🐵 [CDC&lpar;CHANGE DATA CAPTHURE&rpar; 到底有什么优势](https://www.v2ex.com/t/863257#reply0) | Thu Jun 30 2022 9:36 AM 
+- 🎭 [请教一下大家如何在不能使用 iframe 的前提下在一个网页里面完整的引入另外一个网页](https://www.v2ex.com/t/863294#reply2) | Thu Jun 30 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;ul&gt;
-&lt;li&gt;
-想问问大家, cdc 一般可以用来做什么。目前了解到, 一般可以用来:&lt;ol&gt;
-&lt;li&gt;更新缓存&lt;/li&gt;
-&lt;li&gt;分发数据到多端&lt;/li&gt;
-&lt;li&gt;同步更新 ES 做数据查询&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这些场景大家有用到吗,在我看来 cdc 的优势可以提高业务的功能单一化, 简化了各服务间的调用。大家有什么看法呢&lt;/p&gt;
+	&lt;p&gt;前端设置了&lt;code&gt;X-Frame-Options: DENY&lt;/code&gt;导致不能使用 iframe 嵌入网页。&lt;/p&gt;
+&lt;p&gt;在 bing 简单找了一下解决方案（ include/import ）都不能太好的实现，想问一下各路大神有没有什么好的解决方案。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [登录状态下谷歌搜索结果的工具按钮不见了](https://www.v2ex.com/t/863288#reply0) | Thu Jun 30 2022 11:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;经常用工具过滤搜索结果，特别是找一些教程之类限制时间可以过滤掉一些过时的结果，特别好用。今天发现工具按钮没了。&lt;/p&gt;
+&lt;p&gt;reddit 看到有人也有一样问题，换个小号按钮回来了...账号我也不想换啊，这什么沙雕 feature 啊-_-b&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pbs.twimg.com/media/FWfp7rJUIAEhznv?format=jpg&amp;amp;name=large&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pbs.twimg.com/media/FWfqBBqUUAAysn3?format=jpg&amp;amp;name=large&quot;/&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [jdk 17 应该选择哪个供应商](https://www.v2ex.com/t/863287#reply14) | Thu Jun 30 2022 11:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;oracle jdk 17 免费了。但看有些解读。免费仍然有限制。
+其他发行商不知道哪个更适合商用些。&lt;/p&gt;
 
 	 
     </details> 
