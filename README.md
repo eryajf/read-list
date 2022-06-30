@@ -205,29 +205,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [流媒体之前我们如何听歌：音乐载体的百年变迁](https://sspai.com/post/74067) | Thu Jun 30 2022 7:00 AM 
+- 👹 [GitHub Copilot：革命未竟，未来可期](https://sspai.com/prime/story/on-copilot) | Thu Jun 30 2022 8:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    GitHub Copilot 正式上线，尽管还有不少缺陷和争议，但仍然为开发者带来了新颖的使用与开发体验，让我们能愈发感受到「智能」二字的份量。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/on-copilot&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [流媒体之前我们如何听歌：音乐载体的百年变迁](https://sspai.com/post/74067) | Thu Jun 30 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     让我们坐上时光机，从 1877 年的那一声「Mary had a little lamb」起，回顾音乐方式的变迁。&lt;a href=&quot;https://sspai.com/post/74067&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [白板与笔记融合：我的四个氢图使用场景](https://sspai.com/post/73246) | Thu Jun 30 2022 3:30 AM 
+- 🤭 [白板与笔记融合：我的四个氢图使用场景](https://sspai.com/post/73246) | Thu Jun 30 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     由于氢图的画板特性，你可以像是堆乐高积木那样，探索氢图使用的各种可能性。&lt;a href=&quot;https://sspai.com/post/73246&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：尼康发布 Z 30 相机、ARM 推出新一代移动端 CPU 和 GPU 等](https://sspai.com/post/74063) | Thu Jun 30 2022 12:35 AM 
+- 🥸 [派早报：尼康发布 Z 30 相机、ARM 推出新一代移动端 CPU 和 GPU 等](https://sspai.com/post/74063) | Thu Jun 30 2022 12:35 AM 
     <details><summary>展开描述 ...</summary> 
     1Password 推出多项新功能、钉钉项目基础版将继续免费、知乎推出学习专区等。&lt;a href=&quot;https://sspai.com/post/74063&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [迷你直面会说大事：任天堂又为你的 Switch 带来了哪些「新游戏」？](https://sspai.com/post/74047) | Wed Jun 29 2022 9:40 AM 
+- 🙉 [迷你直面会说大事：任天堂又为你的 Switch 带来了哪些「新游戏」？](https://sspai.com/post/74047) | Wed Jun 29 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
     虽然号称迷你直面会，但与主打独立游戏的 Indie World 相比，这场 25 分钟直面会上发布的内容体量着实有些让人应接不暇。&lt;a href=&quot;https://sspai.com/post/74047&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [微信发布 8.0.24 更新，这 5 个变化值得关注](https://sspai.com/post/74042) | Wed Jun 29 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    微信版「AirPlay」，更细致的存储空间管理，还有……&lt;a href=&quot;https://sspai.com/post/74042&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
