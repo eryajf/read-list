@@ -131,7 +131,18 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [CabloyJS 4.22 重磅推出弹出式页面交互风格](https://www.v2ex.com/t/863301#reply0) | Thu Jun 30 2022 1:31 PM 
+- 🥸 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply0) | Thu Jun 30 2022 1:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;数据库叫 StoneDB ，基于 MySQL 原生开发，遵循 GPL 协议。
+在 MySQL 的行存引擎基础上，开发了自研的列存引擎，用一体化的架构，可以给 MySQL 平行升级，提升实时分析能力。
+项目在这里，欢迎来提 issue
+&lt;a href=&quot;https://github.com/StoneAtom/stonedb&quot; rel=&quot;nofollow&quot;&gt;https://github.com/StoneAtom/stonedb&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [CabloyJS 4.22 重磅推出弹出式页面交互风格](https://www.v2ex.com/t/863301#reply1) | Thu Jun 30 2022 1:31 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;h2&gt;升级说明&lt;/h2&gt;
@@ -180,7 +191,7 @@
 	 
     </details> 
 
-- 🤗 [Github 无法触发阿里云 CI 的 webhook？](https://www.v2ex.com/t/863300#reply0) | Thu Jun 30 2022 1:21 PM 
+- 🎭 [Github 无法触发阿里云 CI 的 webhook？](https://www.v2ex.com/t/863300#reply1) | Thu Jun 30 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://content.hackertalk.net/pub/oEQp9B-6JXWgNp&quot;/&gt;&lt;/p&gt;
@@ -190,7 +201,7 @@
 	 
     </details> 
 
-- 🎭 [Sandboxie-Plus 如何允许摄像头](https://www.v2ex.com/t/863298#reply0) | Thu Jun 30 2022 12:49 PM 
+- 🥷 [Sandboxie-Plus 如何允许摄像头](https://www.v2ex.com/t/863298#reply0) | Thu Jun 30 2022 12:49 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;把微信和 TIM ，放到沙盒运行后，发现无法使用摄像头，我已经勾选了允许沙盒内程序管理硬件设备&lt;/p&gt;
@@ -226,22 +237,11 @@ ClosedFilePathDisabled=&amp;lt;BlockNetDevices&amp;gt;,InternetAccessDevices
 	 
     </details> 
 
-- 🥷 [有 chrome 批量截屏平替软件吗？ FireShot](https://www.v2ex.com/t/863296#reply1) | Thu Jun 30 2022 12:29 PM 
+- 🐵 [有 chrome 批量截屏平替软件吗？ FireShot](https://www.v2ex.com/t/863296#reply1) | Thu Jun 30 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;RT 、用了 30 天  用是真的好用，打开所有窗口，点击一下全部截屏保存。
 我还以为使用删除安装还能用。哈哈&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [Android 应用的权限控制适用于 App 内部的 .so 文件吗？](https://www.v2ex.com/t/863295#reply2) | Thu Jun 30 2022 12:28 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;不太了解这一块&lt;/p&gt;
-&lt;p&gt;我理解 .so 文件应该是直接调用 Linux 系统 API 了，和 App 不在一个层面&lt;/p&gt;
-&lt;p&gt;但是如果 .so 可以做 &lpar;root 权限之外的&rpar; 所有事情，那么 Android 的权限控制不是形同虚设了吗？&lt;/p&gt;
-&lt;p&gt;如果并非如此，难道有一个 &quot;Android 权限&quot; 到 &quot;Linux 系统 API&quot; 的映射表这样一个存在吗？&lt;/p&gt;
 
 	 
     </details> 
