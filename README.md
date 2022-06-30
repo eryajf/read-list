@@ -131,14 +131,53 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [二次开发 Go Elm react 预算 2K](https://www.v2ex.com/t/863169#reply1) | Thu Jun 30 2022 4:48 AM 
+- 🥸 [一款标签化管理网页收藏的工具](https://www.v2ex.com/t/863179#reply1) | Thu Jun 30 2022 5:44 AM 
     <details><summary>展开描述 ...</summary> 
     
-	现在网站需要更新后端，是某开源项目做的。&lt;br /&gt;开源项目地址 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/inbucket/inbucket&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/inbucket/inbucket&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;已经在此基础上做了一些改变。源项目添加域名的方式是.env 添加，目前也没有变。希望可以改变添加域名的方式，必须解决大量存储快速反应。&lt;br /&gt;&lt;br /&gt;需求：&lt;br /&gt;让用户可以自定义域名，可以自由删除，但是我不希望用户注册账号，大概流程我希望是在前端 提交域名的时候自动生成一个 key ? 用户可以通过 key 查询到自己提交的域名，可以有删除的动作，这里就需要一个提交 一个查询，查询到后可以删除。key 是唯一的值，在用户提交域名的时候就自动生成，用户必须妥善保管。&lt;br /&gt;&lt;br /&gt;必须要有可控性，提供某个方式禁用某些域名，一旦禁用，用户无法添加，包括无法使用。&lt;br /&gt;&lt;br /&gt;前端通过访问 &lt;a target=&quot;_blank&quot; href=&quot;http://xx.com/mail/abc@abc.com&quot; rel=&quot;nofollow noopener&quot;&gt;xx.com/mail/abc@abc.com&lt;/a&gt;  自动显示该域名到某个位置，也可以通过输入域名定位，此功能简单，不好描述。&lt;br /&gt;&lt;br /&gt;需要注意的是 如果是大量的存储，系统处理的速度问题。&lt;br /&gt;&lt;br /&gt;如果你愿意做，请发送电子邮件到 v2ex@yuduma.com 留下你的联系方式，此电子邮件我不能回复。&lt;br /&gt;&lt;br /&gt;不要影响现有功能。预算 2K ，时间一周内。到下个周末。
+	项目地址：&lt;a target=&quot;_blank&quot; href=&quot;http://github.com/oyps/mypages&quot; rel=&quot;nofollow noopener&quot;&gt;github.com/oyps/mypages&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;电脑端截图：&lt;a target=&quot;_blank&quot; href=&quot;http://raw.githubusercontent.com/oyps/mypages/main/img/at_computer.jpg&quot; rel=&quot;nofollow noopener&quot;&gt;raw.githubusercontent.com/oyps/mypages/main/img/at_computer.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;手机端截图：&lt;a target=&quot;_blank&quot; href=&quot;http://raw.githubusercontent.com/oyps/mypages/main/img/at_phone.jpg&quot; rel=&quot;nofollow noopener&quot;&gt;raw.githubusercontent.com/oyps/mypages/main/img/at_phone.jpg&lt;/a&gt;
 	 
     </details> 
 
-- 🤗 [大公司测试环境也会共用一个测试数据库吗](https://www.v2ex.com/t/863167#reply0) | Thu Jun 30 2022 4:35 AM 
+- 🤗 [正向与反向代理如何保证 https 是安全的？](https://www.v2ex.com/t/863177#reply14) | Thu Jun 30 2022 5:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;最近刚了解 https 的 TLS/SSL 3 次握手，突然想到代理有时候不是 https ，那代理可以保证数据安全吗？代理的原理是什么？然后就有一系列的疑问：&lt;/p&gt;
+&lt;h3&gt;如下链路&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A&lpar;浏览器，正在访问一个 https 网站&rpar; -&amp;gt; &lt;/li&gt;
+&lt;li&gt;B&lpar;本机的代理服务，例如 clash ，ss ，是正向代理&rpar; -&amp;gt; &lt;/li&gt;
+&lt;li&gt;C&lpar;机场的代理服务器，是正向代理&rpar; -&amp;gt; &lt;/li&gt;
+&lt;li&gt;D&lpar;负载均衡服务器，是反向代理&rpar; -&amp;gt; &lt;/li&gt;
+&lt;li&gt;E&lpar;nginx ，是反向代理&rpar; -&amp;gt;&lt;/li&gt;
+&lt;li&gt;F&lpar;web 应用&rpar;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;问题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;A 上设置的代理地址是 &lt;a href=&quot;http://127.0.0.1:7890&quot; rel=&quot;nofollow&quot;&gt;http://127.0.0.1:7890&lt;/a&gt; ，A 到 B 会保证 https 的安全吗？如果是 sock://127.0.0.1:7890 呢，还有 &lt;a href=&quot;https://127.0.0.1:7890&quot; rel=&quot;nofollow&quot;&gt;https://127.0.0.1:7890&lt;/a&gt; 呢？如果 A 到 B 的链路不安全，被监听的风险会来自哪？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;B 到 C 使用的协议如何保证数据安全？ ss ，v2ray ，trojan 等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果在 E&lpar;nginx&rpar;上配置 ssl 证书，是不是只能保证 D → E 这一段是 https 的，并不能保证 C 到 D 是 https 的？是不是必须得在 D 负载均衡上配置 ssl 证书，才能保证用户使用的网站的安全性？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;网上搜索也不知道怎么搜，只能请大佬赐教了！&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [有人开发过淘宝小程序吗？](https://www.v2ex.com/t/863176#reply2) | Thu Jun 30 2022 5:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;申请了淘宝小程序一直审核不过，
+有人做过有闲置的小程序吗？想花钱买一个..&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [大公司测试环境也会共用一个测试数据库吗](https://www.v2ex.com/t/863167#reply5) | Thu Jun 30 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;ul&gt;
@@ -150,29 +189,10 @@
 	 
     </details> 
 
-- 🎭 [swift5 如何实现这样的布局，求高手指点一下](https://www.v2ex.com/t/863160#reply4) | Thu Jun 30 2022 3:50 AM 
+- 🐵 [swift5 如何实现这样的布局，求高手指点一下](https://www.v2ex.com/t/863160#reply4) | Thu Jun 30 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     
 	上面的是一张长图，不是视频，向左自动滚动。&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;https://wx2.sinaimg.cn/mw2000/007eBiJ8ly1h3q3k21vv2g30gg0zk7wo.gif&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
-	 
-    </details> 
-
-- 🥷 [面试时问业务场景问题，一般该如何回答](https://www.v2ex.com/t/863154#reply1) | Thu Jun 30 2022 3:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;楼主本人最近面试，遇到问业务场景该怎么做的，总是容易卡壳，不知各位 V 友有无比较好的经验，可以应对这些的，或者说在哪里可以找到比较多的业务场景题可以看看，学习学习的&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [提醒一下， Google Domains 土区域名续费即将涨价](https://www.v2ex.com/t/863152#reply0) | Thu Jun 30 2022 3:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;&lt;a href=&quot;http://目前.com&quot; rel=&quot;nofollow&quot;&gt;目前.com&lt;/a&gt; 域名续费是 TRY 75/year ，&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;.COM 域名的续期价格从 2022 年 7 月 29 日开始将上涨至 TRY195/年&lt;/p&gt;
-&lt;/blockquote&gt;
-
 	 
     </details> 
 <!-- v2ex:END -->
