@@ -131,14 +131,21 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [广电 192 手机号段发布了，你的业务代码里适配了吗？](https://www.v2ex.com/t/863330#reply0) | Thu Jun 30 2022 4:42 PM 
+- 🥸 [深夜提问 Java 如何判断是否为正确域名格式](https://www.v2ex.com/t/863333#reply0) | Thu Jun 30 2022 6:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	如题，各位大佬，遇到个问题，套了许多正则也不能判断一个域名是否为正确的格式，或许正则不是最好的方式？ 有没有懂的老哥指导一番🌚🌚
+	 
+    </details> 
+
+- 🤗 [广电 192 手机号段发布了，你的业务代码里适配了吗？](https://www.v2ex.com/t/863330#reply1) | Thu Jun 30 2022 4:42 PM 
     <details><summary>展开描述 ...</summary> 
     
 	
 	 
     </details> 
 
-- 🤗 [深夜感慨，公司裁员了，我却还在](https://www.v2ex.com/t/863325#reply9) | Thu Jun 30 2022 4:15 PM 
+- 🎭 [深夜感慨，公司裁员了，我却还在](https://www.v2ex.com/t/863325#reply11) | Thu Jun 30 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;6 月初我们组还有 7 个人，截止 6-30 ，只剩 2 个人了。&lt;/p&gt;
@@ -150,7 +157,7 @@
 	 
     </details> 
 
-- 🎭 [nvim 0.7.2 released](https://www.v2ex.com/t/863322#reply0) | Thu Jun 30 2022 3:24 PM 
+- 🥷 [nvim 0.7.2 released](https://www.v2ex.com/t/863322#reply0) | Thu Jun 30 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;这个更新其实是个小更新，更大的是两个月前的 0.7 ，不过那时候忙，没时间写。。&lt;/p&gt;
@@ -159,21 +166,10 @@
 	 
     </details> 
 
-- 🥷 [求解，侄子毕业，现在万元以内计算机系有啥推荐的 win 本](https://www.v2ex.com/t/863309#reply3) | Thu Jun 30 2022 2:39 PM 
+- 🐵 [求解，侄子毕业，现在万元以内计算机系有啥推荐的 win 本](https://www.v2ex.com/t/863309#reply4) | Thu Jun 30 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;如题了，肯定会有部分游戏需求，预算 7000 ～ 10000 吧&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply5) | Thu Jun 30 2022 1:56 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;数据库叫 StoneDB ，基于 MySQL 原生开发，遵循 GPL 协议。
-在 MySQL 的行存引擎基础上，开发了自研的列存引擎，用一体化的架构，可以给 MySQL 平行升级，提升实时分析能力。
-项目在这里，欢迎来提 issue
-&lt;a href=&quot;https://github.com/StoneAtom/stonedb&quot; rel=&quot;nofollow&quot;&gt;https://github.com/StoneAtom/stonedb&lt;/a&gt;&lt;/p&gt;
 
 	 
     </details> 
