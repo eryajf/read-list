@@ -131,44 +131,64 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [写代码久了，感觉数据结构都是浮云，主程序只要保存一棵树，就能搞定 95%的场景需求。](https://www.v2ex.com/t/863250#reply0) | Thu Jun 30 2022 9:06 AM 
+- 🥸 [PHP 编译器 BPC 可以下载试用了!](https://www.v2ex.com/t/863267#reply1) | Thu Jun 30 2022 10:05 AM 
     <details><summary>展开描述 ...</summary> 
     
-	用户有新需求，就不断的往这一棵树上加子叶，用 ID 做为键值来查找。&lt;br /&gt;&lt;br /&gt;如果叶子上有大数据，就用类似二次索引 index ，去数据库里实时查询。&lt;br /&gt;&lt;br /&gt;保存数据的时候，JSON 一把梭导出，简单又明了。&lt;br /&gt;&lt;br /&gt;高端的程序（食材）往往只需要采用最朴素的数据结构（烹饪方式）。
-	 
-    </details> 
-
-- 🤗 [Obsidian 的本地图片怎么管理呢?有本地图片管理的扩展吗?](https://www.v2ex.com/t/863249#reply0) | Thu Jun 30 2022 9:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;让所有的图片在一个子文件夹之类的扩展,有吗&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [对于有插入（范围插入）、 删除（范围删除）、 下标获取要求性能最好的数据结构是什么？](https://www.v2ex.com/t/863239#reply11) | Thu Jun 30 2022 8:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;现在开发的项目对性能比较敏感，有一个列表结构频繁地会通过索引获取对象，通过下标或对象本身删除列表中的一个或多个对象，在列表中间某个位置、尾部插入一个或多个对象，请问能不能实现这种数据结构让每种方法都以 O&lpar;1&rpar;的方式进行。&lt;/p&gt;
+	&lt;p&gt;不清楚 BPC 是什么的参看这里:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/826154&quot; rel=&quot;nofollow&quot;&gt;开发了一年多的 PHP 编译器 BPC 初见成效,发一些测试程序给大家看看&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/836369&quot; rel=&quot;nofollow&quot;&gt;PHP 编译器 BPC 的第一个成功案例来了!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/857855&quot; rel=&quot;nofollow&quot;&gt;PHP 编译器 BPC 新里程碑达成: 可以编译 web 应用了!&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;官网在此: &lt;a href=&quot;https://bpc.dev&quot; rel=&quot;nofollow&quot;&gt;https://bpc.dev&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;之前只是给大家看编译好的程序,现在你可以自己动手编译了,感兴趣的下载试试吧.&lt;/p&gt;
+&lt;p&gt;内置 license 7 天有效,过期的话可以发邮件申请或者等我们下次发布新版本.&lt;/p&gt;
 
 	 
     </details> 
 
-- 🥷 [关于 Java 内存泄露的问题，请各位大佬帮我看看](https://www.v2ex.com/t/863232#reply13) | Thu Jun 30 2022 7:58 AM 
+- 🤗 [现在前端打包现在都用什么工具？求推荐](https://www.v2ex.com/t/863266#reply2) | Thu Jun 30 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;现在有一个类，这个类有一个静态属性，长这样：public static A a =new A&lpar;&rpar;; 那么现在来分析，new A&lpar;&rpar;肯定是进 JVM 的堆区，static A a 肯定是进方法区，然后 &quot;=&quot; 是把方法区的 a 与堆区的数据进行一个强引用关联。那么问题来了，方法区的数据一般不会被清理掉（特殊情况除外），那么指向堆内存的数据就会一直在堆中存在，这不就是内存泄露了么？&lt;/p&gt;
+	我是后端，小公司接手了个 node 项目，需要做一个前端的 demo ，里面有个 node 的依赖，感觉以前的&amp;lt;script&amp;gt;引入 js 都不能用了，看了一圈，现在前端都得打包了，什么 webpack ，vite ，gulp ，不知道大家推荐用哪一个打包工具？
+	 
+    </details> 
+
+- 🎭 [.ssh/config 里面内容太多，用 Python 做了个带 ui 的检索工具](https://www.v2ex.com/t/863264#reply5) | Thu Jun 30 2022 9:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;h1&gt;.ssh/config 里面内容太多，用 python 做了个带 ui 的检索工具&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;程序的作用是，自动解析 &lt;code&gt;.ssh/config&lt;/code&gt;文件，解析出 host&lt;/li&gt;
+&lt;li&gt;单击 标题头 可以排序&lt;/li&gt;
+&lt;li&gt;单击行， 会复制相应的 &lt;code&gt;ssh your_host_config&lt;/code&gt; 到剪贴板；&lt;/li&gt;
+&lt;li&gt;TODO: 右键单击，会 Term 中运行 ssh your_host_config ，未实现，用于右键单击后，能自动打开 term 并运行&lt;code&gt;ssh your_host_config&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/zhangyc310/search_ssh_config_host/master/show_demo.png&quot;/&gt;
+	 
+    </details> 
+
+- 🥷 [阿里云 OSS 删除文件有多慢](https://www.v2ex.com/t/863261#reply4) | Thu Jun 30 2022 9:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;阿里云 oss,上传嗖嗖的，上次说的下载拉胯，下载 5TB ，流量费好几千，现在发现删除更要命，1 秒大约删除 1000 个文件，5TB 存的图片，每个图片 10kb ，5&lt;em&gt;1024&lt;/em&gt;1024*1024 ，53687 万个文件，536870 秒，大约 6.2 天，如果是 500TB ，删除文件就需要 620 天，大约 2 年。。。&lt;/p&gt;
+&lt;p&gt;删除方法（网页上点击根目录的一个文件夹，选择彻底删除，就是这么慢，其他方法没试过）&lt;/p&gt;
 
 	 
     </details> 
 
-- 🐵 [Edge 正在向 Yandex 发送我的历史记录](https://www.v2ex.com/t/863220#reply3) | Thu Jun 30 2022 7:26 AM 
+- 🐵 [CDC&lpar;CHANGE DATA CAPTHURE&rpar; 到底有什么优势](https://www.v2ex.com/t/863257#reply0) | Thu Jun 30 2022 9:36 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;最近在调试 Cloudflare Workers ，发现日志中总有莫名其妙的请求。IP 来源是俄罗斯，UA 是 Yandex 的爬虫。&lt;/p&gt;
-&lt;p&gt;具体表现为，当我访问只有我知道的一个 API 地址时，5 分钟之后会有 Yandex 爬虫访问该地址。由于是 HTTPS 链接，检查过证书没有问题，因此排除 MITM 。&lt;/p&gt;
-&lt;p&gt;首先怀疑自己安装的插件，于是开 InPrevite 窗口，该问题复现。新建一个 Edge Profile ，请求该 URL ，依然复现。因此排除是插件问题。&lt;/p&gt;
-&lt;p&gt;使用 Firefox 请求该 URL ，无法复现。&lt;/p&gt;
+	&lt;ul&gt;
+&lt;li&gt;
+想问问大家, cdc 一般可以用来做什么。目前了解到, 一般可以用来:&lt;ol&gt;
+&lt;li&gt;更新缓存&lt;/li&gt;
+&lt;li&gt;分发数据到多端&lt;/li&gt;
+&lt;li&gt;同步更新 ES 做数据查询&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些场景大家有用到吗,在我看来 cdc 的优势可以提高业务的功能单一化, 简化了各服务间的调用。大家有什么看法呢&lt;/p&gt;
 
 	 
     </details> 
