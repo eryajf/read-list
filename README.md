@@ -131,52 +131,51 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [现在在浏览器端能采集到什么有辨识度的字段吗？](https://www.v2ex.com/t/863197#reply0) | Thu Jun 30 2022 6:48 AM 
+- 🥸 [关于 Java 内存泄露的问题，请各位大佬帮我看看](https://www.v2ex.com/t/863232#reply9) | Thu Jun 30 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;最近在关注设备指纹技术  根据原理是从客户端采集数据计算得到一个设备标识&lt;br/&gt;
-但是浏览器上看了一圈 也实际测试了  发现没啥好的特征可以做到这点&lt;br/&gt;
-即使是 ua 也会很多重复的 而且 ua 也很容易改&lt;br/&gt;
-有了解过这个点的大神吗&lt;/p&gt;
+	&lt;p&gt;现在有一个类，这个类有一个静态属性，长这样：public static A a =new A&lpar;&rpar;; 那么现在来分析，new A&lpar;&rpar;肯定是进 JVM 的堆区，static A a 肯定是进方法区，然后 &quot;=&quot; 是把方法区的 a 与堆区的数据进行一个强引用关联。那么问题来了，方法区的数据一般不会被清理掉（特殊情况除外），那么指向堆内存的数据就会一直在堆中存在，这不就是内存泄露了么？&lt;/p&gt;
 
 	 
     </details> 
 
-- 🤗 [请教 Elasticsearch 使用什么 ETL 工具](https://www.v2ex.com/t/863188#reply7) | Thu Jun 30 2022 6:32 AM 
+- 🤗 [Edge 正在向 Yandex 发送我的历史记录](https://www.v2ex.com/t/863220#reply3) | Thu Jun 30 2022 7:26 AM 
     <details><summary>展开描述 ...</summary> 
     
-	由于我是半路接受 es 的开发工作,对整体的技术工具方案都不是很了解.&lt;br /&gt;接手半年发现自己一直在做 ETL 相关的工作.&lt;br /&gt;&lt;br /&gt;现有的方案是 : &lt;br /&gt;1.接受数据变更 MQ 消息&lt;br /&gt;2.去 MySql 查询业务数据组装成 JSON&lt;br /&gt;3.合并更新 MongoDB 中..&lt;br /&gt;4.跑批更新到 ES 中&lpar;一个比较复杂的树形结构&rpar;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;现有的问题 :&lt;br /&gt;1.跑批任务经常卡死,不可靠&lt;br /&gt;2.业务变动,总是需要我去开发 java 代码&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我寻思 ES 这块应该有工具的,所以我去查了一下 Kettle 应该符合我的要求.&lt;br /&gt;&lt;br /&gt;设想是跑批任务定时拉去 Mysql 拉去业务表的变动,然后通过一系列的转换流程补充成完整的业务 JSON&lpar;多张数据表组装成 JSON&rpar;,在更新到 es 中&lpar;省了 MongoDB 这步&rpar;&lt;br /&gt;&lt;br /&gt;询问了下我们公司的数仓同事,他们也在用阿里云的 DataWorks 工具.我研究了下发现这个工具只能做简单的同步数据映射,达到我设想的多张表聚合成一个 JSON 貌似要使用 EMR 引擎,我对这块特别不熟悉.完全没有头绪感觉 EMR&lpar;我理解为大数据相关的工具&rpar;学习成本太高了..&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;总结一下想了解的问题:&lt;br /&gt;1.如果有其他方案,请不吝赐教&lt;br /&gt;2.麻烦帮我权衡一下使用 Kettle 还是 DataWorks&lpar;二个都不会用,不是很想学大数据相关的技术 纯门外汉&rpar;&lt;br /&gt;考虑 DataWorks 的原因是我们公司喜欢上云服务,减轻运维压力
-	 
-    </details> 
-
-- 🎭 [求助服务 Connection refused 如何排查](https://www.v2ex.com/t/863187#reply4) | Thu Jun 30 2022 6:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;现象是：服务运行一段时间后，无法请求服务接口，在服务部署机器 curl 接口会报 Connection refused
-日志没有什么不正常的，该如何排查&lt;/p&gt;
+	&lt;p&gt;最近在调试 Cloudflare Workers ，发现日志中总有莫名其妙的请求。IP 来源是俄罗斯，UA 是 Yandex 的爬虫。&lt;/p&gt;
+&lt;p&gt;具体表现为，当我访问只有我知道的一个 API 地址时，5 分钟之后会有 Yandex 爬虫访问该地址。由于是 HTTPS 链接，检查过证书没有问题，因此排除 MITM 。&lt;/p&gt;
+&lt;p&gt;首先怀疑自己安装的插件，于是开 InPrevite 窗口，该问题复现。新建一个 Edge Profile ，请求该 URL ，依然复现。因此排除是插件问题。&lt;/p&gt;
+&lt;p&gt;使用 Firefox 请求该 URL ，无法复现。&lt;/p&gt;
 
 	 
     </details> 
 
-- 🥷 [什么样的网络中间层能把 Content-Type 改为 Content_Type](https://www.v2ex.com/t/863186#reply2) | Thu Jun 30 2022 6:31 AM 
+- 🎭 [小白 nas 选购咨询](https://www.v2ex.com/t/863215#reply6) | Thu Jun 30 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;事情是这样，python 同事在 A 网络环境发送 Content-Type=multipart/form-data 的文件上传 HTTP 请求。
-我在 B 网络环境接收，A 和 B 中间有类似防火墙的机制。
-结果在 Nginx 这一层提示 invalid header Content_Type ，发现变成了下划线的请求头了
-而且在后端使用 Java 接收接口时，压根就没有了此请求头，也就导致文件上传的请求失败。
-现在处理方式就是在 nginx 中加了个配置
-underscores_in_headers on
-将 Content_Type 头部设置到 Content-Type 中，才完成了请求。
-结果收到请求体后发现，每次请求都比发送的包少一部分，大概 1/4&lt;/p&gt;
+	&lt;p&gt;相中了极空间 z2s , 2g 和 4g 版怎么选？可能就挂挂 pt ，看看视频&lt;/p&gt;
+&lt;p&gt;另外，看有人说矿盘划算，有什么靠谱的矿盘门道吗？&lt;/p&gt;
 
 	 
     </details> 
 
-- 🐵 [一款标签化管理网页收藏的工具](https://www.v2ex.com/t/863179#reply1) | Thu Jun 30 2022 5:44 AM 
+- 🥷 [对文章进行自动分类的算法](https://www.v2ex.com/t/863209#reply1) | Thu Jun 30 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
     
-	项目地址：&lt;a target=&quot;_blank&quot; href=&quot;http://github.com/oyps/mypages&quot; rel=&quot;nofollow noopener&quot;&gt;github.com/oyps/mypages&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;电脑端截图：&lt;a target=&quot;_blank&quot; href=&quot;http://raw.githubusercontent.com/oyps/mypages/main/img/at_computer.jpg&quot; rel=&quot;nofollow noopener&quot;&gt;raw.githubusercontent.com/oyps/mypages/main/img/at_computer.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;手机端截图：&lt;a target=&quot;_blank&quot; href=&quot;http://raw.githubusercontent.com/oyps/mypages/main/img/at_phone.jpg&quot; rel=&quot;nofollow noopener&quot;&gt;raw.githubusercontent.com/oyps/mypages/main/img/at_phone.jpg&lt;/a&gt;
+	&lt;p&gt;先说下背景： 比较小的数据量，文章结构比较简单，假设就只有 title, content 两个字段。&lt;/p&gt;
+&lt;p&gt;这方面有比较好用，简单的的库推荐嘛？&lt;/p&gt;
+&lt;p&gt;可以是普通推荐算法，也可以是机器学习相关。&lt;/p&gt;
+&lt;p&gt;主要以简单，好使为目的。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [求`Simple Drag &amp; Drop Search`替代 Chrome 扩展](https://www.v2ex.com/t/863207#reply0) | Thu Jun 30 2022 7:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;今天提示&lt;code&gt;Simple Drag &amp;amp; Drop Search&lt;/code&gt;扩展有风险失效了，各位 V 友有没有替代的？
+&lt;a href=&quot;https://chrome.google.com/webstore/detail/simple-drag-drop-search/aiifonoffdkfmmiadigmjhoameijkdbb&quot; rel=&quot;nofollow&quot;&gt;https://chrome.google.com/webstore/detail/simple-drag-drop-search/aiifonoffdkfmmiadigmjhoameijkdbb&lt;/a&gt;&lt;/p&gt;
+
 	 
     </details> 
 <!-- v2ex:END -->
