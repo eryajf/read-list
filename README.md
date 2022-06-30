@@ -131,19 +131,28 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [寻求大佬写一个协议注册 apple id](https://www.v2ex.com/t/863314#reply2) | Thu Jun 30 2022 2:52 PM 
+- 🥸 [深夜感慨，公司裁员了，我却还在](https://www.v2ex.com/t/863325#reply5) | Thu Jun 30 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;寻求大佬写一个协议注册 apple id ，能力有限只会写模拟的。
-1 、可多线程批量注册
-2 、支持代理池
-3 、邮箱验证，无需手机号（手机号验证以后默认开启了两步认证）
-如有意请留联系方式，感谢&lt;/p&gt;
+	&lt;p&gt;6 月初我们组还有 7 个人，截止 6-30 ，只剩 2 个人了。&lt;/p&gt;
+&lt;p&gt;人事今天下午直接约谈组员签字，我甚至都不知道这件事以及人员名单，还是组员和我提起的。&lt;/p&gt;
+&lt;p&gt;想做点什么、想帮点什么，却发现自己什么也做不了。&lt;/p&gt;
+&lt;p&gt;晚上约组员吃了顿饭，这会正躺床上写简历。&lt;/p&gt;
+&lt;p&gt;2022-07-01 00:15 分&lt;/p&gt;
 
 	 
     </details> 
 
-- 🤗 [求解，侄子毕业，现在万元以内计算机系有啥推荐的 win 本](https://www.v2ex.com/t/863309#reply3) | Thu Jun 30 2022 2:39 PM 
+- 🤗 [nvim 0.7.2 released](https://www.v2ex.com/t/863322#reply0) | Thu Jun 30 2022 3:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;这个更新其实是个小更新，更大的是两个月前的 0.7 ，不过那时候忙，没时间写。。&lt;/p&gt;
+&lt;p&gt;具体更新内容参考 &lt;a href=&quot;https://jdhao.github.io/2022/06/29/nvim_v07-release/&quot; rel=&quot;nofollow&quot;&gt;https://jdhao.github.io/2022/06/29/nvim_v07-release/&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [求解，侄子毕业，现在万元以内计算机系有啥推荐的 win 本](https://www.v2ex.com/t/863309#reply3) | Thu Jun 30 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;如题了，肯定会有部分游戏需求，预算 7000 ～ 10000 吧&lt;/p&gt;
@@ -151,7 +160,7 @@
 	 
     </details> 
 
-- 🎭 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply2) | Thu Jun 30 2022 1:56 PM 
+- 🥷 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply5) | Thu Jun 30 2022 1:56 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;数据库叫 StoneDB ，基于 MySQL 原生开发，遵循 GPL 协议。
@@ -162,7 +171,7 @@
 	 
     </details> 
 
-- 🥷 [CabloyJS 4.22 重磅推出弹出式页面交互风格](https://www.v2ex.com/t/863301#reply1) | Thu Jun 30 2022 1:31 PM 
+- 🐵 [CabloyJS 4.22 重磅推出弹出式页面交互风格](https://www.v2ex.com/t/863301#reply1) | Thu Jun 30 2022 1:31 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;h2&gt;升级说明&lt;/h2&gt;
@@ -207,16 +216,6 @@
 &lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/zhennann/cabloy&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zhennann/cabloy&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-
-	 
-    </details> 
-
-- 🐵 [Github 无法触发阿里云 CI 的 webhook？](https://www.v2ex.com/t/863300#reply3) | Thu Jun 30 2022 1:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://content.hackertalk.net/pub/oEQp9B-6JXWgNp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;最近发现推送代码后阿里云的 webhook 都无法触发了，各位有没相同情况&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://hackertalk.net/posts/330456565271470080&quot; rel=&quot;nofollow&quot;&gt;原帖地址&lt;/a&gt;&lt;/p&gt;
 
 	 
     </details> 
