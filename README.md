@@ -131,7 +131,30 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于 Java 内存泄露的问题，请各位大佬帮我看看](https://www.v2ex.com/t/863232#reply9) | Thu Jun 30 2022 7:58 AM 
+- 🥸 [写代码久了，感觉数据结构都是浮云，主程序只要保存一棵树，就能搞定 95%的场景需求。](https://www.v2ex.com/t/863250#reply0) | Thu Jun 30 2022 9:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	用户有新需求，就不断的往这一棵树上加子叶，用 ID 做为键值来查找。&lt;br /&gt;&lt;br /&gt;如果叶子上有大数据，就用类似二次索引 index ，去数据库里实时查询。&lt;br /&gt;&lt;br /&gt;保存数据的时候，JSON 一把梭导出，简单又明了。&lt;br /&gt;&lt;br /&gt;高端的程序（食材）往往只需要采用最朴素的数据结构（烹饪方式）。
+	 
+    </details> 
+
+- 🤗 [Obsidian 的本地图片怎么管理呢?有本地图片管理的扩展吗?](https://www.v2ex.com/t/863249#reply0) | Thu Jun 30 2022 9:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;让所有的图片在一个子文件夹之类的扩展,有吗&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [对于有插入（范围插入）、 删除（范围删除）、 下标获取要求性能最好的数据结构是什么？](https://www.v2ex.com/t/863239#reply11) | Thu Jun 30 2022 8:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;现在开发的项目对性能比较敏感，有一个列表结构频繁地会通过索引获取对象，通过下标或对象本身删除列表中的一个或多个对象，在列表中间某个位置、尾部插入一个或多个对象，请问能不能实现这种数据结构让每种方法都以 O&lpar;1&rpar;的方式进行。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [关于 Java 内存泄露的问题，请各位大佬帮我看看](https://www.v2ex.com/t/863232#reply13) | Thu Jun 30 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;现在有一个类，这个类有一个静态属性，长这样：public static A a =new A&lpar;&rpar;; 那么现在来分析，new A&lpar;&rpar;肯定是进 JVM 的堆区，static A a 肯定是进方法区，然后 &quot;=&quot; 是把方法区的 a 与堆区的数据进行一个强引用关联。那么问题来了，方法区的数据一般不会被清理掉（特殊情况除外），那么指向堆内存的数据就会一直在堆中存在，这不就是内存泄露了么？&lt;/p&gt;
@@ -139,42 +162,13 @@
 	 
     </details> 
 
-- 🤗 [Edge 正在向 Yandex 发送我的历史记录](https://www.v2ex.com/t/863220#reply3) | Thu Jun 30 2022 7:26 AM 
+- 🐵 [Edge 正在向 Yandex 发送我的历史记录](https://www.v2ex.com/t/863220#reply3) | Thu Jun 30 2022 7:26 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;最近在调试 Cloudflare Workers ，发现日志中总有莫名其妙的请求。IP 来源是俄罗斯，UA 是 Yandex 的爬虫。&lt;/p&gt;
 &lt;p&gt;具体表现为，当我访问只有我知道的一个 API 地址时，5 分钟之后会有 Yandex 爬虫访问该地址。由于是 HTTPS 链接，检查过证书没有问题，因此排除 MITM 。&lt;/p&gt;
 &lt;p&gt;首先怀疑自己安装的插件，于是开 InPrevite 窗口，该问题复现。新建一个 Edge Profile ，请求该 URL ，依然复现。因此排除是插件问题。&lt;/p&gt;
 &lt;p&gt;使用 Firefox 请求该 URL ，无法复现。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [小白 nas 选购咨询](https://www.v2ex.com/t/863215#reply6) | Thu Jun 30 2022 7:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;相中了极空间 z2s , 2g 和 4g 版怎么选？可能就挂挂 pt ，看看视频&lt;/p&gt;
-&lt;p&gt;另外，看有人说矿盘划算，有什么靠谱的矿盘门道吗？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [对文章进行自动分类的算法](https://www.v2ex.com/t/863209#reply1) | Thu Jun 30 2022 7:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;先说下背景： 比较小的数据量，文章结构比较简单，假设就只有 title, content 两个字段。&lt;/p&gt;
-&lt;p&gt;这方面有比较好用，简单的的库推荐嘛？&lt;/p&gt;
-&lt;p&gt;可以是普通推荐算法，也可以是机器学习相关。&lt;/p&gt;
-&lt;p&gt;主要以简单，好使为目的。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [求`Simple Drag &amp; Drop Search`替代 Chrome 扩展](https://www.v2ex.com/t/863207#reply0) | Thu Jun 30 2022 7:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;今天提示&lt;code&gt;Simple Drag &amp;amp; Drop Search&lt;/code&gt;扩展有风险失效了，各位 V 友有没有替代的？
-&lt;a href=&quot;https://chrome.google.com/webstore/detail/simple-drag-drop-search/aiifonoffdkfmmiadigmjhoameijkdbb&quot; rel=&quot;nofollow&quot;&gt;https://chrome.google.com/webstore/detail/simple-drag-drop-search/aiifonoffdkfmmiadigmjhoameijkdbb&lt;/a&gt;&lt;/p&gt;
 
 	 
     </details> 
