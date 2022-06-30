@@ -138,7 +138,7 @@
 	 
     </details> 
 
-- 🤗 [广电 192 手机号段发布了，你的业务代码里适配了吗？](https://www.v2ex.com/t/863330#reply1) | Thu Jun 30 2022 4:42 PM 
+- 🤗 [广电 192 手机号段发布了，你的业务代码里适配了吗？](https://www.v2ex.com/t/863330#reply3) | Thu Jun 30 2022 4:42 PM 
     <details><summary>展开描述 ...</summary> 
     
 	
@@ -166,10 +166,13 @@
 	 
     </details> 
 
-- 🐵 [求解，侄子毕业，现在万元以内计算机系有啥推荐的 win 本](https://www.v2ex.com/t/863309#reply4) | Thu Jun 30 2022 2:39 PM 
+- 🐵 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply5) | Thu Jun 30 2022 1:56 PM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;如题了，肯定会有部分游戏需求，预算 7000 ～ 10000 吧&lt;/p&gt;
+	&lt;p&gt;数据库叫 StoneDB ，基于 MySQL 原生开发，遵循 GPL 协议。
+在 MySQL 的行存引擎基础上，开发了自研的列存引擎，用一体化的架构，可以给 MySQL 平行升级，提升实时分析能力。
+项目在这里，欢迎来提 issue
+&lt;a href=&quot;https://github.com/StoneAtom/stonedb&quot; rel=&quot;nofollow&quot;&gt;https://github.com/StoneAtom/stonedb&lt;/a&gt;&lt;/p&gt;
 
 	 
     </details> 
