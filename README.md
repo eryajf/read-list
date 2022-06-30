@@ -131,68 +131,52 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [一款标签化管理网页收藏的工具](https://www.v2ex.com/t/863179#reply1) | Thu Jun 30 2022 5:44 AM 
+- 🥸 [现在在浏览器端能采集到什么有辨识度的字段吗？](https://www.v2ex.com/t/863197#reply0) | Thu Jun 30 2022 6:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;最近在关注设备指纹技术  根据原理是从客户端采集数据计算得到一个设备标识&lt;br/&gt;
+但是浏览器上看了一圈 也实际测试了  发现没啥好的特征可以做到这点&lt;br/&gt;
+即使是 ua 也会很多重复的 而且 ua 也很容易改&lt;br/&gt;
+有了解过这个点的大神吗&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [请教 Elasticsearch 使用什么 ETL 工具](https://www.v2ex.com/t/863188#reply7) | Thu Jun 30 2022 6:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	由于我是半路接受 es 的开发工作,对整体的技术工具方案都不是很了解.&lt;br /&gt;接手半年发现自己一直在做 ETL 相关的工作.&lt;br /&gt;&lt;br /&gt;现有的方案是 : &lt;br /&gt;1.接受数据变更 MQ 消息&lt;br /&gt;2.去 MySql 查询业务数据组装成 JSON&lt;br /&gt;3.合并更新 MongoDB 中..&lt;br /&gt;4.跑批更新到 ES 中&lpar;一个比较复杂的树形结构&rpar;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;现有的问题 :&lt;br /&gt;1.跑批任务经常卡死,不可靠&lt;br /&gt;2.业务变动,总是需要我去开发 java 代码&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我寻思 ES 这块应该有工具的,所以我去查了一下 Kettle 应该符合我的要求.&lt;br /&gt;&lt;br /&gt;设想是跑批任务定时拉去 Mysql 拉去业务表的变动,然后通过一系列的转换流程补充成完整的业务 JSON&lpar;多张数据表组装成 JSON&rpar;,在更新到 es 中&lpar;省了 MongoDB 这步&rpar;&lt;br /&gt;&lt;br /&gt;询问了下我们公司的数仓同事,他们也在用阿里云的 DataWorks 工具.我研究了下发现这个工具只能做简单的同步数据映射,达到我设想的多张表聚合成一个 JSON 貌似要使用 EMR 引擎,我对这块特别不熟悉.完全没有头绪感觉 EMR&lpar;我理解为大数据相关的工具&rpar;学习成本太高了..&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;总结一下想了解的问题:&lt;br /&gt;1.如果有其他方案,请不吝赐教&lt;br /&gt;2.麻烦帮我权衡一下使用 Kettle 还是 DataWorks&lpar;二个都不会用,不是很想学大数据相关的技术 纯门外汉&rpar;&lt;br /&gt;考虑 DataWorks 的原因是我们公司喜欢上云服务,减轻运维压力
+	 
+    </details> 
+
+- 🎭 [求助服务 Connection refused 如何排查](https://www.v2ex.com/t/863187#reply4) | Thu Jun 30 2022 6:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;现象是：服务运行一段时间后，无法请求服务接口，在服务部署机器 curl 接口会报 Connection refused
+日志没有什么不正常的，该如何排查&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [什么样的网络中间层能把 Content-Type 改为 Content_Type](https://www.v2ex.com/t/863186#reply2) | Thu Jun 30 2022 6:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;事情是这样，python 同事在 A 网络环境发送 Content-Type=multipart/form-data 的文件上传 HTTP 请求。
+我在 B 网络环境接收，A 和 B 中间有类似防火墙的机制。
+结果在 Nginx 这一层提示 invalid header Content_Type ，发现变成了下划线的请求头了
+而且在后端使用 Java 接收接口时，压根就没有了此请求头，也就导致文件上传的请求失败。
+现在处理方式就是在 nginx 中加了个配置
+underscores_in_headers on
+将 Content_Type 头部设置到 Content-Type 中，才完成了请求。
+结果收到请求体后发现，每次请求都比发送的包少一部分，大概 1/4&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [一款标签化管理网页收藏的工具](https://www.v2ex.com/t/863179#reply1) | Thu Jun 30 2022 5:44 AM 
     <details><summary>展开描述 ...</summary> 
     
 	项目地址：&lt;a target=&quot;_blank&quot; href=&quot;http://github.com/oyps/mypages&quot; rel=&quot;nofollow noopener&quot;&gt;github.com/oyps/mypages&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;电脑端截图：&lt;a target=&quot;_blank&quot; href=&quot;http://raw.githubusercontent.com/oyps/mypages/main/img/at_computer.jpg&quot; rel=&quot;nofollow noopener&quot;&gt;raw.githubusercontent.com/oyps/mypages/main/img/at_computer.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;手机端截图：&lt;a target=&quot;_blank&quot; href=&quot;http://raw.githubusercontent.com/oyps/mypages/main/img/at_phone.jpg&quot; rel=&quot;nofollow noopener&quot;&gt;raw.githubusercontent.com/oyps/mypages/main/img/at_phone.jpg&lt;/a&gt;
-	 
-    </details> 
-
-- 🤗 [正向与反向代理如何保证 https 是安全的？](https://www.v2ex.com/t/863177#reply14) | Thu Jun 30 2022 5:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;最近刚了解 https 的 TLS/SSL 3 次握手，突然想到代理有时候不是 https ，那代理可以保证数据安全吗？代理的原理是什么？然后就有一系列的疑问：&lt;/p&gt;
-&lt;h3&gt;如下链路&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;A&lpar;浏览器，正在访问一个 https 网站&rpar; -&amp;gt; &lt;/li&gt;
-&lt;li&gt;B&lpar;本机的代理服务，例如 clash ，ss ，是正向代理&rpar; -&amp;gt; &lt;/li&gt;
-&lt;li&gt;C&lpar;机场的代理服务器，是正向代理&rpar; -&amp;gt; &lt;/li&gt;
-&lt;li&gt;D&lpar;负载均衡服务器，是反向代理&rpar; -&amp;gt; &lt;/li&gt;
-&lt;li&gt;E&lpar;nginx ，是反向代理&rpar; -&amp;gt;&lt;/li&gt;
-&lt;li&gt;F&lpar;web 应用&rpar;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;问题&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;A 上设置的代理地址是 &lt;a href=&quot;http://127.0.0.1:7890&quot; rel=&quot;nofollow&quot;&gt;http://127.0.0.1:7890&lt;/a&gt; ，A 到 B 会保证 https 的安全吗？如果是 sock://127.0.0.1:7890 呢，还有 &lt;a href=&quot;https://127.0.0.1:7890&quot; rel=&quot;nofollow&quot;&gt;https://127.0.0.1:7890&lt;/a&gt; 呢？如果 A 到 B 的链路不安全，被监听的风险会来自哪？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;B 到 C 使用的协议如何保证数据安全？ ss ，v2ray ，trojan 等&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;如果在 E&lpar;nginx&rpar;上配置 ssl 证书，是不是只能保证 D → E 这一段是 https 的，并不能保证 C 到 D 是 https 的？是不是必须得在 D 负载均衡上配置 ssl 证书，才能保证用户使用的网站的安全性？&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;网上搜索也不知道怎么搜，只能请大佬赐教了！&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [有人开发过淘宝小程序吗？](https://www.v2ex.com/t/863176#reply2) | Thu Jun 30 2022 5:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;申请了淘宝小程序一直审核不过，
-有人做过有闲置的小程序吗？想花钱买一个..&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [大公司测试环境也会共用一个测试数据库吗](https://www.v2ex.com/t/863167#reply5) | Thu Jun 30 2022 4:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;ul&gt;
-&lt;li&gt;目前我所在的公司测试用的都是同一个数据库，即使测的是不同的功能&lt;/li&gt;
-&lt;li&gt;所有的功能分支也都是合到 test 分支进行测试，所以可能多个功能一起测试&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;感觉理想状况是每个功能单独一个测试环境，单独的数据库，但这样免不了需要额外的人力来维护数据库&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [swift5 如何实现这样的布局，求高手指点一下](https://www.v2ex.com/t/863160#reply4) | Thu Jun 30 2022 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	上面的是一张长图，不是视频，向左自动滚动。&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;https://wx2.sinaimg.cn/mw2000/007eBiJ8ly1h3q3k21vv2g30gg0zk7wo.gif&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
 	 
     </details> 
 <!-- v2ex:END -->
