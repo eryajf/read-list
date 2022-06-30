@@ -218,29 +218,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [迷你直面会说大事：任天堂又为你的 Switch 带来了哪些「新游戏」？](https://sspai.com/post/74047) | Wed Jun 29 2022 9:40 AM 
+- 👹 [派早报：尼康发布 Z 30 相机、ARM 推出新一代移动端 CPU 和 GPU 等](https://sspai.com/post/74063) | Thu Jun 30 2022 12:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    1Password 推出多项新功能、钉钉项目基础版将继续免费、知乎推出学习专区等。&lt;a href=&quot;https://sspai.com/post/74063&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [迷你直面会说大事：任天堂又为你的 Switch 带来了哪些「新游戏」？](https://sspai.com/post/74047) | Wed Jun 29 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
     虽然号称迷你直面会，但与主打独立游戏的 Indie World 相比，这场 25 分钟直面会上发布的内容体量着实有些让人应接不暇。&lt;a href=&quot;https://sspai.com/post/74047&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [微信发布 8.0.24 更新，这 5 个变化值得关注](https://sspai.com/post/74042) | Wed Jun 29 2022 8:00 AM 
+- 🤭 [微信发布 8.0.24 更新，这 5 个变化值得关注](https://sspai.com/post/74042) | Wed Jun 29 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     微信版「AirPlay」，更细致的存储空间管理，还有……&lt;a href=&quot;https://sspai.com/post/74042&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [技术播客月，我们一起聊聊技术与开源](https://sspai.com/post/72270) | Wed Jun 29 2022 6:30 AM 
+- 🥸 [技术播客月，我们一起聊聊技术与开源](https://sspai.com/post/72270) | Wed Jun 29 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     走进技术、了解开源，听到更多开发者的声音和故事。&lt;a href=&quot;https://sspai.com/post/72270&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [思考、方法与信念——我应该怎么与这个世界相处？](https://sspai.com/post/73704) | Wed Jun 29 2022 3:38 AM 
+- 🙉 [思考、方法与信念——我应该怎么与这个世界相处？](https://sspai.com/post/73704) | Wed Jun 29 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
     我之所以花了较多的篇幅来记录我找到答案的过程，是想告诉大家：很多重要的结论、想法，可能不是一瞬间产生，而是经由时间、经历等各种各样输入和输出锤炼之结成的果。所以保持耐心，也是与自己和世界相处的前提之一。希望我们能够找到自己和世界相处的方法，寻找到自我，以及属于自己的安稳。&lt;a href=&quot;https://sspai.com/post/73704&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：星巴克推出三星手机、耳机保护壳，保时捷设计推出 PDH80](https://sspai.com/post/74045) | Wed Jun 29 2022 12:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    HTC 推出元宇宙手机 Desire 22 Pro，Google 环聊将于 11 月正式关闭等&lt;a href=&quot;https://sspai.com/post/74045&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
