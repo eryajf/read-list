@@ -131,7 +131,14 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大公司测试环境也会共用一个测试数据库吗](https://www.v2ex.com/t/863167#reply0) | Thu Jun 30 2022 4:35 AM 
+- 🥸 [二次开发 Go Elm react 预算 2K](https://www.v2ex.com/t/863169#reply1) | Thu Jun 30 2022 4:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	现在网站需要更新后端，是某开源项目做的。&lt;br /&gt;开源项目地址 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/inbucket/inbucket&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/inbucket/inbucket&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;已经在此基础上做了一些改变。源项目添加域名的方式是.env 添加，目前也没有变。希望可以改变添加域名的方式，必须解决大量存储快速反应。&lt;br /&gt;&lt;br /&gt;需求：&lt;br /&gt;让用户可以自定义域名，可以自由删除，但是我不希望用户注册账号，大概流程我希望是在前端 提交域名的时候自动生成一个 key ? 用户可以通过 key 查询到自己提交的域名，可以有删除的动作，这里就需要一个提交 一个查询，查询到后可以删除。key 是唯一的值，在用户提交域名的时候就自动生成，用户必须妥善保管。&lt;br /&gt;&lt;br /&gt;必须要有可控性，提供某个方式禁用某些域名，一旦禁用，用户无法添加，包括无法使用。&lt;br /&gt;&lt;br /&gt;前端通过访问 &lt;a target=&quot;_blank&quot; href=&quot;http://xx.com/mail/abc@abc.com&quot; rel=&quot;nofollow noopener&quot;&gt;xx.com/mail/abc@abc.com&lt;/a&gt;  自动显示该域名到某个位置，也可以通过输入域名定位，此功能简单，不好描述。&lt;br /&gt;&lt;br /&gt;需要注意的是 如果是大量的存储，系统处理的速度问题。&lt;br /&gt;&lt;br /&gt;如果你愿意做，请发送电子邮件到 v2ex@yuduma.com 留下你的联系方式，此电子邮件我不能回复。&lt;br /&gt;&lt;br /&gt;不要影响现有功能。预算 2K ，时间一周内。到下个周末。
+	 
+    </details> 
+
+- 🤗 [大公司测试环境也会共用一个测试数据库吗](https://www.v2ex.com/t/863167#reply0) | Thu Jun 30 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;ul&gt;
@@ -143,21 +150,14 @@
 	 
     </details> 
 
-- 🤗 [swift5 如何实现这样的布局，求高手指点一下](https://www.v2ex.com/t/863160#reply4) | Thu Jun 30 2022 3:50 AM 
+- 🎭 [swift5 如何实现这样的布局，求高手指点一下](https://www.v2ex.com/t/863160#reply4) | Thu Jun 30 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     
 	上面的是一张长图，不是视频，向左自动滚动。&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;https://wx2.sinaimg.cn/mw2000/007eBiJ8ly1h3q3k21vv2g30gg0zk7wo.gif&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
 	 
     </details> 
 
-- 🎭 [解决提交数据的方式](https://www.v2ex.com/t/863158#reply0) | Thu Jun 30 2022 3:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	网站无会员系统，怎么让用户自己可以提交一些数据，而且可以让用户可以自由删除，而且能判断是自己的数据，不能删除别人的数据？&lt;br /&gt;不使用 Cookie 的方法。
-	 
-    </details> 
-
-- 🥷 [面试时问业务场景问题，一般该如何回答](https://www.v2ex.com/t/863154#reply0) | Thu Jun 30 2022 3:37 AM 
+- 🥷 [面试时问业务场景问题，一般该如何回答](https://www.v2ex.com/t/863154#reply1) | Thu Jun 30 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;楼主本人最近面试，遇到问业务场景该怎么做的，总是容易卡壳，不知各位 V 友有无比较好的经验，可以应对这些的，或者说在哪里可以找到比较多的业务场景题可以看看，学习学习的&lt;/p&gt;
