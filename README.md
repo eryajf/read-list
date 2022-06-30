@@ -316,10 +316,10 @@ ClosedFilePathDisabled=&amp;lt;BlockNetDevices&amp;gt;,InternetAccessDevices
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [15年做糊21款硬件，谷歌到底栽在哪儿？](http://www.techweb.com.cn/viewpoint/2022-06-30/2896427.shtml) | Thu Jun 30 2022 9:55 AM
-- 👹 [消费电子需求放缓 韩国5月芯片库存创4年最多](http://www.techweb.com.cn/world/2022-06-30/2896423.shtml) | Thu Jun 30 2022 9:47 AM
-- 🪜 [“女性车”赛道是个伪命题](http://www.techweb.com.cn/viewpoint/2022-06-30/2896418.shtml) | Thu Jun 30 2022 9:39 AM
-- 🤭 [奈雪的茶上市一周年推出虚拟股票：一文说透怎么玩，是否违法？](http://www.techweb.com.cn/it/2022-06-30/2896415.shtml) | Thu Jun 30 2022 9:25 AM
-- 🙉 [新款iPhone SE在日本市场需求强劲 但美国市场表现欠佳](http://www.techweb.com.cn/world/2022-06-30/2896413.shtml) | Thu Jun 30 2022 9:19 AM<!-- techweb-allnews:END -->
+- 👍 [优信：1亿美元新融资协议正式签署](http://www.techweb.com.cn/it/2022-06-30/2896435.shtml) | Thu Jun 30 2022 1:30 PM
+- 👹 [15年做糊21款硬件，谷歌到底栽在哪儿？](http://www.techweb.com.cn/viewpoint/2022-06-30/2896427.shtml) | Thu Jun 30 2022 9:55 AM
+- 🪜 [消费电子需求放缓 韩国5月芯片库存创4年最多](http://www.techweb.com.cn/world/2022-06-30/2896423.shtml) | Thu Jun 30 2022 9:47 AM
+- 🤭 [“女性车”赛道是个伪命题](http://www.techweb.com.cn/viewpoint/2022-06-30/2896418.shtml) | Thu Jun 30 2022 9:39 AM
+- 🙉 [奈雪的茶上市一周年推出虚拟股票：一文说透怎么玩，是否违法？](http://www.techweb.com.cn/it/2022-06-30/2896415.shtml) | Thu Jun 30 2022 9:25 AM<!-- techweb-allnews:END -->
 
 
