@@ -131,48 +131,66 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [深夜提问 Java 如何判断是否为正确域名格式](https://www.v2ex.com/t/863333#reply1) | Thu Jun 30 2022 6:10 PM 
+- 🥸 [有没有什么比较好的 mysql to oracle 的实时同步工具](https://www.v2ex.com/t/863368#reply0) | Fri Jul 01 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
     
-	如题，各位大佬，遇到个问题，套了许多正则也不能判断一个域名是否为正确的格式，或许正则不是最好的方式？ 有没有懂的老哥指导一番🌚🌚
-	 
-    </details> 
-
-- 🤗 [广电 192 手机号段发布了，你的业务代码里适配了吗？](https://www.v2ex.com/t/863330#reply4) | Thu Jun 30 2022 4:42 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	
-	 
-    </details> 
-
-- 🎭 [深夜感慨，公司裁员了，我却还在](https://www.v2ex.com/t/863325#reply13) | Thu Jun 30 2022 4:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;6 月初我们组还有 7 个人，截止 6-30 ，只剩 2 个人了。&lt;/p&gt;
-&lt;p&gt;人事今天下午直接约谈组员签字，我甚至都不知道这件事以及人员名单，还是组员和我提起的。&lt;/p&gt;
-&lt;p&gt;想做点什么、想帮点什么，却发现自己什么也做不了。&lt;/p&gt;
-&lt;p&gt;晚上约组员吃了顿饭，这会正躺床上写简历。&lt;/p&gt;
-&lt;p&gt;2022-07-01 00:15 分&lt;/p&gt;
+	&lt;p&gt;生产环境能用的，不用做加工，原封不动传就可以了。
+如果不能实时，能够以定时任务的方式也是可以的&lt;/p&gt;
 
 	 
     </details> 
 
-- 🥷 [nvim 0.7.2 released](https://www.v2ex.com/t/863322#reply0) | Thu Jun 30 2022 3:24 PM 
+- 🤗 [是不是 gc 过程都会导致应用暂停](https://www.v2ex.com/t/863363#reply4) | Fri Jul 01 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;这个更新其实是个小更新，更大的是两个月前的 0.7 ，不过那时候忙，没时间写。。&lt;/p&gt;
-&lt;p&gt;具体更新内容参考 &lt;a href=&quot;https://jdhao.github.io/2022/06/29/nvim_v07-release/&quot; rel=&quot;nofollow&quot;&gt;https://jdhao.github.io/2022/06/29/nvim_v07-release/&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;有 gc 的语言在 gc 过程中是不是都会暂停，这种暂停在什么情况下会难以接受。&lt;/p&gt;
+&lt;p&gt;如 c c++ rust ，他们在回收内存的过程中会暂停吗？&lt;/p&gt;
 
 	 
     </details> 
 
-- 🐵 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply5) | Thu Jun 30 2022 1:56 PM 
+- 🎭 [请教有没有这样一款管控 iPad 的软件？](https://www.v2ex.com/t/863362#reply13) | Fri Jul 01 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;数据库叫 StoneDB ，基于 MySQL 原生开发，遵循 GPL 协议。
-在 MySQL 的行存引擎基础上，开发了自研的列存引擎，用一体化的架构，可以给 MySQL 平行升级，提升实时分析能力。
-项目在这里，欢迎来提 issue
-&lt;a href=&quot;https://github.com/StoneAtom/stonedb&quot; rel=&quot;nofollow&quot;&gt;https://github.com/StoneAtom/stonedb&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;请教有没有这样一款管控 iPad 的软件，在 iPad 上安装之后，这台 iPad 就处于受控状态，通过在 iPhone 或者其他手机上安装一个控制端，就可以控制 iPad 实现如下功能：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;设定哪些 app 可以启动，以及可以运行的时长，最好是连 app store 以及相册这种系统自带的 app 都能控制到，未经允许，app store 以及相册也不能打开。因为相册也可以通过隔空投送来相互传输电影、看电影。这种控制是远程且实时的（方便让娃在完成作业后可以允许使用某些程序）。如果不能“真的”实现控制软件的启动，间接通过隐藏软件图标的方式实现也可以接受。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以开启或者关闭 app store 的软件下载安装功能，如果能更进一步实现只能下载安装指定名单内的软件，并且还能实时调整这个名单就更好了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以实时开启或者关闭“隔空投送”功能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;看到这里，相信大家都能明白使用场景了，就是在大人不在家的情况下，娃能合理地使用 iPad ，现在让娃完全脱离 iPad 是不可能的，因为学校都开始在课堂上用 iPad 教学了。让他自动自觉合理使用 iPad 也不太可能（如果能有这么自觉，清华北大那都不算事），只能通过软件方式来实现更精准有效的管控。&lt;/p&gt;
+&lt;p&gt;如果目前没有现成的这种软件，能否大致介绍一下实现这种程度的管控所需要的技术栈？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [问一个终端 adb root 问题](https://www.v2ex.com/t/863361#reply2) | Fri Jul 01 2022 1:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;公司有一个需要测试的 android 设备，限制了来自 adb 外部访问，想测试自动安装 app 之类的需要获得 root 权限。
+交互步骤是
+adb shell
+su
+123456
+回车
+exit
+exit
+adb root&lt;/p&gt;
+&lt;p&gt;怎么把上面这个做成一个自动化脚本要求不需要手动键入密码的过程，尝试了一下子连续组合好像不行，不知道做到进入带参执行 su ，不太熟悉相关指令用法，有大佬知道解决方法或思路吗。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [云计算（运维）的认证，选择哪家好](https://www.v2ex.com/t/863360#reply4) | Fri Jul 01 2022 1:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;爱好，也是下一步想找工作换个行业，有的要求最好有运维认证文件。现在考哪家的认证好？只粗略看到华为、腾讯云&lt;/p&gt;
 
 	 
     </details> 
