@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [同一个 20 核 128GB RAM 无显卡虚拟机，在 Windows 10 2016 LTSB+Ubuntu 16.04 下用同版本同参数的 ffmpeg 压缩视频，为什么 Windows 总比 Ubuntu 快 25%？](https://www.v2ex.com/t/863558#reply0) | Fri Jul 01 2022 7:33 PM 
+- 🥸 [同一个 20 核 128GB RAM 无显卡虚拟机，在 Windows 10 2016 LTSB+Ubuntu 16.04 下用同版本同参数的 ffmpeg 压缩视频，为什么 Windows 总比 Ubuntu 快 25%？](https://www.v2ex.com/t/863558#reply3) | Fri Jul 01 2022 7:33 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;测试了好几轮还是这样。区别是 Windows 任务管理器 看 CPU 占用始终 100%，Ubuntu top 命令看 CPU 经常会落到 50%左右 1 秒然后升回 100%。&lt;/p&gt;
@@ -212,7 +212,7 @@
 	 
     </details> 
 
-- 🤗 [对 IM 聊天工具 不是特别了解，不过想知道 如 telegram 微信客户端是如何保证与服务器通讯的呢？ 特别是当手机客户端进程都被杀死的情况下。](https://www.v2ex.com/t/863547#reply3) | Fri Jul 01 2022 4:17 PM 
+- 🤗 [对 IM 聊天工具 不是特别了解，不过想知道 如 telegram 微信客户端是如何保证与服务器通讯的呢？ 特别是当手机客户端进程都被杀死的情况下。](https://www.v2ex.com/t/863547#reply4) | Fri Jul 01 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
     
 	
