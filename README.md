@@ -202,7 +202,26 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [kvm 虚拟机作为开发机，通过 spice 连接卡顿](https://www.v2ex.com/t/863415#reply0) | Fri Jul 01 2022 4:54 AM 
+- 🥸 [为什么这个 js 函数是个异步的，但能够在不是异步的地方直接调用？](https://www.v2ex.com/t/863430#reply1) | Fri Jul 01 2022 6:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;如图
+&lt;a href=&quot;https://i.imgur.com/q7orBLM.png&quot; rel=&quot;nofollow&quot;&gt;https://i.imgur.com/q7orBLM.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;为什么这个 initApp 是个异步的，为什么能够在不是异步的地方直接调用？&lt;/p&gt;
+&lt;p&gt;为什么不写作 initApp&lpar;&rpar;.then&lpar;...&rpar;的样子？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [vscode 有没有像 sublime text 一样能够自动缩进以及格式化文件内容的功能或插件啊?](https://www.v2ex.com/t/863429#reply0) | Fri Jul 01 2022 6:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;因为公司不让使用 sublime text, 原来一直使用 sublime text 来临时格式化文件非常好用&lpar;都不需要保存文件, 直接 new 一个就能格式化&rpar;, 最近切到 vscode, 没有找到这个功能, 连自动缩进都没有, 请问下大家, 有没有什么设置或者是插件可以实现这个功能的吗?&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [kvm 虚拟机作为开发机，通过 spice 连接卡顿](https://www.v2ex.com/t/863415#reply2) | Fri Jul 01 2022 4:54 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;之前看见过 v 友评论说，用这种方案很流畅（找不到出处了）。&lt;/p&gt;
@@ -267,7 +286,7 @@ vmstate: local-lvm:vm-100-state-init
 	 
     </details> 
 
-- 🤗 [最近终于有点空了，将 Magician 发布了一个新版本](https://www.v2ex.com/t/863393#reply0) | Fri Jul 01 2022 3:03 AM 
+- 🥷 [最近终于有点空了，将 Magician 发布了一个新版本](https://www.v2ex.com/t/863393#reply0) | Fri Jul 01 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;&lt;strong&gt;Magician 大家可能比较陌生，在介绍本次更新前 先简单介绍一下吧：&lt;/strong&gt;&lt;/p&gt;
@@ -344,30 +363,10 @@ httpServer.bind&lpar;8081&rpar;;
 	 
     </details> 
 
-- 🎭 [adguardhome 和 smartdns 分流](https://www.v2ex.com/t/863391#reply2) | Fri Jul 01 2022 2:55 AM 
+- 🐵 [adguardhome 和 smartdns 分流](https://www.v2ex.com/t/863391#reply5) | Fri Jul 01 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
     
 	adguardhome 自带分流，这是我整的规则&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/rxvb/adguardhome_upstream_dns&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/rxvb/adguardhome_upstream_dns&lt;/a&gt;&lt;br /&gt;国内域名使用 tls://120.53.53.53 查询，其他的会用境外服务器查询。&lt;br /&gt;&lt;br /&gt;smartdns 也有分流功能，我也整了 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/rxvb/smartdns_rules&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/rxvb/smartdns_rules&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;两个都用了 Loyalsoldier/v2ray-rules-dat
-	 
-    </details> 
-
-- 🥷 [chrome 打开后有多个进程，如何在任务管理器中区分各个进程代表的是什么功能](https://www.v2ex.com/t/863390#reply1) | Fri Jul 01 2022 2:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;比如我怎么找到 gpu 进程、网络进程、代理进程对应的进程号。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [dagger.js 使用示例 [7] three.js](https://www.v2ex.com/t/863386#reply2) | Fri Jul 01 2022 2:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;今天分享一个有趣一点的&lt;a href=&quot;https://daggerjs.org&quot; rel=&quot;nofollow&quot;&gt;dagger.js&lt;/a&gt;示例:  &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codepen.io/dagger8224/pen/QWmwaLq&quot; rel=&quot;nofollow&quot;&gt;与 three.js 结合使用 demo&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;snapshot&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://assets.codepen.io/5782383/three.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;更多示例请&lt;a href=&quot;https://codepen.io/dagger8224/pens/&quot; rel=&quot;nofollow&quot;&gt;点击查看&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎大家体验试用 dagger.js ，提出宝贵意见和建议。您的支持和帮助是对我莫大的鼓励！！&lt;/p&gt;
-
 	 
     </details> 
 <!-- v2ex:END -->
