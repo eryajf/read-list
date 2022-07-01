@@ -202,7 +202,72 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [最近终于有点空了，将 Magician 发布了一个新版本](https://www.v2ex.com/t/863393#reply0) | Fri Jul 01 2022 3:03 AM 
+- 🥸 [kvm 虚拟机作为开发机，通过 spice 连接卡顿](https://www.v2ex.com/t/863415#reply0) | Fri Jul 01 2022 4:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;之前看见过 v 友评论说，用这种方案很流畅（找不到出处了）。&lt;/p&gt;
+&lt;p&gt;我的配置&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;cpu 是 amd 5700g&lt;/li&gt;
+&lt;li&gt;宿主机是 pve 7.2&lt;/li&gt;
+&lt;li&gt;虚拟机是 arch linux+KDE Plasma&lt;/li&gt;
+&lt;li&gt;spice 的客户端是 win10, 4k 60hz 的显示器，spice 的两端在同一个局域网下&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;然而卡到无法接受，我之前用 rdp 连过同一局域网下的 win10 ，感觉很流畅，这是什么原因呢？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;虚拟化的 gpu 性能不够？&lt;/li&gt;
+&lt;li&gt;spice 协议的性能不够？&lt;/li&gt;
+&lt;li&gt;kde 太重了？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;附上虚拟机的配置文件&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-txt&quot;&gt;$ ls /etc/pve/nodes/pve/qemu-server/100.conf 
+/etc/pve/nodes/pve/qemu-server/100.conf
+root@pve:~# cat /etc/pve/nodes/pve/qemu-server/100.conf 
+bios: ovmf
+boot: order=scsi0;net0
+cores: 12
+efidisk0: local-lvm:vm-100-disk-0,efitype=4m,size=4M
+memory: 20480
+meta: creation-qemu=6.2.0,ctime=1656175435
+name: work-arch
+net0: virtio=4A:01:FC:E3:83:08,bridge=vmbr0,firewall=1
+numa: 0
+ostype: l26
+parent: init
+scsi0: local-lvm:vm-100-disk-1,size=320G
+scsihw: virtio-scsi-pci
+smbios1: uuid=e0b79fe7-9192-4b62-8ab4-c933bbe19dfa
+sockets: 1
+vga: qxl,memory=48
+vmgenid: affc6913-ad14-4001-bdb0-7575a5fb4bb7
+
+[init]
+bios: ovmf
+boot: order=scsi0;net0
+cores: 12
+efidisk0: local-lvm:vm-100-disk-0,efitype=4m,size=4M
+memory: 20480
+meta: creation-qemu=6.2.0,ctime=1656175435
+name: work-arch
+net0: virtio=4A:01:FC:E3:83:08,bridge=vmbr0,firewall=1
+numa: 0
+ostype: l26
+runningcpu: kvm64,enforce,+kvm_pv_eoi,+kvm_pv_unhalt,+lahf_lm,+sep
+runningmachine: pc-i440fx-6.2+pve0
+scsi0: local-lvm:vm-100-disk-1,size=320G
+scsihw: virtio-scsi-pci
+smbios1: uuid=e0b79fe7-9192-4b62-8ab4-c933bbe19dfa
+snaptime: 1656605489
+sockets: 1
+vga: qxl,memory=48
+vmgenid: affc6913-ad14-4001-bdb0-7575a5fb4bb7
+vmstate: local-lvm:vm-100-state-init
+&lt;/code&gt;&lt;/pre&gt;
+
+	 
+    </details> 
+
+- 🤗 [最近终于有点空了，将 Magician 发布了一个新版本](https://www.v2ex.com/t/863393#reply0) | Fri Jul 01 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;&lt;strong&gt;Magician 大家可能比较陌生，在介绍本次更新前 先简单介绍一下吧：&lt;/strong&gt;&lt;/p&gt;
@@ -279,14 +344,14 @@ httpServer.bind&lpar;8081&rpar;;
 	 
     </details> 
 
-- 🤗 [adguardhome 和 smartdns 分流](https://www.v2ex.com/t/863391#reply0) | Fri Jul 01 2022 2:55 AM 
+- 🎭 [adguardhome 和 smartdns 分流](https://www.v2ex.com/t/863391#reply2) | Fri Jul 01 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
     
 	adguardhome 自带分流，这是我整的规则&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/rxvb/adguardhome_upstream_dns&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/rxvb/adguardhome_upstream_dns&lt;/a&gt;&lt;br /&gt;国内域名使用 tls://120.53.53.53 查询，其他的会用境外服务器查询。&lt;br /&gt;&lt;br /&gt;smartdns 也有分流功能，我也整了 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/rxvb/smartdns_rules&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/rxvb/smartdns_rules&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;两个都用了 Loyalsoldier/v2ray-rules-dat
 	 
     </details> 
 
-- 🎭 [chrome 打开后有多个进程，如何在任务管理器中区分各个进程代表的是什么功能](https://www.v2ex.com/t/863390#reply0) | Fri Jul 01 2022 2:51 AM 
+- 🥷 [chrome 打开后有多个进程，如何在任务管理器中区分各个进程代表的是什么功能](https://www.v2ex.com/t/863390#reply1) | Fri Jul 01 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;比如我怎么找到 gpu 进程、网络进程、代理进程对应的进程号。&lt;/p&gt;
@@ -294,7 +359,7 @@ httpServer.bind&lpar;8081&rpar;;
 	 
     </details> 
 
-- 🥷 [dagger.js 使用示例 [7] three.js](https://www.v2ex.com/t/863386#reply2) | Fri Jul 01 2022 2:35 AM 
+- 🐵 [dagger.js 使用示例 [7] three.js](https://www.v2ex.com/t/863386#reply2) | Fri Jul 01 2022 2:35 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;今天分享一个有趣一点的&lt;a href=&quot;https://daggerjs.org&quot; rel=&quot;nofollow&quot;&gt;dagger.js&lt;/a&gt;示例:  &lt;/p&gt;
@@ -302,14 +367,6 @@ httpServer.bind&lpar;8081&rpar;;
 &lt;p&gt;&lt;img alt=&quot;snapshot&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://assets.codepen.io/5782383/three.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;更多示例请&lt;a href=&quot;https://codepen.io/dagger8224/pens/&quot; rel=&quot;nofollow&quot;&gt;点击查看&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;欢迎大家体验试用 dagger.js ，提出宝贵意见和建议。您的支持和帮助是对我莫大的鼓励！！&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [edge 在 mac 上的小问题咨询](https://www.v2ex.com/t/863376#reply2) | Fri Jul 01 2022 2:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;最近尝试由 chorme 转到 edge ，但是在双指滑动对网页进行前翻或者后翻的时候，总是出现一个箭头，而这个箭头要反应个一会才会加载之前的网页就很难受，总感觉卡顿，有什么办法能去掉这个箭头吗？&lt;/p&gt;
 
 	 
     </details> 
