@@ -318,29 +318,29 @@ httpServer.bind&lpar;8081&rpar;;
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [想到多线程并发就心虚？先来巩固下这些线程基础知识吧！](https://juejin.cn/post/7115194288631185416) | Fri Jul 01 2022 12:28 AM 
+- 🤗 [241. 为运算表达式设计优先级 : DFS 运用题](https://juejin.cn/post/7115234785022181412) | Fri Jul 01 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
-    计算机系统里每个进程（Process）都代表着一个运行着的程序，进程是对运行时程序的封装，系统进行资源调度和分配的基本单位 
+    题目描述 这是 LeetCode 上的 241. 为运算表达式设计优先级 ，难度为 中等。 Tag : 「DFS」、「爆搜」 给你一个由数字和运算符组成的字符串 expression，按不同优先级组合 
     </details> 
 
-- 🎡 [2022 年中总结｜迷失中成长的半年](https://juejin.cn/post/7115180209216684069) | Thu Jun 30 2022 11:39 PM 
+- 🎡 [祖传项目架构治理实战](https://juejin.cn/post/7115228142997864479) | Fri Jul 01 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 距离上次总结过去半年了，这半年经历了很多的事情，经历了外企、自由职业，经历了上海全套的疫情，经历了比较 emo 的时刻，所幸技术还是在稳步 
+    本文介绍作者接手一个前端祖传代码，并通过一系列方法，将项目改造，复杂度降低100倍的经验，如若你也正在面的类似问题，本文非常推荐阅读。 
     </details> 
 
-- 🕯 [【AI资讯月刊】350+资源大盘点！6月不容错过的资料和动态，都都都在这里啦！&lt;附下载&gt;](https://juejin.cn/post/7115160236175917063) | Thu Jun 30 2022 10:31 PM 
+- 🕯 [当你真的学会DataBinding后，你会发现“这玩意真香”!](https://juejin.cn/post/7115224601830883365) | Fri Jul 01 2022 2:25 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇为专栏的 6 月合辑，对 6 月份发布的 30 篇日报内容，进行了整合与分类，将350+学习资源 结构化得整理成了这本电子月刊（排版超美）！回复『日报』获取！ 
+    从被误解到 “真香” 的Jetpack DataBinding，如果你还没有了解过，或者不知道如何使用DataBinding，那么就点进来看看吧，我相信你会有收获的🌹 
     </details> 
 
-- 🚀 [Flask Web 极简教程（四）- Flask WTF Froms（Part A）](https://juejin.cn/post/7115060288335904782) | Thu Jun 30 2022 3:48 PM 
+- 🚀 [Fundebug JavaScript插件支持监控HTTP请求数据](https://juejin.cn/post/7115209983834193934) | Fri Jul 01 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
-    一、表单 表单在页面中主要负责数据采集，一个表单有三个基本组成部分： 表单标签：这里面包含了处理表单数据所用CGI程序的URL以及数据提交到服务器的方法。  表单域：包含了文本框密码框、隐藏域多行文本 
+    Fundebug 前端异常监控服务 Fundebug提供专业的前端异常监控服务。目前网络请求用户行为中不会记录请求的Body的请求的返回数据，为了更好地Debug，特新增3个可配置属性。 
     </details> 
 
-- 💪 [从0开始使用pnpm构建一个Monorepo方式管理的demo](https://juejin.cn/post/7115058575801581605) | Thu Jun 30 2022 3:43 PM 
+- 💪 [文艺复兴：2022 年的 Promise 库 NativeBird](https://juejin.cn/post/7115207232798752782) | Fri Jul 01 2022 1:18 AM 
     <details><summary>展开描述 ...</summary> 
-    Monorepo这个词你应该不止一次听说了，像Vue3、Vite、ElementPlus等优秀开源项目都是使用Monorepo的方式管理项目，且这里说到的这几个项目都是采用pnpm作为包管理工具。 
+    我写了一个叫 NativeBird 的原生 Promise 扩展库，它非常轻还兼容 Bluebird 
     </details> 
 <!-- juejin:END -->
 ### 少数派
