@@ -315,29 +315,29 @@ vmstate: local-lvm:vm-100-state-init
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅谈前端埋点 &amp; 监控、Vue3项目拆分为微应用、大规模实时分位数计算、接口性能优化技巧、HTTP 新增的 103 状态码| 酱酱的下午茶第 19 期](https://juejin.cn/post/7115277824734265380) | Fri Jul 01 2022 5:52 AM 
+- 🤗 [Android性能优化之启动优化&lpar;实战篇&rpar;](https://juejin.cn/post/7115280222877925412) | Fri Jul 01 2022 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-    本期下午茶看点包括：浅谈前端埋点 &amp; 监控、Vue3项目拆分为微应用、大规模实时分位数计算、接口性能优化技巧、安卓动态设置Drawable与Tint、 Andorid:关于Binder几个面试问题。 
+    目录 一、启动优化的意义 二、启动时间检测 三、启动优化工具---traceview 四、优化方案 1.异步初始化 2.延迟初始化 3.懒加载 五、源码地址 六、总结 
     </details> 
 
-- 🎡 [Python 为什么没有 main 函数？为什么我不推荐写 main 函数？](https://juejin.cn/post/7115276821574189070) | Fri Jul 01 2022 5:48 AM 
+- 🎡 [Activity 启动流程分析（一）一天搞懂所有疑难杂问](https://juejin.cn/post/7115215917176340516) | Fri Jul 01 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-    毫无疑问 Python 中没有所谓的 main 入口函数，但是网上经常看到一些文章提“Python 的 main 函数”、“建议写 main 函数”…… 有些人是知情的，他的意图可能是模仿那些正宗的  
+    前言 Activity启动操作在Android开发过程中非常常见，但大多时候我们并未认真思考过其背后的具体流程。在启动某个Activity时，会先启动Activity所在的应用，并启动一个以应用包名为 
     </details> 
 
-- 🕯 [编程语言中分号“;”的简明历史](https://juejin.cn/post/7115275459247636488) | Fri Jul 01 2022 5:44 AM 
+- 🕯 [你需要了解的官方core-ktx库能对开发带来哪些便利1](https://juejin.cn/post/7115048686170112037) | Thu Jun 30 2022 3:03 PM 
     <details><summary>展开描述 ...</summary> 
-    在本文中，我将简要介绍在计算机编程语言中使用分号（许多计算机科学入门学生的祸根）的历史。我们将看到分号有两种用途：作为语句分隔符和作为语句终止符，并且我们将了解在过去60多年的编程语言历史中分号的使用 
+    接下来准备出一个系列的文章，专门研究`Android`官方提供的`core-ktx`库里面的扩展类、方法等等，看看能为项目开发带来哪些便利。 
     </details> 
 
-- 🚀 [一文讲透antd文件上传，如何实现取消上传功能](https://juejin.cn/post/7115256961741881380) | Fri Jul 01 2022 4:31 AM 
+- 🚀 [【JavaSE】Set 深入研究](https://juejin.cn/post/7115039371702566948) | Thu Jun 30 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
-    文件上传有个常见的需求，就是允许用户取消上传文件，特别是在大文件上传时很有必要。 在网上找了很多资料，没有现成的代码给我CV（淦） 翻了半天，只找到了一个提供思路的帖子，对我还是很有帮助的。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第15天，点击查看活动详情 Set接口基本用法 Set 也叫做集合，跟数学中的集合一样，set不允许有重复值 Set接口继承和实现  
     </details> 
 
-- 💪 [掘金技术社区签约计划·众审团招募](https://juejin.cn/post/7115252571203174408) | Fri Jul 01 2022 4:15 AM 
+- 💪 [Bug：Zabbix对Kafka topic积压数据监控](https://juejin.cn/post/7115038805291171877) | Thu Jun 30 2022 2:24 PM 
     <details><summary>展开描述 ...</summary> 
-    签约计划第二期招募活动正在火热报名中，所有技术内容创作者均可报名投稿！ 同时为了更好的把关签约相关文章的整体内容质量，我们诚邀有兴趣且符合要求的掘友们加入签约作者官方内容 
+    《Zabbix对Kafka topic积压数据监控》通过Zabbix自动发现实现对多个消费者组的Topic及Partition的Lag进行监控。因在实际监控中发现有问题，为给感兴趣的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
