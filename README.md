@@ -202,7 +202,22 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [远程服务器 RDP 断开之后，怎么保证 selenium 可以正常运行？](https://www.v2ex.com/t/863537#reply0) | Fri Jul 01 2022 3:06 PM 
+- 🥸 [对 IM 聊天工具 不是特别了解，不过想知道 如 telegram 微信客户端是如何保证与服务器通讯的呢？ 特别是当手机客户端进程都被杀死的情况下。](https://www.v2ex.com/t/863547#reply0) | Fri Jul 01 2022 4:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	
+	 
+    </details> 
+
+- 🤗 [为什么没有一个 IDE 或者语言支持用图形等多媒体方式进行注释，大家探讨一下。](https://www.v2ex.com/t/863541#reply11) | Fri Jul 01 2022 3:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;最近天天坐着写代码，有时候枯燥又烦躁，有些部分写起来比较绕脑，心想如果在旁边能够附上一张手绘的流程图就好了，用文字很多东西都表述不清楚，下次回看代码的时候又要理解半天，如果能够在旁边放一张图片，辅助文字那很多难以理解的逻辑一目了然就清楚了。为啥程序语言发展这么久，就没有出现过一款支持这种想法的产品呢？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [远程服务器 RDP 断开之后，怎么保证 selenium 可以正常运行？](https://www.v2ex.com/t/863537#reply6) | Fri Jul 01 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;在这个从 2017 年讨论到 2022 年的 issue： &lt;a href=&quot;https://github.com/microsoft/WinAppDriver/issues/147&quot; rel=&quot;nofollow&quot;&gt;https://github.com/microsoft/WinAppDriver/issues/147&lt;/a&gt;里面，有说过修改注册表、使用.bat 文件断开远程的方法，但是我试过都没用，不知道有没有大神有其他解决办法？&lt;/p&gt;
@@ -210,7 +225,7 @@
 	 
     </details> 
 
-- 🤗 [RowFish -- 一款美的无与伦比的主题](https://www.v2ex.com/t/863534#reply0) | Fri Jul 01 2022 2:39 PM 
+- 🥷 [RowFish -- 一款美的无与伦比的主题](https://www.v2ex.com/t/863534#reply0) | Fri Jul 01 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;blockquote&gt;
@@ -445,26 +460,11 @@
 	 
     </details> 
 
-- 🎭 [国产操作系统的出路有没有可能是 chromeOS 这种类型](https://www.v2ex.com/t/863531#reply3) | Fri Jul 01 2022 2:19 PM 
+- 🐵 [国产操作系统的出路有没有可能是 chromeOS 这种类型](https://www.v2ex.com/t/863531#reply8) | Fri Jul 01 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;逼迫国内一些常用软件厂商做 web 版，各方面体验都不会太差感觉&lt;/p&gt;
 
-	 
-    </details> 
-
-- 🥷 [spring 的约定优于配置概念好吗？](https://www.v2ex.com/t/863524#reply10) | Fri Jul 01 2022 1:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;尤其是 spring security+spring boot ，虽然几行代码就跑起来了，但想改却很难，因为不知道约定了啥，背后偷偷给我跑起来个啥，只能官方文档加源码配合着研究，没觉得学习成本有降低。&lt;br/&gt;&lt;br/&gt;最终搞了个七七八八，但对于整体的结构与数据流还是没有完全理解，因为 spring boot 的自动配置会检测条件什么的，造成配置的动态化难以捉摸，虽然类都静态写在那里，但会不会实例化还要跑起来才知道。&lt;br/&gt;&lt;br/&gt;而且 spring 里普遍的各个重要类之间的关系比较复杂，个人感觉不是线性也不是树形，而是网状的，比较纠缠。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [2022 年 VSCode 有啥好用的所见所得 md 插件吗](https://www.v2ex.com/t/863523#reply3) | Fri Jul 01 2022 1:16 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	
 	 
     </details> 
 <!-- v2ex:END -->
