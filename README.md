@@ -74,11 +74,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html) | Wed Jun 29 2022 3:18 AM
-- 💪 [科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html) | Fri Jun 24 2022 12:30 AM
-- 🐎 [科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html) | Fri Jun 17 2022 12:37 AM
-- 🤔 [科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html) | Fri Jun 10 2022 12:33 AM
-- 🧠 [字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html) | Thu Jun 02 2022 11:22 PM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html) | Fri Jul 01 2022 12:20 AM
+- 💪 [云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html) | Wed Jun 29 2022 3:18 AM
+- 🐎 [科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html) | Fri Jun 24 2022 12:30 AM
+- 🤔 [科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html) | Fri Jun 17 2022 12:37 AM
+- 🧠 [科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html) | Fri Jun 10 2022 12:33 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
@@ -239,6 +239,41 @@
 &lt;p&gt;想做点什么、想帮点什么，却发现自己什么也做不了。&lt;/p&gt;
 &lt;p&gt;晚上约组员吃了顿饭，这会正躺床上写简历。&lt;/p&gt;
 &lt;p&gt;2022-07-01 00:15 分&lt;/p&gt;
+- 🥸 [有没有什么比较好的 mysql to oracle 的实时同步工具](https://www.v2ex.com/t/863368#reply0) | Fri Jul 01 2022 1:51 AM
+    <details><summary>展开描述 ...</summary>
+
+	&lt;p&gt;生产环境能用的，不用做加工，原封不动传就可以了。
+如果不能实时，能够以定时任务的方式也是可以的&lt;/p&gt;
+
+
+    </details>
+
+- 🤗 [是不是 gc 过程都会导致应用暂停](https://www.v2ex.com/t/863363#reply4) | Fri Jul 01 2022 1:37 AM
+    <details><summary>展开描述 ...</summary>
+
+	&lt;p&gt;有 gc 的语言在 gc 过程中是不是都会暂停，这种暂停在什么情况下会难以接受。&lt;/p&gt;
+&lt;p&gt;如 c c++ rust ，他们在回收内存的过程中会暂停吗？&lt;/p&gt;
+
+
+    </details>
+
+- 🎭 [请教有没有这样一款管控 iPad 的软件？](https://www.v2ex.com/t/863362#reply13) | Fri Jul 01 2022 1:36 AM
+    <details><summary>展开描述 ...</summary>
+
+	&lt;p&gt;请教有没有这样一款管控 iPad 的软件，在 iPad 上安装之后，这台 iPad 就处于受控状态，通过在 iPhone 或者其他手机上安装一个控制端，就可以控制 iPad 实现如下功能：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;设定哪些 app 可以启动，以及可以运行的时长，最好是连 app store 以及相册这种系统自带的 app 都能控制到，未经允许，app store 以及相册也不能打开。因为相册也可以通过隔空投送来相互传输电影、看电影。这种控制是远程且实时的（方便让娃在完成作业后可以允许使用某些程序）。如果不能“真的”实现控制软件的启动，间接通过隐藏软件图标的方式实现也可以接受。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以开启或者关闭 app store 的软件下载安装功能，如果能更进一步实现只能下载安装指定名单内的软件，并且还能实时调整这个名单就更好了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以实时开启或者关闭“隔空投送”功能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;看到这里，相信大家都能明白使用场景了，就是在大人不在家的情况下，娃能合理地使用 iPad ，现在让娃完全脱离 iPad 是不可能的，因为学校都开始在课堂上用 iPad 教学了。让他自动自觉合理使用 iPad 也不太可能（如果能有这么自觉，清华北大那都不算事），只能通过软件方式来实现更精准有效的管控。&lt;/p&gt;
+&lt;p&gt;如果目前没有现成的这种软件，能否大致介绍一下实现这种程度的管控所需要的技术栈？&lt;/p&gt;
 
 
     </details>
@@ -248,6 +283,19 @@
 
 	&lt;p&gt;这个更新其实是个小更新，更大的是两个月前的 0.7 ，不过那时候忙，没时间写。。&lt;/p&gt;
 &lt;p&gt;具体更新内容参考 &lt;a href=&quot;https://jdhao.github.io/2022/06/29/nvim_v07-release/&quot; rel=&quot;nofollow&quot;&gt;https://jdhao.github.io/2022/06/29/nvim_v07-release/&lt;/a&gt;&lt;/p&gt;
+- 🥷 [问一个终端 adb root 问题](https://www.v2ex.com/t/863361#reply2) | Fri Jul 01 2022 1:34 AM
+    <details><summary>展开描述 ...</summary>
+
+	&lt;p&gt;公司有一个需要测试的 android 设备，限制了来自 adb 外部访问，想测试自动安装 app 之类的需要获得 root 权限。
+交互步骤是
+adb shell
+su
+123456
+回车
+exit
+exit
+adb root&lt;/p&gt;
+&lt;p&gt;怎么把上面这个做成一个自动化脚本要求不需要手动键入密码的过程，尝试了一下子连续组合好像不行，不知道做到进入带参执行 su ，不太熟悉相关指令用法，有大佬知道解决方法或思路吗。&lt;/p&gt;
 
 
     </details>
@@ -259,6 +307,10 @@
 在 MySQL 的行存引擎基础上，开发了自研的列存引擎，用一体化的架构，可以给 MySQL 平行升级，提升实时分析能力。
 项目在这里，欢迎来提 issue
 &lt;a href=&quot;https://github.com/StoneAtom/stonedb&quot; rel=&quot;nofollow&quot;&gt;https://github.com/StoneAtom/stonedb&lt;/a&gt;&lt;/p&gt;
+- 🐵 [云计算（运维）的认证，选择哪家好](https://www.v2ex.com/t/863360#reply4) | Fri Jul 01 2022 1:31 AM
+    <details><summary>展开描述 ...</summary>
+
+	&lt;p&gt;爱好，也是下一步想找工作换个行业，有的要求最好有运维认证文件。现在考哪家的认证好？只粗略看到华为、腾讯云&lt;/p&gt;
 
 
     </details>
@@ -291,6 +343,30 @@
     <details><summary>展开描述 ...</summary>
     「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 牛气冲天一度飞跃到虎虎生威，一晃六个月时光转瞬即逝，司龄也跨过一个阶段，从职场小白进入到老油条的队伍。同时在2022年上半年中，不管是国内
     </details>
+- 🤗 [想到多线程并发就心虚？先来巩固下这些线程基础知识吧！](https://juejin.cn/post/7115194288631185416) | Fri Jul 01 2022 12:28 AM
+    <details><summary>展开描述 ...</summary>
+    计算机系统里每个进程（Process）都代表着一个运行着的程序，进程是对运行时程序的封装，系统进行资源调度和分配的基本单位
+    </details>
+
+- 🎡 [2022 年中总结｜迷失中成长的半年](https://juejin.cn/post/7115180209216684069) | Thu Jun 30 2022 11:39 PM
+    <details><summary>展开描述 ...</summary>
+    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 距离上次总结过去半年了，这半年经历了很多的事情，经历了外企、自由职业，经历了上海全套的疫情，经历了比较 emo 的时刻，所幸技术还是在稳步
+    </details>
+
+- 🕯 [【AI资讯月刊】350+资源大盘点！6月不容错过的资料和动态，都都都在这里啦！&lt;附下载&gt;](https://juejin.cn/post/7115160236175917063) | Thu Jun 30 2022 10:31 PM
+    <details><summary>展开描述 ...</summary>
+    本篇为专栏的 6 月合辑，对 6 月份发布的 30 篇日报内容，进行了整合与分类，将350+学习资源 结构化得整理成了这本电子月刊（排版超美）！回复『日报』获取！
+    </details>
+
+- 🚀 [Flask Web 极简教程（四）- Flask WTF Froms（Part A）](https://juejin.cn/post/7115060288335904782) | Thu Jun 30 2022 3:48 PM
+    <details><summary>展开描述 ...</summary>
+    一、表单 表单在页面中主要负责数据采集，一个表单有三个基本组成部分： 表单标签：这里面包含了处理表单数据所用CGI程序的URL以及数据提交到服务器的方法。  表单域：包含了文本框密码框、隐藏域多行文本
+    </details>
+
+- 💪 [从0开始使用pnpm构建一个Monorepo方式管理的demo](https://juejin.cn/post/7115058575801581605) | Thu Jun 30 2022 3:43 PM
+    <details><summary>展开描述 ...</summary>
+    Monorepo这个词你应该不止一次听说了，像Vue3、Vite、ElementPlus等优秀开源项目都是使用Monorepo的方式管理项目，且这里说到的这几个项目都是采用pnpm作为包管理工具。
+    </details>
 <!-- juejin:END -->
 ### 少数派
 
@@ -319,6 +395,30 @@
     <details><summary>展开描述 ...</summary>
     由于氢图的画板特性，你可以像是堆乐高积木那样，探索氢图使用的各种可能性。&lt;a href=&quot;https://sspai.com/post/73246&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
     </details>
+- 👹 [派早报：三星开始生产 3nm 芯片、树莓派推出 Pico W 微控制器等](https://sspai.com/post/74081) | Fri Jul 01 2022 12:32 AM
+    <details><summary>展开描述 ...</summary>
+    Apple 在韩国地区开放第三方支付系统，App Store 新规生效、应用需内置删除账号功能等。&lt;a href=&quot;https://sspai.com/post/74081&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
+
+- 🐘 [试播集 07 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74070) | Thu Jun 30 2022 9:08 AM
+    <details><summary>展开描述 ...</summary>
+    关于栏目不少读者表示希望能够见到更多关于文化与书籍的内容，充实书单、丰富精神。机器人特地邀请了Matrix社区作者们来聊聊自己近期阅读的有意思的书籍。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱 ...&lt;a href=&quot;https://sspai.com/post/74070&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
+
+- 🤭 [一派·在线沙龙 09 | 流媒体为何突然不「香」了](https://sspai.com/post/74075) | Thu Jun 30 2022 9:01 AM
+    <details><summary>展开描述 ...</summary>
+    如果你对流媒体服务感兴趣，欢迎参加 7 月 1 日（本周五）20 点举办的「一派·在线沙龙」直播活动。&lt;a href=&quot;https://sspai.com/post/74075&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
+
+- 🥸 [GitHub Copilot：革命未竟，未来可期](https://sspai.com/prime/story/on-copilot) | Thu Jun 30 2022 8:01 AM
+    <details><summary>展开描述 ...</summary>
+    GitHub Copilot 正式上线，尽管还有不少缺陷和争议，但仍然为开发者带来了新颖的使用与开发体验，让我们能愈发感受到「智能」二字的份量。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/on-copilot&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt;
+    </details>
+
+- 🙉 [流媒体之前我们如何听歌：音乐载体的百年变迁](https://sspai.com/post/74067) | Thu Jun 30 2022 7:00 AM
+    <details><summary>展开描述 ...</summary>
+    让我们坐上时光机，从 1877 年的那一声「Mary had a little lamb」起，回顾音乐方式的变迁。&lt;a href=&quot;https://sspai.com/post/74067&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 <!-- sspai:END -->
 
 ### 知乎每日精选
@@ -333,11 +433,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [优信：1亿美元新融资协议正式签署](http://www.techweb.com.cn/it/2022-06-30/2896435.shtml) | Thu Jun 30 2022 1:30 PM
-- 👹 [15年做糊21款硬件，谷歌到底栽在哪儿？](http://www.techweb.com.cn/viewpoint/2022-06-30/2896427.shtml) | Thu Jun 30 2022 9:55 AM
-- 🪜 [消费电子需求放缓 韩国5月芯片库存创4年最多](http://www.techweb.com.cn/world/2022-06-30/2896423.shtml) | Thu Jun 30 2022 9:47 AM
-- 🤭 [“女性车”赛道是个伪命题](http://www.techweb.com.cn/viewpoint/2022-06-30/2896418.shtml) | Thu Jun 30 2022 9:39 AM
-- 🙉 [奈雪的茶上市一周年推出虚拟股票：一文说透怎么玩，是否违法？](http://www.techweb.com.cn/it/2022-06-30/2896415.shtml) | Thu Jun 30 2022 9:25 AM<!-- techweb-allnews:END -->
+- 👍 [优锘科技宣布完成超3亿元融资 中网投、晨山资本、泰康等参投](http://www.techweb.com.cn/finance/2022-07-01/2896471.shtml) | Fri Jul 01 2022 1:23 AM
+- 👹 [优信：1亿美元新融资协议正式签署](http://www.techweb.com.cn/it/2022-06-30/2896435.shtml) | Thu Jun 30 2022 1:30 PM
+- 🪜 [15年做糊21款硬件，谷歌到底栽在哪儿？](http://www.techweb.com.cn/viewpoint/2022-06-30/2896427.shtml) | Thu Jun 30 2022 9:55 AM
+- 🤭 [消费电子需求放缓 韩国5月芯片库存创4年最多](http://www.techweb.com.cn/world/2022-06-30/2896423.shtml) | Thu Jun 30 2022 9:47 AM
+- 🙉 [“女性车”赛道是个伪命题](http://www.techweb.com.cn/viewpoint/2022-06-30/2896418.shtml) | Thu Jun 30 2022 9:39 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
