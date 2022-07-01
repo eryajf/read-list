@@ -359,29 +359,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从20s优化到500ms，我用了这三招](https://juejin.cn/post/7115356843949424648) | Fri Jul 01 2022 10:59 AM 
+- 🤗 [Java 集合常见知识点&amp;面试题总结&lpar;上&rpar;，2022 最新版！](https://juejin.cn/post/7115380620913557517) | Fri Jul 01 2022 12:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    你好，我是 Guide。秋招即将到来（提前批已经开始），我对 JavaGuide 的内容进行了重构完善，公众号同步一下最新更新，希望能够帮助你。 你也可以在网站&lpar;javaguide.cn&rpar;上在线阅读， 
+    </details> 
+
+- 🎡 [Vue 2.7 正式发布，代号为 Naruto](https://juejin.cn/post/7115361618774622216) | Fri Jul 01 2022 11:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是CUGGZ。 今天，Vue 正式发布了 2.7 版本， 版本名称为 Naturo，即火影忍者。 尽管现在 Vue 3 是默认版本，但由于仍有许多用户由于依赖兼容性、浏览器支持要求或没有足够 
+    </details> 
+
+- 🕯 [从20s优化到500ms，我用了这三招](https://juejin.cn/post/7115356843949424648) | Fri Jul 01 2022 10:59 AM 
     <details><summary>展开描述 ...</summary> 
     前言 接口性能问题，对于从事后端开发的同学来说，是一个绕不开的话题。想要优化一个接口的性能，需要从多个方面着手。 其实，我之前也写过一篇接口性能优化相关的文章《聊聊接口性能优化的11个小技巧》，发表之 
     </details> 
 
-- 🎡 [新一代云原生数据库的设计与实践](https://juejin.cn/post/7115347426461876231) | Fri Jul 01 2022 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    数据库与操作系统、中间件组成了基础软件的三驾马车，也是企业 IT 系统必不可少的核心技术。从上世纪 60 年代诞生至今，不论是互联网行业还是银行、电信、制造等传统行业，都依赖着数据库技术的演进。 
-    </details> 
-
-- 🕯 [技术周报·Vue2.7 Beta 版正式发布](https://juejin.cn/post/7115345606649839624) | Fri Jul 01 2022 10:15 AM 
+- 🚀 [技术周报·Vue2.7 Beta 版正式发布](https://juejin.cn/post/7115345606649839624) | Fri Jul 01 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
     编辑推荐：Vue2.7 Beta 版正式发布；只有 Chromium 的 Web 会是什么样子；说说前端监控平台/监控SDK的架构设计和难点亮点等 
     </details> 
 
-- 🚀 [5个chrome简单实用的日常开发功能详解，赶快解锁让你提升更多效率！](https://juejin.cn/post/7115345192055963656) | Fri Jul 01 2022 10:14 AM 
+- 💪 [5个chrome简单实用的日常开发功能详解，赶快解锁让你提升更多效率！](https://juejin.cn/post/7115345192055963656) | Fri Jul 01 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
     本文结合实际业务开发场景，为初中级前端开发者整理了一些在日常开发中可以大幅`提高效率`但又不容易被发掘的chrome特性。帮助大家提高日常效率，节省出更多的时间 
-    </details> 
-
-- 💪 [你的 Sleep 服务会梦到服务网格外的 bookinfo 吗](https://juejin.cn/post/7115344013992919053) | Fri Jul 01 2022 10:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    ASM 产品是基于社区 Istio 定制实现的，在托管的控制面侧提供了用于支撑精细化的流量管理和安全管理的组件能力。通过托管模式，解耦了 Istio 组件与所管理的 K8s 集群的生命周期管理，使得架 
     </details> 
 <!-- juejin:END -->
 ### 少数派
