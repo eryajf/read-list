@@ -202,14 +202,37 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [neovim 中文群](https://www.v2ex.com/t/863450#reply1) | Fri Jul 01 2022 7:14 AM 
+- 🥸 [《我是大冤肿的 7 月面试》之声网 Agora](https://www.v2ex.com/t/863456#reply6) | Fri Jul 01 2022 7:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;《我是大冤肿的 7 月面试》之声网 Agora&lt;/p&gt;
+&lt;p&gt;总计 4 轮面试
+1 轮（部门领导）（过！）（已同步期望薪资）
+2 轮（交叉面）（过！）
+3 轮（部门大 leader ）（第一次因为领导时间原因未能如期，单方面改约时间）（过！）（同步期望薪资）&lt;/p&gt;
+&lt;p&gt;4 轮（ HRBP ）（过！）（同步期望薪资）&lt;/p&gt;
+&lt;p&gt;薪酬方案对接拟定流程…&lt;/p&gt;
+&lt;p&gt;沟通说三天后 7 月 1 日沟通薪酬方案～&lt;/p&gt;
+&lt;p&gt;微信同步说“同时也在推进对接其他候选人吧啦吧啦…不是很匹配…”&lt;/p&gt;
+&lt;p&gt;hahahahaha 整个大无语😑😑&lt;/p&gt;
+&lt;p&gt;这是谈薪酬方案的流程节奏？？？？&lt;/p&gt;
+&lt;p&gt;我勒个大冤肿！！！！&lt;/p&gt;
+&lt;p&gt;疫情下时间很宝贵！！咋别这么整啊好不好…&lt;/p&gt;
+&lt;p&gt;（好歹你敷衍应付下给我个打折的薪酬方案也好啊？整个大无语😑）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imgtu.com/i/jQ6Bq0&quot; rel=&quot;nofollow&quot;&gt;https://imgtu.com/i/jQ6Bq0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imgtu.com/i/jQcEyn&quot; rel=&quot;nofollow&quot;&gt;https://imgtu.com/i/jQcEyn&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [neovim 中文群](https://www.v2ex.com/t/863450#reply3) | Fri Jul 01 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
     
 	neovim is the future of vim ，所以我建了一个 nvim 中文群，以 nvim 作为主力编辑器以及希望入坑 nvim 的用户，欢迎加入!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;地址： &lt;a target=&quot;_blank&quot; href=&quot;https://t.me/nvim_zh&quot; rel=&quot;nofollow noopener&quot;&gt;https://t.me/nvim_zh&lt;/a&gt;
 	 
     </details> 
 
-- 🤗 [Redis 里 List 是耗内存最小的数据类型吗？](https://www.v2ex.com/t/863441#reply5) | Fri Jul 01 2022 6:49 AM 
+- 🎭 [Redis 里 List 是耗内存最小的数据类型吗？](https://www.v2ex.com/t/863441#reply7) | Fri Jul 01 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;用官网的&lt;a href=&quot;http://www.redis.cn/redis_memory/&quot; rel=&quot;nofollow&quot;&gt;在线工具&lt;/a&gt;看了下同样的 kv 在不同数据类型中的内存使用，虽然差别细微，但是 List 类型耗内存最少
@@ -227,7 +250,7 @@
 	 
     </details> 
 
-- 🎭 [为什么这个 js 函数是个异步的，但能够在不是异步的地方直接调用？](https://www.v2ex.com/t/863430#reply3) | Fri Jul 01 2022 6:15 AM 
+- 🥷 [为什么这个 js 函数是个异步的，但能够在不是异步的地方直接调用？](https://www.v2ex.com/t/863430#reply3) | Fri Jul 01 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;如图
@@ -238,75 +261,10 @@
 	 
     </details> 
 
-- 🥷 [vscode 有没有像 sublime text 一样能够自动缩进以及格式化文件内容的功能或插件啊?](https://www.v2ex.com/t/863429#reply9) | Fri Jul 01 2022 6:14 AM 
+- 🐵 [vscode 有没有像 sublime text 一样能够自动缩进以及格式化文件内容的功能或插件啊?](https://www.v2ex.com/t/863429#reply18) | Fri Jul 01 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;因为公司不让使用 sublime text, 原来一直使用 sublime text 来临时格式化文件非常好用&lpar;都不需要保存文件, 直接 new 一个就能格式化&rpar;, 最近切到 vscode, 没有找到这个功能, 连自动缩进都没有, 请问下大家, 有没有什么设置或者是插件可以实现这个功能的吗?&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [kvm 虚拟机作为开发机，通过 spice 连接卡顿](https://www.v2ex.com/t/863415#reply2) | Fri Jul 01 2022 4:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;之前看见过 v 友评论说，用这种方案很流畅（找不到出处了）。&lt;/p&gt;
-&lt;p&gt;我的配置&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;cpu 是 amd 5700g&lt;/li&gt;
-&lt;li&gt;宿主机是 pve 7.2&lt;/li&gt;
-&lt;li&gt;虚拟机是 arch linux+KDE Plasma&lt;/li&gt;
-&lt;li&gt;spice 的客户端是 win10, 4k 60hz 的显示器，spice 的两端在同一个局域网下&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;然而卡到无法接受，我之前用 rdp 连过同一局域网下的 win10 ，感觉很流畅，这是什么原因呢？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;虚拟化的 gpu 性能不够？&lt;/li&gt;
-&lt;li&gt;spice 协议的性能不够？&lt;/li&gt;
-&lt;li&gt;kde 太重了？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;附上虚拟机的配置文件&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-txt&quot;&gt;$ ls /etc/pve/nodes/pve/qemu-server/100.conf 
-/etc/pve/nodes/pve/qemu-server/100.conf
-root@pve:~# cat /etc/pve/nodes/pve/qemu-server/100.conf 
-bios: ovmf
-boot: order=scsi0;net0
-cores: 12
-efidisk0: local-lvm:vm-100-disk-0,efitype=4m,size=4M
-memory: 20480
-meta: creation-qemu=6.2.0,ctime=1656175435
-name: work-arch
-net0: virtio=4A:01:FC:E3:83:08,bridge=vmbr0,firewall=1
-numa: 0
-ostype: l26
-parent: init
-scsi0: local-lvm:vm-100-disk-1,size=320G
-scsihw: virtio-scsi-pci
-smbios1: uuid=e0b79fe7-9192-4b62-8ab4-c933bbe19dfa
-sockets: 1
-vga: qxl,memory=48
-vmgenid: affc6913-ad14-4001-bdb0-7575a5fb4bb7
-
-[init]
-bios: ovmf
-boot: order=scsi0;net0
-cores: 12
-efidisk0: local-lvm:vm-100-disk-0,efitype=4m,size=4M
-memory: 20480
-meta: creation-qemu=6.2.0,ctime=1656175435
-name: work-arch
-net0: virtio=4A:01:FC:E3:83:08,bridge=vmbr0,firewall=1
-numa: 0
-ostype: l26
-runningcpu: kvm64,enforce,+kvm_pv_eoi,+kvm_pv_unhalt,+lahf_lm,+sep
-runningmachine: pc-i440fx-6.2+pve0
-scsi0: local-lvm:vm-100-disk-1,size=320G
-scsihw: virtio-scsi-pci
-smbios1: uuid=e0b79fe7-9192-4b62-8ab4-c933bbe19dfa
-snaptime: 1656605489
-sockets: 1
-vga: qxl,memory=48
-vmgenid: affc6913-ad14-4001-bdb0-7575a5fb4bb7
-vmstate: local-lvm:vm-100-state-init
-&lt;/code&gt;&lt;/pre&gt;
 
 	 
     </details> 
