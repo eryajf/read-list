@@ -381,11 +381,11 @@ vmstate: local-lvm:vm-100-state-init
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [特斯拉申请扩建得克萨斯超级工厂 再建占地50万平方英尺厂房](http://www.techweb.com.cn/world/2022-07-01/2896557.shtml) | Fri Jul 01 2022 6:37 AM
-- 👹 [腾讯收购的短视频平台VUE VLOG宣布将停止运营](http://www.techweb.com.cn/internet/2022-07-01/2896556.shtml) | Fri Jul 01 2022 6:36 AM
-- 🪜 [新茶饮“内卷”升级 喝奈雪领虚拟股票、玩元宇宙 是噱头还是“割韭菜”？](http://www.techweb.com.cn/viewpoint/2022-07-01/2896544.shtml) | Fri Jul 01 2022 6:01 AM
-- 🤭 [土巴兔更新招股书：2021年营业收入6.5亿元 同比增长6.4%](http://www.techweb.com.cn/finance/2022-07-01/2896543.shtml) | Fri Jul 01 2022 5:54 AM
-- 🙉 [FCC批准SpaceX在船舶、飞机等移动工具上使用星链卫星互联网](http://www.techweb.com.cn/world/2022-07-01/2896540.shtml) | Fri Jul 01 2022 4:51 AM<!-- techweb-allnews:END -->
+- 👍 [马斯克隧道公司Boring Company拉斯维加斯环线首个客运站曝光](http://www.techweb.com.cn/world/2022-07-01/2896565.shtml) | Fri Jul 01 2022 7:40 AM
+- 👹 [美银分析师：未来三年内特斯拉美国市场份额暴跌](http://www.techweb.com.cn/world/2022-07-01/2896560.shtml) | Fri Jul 01 2022 6:56 AM
+- 🪜 [应届实习生挤不进大厂](http://www.techweb.com.cn/viewpoint/2022-07-01/2896559.shtml) | Fri Jul 01 2022 6:56 AM
+- 🤭 [特斯拉申请扩建得克萨斯超级工厂 再建占地50万平方英尺厂房](http://www.techweb.com.cn/world/2022-07-01/2896557.shtml) | Fri Jul 01 2022 6:37 AM
+- 🙉 [腾讯收购的短视频平台VUE VLOG宣布将停止运营](http://www.techweb.com.cn/internet/2022-07-01/2896556.shtml) | Fri Jul 01 2022 6:36 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
