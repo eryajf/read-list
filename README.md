@@ -134,30 +134,30 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 💂 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。如何在30多个国家建立150万美元的年收入产品
-    </details>
+- 🕯 [CVPR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html) | Thu Jun 23 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    计算机视觉国际顶会CVPR 2022近日在美国新奥尔良召开，今年美团技术团队有多篇论文被CVPR 2022收录，这些论文涵盖了模型压缩、视频目标分割、3D视觉定位、图像描述、模型安全、跨模态视频内容检索等研究领域。本文将对6篇精选的论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。 
+    </details> 
 
-- 💡 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | Thu Jun 16 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元
-    </details>
+- 🤠 [YOLOv6：又快又准的目标检测框架开源啦](https://tech.meituan.com/2022/06/23/yolov6-a-fast-and-accurate-target-detection-framework-is-opening-source.html) | Thu Jun 23 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    近日，美团视觉智能部研发了一款致力于工业应用的目标检测框架 YOLOv6，能够同时专注于检测的精度和推理效率。在研发过程中，视觉智能部不断进行了探索和优化，同时吸取借鉴了学术界和工业界的一些前沿进展和科研成果。在目标检测权威数据集 COCO 上的实验结果显示，YOLOv6 在检测精度和速度方面均超越其他同体量的算法，同时支持多种不同平台的部署，极大简化工程部署时的适配工作。特此开源，希望能帮助到更多的同学。 
+    </details> 
 
-- 🌋 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | Thu Jun 09 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。预售CSS课程，卖出55万美元
-    </details>
+- 🤠 [端智能在大众点评搜索重排序的应用实践](https://tech.meituan.com/2022/06/16/edge-search-rerank.html) | Thu Jun 16 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    端智能，是指在移动端设备运行人工智能（AI）应用的技术。本文主要讲述大众点评搜索场景下，在端侧部署大规模深度学习模型进行搜索重排序任务的实践方案，包括端上特征工程、模型迭代思路，以及具体部署优化的过程，希望能对从事相关领域开发的同学有所帮助或者启发。 
+    </details> 
 
-- 🕴 [独立开发变现周刊（第57期） : 开发一个免费照片编辑器，一个人每月收入10万美元](https://www.ezindie.com/weekly/issue-57) | Thu Jun 02 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。开发一个免费照片编辑器，一个人每月收入10万美元
-    </details>
+- 🚀 [美团综合业务推荐系统的质量模型及实践](https://tech.meituan.com/2022/06/16/recommendation-system-quality-model.html) | Thu Jun 16 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    推荐系统是效果导向的数据应用服务，在功能的“有”和“无”之间，有很长的效果“好”和“坏”的光谱。本文以用户请求的粒度建立质量模型，通过数据血缘关联了数据表、算法模型、系统服务和用户请求，并结合美团综合业务的实践进行了拓展泛化，希望能对大家有所帮助或启发。 
+    </details> 
 
-- 🎊 [独立开发变现周刊（第56期） : 一个基于Notion的项目管理小产品](https://www.ezindie.com/weekly/issue-56) | Thu May 26 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个基于Notion的项目管理小产品
-    </details>
+- ⚗️ [数据库全量SQL分析与审计系统性能优化之旅](https://tech.meituan.com/2022/06/09/the-route-of-database-get-audit-sql-optimize.html) | Thu Jun 09 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    全量SQL（所有访问数据库的SQL）可以有效地帮助安全进行数据库审计，帮助业务快速排查性能问题。一般可通过开启genlog日志或者启动MySQL审计插件方式来进行获取，而美团选用了一种非侵入式的旁路抓包方案，使用Go语言实现。无论采用哪种方案，都需要重点关注它对数据库的性能损耗。本文介绍了美团基础研发平台抓包方案在数据库审计实践中遇到的性能问题以及优化实践，希望能对大家有所帮助或启发。 
+    </details> 
 <!-- meituan:END -->
 
 ### 运维咖啡吧
