@@ -202,58 +202,53 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [nodejs mongodb](https://www.v2ex.com/t/863484#reply0) | Fri Jul 01 2022 9:03 AM 
+- 🥸 [scipy 非线性优化中 bounds 参数定义问题](https://www.v2ex.com/t/863505#reply0) | Fri Jul 01 2022 10:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;scipy 非线性优化中 bounds 参数定义问题&lt;/p&gt;
+&lt;p&gt;例：optimize.linprog&lpar;c, A_ub=Aub, b_ub=bup, bounds=bounds&rpar;&lt;/p&gt;
+&lt;p&gt;bounds 参数 只能设置（ min,max ）吗？能否给定有限集合[0,10,20,30 ...]?&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [请教一下大佬.我们这个情况应该如何设计](https://www.v2ex.com/t/863492#reply9) | Fri Jul 01 2022 9:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;我们做的项目,会有 N 个客户.
+然后最基本的功能都是一样的,然后再根据客户的需求去改
+目前的做法是从最基本的那一份源码 X
+从 X copy 一份成立 A 项目
+从 X copy 一份成立 B 项目
+...
+这个有一个问题就是,出现一个通用 bug 每个项目都要去改
+所以老板希望可以改 1 处大家就能修复
+不知道这种情况 应该如何设计调整呢?&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [vimEasymotion 移动跳转，触发语法检查了怎么办呐？](https://www.v2ex.com/t/863489#reply0) | Fri Jul 01 2022 9:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;如图，当我在 vscode 中按下 easymotion 任意快捷键时（如 leader w ），他的渲染好像是直接改了我的代码啊，然后直接出发编译器语法检查，然后报错。。
+目前在 vscode 中用的是 neovim 插件，之前用 vim 插件时就没这个问题，这应该怎么解决？各位有遇到吗？
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/imgs/2022/07/01/3057019f778d62a2.png&quot;/&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [nodejs mongodb](https://www.v2ex.com/t/863484#reply0) | Fri Jul 01 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
     
 	nodejs 连接 mongoDB 查询数据总返回[]&lt;br /&gt;&lt;br /&gt;nodejs&lt;br /&gt;------&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://app.post&quot; rel=&quot;nofollow noopener&quot;&gt;app.post&lt;/a&gt;&lpar;&#39;/GetMail&#39;, function &lpar;req, res&rpar; {&lt;br /&gt;  Models.MAIL.find&lpar;&lpar;err, items&rpar; =&amp;gt; {&lt;br /&gt;		console.log&lpar;items&rpar;&lt;br /&gt;	}&rpar;&lt;br /&gt;}&rpar;&lt;br /&gt;&lt;br /&gt;db.js&lt;br /&gt;-----&lt;br /&gt;const mongoose = require&lpar;&#39;mongoose&#39;&rpar;&lt;br /&gt;mongoose.connect&lpar;&#39;mongodb://localhost:27017/abc&#39;, { useNewUrlParser: true }, &lpar;err, db&rpar; =&amp;gt; {&lt;br /&gt;  console.log&lpar;db&rpar;;&lt;br /&gt;  if &lpar;err&rpar; {&lt;br /&gt;    console.log&lpar;&#39;********** [数据库连接失败] **********&#39;&rpar;&lt;br /&gt;  } else {&lt;br /&gt;    console.log&lpar;&#39;********** [数据库连接成功] **********&#39;&rpar;&lt;br /&gt;  }&lt;br /&gt;}&rpar;&lt;br /&gt;const mail = new mongoose.Schema&lpar;{&lt;br /&gt;  code: Number, &lt;br /&gt;},&lt;br /&gt;{&lt;br /&gt;  collection: &#39;mail&#39;&lt;br /&gt;}&rpar;&lt;br /&gt;const Models = {&lt;br /&gt;  MAIL: mongoose.model&lpar;&#39;mail&#39;, mail&rpar;,&lt;br /&gt;}&lt;br /&gt;module.exports = Models&lt;br /&gt;&lt;br /&gt;mongoDB&lt;br /&gt;-----&lt;br /&gt;数据库名字为 abc&lt;br /&gt;下面有 mail =&amp;gt; 20220602&lt;br /&gt;想指定查询&#39;20220602&#39;表数据 总返回空呢
 	 
     </details> 
 
-- 🤗 [npm 实在是太慢了 ，各位都是怎么解决的？](https://www.v2ex.com/t/863478#reply4) | Fri Jul 01 2022 8:55 AM 
+- 🐵 [npm 实在是太慢了 ，各位都是怎么解决的？](https://www.v2ex.com/t/863478#reply15) | Fri Jul 01 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;我挂了影梭  好像没啥用&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [谷歌浏览器控制台出现了奇怪的东西，有大佬知道怎么解决吗](https://www.v2ex.com/t/863476#reply1) | Fri Jul 01 2022 8:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;&lt;img alt=&quot;image-20220701165051414&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image-hosting-1308913859.cos.ap-shanghai.myqcloud.com/image/image-20220701165051414.png&quot;/&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [django 里面的原生的 sql 查询，会一直占用数据库连接吗](https://www.v2ex.com/t/863475#reply0) | Fri Jul 01 2022 8:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;最近数据库连接一直报警。排查了一下是有一个 django 项目占用大量的数据库连接。按照用户量不太可能，有一个问题是这个 django 项目都是用原生 SQL 查询没有用 ORM 。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;from django.db import connection
-
-with connection.cursor&lpar;&rpar; as cursor:
-
-    cursor.execute&lpar;sql, params=params_dict&rpar;
-    result = dictfetchall&lpar;cursor&rpar;
-
-return result
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这种写法有问题吗?&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [请教大家几个 Go 写业务的工程实践的上的问题](https://www.v2ex.com/t/863470#reply5) | Fri Jul 01 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;自己是 Java 后台开发，尝试用 Go 写了个小项目，有几个工程实践上的问题想咨询下各位都是怎么处理的？&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;如何统一各组件的 log 输出？例如我用 echo 、xorm 、grpc 去构建业务，这三个库的日志格式各自不同，Go 生态中有没有类似 slf4j 的东西能让三者用同一种日志规范输出？&lt;/li&gt;
-&lt;li&gt;如何在 log 中附上当前每一个 http 请求的 requestId 呢？不能是靠 Context 层层往下传吧？ Java 中是依赖于日志框架 MDC 实现的，相关 requestId 会绑定在线程上，线程模型可能会有性能问题，但对于开发者写代码来说还是挺友好的。&lt;/li&gt;
-&lt;li&gt;如何妥善的处理异常？业务代码中的常见操作就是读数据、执行业务逻辑、保存新数据，这个过程中任何一步有异常我都可以认为是业务处理异常，Java 中只需要把这三步全部 try catch 起来就行了（只是个例子，实际处理粒度不会这么大），但 Go 中只能每一步都冒泡，然后写很多次 &lt;code&gt;if err != nil&lt;/code&gt; 么？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;抛开工程上的这些问题，Go 还是蛮好的，找回了刚上学时候写 C 的快感，真就是单纯地在一行一行写代码，感觉每一行都能映射到汇编上，掌控性很强。感觉更适合强规范的基础设施开发和工具开发。&lt;/p&gt;
-&lt;p&gt;接下来想去看看 Rust ，不知道会不会遇到类似的问题。毕竟语言再好，最终还是要用来干活儿的。对于业务开发，CRUD boy 来说，写代码和查问题这种场景搞不定，语言再好也是麻烦。&lt;/p&gt;
 
 	 
     </details> 
