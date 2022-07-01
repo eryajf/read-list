@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [spring 的约定优于配置概念好吗？](https://www.v2ex.com/t/863524#reply1) | Fri Jul 01 2022 1:29 PM 
+- 🥸 [spring 的约定优于配置概念好吗？](https://www.v2ex.com/t/863524#reply5) | Fri Jul 01 2022 1:29 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;尤其是 spring security+spring boot ，虽然几行代码就跑起来了，但想改却很难，因为不知道约定了啥，背后偷偷给我跑起来个啥，只能官方文档加源码配合着研究，没觉得学习成本有降低。&lt;br/&gt;&lt;br/&gt;最终搞了个七七八八，但对于整体的结构与数据流还是没有完全理解，因为 spring boot 的自动配置会检测条件什么的，造成配置的动态化难以捉摸，虽然类都静态写在那里，但会不会实例化还要跑起来才知道。&lt;br/&gt;&lt;br/&gt;而且 spring 里普遍的各个重要类之间的关系比较复杂，个人感觉不是线性也不是树形，而是网状的，比较纠缠。&lt;/p&gt;
@@ -210,7 +210,7 @@
 	 
     </details> 
 
-- 🤗 [2022 年 VSCode 有啥好用的所见所得 md 插件吗](https://www.v2ex.com/t/863523#reply1) | Fri Jul 01 2022 1:16 PM 
+- 🤗 [2022 年 VSCode 有啥好用的所见所得 md 插件吗](https://www.v2ex.com/t/863523#reply3) | Fri Jul 01 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
     
 	
@@ -224,7 +224,7 @@
 	 
     </details> 
 
-- 🥷 [如何出版一本技术图书 -- 写在《C++20 高级编程》出版之时](https://www.v2ex.com/t/863511#reply8) | Fri Jul 01 2022 11:18 AM 
+- 🥷 [如何出版一本技术图书 -- 写在《C++20 高级编程》出版之时](https://www.v2ex.com/t/863511#reply10) | Fri Jul 01 2022 11:18 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;原文地址：&lt;a href=&quot;https://netcan.github.io/2022/06/22/%E5%A6%82%E4%BD%95%E5%87%BA%E7%89%88%E4%B8%80%E6%9C%AC%E6%8A%80%E6%9C%AF%E5%9B%BE%E4%B9%A6-%E5%86%99%E5%9C%A8%E3%80%8AC-20%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B%E5%87%BA%E7%89%88%E4%B9%8B%E6%97%B6/&quot; rel=&quot;nofollow&quot;&gt;如何出版一本技术图书 -- 写在《 C++20 高级编程》出版之时&lt;/a&gt;&lt;/p&gt;
@@ -335,7 +335,7 @@
 	 
     </details> 
 
-- 🐵 [最近发现好像大多数程序员都不太会用 Figma 和 PowerDesigner 不知道是不是这种情况](https://www.v2ex.com/t/863510#reply19) | Fri Jul 01 2022 11:07 AM 
+- 🐵 [最近发现好像大多数程序员都不太会用 Figma 和 PowerDesigner 不知道是不是这种情况](https://www.v2ex.com/t/863510#reply24) | Fri Jul 01 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;最近我发现我开源的 Lime 项目都没有人和我交流 Figma 和 PowerDesigner 相关的东西感觉有点尴尬，哈哈哈。&lt;/p&gt;
