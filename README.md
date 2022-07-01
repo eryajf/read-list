@@ -163,30 +163,30 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 💂 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。如何在30多个国家建立150万美元的年收入产品
-    </details>
+- 👺 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    夏天户外露营过夜体验 
+    </details> 
 
-- 💡 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | Thu Jun 16 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元
-    </details>
+- 💯 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    PEP 8 -- Python 代码风格指南 
+    </details> 
 
-- 🌋 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | Thu Jun 09 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。预售CSS课程，卖出55万美元
-    </details>
+- 🚦 [半年，再聊房车使用体验](https://blog.ops-coffee.cn/r/half-a-year-RV-experience) | Fri Jun 17 2022 2:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    大通B型房车使用半年之后谈下使用体验 
+    </details> 
 
-- 🕴 [独立开发变现周刊（第57期） : 开发一个免费照片编辑器，一个人每月收入10万美元](https://www.ezindie.com/weekly/issue-57) | Thu Jun 02 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。开发一个免费照片编辑器，一个人每月收入10万美元
-    </details>
+- 👨‍🏫 [多云系统之资源管理](https://blog.ops-coffee.cn/s/cKkFlBZnpLd_IRaC6i8i6A) | Fri Jun 10 2022 5:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    介绍多云系统中同步下来的云上资源如何管理，资源与关系如何建立联接 
+    </details> 
 
-- 🎊 [独立开发变现周刊（第56期） : 一个基于Notion的项目管理小产品](https://www.ezindie.com/weekly/issue-56) | Thu May 26 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个基于Notion的项目管理小产品
-    </details>
+- 🌮 [多云系统之多云配置](https://blog.ops-coffee.cn/s/PL31oUCLMEi3H1_1IMMDRA) | Thu May 26 2022 11:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过多云系统可以隐藏多云异构的资源模型和API差异，让用户就像访问一朵云一样访问多云 
+    </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
 
