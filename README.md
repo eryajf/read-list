@@ -202,69 +202,58 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [《我是大冤肿的 7 月面试》之声网 Agora](https://www.v2ex.com/t/863456#reply6) | Fri Jul 01 2022 7:36 AM 
+- 🥸 [nodejs mongodb](https://www.v2ex.com/t/863484#reply0) | Fri Jul 01 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;《我是大冤肿的 7 月面试》之声网 Agora&lt;/p&gt;
-&lt;p&gt;总计 4 轮面试
-1 轮（部门领导）（过！）（已同步期望薪资）
-2 轮（交叉面）（过！）
-3 轮（部门大 leader ）（第一次因为领导时间原因未能如期，单方面改约时间）（过！）（同步期望薪资）&lt;/p&gt;
-&lt;p&gt;4 轮（ HRBP ）（过！）（同步期望薪资）&lt;/p&gt;
-&lt;p&gt;薪酬方案对接拟定流程…&lt;/p&gt;
-&lt;p&gt;沟通说三天后 7 月 1 日沟通薪酬方案～&lt;/p&gt;
-&lt;p&gt;微信同步说“同时也在推进对接其他候选人吧啦吧啦…不是很匹配…”&lt;/p&gt;
-&lt;p&gt;hahahahaha 整个大无语😑😑&lt;/p&gt;
-&lt;p&gt;这是谈薪酬方案的流程节奏？？？？&lt;/p&gt;
-&lt;p&gt;我勒个大冤肿！！！！&lt;/p&gt;
-&lt;p&gt;疫情下时间很宝贵！！咋别这么整啊好不好…&lt;/p&gt;
-&lt;p&gt;（好歹你敷衍应付下给我个打折的薪酬方案也好啊？整个大无语😑）&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://imgtu.com/i/jQ6Bq0&quot; rel=&quot;nofollow&quot;&gt;https://imgtu.com/i/jQ6Bq0&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://imgtu.com/i/jQcEyn&quot; rel=&quot;nofollow&quot;&gt;https://imgtu.com/i/jQcEyn&lt;/a&gt;&lt;/p&gt;
+	nodejs 连接 mongoDB 查询数据总返回[]&lt;br /&gt;&lt;br /&gt;nodejs&lt;br /&gt;------&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://app.post&quot; rel=&quot;nofollow noopener&quot;&gt;app.post&lt;/a&gt;&lpar;&#39;/GetMail&#39;, function &lpar;req, res&rpar; {&lt;br /&gt;  Models.MAIL.find&lpar;&lpar;err, items&rpar; =&amp;gt; {&lt;br /&gt;		console.log&lpar;items&rpar;&lt;br /&gt;	}&rpar;&lt;br /&gt;}&rpar;&lt;br /&gt;&lt;br /&gt;db.js&lt;br /&gt;-----&lt;br /&gt;const mongoose = require&lpar;&#39;mongoose&#39;&rpar;&lt;br /&gt;mongoose.connect&lpar;&#39;mongodb://localhost:27017/abc&#39;, { useNewUrlParser: true }, &lpar;err, db&rpar; =&amp;gt; {&lt;br /&gt;  console.log&lpar;db&rpar;;&lt;br /&gt;  if &lpar;err&rpar; {&lt;br /&gt;    console.log&lpar;&#39;********** [数据库连接失败] **********&#39;&rpar;&lt;br /&gt;  } else {&lt;br /&gt;    console.log&lpar;&#39;********** [数据库连接成功] **********&#39;&rpar;&lt;br /&gt;  }&lt;br /&gt;}&rpar;&lt;br /&gt;const mail = new mongoose.Schema&lpar;{&lt;br /&gt;  code: Number, &lt;br /&gt;},&lt;br /&gt;{&lt;br /&gt;  collection: &#39;mail&#39;&lt;br /&gt;}&rpar;&lt;br /&gt;const Models = {&lt;br /&gt;  MAIL: mongoose.model&lpar;&#39;mail&#39;, mail&rpar;,&lt;br /&gt;}&lt;br /&gt;module.exports = Models&lt;br /&gt;&lt;br /&gt;mongoDB&lt;br /&gt;-----&lt;br /&gt;数据库名字为 abc&lt;br /&gt;下面有 mail =&amp;gt; 20220602&lt;br /&gt;想指定查询&#39;20220602&#39;表数据 总返回空呢
+	 
+    </details> 
+
+- 🤗 [npm 实在是太慢了 ，各位都是怎么解决的？](https://www.v2ex.com/t/863478#reply4) | Fri Jul 01 2022 8:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;我挂了影梭  好像没啥用&lt;/p&gt;
 
 	 
     </details> 
 
-- 🤗 [neovim 中文群](https://www.v2ex.com/t/863450#reply3) | Fri Jul 01 2022 7:14 AM 
+- 🎭 [谷歌浏览器控制台出现了奇怪的东西，有大佬知道怎么解决吗](https://www.v2ex.com/t/863476#reply1) | Fri Jul 01 2022 8:52 AM 
     <details><summary>展开描述 ...</summary> 
     
-	neovim is the future of vim ，所以我建了一个 nvim 中文群，以 nvim 作为主力编辑器以及希望入坑 nvim 的用户，欢迎加入!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;地址： &lt;a target=&quot;_blank&quot; href=&quot;https://t.me/nvim_zh&quot; rel=&quot;nofollow noopener&quot;&gt;https://t.me/nvim_zh&lt;/a&gt;
-	 
-    </details> 
-
-- 🎭 [Redis 里 List 是耗内存最小的数据类型吗？](https://www.v2ex.com/t/863441#reply7) | Fri Jul 01 2022 6:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;用官网的&lt;a href=&quot;http://www.redis.cn/redis_memory/&quot; rel=&quot;nofollow&quot;&gt;在线工具&lt;/a&gt;看了下同样的 kv 在不同数据类型中的内存使用，虽然差别细微，但是 List 类型耗内存最少
-&lt;img alt=&quot;pic&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/imgs/2022/07/01/b634cf4ba7a74114.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;然后看了下脚本数据类型及其底层数据结构的关系：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;String: &amp;lt;=39byte 用 embstr 编码，&amp;gt;39byte 用 raw 编码并用动态字符串 SDS&lt;/li&gt;
-&lt;li&gt;Hash:元素长度&amp;lt;64byte&amp;amp;&amp;amp;元素数量&amp;lt;512 个，用 ziplist 编码，否则用 hashtable&lt;/li&gt;
-&lt;li&gt;List:元素长度&amp;lt;64byte&amp;amp;&amp;amp;元素数量&amp;lt;512 个，用 ziplist 编码，否则用 linkedlist 编码&lt;/li&gt;
-&lt;li&gt;Set:元素数量&amp;lt;512 个，用 intset 编码，否则用 hashtable&lt;/li&gt;
-&lt;li&gt;ZSet:元素长度&amp;lt;64byte&amp;amp;&amp;amp;元素数量&amp;lt;128 个，用 ziplist 编码，否则用 skiplist 编码&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;是双向链表省空间吗？小白不懂&lt;/p&gt;
+	&lt;p&gt;&lt;img alt=&quot;image-20220701165051414&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image-hosting-1308913859.cos.ap-shanghai.myqcloud.com/image/image-20220701165051414.png&quot;/&gt;&lt;/p&gt;
 
 	 
     </details> 
 
-- 🥷 [为什么这个 js 函数是个异步的，但能够在不是异步的地方直接调用？](https://www.v2ex.com/t/863430#reply3) | Fri Jul 01 2022 6:15 AM 
+- 🥷 [django 里面的原生的 sql 查询，会一直占用数据库连接吗](https://www.v2ex.com/t/863475#reply0) | Fri Jul 01 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;如图
-&lt;a href=&quot;https://i.imgur.com/q7orBLM.png&quot; rel=&quot;nofollow&quot;&gt;https://i.imgur.com/q7orBLM.png&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;为什么这个 initApp 是个异步的，为什么能够在不是异步的地方直接调用？&lt;/p&gt;
-&lt;p&gt;为什么不写作 initApp&lpar;&rpar;.then&lpar;...&rpar;的样子？&lt;/p&gt;
+	&lt;p&gt;最近数据库连接一直报警。排查了一下是有一个 django 项目占用大量的数据库连接。按照用户量不太可能，有一个问题是这个 django 项目都是用原生 SQL 查询没有用 ORM 。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;from django.db import connection
+
+with connection.cursor&lpar;&rpar; as cursor:
+
+    cursor.execute&lpar;sql, params=params_dict&rpar;
+    result = dictfetchall&lpar;cursor&rpar;
+
+return result
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这种写法有问题吗?&lt;/p&gt;
 
 	 
     </details> 
 
-- 🐵 [vscode 有没有像 sublime text 一样能够自动缩进以及格式化文件内容的功能或插件啊?](https://www.v2ex.com/t/863429#reply18) | Fri Jul 01 2022 6:14 AM 
+- 🐵 [请教大家几个 Go 写业务的工程实践的上的问题](https://www.v2ex.com/t/863470#reply5) | Fri Jul 01 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;因为公司不让使用 sublime text, 原来一直使用 sublime text 来临时格式化文件非常好用&lpar;都不需要保存文件, 直接 new 一个就能格式化&rpar;, 最近切到 vscode, 没有找到这个功能, 连自动缩进都没有, 请问下大家, 有没有什么设置或者是插件可以实现这个功能的吗?&lt;/p&gt;
+	&lt;p&gt;自己是 Java 后台开发，尝试用 Go 写了个小项目，有几个工程实践上的问题想咨询下各位都是怎么处理的？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如何统一各组件的 log 输出？例如我用 echo 、xorm 、grpc 去构建业务，这三个库的日志格式各自不同，Go 生态中有没有类似 slf4j 的东西能让三者用同一种日志规范输出？&lt;/li&gt;
+&lt;li&gt;如何在 log 中附上当前每一个 http 请求的 requestId 呢？不能是靠 Context 层层往下传吧？ Java 中是依赖于日志框架 MDC 实现的，相关 requestId 会绑定在线程上，线程模型可能会有性能问题，但对于开发者写代码来说还是挺友好的。&lt;/li&gt;
+&lt;li&gt;如何妥善的处理异常？业务代码中的常见操作就是读数据、执行业务逻辑、保存新数据，这个过程中任何一步有异常我都可以认为是业务处理异常，Java 中只需要把这三步全部 try catch 起来就行了（只是个例子，实际处理粒度不会这么大），但 Go 中只能每一步都冒泡，然后写很多次 &lt;code&gt;if err != nil&lt;/code&gt; 么？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;抛开工程上的这些问题，Go 还是蛮好的，找回了刚上学时候写 C 的快感，真就是单纯地在一行一行写代码，感觉每一行都能映射到汇编上，掌控性很强。感觉更适合强规范的基础设施开发和工具开发。&lt;/p&gt;
+&lt;p&gt;接下来想去看看 Rust ，不知道会不会遇到类似的问题。毕竟语言再好，最终还是要用来干活儿的。对于业务开发，CRUD boy 来说，写代码和查问题这种场景搞不定，语言再好也是麻烦。&lt;/p&gt;
 
 	 
     </details> 
