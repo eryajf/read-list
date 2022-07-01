@@ -202,7 +202,32 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [scipy 非线性优化中 bounds 参数定义问题](https://www.v2ex.com/t/863505#reply0) | Fri Jul 01 2022 10:13 AM 
+- 🥸 [最近发现好像大多数程序员都不太会用 Figma 和 PowerDesigner 不知道是不是这种情况](https://www.v2ex.com/t/863510#reply0) | Fri Jul 01 2022 11:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;最近我发现我开源的 Lime 项目都没有人和我交流 Figma 和 PowerDesigner 相关的东西感觉有点尴尬，哈哈哈。&lt;/p&gt;
+&lt;p&gt;是不是 V 站基本都是程序员的原因，圈子不同所以技能点也不一样。&lt;/p&gt;
+&lt;p&gt;想了几个原因不知道是不是：
+1.公司里没有用 Figma 和 PowerDesigner ，甚至都没有原型和物理模型。
+2.公司里用的是其他的工具，比如：Axure RP ，墨刀，PDMan 等
+3.我做的项目一般，看了感觉学不到什么东西，没兴趣。
+4.没有时间，996 已经很累了，卷不动了。
+5.学这些没啥用，公司里面还是以写代码为主，其他的不重要。
+6.没有好的学习路径，不知道怎么学。
+7.其他原因&lt;/p&gt;
+&lt;p&gt;不知道你是哪种呢 ？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [unraid 7 折了](https://www.v2ex.com/t/863509#reply0) | Fri Jul 01 2022 11:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	
+	 
+    </details> 
+
+- 🎭 [scipy 非线性优化中 bounds 参数定义问题](https://www.v2ex.com/t/863505#reply0) | Fri Jul 01 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;scipy 非线性优化中 bounds 参数定义问题&lt;/p&gt;
@@ -212,7 +237,7 @@
 	 
     </details> 
 
-- 🤗 [请教一下大佬.我们这个情况应该如何设计](https://www.v2ex.com/t/863492#reply9) | Fri Jul 01 2022 9:27 AM 
+- 🥷 [请教一下大佬.我们这个情况应该如何设计](https://www.v2ex.com/t/863492#reply14) | Fri Jul 01 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;我们做的项目,会有 N 个客户.
@@ -228,27 +253,12 @@
 	 
     </details> 
 
-- 🎭 [vimEasymotion 移动跳转，触发语法检查了怎么办呐？](https://www.v2ex.com/t/863489#reply0) | Fri Jul 01 2022 9:24 AM 
+- 🐵 [vimEasymotion 移动跳转，触发语法检查了怎么办呐？](https://www.v2ex.com/t/863489#reply0) | Fri Jul 01 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;如图，当我在 vscode 中按下 easymotion 任意快捷键时（如 leader w ），他的渲染好像是直接改了我的代码啊，然后直接出发编译器语法检查，然后报错。。
 目前在 vscode 中用的是 neovim 插件，之前用 vim 插件时就没这个问题，这应该怎么解决？各位有遇到吗？
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/imgs/2022/07/01/3057019f778d62a2.png&quot;/&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [nodejs mongodb](https://www.v2ex.com/t/863484#reply0) | Fri Jul 01 2022 9:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	nodejs 连接 mongoDB 查询数据总返回[]&lt;br /&gt;&lt;br /&gt;nodejs&lt;br /&gt;------&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://app.post&quot; rel=&quot;nofollow noopener&quot;&gt;app.post&lt;/a&gt;&lpar;&#39;/GetMail&#39;, function &lpar;req, res&rpar; {&lt;br /&gt;  Models.MAIL.find&lpar;&lpar;err, items&rpar; =&amp;gt; {&lt;br /&gt;		console.log&lpar;items&rpar;&lt;br /&gt;	}&rpar;&lt;br /&gt;}&rpar;&lt;br /&gt;&lt;br /&gt;db.js&lt;br /&gt;-----&lt;br /&gt;const mongoose = require&lpar;&#39;mongoose&#39;&rpar;&lt;br /&gt;mongoose.connect&lpar;&#39;mongodb://localhost:27017/abc&#39;, { useNewUrlParser: true }, &lpar;err, db&rpar; =&amp;gt; {&lt;br /&gt;  console.log&lpar;db&rpar;;&lt;br /&gt;  if &lpar;err&rpar; {&lt;br /&gt;    console.log&lpar;&#39;********** [数据库连接失败] **********&#39;&rpar;&lt;br /&gt;  } else {&lt;br /&gt;    console.log&lpar;&#39;********** [数据库连接成功] **********&#39;&rpar;&lt;br /&gt;  }&lt;br /&gt;}&rpar;&lt;br /&gt;const mail = new mongoose.Schema&lpar;{&lt;br /&gt;  code: Number, &lt;br /&gt;},&lt;br /&gt;{&lt;br /&gt;  collection: &#39;mail&#39;&lt;br /&gt;}&rpar;&lt;br /&gt;const Models = {&lt;br /&gt;  MAIL: mongoose.model&lpar;&#39;mail&#39;, mail&rpar;,&lt;br /&gt;}&lt;br /&gt;module.exports = Models&lt;br /&gt;&lt;br /&gt;mongoDB&lt;br /&gt;-----&lt;br /&gt;数据库名字为 abc&lt;br /&gt;下面有 mail =&amp;gt; 20220602&lt;br /&gt;想指定查询&#39;20220602&#39;表数据 总返回空呢
-	 
-    </details> 
-
-- 🐵 [npm 实在是太慢了 ，各位都是怎么解决的？](https://www.v2ex.com/t/863478#reply15) | Fri Jul 01 2022 8:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;我挂了影梭  好像没啥用&lt;/p&gt;
 
 	 
     </details> 
