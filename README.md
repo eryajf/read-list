@@ -227,29 +227,29 @@ adb root&lt;/p&gt;
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [试播集 07 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74070) | Thu Jun 30 2022 9:08 AM 
+- 👹 [派早报：三星开始生产 3nm 芯片、树莓派推出 Pico W 微控制器等](https://sspai.com/post/74081) | Fri Jul 01 2022 12:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    Apple 在韩国地区开放第三方支付系统，App Store 新规生效、应用需内置删除账号功能等。&lt;a href=&quot;https://sspai.com/post/74081&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [试播集 07 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74070) | Thu Jun 30 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目不少读者表示希望能够见到更多关于文化与书籍的内容，充实书单、丰富精神。机器人特地邀请了Matrix社区作者们来聊聊自己近期阅读的有意思的书籍。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱 ...&lt;a href=&quot;https://sspai.com/post/74070&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一派·在线沙龙 09 | 流媒体为何突然不「香」了](https://sspai.com/post/74075) | Thu Jun 30 2022 9:01 AM 
+- 🤭 [一派·在线沙龙 09 | 流媒体为何突然不「香」了](https://sspai.com/post/74075) | Thu Jun 30 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
     如果你对流媒体服务感兴趣，欢迎参加 7 月 1 日（本周五）20 点举办的「一派·在线沙龙」直播活动。&lt;a href=&quot;https://sspai.com/post/74075&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [GitHub Copilot：革命未竟，未来可期](https://sspai.com/prime/story/on-copilot) | Thu Jun 30 2022 8:01 AM 
+- 🥸 [GitHub Copilot：革命未竟，未来可期](https://sspai.com/prime/story/on-copilot) | Thu Jun 30 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
     GitHub Copilot 正式上线，尽管还有不少缺陷和争议，但仍然为开发者带来了新颖的使用与开发体验，让我们能愈发感受到「智能」二字的份量。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/on-copilot&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [流媒体之前我们如何听歌：音乐载体的百年变迁](https://sspai.com/post/74067) | Thu Jun 30 2022 7:00 AM 
+- 🙉 [流媒体之前我们如何听歌：音乐载体的百年变迁](https://sspai.com/post/74067) | Thu Jun 30 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     让我们坐上时光机，从 1877 年的那一声「Mary had a little lamb」起，回顾音乐方式的变迁。&lt;a href=&quot;https://sspai.com/post/74067&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [白板与笔记融合：我的四个氢图使用场景](https://sspai.com/post/73246) | Thu Jun 30 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    由于氢图的画板特性，你可以像是堆乐高积木那样，探索氢图使用的各种可能性。&lt;a href=&quot;https://sspai.com/post/73246&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
