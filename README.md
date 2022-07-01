@@ -339,11 +339,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [马斯克隧道公司Boring Company拉斯维加斯环线首个客运站曝光](http://www.techweb.com.cn/world/2022-07-01/2896565.shtml) | Fri Jul 01 2022 7:40 AM
-- 👹 [美银分析师：未来三年内特斯拉美国市场份额暴跌](http://www.techweb.com.cn/world/2022-07-01/2896560.shtml) | Fri Jul 01 2022 6:56 AM
-- 🪜 [应届实习生挤不进大厂](http://www.techweb.com.cn/viewpoint/2022-07-01/2896559.shtml) | Fri Jul 01 2022 6:56 AM
-- 🤭 [特斯拉申请扩建得克萨斯超级工厂 再建占地50万平方英尺厂房](http://www.techweb.com.cn/world/2022-07-01/2896557.shtml) | Fri Jul 01 2022 6:37 AM
-- 🙉 [腾讯收购的短视频平台VUE VLOG宣布将停止运营](http://www.techweb.com.cn/internet/2022-07-01/2896556.shtml) | Fri Jul 01 2022 6:36 AM<!-- techweb-allnews:END -->
+- 👍 [撤回美股招股书不足一月 Soul转战港股IPO 三年累计净亏超22亿](http://www.techweb.com.cn/finance/2022-07-01/2896572.shtml) | Fri Jul 01 2022 8:46 AM
+- 👹 [机构数据显示618期间共卖出1400万部智能手机 近半数是iPhone](http://www.techweb.com.cn/world/2022-07-01/2896569.shtml) | Fri Jul 01 2022 8:13 AM
+- 🪜 [Cruise道歉 自动驾驶出租车故障造成旧金山街道堵塞数小时](http://www.techweb.com.cn/world/2022-07-01/2896567.shtml) | Fri Jul 01 2022 8:00 AM
+- 🤭 [马斯克隧道公司Boring Company拉斯维加斯环线首个客运站曝光](http://www.techweb.com.cn/world/2022-07-01/2896565.shtml) | Fri Jul 01 2022 7:40 AM
+- 🙉 [美银分析师：未来三年内特斯拉美国市场份额暴跌](http://www.techweb.com.cn/world/2022-07-01/2896560.shtml) | Fri Jul 01 2022 6:56 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
