@@ -655,7 +655,7 @@
 	 
     </details> 
 
-- 🥷 [问一个终端 adb root 问题](https://www.v2ex.com/t/863361#reply2) | Fri Jul 01 2022 1:34 AM 
+- 🥷 [问一个终端 adb root 问题](https://www.v2ex.com/t/863361#reply3) | Fri Jul 01 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;公司有一个需要测试的 android 设备，限制了来自 adb 外部访问，想测试自动安装 app 之类的需要获得 root 权限。
