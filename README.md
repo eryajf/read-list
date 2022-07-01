@@ -384,11 +384,11 @@ httpServer.bind&lpar;8081&rpar;;
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [郭明錤：苹果iPhone 14在中国的需求可能比iPhone 13更强](http://www.techweb.com.cn/world/2022-07-01/2896525.shtml) | Fri Jul 01 2022 2:45 AM
-- 👹 [谷歌与开发者达成协议 同意支付9000万美元解决抽佣纠纷](http://www.techweb.com.cn/world/2022-07-01/2896521.shtml) | Fri Jul 01 2022 2:21 AM
-- 🪜 [蔚来被灰熊咬了一口，但是不疼](http://www.techweb.com.cn/viewpoint/2022-07-01/2896520.shtml) | Fri Jul 01 2022 2:14 AM
-- 🤭 [小红书上的爱情买卖](http://www.techweb.com.cn/viewpoint/2022-07-01/2896519.shtml) | Fri Jul 01 2022 2:08 AM
-- 🙉 [昔日果汁大王 16个亿卖了](http://www.techweb.com.cn/viewpoint/2022-07-01/2896518.shtml) | Fri Jul 01 2022 2:04 AM<!-- techweb-allnews:END -->
+- 👍 [我选的热门专业，四年后成了“天坑”](http://www.techweb.com.cn/viewpoint/2022-07-01/2896538.shtml) | Fri Jul 01 2022 4:27 AM
+- 👹 [丰田法则：每20年 汽车产业将有一次大变动](http://www.techweb.com.cn/viewpoint/2022-07-01/2896537.shtml) | Fri Jul 01 2022 4:08 AM
+- 🪜 [苹果在韩国开放应用程序三方支付 仍抽佣26%](http://www.techweb.com.cn/world/2022-07-01/2896534.shtml) | Fri Jul 01 2022 4:00 AM
+- 🤭 [郭明錤：苹果iPhone 14在中国的需求可能比iPhone 13更强](http://www.techweb.com.cn/world/2022-07-01/2896525.shtml) | Fri Jul 01 2022 2:45 AM
+- 🙉 [谷歌与开发者达成协议 同意支付9000万美元解决抽佣纠纷](http://www.techweb.com.cn/world/2022-07-01/2896521.shtml) | Fri Jul 01 2022 2:21 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
