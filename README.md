@@ -202,7 +202,32 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么这个 js 函数是个异步的，但能够在不是异步的地方直接调用？](https://www.v2ex.com/t/863430#reply1) | Fri Jul 01 2022 6:15 AM 
+- 🥸 [neovim 中文群](https://www.v2ex.com/t/863450#reply1) | Fri Jul 01 2022 7:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	neovim is the future of vim ，所以我建了一个 nvim 中文群，以 nvim 作为主力编辑器以及希望入坑 nvim 的用户，欢迎加入!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;地址： &lt;a target=&quot;_blank&quot; href=&quot;https://t.me/nvim_zh&quot; rel=&quot;nofollow noopener&quot;&gt;https://t.me/nvim_zh&lt;/a&gt;
+	 
+    </details> 
+
+- 🤗 [Redis 里 List 是耗内存最小的数据类型吗？](https://www.v2ex.com/t/863441#reply5) | Fri Jul 01 2022 6:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;用官网的&lt;a href=&quot;http://www.redis.cn/redis_memory/&quot; rel=&quot;nofollow&quot;&gt;在线工具&lt;/a&gt;看了下同样的 kv 在不同数据类型中的内存使用，虽然差别细微，但是 List 类型耗内存最少
+&lt;img alt=&quot;pic&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/imgs/2022/07/01/b634cf4ba7a74114.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;然后看了下脚本数据类型及其底层数据结构的关系：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;String: &amp;lt;=39byte 用 embstr 编码，&amp;gt;39byte 用 raw 编码并用动态字符串 SDS&lt;/li&gt;
+&lt;li&gt;Hash:元素长度&amp;lt;64byte&amp;amp;&amp;amp;元素数量&amp;lt;512 个，用 ziplist 编码，否则用 hashtable&lt;/li&gt;
+&lt;li&gt;List:元素长度&amp;lt;64byte&amp;amp;&amp;amp;元素数量&amp;lt;512 个，用 ziplist 编码，否则用 linkedlist 编码&lt;/li&gt;
+&lt;li&gt;Set:元素数量&amp;lt;512 个，用 intset 编码，否则用 hashtable&lt;/li&gt;
+&lt;li&gt;ZSet:元素长度&amp;lt;64byte&amp;amp;&amp;amp;元素数量&amp;lt;128 个，用 ziplist 编码，否则用 skiplist 编码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;是双向链表省空间吗？小白不懂&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [为什么这个 js 函数是个异步的，但能够在不是异步的地方直接调用？](https://www.v2ex.com/t/863430#reply3) | Fri Jul 01 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;如图
@@ -213,7 +238,7 @@
 	 
     </details> 
 
-- 🤗 [vscode 有没有像 sublime text 一样能够自动缩进以及格式化文件内容的功能或插件啊?](https://www.v2ex.com/t/863429#reply0) | Fri Jul 01 2022 6:14 AM 
+- 🥷 [vscode 有没有像 sublime text 一样能够自动缩进以及格式化文件内容的功能或插件啊?](https://www.v2ex.com/t/863429#reply9) | Fri Jul 01 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;因为公司不让使用 sublime text, 原来一直使用 sublime text 来临时格式化文件非常好用&lpar;都不需要保存文件, 直接 new 一个就能格式化&rpar;, 最近切到 vscode, 没有找到这个功能, 连自动缩进都没有, 请问下大家, 有没有什么设置或者是插件可以实现这个功能的吗?&lt;/p&gt;
@@ -221,7 +246,7 @@
 	 
     </details> 
 
-- 🎭 [kvm 虚拟机作为开发机，通过 spice 连接卡顿](https://www.v2ex.com/t/863415#reply2) | Fri Jul 01 2022 4:54 AM 
+- 🐵 [kvm 虚拟机作为开发机，通过 spice 连接卡顿](https://www.v2ex.com/t/863415#reply2) | Fri Jul 01 2022 4:54 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;之前看见过 v 友评论说，用这种方案很流畅（找不到出处了）。&lt;/p&gt;
@@ -283,90 +308,6 @@ vmgenid: affc6913-ad14-4001-bdb0-7575a5fb4bb7
 vmstate: local-lvm:vm-100-state-init
 &lt;/code&gt;&lt;/pre&gt;
 
-	 
-    </details> 
-
-- 🥷 [最近终于有点空了，将 Magician 发布了一个新版本](https://www.v2ex.com/t/863393#reply0) | Fri Jul 01 2022 3:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;&lt;strong&gt;Magician 大家可能比较陌生，在介绍本次更新前 先简单介绍一下吧：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Magician 是一套 web 开发的工具集，开发者可以自由选择自己想用的工具，可以选择只用一个小型的 http 服务包开发一个微型服务，也可以搭配 MVC 来实现一个常规的 web 服务，也可以只选择 JDBC 框架 对数据库进行操作，也可以全部一起用，实现一个完整的 web 服务，同时我们也会提供各种小型组件库，来方便开发者。&lt;/p&gt;
-&lt;p&gt;目前已经发布了三个包，分别是 Magician ，Magician-Web ，Magician-JDBC ，他们分别对应，小型 http 服务器，MVC 框架，数据库操作框架。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;本次更新的部分在于第一个包 - Magician &lpar;Magician 既是这一套项目的名称，也是核心组件的名称&rpar;：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Magician 是一个基于 Netty 的小型 HTTP 服务包，可以很方便的启动一个 HTTP 服务，支持 WebSocket ，采用注解来配置 Handler 。&lt;/p&gt;
-&lt;p&gt;如果你想用 netty 开发一个 http 服务，但发现它很麻烦，那么 Magician 可能会帮到你。&lt;/p&gt;
-&lt;h2&gt;本次更新的点&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;支持自定义配置&lt;/li&gt;
-&lt;li&gt;支持监听多端口&lt;/li&gt;
-&lt;li&gt;同一个项目中，可以多地使用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;自定义配置&lt;/h2&gt;
-&lt;p&gt;以前，我们启动一个 Magician 服务，只能用默认的配置，现在有这么几个配置项支持自定义了&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;MagicianConfig magicianConfig = new MagicianConfig&lpar;&rpar;;
-magicianConfig.setNumberOfPorts&lpar;3&rpar;; // 允许同时监听的端口数量，默认 1 个
-magicianConfig.setBossThreads&lpar;1&rpar;; // netty 的 boss 线程数量 默认 1 个
-magicianConfig.setWorkThreads&lpar;3&rpar;; // netty 的 work 线程数量 默认 3 个
-magicianConfig.setNettyLogLevel&lpar;LogLevel.DEBUG&rpar;; // netty 的日志打印级别
-magicianConfig.setMaxInitialLineLength&lpar;4096&rpar;; // http 解码器的构造参数 1 ，默认 4096 跟 netty 一样
-magicianConfig.setMaxHeaderSize&lpar;8192&rpar;; // http 解码器的构造参数 2 ，默认 8192 跟 netty 一样
-magicianConfig.setMaxChunkSize&lpar;8192&rpar;; // http 解码器的构造参数 3 ，默认 8192 跟 netty 一样
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;所有配置项都有默认值，所以在使用的时候 可以只选择自己需要更改的配置项进行设置，设置好了以后需要添加到 HttpServer 实例中&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;Magician.createHttp&lpar;&rpar;
-        .scan&lpar;&quot;com.test&quot;&rpar;// 扫描范围（包名）
-        .setConfig&lpar;magicianConfig&rpar; // 添加配置
-        .bind&lpar;8080&rpar;;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;监听多端口&lt;/h2&gt;
-&lt;p&gt;很简单，只需要调用 bind 方法多次即可&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;HttpServer httpServer = Magician.createHttp&lpar;&rpar;
-        .scan&lpar;&quot;com.test&quot;&rpar;// 扫描范围（包名）
-        .setConfig&lpar;magicianConfig&rpar;; // 添加配置
-
-httpServer.bind&lpar;8080&rpar;;
-httpServer.bind&lpar;8081&rpar;; 
-httpServer.bind&lpar;8082&rpar;; 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;同项目中，多地使用&lt;/h2&gt;
-&lt;p&gt;有时候可能会遇到这种需求，同一个项目中，有些资源是对内的，有些资源是对外的，我们想把这两部分资源隔离开来，这个时候可能就需要启动两个服务了。 在本次升级的时候，为了实现监听多端口，bind 已经变成异步的方法了，在调用 bind 以后，不会阻塞，而是可以继续往下执行，所以这个需求得到了完美的解决， 有两个实现方案。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;监听两个端口，把对外和对内分开&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;直接启动两个服务，把端口，配置，线程全都分开&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;第一种方法，不用多说，相信大家都知道怎么做了，咱们重点说说第二种方法，跟监听多端口差不多的思路，只不过变成了启动两个服务，比如：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;启动一个对外服务&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;// 将 8080 端口做为对外的端口，并且 scan 只扫描对外的资源（接口，handler 等）
-
-HttpServer httpServer = Magician.createHttp&lpar;&rpar;
-        .scan&lpar;&quot;com.test&quot;&rpar;// 只扫描对外的资源
-        .setConfig&lpar;magicianConfig&rpar;; // 添加配置
-
-httpServer.bind&lpar;8080&rpar;;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;启动一个对内服务&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;// 将 8081 端口做为对内的端口，并且 scan 只扫描对内的资源（接口，handler 等）
-
-HttpServer httpServer = Magician.createHttp&lpar;&rpar;
-        .scan&lpar;&quot;com.test&quot;&rpar;// 只扫描对内的资源
-        .setConfig&lpar;magicianConfig&rpar;; // 添加配置
-
-httpServer.bind&lpar;8081&rpar;;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;想了解更多，可以访问官网&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://magician-io.com&quot; rel=&quot;nofollow&quot;&gt;https://magician-io.com&lt;/a&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [adguardhome 和 smartdns 分流](https://www.v2ex.com/t/863391#reply5) | Fri Jul 01 2022 2:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	adguardhome 自带分流，这是我整的规则&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/rxvb/adguardhome_upstream_dns&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/rxvb/adguardhome_upstream_dns&lt;/a&gt;&lt;br /&gt;国内域名使用 tls://120.53.53.53 查询，其他的会用境外服务器查询。&lt;br /&gt;&lt;br /&gt;smartdns 也有分流功能，我也整了 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/rxvb/smartdns_rules&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/rxvb/smartdns_rules&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;两个都用了 Loyalsoldier/v2ray-rules-dat
 	 
     </details> 
 <!-- v2ex:END -->
