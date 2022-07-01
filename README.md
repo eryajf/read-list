@@ -273,29 +273,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android性能优化之启动优化&lpar;实战篇&rpar;](https://juejin.cn/post/7115280222877925412) | Fri Jul 01 2022 6:01 AM 
+- 🤗 [在 Swift 中编写脚本：Git Hooks](https://juejin.cn/post/7115304738651897863) | Fri Jul 01 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
-    目录 一、启动优化的意义 二、启动时间检测 三、启动优化工具---traceview 四、优化方案 1.异步初始化 2.延迟初始化 3.懒加载 五、源码地址 六、总结 
+    这周，我决定完成因为工作而推迟了一周的TODO事项来改进我的Git工作流程。 为了在提交的时候尽可能多的携带上下文信息，我们让提交信息包含了正在处理的JIRA编号 
     </details> 
 
-- 🎡 [Activity 启动流程分析（一）一天搞懂所有疑难杂问](https://juejin.cn/post/7115215917176340516) | Fri Jul 01 2022 1:52 AM 
+- 🎡 [淘宝惊现GitHub“爱国套餐”，其实是刷Star](https://juejin.cn/post/7115303814483148807) | Fri Jul 01 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 Activity启动操作在Android开发过程中非常常见，但大多时候我们并未认真思考过其背后的具体流程。在启动某个Activity时，会先启动Activity所在的应用，并启动一个以应用包名为 
+    这几年，随着几大互联网公司的强大，纷纷投入云计算产业的建设，开源项目作为维护潜在客户群体（开发者）的重要手段，是各大云计算厂商都在努力做的事。这几年也诞生了很多真正优秀和看似优秀的开源项目。真正 
     </details> 
 
-- 🕯 [你需要了解的官方core-ktx库能对开发带来哪些便利1](https://juejin.cn/post/7115048686170112037) | Thu Jun 30 2022 3:03 PM 
+- 🕯 [一文解决大数据环境下小文件的存储和索引相关的需求](https://juejin.cn/post/7115228537161777159) | Fri Jul 01 2022 2:41 AM 
     <details><summary>展开描述 ...</summary> 
-    接下来准备出一个系列的文章，专门研究`Android`官方提供的`core-ktx`库里面的扩展类、方法等等，看看能为项目开发带来哪些便利。 
+    需求 本文档描述大段落文本信息的存储，查询功能实现 需求：能够从Web页面上通过各种条件查看大段文本信息，能够下载完整文本信息 环境信息 Hadoop2.6，HBase1.2，Elasticsearc 
     </details> 
 
-- 🚀 [【JavaSE】Set 深入研究](https://juejin.cn/post/7115039371702566948) | Thu Jun 30 2022 2:27 PM 
+- 🚀 [原来还可以从中国封建历史的发展来理解云计算、雾计算、边缘计算以及云原生之间的关系，这回好理解了！](https://juejin.cn/post/7115226515444334622) | Fri Jul 01 2022 2:35 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第15天，点击查看活动详情 Set接口基本用法 Set 也叫做集合，跟数学中的集合一样，set不允许有重复值 Set接口继承和实现  
+    前言 互联网的快速发展，带来了一大批新的名词，这次名词的更新换代的速度也是快的惊人，往往一波未平一波又起，使得大家不能墨守成规，必须不断学习才能赶得上科技和技术的发展潮流。 计算机行业更是如此，可能真 
     </details> 
 
-- 💪 [Bug：Zabbix对Kafka topic积压数据监控](https://juejin.cn/post/7115038805291171877) | Thu Jun 30 2022 2:24 PM 
+- 💪 [Spark - 一文搞懂 Partitioner](https://juejin.cn/post/7115221304235524133) | Fri Jul 01 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    《Zabbix对Kafka topic积压数据监控》通过Zabbix自动发现实现对多个消费者组的Topic及Partition的Lag进行监控。因在实际监控中发现有问题，为给感兴趣的 
+    spark 处理 RDD 时提供了 foreachPartition 和 mapPartition 的方法对 partition 进行处理。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
