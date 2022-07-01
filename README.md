@@ -257,29 +257,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [普通的大学、普通的生活、普通的我](https://juejin.cn/post/7115308228241539108) | Fri Jul 01 2022 7:50 AM 
+- 🤗 [混沌工程平台 ChaosBlade-Box 新版重磅发布](https://juejin.cn/post/7115330783442632741) | Fri Jul 01 2022 9:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    混沌工程（Chaos Engineering）在分布式系统上进行实验的学科，通过主动注入故障的方式，提前发现系统的薄弱点，推进架构的改进，最终实现业务韧性。从而避免故障在线上运行环境上发生。 
+    </details> 
+
+- 🎡 [普通的大学、普通的生活、普通的我](https://juejin.cn/post/7115308228241539108) | Fri Jul 01 2022 7:50 AM 
     <details><summary>展开描述 ...</summary> 
     「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 前言 2021年6月17日，我从一个普通的三本院校毕业。说起这个大学也是挺迷的一件事情，填志愿时大学地址在阿里巴巴对面，结果录取书拿到之后 
     </details> 
 
-- 🎡 [道阻且长，如何？行路难](https://juejin.cn/post/7115305083813920805) | Fri Jul 01 2022 7:38 AM 
+- 🕯 [道阻且长，如何？行路难](https://juejin.cn/post/7115305083813920805) | Fri Jul 01 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
     回望2022年，这半年，感受颇多，感慨于时光飞逝，惆怅于荷包不鼓。遂，今日，记下撩撩几笔，以便后日回观。 
     </details> 
 
-- 🕯 [在 Swift 中编写脚本：Git Hooks](https://juejin.cn/post/7115304738651897863) | Fri Jul 01 2022 7:37 AM 
+- 🚀 [在 Swift 中编写脚本：Git Hooks](https://juejin.cn/post/7115304738651897863) | Fri Jul 01 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
     这周，我决定完成因为工作而推迟了一周的TODO事项来改进我的Git工作流程。 为了在提交的时候尽可能多的携带上下文信息，我们让提交信息包含了正在处理的JIRA编号 
     </details> 
 
-- 🚀 [星夜搭建平台结合微前端在火山引擎官网上的实践](https://juejin.cn/post/7115303884809044004) | Fri Jul 01 2022 7:33 AM 
+- 💪 [基于ElementUI封装了CRUD的弹框组件](https://juejin.cn/post/7115304777273049101) | Fri Jul 01 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
-    搭建平台解决方案除了常见的 DSL 还是否有其他解决方案？Code In \x26amp; Code Out 方案的价值在哪里？搭建平台又如何与微前端进行结合？ 
-    </details> 
-
-- 💪 [淘宝惊现GitHub“爱国套餐”，其实是刷Star](https://juejin.cn/post/7115303814483148807) | Fri Jul 01 2022 7:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    这几年，随着几大互联网公司的强大，纷纷投入云计算产业的建设，开源项目作为维护潜在客户群体（开发者）的重要手段，是各大云计算厂商都在努力做的事。这几年也诞生了很多真正优秀和看似优秀的开源项目。真正 
+    回头看自己以前的代码，感觉就像屎一样。我会想，为什么不封装一下，如果用的是ElementUI框架，也可以在此基础上进行二次封装。 譬如说，这个用来对列表数据进行增删改查的弹框。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
