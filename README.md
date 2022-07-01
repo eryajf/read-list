@@ -374,29 +374,29 @@ httpServer.bind&lpar;8081&rpar;;
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [掘金技术社区签约计划·众审团招募](https://juejin.cn/post/7115252571203174408) | Fri Jul 01 2022 4:15 AM 
+- 🤗 [浅谈前端埋点 &amp; 监控、Vue3项目拆分为微应用、大规模实时分位数计算、接口性能优化技巧、HTTP 新增的 103 状态码| 酱酱的下午茶第 19 期](https://juejin.cn/post/7115277824734265380) | Fri Jul 01 2022 5:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    本期下午茶看点包括：浅谈前端埋点 &amp; 监控、Vue3项目拆分为微应用、大规模实时分位数计算、接口性能优化技巧、安卓动态设置Drawable与Tint、 Andorid:关于Binder几个面试问题。 
+    </details> 
+
+- 🎡 [Python 为什么没有 main 函数？为什么我不推荐写 main 函数？](https://juejin.cn/post/7115276821574189070) | Fri Jul 01 2022 5:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    毫无疑问 Python 中没有所谓的 main 入口函数，但是网上经常看到一些文章提“Python 的 main 函数”、“建议写 main 函数”…… 有些人是知情的，他的意图可能是模仿那些正宗的  
+    </details> 
+
+- 🕯 [编程语言中分号“;”的简明历史](https://juejin.cn/post/7115275459247636488) | Fri Jul 01 2022 5:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    在本文中，我将简要介绍在计算机编程语言中使用分号（许多计算机科学入门学生的祸根）的历史。我们将看到分号有两种用途：作为语句分隔符和作为语句终止符，并且我们将了解在过去60多年的编程语言历史中分号的使用 
+    </details> 
+
+- 🚀 [一文讲透antd文件上传，如何实现取消上传功能](https://juejin.cn/post/7115256961741881380) | Fri Jul 01 2022 4:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    文件上传有个常见的需求，就是允许用户取消上传文件，特别是在大文件上传时很有必要。 在网上找了很多资料，没有现成的代码给我CV（淦） 翻了半天，只找到了一个提供思路的帖子，对我还是很有帮助的。 
+    </details> 
+
+- 💪 [掘金技术社区签约计划·众审团招募](https://juejin.cn/post/7115252571203174408) | Fri Jul 01 2022 4:15 AM 
     <details><summary>展开描述 ...</summary> 
     签约计划第二期招募活动正在火热报名中，所有技术内容创作者均可报名投稿！ 同时为了更好的把关签约相关文章的整体内容质量，我们诚邀有兴趣且符合要求的掘友们加入签约作者官方内容 
-    </details> 
-
-- 🎡 [Python 什么情况下会生成 pyc 文件？](https://juejin.cn/post/7115248480578175006) | Fri Jul 01 2022 3:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    成员名不允许重复 这部分我的第一个想法是去控制 dict 中的 key 。但这样的方式并不好，__dict__ 范围大，它包含该类的所有属性和方法。而不单单是枚举的命名空间。我在源码中发现 enum  
-    </details> 
-
-- 🕯 [Python 进阶：queue 队列源码分析](https://juejin.cn/post/7115246259241222152) | Fri Jul 01 2022 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    起步 queue 模块提供适用于多线程编程的先进先出（FIFO）数据结构。因为它是线程安全的，所以多个线程很轻松地使用同一个实例。 源码分析 先从初始化的函数来看： 从这初始化函数能得到哪些信息呢？首 
-    </details> 
-
-- 🚀 [View Design 物料市场项目已全部适配 Vue.js 3](https://juejin.cn/post/7115245684755791909) | Fri Jul 01 2022 3:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    目前，物料市场中的所有内容均已完成 Vue.js 3 的适配，View Design 付费用户可以免费下载使用。 https://www.iviewui.com/store 
-    </details> 
-
-- 💪 [241. 为运算表达式设计优先级 : DFS 运用题](https://juejin.cn/post/7115234785022181412) | Fri Jul 01 2022 3:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 241. 为运算表达式设计优先级 ，难度为 中等。 Tag : 「DFS」、「爆搜」 给你一个由数字和运算符组成的字符串 expression，按不同优先级组合 
     </details> 
 <!-- juejin:END -->
 ### 少数派
