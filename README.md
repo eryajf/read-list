@@ -131,44 +131,48 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [写代码久了，感觉数据结构都是浮云，主程序只要保存一棵树，就能搞定 95%的场景需求。](https://www.v2ex.com/t/863250#reply0) | Thu Jun 30 2022 9:06 AM 
+- 🥸 [深夜提问 Java 如何判断是否为正确域名格式](https://www.v2ex.com/t/863333#reply1) | Thu Jun 30 2022 6:10 PM 
     <details><summary>展开描述 ...</summary> 
     
-	用户有新需求，就不断的往这一棵树上加子叶，用 ID 做为键值来查找。&lt;br /&gt;&lt;br /&gt;如果叶子上有大数据，就用类似二次索引 index ，去数据库里实时查询。&lt;br /&gt;&lt;br /&gt;保存数据的时候，JSON 一把梭导出，简单又明了。&lt;br /&gt;&lt;br /&gt;高端的程序（食材）往往只需要采用最朴素的数据结构（烹饪方式）。
+	如题，各位大佬，遇到个问题，套了许多正则也不能判断一个域名是否为正确的格式，或许正则不是最好的方式？ 有没有懂的老哥指导一番🌚🌚
 	 
     </details> 
 
-- 🤗 [Obsidian 的本地图片怎么管理呢?有本地图片管理的扩展吗?](https://www.v2ex.com/t/863249#reply0) | Thu Jun 30 2022 9:05 AM 
+- 🤗 [广电 192 手机号段发布了，你的业务代码里适配了吗？](https://www.v2ex.com/t/863330#reply4) | Thu Jun 30 2022 4:42 PM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;让所有的图片在一个子文件夹之类的扩展,有吗&lt;/p&gt;
-
+	
 	 
     </details> 
 
-- 🎭 [对于有插入（范围插入）、 删除（范围删除）、 下标获取要求性能最好的数据结构是什么？](https://www.v2ex.com/t/863239#reply11) | Thu Jun 30 2022 8:38 AM 
+- 🎭 [深夜感慨，公司裁员了，我却还在](https://www.v2ex.com/t/863325#reply13) | Thu Jun 30 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;现在开发的项目对性能比较敏感，有一个列表结构频繁地会通过索引获取对象，通过下标或对象本身删除列表中的一个或多个对象，在列表中间某个位置、尾部插入一个或多个对象，请问能不能实现这种数据结构让每种方法都以 O&lpar;1&rpar;的方式进行。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [关于 Java 内存泄露的问题，请各位大佬帮我看看](https://www.v2ex.com/t/863232#reply13) | Thu Jun 30 2022 7:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;现在有一个类，这个类有一个静态属性，长这样：public static A a =new A&lpar;&rpar;; 那么现在来分析，new A&lpar;&rpar;肯定是进 JVM 的堆区，static A a 肯定是进方法区，然后 &quot;=&quot; 是把方法区的 a 与堆区的数据进行一个强引用关联。那么问题来了，方法区的数据一般不会被清理掉（特殊情况除外），那么指向堆内存的数据就会一直在堆中存在，这不就是内存泄露了么？&lt;/p&gt;
+	&lt;p&gt;6 月初我们组还有 7 个人，截止 6-30 ，只剩 2 个人了。&lt;/p&gt;
+&lt;p&gt;人事今天下午直接约谈组员签字，我甚至都不知道这件事以及人员名单，还是组员和我提起的。&lt;/p&gt;
+&lt;p&gt;想做点什么、想帮点什么，却发现自己什么也做不了。&lt;/p&gt;
+&lt;p&gt;晚上约组员吃了顿饭，这会正躺床上写简历。&lt;/p&gt;
+&lt;p&gt;2022-07-01 00:15 分&lt;/p&gt;
 
 	 
     </details> 
 
-- 🐵 [Edge 正在向 Yandex 发送我的历史记录](https://www.v2ex.com/t/863220#reply3) | Thu Jun 30 2022 7:26 AM 
+- 🥷 [nvim 0.7.2 released](https://www.v2ex.com/t/863322#reply0) | Thu Jun 30 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;最近在调试 Cloudflare Workers ，发现日志中总有莫名其妙的请求。IP 来源是俄罗斯，UA 是 Yandex 的爬虫。&lt;/p&gt;
-&lt;p&gt;具体表现为，当我访问只有我知道的一个 API 地址时，5 分钟之后会有 Yandex 爬虫访问该地址。由于是 HTTPS 链接，检查过证书没有问题，因此排除 MITM 。&lt;/p&gt;
-&lt;p&gt;首先怀疑自己安装的插件，于是开 InPrevite 窗口，该问题复现。新建一个 Edge Profile ，请求该 URL ，依然复现。因此排除是插件问题。&lt;/p&gt;
-&lt;p&gt;使用 Firefox 请求该 URL ，无法复现。&lt;/p&gt;
+	&lt;p&gt;这个更新其实是个小更新，更大的是两个月前的 0.7 ，不过那时候忙，没时间写。。&lt;/p&gt;
+&lt;p&gt;具体更新内容参考 &lt;a href=&quot;https://jdhao.github.io/2022/06/29/nvim_v07-release/&quot; rel=&quot;nofollow&quot;&gt;https://jdhao.github.io/2022/06/29/nvim_v07-release/&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [我们团队开发了一个基于 MySQL 的 HTAP 数据库，主要是提升了实时分析性能，欢迎大家指教](https://www.v2ex.com/t/863302#reply5) | Thu Jun 30 2022 1:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;数据库叫 StoneDB ，基于 MySQL 原生开发，遵循 GPL 协议。
+在 MySQL 的行存引擎基础上，开发了自研的列存引擎，用一体化的架构，可以给 MySQL 平行升级，提升实时分析能力。
+项目在这里，欢迎来提 issue
+&lt;a href=&quot;https://github.com/StoneAtom/stonedb&quot; rel=&quot;nofollow&quot;&gt;https://github.com/StoneAtom/stonedb&lt;/a&gt;&lt;/p&gt;
 
 	 
     </details> 
@@ -177,76 +181,76 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [知其然，而知其所以然，JS 对象创建与继承【汇总梳理】](https://juejin.cn/post/7114931489803862052) | Thu Jun 30 2022 7:28 AM 
+- 🤗 [【AI资讯月刊】350+资源大盘点！6月不容错过的资料和动态，都都都在这里啦！&lt;附下载&gt;](https://juejin.cn/post/7115160236175917063) | Thu Jun 30 2022 10:31 PM 
     <details><summary>展开描述 ...</summary> 
-    在 6 月更文中零零散散讲了 JS 的对象创建和对象继承，有工友对此还是表示疑惑，要注意：这是两个不同但又相关的东西，千万别搞混了！ 
+    本篇为专栏的 6 月合辑，对 6 月份发布的 30 篇日报内容，进行了整合与分类，将350+学习资源 结构化得整理成了这本电子月刊（排版超美）！回复『日报』获取！ 
     </details> 
 
-- 🎡 [深度解析｜Apache Doris 索引机制解析](https://juejin.cn/post/7114927982833041438) | Thu Jun 30 2022 7:15 AM 
+- 🎡 [又一个月，1.5W字！50+Vue经典面试题源码级详解，完结篇！](https://juejin.cn/post/7115055320913117220) | Thu Jun 30 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
-    1  引言 Apache Doris 存储引擎采用类似 LSM 树的结构提供快速的数据写入支持。进行数据导入时，数据会先写入 Tablet 对应的 MemTable 中，当 MemTable 写满之后 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第30天，点击查看活动详情 前言 小伙伴们好，我是村长，一个爱分享的老前端。本月恰逢「掘金日新计划 · 6 月更文挑战」 
     </details> 
 
-- 🕯 [React Native中实现动态导入](https://juejin.cn/post/7114926500452761607) | Thu Jun 30 2022 7:08 AM 
+- 🕯 [六六力扣刷题链表之删除链表的倒数第N个节点](https://juejin.cn/post/7115047492953047053) | Thu Jun 30 2022 2:59 PM 
     <details><summary>展开描述 ...</summary> 
-    React Native 虽然提供了拆包的能力，但只能拆为基础包和业务包；无法做精细化的代码分割，更无法提供灵活的按需加载能力。本文将介绍纯前端如何在 React Native 中实现的动态导入。 
+    “持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第32天，点击查看活动详情” 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两台晒网，刷几天 
     </details> 
 
-- 🚀 [RP原型资源分享-购物类App](https://juejin.cn/post/7114919833199706126) | Thu Jun 30 2022 6:43 AM 
+- 🚀 [树的子结构](https://juejin.cn/post/7115043104079478797) | Thu Jun 30 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
-    哈喽，今天和大家分享6个原型模板资源： 1&rpar;商品展示页面 2&rpar;待办类App 3&rpar;美食类App 4&rpar;购物类App 5&rpar;旅游类页面精选 6&rpar;机票预订App 一、商品展示页面 本套UI Kit是商品展示页面 
+    给定两颗二叉树A和B，如何判断B是不是A的子结构，本文将分享一个方案用来解决此问题，欢迎各位感兴趣的开发者阅读本文。 
     </details> 
 
-- 💪 [JavaScript 设计模式之代理模式](https://juejin.cn/post/7114912169447129125) | Thu Jun 30 2022 6:13 AM 
+- 💪 [抓住时光，做好当下 |2022年中总结](https://juejin.cn/post/7115018839825498142) | Thu Jun 30 2022 1:07 PM 
     <details><summary>展开描述 ...</summary> 
-    JavaScript 设计模式之代理模式，代理（proxy）是一个对象，它可以用来控制对另一个对象的访问。 
+    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 牛气冲天一度飞跃到虎虎生威，一晃六个月时光转瞬即逝，司龄也跨过一个阶段，从职场小白进入到老油条的队伍。同时在2022年上半年中，不管是国内 
     </details> 
 <!-- juejin:END -->
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [GitHub Copilot：革命未竟，未来可期](https://sspai.com/prime/story/on-copilot) | Thu Jun 30 2022 8:01 AM 
+- 👹 [试播集 07 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74070) | Thu Jun 30 2022 9:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于栏目不少读者表示希望能够见到更多关于文化与书籍的内容，充实书单、丰富精神。机器人特地邀请了Matrix社区作者们来聊聊自己近期阅读的有意思的书籍。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱 ...&lt;a href=&quot;https://sspai.com/post/74070&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [一派·在线沙龙 09 | 流媒体为何突然不「香」了](https://sspai.com/post/74075) | Thu Jun 30 2022 9:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果你对流媒体服务感兴趣，欢迎参加 7 月 1 日（本周五）20 点举办的「一派·在线沙龙」直播活动。&lt;a href=&quot;https://sspai.com/post/74075&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🤭 [GitHub Copilot：革命未竟，未来可期](https://sspai.com/prime/story/on-copilot) | Thu Jun 30 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
     GitHub Copilot 正式上线，尽管还有不少缺陷和争议，但仍然为开发者带来了新颖的使用与开发体验，让我们能愈发感受到「智能」二字的份量。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/on-copilot&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [流媒体之前我们如何听歌：音乐载体的百年变迁](https://sspai.com/post/74067) | Thu Jun 30 2022 7:00 AM 
+- 🥸 [流媒体之前我们如何听歌：音乐载体的百年变迁](https://sspai.com/post/74067) | Thu Jun 30 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     让我们坐上时光机，从 1877 年的那一声「Mary had a little lamb」起，回顾音乐方式的变迁。&lt;a href=&quot;https://sspai.com/post/74067&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [白板与笔记融合：我的四个氢图使用场景](https://sspai.com/post/73246) | Thu Jun 30 2022 3:30 AM 
+- 🙉 [白板与笔记融合：我的四个氢图使用场景](https://sspai.com/post/73246) | Thu Jun 30 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     由于氢图的画板特性，你可以像是堆乐高积木那样，探索氢图使用的各种可能性。&lt;a href=&quot;https://sspai.com/post/73246&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [派早报：尼康发布 Z 30 相机、ARM 推出新一代移动端 CPU 和 GPU 等](https://sspai.com/post/74063) | Thu Jun 30 2022 12:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    1Password 推出多项新功能、钉钉项目基础版将继续免费、知乎推出学习专区等。&lt;a href=&quot;https://sspai.com/post/74063&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [迷你直面会说大事：任天堂又为你的 Switch 带来了哪些「新游戏」？](https://sspai.com/post/74047) | Wed Jun 29 2022 9:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    虽然号称迷你直面会，但与主打独立游戏的 Indie World 相比，这场 25 分钟直面会上发布的内容体量着实有些让人应接不暇。&lt;a href=&quot;https://sspai.com/post/74047&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [《明日方舟》SideStory「绿野幻梦」活动先导 PV 已出 ，有哪些值得关注的信息？](http://www.zhihu.com/question/540527597/answer/2551358619?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Thu Jun 30 2022 7:11 AM
-- 🐻 [有什么事情是只有漫画这一媒介能做到的?](http://www.zhihu.com/question/535590151/answer/2549845417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Wed Jun 29 2022 3:06 AM
-- 🌏 [乐山 / 宜宾，在小城与菜场吃掉春天](http://zhuanlan.zhihu.com/p/534986693?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Tue Jun 28 2022 11:04 AM
-- 🕴 [2022 年高考报志愿哪些专业就业前景比较好？作为过来人，你有什么经验分享？](http://www.zhihu.com/question/537010715/answer/2544901173?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Sat Jun 25 2022 1:51 PM
-- 🌮 [如何看待《辉夜大小姐想让我告白》第三季完结？](http://www.zhihu.com/question/539507826/answer/2544224451?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Sat Jun 25 2022 6:12 AM<!-- zhihu:END -->
+- 🤩 [堵车时，发动机频繁启停会对发动机寿命造成严重的不良影响吗？](http://www.zhihu.com/question/538637976/answer/2552123746?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Thu Jun 30 2022 10:18 AM
+- 🐻 [如何让发动机用更少的油得到更多的动力？](http://www.zhihu.com/question/538030795/answer/2548950607?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Thu Jun 30 2022 10:15 AM
+- 🌏 [醇电混动专用发动机的工作原理是什么？未来醇电混动会取代燃油混动吗？](http://www.zhihu.com/question/539092380/answer/2547100112?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Thu Jun 30 2022 10:13 AM
+- 🕴 [《明日方舟》SideStory「绿野幻梦」活动先导 PV 已出 ，有哪些值得关注的信息？](http://www.zhihu.com/question/540527597/answer/2551358619?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Thu Jun 30 2022 7:11 AM
+- 🌮 [有什么事情是只有漫画这一媒介能做到的?](http://www.zhihu.com/question/535590151/answer/2549845417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Wed Jun 29 2022 3:06 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [艾迈斯欧司朗推出其首个纯集成电路生命体征传感器系列AS705x](http://www.techweb.com.cn/internet/2022-06-30/2896395.shtml) | Thu Jun 30 2022 8:45 AM
-- 👹 [领先台积电 三星电子已开始量产3纳米芯片](http://www.techweb.com.cn/world/2022-06-30/2896394.shtml) | Thu Jun 30 2022 8:30 AM
-- 🪜 [LG显示OLED面板扩张计划放缓 因受供应链限制](http://www.techweb.com.cn/world/2022-06-30/2896393.shtml) | Thu Jun 30 2022 8:28 AM
-- 🤭 [Snapchat应用程序付费版正式发布](http://www.techweb.com.cn/world/2022-06-30/2896386.shtml) | Thu Jun 30 2022 8:11 AM
-- 🙉 [集度回应“吉利退出”：百度和吉利共同持股 夏一平仍为CEO](http://www.techweb.com.cn/smarttraveling/2022-06-30/2896375.shtml) | Thu Jun 30 2022 7:30 AM<!-- techweb-allnews:END -->
+- 👍 [优信：1亿美元新融资协议正式签署](http://www.techweb.com.cn/it/2022-06-30/2896435.shtml) | Thu Jun 30 2022 1:30 PM
+- 👹 [15年做糊21款硬件，谷歌到底栽在哪儿？](http://www.techweb.com.cn/viewpoint/2022-06-30/2896427.shtml) | Thu Jun 30 2022 9:55 AM
+- 🪜 [消费电子需求放缓 韩国5月芯片库存创4年最多](http://www.techweb.com.cn/world/2022-06-30/2896423.shtml) | Thu Jun 30 2022 9:47 AM
+- 🤭 [“女性车”赛道是个伪命题](http://www.techweb.com.cn/viewpoint/2022-06-30/2896418.shtml) | Thu Jun 30 2022 9:39 AM
+- 🙉 [奈雪的茶上市一周年推出虚拟股票：一文说透怎么玩，是否违法？](http://www.techweb.com.cn/it/2022-06-30/2896415.shtml) | Thu Jun 30 2022 9:25 AM<!-- techweb-allnews:END -->
 
 
