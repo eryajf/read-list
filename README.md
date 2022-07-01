@@ -202,14 +202,24 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [对 IM 聊天工具 不是特别了解，不过想知道 如 telegram 微信客户端是如何保证与服务器通讯的呢？ 特别是当手机客户端进程都被杀死的情况下。](https://www.v2ex.com/t/863547#reply3) | Fri Jul 01 2022 4:17 PM 
+- 🥸 [同一个 20 核 128GB RAM 无显卡虚拟机，在 Windows 10 2016 LTSB+Ubuntu 16.04 下用同版本同参数的 ffmpeg 压缩视频，为什么 Windows 总比 Ubuntu 快 25%？](https://www.v2ex.com/t/863558#reply0) | Fri Jul 01 2022 7:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;测试了好几轮还是这样。区别是 Windows 任务管理器 看 CPU 占用始终 100%，Ubuntu top 命令看 CPU 经常会落到 50%左右 1 秒然后升回 100%。&lt;/p&gt;
+&lt;p&gt;都是刚安装完系统，没有第三方软件的状态（懒得装系统，8 年前装了两个系统磁盘镜像的备份一直留着，用到了现在，虚拟机需要装系统就替换上去很方便）&lt;/p&gt;
+&lt;h1&gt;都是二进制文件，没有用包管理器装，确定同一版本&lt;/h1&gt;
+
+	 
+    </details> 
+
+- 🤗 [对 IM 聊天工具 不是特别了解，不过想知道 如 telegram 微信客户端是如何保证与服务器通讯的呢？ 特别是当手机客户端进程都被杀死的情况下。](https://www.v2ex.com/t/863547#reply3) | Fri Jul 01 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
     
 	
 	 
     </details> 
 
-- 🤗 [为什么没有一个 IDE 或者语言支持用图形等多媒体方式进行注释，大家探讨一下。](https://www.v2ex.com/t/863541#reply11) | Fri Jul 01 2022 3:35 PM 
+- 🎭 [为什么没有一个 IDE 或者语言支持用图形等多媒体方式进行注释，大家探讨一下。](https://www.v2ex.com/t/863541#reply11) | Fri Jul 01 2022 3:35 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;最近天天坐着写代码，有时候枯燥又烦躁，有些部分写起来比较绕脑，心想如果在旁边能够附上一张手绘的流程图就好了，用文字很多东西都表述不清楚，下次回看代码的时候又要理解半天，如果能够在旁边放一张图片，辅助文字那很多难以理解的逻辑一目了然就清楚了。为啥程序语言发展这么久，就没有出现过一款支持这种想法的产品呢？&lt;/p&gt;
@@ -217,7 +227,7 @@
 	 
     </details> 
 
-- 🎭 [远程服务器 RDP 断开之后，怎么保证 selenium 可以正常运行？](https://www.v2ex.com/t/863537#reply8) | Fri Jul 01 2022 3:06 PM 
+- 🥷 [远程服务器 RDP 断开之后，怎么保证 selenium 可以正常运行？](https://www.v2ex.com/t/863537#reply8) | Fri Jul 01 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;在这个从 2017 年讨论到 2022 年的 issue： &lt;a href=&quot;https://github.com/microsoft/WinAppDriver/issues/147&quot; rel=&quot;nofollow&quot;&gt;https://github.com/microsoft/WinAppDriver/issues/147&lt;/a&gt;里面，有说过修改注册表、使用.bat 文件断开远程的方法，但是我试过都没用，不知道有没有大神有其他解决办法？&lt;/p&gt;
@@ -225,7 +235,7 @@
 	 
     </details> 
 
-- 🥷 [RowFish -- 一款美的无与伦比的主题](https://www.v2ex.com/t/863534#reply0) | Fri Jul 01 2022 2:39 PM 
+- 🐵 [RowFish -- 一款美的无与伦比的主题](https://www.v2ex.com/t/863534#reply1) | Fri Jul 01 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;blockquote&gt;
@@ -456,14 +466,6 @@
 &lt;li&gt;👉 上传&lt;a href=&quot;https://ritheme.com/theme/792.html&quot; rel=&quot;nofollow&quot;&gt;Rizhuti V2&lt;/a&gt;,上传&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish pro&lt;/a&gt;主题&lt;/li&gt;
 &lt;li&gt;👉 安装所需插件，然后知识付费系统就搭建好啦&lt;/li&gt;
 &lt;/ol&gt;
-
-	 
-    </details> 
-
-- 🐵 [国产操作系统的出路有没有可能是 chromeOS 这种类型](https://www.v2ex.com/t/863531#reply10) | Fri Jul 01 2022 2:19 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;逼迫国内一些常用软件厂商做 web 版，各方面体验都不会太差感觉&lt;/p&gt;
 
 	 
     </details> 
