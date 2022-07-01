@@ -375,29 +375,29 @@ httpServer.bind&lpar;8081&rpar;;
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [241. 为运算表达式设计优先级 : DFS 运用题](https://juejin.cn/post/7115234785022181412) | Fri Jul 01 2022 3:05 AM 
+- 🤗 [掘金技术社区签约计划·众审团招募](https://juejin.cn/post/7115252571203174408) | Fri Jul 01 2022 4:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    签约计划第二期招募活动正在火热报名中，所有技术内容创作者均可报名投稿！ 同时为了更好的把关签约相关文章的整体内容质量，我们诚邀有兴趣且符合要求的掘友们加入签约作者官方内容 
+    </details> 
+
+- 🎡 [Python 什么情况下会生成 pyc 文件？](https://juejin.cn/post/7115248480578175006) | Fri Jul 01 2022 3:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    成员名不允许重复 这部分我的第一个想法是去控制 dict 中的 key 。但这样的方式并不好，__dict__ 范围大，它包含该类的所有属性和方法。而不单单是枚举的命名空间。我在源码中发现 enum  
+    </details> 
+
+- 🕯 [Python 进阶：queue 队列源码分析](https://juejin.cn/post/7115246259241222152) | Fri Jul 01 2022 3:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    起步 queue 模块提供适用于多线程编程的先进先出（FIFO）数据结构。因为它是线程安全的，所以多个线程很轻松地使用同一个实例。 源码分析 先从初始化的函数来看： 从这初始化函数能得到哪些信息呢？首 
+    </details> 
+
+- 🚀 [View Design 物料市场项目已全部适配 Vue.js 3](https://juejin.cn/post/7115245684755791909) | Fri Jul 01 2022 3:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    目前，物料市场中的所有内容均已完成 Vue.js 3 的适配，View Design 付费用户可以免费下载使用。 https://www.iviewui.com/store 
+    </details> 
+
+- 💪 [241. 为运算表达式设计优先级 : DFS 运用题](https://juejin.cn/post/7115234785022181412) | Fri Jul 01 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 241. 为运算表达式设计优先级 ，难度为 中等。 Tag : 「DFS」、「爆搜」 给你一个由数字和运算符组成的字符串 expression，按不同优先级组合 
-    </details> 
-
-- 🎡 [祖传项目架构治理实战](https://juejin.cn/post/7115228142997864479) | Fri Jul 01 2022 2:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文介绍作者接手一个前端祖传代码，并通过一系列方法，将项目改造，复杂度降低100倍的经验，如若你也正在面的类似问题，本文非常推荐阅读。 
-    </details> 
-
-- 🕯 [当你真的学会DataBinding后，你会发现“这玩意真香”!](https://juejin.cn/post/7115224601830883365) | Fri Jul 01 2022 2:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    从被误解到 “真香” 的Jetpack DataBinding，如果你还没有了解过，或者不知道如何使用DataBinding，那么就点进来看看吧，我相信你会有收获的🌹 
-    </details> 
-
-- 🚀 [Fundebug JavaScript插件支持监控HTTP请求数据](https://juejin.cn/post/7115209983834193934) | Fri Jul 01 2022 1:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    Fundebug 前端异常监控服务 Fundebug提供专业的前端异常监控服务。目前网络请求用户行为中不会记录请求的Body的请求的返回数据，为了更好地Debug，特新增3个可配置属性。 
-    </details> 
-
-- 💪 [文艺复兴：2022 年的 Promise 库 NativeBird](https://juejin.cn/post/7115207232798752782) | Fri Jul 01 2022 1:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    我写了一个叫 NativeBird 的原生 Promise 扩展库，它非常轻还兼容 Bluebird 
     </details> 
 <!-- juejin:END -->
 ### 少数派
