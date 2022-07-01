@@ -336,11 +336,11 @@ adb root&lt;/p&gt;
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [优锘科技宣布完成超3亿元融资 中网投、晨山资本、泰康等参投](http://www.techweb.com.cn/finance/2022-07-01/2896471.shtml) | Fri Jul 01 2022 1:23 AM
-- 👹 [优信：1亿美元新融资协议正式签署](http://www.techweb.com.cn/it/2022-06-30/2896435.shtml) | Thu Jun 30 2022 1:30 PM
-- 🪜 [15年做糊21款硬件，谷歌到底栽在哪儿？](http://www.techweb.com.cn/viewpoint/2022-06-30/2896427.shtml) | Thu Jun 30 2022 9:55 AM
-- 🤭 [消费电子需求放缓 韩国5月芯片库存创4年最多](http://www.techweb.com.cn/world/2022-06-30/2896423.shtml) | Thu Jun 30 2022 9:47 AM
-- 🙉 [“女性车”赛道是个伪命题](http://www.techweb.com.cn/viewpoint/2022-06-30/2896418.shtml) | Thu Jun 30 2022 9:39 AM<!-- techweb-allnews:END -->
+- 👍 [郭明錤：苹果iPhone 14在中国的需求可能比iPhone 13更强](http://www.techweb.com.cn/world/2022-07-01/2896525.shtml) | Fri Jul 01 2022 2:45 AM
+- 👹 [谷歌与开发者达成协议 同意支付9000万美元解决抽佣纠纷](http://www.techweb.com.cn/world/2022-07-01/2896521.shtml) | Fri Jul 01 2022 2:21 AM
+- 🪜 [蔚来被灰熊咬了一口，但是不疼](http://www.techweb.com.cn/viewpoint/2022-07-01/2896520.shtml) | Fri Jul 01 2022 2:14 AM
+- 🤭 [小红书上的爱情买卖](http://www.techweb.com.cn/viewpoint/2022-07-01/2896519.shtml) | Fri Jul 01 2022 2:08 AM
+- 🙉 [昔日果汁大王 16个亿卖了](http://www.techweb.com.cn/viewpoint/2022-07-01/2896518.shtml) | Fri Jul 01 2022 2:04 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
