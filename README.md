@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [同一个 20 核 128GB RAM 无显卡虚拟机，在 Windows 10 2016 LTSB+Ubuntu 16.04 下用同版本同参数的 ffmpeg 压缩视频，为什么 Windows 总比 Ubuntu 快 25%？](https://www.v2ex.com/t/863558#reply3) | Fri Jul 01 2022 7:33 PM 
+- 🥸 [同一个 20 核 128GB RAM 无显卡虚拟机，在 Windows 10 2016 LTSB+Ubuntu 16.04 下用同版本同参数的 ffmpeg 压缩视频，为什么 Windows 总比 Ubuntu 快 25%？](https://www.v2ex.com/t/863558#reply7) | Fri Jul 01 2022 7:33 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;测试了好几轮还是这样。区别是 Windows 任务管理器 看 CPU 占用始终 100%，Ubuntu top 命令看 CPU 经常会落到 50%左右 1 秒然后升回 100%。&lt;/p&gt;
@@ -227,7 +227,7 @@
 	 
     </details> 
 
-- 🥷 [远程服务器 RDP 断开之后，怎么保证 selenium 可以正常运行？](https://www.v2ex.com/t/863537#reply8) | Fri Jul 01 2022 3:06 PM 
+- 🥷 [远程服务器 RDP 断开之后，怎么保证 selenium 可以正常运行？](https://www.v2ex.com/t/863537#reply9) | Fri Jul 01 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;在这个从 2017 年讨论到 2022 年的 issue： &lt;a href=&quot;https://github.com/microsoft/WinAppDriver/issues/147&quot; rel=&quot;nofollow&quot;&gt;https://github.com/microsoft/WinAppDriver/issues/147&lt;/a&gt;里面，有说过修改注册表、使用.bat 文件断开远程的方法，但是我试过都没用，不知道有没有大神有其他解决办法？&lt;/p&gt;
