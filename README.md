@@ -202,66 +202,114 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有什么比较好的 mysql to oracle 的实时同步工具](https://www.v2ex.com/t/863368#reply2) | Fri Jul 01 2022 1:51 AM 
+- 🥸 [最近终于有点空了，将 Magician 发布了一个新版本](https://www.v2ex.com/t/863393#reply0) | Fri Jul 01 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;生产环境能用的，不用做加工，原封不动传就可以了。
-如果不能实时，能够以定时任务的方式也是可以的&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Magician 大家可能比较陌生，在介绍本次更新前 先简单介绍一下吧：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Magician 是一套 web 开发的工具集，开发者可以自由选择自己想用的工具，可以选择只用一个小型的 http 服务包开发一个微型服务，也可以搭配 MVC 来实现一个常规的 web 服务，也可以只选择 JDBC 框架 对数据库进行操作，也可以全部一起用，实现一个完整的 web 服务，同时我们也会提供各种小型组件库，来方便开发者。&lt;/p&gt;
+&lt;p&gt;目前已经发布了三个包，分别是 Magician ，Magician-Web ，Magician-JDBC ，他们分别对应，小型 http 服务器，MVC 框架，数据库操作框架。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本次更新的部分在于第一个包 - Magician &lpar;Magician 既是这一套项目的名称，也是核心组件的名称&rpar;：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Magician 是一个基于 Netty 的小型 HTTP 服务包，可以很方便的启动一个 HTTP 服务，支持 WebSocket ，采用注解来配置 Handler 。&lt;/p&gt;
+&lt;p&gt;如果你想用 netty 开发一个 http 服务，但发现它很麻烦，那么 Magician 可能会帮到你。&lt;/p&gt;
+&lt;h2&gt;本次更新的点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;支持自定义配置&lt;/li&gt;
+&lt;li&gt;支持监听多端口&lt;/li&gt;
+&lt;li&gt;同一个项目中，可以多地使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;自定义配置&lt;/h2&gt;
+&lt;p&gt;以前，我们启动一个 Magician 服务，只能用默认的配置，现在有这么几个配置项支持自定义了&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;MagicianConfig magicianConfig = new MagicianConfig&lpar;&rpar;;
+magicianConfig.setNumberOfPorts&lpar;3&rpar;; // 允许同时监听的端口数量，默认 1 个
+magicianConfig.setBossThreads&lpar;1&rpar;; // netty 的 boss 线程数量 默认 1 个
+magicianConfig.setWorkThreads&lpar;3&rpar;; // netty 的 work 线程数量 默认 3 个
+magicianConfig.setNettyLogLevel&lpar;LogLevel.DEBUG&rpar;; // netty 的日志打印级别
+magicianConfig.setMaxInitialLineLength&lpar;4096&rpar;; // http 解码器的构造参数 1 ，默认 4096 跟 netty 一样
+magicianConfig.setMaxHeaderSize&lpar;8192&rpar;; // http 解码器的构造参数 2 ，默认 8192 跟 netty 一样
+magicianConfig.setMaxChunkSize&lpar;8192&rpar;; // http 解码器的构造参数 3 ，默认 8192 跟 netty 一样
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;所有配置项都有默认值，所以在使用的时候 可以只选择自己需要更改的配置项进行设置，设置好了以后需要添加到 HttpServer 实例中&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;Magician.createHttp&lpar;&rpar;
+        .scan&lpar;&quot;com.test&quot;&rpar;// 扫描范围（包名）
+        .setConfig&lpar;magicianConfig&rpar; // 添加配置
+        .bind&lpar;8080&rpar;;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;监听多端口&lt;/h2&gt;
+&lt;p&gt;很简单，只需要调用 bind 方法多次即可&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;HttpServer httpServer = Magician.createHttp&lpar;&rpar;
+        .scan&lpar;&quot;com.test&quot;&rpar;// 扫描范围（包名）
+        .setConfig&lpar;magicianConfig&rpar;; // 添加配置
 
-	 
-    </details> 
-
-- 🤗 [是不是 gc 过程都会导致应用暂停](https://www.v2ex.com/t/863363#reply5) | Fri Jul 01 2022 1:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;有 gc 的语言在 gc 过程中是不是都会暂停，这种暂停在什么情况下会难以接受。&lt;/p&gt;
-&lt;p&gt;如 c c++ rust ，他们在回收内存的过程中会暂停吗？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [请教有没有这样一款管控 iPad 的软件？](https://www.v2ex.com/t/863362#reply14) | Fri Jul 01 2022 1:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;请教有没有这样一款管控 iPad 的软件，在 iPad 上安装之后，这台 iPad 就处于受控状态，通过在 iPhone 或者其他手机上安装一个控制端，就可以控制 iPad 实现如下功能：&lt;/p&gt;
+httpServer.bind&lpar;8080&rpar;;
+httpServer.bind&lpar;8081&rpar;; 
+httpServer.bind&lpar;8082&rpar;; 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;同项目中，多地使用&lt;/h2&gt;
+&lt;p&gt;有时候可能会遇到这种需求，同一个项目中，有些资源是对内的，有些资源是对外的，我们想把这两部分资源隔离开来，这个时候可能就需要启动两个服务了。 在本次升级的时候，为了实现监听多端口，bind 已经变成异步的方法了，在调用 bind 以后，不会阻塞，而是可以继续往下执行，所以这个需求得到了完美的解决， 有两个实现方案。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;设定哪些 app 可以启动，以及可以运行的时长，最好是连 app store 以及相册这种系统自带的 app 都能控制到，未经允许，app store 以及相册也不能打开。因为相册也可以通过隔空投送来相互传输电影、看电影。这种控制是远程且实时的（方便让娃在完成作业后可以允许使用某些程序）。如果不能“真的”实现控制软件的启动，间接通过隐藏软件图标的方式实现也可以接受。&lt;/p&gt;
+&lt;p&gt;监听两个端口，把对外和对内分开&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;可以开启或者关闭 app store 的软件下载安装功能，如果能更进一步实现只能下载安装指定名单内的软件，并且还能实时调整这个名单就更好了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;可以实时开启或者关闭“隔空投送”功能。&lt;/p&gt;
+&lt;p&gt;直接启动两个服务，把端口，配置，线程全都分开&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;看到这里，相信大家都能明白使用场景了，就是在大人不在家的情况下，娃能合理地使用 iPad ，现在让娃完全脱离 iPad 是不可能的，因为学校都开始在课堂上用 iPad 教学了。让他自动自觉合理使用 iPad 也不太可能（如果能有这么自觉，清华北大那都不算事），只能通过软件方式来实现更精准有效的管控。&lt;/p&gt;
-&lt;p&gt;如果目前没有现成的这种软件，能否大致介绍一下实现这种程度的管控所需要的技术栈？&lt;/p&gt;
+&lt;p&gt;第一种方法，不用多说，相信大家都知道怎么做了，咱们重点说说第二种方法，跟监听多端口差不多的思路，只不过变成了启动两个服务，比如：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;启动一个对外服务&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;// 将 8080 端口做为对外的端口，并且 scan 只扫描对外的资源（接口，handler 等）
+
+HttpServer httpServer = Magician.createHttp&lpar;&rpar;
+        .scan&lpar;&quot;com.test&quot;&rpar;// 只扫描对外的资源
+        .setConfig&lpar;magicianConfig&rpar;; // 添加配置
+
+httpServer.bind&lpar;8080&rpar;;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;启动一个对内服务&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;// 将 8081 端口做为对内的端口，并且 scan 只扫描对内的资源（接口，handler 等）
+
+HttpServer httpServer = Magician.createHttp&lpar;&rpar;
+        .scan&lpar;&quot;com.test&quot;&rpar;// 只扫描对内的资源
+        .setConfig&lpar;magicianConfig&rpar;; // 添加配置
+
+httpServer.bind&lpar;8081&rpar;;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;想了解更多，可以访问官网&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://magician-io.com&quot; rel=&quot;nofollow&quot;&gt;https://magician-io.com&lt;/a&gt;&lt;/p&gt;
 
 	 
     </details> 
 
-- 🥷 [问一个终端 adb root 问题](https://www.v2ex.com/t/863361#reply3) | Fri Jul 01 2022 1:34 AM 
+- 🤗 [adguardhome 和 smartdns 分流](https://www.v2ex.com/t/863391#reply0) | Fri Jul 01 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;公司有一个需要测试的 android 设备，限制了来自 adb 外部访问，想测试自动安装 app 之类的需要获得 root 权限。
-交互步骤是
-adb shell
-su
-123456
-回车
-exit
-exit
-adb root&lt;/p&gt;
-&lt;p&gt;怎么把上面这个做成一个自动化脚本要求不需要手动键入密码的过程，尝试了一下子连续组合好像不行，不知道做到进入带参执行 su ，不太熟悉相关指令用法，有大佬知道解决方法或思路吗。&lt;/p&gt;
+	adguardhome 自带分流，这是我整的规则&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/rxvb/adguardhome_upstream_dns&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/rxvb/adguardhome_upstream_dns&lt;/a&gt;&lt;br /&gt;国内域名使用 tls://120.53.53.53 查询，其他的会用境外服务器查询。&lt;br /&gt;&lt;br /&gt;smartdns 也有分流功能，我也整了 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/rxvb/smartdns_rules&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/rxvb/smartdns_rules&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;两个都用了 Loyalsoldier/v2ray-rules-dat
+	 
+    </details> 
+
+- 🎭 [chrome 打开后有多个进程，如何在任务管理器中区分各个进程代表的是什么功能](https://www.v2ex.com/t/863390#reply0) | Fri Jul 01 2022 2:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;比如我怎么找到 gpu 进程、网络进程、代理进程对应的进程号。&lt;/p&gt;
 
 	 
     </details> 
 
-- 🐵 [云计算（运维）的认证，选择哪家好](https://www.v2ex.com/t/863360#reply6) | Fri Jul 01 2022 1:31 AM 
+- 🥷 [dagger.js 使用示例 [7] three.js](https://www.v2ex.com/t/863386#reply2) | Fri Jul 01 2022 2:35 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;爱好，也是下一步想找工作换个行业，有的要求最好有运维认证文件。现在考哪家的认证好？只粗略看到华为、腾讯云&lt;/p&gt;
+	&lt;p&gt;今天分享一个有趣一点的&lt;a href=&quot;https://daggerjs.org&quot; rel=&quot;nofollow&quot;&gt;dagger.js&lt;/a&gt;示例:  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codepen.io/dagger8224/pen/QWmwaLq&quot; rel=&quot;nofollow&quot;&gt;与 three.js 结合使用 demo&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;snapshot&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://assets.codepen.io/5782383/three.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;更多示例请&lt;a href=&quot;https://codepen.io/dagger8224/pens/&quot; rel=&quot;nofollow&quot;&gt;点击查看&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎大家体验试用 dagger.js ，提出宝贵意见和建议。您的支持和帮助是对我莫大的鼓励！！&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [edge 在 mac 上的小问题咨询](https://www.v2ex.com/t/863376#reply2) | Fri Jul 01 2022 2:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;最近尝试由 chorme 转到 edge ，但是在双指滑动对网页进行前翻或者后翻的时候，总是出现一个箭头，而这个箭头要反应个一会才会加载之前的网页就很难受，总感觉卡顿，有什么办法能去掉这个箭头吗？&lt;/p&gt;
 
 	 
     </details> 
