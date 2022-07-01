@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [对 IM 聊天工具 不是特别了解，不过想知道 如 telegram 微信客户端是如何保证与服务器通讯的呢？ 特别是当手机客户端进程都被杀死的情况下。](https://www.v2ex.com/t/863547#reply1) | Fri Jul 01 2022 4:17 PM 
+- 🥸 [对 IM 聊天工具 不是特别了解，不过想知道 如 telegram 微信客户端是如何保证与服务器通讯的呢？ 特别是当手机客户端进程都被杀死的情况下。](https://www.v2ex.com/t/863547#reply2) | Fri Jul 01 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
     
 	
@@ -460,7 +460,7 @@
 	 
     </details> 
 
-- 🐵 [国产操作系统的出路有没有可能是 chromeOS 这种类型](https://www.v2ex.com/t/863531#reply9) | Fri Jul 01 2022 2:19 PM 
+- 🐵 [国产操作系统的出路有没有可能是 chromeOS 这种类型](https://www.v2ex.com/t/863531#reply10) | Fri Jul 01 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;逼迫国内一些常用软件厂商做 web 版，各方面体验都不会太差感觉&lt;/p&gt;
