@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [同一个 20 核 128GB RAM 无显卡虚拟机，在 Windows 10 2016 LTSB+Ubuntu 16.04 下用同版本同参数的 ffmpeg 压缩视频，为什么 Windows 总比 Ubuntu 快 25%？](https://www.v2ex.com/t/863558#reply7) | Fri Jul 01 2022 7:33 PM 
+- 🥸 [同一个 20 核 128GB RAM 无显卡虚拟机，在 Windows 10 2016 LTSB+Ubuntu 16.04 下用同版本同参数的 ffmpeg 压缩视频，为什么 Windows 总比 Ubuntu 快 25%？](https://www.v2ex.com/t/863558#reply9) | Fri Jul 01 2022 7:33 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;测试了好几轮还是这样。区别是 Windows 任务管理器 看 CPU 占用始终 100%，Ubuntu top 命令看 CPU 经常会落到 50%左右 1 秒然后升回 100%。&lt;/p&gt;
@@ -235,7 +235,7 @@
 	 
     </details> 
 
-- 🐵 [RowFish -- 一款美的无与伦比的主题](https://www.v2ex.com/t/863534#reply1) | Fri Jul 01 2022 2:39 PM 
+- 🐵 [RowFish -- 一款美的无与伦比的主题](https://www.v2ex.com/t/863534#reply2) | Fri Jul 01 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;blockquote&gt;
