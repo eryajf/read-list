@@ -284,29 +284,29 @@ VX：cHJhbWluZ2Nu&lt;/p&gt;
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [读书笔记——《未来简史—从智人到智神》](https://juejin.cn/post/7115659178962026510) | Sat Jul 02 2022 6:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    尤瓦尔.赫拉利 一句话总结 唯一不变的是变化，塑造历史的，往往是一部分向前看的创新者，而不是向后看的大众。 脑图 详情 第一章：人类的新议题 几千年来，人类都面临着三大问题：饥荒、战争、瘟疫。但是如今 
-    </details> 
-
-- 🎡 [Rem布局的原理解析](https://juejin.cn/post/7115624980330577934) | Sat Jul 02 2022 4:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    面试中发现很多人对rem布局的原理不是很清楚，只停留在会使用的阶段，rem布局的本质是什么？本文将给大家讲清楚rem布局的原理，使用方案等知识。 
-    </details> 
-
-- 🕯 [AI算法工程师手册、Google软件开发指南、全国高校生活质量信息汇总 | ShowMeAI资讯日报 #2022.07.02](https://juejin.cn/post/7115624213372731428) | Sat Jul 02 2022 4:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 2022-07-02 期，Jupyter图像切分视图、JAX强化学习环境、AI 算法工程师手册、Google的软件开发指南、全国高校生活质量信息汇总、8篇前沿论文… 
-    </details> 
-
-- 🚀 [Web版3D可视化工具，程序员应该知道的97件事，AI前沿论文 | 资讯日报 #2022.07.01](https://juejin.cn/post/7115624647659356167) | Sat Jul 02 2022 4:18 AM 
+- 🤗 [Web版3D可视化工具，程序员应该知道的97件事，AI前沿论文 | 资讯日报 #2022.07.01](https://juejin.cn/post/7115624647659356167) | Sat Jul 02 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
     ShowMeAI资讯日报 2022-07-01 期，Web版3D可视化工具、神经网络推理工具包、十分钟入门MLOps、程序员应该知道的97件事、以对象为中心的多视图数据集、8篇前沿论文… 
     </details> 
 
-- 💪 [重学Android-EditText的进阶操作](https://juejin.cn/post/7115621556700577828) | Sat Jul 02 2022 4:08 AM 
+- 🎡 [论HTML转PDF的各种坑和心得](https://juejin.cn/post/7115401983900516388) | Fri Jul 01 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
-    EditText的进阶使用 EditText 是我们常用的输入框控件，平常我们只是使用它输入文本，这里记录一些它不太常见的操作和一些解决方案。 一、焦点的自动获取 如果一个页面内定义了EditText 
+    题记 正常的HTML转PDF，往上一找一大把，我这里遇到的是一堆问题与条件合在一起。 访问一个接口获取HTML并且转PDF 不能用插件，服务器不能装 HTML不符合XML标准，走XML解析（rende 
+    </details> 
+
+- 🕯 [你敢信？开发一个管理系统我只用了两天时间](https://juejin.cn/post/7115401384119255048) | Fri Jul 01 2022 1:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言： 由于疫情原因，学校通知本学期要提前放暑假，于是老师提前将期末作业公布于众，按照要求开发一个百货中心供应链管理系统，开发周期为半个月，不能更改题目，包括前期的数据库设计、系统的需求文档，后期都要 
+    </details> 
+
+- 🚀 [基于组合优化的旅行商问题](https://juejin.cn/post/7115372994611904548) | Fri Jul 01 2022 12:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路 组合优化 对于有限个点，两两之间的距离已知，要找出连接这些点的最短路径，我们为这个任务取名信使问题（因为每一位邮递员都会遇到这个问题，很多旅行者也会 
+    </details> 
+
+- 💪 [linux服务器安装SonarQube代码检测工具](https://juejin.cn/post/7115369554951274504) | Fri Jul 01 2022 11:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    linux服务器安装SonarQube代码检测工具，后续会更新详细使用以及集成到Jenkins中去内内容。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
