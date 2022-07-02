@@ -410,29 +410,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本周看什么丨最近值得一看一大锅作品](https://sspai.com/post/74085) | Fri Jul 01 2022 10:06 AM 
+- 👹 [设计、体验都出彩，白板工具的又一选择：Muse](https://sspai.com/post/74009) | Sat Jul 02 2022 4:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    在我看来，Muse 是目前唯一一款真正将「白板」概念融入应用设计理念中，并针对性地利用了 iPadOS / macOS 两大平台各自所不同的交互特点 / 优势，使其达到相辅使用体验的工具。&lt;a href=&quot;https://sspai.com/post/74009&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [本周看什么丨最近值得一看一大锅作品](https://sspai.com/post/74085) | Fri Jul 01 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[美剧]怪奇物语第四季（下部）、[美剧]西部世界第四季、[动画]大白！、[动画]银河英雄传说、[韩剧]安娜、[动画]RWBY冰雪帝国、[美剧]公寓大楼里的谋杀案第二季、[动 ...&lt;a href=&quot;https://sspai.com/post/74085&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [走进小众但不冷门的房车世界](https://sspai.com/post/74043) | Fri Jul 01 2022 8:04 AM 
+- 🤭 [走进小众但不冷门的房车世界](https://sspai.com/post/74043) | Fri Jul 01 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
     一篇文章，看懂房车。&lt;a href=&quot;https://sspai.com/post/74043&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [把桌面级功能放进平板电脑——Capture One for iPad 上手体验](https://sspai.com/post/71744) | Fri Jul 01 2022 6:30 AM 
+- 🥸 [把桌面级功能放进平板电脑——Capture One for iPad 上手体验](https://sspai.com/post/71744) | Fri Jul 01 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     老用户可以尝鲜，新用户莫慌入坑。&lt;a href=&quot;https://sspai.com/post/71744&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [为什么我们对修真的世界如此着迷？](https://sspai.com/post/73432) | Fri Jul 01 2022 3:34 AM 
+- 🙉 [为什么我们对修真的世界如此着迷？](https://sspai.com/post/73432) | Fri Jul 01 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     不仅仅是游戏和网文，现在更多的文化作品例如影视剧、漫画、电影等也开始了修真题材的创作，甚至有爆款的产品出圈。即使不接触这些题材的文艺作品，修真世界内的很多设定也在现实中有了广泛的影响力，有些做到了广为人知，甚至形成了影响力不小的亚文化。这让我在阅读或游玩的时候开始留意起了种种元素或设定，试图寻找让人着迷的原因。&lt;a href=&quot;https://sspai.com/post/73432&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：三星开始生产 3nm 芯片、树莓派推出 Pico W 微控制器等](https://sspai.com/post/74081) | Fri Jul 01 2022 12:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    Apple 在韩国地区开放第三方支付系统，App Store 新规生效、应用需内置删除账号功能等。&lt;a href=&quot;https://sspai.com/post/74081&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
