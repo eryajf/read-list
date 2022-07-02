@@ -252,29 +252,29 @@ mkfs 格式化了硬盘，
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅谈JMM和并发三大特性&lpar;volatile、MESI、内存屏障&rpar;](https://juejin.cn/post/7115665196957302820) | Sat Jul 02 2022 6:57 AM 
+- 🤗 [业务自定义菜单设计初步规划（20220702）](https://juejin.cn/post/7115709023176884254) | Sat Jul 02 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参与掘金技术社区创作者签约计划招募活动，点击链接报名投稿。 内容大纲 并行和并发 并发三大特性 CPU硬件架构和缓存一致性 JMM 可见性和volatile、lock前缀指令 有序性和指令重排、 
+    背景 大多情况下，前端的菜单是按照前端路由来定义的，并且是限定死的，这种情况下一般是产品的定义和边界是清楚的，标准化的，不会给用户自定义。这种的大前提也是，公司具有一定的话语权，或者产品具有一定的成熟 
     </details> 
 
-- 🎡 [深入理解ConcurrentHashMap的原理和实现](https://juejin.cn/post/7115635447790829598) | Sat Jul 02 2022 5:01 AM 
+- 🎡 [前端tl的职业成长 | 2022年中总结](https://juejin.cn/post/7115705088895221774) | Sat Jul 02 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    概念 ✔在多线程高并发环境下，使用HashMap进行put、remove操作时存在数据丢失的情况，也就是说HashMap是非线程安全的，因为HashMap底层代码操作数组的数据并未加锁，为了避免这个隐 
+    配图 「时光不负，创作不停，本文正在参加2021年终总结征文大赛」 背景 我是一个超级喜欢读书的人，也是一个喜欢分享的人，在2015年开始按照番茄工作法复盘每日的工作后，慢慢的发展自己有一些知识点，会 
     </details> 
 
-- 🕯 [Java并发进阶之：Java内存模型（JMM）详解](https://juejin.cn/post/7115621343906758692) | Sat Jul 02 2022 4:05 AM 
+- 🕯 [layui表单lay-verify required验证无效解决](https://juejin.cn/post/7115661534092591134) | Sat Jul 02 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-    紧接前文，在了解了计算机的相关概念后，我们正式进入 Java 并发知识的学习。本文主要讲解 Java 内存模型（Java Memory Model，JMM），它是 Java 虚拟机规范中定义的一种模型 
+    使用layui的兄弟萌在哪里？ 尤其是thinkphp+layui的兄弟？ 今天开山第一笔是聊layui表单校验时的一点bug。 
     </details> 
 
-- 🚀 [springboot-Long 精度丢失问题](https://juejin.cn/post/7115616970585669662) | Sat Jul 02 2022 3:49 AM 
+- 🚀 [从入门到入职（不是），新手React开发之——Tesla界面开发教程](https://juejin.cn/post/7115661163207065636) | Sat Jul 02 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在开发中，碰到一个问题，关于数据库Long类型查询后，返回给前端后，精度丢失。就做了一份简单的分析和处理方式 
+    前言 React是FaceBook于2013开源的项目，一经问世就在前端占据一席之地，随着近几年不断发展壮大，已成为前端主流框架。而它之所以能如此成功，主要是因为它的声明式、组件化、高效（虚拟DOM、 
     </details> 
 
-- 💪 [gitlab和jenkins做持续集成构建教程](https://juejin.cn/post/7115588340140736549) | Sat Jul 02 2022 1:57 AM 
+- 💪 [Jetpack Compose 导致的编译劣化 | KCP 简介](https://juejin.cn/post/7115653622926409759) | Sat Jul 02 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-    背景介绍 上一个轮回，我花了三篇文章的时间着重向大家介绍了在条件有限的情况下，如何优雅地进行前端发版和迭代。庆七一，热烈庆祝香港回归，人民生活水平越来越好，昨天上午我自掏腰包买了台服务器，决定由冷兵器 
+    最近的更新频率很低，虽然有很大一部分原因是我在偷懒，另外是因为想从工作中的一些奇怪的问题出发，写一些可能对大家有帮助的内容。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
