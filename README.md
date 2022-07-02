@@ -382,29 +382,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python面试官：请说说并发场景锁怎么用？](https://juejin.cn/post/7115618082927837214) | Sat Jul 02 2022 3:52 AM 
+- 🤗 [Rem布局的原理解析](https://juejin.cn/post/7115624980330577934) | Sat Jul 02 2022 4:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    面试中发现很多人对rem布局的原理不是很清楚，只停留在会使用的阶段，rem布局的本质是什么？本文将给大家讲清楚rem布局的原理，使用方案等知识。 
+    </details> 
+
+- 🎡 [AI算法工程师手册、Google软件开发指南、全国高校生活质量信息汇总 | ShowMeAI资讯日报 #2022.07.02](https://juejin.cn/post/7115624213372731428) | Sat Jul 02 2022 4:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 2022-07-02 期，Jupyter图像切分视图、JAX强化学习环境、AI 算法工程师手册、Google的软件开发指南、全国高校生活质量信息汇总、8篇前沿论文… 
+    </details> 
+
+- 🕯 [重学Android-EditText的进阶操作](https://juejin.cn/post/7115621556700577828) | Sat Jul 02 2022 4:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    EditText的进阶使用 EditText 是我们常用的输入框控件，平常我们只是使用它输入文本，这里记录一些它不太常见的操作和一些解决方案。 一、焦点的自动获取 如果一个页面内定义了EditText 
+    </details> 
+
+- 🚀 [Python面试官：请说说并发场景锁怎么用？](https://juejin.cn/post/7115618082927837214) | Sat Jul 02 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
     今天的文章，我们一起来聊聊多线程场景当中不可或缺的另外一个部分——锁。 如果你学过操作系统，那么对于锁应该不陌生。锁的含义是线程锁，可以用来指定某一个逻辑或者是资源同一时刻只能有一个线程访问。这个很好 
     </details> 
 
-- 🎡 [Python 为什么没有 void 关键字？](https://juejin.cn/post/7115615909028315166) | Sat Jul 02 2022 3:47 AM 
+- 💪 [Python 为什么没有 void 关键字？](https://juejin.cn/post/7115615909028315166) | Sat Jul 02 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
     void 是编程语言中最常见的关键字之一，从字面上理解，它是“空的、空集、空白”的意思，最常用于表示函数的一种返回值类型。 维基百科上有一个定义： 简单来说，void 是一种类型（type），但是没有 
-    </details> 
-
-- 🕯 [Python初学者的自我修养，找到自己的方向](https://juejin.cn/post/7115615312237559838) | Sat Jul 02 2022 3:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    对于我来说Python的应用场景主要是机器学习、深度学习相关，对于其他的场景涉猎不多。因此本文的目的并不是列举出一系列小项目给你们练手，而是希望引导大家思考这个问题，从而找到适合自己的练习项目。 Py 
-    </details> 
-
-- 🚀 [Python 为什么要有 pass 语句？](https://juejin.cn/post/7115614292426096647) | Sat Jul 02 2022 3:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于 Python 中的pass语句，它似乎很简单（只有 4 个字母），即使是没有任何编程经验的初学者也能很快地掌握它的用法。 官方文档 的介绍十分简单 简单而言，pass 是一种空操作（null o 
-    </details> 
-
-- 💪 [学习周刊-总第60期-2022年第25周](https://juejin.cn/post/7115608945103732766) | Sat Jul 02 2022 3:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    0，前言 周刊维护在：https://github.com/eryajf/Learning-Weekly 欢迎投稿，推荐或自荐项目/文章/博客，请提交 issue 。 这里记录我们每周工作学习过程中遇 
     </details> 
 <!-- juejin:END -->
 ### 少数派
