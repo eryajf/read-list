@@ -405,29 +405,29 @@ brew install trzsz-go
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Rem布局的原理解析](https://juejin.cn/post/7115624980330577934) | Sat Jul 02 2022 4:20 AM 
+- 🤗 [读书笔记——《未来简史—从智人到智神》](https://juejin.cn/post/7115659178962026510) | Sat Jul 02 2022 6:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    尤瓦尔.赫拉利 一句话总结 唯一不变的是变化，塑造历史的，往往是一部分向前看的创新者，而不是向后看的大众。 脑图 详情 第一章：人类的新议题 几千年来，人类都面临着三大问题：饥荒、战争、瘟疫。但是如今 
+    </details> 
+
+- 🎡 [Rem布局的原理解析](https://juejin.cn/post/7115624980330577934) | Sat Jul 02 2022 4:20 AM 
     <details><summary>展开描述 ...</summary> 
     面试中发现很多人对rem布局的原理不是很清楚，只停留在会使用的阶段，rem布局的本质是什么？本文将给大家讲清楚rem布局的原理，使用方案等知识。 
     </details> 
 
-- 🎡 [AI算法工程师手册、Google软件开发指南、全国高校生活质量信息汇总 | ShowMeAI资讯日报 #2022.07.02](https://juejin.cn/post/7115624213372731428) | Sat Jul 02 2022 4:19 AM 
+- 🕯 [AI算法工程师手册、Google软件开发指南、全国高校生活质量信息汇总 | ShowMeAI资讯日报 #2022.07.02](https://juejin.cn/post/7115624213372731428) | Sat Jul 02 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
     ShowMeAI资讯日报 2022-07-02 期，Jupyter图像切分视图、JAX强化学习环境、AI 算法工程师手册、Google的软件开发指南、全国高校生活质量信息汇总、8篇前沿论文… 
     </details> 
 
-- 🕯 [重学Android-EditText的进阶操作](https://juejin.cn/post/7115621556700577828) | Sat Jul 02 2022 4:08 AM 
+- 🚀 [Web版3D可视化工具，程序员应该知道的97件事，AI前沿论文 | 资讯日报 #2022.07.01](https://juejin.cn/post/7115624647659356167) | Sat Jul 02 2022 4:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 2022-07-01 期，Web版3D可视化工具、神经网络推理工具包、十分钟入门MLOps、程序员应该知道的97件事、以对象为中心的多视图数据集、8篇前沿论文… 
+    </details> 
+
+- 💪 [重学Android-EditText的进阶操作](https://juejin.cn/post/7115621556700577828) | Sat Jul 02 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
     EditText的进阶使用 EditText 是我们常用的输入框控件，平常我们只是使用它输入文本，这里记录一些它不太常见的操作和一些解决方案。 一、焦点的自动获取 如果一个页面内定义了EditText 
-    </details> 
-
-- 🚀 [Python面试官：请说说并发场景锁怎么用？](https://juejin.cn/post/7115618082927837214) | Sat Jul 02 2022 3:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天的文章，我们一起来聊聊多线程场景当中不可或缺的另外一个部分——锁。 如果你学过操作系统，那么对于锁应该不陌生。锁的含义是线程锁，可以用来指定某一个逻辑或者是资源同一时刻只能有一个线程访问。这个很好 
-    </details> 
-
-- 💪 [Python 为什么没有 void 关键字？](https://juejin.cn/post/7115615909028315166) | Sat Jul 02 2022 3:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    void 是编程语言中最常见的关键字之一，从字面上理解，它是“空的、空集、空白”的意思，最常用于表示函数的一种返回值类型。 维基百科上有一个定义： 简单来说，void 是一种类型（type），但是没有 
     </details> 
 <!-- juejin:END -->
 ### 少数派
