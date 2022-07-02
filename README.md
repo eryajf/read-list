@@ -274,29 +274,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Fetch 请求不转换BLOB正常显示GBK编码的数据](https://juejin.cn/post/7115712079557820447) | Sat Jul 02 2022 9:57 AM 
+- 🤗 [RocketMQ源码系列（4） — NameServer 网络服务器](https://juejin.cn/post/7115707196142256158) | Sat Jul 02 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
-    最近需要升级Google chrome的浏览器扩展。V3版本背景页不在支持XHR，请求需要使用Fetch。因为请求中使用大量的第三方api，有相当一部分api还是GBK的编码，请求回来的就是乱码，因为 
+    Netty 服务端 NettyRemotingServer RocketMQ 是基于 Netty 实现的网络通信，NameServer 与 Broker 通信中，NameServer 网络服务器主要由 
     </details> 
 
-- 🎡 [App 性能优化-启动优化-术篇](https://juejin.cn/post/7115710746876444703) | Sat Jul 02 2022 9:54 AM 
+- 🎡 [Spring中@Autowired注解装配流程](https://juejin.cn/post/7115705482504994829) | Sat Jul 02 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    工欲善其事必先利其器，最近在启动优化上踩了不少坑，笔者写篇文章记录下，也给大家伙避避坑，节省些时间。 
+    ​  众所周知，Autowired注解是通过AutowiredAnnotationBeanPostProcessor来解析的 第一个问题 注册AutowiredAnnotationBeanPostPr 
     </details> 
 
-- 🕯 [高考报志愿：可惜当年填志愿时，没人告诉我这些...](https://juejin.cn/post/7115702836033224734) | Sat Jul 02 2022 9:22 AM 
+- 🕯 [官方推荐：6种Pandas读取Excel的方法，正确答案都写在源代码里了~太方便了](https://juejin.cn/post/7115694621014884365) | Sat Jul 02 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    又到了差不多一年一度的高考志愿填报的时候了。距离我自己填志愿已经过去了很久，现在回头想想看，自己填志愿真的是随便，什么事情都没有提前了解，甚至最后录取的那个学校还是朋友给我填写的，直到拿到录取通知书我 
+    很多朋友使用Python中的Pandas这个库进行Excel的数据处理，数据处理从宏观上分为这么3个阶段：数据读取、数据处理、数据输出。 
     </details> 
 
-- 🚀 [《病人家属，请来一下》读书笔记](https://juejin.cn/post/7115698182260162574) | Sat Jul 02 2022 9:03 AM 
+- 🚀 [Java线程的生命周期，终止与复位](https://juejin.cn/post/7115685645749583885) | Sat Jul 02 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-    这本书虽然是科普书，但是感觉挺鸡肋的，看到书评很多人觉得照顾癌症病人的知识挺有用的，也有很多碰到家庭变故遇到家里多了癌症病人有实际用到的，但是我并不认为照顾人要靠一本完全不认识的人写的书来传授给你。 
+    Thread的生命周期，以及状态之间如何流转。线程的启动，终止与复位怎么处理以及猜测为何要这样处理。 
     </details> 
 
-- 💪 [关于String.intern&lpar;&rpar;返回测试的详细解释以及思考](https://juejin.cn/post/7115695739832926244) | Sat Jul 02 2022 8:54 AM 
+- 💪 [Wireshark TS | TCP 握手异常问题](https://juejin.cn/post/7115685059104866340) | Sat Jul 02 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-    在阅读 周志明《深入理解Java虚拟机时》，遇到了一个经典的案例，理解时花费了较多时间，这里分享一下自己的思考。 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 Wireshark TS | TCP 握手异常问题 
     </details> 
 <!-- juejin:END -->
 ### 少数派
