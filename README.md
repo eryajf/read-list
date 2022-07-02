@@ -540,11 +540,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [三星显示正与Ulvac就8.5代OLED面板生产线沉积设备进行价格谈判](http://www.techweb.com.cn/world/2022-07-01/2896595.shtml) | Fri Jul 01 2022 10:01 AM
-- 👹 [私域的顶级套路，是交个朋友](http://www.techweb.com.cn/viewpoint/2022-07-01/2896577.shtml) | Fri Jul 01 2022 9:21 AM
-- 🪜 [外媒：台积电三大客户苹果、AMD和英伟达罕见同时调整订单量](http://www.techweb.com.cn/world/2022-07-01/2896576.shtml) | Fri Jul 01 2022 9:20 AM
-- 🤭 [Meta大幅削减招聘计划 扎克伯格警告为衰退做好准备](http://www.techweb.com.cn/world/2022-07-01/2896575.shtml) | Fri Jul 01 2022 9:10 AM
-- 🙉 [撤回美股招股书不足一月 Soul转战港股IPO 三年累计净亏超22亿](http://www.techweb.com.cn/finance/2022-07-01/2896572.shtml) | Fri Jul 01 2022 8:46 AM<!-- techweb-allnews:END -->
+- 👍 [蔚小理公布6月成绩单：交付均过万 蔚来追上大部队](http://www.techweb.com.cn/it/2022-07-02/2896608.shtml) | Sat Jul 02 2022 1:14 AM
+- 👹 [三星显示正与Ulvac就8.5代OLED面板生产线沉积设备进行价格谈判](http://www.techweb.com.cn/world/2022-07-01/2896595.shtml) | Fri Jul 01 2022 10:01 AM
+- 🪜 [私域的顶级套路，是交个朋友](http://www.techweb.com.cn/viewpoint/2022-07-01/2896577.shtml) | Fri Jul 01 2022 9:21 AM
+- 🤭 [外媒：台积电三大客户苹果、AMD和英伟达罕见同时调整订单量](http://www.techweb.com.cn/world/2022-07-01/2896576.shtml) | Fri Jul 01 2022 9:20 AM
+- 🙉 [Meta大幅削减招聘计划 扎克伯格警告为衰退做好准备](http://www.techweb.com.cn/world/2022-07-01/2896575.shtml) | Fri Jul 01 2022 9:10 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
