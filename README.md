@@ -468,11 +468,11 @@ brew install trzsz-go
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [台积电7月14日发布二季度财报 预计营收176-182亿美元](http://www.techweb.com.cn/world/2022-07-02/2896614.shtml) | Sat Jul 02 2022 4:01 AM
-- 👹 [雷军：小米成立仅12年 研发投入超过几乎所有科技巨头同时期水平](http://www.techweb.com.cn/it/2022-07-02/2896611.shtml) | Sat Jul 02 2022 2:20 AM
-- 🪜 [中兴通讯：已凭借5G等专利储备获得可持续的许可收益](http://www.techweb.com.cn/it/2022-07-02/2896610.shtml) | Sat Jul 02 2022 1:44 AM
-- 🤭 [宁德时代：公司有超快充技术 最快5分钟充至80%电量](http://www.techweb.com.cn/it/2022-07-02/2896609.shtml) | Sat Jul 02 2022 1:26 AM
-- 🙉 [蔚小理公布6月成绩单：交付均过万 蔚来追上大部队](http://www.techweb.com.cn/it/2022-07-02/2896608.shtml) | Sat Jul 02 2022 1:14 AM<!-- techweb-allnews:END -->
+- 👍 [外媒称暴雪已收购大逃杀游戏工作室Proletariat](http://www.techweb.com.cn/it/2022-07-02/2896616.shtml) | Sat Jul 02 2022 6:32 AM
+- 👹 [北京环球影城首推夏秋漫游卡  7月3日在飞猪官方旗舰店首发](http://www.techweb.com.cn/it/2022-07-02/2896615.shtml) | Sat Jul 02 2022 5:57 AM
+- 🪜 [台积电7月14日发布二季度财报 预计营收176-182亿美元](http://www.techweb.com.cn/world/2022-07-02/2896614.shtml) | Sat Jul 02 2022 4:01 AM
+- 🤭 [雷军：小米成立仅12年 研发投入超过几乎所有科技巨头同时期水平](http://www.techweb.com.cn/it/2022-07-02/2896611.shtml) | Sat Jul 02 2022 2:20 AM
+- 🙉 [中兴通讯：已凭借5G等专利储备获得可持续的许可收益](http://www.techweb.com.cn/it/2022-07-02/2896610.shtml) | Sat Jul 02 2022 1:44 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
