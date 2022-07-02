@@ -269,29 +269,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RocketMQ源码系列（4） — 基于Netty的网络服务器](https://juejin.cn/post/7115707196142256158) | Sat Jul 02 2022 9:38 AM 
+- 🤗 [创业团队如何落地敏捷测试，提升质量效能？丨声网开发者创业讲堂 Vol.03](https://juejin.cn/post/7115785081670598692) | Sat Jul 02 2022 2:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文以敏捷测试催化剂为引子，阐述敏捷测试四要素及其组织管理形式，分享中小公司捉襟见肘的测试困境，初创企业如何成功落地敏捷测试的&quot;脱困&quot;案例，及敏捷测试未来的发展趋势与展望。 
+    </details> 
+
+- 🎡 [Android - setVisibility&lpar;&rpar; 失效，竟然是因为内存泄露](https://juejin.cn/post/7115781013170552840) | Sat Jul 02 2022 2:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、前情概要 目前，我在开发的一个 Android 项目需要各个功能做到线上动态化，其中，App 启动时显示的 Loading 模块，会优先检测加载远程的 Loading 模块，加载失败时，会使用 A 
+    </details> 
+
+- 🕯 [RocketMQ源码系列（4） — 基于Netty的网络服务器](https://juejin.cn/post/7115707196142256158) | Sat Jul 02 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
     Netty 服务端 NettyRemotingServer RocketMQ 是基于 Netty 实现的网络通信，NameServer 与 Broker 通信中，NameServer 网络服务器主要由 
     </details> 
 
-- 🎡 [Spring中@Autowired注解装配流程](https://juejin.cn/post/7115705482504994829) | Sat Jul 02 2022 9:33 AM 
+- 🚀 [Spring中@Autowired注解装配流程](https://juejin.cn/post/7115705482504994829) | Sat Jul 02 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     ​  众所周知，Autowired注解是通过AutowiredAnnotationBeanPostProcessor来解析的 第一个问题 注册AutowiredAnnotationBeanPostPr 
     </details> 
 
-- 🕯 [官方推荐：6种Pandas读取Excel的方法，正确答案都写在源代码里了~太方便了](https://juejin.cn/post/7115694621014884365) | Sat Jul 02 2022 8:50 AM 
+- 💪 [官方推荐：6种Pandas读取Excel的方法，正确答案都写在源代码里了~太方便了](https://juejin.cn/post/7115694621014884365) | Sat Jul 02 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
     很多朋友使用Python中的Pandas这个库进行Excel的数据处理，数据处理从宏观上分为这么3个阶段：数据读取、数据处理、数据输出。 
-    </details> 
-
-- 🚀 [Java线程的生命周期，终止与复位](https://juejin.cn/post/7115685645749583885) | Sat Jul 02 2022 8:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    Thread的生命周期，以及状态之间如何流转。线程的启动，终止与复位怎么处理以及猜测为何要这样处理。 
-    </details> 
-
-- 💪 [Wireshark TS | TCP 握手异常问题](https://juejin.cn/post/7115685059104866340) | Sat Jul 02 2022 8:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 Wireshark TS | TCP 握手异常问题 
     </details> 
 <!-- juejin:END -->
 ### 少数派
