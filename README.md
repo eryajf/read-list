@@ -372,11 +372,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [堵车时，发动机频繁启停会对发动机寿命造成严重的不良影响吗？](http://www.zhihu.com/question/538637976/answer/2552123746?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Thu Jun 30 2022 10:18 AM
-- 🐻 [如何让发动机用更少的油得到更多的动力？](http://www.zhihu.com/question/538030795/answer/2548950607?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Thu Jun 30 2022 10:15 AM
-- 🌏 [醇电混动专用发动机的工作原理是什么？未来醇电混动会取代燃油混动吗？](http://www.zhihu.com/question/539092380/answer/2547100112?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Thu Jun 30 2022 10:13 AM
-- 🕴 [《明日方舟》SideStory「绿野幻梦」活动先导 PV 已出 ，有哪些值得关注的信息？](http://www.zhihu.com/question/540527597/answer/2551358619?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Thu Jun 30 2022 7:11 AM
-- 🌮 [有什么事情是只有漫画这一媒介能做到的?](http://www.zhihu.com/question/535590151/answer/2549845417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) | Wed Jun 29 2022 3:06 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750104) | Wed Jun 29 2022 12:27 AM
+- 🐻 [人类距离复活猛犸象、袋狼和旅鸽等灭绝动物还有多远？](http://daily.zhihu.com/story/9750099) | Wed Jun 29 2022 12:27 AM
+- 🌏 [腥味是什么物质的味道，怎么去除猪肉的腥味？](http://daily.zhihu.com/story/9750102) | Wed Jun 29 2022 12:27 AM
+- 🕴 [按目前对恒星，行星的定义，在稳定的恒星系中，一颗恒星最多可以带多少颗行星？](http://daily.zhihu.com/story/9750090) | Wed Jun 29 2022 12:27 AM
+- 🌮 [英语这种毫无规律的语言是怎么被造出来的？](http://daily.zhihu.com/story/9750095) | Wed Jun 29 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
