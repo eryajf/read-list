@@ -205,7 +205,8 @@
 - 🥸 [JetBrains 要涨价了](https://www.v2ex.com/t/863595#reply0) | Sat Jul 02 2022 4:34 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/bSPyekg&quot; rel=&quot;nofollow&quot;&gt;x&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/bSPyekg&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/bSPyekg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/2VYsYWXR4-73DSrflxR8fw&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/2VYsYWXR4-73DSrflxR8fw&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我正准备走上正轨...&lt;/p&gt;
 
 	 
@@ -364,12 +365,15 @@
 	 
     </details> 
 
-- 🐵 [Google 搜索了下 deno, 蚌埠住了](https://www.v2ex.com/t/863573#reply40) | Sat Jul 02 2022 1:51 AM 
+- 🐵 [云主机是否适合 PT 站](https://www.v2ex.com/t/863570#reply11) | Sat Jul 02 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GujGpwn.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/QqvxtZb.png&quot;/&gt;
-&lt;a href=&quot;https://github.com/denoland/deno/issues/25&quot; rel=&quot;nofollow&quot;&gt;直达链接&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;自己每年都会买一台云主机搭建自用服务，最近注册了 PT 站，想到云主机好像挺适合轻度 PT 用户。&lt;/p&gt;
+&lt;p&gt;7*24 小时，也不用考虑噪音，折损和耗能。
+带宽闲事下载可以去到 10MB/s ，上传 1MB/s 左右。
+各个平台的新老手优惠，成本可能 100 多就有一年。
+对画质要求不高的资源，搭建 plex 观看还算流畅。高画质则拉回本地观看。&lt;/p&gt;
+&lt;p&gt;缺点就是硬盘性价比不高，小水管上传不给力。&lt;/p&gt;
 
 	 
     </details> 
