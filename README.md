@@ -378,29 +378,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python 为什么要有 pass 语句？](https://juejin.cn/post/7115614292426096647) | Sat Jul 02 2022 3:38 AM 
+- 🤗 [Python面试官：请说说并发场景锁怎么用？](https://juejin.cn/post/7115618082927837214) | Sat Jul 02 2022 3:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    今天的文章，我们一起来聊聊多线程场景当中不可或缺的另外一个部分——锁。 如果你学过操作系统，那么对于锁应该不陌生。锁的含义是线程锁，可以用来指定某一个逻辑或者是资源同一时刻只能有一个线程访问。这个很好 
+    </details> 
+
+- 🎡 [Python 为什么没有 void 关键字？](https://juejin.cn/post/7115615909028315166) | Sat Jul 02 2022 3:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    void 是编程语言中最常见的关键字之一，从字面上理解，它是“空的、空集、空白”的意思，最常用于表示函数的一种返回值类型。 维基百科上有一个定义： 简单来说，void 是一种类型（type），但是没有 
+    </details> 
+
+- 🕯 [Python初学者的自我修养，找到自己的方向](https://juejin.cn/post/7115615312237559838) | Sat Jul 02 2022 3:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    对于我来说Python的应用场景主要是机器学习、深度学习相关，对于其他的场景涉猎不多。因此本文的目的并不是列举出一系列小项目给你们练手，而是希望引导大家思考这个问题，从而找到适合自己的练习项目。 Py 
+    </details> 
+
+- 🚀 [Python 为什么要有 pass 语句？](https://juejin.cn/post/7115614292426096647) | Sat Jul 02 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
     关于 Python 中的pass语句，它似乎很简单（只有 4 个字母），即使是没有任何编程经验的初学者也能很快地掌握它的用法。 官方文档 的介绍十分简单 简单而言，pass 是一种空操作（null o 
     </details> 
 
-- 🎡 [学习周刊-总第60期-2022年第25周](https://juejin.cn/post/7115608945103732766) | Sat Jul 02 2022 3:19 AM 
+- 💪 [学习周刊-总第60期-2022年第25周](https://juejin.cn/post/7115608945103732766) | Sat Jul 02 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     0，前言 周刊维护在：https://github.com/eryajf/Learning-Weekly 欢迎投稿，推荐或自荐项目/文章/博客，请提交 issue 。 这里记录我们每周工作学习过程中遇 
-    </details> 
-
-- 🕯 [官方答：在React18中请求数据的正确姿势（其他框架也适用）](https://juejin.cn/post/7115595794425577502) | Sat Jul 02 2022 2:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我卡颂。 一些同学喜欢在useEffect中请求初始数据，类似这样： 但React18并不推荐这种方式。 这么写有什么问题？如果不推荐这种方式，那么推荐的方式是什么呢？ 本文来看看Dan在re 
-    </details> 
-
-- 🚀 [871. 最低加油次数 : 简单优先队列（堆）贪心题](https://juejin.cn/post/7115591584187416589) | Sat Jul 02 2022 2:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 871. 最低加油次数 ，难度为 困难。 Tag : 「贪心」、「优先队列（堆）」、「模拟」 汽车从起点出发驶向目的地，该目的地位于出发位置东面 target  
-    </details> 
-
-- 💪 [WebRTC代码学习之线程管理](https://juejin.cn/post/7115590257109630984) | Sat Jul 02 2022 2:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    # WebRTC的线程管理 为什么是从线程开始切入整个WebRTC源码？相信只要对WebRTC有一定的了解的都清楚WebRTC内部有着自己的一套线程管理机制，WebRTC通过这套线程管理机制，非常简单 
     </details> 
 <!-- juejin:END -->
 ### 少数派
