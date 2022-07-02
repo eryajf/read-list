@@ -350,11 +350,11 @@ VX：cHJhbWluZ2Nu&lt;/p&gt;
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [小鹏回应P7出事故气囊未弹出 撞击力度未达到弹出要求](http://www.techweb.com.cn/it/2022-07-02/2896620.shtml) | Sat Jul 02 2022 7:46 AM
-- 👹 [华为下一代折叠屏手机Mate X3有望12月底推出 多方面进行升级](http://www.techweb.com.cn/it/2022-07-02/2896619.shtml) | Sat Jul 02 2022 7:38 AM
-- 🪜 [郭明錤称iPhone 14芯片订单并未削减 仍预计今年出货9000万-1亿部](http://www.techweb.com.cn/it/2022-07-02/2896618.shtml) | Sat Jul 02 2022 7:12 AM
-- 🤭 [SOC投资集团不满特斯拉计划削减董事会规模 要求进行调查](http://www.techweb.com.cn/it/2022-07-02/2896617.shtml) | Sat Jul 02 2022 6:56 AM
-- 🙉 [外媒称暴雪已收购大逃杀游戏工作室Proletariat](http://www.techweb.com.cn/it/2022-07-02/2896616.shtml) | Sat Jul 02 2022 6:32 AM<!-- techweb-allnews:END -->
+- 👍 [长电科技称已能封装4nm手机芯片 以及CPUGPU射频芯片集成封装](http://www.techweb.com.cn/it/2022-07-02/2896622.shtml) | Sat Jul 02 2022 8:42 AM
+- 👹 [苹果AirPods Pro 2预计今秋推出 与iPhone 14同期发布](http://www.techweb.com.cn/it/2022-07-02/2896621.shtml) | Sat Jul 02 2022 7:53 AM
+- 🪜 [小鹏回应P7出事故气囊未弹出 撞击力度未达到弹出要求](http://www.techweb.com.cn/it/2022-07-02/2896620.shtml) | Sat Jul 02 2022 7:46 AM
+- 🤭 [华为下一代折叠屏手机Mate X3有望12月底推出 多方面进行升级](http://www.techweb.com.cn/it/2022-07-02/2896619.shtml) | Sat Jul 02 2022 7:38 AM
+- 🙉 [郭明錤称iPhone 14芯片订单并未削减 仍预计今年出货9000万-1亿部](http://www.techweb.com.cn/it/2022-07-02/2896618.shtml) | Sat Jul 02 2022 7:12 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
