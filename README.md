@@ -252,29 +252,29 @@ VX：cHJhbWluZ2Nu&lt;/p&gt;
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Web版3D可视化工具，程序员应该知道的97件事，AI前沿论文 | 资讯日报 #2022.07.01](https://juejin.cn/post/7115624647659356167) | Sat Jul 02 2022 4:18 AM 
+- 🤗 [浅谈JMM和并发三大特性&lpar;volatile、MESI、内存屏障&rpar;](https://juejin.cn/post/7115665196957302820) | Sat Jul 02 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 2022-07-01 期，Web版3D可视化工具、神经网络推理工具包、十分钟入门MLOps、程序员应该知道的97件事、以对象为中心的多视图数据集、8篇前沿论文… 
+    我正在参与掘金技术社区创作者签约计划招募活动，点击链接报名投稿。 内容大纲 并行和并发 并发三大特性 CPU硬件架构和缓存一致性 JMM 可见性和volatile、lock前缀指令 有序性和指令重排、 
     </details> 
 
-- 🎡 [论HTML转PDF的各种坑和心得](https://juejin.cn/post/7115401983900516388) | Fri Jul 01 2022 1:54 PM 
+- 🎡 [深入理解ConcurrentHashMap的原理和实现](https://juejin.cn/post/7115635447790829598) | Sat Jul 02 2022 5:01 AM 
     <details><summary>展开描述 ...</summary> 
-    题记 正常的HTML转PDF，往上一找一大把，我这里遇到的是一堆问题与条件合在一起。 访问一个接口获取HTML并且转PDF 不能用插件，服务器不能装 HTML不符合XML标准，走XML解析（rende 
+    概念 ✔在多线程高并发环境下，使用HashMap进行put、remove操作时存在数据丢失的情况，也就是说HashMap是非线程安全的，因为HashMap底层代码操作数组的数据并未加锁，为了避免这个隐 
     </details> 
 
-- 🕯 [你敢信？开发一个管理系统我只用了两天时间](https://juejin.cn/post/7115401384119255048) | Fri Jul 01 2022 1:53 PM 
+- 🕯 [Java并发进阶之：Java内存模型（JMM）详解](https://juejin.cn/post/7115621343906758692) | Sat Jul 02 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-    前言： 由于疫情原因，学校通知本学期要提前放暑假，于是老师提前将期末作业公布于众，按照要求开发一个百货中心供应链管理系统，开发周期为半个月，不能更改题目，包括前期的数据库设计、系统的需求文档，后期都要 
+    紧接前文，在了解了计算机的相关概念后，我们正式进入 Java 并发知识的学习。本文主要讲解 Java 内存模型（Java Memory Model，JMM），它是 Java 虚拟机规范中定义的一种模型 
     </details> 
 
-- 🚀 [基于组合优化的旅行商问题](https://juejin.cn/post/7115372994611904548) | Fri Jul 01 2022 12:02 PM 
+- 🚀 [springboot-Long 精度丢失问题](https://juejin.cn/post/7115616970585669662) | Sat Jul 02 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路 组合优化 对于有限个点，两两之间的距离已知，要找出连接这些点的最短路径，我们为这个任务取名信使问题（因为每一位邮递员都会遇到这个问题，很多旅行者也会 
+    最近在开发中，碰到一个问题，关于数据库Long类型查询后，返回给前端后，精度丢失。就做了一份简单的分析和处理方式 
     </details> 
 
-- 💪 [linux服务器安装SonarQube代码检测工具](https://juejin.cn/post/7115369554951274504) | Fri Jul 01 2022 11:48 AM 
+- 💪 [gitlab和jenkins做持续集成构建教程](https://juejin.cn/post/7115588340140736549) | Sat Jul 02 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-    linux服务器安装SonarQube代码检测工具，后续会更新详细使用以及集成到Jenkins中去内内容。 
+    背景介绍 上一个轮回，我花了三篇文章的时间着重向大家介绍了在条件有限的情况下，如何优雅地进行前端发版和迭代。庆七一，热烈庆祝香港回归，人民生活水平越来越好，昨天上午我自掏腰包买了台服务器，决定由冷兵器 
     </details> 
 <!-- juejin:END -->
 ### 少数派
