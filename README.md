@@ -202,7 +202,61 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [pve 硬盘直通做系统盘 Read Error](https://www.v2ex.com/t/863688#reply5) | Sat Jul 02 2022 2:39 PM 
+- 🥸 [请教一个 Nginx 反代配置写法](https://www.v2ex.com/t/863697#reply0) | Sat Jul 02 2022 3:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;由于现在手上的 WordPress 网站服务器访问比较慢，想用一台香港服务器做 Nginx 全站反代。&lt;/p&gt;
+&lt;p&gt;网站没有做动静分离，只希望对静态图片做缓存处理，动态内容仍然回源。&lt;/p&gt;
+&lt;p&gt;用的是宝塔面板，规则这样写报错&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#PROXY-START/
+
+location ^~ /
+{
+    proxy_pass https://**.**.**.**;
+    proxy_set_header Host ***.*****.***;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header REMOTE-HOST $remote_addr;
+
+    add_header X-Cache $upstream_cache_status;
+    add_header CDN-Server HK;
+
+    #Set Nginx Cache
+    
+
+   	if &lpar; $uri ~* &quot;\.&lpar;gif|png|jpg|css|js|woff|woff2&rpar;$descriptionquot; &rpar;
+    {
+         proxy_ignore_headers Set-Cookie Cache-Control expires;
+         proxy_cache cache_one;
+         proxy_cache_key $host$uri$is_args$args;
+         proxy_cache_valid 200 304 301 302 10080m;
+    }
+    
+   
+}
+
+#PROXY-END/
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;请教大佬们应该如何配置&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [2022 年网游最低要求配置为 2060 的标准，类比到前端领域相当于什么程度的大环境搭配什么类型的架构呢？](https://www.v2ex.com/t/863694#reply3) | Sat Jul 02 2022 3:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;来源于 &lt;a href=&quot;https://www.bilibili.com/video/BV1Sa411s7Ag&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Sa411s7Ag&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;说的是 08 年采用虚幻 3 引擎的网游都黄了&lt;/p&gt;
+&lt;p&gt;优化差 bug 多 开发耦合多 迭代差 ，必须要固定某一版本的虚幻 3 引擎且不升级，才能开发。因为盲目升级的话，游戏项目需要依赖的插件也必须要适配才行。&lt;/p&gt;
+&lt;p&gt;虚幻 4 才开始引擎免费，大批虚幻 3 积累的问题在虚幻 4 得到解决，以至于虚幻 4 引擎的网游遍地都是。&lt;/p&gt;
+&lt;p&gt;2022 年某网游最低配置是 2060 为标准&lt;/p&gt;
+&lt;p&gt;相当于前端上 2022 年 用 WebAssembly 来构件前端项目吗？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [pve 硬盘直通做系统盘 Read Error](https://www.v2ex.com/t/863688#reply6) | Sat Jul 02 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;pve 硬盘直通了一块 Nvme M.2 的盘想用来做 PVE 虚机的系统盘，然后通过&quot;PVE-创建虚拟机&quot;的时候添加的虚拟光驱里面的 ISO 文件，装了一个 Linux 系统到 M.2 里面，结果装完系统把虚拟光驱删掉之后，重启 PVE 虚机，报错 Read Error ，搜了半天也没搜到，现在 PVE 虚机也关不了机。。。
@@ -212,7 +266,7 @@
 	 
     </details> 
 
-- 🤗 [唉， truenas scale 系统好难用呀](https://www.v2ex.com/t/863687#reply3) | Sat Jul 02 2022 2:29 PM 
+- 🥷 [唉， truenas scale 系统好难用呀](https://www.v2ex.com/t/863687#reply8) | Sat Jul 02 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;从群晖（白）转过来，真的是各种不习惯，上次都不知道怎么折腾出来的 smb 协议。最近不知道为啥又不行了。
@@ -223,45 +277,10 @@
 	 
     </details> 
 
-- 🎭 [安卓相册问题](https://www.v2ex.com/t/863676#reply1) | Sat Jul 02 2022 1:16 PM 
+- 🐵 [安卓相册问题](https://www.v2ex.com/t/863676#reply1) | Sat Jul 02 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
     
 	最近在研究相册， 发现 contentprovider 只能查询单一的的相册， 如果要查询视频的话， 需要重新开一个 uri 查询视频， 但是这就涉及到合并排序的问题了， 这个有承诺的什么好的方案针对两次查询合并的方案。 主要是保证一次查询返回正确的数据条数， 这样不会乱掉。
-	 
-    </details> 
-
-- 🥷 [压缩图片文件大小有什么好的方案？](https://www.v2ex.com/t/863667#reply5) | Sat Jul 02 2022 11:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;想寻找一款压缩图片大小的库。&lt;/p&gt;
-&lt;p&gt;背景：
-我是用 vscode 中使用 paste image 给自己的 markdown 插入截图，大部分是 png 图，有些比较大需要压缩一下。&lt;/p&gt;
-&lt;p&gt;我谷歌搜索了一些压缩图片的方法：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;使用 python 的 PIL.Image 自带的&lt;code&gt;pic.save&lpar;&quot;a.png&quot;,optimize=True,quality=80&rpar;&lt;/code&gt;压缩, 35K 能到 27K ，压缩效率不太高（ png quality 再降低不会有影响了）&lt;/li&gt;
-&lt;li&gt;
-改用 webp 格式：&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;p.save&lpar;&#39;a.png.webp&#39;, &#39;webp&#39;, optimize = True, quality = 88&rpar;&lt;/code&gt;35K 压缩到 15K,　质量刚好能接受，不过体积希望尽可能小&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;p.save&lpar;&#39;a.png.webp&#39;, &#39;webp&#39;, optimize = True, quality = 50&rpar;&lt;/code&gt;到 8k 　图片质量有点糊了，不理想。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-使用在线的 tinypng 压缩，输出格式 png ，压缩到了 8K ，质量非常好，没有失真&lt;ol&gt;
-&lt;li&gt;看了输出的格式，发现 tinypng 是把&lt;code&gt;8-bit/color RGBA&lt;/code&gt; 转成了 &lt;code&gt;8-bit colormap&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;tinypng 提供 api 实现压缩，每月有免费额度，还是挺不错的&lt;/li&gt;
-&lt;li&gt;不过我的需求还是离线用，我找到一篇 colormap 文章，自己实现看起来要花很多时间 &lt;a href=&quot;https://towardsdatascience.com/simple-steps-to-create-custom-colormaps-in-python-f21482778aa2&quot; rel=&quot;nofollow&quot;&gt;https://towardsdatascience.com/simple-steps-to-create-custom-colormaps-in-python-f21482778aa2&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;有更好的离线方案、库吗？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [用 obsidian 插入图片, 路劲为相对路径, 为啥在 typora 中还是无法加载图片呢](https://www.v2ex.com/t/863663#reply2) | Sat Jul 02 2022 10:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	
 	 
     </details> 
 <!-- v2ex:END -->
