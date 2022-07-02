@@ -223,6 +223,75 @@
 &lt;li&gt;ZSet:元素长度&amp;lt;64byte&amp;amp;&amp;amp;元素数量&amp;lt;128 个，用 ziplist 编码，否则用 skiplist 编码&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;是双向链表省空间吗？小白不懂&lt;/p&gt;
+- 🥸 [Go 语言语法精练 [2022 最新 Go 语言教程，没有废话，纯干货！]](https://www.v2ex.com/t/863575#reply0) | Sat Jul 02 2022 2:07 AM
+    <details><summary>展开描述 ...</summary>
+
+	&lt;p&gt;01.Go 语言-开篇综述
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;02.开发环境搭建
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=2&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;03.第一个 Go 程序
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=3&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;04.变量与常量
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=4&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;05.01.基本数据类型-整型和浮点型
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=5&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;06.01 数组类型-数组
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=6&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;06.02 切片类型
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=7&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;06.03 Map 类型
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=8&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;07.指针
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=9&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;08.01 结构体-1
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=10&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;08.02 结构体-2
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=11&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=11&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;09.函数
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=12&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=12&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;10.包
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=13&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=13&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;11.流程控制
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=14&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=14&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12.方法
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=15&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=15&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;13.接口
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=16&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=16&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;14.协程
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=17&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=17&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;15.通道-1
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=18&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=18&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;15.通道-2
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=19&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=19&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;16.select
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=20&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=20&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;17.线程同步
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=21&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=21&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;18.错误与异常
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=22&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=22&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;19.make 和 new
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=23&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=23&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;20.头等函数
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=24&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=24&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;21.静态类型与动态类型
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=25&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;22.反射-1
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=26&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=26&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;22.反射-2
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=27&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=27&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;23.结构体里的 Tag 标签
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=28&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=28&lt;/a&gt;&lt;/p&gt;
+
+
+    </details>
+
+- 🤗 [Google 搜索了下 deno, 蚌埠住了](https://www.v2ex.com/t/863573#reply9) | Sat Jul 02 2022 1:51 AM
+    <details><summary>展开描述 ...</summary>
+
+	&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GujGpwn.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/QqvxtZb.png&quot;/&gt;
+&lt;a href=&quot;https://github.com/denoland/deno/issues/25&quot; rel=&quot;nofollow&quot;&gt;直达链接&lt;/a&gt;&lt;/p&gt;
 
 
     </details>
@@ -234,6 +303,15 @@
 &lt;a href=&quot;https://i.imgur.com/q7orBLM.png&quot; rel=&quot;nofollow&quot;&gt;https://i.imgur.com/q7orBLM.png&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;为什么这个 initApp 是个异步的，为什么能够在不是异步的地方直接调用？&lt;/p&gt;
 &lt;p&gt;为什么不写作 initApp&lpar;&rpar;.then&lpar;...&rpar;的样子？&lt;/p&gt;
+- 🎭 [云主机是否适合 PT 站](https://www.v2ex.com/t/863570#reply5) | Sat Jul 02 2022 1:23 AM
+    <details><summary>展开描述 ...</summary>
+
+	&lt;p&gt;自己每年都会买一台云主机搭建自用服务，最近注册了 PT 站，想到云主机好像挺适合轻度 PT 用户。&lt;/p&gt;
+&lt;p&gt;7*24 小时，也不用考虑噪音，折损和耗能。
+带宽闲事下载可以去到 10MB/s ，上传 1MB/s 左右。
+各个平台的新老手优惠，成本可能 100 多就有一年。
+对画质要求不高的资源，搭建 plex 观看还算流畅。高画质则拉回本地观看。&lt;/p&gt;
+&lt;p&gt;缺点就是硬盘性价比不高，小水管上传不给力。&lt;/p&gt;
 
 
     </details>
@@ -242,6 +320,11 @@
     <details><summary>展开描述 ...</summary>
 
 	&lt;p&gt;因为公司不让使用 sublime text, 原来一直使用 sublime text 来临时格式化文件非常好用&lpar;都不需要保存文件, 直接 new 一个就能格式化&rpar;, 最近切到 vscode, 没有找到这个功能, 连自动缩进都没有, 请问下大家, 有没有什么设置或者是插件可以实现这个功能的吗?&lt;/p&gt;
+- 🥷 [[求 Anki 卡片资源]](https://www.v2ex.com/t/863569#reply2) | Sat Jul 02 2022 1:14 AM
+    <details><summary>展开描述 ...</summary>
+
+	&lt;p&gt;小女在学网页开发&lpar;前端+后端: js, css, react 等&rpar;, 用 ANki 制作卡片, 求能搜索到现成 Anki 卡片的搜索引擎 /网站 /聊天群 等&lt;/p&gt;
+&lt;p&gt;谢谢&lt;/p&gt;
 
 
     </details>
@@ -307,6 +390,19 @@ vmgenid: affc6913-ad14-4001-bdb0-7575a5fb4bb7
 vmstate: local-lvm:vm-100-state-init
 &lt;/code&gt;&lt;/pre&gt;
 </details>
+- 🐵 [哪个版本的 win10 适合在虚拟机里？](https://www.v2ex.com/t/863568#reply3) | Sat Jul 02 2022 1:06 AM
+    <details><summary>展开描述 ...</summary>
+
+	&lt;p&gt;我日常使用 manjaro linux ，&lt;/p&gt;
+&lt;p&gt;最近迫于要使用 hbuilderx 搞 uniapp ，&lt;/p&gt;
+&lt;p&gt;由于 wine 运行不了 hbuilderx ，&lt;/p&gt;
+&lt;p&gt;而 node 目前新版本是不支持 win7 的，&lt;/p&gt;
+&lt;p&gt;win10 就是最终的虚拟机选项了，&lt;/p&gt;
+&lt;p&gt;而 win10 又有那么多版本，&lt;/p&gt;
+&lt;p&gt;不知道哪个版本的 win10 最适合虚拟机使用？&lt;/p&gt;
+
+
+    </details>
 <!-- v2ex:END -->
 
 ### 掘金-全站热点
@@ -336,6 +432,30 @@ vmstate: local-lvm:vm-100-state-init
     <details><summary>展开描述 ...</summary>
     《Zabbix对Kafka topic积压数据监控》通过Zabbix自动发现实现对多个消费者组的Topic及Partition的Lag进行监控。因在实际监控中发现有问题，为给感兴趣的
     </details>
+- 🤗 [871. 最低加油次数 : 简单优先队列（堆）贪心题](https://juejin.cn/post/7115591584187416589) | Sat Jul 02 2022 2:10 AM
+    <details><summary>展开描述 ...</summary>
+    题目描述 这是 LeetCode 上的 871. 最低加油次数 ，难度为 困难。 Tag : 「贪心」、「优先队列（堆）」、「模拟」 汽车从起点出发驶向目的地，该目的地位于出发位置东面 target 
+    </details>
+
+- 🎡 [区块链开发：如何从 Solidity 智能合约中发送和取款](https://juejin.cn/post/7115418490030260238) | Fri Jul 01 2022 2:58 PM
+    <details><summary>展开描述 ...</summary>
+    在本文中，将展示一个智能合约的示例，可以向该智能合约发送交易，验证其余额，然后仅当调用该函数的地址是所有者时才将资金提取到一个地址，通常称为所有者模型。
+    </details>
+
+- 🕯 [Android动态更换应用图标](https://juejin.cn/post/7115413271946985480) | Fri Jul 01 2022 2:38 PM
+    <details><summary>展开描述 ...</summary>
+    一、背景 近日，微博官方发布了一项新功能，即可以在App设置中动态更换微博的显示图标样式。根据微博官方的说法，除了最原始的图标外，微博还推出了另外10种不同的样式，既有3D微博、炫彩微博等保留了眼睛造
+    </details>
+
+- 🚀 [Vue 2.7 正式发布，代号为 Naruto](https://juejin.cn/post/7115361618774622216) | Fri Jul 01 2022 11:17 AM
+    <details><summary>展开描述 ...</summary>
+    大家好，我是CUGGZ。 今天，Vue 正式发布了 2.7 版本， 版本名称为 Naturo，即火影忍者。 尽管现在 Vue 3 是默认版本，但由于仍有许多用户由于依赖兼容性、浏览器支持要求或没有足够
+    </details>
+
+- 💪 [被疫情占据的上半年，你还好么？| 2022年中总结👣](https://juejin.cn/post/7115332213448638478) | Fri Jul 01 2022 9:23 AM
+    <details><summary>展开描述 ...</summary>
+    ✒️水满有时观下鹭,草深无处不鸣蛙，打记事起，欢快而酷暑难耐的夏天，总是那么的耐人寻味，而那个夏天，如今是再也回不去了...
+    </details>
 <!-- juejin:END -->
 ### 少数派
 
@@ -364,6 +484,30 @@ vmstate: local-lvm:vm-100-state-init
     <details><summary>展开描述 ...</summary>
     GitHub Copilot 正式上线，尽管还有不少缺陷和争议，但仍然为开发者带来了新颖的使用与开发体验，让我们能愈发感受到「智能」二字的份量。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/on-copilot&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt;
     </details>
+- 👹 [本周看什么丨最近值得一看一大锅作品](https://sspai.com/post/74085) | Fri Jul 01 2022 10:06 AM
+    <details><summary>展开描述 ...</summary>
+    ☕️TL;DR近期佳作推荐：[美剧]怪奇物语第四季（下部）、[美剧]西部世界第四季、[动画]大白！、[动画]银河英雄传说、[韩剧]安娜、[动画]RWBY冰雪帝国、[美剧]公寓大楼里的谋杀案第二季、[动 ...&lt;a href=&quot;https://sspai.com/post/74085&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
+
+- 🐘 [走进小众但不冷门的房车世界](https://sspai.com/post/74043) | Fri Jul 01 2022 8:04 AM
+    <details><summary>展开描述 ...</summary>
+    一篇文章，看懂房车。&lt;a href=&quot;https://sspai.com/post/74043&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
+
+- 🤭 [把桌面级功能放进平板电脑——Capture One for iPad 上手体验](https://sspai.com/post/71744) | Fri Jul 01 2022 6:30 AM
+    <details><summary>展开描述 ...</summary>
+    老用户可以尝鲜，新用户莫慌入坑。&lt;a href=&quot;https://sspai.com/post/71744&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
+
+- 🥸 [为什么我们对修真的世界如此着迷？](https://sspai.com/post/73432) | Fri Jul 01 2022 3:34 AM
+    <details><summary>展开描述 ...</summary>
+    不仅仅是游戏和网文，现在更多的文化作品例如影视剧、漫画、电影等也开始了修真题材的创作，甚至有爆款的产品出圈。即使不接触这些题材的文艺作品，修真世界内的很多设定也在现实中有了广泛的影响力，有些做到了广为人知，甚至形成了影响力不小的亚文化。这让我在阅读或游玩的时候开始留意起了种种元素或设定，试图寻找让人着迷的原因。&lt;a href=&quot;https://sspai.com/post/73432&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
+
+- 🙉 [派早报：三星开始生产 3nm 芯片、树莓派推出 Pico W 微控制器等](https://sspai.com/post/74081) | Fri Jul 01 2022 12:32 AM
+    <details><summary>展开描述 ...</summary>
+    Apple 在韩国地区开放第三方支付系统，App Store 新规生效、应用需内置删除账号功能等。&lt;a href=&quot;https://sspai.com/post/74081&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 <!-- sspai:END -->
 
 ### 知乎每日精选
@@ -378,11 +522,11 @@ vmstate: local-lvm:vm-100-state-init
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [特斯拉申请扩建得克萨斯超级工厂 再建占地50万平方英尺厂房](http://www.techweb.com.cn/world/2022-07-01/2896557.shtml) | Fri Jul 01 2022 6:37 AM
-- 👹 [腾讯收购的短视频平台VUE VLOG宣布将停止运营](http://www.techweb.com.cn/internet/2022-07-01/2896556.shtml) | Fri Jul 01 2022 6:36 AM
-- 🪜 [新茶饮“内卷”升级 喝奈雪领虚拟股票、玩元宇宙 是噱头还是“割韭菜”？](http://www.techweb.com.cn/viewpoint/2022-07-01/2896544.shtml) | Fri Jul 01 2022 6:01 AM
-- 🤭 [土巴兔更新招股书：2021年营业收入6.5亿元 同比增长6.4%](http://www.techweb.com.cn/finance/2022-07-01/2896543.shtml) | Fri Jul 01 2022 5:54 AM
-- 🙉 [FCC批准SpaceX在船舶、飞机等移动工具上使用星链卫星互联网](http://www.techweb.com.cn/world/2022-07-01/2896540.shtml) | Fri Jul 01 2022 4:51 AM<!-- techweb-allnews:END -->
+- 👍 [中兴通讯：已凭借5G等专利储备获得可持续的许可收益](http://www.techweb.com.cn/it/2022-07-02/2896610.shtml) | Sat Jul 02 2022 1:44 AM
+- 👹 [宁德时代：公司有超快充技术 最快5分钟充至80%电量](http://www.techweb.com.cn/it/2022-07-02/2896609.shtml) | Sat Jul 02 2022 1:26 AM
+- 🪜 [蔚小理公布6月成绩单：交付均过万 蔚来追上大部队](http://www.techweb.com.cn/it/2022-07-02/2896608.shtml) | Sat Jul 02 2022 1:14 AM
+- 🤭 [三星显示正与Ulvac就8.5代OLED面板生产线沉积设备进行价格谈判](http://www.techweb.com.cn/world/2022-07-01/2896595.shtml) | Fri Jul 01 2022 10:01 AM
+- 🙉 [私域的顶级套路，是交个朋友](http://www.techweb.com.cn/viewpoint/2022-07-01/2896577.shtml) | Fri Jul 01 2022 9:21 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
