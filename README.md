@@ -202,7 +202,58 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教一个 Nginx 反代配置写法](https://www.v2ex.com/t/863697#reply1) | Sat Jul 02 2022 3:55 PM 
+- 🥸 [坏了，警方数据库泄露了](https://www.v2ex.com/t/863710#reply0) | Sat Jul 02 2022 6:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;&lt;img alt=&quot;图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://mrxn.net/content/uploadfile/202207/thum-f3cc1656772554.jpg&quot;/&gt;
+有人以 10BTC 的价格出售这些数据，并且给出了数据示例（用 xxx 手动隐去隐私信息）&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{
+    &quot;_id&quot;:&quot;AXtaxxxxm8bx7C4KD&quot;,
+    &quot;_index&quot;:&quot;person_address_label_info_master&quot;,
+    &quot;_score&quot;:null,
+    &quot;_source&quot;:{
+        &quot;AGE&quot;:62,
+        &quot;BIRTHDAY&quot;:&quot;1959&quot;,
+        &quot;BPLACE&quot;:&quot;上海市 xxx&quot;,
+        &quot;EDEGREE&quot;:&quot;初中&quot;,
+        &quot;ESCU&quot;:&quot;未服兵役&quot;,
+        &quot;HEIGHT&quot;:&quot;145.0&quot;,
+        &quot;HHPLACE&quot;:&quot;上海 xx 区 xx 二村 xx 号 xx 室 402 室&quot;,
+        &quot;IDNO&quot;:&quot;31011119xxxxxxxx0&quot;,
+        &quot;IDTYPE&quot;:&quot;01&quot;,
+        &quot;LABELNAMES&quot;:&quot;已死亡&quot;,
+        &quot;LABS&quot;:&quot;AB0xxxx&quot;,
+        &quot;MARR&quot;:&quot;离婚&quot;,
+        &quot;NATION&quot;:&quot;汉&quot;,
+        &quot;NPLACE&quot;:&quot;安徽省宿县&quot;,
+        &quot;PHOTO&quot;:&quot;{\&quot;身份证\&quot;:[\&quot;http://oss-cn-shanghai-shga-d01-a.ops.ga.sh/shga-ryzp/SYRK/SYRK_T_ZP_EDZ/xxxxxxxxx.jpg\&quot;]}&quot;,
+        &quot;QUERY_STRING&quot;:&quot;已死亡 安徽省 xx 县 上海市 xx 区 汉 上海 xx 区 xx 村 xx 号 xxx 室 xx 室 xx xx xxx 上海市上海市 xx 区月 xxx 路 xx 弄 xx 号 上海市 xx 区 xx 村 xx 号 xxx 室 402 室&quot;,
+        &quot;RELI&quot;:&quot;无宗教信仰&quot;,
+        &quot;RNAME&quot;:&quot;李 x 贞&quot;,
+        &quot;SEX&quot;:&quot;女&quot;,
+        &quot;STD_ADDRESS&quot;:&quot;xxxxxxx&quot;
+    },
+    &quot;_type&quot;:&quot;a&quot;,
+    &quot;sort&quot;:[
+        6441359
+    ]
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;数据库示例地址： &lt;a href=&quot;https://gofile.io/d/WIFNj0&quot; rel=&quot;nofollow&quot;&gt;https://gofile.io/d/WIFNj0&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [7.1 过了， google workspace 教育版用户怎么样了？](https://www.v2ex.com/t/863705#reply0) | Sat Jul 02 2022 5:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;7.1 过了， 有没有 google workspace 教育版用户现身说法？
+Google 有没有收回空间？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [请教一个 Nginx 反代配置写法](https://www.v2ex.com/t/863697#reply1) | Sat Jul 02 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;由于现在手上的 WordPress 网站服务器访问比较慢，想用一台香港服务器做 Nginx 全站反代。&lt;/p&gt;
@@ -243,7 +294,7 @@ location ^~ /
 	 
     </details> 
 
-- 🤗 [2022 年网游最低要求配置为 2060 的标准，类比到前端领域相当于什么程度的大环境搭配什么类型的架构呢？](https://www.v2ex.com/t/863694#reply3) | Sat Jul 02 2022 3:17 PM 
+- 🥷 [2022 年网游最低要求配置为 2060 的标准，类比到前端领域相当于什么程度的大环境搭配什么类型的架构呢？](https://www.v2ex.com/t/863694#reply3) | Sat Jul 02 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;来源于 &lt;a href=&quot;https://www.bilibili.com/video/BV1Sa411s7Ag&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Sa411s7Ag&lt;/a&gt;&lt;/p&gt;
@@ -256,31 +307,13 @@ location ^~ /
 	 
     </details> 
 
-- 🎭 [pve 硬盘直通做系统盘 Read Error](https://www.v2ex.com/t/863688#reply6) | Sat Jul 02 2022 2:39 PM 
+- 🐵 [pve 硬盘直通做系统盘 Read Error](https://www.v2ex.com/t/863688#reply6) | Sat Jul 02 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;pve 硬盘直通了一块 Nvme M.2 的盘想用来做 PVE 虚机的系统盘，然后通过&quot;PVE-创建虚拟机&quot;的时候添加的虚拟光驱里面的 ISO 文件，装了一个 Linux 系统到 M.2 里面，结果装完系统把虚拟光驱删掉之后，重启 PVE 虚机，报错 Read Error ，搜了半天也没搜到，现在 PVE 虚机也关不了机。。。
 &lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/IvLk491.png&quot;/&gt;
 &lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/SL7NJEs.png&quot;/&gt;&lt;/p&gt;
 
-	 
-    </details> 
-
-- 🥷 [唉， truenas scale 系统好难用呀](https://www.v2ex.com/t/863687#reply9) | Sat Jul 02 2022 2:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;从群晖（白）转过来，真的是各种不习惯，上次都不知道怎么折腾出来的 smb 协议。最近不知道为啥又不行了。
-还有各种奇奇怪怪的问题，然后你又不能直接去操作系统里面改，他自己有各种逻辑。断断续续折腾了好几周，真是太浪费时间了。&lt;/p&gt;
-&lt;p&gt;还有 ext4 硬盘 usb 挂载也有问题，挂载不上&lt;/p&gt;
-&lt;p&gt;不知道还有别的易用性简单一点的 nas 系统么？（除了黑群，还有别的选择不？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [安卓相册问题](https://www.v2ex.com/t/863676#reply1) | Sat Jul 02 2022 1:16 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	最近在研究相册， 发现 contentprovider 只能查询单一的的相册， 如果要查询视频的话， 需要重新开一个 uri 查询视频， 但是这就涉及到合并排序的问题了， 这个有承诺的什么好的方案针对两次查询合并的方案。 主要是保证一次查询返回正确的数据条数， 这样不会乱掉。
 	 
     </details> 
 <!-- v2ex:END -->
