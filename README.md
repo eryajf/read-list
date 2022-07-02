@@ -202,7 +202,14 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [压缩图片文件大小有什么好的方案？](https://www.v2ex.com/t/863667#reply4) | Sat Jul 02 2022 11:50 AM 
+- 🥸 [安卓相册问题](https://www.v2ex.com/t/863676#reply1) | Sat Jul 02 2022 1:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	最近在研究相册， 发现 contentprovider 只能查询单一的的相册， 如果要查询视频的话， 需要重新开一个 uri 查询视频， 但是这就涉及到合并排序的问题了， 这个有承诺的什么好的方案针对两次查询合并的方案。 主要是保证一次查询返回正确的数据条数， 这样不会乱掉。
+	 
+    </details> 
+
+- 🤗 [压缩图片文件大小有什么好的方案？](https://www.v2ex.com/t/863667#reply5) | Sat Jul 02 2022 11:50 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;想寻找一款压缩图片大小的库。&lt;/p&gt;
@@ -230,14 +237,14 @@
 	 
     </details> 
 
-- 🤗 [用 obsidian 插入图片, 路劲为相对路径, 为啥在 typora 中还是无法加载图片呢](https://www.v2ex.com/t/863663#reply0) | Sat Jul 02 2022 10:49 AM 
+- 🎭 [用 obsidian 插入图片, 路劲为相对路径, 为啥在 typora 中还是无法加载图片呢](https://www.v2ex.com/t/863663#reply2) | Sat Jul 02 2022 10:49 AM 
     <details><summary>展开描述 ...</summary> 
     
 	
 	 
     </details> 
 
-- 🎭 [MySQL 用 uuid 作为主键会导致“页分裂”，这种影响可以忽略吗？](https://www.v2ex.com/t/863662#reply6) | Sat Jul 02 2022 10:46 AM 
+- 🥷 [MySQL 用 uuid 作为主键会导致“页分裂”，这种影响可以忽略吗？](https://www.v2ex.com/t/863662#reply10) | Sat Jul 02 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;如题，MySQL&lpar;5.7&rpar; 用 uuid 作为主键会导致“页分裂”，这种影响大吗，是否可以忽略？&lt;/p&gt;
@@ -245,7 +252,7 @@
 	 
     </details> 
 
-- 🥷 [开源了一个 react+vite+ts 的后台管理系统](https://www.v2ex.com/t/863659#reply0) | Sat Jul 02 2022 10:37 AM 
+- 🐵 [开源了一个 react+vite+ts 的后台管理系统](https://www.v2ex.com/t/863659#reply0) | Sat Jul 02 2022 10:37 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;开源了一个 react+vite+ts 的后台管理系统，有需要拿去 &lt;a href=&quot;https://github.com/toomejs/toome&quot; rel=&quot;nofollow&quot;&gt;https://github.com/toomejs/toome&lt;/a&gt;&lt;/p&gt;
@@ -254,18 +261,6 @@
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202207021831221.png&quot;/&gt;
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202207021832509.png&quot;/&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-
-	 
-    </details> 
-
-- 🐵 [公司送了每个月 160 美元使用额度的 Azure 服务器 不知道可以用来干啥呢](https://www.v2ex.com/t/863656#reply7) | Sat Jul 02 2022 10:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;ol&gt;
-&lt;li&gt;搭网站 - 没有这个需求&lt;/li&gt;
-&lt;li&gt;搭梯子 - 有这个计划，但是因为我要看奈飞，而 Azure 的 IP 段好像不能解锁奈飞的非自制剧? 只能继续用机场了吗？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;其他的用途我就没想到了，有没有大侠有什么好的想法&lt;/p&gt;
 
 	 
     </details> 
