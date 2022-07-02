@@ -381,11 +381,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [中兴通讯：已凭借5G等专利储备获得可持续的许可收益](http://www.techweb.com.cn/it/2022-07-02/2896610.shtml) | Sat Jul 02 2022 1:44 AM
-- 👹 [宁德时代：公司有超快充技术 最快5分钟充至80%电量](http://www.techweb.com.cn/it/2022-07-02/2896609.shtml) | Sat Jul 02 2022 1:26 AM
-- 🪜 [蔚小理公布6月成绩单：交付均过万 蔚来追上大部队](http://www.techweb.com.cn/it/2022-07-02/2896608.shtml) | Sat Jul 02 2022 1:14 AM
-- 🤭 [三星显示正与Ulvac就8.5代OLED面板生产线沉积设备进行价格谈判](http://www.techweb.com.cn/world/2022-07-01/2896595.shtml) | Fri Jul 01 2022 10:01 AM
-- 🙉 [私域的顶级套路，是交个朋友](http://www.techweb.com.cn/viewpoint/2022-07-01/2896577.shtml) | Fri Jul 01 2022 9:21 AM<!-- techweb-allnews:END -->
+- 👍 [雷军：小米成立仅12年 研发投入超过几乎所有科技巨头同时期水平](http://www.techweb.com.cn/it/2022-07-02/2896611.shtml) | Sat Jul 02 2022 2:20 AM
+- 👹 [中兴通讯：已凭借5G等专利储备获得可持续的许可收益](http://www.techweb.com.cn/it/2022-07-02/2896610.shtml) | Sat Jul 02 2022 1:44 AM
+- 🪜 [宁德时代：公司有超快充技术 最快5分钟充至80%电量](http://www.techweb.com.cn/it/2022-07-02/2896609.shtml) | Sat Jul 02 2022 1:26 AM
+- 🤭 [蔚小理公布6月成绩单：交付均过万 蔚来追上大部队](http://www.techweb.com.cn/it/2022-07-02/2896608.shtml) | Sat Jul 02 2022 1:14 AM
+- 🙉 [三星显示正与Ulvac就8.5代OLED面板生产线沉积设备进行价格谈判](http://www.techweb.com.cn/world/2022-07-01/2896595.shtml) | Fri Jul 01 2022 10:01 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
