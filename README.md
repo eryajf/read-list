@@ -202,17 +202,50 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [JetBrains 要涨价了](https://www.v2ex.com/t/863595#reply0) | Sat Jul 02 2022 4:34 AM 
+- 🥸 [SpaceVim release v2.0.0](https://www.v2ex.com/t/863612#reply0) | Sat Jul 02 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/bSPyekg&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/bSPyekg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/2VYsYWXR4-73DSrflxR8fw&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/2VYsYWXR4-73DSrflxR8fw&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我正准备走上正轨...&lt;/p&gt;
+	&lt;p&gt;距离上一个版本 v1.9.0 ，已经六个多月了。自上个版本以来，已经 600+commits ，新增了一些模块，同时使用 lua 重新写了大部分功能。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://spacevim.org/SpaceVim-release-v2.0.0/&quot; rel=&quot;nofollow&quot;&gt;https://spacevim.org/SpaceVim-release-v2.0.0/&lt;/a&gt;&lt;/p&gt;
 
 	 
     </details> 
 
-- 🤗 [学习周刊-总第 60 期-2022 年第 25 周](https://www.v2ex.com/t/863589#reply0) | Sat Jul 02 2022 3:20 AM 
+- 🤗 [go 版 trzsz &lpar; 兼容 tmux 的 rz / sz &rpar; 已发布到各大软件分发平台，可以通过 apt、yum 和 brew 等进行安装。](https://www.v2ex.com/t/863602#reply1) | Sat Jul 02 2022 5:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;项目地址：&lt;a href=&quot;https://github.com/trzsz/trzsz-go&quot; rel=&quot;nofollow&quot;&gt;https://github.com/trzsz/trzsz-go&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;版本：v0.1.8 支持目录传输，支持拖文件和目录上传。&lt;/p&gt;
+&lt;p&gt;1 、在 Ubuntu 用 apt 安装&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo apt update &amp;amp;&amp;amp; sudo apt install software-properties-common
+sudo add-apt-repository ppa:trzsz/ppa &amp;amp;&amp;amp; sudo apt update
+sudo apt install trzsz
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Debian 也可以用 &lt;code&gt;ppa:trzsz/ppa&lt;/code&gt; 这个源，详情可参考 &lt;a href=&quot;https://blog.desdelinux.net/en/como-agregar-repositorios-ppa-en-debian/&quot; rel=&quot;nofollow&quot;&gt;How to add PPA repositories in Debian&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2 、在 Fedora 、CentOS 或 RHEL 用 yum 安装&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;echo &#39;[trzsz]
+name=Trzsz Repo
+baseurl=https://yum.fury.io/trzsz/
+enabled=1
+gpgcheck=0&#39; | sudo tee /etc/yum.repos.d/trzsz.repo
+
+sudo yum install trzsz
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;3 、在 macOS 用 brew 安装&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;brew update
+brew install trzsz-go
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;其实，在 Linux 下也以用 &lt;a href=&quot;https://brew.sh/&quot; rel=&quot;nofollow&quot;&gt;Homebrew&lt;/a&gt; 的。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;4 、用法：&lt;/p&gt;
+&lt;p&gt;4.1 、客户端和服务端都安装好 trzsz&lt;/p&gt;
+&lt;p&gt;4.2 、在客户端使用 &lt;code&gt;trzsz ssh xxx&lt;/code&gt; 登录&lt;/p&gt;
+&lt;p&gt;4.3 、在服务端使用 &lt;code&gt;trz&lt;/code&gt; 上传，使用 &lt;code&gt;tsz xxx&lt;/code&gt; 下载&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [学习周刊-总第 60 期-2022 年第 25 周](https://www.v2ex.com/t/863589#reply0) | Sat Jul 02 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;h3&gt;0 ，前言&lt;/h3&gt;
@@ -292,7 +325,7 @@
 	 
     </details> 
 
-- 🎭 [macbook 相关笔忘本屏幕怎么清洗](https://www.v2ex.com/t/863587#reply2) | Sat Jul 02 2022 3:08 AM 
+- 🥷 [macbook 相关笔忘本屏幕怎么清洗](https://www.v2ex.com/t/863587#reply4) | Sat Jul 02 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;即使是全新电脑，用了一小段时间就全是灰尘，或者手印。&lt;/p&gt;
@@ -302,7 +335,7 @@
 	 
     </details> 
 
-- 🥷 [Go 语言语法精练 [2022 最新 Go 语言教程，没有废话，纯干货！]](https://www.v2ex.com/t/863575#reply6) | Sat Jul 02 2022 2:07 AM 
+- 🐵 [Go 语言语法精练 [2022 最新 Go 语言教程，没有废话，纯干货！]](https://www.v2ex.com/t/863575#reply7) | Sat Jul 02 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;01.Go 语言-开篇综述
@@ -361,19 +394,6 @@
 &lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=27&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=27&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;23.结构体里的 Tag 标签
 &lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=28&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=28&lt;/a&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [云主机是否适合 PT 站](https://www.v2ex.com/t/863570#reply11) | Sat Jul 02 2022 1:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;自己每年都会买一台云主机搭建自用服务，最近注册了 PT 站，想到云主机好像挺适合轻度 PT 用户。&lt;/p&gt;
-&lt;p&gt;7*24 小时，也不用考虑噪音，折损和耗能。
-带宽闲事下载可以去到 10MB/s ，上传 1MB/s 左右。
-各个平台的新老手优惠，成本可能 100 多就有一年。
-对画质要求不高的资源，搭建 plex 观看还算流畅。高画质则拉回本地观看。&lt;/p&gt;
-&lt;p&gt;缺点就是硬盘性价比不高，小水管上传不给力。&lt;/p&gt;
 
 	 
     </details> 
