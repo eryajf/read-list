@@ -202,270 +202,79 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [同一个 20 核 128GB RAM 无显卡虚拟机，在 Windows 10 2016 LTSB+Ubuntu 16.04 下用同版本同参数的 ffmpeg 压缩视频，为什么 Windows 总比 Ubuntu 快 25%？](https://www.v2ex.com/t/863558#reply9) | Fri Jul 01 2022 7:33 PM 
+- 🥸 [云主机是否适合 PT 站](https://www.v2ex.com/t/863570#reply3) | Sat Jul 02 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;测试了好几轮还是这样。区别是 Windows 任务管理器 看 CPU 占用始终 100%，Ubuntu top 命令看 CPU 经常会落到 50%左右 1 秒然后升回 100%。&lt;/p&gt;
-&lt;p&gt;都是刚安装完系统，没有第三方软件的状态（懒得装系统，8 年前装了两个系统磁盘镜像的备份一直留着，用到了现在，虚拟机需要装系统就替换上去很方便）&lt;/p&gt;
-&lt;h1&gt;都是二进制文件，没有用包管理器装，确定同一版本&lt;/h1&gt;
+	&lt;p&gt;自己每年都会买一台云主机搭建自用服务，最近注册了 PT 站，想到云主机好像挺适合轻度 PT 用户。&lt;/p&gt;
+&lt;p&gt;7*24 小时，也不用考虑噪音，折损和耗能。
+带宽闲事下载可以去到 10MB/s ，上传 1MB/s 左右。
+各个平台的新老手优惠，成本可能 100 多就有一年。
+对画质要求不高的资源，搭建 plex 观看还算流畅。高画质则拉回本地观看。&lt;/p&gt;
+&lt;p&gt;缺点就是硬盘性价比不高，小水管上传不给力。&lt;/p&gt;
 
 	 
     </details> 
 
-- 🤗 [对 IM 聊天工具 不是特别了解，不过想知道 如 telegram 微信客户端是如何保证与服务器通讯的呢？ 特别是当手机客户端进程都被杀死的情况下。](https://www.v2ex.com/t/863547#reply4) | Fri Jul 01 2022 4:17 PM 
+- 🤗 [[求 Anki 卡片资源]](https://www.v2ex.com/t/863569#reply0) | Sat Jul 02 2022 1:14 AM 
     <details><summary>展开描述 ...</summary> 
     
-	
-	 
-    </details> 
-
-- 🎭 [为什么没有一个 IDE 或者语言支持用图形等多媒体方式进行注释，大家探讨一下。](https://www.v2ex.com/t/863541#reply11) | Fri Jul 01 2022 3:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;最近天天坐着写代码，有时候枯燥又烦躁，有些部分写起来比较绕脑，心想如果在旁边能够附上一张手绘的流程图就好了，用文字很多东西都表述不清楚，下次回看代码的时候又要理解半天，如果能够在旁边放一张图片，辅助文字那很多难以理解的逻辑一目了然就清楚了。为啥程序语言发展这么久，就没有出现过一款支持这种想法的产品呢？&lt;/p&gt;
+	&lt;p&gt;小女在学网页开发&lpar;前端+后端: js, css, react 等&rpar;, 用 ANki 制作卡片, 求能搜索到现成 Anki 卡片的搜索引擎 /网站 /聊天群 等&lt;/p&gt;
+&lt;p&gt;谢谢&lt;/p&gt;
 
 	 
     </details> 
 
-- 🥷 [远程服务器 RDP 断开之后，怎么保证 selenium 可以正常运行？](https://www.v2ex.com/t/863537#reply9) | Fri Jul 01 2022 3:06 PM 
+- 🎭 [哪个版本的 win10 适合在虚拟机里？](https://www.v2ex.com/t/863568#reply2) | Sat Jul 02 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;在这个从 2017 年讨论到 2022 年的 issue： &lt;a href=&quot;https://github.com/microsoft/WinAppDriver/issues/147&quot; rel=&quot;nofollow&quot;&gt;https://github.com/microsoft/WinAppDriver/issues/147&lt;/a&gt;里面，有说过修改注册表、使用.bat 文件断开远程的方法，但是我试过都没用，不知道有没有大神有其他解决办法？&lt;/p&gt;
+	&lt;p&gt;我日常使用 manjaro linux ，&lt;/p&gt;
+&lt;p&gt;最近迫于要使用 hbuilderx 搞 uniapp ，&lt;/p&gt;
+&lt;p&gt;由于 wine 运行不了 hbuilderx ，&lt;/p&gt;
+&lt;p&gt;而 node 目前新版本是不支持 win7 的，&lt;/p&gt;
+&lt;p&gt;win10 就是最终的虚拟机选项了，&lt;/p&gt;
+&lt;p&gt;而 win10 又有那么多版本，&lt;/p&gt;
+&lt;p&gt;不知道哪个版本的 win10 最适合虚拟机使用？&lt;/p&gt;
 
 	 
     </details> 
 
-- 🐵 [RowFish -- 一款美的无与伦比的主题](https://www.v2ex.com/t/863534#reply2) | Fri Jul 01 2022 2:39 PM 
+- 🥷 [群晖如何关闭右上角气泡存储空间不足的提醒？](https://www.v2ex.com/t/863565#reply6) | Sat Jul 02 2022 12:27 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;是一套&lt;a href=&quot;https://docusaurus.io&quot; rel=&quot;nofollow&quot;&gt;Docusaurus&lt;/a&gt;+&lt;a href=&quot;https://wordpress.org&quot; rel=&quot;nofollow&quot;&gt;Wordpress&lt;/a&gt;构建的用于知识分享及知识付费的主题，专为计算机从业者提升个人求职竞争力或从事网络授课 /自媒体等作为副业而打造！ 🐳&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🚀缘起&lt;/h2&gt;
-&lt;p&gt;随着计算机相关工作的内卷日渐严重，许多同学急需一个通过多方位展示和分享自己技能的系统来提升求职竞争力以及方便找到业余的远程兼职，又或者想做网络授课 /自媒体等作为副业。对于长期与计算机打交道的同学，比如程序员，设计师，运维工程师等，由于缺少资源和交际能力，往往从事相关专业之外的副业会比较难，所以个人认为知识付费是一个不错的选择，本主题就是为此而开发。&lt;/p&gt;
-&lt;p&gt;站长研究过一些在线教育的系统，有开源的，有闭源的，甚至前几年自己还是用&lt;a href=&quot;https://laravel.com&quot; rel=&quot;nofollow&quot;&gt;Laravel&lt;/a&gt;框架仿造&lt;a href=&quot;https://php.cn&quot; rel=&quot;nofollow&quot;&gt;php.cn&lt;/a&gt;写了一套类似的系统，但是发现这些系统&lpar;包括我前面写的&rpar;和网站都有一个共通的缺点 —— 那就是搭建出来的平台，整体上商业氛围太浓，对于想要做知识付费但处于起步初期的个人来说非常不友好，尤其在缺少内容和粉丝的情况下，直接拉开了你和粉丝间的距离。而那些某某课堂等 C2C 式的平台大部分要求会对资质要求比较高并且流量质量很低，非常依赖公众号等商业运作，这也偏离了我们搞技术的同学做知识付费的初衷。&lt;/p&gt;
-&lt;p&gt;站长认为个人知识分享与付费应该是一种轻松的，赞助和交友式的互动，但是目前符合这里要求的系统和平台并不多见。对于交友式的知识分享平台目前来说以博客或者个人主页类最为友好，然而纯粹的知识分享很难带来收益，这就导致了很多爱分享的同学无法长期坚持。当然也可以通过一些流量平台来获得收益，但是这些平台直接的收益微乎其微，创造的价值根本无法带来对等的收益。于是乎本人编写了这套结合用户友好度和收益同样重要的主题&lt;/p&gt;
-&lt;p&gt;经过一段时间的思考和摸索，站长认为以个人博客系统为核心，通过文档，视频，问答，作品展示等功能多方位结合的系统比较符合个人 IT 从业者做知识分享和付费使用。&lt;/p&gt;
-&lt;p&gt;于此，站长利用业余时间编写了这套&lt;strong&gt;用于个人搭建带有知识分享和付费的博客系统&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2&gt;🍃介绍&lt;/h2&gt;
-&lt;p&gt;现有版本&lpar;V1&rpar;在功能和开发工作上都会围绕知识分享和付费的需求不断完善。后续版本重点工作不仅仅放在多端的开发上，也会更多的去考虑如何与社交平台进行融合。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这里是本主题暂时的功能和界面，后续会不断完善和增加新功能&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;🐱 简览&lt;/h3&gt;
-&lt;p&gt;🐳 Rowfish&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;rowfish]&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;rowfish&lt;/a&gt;是静态站，没有后台和付费等功能，所以预览直接看&lt;a href=&quot;https://pincman.com&quot; rel=&quot;nofollow&quot;&gt;本站&lt;/a&gt;即可，无需简览,随便搞了张缩略图看一下
-&lt;a href=&quot;https://pic.pincman.com/media/202207012135423.png&quot; rel=&quot;nofollow&quot;&gt;点此查看大图&lt;/a&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202207012135423.png&quot;/&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;🐬 Pro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以下提供的是&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;pro&lt;/a&gt;的简览界面,同时你也可以访问&lt;a href=&quot;https://v.pincman.com&quot; rel=&quot;nofollow&quot;&gt;v.pincman.com&lt;/a&gt;预览&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://pic.pincman.com/media/202207011647835.png&quot; rel=&quot;nofollow&quot;&gt;点此查看大图&lt;/a&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202207011647835.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;🌾功能列表&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;本身是用于日常的知识分享及个人展示，不具备商业营运能力。而&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish Pro&lt;/a&gt;作为一个子系统存在，用于知识付费和会员体系&lt;/p&gt;
-&lt;p&gt;正确以及推荐的使用方式应该以&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;作为主站以&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish pro&lt;/a&gt;作为子站来搭建，可参考&lt;a href=&quot;https://pincman.com/&quot; rel=&quot;nofollow&quot;&gt;本站&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;当然你也可以直接把&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Pro&lt;/a&gt;作为主站而不用&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;，因为&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Pro&lt;/a&gt;自带&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;的几乎所有功能，但是在样式设计，用户体验等方面站长原则上会把&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;做为优先级&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;两者的功能对比如下&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;功能&lt;/th&gt;
-&lt;th&gt;Rowfish&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;博客及评论系统&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;文档系统&lpar;支持在线运行 React 等演示代码&rpar;&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;个人介绍及作品展示&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;生态导航&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;全站搜索&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;护眼效果及暗黑模式切换&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;完美的移动端适配&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;联系和社交平台关注工具条&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;免费课程展示页&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;付费会员系统&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;付费视频课程系统&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;微信，支付宝等多个支付接口&lpar;支持个人使用&rpar;&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;问答系统&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;个人中心&lpar;包括收藏，消息，购买记录，充值，我的问答等&rpar;&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;🌴后续开发&lt;/h3&gt;
-&lt;p&gt;后续所有版本对于购买过的用户会提供一键数据迁移支持&lt;/p&gt;
-&lt;p&gt;在 v2 版本之前会一直保持&lt;a href=&quot;https://docusaurus.io&quot; rel=&quot;nofollow&quot;&gt;Docusaurus&lt;/a&gt;+&lt;a href=&quot;https://wordpress.org&quot; rel=&quot;nofollow&quot;&gt;Wordpress&lt;/a&gt;的组合模式。后续计划如下&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 V1 版本不断增加新功能并修复 BUG 以提升用户体验&lt;/li&gt;
-&lt;li&gt;👉 计划 2022 年底释出 V2 版本的 Alpha ，从 V2 版本开始将使用&lt;a href=&quot;https://nextjs.org&quot; rel=&quot;nofollow&quot;&gt;Nextjs&lt;/a&gt;+&lt;a href=&quot;https://nestjs.com&quot; rel=&quot;nofollow&quot;&gt;Nestjs&lt;/a&gt;重构，变成一站式整体的系统、并会提供小程序端&lt;/li&gt;
-&lt;li&gt;👉 从 V3 版本开始提供桌面端以及移动双平台客户端&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;🧑‍💻 适合人群&lt;/h3&gt;
-&lt;p&gt;本主题适合以下同学&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;👐 如果需要使用&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;pro&lt;/a&gt;需要会使用服务器或云主机架设网站,主站不需要&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👐 会基本的 Markdown 语法编写文档&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👐 如果需要修改&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;rowfish&lt;/a&gt;源码，则需要会一些 CSS ，会&lt;a href=&quot;https://reactjs.org&quot; rel=&quot;nofollow&quot;&gt;React&lt;/a&gt;就更好了&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👐 如果需要修改&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;pro 子系统&lt;/a&gt;源码，需要懂&lt;a href=&quot;https://php.net&quot; rel=&quot;nofollow&quot;&gt;PHP&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👐 需要搭建 UI 比较好看的静态博客系统，用于记录日常笔记&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👐 想要一个知识记录和分享系统来构建自己的知识体系&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👐 想要一个展示个人作品和技能的主页用于提升求职和远程工作的竞争力&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👐 需要一个比较好看的技术栈导航页面&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👐 想要通过知识付费赚取快外&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👐 想以视频教育作为副业&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👐 想通过自媒体运营盈利&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;☘️ 购买与服务&lt;/h2&gt;
-&lt;h3&gt;🪡定价&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;作为对第一批用户朋友的回馈，购买当前 V1 版本后后续版本不再收费，也就是一次付费永久升级使用&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从 V2 版本开始按订阅制收费，将以每年使用费=V1 版本终身使用费来定价&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;定价：¥ 999 元&lpar;不包括&lt;a href=&quot;https://ritheme.com/theme/792.html&quot; rel=&quot;nofollow&quot;&gt;Rizhuti&lt;/a&gt;的授权费用，如有需要请自行购买&rpar;&lt;/p&gt;
-&lt;p&gt;目前初始发布活动价：¥ &lt;strong&gt;699 元&lt;/strong&gt;😊&lpar;在帮助文档和视频做完之前的价格&rpar;&lt;/p&gt;
-&lt;p&gt;可联系站长&lpar;&lt;a href=&quot;http://wpa.qq.com/msgrd?v=3&amp;amp;uin=1849600177&amp;amp;site=qq&amp;amp;menu=yes&quot; rel=&quot;nofollow&quot;&gt;QQ:1849600177 &lt;/a&gt;&rpar;购买&lt;/p&gt;
-&lt;h3&gt;🥤服务&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;目前说明文档正在编写中，暂时在购买后站长提供一对一指导&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;目前提供以下售后服务&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;✍️ 定期更新&lt;a href=&quot;https://pincman.com/docs/rowfish/overview&quot; rel=&quot;nofollow&quot;&gt;官方使用教程&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;✍️ 非紧急问题请在&lt;a href=&quot;https://github.com/rowfishjs/rowfish/discussions&quot; rel=&quot;nofollow&quot;&gt;问答频道&lt;/a&gt;提交，站长将在 12 小时内回复&lt;/li&gt;
-&lt;li&gt;✍️ 提供一对一使用，部署等指导&lpar;如看了教程还不会的话&rpar;&lt;/li&gt;
-&lt;li&gt;✍️ 工作日&lpar;周一-周五&rpar;请直接联系&lt;a href=&quot;http://wpa.qq.com/msgrd?v=3&amp;amp;uin=1849600177&amp;amp;site=qq&amp;amp;menu=yes&quot; rel=&quot;nofollow&quot;&gt;站长 QQ&lt;/a&gt;解决&lt;/li&gt;
-&lt;li&gt;✍️ 其它时间请到收费&lt;a href=&quot;https://qm.qq.com/cgi-bin/qm/qr?k=8eLi_sZAEXR4WOd3xNqI058aOviOXLHU&amp;amp;jump_from=webapi/&quot; rel=&quot;nofollow&quot;&gt;QQ 群&lt;/a&gt;交流，站长或其它管理员看到会帮忙解决&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;需要购买后加入&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202207011929335.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;⚡️须知&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;🍓 本系统不议价，一经售出概不退款，请考虑好后在付款&lt;/li&gt;
-&lt;li&gt;🍉 本系统只售卖本身，云服务器，Rizhuti 授权等须自行购买&lt;/li&gt;
-&lt;li&gt;🍍 为了方便可能会编程的同学可以随心修改源代码，系统没有加密。请尊重他人的劳动，购买后请不要随意传播主题，否则将对您停止提供服务&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;🛠️ 购买&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;需要购买本系统的朋友请直接联系我&lt;a href=&quot;http://wpa.qq.com/msgrd?v=3&amp;amp;uin=1849600177&amp;amp;site=qq&amp;amp;menu=yes&quot; rel=&quot;nofollow&quot;&gt;QQ: 1849600177&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;🔭使用&lt;/h2&gt;
-&lt;p&gt;站长推荐的使用方式是&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;作为主站，&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Pro&lt;/a&gt;只用来搭建动态子站&lpar;用于付费课程，问答，会员中心等&rpar;&lt;/p&gt;
-&lt;p&gt;虽然站长也为&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish Pro&lt;/a&gt;子系统开发复刻了几乎&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;的全部功能，不过&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Pro&lt;/a&gt;整体上更偏向于门户，首页可以搭建出类似在线教育网站的既视感，可以参考&lt;a href=&quot;https://jikexingkong.com&quot; rel=&quot;nofollow&quot;&gt;这个演示&lt;/a&gt;，但是对于处于起步阶段的个人使用来说，不是很友好。为此如果直接把&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Pro&lt;/a&gt;作为单站的话，遇到的一些问题需要你自己去处理&lpar;前提是你会使用&lt;a href=&quot;https://php.net&quot; rel=&quot;nofollow&quot;&gt;PHP&lt;/a&gt;&rpar;，站长不保证没有 BUG...&lt;/p&gt;
-&lt;h3&gt;🔥教程&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;具体的使用方法请直接查看&lt;a href=&quot;https://pincman.com/docs/rowfish/overview&quot; rel=&quot;nofollow&quot;&gt;Rowfish 使用教程&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;使用非常简单，大概如下&lt;a href=&quot;https://pincman.com/docs/rowfish/overview&quot; rel=&quot;nofollow&quot;&gt;点此查看详细教程&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&quot;https://docusaurus.io&quot; rel=&quot;nofollow&quot;&gt;Docusaurus&lt;/a&gt;的详细使用请查看官方文档,&lt;a href=&quot;https://wordpress.org&quot; rel=&quot;nofollow&quot;&gt;Wordpress&lt;/a&gt;就一个后台自己摸索一下就会&lt;/li&gt;
-&lt;li&gt;👉 对于主站的文章和文档可以直接用&lt;a href=&quot;https://obsidian.md/&quot; rel=&quot;nofollow&quot;&gt;Obsidian&lt;/a&gt;或&lt;a href=&quot;https://code.visualstudio.com/&quot; rel=&quot;nofollow&quot;&gt;Vscode&lt;/a&gt;打开&lt;code&gt;./data/content&lt;/code&gt;目录来编辑,也可以使用 Typora 来编辑&lt;/li&gt;
-&lt;li&gt;👉 对于主站的配置，使用&lt;a href=&quot;https://code.visualstudio.com/&quot; rel=&quot;nofollow&quot;&gt;vscode&lt;/a&gt;打开&lt;code&gt;./data&lt;/code&gt;目录更改，如需修改源代码也请使用&lt;a href=&quot;https://code.visualstudio.com/&quot; rel=&quot;nofollow&quot;&gt;Vscode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👉 对于知识付费系统直接进入后台进行内容和配置更改即可&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;✨技术栈&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;采用&lt;a href=&quot;https://docusaurus.io&quot; rel=&quot;nofollow&quot;&gt;Docusaurus&lt;/a&gt;+&lt;a href=&quot;https://wordpress.org&quot; rel=&quot;nofollow&quot;&gt;Wordpress&lt;/a&gt;&lpar;&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Pro&lt;/a&gt;&rpar;结合的方式构建而成，事实上他们是两个不同的系统，而本系统只是基于它们编写的一些主题，插件和组件等。具体采用的技术栈如下&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;再次提醒，&lt;a href=&quot;https://ritheme.com/theme/792.html&quot; rel=&quot;nofollow&quot;&gt;Rizhuti-v2&lt;/a&gt;不需要授权也能使用，但是会有警告，如果介意，请自行&lt;a href=&quot;https://ritheme.com/theme/792.html&quot; rel=&quot;nofollow&quot;&gt;购买主题&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;🐳 Rowfish&lt;/strong&gt;
-&lt;a href=&quot;https://docusaurus.io/&quot; rel=&quot;nofollow&quot;&gt;Docusaurus&lt;/a&gt;的开发的主题。
-因为 Docusaurus 本身是使用&lt;a href=&quot;https://zh-hans.reactjs.org/&quot; rel=&quot;nofollow&quot;&gt;React&lt;/a&gt;编写的用来构建静态博客和文档系统的，
-所以 Rowfish 只是在其之上进行扩展，其原本功能与 Docusaurus 一致。
-需要注意的是，Rowfish 的样式全部使用 TailwindCSS 编写，并没有用到任何如 Antd 这类 UI 库，
-所以很容易进行改动，十分轻量。
-&lt;strong&gt;🐬 Pro 知识付费系统&lt;/strong&gt;
-会员系统等为动态功能，需要用到后端数据库，为了方便，知识付费子系统直接在&lt;a href=&quot;https://wordpress.org/&quot; rel=&quot;nofollow&quot;&gt;Wordpress&lt;/a&gt;,之上编写一个主题来实现。
-如果从头别写一个主题耗费的工作量比较大，所以站长直接在&lt;a href=&quot;https://ritheme.com/theme/792.html&quot; rel=&quot;nofollow&quot;&gt;Rizhuti-V2&lt;/a&gt;上编写了一个子主题，并且整合了
-&lt;a href=&quot;https://wordpress.org/plugins/docspress/&quot; rel=&quot;nofollow&quot;&gt;Docspress&lt;/a&gt;， &lt;a href=&quot;https://anspress.net/&quot; rel=&quot;nofollow&quot;&gt;Anspress&lt;/a&gt;等插件，实现了问答，课程，课程文档等功能&lt;/p&gt;
-&lt;h3&gt;☄️部署方案&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;具体的使用部署方案请直接查看&lt;a href=&quot;https://pincman.com/docs/rowfish/overview&quot; rel=&quot;nofollow&quot;&gt;Rowfish 使用教程&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;简单的部署方案如下&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;👉 &lt;a href=&quot;https://docusaurus.io&quot; rel=&quot;nofollow&quot;&gt;docusaurus&lt;/a&gt;部分可以使用腾讯云的 webify 或者国外的&lt;a href=&quot;https://vercel.com&quot; rel=&quot;nofollow&quot;&gt;vercel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👉 &lt;a href=&quot;https://wordpress.org&quot; rel=&quot;nofollow&quot;&gt;wordpress&lt;/a&gt;部分可以使用宝塔面板来搭建，一个 2 核 4G 的服务器足够&lt;/li&gt;
-&lt;li&gt;👉 图片和视频可以选择腾讯云的 COS ，比较便宜&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;建议的部署方式如下&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;前提是你会一点 Linux&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;👉 购置一台 2 核 4G 的服务器&lt;/li&gt;
-&lt;li&gt;👉 安装&lt;a href=&quot;https://oneinstack.com&quot; rel=&quot;nofollow&quot;&gt;Oneinstack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👉 创建两个网站并绑定域名，一个用于主站，一个用于付费系统&lt;/li&gt;
-&lt;li&gt;👉 安装&lt;a href=&quot;https://gitea.io&quot; rel=&quot;nofollow&quot;&gt;Gitea&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👉 安装&lt;a href=&quot;https://www.drone.io&quot; rel=&quot;nofollow&quot;&gt;Drone&lt;/a&gt;用于 CICD&lt;/li&gt;
-&lt;li&gt;👉 建立&lt;a href=&quot;https://www.drone.io&quot; rel=&quot;nofollow&quot;&gt;Drone&lt;/a&gt;和&lt;a href=&quot;https://gitea.io&quot; rel=&quot;nofollow&quot;&gt;Gitea&lt;/a&gt;的通信&lt;/li&gt;
-&lt;li&gt;👉 把主站代码上传到&lt;a href=&quot;https://gitea.io&quot; rel=&quot;nofollow&quot;&gt;Gitea&lt;/a&gt;中就可以自动部署了&lt;/li&gt;
-&lt;li&gt;👉 如果服务器带宽比较低，可以直接使用腾讯云的 COS 源站功能拉取后展示&lt;/li&gt;
-&lt;li&gt;👉 对于子站，请先安装&lt;a href=&quot;https://wordpress.org&quot; rel=&quot;nofollow&quot;&gt;wordpress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👉 上传&lt;a href=&quot;https://ritheme.com/theme/792.html&quot; rel=&quot;nofollow&quot;&gt;Rizhuti V2&lt;/a&gt;,上传&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish pro&lt;/a&gt;主题&lt;/li&gt;
-&lt;li&gt;👉 安装所需插件，然后知识付费系统就搭建好啦&lt;/li&gt;
-&lt;/ol&gt;
+	&lt;p&gt;&lt;strong&gt;DSM 6.2.1 ，有一个 256G 的小硬盘挂了某心云，缓存是会把硬盘占满的，这个无所谓啦，但是每次进 DSM 右上角气泡那里就会有这个提示，频率还挺高的，已经把能找到有关通知设置的地方都取消了，但是推出后再进 DSM 还是有这个提示。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;http://tva1.sinaimg.cn/large/5fd37818ly1h3s9tu6b5sj21k816m4qp.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;http://tva1.sinaimg.cn/large/5fd37818ly1h3s9utso60j21te19qkjl.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;通过搜索引擎得到的结果基本都是上面这两处设置。&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [parameter pack 仅作为部分参数的问题](https://www.v2ex.com/t/863563#reply6) | Fri Jul 01 2022 11:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;pre&gt;&lt;code class=&quot;language-cpp&quot;&gt;#include &amp;lt;iostream&amp;gt;
+#include &amp;lt;functional&amp;gt;
+
+template &amp;lt;typename ... Args&amp;gt;
+int invoke&lpar;const std::function&amp;lt;int&lpar;Args ..., bool&rpar;&amp;gt;&amp;amp; f, Args&amp;amp;&amp;amp; ... args&rpar; {
+	int r0 = f&lpar;std::forward&amp;lt;Args&amp;gt;&lpar;args&rpar;..., false&rpar;;
+	int r1 = f&lpar;std::forward&amp;lt;Args&amp;gt;&lpar;args&rpar;..., true&rpar;;
+	return r0 + r1;
+}
+
+int g&lpar;int a, int b, bool c&rpar; {
+	if &lpar;c&rpar; {
+		return a + b;
+	}
+	return a - b;
+}
+
+int main&lpar;&rpar; {
+	int r = invoke&lpar;std::function&amp;lt;int&lpar;int,int,bool&rpar;&amp;gt;&lpar;g&rpar;, 2, 3&rpar;;
+	std::cout &amp;lt;&amp;lt; r &amp;lt;&amp;lt; std::endl;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;上面的例子在 GCC 里类型推导不出来。如果 &lt;code&gt;invoke&lt;/code&gt; 的 &lt;code&gt;f&lt;/code&gt; 是 &lt;code&gt;const std::function&amp;lt;int&lpar;bool, Args ...&rpar;&amp;gt;&amp;amp;&lt;/code&gt; 则可以推导出来，但像这种附加的参数在 Args 后面的情况怎么办呢？&lt;/p&gt;
 
 	 
     </details> 
