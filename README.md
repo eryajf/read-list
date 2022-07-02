@@ -202,14 +202,35 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [安卓相册问题](https://www.v2ex.com/t/863676#reply1) | Sat Jul 02 2022 1:16 PM 
+- 🥸 [pve 硬盘直通做系统盘 Read Error](https://www.v2ex.com/t/863688#reply5) | Sat Jul 02 2022 2:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;pve 硬盘直通了一块 Nvme M.2 的盘想用来做 PVE 虚机的系统盘，然后通过&quot;PVE-创建虚拟机&quot;的时候添加的虚拟光驱里面的 ISO 文件，装了一个 Linux 系统到 M.2 里面，结果装完系统把虚拟光驱删掉之后，重启 PVE 虚机，报错 Read Error ，搜了半天也没搜到，现在 PVE 虚机也关不了机。。。
+&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/IvLk491.png&quot;/&gt;
+&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/SL7NJEs.png&quot;/&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [唉， truenas scale 系统好难用呀](https://www.v2ex.com/t/863687#reply3) | Sat Jul 02 2022 2:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;从群晖（白）转过来，真的是各种不习惯，上次都不知道怎么折腾出来的 smb 协议。最近不知道为啥又不行了。
+还有各种奇奇怪怪的问题，然后你又不能直接去操作系统里面改，他自己有各种逻辑。断断续续折腾了好几周，真是太浪费时间了。&lt;/p&gt;
+&lt;p&gt;还有 ext4 硬盘 usb 挂载也有问题，挂载不上&lt;/p&gt;
+&lt;p&gt;不知道还有别的易用性简单一点的 nas 系统么？（除了黑群，还有别的选择不？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [安卓相册问题](https://www.v2ex.com/t/863676#reply1) | Sat Jul 02 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
     
 	最近在研究相册， 发现 contentprovider 只能查询单一的的相册， 如果要查询视频的话， 需要重新开一个 uri 查询视频， 但是这就涉及到合并排序的问题了， 这个有承诺的什么好的方案针对两次查询合并的方案。 主要是保证一次查询返回正确的数据条数， 这样不会乱掉。
 	 
     </details> 
 
-- 🤗 [压缩图片文件大小有什么好的方案？](https://www.v2ex.com/t/863667#reply5) | Sat Jul 02 2022 11:50 AM 
+- 🥷 [压缩图片文件大小有什么好的方案？](https://www.v2ex.com/t/863667#reply5) | Sat Jul 02 2022 11:50 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;想寻找一款压缩图片大小的库。&lt;/p&gt;
@@ -237,31 +258,10 @@
 	 
     </details> 
 
-- 🎭 [用 obsidian 插入图片, 路劲为相对路径, 为啥在 typora 中还是无法加载图片呢](https://www.v2ex.com/t/863663#reply2) | Sat Jul 02 2022 10:49 AM 
+- 🐵 [用 obsidian 插入图片, 路劲为相对路径, 为啥在 typora 中还是无法加载图片呢](https://www.v2ex.com/t/863663#reply2) | Sat Jul 02 2022 10:49 AM 
     <details><summary>展开描述 ...</summary> 
     
 	
-	 
-    </details> 
-
-- 🥷 [MySQL 用 uuid 作为主键会导致“页分裂”，这种影响可以忽略吗？](https://www.v2ex.com/t/863662#reply11) | Sat Jul 02 2022 10:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;如题，MySQL&lpar;5.7&rpar; 用 uuid 作为主键会导致“页分裂”，这种影响大吗，是否可以忽略？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [开源了一个 react+vite+ts 的后台管理系统](https://www.v2ex.com/t/863659#reply0) | Sat Jul 02 2022 10:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;开源了一个 react+vite+ts 的后台管理系统，有需要拿去 &lt;a href=&quot;https://github.com/toomejs/toome&quot; rel=&quot;nofollow&quot;&gt;https://github.com/toomejs/toome&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;另本人收购一个 V2EX 账户，有多余的联系我
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202207021831221.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202207021832509.png&quot;/&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
 	 
     </details> 
 <!-- v2ex:END -->
