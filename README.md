@@ -163,30 +163,30 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM
-    <details><summary>展开描述 ...</summary>
-    夏天户外露营过夜体验
-    </details>
+- 👺 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    夏天户外露营过夜体验 
+    </details> 
 
-- 💯 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM
-    <details><summary>展开描述 ...</summary>
-    PEP 8 -- Python 代码风格指南
-    </details>
+- 💯 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    PEP 8 -- Python 代码风格指南 
+    </details> 
 
-- 🚦 [半年，再聊房车使用体验](https://blog.ops-coffee.cn/r/half-a-year-RV-experience) | Fri Jun 17 2022 2:11 PM
-    <details><summary>展开描述 ...</summary>
-    大通B型房车使用半年之后谈下使用体验
-    </details>
+- 🚦 [半年，再聊房车使用体验](https://blog.ops-coffee.cn/r/half-a-year-RV-experience) | Fri Jun 17 2022 2:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    大通B型房车使用半年之后谈下使用体验 
+    </details> 
 
-- 👨‍🏫 [多云系统之资源管理](https://blog.ops-coffee.cn/s/cKkFlBZnpLd_IRaC6i8i6A) | Fri Jun 10 2022 5:51 PM
-    <details><summary>展开描述 ...</summary>
-    介绍多云系统中同步下来的云上资源如何管理，资源与关系如何建立联接
-    </details>
+- 👨‍🏫 [多云系统之资源管理](https://blog.ops-coffee.cn/s/cKkFlBZnpLd_IRaC6i8i6A) | Fri Jun 10 2022 5:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    介绍多云系统中同步下来的云上资源如何管理，资源与关系如何建立联接 
+    </details> 
 
-- 🌮 [多云系统之多云配置](https://blog.ops-coffee.cn/s/PL31oUCLMEi3H1_1IMMDRA) | Thu May 26 2022 11:06 AM
-    <details><summary>展开描述 ...</summary>
-    通过多云系统可以隐藏多云异构的资源模型和API差异，让用户就像访问一朵云一样访问多云
-    </details>
+- 🌮 [多云系统之多云配置](https://blog.ops-coffee.cn/s/PL31oUCLMEi3H1_1IMMDRA) | Thu May 26 2022 11:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过多云系统可以隐藏多云异构的资源模型和API差异，让用户就像访问一朵云一样访问多云 
+    </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
 
