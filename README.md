@@ -202,44 +202,12 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [坏了，警方数据库泄露了](https://www.v2ex.com/t/863710#reply0) | Sat Jul 02 2022 6:18 PM 
+- 🥸 [分享程序员发展路线图](https://www.v2ex.com/t/863711#reply0) | Sat Jul 02 2022 6:49 PM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;&lt;img alt=&quot;图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://mrxn.net/content/uploadfile/202207/thum-f3cc1656772554.jpg&quot;/&gt;
-有人以 10BTC 的价格出售这些数据，并且给出了数据示例（用 xxx 手动隐去隐私信息）&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{
-    &quot;_id&quot;:&quot;AXtaxxxxm8bx7C4KD&quot;,
-    &quot;_index&quot;:&quot;person_address_label_info_master&quot;,
-    &quot;_score&quot;:null,
-    &quot;_source&quot;:{
-        &quot;AGE&quot;:62,
-        &quot;BIRTHDAY&quot;:&quot;1959&quot;,
-        &quot;BPLACE&quot;:&quot;上海市 xxx&quot;,
-        &quot;EDEGREE&quot;:&quot;初中&quot;,
-        &quot;ESCU&quot;:&quot;未服兵役&quot;,
-        &quot;HEIGHT&quot;:&quot;145.0&quot;,
-        &quot;HHPLACE&quot;:&quot;上海 xx 区 xx 二村 xx 号 xx 室 402 室&quot;,
-        &quot;IDNO&quot;:&quot;31011119xxxxxxxx0&quot;,
-        &quot;IDTYPE&quot;:&quot;01&quot;,
-        &quot;LABELNAMES&quot;:&quot;已死亡&quot;,
-        &quot;LABS&quot;:&quot;AB0xxxx&quot;,
-        &quot;MARR&quot;:&quot;离婚&quot;,
-        &quot;NATION&quot;:&quot;汉&quot;,
-        &quot;NPLACE&quot;:&quot;安徽省宿县&quot;,
-        &quot;PHOTO&quot;:&quot;{\&quot;身份证\&quot;:[\&quot;http://oss-cn-shanghai-shga-d01-a.ops.ga.sh/shga-ryzp/SYRK/SYRK_T_ZP_EDZ/xxxxxxxxx.jpg\&quot;]}&quot;,
-        &quot;QUERY_STRING&quot;:&quot;已死亡 安徽省 xx 县 上海市 xx 区 汉 上海 xx 区 xx 村 xx 号 xxx 室 xx 室 xx xx xxx 上海市上海市 xx 区月 xxx 路 xx 弄 xx 号 上海市 xx 区 xx 村 xx 号 xxx 室 402 室&quot;,
-        &quot;RELI&quot;:&quot;无宗教信仰&quot;,
-        &quot;RNAME&quot;:&quot;李 x 贞&quot;,
-        &quot;SEX&quot;:&quot;女&quot;,
-        &quot;STD_ADDRESS&quot;:&quot;xxxxxxx&quot;
-    },
-    &quot;_type&quot;:&quot;a&quot;,
-    &quot;sort&quot;:[
-        6441359
-    ]
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;数据库示例地址： &lt;a href=&quot;https://gofile.io/d/WIFNj0&quot; rel=&quot;nofollow&quot;&gt;https://gofile.io/d/WIFNj0&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;img alt=&quot;FB0FB20A-0961-4817-8866-6C9C08A8B9FF.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s2.loli.net/2022/07/03/5QbO4onR9SaTB2j.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;另有各路邪教派如销售、市场、客服、测试、滴滴、外卖、快递、跑腿、按摩、算卦等等等&lt;/p&gt;
+&lt;p&gt;非原创，但找不到原出处了，不好意思，原作者看到可联系我追加补充，谢谢&lt;/p&gt;
 
 	 
     </details> 
