@@ -343,54 +343,30 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [为什么我们对修真的世界如此着迷？](https://sspai.com/post/73432) | Fri Jul 01 2022 3:34 AM
-    <details><summary>展开描述 ...</summary>
-    不仅仅是游戏和网文，现在更多的文化作品例如影视剧、漫画、电影等也开始了修真题材的创作，甚至有爆款的产品出圈。即使不接触这些题材的文艺作品，修真世界内的很多设定也在现实中有了广泛的影响力，有些做到了广为人知，甚至形成了影响力不小的亚文化。这让我在阅读或游玩的时候开始留意起了种种元素或设定，试图寻找让人着迷的原因。&lt;a href=&quot;https://sspai.com/post/73432&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 👹 [本周看什么丨最近值得一看一大锅作品](https://sspai.com/post/74085) | Fri Jul 01 2022 10:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[美剧]怪奇物语第四季（下部）、[美剧]西部世界第四季、[动画]大白！、[动画]银河英雄传说、[韩剧]安娜、[动画]RWBY冰雪帝国、[美剧]公寓大楼里的谋杀案第二季、[动 ...&lt;a href=&quot;https://sspai.com/post/74085&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🐘 [派早报：三星开始生产 3nm 芯片、树莓派推出 Pico W 微控制器等](https://sspai.com/post/74081) | Fri Jul 01 2022 12:32 AM
-    <details><summary>展开描述 ...</summary>
-    Apple 在韩国地区开放第三方支付系统，App Store 新规生效、应用需内置删除账号功能等。&lt;a href=&quot;https://sspai.com/post/74081&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🐘 [走进小众但不冷门的房车世界](https://sspai.com/post/74043) | Fri Jul 01 2022 8:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    一篇文章，看懂房车。&lt;a href=&quot;https://sspai.com/post/74043&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🤭 [试播集 07 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74070) | Thu Jun 30 2022 9:08 AM
-    <details><summary>展开描述 ...</summary>
-    关于栏目不少读者表示希望能够见到更多关于文化与书籍的内容，充实书单、丰富精神。机器人特地邀请了Matrix社区作者们来聊聊自己近期阅读的有意思的书籍。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱 ...&lt;a href=&quot;https://sspai.com/post/74070&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🤭 [把桌面级功能放进平板电脑——Capture One for iPad 上手体验](https://sspai.com/post/71744) | Fri Jul 01 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    老用户可以尝鲜，新用户莫慌入坑。&lt;a href=&quot;https://sspai.com/post/71744&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🥸 [一派·在线沙龙 09 | 流媒体为何突然不「香」了](https://sspai.com/post/74075) | Thu Jun 30 2022 9:01 AM
-    <details><summary>展开描述 ...</summary>
-    如果你对流媒体服务感兴趣，欢迎参加 7 月 1 日（本周五）20 点举办的「一派·在线沙龙」直播活动。&lt;a href=&quot;https://sspai.com/post/74075&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🥸 [为什么我们对修真的世界如此着迷？](https://sspai.com/post/73432) | Fri Jul 01 2022 3:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    不仅仅是游戏和网文，现在更多的文化作品例如影视剧、漫画、电影等也开始了修真题材的创作，甚至有爆款的产品出圈。即使不接触这些题材的文艺作品，修真世界内的很多设定也在现实中有了广泛的影响力，有些做到了广为人知，甚至形成了影响力不小的亚文化。这让我在阅读或游玩的时候开始留意起了种种元素或设定，试图寻找让人着迷的原因。&lt;a href=&quot;https://sspai.com/post/73432&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🙉 [GitHub Copilot：革命未竟，未来可期](https://sspai.com/prime/story/on-copilot) | Thu Jun 30 2022 8:01 AM
-    <details><summary>展开描述 ...</summary>
-    GitHub Copilot 正式上线，尽管还有不少缺陷和争议，但仍然为开发者带来了新颖的使用与开发体验，让我们能愈发感受到「智能」二字的份量。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/on-copilot&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt;
-    </details>
-- 👹 [本周看什么丨最近值得一看一大锅作品](https://sspai.com/post/74085) | Fri Jul 01 2022 10:06 AM
-    <details><summary>展开描述 ...</summary>
-    ☕️TL;DR近期佳作推荐：[美剧]怪奇物语第四季（下部）、[美剧]西部世界第四季、[动画]大白！、[动画]银河英雄传说、[韩剧]安娜、[动画]RWBY冰雪帝国、[美剧]公寓大楼里的谋杀案第二季、[动 ...&lt;a href=&quot;https://sspai.com/post/74085&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
-
-- 🐘 [走进小众但不冷门的房车世界](https://sspai.com/post/74043) | Fri Jul 01 2022 8:04 AM
-    <details><summary>展开描述 ...</summary>
-    一篇文章，看懂房车。&lt;a href=&quot;https://sspai.com/post/74043&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
-
-- 🤭 [把桌面级功能放进平板电脑——Capture One for iPad 上手体验](https://sspai.com/post/71744) | Fri Jul 01 2022 6:30 AM
-    <details><summary>展开描述 ...</summary>
-    老用户可以尝鲜，新用户莫慌入坑。&lt;a href=&quot;https://sspai.com/post/71744&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
-
-- 🥸 [为什么我们对修真的世界如此着迷？](https://sspai.com/post/73432) | Fri Jul 01 2022 3:34 AM
-    <details><summary>展开描述 ...</summary>
-    不仅仅是游戏和网文，现在更多的文化作品例如影视剧、漫画、电影等也开始了修真题材的创作，甚至有爆款的产品出圈。即使不接触这些题材的文艺作品，修真世界内的很多设定也在现实中有了广泛的影响力，有些做到了广为人知，甚至形成了影响力不小的亚文化。这让我在阅读或游玩的时候开始留意起了种种元素或设定，试图寻找让人着迷的原因。&lt;a href=&quot;https://sspai.com/post/73432&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
-
-- 🙉 [派早报：三星开始生产 3nm 芯片、树莓派推出 Pico W 微控制器等](https://sspai.com/post/74081) | Fri Jul 01 2022 12:32 AM
-    <details><summary>展开描述 ...</summary>
-    Apple 在韩国地区开放第三方支付系统，App Store 新规生效、应用需内置删除账号功能等。&lt;a href=&quot;https://sspai.com/post/74081&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🙉 [派早报：三星开始生产 3nm 芯片、树莓派推出 Pico W 微控制器等](https://sspai.com/post/74081) | Fri Jul 01 2022 12:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    Apple 在韩国地区开放第三方支付系统，App Store 新规生效、应用需内置删除账号功能等。&lt;a href=&quot;https://sspai.com/post/74081&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 <!-- sspai:END -->
 
 ### 知乎每日精选
