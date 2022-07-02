@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [区块链开发：如何从 Solidity 智能合约中发送和取款](https://juejin.cn/post/7115418490030260238) | Fri Jul 01 2022 2:58 PM 
+- 🤗 [871. 最低加油次数 : 简单优先队列（堆）贪心题](https://juejin.cn/post/7115591584187416589) | Sat Jul 02 2022 2:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 871. 最低加油次数 ，难度为 困难。 Tag : 「贪心」、「优先队列（堆）」、「模拟」 汽车从起点出发驶向目的地，该目的地位于出发位置东面 target  
+    </details> 
+
+- 🎡 [区块链开发：如何从 Solidity 智能合约中发送和取款](https://juejin.cn/post/7115418490030260238) | Fri Jul 01 2022 2:58 PM 
     <details><summary>展开描述 ...</summary> 
     在本文中，将展示一个智能合约的示例，可以向该智能合约发送交易，验证其余额，然后仅当调用该函数的地址是所有者时才将资金提取到一个地址，通常称为所有者模型。 
     </details> 
 
-- 🎡 [Android动态更换应用图标](https://juejin.cn/post/7115413271946985480) | Fri Jul 01 2022 2:38 PM 
+- 🕯 [Android动态更换应用图标](https://juejin.cn/post/7115413271946985480) | Fri Jul 01 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
     一、背景 近日，微博官方发布了一项新功能，即可以在App设置中动态更换微博的显示图标样式。根据微博官方的说法，除了最原始的图标外，微博还推出了另外10种不同的样式，既有3D微博、炫彩微博等保留了眼睛造 
     </details> 
 
-- 🕯 [Vue 2.7 正式发布，代号为 Naruto](https://juejin.cn/post/7115361618774622216) | Fri Jul 01 2022 11:17 AM 
+- 🚀 [Vue 2.7 正式发布，代号为 Naruto](https://juejin.cn/post/7115361618774622216) | Fri Jul 01 2022 11:17 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是CUGGZ。 今天，Vue 正式发布了 2.7 版本， 版本名称为 Naturo，即火影忍者。 尽管现在 Vue 3 是默认版本，但由于仍有许多用户由于依赖兼容性、浏览器支持要求或没有足够 
     </details> 
 
-- 🚀 [被疫情占据的上半年，你还好么？| 2022年中总结👣](https://juejin.cn/post/7115332213448638478) | Fri Jul 01 2022 9:23 AM 
+- 💪 [被疫情占据的上半年，你还好么？| 2022年中总结👣](https://juejin.cn/post/7115332213448638478) | Fri Jul 01 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
     ✒️水满有时观下鹭,草深无处不鸣蛙，打记事起，欢快而酷暑难耐的夏天，总是那么的耐人寻味，而那个夏天，如今是再也回不去了... 
-    </details> 
-
-- 💪 [架构师成长之路（践行一）----标杆企业的学习感悟](https://juejin.cn/post/7115330301953310750) | Fri Jul 01 2022 9:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    技术不止，学习不断。架构师的学习更是需要不断的进行知识结构重组，不断进行洗牌的操作，向标杆企业的学习就是一次洗牌的契机。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
