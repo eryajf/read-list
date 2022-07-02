@@ -202,7 +202,16 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [学习周刊-总第 60 期-2022 年第 25 周](https://www.v2ex.com/t/863589#reply0) | Sat Jul 02 2022 3:20 AM 
+- 🥸 [JetBrains 要涨价了](https://www.v2ex.com/t/863595#reply0) | Sat Jul 02 2022 4:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/bSPyekg&quot; rel=&quot;nofollow&quot;&gt;x&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我正准备走上正轨...&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [学习周刊-总第 60 期-2022 年第 25 周](https://www.v2ex.com/t/863589#reply0) | Sat Jul 02 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;h3&gt;0 ，前言&lt;/h3&gt;
@@ -282,7 +291,7 @@
 	 
     </details> 
 
-- 🤗 [macbook 相关笔忘本屏幕怎么清洗](https://www.v2ex.com/t/863587#reply2) | Sat Jul 02 2022 3:08 AM 
+- 🎭 [macbook 相关笔忘本屏幕怎么清洗](https://www.v2ex.com/t/863587#reply2) | Sat Jul 02 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;即使是全新电脑，用了一小段时间就全是灰尘，或者手印。&lt;/p&gt;
@@ -292,7 +301,7 @@
 	 
     </details> 
 
-- 🎭 [Go 语言语法精练 [2022 最新 Go 语言教程，没有废话，纯干货！]](https://www.v2ex.com/t/863575#reply3) | Sat Jul 02 2022 2:07 AM 
+- 🥷 [Go 语言语法精练 [2022 最新 Go 语言教程，没有废话，纯干货！]](https://www.v2ex.com/t/863575#reply6) | Sat Jul 02 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;01.Go 语言-开篇综述
@@ -355,25 +364,12 @@
 	 
     </details> 
 
-- 🥷 [Google 搜索了下 deno, 蚌埠住了](https://www.v2ex.com/t/863573#reply37) | Sat Jul 02 2022 1:51 AM 
+- 🐵 [Google 搜索了下 deno, 蚌埠住了](https://www.v2ex.com/t/863573#reply40) | Sat Jul 02 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GujGpwn.png&quot;/&gt;
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/QqvxtZb.png&quot;/&gt;
 &lt;a href=&quot;https://github.com/denoland/deno/issues/25&quot; rel=&quot;nofollow&quot;&gt;直达链接&lt;/a&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [云主机是否适合 PT 站](https://www.v2ex.com/t/863570#reply7) | Sat Jul 02 2022 1:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;自己每年都会买一台云主机搭建自用服务，最近注册了 PT 站，想到云主机好像挺适合轻度 PT 用户。&lt;/p&gt;
-&lt;p&gt;7*24 小时，也不用考虑噪音，折损和耗能。
-带宽闲事下载可以去到 10MB/s ，上传 1MB/s 左右。
-各个平台的新老手优惠，成本可能 100 多就有一年。
-对画质要求不高的资源，搭建 plex 观看还算流畅。高画质则拉回本地观看。&lt;/p&gt;
-&lt;p&gt;缺点就是硬盘性价比不高，小水管上传不给力。&lt;/p&gt;
 
 	 
     </details> 
