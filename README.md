@@ -315,54 +315,30 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android性能优化之启动优化&lpar;实战篇&rpar;](https://juejin.cn/post/7115280222877925412) | Fri Jul 01 2022 6:01 AM
-    <details><summary>展开描述 ...</summary>
-    目录 一、启动优化的意义 二、启动时间检测 三、启动优化工具---traceview 四、优化方案 1.异步初始化 2.延迟初始化 3.懒加载 五、源码地址 六、总结
-    </details>
+- 🤗 [871. 最低加油次数 : 简单优先队列（堆）贪心题](https://juejin.cn/post/7115591584187416589) | Sat Jul 02 2022 2:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 871. 最低加油次数 ，难度为 困难。 Tag : 「贪心」、「优先队列（堆）」、「模拟」 汽车从起点出发驶向目的地，该目的地位于出发位置东面 target  
+    </details> 
 
-- 🎡 [Activity 启动流程分析（一）一天搞懂所有疑难杂问](https://juejin.cn/post/7115215917176340516) | Fri Jul 01 2022 1:52 AM
-    <details><summary>展开描述 ...</summary>
-    前言 Activity启动操作在Android开发过程中非常常见，但大多时候我们并未认真思考过其背后的具体流程。在启动某个Activity时，会先启动Activity所在的应用，并启动一个以应用包名为
-    </details>
+- 🎡 [区块链开发：如何从 Solidity 智能合约中发送和取款](https://juejin.cn/post/7115418490030260238) | Fri Jul 01 2022 2:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    在本文中，将展示一个智能合约的示例，可以向该智能合约发送交易，验证其余额，然后仅当调用该函数的地址是所有者时才将资金提取到一个地址，通常称为所有者模型。 
+    </details> 
 
-- 🕯 [你需要了解的官方core-ktx库能对开发带来哪些便利1](https://juejin.cn/post/7115048686170112037) | Thu Jun 30 2022 3:03 PM
-    <details><summary>展开描述 ...</summary>
-    接下来准备出一个系列的文章，专门研究`Android`官方提供的`core-ktx`库里面的扩展类、方法等等，看看能为项目开发带来哪些便利。
-    </details>
+- 🕯 [Android动态更换应用图标](https://juejin.cn/post/7115413271946985480) | Fri Jul 01 2022 2:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、背景 近日，微博官方发布了一项新功能，即可以在App设置中动态更换微博的显示图标样式。根据微博官方的说法，除了最原始的图标外，微博还推出了另外10种不同的样式，既有3D微博、炫彩微博等保留了眼睛造 
+    </details> 
 
-- 🚀 [【JavaSE】Set 深入研究](https://juejin.cn/post/7115039371702566948) | Thu Jun 30 2022 2:27 PM
-    <details><summary>展开描述 ...</summary>
-    持续创作，加速成长！这是我参与「掘金日新计划 · 6 月更文挑战」的第15天，点击查看活动详情 Set接口基本用法 Set 也叫做集合，跟数学中的集合一样，set不允许有重复值 Set接口继承和实现
-    </details>
+- 🚀 [Vue 2.7 正式发布，代号为 Naruto](https://juejin.cn/post/7115361618774622216) | Fri Jul 01 2022 11:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是CUGGZ。 今天，Vue 正式发布了 2.7 版本， 版本名称为 Naturo，即火影忍者。 尽管现在 Vue 3 是默认版本，但由于仍有许多用户由于依赖兼容性、浏览器支持要求或没有足够 
+    </details> 
 
-- 💪 [Bug：Zabbix对Kafka topic积压数据监控](https://juejin.cn/post/7115038805291171877) | Thu Jun 30 2022 2:24 PM
-    <details><summary>展开描述 ...</summary>
-    《Zabbix对Kafka topic积压数据监控》通过Zabbix自动发现实现对多个消费者组的Topic及Partition的Lag进行监控。因在实际监控中发现有问题，为给感兴趣的
-    </details>
-- 🤗 [871. 最低加油次数 : 简单优先队列（堆）贪心题](https://juejin.cn/post/7115591584187416589) | Sat Jul 02 2022 2:10 AM
-    <details><summary>展开描述 ...</summary>
-    题目描述 这是 LeetCode 上的 871. 最低加油次数 ，难度为 困难。 Tag : 「贪心」、「优先队列（堆）」、「模拟」 汽车从起点出发驶向目的地，该目的地位于出发位置东面 target 
-    </details>
-
-- 🎡 [区块链开发：如何从 Solidity 智能合约中发送和取款](https://juejin.cn/post/7115418490030260238) | Fri Jul 01 2022 2:58 PM
-    <details><summary>展开描述 ...</summary>
-    在本文中，将展示一个智能合约的示例，可以向该智能合约发送交易，验证其余额，然后仅当调用该函数的地址是所有者时才将资金提取到一个地址，通常称为所有者模型。
-    </details>
-
-- 🕯 [Android动态更换应用图标](https://juejin.cn/post/7115413271946985480) | Fri Jul 01 2022 2:38 PM
-    <details><summary>展开描述 ...</summary>
-    一、背景 近日，微博官方发布了一项新功能，即可以在App设置中动态更换微博的显示图标样式。根据微博官方的说法，除了最原始的图标外，微博还推出了另外10种不同的样式，既有3D微博、炫彩微博等保留了眼睛造
-    </details>
-
-- 🚀 [Vue 2.7 正式发布，代号为 Naruto](https://juejin.cn/post/7115361618774622216) | Fri Jul 01 2022 11:17 AM
-    <details><summary>展开描述 ...</summary>
-    大家好，我是CUGGZ。 今天，Vue 正式发布了 2.7 版本， 版本名称为 Naturo，即火影忍者。 尽管现在 Vue 3 是默认版本，但由于仍有许多用户由于依赖兼容性、浏览器支持要求或没有足够
-    </details>
-
-- 💪 [被疫情占据的上半年，你还好么？| 2022年中总结👣](https://juejin.cn/post/7115332213448638478) | Fri Jul 01 2022 9:23 AM
-    <details><summary>展开描述 ...</summary>
-    ✒️水满有时观下鹭,草深无处不鸣蛙，打记事起，欢快而酷暑难耐的夏天，总是那么的耐人寻味，而那个夏天，如今是再也回不去了...
-    </details>
+- 💪 [被疫情占据的上半年，你还好么？| 2022年中总结👣](https://juejin.cn/post/7115332213448638478) | Fri Jul 01 2022 9:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    ✒️水满有时观下鹭,草深无处不鸣蛙，打记事起，欢快而酷暑难耐的夏天，总是那么的耐人寻味，而那个夏天，如今是再也回不去了... 
+    </details> 
 <!-- juejin:END -->
 ### 少数派
 
