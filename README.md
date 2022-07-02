@@ -202,7 +202,80 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [云主机是否适合 PT 站](https://www.v2ex.com/t/863570#reply3) | Sat Jul 02 2022 1:23 AM 
+- 🥸 [Go 语言语法精练 [2022 最新 Go 语言教程，没有废话，纯干货！]](https://www.v2ex.com/t/863575#reply0) | Sat Jul 02 2022 2:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;01.Go 语言-开篇综述
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;02.开发环境搭建
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=2&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;03.第一个 Go 程序
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=3&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;04.变量与常量
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=4&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;05.01.基本数据类型-整型和浮点型
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=5&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;06.01 数组类型-数组
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=6&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;06.02 切片类型
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=7&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;06.03 Map 类型
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=8&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;07.指针
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=9&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;08.01 结构体-1
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=10&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;08.02 结构体-2
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=11&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=11&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;09.函数
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=12&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=12&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;10.包
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=13&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=13&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;11.流程控制
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=14&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=14&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12.方法
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=15&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=15&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;13.接口
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=16&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=16&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;14.协程
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=17&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=17&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;15.通道-1
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=18&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=18&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;15.通道-2
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=19&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=19&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;16.select
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=20&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=20&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;17.线程同步
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=21&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=21&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;18.错误与异常
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=22&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=22&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;19.make 和 new
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=23&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=23&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;20.头等函数
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=24&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=24&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;21.静态类型与动态类型
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=25&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;22.反射-1
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=26&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=26&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;22.反射-2
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=27&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=27&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;23.结构体里的 Tag 标签
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Ca411L72p?p=28&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Ca411L72p?p=28&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [Google 搜索了下 deno, 蚌埠住了](https://www.v2ex.com/t/863573#reply9) | Sat Jul 02 2022 1:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GujGpwn.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/QqvxtZb.png&quot;/&gt;
+&lt;a href=&quot;https://github.com/denoland/deno/issues/25&quot; rel=&quot;nofollow&quot;&gt;直达链接&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [云主机是否适合 PT 站](https://www.v2ex.com/t/863570#reply5) | Sat Jul 02 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;自己每年都会买一台云主机搭建自用服务，最近注册了 PT 站，想到云主机好像挺适合轻度 PT 用户。&lt;/p&gt;
@@ -215,7 +288,7 @@
 	 
     </details> 
 
-- 🤗 [[求 Anki 卡片资源]](https://www.v2ex.com/t/863569#reply0) | Sat Jul 02 2022 1:14 AM 
+- 🥷 [[求 Anki 卡片资源]](https://www.v2ex.com/t/863569#reply2) | Sat Jul 02 2022 1:14 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;小女在学网页开发&lpar;前端+后端: js, css, react 等&rpar;, 用 ANki 制作卡片, 求能搜索到现成 Anki 卡片的搜索引擎 /网站 /聊天群 等&lt;/p&gt;
@@ -224,7 +297,7 @@
 	 
     </details> 
 
-- 🎭 [哪个版本的 win10 适合在虚拟机里？](https://www.v2ex.com/t/863568#reply2) | Sat Jul 02 2022 1:06 AM 
+- 🐵 [哪个版本的 win10 适合在虚拟机里？](https://www.v2ex.com/t/863568#reply3) | Sat Jul 02 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;我日常使用 manjaro linux ，&lt;/p&gt;
@@ -234,47 +307,6 @@
 &lt;p&gt;win10 就是最终的虚拟机选项了，&lt;/p&gt;
 &lt;p&gt;而 win10 又有那么多版本，&lt;/p&gt;
 &lt;p&gt;不知道哪个版本的 win10 最适合虚拟机使用？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [群晖如何关闭右上角气泡存储空间不足的提醒？](https://www.v2ex.com/t/863565#reply6) | Sat Jul 02 2022 12:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;&lt;strong&gt;DSM 6.2.1 ，有一个 256G 的小硬盘挂了某心云，缓存是会把硬盘占满的，这个无所谓啦，但是每次进 DSM 右上角气泡那里就会有这个提示，频率还挺高的，已经把能找到有关通知设置的地方都取消了，但是推出后再进 DSM 还是有这个提示。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;http://tva1.sinaimg.cn/large/5fd37818ly1h3s9tu6b5sj21k816m4qp.jpg&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;http://tva1.sinaimg.cn/large/5fd37818ly1h3s9utso60j21te19qkjl.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;通过搜索引擎得到的结果基本都是上面这两处设置。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [parameter pack 仅作为部分参数的问题](https://www.v2ex.com/t/863563#reply6) | Fri Jul 01 2022 11:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;pre&gt;&lt;code class=&quot;language-cpp&quot;&gt;#include &amp;lt;iostream&amp;gt;
-#include &amp;lt;functional&amp;gt;
-
-template &amp;lt;typename ... Args&amp;gt;
-int invoke&lpar;const std::function&amp;lt;int&lpar;Args ..., bool&rpar;&amp;gt;&amp;amp; f, Args&amp;amp;&amp;amp; ... args&rpar; {
-	int r0 = f&lpar;std::forward&amp;lt;Args&amp;gt;&lpar;args&rpar;..., false&rpar;;
-	int r1 = f&lpar;std::forward&amp;lt;Args&amp;gt;&lpar;args&rpar;..., true&rpar;;
-	return r0 + r1;
-}
-
-int g&lpar;int a, int b, bool c&rpar; {
-	if &lpar;c&rpar; {
-		return a + b;
-	}
-	return a - b;
-}
-
-int main&lpar;&rpar; {
-	int r = invoke&lpar;std::function&amp;lt;int&lpar;int,int,bool&rpar;&amp;gt;&lpar;g&rpar;, 2, 3&rpar;;
-	std::cout &amp;lt;&amp;lt; r &amp;lt;&amp;lt; std::endl;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;上面的例子在 GCC 里类型推导不出来。如果 &lt;code&gt;invoke&lt;/code&gt; 的 &lt;code&gt;f&lt;/code&gt; 是 &lt;code&gt;const std::function&amp;lt;int&lpar;bool, Args ...&rpar;&amp;gt;&amp;amp;&lt;/code&gt; 则可以推导出来，但像这种附加的参数在 Args 后面的情况怎么办呢？&lt;/p&gt;
 
 	 
     </details> 
