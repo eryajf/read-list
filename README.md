@@ -269,7 +269,7 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RocketMQ源码系列（4） — NameServer 网络服务器](https://juejin.cn/post/7115707196142256158) | Sat Jul 02 2022 9:38 AM 
+- 🤗 [RocketMQ源码系列（4） — 基于Netty的网络服务器](https://juejin.cn/post/7115707196142256158) | Sat Jul 02 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
     Netty 服务端 NettyRemotingServer RocketMQ 是基于 Netty 实现的网络通信，NameServer 与 Broker 通信中，NameServer 网络服务器主要由 
     </details> 
