@@ -202,49 +202,52 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [将腾讯云上的网站从轻量服务器转移至 cos](https://www.v2ex.com/t/863648#reply2) | Sat Jul 02 2022 9:38 AM 
+- 🥸 [用 obsidian 插入图片, 路劲为相对路径, 为啥在 typora 中还是无法加载图片呢](https://www.v2ex.com/t/863663#reply0) | Sat Jul 02 2022 10:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	
+	 
+    </details> 
+
+- 🤗 [MySQL 用 uuid 作为主键会导致“页分裂”，这种影响可以忽略吗？](https://www.v2ex.com/t/863662#reply1) | Sat Jul 02 2022 10:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;如题，MySQL&lpar;5.7&rpar; 用 uuid 作为主键会导致“页分裂”，这种影响大吗，是否可以忽略？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [开源了一个 react+vite+ts 的后台管理系统](https://www.v2ex.com/t/863659#reply0) | Sat Jul 02 2022 10:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;开源了一个 react+vite+ts 的后台管理系统，有需要拿去 &lt;a href=&quot;https://github.com/toomejs/toome&quot; rel=&quot;nofollow&quot;&gt;https://github.com/toomejs/toome&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;另本人收购一个 V2EX 账户，有多余的联系我
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202207021831221.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202207021832509.png&quot;/&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+	 
+    </details> 
+
+- 🥷 [公司送了每个月 160 美元使用额度的 Azure 服务器 不知道可以用来干啥呢](https://www.v2ex.com/t/863656#reply1) | Sat Jul 02 2022 10:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;ol&gt;
+&lt;li&gt;搭网站 - 没有这个需求&lt;/li&gt;
+&lt;li&gt;搭梯子 - 有这个计划，但是因为我要看奈飞，而 Azure 的 IP 段好像不能解锁奈飞的非自制剧? 只能继续用机场了吗？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其他的用途我就没想到了，有没有大侠有什么好的想法&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🐵 [将腾讯云上的网站从轻量服务器转移至 cos](https://www.v2ex.com/t/863648#reply2) | Sat Jul 02 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;网站部署在腾讯云的轻量服务器上，快一年需要续费但看了费用一年将近 900 多感觉不是很值。打算将网站部署在 cos 上，之前的轻量服务器就不要了。
 这里有个疑问，域名备案是指向轻量服务器的，如果使用 cos 是否需要重新备案?&lt;/p&gt;
 
-	 
-    </details> 
-
-- 🤗 [突然有点感叹软件行业](https://www.v2ex.com/t/863642#reply3) | Sat Jul 02 2022 8:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;今天突然有点感叹软件行业，太多人是这样：市场需要快速解决问题，以继续推进，结果技术人员们搞了 20 种解决方案，然后自己打成一片，争论那种方案更优雅更好。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [fdisk 了硬盘， mkfs ext4 操作，数据还能恢复吗](https://www.v2ex.com/t/863636#reply8) | Sat Jul 02 2022 8:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;忘记硬盘里面有东西
-fdisk 了分区
-mkfs 格式化了硬盘，
-数据还有救吗？
-怎么救呢&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [刚遇到个《盗梦空间》问题……](https://www.v2ex.com/t/863626#reply5) | Sat Jul 02 2022 7:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;ssh 进去服务器，使用了 screen 命令，然后搞东搞西，突然忘了现在是不是在 screen 里……就像《盗梦空间》，不知道是否在梦里。&lt;/p&gt;
-&lt;p&gt;然后&lt;code&gt;exit&lt;/code&gt;命令等于 kill self ，&lt;code&gt;echo $STY&lt;/code&gt;命令等于转动陀螺。&lt;/p&gt;
-&lt;p&gt;PS. &lt;code&gt;echo $STY&lt;/code&gt;命令用于查看当前 screen 环境的 session id 和名称。如果没有返回任何信息，则没有在 screen 里&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [菜鸡问一个目录权限的问题。](https://www.v2ex.com/t/863624#reply15) | Sat Jul 02 2022 7:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	现有一个目录 A 我希望此目录下所有目录和文件都是 777 权限。包括已有的目录和文件以及未来添加的目录和文件。其中，对于未来添加的目录和文件，无论添加方式是怎样的，它之前的权限是怎样的，只要在目录 A 里面，都要是 777 权限。&lt;br /&gt;&lt;br /&gt;请教各位如何做到呢？
 	 
     </details> 
 <!-- v2ex:END -->
