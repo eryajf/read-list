@@ -202,7 +202,45 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [开源了一款用于知识管理的 Docusaurus 博客主题](https://www.v2ex.com/t/863618#reply0) | Sat Jul 02 2022 7:07 AM 
+- 🥸 [fdisk 了硬盘， mkfs ext4 操作，数据还能恢复吗](https://www.v2ex.com/t/863636#reply0) | Sat Jul 02 2022 8:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;忘记硬盘里面有东西
+fdisk 了分区
+mkfs 格式化了硬盘，
+数据还有救吗？
+怎么救呢&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [office365 家庭版开车 1 空位](https://www.v2ex.com/t/863632#reply0) | Sat Jul 02 2022 8:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;因为本人经常写标书，office 是刚需，不出意外我会一直续费。自 2021 年 7 月 3 日开车以来，已经稳定一年，保证不会恶意踢人，绝不会为了这点钱去做败人品的事。今天续费期有 1 个队员放弃续费，所以空出 1 个车位。每个账号 1TB Onedrive 个人版, 授权分享者和被分享者之间是无法看对方的内容的. 不是那种工作或学校账户, 每个账号可以激活 5 台设备 &lpar;Android, iOS, Mac, Windows&rpar;。48 一年。
+VX：cHJhbWluZ2Nu&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [刚遇到个《盗梦空间》问题……](https://www.v2ex.com/t/863626#reply1) | Sat Jul 02 2022 7:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;ssh 进去服务器，使用了 screen 命令，然后搞东搞西，突然忘了现在是不是在 screen 里……就像《盗梦空间》，不知道是否在梦里。&lt;/p&gt;
+&lt;p&gt;然后&lt;code&gt;exit&lt;/code&gt;命令等于 kill self ，&lt;code&gt;echo $STY&lt;/code&gt;命令等于转动陀螺。&lt;/p&gt;
+&lt;p&gt;PS. &lt;code&gt;echo $STY&lt;/code&gt;命令用于查看当前 screen 环境的 session id 和名称。如果没有返回任何信息，则没有在 screen 里&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [菜鸡问一个目录权限的问题。](https://www.v2ex.com/t/863624#reply4) | Sat Jul 02 2022 7:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	现有一个目录 A 我希望此目录下所有目录和文件都是 777 权限。包括已有的目录和文件以及未来添加的目录和文件。其中，对于未来添加的目录和文件，无论添加方式是怎样的，它之前的权限是怎样的，只要在目录 A 里面，都要是 777 权限。&lt;br /&gt;&lt;br /&gt;请教各位如何做到呢？
+	 
+    </details> 
+
+- 🐵 [开源了一款用于知识管理的 Docusaurus 博客主题](https://www.v2ex.com/t/863618#reply8) | Sat Jul 02 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;&lt;strong&gt;本来打算卖的，自我感觉挺良好的，既然大家都说不好看或一般，那就开源吧，要的同学自己下载&lt;/strong&gt;&lt;/p&gt;
@@ -211,18 +249,18 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202206301202195.png?imageMogr2/format/webp&quot;/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;Rowfish&lt;/a&gt;是一套用于构建个人文档库，作品展示和博客系统的[Docusaurus][docusaurus]主题，&lt;strong&gt;主题基于&lt;a href=&quot;https://opensource.org/licenses/MIT&quot; rel=&quot;nofollow&quot;&gt;MIT license&lt;/a&gt;协议完全开源&lt;/strong&gt;，专为计算机从业者提升个人求职竞争力或于宁自媒体等而打造！ 🐳&lt;/p&gt;
+&lt;p&gt;[Rowfish][rowfish]是一套用于构建个人文档库，作品展示和博客系统的 docusaurus 主题，&lt;strong&gt;主题基于&lt;a href=&quot;https://opensource.org/licenses/MIT&quot; rel=&quot;nofollow&quot;&gt;MIT license&lt;/a&gt;协议完全开源&lt;/strong&gt;，专为计算机从业者提升个人求职竞争力或于宁自媒体等而打造！ 🐳&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;🚀缘起&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;演示站点请看我的&lt;a href=&quot;https://pincman.com&quot; rel=&quot;nofollow&quot;&gt;博客&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;过去我一直打算做一个博客，也可以自己写写文章啥的。因为很多年前用过 typecho ，一直感觉还不错，但是最近因为一直在用[vscode][vscode]以及[obsidian][obsidian]写文章，而[vscode][vscode]和[obsidian][obsidian]是可以直接打开一个工作空间来管理文档的，&lt;a href=&quot;http://所以使用静态博客直接编辑.md&quot; rel=&quot;nofollow&quot;&gt;所以使用静态博客直接编辑.md&lt;/a&gt; 文件发布显然更适合。找了一下静态博客程序，发觉 hexo ，hugo ，vuepress ，[docusaurus][docusaurus]都还挺不错的，但是 hexo ，hugo 没有自带文档系统，显然不符合我需要长期写文档的要求，这两首先排除。由于我个人对 vue3 不大熟悉，工作中长期使用[react][react]，所以自然而然的选择了基于[react][react]的[docusaurus][docusaurus]。&lt;/p&gt;
-&lt;p&gt;默认的[docusaurus][docusaurus]不大符合中文站点的审美，也不像 vuepress 那样拥有大量好看的开源主题，于是干脆自己动手设计开发了一款。&lt;/p&gt;
-&lt;p&gt;源码地址:&lt;a href=&quot;https://github.com/rowfishjs/rowfish&quot; rel=&quot;nofollow&quot;&gt;https://github.com/rowfishjs/rowfish&lt;/a&gt;，喜欢的朋友给个星，谢谢！&lt;/p&gt;
+&lt;p&gt;过去我一直打算做一个博客，也可以自己写写文章啥的。因为很多年前用过 typecho ，一直感觉还不错，但是最近因为一直在用 vscode 以及[obsidian][obsidian]写文章，而 vscode 和 obsidian 是可以直接打开一个工作空间来管理文档的，&lt;a href=&quot;http://所以使用静态博客直接编辑.md&quot; rel=&quot;nofollow&quot;&gt;所以使用静态博客直接编辑.md&lt;/a&gt; 文件发布显然更适合。找了一下静态博客程序，发觉 hexo ，hugo ，vuepress ，docusaurus]都还挺不错的，但是 hexo ，hugo 没有自带文档系统，显然不符合我需要长期写文档的要求，这两首先排除。由于我个人对 vue3 不大熟悉，工作中长期使用 react ，所以自然而然的选择了基于 react 的 docusaurus 。&lt;/p&gt;
+&lt;p&gt;默认的 docusaurus 不大符合中文站点的审美，也不像 vuepress 那样拥有大量好看的开源主题，于是干脆自己动手设计开发了一款。&lt;/p&gt;
+&lt;p&gt;源码地址:&lt;a href=&quot;https://github.com/rowfishjs/rowfish%5D&quot; rel=&quot;nofollow&quot;&gt;https://github.com/rowfishjs/rowfish&lt;/a&gt;，喜欢的朋友给个星，谢谢！&lt;/p&gt;
 &lt;h2&gt;🍃介绍&lt;/h2&gt;
-&lt;p&gt;其实没啥好介绍的，[docusaurus][docusaurus]该有的都有，唯一不同的是主题目前只支持中文站点&lpar;后续如果有需求再加上多语言支持&rpar;。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://pincman.com/rowfish&quot; rel=&quot;nofollow&quot;&gt;rowfish&lt;/a&gt;主要&lt;strong&gt;增加了一些页面和数据以及以&lt;code&gt;rf-&lt;/code&gt;开头字段&lt;/strong&gt;。然后添加了&lt;strong&gt;博客首页轮播&lt;/strong&gt;，&lt;strong&gt;本地站内搜索&lt;/strong&gt;，&lt;strong&gt;作品展示页&lt;/strong&gt;，&lt;strong&gt;课程展示页&lt;/strong&gt;以及使用[waline][waline]的&lt;strong&gt;评论功能&lt;/strong&gt;，具体看使用&lt;a href=&quot;https://pincman.com/docs/rowfish/overviewpro:https://pincman.com/rowfish/pro&quot; rel=&quot;nofollow&quot;&gt;文档&lt;/a&gt;。后续打算在性能上再做一些优化，就酱紫。&lt;/p&gt;
+&lt;p&gt;其实没啥好介绍的，docusaurus 该有的都有，唯一不同的是主题目前只支持中文站点&lpar;后续如果有需求再加上多语言支持&rpar;。&lt;/p&gt;
+&lt;p&gt;rowfish 主要&lt;strong&gt;增加了一些页面和数据以及以&lt;code&gt;rf-&lt;/code&gt;开头字段&lt;/strong&gt;。然后添加了&lt;strong&gt;博客首页轮播&lt;/strong&gt;，&lt;strong&gt;本地站内搜索&lt;/strong&gt;，&lt;strong&gt;作品展示页&lt;/strong&gt;，&lt;strong&gt;课程展示页&lt;/strong&gt;以及使用[waline][waline]的&lt;strong&gt;评论功能&lt;/strong&gt;，具体看使用文档。后续打算在性能上再做一些优化，就酱紫。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目前完美匹配移动端，且暗黑模式下效果更佳&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -233,170 +271,11 @@
 &lt;p&gt;在[Docusaurus][docusaurus]发布正式版前,本主题锁定在[beta21]版本,等正式版发布直接一次性升级.&lt;/p&gt;
 &lt;h2&gt;🔭 支持&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;🍓 &lt;a href=&quot;https://github.com/rowfishjs/rowfish/discussions&quot; rel=&quot;nofollow&quot;&gt;求助&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🛠️ &lt;a href=&quot;https://github.com/rowfishjs/rowfish/issues&quot; rel=&quot;nofollow&quot;&gt;bug 修复&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🍓 [求助][discussions]&lt;/li&gt;
+&lt;li&gt;🛠️ [bug 修复][issue]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;🍉 秋秋群&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic.pincman.com/media/202207011929335.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;[pro]: &lt;a href=&quot;https://pincman.com/rowfish#%E5%85%B3%E4%BA%8E&quot; rel=&quot;nofollow&quot;&gt;https://pincman.com/rowfish#关于&lt;/a&gt; pro
-&lt;a href=&quot;https://pincman.com&quot; rel=&quot;nofollow&quot;&gt;pincman&lt;/a&gt;: &lt;a href=&quot;https://pincman.com/&quot; rel=&quot;nofollow&quot;&gt;https://pincman.com/&lt;/a&gt;
-[docusaurus]: &lt;a href=&quot;https://docusaurus.io&quot; rel=&quot;nofollow&quot;&gt;https://docusaurus.io&lt;/a&gt;
-[php]: &lt;a href=&quot;https://php.net&quot; rel=&quot;nofollow&quot;&gt;https://php.net&lt;/a&gt;
-[wordpress]: &lt;a href=&quot;https://wordpress.org&quot; rel=&quot;nofollow&quot;&gt;https://wordpress.org&lt;/a&gt;
-[laravel]: &lt;a href=&quot;https://laravel.com&quot; rel=&quot;nofollow&quot;&gt;https://laravel.com&lt;/a&gt;
-[nextjs]: &lt;a href=&quot;https://nextjs.org&quot; rel=&quot;nofollow&quot;&gt;https://nextjs.org&lt;/a&gt;
-[nestjs]: &lt;a href=&quot;https://nestjs.com&quot; rel=&quot;nofollow&quot;&gt;https://nestjs.com&lt;/a&gt;
-[typescript]: &lt;a href=&quot;https://typescript.org&quot; rel=&quot;nofollow&quot;&gt;https://typescript.org&lt;/a&gt;
-[vscode]: &lt;a href=&quot;https://code.visualstudio.com/&quot; rel=&quot;nofollow&quot;&gt;https://code.visualstudio.com/&lt;/a&gt;
-[waline]: &lt;a href=&quot;https://waline.js.org/&quot; rel=&quot;nofollow&quot;&gt;https://waline.js.org/&lt;/a&gt;
-[obsidian]: &lt;a href=&quot;https://obsidian.md/&quot; rel=&quot;nofollow&quot;&gt;https://obsidian.md/&lt;/a&gt;
-[react]: &lt;a href=&quot;https://reactjs.org&quot; rel=&quot;nofollow&quot;&gt;https://reactjs.org&lt;/a&gt;
-[vscode]: &lt;a href=&quot;https://code.visualstudio.com&quot; rel=&quot;nofollow&quot;&gt;https://code.visualstudio.com&lt;/a&gt;
-[obsidian]: &lt;a href=&quot;https://obsidian.md&quot; rel=&quot;nofollow&quot;&gt;https://obsidian.md&lt;/a&gt;
-[rizhuti]: &lt;a href=&quot;https://ritheme.com/theme/792.html&quot; rel=&quot;nofollow&quot;&gt;https://ritheme.com/theme/792.html&lt;/a&gt;
-[tailwind]: &lt;a href=&quot;https://tailwindcss.com/&quot; rel=&quot;nofollow&quot;&gt;https://tailwindcss.com/&lt;/a&gt;
-[antd]: &lt;a href=&quot;https://ant.design/index-cn&quot; rel=&quot;nofollow&quot;&gt;https://ant.design/index-cn&lt;/a&gt;
-[docspress]: &lt;a href=&quot;https://wordpress.org/plugins/docspress&quot; rel=&quot;nofollow&quot;&gt;https://wordpress.org/plugins/docspress&lt;/a&gt;
-[anspress]: &lt;a href=&quot;https://anspress.net&quot; rel=&quot;nofollow&quot;&gt;https://anspress.net&lt;/a&gt;
-[vercel]: &lt;a href=&quot;https://vercel.com&quot; rel=&quot;nofollow&quot;&gt;https://vercel.com&lt;/a&gt;
-[oneinstack]: &lt;a href=&quot;https://oneinstack.com&quot; rel=&quot;nofollow&quot;&gt;https://oneinstack.com&lt;/a&gt;
-[gitea]: &lt;a href=&quot;https://gitea.io&quot; rel=&quot;nofollow&quot;&gt;https://gitea.io&lt;/a&gt;
-[drone]: &lt;a href=&quot;https://www.drone.io&quot; rel=&quot;nofollow&quot;&gt;https://www.drone.io&lt;/a&gt;
-[markdown]: &lt;a href=&quot;https://www.markdownguide.org/&quot; rel=&quot;nofollow&quot;&gt;https://www.markdownguide.org/&lt;/a&gt;
-[qq]: &lt;a href=&quot;http://wpa.qq.com/msgrd?v=3&amp;amp;uin=1849600177&amp;amp;site=qq&amp;amp;menu=yes&quot; rel=&quot;nofollow&quot;&gt;http://wpa.qq.com/msgrd?v=3&amp;amp;uin=1849600177&amp;amp;site=qq&amp;amp;menu=yes&lt;/a&gt;
-[rowfish-qq-group]: &lt;a href=&quot;https://qm.qq.com/cgi-bin/qm/qr?k=gs1EYHC5nzneWJ6kZJQ1TtMY9sLP-H5R&amp;amp;jump_from=webapi&quot; rel=&quot;nofollow&quot;&gt;https://qm.qq.com/cgi-bin/qm/qr?k=gs1EYHC5nzneWJ6kZJQ1TtMY9sLP-H5R&amp;amp;jump_from=webapi&lt;/a&gt;
-[pro-qq-group]: &lt;a href=&quot;https://qm.qq.com/cgi-bin/qm/qr?k=8eLi_sZAEXR4WOd3xNqI058aOviOXLHU&amp;amp;jump_from=webapi/&quot; rel=&quot;nofollow&quot;&gt;https://qm.qq.com/cgi-bin/qm/qr?k=8eLi_sZAEXR4WOd3xNqI058aOviOXLHU&amp;amp;jump_from=webapi/&lt;/a&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🤗 [Android 到目前为止有哪些不错的进阶书籍](https://www.v2ex.com/t/863613#reply1) | Sat Jul 02 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;我目前卡在了自定义 View,滑动冲突，悬浮窗这里了。后边应该去看哪些课程或者书籍。谢谢&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [SpaceVim release v2.0.0](https://www.v2ex.com/t/863612#reply0) | Sat Jul 02 2022 6:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;距离上一个版本 v1.9.0 ，已经六个多月了。自上个版本以来，已经 600+commits ，新增了一些模块，同时使用 lua 重新写了大部分功能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://spacevim.org/SpaceVim-release-v2.0.0/&quot; rel=&quot;nofollow&quot;&gt;https://spacevim.org/SpaceVim-release-v2.0.0/&lt;/a&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [go 版 trzsz &lpar; 兼容 tmux 的 rz / sz &rpar; 已发布到各大软件分发平台，可以通过 apt、yum 和 brew 等进行安装。](https://www.v2ex.com/t/863602#reply6) | Sat Jul 02 2022 5:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;项目地址：&lt;a href=&quot;https://github.com/trzsz/trzsz-go&quot; rel=&quot;nofollow&quot;&gt;https://github.com/trzsz/trzsz-go&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;版本：v0.1.8 支持目录传输，支持拖文件和目录上传。&lt;/p&gt;
-&lt;p&gt;1 、在 Ubuntu 用 apt 安装&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;sudo apt update &amp;amp;&amp;amp; sudo apt install software-properties-common
-sudo add-apt-repository ppa:trzsz/ppa &amp;amp;&amp;amp; sudo apt update
-sudo apt install trzsz
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Debian 也可以用 &lt;code&gt;ppa:trzsz/ppa&lt;/code&gt; 这个源，详情可参考 &lt;a href=&quot;https://blog.desdelinux.net/en/como-agregar-repositorios-ppa-en-debian/&quot; rel=&quot;nofollow&quot;&gt;How to add PPA repositories in Debian&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2 、在 Fedora 、CentOS 或 RHEL 用 yum 安装&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;echo &#39;[trzsz]
-name=Trzsz Repo
-baseurl=https://yum.fury.io/trzsz/
-enabled=1
-gpgcheck=0&#39; | sudo tee /etc/yum.repos.d/trzsz.repo
-
-sudo yum install trzsz
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;3 、在 macOS 用 brew 安装&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;brew update
-brew install trzsz-go
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;其实，在 Linux 下也以用 &lt;a href=&quot;https://brew.sh/&quot; rel=&quot;nofollow&quot;&gt;Homebrew&lt;/a&gt; 的。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;4 、用法：&lt;/p&gt;
-&lt;p&gt;4.1 、客户端和服务端都安装好 trzsz&lt;/p&gt;
-&lt;p&gt;4.2 、在客户端使用 &lt;code&gt;trzsz ssh xxx&lt;/code&gt; 登录&lt;/p&gt;
-&lt;p&gt;4.3 、在服务端使用 &lt;code&gt;trz&lt;/code&gt; 上传，使用 &lt;code&gt;tsz xxx&lt;/code&gt; 下载&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [学习周刊-总第 60 期-2022 年第 25 周](https://www.v2ex.com/t/863589#reply0) | Sat Jul 02 2022 3:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;h3&gt;0 ，前言&lt;/h3&gt;
-&lt;p&gt;周刊维护在： &lt;a href=&quot;https://github.com/eryajf/Learning-Weekly&quot; rel=&quot;nofollow&quot;&gt;https://github.com/eryajf/Learning-Weekly&lt;/a&gt; 欢迎投稿，推荐或自荐项目 /文章 /博客，请提交 issue 。&lt;/p&gt;
-&lt;p&gt;这里记录我们每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。有很多优秀的内容，都值得被铭记，值得被分享，值得被更多人学习，我们想通过这里每周的记录分享，一方面强化自己对优秀内容的认识与学习，另一方面能够把优质内容统一汇总，以飨大众。&lt;/p&gt;
-&lt;p&gt;我们的内容会以运维技术和 Golang 为主，以及 GitHub 上优秀项目或经验。已经经过一次筛选过滤的内容，质量不会太差，在你空闲无事的时候，可以过来随便看看，必能有所收益。&lt;/p&gt;
-&lt;p&gt;你也可以在我的博客 &lt;a href=&quot;https://wiki.eryajf.net/pages/11c668/&quot; rel=&quot;nofollow&quot;&gt;https://wiki.eryajf.net/pages/11c668/&lt;/a&gt; 查看汇总周刊。&lt;/p&gt;
-&lt;h3&gt;1 ，优秀项目&lt;/h3&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/tw93/MiaoYan&quot; rel=&quot;nofollow&quot;&gt;MiaoYan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;项目说明：⛷ 轻灵的 Markdown 笔记本伴你写出妙言
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;http://t.eryajf.net/imgs/2022/06/91cf6ffd9f4daa1d.gif&quot;/&gt;&lt;/li&gt;
-&lt;li&gt;相关文章：&lt;a href=&quot;https://github.com/tw93/MiaoYan#readme&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/shockerli/go-awesome&quot; rel=&quot;nofollow&quot;&gt;go-awesome&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;项目说明：Go 语言优秀资源整理，为项目落地加速🏃&lt;/li&gt;
-&lt;li&gt;相关文章：&lt;a href=&quot;https://github.com/shockerli/go-awesome#readme&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/sdras/awesome-actions&quot; rel=&quot;nofollow&quot;&gt;awesome-actions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;项目说明：在 GitHub 上使用的精彩操作的精选列表&lt;/li&gt;
-&lt;li&gt;相关文章：&lt;a href=&quot;https://github.com/sdras/awesome-actions#readme&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/fhefh2015/Fast-GitHub&quot; rel=&quot;nofollow&quot;&gt;Fast-GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;项目说明：国内 Github 下载很慢，这个插件将会自动替换官方地址，添加上加速的地址。&lt;/li&gt;
-&lt;li&gt;相关文章：&lt;a href=&quot;https://github.com/fhefh2015/Fast-GitHub#readme&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/beekeeper-studio/beekeeper-studio&quot; rel=&quot;nofollow&quot;&gt;beekeeper-studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;项目说明：适用于 MySQL 、Postgres 、SQLite 、SQL Server 等的现代且易于使用的 SQL 客户端。Linux 、macOS 和 Windows 。
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;http://t.eryajf.net/imgs/2022/06/c01a8c8efe23b9df.jpg&quot;/&gt;&lt;/li&gt;
-&lt;li&gt;相关文章：&lt;a href=&quot;https://github.com/beekeeper-studio/beekeeper-studio/#readme&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;2 ，优秀文章&lt;/h3&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/vuejs-working-with-environment-variables&quot; rel=&quot;nofollow&quot;&gt;How To Use Environment Variables in Vue.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如何在 Vue 中使用环境变量，可以在 docker 部署时进行覆盖&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.iwtt.xyz/articles/2021/12/09/1639059965513.html&quot; rel=&quot;nofollow&quot;&gt;设置 mac 电脑息屏自动关闭蓝牙&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;蛮有意思，午休的时候，你希望蓝牙耳机使用手机连接，就可以用上这个功能&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;3 ，优秀博客&lt;/h3&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;博客地址：&lt;a href=&quot;https://sakishum.com/&quot; rel=&quot;nofollow&quot;&gt;Saki&#39;s 研究记录&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;简单说明：golang ，博客内容质量不错&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;博客地址：&lt;a href=&quot;https://blog.chyroc.cn/&quot; rel=&quot;nofollow&quot;&gt;chyroc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;简单说明：golang 开发者，飞书 lark 库开发者&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;博客地址：&lt;a href=&quot;https://koolhaas.top/&quot; rel=&quot;nofollow&quot;&gt;张瑜的技术博客 Hackerdom&#39;s Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;简单说明：博客整理的开源项目周报不错&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;博客地址：&lt;a href=&quot;https://opensource.guide/zh-hans/&quot; rel=&quot;nofollow&quot;&gt;开源软件指南&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;简单说明：GitHub 上星量很高的开源项目维护指南手册&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
 
 	 
     </details> 
