@@ -382,29 +382,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [871. 最低加油次数 : 简单优先队列（堆）贪心题](https://juejin.cn/post/7115591584187416589) | Sat Jul 02 2022 2:10 AM 
+- 🤗 [Python 为什么要有 pass 语句？](https://juejin.cn/post/7115614292426096647) | Sat Jul 02 2022 3:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于 Python 中的pass语句，它似乎很简单（只有 4 个字母），即使是没有任何编程经验的初学者也能很快地掌握它的用法。 官方文档 的介绍十分简单 简单而言，pass 是一种空操作（null o 
+    </details> 
+
+- 🎡 [学习周刊-总第60期-2022年第25周](https://juejin.cn/post/7115608945103732766) | Sat Jul 02 2022 3:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    0，前言 周刊维护在：https://github.com/eryajf/Learning-Weekly 欢迎投稿，推荐或自荐项目/文章/博客，请提交 issue 。 这里记录我们每周工作学习过程中遇 
+    </details> 
+
+- 🕯 [官方答：在React18中请求数据的正确姿势（其他框架也适用）](https://juejin.cn/post/7115595794425577502) | Sat Jul 02 2022 2:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我卡颂。 一些同学喜欢在useEffect中请求初始数据，类似这样： 但React18并不推荐这种方式。 这么写有什么问题？如果不推荐这种方式，那么推荐的方式是什么呢？ 本文来看看Dan在re 
+    </details> 
+
+- 🚀 [871. 最低加油次数 : 简单优先队列（堆）贪心题](https://juejin.cn/post/7115591584187416589) | Sat Jul 02 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 871. 最低加油次数 ，难度为 困难。 Tag : 「贪心」、「优先队列（堆）」、「模拟」 汽车从起点出发驶向目的地，该目的地位于出发位置东面 target  
     </details> 
 
-- 🎡 [区块链开发：如何从 Solidity 智能合约中发送和取款](https://juejin.cn/post/7115418490030260238) | Fri Jul 01 2022 2:58 PM 
+- 💪 [WebRTC代码学习之线程管理](https://juejin.cn/post/7115590257109630984) | Sat Jul 02 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-    在本文中，将展示一个智能合约的示例，可以向该智能合约发送交易，验证其余额，然后仅当调用该函数的地址是所有者时才将资金提取到一个地址，通常称为所有者模型。 
-    </details> 
-
-- 🕯 [Android动态更换应用图标](https://juejin.cn/post/7115413271946985480) | Fri Jul 01 2022 2:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、背景 近日，微博官方发布了一项新功能，即可以在App设置中动态更换微博的显示图标样式。根据微博官方的说法，除了最原始的图标外，微博还推出了另外10种不同的样式，既有3D微博、炫彩微博等保留了眼睛造 
-    </details> 
-
-- 🚀 [Vue 2.7 正式发布，代号为 Naruto](https://juejin.cn/post/7115361618774622216) | Fri Jul 01 2022 11:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是CUGGZ。 今天，Vue 正式发布了 2.7 版本， 版本名称为 Naturo，即火影忍者。 尽管现在 Vue 3 是默认版本，但由于仍有许多用户由于依赖兼容性、浏览器支持要求或没有足够 
-    </details> 
-
-- 💪 [被疫情占据的上半年，你还好么？| 2022年中总结👣](https://juejin.cn/post/7115332213448638478) | Fri Jul 01 2022 9:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    ✒️水满有时观下鹭,草深无处不鸣蛙，打记事起，欢快而酷暑难耐的夏天，总是那么的耐人寻味，而那个夏天，如今是再也回不去了... 
+    # WebRTC的线程管理 为什么是从线程开始切入整个WebRTC源码？相信只要对WebRTC有一定的了解的都清楚WebRTC内部有着自己的一套线程管理机制，WebRTC通过这套线程管理机制，非常简单 
     </details> 
 <!-- juejin:END -->
 ### 少数派
