@@ -202,14 +202,42 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [用 obsidian 插入图片, 路劲为相对路径, 为啥在 typora 中还是无法加载图片呢](https://www.v2ex.com/t/863663#reply0) | Sat Jul 02 2022 10:49 AM 
+- 🥸 [压缩图片文件大小有什么好的方案？](https://www.v2ex.com/t/863667#reply4) | Sat Jul 02 2022 11:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;想寻找一款压缩图片大小的库。&lt;/p&gt;
+&lt;p&gt;背景：
+我是用 vscode 中使用 paste image 给自己的 markdown 插入截图，大部分是 png 图，有些比较大需要压缩一下。&lt;/p&gt;
+&lt;p&gt;我谷歌搜索了一些压缩图片的方法：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;使用 python 的 PIL.Image 自带的&lt;code&gt;pic.save&lpar;&quot;a.png&quot;,optimize=True,quality=80&rpar;&lt;/code&gt;压缩, 35K 能到 27K ，压缩效率不太高（ png quality 再降低不会有影响了）&lt;/li&gt;
+&lt;li&gt;
+改用 webp 格式：&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;p.save&lpar;&#39;a.png.webp&#39;, &#39;webp&#39;, optimize = True, quality = 88&rpar;&lt;/code&gt;35K 压缩到 15K,　质量刚好能接受，不过体积希望尽可能小&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;p.save&lpar;&#39;a.png.webp&#39;, &#39;webp&#39;, optimize = True, quality = 50&rpar;&lt;/code&gt;到 8k 　图片质量有点糊了，不理想。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+使用在线的 tinypng 压缩，输出格式 png ，压缩到了 8K ，质量非常好，没有失真&lt;ol&gt;
+&lt;li&gt;看了输出的格式，发现 tinypng 是把&lt;code&gt;8-bit/color RGBA&lt;/code&gt; 转成了 &lt;code&gt;8-bit colormap&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;tinypng 提供 api 实现压缩，每月有免费额度，还是挺不错的&lt;/li&gt;
+&lt;li&gt;不过我的需求还是离线用，我找到一篇 colormap 文章，自己实现看起来要花很多时间 &lt;a href=&quot;https://towardsdatascience.com/simple-steps-to-create-custom-colormaps-in-python-f21482778aa2&quot; rel=&quot;nofollow&quot;&gt;https://towardsdatascience.com/simple-steps-to-create-custom-colormaps-in-python-f21482778aa2&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;有更好的离线方案、库吗？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🤗 [用 obsidian 插入图片, 路劲为相对路径, 为啥在 typora 中还是无法加载图片呢](https://www.v2ex.com/t/863663#reply0) | Sat Jul 02 2022 10:49 AM 
     <details><summary>展开描述 ...</summary> 
     
 	
 	 
     </details> 
 
-- 🤗 [MySQL 用 uuid 作为主键会导致“页分裂”，这种影响可以忽略吗？](https://www.v2ex.com/t/863662#reply1) | Sat Jul 02 2022 10:46 AM 
+- 🎭 [MySQL 用 uuid 作为主键会导致“页分裂”，这种影响可以忽略吗？](https://www.v2ex.com/t/863662#reply6) | Sat Jul 02 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;如题，MySQL&lpar;5.7&rpar; 用 uuid 作为主键会导致“页分裂”，这种影响大吗，是否可以忽略？&lt;/p&gt;
@@ -217,7 +245,7 @@
 	 
     </details> 
 
-- 🎭 [开源了一个 react+vite+ts 的后台管理系统](https://www.v2ex.com/t/863659#reply0) | Sat Jul 02 2022 10:37 AM 
+- 🥷 [开源了一个 react+vite+ts 的后台管理系统](https://www.v2ex.com/t/863659#reply0) | Sat Jul 02 2022 10:37 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;开源了一个 react+vite+ts 的后台管理系统，有需要拿去 &lt;a href=&quot;https://github.com/toomejs/toome&quot; rel=&quot;nofollow&quot;&gt;https://github.com/toomejs/toome&lt;/a&gt;&lt;/p&gt;
@@ -230,7 +258,7 @@
 	 
     </details> 
 
-- 🥷 [公司送了每个月 160 美元使用额度的 Azure 服务器 不知道可以用来干啥呢](https://www.v2ex.com/t/863656#reply1) | Sat Jul 02 2022 10:23 AM 
+- 🐵 [公司送了每个月 160 美元使用额度的 Azure 服务器 不知道可以用来干啥呢](https://www.v2ex.com/t/863656#reply7) | Sat Jul 02 2022 10:23 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;ol&gt;
@@ -238,15 +266,6 @@
 &lt;li&gt;搭梯子 - 有这个计划，但是因为我要看奈飞，而 Azure 的 IP 段好像不能解锁奈飞的非自制剧? 只能继续用机场了吗？&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;其他的用途我就没想到了，有没有大侠有什么好的想法&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [将腾讯云上的网站从轻量服务器转移至 cos](https://www.v2ex.com/t/863648#reply2) | Sat Jul 02 2022 9:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;网站部署在腾讯云的轻量服务器上，快一年需要续费但看了费用一年将近 900 多感觉不是很值。打算将网站部署在 cos 上，之前的轻量服务器就不要了。
-这里有个疑问，域名备案是指向轻量服务器的，如果使用 cos 是否需要重新备案?&lt;/p&gt;
 
 	 
     </details> 
