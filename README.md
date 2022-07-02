@@ -202,7 +202,97 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Go 语言语法精练 [2022 最新 Go 语言教程，没有废话，纯干货！]](https://www.v2ex.com/t/863575#reply0) | Sat Jul 02 2022 2:07 AM 
+- 🥸 [学习周刊-总第 60 期-2022 年第 25 周](https://www.v2ex.com/t/863589#reply0) | Sat Jul 02 2022 3:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;h3&gt;0 ，前言&lt;/h3&gt;
+&lt;p&gt;周刊维护在： &lt;a href=&quot;https://github.com/eryajf/Learning-Weekly&quot; rel=&quot;nofollow&quot;&gt;https://github.com/eryajf/Learning-Weekly&lt;/a&gt; 欢迎投稿，推荐或自荐项目 /文章 /博客，请提交 issue 。&lt;/p&gt;
+&lt;p&gt;这里记录我们每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。有很多优秀的内容，都值得被铭记，值得被分享，值得被更多人学习，我们想通过这里每周的记录分享，一方面强化自己对优秀内容的认识与学习，另一方面能够把优质内容统一汇总，以飨大众。&lt;/p&gt;
+&lt;p&gt;我们的内容会以运维技术和 Golang 为主，以及 GitHub 上优秀项目或经验。已经经过一次筛选过滤的内容，质量不会太差，在你空闲无事的时候，可以过来随便看看，必能有所收益。&lt;/p&gt;
+&lt;p&gt;你也可以在我的博客 &lt;a href=&quot;https://wiki.eryajf.net/pages/11c668/&quot; rel=&quot;nofollow&quot;&gt;https://wiki.eryajf.net/pages/11c668/&lt;/a&gt; 查看汇总周刊。&lt;/p&gt;
+&lt;h3&gt;1 ，优秀项目&lt;/h3&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/tw93/MiaoYan&quot; rel=&quot;nofollow&quot;&gt;MiaoYan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;项目说明：⛷ 轻灵的 Markdown 笔记本伴你写出妙言
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;http://t.eryajf.net/imgs/2022/06/91cf6ffd9f4daa1d.gif&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;相关文章：&lt;a href=&quot;https://github.com/tw93/MiaoYan#readme&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/shockerli/go-awesome&quot; rel=&quot;nofollow&quot;&gt;go-awesome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;项目说明：Go 语言优秀资源整理，为项目落地加速🏃&lt;/li&gt;
+&lt;li&gt;相关文章：&lt;a href=&quot;https://github.com/shockerli/go-awesome#readme&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/sdras/awesome-actions&quot; rel=&quot;nofollow&quot;&gt;awesome-actions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;项目说明：在 GitHub 上使用的精彩操作的精选列表&lt;/li&gt;
+&lt;li&gt;相关文章：&lt;a href=&quot;https://github.com/sdras/awesome-actions#readme&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/fhefh2015/Fast-GitHub&quot; rel=&quot;nofollow&quot;&gt;Fast-GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;项目说明：国内 Github 下载很慢，这个插件将会自动替换官方地址，添加上加速的地址。&lt;/li&gt;
+&lt;li&gt;相关文章：&lt;a href=&quot;https://github.com/fhefh2015/Fast-GitHub#readme&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/beekeeper-studio/beekeeper-studio&quot; rel=&quot;nofollow&quot;&gt;beekeeper-studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;项目说明：适用于 MySQL 、Postgres 、SQLite 、SQL Server 等的现代且易于使用的 SQL 客户端。Linux 、macOS 和 Windows 。
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;http://t.eryajf.net/imgs/2022/06/c01a8c8efe23b9df.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;相关文章：&lt;a href=&quot;https://github.com/beekeeper-studio/beekeeper-studio/#readme&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;2 ，优秀文章&lt;/h3&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/vuejs-working-with-environment-variables&quot; rel=&quot;nofollow&quot;&gt;How To Use Environment Variables in Vue.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如何在 Vue 中使用环境变量，可以在 docker 部署时进行覆盖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.iwtt.xyz/articles/2021/12/09/1639059965513.html&quot; rel=&quot;nofollow&quot;&gt;设置 mac 电脑息屏自动关闭蓝牙&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;蛮有意思，午休的时候，你希望蓝牙耳机使用手机连接，就可以用上这个功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;3 ，优秀博客&lt;/h3&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;博客地址：&lt;a href=&quot;https://sakishum.com/&quot; rel=&quot;nofollow&quot;&gt;Saki&#39;s 研究记录&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;简单说明：golang ，博客内容质量不错&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;博客地址：&lt;a href=&quot;https://blog.chyroc.cn/&quot; rel=&quot;nofollow&quot;&gt;chyroc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;简单说明：golang 开发者，飞书 lark 库开发者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;博客地址：&lt;a href=&quot;https://koolhaas.top/&quot; rel=&quot;nofollow&quot;&gt;张瑜的技术博客 Hackerdom&#39;s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;简单说明：博客整理的开源项目周报不错&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;博客地址：&lt;a href=&quot;https://opensource.guide/zh-hans/&quot; rel=&quot;nofollow&quot;&gt;开源软件指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;简单说明：GitHub 上星量很高的开源项目维护指南手册&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+
+	 
+    </details> 
+
+- 🤗 [macbook 相关笔忘本屏幕怎么清洗](https://www.v2ex.com/t/863587#reply2) | Sat Jul 02 2022 3:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;即使是全新电脑，用了一小段时间就全是灰尘，或者手印。&lt;/p&gt;
+&lt;p&gt;自己用湿纸巾好像也清不干净。&lt;/p&gt;
+&lt;p&gt;有比较好的做法嘛？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [Go 语言语法精练 [2022 最新 Go 语言教程，没有废话，纯干货！]](https://www.v2ex.com/t/863575#reply3) | Sat Jul 02 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;01.Go 语言-开篇综述
@@ -265,7 +355,7 @@
 	 
     </details> 
 
-- 🤗 [Google 搜索了下 deno, 蚌埠住了](https://www.v2ex.com/t/863573#reply10) | Sat Jul 02 2022 1:51 AM 
+- 🥷 [Google 搜索了下 deno, 蚌埠住了](https://www.v2ex.com/t/863573#reply37) | Sat Jul 02 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GujGpwn.png&quot;/&gt;
@@ -275,7 +365,7 @@
 	 
     </details> 
 
-- 🎭 [云主机是否适合 PT 站](https://www.v2ex.com/t/863570#reply5) | Sat Jul 02 2022 1:23 AM 
+- 🐵 [云主机是否适合 PT 站](https://www.v2ex.com/t/863570#reply7) | Sat Jul 02 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;自己每年都会买一台云主机搭建自用服务，最近注册了 PT 站，想到云主机好像挺适合轻度 PT 用户。&lt;/p&gt;
@@ -284,29 +374,6 @@
 各个平台的新老手优惠，成本可能 100 多就有一年。
 对画质要求不高的资源，搭建 plex 观看还算流畅。高画质则拉回本地观看。&lt;/p&gt;
 &lt;p&gt;缺点就是硬盘性价比不高，小水管上传不给力。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [[求 Anki 卡片资源]](https://www.v2ex.com/t/863569#reply2) | Sat Jul 02 2022 1:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;小女在学网页开发&lpar;前端+后端: js, css, react 等&rpar;, 用 ANki 制作卡片, 求能搜索到现成 Anki 卡片的搜索引擎 /网站 /聊天群 等&lt;/p&gt;
-&lt;p&gt;谢谢&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [哪个版本的 win10 适合在虚拟机里？](https://www.v2ex.com/t/863568#reply3) | Sat Jul 02 2022 1:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;我日常使用 manjaro linux ，&lt;/p&gt;
-&lt;p&gt;最近迫于要使用 hbuilderx 搞 uniapp ，&lt;/p&gt;
-&lt;p&gt;由于 wine 运行不了 hbuilderx ，&lt;/p&gt;
-&lt;p&gt;而 node 目前新版本是不支持 win7 的，&lt;/p&gt;
-&lt;p&gt;win10 就是最终的虚拟机选项了，&lt;/p&gt;
-&lt;p&gt;而 win10 又有那么多版本，&lt;/p&gt;
-&lt;p&gt;不知道哪个版本的 win10 最适合虚拟机使用？&lt;/p&gt;
 
 	 
     </details> 
