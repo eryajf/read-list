@@ -472,11 +472,11 @@ userApp := controller.NewUserApp&lpar;
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [钟薛高回应“雪糕1小时不化”：不存在不融化的雪糕 使用极少量食品乳化增稠剂](http://www.techweb.com.cn/it/2022-07-03/2896637.shtml) | Sun Jul 03 2022 1:34 AM
-- 👹 [特斯拉第二季度交付量超25.4万 德国监管机构要求特斯拉紧急召回](http://www.techweb.com.cn/it/2022-07-03/2896634.shtml) | Sun Jul 03 2022 1:24 AM
-- 🪜 [小鹏P7出事故气囊没弹出 回应：撞击力度未达到气囊弹出要求](http://www.techweb.com.cn/it/2022-07-03/2896633.shtml) | Sun Jul 03 2022 1:21 AM
-- 🤭 [小米笔记本Pro将搭载英特尔第12代酷睿P系列处理器](http://www.techweb.com.cn/it/2022-07-02/2896626.shtml) | Sat Jul 02 2022 10:24 AM
-- 🙉 [小米12S系列下周一正式发布 全系升级骁龙8+芯片](http://www.techweb.com.cn/it/2022-07-02/2896625.shtml) | Sat Jul 02 2022 10:07 AM<!-- techweb-allnews:END -->
+- 👍 [华天酒店：控股股东拟筹划战略重组](http://www.techweb.com.cn/it/2022-07-03/2896655.shtml) | Sun Jul 03 2022 6:43 AM
+- 👹 [美的集团：已耗资11.88亿元回购2158万股](http://www.techweb.com.cn/it/2022-07-03/2896654.shtml) | Sun Jul 03 2022 6:40 AM
+- 🪜 [趣店罗敏再追预制菜风口 这次能否自救翻身](http://www.techweb.com.cn/it/2022-07-03/2896651.shtml) | Sun Jul 03 2022 6:30 AM
+- 🤭 [特斯拉：在中国大陆已建设开放1200多座超级充电站](http://www.techweb.com.cn/it/2022-07-03/2896648.shtml) | Sun Jul 03 2022 6:02 AM
+- 🙉 [钟薛高回应“雪糕1小时不化”：不存在不融化的雪糕 使用极少量食品乳化增稠剂](http://www.techweb.com.cn/it/2022-07-03/2896637.shtml) | Sun Jul 03 2022 1:34 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
