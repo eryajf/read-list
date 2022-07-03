@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [练习引体向上的少年 | 2022年中总结](https://juejin.cn/post/7116079296602603533) | Sun Jul 03 2022 9:43 AM 
+- 🤗 [如何通过缩短客服响应时间来避免潜在客户的流失](https://juejin.cn/post/7116081304696782879) | Sun Jul 03 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 正在练习引体向上的少年 日期：2022 年 7 月 3 日 练习引体向上的少年的2022年中总结 对于年中或者年度总结不知多少小伙伴是自己 
+    在当今瞬息万变的世界中，没有人喜欢一直等待，我们希望我们的诉求能够迅速相应，因此企业客服的响应时间也不例外。 大多数客户愿意在诉求快速响应的企业上投入更多，我们认为这是优质服务，公司足够重视客户的需求 
     </details> 
 
-- 🎡 [canvas 中如何实现物体的框选（六）🏖](https://juejin.cn/post/7116073689669435422) | Sun Jul 03 2022 9:21 AM 
+- 🎡 [使用 UmiJS+@umijs/plugin-qiankun 搭建微前端应用](https://juejin.cn/post/7116076626328158244) | Sun Jul 03 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
-    虽然这两个月基金涨的还行，但是离回本还有一大大大段距离😂。今天我们要实现的是 canvas 中物体的框选功能和 Group 类。 
+    什么是 UmiJS？什么是 qiankun？如何使用 UmiJS+@umijs/plugin-qiankun 搭建微前端应用。 
     </details> 
 
-- 🕯 [链表设计与Java实现，手写LinkedList这也太清楚了吧！！！](https://juejin.cn/post/7116066449654808584) | Sun Jul 03 2022 8:53 AM 
+- 🕯 [聊聊支付流程的设计与实现逻辑](https://juejin.cn/post/7116076448699383838) | Sun Jul 03 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-    深入剖析链表原理，讲解各种链表和原理，带你手写LinkedList。图文并茂，层层递进，这也太清楚了吧！！！！ 
+    通常在业务体系中，都会或多或少的涉及到支付相关的功能；对于一些经验欠缺同学来说，最紧张的就是面对这类支付结算的逻辑，因为流程中的任何细节问题，都可能引发对账异常的情况； 
     </details> 
 
-- 🚀 [【油猴脚本】在 Iconfont 上直接复制 React component 代码](https://juejin.cn/post/7116055375371042830) | Sun Jul 03 2022 8:10 AM 
+- 🚀 [web 跨域请求安全问题](https://juejin.cn/post/7116055668485783589) | Sun Jul 03 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-    所以我写了一个油猴脚本，可以在 iconfont.cn 上直接复制 React component 代码，本文讲述改脚本的实现原理。 
+    很多跨域安全问题是由于浏览器 “默认许可” 这一不成文的规定带来的，之所以这样做，也许是基于开放互通的 web 思维，或者浏览器厂商为了占据更多市场而提供更开放自由的行为。 
     </details> 
 
-- 💪 [SpringBoot破产企业资产拍卖信息系统设计与实现源码](https://juejin.cn/post/7116054994637291557) | Sun Jul 03 2022 8:08 AM 
+- 💪 [超容易上手的React项目实战：小黑盒组件开发，BUG全都退！退！退！](https://juejin.cn/post/7116055010512732196) | Sun Jul 03 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    ​   博主介绍：✌在职Java研发工程师、专注于程序设计、源码分享、技术交流、专注于Java技术领域和毕业设计✌ SpringBoot破产企业资产拍卖信息系统设计与实现源码 https://www. 
+    正好赶上Steam的夏促活动，而我一般使用小黑盒这款移动端app查看优惠信息，于是就想着能不能自己动手使用React开发一个类似小黑盒的界面来锻炼自己组件开发的能力。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
