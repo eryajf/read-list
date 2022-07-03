@@ -355,11 +355,11 @@ location ^~ /
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [小米笔记本Pro将搭载英特尔第12代酷睿P系列处理器](http://www.techweb.com.cn/it/2022-07-02/2896626.shtml) | Sat Jul 02 2022 10:24 AM
-- 👹 [小米12S系列下周一正式发布 全系升级骁龙8+芯片](http://www.techweb.com.cn/it/2022-07-02/2896625.shtml) | Sat Jul 02 2022 10:07 AM
-- 🪜 [华为正式发布全新品牌华为影像XMAGE](http://www.techweb.com.cn/it/2022-07-02/2896623.shtml) | Sat Jul 02 2022 8:57 AM
-- 🤭 [长电科技称已能封装4nm手机芯片 以及CPUGPU射频芯片集成封装](http://www.techweb.com.cn/it/2022-07-02/2896622.shtml) | Sat Jul 02 2022 8:42 AM
-- 🙉 [苹果AirPods Pro 2预计今秋推出 与iPhone 14同期发布](http://www.techweb.com.cn/it/2022-07-02/2896621.shtml) | Sat Jul 02 2022 7:53 AM<!-- techweb-allnews:END -->
+- 👍 [特斯拉第二季度交付量超25.4万 德国监管机构要求特斯拉紧急召回](http://www.techweb.com.cn/it/2022-07-03/2896634.shtml) | Sun Jul 03 2022 1:24 AM
+- 👹 [小鹏P7出事故气囊没弹出 回应：撞击力度未达到气囊弹出要求](http://www.techweb.com.cn/it/2022-07-03/2896633.shtml) | Sun Jul 03 2022 1:21 AM
+- 🪜 [小米笔记本Pro将搭载英特尔第12代酷睿P系列处理器](http://www.techweb.com.cn/it/2022-07-02/2896626.shtml) | Sat Jul 02 2022 10:24 AM
+- 🤭 [小米12S系列下周一正式发布 全系升级骁龙8+芯片](http://www.techweb.com.cn/it/2022-07-02/2896625.shtml) | Sat Jul 02 2022 10:07 AM
+- 🙉 [华为正式发布全新品牌华为影像XMAGE](http://www.techweb.com.cn/it/2022-07-02/2896623.shtml) | Sat Jul 02 2022 8:57 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
