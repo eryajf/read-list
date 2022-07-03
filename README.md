@@ -206,7 +206,7 @@
 - 🤗 [为什么现在很多程序员都把 C#称作.NET？](https://www.v2ex.com/t/863832#reply6) | Sun Jul 03 2022 2:58 PM
 - 🎭 [Go 语言极简一本通](https://www.v2ex.com/t/863831#reply1) | Sun Jul 03 2022 2:56 PM
 - 🥷 [项目资金从上往下一扣再扣](https://www.v2ex.com/t/863828#reply5) | Sun Jul 03 2022 2:48 PM
-- 🐵 [外包又外包是国内小公司的常态么？野路子好厉害](https://www.v2ex.com/t/863823#reply16) | Sun Jul 03 2022 2:05 PM<!-- v2ex:END -->
+- 🐵 [外包又外包是国内小公司的常态么？野路子好厉害](https://www.v2ex.com/t/863823#reply18) | Sun Jul 03 2022 2:05 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
