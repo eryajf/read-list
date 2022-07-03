@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [分享程序员发展路线图](https://www.v2ex.com/t/863711#reply1) | Sat Jul 02 2022 6:49 PM 
+- 🥸 [分享程序员发展路线图](https://www.v2ex.com/t/863711#reply2) | Sat Jul 02 2022 6:49 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;&lt;img alt=&quot;FB0FB20A-0961-4817-8866-6C9C08A8B9FF.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s2.loli.net/2022/07/03/5QbO4onR9SaTB2j.jpg&quot;/&gt;&lt;/p&gt;
@@ -212,7 +212,7 @@
 	 
     </details> 
 
-- 🤗 [7.1 过了， google workspace 教育版用户怎么样了？](https://www.v2ex.com/t/863705#reply1) | Sat Jul 02 2022 5:38 PM 
+- 🤗 [7.1 过了， google workspace 教育版用户怎么样了？](https://www.v2ex.com/t/863705#reply2) | Sat Jul 02 2022 5:38 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;7.1 过了， 有没有 google workspace 教育版用户现身说法？
