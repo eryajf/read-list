@@ -456,11 +456,11 @@ userApp := controller.NewUserApp&lpar;
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [华天酒店：控股股东拟筹划战略重组](http://www.techweb.com.cn/it/2022-07-03/2896655.shtml) | Sun Jul 03 2022 6:43 AM
-- 👹 [美的集团：已耗资11.88亿元回购2158万股](http://www.techweb.com.cn/it/2022-07-03/2896654.shtml) | Sun Jul 03 2022 6:40 AM
-- 🪜 [趣店罗敏再追预制菜风口 这次能否自救翻身](http://www.techweb.com.cn/it/2022-07-03/2896651.shtml) | Sun Jul 03 2022 6:30 AM
-- 🤭 [特斯拉：在中国大陆已建设开放1200多座超级充电站](http://www.techweb.com.cn/it/2022-07-03/2896648.shtml) | Sun Jul 03 2022 6:02 AM
-- 🙉 [钟薛高回应“雪糕1小时不化”：不存在不融化的雪糕 使用极少量食品乳化增稠剂](http://www.techweb.com.cn/it/2022-07-03/2896637.shtml) | Sun Jul 03 2022 1:34 AM<!-- techweb-allnews:END -->
+- 👍 [赛力斯：6月AITO问界M5销量7021辆](http://www.techweb.com.cn/it/2022-07-03/2896656.shtml) | Sun Jul 03 2022 6:58 AM
+- 👹 [华天酒店：控股股东拟筹划战略重组](http://www.techweb.com.cn/it/2022-07-03/2896655.shtml) | Sun Jul 03 2022 6:43 AM
+- 🪜 [美的集团：已耗资11.88亿元回购2158万股](http://www.techweb.com.cn/it/2022-07-03/2896654.shtml) | Sun Jul 03 2022 6:40 AM
+- 🤭 [趣店罗敏再追预制菜风口 这次能否自救翻身](http://www.techweb.com.cn/it/2022-07-03/2896651.shtml) | Sun Jul 03 2022 6:30 AM
+- 🙉 [特斯拉：在中国大陆已建设开放1200多座超级充电站](http://www.techweb.com.cn/it/2022-07-03/2896648.shtml) | Sun Jul 03 2022 6:02 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
