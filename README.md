@@ -202,14 +202,63 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何让程序以为自己拥有管理员权限，实际却没有？](https://www.v2ex.com/t/863736#reply0) | Sun Jul 03 2022 4:22 AM 
+- 🥸 [从 Anki 到 Obsidian，我的 Spaced Repetition 经历](https://www.v2ex.com/t/863740#reply1) | Sun Jul 03 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
     
-	我在 Windows 7 下有个 exe 需要运行，但它一直请求提权。&lt;br /&gt;&lt;br /&gt;我依照 &lt;a target=&quot;_blank&quot; href=&quot;https://superuser.com/a/981202&quot; rel=&quot;nofollow noopener&quot;&gt;https://superuser.com/a/981202&lt;/a&gt; 里面的回答使用 [cmd /min /C &quot;set __COMPAT_LAYER=RUNASINVOKER &amp;amp;&amp;amp; start &quot;&quot; %1&quot;] 运行程序，但程序却提示必须以管理员身份运行。&lt;br /&gt;&lt;br /&gt;请问是否有某种方法，让程序以为自己拥有管理员权限，实际却没有（比如无法访问某些文件夹、无法修改某些系统设置）？
+	&lt;p&gt;原文发表在我的博客：&lt;a href=&quot;https://felixgibson.github.io/2022/07/03/%E6%88%91%E4%BD%BF%E7%94%A8%E2%80%9C%E9%97%B4%E9%9A%94%E9%87%8D%E5%A4%8D%E2%80%9D%E7%9A%84%E7%BB%8F%E5%8E%86/&quot; rel=&quot;nofollow&quot;&gt;从 Anki 到 Obsidian ，我的 Spaced Repetition 经历&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Spaced Repetition 定义和作用&lt;/h2&gt;
+&lt;p&gt;间隔重复，英文叫做&quot;Spaced Repetition&quot;，关于它的定义，可看 Spaced repetition-&lt;a href=&quot;https://en.wikipedia.org/wiki/Spaced_repetition&quot; rel=&quot;nofollow&quot;&gt;en.wikipedia.org&lt;/a&gt; 。
+就我半年的使用来看，Spaced Repetition 有多个好处：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;能够回顾知识：很多时候，自己都是在犯过去同样的错误，通过 Spaced Repetition ，相当于加了一个超级强大的 memo ，就像是动态规划算法，一但做过某个东西，下一次就可以直接拿来用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;self testing：复习卡片，就是回答问题的过程，这个过程能够增加记忆。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;减少选择：很多时候，我们会面临选择的困境，我们的选择太多会让“选择”这个过程就花费很多时间。Spaced Repetition ，减少了选择，你只需要不断地复习就行了。至于复习哪些内容，算法都帮你解决了。其实，抖音这类 app ，也是利用了这个特点，减少了用户的选择。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;孤立语义，避免 illusion of competence: 我在之前的&lt;a href=&quot;https://felixgibson.github.io/2022/06/05/2022-06-04/&quot; rel=&quot;nofollow&quot;&gt;博客&lt;/a&gt;中提到了&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;many students experience illusions of competence when they are studying. “repeatedly read their notes or textbook&lpar;despite the limited benefits of this strategy&rpar;, but relatively few engage in self-testing or retrieval practice while studying”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;很多人不断重复阅读书籍，以为自己什么都会了，但是一考试，却发现实际上还是有很多空缺。这是因为我们对书籍的整体太熟悉造成。要打破这种熟悉，增加单个知识点的连接，就需要孤立每一个知识点，这个可以通过 Spaced Repetition 做到&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;从 Anki 到 Obsidian ，我的 Spaced Repetition 经历&lt;/h2&gt;
+&lt;p&gt;第一次接触到 Spaced Repetition 是通过 Anki ，用了一段时间，发现制作卡片和回顾卡片都太独立，没法整合到笔记系统中。&lt;/p&gt;
+&lt;p&gt;后面把笔记系统从 onenote 切换到了 logseq ，发现 logseq 自带的 flashcards 就是 anki 的便捷版本，随后就开始在 logseq 上制作卡片，然后回顾卡片。但是在这个过程中，发现一些 Logseq 的问题，&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;比如性能堪忧。当我制作了 500+卡片时，已经很卡顿了。&lt;/li&gt;
+&lt;li&gt;功能不全面，有 bug 。比如 flashcard 不具备根据 card-next-schedule 进行排序的功能，由此我还专门提了一个&lt;a href=&quot;https://github.com/logseq/logseq/pull/4864&quot; rel=&quot;nofollow&quot;&gt;PR 给 Logseq 官方&lt;/a&gt;，但是最终还是放弃了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最后把笔记从 Logseq 迁移到 Obsidian ，无意间发现&lt;a href=&quot;https://github.com/st3v3nmw/obsidian-spaced-repetition&quot; rel=&quot;nofollow&quot;&gt;obsidian-spaced-repetition&lt;/a&gt;这个插件，但是用了一段时间后，发现这个插件有一些功能不满足我的需求，比如制作卡片不灵活，它的&quot;?&quot;符号必须在行首且没有空格。不支持 tag 重新排序。等等。&lt;/p&gt;
+&lt;p&gt;最后，自己 fork 了一个分支，维护了起来。由于和原仓库改动较大，就没有提 PR 了。目前当作自己在用，而且 README 更新较慢。。
+&lt;a href=&quot;https://github.com/FelixGibson/obsidian-spaced-repetition&quot; rel=&quot;nofollow&quot;&gt;自己 fork 的分支的链接&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;总结&lt;/h2&gt;
+&lt;p&gt;Spaced Repetition 适合那些需要一生记忆的知识，对我来说，它能够极大地提高我的效率。希望大家读完本文章都能有所收获，找到自己合适的学习方式。&lt;/p&gt;
+
 	 
     </details> 
 
-- 🤗 [emergency mode 用不了 fsck 怎么办](https://www.v2ex.com/t/863735#reply0) | Sun Jul 03 2022 4:17 AM 
+- 🤗 [如何评价这些数据 [上海国家警察数据库被脱库]](https://www.v2ex.com/t/863739#reply4) | Sun Jul 03 2022 4:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;原文链接： &lt;a href=&quot;https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database&quot; rel=&quot;nofollow&quot;&gt;https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database&lt;/a&gt;&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [如何让程序以为自己拥有管理员权限，实际却没有？](https://www.v2ex.com/t/863736#reply3) | Sun Jul 03 2022 4:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	我在 Windows 7 下安装 tim ，但 tim 的安装程序一直通过 UAC 请求提权。&lt;br /&gt;&lt;br /&gt;我依照 &lt;a target=&quot;_blank&quot; href=&quot;https://superuser.com/a/981202&quot; rel=&quot;nofollow noopener&quot;&gt;https://superuser.com/a/981202&lt;/a&gt; 里面的回答使用 [cmd /min /C &quot;set __COMPAT_LAYER=RUNASINVOKER &amp;amp;&amp;amp; start &quot;&quot; %1&quot;] 运行程序，结果 UAC 确实没了，但 tim 安装程序却提示必须以管理员身份运行。&lt;br /&gt;&lt;br /&gt;请问是否有某种方法，让程序以为自己拥有管理员权限，实际却没有（比如无法访问某些文件夹、无法修改某些系统设置）？
+	 
+    </details> 
+
+- 🥷 [emergency mode 用不了 fsck 怎么办](https://www.v2ex.com/t/863735#reply2) | Sun Jul 03 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;电脑是 Thinkpad T470 ，电池突出来的那一种，不知道大家有没有过体验，这样的 Thinkpad 如果移动的时候你碰到了它的电池部分还是哪块，电脑系统就会卡死，只能强制关机。我正是由于强制关机，所以开机就进 emergency mode 了。。
@@ -228,29 +277,10 @@
 	 
     </details> 
 
-- 🎭 [救命！重装系统后，数据恢复后的照片，虽然找回来了，但是大部分都打不开了。](https://www.v2ex.com/t/863733#reply3) | Sun Jul 03 2022 3:34 AM 
+- 🐵 [救命！重装系统后，数据恢复后的照片，虽然找回来了，但是大部分都打不开了。](https://www.v2ex.com/t/863733#reply3) | Sun Jul 03 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;各位大佬有建议怎么去修复嘛？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [分享程序员发展路线图](https://www.v2ex.com/t/863711#reply2) | Sat Jul 02 2022 6:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;&lt;img alt=&quot;FB0FB20A-0961-4817-8866-6C9C08A8B9FF.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s2.loli.net/2022/07/03/5QbO4onR9SaTB2j.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;另有各路邪教派如销售、市场、客服、测试、滴滴、外卖、快递、跑腿、按摩、算卦等等等&lt;/p&gt;
-&lt;p&gt;非原创，但找不到原出处了，不好意思，原作者看到可联系我追加补充，谢谢&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [7.1 过了， google workspace 教育版用户怎么样了？](https://www.v2ex.com/t/863705#reply2) | Sat Jul 02 2022 5:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;7.1 过了， 有没有 google workspace 教育版用户现身说法？
-Google 有没有收回空间？&lt;/p&gt;
 
 	 
     </details> 
