@@ -202,7 +202,41 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [分享程序员发展路线图](https://www.v2ex.com/t/863711#reply2) | Sat Jul 02 2022 6:49 PM 
+- 🥸 [如何让程序以为自己拥有管理员权限，实际却没有？](https://www.v2ex.com/t/863736#reply0) | Sun Jul 03 2022 4:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	我在 Windows 7 下有个 exe 需要运行，但它一直请求提权。&lt;br /&gt;&lt;br /&gt;我依照 &lt;a target=&quot;_blank&quot; href=&quot;https://superuser.com/a/981202&quot; rel=&quot;nofollow noopener&quot;&gt;https://superuser.com/a/981202&lt;/a&gt; 里面的回答使用 [cmd /min /C &quot;set __COMPAT_LAYER=RUNASINVOKER &amp;amp;&amp;amp; start &quot;&quot; %1&quot;] 运行程序，但程序却提示必须以管理员身份运行。&lt;br /&gt;&lt;br /&gt;请问是否有某种方法，让程序以为自己拥有管理员权限，实际却没有（比如无法访问某些文件夹、无法修改某些系统设置）？
+	 
+    </details> 
+
+- 🤗 [emergency mode 用不了 fsck 怎么办](https://www.v2ex.com/t/863735#reply0) | Sun Jul 03 2022 4:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;电脑是 Thinkpad T470 ，电池突出来的那一种，不知道大家有没有过体验，这样的 Thinkpad 如果移动的时候你碰到了它的电池部分还是哪块，电脑系统就会卡死，只能强制关机。我正是由于强制关机，所以开机就进 emergency mode 了。。
+&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/ZXkosl0.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;系统是 Linux Mint 19.3&lpar;对应 ubuntu 18.04&rpar;&lt;/p&gt;
+&lt;p&gt;然后根据提示我去搜索，说要编辑 /etc/fstab ，
+&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/zrwHMNs.jpg&quot;/&gt;
+我一看我以为是 /挂载有问题，我直接注释了，后面还是进入 emergency mode ，我又给注释回来了，然后去看了下 journalctl -xb 的日志，发现可能是需要检查磁盘操作？
+&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/veWV0V0.jpg&quot;/&gt;
+然后我发现 fsck 用不了，提示
+&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/kZjnzzI.jpg&quot;/&gt;
+然后一顿搜索，说是在根目录创建个文件就能自动强制 fsck ？然后我就 sudo touch /forcefsck 了一个文件，结果还是进 emergency mode ，
+&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/9c3FRHS.jpg&quot;/&gt;
+现在没招了，只能用 u 盘做一个 linux 启动盘，然后 fsck 这块 nvme 盘吗？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🎭 [救命！重装系统后，数据恢复后的照片，虽然找回来了，但是大部分都打不开了。](https://www.v2ex.com/t/863733#reply3) | Sun Jul 03 2022 3:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	&lt;p&gt;各位大佬有建议怎么去修复嘛？&lt;/p&gt;
+
+	 
+    </details> 
+
+- 🥷 [分享程序员发展路线图](https://www.v2ex.com/t/863711#reply2) | Sat Jul 02 2022 6:49 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;&lt;img alt=&quot;FB0FB20A-0961-4817-8866-6C9C08A8B9FF.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s2.loli.net/2022/07/03/5QbO4onR9SaTB2j.jpg&quot;/&gt;&lt;/p&gt;
@@ -212,75 +246,11 @@
 	 
     </details> 
 
-- 🤗 [7.1 过了， google workspace 教育版用户怎么样了？](https://www.v2ex.com/t/863705#reply2) | Sat Jul 02 2022 5:38 PM 
+- 🐵 [7.1 过了， google workspace 教育版用户怎么样了？](https://www.v2ex.com/t/863705#reply2) | Sat Jul 02 2022 5:38 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;7.1 过了， 有没有 google workspace 教育版用户现身说法？
 Google 有没有收回空间？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [请教一个 Nginx 反代配置写法](https://www.v2ex.com/t/863697#reply2) | Sat Jul 02 2022 3:55 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;由于现在手上的 WordPress 网站服务器访问比较慢，想用一台香港服务器做 Nginx 全站反代。&lt;/p&gt;
-&lt;p&gt;网站没有做动静分离，只希望对静态图片做缓存处理，动态内容仍然回源。&lt;/p&gt;
-&lt;p&gt;用的是宝塔面板，规则这样写报错&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;#PROXY-START/
-
-location ^~ /
-{
-    proxy_pass https://**.**.**.**;
-    proxy_set_header Host ***.*****.***;
-    proxy_set_header X-Real-IP $remote_addr;
-    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-    proxy_set_header REMOTE-HOST $remote_addr;
-
-    add_header X-Cache $upstream_cache_status;
-    add_header CDN-Server HK;
-
-    #Set Nginx Cache
-    
-
-   	if &lpar; $uri ~* &quot;\.&lpar;gif|png|jpg|css|js|woff|woff2&rpar;$descriptionquot; &rpar;
-    {
-         proxy_ignore_headers Set-Cookie Cache-Control expires;
-         proxy_cache cache_one;
-         proxy_cache_key $host$uri$is_args$args;
-         proxy_cache_valid 200 304 301 302 10080m;
-    }
-    
-   
-}
-
-#PROXY-END/
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;请教大佬们应该如何配置&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🥷 [2022 年网游最低要求配置为 2060 的标准，类比到前端领域相当于什么程度的大环境搭配什么类型的架构呢？](https://www.v2ex.com/t/863694#reply5) | Sat Jul 02 2022 3:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;来源于 &lt;a href=&quot;https://www.bilibili.com/video/BV1Sa411s7Ag&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Sa411s7Ag&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;说的是 08 年采用虚幻 3 引擎的网游都黄了&lt;/p&gt;
-&lt;p&gt;优化差 bug 多 开发耦合多 迭代差 ，必须要固定某一版本的虚幻 3 引擎且不升级，才能开发。因为盲目升级的话，游戏项目需要依赖的插件也必须要适配才行。&lt;/p&gt;
-&lt;p&gt;虚幻 4 才开始引擎免费，大批虚幻 3 积累的问题在虚幻 4 得到解决，以至于虚幻 4 引擎的网游遍地都是。&lt;/p&gt;
-&lt;p&gt;2022 年某网游最低配置是 2060 为标准&lt;/p&gt;
-&lt;p&gt;相当于前端上 2022 年 用 WebAssembly 来构件前端项目吗？&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [pve 硬盘直通做系统盘 Read Error](https://www.v2ex.com/t/863688#reply7) | Sat Jul 02 2022 2:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;pve 硬盘直通了一块 Nvme M.2 的盘想用来做 PVE 虚机的系统盘，然后通过&quot;PVE-创建虚拟机&quot;的时候添加的虚拟光驱里面的 ISO 文件，装了一个 Linux 系统到 M.2 里面，结果装完系统把虚拟光驱删掉之后，重启 PVE 虚机，报错 Read Error ，搜了半天也没搜到，现在 PVE 虚机也关不了机。。。
-&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/IvLk491.png&quot;/&gt;
-&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/SL7NJEs.png&quot;/&gt;&lt;/p&gt;
 
 	 
     </details> 
