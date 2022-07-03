@@ -202,85 +202,202 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [从 Anki 到 Obsidian，我的 Spaced Repetition 经历](https://www.v2ex.com/t/863740#reply1) | Sun Jul 03 2022 4:51 AM 
+- 🥸 [项目经理的路在何方呢？](https://www.v2ex.com/t/863751#reply1) | Sun Jul 03 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;原文发表在我的博客：&lt;a href=&quot;https://felixgibson.github.io/2022/07/03/%E6%88%91%E4%BD%BF%E7%94%A8%E2%80%9C%E9%97%B4%E9%9A%94%E9%87%8D%E5%A4%8D%E2%80%9D%E7%9A%84%E7%BB%8F%E5%8E%86/&quot; rel=&quot;nofollow&quot;&gt;从 Anki 到 Obsidian ，我的 Spaced Repetition 经历&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Spaced Repetition 定义和作用&lt;/h2&gt;
-&lt;p&gt;间隔重复，英文叫做&quot;Spaced Repetition&quot;，关于它的定义，可看 Spaced repetition-&lt;a href=&quot;https://en.wikipedia.org/wiki/Spaced_repetition&quot; rel=&quot;nofollow&quot;&gt;en.wikipedia.org&lt;/a&gt; 。
-就我半年的使用来看，Spaced Repetition 有多个好处：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;能够回顾知识：很多时候，自己都是在犯过去同样的错误，通过 Spaced Repetition ，相当于加了一个超级强大的 memo ，就像是动态规划算法，一但做过某个东西，下一次就可以直接拿来用。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;self testing：复习卡片，就是回答问题的过程，这个过程能够增加记忆。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;减少选择：很多时候，我们会面临选择的困境，我们的选择太多会让“选择”这个过程就花费很多时间。Spaced Repetition ，减少了选择，你只需要不断地复习就行了。至于复习哪些内容，算法都帮你解决了。其实，抖音这类 app ，也是利用了这个特点，减少了用户的选择。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;孤立语义，避免 illusion of competence: 我在之前的&lt;a href=&quot;https://felixgibson.github.io/2022/06/05/2022-06-04/&quot; rel=&quot;nofollow&quot;&gt;博客&lt;/a&gt;中提到了&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;many students experience illusions of competence when they are studying. “repeatedly read their notes or textbook&lpar;despite the limited benefits of this strategy&rpar;, but relatively few engage in self-testing or retrieval practice while studying”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;很多人不断重复阅读书籍，以为自己什么都会了，但是一考试，却发现实际上还是有很多空缺。这是因为我们对书籍的整体太熟悉造成。要打破这种熟悉，增加单个知识点的连接，就需要孤立每一个知识点，这个可以通过 Spaced Repetition 做到&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;从 Anki 到 Obsidian ，我的 Spaced Repetition 经历&lt;/h2&gt;
-&lt;p&gt;第一次接触到 Spaced Repetition 是通过 Anki ，用了一段时间，发现制作卡片和回顾卡片都太独立，没法整合到笔记系统中。&lt;/p&gt;
-&lt;p&gt;后面把笔记系统从 onenote 切换到了 logseq ，发现 logseq 自带的 flashcards 就是 anki 的便捷版本，随后就开始在 logseq 上制作卡片，然后回顾卡片。但是在这个过程中，发现一些 Logseq 的问题，&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;比如性能堪忧。当我制作了 500+卡片时，已经很卡顿了。&lt;/li&gt;
-&lt;li&gt;功能不全面，有 bug 。比如 flashcard 不具备根据 card-next-schedule 进行排序的功能，由此我还专门提了一个&lt;a href=&quot;https://github.com/logseq/logseq/pull/4864&quot; rel=&quot;nofollow&quot;&gt;PR 给 Logseq 官方&lt;/a&gt;，但是最终还是放弃了。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;最后把笔记从 Logseq 迁移到 Obsidian ，无意间发现&lt;a href=&quot;https://github.com/st3v3nmw/obsidian-spaced-repetition&quot; rel=&quot;nofollow&quot;&gt;obsidian-spaced-repetition&lt;/a&gt;这个插件，但是用了一段时间后，发现这个插件有一些功能不满足我的需求，比如制作卡片不灵活，它的&quot;?&quot;符号必须在行首且没有空格。不支持 tag 重新排序。等等。&lt;/p&gt;
-&lt;p&gt;最后，自己 fork 了一个分支，维护了起来。由于和原仓库改动较大，就没有提 PR 了。目前当作自己在用，而且 README 更新较慢。。
-&lt;a href=&quot;https://github.com/FelixGibson/obsidian-spaced-repetition&quot; rel=&quot;nofollow&quot;&gt;自己 fork 的分支的链接&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;总结&lt;/h2&gt;
-&lt;p&gt;Spaced Repetition 适合那些需要一生记忆的知识，对我来说，它能够极大地提高我的效率。希望大家读完本文章都能有所收获，找到自己合适的学习方式。&lt;/p&gt;
+	&lt;p&gt;身在一个互联网荒漠的二线城市的金融类国企，3 年前公司要上系统，因为我还会点 python 搞搞自动化办公，就被抓去当甲方项目经理。&lt;/p&gt;
+&lt;p&gt;后来就这么跌跌撞撞的学会了画原型，写文档，该有的证也都考出来了。对着已有代码复制粘贴能基于 springboot+vue 写点简单的管理页面，自己写的 python 项目也给公司把我的工资赚回来了。&lt;/p&gt;
+&lt;p&gt;带的开发团队也是一团和气，因为业务全条线我都干过，不合理的需求或者变更基本在我这都能改掉或者推出去，安排的任务开发都能高效完成，项目代码质量也不错。&lt;/p&gt;
+&lt;p&gt;直到有一天，我发现本地那些正经的软件公司，应届生跟我工资一样，心态彻底炸了。&lt;/p&gt;
+&lt;p&gt;近期一个项目，领导让我自己去客户驻场帮着写方案，把项目揽回来，然后自己对需求写文档画原型，再招聘一个开发团队把项目做完，最后给他赚回 200 万。我知道，我可能需要换个地方了。&lt;/p&gt;
+&lt;p&gt;所以项目经理的路在何方呢？一个好的项目经理应该是啥样的呢？从来没作为项目经理出去面试过，不知道人家能问啥。技术方面也是一知半解，面试别人时候问的问题我自己都答不上来。&lt;/p&gt;
 
 	 
     </details> 
 
-- 🤗 [如何评价这些数据 [上海国家警察数据库被脱库]](https://www.v2ex.com/t/863739#reply4) | Sun Jul 03 2022 4:27 AM 
+- 🤗 [上海国安数据库疑似泄露](https://www.v2ex.com/t/863750#reply5) | Sun Jul 03 2022 6:05 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;原文链接： &lt;a href=&quot;https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database&quot; rel=&quot;nofollow&quot;&gt;https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;目前国外论坛 breached 发布出售信息，以 10BTC&lpar;20 亿美元&rpar;的价格出售这些数据&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.xyzcdn.net/FpHUZcr-n8C4Jm8D8UZ-zUflXYvg.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;根据卖家描述，其中信息已经超过 24T ，包含十亿公民及十亿病历信息如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;姓名
+出生地
+地址
+身份证号
+手机号码
+所有犯罪 /案件详细信息
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.xyzcdn.net/FsFLr0YL3EmqXo-VsmkXCRj0phnW.png&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;ps：目前所有信息存疑，请继续观望。请不要尝试使用社工库机器人，那反而证明你是个真人。&lt;/h2&gt;
 
 	 
     </details> 
 
-- 🎭 [如何让程序以为自己拥有管理员权限，实际却没有？](https://www.v2ex.com/t/863736#reply3) | Sun Jul 03 2022 4:22 AM 
+- 🎭 [请教一个简单的 Golang interface 和 models 组织的问题](https://www.v2ex.com/t/863748#reply0) | Sun Jul 03 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
     
-	我在 Windows 7 下安装 tim ，但 tim 的安装程序一直通过 UAC 请求提权。&lt;br /&gt;&lt;br /&gt;我依照 &lt;a target=&quot;_blank&quot; href=&quot;https://superuser.com/a/981202&quot; rel=&quot;nofollow noopener&quot;&gt;https://superuser.com/a/981202&lt;/a&gt; 里面的回答使用 [cmd /min /C &quot;set __COMPAT_LAYER=RUNASINVOKER &amp;amp;&amp;amp; start &quot;&quot; %1&quot;] 运行程序，结果 UAC 确实没了，但 tim 安装程序却提示必须以管理员身份运行。&lt;br /&gt;&lt;br /&gt;请问是否有某种方法，让程序以为自己拥有管理员权限，实际却没有（比如无法访问某些文件夹、无法修改某些系统设置）？
+	&lt;p&gt;写得比较长，🙏&lt;/p&gt;
+&lt;p&gt;问题是这样的，A 层依赖于 B 层，A 作为使用者想隔离 B 的依赖，定义 interface 的时候该如何设计？&lt;/p&gt;
+&lt;p&gt;比如：controller 层从 JSON 绑定 model ，后续需要调用 service 层的用户处理逻辑&lt;/p&gt;
+&lt;p&gt;代码如下:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-go&quot;&gt;
+// package main
+
+// 构造 user service 实例
+userService := service.NewUserService&lpar;...&rpar;
+
+// userApp 依赖 user service
+userApp := controller.NewUserApp&lpar;userService&rpar;
+
+-----
+
+// package controller
+type UserApp struct {
+    svc *service.UserService
+}
+
+type User struct {
+    ...
+}
+
+func NewUserApp&lpar;svc *service.UserService&rpar; *UserApp {
+    return &amp;amp;UserApp{svc: svc}
+}
+
+// handler
+func &lpar;app* UserApp&rpar; Add&lpar;c Context&rpar; error {
+    // controller 层绑定 model
+    var user User
+    if err := bindJSON&lpar;c, &amp;amp;user&rpar;; err != nil {
+        return err
+    }
+
+    // model 转换
+    var svcUser service.User
+    toSvcUser&lpar;user, &amp;amp;svcUser&rpar;;
+
+    // 调用 service 逻辑
+    return app.svc.AddUser&lpar;svcUser&rpar;
+}
+
+----
+
+// package service
+type UserService struct {
+    ...
+}
+
+func NewUserService&lpar;...&rpar; *UserService {
+    ...
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这里为了方便测试 controller ，希望把 service 的依赖作为一个接口，变成下面这样：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-go&quot;&gt;
+// package controller
+type IUserService interface {
+    AddUser&lpar;user xxx&rpar; error
+}
+
+type UserApp struct {
+    svc IUserService
+}
+
+func NewUserApp&lpar;svc IUserService&rpar; *UserApp {
+    return &amp;amp;UserApp{svc: svc}
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我的疑问是这里的接口应该是下面的哪一种：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-go&quot;&gt;
+方法 1:
+
+type IUserService interface {
+    // 使用自己包的类型
+    AddUser&lpar;u User&rpar;
+}
+
+方法 2:
+
+type IUserService interface {
+    // 使用依赖包的类型
+    AddUser&lpar;u service.User&rpar;
+}
+
+方法 3:
+
+另开一个 models 包。把类型全塞 models 包里面，controller 层和 service 层都依赖于 models
+这种做法似乎不推荐吗？
+
+https://rakyll.org/style-packages/
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果是第一种的话，我是不是还需要在 controller 层加一个 adapter 来适配接口：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-go&quot;&gt;
+// package controller
+type UserServiceAdapter struct {
+    svc *service.UserService
+}
+
+// adapter 实现接口
+func &lpar;adapter *UserServiceAdapter&rpar; AddUser&lpar;user User&rpar; error {
+    // model 转换
+    var svcUser service.User
+    toSvcUser&lpar;user, &amp;amp;svcUser&rpar;;
+
+    // 调用 service 逻辑
+    return adapter.svc.AddUser&lpar;svcUser&rpar;
+}
+
+func NewUserServiceAdapter&lpar;svc *service.UserSvC&rpar; *UserServiceAdapter{
+    return &amp;amp;UserServiceAdapter{ svc: svc }
+}
+
+
+// package
+// 构造 user service 实例
+userService := service.NewUserService&lpar;...&rpar;
+userApp := controller.NewUserApp&lpar;
+    // 创建 adapter ，adapter 满足接口
+    controller.NewUserServiceAdapter&lpar;userService&rpar;
+&rpar;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;相关参考链接：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tutorialedge.net/golang/accept-interfaces-return-structs/&quot; rel=&quot;nofollow&quot;&gt;https://tutorialedge.net/golang/accept-interfaces-return-structs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/golang/go/wiki/CodeReviewComments&quot; rel=&quot;nofollow&quot;&gt;https://github.com/golang/go/wiki/CodeReviewComments&lt;/a&gt;&lt;/p&gt;
+
 	 
     </details> 
 
-- 🥷 [emergency mode 用不了 fsck 怎么办](https://www.v2ex.com/t/863735#reply2) | Sun Jul 03 2022 4:17 AM 
+- 🥷 [又一炸弹， 23TB 数据。](https://www.v2ex.com/t/863746#reply0) | Sun Jul 03 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;电脑是 Thinkpad T470 ，电池突出来的那一种，不知道大家有没有过体验，这样的 Thinkpad 如果移动的时候你碰到了它的电池部分还是哪块，电脑系统就会卡死，只能强制关机。我正是由于强制关机，所以开机就进 emergency mode 了。。
-&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/ZXkosl0.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;系统是 Linux Mint 19.3&lpar;对应 ubuntu 18.04&rpar;&lt;/p&gt;
-&lt;p&gt;然后根据提示我去搜索，说要编辑 /etc/fstab ，
-&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/zrwHMNs.jpg&quot;/&gt;
-我一看我以为是 /挂载有问题，我直接注释了，后面还是进入 emergency mode ，我又给注释回来了，然后去看了下 journalctl -xb 的日志，发现可能是需要检查磁盘操作？
-&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/veWV0V0.jpg&quot;/&gt;
-然后我发现 fsck 用不了，提示
-&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/kZjnzzI.jpg&quot;/&gt;
-然后一顿搜索，说是在根目录创建个文件就能自动强制 fsck ？然后我就 sudo touch /forcefsck 了一个文件，结果还是进 emergency mode ，
-&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/9c3FRHS.jpg&quot;/&gt;
-现在没招了，只能用 u 盘做一个 linux 启动盘，然后 fsck 这块 nvme 盘吗？&lt;/p&gt;
-
+	魔都 23TB 数据库被脱&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[img]&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/djtQikl.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/djtQikl.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;[/img]&lt;br /&gt;&lt;br /&gt;[img]&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/9E8lQGT.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/9E8lQGT.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;[/img]
 	 
     </details> 
 
-- 🐵 [救命！重装系统后，数据恢复后的照片，虽然找回来了，但是大部分都打不开了。](https://www.v2ex.com/t/863733#reply3) | Sun Jul 03 2022 3:34 AM 
+- 🐵 [上海公安局数据库泄漏，阿里云要赔多少钱。。](https://www.v2ex.com/t/863744#reply7) | Sun Jul 03 2022 5:28 AM 
     <details><summary>展开描述 ...</summary> 
     
-	&lt;p&gt;各位大佬有建议怎么去修复嘛？&lt;/p&gt;
+	&lt;p&gt;项目名称：上海市公安局智慧公安综合服务平台建设
+采购单位：上海市公安局
+公告时间：2020 年 05 月 18 日 08:22
+招标公告日期：2019 年 06 月 04 日
+中标日期：2019 年 07 月 15 日
+中标金额 ：2253.000000 万元（人民币）
+中标单位：阿里云计算有限公司
+项目联系人：董晴
+项目联系电话：SHXM-00-20190604-0191
+采购单位地址：武宁南路 128 号
+采购单位联系方式：18818273350
+代理机构名称：上海市政府采购中心
+代理机构地址：上海市大连路 515 号
+代理机构联系方式：021-35968018&lt;/p&gt;
+&lt;p&gt;不知道是不是一个项目，也可能健康码是另外的云承载的。
+核心业务和数据上云一定要慎重呀！！！慎重！！！慎重！！！&lt;/p&gt;
 
 	 
     </details> 
