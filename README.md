@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何通过缩短客服响应时间来避免潜在客户的流失](https://juejin.cn/post/7116081304696782879) | Sun Jul 03 2022 9:52 AM 
+- 🤗 [生成二维码或条形码JavaScript脚本库](https://juejin.cn/post/7116156434605146126) | Sun Jul 03 2022 2:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    二维码或条形码在日常生活中现在应用已经非常普遍了，文章分享生成条形码和二维码的JavaScript库。 条形码 条形码是日常生活中比较常见的，主要用于商品。通俗的理解就是一串字符串的集合（含字母、数字 
+    </details> 
+
+- 🎡 [在外企的工作生活「年中总结」](https://juejin.cn/post/7116152024428707847) | Sun Jul 03 2022 2:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    离开了某 T 语音，离开了某美科技，离开了互联网企业；我进入了传统行业，进入了某外企中国子公司，进入了一个新的起点。在某外企传统行业的一年，我们发生了什么故事？它和之前待的互联网企业又有什么的不同呢？ 
+    </details> 
+
+- 🕯 [运动两个月打卡瘦身41斤记录一下](https://juejin.cn/post/7116151052746883080) | Sun Jul 03 2022 2:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    5月运动打卡 6月运动打卡 运动详情如下 总运动量 运动时间：7890分钟 行走距离：647.18km 个人状态变化 总结 瘦的还是挺明显的，继续加油！努力+坚持一定可以，身材以后还是要好好管理的，纪 
+    </details> 
+
+- 🚀 [如何通过缩短客服响应时间来避免潜在客户的流失](https://juejin.cn/post/7116081304696782879) | Sun Jul 03 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     在当今瞬息万变的世界中，没有人喜欢一直等待，我们希望我们的诉求能够迅速相应，因此企业客服的响应时间也不例外。 大多数客户愿意在诉求快速响应的企业上投入更多，我们认为这是优质服务，公司足够重视客户的需求 
     </details> 
 
-- 🎡 [使用 UmiJS+@umijs/plugin-qiankun 搭建微前端应用](https://juejin.cn/post/7116076626328158244) | Sun Jul 03 2022 9:32 AM 
+- 💪 [使用 UmiJS+@umijs/plugin-qiankun 搭建微前端应用](https://juejin.cn/post/7116076626328158244) | Sun Jul 03 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
     什么是 UmiJS？什么是 qiankun？如何使用 UmiJS+@umijs/plugin-qiankun 搭建微前端应用。 
-    </details> 
-
-- 🕯 [聊聊支付流程的设计与实现逻辑](https://juejin.cn/post/7116076448699383838) | Sun Jul 03 2022 9:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    通常在业务体系中，都会或多或少的涉及到支付相关的功能；对于一些经验欠缺同学来说，最紧张的就是面对这类支付结算的逻辑，因为流程中的任何细节问题，都可能引发对账异常的情况； 
-    </details> 
-
-- 🚀 [web 跨域请求安全问题](https://juejin.cn/post/7116055668485783589) | Sun Jul 03 2022 8:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    很多跨域安全问题是由于浏览器 “默认许可” 这一不成文的规定带来的，之所以这样做，也许是基于开放互通的 web 思维，或者浏览器厂商为了占据更多市场而提供更开放自由的行为。 
-    </details> 
-
-- 💪 [超容易上手的React项目实战：小黑盒组件开发，BUG全都退！退！退！](https://juejin.cn/post/7116055010512732196) | Sun Jul 03 2022 8:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    正好赶上Steam的夏促活动，而我一般使用小黑盒这款移动端app查看优惠信息，于是就想着能不能自己动手使用React开发一个类似小黑盒的界面来锻炼自己组件开发的能力。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
