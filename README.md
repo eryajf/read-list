@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [分享程序员发展路线图](https://www.v2ex.com/t/863711#reply0) | Sat Jul 02 2022 6:49 PM 
+- 🥸 [分享程序员发展路线图](https://www.v2ex.com/t/863711#reply1) | Sat Jul 02 2022 6:49 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;&lt;img alt=&quot;FB0FB20A-0961-4817-8866-6C9C08A8B9FF.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s2.loli.net/2022/07/03/5QbO4onR9SaTB2j.jpg&quot;/&gt;&lt;/p&gt;
@@ -212,7 +212,7 @@
 	 
     </details> 
 
-- 🤗 [7.1 过了， google workspace 教育版用户怎么样了？](https://www.v2ex.com/t/863705#reply0) | Sat Jul 02 2022 5:38 PM 
+- 🤗 [7.1 过了， google workspace 教育版用户怎么样了？](https://www.v2ex.com/t/863705#reply1) | Sat Jul 02 2022 5:38 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;7.1 过了， 有没有 google workspace 教育版用户现身说法？
@@ -221,7 +221,7 @@ Google 有没有收回空间？&lt;/p&gt;
 	 
     </details> 
 
-- 🎭 [请教一个 Nginx 反代配置写法](https://www.v2ex.com/t/863697#reply1) | Sat Jul 02 2022 3:55 PM 
+- 🎭 [请教一个 Nginx 反代配置写法](https://www.v2ex.com/t/863697#reply2) | Sat Jul 02 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;由于现在手上的 WordPress 网站服务器访问比较慢，想用一台香港服务器做 Nginx 全站反代。&lt;/p&gt;
@@ -262,7 +262,7 @@ location ^~ /
 	 
     </details> 
 
-- 🥷 [2022 年网游最低要求配置为 2060 的标准，类比到前端领域相当于什么程度的大环境搭配什么类型的架构呢？](https://www.v2ex.com/t/863694#reply3) | Sat Jul 02 2022 3:17 PM 
+- 🥷 [2022 年网游最低要求配置为 2060 的标准，类比到前端领域相当于什么程度的大环境搭配什么类型的架构呢？](https://www.v2ex.com/t/863694#reply5) | Sat Jul 02 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;来源于 &lt;a href=&quot;https://www.bilibili.com/video/BV1Sa411s7Ag&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1Sa411s7Ag&lt;/a&gt;&lt;/p&gt;
@@ -275,7 +275,7 @@ location ^~ /
 	 
     </details> 
 
-- 🐵 [pve 硬盘直通做系统盘 Read Error](https://www.v2ex.com/t/863688#reply6) | Sat Jul 02 2022 2:39 PM 
+- 🐵 [pve 硬盘直通做系统盘 Read Error](https://www.v2ex.com/t/863688#reply7) | Sat Jul 02 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;pve 硬盘直通了一块 Nvme M.2 的盘想用来做 PVE 虚机的系统盘，然后通过&quot;PVE-创建虚拟机&quot;的时候添加的虚拟光驱里面的 ISO 文件，装了一个 Linux 系统到 M.2 里面，结果装完系统把虚拟光驱删掉之后，重启 PVE 虚机，报错 Read Error ，搜了半天也没搜到，现在 PVE 虚机也关不了机。。。
