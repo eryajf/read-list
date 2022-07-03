@@ -202,7 +202,14 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [项目经理的路在何方呢？](https://www.v2ex.com/t/863751#reply1) | Sun Jul 03 2022 6:09 AM 
+- 🥸 [国内有啥安卓手机支持 wifi calling 吗？](https://www.v2ex.com/t/863754#reply0) | Sun Jul 03 2022 7:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+	paygo 的号码到了，但是我的 iPhone 是美版单卡的要用国内的手机号。
+	 
+    </details> 
+
+- 🤗 [项目经理的路在何方呢？](https://www.v2ex.com/t/863751#reply3) | Sun Jul 03 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;身在一个互联网荒漠的二线城市的金融类国企，3 年前公司要上系统，因为我还会点 python 搞搞自动化办公，就被抓去当甲方项目经理。&lt;/p&gt;
@@ -215,7 +222,7 @@
 	 
     </details> 
 
-- 🤗 [上海国安数据库疑似泄露](https://www.v2ex.com/t/863750#reply5) | Sun Jul 03 2022 6:05 AM 
+- 🎭 [上海国安数据库疑似泄露](https://www.v2ex.com/t/863750#reply5) | Sun Jul 03 2022 6:05 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;目前国外论坛 breached 发布出售信息，以 10BTC&lpar;20 亿美元&rpar;的价格出售这些数据&lt;/p&gt;
@@ -235,7 +242,7 @@
 	 
     </details> 
 
-- 🎭 [请教一个简单的 Golang interface 和 models 组织的问题](https://www.v2ex.com/t/863748#reply0) | Sun Jul 03 2022 5:49 AM 
+- 🥷 [请教一个简单的 Golang interface 和 models 组织的问题](https://www.v2ex.com/t/863748#reply4) | Sun Jul 03 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
     
 	&lt;p&gt;写得比较长，🙏&lt;/p&gt;
@@ -372,33 +379,10 @@ userApp := controller.NewUserApp&lpar;
 	 
     </details> 
 
-- 🥷 [又一炸弹， 23TB 数据。](https://www.v2ex.com/t/863746#reply0) | Sun Jul 03 2022 5:32 AM 
+- 🐵 [又一炸弹， 23TB 数据。](https://www.v2ex.com/t/863746#reply0) | Sun Jul 03 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
     
 	魔都 23TB 数据库被脱&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[img]&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/djtQikl.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/djtQikl.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;[/img]&lt;br /&gt;&lt;br /&gt;[img]&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/9E8lQGT.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/9E8lQGT.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;[/img]
-	 
-    </details> 
-
-- 🐵 [上海公安局数据库泄漏，阿里云要赔多少钱。。](https://www.v2ex.com/t/863744#reply7) | Sun Jul 03 2022 5:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;项目名称：上海市公安局智慧公安综合服务平台建设
-采购单位：上海市公安局
-公告时间：2020 年 05 月 18 日 08:22
-招标公告日期：2019 年 06 月 04 日
-中标日期：2019 年 07 月 15 日
-中标金额 ：2253.000000 万元（人民币）
-中标单位：阿里云计算有限公司
-项目联系人：董晴
-项目联系电话：SHXM-00-20190604-0191
-采购单位地址：武宁南路 128 号
-采购单位联系方式：18818273350
-代理机构名称：上海市政府采购中心
-代理机构地址：上海市大连路 515 号
-代理机构联系方式：021-35968018&lt;/p&gt;
-&lt;p&gt;不知道是不是一个项目，也可能健康码是另外的云承载的。
-核心业务和数据上云一定要慎重呀！！！慎重！！！慎重！！！&lt;/p&gt;
-
 	 
     </details> 
 <!-- v2ex:END -->
