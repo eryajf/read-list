@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Java 写 gateway 与多个不通协议的单片机&lpar;下位机&rpar;进行通讯的思路](https://www.v2ex.com/t/863764#reply0) | Sun Jul 03 2022 8:18 AM
-- 🤗 [每天固定刷 LeetCode 时如何选择题目？](https://www.v2ex.com/t/863760#reply1) | Sun Jul 03 2022 7:39 AM
-- 🎭 [学习链接的时候的对重定位的疑问](https://www.v2ex.com/t/863759#reply1) | Sun Jul 03 2022 7:35 AM
-- 🥷 [国内有啥安卓手机支持 wifi calling 吗？](https://www.v2ex.com/t/863754#reply2) | Sun Jul 03 2022 7:02 AM
-- 🐵 [项目经理的路在何方呢？](https://www.v2ex.com/t/863751#reply6) | Sun Jul 03 2022 6:09 AM<!-- v2ex:END -->
+- 🥸 [以后 web 本地开发就用这个域名了 fastadmin.fbi.com](https://www.v2ex.com/t/863767#reply0) | Sun Jul 03 2022 9:12 AM
+- 🤗 [Java 写 gateway 与多个不通协议的单片机&lpar;下位机&rpar;进行通讯的思路](https://www.v2ex.com/t/863764#reply1) | Sun Jul 03 2022 8:18 AM
+- 🎭 [每天固定刷 LeetCode 时如何选择题目？](https://www.v2ex.com/t/863760#reply2) | Sun Jul 03 2022 7:39 AM
+- 🥷 [学习链接的时候的对重定位的疑问](https://www.v2ex.com/t/863759#reply4) | Sun Jul 03 2022 7:35 AM
+- 🐵 [国内有啥安卓手机支持 wifi calling 吗？](https://www.v2ex.com/t/863754#reply3) | Sun Jul 03 2022 7:02 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
