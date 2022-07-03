@@ -289,29 +289,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [实战Kubernetes Gitlab CI](https://juejin.cn/post/7115992572304031780) | Sun Jul 03 2022 4:06 AM 
+- 🤗 [Terraform 集成Ansible 实战&lpar;remote&rpar;](https://juejin.cn/post/7115994417516773384) | Sun Jul 03 2022 4:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 Terraform 和 Ansible 是两个独立的工具，有各自的用途，但它们可以集成以解决典型用例以及它们相互补充的方式，这使得它们更加受欢迎。 一 工具简介 1.1 Terraform 它是 
+    </details> 
+
+- 🎡 [Terraform + Gitlab CI简单集成方案](https://juejin.cn/post/7115993352209694751) | Sun Jul 03 2022 4:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    一 背景 利用Gitlab CI实现基础设施编排自动化，用户后续针对基础设施的管理使用Gitlab完成，提交基础设施变更后，会出发pr进行Gitlab CI流水线执行，从而实现基础设施DevOPS流程 
+    </details> 
+
+- 🕯 [实战Kubernetes Gitlab CI](https://juejin.cn/post/7115992572304031780) | Sun Jul 03 2022 4:06 AM 
     <details><summary>展开描述 ...</summary> 
     一 背景 在目前微服务大行其道的背景下，Gitlab CI集成kubernetes已经是不可或缺的基本操作，我们前几节系统的实战了前后端项目以及物理/K8s混合环境部署，这节课我们来学习Gitlab  
     </details> 
 
-- 🎡 [心里有火 眼里有光 | 2022年中总结](https://juejin.cn/post/7115982030722039838) | Sun Jul 03 2022 3:26 AM 
+- 🚀 [来看光影流动之美](https://juejin.cn/post/7115990446311997448) | Sun Jul 03 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-    去年做年中总结的时候，收到了一条让我印象很深的评论：“**能看出来你眼睛里有光!👏**”，我花了昨天一整天的时间在反思复盘：这一年经历了什么，成长了什么。我发现这一年仍然是：心里有火，眼里有光。 
+    谁说代码就一定是枯燥无趣的？用代码绘制一场变幻的“光影秀”，在光影流动中感受编程之美，让写代码带给我们更多的趣味。 
     </details> 
 
-- 🕯 [一文搞懂Go语言Context](https://juejin.cn/post/7115913756596502565) | Sat Jul 02 2022 11:20 PM 
+- 💪 [云原生备份恢复工具Velero二开实战](https://juejin.cn/post/7115990497726283806) | Sun Jul 03 2022 3:59 AM 
     <details><summary>展开描述 ...</summary> 
-    0 前置知识sync.WaitGroup sync.WaitGroup是等待一组协程结束。它实现了一个类似任务队列的结构，可以向队列中加入任务，任务完成后就把任务从队列中移除，如果队列中的任务没有全部 
-    </details> 
-
-- 🚀 [图解网络：什么是虚拟路由器冗余协议 VRRP？](https://juejin.cn/post/7115800662599794718) | Sat Jul 02 2022 3:45 PM 
-    <details><summary>展开描述 ...</summary> 
-    虚拟路由器冗余协议 &lpar;VRRP&rpar; 为一组路由器提供一个虚拟 IP 地址，VRRP 可以与不同厂商的路由器一起使用，并且 VRRP 支持消息摘要 5 &lpar;MD5&rpar; 身份验证。 
-    </details> 
-
-- 💪 [JVM如何分配和回收堆外内存](https://juejin.cn/post/7115787649910046750) | Sat Jul 02 2022 2:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    JVM内存模型 在JVM中内存被分成两大块，分别是堆内存和堆外内存，堆内存就是JVM使用的内存，而堆外内存就是非JVM使用的内存，一般是分配给机器使用的内存。 那么整个内存模型如下： 
+    前言 Velero&lpar;https://velero.io&rpar;&lpar;可以提供备份和还原 Kubernetes 集群资源和持久卷的能力，你可以在公有云或本地搭建的私有云环境安装 Velero，可以为你提供以下能力 
     </details> 
 <!-- juejin:END -->
 ### 少数派
