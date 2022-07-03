@@ -406,29 +406,29 @@ userApp := controller.NewUserApp&lpar;
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Terraform 集成Ansible 实战&lpar;remote&rpar;](https://juejin.cn/post/7115994417516773384) | Sun Jul 03 2022 4:13 AM 
+- 🤗 [ONNX YOLOv6目标检测、GitHub搜索引擎、AI前沿论文 | ShowMeAI资讯日报 #2022.07.03](https://juejin.cn/post/7116012587929567269) | Sun Jul 03 2022 5:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 2022-07-03 期，ONNX YOLOv6目标检测工具、GitHub搜索引擎、实时动画创建工具包、JupyterLab桌面应用、Linux命令参考大全、8篇前沿论文… 
+    </details> 
+
+- 🎡 [Terraform 集成Ansible 实战&lpar;remote&rpar;](https://juejin.cn/post/7115994417516773384) | Sun Jul 03 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
     前言 Terraform 和 Ansible 是两个独立的工具，有各自的用途，但它们可以集成以解决典型用例以及它们相互补充的方式，这使得它们更加受欢迎。 一 工具简介 1.1 Terraform 它是 
     </details> 
 
-- 🎡 [Terraform + Gitlab CI简单集成方案](https://juejin.cn/post/7115993352209694751) | Sun Jul 03 2022 4:10 AM 
+- 🕯 [Terraform + Gitlab CI简单集成方案](https://juejin.cn/post/7115993352209694751) | Sun Jul 03 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
     一 背景 利用Gitlab CI实现基础设施编排自动化，用户后续针对基础设施的管理使用Gitlab完成，提交基础设施变更后，会出发pr进行Gitlab CI流水线执行，从而实现基础设施DevOPS流程 
     </details> 
 
-- 🕯 [实战Kubernetes Gitlab CI](https://juejin.cn/post/7115992572304031780) | Sun Jul 03 2022 4:06 AM 
+- 🚀 [实战Kubernetes Gitlab CI](https://juejin.cn/post/7115992572304031780) | Sun Jul 03 2022 4:06 AM 
     <details><summary>展开描述 ...</summary> 
     一 背景 在目前微服务大行其道的背景下，Gitlab CI集成kubernetes已经是不可或缺的基本操作，我们前几节系统的实战了前后端项目以及物理/K8s混合环境部署，这节课我们来学习Gitlab  
     </details> 
 
-- 🚀 [来看光影流动之美](https://juejin.cn/post/7115990446311997448) | Sun Jul 03 2022 4:00 AM 
+- 💪 [来看光影流动之美](https://juejin.cn/post/7115990446311997448) | Sun Jul 03 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
     谁说代码就一定是枯燥无趣的？用代码绘制一场变幻的“光影秀”，在光影流动中感受编程之美，让写代码带给我们更多的趣味。 
-    </details> 
-
-- 💪 [云原生备份恢复工具Velero二开实战](https://juejin.cn/post/7115990497726283806) | Sun Jul 03 2022 3:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 Velero&lpar;https://velero.io&rpar;&lpar;可以提供备份和还原 Kubernetes 集群资源和持久卷的能力，你可以在公有云或本地搭建的私有云环境安装 Velero，可以为你提供以下能力 
     </details> 
 <!-- juejin:END -->
 ### 少数派
