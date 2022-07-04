@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [MySQL 做标签系统？](https://www.v2ex.com/t/863871#reply2) | Mon Jul 04 2022 1:40 AM
-- 🤗 [常用的一个笔记软件在 7 月 1 号突然个人版空间只有 200M 了。](https://www.v2ex.com/t/863869#reply12) | Mon Jul 04 2022 1:35 AM
-- 🎭 [关于 compositionApi 异步初始化的问题求教](https://www.v2ex.com/t/863868#reply2) | Mon Jul 04 2022 1:35 AM
-- 🥷 [早起有感](https://www.v2ex.com/t/863867#reply6) | Mon Jul 04 2022 1:34 AM
-- 🐵 [软件自由保护组织 SFC 呼吁所有 FOSS 放弃使用 Github](https://www.v2ex.com/t/863865#reply5) | Mon Jul 04 2022 1:30 AM<!-- v2ex:END -->
+- 🥸 [通过 CDN 引入来使用 vue3-easy-data-table](https://www.v2ex.com/t/863918#reply0) | Mon Jul 04 2022 3:51 AM
+- 🤗 [求 mac 上 git 可视化工具](https://www.v2ex.com/t/863913#reply0) | Mon Jul 04 2022 3:47 AM
+- 🎭 [求分享提升自我的公众号，视频号](https://www.v2ex.com/t/863911#reply0) | Mon Jul 04 2022 3:40 AM
+- 🥷 [独立产品周刊 DecoHack #20 - 如何停止来自金钱的压力](https://www.v2ex.com/t/863910#reply0) | Mon Jul 04 2022 3:37 AM
+- 🐵 [ubuntu 删除文件删不了，删了之后又恢复了](https://www.v2ex.com/t/863905#reply1) | Mon Jul 04 2022 3:26 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
