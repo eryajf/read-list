@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [腾讯控股回购86万股 耗资约3亿元](http://www.techweb.com.cn/internet/2022-07-04/2896833.shtml) | Mon Jul 04 2022 12:30 PM
-- 👹 [周杰伦新专辑未发行即开分 豆瓣致歉：已关闭评分 并清空所有评分和评论](http://www.techweb.com.cn/internet/2022-07-04/2896832.shtml) | Mon Jul 04 2022 12:28 PM
-- 🪜 [宝马计划与韩国厂商就生产固态电池进行合作 将同多家厂商会面](http://www.techweb.com.cn/world/2022-07-04/2896816.shtml) | Mon Jul 04 2022 9:57 AM
-- 🤭 [AITO问界M7售价31.98万元起 搭载HUAWEI DriveONE纯电驱增程平台 续航1220KM](http://www.techweb.com.cn/smarttraveling/2022-07-04/2896815.shtml) | Mon Jul 04 2022 9:55 AM
-- 🙉 [台媒：半导体设备制造商销售额预计将在未来几年下滑](http://www.techweb.com.cn/world/2022-07-04/2896807.shtml) | Mon Jul 04 2022 9:16 AM<!-- techweb-allnews:END -->
+- 👍 [小米 × 徕卡联合研发，专业影像旗舰小米12S系列正式发布](http://mo.techweb.com.cn/digi/2022-07-04/2896836.shtml) | Mon Jul 04 2022 2:12 PM
+- 👹 [为什么宁德时代的研发费用比小米还低？](http://www.techweb.com.cn/viewpoint/2022-07-04/2896835.shtml) | Mon Jul 04 2022 1:56 PM
+- 🪜 [腾讯控股回购86万股 耗资约3亿元](http://www.techweb.com.cn/internet/2022-07-04/2896833.shtml) | Mon Jul 04 2022 12:30 PM
+- 🤭 [周杰伦新专辑未发行即开分 豆瓣致歉：已关闭评分 并清空所有评分和评论](http://www.techweb.com.cn/internet/2022-07-04/2896832.shtml) | Mon Jul 04 2022 12:28 PM
+- 🙉 [宝马计划与韩国厂商就生产固态电池进行合作 将同多家厂商会面](http://www.techweb.com.cn/world/2022-07-04/2896816.shtml) | Mon Jul 04 2022 9:57 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
