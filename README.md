@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022,与其是总结,不如说说居家办公的感受](https://juejin.cn/post/7116368060017016869) | Mon Jul 04 2022 4:25 AM 
+- 🤗 [OKHttp源码分析（六）连接管理 ConnectInterceptor 、StreamAllocation 和 RealConnection](https://juejin.cn/post/7116346271316574216) | Mon Jul 04 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    这2022的开头或许不够好，也不够让人欢喜，或许很多人失意、悲伤、难过。也或许大多数人被疫情限制在家里、市里、国家内。大多产业受到影响。 
+    ConnectInterceptor作为CacheInterceptor的后一个缓存，已经没有缓存这条退路了，必须要真刀真枪的请求网络了。到了现在才真正开始请求网络获取数据。 
     </details> 
 
-- 🎡 [Ng DevUI 周下载量突破1000啦！🥳](https://juejin.cn/post/7116355421832478751) | Mon Jul 04 2022 3:34 AM 
+- 🎡 [Android gradle迁移至kts](https://juejin.cn/post/7116333902435893261) | Mon Jul 04 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    Ng DevUI 是 DevUI 开源组织在2019年6月开源的 Angular 组件库项目。 开源回顾 这3年来，我们一直坚持每个月发布新版本，将 DevUI 的最新实践分享给社区，从最早的 Ang 
+    背景 在kotlin语言已经渗透至各领域的环境下，比如服务端，android，跨平台Kmm，native for kotlin，几乎所有的领域都可以用kotlin去编写了，当然还有不成熟的地方，但是J 
     </details> 
 
-- 🕯 [如何建立一个完美的 Python 项目？](https://juejin.cn/post/7116355088079454239) | Mon Jul 04 2022 3:33 AM 
+- 🕯 [详解HashMap源码解析（上）](https://juejin.cn/post/7116327540242776094) | Mon Jul 04 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-    当开始一个新的 Python 项目时，大家很容易一头扎进去就开始编码。其实花一点时间选择优秀的库，将为以后的开发节省大量时间，并带来更快乐的编码体验。 在理想世界中，所有开发人员的关系是相互依赖和关联 
+    数据结构： HashMap的底层主要基于数组+链表/红黑树实现，数组优点就是查询块，HashMap通过计算hash码获取到数组的下标来查询数据。同样也可以通过hash码得到数组下标，存放数据。 哈希表 
     </details> 
 
-- 🚀 [可视化后台必备指南！一文教你合理使用图表组件](https://juejin.cn/post/7116353646916435976) | Mon Jul 04 2022 3:28 AM 
+- 🚀 [find_in_set的学习与思考](https://juejin.cn/post/7116326816180076552) | Mon Jul 04 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，笔者是怪物猎人。 猎的什么怪？乃是被无数产品经理、设计师视为洪水猛兽的数据图表！ 凡是制作过数据可视化后台项目的小伙伴，都知道这其中的水有多深，笔者总结了图表四宗罪： 构成复杂，图表元素数量多 
+    1.首先认识一下find_in_set&lpar;&rpar;函数 首先很多小伙伴一定会去查阅MySQL的官方手册, 但可能有些新手朋友查阅出来可能看不明白 文档解释: &lpar;假如字符串str在由N个子链组成的字符串列表st 
     </details> 
 
-- 💪 [详解增强算术赋值：“-=”操作是怎么实现的？](https://juejin.cn/post/7116353346499248159) | Mon Jul 04 2022 3:25 AM 
+- 💪 [【FAQ】华为帐号服务报错 907135701的常见原因总结和解决方法](https://juejin.cn/post/7116324736409272328) | Mon Jul 04 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍 Python 有一种叫做增强算术赋值（augmented arithmetic assignment）的东西。可能你不熟悉这个叫法，其实就是在做数学运算的同时进行赋值，例如 a -= b 就是减 
+    很多开发者在接入华为帐号服务时，经常会出现907135701的报错。根据官网文档说明，错误码907135701表示： ![]&lpar;https://p3-juejin.byteimg.com/tos-c 
     </details> 
 <!-- juejin:END -->
 ### 少数派
