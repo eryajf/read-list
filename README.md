@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [超详细教程，一文入门Istio架构原理及实战应用](https://juejin.cn/post/7116400234711744525) | Mon Jul 04 2022 6:27 AM 
+- 🤗 [使用 MyBatis 操作 Nebula Graph 的实践](https://juejin.cn/post/7116453990350454815) | Mon Jul 04 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    ## Istio简介 ### 2.1、istio架构 ![file]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ee749e401dc4 
+    注意到很多同学对于 ORM 框架的需求比较迫切，而且有热心的同学已经捐赠了自己开发的项目。下面主要介绍一下我们在使用 MyBatis 操作 Nebula Graph 方面的一些经验。 
     </details> 
 
-- 🎡 [为什么大家说mysql数据库单表最大两千万？依据是啥？](https://juejin.cn/post/7116381265300815903) | Mon Jul 04 2022 5:14 AM 
+- 🎡 [Spring Cloud OpenFeign - 远程调用](https://juejin.cn/post/7116450470704463908) | Mon Jul 04 2022 9:42 AM 
     <details><summary>展开描述 ...</summary> 
-    故事从好多年前说起。 想必大家也听说过数据库单表**建议最大2kw**条数据这个说法。如果超过了，性能就会下降得比较厉害。 巧了。 我也听说过。 
+    🌈一、什么是Feign? Feign makes writing java http clients easier，这是官方给出的一个说明，本意翻译是：Feign使编写Java http客户端更容易， 
     </details> 
 
-- 🕯 [Mysql的explain，你真的会用吗？](https://juejin.cn/post/7116363432881815589) | Mon Jul 04 2022 4:05 AM 
+- 🕯 [iOS开发--@synchronized的原理分析](https://juejin.cn/post/7116436253452533773) | Mon Jul 04 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
-    数据库性能优化是每个后端程序猿必备的基础技能之一，而Mysql中的explain堪称Mysql的性能优化分析神器，我们可以通过它来分析SQL语句的对应的执行计划在Mysql底层到底是如何执行的。 
+    概述 iOS开发中，锁的应用是必不可少的，今天我们就一起探索一下常用的@synchronized的原理。 探索目标 我们在使用@synchronized的时候，基本使用就是 这里我们看到，@synch 
     </details> 
 
-- 🚀 [抓到Dubbo异步调用的小BUG，再送你一个贡献开源代码的机会](https://juejin.cn/post/7116348946556911623) | Mon Jul 04 2022 3:08 AM 
+- 🚀 [一、RunLoop初体验~思考](https://juejin.cn/post/7116430251638390815) | Mon Jul 04 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-    hello，大家好呀，我是小楼。 最近一个技术群有同学at我，问我是否熟悉Dubbo，这我熟啊~ 他说遇到了一个Dubbo异步调用的问题，怀疑是个BUG，提到BUG我可就不困了，说不定可以水，哦不.. 
+    写了个UITableView然后我添加个NSTimer，接下来回发生什么事情呢？ 当滑动UITableView时，NSTimer计时器就会停止。 相信绝大多数开发者都遇到过这个问题。 
     </details> 
 
-- 💪 [Terraform 集成Ansible 实战&lpar;remote&rpar;](https://juejin.cn/post/7115994417516773384) | Sun Jul 03 2022 4:13 AM 
+- 💪 [iOS 的 AsyncSequence 和 AsyncStream 教程](https://juejin.cn/post/7116409948665282568) | Mon Jul 04 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 Terraform 和 Ansible 是两个独立的工具，有各自的用途，但它们可以集成以解决典型用例以及它们相互补充的方式，这使得它们更加受欢迎。 一 工具简介 1.1 Terraform 它是 
+    在本教程中，您将： 比较同步和异步读取非常大的文件时的速度和内存使用情况。 创建和使用自定义AsyncSequence. 创建和使用基于拉的和基于推的AsyncStreams。 注意：这是一个中级教程 
     </details> 
 <!-- juejin:END -->
 ### 少数派
