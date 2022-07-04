@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [工信部等五部门联合印发《数字化助力消费品工业“三品”行动方案（2022-2025年）》](http://www.techweb.com.cn/it/2022-07-03/2896657.shtml) | Sun Jul 03 2022 7:05 AM
-- 👹 [赛力斯：6月AITO问界M5销量7021辆](http://www.techweb.com.cn/it/2022-07-03/2896656.shtml) | Sun Jul 03 2022 6:58 AM
-- 🪜 [华天酒店：控股股东拟筹划战略重组](http://www.techweb.com.cn/it/2022-07-03/2896655.shtml) | Sun Jul 03 2022 6:43 AM
-- 🤭 [美的集团：已耗资11.88亿元回购2158万股](http://www.techweb.com.cn/it/2022-07-03/2896654.shtml) | Sun Jul 03 2022 6:40 AM
-- 🙉 [趣店罗敏再追预制菜风口 这次能否自救翻身](http://www.techweb.com.cn/it/2022-07-03/2896651.shtml) | Sun Jul 03 2022 6:30 AM<!-- techweb-allnews:END -->
+- 👍 [蔚来白剑：为什么自动驾驶需要激光雷达？](http://www.techweb.com.cn/smarttraveling/2022-07-04/2896676.shtml) | Mon Jul 04 2022 1:24 AM
+- 👹 [赣锋锂业：因涉嫌二级市场内幕交易 中国证监会决定对公司立案](http://www.techweb.com.cn/it/2022-07-04/2896674.shtml) | Mon Jul 04 2022 1:23 AM
+- 🪜 [丁磊增持网易云音乐5万股 持股比例升至61.34%](http://www.techweb.com.cn/finance/2022-07-04/2896663.shtml) | Mon Jul 04 2022 1:16 AM
+- 🤭 [工信部等五部门联合印发《数字化助力消费品工业“三品”行动方案（2022-2025年）》](http://www.techweb.com.cn/it/2022-07-03/2896657.shtml) | Sun Jul 03 2022 7:05 AM
+- 🙉 [赛力斯：6月AITO问界M5销量7021辆](http://www.techweb.com.cn/it/2022-07-03/2896656.shtml) | Sun Jul 03 2022 6:58 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
