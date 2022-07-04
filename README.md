@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [SNE Research：宁德时代领跑今年前5月全球电动汽车电池市场](http://www.techweb.com.cn/world/2022-07-04/2896784.shtml) | Mon Jul 04 2022 7:48 AM
-- 👹 [现代汽车6月份销售近1.9万辆电动汽车 同比增长超过30%](http://www.techweb.com.cn/world/2022-07-04/2896783.shtml) | Mon Jul 04 2022 7:35 AM
-- 🪜 [苹果分析师：苹果iPhone处理器的年度性能增长有所放缓](http://www.techweb.com.cn/world/2022-07-04/2896779.shtml) | Mon Jul 04 2022 7:22 AM
-- 🤭 [德国东部惊人的工业复兴](http://www.techweb.com.cn/viewpoint/2022-07-04/2896761.shtml) | Mon Jul 04 2022 5:36 AM
-- 🙉 [日本电信运营商KDDI大规模通信故障恢复 股价下跌近4%](http://www.techweb.com.cn/world/2022-07-04/2896759.shtml) | Mon Jul 04 2022 4:22 AM<!-- techweb-allnews:END -->
+- 👍 [台媒：半导体设备制造商销售额预计将在未来几年下滑](http://www.techweb.com.cn/world/2022-07-04/2896807.shtml) | Mon Jul 04 2022 9:16 AM
+- 👹 [外媒：预计秋季发布的AirPods Pro 2不会搭载心率和体温传感器](http://www.techweb.com.cn/world/2022-07-04/2896805.shtml) | Mon Jul 04 2022 9:15 AM
+- 🪜 [三星电子暂停采购LCD面板 上月就已通知相关厂商](http://www.techweb.com.cn/world/2022-07-04/2896803.shtml) | Mon Jul 04 2022 9:00 AM
+- 🤭 [SpaceX计划7月份进行多达五次星链卫星发射](http://www.techweb.com.cn/world/2022-07-04/2896788.shtml) | Mon Jul 04 2022 8:22 AM
+- 🙉 [SNE Research：宁德时代领跑今年前5月全球电动汽车电池市场](http://www.techweb.com.cn/world/2022-07-04/2896784.shtml) | Mon Jul 04 2022 7:48 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
