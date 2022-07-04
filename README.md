@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [蔚来白剑：为什么自动驾驶需要激光雷达？](http://www.techweb.com.cn/smarttraveling/2022-07-04/2896676.shtml) | Mon Jul 04 2022 1:24 AM
-- 👹 [赣锋锂业：因涉嫌二级市场内幕交易 中国证监会决定对公司立案](http://www.techweb.com.cn/it/2022-07-04/2896674.shtml) | Mon Jul 04 2022 1:23 AM
-- 🪜 [丁磊增持网易云音乐5万股 持股比例升至61.34%](http://www.techweb.com.cn/finance/2022-07-04/2896663.shtml) | Mon Jul 04 2022 1:16 AM
-- 🤭 [工信部等五部门联合印发《数字化助力消费品工业“三品”行动方案（2022-2025年）》](http://www.techweb.com.cn/it/2022-07-03/2896657.shtml) | Sun Jul 03 2022 7:05 AM
-- 🙉 [赛力斯：6月AITO问界M5销量7021辆](http://www.techweb.com.cn/it/2022-07-03/2896656.shtml) | Sun Jul 03 2022 6:58 AM<!-- techweb-allnews:END -->
+- 👍 [视频平台明星争夺战升级：“周杰伦”们快不够用了](http://www.techweb.com.cn/viewpoint/2022-07-04/2896745.shtml) | Mon Jul 04 2022 3:20 AM
+- 👹 [智能汽车智能手机深度融合 星纪时代取得魅族科技控股权](http://www.techweb.com.cn/it/2022-07-04/2896743.shtml) | Mon Jul 04 2022 3:10 AM
+- 🪜 [吉利正式收购魅族 后者将作为独立品牌继续运营](http://www.techweb.com.cn/internet/2022-07-04/2896741.shtml) | Mon Jul 04 2022 3:07 AM
+- 🤭 [坚持绿色低碳发展理念，达达集团发布上市后首份ESG报告](http://www.techweb.com.cn/internet/2022-07-04/2896740.shtml) | Mon Jul 04 2022 3:06 AM
+- 🙉 [拜登呼吁加油站营运商降价 遭贝佐斯猛烈抨击：不懂市场规律](http://www.techweb.com.cn/world/2022-07-04/2896738.shtml) | Mon Jul 04 2022 2:58 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
