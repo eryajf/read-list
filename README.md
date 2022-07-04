@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么飞书的门禁可以卖这么贵？而同样的钉钉则便宜很多？](https://www.v2ex.com/t/863956#reply0) | Mon Jul 04 2022 6:11 AM
-- 🤗 [如何在芯片公司自学 IC 设计？](https://www.v2ex.com/t/863952#reply0) | Mon Jul 04 2022 5:53 AM
-- 🎭 [各家的 OpenJDK 都有什么区别](https://www.v2ex.com/t/863943#reply2) | Mon Jul 04 2022 5:25 AM
-- 🥷 [试了下 go in rust style](https://www.v2ex.com/t/863942#reply3) | Mon Jul 04 2022 5:23 AM
-- 🐵 [无奈哦](https://www.v2ex.com/t/863929#reply17) | Mon Jul 04 2022 4:26 AM<!-- v2ex:END -->
+- 🥸 [有没有什么免费或者比较便宜的云服务厂商认证（能提供电子/纸质证书）？](https://www.v2ex.com/t/863964#reply0) | Mon Jul 04 2022 6:34 AM
+- 🤗 [可能是今晚发布的小米 12 ULTRA 的“生日蛋糕”设计](https://www.v2ex.com/t/863963#reply6) | Mon Jul 04 2022 6:32 AM
+- 🎭 [在开发的过程中，遇到在引入多个 cdn 失效的情况如何快速解决](https://www.v2ex.com/t/863960#reply0) | Mon Jul 04 2022 6:29 AM
+- 🥷 [为什么飞书的门禁可以卖这么贵？而同样的钉钉则便宜很多？](https://www.v2ex.com/t/863956#reply0) | Mon Jul 04 2022 6:11 AM
+- 🐵 [如何在芯片公司自学 IC 设计？](https://www.v2ex.com/t/863952#reply0) | Mon Jul 04 2022 5:53 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
