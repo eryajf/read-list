@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [随时待命的听歌识曲，这项 Pixel 独占功能现在你也可以体验](https://sspai.com/post/74109) | Mon Jul 04 2022 3:30 AM 
+- 👹 [当我在拍照时，我在思考什么？](https://sspai.com/post/74083) | Mon Jul 04 2022 6:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    当你觉得有趣，当你为之心动，当你觉得这就是内心的追寻，当你愿意把有限的时间停留在照片定格的这一刻时，这大概就是拍摄一张照片的意义所在。&lt;a href=&quot;https://sspai.com/post/74083&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [随时待命的听歌识曲，这项 Pixel 独占功能现在你也可以体验](https://sspai.com/post/74109) | Mon Jul 04 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     借助 Ambient Music Mod 这个开源项目，我们得以把 Pixel 独占的「闻曲知音」功能带到其他 Android 设备上来。&lt;a href=&quot;https://sspai.com/post/74109&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：欧盟通过控制加密资产新规，显卡缺货显缓解趋势等](https://sspai.com/post/74102) | Mon Jul 04 2022 12:48 AM 
+- 🤭 [派早报：欧盟通过控制加密资产新规，显卡缺货显缓解趋势等](https://sspai.com/post/74102) | Mon Jul 04 2022 12:48 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事欧盟通过控制加密资产新规据新华网转载外媒报道，当地时间6月30日，欧洲议会和欧盟理事会就一系列新规达成协议，旨在终结加密货币交易的匿名性，使得加密资产用作非法活动支付工具的犯罪分子更 ...&lt;a href=&quot;https://sspai.com/post/74102&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [消毒剂选购不完全指南](https://sspai.com/prime/story/disinfectant) | Sun Jul 03 2022 3:55 AM 
+- 🥸 [消毒剂选购不完全指南](https://sspai.com/prime/story/disinfectant) | Sun Jul 03 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
     在这篇文章中，我想带你搞懂日常清洁卫生能用到的消毒剂怎么买怎么用。除了要知道基础的消毒剂分类知识、消毒效果之外，最重要的是一定要了解消毒产品的有效消毒成分含量以及对应的使用配比。另外，还会对比市售消毒剂的浓度差别，帮你在之后选购消毒剂的时候能够找到更合适的那一款。那么就一步一步来吧。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/disinfectant&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [大家都说好的蛋白粉，我们应该如何取舍](https://sspai.com/post/74090) | Sat Jul 02 2022 7:00 AM 
+- 🙉 [大家都说好的蛋白粉，我们应该如何取舍](https://sspai.com/post/74090) | Sat Jul 02 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     声明：本文与任何品牌或产品均无利益相关警示信息：本文中出现的蛋白质摄入量推荐值和推荐高值仅适用于健康人群。目前没有证据表明蛋白粉有明确的副作用，但蛋白质摄入量总体超标有潜在健康风险。某些慢性疾病患者需 ...&lt;a href=&quot;https://sspai.com/post/74090&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [设计、体验都出彩，白板工具的又一选择：Muse](https://sspai.com/post/74009) | Sat Jul 02 2022 4:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    在我看来，Muse 是目前唯一一款真正将「白板」概念融入应用设计理念中，并针对性地利用了 iPadOS / macOS 两大平台各自所不同的交互特点 / 优势，使其达到相辅使用体验的工具。&lt;a href=&quot;https://sspai.com/post/74009&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
