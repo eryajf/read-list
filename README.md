@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [托管式服务网络：云原生时代的应用体系架构进化](https://juejin.cn/post/7116466341569101860) | Mon Jul 04 2022 10:44 AM 
+- 🤗 [可观测｜时序数据降采样在Prometheus实践复盘](https://juejin.cn/post/7116529400018894885) | Mon Jul 04 2022 2:48 PM 
     <details><summary>展开描述 ...</summary> 
-    作为业内首个全托管Istio兼容的阿里云服务网格产品 ASM，一开始从架构上就保持了与社区、业界趋势的一致性，控制平面的组件托管在阿里云侧，与数据面侧的用户集群独立。 
+    基于 Prometheus 的监控实践中，尤其是在规模较大时，时序数据的存储与查询是其中非常关键，而且问题点较多的一环。如何应对大数据量下的长周期查询，原生的 Prometheus 体系并未能给出一个 
     </details> 
 
-- 🎡 [Fragment流程源码分析](https://juejin.cn/post/7116464721674371085) | Mon Jul 04 2022 10:38 AM 
+- 🎡 [旦用难回 Jetpack MVI 最佳实践](https://juejin.cn/post/7116526281037987871) | Mon Jul 04 2022 2:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    旦用难回 Jetpack MVI 最佳实践 —— 在 “以简驭繁” 代码中掌握 “唯一可信源” 最佳使用。 
+    </details> 
+
+- 🕯 [奇舞团7.5生日快乐](https://juejin.cn/post/7116521596134621192) | Mon Jul 04 2022 2:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    奇舞团是360集团最大的大前端团队 以开放、协作、笃行、突破为文化价值观，在基础服务建设、业务产品研发、技术创新与突破等方面持续发力 为集团各大业务线进行赋能的同时，长期致力于大前端行业的标准制定与技 
+    </details> 
+
+- 🚀 [保证接口数据安全的10种方式](https://juejin.cn/post/7116520783534522399) | Mon Jul 04 2022 2:15 PM 
+    <details><summary>展开描述 ...</summary> 
+    我们日常开发中，如何保证接口数据的安全性呢？个人觉得，接口数据安全的保证过程，主要体现在这几个方面：一个就是数据传输过程中的安全，还有就是数据到达服务端，如何识别 
+    </details> 
+
+- 💪 [Fragment流程源码分析](https://juejin.cn/post/7116464721674371085) | Mon Jul 04 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
     fragment、fragmentManager、fragment生命周期、FragmentHostCallback 
-    </details> 
-
-- 🕯 [vue中babel-plugin-component按需引入和element-ui 的主题定制，支持发布，上线](https://juejin.cn/post/7116453546148495396) | Mon Jul 04 2022 9:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 目前项目用的vue + element-ui，之前有了解过element-ui真正的按需引入，也有了解到主题定制，之前的项目都是根据element-ui的类及标签，在全局或者局部进行一大堆样式覆 
-    </details> 
-
-- 🚀 [安卓的组件化之路由](https://juejin.cn/post/7116451169282555940) | Mon Jul 04 2022 9:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    1.什么是组件化： 组件，顾名思义，组装的零件，术语上叫做软件单元，可用于组装在应用程序中 从这个角度上看，组件化，关注可复用性、分离、功能单一、高内聚；是业务上能划分的的小单元 2.组件化的优点：  
-    </details> 
-
-- 💪 [在 Vue3 中使用 BabylonJs 开发 3D 是什么体验](https://juejin.cn/post/7116448965301633038) | Mon Jul 04 2022 9:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    随着前端的发展，在 Web 浏览器中构建 3D 图形变得越加简单。 加入我的 3D 开发旅程，我将向你展示如何使用 Babylon.js 创建基本场景。 在这篇文章中，我们将接触以下内容： 使用 Vu 
     </details> 
 <!-- juejin:END -->
 ### 少数派
