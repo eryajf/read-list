@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有什么免费或者比较便宜的云服务厂商认证（能提供电子/纸质证书）？](https://www.v2ex.com/t/863964#reply0) | Mon Jul 04 2022 6:34 AM
-- 🤗 [可能是今晚发布的小米 12 ULTRA 的“生日蛋糕”设计](https://www.v2ex.com/t/863963#reply6) | Mon Jul 04 2022 6:32 AM
-- 🎭 [在开发的过程中，遇到在引入多个 cdn 失效的情况如何快速解决](https://www.v2ex.com/t/863960#reply0) | Mon Jul 04 2022 6:29 AM
-- 🥷 [为什么飞书的门禁可以卖这么贵？而同样的钉钉则便宜很多？](https://www.v2ex.com/t/863956#reply0) | Mon Jul 04 2022 6:11 AM
-- 🐵 [如何在芯片公司自学 IC 设计？](https://www.v2ex.com/t/863952#reply0) | Mon Jul 04 2022 5:53 AM<!-- v2ex:END -->
+- 🥸 [请大家推荐一本概率有关的书](https://www.v2ex.com/t/863993#reply2) | Mon Jul 04 2022 8:20 AM
+- 🤗 [安卓版 edge 拦截广告无效](https://www.v2ex.com/t/863991#reply1) | Mon Jul 04 2022 8:12 AM
+- 🎭 [大家对 CSDN “帽子屋先生”事件怎么看？](https://www.v2ex.com/t/863984#reply0) | Mon Jul 04 2022 7:46 AM
+- 🥷 [求教各位大神，服务端被疯狂刷客户端接口，有什么办法处理？](https://www.v2ex.com/t/863976#reply1) | Mon Jul 04 2022 7:29 AM
+- 🐵 [有没有什么免费或者比较便宜的云服务厂商认证（能提供电子/纸质证书）？](https://www.v2ex.com/t/863964#reply0) | Mon Jul 04 2022 6:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
