@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [写了个微信电脑消息机器人，有个无语的 Bug](https://www.v2ex.com/t/864063#reply2) | Mon Jul 04 2022 1:56 PM
-- 🤗 [eSearch 基于 electron 的跨平台 识屏 搜索 软件](https://www.v2ex.com/t/864061#reply0) | Mon Jul 04 2022 1:29 PM
-- 🎭 [请教大家一个 springboot 中 mongodb 事务的问题](https://www.v2ex.com/t/864058#reply1) | Mon Jul 04 2022 1:03 PM
-- 🥷 [隔壁位置的同事被辞了，心有戚戚](https://www.v2ex.com/t/864043#reply33) | Mon Jul 04 2022 11:12 AM
-- 🐵 [大家会因为什么功能为 Kubernetes 管理平台付费呢?](https://www.v2ex.com/t/864027#reply11) | Mon Jul 04 2022 9:55 AM<!-- v2ex:END -->
+- 🥸 [metaspace 每次 gc 后，回收了大量的空间，为何没有缩容](https://www.v2ex.com/t/864066#reply0) | Mon Jul 04 2022 2:28 PM
+- 🤗 [写了个微信电脑消息机器人，有个无语的 Bug](https://www.v2ex.com/t/864063#reply3) | Mon Jul 04 2022 1:56 PM
+- 🎭 [eSearch 基于 electron 的跨平台 识屏 搜索 软件](https://www.v2ex.com/t/864061#reply0) | Mon Jul 04 2022 1:29 PM
+- 🥷 [请教大家一个 springboot 中 mongodb 事务的问题](https://www.v2ex.com/t/864058#reply1) | Mon Jul 04 2022 1:03 PM
+- 🐵 [隔壁位置的同事被辞了，心有戚戚](https://www.v2ex.com/t/864043#reply34) | Mon Jul 04 2022 11:12 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
