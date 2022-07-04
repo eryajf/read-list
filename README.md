@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [6 分钟看完 BGP 协议。](https://juejin.cn/post/7116346455039672350) | Mon Jul 04 2022 2:59 AM 
+- 🤗 [Ng DevUI 周下载量突破1000啦！🥳](https://juejin.cn/post/7116355421832478751) | Mon Jul 04 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇文章见 万字长文爆肝路由协议！ 上面我们聊 RIP 、OSPF 协议都是基于 AS 即自治系统内的协议，可以把它们认为是域内路由协议；而下面我们要聊的就是 AS 之间的协议了，这也叫做域间路由协 
+    Ng DevUI 是 DevUI 开源组织在2019年6月开源的 Angular 组件库项目。 开源回顾 这3年来，我们一直坚持每个月发布新版本，将 DevUI 的最新实践分享给社区，从最早的 Ang 
     </details> 
 
-- 🎡 [程序猿之梦！星辰大海的前端建站之路「第一周」](https://juejin.cn/post/7116341892605804558) | Mon Jul 04 2022 2:41 AM 
+- 🎡 [如何建立一个完美的 Python 项目？](https://juejin.cn/post/7116355088079454239) | Mon Jul 04 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
-    本系列文章将讲述一个小小的前端工程师创造属于自己的网站的故事... 或许也会经历从笨拙到得心应手，到再次跌倒，再一次次突破自己的过程，希望各位看官不吝赐教，一起见证我的第一个个人网站的诞生～ 
+    当开始一个新的 Python 项目时，大家很容易一头扎进去就开始编码。其实花一点时间选择优秀的库，将为以后的开发节省大量时间，并带来更快乐的编码体验。 在理想世界中，所有开发人员的关系是相互依赖和关联 
     </details> 
 
-- 🕯 [如何快速设计一套支持渲染富文本内容的跨端组件， Nginx原理性科普，刚学会Transform，你告诉我就要被移除了| 酱酱的下午茶第 20 期](https://juejin.cn/post/7116337435763539998) | Mon Jul 04 2022 2:23 AM 
+- 🕯 [详解增强算术赋值：“-=”操作是怎么实现的？](https://juejin.cn/post/7116353346499248159) | Mon Jul 04 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-    本期下午茶看点包括：JS入门到进阶 手写裁剪图片的工具，并部署。一键裁剪掘金文章封面，如何快速设计一套支持渲染富文本内容的跨端组件，刚学会Transform，你告诉我就要被移除了 
+    介绍 Python 有一种叫做增强算术赋值（augmented arithmetic assignment）的东西。可能你不熟悉这个叫法，其实就是在做数学运算的同时进行赋值，例如 a -= b 就是减 
     </details> 
 
-- 🚀 [老司机 iOS 周报 #207 | 2022-07-04](https://juejin.cn/post/7116330446438268936) | Mon Jul 04 2022 1:56 AM 
+- 🚀 [详解 Python 的二元算术运算，为什么说减法只是语法糖？](https://juejin.cn/post/7116352136882946055) | Mon Jul 04 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-    老司机 iOS 周报，只为你呈现有价值的信息。 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎 
+    查看 C 代码 按照惯例，我们从查看 CPython 解释器编译的字节码开始。 看起来我们需要深入研究 BINARY_SUBTRACT 操作码。翻查 Python/ceval.c 文件，可以看到实现该 
     </details> 
 
-- 💪 [【面试高频题】难度 1.5/5，数据结构运用题](https://juejin.cn/post/7116328277345566750) | Mon Jul 04 2022 1:48 AM 
+- 💪 [Python 中的数字到底是什么？](https://juejin.cn/post/7116350999064739854) | Mon Jul 04 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 1801. 积压订单中的订单总数 ，难度为 中等。 Tag : 「数据结构」、「模拟」、「优先队列（堆）」 给你一个二维整数数组 $orders$ ，其中每个  
+    概要 本提案定义了一种抽象基类（ABC）（PEP 3119）的层次结构，用来表示类似数字（number-like）的类。它提出了一个 Number :&gt; Complex :&gt; Real :&gt; Rati 
     </details> 
 <!-- juejin:END -->
 ### 少数派
