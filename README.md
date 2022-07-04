@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Git bisect 命令解析 #3 : 案例 3 之 &quot;回退型合并提交&quot; 的分析和处理](https://juejin.cn/post/7116344403479756808) | Mon Jul 04 2022 2:51 AM 
+- 🤗 [托管式服务网络：云原生时代的应用体系架构进化](https://juejin.cn/post/7116466341569101860) | Mon Jul 04 2022 10:44 AM 
     <details><summary>展开描述 ...</summary> 
-    系列前两篇文章中介绍的, 都是符合 git bisect 查找要求的案例, 但有没有什么问题, 我们没法直接用 git bisect 来查找的呢? 
+    作为业内首个全托管Istio兼容的阿里云服务网格产品 ASM，一开始从架构上就保持了与社区、业界趋势的一致性，控制平面的组件托管在阿里云侧，与数据面侧的用户集群独立。 
     </details> 
 
-- 🎡 [还同事一头茂密的秀发](https://juejin.cn/post/7116342938715553800) | Mon Jul 04 2022 2:45 AM 
+- 🎡 [Fragment流程源码分析](https://juejin.cn/post/7116464721674371085) | Mon Jul 04 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-    这里选了几个具体开发中遇到的问题来讲一下： - 优雅地操作数据 - 避免“副作用”的出现 - 写出清晰的代码 
+    fragment、fragmentManager、fragment生命周期、FragmentHostCallback 
     </details> 
 
-- 🕯 [前端 vue 直传 华为云OBS（BrowserJS 断点续传方法）](https://juejin.cn/post/7116340683702534174) | Mon Jul 04 2022 2:36 AM 
+- 🕯 [vue中babel-plugin-component按需引入和element-ui 的主题定制，支持发布，上线](https://juejin.cn/post/7116453546148495396) | Mon Jul 04 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 需求： 可多个文件同时上传，需要显示文件名、上传进度、上传速度，可以暂停、继续 开始 1、搭建OBS服务环境相关请参考官网教程 点击跳转 2、下载 
+    前言 目前项目用的vue + element-ui，之前有了解过element-ui真正的按需引入，也有了解到主题定制，之前的项目都是根据element-ui的类及标签，在全局或者局部进行一大堆样式覆 
     </details> 
 
-- 🚀 [从几个关键节点来理解nodejs](https://juejin.cn/post/7116337991571734541) | Mon Jul 04 2022 2:26 AM 
+- 🚀 [安卓的组件化之路由](https://juejin.cn/post/7116451169282555940) | Mon Jul 04 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-    首先我们弄清楚了什么是非阻塞I/O，即遇到I/O立刻跳过执行后面的任务，不会等待I/O的结果。当I/O处理好了之后就会调用我们注册的事件处理函数，这就叫事件驱动。 
+    1.什么是组件化： 组件，顾名思义，组装的零件，术语上叫做软件单元，可用于组装在应用程序中 从这个角度上看，组件化，关注可复用性、分离、功能单一、高内聚；是业务上能划分的的小单元 2.组件化的优点：  
     </details> 
 
-- 💪 [hash和history路由的区别](https://juejin.cn/post/7116336664540086286) | Mon Jul 04 2022 2:21 AM 
+- 💪 [在 Vue3 中使用 BabylonJs 开发 3D 是什么体验](https://juejin.cn/post/7116448965301633038) | Mon Jul 04 2022 9:37 AM 
     <details><summary>展开描述 ...</summary> 
-    在了解路由模式前，我们先看下 什么是单页面应用，vue-router  的实现原理是怎样的，这样更容易理解路由。 SPA与前端路由 SPA（单页面应用，全程为：Single-page Web appl 
+    随着前端的发展，在 Web 浏览器中构建 3D 图形变得越加简单。 加入我的 3D 开发旅程，我将向你展示如何使用 Babylon.js 创建基本场景。 在这篇文章中，我们将接触以下内容： 使用 Vu 
     </details> 
 <!-- juejin:END -->
 ### 少数派
