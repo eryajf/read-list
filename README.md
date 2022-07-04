@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [拉伸真的有用吗？](https://sspai.com/post/74069) | Mon Jul 04 2022 8:00 AM 
+- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/74114) | Mon Jul 04 2022 9:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/74114&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [拉伸真的有用吗？](https://sspai.com/post/74069) | Mon Jul 04 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     我们了解拉伸，才发现它不仅形式多样，而且作用还不少，是日常运动和锻炼必不可少一个环节。&lt;a href=&quot;https://sspai.com/post/74069&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [「E3 月」点评：好玩的游戏那么多，值得关注的有哪些？](https://sspai.com/post/74107) | Mon Jul 04 2022 7:30 AM 
+- 🤭 [「E3 月」点评：好玩的游戏那么多，值得关注的有哪些？](https://sspai.com/post/74107) | Mon Jul 04 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
     梳理了过去一个月花样繁多的发布会日程后，本文将总结个人最感兴趣也最值得探讨的相关内容，希望能帮助你接触到需要的信息。&lt;a href=&quot;https://sspai.com/post/74107&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [当我在拍照时，我在思考什么？](https://sspai.com/post/74083) | Mon Jul 04 2022 6:29 AM 
+- 🥸 [当我在拍照时，我在思考什么？](https://sspai.com/post/74083) | Mon Jul 04 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
     当你觉得有趣，当你为之心动，当你觉得这就是内心的追寻，当你愿意把有限的时间停留在照片定格的这一刻时，这大概就是拍摄一张照片的意义所在。&lt;a href=&quot;https://sspai.com/post/74083&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [随时待命的听歌识曲，这项 Pixel 独占功能现在你也可以体验](https://sspai.com/post/74109) | Mon Jul 04 2022 3:30 AM 
+- 🙉 [随时待命的听歌识曲，这项 Pixel 独占功能现在你也可以体验](https://sspai.com/post/74109) | Mon Jul 04 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     借助 Ambient Music Mod 这个开源项目，我们得以把 Pixel 独占的「闻曲知音」功能带到其他 Android 设备上来。&lt;a href=&quot;https://sspai.com/post/74109&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：欧盟通过控制加密资产新规，显卡缺货显缓解趋势等](https://sspai.com/post/74102) | Mon Jul 04 2022 12:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可能错过的新鲜事欧盟通过控制加密资产新规据新华网转载外媒报道，当地时间6月30日，欧洲议会和欧盟理事会就一系列新规达成协议，旨在终结加密货币交易的匿名性，使得加密资产用作非法活动支付工具的犯罪分子更 ...&lt;a href=&quot;https://sspai.com/post/74102&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
