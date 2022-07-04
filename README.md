@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750291) | Sun Jul 03 2022 4:27 PM
-- 🐻 [大误 · 这两千块是不是你的？](http://daily.zhihu.com/story/9750242) | Sun Jul 03 2022 12:27 AM
-- 🌏 [低筋面粉可以做什么？](http://daily.zhihu.com/story/9750233) | Sun Jul 03 2022 12:27 AM
-- 🕴 [压力越大就越想逃避问题怎么办？](http://daily.zhihu.com/story/9750231) | Sun Jul 03 2022 12:27 AM
-- 🌮 [游戏的打击感从何而来？](http://daily.zhihu.com/story/9750222) | Sun Jul 03 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750300) | Mon Jul 04 2022 12:27 AM
+- 🐻 [混动车真的好吗？维修保养比油车便宜吗？](http://daily.zhihu.com/story/9750281) | Mon Jul 04 2022 12:27 AM
+- 🌏 [如果发明一种机器学习难以战胜人类的棋类规则，这种规则应该具备什么样的特点？](http://daily.zhihu.com/story/9750272) | Mon Jul 04 2022 12:27 AM
+- 🕴 [《甄嬛传》皇后「贤德大度」，为什么却得不到皇上的宠爱？](http://daily.zhihu.com/story/9750270) | Mon Jul 04 2022 12:27 AM
+- 🌮 [研究嫦娥五号月壤用到了哪些高精尖科技，研究月壤与研究地球有什么关联？](http://daily.zhihu.com/story/9750260) | Mon Jul 04 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
