@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Ng DevUI 周下载量突破1000啦！🥳](https://juejin.cn/post/7116355421832478751) | Mon Jul 04 2022 3:34 AM 
+- 🤗 [2022,与其是总结,不如说说居家办公的感受](https://juejin.cn/post/7116368060017016869) | Mon Jul 04 2022 4:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    这2022的开头或许不够好，也不够让人欢喜，或许很多人失意、悲伤、难过。也或许大多数人被疫情限制在家里、市里、国家内。大多产业受到影响。 
+    </details> 
+
+- 🎡 [Ng DevUI 周下载量突破1000啦！🥳](https://juejin.cn/post/7116355421832478751) | Mon Jul 04 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     Ng DevUI 是 DevUI 开源组织在2019年6月开源的 Angular 组件库项目。 开源回顾 这3年来，我们一直坚持每个月发布新版本，将 DevUI 的最新实践分享给社区，从最早的 Ang 
     </details> 
 
-- 🎡 [如何建立一个完美的 Python 项目？](https://juejin.cn/post/7116355088079454239) | Mon Jul 04 2022 3:33 AM 
+- 🕯 [如何建立一个完美的 Python 项目？](https://juejin.cn/post/7116355088079454239) | Mon Jul 04 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
     当开始一个新的 Python 项目时，大家很容易一头扎进去就开始编码。其实花一点时间选择优秀的库，将为以后的开发节省大量时间，并带来更快乐的编码体验。 在理想世界中，所有开发人员的关系是相互依赖和关联 
     </details> 
 
-- 🕯 [详解增强算术赋值：“-=”操作是怎么实现的？](https://juejin.cn/post/7116353346499248159) | Mon Jul 04 2022 3:25 AM 
+- 🚀 [可视化后台必备指南！一文教你合理使用图表组件](https://juejin.cn/post/7116353646916435976) | Mon Jul 04 2022 3:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，笔者是怪物猎人。 猎的什么怪？乃是被无数产品经理、设计师视为洪水猛兽的数据图表！ 凡是制作过数据可视化后台项目的小伙伴，都知道这其中的水有多深，笔者总结了图表四宗罪： 构成复杂，图表元素数量多 
+    </details> 
+
+- 💪 [详解增强算术赋值：“-=”操作是怎么实现的？](https://juejin.cn/post/7116353346499248159) | Mon Jul 04 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
     介绍 Python 有一种叫做增强算术赋值（augmented arithmetic assignment）的东西。可能你不熟悉这个叫法，其实就是在做数学运算的同时进行赋值，例如 a -= b 就是减 
-    </details> 
-
-- 🚀 [详解 Python 的二元算术运算，为什么说减法只是语法糖？](https://juejin.cn/post/7116352136882946055) | Mon Jul 04 2022 3:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    查看 C 代码 按照惯例，我们从查看 CPython 解释器编译的字节码开始。 看起来我们需要深入研究 BINARY_SUBTRACT 操作码。翻查 Python/ceval.c 文件，可以看到实现该 
-    </details> 
-
-- 💪 [Python 中的数字到底是什么？](https://juejin.cn/post/7116350999064739854) | Mon Jul 04 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    概要 本提案定义了一种抽象基类（ABC）（PEP 3119）的层次结构，用来表示类似数字（number-like）的类。它提出了一个 Number :&gt; Complex :&gt; Real :&gt; Rati 
     </details> 
 <!-- juejin:END -->
 ### 少数派
