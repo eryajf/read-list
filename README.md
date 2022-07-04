@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大家会因为什么功能为 Kubernetes 管理平台付费呢?](https://www.v2ex.com/t/864027#reply2) | Mon Jul 04 2022 9:55 AM
-- 🤗 [2022 年有什么好的学习 UIKit 的 Swift 教程？](https://www.v2ex.com/t/864026#reply1) | Mon Jul 04 2022 9:52 AM
-- 🎭 [有办法在 vscode terminal 中的 vim 实现 map Command+c/v/s/a 映射吗？](https://www.v2ex.com/t/864025#reply0) | Mon Jul 04 2022 9:47 AM
-- 🥷 [用 Go 开发公司内部的业务系统，后端该如何选型？](https://www.v2ex.com/t/864023#reply11) | Mon Jul 04 2022 9:45 AM
-- 🐵 [T Chat 第五期「戴铭 - 我在快手做移动端」7 月 7 日晚 8 点开播](https://www.v2ex.com/t/864022#reply0) | Mon Jul 04 2022 9:44 AM<!-- v2ex:END -->
+- 🥸 [隔壁位置的同事被辞了，心有戚戚](https://www.v2ex.com/t/864043#reply1) | Mon Jul 04 2022 11:12 AM
+- 🤗 [大家会因为什么功能为 Kubernetes 管理平台付费呢?](https://www.v2ex.com/t/864027#reply4) | Mon Jul 04 2022 9:55 AM
+- 🎭 [2022 年有什么好的学习 UIKit 的 Swift 教程？](https://www.v2ex.com/t/864026#reply3) | Mon Jul 04 2022 9:52 AM
+- 🥷 [有办法在 vscode terminal 中的 vim 实现 map Command+c/v/s/a 映射吗？](https://www.v2ex.com/t/864025#reply0) | Mon Jul 04 2022 9:47 AM
+- 🐵 [用 Go 开发公司内部的业务系统，后端该如何选型？](https://www.v2ex.com/t/864023#reply17) | Mon Jul 04 2022 9:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
