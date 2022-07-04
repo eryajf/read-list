@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 MyBatis 操作 Nebula Graph 的实践](https://juejin.cn/post/7116453990350454815) | Mon Jul 04 2022 9:56 AM 
+- 🤗 [Git bisect 命令解析 #3 : 案例 3 之 &quot;回退型合并提交&quot; 的分析和处理](https://juejin.cn/post/7116344403479756808) | Mon Jul 04 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
-    注意到很多同学对于 ORM 框架的需求比较迫切，而且有热心的同学已经捐赠了自己开发的项目。下面主要介绍一下我们在使用 MyBatis 操作 Nebula Graph 方面的一些经验。 
+    系列前两篇文章中介绍的, 都是符合 git bisect 查找要求的案例, 但有没有什么问题, 我们没法直接用 git bisect 来查找的呢? 
     </details> 
 
-- 🎡 [Spring Cloud OpenFeign - 远程调用](https://juejin.cn/post/7116450470704463908) | Mon Jul 04 2022 9:42 AM 
+- 🎡 [还同事一头茂密的秀发](https://juejin.cn/post/7116342938715553800) | Mon Jul 04 2022 2:45 AM 
     <details><summary>展开描述 ...</summary> 
-    🌈一、什么是Feign? Feign makes writing java http clients easier，这是官方给出的一个说明，本意翻译是：Feign使编写Java http客户端更容易， 
+    这里选了几个具体开发中遇到的问题来讲一下： - 优雅地操作数据 - 避免“副作用”的出现 - 写出清晰的代码 
     </details> 
 
-- 🕯 [iOS开发--@synchronized的原理分析](https://juejin.cn/post/7116436253452533773) | Mon Jul 04 2022 8:47 AM 
+- 🕯 [前端 vue 直传 华为云OBS（BrowserJS 断点续传方法）](https://juejin.cn/post/7116340683702534174) | Mon Jul 04 2022 2:36 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 iOS开发中，锁的应用是必不可少的，今天我们就一起探索一下常用的@synchronized的原理。 探索目标 我们在使用@synchronized的时候，基本使用就是 这里我们看到，@synch 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 需求： 可多个文件同时上传，需要显示文件名、上传进度、上传速度，可以暂停、继续 开始 1、搭建OBS服务环境相关请参考官网教程 点击跳转 2、下载 
     </details> 
 
-- 🚀 [一、RunLoop初体验~思考](https://juejin.cn/post/7116430251638390815) | Mon Jul 04 2022 8:24 AM 
+- 🚀 [从几个关键节点来理解nodejs](https://juejin.cn/post/7116337991571734541) | Mon Jul 04 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
-    写了个UITableView然后我添加个NSTimer，接下来回发生什么事情呢？ 当滑动UITableView时，NSTimer计时器就会停止。 相信绝大多数开发者都遇到过这个问题。 
+    首先我们弄清楚了什么是非阻塞I/O，即遇到I/O立刻跳过执行后面的任务，不会等待I/O的结果。当I/O处理好了之后就会调用我们注册的事件处理函数，这就叫事件驱动。 
     </details> 
 
-- 💪 [iOS 的 AsyncSequence 和 AsyncStream 教程](https://juejin.cn/post/7116409948665282568) | Mon Jul 04 2022 7:05 AM 
+- 💪 [hash和history路由的区别](https://juejin.cn/post/7116336664540086286) | Mon Jul 04 2022 2:21 AM 
     <details><summary>展开描述 ...</summary> 
-    在本教程中，您将： 比较同步和异步读取非常大的文件时的速度和内存使用情况。 创建和使用自定义AsyncSequence. 创建和使用基于拉的和基于推的AsyncStreams。 注意：这是一个中级教程 
+    在了解路由模式前，我们先看下 什么是单页面应用，vue-router  的实现原理是怎样的，这样更容易理解路由。 SPA与前端路由 SPA（单页面应用，全程为：Single-page Web appl 
     </details> 
 <!-- juejin:END -->
 ### 少数派
