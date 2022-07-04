@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [视频平台明星争夺战升级：“周杰伦”们快不够用了](http://www.techweb.com.cn/viewpoint/2022-07-04/2896745.shtml) | Mon Jul 04 2022 3:20 AM
-- 👹 [智能汽车智能手机深度融合 星纪时代取得魅族科技控股权](http://www.techweb.com.cn/it/2022-07-04/2896743.shtml) | Mon Jul 04 2022 3:10 AM
-- 🪜 [吉利正式收购魅族 后者将作为独立品牌继续运营](http://www.techweb.com.cn/internet/2022-07-04/2896741.shtml) | Mon Jul 04 2022 3:07 AM
-- 🤭 [坚持绿色低碳发展理念，达达集团发布上市后首份ESG报告](http://www.techweb.com.cn/internet/2022-07-04/2896740.shtml) | Mon Jul 04 2022 3:06 AM
-- 🙉 [拜登呼吁加油站营运商降价 遭贝佐斯猛烈抨击：不懂市场规律](http://www.techweb.com.cn/world/2022-07-04/2896738.shtml) | Mon Jul 04 2022 2:58 AM<!-- techweb-allnews:END -->
+- 👍 [得克萨斯超级工厂所产4680电池Model Y可在52分钟充至97%电量](http://www.techweb.com.cn/world/2022-07-04/2896758.shtml) | Mon Jul 04 2022 4:18 AM
+- 👹 [周冠宇F1赛车遭严重翻车事故后报平安 HALO系统又立功了](http://www.techweb.com.cn/internet/2022-07-04/2896754.shtml) | Mon Jul 04 2022 4:09 AM
+- 🪜 [特斯拉Model Y是挪威6月份最畅销汽车 销量是第二名大众ID.4两倍](http://www.techweb.com.cn/world/2022-07-04/2896753.shtml) | Mon Jul 04 2022 4:02 AM
+- 🤭 [视频平台明星争夺战升级：“周杰伦”们快不够用了](http://www.techweb.com.cn/viewpoint/2022-07-04/2896745.shtml) | Mon Jul 04 2022 3:20 AM
+- 🙉 [智能汽车智能手机深度融合 星纪时代取得魅族科技控股权](http://www.techweb.com.cn/it/2022-07-04/2896743.shtml) | Mon Jul 04 2022 3:10 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
