@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请大家推荐一本概率有关的书](https://www.v2ex.com/t/863993#reply2) | Mon Jul 04 2022 8:20 AM
-- 🤗 [安卓版 edge 拦截广告无效](https://www.v2ex.com/t/863991#reply1) | Mon Jul 04 2022 8:12 AM
-- 🎭 [大家对 CSDN “帽子屋先生”事件怎么看？](https://www.v2ex.com/t/863984#reply0) | Mon Jul 04 2022 7:46 AM
-- 🥷 [求教各位大神，服务端被疯狂刷客户端接口，有什么办法处理？](https://www.v2ex.com/t/863976#reply1) | Mon Jul 04 2022 7:29 AM
-- 🐵 [有没有什么免费或者比较便宜的云服务厂商认证（能提供电子/纸质证书）？](https://www.v2ex.com/t/863964#reply0) | Mon Jul 04 2022 6:34 AM<!-- v2ex:END -->
+- 🥸 [大家会因为什么功能为 Kubernetes 管理平台付费呢?](https://www.v2ex.com/t/864027#reply2) | Mon Jul 04 2022 9:55 AM
+- 🤗 [2022 年有什么好的学习 UIKit 的 Swift 教程？](https://www.v2ex.com/t/864026#reply1) | Mon Jul 04 2022 9:52 AM
+- 🎭 [有办法在 vscode terminal 中的 vim 实现 map Command+c/v/s/a 映射吗？](https://www.v2ex.com/t/864025#reply0) | Mon Jul 04 2022 9:47 AM
+- 🥷 [用 Go 开发公司内部的业务系统，后端该如何选型？](https://www.v2ex.com/t/864023#reply11) | Mon Jul 04 2022 9:45 AM
+- 🐵 [T Chat 第五期「戴铭 - 我在快手做移动端」7 月 7 日晚 8 点开播](https://www.v2ex.com/t/864022#reply0) | Mon Jul 04 2022 9:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
