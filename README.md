@@ -239,7 +239,7 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [随时待命的听歌识曲，这项 Pixel 独占功能现在你也可以体验：Ambient Music Mod](https://sspai.com/post/74109) | Mon Jul 04 2022 3:30 AM 
+- 👹 [随时待命的听歌识曲，这项 Pixel 独占功能现在你也可以体验](https://sspai.com/post/74109) | Mon Jul 04 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     借助 Ambient Music Mod 这个开源项目，我们得以把 Pixel 独占的「闻曲知音」功能带到其他 Android 设备上来。&lt;a href=&quot;https://sspai.com/post/74109&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
