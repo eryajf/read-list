@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [日本电信运营商KDDI大规模通信故障恢复 股价下跌近4%](http://www.techweb.com.cn/world/2022-07-04/2896759.shtml) | Mon Jul 04 2022 4:22 AM
-- 👹 [得克萨斯超级工厂所产4680电池Model Y可在52分钟充至97%电量](http://www.techweb.com.cn/world/2022-07-04/2896758.shtml) | Mon Jul 04 2022 4:18 AM
-- 🪜 [周冠宇F1赛车遭严重翻车事故后报平安 HALO系统又立功了](http://www.techweb.com.cn/internet/2022-07-04/2896754.shtml) | Mon Jul 04 2022 4:09 AM
-- 🤭 [特斯拉Model Y是挪威6月份最畅销汽车 销量是第二名大众ID.4两倍](http://www.techweb.com.cn/world/2022-07-04/2896753.shtml) | Mon Jul 04 2022 4:02 AM
-- 🙉 [视频平台明星争夺战升级：“周杰伦”们快不够用了](http://www.techweb.com.cn/viewpoint/2022-07-04/2896745.shtml) | Mon Jul 04 2022 3:20 AM<!-- techweb-allnews:END -->
+- 👍 [德国东部惊人的工业复兴](http://www.techweb.com.cn/viewpoint/2022-07-04/2896761.shtml) | Mon Jul 04 2022 5:36 AM
+- 👹 [日本电信运营商KDDI大规模通信故障恢复 股价下跌近4%](http://www.techweb.com.cn/world/2022-07-04/2896759.shtml) | Mon Jul 04 2022 4:22 AM
+- 🪜 [得克萨斯超级工厂所产4680电池Model Y可在52分钟充至97%电量](http://www.techweb.com.cn/world/2022-07-04/2896758.shtml) | Mon Jul 04 2022 4:18 AM
+- 🤭 [周冠宇F1赛车遭严重翻车事故后报平安 HALO系统又立功了](http://www.techweb.com.cn/internet/2022-07-04/2896754.shtml) | Mon Jul 04 2022 4:09 AM
+- 🙉 [特斯拉Model Y是挪威6月份最畅销汽车 销量是第二名大众ID.4两倍](http://www.techweb.com.cn/world/2022-07-04/2896753.shtml) | Mon Jul 04 2022 4:02 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
