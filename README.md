@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [OKHttp源码分析（六）连接管理 ConnectInterceptor 、StreamAllocation 和 RealConnection](https://juejin.cn/post/7116346271316574216) | Mon Jul 04 2022 2:58 AM 
+- 🤗 [超详细教程，一文入门Istio架构原理及实战应用](https://juejin.cn/post/7116400234711744525) | Mon Jul 04 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-    ConnectInterceptor作为CacheInterceptor的后一个缓存，已经没有缓存这条退路了，必须要真刀真枪的请求网络了。到了现在才真正开始请求网络获取数据。 
+    ## Istio简介 ### 2.1、istio架构 ![file]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ee749e401dc4 
     </details> 
 
-- 🎡 [Android gradle迁移至kts](https://juejin.cn/post/7116333902435893261) | Mon Jul 04 2022 2:10 AM 
+- 🎡 [为什么大家说mysql数据库单表最大两千万？依据是啥？](https://juejin.cn/post/7116381265300815903) | Mon Jul 04 2022 5:14 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 在kotlin语言已经渗透至各领域的环境下，比如服务端，android，跨平台Kmm，native for kotlin，几乎所有的领域都可以用kotlin去编写了，当然还有不成熟的地方，但是J 
+    故事从好多年前说起。 想必大家也听说过数据库单表**建议最大2kw**条数据这个说法。如果超过了，性能就会下降得比较厉害。 巧了。 我也听说过。 
     </details> 
 
-- 🕯 [详解HashMap源码解析（上）](https://juejin.cn/post/7116327540242776094) | Mon Jul 04 2022 1:45 AM 
+- 🕯 [Mysql的explain，你真的会用吗？](https://juejin.cn/post/7116363432881815589) | Mon Jul 04 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-    数据结构： HashMap的底层主要基于数组+链表/红黑树实现，数组优点就是查询块，HashMap通过计算hash码获取到数组的下标来查询数据。同样也可以通过hash码得到数组下标，存放数据。 哈希表 
+    数据库性能优化是每个后端程序猿必备的基础技能之一，而Mysql中的explain堪称Mysql的性能优化分析神器，我们可以通过它来分析SQL语句的对应的执行计划在Mysql底层到底是如何执行的。 
     </details> 
 
-- 🚀 [find_in_set的学习与思考](https://juejin.cn/post/7116326816180076552) | Mon Jul 04 2022 1:42 AM 
+- 🚀 [抓到Dubbo异步调用的小BUG，再送你一个贡献开源代码的机会](https://juejin.cn/post/7116348946556911623) | Mon Jul 04 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-    1.首先认识一下find_in_set&lpar;&rpar;函数 首先很多小伙伴一定会去查阅MySQL的官方手册, 但可能有些新手朋友查阅出来可能看不明白 文档解释: &lpar;假如字符串str在由N个子链组成的字符串列表st 
+    hello，大家好呀，我是小楼。 最近一个技术群有同学at我，问我是否熟悉Dubbo，这我熟啊~ 他说遇到了一个Dubbo异步调用的问题，怀疑是个BUG，提到BUG我可就不困了，说不定可以水，哦不.. 
     </details> 
 
-- 💪 [【FAQ】华为帐号服务报错 907135701的常见原因总结和解决方法](https://juejin.cn/post/7116324736409272328) | Mon Jul 04 2022 1:34 AM 
+- 💪 [Terraform 集成Ansible 实战&lpar;remote&rpar;](https://juejin.cn/post/7115994417516773384) | Sun Jul 03 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
-    很多开发者在接入华为帐号服务时，经常会出现907135701的报错。根据官网文档说明，错误码907135701表示： ![]&lpar;https://p3-juejin.byteimg.com/tos-c 
+    前言 Terraform 和 Ansible 是两个独立的工具，有各自的用途，但它们可以集成以解决典型用例以及它们相互补充的方式，这使得它们更加受欢迎。 一 工具简介 1.1 Terraform 它是 
     </details> 
 <!-- juejin:END -->
 ### 少数派
