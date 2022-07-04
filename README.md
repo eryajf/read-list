@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [德国东部惊人的工业复兴](http://www.techweb.com.cn/viewpoint/2022-07-04/2896761.shtml) | Mon Jul 04 2022 5:36 AM
-- 👹 [日本电信运营商KDDI大规模通信故障恢复 股价下跌近4%](http://www.techweb.com.cn/world/2022-07-04/2896759.shtml) | Mon Jul 04 2022 4:22 AM
-- 🪜 [得克萨斯超级工厂所产4680电池Model Y可在52分钟充至97%电量](http://www.techweb.com.cn/world/2022-07-04/2896758.shtml) | Mon Jul 04 2022 4:18 AM
-- 🤭 [周冠宇F1赛车遭严重翻车事故后报平安 HALO系统又立功了](http://www.techweb.com.cn/internet/2022-07-04/2896754.shtml) | Mon Jul 04 2022 4:09 AM
-- 🙉 [特斯拉Model Y是挪威6月份最畅销汽车 销量是第二名大众ID.4两倍](http://www.techweb.com.cn/world/2022-07-04/2896753.shtml) | Mon Jul 04 2022 4:02 AM<!-- techweb-allnews:END -->
+- 👍 [SNE Research：宁德时代领跑今年前5月全球电动汽车电池市场](http://www.techweb.com.cn/world/2022-07-04/2896784.shtml) | Mon Jul 04 2022 7:48 AM
+- 👹 [现代汽车6月份销售近1.9万辆电动汽车 同比增长超过30%](http://www.techweb.com.cn/world/2022-07-04/2896783.shtml) | Mon Jul 04 2022 7:35 AM
+- 🪜 [苹果分析师：苹果iPhone处理器的年度性能增长有所放缓](http://www.techweb.com.cn/world/2022-07-04/2896779.shtml) | Mon Jul 04 2022 7:22 AM
+- 🤭 [德国东部惊人的工业复兴](http://www.techweb.com.cn/viewpoint/2022-07-04/2896761.shtml) | Mon Jul 04 2022 5:36 AM
+- 🙉 [日本电信运营商KDDI大规模通信故障恢复 股价下跌近4%](http://www.techweb.com.cn/world/2022-07-04/2896759.shtml) | Mon Jul 04 2022 4:22 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
