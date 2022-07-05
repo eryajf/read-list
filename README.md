@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [“在越南，钱就像躺在街上”](http://www.techweb.com.cn/viewpoint/2022-07-05/2896908.shtml) | Tue Jul 05 2022 3:10 AM
-- 👹 [特斯拉柏林超级工厂将停产两周升级 以提高产量](http://www.techweb.com.cn/world/2022-07-05/2896904.shtml) | Tue Jul 05 2022 2:49 AM
-- 🪜 [美国太阳谷媒体年会即将举行 库克等科技巨头参加](http://www.techweb.com.cn/world/2022-07-05/2896902.shtml) | Tue Jul 05 2022 2:36 AM
-- 🤭 [三星电子已成立半导体封装特别小组 直属联席CEO庆桂显](http://www.techweb.com.cn/world/2022-07-05/2896899.shtml) | Tue Jul 05 2022 2:31 AM
-- 🙉 [上市公司改名，科学还是玄学？](http://www.techweb.com.cn/viewpoint/2022-07-05/2896892.shtml) | Tue Jul 05 2022 2:10 AM<!-- techweb-allnews:END -->
+- 👍 [英国将立法强制互联网公司遏制外国政府虚假信息](http://www.techweb.com.cn/world/2022-07-05/2896913.shtml) | Tue Jul 05 2022 3:23 AM
+- 👹 [“在越南，钱就像躺在街上”](http://www.techweb.com.cn/viewpoint/2022-07-05/2896908.shtml) | Tue Jul 05 2022 3:10 AM
+- 🪜 [特斯拉柏林超级工厂将停产两周升级 以提高产量](http://www.techweb.com.cn/world/2022-07-05/2896904.shtml) | Tue Jul 05 2022 2:49 AM
+- 🤭 [美国太阳谷媒体年会即将举行 库克等科技巨头参加](http://www.techweb.com.cn/world/2022-07-05/2896902.shtml) | Tue Jul 05 2022 2:36 AM
+- 🙉 [三星电子已成立半导体封装特别小组 直属联席CEO庆桂显](http://www.techweb.com.cn/world/2022-07-05/2896899.shtml) | Tue Jul 05 2022 2:31 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
