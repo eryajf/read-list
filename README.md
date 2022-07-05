@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何应付意外情况的数据受损问题](https://www.v2ex.com/t/864171#reply0) | Tue Jul 05 2022 4:57 AM
-- 🤗 [能否拿到 redis 的数据指针](https://www.v2ex.com/t/864163#reply4) | Tue Jul 05 2022 4:12 AM
-- 🎭 [如何限制家人网络访问，防止被骗？](https://www.v2ex.com/t/864140#reply27) | Tue Jul 05 2022 3:08 AM
-- 🥷 [StackOverflow 前段时间发布了 2022 年开发者调查](https://www.v2ex.com/t/864138#reply10) | Tue Jul 05 2022 3:05 AM
-- 🐵 [中国软件“乱象”：产业级的“凑合”与系统化的“将就”丨 RTE 技术环境月报 202207](https://www.v2ex.com/t/864136#reply4) | Tue Jul 05 2022 3:04 AM<!-- v2ex:END -->
+- 🥸 [大佬们是如何在 GitHub 上看代码来提升自己的？](https://www.v2ex.com/t/864190#reply0) | Tue Jul 05 2022 6:19 AM
+- 🤗 [安卓有没有能阻止系统杀后台的方法](https://www.v2ex.com/t/864186#reply0) | Tue Jul 05 2022 6:15 AM
+- 🎭 [小白用户的 NAS 选购指南](https://www.v2ex.com/t/864184#reply1) | Tue Jul 05 2022 6:08 AM
+- 🥷 [兼职帮忙做运营增长，创业公司可以联系](https://www.v2ex.com/t/864180#reply1) | Tue Jul 05 2022 5:52 AM
+- 🐵 [不懂就问：用 goframe 写的工程可以打包成一个二进制文件？](https://www.v2ex.com/t/864176#reply6) | Tue Jul 05 2022 5:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
