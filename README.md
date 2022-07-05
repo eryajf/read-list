@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [C 语言 循环下 创建动态数组 非常慢 应该如何解决](https://www.v2ex.com/t/864227#reply10) | Tue Jul 05 2022 8:07 AM
-- 🤗 [昨天试了一下 JB 家的 Gateway（beta），感觉和 vscode remote 还是有一些差距的。](https://www.v2ex.com/t/864222#reply5) | Tue Jul 05 2022 7:55 AM
-- 🎭 [群晖 DS720，重安装系统后无法挂载移动到外置 USB 的磁盘分区](https://www.v2ex.com/t/864217#reply0) | Tue Jul 05 2022 7:44 AM
-- 🥷 [git 在 clone 的时候能否先拉到最新代码显示，再慢慢 clone 历史？](https://www.v2ex.com/t/864214#reply7) | Tue Jul 05 2022 7:34 AM
-- 🐵 [repo 提示要更新怎么解决？](https://www.v2ex.com/t/864212#reply0) | Tue Jul 05 2022 7:27 AM<!-- v2ex:END -->
+- 🥸 [chrome 崩溃后全部信息丢失？](https://www.v2ex.com/t/864236#reply1) | Tue Jul 05 2022 8:34 AM
+- 🤗 [C 语言 循环下 创建动态数组 非常慢 应该如何解决](https://www.v2ex.com/t/864227#reply18) | Tue Jul 05 2022 8:07 AM
+- 🎭 [昨天试了一下 JB 家的 Gateway（beta），感觉和 vscode remote 还是有一些差距的。](https://www.v2ex.com/t/864222#reply6) | Tue Jul 05 2022 7:55 AM
+- 🥷 [群晖 DS720，重安装系统后无法挂载移动到外置 USB 的磁盘分区](https://www.v2ex.com/t/864217#reply0) | Tue Jul 05 2022 7:44 AM
+- 🐵 [git 在 clone 的时候能否先拉到最新代码显示，再慢慢 clone 历史？](https://www.v2ex.com/t/864214#reply7) | Tue Jul 05 2022 7:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
