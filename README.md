@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [EasyMosdns 让 mosdns 开箱即用 &lpar;附 DoH&rpar;](https://www.v2ex.com/t/864322#reply1) | Tue Jul 05 2022 4:54 PM
+- 🥸 [EasyMosdns 让 mosdns 开箱即用 &lpar;附 DoH&rpar;](https://www.v2ex.com/t/864322#reply2) | Tue Jul 05 2022 4:54 PM
 - 🤗 [Linux 下有没有简单的可视化工具？](https://www.v2ex.com/t/864318#reply8) | Tue Jul 05 2022 3:51 PM
 - 🎭 [升级到 22621 以后 noMeiryoUI 失效了，还有啥靠谱的方法能修改系统显示字体么？](https://www.v2ex.com/t/864317#reply0) | Tue Jul 05 2022 3:47 PM
 - 🥷 [[计算机网络问题] 机器 A 跑 docker， docker 走桥接网络，跑 openwrt 容器 B， B 运行 clash。接下来把机器 A 的 DNS 和网关设置成 B， ping B 显示 network unreachable](https://www.v2ex.com/t/864313#reply3) | Tue Jul 05 2022 3:04 PM
