@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊一聊web图片小知识🔥](https://juejin.cn/post/7116715255404691493) | Tue Jul 05 2022 2:50 AM 
+- 🤗 [B站UP搭建世界首个纯红石神经网络、基于深度学习动作识别的色情检测、陈天奇《机器学编译MLC》课程进展、AI前沿论文 | ShowMeAI资讯日报 #07.05](https://juejin.cn/post/7116734757253169166) | Tue Jul 05 2022 4:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 2022-07-05 期，B站UP搭建世界首个纯红石神经网络、基于深度学习动作识别的色情检测、机器学习100讲、陈天奇《机器学编译MLC》课程进展、6篇前沿论文… 
+    </details> 
+
+- 🎡 [Python有序字典的两个小“惊喜”~~](https://juejin.cn/post/7116729301214429198) | Tue Jul 05 2022 3:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    从 Python 3.6 开始，常规的字典会记住其插入的顺序：就是说，当遍历字典时，你获得字典中元素的顺序跟它们插入时的顺序相同。 在 3.6 之前，字典是无序的：遍历顺序是随机的。 关于有序字典，这 
+    </details> 
+
+- 🕯 [729. 我的日程安排表 I :「模拟」&amp;「线段树（动态开点）」&amp;「分块 + 位运算（分桶）」](https://juejin.cn/post/7116727238808043557) | Tue Jul 05 2022 3:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 729. 我的日程安排表 I ，难度为 中等。 Tag : 「模拟」、「红黑树」、「线段树（动态开点）」、「线段树」、「分块」、「位运算」、「哈希表」 实现一个 
+    </details> 
+
+- 🚀 [学了半天，import 到底在干啥？](https://juejin.cn/post/7116726568398897160) | Tue Jul 05 2022 3:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    Python凭什么就那么好用呢？毫无疑问，大量现成又好用的内置/第三方库功不可没。 那我们是怎么使用它们的呢？ 噢，对了~是用的import xxx这个语句。 之所以会有此一问，也是之前有一次使用Py 
+    </details> 
+
+- 💪 [聊一聊web图片小知识🔥](https://juejin.cn/post/7116715255404691493) | Tue Jul 05 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
     项目中有较多图片处理场景，补齐下相关知识点 。同时准备了40页配套PPT，需要的小伙伴可加VX or 公众号获取哈 
-    </details> 
-
-- 🎡 [基于OpenHarmony的智能金属探测器](https://juejin.cn/post/7116705622502375431) | Tue Jul 05 2022 2:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    智能金属探测器是基于 OpenAtom  OpenHarmony（以下简称“OpenHarmony”）操作系统，利用电磁感应原理来探测周围的金属物体。 
-    </details> 
-
-- 🕯 [智能算法集成测试平台V0.1实战开发](https://juejin.cn/post/7116689995556978702) | Tue Jul 05 2022 1:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 兜兜转转了一圈，想要和其他的粒子群算法做个对比测试，结果发现，木有代码，python没有也就算了，matlab都找不到，找到了还要钱，好家伙！虽然有一些python的智能算法库，但是要么就是集成 
-    </details> 
-
-- 🚀 [操作系统面试视角](https://juejin.cn/post/7116687690283614216) | Tue Jul 05 2022 1:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    计算机组成原理相关 简述一下冯诺依曼模型 输入/输出设备 输入设备向计算机输入数据，计算机经过计算，将结果通过输出设备向外界传达。如果输入设备、输出设备想要和 CPU 进行交互，比如说用户按键需要 C 
-    </details> 
-
-- 💪 [准大四生的前端生涯 | 谨献于2022年中总结](https://juejin.cn/post/7116665405824827406) | Mon Jul 04 2022 11:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    我不知道22的年纪应当算作少年还是中年，我也不知道怎么才能成为这个年纪该成为的人，或是充满期待？或是学业有成？亦或是老成历练？正是由于这种困惑 
     </details> 
 <!-- juejin:END -->
 ### 少数派
