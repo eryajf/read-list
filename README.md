@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [日本半导体正在追回失去的35年](http://www.techweb.com.cn/viewpoint/2022-07-05/2896855.shtml) | Tue Jul 05 2022 1:18 AM
-- 👹 [小米 × 徕卡联合研发，专业影像旗舰小米12S系列正式发布](http://mo.techweb.com.cn/digi/2022-07-04/2896836.shtml) | Mon Jul 04 2022 2:12 PM
-- 🪜 [为什么宁德时代的研发费用比小米还低？](http://www.techweb.com.cn/viewpoint/2022-07-04/2896835.shtml) | Mon Jul 04 2022 1:56 PM
-- 🤭 [腾讯控股回购86万股 耗资约3亿元](http://www.techweb.com.cn/internet/2022-07-04/2896833.shtml) | Mon Jul 04 2022 12:30 PM
-- 🙉 [周杰伦新专辑未发行即开分 豆瓣致歉：已关闭评分 并清空所有评分和评论](http://www.techweb.com.cn/internet/2022-07-04/2896832.shtml) | Mon Jul 04 2022 12:28 PM<!-- techweb-allnews:END -->
+- 👍 [“在越南，钱就像躺在街上”](http://www.techweb.com.cn/viewpoint/2022-07-05/2896908.shtml) | Tue Jul 05 2022 3:10 AM
+- 👹 [特斯拉柏林超级工厂将停产两周升级 以提高产量](http://www.techweb.com.cn/world/2022-07-05/2896904.shtml) | Tue Jul 05 2022 2:49 AM
+- 🪜 [美国太阳谷媒体年会即将举行 库克等科技巨头参加](http://www.techweb.com.cn/world/2022-07-05/2896902.shtml) | Tue Jul 05 2022 2:36 AM
+- 🤭 [三星电子已成立半导体封装特别小组 直属联席CEO庆桂显](http://www.techweb.com.cn/world/2022-07-05/2896899.shtml) | Tue Jul 05 2022 2:31 AM
+- 🙉 [上市公司改名，科学还是玄学？](http://www.techweb.com.cn/viewpoint/2022-07-05/2896892.shtml) | Tue Jul 05 2022 2:10 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
