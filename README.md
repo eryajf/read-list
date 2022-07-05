@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [特斯拉汽车现在可以扫描坑洼情况 并自动调整悬架高度以避免损坏](http://www.techweb.com.cn/world/2022-07-05/2896927.shtml) | Tue Jul 05 2022 4:18 AM
-- 👹 [消息称苹果iMac Pro仍在研发中 将搭载M3 Pro和M3 Max芯片](http://www.techweb.com.cn/world/2022-07-05/2896926.shtml) | Tue Jul 05 2022 4:13 AM
-- 🪜 [英国将立法强制互联网公司遏制外国政府虚假信息](http://www.techweb.com.cn/world/2022-07-05/2896913.shtml) | Tue Jul 05 2022 3:23 AM
-- 🤭 [“在越南，钱就像躺在街上”](http://www.techweb.com.cn/viewpoint/2022-07-05/2896908.shtml) | Tue Jul 05 2022 3:10 AM
-- 🙉 [特斯拉柏林超级工厂将停产两周升级 以提高产量](http://www.techweb.com.cn/world/2022-07-05/2896904.shtml) | Tue Jul 05 2022 2:49 AM<!-- techweb-allnews:END -->
+- 👍 [社区团购撤城“后遗症”](http://www.techweb.com.cn/viewpoint/2022-07-05/2896930.shtml) | Tue Jul 05 2022 5:20 AM
+- 👹 [小度回应“女子称民宿内智能音箱偷拍房客隐私”：支持当事人维权 协助警方调查](http://www.techweb.com.cn/it/2022-07-05/2896928.shtml) | Tue Jul 05 2022 4:56 AM
+- 🪜 [特斯拉汽车现在可以扫描坑洼情况 并自动调整悬架高度以避免损坏](http://www.techweb.com.cn/world/2022-07-05/2896927.shtml) | Tue Jul 05 2022 4:18 AM
+- 🤭 [消息称苹果iMac Pro仍在研发中 将搭载M3 Pro和M3 Max芯片](http://www.techweb.com.cn/world/2022-07-05/2896926.shtml) | Tue Jul 05 2022 4:13 AM
+- 🙉 [英国将立法强制互联网公司遏制外国政府虚假信息](http://www.techweb.com.cn/world/2022-07-05/2896913.shtml) | Tue Jul 05 2022 3:23 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
