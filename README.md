@@ -43,7 +43,7 @@
 <!-- eryajf:START -->
 - 🫶 [博客接入了CDN，请求大家江湖支援](https://wiki.eryajf.net/pages/5f559d/) | Sat Jul 02 2022 11:28 PM 
     <details><summary>展开描述 ...</summary> 
-    如标题所言，在6月30号我终于把域名接入了CDN，之前强刷页面之后，首次加载需要一分钟才能完全加载，这一直是我的一块儿心病，而今接入CDN，速度的确飞了起来，无论是首次加载还是跳转其他页面，都能达到秒开的效果。 
+    收款明细 
     </details> 
 
 - 🧰 [学习周刊-总第60期-2022年第25周](https://wiki.eryajf.net/pages/bff449/) | Sat Jul 02 2022 11:07 AM 
