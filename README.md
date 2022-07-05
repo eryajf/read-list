@@ -216,24 +216,24 @@
     ShowMeAI资讯日报 2022-07-05 期，B站UP搭建世界首个纯红石神经网络、基于深度学习动作识别的色情检测、机器学习100讲、陈天奇《机器学编译MLC》课程进展、6篇前沿论文… 
     </details> 
 
-- 🎡 [Python有序字典的两个小“惊喜”~~](https://juejin.cn/post/7116729301214429198) | Tue Jul 05 2022 3:44 AM 
+- 🎡 [Python 多线程小技巧：比 time.sleep 更好用的暂停写法！](https://juejin.cn/post/7116730555881750565) | Tue Jul 05 2022 3:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们知道，在 Python 里面可以使用time.sleep来让代码暂停一段时间，例如： 程序首先打印出...部分代码...，然后等待5秒钟，再打印出...剩下的代码...。 现在大家想一想，有没有什 
+    </details> 
+
+- 🕯 [Python有序字典的两个小“惊喜”~~](https://juejin.cn/post/7116729301214429198) | Tue Jul 05 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
     从 Python 3.6 开始，常规的字典会记住其插入的顺序：就是说，当遍历字典时，你获得字典中元素的顺序跟它们插入时的顺序相同。 在 3.6 之前，字典是无序的：遍历顺序是随机的。 关于有序字典，这 
     </details> 
 
-- 🕯 [729. 我的日程安排表 I :「模拟」&amp;「线段树（动态开点）」&amp;「分块 + 位运算（分桶）」](https://juejin.cn/post/7116727238808043557) | Tue Jul 05 2022 3:36 AM 
+- 🚀 [Python如何异步发送日志到远程服务器？](https://juejin.cn/post/7116728579789946893) | Tue Jul 05 2022 3:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    背景 在Python中使用日志最常用的方式就是在控制台和文件中输出日志了,logging模块也很好的提供的相应 的类,使用起来也非常方便,但是有时我们可能会有一些需求,如还需要将日志发送到远端,或者直 
+    </details> 
+
+- 💪 [729. 我的日程安排表 I :「模拟」&amp;「线段树（动态开点）」&amp;「分块 + 位运算（分桶）」](https://juejin.cn/post/7116727238808043557) | Tue Jul 05 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 729. 我的日程安排表 I ，难度为 中等。 Tag : 「模拟」、「红黑树」、「线段树（动态开点）」、「线段树」、「分块」、「位运算」、「哈希表」 实现一个 
-    </details> 
-
-- 🚀 [学了半天，import 到底在干啥？](https://juejin.cn/post/7116726568398897160) | Tue Jul 05 2022 3:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    Python凭什么就那么好用呢？毫无疑问，大量现成又好用的内置/第三方库功不可没。 那我们是怎么使用它们的呢？ 噢，对了~是用的import xxx这个语句。 之所以会有此一问，也是之前有一次使用Py 
-    </details> 
-
-- 💪 [聊一聊web图片小知识🔥](https://juejin.cn/post/7116715255404691493) | Tue Jul 05 2022 2:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    项目中有较多图片处理场景，补齐下相关知识点 。同时准备了40页配套PPT，需要的小伙伴可加VX or 公众号获取哈 
     </details> 
 <!-- juejin:END -->
 ### 少数派
