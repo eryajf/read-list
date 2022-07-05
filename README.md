@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [强大的多列 IN 查询语句，及数据库支持情况。](https://www.v2ex.com/t/864105#reply3) | Tue Jul 05 2022 1:31 AM
-- 🤗 [5 小时 go 语言了解设计模式（23 个完整）](https://www.v2ex.com/t/864088#reply6) | Mon Jul 04 2022 10:32 PM
-- 🎭 [难道 zlib 是 V2EX 运营的？为啥 payment 是 v2ex？](https://www.v2ex.com/t/864084#reply1) | Mon Jul 04 2022 5:15 PM
-- 🥷 [ide 领域 有没有介于 jetbrains 和 文本编辑器之间的产品？](https://www.v2ex.com/t/864075#reply19) | Mon Jul 04 2022 3:50 PM
-- 🐵 [有没有打算做量子计算的公司或同学, 想找点茬.](https://www.v2ex.com/t/864074#reply1) | Mon Jul 04 2022 3:37 PM<!-- v2ex:END -->
+- 🥸 [如何限制家人网络访问，防止被骗？](https://www.v2ex.com/t/864140#reply12) | Tue Jul 05 2022 3:08 AM
+- 🤗 [StackOverflow 前段时间发布了 2022 年开发者调查](https://www.v2ex.com/t/864138#reply0) | Tue Jul 05 2022 3:05 AM
+- 🎭 [中国软件“乱象”：产业级的“凑合”与系统化的“将就”丨 RTE 技术环境月报 202207](https://www.v2ex.com/t/864136#reply2) | Tue Jul 05 2022 3:04 AM
+- 🥷 [旦用难回 Jetpack MVI 最佳实践](https://www.v2ex.com/t/864130#reply3) | Tue Jul 05 2022 2:50 AM
+- 🐵 [如何阻止 Windows 在复制文件时进入睡眠模式？](https://www.v2ex.com/t/864120#reply6) | Tue Jul 05 2022 2:18 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
