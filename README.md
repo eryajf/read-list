@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [龙蜥社区开源 coolbpf，BPF 程序开发效率提升百倍 | 龙蜥技术](https://juejin.cn/post/7116828994514714655) | Tue Jul 05 2022 10:12 AM 
+- 🤗 [理解四大组件Service之 startService&lpar;&rpar; 启动流程&lpar;基于Android10&rpar;](https://juejin.cn/post/7116830797562118158) | Tue Jul 05 2022 10:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、概览 上篇学习了activity的启动流程，这次继续分析startService&lpar;&rpar; 的启动过程。 相比于activity，服务可提供在后台长时间的运行操作，同时没有界面。即使切换到后台，服务仍然 
+    </details> 
+
+- 🎡 [龙蜥社区开源 coolbpf，BPF 程序开发效率提升百倍 | 龙蜥技术](https://juejin.cn/post/7116828994514714655) | Tue Jul 05 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
     简介： coolbpf，可以酷玩的BPF！来看看让BPF加了双翅膀的它究竟有多硬核？ 文/系统运维 SIG（Special Interest Group） 引言 BPF 是一个新的动态跟踪技术，目前这 
     </details> 
 
-- 🎡 [一位 sealer maintainer 的心路历程](https://juejin.cn/post/7116828362315661319) | Tue Jul 05 2022 10:10 AM 
+- 🕯 [一位 sealer maintainer 的心路历程](https://juejin.cn/post/7116828362315661319) | Tue Jul 05 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
     简介： 本文作者将回顾个人参与 sealer 开源项目的机缘巧合，参与过程中的挑战，以及从中获取的所悟所感，写下一段文字进行分享，希望对开源新人有所帮助，能够激励想参与开源工作但还未踏出第一步的同学。 
     </details> 
 
-- 🕯 [阿里云云原生一体化数仓 — 分析服务一体化新能力解读](https://juejin.cn/post/7116828015274754062) | Tue Jul 05 2022 10:07 AM 
+- 🚀 [阿里云云原生一体化数仓 — 分析服务一体化新能力解读](https://juejin.cn/post/7116828015274754062) | Tue Jul 05 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
     简介： 本文主要介绍如何通过Hologres在分析和服务场景下的新功能，包括资源隔离，数据湖（Delta、Hudi）的支持、JSON优化支持等。 分享人：阿里云智能 产品专家 丁烨 没来得及看直播的同 
     </details> 
 
-- 🚀 [浅析 SOFA 注册中心数据同步](https://juejin.cn/post/7116820785217404941) | Tue Jul 05 2022 9:39 AM 
+- 💪 [浅析 SOFA 注册中心数据同步](https://juejin.cn/post/7116820785217404941) | Tue Jul 05 2022 9:39 AM 
     <details><summary>展开描述 ...</summary> 
     本文主要介绍了 SOFARegistry 中数据同步模块；首先从 SOFARegistry 角色分类阐述不同角色之间存在的数据同步问题，针对其中 SessionServer 与 DataServer 
-    </details> 
-
-- 💪 [Swift 中的热重载](https://juejin.cn/post/7116820640358727694) | Tue Jul 05 2022 9:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们最新的 MacBook M30X 处理器可以感知到瞬间编译大型 Swift 项目，除此之外，编译代码库只是我们迭代周期的一部分。包括： 重新启动它（或将其部署到设备） 导航到您在应用程序中的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
