@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从外卖点单浅谈伪需求](https://juejin.cn/post/7116776486626918413) | Tue Jul 05 2022 6:48 AM 
+- 🤗 [下一个行业风口：NFT 数字藏品，是机遇还是泡沫？](https://juejin.cn/post/7116788963343351845) | Tue Jul 05 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
-    一、前言 伪需求到底是什么？简而言之，伪需求就是用户听上去想要这个，实际上需要的是另外的，表面需求与实际需求并不一致，甚至是相互冲突的。 作为1名产品经理，搜集用户需求是最基础的工作，但在这个过程中， 
+    NFT数字藏品在我国真正受到关注不过才半年时间，在法律性质、监督主体、监督方式都尚未明朗，市场上也存在各种乱象，商业模式仍在探索阶段。其对于玩家或企业而言，更多是机遇还是泡沫？ 
     </details> 
 
-- 🎡 [全民K歌推流直播Web实践&lpar;腾讯QQ音乐&rpar;](https://juejin.cn/post/7116774946197471262) | Tue Jul 05 2022 6:42 AM 
+- 🎡 [中国程序员的技术管理之痛：技术、管理两不靠，核心价值从何找？丨掘金夜谈](https://juejin.cn/post/7116785498844037150) | Tue Jul 05 2022 7:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    德鲁克曾言，管理不是艺术不是科学而是实践，所以管理很难“学”，必须自己做、自己思考，看怎样才能激活个体，形成团队而不是团伙，让 1+1&gt;2，让平凡人成就不凡事，为社会创造价值。 
+    </details> 
+
+- 🕯 [ueditor上传图片添加水印](https://juejin.cn/post/7116784563619102756) | Tue Jul 05 2022 7:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    博客在上传图片的时候，我希望能打上我博客链接的水印，掘金，csdn都是这么干的，这事我得学习。 平时的图片上传还好说，在文章编辑的时候，使用ueditor上传图片加水印需要修改ueditor部分PHP 
+    </details> 
+
+- 🚀 [全民K歌推流直播Web实践&lpar;腾讯QQ音乐&rpar;](https://juejin.cn/post/7116774946197471262) | Tue Jul 05 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
     背景 2020年受到疫情的影响，大众减少了线下娱乐，将更多的时间投入到了线上活动，直播行业迎来了一个小爆发，主播注册数量与线上观众不断增长。同时，在线直播演唱作为一种全新的演出模式，受到广大网友的好评 
     </details> 
 
-- 🕯 [Vue源码系列之Diff算法](https://juejin.cn/post/7116769782673702925) | Tue Jul 05 2022 6:21 AM 
+- 💪 [Vue源码系列之Diff算法](https://juejin.cn/post/7116769782673702925) | Tue Jul 05 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
     什么是Diff算法 众所周知，像VUE这类MVVM架构的框架，在VM层面实现View和Model的双向绑定，通过构建虚拟DOM作为View的映射。当Model数据改变触发虚拟DOM发生改变，VM层通过 
-    </details> 
-
-- 🚀 [基于Electron+React+TS实现一个桌面翻译工具](https://juejin.cn/post/7116768783347220516) | Tue Jul 05 2022 6:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    基于Electron+React+TS实现一个桌面翻译工具 好久没有用react写东西了，这几天看electron的官方文档学习使用electron，于是决定结合这两者开发一个简单的桌面翻译工具 
-    </details> 
-
-- 💪 [Flutter-native-web 混合开发探索实录](https://juejin.cn/post/7116768322149941261) | Tue Jul 05 2022 6:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    项目背景 纯原生的应用拥有最丝滑的体验，但是App迭代会受限于应用市场的审核周期和审核规则，尤其是最近特别时期，各大市场审核越发严格，发版工作严重受阻，安卓可以用应用内更新以及热更新的方式来弥补，但是 
     </details> 
 <!-- juejin:END -->
 ### 少数派
