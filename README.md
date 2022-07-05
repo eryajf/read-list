@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [chrome 崩溃后全部信息丢失？](https://www.v2ex.com/t/864236#reply1) | Tue Jul 05 2022 8:34 AM
-- 🤗 [C 语言 循环下 创建动态数组 非常慢 应该如何解决](https://www.v2ex.com/t/864227#reply18) | Tue Jul 05 2022 8:07 AM
-- 🎭 [昨天试了一下 JB 家的 Gateway（beta），感觉和 vscode remote 还是有一些差距的。](https://www.v2ex.com/t/864222#reply6) | Tue Jul 05 2022 7:55 AM
-- 🥷 [群晖 DS720，重安装系统后无法挂载移动到外置 USB 的磁盘分区](https://www.v2ex.com/t/864217#reply0) | Tue Jul 05 2022 7:44 AM
-- 🐵 [git 在 clone 的时候能否先拉到最新代码显示，再慢慢 clone 历史？](https://www.v2ex.com/t/864214#reply7) | Tue Jul 05 2022 7:34 AM<!-- v2ex:END -->
+- 🥸 [置换房子，该如何选择呢](https://www.v2ex.com/t/864262#reply4) | Tue Jul 05 2022 9:39 AM
+- 🤗 [如何通过软件检测的方式，识别某一硬盘是 S.M.A.R.T.清零盘？](https://www.v2ex.com/t/864259#reply2) | Tue Jul 05 2022 9:29 AM
+- 🎭 [是 macOS 问题还是 APP 问题？心态炸了~](https://www.v2ex.com/t/864258#reply2) | Tue Jul 05 2022 9:28 AM
+- 🥷 [（云原生线下交流）7 月 9 日，论道原生 Meetup 成都站开启！](https://www.v2ex.com/t/864257#reply0) | Tue Jul 05 2022 9:27 AM
+- 🐵 [chrome 崩溃后全部信息丢失？](https://www.v2ex.com/t/864236#reply1) | Tue Jul 05 2022 8:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
