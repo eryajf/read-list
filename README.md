@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750300) | Mon Jul 04 2022 12:27 AM
-- 🐻 [混动车真的好吗？维修保养比油车便宜吗？](http://daily.zhihu.com/story/9750281) | Mon Jul 04 2022 12:27 AM
-- 🌏 [如果发明一种机器学习难以战胜人类的棋类规则，这种规则应该具备什么样的特点？](http://daily.zhihu.com/story/9750272) | Mon Jul 04 2022 12:27 AM
-- 🕴 [《甄嬛传》皇后「贤德大度」，为什么却得不到皇上的宠爱？](http://daily.zhihu.com/story/9750270) | Mon Jul 04 2022 12:27 AM
-- 🌮 [研究嫦娥五号月壤用到了哪些高精尖科技，研究月壤与研究地球有什么关联？](http://daily.zhihu.com/story/9750260) | Mon Jul 04 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750337) | Tue Jul 05 2022 12:27 AM
+- 🐻 [为什么国内现在出现越来越多的恋综？恋综的受众主体是哪些人呢？](http://daily.zhihu.com/story/9750328) | Tue Jul 05 2022 12:27 AM
+- 🌏 [长期熬夜真的会让五官变丑吗？](http://daily.zhihu.com/story/9750327) | Tue Jul 05 2022 12:27 AM
+- 🕴 [未来 20 年，有哪些传统行业将因前沿科技发展而发生重大变革？](http://daily.zhihu.com/story/9750319) | Tue Jul 05 2022 12:27 AM
+- 🌮 [古人如果喝到现代饮料，会给出什么评价？](http://daily.zhihu.com/story/9750313) | Tue Jul 05 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
