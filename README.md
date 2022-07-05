@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [分析师：苹果Apple Watch Series 8显示屏将增大到1.99英寸](http://www.techweb.com.cn/world/2022-07-05/2896986.shtml) | Tue Jul 05 2022 8:51 AM
-- 👹 [Gartner：未来五年中国AI软件市场营收将增至约139亿美元 年复合增长率28%](http://www.techweb.com.cn/it/2022-07-05/2896983.shtml) | Tue Jul 05 2022 8:42 AM
-- 🪜 [美国和亚洲芯片厂商放话：芯片法案再不通过将缩减在美投资](http://www.techweb.com.cn/world/2022-07-05/2896980.shtml) | Tue Jul 05 2022 8:31 AM
-- 🤭 [威马是如何掉队的 还有翻身机会吗？](http://www.techweb.com.cn/viewpoint/2022-07-05/2896977.shtml) | Tue Jul 05 2022 8:29 AM
-- 🙉 [消息称三星考虑在下半年降低存储芯片价格 以获得更多市场份额](http://www.techweb.com.cn/world/2022-07-05/2896976.shtml) | Tue Jul 05 2022 8:26 AM<!-- techweb-allnews:END -->
+- 👍 [芯片短缺等影响 现代及起亚上半年在美国销量同比下滑12.7%](http://www.techweb.com.cn/world/2022-07-05/2896995.shtml) | Tue Jul 05 2022 9:42 AM
+- 👹 [特斯拉首次展示太阳能增程拖车原型 有助于缓解里程焦虑](http://www.techweb.com.cn/world/2022-07-05/2896990.shtml) | Tue Jul 05 2022 9:18 AM
+- 🪜 [分析师：苹果Apple Watch Series 8显示屏将增大到1.99英寸](http://www.techweb.com.cn/world/2022-07-05/2896986.shtml) | Tue Jul 05 2022 8:51 AM
+- 🤭 [Gartner：未来五年中国AI软件市场营收将增至约139亿美元 年复合增长率28%](http://www.techweb.com.cn/it/2022-07-05/2896983.shtml) | Tue Jul 05 2022 8:42 AM
+- 🙉 [美国和亚洲芯片厂商放话：芯片法案再不通过将缩减在美投资](http://www.techweb.com.cn/world/2022-07-05/2896980.shtml) | Tue Jul 05 2022 8:31 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
