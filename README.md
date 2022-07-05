@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React Native中实现动态导入和任务调度算法详解、得物客服IM全链路通信过程、光影流动之美、ListView和PageView花式嵌套 |下午茶第21期](https://juejin.cn/post/7116762839116677151) | Tue Jul 05 2022 5:54 AM 
+- 🤗 [从外卖点单浅谈伪需求](https://juejin.cn/post/7116776486626918413) | Tue Jul 05 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-    本期下午茶看点：React Native中实现动态导入和任务调度算法详解、得物客服IM全链路通信过程、光影流动之美、ListView和PageView花式嵌套... 
+    一、前言 伪需求到底是什么？简而言之，伪需求就是用户听上去想要这个，实际上需要的是另外的，表面需求与实际需求并不一致，甚至是相互冲突的。 作为1名产品经理，搜集用户需求是最基础的工作，但在这个过程中， 
     </details> 
 
-- 🎡 [B站UP搭建世界首个纯红石神经网络、基于深度学习动作识别的色情检测、陈天奇《机器学编译MLC》课程进展、AI前沿论文 | ShowMeAI资讯日报 #07.05](https://juejin.cn/post/7116734757253169166) | Tue Jul 05 2022 4:05 AM 
+- 🎡 [全民K歌推流直播Web实践&lpar;腾讯QQ音乐&rpar;](https://juejin.cn/post/7116774946197471262) | Tue Jul 05 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 2022-07-05 期，B站UP搭建世界首个纯红石神经网络、基于深度学习动作识别的色情检测、机器学习100讲、陈天奇《机器学编译MLC》课程进展、6篇前沿论文… 
+    背景 2020年受到疫情的影响，大众减少了线下娱乐，将更多的时间投入到了线上活动，直播行业迎来了一个小爆发，主播注册数量与线上观众不断增长。同时，在线直播演唱作为一种全新的演出模式，受到广大网友的好评 
     </details> 
 
-- 🕯 [Python 多线程小技巧：比 time.sleep 更好用的暂停写法！](https://juejin.cn/post/7116730555881750565) | Tue Jul 05 2022 3:50 AM 
+- 🕯 [Vue源码系列之Diff算法](https://juejin.cn/post/7116769782673702925) | Tue Jul 05 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-    我们知道，在 Python 里面可以使用time.sleep来让代码暂停一段时间，例如： 程序首先打印出...部分代码...，然后等待5秒钟，再打印出...剩下的代码...。 现在大家想一想，有没有什 
+    什么是Diff算法 众所周知，像VUE这类MVVM架构的框架，在VM层面实现View和Model的双向绑定，通过构建虚拟DOM作为View的映射。当Model数据改变触发虚拟DOM发生改变，VM层通过 
     </details> 
 
-- 🚀 [Python有序字典的两个小“惊喜”~~](https://juejin.cn/post/7116729301214429198) | Tue Jul 05 2022 3:44 AM 
+- 🚀 [基于Electron+React+TS实现一个桌面翻译工具](https://juejin.cn/post/7116768783347220516) | Tue Jul 05 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-    从 Python 3.6 开始，常规的字典会记住其插入的顺序：就是说，当遍历字典时，你获得字典中元素的顺序跟它们插入时的顺序相同。 在 3.6 之前，字典是无序的：遍历顺序是随机的。 关于有序字典，这 
+    基于Electron+React+TS实现一个桌面翻译工具 好久没有用react写东西了，这几天看electron的官方文档学习使用electron，于是决定结合这两者开发一个简单的桌面翻译工具 
     </details> 
 
-- 💪 [Python如何异步发送日志到远程服务器？](https://juejin.cn/post/7116728579789946893) | Tue Jul 05 2022 3:42 AM 
+- 💪 [Flutter-native-web 混合开发探索实录](https://juejin.cn/post/7116768322149941261) | Tue Jul 05 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 在Python中使用日志最常用的方式就是在控制台和文件中输出日志了,logging模块也很好的提供的相应 的类,使用起来也非常方便,但是有时我们可能会有一些需求,如还需要将日志发送到远端,或者直 
+    项目背景 纯原生的应用拥有最丝滑的体验，但是App迭代会受限于应用市场的审核周期和审核规则，尤其是最近特别时期，各大市场审核越发严格，发版工作严重受阻，安卓可以用应用内更新以及热更新的方式来弥补，但是 
     </details> 
 <!-- juejin:END -->
 ### 少数派
