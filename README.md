@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大佬们是如何在 GitHub 上看代码来提升自己的？](https://www.v2ex.com/t/864190#reply0) | Tue Jul 05 2022 6:19 AM
-- 🤗 [安卓有没有能阻止系统杀后台的方法](https://www.v2ex.com/t/864186#reply0) | Tue Jul 05 2022 6:15 AM
-- 🎭 [小白用户的 NAS 选购指南](https://www.v2ex.com/t/864184#reply1) | Tue Jul 05 2022 6:08 AM
-- 🥷 [兼职帮忙做运营增长，创业公司可以联系](https://www.v2ex.com/t/864180#reply1) | Tue Jul 05 2022 5:52 AM
-- 🐵 [不懂就问：用 goframe 写的工程可以打包成一个二进制文件？](https://www.v2ex.com/t/864176#reply6) | Tue Jul 05 2022 5:42 AM<!-- v2ex:END -->
+- 🥸 [在哪里可以找到比较靠谱的前端开发？一般薪酬如何计价？](https://www.v2ex.com/t/864198#reply7) | Tue Jul 05 2022 6:47 AM
+- 🤗 [大佬们是如何在 GitHub 上看代码来提升自己的？](https://www.v2ex.com/t/864190#reply2) | Tue Jul 05 2022 6:19 AM
+- 🎭 [安卓有没有能阻止系统杀后台的方法](https://www.v2ex.com/t/864186#reply0) | Tue Jul 05 2022 6:15 AM
+- 🥷 [小白用户的 NAS 选购指南](https://www.v2ex.com/t/864184#reply6) | Tue Jul 05 2022 6:08 AM
+- 🐵 [兼职帮忙做运营增长，创业公司可以联系](https://www.v2ex.com/t/864180#reply2) | Tue Jul 05 2022 5:52 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
