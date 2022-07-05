@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何限制家人网络访问，防止被骗？](https://www.v2ex.com/t/864140#reply12) | Tue Jul 05 2022 3:08 AM
-- 🤗 [StackOverflow 前段时间发布了 2022 年开发者调查](https://www.v2ex.com/t/864138#reply0) | Tue Jul 05 2022 3:05 AM
-- 🎭 [中国软件“乱象”：产业级的“凑合”与系统化的“将就”丨 RTE 技术环境月报 202207](https://www.v2ex.com/t/864136#reply2) | Tue Jul 05 2022 3:04 AM
-- 🥷 [旦用难回 Jetpack MVI 最佳实践](https://www.v2ex.com/t/864130#reply3) | Tue Jul 05 2022 2:50 AM
-- 🐵 [如何阻止 Windows 在复制文件时进入睡眠模式？](https://www.v2ex.com/t/864120#reply6) | Tue Jul 05 2022 2:18 AM<!-- v2ex:END -->
+- 🥸 [能否拿到 redis 的数据指针](https://www.v2ex.com/t/864163#reply3) | Tue Jul 05 2022 4:12 AM
+- 🤗 [如何限制家人网络访问，防止被骗？](https://www.v2ex.com/t/864140#reply15) | Tue Jul 05 2022 3:08 AM
+- 🎭 [StackOverflow 前段时间发布了 2022 年开发者调查](https://www.v2ex.com/t/864138#reply9) | Tue Jul 05 2022 3:05 AM
+- 🥷 [中国软件“乱象”：产业级的“凑合”与系统化的“将就”丨 RTE 技术环境月报 202207](https://www.v2ex.com/t/864136#reply4) | Tue Jul 05 2022 3:04 AM
+- 🐵 [旦用难回 Jetpack MVI 最佳实践](https://www.v2ex.com/t/864130#reply3) | Tue Jul 05 2022 2:50 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
