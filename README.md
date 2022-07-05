@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [台积电供应商昭和电工警告：明年芯片材料价格将继续上涨](http://www.techweb.com.cn/world/2022-07-05/2896950.shtml) | Tue Jul 05 2022 6:35 AM
-- 👹 [蜜芽APP将于9月10日停止服务](http://www.techweb.com.cn/it/2022-07-05/2896942.shtml) | Tue Jul 05 2022 6:12 AM
-- 🪜 [NASA将开发微型游泳机器人 “遨游”外星海域寻找生命](http://www.techweb.com.cn/world/2022-07-05/2896940.shtml) | Tue Jul 05 2022 6:06 AM
-- 🤭 [社区团购撤城“后遗症”](http://www.techweb.com.cn/viewpoint/2022-07-05/2896930.shtml) | Tue Jul 05 2022 5:20 AM
-- 🙉 [小度回应“女子称民宿内智能音箱偷拍房客隐私”：支持当事人维权 协助警方调查](http://www.techweb.com.cn/it/2022-07-05/2896928.shtml) | Tue Jul 05 2022 4:56 AM<!-- techweb-allnews:END -->
+- 👍 [三星显示已将大尺寸QD-OLED面板良品率提升至85%](http://www.techweb.com.cn/world/2022-07-05/2896965.shtml) | Tue Jul 05 2022 7:38 AM
+- 👹 [鸿海精密6月营收5262亿新台币 同比增长31.02%](http://www.techweb.com.cn/world/2022-07-05/2896962.shtml) | Tue Jul 05 2022 7:29 AM
+- 🪜 [特斯拉的“硬核诉讼部门”已初具规模](http://www.techweb.com.cn/world/2022-07-05/2896959.shtml) | Tue Jul 05 2022 7:28 AM
+- 🤭 [台积电供应商昭和电工警告：明年芯片材料价格将继续上涨](http://www.techweb.com.cn/world/2022-07-05/2896950.shtml) | Tue Jul 05 2022 6:35 AM
+- 🙉 [蜜芽APP将于9月10日停止服务](http://www.techweb.com.cn/it/2022-07-05/2896942.shtml) | Tue Jul 05 2022 6:12 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
