@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [诺基亚与挪威移动运营商Ice签订5G合同 为期五年](http://www.techweb.com.cn/world/2022-07-06/2897134.shtml) | Wed Jul 06 2022 6:40 AM
-- 👹 [大厂暗战线上演唱会，靠情怀赚吆喝？](http://www.techweb.com.cn/viewpoint/2022-07-06/2897133.shtml) | Wed Jul 06 2022 6:39 AM
-- 🪜 [Z世代抛弃了Soul](http://www.techweb.com.cn/viewpoint/2022-07-06/2897128.shtml) | Wed Jul 06 2022 5:56 AM
-- 🤭 [推特起诉印度政府：内容屏蔽指令过度](http://www.techweb.com.cn/world/2022-07-06/2897122.shtml) | Wed Jul 06 2022 4:35 AM
-- 🙉 [周杰伦新歌MV首发 B站和杰威尔音乐达成版权深度合作](http://www.techweb.com.cn/internet/2022-07-06/2897121.shtml) | Wed Jul 06 2022 4:30 AM<!-- techweb-allnews:END -->
+- 👍 [LG电子今年上半年获得8万亿韩元电动汽车零部件及解决方案新订单](http://www.techweb.com.cn/world/2022-07-06/2897163.shtml) | Wed Jul 06 2022 7:45 AM
+- 👹 [外媒：博通收购VMware的交易或将继续进行](http://www.techweb.com.cn/world/2022-07-06/2897161.shtml) | Wed Jul 06 2022 7:42 AM
+- 🪜 [蔚来：NIO Power已在全国范围内建成1011座换电站](http://www.techweb.com.cn/smarttraveling/2022-07-06/2897160.shtml) | Wed Jul 06 2022 7:34 AM
+- 🤭 [诺基亚与挪威移动运营商Ice签订5G合同 为期五年](http://www.techweb.com.cn/world/2022-07-06/2897134.shtml) | Wed Jul 06 2022 6:40 AM
+- 🙉 [大厂暗战线上演唱会，靠情怀赚吆喝？](http://www.techweb.com.cn/viewpoint/2022-07-06/2897133.shtml) | Wed Jul 06 2022 6:39 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
