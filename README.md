@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [amd ftmp bug 导致的卡顿问题你们怎么看](https://www.v2ex.com/t/864560#reply1) | Wed Jul 06 2022 3:54 PM
-- 🤗 [发现初中级前端真的好不值钱啊。。。](https://www.v2ex.com/t/864552#reply10) | Wed Jul 06 2022 2:59 PM
-- 🎭 [Java Sharding-JDBC 数据库分库分表问题](https://www.v2ex.com/t/864537#reply2) | Wed Jul 06 2022 1:49 PM
-- 🥷 [[Android10 定制] 系统级 app 无法正确执行二进制文件](https://www.v2ex.com/t/864524#reply2) | Wed Jul 06 2022 1:02 PM
-- 🐵 [经常看代码中出现 drain 这个词，比如 buffer_drain，不知道这个是啥意思](https://www.v2ex.com/t/864521#reply11) | Wed Jul 06 2022 12:51 PM<!-- v2ex:END -->
+- 🥸 [关于我为了写一个浏览器插件，最后开发了一个浏览器 APP 的故事](https://www.v2ex.com/t/864569#reply0) | Wed Jul 06 2022 5:03 PM
+- 🤗 [Redis 字符串编码 embstr 有性能优势，为什么要有长度限制呢？](https://www.v2ex.com/t/864567#reply0) | Wed Jul 06 2022 4:57 PM
+- 🎭 [amd ftmp bug 导致的卡顿问题你们怎么看](https://www.v2ex.com/t/864560#reply2) | Wed Jul 06 2022 3:54 PM
+- 🥷 [发现初中级前端真的好不值钱啊。。。](https://www.v2ex.com/t/864552#reply10) | Wed Jul 06 2022 2:59 PM
+- 🐵 [Java Sharding-JDBC 数据库分库分表问题](https://www.v2ex.com/t/864537#reply2) | Wed Jul 06 2022 1:49 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
