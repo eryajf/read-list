@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [感谢微软治好了我多年的强迫症 😣](https://www.v2ex.com/t/864576#reply0) | Wed Jul 06 2022 9:21 PM
+- 🥸 [感谢微软治好了我多年的强迫症 😣](https://www.v2ex.com/t/864576#reply1) | Wed Jul 06 2022 9:21 PM
 - 🤗 [外置 sd 卡 f2fs 分区里无法创建软链接？](https://www.v2ex.com/t/864573#reply1) | Wed Jul 06 2022 7:02 PM
 - 🎭 [关于我为了写一个浏览器插件，最后开发了一个浏览器 APP 的故事](https://www.v2ex.com/t/864569#reply3) | Wed Jul 06 2022 5:03 PM
 - 🥷 [Redis 字符串编码 embstr 有性能优势，为什么要有长度限制呢？](https://www.v2ex.com/t/864567#reply1) | Wed Jul 06 2022 4:57 PM
