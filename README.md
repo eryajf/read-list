@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [LG电子今年上半年获得8万亿韩元电动汽车零部件及解决方案新订单](http://www.techweb.com.cn/world/2022-07-06/2897163.shtml) | Wed Jul 06 2022 7:45 AM
-- 👹 [外媒：博通收购VMware的交易或将继续进行](http://www.techweb.com.cn/world/2022-07-06/2897161.shtml) | Wed Jul 06 2022 7:42 AM
-- 🪜 [蔚来：NIO Power已在全国范围内建成1011座换电站](http://www.techweb.com.cn/smarttraveling/2022-07-06/2897160.shtml) | Wed Jul 06 2022 7:34 AM
-- 🤭 [诺基亚与挪威移动运营商Ice签订5G合同 为期五年](http://www.techweb.com.cn/world/2022-07-06/2897134.shtml) | Wed Jul 06 2022 6:40 AM
-- 🙉 [大厂暗战线上演唱会，靠情怀赚吆喝？](http://www.techweb.com.cn/viewpoint/2022-07-06/2897133.shtml) | Wed Jul 06 2022 6:39 AM<!-- techweb-allnews:END -->
+- 👍 [外媒：大众和博世获准共同开发自动驾驶技术](http://www.techweb.com.cn/world/2022-07-06/2897170.shtml) | Wed Jul 06 2022 8:56 AM
+- 👹 [TikTok数据问题继续发酵 美议员呼吁FTC就美国数据访问对其进行调查](http://www.techweb.com.cn/world/2022-07-06/2897168.shtml) | Wed Jul 06 2022 8:46 AM
+- 🪜 [LG新能源将向五十铃供应电池：协议为期4年 至少1万亿韩元](http://www.techweb.com.cn/world/2022-07-06/2897164.shtml) | Wed Jul 06 2022 7:56 AM
+- 🤭 [LG电子今年上半年获得8万亿韩元电动汽车零部件及解决方案新订单](http://www.techweb.com.cn/world/2022-07-06/2897163.shtml) | Wed Jul 06 2022 7:45 AM
+- 🙉 [外媒：博通收购VMware的交易或将继续进行](http://www.techweb.com.cn/world/2022-07-06/2897161.shtml) | Wed Jul 06 2022 7:42 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
