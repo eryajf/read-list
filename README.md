@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Fragment 这些 API 已废弃，你还在使用吗？](https://juejin.cn/post/7117070402676850702) | Wed Jul 06 2022 1:48 AM 
+- 🤗 [大白话说Java反射：入门、使用、原理](https://juejin.cn/post/7117080485678809125) | Wed Jul 06 2022 2:27 AM 
     <details><summary>展开描述 ...</summary> 
-    盘点 Fragment 被废弃的 API：onActivityCreated，startActivityForResult，setTargetFragment，setRetainInsInstance 
+    反射之中包含了一个「反」字，所以想要解释反射就必须先从「正」开始解释。 一般情况下，我们使用某个类时必定知道它是什么类，是用来做什么的。于是我们直接对这个类进行实例化，之后使用这个类对象进行操作。 上 
     </details> 
 
-- 🎡 [面试突击63：MySQL 中如何去重？](https://juejin.cn/post/7117061586484723743) | Wed Jul 06 2022 1:16 AM 
+- 🎡 [三步就能在OpenHarmony中实现车牌识别](https://juejin.cn/post/7117073657121210398) | Wed Jul 06 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    在 MySQL 中，最常见的去重方法有两个：使用 distinct 或使用 group by，那它们有什么区别呢？接下来我们一起来看。 1.创建测试数据 最终展现效果如下： 2.distinct 使用 
+    本车牌识别项目是基于开源项目 EasyPR（Easy to do Plate Recognition）实现。EasyPR 是一个开源的中文车牌识别系统，基于 OpenCV 开源库开发。 
     </details> 
 
-- 🕯 [java对象在内存中如何分布 | java上锁原来就是内存占位，so easy](https://juejin.cn/post/7117060955175026695) | Wed Jul 06 2022 1:11 AM 
+- 🕯 [Spring从入门到精通&lpar;七&rpar;—Bean标签详解](https://juejin.cn/post/7117065007837216781) | Wed Jul 06 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 本章节作为java锁章节的开山之作，他的地位绝对是重中之重。java中创建对象通过关键字new直接创建。但是一个对象在内存中占多少字节，每块字节是什么作用，这些相信大家很少关注。 
+    本文已参与「新人创作礼」活动,一起开启掘金创作之路。 Bean标签基本配置 用于配置对象交由Spring 来创建。 默认情况下它调用的是类中的无参构造函数，如果没有无参构造函数则不能创建成功。 基本属 
     </details> 
 
-- 🚀 [【转载】 网络主干的硬件](https://juejin.cn/post/7117057004622839816) | Wed Jul 06 2022 12:56 AM 
+- 🚀 [JAVA中简单的for循环竟有这么多坑，但愿你没踩过](https://juejin.cn/post/7117063647200804877) | Wed Jul 06 2022 1:22 AM 
     <details><summary>展开描述 ...</summary> 
-    在本单元中，你将了解“网络标准”这一术语，并了解构成任何网络主干的硬件，包括中继器、集线器、网桥、交换机、路由器、网络标准等 
+    实际的业务项目开发中，大家应该对`从给定的list中剔除不满足条件的元素`这个操作不陌生吧？很多同学可以立刻想出很多种实现的方式，但你想到的这些实现方式都是“人畜无害”的吗？ 
     </details> 
 
-- 💪 [一大波开源小抄来袭](https://juejin.cn/post/7117052948332740644) | Wed Jul 06 2022 12:41 AM 
+- 💪 [第十九章 使用工作队列管理器（二）](https://juejin.cn/post/7117058914343976997) | Wed Jul 06 2022 1:04 AM 
     <details><summary>展开描述 ...</summary> 
-    “小抄”一词大家应该不会陌生，它有个学名叫做“速查表”（cheatsheet）是用来快速找到你知识点和答案的表格，因为其有体积小、不易察觉等特点，频繁出现在考场和演讲中... 友情提示⚠️：考试作弊一 
+    第十九章 使用工作队列管理器（二） 基本工作流程 可以通过执行以下步骤来使用工作队列管理器： 将ObjectScript 代码划分为工作单元，这些工作单元是满足特定要求的类方法或子例程。 创建一个工作 
     </details> 
 <!-- juejin:END -->
 ### 少数派
