@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [GNN，请你的网络层数再深一点~](https://juejin.cn/post/7117130604126142478) | Wed Jul 06 2022 5:42 AM 
+- 🤗 [万亿美元规模的软件市场，“开源”的机会在哪？](https://juejin.cn/post/7117151601327865887) | Wed Jul 06 2022 7:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    GitHub 上已有超过 2 亿个项目，Star 数在 2000 以上的接近 2.4 万个，来自中国的开发者规模已经迅速增长到世界第二的体量，开源在国内已经不是一个选择题 
+    </details> 
+
+- 🎡 [AI超清修复出黄家驹眼里的光、LeCun大佬《深度学习》课程生还报告、绝美画作只需一行代码、AI最新论文 | ShowMeAI资讯日报 #07.06](https://juejin.cn/post/7117134902872506398) | Wed Jul 06 2022 5:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 2022-07-06 期，AI修复 Beyond 1991生命接触演唱会、LeCun亲授《深度学习》课程笔记、2022中国未来独角兽TOP100榜单、6篇前沿论文… 
+    </details> 
+
+- 🕯 [GNN，请你的网络层数再深一点~](https://juejin.cn/post/7117130604126142478) | Wed Jul 06 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是对白。 了解图神经网络的朋友对于深层GNN中的过平滑问题一定不陌生，随着网络层数的增加，模型的效果反而急剧下降，令人心痛。回忆一下，常见的解决过平滑的方案有DropEdge、基于残差的方法 
     </details> 
 
-- 🎡 [【论文阅读｜深读】DANE:Deep Attributed Network Embedding](https://juejin.cn/post/7117126672310075400) | Wed Jul 06 2022 5:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 Abstract 近年来，网络嵌入引起了越来越多的关注 大多数现有的方法只基于拓扑结构来学习节点表示 然而在许多实际应用程序中，节点常常与丰富的属性相关联 因此，学习基于拓扑结构和节点属性的节点 
-    </details> 
-
-- 🕯 [Python + SeaTable | 计算两个日期间的工作日天数](https://juejin.cn/post/7117103164016295966) | Wed Jul 06 2022 3:55 AM 
+- 🚀 [Python + SeaTable | 计算两个日期间的工作日天数](https://juejin.cn/post/7117103164016295966) | Wed Jul 06 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
     当我们计算两个日期间的间隔天数时，通常是用结束日期减去开始日期，但在实际的项目管理、任务管理、工作计划等场景中，某些时间段会涉及双休日、法定节假日，甚至还有公司自定义的工作时间安排，所以就需要计算出两 
     </details> 
 
-- 🚀 [大聪明教你学Java | Win10 环境下安装部署 RabbitMQ](https://juejin.cn/post/7117102171723661326) | Wed Jul 06 2022 3:52 AM 
+- 💪 [终于可以一行代码也不用改了！ShardingSphere 原生驱动问世](https://juejin.cn/post/7117096410729676831) | Wed Jul 06 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    目前越来越多的应用系统、软件中都引入了 RabbitMQ 来实现某些特定的功能，所以使用 RabbitMQ 也逐渐成为了程序员的必备技能。借此机会和大家分享一下我学习 RabbitMQ 的心得。 
-    </details> 
-
-- 💪 [channel 同一个世界，同一个梦](https://juejin.cn/post/7117101820652519460) | Wed Jul 06 2022 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们主要围绕下面三个关键点来了解channel，一把梭哈从新手到项目实战，争取给各位读友带来不一样的沉浸式体验。 
+    ShardingSphere-JDBC 驱动的出现，使 ShardingSphere 的易用性获得了前所未有的加强 
     </details> 
 <!-- juejin:END -->
 ### 少数派
