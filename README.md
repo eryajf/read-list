@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【好物分享】在命令行读Markdown，这个感觉太舒服了](https://juejin.cn/post/7117286403876061197) | Wed Jul 06 2022 3:48 PM 
+- 🤗 [OpenSergo 即将发布 v1alpha1，丰富全链路异构架构的服务治理能力](https://juejin.cn/post/7117290003029295134) | Wed Jul 06 2022 4:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    那么 OpenSergo 标准到底是什么样子的呢？我们可以利用 OpenSergo 标准来做哪些事情呢？下面我们来结合几个例子来进行介绍。 
+    </details> 
+
+- 🎡 [【好物分享】在命令行读Markdown，这个感觉太舒服了](https://juejin.cn/post/7117286403876061197) | Wed Jul 06 2022 3:48 PM 
     <details><summary>展开描述 ...</summary> 
     这篇文章推荐一个由Golang编写的一个命令行工具——Glow，这个CLI工具可以在命令行读取Markdown，Markdown对于码农来说也是非常重要的，几乎所有的文档全部都有Markdown的身影 
     </details> 
 
-- 🎡 [一个开发者自述：我是如何设计针对冷热读写场景的 RocketMQ 存储系统](https://juejin.cn/post/7117284585406365710) | Wed Jul 06 2022 3:40 PM 
+- 🕯 [一个开发者自述：我是如何设计针对冷热读写场景的 RocketMQ 存储系统](https://juejin.cn/post/7117284585406365710) | Wed Jul 06 2022 3:40 PM 
     <details><summary>展开描述 ...</summary> 
     文章中的很多知识点，都是通过云原生编程挑战赛学到的，在一些问题在表述方式、甚至理解上都可能存在一些问题，甚至会有一些谬论；敢于尝试就会犯错，有犯错才会有成长，欢迎各位大佬不舍赐教，多多指正，让我们一起 
     </details> 
 
-- 🕯 [全链路压测：影子库与影子表之争](https://juejin.cn/post/7117275200269320200) | Wed Jul 06 2022 3:03 PM 
+- 🚀 [全链路压测：影子库与影子表之争](https://juejin.cn/post/7117275200269320200) | Wed Jul 06 2022 3:03 PM 
     <details><summary>展开描述 ...</summary> 
     在生产环境实施全链路压测的过程中，针对上文谈到的两种方案，又面临着数据隔离方案的选择问题，本文首先针对影子库、影子表两种方案进行介绍和对比，然后针对常见的场景，给出方案的选择建议。 
     </details> 
 
-- 🚀 [Salesforce 容器化 ISV 场景下的软件供应链安全落地实践](https://juejin.cn/post/7117270452644347918) | Wed Jul 06 2022 2:44 PM 
+- 💪 [Salesforce 容器化 ISV 场景下的软件供应链安全落地实践](https://juejin.cn/post/7117270452644347918) | Wed Jul 06 2022 2:44 PM 
     <details><summary>展开描述 ...</summary> 
     为了帮助客户更便捷实践软件供应链安全，阿里云容器服务团队提供了端到端的解决方案。企业客户可以在跨企业交付或者企业内研发迭代场景，提升安全治理效率及安全加固能力，实现全链路容器应用安全可信交付。 
-    </details> 
-
-- 💪 [谈谈讲清楚这件事的重要性](https://juejin.cn/post/7117265824796114952) | Wed Jul 06 2022 2:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    如何讲清楚一件事我相信很多人都很困惑也很无助，尤其是在晋升场合，在向上汇报或者是做大范围分享的时候，恨不得找个地缝钻进去。很多时候我们常常是这样安慰自己，我是实干派技术人，不需要那些花里胡哨的东西，我 
     </details> 
 <!-- juejin:END -->
 ### 少数派
