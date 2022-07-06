@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [非一线城市，毕业快5年，没车没孩程序员 | 2022年中总结](https://juejin.cn/post/7116914347577704485) | Tue Jul 05 2022 3:43 PM 
+- 🤗 [Fragment 这些 API 已废弃，你还在使用吗？](https://juejin.cn/post/7117070402676850702) | Wed Jul 06 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 1.写在前面 不知不觉，已经毕业快5年了。比较悲催的是5年时间，我还是一个底层的开发人员。很多同学大多都走向管理层，或至少能在某个公司站稳 
+    盘点 Fragment 被废弃的 API：onActivityCreated，startActivityForResult，setTargetFragment，setRetainInsInstance 
     </details> 
 
-- 🎡 [图解Git分支和命令](https://juejin.cn/post/7116887834438402056) | Tue Jul 05 2022 2:01 PM 
+- 🎡 [面试突击63：MySQL 中如何去重？](https://juejin.cn/post/7117061586484723743) | Wed Jul 06 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    在实际工作中，我发现很多同学并不熟悉Git的分支操作，本文试图通过图解的方式，讲解常用分支操作命令，和命令背后的Git分支模型。 
+    在 MySQL 中，最常见的去重方法有两个：使用 distinct 或使用 group by，那它们有什么区别呢？接下来我们一起来看。 1.创建测试数据 最终展现效果如下： 2.distinct 使用 
     </details> 
 
-- 🕯 [理解四大组件Service之 startService&lpar;&rpar; 启动流程&lpar;基于Android10&rpar;](https://juejin.cn/post/7116830797562118158) | Tue Jul 05 2022 10:19 AM 
+- 🕯 [java对象在内存中如何分布 | java上锁原来就是内存占位，so easy](https://juejin.cn/post/7117060955175026695) | Wed Jul 06 2022 1:11 AM 
     <details><summary>展开描述 ...</summary> 
-    一、概览 上篇学习了activity的启动流程，这次继续分析startService&lpar;&rpar; 的启动过程。 相比于activity，服务可提供在后台长时间的运行操作，同时没有界面。即使切换到后台，服务仍然 
+    前言 本章节作为java锁章节的开山之作，他的地位绝对是重中之重。java中创建对象通过关键字new直接创建。但是一个对象在内存中占多少字节，每块字节是什么作用，这些相信大家很少关注。 
     </details> 
 
-- 🚀 [龙蜥社区开源 coolbpf，BPF 程序开发效率提升百倍 | 龙蜥技术](https://juejin.cn/post/7116828994514714655) | Tue Jul 05 2022 10:12 AM 
+- 🚀 [【转载】 网络主干的硬件](https://juejin.cn/post/7117057004622839816) | Wed Jul 06 2022 12:56 AM 
     <details><summary>展开描述 ...</summary> 
-    简介： coolbpf，可以酷玩的BPF！来看看让BPF加了双翅膀的它究竟有多硬核？ 文/系统运维 SIG（Special Interest Group） 引言 BPF 是一个新的动态跟踪技术，目前这 
+    在本单元中，你将了解“网络标准”这一术语，并了解构成任何网络主干的硬件，包括中继器、集线器、网桥、交换机、路由器、网络标准等 
     </details> 
 
-- 💪 [一位 sealer maintainer 的心路历程](https://juejin.cn/post/7116828362315661319) | Tue Jul 05 2022 10:10 AM 
+- 💪 [一大波开源小抄来袭](https://juejin.cn/post/7117052948332740644) | Wed Jul 06 2022 12:41 AM 
     <details><summary>展开描述 ...</summary> 
-    简介： 本文作者将回顾个人参与 sealer 开源项目的机缘巧合，参与过程中的挑战，以及从中获取的所悟所感，写下一段文字进行分享，希望对开源新人有所帮助，能够激励想参与开源工作但还未踏出第一步的同学。 
+    “小抄”一词大家应该不会陌生，它有个学名叫做“速查表”（cheatsheet）是用来快速找到你知识点和答案的表格，因为其有体积小、不易察觉等特点，频繁出现在考场和演讲中... 友情提示⚠️：考试作弊一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
