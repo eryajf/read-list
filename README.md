@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [机构数据显示比亚迪连续两月超过LG新能源 成全球第二大动力电池厂商](http://www.techweb.com.cn/world/2022-07-06/2897177.shtml) | Wed Jul 06 2022 9:48 AM
-- 👹 [消息人士称三星电机击败LG等厂商 获得特斯拉数十亿美元摄像头模组订单](http://www.techweb.com.cn/world/2022-07-06/2897172.shtml) | Wed Jul 06 2022 9:05 AM
-- 🪜 [外媒：大众和博世获准共同开发自动驾驶技术](http://www.techweb.com.cn/world/2022-07-06/2897170.shtml) | Wed Jul 06 2022 8:56 AM
-- 🤭 [TikTok数据问题继续发酵 美议员呼吁FTC就美国数据访问对其进行调查](http://www.techweb.com.cn/world/2022-07-06/2897168.shtml) | Wed Jul 06 2022 8:46 AM
-- 🙉 [LG新能源将向五十铃供应电池：协议为期4年 至少1万亿韩元](http://www.techweb.com.cn/world/2022-07-06/2897164.shtml) | Wed Jul 06 2022 7:56 AM<!-- techweb-allnews:END -->
+- 👍 [IDC：Meta低价推广VR硬件战略不可持续 所有目光将聚集到苹果](http://www.techweb.com.cn/world/2022-07-06/2897178.shtml) | Wed Jul 06 2022 10:00 AM
+- 👹 [机构数据显示比亚迪连续两月超过LG新能源 成全球第二大动力电池厂商](http://www.techweb.com.cn/world/2022-07-06/2897177.shtml) | Wed Jul 06 2022 9:48 AM
+- 🪜 [消息人士称三星电机击败LG等厂商 获得特斯拉数十亿美元摄像头模组订单](http://www.techweb.com.cn/world/2022-07-06/2897172.shtml) | Wed Jul 06 2022 9:05 AM
+- 🤭 [外媒：大众和博世获准共同开发自动驾驶技术](http://www.techweb.com.cn/world/2022-07-06/2897170.shtml) | Wed Jul 06 2022 8:56 AM
+- 🙉 [TikTok数据问题继续发酵 美议员呼吁FTC就美国数据访问对其进行调查](http://www.techweb.com.cn/world/2022-07-06/2897168.shtml) | Wed Jul 06 2022 8:46 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
