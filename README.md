@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [创建自己的第一个 Power Automate 工作流，从此繁琐操作是路人](https://sspai.com/post/73710) | Tue Jul 05 2022 10:44 AM 
+- 👹 [派早报：腾讯 ROG 游戏手机 6 发布、网易云音乐将上线「空间音频」专区等](https://sspai.com/post/74139) | Wed Jul 06 2022 12:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    欧盟正式批准《数字市场法》和《数字服务法》，微软对 Windows 预览体验计划 Beta 渠道进行拆分。&lt;a href=&quot;https://sspai.com/post/74139&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [创建自己的第一个 Power Automate 工作流，从此繁琐操作是路人](https://sspai.com/post/73710) | Tue Jul 05 2022 10:44 AM 
     <details><summary>展开描述 ...</summary> 
     &lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/73710&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/273&quot; target=&quot;_blank&quot;&gt;《59 分钟就上手 Power Automate Desktop》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [Mac 上最老牌的 PDF 编辑器之一，PDF Expert 迎来 3.0 大更新](https://sspai.com/post/74101) | Tue Jul 05 2022 7:56 AM 
+- 🤭 [Mac 上最老牌的 PDF 编辑器之一，PDF Expert 迎来 3.0 大更新](https://sspai.com/post/74101) | Tue Jul 05 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
     在 3.0 版本中，PDF Expert for Mac 推出了 OCR 识别、格式转换、扫描智能优化等功能，朝着专业化 PDF 编辑器的目标又前进了一步。&lt;a href=&quot;https://sspai.com/post/74101&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [吃了我就不疼了？服用止痛药前，你最好了解这些](https://sspai.com/post/74125) | Tue Jul 05 2022 6:30 AM 
+- 🥸 [吃了我就不疼了？服用止痛药前，你最好了解这些](https://sspai.com/post/74125) | Tue Jul 05 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     你突然开始头痛。&lt;a href=&quot;https://sspai.com/post/74125&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [我开发了时间管理工具 Polytime，期待用它和世界建立连接](https://sspai.com/post/74034) | Tue Jul 05 2022 3:30 AM 
+- 🙉 [我开发了时间管理工具 Polytime，期待用它和世界建立连接](https://sspai.com/post/74034) | Tue Jul 05 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     究其根本，所谓时间管理不过是为了能把更多时间留给真正重要的人和事。&lt;a href=&quot;https://sspai.com/post/74034&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：华为举办夏季新品发布会，小米发布小米 12S 系列新机等](https://sspai.com/post/74121) | Tue Jul 05 2022 1:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    微软提醒 Windows Server 2012/2012 R2 即将停止支持，星纪时代正式收购魅族等&lt;a href=&quot;https://sspai.com/post/74121&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
