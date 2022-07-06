@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [学摄影就是每天摆弄相机吗？——谈谈我眼中的摄影硕士之旅](https://sspai.com/post/74118) | Wed Jul 06 2022 3:53 AM 
+- 👹 [App+1 | 创造语言环境，浏览器插件 Toucan 让你边读网页边背单词](https://sspai.com/post/74140) | Wed Jul 06 2022 6:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    Toucan 就是这样一个浏览器插件。它的主要作用就是在打开的网页中，根据用户的语言水平，随机选择一些词汇，将其翻译成想要学习的语言。&lt;a href=&quot;https://sspai.com/post/74140&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [学摄影就是每天摆弄相机吗？——谈谈我眼中的摄影硕士之旅](https://sspai.com/post/74118) | Wed Jul 06 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
     按下快门，创造好看照片这件事已经不再是首要任务，重要的是，拍下这张照片之后的回望时刻。&lt;a href=&quot;https://sspai.com/post/74118&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：腾讯 ROG 游戏手机 6 发布、网易云音乐将上线「空间音频」专区等](https://sspai.com/post/74139) | Wed Jul 06 2022 12:57 AM 
+- 🤭 [派早报：腾讯 ROG 游戏手机 6 发布、网易云音乐将上线「空间音频」专区等](https://sspai.com/post/74139) | Wed Jul 06 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
     欧盟正式批准《数字市场法》和《数字服务法》，微软对 Windows 预览体验计划 Beta 渠道进行拆分。&lt;a href=&quot;https://sspai.com/post/74139&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [创建自己的第一个 Power Automate 工作流，从此繁琐操作是路人](https://sspai.com/post/73710) | Tue Jul 05 2022 10:44 AM 
+- 🥸 [创建自己的第一个 Power Automate 工作流，从此繁琐操作是路人](https://sspai.com/post/73710) | Tue Jul 05 2022 10:44 AM 
     <details><summary>展开描述 ...</summary> 
     &lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/73710&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/273&quot; target=&quot;_blank&quot;&gt;《59 分钟就上手 Power Automate Desktop》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [Mac 上最老牌的 PDF 编辑器之一，PDF Expert 迎来 3.0 大更新](https://sspai.com/post/74101) | Tue Jul 05 2022 7:56 AM 
+- 🙉 [Mac 上最老牌的 PDF 编辑器之一，PDF Expert 迎来 3.0 大更新](https://sspai.com/post/74101) | Tue Jul 05 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
     在 3.0 版本中，PDF Expert for Mac 推出了 OCR 识别、格式转换、扫描智能优化等功能，朝着专业化 PDF 编辑器的目标又前进了一步。&lt;a href=&quot;https://sspai.com/post/74101&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [吃了我就不疼了？服用止痛药前，你最好了解这些](https://sspai.com/post/74125) | Tue Jul 05 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    你突然开始头痛。&lt;a href=&quot;https://sspai.com/post/74125&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
