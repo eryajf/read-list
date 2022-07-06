@@ -203,10 +203,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [apache poi 这样的 excel 工具支持类似于 ws[&#39;A1&#39;]这样的填充方式吗？](https://www.v2ex.com/t/864399#reply0) | Wed Jul 06 2022 3:40 AM
-- 🤗 [全志开发板如何添加二进制到镜像中的/system/bin 下？](https://www.v2ex.com/t/864397#reply0) | Wed Jul 06 2022 3:36 AM
-- 🎭 [写了一篇文章系统的梳理了下事务的隔离级别，希望能对初学者有所帮助](https://www.v2ex.com/t/864377#reply13) | Wed Jul 06 2022 2:36 AM
-- 🥷 [工作后最后悔的就是大学没考个研究生](https://www.v2ex.com/t/864373#reply38) | Wed Jul 06 2022 2:26 AM
-- 🐵 [程序员们，你们有走 PDCA 循环吗？帮忙给个建议](https://www.v2ex.com/t/864371#reply8) | Wed Jul 06 2022 2:22 AM<!-- v2ex:END -->
+- 🤗 [全志开发板如何添加二进制到镜像中的/system/bin 下？](https://www.v2ex.com/t/864397#reply2) | Wed Jul 06 2022 3:36 AM
+- 🎭 [写了一篇文章系统的梳理了下事务的隔离级别，希望能对初学者有所帮助](https://www.v2ex.com/t/864377#reply15) | Wed Jul 06 2022 2:36 AM
+- 🥷 [工作后最后悔的就是大学没考个研究生](https://www.v2ex.com/t/864373#reply42) | Wed Jul 06 2022 2:26 AM
+- 🐵 [程序员们，你们有走 PDCA 循环吗？帮忙给个建议](https://www.v2ex.com/t/864371#reply13) | Wed Jul 06 2022 2:22 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
