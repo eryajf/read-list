@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750337) | Tue Jul 05 2022 12:27 AM
-- 🐻 [为什么国内现在出现越来越多的恋综？恋综的受众主体是哪些人呢？](http://daily.zhihu.com/story/9750328) | Tue Jul 05 2022 12:27 AM
-- 🌏 [长期熬夜真的会让五官变丑吗？](http://daily.zhihu.com/story/9750327) | Tue Jul 05 2022 12:27 AM
-- 🕴 [未来 20 年，有哪些传统行业将因前沿科技发展而发生重大变革？](http://daily.zhihu.com/story/9750319) | Tue Jul 05 2022 12:27 AM
-- 🌮 [古人如果喝到现代饮料，会给出什么评价？](http://daily.zhihu.com/story/9750313) | Tue Jul 05 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750369) | Wed Jul 06 2022 12:27 AM
+- 🐻 [火影忍者中哪个情节可以看出带土在卡卡西心目中很重要呢？](http://daily.zhihu.com/story/9750368) | Wed Jul 06 2022 12:27 AM
+- 🌏 [有没有一种可能，世界上根本不存在所谓的普通人?](http://daily.zhihu.com/story/9750366) | Wed Jul 06 2022 12:27 AM
+- 🕴 [是所有饮料都冰了更好喝么？「冰」为什么能带来口感提升？](http://daily.zhihu.com/story/9750345) | Wed Jul 06 2022 12:27 AM
+- 🌮 [「打」这个字的读音是如何演变的？](http://daily.zhihu.com/story/9750354) | Wed Jul 06 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
