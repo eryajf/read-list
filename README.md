@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大家往 NAS 里面下载了哪些东西？](https://www.v2ex.com/t/864413#reply3) | Wed Jul 06 2022 5:13 AM
-- 🤗 [[es]数据分页方案](https://www.v2ex.com/t/864410#reply5) | Wed Jul 06 2022 5:00 AM
-- 🎭 [请教老哥们，有哪个工具软件可以模拟多节点网络收发？可以灵活编辑收发逻辑的那种。](https://www.v2ex.com/t/864409#reply0) | Wed Jul 06 2022 4:57 AM
-- 🥷 [有没有做 go 智能合约的大佬 求带](https://www.v2ex.com/t/864408#reply0) | Wed Jul 06 2022 4:49 AM
-- 🐵 [apache poi 这样的 excel 工具支持类似于 ws[&#39;A1&#39;]这样的填充方式吗？](https://www.v2ex.com/t/864399#reply0) | Wed Jul 06 2022 3:40 AM<!-- v2ex:END -->
+- 🥸 [锐龙所有 cpu 都发热严重么，这个笔记本 r75800h，有时候突然九十七八度，最高能到 102 度，有点吓人啊](https://www.v2ex.com/t/864426#reply2) | Wed Jul 06 2022 6:06 AM
+- 🤗 [全程工作在虚拟机环境下是否可行？](https://www.v2ex.com/t/864424#reply4) | Wed Jul 06 2022 6:00 AM
+- 🎭 [SwiftUI Image View 内存占用的一个坑...顺便求下解决办法](https://www.v2ex.com/t/864422#reply4) | Wed Jul 06 2022 5:56 AM
+- 🥷 [ElasticSearch 源码中的 ClusterStateVersion 到底是什么东西](https://www.v2ex.com/t/864417#reply0) | Wed Jul 06 2022 5:43 AM
+- 🐵 [大家往 NAS 里面下载了哪些东西？](https://www.v2ex.com/t/864413#reply15) | Wed Jul 06 2022 5:13 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
