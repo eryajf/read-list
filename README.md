@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [2022百度世界大会剧透 自动驾驶有重磅发布](http://www.techweb.com.cn/internet/2022-07-06/2897106.shtml) | Wed Jul 06 2022 3:13 AM
-- 👹 [消息称日本最大公用事业公司东京电力正考虑竞购东芝](http://www.techweb.com.cn/world/2022-07-06/2897103.shtml) | Wed Jul 06 2022 3:07 AM
-- 🪜 [巴菲特的美国梦](http://www.techweb.com.cn/viewpoint/2022-07-06/2897102.shtml) | Wed Jul 06 2022 3:00 AM
-- 🤭 [猫眼娱乐发布2021年度业绩补充公告：对其他应收款项计提减值拨备1.399亿元](http://www.techweb.com.cn/internet/2022-07-06/2897093.shtml) | Wed Jul 06 2022 2:30 AM
-- 🙉 [印度执法机构搜查当地办事处 vivo回应：正配合当局](http://www.techweb.com.cn/world/2022-07-06/2897088.shtml) | Wed Jul 06 2022 2:26 AM<!-- techweb-allnews:END -->
+- 👍 [KT再次投资AI公司 已同AI芯片初创公司签署300亿韩元投资协议](http://www.techweb.com.cn/world/2022-07-06/2897120.shtml) | Wed Jul 06 2022 4:17 AM
+- 👹 [外媒：TikTok放弃在欧洲和美国市场拓展直播带货项目](http://www.techweb.com.cn/world/2022-07-06/2897119.shtml) | Wed Jul 06 2022 4:12 AM
+- 🪜 [2022百度世界大会剧透 自动驾驶有重磅发布](http://www.techweb.com.cn/internet/2022-07-06/2897106.shtml) | Wed Jul 06 2022 3:13 AM
+- 🤭 [消息称日本最大公用事业公司东京电力正考虑竞购东芝](http://www.techweb.com.cn/world/2022-07-06/2897103.shtml) | Wed Jul 06 2022 3:07 AM
+- 🙉 [巴菲特的美国梦](http://www.techweb.com.cn/viewpoint/2022-07-06/2897102.shtml) | Wed Jul 06 2022 3:00 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
