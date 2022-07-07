@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入浅出 Raft 协议](https://juejin.cn/post/7117434238181310471) | Thu Jul 07 2022 1:20 AM 
+- 🤗 [linux 安装 ES 8.0 和 kibana 8.0 爬米共坑](https://juejin.cn/post/7117581201040212004) | Thu Jul 07 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-    在学习Raft之前，应该先了解Paxos，可以看 通俗的理解 Basic Paxos 背景 Raft 属于分布式共识算法，先明白什么是分布式共识，用一句话说就是“保证多节点下数据一致”，Raft的一致 
+    linux 环境下直接常规启动 kibana 会报错无法获取 es 信息，因为linux 环境下无法进行到在浏览器将 enrollment token 注入到 kibana 的环节，这需要爬坑 
     </details> 
 
-- 🎡 [JUC必要掌握（Callable&amp;Future、JUC 三大辅助类、 阻塞队列）](https://juejin.cn/post/7117430766513946632) | Thu Jul 07 2022 1:08 AM 
+- 🎡 [使用 Golang 创建和读取 Excel 文件](https://juejin.cn/post/7117578224854368263) | Thu Jul 07 2022 10:39 AM 
     <details><summary>展开描述 ...</summary> 
-    1. Callable&amp;Future 接口 1.1 Callable 记得刚开始学习多线程的时候，只学习了创建线程的2种方式，一种是直接继承Thread，另外一种就是实现Runnable接口。这2种方 
+    本文提出了一种使用 Golang 进行 Excel 文件创建和读取的方案。首先对问题进行分析，然后描述Excelize基础库的基本用法，以及Excel数据在Golang中的表示和解析方式。 
     </details> 
 
-- 🕯 [你知道5分钟法则和10字节法则么？](https://juejin.cn/post/7117296641853358110) | Wed Jul 06 2022 4:26 PM 
+- 🕯 [使用 Golang 创建和读取 Excel 文件](https://juejin.cn/post/7117578016858849293) | Thu Jul 07 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-    如果一条数据每5分钟被访问一次，那么它应该常驻在内存中。类似的，如果想存储只有0和1两个值的标志位，相比于将8个标志位打包为1个字节，将1个标志位单独存储为1个字节是更节约的选择。 
+    本文提出了一种使用 Golang 进行 Excel 文件创建和读取的方案。首先对问题进行分析，然后描述Excelize基础库的基本用法，以及Excel数据在Golang中的表示和解析方式。 
     </details> 
 
-- 🚀 [Apache Sentry，看这里就够了！（四）](https://juejin.cn/post/7117284651441324068) | Wed Jul 06 2022 3:40 PM 
+- 🚀 [还不懂目标检测嘛？一起来看看Faster R-CNN源码解读](https://juejin.cn/post/7117565179847507975) | Thu Jul 07 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-    知道了Sentry的数据库设计方案，如果让你来设计校验逻辑，你会怎么处理？ 注意哦，这可不是常见的RBAC模型。 
+    Faster R-CNN源码解读 写在前面   这部分同样参考霹雳吧啦Wz的视频，Faster R-CNN代码链接如下：Faster R-CNN源码 🍀🍀🍀 先说说这篇文章该怎么用吧？——我觉得最好是 
     </details> 
 
-- 💪 [05. 权威指南（上）浅谈spring两大核心之一的AOP](https://juejin.cn/post/7117284059050410014) | Wed Jul 06 2022 3:37 PM 
+- 💪 [Linux透明大页机制在云上大规模集群实践介绍](https://juejin.cn/post/7117472089015058446) | Thu Jul 07 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与[新人创作礼]活动，一起开启掘金创作之路。 介绍 AOP - Aspect-oriented Programming，网上很多文章翻译为“面向方面编程”，我总觉得不好理解，个人觉得翻译为“面 
+    本文总结透明大页技术架构机制实践经验，介绍如何在保证服务稳定性前提下，取得多场景性能收益，希望感兴趣的读者能有所启发。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
