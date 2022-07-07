@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [陈春花成网红李小文被遗忘 华为声明的背后](http://www.techweb.com.cn/viewpoint/2022-07-07/2897271.shtml) | Thu Jul 07 2022 4:05 AM
-- 👹 [李在镕上月曾与宝马CEO会面 三星SDI有望与宝马合作](http://www.techweb.com.cn/world/2022-07-07/2897270.shtml) | Thu Jul 07 2022 3:57 AM
-- 🪜 [维珍银河与波音子公司达成协议 建造两艘母舰](http://www.techweb.com.cn/world/2022-07-07/2897268.shtml) | Thu Jul 07 2022 3:38 AM
-- 🤭 [美光推出两款全新Crucial英睿达NVMe SSD  容量4TB](http://mo.techweb.com.cn/digi/2022-07-07/2897266.shtml) | Thu Jul 07 2022 3:28 AM
-- 🙉 [外媒称三星电子3nm工艺首家客户是国内厂商 高通也已预订产能](http://www.techweb.com.cn/world/2022-07-07/2897264.shtml) | Thu Jul 07 2022 3:18 AM<!-- techweb-allnews:END -->
+- 👍 [苹果已经批准京东方为iPhone 14供应OLED面板](http://www.techweb.com.cn/world/2022-07-07/2897275.shtml) | Thu Jul 07 2022 4:48 AM
+- 👹 [出海潮起 中国汽车品牌如何抢滩海外市场？](http://www.techweb.com.cn/smarttraveling/2022-07-07/2897274.shtml) | Thu Jul 07 2022 4:31 AM
+- 🪜 [陈春花成网红李小文被遗忘 华为声明的背后](http://www.techweb.com.cn/viewpoint/2022-07-07/2897271.shtml) | Thu Jul 07 2022 4:05 AM
+- 🤭 [李在镕上月曾与宝马CEO会面 三星SDI有望与宝马合作](http://www.techweb.com.cn/world/2022-07-07/2897270.shtml) | Thu Jul 07 2022 3:57 AM
+- 🙉 [维珍银河与波音子公司达成协议 建造两艘母舰](http://www.techweb.com.cn/world/2022-07-07/2897268.shtml) | Thu Jul 07 2022 3:38 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
