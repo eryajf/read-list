@@ -203,10 +203,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [我的日常壁纸](https://www.v2ex.com/t/864730#reply6) | Thu Jul 07 2022 9:19 AM
-- 🤗 [mac 现在适合深度学习开发吗？](https://www.v2ex.com/t/864729#reply0) | Thu Jul 07 2022 9:18 AM
+- 🤗 [mac 现在适合深度学习开发吗？](https://www.v2ex.com/t/864729#reply7) | Thu Jul 07 2022 9:18 AM
 - 🎭 [Windows 11 无法直接链接局域网内的群晖 NAS](https://www.v2ex.com/t/864726#reply7) | Thu Jul 07 2022 9:10 AM
 - 🥷 [请问下大家实现类似 DIY 手机壳的插件](https://www.v2ex.com/t/864713#reply0) | Thu Jul 07 2022 8:33 AM
-- 🐵 [话说， nas 的系统是很难做好吗，还是咋了，为啥好像至今还是只有群晖一个比较好用的系统](https://www.v2ex.com/t/864712#reply24) | Thu Jul 07 2022 8:31 AM<!-- v2ex:END -->
+- 🐵 [话说， nas 的系统是很难做好吗，还是咋了，为啥好像至今还是只有群晖一个比较好用的系统](https://www.v2ex.com/t/864712#reply32) | Thu Jul 07 2022 8:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
