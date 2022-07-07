@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [外媒：日企包揽固态电池专利前三 丰田遥遥领先](http://www.techweb.com.cn/world/2022-07-07/2897316.shtml) | Thu Jul 07 2022 9:27 AM
-- 👹 [IBM宣布收购数据可观测性软件供应商Databand.ai](http://www.techweb.com.cn/it/2022-07-07/2897314.shtml) | Thu Jul 07 2022 9:10 AM
-- 🪜 [TCL CEO本月将走访韩国显示设备制造商 了解第8代OLED技术动向](http://www.techweb.com.cn/world/2022-07-07/2897312.shtml) | Thu Jul 07 2022 8:40 AM
-- 🤭 [外媒：小米开始在越南生产智能手机 公司回应消息属实](http://www.techweb.com.cn/world/2022-07-07/2897301.shtml) | Thu Jul 07 2022 8:10 AM
-- 🙉 [马斯克与女高管生下双胞胎 目前已有9个孩子](http://www.techweb.com.cn/world/2022-07-07/2897297.shtml) | Thu Jul 07 2022 7:50 AM<!-- techweb-allnews:END -->
+- 👍 [上汽集团：6月整车合计销量483584辆](http://www.techweb.com.cn/internet/2022-07-07/2897328.shtml) | Thu Jul 07 2022 12:26 PM
+- 👹 [外媒：日企包揽固态电池专利前三 丰田遥遥领先](http://www.techweb.com.cn/world/2022-07-07/2897316.shtml) | Thu Jul 07 2022 9:27 AM
+- 🪜 [IBM宣布收购数据可观测性软件供应商Databand.ai](http://www.techweb.com.cn/it/2022-07-07/2897314.shtml) | Thu Jul 07 2022 9:10 AM
+- 🤭 [TCL CEO本月将走访韩国显示设备制造商 了解第8代OLED技术动向](http://www.techweb.com.cn/world/2022-07-07/2897312.shtml) | Thu Jul 07 2022 8:40 AM
+- 🙉 [外媒：小米开始在越南生产智能手机 公司回应消息属实](http://www.techweb.com.cn/world/2022-07-07/2897301.shtml) | Thu Jul 07 2022 8:10 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
