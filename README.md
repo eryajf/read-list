@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [商务部等17部门：研究免征新能源汽车车辆购置税政策到期后延期问题](http://www.techweb.com.cn/smarttraveling/2022-07-07/2897214.shtml) | Thu Jul 07 2022 1:16 AM
-- 👹 [高考的事实：我要付出多少努力，才能和你站在一条起跑线上？](http://www.techweb.com.cn/viewpoint/2022-07-06/2897189.shtml) | Wed Jul 06 2022 1:53 PM
-- 🪜 [IDC：Meta低价推广VR硬件战略不可持续 所有目光将聚集到苹果](http://www.techweb.com.cn/world/2022-07-06/2897178.shtml) | Wed Jul 06 2022 10:00 AM
-- 🤭 [机构数据显示比亚迪连续两月超过LG新能源 成全球第二大动力电池厂商](http://www.techweb.com.cn/world/2022-07-06/2897177.shtml) | Wed Jul 06 2022 9:48 AM
-- 🙉 [消息人士称三星电机击败LG等厂商 获得特斯拉数十亿美元摄像头模组订单](http://www.techweb.com.cn/world/2022-07-06/2897172.shtml) | Wed Jul 06 2022 9:05 AM<!-- techweb-allnews:END -->
+- 👍 [外媒称三星电子3nm工艺首家客户是国内厂商 高通也已预订产能](http://www.techweb.com.cn/world/2022-07-07/2897264.shtml) | Thu Jul 07 2022 3:18 AM
+- 👹 [腾讯版“Steam”，梦碎今秋？](http://www.techweb.com.cn/viewpoint/2022-07-07/2897263.shtml) | Thu Jul 07 2022 3:16 AM
+- 🪜 [三星公布第二季度业绩预期：运营利润约为107亿美元 同比增长11%](http://www.techweb.com.cn/world/2022-07-07/2897262.shtml) | Thu Jul 07 2022 3:15 AM
+- 🤭 [吉利也要自研手机芯片？](http://www.techweb.com.cn/viewpoint/2022-07-07/2897261.shtml) | Thu Jul 07 2022 3:11 AM
+- 🙉 [我那“不好惹”的00后下属：不差钱，怼领导，抵制加班](http://www.techweb.com.cn/viewpoint/2022-07-07/2897256.shtml) | Thu Jul 07 2022 3:02 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
