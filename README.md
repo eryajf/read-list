@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [WebPcak热更新和打包速度缓慢踩坑](https://juejin.cn/post/7117558325817901092) | Thu Jul 07 2022 9:21 AM 
+- 🤗 [深入浅出 Raft 协议](https://juejin.cn/post/7117434238181310471) | Thu Jul 07 2022 1:20 AM 
     <details><summary>展开描述 ...</summary> 
-    前言✨ 要进入标题正文，首先了解一下前置知识。 SPA 单页Web应用（single page web application，SPA），就是只有一张Web页面的应用，是加载单个HTML 页面并在用户 
+    在学习Raft之前，应该先了解Paxos，可以看 通俗的理解 Basic Paxos 背景 Raft 属于分布式共识算法，先明白什么是分布式共识，用一句话说就是“保证多节点下数据一致”，Raft的一致 
     </details> 
 
-- 🎡 [Kotlin协程-Coroutines的基本使用](https://juejin.cn/post/7117555477805793316) | Thu Jul 07 2022 9:10 AM 
+- 🎡 [JUC必要掌握（Callable&amp;Future、JUC 三大辅助类、 阻塞队列）](https://juejin.cn/post/7117430766513946632) | Thu Jul 07 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    Kotlin协程的基本使用 Kotlin协程系列： 协程的基本使用（本文） 协程的上下文理解 协程的作用域管理 协程的常见进阶使用 其实网上已经有很多 Kotlin协程 的教程了，这里我出一期是为了记 
+    1. Callable&amp;Future 接口 1.1 Callable 记得刚开始学习多线程的时候，只学习了创建线程的2种方式，一种是直接继承Thread，另外一种就是实现Runnable接口。这2种方 
     </details> 
 
-- 🕯 [二次封装element-select解决数据过多带来的卡顿以及支持首字母搜索](https://juejin.cn/post/7117549393871372296) | Thu Jul 07 2022 8:47 AM 
+- 🕯 [你知道5分钟法则和10字节法则么？](https://juejin.cn/post/7117296641853358110) | Wed Jul 06 2022 4:26 PM 
     <details><summary>展开描述 ...</summary> 
-    前言✨ 该组件是element的el-select组件的二次封装，解决痛点如下： 支持模糊搜索和首字母搜索（element自带的只支持文字搜索） 性能优化，某些场景下options数组可能达到数千条甚 
+    如果一条数据每5分钟被访问一次，那么它应该常驻在内存中。类似的，如果想存储只有0和1两个值的标志位，相比于将8个标志位打包为1个字节，将1个标志位单独存储为1个字节是更节约的选择。 
     </details> 
 
-- 🚀 [浅识k8s中的准入控制器](https://juejin.cn/post/7117547425346093092) | Thu Jul 07 2022 8:39 AM 
+- 🚀 [Apache Sentry，看这里就够了！（四）](https://juejin.cn/post/7117284651441324068) | Wed Jul 06 2022 3:40 PM 
     <details><summary>展开描述 ...</summary> 
-    # 背景 在 [k8s中各组件和kube apiserver通信时的认证和鉴权]&lpar;https://mp.weixin.qq.com/s/JLsNAKHPOUPsFqq506WbPg&rpar; 中提到&quot;No 
+    知道了Sentry的数据库设计方案，如果让你来设计校验逻辑，你会怎么处理？ 注意哦，这可不是常见的RBAC模型。 
     </details> 
 
-- 💪 [一个开发者自述：我是如何设计针对冷热读写场景的 RocketMQ 存储系统](https://juejin.cn/post/7117538211760439309) | Thu Jul 07 2022 8:04 AM 
+- 💪 [05. 权威指南（上）浅谈spring两大核心之一的AOP](https://juejin.cn/post/7117284059050410014) | Wed Jul 06 2022 3:37 PM 
     <details><summary>展开描述 ...</summary> 
-    简介： 文章中的很多知识点，都是通过云原生编程挑战赛学到的，在一些问题在表述方式、甚至理解上都可能存在一些问题，甚至会有一些谬论；敢于尝试就会犯错，有犯错才会有成长，欢迎各位大佬不舍赐教，多多指正，让 
+    本文已参与[新人创作礼]活动，一起开启掘金创作之路。 介绍 AOP - Aspect-oriented Programming，网上很多文章翻译为“面向方面编程”，我总觉得不好理解，个人觉得翻译为“面 
     </details> 
 <!-- juejin:END -->
 ### 少数派
