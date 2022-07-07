@@ -204,7 +204,7 @@
 <!-- v2ex:START -->
 - 🥸 [摩托罗拉 edge s30 或者 x30 有没有好点的类原生系统？](https://www.v2ex.com/t/864761#reply1) | Thu Jul 07 2022 11:59 AM
 - 🤗 [我的日常壁纸](https://www.v2ex.com/t/864730#reply7) | Thu Jul 07 2022 9:19 AM
-- 🎭 [mac 现在适合深度学习开发吗？](https://www.v2ex.com/t/864729#reply10) | Thu Jul 07 2022 9:18 AM
+- 🎭 [mac 现在适合深度学习开发吗？](https://www.v2ex.com/t/864729#reply16) | Thu Jul 07 2022 9:18 AM
 - 🥷 [Windows 11 无法直接链接局域网内的群晖 NAS](https://www.v2ex.com/t/864726#reply7) | Thu Jul 07 2022 9:10 AM
 - 🐵 [请问下大家实现类似 DIY 手机壳的插件](https://www.v2ex.com/t/864713#reply0) | Thu Jul 07 2022 8:33 AM<!-- v2ex:END -->
 
