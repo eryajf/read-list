@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊一聊web图片小知识、浏览器渲染原理与性能优化大总结 、在高并发情况下我是这样解决单用户超领优惠券问题 | 下午茶第23期](https://juejin.cn/post/7117482391945347103) | Thu Jul 07 2022 4:29 AM 
+- 🤗 [Category 特性在 iOS 组件化中的应用与管控](https://juejin.cn/post/7117499820431900702) | Thu Jul 07 2022 5:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    尊重原创版权: https://www.conghengx.com/hot/36184.html 更多内容参考: https://www.conghengx.com/ Category 特性在 iOS 
+    </details> 
+
+- 🎡 [Google Android 官方架构示例，我在起跑线等你](https://juejin.cn/post/7117498113983512589) | Thu Jul 07 2022 5:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    单向数据流仅是一形式，非本质，故须找到问题背后本质，如此即便不使用 “单向数据流”，亦可 “正确解决问题”。反之，生搬硬套 “单向数据流”，未必全然正确。 
+    </details> 
+
+- 🕯 [3000字讲透HTTP缓存](https://juejin.cn/post/7117497838312882183) | Thu Jul 07 2022 5:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文从`HTTP缓存策略`为入口，讲解HTTP缓存在浏览器的应用。文章按`强缓存`、`协商缓存`和`启发式缓存`三个类别，进行深入剖析。 
+    </details> 
+
+- 🚀 [聊一聊web图片小知识、浏览器渲染原理与性能优化大总结 、在高并发情况下我是这样解决单用户超领优惠券问题 | 下午茶第23期](https://juejin.cn/post/7117482391945347103) | Thu Jul 07 2022 4:29 AM 
     <details><summary>展开描述 ...</summary> 
     最近鉴于掘友们的热情召唤，我们终于把做了几百期的社群下午茶搬到站内了，酱酱们会一直陪伴，认真创作的掘友们，站内下午茶新增优质作者介绍和码上掘金板块，专注于发掘站内优质创作者和优质内容，欢迎大家多提宝贵 
     </details> 
 
-- 🎡 [听杰伦新歌发现QQ音乐元宇宙，权游角色关系可视化地图、VNote 工具&lpar;Typora:勿cue谢谢&rpar;、最新论文 | ShowMeAI资讯日报 #07.07](https://juejin.cn/post/7117478379666259975) | Thu Jul 07 2022 4:13 AM 
+- 💪 [在 KubeSphere 中使用 DevOps 部署 Java 微服务配置监控预警](https://juejin.cn/post/7117478969619791879) | Thu Jul 07 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 07-07 期，『Neo4j + vis.js』可视化工具套餐、FastestDet 轻量无锚目标检测框架、VNote Markdown笔记工具、『推荐系统算法工程师』面试题 
-    </details> 
-
-- 🕯 [Navigation — 这么好用的导航框架你确定不来看看？](https://juejin.cn/post/7117476993372782629) | Thu Jul 07 2022 4:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    从最原始的Intent跳转，然后到比较好用的Arouter管理activity跳转，再到现在的navigation，官方都把饭做好了，你还不来吃，快来和我一起学习这个真香的框架吧！ 
-    </details> 
-
-- 🚀 [十年经验前端架构师求职，目标是换个大厂继续做技术专家](https://juejin.cn/post/7117475107983294477) | Thu Jul 07 2022 3:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是我在B站的第 50 场免费模拟面试 本次的候选人十年工作经验，做了多年后端，最近几年在写前端，在公司负责工程化建设与基础组件维护，在面试过程中也可以看出对此掌握程度很高。 视频版: 十年经验架构师 
-    </details> 
-
-- 💪 [解密掘金写作变现的新途径——创作者签约计划 ｜ 转发赢大奖](https://juejin.cn/post/7117465870141489183) | Thu Jul 07 2022 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    7月13日晚八点，掘金技术社区创作者签约计划主创人员直播答疑，助力你成功签约！更有手机投影仪、烤面包机、咖啡机等诸多好礼，等你抱回家！ 
+    &gt; 作者：酱油瓶，携程后端技术专家， KubeSphere 社区用户 ## 开发 Java 微服务并引入监控组件 我们基于 Spring Cloud +Nacos 开发 Java 微服务，Jav 
     </details> 
 <!-- juejin:END -->
 ### 少数派
