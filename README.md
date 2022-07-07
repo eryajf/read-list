@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [解密掘金写作变现的新途径——创作者签约计划 ｜ 转发赢大奖](https://juejin.cn/post/7117465870141489183) | Thu Jul 07 2022 3:22 AM 
+- 🤗 [聊一聊web图片小知识、浏览器渲染原理与性能优化大总结 、在高并发情况下我是这样解决单用户超领优惠券问题 | 下午茶第23期](https://juejin.cn/post/7117482391945347103) | Thu Jul 07 2022 4:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近鉴于掘友们的热情召唤，我们终于把做了几百期的社群下午茶搬到站内了，酱酱们会一直陪伴，认真创作的掘友们，站内下午茶新增优质作者介绍和码上掘金板块，专注于发掘站内优质创作者和优质内容，欢迎大家多提宝贵 
+    </details> 
+
+- 🎡 [听杰伦新歌发现QQ音乐元宇宙，权游角色关系可视化地图、VNote 工具&lpar;Typora:勿cue谢谢&rpar;、最新论文 | ShowMeAI资讯日报 #07.07](https://juejin.cn/post/7117478379666259975) | Thu Jul 07 2022 4:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 07-07 期，『Neo4j + vis.js』可视化工具套餐、FastestDet 轻量无锚目标检测框架、VNote Markdown笔记工具、『推荐系统算法工程师』面试题 
+    </details> 
+
+- 🕯 [Navigation — 这么好用的导航框架你确定不来看看？](https://juejin.cn/post/7117476993372782629) | Thu Jul 07 2022 4:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    从最原始的Intent跳转，然后到比较好用的Arouter管理activity跳转，再到现在的navigation，官方都把饭做好了，你还不来吃，快来和我一起学习这个真香的框架吧！ 
+    </details> 
+
+- 🚀 [十年经验前端架构师求职，目标是换个大厂继续做技术专家](https://juejin.cn/post/7117475107983294477) | Thu Jul 07 2022 3:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是我在B站的第 50 场免费模拟面试 本次的候选人十年工作经验，做了多年后端，最近几年在写前端，在公司负责工程化建设与基础组件维护，在面试过程中也可以看出对此掌握程度很高。 视频版: 十年经验架构师 
+    </details> 
+
+- 💪 [解密掘金写作变现的新途径——创作者签约计划 ｜ 转发赢大奖](https://juejin.cn/post/7117465870141489183) | Thu Jul 07 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
     7月13日晚八点，掘金技术社区创作者签约计划主创人员直播答疑，助力你成功签约！更有手机投影仪、烤面包机、咖啡机等诸多好礼，等你抱回家！ 
-    </details> 
-
-- 🎡 [原生JS以后也支持类型注解啦？](https://juejin.cn/post/7117463097052233736) | Thu Jul 07 2022 3:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我卡颂。 在布达佩斯2022 JSConf会议上，tc39（ES标准委员会）成员Gil Tayar介绍了一份当前仍处于stage 1阶段的提案 —— Type Annotations，意在让原 
-    </details> 
-
-- 🕯 [648. 单词替换 : 字典树的经典运用](https://juejin.cn/post/7117460660211941406) | Thu Jul 07 2022 3:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 648. 单词替换 ，难度为 中等。 Tag : 「字典树」 在英语中，我们有一个叫做 词根&lpar;root&rpar; 的概念，可以词根后面添加其他一些词组成另一个较长的单词 
-    </details> 
-
-- 🚀 [得物客服热线的演进之路](https://juejin.cn/post/7117459586545614885) | Thu Jul 07 2022 2:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    随着得物业务的快速发展，强有力的客户服务越来越成为得物必不可少的一环，在原有IM聊天基础上，得物催生出属于自己的热线系统。 
-    </details> 
-
-- 💪 [操作系统&lpar;一&rpar; 基础介绍](https://juejin.cn/post/7117456092820406308) | Thu Jul 07 2022 2:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介 常见的操作系统：windows、android、ios、MacOS、Linux等 一、操作系统的概念（定义）功能和目标 1.1 知识总览 1.2 操作系统的概念（定义） 操作系统：是指控制和管理 
     </details> 
 <!-- juejin:END -->
 ### 少数派
