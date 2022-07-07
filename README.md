@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750369) | Wed Jul 06 2022 12:27 AM
-- 🐻 [火影忍者中哪个情节可以看出带土在卡卡西心目中很重要呢？](http://daily.zhihu.com/story/9750368) | Wed Jul 06 2022 12:27 AM
-- 🌏 [有没有一种可能，世界上根本不存在所谓的普通人?](http://daily.zhihu.com/story/9750366) | Wed Jul 06 2022 12:27 AM
-- 🕴 [是所有饮料都冰了更好喝么？「冰」为什么能带来口感提升？](http://daily.zhihu.com/story/9750345) | Wed Jul 06 2022 12:27 AM
-- 🌮 [「打」这个字的读音是如何演变的？](http://daily.zhihu.com/story/9750354) | Wed Jul 06 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750405) | Thu Jul 07 2022 12:27 AM
+- 🐻 [我们身上流淌着哪些远古人类的基因？](http://daily.zhihu.com/story/9750401) | Thu Jul 07 2022 12:27 AM
+- 🌏 [如果说《美国往事》可以称得上是一部伟大的电影，它伟大在何处？](http://daily.zhihu.com/story/9750392) | Thu Jul 07 2022 12:27 AM
+- 🕴 [脂肪可以通过呼吸排出，那能不能通过放屁排出呢？](http://daily.zhihu.com/story/9750379) | Thu Jul 07 2022 12:27 AM
+- 🌮 [如果世界上所有的形容词都没了，那会是怎样的光景呢？](http://daily.zhihu.com/story/9750382) | Thu Jul 07 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
