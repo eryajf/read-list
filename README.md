@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [外媒称三星电子3nm工艺首家客户是国内厂商 高通也已预订产能](http://www.techweb.com.cn/world/2022-07-07/2897264.shtml) | Thu Jul 07 2022 3:18 AM
-- 👹 [腾讯版“Steam”，梦碎今秋？](http://www.techweb.com.cn/viewpoint/2022-07-07/2897263.shtml) | Thu Jul 07 2022 3:16 AM
-- 🪜 [三星公布第二季度业绩预期：运营利润约为107亿美元 同比增长11%](http://www.techweb.com.cn/world/2022-07-07/2897262.shtml) | Thu Jul 07 2022 3:15 AM
-- 🤭 [吉利也要自研手机芯片？](http://www.techweb.com.cn/viewpoint/2022-07-07/2897261.shtml) | Thu Jul 07 2022 3:11 AM
-- 🙉 [我那“不好惹”的00后下属：不差钱，怼领导，抵制加班](http://www.techweb.com.cn/viewpoint/2022-07-07/2897256.shtml) | Thu Jul 07 2022 3:02 AM<!-- techweb-allnews:END -->
+- 👍 [陈春花成网红李小文被遗忘 华为声明的背后](http://www.techweb.com.cn/viewpoint/2022-07-07/2897271.shtml) | Thu Jul 07 2022 4:05 AM
+- 👹 [李在镕上月曾与宝马CEO会面 三星SDI有望与宝马合作](http://www.techweb.com.cn/world/2022-07-07/2897270.shtml) | Thu Jul 07 2022 3:57 AM
+- 🪜 [维珍银河与波音子公司达成协议 建造两艘母舰](http://www.techweb.com.cn/world/2022-07-07/2897268.shtml) | Thu Jul 07 2022 3:38 AM
+- 🤭 [美光推出两款全新Crucial英睿达NVMe SSD  容量4TB](http://mo.techweb.com.cn/digi/2022-07-07/2897266.shtml) | Thu Jul 07 2022 3:28 AM
+- 🙉 [外媒称三星电子3nm工艺首家客户是国内厂商 高通也已预订产能](http://www.techweb.com.cn/world/2022-07-07/2897264.shtml) | Thu Jul 07 2022 3:18 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
