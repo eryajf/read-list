@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Category 特性在 iOS 组件化中的应用与管控](https://juejin.cn/post/7117499820431900702) | Thu Jul 07 2022 5:34 AM 
+- 🤗 [Android UI自动化测试框架—SoloPi简介](https://juejin.cn/post/7117520693494808589) | Thu Jul 07 2022 6:56 AM 
     <details><summary>展开描述 ...</summary> 
-    尊重原创版权: https://www.conghengx.com/hot/36184.html 更多内容参考: https://www.conghengx.com/ Category 特性在 iOS 
+    1、UI自动化测试简介 软件测试简介 ​ 软件测试是伴随着软件开发一同诞生的，随着软件规模大型化，结构复杂化，软件测试也从最初的简单“调试”，发展到当今的自动化测试。 ​ 自动化测试是什么呢？自动化测 
     </details> 
 
-- 🎡 [Google Android 官方架构示例，我在起跑线等你](https://juejin.cn/post/7117498113983512589) | Thu Jul 07 2022 5:28 AM 
+- 🎡 [大公司为什么禁止SpringBoot项目使用Tomcat？](https://juejin.cn/post/7117516341984755726) | Thu Jul 07 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-    单向数据流仅是一形式，非本质，故须找到问题背后本质，如此即便不使用 “单向数据流”，亦可 “正确解决问题”。反之，生搬硬套 “单向数据流”，未必全然正确。 
+    在SpringBoot框架中，我们使用最多的是Tomcat，这是SpringBoot默认的容器技术，而且是内嵌式的Tomcat。 
     </details> 
 
-- 🕯 [3000字讲透HTTP缓存](https://juejin.cn/post/7117497838312882183) | Thu Jul 07 2022 5:27 AM 
+- 🕯 [[17] ROS2初探之rviz2加载机器人urdf模型](https://juejin.cn/post/7117476706478194719) | Thu Jul 07 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-    本文从`HTTP缓存策略`为入口，讲解HTTP缓存在浏览器的应用。文章按`强缓存`、`协商缓存`和`启发式缓存`三个类别，进行深入剖析。 
+    本文主要跑了一下Wiki上的ROS2加载urdf机器人模型，知道ROS2是怎样加载模型的，了解即可，不必深究。 
     </details> 
 
-- 🚀 [聊一聊web图片小知识、浏览器渲染原理与性能优化大总结 、在高并发情况下我是这样解决单用户超领优惠券问题 | 下午茶第23期](https://juejin.cn/post/7117482391945347103) | Thu Jul 07 2022 4:29 AM 
+- 🚀 [『HarmonyOS』DevEco的下载安装与开发环境搭建](https://juejin.cn/post/7117472826637942821) | Thu Jul 07 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-    最近鉴于掘友们的热情召唤，我们终于把做了几百期的社群下午茶搬到站内了，酱酱们会一直陪伴，认真创作的掘友们，站内下午茶新增优质作者介绍和码上掘金板块，专注于发掘站内优质创作者和优质内容，欢迎大家多提宝贵 
+    1.开发准备 申请成为开发者 在进行HarmonyOS应用/服务开发前，开发者需要注册一个华为开发者帐号。可以访问：https://www.harmonyos.com，点击右上角注册，在注册页面，选择 
     </details> 
 
-- 💪 [在 KubeSphere 中使用 DevOps 部署 Java 微服务配置监控预警](https://juejin.cn/post/7117478969619791879) | Thu Jul 07 2022 4:17 AM 
+- 💪 [PLC：自动纠正数据集噪声，来洗洗数据集吧 | ICLR 2021 Spotlight](https://juejin.cn/post/7117470648414240776) | Thu Jul 07 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt; 作者：酱油瓶，携程后端技术专家， KubeSphere 社区用户 ## 开发 Java 微服务并引入监控组件 我们基于 Spring Cloud +Nacos 开发 Java 微服务，Jav 
+    论文: Learning with Feature-Dependent Label Noise: A Progressive Approach 论文地址：https://arxiv.org/abs/2 
     </details> 
 <!-- juejin:END -->
 ### 少数派
