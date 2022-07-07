@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [高考的事实：我要付出多少努力，才能和你站在一条起跑线上？](http://www.techweb.com.cn/viewpoint/2022-07-06/2897189.shtml) | Wed Jul 06 2022 1:53 PM
-- 👹 [IDC：Meta低价推广VR硬件战略不可持续 所有目光将聚集到苹果](http://www.techweb.com.cn/world/2022-07-06/2897178.shtml) | Wed Jul 06 2022 10:00 AM
-- 🪜 [机构数据显示比亚迪连续两月超过LG新能源 成全球第二大动力电池厂商](http://www.techweb.com.cn/world/2022-07-06/2897177.shtml) | Wed Jul 06 2022 9:48 AM
-- 🤭 [消息人士称三星电机击败LG等厂商 获得特斯拉数十亿美元摄像头模组订单](http://www.techweb.com.cn/world/2022-07-06/2897172.shtml) | Wed Jul 06 2022 9:05 AM
-- 🙉 [外媒：大众和博世获准共同开发自动驾驶技术](http://www.techweb.com.cn/world/2022-07-06/2897170.shtml) | Wed Jul 06 2022 8:56 AM<!-- techweb-allnews:END -->
+- 👍 [商务部等17部门：研究免征新能源汽车车辆购置税政策到期后延期问题](http://www.techweb.com.cn/smarttraveling/2022-07-07/2897214.shtml) | Thu Jul 07 2022 1:16 AM
+- 👹 [高考的事实：我要付出多少努力，才能和你站在一条起跑线上？](http://www.techweb.com.cn/viewpoint/2022-07-06/2897189.shtml) | Wed Jul 06 2022 1:53 PM
+- 🪜 [IDC：Meta低价推广VR硬件战略不可持续 所有目光将聚集到苹果](http://www.techweb.com.cn/world/2022-07-06/2897178.shtml) | Wed Jul 06 2022 10:00 AM
+- 🤭 [机构数据显示比亚迪连续两月超过LG新能源 成全球第二大动力电池厂商](http://www.techweb.com.cn/world/2022-07-06/2897177.shtml) | Wed Jul 06 2022 9:48 AM
+- 🙉 [消息人士称三星电机击败LG等厂商 获得特斯拉数十亿美元摄像头模组订单](http://www.techweb.com.cn/world/2022-07-06/2897172.shtml) | Wed Jul 06 2022 9:05 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
