@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [说说关系型数据库与Serverless](https://juejin.cn/post/7117532223540035621) | Thu Jul 07 2022 7:40 AM 
+- 🤗 [一个开发者自述：我是如何设计针对冷热读写场景的 RocketMQ 存储系统](https://juejin.cn/post/7117538211760439309) | Thu Jul 07 2022 8:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    简介： 文章中的很多知识点，都是通过云原生编程挑战赛学到的，在一些问题在表述方式、甚至理解上都可能存在一些问题，甚至会有一些谬论；敢于尝试就会犯错，有犯错才会有成长，欢迎各位大佬不舍赐教，多多指正，让 
+    </details> 
+
+- 🎡 [说说关系型数据库与Serverless](https://juejin.cn/post/7117532223540035621) | Thu Jul 07 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
     简介： 看到如今Serverless在云计算行业喷薄欲出的态势，像极了《星星之火，可以燎原》中的描述：虽然不能预测未来的发展和变化，但对于云计算来说这是个相对确定的方向。本文从产业界和学术界出发，聊聊 
     </details> 
 
-- 🎡 [Java 17 升级指南（持续更新）](https://juejin.cn/post/7117531586232320031) | Thu Jul 07 2022 7:38 AM 
+- 🕯 [Java 17 升级指南（持续更新）](https://juejin.cn/post/7117531586232320031) | Thu Jul 07 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
     最近在做 Java8 到 Java17 的迁移工作，前期做了一些准备，过程中的一些信息记录如下（持续更新。。。） 
     </details> 
 
-- 🕯 [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://juejin.cn/post/7117529382784237576) | Thu Jul 07 2022 7:30 AM 
+- 🚀 [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://juejin.cn/post/7117529382784237576) | Thu Jul 07 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
     随着美团外卖业务不断发展，外卖广告引擎团队在多个领域进行了工程上的探索和实践，也取得了一些成果。我们将以连载的方式进行分享。 
     </details> 
 
-- 🚀 [PolarDB-X 如何做分布式数据库热点分析](https://juejin.cn/post/7117527282972885028) | Thu Jul 07 2022 7:22 AM 
+- 💪 [PolarDB-X 如何做分布式数据库热点分析](https://juejin.cn/post/7117527282972885028) | Thu Jul 07 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
     简介： PolarDB-X 是一款计算存储分离的云原生分布式数据库，在PolarDB-X 2.0的AUTO模式下，数据库会按照表的主键自动Hash分区，将数据均匀的分布到各个数据节点中，最理想的情况是 
-    </details> 
-
-- 💪 [大众点评搜索相关性技术探索与实践](https://juejin.cn/post/7117526448268640292) | Thu Jul 07 2022 7:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    搜索相关性用于衡量Query和Doc的相关程度，是搜索引擎的重要环节，本文主要讲述大众点评搜索团队在相关性计算上的技术探索和实践。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
