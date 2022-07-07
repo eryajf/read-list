@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [用乐高，重现心目中那些「最伟大的作品」](https://sspai.com/post/74141) | Thu Jul 07 2022 3:02 AM 
+- 👹 [可能是 iOS 平台的最强录音工具——Just Press Record 使用体验](https://sspai.com/prime/story/just-press-record) | Thu Jul 07 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    对于需要经常使用手机录音的朋友们来说，JPR 肯定值得一试。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/just-press-record&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [用乐高，重现心目中那些「最伟大的作品」](https://sspai.com/post/74141) | Thu Jul 07 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74141&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：M2 版 MacBook Air 将开启预购、NS 推出限定版机型等](https://sspai.com/post/74151) | Thu Jul 07 2022 12:30 AM 
+- 🤭 [派早报：M2 版 MacBook Air 将开启预购、NS 推出限定版机型等](https://sspai.com/post/74151) | Thu Jul 07 2022 12:30 AM 
     <details><summary>展开描述 ...</summary> 
     GPD 公布掌上电脑 Win Max 2 的配置详情、Apple 计划推出「锁定模式」以应对攻击风险等。&lt;a href=&quot;https://sspai.com/post/74151&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [为创作者和读者建立桥梁，一站式内容创作工具：竹白](https://sspai.com/post/74066) | Wed Jul 06 2022 9:55 AM 
+- 🥸 [为创作者和读者建立桥梁，一站式内容创作工具：竹白](https://sspai.com/post/74066) | Wed Jul 06 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
     让创作者可以轻易地创建付费专栏获得收入，让读者可以使用任何他常用的工具订阅到创作者的内容。为了实现这个目标，我们做了《竹白》这款产品。&lt;a href=&quot;https://sspai.com/post/74066&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [最早的房车在中国？浅谈世界房车发展史](https://sspai.com/post/74136) | Wed Jul 06 2022 8:00 AM 
+- 🙉 [最早的房车在中国？浅谈世界房车发展史](https://sspai.com/post/74136) | Wed Jul 06 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     希望中国市场能出现更多亮眼的产品，在今后世界房车发展的历史上占据一席之地。&lt;a href=&quot;https://sspai.com/post/74136&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [App+1 | 创造语言环境，浏览器插件 Toucan 让你边读网页边背单词](https://sspai.com/post/74140) | Wed Jul 06 2022 6:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    Toucan 就是这样一个浏览器插件。它的主要作用就是在打开的网页中，根据用户的语言水平，随机选择一些词汇，将其翻译成想要学习的语言。&lt;a href=&quot;https://sspai.com/post/74140&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
