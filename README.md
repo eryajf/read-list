@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [马斯克与女高管生下双胞胎 目前已有9个孩子](http://www.techweb.com.cn/world/2022-07-07/2897297.shtml) | Thu Jul 07 2022 7:50 AM
-- 👹 [英国反垄断机构开始对微软收购动视暴雪交易展开调查](http://www.techweb.com.cn/world/2022-07-07/2897294.shtml) | Thu Jul 07 2022 7:25 AM
-- 🪜 [西虹市影视等四家公司起诉北京文化 追讨电影发行收入、投资收益等共计约1.55亿元](http://www.techweb.com.cn/it/2022-07-07/2897279.shtml) | Thu Jul 07 2022 6:22 AM
-- 🤭 [苹果已经批准京东方为iPhone 14供应OLED面板](http://www.techweb.com.cn/world/2022-07-07/2897275.shtml) | Thu Jul 07 2022 4:48 AM
-- 🙉 [出海潮起 中国汽车品牌如何抢滩海外市场？](http://www.techweb.com.cn/smarttraveling/2022-07-07/2897274.shtml) | Thu Jul 07 2022 4:31 AM<!-- techweb-allnews:END -->
+- 👍 [TCL CEO本月将走访韩国显示设备制造商 了解第8代OLED技术动向](http://www.techweb.com.cn/world/2022-07-07/2897312.shtml) | Thu Jul 07 2022 8:40 AM
+- 👹 [外媒：小米开始在越南生产智能手机 公司回应消息属实](http://www.techweb.com.cn/world/2022-07-07/2897301.shtml) | Thu Jul 07 2022 8:10 AM
+- 🪜 [马斯克与女高管生下双胞胎 目前已有9个孩子](http://www.techweb.com.cn/world/2022-07-07/2897297.shtml) | Thu Jul 07 2022 7:50 AM
+- 🤭 [英国反垄断机构开始对微软收购动视暴雪交易展开调查](http://www.techweb.com.cn/world/2022-07-07/2897294.shtml) | Thu Jul 07 2022 7:25 AM
+- 🙉 [西虹市影视等四家公司起诉北京文化 追讨电影发行收入、投资收益等共计约1.55亿元](http://www.techweb.com.cn/it/2022-07-07/2897279.shtml) | Thu Jul 07 2022 6:22 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
