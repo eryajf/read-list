@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何查看 Vue 页面点击事件的处理源码？](https://www.v2ex.com/t/864686#reply3) | Thu Jul 07 2022 6:36 AM
-- 🤗 [envsetup.sh 报错： dirname: missing operand](https://www.v2ex.com/t/864680#reply0) | Thu Jul 07 2022 6:16 AM
-- 🎭 [请教一个问题哈，服务端渲染 html，为什么有些页面只发送一次类型为 document 的请求，有些页面还会另外发起类型为 text/html 的请求？如何让浏览器不发送类型为 text/html 的请求呢？不然数据库会查两边。](https://www.v2ex.com/t/864678#reply1) | Thu Jul 07 2022 6:11 AM
-- 🥷 [有老哥分享下最近的就业市场吗？](https://www.v2ex.com/t/864676#reply11) | Thu Jul 07 2022 6:06 AM
-- 🐵 [有没有 flutter 的脚手架项目，想给我的 bbs-go 开发一个移动端](https://www.v2ex.com/t/864673#reply0) | Thu Jul 07 2022 6:00 AM<!-- v2ex:END -->
+- 🥸 [请问下大家实现类似 DIY 手机壳的插件](https://www.v2ex.com/t/864713#reply0) | Thu Jul 07 2022 8:33 AM
+- 🤗 [话说， nas 的系统是很难做好吗，还是咋了，为啥好像至今还是只有群晖一个比较好用的系统](https://www.v2ex.com/t/864712#reply1) | Thu Jul 07 2022 8:31 AM
+- 🎭 [想买个踏板摩托车 uy125 玩，会不会吃灰呢？](https://www.v2ex.com/t/864705#reply1) | Thu Jul 07 2022 7:35 AM
+- 🥷 [appstore 的已装 app 权限：能否持续获取到用户的实时 appleID 信息？](https://www.v2ex.com/t/864699#reply5) | Thu Jul 07 2022 7:31 AM
+- 🐵 [typescript+nextjs 点击输入框 可输入状态 难到几个人](https://www.v2ex.com/t/864696#reply0) | Thu Jul 07 2022 7:24 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
