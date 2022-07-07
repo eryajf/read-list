@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [腾讯云开发也要开启套餐计费模式了](https://www.v2ex.com/t/864660#reply0) | Thu Jul 07 2022 5:19 AM
-- 🤗 [大佬帮推荐一下，买一个 nas 好，还是整一个多盘位主机好？](https://www.v2ex.com/t/864653#reply1) | Thu Jul 07 2022 5:07 AM
-- 🎭 [有没有国产套壳 mysql 呀？](https://www.v2ex.com/t/864650#reply10) | Thu Jul 07 2022 5:00 AM
-- 🥷 [go 可以支持 tls 硬件加速吗](https://www.v2ex.com/t/864649#reply0) | Thu Jul 07 2022 4:56 AM
-- 🐵 [对于程序员来说，对代码有没有兴趣，到底有多重要？](https://www.v2ex.com/t/864647#reply7) | Thu Jul 07 2022 4:54 AM<!-- v2ex:END -->
+- 🥸 [envsetup.sh 报错： dirname: missing operand](https://www.v2ex.com/t/864680#reply0) | Thu Jul 07 2022 6:16 AM
+- 🤗 [请教一个问题哈，服务端渲染 html，为什么有些页面只发送一次类型为 document 的请求，有些页面还会另外发起类型为 text/html 的请求？如何让浏览器不发送类型为 text/html 的请求呢？不然数据库会查两边。](https://www.v2ex.com/t/864678#reply1) | Thu Jul 07 2022 6:11 AM
+- 🎭 [有老哥分享下最近的就业市场吗？](https://www.v2ex.com/t/864676#reply5) | Thu Jul 07 2022 6:06 AM
+- 🥷 [有没有 flutter 的脚手架项目，想给我的 bbs-go 开发一个移动端](https://www.v2ex.com/t/864673#reply0) | Thu Jul 07 2022 6:00 AM
+- 🐵 [yarn3 感觉有点垃圾啊。。安装官网的流程装下来 vscode 就报错](https://www.v2ex.com/t/864666#reply5) | Thu Jul 07 2022 5:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
