@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android UI自动化测试框架—SoloPi简介](https://juejin.cn/post/7117520693494808589) | Thu Jul 07 2022 6:56 AM 
+- 🤗 [说说关系型数据库与Serverless](https://juejin.cn/post/7117532223540035621) | Thu Jul 07 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    1、UI自动化测试简介 软件测试简介 ​ 软件测试是伴随着软件开发一同诞生的，随着软件规模大型化，结构复杂化，软件测试也从最初的简单“调试”，发展到当今的自动化测试。 ​ 自动化测试是什么呢？自动化测 
+    简介： 看到如今Serverless在云计算行业喷薄欲出的态势，像极了《星星之火，可以燎原》中的描述：虽然不能预测未来的发展和变化，但对于云计算来说这是个相对确定的方向。本文从产业界和学术界出发，聊聊 
     </details> 
 
-- 🎡 [大公司为什么禁止SpringBoot项目使用Tomcat？](https://juejin.cn/post/7117516341984755726) | Thu Jul 07 2022 6:38 AM 
+- 🎡 [Java 17 升级指南（持续更新）](https://juejin.cn/post/7117531586232320031) | Thu Jul 07 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
-    在SpringBoot框架中，我们使用最多的是Tomcat，这是SpringBoot默认的容器技术，而且是内嵌式的Tomcat。 
+    最近在做 Java8 到 Java17 的迁移工作，前期做了一些准备，过程中的一些信息记录如下（持续更新。。。） 
     </details> 
 
-- 🕯 [[17] ROS2初探之rviz2加载机器人urdf模型](https://juejin.cn/post/7117476706478194719) | Thu Jul 07 2022 4:05 AM 
+- 🕯 [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://juejin.cn/post/7117529382784237576) | Thu Jul 07 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要跑了一下Wiki上的ROS2加载urdf机器人模型，知道ROS2是怎样加载模型的，了解即可，不必深究。 
+    随着美团外卖业务不断发展，外卖广告引擎团队在多个领域进行了工程上的探索和实践，也取得了一些成果。我们将以连载的方式进行分享。 
     </details> 
 
-- 🚀 [『HarmonyOS』DevEco的下载安装与开发环境搭建](https://juejin.cn/post/7117472826637942821) | Thu Jul 07 2022 3:50 AM 
+- 🚀 [PolarDB-X 如何做分布式数据库热点分析](https://juejin.cn/post/7117527282972885028) | Thu Jul 07 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-    1.开发准备 申请成为开发者 在进行HarmonyOS应用/服务开发前，开发者需要注册一个华为开发者帐号。可以访问：https://www.harmonyos.com，点击右上角注册，在注册页面，选择 
+    简介： PolarDB-X 是一款计算存储分离的云原生分布式数据库，在PolarDB-X 2.0的AUTO模式下，数据库会按照表的主键自动Hash分区，将数据均匀的分布到各个数据节点中，最理想的情况是 
     </details> 
 
-- 💪 [PLC：自动纠正数据集噪声，来洗洗数据集吧 | ICLR 2021 Spotlight](https://juejin.cn/post/7117470648414240776) | Thu Jul 07 2022 3:41 AM 
+- 💪 [大众点评搜索相关性技术探索与实践](https://juejin.cn/post/7117526448268640292) | Thu Jul 07 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-    论文: Learning with Feature-Dependent Label Noise: A Progressive Approach 论文地址：https://arxiv.org/abs/2 
+    搜索相关性用于衡量Query和Doc的相关程度，是搜索引擎的重要环节，本文主要讲述大众点评搜索团队在相关性计算上的技术探索和实践。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
