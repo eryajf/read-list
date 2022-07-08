@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [通用汽车自动驾驶汽车子公司Cruise否认遭NHTSA调查车祸事故](http://www.techweb.com.cn/world/2022-07-08/2897428.shtml) | Fri Jul 08 2022 7:10 AM
-- 👹 [SpaceX将为船只提供星链卫星互联网服务 每月收费5000美元](http://www.techweb.com.cn/world/2022-07-08/2897427.shtml) | Fri Jul 08 2022 7:04 AM
-- 🪜 [大众德国萨尔茨吉特电池工厂破土动工 欲在欧洲投资200亿美元](http://www.techweb.com.cn/world/2022-07-08/2897423.shtml) | Fri Jul 08 2022 6:38 AM
-- 🤭 [数字信号处理器专业供应商中科昊芯完成近亿元A轮融资](http://www.techweb.com.cn/it/2022-07-08/2897422.shtml) | Fri Jul 08 2022 6:24 AM
-- 🙉 [年轻人为什么“声讨”钟薛高？](http://www.techweb.com.cn/viewpoint/2022-07-08/2897418.shtml) | Fri Jul 08 2022 4:27 AM<!-- techweb-allnews:END -->
+- 👍 [Pass Automotive Mexico将为特斯拉德州超级工厂生产电动汽车零部件](http://www.techweb.com.cn/world/2022-07-08/2897440.shtml) | Fri Jul 08 2022 8:51 AM
+- 👹 [苹果创始人乔布斯被正式追授总统自由勋章](http://www.techweb.com.cn/world/2022-07-08/2897438.shtml) | Fri Jul 08 2022 8:20 AM
+- 🪜 [特斯拉将在今年晚些时候向美国非特斯拉电动汽车开放超级充电网络](http://www.techweb.com.cn/world/2022-07-08/2897437.shtml) | Fri Jul 08 2022 8:04 AM
+- 🤭 [通用汽车自动驾驶汽车子公司Cruise否认遭NHTSA调查车祸事故](http://www.techweb.com.cn/world/2022-07-08/2897428.shtml) | Fri Jul 08 2022 7:10 AM
+- 🙉 [SpaceX将为船只提供星链卫星互联网服务 每月收费5000美元](http://www.techweb.com.cn/world/2022-07-08/2897427.shtml) | Fri Jul 08 2022 7:04 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
