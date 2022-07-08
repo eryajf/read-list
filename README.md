@@ -216,24 +216,24 @@
     😀 这是爬虫专栏第 「29」 篇原创 我们在做爬虫的过程中经常会遇到这样的情况，最初爬虫正常运行，正常抓取数据，一切看起来都是那么美好，然而一杯茶的功夫可能就会出现错误，比如 403 Forbidde 
     </details> 
 
-- 🎡 [伍双：没人关注的地方有可能藏着宝藏丨人物专访](https://juejin.cn/post/7117852483476520996) | Fri Jul 08 2022 4:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    适合技术创业的产品有个共性 —— 「切入点很小，展开面很大」，而互动白板在大家的认知中，正是一个看起来很小并且似乎没什么技术门槛的领域。 
-    </details> 
-
-- 🕯 [我对 React 实现原理的理解、如何将传统 Web 框架部署到 Serverless、Golang 泛型初识、人生大事 - 毕业 | 酱酱的下午茶第 24 期](https://juejin.cn/post/7117849429998043150) | Fri Jul 08 2022 4:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    本期看点: 我对 React 实现原理的理解、如何将传统 Web 框架部署到 Serverless、Golang 泛型初识、JAVA中简单的for循环竟有这么多坑，但愿你没踩过、人生大事 - 毕业 
-    </details> 
-
-- 🚀 [用了十几年才想明白：Python的精髓居然是方括号、花括号和圆括号！](https://juejin.cn/post/7117842990533443598) | Fri Jul 08 2022 3:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    和其他编程语言相比，什么才是Python独一无二的特色呢？很多程序员会说，缩进。的确，缩进是Python语言的标志性特点，但这只是外在的、形式上的。从语言特性层面讲，Python的特点是什么呢？我尝试 
-    </details> 
-
-- 💪 [RabbitMQ：消息丢失 | 消息重复 | 消息积压的原因+解决方案+网上学不到的使用心得](https://juejin.cn/post/7117842051286171655) | Fri Jul 08 2022 3:43 AM 
+- 🎡 [RabbitMQ：消息丢失 | 消息重复 | 消息积压的原因+解决方案+网上学不到的使用心得](https://juejin.cn/post/7117842051286171655) | Fri Jul 08 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
     准备进入软件行业的小伙伴，我建议有必要系统的先把RabbitMQ学好，然后再学习其他消息中间件扩展视野，他们的原理大同小异，是可以触类旁通的。 
+    </details> 
+
+- 🕯 [Kubernetes资源编排系列之一: Pod YAML篇](https://juejin.cn/post/7117832066300903454) | Fri Jul 08 2022 3:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    SREWorks的开源吸引了大量用户来尝试部署和使用我们的产品，其中不乏一些初次接触Kubernetes的朋友。 
+    </details> 
+
+- 🚀 [如何自定义hpa metric server](https://juejin.cn/post/7117819135685296142) | Fri Jul 08 2022 2:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    如何基于 custom-metrics-apiserver 项目，打造自己的 metric server。用于hpa使用自定义指标 
+    </details> 
+
+- 💪 [基于模拟退火与tsp问题的matlab实现](https://juejin.cn/post/7117819043888758797) | Fri Jul 08 2022 2:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路 定义及流程图 模拟退火算法来源于固体退火原理，是一种基于概率的算法，将固体加温至充分高，再让其徐徐冷却，加温时，固体内部粒子随温升变为无序状，内能增 
     </details> 
 <!-- juejin:END -->
 ### 少数派
