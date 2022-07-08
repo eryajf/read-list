@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [年轻人为什么“声讨”钟薛高？](http://www.techweb.com.cn/viewpoint/2022-07-08/2897418.shtml) | Fri Jul 08 2022 4:27 AM
-- 👹 [IDC：2021下半年中国视频云市场规模达50.4亿美元 音视频通信赛道竞争激烈](http://www.techweb.com.cn/it/2022-07-08/2897406.shtml) | Fri Jul 08 2022 2:56 AM
-- 🪜 [Meta公司推出NLLB-200 AI模型 可实现200种语言互译](http://www.techweb.com.cn/it/2022-07-08/2897404.shtml) | Fri Jul 08 2022 2:53 AM
-- 🤭 [推特：拟按照商定条款与马斯克完成交易 将继续与马斯克团队分享信息](http://www.techweb.com.cn/world/2022-07-08/2897400.shtml) | Fri Jul 08 2022 2:33 AM
-- 🙉 [推特称每天删除超百万个虚假账户 但马斯克似乎丧失交易热情](http://www.techweb.com.cn/world/2022-07-08/2897397.shtml) | Fri Jul 08 2022 2:30 AM<!-- techweb-allnews:END -->
+- 👍 [大众德国萨尔茨吉特电池工厂破土动工 欲在欧洲投资200亿美元](http://www.techweb.com.cn/world/2022-07-08/2897423.shtml) | Fri Jul 08 2022 6:38 AM
+- 👹 [数字信号处理器专业供应商中科昊芯完成近亿元A轮融资](http://www.techweb.com.cn/it/2022-07-08/2897422.shtml) | Fri Jul 08 2022 6:24 AM
+- 🪜 [年轻人为什么“声讨”钟薛高？](http://www.techweb.com.cn/viewpoint/2022-07-08/2897418.shtml) | Fri Jul 08 2022 4:27 AM
+- 🤭 [IDC：2021下半年中国视频云市场规模达50.4亿美元 音视频通信赛道竞争激烈](http://www.techweb.com.cn/it/2022-07-08/2897406.shtml) | Fri Jul 08 2022 2:56 AM
+- 🙉 [Meta公司推出NLLB-200 AI模型 可实现200种语言互译](http://www.techweb.com.cn/it/2022-07-08/2897404.shtml) | Fri Jul 08 2022 2:53 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
