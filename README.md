@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [冗长的 Python 代码，如何重构？](https://juejin.cn/post/7117834009987514376) | Fri Jul 08 2022 3:11 AM 
+- 🤗 [Webpack JavaScriptParser Hooks 使用小结](https://juejin.cn/post/7117837829165547556) | Fri Jul 08 2022 3:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    Webpack 官网对 JavaScriptParser Hooks 的解释苦涩难懂，本文通过实例对所有 hook 的使用进行了全新解释，相信本文能够帮助你更好地掌握相关知识点。 
+    </details> 
+
+- 🎡 [冗长的 Python 代码，如何重构？](https://juejin.cn/post/7117834009987514376) | Fri Jul 08 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     【导语】：对自己写的冗长代码，想重构但又无思路？小编整理了系列介绍python代码重构优化的方法，助你一臂之力。 编写干净的 Pythonic 代码就是尽可能使其易于理解，但又简洁。 这是 Pytho 
     </details> 
 
-- 🎡 [直观讲解一下 RPC 调用和 HTTP 调用的区别！](https://juejin.cn/post/7117832394618601480) | Fri Jul 08 2022 3:05 AM 
+- 🕯 [直观讲解一下 RPC 调用和 HTTP 调用的区别！](https://juejin.cn/post/7117832394618601480) | Fri Jul 08 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
     OSI网络七层模型 在说RPC和HTTP的区别之前，我觉的有必要了解一下OSI的七层网络结构模型（虽然实际应用中基本上都是五层），它可以分为以下几层：（从上到下） 第一层：应用层。定义了用于在网络中进 
     </details> 
 
-- 🕯 [雪球推送平台建设之路](https://juejin.cn/post/7117828557606223879) | Fri Jul 08 2022 2:51 AM 
+- 🚀 [雪球推送平台建设之路](https://juejin.cn/post/7117828557606223879) | Fri Jul 08 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
     雪球用科技实现了人与股票、资讯、内容、金融产品的连接。雪球社区每天产生大量优质内容，所属行业每天有大量热点事件，社区用户各自订阅了感兴趣的消息。 
     </details> 
 
-- 🚀 [从服务器到云托管，到底经历了什么？](https://juejin.cn/post/7117827965840277541) | Fri Jul 08 2022 2:47 AM 
+- 💪 [从服务器到云托管，到底经历了什么？](https://juejin.cn/post/7117827965840277541) | Fri Jul 08 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
     “服务上云” 一直是一个进行时，在 2010 年 - 2017 年期间，发力点重心都在「自有物理建设」到「IAAS 基础设施即服务」，各个云厂商都在此基础上推出网络产品、数据库产品、存储产品 
-    </details> 
-
-- 💪 [1217. 玩筹码 : 简单贪心运用题](https://juejin.cn/post/7117822503245840391) | Fri Jul 08 2022 2:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 1217. 玩筹码 ，难度为 简单。 Tag : 「贪心」、「枚举」 有 n 个筹码。第 $i$ 个筹码的位置是 position[i]。 我们需要把所有筹码移 
     </details> 
 <!-- juejin:END -->
 ### 少数派
