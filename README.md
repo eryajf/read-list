@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [上汽集团：6月整车合计销量483584辆](http://www.techweb.com.cn/internet/2022-07-07/2897328.shtml) | Thu Jul 07 2022 12:26 PM
-- 👹 [外媒：日企包揽固态电池专利前三 丰田遥遥领先](http://www.techweb.com.cn/world/2022-07-07/2897316.shtml) | Thu Jul 07 2022 9:27 AM
-- 🪜 [IBM宣布收购数据可观测性软件供应商Databand.ai](http://www.techweb.com.cn/it/2022-07-07/2897314.shtml) | Thu Jul 07 2022 9:10 AM
-- 🤭 [TCL CEO本月将走访韩国显示设备制造商 了解第8代OLED技术动向](http://www.techweb.com.cn/world/2022-07-07/2897312.shtml) | Thu Jul 07 2022 8:40 AM
-- 🙉 [外媒：小米开始在越南生产智能手机 公司回应消息属实](http://www.techweb.com.cn/world/2022-07-07/2897301.shtml) | Thu Jul 07 2022 8:10 AM<!-- techweb-allnews:END -->
+- 👍 [IDC：2021下半年中国视频云市场规模达50.4亿美元 音视频通信赛道竞争激烈](http://www.techweb.com.cn/it/2022-07-08/2897406.shtml) | Fri Jul 08 2022 2:56 AM
+- 👹 [Meta公司推出NLLB-200 AI模型 可实现200种语言互译](http://www.techweb.com.cn/it/2022-07-08/2897404.shtml) | Fri Jul 08 2022 2:53 AM
+- 🪜 [B站UP主的苦日子还在后头呢](http://www.techweb.com.cn/viewpoint/2022-07-08/2897403.shtml) | Fri Jul 08 2022 2:51 AM
+- 🤭 [推特：拟按照商定条款与马斯克完成交易 将继续与马斯克团队分享信息](http://www.techweb.com.cn/world/2022-07-08/2897400.shtml) | Fri Jul 08 2022 2:33 AM
+- 🙉 [推特称每天删除超百万个虚假账户 但马斯克似乎丧失交易热情](http://www.techweb.com.cn/world/2022-07-08/2897397.shtml) | Fri Jul 08 2022 2:30 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
