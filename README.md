@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [golang http server 如果出现功能不正常，或者报错，你们是怎么定位问题的呢](https://www.v2ex.com/t/864886#reply0) | Fri Jul 08 2022 3:26 AM
-- 🤗 [Python pop 收信被限制](https://www.v2ex.com/t/864881#reply0) | Fri Jul 08 2022 3:17 AM
-- 🎭 [今天看 VSCode 的 Release Note, 发现我上个月刚写的一个功能, 这个月官方就打算支持了](https://www.v2ex.com/t/864877#reply0) | Fri Jul 08 2022 3:08 AM
-- 🥷 [招你进来是解决问题的，没有问题招你干什么](https://www.v2ex.com/t/864866#reply16) | Fri Jul 08 2022 2:50 AM
-- 🐵 [咨询一下关于 win11 输入法的问题](https://www.v2ex.com/t/864851#reply0) | Fri Jul 08 2022 2:17 AM<!-- v2ex:END -->
+- 🥸 [生产服务器需要配置什么 jvm 参数](https://www.v2ex.com/t/864904#reply1) | Fri Jul 08 2022 4:22 AM
+- 🤗 [pve 直通独显之 PCIE 插槽问题](https://www.v2ex.com/t/864897#reply1) | Fri Jul 08 2022 4:02 AM
+- 🎭 [golang http server 如果出现功能不正常，或者报错，你们是怎么定位问题的呢](https://www.v2ex.com/t/864886#reply1) | Fri Jul 08 2022 3:26 AM
+- 🥷 [Python pop 收信被限制](https://www.v2ex.com/t/864881#reply0) | Fri Jul 08 2022 3:17 AM
+- 🐵 [今天看 VSCode 的 Release Note, 发现我上个月刚写的一个功能, 这个月官方就打算支持了](https://www.v2ex.com/t/864877#reply0) | Fri Jul 08 2022 3:08 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
