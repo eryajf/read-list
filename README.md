@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [🏆技术专题18期｜聊聊Go语言框架](https://juejin.cn/post/7117898969866305566) | Fri Jul 08 2022 7:23 AM 
+- 🤗 [问题排查不再愁，Nacos 上线推送轨迹功能](https://juejin.cn/post/7117936509050683406) | Fri Jul 08 2022 9:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    简介： 微服务体系下，注册中心的调用和配置变更是家常便饭，例如阿里每天就有百万级变更、亿级推送。可是，一旦出现调用或配置异常，问题排查就成了用户最大的困惑：是注册和配置中心导致的，还是上下游业务自身的 
+    </details> 
+
+- 🎡 [技术周报· JavaScript 框架发展的四个时代，以后的发展方向是什么？](https://juejin.cn/post/7117926901460500494) | Fri Jul 08 2022 9:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    编辑推荐：JavaScript 框架发展的四个时代，以后的发展方向是什么？ Web 应用身份验证的未来？WebAuth 介绍；我们是如何记录图片的；等 
+    </details> 
+
+- 🕯 [🏆技术专题征文18期｜聊聊Go语言框架](https://juejin.cn/post/7117898969866305566) | Fri Jul 08 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
     作为编程语言界崛起之秀Golang，凭借语法简单、媲美C或C++代码的速度、无硬件局限性、易于维护、效率高等优势火速出圈。Golang的框架功能强大，结构扎实，可承载的类型多，适用性强，本期技术专题我 
     </details> 
 
-- 🎡 [这么强？！Erda MySQL Migrator：持续集成的数据库版本控制](https://juejin.cn/post/7117891769202638879) | Fri Jul 08 2022 6:56 AM 
+- 🚀 [这么强？！Erda MySQL Migrator：持续集成的数据库版本控制](https://juejin.cn/post/7117891769202638879) | Fri Jul 08 2022 6:56 AM 
     <details><summary>展开描述 ...</summary> 
     为什么要进行数据库版本控制？ 现代软件工程逐渐向持续集成、持续交付演进，软件一次性交付了事的场景逐渐无法满足复杂多变的业务需求，“如何高效地进行软件版本控制”成为我们面临的挑战。 
     </details> 
 
-- 🕯 [Python Web后端开发（四）：创建数据库和表](https://juejin.cn/post/7117891170541240333) | Fri Jul 08 2022 6:55 AM 
+- 💪 [Python Web后端开发（四）：创建数据库和表](https://juejin.cn/post/7117891170541240333) | Fri Jul 08 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
     一、后端开发离不开数据库 真实的系统 就应该返回真实的 订单信息。 那么服务端从哪里获取真实的订单信息呢？ 像 订单信息 这些数据通常就是保存在数据库里面的。 后端开发基本都需要操作数据，包括数据的  
-    </details> 
-
-- 🚀 [Python Web后端开发（三）：HTTP请求的url路由](https://juejin.cn/post/7117890565886181383) | Fri Jul 08 2022 6:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、要实现的目标 我们的目标是实现一个 公司 的 销售管理系统。 这个在以后的课程中，我会一步步带领大家去完成这个销售管理系统。 二、创建项目app 1.APP介绍 Django 中的一个app 就是 
-    </details> 
-
-- 💪 [Python Web后端开发二：Django的安装和运行](https://juejin.cn/post/7117890208489701384) | Fri Jul 08 2022 6:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、安装Django 1.1 安装 Django 框架是用Python语言开发的， 所以安装Django 就像安装其他的 Python库一样，在我们的Python编译器的终端部分执行如下命令即可： 当 
     </details> 
 <!-- juejin:END -->
 ### 少数派
