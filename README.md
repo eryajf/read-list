@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【2022 年】崔庆才 Python3 爬虫教程 - 代理的基本原理](https://juejin.cn/post/7117859576808603655) | Fri Jul 08 2022 4:51 AM 
+- 🤗 [使用Vite和TypeScript带你从零打造一个属于自己的Vue3组件库](https://juejin.cn/post/7117886038126624805) | Fri Jul 08 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-    😀 这是爬虫专栏第 「29」 篇原创 我们在做爬虫的过程中经常会遇到这样的情况，最初爬虫正常运行，正常抓取数据，一切看起来都是那么美好，然而一杯茶的功夫可能就会出现错误，比如 403 Forbidde 
+    从搭建menorepo环境再到组件开发,最后打包发布到npm,一步一步带领你打造出一个属于自己的UI组件库 
     </details> 
 
-- 🎡 [RabbitMQ：消息丢失 | 消息重复 | 消息积压的原因+解决方案+网上学不到的使用心得](https://juejin.cn/post/7117842051286171655) | Fri Jul 08 2022 3:43 AM 
+- 🎡 [Nginx 简单入门指北](https://juejin.cn/post/7117882024651653127) | Fri Jul 08 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-    准备进入软件行业的小伙伴，我建议有必要系统的先把RabbitMQ学好，然后再学习其他消息中间件扩展视野，他们的原理大同小异，是可以触类旁通的。 
+    前言 老大：CDN + Nginx 怎么玩的你知道不？ 我：此处省略一亿个点 ... ☺ 老大：简单来说，前端项目通过打包构建工具生成的最终产物，会先上传到【对象存储】中（例如：阿里云 OSS、腾讯云 
     </details> 
 
-- 🕯 [Kubernetes资源编排系列之一: Pod YAML篇](https://juejin.cn/post/7117832066300903454) | Fri Jul 08 2022 3:03 AM 
+- 🕯 [单片机学习之路一些常见的疑问也是我的个人学习总结](https://juejin.cn/post/7117877691311161375) | Fri Jul 08 2022 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-    SREWorks的开源吸引了大量用户来尝试部署和使用我们的产品，其中不乏一些初次接触Kubernetes的朋友。 
+    ​本文已参与「新人创作礼」活动，一起开启掘金创作之路。   STM32的八种输入输出模式？ 输入模式 上拉输入：通过内部的上拉电阻将一个不确定的信号通过一个电阻拉到高电平。 下拉输入：把电压拉到GND 
     </details> 
 
-- 🚀 [如何自定义hpa metric server](https://juejin.cn/post/7117819135685296142) | Fri Jul 08 2022 2:13 AM 
+- 🚀 [3D视觉独角兽奥比中光上市，宝藏网站追更神器，给果蝇神经元画一幅素描、评论区大战时如何优雅吃瓜、24万张AI合成图片、AI前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7117863593592225828) | Fri Jul 08 2022 5:06 AM 
     <details><summary>展开描述 ...</summary> 
-    如何基于 custom-metrics-apiserver 项目，打造自己的 metric server。用于hpa使用自定义指标 
+    ShowMeAI资讯日报 2022-07-08 期，3D视觉独角兽奥比中光科创板上市、ONNX HRNET人体姿态预估、Skeletor 3D轮廓主干抽取、AI 合成图像数据集、4篇AI最前沿论文… 
     </details> 
 
-- 💪 [基于模拟退火与tsp问题的matlab实现](https://juejin.cn/post/7117819043888758797) | Fri Jul 08 2022 2:13 AM 
+- 💪 [《阿里工程师的修养》：探究他们修的是什么](https://juejin.cn/post/7117855282763399181) | Fri Jul 08 2022 4:34 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路 定义及流程图 模拟退火算法来源于固体退火原理，是一种基于概率的算法，将固体加温至充分高，再让其徐徐冷却，加温时，固体内部粒子随温升变为无序状，内能增 
+    前言 最近有空闲的时候会在阿里藏金阁看书，偶然看到一本《阿里工程师的修养》，两眼放光，彷佛周星驰里面那个老伯对着一个拿着棒棒糖🍭流鼻涕的小孩讲：我看你骨骼惊奇，我这里有本书适合你。 没错，我之前读过《 
     </details> 
 <!-- juejin:END -->
 ### 少数派
