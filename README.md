@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [现在还有用存储过程的场景吗？](https://www.v2ex.com/t/864945#reply0) | Fri Jul 08 2022 7:31 AM
-- 🤗 [尝试用 Windows 包管理器（winget）的感觉](https://www.v2ex.com/t/864943#reply0) | Fri Jul 08 2022 7:23 AM
-- 🎭 [有知道国内 JunDui 容器化运行得怎么样，国内都是专网](https://www.v2ex.com/t/864938#reply1) | Fri Jul 08 2022 6:57 AM
-- 🥷 [有什么办法能够快速分享只读 terminal 给同事让他们观看么？](https://www.v2ex.com/t/864928#reply18) | Fri Jul 08 2022 6:03 AM
-- 🐵 [在写 go 的 parser 时，对于语法有定义有一些疑惑](https://www.v2ex.com/t/864910#reply7) | Fri Jul 08 2022 4:57 AM<!-- v2ex:END -->
+- 🥸 [即将升级为宝爸，有什么可以系统性学习的知识么](https://www.v2ex.com/t/864967#reply8) | Fri Jul 08 2022 9:01 AM
+- 🤗 [游戏中每隔 xx 分钟回复一格体力 数据库一般是怎么存储的？](https://www.v2ex.com/t/864966#reply9) | Fri Jul 08 2022 9:00 AM
+- 🎭 [分布式异常重试服务平台 X-RETRY](https://www.v2ex.com/t/864961#reply0) | Fri Jul 08 2022 8:48 AM
+- 🥷 [想卖摄像头监控家里的猫,害怕被黑客网上直播, 有什么推荐?](https://www.v2ex.com/t/864960#reply14) | Fri Jul 08 2022 8:48 AM
+- 🐵 [现在还有用存储过程的场景吗？](https://www.v2ex.com/t/864945#reply3) | Fri Jul 08 2022 7:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
