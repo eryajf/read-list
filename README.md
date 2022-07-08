@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：华硕发布新款 ROG 真无线耳机、宜家发布 BETTORP 无线充电台灯](https://sspai.com/post/74164) | Fri Jul 08 2022 12:52 AM 
+- 👹 [为 WSL 配置这些新功能，不用虚拟机也能体验完整 Linux](https://sspai.com/post/74167) | Fri Jul 08 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    WSL 不断迎来了它的功能增强，分别是 WSL2，NVIDIA CUDA on WSL，和 WSLg，它们各自解决了 WSL 在上述场景下不同的开发难题。&lt;a href=&quot;https://sspai.com/post/74167&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：华硕发布新款 ROG 真无线耳机、宜家发布 BETTORP 无线充电台灯](https://sspai.com/post/74164) | Fri Jul 08 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
     贝尔金发布蓝牙降噪耳机 SoundForm Immerse，CDPR 新作《昆特牌：盗贼法师》现已发售等&lt;a href=&quot;https://sspai.com/post/74164&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [新玩意 111｜少数派的编辑们最近买了啥？](https://sspai.com/post/74158) | Thu Jul 07 2022 9:51 AM 
+- 🤭 [新玩意 111｜少数派的编辑们最近买了啥？](https://sspai.com/post/74158) | Thu Jul 07 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/74158&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [可能是 iOS 平台的最强录音工具——Just Press Record 使用体验](https://sspai.com/prime/story/just-press-record) | Thu Jul 07 2022 8:00 AM 
+- 🥸 [可能是 iOS 平台的最强录音工具——Just Press Record 使用体验](https://sspai.com/prime/story/just-press-record) | Thu Jul 07 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     对于需要经常使用手机录音的朋友们来说，JPR 肯定值得一试。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/just-press-record&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [用乐高，重现心目中那些「最伟大的作品」](https://sspai.com/post/74141) | Thu Jul 07 2022 3:02 AM 
+- 🙉 [用乐高，重现心目中那些「最伟大的作品」](https://sspai.com/post/74141) | Thu Jul 07 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74141&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：M2 版 MacBook Air 将开启预购、NS 推出限定版机型等](https://sspai.com/post/74151) | Thu Jul 07 2022 12:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    GPD 公布掌上电脑 Win Max 2 的配置详情、Apple 计划推出「锁定模式」以应对攻击风险等。&lt;a href=&quot;https://sspai.com/post/74151&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
