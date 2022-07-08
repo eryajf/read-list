@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750405) | Thu Jul 07 2022 12:27 AM
-- 🐻 [我们身上流淌着哪些远古人类的基因？](http://daily.zhihu.com/story/9750401) | Thu Jul 07 2022 12:27 AM
-- 🌏 [如果说《美国往事》可以称得上是一部伟大的电影，它伟大在何处？](http://daily.zhihu.com/story/9750392) | Thu Jul 07 2022 12:27 AM
-- 🕴 [脂肪可以通过呼吸排出，那能不能通过放屁排出呢？](http://daily.zhihu.com/story/9750379) | Thu Jul 07 2022 12:27 AM
-- 🌮 [如果世界上所有的形容词都没了，那会是怎样的光景呢？](http://daily.zhihu.com/story/9750382) | Thu Jul 07 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750433) | Fri Jul 08 2022 12:27 AM
+- 🐻 [《梦华录》赵盼儿北上撕渣男走的哪条路？](http://daily.zhihu.com/story/9750411) | Fri Jul 08 2022 12:27 AM
+- 🌏 [有哪些受游戏影响很深的漫画？体现在什么方面？](http://daily.zhihu.com/story/9750416) | Fri Jul 08 2022 12:27 AM
+- 🕴 [《三体》中有哪些设定已有研究进展，可能会在未来多少年成真？](http://daily.zhihu.com/story/9750426) | Fri Jul 08 2022 12:27 AM
+- 🌮 [体育史上有哪些令人痛心的伤病？](http://daily.zhihu.com/story/9750432) | Fri Jul 08 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
