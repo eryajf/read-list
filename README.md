@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [大众德国萨尔茨吉特电池工厂破土动工 欲在欧洲投资200亿美元](http://www.techweb.com.cn/world/2022-07-08/2897423.shtml) | Fri Jul 08 2022 6:38 AM
-- 👹 [数字信号处理器专业供应商中科昊芯完成近亿元A轮融资](http://www.techweb.com.cn/it/2022-07-08/2897422.shtml) | Fri Jul 08 2022 6:24 AM
-- 🪜 [年轻人为什么“声讨”钟薛高？](http://www.techweb.com.cn/viewpoint/2022-07-08/2897418.shtml) | Fri Jul 08 2022 4:27 AM
-- 🤭 [IDC：2021下半年中国视频云市场规模达50.4亿美元 音视频通信赛道竞争激烈](http://www.techweb.com.cn/it/2022-07-08/2897406.shtml) | Fri Jul 08 2022 2:56 AM
-- 🙉 [Meta公司推出NLLB-200 AI模型 可实现200种语言互译](http://www.techweb.com.cn/it/2022-07-08/2897404.shtml) | Fri Jul 08 2022 2:53 AM<!-- techweb-allnews:END -->
+- 👍 [通用汽车自动驾驶汽车子公司Cruise否认遭NHTSA调查车祸事故](http://www.techweb.com.cn/world/2022-07-08/2897428.shtml) | Fri Jul 08 2022 7:10 AM
+- 👹 [SpaceX将为船只提供星链卫星互联网服务 每月收费5000美元](http://www.techweb.com.cn/world/2022-07-08/2897427.shtml) | Fri Jul 08 2022 7:04 AM
+- 🪜 [大众德国萨尔茨吉特电池工厂破土动工 欲在欧洲投资200亿美元](http://www.techweb.com.cn/world/2022-07-08/2897423.shtml) | Fri Jul 08 2022 6:38 AM
+- 🤭 [数字信号处理器专业供应商中科昊芯完成近亿元A轮融资](http://www.techweb.com.cn/it/2022-07-08/2897422.shtml) | Fri Jul 08 2022 6:24 AM
+- 🙉 [年轻人为什么“声讨”钟薛高？](http://www.techweb.com.cn/viewpoint/2022-07-08/2897418.shtml) | Fri Jul 08 2022 4:27 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
