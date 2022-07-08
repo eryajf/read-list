@@ -205,8 +205,8 @@
 - 🥸 [最近面试遇到的装逼面试官](https://www.v2ex.com/t/865045#reply9) | Fri Jul 08 2022 6:52 PM
 - 🤗 [睡不着的在线求赐教～疑似发现某集团邮箱（部分员工账户）被不法分子利用](https://www.v2ex.com/t/865044#reply0) | Fri Jul 08 2022 6:17 PM
 - 🎭 [第三次吐槽 Win 11 的垃圾触摸键盘, 顺便分享我的缓解方案, 对 Win 10 也有另外的疗效](https://www.v2ex.com/t/865041#reply0) | Fri Jul 08 2022 5:47 PM
-- 🥷 [Python 中的类和函数的区别是什么？](https://www.v2ex.com/t/865037#reply1) | Fri Jul 08 2022 5:02 PM
-- 🐵 [最近写的一个基于 Raft 算法定义的分布式运维软件](https://www.v2ex.com/t/865032#reply0) | Fri Jul 08 2022 4:10 PM<!-- v2ex:END -->
+- 🥷 [最近写的一个基于 Raft 算法定义的分布式运维软件](https://www.v2ex.com/t/865032#reply0) | Fri Jul 08 2022 4:10 PM
+- 🐵 [［讨论帖］为什么会出现“一边公司招人难，一边求职者找工作难”的问题](https://www.v2ex.com/t/865031#reply8) | Fri Jul 08 2022 4:03 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
