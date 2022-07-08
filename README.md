@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有什么办法能够快速分享只读 terminal 给同事让他们观看么？](https://www.v2ex.com/t/864928#reply3) | Fri Jul 08 2022 6:03 AM
-- 🤗 [说实话，这种东西开源出来感觉有点儿缺德了，各位大佬怎么看](https://www.v2ex.com/t/864918#reply3) | Fri Jul 08 2022 5:40 AM
-- 🎭 [在写 go 的 parser 时，对于语法有定义有一些疑惑](https://www.v2ex.com/t/864910#reply3) | Fri Jul 08 2022 4:57 AM
-- 🥷 [为什么电脑时间不走](https://www.v2ex.com/t/864905#reply3) | Fri Jul 08 2022 4:33 AM
-- 🐵 [生产服务器需要配置什么 jvm 参数](https://www.v2ex.com/t/864904#reply13) | Fri Jul 08 2022 4:22 AM<!-- v2ex:END -->
+- 🥸 [有知道国内 JunDui 容器化运行得怎么样，国内都是专网](https://www.v2ex.com/t/864938#reply1) | Fri Jul 08 2022 6:57 AM
+- 🤗 [有什么办法能够快速分享只读 terminal 给同事让他们观看么？](https://www.v2ex.com/t/864928#reply16) | Fri Jul 08 2022 6:03 AM
+- 🎭 [说实话，这种东西开源出来感觉有点儿缺德了，各位大佬怎么看](https://www.v2ex.com/t/864918#reply15) | Fri Jul 08 2022 5:40 AM
+- 🥷 [在写 go 的 parser 时，对于语法有定义有一些疑惑](https://www.v2ex.com/t/864910#reply6) | Fri Jul 08 2022 4:57 AM
+- 🐵 [为什么电脑时间不走](https://www.v2ex.com/t/864905#reply4) | Fri Jul 08 2022 4:33 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
