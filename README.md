@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [iOS 16 Beta 2 &amp; Beta 3 中值得关注的新特性](https://sspai.com/post/74162) | Fri Jul 08 2022 6:30 AM 
+- 👹 [在 Android 的词典里，「通知延后」可能不是你以为的意思](https://sspai.com/prime/story/android-snooze-explained) | Fri Jul 08 2022 7:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    通知延后是从 Android 8.0 即加入的功能，但其交互设计和命名经常引发误解。本文分析了这种误解的成因，在此基础上阐释了通知延后的实际含义和适合的使用场景。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/android-snooze-explained&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [iOS 16 Beta 2 &amp; Beta 3 中值得关注的新特性](https://sspai.com/post/74162) | Fri Jul 08 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     我梳理了一下 iOS 16 之前的 Beta 2 以及此次更新的 Beta 3 两个开发者预览版中的新增功能，希望可以帮助已经更新到 iOS 16 的小伙伴赶紧用上自己还没发现的新功能。&lt;a href=&quot;https://sspai.com/post/74162&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [为 WSL 配置这些新功能，不用虚拟机也能体验完整 Linux](https://sspai.com/post/74167) | Fri Jul 08 2022 3:30 AM 
+- 🤭 [为 WSL 配置这些新功能，不用虚拟机也能体验完整 Linux](https://sspai.com/post/74167) | Fri Jul 08 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     WSL 不断迎来了它的功能增强，分别是 WSL2，NVIDIA CUDA on WSL，和 WSLg，它们各自解决了 WSL 在上述场景下不同的开发难题。&lt;a href=&quot;https://sspai.com/post/74167&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：华硕发布新款 ROG 真无线耳机、宜家发布 BETTORP 无线充电台灯](https://sspai.com/post/74164) | Fri Jul 08 2022 12:52 AM 
+- 🥸 [派早报：华硕发布新款 ROG 真无线耳机、宜家发布 BETTORP 无线充电台灯](https://sspai.com/post/74164) | Fri Jul 08 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
     贝尔金发布蓝牙降噪耳机 SoundForm Immerse，CDPR 新作《昆特牌：盗贼法师》现已发售等&lt;a href=&quot;https://sspai.com/post/74164&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [新玩意 111｜少数派的编辑们最近买了啥？](https://sspai.com/post/74158) | Thu Jul 07 2022 9:51 AM 
+- 🙉 [新玩意 111｜少数派的编辑们最近买了啥？](https://sspai.com/post/74158) | Thu Jul 07 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/74158&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [可能是 iOS 平台的最强录音工具——Just Press Record 使用体验](https://sspai.com/prime/story/just-press-record) | Thu Jul 07 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    对于需要经常使用手机录音的朋友们来说，JPR 肯定值得一试。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/just-press-record&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
