@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [B站UP主的苦日子还在后头呢](http://www.techweb.com.cn/viewpoint/2022-07-08/2897448.shtml) | Fri Jul 08 2022 9:38 AM
-- 👹 [自动驾驶祛魅：从降维打击到降维求生](http://www.techweb.com.cn/viewpoint/2022-07-08/2897447.shtml) | Fri Jul 08 2022 9:33 AM
-- 🪜 [冰柜里容不下第二个钟薛高](http://www.techweb.com.cn/viewpoint/2022-07-08/2897443.shtml) | Fri Jul 08 2022 9:29 AM
-- 🤭 [Pass Automotive Mexico将为特斯拉德州超级工厂生产电动汽车零部件](http://www.techweb.com.cn/world/2022-07-08/2897440.shtml) | Fri Jul 08 2022 8:51 AM
-- 🙉 [苹果创始人乔布斯被正式追授总统自由勋章](http://www.techweb.com.cn/world/2022-07-08/2897438.shtml) | Fri Jul 08 2022 8:20 AM<!-- techweb-allnews:END -->
+- 👍 [自动驾驶祛魅：从降维打击到降维求生](http://www.techweb.com.cn/viewpoint/2022-07-08/2897447.shtml) | Fri Jul 08 2022 9:33 AM
+- 👹 [冰柜里容不下第二个钟薛高](http://www.techweb.com.cn/viewpoint/2022-07-08/2897443.shtml) | Fri Jul 08 2022 9:29 AM
+- 🪜 [Pass Automotive Mexico将为特斯拉德州超级工厂生产电动汽车零部件](http://www.techweb.com.cn/world/2022-07-08/2897440.shtml) | Fri Jul 08 2022 8:51 AM
+- 🤭 [苹果创始人乔布斯被正式追授总统自由勋章](http://www.techweb.com.cn/world/2022-07-08/2897438.shtml) | Fri Jul 08 2022 8:20 AM
+- 🙉 [特斯拉将在今年晚些时候向美国非特斯拉电动汽车开放超级充电网络](http://www.techweb.com.cn/world/2022-07-08/2897437.shtml) | Fri Jul 08 2022 8:04 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
