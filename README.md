@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如果你感兴趣，可以来看看我对公司产品网络的优化](https://www.v2ex.com/t/864982#reply0) | Fri Jul 08 2022 10:07 AM
-- 🤗 [Windows 下有没有类似 Mac Thor 或者 Snap 等可以使用快捷键切换应用的开源软件？](https://www.v2ex.com/t/864978#reply4) | Fri Jul 08 2022 9:51 AM
-- 🎭 [Visual Studio Code Python - 2022 年 7 月更新 - 嵌入类型提示和 Jupyter 设置体验升级](https://www.v2ex.com/t/864976#reply0) | Fri Jul 08 2022 9:42 AM
-- 🥷 [服务端有什么难的？](https://www.v2ex.com/t/864975#reply13) | Fri Jul 08 2022 9:33 AM
-- 🐵 [求大哥帮忙解析下 makefile 文件里的参数](https://www.v2ex.com/t/864973#reply2) | Fri Jul 08 2022 9:31 AM<!-- v2ex:END -->
+- 🥸 [Cloudflare 要干啥](https://www.v2ex.com/t/864994#reply0) | Fri Jul 08 2022 11:14 AM
+- 🤗 [pyqt5 textedit 重写点击事件后无法选中文本](https://www.v2ex.com/t/864991#reply0) | Fri Jul 08 2022 11:07 AM
+- 🎭 [如果你感兴趣，可以来看看我对公司产品网络的优化](https://www.v2ex.com/t/864982#reply1) | Fri Jul 08 2022 10:07 AM
+- 🥷 [Windows 下有没有类似 Mac Thor 或者 Snap 等可以使用快捷键切换应用的开源软件？](https://www.v2ex.com/t/864978#reply5) | Fri Jul 08 2022 9:51 AM
+- 🐵 [Visual Studio Code Python - 2022 年 7 月更新 - 嵌入类型提示和 Jupyter 设置体验升级](https://www.v2ex.com/t/864976#reply1) | Fri Jul 08 2022 9:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
