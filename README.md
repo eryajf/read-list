@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Webpack JavaScriptParser Hooks 使用小结](https://juejin.cn/post/7117837829165547556) | Fri Jul 08 2022 3:26 AM 
+- 🤗 [【2022 年】崔庆才 Python3 爬虫教程 - 代理的基本原理](https://juejin.cn/post/7117859576808603655) | Fri Jul 08 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
-    Webpack 官网对 JavaScriptParser Hooks 的解释苦涩难懂，本文通过实例对所有 hook 的使用进行了全新解释，相信本文能够帮助你更好地掌握相关知识点。 
+    😀 这是爬虫专栏第 「29」 篇原创 我们在做爬虫的过程中经常会遇到这样的情况，最初爬虫正常运行，正常抓取数据，一切看起来都是那么美好，然而一杯茶的功夫可能就会出现错误，比如 403 Forbidde 
     </details> 
 
-- 🎡 [冗长的 Python 代码，如何重构？](https://juejin.cn/post/7117834009987514376) | Fri Jul 08 2022 3:11 AM 
+- 🎡 [伍双：没人关注的地方有可能藏着宝藏丨人物专访](https://juejin.cn/post/7117852483476520996) | Fri Jul 08 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-    【导语】：对自己写的冗长代码，想重构但又无思路？小编整理了系列介绍python代码重构优化的方法，助你一臂之力。 编写干净的 Pythonic 代码就是尽可能使其易于理解，但又简洁。 这是 Pytho 
+    适合技术创业的产品有个共性 —— 「切入点很小，展开面很大」，而互动白板在大家的认知中，正是一个看起来很小并且似乎没什么技术门槛的领域。 
     </details> 
 
-- 🕯 [直观讲解一下 RPC 调用和 HTTP 调用的区别！](https://juejin.cn/post/7117832394618601480) | Fri Jul 08 2022 3:05 AM 
+- 🕯 [我对 React 实现原理的理解、如何将传统 Web 框架部署到 Serverless、Golang 泛型初识、人生大事 - 毕业 | 酱酱的下午茶第 24 期](https://juejin.cn/post/7117849429998043150) | Fri Jul 08 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
-    OSI网络七层模型 在说RPC和HTTP的区别之前，我觉的有必要了解一下OSI的七层网络结构模型（虽然实际应用中基本上都是五层），它可以分为以下几层：（从上到下） 第一层：应用层。定义了用于在网络中进 
+    本期看点: 我对 React 实现原理的理解、如何将传统 Web 框架部署到 Serverless、Golang 泛型初识、JAVA中简单的for循环竟有这么多坑，但愿你没踩过、人生大事 - 毕业 
     </details> 
 
-- 🚀 [雪球推送平台建设之路](https://juejin.cn/post/7117828557606223879) | Fri Jul 08 2022 2:51 AM 
+- 🚀 [用了十几年才想明白：Python的精髓居然是方括号、花括号和圆括号！](https://juejin.cn/post/7117842990533443598) | Fri Jul 08 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-    雪球用科技实现了人与股票、资讯、内容、金融产品的连接。雪球社区每天产生大量优质内容，所属行业每天有大量热点事件，社区用户各自订阅了感兴趣的消息。 
+    和其他编程语言相比，什么才是Python独一无二的特色呢？很多程序员会说，缩进。的确，缩进是Python语言的标志性特点，但这只是外在的、形式上的。从语言特性层面讲，Python的特点是什么呢？我尝试 
     </details> 
 
-- 💪 [从服务器到云托管，到底经历了什么？](https://juejin.cn/post/7117827965840277541) | Fri Jul 08 2022 2:47 AM 
+- 💪 [2022年，你应该知道的Python打包指南](https://juejin.cn/post/7117840222619959309) | Fri Jul 08 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    “服务上云” 一直是一个进行时，在 2010 年 - 2017 年期间，发力点重心都在「自有物理建设」到「IAAS 基础设施即服务」，各个云厂商都在此基础上推出网络产品、数据库产品、存储产品 
+    setup.py 真难写 似乎从有 Python 打包以来就有了setuptools这个库，你能搜到的教程，涉及打包发布的，都会让你编写那个可怕的setup.py。不知道谁能完全掌握那个东西的写法，我 
     </details> 
 <!-- juejin:END -->
 ### 少数派
