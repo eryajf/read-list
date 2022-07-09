@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何获取安全的国际手机号？](https://www.v2ex.com/t/865174#reply4) | Sat Jul 09 2022 1:53 PM
-- 🤗 [SCF（Serverless）是不是不适合提供 Web 类服务啊](https://www.v2ex.com/t/865171#reply4) | Sat Jul 09 2022 1:36 PM
-- 🎭 [GPL 协议开源项目在被社区完善后发布收费闭源的商业版或转闭源需要为贡献者支付报酬吗？](https://www.v2ex.com/t/865164#reply4) | Sat Jul 09 2022 12:51 PM
-- 🥷 [有没有什么品牌的工控机, 想弄个放在家里当服务器?](https://www.v2ex.com/t/865161#reply0) | Sat Jul 09 2022 12:27 PM
-- 🐵 [多条件的组合查询在程序编写逻辑上是排列组合完成的么？](https://www.v2ex.com/t/865159#reply5) | Sat Jul 09 2022 12:20 PM<!-- v2ex:END -->
+- 🥸 [如何获取安全的国际手机号？](https://www.v2ex.com/t/865174#reply14) | Sat Jul 09 2022 1:53 PM
+- 🤗 [SCF（Serverless）是不是不适合提供 Web 类服务啊](https://www.v2ex.com/t/865171#reply6) | Sat Jul 09 2022 1:36 PM
+- 🎭 [GPL 协议开源项目在被社区完善后发布收费闭源的商业版或转闭源需要为贡献者支付报酬吗？](https://www.v2ex.com/t/865164#reply6) | Sat Jul 09 2022 12:51 PM
+- 🥷 [有没有什么品牌的工控机, 想弄个放在家里当服务器?](https://www.v2ex.com/t/865161#reply1) | Sat Jul 09 2022 12:27 PM
+- 🐵 [多条件的组合查询在程序编写逻辑上是排列组合完成的么？](https://www.v2ex.com/t/865159#reply7) | Sat Jul 09 2022 12:20 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
