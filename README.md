@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [不买了？马斯克单方面宣布终止收购，Twitter：你想得美](http://www.techweb.com.cn/viewpoint/2022-07-09/2897479.shtml) | Sat Jul 09 2022 3:39 AM
-- 👹 [“拿任正非和陈春花编段子”，月入百万](http://www.techweb.com.cn/viewpoint/2022-07-09/2897478.shtml) | Sat Jul 09 2022 3:10 AM
-- 🪜 [餐饮业离复苏还有多远？](http://www.techweb.com.cn/viewpoint/2022-07-09/2897476.shtml) | Sat Jul 09 2022 2:19 AM
-- 🤭 [vivo Y77将于7月11日正式开售：搭载旗舰级80W双芯闪充](http://mo.techweb.com.cn/phone/2022-07-09/2897472.shtml) | Sat Jul 09 2022 1:23 AM
-- 🙉 [不止骁龙8+旗舰芯片！realme真我GT2大师探索版还有神秘大招](http://mo.techweb.com.cn/phone/2022-07-09/2897471.shtml) | Sat Jul 09 2022 1:21 AM<!-- techweb-allnews:END -->
+- 👍 [不止骁龙8+！一加10T核心参数曝光：16GB LPDDR5超大内存 堆料值得期待](http://mo.techweb.com.cn/phone/2022-07-09/2897483.shtml) | Sat Jul 09 2022 8:16 AM
+- 👹 [渲染图曝iQOO 10系列影像细节：全系标配V1+自研芯片](http://mo.techweb.com.cn/phone/2022-07-09/2897482.shtml) | Sat Jul 09 2022 8:15 AM
+- 🪜 [realme GT2大师探索版将首发充电新技术：25分钟充满5000mAh大电池](http://mo.techweb.com.cn/phone/2022-07-09/2897481.shtml) | Sat Jul 09 2022 8:13 AM
+- 🤭 [三星Galaxy Z Fold4/Flip4新配色曝光：期待渲染图效果](http://mo.techweb.com.cn/phone/2022-07-09/2897480.shtml) | Sat Jul 09 2022 7:55 AM
+- 🙉 [不买了？马斯克单方面宣布终止收购，Twitter：你想得美](http://www.techweb.com.cn/viewpoint/2022-07-09/2897479.shtml) | Sat Jul 09 2022 3:39 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
