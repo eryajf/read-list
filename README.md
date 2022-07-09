@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [873. 最长的斐波那契子序列的长度 : 经典序列 DP 运用题](https://juejin.cn/post/7118223846674530335) | Sat Jul 09 2022 4:27 AM 
+- 🤗 [Python 协程的本质？原来也不过如此](https://juejin.cn/post/7118247456810205214) | Sat Jul 09 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 873. 最长的斐波那契子序列的长度 ，难度为 中等。 Tag : 「序列 DP」、「哈希表」、「动态规划」 如果序列 $X_1, X_2, ..., X_n$ 
+    如果在做基于 Python 的网络或者 Web 开发时，对于这个问题曾感到疑惑，这篇文章尝试给一个答案。 0x00 开始之前 首先，本文不是带你浏览源代码，然后对照原始代码给你讲 Python 标准的 
     </details> 
 
-- 🎡 [展会中各显神通的元宇宙；哪有什么实战啊，就是81个Python改🤭；有颜值也有正义Enso互动编程；AI前沿论文 | ShowMeAI资讯日报 #07.09](https://juejin.cn/post/7118220778923327502) | Sat Jul 09 2022 4:16 AM 
+- 🎡 [OpenKruise 源码分析之 ContainerRecreateRequest](https://juejin.cn/post/7118144754742722590) | Fri Jul 08 2022 11:24 PM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 2022-07-09 期，robosuite 机器人学习模块化仿真框架、Enso 视觉&amp;文本的交互式编程、语音增强入门指南、持续学习术语整理清单、4篇前沿论文… 
+    OpenKruise 是基于 CRD 的拓展，包含了很多应用工作负载和运维增强能力，本系列文章会从源 
     </details> 
 
-- 🕯 [14岁懂社会 - 《你没有那么笨》读书笔记](https://juejin.cn/post/7118194977162985503) | Sat Jul 09 2022 2:32 AM 
+- 🕯 [Nginx 部署的虚拟主机如何使用 Let&#39;s Encrypt 来进行加密 https](https://juejin.cn/post/7118127502706376718) | Fri Jul 08 2022 10:11 PM 
     <details><summary>展开描述 ...</summary> 
-    14岁懂社会 - 《你没有那么笨》读书笔记 引言 有点尴尬，这本书零零碎碎看了一部分结果被夹在卖书订单里面一起被寄出去了，不过没多少钱，索性懒得追回了。 
+    HTTPS 是现在网站的标配了，很多服务都是必须使用 https，如果你不使用的话，浏览器可能就不会对你非常友好了。 如果你不想使用商业的 CA 秘钥的话，你可以使用 Let’s Encrypt 来进 
     </details> 
 
-- 🚀 [[自我管理]看问题的几种维度](https://juejin.cn/post/7118053228545048607) | Fri Jul 08 2022 5:28 PM 
+- 🚀 [巨坑系列：Java Bean 转 Map 的那些坑](https://juejin.cn/post/7118073840999071751) | Fri Jul 08 2022 7:10 PM 
     <details><summary>展开描述 ...</summary> 
-    本文想说的不是看待问题的不同角度。 而是看待问题有几个维度。具体是什么意思？ 请听我慢慢道来。 我们有时看问题是一维的 当以一维的视角看待问题时，问题是比较简单的，只有对和错、黑和白、0和1。 
+    一、背景 有些业务场景下需要将 Java Bean 转成 Map 再使用。 本以为很简单场景，但是坑很多。 二、那些坑 2.0 测试对象 父类 2.1 JSON 反序列化了类型丢失 2.1.1 问题复 
     </details> 
 
-- 💪 [多一些时间来思考](https://juejin.cn/post/7118009321924870181) | Fri Jul 08 2022 2:33 PM 
+- 💪 [【设计模式】工厂系列-FactoryMethod，AbstractFactory，Spring IOC](https://juejin.cn/post/7118041634566209572) | Fri Jul 08 2022 4:39 PM 
     <details><summary>展开描述 ...</summary> 
-    不知不觉中，2022 年已经过去了一多半，然而这2022 年的上半年却显得过得很仓促。仓促的不在于工作上的紧张，而是随着时间一分一秒地流走，悄然发现自己的年纪也越来越大。 
+    何为工厂 那为什么有了new之后，还要工厂呢？ 灵活控制生产过程； 权限、日志、管理 ... 下面我就用生产防护用品来举例说明为什么要使用工厂： 任意定制口罩 任意定制生产过程 任意定制产品一族 工厂 
     </details> 
 <!-- juejin:END -->
 ### 少数派
