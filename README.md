@@ -239,29 +239,34 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/74174) | Fri Jul 08 2022 10:08 AM 
+- 👹 [从看热闹到看门道，如何以设计者的角度看世界？](https://sspai.com/post/73962) | Sat Jul 09 2022 8:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;h2&gt;内容导航&lt;/h2&gt;
+&lt;ul&gt;
+    &lt;li&gt;以设计者的视⻆看世界：02:43&lt;/li&gt;
+    &lt;li&gt;美团体，腾讯体等等的思路是什么？：01:04:10&lt;/li&gt;
+    &lt;li&gt;中英文混排的原则是什么？：01:22:17&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/73962&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/269&quot; target=&quot;_blank&quot;&gt;《100 小时后请叫我设计师》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/74174) | Fri Jul 08 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[电影]隐入尘烟、[美剧]终极名单、[美剧]老头子、[电影]掮客、[韩剧]非常律师禹英禑、[美剧]我变美的那夏天第一季、[动画]幽零幻境、[动画]铳动彼岸花、[动画]契约之 ...&lt;a href=&quot;https://sspai.com/post/74174&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [工作党如何做好日常备餐？这是我的经验和食谱分享](https://sspai.com/post/74169) | Fri Jul 08 2022 8:30 AM 
+- 🤭 [工作党如何做好日常备餐？这是我的经验和食谱分享](https://sspai.com/post/74169) | Fri Jul 08 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
     Mealprep是最近几年内兴起的一种生活方式。它是mealpreparation（备餐）的简写，意指提前准备好每顿饭要吃的东西，这样就不用每次都下厨，对日程繁忙的人来说可以减轻压力，同时也能避开不健 ...&lt;a href=&quot;https://sspai.com/post/74169&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [在 Android 的词典里，「通知延后」可能不是你以为的意思](https://sspai.com/prime/story/android-snooze-explained) | Fri Jul 08 2022 7:56 AM 
+- 🥸 [在 Android 的词典里，「通知延后」可能不是你以为的意思](https://sspai.com/prime/story/android-snooze-explained) | Fri Jul 08 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
     通知延后是从 Android 8.0 即加入的功能，但其交互设计和命名经常引发误解。本文分析了这种误解的成因，在此基础上阐释了通知延后的实际含义和适合的使用场景。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/android-snooze-explained&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [iOS 16 Beta 2 &amp; Beta 3 中值得关注的新特性](https://sspai.com/post/74162) | Fri Jul 08 2022 6:30 AM 
+- 🙉 [iOS 16 Beta 2 &amp; Beta 3 中值得关注的新特性](https://sspai.com/post/74162) | Fri Jul 08 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     我梳理了一下 iOS 16 之前的 Beta 2 以及此次更新的 Beta 3 两个开发者预览版中的新增功能，希望可以帮助已经更新到 iOS 16 的小伙伴赶紧用上自己还没发现的新功能。&lt;a href=&quot;https://sspai.com/post/74162&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [为 WSL 配置这些新功能，不用虚拟机也能体验完整 Linux](https://sspai.com/post/74167) | Fri Jul 08 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    WSL 不断迎来了它的功能增强，分别是 WSL2，NVIDIA CUDA on WSL，和 WSLg，它们各自解决了 WSL 在上述场景下不同的开发难题。&lt;a href=&quot;https://sspai.com/post/74167&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
