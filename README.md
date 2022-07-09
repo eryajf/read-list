@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [自动驾驶祛魅：从降维打击到降维求生](http://www.techweb.com.cn/viewpoint/2022-07-08/2897447.shtml) | Fri Jul 08 2022 9:33 AM
-- 👹 [冰柜里容不下第二个钟薛高](http://www.techweb.com.cn/viewpoint/2022-07-08/2897443.shtml) | Fri Jul 08 2022 9:29 AM
-- 🪜 [Pass Automotive Mexico将为特斯拉德州超级工厂生产电动汽车零部件](http://www.techweb.com.cn/world/2022-07-08/2897440.shtml) | Fri Jul 08 2022 8:51 AM
-- 🤭 [苹果创始人乔布斯被正式追授总统自由勋章](http://www.techweb.com.cn/world/2022-07-08/2897438.shtml) | Fri Jul 08 2022 8:20 AM
-- 🙉 [特斯拉将在今年晚些时候向美国非特斯拉电动汽车开放超级充电网络](http://www.techweb.com.cn/world/2022-07-08/2897437.shtml) | Fri Jul 08 2022 8:04 AM<!-- techweb-allnews:END -->
+- 👍 [餐饮业离复苏还有多远？](http://www.techweb.com.cn/viewpoint/2022-07-09/2897476.shtml) | Sat Jul 09 2022 2:19 AM
+- 👹 [vivo Y77将于7月11日正式开售：搭载旗舰级80W双芯闪充](http://mo.techweb.com.cn/phone/2022-07-09/2897472.shtml) | Sat Jul 09 2022 1:23 AM
+- 🪜 [不止骁龙8+旗舰芯片！realme真我GT2大师探索版还有神秘大招](http://mo.techweb.com.cn/phone/2022-07-09/2897471.shtml) | Sat Jul 09 2022 1:21 AM
+- 🤭 [一加10T发布时间曝光：搭载骁龙8+旗舰平台 跑分破113万](http://mo.techweb.com.cn/phone/2022-07-09/2897470.shtml) | Sat Jul 09 2022 1:19 AM
+- 🙉 [iQOO 10系列外观公布：依旧提供传奇版/赛道版双版本](http://mo.techweb.com.cn/phone/2022-07-09/2897469.shtml) | Sat Jul 09 2022 1:17 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
