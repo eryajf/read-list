@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [PVE 测试不信任软件的虚拟机，装哪些驱动不会影响安全性（不会导致降低虚拟机逃逸的难度）？](https://www.v2ex.com/t/865102#reply0) | Sat Jul 09 2022 5:48 AM
-- 🤗 [刚接触 go，了解到切换协程仅需保存 3 个寄存器，那么剩余的怎么办呢，比如 ecx， eax 等](https://www.v2ex.com/t/865099#reply1) | Sat Jul 09 2022 5:47 AM
-- 🎭 [JetBrains 续费 3 年的话 回退版本是哪个版本](https://www.v2ex.com/t/865093#reply1) | Sat Jul 09 2022 4:44 AM
-- 🥷 [使用 pve，为何 windows 的虚拟机没开任何软件，内存使用率就 88%了呢](https://www.v2ex.com/t/865073#reply4) | Sat Jul 09 2022 3:02 AM
-- 🐵 [新成为 helmfile 项目核心维护者，声明式管理 helm chart，欢迎一起参与](https://www.v2ex.com/t/865072#reply2) | Sat Jul 09 2022 3:00 AM<!-- v2ex:END -->
+- 🥸 [学习周刊-总第 61 期-有意思的博客主题与 ETCD 管理后台](https://www.v2ex.com/t/865108#reply0) | Sat Jul 09 2022 6:57 AM
+- 🤗 [PVE 测试不信任软件的虚拟机，装哪些驱动不会影响安全性（不会导致降低虚拟机逃逸的难度）？](https://www.v2ex.com/t/865102#reply0) | Sat Jul 09 2022 5:48 AM
+- 🎭 [刚接触 go，了解到切换协程仅需保存 3 个寄存器，那么剩余的怎么办呢，比如 ecx， eax 等](https://www.v2ex.com/t/865099#reply3) | Sat Jul 09 2022 5:47 AM
+- 🥷 [JetBrains 续费 3 年的话 回退版本是哪个版本](https://www.v2ex.com/t/865093#reply3) | Sat Jul 09 2022 4:44 AM
+- 🐵 [使用 pve，为何 windows 的虚拟机没开任何软件，内存使用率就 88%了呢](https://www.v2ex.com/t/865073#reply4) | Sat Jul 09 2022 3:02 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
