@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [使用 pve，为何 windows 的虚拟机没开任何软件，内存使用率就 88%了呢](https://www.v2ex.com/t/865073#reply0) | Sat Jul 09 2022 3:02 AM
+- 🥸 [使用 pve，为何 windows 的虚拟机没开任何软件，内存使用率就 88%了呢](https://www.v2ex.com/t/865073#reply4) | Sat Jul 09 2022 3:02 AM
 - 🤗 [新成为 helmfile 项目核心维护者，声明式管理 helm chart，欢迎一起参与](https://www.v2ex.com/t/865072#reply0) | Sat Jul 09 2022 3:00 AM
 - 🎭 [这个报错我重新安装了模块还是报错什么原因?](https://www.v2ex.com/t/865071#reply0) | Sat Jul 09 2022 2:58 AM
 - 🥷 [在云主机上折腾 k3s，不容易啊。我在服务器上是这么设置代理的](https://www.v2ex.com/t/865061#reply2) | Sat Jul 09 2022 2:09 AM
-- 🐵 [写了一篇 KCP 的协议分析, 求老哥们点 star](https://www.v2ex.com/t/865059#reply2) | Sat Jul 09 2022 2:05 AM<!-- v2ex:END -->
+- 🐵 [写了一篇 KCP 的协议分析, 求老哥们点 star](https://www.v2ex.com/t/865059#reply6) | Sat Jul 09 2022 2:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
