@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python 协程的本质？原来也不过如此](https://juejin.cn/post/7118247456810205214) | Sat Jul 09 2022 5:56 AM 
+- 🤗 [一个菜鸟程序员的 “三年” 生涯](https://juejin.cn/post/7118264261830246430) | Sat Jul 09 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-    如果在做基于 Python 的网络或者 Web 开发时，对于这个问题曾感到疑惑，这篇文章尝试给一个答案。 0x00 开始之前 首先，本文不是带你浏览源代码，然后对照原始代码给你讲 Python 标准的 
+    前言 时光荏苒，2022年的半载光阴已一去不返；岁月悠悠，回头去看，才发现时间走的如此之快，从实习到现在已是三年半有余。 1.开始 我是一个90后，16年高中毕业，一个体考生，因为体育失误，未能考上（ 
     </details> 
 
-- 🎡 [OpenKruise 源码分析之 ContainerRecreateRequest](https://juejin.cn/post/7118144754742722590) | Fri Jul 08 2022 11:24 PM 
+- 🎡 [Gradle插件的使用](https://juejin.cn/post/7118260546440757279) | Sat Jul 09 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-    OpenKruise 是基于 CRD 的拓展，包含了很多应用工作负载和运维增强能力，本系列文章会从源 
+    Gradle框架只是定义了通用的构建流程，并没有实现具体构建任务，Gradle好比一个抽象类，Java构建，c++构建，Android构建则是一个个子类实现，交给开发者自行定义。 
     </details> 
 
-- 🕯 [Nginx 部署的虚拟主机如何使用 Let&#39;s Encrypt 来进行加密 https](https://juejin.cn/post/7118127502706376718) | Fri Jul 08 2022 10:11 PM 
+- 🕯 [Python爬虫如何加速？异步、协程还是多进程？分享一个常用做法，萌新也能看懂](https://juejin.cn/post/7118257773283901448) | Sat Jul 09 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-    HTTPS 是现在网站的标配了，很多服务都是必须使用 https，如果你不使用的话，浏览器可能就不会对你非常友好了。 如果你不想使用商业的 CA 秘钥的话，你可以使用 Let’s Encrypt 来进 
+    最近在知识星球：Python读者圈，遇到读者提问：Python爬虫如何加速？ 这个问题涉及到一个爬虫里，甚至是整个Python编程里都非常重要的问题： 今天我们一起来看一下常用的解决方案。 
     </details> 
 
-- 🚀 [巨坑系列：Java Bean 转 Map 的那些坑](https://juejin.cn/post/7118073840999071751) | Fri Jul 08 2022 7:10 PM 
+- 🚀 [Swift中的async/await关键字](https://juejin.cn/post/7118256277045641223) | Sat Jul 09 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-    一、背景 有些业务场景下需要将 Java Bean 转成 Map 再使用。 本以为很简单场景，但是坑很多。 二、那些坑 2.0 测试对象 父类 2.1 JSON 反序列化了类型丢失 2.1.1 问题复 
+    在日常项目开发中，异步从后台等地方获取数据，又或者图片的解码渲染是必不可少的一个环节，这些操作我们不可能全部让主线程去做完，会导致app的卡顿，从而影响用户的体验。 
     </details> 
 
-- 💪 [【设计模式】工厂系列-FactoryMethod，AbstractFactory，Spring IOC](https://juejin.cn/post/7118041634566209572) | Fri Jul 08 2022 4:39 PM 
+- 💪 [!+tab快捷键“失灵”？，vscode自定义html快捷模板](https://juejin.cn/post/7118037161084977183) | Fri Jul 08 2022 4:21 PM 
     <details><summary>展开描述 ...</summary> 
-    何为工厂 那为什么有了new之后，还要工厂呢？ 灵活控制生产过程； 权限、日志、管理 ... 下面我就用生产防护用品来举例说明为什么要使用工厂： 任意定制口罩 任意定制生产过程 任意定制产品一族 工厂 
+    解决!+tab无法生成html快捷模板的问题，自定义html快捷键和生成模板的内容，能够做到更加自由，便捷，有效的创建快捷模板 
     </details> 
 <!-- juejin:END -->
 ### 少数派
