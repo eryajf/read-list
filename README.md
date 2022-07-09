@@ -203,10 +203,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [Ubuntu Server 22.04 和 iptables/nftables](https://www.v2ex.com/t/865122#reply1) | Sat Jul 09 2022 8:00 AM
-- 🤗 [请教一个问题，一个 go1.17 的库要怎么测试泛型是否正常工作？](https://www.v2ex.com/t/865118#reply6) | Sat Jul 09 2022 7:53 AM
+- 🤗 [请教一个问题，一个 go1.17 的库要怎么测试泛型是否正常工作？](https://www.v2ex.com/t/865118#reply10) | Sat Jul 09 2022 7:53 AM
 - 🎭 [请教下 macOS 12.4 为什么会同时存在一款播放器的多个版本](https://www.v2ex.com/t/865115#reply2) | Sat Jul 09 2022 7:38 AM
 - 🥷 [学习周刊-总第 61 期-有意思的博客主题与 ETCD 管理后台](https://www.v2ex.com/t/865108#reply0) | Sat Jul 09 2022 6:57 AM
-- 🐵 [PVE 测试不信任软件的虚拟机，装哪些驱动不会影响安全性（不会导致降低虚拟机逃逸的难度）？](https://www.v2ex.com/t/865102#reply1) | Sat Jul 09 2022 5:48 AM<!-- v2ex:END -->
+- 🐵 [PVE 测试不信任软件的虚拟机，装哪些驱动不会影响安全性（不会导致降低虚拟机逃逸的难度）？](https://www.v2ex.com/t/865102#reply2) | Sat Jul 09 2022 5:48 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
