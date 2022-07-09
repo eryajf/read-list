@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [列表如何找出并修正“噪点”数据](https://www.v2ex.com/t/865048#reply4) | Fri Jul 08 2022 11:29 PM
-- 🤗 [最近面试遇到的装逼面试官](https://www.v2ex.com/t/865045#reply20) | Fri Jul 08 2022 6:52 PM
-- 🎭 [睡不着的在线求赐教～疑似发现某集团邮箱（部分员工账户）被不法分子利用](https://www.v2ex.com/t/865044#reply2) | Fri Jul 08 2022 6:17 PM
-- 🥷 [第三次吐槽 Win 11 的垃圾触摸键盘, 顺便分享我的缓解方案, 对 Win 10 也有另外的疗效](https://www.v2ex.com/t/865041#reply0) | Fri Jul 08 2022 5:47 PM
-- 🐵 [Python 中的类和函数的区别是什么？](https://www.v2ex.com/t/865037#reply2) | Fri Jul 08 2022 5:02 PM<!-- v2ex:END -->
+- 🥸 [使用 pve，为何 windows 的虚拟机没开任何软件，内存使用率就 88%了呢](https://www.v2ex.com/t/865073#reply0) | Sat Jul 09 2022 3:02 AM
+- 🤗 [新成为 helmfile 项目核心维护者，声明式管理 helm chart，欢迎一起参与](https://www.v2ex.com/t/865072#reply0) | Sat Jul 09 2022 3:00 AM
+- 🎭 [这个报错我重新安装了模块还是报错什么原因?](https://www.v2ex.com/t/865071#reply0) | Sat Jul 09 2022 2:58 AM
+- 🥷 [在云主机上折腾 k3s，不容易啊。我在服务器上是这么设置代理的](https://www.v2ex.com/t/865061#reply2) | Sat Jul 09 2022 2:09 AM
+- 🐵 [写了一篇 KCP 的协议分析, 求老哥们点 star](https://www.v2ex.com/t/865059#reply2) | Sat Jul 09 2022 2:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
