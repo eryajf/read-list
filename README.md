@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750433) | Fri Jul 08 2022 12:27 AM
-- 🐻 [《梦华录》赵盼儿北上撕渣男走的哪条路？](http://daily.zhihu.com/story/9750411) | Fri Jul 08 2022 12:27 AM
-- 🌏 [有哪些受游戏影响很深的漫画？体现在什么方面？](http://daily.zhihu.com/story/9750416) | Fri Jul 08 2022 12:27 AM
-- 🕴 [《三体》中有哪些设定已有研究进展，可能会在未来多少年成真？](http://daily.zhihu.com/story/9750426) | Fri Jul 08 2022 12:27 AM
-- 🌮 [体育史上有哪些令人痛心的伤病？](http://daily.zhihu.com/story/9750432) | Fri Jul 08 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [《消失的爱人》中为什么艾米没有报复把她钱抢走的那对年轻人？](http://daily.zhihu.com/story/9750456) | Sat Jul 09 2022 12:27 AM
+- 🐻 [科学家发现刺激头发生长分子，这一发现具有哪些意义？](http://daily.zhihu.com/story/9750462) | Sat Jul 09 2022 12:27 AM
+- 🌏 [有哪些关于饮料的冷知识？](http://daily.zhihu.com/story/9750449) | Sat Jul 09 2022 12:27 AM
+- 🕴 [作为一个热爱旅行的人，你觉得你旅行中最大的快乐是什么？](http://daily.zhihu.com/story/9750447) | Sat Jul 09 2022 12:27 AM
+- 🌮 [中国科学家确认 5.18 亿年前的云南虫是最原始脊椎动物，这一发现具有哪些意义？](http://daily.zhihu.com/story/9750446) | Sat Jul 09 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
