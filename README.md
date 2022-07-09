@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [餐饮业离复苏还有多远？](http://www.techweb.com.cn/viewpoint/2022-07-09/2897476.shtml) | Sat Jul 09 2022 2:19 AM
-- 👹 [vivo Y77将于7月11日正式开售：搭载旗舰级80W双芯闪充](http://mo.techweb.com.cn/phone/2022-07-09/2897472.shtml) | Sat Jul 09 2022 1:23 AM
-- 🪜 [不止骁龙8+旗舰芯片！realme真我GT2大师探索版还有神秘大招](http://mo.techweb.com.cn/phone/2022-07-09/2897471.shtml) | Sat Jul 09 2022 1:21 AM
-- 🤭 [一加10T发布时间曝光：搭载骁龙8+旗舰平台 跑分破113万](http://mo.techweb.com.cn/phone/2022-07-09/2897470.shtml) | Sat Jul 09 2022 1:19 AM
-- 🙉 [iQOO 10系列外观公布：依旧提供传奇版/赛道版双版本](http://mo.techweb.com.cn/phone/2022-07-09/2897469.shtml) | Sat Jul 09 2022 1:17 AM<!-- techweb-allnews:END -->
+- 👍 [不买了？马斯克单方面宣布终止收购，Twitter：你想得美](http://www.techweb.com.cn/viewpoint/2022-07-09/2897479.shtml) | Sat Jul 09 2022 3:39 AM
+- 👹 [“拿任正非和陈春花编段子”，月入百万](http://www.techweb.com.cn/viewpoint/2022-07-09/2897478.shtml) | Sat Jul 09 2022 3:10 AM
+- 🪜 [餐饮业离复苏还有多远？](http://www.techweb.com.cn/viewpoint/2022-07-09/2897476.shtml) | Sat Jul 09 2022 2:19 AM
+- 🤭 [vivo Y77将于7月11日正式开售：搭载旗舰级80W双芯闪充](http://mo.techweb.com.cn/phone/2022-07-09/2897472.shtml) | Sat Jul 09 2022 1:23 AM
+- 🙉 [不止骁龙8+旗舰芯片！realme真我GT2大师探索版还有神秘大招](http://mo.techweb.com.cn/phone/2022-07-09/2897471.shtml) | Sat Jul 09 2022 1:21 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
