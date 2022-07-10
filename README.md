@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [国外程序员工作的代价有多大？](https://www.v2ex.com/t/865233#reply22) | Sun Jul 10 2022 4:41 AM
-- 🤗 [关于 TrueNAS Scale 安装 nastool 的权限问题求助](https://www.v2ex.com/t/865229#reply0) | Sun Jul 10 2022 3:51 AM
-- 🎭 [现在互联网公司扫描用户信息吃香太难看了， 端到端加密是否合法？](https://www.v2ex.com/t/865227#reply71) | Sun Jul 10 2022 3:48 AM
-- 🥷 [请教下大佬们， swiftUI 菜单栏应用 onHover 事件触发问题](https://www.v2ex.com/t/865223#reply4) | Sun Jul 10 2022 2:45 AM
-- 🐵 [自己制作了一套 React18+Nestjs 的全栈开发教程](https://www.v2ex.com/t/865220#reply6) | Sun Jul 10 2022 2:40 AM<!-- v2ex:END -->
+- 🥸 [微软发布 VS Code Server 了~ 目前是 private preview 阶段](https://www.v2ex.com/t/865250#reply0) | Sun Jul 10 2022 7:15 AM
+- 🤗 [国外程序员工作的代价有多大？](https://www.v2ex.com/t/865233#reply27) | Sun Jul 10 2022 4:41 AM
+- 🎭 [关于 TrueNAS Scale 安装 nastool 的权限问题求助](https://www.v2ex.com/t/865229#reply0) | Sun Jul 10 2022 3:51 AM
+- 🥷 [现在互联网公司扫描用户信息吃香太难看了， 端到端加密是否合法？](https://www.v2ex.com/t/865227#reply79) | Sun Jul 10 2022 3:48 AM
+- 🐵 [请教下大佬们， swiftUI 菜单栏应用 onHover 事件触发问题](https://www.v2ex.com/t/865223#reply5) | Sun Jul 10 2022 2:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
