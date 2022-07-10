@@ -273,11 +273,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [《消失的爱人》中为什么艾米没有报复把她钱抢走的那对年轻人？](http://daily.zhihu.com/story/9750456) | Sat Jul 09 2022 12:27 AM
-- 🐻 [科学家发现刺激头发生长分子，这一发现具有哪些意义？](http://daily.zhihu.com/story/9750462) | Sat Jul 09 2022 12:27 AM
-- 🌏 [有哪些关于饮料的冷知识？](http://daily.zhihu.com/story/9750449) | Sat Jul 09 2022 12:27 AM
-- 🕴 [作为一个热爱旅行的人，你觉得你旅行中最大的快乐是什么？](http://daily.zhihu.com/story/9750447) | Sat Jul 09 2022 12:27 AM
-- 🌮 [中国科学家确认 5.18 亿年前的云南虫是最原始脊椎动物，这一发现具有哪些意义？](http://daily.zhihu.com/story/9750446) | Sat Jul 09 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [小事 · 高三复读](http://daily.zhihu.com/story/9750464) | Sun Jul 10 2022 12:27 AM
+- 🐻 [人力资源管理的底层逻辑是什么？其最核心的关切又是什么？](http://daily.zhihu.com/story/9750466) | Sun Jul 10 2022 12:27 AM
+- 🌏 [古代人结婚有三金五金的说法吗？与现在相比有什么不同？](http://daily.zhihu.com/story/9750469) | Sun Jul 10 2022 12:27 AM
+- 🕴 [有哪些贝叶斯推理入门的书籍？](http://daily.zhihu.com/story/9750479) | Sun Jul 10 2022 12:27 AM
+- 🌮 [如何通过小细节改变外貌？](http://daily.zhihu.com/story/9750486) | Sun Jul 10 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
