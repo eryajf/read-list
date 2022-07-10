@@ -216,24 +216,24 @@
     题目描述 这是 LeetCode 上的 741. 摘樱桃 ，难度为 困难。 Tag : 「线性 DP」 一个$N \times N$ 的网格&lpar; grid&rpar; 代表了一块樱桃地，每个格子由以下三种数字的一 
     </details> 
 
-- 🎡 [Block原理（一）](https://juejin.cn/post/7118386172414328868) | Sat Jul 09 2022 2:54 PM 
+- 🎡 [TypeScript -- 泛型](https://juejin.cn/post/7118389278509367327) | Sat Jul 09 2022 3:07 PM 
+    <details><summary>展开描述 ...</summary> 
+    泛型在保证类型安全&lpar;不丢失类型信息&rpar;的同时，可以让函数等与多种不同的类型一起工作，灵活可复用 其本质： 参数化类型，通俗的讲，就是所操作的数据类型被指定为一个参数，这种参数类型可以用在类、接口、函数 
+    </details> 
+
+- 🕯 [前端算法小结 | 链表篇](https://juejin.cn/post/7118386546008391711) | Sat Jul 09 2022 2:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    这是本系列小结的第三篇，今天来讲讲数据结构中的链表。链表常常用来与数组作比较。它与数组相似，但是最大的区别在于它是一种非连续的存储结构。数组在内存中一般是占据一段连续的存储空间，而链表中的节点则是分散 
+    </details> 
+
+- 🚀 [Block原理（一）](https://juejin.cn/post/7118386172414328868) | Sat Jul 09 2022 2:54 PM 
     <details><summary>展开描述 ...</summary> 
     结合clang编译中间c++代码，block会创建两层结构 BlockCreate 结构 Block结构属于BlockCreate的成员 通过BlockCreate构造传参实例化BlockCreate 
     </details> 
 
-- 🕯 [ARouter原理解析分享](https://juejin.cn/post/7118385586850758686) | Sat Jul 09 2022 2:52 PM 
+- 💪 [ARouter原理解析分享](https://juejin.cn/post/7118385586850758686) | Sat Jul 09 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
     炎炎夏日，不知道大家的周末会是如何安排。本文将给大家带来的分享是ARouter的的原理介绍，通过了解它的原理，我们可以知道它是如何支持组件化和不互相依赖的模块间进行调用或者页面的跳转。 
-    </details> 
-
-- 🚀 [Redux 工具箱之数据请求入门](https://juejin.cn/post/7118382894388609055) | Sat Jul 09 2022 2:41 PM 
-    <details><summary>展开描述 ...</summary> 
-    @reduxjs/toolkit 对 redux 封装了很多实用 api，比如 createSlice， 创建一个切片，既可以避免写很多的样板代码（代价：学习/时间）。其中 Toolkit 对数据请求 
-    </details> 
-
-- 💪 [记录Hadoop集群配置](https://juejin.cn/post/7118382115032399879) | Sat Jul 09 2022 2:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    Hadoop集群配置过程记录，熟悉Linux操作系统的配置与命令的使用。记录集群配置过程中的错误与解决方法。理解Hadoop集群相关组件的知识。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
