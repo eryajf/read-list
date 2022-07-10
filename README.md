@@ -221,14 +221,14 @@
     本文是示例主要来自于官方的实例代码，稍有改动；本文主要的作用是查看实例代码并查看对应实例代码的效果，不需要运行项目。 
     </details> 
 
-- 🕯 [全解析异步编程的6种方法](https://juejin.cn/post/7118557563938930702) | Sun Jul 10 2022 1:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    在JavaScript中，异步编程的方法一直在改变，本文通过一个形象的例子，讲解了异步编程的发展历史和 6 种异步编程方法，实践出真知。 
-    </details> 
-
-- 🚀 [【大话项目 】不懂开发可以带项目吗？](https://juejin.cn/post/7118412757103296543) | Sat Jul 09 2022 4:38 PM 
+- 🕯 [【大话项目 】不懂开发可以带项目吗？](https://juejin.cn/post/7118412757103296543) | Sat Jul 09 2022 4:38 PM 
     <details><summary>展开描述 ...</summary> 
     不了解汽车的详细构造，不耽误你成为一名优秀的司机。原来是自己格局小了。不对，好像是不耽误我开车，但现在是TM让我去造车啊！ 
+    </details> 
+
+- 🚀 [Linux 角度看binder原理（一）](https://juejin.cn/post/7118368988005924900) | Sat Jul 09 2022 1:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    众所周知binder是Android极具特色的IPC方式，也可以说是Android系统中最重要的部分。Binder系统的基石则是Binder驱动。接下来就看下Binder驱动是怎么在底层提供支持的 
     </details> 
 
 - 💪 [那些年我在大厂学到的工程思维（二）：复盘思维](https://juejin.cn/post/7118359860382531620) | Sat Jul 09 2022 1:18 PM 
