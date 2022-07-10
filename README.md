@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vue3 emoji 我的第一款vue3组件 组件的发布和制作感想](https://juejin.cn/post/7118638165753577486) | Sun Jul 10 2022 7:13 AM 
+- 🤗 [Go语言爬虫+正则简单使用](https://juejin.cn/post/7118691494415826975) | Sun Jul 10 2022 10:43 AM 
     <details><summary>展开描述 ...</summary> 
-    vue3-emoji vue3emoji是一款小巧的emoji选择组件，支持了自定义板块、自定义尺寸、自定义主题等各种功能，你可以通过配置来改造出属于你的emoji选择组件，此外。vue3emoji也 
+    前言 可能很多人都觉得爬虫是Python的专属技能，但其实使用Go语言可能会实现更加好的效果 爬虫是什么 在开始实现爬虫之前我们必须明白一件事，那就是爬虫是什么。网络爬虫（又称为网页蜘蛛，网络机器人， 
     </details> 
 
-- 🎡 [我的字帖生成器开源啦！](https://juejin.cn/post/7118635049779462157) | Sun Jul 10 2022 6:59 AM 
+- 🎡 [Spring JdbcTemplate&amp;声明式事务](https://juejin.cn/post/7118692276259258405) | Sun Jul 10 2022 10:42 AM 
     <details><summary>展开描述 ...</summary> 
-    字帖生成器，-支持定义字帖表格样式。田字格、横线、边框多种样式可自定义搭配使用。支持扩展自定义字帖单元格样式。支持拼音字帖。自定义使用的字体。文字过多时，可自动分页生成多页字 
+    本文已参与「新人创作礼」活动,一起开启掘金创作之路。 JdbcTemplate基本使用 概述 JdbcTemplate是spring框架中提供的一个对象，是对原始繁琐的Jdbc API对象的简单封装。 
     </details> 
 
-- 🕯 [操作系统中内存怎么管理起来的？](https://juejin.cn/post/7118634557041508383) | Sun Jul 10 2022 6:58 AM 
+- 🕯 [强一致性分布式事务XA 浅析](https://juejin.cn/post/7118689819923841061) | Sun Jul 10 2022 10:33 AM 
     <details><summary>展开描述 ...</summary> 
-    深入理解内存的设计原理，为内存异常导致的服务失败的问题解决奠定基础。结合“酒桶倒酒到酒杯”的过程，借用这一实例场景的类比，将内存管理原理更加具象地描述和呈现，加深对内存原理的认识。 
+    分布式事务：分布式条件下,多个节点操作的整体事务一致性。 分布式事务中的两大基本理论：CAP 理论 与 Base 理论。 分布式事务解决方案可以分为： 强一致性分布式事务解决方案：基于 CA 
     </details> 
 
-- 🚀 [react 八千字长文深入了解react合成事件底层原理，原生事件中阻止冒泡是否会阻塞合成事件？](https://juejin.cn/post/7118626759162986526) | Sun Jul 10 2022 6:29 AM 
+- 🚀 [我要去哪里？- 写在我的 30 岁](https://juejin.cn/post/7118679740948430856) | Sun Jul 10 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    壹 ❀ 引 在前面两篇文章中，我们花了较大的篇幅介绍react的setState方法，在介绍setState同步异步时提到，在react合成事件中react对于this.state更新都是异步，但在原 
+    最近刚过了 30 岁生日，人生已到而立之年。 近几年疫情、房价、裁员、社会环境、家庭，让我越来越焦虑，每天脑袋都停不下来，一直在思考「我是谁？我要去哪里？我在干什么？」。 
     </details> 
 
-- 💪 [v-model与.sync修饰符的区别](https://juejin.cn/post/7118624877430439972) | Sun Jul 10 2022 6:22 AM 
+- 💪 [SpringBoot开发 - 什么是热部署和热加载？devtool的原理是什么？](https://juejin.cn/post/7118676133318492167) | Sun Jul 10 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
-    在日常开发的过程中，v-model指令是经常用到的，一般来说v-model指令在表单及元素上创建双向数据绑定，但v-model本质上是语法糖。提到语法糖这里就不得不提到另一个与v-model有相似功能 
+    SpringBoot开发 - 什么是热部署和热加载？devtool的原理是什么？ 准备知识点 什么是热部署和热加载？ 什么是LiveLoad？ 配置devtools实现热部署 POM配置 IDEA配置 
     </details> 
 <!-- juejin:END -->
 ### 少数派
