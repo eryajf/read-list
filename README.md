@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [吐槽：到底什么是“优雅”？ PHP 的新名词真是含义莫名……](https://www.v2ex.com/t/865309#reply4) | Sun Jul 10 2022 2:07 PM
-- 🤗 [账户验证真的上头](https://www.v2ex.com/t/865306#reply0) | Sun Jul 10 2022 1:56 PM
-- 🎭 [夏天室外用手机烫的吓人怎么办](https://www.v2ex.com/t/865300#reply11) | Sun Jul 10 2022 1:20 PM
-- 🥷 [trzsz.js 发布了新版本，浏览器和 tabby 都支持拖目录直接上传了。](https://www.v2ex.com/t/865291#reply2) | Sun Jul 10 2022 11:45 AM
-- 🐵 [请教个问题，将 excel 中的数据生成折线图并保存在 excel 中，要求手动打开 excel 时还可以操作该折线图](https://www.v2ex.com/t/865284#reply2) | Sun Jul 10 2022 10:57 AM<!-- v2ex:END -->
+- 🥸 [想问下前端业务做多了，怎么提升自己技术](https://www.v2ex.com/t/865318#reply0) | Sun Jul 10 2022 3:07 PM
+- 🤗 [请问 VS Code 深色主题背景色如何设置为纯色？](https://www.v2ex.com/t/865313#reply0) | Sun Jul 10 2022 2:30 PM
+- 🎭 [Electron 的打包体积有点大](https://www.v2ex.com/t/865312#reply5) | Sun Jul 10 2022 2:22 PM
+- 🥷 [吐槽：到底什么是“优雅”？ PHP 的新名词真是含义莫名……](https://www.v2ex.com/t/865309#reply12) | Sun Jul 10 2022 2:07 PM
+- 🐵 [账户验证真的上头](https://www.v2ex.com/t/865306#reply0) | Sun Jul 10 2022 1:56 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
