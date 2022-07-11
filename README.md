@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一文读懂Python垃圾回收机制【收藏版】](https://juejin.cn/post/7119018622906957854) | Mon Jul 11 2022 7:49 AM 
+- 🤗 [JavaScript！震惊你，只需一行代码！](https://juejin.cn/post/7119031101879746596) | Mon Jul 11 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
-    得益于Python的自动垃圾回收机制，在Python中创建对象时无须手动释放。这对开发者非常友好，让开发者无须关注低层内存管理。但如果对其垃圾回收机制不了解，很多时候写出的Python代码会非常低效。 
+    前些年的段子里，总有一些主考官的思想格局打不开，抛出这样的问题：让我在10秒钟内记住你。于是就有了，被打耳光的，被亲的，被扒衣服的，摔手机的······但作为程序员，要怎么用代码震惊的别人呢？ 
     </details> 
 
-- 🎡 [SpringBoot 三大开发工具，你都用过么？](https://juejin.cn/post/7119009010371526692) | Mon Jul 11 2022 7:10 AM 
+- 🎡 [OC底层原理（08）Runtime&lpar;二&rpar;imp慢速查找](https://juejin.cn/post/7119028553945743397) | Mon Jul 11 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    SpringBoot目前的使用已经很普遍了，实际的项目中，我们需要集成各种的插件支持，不仅如此，还有很多可能我们平时不知道，但是很方便的操作。 
+    在上一篇文章 底层原理（07）中，分析了方法的快速查找流程即缓存查找，如果缓存中没有找到就会。。。下面就会进入方法慢速查找流程。。。 一. __objc_msgSend_uncached 在当前类中， 
     </details> 
 
-- 🕯 [通过 docker 高效学习 nginx 配置，并附全部配置文件](https://juejin.cn/post/7119005626914570270) | Mon Jul 11 2022 6:57 AM 
+- 🕯 [利用 UICollectionView 实现图片浏览效果](https://juejin.cn/post/7119028552263008293) | Mon Jul 11 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    三年经验的前端或多或少与 nginx 配置打过交道。 nginx 的重要性不言而喻。 本篇文章以前端的视角，介绍下 nginx 的常见配置，并通过 docker 的方式学习 nginx，这保证所有示例 
+    废话开篇：利用 UICollectionView 简单实现一个图片浏览效果。 一、效果展示 二、实现思路 1、封装 UICollectionViewLayout ，实现内部 UICollectionV 
     </details> 
 
-- 🚀 [罗永浩新公司准备招人，AI写一篇代码文档只需2步，如何优雅地乱搞Python代码、一大波数学资料来袭！AI前沿论文 | ShowMeAI资讯日报 #07.11](https://juejin.cn/post/7119003571885965325) | Mon Jul 11 2022 6:50 AM 
+- 🚀 [兼职PIXI时入3K？动画特效就是这么给力！（全注释，附源码）| 猿创营](https://juejin.cn/post/7119025009523163167) | Mon Jul 11 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 2022-07-11 期，罗永浩官宣新创业公司『Thine Red Line』、使用AI辅助生成代码文档、Python 代码混淆工具、杜克大学『数据科学数学技能』、前沿论文 
+    很爽很好用的PIXI，贼好学，我只用了一个小时！！！以前一直做一些表格什么的，很少接触到动效！解除了才知道这么简单！谢谢大帅老师！！ 
     </details> 
 
-- 💪 [Ocr小工具（文本识别）](https://juejin.cn/post/7118998133815640071) | Mon Jul 11 2022 6:29 AM 
+- 💪 [Vue接入hls/m3u8的直播视频](https://juejin.cn/post/7119024672569557029) | Mon Jul 11 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-    用Winform写了款简洁版的离线版Ocr文本识别小工具Demo，比较简陋，仅有基础功能和简陋的页面 
+    近做了一个后台系统，需要调取工厂监控视频流显示在前端的页面上，其中遇到了一些坑，在这里做个记录，希望对前端小伙伴有所帮助吧！废话不多说了，直接开搞 
     </details> 
 <!-- juejin:END -->
 ### 少数派
