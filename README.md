@@ -273,11 +273,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [小事 · 高三复读](http://daily.zhihu.com/story/9750464) | Sun Jul 10 2022 12:27 AM
-- 🐻 [人力资源管理的底层逻辑是什么？其最核心的关切又是什么？](http://daily.zhihu.com/story/9750466) | Sun Jul 10 2022 12:27 AM
-- 🌏 [古代人结婚有三金五金的说法吗？与现在相比有什么不同？](http://daily.zhihu.com/story/9750469) | Sun Jul 10 2022 12:27 AM
-- 🕴 [有哪些贝叶斯推理入门的书籍？](http://daily.zhihu.com/story/9750479) | Sun Jul 10 2022 12:27 AM
-- 🌮 [如何通过小细节改变外貌？](http://daily.zhihu.com/story/9750486) | Sun Jul 10 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750533) | Mon Jul 11 2022 12:27 AM
+- 🐻 [为什么有些饮料能解渴，有些却越喝嗓子越干，是什么影响了饮料「解渴」的效果？](http://daily.zhihu.com/story/9750499) | Mon Jul 11 2022 12:27 AM
+- 🌏 [《风骚律师》系列美剧给你印象最深的一个镜头是什么？ - 知乎](http://daily.zhihu.com/story/9750505) | Mon Jul 11 2022 12:27 AM
+- 🕴 [如何煮出好吃的溏心蛋？](http://daily.zhihu.com/story/9750506) | Mon Jul 11 2022 12:27 AM
+- 🌮 [「中国复眼」开建，可实现千万公里外小行星探测成像，将对观测工作带来哪些帮助？](http://daily.zhihu.com/story/9750516) | Mon Jul 11 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
