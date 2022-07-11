@@ -282,11 +282,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [腾讯与梅赛德斯-奔驰达成合作 将建立自动驾驶联合实验室](http://www.techweb.com.cn/it/2022-07-11/2897625.shtml) | Mon Jul 11 2022 3:43 AM
-- 👹 [因专利纠纷 苹果5G iPhone和iPad在哥伦比亚被禁售](http://www.techweb.com.cn/world/2022-07-11/2897614.shtml) | Mon Jul 11 2022 2:56 AM
-- 🪜 [爆料人士称iPhone 14将在9月13日发布 距今还有64天](http://www.techweb.com.cn/world/2022-07-11/2897606.shtml) | Mon Jul 11 2022 2:27 AM
-- 🤭 [造车与不造车 “两个华为”的博弈](http://www.techweb.com.cn/viewpoint/2022-07-11/2897602.shtml) | Mon Jul 11 2022 2:21 AM
-- 🙉 [史玉柱谈为什么做征途：因为陈天桥把我游戏账号封了](http://www.techweb.com.cn/it/2022-07-11/2897601.shtml) | Mon Jul 11 2022 2:19 AM<!-- techweb-allnews:END -->
+- 👍 [徐翔妻子看空天齐锂业：后者盘中跌停 股民炸锅](http://www.techweb.com.cn/it/2022-07-11/2897631.shtml) | Mon Jul 11 2022 4:20 AM
+- 👹 [不只特斯拉 自动驾驶初创公司Argo AI也在裁员](http://www.techweb.com.cn/world/2022-07-11/2897630.shtml) | Mon Jul 11 2022 4:19 AM
+- 🪜 [腾讯与梅赛德斯-奔驰达成合作 将建立自动驾驶联合实验室](http://www.techweb.com.cn/it/2022-07-11/2897625.shtml) | Mon Jul 11 2022 3:43 AM
+- 🤭 [因专利纠纷 苹果5G iPhone和iPad在哥伦比亚被禁售](http://www.techweb.com.cn/world/2022-07-11/2897614.shtml) | Mon Jul 11 2022 2:56 AM
+- 🙉 [爆料人士称iPhone 14将在9月13日发布 距今还有64天](http://www.techweb.com.cn/world/2022-07-11/2897606.shtml) | Mon Jul 11 2022 2:27 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
