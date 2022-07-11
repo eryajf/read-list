@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [c++20 coroutine 实现的 generator 可以被优化成常数](https://www.v2ex.com/t/865556#reply0) | Mon Jul 11 2022 9:04 PM
+- 🥸 [c++20 coroutine 实现的 generator 可以被优化成常数](https://www.v2ex.com/t/865556#reply1) | Mon Jul 11 2022 9:04 PM
 - 🤗 [分布式环境下，不借助任何第三方存储的前提下，是不是必须要自己实现一个“存储”](https://www.v2ex.com/t/865551#reply1) | Mon Jul 11 2022 5:28 PM
 - 🎭 [请问大佬们一个数据迁移问题](https://www.v2ex.com/t/865531#reply0) | Mon Jul 11 2022 2:03 PM
 - 🥷 [haskell 菜鸟的问题](https://www.v2ex.com/t/865524#reply4) | Mon Jul 11 2022 1:27 PM
