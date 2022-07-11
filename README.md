@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [测试](https://juejin.cn/post/7118925460259471367) | Mon Jul 11 2022 1:46 AM 
+- 🤗 [用 SwiftLint 保持 Swift 风格一致](https://juejin.cn/post/7118946425202802701) | Mon Jul 11 2022 3:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    代码风格可能是一个有争议的话题，并且在开发人员之间引发一些激烈的讨论。使用工具强制执行一套代码风格规则对于避免一些争论，以及确保在整个项目中保持代码风格的一致性非常有帮助。SwiftLint 可 
+    </details> 
+
+- 🎡 [“整洁架构”和商家前端的重构之路,Rem布局的原理解析,使用 Golang 创建和读取 Excel 文件丨酱酱的下午茶第25期](https://juejin.cn/post/7118945899513905166) | Mon Jul 11 2022 3:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    本期看点:“整洁架构”和商家前端的重构之路,Rem布局的原理解析,开源的网易云音乐API项目都是怎么实现的？,MyBatis是如何执行一条SQL语句的,使用 Golang 创建和读取 Excel 文件 
+    </details> 
+
+- 🕯 [测试](https://juejin.cn/post/7118925460259471367) | Mon Jul 11 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
     ```mermaid sequenceDiagram Alice-&gt;&gt;John: Hello John, how are you? John--&gt;&gt;Alice: Great! Alice-&rpar;John: 
     </details> 
 
-- 🎡 [精读《MinusOne, PickByType, StartsWith...》](https://juejin.cn/post/7118913605835194398) | Mon Jul 11 2022 1:01 AM 
+- 🚀 [Three.js 之 15 Scroll based animation 基于页面滚动的动画](https://juejin.cn/post/7118746934000484365) | Sun Jul 10 2022 2:14 PM 
     <details><summary>展开描述 ...</summary> 
-    解决 TS 问题的最好办法就是多练，这次解读 type-challenges Medium 难度 33~40 题。 
+    Scroll based animation 基于页面滚动的动画 本节我们将学习基于页面滚动的动画。很好的将之前所学的内容做一个复习和运用。 我们会把 WebGL 部分固定到页面中，随着页面的滚动 
     </details> 
 
-- 🕯 [线程开的越多就越好吗｜趣谈线程池](https://juejin.cn/post/7118911405759627272) | Mon Jul 11 2022 12:54 AM 
+- 💪 [Etcd 使用场景：通过分布式锁思路实现自动选主](https://juejin.cn/post/7118746548812382238) | Sun Jul 10 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 线程优化一直是启动优化中的一个必不可少的项目。作为一个 Android 程序员，你肯定希望应用启动的时候，火力全开，线程池拉满，每一个 CPU 核心满载而行。 可你把线程池拉满的时候，启动时长就 
-    </details> 
-
-- 🚀 [面试突击64：了解 HTTP 协议吗？](https://juejin.cn/post/7118909270082453534) | Mon Jul 11 2022 12:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    HTTP（Hyper Text Transfer Protocol）超文本传输协议，下文简称 HTTP，它的作用是用于实现服务器端和客户端的数据传输的。它可以传输任意的数据类型，如文本、HTML、图片 
-    </details> 
-
-- 💪 [揭开周获 18k star 开源项目的神秘面纱「GitHub 热点速览 v.22.28」](https://juejin.cn/post/7118908630581116964) | Mon Jul 11 2022 12:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    本周 GitHub Trending 的项目重量十足，比如标题的一周获得 18k+ 的高性能 JS Runtime——bun，用性能来体现了它的“含金量”。同样有重量的还有一行代码就能让你生成一幅画作 
+    分布式锁？选主？ 分布式锁可以保证当有多台实例同时竞争一把锁时，只有一个人会成功，其他的都是失败。诸如共享资源修改、幂等、频控等场景都可以通过分布式锁来实现。 还有一种场景，也可以通过分布式锁来实现， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
