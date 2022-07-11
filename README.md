@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [全新骁龙8+游戏旗舰手机红魔7S系列发布 售价3999元起](http://mo.techweb.com.cn/phone/2022-07-11/2897664.shtml) | Mon Jul 11 2022 8:51 AM
-- 👹 [LG新能源二季度营收及营业利润同比双双下滑 营业利润下滑73%](http://www.techweb.com.cn/world/2022-07-11/2897663.shtml) | Mon Jul 11 2022 8:45 AM
-- 🪜 [大厂“理财”，集体血亏？](http://www.techweb.com.cn/viewpoint/2022-07-11/2897655.shtml) | Mon Jul 11 2022 8:00 AM
-- 🤭 [马斯克发本人meme表情包嘲讽推特起诉：说不卖是你 说买还是你](http://www.techweb.com.cn/world/2022-07-11/2897654.shtml) | Mon Jul 11 2022 7:45 AM
-- 🙉 [消息称英特尔CEO下月有望再次前往台积电 洽谈3nm工艺合作事宜](http://www.techweb.com.cn/world/2022-07-11/2897653.shtml) | Mon Jul 11 2022 7:23 AM<!-- techweb-allnews:END -->
+- 👍 [苹果M2芯片MacBook Air周五开始发售 起售价9499元](http://www.techweb.com.cn/world/2022-07-11/2897673.shtml) | Mon Jul 11 2022 9:47 AM
+- 👹 [华邦电子2022年6月营收为新台币89.03亿元 较去年同期增加2.07%](http://www.techweb.com.cn/it/2022-07-11/2897672.shtml) | Mon Jul 11 2022 9:38 AM
+- 🪜 [WPS被曝会删除用户本地文件 官方回应：该说法纯属误导](http://www.techweb.com.cn/it/2022-07-11/2897671.shtml) | Mon Jul 11 2022 9:37 AM
+- 🤭 [乐视手机新品Y2Pro曝光 起售价599元](http://www.techweb.com.cn/it/2022-07-11/2897670.shtml) | Mon Jul 11 2022 9:25 AM
+- 🙉 [上海复工一个月，生活的重建与重塑](http://www.techweb.com.cn/viewpoint/2022-07-11/2897669.shtml) | Mon Jul 11 2022 9:23 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
