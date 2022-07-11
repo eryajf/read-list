@@ -239,17 +239,22 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [咖啡美酒冷泡茶，这些消暑饮品在家就能动手做](https://sspai.com/post/74196) | Sun Jul 10 2022 7:17 AM 
+- 👹 [派早报：马斯克试图终止收购推特，内存芯片价格回落等](https://sspai.com/post/74202) | Mon Jul 11 2022 12:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可能错过的新鲜事马斯克试图终止收购推特，后者将起诉7月9日，在宣布「搁置」以440亿美元收购推特的交易近两个月后，特斯拉CEO马斯克宣布寻求终止这项收购。根据马斯克律师提交给美国证券交易委员会（SE ...&lt;a href=&quot;https://sspai.com/post/74202&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [咖啡美酒冷泡茶，这些消暑饮品在家就能动手做](https://sspai.com/post/74196) | Sun Jul 10 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     自己在家制作夏日特饮，是一件能够同时收获成就感与满足感的美事。&lt;a href=&quot;https://sspai.com/post/74196&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [听完第 33 届金曲奖入围作品，我为你总结了一份歌单](https://sspai.com/post/74185) | Sun Jul 10 2022 3:00 AM 
+- 🤭 [听完第 33 届金曲奖入围作品，我为你总结了一份歌单](https://sspai.com/post/74185) | Sun Jul 10 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     在上周六，也就是7月2日，第三十三届金曲奖落下帷幕。各位关注的歌王与歌后，分别是崔健与蔡健雅。恭喜崔健成为大陆地区的首位金曲歌王，也恭喜蔡健雅第四度封后！过去一年中诞生了非常多好听、好玩的歌曲，也让很 ...&lt;a href=&quot;https://sspai.com/post/74185&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [从看热闹到看门道，如何以设计者的角度看世界？](https://sspai.com/post/73962) | Sat Jul 09 2022 8:11 AM 
+- 🥸 [从看热闹到看门道，如何以设计者的角度看世界？](https://sspai.com/post/73962) | Sat Jul 09 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
     &lt;h2&gt;内容导航&lt;/h2&gt;
 &lt;ul&gt;
@@ -259,14 +264,9 @@
 &lt;/ul&gt;&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/73962&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/269&quot; target=&quot;_blank&quot;&gt;《100 小时后请叫我设计师》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/74174) | Fri Jul 08 2022 10:08 AM 
+- 🙉 [本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/74174) | Fri Jul 08 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[电影]隐入尘烟、[美剧]终极名单、[美剧]老头子、[电影]掮客、[韩剧]非常律师禹英禑、[美剧]我变美的那夏天第一季、[动画]幽零幻境、[动画]铳动彼岸花、[动画]契约之 ...&lt;a href=&quot;https://sspai.com/post/74174&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [工作党如何做好日常备餐？这是我的经验和食谱分享](https://sspai.com/post/74169) | Fri Jul 08 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    Mealprep是最近几年内兴起的一种生活方式。它是mealpreparation（备餐）的简写，意指提前准备好每顿饭要吃的东西，这样就不用每次都下厨，对日程繁忙的人来说可以减轻压力，同时也能避开不健 ...&lt;a href=&quot;https://sspai.com/post/74169&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
