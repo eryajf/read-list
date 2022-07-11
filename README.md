@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [用 SwiftLint 保持 Swift 风格一致](https://juejin.cn/post/7118946425202802701) | Mon Jul 11 2022 3:08 AM 
+- 🤗 [【node笔记】前后端分离的用户注册功能](https://juejin.cn/post/7118950206200250405) | Mon Jul 11 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    代码风格可能是一个有争议的话题，并且在开发人员之间引发一些激烈的讨论。使用工具强制执行一套代码风格规则对于避免一些争论，以及确保在整个项目中保持代码风格的一致性非常有帮助。SwiftLint 可 
+    前端使用 vue ，后端使用 express 框架 ，数据库使用 mongodb，从零实现一个简单的注册功能 ，练习使用 nodejs 书写接口的能力。 
     </details> 
 
-- 🎡 [“整洁架构”和商家前端的重构之路,Rem布局的原理解析,使用 Golang 创建和读取 Excel 文件丨酱酱的下午茶第25期](https://juejin.cn/post/7118945899513905166) | Mon Jul 11 2022 3:07 AM 
+- 🎡 [弹幕组件深度解读](https://juejin.cn/entry/7118926764604129288) | Mon Jul 11 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-    本期看点:“整洁架构”和商家前端的重构之路,Rem布局的原理解析,开源的网易云音乐API项目都是怎么实现的？,MyBatis是如何执行一条SQL语句的,使用 Golang 创建和读取 Excel 文件 
+    弹幕组件分为dom型，canvas型和WebGL型，三种类型有着不同的特征和应用场景，接下来将分别介绍这三种弹幕组件 
     </details> 
 
-- 🕯 [测试](https://juejin.cn/post/7118925460259471367) | Mon Jul 11 2022 1:46 AM 
+- 🕯 [NVIDIA-SMI系列命令详解&lpar;1&rpar;-概述](https://juejin.cn/entry/7118926640733749278) | Mon Jul 11 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-    ```mermaid sequenceDiagram Alice-&gt;&gt;John: Hello John, how are you? John--&gt;&gt;Alice: Great! Alice-&rpar;John: 
+    本文为NVIDIA-SMI系列命令详解第一篇-概述，nvidia-smi（也称为 NVSMI，NVIDIA System Management Interface）是NVIDIA发布的GPU管理工具。 
     </details> 
 
-- 🚀 [Three.js 之 15 Scroll based animation 基于页面滚动的动画](https://juejin.cn/post/7118746934000484365) | Sun Jul 10 2022 2:14 PM 
+- 🚀 [NVIDIA-SMI系列命令详解&lpar;2&rpar;-输出详解](https://juejin.cn/entry/7118926506264363039) | Mon Jul 11 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-    Scroll based animation 基于页面滚动的动画 本节我们将学习基于页面滚动的动画。很好的将之前所学的内容做一个复习和运用。 我们会把 WebGL 部分固定到页面中，随着页面的滚动 
+    本文为NVIDIA-SMI系列命令详解第二篇-输出详解，主要介绍了nvidia-smi输出结果的每个字段的含义、取值范围和取值示例，并介绍了nvidia-smi命令的附加选项-i、-l和-f的用法。 
     </details> 
 
-- 💪 [Etcd 使用场景：通过分布式锁思路实现自动选主](https://juejin.cn/post/7118746548812382238) | Sun Jul 10 2022 2:13 PM 
+- 💪 [NVIDIA-SMI系列命令详解&lpar;3&rpar;-查询选项](https://juejin.cn/entry/7118926436043325477) | Mon Jul 11 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-    分布式锁？选主？ 分布式锁可以保证当有多台实例同时竞争一把锁时，只有一个人会成功，其他的都是失败。诸如共享资源修改、幂等、频控等场景都可以通过分布式锁来实现。 还有一种场景，也可以通过分布式锁来实现， 
+    本文为NVIDIA-SMI系列命令详解第三篇-查询选项，主要介绍了nvidia-smi -q的用法，并介绍了nvidia-smi -q命令的附加选项-u、-i、-f、-x、-d、-l和-lms的用法。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
