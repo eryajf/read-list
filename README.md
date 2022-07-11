@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Seenvoy: 一个 envoy 配置的可视化面板，欢迎试用](https://www.v2ex.com/t/865400#reply2) | Mon Jul 11 2022 4:56 AM
-- 🤗 [有人用 gitlab 极狐吗，体验如何](https://www.v2ex.com/t/865398#reply2) | Mon Jul 11 2022 4:35 AM
-- 🎭 [大佬们, windows 下有什么劫持 DNS 的软件吗?](https://www.v2ex.com/t/865397#reply2) | Mon Jul 11 2022 4:24 AM
-- 🥷 [如何改变一个方法里的常量](https://www.v2ex.com/t/865390#reply4) | Mon Jul 11 2022 3:48 AM
-- 🐵 [在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386#reply9) | Mon Jul 11 2022 3:35 AM<!-- v2ex:END -->
+- 🥸 [为什么说 Typescript 是必学语言以及如何学会 TS 全栈开发](https://www.v2ex.com/t/865419#reply1) | Mon Jul 11 2022 5:54 AM
+- 🤗 [Jprofiler 内存概览怎么看，内存有空闲大小，使用大小，提交大小三部分组成，生产上真正消耗的内存是以哪个为准。](https://www.v2ex.com/t/865418#reply0) | Mon Jul 11 2022 5:53 AM
+- 🎭 [选个手机吧，索尼 Xperia PRO-I 和 小米 12S Ultra 哪个好](https://www.v2ex.com/t/865409#reply0) | Mon Jul 11 2022 5:41 AM
+- 🥷 [前端和后端中间的部分一般习惯叫做什么](https://www.v2ex.com/t/865407#reply31) | Mon Jul 11 2022 5:33 AM
+- 🐵 [Seenvoy: 一个 envoy 配置的可视化面板，欢迎试用](https://www.v2ex.com/t/865400#reply2) | Mon Jul 11 2022 4:56 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
