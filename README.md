@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [上周巧妙地优化了跑马灯，差点升职加薪](https://juejin.cn/post/7118964507182891038) | Mon Jul 11 2022 4:22 AM 
+- 🤗 [阿里四年我的收获和感想](https://juejin.cn/post/7118983519514132494) | Mon Jul 11 2022 5:31 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 上周优化了个跑马灯，原因是跑马灯的长度太长了，每个item的节点比较多，所以即使限制最多只有50个item，也还是很长很长，有多长可以看看下面 怎么优化呢？看看之前的跑马灯 优化前的写法 之前的 
+    18 年毕业，校招入职阿里云，到现在已经四年了，相当于又上了个大学，过程中发生了太多事，林林总总，不一而足。这次挑一些个人成长相关的内容分享给你。 
     </details> 
 
-- 🎡 [老司机 iOS 周报 #208 | 2022-07-11](https://juejin.cn/post/7118959377188388872) | Mon Jul 11 2022 3:59 AM 
+- 🎡 [UE4 多人游戏服务器探索](https://juejin.cn/post/7118978968623005733) | Mon Jul 11 2022 5:14 AM 
     <details><summary>展开描述 ...</summary> 
-    老司机 iOS 周报，只为你呈现有价值的信息。 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎 
+    前言 大家好，今天给大家带来一篇利用虚幻的专用服务器简称ds服务器，来实现一个多人网络同步的 Demo。在联网游戏中，如何实现网络同步一直是一个复杂和困难的话题，为此，虚幻引擎将自己多年来的开发经验汇 
     </details> 
 
-- 🕯 [【node笔记】前后端分离的用户注册功能](https://juejin.cn/post/7118950206200250405) | Mon Jul 11 2022 3:22 AM 
+- 🕯 [webpack 拆包：关于 splitChunks 的几个重点属性解析](https://juejin.cn/post/7118953143475372039) | Mon Jul 11 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-    前端使用 vue ，后端使用 express 框架 ，数据库使用 mongodb，从零实现一个简单的注册功能 ，练习使用 nodejs 书写接口的能力。 
+    webpack 中关于 splitChunks 的几个重点属性的使用场景和解析，结合 bundle analyzer 输出图来分析，快来康康吧~ 
     </details> 
 
-- 🚀 [弹幕组件深度解读](https://juejin.cn/entry/7118926764604129288) | Mon Jul 11 2022 1:52 AM 
+- 🚀 [从0开始构建自己的webpack5知识体系（长篇文章）](https://juejin.cn/post/7118948648183922695) | Mon Jul 11 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-    弹幕组件分为dom型，canvas型和WebGL型，三种类型有着不同的特征和应用场景，接下来将分别介绍这三种弹幕组件 
+    1、前言 不知道大家面试的时候有没有遇到过这种情况：\ 面试官问你：了解过webpack嘛，之前有没有做过webpack的配置或者优化？ \ 然后你想半天，回答说：webpack是一个比较流行的打包工 
     </details> 
 
-- 💪 [NVIDIA-SMI系列命令详解&lpar;1&rpar;-概述](https://juejin.cn/entry/7118926640733749278) | Mon Jul 11 2022 1:51 AM 
+- 💪 [基于 React Context 实现一个简单的状态管理](https://juejin.cn/post/7118946120499200031) | Mon Jul 11 2022 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    本文为NVIDIA-SMI系列命令详解第一篇-概述，nvidia-smi（也称为 NVSMI，NVIDIA System Management Interface）是NVIDIA发布的GPU管理工具。 
+    前言 在大多数情况下，我们开发项目都需要一个状态管理，方便我们在全局共享状态库，在React生态里比较流行的几个库 redux、mobx、recoil 但是对于小项目，我们完全可以自己封装一个状态管理 
     </details> 
 <!-- juejin:END -->
 ### 少数派
