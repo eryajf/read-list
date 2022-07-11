@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【node笔记】前后端分离的用户注册功能](https://juejin.cn/post/7118950206200250405) | Mon Jul 11 2022 3:22 AM 
+- 🤗 [上周巧妙地优化了跑马灯，差点升职加薪](https://juejin.cn/post/7118964507182891038) | Mon Jul 11 2022 4:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 上周优化了个跑马灯，原因是跑马灯的长度太长了，每个item的节点比较多，所以即使限制最多只有50个item，也还是很长很长，有多长可以看看下面 怎么优化呢？看看之前的跑马灯 优化前的写法 之前的 
+    </details> 
+
+- 🎡 [老司机 iOS 周报 #208 | 2022-07-11](https://juejin.cn/post/7118959377188388872) | Mon Jul 11 2022 3:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    老司机 iOS 周报，只为你呈现有价值的信息。 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎 
+    </details> 
+
+- 🕯 [【node笔记】前后端分离的用户注册功能](https://juejin.cn/post/7118950206200250405) | Mon Jul 11 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
     前端使用 vue ，后端使用 express 框架 ，数据库使用 mongodb，从零实现一个简单的注册功能 ，练习使用 nodejs 书写接口的能力。 
     </details> 
 
-- 🎡 [弹幕组件深度解读](https://juejin.cn/entry/7118926764604129288) | Mon Jul 11 2022 1:52 AM 
+- 🚀 [弹幕组件深度解读](https://juejin.cn/entry/7118926764604129288) | Mon Jul 11 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
     弹幕组件分为dom型，canvas型和WebGL型，三种类型有着不同的特征和应用场景，接下来将分别介绍这三种弹幕组件 
     </details> 
 
-- 🕯 [NVIDIA-SMI系列命令详解&lpar;1&rpar;-概述](https://juejin.cn/entry/7118926640733749278) | Mon Jul 11 2022 1:51 AM 
+- 💪 [NVIDIA-SMI系列命令详解&lpar;1&rpar;-概述](https://juejin.cn/entry/7118926640733749278) | Mon Jul 11 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
     本文为NVIDIA-SMI系列命令详解第一篇-概述，nvidia-smi（也称为 NVSMI，NVIDIA System Management Interface）是NVIDIA发布的GPU管理工具。 
-    </details> 
-
-- 🚀 [NVIDIA-SMI系列命令详解&lpar;2&rpar;-输出详解](https://juejin.cn/entry/7118926506264363039) | Mon Jul 11 2022 1:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文为NVIDIA-SMI系列命令详解第二篇-输出详解，主要介绍了nvidia-smi输出结果的每个字段的含义、取值范围和取值示例，并介绍了nvidia-smi命令的附加选项-i、-l和-f的用法。 
-    </details> 
-
-- 💪 [NVIDIA-SMI系列命令详解&lpar;3&rpar;-查询选项](https://juejin.cn/entry/7118926436043325477) | Mon Jul 11 2022 1:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文为NVIDIA-SMI系列命令详解第三篇-查询选项，主要介绍了nvidia-smi -q的用法，并介绍了nvidia-smi -q命令的附加选项-u、-i、-f、-x、-d、-l和-lms的用法。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
