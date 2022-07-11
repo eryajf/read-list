@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [微服务架构下 MDM&lpar;主数据管理&rpar;和业务表数据有什么最佳实践](https://www.v2ex.com/t/865490#reply0) | Mon Jul 11 2022 10:08 AM
-- 🤗 [看了站内很多不小心把数据库清空或误删数据的](https://www.v2ex.com/t/865488#reply0) | Mon Jul 11 2022 10:06 AM
-- 🎭 [有道云笔记新版已不支持导出功能，有永久丢失数据的隐患](https://www.v2ex.com/t/865481#reply2) | Mon Jul 11 2022 9:41 AM
-- 🥷 [冲动买了个二奶 NAS 万由 HN-200](https://www.v2ex.com/t/865480#reply1) | Mon Jul 11 2022 9:39 AM
-- 🐵 [请教如何打 log，性能最好](https://www.v2ex.com/t/865470#reply13) | Mon Jul 11 2022 8:58 AM<!-- v2ex:END -->
+- 🥸 [一种优化的 JPEG 剪裁、缩小图片的解码方法](https://www.v2ex.com/t/865498#reply0) | Mon Jul 11 2022 11:04 AM
+- 🤗 [请问怎么能提高页面或者应用的布局设计及美化水平](https://www.v2ex.com/t/865495#reply1) | Mon Jul 11 2022 10:46 AM
+- 🎭 [有人知道电子合同需要接入什么认证才有法律效益嘛](https://www.v2ex.com/t/865493#reply3) | Mon Jul 11 2022 10:40 AM
+- 🥷 [微服务架构下 MDM&lpar;主数据管理&rpar;和业务表数据有什么最佳实践](https://www.v2ex.com/t/865490#reply0) | Mon Jul 11 2022 10:08 AM
+- 🐵 [看了站内很多不小心把数据库清空或误删数据的](https://www.v2ex.com/t/865488#reply0) | Mon Jul 11 2022 10:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
