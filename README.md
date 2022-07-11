@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [想问下前端业务做多了，怎么提升自己技术](https://www.v2ex.com/t/865318#reply1) | Sun Jul 10 2022 3:07 PM
-- 🤗 [请问 VS Code 深色主题背景色如何设置为纯色？](https://www.v2ex.com/t/865313#reply0) | Sun Jul 10 2022 2:30 PM
-- 🎭 [吐槽：到底什么是“优雅”？ PHP 的新名词真是含义莫名……](https://www.v2ex.com/t/865309#reply23) | Sun Jul 10 2022 2:07 PM
-- 🥷 [账户验证真的上头](https://www.v2ex.com/t/865306#reply17) | Sun Jul 10 2022 1:56 PM
-- 🐵 [夏天室外用手机烫的吓人怎么办](https://www.v2ex.com/t/865300#reply24) | Sun Jul 10 2022 1:20 PM<!-- v2ex:END -->
+- 🥸 [修改后的 EVA 初号机 VS Code 主题 各位提点意见](https://www.v2ex.com/t/865339#reply8) | Mon Jul 11 2022 1:11 AM
+- 🤗 [关于自己对 Go web 的包结构理解](https://www.v2ex.com/t/865330#reply11) | Sun Jul 10 2022 11:58 PM
+- 🎭 [想问下前端业务做多了，怎么提升自己技术](https://www.v2ex.com/t/865318#reply1) | Sun Jul 10 2022 3:07 PM
+- 🥷 [请问 VS Code 深色主题背景色如何设置为纯色？](https://www.v2ex.com/t/865313#reply0) | Sun Jul 10 2022 2:30 PM
+- 🐵 [吐槽：到底什么是“优雅”？ PHP 的新名词真是含义莫名……](https://www.v2ex.com/t/865309#reply27) | Sun Jul 10 2022 2:07 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
