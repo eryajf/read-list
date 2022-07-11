@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问大佬们一个数据迁移问题](https://www.v2ex.com/t/865531#reply0) | Mon Jul 11 2022 2:03 PM
-- 🤗 [haskell 菜鸟的问题](https://www.v2ex.com/t/865524#reply3) | Mon Jul 11 2022 1:27 PM
-- 🎭 [兄弟们听说过自愈嘛？](https://www.v2ex.com/t/865519#reply2) | Mon Jul 11 2022 1:05 PM
-- 🥷 [有一个 Redis 通知的问题想问一下大家](https://www.v2ex.com/t/865511#reply16) | Mon Jul 11 2022 12:05 PM
-- 🐵 [微信聊天记录导出，这个需求大吗？](https://www.v2ex.com/t/865510#reply38) | Mon Jul 11 2022 12:05 PM<!-- v2ex:END -->
+- 🥸 [分布式环境下，不借助任何第三方存储的前提下，是不是必须要自己实现一个“存储”](https://www.v2ex.com/t/865551#reply0) | Mon Jul 11 2022 5:28 PM
+- 🤗 [请问大佬们一个数据迁移问题](https://www.v2ex.com/t/865531#reply0) | Mon Jul 11 2022 2:03 PM
+- 🎭 [haskell 菜鸟的问题](https://www.v2ex.com/t/865524#reply3) | Mon Jul 11 2022 1:27 PM
+- 🥷 [兄弟们听说过自愈嘛？](https://www.v2ex.com/t/865519#reply2) | Mon Jul 11 2022 1:05 PM
+- 🐵 [有一个 Redis 通知的问题想问一下大家](https://www.v2ex.com/t/865511#reply16) | Mon Jul 11 2022 12:05 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
