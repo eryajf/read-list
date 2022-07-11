@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [将Flutter引入到现有项目中（iOS+Flutter）](https://juejin.cn/post/7118700869071142925) | Sun Jul 10 2022 11:16 AM 
+- 🤗 [测试](https://juejin.cn/post/7118925460259471367) | Mon Jul 11 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    iOS编程开发现在真的是越来越卷了，单一的依靠原生开发似乎在今年不太好生存下去了。越来越多的跨平台方案的出现，让我们这些原生工程师在不断追赶项目进度的步伐的同时也要进行新鲜血液的汲取。Flutter就 
+    ```mermaid sequenceDiagram Alice-&gt;&gt;John: Hello John, how are you? John--&gt;&gt;Alice: Great! Alice-&rpar;John: 
     </details> 
 
-- 🎡 [Go语言爬虫+正则简单使用](https://juejin.cn/post/7118691494415826975) | Sun Jul 10 2022 10:43 AM 
+- 🎡 [精读《MinusOne, PickByType, StartsWith...》](https://juejin.cn/post/7118913605835194398) | Mon Jul 11 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 可能很多人都觉得爬虫是Python的专属技能，但其实使用Go语言可能会实现更加好的效果 爬虫是什么 在开始实现爬虫之前我们必须明白一件事，那就是爬虫是什么。网络爬虫（又称为网页蜘蛛，网络机器人， 
+    解决 TS 问题的最好办法就是多练，这次解读 type-challenges Medium 难度 33~40 题。 
     </details> 
 
-- 🕯 [Spring JdbcTemplate&amp;声明式事务](https://juejin.cn/post/7118692276259258405) | Sun Jul 10 2022 10:42 AM 
+- 🕯 [线程开的越多就越好吗｜趣谈线程池](https://juejin.cn/post/7118911405759627272) | Mon Jul 11 2022 12:54 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动,一起开启掘金创作之路。 JdbcTemplate基本使用 概述 JdbcTemplate是spring框架中提供的一个对象，是对原始繁琐的Jdbc API对象的简单封装。 
+    前言 线程优化一直是启动优化中的一个必不可少的项目。作为一个 Android 程序员，你肯定希望应用启动的时候，火力全开，线程池拉满，每一个 CPU 核心满载而行。 可你把线程池拉满的时候，启动时长就 
     </details> 
 
-- 🚀 [强一致性分布式事务XA 浅析](https://juejin.cn/post/7118689819923841061) | Sun Jul 10 2022 10:33 AM 
+- 🚀 [面试突击64：了解 HTTP 协议吗？](https://juejin.cn/post/7118909270082453534) | Mon Jul 11 2022 12:43 AM 
     <details><summary>展开描述 ...</summary> 
-    分布式事务：分布式条件下,多个节点操作的整体事务一致性。 分布式事务中的两大基本理论：CAP 理论 与 Base 理论。 分布式事务解决方案可以分为： 强一致性分布式事务解决方案：基于 CA 
+    HTTP（Hyper Text Transfer Protocol）超文本传输协议，下文简称 HTTP，它的作用是用于实现服务器端和客户端的数据传输的。它可以传输任意的数据类型，如文本、HTML、图片 
     </details> 
 
-- 💪 [我要去哪里？- 写在我的 30 岁](https://juejin.cn/post/7118679740948430856) | Sun Jul 10 2022 9:56 AM 
+- 💪 [揭开周获 18k star 开源项目的神秘面纱「GitHub 热点速览 v.22.28」](https://juejin.cn/post/7118908630581116964) | Mon Jul 11 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    最近刚过了 30 岁生日，人生已到而立之年。 近几年疫情、房价、裁员、社会环境、家庭，让我越来越焦虑，每天脑袋都停不下来，一直在思考「我是谁？我要去哪里？我在干什么？」。 
+    本周 GitHub Trending 的项目重量十足，比如标题的一周获得 18k+ 的高性能 JS Runtime——bun，用性能来体现了它的“含金量”。同样有重量的还有一行代码就能让你生成一幅画作 
     </details> 
 <!-- juejin:END -->
 ### 少数派
