@@ -282,11 +282,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [启明创投新一期基金已完成32亿美元募资](http://www.techweb.com.cn/it/2022-07-11/2897547.shtml) | Mon Jul 11 2022 1:18 AM
-- 👹 [罗永浩：不看好苹果 AR，新世界的霸主永远不是之前旧世界的霸主](http://www.techweb.com.cn/it/2022-07-11/2897541.shtml) | Mon Jul 11 2022 1:11 AM
-- 🪜 [史玉柱：征途、黄金酱酒是我的爱好跟事业 不会卖掉](http://www.techweb.com.cn/it/2022-07-10/2897519.shtml) | Sun Jul 10 2022 8:43 AM
-- 🤭 [在校学生违规使用数据库致学校IP永久被封](http://www.techweb.com.cn/it/2022-07-10/2897518.shtml) | Sun Jul 10 2022 7:35 AM
-- 🙉 [快手官宣：7月18日周杰伦独家直播](http://www.techweb.com.cn/it/2022-07-10/2897516.shtml) | Sun Jul 10 2022 7:18 AM<!-- techweb-allnews:END -->
+- 👍 [因专利纠纷 苹果5G iPhone和iPad在哥伦比亚被禁售](http://www.techweb.com.cn/world/2022-07-11/2897614.shtml) | Mon Jul 11 2022 2:56 AM
+- 👹 [爆料人士称iPhone 14将在9月13日发布 距今还有64天](http://www.techweb.com.cn/world/2022-07-11/2897606.shtml) | Mon Jul 11 2022 2:27 AM
+- 🪜 [造车与不造车 “两个华为”的博弈](http://www.techweb.com.cn/viewpoint/2022-07-11/2897602.shtml) | Mon Jul 11 2022 2:21 AM
+- 🤭 [史玉柱谈为什么做征途：因为陈天桥把我游戏账号封了](http://www.techweb.com.cn/it/2022-07-11/2897601.shtml) | Mon Jul 11 2022 2:19 AM
+- 🙉 [任正非该摸王传福这块石头了](http://www.techweb.com.cn/viewpoint/2022-07-11/2897600.shtml) | Mon Jul 11 2022 2:15 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
