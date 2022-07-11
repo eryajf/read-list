@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [一派·Podcast | 谈谈中美工具类 SaaS 的异同](https://sspai.com/post/74214) | Mon Jul 11 2022 6:42 AM 
+- 👹 [打开终端总有好心情：我的美化方案及配置分享](https://sspai.com/post/74216) | Mon Jul 11 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    有时候换一个终端就是一种全新的心情，闲暇时不断优化折腾也不失为一种放松。&lt;a href=&quot;https://sspai.com/post/74216&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [一派·Podcast | 谈谈中美工具类 SaaS 的异同](https://sspai.com/post/74214) | Mon Jul 11 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
     围绕工具类 SaaS 的发展和应用，探讨了中美从市场到用户对于软体服务的选择方向、购买决策、消费能力等异同。&lt;a href=&quot;https://sspai.com/post/74214&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [买个雪糕也要「防背刺」，聊聊「雪糕刺客」背后的价格欺诈](https://sspai.com/post/74183) | Mon Jul 11 2022 3:31 AM 
+- 🤭 [买个雪糕也要「防背刺」，聊聊「雪糕刺客」背后的价格欺诈](https://sspai.com/post/74183) | Mon Jul 11 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     这几天「雪糕刺客」上了热搜。天气热了，大家在商店的冰柜里随手拿起来一支冰棍，收银台结账的时候动辄二十几块，放回去吧也不好意思，只能硬着头皮买单。大家把这种购买体验叫做「雪糕刺客」。热搜中的雪糕刺客20 ...&lt;a href=&quot;https://sspai.com/post/74183&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：马斯克试图终止收购推特，内存芯片价格回落等](https://sspai.com/post/74202) | Mon Jul 11 2022 12:48 AM 
+- 🥸 [派早报：马斯克试图终止收购推特，内存芯片价格回落等](https://sspai.com/post/74202) | Mon Jul 11 2022 12:48 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事马斯克试图终止收购推特，后者将起诉7月9日，在宣布「搁置」以440亿美元收购推特的交易近两个月后，特斯拉CEO马斯克宣布寻求终止这项收购。根据马斯克律师提交给美国证券交易委员会（SE ...&lt;a href=&quot;https://sspai.com/post/74202&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [咖啡美酒冷泡茶，这些消暑饮品在家就能动手做](https://sspai.com/post/74196) | Sun Jul 10 2022 7:17 AM 
+- 🙉 [咖啡美酒冷泡茶，这些消暑饮品在家就能动手做](https://sspai.com/post/74196) | Sun Jul 10 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     自己在家制作夏日特饮，是一件能够同时收获成就感与满足感的美事。&lt;a href=&quot;https://sspai.com/post/74196&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [听完第 33 届金曲奖入围作品，我为你总结了一份歌单](https://sspai.com/post/74185) | Sun Jul 10 2022 3:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上周六，也就是7月2日，第三十三届金曲奖落下帷幕。各位关注的歌王与歌后，分别是崔健与蔡健雅。恭喜崔健成为大陆地区的首位金曲歌王，也恭喜蔡健雅第四度封后！过去一年中诞生了非常多好听、好玩的歌曲，也让很 ...&lt;a href=&quot;https://sspai.com/post/74185&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
