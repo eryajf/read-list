@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有人用 gitlab 极狐吗，体验如何](https://www.v2ex.com/t/865398#reply0) | Mon Jul 11 2022 4:35 AM
-- 🤗 [大佬们, windows 下有什么劫持 DNS 的软件吗?](https://www.v2ex.com/t/865397#reply1) | Mon Jul 11 2022 4:24 AM
-- 🎭 [如何改变一个方法里的常量](https://www.v2ex.com/t/865390#reply4) | Mon Jul 11 2022 3:48 AM
-- 🥷 [在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386#reply6) | Mon Jul 11 2022 3:35 AM
-- 🐵 [新成为 helmfile 项目核心维护者，声明式管理 helm chart，求志同道合的小伙伴一起参与](https://www.v2ex.com/t/865385#reply1) | Mon Jul 11 2022 3:35 AM<!-- v2ex:END -->
+- 🥸 [Seenvoy: 一个 envoy 配置的可视化面板，欢迎试用](https://www.v2ex.com/t/865400#reply2) | Mon Jul 11 2022 4:56 AM
+- 🤗 [有人用 gitlab 极狐吗，体验如何](https://www.v2ex.com/t/865398#reply2) | Mon Jul 11 2022 4:35 AM
+- 🎭 [大佬们, windows 下有什么劫持 DNS 的软件吗?](https://www.v2ex.com/t/865397#reply2) | Mon Jul 11 2022 4:24 AM
+- 🥷 [如何改变一个方法里的常量](https://www.v2ex.com/t/865390#reply4) | Mon Jul 11 2022 3:48 AM
+- 🐵 [在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386#reply9) | Mon Jul 11 2022 3:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
