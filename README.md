@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [赣锋锂业：拟不超9.62亿美元收购Lithea公司100%股份](http://www.techweb.com.cn/it/2022-07-11/2897693.shtml) | Mon Jul 11 2022 12:03 PM
-- 👹 [小康股份：拟更名为赛力斯 持续加大新能源战略投入](http://www.techweb.com.cn/it/2022-07-11/2897692.shtml) | Mon Jul 11 2022 11:53 AM
-- 🪜 [紫光集团宣布如期完成股权交割  “智广芯控股”承接100%股权](http://www.techweb.com.cn/it/2022-07-11/2897689.shtml) | Mon Jul 11 2022 11:29 AM
-- 🤭 [苹果M2芯片MacBook Air周五开始发售 起售价9499元](http://www.techweb.com.cn/world/2022-07-11/2897673.shtml) | Mon Jul 11 2022 9:47 AM
-- 🙉 [华邦电子2022年6月营收为新台币89.03亿元 较去年同期增加2.07%](http://www.techweb.com.cn/it/2022-07-11/2897672.shtml) | Mon Jul 11 2022 9:38 AM<!-- techweb-allnews:END -->
+- 👍 [消息称盛京银行在支付宝无法提现 双方回应了](http://www.techweb.com.cn/it/2022-07-11/2897698.shtml) | Mon Jul 11 2022 12:51 PM
+- 👹 [游族网络：预计上半年盈利同比下滑65.77%至77.18%](http://www.techweb.com.cn/it/2022-07-11/2897697.shtml) | Mon Jul 11 2022 12:41 PM
+- 🪜 [吉利汽车：法巴个人金融拟4.21亿元向公司购买合资公司5%权益](http://www.techweb.com.cn/it/2022-07-11/2897696.shtml) | Mon Jul 11 2022 12:33 PM
+- 🤭 [腾讯控股：斥资约3亿元回购88万股](http://www.techweb.com.cn/it/2022-07-11/2897695.shtml) | Mon Jul 11 2022 12:21 PM
+- 🙉 [蔚来：成立独立委员会 监督卖空报告中相关指控的独立调查工作](http://www.techweb.com.cn/it/2022-07-11/2897694.shtml) | Mon Jul 11 2022 12:17 PM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
