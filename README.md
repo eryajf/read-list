@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [阿里四年我的收获和感想](https://juejin.cn/post/7118983519514132494) | Mon Jul 11 2022 5:31 AM 
+- 🤗 [通过 docker 高效学习 nginx 配置，并附全部配置文件](https://juejin.cn/post/7119005626914570270) | Mon Jul 11 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-    18 年毕业，校招入职阿里云，到现在已经四年了，相当于又上了个大学，过程中发生了太多事，林林总总，不一而足。这次挑一些个人成长相关的内容分享给你。 
+    三年经验的前端或多或少与 nginx 配置打过交道。 nginx 的重要性不言而喻。 本篇文章以前端的视角，介绍下 nginx 的常见配置，并通过 docker 的方式学习 nginx，这保证所有示例 
     </details> 
 
-- 🎡 [UE4 多人游戏服务器探索](https://juejin.cn/post/7118978968623005733) | Mon Jul 11 2022 5:14 AM 
+- 🎡 [罗永浩新公司准备招人，AI写一篇代码文档只需2步，如何优雅地乱搞Python代码、一大波数学资料来袭！AI前沿论文 | ShowMeAI资讯日报 #07.11](https://juejin.cn/post/7119003571885965325) | Mon Jul 11 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 大家好，今天给大家带来一篇利用虚幻的专用服务器简称ds服务器，来实现一个多人网络同步的 Demo。在联网游戏中，如何实现网络同步一直是一个复杂和困难的话题，为此，虚幻引擎将自己多年来的开发经验汇 
+    ShowMeAI资讯日报 2022-07-11 期，罗永浩官宣新创业公司『Thine Red Line』、使用AI辅助生成代码文档、Python 代码混淆工具、杜克大学『数据科学数学技能』、前沿论文 
     </details> 
 
-- 🕯 [webpack 拆包：关于 splitChunks 的几个重点属性解析](https://juejin.cn/post/7118953143475372039) | Mon Jul 11 2022 3:34 AM 
+- 🕯 [Ocr小工具（文本识别）](https://juejin.cn/post/7118998133815640071) | Mon Jul 11 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-    webpack 中关于 splitChunks 的几个重点属性的使用场景和解析，结合 bundle analyzer 输出图来分析，快来康康吧~ 
+    用Winform写了款简洁版的离线版Ocr文本识别小工具Demo，比较简陋，仅有基础功能和简陋的页面 
     </details> 
 
-- 🚀 [从0开始构建自己的webpack5知识体系（长篇文章）](https://juejin.cn/post/7118948648183922695) | Mon Jul 11 2022 3:16 AM 
+- 🚀 [从零开始把 SpringBoot 搬到 K8s 上运行，我用了这几步！](https://juejin.cn/post/7118997235152453645) | Mon Jul 11 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-    1、前言 不知道大家面试的时候有没有遇到过这种情况：\ 面试官问你：了解过webpack嘛，之前有没有做过webpack的配置或者优化？ \ 然后你想半天，回答说：webpack是一个比较流行的打包工 
+    咱们的 K8s 入门和实践，在经历了三篇理论知识的后，相信各位都已经期待许久（可能的吧），就差私信我，你整着理论整半天有啥用，本大人写的程序怎么能放到 K8s 上运行。 别急， 
     </details> 
 
-- 💪 [基于 React Context 实现一个简单的状态管理](https://juejin.cn/post/7118946120499200031) | Mon Jul 11 2022 3:06 AM 
+- 💪 [对话大环境严峻之下选择跨行跨岗的小姐姐](https://juejin.cn/post/7118992017175838750) | Mon Jul 11 2022 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在大多数情况下，我们开发项目都需要一个状态管理，方便我们在全局共享状态库，在React生态里比较流行的几个库 redux、mobx、recoil 但是对于小项目，我们完全可以自己封装一个状态管理 
+    大环境如此的严峻，从业于央企金融相关行业，人们认为的养老铁饭碗，确选择跨行跨岗，背后隐藏着什么能量？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
