@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [苹果M2芯片MacBook Air周五开始发售 起售价9499元](http://www.techweb.com.cn/world/2022-07-11/2897673.shtml) | Mon Jul 11 2022 9:47 AM
-- 👹 [华邦电子2022年6月营收为新台币89.03亿元 较去年同期增加2.07%](http://www.techweb.com.cn/it/2022-07-11/2897672.shtml) | Mon Jul 11 2022 9:38 AM
-- 🪜 [WPS被曝会删除用户本地文件 官方回应：该说法纯属误导](http://www.techweb.com.cn/it/2022-07-11/2897671.shtml) | Mon Jul 11 2022 9:37 AM
-- 🤭 [乐视手机新品Y2Pro曝光 起售价599元](http://www.techweb.com.cn/it/2022-07-11/2897670.shtml) | Mon Jul 11 2022 9:25 AM
-- 🙉 [上海复工一个月，生活的重建与重塑](http://www.techweb.com.cn/viewpoint/2022-07-11/2897669.shtml) | Mon Jul 11 2022 9:23 AM<!-- techweb-allnews:END -->
+- 👍 [赣锋锂业：拟不超9.62亿美元收购Lithea公司100%股份](http://www.techweb.com.cn/it/2022-07-11/2897693.shtml) | Mon Jul 11 2022 12:03 PM
+- 👹 [小康股份：拟更名为赛力斯 持续加大新能源战略投入](http://www.techweb.com.cn/it/2022-07-11/2897692.shtml) | Mon Jul 11 2022 11:53 AM
+- 🪜 [紫光集团宣布如期完成股权交割  “智广芯控股”承接100%股权](http://www.techweb.com.cn/it/2022-07-11/2897689.shtml) | Mon Jul 11 2022 11:29 AM
+- 🤭 [苹果M2芯片MacBook Air周五开始发售 起售价9499元](http://www.techweb.com.cn/world/2022-07-11/2897673.shtml) | Mon Jul 11 2022 9:47 AM
+- 🙉 [华邦电子2022年6月营收为新台币89.03亿元 较去年同期增加2.07%](http://www.techweb.com.cn/it/2022-07-11/2897672.shtml) | Mon Jul 11 2022 9:38 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
