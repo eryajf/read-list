@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [大厂“理财”，集体血亏？](http://www.techweb.com.cn/viewpoint/2022-07-11/2897655.shtml) | Mon Jul 11 2022 8:00 AM
-- 👹 [马斯克发本人meme表情包嘲讽推特起诉：说不卖是你 说买还是你](http://www.techweb.com.cn/world/2022-07-11/2897654.shtml) | Mon Jul 11 2022 7:45 AM
-- 🪜 [消息称英特尔CEO下月有望再次前往台积电 洽谈3nm工艺合作事宜](http://www.techweb.com.cn/world/2022-07-11/2897653.shtml) | Mon Jul 11 2022 7:23 AM
-- 🤭 [安福路好像什么都没变](http://www.techweb.com.cn/viewpoint/2022-07-11/2897652.shtml) | Mon Jul 11 2022 7:21 AM
-- 🙉 [手机基带芯片往事](http://www.techweb.com.cn/viewpoint/2022-07-11/2897645.shtml) | Mon Jul 11 2022 6:47 AM<!-- techweb-allnews:END -->
+- 👍 [全新骁龙8+游戏旗舰手机红魔7S系列发布 售价3999元起](http://mo.techweb.com.cn/phone/2022-07-11/2897664.shtml) | Mon Jul 11 2022 8:51 AM
+- 👹 [LG新能源二季度营收及营业利润同比双双下滑 营业利润下滑73%](http://www.techweb.com.cn/world/2022-07-11/2897663.shtml) | Mon Jul 11 2022 8:45 AM
+- 🪜 [大厂“理财”，集体血亏？](http://www.techweb.com.cn/viewpoint/2022-07-11/2897655.shtml) | Mon Jul 11 2022 8:00 AM
+- 🤭 [马斯克发本人meme表情包嘲讽推特起诉：说不卖是你 说买还是你](http://www.techweb.com.cn/world/2022-07-11/2897654.shtml) | Mon Jul 11 2022 7:45 AM
+- 🙉 [消息称英特尔CEO下月有望再次前往台积电 洽谈3nm工艺合作事宜](http://www.techweb.com.cn/world/2022-07-11/2897653.shtml) | Mon Jul 11 2022 7:23 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
