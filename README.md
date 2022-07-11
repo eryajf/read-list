@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386#reply1) | Mon Jul 11 2022 3:35 AM
-- 🤗 [新成为 helmfile 项目核心维护者，声明式管理 helm chart，求志同道合的小伙伴一起参与](https://www.v2ex.com/t/865385#reply0) | Mon Jul 11 2022 3:35 AM
-- 🎭 [在预算有限的情况下，服务器放在哪里能兼顾全球用户啊？](https://www.v2ex.com/t/865374#reply2) | Mon Jul 11 2022 3:05 AM
-- 🥷 [如何看待 WPS 会审查文件内容，可能导致用户、文件被封](https://www.v2ex.com/t/865365#reply27) | Mon Jul 11 2022 2:39 AM
-- 🐵 [Nestjs 最佳实践教程:5 自动验证,序列化与异常处理](https://www.v2ex.com/t/865357#reply0) | Mon Jul 11 2022 2:18 AM<!-- v2ex:END -->
+- 🥸 [有人用 gitlab 极狐吗，体验如何](https://www.v2ex.com/t/865398#reply0) | Mon Jul 11 2022 4:35 AM
+- 🤗 [大佬们, windows 下有什么劫持 DNS 的软件吗?](https://www.v2ex.com/t/865397#reply1) | Mon Jul 11 2022 4:24 AM
+- 🎭 [如何改变一个方法里的常量](https://www.v2ex.com/t/865390#reply4) | Mon Jul 11 2022 3:48 AM
+- 🥷 [在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386#reply6) | Mon Jul 11 2022 3:35 AM
+- 🐵 [新成为 helmfile 项目核心维护者，声明式管理 helm chart，求志同道合的小伙伴一起参与](https://www.v2ex.com/t/865385#reply1) | Mon Jul 11 2022 3:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
