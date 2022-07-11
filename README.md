@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [公司数据库数据被我更新成 null 了，救命！](https://www.v2ex.com/t/865464#reply9) | Mon Jul 11 2022 8:30 AM
-- 🤗 [xdm，接了个外包，对面是公司，要求签合同开发票咋整？我是个人开发的阿，没有公司](https://www.v2ex.com/t/865462#reply2) | Mon Jul 11 2022 8:30 AM
-- 🎭 [问下前端大佬们 京东到家的分类侧边栏如何实现](https://www.v2ex.com/t/865461#reply4) | Mon Jul 11 2022 8:27 AM
-- 🥷 [各位大佬请教一下， win10 重置删除的文件可以恢复吗](https://www.v2ex.com/t/865455#reply0) | Mon Jul 11 2022 7:57 AM
-- 🐵 [CKA 考试](https://www.v2ex.com/t/865453#reply3) | Mon Jul 11 2022 7:47 AM<!-- v2ex:END -->
+- 🥸 [请教如何打 log，性能最好](https://www.v2ex.com/t/865470#reply7) | Mon Jul 11 2022 8:58 AM
+- 🤗 [12 代 cpu 做 nas 现在合适吗？](https://www.v2ex.com/t/865467#reply6) | Mon Jul 11 2022 8:46 AM
+- 🎭 [nslookup 返回应答不对,但是能访问.](https://www.v2ex.com/t/865466#reply1) | Mon Jul 11 2022 8:43 AM
+- 🥷 [公司数据库数据被我更新成 null 了，救命！](https://www.v2ex.com/t/865464#reply52) | Mon Jul 11 2022 8:30 AM
+- 🐵 [xdm，接了个外包，对面是公司，要求签合同开发票咋整？我是个人开发的阿，没有公司](https://www.v2ex.com/t/865462#reply5) | Mon Jul 11 2022 8:30 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
