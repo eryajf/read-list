@@ -282,11 +282,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [余承东谈华为小康合作：两家企业都具备拼搏精神 舍得超常投入](http://www.techweb.com.cn/smarttraveling/2022-07-11/2897638.shtml) | Mon Jul 11 2022 5:55 AM
-- 👹 [我国新能源汽车保有量突破1000万辆](http://www.techweb.com.cn/smarttraveling/2022-07-11/2897637.shtml) | Mon Jul 11 2022 5:52 AM
-- 🪜 [旷视“头号体验官”直播走进苏州工厂 直击高ROI托盘四向车系统选型方法](http://www.techweb.com.cn/smarttraveling/2022-07-11/2897636.shtml) | Mon Jul 11 2022 5:35 AM
-- 🤭 [徐翔妻子看空天齐锂业：后者盘中跌停 股民炸锅](http://www.techweb.com.cn/it/2022-07-11/2897631.shtml) | Mon Jul 11 2022 4:20 AM
-- 🙉 [不只特斯拉 自动驾驶初创公司Argo AI也在裁员](http://www.techweb.com.cn/world/2022-07-11/2897630.shtml) | Mon Jul 11 2022 4:19 AM<!-- techweb-allnews:END -->
+- 👍 [手机基带芯片往事](http://www.techweb.com.cn/viewpoint/2022-07-11/2897645.shtml) | Mon Jul 11 2022 6:47 AM
+- 👹 [腾讯游戏：未成年人暑期只能周五六日打游戏](http://www.techweb.com.cn/it/2022-07-11/2897644.shtml) | Mon Jul 11 2022 6:34 AM
+- 🪜 [特朗普再吐槽马斯克终止收购推特交易：把自己搞得一团糟](http://www.techweb.com.cn/world/2022-07-11/2897643.shtml) | Mon Jul 11 2022 6:22 AM
+- 🤭 [阅文白金作家远瞳科幻新作《深海余烬》正式上线](http://www.techweb.com.cn/it/2022-07-11/2897641.shtml) | Mon Jul 11 2022 6:15 AM
+- 🙉 [罗永浩看衰传统车企：未来是蔚小理和华为小米的](http://www.techweb.com.cn/smarttraveling/2022-07-11/2897639.shtml) | Mon Jul 11 2022 6:10 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
