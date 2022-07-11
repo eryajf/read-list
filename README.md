@@ -282,11 +282,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [徐翔妻子看空天齐锂业：后者盘中跌停 股民炸锅](http://www.techweb.com.cn/it/2022-07-11/2897631.shtml) | Mon Jul 11 2022 4:20 AM
-- 👹 [不只特斯拉 自动驾驶初创公司Argo AI也在裁员](http://www.techweb.com.cn/world/2022-07-11/2897630.shtml) | Mon Jul 11 2022 4:19 AM
-- 🪜 [腾讯与梅赛德斯-奔驰达成合作 将建立自动驾驶联合实验室](http://www.techweb.com.cn/it/2022-07-11/2897625.shtml) | Mon Jul 11 2022 3:43 AM
-- 🤭 [因专利纠纷 苹果5G iPhone和iPad在哥伦比亚被禁售](http://www.techweb.com.cn/world/2022-07-11/2897614.shtml) | Mon Jul 11 2022 2:56 AM
-- 🙉 [爆料人士称iPhone 14将在9月13日发布 距今还有64天](http://www.techweb.com.cn/world/2022-07-11/2897606.shtml) | Mon Jul 11 2022 2:27 AM<!-- techweb-allnews:END -->
+- 👍 [余承东谈华为小康合作：两家企业都具备拼搏精神 舍得超常投入](http://www.techweb.com.cn/smarttraveling/2022-07-11/2897638.shtml) | Mon Jul 11 2022 5:55 AM
+- 👹 [我国新能源汽车保有量突破1000万辆](http://www.techweb.com.cn/smarttraveling/2022-07-11/2897637.shtml) | Mon Jul 11 2022 5:52 AM
+- 🪜 [旷视“头号体验官”直播走进苏州工厂 直击高ROI托盘四向车系统选型方法](http://www.techweb.com.cn/smarttraveling/2022-07-11/2897636.shtml) | Mon Jul 11 2022 5:35 AM
+- 🤭 [徐翔妻子看空天齐锂业：后者盘中跌停 股民炸锅](http://www.techweb.com.cn/it/2022-07-11/2897631.shtml) | Mon Jul 11 2022 4:20 AM
+- 🙉 [不只特斯拉 自动驾驶初创公司Argo AI也在裁员](http://www.techweb.com.cn/world/2022-07-11/2897630.shtml) | Mon Jul 11 2022 4:19 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
