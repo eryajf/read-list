@@ -282,11 +282,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [手机基带芯片往事](http://www.techweb.com.cn/viewpoint/2022-07-11/2897645.shtml) | Mon Jul 11 2022 6:47 AM
-- 👹 [腾讯游戏：未成年人暑期只能周五六日打游戏](http://www.techweb.com.cn/it/2022-07-11/2897644.shtml) | Mon Jul 11 2022 6:34 AM
-- 🪜 [特朗普再吐槽马斯克终止收购推特交易：把自己搞得一团糟](http://www.techweb.com.cn/world/2022-07-11/2897643.shtml) | Mon Jul 11 2022 6:22 AM
-- 🤭 [阅文白金作家远瞳科幻新作《深海余烬》正式上线](http://www.techweb.com.cn/it/2022-07-11/2897641.shtml) | Mon Jul 11 2022 6:15 AM
-- 🙉 [罗永浩看衰传统车企：未来是蔚小理和华为小米的](http://www.techweb.com.cn/smarttraveling/2022-07-11/2897639.shtml) | Mon Jul 11 2022 6:10 AM<!-- techweb-allnews:END -->
+- 👍 [大厂“理财”，集体血亏？](http://www.techweb.com.cn/viewpoint/2022-07-11/2897655.shtml) | Mon Jul 11 2022 8:00 AM
+- 👹 [马斯克发本人meme表情包嘲讽推特起诉：说不卖是你 说买还是你](http://www.techweb.com.cn/world/2022-07-11/2897654.shtml) | Mon Jul 11 2022 7:45 AM
+- 🪜 [消息称英特尔CEO下月有望再次前往台积电 洽谈3nm工艺合作事宜](http://www.techweb.com.cn/world/2022-07-11/2897653.shtml) | Mon Jul 11 2022 7:23 AM
+- 🤭 [安福路好像什么都没变](http://www.techweb.com.cn/viewpoint/2022-07-11/2897652.shtml) | Mon Jul 11 2022 7:21 AM
+- 🙉 [手机基带芯片往事](http://www.techweb.com.cn/viewpoint/2022-07-11/2897645.shtml) | Mon Jul 11 2022 6:47 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
