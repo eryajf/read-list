@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教如何打 log，性能最好](https://www.v2ex.com/t/865470#reply7) | Mon Jul 11 2022 8:58 AM
-- 🤗 [12 代 cpu 做 nas 现在合适吗？](https://www.v2ex.com/t/865467#reply6) | Mon Jul 11 2022 8:46 AM
-- 🎭 [nslookup 返回应答不对,但是能访问.](https://www.v2ex.com/t/865466#reply1) | Mon Jul 11 2022 8:43 AM
-- 🥷 [公司数据库数据被我更新成 null 了，救命！](https://www.v2ex.com/t/865464#reply52) | Mon Jul 11 2022 8:30 AM
-- 🐵 [xdm，接了个外包，对面是公司，要求签合同开发票咋整？我是个人开发的阿，没有公司](https://www.v2ex.com/t/865462#reply5) | Mon Jul 11 2022 8:30 AM<!-- v2ex:END -->
+- 🥸 [微服务架构下 MDM&lpar;主数据管理&rpar;和业务表数据有什么最佳实践](https://www.v2ex.com/t/865490#reply0) | Mon Jul 11 2022 10:08 AM
+- 🤗 [看了站内很多不小心把数据库清空或误删数据的](https://www.v2ex.com/t/865488#reply0) | Mon Jul 11 2022 10:06 AM
+- 🎭 [有道云笔记新版已不支持导出功能，有永久丢失数据的隐患](https://www.v2ex.com/t/865481#reply2) | Mon Jul 11 2022 9:41 AM
+- 🥷 [冲动买了个二奶 NAS 万由 HN-200](https://www.v2ex.com/t/865480#reply1) | Mon Jul 11 2022 9:39 AM
+- 🐵 [请教如何打 log，性能最好](https://www.v2ex.com/t/865470#reply13) | Mon Jul 11 2022 8:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
