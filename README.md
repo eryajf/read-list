@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [当 Knative 遇见 WebAssembly](https://juejin.cn/post/7119424352969293861) | Tue Jul 12 2022 10:03 AM 
+- 🤗 [Python的__getattr__方法学习](https://juejin.cn/post/7119458309400166437) | Tue Jul 12 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
-    简介： Knative 可以支持各种容器化的运行时环境，我们今天来探索一下利用 WebAssembly 技术作为一个新的 Serverless 运行时。 作者：易立 Knative 是在 Kubern 
+    __getattr__函数的作用： 如果属性查找（attribute lookup）在实例以及对应的类中（通过__dict__&rpar;失败， 那么会调用到类的__getattr__函数； 如果没有定义这个函 
     </details> 
 
-- 🎡 [全链路压测：影子库与影子表之争](https://juejin.cn/post/7119423555720200222) | Tue Jul 12 2022 10:00 AM 
+- 🎡 [会用redis吗？那还不快来了解下redis protocol](https://juejin.cn/post/7119444136003895332) | Tue Jul 12 2022 11:20 AM 
     <details><summary>展开描述 ...</summary> 
-    简介： 在生产环境实施全链路压测的过程中，针对上文谈到的两种方案，又面临着数据隔离方案的选择问题，本文首先针对影子库、影子表两种方案进行介绍和对比，然后针对常见的场景，给出方案的选择建议。 作者： 葛 
+    redis是一个非常优秀的软件，它可以用作内存数据库或者缓存。因为他的优秀性能，redis被应用在很多场合中。 redis是一个客户端和服务器端的模式，客户端和服务器端是通过TCP协议进行连接的 
     </details> 
 
-- 🕯 [偶遇算法-二叉树存储数组](https://juejin.cn/post/7119421737003352100) | Tue Jul 12 2022 9:52 AM 
+- 🕯 [从一个 bug 中延伸出 canvas 最大内存限制和浏览器渲染原理](https://juejin.cn/post/7119433434501480478) | Tue Jul 12 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述： 二叉树也可以用数组来存储给定一个数组树的根节点的值储存在下标 1 对于储存在下标 n 的节点，他的左子节点和右子节点分别储存在下标 2n 和 2n+1 并且我们用-1 代表一个节点为空给定 
+    如何从bug中探究更多的原理性知识，或许是你每天CRUD还能提升技术的关键，你真的了解Canvas和浏览器原理吗？ 
     </details> 
 
-- 🚀 [一战失败，在职考研，二战终上岸——985末流毕业生两年人生经历](https://juejin.cn/post/7119417723750203406) | Tue Jul 12 2022 9:37 AM 
+- 🚀 [深度理解Dayjs、时间、时区、时间字符串](https://juejin.cn/post/7119429937626365965) | Tue Jul 12 2022 10:25 AM 
     <details><summary>展开描述 ...</summary> 
-    尽管参加的是年中总结征文大赛，但我其实更想谈谈整个过去两年多的经历，这两年我所经历的事情的丰富程度可以说远超人生中其他任何两年。一边是对过去做个总结，一边也是为将来的人生提供参考 
+    如果你也需要处理时区和时间，本文会为你深度讲解dayjs在处理时间、时区上需要理解的心智成本。欢迎留言交流 
     </details> 
 
-- 💪 [坐标杭州，毕业一年的前端小菜鸟的2022年中总结](https://juejin.cn/post/7119400944600612877) | Tue Jul 12 2022 8:31 AM 
+- 💪 [带你掌握Vue3新宠——快速Diff算法](https://juejin.cn/post/7119428616391229471) | Tue Jul 12 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-    时光不负，创作不停，本文正在参加2022年中总结征文大赛」2022上半年对自己而言，是特别重要的一段时间、因为发生了对自己来说特别重要的事情。开心或者不开心的事情，让自己不得不成长 
+    我们都知道Vue 2中用的diff算法是双端Diff。而Vue 3的其中一个特性就是把底层的diff算法改成了快速Diff。 与字面意思一样，快速diff是目前已知的最快的diff算法。 本文将 
     </details> 
 <!-- juejin:END -->
 ### 少数派
