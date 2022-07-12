@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python的__getattr__方法学习](https://juejin.cn/post/7119458309400166437) | Tue Jul 12 2022 12:14 PM 
+- 🤗 [2022 云原生编程挑战赛启动！导师解析服务网格赛题](https://juejin.cn/post/7119476729172721678) | Tue Jul 12 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
-    __getattr__函数的作用： 如果属性查找（attribute lookup）在实例以及对应的类中（通过__dict__&rpar;失败， 那么会调用到类的__getattr__函数； 如果没有定义这个函 
+    本文从赛题背景、赛题解析和解题思路的角度，对本届比赛题目进行了分析，介绍了在三个方向下服务网格的优化思路。希望对即将参加比赛的同学们能有所帮助。在此预祝各位参赛选手能取得优异的成绩，进军复赛和总决赛， 
     </details> 
 
-- 🎡 [会用redis吗？那还不快来了解下redis protocol](https://juejin.cn/post/7119444136003895332) | Tue Jul 12 2022 11:20 AM 
+- 🎡 [深度揭秘阿里云函数计算异步任务能力](https://juejin.cn/post/7119472712250032158) | Tue Jul 12 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
-    redis是一个非常优秀的软件，它可以用作内存数据库或者缓存。因为他的优秀性能，redis被应用在很多场合中。 redis是一个客户端和服务器端的模式，客户端和服务器端是通过TCP协议进行连接的 
+    在本篇中我们将会进一步走进函数计算异步任务，介绍异步任务的调度方案以及系统在可观测性方面所支持的各项功能。 
     </details> 
 
-- 🕯 [从一个 bug 中延伸出 canvas 最大内存限制和浏览器渲染原理](https://juejin.cn/post/7119433434501480478) | Tue Jul 12 2022 10:38 AM 
+- 🕯 [服务网格 ASM 6 月份产品动态](https://juejin.cn/post/7119466215457865765) | Tue Jul 12 2022 12:45 PM 
     <details><summary>展开描述 ...</summary> 
-    如何从bug中探究更多的原理性知识，或许是你每天CRUD还能提升技术的关键，你真的了解Canvas和浏览器原理吗？ 
+    ![1.jpeg]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/12d668e7db40453880fd54f6b62547fc~tplv-k3 
     </details> 
 
-- 🚀 [深度理解Dayjs、时间、时区、时间字符串](https://juejin.cn/post/7119429937626365965) | Tue Jul 12 2022 10:25 AM 
+- 🚀 [设计稳定的微服务系统时不得不考虑的场景](https://juejin.cn/post/7119464197708054542) | Tue Jul 12 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-    如果你也需要处理时区和时间，本文会为你深度讲解dayjs在处理时间、时区上需要理解的心智成本。欢迎留言交流 
+    本文将介绍两种方式，是在面对流量不稳定因素时常见的两种方案，也是我们在设计高可用的系统前不得不考虑的两种能力，是服务流量治理中非常关键的一环。 
     </details> 
 
-- 💪 [带你掌握Vue3新宠——快速Diff算法](https://juejin.cn/post/7119428616391229471) | Tue Jul 12 2022 10:20 AM 
+- 💪 [解析JavaScript--关键字this](https://juejin.cn/post/7119455352378097701) | Tue Jul 12 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
-    我们都知道Vue 2中用的diff算法是双端Diff。而Vue 3的其中一个特性就是把底层的diff算法改成了快速Diff。 与字面意思一样，快速diff是目前已知的最快的diff算法。 本文将 
+    在javascript中，关键字this备受关注，地位颇高。作为今天的主角--this，本文将从（1）this的绑定规则；（2）this的指向；（ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
