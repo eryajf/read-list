@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [偶遇算法-拼接URL](https://juejin.cn/post/7119352460426084366) | Tue Jul 12 2022 5:24 AM 
+- 🤗 [偶遇算法-服务器广播](https://juejin.cn/post/7119362464847757319) | Tue Jul 12 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述： 服务器连接方式包括直接连接，间接连接。A 和 B 直接连接，B 和 C 直接连接，则 A 和 C 间接连接。直接连接和间接连接都可以发送广播。 给出一个 NN 数组，代表 N 个服务器，m 
+    </details> 
+
+- 🎡 [【面试造火箭，入职拧螺丝】万字详解如何从0开始手写一个Promise](https://juejin.cn/post/7119360791966384142) | Tue Jul 12 2022 5:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    手写Promise现在已经成了面试的热门内容，但在实际开发中基本都不会去手写一个Promise，但是在面试中各种手写题可能就会遇到一个手写Promise，我们可以尽量提高我们的上限，从而获取更多的工作 
+    </details> 
+
+- 🕯 [偶遇算法-拼接URL](https://juejin.cn/post/7119352460426084366) | Tue Jul 12 2022 5:24 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述： 给定一个 url 前缀和 url 后缀,通过,分割 需要将其连接为一个完整的 url 如果前缀结尾和后缀开头都没有/，需要自动补上/连接符 如果前缀结尾和后缀开头都为/，需要自动去重 约束 
     </details> 
 
-- 🎡 [偶遇算法-矩阵最大值](https://juejin.cn/post/7119336196605476872) | Tue Jul 12 2022 4:20 AM 
+- 🚀 [偶遇算法-矩阵最大值](https://juejin.cn/post/7119336196605476872) | Tue Jul 12 2022 4:20 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 给定一个二维整数矩阵，要在这个矩阵中选出一个子矩阵，使得这个子矩阵内所有的数字和尽量大，我们把这个子矩阵称为和最大矩阵，子矩阵的选取原则是原矩阵中一块连续的矩形区域，单独一行、单独一列、整个 
     </details> 
 
-- 🕯 [今天来聊聊webpack 5.0 模块联邦](https://juejin.cn/post/7119298510247165965) | Tue Jul 12 2022 1:54 AM 
+- 💪 [今天来聊聊webpack 5.0 模块联邦](https://juejin.cn/post/7119298510247165965) | Tue Jul 12 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
     阿里云的微前端子应用和子应用、子应用和主应用之间是完全独立部署、独立打包的，在文末，我们也提到了 webpack5 的新特性——模块联邦。接下来，我就带大家一起了解下这个新特性，看看他究竟解决什么问题 
-    </details> 
-
-- 🚀 [动态化UI在Qunar客户端首页的应用](https://juejin.cn/post/7119298155610374180) | Tue Jul 12 2022 1:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上线动态化 UI 前，Qunar 大客户端的首页内容基本都是基于 Native 进行开发的。在保证 APP 的冷启动性能，为用户带来流畅体验的同时，也存在着一些痛点，动态化 UI正是为了解决这一痛点 
-    </details> 
-
-- 💪 [太长了，巧妙地优化了跑马灯](https://juejin.cn/post/7119293708813467678) | Tue Jul 12 2022 1:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 上周优化了个跑马灯，原因是跑马灯的长度太长了，每个item的节点比较多，所以即使限制最多只有50个item，也还是很长很长，有多长可以看看下面 怎么优化呢？看看之前的跑马灯 优化前的写法 之前的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
