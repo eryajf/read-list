@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [一文简单明了说明为什么 float64 float32 会有精确缺失的问题](https://www.v2ex.com/t/865785#reply0) | Tue Jul 12 2022 4:13 PM
+- 🥸 [一文简单明了说明为什么 float64 float32 会有精确缺失的问题](https://www.v2ex.com/t/865785#reply10) | Tue Jul 12 2022 4:13 PM
 - 🤗 [Ignite 有人用过吗？](https://www.v2ex.com/t/865774#reply1) | Tue Jul 12 2022 2:33 PM
 - 🎭 [给精简的 shell 循环遍历代码只传两个参数，处理时间差距 10 倍是为何？内详](https://www.v2ex.com/t/865773#reply5) | Tue Jul 12 2022 2:25 PM
 - 🥷 [字符串 hash 问题，有 &lt;N 个字符串长度任意，放入到长度为 N 的数组，后续还需要根据这 N 个字符串快速得到位置，怎么样最快呢？](https://www.v2ex.com/t/865764#reply2) | Tue Jul 12 2022 1:38 PM
