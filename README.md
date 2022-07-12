@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [webAssembly 目前是个啥情况](https://www.v2ex.com/t/865575#reply3) | Tue Jul 12 2022 1:38 AM
-- 🤗 [win10 WinHTTP Web Proxy 电源占用一直很高该如何解决，这是什么服务？](https://www.v2ex.com/t/865569#reply1) | Tue Jul 12 2022 1:08 AM
-- 🎭 [maven 多模块拆分导致循环依赖问题](https://www.v2ex.com/t/865566#reply6) | Tue Jul 12 2022 12:58 AM
-- 🥷 [有什么比较优秀的自动化测试框架吗](https://www.v2ex.com/t/865565#reply1) | Tue Jul 12 2022 12:57 AM
-- 🐵 [c++20 coroutine 实现的 generator 可以被优化成常数](https://www.v2ex.com/t/865556#reply2) | Mon Jul 11 2022 9:04 PM<!-- v2ex:END -->
+- 🥸 [x86 架构的处理器可以运行 armeabi-v7a 指令吗？](https://www.v2ex.com/t/865629#reply1) | Tue Jul 12 2022 3:54 AM
+- 🤗 [请教，如何根据时间生成有序号码？](https://www.v2ex.com/t/865619#reply1) | Tue Jul 12 2022 3:38 AM
+- 🎭 [发现在微信发的每一个链接都会被腾讯访问一下](https://www.v2ex.com/t/865618#reply10) | Tue Jul 12 2022 3:37 AM
+- 🥷 [关于接口设计原则和设计模式](https://www.v2ex.com/t/865602#reply2) | Tue Jul 12 2022 2:56 AM
+- 🐵 [全知全能的 v2er, 来探讨一个问题](https://www.v2ex.com/t/865601#reply5) | Tue Jul 12 2022 2:52 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
