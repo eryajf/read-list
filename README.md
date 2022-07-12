@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [iOS / iPadOS 16 公测版来了：新系统升降级指南 &amp; 注意事项](https://sspai.com/post/74155) | Tue Jul 12 2022 3:17 AM 
+- 👹 [关于猴痘病毒，你现在需要了解这些](https://sspai.com/post/74231) | Tue Jul 12 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    猴痘病毒在欧美地区爆发，你对这个病毒的理解正确吗？这篇文章为你破除一些关于猴痘的迷思。&lt;a href=&quot;https://sspai.com/post/74231&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [iOS / iPadOS 16 公测版来了：新系统升降级指南 &amp; 注意事项](https://sspai.com/post/74155) | Tue Jul 12 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
     Apple 推送了 iOS 16、iPadOS 16 的首个 Public Beta 公开测试版本，如果你想在第一时间体验新系统功能，少数派帮你准备了这份升降级指南。&lt;a href=&quot;https://sspai.com/post/74155&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：iOS 16 Public Beta 等发布、腾讯游戏发布暑假期间未成年人限玩日历等](https://sspai.com/post/74227) | Tue Jul 12 2022 1:03 AM 
+- 🤭 [派早报：iOS 16 Public Beta 等发布、腾讯游戏发布暑假期间未成年人限玩日历等](https://sspai.com/post/74227) | Tue Jul 12 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
     詹姆斯·韦布空间望远镜首张全彩照片发布，红魔召开新品发布会等。&lt;a href=&quot;https://sspai.com/post/74227&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/74192) | Mon Jul 11 2022 9:30 AM 
+- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/74192) | Mon Jul 11 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/74192&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [打开终端总有好心情：我的美化方案及配置分享](https://sspai.com/post/74216) | Mon Jul 11 2022 8:00 AM 
+- 🙉 [打开终端总有好心情：我的美化方案及配置分享](https://sspai.com/post/74216) | Mon Jul 11 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     有时候换一个终端就是一种全新的心情，闲暇时不断优化折腾也不失为一种放松。&lt;a href=&quot;https://sspai.com/post/74216&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [一派·Podcast | 谈谈中美工具类 SaaS 的异同](https://sspai.com/post/74214) | Mon Jul 11 2022 6:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    围绕工具类 SaaS 的发展和应用，探讨了中美从市场到用户对于软体服务的选择方向、购买决策、消费能力等异同。&lt;a href=&quot;https://sspai.com/post/74214&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
