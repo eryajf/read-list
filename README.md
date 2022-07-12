@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750533) | Mon Jul 11 2022 12:27 AM
-- 🐻 [为什么有些饮料能解渴，有些却越喝嗓子越干，是什么影响了饮料「解渴」的效果？](http://daily.zhihu.com/story/9750499) | Mon Jul 11 2022 12:27 AM
-- 🌏 [《风骚律师》系列美剧给你印象最深的一个镜头是什么？ - 知乎](http://daily.zhihu.com/story/9750505) | Mon Jul 11 2022 12:27 AM
-- 🕴 [如何煮出好吃的溏心蛋？](http://daily.zhihu.com/story/9750506) | Mon Jul 11 2022 12:27 AM
-- 🌮 [「中国复眼」开建，可实现千万公里外小行星探测成像，将对观测工作带来哪些帮助？](http://daily.zhihu.com/story/9750516) | Mon Jul 11 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750577) | Tue Jul 12 2022 12:27 AM
+- 🐻 [人们常说的电影摄影师基本功究竟是个啥？](http://daily.zhihu.com/story/9750542) | Tue Jul 12 2022 12:27 AM
+- 🌏 [如果每个人都带上降噪耳机，世界会变成什么样？](http://daily.zhihu.com/story/9750547) | Tue Jul 12 2022 12:27 AM
+- 🕴 [蔬菜汁可以减肥吗？为什么减肥的人要喝蔬菜汁?](http://daily.zhihu.com/story/9750557) | Tue Jul 12 2022 12:27 AM
+- 🌮 [是所有饮料都冰了更好喝么？「冰」为什么能带来口感提升？](http://daily.zhihu.com/story/9750566) | Tue Jul 12 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
