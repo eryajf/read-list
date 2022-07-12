@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [罗永浩搅热XR，大厂急了？](http://www.techweb.com.cn/viewpoint/2022-07-12/2897804.shtml) | Tue Jul 12 2022 6:16 AM
-- 👹 [现代拟在韩国建造其首家电动汽车专用工厂 2025年前投产](http://www.techweb.com.cn/world/2022-07-12/2897803.shtml) | Tue Jul 12 2022 6:01 AM
-- 🪜 [意法半导体宣布同格芯在法国建厂 计划2026年全面投产](http://www.techweb.com.cn/world/2022-07-12/2897800.shtml) | Tue Jul 12 2022 3:55 AM
-- 🤭 [被一颗芯片拿捏的中国车厂](http://www.techweb.com.cn/viewpoint/2022-07-12/2897796.shtml) | Tue Jul 12 2022 3:15 AM
-- 🙉 [近4亿元银行资金被冻结 vivo要求印度法院解除](http://www.techweb.com.cn/it/2022-07-12/2897784.shtml) | Tue Jul 12 2022 2:56 AM<!-- techweb-allnews:END -->
+- 👍 [航拍显示芦潮港已停放有大量特斯拉电动汽车 预计全部出口欧洲](http://www.techweb.com.cn/world/2022-07-12/2897817.shtml) | Tue Jul 12 2022 7:48 AM
+- 👹 [微软宣布全球裁员不到1% 本财年还将全面增加员工人数](http://www.techweb.com.cn/world/2022-07-12/2897815.shtml) | Tue Jul 12 2022 7:40 AM
+- 🪜 [WPS在盯着你？](http://www.techweb.com.cn/viewpoint/2022-07-12/2897812.shtml) | Tue Jul 12 2022 7:16 AM
+- 🤭 [罗永浩搅热XR，大厂急了？](http://www.techweb.com.cn/viewpoint/2022-07-12/2897804.shtml) | Tue Jul 12 2022 6:16 AM
+- 🙉 [现代拟在韩国建造其首家电动汽车专用工厂 2025年前投产](http://www.techweb.com.cn/world/2022-07-12/2897803.shtml) | Tue Jul 12 2022 6:01 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
