@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [怎么通过 node 脚本打开一个本地应用程序](https://www.v2ex.com/t/865754#reply0) | Tue Jul 12 2022 12:32 PM
-- 🤗 [gengine 的性能损耗这么大的吗？](https://www.v2ex.com/t/865744#reply0) | Tue Jul 12 2022 11:15 AM
-- 🎭 [VS Code Java 用户调研 —— 云原生研发](https://www.v2ex.com/t/865729#reply2) | Tue Jul 12 2022 9:43 AM
-- 🥷 [如何获取-浏览器指纹](https://www.v2ex.com/t/865724#reply2) | Tue Jul 12 2022 9:15 AM
-- 🐵 [Visual Studio Code Java 问卷调研 —— 云原生开发](https://www.v2ex.com/t/865719#reply1) | Tue Jul 12 2022 9:09 AM<!-- v2ex:END -->
+- 🥸 [字符串 hash 问题，有 N 个字符串长度任意，放入到长度为 N 的数组，后续还需要根据这 N 个字符串快速得到位置，怎么样最快呢？](https://www.v2ex.com/t/865764#reply0) | Tue Jul 12 2022 1:38 PM
+- 🤗 [向各位请教一下，迁移已经停止支援的 Windows（比如 Windows Server 2008）还能否获得授权？](https://www.v2ex.com/t/865762#reply4) | Tue Jul 12 2022 1:22 PM
+- 🎭 [公司要开发一款类似宝塔的软件,大家提点意见](https://www.v2ex.com/t/865761#reply2) | Tue Jul 12 2022 1:17 PM
+- 🥷 [怎么通过 node 脚本打开一个本地应用程序](https://www.v2ex.com/t/865754#reply6) | Tue Jul 12 2022 12:32 PM
+- 🐵 [gengine 的性能损耗这么大的吗？](https://www.v2ex.com/t/865744#reply0) | Tue Jul 12 2022 11:15 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
