@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [阿里前端智能化技术探索和未来思考](https://juejin.cn/post/7119391755362893861) | Tue Jul 12 2022 7:56 AM 
+- 🤗 [676. 实现一个魔法字典 : 结合 DFS 的 Trie 运用题](https://juejin.cn/post/7119403012841766949) | Tue Jul 12 2022 8:39 AM 
     <details><summary>展开描述 ...</summary> 
-    最近看到一个研判：过去十年是智能化蓬勃发展的十年，但未来十年会是智能化渗入各领域不断改变我们生活和工作的十年。 
+    题目描述 这是 LeetCode 上的 676. 实现一个魔法字典 ，难度为 中等。 Tag : 「字典树」、「DFS」 设计一个使用单词列表进行初始化的数据结构，单词列表中的单词 互不相同 。 如果 
     </details> 
 
-- 🎡 [偷偷用状态机重构代码，跟你的切图仔同事拉开差距](https://juejin.cn/post/7119382536832172045) | Tue Jul 12 2022 7:20 AM 
+- 🎡 [【AI实战系列】一键自动化数据分析！快来看看这些宝藏工具库](https://juejin.cn/post/7119402913348190215) | Tue Jul 12 2022 8:39 AM 
     <details><summary>展开描述 ...</summary> 
-    最近看到一篇状态机的文章，出于好奇，抱着多了解一些相关知识的心态多找了几篇文章，对于高大上的概念我其实是不太感冒的，作为技术人，我还是比较看重实际代码，遂动手进行了完整实现 
+    探索性数据分析&lpar;EDA&rpar;在机器学习中至关重要！这些高效又绝美的宝藏库，快用起来——Matplotlib、Seaborn、Plotly、Bokeh、Altair、pandas-profiling… 
     </details> 
 
-- 🕯 [仙途智能B2轮融资2亿，YOLOv7发布&lpar;美团YOLOv6:爱过&rpar;，最新互联网校招汇总，写Python≈?画流程图 | ShowMeAI资讯日报 #07.12](https://juejin.cn/post/7119368171089297438) | Tue Jul 12 2022 6:24 AM 
+- 🕯 [偶遇算法-仿LISP算法](https://juejin.cn/post/7119399223040147469) | Tue Jul 12 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 2022-07-12 期，Barfi 图形化 Python 编程、sematic 开源 ML pipeline 工具箱、时序数据预测、互联网校招信息汇总、目标检测与YOLO… 
+    仿 LISP 字符串运算 LISP 语言唯一的语法就是括号要配对。 形如 &lpar;OP P1 P2 …&rpar;，括号内元素由单个空格分割。 其中第一个元素 OP 为操作符，后续元素均为其参数，参数个数取决于操作符 
     </details> 
 
-- 🚀 [JVM 优化踩坑记](https://juejin.cn/post/7119332680134557726) | Tue Jul 12 2022 4:09 AM 
+- 🚀 [iOS界面优化](https://juejin.cn/post/7119370422600073253) | Tue Jul 12 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-    本文记录了服务 JVM 优化的过程与思路，有对 JVM GC 原理以及对问题排查方向和工具的介绍，也有走弯路和踩坑，希望对大家有所帮助。 
+    一、卡顿的原理 从过去的 CRT 显示器原理说起。CRT 的电子枪按照上面方式，从上到下一行行扫描，扫描完成后显示器就呈现一帧画面，随后电子枪回到初始位置继续下一次扫描。为了把显示器的显示过程和系统的 
     </details> 
 
-- 💪 [HashMap设计原理与实现（下篇）200行带你写自己的HashMap！！！](https://juejin.cn/post/7119161280803373086) | Mon Jul 11 2022 5:04 PM 
+- 💪 [Android 启动优化，方案调研](https://juejin.cn/post/7119368593644470285) | Tue Jul 12 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-    200行代码，带你实现属于你自己的哈希表，让他能像JDK给我们提供的HashMap一样进行工作，再也不怕HashMap了！！！ 
+    一个应用的好快可以用四个字来概括，即“用户体验” 常规优化、空间转换优化、系统级别的启动优化，提升用户体验 
     </details> 
 <!-- juejin:END -->
 ### 少数派
