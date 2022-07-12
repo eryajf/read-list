@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [偶遇算法-服务器广播](https://juejin.cn/post/7119362464847757319) | Tue Jul 12 2022 6:02 AM 
+- 🤗 [阿里前端智能化技术探索和未来思考](https://juejin.cn/post/7119391755362893861) | Tue Jul 12 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述： 服务器连接方式包括直接连接，间接连接。A 和 B 直接连接，B 和 C 直接连接，则 A 和 C 间接连接。直接连接和间接连接都可以发送广播。 给出一个 NN 数组，代表 N 个服务器，m 
+    最近看到一个研判：过去十年是智能化蓬勃发展的十年，但未来十年会是智能化渗入各领域不断改变我们生活和工作的十年。 
     </details> 
 
-- 🎡 [【面试造火箭，入职拧螺丝】万字详解如何从0开始手写一个Promise](https://juejin.cn/post/7119360791966384142) | Tue Jul 12 2022 5:56 AM 
+- 🎡 [偷偷用状态机重构代码，跟你的切图仔同事拉开差距](https://juejin.cn/post/7119382536832172045) | Tue Jul 12 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
-    手写Promise现在已经成了面试的热门内容，但在实际开发中基本都不会去手写一个Promise，但是在面试中各种手写题可能就会遇到一个手写Promise，我们可以尽量提高我们的上限，从而获取更多的工作 
+    最近看到一篇状态机的文章，出于好奇，抱着多了解一些相关知识的心态多找了几篇文章，对于高大上的概念我其实是不太感冒的，作为技术人，我还是比较看重实际代码，遂动手进行了完整实现 
     </details> 
 
-- 🕯 [JVM 优化踩坑记](https://juejin.cn/post/7119332680134557726) | Tue Jul 12 2022 4:09 AM 
+- 🕯 [仙途智能B2轮融资2亿，YOLOv7发布&lpar;美团YOLOv6:爱过&rpar;，最新互联网校招汇总，写Python≈?画流程图 | ShowMeAI资讯日报 #07.12](https://juejin.cn/post/7119368171089297438) | Tue Jul 12 2022 6:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 2022-07-12 期，Barfi 图形化 Python 编程、sematic 开源 ML pipeline 工具箱、时序数据预测、互联网校招信息汇总、目标检测与YOLO… 
+    </details> 
+
+- 🚀 [JVM 优化踩坑记](https://juejin.cn/post/7119332680134557726) | Tue Jul 12 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
     本文记录了服务 JVM 优化的过程与思路，有对 JVM GC 原理以及对问题排查方向和工具的介绍，也有走弯路和踩坑，希望对大家有所帮助。 
     </details> 
 
-- 🚀 [HashMap设计原理与实现（下篇）200行带你写自己的HashMap！！！](https://juejin.cn/post/7119161280803373086) | Mon Jul 11 2022 5:04 PM 
+- 💪 [HashMap设计原理与实现（下篇）200行带你写自己的HashMap！！！](https://juejin.cn/post/7119161280803373086) | Mon Jul 11 2022 5:04 PM 
     <details><summary>展开描述 ...</summary> 
     200行代码，带你实现属于你自己的哈希表，让他能像JDK给我们提供的HashMap一样进行工作，再也不怕HashMap了！！！ 
-    </details> 
-
-- 💪 [一文详解事件循环，同步任务与异步任务](https://juejin.cn/post/7119135737248743438) | Mon Jul 11 2022 3:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 首先，在学习js中同步异步的问题前，需要明白，js是单线程的，为什么它得是单线程的呢？这得从它的使用场景来看了，它主要是用来让用户与页面进行交互的吧。那么假设js是多线程的，在这个线程里面，用户 
     </details> 
 <!-- juejin:END -->
 ### 少数派
