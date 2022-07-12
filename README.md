@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [676. 实现一个魔法字典 : 结合 DFS 的 Trie 运用题](https://juejin.cn/post/7119403012841766949) | Tue Jul 12 2022 8:39 AM 
+- 🤗 [知乎基于 Apache Doris 的 DMP 平台架构建设实践｜万字长文详解](https://juejin.cn/post/7119331193174097934) | Tue Jul 12 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 676. 实现一个魔法字典 ，难度为 中等。 Tag : 「字典树」、「DFS」 设计一个使用单词列表进行初始化的数据结构，单词列表中的单词 互不相同 。 如果 
+    作者｜用户理解 &amp; 数据赋能研发 Leader 侯容 DMP 业务背景 DMP 平台是大家老生常谈的话题。在早期广告系统出现之后就拥有了类似的 DMP 平台，比如：腾讯的广点通、阿里巴巴的达摩盘等都是 
     </details> 
 
-- 🎡 [【AI实战系列】一键自动化数据分析！快来看看这些宝藏工具库](https://juejin.cn/post/7119402913348190215) | Tue Jul 12 2022 8:39 AM 
+- 🎡 [Promise、Generator、async/await用法](https://juejin.cn/post/7119310060701892616) | Tue Jul 12 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    探索性数据分析&lpar;EDA&rpar;在机器学习中至关重要！这些高效又绝美的宝藏库，快用起来——Matplotlib、Seaborn、Plotly、Bokeh、Altair、pandas-profiling… 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 Promise、Generator、async/await都是用来解决异步编程的 Promise promise对象一共有三个状态 等待 实现&lpar;r 
     </details> 
 
-- 🕯 [偶遇算法-仿LISP算法](https://juejin.cn/post/7119399223040147469) | Tue Jul 12 2022 8:25 AM 
+- 🕯 [ES2022新规发布，8个实用新功能](https://juejin.cn/post/7119309621453389855) | Tue Jul 12 2022 2:37 AM 
     <details><summary>展开描述 ...</summary> 
-    仿 LISP 字符串运算 LISP 语言唯一的语法就是括号要配对。 形如 &lpar;OP P1 P2 …&rpar;，括号内元素由单个空格分割。 其中第一个元素 OP 为操作符，后续元素均为其参数，参数个数取决于操作符 
+    新的 ES13 规范终于发布了。 JavaScript 不是一种开源语言，它是一种需要遵循 ECMAScript 标准规范编写的语言，TC39 委员会负责讨论和批准新功能的发布， 那TC39他们是谁？ 
     </details> 
 
-- 🚀 [iOS界面优化](https://juejin.cn/post/7119370422600073253) | Tue Jul 12 2022 6:33 AM 
+- 🚀 [使用electron 将网页打包成应用程序](https://juejin.cn/post/7119309555300843557) | Tue Jul 12 2022 2:37 AM 
     <details><summary>展开描述 ...</summary> 
-    一、卡顿的原理 从过去的 CRT 显示器原理说起。CRT 的电子枪按照上面方式，从上到下一行行扫描，扫描完成后显示器就呈现一帧画面，随后电子枪回到初始位置继续下一次扫描。为了把显示器的显示过程和系统的 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 需求： 将一个已经上线的后台管理系统（只兼容Chrome）打包成一个不需要谷歌浏览器就可以运行的软件 需要安装： npm install elec 
     </details> 
 
-- 💪 [Android 启动优化，方案调研](https://juejin.cn/post/7119368593644470285) | Tue Jul 12 2022 6:26 AM 
+- 💪 [从头开始实现 Promise](https://juejin.cn/post/7119308872791097374) | Tue Jul 12 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    一个应用的好快可以用四个字来概括，即“用户体验” 常规优化、空间转换优化、系统级别的启动优化，提升用户体验 
+    本文的目标是编写一个与 then/promise 类似的符合 Promise/A+ 的实现。 以下前半部分译自 Implementing promises from scratch，也是本文的重点。你 
     </details> 
 <!-- juejin:END -->
 ### 少数派
