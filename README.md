@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [被一颗芯片拿捏的中国车厂](http://www.techweb.com.cn/viewpoint/2022-07-12/2897796.shtml) | Tue Jul 12 2022 3:15 AM
-- 👹 [近4亿元银行资金被冻结 vivo要求印度法院解除](http://www.techweb.com.cn/it/2022-07-12/2897784.shtml) | Tue Jul 12 2022 2:56 AM
-- 🪜 [Gartner：二季度全球PC出货量持续下降 Mac实现唯一正增长](http://www.techweb.com.cn/world/2022-07-12/2897782.shtml) | Tue Jul 12 2022 2:41 AM
-- 🤭 [京东的流量饥渴，只有腾讯能解？](http://www.techweb.com.cn/viewpoint/2022-07-12/2897770.shtml) | Tue Jul 12 2022 2:24 AM
-- 🙉 [特斯拉劲敌Rivian也准备裁员 计划裁减增长过快领域5%员工](http://www.techweb.com.cn/world/2022-07-12/2897769.shtml) | Tue Jul 12 2022 2:16 AM<!-- techweb-allnews:END -->
+- 👍 [意法半导体宣布同格芯在法国建厂 计划2026年全面投产](http://www.techweb.com.cn/world/2022-07-12/2897800.shtml) | Tue Jul 12 2022 3:55 AM
+- 👹 [被一颗芯片拿捏的中国车厂](http://www.techweb.com.cn/viewpoint/2022-07-12/2897796.shtml) | Tue Jul 12 2022 3:15 AM
+- 🪜 [近4亿元银行资金被冻结 vivo要求印度法院解除](http://www.techweb.com.cn/it/2022-07-12/2897784.shtml) | Tue Jul 12 2022 2:56 AM
+- 🤭 [Gartner：二季度全球PC出货量持续下降 Mac实现唯一正增长](http://www.techweb.com.cn/world/2022-07-12/2897782.shtml) | Tue Jul 12 2022 2:41 AM
+- 🙉 [京东的流量饥渴，只有腾讯能解？](http://www.techweb.com.cn/viewpoint/2022-07-12/2897770.shtml) | Tue Jul 12 2022 2:24 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
