@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [消息称盛京银行在支付宝无法提现 双方回应了](http://www.techweb.com.cn/it/2022-07-11/2897698.shtml) | Mon Jul 11 2022 12:51 PM
-- 👹 [游族网络：预计上半年盈利同比下滑65.77%至77.18%](http://www.techweb.com.cn/it/2022-07-11/2897697.shtml) | Mon Jul 11 2022 12:41 PM
-- 🪜 [吉利汽车：法巴个人金融拟4.21亿元向公司购买合资公司5%权益](http://www.techweb.com.cn/it/2022-07-11/2897696.shtml) | Mon Jul 11 2022 12:33 PM
-- 🤭 [腾讯控股：斥资约3亿元回购88万股](http://www.techweb.com.cn/it/2022-07-11/2897695.shtml) | Mon Jul 11 2022 12:21 PM
-- 🙉 [蔚来：成立独立委员会 监督卖空报告中相关指控的独立调查工作](http://www.techweb.com.cn/it/2022-07-11/2897694.shtml) | Mon Jul 11 2022 12:17 PM<!-- techweb-allnews:END -->
+- 👍 [特斯拉劲敌Rivian被曝计划裁员5% 涉及数百人](http://www.techweb.com.cn/it/2022-07-12/2897722.shtml) | Tue Jul 12 2022 1:20 AM
+- 👹 [每日优鲜被曝3天关闭了9城 回应称系业务调整](http://www.techweb.com.cn/it/2022-07-12/2897717.shtml) | Tue Jul 12 2022 1:17 AM
+- 🪜 [打工人吃出三个IPO：最苦的生意，比麻辣烫还惨](http://www.techweb.com.cn/viewpoint/2022-07-12/2897715.shtml) | Tue Jul 12 2022 1:15 AM
+- 🤭 [消息称盛京银行在支付宝无法提现 双方回应了](http://www.techweb.com.cn/it/2022-07-11/2897698.shtml) | Mon Jul 11 2022 12:51 PM
+- 🙉 [游族网络：预计上半年盈利同比下滑65.77%至77.18%](http://www.techweb.com.cn/it/2022-07-11/2897697.shtml) | Mon Jul 11 2022 12:41 PM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
