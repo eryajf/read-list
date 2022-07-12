@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [知乎基于 Apache Doris 的 DMP 平台架构建设实践｜万字长文详解](https://juejin.cn/post/7119331193174097934) | Tue Jul 12 2022 4:02 AM 
+- 🤗 [当 Knative 遇见 WebAssembly](https://juejin.cn/post/7119424352969293861) | Tue Jul 12 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-    作者｜用户理解 &amp; 数据赋能研发 Leader 侯容 DMP 业务背景 DMP 平台是大家老生常谈的话题。在早期广告系统出现之后就拥有了类似的 DMP 平台，比如：腾讯的广点通、阿里巴巴的达摩盘等都是 
+    简介： Knative 可以支持各种容器化的运行时环境，我们今天来探索一下利用 WebAssembly 技术作为一个新的 Serverless 运行时。 作者：易立 Knative 是在 Kubern 
     </details> 
 
-- 🎡 [Promise、Generator、async/await用法](https://juejin.cn/post/7119310060701892616) | Tue Jul 12 2022 2:39 AM 
+- 🎡 [全链路压测：影子库与影子表之争](https://juejin.cn/post/7119423555720200222) | Tue Jul 12 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 Promise、Generator、async/await都是用来解决异步编程的 Promise promise对象一共有三个状态 等待 实现&lpar;r 
+    简介： 在生产环境实施全链路压测的过程中，针对上文谈到的两种方案，又面临着数据隔离方案的选择问题，本文首先针对影子库、影子表两种方案进行介绍和对比，然后针对常见的场景，给出方案的选择建议。 作者： 葛 
     </details> 
 
-- 🕯 [ES2022新规发布，8个实用新功能](https://juejin.cn/post/7119309621453389855) | Tue Jul 12 2022 2:37 AM 
+- 🕯 [偶遇算法-二叉树存储数组](https://juejin.cn/post/7119421737003352100) | Tue Jul 12 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    新的 ES13 规范终于发布了。 JavaScript 不是一种开源语言，它是一种需要遵循 ECMAScript 标准规范编写的语言，TC39 委员会负责讨论和批准新功能的发布， 那TC39他们是谁？ 
+    题目描述： 二叉树也可以用数组来存储给定一个数组树的根节点的值储存在下标 1 对于储存在下标 n 的节点，他的左子节点和右子节点分别储存在下标 2n 和 2n+1 并且我们用-1 代表一个节点为空给定 
     </details> 
 
-- 🚀 [使用electron 将网页打包成应用程序](https://juejin.cn/post/7119309555300843557) | Tue Jul 12 2022 2:37 AM 
+- 🚀 [一战失败，在职考研，二战终上岸——985末流毕业生两年人生经历](https://juejin.cn/post/7119417723750203406) | Tue Jul 12 2022 9:37 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 需求： 将一个已经上线的后台管理系统（只兼容Chrome）打包成一个不需要谷歌浏览器就可以运行的软件 需要安装： npm install elec 
+    尽管参加的是年中总结征文大赛，但我其实更想谈谈整个过去两年多的经历，这两年我所经历的事情的丰富程度可以说远超人生中其他任何两年。一边是对过去做个总结，一边也是为将来的人生提供参考 
     </details> 
 
-- 💪 [从头开始实现 Promise](https://juejin.cn/post/7119308872791097374) | Tue Jul 12 2022 2:34 AM 
+- 💪 [坐标杭州，毕业一年的前端小菜鸟的2022年中总结](https://juejin.cn/post/7119400944600612877) | Tue Jul 12 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    本文的目标是编写一个与 then/promise 类似的符合 Promise/A+ 的实现。 以下前半部分译自 Implementing promises from scratch，也是本文的重点。你 
+    时光不负，创作不停，本文正在参加2022年中总结征文大赛」2022上半年对自己而言，是特别重要的一段时间、因为发生了对自己来说特别重要的事情。开心或者不开心的事情，让自己不得不成长 
     </details> 
 <!-- juejin:END -->
 ### 少数派
