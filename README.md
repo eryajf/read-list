@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [航拍显示芦潮港已停放有大量特斯拉电动汽车 预计全部出口欧洲](http://www.techweb.com.cn/world/2022-07-12/2897817.shtml) | Tue Jul 12 2022 7:48 AM
-- 👹 [微软宣布全球裁员不到1% 本财年还将全面增加员工人数](http://www.techweb.com.cn/world/2022-07-12/2897815.shtml) | Tue Jul 12 2022 7:40 AM
-- 🪜 [WPS在盯着你？](http://www.techweb.com.cn/viewpoint/2022-07-12/2897812.shtml) | Tue Jul 12 2022 7:16 AM
-- 🤭 [罗永浩搅热XR，大厂急了？](http://www.techweb.com.cn/viewpoint/2022-07-12/2897804.shtml) | Tue Jul 12 2022 6:16 AM
-- 🙉 [现代拟在韩国建造其首家电动汽车专用工厂 2025年前投产](http://www.techweb.com.cn/world/2022-07-12/2897803.shtml) | Tue Jul 12 2022 6:01 AM<!-- techweb-allnews:END -->
+- 👍 [腾讯CSIG组织升级 成立政企业务线](http://www.techweb.com.cn/it/2022-07-12/2897830.shtml) | Tue Jul 12 2022 8:53 AM
+- 👹 [马斯克回应星际飞船一助推器爆炸：情况不太好 在评估损失](http://www.techweb.com.cn/world/2022-07-12/2897828.shtml) | Tue Jul 12 2022 8:48 AM
+- 🪜 [九章云极DataCanvas正式发布YLearn因果学习开源项目](http://www.techweb.com.cn/it/2022-07-12/2897824.shtml) | Tue Jul 12 2022 8:38 AM
+- 🤭 [京东科技发布“百亿收入计划”：两年内助合作伙伴获得百亿收入](http://www.techweb.com.cn/it/2022-07-12/2897820.shtml) | Tue Jul 12 2022 8:23 AM
+- 🙉 [永辉推进“三个30%”战略：智能化治理商品池 标杆店坪效提升率超40%](http://www.techweb.com.cn/it/2022-07-12/2897819.shtml) | Tue Jul 12 2022 8:17 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
