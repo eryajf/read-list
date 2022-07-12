@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Kubernetes 问题排查全景图](https://juejin.cn/post/7119479242185768996) | Tue Jul 12 2022 1:36 PM 
+- 🤗 [深入浅出 eBPF｜你要了解的 7 个核心问题](https://juejin.cn/post/7119488929078149133) | Tue Jul 12 2022 2:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    eBPF 提供的只是一个框架和机制，核心还是需要用 eBPF 的人对软件栈的理解，找到合适的插桩点，能够和应用问题进行关联。 
+    </details> 
+
+- 🎡 [Kubernetes 问题排查全景图](https://juejin.cn/post/7119479242185768996) | Tue Jul 12 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
     Kubernetes 问题排查全景图 ![1.png]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bad150a3f4884bf6997a21 
     </details> 
 
-- 🎡 [2022 云原生编程挑战赛启动！导师解析服务网格赛题](https://juejin.cn/post/7119476729172721678) | Tue Jul 12 2022 1:26 PM 
+- 🕯 [2022 云原生编程挑战赛启动！导师解析服务网格赛题](https://juejin.cn/post/7119476729172721678) | Tue Jul 12 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
     本文从赛题背景、赛题解析和解题思路的角度，对本届比赛题目进行了分析，介绍了在三个方向下服务网格的优化思路。希望对即将参加比赛的同学们能有所帮助。在此预祝各位参赛选手能取得优异的成绩，进军复赛和总决赛， 
     </details> 
 
-- 🕯 [深度揭秘阿里云函数计算异步任务能力](https://juejin.cn/post/7119472712250032158) | Tue Jul 12 2022 1:10 PM 
+- 🚀 [深度揭秘阿里云函数计算异步任务能力](https://juejin.cn/post/7119472712250032158) | Tue Jul 12 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
     在本篇中我们将会进一步走进函数计算异步任务，介绍异步任务的调度方案以及系统在可观测性方面所支持的各项功能。 
     </details> 
 
-- 🚀 [给32位系统装8g内存条能用吗？为什么？](https://juejin.cn/post/7119469963345133582) | Tue Jul 12 2022 1:00 PM 
+- 💪 [给32位系统装8g内存条能用吗？为什么？](https://juejin.cn/post/7119469963345133582) | Tue Jul 12 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
     我正在参与掘金技术社区创作者签约计划招募活动，点击链接报名投稿。 关于32位和64位，这个概念一直让人比较懵。 在买电脑的时候，我们看到过32位和64位CPU。 下软件的时候，我们也看到过32位或64 
-    </details> 
-
-- 💪 [服务网格 ASM 6 月份产品动态](https://juejin.cn/post/7119466215457865765) | Tue Jul 12 2022 12:45 PM 
-    <details><summary>展开描述 ...</summary> 
-    ![1.jpeg]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/12d668e7db40453880fd54f6b62547fc~tplv-k3 
     </details> 
 <!-- juejin:END -->
 ### 少数派
