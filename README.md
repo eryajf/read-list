@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [腾讯CSIG组织升级 成立政企业务线](http://www.techweb.com.cn/it/2022-07-12/2897830.shtml) | Tue Jul 12 2022 8:53 AM
-- 👹 [马斯克回应星际飞船一助推器爆炸：情况不太好 在评估损失](http://www.techweb.com.cn/world/2022-07-12/2897828.shtml) | Tue Jul 12 2022 8:48 AM
-- 🪜 [九章云极DataCanvas正式发布YLearn因果学习开源项目](http://www.techweb.com.cn/it/2022-07-12/2897824.shtml) | Tue Jul 12 2022 8:38 AM
-- 🤭 [京东科技发布“百亿收入计划”：两年内助合作伙伴获得百亿收入](http://www.techweb.com.cn/it/2022-07-12/2897820.shtml) | Tue Jul 12 2022 8:23 AM
-- 🙉 [永辉推进“三个30%”战略：智能化治理商品池 标杆店坪效提升率超40%](http://www.techweb.com.cn/it/2022-07-12/2897819.shtml) | Tue Jul 12 2022 8:17 AM<!-- techweb-allnews:END -->
+- 👍 [苹果三星等厂商希望三星显示研发micro OLED面板 但后者尚未大力投入](http://www.techweb.com.cn/world/2022-07-12/2897853.shtml) | Tue Jul 12 2022 9:50 AM
+- 👹 [北森二次递表港交所：连续三财年亏损 软银持股6%](http://www.techweb.com.cn/it/2022-07-12/2897836.shtml) | Tue Jul 12 2022 9:07 AM
+- 🪜 [三星DRAM销售额已连续两个季度下滑 但市场份额Q1有增加](http://www.techweb.com.cn/world/2022-07-12/2897835.shtml) | Tue Jul 12 2022 9:00 AM
+- 🤭 [腾讯CSIG组织升级 成立政企业务线](http://www.techweb.com.cn/it/2022-07-12/2897830.shtml) | Tue Jul 12 2022 8:53 AM
+- 🙉 [马斯克回应星际飞船一助推器爆炸：情况不太好 在评估损失](http://www.techweb.com.cn/world/2022-07-12/2897828.shtml) | Tue Jul 12 2022 8:48 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
