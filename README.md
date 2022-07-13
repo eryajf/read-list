@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Gboard 更改包名](https://www.v2ex.com/t/865886#reply0) | Wed Jul 13 2022 4:58 AM
-- 🤗 [mysql 数据库存日期一般用什么类型？](https://www.v2ex.com/t/865869#reply16) | Wed Jul 13 2022 3:27 AM
-- 🎭 [请教识别这样子的验证码的思路](https://www.v2ex.com/t/865865#reply8) | Wed Jul 13 2022 3:22 AM
-- 🥷 [Java 注解中 String 类型的 default 一些疑问](https://www.v2ex.com/t/865859#reply4) | Wed Jul 13 2022 3:08 AM
-- 🐵 [飞书小程序能不能生成二维码携带自定义数据，用飞书扫码后，直接打开小程序获取到数据？](https://www.v2ex.com/t/865855#reply3) | Wed Jul 13 2022 2:58 AM<!-- v2ex:END -->
+- 🥸 [为什么 idea/datagrip 连接数据库特别慢？](https://www.v2ex.com/t/865902#reply1) | Wed Jul 13 2022 6:10 AM
+- 🤗 [Magician-Containers 1.0.0 发布， Magician 家族又添一位新成员](https://www.v2ex.com/t/865891#reply0) | Wed Jul 13 2022 5:29 AM
+- 🎭 [Gboard 更改包名](https://www.v2ex.com/t/865886#reply0) | Wed Jul 13 2022 4:58 AM
+- 🥷 [mysql 数据库存日期一般用什么类型？](https://www.v2ex.com/t/865869#reply18) | Wed Jul 13 2022 3:27 AM
+- 🐵 [请教识别这样子的验证码的思路](https://www.v2ex.com/t/865865#reply8) | Wed Jul 13 2022 3:22 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
