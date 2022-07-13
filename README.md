@@ -203,7 +203,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [Android wechat 到底想干啥？！在后台 CPU 占用到 156%](https://www.v2ex.com/t/866015#reply0) | Wed Jul 13 2022 8:11 PM
-- 🤗 [一个编程小白关于微信读书的程序构想](https://www.v2ex.com/t/866014#reply0) | Wed Jul 13 2022 6:51 PM
+- 🤗 [一个编程小白关于微信读书的程序构想](https://www.v2ex.com/t/866014#reply1) | Wed Jul 13 2022 6:51 PM
 - 🎭 [果然， GitHub 推出了更多的徽标](https://www.v2ex.com/t/866005#reply5) | Wed Jul 13 2022 3:18 PM
 - 🥷 [定制安卓 10， 系统 OTA 升级过程中如何覆盖 WiFi 之前的配置](https://www.v2ex.com/t/866004#reply0) | Wed Jul 13 2022 3:08 PM
 - 🐵 [Git 三大分支策略， 2 个人的前端团队，开发一个中型应用，适合用哪种策略](https://www.v2ex.com/t/865994#reply7) | Wed Jul 13 2022 2:01 PM<!-- v2ex:END -->
