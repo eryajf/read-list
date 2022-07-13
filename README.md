@@ -205,7 +205,7 @@
 - 🥸 [关于小程序地图组件](https://www.v2ex.com/t/865975#reply0) | Wed Jul 13 2022 11:48 AM
 - 🤗 [高 iowait 到底是什么引起的?](https://www.v2ex.com/t/865973#reply3) | Wed Jul 13 2022 11:20 AM
 - 🎭 [大佬们 脚本提示“app 是旧版本需要升级”服务器端开始检测系统版本了，请问代码该怎么修改? 谢谢🙏](https://www.v2ex.com/t/865971#reply0) | Wed Jul 13 2022 11:08 AM
-- 🥷 [一个项目多个子模块 没有 springboot 启动类的模块 依赖无法注入 怎么写测试？](https://www.v2ex.com/t/865970#reply1) | Wed Jul 13 2022 11:06 AM
+- 🥷 [一个项目多个子模块 没有 springboot 启动类的模块 依赖无法注入 怎么写测试？](https://www.v2ex.com/t/865970#reply3) | Wed Jul 13 2022 11:06 AM
 - 🐵 [mac dock 的神奇效果怎么实现的？](https://www.v2ex.com/t/865964#reply1) | Wed Jul 13 2022 10:20 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
