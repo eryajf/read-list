@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [一个项目多个子模块 没有 springboot 启动类的模块 依赖无法注入 怎么写测试？](https://www.v2ex.com/t/865970#reply0) | Wed Jul 13 2022 11:06 AM
-- 🤗 [mac dock 的神奇效果怎么实现的？](https://www.v2ex.com/t/865964#reply1) | Wed Jul 13 2022 10:20 AM
-- 🎭 [初学 Vue 的几个问题，求解！](https://www.v2ex.com/t/865963#reply3) | Wed Jul 13 2022 10:18 AM
-- 🥷 [进程被 systemd kill 了，原因是什么？](https://www.v2ex.com/t/865962#reply5) | Wed Jul 13 2022 10:00 AM
-- 🐵 [请教一下各位大佬，我想入门 C#，有没有教材书籍推荐一下](https://www.v2ex.com/t/865959#reply9) | Wed Jul 13 2022 9:48 AM<!-- v2ex:END -->
+- 🥸 [关于小程序地图组件](https://www.v2ex.com/t/865975#reply0) | Wed Jul 13 2022 11:48 AM
+- 🤗 [高 iowait 到底是什么引起的?](https://www.v2ex.com/t/865973#reply3) | Wed Jul 13 2022 11:20 AM
+- 🎭 [大佬们 脚本提示“app 是旧版本需要升级”服务器端开始检测系统版本了，请问代码该怎么修改? 谢谢🙏](https://www.v2ex.com/t/865971#reply0) | Wed Jul 13 2022 11:08 AM
+- 🥷 [一个项目多个子模块 没有 springboot 启动类的模块 依赖无法注入 怎么写测试？](https://www.v2ex.com/t/865970#reply1) | Wed Jul 13 2022 11:06 AM
+- 🐵 [mac dock 的神奇效果怎么实现的？](https://www.v2ex.com/t/865964#reply1) | Wed Jul 13 2022 10:20 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
