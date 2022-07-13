@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [iPadOS 16 公开测试版来了，升级以后可以试试这些新功能](https://sspai.com/post/74252) | Wed Jul 13 2022 3:31 AM 
+- 👹 [[送码] 自己动手做出喜欢的壁纸，让你的主屏永远「新鲜」：InPaper](https://sspai.com/post/74217) | Wed Jul 13 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    InPaper 是一款不提供壁纸下载的壁纸软件，它专注于壁纸制作和自动化功能，在未来会提供更多自动化能力，持续推出更多有趣有意义的壁纸制作功能与样式。&lt;a href=&quot;https://sspai.com/post/74217&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [iPadOS 16 公开测试版来了，升级以后可以试试这些新功能](https://sspai.com/post/74252) | Wed Jul 13 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     本文为你整理了 iPadOS 16 值得关注的一些新功能、如何升级系统以及升级前需要了解的一些注意事项，希望对你有所帮助。&lt;a href=&quot;https://sspai.com/post/74252&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：Nothing Phone &lpar;1&rpar; 发布、Twitter 起诉马斯克等](https://sspai.com/post/74249) | Wed Jul 13 2022 12:58 AM 
+- 🤭 [派早报：Nothing Phone &lpar;1&rpar; 发布、Twitter 起诉马斯克等](https://sspai.com/post/74249) | Wed Jul 13 2022 12:58 AM 
     <details><summary>展开描述 ...</summary> 
     诺基亚推出多款复刻功能机，真我 realme 发布多款新品等。&lt;a href=&quot;https://sspai.com/post/74249&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [不读可以先收藏 13：本月不容错过的 6 篇好文章](https://sspai.com/post/74237) | Tue Jul 12 2022 9:30 AM 
+- 🥸 [不读可以先收藏 13：本月不容错过的 6 篇好文章](https://sspai.com/post/74237) | Tue Jul 12 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     本栏目的第 13 期，我们从上一周期内推荐到首页的 71 篇文章中挑选了 6 篇值得你收藏的好文。&lt;a href=&quot;https://sspai.com/post/74237&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [iOS 16 Public Beta 公测版来了，哪些新功能值得尝鲜？](https://sspai.com/post/74156) | Tue Jul 12 2022 8:13 AM 
+- 🙉 [iOS 16 Public Beta 公测版来了，哪些新功能值得尝鲜？](https://sspai.com/post/74156) | Tue Jul 12 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
     iOS 16 Public Beta 公测版上线，少数派帮你整理了 iOS 16 中值得关注的新功能和新特性，希望帮你进一步了解新版系统的方方面面。&lt;a href=&quot;https://sspai.com/post/74156&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [关于猴痘病毒，你现在需要了解这些](https://sspai.com/post/74231) | Tue Jul 12 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    猴痘病毒在欧美地区爆发，你对这个病毒的理解正确吗？这篇文章为你破除一些关于猴痘的迷思。&lt;a href=&quot;https://sspai.com/post/74231&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
