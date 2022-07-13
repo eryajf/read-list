@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [YVR发布新一代VR眼镜YVR 2 售价4999元](http://www.techweb.com.cn/it/2022-07-12/2897859.shtml) | Tue Jul 12 2022 12:42 PM
-- 👹 [苹果三星等厂商希望三星显示研发micro OLED面板 但后者尚未大力投入](http://www.techweb.com.cn/world/2022-07-12/2897853.shtml) | Tue Jul 12 2022 9:50 AM
-- 🪜 [北森二次递表港交所：连续三财年亏损 软银持股6%](http://www.techweb.com.cn/it/2022-07-12/2897836.shtml) | Tue Jul 12 2022 9:07 AM
-- 🤭 [三星DRAM销售额已连续两个季度下滑 但市场份额Q1有增加](http://www.techweb.com.cn/world/2022-07-12/2897835.shtml) | Tue Jul 12 2022 9:00 AM
-- 🙉 [腾讯CSIG组织升级 成立政企业务线](http://www.techweb.com.cn/it/2022-07-12/2897830.shtml) | Tue Jul 12 2022 8:53 AM<!-- techweb-allnews:END -->
+- 👍 [躲过了“雪糕刺客”，没逃过“水果刺客”](http://www.techweb.com.cn/viewpoint/2022-07-13/2897937.shtml) | Wed Jul 13 2022 2:50 AM
+- 👹 [推特正式起诉马斯克 试图迫使其按原协议完成收购](http://www.techweb.com.cn/world/2022-07-13/2897931.shtml) | Wed Jul 13 2022 2:34 AM
+- 🪜 [大厂与“铁饭碗”，两座围城](http://www.techweb.com.cn/viewpoint/2022-07-13/2897929.shtml) | Wed Jul 13 2022 2:31 AM
+- 🤭 [苹果与前首席设计官乔纳森·艾维结束合作 双方不再续约](http://www.techweb.com.cn/world/2022-07-13/2897928.shtml) | Wed Jul 13 2022 2:27 AM
+- 🙉 [“金山”塌方，在线办公终是巨头生意](http://www.techweb.com.cn/viewpoint/2022-07-13/2897927.shtml) | Wed Jul 13 2022 2:26 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
