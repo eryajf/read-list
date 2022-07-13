@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅谈前端 localhost 本地开发最佳实践](https://juejin.cn/post/7119722331320090632) | Wed Jul 13 2022 5:19 AM 
+- 🤗 [乐视员工:神仙哪有我舒坦；AI终于能写正则表达式了！传统组织管理学也被AI抢饭碗?算法工程师面试题总结；几篇前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7119757136480960520) | Wed Jul 13 2022 7:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 2022-07-13 期，AutoRegex 根据文本生成正则表达式；massCode 代码段管理器；算法工程师面试题大大大合集；将网络分析应用于组织管理；4篇前沿论文… 
+    </details> 
+
+- 🎡 [《锋巢直播平台——基于腾讯云音视频小程序云直播互动平台》视频课程上线“腾讯云开发者社区”](https://juejin.cn/post/7119750921810083848) | Wed Jul 13 2022 7:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    千锋名师手把手教学，22 小时“小程序端+腾讯云端+后台系统”实战项目，帮助大家深入解析直播带货完整开发链路。 
+    </details> 
+
+- 🕯 [偶遇算法-关联子串](https://juejin.cn/post/7119750484054769671) | Wed Jul 13 2022 7:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述： 给定两个字符串 str1 和 str2，如果字符串 str1 中的字符，经过排列组合后的字符串中，只要有一个字符串是 str2 的子串，则认为 str1 是 str2 的关联子串。 若 s 
+    </details> 
+
+- 🚀 [Spring Boot + WebSocket 实时监控异常](https://juejin.cn/post/7119744808217903135) | Wed Jul 13 2022 6:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近做了一个需求，消防的设备巡检，如果巡检发现异常，通过手机端提交，后台的实时监控页面实时获取到该设备的信息及位置，然后安排员工去处理。 
+    </details> 
+
+- 💪 [浅谈前端 localhost 本地开发最佳实践](https://juejin.cn/post/7119722331320090632) | Wed Jul 13 2022 5:19 AM 
     <details><summary>展开描述 ...</summary> 
     笔者经常看到，为了解决本地开发问题，项目各种本地加代理，起服务，开 APP，绕来绕去的解决方案，笔者认为大可不必。 本文试着梳理一下各个场景下比较方便的本地开发实践，供大家参考。 
-    </details> 
-
-- 🎡 [数据质量动态探查及相关前端实现](https://juejin.cn/post/7119715435913674789) | Wed Jul 13 2022 4:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    需求背景 数据探查上线之前，数据验证都是通过写 SQL 方式进行查询的，从编写 SQL，到解析运行出结果，不仅时间长，还会反复消耗计算资源 
-    </details> 
-
-- 🕯 [一篇能带你搞懂前端Nest.js核心原理的文章、用PIXI+GSAP仿写vanmoof刹车动效、相亲模型与有限状态机丨酱酱的下午茶第27期](https://juejin.cn/post/7119709410464628743) | Wed Jul 13 2022 4:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    【掘金酱的下午茶】亮点： 高阶切图技巧！基于单张图片的任意颜色转换 再见ip.taobao，全网显示 IP 归属地，快用这个开源库 码上摸金，用PIXI+GSAP仿写vanmoof刹车动效 相亲模型 
-    </details> 
-
-- 🚀 [Go 原生插件使用问题全解析](https://juejin.cn/post/7119704535731273742) | Wed Jul 13 2022 4:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    我在主导设计和落地基于 Go 原生插件机制的扩展能力时遇到了很多问题，鉴于这方面的相关资料很少，因而就有了这个想法来做一个非常粗浅的总结，希望能对大家有所帮助。 
-    </details> 
-
-- 💪 [若川说&quot;可能是历史上最简单的一期omit.js&quot;源码共读,但我学到了这些](https://juejin.cn/post/7119702439355220004) | Wed Jul 13 2022 4:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，这是若川视野第36期，可能是历史上最简单的一期，但我却学习到了更多的知识。如果你有兴趣咱们可以一起学习。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
