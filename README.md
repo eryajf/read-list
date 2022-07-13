@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [iOS14.5 允许禁止访问设备识别符,美团是怎么判断是这个设备之前是否用过的?](https://www.v2ex.com/t/865797#reply3) | Tue Jul 12 2022 9:02 PM
-- 🤗 [纯数字和小写字母会是什么加密](https://www.v2ex.com/t/865795#reply1) | Tue Jul 12 2022 8:07 PM
-- 🎭 [关于关系型数据库第二范式的问题: 列之间计算出来的数据, 算违反第二范式么?](https://www.v2ex.com/t/865794#reply0) | Tue Jul 12 2022 7:57 PM
-- 🥷 [之前有两年前端工作经验，面试算法工程师会扣分吗？](https://www.v2ex.com/t/865793#reply2) | Tue Jul 12 2022 7:06 PM
-- 🐵 [一文简单明了说明为什么 float64 float32 会有精确缺失的问题](https://www.v2ex.com/t/865785#reply10) | Tue Jul 12 2022 4:13 PM<!-- v2ex:END -->
+- 🥸 [Jetbrains Fleet 深度使用两周简单总结](https://www.v2ex.com/t/865824#reply0) | Wed Jul 13 2022 1:40 AM
+- 🤗 [如何关闭微信号未绑定手机号的强行提示](https://www.v2ex.com/t/865822#reply1) | Wed Jul 13 2022 1:38 AM
+- 🎭 [通过 github 搭建的博客访问速度慢，有优化方法吗？](https://www.v2ex.com/t/865819#reply7) | Wed Jul 13 2022 1:23 AM
+- 🥷 [前端开源项目 [Simple Sheet]](https://www.v2ex.com/t/865812#reply8) | Wed Jul 13 2022 12:59 AM
+- 🐵 [一直有个疑问，软件开源出去，就不怕竞争对手抄走吗？](https://www.v2ex.com/t/865805#reply42) | Wed Jul 13 2022 12:25 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
