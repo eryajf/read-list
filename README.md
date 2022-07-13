@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [芯和半导体在DAC 2022大会上发布EDA 2022版本软件集](http://www.techweb.com.cn/it/2022-07-13/2897959.shtml) | Wed Jul 13 2022 6:31 AM
-- 👹 [美国改变主意 将禁止电动汽车车主更改警示音](http://www.techweb.com.cn/world/2022-07-13/2897958.shtml) | Wed Jul 13 2022 6:30 AM
-- 🪜 [飞猪加码多项措施支持中小商家开店经营](http://www.techweb.com.cn/it/2022-07-13/2897957.shtml) | Wed Jul 13 2022 6:14 AM
-- 🤭 [什么值得买科技露营风潮崛起 天文望远镜成新流量单品](http://www.techweb.com.cn/it/2022-07-13/2897954.shtml) | Wed Jul 13 2022 6:04 AM
-- 🙉 [苹果OLED屏iPad有望2024年推出 正与合作伙伴生产原型机](http://www.techweb.com.cn/world/2022-07-13/2897951.shtml) | Wed Jul 13 2022 4:12 AM<!-- techweb-allnews:END -->
+- 👍 [不只是4680电池 消息称三星SDI也在开发4695和46120电池](http://www.techweb.com.cn/world/2022-07-13/2897965.shtml) | Wed Jul 13 2022 7:40 AM
+- 👹 [特斯拉柏林超级工厂目前只生产黑色或白色Model Y](http://www.techweb.com.cn/world/2022-07-13/2897960.shtml) | Wed Jul 13 2022 7:05 AM
+- 🪜 [芯和半导体在DAC 2022大会上发布EDA 2022版本软件集](http://www.techweb.com.cn/it/2022-07-13/2897959.shtml) | Wed Jul 13 2022 6:31 AM
+- 🤭 [美国改变主意 将禁止电动汽车车主更改警示音](http://www.techweb.com.cn/world/2022-07-13/2897958.shtml) | Wed Jul 13 2022 6:30 AM
+- 🙉 [飞猪加码多项措施支持中小商家开店经营](http://www.techweb.com.cn/it/2022-07-13/2897957.shtml) | Wed Jul 13 2022 6:14 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
