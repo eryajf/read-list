@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [苹果OLED屏iPad有望2024年推出 正与合作伙伴生产原型机](http://www.techweb.com.cn/world/2022-07-13/2897951.shtml) | Wed Jul 13 2022 4:12 AM
-- 👹 [特斯拉将永久关闭加州圣马特奥办公室 并裁员229人](http://www.techweb.com.cn/world/2022-07-13/2897948.shtml) | Wed Jul 13 2022 3:42 AM
-- 🪜 [年轻人开始“整顿”商场刺客](http://www.techweb.com.cn/viewpoint/2022-07-13/2897944.shtml) | Wed Jul 13 2022 3:18 AM
-- 🤭 [躲过了“雪糕刺客”，没逃过“水果刺客”](http://www.techweb.com.cn/viewpoint/2022-07-13/2897937.shtml) | Wed Jul 13 2022 2:50 AM
-- 🙉 [推特正式起诉马斯克 试图迫使其按原协议完成收购](http://www.techweb.com.cn/world/2022-07-13/2897931.shtml) | Wed Jul 13 2022 2:34 AM<!-- techweb-allnews:END -->
+- 👍 [芯和半导体在DAC 2022大会上发布EDA 2022版本软件集](http://www.techweb.com.cn/it/2022-07-13/2897959.shtml) | Wed Jul 13 2022 6:31 AM
+- 👹 [美国改变主意 将禁止电动汽车车主更改警示音](http://www.techweb.com.cn/world/2022-07-13/2897958.shtml) | Wed Jul 13 2022 6:30 AM
+- 🪜 [飞猪加码多项措施支持中小商家开店经营](http://www.techweb.com.cn/it/2022-07-13/2897957.shtml) | Wed Jul 13 2022 6:14 AM
+- 🤭 [什么值得买科技露营风潮崛起 天文望远镜成新流量单品](http://www.techweb.com.cn/it/2022-07-13/2897954.shtml) | Wed Jul 13 2022 6:04 AM
+- 🙉 [苹果OLED屏iPad有望2024年推出 正与合作伙伴生产原型机](http://www.techweb.com.cn/world/2022-07-13/2897951.shtml) | Wed Jul 13 2022 4:12 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
