@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [乐视员工:神仙哪有我舒坦；AI终于能写正则表达式了！传统组织管理学也被AI抢饭碗?算法工程师面试题总结；几篇前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7119757136480960520) | Wed Jul 13 2022 7:34 AM 
+- 🤗 [机器学习建模高级用法！构建企业级AI建模流水线 ⛵](https://juejin.cn/post/7119767971467100167) | Wed Jul 13 2022 8:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文以『客户流失』为案例，讲解构建企业级AI建模流水线（pipeline）的五个步骤：① 数据预处理、② 特征工程、③ 样本处理、④ 模型集成、⑤ 超参数调优与特征重要度分析。 
+    </details> 
+
+- 🎡 [2022年中总结征文大赛优质内容合集6.28-7.30](https://juejin.cn/post/7119767040851722270) | Wed Jul 13 2022 8:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    酱酱来为大家展示前两周参赛文章中比较有意思的内容啦～还会从中抽三位幸运奖送出掘金神秘周边哦～快来看看你在其中吗 
+    </details> 
+
+- 🕯 [【2022 年】崔庆才 Python3 爬虫教程 - 高效代理池的维护](https://juejin.cn/post/7119759420061548551) | Wed Jul 13 2022 7:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    😀 这是爬虫专栏第 「31」 篇原创 我们在上一节中了解了各个请求库设置代理的各个方法，但是如何实时高效地获取到大量可用的代理是一个问题。 首先，在互联网上有大量公开的免费代理。当然，我们也可以购买付 
+    </details> 
+
+- 🚀 [『前端进阶』🐳 Docker 部署 —&gt; GitHub Active 自动部署](https://juejin.cn/post/7119759020533448711) | Wed Jul 13 2022 7:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    Docker 介绍 🐳 Docker 可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，然后发布到任何流行的 Linux 机器上，也可以实现虚拟化。 GitHub Active ！ 
+    </details> 
+
+- 💪 [乐视员工:神仙哪有我舒坦；AI终于能写正则表达式了！传统组织管理学也被AI抢饭碗?算法工程师面试题总结；几篇前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7119757136480960520) | Wed Jul 13 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
     ShowMeAI资讯日报 2022-07-13 期，AutoRegex 根据文本生成正则表达式；massCode 代码段管理器；算法工程师面试题大大大合集；将网络分析应用于组织管理；4篇前沿论文… 
-    </details> 
-
-- 🎡 [《锋巢直播平台——基于腾讯云音视频小程序云直播互动平台》视频课程上线“腾讯云开发者社区”](https://juejin.cn/post/7119750921810083848) | Wed Jul 13 2022 7:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    千锋名师手把手教学，22 小时“小程序端+腾讯云端+后台系统”实战项目，帮助大家深入解析直播带货完整开发链路。 
-    </details> 
-
-- 🕯 [偶遇算法-关联子串](https://juejin.cn/post/7119750484054769671) | Wed Jul 13 2022 7:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述： 给定两个字符串 str1 和 str2，如果字符串 str1 中的字符，经过排列组合后的字符串中，只要有一个字符串是 str2 的子串，则认为 str1 是 str2 的关联子串。 若 s 
-    </details> 
-
-- 🚀 [Spring Boot + WebSocket 实时监控异常](https://juejin.cn/post/7119744808217903135) | Wed Jul 13 2022 6:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近做了一个需求，消防的设备巡检，如果巡检发现异常，通过手机端提交，后台的实时监控页面实时获取到该设备的信息及位置，然后安排员工去处理。 
-    </details> 
-
-- 💪 [浅谈前端 localhost 本地开发最佳实践](https://juejin.cn/post/7119722331320090632) | Wed Jul 13 2022 5:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    笔者经常看到，为了解决本地开发问题，项目各种本地加代理，起服务，开 APP，绕来绕去的解决方案，笔者认为大可不必。 本文试着梳理一下各个场景下比较方便的本地开发实践，供大家参考。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
