@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [不读可以先收藏 13：本月不容错过的 6 篇好文章](https://sspai.com/post/74237) | Tue Jul 12 2022 9:30 AM 
+- 👹 [派早报：Nothing Phone &lpar;1&rpar; 发布、Twitter 起诉马斯克等](https://sspai.com/post/74249) | Wed Jul 13 2022 12:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    诺基亚推出多款复刻功能机，真我 realme 发布多款新品等。&lt;a href=&quot;https://sspai.com/post/74249&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [不读可以先收藏 13：本月不容错过的 6 篇好文章](https://sspai.com/post/74237) | Tue Jul 12 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     本栏目的第 13 期，我们从上一周期内推荐到首页的 71 篇文章中挑选了 6 篇值得你收藏的好文。&lt;a href=&quot;https://sspai.com/post/74237&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [iOS 16 Public Beta 公测版来了，哪些新功能值得尝鲜？](https://sspai.com/post/74156) | Tue Jul 12 2022 8:13 AM 
+- 🤭 [iOS 16 Public Beta 公测版来了，哪些新功能值得尝鲜？](https://sspai.com/post/74156) | Tue Jul 12 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
     iOS 16 Public Beta 公测版上线，少数派帮你整理了 iOS 16 中值得关注的新功能和新特性，希望帮你进一步了解新版系统的方方面面。&lt;a href=&quot;https://sspai.com/post/74156&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [关于猴痘病毒，你现在需要了解这些](https://sspai.com/post/74231) | Tue Jul 12 2022 6:30 AM 
+- 🥸 [关于猴痘病毒，你现在需要了解这些](https://sspai.com/post/74231) | Tue Jul 12 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     猴痘病毒在欧美地区爆发，你对这个病毒的理解正确吗？这篇文章为你破除一些关于猴痘的迷思。&lt;a href=&quot;https://sspai.com/post/74231&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [iOS / iPadOS 16 公测版来了：新系统升降级指南 &amp; 注意事项](https://sspai.com/post/74155) | Tue Jul 12 2022 3:17 AM 
+- 🙉 [iOS / iPadOS 16 公测版来了：新系统升降级指南 &amp; 注意事项](https://sspai.com/post/74155) | Tue Jul 12 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
     Apple 推送了 iOS 16、iPadOS 16 的首个 Public Beta 公开测试版本，如果你想在第一时间体验新系统功能，少数派帮你准备了这份升降级指南。&lt;a href=&quot;https://sspai.com/post/74155&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：iOS 16 Public Beta 等发布、腾讯游戏发布暑假期间未成年人限玩日历等](https://sspai.com/post/74227) | Tue Jul 12 2022 1:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    詹姆斯·韦布空间望远镜首张全彩照片发布，红魔召开新品发布会等。&lt;a href=&quot;https://sspai.com/post/74227&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
