@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么 idea/datagrip 连接数据库特别慢？](https://www.v2ex.com/t/865902#reply1) | Wed Jul 13 2022 6:10 AM
-- 🤗 [Magician-Containers 1.0.0 发布， Magician 家族又添一位新成员](https://www.v2ex.com/t/865891#reply0) | Wed Jul 13 2022 5:29 AM
-- 🎭 [Gboard 更改包名](https://www.v2ex.com/t/865886#reply0) | Wed Jul 13 2022 4:58 AM
-- 🥷 [mysql 数据库存日期一般用什么类型？](https://www.v2ex.com/t/865869#reply18) | Wed Jul 13 2022 3:27 AM
-- 🐵 [请教识别这样子的验证码的思路](https://www.v2ex.com/t/865865#reply8) | Wed Jul 13 2022 3:22 AM<!-- v2ex:END -->
+- 🥸 [推荐一个测试云上网络性能的工具： dperf](https://www.v2ex.com/t/865918#reply0) | Wed Jul 13 2022 7:01 AM
+- 🤗 [JB 产品要涨价了，准备入手一波 IDEA](https://www.v2ex.com/t/865917#reply0) | Wed Jul 13 2022 6:59 AM
+- 🎭 [有哪些免费的图标下载网站](https://www.v2ex.com/t/865912#reply0) | Wed Jul 13 2022 6:45 AM
+- 🥷 [为什么 idea/datagrip 连接数据库特别慢？](https://www.v2ex.com/t/865902#reply1) | Wed Jul 13 2022 6:10 AM
+- 🐵 [Magician-Containers 1.0.0 发布， Magician 家族又添一位新成员](https://www.v2ex.com/t/865891#reply0) | Wed Jul 13 2022 5:29 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
