@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Git 三大分支策略， 2 个人的前端团队，开发一个中型应用，适合用哪种策略](https://www.v2ex.com/t/865994#reply1) | Wed Jul 13 2022 2:01 PM
-- 🤗 [问一个 golang 新手问题，一个 golang 的 struct 使用了 json fields，怎么在导入的时候加入其他的 fields？](https://www.v2ex.com/t/865993#reply0) | Wed Jul 13 2022 1:57 PM
-- 🎭 [一个系统如何保证 log 的高可用跟鲁棒性？](https://www.v2ex.com/t/865988#reply2) | Wed Jul 13 2022 1:44 PM
-- 🥷 [关于小程序地图组件](https://www.v2ex.com/t/865975#reply0) | Wed Jul 13 2022 11:48 AM
-- 🐵 [高 iowait 到底是什么引起的?](https://www.v2ex.com/t/865973#reply3) | Wed Jul 13 2022 11:20 AM<!-- v2ex:END -->
+- 🥸 [果然， GitHub 推出了更多的徽标](https://www.v2ex.com/t/866005#reply0) | Wed Jul 13 2022 3:18 PM
+- 🤗 [定制安卓 10， 系统 OTA 升级过程中如何覆盖 WiFi 之前的配置](https://www.v2ex.com/t/866004#reply0) | Wed Jul 13 2022 3:08 PM
+- 🎭 [Git 三大分支策略， 2 个人的前端团队，开发一个中型应用，适合用哪种策略](https://www.v2ex.com/t/865994#reply6) | Wed Jul 13 2022 2:01 PM
+- 🥷 [问一个 golang 新手问题，一个 golang 的 struct 使用了 json fields，怎么在导入的时候加入其他的 fields？](https://www.v2ex.com/t/865993#reply0) | Wed Jul 13 2022 1:57 PM
+- 🐵 [一个系统如何保证 log 的高可用跟鲁棒性？](https://www.v2ex.com/t/865988#reply4) | Wed Jul 13 2022 1:44 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
