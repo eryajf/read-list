@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [SK海力士已为Solidigm任命新高管 以加速整合](http://www.techweb.com.cn/world/2022-07-13/2897972.shtml) | Wed Jul 13 2022 8:43 AM
-- 👹 [“中国锂王”爬出泥潭](http://www.techweb.com.cn/viewpoint/2022-07-13/2897969.shtml) | Wed Jul 13 2022 8:27 AM
-- 🪜 [外媒：巴西打车软件99将与比亚迪合作测试电动汽车](http://www.techweb.com.cn/world/2022-07-13/2897967.shtml) | Wed Jul 13 2022 8:10 AM
-- 🤭 [微软已发出提醒：2023年后将不再支持Windows 8.1](http://www.techweb.com.cn/world/2022-07-13/2897966.shtml) | Wed Jul 13 2022 8:03 AM
-- 🙉 [不只是4680电池 消息称三星SDI也在开发4695和46120电池](http://www.techweb.com.cn/world/2022-07-13/2897965.shtml) | Wed Jul 13 2022 7:40 AM<!-- techweb-allnews:END -->
+- 👍 [台积电14日发布二季度财报 5nm工艺营收能否超过7nm将见分晓](http://www.techweb.com.cn/world/2022-07-13/2897992.shtml) | Wed Jul 13 2022 9:49 AM
+- 👹 [长城手撕余承东：增程的罪，插混的泪](http://www.techweb.com.cn/viewpoint/2022-07-13/2897990.shtml) | Wed Jul 13 2022 9:45 AM
+- 🪜 [TikTok同意暂停更新在欧洲有争议的隐私政策](http://www.techweb.com.cn/world/2022-07-13/2897989.shtml) | Wed Jul 13 2022 9:42 AM
+- 🤭 [研究机构CFRA预计特斯拉营收将在2022年增长61% 2023年增长37%](http://www.techweb.com.cn/world/2022-07-13/2897979.shtml) | Wed Jul 13 2022 9:16 AM
+- 🙉 [Apple M2芯片最全评测，值得买吗？](http://www.techweb.com.cn/viewpoint/2022-07-13/2897973.shtml) | Wed Jul 13 2022 8:53 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
