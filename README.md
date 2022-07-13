@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [不只是4680电池 消息称三星SDI也在开发4695和46120电池](http://www.techweb.com.cn/world/2022-07-13/2897965.shtml) | Wed Jul 13 2022 7:40 AM
-- 👹 [特斯拉柏林超级工厂目前只生产黑色或白色Model Y](http://www.techweb.com.cn/world/2022-07-13/2897960.shtml) | Wed Jul 13 2022 7:05 AM
-- 🪜 [芯和半导体在DAC 2022大会上发布EDA 2022版本软件集](http://www.techweb.com.cn/it/2022-07-13/2897959.shtml) | Wed Jul 13 2022 6:31 AM
-- 🤭 [美国改变主意 将禁止电动汽车车主更改警示音](http://www.techweb.com.cn/world/2022-07-13/2897958.shtml) | Wed Jul 13 2022 6:30 AM
-- 🙉 [飞猪加码多项措施支持中小商家开店经营](http://www.techweb.com.cn/it/2022-07-13/2897957.shtml) | Wed Jul 13 2022 6:14 AM<!-- techweb-allnews:END -->
+- 👍 [SK海力士已为Solidigm任命新高管 以加速整合](http://www.techweb.com.cn/world/2022-07-13/2897972.shtml) | Wed Jul 13 2022 8:43 AM
+- 👹 [“中国锂王”爬出泥潭](http://www.techweb.com.cn/viewpoint/2022-07-13/2897969.shtml) | Wed Jul 13 2022 8:27 AM
+- 🪜 [外媒：巴西打车软件99将与比亚迪合作测试电动汽车](http://www.techweb.com.cn/world/2022-07-13/2897967.shtml) | Wed Jul 13 2022 8:10 AM
+- 🤭 [微软已发出提醒：2023年后将不再支持Windows 8.1](http://www.techweb.com.cn/world/2022-07-13/2897966.shtml) | Wed Jul 13 2022 8:03 AM
+- 🙉 [不只是4680电池 消息称三星SDI也在开发4695和46120电池](http://www.techweb.com.cn/world/2022-07-13/2897965.shtml) | Wed Jul 13 2022 7:40 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
