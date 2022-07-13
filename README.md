@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [数据质量动态探查及相关前端实现](https://juejin.cn/post/7119715435913674789) | Wed Jul 13 2022 4:52 AM 
+- 🤗 [浅谈前端 localhost 本地开发最佳实践](https://juejin.cn/post/7119722331320090632) | Wed Jul 13 2022 5:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    笔者经常看到，为了解决本地开发问题，项目各种本地加代理，起服务，开 APP，绕来绕去的解决方案，笔者认为大可不必。 本文试着梳理一下各个场景下比较方便的本地开发实践，供大家参考。 
+    </details> 
+
+- 🎡 [数据质量动态探查及相关前端实现](https://juejin.cn/post/7119715435913674789) | Wed Jul 13 2022 4:52 AM 
     <details><summary>展开描述 ...</summary> 
     需求背景 数据探查上线之前，数据验证都是通过写 SQL 方式进行查询的，从编写 SQL，到解析运行出结果，不仅时间长，还会反复消耗计算资源 
     </details> 
 
-- 🎡 [一篇能带你搞懂前端Nest.js核心原理的文章、用PIXI+GSAP仿写vanmoof刹车动效、相亲模型与有限状态机丨酱酱的下午茶第27期](https://juejin.cn/post/7119709410464628743) | Wed Jul 13 2022 4:30 AM 
+- 🕯 [一篇能带你搞懂前端Nest.js核心原理的文章、用PIXI+GSAP仿写vanmoof刹车动效、相亲模型与有限状态机丨酱酱的下午茶第27期](https://juejin.cn/post/7119709410464628743) | Wed Jul 13 2022 4:30 AM 
     <details><summary>展开描述 ...</summary> 
     【掘金酱的下午茶】亮点： 高阶切图技巧！基于单张图片的任意颜色转换 再见ip.taobao，全网显示 IP 归属地，快用这个开源库 码上摸金，用PIXI+GSAP仿写vanmoof刹车动效 相亲模型 
     </details> 
 
-- 🕯 [Go 原生插件使用问题全解析](https://juejin.cn/post/7119704535731273742) | Wed Jul 13 2022 4:10 AM 
+- 🚀 [Go 原生插件使用问题全解析](https://juejin.cn/post/7119704535731273742) | Wed Jul 13 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
     我在主导设计和落地基于 Go 原生插件机制的扩展能力时遇到了很多问题，鉴于这方面的相关资料很少，因而就有了这个想法来做一个非常粗浅的总结，希望能对大家有所帮助。 
     </details> 
 
-- 🚀 [通过Vue自定义指令实现前端埋点](https://juejin.cn/post/7119699974698303524) | Wed Jul 13 2022 3:53 AM 
+- 💪 [若川说&quot;可能是历史上最简单的一期omit.js&quot;源码共读,但我学到了这些](https://juejin.cn/post/7119702439355220004) | Wed Jul 13 2022 4:03 AM 
     <details><summary>展开描述 ...</summary> 
-    在营销活动中，通过埋点可以获取用户的喜好及交互习惯，从而优化流程，进一步提升用户体验，提高转化率。 在之前的埋点方案实现中，都是在具体的按钮或者图片被点击或者被曝光时主动通过事件去上报埋点。这种方法在 
-    </details> 
-
-- 💪 [Python 优化提速的 8 个小技巧](https://juejin.cn/post/7119698209819066405) | Wed Jul 13 2022 3:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    Python 是一种脚本语言，相比 C/C++ 这样的编译语言，在效率和性能方面存在一些不足。但是，有很多时候，Python 的效率并没有想象中的那么夸张。本文对一些 Python 代码加速运行的技巧 
+    大家好，这是若川视野第36期，可能是历史上最简单的一期，但我却学习到了更多的知识。如果你有兴趣咱们可以一起学习。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
