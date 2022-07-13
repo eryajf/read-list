@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [躲过了“雪糕刺客”，没逃过“水果刺客”](http://www.techweb.com.cn/viewpoint/2022-07-13/2897937.shtml) | Wed Jul 13 2022 2:50 AM
-- 👹 [推特正式起诉马斯克 试图迫使其按原协议完成收购](http://www.techweb.com.cn/world/2022-07-13/2897931.shtml) | Wed Jul 13 2022 2:34 AM
-- 🪜 [大厂与“铁饭碗”，两座围城](http://www.techweb.com.cn/viewpoint/2022-07-13/2897929.shtml) | Wed Jul 13 2022 2:31 AM
-- 🤭 [苹果与前首席设计官乔纳森·艾维结束合作 双方不再续约](http://www.techweb.com.cn/world/2022-07-13/2897928.shtml) | Wed Jul 13 2022 2:27 AM
-- 🙉 [“金山”塌方，在线办公终是巨头生意](http://www.techweb.com.cn/viewpoint/2022-07-13/2897927.shtml) | Wed Jul 13 2022 2:26 AM<!-- techweb-allnews:END -->
+- 👍 [特斯拉将永久关闭加州圣马特奥办公室 并裁员229人](http://www.techweb.com.cn/world/2022-07-13/2897948.shtml) | Wed Jul 13 2022 3:42 AM
+- 👹 [年轻人开始“整顿”商场刺客](http://www.techweb.com.cn/viewpoint/2022-07-13/2897944.shtml) | Wed Jul 13 2022 3:18 AM
+- 🪜 [躲过了“雪糕刺客”，没逃过“水果刺客”](http://www.techweb.com.cn/viewpoint/2022-07-13/2897937.shtml) | Wed Jul 13 2022 2:50 AM
+- 🤭 [推特正式起诉马斯克 试图迫使其按原协议完成收购](http://www.techweb.com.cn/world/2022-07-13/2897931.shtml) | Wed Jul 13 2022 2:34 AM
+- 🙉 [大厂与“铁饭碗”，两座围城](http://www.techweb.com.cn/viewpoint/2022-07-13/2897929.shtml) | Wed Jul 13 2022 2:31 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
