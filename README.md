@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750577) | Tue Jul 12 2022 12:27 AM
-- 🐻 [人们常说的电影摄影师基本功究竟是个啥？](http://daily.zhihu.com/story/9750542) | Tue Jul 12 2022 12:27 AM
-- 🌏 [如果每个人都带上降噪耳机，世界会变成什么样？](http://daily.zhihu.com/story/9750547) | Tue Jul 12 2022 12:27 AM
-- 🕴 [蔬菜汁可以减肥吗？为什么减肥的人要喝蔬菜汁?](http://daily.zhihu.com/story/9750557) | Tue Jul 12 2022 12:27 AM
-- 🌮 [是所有饮料都冰了更好喝么？「冰」为什么能带来口感提升？](http://daily.zhihu.com/story/9750566) | Tue Jul 12 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750611) | Wed Jul 13 2022 12:27 AM
+- 🐻 [同是面粉，为何欧洲人做面包，中国人做馒头？这其中的历史发展过程是怎样的？](http://daily.zhihu.com/story/9750606) | Wed Jul 13 2022 12:27 AM
+- 🌏 [你是如何理解宠物「通人性」这一形容的？](http://daily.zhihu.com/story/9750605) | Wed Jul 13 2022 12:27 AM
+- 🕴 [为什么苍蝇停下来总会搓手？它们在做什么？](http://daily.zhihu.com/story/9750597) | Wed Jul 13 2022 12:27 AM
+- 🌮 [作为管理者，你是怎样向下属安排任务的？](http://daily.zhihu.com/story/9750587) | Wed Jul 13 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
