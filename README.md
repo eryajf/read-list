@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [大众ID.Buzz已经在英国开启预订 起售价为6.77万美元](http://www.techweb.com.cn/world/2022-07-14/2898131.shtml) | Thu Jul 14 2022 8:41 AM
-- 👹 [SK on与福特合资电池公司已正式启动 将投资新建3座工厂](http://www.techweb.com.cn/world/2022-07-14/2898128.shtml) | Thu Jul 14 2022 8:31 AM
-- 🪜 [京东云联合毕马威发布《智慧网点与数字化营销运营白皮书》 场景建设成新趋势](http://www.techweb.com.cn/it/2022-07-14/2898126.shtml) | Thu Jul 14 2022 8:18 AM
-- 🤭 [存储厂商在元宇宙中扮演的新角色](http://www.techweb.com.cn/viewpoint/2022-07-14/2898125.shtml) | Thu Jul 14 2022 8:14 AM
-- 🙉 [“钞能力”失灵，海王TikTok为什么拿不下英国](http://www.techweb.com.cn/viewpoint/2022-07-14/2898124.shtml) | Thu Jul 14 2022 8:07 AM<!-- techweb-allnews:END -->
+- 👍 [任天堂宣布收购CG制作公司Dynamo Pictures 更名为“任天堂影业”](http://www.techweb.com.cn/world/2022-07-14/2898150.shtml) | Thu Jul 14 2022 9:44 AM
+- 👹 [松下能源CTO：正研发新技术 可在2030年前将电池能量密度提高20%](http://www.techweb.com.cn/world/2022-07-14/2898145.shtml) | Thu Jul 14 2022 9:35 AM
+- 🪜 [台积电预计三季度营收198亿-206亿美元 将再创新高](http://www.techweb.com.cn/world/2022-07-14/2898144.shtml) | Thu Jul 14 2022 9:35 AM
+- 🤭 [基本实现盈亏平衡 永辉二季度同店比提升7.2%](http://www.techweb.com.cn/it/2022-07-14/2898139.shtml) | Thu Jul 14 2022 9:26 AM
+- 🙉 [比亚迪：2022年上半年预计净利润同比增长138.59%-206.76%](http://www.techweb.com.cn/smarttraveling/2022-07-14/2898138.shtml) | Thu Jul 14 2022 9:20 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
