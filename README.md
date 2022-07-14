@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [网宿《2021年中国互联网安全报告》：API威胁暴涨超200% 软件供应链安全风险加剧](http://www.techweb.com.cn/it/2022-07-14/2898119.shtml) | Thu Jul 14 2022 7:39 AM
-- 👹 [京东小时购、京东到家：多城市气温逼近40℃ 冰棒销售额环比增长189%](http://www.techweb.com.cn/it/2022-07-14/2898118.shtml) | Thu Jul 14 2022 7:36 AM
-- 🪜 [谷歌云宣布将开始采用基于Arm技术的计算芯片](http://www.techweb.com.cn/world/2022-07-14/2898113.shtml) | Thu Jul 14 2022 7:24 AM
-- 🤭 [谷歌高管：40%“Z世代”更乐意使用TikTok 蚕食谷歌核心产品](http://www.techweb.com.cn/world/2022-07-14/2898112.shtml) | Thu Jul 14 2022 7:23 AM
-- 🙉 [亚马逊承认未经用户允许 今年已向警方提供监控视频11次](http://www.techweb.com.cn/world/2022-07-14/2898092.shtml) | Thu Jul 14 2022 6:26 AM<!-- techweb-allnews:END -->
+- 👍 [大众ID.Buzz已经在英国开启预订 起售价为6.77万美元](http://www.techweb.com.cn/world/2022-07-14/2898131.shtml) | Thu Jul 14 2022 8:41 AM
+- 👹 [SK on与福特合资电池公司已正式启动 将投资新建3座工厂](http://www.techweb.com.cn/world/2022-07-14/2898128.shtml) | Thu Jul 14 2022 8:31 AM
+- 🪜 [京东云联合毕马威发布《智慧网点与数字化营销运营白皮书》 场景建设成新趋势](http://www.techweb.com.cn/it/2022-07-14/2898126.shtml) | Thu Jul 14 2022 8:18 AM
+- 🤭 [存储厂商在元宇宙中扮演的新角色](http://www.techweb.com.cn/viewpoint/2022-07-14/2898125.shtml) | Thu Jul 14 2022 8:14 AM
+- 🙉 [“钞能力”失灵，海王TikTok为什么拿不下英国](http://www.techweb.com.cn/viewpoint/2022-07-14/2898124.shtml) | Thu Jul 14 2022 8:07 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
