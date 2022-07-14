@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [为什么只想写代码的人，也要培养技术领导力？](https://juejin.cn/post/7120131438162214926) | Thu Jul 14 2022 7:47 AM 
+- 🤗 [音视频技术巡礼：字节、阿里、英特尔的落地实践丨XDC 2022](https://juejin.cn/post/7120148795911831589) | Thu Jul 14 2022 8:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    技术重塑了人与人之间的连接方式，不管是线上交流、协同办公、还是短视频、直播等，都离不开音视频技术的支撑。 
+    </details> 
+
+- 🎡 [助力车企打造新一代超级终端：火山引擎智能驾驶的源动力](https://juejin.cn/post/7120143187888341022) | Thu Jul 14 2022 8:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    汽车，正在逐渐从简单的出行工具蜕变为一部“超级终端”。 智能汽车浪潮下，不论是传统车企还是造车新势力 
+    </details> 
+
+- 🕯 [745. 前缀和后缀搜索 : 常规 Trie 运用题](https://juejin.cn/post/7120141370995671053) | Thu Jul 14 2022 8:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 745. 前缀和后缀搜索 ，难度为 困难。 Tag : 「字典树」 设计一个包含一些单词的特殊词典，并能够通过前缀和后缀来检索单词。 实现 WordFilter 
+    </details> 
+
+- 🚀 [跨端、跨语言、跨框架，现代 Web 开发的真实落地实践丨XDC 2022](https://juejin.cn/post/7120135558550159367) | Thu Jul 14 2022 8:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    “一次编写，到处运行”是每个研发所追求的极致效率的体现。迄今为止，Web 开发仍然是互联网技术中最为复杂的环节之一 
+    </details> 
+
+- 💪 [为什么只想写代码的人，也要培养技术领导力？](https://juejin.cn/post/7120131438162214926) | Thu Jul 14 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
     “CTO 要不要写代码？”是国内技术圈争论多年的经典话题。有的人认为技术管理者的价值在于业务而非技术，有的人认为技术管理者如果失去技术能力容易脱离实际。 
-    </details> 
-
-- 🎡 [聊聊云原生架构的演进与变革](https://juejin.cn/post/7120124126877974564) | Thu Jul 14 2022 7:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    2011 年，Marc Andreessen 说出了那句著名的论断——软件正在吞噬世界。 这在当年看起来耸人听闻的标题，在今天早已为人习以为常。 
-    </details> 
-
-- 🕯 [Android 文本，软键盘使用指南](https://juejin.cn/post/7120119215264104485) | Thu Jul 14 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    解决Android开发中常见的软键盘和文本相关问题， 提供两种不同的解决方案，欢迎一起学习Android文本软键盘指南 
-    </details> 
-
-- 🚀 [前端做题家的｜2022 年中总结](https://juejin.cn/post/7120119051090657317) | Thu Jul 14 2022 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    收入：月收入应该吊打p8了，哈哈，开个玩笑 房子正在看：准备买上海的郊区，或者老破小，将就上车，上海的房子真尼玛贵啊！ 
-    </details> 
-
-- 💪 [2022 年的 AI 开发工具和大模型演进丨XDC 2022](https://juejin.cn/post/7120119025677369374) | Thu Jul 14 2022 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    GPT-3 的出世引发了 AI 大模型的热潮，两年过去了，产业界是否驯服了大模型？大模型又是否具备了成为 AI 基础设施和商业模式的潜力？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
