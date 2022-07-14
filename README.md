@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [随着 pattern matching 接连增强了好几个版本，现在连 Java 官方都在推 Data Oriented Programming 和 ADT 建模了。。函数式编程真是领先业界 50 年](https://www.v2ex.com/t/866252#reply0) | Thu Jul 14 2022 2:19 PM
-- 🤗 [有什么不错的 powershell 书籍吗？](https://www.v2ex.com/t/866249#reply0) | Thu Jul 14 2022 2:13 PM
-- 🎭 [最实用安卓逆向辅助工具之一 &lpar;秒抓包/DNS 中间人/自动化&rpar;](https://www.v2ex.com/t/866243#reply2) | Thu Jul 14 2022 1:15 PM
-- 🥷 [free key admin 自由钥匙 - 一个 V2EX 风格 go 语言写的个人的后台管理系统， gofram+html+css+js+jquery&lpar;服务端渲染&rpar;，有朋友喜欢吗？](https://www.v2ex.com/t/866240#reply0) | Thu Jul 14 2022 12:56 PM
-- 🐵 [chmod u+s 无法设置权限](https://www.v2ex.com/t/866237#reply0) | Thu Jul 14 2022 12:46 PM<!-- v2ex:END -->
+- 🥸 [Visual Studio Code IntelliCode 与 LSP 联动进行整行补全。](https://www.v2ex.com/t/866266#reply0) | Thu Jul 14 2022 3:14 PM
+- 🤗 [随着 pattern matching 接连增强了好几个版本，现在连 Java 官方都在推 Data Oriented Programming 和 ADT 建模了。。函数式编程真是领先业界 50 年](https://www.v2ex.com/t/866252#reply3) | Thu Jul 14 2022 2:19 PM
+- 🎭 [有什么不错的 powershell 书籍吗？](https://www.v2ex.com/t/866249#reply1) | Thu Jul 14 2022 2:13 PM
+- 🥷 [最实用安卓逆向辅助工具之一 &lpar;秒抓包/DNS 中间人/自动化&rpar;](https://www.v2ex.com/t/866243#reply2) | Thu Jul 14 2022 1:15 PM
+- 🐵 [free key admin 自由钥匙 - 一个 V2EX 风格 go 语言写的个人的后台管理系统， gofram+html+css+js+jquery&lpar;服务端渲染&rpar;，有朋友喜欢吗？](https://www.v2ex.com/t/866240#reply1) | Thu Jul 14 2022 12:56 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
