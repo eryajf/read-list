@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [新玩意 112｜少数派的作者们最近买了啥？](https://sspai.com/post/74271) | Thu Jul 14 2022 9:21 AM 
+- 👹 [性能小提升，外观大变样——M2 版 MacBook Air 上手体验](https://sspai.com/post/74235) | Thu Jul 14 2022 1:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    告别卡顿，告别发热，告别风扇狂转——美好的数字生活在向你招手。&lt;a href=&quot;https://sspai.com/post/74235&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [新玩意 112｜少数派的作者们最近买了啥？](https://sspai.com/post/74271) | Thu Jul 14 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
     好看就完事儿了。&lt;a href=&quot;https://sspai.com/post/74271&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [macOS Ventura 推出公开测试版，这些新特性值得一试](https://sspai.com/post/74222) | Thu Jul 14 2022 7:37 AM 
+- 🤭 [macOS Ventura 推出公开测试版，这些新特性值得一试](https://sspai.com/post/74222) | Thu Jul 14 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
     7月12日凌晨，Apple正式发布了全新操作系统macOSVentura的首个PublicBeta公开测试版。该版本允许非开发者用户参与体验新系统的诸多特性，还可以直接向Apple提交bug反馈。本文 ...&lt;a href=&quot;https://sspai.com/post/74222&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [2022 年 Apple 返校季活动上线，买 iPad、Mac 可免费加购 AirPods](https://sspai.com/post/74266) | Thu Jul 14 2022 3:17 AM 
+- 🥸 [2022 年 Apple 返校季活动上线，买 iPad、Mac 可免费加购 AirPods](https://sspai.com/post/74266) | Thu Jul 14 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
     与去年一样，从今日起至 9 月 26 日，购买指定款 Mac 或 iPad 即可免费获赠一副 AirPods 耳机，购买活动机型还可享受 8 折加购 AppleCare+ 等活动。&lt;a href=&quot;https://sspai.com/post/74266&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：Apple 结束与艾维的合作、Nvidia 发布量子计算平台等](https://sspai.com/post/74268) | Thu Jul 14 2022 12:29 AM 
+- 🙉 [派早报：Apple 结束与艾维的合作、Nvidia 发布量子计算平台等](https://sspai.com/post/74268) | Thu Jul 14 2022 12:29 AM 
     <details><summary>展开描述 ...</summary> 
     蓝牙技术联盟宣布完成 LE Audio 规范、Emoji 15.0 新增候选符号公布等。&lt;a href=&quot;https://sspai.com/post/74268&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [咖啡地图 | 埃塞俄比亚的瑰夏故事](https://sspai.com/post/74255) | Wed Jul 13 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    上篇已经把著名的巴拿马瑰夏讲的比较清楚了，也把Geisha与Gesha的区别说到了。这篇就是瑰夏故事的最后一篇，来讲讲埃塞俄比亚Gesha的那些事儿。埃塞俄比亚整体情况我之前已经有文章详细讲解过，各位 ...&lt;a href=&quot;https://sspai.com/post/74255&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
