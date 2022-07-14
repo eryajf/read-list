@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [新能源车的乐与忧](http://www.techweb.com.cn/viewpoint/2022-07-14/2898074.shtml) | Thu Jul 14 2022 2:33 AM
-- 👹 [推特：不打算在全公司范围内裁员 但可能进行重组](http://www.techweb.com.cn/world/2022-07-14/2898071.shtml) | Thu Jul 14 2022 2:27 AM
-- 🪜 [中汽协：1-6月汽车企业出口121.8万辆 同比增长47.1%](http://www.techweb.com.cn/it/2022-07-14/2898070.shtml) | Thu Jul 14 2022 2:24 AM
-- 🤭 [名创优品卖不动了](http://www.techweb.com.cn/viewpoint/2022-07-14/2898069.shtml) | Thu Jul 14 2022 2:19 AM
-- 🙉 [郭明錤：台积电将是高通2023及2024年旗舰5G芯片独家供应商](http://www.techweb.com.cn/world/2022-07-14/2898067.shtml) | Thu Jul 14 2022 2:19 AM<!-- techweb-allnews:END -->
+- 👍 [松下将在美国堪萨斯州建造新电动汽车电池工厂 预计耗资40亿美元](http://www.techweb.com.cn/world/2022-07-14/2898087.shtml) | Thu Jul 14 2022 4:05 AM
+- 👹 [特斯拉AI主管宣布离职 是人工智能教授李飞飞高徒](http://www.techweb.com.cn/world/2022-07-14/2898086.shtml) | Thu Jul 14 2022 3:53 AM
+- 🪜 [懂车帝何戬：构建二手车一站式服务平台 解决流通效率和渠道两大痛点](http://www.techweb.com.cn/it/2022-07-14/2898085.shtml) | Thu Jul 14 2022 3:51 AM
+- 🤭 [活在比亚迪阴影下的哪吒](http://www.techweb.com.cn/viewpoint/2022-07-14/2898080.shtml) | Thu Jul 14 2022 3:26 AM
+- 🙉 [新能源车的乐与忧](http://www.techweb.com.cn/viewpoint/2022-07-14/2898074.shtml) | Thu Jul 14 2022 2:33 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
