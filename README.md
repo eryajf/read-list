@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [手把手教你手写 Vite Server（二）—— 插件架构设计](https://juejin.cn/post/7119849977240616996) | Wed Jul 13 2022 1:34 PM 
+- 🤗 [API 请求慢？这次锅真不在后端、基于 React 18 讲解 Hooks 原理 、吃透JAVA的Stream流操作，多年实践总结 丨酱酱的下午茶第28期](https://juejin.cn/post/7120077985134313479) | Thu Jul 14 2022 4:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近鉴于掘友们的热情召唤，我们终于把做了几百期的社群下午茶搬到站内了，酱酱们会一直陪伴，认真创作的掘友们，站内下午茶新增优质作者介绍和码上掘金板块，专注于发掘站内优质创作者和优质内容，欢迎大家多提宝贵 
+    </details> 
+
+- 🎡 [字节有『芯』在跳动，了吗？YOLOv7目标检测实现：确实挺好；伯克利博士找工作的6个月；软件工程资源大列表 | ShowMeAI资讯日报](https://juejin.cn/post/7120052633431179278) | Thu Jul 14 2022 2:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 2022-07-14 期，字节正大量招聘芯片工程师；YOLOv7目标检测的ONNX实现；基于T5 抽取文本关键词；Primary 温暖怀旧的Obsidian获奖主题；前沿论文 
+    </details> 
+
+- 🕯 [手把手教你手写 Vite Server（二）—— 插件架构设计](https://juejin.cn/post/7119849977240616996) | Wed Jul 13 2022 1:34 PM 
     <details><summary>展开描述 ...</summary> 
     之前手写了一个 Vite Server，实现了一些基本的功能，但是这些能力都是写死的，没有任何的可扩展性，这次我们将它改造成插件化架构，通过新增插件来新增能力。 
     </details> 
 
-- 🎡 [Electron搭配React的history路由模式打包exe客户端](https://juejin.cn/post/7119846685307568164) | Wed Jul 13 2022 1:21 PM 
+- 🚀 [Electron搭配React的history路由模式打包exe客户端](https://juejin.cn/post/7119846685307568164) | Wed Jul 13 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
     Electron安装 安装问题 npm或者yarn安装electron就算是配置了淘宝源还是会出现超时。所以我的解决方案是安装cnpm，使用cnpm去安装。 全局安装cnpm 新建项目 相关依赖的版本 
     </details> 
 
-- 🕯 [闭包，作用域的无限手套🧤](https://juejin.cn/post/7119846217785769997) | Wed Jul 13 2022 1:21 PM 
+- 💪 [闭包，作用域的无限手套🧤](https://juejin.cn/post/7119846217785769997) | Wed Jul 13 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
     前言 上回谈到 JS 的[作用域和作用域链]&lpar;一个例子！浅谈作用域链 - 掘金 &lpar;juejin.cn&rpar;&rpar;，我们理解了一些关于 JS 底层的逻辑思想。就是内部的函数可以访问到外部函数的变量和外部的函数无 
-    </details> 
-
-- 🚀 [【Koa】搞定KoaJS](https://juejin.cn/post/7119845349891997709) | Wed Jul 13 2022 1:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    中间件原理（结合代码）- 原理- 中间件实现思路- 理解上述洋葱模型- 阅读源码- app.listen&lpar;&rpar; - ctx挂载内容- next构建的洋葱模型- 基于事件驱动去处理异常- koa&amp;Expr 
-    </details> 
-
-- 💪 [vue3源码之初始化流程浅浅的小解析](https://juejin.cn/post/7119842486750543908) | Wed Jul 13 2022 1:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 大家好！我是乾阳，最近在面试，发现外面的面试官都学聪明了，都不爱问你响应式了，喜欢问你vue3的初始化的流程。搞得我不得不🧐一下子 调试环境 拉取下来之后pnpm安装一下 执行 然后打开 就是我 
     </details> 
 <!-- juejin:END -->
 ### 少数派
