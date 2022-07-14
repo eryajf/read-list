@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [抖音：网传因说“违禁词”致直播违规内容不实](http://www.techweb.com.cn/internet/2022-07-14/2898090.shtml) | Thu Jul 14 2022 5:34 AM
-- 👹 [松下将在美国堪萨斯州建造新电动汽车电池工厂 预计耗资40亿美元](http://www.techweb.com.cn/world/2022-07-14/2898087.shtml) | Thu Jul 14 2022 4:05 AM
-- 🪜 [特斯拉AI主管宣布离职 是人工智能教授李飞飞高徒](http://www.techweb.com.cn/world/2022-07-14/2898086.shtml) | Thu Jul 14 2022 3:53 AM
-- 🤭 [懂车帝何戬：构建二手车一站式服务平台 解决流通效率和渠道两大痛点](http://www.techweb.com.cn/it/2022-07-14/2898085.shtml) | Thu Jul 14 2022 3:51 AM
-- 🙉 [活在比亚迪阴影下的哪吒](http://www.techweb.com.cn/viewpoint/2022-07-14/2898080.shtml) | Thu Jul 14 2022 3:26 AM<!-- techweb-allnews:END -->
+- 👍 [亚马逊承认未经用户允许 今年已向警方提供监控视频11次](http://www.techweb.com.cn/world/2022-07-14/2898092.shtml) | Thu Jul 14 2022 6:26 AM
+- 👹 [台积电二季度营收181亿美元 5nm工艺季度营收仍未超过7nm](http://www.techweb.com.cn/world/2022-07-14/2898091.shtml) | Thu Jul 14 2022 6:17 AM
+- 🪜 [抖音：网传因说“违禁词”致直播违规内容不实](http://www.techweb.com.cn/internet/2022-07-14/2898090.shtml) | Thu Jul 14 2022 5:34 AM
+- 🤭 [松下将在美国堪萨斯州建造新电动汽车电池工厂 预计耗资40亿美元](http://www.techweb.com.cn/world/2022-07-14/2898087.shtml) | Thu Jul 14 2022 4:05 AM
+- 🙉 [特斯拉AI主管宣布离职 是人工智能教授李飞飞高徒](http://www.techweb.com.cn/world/2022-07-14/2898086.shtml) | Thu Jul 14 2022 3:53 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
