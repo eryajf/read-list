@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [紫光集团新任董事长发布全员信 提出未来发展战略和原则](http://www.techweb.com.cn/it/2022-07-14/2898032.shtml) | Thu Jul 14 2022 1:24 AM
-- 👹 [小学生+家长体验「小度大屏护眼学习机P20」：学习机天花板](http://www.techweb.com.cn/it/2022-07-13/2897996.shtml) | Wed Jul 13 2022 10:19 AM
-- 🪜 [台积电14日发布二季度财报 5nm工艺营收能否超过7nm将见分晓](http://www.techweb.com.cn/world/2022-07-13/2897992.shtml) | Wed Jul 13 2022 9:49 AM
-- 🤭 [长城手撕余承东：增程的罪，插混的泪](http://www.techweb.com.cn/viewpoint/2022-07-13/2897990.shtml) | Wed Jul 13 2022 9:45 AM
-- 🙉 [TikTok同意暂停更新在欧洲有争议的隐私政策](http://www.techweb.com.cn/world/2022-07-13/2897989.shtml) | Wed Jul 13 2022 9:42 AM<!-- techweb-allnews:END -->
+- 👍 [新能源车的乐与忧](http://www.techweb.com.cn/viewpoint/2022-07-14/2898074.shtml) | Thu Jul 14 2022 2:33 AM
+- 👹 [推特：不打算在全公司范围内裁员 但可能进行重组](http://www.techweb.com.cn/world/2022-07-14/2898071.shtml) | Thu Jul 14 2022 2:27 AM
+- 🪜 [中汽协：1-6月汽车企业出口121.8万辆 同比增长47.1%](http://www.techweb.com.cn/it/2022-07-14/2898070.shtml) | Thu Jul 14 2022 2:24 AM
+- 🤭 [名创优品卖不动了](http://www.techweb.com.cn/viewpoint/2022-07-14/2898069.shtml) | Thu Jul 14 2022 2:19 AM
+- 🙉 [郭明錤：台积电将是高通2023及2024年旗舰5G芯片独家供应商](http://www.techweb.com.cn/world/2022-07-14/2898067.shtml) | Thu Jul 14 2022 2:19 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
