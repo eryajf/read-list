@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [误删/data/system/packages.xml 文件，手机无法开机](https://www.v2ex.com/t/866173#reply0) | Thu Jul 14 2022 8:14 AM
-- 🤗 [云服务商提供的相比 Intel 更便宜的 AMD 服务器有什么坑吗？](https://www.v2ex.com/t/866169#reply0) | Thu Jul 14 2022 8:11 AM
-- 🎭 [[JVM 相关] 为什么说 Class 文件格式里面可以字段重名？](https://www.v2ex.com/t/866165#reply3) | Thu Jul 14 2022 8:07 AM
-- 🥷 [感觉 Windows 平板是个很好的方向，电脑厂商们请多多投入](https://www.v2ex.com/t/866153#reply16) | Thu Jul 14 2022 7:40 AM
-- 🐵 [当爹的程序员,能为孩子的教育做点什么贡献?](https://www.v2ex.com/t/866151#reply15) | Thu Jul 14 2022 7:38 AM<!-- v2ex:END -->
+- 🥸 [现在怎么安装 gcc-i686- Linux -android](https://www.v2ex.com/t/866196#reply0) | Thu Jul 14 2022 9:05 AM
+- 🤗 [Java 多模块项目如何封装统一的配置信息](https://www.v2ex.com/t/866192#reply2) | Thu Jul 14 2022 8:54 AM
+- 🎭 [淘宝的 Google 二手 pixel， 98 新， 3800，能冲吗？](https://www.v2ex.com/t/866180#reply6) | Thu Jul 14 2022 8:28 AM
+- 🥷 [误删/data/system/packages.xml 文件，手机无法开机](https://www.v2ex.com/t/866173#reply2) | Thu Jul 14 2022 8:14 AM
+- 🐵 [云服务商提供的相比 Intel 更便宜的 AMD 服务器有什么坑吗？](https://www.v2ex.com/t/866169#reply2) | Thu Jul 14 2022 8:11 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
