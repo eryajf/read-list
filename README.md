@@ -221,19 +221,19 @@
     ShowMeAI资讯日报 2022-07-14 期，字节正大量招聘芯片工程师；YOLOv7目标检测的ONNX实现；基于T5 抽取文本关键词；Primary 温暖怀旧的Obsidian获奖主题；前沿论文 
     </details> 
 
-- 🕯 [手把手教你手写 Vite Server（二）—— 插件架构设计](https://juejin.cn/post/7119849977240616996) | Wed Jul 13 2022 1:34 PM 
+- 🕯 [基本数据类型和引用数据类型的区别](https://juejin.cn/post/7119863579246854181) | Wed Jul 13 2022 2:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    基本类型和引用数据类型的区别 1、堆和栈 1、栈（stack）:栈会自动分配内存空间，会自动释放，存放基本类型，简单的数据段占据固定大小的空间。 2、堆（heap）:动态分配的内存，大小不定也不会自动 
+    </details> 
+
+- 🚀 [手把手教你手写 Vite Server（二）—— 插件架构设计](https://juejin.cn/post/7119849977240616996) | Wed Jul 13 2022 1:34 PM 
     <details><summary>展开描述 ...</summary> 
     之前手写了一个 Vite Server，实现了一些基本的功能，但是这些能力都是写死的，没有任何的可扩展性，这次我们将它改造成插件化架构，通过新增插件来新增能力。 
     </details> 
 
-- 🚀 [Electron搭配React的history路由模式打包exe客户端](https://juejin.cn/post/7119846685307568164) | Wed Jul 13 2022 1:21 PM 
+- 💪 [Electron搭配React的history路由模式打包exe客户端](https://juejin.cn/post/7119846685307568164) | Wed Jul 13 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
     Electron安装 安装问题 npm或者yarn安装electron就算是配置了淘宝源还是会出现超时。所以我的解决方案是安装cnpm，使用cnpm去安装。 全局安装cnpm 新建项目 相关依赖的版本 
-    </details> 
-
-- 💪 [闭包，作用域的无限手套🧤](https://juejin.cn/post/7119846217785769997) | Wed Jul 13 2022 1:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 上回谈到 JS 的[作用域和作用域链]&lpar;一个例子！浅谈作用域链 - 掘金 &lpar;juejin.cn&rpar;&rpar;，我们理解了一些关于 JS 底层的逻辑思想。就是内部的函数可以访问到外部函数的变量和外部的函数无 
     </details> 
 <!-- juejin:END -->
 ### 少数派
