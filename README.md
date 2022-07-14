@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [刚用 NestJS 完成一个项目，开发体验一般， JS 模块添加依赖注入，个人感觉必要性不强](https://www.v2ex.com/t/866056#reply1) | Thu Jul 14 2022 1:50 AM
-- 🤗 [请教一下此场景下的数据如何存储和计算](https://www.v2ex.com/t/866051#reply3) | Thu Jul 14 2022 1:37 AM
-- 🎭 [一般的风控系统能识别到哪些客户端风险？](https://www.v2ex.com/t/866050#reply0) | Thu Jul 14 2022 1:34 AM
-- 🥷 [请教一下 TC 的用法](https://www.v2ex.com/t/866042#reply0) | Thu Jul 14 2022 1:23 AM
-- 🐵 [你们的 Chrome 会发出异响吗（MAC）？](https://www.v2ex.com/t/866039#reply4) | Thu Jul 14 2022 1:08 AM<!-- v2ex:END -->
+- 🥸 [国内平台几乎全是手机验证登陆，为何还要设置密码？](https://www.v2ex.com/t/866099#reply5) | Thu Jul 14 2022 3:35 AM
+- 🤗 [如何在 celery 异步 task 执行中拿到里面的返回值](https://www.v2ex.com/t/866098#reply2) | Thu Jul 14 2022 3:32 AM
+- 🎭 [tls.GetCertificate 方法中怎么设置上下文自定义变量或分享某些值](https://www.v2ex.com/t/866094#reply0) | Thu Jul 14 2022 3:24 AM
+- 🥷 [观看 NAS 里的蓝光原盘，大家是怎么解决字幕问题的？](https://www.v2ex.com/t/866088#reply5) | Thu Jul 14 2022 3:08 AM
+- 🐵 [ant design pro table 里时间查询配置，如何配置最近一周，最近一月或者其他自定义方式](https://www.v2ex.com/t/866086#reply0) | Thu Jul 14 2022 3:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
