@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【新，前端必学】从event loop规范探究javaScript异步及浏览器更新渲染时机](https://juejin.cn/post/7120150102556606495) | Thu Jul 14 2022 8:59 AM 
+- 🤗 [由点汇聚成字的动效炫极了](https://juejin.cn/post/7120233450627891237) | Thu Jul 14 2022 2:23 PM 
     <details><summary>展开描述 ...</summary> 
-    异步的思考 event loops 隐藏得比较深，很多人对它很陌生。但提起异步，相信每个人都知道。异步背后的“靠山”就是 event loops。这里的异步准确的说应该叫浏览器的 event loop 
+    通过随机散乱的圆点最后组合成了想要的文字，这样的动画效果酷炫极了。看看如何通过点阵构建想要的文字和图形，还可以搞定酷炫的动画。 
     </details> 
 
-- 🎡 [TWaver使用中间点画折线方法](https://juejin.cn/post/7120149790985289764) | Thu Jul 14 2022 8:57 AM 
+- 🎡 [深度详解Facebook时序工具库Kats](https://juejin.cn/post/7120182510176174110) | Thu Jul 14 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-    了解一下 TWaver的图形组件库中提供了拓扑组件、地图组件、设备图组件，以及表格、树图、属性表、图表等丰富的通用图形界面组件，为电信运营支撑系统（OSS）的开发提供“一站式”的组件产品和解决方案，是 
+    Kats是Facebook发布的一个专门为了时间序列服务的工具库。它作为一个Toolkit包，提供了四种简易且轻量化的API。 
     </details> 
 
-- 🕯 [react 函数组件输入卡顿问题 usecallback react.memo](https://juejin.cn/post/7120148941731004453) | Thu Jul 14 2022 8:55 AM 
+- 🕯 [clickhouse聚合之探索聚合内部机制](https://juejin.cn/post/7120155911057834021) | Thu Jul 14 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    现象 在输入问题时，输入框响应巨慢。 效果图 分析 右侧控制台显示，子组件不停在mount unmount，子组件中使用了CKEditor组件，每次mount开支较大，导致输入卡顿 代码如下： 解决  
+    本文章中，我们将探讨聚合在 ClickHouse 中的工作原理、如何衡量其性能以及如何使其更快、更高效。为了便于阅读，我们将使用简单的示例，但它们显示的原则适用于更复杂的查询。 
     </details> 
 
-- 🚀 [three.js 性能优化](https://juejin.cn/post/7120142240726384671) | Thu Jul 14 2022 8:28 AM 
+- 🚀 [实战派 | Java项目中玩转Redis6.0客户端缓存！](https://juejin.cn/post/7120148572846178335) | Thu Jul 14 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-    1、网格模型合并 此合并不是把几个网格模型放到一个组中，而是进行uv，顶点，矩阵的合并；做个实验,在普通组中，渲染20000个几何体，帧率一般在15帧左右，如果选择合并在绘制20000个几何体，帧率会 
+    在前面的文章中，我们介绍了Redis6.0中的新特性客户端缓存client-side caching，这篇文章我们就来点硬核实战，看看客户端缓存在Java项目中如何落地。 
     </details> 
 
-- 💪 [git--no matching host key type found. Their offer: ssh-rsa](https://juejin.cn/post/7120102254962540552) | Thu Jul 14 2022 5:53 AM 
+- 💪 [火山引擎CWPP&lpar;Elkeid&rpar; 真实对抗案例分享](https://juejin.cn/post/7120140533766291470) | Thu Jul 14 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 问题 windows下使用git bash拉代码报错如下 解决方法 在用户目录下的 .ssh文件夹下新建一个 config 文件，添加： 原因 最 
+    分享一起在近期发生的入侵应急事件，在该事件中由 Elkeid 提供的产品能力，极大的方便了防御方在整个入侵过程中的处置和应急。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
