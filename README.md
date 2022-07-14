@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [亚马逊承认未经用户允许 今年已向警方提供监控视频11次](http://www.techweb.com.cn/world/2022-07-14/2898092.shtml) | Thu Jul 14 2022 6:26 AM
-- 👹 [台积电二季度营收181亿美元 5nm工艺季度营收仍未超过7nm](http://www.techweb.com.cn/world/2022-07-14/2898091.shtml) | Thu Jul 14 2022 6:17 AM
-- 🪜 [抖音：网传因说“违禁词”致直播违规内容不实](http://www.techweb.com.cn/internet/2022-07-14/2898090.shtml) | Thu Jul 14 2022 5:34 AM
-- 🤭 [松下将在美国堪萨斯州建造新电动汽车电池工厂 预计耗资40亿美元](http://www.techweb.com.cn/world/2022-07-14/2898087.shtml) | Thu Jul 14 2022 4:05 AM
-- 🙉 [特斯拉AI主管宣布离职 是人工智能教授李飞飞高徒](http://www.techweb.com.cn/world/2022-07-14/2898086.shtml) | Thu Jul 14 2022 3:53 AM<!-- techweb-allnews:END -->
+- 👍 [网宿《2021年中国互联网安全报告》：API威胁暴涨超200% 软件供应链安全风险加剧](http://www.techweb.com.cn/it/2022-07-14/2898119.shtml) | Thu Jul 14 2022 7:39 AM
+- 👹 [京东小时购、京东到家：多城市气温逼近40℃ 冰棒销售额环比增长189%](http://www.techweb.com.cn/it/2022-07-14/2898118.shtml) | Thu Jul 14 2022 7:36 AM
+- 🪜 [谷歌云宣布将开始采用基于Arm技术的计算芯片](http://www.techweb.com.cn/world/2022-07-14/2898113.shtml) | Thu Jul 14 2022 7:24 AM
+- 🤭 [谷歌高管：40%“Z世代”更乐意使用TikTok 蚕食谷歌核心产品](http://www.techweb.com.cn/world/2022-07-14/2898112.shtml) | Thu Jul 14 2022 7:23 AM
+- 🙉 [亚马逊承认未经用户允许 今年已向警方提供监控视频11次](http://www.techweb.com.cn/world/2022-07-14/2898092.shtml) | Thu Jul 14 2022 6:26 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
