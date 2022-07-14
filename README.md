@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [咖啡地图 | 埃塞俄比亚的瑰夏故事](https://sspai.com/post/74255) | Wed Jul 13 2022 9:30 AM 
+- 👹 [派早报：Apple 结束与艾维的合作、Nvidia 发布量子计算平台等](https://sspai.com/post/74268) | Thu Jul 14 2022 12:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    蓝牙技术联盟宣布完成 LE Audio 规范、Emoji 15.0 新增候选符号公布等。&lt;a href=&quot;https://sspai.com/post/74268&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [咖啡地图 | 埃塞俄比亚的瑰夏故事](https://sspai.com/post/74255) | Wed Jul 13 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     上篇已经把著名的巴拿马瑰夏讲的比较清楚了，也把Geisha与Gesha的区别说到了。这篇就是瑰夏故事的最后一篇，来讲讲埃塞俄比亚Gesha的那些事儿。埃塞俄比亚整体情况我之前已经有文章详细讲解过，各位 ...&lt;a href=&quot;https://sspai.com/post/74255&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [谁能凭空玩出一家游戏公司？](https://sspai.com/post/74212) | Wed Jul 13 2022 8:01 AM 
+- 🤭 [谁能凭空玩出一家游戏公司？](https://sspai.com/post/74212) | Wed Jul 13 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
     一边是一时失意的落魄评论家，一边是风头正劲的明星制作人。他们第一次见面的情景就像是米开朗基罗的著名壁画《创世纪》中的《创造亚当》。&lt;a href=&quot;https://sspai.com/post/74212&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [[送码] 自己动手做出喜欢的壁纸，让你的主屏永远「新鲜」：InPaper](https://sspai.com/post/74217) | Wed Jul 13 2022 6:30 AM 
+- 🥸 [[送码] 自己动手做出喜欢的壁纸，让你的主屏永远「新鲜」：InPaper](https://sspai.com/post/74217) | Wed Jul 13 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     InPaper 是一款不提供壁纸下载的壁纸软件，它专注于壁纸制作和自动化功能，在未来会提供更多自动化能力，持续推出更多有趣有意义的壁纸制作功能与样式。&lt;a href=&quot;https://sspai.com/post/74217&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [iPadOS 16 公开测试版来了，升级以后可以试试这些新功能](https://sspai.com/post/74252) | Wed Jul 13 2022 3:31 AM 
+- 🙉 [iPadOS 16 公开测试版来了，升级以后可以试试这些新功能](https://sspai.com/post/74252) | Wed Jul 13 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     本文为你整理了 iPadOS 16 值得关注的一些新功能、如何升级系统以及升级前需要了解的一些注意事项，希望对你有所帮助。&lt;a href=&quot;https://sspai.com/post/74252&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：Nothing Phone &lpar;1&rpar; 发布、Twitter 起诉马斯克等](https://sspai.com/post/74249) | Wed Jul 13 2022 12:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    诺基亚推出多款复刻功能机，真我 realme 发布多款新品等。&lt;a href=&quot;https://sspai.com/post/74249&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
