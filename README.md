@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022 年的 AI 开发工具和大模型演进丨XDC 2022](https://juejin.cn/post/7120119025677369374) | Thu Jul 14 2022 6:58 AM 
+- 🤗 [为什么只想写代码的人，也要培养技术领导力？](https://juejin.cn/post/7120131438162214926) | Thu Jul 14 2022 7:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    “CTO 要不要写代码？”是国内技术圈争论多年的经典话题。有的人认为技术管理者的价值在于业务而非技术，有的人认为技术管理者如果失去技术能力容易脱离实际。 
+    </details> 
+
+- 🎡 [聊聊云原生架构的演进与变革](https://juejin.cn/post/7120124126877974564) | Thu Jul 14 2022 7:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    2011 年，Marc Andreessen 说出了那句著名的论断——软件正在吞噬世界。 这在当年看起来耸人听闻的标题，在今天早已为人习以为常。 
+    </details> 
+
+- 🕯 [Android 文本，软键盘使用指南](https://juejin.cn/post/7120119215264104485) | Thu Jul 14 2022 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    解决Android开发中常见的软键盘和文本相关问题， 提供两种不同的解决方案，欢迎一起学习Android文本软键盘指南 
+    </details> 
+
+- 🚀 [前端做题家的｜2022 年中总结](https://juejin.cn/post/7120119051090657317) | Thu Jul 14 2022 6:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    收入：月收入应该吊打p8了，哈哈，开个玩笑 房子正在看：准备买上海的郊区，或者老破小，将就上车，上海的房子真尼玛贵啊！ 
+    </details> 
+
+- 💪 [2022 年的 AI 开发工具和大模型演进丨XDC 2022](https://juejin.cn/post/7120119025677369374) | Thu Jul 14 2022 6:58 AM 
     <details><summary>展开描述 ...</summary> 
     GPT-3 的出世引发了 AI 大模型的热潮，两年过去了，产业界是否驯服了大模型？大模型又是否具备了成为 AI 基础设施和商业模式的潜力？ 
-    </details> 
-
-- 🎡 [【中奖公示】掘金日新计划-6月更文挑战](https://juejin.cn/post/7120117457724899358) | Thu Jul 14 2022 6:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    Hi 掘友们，掘金日新计划-6月更文挑战已经结束，下面将公示本期活动的中奖名单，快来看看你完成了哪些关卡？ 
-    </details> 
-
-- 🕯 [电商商品系统的演进分析](https://juejin.cn/post/7120094959964782628) | Thu Jul 14 2022 5:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    好久没有给大家带来新的知识分享了，2022的第一篇（是的，你没看错！第一篇）就给大家讲讲商品模型的演进过程吧！ 
-    </details> 
-
-- 🚀 [ChromeOS 体验 &lpar;FydeOS&rpar;](https://juejin.cn/entry/7120079217626185735) | Thu Jul 14 2022 4:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要介绍了：ChromeOS &lpar;FydeOS&rpar; 操作系统安装体验，基于 ChromOS 的 Linux 子系统的开发环境搭建，以及 ChromeOS 原理和架构的探索。 
-    </details> 
-
-- 💪 [Promise永久Pending状态造成内存泄漏](https://juejin.cn/entry/7120079225926713374) | Thu Jul 14 2022 4:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    若promise一直保持pending状态，将会在内存中保存相应的上下文，无法释放，这可能导致内存泄漏。  
     </details> 
 <!-- juejin:END -->
 ### 少数派
