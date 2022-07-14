@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750611) | Wed Jul 13 2022 12:27 AM
-- 🐻 [同是面粉，为何欧洲人做面包，中国人做馒头？这其中的历史发展过程是怎样的？](http://daily.zhihu.com/story/9750606) | Wed Jul 13 2022 12:27 AM
-- 🌏 [你是如何理解宠物「通人性」这一形容的？](http://daily.zhihu.com/story/9750605) | Wed Jul 13 2022 12:27 AM
-- 🕴 [为什么苍蝇停下来总会搓手？它们在做什么？](http://daily.zhihu.com/story/9750597) | Wed Jul 13 2022 12:27 AM
-- 🌮 [作为管理者，你是怎样向下属安排任务的？](http://daily.zhihu.com/story/9750587) | Wed Jul 13 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750646) | Thu Jul 14 2022 12:27 AM
+- 🐻 [植物奶油做错了什么，为啥大家都针对它？](http://daily.zhihu.com/story/9750637) | Thu Jul 14 2022 12:27 AM
+- 🌏 [工作中，如何有效地偷懒？](http://daily.zhihu.com/story/9750625) | Thu Jul 14 2022 12:27 AM
+- 🕴 [为什么铁人三项的顺序依次是游泳、单车、跑步，有科学原因吗？](http://daily.zhihu.com/story/9750635) | Thu Jul 14 2022 12:27 AM
+- 🌮 [井有多深？井的下面是一个怎样的世界？](http://daily.zhihu.com/story/9750618) | Thu Jul 14 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
