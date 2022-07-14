@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [因为不了解 AWS 付费模式，被自己坑了，哭](https://www.v2ex.com/t/866111#reply7) | Thu Jul 14 2022 4:18 AM
-- 🤗 [请教个关于服务器出网带宽的问题](https://www.v2ex.com/t/866110#reply1) | Thu Jul 14 2022 4:15 AM
+- 🥸 [因为不了解 AWS 付费模式，被自己坑了，哭](https://www.v2ex.com/t/866111#reply12) | Thu Jul 14 2022 4:18 AM
+- 🤗 [请教个关于服务器出网带宽的问题](https://www.v2ex.com/t/866110#reply2) | Thu Jul 14 2022 4:15 AM
 - 🎭 [有关 es 中 scroll 的疑问](https://www.v2ex.com/t/866108#reply0) | Thu Jul 14 2022 4:02 AM
-- 🥷 [作为一个面试官，应该怎么组织面试？](https://www.v2ex.com/t/866106#reply2) | Thu Jul 14 2022 4:01 AM
-- 🐵 [数据库小白想咨询下，怎么处理业务的原始数据跟处理过后的数据的连接关系？](https://www.v2ex.com/t/866104#reply2) | Thu Jul 14 2022 3:55 AM<!-- v2ex:END -->
+- 🥷 [作为一个面试官，应该怎么组织面试？](https://www.v2ex.com/t/866106#reply3) | Thu Jul 14 2022 4:01 AM
+- 🐵 [数据库小白想咨询下，怎么处理业务的原始数据跟处理过后的数据的连接关系？](https://www.v2ex.com/t/866104#reply3) | Thu Jul 14 2022 3:55 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
