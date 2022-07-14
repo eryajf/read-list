@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [偶遇算法-区间交集](https://juejin.cn/post/7120027661195280391) | Thu Jul 14 2022 1:03 AM 
+- 🤗 [手把手教你手写 Vite Server（二）—— 插件架构设计](https://juejin.cn/post/7119849977240616996) | Wed Jul 13 2022 1:34 PM 
     <details><summary>展开描述 ...</summary> 
-    题目描述： 给定一组闭区间，其中部分区间存在交集。任意两个给定区间的交集，称为公共区间&lpar;如:[1,2],[2,3]的公共区间为[2,2]，[3,5],[3,6]的公共区间为[3,5]&rpar;。公共区间之间  
+    之前手写了一个 Vite Server，实现了一些基本的功能，但是这些能力都是写死的，没有任何的可扩展性，这次我们将它改造成插件化架构，通过新增插件来新增能力。 
     </details> 
 
-- 🎡 [Vue3 $emit指南--包含选项API、组合API以及 setup 语法糖](https://juejin.cn/post/7120020532711391239) | Thu Jul 14 2022 12:36 AM 
+- 🎡 [Electron搭配React的history路由模式打包exe客户端](https://juejin.cn/post/7119846685307568164) | Wed Jul 13 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-    许多Vue模式涉及使用props将数据从父组件传递到子组件。但如果我们需要一个子组件将数据传给它的父组件呢？ 使用 emit，我们可以触发事件并将数据传递到组件的层次结构中。这对下面几种情况很有用，如 
+    Electron安装 安装问题 npm或者yarn安装electron就算是配置了淘宝源还是会出现超时。所以我的解决方案是安装cnpm，使用cnpm去安装。 全局安装cnpm 新建项目 相关依赖的版本 
     </details> 
 
-- 🕯 [Flutter 绘制探索 | 来一起画箭头吧](https://juejin.cn/post/7120010916602576926) | Thu Jul 14 2022 12:00 AM 
+- 🕯 [闭包，作用域的无限手套🧤](https://juejin.cn/post/7119846217785769997) | Wed Jul 13 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-    可能有人会觉得，画箭头有什么好说的，不就一根线加两个头吗？其实箭头的绘制还是比较复杂的，其中也蕴含着很多绘制的小技巧。箭头本身有着很强的 示意功能 ,通常用于指示、标注、连接。各种不同的箭 
+    前言 上回谈到 JS 的[作用域和作用域链]&lpar;一个例子！浅谈作用域链 - 掘金 &lpar;juejin.cn&rpar;&rpar;，我们理解了一些关于 JS 底层的逻辑思想。就是内部的函数可以访问到外部函数的变量和外部的函数无 
     </details> 
 
-- 🚀 [偶遇算法-字符串的解压缩](https://juejin.cn/post/7119872295304167461) | Wed Jul 13 2022 3:01 PM 
+- 🚀 [【Koa】搞定KoaJS](https://juejin.cn/post/7119845349891997709) | Wed Jul 13 2022 1:17 PM 
     <details><summary>展开描述 ...</summary> 
-    题目 有一种简易压缩算法：针对全部为小写英文字母组成的字符串， 将其中连续超过两个相同字母的部分压缩为连续个数加该字母 其他部分保持原样不变. 例如字符串 aaabbccccd 经过压缩变成字符串 3 
+    中间件原理（结合代码）- 原理- 中间件实现思路- 理解上述洋葱模型- 阅读源码- app.listen&lpar;&rpar; - ctx挂载内容- next构建的洋葱模型- 基于事件驱动去处理异常- koa&amp;Expr 
     </details> 
 
-- 💪 [🥷 原来实现 Router Hook 组件只需要一百多行代码](https://juejin.cn/post/7119858952653373447) | Wed Jul 13 2022 2:10 PM 
+- 💪 [vue3源码之初始化流程浅浅的小解析](https://juejin.cn/post/7119842486750543908) | Wed Jul 13 2022 1:05 PM 
     <details><summary>展开描述 ...</summary> 
-    在几乎每个 React 项目中，react-router 都必不可少。这篇文章将从头开始编辑一个最基础的 react-router（仅需一百多行代码）。 
+    前言 大家好！我是乾阳，最近在面试，发现外面的面试官都学聪明了，都不爱问你响应式了，喜欢问你vue3的初始化的流程。搞得我不得不🧐一下子 调试环境 拉取下来之后pnpm安装一下 执行 然后打开 就是我 
     </details> 
 <!-- juejin:END -->
 ### 少数派
