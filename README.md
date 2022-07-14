@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [API 请求慢？这次锅真不在后端、基于 React 18 讲解 Hooks 原理 、吃透JAVA的Stream流操作，多年实践总结 丨酱酱的下午茶第28期](https://juejin.cn/post/7120077985134313479) | Thu Jul 14 2022 4:21 AM 
+- 🤗 [电商商品系统的演进分析](https://juejin.cn/post/7120094959964782628) | Thu Jul 14 2022 5:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    好久没有给大家带来新的知识分享了，2022的第一篇（是的，你没看错！第一篇）就给大家讲讲商品模型的演进过程吧！ 
+    </details> 
+
+- 🎡 [API 请求慢？这次锅真不在后端、基于 React 18 讲解 Hooks 原理 、吃透JAVA的Stream流操作，多年实践总结 丨酱酱的下午茶第28期](https://juejin.cn/post/7120077985134313479) | Thu Jul 14 2022 4:21 AM 
     <details><summary>展开描述 ...</summary> 
     最近鉴于掘友们的热情召唤，我们终于把做了几百期的社群下午茶搬到站内了，酱酱们会一直陪伴，认真创作的掘友们，站内下午茶新增优质作者介绍和码上掘金板块，专注于发掘站内优质创作者和优质内容，欢迎大家多提宝贵 
     </details> 
 
-- 🎡 [字节有『芯』在跳动，了吗？YOLOv7目标检测实现：确实挺好；伯克利博士找工作的6个月；软件工程资源大列表 | ShowMeAI资讯日报](https://juejin.cn/post/7120052633431179278) | Thu Jul 14 2022 2:41 AM 
+- 🕯 [小册上新｜使用率超过 89%，Webpack 依然是绝对的大多数！](https://juejin.cn/post/7120070857816277000) | Thu Jul 14 2022 3:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    从场景化工程搭建技巧，到构建与应用性能优化技巧，再到 Loader、Plugin 组件开发，最终落地到源码级剖析 Webpack 执行原理。 
+    </details> 
+
+- 🚀 [字节有『芯』在跳动，了吗？YOLOv7目标检测实现：确实挺好；伯克利博士找工作的6个月；软件工程资源大列表 | ShowMeAI资讯日报](https://juejin.cn/post/7120052633431179278) | Thu Jul 14 2022 2:41 AM 
     <details><summary>展开描述 ...</summary> 
     ShowMeAI资讯日报 2022-07-14 期，字节正大量招聘芯片工程师；YOLOv7目标检测的ONNX实现；基于T5 抽取文本关键词；Primary 温暖怀旧的Obsidian获奖主题；前沿论文 
     </details> 
 
-- 🕯 [基本数据类型和引用数据类型的区别](https://juejin.cn/post/7119863579246854181) | Wed Jul 13 2022 2:27 PM 
+- 💪 [基本数据类型和引用数据类型的区别](https://juejin.cn/post/7119863579246854181) | Wed Jul 13 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
     基本类型和引用数据类型的区别 1、堆和栈 1、栈（stack）:栈会自动分配内存空间，会自动释放，存放基本类型，简单的数据段占据固定大小的空间。 2、堆（heap）:动态分配的内存，大小不定也不会自动 
-    </details> 
-
-- 🚀 [手把手教你手写 Vite Server（二）—— 插件架构设计](https://juejin.cn/post/7119849977240616996) | Wed Jul 13 2022 1:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    之前手写了一个 Vite Server，实现了一些基本的功能，但是这些能力都是写死的，没有任何的可扩展性，这次我们将它改造成插件化架构，通过新增插件来新增能力。 
-    </details> 
-
-- 💪 [Electron搭配React的history路由模式打包exe客户端](https://juejin.cn/post/7119846685307568164) | Wed Jul 13 2022 1:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    Electron安装 安装问题 npm或者yarn安装electron就算是配置了淘宝源还是会出现超时。所以我的解决方案是安装cnpm，使用cnpm去安装。 全局安装cnpm 新建项目 相关依赖的版本 
     </details> 
 <!-- juejin:END -->
 ### 少数派
