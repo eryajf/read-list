@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [知乎回答：为什么中国出了这么多厉害的互联网公司，但没有自己设计过编程语言](https://www.v2ex.com/t/866207#reply0) | Thu Jul 14 2022 9:42 AM
-- 🤗 [在线呼叫爬虫大佬，关于请求加密解密问题。](https://www.v2ex.com/t/866205#reply13) | Thu Jul 14 2022 9:39 AM
-- 🎭 [帝国 CMS 的论坛是永久关闭了吗？](https://www.v2ex.com/t/866200#reply6) | Thu Jul 14 2022 9:28 AM
-- 🥷 [有没有支持 helm 包中的变量跳转的工具或插件](https://www.v2ex.com/t/866199#reply1) | Thu Jul 14 2022 9:28 AM
-- 🐵 [现在怎么安装 gcc-i686- Linux -android](https://www.v2ex.com/t/866196#reply0) | Thu Jul 14 2022 9:05 AM<!-- v2ex:END -->
+- 🥸 [遇到一列引用多个可能表主键的情况怎么办?](https://www.v2ex.com/t/866224#reply0) | Thu Jul 14 2022 11:09 AM
+- 🤗 [Helm chart for Kubernetes](https://www.v2ex.com/t/866219#reply0) | Thu Jul 14 2022 10:46 AM
+- 🎭 [知乎回答：为什么中国出了这么多厉害的互联网公司，但没有自己设计过编程语言](https://www.v2ex.com/t/866207#reply0) | Thu Jul 14 2022 9:42 AM
+- 🥷 [在线呼叫爬虫大佬，关于请求加密解密问题。](https://www.v2ex.com/t/866205#reply14) | Thu Jul 14 2022 9:39 AM
+- 🐵 [帝国 CMS 的论坛是永久关闭了吗？](https://www.v2ex.com/t/866200#reply6) | Thu Jul 14 2022 9:28 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
