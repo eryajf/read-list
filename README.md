@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Golang使用CGO&amp;Plugin技术，运行时加载C动态库](https://juejin.cn/post/7120176632693784607) | Thu Jul 14 2022 10:43 AM 
+- 🤗 [SwiftUI DataFlow](https://juejin.cn/post/7120158284459278350) | Thu Jul 14 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍一种 Golang 程序在运行时加载 C 动态库的技术，跳过了 Golang 项目编译阶段需要链接 C 动态库的过程，提高了 Golang 项目开发部署的灵活性。 
+    问题 view 和 data 如何 two-way 绑定，View如何跟随Data的变化进行刷新 view 和 data 声明周期 不同view之间如果share data @State @Bindi 
     </details> 
 
-- 🎡 [Golang 使用 CGO&amp;Plugin 技术，运行时加载 C 动态库](https://juejin.cn/post/7120176182313943071) | Thu Jul 14 2022 10:41 AM 
+- 🎡 [【新，前端必学】从event loop规范探究javaScript异步及浏览器更新渲染时机](https://juejin.cn/post/7120150102556606495) | Thu Jul 14 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍一种 Golang 程序在运行时加载 C 动态库的技术，跳过了 Golang 项目编译阶段需要链接 C 动态库的过程，提高了 Golang 项目开发部署的灵活性。 
+    异步的思考 event loops 隐藏得比较深，很多人对它很陌生。但提起异步，相信每个人都知道。异步背后的“靠山”就是 event loops。这里的异步准确的说应该叫浏览器的 event loop 
     </details> 
 
-- 🕯 [leetcode  2281. Sum of Total Strength of Wizards（python）](https://juejin.cn/post/7120173315745906725) | Thu Jul 14 2022 10:29 AM 
+- 🕯 [Android组件化、插件化讲解](https://juejin.cn/post/7120149793489289247) | Thu Jul 14 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode 2281. Sum of Total Strength of Wizards（python）主要考察前缀和的前缀和计算 
+    Android组件化、插件化讲解 什么是组件化（通俗易懂）？ 通俗易懂来讲就是，拆成多个module开发就是组件化。 什么是插件化（通俗易懂）？ App的部分功能模块在打包时并不以传统⽅式打包进apk 
     </details> 
 
-- 🚀 [leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal （python）](https://juejin.cn/post/7120171111240695844) | Thu Jul 14 2022 10:20 AM 
+- 🚀 [TWaver使用中间点画折线方法](https://juejin.cn/post/7120149790985289764) | Thu Jul 14 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal （python）使用前序遍历和中序遍历还原二叉树 
+    了解一下 TWaver的图形组件库中提供了拓扑组件、地图组件、设备图组件，以及表格、树图、属性表、图表等丰富的通用图形界面组件，为电信运营支撑系统（OSS）的开发提供“一站式”的组件产品和解决方案，是 
     </details> 
 
-- 💪 [由浅入深了解羚珑平台统一接入服务 —— Monet](https://juejin.cn/post/7120169206141681701) | Thu Jul 14 2022 10:13 AM 
+- 💪 [react 函数组件输入卡顿问题 usecallback react.memo](https://juejin.cn/post/7120148941731004453) | Thu Jul 14 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-    羚珑作为一款智能设计平台，简单易懂、可视化操作，同时拥有大量模板与素材为用户、商家或业务团队节省了大量作图时间从而达到降本增效。本文将带领大家由浅入深了解服务端羚珑平台统一 API 接入服务 
+    现象 在输入问题时，输入框响应巨慢。 效果图 分析 右侧控制台显示，子组件不停在mount unmount，子组件中使用了CKEditor组件，每次mount开支较大，导致输入卡顿 代码如下： 解决  
     </details> 
 <!-- juejin:END -->
 ### 少数派
