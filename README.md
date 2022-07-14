@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从“线上互动”到“实时临场感”，走向实时互动技术新世代！丨XDC 2022](https://juejin.cn/post/7120157224210530317) | Thu Jul 14 2022 9:26 AM 
+- 🤗 [Golang使用CGO&amp;Plugin技术，运行时加载C动态库](https://juejin.cn/post/7120176632693784607) | Thu Jul 14 2022 10:43 AM 
     <details><summary>展开描述 ...</summary> 
-    三星堆上新全国观众“云考古”，诗词大会 1000 人同屏开麦，故宫古文物 22 倍高清放大，近些年来，音视频领域高速发展，带来一场又一场视觉盛宴，背后离不开实时互动技术的助力。 
+    本文介绍一种 Golang 程序在运行时加载 C 动态库的技术，跳过了 Golang 项目编译阶段需要链接 C 动态库的过程，提高了 Golang 项目开发部署的灵活性。 
     </details> 
 
-- 🎡 [XDC 2022：Google Cloud - 为开发者构建的云](https://juejin.cn/post/7120156041395830821) | Thu Jul 14 2022 9:22 AM 
+- 🎡 [Golang 使用 CGO&amp;Plugin 技术，运行时加载 C 动态库](https://juejin.cn/post/7120176182313943071) | Thu Jul 14 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
-    云计算技术从诞生之初发轫至今，“降本增效”是其从未变过的核心诉求之一。于企业而言，利用云服务可以更快地打造新应用和新的用户体验，利用机器学习和数据分析能力做出更明智的决策，改变组织内的沟通和协作方式。 
+    本文介绍一种 Golang 程序在运行时加载 C 动态库的技术，跳过了 Golang 项目编译阶段需要链接 C 动态库的过程，提高了 Golang 项目开发部署的灵活性。 
     </details> 
 
-- 🕯 [给技术以文明，那些藏在代码里的温情](https://juejin.cn/post/7120155218242863118) | Thu Jul 14 2022 9:19 AM 
+- 🕯 [leetcode  2281. Sum of Total Strength of Wizards（python）](https://juejin.cn/post/7120173315745906725) | Thu Jul 14 2022 10:29 AM 
     <details><summary>展开描述 ...</summary> 
-    全世界有超过 10 亿残障群体，或因先天缺陷，或遭后天事故，失去了完整体验世界的机会。即便是身心健全的成年人，仍有可能在人生中的某一时刻面临某些或暂时、或特定、或永久的身体不便。 
+    leetcode 2281. Sum of Total Strength of Wizards（python）主要考察前缀和的前缀和计算 
     </details> 
 
-- 🚀 [【2022 年】崔庆才 Python3 爬虫教程 - ADSL 拨号代理的使用](https://juejin.cn/post/7120154451209355301) | Thu Jul 14 2022 9:16 AM 
+- 🚀 [leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal （python）](https://juejin.cn/post/7120171111240695844) | Thu Jul 14 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-    😀 这是爬虫专栏第 「32」 篇原创 我们在前面尝试维护过一个代理池，代理池可以挑选出许多可用代理，但是常常其稳定性不高、响应速度慢，而且这些代理通常是公共代理，可能不止一人同时使用，其 IP 被封的 
+    leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal （python）使用前序遍历和中序遍历还原二叉树 
     </details> 
 
-- 💪 [XDC 2022 Intel 技术专场：英特尔软硬件技术构筑云计算架构基石](https://juejin.cn/post/7120152914928074782) | Thu Jul 14 2022 9:10 AM 
+- 💪 [由浅入深了解羚珑平台统一接入服务 —— Monet](https://juejin.cn/post/7120169206141681701) | Thu Jul 14 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
-    软硬件一体、云边端协同已成为 21 世纪技术发展的必由之路。当前信息技术的飞速发展离不开硬件性能的爆炸式提升。数字化转型浪潮下，云计算、大数据与人工智能的有机融合，也对软件技术提出了更高要求。 
+    羚珑作为一款智能设计平台，简单易懂、可视化操作，同时拥有大量模板与素材为用户、商家或业务团队节省了大量作图时间从而达到降本增效。本文将带领大家由浅入深了解服务端羚珑平台统一 API 接入服务 
     </details> 
 <!-- juejin:END -->
 ### 少数派
