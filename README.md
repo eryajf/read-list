@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Android wechat 到底想干啥？！在后台 CPU 占用到 156%](https://www.v2ex.com/t/866015#reply3) | Wed Jul 13 2022 8:11 PM
-- 🤗 [一个编程小白关于微信读书的程序构想](https://www.v2ex.com/t/866014#reply4) | Wed Jul 13 2022 6:51 PM
-- 🎭 [果然， GitHub 推出了更多的徽标](https://www.v2ex.com/t/866005#reply5) | Wed Jul 13 2022 3:18 PM
-- 🥷 [定制安卓 10， 系统 OTA 升级过程中如何覆盖 WiFi 之前的配置](https://www.v2ex.com/t/866004#reply0) | Wed Jul 13 2022 3:08 PM
-- 🐵 [Git 三大分支策略， 2 个人的前端团队，开发一个中型应用，适合用哪种策略](https://www.v2ex.com/t/865994#reply7) | Wed Jul 13 2022 2:01 PM<!-- v2ex:END -->
+- 🥸 [刚用 NestJS 完成一个项目，开发体验一般， JS 模块添加依赖注入，个人感觉必要性不强](https://www.v2ex.com/t/866056#reply1) | Thu Jul 14 2022 1:50 AM
+- 🤗 [请教一下此场景下的数据如何存储和计算](https://www.v2ex.com/t/866051#reply3) | Thu Jul 14 2022 1:37 AM
+- 🎭 [一般的风控系统能识别到哪些客户端风险？](https://www.v2ex.com/t/866050#reply0) | Thu Jul 14 2022 1:34 AM
+- 🥷 [请教一下 TC 的用法](https://www.v2ex.com/t/866042#reply0) | Thu Jul 14 2022 1:23 AM
+- 🐵 [你们的 Chrome 会发出异响吗（MAC）？](https://www.v2ex.com/t/866039#reply4) | Thu Jul 14 2022 1:08 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
