@@ -204,9 +204,9 @@
 <!-- v2ex:START -->
 - 🥸 [本周六&lpar;7.16 日&rpar;晚上 8:00 B 站直播，一起聊聊 Go 语言《借势:GO 语言红利期—如何弯道超车》](https://www.v2ex.com/t/866541#reply0) | Fri Jul 15 2022 3:20 PM
 - 🤗 [耗时 8 个多月，基于 SSH 协议，我开发了一个内网穿透工具，请大家来使用看看效果](https://www.v2ex.com/t/866540#reply13) | Fri Jul 15 2022 3:17 PM
-- 🎭 [偷渡 VS Code Server](https://www.v2ex.com/t/866535#reply7) | Fri Jul 15 2022 2:30 PM
+- 🎭 [偷渡 VS Code Server](https://www.v2ex.com/t/866535#reply8) | Fri Jul 15 2022 2:30 PM
 - 🥷 [xrdp 的 session 模式选择](https://www.v2ex.com/t/866532#reply4) | Fri Jul 15 2022 2:12 PM
-- 🐵 [PDM 2.0 发布了](https://www.v2ex.com/t/866529#reply1) | Fri Jul 15 2022 1:47 PM<!-- v2ex:END -->
+- 🐵 [PDM 2.0 发布了](https://www.v2ex.com/t/866529#reply3) | Fri Jul 15 2022 1:47 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
