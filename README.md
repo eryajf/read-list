@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Xcode 输入指定代码必卡死](https://www.v2ex.com/t/866432#reply1) | Fri Jul 15 2022 6:53 AM
-- 🤗 [Google 登录账号后搜索结果只有几条](https://www.v2ex.com/t/866426#reply1) | Fri Jul 15 2022 6:35 AM
-- 🎭 [为什么 RBF 内核的 gamma=&#39;scale&#39; 的 SVM 工作效果这么好,内部机理是什么？](https://www.v2ex.com/t/866423#reply0) | Fri Jul 15 2022 6:26 AM
-- 🥷 [wx 营销软件开发（代友咨询）](https://www.v2ex.com/t/866421#reply2) | Fri Jul 15 2022 6:21 AM
-- 🐵 [Java 到什么程度,人家就会要了](https://www.v2ex.com/t/866420#reply1) | Fri Jul 15 2022 6:11 AM<!-- v2ex:END -->
+- 🥸 [亚马逊服务器 连接 经常断，应该如何解决](https://www.v2ex.com/t/866460#reply2) | Fri Jul 15 2022 8:16 AM
+- 🤗 [2022 年过一大半了 , 请问有什么跨平台开发框架推荐吗](https://www.v2ex.com/t/866453#reply4) | Fri Jul 15 2022 8:01 AM
+- 🎭 [卷了个 Vue3 Emoji Reaction 组件](https://www.v2ex.com/t/866446#reply0) | Fri Jul 15 2022 7:45 AM
+- 🥷 [sublime 怎么取消 ctrl+D 后的多光标？](https://www.v2ex.com/t/866441#reply1) | Fri Jul 15 2022 7:23 AM
+- 🐵 [如何使用远程服务器上的 lnav 程序？](https://www.v2ex.com/t/866440#reply0) | Fri Jul 15 2022 7:22 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
