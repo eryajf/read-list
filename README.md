@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [远程桌面连接指南](https://juejin.cn/post/7120576017689182245) | Fri Jul 15 2022 12:32 PM 
+- 🤗 [偶遇算法-IPv4 地址转换成整数](https://juejin.cn/post/7120602427920744456) | Fri Jul 15 2022 2:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    题目 存在一种虚拟 IPv4 地址,由 4 小节组成,每节的范围为 0~255,以#号间隔,虚拟 IPv4 地址可以转换为一个 32 位的整数,例如:128#0#255#255,转换为 32 位整数的 
+    </details> 
+
+- 🎡 [远程桌面连接指南](https://juejin.cn/post/7120576017689182245) | Fri Jul 15 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
     概念 从远程连接您的家用/办公计算机或与他人共享您的屏幕，对远程机器进行的操控类似本地机一样。 可以完成多项功能包括： 鼠标键盘事件响应 文件传输共享 编辑远程电脑文件粘贴拷贝 邀请同事远程协助 从远 
     </details> 
 
-- 🎡 [盘点一下，99%的Java程序员会踩的坑](https://juejin.cn/post/7120570066856312839) | Fri Jul 15 2022 12:09 PM 
+- 🕯 [盘点一下，99%的Java程序员会踩的坑](https://juejin.cn/post/7120570066856312839) | Fri Jul 15 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
     前言 作为Java程序员的你，不知道有没有踩过一些基础知识的坑。 有时候，某个bug查了半天，最后发现竟然是一个低级错误。 有时候，某些代码，这一批数据功能正常，但换了一批数据就出现异常了。 有时候， 
     </details> 
 
-- 🕯 [Alpine 作为基础镜像利弊](https://juejin.cn/post/7120557446682116132) | Fri Jul 15 2022 11:20 AM 
+- 🚀 [Alpine 作为基础镜像利弊](https://juejin.cn/post/7120557446682116132) | Fri Jul 15 2022 11:20 AM 
     <details><summary>展开描述 ...</summary> 
     Alpine 操作系统是一个面向安全的轻型 Linux 发行版。它不同于通常 Linux 发行版，Alpine 采用了 musl libc 和 busybox 以减小系统的体积和运行时资源消耗 
     </details> 
 
-- 🚀 [技术周报· Bun：比 Node.js 快三倍的新 JavaScript 运行时](https://juejin.cn/post/7120551622916177957) | Fri Jul 15 2022 10:58 AM 
+- 💪 [技术周报· Bun：比 Node.js 快三倍的新 JavaScript 运行时](https://juejin.cn/post/7120551622916177957) | Fri Jul 15 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
     编辑推荐：Bun —— 比 Node.js 快三倍的新 JavaScript 运行时；可能改变前端工程化未来的特性：ESM Loader Hooks；小程序不让用 JS 解释器？那我再肛一次鹅厂 
-    </details> 
-
-- 💪 [谈谈对 GMP 的简单认识](https://juejin.cn/post/7120548212468875301) | Fri Jul 15 2022 10:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    犹记得最开始学习 golang 的时候，大佬们分享 GMP 模型的时候，总感觉云里雾里，听了半天，并没有一个很清晰的概念，不知 xmd 是否会有这样的体会 虽然 golang 入门很简单，但是对于理解 
     </details> 
 <!-- juejin:END -->
 ### 少数派
