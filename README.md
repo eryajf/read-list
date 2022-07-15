@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [宝能姚振华进入保险公司后干预经营被约谈 前海人寿被银保监会责令整改](http://www.techweb.com.cn/it/2022-07-15/2898237.shtml) | Fri Jul 15 2022 4:39 AM
-- 👹 [郭明錤：苹果iPhone 15 Pro Max将独家配备潜望式长焦镜头](http://www.techweb.com.cn/world/2022-07-15/2898235.shtml) | Fri Jul 15 2022 4:27 AM
-- 🪜 [SK海力士考虑将2023年资本支出削减25% 降至122亿美元](http://www.techweb.com.cn/world/2022-07-15/2898234.shtml) | Fri Jul 15 2022 4:26 AM
-- 🤭 [AI从炫技术到创造商业价值有几步？ 印奇详解旷视“2+1”AIoT核心技术科研体系](http://www.techweb.com.cn/it/2022-07-15/2898233.shtml) | Fri Jul 15 2022 4:22 AM
-- 🙉 [“老冤家”SEC上个月曾致信马斯克对推特收购交易推文提出质询](http://www.techweb.com.cn/world/2022-07-15/2898229.shtml) | Fri Jul 15 2022 3:50 AM<!-- techweb-allnews:END -->
+- 👍 [绿叶制药控股子公司博安生物度拉糖肽注射液BA5101在华进入Ⅲ期临床](http://www.techweb.com.cn/it/2022-07-15/2898245.shtml) | Fri Jul 15 2022 6:46 AM
+- 👹 [抖音推出“团购配送”，探索外卖新模式](http://www.techweb.com.cn/viewpoint/2022-07-15/2898241.shtml) | Fri Jul 15 2022 6:24 AM
+- 🪜 [宝能姚振华进入保险公司后干预经营被约谈 前海人寿被银保监会责令整改](http://www.techweb.com.cn/it/2022-07-15/2898237.shtml) | Fri Jul 15 2022 4:39 AM
+- 🤭 [郭明錤：苹果iPhone 15 Pro Max将独家配备潜望式长焦镜头](http://www.techweb.com.cn/world/2022-07-15/2898235.shtml) | Fri Jul 15 2022 4:27 AM
+- 🙉 [SK海力士考虑将2023年资本支出削减25% 降至122亿美元](http://www.techweb.com.cn/world/2022-07-15/2898234.shtml) | Fri Jul 15 2022 4:26 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
