@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [App+1 | 能与腾讯会议联动的腾讯日历 2.0，真的足够好用了吗？](https://sspai.com/post/74256) | Fri Jul 15 2022 6:31 AM 
+- 👹 [第一次独居？我们为你准备了一份「租房攻略合订本」](https://sspai.com/post/74285) | Fri Jul 15 2022 7:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    身外之物的丰盈或缺失并不足以削弱一个人的热爱，只要认真生活，租来的房子也会有家的归属感。&lt;a href=&quot;https://sspai.com/post/74285&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [App+1 | 能与腾讯会议联动的腾讯日历 2.0，真的足够好用了吗？](https://sspai.com/post/74256) | Fri Jul 15 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
     考虑到不少人（比如我）没有体验过腾讯日历 1.x，这篇文章中我们将腾讯日历 2.0 作为一个全新的产品，介绍它的主要亮点，与 Calendly 作简单对比，最后分享一点我的个人看法。&lt;a href=&quot;https://sspai.com/post/74256&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [watchOS 9 推出首个公测版，这些新功能值得尝鲜](https://sspai.com/post/74223) | Fri Jul 15 2022 3:32 AM 
+- 🤭 [watchOS 9 推出首个公测版，这些新功能值得尝鲜](https://sspai.com/post/74223) | Fri Jul 15 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
     最近，Apple终于放出了watchOS9的首个公测版本（PublicBeta）。watchOS9带来了3款全新表盘，在健康方面还新增了用药提醒和更多体能训练数据。作为Apple生态的一环，watch ...&lt;a href=&quot;https://sspai.com/post/74223&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [一派·PowerUp 05 | 用 MoneyWiz 完成个人记账](https://sspai.com/post/74279) | Fri Jul 15 2022 3:00 AM 
+- 🥸 [一派·PowerUp 05 | 用 MoneyWiz 完成个人记账](https://sspai.com/post/74279) | Fri Jul 15 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     如果你是生活在都市的年轻人，夏日里来一杯奶茶（加奶盖的那种），再请朋友们吃支雪糕，晚上吃顿海底捞，晚上再补一块「罪恶的」网红中式点心。这样的一天，怎么也算不上「奢华」吧？直到你月底查看了自己的银行余额 ...&lt;a href=&quot;https://sspai.com/post/74279&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：蒸汽平台召开游戏发布会、Android 13 将支持蓝牙 LE Audio 技术等](https://sspai.com/post/74280) | Fri Jul 15 2022 12:56 AM 
+- 🙉 [派早报：蒸汽平台召开游戏发布会、Android 13 将支持蓝牙 LE Audio 技术等](https://sspai.com/post/74280) | Fri Jul 15 2022 12:56 AM 
     <details><summary>展开描述 ...</summary> 
     尼康尼克尔 Z 卡口 400mm ƒ/4.5 VR S 镜头开售，任天堂收购 CG 动画工作室等&lt;a href=&quot;https://sspai.com/post/74280&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [性能小提升，外观大变样——M2 版 MacBook Air 上手体验](https://sspai.com/post/74235) | Thu Jul 14 2022 1:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    告别卡顿，告别发热，告别风扇狂转——美好的数字生活在向你招手。&lt;a href=&quot;https://sspai.com/post/74235&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
