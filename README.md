@@ -97,9 +97,9 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第63期） : 一个年收入30万美金的Vue.js开源组件库](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM 
+- 💂 [独立开发变现周刊（第63期） : 一个爬虫类产品，4个月做到月收入3000美元](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个年收入30万美金的Vue.js开源组件库 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个爬虫类产品，4个月做到月收入3000美元 
     </details> 
 
 - 💡 [独立开发变现周刊（第62期） : 我是如何开发一个年收入30万美金的Vue.js开源组件库的？](https://www.ezindie.com/weekly/issue-62) | Fri Jul 08 2022 12:00 AM 
