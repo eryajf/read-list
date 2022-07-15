@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [xrdp 的 session 模式选择](https://www.v2ex.com/t/866532#reply0) | Fri Jul 15 2022 2:12 PM
-- 🤗 [PDM 2.0 发布了](https://www.v2ex.com/t/866529#reply0) | Fri Jul 15 2022 1:47 PM
-- 🎭 [IOS 开发：请教大家，手机版本 IOS15.3.1 批量发送短信时 sms://多手机号，其中多个手机号间用什么符号隔开](https://www.v2ex.com/t/866528#reply0) | Fri Jul 15 2022 1:37 PM
-- 🥷 [数据库设计表的时候把不管啥字段类型都设置为 varchar，有啥好处嘛](https://www.v2ex.com/t/866526#reply6) | Fri Jul 15 2022 1:22 PM
-- 🐵 [你们是怎么受得了 996 的？我 955 就已经觉得很累了](https://www.v2ex.com/t/866525#reply17) | Fri Jul 15 2022 12:57 PM<!-- v2ex:END -->
+- 🥸 [本周六&lpar;7.16 日&rpar;晚上 8:00 B 站直播，一起聊聊 Go 语言《借势:GO 语言红利期—如何弯道超车》](https://www.v2ex.com/t/866541#reply0) | Fri Jul 15 2022 3:20 PM
+- 🤗 [耗时 8 个多月，基于 SSH 协议，我开发了一个内网穿透工具，请大家来使用看看效果](https://www.v2ex.com/t/866540#reply0) | Fri Jul 15 2022 3:17 PM
+- 🎭 [偷渡 VS Code Server](https://www.v2ex.com/t/866535#reply2) | Fri Jul 15 2022 2:30 PM
+- 🥷 [xrdp 的 session 模式选择](https://www.v2ex.com/t/866532#reply1) | Fri Jul 15 2022 2:12 PM
+- 🐵 [PDM 2.0 发布了](https://www.v2ex.com/t/866529#reply0) | Fri Jul 15 2022 1:47 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
