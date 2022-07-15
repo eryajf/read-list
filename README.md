@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [特斯拉要求美法院驳回近期裁员相关诉讼：只裁汰表现不佳员工](http://www.techweb.com.cn/world/2022-07-15/2898265.shtml) | Fri Jul 15 2022 7:32 AM
-- 👹 [台积电CEO称3nm工艺量产正按计划推进 第二代1年后量产](http://www.techweb.com.cn/world/2022-07-15/2898257.shtml) | Fri Jul 15 2022 7:20 AM
-- 🪜 [热浪来袭造成电力紧张 丰田缩减德克萨斯工厂产量](http://www.techweb.com.cn/world/2022-07-15/2898252.shtml) | Fri Jul 15 2022 7:09 AM
-- 🤭 [iQOO 10系列新品发布会](http://www.techweb.com.cn/special/2022-07-15/2898250.shtml) | Fri Jul 15 2022 7:05 AM
-- 🙉 [绿叶制药控股子公司博安生物度拉糖肽注射液BA5101在华进入Ⅲ期临床](http://www.techweb.com.cn/it/2022-07-15/2898245.shtml) | Fri Jul 15 2022 6:46 AM<!-- techweb-allnews:END -->
+- 👍 [销量不尽人意 亚马逊开始大幅减少自有品牌商品数量](http://www.techweb.com.cn/world/2022-07-15/2898286.shtml) | Fri Jul 15 2022 8:33 AM
+- 👹 [iPhone 14会大卖？外媒称苹果已告知供应商初期销量将高于iPhone 13](http://www.techweb.com.cn/world/2022-07-15/2898282.shtml) | Fri Jul 15 2022 8:32 AM
+- 🪜 [故宫博物院与钉钉达成战略合作 共创文博数字化管理新范式](http://www.techweb.com.cn/it/2022-07-15/2898281.shtml) | Fri Jul 15 2022 8:19 AM
+- 🤭 [业内首份《可信隐私计算研究报告》发布 蚂蚁集团参与编写](http://www.techweb.com.cn/it/2022-07-15/2898280.shtml) | Fri Jul 15 2022 8:17 AM
+- 🙉 [美国监管机构批准爱立信收购云通信供应商Vonage](http://www.techweb.com.cn/world/2022-07-15/2898275.shtml) | Fri Jul 15 2022 8:02 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
