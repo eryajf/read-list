@@ -226,14 +226,14 @@
     前言 作为Java程序员的你，不知道有没有踩过一些基础知识的坑。 有时候，某个bug查了半天，最后发现竟然是一个低级错误。 有时候，某些代码，这一批数据功能正常，但换了一批数据就出现异常了。 有时候， 
     </details> 
 
-- 🚀 [Alpine 作为基础镜像利弊](https://juejin.cn/post/7120557446682116132) | Fri Jul 15 2022 11:20 AM 
+- 🚀 [从 0 到 1 开展软件测试](https://juejin.cn/post/7120564644476878885) | Fri Jul 15 2022 11:49 AM 
     <details><summary>展开描述 ...</summary> 
-    Alpine 操作系统是一个面向安全的轻型 Linux 发行版。它不同于通常 Linux 发行版，Alpine 采用了 musl libc 和 busybox 以减小系统的体积和运行时资源消耗 
+    自动化测试的优势我认为主要有两点，第一点就是它可以代替一些重复但必要的测试工作，解决重复劳动问题。第二点也很重要，因为重复性工作容易引入人为的差错，此时就应该通过工具来辅助。 
     </details> 
 
-- 💪 [技术周报· Bun：比 Node.js 快三倍的新 JavaScript 运行时](https://juejin.cn/post/7120551622916177957) | Fri Jul 15 2022 10:58 AM 
+- 💪 [Alpine 作为基础镜像利弊](https://juejin.cn/post/7120557446682116132) | Fri Jul 15 2022 11:20 AM 
     <details><summary>展开描述 ...</summary> 
-    编辑推荐：Bun —— 比 Node.js 快三倍的新 JavaScript 运行时；可能改变前端工程化未来的特性：ESM Loader Hooks；小程序不让用 JS 解释器？那我再肛一次鹅厂 
+    Alpine 操作系统是一个面向安全的轻型 Linux 发行版。它不同于通常 Linux 发行版，Alpine 采用了 musl libc 和 busybox 以减小系统的体积和运行时资源消耗 
     </details> 
 <!-- juejin:END -->
 ### 少数派
