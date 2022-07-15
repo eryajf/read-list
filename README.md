@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [代谢组学企业「百趣生物」完成近亿元A轮融资 启明创投领投](http://www.techweb.com.cn/it/2022-07-15/2898222.shtml) | Fri Jul 15 2022 2:57 AM
-- 👹 [三星证券建议三星电子分拆晶圆代工业务 并在美国上市](http://www.techweb.com.cn/world/2022-07-15/2898215.shtml) | Fri Jul 15 2022 2:35 AM
-- 🪜 [外媒：特斯拉获准销售柏林超级工厂试产的Model Y](http://www.techweb.com.cn/world/2022-07-15/2898214.shtml) | Fri Jul 15 2022 2:29 AM
-- 🤭 [特斯拉的辙，比亚迪的车，巴菲特的锅？](http://www.techweb.com.cn/viewpoint/2022-07-15/2898211.shtml) | Fri Jul 15 2022 2:06 AM
-- 🙉 [推特、Instagram先后发生宕机](http://www.techweb.com.cn/world/2022-07-15/2898210.shtml) | Fri Jul 15 2022 2:00 AM<!-- techweb-allnews:END -->
+- 👍 [宝能姚振华进入保险公司后干预经营被约谈 前海人寿被银保监会责令整改](http://www.techweb.com.cn/it/2022-07-15/2898237.shtml) | Fri Jul 15 2022 4:39 AM
+- 👹 [郭明錤：苹果iPhone 15 Pro Max将独家配备潜望式长焦镜头](http://www.techweb.com.cn/world/2022-07-15/2898235.shtml) | Fri Jul 15 2022 4:27 AM
+- 🪜 [SK海力士考虑将2023年资本支出削减25% 降至122亿美元](http://www.techweb.com.cn/world/2022-07-15/2898234.shtml) | Fri Jul 15 2022 4:26 AM
+- 🤭 [AI从炫技术到创造商业价值有几步？ 印奇详解旷视“2+1”AIoT核心技术科研体系](http://www.techweb.com.cn/it/2022-07-15/2898233.shtml) | Fri Jul 15 2022 4:22 AM
+- 🙉 [“老冤家”SEC上个月曾致信马斯克对推特收购交易推文提出质询](http://www.techweb.com.cn/world/2022-07-15/2898229.shtml) | Fri Jul 15 2022 3:50 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
