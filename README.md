@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [销量不尽人意 亚马逊开始大幅减少自有品牌商品数量](http://www.techweb.com.cn/world/2022-07-15/2898286.shtml) | Fri Jul 15 2022 8:33 AM
-- 👹 [iPhone 14会大卖？外媒称苹果已告知供应商初期销量将高于iPhone 13](http://www.techweb.com.cn/world/2022-07-15/2898282.shtml) | Fri Jul 15 2022 8:32 AM
-- 🪜 [故宫博物院与钉钉达成战略合作 共创文博数字化管理新范式](http://www.techweb.com.cn/it/2022-07-15/2898281.shtml) | Fri Jul 15 2022 8:19 AM
-- 🤭 [业内首份《可信隐私计算研究报告》发布 蚂蚁集团参与编写](http://www.techweb.com.cn/it/2022-07-15/2898280.shtml) | Fri Jul 15 2022 8:17 AM
-- 🙉 [美国监管机构批准爱立信收购云通信供应商Vonage](http://www.techweb.com.cn/world/2022-07-15/2898275.shtml) | Fri Jul 15 2022 8:02 AM<!-- techweb-allnews:END -->
+- 👍 [特斯拉得克萨斯工厂Model Y周产量已接近1000辆 每天运出超150辆](http://www.techweb.com.cn/world/2022-07-15/2898299.shtml) | Fri Jul 15 2022 9:50 AM
+- 👹 [华为不造车，也许比造车更难](http://www.techweb.com.cn/viewpoint/2022-07-15/2898298.shtml) | Fri Jul 15 2022 9:37 AM
+- 🪜 [懂车帝与中国汽车流通协会达成深度合作 助力经销商数字化转型](http://www.techweb.com.cn/it/2022-07-15/2898297.shtml) | Fri Jul 15 2022 9:35 AM
+- 🤭 [起底短视频流量新密码：鹿哈、王二博、易烊干洗、古力哪吒](http://www.techweb.com.cn/viewpoint/2022-07-15/2898296.shtml) | Fri Jul 15 2022 9:31 AM
+- 🙉 [通用汽车将与Pilot合作在美国建设EVgo快速充电网络](http://www.techweb.com.cn/world/2022-07-15/2898294.shtml) | Fri Jul 15 2022 9:11 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
