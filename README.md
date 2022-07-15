@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [真实生物新冠口服药物递交上市申请](http://www.techweb.com.cn/it/2022-07-15/2898303.shtml) | Fri Jul 15 2022 9:55 AM
-- 👹 [微信发起微信绿苗计划·暑期公开课 提供40余场知识直播](http://www.techweb.com.cn/it/2022-07-15/2898300.shtml) | Fri Jul 15 2022 9:51 AM
-- 🪜 [特斯拉得克萨斯工厂Model Y周产量已接近1000辆 每天运出超150辆](http://www.techweb.com.cn/world/2022-07-15/2898299.shtml) | Fri Jul 15 2022 9:50 AM
-- 🤭 [华为不造车，也许比造车更难](http://www.techweb.com.cn/viewpoint/2022-07-15/2898298.shtml) | Fri Jul 15 2022 9:37 AM
-- 🙉 [懂车帝与中国汽车流通协会达成深度合作 助力经销商数字化转型](http://www.techweb.com.cn/it/2022-07-15/2898297.shtml) | Fri Jul 15 2022 9:35 AM<!-- techweb-allnews:END -->
+- 👍 [小康股份71亿元定增完成 广发基金、中信证券等参投](http://www.techweb.com.cn/it/2022-07-15/2898311.shtml) | Fri Jul 15 2022 1:39 PM
+- 👹 [真实生物新冠口服药物递交上市申请](http://www.techweb.com.cn/it/2022-07-15/2898303.shtml) | Fri Jul 15 2022 9:55 AM
+- 🪜 [微信发起微信绿苗计划·暑期公开课 提供40余场知识直播](http://www.techweb.com.cn/it/2022-07-15/2898300.shtml) | Fri Jul 15 2022 9:51 AM
+- 🤭 [特斯拉得克萨斯工厂Model Y周产量已接近1000辆 每天运出超150辆](http://www.techweb.com.cn/world/2022-07-15/2898299.shtml) | Fri Jul 15 2022 9:50 AM
+- 🙉 [华为不造车，也许比造车更难](http://www.techweb.com.cn/viewpoint/2022-07-15/2898298.shtml) | Fri Jul 15 2022 9:37 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
