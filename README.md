@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [IOS 开发：请教大家，手机版本 IOS15.3.1 批量发送短信时 sms://多手机号，其中多个手机号间用什么符号隔开](https://www.v2ex.com/t/866528#reply0) | Fri Jul 15 2022 1:37 PM
-- 🤗 [数据库设计表的时候把不管啥字段类型都设置为 varchar，有啥好处嘛](https://www.v2ex.com/t/866526#reply1) | Fri Jul 15 2022 1:22 PM
-- 🎭 [你们是怎么受得了 996 的？我 955 就已经觉得很累了](https://www.v2ex.com/t/866525#reply10) | Fri Jul 15 2022 12:57 PM
-- 🥷 [github 生成 Personal access tokens，不显示 token 怎么破？](https://www.v2ex.com/t/866521#reply1) | Fri Jul 15 2022 12:42 PM
-- 🐵 [你们感觉最近电脑（windows10）变卡了吗？](https://www.v2ex.com/t/866502#reply6) | Fri Jul 15 2022 11:33 AM<!-- v2ex:END -->
+- 🥸 [xrdp 的 session 模式选择](https://www.v2ex.com/t/866532#reply0) | Fri Jul 15 2022 2:12 PM
+- 🤗 [PDM 2.0 发布了](https://www.v2ex.com/t/866529#reply0) | Fri Jul 15 2022 1:47 PM
+- 🎭 [IOS 开发：请教大家，手机版本 IOS15.3.1 批量发送短信时 sms://多手机号，其中多个手机号间用什么符号隔开](https://www.v2ex.com/t/866528#reply0) | Fri Jul 15 2022 1:37 PM
+- 🥷 [数据库设计表的时候把不管啥字段类型都设置为 varchar，有啥好处嘛](https://www.v2ex.com/t/866526#reply6) | Fri Jul 15 2022 1:22 PM
+- 🐵 [你们是怎么受得了 996 的？我 955 就已经觉得很累了](https://www.v2ex.com/t/866525#reply17) | Fri Jul 15 2022 12:57 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
