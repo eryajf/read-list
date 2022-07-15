@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [react-window虚拟渲染&lpar;不固定高度&rpar;](https://juejin.cn/post/7120463085856358414) | Fri Jul 15 2022 5:13 AM 
+- 🤗 [Lifecycle：生命周期感知型组件的基础 —— Jetpack 系列（1）](https://juejin.cn/post/7120472134853328909) | Fri Jul 15 2022 5:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    生命周期是 Activity 的核心特性之一，也是 Android 视图开发无法规避的重要问题。 为了更加健壮地处理生命周期问题，Google 的解决方案是将生命周期定义为一套标准的行为模式。 
+    </details> 
+
+- 🎡 [Python 列表解析式竟然支持异步？](https://juejin.cn/post/7120471088567418916) | Fri Jul 15 2022 5:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    摘要 PEP-492 和 PEP-525 通过 async/await 语法，引入了对原生协程和异步生成器的支持。本 pep 提议给列表、集合、字典解析式和生成器表达式添加异步的版本。 基本原理和目标 
+    </details> 
+
+- 🕯 [Python 数值中的下划线是怎么回事？](https://juejin.cn/post/7120470026527703070) | Fri Jul 15 2022 5:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    Python 中下划线的用法令人叹为观止，相信你已在各种文章或教程中见识过了。在 2016 年的 3.6 版本之后，Python 还引入了一种新的语法，使得下划线也可以出现在数值中。 概要和原理 本  
+    </details> 
+
+- 🚀 [react-window虚拟渲染&lpar;不固定高度&rpar;](https://juejin.cn/post/7120463085856358414) | Fri Jul 15 2022 5:13 AM 
     <details><summary>展开描述 ...</summary> 
     前言 最近有个需求，需要渲染大量的列表，列表项的高度还不确定，之前用过react-virtualized,可以解决不固定高度的问题，但这个库有点大，比较重。react-window官方没有提供该案例。 
     </details> 
 
-- 🎡 [原来实现 Router Hook 组件只需要一百多行代码、服务器宕机了，Kafka 消息会丢失吗、案例+图解带你一文读懂Canvas 丨酱酱的下午茶第 29 期](https://juejin.cn/post/7120456692239695880) | Fri Jul 15 2022 4:52 AM 
+- 💪 [原来实现 Router Hook 组件只需要一百多行代码、服务器宕机了，Kafka 消息会丢失吗、案例+图解带你一文读懂Canvas 丨酱酱的下午茶第 29 期](https://juejin.cn/post/7120456692239695880) | Fri Jul 15 2022 4:52 AM 
     <details><summary>展开描述 ...</summary> 
     本期看点：案例+图解带你一文读懂Canvas、原来实现 Router Hook 组件只需要一百多行代码、服务器宕机了，Kafka 消息会丢失吗？、货拉拉 Android H5离线包原理与实践 
-    </details> 
-
-- 🕯 [掘金创意开发大赛来了！记录你的灵感迸发时刻！](https://juejin.cn/post/7120441631530549284) | Fri Jul 15 2022 3:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    Hello，掘友们好，「游戏」创意开发大赛来了！你是否曾有过一瞬，灵感创意迸发，但却没有及时记录下的时候？掘金将助你焕发灵感，感受创意乐趣！ 
-    </details> 
-
-- 🚀 [Java 数据类型转换、方法调用相关笔记](https://juejin.cn/post/7120440510379982855) | Fri Jul 15 2022 3:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    Json 字符串转 Map＜String, Object＞ Map转对象 依赖 alibaba 的 fast-json Map转对象 Map 初始化的四种方式 新建Map对象（最常见） Java8 新 
-    </details> 
-
-- 💪 [Serverless 在阿里云函数计算中的实践](https://juejin.cn/post/7120436030506795038) | Fri Jul 15 2022 3:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介： 近日，阿里云 aPaaS&amp;Serverless 前端技术专家袁坤在 CSDN 云原生 meetup 长沙站分享了 Serverless 在阿里云函数计算 FC 的实践。 作者：CSDN云原生  
     </details> 
 <!-- juejin:END -->
 ### 少数派
