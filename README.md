@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [小康股份：预计上半年营收120亿至126亿元 新能源汽车毛利润同比有所增长](http://www.techweb.com.cn/it/2022-07-14/2898155.shtml) | Thu Jul 14 2022 12:01 PM
-- 👹 [任天堂宣布收购CG制作公司Dynamo Pictures 更名为“任天堂影业”](http://www.techweb.com.cn/world/2022-07-14/2898150.shtml) | Thu Jul 14 2022 9:44 AM
-- 🪜 [松下能源CTO：正研发新技术 可在2030年前将电池能量密度提高20%](http://www.techweb.com.cn/world/2022-07-14/2898145.shtml) | Thu Jul 14 2022 9:35 AM
-- 🤭 [台积电预计三季度营收198亿-206亿美元 将再创新高](http://www.techweb.com.cn/world/2022-07-14/2898144.shtml) | Thu Jul 14 2022 9:35 AM
-- 🙉 [基本实现盈亏平衡 永辉二季度同店比提升7.2%](http://www.techweb.com.cn/it/2022-07-14/2898139.shtml) | Thu Jul 14 2022 9:26 AM<!-- techweb-allnews:END -->
+- 👍 [郭明錤：中国黄牛都看好苹果iPhone 14系列](http://www.techweb.com.cn/it/2022-07-15/2898187.shtml) | Fri Jul 15 2022 1:30 AM
+- 👹 [小康股份：预计上半年营收120亿至126亿元 新能源汽车毛利润同比有所增长](http://www.techweb.com.cn/it/2022-07-14/2898155.shtml) | Thu Jul 14 2022 12:01 PM
+- 🪜 [任天堂宣布收购CG制作公司Dynamo Pictures 更名为“任天堂影业”](http://www.techweb.com.cn/world/2022-07-14/2898150.shtml) | Thu Jul 14 2022 9:44 AM
+- 🤭 [松下能源CTO：正研发新技术 可在2030年前将电池能量密度提高20%](http://www.techweb.com.cn/world/2022-07-14/2898145.shtml) | Thu Jul 14 2022 9:35 AM
+- 🙉 [台积电预计三季度营收198亿-206亿美元 将再创新高](http://www.techweb.com.cn/world/2022-07-14/2898144.shtml) | Thu Jul 14 2022 9:35 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
