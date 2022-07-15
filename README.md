@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [一派·PowerUp 05 | 用 MoneyWiz 完成个人记账](https://sspai.com/post/74279) | Fri Jul 15 2022 3:00 AM 
+- 👹 [watchOS 9 推出首个公测版，这些新功能值得尝鲜](https://sspai.com/post/74223) | Fri Jul 15 2022 3:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近，Apple终于放出了watchOS9的首个公测版本（PublicBeta）。watchOS9带来了3款全新表盘，在健康方面还新增了用药提醒和更多体能训练数据。作为Apple生态的一环，watch ...&lt;a href=&quot;https://sspai.com/post/74223&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [一派·PowerUp 05 | 用 MoneyWiz 完成个人记账](https://sspai.com/post/74279) | Fri Jul 15 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     如果你是生活在都市的年轻人，夏日里来一杯奶茶（加奶盖的那种），再请朋友们吃支雪糕，晚上吃顿海底捞，晚上再补一块「罪恶的」网红中式点心。这样的一天，怎么也算不上「奢华」吧？直到你月底查看了自己的银行余额 ...&lt;a href=&quot;https://sspai.com/post/74279&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：蒸汽平台召开游戏发布会、Android 13 将支持蓝牙 LE Audio 技术等](https://sspai.com/post/74280) | Fri Jul 15 2022 12:56 AM 
+- 🤭 [派早报：蒸汽平台召开游戏发布会、Android 13 将支持蓝牙 LE Audio 技术等](https://sspai.com/post/74280) | Fri Jul 15 2022 12:56 AM 
     <details><summary>展开描述 ...</summary> 
     尼康尼克尔 Z 卡口 400mm ƒ/4.5 VR S 镜头开售，任天堂收购 CG 动画工作室等&lt;a href=&quot;https://sspai.com/post/74280&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [性能小提升，外观大变样——M2 版 MacBook Air 上手体验](https://sspai.com/post/74235) | Thu Jul 14 2022 1:00 PM 
+- 🥸 [性能小提升，外观大变样——M2 版 MacBook Air 上手体验](https://sspai.com/post/74235) | Thu Jul 14 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
     告别卡顿，告别发热，告别风扇狂转——美好的数字生活在向你招手。&lt;a href=&quot;https://sspai.com/post/74235&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [新玩意 112｜少数派的作者们最近买了啥？](https://sspai.com/post/74271) | Thu Jul 14 2022 9:21 AM 
+- 🙉 [新玩意 112｜少数派的作者们最近买了啥？](https://sspai.com/post/74271) | Thu Jul 14 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
     好看就完事儿了。&lt;a href=&quot;https://sspai.com/post/74271&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [macOS Ventura 推出公开测试版，这些新特性值得一试](https://sspai.com/post/74222) | Thu Jul 14 2022 7:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    7月12日凌晨，Apple正式发布了全新操作系统macOSVentura的首个PublicBeta公开测试版。该版本允许非开发者用户参与体验新系统的诸多特性，还可以直接向Apple提交bug反馈。本文 ...&lt;a href=&quot;https://sspai.com/post/74222&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
