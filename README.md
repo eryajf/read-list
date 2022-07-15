@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [冴羽答读者问：如何学习更有计划性、提升更稳更快？](https://juejin.cn/post/7120535521448853540) | Fri Jul 15 2022 9:54 AM 
+- 🤗 [盘点一下，99%的Java程序员会踩的坑](https://juejin.cn/post/7120570066856312839) | Fri Jul 15 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
-    算是一个前端的时间也有五年了，今年也刚好满 30 岁了，感觉自己一直忙着完成业务，为了保持竞争力、不落伍等原因而学习新的框架、工具；回想起来年少轻狂浪费了不少时间，有了老婆孩子之后学习的时间也越来越少 
+    前言 作为Java程序员的你，不知道有没有踩过一些基础知识的坑。 有时候，某个bug查了半天，最后发现竟然是一个低级错误。 有时候，某些代码，这一批数据功能正常，但换了一批数据就出现异常了。 有时候， 
     </details> 
 
-- 🎡 [从Hadder看蛋白质分子中的加氢算法](https://juejin.cn/post/7120532852760182815) | Fri Jul 15 2022 9:44 AM 
+- 🎡 [Alpine 作为基础镜像利弊](https://juejin.cn/post/7120557446682116132) | Fri Jul 15 2022 11:20 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍了开源加氢软件Hadder中用到的一些常规的补氢算法。在存储和优化蛋白质结构的过程中，人们更多的关注于蛋白质本身的骨架的变化，而单个原子的细微变化，对整体产生的性质是微乎其微的。但是我们在 
+    Alpine 操作系统是一个面向安全的轻型 Linux 发行版。它不同于通常 Linux 发行版，Alpine 采用了 musl libc 和 busybox 以减小系统的体积和运行时资源消耗 
     </details> 
 
-- 🕯 [TracedModule: 更友好的模型表示方案，模型训练到部署的桥梁](https://juejin.cn/post/7120531815751745566) | Fri Jul 15 2022 9:40 AM 
+- 🕯 [技术周报· Bun：比 Node.js 快三倍的新 JavaScript 运行时](https://juejin.cn/post/7120551622916177957) | Fri Jul 15 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
-    TracedModule 介绍 TracedModule 是 MegEngine 中的一种模型格式，用于脱离模型源码对模型进行训练、量化、图手术和模型转换，它是模型训练到部署之间的桥梁。 
+    编辑推荐：Bun —— 比 Node.js 快三倍的新 JavaScript 运行时；可能改变前端工程化未来的特性：ESM Loader Hooks；小程序不让用 JS 解释器？那我再肛一次鹅厂 
     </details> 
 
-- 🚀 [Zabbix+Mysql Fpmmm（MPM）监控](https://juejin.cn/post/7120527522416033806) | Fri Jul 15 2022 9:23 AM 
+- 🚀 [谈谈对 GMP 的简单认识](https://juejin.cn/post/7120548212468875301) | Fri Jul 15 2022 10:45 AM 
     <details><summary>展开描述 ...</summary> 
-    mysql Fpmmm是MPM的升级版，相对而言，fpmmm要比mpm使用起来更方便，但是需要开启相应的优化参数 
+    犹记得最开始学习 golang 的时候，大佬们分享 GMP 模型的时候，总感觉云里雾里，听了半天，并没有一个很清晰的概念，不知 xmd 是否会有这样的体会 虽然 golang 入门很简单，但是对于理解 
     </details> 
 
-- 💪 [【人工智能】机器学习之用Python实现最小二乘法进行房价预测以及进行贷款额度预测](https://juejin.cn/post/7120527514832732197) | Fri Jul 15 2022 9:23 AM 
+- 💪 [如何高效开发基于gin的http服务](https://juejin.cn/post/7120539830676619294) | Fri Jul 15 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 使用最小二乘法进行房价预测： 给定训练样本集合如下： 首先明白什么是最小二乘法，利用最小二乘法公式 散点图和折线图 输入房屋面积即可得出租赁价格 
+    快速生成基于gin的http代码规范，方便我们更快的进入业务开发。减少频繁的编写struct导致的效率低下的问题 
     </details> 
 <!-- juejin:END -->
 ### 少数派
