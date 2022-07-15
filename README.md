@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [[keras] 模型保存、加载、model类方法、打印各层权重](https://juejin.cn/post/7120498375924908068) | Fri Jul 15 2022 7:31 AM 
+- 🤗 [98年国企产品经理，爆肝画图猥琐发育中 | 年中总结](https://juejin.cn/post/7120517237475115016) | Fri Jul 15 2022 8:43 AM 
     <details><summary>展开描述 ...</summary> 
-    [keras] 模型保存、加载、model类方法、打印各层权重 `1 ` ` ` ` ` `` ` 
+    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 98年的一名小产品，base成都，工作已经有两年半了。每天在脱发、焦虑、颈椎病、加班中度过，总之，互联网人该有的毛病我是一样没落下。 本以 
     </details> 
 
-- 🎡 [SpringBoot+Vue实现简单用户管理平台第二篇（前端设计，接口对接）](https://juejin.cn/post/7120495342604419079) | Fri Jul 15 2022 7:19 AM 
+- 🎡 [手把手教你做：快手最新爆款“一甜相机”——Redux升级版（二）](https://juejin.cn/post/7120441628170387486) | Fri Jul 15 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-    花了几个小时做了一个SpringBoot+Vue的简单用户管理demo项目，适合新手教程，项目已在Gitee上开源，Gitee开源地址 
+    这篇文章是上篇一甜相机模板页面的Redux版本，在本篇文章中我对项目进行了更多的优化和改进，项目完善度更进一步... 
     </details> 
 
-- 🕯 [模型部署入门教程（一）：模型部署简介](https://juejin.cn/post/7120494957625868325) | Fri Jul 15 2022 7:17 AM 
+- 🕯 [uniapp-小程序发券插件-领券进入微信卡包](https://juejin.cn/post/7120437304035901447) | Fri Jul 15 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 OpenMMLab 的算法如何部署？是很多社区用户的困惑。而模型部署工具箱 MMDeploy 的开源，强势打通了从算法模型到应用程序这 &quot;最后一公里&quot;！ 今天我们将开启模型部署入门系列教~ 
+    这两天有个需求,在小程序领券,然后该优惠券进入微信卡包. 官方文档:https://pay.weixin.qq.com/wiki/doc/apiv3/open/pay/chapter5_3_1.sht 
     </details> 
 
-- 🚀 [SpringBoot+Vue实现简单用户管理平台第一篇（后端接口设计）](https://juejin.cn/post/7120493914099810312) | Fri Jul 15 2022 7:13 AM 
+- 🚀 [手把手教你用docker部署一个vue项目](https://juejin.cn/post/7120430801027596302) | Fri Jul 15 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-    花了几个小时做了一个SpringBoot+Vue的简单用户管理demo项目，适合新手教程，项目已在Gitee上开源，Gitee开源地址 
+    1、介绍docker介绍 1.1 docker由来 1.2 docker的思想 2、docker的基本操作 2.1 下载关于Docker的依赖环境 2.2 设置一下下载Docker的镜像源 2.3 安 
     </details> 
 
-- 💪 [MindSpore数据集加载-GeneratorDataset功能及常见问题](https://juejin.cn/post/7120493093354209288) | Fri Jul 15 2022 7:10 AM 
+- 💪 [腾讯掌上道聚城第二弹🏆React Hooks + Redux](https://juejin.cn/post/7120429240511627295) | Fri Jul 15 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
-    MindSpore支持用户通过自定义的方式构造输入的数据源，然后接入到MindData的流处理流程中，通过迭代该数据源获取数据集进行训练，有点类似PyTorch的DataLoader。 相关的API可 
+    最近学习了`Redux`和`React Hooks`，经过这一段时间的学习，React 全家桶基本上算是熟悉了，,就用`Redux`和`React Hooks`续写对腾讯掌上道聚城的热情。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
