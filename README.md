@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750646) | Thu Jul 14 2022 12:27 AM
-- 🐻 [植物奶油做错了什么，为啥大家都针对它？](http://daily.zhihu.com/story/9750637) | Thu Jul 14 2022 12:27 AM
-- 🌏 [工作中，如何有效地偷懒？](http://daily.zhihu.com/story/9750625) | Thu Jul 14 2022 12:27 AM
-- 🕴 [为什么铁人三项的顺序依次是游泳、单车、跑步，有科学原因吗？](http://daily.zhihu.com/story/9750635) | Thu Jul 14 2022 12:27 AM
-- 🌮 [井有多深？井的下面是一个怎样的世界？](http://daily.zhihu.com/story/9750618) | Thu Jul 14 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750679) | Fri Jul 15 2022 12:27 AM
+- 🐻 [为什么中国人的早饭，几乎不喝饮料/果汁？](http://daily.zhihu.com/story/9750684) | Fri Jul 15 2022 12:27 AM
+- 🌏 [《喜剧之王》中尹天仇为什么最终没当上男主角？这样安排的寓意何在？](http://daily.zhihu.com/story/9750655) | Fri Jul 15 2022 12:27 AM
+- 🕴 [蝙蝠如何避免回声干扰？](http://daily.zhihu.com/story/9750671) | Fri Jul 15 2022 12:27 AM
+- 🌮 [人在什么情况下成长最快？](http://daily.zhihu.com/story/9750664) | Fri Jul 15 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
