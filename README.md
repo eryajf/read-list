@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vue3 解决 ESLint 各类型错误](https://juejin.cn/post/7120531627964399629) | Fri Jul 15 2022 9:40 AM 
+- 🤗 [冴羽答读者问：如何学习更有计划性、提升更稳更快？](https://juejin.cn/post/7120535521448853540) | Fri Jul 15 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    前期项目中忽略了 eslint 检查，导致一运行 npm run lint 出现两千多条错误&lpar;இдஇ; &rpar; 造孽啊 花了两三天搞完，做个错误汇总。 
+    算是一个前端的时间也有五年了，今年也刚好满 30 岁了，感觉自己一直忙着完成业务，为了保持竞争力、不落伍等原因而学习新的框架、工具；回想起来年少轻狂浪费了不少时间，有了老婆孩子之后学习的时间也越来越少 
     </details> 
 
-- 🎡 [一看就懂的事件冒泡、事件捕获、事件委托](https://juejin.cn/post/7120529452299517959) | Fri Jul 15 2022 9:31 AM 
+- 🎡 [从Hadder看蛋白质分子中的加氢算法](https://juejin.cn/post/7120532852760182815) | Fri Jul 15 2022 9:44 AM 
     <details><summary>展开描述 ...</summary> 
-    一看就懂的事件冒泡、事件捕获、事件委托 事件传播 在浏览器中，你可能察觉到了，当事件发生后，这个事件就要开始传播&lpar;从里到外或者从外向里&rpar;。 为什么要传播呢？因为事件源本身（可能）并没有处理事件的能力， 
+    本文主要介绍了开源加氢软件Hadder中用到的一些常规的补氢算法。在存储和优化蛋白质结构的过程中，人们更多的关注于蛋白质本身的骨架的变化，而单个原子的细微变化，对整体产生的性质是微乎其微的。但是我们在 
     </details> 
 
-- 🕯 [react井字棋游戏改进列表实现](https://juejin.cn/post/7120523310592425997) | Fri Jul 15 2022 9:08 AM 
+- 🕯 [TracedModule: 更友好的模型表示方案，模型训练到部署的桥梁](https://juejin.cn/post/7120531815751745566) | Fri Jul 15 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
-    react官方文档提供了一个井字棋游戏教程，文档末尾提供了6条改进建议，本篇文章记录我对这些改进的实现。 
+    TracedModule 介绍 TracedModule 是 MegEngine 中的一种模型格式，用于脱离模型源码对模型进行训练、量化、图手术和模型转换，它是模型训练到部署之间的桥梁。 
     </details> 
 
-- 🚀 [Webpack干货系列 | 怎么运用 Webpack 5 处理css/scss/sass、less、stylus样式资源](https://juejin.cn/post/7120523424841072671) | Fri Jul 15 2022 9:07 AM 
+- 🚀 [Zabbix+Mysql Fpmmm（MPM）监控](https://juejin.cn/post/7120527522416033806) | Fri Jul 15 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
-    本文摘要：主要讲解webpack 5 如何高效处理CSS 资源、scss/sass 资源、less 资源、 stylus 资源这里是引用 在前端开发中，样式是必不可少的一部分。编写样式最早是使用最原始 
+    mysql Fpmmm是MPM的升级版，相对而言，fpmmm要比mpm使用起来更方便，但是需要开启相应的优化参数 
     </details> 
 
-- 💪 [【基于Flutter&amp;Flame 的飞机大战开发笔记】展示面板及重新开始菜单](https://juejin.cn/post/7120516724151025672) | Fri Jul 15 2022 8:43 AM 
+- 💪 [【人工智能】机器学习之用Python实现最小二乘法进行房价预测以及进行贷款额度预测](https://juejin.cn/post/7120527514832732197) | Fri Jul 15 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
-    有了基于bloc管理的全局状态。本文将会利用该数据基于Flutter的控件搭建游戏的展示面板，以及关于重新开始游戏的菜单逻辑。 
+    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 使用最小二乘法进行房价预测： 给定训练样本集合如下： 首先明白什么是最小二乘法，利用最小二乘法公式 散点图和折线图 输入房屋面积即可得出租赁价格 
     </details> 
 <!-- juejin:END -->
 ### 少数派
