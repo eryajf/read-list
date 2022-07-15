@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [WSGI的最终理解](https://juejin.cn/post/7120484353523580936) | Fri Jul 15 2022 6:36 AM 
+- 🤗 [[keras] 模型保存、加载、model类方法、打印各层权重](https://juejin.cn/post/7120498375924908068) | Fri Jul 15 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-    写了几年 python web 开发，却还不知道WSGI是什么东西，是不是大有人在。说来也正常，因为作为开发者很少需要去了解wsgi是什么，也能把网站做出来。 但是如果你想自己写个web框架玩玩，就不 
+    [keras] 模型保存、加载、model类方法、打印各层权重 `1 ` ` ` ` ` `` ` 
     </details> 
 
-- 🎡 [NVIDIA-SMI系列命令详解&lpar;6&rpar;-设备修改选项&lpar;1&rpar;](https://juejin.cn/entry/7120480686837858334) | Fri Jul 15 2022 6:22 AM 
+- 🎡 [SpringBoot+Vue实现简单用户管理平台第二篇（前端设计，接口对接）](https://juejin.cn/post/7120495342604419079) | Fri Jul 15 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-    本文为NVIDIA-SMI系列命令详解第六篇-设备修改选项&lpar;1&rpar;，介绍和演示了nvidia-smi 设备修改选项参数-pm&lpar;持久模式开启/关闭）、-e&lpar;ECC开启/关闭&rpar;、-p&lpar;重置ECC错误计数&rpar;。 
+    花了几个小时做了一个SpringBoot+Vue的简单用户管理demo项目，适合新手教程，项目已在Gitee上开源，Gitee开源地址 
     </details> 
 
-- 🕯 [裁员吵架散摊子, 马斯克：我太难了；狠心开源了一个舆情获取项目；取特征工程跟调参一样简单了?！NeRF大佬直呼卷不动了；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7120475399770865678) | Fri Jul 15 2022 6:02 AM 
+- 🕯 [模型部署入门教程（一）：模型部署简介](https://juejin.cn/post/7120494957625868325) | Fri Jul 15 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 07-15 期，特斯拉大裁员时间线梳理，TLNewsSpider 狠心开源企业级舆情爬虫项目，Upgini 机器学习的特征工程神器，PrimeQA 最先进的QA训练工具库… 
+    前言 OpenMMLab 的算法如何部署？是很多社区用户的困惑。而模型部署工具箱 MMDeploy 的开源，强势打通了从算法模型到应用程序这 &quot;最后一公里&quot;！ 今天我们将开启模型部署入门系列教~ 
     </details> 
 
-- 🚀 [Lifecycle：生命周期感知型组件的基础 —— Jetpack 系列（1）](https://juejin.cn/post/7120472134853328909) | Fri Jul 15 2022 5:48 AM 
+- 🚀 [SpringBoot+Vue实现简单用户管理平台第一篇（后端接口设计）](https://juejin.cn/post/7120493914099810312) | Fri Jul 15 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-    生命周期是 Activity 的核心特性之一，也是 Android 视图开发无法规避的重要问题。 为了更加健壮地处理生命周期问题，Google 的解决方案是将生命周期定义为一套标准的行为模式。 
+    花了几个小时做了一个SpringBoot+Vue的简单用户管理demo项目，适合新手教程，项目已在Gitee上开源，Gitee开源地址 
     </details> 
 
-- 💪 [Python 数值中的下划线是怎么回事？](https://juejin.cn/post/7120470026527703070) | Fri Jul 15 2022 5:40 AM 
+- 💪 [MindSpore数据集加载-GeneratorDataset功能及常见问题](https://juejin.cn/post/7120493093354209288) | Fri Jul 15 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-    Python 中下划线的用法令人叹为观止，相信你已在各种文章或教程中见识过了。在 2016 年的 3.6 版本之后，Python 还引入了一种新的语法，使得下划线也可以出现在数值中。 概要和原理 本  
+    MindSpore支持用户通过自定义的方式构造输入的数据源，然后接入到MindData的流处理流程中，通过迭代该数据源获取数据集进行训练，有点类似PyTorch的DataLoader。 相关的API可 
     </details> 
 <!-- juejin:END -->
 ### 少数派
