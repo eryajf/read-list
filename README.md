@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：蒸汽平台召开游戏发布会、Android 13 将支持蓝牙 LE Audio 技术等](https://sspai.com/post/74280) | Fri Jul 15 2022 12:56 AM 
+- 👹 [一派·PowerUp 05 | 用 MoneyWiz 完成个人记账](https://sspai.com/post/74279) | Fri Jul 15 2022 3:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果你是生活在都市的年轻人，夏日里来一杯奶茶（加奶盖的那种），再请朋友们吃支雪糕，晚上吃顿海底捞，晚上再补一块「罪恶的」网红中式点心。这样的一天，怎么也算不上「奢华」吧？直到你月底查看了自己的银行余额 ...&lt;a href=&quot;https://sspai.com/post/74279&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：蒸汽平台召开游戏发布会、Android 13 将支持蓝牙 LE Audio 技术等](https://sspai.com/post/74280) | Fri Jul 15 2022 12:56 AM 
     <details><summary>展开描述 ...</summary> 
     尼康尼克尔 Z 卡口 400mm ƒ/4.5 VR S 镜头开售，任天堂收购 CG 动画工作室等&lt;a href=&quot;https://sspai.com/post/74280&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [性能小提升，外观大变样——M2 版 MacBook Air 上手体验](https://sspai.com/post/74235) | Thu Jul 14 2022 1:00 PM 
+- 🤭 [性能小提升，外观大变样——M2 版 MacBook Air 上手体验](https://sspai.com/post/74235) | Thu Jul 14 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
     告别卡顿，告别发热，告别风扇狂转——美好的数字生活在向你招手。&lt;a href=&quot;https://sspai.com/post/74235&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新玩意 112｜少数派的作者们最近买了啥？](https://sspai.com/post/74271) | Thu Jul 14 2022 9:21 AM 
+- 🥸 [新玩意 112｜少数派的作者们最近买了啥？](https://sspai.com/post/74271) | Thu Jul 14 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
     好看就完事儿了。&lt;a href=&quot;https://sspai.com/post/74271&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [macOS Ventura 推出公开测试版，这些新特性值得一试](https://sspai.com/post/74222) | Thu Jul 14 2022 7:37 AM 
+- 🙉 [macOS Ventura 推出公开测试版，这些新特性值得一试](https://sspai.com/post/74222) | Thu Jul 14 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
     7月12日凌晨，Apple正式发布了全新操作系统macOSVentura的首个PublicBeta公开测试版。该版本允许非开发者用户参与体验新系统的诸多特性，还可以直接向Apple提交bug反馈。本文 ...&lt;a href=&quot;https://sspai.com/post/74222&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [2022 年 Apple 返校季活动上线，买 iPad、Mac 可免费加购 AirPods](https://sspai.com/post/74266) | Thu Jul 14 2022 3:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    与去年一样，从今日起至 9 月 26 日，购买指定款 Mac 或 iPad 即可免费获赠一副 AirPods 耳机，购买活动机型还可享受 8 折加购 AppleCare+ 等活动。&lt;a href=&quot;https://sspai.com/post/74266&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
