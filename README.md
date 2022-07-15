@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [由点汇聚成字的动效炫极了](https://juejin.cn/post/7120233450627891237) | Thu Jul 14 2022 2:23 PM 
+- 🤗 [Room：又要写业务代码了？看看我吧，给你飞一般的感觉！](https://juejin.cn/post/7120412103390806052) | Fri Jul 15 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-    通过随机散乱的圆点最后组合成了想要的文字，这样的动画效果酷炫极了。看看如何通过点阵构建想要的文字和图形，还可以搞定酷炫的动画。 
+    SQLite说，我明明是你们的“祖宗“，怎么现在都冷落我😭？Room回答道：你难道不知道？我都给开发者飞一般的感觉了😏 
     </details> 
 
-- 🎡 [深度详解Facebook时序工具库Kats](https://juejin.cn/post/7120182510176174110) | Thu Jul 14 2022 11:05 AM 
+- 🎡 [Spring Boot+Vue3 动态菜单实现思路梳理](https://juejin.cn/post/7120411601011277837) | Fri Jul 15 2022 1:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于 Spring Boot + Vue3 的动态菜单，松哥之前已经写了两篇文章了，这两篇文章主要是从代码上和大家分析动态菜单最终的实现方式，但是还是有小伙伴觉得没太看明白，感觉缺乏一个提纲挈领的思路 
+    </details> 
+
+- 🕯 [移动端组件库的对比与分析](https://juejin.cn/post/7120411647742590990) | Fri Jul 15 2022 1:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    随着前端的发展，组件库也是层出不穷，一个完善的组件库能极大提高开发效率，让开发者只需要专注于业务逻辑，而不需要考虑基础组件复用性、扩展性、稳定性的问题。面对众多的组件库，该如何进行选择呢？ 
+    </details> 
+
+- 🚀 [深度详解Facebook时序工具库Kats](https://juejin.cn/post/7120182510176174110) | Thu Jul 14 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
     Kats是Facebook发布的一个专门为了时间序列服务的工具库。它作为一个Toolkit包，提供了四种简易且轻量化的API。 
     </details> 
 
-- 🕯 [clickhouse聚合之探索聚合内部机制](https://juejin.cn/post/7120155911057834021) | Thu Jul 14 2022 9:21 AM 
+- 💪 [负重前行，时光不负 | 2022年中总结篇](https://juejin.cn/post/7120165994613440549) | Thu Jul 14 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
-    本文章中，我们将探讨聚合在 ClickHouse 中的工作原理、如何衡量其性能以及如何使其更快、更高效。为了便于阅读，我们将使用简单的示例，但它们显示的原则适用于更复杂的查询。 
-    </details> 
-
-- 🚀 [实战派 | Java项目中玩转Redis6.0客户端缓存！](https://juejin.cn/post/7120148572846178335) | Thu Jul 14 2022 8:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    在前面的文章中，我们介绍了Redis6.0中的新特性客户端缓存client-side caching，这篇文章我们就来点硬核实战，看看客户端缓存在Java项目中如何落地。 
-    </details> 
-
-- 💪 [火山引擎CWPP&lpar;Elkeid&rpar; 真实对抗案例分享](https://juejin.cn/post/7120140533766291470) | Thu Jul 14 2022 8:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享一起在近期发生的入侵应急事件，在该事件中由 Elkeid 提供的产品能力，极大的方便了防御方在整个入侵过程中的处置和应急。 
+    2022年7月已至，回首期盼，在成长的道路上，没有留下太多沉甸甸的果实，唯有些含苞待放的花骨朵，还在等待着知识的养分，向着专业的方向努力探索...... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
