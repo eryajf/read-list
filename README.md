@@ -79,11 +79,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html) | Fri Jul 08 2022 12:06 AM
-- 💪 [科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html) | Fri Jul 01 2022 12:20 AM
-- 🐎 [云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html) | Wed Jun 29 2022 3:18 AM
-- 🤔 [科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html) | Fri Jun 24 2022 12:30 AM
-- 🧠 [科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html) | Fri Jun 17 2022 12:37 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 214 期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html) | Thu Jul 14 2022 11:45 PM
+- 💪 [科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html) | Fri Jul 08 2022 12:06 AM
+- 🐎 [科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html) | Fri Jul 01 2022 12:20 AM
+- 🤔 [云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html) | Wed Jun 29 2022 3:18 AM
+- 🧠 [科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html) | Fri Jun 24 2022 12:30 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
