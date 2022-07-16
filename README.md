@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750679) | Fri Jul 15 2022 12:27 AM
-- 🐻 [为什么中国人的早饭，几乎不喝饮料/果汁？](http://daily.zhihu.com/story/9750684) | Fri Jul 15 2022 12:27 AM
-- 🌏 [《喜剧之王》中尹天仇为什么最终没当上男主角？这样安排的寓意何在？](http://daily.zhihu.com/story/9750655) | Fri Jul 15 2022 12:27 AM
-- 🕴 [蝙蝠如何避免回声干扰？](http://daily.zhihu.com/story/9750671) | Fri Jul 15 2022 12:27 AM
-- 🌮 [人在什么情况下成长最快？](http://daily.zhihu.com/story/9750664) | Fri Jul 15 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [大误 · 我，感动校园十大人物](http://daily.zhihu.com/story/9750724) | Sat Jul 16 2022 12:27 AM
+- 🐻 [蚊子在叮咬人时，是怎么选择的？](http://daily.zhihu.com/story/9750718) | Sat Jul 16 2022 12:27 AM
+- 🌏 [为什么现在打针都在胳膊上，屁股针几乎见不到了？](http://daily.zhihu.com/story/9750715) | Sat Jul 16 2022 12:27 AM
+- 🕴 [冷饮类食品普遍「添加香料」，这些香料是什么？合成香料对人体有害吗？](http://daily.zhihu.com/story/9750708) | Sat Jul 16 2022 12:27 AM
+- 🌮 [为什么浴缸里面的水看着是浅蓝色的？](http://daily.zhihu.com/story/9750700) | Sat Jul 16 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
