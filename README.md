@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [LeetCode-判断二分图](https://juejin.cn/post/7120894789481922574) | Sat Jul 16 2022 9:09 AM 
+- 🤗 [企业级日志系统架构——ELK（Elasticsearch、Filebeat、Kafka、Logstash、Kibana）](https://juejin.cn/post/7120907075449782280) | Sat Jul 16 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    存在一个无向图，图中有 n 个节点。其中每个节点都有一个介于 0 到 n - 1 之间的唯一编号，将图划分二分图。 
+    一、概述 大致流程图如下： 1）Elasticsearch 存储 2）Filebeat 日志数据采集 目前Beats包含六种工具： Packetbeat：网络数据（收集网络流量数据） Metricbe 
     </details> 
 
-- 🎡 [偶遇算法-服务失效判断](https://juejin.cn/post/7120889591137058829) | Sat Jul 16 2022 8:50 AM 
+- 🎡 [每日一学css冷知识高频实用片段](https://juejin.cn/post/7120905713253089317) | Sat Jul 16 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
-    有这么一个系统，里面有很多服务， 每个服务用字符串来唯一标识的，字符串仅包含 字母和数字，长度不超过10 。 服务之间可能有依赖关系， 如 A 依赖B ， 所以当B故障时， A也故障。 依赖由有传递性 
+    每日一学css冷知识20+css高频实用片段，一时学习一时爽，天天学习天天爽。xdm，学起来吧哈哈哈 
     </details> 
 
-- 🕯 [高仿京东Android App，集成React-Native热更功能](https://juejin.cn/post/7120888153363185695) | Sat Jul 16 2022 8:44 AM 
+- 🕯 [浏览器安全知识](https://juejin.cn/post/7120904665876660231) | Sat Jul 16 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 本项目是一个学习类型的项目，主要是为了学习一些Android最新的思路和开发思想，工程按照模块化、组件化的开发思路进行开发，项目整体结构如下图。 项目代码整洁规范，结构清晰，使用Android最 
+    XSS XSS 全称是 Cross Site Scripting，为了与“CSS”区分开来，故简称 XSS，翻译过来就是“跨站脚本”。XSS 攻击是指黑客往 HTML 文件中或者 DOM 中注入 
     </details> 
 
-- 🚀 [重新认识变量提升](https://juejin.cn/post/7120885036488294430) | Sat Jul 16 2022 8:30 AM 
+- 🚀 [iOS怎么用代码实现这样奇怪的动画](https://juejin.cn/post/7120901349968969741) | Sat Jul 16 2022 9:35 AM 
     <details><summary>展开描述 ...</summary> 
-    在聊变量提升之前，我们可以先看一个大家或许熟悉，或许不熟悉的现象 上述例子中我们可以看到，运行结果是undefined，而这似乎和我们理解的JavaScript代码执行是按顺序执行的有所出入，按理说J 
+    如图动画，需要先分析，得出基本结论 首先是矩形的最大内接圆弧。圆弧过左右两个顶点和下边的中间点，然后再分析已知条件和位置条件，需要求哪个变量 画图得知以下两个等式。 $ r*sin&lpar;A&rpar;=w/2 $ 
     </details> 
 
-- 💪 [偶遇算法-连续出牌数量](https://juejin.cn/post/7120882448480600077) | Sat Jul 16 2022 8:21 AM 
+- 💪 [一个80%的人都说不清楚知识点——Spring 事务传播行为](https://juejin.cn/post/7120900365658095624) | Sat Jul 16 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-    有这么一款单人卡牌游戏，牌面由颜色和数字组成，颜色为红、黄、蓝、绿中的一种，数字为 0-9 中的一个。游戏开始时玩家从手牌中选取一张 卡 牌打出，接下来如果玩家手中有和他上一次打出的手牌颜色或者数字相 
+    面试过很多人，大部分都能把事务的四个特性及隔离级别说得七七八八，但当问到 Spring 的传播行为时，就基本上没人能说出个一二三了。 我们都知道，一个事务要么成功，要么失败。但当若干个事务配合完成一个 
     </details> 
 <!-- juejin:END -->
 ### 少数派
