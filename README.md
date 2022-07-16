@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [打工人低成本赴美工作实践](https://www.v2ex.com/t/866720#reply0) | Sat Jul 16 2022 10:14 PM
+- 🥸 [打工人低成本赴美工作实践](https://www.v2ex.com/t/866720#reply2) | Sat Jul 16 2022 10:14 PM
 - 🤗 [想问个问题，做微信公众号爬虫， cookie 失效后要如何获取新的 cookie?](https://www.v2ex.com/t/866717#reply2) | Sat Jul 16 2022 6:49 PM
 - 🎭 [各位大佬问一个 Xcode App Group 的问题](https://www.v2ex.com/t/866707#reply4) | Sat Jul 16 2022 4:24 PM
 - 🥷 [V 友们，有什么好的 Node 项目推荐吗](https://www.v2ex.com/t/866706#reply2) | Sat Jul 16 2022 4:23 PM
