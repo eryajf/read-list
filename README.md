@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Helm 包工具初探](https://juejin.cn/post/7120766805810872333) | Sat Jul 16 2022 12:52 AM 
+- 🤗 [剑指 Offer II 041. 滑动窗口的平均值 : 简单模拟题](https://juejin.cn/post/7120798183537508383) | Sat Jul 16 2022 2:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 剑指 Offer II 041. 滑动窗口的平均值 ，难度为 简单。 Tag : 「模拟」、「队列」 给定一个整数数据流和一个窗口大小，根据该滑动窗口的大小，计 
+    </details> 
+
+- 🎡 [DDD领域驱动设计如何进行工程化落地](https://juejin.cn/post/7120791177216917518) | Sat Jul 16 2022 2:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    所有的这些架构理论或者设计模式到最后都是为了让我们的代码结构更加清晰，扩展性以及维护性更强。从而开发出bug少稳定性更好的应用。因此本文重点介绍如何进行DDD工程化落地。 
+    </details> 
+
+- 🕯 [Helm 包工具初探](https://juejin.cn/post/7120766805810872333) | Sat Jul 16 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
     Helm 是由 Deis 开发的一个用于专门管理 Kubernetes 的包管理工具，类似于 Centos 中的 YUM 或者是 Python 中的 PIP 
     </details> 
 
-- 🎡 [Java | 平铺列表（List）互转树形（Tree）结构](https://juejin.cn/post/7120742283393105927) | Fri Jul 15 2022 11:36 PM 
+- 🚀 [Java | 平铺列表（List）互转树形（Tree）结构](https://juejin.cn/post/7120742283393105927) | Fri Jul 15 2022 11:36 PM 
     <details><summary>展开描述 ...</summary> 
     很多时候满足前端数据结构的需求，往往我们需要把平铺的`List`数据与`Tree`型层级数据结构进行互转，这篇文章提供一个简单的非递归方式实现数据结构转换。 
     </details> 
 
-- 🕯 [Flutter Cupertino 教程：如何构建外观和感觉原生的 iOS 应用](https://juejin.cn/post/7120637615010742286) | Fri Jul 15 2022 4:34 PM 
+- 💪 [代码生成OCR训练集，老板：没有数据？你new一个](https://juejin.cn/post/7120640342298198024) | Fri Jul 15 2022 4:45 PM 
     <details><summary>展开描述 ...</summary> 
-    所有前端应用程序都使用某种设计系统来帮助用户更轻松地完成任务。他们可能会使用内部开发的定制设计系统或成熟的设计系统，例如 Material Design 或 Cupertino &lpar;iOS&rpar;。 Mate 
-    </details> 
-
-- 🚀 [偶遇算法-IPv4 地址转换成整数](https://juejin.cn/post/7120602427920744456) | Fri Jul 15 2022 2:16 PM 
-    <details><summary>展开描述 ...</summary> 
-    题目 存在一种虚拟 IPv4 地址,由 4 小节组成,每节的范围为 0~255,以#号间隔,虚拟 IPv4 地址可以转换为一个 32 位的整数,例如:128#0#255#255,转换为 32 位整数的 
-    </details> 
-
-- 💪 [远程桌面连接指南](https://juejin.cn/post/7120576017689182245) | Fri Jul 15 2022 12:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    概念 从远程连接您的家用/办公计算机或与他人共享您的屏幕，对远程机器进行的操控类似本地机一样。 可以完成多项功能包括： 鼠标键盘事件响应 文件传输共享 编辑远程电脑文件粘贴拷贝 邀请同事远程协助 从远 
+    老板陷入了沉思，突然眼镜一闪：哎，你让程序员new一个出来，你们连老婆都能new出来。我连忙解释：那是对象。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
