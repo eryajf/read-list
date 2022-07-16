@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教 Mac &lpar;Intel&rpar; vs. Mac &lpar;M1&rpar; 在开发 Apple 应用的区别](https://www.v2ex.com/t/866608#reply1) | Sat Jul 16 2022 4:15 AM
-- 🤗 [现在还有人在搞区块链吗？区块链存在的意义到底是什么？](https://www.v2ex.com/t/866604#reply4) | Sat Jul 16 2022 4:02 AM
-- 🎭 [基于 Aws Glue 构建大数据方案有没有实战过的，求分享](https://www.v2ex.com/t/866603#reply0) | Sat Jul 16 2022 3:53 AM
-- 🥷 [求助， Win10 更新后自动重启如何关闭？](https://www.v2ex.com/t/866600#reply4) | Sat Jul 16 2022 3:44 AM
-- 🐵 [Win 11 开机之后， WiFi 连上后自动断开成地球图标](https://www.v2ex.com/t/866581#reply10) | Sat Jul 16 2022 2:04 AM<!-- v2ex:END -->
+- 🥸 [jshell 如何调用 dubbo 远程服务接口](https://www.v2ex.com/t/866614#reply1) | Sat Jul 16 2022 4:46 AM
+- 🤗 [码了个新玩意儿， redis 命令行工具集](https://www.v2ex.com/t/866613#reply0) | Sat Jul 16 2022 4:46 AM
+- 🎭 [请教 Mac &lpar;Intel&rpar; vs. Mac &lpar;M1&rpar; 在开发 Apple 应用的区别](https://www.v2ex.com/t/866608#reply3) | Sat Jul 16 2022 4:15 AM
+- 🥷 [现在还有人在搞区块链吗？区块链存在的意义到底是什么？](https://www.v2ex.com/t/866604#reply8) | Sat Jul 16 2022 4:02 AM
+- 🐵 [基于 Aws Glue 构建大数据方案有没有实战过的，求分享](https://www.v2ex.com/t/866603#reply0) | Sat Jul 16 2022 3:53 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
