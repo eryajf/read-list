@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022 我的Mac软件折腾之路](https://juejin.cn/post/7120831875408461854) | Sat Jul 16 2022 5:04 AM 
+- 🤗 [嘘！摸鱼神器，别让老板知道！| 语音实时转文本，时序快速出预测，YOLOv6在就能用，一行命令整理CSV  | ShowMeAI资讯日报](https://juejin.cn/post/7120842517775384589) | Sat Jul 16 2022 5:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    摸鱼专刊！qsv 使用命令行快速处理CSV文件、SEPIA 语音实时转文本、ETNA 时序数据预测超简单工具、YOLOv6 在线Demo能一键完成目标检测、Flutter 技巧合辑… 
+    </details> 
+
+- 🎡 [2022 我的Mac软件折腾之路](https://juejin.cn/post/7120831875408461854) | Sat Jul 16 2022 5:04 AM 
     <details><summary>展开描述 ...</summary> 
     本文来自飞猪某个前端同学，他说何为差生文具多，看完这个你就清楚了。Markdown 笔记应用应该属于我折腾最多的一块，楼主从大学期间开始使用 Markdown ，从最开始的为知笔记，到后面马克飞象，到 
     </details> 
 
-- 🎡 [偶遇算法-已知先序中序序列求后序序列](https://juejin.cn/post/7120827581695262734) | Sat Jul 16 2022 4:52 AM 
+- 🕯 [从用户角度体验 ClickHouse 快速开始](https://juejin.cn/post/7120649677904543781) | Fri Jul 15 2022 5:21 PM 
     <details><summary>展开描述 ...</summary> 
-    已知先序遍历和中序遍历，求二叉树的后序遍历 题目描述 有一棵二叉树，每个节点由一个大写字母标识&lpar;最多 26 个节点）。现有两组字母，分别表示前序遍历（父节点-&gt;左孩子-&gt;右孩子）和中序遍历（左孩子-&gt; 
+    作为一个脱胎于 Yandex，开源的，面向 OLAP（online analytical processing of queries）的分布式纵列数据库管理系统，ClickHouse 一直活跃在明星数 
     </details> 
 
-- 🕯 [偶遇算法-磁盘容量排序](https://juejin.cn/post/7120820449574912036) | Sat Jul 16 2022 4:25 AM 
+- 🚀 [vue-echarts，百度地图插件的使用](https://juejin.cn/post/7120642237750312990) | Fri Jul 15 2022 4:51 PM 
     <details><summary>展开描述 ...</summary> 
-    磁盘容量排序 磁盘的容量单位常用的有 M，G，T 这三个等级，它们之间的换算关系为 1T = 1024G，1G = 1024M，现在给定 n 块磁盘的容量，请对它们按从小到大的顺序进行稳定排序，例如给 
+    地图的开发： 1.在router/index.js中配置路由： 注意：app.vue中要这样，路由切换时才能成功显示页面。 就等于说一定要有才能显示页面。 其他的页面也是配置路由表显示。 2.在BMa 
     </details> 
 
-- 🚀 [Vite 3.0 正式发布，下一代前端构建工具！](https://juejin.cn/post/7120820138907009060) | Sat Jul 16 2022 4:21 AM 
+- 💪 [第113期：前端性能监控方案思考（监控request 请求）](https://juejin.cn/post/7120641849932382238) | Fri Jul 15 2022 4:51 PM 
     <details><summary>展开描述 ...</summary> 
-    7 月 13 日，Vite 3 正式发布，它被称为下一代的前端工具链。Vite 团队决定至少每年发布一个新的 Vite 主要版本，以与 Node.js 的 EOL 保持一致，并借此机会定期审查 Vit 
-    </details> 
-
-- 💪 [偶遇算法-计算堆栈中的剩余数字](https://juejin.cn/post/7120816555960729630) | Sat Jul 16 2022 4:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    计算堆栈中的剩余数字 向一个空栈中依次存入正整数， 假设入栈元素 n&lpar;1&lt;=n&lt;=2^31-1&rpar;按顺序依次为 nx...n4、n3、n2、n1, 每当元素入栈时，如果 n1=n2+...+ny&lpar;y 的 
+    这里记录工作中遇到的技术点，以及自己对生活的一些思考，周三或周五发布。 封面图 前端监控主要监控的内容有几个方面：js错误，request请求，用用户行为以及相关性能指标。 对于request请求的监 
     </details> 
 <!-- juejin:END -->
 ### 少数派
