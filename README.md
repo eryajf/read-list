@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [偶遇算法-连续出牌数量](https://juejin.cn/post/7120882448480600077) | Sat Jul 16 2022 8:21 AM 
+- 🤗 [LeetCode-判断二分图](https://juejin.cn/post/7120894789481922574) | Sat Jul 16 2022 9:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    存在一个无向图，图中有 n 个节点。其中每个节点都有一个介于 0 到 n - 1 之间的唯一编号，将图划分二分图。 
+    </details> 
+
+- 🎡 [偶遇算法-服务失效判断](https://juejin.cn/post/7120889591137058829) | Sat Jul 16 2022 8:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    有这么一个系统，里面有很多服务， 每个服务用字符串来唯一标识的，字符串仅包含 字母和数字，长度不超过10 。 服务之间可能有依赖关系， 如 A 依赖B ， 所以当B故障时， A也故障。 依赖由有传递性 
+    </details> 
+
+- 🕯 [高仿京东Android App，集成React-Native热更功能](https://juejin.cn/post/7120888153363185695) | Sat Jul 16 2022 8:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    简介 本项目是一个学习类型的项目，主要是为了学习一些Android最新的思路和开发思想，工程按照模块化、组件化的开发思路进行开发，项目整体结构如下图。 项目代码整洁规范，结构清晰，使用Android最 
+    </details> 
+
+- 🚀 [重新认识变量提升](https://juejin.cn/post/7120885036488294430) | Sat Jul 16 2022 8:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    在聊变量提升之前，我们可以先看一个大家或许熟悉，或许不熟悉的现象 上述例子中我们可以看到，运行结果是undefined，而这似乎和我们理解的JavaScript代码执行是按顺序执行的有所出入，按理说J 
+    </details> 
+
+- 💪 [偶遇算法-连续出牌数量](https://juejin.cn/post/7120882448480600077) | Sat Jul 16 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
     有这么一款单人卡牌游戏，牌面由颜色和数字组成，颜色为红、黄、蓝、绿中的一种，数字为 0-9 中的一个。游戏开始时玩家从手牌中选取一张 卡 牌打出，接下来如果玩家手中有和他上一次打出的手牌颜色或者数字相 
-    </details> 
-
-- 🎡 [【论文阅读｜浅读】DeepEmLAN: Deep embedding learning for attributed networks](https://juejin.cn/post/7120849147510390821) | Sat Jul 16 2022 6:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    @TOC 前言 简介 原文链接：https://www.sciencedirect.com/science/article/pii/S0020025520306642 期刊：Information S 
-    </details> 
-
-- 🕯 [5.Vue计算属性&lpar;computed&rpar;和侦听器&lpar;watch&rpar;](https://juejin.cn/post/7120843942417367053) | Sat Jul 16 2022 5:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    1. 计算属性&lpar;computed&rpar; 模板内的表达式非常便利，但是设计它们的初衷是用于简单运算的。在模板中放入太多的逻辑会让模板过重且难以维护。例如： 在这个地方，模板不再是简单的声明式逻辑。你必须看一 
-    </details> 
-
-- 🚀 [SIFT算法中极值点的形成机理](https://juejin.cn/post/7120836348931473445) | Sat Jul 16 2022 5:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 —————————————————————————————————————————— 摘要 SIFT算法作为一种计算机视觉算法，通过检测图像中的局 
-    </details> 
-
-- 💪 [八股文系列：Java集合容器](https://juejin.cn/post/7120829117485809701) | Sat Jul 16 2022 4:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    集合框架: 用于存储数据的容器。 集合框架是为表示和操作集合而规定的一种统一的标准的体系结构。 任何集合框架都包含三大块内容：对外的接口、接口的实现和对集合运算的算法。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
