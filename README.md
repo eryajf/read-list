@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [嘘！摸鱼神器，别让老板知道！| 语音实时转文本，时序快速出预测，YOLOv6在就能用，一行命令整理CSV  | ShowMeAI资讯日报](https://juejin.cn/post/7120842517775384589) | Sat Jul 16 2022 5:48 AM 
+- 🤗 [实现Redux的中间件功能](https://juejin.cn/post/7120809016069980197) | Sat Jul 16 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-    摸鱼专刊！qsv 使用命令行快速处理CSV文件、SEPIA 语音实时转文本、ETNA 时序数据预测超简单工具、YOLOv6 在线Demo能一键完成目标检测、Flutter 技巧合辑… 
+    讲述中间件的基本概念，同时讲述Redux是如何提供能力，支持中间件&lpar;请求数据、数据处理、日志记录&rpar;进行嵌入的。 
     </details> 
 
-- 🎡 [2022 我的Mac软件折腾之路](https://juejin.cn/post/7120831875408461854) | Sat Jul 16 2022 5:04 AM 
+- 🎡 [动手撸组件系列 —— 1. 使用React实现一个Collapse组件](https://juejin.cn/post/7120806627506634789) | Sat Jul 16 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
-    本文来自飞猪某个前端同学，他说何为差生文具多，看完这个你就清楚了。Markdown 笔记应用应该属于我折腾最多的一块，楼主从大学期间开始使用 Markdown ，从最开始的为知笔记，到后面马克飞象，到 
+    写组件的能力是衡量前端工程师水平的重要指标，不管是基础组件还是业务组件。今天和大家分享下如何实现一个Collapse组件。 
     </details> 
 
-- 🕯 [从用户角度体验 ClickHouse 快速开始](https://juejin.cn/post/7120649677904543781) | Fri Jul 15 2022 5:21 PM 
+- 🕯 [常见垃圾收集器](https://juejin.cn/post/7120805182312546340) | Sat Jul 16 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    作为一个脱胎于 Yandex，开源的，面向 OLAP（online analytical processing of queries）的分布式纵列数据库管理系统，ClickHouse 一直活跃在明星数 
+    垃圾收集器主要面对内存动态分配的语言。垃圾收集器需要面对三个问题：什么是垃圾？怎么定位垃圾？怎么回收垃圾？本章主要对这三个问题进行一定的解析，并介绍一部分经典垃圾收集器。 
     </details> 
 
-- 🚀 [vue-echarts，百度地图插件的使用](https://juejin.cn/post/7120642237750312990) | Fri Jul 15 2022 4:51 PM 
+- 🚀 [Android屏幕刷新机制与Choreographer的工作原理](https://juejin.cn/post/7120804149159002126) | Sat Jul 16 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-    地图的开发： 1.在router/index.js中配置路由： 注意：app.vue中要这样，路由切换时才能成功显示页面。 就等于说一定要有才能显示页面。 其他的页面也是配置路由表显示。 2.在BMa 
+    2022的进度已过50%，不知大家的小目标是否已经也到达了50%了，如果没有的话，还有2022的下一个50%。本文将给大家带来Android的屏幕刷新机制的介绍，同时通过Choreographe 
     </details> 
 
-- 💪 [第113期：前端性能监控方案思考（监控request 请求）](https://juejin.cn/post/7120641849932382238) | Fri Jul 15 2022 4:51 PM 
+- 💪 [对移动端app容灾的思考](https://juejin.cn/post/7120802538332372999) | Sat Jul 16 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    这里记录工作中遇到的技术点，以及自己对生活的一些思考，周三或周五发布。 封面图 前端监控主要监控的内容有几个方面：js错误，request请求，用用户行为以及相关性能指标。 对于request请求的监 
+    移动端app容灾 可能很多人对这个概念比较陌生，我们常说的容灾策略，一般都特指服务器端的容灾，那么移动端容灾是个啥！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
