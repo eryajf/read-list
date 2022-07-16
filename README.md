@@ -202,10 +202,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教个 SqlServer 筛选查询结果的 SQL](https://www.v2ex.com/t/866696#reply0) | Sat Jul 16 2022 2:57 PM
+- 🥸 [推荐一款新发现的用 Node 实现的免费下载无损音乐的命令行工具 Musicn](https://www.v2ex.com/t/866704#reply0) | Sat Jul 16 2022 3:52 PM
 - 🤗 [请问大家分布式微服务都是怎么看 log 的？](https://www.v2ex.com/t/866695#reply1) | Sat Jul 16 2022 2:49 PM
 - 🎭 [wordpress 怎么优化主题的性能](https://www.v2ex.com/t/866694#reply0) | Sat Jul 16 2022 2:35 PM
-- 🥷 [刚撸 Python ，问个问题](https://www.v2ex.com/t/866690#reply12) | Sat Jul 16 2022 2:10 PM
+- 🥷 [刚撸 Python ，问个问题](https://www.v2ex.com/t/866690#reply17) | Sat Jul 16 2022 2:10 PM
 - 🐵 [有小伙伴公司找临时兼职吗， Base 海淀](https://www.v2ex.com/t/866687#reply0) | Sat Jul 16 2022 1:38 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
