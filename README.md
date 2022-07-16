@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [缓存的设计方式](https://juejin.cn/post/7120941198042693662) | Sat Jul 16 2022 12:09 PM 
+- 🤗 [你真的敢落地Flutter桌面端吗？](https://juejin.cn/post/7120944715419090957) | Sat Jul 16 2022 12:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    Flutter在桌面端落地是可行的；但你必须解决这三大难题：应用窗口化，提供窗口操作的能力；实现多窗口；外设的支持。 
+    </details> 
+
+- 🎡 [缓存的设计方式](https://juejin.cn/post/7120941198042693662) | Sat Jul 16 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
     问题情况： 当有大量的请求到内部系统时，若每一个请求都需要我们操作数据库，例如查询操作，那么对于那种数据基本不怎么变动的数据来说，每一次都去数据库里面查询，是很消耗我们的性能 尤其是对于在海量数据中进 
     </details> 
 
-- 🎡 [弹幕的常规设计与实现](https://juejin.cn/post/7120931977556951047) | Sat Jul 16 2022 11:34 AM 
+- 🕯 [弹幕的常规设计与实现](https://juejin.cn/post/7120931977556951047) | Sat Jul 16 2022 11:34 AM 
     <details><summary>展开描述 ...</summary> 
     弹幕的常规设计与实现我们该怎么做？对于有弹幕需求的开发，阅读下这篇文章，保证能快速实现需求，不限于框架，纯 TS 开发。 
     </details> 
 
-- 🕯 [偶遇算法-分苹果](https://juejin.cn/post/7120929832208171038) | Sat Jul 16 2022 11:25 AM 
+- 🚀 [偶遇算法-分苹果](https://juejin.cn/post/7120929832208171038) | Sat Jul 16 2022 11:25 AM 
     <details><summary>展开描述 ...</summary> 
     分苹果 A、B 两个人把苹果分为两堆，A 希望按照他的计算规则等分苹果，他的计算规则是按照二进制加法计算，并且不计算进位 12+5=9（1100 + 0101 = 9），B 的计算规则是十进制加法，包 
     </details> 
 
-- 🚀 [前端鸡汤文学的魅力](https://juejin.cn/post/7120915096292818974) | Sat Jul 16 2022 10:30 AM 
+- 💪 [前端鸡汤文学的魅力](https://juejin.cn/post/7120915096292818974) | Sat Jul 16 2022 10:30 AM 
     <details><summary>展开描述 ...</summary> 
     在技术平台上分享励志的经历，一直是被一些网友诟病，有甚者直接开喷，为什么要分享这种东西，垃圾，除了分享这种文章你还能干啥！太难听的我就不继续赘述了，之前写过一篇文章，说过，这东西自然有存在 
-    </details> 
-
-- 💪 [企业级日志系统架构——ELK（Elasticsearch、Filebeat、Kafka、Logstash、Kibana）](https://juejin.cn/post/7120907075449782280) | Sat Jul 16 2022 9:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、概述 大致流程图如下： 1）Elasticsearch 存储 2）Filebeat 日志数据采集 目前Beats包含六种工具： Packetbeat：网络数据（收集网络流量数据） Metricbe 
     </details> 
 <!-- juejin:END -->
 ### 少数派
