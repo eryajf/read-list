@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [实现Redux的中间件功能](https://juejin.cn/post/7120809016069980197) | Sat Jul 16 2022 3:36 AM 
+- 🤗 [偶遇算法-连续出牌数量](https://juejin.cn/post/7120882448480600077) | Sat Jul 16 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
-    讲述中间件的基本概念，同时讲述Redux是如何提供能力，支持中间件&lpar;请求数据、数据处理、日志记录&rpar;进行嵌入的。 
+    有这么一款单人卡牌游戏，牌面由颜色和数字组成，颜色为红、黄、蓝、绿中的一种，数字为 0-9 中的一个。游戏开始时玩家从手牌中选取一张 卡 牌打出，接下来如果玩家手中有和他上一次打出的手牌颜色或者数字相 
     </details> 
 
-- 🎡 [动手撸组件系列 —— 1. 使用React实现一个Collapse组件](https://juejin.cn/post/7120806627506634789) | Sat Jul 16 2022 3:27 AM 
+- 🎡 [【论文阅读｜浅读】DeepEmLAN: Deep embedding learning for attributed networks](https://juejin.cn/post/7120849147510390821) | Sat Jul 16 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-    写组件的能力是衡量前端工程师水平的重要指标，不管是基础组件还是业务组件。今天和大家分享下如何实现一个Collapse组件。 
+    @TOC 前言 简介 原文链接：https://www.sciencedirect.com/science/article/pii/S0020025520306642 期刊：Information S 
     </details> 
 
-- 🕯 [常见垃圾收集器](https://juejin.cn/post/7120805182312546340) | Sat Jul 16 2022 3:22 AM 
+- 🕯 [5.Vue计算属性&lpar;computed&rpar;和侦听器&lpar;watch&rpar;](https://juejin.cn/post/7120843942417367053) | Sat Jul 16 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-    垃圾收集器主要面对内存动态分配的语言。垃圾收集器需要面对三个问题：什么是垃圾？怎么定位垃圾？怎么回收垃圾？本章主要对这三个问题进行一定的解析，并介绍一部分经典垃圾收集器。 
+    1. 计算属性&lpar;computed&rpar; 模板内的表达式非常便利，但是设计它们的初衷是用于简单运算的。在模板中放入太多的逻辑会让模板过重且难以维护。例如： 在这个地方，模板不再是简单的声明式逻辑。你必须看一 
     </details> 
 
-- 🚀 [Android屏幕刷新机制与Choreographer的工作原理](https://juejin.cn/post/7120804149159002126) | Sat Jul 16 2022 3:17 AM 
+- 🚀 [SIFT算法中极值点的形成机理](https://juejin.cn/post/7120836348931473445) | Sat Jul 16 2022 5:25 AM 
     <details><summary>展开描述 ...</summary> 
-    2022的进度已过50%，不知大家的小目标是否已经也到达了50%了，如果没有的话，还有2022的下一个50%。本文将给大家带来Android的屏幕刷新机制的介绍，同时通过Choreographe 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 —————————————————————————————————————————— 摘要 SIFT算法作为一种计算机视觉算法，通过检测图像中的局 
     </details> 
 
-- 💪 [对移动端app容灾的思考](https://juejin.cn/post/7120802538332372999) | Sat Jul 16 2022 3:11 AM 
+- 💪 [八股文系列：Java集合容器](https://juejin.cn/post/7120829117485809701) | Sat Jul 16 2022 4:55 AM 
     <details><summary>展开描述 ...</summary> 
-    移动端app容灾 可能很多人对这个概念比较陌生，我们常说的容灾策略，一般都特指服务器端的容灾，那么移动端容灾是个啥！ 
+    集合框架: 用于存储数据的容器。 集合框架是为表示和操作集合而规定的一种统一的标准的体系结构。 任何集合框架都包含三大块内容：对外的接口、接口的实现和对集合运算的算法。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
