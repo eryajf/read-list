@@ -202,8 +202,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [vue3 eslint 和 prettier 都配了，格式化有冲突，看这个冲突怎么解决](https://www.v2ex.com/t/866621#reply2) | Sat Jul 16 2022 5:45 AM
-- 🤗 [Win11 神奇 bug，视频无法播放（目前无法复现](https://www.v2ex.com/t/866619#reply0) | Sat Jul 16 2022 5:22 AM
+- 🥸 [vue3 eslint 和 prettier 都配了，格式化有冲突，看这个冲突怎么解决](https://www.v2ex.com/t/866621#reply6) | Sat Jul 16 2022 5:45 AM
+- 🤗 [Win11 神奇 bug，视频无法播放（目前无法复现](https://www.v2ex.com/t/866619#reply1) | Sat Jul 16 2022 5:22 AM
 - 🎭 [jshell 如何调用 dubbo 远程服务接口](https://www.v2ex.com/t/866614#reply4) | Sat Jul 16 2022 4:46 AM
 - 🥷 [码了个新玩意儿， redis 命令行工具集](https://www.v2ex.com/t/866613#reply0) | Sat Jul 16 2022 4:46 AM
 - 🐵 [请教 Mac &lpar;Intel&rpar; vs. Mac &lpar;M1&rpar; 在开发 Apple 应用的区别](https://www.v2ex.com/t/866608#reply4) | Sat Jul 16 2022 4:15 AM<!-- v2ex:END -->
