@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [偶遇算法-IPv4 地址转换成整数](https://juejin.cn/post/7120602427920744456) | Fri Jul 15 2022 2:16 PM 
+- 🤗 [Helm 包工具初探](https://juejin.cn/post/7120766805810872333) | Sat Jul 16 2022 12:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    Helm 是由 Deis 开发的一个用于专门管理 Kubernetes 的包管理工具，类似于 Centos 中的 YUM 或者是 Python 中的 PIP 
+    </details> 
+
+- 🎡 [Java | 平铺列表（List）互转树形（Tree）结构](https://juejin.cn/post/7120742283393105927) | Fri Jul 15 2022 11:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    很多时候满足前端数据结构的需求，往往我们需要把平铺的`List`数据与`Tree`型层级数据结构进行互转，这篇文章提供一个简单的非递归方式实现数据结构转换。 
+    </details> 
+
+- 🕯 [Flutter Cupertino 教程：如何构建外观和感觉原生的 iOS 应用](https://juejin.cn/post/7120637615010742286) | Fri Jul 15 2022 4:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    所有前端应用程序都使用某种设计系统来帮助用户更轻松地完成任务。他们可能会使用内部开发的定制设计系统或成熟的设计系统，例如 Material Design 或 Cupertino &lpar;iOS&rpar;。 Mate 
+    </details> 
+
+- 🚀 [偶遇算法-IPv4 地址转换成整数](https://juejin.cn/post/7120602427920744456) | Fri Jul 15 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
     题目 存在一种虚拟 IPv4 地址,由 4 小节组成,每节的范围为 0~255,以#号间隔,虚拟 IPv4 地址可以转换为一个 32 位的整数,例如:128#0#255#255,转换为 32 位整数的 
     </details> 
 
-- 🎡 [远程桌面连接指南](https://juejin.cn/post/7120576017689182245) | Fri Jul 15 2022 12:32 PM 
+- 💪 [远程桌面连接指南](https://juejin.cn/post/7120576017689182245) | Fri Jul 15 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
     概念 从远程连接您的家用/办公计算机或与他人共享您的屏幕，对远程机器进行的操控类似本地机一样。 可以完成多项功能包括： 鼠标键盘事件响应 文件传输共享 编辑远程电脑文件粘贴拷贝 邀请同事远程协助 从远 
-    </details> 
-
-- 🕯 [盘点一下，99%的Java程序员会踩的坑](https://juejin.cn/post/7120570066856312839) | Fri Jul 15 2022 12:09 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 作为Java程序员的你，不知道有没有踩过一些基础知识的坑。 有时候，某个bug查了半天，最后发现竟然是一个低级错误。 有时候，某些代码，这一批数据功能正常，但换了一批数据就出现异常了。 有时候， 
-    </details> 
-
-- 🚀 [从 0 到 1 开展软件测试](https://juejin.cn/post/7120564644476878885) | Fri Jul 15 2022 11:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    自动化测试的优势我认为主要有两点，第一点就是它可以代替一些重复但必要的测试工作，解决重复劳动问题。第二点也很重要，因为重复性工作容易引入人为的差错，此时就应该通过工具来辅助。 
-    </details> 
-
-- 💪 [Alpine 作为基础镜像利弊](https://juejin.cn/post/7120557446682116132) | Fri Jul 15 2022 11:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    Alpine 操作系统是一个面向安全的轻型 Linux 发行版。它不同于通常 Linux 发行版，Alpine 采用了 musl libc 和 busybox 以减小系统的体积和运行时资源消耗 
     </details> 
 <!-- juejin:END -->
 ### 少数派
