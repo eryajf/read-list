@@ -41,29 +41,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [golang数据类型转换汇总](https://wiki.eryajf.net/pages/33a476/) | Sun Jul 17 2022 11:42 AM 
+- 🫶 [openLDAP入门系列笔记第二篇--简单认识objectCLass以及常见应用](https://wiki.eryajf.net/pages/ea10fa/) | Sun Jul 17 2022 10:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文我们来认识理解一个很重要的概念：objectCLass，其实了解它是很难的，网上不少介绍的文章也讲的云里雾里，看完之后反而更加迷糊，本文将不求完全讲透，但求你看完会用。 
+    </details> 
+
+- 🧰 [openLDAP入门系列笔记第一篇--捋透openLDAP的基础概念](https://wiki.eryajf.net/pages/aa0651/) | Sun Jul 17 2022 10:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文将着力于将ldap中概念讲清道明，希望你看了就能懂，不再困厄烦恼。 
+    </details> 
+
+- 🌏 [golang数据类型转换汇总](https://wiki.eryajf.net/pages/33a476/) | Sun Jul 17 2022 11:42 AM 
     <details><summary>展开描述 ...</summary> 
     golang作为强类型语言，我们在日常开发过程中，遇到类型转换的场景也非常多，本文整理我在工作开发中遇到过的类型转换实践。 
     </details> 
 
-- 🧰 [学习周刊-总第62期-2022年第27周](https://wiki.eryajf.net/pages/4a06ab/) | Sat Jul 16 2022 2:25 PM 
+- 😎 [学习周刊-总第62期-2022年第27周](https://wiki.eryajf.net/pages/4a06ab/) | Sat Jul 16 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第62期-2022年第27周 
     </details> 
 
-- 🌏 [学习周刊-总第61期-2022年第26周](https://wiki.eryajf.net/pages/703307/) | Sat Jul 09 2022 2:45 PM 
+- 💂 [学习周刊-总第61期-2022年第26周](https://wiki.eryajf.net/pages/703307/) | Sat Jul 09 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第61期-2022年第26周 
-    </details> 
-
-- 😎 [博客接入了CDN，请求大家江湖支援](https://wiki.eryajf.net/pages/5f559d/) | Sat Jul 02 2022 11:28 PM 
-    <details><summary>展开描述 ...</summary> 
-    收款明细 
-    </details> 
-
-- 💂 [学习周刊-总第60期-2022年第25周](https://wiki.eryajf.net/pages/bff449/) | Sat Jul 02 2022 11:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第60期-2022年第25周 
     </details> 
 <!-- eryajf:END -->
 
