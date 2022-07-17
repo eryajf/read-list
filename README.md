@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [大误 · 我，感动校园十大人物](http://daily.zhihu.com/story/9750724) | Sat Jul 16 2022 12:27 AM
-- 🐻 [蚊子在叮咬人时，是怎么选择的？](http://daily.zhihu.com/story/9750718) | Sat Jul 16 2022 12:27 AM
-- 🌏 [为什么现在打针都在胳膊上，屁股针几乎见不到了？](http://daily.zhihu.com/story/9750715) | Sat Jul 16 2022 12:27 AM
-- 🕴 [冷饮类食品普遍「添加香料」，这些香料是什么？合成香料对人体有害吗？](http://daily.zhihu.com/story/9750708) | Sat Jul 16 2022 12:27 AM
-- 🌮 [为什么浴缸里面的水看着是浅蓝色的？](http://daily.zhihu.com/story/9750700) | Sat Jul 16 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [《三体》中有哪些设定已有研究进展，可能会在未来多少年成真？](http://daily.zhihu.com/story/9750734) | Sun Jul 17 2022 12:27 AM
+- 🐻 [《新喜剧之王》是真的拍得差，还是被低估了？](http://daily.zhihu.com/story/9750741) | Sun Jul 17 2022 12:27 AM
+- 🌏 [你见过最巧妙的数学证明是什么？](http://daily.zhihu.com/story/9750748) | Sun Jul 17 2022 12:27 AM
+- 🕴 [女子吸食笑气 3 个月差点瘫痪，笑气对人体有哪些危害？](http://daily.zhihu.com/story/9750757) | Sun Jul 17 2022 12:27 AM
+- 🌮 [为什么高马尾比散发更能给人青春的感觉？](http://daily.zhihu.com/story/9750762) | Sun Jul 17 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
