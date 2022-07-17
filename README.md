@@ -41,29 +41,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第62期-2022年第27周](https://wiki.eryajf.net/pages/4a06ab/) | Sat Jul 16 2022 2:25 PM 
+- 🫶 [golang数据类型转换汇总](https://wiki.eryajf.net/pages/33a476/) | Sun Jul 17 2022 11:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    golang作为强类型语言，我们在日常开发过程中，遇到类型转换的场景也非常多，本文整理我在工作开发中遇到过的类型转换实践。 
+    </details> 
+
+- 🧰 [学习周刊-总第62期-2022年第27周](https://wiki.eryajf.net/pages/4a06ab/) | Sat Jul 16 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第62期-2022年第27周 
     </details> 
 
-- 🧰 [学习周刊-总第61期-2022年第26周](https://wiki.eryajf.net/pages/703307/) | Sat Jul 09 2022 2:45 PM 
+- 🌏 [学习周刊-总第61期-2022年第26周](https://wiki.eryajf.net/pages/703307/) | Sat Jul 09 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第61期-2022年第26周 
     </details> 
 
-- 🌏 [博客接入了CDN，请求大家江湖支援](https://wiki.eryajf.net/pages/5f559d/) | Sat Jul 02 2022 11:28 PM 
+- 😎 [博客接入了CDN，请求大家江湖支援](https://wiki.eryajf.net/pages/5f559d/) | Sat Jul 02 2022 11:28 PM 
     <details><summary>展开描述 ...</summary> 
     收款明细 
     </details> 
 
-- 😎 [学习周刊-总第60期-2022年第25周](https://wiki.eryajf.net/pages/bff449/) | Sat Jul 02 2022 11:07 AM 
+- 💂 [学习周刊-总第60期-2022年第25周](https://wiki.eryajf.net/pages/bff449/) | Sat Jul 02 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第60期-2022年第25周 
-    </details> 
-
-- 💂 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) | Mon Jun 27 2022 4:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    在GitHub中，我们能看到每个人都在折腾个人同名仓库的profile，我在这上边也花了不少的时间，在这个冲浪经历中，感觉外国人折腾的好像要更厉害一些，浏览过程中看到有人能直接在个人的profile中生成博客最近更新文章，很是新颖，于是就学习了一下。 
     </details> 
 <!-- eryajf:END -->
 
