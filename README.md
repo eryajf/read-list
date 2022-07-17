@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [马斯克：特斯拉汽车集成Steam平台取得进展 演示可能下个月公布](http://www.techweb.com.cn/smarttraveling/2022-07-17/2898357.shtml) | Sun Jul 17 2022 5:49 AM
-- 👹 [腾讯云需要“转基因”](http://www.techweb.com.cn/viewpoint/2022-07-17/2898355.shtml) | Sun Jul 17 2022 4:55 AM
-- 🪜 [快看陈安妮：漫画业务两年前已盈利 出海、IP开发、社区是未来三大发展方向](http://www.techweb.com.cn/it/2022-07-17/2898354.shtml) | Sun Jul 17 2022 3:45 AM
-- 🤭 [新国货梦碎2022](http://www.techweb.com.cn/viewpoint/2022-07-17/2898353.shtml) | Sun Jul 17 2022 3:10 AM
-- 🙉 [高德回应“重型自卸货车闯红灯致司乘伤亡”：有象约车合规 货车全责](http://www.techweb.com.cn/it/2022-07-17/2898352.shtml) | Sun Jul 17 2022 2:49 AM<!-- techweb-allnews:END -->
+- 👍 [被英特尔收购后 Tower半导体决定与Cadence合作推动汽车和移动IC芯片开发](http://www.techweb.com.cn/it/2022-07-17/2898358.shtml) | Sun Jul 17 2022 5:53 AM
+- 👹 [马斯克：特斯拉汽车集成Steam平台取得进展 演示可能下个月公布](http://www.techweb.com.cn/smarttraveling/2022-07-17/2898357.shtml) | Sun Jul 17 2022 5:49 AM
+- 🪜 [腾讯云需要“转基因”](http://www.techweb.com.cn/viewpoint/2022-07-17/2898355.shtml) | Sun Jul 17 2022 4:55 AM
+- 🤭 [快看陈安妮：漫画业务两年前已盈利 出海、IP开发、社区是未来三大发展方向](http://www.techweb.com.cn/it/2022-07-17/2898354.shtml) | Sun Jul 17 2022 3:45 AM
+- 🙉 [新国货梦碎2022](http://www.techweb.com.cn/viewpoint/2022-07-17/2898353.shtml) | Sun Jul 17 2022 3:10 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
