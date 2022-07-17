@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本月玩什么 | 异度神剑 3、数码宝贝 绝境求生、时空勇士](https://sspai.com/post/74287) | Sun Jul 17 2022 7:00 AM 
+- 👹 [笔记本电脑太烫了？收下这份指南，你也可以清理它内部的灰尘](https://sspai.com/post/74307) | Sun Jul 17 2022 9:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    清理笔记本电脑内部其实并不难，掌握好这些步骤，你的笔记本电脑也有第二春。&lt;a href=&quot;https://sspai.com/post/74307&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [本月玩什么 | 异度神剑 3、数码宝贝 绝境求生、时空勇士](https://sspai.com/post/74287) | Sun Jul 17 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     无聊了？本月这些新作值得一试。&lt;a href=&quot;https://sspai.com/post/74287&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [把握浏览器的「门面」：少数派作者们都在用什么启动页？](https://sspai.com/post/74276) | Sat Jul 16 2022 7:30 AM 
+- 🤭 [把握浏览器的「门面」：少数派作者们都在用什么启动页？](https://sspai.com/post/74276) | Sat Jul 16 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
     作为「网上冲浪」的第一站，浏览器启动页向来是许多人热衷于展现个性的地方。每个人对浏览器启动页的需求都不尽相同，有人偏爱实用、有人则更注重「颜值」。因此，我们邀请了6位少数派作者来分享一下他们自己在用什 ...&lt;a href=&quot;https://sspai.com/post/74276&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [真正的新生力量：从金曲奖最佳新人入围者看乐坛新风向](https://sspai.com/post/74289) | Sat Jul 16 2022 3:00 AM 
+- 🥸 [真正的新生力量：从金曲奖最佳新人入围者看乐坛新风向](https://sspai.com/post/74289) | Sat Jul 16 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     金曲奖向来是华语乐坛中分量最重、甚至是唯一真正有广泛影响力的音乐奖项。进入分众时代后，金曲奖可能选不出曾经红极华语世界的歌王歌后，作为审美在线的奖项，他们在发掘新人这件事上焕发了新的生机，许多来自小公司甚至独立发片的艺人依靠优质的作品收获了金曲奖的青睐，一朝提名天下知。这篇文章，我就借着疫情之后的第 31 至 33 届金曲奖最佳新人奖入围名单，聊聊我眼里这几年的风向变化。&lt;a href=&quot;https://sspai.com/post/74289&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [本周看什么丨最近值得一看的 8 部作品](https://sspai.com/post/74288) | Fri Jul 15 2022 10:08 AM 
+- 🙉 [本周看什么丨最近值得一看的 8 部作品](https://sspai.com/post/74288) | Fri Jul 15 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[动画]外星也难民第三季、[美剧]黑鸟、[电影]旋涡、[动画]异世界舅舅、[美剧]生化危机、[动画]彻夜之歌、[电影]仙后座、[电影]刀剑神域-进击篇-无星之夜的咏叹调几则 ...&lt;a href=&quot;https://sspai.com/post/74288&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [第一次独居？我们为你准备了一份「租房攻略合订本」](https://sspai.com/post/74285) | Fri Jul 15 2022 7:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    身外之物的丰盈或缺失并不足以削弱一个人的热爱，只要认真生活，租来的房子也会有家的归属感。&lt;a href=&quot;https://sspai.com/post/74285&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
