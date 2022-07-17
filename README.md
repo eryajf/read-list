@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [推荐! 使用react-cropper-pro实现图片裁切压缩上传](https://juejin.cn/post/7121218571136401422) | Sun Jul 17 2022 6:07 AM 
+- 🤗 [Vue2剥丝抽茧-虚拟dom之自定义组件](https://juejin.cn/post/7121220894537547789) | Sun Jul 17 2022 6:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    虚拟dom 中我们按照 vue 本身的目录接口进行了整理，通过 render 函数返回虚拟 dom 最终完成页面的渲染。这篇文章，我们来实现自定义组件。 整体思路 我们需要完成三件事情： 生成自定义组 
+    </details> 
+
+- 🎡 [推荐! 使用react-cropper-pro实现图片裁切压缩上传](https://juejin.cn/post/7121218571136401422) | Sun Jul 17 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
     在前端开发的过程中, 我们经常遇到文件上传或者图片上传的需求, 有些场景中可能还会要求上传图片后对图片进行裁切, 压缩. 对于不想加班的程序员来说, 第一要义就是使用斯第三方库. 虽然像我们熟悉的an 
     </details> 
 
-- 🎡 [565. 数组嵌套 : 常规模拟题](https://juejin.cn/post/7121214048401621005) | Sun Jul 17 2022 5:48 AM 
+- 🕯 [探究ANR原理-是谁控制了ANR的触发时间](https://juejin.cn/post/7121217696594657293) | Sun Jul 17 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、ANR概述 ANR&lpar;Application Not responding&rpar;是指应用程序未响应，Android系统对于一些事件需要在一定的时间范围内完成，如果超过预定时间能未能得到有效响应或者响应时 
+    </details> 
+
+- 🚀 [565. 数组嵌套 : 常规模拟题](https://juejin.cn/post/7121214048401621005) | Sun Jul 17 2022 5:48 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 565. 数组嵌套 ，难度为 中等。 Tag : 「模拟」 索引从 $0$ 开始长度为 N 的数组 A，包含 $0$ 到 $N - 1$ 的所有整数。找到最大的 
     </details> 
 
-- 🕯 [推荐 6 个实用的 Vue 组件库](https://juejin.cn/post/7121198442105274405) | Sun Jul 17 2022 4:47 AM 
+- 💪 [一文解析Pinia和Vuex，带你全面理解这两个Vue状态管理模式](https://juejin.cn/post/7121209657678364685) | Sun Jul 17 2022 5:31 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue 是目前用于创建用户界面的最佳 JavaScript 框架之一，本文推荐 Vue 项目开发用得上的 6 个第三方库，这些库基本可以覆盖项目大部份需求，有效的提高项目开发效率。 
-    </details> 
-
-- 🚀 [支付设计白皮书：支付系统的路由系统设计](https://juejin.cn/post/7121192102125387789) | Sun Jul 17 2022 4:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 支付系统的相关系统给大家已经写了几篇了，如果喜欢的话，可以给六六一个赞哦，下面是之前写的 支付设计白皮书：支付系统的概念与中国互联网支付清算体系 支付设计白皮书：支付系统的总架构 支付设计白皮书 
-    </details> 
-
-- 💪 [二叉树的镜像](https://juejin.cn/post/7121184012915179557) | Sun Jul 17 2022 3:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    给定一颗二叉树，如何获取它的镜像？本文将跟大家分享这个问题的解决方案，欢迎各位感兴趣的开发者阅读本文。 
+    本文将通过Vue3的形式对两者的不同实现方式进行对比，让你在以后工作中无论使用到Pinia还是Vuex的时候都能够游刃有余。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
