@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [服务老是被攻击，如何设计一套比较安全的接口访问策略？](https://juejin.cn/post/7121168651222253599) | Sun Jul 17 2022 2:51 AM 
+- 🤗 [二叉树的镜像](https://juejin.cn/post/7121184012915179557) | Sun Jul 17 2022 3:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    给定一颗二叉树，如何获取它的镜像？本文将跟大家分享这个问题的解决方案，欢迎各位感兴趣的开发者阅读本文。 
+    </details> 
+
+- 🎡 [服务老是被攻击，如何设计一套比较安全的接口访问策略？](https://juejin.cn/post/7121168651222253599) | Sun Jul 17 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是老王，最近接手了一个项目，兴致勃勃的准备大干一场，结果一顿渗透测试下来我都快傻了。什么防重放攻击，请求体篡改，越权攻击，都整上来了，好嘛，我都不清楚这个项目这半年是怎么度过的。 
     </details> 
 
-- 🎡 [一名前端实习生在美团的成长小结](https://juejin.cn/post/7121166037948596255) | Sun Jul 17 2022 2:41 AM 
+- 🕯 [一名前端实习生在美团的成长小结](https://juejin.cn/post/7121166037948596255) | Sun Jul 17 2022 2:41 AM 
     <details><summary>展开描述 ...</summary> 
     背景：23届本，在美团度过了第二段实习生活～主要内容：简单记录下自己在做业务、学技术方面获得的思路，记录下自己在软素质方面的提升，希望之后的秋招之路可以顺利～ 
     </details> 
 
-- 🕯 [拯救不开心！我的机器人心理医生；机器学习的KPI千里追踪术；YOLO v7的PyTorch实现；李航新书『机器学习方法』开放试读 | ShowMeAI资讯日报](https://juejin.cn/post/7121163580107390990) | Sun Jul 17 2022 2:33 AM 
+- 🚀 [拯救不开心！我的机器人心理医生；机器学习的KPI千里追踪术；YOLO v7的PyTorch实现；李航新书『机器学习方法』开放试读 | ShowMeAI资讯日报](https://juejin.cn/post/7121163580107390990) | Sun Jul 17 2022 2:33 AM 
     <details><summary>展开描述 ...</summary> 
     ShowMeAI资讯日报 2022-07-17 期，使用PyTorch实现YOLOv7目标检测模型，使用机器学习进行KPI自动监测与分析，LDAP 的浓缩易用版，李航3月新书『机器学习方法』试读… 
     </details> 
 
-- 🚀 [【摸鱼神器】UI库秒变低代码工具——表单篇（二）子控件](https://juejin.cn/post/7121149988729520158) | Sun Jul 17 2022 1:39 AM 
+- 💪 [【摸鱼神器】UI库秒变低代码工具——表单篇（二）子控件](https://juejin.cn/post/7121149988729520158) | Sun Jul 17 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
     表单里面各种各样的子控件的处理方式，可以基于JSON渲染，也可以使用slot、插件等方式进行扩展。基于Vue3+UI库，可以快速上手。 
-    </details> 
-
-- 💪 [标准化、归一化和正则化的关系](https://juejin.cn/post/7121136739103539207) | Sun Jul 17 2022 12:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    首先，标准化的英文是Standardization，归一化的英文是Normalization，正则化的英文是Regularization。标准化是特征缩放的一种方式，需要注意的是标准化之后的数据分布并 
     </details> 
 <!-- juejin:END -->
 ### 少数派
