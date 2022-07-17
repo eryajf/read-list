@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Git实战进阶教程](https://juejin.cn/post/7121283639471505416) | Sun Jul 17 2022 10:19 AM 
+- 🤗 [如何在JavaScript中判断两个值相等&lpar;有坑&rpar;](https://juejin.cn/post/7121300627786825736) | Sun Jul 17 2022 11:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    在 JavaScript 中存在 4 种不同的相等算法，同时小数类型和对象类型的相等判断都有坑，如果你不知道他们的区别，或者认为判断相等非常简单，那么本文非常适合你阅读。 
+    </details> 
+
+- 🎡 [Git实战进阶教程](https://juejin.cn/post/7121283639471505416) | Sun Jul 17 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
     本文我们选择5个典型场景，介绍一下 Git 的进阶技巧，学会这些技巧，可以极大提高工作中Git使用的效率。 
     </details> 
 
-- 🎡 [这些年我开源的几个小项目](https://juejin.cn/post/7121280612173873182) | Sun Jul 17 2022 10:06 AM 
+- 🕯 [这些年我开源的几个小项目](https://juejin.cn/post/7121280612173873182) | Sun Jul 17 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
     笔者是一个平平无奇的前端打工人，没有参与过啥热门开源项目的共建，所以每次说自己热爱开源都很心虚，充其量就是热爱使用开源项目，不过这两年来也陆续做了几个小项目，虽然只有时不时的来几个star，不过也给我 
     </details> 
 
-- 🕯 [最近对前端构建工具的一些理解](https://juejin.cn/post/7121279495494959111) | Sun Jul 17 2022 10:02 AM 
+- 🚀 [最近对前端构建工具的一些理解](https://juejin.cn/post/7121279495494959111) | Sun Jul 17 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
     谈到构建工具，大家首先想到的肯定就是 Webpack 以及现在最🔥的 Vite。Webpack，功能强大，生态丰富，从面世到今天，一直是很受大家欢迎；Vite采用 
     </details> 
 
-- 🚀 [如何优雅的升级 Flink Job？](https://juejin.cn/post/7121274909350690829) | Sun Jul 17 2022 9:46 AM 
+- 💪 [如何优雅的升级 Flink Job？](https://juejin.cn/post/7121274909350690829) | Sun Jul 17 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
     Flink 作为有状态计算的流批一体分布式计算引擎，会在运行过程中保存很多的「状态」数据，并依赖这些数据完成任务的 Failover 以及任务的重启恢复。 那么，请思考一个问题：如果程序升级迭代调整了 
-    </details> 
-
-- 💪 [一杯咖啡的时间，告诉你 Vite 凭什么比 Webpack 快](https://juejin.cn/post/7121270530111635463) | Sun Jul 17 2022 9:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    Vite 是目前最快捷的工具，但是在如此竞争下相信 Webpack 也会做出改变并进行优化。所有的工具都并不是完美的，开发者们只需根据不同的情况选择不同的开发工具，使得开发变得更加方便即可 
     </details> 
 <!-- juejin:END -->
 ### 少数派
