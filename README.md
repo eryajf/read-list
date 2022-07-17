@@ -202,9 +202,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [谷歌商店换区，原来购买过的软件游戏图书还能下载吗？](https://www.v2ex.com/t/866874#reply0) | Sun Jul 17 2022 9:41 PM
+- 🥸 [谷歌商店换区，原来购买过的软件游戏图书还能下载吗？](https://www.v2ex.com/t/866874#reply6) | Sun Jul 17 2022 9:41 PM
 - 🤗 [pycharm 自动推断 typing](https://www.v2ex.com/t/866860#reply10) | Sun Jul 17 2022 3:17 PM
-- 🎭 [有什么值得学习的应用数学知识嘛？或者编程的奇巧淫技？](https://www.v2ex.com/t/866859#reply7) | Sun Jul 17 2022 2:54 PM
+- 🎭 [有什么值得学习的应用数学知识嘛？或者编程的奇巧淫技？](https://www.v2ex.com/t/866859#reply8) | Sun Jul 17 2022 2:54 PM
 - 🥷 [关于开发使用 VIM 编辑的一些问题，有老大哥指点一下吗？](https://www.v2ex.com/t/866849#reply13) | Sun Jul 17 2022 1:20 PM
 - 🐵 [关于各大云服务器之间的时间差](https://www.v2ex.com/t/866843#reply19) | Sun Jul 17 2022 12:49 PM<!-- v2ex:END -->
 
