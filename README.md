@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vue2剥丝抽茧-虚拟dom之自定义组件](https://juejin.cn/post/7121220894537547789) | Sun Jul 17 2022 6:17 AM 
+- 🤗 [前端模块化的演进过程](https://juejin.cn/post/7121235695590440991) | Sun Jul 17 2022 7:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    前端模块化的演进过程，为什么是需要模块化，模块化解决了什么问题，模块经历了哪几个过程，目前的最佳实践方案... 
+    </details> 
+
+- 🎡 [一文彻底解决新手对webpack的恐惧！](https://juejin.cn/post/7121223668369195022) | Sun Jul 17 2022 6:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    webpack基础配置 loader plugin webpack4 webpack5 url-loader 
+    </details> 
+
+- 🕯 [Vue2剥丝抽茧-虚拟dom之自定义组件](https://juejin.cn/post/7121220894537547789) | Sun Jul 17 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
     虚拟dom 中我们按照 vue 本身的目录接口进行了整理，通过 render 函数返回虚拟 dom 最终完成页面的渲染。这篇文章，我们来实现自定义组件。 整体思路 我们需要完成三件事情： 生成自定义组 
     </details> 
 
-- 🎡 [推荐! 使用react-cropper-pro实现图片裁切压缩上传](https://juejin.cn/post/7121218571136401422) | Sun Jul 17 2022 6:07 AM 
+- 🚀 [推荐! 使用react-cropper-pro实现图片裁切压缩上传](https://juejin.cn/post/7121218571136401422) | Sun Jul 17 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
     在前端开发的过程中, 我们经常遇到文件上传或者图片上传的需求, 有些场景中可能还会要求上传图片后对图片进行裁切, 压缩. 对于不想加班的程序员来说, 第一要义就是使用斯第三方库. 虽然像我们熟悉的an 
     </details> 
 
-- 🕯 [探究ANR原理-是谁控制了ANR的触发时间](https://juejin.cn/post/7121217696594657293) | Sun Jul 17 2022 6:02 AM 
+- 💪 [探究ANR原理-是谁控制了ANR的触发时间](https://juejin.cn/post/7121217696594657293) | Sun Jul 17 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
     一、ANR概述 ANR&lpar;Application Not responding&rpar;是指应用程序未响应，Android系统对于一些事件需要在一定的时间范围内完成，如果超过预定时间能未能得到有效响应或者响应时 
-    </details> 
-
-- 🚀 [565. 数组嵌套 : 常规模拟题](https://juejin.cn/post/7121214048401621005) | Sun Jul 17 2022 5:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 565. 数组嵌套 ，难度为 中等。 Tag : 「模拟」 索引从 $0$ 开始长度为 N 的数组 A，包含 $0$ 到 $N - 1$ 的所有整数。找到最大的 
-    </details> 
-
-- 💪 [一文解析Pinia和Vuex，带你全面理解这两个Vue状态管理模式](https://juejin.cn/post/7121209657678364685) | Sun Jul 17 2022 5:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将通过Vue3的形式对两者的不同实现方式进行对比，让你在以后工作中无论使用到Pinia还是Vuex的时候都能够游刃有余。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
