@@ -203,9 +203,9 @@
 
 <!-- v2ex:START -->
 - 🥸 [输入法不能自动补全标点符号，大神求解](https://www.v2ex.com/t/866751#reply1) | Sun Jul 17 2022 3:29 AM
-- 🤗 [requests 能不能优雅地配置全局代理？](https://www.v2ex.com/t/866749#reply8) | Sun Jul 17 2022 3:16 AM
+- 🤗 [requests 能不能优雅地配置全局代理？](https://www.v2ex.com/t/866749#reply10) | Sun Jul 17 2022 3:16 AM
 - 🎭 [空手套白狼系列：有无推荐 的 go 面试宝典](https://www.v2ex.com/t/866748#reply0) | Sun Jul 17 2022 3:10 AM
-- 🥷 [Java 初学问题](https://www.v2ex.com/t/866739#reply11) | Sun Jul 17 2022 2:02 AM
+- 🥷 [Java 初学问题](https://www.v2ex.com/t/866739#reply13) | Sun Jul 17 2022 2:02 AM
 - 🐵 [关于 viewModel 使用的一些疑问](https://www.v2ex.com/t/866736#reply2) | Sun Jul 17 2022 1:32 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
