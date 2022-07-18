@@ -205,8 +205,8 @@
 - 🥸 [在有 raid 的情况下 lvm 还有必要吗](https://www.v2ex.com/t/867101#reply0) | Mon Jul 18 2022 12:23 PM
 - 🤗 [部署自己的 tg 图片推送 bot](https://www.v2ex.com/t/867095#reply0) | Mon Jul 18 2022 11:23 AM
 - 🎭 [maven Writing tracking file](https://www.v2ex.com/t/867085#reply0) | Mon Jul 18 2022 10:38 AM
-- 🥷 [类宝塔面板需求收集](https://www.v2ex.com/t/867082#reply14) | Mon Jul 18 2022 10:18 AM
-- 🐵 [nginx 如何 配置路径以**开头](https://www.v2ex.com/t/867076#reply3) | Mon Jul 18 2022 9:52 AM<!-- v2ex:END -->
+- 🥷 [类宝塔面板需求收集](https://www.v2ex.com/t/867082#reply19) | Mon Jul 18 2022 10:18 AM
+- 🐵 [nginx 如何 配置路径以**开头](https://www.v2ex.com/t/867076#reply4) | Mon Jul 18 2022 9:52 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
