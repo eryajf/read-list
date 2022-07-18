@@ -211,24 +211,24 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [不是所有有才华的人，都想当领导！](https://juejin.cn/post/7121659678320230413) | Mon Jul 18 2022 10:36 AM 
+- 🤗 [当转转严选订单遇到状态机](https://juejin.cn/post/7121678614893953038) | Mon Jul 18 2022 11:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    状态机不仅是一个组件，还是一种架构，在包含复杂状态变更的业务场景之中，给我们一种新的思路去描述业务。 
+    </details> 
+
+- 🎡 [不是所有有才华的人，都想当领导！](https://juejin.cn/post/7121659678320230413) | Mon Jul 18 2022 10:36 AM 
     <details><summary>展开描述 ...</summary> 
     现阶段下，人类是个金字塔状的的社会。从一枚小小的码农，成长为一个领导者或者独裁者，不仅仅是鸿鹄的梦想，也是燕雀的志向。 而且这也不是水中月镜中花，在cn，拥有一点点小权利就可以鼻孔朝天。公司作为社会经 
     </details> 
 
-- 🎡 [有手就行，从零开始的V3版本Chrome创意插件开发攻略](https://juejin.cn/post/7121653349669142565) | Mon Jul 18 2022 10:12 AM 
+- 🕯 [有手就行，从零开始的V3版本Chrome创意插件开发攻略](https://juejin.cn/post/7121653349669142565) | Mon Jul 18 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
     本文会用最好理解的角度介绍 V3 版本插件开发的基础内容，带新司机迅速上路，陪老司机快速转换赛道 🚀 
     </details> 
 
-- 🕯 [照妖镜：一个工具的自我超越](https://juejin.cn/post/7121651383069048839) | Mon Jul 18 2022 10:05 AM 
+- 🚀 [照妖镜：一个工具的自我超越](https://juejin.cn/post/7121651383069048839) | Mon Jul 18 2022 10:05 AM 
     <details><summary>展开描述 ...</summary> 
     简介： 人和动物的最大区别，就是人会使用工具。那么，作为一个工具，如何在用户需求多变、产品功能多样的当下，不断地实现自我超越呢？今天我们就来聊一聊。 人和动物的最大区别，就是人会使用工具。那么，作为一 
-    </details> 
-
-- 🚀 [将 Terraform 生态粘合到 Kubernetes 世界](https://juejin.cn/post/7121650651657928712) | Mon Jul 18 2022 10:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介： 为了更高效，统一的管理云服务，IaC 思想近年来盛行，其中 Terrafrom 更是成功得到了几乎所有的云厂商的采纳和支持。以 Terrafrom 模型为核心的云服务 IaC 生态已经形成。然 
     </details> 
 
 - 💪 [Figma自编教程第一篇（也是做产品实习生的第一天）](https://juejin.cn/post/7121650485978726430) | Mon Jul 18 2022 10:01 AM 
