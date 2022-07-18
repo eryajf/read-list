@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求问下各位大佬 general 互联网公司里还有 C++的生存空间吗？](https://www.v2ex.com/t/866968#reply2) | Mon Jul 18 2022 4:18 AM
-- 🤗 [请问 Springboot 相比于 Java 是不是类似 QT 相比于 C++？](https://www.v2ex.com/t/866963#reply3) | Mon Jul 18 2022 3:59 AM
-- 🎭 [有关 Linux 时区](https://www.v2ex.com/t/866959#reply3) | Mon Jul 18 2022 3:53 AM
-- 🥷 [增量/差异备份软件推荐](https://www.v2ex.com/t/866955#reply4) | Mon Jul 18 2022 3:49 AM
-- 🐵 [gitee 离大谱了 这也被和谐？](https://www.v2ex.com/t/866950#reply15) | Mon Jul 18 2022 3:34 AM<!-- v2ex:END -->
+- 🥸 [repeatOnLifecycle + SharedFlow 隐藏坑排查与治理](https://www.v2ex.com/t/866982#reply0) | Mon Jul 18 2022 5:16 AM
+- 🤗 [求问下各位大佬 general 互联网公司里还有 C++的生存空间吗？](https://www.v2ex.com/t/866968#reply6) | Mon Jul 18 2022 4:18 AM
+- 🎭 [请问 Springboot 相比于 Java 是不是类似 QT 相比于 C++？](https://www.v2ex.com/t/866963#reply3) | Mon Jul 18 2022 3:59 AM
+- 🥷 [有关 Linux 时区](https://www.v2ex.com/t/866959#reply3) | Mon Jul 18 2022 3:53 AM
+- 🐵 [增量/差异备份软件推荐](https://www.v2ex.com/t/866955#reply5) | Mon Jul 18 2022 3:49 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
