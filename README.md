@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [理想汽车：升级理想L9空气弹簧质保方案](http://www.techweb.com.cn/smarttraveling/2022-07-18/2898468.shtml) | Mon Jul 18 2022 6:23 AM
-- 👹 [报告显示：Lucid亚利桑那州工厂发生多起与电池相关的起火事故](http://www.techweb.com.cn/world/2022-07-18/2898466.shtml) | Mon Jul 18 2022 6:14 AM
-- 🪜 [氢能源 碳中和配角](http://www.techweb.com.cn/viewpoint/2022-07-18/2898464.shtml) | Mon Jul 18 2022 6:04 AM
-- 🤭 [得翼通信宣布完成近亿元Pre-A轮融资 富华资本和君科丹木基金联合领投](http://www.techweb.com.cn/finance/2022-07-18/2898461.shtml) | Mon Jul 18 2022 5:41 AM
-- 🙉 [外媒：特斯拉在10年时间里累计交付近300万辆电动汽车](http://www.techweb.com.cn/world/2022-07-18/2898459.shtml) | Mon Jul 18 2022 5:10 AM<!-- techweb-allnews:END -->
+- 👍 [大众丰田正与台积电合作 大众CEO已同台积电高管会面](http://www.techweb.com.cn/world/2022-07-18/2898477.shtml) | Mon Jul 18 2022 7:18 AM
+- 👹 [美国欲拆华为中兴通讯设备 FCC：需追加30亿美元资金](http://www.techweb.com.cn/world/2022-07-18/2898475.shtml) | Mon Jul 18 2022 7:04 AM
+- 🪜 [理想汽车：升级理想L9空气弹簧质保方案](http://www.techweb.com.cn/smarttraveling/2022-07-18/2898468.shtml) | Mon Jul 18 2022 6:23 AM
+- 🤭 [报告显示：Lucid亚利桑那州工厂发生多起与电池相关的起火事故](http://www.techweb.com.cn/world/2022-07-18/2898466.shtml) | Mon Jul 18 2022 6:14 AM
+- 🙉 [氢能源 碳中和配角](http://www.techweb.com.cn/viewpoint/2022-07-18/2898464.shtml) | Mon Jul 18 2022 6:04 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
