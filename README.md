@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [大众丰田正与台积电合作 大众CEO已同台积电高管会面](http://www.techweb.com.cn/world/2022-07-18/2898477.shtml) | Mon Jul 18 2022 7:18 AM
-- 👹 [美国欲拆华为中兴通讯设备 FCC：需追加30亿美元资金](http://www.techweb.com.cn/world/2022-07-18/2898475.shtml) | Mon Jul 18 2022 7:04 AM
-- 🪜 [理想汽车：升级理想L9空气弹簧质保方案](http://www.techweb.com.cn/smarttraveling/2022-07-18/2898468.shtml) | Mon Jul 18 2022 6:23 AM
-- 🤭 [报告显示：Lucid亚利桑那州工厂发生多起与电池相关的起火事故](http://www.techweb.com.cn/world/2022-07-18/2898466.shtml) | Mon Jul 18 2022 6:14 AM
-- 🙉 [氢能源 碳中和配角](http://www.techweb.com.cn/viewpoint/2022-07-18/2898464.shtml) | Mon Jul 18 2022 6:04 AM<!-- techweb-allnews:END -->
+- 👍 [获得超30亿美元大单后 三星电机将成特斯拉摄像头模组第一大供应商](http://www.techweb.com.cn/world/2022-07-18/2898484.shtml) | Mon Jul 18 2022 8:37 AM
+- 👹 [大众集团今年上半年交付21.7万辆纯电动汽车 同比增长27%](http://www.techweb.com.cn/world/2022-07-18/2898481.shtml) | Mon Jul 18 2022 8:03 AM
+- 🪜 [大众丰田正与台积电合作 大众CEO已同台积电高管会面](http://www.techweb.com.cn/world/2022-07-18/2898477.shtml) | Mon Jul 18 2022 7:18 AM
+- 🤭 [美国欲拆华为中兴通讯设备 FCC：需追加30亿美元资金](http://www.techweb.com.cn/world/2022-07-18/2898475.shtml) | Mon Jul 18 2022 7:04 AM
+- 🙉 [理想汽车：升级理想L9空气弹簧质保方案](http://www.techweb.com.cn/smarttraveling/2022-07-18/2898468.shtml) | Mon Jul 18 2022 6:23 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
