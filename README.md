@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有些 go 的基础如何入门 web3，区块链](https://www.v2ex.com/t/867035#reply0) | Mon Jul 18 2022 8:09 AM
-- 🤗 [请问 gitlab 部署在 docker 上的优势是什么，有必要 docker 部署吗](https://www.v2ex.com/t/867033#reply3) | Mon Jul 18 2022 8:05 AM
-- 🎭 [有点羡慕抽烟的同事们](https://www.v2ex.com/t/867027#reply27) | Mon Jul 18 2022 7:48 AM
-- 🥷 [前端项目（在 mac 下载的依赖 node-modules 包），放在 window 上依赖不兼容，有没有那种远程服务器帮忙下载依赖的资源？](https://www.v2ex.com/t/867024#reply5) | Mon Jul 18 2022 7:44 AM
-- 🐵 [Vue3+Vite 服务器连接地址打包后配置怎么搞？](https://www.v2ex.com/t/867015#reply11) | Mon Jul 18 2022 6:58 AM<!-- v2ex:END -->
+- 🥸 [公司很恶心，不给加班费，也不给调休怎么办](https://www.v2ex.com/t/867054#reply0) | Mon Jul 18 2022 9:06 AM
+- 🤗 [时间机器的备份删除文件](https://www.v2ex.com/t/867051#reply0) | Mon Jul 18 2022 8:51 AM
+- 🎭 [Windows 11 怎么限制充电到 100%？](https://www.v2ex.com/t/867050#reply3) | Mon Jul 18 2022 8:49 AM
+- 🥷 [求教：国内有没有一些静态展示服务网站](https://www.v2ex.com/t/867049#reply0) | Mon Jul 18 2022 8:47 AM
+- 🐵 [有没有擅长做浏览器&lpar;主要是 ie&rpar;兼容的大佬，有偿咨询](https://www.v2ex.com/t/867045#reply12) | Mon Jul 18 2022 8:39 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
