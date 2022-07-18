@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [当转转严选订单遇到状态机](https://juejin.cn/post/7121678614893953038) | Mon Jul 18 2022 11:50 AM 
+- 🤗 [全面学习正则表达式 - 从原理到实战](https://juejin.cn/post/7121726642120032264) | Mon Jul 18 2022 2:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文全面介绍正则表达式的语法知识，全面介绍JavaScript中正则表达式的API，通过实战，希望能够帮助大家全面学习，并啃下前端的难题。 
+    </details> 
+
+- 🎡 [使用 PixCap 和 ReadyPlayerMe 快速制作3D 模型动画](https://juejin.cn/post/7121723715615719461) | Mon Jul 18 2022 2:45 PM 
+    <details><summary>展开描述 ...</summary> 
+    PixCap，通过使用 AI 技术非常快速（而且非常便宜）的制作 3D 模型制作动画。 ReadyPlayerMe 是一个在线生成3D头像的网站，通过上传照片快速生成 3D 头像。 
+    </details> 
+
+- 🕯 [当转转严选订单遇到状态机](https://juejin.cn/post/7121678614893953038) | Mon Jul 18 2022 11:50 AM 
     <details><summary>展开描述 ...</summary> 
     状态机不仅是一个组件，还是一种架构，在包含复杂状态变更的业务场景之中，给我们一种新的思路去描述业务。 
     </details> 
 
-- 🎡 [不是所有有才华的人，都想当领导！](https://juejin.cn/post/7121659678320230413) | Mon Jul 18 2022 10:36 AM 
+- 🚀 [不是所有有才华的人，都想当领导！](https://juejin.cn/post/7121659678320230413) | Mon Jul 18 2022 10:36 AM 
     <details><summary>展开描述 ...</summary> 
     现阶段下，人类是个金字塔状的的社会。从一枚小小的码农，成长为一个领导者或者独裁者，不仅仅是鸿鹄的梦想，也是燕雀的志向。 而且这也不是水中月镜中花，在cn，拥有一点点小权利就可以鼻孔朝天。公司作为社会经 
     </details> 
 
-- 🕯 [有手就行，从零开始的V3版本Chrome创意插件开发攻略](https://juejin.cn/post/7121653349669142565) | Mon Jul 18 2022 10:12 AM 
+- 💪 [有手就行，从零开始的V3版本Chrome创意插件开发攻略](https://juejin.cn/post/7121653349669142565) | Mon Jul 18 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
     本文会用最好理解的角度介绍 V3 版本插件开发的基础内容，带新司机迅速上路，陪老司机快速转换赛道 🚀 
-    </details> 
-
-- 🚀 [照妖镜：一个工具的自我超越](https://juejin.cn/post/7121651383069048839) | Mon Jul 18 2022 10:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介： 人和动物的最大区别，就是人会使用工具。那么，作为一个工具，如何在用户需求多变、产品功能多样的当下，不断地实现自我超越呢？今天我们就来聊一聊。 人和动物的最大区别，就是人会使用工具。那么，作为一 
-    </details> 
-
-- 💪 [Figma自编教程第一篇（也是做产品实习生的第一天）](https://juejin.cn/post/7121650485978726430) | Mon Jul 18 2022 10:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    Figma是什么 我先来谈谈我个人的理解吧，在今天之前，我其实不太了解产品这个职位 在和老板沟通之后，我发现其实产品挺重要的，他需要进行需求分析，然后按照分析出来的需求，设计页面，让开发去进行实现。  
     </details> 
 <!-- juejin:END -->
 ### 少数派
