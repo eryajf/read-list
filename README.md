@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [微信聊天记录不全部删除会被封群？官方辟谣：假的](http://www.techweb.com.cn/internet/2022-07-18/2898384.shtml) | Mon Jul 18 2022 1:20 AM
-- 👹 [阿里云为何要提出“坚持伙伴优先”战略？](http://www.techweb.com.cn/viewpoint/2022-07-18/2898381.shtml) | Mon Jul 18 2022 1:17 AM
-- 🪜 [中青宝回应“游戏版号”争议：网传内容不实](http://www.techweb.com.cn/it/2022-07-17/2898365.shtml) | Sun Jul 17 2022 8:39 AM
-- 🤭 [中国雪糕进化史](http://www.techweb.com.cn/viewpoint/2022-07-17/2898361.shtml) | Sun Jul 17 2022 8:04 AM
-- 🙉 [泛林集团、Entegris 和 Gelest 携手推进 EUV 干膜光刻胶技术生态系统](http://www.techweb.com.cn/it/2022-07-17/2898359.shtml) | Sun Jul 17 2022 6:55 AM<!-- techweb-allnews:END -->
+- 👍 [外卖小龙虾“缺斤少两”、“图文不符”？饿了么推出小龙虾外卖新规](http://www.techweb.com.cn/it/2022-07-18/2898431.shtml) | Mon Jul 18 2022 2:59 AM
+- 👹 [联想集团：建议发行以美元计值的优先票据及购买2023年票据](http://www.techweb.com.cn/it/2022-07-18/2898430.shtml) | Mon Jul 18 2022 2:51 AM
+- 🪜 [马斯克证实：特斯拉汽车将要整合Steam游戏平台](http://www.techweb.com.cn/world/2022-07-18/2898429.shtml) | Mon Jul 18 2022 2:50 AM
+- 🤭 [网易影核宣布完成亿级A轮融资 巡星投资战略投资](http://www.techweb.com.cn/finance/2022-07-18/2898427.shtml) | Mon Jul 18 2022 2:37 AM
+- 🙉 [外媒：预计苹果在今年秋至明年春期间推出M2 Pro/Max芯片版MacBook Pro](http://www.techweb.com.cn/world/2022-07-18/2898426.shtml) | Mon Jul 18 2022 2:34 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
