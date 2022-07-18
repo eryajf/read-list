@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [获得超30亿美元大单后 三星电机将成特斯拉摄像头模组第一大供应商](http://www.techweb.com.cn/world/2022-07-18/2898484.shtml) | Mon Jul 18 2022 8:37 AM
-- 👹 [大众集团今年上半年交付21.7万辆纯电动汽车 同比增长27%](http://www.techweb.com.cn/world/2022-07-18/2898481.shtml) | Mon Jul 18 2022 8:03 AM
-- 🪜 [大众丰田正与台积电合作 大众CEO已同台积电高管会面](http://www.techweb.com.cn/world/2022-07-18/2898477.shtml) | Mon Jul 18 2022 7:18 AM
-- 🤭 [美国欲拆华为中兴通讯设备 FCC：需追加30亿美元资金](http://www.techweb.com.cn/world/2022-07-18/2898475.shtml) | Mon Jul 18 2022 7:04 AM
-- 🙉 [理想汽车：升级理想L9空气弹簧质保方案](http://www.techweb.com.cn/smarttraveling/2022-07-18/2898468.shtml) | Mon Jul 18 2022 6:23 AM<!-- techweb-allnews:END -->
+- 👍 [寻鲜中国好农货 150万网友进拼多多直播间购武陵好物](http://www.techweb.com.cn/it/2022-07-18/2898497.shtml) | Mon Jul 18 2022 9:47 AM
+- 👹 [地方政府造车幻觉：上海行，合肥行，我也行](http://www.techweb.com.cn/viewpoint/2022-07-18/2898496.shtml) | Mon Jul 18 2022 9:34 AM
+- 🪜 [华为汪涛：持续创新 全面迈向5.5G时代](http://www.techweb.com.cn/it/2022-07-18/2898491.shtml) | Mon Jul 18 2022 9:21 AM
+- 🤭 [外媒：上汽通用五菱可能会在印尼增加生产电动汽车零部件](http://www.techweb.com.cn/world/2022-07-18/2898490.shtml) | Mon Jul 18 2022 9:07 AM
+- 🙉 [外媒：星巴克正在考虑出售英国业务](http://www.techweb.com.cn/world/2022-07-18/2898489.shtml) | Mon Jul 18 2022 9:06 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
