@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [得翼通信宣布完成近亿元Pre-A轮融资 富华资本和君科丹木基金联合领投](http://www.techweb.com.cn/finance/2022-07-18/2898461.shtml) | Mon Jul 18 2022 5:41 AM
-- 👹 [外媒：特斯拉在10年时间里累计交付近300万辆电动汽车](http://www.techweb.com.cn/world/2022-07-18/2898459.shtml) | Mon Jul 18 2022 5:10 AM
-- 🪜 [B站：将逐步开放“展示账号IP属地”功能 预计一周后全面上线](http://www.techweb.com.cn/internet/2022-07-18/2898458.shtml) | Mon Jul 18 2022 4:22 AM
-- 🤭 [SpaceX成功向近地轨道发射53颗星链互联网卫星](http://www.techweb.com.cn/world/2022-07-18/2898457.shtml) | Mon Jul 18 2022 4:19 AM
-- 🙉 [亚马逊美国6栋办公楼停工 重新权衡混合办公模式](http://www.techweb.com.cn/world/2022-07-18/2898452.shtml) | Mon Jul 18 2022 3:50 AM<!-- techweb-allnews:END -->
+- 👍 [理想汽车：升级理想L9空气弹簧质保方案](http://www.techweb.com.cn/smarttraveling/2022-07-18/2898468.shtml) | Mon Jul 18 2022 6:23 AM
+- 👹 [报告显示：Lucid亚利桑那州工厂发生多起与电池相关的起火事故](http://www.techweb.com.cn/world/2022-07-18/2898466.shtml) | Mon Jul 18 2022 6:14 AM
+- 🪜 [氢能源 碳中和配角](http://www.techweb.com.cn/viewpoint/2022-07-18/2898464.shtml) | Mon Jul 18 2022 6:04 AM
+- 🤭 [得翼通信宣布完成近亿元Pre-A轮融资 富华资本和君科丹木基金联合领投](http://www.techweb.com.cn/finance/2022-07-18/2898461.shtml) | Mon Jul 18 2022 5:41 AM
+- 🙉 [外媒：特斯拉在10年时间里累计交付近300万辆电动汽车](http://www.techweb.com.cn/world/2022-07-18/2898459.shtml) | Mon Jul 18 2022 5:10 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
