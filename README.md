@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何防止订单重复支付？](https://juejin.cn/post/7121554911229116430) | Mon Jul 18 2022 3:50 AM 
+- 🤗 [声网传输层协议 AUT 的总结与展望丨Dev for Dev 专栏](https://juejin.cn/post/7121575116680626184) | Mon Jul 18 2022 5:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    针对实时互动应用对网络传输带来的新需求和新挑战，声网通过将实时互动中的应用层业务需求与传输策略的分层和解耦。 
+    </details> 
+
+- 🎡 [通过Vue自定义指令实现前端埋点，我不写单元测试，被批了，利用噪声构建美妙的 CS，Kotlin协程-CoroutineScope丨酱酱的下午茶第30期](https://juejin.cn/post/7121575881662791710) | Mon Jul 18 2022 5:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    本期看点：通过Vue自定义指令实现前端埋点，我不写单元测试，被批了，利用噪声构建美妙的 CS，Kotlin协程-CoroutineScope，百度APP iOS端内存优化实践-大块内存监控方案 
+    </details> 
+
+- 🕯 [千万不要把Request传递到异步线程里面！有坑！](https://juejin.cn/post/7121564878988378126) | Mon Jul 18 2022 4:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    你好哇，我是歪歪。 前几天在网上冲浪的时候看到一篇技术文章，讲的是他把一个 request 请求传递到了线程池里面，然后遇到了一个匪夷所思的情况。 他写了这篇文章，把自己针对这个问题的探索过程分享了出 
+    </details> 
+
+- 🚀 [如何防止订单重复支付？](https://juejin.cn/post/7121554911229116430) | Mon Jul 18 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是老三，想必大家对在线支付都不陌生，今天和大家聊聊如何防止订单重复支付，业务+技术，看看都有什么要注意的。 
     </details> 
 
-- 🎡 [花三个小时，完全掌握分片渲染和虚拟列表～](https://juejin.cn/post/7121551701731409934) | Mon Jul 18 2022 3:38 AM 
+- 💪 [花三个小时，完全掌握分片渲染和虚拟列表～](https://juejin.cn/post/7121551701731409934) | Mon Jul 18 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是小杜杜，有关高性能，大数据量的列表渲染的示例已经非常常见，可以说是前端必须要了解的功能点，今天我们一起手写一下，看看如何去更好的实现～ 
-    </details> 
-
-- 🕯 [工程效能CI/CD之流水线引擎的建设实践](https://juejin.cn/post/7121543269783175199) | Mon Jul 18 2022 3:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。 
-    </details> 
-
-- 🚀 [leetcode  2341. Maximum Number of Pairs in Array（python）](https://juejin.cn/post/7121542804299317255) | Mon Jul 18 2022 3:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是 Weekly Contest 302的第一题，难度 Eazy ，主要考查的是使用计数器统计数组元素出现次数 
-    </details> 
-
-- 💪 [leetcode  1074. Number of Submatrices That Sum to Target（python）](https://juejin.cn/post/7121538615141728287) | Mon Jul 18 2022 2:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    leetcode 1074. Number of Submatrices That Sum to Target（python）考察前缀和 
     </details> 
 <!-- juejin:END -->
 ### 少数派
