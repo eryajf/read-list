@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [LiveData 还有学习的必要吗？—— Jetpack 系列（2）](https://juejin.cn/post/7121621553670225957) | Mon Jul 18 2022 8:09 AM 
+- 🤗 [749. 隔离病毒 : 搜索模拟题](https://juejin.cn/post/7121630734720335880) | Mon Jul 18 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-    虽然 LiveData 不再是主推的组件，但考虑到 LiveData 依然存在于大量存量代码中，以及 LiveData 伴随着 Android 生态发展过程中衍生的问题和解决方案，还存在一定的学习价值 
+    题目描述 这是 LeetCode 上的 749. 隔离病毒 ，难度为 困难。 Tag : 「模拟」、「图论搜索」、「BFS」 病毒扩散得很快，现在你的任务是尽可能地通过安装防火墙来隔离病毒。 假设世界 
     </details> 
 
-- 🎡 [MySql搭建主从复制](https://juejin.cn/post/7121615778444476424) | Mon Jul 18 2022 7:46 AM 
+- 🎡 [北漂在掘金的摸鱼日常-2022年中总结](https://juejin.cn/post/7121627339519328270) | Mon Jul 18 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    Mys主从复制，也称AB复制。允许将来自一个MySQL数据库服务器（主服务器）的数据复制到一个或多个MySQL数据库服务器&lpar;从服务器&rpar; 
+    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 前言 在北京漂久了其实没啥特别的感觉, 包括疫情, 对我来说就是一个月的居家以及每隔两天去做一次核酸而已, 当然这每天三十五度的高度也对我 
     </details> 
 
-- 🕯 [改善用户体验的404页面最佳实践](https://juejin.cn/post/7121603515898101790) | Mon Jul 18 2022 6:59 AM 
+- 🕯 [通向架子工的前端开发利器推荐](https://juejin.cn/post/7121620467097550879) | Mon Jul 18 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-    以下内容由摹客团队（设计1+2，摹客就够了）翻译整理，仅供学习交流。 无论一个网站设计得多好，时不时地，它可能会出现错误、漏洞和故障。此外，用户可能会输入错误的URL，或访问一个破碎的网站链接或页面， 
+    01：thunderclient: VSCode 中的 postman VSCode 的一个插件，在 VSCode 中管理请求资源，如同 postman 一样。 它支持与 postman 兼容的格式， 
     </details> 
 
-- 🚀 [基于 SPICE 协议的硬编推流整合方案在云游戏中的应用](https://juejin.cn/post/7121599537298276360) | Mon Jul 18 2022 6:45 AM 
+- 🚀 [用vite命令搭个react移动端项目，实现canvas碰撞效果（按需导入antd-mobile，pxtorem适配）](https://juejin.cn/post/7121604088021647368) | Mon Jul 18 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-    随着虚拟化技术如模拟器，容器化等技术等发展，在安卓云游戏/云手机场景中，可以在服务宿主侧虚拟出更多更小颗粒度的 Android 实例。 
+    前言 最近看见大家都在卷react源码，突然就心慌了。但是自己的操作水平还有待提高，现在看源码也需要循序渐进的，打算还是从写代码慢慢理解功能再去看源码。所以就尝试使用vite这个构建工具进行尝试构建一 
     </details> 
 
-- 💪 [数据库扩容也可以如此丝滑，MySQL千亿级数据生产环境扩容实战](https://juejin.cn/post/7121593515515068424) | Mon Jul 18 2022 6:20 AM 
+- 💪 [PUN网络同步：Object Synchronization](https://juejin.cn/post/7121566837740929055) | Mon Jul 18 2022 4:37 AM 
     <details><summary>展开描述 ...</summary> 
-    # 数据库平滑扩容 ## 目录 1：理解传统扩容实现方案 2：理解平滑扩容双写方案 3：掌握数据库2N扩容方案 4：实现数据库双主同步 5：掌握ShardingJDBC路由以及动态扩容技 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 新人博主,刚刚入驻平台,希望能和大家一起学习进步,博主更新Unity,VR开发方向的文章为主,希望感兴趣伙伴点赞关注,多多鼓励一下,谢谢0.0​​ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
