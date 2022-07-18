@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [工程效能CI/CD之流水线引擎的建设实践](https://juejin.cn/post/7121543269783175199) | Mon Jul 18 2022 3:05 AM 
+- 🤗 [如何防止订单重复支付？](https://juejin.cn/post/7121554911229116430) | Mon Jul 18 2022 3:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是老三，想必大家对在线支付都不陌生，今天和大家聊聊如何防止订单重复支付，业务+技术，看看都有什么要注意的。 
+    </details> 
+
+- 🎡 [花三个小时，完全掌握分片渲染和虚拟列表～](https://juejin.cn/post/7121551701731409934) | Mon Jul 18 2022 3:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是小杜杜，有关高性能，大数据量的列表渲染的示例已经非常常见，可以说是前端必须要了解的功能点，今天我们一起手写一下，看看如何去更好的实现～ 
+    </details> 
+
+- 🕯 [工程效能CI/CD之流水线引擎的建设实践](https://juejin.cn/post/7121543269783175199) | Mon Jul 18 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
     经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。 
     </details> 
 
-- 🎡 [leetcode  2341. Maximum Number of Pairs in Array（python）](https://juejin.cn/post/7121542804299317255) | Mon Jul 18 2022 3:04 AM 
+- 🚀 [leetcode  2341. Maximum Number of Pairs in Array（python）](https://juejin.cn/post/7121542804299317255) | Mon Jul 18 2022 3:04 AM 
     <details><summary>展开描述 ...</summary> 
     这是 Weekly Contest 302的第一题，难度 Eazy ，主要考查的是使用计数器统计数组元素出现次数 
     </details> 
 
-- 🕯 [leetcode  1074. Number of Submatrices That Sum to Target（python）](https://juejin.cn/post/7121538615141728287) | Mon Jul 18 2022 2:47 AM 
+- 💪 [leetcode  1074. Number of Submatrices That Sum to Target（python）](https://juejin.cn/post/7121538615141728287) | Mon Jul 18 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
     leetcode 1074. Number of Submatrices That Sum to Target（python）考察前缀和 
-    </details> 
-
-- 🚀 [聊一聊Go语言的反射机制](https://juejin.cn/post/7121536067978657822) | Mon Jul 18 2022 2:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    type（类型）用于定位需要反射对象的类型 value（值） 用来定位对象的值并进行操作 被修改的是数据对应的指针地址而非指针地址的value 不是结构体的中非公开字体 
-    </details> 
-
-- 💪 [C#is、as关键字及获取当前活动窗体的实例](https://juejin.cn/post/7121532165275254815) | Mon Jul 18 2022 2:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    这篇日志记录一下C#中is关键字及as关键字的用法。 Is ：判断检查对象是否与给定类型兼容 As ：将对象转换为指定类型（强转），就跟（int ）这样的用法是一样的。 获取当前窗体的活动子窗体。 有 
     </details> 
 <!-- juejin:END -->
 ### 少数派
