@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [gitee 离大谱了 这也被和谐？](https://www.v2ex.com/t/866950#reply5) | Mon Jul 18 2022 3:34 AM
-- 🤗 [bat 脚本 参数带等号问题 求解](https://www.v2ex.com/t/866945#reply6) | Mon Jul 18 2022 3:23 AM
-- 🎭 [ffmpeg 如何压缩 h.265 的视频不丢帧？](https://www.v2ex.com/t/866932#reply0) | Mon Jul 18 2022 2:55 AM
-- 🥷 [线程池，我是谁？我在哪儿？](https://www.v2ex.com/t/866923#reply0) | Mon Jul 18 2022 2:38 AM
-- 🐵 [flask 内能做跨域转发吗？](https://www.v2ex.com/t/866921#reply5) | Mon Jul 18 2022 2:33 AM<!-- v2ex:END -->
+- 🥸 [求问下各位大佬 general 互联网公司里还有 C++的生存空间吗？](https://www.v2ex.com/t/866968#reply2) | Mon Jul 18 2022 4:18 AM
+- 🤗 [请问 Springboot 相比于 Java 是不是类似 QT 相比于 C++？](https://www.v2ex.com/t/866963#reply3) | Mon Jul 18 2022 3:59 AM
+- 🎭 [有关 Linux 时区](https://www.v2ex.com/t/866959#reply3) | Mon Jul 18 2022 3:53 AM
+- 🥷 [增量/差异备份软件推荐](https://www.v2ex.com/t/866955#reply4) | Mon Jul 18 2022 3:49 AM
+- 🐵 [gitee 离大谱了 这也被和谐？](https://www.v2ex.com/t/866950#reply15) | Mon Jul 18 2022 3:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
