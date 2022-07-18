@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：英特尔以成本上涨为由计划涨价，FCC 提议提高宽带标准等](https://sspai.com/post/74312) | Mon Jul 18 2022 12:53 AM 
+- 👹 [用乐高，重现心目中那些「最伟大的作品」（下）](https://sspai.com/post/74309) | Mon Jul 18 2022 3:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    适逢周杰伦新专辑上线，更新上次没拍完的乐高翻拍。&lt;a href=&quot;https://sspai.com/post/74309&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：英特尔以成本上涨为由计划涨价，FCC 提议提高宽带标准等](https://sspai.com/post/74312) | Mon Jul 18 2022 12:53 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事英特尔以成本上涨为由计划涨价据《日经新闻》援引直接知情行业高管说法，英特尔以成本上升为由，计划在今年晚些时候提高大多数处理器和WiFi芯片等其他芯片产品的价格。该消息后经英特尔回复得 ...&lt;a href=&quot;https://sspai.com/post/74312&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [笔记本电脑太烫了？收下这份指南，你也可以清理它内部的灰尘](https://sspai.com/post/74307) | Sun Jul 17 2022 9:00 AM 
+- 🤭 [笔记本电脑太烫了？收下这份指南，你也可以清理它内部的灰尘](https://sspai.com/post/74307) | Sun Jul 17 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
     清理笔记本电脑内部其实并不难，掌握好这些步骤，你的笔记本电脑也有第二春。&lt;a href=&quot;https://sspai.com/post/74307&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本月玩什么 | 异度神剑 3、数码宝贝 绝境求生、时空勇士](https://sspai.com/post/74287) | Sun Jul 17 2022 7:00 AM 
+- 🥸 [本月玩什么 | 异度神剑 3、数码宝贝 绝境求生、时空勇士](https://sspai.com/post/74287) | Sun Jul 17 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     无聊了？本月这些新作值得一试。&lt;a href=&quot;https://sspai.com/post/74287&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [把握浏览器的「门面」：少数派作者们都在用什么启动页？](https://sspai.com/post/74276) | Sat Jul 16 2022 7:30 AM 
+- 🙉 [把握浏览器的「门面」：少数派作者们都在用什么启动页？](https://sspai.com/post/74276) | Sat Jul 16 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
     作为「网上冲浪」的第一站，浏览器启动页向来是许多人热衷于展现个性的地方。每个人对浏览器启动页的需求都不尽相同，有人偏爱实用、有人则更注重「颜值」。因此，我们邀请了6位少数派作者来分享一下他们自己在用什 ...&lt;a href=&quot;https://sspai.com/post/74276&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [真正的新生力量：从金曲奖最佳新人入围者看乐坛新风向](https://sspai.com/post/74289) | Sat Jul 16 2022 3:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    金曲奖向来是华语乐坛中分量最重、甚至是唯一真正有广泛影响力的音乐奖项。进入分众时代后，金曲奖可能选不出曾经红极华语世界的歌王歌后，作为审美在线的奖项，他们在发掘新人这件事上焕发了新的生机，许多来自小公司甚至独立发片的艺人依靠优质的作品收获了金曲奖的青睐，一朝提名天下知。这篇文章，我就借着疫情之后的第 31 至 33 届金曲奖最佳新人奖入围名单，聊聊我眼里这几年的风向变化。&lt;a href=&quot;https://sspai.com/post/74289&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
