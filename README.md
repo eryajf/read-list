@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊一聊Go语言的反射机制](https://juejin.cn/post/7121536067978657822) | Mon Jul 18 2022 2:37 AM 
+- 🤗 [工程效能CI/CD之流水线引擎的建设实践](https://juejin.cn/post/7121543269783175199) | Mon Jul 18 2022 3:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。 
+    </details> 
+
+- 🎡 [leetcode  2341. Maximum Number of Pairs in Array（python）](https://juejin.cn/post/7121542804299317255) | Mon Jul 18 2022 3:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是 Weekly Contest 302的第一题，难度 Eazy ，主要考查的是使用计数器统计数组元素出现次数 
+    </details> 
+
+- 🕯 [leetcode  1074. Number of Submatrices That Sum to Target（python）](https://juejin.cn/post/7121538615141728287) | Mon Jul 18 2022 2:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    leetcode 1074. Number of Submatrices That Sum to Target（python）考察前缀和 
+    </details> 
+
+- 🚀 [聊一聊Go语言的反射机制](https://juejin.cn/post/7121536067978657822) | Mon Jul 18 2022 2:37 AM 
     <details><summary>展开描述 ...</summary> 
     type（类型）用于定位需要反射对象的类型 value（值） 用来定位对象的值并进行操作 被修改的是数据对应的指针地址而非指针地址的value 不是结构体的中非公开字体 
     </details> 
 
-- 🎡 [C#is、as关键字及获取当前活动窗体的实例](https://juejin.cn/post/7121532165275254815) | Mon Jul 18 2022 2:22 AM 
+- 💪 [C#is、as关键字及获取当前活动窗体的实例](https://juejin.cn/post/7121532165275254815) | Mon Jul 18 2022 2:22 AM 
     <details><summary>展开描述 ...</summary> 
     这篇日志记录一下C#中is关键字及as关键字的用法。 Is ：判断检查对象是否与给定类型兼容 As ：将对象转换为指定类型（强转），就跟（int ）这样的用法是一样的。 获取当前窗体的活动子窗体。 有 
-    </details> 
-
-- 🕯 [超酷炫的转场动画？CSS 轻松拿下！](https://juejin.cn/post/7121531408778493989) | Mon Jul 18 2022 2:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    在 WeGame 的 PC 端官网首页，有着非常多制作精良的基于滚动的动画效果。 这里我简单截取其中 2 个比较有意思的转场动画，大家感受感受。转场动画 1： 转场动画 2： 是不是挺有意思的，整个动 
-    </details> 
-
-- 🚀 [可能改变前端工程化未来的特性：ESM Loader Hooks](https://juejin.cn/post/7121530011655340046) | Mon Jul 18 2022 2:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我卡颂。 在最近发布的Node v18.6.0中，带来了一个试验特性ESM Loader Hooks API。 如果他最终落地，很可能会成为改变前端工程化未来的特性。本文我们来聊聊他。 欢迎加 
-    </details> 
-
-- 💪 [AI识万物：从0搭建和部署手语识别系统](https://juejin.cn/post/7121528861750624270) | Mon Jul 18 2022 2:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    AI识万物 | 从0搭建和部署手语识别系统，检测手语并将翻译！搭建和部署完成后，你可以通过摄像头，轻松测试模型啦~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
