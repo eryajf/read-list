@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [中青宝回应“游戏版号”争议：网传内容不实](http://www.techweb.com.cn/it/2022-07-17/2898365.shtml) | Sun Jul 17 2022 8:39 AM
-- 👹 [中国雪糕进化史](http://www.techweb.com.cn/viewpoint/2022-07-17/2898361.shtml) | Sun Jul 17 2022 8:04 AM
-- 🪜 [泛林集团、Entegris 和 Gelest 携手推进 EUV 干膜光刻胶技术生态系统](http://www.techweb.com.cn/it/2022-07-17/2898359.shtml) | Sun Jul 17 2022 6:55 AM
-- 🤭 [被英特尔收购后 Tower半导体决定与Cadence合作推动汽车和移动IC芯片开发](http://www.techweb.com.cn/it/2022-07-17/2898358.shtml) | Sun Jul 17 2022 5:53 AM
-- 🙉 [马斯克：特斯拉汽车集成Steam平台取得进展 演示可能下个月公布](http://www.techweb.com.cn/smarttraveling/2022-07-17/2898357.shtml) | Sun Jul 17 2022 5:49 AM<!-- techweb-allnews:END -->
+- 👍 [微信聊天记录不全部删除会被封群？官方辟谣：假的](http://www.techweb.com.cn/internet/2022-07-18/2898384.shtml) | Mon Jul 18 2022 1:20 AM
+- 👹 [阿里云为何要提出“坚持伙伴优先”战略？](http://www.techweb.com.cn/viewpoint/2022-07-18/2898381.shtml) | Mon Jul 18 2022 1:17 AM
+- 🪜 [中青宝回应“游戏版号”争议：网传内容不实](http://www.techweb.com.cn/it/2022-07-17/2898365.shtml) | Sun Jul 17 2022 8:39 AM
+- 🤭 [中国雪糕进化史](http://www.techweb.com.cn/viewpoint/2022-07-17/2898361.shtml) | Sun Jul 17 2022 8:04 AM
+- 🙉 [泛林集团、Entegris 和 Gelest 携手推进 EUV 干膜光刻胶技术生态系统](http://www.techweb.com.cn/it/2022-07-17/2898359.shtml) | Sun Jul 17 2022 6:55 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
