@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [寻鲜中国好农货 150万网友进拼多多直播间购武陵好物](http://www.techweb.com.cn/it/2022-07-18/2898497.shtml) | Mon Jul 18 2022 9:47 AM
-- 👹 [地方政府造车幻觉：上海行，合肥行，我也行](http://www.techweb.com.cn/viewpoint/2022-07-18/2898496.shtml) | Mon Jul 18 2022 9:34 AM
-- 🪜 [华为汪涛：持续创新 全面迈向5.5G时代](http://www.techweb.com.cn/it/2022-07-18/2898491.shtml) | Mon Jul 18 2022 9:21 AM
-- 🤭 [外媒：上汽通用五菱可能会在印尼增加生产电动汽车零部件](http://www.techweb.com.cn/world/2022-07-18/2898490.shtml) | Mon Jul 18 2022 9:07 AM
-- 🙉 [外媒：星巴克正在考虑出售英国业务](http://www.techweb.com.cn/world/2022-07-18/2898489.shtml) | Mon Jul 18 2022 9:06 AM<!-- techweb-allnews:END -->
+- 👍 [F5安全事业部陈亮：IT和OT融合助推边缘部署安全需求爆发](http://www.techweb.com.cn/it/2022-07-18/2898504.shtml) | Mon Jul 18 2022 10:08 AM
+- 👹 [绿盟科技发布白皮书：理清企业供应链依赖关系是确保软件供应链安全的关键](http://www.techweb.com.cn/it/2022-07-18/2898503.shtml) | Mon Jul 18 2022 10:06 AM
+- 🪜 [土巴兔第十四个“718”：全民家装节已打造成家装界最大IP](http://www.techweb.com.cn/it/2022-07-18/2898502.shtml) | Mon Jul 18 2022 10:02 AM
+- 🤭 [歌尔股份：与米哈游、三七互娱签订合伙协议 拟合计认缴5.6亿元开展创业投资活动](http://www.techweb.com.cn/finance/2022-07-18/2898501.shtml) | Mon Jul 18 2022 9:59 AM
+- 🙉 [iPhone 14预计9月13日发布 但iPhone 13目前销量依旧可观](http://www.techweb.com.cn/world/2022-07-18/2898498.shtml) | Mon Jul 18 2022 9:56 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
