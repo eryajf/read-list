@@ -203,8 +203,8 @@
 
 <!-- v2ex:START -->
 - 🥸 [问问有没有肥友有兴趣一起继续开发 SuperSpineViewer 的](https://www.v2ex.com/t/867136#reply0) | Mon Jul 18 2022 4:03 PM
-- 🤗 [一个 ip 根据 url，配置 3 个平台](https://www.v2ex.com/t/867133#reply1) | Mon Jul 18 2022 3:58 PM
-- 🎭 [typescript 中声明一个类型, 是用 Interface 还是 Type 呢?](https://www.v2ex.com/t/867120#reply12) | Mon Jul 18 2022 2:31 PM
+- 🤗 [一个 ip 根据 url，配置 3 个平台](https://www.v2ex.com/t/867133#reply2) | Mon Jul 18 2022 3:58 PM
+- 🎭 [typescript 中声明一个类型, 是用 Interface 还是 Type 呢?](https://www.v2ex.com/t/867120#reply15) | Mon Jul 18 2022 2:31 PM
 - 🥷 [小白写的一个并发判断函数，请问有没有什么可以优化的地方](https://www.v2ex.com/t/867118#reply3) | Mon Jul 18 2022 2:22 PM
 - 🐵 [curve25519 上的点不到 2^253 个,为什么公钥有 32 字节 256bit？](https://www.v2ex.com/t/867117#reply1) | Mon Jul 18 2022 2:22 PM<!-- v2ex:END -->
 
