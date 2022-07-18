@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [F5安全事业部陈亮：IT和OT融合助推边缘部署安全需求爆发](http://www.techweb.com.cn/it/2022-07-18/2898504.shtml) | Mon Jul 18 2022 10:08 AM
-- 👹 [绿盟科技发布白皮书：理清企业供应链依赖关系是确保软件供应链安全的关键](http://www.techweb.com.cn/it/2022-07-18/2898503.shtml) | Mon Jul 18 2022 10:06 AM
-- 🪜 [土巴兔第十四个“718”：全民家装节已打造成家装界最大IP](http://www.techweb.com.cn/it/2022-07-18/2898502.shtml) | Mon Jul 18 2022 10:02 AM
-- 🤭 [歌尔股份：与米哈游、三七互娱签订合伙协议 拟合计认缴5.6亿元开展创业投资活动](http://www.techweb.com.cn/finance/2022-07-18/2898501.shtml) | Mon Jul 18 2022 9:59 AM
-- 🙉 [iPhone 14预计9月13日发布 但iPhone 13目前销量依旧可观](http://www.techweb.com.cn/world/2022-07-18/2898498.shtml) | Mon Jul 18 2022 9:56 AM<!-- techweb-allnews:END -->
+- 👍 [华为发布全新智能云网2.0解决方案，助力运营商DICT新增长](http://www.techweb.com.cn/it/2022-07-18/2898516.shtml) | Mon Jul 18 2022 1:13 PM
+- 👹 [亚马逊云科技陈晓建：数据也有冷热，如何存储才能更省更快？](http://www.techweb.com.cn/it/2022-07-18/2898514.shtml) | Mon Jul 18 2022 12:38 PM
+- 🪜 [Google 版 emoji 猜词游戏，助家长引导孩子安全上网](http://www.techweb.com.cn/it/2022-07-18/2898513.shtml) | Mon Jul 18 2022 12:35 PM
+- 🤭 [F5安全事业部陈亮：IT和OT融合助推边缘部署安全需求爆发](http://www.techweb.com.cn/it/2022-07-18/2898504.shtml) | Mon Jul 18 2022 10:08 AM
+- 🙉 [绿盟科技发布白皮书：理清企业供应链依赖关系是确保软件供应链安全的关键](http://www.techweb.com.cn/it/2022-07-18/2898503.shtml) | Mon Jul 18 2022 10:06 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
