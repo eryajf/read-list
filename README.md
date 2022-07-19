@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [苹果公司明年也将放慢招聘速度 美股市场走弱](http://www.techweb.com.cn/world/2022-07-19/2898640.shtml) | Tue Jul 19 2022 7:33 AM
-- 👹 [阿里鱼与三丽鸥签署主授权协议 未来五年独家开发Hello Kitty等系列商品](http://www.techweb.com.cn/it/2022-07-19/2898638.shtml) | Tue Jul 19 2022 7:29 AM
-- 🪜 [B站上线防网暴专项 发布一键取证等多项功能](http://www.techweb.com.cn/internet/2022-07-19/2898636.shtml) | Tue Jul 19 2022 7:15 AM
-- 🤭 [推特指责马斯克拖延诉讼 以达到阻止完成440亿美元收购交易目的](http://www.techweb.com.cn/world/2022-07-19/2898633.shtml) | Tue Jul 19 2022 7:06 AM
-- 🙉 [消息称SK海力士已推迟清州工厂扩建计划 因全球经济不确定性增加](http://www.techweb.com.cn/world/2022-07-19/2898632.shtml) | Tue Jul 19 2022 7:02 AM<!-- techweb-allnews:END -->
+- 👍 [华为丁耘：能效提升能够实现‘发展’与‘绿色’的和谐共生](http://www.techweb.com.cn/it/2022-07-19/2898652.shtml) | Tue Jul 19 2022 8:56 AM
+- 👹 [消息称马斯克计划在未来几天对推特发起反诉 试图放弃收购推特](http://www.techweb.com.cn/world/2022-07-19/2898649.shtml) | Tue Jul 19 2022 8:48 AM
+- 🪜 [1000亿韩元授权费被拒绝后 三星已减少从京东方采购液晶电视面板](http://www.techweb.com.cn/world/2022-07-19/2898646.shtml) | Tue Jul 19 2022 8:32 AM
+- 🤭 [台媒：高通、Marvell、英特尔以及台积电将提高芯片价格](http://www.techweb.com.cn/world/2022-07-19/2898643.shtml) | Tue Jul 19 2022 7:57 AM
+- 🙉 [苹果Apple Pay被指控违反反垄断法 阻止竞争对手在iPhone提供点击支付](http://www.techweb.com.cn/world/2022-07-19/2898642.shtml) | Tue Jul 19 2022 7:55 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
