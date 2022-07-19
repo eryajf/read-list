@@ -226,14 +226,14 @@
     题目描述 这是 LeetCode 上的 2213. 由单个字符重复的最长子字符串 ，难度为 困难。 Tag : 「区间求和」、「线段树」 给你一个下标从 $0$ 开始的字符串 s 。另给你一个下标从  
     </details> 
 
-- 🚀 [支持SwiftUI！Swift版图片&amp;视频浏览器-JFHeroBrowser上线啦](https://juejin.cn/post/7121926583786405902) | Tue Jul 19 2022 3:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    iOS下类似的图片浏览器已经开源了不少。但是作为一个六七年的老iOS开发者，还是忍不住撸了一个Swift版的图片浏览组件。偏向更Swifty的方式，如果你想深入学习Swift,我相信你会有不同的体验。 
-    </details> 
-
-- 💪 [用 JavaScript 复原何同学B站头图、对前端构建工具的一些理解、弹幕的常规设计与实现 丨酱酱的下午茶第31期](https://juejin.cn/post/7121924949740093454) | Tue Jul 19 2022 3:46 AM 
+- 🚀 [用 JavaScript 复原何同学B站头图、对前端构建工具的一些理解、弹幕的常规设计与实现 丨酱酱的下午茶第31期](https://juejin.cn/post/7121924949740093454) | Tue Jul 19 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
     本期下午茶看点：用 JavaScript 复原何同学B站头图、对前端构建工具的一些理解、弹幕的常规设计与实现、如何在JavaScript中判断两个值相等&lpar;有坑&rpar;.... 
+    </details> 
+
+- 💪 [通过 for 循环，比较 Python 与 Ruby 编程思想的差别](https://juejin.cn/post/7121923422426562596) | Tue Jul 19 2022 3:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    Ruby 与 Python 之间的差异在很大程度上可通过for循环看出本质。 Python 拥有for语句。对象告诉for如何进行协作，而for的循环体会处理对象返回的内容。 Ruby 则相反。在 R 
     </details> 
 <!-- juejin:END -->
 ### 少数派
