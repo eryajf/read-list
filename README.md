@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [华为发布全新智能云网2.0解决方案，助力运营商DICT新增长](http://www.techweb.com.cn/it/2022-07-18/2898516.shtml) | Mon Jul 18 2022 1:13 PM
-- 👹 [亚马逊云科技陈晓建：数据也有冷热，如何存储才能更省更快？](http://www.techweb.com.cn/it/2022-07-18/2898514.shtml) | Mon Jul 18 2022 12:38 PM
-- 🪜 [Google 版 emoji 猜词游戏，助家长引导孩子安全上网](http://www.techweb.com.cn/it/2022-07-18/2898513.shtml) | Mon Jul 18 2022 12:35 PM
-- 🤭 [F5安全事业部陈亮：IT和OT融合助推边缘部署安全需求爆发](http://www.techweb.com.cn/it/2022-07-18/2898504.shtml) | Mon Jul 18 2022 10:08 AM
-- 🙉 [绿盟科技发布白皮书：理清企业供应链依赖关系是确保软件供应链安全的关键](http://www.techweb.com.cn/it/2022-07-18/2898503.shtml) | Mon Jul 18 2022 10:06 AM<!-- techweb-allnews:END -->
+- 👍 [韵达股份：6月快递服务业务收入41.40亿元，同比增长25.11%](http://www.techweb.com.cn/it/2022-07-19/2898560.shtml) | Tue Jul 19 2022 1:33 AM
+- 👹 [互联网“第一股”拉响退市警报](http://www.techweb.com.cn/viewpoint/2022-07-19/2898559.shtml) | Tue Jul 19 2022 1:31 AM
+- 🪜 [谷歌“背刺”亚马逊、 美团京东试水无人配送 全球科技巨头抢滩即时零售](http://www.techweb.com.cn/viewpoint/2022-07-19/2898557.shtml) | Tue Jul 19 2022 1:26 AM
+- 🤭 [顺丰控股：6月份速运物流业务营业收入161.25亿元 同比增长11.16%](http://www.techweb.com.cn/it/2022-07-19/2898550.shtml) | Tue Jul 19 2022 1:22 AM
+- 🙉 [爱奇艺和抖音集团达成合作 围绕长视频内容二次创作、推广等展开探索](http://www.techweb.com.cn/it/2022-07-19/2898539.shtml) | Tue Jul 19 2022 1:13 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
