@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：哔哩哔哩将展示账号 IP 归属地、小米公布虚拟角色繁殖专利等](https://sspai.com/post/74340) | Tue Jul 19 2022 1:02 AM 
+- 👹 [「一颗柠檬戴着墨镜在沙滩上休息」—— 人工智能请创作](https://sspai.com/post/74302) | Tue Jul 19 2022 6:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74302&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：哔哩哔哩将展示账号 IP 归属地、小米公布虚拟角色繁殖专利等](https://sspai.com/post/74340) | Tue Jul 19 2022 1:02 AM 
     <details><summary>展开描述 ...</summary> 
     山灵音响发布 EM7 桌面级播放器，小米多款手机停止 MIUI 开发版申请等。&lt;a href=&quot;https://sspai.com/post/74340&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派评 | 近期值得关注的 App](https://sspai.com/post/74336) | Mon Jul 18 2022 10:11 AM 
+- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/74336) | Mon Jul 18 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/74336&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [用快捷指令实现一键拼图](https://sspai.com/prime/story/shortcut-collage-howto) | Mon Jul 18 2022 8:05 AM 
+- 🥸 [用快捷指令实现一键拼图](https://sspai.com/prime/story/shortcut-collage-howto) | Mon Jul 18 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     作为公众号运营，从我派首页往公众号后台搬运文章的时候总会遇到一个问题：公众号后台不兼容首页编辑器制作的拼图。经过十分钟的折腾之后，我不但用快捷指令解决了问题，还加入了自动识别拼图方向、自动清除图片的功能。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/shortcut-collage-howto&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [从 macOS 迁移到 Windows，我用这 6 个软件度过「阵痛期」](https://sspai.com/post/74329) | Mon Jul 18 2022 6:30 AM 
+- 🙉 [从 macOS 迁移到 Windows，我用这 6 个软件度过「阵痛期」](https://sspai.com/post/74329) | Mon Jul 18 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     在拿到 Windows 的兴奋劲儿过去以后，一些烦恼随之而来……&lt;a href=&quot;https://sspai.com/post/74329&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [用乐高，重现心目中那些「最伟大的作品」（下）](https://sspai.com/post/74309) | Mon Jul 18 2022 3:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    适逢周杰伦新专辑上线，更新上次没拍完的乐高翻拍。&lt;a href=&quot;https://sspai.com/post/74309&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
