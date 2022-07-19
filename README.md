@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750791) | Mon Jul 18 2022 12:27 AM
-- 🐻 [全球都在主推新能源汽车大趋势下，传统汽车动力系统还有继续投入研发的必要么？](http://daily.zhihu.com/story/9750782) | Mon Jul 18 2022 12:27 AM
-- 🌏 [为什么马的腿断了必须死？](http://daily.zhihu.com/story/9750776) | Mon Jul 18 2022 12:27 AM
-- 🕴 [火星探测近年都有哪些新发现？](http://daily.zhihu.com/story/9750767) | Mon Jul 18 2022 12:27 AM
-- 🌮 [为什么徒手打苍蝇很困难？苍蝇的比蚊子更敏感吗？](http://daily.zhihu.com/story/9750764) | Mon Jul 18 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750839) | Tue Jul 19 2022 12:27 AM
+- 🐻 [《大话西游》紫霞真的爱至尊宝吗？](http://daily.zhihu.com/story/9750797) | Tue Jul 19 2022 12:27 AM
+- 🌏 [喜欢看《西部世界》的人都有什么特点？](http://daily.zhihu.com/story/9750811) | Tue Jul 19 2022 12:27 AM
+- 🕴 [美洲古代的绘画是怎样的？](http://daily.zhihu.com/story/9750817) | Tue Jul 19 2022 12:27 AM
+- 🌮 [高楼大厦为何屹立不倒？承重柱抗住这么大的压力，是怎么做到的？](http://daily.zhihu.com/story/9750829) | Tue Jul 19 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
