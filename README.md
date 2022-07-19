@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [现今 Swift 包中的二进制目标](https://juejin.cn/post/7121906668169854983) | Tue Jul 19 2022 2:35 AM 
+- 🤗 [百度APP Android包体积优化实践（一）总览](https://juejin.cn/post/7121938110585241630) | Tue Jul 19 2022 4:38 AM 
     <details><summary>展开描述 ...</summary> 
-    在 iOS 和 macOS 开发中， Swift 包现在变得越来越重要。Apple 已经努力推动桥接那些缝隙，并且修复那些阻碍开发者 
+    本文主要介绍了百度APP 包体积优化的基本思路，解构了优化对象，介绍了现有优化工具，最后简单介绍了百度APP 具体实践的优化项及收益。 
     </details> 
 
-- 🎡 [springboot通用分支处理---还在硬编码特殊处理逻辑？超级管理员不应该被区别对待](https://juejin.cn/post/7121903722099114015) | Tue Jul 19 2022 2:24 AM 
+- 🎡 [731. 我的日程安排表 II : 线段树（动态开点）的两种方式](https://juejin.cn/post/7121934179549478925) | Tue Jul 19 2022 4:23 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 当引入登录模块后我们需要做菜单。而菜单自然需要权限的参与，我们在springboot中设计的权限细粒度还算是比较细的。当我们查询菜单是需要根据权限查找对应的菜单。但是在springboot中我设 
+    题目描述 这是 LeetCode 上的 731. 我的日程安排表 II ，难度为 中等。 Tag : 「线段树（动态开点）」、「线段树」 实现一个 MyCalendar 类来存放你的日程安排。如果要添 
     </details> 
 
-- 🕯 [反射技巧让你的性能提升N倍](https://juejin.cn/post/7121901090332737572) | Tue Jul 19 2022 2:13 AM 
+- 🕯 [【综合笔试题】难度 4/5，字符处理的线段树经典运用](https://juejin.cn/post/7121933279166464007) | Tue Jul 19 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
-    这个反射技巧可能让你的性能提升 N 倍，isAccessible 方法的作用，为什么将 Accessible 设置为 true 可以提升性能 
+    题目描述 这是 LeetCode 上的 2213. 由单个字符重复的最长子字符串 ，难度为 困难。 Tag : 「区间求和」、「线段树」 给你一个下标从 $0$ 开始的字符串 s 。另给你一个下标从  
     </details> 
 
-- 🚀 [【开发工具】【JTAG】JTAG调试实例【三】](https://juejin.cn/post/7121898070324805640) | Tue Jul 19 2022 2:02 AM 
+- 🚀 [支持SwiftUI！Swift版图片&amp;视频浏览器-JFHeroBrowser上线啦](https://juejin.cn/post/7121926583786405902) | Tue Jul 19 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-    JTAG调试实例 本文以DM8168芯片为例，使用XDS560仿真器，对JTAG进行调试。..... 
+    iOS下类似的图片浏览器已经开源了不少。但是作为一个六七年的老iOS开发者，还是忍不住撸了一个Swift版的图片浏览组件。偏向更Swifty的方式，如果你想深入学习Swift,我相信你会有不同的体验。 
     </details> 
 
-- 💪 [性能提升30倍丨基于 DolphinDB 的 mytt 指标库实现](https://juejin.cn/post/7121891124892925989) | Tue Jul 19 2022 1:35 AM 
+- 💪 [用 JavaScript 复原何同学B站头图、对前端构建工具的一些理解、弹幕的常规设计与实现 丨酱酱的下午茶第31期](https://juejin.cn/post/7121924949740093454) | Tue Jul 19 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-    DolphinDB mytt module 中的计算函数不仅在批处理中性能有大幅提升，而且支持 DolphinDB 的流式增量计算引擎，可以直接用于实时流计算场景。 
+    本期下午茶看点：用 JavaScript 复原何同学B站头图、对前端构建工具的一些理解、弹幕的常规设计与实现、如何在JavaScript中判断两个值相等&lpar;有坑&rpar;.... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
