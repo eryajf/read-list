@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vivo官网APP全机型UI适配方案](https://juejin.cn/post/7121888135599882254) | Tue Jul 19 2022 1:24 AM 
+- 🤗 [现今 Swift 包中的二进制目标](https://juejin.cn/post/7121906668169854983) | Tue Jul 19 2022 2:35 AM 
     <details><summary>展开描述 ...</summary> 
-    日益新增的机型，给开发人员带来了很多的适配工作。代码能不能统一、apk能不能统一、物料如何选取、样式怎么展示等等都是困扰开发人员的问题，本方案就是介绍不同机型的共线方案，打消开发人员的疑虑。 
+    在 iOS 和 macOS 开发中， Swift 包现在变得越来越重要。Apple 已经努力推动桥接那些缝隙，并且修复那些阻碍开发者 
     </details> 
 
-- 🎡 [滚蛋吧小广告！我现在用命令行解压缩；当哥白尼遇上人工智能；一份傲娇的深度学习技术清单；一个视频尽览旷视20项前沿技术 | ShowMeAI资讯日报](https://juejin.cn/post/7121888236300926983) | Tue Jul 19 2022 1:23 AM 
+- 🎡 [springboot通用分支处理---还在硬编码特殊处理逻辑？超级管理员不应该被区别对待](https://juejin.cn/post/7121903722099114015) | Tue Jul 19 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 07-19 期，旷视技术开放日视频B站合辑，Asent 基于spaCy的情感分析库，AQP 音频质量评估，Gorse 开源推荐系统，深度学习进阶课，前沿论文… 
+    前言 当引入登录模块后我们需要做菜单。而菜单自然需要权限的参与，我们在springboot中设计的权限细粒度还算是比较细的。当我们查询菜单是需要根据权限查找对应的菜单。但是在springboot中我设 
     </details> 
 
-- 🕯 [五分钟给你的 gRPC服务 加上 HTTP 接口](https://juejin.cn/post/7121888092960587784) | Tue Jul 19 2022 1:23 AM 
+- 🕯 [反射技巧让你的性能提升N倍](https://juejin.cn/post/7121901090332737572) | Tue Jul 19 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    gRPC 服务要加 HTTP 接口？ go-zero 给大家带来极简的 RESTful 和 gRPC 服务开发体验的同时，我想只写一次代码 既要 gRPC 接口 也要 HTTP 接口 
+    这个反射技巧可能让你的性能提升 N 倍，isAccessible 方法的作用，为什么将 Accessible 设置为 true 可以提升性能 
     </details> 
 
-- 🚀 [来自NPM联合创始人的预言：前端未来会这样](https://juejin.cn/post/7121883671413391373) | Tue Jul 19 2022 1:06 AM 
+- 🚀 [【开发工具】【JTAG】JTAG调试实例【三】](https://juejin.cn/post/7121898070324805640) | Tue Jul 19 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我卡颂。 在WWC22上，NPM联合创始人（当前是Netlify的数据分析师）Laurie Voss发表了对web开发未来发展方向的预测演讲。 本文让我们来看看这位有26年web开发经验的数据 
+    JTAG调试实例 本文以DM8168芯片为例，使用XDS560仿真器，对JTAG进行调试。..... 
     </details> 
 
-- 💪 [在IDEA里下个五子棋不过分吧？](https://juejin.cn/post/7121879303192576037) | Tue Jul 19 2022 12:50 AM 
+- 💪 [性能提升30倍丨基于 DolphinDB 的 mytt 指标库实现](https://juejin.cn/post/7121891124892925989) | Tue Jul 19 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是二哥呀！ 今天给大家分享一个基于Netty的IDEA即时聊天插件，可以实现即时聊天、游戏对战（下棋）。 安装体验 打开 Intellij IDEA，依次 Preference &gt; Plug 
+    DolphinDB mytt module 中的计算函数不仅在批处理中性能有大幅提升，而且支持 DolphinDB 的流式增量计算引擎，可以直接用于实时流计算场景。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
