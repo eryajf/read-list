@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [马斯克：已将自己的大脑上传云端 并和虚拟版自己交谈](http://www.techweb.com.cn/it/2022-07-19/2898618.shtml) | Tue Jul 19 2022 6:08 AM
-- 👹 [400多名乐视员工过着“没有老板的神仙日子”](http://www.techweb.com.cn/shipin/2022-07-19/2898610.shtml) | Tue Jul 19 2022 5:59 AM
-- 🪜 [字节正大量招聘芯片工程师 字节跳动或准备自研芯片](http://www.techweb.com.cn/shipin/2022-07-19/2898609.shtml) | Tue Jul 19 2022 5:57 AM
-- 🤭 [苹果：2023年放缓部分团队招聘和支出](http://www.techweb.com.cn/shipin/2022-07-19/2898608.shtml) | Tue Jul 19 2022 5:54 AM
-- 🙉 [芯擎科技完成近十亿元A轮融资](http://www.techweb.com.cn/finance/2022-07-19/2898607.shtml) | Tue Jul 19 2022 5:52 AM<!-- techweb-allnews:END -->
+- 👍 [苹果公司明年也将放慢招聘速度 美股市场走弱](http://www.techweb.com.cn/world/2022-07-19/2898640.shtml) | Tue Jul 19 2022 7:33 AM
+- 👹 [阿里鱼与三丽鸥签署主授权协议 未来五年独家开发Hello Kitty等系列商品](http://www.techweb.com.cn/it/2022-07-19/2898638.shtml) | Tue Jul 19 2022 7:29 AM
+- 🪜 [B站上线防网暴专项 发布一键取证等多项功能](http://www.techweb.com.cn/internet/2022-07-19/2898636.shtml) | Tue Jul 19 2022 7:15 AM
+- 🤭 [推特指责马斯克拖延诉讼 以达到阻止完成440亿美元收购交易目的](http://www.techweb.com.cn/world/2022-07-19/2898633.shtml) | Tue Jul 19 2022 7:06 AM
+- 🙉 [消息称SK海力士已推迟清州工厂扩建计划 因全球经济不确定性增加](http://www.techweb.com.cn/world/2022-07-19/2898632.shtml) | Tue Jul 19 2022 7:02 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
