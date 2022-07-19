@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [即将开幕！XDC 2022 亮点全揭晓！](https://juejin.cn/post/7121994677598814222) | Tue Jul 19 2022 8:16 AM 
+- 🤗 [Android 面试题：为什么 Activity 都重建了 ViewModel 还存在？—— Jetpack 系列（3）](https://juejin.cn/post/7121998366103306254) | Tue Jul 19 2022 8:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    ViewModel 是 Jetpack 组件中较常用的组件之一，也是实现 MVVM 模式或 MVI 模式的标准组件之一。 
+    </details> 
+
+- 🎡 [必须收藏！双目立体匹配算法：Patch Match Stereo实用详解教程](https://juejin.cn/post/7121997620163117093) | Tue Jul 19 2022 8:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    原文链接：必须收藏！双目立体匹配算法：Patch Match Stereo实用详解教程 01 简介 我们知道，现有立体匹配算法一般被分类为局部算法、全局算法和半全局算法，其中局部算法和半全局算法是应用 
+    </details> 
+
+- 🕯 [即将开幕！XDC 2022 亮点全揭晓！](https://juejin.cn/post/7121994677598814222) | Tue Jul 19 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
     历经 4 个月的精心打磨，连接中外技术生态，与上百位海内外技术专家深度交流，在 120 多个充满着不确定性的日夜中找寻着确定，只为了 7 月 22、23 日 2 天的精彩绽放。 
     </details> 
 
-- 🎡 [JS模板编译的实现](https://juejin.cn/post/7121991859596951589) | Tue Jul 19 2022 8:06 AM 
+- 🚀 [JS模板编译的实现](https://juejin.cn/post/7121991859596951589) | Tue Jul 19 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
     编译是一种格式变成另一种格式的过程。编译会导致好的结果，比如书写简单的代码，编译出来复杂的代码；或者提高代码的使用性能。 这里只聊聊模板编译。 模板编译的简单实现 写一个最简单的模板 这个模板用数据  
     </details> 
 
-- 🕯 [如何在 React Native App 中，为 PagerView 自定义 TabBar](https://juejin.cn/post/7121979174411042853) | Tue Jul 19 2022 7:16 AM 
+- 💪 [&lpar;五&rpar;网络编程之流量接入层设计：基于性能怪兽从零构建日均亿级吞吐量的网关架构！](https://juejin.cn/post/7121990433084801061) | Tue Jul 19 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-    本文手把手教你如何在 React Native App 中，为 PagerView 自定义一个丝滑的 TabBar，让你在面对同类需求时，游刃有余。 
-    </details> 
-
-- 🚀 [权限系统就该这么设计，yyds](https://juejin.cn/post/7121977695197970463) | Tue Jul 19 2022 7:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    这篇文章就来介绍一下权限系统的设计以及主流的五种权限模型。 权限管控可以通俗的理解为权力限制，即不同的人由于拥有不同权力，他所看到的、能使用的可能不一样。对应到一个应用系统，其实就是一个用户可能拥有不 
-    </details> 
-
-- 💪 [Vue3+Node实现一个WebSocket即时通讯聊天室](https://juejin.cn/post/7121968464234823694) | Tue Jul 19 2022 6:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    这篇文章主要是用WebSocket技术实现一个即时通讯聊天室。从0到1一步一步的编写所有代码，上手容易 
+    如果你是前端，看完本文会让你认识到后端世界的庞大； 如果你是后端，看完本文会让你面试造火箭更上一层楼。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
