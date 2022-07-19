@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [百度APP Android包体积优化实践（一）总览](https://juejin.cn/post/7121938110585241630) | Tue Jul 19 2022 4:38 AM 
+- 🤗 [Easy-KeyValue：让 Android Java 项目不再 KV 满天飞](https://juejin.cn/post/7121955840319291428) | Tue Jul 19 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍了百度APP 包体积优化的基本思路，解构了优化对象，介绍了现有优化工具，最后简单介绍了百度APP 具体实践的优化项及收益。 
+    像 Kotlin “属性代理” 一样简明易用，使 Android Java 项目 key、value、get、put、init 缩减为一，不再 “KV 满天飞”。 
     </details> 
 
-- 🎡 [731. 我的日程安排表 II : 线段树（动态开点）的两种方式](https://juejin.cn/post/7121934179549478925) | Tue Jul 19 2022 4:23 AM 
+- 🎡 [图解Kafka的RecordBatch结构](https://juejin.cn/post/7121939963981398023) | Tue Jul 19 2022 4:45 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 731. 我的日程安排表 II ，难度为 中等。 Tag : 「线段树（动态开点）」、「线段树」 实现一个 MyCalendar 类来存放你的日程安排。如果要添 
+    Kafka的RecordBatch结构 阅读完本文你大概会获得以下知识 什么时候执行消息的压缩操作 RecordBatch结构图图解 
     </details> 
 
-- 🕯 [【综合笔试题】难度 4/5，字符处理的线段树经典运用](https://juejin.cn/post/7121933279166464007) | Tue Jul 19 2022 4:19 AM 
+- 🕯 [从0到1纯手工打造前端框架](https://juejin.cn/entry/7121929695070781470) | Tue Jul 19 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 2213. 由单个字符重复的最长子字符串 ，难度为 困难。 Tag : 「区间求和」、「线段树」 给你一个下标从 $0$ 开始的字符串 s 。另给你一个下标从  
+    借助ES6现有能力，将松散无序的模块转换成一颗有序树，实现节点之间的通信，DOM更新等操作，从0到1纯手工打造一套前端框架，以简单的视角去窥视框架的本质。 
     </details> 
 
-- 🚀 [用 JavaScript 复原何同学B站头图、对前端构建工具的一些理解、弹幕的常规设计与实现 丨酱酱的下午茶第31期](https://juejin.cn/post/7121924949740093454) | Tue Jul 19 2022 3:46 AM 
+- 🚀 [JavaScript 3D Library——Three.js入门](https://juejin.cn/entry/7121929670517817357) | Tue Jul 19 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
-    本期下午茶看点：用 JavaScript 复原何同学B站头图、对前端构建工具的一些理解、弹幕的常规设计与实现、如何在JavaScript中判断两个值相等&lpar;有坑&rpar;.... 
+    简单点的说法：WebGL可以看成是浏览器给我们提供的接口，在JavaScript 中可以直接用这些API进行3D图形的绘制；而three.js就是在这些接口上又帮我们封装得更好用一些。 
     </details> 
 
-- 💪 [通过 for 循环，比较 Python 与 Ruby 编程思想的差别](https://juejin.cn/post/7121923422426562596) | Tue Jul 19 2022 3:40 AM 
+- 💪 [从零开始整一个Node CLI程序](https://juejin.cn/entry/7121929619682361374) | Tue Jul 19 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
-    Ruby 与 Python 之间的差异在很大程度上可通过for循环看出本质。 Python 拥有for语句。对象告诉for如何进行协作，而for的循环体会处理对象返回的内容。 Ruby 则相反。在 R 
+    命令行界面（英语：Command-Line Interface，缩写：CLI）是在图形用户界面得到普及之前使用最为广泛的用户界面。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
