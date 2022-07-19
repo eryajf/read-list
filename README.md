@@ -202,7 +202,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [C++14 中如何方便地将 tuple 展开成为另一个 class 的 variadic template](https://www.v2ex.com/t/867415#reply0) | Tue Jul 19 2022 8:02 PM
+- 🥸 [C++14 中如何方便地将 tuple 展开成为另一个 class 的 variadic template](https://www.v2ex.com/t/867415#reply1) | Tue Jul 19 2022 8:02 PM
 - 🤗 [请教下关于拷贝构造函数的问题](https://www.v2ex.com/t/867406#reply2) | Tue Jul 19 2022 4:53 PM
 - 🎭 [5950X PVE 家庭服务器 开机了](https://www.v2ex.com/t/867405#reply7) | Tue Jul 19 2022 4:26 PM
 - 🥷 [G Suite legacy free edition 升级后已成功降级](https://www.v2ex.com/t/867404#reply4) | Tue Jul 19 2022 4:12 PM
