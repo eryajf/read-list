@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [国产特斯拉上半年出口9.7万辆 在新能源车出口量中占比过半](http://www.techweb.com.cn/world/2022-07-19/2898602.shtml) | Tue Jul 19 2022 3:44 AM
-- 👹 [大股东跑路？这里有一份上市公司自救指南](http://www.techweb.com.cn/viewpoint/2022-07-19/2898599.shtml) | Tue Jul 19 2022 3:39 AM
-- 🪜 [B站组织架构大调整：年轻高管上位，全面加速商业化](http://www.techweb.com.cn/viewpoint/2022-07-19/2898596.shtml) | Tue Jul 19 2022 3:27 AM
-- 🤭 [京东云联合Forrester咨询发布混合云报告 云原生成为驱动产业发展新引擎](http://www.techweb.com.cn/it/2022-07-19/2898594.shtml) | Tue Jul 19 2022 3:19 AM
-- 🙉 [GE帝国不再：分拆业务是断尾求生还是轻装上阵？](http://www.techweb.com.cn/viewpoint/2022-07-19/2898585.shtml) | Tue Jul 19 2022 2:44 AM<!-- techweb-allnews:END -->
+- 👍 [美国芯片制造行业的黄昏](http://www.techweb.com.cn/viewpoint/2022-07-19/2898605.shtml) | Tue Jul 19 2022 4:03 AM
+- 👹 [消息称TikTok已开始对其全球业务进行重组 其中包括裁员](http://www.techweb.com.cn/world/2022-07-19/2898603.shtml) | Tue Jul 19 2022 3:56 AM
+- 🪜 [国产特斯拉上半年出口9.7万辆 在新能源车出口量中占比过半](http://www.techweb.com.cn/world/2022-07-19/2898602.shtml) | Tue Jul 19 2022 3:44 AM
+- 🤭 [大股东跑路？这里有一份上市公司自救指南](http://www.techweb.com.cn/viewpoint/2022-07-19/2898599.shtml) | Tue Jul 19 2022 3:39 AM
+- 🙉 [B站组织架构大调整：年轻高管上位，全面加速商业化](http://www.techweb.com.cn/viewpoint/2022-07-19/2898596.shtml) | Tue Jul 19 2022 3:27 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
