@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342) | Tue Jul 19 2022 8:00 AM 
+- 👹 [想要原生主屏体验，没有 Material You 怎么行：Nova Launcher 8.0 速览](https://sspai.com/post/74347) | Tue Jul 19 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    接近原生的主屏体验、超越原生的可定制性——老牌启动器 Nova Launcher 8.0 测试版公布，带来了这些新特性。&lt;a href=&quot;https://sspai.com/post/74347&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342) | Tue Jul 19 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     无论你是初跑者，还是跑步老手，相信这份「夏季跑步指南」都能帮助到你。&lt;a href=&quot;https://sspai.com/post/74342&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [装了啥 | 机核主编西总布都装了啥？](https://sspai.com/prime/story/zhuanglesha-vol01-xizongbu) | Tue Jul 19 2022 6:39 AM 
+- 🤭 [装了啥 | 机核主编西总布都装了啥？](https://sspai.com/prime/story/zhuanglesha-vol01-xizongbu) | Tue Jul 19 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     本期《装了啥》，我们邀请到了知名游戏平台机核的编辑和策划人西总布，谈谈他的游戏人生。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/zhuanglesha-vol01-xizongbu&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [「一颗柠檬戴着墨镜在沙滩上休息」—— 人工智能请创作](https://sspai.com/post/74302) | Tue Jul 19 2022 6:09 AM 
+- 🥸 [「一颗柠檬戴着墨镜在沙滩上休息」—— 人工智能请创作](https://sspai.com/post/74302) | Tue Jul 19 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74302&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：哔哩哔哩将展示账号 IP 归属地、小米公布虚拟角色繁殖专利等](https://sspai.com/post/74340) | Tue Jul 19 2022 1:02 AM 
+- 🙉 [派早报：哔哩哔哩将展示账号 IP 归属地、小米公布虚拟角色繁殖专利等](https://sspai.com/post/74340) | Tue Jul 19 2022 1:02 AM 
     <details><summary>展开描述 ...</summary> 
     山灵音响发布 EM7 桌面级播放器，小米多款手机停止 MIUI 开发版申请等。&lt;a href=&quot;https://sspai.com/post/74340&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/74336) | Mon Jul 18 2022 10:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/74336&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
