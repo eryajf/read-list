@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [美国芯片制造行业的黄昏](http://www.techweb.com.cn/viewpoint/2022-07-19/2898605.shtml) | Tue Jul 19 2022 4:03 AM
-- 👹 [消息称TikTok已开始对其全球业务进行重组 其中包括裁员](http://www.techweb.com.cn/world/2022-07-19/2898603.shtml) | Tue Jul 19 2022 3:56 AM
-- 🪜 [国产特斯拉上半年出口9.7万辆 在新能源车出口量中占比过半](http://www.techweb.com.cn/world/2022-07-19/2898602.shtml) | Tue Jul 19 2022 3:44 AM
-- 🤭 [大股东跑路？这里有一份上市公司自救指南](http://www.techweb.com.cn/viewpoint/2022-07-19/2898599.shtml) | Tue Jul 19 2022 3:39 AM
-- 🙉 [B站组织架构大调整：年轻高管上位，全面加速商业化](http://www.techweb.com.cn/viewpoint/2022-07-19/2898596.shtml) | Tue Jul 19 2022 3:27 AM<!-- techweb-allnews:END -->
+- 👍 [芯擎科技完成近十亿元A轮融资](http://www.techweb.com.cn/finance/2022-07-19/2898607.shtml) | Tue Jul 19 2022 5:52 AM
+- 👹 [新华为平板外观曝光](http://www.techweb.com.cn/shipin/2022-07-19/2898606.shtml) | Tue Jul 19 2022 5:50 AM
+- 🪜 [美国芯片制造行业的黄昏](http://www.techweb.com.cn/viewpoint/2022-07-19/2898605.shtml) | Tue Jul 19 2022 4:03 AM
+- 🤭 [消息称TikTok已开始对其全球业务进行重组 其中包括裁员](http://www.techweb.com.cn/world/2022-07-19/2898603.shtml) | Tue Jul 19 2022 3:56 AM
+- 🙉 [国产特斯拉上半年出口9.7万辆 在新能源车出口量中占比过半](http://www.techweb.com.cn/world/2022-07-19/2898602.shtml) | Tue Jul 19 2022 3:44 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
