@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Easy-KeyValue：让 Android Java 项目不再 KV 满天飞](https://juejin.cn/post/7121955840319291428) | Tue Jul 19 2022 5:46 AM 
+- 🤗 [即将开幕！XDC 2022 亮点全揭晓！](https://juejin.cn/post/7121994677598814222) | Tue Jul 19 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-    像 Kotlin “属性代理” 一样简明易用，使 Android Java 项目 key、value、get、put、init 缩减为一，不再 “KV 满天飞”。 
+    历经 4 个月的精心打磨，连接中外技术生态，与上百位海内外技术专家深度交流，在 120 多个充满着不确定性的日夜中找寻着确定，只为了 7 月 22、23 日 2 天的精彩绽放。 
     </details> 
 
-- 🎡 [图解Kafka的RecordBatch结构](https://juejin.cn/post/7121939963981398023) | Tue Jul 19 2022 4:45 AM 
+- 🎡 [JS模板编译的实现](https://juejin.cn/post/7121991859596951589) | Tue Jul 19 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-    Kafka的RecordBatch结构 阅读完本文你大概会获得以下知识 什么时候执行消息的压缩操作 RecordBatch结构图图解 
+    编译是一种格式变成另一种格式的过程。编译会导致好的结果，比如书写简单的代码，编译出来复杂的代码；或者提高代码的使用性能。 这里只聊聊模板编译。 模板编译的简单实现 写一个最简单的模板 这个模板用数据  
     </details> 
 
-- 🕯 [从0到1纯手工打造前端框架](https://juejin.cn/entry/7121929695070781470) | Tue Jul 19 2022 4:04 AM 
+- 🕯 [如何在 React Native App 中，为 PagerView 自定义 TabBar](https://juejin.cn/post/7121979174411042853) | Tue Jul 19 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-    借助ES6现有能力，将松散无序的模块转换成一颗有序树，实现节点之间的通信，DOM更新等操作，从0到1纯手工打造一套前端框架，以简单的视角去窥视框架的本质。 
+    本文手把手教你如何在 React Native App 中，为 PagerView 自定义一个丝滑的 TabBar，让你在面对同类需求时，游刃有余。 
     </details> 
 
-- 🚀 [JavaScript 3D Library——Three.js入门](https://juejin.cn/entry/7121929670517817357) | Tue Jul 19 2022 4:04 AM 
+- 🚀 [权限系统就该这么设计，yyds](https://juejin.cn/post/7121977695197970463) | Tue Jul 19 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    简单点的说法：WebGL可以看成是浏览器给我们提供的接口，在JavaScript 中可以直接用这些API进行3D图形的绘制；而three.js就是在这些接口上又帮我们封装得更好用一些。 
+    这篇文章就来介绍一下权限系统的设计以及主流的五种权限模型。 权限管控可以通俗的理解为权力限制，即不同的人由于拥有不同权力，他所看到的、能使用的可能不一样。对应到一个应用系统，其实就是一个用户可能拥有不 
     </details> 
 
-- 💪 [从零开始整一个Node CLI程序](https://juejin.cn/entry/7121929619682361374) | Tue Jul 19 2022 4:04 AM 
+- 💪 [Vue3+Node实现一个WebSocket即时通讯聊天室](https://juejin.cn/post/7121968464234823694) | Tue Jul 19 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-    命令行界面（英语：Command-Line Interface，缩写：CLI）是在图形用户界面得到普及之前使用最为广泛的用户界面。 
+    这篇文章主要是用WebSocket技术实现一个即时通讯聊天室。从0到1一步一步的编写所有代码，上手容易 
     </details> 
 <!-- juejin:END -->
 ### 少数派
