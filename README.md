@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [芯擎科技完成近十亿元A轮融资](http://www.techweb.com.cn/finance/2022-07-19/2898607.shtml) | Tue Jul 19 2022 5:52 AM
-- 👹 [新华为平板外观曝光](http://www.techweb.com.cn/shipin/2022-07-19/2898606.shtml) | Tue Jul 19 2022 5:50 AM
-- 🪜 [美国芯片制造行业的黄昏](http://www.techweb.com.cn/viewpoint/2022-07-19/2898605.shtml) | Tue Jul 19 2022 4:03 AM
-- 🤭 [消息称TikTok已开始对其全球业务进行重组 其中包括裁员](http://www.techweb.com.cn/world/2022-07-19/2898603.shtml) | Tue Jul 19 2022 3:56 AM
-- 🙉 [国产特斯拉上半年出口9.7万辆 在新能源车出口量中占比过半](http://www.techweb.com.cn/world/2022-07-19/2898602.shtml) | Tue Jul 19 2022 3:44 AM<!-- techweb-allnews:END -->
+- 👍 [马斯克：已将自己的大脑上传云端 并和虚拟版自己交谈](http://www.techweb.com.cn/it/2022-07-19/2898618.shtml) | Tue Jul 19 2022 6:08 AM
+- 👹 [400多名乐视员工过着“没有老板的神仙日子”](http://www.techweb.com.cn/shipin/2022-07-19/2898610.shtml) | Tue Jul 19 2022 5:59 AM
+- 🪜 [字节正大量招聘芯片工程师 字节跳动或准备自研芯片](http://www.techweb.com.cn/shipin/2022-07-19/2898609.shtml) | Tue Jul 19 2022 5:57 AM
+- 🤭 [苹果：2023年放缓部分团队招聘和支出](http://www.techweb.com.cn/shipin/2022-07-19/2898608.shtml) | Tue Jul 19 2022 5:54 AM
+- 🙉 [芯擎科技完成近十亿元A轮融资](http://www.techweb.com.cn/finance/2022-07-19/2898607.shtml) | Tue Jul 19 2022 5:52 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
