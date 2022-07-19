@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [一个惨痛的使用时间机器教训](https://www.v2ex.com/t/867386#reply4) | Tue Jul 19 2022 2:45 PM
-- 🤗 [群晖 Synology DSM7 系统软件使用问题讨论（集中贴，新问题也再次回帖便于大家汇总）](https://www.v2ex.com/t/867380#reply1) | Tue Jul 19 2022 1:59 PM
-- 🎭 [[吐槽] 我踏马好气啊，死活不能重命名，“操作无法完成，因为其中的文件夹或文件已在另一程序中打开”](https://www.v2ex.com/t/867372#reply7) | Tue Jul 19 2022 1:21 PM
-- 🥷 [请教各位大佬 liquidText 和 marginNote 的拖拽跳转功能是怎么实现的呀](https://www.v2ex.com/t/867356#reply0) | Tue Jul 19 2022 12:13 PM
-- 🐵 [代码有性能问题，程序员说只管实现功能，你怎么看？](https://www.v2ex.com/t/867344#reply24) | Tue Jul 19 2022 10:42 AM<!-- v2ex:END -->
+- 🥸 [5950X PVE 家庭服务器 开机了](https://www.v2ex.com/t/867405#reply0) | Tue Jul 19 2022 4:26 PM
+- 🤗 [G Suite legacy free edition 升级后已成功降级](https://www.v2ex.com/t/867404#reply0) | Tue Jul 19 2022 4:12 PM
+- 🎭 [请教一个关于用户换绑手机号/邮箱这种操作的技术问题](https://www.v2ex.com/t/867403#reply0) | Tue Jul 19 2022 4:05 PM
+- 🥷 [bash 脚本问题：如果调用一个函数并且把输出保存到一个变量里，那么就会丢失这个函数运行期间对全局变量的修改，这是为什么？](https://www.v2ex.com/t/867401#reply0) | Tue Jul 19 2022 3:51 PM
+- 🐵 [请问下本地起个 node 服务如何能让远程通过 ip 访问?](https://www.v2ex.com/t/867400#reply3) | Tue Jul 19 2022 3:39 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
