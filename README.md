@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [华为丁耘：能效提升能够实现‘发展’与‘绿色’的和谐共生](http://www.techweb.com.cn/it/2022-07-19/2898652.shtml) | Tue Jul 19 2022 8:56 AM
-- 👹 [消息称马斯克计划在未来几天对推特发起反诉 试图放弃收购推特](http://www.techweb.com.cn/world/2022-07-19/2898649.shtml) | Tue Jul 19 2022 8:48 AM
-- 🪜 [1000亿韩元授权费被拒绝后 三星已减少从京东方采购液晶电视面板](http://www.techweb.com.cn/world/2022-07-19/2898646.shtml) | Tue Jul 19 2022 8:32 AM
-- 🤭 [台媒：高通、Marvell、英特尔以及台积电将提高芯片价格](http://www.techweb.com.cn/world/2022-07-19/2898643.shtml) | Tue Jul 19 2022 7:57 AM
-- 🙉 [苹果Apple Pay被指控违反反垄断法 阻止竞争对手在iPhone提供点击支付](http://www.techweb.com.cn/world/2022-07-19/2898642.shtml) | Tue Jul 19 2022 7:55 AM<!-- techweb-allnews:END -->
+- 👍 [高通联发科3nm智能手机应用处理器竞争预计在明年下半年开始](http://www.techweb.com.cn/world/2022-07-19/2898661.shtml) | Tue Jul 19 2022 9:44 AM
+- 👹 [砍单风暴下的台积电：净利润同比飙升76%，谁说我不行？](http://www.techweb.com.cn/viewpoint/2022-07-19/2898660.shtml) | Tue Jul 19 2022 9:36 AM
+- 🪜 [龙芯3A5000与爱快路由系统成功适配](http://www.techweb.com.cn/it/2022-07-19/2898658.shtml) | Tue Jul 19 2022 9:18 AM
+- 🤭 [中国首部《建筑行业电子签名应用白皮书》发布](http://www.techweb.com.cn/it/2022-07-19/2898657.shtml) | Tue Jul 19 2022 9:16 AM
+- 🙉 [腾讯看点快报APP宣布7月18日正式停止运营](http://www.techweb.com.cn/internet/2022-07-19/2898654.shtml) | Tue Jul 19 2022 9:01 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
