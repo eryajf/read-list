@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [高通联发科3nm智能手机应用处理器竞争预计在明年下半年开始](http://www.techweb.com.cn/world/2022-07-19/2898661.shtml) | Tue Jul 19 2022 9:44 AM
-- 👹 [砍单风暴下的台积电：净利润同比飙升76%，谁说我不行？](http://www.techweb.com.cn/viewpoint/2022-07-19/2898660.shtml) | Tue Jul 19 2022 9:36 AM
-- 🪜 [龙芯3A5000与爱快路由系统成功适配](http://www.techweb.com.cn/it/2022-07-19/2898658.shtml) | Tue Jul 19 2022 9:18 AM
-- 🤭 [中国首部《建筑行业电子签名应用白皮书》发布](http://www.techweb.com.cn/it/2022-07-19/2898657.shtml) | Tue Jul 19 2022 9:16 AM
-- 🙉 [腾讯看点快报APP宣布7月18日正式停止运营](http://www.techweb.com.cn/internet/2022-07-19/2898654.shtml) | Tue Jul 19 2022 9:01 AM<!-- techweb-allnews:END -->
+- 👍 [木鸟民宿发布《2022民宿避暑游市场趋势报告》：7月订单量已达到2019同期1.63倍](http://www.techweb.com.cn/it/2022-07-19/2898673.shtml) | Tue Jul 19 2022 10:40 AM
+- 👹 [助力“微漂” 360数科提供数字化营销等服务](http://www.techweb.com.cn/it/2022-07-19/2898672.shtml) | Tue Jul 19 2022 10:37 AM
+- 🪜 [马斯克：已将自己的大脑上传云端 暗吹Neuralink](http://www.techweb.com.cn/world/2022-07-19/2898669.shtml) | Tue Jul 19 2022 9:57 AM
+- 🤭 [高通联发科3nm智能手机应用处理器竞争预计在明年下半年开始](http://www.techweb.com.cn/world/2022-07-19/2898661.shtml) | Tue Jul 19 2022 9:44 AM
+- 🙉 [砍单风暴下的台积电：净利润同比飙升76%，谁说我不行？](http://www.techweb.com.cn/viewpoint/2022-07-19/2898660.shtml) | Tue Jul 19 2022 9:36 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
