@@ -216,24 +216,24 @@
     前言 最近有几个粉丝向我说，自己悲惨的培训经历，说来也巧，连续同学找到了我聊了下，有的培训前端，或者后端，收费10W,有的是15W,有的事28W,你们没有看错，后缀是W，可谓是天价培费，坑的人是不要不 
     </details> 
 
-- 🎡 [CSS Compat 2021 和 Interop 2022中部分特性介绍](https://juejin.cn/post/7122026111222939678) | Tue Jul 19 2022 10:19 AM 
+- 🎡 [使用systemd，把服务装进 Linux 心脏里～](https://juejin.cn/post/7122035749473648671) | Tue Jul 19 2022 10:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    Linux非常的安全、可靠，而且有一股黑黝黝的妹子味道，这说明她也是柔软的。 把服务跑在Linux上，就像男生把女装藏在密码箱里一样让人放心，它的稳定安全可以让人安稳的睡个懒觉。 SPOF，是著名的单 
+    </details> 
+
+- 🕯 [如何正确使用 useMemo 和 useCallback](https://juejin.cn/post/7122027852492439565) | Tue Jul 19 2022 10:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文希望通过分析 useMemo/useCallback 的目的、方式、成本，以及具体使用场景，帮助开发者正确的决定如何适时的使用他们。 
+    </details> 
+
+- 🚀 [CSS Compat 2021 和 Interop 2022中部分特性介绍](https://juejin.cn/post/7122026111222939678) | Tue Jul 19 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
     本文基于CSS Compat 2021和Interop 2022中部分特性，对名词概念进行介绍说明，并根据特性和属性值介绍附加实际中的使用场景和浅显demo。 
     </details> 
 
-- 🕯 [CSS Compat 2021 和 Interop 2022中部分特性介绍](https://juejin.cn/post/7122025542169133063) | Tue Jul 19 2022 10:18 AM 
+- 💪 [CSS Compat 2021 和 Interop 2022中部分特性介绍](https://juejin.cn/post/7122025542169133063) | Tue Jul 19 2022 10:18 AM 
     <details><summary>展开描述 ...</summary> 
     本文基于CSS Compat 2021和Interop 2022中部分特性，对名词概念进行介绍说明，并根据特性和属性值介绍附加实际中的使用场景和浅显demo。 
-    </details> 
-
-- 🚀 [一个开发者自述：我是如何设计针对冷热读写场景的 RocketMQ 存储系统](https://juejin.cn/post/7122020987465367589) | Tue Jul 19 2022 9:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介： 文章中的很多知识点，都是通过云原生编程挑战赛学到的，在一些问题在表述方式、甚至理解上都可能存在一些问题，甚至会有一些谬论；敢于尝试就会犯错，有犯错才会有成长，欢迎各位大佬不舍赐教，多多指正，让 
-    </details> 
-
-- 💪 [全链路压测：影子库与影子表之争](https://juejin.cn/post/7122018481125457933) | Tue Jul 19 2022 9:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介： 在生产环境实施全链路压测的过程中，针对上文谈到的两种方案，又面临着数据隔离方案的选择问题，本文首先针对影子库、影子表两种方案进行介绍和对比，然后针对常见的场景，给出方案的选择建议。 作者： 葛 
     </details> 
 <!-- juejin:END -->
 ### 少数派
