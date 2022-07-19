@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [全面学习正则表达式 - 从原理到实战](https://juejin.cn/post/7121726642120032264) | Mon Jul 18 2022 2:57 PM 
+- 🤗 [vivo官网APP全机型UI适配方案](https://juejin.cn/post/7121888135599882254) | Tue Jul 19 2022 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-    本文全面介绍正则表达式的语法知识，全面介绍JavaScript中正则表达式的API，通过实战，希望能够帮助大家全面学习，并啃下前端的难题。 
+    日益新增的机型，给开发人员带来了很多的适配工作。代码能不能统一、apk能不能统一、物料如何选取、样式怎么展示等等都是困扰开发人员的问题，本方案就是介绍不同机型的共线方案，打消开发人员的疑虑。 
     </details> 
 
-- 🎡 [使用 PixCap 和 ReadyPlayerMe 快速制作3D 模型动画](https://juejin.cn/post/7121723715615719461) | Mon Jul 18 2022 2:45 PM 
+- 🎡 [滚蛋吧小广告！我现在用命令行解压缩；当哥白尼遇上人工智能；一份傲娇的深度学习技术清单；一个视频尽览旷视20项前沿技术 | ShowMeAI资讯日报](https://juejin.cn/post/7121888236300926983) | Tue Jul 19 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    PixCap，通过使用 AI 技术非常快速（而且非常便宜）的制作 3D 模型制作动画。 ReadyPlayerMe 是一个在线生成3D头像的网站，通过上传照片快速生成 3D 头像。 
+    ShowMeAI资讯日报 07-19 期，旷视技术开放日视频B站合辑，Asent 基于spaCy的情感分析库，AQP 音频质量评估，Gorse 开源推荐系统，深度学习进阶课，前沿论文… 
     </details> 
 
-- 🕯 [当转转严选订单遇到状态机](https://juejin.cn/post/7121678614893953038) | Mon Jul 18 2022 11:50 AM 
+- 🕯 [五分钟给你的 gRPC服务 加上 HTTP 接口](https://juejin.cn/post/7121888092960587784) | Tue Jul 19 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    状态机不仅是一个组件，还是一种架构，在包含复杂状态变更的业务场景之中，给我们一种新的思路去描述业务。 
+    gRPC 服务要加 HTTP 接口？ go-zero 给大家带来极简的 RESTful 和 gRPC 服务开发体验的同时，我想只写一次代码 既要 gRPC 接口 也要 HTTP 接口 
     </details> 
 
-- 🚀 [不是所有有才华的人，都想当领导！](https://juejin.cn/post/7121659678320230413) | Mon Jul 18 2022 10:36 AM 
+- 🚀 [来自NPM联合创始人的预言：前端未来会这样](https://juejin.cn/post/7121883671413391373) | Tue Jul 19 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
-    现阶段下，人类是个金字塔状的的社会。从一枚小小的码农，成长为一个领导者或者独裁者，不仅仅是鸿鹄的梦想，也是燕雀的志向。 而且这也不是水中月镜中花，在cn，拥有一点点小权利就可以鼻孔朝天。公司作为社会经 
+    大家好，我卡颂。 在WWC22上，NPM联合创始人（当前是Netlify的数据分析师）Laurie Voss发表了对web开发未来发展方向的预测演讲。 本文让我们来看看这位有26年web开发经验的数据 
     </details> 
 
-- 💪 [有手就行，从零开始的V3版本Chrome创意插件开发攻略](https://juejin.cn/post/7121653349669142565) | Mon Jul 18 2022 10:12 AM 
+- 💪 [在IDEA里下个五子棋不过分吧？](https://juejin.cn/post/7121879303192576037) | Tue Jul 19 2022 12:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本文会用最好理解的角度介绍 V3 版本插件开发的基础内容，带新司机迅速上路，陪老司机快速转换赛道 🚀 
+    大家好，我是二哥呀！ 今天给大家分享一个基于Netty的IDEA即时聊天插件，可以实现即时聊天、游戏对战（下棋）。 安装体验 打开 Intellij IDEA，依次 Preference &gt; Plug 
     </details> 
 <!-- juejin:END -->
 ### 少数派
