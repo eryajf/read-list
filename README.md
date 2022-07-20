@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750839) | Tue Jul 19 2022 12:27 AM
-- 🐻 [《大话西游》紫霞真的爱至尊宝吗？](http://daily.zhihu.com/story/9750797) | Tue Jul 19 2022 12:27 AM
-- 🌏 [喜欢看《西部世界》的人都有什么特点？](http://daily.zhihu.com/story/9750811) | Tue Jul 19 2022 12:27 AM
-- 🕴 [美洲古代的绘画是怎样的？](http://daily.zhihu.com/story/9750817) | Tue Jul 19 2022 12:27 AM
-- 🌮 [高楼大厦为何屹立不倒？承重柱抗住这么大的压力，是怎么做到的？](http://daily.zhihu.com/story/9750829) | Tue Jul 19 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750880) | Wed Jul 20 2022 12:27 AM
+- 🐻 [蚕丝可以做衣服，蜘蛛丝可以吗？](http://daily.zhihu.com/story/9750846) | Wed Jul 20 2022 12:27 AM
+- 🌏 [为什么空调的 26℃ 比室外的 26℃ 更凉快？](http://daily.zhihu.com/story/9750855) | Wed Jul 20 2022 12:27 AM
+- 🕴 [你热爱旅行吗？旅行对你来说意味着什么？](http://daily.zhihu.com/story/9750858) | Wed Jul 20 2022 12:27 AM
+- 🌮 [蝉（知了）会被自己的叫声吵到吗？](http://daily.zhihu.com/story/9750867) | Wed Jul 20 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
