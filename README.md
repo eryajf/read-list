@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [京东科技与神策数据达成战略合作 共推数字化营销解决方案](http://www.techweb.com.cn/it/2022-07-20/2898756.shtml) | Wed Jul 20 2022 3:09 AM
-- 👹 [《不要回答》优酷开播 贾樟柯携手刘慈欣畅聊星际移民](http://www.techweb.com.cn/internet/2022-07-20/2898755.shtml) | Wed Jul 20 2022 3:08 AM
-- 🪜 [苹果同意支付5000万美元和解MacBook蝶式键盘诉讼](http://www.techweb.com.cn/world/2022-07-20/2898754.shtml) | Wed Jul 20 2022 3:03 AM
-- 🤭 [马斯克：特斯拉弗里蒙特工厂和内华达超级工厂已累计生产200万辆汽车](http://www.techweb.com.cn/world/2022-07-20/2898752.shtml) | Wed Jul 20 2022 2:45 AM
-- 🙉 [新能源小型车，“外卷”东南亚](http://www.techweb.com.cn/viewpoint/2022-07-20/2898746.shtml) | Wed Jul 20 2022 2:24 AM<!-- techweb-allnews:END -->
+- 👍 [抖音爱奇艺宣布合作 长短视频握手和解？](http://www.techweb.com.cn/viewpoint/2022-07-20/2898769.shtml) | Wed Jul 20 2022 4:04 AM
+- 👹 [沸腾的短剧江湖：十个剧组九个在拍，头部分账金超3000万，用户上瘾陷付费套路](http://www.techweb.com.cn/viewpoint/2022-07-20/2898768.shtml) | Wed Jul 20 2022 4:04 AM
+- 🪜 [虚拟现实公司MetaX对Meta提起商标侵权诉讼](http://www.techweb.com.cn/world/2022-07-20/2898767.shtml) | Wed Jul 20 2022 4:02 AM
+- 🤭 [爱奇艺“抱住”抖音](http://www.techweb.com.cn/viewpoint/2022-07-20/2898766.shtml) | Wed Jul 20 2022 3:47 AM
+- 🙉 [亚马逊云科技顾凡：赋能整车厂加速“新四化”转型](http://www.techweb.com.cn/it/2022-07-20/2898765.shtml) | Wed Jul 20 2022 3:33 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
