@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [掘金百亿BI市场 思迈特软件Smartbi宣布完成C轮融资](http://www.techweb.com.cn/finance/2022-07-20/2898698.shtml) | Wed Jul 20 2022 1:08 AM
-- 👹 [为什么孤立系统的熵不会减小？《张朝阳的物理课》讲解热力学第二定律与熵](http://www.techweb.com.cn/it/2022-07-19/2898680.shtml) | Tue Jul 19 2022 1:10 PM
-- 🪜 [盒马两大新型供应链中心投产 每个工位一台平板电脑监控流程](http://www.techweb.com.cn/it/2022-07-19/2898674.shtml) | Tue Jul 19 2022 11:01 AM
-- 🤭 [木鸟民宿发布《2022民宿避暑游市场趋势报告》：7月订单量已达到2019同期1.63倍](http://www.techweb.com.cn/it/2022-07-19/2898673.shtml) | Tue Jul 19 2022 10:40 AM
-- 🙉 [助力“微漂” 360数科提供数字化营销等服务](http://www.techweb.com.cn/it/2022-07-19/2898672.shtml) | Tue Jul 19 2022 10:37 AM<!-- techweb-allnews:END -->
+- 👍 [京东科技与神策数据达成战略合作 共推数字化营销解决方案](http://www.techweb.com.cn/it/2022-07-20/2898756.shtml) | Wed Jul 20 2022 3:09 AM
+- 👹 [《不要回答》优酷开播 贾樟柯携手刘慈欣畅聊星际移民](http://www.techweb.com.cn/internet/2022-07-20/2898755.shtml) | Wed Jul 20 2022 3:08 AM
+- 🪜 [苹果同意支付5000万美元和解MacBook蝶式键盘诉讼](http://www.techweb.com.cn/world/2022-07-20/2898754.shtml) | Wed Jul 20 2022 3:03 AM
+- 🤭 [马斯克：特斯拉弗里蒙特工厂和内华达超级工厂已累计生产200万辆汽车](http://www.techweb.com.cn/world/2022-07-20/2898752.shtml) | Wed Jul 20 2022 2:45 AM
+- 🙉 [新能源小型车，“外卷”东南亚](http://www.techweb.com.cn/viewpoint/2022-07-20/2898746.shtml) | Wed Jul 20 2022 2:24 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
