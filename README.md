@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [小白的Mac上手指南&lpar;干货&rpar;](https://juejin.cn/post/7122105093394497573) | Tue Jul 19 2022 3:26 PM 
+- 🤗 [基于CLIP的色情图片识别；油管最新ML课程大合集；交互式编写shell管道；机器人仓库环境增量感知数据集；最新AI论文 | ShowMeAI资讯日报](https://juejin.cn/post/7122247383315906597) | Wed Jul 20 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    本文尝试介绍Mac中的各种概念，同时介绍大量实用的使用技巧，掌握这些技巧，会极大提高你的Mac使用效率。 
+    ShowMeAI资讯日报 07-19 期，基于 CLIP 的色情图片识别，Pipr 交互式编写 shell pipeline，Julia 图神经网络库，Youtube 最新机器学习课程大合集，论文… 
     </details> 
 
-- 🎡 [简答一波 HashMap 常见八股面试题 —— 算法系列（2）](https://juejin.cn/post/7122091070862655501) | Tue Jul 19 2022 2:33 PM 
+- 🎡 [我常用的几个 VueUse 最佳组合，推荐给你们!](https://juejin.cn/post/7122245068534054943) | Wed Jul 20 2022 12:30 AM 
     <details><summary>展开描述 ...</summary> 
-    HashMap 是我们熟悉的散列表实现，也是 “面试八股文” 的标准题库之一。今天，我给出一份 HashMap 高频面试题口述简答答案，希望对你刷题有帮助。 
+    Vueuse拥有大量出色的组合。但是量太大，要把它们全部看完可能会让人抓不到重点。下面来介绍一些有用到的组合，它们如下： onClickOutside useFocusTrap useHead use 
     </details> 
 
-- 🕯 [28万的天价IT培训你见过吗？而且还是坑学生的！](https://juejin.cn/post/7122036150331506718) | Tue Jul 19 2022 10:58 AM 
+- 🕯 [Seata 多语言体系建设](https://juejin.cn/post/7122244965505171487) | Wed Jul 20 2022 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 最近有几个粉丝向我说，自己悲惨的培训经历，说来也巧，连续同学找到了我聊了下，有的培训前端，或者后端，收费10W,有的是15W,有的事28W,你们没有看错，后缀是W，可谓是天价培费，坑的人是不要不 
+    在诸如 gRPC 等微服务体系都在进行多语言建设的当下，分布式事务也应该有多种语言支持。所以在 2022 年 Seata  Roadmap 中一个非常的关键点就是 Seata 的多语言技术体系建设… 
     </details> 
 
-- 🚀 [使用systemd，把服务装进 Linux 心脏里～](https://juejin.cn/post/7122035749473648671) | Tue Jul 19 2022 10:57 AM 
+- 🚀 [可视化搭建系统之数据源](https://juejin.cn/post/7122240814108901406) | Wed Jul 20 2022 12:12 AM 
     <details><summary>展开描述 ...</summary> 
-    Linux非常的安全、可靠，而且有一股黑黝黝的妹子味道，这说明她也是柔软的。 把服务跑在Linux上，就像男生把女装藏在密码箱里一样让人放心，它的稳定安全可以让人安稳的睡个懒觉。 SPOF，是著名的单 
+    接上一篇文章《前端工程实践之可视化搭建系统（一）》，鸽了比较久，看过的同学应该也都已经不记得了，也是又看到两年前文章下热评一位同学问的问题，两年后我们换个形式来讨论下这个问题； 
     </details> 
 
-- 💪 [如何正确使用 useMemo 和 useCallback](https://juejin.cn/post/7122027852492439565) | Tue Jul 19 2022 10:25 AM 
+- 💪 [【一库】semver：语义版本号标准 + npm的版本控制器🧲](https://juejin.cn/post/7122240572491825160) | Wed Jul 20 2022 12:11 AM 
     <details><summary>展开描述 ...</summary> 
-    本文希望通过分析 useMemo/useCallback 的目的、方式、成本，以及具体使用场景，帮助开发者正确的决定如何适时的使用他们。 
+    天天用版本号，你真的懂了吗？1.0.0和1.0.0-alpha谁更大？a.b.c是否合法？先了解规范，再学习使用实现~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
