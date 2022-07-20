@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [格芯CEO：如果美国补贴法案未通过 纽约芯片工厂可能推迟建设](http://www.techweb.com.cn/world/2022-07-20/2898792.shtml) | Wed Jul 20 2022 6:40 AM
-- 👹 [二季度全球智能手机出货量同比下滑9% 但苹果iPhone份额有增加](http://www.techweb.com.cn/world/2022-07-20/2898786.shtml) | Wed Jul 20 2022 6:27 AM
-- 🪜 [字节跳动回应自研芯片：围绕视频推荐业务研发视频编解码芯片 非CPU / GPU等通用处理器](http://www.techweb.com.cn/it/2022-07-20/2898781.shtml) | Wed Jul 20 2022 6:19 AM
-- 🤭 [谷歌计划从下月开始公开测试增强现实眼镜原型](http://www.techweb.com.cn/world/2022-07-20/2898773.shtml) | Wed Jul 20 2022 5:01 AM
-- 🙉 [罗敏成不了董宇辉](http://www.techweb.com.cn/viewpoint/2022-07-20/2898772.shtml) | Wed Jul 20 2022 4:39 AM<!-- techweb-allnews:END -->
+- 👍 [美光发布2022年度可持续发展报告](http://www.techweb.com.cn/it/2022-07-20/2898803.shtml) | Wed Jul 20 2022 7:43 AM
+- 👹 [Colt DCS赖竞芳：助力中国企业出海 实现“双碳”目标](http://www.techweb.com.cn/it/2022-07-20/2898802.shtml) | Wed Jul 20 2022 7:42 AM
+- 🪜 [WirelessCar郑岩：车联网本质是制造业的数字化转型 上云挑战更多](http://www.techweb.com.cn/smarttraveling/2022-07-20/2898800.shtml) | Wed Jul 20 2022 7:34 AM
+- 🤭 [格芯CEO：如果美国补贴法案未通过 纽约芯片工厂可能推迟建设](http://www.techweb.com.cn/world/2022-07-20/2898792.shtml) | Wed Jul 20 2022 6:40 AM
+- 🙉 [二季度全球智能手机出货量同比下滑9% 但苹果iPhone份额有增加](http://www.techweb.com.cn/world/2022-07-20/2898786.shtml) | Wed Jul 20 2022 6:27 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
