@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有公司很复杂的 CI 流程？我们这个又是 kw,converity,又是 UT, FT，又是圈复杂度等等，可怕呀](https://www.v2ex.com/t/867597#reply0) | Wed Jul 20 2022 10:15 AM
-- 🤗 [有什么可以替代第三方 cookie 的广告追踪技术吗？](https://www.v2ex.com/t/867588#reply0) | Wed Jul 20 2022 9:48 AM
-- 🎭 [Benchmark AWS EC2&#39;s Network PPS by dperf](https://www.v2ex.com/t/867586#reply0) | Wed Jul 20 2022 9:47 AM
-- 🥷 [求推荐个 87 键盘无线,有灯,按键不费劲的](https://www.v2ex.com/t/867570#reply0) | Wed Jul 20 2022 8:34 AM
-- 🐵 [请教一下，是谁把代码合丢了](https://www.v2ex.com/t/867567#reply24) | Wed Jul 20 2022 8:25 AM<!-- v2ex:END -->
+- 🥸 [baidu.com 无法访问](https://www.v2ex.com/t/867599#reply8) | Wed Jul 20 2022 10:19 AM
+- 🤗 [大家的 CI 流程复杂嘛？我们这个又是 kw,converity,又是 UT, FT，又是圈复杂度等等，可怕呀](https://www.v2ex.com/t/867597#reply4) | Wed Jul 20 2022 10:15 AM
+- 🎭 [有什么可以替代第三方 cookie 的广告追踪技术吗？](https://www.v2ex.com/t/867588#reply0) | Wed Jul 20 2022 9:48 AM
+- 🥷 [Benchmark AWS EC2&#39;s Network PPS by dperf](https://www.v2ex.com/t/867586#reply0) | Wed Jul 20 2022 9:47 AM
+- 🐵 [求推荐个 87 键盘无线,有灯,按键不费劲的](https://www.v2ex.com/t/867570#reply0) | Wed Jul 20 2022 8:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
