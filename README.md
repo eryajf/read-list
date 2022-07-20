@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [奏折 | Nothing Phone &lpar;1&rpar; 消息汇总、Android 社区的新鲜事等](https://sspai.com/prime/story/zouzhe-vol01) | Wed Jul 20 2022 8:58 AM 
+- 👹 [试播集 08 | 少数派作者们最近读完了啥（上）](https://sspai.com/post/74364) | Wed Jul 20 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于栏目不少读者表示希望能够见到更多关于文化与书籍的内容，充实书单、丰富精神。机器人特地邀请了Matrix社区作者们来聊聊自己近期阅读的有意思的书籍。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱 ...&lt;a href=&quot;https://sspai.com/post/74364&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [奏折 | Nothing Phone &lpar;1&rpar; 消息汇总、Android 社区的新鲜事等](https://sspai.com/prime/story/zouzhe-vol01) | Wed Jul 20 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
     本周「奏折」，我们在 Nothing Phone &lpar;1&rpar; 全面开售前为你汇总全网评测、报道和资讯中值得关注的小细节，以及其它 4 条值得关注的泛 Android 资讯。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/zouzhe-vol01&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [爱人「坐月子」期间，奶爸可以做什么？](https://sspai.com/post/74361) | Wed Jul 20 2022 6:59 AM 
+- 🤭 [爱人「坐月子」期间，奶爸可以做什么？](https://sspai.com/post/74361) | Wed Jul 20 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
     漫长「陪产假」即将结束，但育儿这项伴随我一生的业务才刚刚开始。&lt;a href=&quot;https://sspai.com/post/74361&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [第一时间用上 Windows 11 新功能，尝鲜用户必备小工具：ViVeTool](https://sspai.com/post/74286) | Wed Jul 20 2022 3:30 AM 
+- 🥸 [第一时间用上 Windows 11 新功能，尝鲜用户必备小工具：ViVeTool](https://sspai.com/post/74286) | Wed Jul 20 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     对于喜欢尝鲜的 Windows 测试者来说，如果新功能无法体验到就失去了测试新功能的乐趣。但我们可以通过这个工具，直接打开测试版的隐藏功能。&lt;a href=&quot;https://sspai.com/post/74286&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报: iQOO 10 系列手机发布、高通推出骁龙 W5+ Gen 1 等](https://sspai.com/post/74356) | Wed Jul 20 2022 12:41 AM 
+- 🙉 [派早报: iQOO 10 系列手机发布、高通推出骁龙 W5+ Gen 1 等](https://sspai.com/post/74356) | Wed Jul 20 2022 12:41 AM 
     <details><summary>展开描述 ...</summary> 
     多亲 F22 Pro 发布，微信视频号上线原生广告等。&lt;a href=&quot;https://sspai.com/post/74356&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [想要原生主屏体验，没有 Material You 怎么行：Nova Launcher 8.0 速览](https://sspai.com/post/74347) | Tue Jul 19 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    接近原生的主屏体验、超越原生的可定制性——老牌启动器 Nova Launcher 8.0 测试版公布，带来了这些新特性。&lt;a href=&quot;https://sspai.com/post/74347&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
