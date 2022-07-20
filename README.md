@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [谷歌计划从下月开始公开测试增强现实眼镜原型](http://www.techweb.com.cn/world/2022-07-20/2898773.shtml) | Wed Jul 20 2022 5:01 AM
-- 👹 [罗敏成不了董宇辉](http://www.techweb.com.cn/viewpoint/2022-07-20/2898772.shtml) | Wed Jul 20 2022 4:39 AM
-- 🪜 [抖音爱奇艺宣布合作 长短视频握手和解？](http://www.techweb.com.cn/viewpoint/2022-07-20/2898769.shtml) | Wed Jul 20 2022 4:04 AM
-- 🤭 [沸腾的短剧江湖：十个剧组九个在拍，头部分账金超3000万，用户上瘾陷付费套路](http://www.techweb.com.cn/viewpoint/2022-07-20/2898768.shtml) | Wed Jul 20 2022 4:04 AM
-- 🙉 [虚拟现实公司MetaX对Meta提起商标侵权诉讼](http://www.techweb.com.cn/world/2022-07-20/2898767.shtml) | Wed Jul 20 2022 4:02 AM<!-- techweb-allnews:END -->
+- 👍 [格芯CEO：如果美国补贴法案未通过 纽约芯片工厂可能推迟建设](http://www.techweb.com.cn/world/2022-07-20/2898792.shtml) | Wed Jul 20 2022 6:40 AM
+- 👹 [二季度全球智能手机出货量同比下滑9% 但苹果iPhone份额有增加](http://www.techweb.com.cn/world/2022-07-20/2898786.shtml) | Wed Jul 20 2022 6:27 AM
+- 🪜 [字节跳动回应自研芯片：围绕视频推荐业务研发视频编解码芯片 非CPU / GPU等通用处理器](http://www.techweb.com.cn/it/2022-07-20/2898781.shtml) | Wed Jul 20 2022 6:19 AM
+- 🤭 [谷歌计划从下月开始公开测试增强现实眼镜原型](http://www.techweb.com.cn/world/2022-07-20/2898773.shtml) | Wed Jul 20 2022 5:01 AM
+- 🙉 [罗敏成不了董宇辉](http://www.techweb.com.cn/viewpoint/2022-07-20/2898772.shtml) | Wed Jul 20 2022 4:39 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
