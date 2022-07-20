@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [做解析接入的时候，能只接入一个子域名吗？](https://www.v2ex.com/t/867652#reply0) | Wed Jul 20 2022 4:19 PM
-- 🤗 [nodejs 如何在单元测试中 mock path.basename 的运行环境](https://www.v2ex.com/t/867647#reply0) | Wed Jul 20 2022 3:38 PM
-- 🎭 [有人用 Cloudflare pages 做过站吗？效果如何](https://www.v2ex.com/t/867637#reply2) | Wed Jul 20 2022 2:11 PM
-- 🥷 [你们有没有遇到 idea 中 gradle 调用 build，然后启动进程又 build 一遍？](https://www.v2ex.com/t/867635#reply0) | Wed Jul 20 2022 2:09 PM
-- 🐵 [谷歌发布开源开发语言 Carbon : 号称将替代 C++](https://www.v2ex.com/t/867631#reply32) | Wed Jul 20 2022 1:22 PM<!-- v2ex:END -->
+- 🥸 [感觉 uber/fx 并不比 getInstance 工厂好用](https://www.v2ex.com/t/867658#reply0) | Wed Jul 20 2022 5:32 PM
+- 🤗 [做解析接入的时候，能只接入一个子域名吗？](https://www.v2ex.com/t/867652#reply0) | Wed Jul 20 2022 4:19 PM
+- 🎭 [nodejs 如何在单元测试中 mock path.basename 的运行环境](https://www.v2ex.com/t/867647#reply0) | Wed Jul 20 2022 3:38 PM
+- 🥷 [有人用 Cloudflare pages 做过站吗？效果如何](https://www.v2ex.com/t/867637#reply3) | Wed Jul 20 2022 2:11 PM
+- 🐵 [你们有没有遇到 idea 中 gradle 调用 build，然后启动进程又 build 一遍？](https://www.v2ex.com/t/867635#reply0) | Wed Jul 20 2022 2:09 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
