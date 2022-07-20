@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [KusionStack 开源｜Kusion 模型库和工具链的探索实践](https://juejin.cn/post/7122283542469410830) | Wed Jul 20 2022 2:57 AM 
+- 🤗 [从电影到漫画，再到叙事可视化（四）剪辑](https://juejin.cn/post/7122288697877200909) | Wed Jul 20 2022 3:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    hello，大家好，豆皮范儿今天由 Random Forest 给大家带来了《漫谈：从电影到漫画，再到叙事可视化》系列，今天带来了第四节「剪辑」。 上一篇：漫谈：从电影到漫画，再到叙事可视化（三）声音 
+    </details> 
+
+- 🎡 [阿里云云原生一体化数仓 — 数据治理新能力解读](https://juejin.cn/post/7122284732301180964) | Wed Jul 20 2022 3:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    简介： 本文介绍大数据开发治理平台DataWorks在数据治理领域的最新产品进展，包括基于事前、事中、事后的全链路理念构建的核心产品功能和数据治理量化评估机制解读，以及围绕降本增效的成本治理最佳实践。 
+    </details> 
+
+- 🕯 [KusionStack 开源｜Kusion 模型库和工具链的探索实践](https://juejin.cn/post/7122283542469410830) | Wed Jul 20 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
     KusionStack 最早是为了解决蚂蚁内部复杂的运维场景而诞生的解决方案。思路是通过自研的 DSL（KCL）沉淀运维模型 （Kusion Model）…… 
     </details> 
 
-- 🎡 [Go序列化与反序列化](https://juejin.cn/post/7122270032448454664) | Wed Jul 20 2022 2:05 AM 
+- 🚀 [比Bloom Filter节省25%空间！Ribbon Filter在Lindorm中的应用](https://juejin.cn/post/7122280277472182286) | Wed Jul 20 2022 2:45 AM 
     <details><summary>展开描述 ...</summary> 
-    序列化 array、slice、map、struct对象 序列化的接口 反序列化 slice、map、struct反序列化 
+    简介： 本文研究了一种新的过滤器Ribbon Filter，并将其集成到Lindorm中 作者：箫苏 朝戈 正研 1 前言 Lindorm是一个低成本高吞吐的多模数据库，目前，Lindorm是阿里内部 
     </details> 
 
-- 🕯 [和面试官唠嗑你需要懂“举一反三” （以闭包为例） 🔥🔥](https://juejin.cn/post/7122263583148212232) | Wed Jul 20 2022 1:41 AM 
+- 💪 [手把手教你实现 Tree 组件搜索过滤功能、从零开始搭建一个属于自己的组件库、如何设计一套比较安全的接口访问策略丨酱酱的下午茶第32期](https://juejin.cn/post/7122277122877423630) | Wed Jul 20 2022 2:33 AM 
     <details><summary>展开描述 ...</summary> 
-    面试最忌讳问啥说啥，当面试官问一个问题时，我们在尽可能完整的回答完以后再尽量的去补充问题所涉及到的知识点，但切记不要扯开话题。 
-    </details> 
-
-- 🚀 [30行代码，带你实现一个简单的 ejs 模板引擎](https://juejin.cn/post/7122254246854000670) | Wed Jul 20 2022 1:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    模板引擎想必大家都不陌生，本文小包通过30行代码带你实现ejs 模板引擎，一起来卷模板引擎的实现原理及实现思路，还在等什么，开卷开卷!!! 
-    </details> 
-
-- 💪 [基于CLIP的色情图片识别；油管最新ML课程大合集；交互式编写shell管道；机器人仓库环境增量感知数据集；最新AI论文 | ShowMeAI资讯日报](https://juejin.cn/post/7122247383315906597) | Wed Jul 20 2022 12:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 07-19 期，基于 CLIP 的色情图片识别，Pipr 交互式编写 shell pipeline，Julia 图神经网络库，Youtube 最新机器学习课程大合集，论文… 
+    最近鉴于掘友们的热情召唤，我们终于把做了几百期的社群下午茶搬到站内了，酱酱们会一直陪伴，认真创作的掘友们，站内下午茶新增优质作者介绍和码上掘金板块，专注于发掘站内优质创作者和优质内容，欢迎大家多提宝贵 
     </details> 
 <!-- juejin:END -->
 ### 少数派
