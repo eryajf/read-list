@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [美光发布2022年度可持续发展报告](http://www.techweb.com.cn/it/2022-07-20/2898803.shtml) | Wed Jul 20 2022 7:43 AM
-- 👹 [Colt DCS赖竞芳：助力中国企业出海 实现“双碳”目标](http://www.techweb.com.cn/it/2022-07-20/2898802.shtml) | Wed Jul 20 2022 7:42 AM
-- 🪜 [WirelessCar郑岩：车联网本质是制造业的数字化转型 上云挑战更多](http://www.techweb.com.cn/smarttraveling/2022-07-20/2898800.shtml) | Wed Jul 20 2022 7:34 AM
-- 🤭 [格芯CEO：如果美国补贴法案未通过 纽约芯片工厂可能推迟建设](http://www.techweb.com.cn/world/2022-07-20/2898792.shtml) | Wed Jul 20 2022 6:40 AM
-- 🙉 [二季度全球智能手机出货量同比下滑9% 但苹果iPhone份额有增加](http://www.techweb.com.cn/world/2022-07-20/2898786.shtml) | Wed Jul 20 2022 6:27 AM<!-- techweb-allnews:END -->
+- 👍 [火山引擎发布六大行业云上增长解决方案](http://www.techweb.com.cn/it/2022-07-20/2898806.shtml) | Wed Jul 20 2022 8:31 AM
+- 👹 [韩国计划未来10年培养15万名半导体工程师](http://www.techweb.com.cn/world/2022-07-20/2898805.shtml) | Wed Jul 20 2022 8:13 AM
+- 🪜 [消息称马斯克旗下脑机接口公司Neuralink又一联合创始人离职](http://www.techweb.com.cn/world/2022-07-20/2898804.shtml) | Wed Jul 20 2022 8:02 AM
+- 🤭 [美光发布2022年度可持续发展报告](http://www.techweb.com.cn/it/2022-07-20/2898803.shtml) | Wed Jul 20 2022 7:43 AM
+- 🙉 [Colt DCS赖竞芳：助力中国企业出海 实现“双碳”目标](http://www.techweb.com.cn/it/2022-07-20/2898802.shtml) | Wed Jul 20 2022 7:42 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
