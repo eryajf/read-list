@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [baidu.com 无法访问](https://www.v2ex.com/t/867599#reply8) | Wed Jul 20 2022 10:19 AM
-- 🤗 [大家的 CI 流程复杂嘛？我们这个又是 kw,converity,又是 UT, FT，又是圈复杂度等等，可怕呀](https://www.v2ex.com/t/867597#reply4) | Wed Jul 20 2022 10:15 AM
-- 🎭 [有什么可以替代第三方 cookie 的广告追踪技术吗？](https://www.v2ex.com/t/867588#reply0) | Wed Jul 20 2022 9:48 AM
-- 🥷 [Benchmark AWS EC2&#39;s Network PPS by dperf](https://www.v2ex.com/t/867586#reply0) | Wed Jul 20 2022 9:47 AM
-- 🐵 [求推荐个 87 键盘无线,有灯,按键不费劲的](https://www.v2ex.com/t/867570#reply0) | Wed Jul 20 2022 8:34 AM<!-- v2ex:END -->
+- 🥸 [谷歌发布开源开发语言 Carbon : 号称将替代 C++](https://www.v2ex.com/t/867631#reply7) | Wed Jul 20 2022 1:22 PM
+- 🤗 [也开始定制自己的编程语言……](https://www.v2ex.com/t/867628#reply1) | Wed Jul 20 2022 12:56 PM
+- 🎭 [加密的 exe 如何运行？](https://www.v2ex.com/t/867625#reply1) | Wed Jul 20 2022 12:44 PM
+- 🥷 [baidu.com 无法访问](https://www.v2ex.com/t/867599#reply9) | Wed Jul 20 2022 10:19 AM
+- 🐵 [大家的 CI 流程复杂嘛？我们这个又是 kw,converity,又是 UT, FT，又是圈复杂度等等，可怕呀](https://www.v2ex.com/t/867597#reply4) | Wed Jul 20 2022 10:15 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
