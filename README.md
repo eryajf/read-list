@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从电影到漫画，再到叙事可视化（四）剪辑](https://juejin.cn/post/7122288697877200909) | Wed Jul 20 2022 3:17 AM 
+- 🤗 [说说 Python 的元编程](https://juejin.cn/post/7122297118911365134) | Wed Jul 20 2022 3:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    提到元这个字，你也许会想到元数据，元数据就是描述数据本身的数据，元类就是类的类，相应的元编程就是描述代码本身的代码，元编程就是关于创建操作源代码&lpar;比如修改、生成或包装原来的代码&rpar;的函数和类。主要技术是 
+    </details> 
+
+- 🎡 [Vue3 中如何加载动态菜单？](https://juejin.cn/post/7122294942302470174) | Wed Jul 20 2022 3:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    松哥之前写了两篇文章和大家分享了 TienChin 项目中的菜单数据问题，还没看过的小伙伴请戳这里： Vue 里，多级菜单要如何设计才显得专业？ TienChin 项目动态菜单接口分析 这两篇文章主要 
+    </details> 
+
+- 🕯 [从运维到运维大神，只需要一个正确的选择](https://juejin.cn/post/7122292156630302750) | Wed Jul 20 2022 3:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    简介： 对于运维工作来说，想要在黑天鹅横飞，灰犀牛直撞的当下，既能独善其身，又能兼济天下，那么选择一款靠谱的存储产品，是至关重要的。 马上就是7月24日了，听群里的朋友说，7和24这两个数字是运维工作 
+    </details> 
+
+- 🚀 [从电影到漫画，再到叙事可视化（四）剪辑](https://juejin.cn/post/7122288697877200909) | Wed Jul 20 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
     hello，大家好，豆皮范儿今天由 Random Forest 给大家带来了《漫谈：从电影到漫画，再到叙事可视化》系列，今天带来了第四节「剪辑」。 上一篇：漫谈：从电影到漫画，再到叙事可视化（三）声音 
     </details> 
 
-- 🎡 [阿里云云原生一体化数仓 — 数据治理新能力解读](https://juejin.cn/post/7122284732301180964) | Wed Jul 20 2022 3:02 AM 
+- 💪 [阿里云云原生一体化数仓 — 数据治理新能力解读](https://juejin.cn/post/7122284732301180964) | Wed Jul 20 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     简介： 本文介绍大数据开发治理平台DataWorks在数据治理领域的最新产品进展，包括基于事前、事中、事后的全链路理念构建的核心产品功能和数据治理量化评估机制解读，以及围绕降本增效的成本治理最佳实践。 
-    </details> 
-
-- 🕯 [KusionStack 开源｜Kusion 模型库和工具链的探索实践](https://juejin.cn/post/7122283542469410830) | Wed Jul 20 2022 2:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    KusionStack 最早是为了解决蚂蚁内部复杂的运维场景而诞生的解决方案。思路是通过自研的 DSL（KCL）沉淀运维模型 （Kusion Model）…… 
-    </details> 
-
-- 🚀 [比Bloom Filter节省25%空间！Ribbon Filter在Lindorm中的应用](https://juejin.cn/post/7122280277472182286) | Wed Jul 20 2022 2:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介： 本文研究了一种新的过滤器Ribbon Filter，并将其集成到Lindorm中 作者：箫苏 朝戈 正研 1 前言 Lindorm是一个低成本高吞吐的多模数据库，目前，Lindorm是阿里内部 
-    </details> 
-
-- 💪 [手把手教你实现 Tree 组件搜索过滤功能、从零开始搭建一个属于自己的组件库、如何设计一套比较安全的接口访问策略丨酱酱的下午茶第32期](https://juejin.cn/post/7122277122877423630) | Wed Jul 20 2022 2:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近鉴于掘友们的热情召唤，我们终于把做了几百期的社群下午茶搬到站内了，酱酱们会一直陪伴，认真创作的掘友们，站内下午茶新增优质作者介绍和码上掘金板块，专注于发掘站内优质创作者和优质内容，欢迎大家多提宝贵 
     </details> 
 <!-- juejin:END -->
 ### 少数派
