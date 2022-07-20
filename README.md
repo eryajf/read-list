@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [抖音爱奇艺宣布合作 长短视频握手和解？](http://www.techweb.com.cn/viewpoint/2022-07-20/2898769.shtml) | Wed Jul 20 2022 4:04 AM
-- 👹 [沸腾的短剧江湖：十个剧组九个在拍，头部分账金超3000万，用户上瘾陷付费套路](http://www.techweb.com.cn/viewpoint/2022-07-20/2898768.shtml) | Wed Jul 20 2022 4:04 AM
-- 🪜 [虚拟现实公司MetaX对Meta提起商标侵权诉讼](http://www.techweb.com.cn/world/2022-07-20/2898767.shtml) | Wed Jul 20 2022 4:02 AM
-- 🤭 [爱奇艺“抱住”抖音](http://www.techweb.com.cn/viewpoint/2022-07-20/2898766.shtml) | Wed Jul 20 2022 3:47 AM
-- 🙉 [亚马逊云科技顾凡：赋能整车厂加速“新四化”转型](http://www.techweb.com.cn/it/2022-07-20/2898765.shtml) | Wed Jul 20 2022 3:33 AM<!-- techweb-allnews:END -->
+- 👍 [罗敏成不了董宇辉](http://www.techweb.com.cn/viewpoint/2022-07-20/2898772.shtml) | Wed Jul 20 2022 4:39 AM
+- 👹 [抖音爱奇艺宣布合作 长短视频握手和解？](http://www.techweb.com.cn/viewpoint/2022-07-20/2898769.shtml) | Wed Jul 20 2022 4:04 AM
+- 🪜 [沸腾的短剧江湖：十个剧组九个在拍，头部分账金超3000万，用户上瘾陷付费套路](http://www.techweb.com.cn/viewpoint/2022-07-20/2898768.shtml) | Wed Jul 20 2022 4:04 AM
+- 🤭 [虚拟现实公司MetaX对Meta提起商标侵权诉讼](http://www.techweb.com.cn/world/2022-07-20/2898767.shtml) | Wed Jul 20 2022 4:02 AM
+- 🙉 [爱奇艺“抱住”抖音](http://www.techweb.com.cn/viewpoint/2022-07-20/2898766.shtml) | Wed Jul 20 2022 3:47 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
