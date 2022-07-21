@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [倒计时一天！XDC 2022 炸场来袭！](https://juejin.cn/post/7122734270237376520) | Thu Jul 21 2022 8:07 AM 
+- 🤗 [超极速的Vue3上手指北🔥](https://juejin.cn/post/7122760155707473956) | Thu Jul 21 2022 9:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    笔者之前是Vue2+React开发者，因项目需要直接上手Vue3，所以快速学习一下，中间会对比一些和React相关的区别 
+    </details> 
+
+- 🎡 [亚马逊Prime：流媒大战杀手锏](https://juejin.cn/post/7122745838438187045) | Thu Jul 21 2022 8:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    l 亚马逊在 2014 年 3 月、2018 年 4 月和 2022 年 2 月分别提高了 Prime 会员费。 l Prime会员费的稳步上涨表明管理层对保持客户忠诚度和低流失率的信心。 
+    </details> 
+
+- 🕯 [注意 new BigDecimal&lpar;double val&rpar; 的使用](https://juejin.cn/post/7122734648517459976) | Thu Jul 21 2022 8:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    今天下午跑单元测试报错，发现一个关于 new BigDecimal&lpar;double val&rpar; 的代码问题，总结下。 
+    </details> 
+
+- 🚀 [倒计时一天！XDC 2022 炸场来袭！](https://juejin.cn/post/7122734270237376520) | Thu Jul 21 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
     2 天沉浸式体验，从早到晚，精彩不停 18 大技术专场免费观看，前端、后端到全栈，应有尽有 近百位技术专家，一线科技大厂，分享实践驱动经验 尤雨溪、谭待、月影、玉伯等技术大咖 
     </details> 
 
-- 🎡 [3D相册，逝去的老物件儿又来攻击我](https://juejin.cn/post/7122711051514150920) | Thu Jul 21 2022 6:37 AM 
+- 💪 [接口文档管理工具，选yapi 还是 Apifox？ 这里列出了两款软件的深度分析，看完再下载不迟。](https://juejin.cn/post/7122719480425218084) | Thu Jul 21 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 3d相册，还记得小时候拍照是胶卷拍的，柯达胶卷印象深刻。随着时代发展现在照片都是数码的了，手机拍照也越来越离谱的跟相机一样了，照片都放在手机或电脑里了。实体相册倒是少见很多，唯一用途可能就是结婚 
-    </details> 
-
-- 🕯 [优化实战 第41期 - 数据分析之交集、并集、对称差集](https://juejin.cn/post/7122709050671759374) | Thu Jul 21 2022 6:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    数据结构是待处理问题的数学模型，算法则是处理问题的策略。 作为软件工程师除了要对现实问题有很好的理解与把控外，还要深谙数据结构与算法才能找到合适的数学模型和算法，从而服务于后续的工作。由此数据结构与算 
-    </details> 
-
-- 🚀 [基于 Docker 来部署 Vue 或 React 前端项目及 Node 后端服务](https://juejin.cn/post/7122708049122459662) | Thu Jul 21 2022 6:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    使用 Docker 部署，在镜像导出迁移方面很方便，部署时也只需要导入及运行等，不需要再关心环境及配置等。这篇文章讲下我是怎么用 Docker 来部署项目的。 
-    </details> 
-
-- 💪 [同城订单同城送，爆单依旧得心应手！](https://juejin.cn/post/7122706763442290695) | Thu Jul 21 2022 6:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    你接的同城订单是怎么配送的？交给快递省心了，但省钱了吗？自己配送省钱了，但省力了吗？雇人配送省力了，但有保障吗？每个方法都行得通，但你都中意吗？ 今天，CRMEB 给你一个新的选择，CRMEB 多商户 
+    本文对两款口碑不错的国产接口管理工具yapi和apifox进行功能对比，为想要选择接口管理工具的开发者提供一些参考信息 
     </details> 
 <!-- juejin:END -->
 ### 少数派
