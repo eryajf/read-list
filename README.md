@@ -211,27 +211,27 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我在淘宝做弹窗，2022 年初的回顾与展望](https://juejin.cn/post/7122797194519773221) | Thu Jul 21 2022 12:12 PM 
+- 🤗 [音频的价值、AI Codec 的意义与算法能力的边界丨一期一会 • 音频工程师专场](https://juejin.cn/post/7122820591760965669) | Thu Jul 21 2022 1:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    音频技术发展到今天，经历了从模拟音频到数字音频到历程。国际音频工程师协会创建于 1948 年，中国数字音频技术起步相对较晚，长期被国外组织和公司垄断。 
+    </details> 
+
+- 🎡 [我在淘宝做弹窗，2022 年初的回顾与展望](https://juejin.cn/post/7122797194519773221) | Thu Jul 21 2022 12:12 PM 
     <details><summary>展开描述 ...</summary> 
     本篇文章作者向各位介绍了自己加入 PopLayer 项目一年多时间以来，为产品所贡献的一份力量，既包含了站在产品视角对产品功能，易用性和未来发展的考量，也包括了站在技术视角，对技术架构，编程范式和功能 
     </details> 
 
-- 🎡 [看完这篇，你也可以搞定有趣的动态曲线绘制](https://juejin.cn/post/7122790277315559437) | Thu Jul 21 2022 11:46 AM 
+- 🕯 [看完这篇，你也可以搞定有趣的动态曲线绘制](https://juejin.cn/post/7122790277315559437) | Thu Jul 21 2022 11:46 AM 
     <details><summary>展开描述 ...</summary> 
     利用 Flutter 的 PathMetric可以获取绘制路径的属性和子路径，通过这种方式就可以实现有趣的动态曲线绘制。 
     </details> 
 
-- 🕯 [低代码平台的属性面板该如何设计？](https://juejin.cn/post/7122776138958503944) | Thu Jul 21 2022 10:51 AM 
+- 🚀 [低代码平台的属性面板该如何设计？](https://juejin.cn/post/7122776138958503944) | Thu Jul 21 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
     在之前的如何设计实现 H5 营销页面搭建系统中，我对前端目前的低代码平台的设计中的一些问题做了一些阐述，但并没有深入到很细节的地方去展开探讨。接下来，我会对其中的一些实现细节通过几篇文章来依次分享。  
     </details> 
 
-- 🚀 [领域驱动设计：事件溯源架构简介](https://juejin.cn/post/7122768490863263781) | Thu Jul 21 2022 10:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    事件溯源架构通常由3种应用设计模式组成，分别是：事件驱动（Event Driven），事件溯源（Event Source）、CQRS。本文整体对事件溯源架构设计模式进行了简介。 
-    </details> 
-
-- 💪 [领域驱动设计：事件溯源架构简介](https://juejin.cn/post/7122768080349954085) | Thu Jul 21 2022 10:18 AM 
+- 💪 [领域驱动设计：事件溯源架构简介](https://juejin.cn/post/7122768490863263781) | Thu Jul 21 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
     事件溯源架构通常由3种应用设计模式组成，分别是：事件驱动（Event Driven），事件溯源（Event Source）、CQRS。本文整体对事件溯源架构设计模式进行了简介。 
     </details> 
