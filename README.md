@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [元气森林：确实在研发不含防腐剂的无糖可乐味产品](http://www.techweb.com.cn/it/2022-07-21/2898924.shtml) | Thu Jul 21 2022 6:42 AM
-- 👹 [滴滴回应被罚80.26亿元：诚恳接受 全面自查 认真整改](http://www.techweb.com.cn/it/2022-07-21/2898919.shtml) | Thu Jul 21 2022 6:11 AM
-- 🪜 [80.26亿元！国家互联网信息办公室对滴滴依法作出网络安全审查相关行政处罚](http://www.techweb.com.cn/it/2022-07-21/2898917.shtml) | Thu Jul 21 2022 6:07 AM
-- 🤭 [数字人直播像做PPT一样简单？百度智能云推出数字人直播平台](http://www.techweb.com.cn/internet/2022-07-21/2898916.shtml) | Thu Jul 21 2022 6:04 AM
-- 🙉 [奈飞有病，爱优腾有药？](http://www.techweb.com.cn/viewpoint/2022-07-21/2898912.shtml) | Thu Jul 21 2022 4:44 AM<!-- techweb-allnews:END -->
+- 👍 [滴滴收80亿罚单 数据安全板块大涨 奇安信午盘涨5.6%](http://www.techweb.com.cn/it/2022-07-21/2898930.shtml) | Thu Jul 21 2022 7:51 AM
+- 👹 [韩国主要科技公司未来5年将向芯片领域投资近2600亿美元](http://www.techweb.com.cn/world/2022-07-21/2898929.shtml) | Thu Jul 21 2022 7:51 AM
+- 🪜 [元气森林：确实在研发不含防腐剂的无糖可乐味产品](http://www.techweb.com.cn/it/2022-07-21/2898924.shtml) | Thu Jul 21 2022 6:42 AM
+- 🤭 [滴滴回应被罚80.26亿元：诚恳接受 全面自查 认真整改](http://www.techweb.com.cn/it/2022-07-21/2898919.shtml) | Thu Jul 21 2022 6:11 AM
+- 🙉 [80.26亿元！国家互联网信息办公室对滴滴依法作出网络安全审查相关行政处罚](http://www.techweb.com.cn/it/2022-07-21/2898917.shtml) | Thu Jul 21 2022 6:07 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
