@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [微信 8.0.26 更新：「小窗模式」终于来了，还有 1 个实用功能](https://sspai.com/post/74722) | Thu Jul 21 2022 6:30 AM 
+- 👹 [露一手 | 豆米火锅——20 分钟搞定贵州家常菜](https://sspai.com/prime/story/recipe-doumihuoguo) | Thu Jul 21 2022 8:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是一道非常简单的家常菜，它的包容度很高，即便是新手，只要你在加料时依据口味少次多加慢慢调味，几乎很难失败。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/recipe-doumihuoguo&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [微信 8.0.26 更新：「小窗模式」终于来了，还有 1 个实用功能](https://sspai.com/post/74722) | Thu Jul 21 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     使用iOS的你，或许遇到过这样的情况：在阅读公众号文章、使用小程序时，突然来了个消息。你只能逐步回退到主界面，再从列表中找到对应的聊天回复消息。然而，有消息要回还算是好的。最怕的是当你被迫中断自己正在 ...&lt;a href=&quot;https://sspai.com/post/74722&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [Make AMD Yes again：FSR 2.0 让老显卡焕发第二春](https://sspai.com/post/74721) | Thu Jul 21 2022 3:30 AM 
+- 🤭 [Make AMD Yes again：FSR 2.0 让老显卡焕发第二春](https://sspai.com/post/74721) | Thu Jul 21 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     通过 DLSS 移植的 FSR 2.0 体验如何？不妨大声喊出那 6 个字母。&lt;a href=&quot;https://sspai.com/post/74721&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：努比亚发布 Z40S Pro 手机、高通公布骁龙峰会时间等](https://sspai.com/post/74719) | Thu Jul 21 2022 12:27 AM 
+- 🥸 [派早报：努比亚发布 Z40S Pro 手机、高通公布骁龙峰会时间等](https://sspai.com/post/74719) | Thu Jul 21 2022 12:27 AM 
     <details><summary>展开描述 ...</summary> 
     微软商店将允许付费开源应用上架、索尼将收购电子竞技平台 Repeat.gg 等。&lt;a href=&quot;https://sspai.com/post/74719&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [试播集 08 | 少数派作者们最近读完了啥（上）](https://sspai.com/post/74364) | Wed Jul 20 2022 9:30 AM 
+- 🙉 [试播集 08 | 少数派作者们最近读完了啥（上）](https://sspai.com/post/74364) | Wed Jul 20 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目不少读者表示希望能够见到更多关于文化与书籍的内容，充实书单、丰富精神。机器人特地邀请了Matrix社区作者们来聊聊自己近期阅读的有意思的书籍。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱 ...&lt;a href=&quot;https://sspai.com/post/74364&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [奏折 | Nothing Phone &lpar;1&rpar; 消息汇总、Android 社区的新鲜事等](https://sspai.com/prime/story/zouzhe-vol01) | Wed Jul 20 2022 8:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    本周「奏折」，我们在 Nothing Phone &lpar;1&rpar; 全面开售前为你汇总全网评测、报道和资讯中值得关注的小细节，以及其它 4 条值得关注的泛 Android 资讯。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/zouzhe-vol01&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
