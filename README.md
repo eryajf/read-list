@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [回忆曾跨过的坎：详尽解析前端性能优化体系（一）](https://juejin.cn/post/7122472560813408286) | Wed Jul 20 2022 3:12 PM 
+- 🤗 [一年时间过去了，LiveData真的被Flow代替了吗? LiveData会被废弃吗？](https://juejin.cn/post/7122621956385406990) | Thu Jul 21 2022 12:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    在去年的这个时候，谷歌官方推荐使用 Flow 替代LiveData，一年时间过去了，我相信还是有很多android开发的朋友和我一样有以下几个问题：Android开发人员需要从 LiveData 
+    </details> 
+
+- 🎡 [「React进阶」React中没有keepalive？没事！手把手教你从零到一设计并实现一个！](https://juejin.cn/post/7122617883837857806) | Thu Jul 21 2022 12:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    React 中没有 keepalive 怎么办？遇到这样的需求难道我们就不做了吗？今天我们从原理到实践，从零到一，在React 中实现 Vue 中的 keepalive 功能！ 
+    </details> 
+
+- 🕯 [Flutter 绘制探索 | 箭头端点的设计](https://juejin.cn/post/7122610005408219172) | Thu Jul 21 2022 12:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    上一篇 《Flutter 绘制探索 | 来一起画箭头吧》 ，实现了一个可以自由拓展的箭头绘制小体系。线和箭头的旋转已经封装好了，只需要在矩形端点矩形域中提供路径即可。本文我们就来对端点的箭头路径进行拓 
+    </details> 
+
+- 🚀 [回忆曾跨过的坎：详尽解析前端性能优化体系（一）](https://juejin.cn/post/7122472560813408286) | Wed Jul 20 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
     如题，本文详尽解析前端性能优化体系。通俗易懂，目前首篇内容涉及性能优化流程以及立项经验。后续会补齐本系列。 
     </details> 
 
-- 🎡 [Web端高分屏图片加载方案](https://juejin.cn/post/7122470950079037448) | Wed Jul 20 2022 3:05 PM 
+- 💪 [Web端高分屏图片加载方案](https://juejin.cn/post/7122470950079037448) | Wed Jul 20 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
     随着显示器的快速发展，越来越多的用户更换了高分屏，我们作为Web开发者，网站内的图片尺寸都是适配普通屏幕的，如果在高分屏上图片将会变得模糊不清。 我观察了几个网站，发现他们... 
-    </details> 
-
-- 🕯 [我在腾讯这一年](https://juejin.cn/post/7122457596476260388) | Wed Jul 20 2022 2:14 PM 
-    <details><summary>展开描述 ...</summary> 
-    去年初，我从 Shopee 离职加入了腾讯文档前端团队。在腾讯文档这一年来有很多收获和感想，在技术道路上迈出了新的一步。 
-    </details> 
-
-- 🚀 [Flutter 小技巧之优化使用的 BuildContext](https://juejin.cn/post/7122409135055831053) | Wed Jul 20 2022 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    Flutter 里的 BuildContext 相信大家都不会陌生，虽然它叫 Context，但是它实际是 Element 的抽象对象，而在 Flutter 里，它主要来自于 ComponentEle 
-    </details> 
-
-- 💪 [go-linq 从入门到实战](https://juejin.cn/post/7122403456417021989) | Wed Jul 20 2022 10:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    Go-linq作为Go语言继承查询的库，具有无其他依赖库，使用迭代器模式实现懒加载，并发安全，通用功能代码简洁，数据集合支持多种类型等优点，本文从输入、控制、输出三点讲解go-linq从入门到实战。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
