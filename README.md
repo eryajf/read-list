@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [一个仅需三步配置就能生成免费个人博客的开源模板： vdoing-template](https://www.v2ex.com/t/867811#reply0) | Thu Jul 21 2022 9:15 AM
-- 🤗 [请教擅长 activiti 工作流的朋友，请问这个流程是用到子流程吗？](https://www.v2ex.com/t/867794#reply0) | Thu Jul 21 2022 8:28 AM
-- 🎭 [线上 RPC 调用超时问题请教](https://www.v2ex.com/t/867787#reply2) | Thu Jul 21 2022 8:09 AM
-- 🥷 [注册 AWS 账号复杂吗？不复杂！](https://www.v2ex.com/t/867776#reply2) | Thu Jul 21 2022 7:43 AM
-- 🐵 [咨询下大家的审批流都是怎么做的？](https://www.v2ex.com/t/867773#reply3) | Thu Jul 21 2022 7:35 AM<!-- v2ex:END -->
+- 🥸 [现在的云服务吧，真不知道该说是好用还是不好用](https://www.v2ex.com/t/867830#reply0) | Thu Jul 21 2022 10:04 AM
+- 🤗 [有什么办法把百度输入法生成的手写字体导到电脑吗？](https://www.v2ex.com/t/867828#reply0) | Thu Jul 21 2022 9:57 AM
+- 🎭 [Ubuntu 有最小化安装的选项吗](https://www.v2ex.com/t/867825#reply6) | Thu Jul 21 2022 9:49 AM
+- 🥷 [Java 中有比较精确的微秒级别的延迟方法吗](https://www.v2ex.com/t/867823#reply5) | Thu Jul 21 2022 9:42 AM
+- 🐵 [试过跨平台拷贝 git 管理的项目吗？大佬们](https://www.v2ex.com/t/867822#reply6) | Thu Jul 21 2022 9:41 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
