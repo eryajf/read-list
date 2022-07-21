@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [中国电信5G套餐用户数达2.32亿 5G套餐用户渗透率超60%](http://www.techweb.com.cn/it/2022-07-21/2898859.shtml) | Thu Jul 21 2022 1:19 AM
-- 👹 [华为助力运营商云转型，加速释放联接红利](http://www.techweb.com.cn/it/2022-07-20/2898823.shtml) | Wed Jul 20 2022 1:53 PM
-- 🪜 [XSKY星辰天合发布XEOS V6  四大特质推动业务创新](http://www.techweb.com.cn/it/2022-07-20/2898822.shtml) | Wed Jul 20 2022 1:51 PM
-- 🤭 [360数科灵犀质量中台半年报：服务部署次数超18万](http://www.techweb.com.cn/it/2022-07-20/2898821.shtml) | Wed Jul 20 2022 11:07 AM
-- 🙉 [谁在杀死欧洲新造车？](http://www.techweb.com.cn/viewpoint/2022-07-20/2898814.shtml) | Wed Jul 20 2022 9:41 AM<!-- techweb-allnews:END -->
+- 👍 [网易云音乐获得YG娱乐公司音乐版权 BIGBANG、BLACKPINK等组合作品上线](http://www.techweb.com.cn/internet/2022-07-21/2898897.shtml) | Thu Jul 21 2022 2:42 AM
+- 👹 [十年烧光1300亿，垂直电商终将走进历史尘埃](http://www.techweb.com.cn/it/2022-07-21/2898896.shtml) | Thu Jul 21 2022 2:42 AM
+- 🪜 [中厂败走菜篮子](http://www.techweb.com.cn/viewpoint/2022-07-21/2898891.shtml) | Thu Jul 21 2022 2:33 AM
+- 🤭 [通用和福特申请部署无方向盘自动驾驶汽车](http://www.techweb.com.cn/world/2022-07-21/2898887.shtml) | Thu Jul 21 2022 2:28 AM
+- 🙉 [马斯克称已将大脑上传到云端](http://www.techweb.com.cn/shipin/2022-07-21/2898884.shtml) | Thu Jul 21 2022 2:23 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
