@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [UHD630 在 Windows 下的共享 GPU 内存](https://www.v2ex.com/t/867678#reply2) | Thu Jul 21 2022 1:41 AM
-- 🤗 [关于 uniapp 的原生插件](https://www.v2ex.com/t/867667#reply4) | Thu Jul 21 2022 12:50 AM
-- 🎭 [安卓 11 支持 DNS-over-HTTP/3 啦](https://www.v2ex.com/t/867663#reply5) | Wed Jul 20 2022 8:38 PM
-- 🥷 [感觉 uber/fx 并不比 getInstance 工厂好用](https://www.v2ex.com/t/867658#reply2) | Wed Jul 20 2022 5:32 PM
-- 🐵 [做解析接入的时候，能只接入一个子域名吗？](https://www.v2ex.com/t/867652#reply1) | Wed Jul 20 2022 4:19 PM<!-- v2ex:END -->
+- 🥸 [Gopher 我们一起来造个 ORM 吧!](https://www.v2ex.com/t/867712#reply0) | Thu Jul 21 2022 3:36 AM
+- 🤗 [请教一下，怎么强制页面在 360 浏览器下不给切换成兼容模式](https://www.v2ex.com/t/867710#reply7) | Thu Jul 21 2022 3:13 AM
+- 🎭 [2022 年 7 月份了，想买个配置差不多点的安卓原生系统的备用机，有没有推荐的](https://www.v2ex.com/t/867709#reply1) | Thu Jul 21 2022 3:10 AM
+- 🥷 [nginx: 请教如何域名重定向](https://www.v2ex.com/t/867707#reply1) | Thu Jul 21 2022 2:57 AM
+- 🐵 [在 Java 中为什么不全部使用 static 方法？](https://www.v2ex.com/t/867705#reply23) | Thu Jul 21 2022 2:55 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
