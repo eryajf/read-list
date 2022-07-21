@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [领域驱动设计：事件溯源架构简介](https://juejin.cn/post/7122768490863263781) | Thu Jul 21 2022 10:19 AM 
+- 🤗 [看完这篇，你也可以搞定有趣的动态曲线绘制](https://juejin.cn/post/7122790277315559437) | Thu Jul 21 2022 11:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    利用 Flutter 的 PathMetric可以获取绘制路径的属性和子路径，通过这种方式就可以实现有趣的动态曲线绘制。 
+    </details> 
+
+- 🎡 [低代码平台的属性面板该如何设计？](https://juejin.cn/post/7122776138958503944) | Thu Jul 21 2022 10:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    在之前的如何设计实现 H5 营销页面搭建系统中，我对前端目前的低代码平台的设计中的一些问题做了一些阐述，但并没有深入到很细节的地方去展开探讨。接下来，我会对其中的一些实现细节通过几篇文章来依次分享。  
+    </details> 
+
+- 🕯 [领域驱动设计：事件溯源架构简介](https://juejin.cn/post/7122768490863263781) | Thu Jul 21 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
     事件溯源架构通常由3种应用设计模式组成，分别是：事件驱动（Event Driven），事件溯源（Event Source）、CQRS。本文整体对事件溯源架构设计模式进行了简介。 
     </details> 
 
-- 🎡 [34个图片压缩工具集合，包含在线压缩和CLI工具](https://juejin.cn/post/7122766183421444110) | Thu Jul 21 2022 10:11 AM 
+- 🚀 [领域驱动设计：事件溯源架构简介](https://juejin.cn/post/7122768080349954085) | Thu Jul 21 2022 10:18 AM 
     <details><summary>展开描述 ...</summary> 
-    许多开发人员花费了大量时间优化网页性能，比如优化 js、css、减少http 请求等等，但减小图片大小产生的优化比其他所有领域加起来影响更大。 
+    事件溯源架构通常由3种应用设计模式组成，分别是：事件驱动（Event Driven），事件溯源（Event Source）、CQRS。本文整体对事件溯源架构设计模式进行了简介。 
     </details> 
 
-- 🕯 [入门即享受！coolbpf 硬核提升 BPF 开发效率 | 龙蜥技术](https://juejin.cn/post/7122761769612738573) | Thu Jul 21 2022 9:54 AM 
+- 💪 [Android 面试题：说一下 PendingIntent 和 Intent 的区别](https://juejin.cn/post/7122767360976486413) | Thu Jul 21 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-    简介： 干货必备！何为享受式开发？ 编者按：BPF 技术还在如火如荼的发展着，本文先通过对 BPF 知识的介绍，带领大家入门 BPF，然后介绍 coolbpf 的远程编译（原名 LCC，LibbpfC 
-    </details> 
-
-- 🚀 [超极速的Vue3上手指北🔥](https://juejin.cn/post/7122760155707473956) | Thu Jul 21 2022 9:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    笔者之前是Vue2+React开发者，因项目需要直接上手Vue3，所以快速学习一下，中间会对比一些和React相关的区别 
-    </details> 
-
-- 💪 [冴羽答读者问：过程比结果重要吗？如果是，怎么理解？如果不是，又怎么解？](https://juejin.cn/post/7122753325748977672) | Thu Jul 21 2022 9:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    有一种思维被称为“二元化思维”，有的时候也称“二元对立思维”，简单的来说就是非黑即白，所有的事情只有两种答案，对或者错，成功或者失败，好人或者坏人…… 也许你见过这样的对话，有一个人说：“我们不应该 
+    PendingIntent 是一种延迟的 Intent，表示一种延迟执行的意图操作？其实 PendingIntent 一种是支持授权其他应用以当前应用的身份执行包装 Intent 操作的系统特性 
     </details> 
 <!-- juejin:END -->
 ### 少数派
