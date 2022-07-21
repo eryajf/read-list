@@ -204,9 +204,9 @@
 <!-- v2ex:START -->
 - 🥸 [安卓 10 非系统 App 无法安装 apk 文件](https://www.v2ex.com/t/867884#reply0) | Thu Jul 21 2022 6:53 PM
 - 🤗 [请教个问题，背压&lpar;backpressure&rpar;是如何体现在 Webflux 的呢？](https://www.v2ex.com/t/867883#reply0) | Thu Jul 21 2022 6:06 PM
-- 🎭 [有日志&lpar;stdout or file&rpar; qps 4k，没日志 qps 10w. why?](https://www.v2ex.com/t/867876#reply6) | Thu Jul 21 2022 4:29 PM
+- 🎭 [有日志&lpar;stdout or file&rpar; qps 4k，没日志 qps 10w. why?](https://www.v2ex.com/t/867876#reply7) | Thu Jul 21 2022 4:29 PM
 - 🥷 [作为一名急于找工作，但目前了解的语言都不是很深入的人，首要学习语言应该选择 Python 还是 Java](https://www.v2ex.com/t/867875#reply12) | Thu Jul 21 2022 4:24 PM
-- 🐵 [作为 Java 工程师，第二语言应该选择 Python 还是 Go](https://www.v2ex.com/t/867873#reply10) | Thu Jul 21 2022 3:37 PM<!-- v2ex:END -->
+- 🐵 [作为 Java 工程师，第二语言应该选择 Python 还是 Go](https://www.v2ex.com/t/867873#reply12) | Thu Jul 21 2022 3:37 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
