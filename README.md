@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Gopher 我们一起来造个 ORM 吧!](https://www.v2ex.com/t/867712#reply0) | Thu Jul 21 2022 3:36 AM
-- 🤗 [请教一下，怎么强制页面在 360 浏览器下不给切换成兼容模式](https://www.v2ex.com/t/867710#reply7) | Thu Jul 21 2022 3:13 AM
-- 🎭 [2022 年 7 月份了，想买个配置差不多点的安卓原生系统的备用机，有没有推荐的](https://www.v2ex.com/t/867709#reply1) | Thu Jul 21 2022 3:10 AM
-- 🥷 [nginx: 请教如何域名重定向](https://www.v2ex.com/t/867707#reply1) | Thu Jul 21 2022 2:57 AM
-- 🐵 [在 Java 中为什么不全部使用 static 方法？](https://www.v2ex.com/t/867705#reply23) | Thu Jul 21 2022 2:55 AM<!-- v2ex:END -->
+- 🥸 [wasm 插件配置问题，怎么把 wasm 转成 istio 插件](https://www.v2ex.com/t/867719#reply0) | Thu Jul 21 2022 4:12 AM
+- 🤗 [Gopher 我们一起来造个 ORM 吧!](https://www.v2ex.com/t/867712#reply1) | Thu Jul 21 2022 3:36 AM
+- 🎭 [请教一下，怎么强制页面在 360 浏览器下不给切换成兼容模式](https://www.v2ex.com/t/867710#reply7) | Thu Jul 21 2022 3:13 AM
+- 🥷 [2022 年 7 月份了，想买个配置差不多点的安卓原生系统的备用机，有没有推荐的](https://www.v2ex.com/t/867709#reply9) | Thu Jul 21 2022 3:10 AM
+- 🐵 [nginx: 请教如何域名重定向](https://www.v2ex.com/t/867707#reply4) | Thu Jul 21 2022 2:57 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
