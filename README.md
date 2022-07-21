@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [阿里云发布超融合数字孪生平台已服务高速、城市交通、码头和机场](http://www.techweb.com.cn/it/2022-07-21/2898940.shtml) | Thu Jul 21 2022 8:41 AM
-- 👹 [芭比娃娃制造商美泰与SpaceX达成多年协议 合作生产太空玩具](http://www.techweb.com.cn/world/2022-07-21/2898938.shtml) | Thu Jul 21 2022 8:38 AM
-- 🪜 [腾讯出行在微信内测试打车功能 提供聚合出行服务](http://www.techweb.com.cn/it/2022-07-21/2898933.shtml) | Thu Jul 21 2022 8:33 AM
-- 🤭 [消息称福特将在未来几周裁员多达8000人 以资助电动汽车业务](http://www.techweb.com.cn/world/2022-07-21/2898931.shtml) | Thu Jul 21 2022 7:55 AM
-- 🙉 [滴滴收80亿罚单 数据安全板块大涨 奇安信午盘涨5.6%](http://www.techweb.com.cn/it/2022-07-21/2898930.shtml) | Thu Jul 21 2022 7:51 AM<!-- techweb-allnews:END -->
+- 👍 [联手抖音，爱奇艺得到了什么？](http://www.techweb.com.cn/viewpoint/2022-07-21/2898951.shtml) | Thu Jul 21 2022 9:39 AM
+- 👹 [产业链消息称博通与德州仪器也将提高芯片报价](http://www.techweb.com.cn/world/2022-07-21/2898948.shtml) | Thu Jul 21 2022 9:08 AM
+- 🪜 [韩媒：现代汽车考虑在所有车型上使用宁德时代电池](http://www.techweb.com.cn/world/2022-07-21/2898946.shtml) | Thu Jul 21 2022 9:02 AM
+- 🤭 [阿里云发布超融合数字孪生平台已服务高速、城市交通、码头和机场](http://www.techweb.com.cn/it/2022-07-21/2898940.shtml) | Thu Jul 21 2022 8:41 AM
+- 🙉 [芭比娃娃制造商美泰与SpaceX达成多年协议 合作生产太空玩具](http://www.techweb.com.cn/world/2022-07-21/2898938.shtml) | Thu Jul 21 2022 8:38 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
