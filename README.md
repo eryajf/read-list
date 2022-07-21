@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [手握趣店100亿现金，罗敏决定再赌一把](http://www.techweb.com.cn/viewpoint/2022-07-21/2898908.shtml) | Thu Jul 21 2022 4:13 AM
-- 👹 [韩媒称三星电子3nm工艺所代工芯片定于7月25日出货 但首批不会有很多](http://www.techweb.com.cn/world/2022-07-21/2898907.shtml) | Thu Jul 21 2022 4:10 AM
-- 🪜 [算力时代，全光品质运力网络为何成为“必须”](http://www.techweb.com.cn/viewpoint/2022-07-21/2898906.shtml) | Thu Jul 21 2022 4:07 AM
-- 🤭 [支付宝开放搜索“小程序直达”：门槛更低 有小程序就能配置](http://www.techweb.com.cn/it/2022-07-21/2898903.shtml) | Thu Jul 21 2022 3:45 AM
-- 🙉 [郭明錤：苹果正积极测试9寸可折叠设备 可折叠iPhone要等到2025年](http://www.techweb.com.cn/world/2022-07-21/2898902.shtml) | Thu Jul 21 2022 3:34 AM<!-- techweb-allnews:END -->
+- 👍 [奈飞有病，爱优腾有药？](http://www.techweb.com.cn/viewpoint/2022-07-21/2898912.shtml) | Thu Jul 21 2022 4:44 AM
+- 👹 [大众旗下CARIAD将与意法半导体合作开发汽车芯片](http://www.techweb.com.cn/world/2022-07-21/2898909.shtml) | Thu Jul 21 2022 4:25 AM
+- 🪜 [手握趣店100亿现金，罗敏决定再赌一把](http://www.techweb.com.cn/viewpoint/2022-07-21/2898908.shtml) | Thu Jul 21 2022 4:13 AM
+- 🤭 [韩媒称三星电子3nm工艺所代工芯片定于7月25日出货 但首批不会有很多](http://www.techweb.com.cn/world/2022-07-21/2898907.shtml) | Thu Jul 21 2022 4:10 AM
+- 🙉 [算力时代，全光品质运力网络为何成为“必须”](http://www.techweb.com.cn/viewpoint/2022-07-21/2898906.shtml) | Thu Jul 21 2022 4:07 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
