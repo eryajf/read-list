@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [T Chat 第六期「 Yuu - 我在 Linkedin 做移动端 」7 月 21 日（今晚）21:00 开播](https://www.v2ex.com/t/867839#reply0) | Thu Jul 21 2022 11:01 AM
-- 🤗 [我有两台不在同一局域网的内网 Linux 机器 A, B, 还有一个公网服务器 C, A 可以 ssh 到 C, B 也可以, 我有什么办法通过 C 来实现 A B 通信么? 或者 A 直接拷贝文件给 B](https://www.v2ex.com/t/867836#reply10) | Thu Jul 21 2022 10:30 AM
-- 🎭 [现在的云服务吧，真不知道该说是好用还是不好用](https://www.v2ex.com/t/867830#reply1) | Thu Jul 21 2022 10:04 AM
-- 🥷 [有什么办法把百度输入法生成的手写字体导到电脑吗？](https://www.v2ex.com/t/867828#reply0) | Thu Jul 21 2022 9:57 AM
-- 🐵 [Ubuntu 有最小化安装的选项吗](https://www.v2ex.com/t/867825#reply11) | Thu Jul 21 2022 9:49 AM<!-- v2ex:END -->
+- 🥸 [VSCode 的 CodeLLDB 扩展怎么配置](https://www.v2ex.com/t/867849#reply0) | Thu Jul 21 2022 12:23 PM
+- 🤗 [T Chat 第六期「 Yuu - 我在 Linkedin 做移动端 」7 月 21 日（今晚）21:00 开播](https://www.v2ex.com/t/867839#reply0) | Thu Jul 21 2022 11:01 AM
+- 🎭 [我有两台不在同一局域网的内网 Linux 机器 A, B, 还有一个公网服务器 C, A 可以 ssh 到 C, B 也可以, 我有什么办法通过 C 来实现 A B 通信么? 或者 A 直接拷贝文件给 B](https://www.v2ex.com/t/867836#reply12) | Thu Jul 21 2022 10:30 AM
+- 🥷 [现在的云服务吧，真不知道该说是好用还是不好用](https://www.v2ex.com/t/867830#reply4) | Thu Jul 21 2022 10:04 AM
+- 🐵 [有什么办法把百度输入法生成的手写字体导到电脑吗？](https://www.v2ex.com/t/867828#reply0) | Thu Jul 21 2022 9:57 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
