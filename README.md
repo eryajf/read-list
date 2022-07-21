@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [自建的 nextcloud 服务，开启 https 跳转与强制 https 登录以后只能通过浏览器访问，在应用内无法打开，具体表现为点击授权访问无反应，该怎么解决啊](https://www.v2ex.com/t/867867#reply0) | Thu Jul 21 2022 3:15 PM
-- 🤗 [请问如何在 Linux （PVE， debian）中使用 2.4G 无线遥控器？](https://www.v2ex.com/t/867860#reply0) | Thu Jul 21 2022 2:31 PM
-- 🎭 [从 anki、onenote 到 obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858#reply2) | Thu Jul 21 2022 2:06 PM
-- 🥷 [MacBook 的声音上多了一个 TFFAudio 的输入输出设备，怎么删除？](https://www.v2ex.com/t/867857#reply0) | Thu Jul 21 2022 1:56 PM
-- 🐵 [VSCode 的 CodeLLDB 扩展怎么配置](https://www.v2ex.com/t/867849#reply1) | Thu Jul 21 2022 12:23 PM<!-- v2ex:END -->
+- 🥸 [作为 Java 工程师，第二语言应该选择 Python 还是 Go](https://www.v2ex.com/t/867873#reply2) | Thu Jul 21 2022 3:37 PM
+- 🤗 [自建的 nextcloud 服务，开启 https 跳转与强制 https 登录以后只能通过浏览器访问，在应用内无法打开，具体表现为点击授权访问无反应，该怎么解决啊](https://www.v2ex.com/t/867867#reply3) | Thu Jul 21 2022 3:15 PM
+- 🎭 [请问如何在 Linux （PVE， debian）中使用 2.4G 无线遥控器？](https://www.v2ex.com/t/867860#reply2) | Thu Jul 21 2022 2:31 PM
+- 🥷 [从 anki、onenote 到 obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858#reply5) | Thu Jul 21 2022 2:06 PM
+- 🐵 [MacBook 的声音上多了一个 TFFAudio 的输入输出设备，怎么删除？](https://www.v2ex.com/t/867857#reply0) | Thu Jul 21 2022 1:56 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
