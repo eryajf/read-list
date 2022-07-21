@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [安卓 11 支持 DNS-over-HTTP/3 啦](https://www.v2ex.com/t/867663#reply3) | Wed Jul 20 2022 8:38 PM
-- 🤗 [感觉 uber/fx 并不比 getInstance 工厂好用](https://www.v2ex.com/t/867658#reply0) | Wed Jul 20 2022 5:32 PM
-- 🎭 [做解析接入的时候，能只接入一个子域名吗？](https://www.v2ex.com/t/867652#reply0) | Wed Jul 20 2022 4:19 PM
-- 🥷 [nodejs 如何在单元测试中 mock path.basename 的运行环境](https://www.v2ex.com/t/867647#reply0) | Wed Jul 20 2022 3:38 PM
-- 🐵 [有人用 Cloudflare pages 做过站吗？效果如何](https://www.v2ex.com/t/867637#reply5) | Wed Jul 20 2022 2:11 PM<!-- v2ex:END -->
+- 🥸 [UHD630 在 Windows 下的共享 GPU 内存](https://www.v2ex.com/t/867678#reply2) | Thu Jul 21 2022 1:41 AM
+- 🤗 [关于 uniapp 的原生插件](https://www.v2ex.com/t/867667#reply4) | Thu Jul 21 2022 12:50 AM
+- 🎭 [安卓 11 支持 DNS-over-HTTP/3 啦](https://www.v2ex.com/t/867663#reply5) | Wed Jul 20 2022 8:38 PM
+- 🥷 [感觉 uber/fx 并不比 getInstance 工厂好用](https://www.v2ex.com/t/867658#reply2) | Wed Jul 20 2022 5:32 PM
+- 🐵 [做解析接入的时候，能只接入一个子域名吗？](https://www.v2ex.com/t/867652#reply1) | Wed Jul 20 2022 4:19 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
