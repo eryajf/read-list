@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [超极速的Vue3上手指北🔥](https://juejin.cn/post/7122760155707473956) | Thu Jul 21 2022 9:47 AM 
+- 🤗 [领域驱动设计：事件溯源架构简介](https://juejin.cn/post/7122768490863263781) | Thu Jul 21 2022 10:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    事件溯源架构通常由3种应用设计模式组成，分别是：事件驱动（Event Driven），事件溯源（Event Source）、CQRS。本文整体对事件溯源架构设计模式进行了简介。 
+    </details> 
+
+- 🎡 [34个图片压缩工具集合，包含在线压缩和CLI工具](https://juejin.cn/post/7122766183421444110) | Thu Jul 21 2022 10:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    许多开发人员花费了大量时间优化网页性能，比如优化 js、css、减少http 请求等等，但减小图片大小产生的优化比其他所有领域加起来影响更大。 
+    </details> 
+
+- 🕯 [入门即享受！coolbpf 硬核提升 BPF 开发效率 | 龙蜥技术](https://juejin.cn/post/7122761769612738573) | Thu Jul 21 2022 9:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    简介： 干货必备！何为享受式开发？ 编者按：BPF 技术还在如火如荼的发展着，本文先通过对 BPF 知识的介绍，带领大家入门 BPF，然后介绍 coolbpf 的远程编译（原名 LCC，LibbpfC 
+    </details> 
+
+- 🚀 [超极速的Vue3上手指北🔥](https://juejin.cn/post/7122760155707473956) | Thu Jul 21 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
     笔者之前是Vue2+React开发者，因项目需要直接上手Vue3，所以快速学习一下，中间会对比一些和React相关的区别 
     </details> 
 
-- 🎡 [亚马逊Prime：流媒大战杀手锏](https://juejin.cn/post/7122745838438187045) | Thu Jul 21 2022 8:51 AM 
+- 💪 [冴羽答读者问：过程比结果重要吗？如果是，怎么理解？如果不是，又怎么解？](https://juejin.cn/post/7122753325748977672) | Thu Jul 21 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    l 亚马逊在 2014 年 3 月、2018 年 4 月和 2022 年 2 月分别提高了 Prime 会员费。 l Prime会员费的稳步上涨表明管理层对保持客户忠诚度和低流失率的信心。 
-    </details> 
-
-- 🕯 [注意 new BigDecimal&lpar;double val&rpar; 的使用](https://juejin.cn/post/7122734648517459976) | Thu Jul 21 2022 8:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天下午跑单元测试报错，发现一个关于 new BigDecimal&lpar;double val&rpar; 的代码问题，总结下。 
-    </details> 
-
-- 🚀 [倒计时一天！XDC 2022 炸场来袭！](https://juejin.cn/post/7122734270237376520) | Thu Jul 21 2022 8:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    2 天沉浸式体验，从早到晚，精彩不停 18 大技术专场免费观看，前端、后端到全栈，应有尽有 近百位技术专家，一线科技大厂，分享实践驱动经验 尤雨溪、谭待、月影、玉伯等技术大咖 
-    </details> 
-
-- 💪 [接口文档管理工具，选yapi 还是 Apifox？ 这里列出了两款软件的深度分析，看完再下载不迟。](https://juejin.cn/post/7122719480425218084) | Thu Jul 21 2022 7:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文对两款口碑不错的国产接口管理工具yapi和apifox进行功能对比，为想要选择接口管理工具的开发者提供一些参考信息 
+    有一种思维被称为“二元化思维”，有的时候也称“二元对立思维”，简单的来说就是非黑即白，所有的事情只有两种答案，对或者错，成功或者失败，好人或者坏人…… 也许你见过这样的对话，有一个人说：“我们不应该 
     </details> 
 <!-- juejin:END -->
 ### 少数派
