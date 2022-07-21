@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [814. 二叉树剪枝 : 简单递归运用题](https://juejin.cn/post/7122638991538520100) | Thu Jul 21 2022 1:57 AM 
+- 🤗 [你可能不知道的 前端浏览器（window） 对本地文件操作（File System Access API）](https://juejin.cn/post/7122657335402561550) | Thu Jul 21 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 814. 二叉树剪枝 ，难度为 中等。 Tag : 「二叉树」、「DFS」、「递归」 给你二叉树的根结点 root，此外树的每个结点的值要么是 $0$ ，要么是 
+    文件系统访问API，它解锁了构建强大 Web 应用程序的新功能，例如文本编辑器或IDE、图像编辑工具、改进的导入/导出等等，所有这些都可以在前端进行操作，你也可以做更多有趣的应用 
     </details> 
 
-- 🎡 [【综合笔试题】难度 3.5/5，多解法热门二叉树笔试题](https://juejin.cn/post/7122637990601441287) | Thu Jul 21 2022 1:53 AM 
+- 🎡 [SCA在得物DevSecOps平台上应用​](https://juejin.cn/post/7122655713906098206) | Thu Jul 21 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 987. 二叉树的垂序遍历 ，难度为 困难。 Tag : 「数据结构运用」、「二叉树」、「哈希表」、「排序」、「优先队列（堆）」、「DFS」 给你二叉树的根结点 
+    SCA（Software Composition Analysis）软件成分分析，通俗的理解就是通过分析软件包含的一些信息和特征来实现对该软件的识别、管理、追踪的技术。 
     </details> 
 
-- 🕯 [一个简洁、强大、可扩展的前端项目架构是什么样的？](https://juejin.cn/post/7122636487555809311) | Thu Jul 21 2022 1:47 AM 
+- 🕯 [Kotlin协程在项目中的实际应用](https://juejin.cn/post/7122653268617986084) | Thu Jul 21 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我卡颂。 React技术栈的一大优势在于 —— 社区繁荣，你业务中需要实现的功能基本都能找到对应的开源库。 但繁荣也有不好的一面 —— 要实现同样的功能，有太多选择，到底选哪个？ 本文要介绍一 
+    前言 本来我想写个协程三部曲,但是查了下貌似协程x的api和协程基础讲的比较多了,但是实战讲的很少,或者讲实战也只是怎么用别人封装好的三方库对应的支持&lpar;retrofit,ViewModel,room等 
     </details> 
 
-- 🚀 [绝对不容错过的Redux实战版——抖音“剪映”之创作课堂（全新升级篇）](https://juejin.cn/post/7122466812339421192) | Wed Jul 20 2022 2:49 PM 
+- 🚀 [以回调形式使用startActivityForResult方法,并解决Activity被回收的问题](https://juejin.cn/post/7122652734083301384) | Thu Jul 21 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    Redux大型真香现场，带你快速上手Redux，“剪映”创作课堂再度升级，走进Redux的内心世界。 
+    前言 之前写过一篇文章写一个逻辑清晰的startActivityForResult&lpar;&rpar;,拒绝来回扒拉代码,写了使用回调形式使用startActivityForResult方法,配合Kotlin的语法, 
     </details> 
 
-- 💪 [[教你做小游戏] 只用几行原生JS，写一个函数，播放音效、播放BGM、切换BGM](https://juejin.cn/post/7122465609396256799) | Wed Jul 20 2022 2:45 PM 
+- 💪 [内存泄漏与LeakCanary原理解析](https://juejin.cn/post/7122646576433987620) | Thu Jul 21 2022 2:28 AM 
     <details><summary>展开描述 ...</summary> 
-    要做小游戏，播放音效、BGM是必须的。如何实现呢？本文讲解：只依靠原生DOM API，写几行JS就能播放背景音乐和音效！非常轻量级和高效！ 
+    日常开发中，我们可能会遇到一些奇怪的问题和OOM，然后经过排查后发现是内存泄漏引起，那么我们如何避免内存泄漏呢？除了我们平时写代码多避免一些会导致内存泄漏的写法外，我们还可以用LeakCanary 
     </details> 
 <!-- juejin:END -->
 ### 少数派
