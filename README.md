@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你可能不知道的 前端浏览器（window） 对本地文件操作（File System Access API）](https://juejin.cn/post/7122657335402561550) | Thu Jul 21 2022 3:08 AM 
+- 🤗 [『时代』杂志：元宇宙将改变世界；健身教练：AI让我丢工作！有话说北欧人工智能夏令营资料大公开；深度学习书籍TOP5 | ShowMeAI资讯日报](https://juejin.cn/post/7122681465871515661) | Thu Jul 21 2022 4:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 07-21 期，元宇宙登上『时代』杂志封面，DeepFit 跟踪健身时人体姿态，使用 Transformer 合成多轨音乐，反编译资源管理器， 北欧AI夏令营学习资料… 
+    </details> 
+
+- 🎡 [为什么我推荐使用智能化async？如何防止订单重复支付？React组件库Concis开源探索过程中的一些心路历程 | 酱酱的下午茶第33期](https://juejin.cn/post/7122663589227266056) | Thu Jul 21 2022 3:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近鉴于掘友们的热情召唤，我们终于把做了几百期的社群下午茶搬到站内了，酱酱们会一直陪伴，认真创作的掘友们，站内下午茶新增优质作者介绍和码上掘金板块，专注于发掘站内优质创作者和优质内容，欢迎大家多提宝贵 
+    </details> 
+
+- 🕯 [百度APP Android包体积优化实践（二）Dex行号优化](https://juejin.cn/post/7122663320330436639) | Thu Jul 21 2022 3:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要介绍了 DebugInfo 的定位以及优化方案，其中重点讲述了目前百度APP所使用的Dex行号优化与复原方案。感谢各位阅读至此，如有问题请不吝指正。 
+    </details> 
+
+- 🚀 [前端如何开始深度学习，那不妨试试JAX](https://juejin.cn/post/7122662487354245150) | Thu Jul 21 2022 3:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、简介 在深度学习方面，TensorFlow 和 PyTorch是绝对的王者。但是，但除了这两个框架之外，一些新生的框架也不容小觑，比如谷歌推出的 JAX深度学习框架。 1.1、快速发展的JAX J 
+    </details> 
+
+- 💪 [你可能不知道的 前端浏览器（window） 对本地文件操作（File System Access API）](https://juejin.cn/post/7122657335402561550) | Thu Jul 21 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
     文件系统访问API，它解锁了构建强大 Web 应用程序的新功能，例如文本编辑器或IDE、图像编辑工具、改进的导入/导出等等，所有这些都可以在前端进行操作，你也可以做更多有趣的应用 
-    </details> 
-
-- 🎡 [SCA在得物DevSecOps平台上应用​](https://juejin.cn/post/7122655713906098206) | Thu Jul 21 2022 3:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    SCA（Software Composition Analysis）软件成分分析，通俗的理解就是通过分析软件包含的一些信息和特征来实现对该软件的识别、管理、追踪的技术。 
-    </details> 
-
-- 🕯 [Kotlin协程在项目中的实际应用](https://juejin.cn/post/7122653268617986084) | Thu Jul 21 2022 2:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 本来我想写个协程三部曲,但是查了下貌似协程x的api和协程基础讲的比较多了,但是实战讲的很少,或者讲实战也只是怎么用别人封装好的三方库对应的支持&lpar;retrofit,ViewModel,room等 
-    </details> 
-
-- 🚀 [以回调形式使用startActivityForResult方法,并解决Activity被回收的问题](https://juejin.cn/post/7122652734083301384) | Thu Jul 21 2022 2:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 之前写过一篇文章写一个逻辑清晰的startActivityForResult&lpar;&rpar;,拒绝来回扒拉代码,写了使用回调形式使用startActivityForResult方法,配合Kotlin的语法, 
-    </details> 
-
-- 💪 [内存泄漏与LeakCanary原理解析](https://juejin.cn/post/7122646576433987620) | Thu Jul 21 2022 2:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    日常开发中，我们可能会遇到一些奇怪的问题和OOM，然后经过排查后发现是内存泄漏引起，那么我们如何避免内存泄漏呢？除了我们平时写代码多避免一些会导致内存泄漏的写法外，我们还可以用LeakCanary 
     </details> 
 <!-- juejin:END -->
 ### 少数派
