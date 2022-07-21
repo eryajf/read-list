@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750880) | Wed Jul 20 2022 12:27 AM
-- 🐻 [蚕丝可以做衣服，蜘蛛丝可以吗？](http://daily.zhihu.com/story/9750846) | Wed Jul 20 2022 12:27 AM
-- 🌏 [为什么空调的 26℃ 比室外的 26℃ 更凉快？](http://daily.zhihu.com/story/9750855) | Wed Jul 20 2022 12:27 AM
-- 🕴 [你热爱旅行吗？旅行对你来说意味着什么？](http://daily.zhihu.com/story/9750858) | Wed Jul 20 2022 12:27 AM
-- 🌮 [蝉（知了）会被自己的叫声吵到吗？](http://daily.zhihu.com/story/9750867) | Wed Jul 20 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750905) | Thu Jul 21 2022 12:27 AM
+- 🐻 [啄木鸟疯狂啄树为什么不得脑震荡？](http://daily.zhihu.com/story/9750897) | Thu Jul 21 2022 12:27 AM
+- 🌏 [科学家如何证明强子对撞机创造的微型黑洞不会吞噬地球？](http://daily.zhihu.com/story/9750895) | Thu Jul 21 2022 12:27 AM
+- 🕴 [为什么鱼死后，身上的颜色会消退？](http://daily.zhihu.com/story/9750894) | Thu Jul 21 2022 12:27 AM
+- 🌮 [中国古代最早的天文学著作有哪些？](http://daily.zhihu.com/story/9750890) | Thu Jul 21 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
