@@ -163,29 +163,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM 
+- 👺 [盛夏露营，我不怕热不怕蚊子吗？](https://blog.ops-coffee.cn/s/mWYu4bSkSpymtk8opJa-IQ) | Thu Jul 21 2022 9:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    有很多朋友问我，三十几度的天气，你还出去露营，不怕热吗？不怕蚊虫叮咬吗？ 
+    </details> 
+
+- 💯 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
     真的喜欢户外的，都是热爱生活的 
     </details> 
 
-- 💯 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
+- 🚦 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     夏天户外露营过夜体验 
     </details> 
 
-- 🚦 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM 
+- 👨‍🏫 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
     PEP 8 -- Python 代码风格指南 
     </details> 
 
-- 👨‍🏫 [半年，再聊房车使用体验](https://blog.ops-coffee.cn/r/half-a-year-RV-experience) | Fri Jun 17 2022 2:11 PM 
+- 🌮 [半年，再聊房车使用体验](https://blog.ops-coffee.cn/r/half-a-year-RV-experience) | Fri Jun 17 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
     大通B型房车使用半年之后谈下使用体验 
-    </details> 
-
-- 🌮 [多云系统之资源管理](https://blog.ops-coffee.cn/s/cKkFlBZnpLd_IRaC6i8i6A) | Fri Jun 10 2022 5:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    介绍多云系统中同步下来的云上资源如何管理，资源与关系如何建立联接 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
