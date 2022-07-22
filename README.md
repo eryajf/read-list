@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [java8函数式编程之Stream流处理的方法和案例讲解](https://juejin.cn/post/7123013555594461198) | Fri Jul 22 2022 2:10 AM 
+- 🤗 [react hooks 系列之自定义hook](https://juejin.cn/post/7123077588280410125) | Fri Jul 22 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-    函数式编程最早是数学家阿隆佐·邱奇研究的一套函数变换逻辑，又称Lambda Calculus（λ-Calculus），所以也经常把函数式编程称为Lambda计算。 为什么Java需要Lambda表达式 
+    什么是自定义hooks？ - 自定义hook是来解决什么问题的？ - 自定义hooks-触发条件？ - 自定义hook基本用法？ - 有了react hook 还需要使用redux吗？ 
     </details> 
 
-- 🎡 [Oh mygod! 买它 买它！React+Redux实现简易版购物车和多功能搜索组件](https://juejin.cn/post/7123011118783528967) | Fri Jul 22 2022 2:01 AM 
+- 🎡 [757. 设置交集大小至少为2 : 贪心运用题](https://juejin.cn/post/7123076206483734564) | Fri Jul 22 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-    笔者在掘金上写了一篇文章了，适合react新手入门，希望真的有帮助到一部分人哦，这段时间学习了神三元大佬的项目，封装常用scroll lazy组件 了解 react+hook，react实战分级 
+    题目描述 这是 LeetCode 上的 757. 设置交集大小至少为2 ，难度为 困难。 Tag : 「贪心」 一个整数区间 $[a, b]$  &lpar;$a &lt; b$descriptionrpar; 代表着从 a 到 b 的所有连续整 
     </details> 
 
-- 🕯 [前端代码规范和编码风格实践详解](https://juejin.cn/post/7122977356137889800) | Thu Jul 21 2022 11:51 PM 
+- 🕯 [【插件】🔥🔥 45个实用的Vue插件推荐（值得收藏）！](https://juejin.cn/post/7123058184406712328) | Fri Jul 22 2022 5:05 AM 
     <details><summary>展开描述 ...</summary> 
-    缩进的代码风格到底是 2 个空格还是 4 个空格是受谁控制的？VS Code 默认设置？还是 Prettier? 或者其他什么？ 带着问题开始本文吧。 
+    前言 大家好，我是 HoMeTown。 今天来推荐几个热门又实用的 Vue.js 库！ 1. 状态管理 （1）Pinia Pinia 是最新一代的 Vue 轻量级状态管理库。它适用于 Vue 2.x  
     </details> 
 
-- 🚀 [Unity 之 发布WebGL转微信小游戏过程详解](https://juejin.cn/post/7122975864928600100) | Thu Jul 21 2022 11:49 PM 
+- 🚀 [特效loading&lpar;纯css&rpar;](https://juejin.cn/post/7123050200750358535) | Fri Jul 22 2022 4:33 AM 
     <details><summary>展开描述 ...</summary> 
-    降低Unity 游戏转换到微信小游戏的开发成本。无需更换Unity引擎与重写核心代码的情况下将原有游戏项目适配到微信小游戏。 
+    先请大家看loading的效果 个人感觉是是一个挺不错的loading特效 具体这个效果怎么做出来的请慢慢了解 第一步 我们首先需要了解一些，这个loading的html结构，它其实就是四个大div重 
     </details> 
 
-- 💪 [[很全]如何在浏览器中调试前端代码](https://juejin.cn/post/7122881108886650917) | Thu Jul 21 2022 5:42 PM 
+- 💪 [【vue3】组织架构的部门的维护方案](https://juejin.cn/post/7123049639246299166) | Fri Jul 22 2022 4:31 AM 
     <details><summary>展开描述 ...</summary> 
-    在实习的时候，因为项目很大，调试的技能就非常重要了，在打滚了很久很久之后终于初掌握里其中的秘诀。 然而写着写着，发现还挺多的，那就写点常用到的吧（其他别人已经写得很好了😪😪😪） 
+    维护部门信息，内置类型转换，可以自动设置 parentID、level、sort、sortAll等字段，可以扩展，可以拖拽。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
