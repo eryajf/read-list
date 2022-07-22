@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [编辑部的代糖饮料「公费试喝」，这次的坑有点多](https://sspai.com/post/74748) | Fri Jul 22 2022 6:15 AM 
+- 👹 [线下活动 | 少数派线下活动来啦！这次我们想和你唠唠「家」常](https://sspai.com/post/74715) | Fri Jul 22 2022 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我们又要见面了。从数字科技和效率过度到生活方式比我们想象中顺利，从《装修笔记》系列文章首次亮相到现在近两年的时间，我们非常乐于看到诸如《填充收纳思考，小户型也能越住越大》、《巧用设计感十足的N ...&lt;a href=&quot;https://sspai.com/post/74715&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [编辑部的代糖饮料「公费试喝」，这次的坑有点多](https://sspai.com/post/74748) | Fri Jul 22 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
     在品尝一圈之后，能让我们觉得通过了及格线的仍然是几个老品牌和老单品。&lt;a href=&quot;https://sspai.com/post/74748&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [新玩意 113｜少数派的编辑们最近买了啥？](https://sspai.com/post/74727) | Fri Jul 22 2022 3:55 AM 
+- 🤭 [新玩意 113｜少数派的编辑们最近买了啥？](https://sspai.com/post/74727) | Fri Jul 22 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/74727&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [獭可派 | 用脚投票，Allbirds 可能是世界上最舒服的鞋](https://sspai.com/post/74317) | Fri Jul 22 2022 3:28 AM 
+- 🥸 [獭可派 | 用脚投票，Allbirds 可能是世界上最舒服的鞋](https://sspai.com/post/74317) | Fri Jul 22 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     獭可派是少数派的商品推荐栏目，栏目名称灵感来源于Taco和Pie——大家所熟知的饼皮+馅料这一经典美食搭配。希望代表少数派的水獭能够将我们亲自体验并认可的优质好物派送给大家。这不仅是一个喜欢玩谐音梗的 ...&lt;a href=&quot;https://sspai.com/post/74317&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：滴滴出行因多项违规被处以 80.26 亿元罚款、荣耀新品发布会](https://sspai.com/post/74741) | Fri Jul 22 2022 1:04 AM 
+- 🙉 [派早报：滴滴出行因多项违规被处以 80.26 亿元罚款、荣耀新品发布会](https://sspai.com/post/74741) | Fri Jul 22 2022 1:04 AM 
     <details><summary>展开描述 ...</summary> 
     华硕发布 ZenScreen OLED 便携显示器，ColorOS 12 推出智慧互联功能等&lt;a href=&quot;https://sspai.com/post/74741&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [露一手 | 豆米火锅——20 分钟搞定贵州家常菜](https://sspai.com/prime/story/recipe-doumihuoguo) | Thu Jul 21 2022 8:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是一道非常简单的家常菜，它的包容度很高，即便是新手，只要你在加料时依据口味少次多加慢慢调味，几乎很难失败。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/recipe-doumihuoguo&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
