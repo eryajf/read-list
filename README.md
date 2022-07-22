@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [獭可派 | 用脚投票，Allbirds 可能是世界上最舒服的鞋](https://sspai.com/post/74317) | Fri Jul 22 2022 3:28 AM 
+- 👹 [新玩意 113｜少数派的编辑们最近买了啥？](https://sspai.com/post/74727) | Fri Jul 22 2022 3:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/74727&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [獭可派 | 用脚投票，Allbirds 可能是世界上最舒服的鞋](https://sspai.com/post/74317) | Fri Jul 22 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     獭可派是少数派的商品推荐栏目，栏目名称灵感来源于Taco和Pie——大家所熟知的饼皮+馅料这一经典美食搭配。希望代表少数派的水獭能够将我们亲自体验并认可的优质好物派送给大家。这不仅是一个喜欢玩谐音梗的 ...&lt;a href=&quot;https://sspai.com/post/74317&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：滴滴出行因多项违规被处以 80.26 亿元罚款、荣耀新品发布会](https://sspai.com/post/74741) | Fri Jul 22 2022 1:04 AM 
+- 🤭 [派早报：滴滴出行因多项违规被处以 80.26 亿元罚款、荣耀新品发布会](https://sspai.com/post/74741) | Fri Jul 22 2022 1:04 AM 
     <details><summary>展开描述 ...</summary> 
     华硕发布 ZenScreen OLED 便携显示器，ColorOS 12 推出智慧互联功能等&lt;a href=&quot;https://sspai.com/post/74741&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [露一手 | 豆米火锅——20 分钟搞定贵州家常菜](https://sspai.com/prime/story/recipe-doumihuoguo) | Thu Jul 21 2022 8:38 AM 
+- 🥸 [露一手 | 豆米火锅——20 分钟搞定贵州家常菜](https://sspai.com/prime/story/recipe-doumihuoguo) | Thu Jul 21 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
     这是一道非常简单的家常菜，它的包容度很高，即便是新手，只要你在加料时依据口味少次多加慢慢调味，几乎很难失败。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/recipe-doumihuoguo&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [微信 8.0.26 更新：「小窗模式」终于来了，还有 1 个实用功能](https://sspai.com/post/74722) | Thu Jul 21 2022 6:30 AM 
+- 🙉 [微信 8.0.26 更新：「小窗模式」终于来了，还有 1 个实用功能](https://sspai.com/post/74722) | Thu Jul 21 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     使用iOS的你，或许遇到过这样的情况：在阅读公众号文章、使用小程序时，突然来了个消息。你只能逐步回退到主界面，再从列表中找到对应的聊天回复消息。然而，有消息要回还算是好的。最怕的是当你被迫中断自己正在 ...&lt;a href=&quot;https://sspai.com/post/74722&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [Make AMD Yes again：FSR 2.0 让老显卡焕发第二春](https://sspai.com/post/74721) | Thu Jul 21 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    通过 DLSS 移植的 FSR 2.0 体验如何？不妨大声喊出那 6 个字母。&lt;a href=&quot;https://sspai.com/post/74721&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
