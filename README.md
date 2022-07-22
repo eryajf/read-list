@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [不用再使劲抢 多家制造业巨头宣称芯片短缺有所缓解](http://www.techweb.com.cn/it/2022-07-22/2898980.shtml) | Fri Jul 22 2022 1:04 AM
-- 👹 [美国大型科技企业纷纷按下招聘暂停键 但顶级人才争夺战仍将持续](http://www.techweb.com.cn/it/2022-07-22/2898977.shtml) | Fri Jul 22 2022 1:01 AM
-- 🪜 [元宇宙硬件拉升3D传感器需求 促使厂商联合研发](http://www.techweb.com.cn/world/2022-07-21/2898957.shtml) | Thu Jul 21 2022 9:59 AM
-- 🤭 [联手抖音，爱奇艺得到了什么？](http://www.techweb.com.cn/viewpoint/2022-07-21/2898951.shtml) | Thu Jul 21 2022 9:39 AM
-- 🙉 [产业链消息称博通与德州仪器也将提高芯片报价](http://www.techweb.com.cn/world/2022-07-21/2898948.shtml) | Thu Jul 21 2022 9:08 AM<!-- techweb-allnews:END -->
+- 👍 [拿什么拯救你，特斯拉增长神话](http://www.techweb.com.cn/viewpoint/2022-07-22/2899035.shtml) | Fri Jul 22 2022 2:54 AM
+- 👹 [特斯拉得克萨斯超级工厂已生产出首批4680电池 计划三季度末提高产量](http://www.techweb.com.cn/world/2022-07-22/2899031.shtml) | Fri Jul 22 2022 2:44 AM
+- 🪜 [华为硬刚理想汽车，爆款焦虑下的跨界战斗谁能赢？](http://www.techweb.com.cn/viewpoint/2022-07-22/2899030.shtml) | Fri Jul 22 2022 2:33 AM
+- 🤭 [50个虚拟人只要599元，“捏脸”大军抢占虚拟人](http://www.techweb.com.cn/viewpoint/2022-07-22/2899026.shtml) | Fri Jul 22 2022 2:20 AM
+- 🙉 [谁能“取代”特斯拉？](http://www.techweb.com.cn/viewpoint/2022-07-22/2899024.shtml) | Fri Jul 22 2022 2:11 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
