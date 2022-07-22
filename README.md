@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [react hooks 系列之自定义hook](https://juejin.cn/post/7123077588280410125) | Fri Jul 22 2022 6:19 AM 
+- 🤗 [QiShare四周岁生日快乐～](https://juejin.cn/post/7123096540172222494) | Fri Jul 22 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是自定义hooks？ - 自定义hook是来解决什么问题的？ - 自定义hooks-触发条件？ - 自定义hook基本用法？ - 有了react hook 还需要使用redux吗？ 
+    走过往昔，奋斗的汗水还在路上 回首旅途，胜利的笑容正在蔓延 展望未来，唱出那热血豪迈 今年 7.23「QiShare」生日马上就到了，让我们一起祝他生日快乐！「QiShare」 是一个以移动端（包括但 
     </details> 
 
-- 🎡 [757. 设置交集大小至少为2 : 贪心运用题](https://juejin.cn/post/7123076206483734564) | Fri Jul 22 2022 6:13 AM 
+- 🎡 [用CSS 写一个‘拉开帷幕’ 效果](https://juejin.cn/post/7123091048049410061) | Fri Jul 22 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 757. 设置交集大小至少为2 ，难度为 困难。 Tag : 「贪心」 一个整数区间 $[a, b]$  &lpar;$a &lt; b$descriptionrpar; 代表着从 a 到 b 的所有连续整 
+    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 拉开帷幕”效果，即当滚动到元素上时，背景和文本都会改变颜色。页面背景从暗到亮，上面的内容也从亮到暗，同时处于吸附（sticky）定位。 
     </details> 
 
-- 🕯 [【插件】🔥🔥 45个实用的Vue插件推荐（值得收藏）！](https://juejin.cn/post/7123058184406712328) | Fri Jul 22 2022 5:05 AM 
+- 🕯 [NodeJS 基于 Dapr 构建云原生微服务应用，从 0 到 1 快速上手指南](https://juejin.cn/post/7123022068085424159) | Fri Jul 22 2022 2:44 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 大家好，我是 HoMeTown。 今天来推荐几个热门又实用的 Vue.js 库！ 1. 状态管理 （1）Pinia Pinia 是最新一代的 Vue 轻量级状态管理库。它适用于 Vue 2.x  
+    Dapr 是一个可移植的、事件驱动的运行时，它使任何开发人员能够轻松构建出弹性的、无状态和有状态的应用程序，并可运行在云平台或边缘计算中，它同时也支持多种编程语言和开发框架。Dapr 确保开发人员专注 
     </details> 
 
-- 🚀 [特效loading&lpar;纯css&rpar;](https://juejin.cn/post/7123050200750358535) | Fri Jul 22 2022 4:33 AM 
+- 🚀 [生产事故排查标杆，必须写进你的简历里](https://juejin.cn/post/7123007715089072164) | Fri Jul 22 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-    先请大家看loading的效果 个人感觉是是一个挺不错的loading特效 具体这个效果怎么做出来的请慢慢了解 第一步 我们首先需要了解一些，这个loading的html结构，它其实就是四个大div重 
+    某年某月的某一天，倒了一杯快乐的水。突然各个客户群突然暴雷，说我们的接口很多超时，作为一个职业道德满满的新世纪好青年，我垂死梦中惊坐起。 
     </details> 
 
-- 💪 [【vue3】组织架构的部门的维护方案](https://juejin.cn/post/7123049639246299166) | Fri Jul 22 2022 4:31 AM 
+- 💪 [浅谈spring-createBean 目录](https://juejin.cn/post/7123001972772306975) | Fri Jul 22 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-    维护部门信息，内置类型转换，可以自动设置 parentID、level、sort、sortAll等字段，可以扩展，可以拖拽。 
+    找到BeanClass并且加载类 注意：上面代码中的 resolveBeanClass&lpar;mbd, beanName&rpar; 方法，就是去查找BeanClass的，下面看看 resolveBeanClass  
     </details> 
 <!-- juejin:END -->
 ### 少数派
