@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [支付宝：超500商家为支付宝会员推出专属特权](http://www.techweb.com.cn/it/2022-07-22/2899051.shtml) | Fri Jul 22 2022 4:01 AM
-- 👹 [预制菜行业发展 永辉积极开发水产、肉禽类“方便菜”](http://www.techweb.com.cn/it/2022-07-22/2899050.shtml) | Fri Jul 22 2022 3:58 AM
-- 🪜 [链接品牌和网红 ABM推出全新解决方案](http://www.techweb.com.cn/it/2022-07-22/2899049.shtml) | Fri Jul 22 2022 3:56 AM
-- 🤭 [史蒂夫·乔布斯签署过的文件将被拍卖](http://www.techweb.com.cn/world/2022-07-22/2899046.shtml) | Fri Jul 22 2022 3:35 AM
-- 🙉 [最后的刘海屏！明年iPhone 15将全系换用感叹号挖孔屏](http://mo.techweb.com.cn/phone/2022-07-22/2899045.shtml) | Fri Jul 22 2022 3:34 AM<!-- techweb-allnews:END -->
+- 👍 [福特将从宁德时代采购磷酸铁锂电池 用于北美电动皮卡和SUV](http://www.techweb.com.cn/world/2022-07-22/2899055.shtml) | Fri Jul 22 2022 4:41 AM
+- 👹 [支付宝：超500商家为支付宝会员推出专属特权](http://www.techweb.com.cn/it/2022-07-22/2899051.shtml) | Fri Jul 22 2022 4:01 AM
+- 🪜 [预制菜行业发展 永辉积极开发水产、肉禽类“方便菜”](http://www.techweb.com.cn/it/2022-07-22/2899050.shtml) | Fri Jul 22 2022 3:58 AM
+- 🤭 [链接品牌和网红 ABM推出全新解决方案](http://www.techweb.com.cn/it/2022-07-22/2899049.shtml) | Fri Jul 22 2022 3:56 AM
+- 🙉 [史蒂夫·乔布斯签署过的文件将被拍卖](http://www.techweb.com.cn/world/2022-07-22/2899046.shtml) | Fri Jul 22 2022 3:35 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
