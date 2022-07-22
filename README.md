@@ -231,9 +231,9 @@
     leetcode 86. Partition List （python）考察双指针分割链表的基本操作 
     </details> 
 
-- 💪 [Vue3+Node实现一个WebSocket即时通讯聊天室、既然有HTTP协议，为什么还要有RPC、线程池是这样实现优雅退出的丨酱酱的下午茶第34期](https://juejin.cn/post/7123029652926365704) | Fri Jul 22 2022 3:13 AM 
+- 💪 [web前端自动生成动态面包屑导航的方法，以vue为例](https://juejin.cn/post/7122854052928421918) | Thu Jul 21 2022 3:52 PM 
     <details><summary>展开描述 ...</summary> 
-    前端Vuer，请给你的项目加上 ESLint 最详细的 Vue3 + TypeScript 使用教程【值得收藏】 Vue3+Node实现一个WebSocket即时通讯聊天室 我有 7种 实现web实时 
+    面包屑用于显示用户在网站中当前的所处的位置，并且可以向上导航。如果可以自动生成面包屑，就能够减轻很多重复性工作，也方便代码维护。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
