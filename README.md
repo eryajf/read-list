@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [XDC 2022 主论坛精彩回顾：技术趋势、开源生态与产业洞察](https://juejin.cn/post/7123050568867643400) | Fri Jul 22 2022 4:36 AM 
+- 🤗 [java8函数式编程之Stream流处理的方法和案例讲解](https://juejin.cn/post/7123013555594461198) | Fri Jul 22 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    7 月 22 日上午，由稀土掘金技术社区主办的第二届稀土开发者大会 &lpar;XDC 2022&rpar; 主论坛落下帷幕，9 位大咖嘉宾在大会主论坛上做了精彩的技术趋势、开源生态与产业发展的前沿分享 
+    函数式编程最早是数学家阿隆佐·邱奇研究的一套函数变换逻辑，又称Lambda Calculus（λ-Calculus），所以也经常把函数式编程称为Lambda计算。 为什么Java需要Lambda表达式 
     </details> 
 
-- 🎡 [张小泉菜刀：招聘有下厨经验的产品经理，会拍蒜的来！](https://juejin.cn/post/7123040430815444999) | Fri Jul 22 2022 3:55 AM 
+- 🎡 [Oh mygod! 买它 买它！React+Redux实现简易版购物车和多功能搜索组件](https://juejin.cn/post/7123011118783528967) | Fri Jul 22 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    最近“商战”层出不穷，先是以“雪糕刺客”为代表的钟薛高和“雪糕护卫”为代表的的雪莲相互battle，再到最近各大菜刀品牌集体拍蒜。 不得不说，今年夏天的画风着实有点奇奇怪怪。 当菜刀与蒜相遇，菜刀“重 
+    笔者在掘金上写了一篇文章了，适合react新手入门，希望真的有帮助到一部分人哦，这段时间学习了神三元大佬的项目，封装常用scroll lazy组件 了解 react+hook，react实战分级 
     </details> 
 
-- 🕯 [转转微服务框架的连接管理](https://juejin.cn/post/7123035209565470728) | Fri Jul 22 2022 3:35 AM 
+- 🕯 [前端代码规范和编码风格实践详解](https://juejin.cn/post/7122977356137889800) | Thu Jul 21 2022 11:51 PM 
     <details><summary>展开描述 ...</summary> 
-    连接在RPC框架中占据重要地位，本文以连接的生命周期为主线谈谈转转内部RPC框架连接管理的具体实现。 
+    缩进的代码风格到底是 2 个空格还是 4 个空格是受谁控制的？VS Code 默认设置？还是 Prettier? 或者其他什么？ 带着问题开始本文吧。 
     </details> 
 
-- 🚀 [leetcode 86. Partition List （python）](https://juejin.cn/post/7123032067574595615) | Fri Jul 22 2022 3:22 AM 
+- 🚀 [Unity 之 发布WebGL转微信小游戏过程详解](https://juejin.cn/post/7122975864928600100) | Thu Jul 21 2022 11:49 PM 
     <details><summary>展开描述 ...</summary> 
-    leetcode 86. Partition List （python）考察双指针分割链表的基本操作 
+    降低Unity 游戏转换到微信小游戏的开发成本。无需更换Unity引擎与重写核心代码的情况下将原有游戏项目适配到微信小游戏。 
     </details> 
 
-- 💪 [web前端自动生成动态面包屑导航的方法，以vue为例](https://juejin.cn/post/7122854052928421918) | Thu Jul 21 2022 3:52 PM 
+- 💪 [[很全]如何在浏览器中调试前端代码](https://juejin.cn/post/7122881108886650917) | Thu Jul 21 2022 5:42 PM 
     <details><summary>展开描述 ...</summary> 
-    面包屑用于显示用户在网站中当前的所处的位置，并且可以向上导航。如果可以自动生成面包屑，就能够减轻很多重复性工作，也方便代码维护。 
+    在实习的时候，因为项目很大，调试的技能就非常重要了，在打滚了很久很久之后终于初掌握里其中的秘诀。 然而写着写着，发现还挺多的，那就写点常用到的吧（其他别人已经写得很好了😪😪😪） 
     </details> 
 <!-- juejin:END -->
 ### 少数派
