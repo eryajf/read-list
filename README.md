@@ -203,9 +203,9 @@
 
 <!-- v2ex:START -->
 - 🥸 [ant design protable renderFormItem 这个自定义搜索渲染用不来啊](https://www.v2ex.com/t/868027#reply0) | Fri Jul 22 2022 7:41 AM
-- 🤗 [spring rest template 在 kubernetes time out](https://www.v2ex.com/t/868022#reply2) | Fri Jul 22 2022 7:20 AM
-- 🎭 [枚举类型是从 0 开始还是从 1 开始](https://www.v2ex.com/t/868018#reply30) | Fri Jul 22 2022 6:58 AM
-- 🥷 [求教，有没有开源的中文搜索引擎，或者怎么做一个简单的搜索引擎呢？](https://www.v2ex.com/t/868013#reply7) | Fri Jul 22 2022 6:48 AM
+- 🤗 [spring rest template 在 kubernetes time out](https://www.v2ex.com/t/868022#reply3) | Fri Jul 22 2022 7:20 AM
+- 🎭 [枚举类型是从 0 开始还是从 1 开始](https://www.v2ex.com/t/868018#reply39) | Fri Jul 22 2022 6:58 AM
+- 🥷 [求教，有没有开源的中文搜索引擎，或者怎么做一个简单的搜索引擎呢？](https://www.v2ex.com/t/868013#reply12) | Fri Jul 22 2022 6:48 AM
 - 🐵 [在有协助的情况下，有简单的远程装机/改 CMOS 设置的方法吗？](https://www.v2ex.com/t/867998#reply1) | Fri Jul 22 2022 6:01 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
