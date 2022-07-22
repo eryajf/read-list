@@ -202,8 +202,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [唉，打算用模拟器弄一个微信自动化的程序，结果立马就给我永封了...](https://www.v2ex.com/t/868138#reply5) | Fri Jul 22 2022 8:17 PM
-- 🤗 [xdm 家庭部署服务器有什么解决方案吗？](https://www.v2ex.com/t/868136#reply9) | Fri Jul 22 2022 6:51 PM
+- 🥸 [唉，打算用模拟器弄一个微信自动化的程序，结果立马就给我永封了...](https://www.v2ex.com/t/868138#reply8) | Fri Jul 22 2022 8:17 PM
+- 🤗 [xdm 家庭部署服务器有什么解决方案吗？](https://www.v2ex.com/t/868136#reply10) | Fri Jul 22 2022 6:51 PM
 - 🎭 [问个正则匹配的低端问题](https://www.v2ex.com/t/868124#reply7) | Fri Jul 22 2022 3:43 PM
 - 🥷 [电脑使用 wps 唯一的原因: 标签整合](https://www.v2ex.com/t/868123#reply4) | Fri Jul 22 2022 3:41 PM
 - 🐵 [Java 程序员，找了个远程工作，但是做 Node.js 的](https://www.v2ex.com/t/868121#reply1) | Fri Jul 22 2022 2:47 PM<!-- v2ex:END -->
