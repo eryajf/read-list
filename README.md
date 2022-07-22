@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android实现人物关系图谱，人物影响力图](https://juejin.cn/post/7123133679274033189) | Fri Jul 22 2022 9:56 AM 
+- 🤗 [尤雨溪对未来前端趋势分享: 笔记](https://juejin.cn/post/7123178292865155102) | Fri Jul 22 2022 12:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    早上参加稀土掘金大会随手记下的。能力有限，欢迎勘误。 一、 开发范式&amp;底层框架 1、React Hooks 带来的开发范式的变革 React Hooks 取代 Class Components 启发组 
+    </details> 
+
+- 🎡 [D3.js值得学习吗？](https://juejin.cn/post/7123149075339280420) | Fri Jul 22 2022 10:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果你关注前端数据可视化，那你一定听说过d3.js。为了快速开发，我们通常会选择简单易用的图表库。那么，D3.js还有必要学习吗？ 
+    </details> 
+
+- 🕯 [技术周报·Vite 3.0 发布: 核心更新盘点与分析](https://juejin.cn/post/7123140542698881038) | Fri Jul 22 2022 10:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    编辑推荐：Vite 3.0 发布: 核心更新盘点与分析；试着换个角度理解低代码平台设计的本质；可视化搭建系统之数据源等 
+    </details> 
+
+- 🚀 [Android实现人物关系图谱，人物影响力图](https://juejin.cn/post/7123133679274033189) | Fri Jul 22 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
     个人分享关系图，人物关系图谱 最近在做一个项目，其中有一个页面是要做一个类似于个人分享关系图的效果。于是找了网上很多demo，借鉴的一些思路和方法，打算自己动手撸一个出来。 
     </details> 
 
-- 🎡 [threejs之模型光源,材质的设置和理解](https://juejin.cn/post/7123131231952175140) | Fri Jul 22 2022 9:47 AM 
+- 💪 [threejs之模型光源,材质的设置和理解](https://juejin.cn/post/7123131231952175140) | Fri Jul 22 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
     5种光源 光源将影响物体显示的明暗，对渲染效果的影响非常的大。threejs中定义了基础氛围光，平行光，点光源，聚光灯光源，球谐光等光源。每种光源都有不同的效果。 AmbientLight&lpar;氛围光&rpar;  
-    </details> 
-
-- 🕯 [Android AIDL 详细使用指南](https://juejin.cn/post/7123129439898042376) | Fri Jul 22 2022 9:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    AIDL 全称 Android Interface Definition Language ，安卓接口定义语言。 AIDL 用来解决 Android 的跨进程通信问题，底层原理是 Binder ，实现 
-    </details> 
-
-- 🚀 [尤大主题演讲《2022 前端生态趋势》记录](https://juejin.cn/post/7123126028838862862) | Fri Jul 22 2022 9:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    7月22日观看了第二届稀土开发者大会尤大关于 《2022 Web 前端生态趋势》 的主题分享，记录如下，有时间的同学可以观看大会的回放。 
-    </details> 
-
-- 💪 [APISIX 在 API 和微服务领域的探索](https://juejin.cn/post/7123123486070931492) | Fri Jul 22 2022 9:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    APISIX 的未来，是更好的支持 Serverless，完善服务网格，构建 API 全生命周周期平台，还是提升公有云上的使用体验，这些并不是由某几个开发者规划出来的，而是由千千万万一线的工程师们一起 
     </details> 
 <!-- juejin:END -->
 ### 少数派
