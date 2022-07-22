@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [在有协助的情况下，有简单的远程装机/改 CMOS 设置的方法吗？](https://www.v2ex.com/t/867998#reply0) | Fri Jul 22 2022 6:01 AM
-- 🤗 [请教大佬们关于 Redis Cluster 相关问题](https://www.v2ex.com/t/867994#reply0) | Fri Jul 22 2022 5:58 AM
-- 🎭 [都 22H2 了， Windows 11 在 12 代 Intel 上还是有大小核调度问题](https://www.v2ex.com/t/867990#reply2) | Fri Jul 22 2022 5:47 AM
-- 🥷 [Vuejs 里面在父组件通过$refs.childComp.xxx 改变子组件 state 或者调用方法 很常用么？](https://www.v2ex.com/t/867989#reply5) | Fri Jul 22 2022 5:46 AM
-- 🐵 [pc=mobile+pad 自适应布局：页面结构与打开方式](https://www.v2ex.com/t/867977#reply0) | Fri Jul 22 2022 5:01 AM<!-- v2ex:END -->
+- 🥸 [枚举类型是从 0 开始还是从 1 开始](https://www.v2ex.com/t/868018#reply5) | Fri Jul 22 2022 6:58 AM
+- 🤗 [求教，有没有开源的中文搜索引擎，或者怎么做一个简单的搜索引擎呢？](https://www.v2ex.com/t/868013#reply4) | Fri Jul 22 2022 6:48 AM
+- 🎭 [在有协助的情况下，有简单的远程装机/改 CMOS 设置的方法吗？](https://www.v2ex.com/t/867998#reply1) | Fri Jul 22 2022 6:01 AM
+- 🥷 [请教大佬们关于 Redis Cluster 相关问题](https://www.v2ex.com/t/867994#reply1) | Fri Jul 22 2022 5:58 AM
+- 🐵 [都 22H2 了， Windows 11 在 12 代 Intel 上还是有大小核调度问题](https://www.v2ex.com/t/867990#reply2) | Fri Jul 22 2022 5:47 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
