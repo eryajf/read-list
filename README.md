@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [为什么后端开发要了解前端技术——从独立电影到独立音乐人再到独立程序员](https://juejin.cn/post/7123129010397118477) | Fri Jul 22 2022 9:38 AM 
+- 🤗 [Android实现人物关系图谱，人物影响力图](https://juejin.cn/post/7123133679274033189) | Fri Jul 22 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    程序员本不应该存在前端和后端这样的区分（之所以有区分是因为企业迷恋“分工细化会提高生产力”这个经济学理论），而应从个人职业发展的角度出发，要像电影人和音乐人那样，做一名不被束缚的独立程序员。 
+    个人分享关系图，人物关系图谱 最近在做一个项目，其中有一个页面是要做一个类似于个人分享关系图的效果。于是找了网上很多demo，借鉴的一些思路和方法，打算自己动手撸一个出来。 
     </details> 
 
-- 🎡 [APISIX 在 API 和微服务领域的探索](https://juejin.cn/post/7123123486070931492) | Fri Jul 22 2022 9:17 AM 
+- 🎡 [threejs之模型光源,材质的设置和理解](https://juejin.cn/post/7123131231952175140) | Fri Jul 22 2022 9:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    5种光源 光源将影响物体显示的明暗，对渲染效果的影响非常的大。threejs中定义了基础氛围光，平行光，点光源，聚光灯光源，球谐光等光源。每种光源都有不同的效果。 AmbientLight&lpar;氛围光&rpar;  
+    </details> 
+
+- 🕯 [Android AIDL 详细使用指南](https://juejin.cn/post/7123129439898042376) | Fri Jul 22 2022 9:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    AIDL 全称 Android Interface Definition Language ，安卓接口定义语言。 AIDL 用来解决 Android 的跨进程通信问题，底层原理是 Binder ，实现 
+    </details> 
+
+- 🚀 [尤大主题演讲《2022 前端生态趋势》记录](https://juejin.cn/post/7123126028838862862) | Fri Jul 22 2022 9:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    7月22日观看了第二届稀土开发者大会尤大关于 《2022 Web 前端生态趋势》 的主题分享，记录如下，有时间的同学可以观看大会的回放。 
+    </details> 
+
+- 💪 [APISIX 在 API 和微服务领域的探索](https://juejin.cn/post/7123123486070931492) | Fri Jul 22 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
     APISIX 的未来，是更好的支持 Serverless，完善服务网格，构建 API 全生命周周期平台，还是提升公有云上的使用体验，这些并不是由某几个开发者规划出来的，而是由千千万万一线的工程师们一起 
-    </details> 
-
-- 🕯 [接触前端工作这是第三年](https://juejin.cn/post/7123123034235338760) | Fri Jul 22 2022 9:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    🕕「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 🍟前言： 之前我一直都是用的csdn,码领七年了，这是上大学注册的，工作之后才发布的文章 2022年我写了一点，但是没有当初的动力了（之 
-    </details> 
-
-- 🚀 [Flutter 新一代图形渲染器 Impeller](https://juejin.cn/post/7123122732262227975) | Fri Jul 22 2022 9:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    Flutter在过去一年多时间解决了很多Jank问题，但着色器编译导致的Jank问题一直没有彻底解决。这里我们先了解下什么着色器编译Jank。 
-    </details> 
-
-- 💪 [机器学习：基于概率的朴素贝叶斯分类器详解--Python实现以及项目实战](https://juejin.cn/post/7123122116173512741) | Fri Jul 22 2022 9:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 一、准备数据 创建一个bayes.py程序，从文本中构建词向量，实现词表向向量转换函数。 第一个函数创建了一些实验样本，第二个函数创建一个包含在所 
     </details> 
 <!-- juejin:END -->
 ### 少数派
