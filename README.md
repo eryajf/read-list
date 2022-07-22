@@ -239,9 +239,9 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [新玩意 113｜少数派的编辑们最近买了啥？](https://sspai.com/post/74727) | Thu Jul 21 2022 9:37 AM 
+- 👹 [派早报：滴滴出行因多项违规被处以 80.26 亿元罚款、荣耀新品发布会](https://sspai.com/post/74741) | Fri Jul 22 2022 1:04 AM 
     <details><summary>展开描述 ...</summary> 
-    关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/74727&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    华硕发布 ZenScreen OLED 便携显示器，ColorOS 12 推出智慧互联功能等&lt;a href=&quot;https://sspai.com/post/74741&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
 - 🐘 [露一手 | 豆米火锅——20 分钟搞定贵州家常菜](https://sspai.com/prime/story/recipe-doumihuoguo) | Thu Jul 21 2022 8:38 AM 
