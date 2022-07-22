@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750905) | Thu Jul 21 2022 12:27 AM
-- 🐻 [啄木鸟疯狂啄树为什么不得脑震荡？](http://daily.zhihu.com/story/9750897) | Thu Jul 21 2022 12:27 AM
-- 🌏 [科学家如何证明强子对撞机创造的微型黑洞不会吞噬地球？](http://daily.zhihu.com/story/9750895) | Thu Jul 21 2022 12:27 AM
-- 🕴 [为什么鱼死后，身上的颜色会消退？](http://daily.zhihu.com/story/9750894) | Thu Jul 21 2022 12:27 AM
-- 🌮 [中国古代最早的天文学著作有哪些？](http://daily.zhihu.com/story/9750890) | Thu Jul 21 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750952) | Fri Jul 22 2022 12:27 AM
+- 🐻 [《功夫》里为什么火云邪神听到周星驰说「想学呀，我教你」就认输了？](http://daily.zhihu.com/story/9750950) | Fri Jul 22 2022 12:27 AM
+- 🌏 [影视剧里人被打晕的时候为啥身体要先挺一下？](http://daily.zhihu.com/story/9750935) | Fri Jul 22 2022 12:27 AM
+- 🕴 [什么样的人适合学法学？](http://daily.zhihu.com/story/9750945) | Fri Jul 22 2022 12:27 AM
+- 🌮 [西游记团队中需要裁掉一个人，你会裁掉谁？](http://daily.zhihu.com/story/9750917) | Fri Jul 22 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
