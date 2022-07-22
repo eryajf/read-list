@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [福特将从宁德时代采购磷酸铁锂电池 用于北美电动皮卡和SUV](http://www.techweb.com.cn/world/2022-07-22/2899055.shtml) | Fri Jul 22 2022 4:41 AM
-- 👹 [支付宝：超500商家为支付宝会员推出专属特权](http://www.techweb.com.cn/it/2022-07-22/2899051.shtml) | Fri Jul 22 2022 4:01 AM
-- 🪜 [预制菜行业发展 永辉积极开发水产、肉禽类“方便菜”](http://www.techweb.com.cn/it/2022-07-22/2899050.shtml) | Fri Jul 22 2022 3:58 AM
-- 🤭 [链接品牌和网红 ABM推出全新解决方案](http://www.techweb.com.cn/it/2022-07-22/2899049.shtml) | Fri Jul 22 2022 3:56 AM
-- 🙉 [史蒂夫·乔布斯签署过的文件将被拍卖](http://www.techweb.com.cn/world/2022-07-22/2899046.shtml) | Fri Jul 22 2022 3:35 AM<!-- techweb-allnews:END -->
+- 👍 [哪吒汽车完成D3轮融资 融资金额超过30亿元](http://www.techweb.com.cn/finance/2022-07-22/2899068.shtml) | Fri Jul 22 2022 6:43 AM
+- 👹 [世纪佳缘“大地震”](http://www.techweb.com.cn/viewpoint/2022-07-22/2899067.shtml) | Fri Jul 22 2022 6:42 AM
+- 🪜 [特斯拉CFO称Q2产量损失超出预期 但仍致力于全年交付量增长50%](http://www.techweb.com.cn/world/2022-07-22/2899066.shtml) | Fri Jul 22 2022 6:38 AM
+- 🤭 [墨西哥新莱昂州为特斯拉供应商在美墨边境提供专用过境车道](http://www.techweb.com.cn/world/2022-07-22/2899057.shtml) | Fri Jul 22 2022 6:10 AM
+- 🙉 [福特将从宁德时代采购磷酸铁锂电池 用于北美电动皮卡和SUV](http://www.techweb.com.cn/world/2022-07-22/2899055.shtml) | Fri Jul 22 2022 4:41 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
