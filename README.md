@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [尤雨溪对未来前端趋势分享: 笔记](https://juejin.cn/post/7123178292865155102) | Fri Jul 22 2022 12:51 PM 
+- 🤗 [简单的Git基础教程](https://juejin.cn/post/7123222636812828708) | Fri Jul 22 2022 3:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文从最简单的基础入门，讲解工作中常用的Git基础，掌握这些是Git进阶的基础，足够日常工作场景使用。 
+    </details> 
+
+- 🎡 [图解7种耦合关系](https://juejin.cn/post/7123217729942716429) | Fri Jul 22 2022 3:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    高内聚，低耦合都是有衡量标准的，比如根据耦合程度，就有7中不同的耦合关系，本文将用图文详细讲解7种耦合的不同之处。 
+    </details> 
+
+- 🕯 [尤雨溪对未来前端趋势分享: 笔记](https://juejin.cn/post/7123178292865155102) | Fri Jul 22 2022 12:51 PM 
     <details><summary>展开描述 ...</summary> 
     早上参加稀土掘金大会随手记下的。能力有限，欢迎勘误。 一、 开发范式&amp;底层框架 1、React Hooks 带来的开发范式的变革 React Hooks 取代 Class Components 启发组 
     </details> 
 
-- 🎡 [D3.js值得学习吗？](https://juejin.cn/post/7123149075339280420) | Fri Jul 22 2022 10:58 AM 
+- 🚀 [D3.js值得学习吗？](https://juejin.cn/post/7123149075339280420) | Fri Jul 22 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
     如果你关注前端数据可视化，那你一定听说过d3.js。为了快速开发，我们通常会选择简单易用的图表库。那么，D3.js还有必要学习吗？ 
     </details> 
 
-- 🕯 [技术周报·Vite 3.0 发布: 核心更新盘点与分析](https://juejin.cn/post/7123140542698881038) | Fri Jul 22 2022 10:24 AM 
+- 💪 [技术周报·Vite 3.0 发布: 核心更新盘点与分析](https://juejin.cn/post/7123140542698881038) | Fri Jul 22 2022 10:24 AM 
     <details><summary>展开描述 ...</summary> 
     编辑推荐：Vite 3.0 发布: 核心更新盘点与分析；试着换个角度理解低代码平台设计的本质；可视化搭建系统之数据源等 
-    </details> 
-
-- 🚀 [Android实现人物关系图谱，人物影响力图](https://juejin.cn/post/7123133679274033189) | Fri Jul 22 2022 9:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    个人分享关系图，人物关系图谱 最近在做一个项目，其中有一个页面是要做一个类似于个人分享关系图的效果。于是找了网上很多demo，借鉴的一些思路和方法，打算自己动手撸一个出来。 
-    </details> 
-
-- 💪 [threejs之模型光源,材质的设置和理解](https://juejin.cn/post/7123131231952175140) | Fri Jul 22 2022 9:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    5种光源 光源将影响物体显示的明暗，对渲染效果的影响非常的大。threejs中定义了基础氛围光，平行光，点光源，聚光灯光源，球谐光等光源。每种光源都有不同的效果。 AmbientLight&lpar;氛围光&rpar;  
     </details> 
 <!-- juejin:END -->
 ### 少数派
