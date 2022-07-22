@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [第一款开源、跨平台、高性能的中文编程语言！](https://www.v2ex.com/t/868110#reply0) | Fri Jul 22 2022 1:32 PM
-- 🤗 [一直做桌面端的工作， c++该往哪个方向精进](https://www.v2ex.com/t/868107#reply0) | Fri Jul 22 2022 1:23 PM
-- 🎭 [使用 IDEA 开发 mybatis 在注解中写 sql 时没有语法高亮，有没有什么插件可以实现？](https://www.v2ex.com/t/868102#reply2) | Fri Jul 22 2022 12:49 PM
-- 🥷 [LSTM 网络中有关维数的理解](https://www.v2ex.com/t/868100#reply1) | Fri Jul 22 2022 12:31 PM
-- 🐵 [asp.net core 使用 watch run hot reload 的时候，怎么刷新 swagger ui](https://www.v2ex.com/t/868099#reply0) | Fri Jul 22 2022 12:28 PM<!-- v2ex:END -->
+- 🥸 [OneUI 备份的问题](https://www.v2ex.com/t/868116#reply0) | Fri Jul 22 2022 2:17 PM
+- 🤗 [写 go 语言的一种不作不会死的方式](https://www.v2ex.com/t/868113#reply2) | Fri Jul 22 2022 2:05 PM
+- 🎭 [第一款开源、跨平台、高性能的中文编程语言！](https://www.v2ex.com/t/868110#reply9) | Fri Jul 22 2022 1:32 PM
+- 🥷 [一直做桌面端的工作， c++该往哪个方向精进](https://www.v2ex.com/t/868107#reply3) | Fri Jul 22 2022 1:23 PM
+- 🐵 [使用 IDEA 开发 mybatis 在注解中写 sql 时没有语法高亮，有没有什么插件可以实现？](https://www.v2ex.com/t/868102#reply4) | Fri Jul 22 2022 12:49 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
