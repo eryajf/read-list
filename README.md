@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [近5年全球元宇宙专利申请超过2000件 微软三星均已过百](http://www.techweb.com.cn/world/2022-07-22/2899079.shtml) | Fri Jul 22 2022 7:52 AM
-- 👹 [内部阻力大、大概率失败 元气森林为何还要做0防腐剂可乐味气泡水](http://www.techweb.com.cn/it/2022-07-22/2899076.shtml) | Fri Jul 22 2022 7:35 AM
-- 🪜 [广和通发布AI智能模组SCA825-W](http://www.techweb.com.cn/it/2022-07-22/2899074.shtml) | Fri Jul 22 2022 7:16 AM
-- 🤭 [现代汽车、ABB和Electrolux高管称芯片短缺状况有所缓解](http://www.techweb.com.cn/world/2022-07-22/2899070.shtml) | Fri Jul 22 2022 7:01 AM
-- 🙉 [哪吒汽车完成D3轮融资 融资金额超过30亿元](http://www.techweb.com.cn/finance/2022-07-22/2899068.shtml) | Fri Jul 22 2022 6:43 AM<!-- techweb-allnews:END -->
+- 👍 [SpaceX将于9月底再送美国宇航局宇航员前往国际空间站](http://www.techweb.com.cn/world/2022-07-22/2899082.shtml) | Fri Jul 22 2022 8:23 AM
+- 👹 [大摩：苹果向服务业务转型 市值可能再次重回3万亿美元](http://www.techweb.com.cn/world/2022-07-22/2899081.shtml) | Fri Jul 22 2022 8:19 AM
+- 🪜 [近5年全球元宇宙专利申请超过2000件 微软三星均已过百](http://www.techweb.com.cn/world/2022-07-22/2899079.shtml) | Fri Jul 22 2022 7:52 AM
+- 🤭 [内部阻力大、大概率失败 元气森林为何还要做0防腐剂可乐味气泡水](http://www.techweb.com.cn/it/2022-07-22/2899076.shtml) | Fri Jul 22 2022 7:35 AM
+- 🙉 [广和通发布AI智能模组SCA825-W](http://www.techweb.com.cn/it/2022-07-22/2899074.shtml) | Fri Jul 22 2022 7:16 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
