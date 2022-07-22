@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [哪吒汽车完成D3轮融资 融资金额超过30亿元](http://www.techweb.com.cn/finance/2022-07-22/2899068.shtml) | Fri Jul 22 2022 6:43 AM
-- 👹 [世纪佳缘“大地震”](http://www.techweb.com.cn/viewpoint/2022-07-22/2899067.shtml) | Fri Jul 22 2022 6:42 AM
-- 🪜 [特斯拉CFO称Q2产量损失超出预期 但仍致力于全年交付量增长50%](http://www.techweb.com.cn/world/2022-07-22/2899066.shtml) | Fri Jul 22 2022 6:38 AM
-- 🤭 [墨西哥新莱昂州为特斯拉供应商在美墨边境提供专用过境车道](http://www.techweb.com.cn/world/2022-07-22/2899057.shtml) | Fri Jul 22 2022 6:10 AM
-- 🙉 [福特将从宁德时代采购磷酸铁锂电池 用于北美电动皮卡和SUV](http://www.techweb.com.cn/world/2022-07-22/2899055.shtml) | Fri Jul 22 2022 4:41 AM<!-- techweb-allnews:END -->
+- 👍 [近5年全球元宇宙专利申请超过2000件 微软三星均已过百](http://www.techweb.com.cn/world/2022-07-22/2899079.shtml) | Fri Jul 22 2022 7:52 AM
+- 👹 [内部阻力大、大概率失败 元气森林为何还要做0防腐剂可乐味气泡水](http://www.techweb.com.cn/it/2022-07-22/2899076.shtml) | Fri Jul 22 2022 7:35 AM
+- 🪜 [广和通发布AI智能模组SCA825-W](http://www.techweb.com.cn/it/2022-07-22/2899074.shtml) | Fri Jul 22 2022 7:16 AM
+- 🤭 [现代汽车、ABB和Electrolux高管称芯片短缺状况有所缓解](http://www.techweb.com.cn/world/2022-07-22/2899070.shtml) | Fri Jul 22 2022 7:01 AM
+- 🙉 [哪吒汽车完成D3轮融资 融资金额超过30亿元](http://www.techweb.com.cn/finance/2022-07-22/2899068.shtml) | Fri Jul 22 2022 6:43 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
