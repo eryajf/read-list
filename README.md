@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [leetcode  2344. Minimum Deletions to Make Array Divisible（python）](https://juejin.cn/post/7123032160054804493) | Fri Jul 22 2022 3:22 AM 
+- 🤗 [XDC 2022 主论坛精彩回顾：技术趋势、开源生态与产业洞察](https://juejin.cn/post/7123050568867643400) | Fri Jul 22 2022 4:36 AM 
     <details><summary>展开描述 ...</summary> 
-    这是 Weekly Contest 302的第四题，难度 Hard ，主要考查的是对最大公约数和排序 
+    7 月 22 日上午，由稀土掘金技术社区主办的第二届稀土开发者大会 &lpar;XDC 2022&rpar; 主论坛落下帷幕，9 位大咖嘉宾在大会主论坛上做了精彩的技术趋势、开源生态与产业发展的前沿分享 
     </details> 
 
-- 🎡 [面试突击67：说一下 TCP/IP 协议？以及每层的作用？](https://juejin.cn/post/7123021193124249630) | Fri Jul 22 2022 2:40 AM 
+- 🎡 [张小泉菜刀：招聘有下厨经验的产品经理，会拍蒜的来！](https://juejin.cn/post/7123040430815444999) | Fri Jul 22 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
-    TCP/IP 包含四层模型，从上层往下层分别是：应用层、传输层、网络层、数据链路层。有些资料也会说 TCP/IP 是五层模型，所谓的五层模型指的是在数据链路层下面还有一个物理层，而作为软件工程师一般不 
+    最近“商战”层出不穷，先是以“雪糕刺客”为代表的钟薛高和“雪糕护卫”为代表的的雪莲相互battle，再到最近各大菜刀品牌集体拍蒜。 不得不说，今年夏天的画风着实有点奇奇怪怪。 当菜刀与蒜相遇，菜刀“重 
     </details> 
 
-- 🕯 [JavaScript 核心原理剖析 （一）](https://juejin.cn/post/7123015062809214990) | Fri Jul 22 2022 2:16 AM 
+- 🕯 [转转微服务框架的连接管理](https://juejin.cn/post/7123035209565470728) | Fri Jul 22 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    技术从最开始都是基础。本文如题，简单的问题进行更细 一步探索。图都是亲手画的，可能缺乏美感，但肯定清晰。 
+    连接在RPC框架中占据重要地位，本文以连接的生命周期为主线谈谈转转内部RPC框架连接管理的具体实现。 
     </details> 
 
-- 🚀 [41岁的程序员的”毕业“走向自由职业](https://juejin.cn/post/7123012186884014116) | Fri Jul 22 2022 2:05 AM 
+- 🚀 [leetcode 86. Partition List （python）](https://juejin.cn/post/7123032067574595615) | Fri Jul 22 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    然叔的从毕业到自由职业的规划，从富爸爸的冲动开始。然叔35岁前一直搞技术工作，参与过 711电子商务、日本野村证券&lpar;日本第一&rpar;、瑞穗银行（日本三大银行之一）等大型商业项目。也曾有过海外工作经验。并且还 
+    leetcode 86. Partition List （python）考察双指针分割链表的基本操作 
     </details> 
 
-- 💪 [Apache Camel 了解一下？](https://juejin.cn/post/7123005980203778061) | Fri Jul 22 2022 1:41 AM 
+- 💪 [Vue3+Node实现一个WebSocket即时通讯聊天室、既然有HTTP协议，为什么还要有RPC、线程池是这样实现优雅退出的丨酱酱的下午茶第34期](https://juejin.cn/post/7123029652926365704) | Fri Jul 22 2022 3:13 AM 
     <details><summary>展开描述 ...</summary> 
-    何为 Apache Camel ？从本质上来说，Apache Camel 是 Java 的三方集成库。从使用者角度来说，它是一种语言，一组JavaAPI和一大堆组件，以便在不同计算机系统之间集成和处理 
+    前端Vuer，请给你的项目加上 ESLint 最详细的 Vue3 + TypeScript 使用教程【值得收藏】 Vue3+Node实现一个WebSocket即时通讯聊天室 我有 7种 实现web实时 
     </details> 
 <!-- juejin:END -->
 ### 少数派
