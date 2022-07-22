@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [快完成了 Blind 75 的一半了😄](https://www.v2ex.com/t/868078#reply0) | Fri Jul 22 2022 10:53 AM
-- 🤗 [有偿共享极客时间会员，差一位同学，一年 120](https://www.v2ex.com/t/868073#reply0) | Fri Jul 22 2022 10:22 AM
-- 🎭 [ubuntu 下有什么虚拟机软件推荐吗](https://www.v2ex.com/t/868071#reply4) | Fri Jul 22 2022 10:16 AM
-- 🥷 [[求助] @ConditionalOnClass @ConditionalOnBean 导致 starter 配置未生效](https://www.v2ex.com/t/868069#reply1) | Fri Jul 22 2022 10:12 AM
-- 🐵 [安卓（模拟器）安装 RustDesk 安装后无法运行，白屏](https://www.v2ex.com/t/868066#reply2) | Fri Jul 22 2022 9:55 AM<!-- v2ex:END -->
+- 🥸 [第一款开源、跨平台、高性能的中文编程语言！](https://www.v2ex.com/t/868110#reply0) | Fri Jul 22 2022 1:32 PM
+- 🤗 [一直做桌面端的工作， c++该往哪个方向精进](https://www.v2ex.com/t/868107#reply0) | Fri Jul 22 2022 1:23 PM
+- 🎭 [使用 IDEA 开发 mybatis 在注解中写 sql 时没有语法高亮，有没有什么插件可以实现？](https://www.v2ex.com/t/868102#reply2) | Fri Jul 22 2022 12:49 PM
+- 🥷 [LSTM 网络中有关维数的理解](https://www.v2ex.com/t/868100#reply1) | Fri Jul 22 2022 12:31 PM
+- 🐵 [asp.net core 使用 watch run hot reload 的时候，怎么刷新 swagger ui](https://www.v2ex.com/t/868099#reply0) | Fri Jul 22 2022 12:28 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
