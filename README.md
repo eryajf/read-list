@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一篇搞定CAS，深度讲解，面试实践必备](https://juejin.cn/post/7122991016155545636) | Fri Jul 22 2022 12:43 AM 
+- 🤗 [leetcode  2344. Minimum Deletions to Make Array Divisible（python）](https://juejin.cn/post/7123032160054804493) | Fri Jul 22 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 在高并发的业务场景下，线程安全问题是必须考虑的，在JDK5之前，可以通过synchronized或Lock来保证同步，从而达到线程安全的目的。但synchronized或Lock方案属于互斥锁的 
+    这是 Weekly Contest 302的第四题，难度 Hard ，主要考查的是对最大公约数和排序 
     </details> 
 
-- 🎡 [音频的价值、AI Codec 的意义与算法能力的边界丨一期一会 • 音频工程师专场](https://juejin.cn/post/7122820591760965669) | Thu Jul 21 2022 1:42 PM 
+- 🎡 [面试突击67：说一下 TCP/IP 协议？以及每层的作用？](https://juejin.cn/post/7123021193124249630) | Fri Jul 22 2022 2:40 AM 
     <details><summary>展开描述 ...</summary> 
-    音频技术发展到今天，经历了从模拟音频到数字音频到历程。国际音频工程师协会创建于 1948 年，中国数字音频技术起步相对较晚，长期被国外组织和公司垄断。 
+    TCP/IP 包含四层模型，从上层往下层分别是：应用层、传输层、网络层、数据链路层。有些资料也会说 TCP/IP 是五层模型，所谓的五层模型指的是在数据链路层下面还有一个物理层，而作为软件工程师一般不 
     </details> 
 
-- 🕯 [我在淘宝做弹窗，2022 年初的回顾与展望](https://juejin.cn/post/7122797194519773221) | Thu Jul 21 2022 12:12 PM 
+- 🕯 [JavaScript 核心原理剖析 （一）](https://juejin.cn/post/7123015062809214990) | Fri Jul 22 2022 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章作者向各位介绍了自己加入 PopLayer 项目一年多时间以来，为产品所贡献的一份力量，既包含了站在产品视角对产品功能，易用性和未来发展的考量，也包括了站在技术视角，对技术架构，编程范式和功能 
+    技术从最开始都是基础。本文如题，简单的问题进行更细 一步探索。图都是亲手画的，可能缺乏美感，但肯定清晰。 
     </details> 
 
-- 🚀 [看完这篇，你也可以搞定有趣的动态曲线绘制](https://juejin.cn/post/7122790277315559437) | Thu Jul 21 2022 11:46 AM 
+- 🚀 [41岁的程序员的”毕业“走向自由职业](https://juejin.cn/post/7123012186884014116) | Fri Jul 22 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-    利用 Flutter 的 PathMetric可以获取绘制路径的属性和子路径，通过这种方式就可以实现有趣的动态曲线绘制。 
+    然叔的从毕业到自由职业的规划，从富爸爸的冲动开始。然叔35岁前一直搞技术工作，参与过 711电子商务、日本野村证券&lpar;日本第一&rpar;、瑞穗银行（日本三大银行之一）等大型商业项目。也曾有过海外工作经验。并且还 
     </details> 
 
-- 💪 [低代码平台的属性面板该如何设计？](https://juejin.cn/post/7122776138958503944) | Thu Jul 21 2022 10:51 AM 
+- 💪 [Apache Camel 了解一下？](https://juejin.cn/post/7123005980203778061) | Fri Jul 22 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    在之前的如何设计实现 H5 营销页面搭建系统中，我对前端目前的低代码平台的设计中的一些问题做了一些阐述，但并没有深入到很细节的地方去展开探讨。接下来，我会对其中的一些实现细节通过几篇文章来依次分享。  
+    何为 Apache Camel ？从本质上来说，Apache Camel 是 Java 的三方集成库。从使用者角度来说，它是一种语言，一组JavaAPI和一大堆组件，以便在不同计算机系统之间集成和处理 
     </details> 
 <!-- juejin:END -->
 ### 少数派
