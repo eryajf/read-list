@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [SpaceX将于9月底再送美国宇航局宇航员前往国际空间站](http://www.techweb.com.cn/world/2022-07-22/2899082.shtml) | Fri Jul 22 2022 8:23 AM
-- 👹 [大摩：苹果向服务业务转型 市值可能再次重回3万亿美元](http://www.techweb.com.cn/world/2022-07-22/2899081.shtml) | Fri Jul 22 2022 8:19 AM
-- 🪜 [近5年全球元宇宙专利申请超过2000件 微软三星均已过百](http://www.techweb.com.cn/world/2022-07-22/2899079.shtml) | Fri Jul 22 2022 7:52 AM
-- 🤭 [内部阻力大、大概率失败 元气森林为何还要做0防腐剂可乐味气泡水](http://www.techweb.com.cn/it/2022-07-22/2899076.shtml) | Fri Jul 22 2022 7:35 AM
-- 🙉 [广和通发布AI智能模组SCA825-W](http://www.techweb.com.cn/it/2022-07-22/2899074.shtml) | Fri Jul 22 2022 7:16 AM<!-- techweb-allnews:END -->
+- 👍 [不只是培养15万名工程师 韩国还将在税收与资金方面支持半导体产业](http://www.techweb.com.cn/world/2022-07-22/2899093.shtml) | Fri Jul 22 2022 9:39 AM
+- 👹 [美国防部宣布成立新办公室 追踪太空、高空及水下不明物体](http://www.techweb.com.cn/world/2022-07-22/2899091.shtml) | Fri Jul 22 2022 9:30 AM
+- 🪜 [SK海力士将无限期推迟存储芯片工厂扩建计划](http://www.techweb.com.cn/world/2022-07-22/2899085.shtml) | Fri Jul 22 2022 9:11 AM
+- 🤭 [趣店罗老板的镰刀挥太急了](http://www.techweb.com.cn/viewpoint/2022-07-22/2899084.shtml) | Fri Jul 22 2022 9:10 AM
+- 🙉 [SpaceX将于9月底再送美国宇航局宇航员前往国际空间站](http://www.techweb.com.cn/world/2022-07-22/2899082.shtml) | Fri Jul 22 2022 8:23 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
