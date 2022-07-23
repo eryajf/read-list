@@ -41,29 +41,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) | Wed Jul 20 2022 5:22 PM 
+- 🫶 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。 
+    </details> 
+
+- 🧰 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template 
+    </details> 
+
+- 🌏 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) | Sat Jul 23 2022 11:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    做一个开源项目，尽量提供给受众以简单易用的快速上手体验，也是项目能够立刻把人抓住的一个关键。现在如果想让用户快速体验项目，除了提供demo环境之外，还有一个方案，那就是提供一个完备的docker-compose，让人能够直接一键拉起。 
+    </details> 
+
+- 😎 [学习周刊-总第63期-2022年第28周](https://wiki.eryajf.net/pages/d2ea2c/) | Sat Jul 23 2022 10:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第63期-2022年第28周 
+    </details> 
+
+- 💂 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) | Wed Jul 20 2022 5:22 PM 
     <details><summary>展开描述 ...</summary> 
     老婆，孩子，热炕头,电脑，开源，打篮球,我已阔别城市那拥挤的精彩,在家抓住了这一阵儿的平庸 
-    </details> 
-
-- 🧰 [openLDAP入门系列笔记第二篇--简单认识objectCLass以及常见应用](https://wiki.eryajf.net/pages/ea10fa/) | Sun Jul 17 2022 10:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文我们来认识理解一个很重要的概念：objectCLass，其实了解它是很难的，网上不少介绍的文章也讲的云里雾里，看完之后反而更加迷糊，本文将不求完全讲透，但求你看完会用。 
-    </details> 
-
-- 🌏 [openLDAP入门系列笔记第一篇--捋透openLDAP的基础概念](https://wiki.eryajf.net/pages/aa0651/) | Sun Jul 17 2022 10:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文将着力于将ldap中概念讲清道明，希望你看了就能懂，不再困厄烦恼。 
-    </details> 
-
-- 😎 [golang数据类型转换汇总](https://wiki.eryajf.net/pages/33a476/) | Sun Jul 17 2022 11:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    golang作为强类型语言，我们在日常开发过程中，遇到类型转换的场景也非常多，本文整理我在工作开发中遇到过的类型转换实践。 
-    </details> 
-
-- 💂 [学习周刊-总第62期-2022年第27周](https://wiki.eryajf.net/pages/4a06ab/) | Sat Jul 16 2022 2:25 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第62期-2022年第27周 
     </details> 
 <!-- eryajf:END -->
 
