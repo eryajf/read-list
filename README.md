@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [工信部：北京、上海等29个城市已经建成了全国首批的千兆城市](http://www.techweb.com.cn/tele/2022-07-23/2899115.shtml) | Sat Jul 23 2022 2:57 AM
-- 👹 [推特：Q2业绩下滑 马斯克难辞其咎 将强制他完成收购](http://www.techweb.com.cn/it/2022-07-23/2899113.shtml) | Sat Jul 23 2022 2:23 AM
-- 🪜 [林志颖驾驶特斯拉Model X撞车起火 特斯拉回应称原因暂不清楚](http://www.techweb.com.cn/it/2022-07-23/2899112.shtml) | Sat Jul 23 2022 1:39 AM
-- 🤭 [马斯克又和推特打嘴炮：你说我坏话要遭报应](http://www.techweb.com.cn/it/2022-07-23/2899110.shtml) | Sat Jul 23 2022 1:13 AM
-- 🙉 [兆易创新GD25WDxxK6 SPI NOR Flash产品系列问世](http://www.techweb.com.cn/it/2022-07-22/2899097.shtml) | Fri Jul 22 2022 10:09 AM<!-- techweb-allnews:END -->
+- 👍 [投屏收费背后：爱奇艺季度盈利 优酷急了？](http://www.techweb.com.cn/internet/2022-07-23/2899118.shtml) | Sat Jul 23 2022 3:57 AM
+- 👹 [苹果汽车要“胎死腹中”？八年四度换帅 “落地”遥遥无期](http://www.techweb.com.cn/it/2022-07-23/2899116.shtml) | Sat Jul 23 2022 3:33 AM
+- 🪜 [工信部：北京、上海等29个城市已经建成了全国首批的千兆城市](http://www.techweb.com.cn/tele/2022-07-23/2899115.shtml) | Sat Jul 23 2022 2:57 AM
+- 🤭 [推特：Q2业绩下滑 马斯克难辞其咎 将强制他完成收购](http://www.techweb.com.cn/it/2022-07-23/2899113.shtml) | Sat Jul 23 2022 2:23 AM
+- 🙉 [林志颖驾驶特斯拉Model X撞车起火 特斯拉回应称原因暂不清楚](http://www.techweb.com.cn/it/2022-07-23/2899112.shtml) | Sat Jul 23 2022 1:39 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
