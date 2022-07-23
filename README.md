@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [投屏收费背后：爱奇艺季度盈利 优酷急了？](http://www.techweb.com.cn/internet/2022-07-23/2899118.shtml) | Sat Jul 23 2022 3:57 AM
-- 👹 [苹果汽车要“胎死腹中”？八年四度换帅 “落地”遥遥无期](http://www.techweb.com.cn/it/2022-07-23/2899116.shtml) | Sat Jul 23 2022 3:33 AM
-- 🪜 [工信部：北京、上海等29个城市已经建成了全国首批的千兆城市](http://www.techweb.com.cn/tele/2022-07-23/2899115.shtml) | Sat Jul 23 2022 2:57 AM
-- 🤭 [推特：Q2业绩下滑 马斯克难辞其咎 将强制他完成收购](http://www.techweb.com.cn/it/2022-07-23/2899113.shtml) | Sat Jul 23 2022 2:23 AM
-- 🙉 [林志颖驾驶特斯拉Model X撞车起火 特斯拉回应称原因暂不清楚](http://www.techweb.com.cn/it/2022-07-23/2899112.shtml) | Sat Jul 23 2022 1:39 AM<!-- techweb-allnews:END -->
+- 👍 [爱立信宣布完成收购云通信供应商Vonage](http://www.techweb.com.cn/it/2022-07-23/2899126.shtml) | Sat Jul 23 2022 4:48 AM
+- 👹 [苹果允许部分App向用户提供“外部订阅” 避免30%抽成](http://www.techweb.com.cn/it/2022-07-23/2899125.shtml) | Sat Jul 23 2022 4:43 AM
+- 🪜 [大众突然换帅：迪斯将于9月离职 保时捷CEO接任](http://www.techweb.com.cn/it/2022-07-23/2899123.shtml) | Sat Jul 23 2022 4:21 AM
+- 🤭 [阿斯麦预计Q3净销售额约51亿至54亿欧元 研发成本8.1亿欧元](http://www.techweb.com.cn/it/2022-07-23/2899121.shtml) | Sat Jul 23 2022 4:12 AM
+- 🙉 [SpaceX发射46颗星链互联网卫星 打破年度发射纪录](http://www.techweb.com.cn/it/2022-07-23/2899120.shtml) | Sat Jul 23 2022 4:04 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
