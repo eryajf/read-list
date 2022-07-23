@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [马斯克又和推特打嘴炮：你说我坏话要遭报应](http://www.techweb.com.cn/it/2022-07-23/2899110.shtml) | Sat Jul 23 2022 1:13 AM
-- 👹 [兆易创新GD25WDxxK6 SPI NOR Flash产品系列问世](http://www.techweb.com.cn/it/2022-07-22/2899097.shtml) | Fri Jul 22 2022 10:09 AM
-- 🪜 [不只是培养15万名工程师 韩国还将在税收与资金方面支持半导体产业](http://www.techweb.com.cn/world/2022-07-22/2899093.shtml) | Fri Jul 22 2022 9:39 AM
-- 🤭 [美国防部宣布成立新办公室 追踪太空、高空及水下不明物体](http://www.techweb.com.cn/world/2022-07-22/2899091.shtml) | Fri Jul 22 2022 9:30 AM
-- 🙉 [SK海力士将无限期推迟存储芯片工厂扩建计划](http://www.techweb.com.cn/world/2022-07-22/2899085.shtml) | Fri Jul 22 2022 9:11 AM<!-- techweb-allnews:END -->
+- 👍 [工信部：北京、上海等29个城市已经建成了全国首批的千兆城市](http://www.techweb.com.cn/tele/2022-07-23/2899115.shtml) | Sat Jul 23 2022 2:57 AM
+- 👹 [推特：Q2业绩下滑 马斯克难辞其咎 将强制他完成收购](http://www.techweb.com.cn/it/2022-07-23/2899113.shtml) | Sat Jul 23 2022 2:23 AM
+- 🪜 [林志颖驾驶特斯拉Model X撞车起火 特斯拉回应称原因暂不清楚](http://www.techweb.com.cn/it/2022-07-23/2899112.shtml) | Sat Jul 23 2022 1:39 AM
+- 🤭 [马斯克又和推特打嘴炮：你说我坏话要遭报应](http://www.techweb.com.cn/it/2022-07-23/2899110.shtml) | Sat Jul 23 2022 1:13 AM
+- 🙉 [兆易创新GD25WDxxK6 SPI NOR Flash产品系列问世](http://www.techweb.com.cn/it/2022-07-22/2899097.shtml) | Fri Jul 22 2022 10:09 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
