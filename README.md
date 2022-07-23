@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治](https://sspai.com/post/74761) | Sat Jul 23 2022 3:00 AM 
+- 👹 [播客 Plus | Disney 卖的是糖，HBO 卖的是酒，Netflix 卖的是毒](https://sspai.com/prime/story/PC-06) | Sat Jul 23 2022 7:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    被视为「营收密码」、引得科技巨头们纷纷下场的流媒体服务，最近似乎遇上增长瓶颈期，这到底是个别公司的经验策略出了问题，还是流媒体服务的商业模式摸到了天花板？&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/PC-06&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治](https://sspai.com/post/74761) | Sat Jul 23 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     入夏之后，高温天气屡见不鲜。无论环境怎样，都希望大家能够增加防护，把高温对身体的伤害降到最低。&lt;a href=&quot;https://sspai.com/post/74761&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/74754) | Fri Jul 22 2022 9:47 AM 
+- 🤭 [本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/74754) | Fri Jul 22 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[美剧]熊家餐馆、[电影]犯罪都市2、[动画]来自深渊：烈日的黄金乡、[美剧]吸血鬼生活第四季、[电影]剑客卡南、[电影]回转企鹅罐剧场版前篇、[综艺]BiongBiong ...&lt;a href=&quot;https://sspai.com/post/74754&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派周报 | 本周会员内容提要；跑题：康熙发微](https://sspai.com/prime/story/pi-weekly-001) | Fri Jul 22 2022 8:53 AM 
+- 🥸 [派周报 | 本周会员内容提要；跑题：康熙发微](https://sspai.com/prime/story/pi-weekly-001) | Fri Jul 22 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
     有时，技术问题与现实议题可能会以奇特的方式结合在一起。本周，这种情况就生动地发生在一则微博话题中。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-001&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [暑期特别征文 | 聊聊你的「数字文具盒」，我们为你报销](https://sspai.com/post/74751) | Fri Jul 22 2022 8:12 AM 
+- 🙉 [暑期特别征文 | 聊聊你的「数字文具盒」，我们为你报销](https://sspai.com/post/74751) | Fri Jul 22 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
     我们打算借着这段宝贵的时间，开展一次关于学习工具与学术工作的征文，并准备了丰厚且实用的奖励。希望这次活动能吸引到更多朋友分享自己的探索历程与宝贵经验，也希望产生的文章可以在未来惠及更多需要帮助的读者。&lt;a href=&quot;https://sspai.com/post/74751&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [线下活动 | 少数派线下活动来啦！这次我们想和你唠唠「家」常](https://sspai.com/post/74715) | Fri Jul 22 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我们又要见面了。从数字科技和效率过度到生活方式比我们想象中顺利，从《装修笔记》系列文章首次亮相到现在近两年的时间，我们非常乐于看到诸如《填充收纳思考，小户型也能越住越大》、《巧用设计感十足的N ...&lt;a href=&quot;https://sspai.com/post/74715&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
