@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Golang singleflight （2）源码剖析](https://juejin.cn/post/7123495892572700702) | Sat Jul 23 2022 9:25 AM 
+- 🤗 [Android 系统启动 &lt;zygote 进程&gt; 笔记【2】](https://juejin.cn/post/7123511970871345159) | Sat Jul 23 2022 10:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    Read The Fucking Source Code. —— Linus 站在&#39;巨人&#39;的肩膀上开始自己的旅途。—— 佚名 愉快的周末，从打开💻开始，到骑行归来结束。—— 佚名 
+    </details> 
+
+- 🎡 [深入浅出边缘云 | 1. 概述](https://juejin.cn/post/7123511132488204318) | Sat Jul 23 2022 10:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    本系列是开源电子书Edge Cloud Operations: A Systems Approach的中文版，详细介绍了基于开源组件构建的边缘云的架构、功能及具体实现。 
+    </details> 
+
+- 🕯 [pinia源码分析【4】- Pinia Methods](https://juejin.cn/post/7123504805892325406) | Sat Jul 23 2022 9:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    上一章我们对store的最核心流程完成了分析，从而了解了一个store从定义到被使用的内部实现流程，但是store相关的方法，我们还未进行分析，本章我们就重点分析分析store自带的Methods 
+    </details> 
+
+- 🚀 [Vue中的观察者模式](https://juejin.cn/post/7123499373832601636) | Sat Jul 23 2022 9:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    Vue中的观察者模式 一、什么是观察者模式 当一个对象中的数据被多个对象所依赖，并且当被依赖发生变化的时候，会通知所有的依赖项。我们称这种模式为观察模式，被依赖的对象我们称之为目标，依赖项我们称之为观 
+    </details> 
+
+- 💪 [Golang singleflight （2）源码剖析](https://juejin.cn/post/7123495892572700702) | Sat Jul 23 2022 9:25 AM 
     <details><summary>展开描述 ...</summary> 
     上一篇文章中我们了解了如何使用 singleflight 来解决缓存击穿的问题。今天这篇我们来看看 singleflight 的源码，了解一下实现机制。 
-    </details> 
-
-- 🎡 [面经刺客 | 华为云信息体验工程师 暑期实习面经](https://juejin.cn/post/7123493424585506847) | Sat Jul 23 2022 9:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    华为-华为云-信息体验工程师-信息体验设计与开发方向-暑期实习面经。本文使用飞书文档撰写并同步修改更新至飞书知识库，欢迎在文档中评论和批注。更多分享及知识库链接请见公众号：KKCHANNEL 
-    </details> 
-
-- 🕯 [3D特效旋转相册](https://juejin.cn/post/7123492343201660959) | Sat Jul 23 2022 9:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家先看一下效果动态图 一个炫酷3d旋转的特效图，大家可以也可以把自己喜欢的图片放在上面， 我们写这个之前需要先了解一下transform-style 这个css3属性 transform-style 
-    </details> 
-
-- 🚀 [2022年了，懂vue3的也该学一波pinia了](https://juejin.cn/post/7123488184930926623) | Sat Jul 23 2022 8:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    pinia Vue3出来也快2年的时间了，越来越多的人开始使用vue3。也不得不说vue3挺好用的。 用过vuex的都知道，并没有那么好用，vue3使用ts重构的同时，带来了更好的类型提示，也有了Co 
-    </details> 
-
-- 💪 [Java并发的基石，Java内存模型（JMM）](https://juejin.cn/post/7123484860202614798) | Sat Jul 23 2022 8:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    为什么需要内存模型 由于摩尔定律的失效，CPU的执行速度越来越快，由于内存的技术并没有太大的变化，所以从内存中读取和写入数据的过程和CPU的执行速度比起来差距就会越来越大,这就导致CPU每次操作内存都 
     </details> 
 <!-- juejin:END -->
 ### 少数派
