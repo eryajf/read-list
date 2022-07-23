@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [现代汽车在美国佐治亚州设厂共获18亿美元政府补贴](http://www.techweb.com.cn/it/2022-07-23/2899129.shtml) | Sat Jul 23 2022 5:49 AM
-- 👹 [T-Mobile同意支付3.5亿美元和解数据泄露集体诉讼](http://www.techweb.com.cn/it/2022-07-23/2899128.shtml) | Sat Jul 23 2022 5:39 AM
-- 🪜 [推特被黑客入侵：540万账户联系方式泄露 卖价3万美元](http://www.techweb.com.cn/it/2022-07-23/2899127.shtml) | Sat Jul 23 2022 4:56 AM
-- 🤭 [爱立信宣布完成收购云通信供应商Vonage](http://www.techweb.com.cn/it/2022-07-23/2899126.shtml) | Sat Jul 23 2022 4:48 AM
-- 🙉 [苹果允许部分App向用户提供“外部订阅” 避免30%抽成](http://www.techweb.com.cn/it/2022-07-23/2899125.shtml) | Sat Jul 23 2022 4:43 AM<!-- techweb-allnews:END -->
+- 👍 [爆料称iPhone14无缘3nm工艺 全新A16处理器依然采用4nm工艺](http://www.techweb.com.cn/phone/2022-07-23/2899133.shtml) | Sat Jul 23 2022 6:32 AM
+- 👹 [爆料称华为畅享50 Pro将于7月27日国内发布 采用6.7英寸居中挖孔直屏](http://www.techweb.com.cn/phone/2022-07-23/2899132.shtml) | Sat Jul 23 2022 6:23 AM
+- 🪜 [iPhone 14系列发布在即 苹果倒逼用户买更贵机型](http://www.techweb.com.cn/phone/2022-07-23/2899131.shtml) | Sat Jul 23 2022 6:18 AM
+- 🤭 [声称公司AI聊天机器人有自我意识 谷歌高级软件工程师遭解雇](http://www.techweb.com.cn/it/2022-07-23/2899130.shtml) | Sat Jul 23 2022 6:06 AM
+- 🙉 [现代汽车在美国佐治亚州设厂共获18亿美元政府补贴](http://www.techweb.com.cn/it/2022-07-23/2899129.shtml) | Sat Jul 23 2022 5:49 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
