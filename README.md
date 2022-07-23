@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [爱立信宣布完成收购云通信供应商Vonage](http://www.techweb.com.cn/it/2022-07-23/2899126.shtml) | Sat Jul 23 2022 4:48 AM
-- 👹 [苹果允许部分App向用户提供“外部订阅” 避免30%抽成](http://www.techweb.com.cn/it/2022-07-23/2899125.shtml) | Sat Jul 23 2022 4:43 AM
-- 🪜 [大众突然换帅：迪斯将于9月离职 保时捷CEO接任](http://www.techweb.com.cn/it/2022-07-23/2899123.shtml) | Sat Jul 23 2022 4:21 AM
-- 🤭 [阿斯麦预计Q3净销售额约51亿至54亿欧元 研发成本8.1亿欧元](http://www.techweb.com.cn/it/2022-07-23/2899121.shtml) | Sat Jul 23 2022 4:12 AM
-- 🙉 [SpaceX发射46颗星链互联网卫星 打破年度发射纪录](http://www.techweb.com.cn/it/2022-07-23/2899120.shtml) | Sat Jul 23 2022 4:04 AM<!-- techweb-allnews:END -->
+- 👍 [现代汽车在美国佐治亚州设厂共获18亿美元政府补贴](http://www.techweb.com.cn/it/2022-07-23/2899129.shtml) | Sat Jul 23 2022 5:49 AM
+- 👹 [T-Mobile同意支付3.5亿美元和解数据泄露集体诉讼](http://www.techweb.com.cn/it/2022-07-23/2899128.shtml) | Sat Jul 23 2022 5:39 AM
+- 🪜 [推特被黑客入侵：540万账户联系方式泄露 卖价3万美元](http://www.techweb.com.cn/it/2022-07-23/2899127.shtml) | Sat Jul 23 2022 4:56 AM
+- 🤭 [爱立信宣布完成收购云通信供应商Vonage](http://www.techweb.com.cn/it/2022-07-23/2899126.shtml) | Sat Jul 23 2022 4:48 AM
+- 🙉 [苹果允许部分App向用户提供“外部订阅” 避免30%抽成](http://www.techweb.com.cn/it/2022-07-23/2899125.shtml) | Sat Jul 23 2022 4:43 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
