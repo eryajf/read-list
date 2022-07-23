@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何在游戏中实现文字逐个出现的打字机效果](https://juejin.cn/post/7123448962337472542) | Sat Jul 23 2022 6:22 AM 
+- 🤗 [关于强者文化的思考](https://juejin.cn/post/7123468041324593189) | Sat Jul 23 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
-    今天分享一下如何在微信小游戏制作工具中实现文字逐个出现的打字机效果，这个小功能可以用于游戏中的文字对白的展示，如果你要做的是一个文字类游戏的话，那么肯定用的上。 
+    前言 第一次听到强者文化是在《天道》短视频剪辑片段里头，哈哈哈，还不是连续剧，声明下本人很少煲剧。为什么忽然谈起这个感觉很高大上，又很虚的东西呢？还得从我经历说起。 人总会带着偏见去看待一件事，或者一 
     </details> 
 
-- 🎡 [setTimeout 和 setInterval，你们两位同学注意点时间~](https://juejin.cn/post/7123440584156512293) | Sat Jul 23 2022 5:49 AM 
+- 🎡 [【系统设计】系统设计基础理论](https://juejin.cn/post/7123467396009951240) | Sat Jul 23 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
-    一、基本定义与用法 1、定义 setTimeout&lpar;&rpar;方法用于在指定的时间（单位毫秒）后执行回调函数或指定的一段代码 setInterval&lpar;&rpar;方法可按照指定的时间间隔（单位毫秒）来调用回调函数或指定 
+    1. MVC &amp; MVP &amp; MVVM MVC，MVP和MVVM都是常见的软件架构设计模式（Architectural Pattern），它通过分离关注点来改进代码的组织方式。 （1）MVC模式（Mo 
     </details> 
 
-- 🕯 [BFC是什么？怎么利用BFC解决问题？](https://juejin.cn/post/7123439839956959269) | Sat Jul 23 2022 5:44 AM 
+- 🕯 [教你用 Python 快速批量转换 HEIC 文件](https://juejin.cn/post/7123467227038220319) | Sat Jul 23 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
-    BFC是什么？ BFC定义 BFC（Block Formatting Context），块级格式化上下文，是一个独立的渲染区域，让处于BFC内部的元素与外部的元素互相隔离，使内外元素的定位不会互相影响 
+    1. 前言 最近打算做一批日历给亲朋好友，但是从 iPhone 上导出的照片格式是 HEIC 格式，而商家的在线制作网站不支持这种图片格式 PS：HEIC 是苹果采用的新的默认图片格式，它能在不损失图 
     </details> 
 
-- 🚀 [学会 React 中的调和归并，能行吗？](https://juejin.cn/post/7123435071159140359) | Sat Jul 23 2022 5:27 AM 
+- 🚀 [双指针法详细教学与力扣刷题入门说明](https://juejin.cn/post/7123466041824378916) | Sat Jul 23 2022 7:27 AM 
     <details><summary>展开描述 ...</summary> 
-    这一次一定带你学会 React Reconcile 中的 调和归并！！掌握 React Render 阶段核心工作 
+    双指针法是最基础的算法，也是初学者学习算法首先要接触的。在这篇文章里我将为大家讲解双指针法常见的各种应用，并为大家做力扣刷题的疑惑解答 
     </details> 
 
-- 💪 [Vue-Router 源码快览（for Vue3）](https://juejin.cn/post/7123431126672080926) | Sat Jul 23 2022 5:11 AM 
+- 💪 [5 分钟，教你用 Docker 部署一个 Python 应用！](https://juejin.cn/post/7123465955304275998) | Sat Jul 23 2022 7:26 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是 chosan 。相信很多朋友和我一样，虽然知道几种路由模式的实现方式，但是如果不看看框架里面的代码，捋一捋它的基本逻辑，心里就总觉得没底。来！带您快速熟悉一下最新的VueRouter源码 
+    在使用传统物理机或云服务器上部署项目都会存在一些痛点 比如：项目部署速度慢、资源浪费、迁移难且扩展低 而使用 Docker 部署项目的优势包含： 高效利用系统资源 服务启动更快 环境一致，迁移更加方便 
     </details> 
 <!-- juejin:END -->
 ### 少数派
