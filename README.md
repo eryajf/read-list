@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请求量巨大的情况下，缩短 API 字段单词长度是否值得？](https://www.v2ex.com/t/868167#reply12) | Sat Jul 23 2022 3:35 AM
-- 🤗 [一个利用 go 的简陋语法模仿 const 修饰的 linter](https://www.v2ex.com/t/868164#reply0) | Sat Jul 23 2022 3:19 AM
-- 🎭 [win11 中使用 nvida 3080ti，在虚拟机中能做训练和识别么](https://www.v2ex.com/t/868159#reply3) | Sat Jul 23 2022 2:51 AM
-- 🥷 [人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157#reply24) | Sat Jul 23 2022 2:48 AM
-- 🐵 [使用 docker 下载代码提示 key 报错问题请教](https://www.v2ex.com/t/868155#reply2) | Sat Jul 23 2022 2:39 AM<!-- v2ex:END -->
+- 🥸 [Java 后台开发，大家用 @Autowired 多么](https://www.v2ex.com/t/868182#reply5) | Sat Jul 23 2022 4:46 AM
+- 🤗 [如何下载 pcie 规范的 pdf？](https://www.v2ex.com/t/868181#reply2) | Sat Jul 23 2022 4:43 AM
+- 🎭 [Chrome 有办法调用微软 edge 类似的朗读系统吗？](https://www.v2ex.com/t/868180#reply0) | Sat Jul 23 2022 4:35 AM
+- 🥷 [请求量巨大的情况下，缩短 API 字段单词长度是否值得？](https://www.v2ex.com/t/868167#reply13) | Sat Jul 23 2022 3:35 AM
+- 🐵 [一个利用 go 的简陋语法模仿 const 修饰的 linter](https://www.v2ex.com/t/868164#reply0) | Sat Jul 23 2022 3:19 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
