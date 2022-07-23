@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [爆料称iPhone14无缘3nm工艺 全新A16处理器依然采用4nm工艺](http://www.techweb.com.cn/phone/2022-07-23/2899133.shtml) | Sat Jul 23 2022 6:32 AM
-- 👹 [爆料称华为畅享50 Pro将于7月27日国内发布 采用6.7英寸居中挖孔直屏](http://www.techweb.com.cn/phone/2022-07-23/2899132.shtml) | Sat Jul 23 2022 6:23 AM
-- 🪜 [iPhone 14系列发布在即 苹果倒逼用户买更贵机型](http://www.techweb.com.cn/phone/2022-07-23/2899131.shtml) | Sat Jul 23 2022 6:18 AM
-- 🤭 [声称公司AI聊天机器人有自我意识 谷歌高级软件工程师遭解雇](http://www.techweb.com.cn/it/2022-07-23/2899130.shtml) | Sat Jul 23 2022 6:06 AM
-- 🙉 [现代汽车在美国佐治亚州设厂共获18亿美元政府补贴](http://www.techweb.com.cn/it/2022-07-23/2899129.shtml) | Sat Jul 23 2022 5:49 AM<!-- techweb-allnews:END -->
+- 👍 [沃尔沃CEO：已度过芯片短缺最严重时期](http://www.techweb.com.cn/it/2022-07-23/2899135.shtml) | Sat Jul 23 2022 9:37 AM
+- 👹 [TikTok分流数字广告营收 伤了多家美国社交平台](http://www.techweb.com.cn/internet/2022-07-23/2899134.shtml) | Sat Jul 23 2022 9:04 AM
+- 🪜 [爆料称iPhone14无缘3nm工艺 全新A16处理器依然采用4nm工艺](http://www.techweb.com.cn/phone/2022-07-23/2899133.shtml) | Sat Jul 23 2022 6:32 AM
+- 🤭 [爆料称华为畅享50 Pro将于7月27日国内发布 采用6.7英寸居中挖孔直屏](http://www.techweb.com.cn/phone/2022-07-23/2899132.shtml) | Sat Jul 23 2022 6:23 AM
+- 🙉 [iPhone 14系列发布在即 苹果倒逼用户买更贵机型](http://www.techweb.com.cn/phone/2022-07-23/2899131.shtml) | Sat Jul 23 2022 6:18 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
