@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java并发的基石，Java内存模型（JMM）](https://juejin.cn/post/7123484860202614798) | Sat Jul 23 2022 8:39 AM 
+- 🤗 [Golang singleflight （2）源码剖析](https://juejin.cn/post/7123495892572700702) | Sat Jul 23 2022 9:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    上一篇文章中我们了解了如何使用 singleflight 来解决缓存击穿的问题。今天这篇我们来看看 singleflight 的源码，了解一下实现机制。 
+    </details> 
+
+- 🎡 [面经刺客 | 华为云信息体验工程师 暑期实习面经](https://juejin.cn/post/7123493424585506847) | Sat Jul 23 2022 9:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    华为-华为云-信息体验工程师-信息体验设计与开发方向-暑期实习面经。本文使用飞书文档撰写并同步修改更新至飞书知识库，欢迎在文档中评论和批注。更多分享及知识库链接请见公众号：KKCHANNEL 
+    </details> 
+
+- 🕯 [3D特效旋转相册](https://juejin.cn/post/7123492343201660959) | Sat Jul 23 2022 9:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家先看一下效果动态图 一个炫酷3d旋转的特效图，大家可以也可以把自己喜欢的图片放在上面， 我们写这个之前需要先了解一下transform-style 这个css3属性 transform-style 
+    </details> 
+
+- 🚀 [2022年了，懂vue3的也该学一波pinia了](https://juejin.cn/post/7123488184930926623) | Sat Jul 23 2022 8:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    pinia Vue3出来也快2年的时间了，越来越多的人开始使用vue3。也不得不说vue3挺好用的。 用过vuex的都知道，并没有那么好用，vue3使用ts重构的同时，带来了更好的类型提示，也有了Co 
+    </details> 
+
+- 💪 [Java并发的基石，Java内存模型（JMM）](https://juejin.cn/post/7123484860202614798) | Sat Jul 23 2022 8:39 AM 
     <details><summary>展开描述 ...</summary> 
     为什么需要内存模型 由于摩尔定律的失效，CPU的执行速度越来越快，由于内存的技术并没有太大的变化，所以从内存中读取和写入数据的过程和CPU的执行速度比起来差距就会越来越大,这就导致CPU每次操作内存都 
-    </details> 
-
-- 🎡 [记一次 Charles 代理本地域名引发的 HTTPS 惨案](https://juejin.cn/post/7123484354902556679) | Sat Jul 23 2022 8:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 今天是 2022-07-23，心心念念的个人项目终于向前迈了一步，因为今天要开始做第三方登录接口了，之前前前后后折腾了快有半年了，这是掘金项目开发最慢的一个了吧，也可能是因为自己代码洁癖，架构洁 
-    </details> 
-
-- 🕯 [Go语言学习之 Channel 通道](https://juejin.cn/post/7123483272302034980) | Sat Jul 23 2022 8:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    不同于传统的多线程并发模型使用共享内存来实现线程间通信的方式，go 是通过 channel 进行协程 &lpar;goroutine&rpar; 之间的通信来实现数据共享。 channel，就是一个管道，可以想像成 Go 
-    </details> 
-
-- 🚀 [列表展示怎么做](https://juejin.cn/post/7123481625190465550) | Sat Jul 23 2022 8:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    Vue 的CSS之deep语法 ::v-deep 我们知道，在Vue组件的style标签里，加上scoped属性，会使写的样式只影响当前的组件，不会影响到子组件。 去掉scoped就可以了，但是去掉s 
-    </details> 
-
-- 💪 [全局管理之Vuex](https://juejin.cn/post/7123479869274456100) | Sat Jul 23 2022 8:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    每一个 Vuex 应用的核心就是 store（仓库）。“store”基本上就是一个容器，它包含着你的应用中大部分的状态 &lpar;state&rpar;。 我们之前在store/index2.ts里自己定义的store 
     </details> 
 <!-- juejin:END -->
 ### 少数派
