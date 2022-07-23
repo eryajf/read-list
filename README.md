@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [关于强者文化的思考](https://juejin.cn/post/7123468041324593189) | Sat Jul 23 2022 7:36 AM 
+- 🤗 [Java并发的基石，Java内存模型（JMM）](https://juejin.cn/post/7123484860202614798) | Sat Jul 23 2022 8:39 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 第一次听到强者文化是在《天道》短视频剪辑片段里头，哈哈哈，还不是连续剧，声明下本人很少煲剧。为什么忽然谈起这个感觉很高大上，又很虚的东西呢？还得从我经历说起。 人总会带着偏见去看待一件事，或者一 
+    为什么需要内存模型 由于摩尔定律的失效，CPU的执行速度越来越快，由于内存的技术并没有太大的变化，所以从内存中读取和写入数据的过程和CPU的执行速度比起来差距就会越来越大,这就导致CPU每次操作内存都 
     </details> 
 
-- 🎡 [【系统设计】系统设计基础理论](https://juejin.cn/post/7123467396009951240) | Sat Jul 23 2022 7:32 AM 
+- 🎡 [记一次 Charles 代理本地域名引发的 HTTPS 惨案](https://juejin.cn/post/7123484354902556679) | Sat Jul 23 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
-    1. MVC &amp; MVP &amp; MVVM MVC，MVP和MVVM都是常见的软件架构设计模式（Architectural Pattern），它通过分离关注点来改进代码的组织方式。 （1）MVC模式（Mo 
+    前言 今天是 2022-07-23，心心念念的个人项目终于向前迈了一步，因为今天要开始做第三方登录接口了，之前前前后后折腾了快有半年了，这是掘金项目开发最慢的一个了吧，也可能是因为自己代码洁癖，架构洁 
     </details> 
 
-- 🕯 [教你用 Python 快速批量转换 HEIC 文件](https://juejin.cn/post/7123467227038220319) | Sat Jul 23 2022 7:32 AM 
+- 🕯 [Go语言学习之 Channel 通道](https://juejin.cn/post/7123483272302034980) | Sat Jul 23 2022 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 前言 最近打算做一批日历给亲朋好友，但是从 iPhone 上导出的照片格式是 HEIC 格式，而商家的在线制作网站不支持这种图片格式 PS：HEIC 是苹果采用的新的默认图片格式，它能在不损失图 
+    不同于传统的多线程并发模型使用共享内存来实现线程间通信的方式，go 是通过 channel 进行协程 &lpar;goroutine&rpar; 之间的通信来实现数据共享。 channel，就是一个管道，可以想像成 Go 
     </details> 
 
-- 🚀 [双指针法详细教学与力扣刷题入门说明](https://juejin.cn/post/7123466041824378916) | Sat Jul 23 2022 7:27 AM 
+- 🚀 [列表展示怎么做](https://juejin.cn/post/7123481625190465550) | Sat Jul 23 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    双指针法是最基础的算法，也是初学者学习算法首先要接触的。在这篇文章里我将为大家讲解双指针法常见的各种应用，并为大家做力扣刷题的疑惑解答 
+    Vue 的CSS之deep语法 ::v-deep 我们知道，在Vue组件的style标签里，加上scoped属性，会使写的样式只影响当前的组件，不会影响到子组件。 去掉scoped就可以了，但是去掉s 
     </details> 
 
-- 💪 [5 分钟，教你用 Docker 部署一个 Python 应用！](https://juejin.cn/post/7123465955304275998) | Sat Jul 23 2022 7:26 AM 
+- 💪 [全局管理之Vuex](https://juejin.cn/post/7123479869274456100) | Sat Jul 23 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
-    在使用传统物理机或云服务器上部署项目都会存在一些痛点 比如：项目部署速度慢、资源浪费、迁移难且扩展低 而使用 Docker 部署项目的优势包含： 高效利用系统资源 服务启动更快 环境一致，迁移更加方便 
+    每一个 Vuex 应用的核心就是 store（仓库）。“store”基本上就是一个容器，它包含着你的应用中大部分的状态 &lpar;state&rpar;。 我们之前在store/index2.ts里自己定义的store 
     </details> 
 <!-- juejin:END -->
 ### 少数派
