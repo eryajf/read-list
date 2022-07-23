@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android 系统启动 &lt;zygote 进程&gt; 笔记【2】](https://juejin.cn/post/7123511970871345159) | Sat Jul 23 2022 10:26 AM 
+- 🤗 [函数式编程实战](https://juejin.cn/post/7123527437761609742) | Sat Jul 23 2022 11:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文通过一个例子来介绍函数式编程的用法，本文没有复杂的概念，也没有各种定义，只有一个例子，由浅入深来学习函数式编程实战。 
+    </details> 
+
+- 🎡 [你不得不知道的网络知识](https://juejin.cn/post/7123512356948148238) | Sat Jul 23 2022 10:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    纯干货总结面试中常见的问题，按网络分层结构进行分类，适合面试前快速浏览，从各大大佬的文章中摘抄出来结合自己的理解，持续更新～  🔗 
+    </details> 
+
+- 🕯 [Android 系统启动 &lt;zygote 进程&gt; 笔记【2】](https://juejin.cn/post/7123511970871345159) | Sat Jul 23 2022 10:26 AM 
     <details><summary>展开描述 ...</summary> 
     Read The Fucking Source Code. —— Linus 站在&#39;巨人&#39;的肩膀上开始自己的旅途。—— 佚名 愉快的周末，从打开💻开始，到骑行归来结束。—— 佚名 
     </details> 
 
-- 🎡 [深入浅出边缘云 | 1. 概述](https://juejin.cn/post/7123511132488204318) | Sat Jul 23 2022 10:21 AM 
+- 🚀 [深入浅出边缘云 | 1. 概述](https://juejin.cn/post/7123511132488204318) | Sat Jul 23 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
     本系列是开源电子书Edge Cloud Operations: A Systems Approach的中文版，详细介绍了基于开源组件构建的边缘云的架构、功能及具体实现。 
     </details> 
 
-- 🕯 [pinia源码分析【4】- Pinia Methods](https://juejin.cn/post/7123504805892325406) | Sat Jul 23 2022 9:58 AM 
+- 💪 [pinia源码分析【4】- Pinia Methods](https://juejin.cn/post/7123504805892325406) | Sat Jul 23 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
     上一章我们对store的最核心流程完成了分析，从而了解了一个store从定义到被使用的内部实现流程，但是store相关的方法，我们还未进行分析，本章我们就重点分析分析store自带的Methods 
-    </details> 
-
-- 🚀 [Vue中的观察者模式](https://juejin.cn/post/7123499373832601636) | Sat Jul 23 2022 9:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    Vue中的观察者模式 一、什么是观察者模式 当一个对象中的数据被多个对象所依赖，并且当被依赖发生变化的时候，会通知所有的依赖项。我们称这种模式为观察模式，被依赖的对象我们称之为目标，依赖项我们称之为观 
-    </details> 
-
-- 💪 [Golang singleflight （2）源码剖析](https://juejin.cn/post/7123495892572700702) | Sat Jul 23 2022 9:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    上一篇文章中我们了解了如何使用 singleflight 来解决缓存击穿的问题。今天这篇我们来看看 singleflight 的源码，了解一下实现机制。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
