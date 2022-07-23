@@ -211,9 +211,9 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开发一个在线代码对比工具](https://juejin.cn/post/7123374784791969806) | Sat Jul 23 2022 1:32 AM 
+- 🤗 [浅尝浏览器桌面通知 Notification](https://juejin.cn/post/7123385065513418760) | Sat Jul 23 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    在开发过程中，我们经常需要用到代码对比，对比下代码是否一致，有哪些改动，方便我们可以查看问题，今天我们就来说实现下，其实很简单。 
+    参考： https://developer.mozilla.org/zh-CN/docs/Web/API/notification https://developer.mozilla.org/en-U 
     </details> 
 
 - 🎡 [2022，VSCode 前端插件推荐](https://juejin.cn/post/7123367320109449230) | Sat Jul 23 2022 1:06 AM 
