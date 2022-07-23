@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Docker Compose 搭建简单的Python网络应用程序](https://juejin.cn/post/7123412299527749645) | Sat Jul 23 2022 3:58 AM 
+- 🤗 [Vue-Router 源码快览（for Vue3）](https://juejin.cn/post/7123431126672080926) | Sat Jul 23 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
-    在这个页面上，你可以建立一个简单的Python网络应用程序，运行在Docker Compose上。该应用使用Flask框架，并在Redis中维护一个点击计数器。虽然样本使用了Python，但即使你不熟 
+    大家好，我是 chosan 。相信很多朋友和我一样，虽然知道几种路由模式的实现方式，但是如果不看看框架里面的代码，捋一捋它的基本逻辑，心里就总觉得没底。来！带您快速熟悉一下最新的VueRouter源码 
     </details> 
 
-- 🎡 [在Flutter中集成Unity踩坑](https://juejin.cn/post/7123407798322331662) | Sat Jul 23 2022 3:41 AM 
+- 🎡 [宝藏网站！机器学习概念可视化；LeetCode面试必看清单；104个Python数据科学实战项目；必应超清壁纸；前沿论文  | ShowMeAI资讯日报](https://juejin.cn/post/7123430273957511198) | Sat Jul 23 2022 5:07 AM 
     <details><summary>展开描述 ...</summary> 
-    先反思一下你们为什么要用flutter去集成unity？可不可以不用fluter去集成？如果可以的话，先放弃，用原生去集成吧，本文也不用看了，因为fluter集成实在太坑了，太降低效率了！步步 
+    ShowMeAI资讯日报 07-23 期，LeetCode技术面试准备清单、CnosDB开源分布式时序数据库、必应每日超清壁纸、机器学习概念可视化、 104个Python数据科学实战项目、前沿论文… 
     </details> 
 
-- 🕯 [前端实战|不依赖后端，如何实现本地的CRUD操作](https://juejin.cn/post/7123396735509987358) | Sat Jul 23 2022 2:58 AM 
+- 🕯 [创意无限！GPU（GLSL）绘画入门](https://juejin.cn/post/7123419366263095309) | Sat Jul 23 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
-    写在前面 你可能会奇怪，为什么要前端来实现 CRUD 操作，这不是后端的活吗，咱们前端只需要接口一顿调就行了。 
+    已经很久没有发文了，距离上次写文章已经过去了4个月之久。感觉自己每天都在焦虑中度过，明明想要的很多，但是每天却又什么都没有做似的。这种状态时自己十分讨厌的，从现在开始我决心要改变这种状态 
     </details> 
 
-- 🚀 [FE News 周刊 #04 终于是周五更新了](https://juejin.cn/post/7123396815651045384) | Sat Jul 23 2022 2:58 AM 
+- 🚀 [React-全局状态管理的群魔乱舞](https://juejin.cn/post/7123419224113938440) | Sat Jul 23 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
-    嗨，朋友们，这里是 FE News 周刊的第 5 期。📮 微信/邮件订阅：rottenpen.zhubai.love/ 
+    焦虑的时候，大脑需要一种叫做**多巴胺**的神经递质来对抗焦虑。而打游戏、刷微博等娱乐，则是让大脑产生多巴胺最快的途径 
     </details> 
 
-- 💪 [朴素贝叶斯分类与语言分类实例](https://juejin.cn/post/7123389286249922596) | Sat Jul 23 2022 2:29 AM 
+- 💪 [一个会海水淡化技术的程序员2022半年总结](https://juejin.cn/post/7123418031224520711) | Sat Jul 23 2022 4:20 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路 贝叶斯 朴素贝叶斯的一般过程 &lpar;1&rpar; 收集数据：可以使用任何方法。本章使用RSS源。 &lpar;2&rpar; 准备数据：需要数值型或者布尔型数据。 &lpar;3&rpar; 分析数据 
+    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」一个会海水淡化和海洋环境保护的程序员2022年中总结 
     </details> 
 <!-- juejin:END -->
 ### 少数派
