@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vue-Router 源码快览（for Vue3）](https://juejin.cn/post/7123431126672080926) | Sat Jul 23 2022 5:11 AM 
+- 🤗 [如何在游戏中实现文字逐个出现的打字机效果](https://juejin.cn/post/7123448962337472542) | Sat Jul 23 2022 6:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    今天分享一下如何在微信小游戏制作工具中实现文字逐个出现的打字机效果，这个小功能可以用于游戏中的文字对白的展示，如果你要做的是一个文字类游戏的话，那么肯定用的上。 
+    </details> 
+
+- 🎡 [setTimeout 和 setInterval，你们两位同学注意点时间~](https://juejin.cn/post/7123440584156512293) | Sat Jul 23 2022 5:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、基本定义与用法 1、定义 setTimeout&lpar;&rpar;方法用于在指定的时间（单位毫秒）后执行回调函数或指定的一段代码 setInterval&lpar;&rpar;方法可按照指定的时间间隔（单位毫秒）来调用回调函数或指定 
+    </details> 
+
+- 🕯 [BFC是什么？怎么利用BFC解决问题？](https://juejin.cn/post/7123439839956959269) | Sat Jul 23 2022 5:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    BFC是什么？ BFC定义 BFC（Block Formatting Context），块级格式化上下文，是一个独立的渲染区域，让处于BFC内部的元素与外部的元素互相隔离，使内外元素的定位不会互相影响 
+    </details> 
+
+- 🚀 [学会 React 中的调和归并，能行吗？](https://juejin.cn/post/7123435071159140359) | Sat Jul 23 2022 5:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    这一次一定带你学会 React Reconcile 中的 调和归并！！掌握 React Render 阶段核心工作 
+    </details> 
+
+- 💪 [Vue-Router 源码快览（for Vue3）](https://juejin.cn/post/7123431126672080926) | Sat Jul 23 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是 chosan 。相信很多朋友和我一样，虽然知道几种路由模式的实现方式，但是如果不看看框架里面的代码，捋一捋它的基本逻辑，心里就总觉得没底。来！带您快速熟悉一下最新的VueRouter源码 
-    </details> 
-
-- 🎡 [宝藏网站！机器学习概念可视化；LeetCode面试必看清单；104个Python数据科学实战项目；必应超清壁纸；前沿论文  | ShowMeAI资讯日报](https://juejin.cn/post/7123430273957511198) | Sat Jul 23 2022 5:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 07-23 期，LeetCode技术面试准备清单、CnosDB开源分布式时序数据库、必应每日超清壁纸、机器学习概念可视化、 104个Python数据科学实战项目、前沿论文… 
-    </details> 
-
-- 🕯 [创意无限！GPU（GLSL）绘画入门](https://juejin.cn/post/7123419366263095309) | Sat Jul 23 2022 4:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    已经很久没有发文了，距离上次写文章已经过去了4个月之久。感觉自己每天都在焦虑中度过，明明想要的很多，但是每天却又什么都没有做似的。这种状态时自己十分讨厌的，从现在开始我决心要改变这种状态 
-    </details> 
-
-- 🚀 [React-全局状态管理的群魔乱舞](https://juejin.cn/post/7123419224113938440) | Sat Jul 23 2022 4:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    焦虑的时候，大脑需要一种叫做**多巴胺**的神经递质来对抗焦虑。而打游戏、刷微博等娱乐，则是让大脑产生多巴胺最快的途径 
-    </details> 
-
-- 💪 [一个会海水淡化技术的程序员2022半年总结](https://juejin.cn/post/7123418031224520711) | Sat Jul 23 2022 4:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」一个会海水淡化和海洋环境保护的程序员2022年中总结 
     </details> 
 <!-- juejin:END -->
 ### 少数派
