@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9750952) | Fri Jul 22 2022 12:27 AM
-- 🐻 [《功夫》里为什么火云邪神听到周星驰说「想学呀，我教你」就认输了？](http://daily.zhihu.com/story/9750950) | Fri Jul 22 2022 12:27 AM
-- 🌏 [影视剧里人被打晕的时候为啥身体要先挺一下？](http://daily.zhihu.com/story/9750935) | Fri Jul 22 2022 12:27 AM
-- 🕴 [什么样的人适合学法学？](http://daily.zhihu.com/story/9750945) | Fri Jul 22 2022 12:27 AM
-- 🌮 [西游记团队中需要裁掉一个人，你会裁掉谁？](http://daily.zhihu.com/story/9750917) | Fri Jul 22 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [怎么判断家里两只猫的地位高低？](http://daily.zhihu.com/story/9750980) | Sat Jul 23 2022 12:27 AM
+- 🐻 [第 40 届香港电影金像奖颁奖， 85 岁谢贤成最年长影帝，如何评价他的成就？](http://daily.zhihu.com/story/9750979) | Sat Jul 23 2022 12:27 AM
+- 🌏 [炖肉、煮汤的时候，用大火还是小火？对于食物的口感口味会产生怎样的影响？](http://daily.zhihu.com/story/9750978) | Sat Jul 23 2022 12:27 AM
+- 🕴 [五彩斑斓的恐龙，这些颜色是科学家想象出来的吗?](http://daily.zhihu.com/story/9750972) | Sat Jul 23 2022 12:27 AM
+- 🌮 [NASA 确定火星有液态水，你认为火星有生命吗？](http://daily.zhihu.com/story/9750970) | Sat Jul 23 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
