@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅尝浏览器桌面通知 Notification](https://juejin.cn/post/7123385065513418760) | Sat Jul 23 2022 2:12 AM 
+- 🤗 [Docker Compose 搭建简单的Python网络应用程序](https://juejin.cn/post/7123412299527749645) | Sat Jul 23 2022 3:58 AM 
     <details><summary>展开描述 ...</summary> 
-    参考： https://developer.mozilla.org/zh-CN/docs/Web/API/notification https://developer.mozilla.org/en-U 
+    在这个页面上，你可以建立一个简单的Python网络应用程序，运行在Docker Compose上。该应用使用Flask框架，并在Redis中维护一个点击计数器。虽然样本使用了Python，但即使你不熟 
     </details> 
 
-- 🎡 [2022，VSCode 前端插件推荐](https://juejin.cn/post/7123367320109449230) | Sat Jul 23 2022 1:06 AM 
+- 🎡 [在Flutter中集成Unity踩坑](https://juejin.cn/post/7123407798322331662) | Sat Jul 23 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    开发综合推荐 别名路径跳转 配置说明 下载后只需自定义配置一些自己常用的别名路径即可 右击插件--》扩展设置--》路径映射在settinas.json中编辑 效果展示 路径别名智能提示 插件名：pat 
+    先反思一下你们为什么要用flutter去集成unity？可不可以不用fluter去集成？如果可以的话，先放弃，用原生去集成吧，本文也不用看了，因为fluter集成实在太坑了，太降低效率了！步步 
     </details> 
 
-- 🕯 [基于微服务架构的视频上传项目（一）](https://juejin.cn/post/7123350338395963428) | Fri Jul 22 2022 11:59 PM 
+- 🕯 [前端实战|不依赖后端，如何实现本地的CRUD操作](https://juejin.cn/post/7123396735509987358) | Sat Jul 23 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    start from 2021年12月23日11:53:20 to 1.项目介绍 P2-19:42，项目整体开发流程。P2-1:20:05，后台管理系统admin-dist/前台管理系统api-dis 
+    写在前面 你可能会奇怪，为什么要前端来实现 CRUD 操作，这不是后端的活吗，咱们前端只需要接口一顿调就行了。 
     </details> 
 
-- 🚀 [Spring常见面试题总结](https://juejin.cn/post/7123247092419526687) | Fri Jul 22 2022 5:23 PM 
+- 🚀 [FE News 周刊 #04 终于是周五更新了](https://juejin.cn/post/7123396815651045384) | Sat Jul 23 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇文章主要是想通过一些问题，加深大家对于 Spring 的理解，所以不会涉及太多的代码！ 下面的很多问题我自己在使用 Spring 的过程中也并没有注意，自己也是临时查阅了很多资料和书籍补上的。网上 
+    嗨，朋友们，这里是 FE News 周刊的第 5 期。📮 微信/邮件订阅：rottenpen.zhubai.love/ 
     </details> 
 
-- 💪 [spring-context-indexer导致的坑](https://juejin.cn/post/7123224887837065230) | Fri Jul 22 2022 3:51 PM 
+- 💪 [朴素贝叶斯分类与语言分类实例](https://juejin.cn/post/7123389286249922596) | Sat Jul 23 2022 2:29 AM 
     <details><summary>展开描述 ...</summary> 
-    故事背景 前段在与公司的另一个团队对接一些功能，自然而然的需要使用别人提供的一些SDK，故事就这样发生了，在我引入对方的sdk后，写了一天的代码，然后发现项目无法正常启动了 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路 贝叶斯 朴素贝叶斯的一般过程 &lpar;1&rpar; 收集数据：可以使用任何方法。本章使用RSS源。 &lpar;2&rpar; 准备数据：需要数值型或者布尔型数据。 &lpar;3&rpar; 分析数据 
     </details> 
 <!-- juejin:END -->
 ### 少数派
