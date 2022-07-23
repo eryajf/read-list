@@ -203,10 +203,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [Windows 11 麦克风声音很小](https://www.v2ex.com/t/868243#reply0) | Sat Jul 23 2022 12:28 PM
-- 🤗 [求助各位用 Windows 笔记本的程序员](https://www.v2ex.com/t/868242#reply3) | Sat Jul 23 2022 12:18 PM
-- 🎭 [React 和 Vue 应该怎么选？](https://www.v2ex.com/t/868228#reply18) | Sat Jul 23 2022 10:03 AM
-- 🥷 [悲剧了， google voice 号被收回了，哪位大哥帮忙验证一下](https://www.v2ex.com/t/868227#reply5) | Sat Jul 23 2022 9:58 AM
-- 🐵 [请教下各位 v 站的大佬，前端有什么发展方向？](https://www.v2ex.com/t/868223#reply2) | Sat Jul 23 2022 9:51 AM<!-- v2ex:END -->
+- 🤗 [求助各位用 Windows 笔记本的程序员](https://www.v2ex.com/t/868242#reply26) | Sat Jul 23 2022 12:18 PM
+- 🎭 [React 和 Vue 应该怎么选？](https://www.v2ex.com/t/868228#reply23) | Sat Jul 23 2022 10:03 AM
+- 🥷 [悲剧了， google voice 号被收回了，哪位大哥帮忙验证一下](https://www.v2ex.com/t/868227#reply6) | Sat Jul 23 2022 9:58 AM
+- 🐵 [请教下各位 v 站的大佬，前端有什么发展方向？](https://www.v2ex.com/t/868223#reply3) | Sat Jul 23 2022 9:51 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
