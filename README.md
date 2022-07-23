@@ -202,10 +202,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何给代理加一层 socks5 代理方式](https://www.v2ex.com/t/868192#reply0) | Sat Jul 23 2022 6:14 AM
+- 🥸 [如何给代理加一层 socks5 代理方式](https://www.v2ex.com/t/868192#reply2) | Sat Jul 23 2022 6:14 AM
 - 🤗 [ubuntu 安装后 EFI 分区不对齐 4k](https://www.v2ex.com/t/868187#reply1) | Sat Jul 23 2022 5:28 AM
-- 🎭 [Java 后台开发，大家用 @Autowired 多么](https://www.v2ex.com/t/868182#reply11) | Sat Jul 23 2022 4:46 AM
-- 🥷 [如何下载 pcie 规范的 pdf？](https://www.v2ex.com/t/868181#reply2) | Sat Jul 23 2022 4:43 AM
+- 🎭 [Java 后台开发，大家用 @Autowired 多么](https://www.v2ex.com/t/868182#reply19) | Sat Jul 23 2022 4:46 AM
+- 🥷 [如何下载 pcie 规范的 pdf？](https://www.v2ex.com/t/868181#reply4) | Sat Jul 23 2022 4:43 AM
 - 🐵 [Chrome 有办法调用微软 edge 类似的朗读系统吗？](https://www.v2ex.com/t/868180#reply2) | Sat Jul 23 2022 4:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
