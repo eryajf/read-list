@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [怎么判断家里两只猫的地位高低？](http://daily.zhihu.com/story/9750980) | Sat Jul 23 2022 12:27 AM
-- 🐻 [第 40 届香港电影金像奖颁奖， 85 岁谢贤成最年长影帝，如何评价他的成就？](http://daily.zhihu.com/story/9750979) | Sat Jul 23 2022 12:27 AM
-- 🌏 [炖肉、煮汤的时候，用大火还是小火？对于食物的口感口味会产生怎样的影响？](http://daily.zhihu.com/story/9750978) | Sat Jul 23 2022 12:27 AM
-- 🕴 [五彩斑斓的恐龙，这些颜色是科学家想象出来的吗?](http://daily.zhihu.com/story/9750972) | Sat Jul 23 2022 12:27 AM
-- 🌮 [NASA 确定火星有液态水，你认为火星有生命吗？](http://daily.zhihu.com/story/9750970) | Sat Jul 23 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [大误 · 如果我能让任何人患上口腔溃疡](http://daily.zhihu.com/story/9751010) | Sun Jul 24 2022 12:27 AM
+- 🐻 [这个世界上有什么动物长得像 P 出来的?](http://daily.zhihu.com/story/9750995) | Sun Jul 24 2022 12:27 AM
+- 🌏 [把还不会说话的婴儿聚到一起，不教他们说话，会产生新的语言吗？](http://daily.zhihu.com/story/9750991) | Sun Jul 24 2022 12:27 AM
+- 🕴 [是所有饮料都冰了更好喝么？「冰」为什么能带来口感提升？](http://daily.zhihu.com/story/9750994) | Sun Jul 24 2022 12:27 AM
+- 🌮 [蜂蜜究竟有没有特殊营养价值？](http://daily.zhihu.com/story/9750989) | Sun Jul 24 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
