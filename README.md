@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [大众CEO迪斯将离职 分析师称换帅是为加速追赶特斯拉](http://www.techweb.com.cn/it/2022-07-24/2899147.shtml) | Sun Jul 24 2022 3:00 AM
-- 👹 [天合光能：预计2022年上半年净利润同比增长61.69%-97.62%](http://www.techweb.com.cn/it/2022-07-24/2899145.shtml) | Sun Jul 24 2022 2:00 AM
-- 🪜 [美的集团：申请统一注册多品种债务融资工具](http://www.techweb.com.cn/it/2022-07-24/2899144.shtml) | Sun Jul 24 2022 1:51 AM
-- 🤭 [腾讯QQ《超级萌宠新版》游戏宣布将停止运营](http://www.techweb.com.cn/it/2022-07-24/2899143.shtml) | Sun Jul 24 2022 1:46 AM
-- 🙉 [电商网站易趣网宣布将于8月12日关闭](http://www.techweb.com.cn/it/2022-07-24/2899142.shtml) | Sun Jul 24 2022 1:35 AM<!-- techweb-allnews:END -->
+- 👍 [Arm CEO：计划在云计算、网络、汽车和物联网等行业加倍投入](http://www.techweb.com.cn/it/2022-07-24/2899150.shtml) | Sun Jul 24 2022 3:47 AM
+- 👹 [华为轮值董事长胡厚昆：国内数字化人才缺口超过1100万](http://www.techweb.com.cn/it/2022-07-24/2899148.shtml) | Sun Jul 24 2022 3:14 AM
+- 🪜 [大众CEO迪斯将离职 分析师称换帅是为加速追赶特斯拉](http://www.techweb.com.cn/it/2022-07-24/2899147.shtml) | Sun Jul 24 2022 3:00 AM
+- 🤭 [天合光能：预计2022年上半年净利润同比增长61.69%-97.62%](http://www.techweb.com.cn/it/2022-07-24/2899145.shtml) | Sun Jul 24 2022 2:00 AM
+- 🙉 [美的集团：申请统一注册多品种债务融资工具](http://www.techweb.com.cn/it/2022-07-24/2899144.shtml) | Sun Jul 24 2022 1:51 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
