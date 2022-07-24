@@ -206,7 +206,7 @@
 - 🤗 [2022 押宝 c#还是 Java](https://www.v2ex.com/t/868434#reply2) | Sun Jul 24 2022 4:50 PM
 - 🎭 [黑群晖 DSM7.1 安装、半洗白到 HTTPS 证书](https://www.v2ex.com/t/868425#reply1) | Sun Jul 24 2022 3:09 PM
 - 🥷 [2022 年了, 还在用 yarn 吗?](https://www.v2ex.com/t/868418#reply6) | Sun Jul 24 2022 2:39 PM
-- 🐵 [问下大佬们关于域名的配置问题](https://www.v2ex.com/t/868417#reply5) | Sun Jul 24 2022 2:35 PM<!-- v2ex:END -->
+- 🐵 [问下大佬们关于域名的配置问题](https://www.v2ex.com/t/868417#reply6) | Sun Jul 24 2022 2:35 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
