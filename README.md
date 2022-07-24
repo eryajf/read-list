@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Linux 下的 firefox 越做越烂了？无法开启 Wayland hidpi](https://www.v2ex.com/t/868364#reply0) | Sun Jul 24 2022 7:48 AM
-- 🤗 [港版三星手机里面的 Samsung Pay 可以在澳门用吗？](https://www.v2ex.com/t/868357#reply0) | Sun Jul 24 2022 7:24 AM
-- 🎭 [学习 React+TypeScript 应该怎么上手？](https://www.v2ex.com/t/868346#reply7) | Sun Jul 24 2022 5:50 AM
-- 🥷 [这个正则要怎么写呢？一个不标准的 json 字符串，想要手动给他修改正确](https://www.v2ex.com/t/868341#reply2) | Sun Jul 24 2022 4:49 AM
-- 🐵 [bilibili lua BUG 本地未复现](https://www.v2ex.com/t/868332#reply5) | Sun Jul 24 2022 4:00 AM<!-- v2ex:END -->
+- 🥸 [凉心云又一大坑， COS CDN 回源流量无故暴增至 5 倍](https://www.v2ex.com/t/868380#reply0) | Sun Jul 24 2022 9:12 AM
+- 🤗 [Linux 下的 firefox 越做越烂了？无法开启 Wayland hidpi](https://www.v2ex.com/t/868364#reply1) | Sun Jul 24 2022 7:48 AM
+- 🎭 [港版三星手机里面的 Samsung Pay 可以在澳门用吗？](https://www.v2ex.com/t/868357#reply0) | Sun Jul 24 2022 7:24 AM
+- 🥷 [学习 React+TypeScript 应该怎么上手？](https://www.v2ex.com/t/868346#reply7) | Sun Jul 24 2022 5:50 AM
+- 🐵 [这个正则要怎么写呢？一个不标准的 json 字符串，想要手动给他修改正确](https://www.v2ex.com/t/868341#reply6) | Sun Jul 24 2022 4:49 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
