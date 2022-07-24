@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [「跨端技术进阶」 webview 和 React Native 中吸顶效果实现](https://juejin.cn/post/7123890470425460743) | Sun Jul 24 2022 10:55 AM 
+- 🤗 [Vue3源码实现（一）-  环境搭建](https://juejin.cn/post/7123886199311499271) | Sun Jul 24 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-    在跨端开发中，离不开一些吸顶的交互场景，可以参考淘宝或是京东类电商 app 中一些 tab ，在整个容器滑动的过程中，吸顶效果非常的连贯和丝滑的，当然这些 tab 可能是用 native 开发的，但是 
+    前言 最近在看 Vue3 源码，为了加深理解和串联起来整体的逻辑，下面我们也构建一个自己的 mini-vue ，麻雀虽小，五脏俱全。本文先把环境搭起来。 
     </details> 
 
-- 🎡 [LowCode 窥探](https://juejin.cn/post/7123870699021991943) | Sun Jul 24 2022 9:39 AM 
+- 🎡 [力扣之最长公共前缀](https://juejin.cn/post/7123879841606139918) | Sun Jul 24 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 本文是笔者在团队内部做分享整理的资料的一部分，本次分享主要是站在一个服务端开发的视角对（前端）低代码平台的一些调研，已经剔除了一些敏感数据和信息，可放心食用。 太阳底下无新事 Dreamweav 
+    问题描述 编写一个函数来查找字符串数组中的最长公共前缀。 如果不存在公共前缀，返回空字符串 &quot;&quot;。 示例 1： 示例 2： 解决方案 思路分析 对于这样的题目，首先要排除特殊情况，比如数组中只有一项， 
     </details> 
 
-- 🕯 [Google Colab  在线机器学习平台使用教程](https://juejin.cn/post/7123865731942334478) | Sun Jul 24 2022 9:18 AM 
+- 🕯 [vue利用sync语法糖实现modal弹框](https://juejin.cn/post/7123874675557400607) | Sun Jul 24 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-    一、简介 Google Colab 是一个免费的 Jupyter 环境，用户可以用它创建 Jupyter notebook，在浏览器中编写和执行 Python 代码，以及其他基于 Python 的第三 
+    用过vue的开发者都知道vue是组件化开发的一个框架，基于组件化的原则，很多时候我们开发的时候都会把像modal、drawer这种弹框，抽屉类的组件作为一个单独的组件分出去，然后在在用到的页面引入进来 
     </details> 
 
-- 🚀 [nvm-windows —— 克服node版本管理难题](https://juejin.cn/post/7123860725755281421) | Sun Jul 24 2022 8:59 AM 
+- 🚀 [【万字长文】🍉大型 ToB 项目的前端自动化测试实践](https://juejin.cn/post/7123869512327233550) | Sun Jul 24 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-    参考： https://github.com/sass/node-sass/releases https://github.com/nvm-sh/nvm https://github.com/core 
+    测试是工程化的研发体系中不可或缺的一环。本文将从单元测试和e2e测试出发，谈谈笔者所在团队最近所做的大型 ToB 项目的前端自动化测试实践。 
     </details> 
 
-- 💪 [支付设计白皮书：浅谈国际支付](https://juejin.cn/post/7123833615930097672) | Sun Jul 24 2022 7:13 AM 
+- 💪 [什么是编译JDK以及为什么编译JDK](https://juejin.cn/post/7123868797231955982) | Sun Jul 24 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-    支付系统的相关系统给大家已经写了几篇了，如果喜欢的话，可以给六六一个赞哦，下面是之前写的 支付设计白皮书：支付系统的概念与中国互联网支付清算体系 支付设计白皮书：支付系统的总架构 支付设计白皮书：支付 
+    JDK&lpar;Java Development Kit &rpar;中文名是Java开发工具包。 JDK有两种：一种是JDK成品包，一种是JDK源码包。 JDK成品包： 我们在oracle官网下载的JDK一般都是JD 
     </details> 
 <!-- juejin:END -->
 ### 少数派
