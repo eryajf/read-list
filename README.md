@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [沃尔沃CEO：已度过芯片短缺最严重时期](http://www.techweb.com.cn/it/2022-07-23/2899135.shtml) | Sat Jul 23 2022 9:37 AM
-- 👹 [TikTok分流数字广告营收 伤了多家美国社交平台](http://www.techweb.com.cn/internet/2022-07-23/2899134.shtml) | Sat Jul 23 2022 9:04 AM
-- 🪜 [爆料称iPhone14无缘3nm工艺 全新A16处理器依然采用4nm工艺](http://www.techweb.com.cn/phone/2022-07-23/2899133.shtml) | Sat Jul 23 2022 6:32 AM
-- 🤭 [爆料称华为畅享50 Pro将于7月27日国内发布 采用6.7英寸居中挖孔直屏](http://www.techweb.com.cn/phone/2022-07-23/2899132.shtml) | Sat Jul 23 2022 6:23 AM
-- 🙉 [iPhone 14系列发布在即 苹果倒逼用户买更贵机型](http://www.techweb.com.cn/phone/2022-07-23/2899131.shtml) | Sat Jul 23 2022 6:18 AM<!-- techweb-allnews:END -->
+- 👍 [大众CEO迪斯将离职 分析师称换帅是为加速追赶特斯拉](http://www.techweb.com.cn/it/2022-07-24/2899147.shtml) | Sun Jul 24 2022 3:00 AM
+- 👹 [天合光能：预计2022年上半年净利润同比增长61.69%-97.62%](http://www.techweb.com.cn/it/2022-07-24/2899145.shtml) | Sun Jul 24 2022 2:00 AM
+- 🪜 [美的集团：申请统一注册多品种债务融资工具](http://www.techweb.com.cn/it/2022-07-24/2899144.shtml) | Sun Jul 24 2022 1:51 AM
+- 🤭 [腾讯QQ《超级萌宠新版》游戏宣布将停止运营](http://www.techweb.com.cn/it/2022-07-24/2899143.shtml) | Sun Jul 24 2022 1:46 AM
+- 🙉 [电商网站易趣网宣布将于8月12日关闭](http://www.techweb.com.cn/it/2022-07-24/2899142.shtml) | Sun Jul 24 2022 1:35 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
