@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [2022 押宝 c#还是 Java](https://www.v2ex.com/t/868434#reply1) | Sun Jul 24 2022 4:50 PM
-- 🤗 [黑群晖 DSM7.1 安装、半洗白到 HTTPS 证书](https://www.v2ex.com/t/868425#reply1) | Sun Jul 24 2022 3:09 PM
-- 🎭 [2022 年了, 还在用 yarn 吗?](https://www.v2ex.com/t/868418#reply6) | Sun Jul 24 2022 2:39 PM
-- 🥷 [问下大佬们关于域名的配置问题](https://www.v2ex.com/t/868417#reply5) | Sun Jul 24 2022 2:35 PM
-- 🐵 [在哪能买到拖拉机 拱猪这样的单机版游戏](https://www.v2ex.com/t/868416#reply3) | Sun Jul 24 2022 2:33 PM<!-- v2ex:END -->
+- 🥸 [关于 Golang 多平台打包发布这件事..](https://www.v2ex.com/t/868435#reply0) | Sun Jul 24 2022 5:39 PM
+- 🤗 [2022 押宝 c#还是 Java](https://www.v2ex.com/t/868434#reply2) | Sun Jul 24 2022 4:50 PM
+- 🎭 [黑群晖 DSM7.1 安装、半洗白到 HTTPS 证书](https://www.v2ex.com/t/868425#reply1) | Sun Jul 24 2022 3:09 PM
+- 🥷 [2022 年了, 还在用 yarn 吗?](https://www.v2ex.com/t/868418#reply6) | Sun Jul 24 2022 2:39 PM
+- 🐵 [问下大佬们关于域名的配置问题](https://www.v2ex.com/t/868417#reply5) | Sun Jul 24 2022 2:35 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
