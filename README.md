@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [台积电3nm制程工艺有望本月量产 明年产能将平稳提升](http://www.techweb.com.cn/world/2022-07-24/2899161.shtml) | Sun Jul 24 2022 9:25 AM
-- 👹 [我国已建成全球规模最大网络基础设施 5G基站总量占全球60%以上](http://www.techweb.com.cn/it/2022-07-24/2899159.shtml) | Sun Jul 24 2022 8:18 AM
-- 🪜 [荣耀CEO赵明：单一厂商很难实现全场景产品覆盖](http://www.techweb.com.cn/it/2022-07-24/2899158.shtml) | Sun Jul 24 2022 8:03 AM
-- 🤭 [中国电信柯瑞文：云网融合进入3.0阶段 主要表现六个新特征](http://www.techweb.com.cn/it/2022-07-24/2899157.shtml) | Sun Jul 24 2022 7:24 AM
-- 🙉 [AMD锐龙7000预计9月15日上市 3D缓存版还要再等等](http://www.techweb.com.cn/it/2022-07-24/2899156.shtml) | Sun Jul 24 2022 7:19 AM<!-- techweb-allnews:END -->
+- 👍 [苹果在持续扩大iPhone 14供应链 以避免零部件短缺](http://www.techweb.com.cn/world/2022-07-24/2899164.shtml) | Sun Jul 24 2022 10:22 AM
+- 👹 [台积电3nm制程工艺有望本月量产 明年产能将平稳提升](http://www.techweb.com.cn/world/2022-07-24/2899161.shtml) | Sun Jul 24 2022 9:25 AM
+- 🪜 [我国已建成全球规模最大网络基础设施 5G基站总量占全球60%以上](http://www.techweb.com.cn/it/2022-07-24/2899159.shtml) | Sun Jul 24 2022 8:18 AM
+- 🤭 [荣耀CEO赵明：单一厂商很难实现全场景产品覆盖](http://www.techweb.com.cn/it/2022-07-24/2899158.shtml) | Sun Jul 24 2022 8:03 AM
+- 🙉 [中国电信柯瑞文：云网融合进入3.0阶段 主要表现六个新特征](http://www.techweb.com.cn/it/2022-07-24/2899157.shtml) | Sun Jul 24 2022 7:24 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
