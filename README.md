@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [怎样阻止 Microsoft Edge 弹出隐私提示啊](https://www.v2ex.com/t/868407#reply1) | Sun Jul 24 2022 1:01 PM
+- 🥸 [怎样阻止 Microsoft Edge 弹出隐私提示啊](https://www.v2ex.com/t/868407#reply2) | Sun Jul 24 2022 1:01 PM
 - 🤗 [🍉 周末搞点事情，迭代一下 Markdown-Blog（一款小而美的 Markdown 静态博客程序）](https://www.v2ex.com/t/868401#reply2) | Sun Jul 24 2022 11:55 AM
 - 🎭 [Bert 情感分类任务中，为什么输出前要先 x=x[:, 0, :]](https://www.v2ex.com/t/868398#reply3) | Sun Jul 24 2022 11:05 AM
-- 🥷 [如何在全程不接入显示器的状况下架设起一台服务器](https://www.v2ex.com/t/868389#reply33) | Sun Jul 24 2022 10:18 AM
-- 🐵 [C++中的数组寻址，是线性时间还是固定时间](https://www.v2ex.com/t/868384#reply9) | Sun Jul 24 2022 9:47 AM<!-- v2ex:END -->
+- 🥷 [如何在全程不接入显示器的状况下架设起一台服务器](https://www.v2ex.com/t/868389#reply34) | Sun Jul 24 2022 10:18 AM
+- 🐵 [C++中的数组寻址，是线性时间还是固定时间](https://www.v2ex.com/t/868384#reply13) | Sun Jul 24 2022 9:47 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
