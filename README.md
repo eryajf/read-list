@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [玩谁是卧底吗？用C语言帮你盘逻辑](https://juejin.cn/post/7123821251491004452) | Sun Jul 24 2022 6:25 AM 
+- 🤗 [支付设计白皮书：浅谈国际支付](https://juejin.cn/post/7123833615930097672) | Sun Jul 24 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-    试过用C语言来玩谁是卧底吗?咦，没试过，那就来看看这篇博客吧。即可以锻炼你逻辑推理的能力，也可以提升你使用递归的水平 
+    支付系统的相关系统给大家已经写了几篇了，如果喜欢的话，可以给六六一个赞哦，下面是之前写的 支付设计白皮书：支付系统的概念与中国互联网支付清算体系 支付设计白皮书：支付系统的总架构 支付设计白皮书：支付 
     </details> 
 
-- 🎡 [面向对象编程的三大特征](https://juejin.cn/post/7123799161505316894) | Sun Jul 24 2022 5:01 AM 
+- 🎡 [基于RBAC的页面权限控制及按钮权限控制](https://juejin.cn/post/7123804739178856461) | Sun Jul 24 2022 5:22 AM 
     <details><summary>展开描述 ...</summary> 
-    封装、继承和多态的基本概念、好处和使用细节等的介绍；子类对象继承父类后的实例化过程；动态绑定与静态绑定；重载与重写；编译类型与运行类型等。 
+    本文介绍了基于RBAC的页面权限控制及按钮权限控制以及其代码实现流程，主要使用到了router.addRoutes&lpar;&rpar;方法、全局前置守卫、vuex、自定义指令。 
     </details> 
 
-- 🕯 [基于ABP实现DDD--实体创建和更新](https://juejin.cn/post/7123797066786013197) | Sun Jul 24 2022 4:51 AM 
+- 🕯 [【精简版】前端面试知识点（JavaScript/TypeScript）](https://juejin.cn/post/7123800886660464648) | Sun Jul 24 2022 5:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 【精简版】前端面试知识点（JavaScript/TypeScript），精简前端各个模块的知识点，方便熟记 JavaScript JavaScript基础 new操作符的实现原理 执行过程： 首 
+    </details> 
+
+- 🚀 [React组件基础，保证最基本的使用，还有一个小demo助力大家学懂](https://juejin.cn/post/7123799040974094366) | Sun Jul 24 2022 5:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    下面我主要从这几个方面来介绍 React 组件介绍 React 组件的两种创建方式 事件绑定 组件的状态 事件绑定 this 指向 表单处理 React 组件介绍 目标 了解 React 组件的意义  
+    </details> 
+
+- 💪 [基于ABP实现DDD--实体创建和更新](https://juejin.cn/post/7123797066786013197) | Sun Jul 24 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
       本文主要介绍了通过构造函数和领域服务创建实体2种方式，后者多用于在创建实体时需要其它业务规则检测 
-    </details> 
-
-- 🚀 [公司产品太多了，怎么实现一次登录产品互通？](https://juejin.cn/post/7123787027652280356) | Sun Jul 24 2022 4:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是老王，最近开发新产品，然后老板说我们现在系统太多了，每次切换系统登录太麻烦了，能不能做个优化，同一账号互通掉。作为一个资深架构狮，老板的要求肯定要满足，安排！ 一个公司产品矩阵比较丰富的时 
-    </details> 
-
-- 💪 [多集群场景下，集群、租户、项目的一种管理方式](https://juejin.cn/post/7123784386134147079) | Sun Jul 24 2022 4:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文记录在多集群场景中集群、租户、项目的一种管理方式。 视图 在系统中定义两种视图类型—— Tenantview 和 Namespaceview，分别用于记录租户和项目的信息，只在控制集群上创建视图。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
