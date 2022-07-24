@@ -221,19 +221,19 @@
     一、简介 Google Colab 是一个免费的 Jupyter 环境，用户可以用它创建 Jupyter notebook，在浏览器中编写和执行 Python 代码，以及其他基于 Python 的第三 
     </details> 
 
-- 🕯 [支付设计白皮书：浅谈国际支付](https://juejin.cn/post/7123833615930097672) | Sun Jul 24 2022 7:13 AM 
+- 🕯 [nvm-windows —— 克服node版本管理难题](https://juejin.cn/post/7123860725755281421) | Sun Jul 24 2022 8:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    参考： https://github.com/sass/node-sass/releases https://github.com/nvm-sh/nvm https://github.com/core 
+    </details> 
+
+- 🚀 [支付设计白皮书：浅谈国际支付](https://juejin.cn/post/7123833615930097672) | Sun Jul 24 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
     支付系统的相关系统给大家已经写了几篇了，如果喜欢的话，可以给六六一个赞哦，下面是之前写的 支付设计白皮书：支付系统的概念与中国互联网支付清算体系 支付设计白皮书：支付系统的总架构 支付设计白皮书：支付 
     </details> 
 
-- 🚀 [基于RBAC的页面权限控制及按钮权限控制](https://juejin.cn/post/7123804739178856461) | Sun Jul 24 2022 5:22 AM 
+- 💪 [基于RBAC的页面权限控制及按钮权限控制](https://juejin.cn/post/7123804739178856461) | Sun Jul 24 2022 5:22 AM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了基于RBAC的页面权限控制及按钮权限控制以及其代码实现流程，主要使用到了router.addRoutes&lpar;&rpar;方法、全局前置守卫、vuex、自定义指令。 
-    </details> 
-
-- 💪 [【精简版】前端面试知识点（JavaScript/TypeScript）](https://juejin.cn/post/7123800886660464648) | Sun Jul 24 2022 5:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 【精简版】前端面试知识点（JavaScript/TypeScript），精简前端各个模块的知识点，方便熟记 JavaScript JavaScript基础 new操作符的实现原理 执行过程： 首 
     </details> 
 <!-- juejin:END -->
 ### 少数派
