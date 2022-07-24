@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [中国电信柯瑞文：云网融合进入3.0阶段 主要表现六个新特征](http://www.techweb.com.cn/it/2022-07-24/2899157.shtml) | Sun Jul 24 2022 7:24 AM
-- 👹 [AMD锐龙7000预计9月15日上市 3D缓存版还要再等等](http://www.techweb.com.cn/it/2022-07-24/2899156.shtml) | Sun Jul 24 2022 7:19 AM
-- 🪜 [工信安全中心牵头搭建数据流通平台 蚂蚁集团等厂商提供技术支持](http://www.techweb.com.cn/it/2022-07-24/2899155.shtml) | Sun Jul 24 2022 7:05 AM
-- 🤭 [特斯拉将采用一级方程式维修站技术 以减少等待时间](http://www.techweb.com.cn/it/2022-07-24/2899153.shtml) | Sun Jul 24 2022 6:58 AM
-- 🙉 [马斯克又和推特打嘴炮：我是橡皮 推特是胶](http://www.techweb.com.cn/it/2022-07-24/2899151.shtml) | Sun Jul 24 2022 4:07 AM<!-- techweb-allnews:END -->
+- 👍 [我国已建成全球规模最大网络基础设施 5G基站总量占全球60%以上](http://www.techweb.com.cn/it/2022-07-24/2899159.shtml) | Sun Jul 24 2022 8:18 AM
+- 👹 [荣耀CEO赵明：单一厂商很难实现全场景产品覆盖](http://www.techweb.com.cn/it/2022-07-24/2899158.shtml) | Sun Jul 24 2022 8:03 AM
+- 🪜 [中国电信柯瑞文：云网融合进入3.0阶段 主要表现六个新特征](http://www.techweb.com.cn/it/2022-07-24/2899157.shtml) | Sun Jul 24 2022 7:24 AM
+- 🤭 [AMD锐龙7000预计9月15日上市 3D缓存版还要再等等](http://www.techweb.com.cn/it/2022-07-24/2899156.shtml) | Sun Jul 24 2022 7:19 AM
+- 🙉 [工信安全中心牵头搭建数据流通平台 蚂蚁集团等厂商提供技术支持](http://www.techweb.com.cn/it/2022-07-24/2899155.shtml) | Sun Jul 24 2022 7:05 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
