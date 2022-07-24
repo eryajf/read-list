@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [Arm CEO：计划在云计算、网络、汽车和物联网等行业加倍投入](http://www.techweb.com.cn/it/2022-07-24/2899150.shtml) | Sun Jul 24 2022 3:47 AM
-- 👹 [华为轮值董事长胡厚昆：国内数字化人才缺口超过1100万](http://www.techweb.com.cn/it/2022-07-24/2899148.shtml) | Sun Jul 24 2022 3:14 AM
-- 🪜 [大众CEO迪斯将离职 分析师称换帅是为加速追赶特斯拉](http://www.techweb.com.cn/it/2022-07-24/2899147.shtml) | Sun Jul 24 2022 3:00 AM
-- 🤭 [天合光能：预计2022年上半年净利润同比增长61.69%-97.62%](http://www.techweb.com.cn/it/2022-07-24/2899145.shtml) | Sun Jul 24 2022 2:00 AM
-- 🙉 [美的集团：申请统一注册多品种债务融资工具](http://www.techweb.com.cn/it/2022-07-24/2899144.shtml) | Sun Jul 24 2022 1:51 AM<!-- techweb-allnews:END -->
+- 👍 [中国电信柯瑞文：云网融合进入3.0阶段 主要表现六个新特征](http://www.techweb.com.cn/it/2022-07-24/2899157.shtml) | Sun Jul 24 2022 7:24 AM
+- 👹 [AMD锐龙7000预计9月15日上市 3D缓存版还要再等等](http://www.techweb.com.cn/it/2022-07-24/2899156.shtml) | Sun Jul 24 2022 7:19 AM
+- 🪜 [工信安全中心牵头搭建数据流通平台 蚂蚁集团等厂商提供技术支持](http://www.techweb.com.cn/it/2022-07-24/2899155.shtml) | Sun Jul 24 2022 7:05 AM
+- 🤭 [特斯拉将采用一级方程式维修站技术 以减少等待时间](http://www.techweb.com.cn/it/2022-07-24/2899153.shtml) | Sun Jul 24 2022 6:58 AM
+- 🙉 [马斯克又和推特打嘴炮：我是橡皮 推特是胶](http://www.techweb.com.cn/it/2022-07-24/2899151.shtml) | Sun Jul 24 2022 4:07 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
