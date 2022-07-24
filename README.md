@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vue3源码实现（一）-  环境搭建](https://juejin.cn/post/7123886199311499271) | Sun Jul 24 2022 10:38 AM 
+- 🤗 [记录一次有趣的React项目埋点过程](https://juejin.cn/post/7123903225199067150) | Sun Jul 24 2022 11:45 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 最近在看 Vue3 源码，为了加深理解和串联起来整体的逻辑，下面我们也构建一个自己的 mini-vue ，麻雀虽小，五脏俱全。本文先把环境搭起来。 
+    通过浏览器的原生方法获当前日志列表中的记录个数，通过data-*自定义标签，在html标签中传递数据。 
     </details> 
 
-- 🎡 [力扣之最长公共前缀](https://juejin.cn/post/7123879841606139918) | Sun Jul 24 2022 10:13 AM 
+- 🎡 [一文了解let/var/function的变量提升](https://juejin.cn/post/7123899584463503367) | Sun Jul 24 2022 11:32 AM 
     <details><summary>展开描述 ...</summary> 
-    问题描述 编写一个函数来查找字符串数组中的最长公共前缀。 如果不存在公共前缀，返回空字符串 &quot;&quot;。 示例 1： 示例 2： 解决方案 思路分析 对于这样的题目，首先要排除特殊情况，比如数组中只有一项， 
+    let 到底有没有提升？如果有，var / let / function三者的变量提升一致吗？你真的知晓了吗？ 
     </details> 
 
-- 🕯 [vue利用sync语法糖实现modal弹框](https://juejin.cn/post/7123874675557400607) | Sun Jul 24 2022 9:53 AM 
+- 🕯 [一起来刻意练习TypeScript类型体操吧&lpar;一&rpar;](https://juejin.cn/post/7123896390446481445) | Sun Jul 24 2022 11:18 AM 
     <details><summary>展开描述 ...</summary> 
-    用过vue的开发者都知道vue是组件化开发的一个框架，基于组件化的原则，很多时候我们开发的时候都会把像modal、drawer这种弹框，抽屉类的组件作为一个单独的组件分出去，然后在在用到的页面引入进来 
+    本文以type-challenges中easy类题目为线索，讲解TypeScript中的类型编程，分享了把type当函数把泛型当参数的思想，做了每道题的分析。 
     </details> 
 
-- 🚀 [【万字长文】🍉大型 ToB 项目的前端自动化测试实践](https://juejin.cn/post/7123869512327233550) | Sun Jul 24 2022 9:34 AM 
+- 🚀 [一篇文章看懂JS执行上下文](https://juejin.cn/post/7123896578108047391) | Sun Jul 24 2022 11:18 AM 
     <details><summary>展开描述 ...</summary> 
-    测试是工程化的研发体系中不可或缺的一环。本文将从单元测试和e2e测试出发，谈谈笔者所在团队最近所做的大型 ToB 项目的前端自动化测试实践。 
+    壹 ❀ 引 执行上下文是一个很重要的概念，通过阅读它，你会了解为什么会存在所谓的变量提升，为什么let声明但不赋值的变量使用就报错，但var却是undefined，串起来讲，它也会加深你对于this的 
     </details> 
 
-- 💪 [什么是编译JDK以及为什么编译JDK](https://juejin.cn/post/7123868797231955982) | Sun Jul 24 2022 9:29 AM 
+- 💪 [Kafka生产者源码解析](https://juejin.cn/post/7123893311613452296) | Sun Jul 24 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-    JDK&lpar;Java Development Kit &rpar;中文名是Java开发工具包。 JDK有两种：一种是JDK成品包，一种是JDK源码包。 JDK成品包： 我们在oracle官网下载的JDK一般都是JD 
+    Kafka生产者源码 Kafka中的生产者有若干个入口，比如在命令行使用bin目录下的kafka-console-producer.sh命令，或者是调用Java API、Python API等方式。  
     </details> 
 <!-- juejin:END -->
 ### 少数派
