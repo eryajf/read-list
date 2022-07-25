@@ -211,14 +211,14 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一场为期 2 天的技术之旅，XDC 2022 圆满收官！](https://juejin.cn/post/7124189679678652430) | Mon Jul 25 2022 6:14 AM 
+- 🤗 [如何在繁重的工作中持续成长？](https://juejin.cn/post/7124180647958020104) | Mon Jul 25 2022 5:39 AM 
     <details><summary>展开描述 ...</summary> 
-    一场为期 2 天的技术之旅，XDC 2022 圆满收官！ 每一项改变世界的技术，都是从一行简单的&quot;Hello World&quot;开启，正如每一位建设数字世界的架构师/CTO 们，都是从代码初学者成长起来。  
+    在加班文化盛行的互联网文化中，很多开发者为自己的个人成长感到迷茫。这篇文章将会从我的个人经历出发，从打破成长的误区、如何高效的利用时间、以及坚持沉淀和写作三个方面介绍，如何在繁重的工作中也可以做到持续 
     </details> 
 
-- 🎡 [和团队新同学的对话](https://juejin.cn/post/7124180451039641630) | Mon Jul 25 2022 5:39 AM 
+- 🎡 [从写下Go程序第一行代码，到在 K8s 上运行，要经历多少步?](https://juejin.cn/post/7124169347303473165) | Mon Jul 25 2022 4:55 AM 
     <details><summary>展开描述 ...</summary> 
-    团队里有一个去年来实习的同学，最近毕业正式入职了。作为师兄，在正式工作一个月之后，找到他聊了聊，看看最近是不是有什么困惑。下面是挑出来的几个我觉得比较有代表性的问题。 
+    大家好，我是网管。咱们的 K8s 入门和实践，在经历了三篇理论知识的后，相信各位都已经期待许久（可能的吧），就差私信我，你整着理论整半天有啥用，本大人写的程序怎么能放到 K8s 上运行。 别急，今天这 
     </details> 
 
 - 🕯 [第 91 次 TC39 会议举行，这还是我认识的JS吗？](https://juejin.cn/post/7124164132684693518) | Mon Jul 25 2022 4:36 AM 
@@ -226,14 +226,14 @@
     大家好，我是CUGGZ。 2022 年 7 月 19 日至 21 日，由 Google 主办的 TC39 第 91 次会议在美国旧金山举行。以下 ECMAscript 提案在会议上取得了阶段性进展：  
     </details> 
 
-- 🚀 [谁动了我的内存，揭秘 OOM 崩溃下降 90% 的秘密](https://juejin.cn/post/7124155693581467679) | Mon Jul 25 2022 4:04 AM 
+- 🚀 [Causal Data Science 分享：Uber如何以最小的成本赚取最多的体验收益](https://juejin.cn/entry/7124140169074049032) | Mon Jul 25 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
-    通过这篇文章你将学习到，内存相关的知识点，以及那些因素会导致 OOM 崩溃和相对应的解决方案，Java 堆上还有很多可用的内存，为什么还会出现 OOM 
+    如果你打车的时候遇到司机晚点，平台是不是要做出补偿？平台认为一定条件下应该是做出补偿（作为羊毛党，of course&rpar;。但是补偿谁?补偿多少?这是一个问题。地主老财也需要把钱花在刀刃上 
     </details> 
 
-- 💪 [Java &amp; Go 专场 | 阿里云中间件开发者线下 Meetup 开启报名](https://juejin.cn/post/7124147032477925383) | Mon Jul 25 2022 3:29 AM 
+- 💪 [【Android】RecyclerView 缓存机制，真的很难理解？到底是几级缓存？](https://juejin.cn/post/7124134123899191333) | Mon Jul 25 2022 2:40 AM 
     <details><summary>展开描述 ...</summary> 
-    中间件开发者 Meetup 汇集了 Appactive、ChaosBlade、Nacos、OpenSergo、Seata、Sentinel、Serverless Devs、Spring Cloud A 
+    RecyclerView 的缓存机制，可谓是面试中的常客了。不仅如此，在使用过程中，如果了解这个缓存机制，那么可以更好地利用其特性做开发。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
