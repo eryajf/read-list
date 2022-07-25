@@ -239,7 +239,7 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [为了迈出写作的第一步，我做了一个有趣的应用](https://sspai.com/post/74365) | Mon Jul 25 2022 3:29 AM 
+- 👹 [为了帮你迈出写作的第一步，我做了这个有趣的应用](https://sspai.com/post/74365) | Mon Jul 25 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     作为一个每年阅读上万篇各类网络上文章的程序员，也幻想着自己可以把我的人生、经验、幻想和生活写成文章供别人阅读，但是总是面临着「写什么、怎么写、写的不好怎么办」之类的问题，让我将写作这件事一放再放。在2 ...&lt;a href=&quot;https://sspai.com/post/74365&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
