@@ -254,14 +254,14 @@
     经过我的一番研究，发现无论是 WSL 1 还是 WSL 2 都可以把它们安装到非系统盘里，如果你也有这样的困扰不妨跟着一起试试吧。&lt;a href=&quot;https://sspai.com/post/74757&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [播客 Plus | Disney 卖的是糖，HBO 卖的是酒，Netflix 卖的是毒](https://sspai.com/prime/story/PC-06) | Sat Jul 23 2022 7:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    被视为「营收密码」、引得科技巨头们纷纷下场的流媒体服务，最近似乎遇上增长瓶颈期，这到底是个别公司的经验策略出了问题，还是流媒体服务的商业模式摸到了天花板？&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/PC-06&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治](https://sspai.com/post/74761) | Sat Jul 23 2022 3:00 AM 
+- 🥸 [「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治](https://sspai.com/post/74761) | Sat Jul 23 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     入夏之后，高温天气屡见不鲜。无论环境怎样，都希望大家能够增加防护，把高温对身体的伤害降到最低。&lt;a href=&quot;https://sspai.com/post/74761&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🙉 [本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/74754) | Fri Jul 22 2022 9:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[美剧]熊家餐馆、[电影]犯罪都市2、[动画]来自深渊：烈日的黄金乡、[美剧]吸血鬼生活第四季、[电影]剑客卡南、[电影]回转企鹅罐剧场版前篇、[综艺]BiongBiong ...&lt;a href=&quot;https://sspai.com/post/74754&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
