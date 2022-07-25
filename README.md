@@ -221,19 +221,19 @@
     开源是打开未来技术世界的钥匙，为了真正实现「人人都可以参与开源」，龙蜥社区推出开发者激励活动！本次活动无差别面向广大开发者，不管你是第一次接触开源社区的萌新小白，还是驰骋各大开源社区的高手常客，龙蜥社 
     </details> 
 
-- 🕯 [200 行代码写个贪吃蛇【vue3 + canvas】](https://juejin.cn/post/7124231257076006925) | Mon Jul 25 2022 8:55 AM 
+- 🕯 [看看SwiftUI通过什么来实现的：Result Builder](https://juejin.cn/post/7124244916888141831) | Mon Jul 25 2022 9:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    上篇文章中，我们已经知道了@State 是属性包装器了，SwiftUI通过@State声明的属性来进行视图和数据的绑定。这篇文章我们来聊聊Result Builder。 
+    </details> 
+
+- 🚀 [200 行代码写个贪吃蛇【vue3 + canvas】](https://juejin.cn/post/7124231257076006925) | Mon Jul 25 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
     业务代码写烦了？让我们写点有趣的代码吧，周末花几个小时写的 贪吃蛇，vue3, canvas 技术实现... 
     </details> 
 
-- 🚀 [React组件库Concis,寻求社区有兴趣的小伙伴加入...](https://juejin.cn/post/7124227245975519269) | Mon Jul 25 2022 8:40 AM 
+- 💪 [React组件库Concis,寻求社区有兴趣的小伙伴加入...](https://juejin.cn/post/7124227245975519269) | Mon Jul 25 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
     React组件库Concis介绍，对组件库接下来的计划、未来的展望以及为什么要寻求队友做出依次介绍，感谢支持。 
-    </details> 
-
-- 💪 [基于 Flink CDC 实现海量数据的实时同步和转换](https://juejin.cn/post/7124224801933099038) | Mon Jul 25 2022 8:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介： 徐榜江在 5.21 Flink CDC Meetup 的分享。 点击查看直播回放 &amp; 演讲PDF 一、Flink CDC 技术 CDC 是 Change Data Capture 的缩写，是一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
