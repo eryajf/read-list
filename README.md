@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [基于 Flink CDC 实现海量数据的实时同步和转换](https://juejin.cn/post/7124224801933099038) | Mon Jul 25 2022 8:31 AM 
+- 🤗 [React组件库Concis,寻求社区有兴趣的小伙伴加入...](https://juejin.cn/post/7124227245975519269) | Mon Jul 25 2022 8:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    React组件库Concis介绍，对组件库接下来的计划、未来的展望以及为什么要寻求队友做出依次介绍，感谢支持。 
+    </details> 
+
+- 🎡 [基于 Flink CDC 实现海量数据的实时同步和转换](https://juejin.cn/post/7124224801933099038) | Mon Jul 25 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
     简介： 徐榜江在 5.21 Flink CDC Meetup 的分享。 点击查看直播回放 &amp; 演讲PDF 一、Flink CDC 技术 CDC 是 Change Data Capture 的缩写，是一 
     </details> 
 
-- 🎡 [Helm Chart 多环境、多集群交付实践，透视资源拓扑和差异](https://juejin.cn/post/7124222882170798116) | Mon Jul 25 2022 8:23 AM 
+- 🕯 [Helm Chart 多环境、多集群交付实践，透视资源拓扑和差异](https://juejin.cn/post/7124222882170798116) | Mon Jul 25 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
     简介： 在本文中，我们将介绍如何通过 KubeVela解决多集群环境下 Helm Chart 的部署问题。如果你手里没有多集群也不要紧，我们将介绍一种仅依赖于 Docker 或者 Linux 系统的轻 
     </details> 
 
-- 🕯 [以“升舱”之名，谈谈云原生数据仓库AnalyticDB的核心技术](https://juejin.cn/post/7124221755660435464) | Mon Jul 25 2022 8:19 AM 
+- 🚀 [以“升舱”之名，谈谈云原生数据仓库AnalyticDB的核心技术](https://juejin.cn/post/7124221755660435464) | Mon Jul 25 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
     简介： 企业级云原生数据仓库AnalyticDB提出了升舱计划，旨在承担和帮助金融、运营商、政务等行业构建下一代数据管理和分析系统，以应对不断增长的数据规模，业务数字化转型，和传统数仓替换升级需求。7 
     </details> 
 
-- 🚀 [研发效能的思考总结](https://juejin.cn/post/7124220338744852488) | Mon Jul 25 2022 8:14 AM 
+- 💪 [研发效能的思考总结](https://juejin.cn/post/7124220338744852488) | Mon Jul 25 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
     简介： 很多时候，我们一直在思考如何高效支撑业务这个课题上。阿里技术分享平台或者网上都有非常多的文章分享，每个TL针对自己团队的状况也有一套自己的方法论。本文作者将结合自己所面临的状况，把自己的思考总 
-    </details> 
-
-- 💪 [从业务开发中学习和理解架构设计](https://juejin.cn/post/7124219559820656676) | Mon Jul 25 2022 8:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介： 在设计代码目录划分方案的过程中，看了一些工程结构设计的资料，读了一些关于架构设计的书，对于架构有了一些理解。本文是对这段学习和任务完成过程的思考和沉淀。希望能够解答“架构到底是什么？架构和业务 
     </details> 
 <!-- juejin:END -->
 ### 少数派
