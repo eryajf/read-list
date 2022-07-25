@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [比尔·盖茨再向盖茨基金会捐赠价值超过60亿美元股票](http://www.techweb.com.cn/world/2022-07-25/2899273.shtml) | Mon Jul 25 2022 6:40 AM
-- 👹 [巴菲特卖不卖比亚迪 这个问题其实不重要](http://www.techweb.com.cn/viewpoint/2022-07-25/2899269.shtml) | Mon Jul 25 2022 6:31 AM
-- 🪜 [外媒：法国卫星公司Eutelsat拟收购OneWeb](http://www.techweb.com.cn/world/2022-07-25/2899261.shtml) | Mon Jul 25 2022 5:59 AM
-- 🤭 [最高法：依法严惩强制“二选一”、大数据杀熟、低价倾销、强制搭售等行为](http://www.techweb.com.cn/it/2022-07-25/2899255.shtml) | Mon Jul 25 2022 5:42 AM
-- 🙉 [线上线下同步   阿里、WiFi万能钥匙等企业签署个人信息保护自律公约](http://www.techweb.com.cn/it/2022-07-25/2899254.shtml) | Mon Jul 25 2022 4:48 AM<!-- techweb-allnews:END -->
+- 👍 [后CentOS时代 CentOS社区如何发展以加速创新？](http://www.techweb.com.cn/it/2022-07-25/2899285.shtml) | Mon Jul 25 2022 7:48 AM
+- 👹 [快手撬动NBA的“朋友圈”](http://www.techweb.com.cn/viewpoint/2022-07-25/2899280.shtml) | Mon Jul 25 2022 7:12 AM
+- 🪜 [比尔·盖茨再向盖茨基金会捐赠价值超过60亿美元股票](http://www.techweb.com.cn/world/2022-07-25/2899273.shtml) | Mon Jul 25 2022 6:40 AM
+- 🤭 [巴菲特卖不卖比亚迪 这个问题其实不重要](http://www.techweb.com.cn/viewpoint/2022-07-25/2899269.shtml) | Mon Jul 25 2022 6:31 AM
+- 🙉 [外媒：法国卫星公司Eutelsat拟收购OneWeb](http://www.techweb.com.cn/world/2022-07-25/2899261.shtml) | Mon Jul 25 2022 5:59 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
