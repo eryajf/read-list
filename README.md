@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [写了一年多的前端，现在准备后端的校招还来得及么？](https://www.v2ex.com/t/868674#reply4) | Mon Jul 25 2022 7:06 PM
-- 🤗 [Ubuntu 22.04 干掉了 aufs](https://www.v2ex.com/t/868671#reply1) | Mon Jul 25 2022 5:12 PM
-- 🎭 [ELK 有轻量级的替代方案吗？](https://www.v2ex.com/t/868667#reply1) | Mon Jul 25 2022 3:53 PM
-- 🥷 [数组多次 filter, 多次 map 混合链式调用过程中, 有没有办法只在最后一次调用时生成一次数组呢?](https://www.v2ex.com/t/868665#reply7) | Mon Jul 25 2022 3:48 PM
-- 🐵 [应届生，入职两周，每天都很煎熬，润还是不润](https://www.v2ex.com/t/868660#reply19) | Mon Jul 25 2022 2:40 PM<!-- v2ex:END -->
+- 🥸 [为什么使用 https 调用 API 仍然推荐需要使用 key 来签名](https://www.v2ex.com/t/868678#reply0) | Mon Jul 25 2022 9:55 PM
+- 🤗 [如何确保移动硬盘的大量数据不会损坏？](https://www.v2ex.com/t/868676#reply5) | Mon Jul 25 2022 9:42 PM
+- 🎭 [写了一年多的前端，现在准备后端的校招还来得及么？](https://www.v2ex.com/t/868674#reply4) | Mon Jul 25 2022 7:06 PM
+- 🥷 [Ubuntu 22.04 干掉了 aufs](https://www.v2ex.com/t/868671#reply1) | Mon Jul 25 2022 5:12 PM
+- 🐵 [ELK 有轻量级的替代方案吗？](https://www.v2ex.com/t/868667#reply1) | Mon Jul 25 2022 3:53 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
