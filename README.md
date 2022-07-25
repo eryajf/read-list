@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [线上线下同步   阿里、WiFi万能钥匙等企业签署个人信息保护自律公约](http://www.techweb.com.cn/it/2022-07-25/2899254.shtml) | Mon Jul 25 2022 4:48 AM
-- 👹 [F5 CTO林耕：企业实现数字化转型需要具备六大能力](http://www.techweb.com.cn/internet/2022-07-25/2899252.shtml) | Mon Jul 25 2022 4:33 AM
-- 🪜 [泡泡玛特出海 讲不出新故事](http://www.techweb.com.cn/viewpoint/2022-07-25/2899249.shtml) | Mon Jul 25 2022 3:54 AM
-- 🤭 [三星电子3nm工艺所代工首批芯片正式发货 联席CEO出席发货仪式](http://www.techweb.com.cn/world/2022-07-25/2899247.shtml) | Mon Jul 25 2022 3:54 AM
-- 🙉 [传法国卫星公司Eutelsat拟收购OneWeb 已持有后者23%股份](http://www.techweb.com.cn/it/2022-07-25/2899241.shtml) | Mon Jul 25 2022 3:36 AM<!-- techweb-allnews:END -->
+- 👍 [最高法：依法严惩强制“二选一”、大数据杀熟、低价倾销、强制搭售等行为](http://www.techweb.com.cn/it/2022-07-25/2899255.shtml) | Mon Jul 25 2022 5:42 AM
+- 👹 [线上线下同步   阿里、WiFi万能钥匙等企业签署个人信息保护自律公约](http://www.techweb.com.cn/it/2022-07-25/2899254.shtml) | Mon Jul 25 2022 4:48 AM
+- 🪜 [F5 CTO林耕：企业实现数字化转型需要具备六大能力](http://www.techweb.com.cn/internet/2022-07-25/2899252.shtml) | Mon Jul 25 2022 4:33 AM
+- 🤭 [泡泡玛特出海 讲不出新故事](http://www.techweb.com.cn/viewpoint/2022-07-25/2899249.shtml) | Mon Jul 25 2022 3:54 AM
+- 🙉 [三星电子3nm工艺所代工首批芯片正式发货 联席CEO出席发货仪式](http://www.techweb.com.cn/world/2022-07-25/2899247.shtml) | Mon Jul 25 2022 3:54 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
