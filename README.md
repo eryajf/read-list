@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [抛弃目标与计划，我发现好好读书并不难](https://sspai.com/post/74767) | Mon Jul 25 2022 6:49 AM 
+- 👹 [用 AI 为图片「摘下面纱」，waifu2x 如何拯救你的 macOS 修图体验](https://sspai.com/post/74786) | Mon Jul 25 2022 8:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    当 macOS 也拥有了好用的 waifu2x 前端，「化腐朽为神奇」也变得更加简单。&lt;a href=&quot;https://sspai.com/post/74786&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [抛弃目标与计划，我发现好好读书并不难](https://sspai.com/post/74767) | Mon Jul 25 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
     现在已是七月，又一个半年开始了。我想，要不大家一起浅看一会儿书吧。&lt;a href=&quot;https://sspai.com/post/74767&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [为了帮你迈出写作的第一步，我做了这个有趣的应用](https://sspai.com/post/74365) | Mon Jul 25 2022 3:29 AM 
+- 🤭 [为了帮你迈出写作的第一步，我做了这个有趣的应用](https://sspai.com/post/74365) | Mon Jul 25 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     作为一个每年阅读上万篇各类网络上文章的程序员，也幻想着自己可以把我的人生、经验、幻想和生活写成文章供别人阅读，但是总是面临着「写什么、怎么写、写的不好怎么办」之类的问题，让我将写作这件事一放再放。在2 ...&lt;a href=&quot;https://sspai.com/post/74365&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：原 eBay 中国版将于 8 月关闭，抖音发布高频不规范词语清单等](https://sspai.com/post/74770) | Mon Jul 25 2022 12:46 AM 
+- 🥸 [派早报：原 eBay 中国版将于 8 月关闭，抖音发布高频不规范词语清单等](https://sspai.com/post/74770) | Mon Jul 25 2022 12:46 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事23年历史电商网站易趣网将于八月关闭近日，有23年历史的电商网站易趣网（www.eachnet.com）发布了关闭公告。公告称，由于公司调整运营策略，决定停止易趣网络平台运营，于8月 ...&lt;a href=&quot;https://sspai.com/post/74770&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [7 款软件、4 大维度，远程桌面控制软件横评](https://sspai.com/post/74204) | Sun Jul 24 2022 7:53 AM 
+- 🙉 [7 款软件、4 大维度，远程桌面控制软件横评](https://sspai.com/post/74204) | Sun Jul 24 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
     从平台支持、控制模式、连接和画质、操作和功能几个维度出发，我选出了 7 款远程控制软件进行对比，希望能够帮你选出适合自己的那款连接快、操作延迟低的远程控制服务。&lt;a href=&quot;https://sspai.com/post/74204&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [一日一技 | 想体验 WSL 但系统盘不够大？简单几步就可以将 WSL 装进非系统盘](https://sspai.com/post/74757) | Sun Jul 24 2022 3:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    经过我的一番研究，发现无论是 WSL 1 还是 WSL 2 都可以把它们安装到非系统盘里，如果你也有这样的困扰不妨跟着一起试试吧。&lt;a href=&quot;https://sspai.com/post/74757&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
