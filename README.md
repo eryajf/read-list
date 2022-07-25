@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [leetcode  34. Find First and Last Position of Element in Sorted Array（python）](https://juejin.cn/post/7124118349734215717) | Mon Jul 25 2022 1:37 AM 
+- 🤗 [活动报名 | 玩转 Kubernetes 容器服务提高班正式开营！](https://juejin.cn/post/7124132495078981639) | Mon Jul 25 2022 2:32 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode 34. Find First and Last Position of Element in Sorted Array 二分法解决 
+    考虑到大家在使用容器服务产品时，除了常见的问题之外，也会遇到在特定场景下关于组件配置、方案选型、相关产品搭配等诸多困惑，因此我们在每次 5 分钟短视频课程基础上，推出进阶版线上训练营，通过自学+跟学的 
     </details> 
 
-- 🎡 [精读《Flip, Fibonacci, AllCombinations...》](https://juejin.cn/post/7124107792700407821) | Mon Jul 25 2022 12:57 AM 
+- 🎡 [圆角大杀器，使用滤镜构建圆角及波浪效果！](https://juejin.cn/post/7124131390177673224) | Mon Jul 25 2022 2:28 AM 
     <details><summary>展开描述 ...</summary> 
-    解决 TS 问题的最好办法就是多练，这次解读 type-challenges Medium 难度 49~56 题。 
+    本文，将另辟蹊径，介绍一种使用滤镜去构建圆角的独特方式。 首先，我们来看这样一个图形： 一个矩形，没什么特别的，代码如下： 如果，我们现在需要给这个矩形的两端加上圆角，像是这样，该怎么做呢： So e 
     </details> 
 
-- 🕯 [造！又有新的生产力语言了「GitHub 热点速览 v.22.30」](https://juejin.cn/post/7124105476639293453) | Mon Jul 25 2022 12:48 AM 
+- 🕯 [充实的年中：春夏限定，奔跑不停，莫问前路，朝未来进发](https://juejin.cn/post/7124129188079992845) | Mon Jul 25 2022 2:20 AM 
     <details><summary>展开描述 ...</summary> 
-    你还记得那些 PHP 开发都去哪了吗？转 Golang 了！移动端现在流行什么？Flutter 编程。现在谷歌带着新的生产力语言来了，Carbon，代号：C++ 继承者。不知道多年之后 C++ 的从业 
+    生如夏花之绚烂，死如秋叶之静美，生活未必全是美好，但永远心怀热枕，上半年生活可以总结为一二三四五六七八，春夏限定，积极拥抱生活，快乐面向未来 
     </details> 
 
-- 🚀 [Android 性能优化之 R 文件优化详解](https://juejin.cn/post/7124102824316633096) | Mon Jul 25 2022 12:37 AM 
+- 🚀 [2022 年值得推荐的 Vue 库！](https://juejin.cn/post/7124128574029692959) | Mon Jul 25 2022 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    对于开发者来说在代码中引用资源很方便，你只需要使用类似`R.string.***`的方式就可以获取到相应的资源，但是使用`R`文件也会带来一定的冗余问题，包括增大包体积与`dex`数量等 
+    大家好，我是CUGGZ。 今天来推荐几个实用的 Vue 库！ 1. 状态管理 （1）Pinia Pinia 是最新一代的 Vue 轻量级状态管理库。它适用于 Vue 2.x 和 Vue 3.x。它是  
     </details> 
 
-- 💪 [拿来吧您！把“前端依赖”纳入知识体系🤘](https://juejin.cn/post/7124102653407297550) | Mon Jul 25 2022 12:37 AM 
+- 💪 [关于VUE3+TS利用递归组件完成TreeList的设计与实现](https://juejin.cn/post/7124128433856053279) | Mon Jul 25 2022 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    关于【前端依赖】你的认知是成体系的、还是一盘散沙？5千多字，带你全貌地理解前端依赖是如何运作和生效的！ 
+    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 前言 乘着活动，水一篇 虽然是标题党，但是不代表咱们的内容不真诚，如果对您各位有用，请不要吝啬您的小手，赞一赞！ 今天和大家探讨的问题 
     </details> 
 <!-- juejin:END -->
 ### 少数派
