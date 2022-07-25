@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [环球晶圆称芯片制造商对硅晶圆需求依旧强劲 客户尚未修改长期合同](http://www.techweb.com.cn/world/2022-07-25/2899230.shtml) | Mon Jul 25 2022 3:05 AM
-- 👹 [特斯拉已着手准备向其他品牌电动汽车开放部分美国超级充电网络](http://www.techweb.com.cn/world/2022-07-25/2899227.shtml) | Mon Jul 25 2022 2:59 AM
-- 🪜 [在东南亚读博，我被当成“野鸡博士”](http://www.techweb.com.cn/viewpoint/2022-07-25/2899226.shtml) | Mon Jul 25 2022 2:55 AM
-- 🤭 [掘金Web3的年轻人，红线上暴富与跌落](http://www.techweb.com.cn/viewpoint/2022-07-25/2899225.shtml) | Mon Jul 25 2022 2:53 AM
-- 🙉 [吊诡网约车，一边挨打一边入局](http://www.techweb.com.cn/viewpoint/2022-07-25/2899217.shtml) | Mon Jul 25 2022 2:33 AM<!-- techweb-allnews:END -->
+- 👍 [泡泡玛特出海 讲不出新故事](http://www.techweb.com.cn/viewpoint/2022-07-25/2899249.shtml) | Mon Jul 25 2022 3:54 AM
+- 👹 [三星电子3nm工艺所代工首批芯片正式发货 联席CEO出席发货仪式](http://www.techweb.com.cn/world/2022-07-25/2899247.shtml) | Mon Jul 25 2022 3:54 AM
+- 🪜 [传法国卫星公司Eutelsat拟收购OneWeb 已持有后者23%股份](http://www.techweb.com.cn/it/2022-07-25/2899241.shtml) | Mon Jul 25 2022 3:36 AM
+- 🤭 [环球晶圆称芯片制造商对硅晶圆需求依旧强劲 客户尚未修改长期合同](http://www.techweb.com.cn/world/2022-07-25/2899230.shtml) | Mon Jul 25 2022 3:05 AM
+- 🙉 [特斯拉已着手准备向其他品牌电动汽车开放部分美国超级充电网络](http://www.techweb.com.cn/world/2022-07-25/2899227.shtml) | Mon Jul 25 2022 2:59 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
