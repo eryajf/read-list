@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [后CentOS时代 CentOS社区如何发展以加速创新？](http://www.techweb.com.cn/it/2022-07-25/2899285.shtml) | Mon Jul 25 2022 7:48 AM
-- 👹 [快手撬动NBA的“朋友圈”](http://www.techweb.com.cn/viewpoint/2022-07-25/2899280.shtml) | Mon Jul 25 2022 7:12 AM
-- 🪜 [比尔·盖茨再向盖茨基金会捐赠价值超过60亿美元股票](http://www.techweb.com.cn/world/2022-07-25/2899273.shtml) | Mon Jul 25 2022 6:40 AM
-- 🤭 [巴菲特卖不卖比亚迪 这个问题其实不重要](http://www.techweb.com.cn/viewpoint/2022-07-25/2899269.shtml) | Mon Jul 25 2022 6:31 AM
-- 🙉 [外媒：法国卫星公司Eutelsat拟收购OneWeb](http://www.techweb.com.cn/world/2022-07-25/2899261.shtml) | Mon Jul 25 2022 5:59 AM<!-- techweb-allnews:END -->
+- 👍 [环球晶圆称芯片制造商对硅晶圆需求依旧强劲 客户尚未修改长期合同](http://www.techweb.com.cn/world/2022-07-25/2899230.shtml) | Mon Jul 25 2022 8:38 AM
+- 👹 [苹果再次被三星挖墙脚 这次是一名半导体专家](http://www.techweb.com.cn/world/2022-07-25/2899284.shtml) | Mon Jul 25 2022 8:37 AM
+- 🪜 [直播不是K12转型的终点](http://www.techweb.com.cn/viewpoint/2022-07-25/2899288.shtml) | Mon Jul 25 2022 8:29 AM
+- 🤭 [马斯克评论大众集团CEO离职：软件是通向未来的关键](http://www.techweb.com.cn/world/2022-07-25/2899286.shtml) | Mon Jul 25 2022 8:19 AM
+- 🙉 [后CentOS时代 CentOS社区如何发展以加速创新？](http://www.techweb.com.cn/it/2022-07-25/2899285.shtml) | Mon Jul 25 2022 7:48 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
