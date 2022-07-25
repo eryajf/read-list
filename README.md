@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何在繁重的工作中持续成长？](https://juejin.cn/post/7124180647958020104) | Mon Jul 25 2022 5:39 AM 
+- 🤗 [支付设计白皮书：浅谈国际支付](https://juejin.cn/post/7123833615930097672) | Sun Jul 24 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-    在加班文化盛行的互联网文化中，很多开发者为自己的个人成长感到迷茫。这篇文章将会从我的个人经历出发，从打破成长的误区、如何高效的利用时间、以及坚持沉淀和写作三个方面介绍，如何在繁重的工作中也可以做到持续 
+    支付系统的相关系统给大家已经写了几篇了，如果喜欢的话，可以给六六一个赞哦，下面是之前写的 支付设计白皮书：支付系统的概念与中国互联网支付清算体系 支付设计白皮书：支付系统的总架构 支付设计白皮书：支付 
     </details> 
 
-- 🎡 [从写下Go程序第一行代码，到在 K8s 上运行，要经历多少步?](https://juejin.cn/post/7124169347303473165) | Mon Jul 25 2022 4:55 AM 
+- 🎡 [基于RBAC的页面权限控制及按钮权限控制](https://juejin.cn/post/7123804739178856461) | Sun Jul 24 2022 5:22 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是网管。咱们的 K8s 入门和实践，在经历了三篇理论知识的后，相信各位都已经期待许久（可能的吧），就差私信我，你整着理论整半天有啥用，本大人写的程序怎么能放到 K8s 上运行。 别急，今天这 
+    本文介绍了基于RBAC的页面权限控制及按钮权限控制以及其代码实现流程，主要使用到了router.addRoutes&lpar;&rpar;方法、全局前置守卫、vuex、自定义指令。 
     </details> 
 
-- 🕯 [第 91 次 TC39 会议举行，这还是我认识的JS吗？](https://juejin.cn/post/7124164132684693518) | Mon Jul 25 2022 4:36 AM 
+- 🕯 [Android实战 : 手游sdk热修复](https://juejin.cn/post/7123469377080393759) | Sat Jul 23 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是CUGGZ。 2022 年 7 月 19 日至 21 日，由 Google 主办的 TC39 第 91 次会议在美国旧金山举行。以下 ECMAscript 提案在会议上取得了阶段性进展：  
+    效果展示 写一个有bug的init方法用于测试 再写一个bug fix 后的init方法 把有bug和fix_bug的两个包放在 assets中 测试代码 两个按钮 一个按钮点击加载 bug.apk  
     </details> 
 
-- 🚀 [Causal Data Science 分享：Uber如何以最小的成本赚取最多的体验收益](https://juejin.cn/entry/7124140169074049032) | Mon Jul 25 2022 3:02 AM 
+- 🚀 [源码共读之arrify](https://juejin.cn/post/7123458144604258312) | Sat Jul 23 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-    如果你打车的时候遇到司机晚点，平台是不是要做出补偿？平台认为一定条件下应该是做出补偿（作为羊毛党，of course&rpar;。但是补偿谁?补偿多少?这是一个问题。地主老财也需要把钱花在刀刃上 
+    本文参加了由公众号@若川视野 发起的每周源码共读活动，  点击了解详情一起参与。 这是源码共读的第33期，链接：arrify转数组 前言 这是第一次参与源码共读活动，希望通过源码阅读能对代码实现有更进 
     </details> 
 
-- 💪 [【Android】RecyclerView 缓存机制，真的很难理解？到底是几级缓存？](https://juejin.cn/post/7124134123899191333) | Mon Jul 25 2022 2:40 AM 
+- 💪 [setTimeout 和 setInterval，你们两位同学注意点时间~](https://juejin.cn/post/7123440584156512293) | Sat Jul 23 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
-    RecyclerView 的缓存机制，可谓是面试中的常客了。不仅如此，在使用过程中，如果了解这个缓存机制，那么可以更好地利用其特性做开发。 
+    一、基本定义与用法 1、定义 setTimeout&lpar;&rpar;方法用于在指定的时间（单位毫秒）后执行回调函数或指定的一段代码 setInterval&lpar;&rpar;方法可按照指定的时间间隔（单位毫秒）来调用回调函数或指定 
     </details> 
 <!-- juejin:END -->
 ### 少数派
