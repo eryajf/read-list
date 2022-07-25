@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [2021中国新经济企业500强榜单发布：腾讯、阿里、字节位列前三](http://www.techweb.com.cn/internet/2022-07-25/2899173.shtml) | Mon Jul 25 2022 1:16 AM
-- 👹 [苹果在持续扩大iPhone 14供应链 以避免零部件短缺](http://www.techweb.com.cn/world/2022-07-24/2899164.shtml) | Sun Jul 24 2022 10:22 AM
-- 🪜 [台积电3nm制程工艺有望本月量产 明年产能将平稳提升](http://www.techweb.com.cn/world/2022-07-24/2899161.shtml) | Sun Jul 24 2022 9:25 AM
-- 🤭 [我国已建成全球规模最大网络基础设施 5G基站总量占全球60%以上](http://www.techweb.com.cn/it/2022-07-24/2899159.shtml) | Sun Jul 24 2022 8:18 AM
-- 🙉 [荣耀CEO赵明：单一厂商很难实现全场景产品覆盖](http://www.techweb.com.cn/it/2022-07-24/2899158.shtml) | Sun Jul 24 2022 8:03 AM<!-- techweb-allnews:END -->
+- 👍 [环球晶圆称芯片制造商对硅晶圆需求依旧强劲 客户尚未修改长期合同](http://www.techweb.com.cn/world/2022-07-25/2899230.shtml) | Mon Jul 25 2022 3:05 AM
+- 👹 [特斯拉已着手准备向其他品牌电动汽车开放部分美国超级充电网络](http://www.techweb.com.cn/world/2022-07-25/2899227.shtml) | Mon Jul 25 2022 2:59 AM
+- 🪜 [在东南亚读博，我被当成“野鸡博士”](http://www.techweb.com.cn/viewpoint/2022-07-25/2899226.shtml) | Mon Jul 25 2022 2:55 AM
+- 🤭 [掘金Web3的年轻人，红线上暴富与跌落](http://www.techweb.com.cn/viewpoint/2022-07-25/2899225.shtml) | Mon Jul 25 2022 2:53 AM
+- 🙉 [吊诡网约车，一边挨打一边入局](http://www.techweb.com.cn/viewpoint/2022-07-25/2899217.shtml) | Mon Jul 25 2022 2:33 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
