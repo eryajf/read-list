@@ -134,29 +134,29 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [工程效能CI/CD之流水线引擎的建设实践](https://tech.meituan.com/2022/07/14/cicd-pipeline.html) | Thu Jul 14 2022 12:00 AM 
+- 🕯 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html) | Thu Jul 21 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。本文将精选10篇论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。 
+    </details> 
+
+- 🤠 [可视化全链路日志追踪](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html) | Thu Jul 21 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    可观测性作为系统高可用的重要保障，已经成为系统建设中不可或缺的一环。然而随着业务逻辑的日益复杂，传统的ELK方案在日志搜集、筛选和分析等方面愈加耗时耗力，而分布式会话跟踪方案虽然基于追踪能力完善了日志的串联，但更聚焦于调用链路，也难以直接应用于高效的业务追踪。本文介绍了可视化全链路日志追踪的新方案，它以业务链路为载体，通过有效组织业务每次执行的日志，实现了执行现场的可视化还原，支持问题的高效定位。 
+    </details> 
+
+- 🤠 [工程效能CI/CD之流水线引擎的建设实践](https://tech.meituan.com/2022/07/14/cicd-pipeline.html) | Thu Jul 14 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。 
     </details> 
 
-- 🤠 [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM 
+- 🚀 [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     在外卖广告CTR场景下，深度学习模型正在从简单DNN小模型过渡到千亿参数复杂模型。基于该背景，本文将重点针对大规模深度模型在全链路带来的挑战，从在线时延、离线效率两个方面展开，阐述外卖广告在大规模深度模型上的工程实践经验，希望能为读者提供思路上的借鉴。 
     </details> 
 
-- 🤠 [大众点评搜索相关性技术探索与实践](https://tech.meituan.com/2022/07/06/semantic-relevance-matching.html) | Wed Jul 06 2022 12:00 AM 
+- ⚗️ [大众点评搜索相关性技术探索与实践](https://tech.meituan.com/2022/07/06/semantic-relevance-matching.html) | Wed Jul 06 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     搜索相关性用于衡量Query和Doc的相关程度，是搜索引擎的重要环节，本文主要讲述大众点评搜索团队在相关性计算上的技术探索和实践，通过多相似矩阵模型结构、多阶段训练等方法提升预训练模型在相关性问题上的效果，同时解决基于交互的模型在线预测的性能问题，希望为从事相关工作的同学能够带来一些启发或者帮助。 
-    </details> 
-
-- 🚀 [CVPR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html) | Thu Jun 23 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    计算机视觉国际顶会CVPR 2022近日在美国新奥尔良召开，今年美团技术团队有多篇论文被CVPR 2022收录，这些论文涵盖了模型压缩、视频目标分割、3D视觉定位、图像描述、模型安全、跨模态视频内容检索等研究领域。本文将对6篇精选的论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。 
-    </details> 
-
-- ⚗️ [YOLOv6：又快又准的目标检测框架开源啦](https://tech.meituan.com/2022/06/23/yolov6-a-fast-and-accurate-target-detection-framework-is-opening-source.html) | Thu Jun 23 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    近日，美团视觉智能部研发了一款致力于工业应用的目标检测框架 YOLOv6，能够同时专注于检测的精度和推理效率。在研发过程中，视觉智能部不断进行了探索和优化，同时吸取借鉴了学术界和工业界的一些前沿进展和科研成果。在目标检测权威数据集 COCO 上的实验结果显示，YOLOv6 在检测精度和速度方面均超越其他同体量的算法，同时支持多种不同平台的部署，极大简化工程部署时的适配工作。特此开源，希望能帮助到更多的同学。 
     </details> 
 <!-- meituan:END -->
 
