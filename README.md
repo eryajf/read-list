@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [给生活加点惊喜，做创意生活的原型设计师丨编程挑战赛 x 选手分享](https://juejin.cn/post/7123961870112784397) | Sun Jul 24 2022 3:30 PM 
+- 🤗 [leetcode  34. Find First and Last Position of Element in Sorted Array（python）](https://juejin.cn/post/7124118349734215717) | Mon Jul 25 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-    我们每个人在生活中都可能会有各种各样的创意与想法，我会在分享中先和大家梳理下我们如何激发创意和想法，以及如何通过一些方法和工具实现创意的快速落地。 
+    leetcode 34. Find First and Last Position of Element in Sorted Array 二分法解决 
     </details> 
 
-- 🎡 [Wechaty中文文档-Wechaty](https://juejin.cn/post/7123945386200268831) | Sun Jul 24 2022 2:27 PM 
+- 🎡 [精读《Flip, Fibonacci, AllCombinations...》](https://juejin.cn/post/7124107792700407821) | Mon Jul 25 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
-    由于英文文档对于某些小伙伴阅读起来比较有困难，因此我自行总结翻译整理中文文档，希望能对大家有所帮助。当然大家有能力的还是希望直接去看英文官网，毕竟中文文档是按照我的理解来翻译书写的。 
+    解决 TS 问题的最好办法就是多练，这次解读 type-challenges Medium 难度 49~56 题。 
     </details> 
 
-- 🕯 [Wechaty中文文档-Message](https://juejin.cn/post/7123945331493961742) | Sun Jul 24 2022 2:26 PM 
+- 🕯 [造！又有新的生产力语言了「GitHub 热点速览 v.22.30」](https://juejin.cn/post/7124105476639293453) | Mon Jul 25 2022 12:48 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章将详细介绍消息类的方法和用途，在wechaty中所有微信消息都被封装于此，重要说明，这里Message类实际上就是在Wechaty文章中bot.on&lpar;&#39;message&#39;, message =&gt; 
+    你还记得那些 PHP 开发都去哪了吗？转 Golang 了！移动端现在流行什么？Flutter 编程。现在谷歌带着新的生产力语言来了，Carbon，代号：C++ 继承者。不知道多年之后 C++ 的从业 
     </details> 
 
-- 🚀 [Wechaty中文文档-多种Puppet服务提供商的功能对比](https://juejin.cn/post/7123945012399865893) | Sun Jul 24 2022 2:25 PM 
+- 🚀 [Android 性能优化之 R 文件优化详解](https://juejin.cn/post/7124102824316633096) | Mon Jul 25 2022 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    不同puppet服务提供商的特性及其可用的功能是不同的，下表列出来不同puppet服务提供商可以实现的功能。 
+    对于开发者来说在代码中引用资源很方便，你只需要使用类似`R.string.***`的方式就可以获取到相应的资源，但是使用`R`文件也会带来一定的冗余问题，包括增大包体积与`dex`数量等 
     </details> 
 
-- 💪 [记录一次有趣的React项目埋点过程](https://juejin.cn/post/7123903225199067150) | Sun Jul 24 2022 11:45 AM 
+- 💪 [拿来吧您！把“前端依赖”纳入知识体系🤘](https://juejin.cn/post/7124102653407297550) | Mon Jul 25 2022 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    通过浏览器的原生方法获当前日志列表中的记录个数，通过data-*自定义标签，在html标签中传递数据。 
+    关于【前端依赖】你的认知是成体系的、还是一盘散沙？5千多字，带你全貌地理解前端依赖是如何运作和生效的！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
