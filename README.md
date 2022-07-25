@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [谁动了我的内存，揭秘 OOM 崩溃下降 90% 的秘密](https://juejin.cn/post/7124155693581467679) | Mon Jul 25 2022 4:04 AM 
+- 🤗 [一场为期 2 天的技术之旅，XDC 2022 圆满收官！](https://juejin.cn/post/7124189679678652430) | Mon Jul 25 2022 6:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    一场为期 2 天的技术之旅，XDC 2022 圆满收官！ 每一项改变世界的技术，都是从一行简单的&quot;Hello World&quot;开启，正如每一位建设数字世界的架构师/CTO 们，都是从代码初学者成长起来。  
+    </details> 
+
+- 🎡 [和团队新同学的对话](https://juejin.cn/post/7124180451039641630) | Mon Jul 25 2022 5:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    团队里有一个去年来实习的同学，最近毕业正式入职了。作为师兄，在正式工作一个月之后，找到他聊了聊，看看最近是不是有什么困惑。下面是挑出来的几个我觉得比较有代表性的问题。 
+    </details> 
+
+- 🕯 [第 91 次 TC39 会议举行，这还是我认识的JS吗？](https://juejin.cn/post/7124164132684693518) | Mon Jul 25 2022 4:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是CUGGZ。 2022 年 7 月 19 日至 21 日，由 Google 主办的 TC39 第 91 次会议在美国旧金山举行。以下 ECMAscript 提案在会议上取得了阶段性进展：  
+    </details> 
+
+- 🚀 [谁动了我的内存，揭秘 OOM 崩溃下降 90% 的秘密](https://juejin.cn/post/7124155693581467679) | Mon Jul 25 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
     通过这篇文章你将学习到，内存相关的知识点，以及那些因素会导致 OOM 崩溃和相对应的解决方案，Java 堆上还有很多可用的内存，为什么还会出现 OOM 
     </details> 
 
-- 🎡 [Java &amp; Go 专场 | 阿里云中间件开发者线下 Meetup 开启报名](https://juejin.cn/post/7124147032477925383) | Mon Jul 25 2022 3:29 AM 
+- 💪 [Java &amp; Go 专场 | 阿里云中间件开发者线下 Meetup 开启报名](https://juejin.cn/post/7124147032477925383) | Mon Jul 25 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     中间件开发者 Meetup 汇集了 Appactive、ChaosBlade、Nacos、OpenSergo、Seata、Sentinel、Serverless Devs、Spring Cloud A 
-    </details> 
-
-- 🕯 [伯克利博士『机器学习工程』大实话；AI副总裁『2022ML就业市场』分析；半导体创业公司大列表；大规模视频人脸属性数据集；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7124146963745865736) | Mon Jul 25 2022 3:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 07-24 期，StereoKit 混合现实开发库、doccano文本标注工具、YOLOv7目标检测部署、伯克利博士对『机器学习工程』思考、半导体创业公司大列表、前沿论文… 
-    </details> 
-
-- 🚀 [老司机 iOS 周报 #210 | 2022-07-25](https://juejin.cn/post/7124139010389180429) | Mon Jul 25 2022 2:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    老司机 iOS 周报，只为你呈现有价值的信息。 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎 
-    </details> 
-
-- 💪 [【程序员的浪漫】七夕到了，还不快给你女朋友做一个专属chrome插件,低代码平台的属性面板该如何设计？Java代码优化的30个小技巧丨酱酱的下午茶第35期](https://juejin.cn/post/7124138112229310471) | Mon Jul 25 2022 2:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    本期看点：【程序员的浪漫】七夕到了，还不快给你女朋友做一个专属chrome插件、低代码平台的属性面板该如何设计？百度APP Android包体积优化实践（二）Dex行号优化丨酱酱的下午茶第35期 
     </details> 
 <!-- juejin:END -->
 ### 少数派
