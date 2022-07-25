@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Chrome V8命令执行漏洞（CVE-2022-1310）分析](https://juejin.cn/post/7124222615145136141) | Mon Jul 25 2022 8:22 AM 
+- 🤗 [基于 Flink CDC 实现海量数据的实时同步和转换](https://juejin.cn/post/7124224801933099038) | Mon Jul 25 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    目前该漏洞（CVE-2022-1310）已被修复并公开了技术细节，本文将从技术角度分析漏洞的成因和修复方式。 
+    简介： 徐榜江在 5.21 Flink CDC Meetup 的分享。 点击查看直播回放 &amp; 演讲PDF 一、Flink CDC 技术 CDC 是 Change Data Capture 的缩写，是一 
     </details> 
 
-- 🎡 [京东API接口：item_history_price-获取商品历史价格信息](https://juejin.cn/post/7124212024266981390) | Mon Jul 25 2022 7:41 AM 
+- 🎡 [Helm Chart 多环境、多集群交付实践，透视资源拓扑和差异](https://juejin.cn/post/7124222882170798116) | Mon Jul 25 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-    万邦京东获取商品历史价格信息 API 返回值说明 item_history_price-获取商品历史价格信息 注册免费测试API 
+    简介： 在本文中，我们将介绍如何通过 KubeVela解决多集群环境下 Helm Chart 的部署问题。如果你手里没有多集群也不要紧，我们将介绍一种仅依赖于 Docker 或者 Linux 系统的轻 
     </details> 
 
-- 🕯 [vscode格式化代码规范](https://juejin.cn/post/7124210013199368228) | Mon Jul 25 2022 7:33 AM 
+- 🕯 [以“升舱”之名，谈谈云原生数据仓库AnalyticDB的核心技术](https://juejin.cn/post/7124221755660435464) | Mon Jul 25 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-    Prettier 是一款强大的代码格式化工具，支持 JavaScript、TypeScript、CSS、SCSS、Less、JSX、Angular、Vue、GraphQL、JSON、Markdown 
+    简介： 企业级云原生数据仓库AnalyticDB提出了升舱计划，旨在承担和帮助金融、运营商、政务等行业构建下一代数据管理和分析系统，以应对不断增长的数据规模，业务数字化转型，和传统数仓替换升级需求。7 
     </details> 
 
-- 🚀 [分享几个 AutoHotKey 脚本：一键切换IDEA多行标签页等](https://juejin.cn/post/7124209787960557599) | Mon Jul 25 2022 7:33 AM 
+- 🚀 [研发效能的思考总结](https://juejin.cn/post/7124220338744852488) | Mon Jul 25 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-    AutoHotKey 之于 Windows，就好比 Javascript 之于 Chrome， 千万不要错过“DIY”操作系统的乐趣！ 
+    简介： 很多时候，我们一直在思考如何高效支撑业务这个课题上。阿里技术分享平台或者网上都有非常多的文章分享，每个TL针对自己团队的状况也有一套自己的方法论。本文作者将结合自己所面临的状况，把自己的思考总 
     </details> 
 
-- 💪 [开发一款超级实用的VS Code插件](https://juejin.cn/post/7124197869111738381) | Mon Jul 25 2022 6:46 AM 
+- 💪 [从业务开发中学习和理解架构设计](https://juejin.cn/post/7124219559820656676) | Mon Jul 25 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    VS Code编辑器右键选择图片上传到七牛云，自动把链接粘贴到当前光标位置，鼠标悬浮在链接上面支持预览图片 
+    简介： 在设计代码目录划分方案的过程中，看了一些工程结构设计的资料，读了一些关于架构设计的书，对于架构有了一些理解。本文是对这段学习和任务完成过程的思考和沉淀。希望能够解答“架构到底是什么？架构和业务 
     </details> 
 <!-- juejin:END -->
 ### 少数派
