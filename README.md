@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问大家公司都是用什么工具来处理部署时 Python 包的版本问题呢](https://www.v2ex.com/t/868456#reply6) | Mon Jul 25 2022 1:31 AM
-- 🤗 [学习周刊-总第 63 期-一款开源的本地代码片段管理工具](https://www.v2ex.com/t/868441#reply1) | Mon Jul 25 2022 12:01 AM
-- 🎭 [如果只是自动签到，最佳性价比的方案是什么？](https://www.v2ex.com/t/868440#reply19) | Sun Jul 24 2022 9:46 PM
-- 🥷 [关于 Golang 多平台打包发布这件事..](https://www.v2ex.com/t/868435#reply3) | Sun Jul 24 2022 5:39 PM
-- 🐵 [2022 押宝 c#还是 Java](https://www.v2ex.com/t/868434#reply16) | Sun Jul 24 2022 4:50 PM<!-- v2ex:END -->
+- 🥸 [docker-compose down 后 mysql 丢失部分数据, 数据也挂载到了宿主机](https://www.v2ex.com/t/868504#reply0) | Mon Jul 25 2022 3:43 AM
+- 🤗 [如何将保存在堆中的值写入寄存器](https://www.v2ex.com/t/868499#reply0) | Mon Jul 25 2022 3:31 AM
+- 🎭 [es 数据同步的一个问题](https://www.v2ex.com/t/868497#reply2) | Mon Jul 25 2022 3:30 AM
+- 🥷 [现在 各司的 邮件服务器 是怎么弄的？](https://www.v2ex.com/t/868491#reply3) | Mon Jul 25 2022 3:12 AM
+- 🐵 [ssh_exchange_identification: read: Connection reset by peer](https://www.v2ex.com/t/868490#reply0) | Mon Jul 25 2022 3:10 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
