@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：原 eBay 中国版将于 8 月关闭，抖音发布高频不规范词语清单等](https://sspai.com/post/74770) | Mon Jul 25 2022 12:46 AM 
+- 👹 [为了迈出写作的第一步，我做了一个有趣的应用](https://sspai.com/post/74365) | Mon Jul 25 2022 3:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    作为一个每年阅读上万篇各类网络上文章的程序员，也幻想着自己可以把我的人生、经验、幻想和生活写成文章供别人阅读，但是总是面临着「写什么、怎么写、写的不好怎么办」之类的问题，让我将写作这件事一放再放。在2 ...&lt;a href=&quot;https://sspai.com/post/74365&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：原 eBay 中国版将于 8 月关闭，抖音发布高频不规范词语清单等](https://sspai.com/post/74770) | Mon Jul 25 2022 12:46 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事23年历史电商网站易趣网将于八月关闭近日，有23年历史的电商网站易趣网（www.eachnet.com）发布了关闭公告。公告称，由于公司调整运营策略，决定停止易趣网络平台运营，于8月 ...&lt;a href=&quot;https://sspai.com/post/74770&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [7 款软件、4 大维度，远程桌面控制软件横评](https://sspai.com/post/74204) | Sun Jul 24 2022 7:53 AM 
+- 🤭 [7 款软件、4 大维度，远程桌面控制软件横评](https://sspai.com/post/74204) | Sun Jul 24 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
     从平台支持、控制模式、连接和画质、操作和功能几个维度出发，我选出了 7 款远程控制软件进行对比，希望能够帮你选出适合自己的那款连接快、操作延迟低的远程控制服务。&lt;a href=&quot;https://sspai.com/post/74204&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [一日一技 | 想体验 WSL 但系统盘不够大？简单几步就可以将 WSL 装进非系统盘](https://sspai.com/post/74757) | Sun Jul 24 2022 3:00 AM 
+- 🥸 [一日一技 | 想体验 WSL 但系统盘不够大？简单几步就可以将 WSL 装进非系统盘](https://sspai.com/post/74757) | Sun Jul 24 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     经过我的一番研究，发现无论是 WSL 1 还是 WSL 2 都可以把它们安装到非系统盘里，如果你也有这样的困扰不妨跟着一起试试吧。&lt;a href=&quot;https://sspai.com/post/74757&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治](https://sspai.com/post/74761) | Sat Jul 23 2022 3:00 AM 
+- 🙉 [播客 Plus | Disney 卖的是糖，HBO 卖的是酒，Netflix 卖的是毒](https://sspai.com/prime/story/PC-06) | Sat Jul 23 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-    入夏之后，高温天气屡见不鲜。无论环境怎样，都希望大家能够增加防护，把高温对身体的伤害降到最低。&lt;a href=&quot;https://sspai.com/post/74761&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/74754) | Fri Jul 22 2022 9:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[美剧]熊家餐馆、[电影]犯罪都市2、[动画]来自深渊：烈日的黄金乡、[美剧]吸血鬼生活第四季、[电影]剑客卡南、[电影]回转企鹅罐剧场版前篇、[综艺]BiongBiong ...&lt;a href=&quot;https://sspai.com/post/74754&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    被视为「营收密码」、引得科技巨头们纷纷下场的流媒体服务，最近似乎遇上增长瓶颈期，这到底是个别公司的经验策略出了问题，还是流媒体服务的商业模式摸到了天花板？&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/PC-06&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
