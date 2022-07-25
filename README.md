@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [docker-compose down 后 mysql 丢失部分数据, 数据也挂载到了宿主机](https://www.v2ex.com/t/868504#reply0) | Mon Jul 25 2022 3:43 AM
-- 🤗 [如何将保存在堆中的值写入寄存器](https://www.v2ex.com/t/868499#reply0) | Mon Jul 25 2022 3:31 AM
-- 🎭 [es 数据同步的一个问题](https://www.v2ex.com/t/868497#reply2) | Mon Jul 25 2022 3:30 AM
-- 🥷 [现在 各司的 邮件服务器 是怎么弄的？](https://www.v2ex.com/t/868491#reply3) | Mon Jul 25 2022 3:12 AM
-- 🐵 [ssh_exchange_identification: read: Connection reset by peer](https://www.v2ex.com/t/868490#reply0) | Mon Jul 25 2022 3:10 AM<!-- v2ex:END -->
+- 🥸 [准备发起一个技术类文章付费翻译计划，有人感兴趣吗？](https://www.v2ex.com/t/868515#reply0) | Mon Jul 25 2022 4:43 AM
+- 🤗 [KDE neon 关闭显示器一段时间后无法唤醒](https://www.v2ex.com/t/868512#reply0) | Mon Jul 25 2022 4:31 AM
+- 🎭 [Mac 上有什么好玩的单机版游戏, 求推荐](https://www.v2ex.com/t/868511#reply3) | Mon Jul 25 2022 4:30 AM
+- 🥷 [docker-compose down 后 mysql 丢失部分数据, 数据也挂载到了宿主机](https://www.v2ex.com/t/868504#reply3) | Mon Jul 25 2022 3:43 AM
+- 🐵 [如何将保存在堆中的值写入寄存器](https://www.v2ex.com/t/868499#reply0) | Mon Jul 25 2022 3:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
