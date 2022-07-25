@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [泡泡玛特出海 讲不出新故事](http://www.techweb.com.cn/viewpoint/2022-07-25/2899249.shtml) | Mon Jul 25 2022 3:54 AM
-- 👹 [三星电子3nm工艺所代工首批芯片正式发货 联席CEO出席发货仪式](http://www.techweb.com.cn/world/2022-07-25/2899247.shtml) | Mon Jul 25 2022 3:54 AM
-- 🪜 [传法国卫星公司Eutelsat拟收购OneWeb 已持有后者23%股份](http://www.techweb.com.cn/it/2022-07-25/2899241.shtml) | Mon Jul 25 2022 3:36 AM
-- 🤭 [环球晶圆称芯片制造商对硅晶圆需求依旧强劲 客户尚未修改长期合同](http://www.techweb.com.cn/world/2022-07-25/2899230.shtml) | Mon Jul 25 2022 3:05 AM
-- 🙉 [特斯拉已着手准备向其他品牌电动汽车开放部分美国超级充电网络](http://www.techweb.com.cn/world/2022-07-25/2899227.shtml) | Mon Jul 25 2022 2:59 AM<!-- techweb-allnews:END -->
+- 👍 [线上线下同步   阿里、WiFi万能钥匙等企业签署个人信息保护自律公约](http://www.techweb.com.cn/it/2022-07-25/2899254.shtml) | Mon Jul 25 2022 4:48 AM
+- 👹 [F5 CTO林耕：企业实现数字化转型需要具备六大能力](http://www.techweb.com.cn/internet/2022-07-25/2899252.shtml) | Mon Jul 25 2022 4:33 AM
+- 🪜 [泡泡玛特出海 讲不出新故事](http://www.techweb.com.cn/viewpoint/2022-07-25/2899249.shtml) | Mon Jul 25 2022 3:54 AM
+- 🤭 [三星电子3nm工艺所代工首批芯片正式发货 联席CEO出席发货仪式](http://www.techweb.com.cn/world/2022-07-25/2899247.shtml) | Mon Jul 25 2022 3:54 AM
+- 🙉 [传法国卫星公司Eutelsat拟收购OneWeb 已持有后者23%股份](http://www.techweb.com.cn/it/2022-07-25/2899241.shtml) | Mon Jul 25 2022 3:36 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
