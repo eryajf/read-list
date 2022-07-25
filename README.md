@@ -41,29 +41,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [博客接入了CDN，请求大家江湖支援](https://wiki.eryajf.net/pages/5f559d/) | Sat Jul 02 2022 11:28 PM 
+- 🫶 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-    如标题所言，在6月30号我终于把域名接入了CDN，之前强刷页面之后，首次加载需要一分钟才能完全加载，这一直是我的一块儿心病，而今接入CDN，速度的确飞了起来，无论是首次加载还是跳转其他页面，都能达到秒开的效果。 
+    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。 
     </details> 
 
-- 🧰 [学习周刊-总第60期-2022年第25周](https://wiki.eryajf.net/pages/bff449/) | Sat Jul 02 2022 11:07 AM 
+- 🧰 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-    学习周刊-总第60期-2022年第25周 
+    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template 
     </details> 
 
-- 🌏 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) | Mon Jun 27 2022 4:39 PM 
+- 🌏 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) | Sat Jul 23 2022 11:01 AM 
     <details><summary>展开描述 ...</summary> 
-    在GitHub中，我们能看到每个人都在折腾个人同名仓库的profile，我在这上边也花了不少的时间，在这个冲浪经历中，感觉外国人折腾的好像要更厉害一些，浏览过程中看到有人能直接在个人的profile中生成博客最近更新文章，很是新颖，于是就学习了一下。 
+    做一个开源项目，尽量提供给受众以简单易用的快速上手体验，也是项目能够立刻把人抓住的一个关键。现在如果想让用户快速体验项目，除了提供demo环境之外，还有一个方案，那就是提供一个完备的docker-compose，让人能够直接一键拉起。 
     </details> 
 
-- 😎 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) | Fri Jun 24 2022 3:52 PM 
+- 😎 [学习周刊-总第63期-2022年第28周](https://wiki.eryajf.net/pages/d2ea2c/) | Sat Jul 23 2022 10:32 AM 
     <details><summary>展开描述 ...</summary> 
-    学习周刊-总第59期-2022年第24周 
+    学习周刊-总第63期-2022年第28周 
     </details> 
 
-- 💂 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) | Wed Jun 22 2022 5:20 PM 
+- 💂 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) | Wed Jul 20 2022 5:22 PM 
     <details><summary>展开描述 ...</summary> 
-    基于git管理的项目，通常在分支管理之外，还会通过tag来对代码进行管理，尤其像go语言，go mod更是依赖tag来对项目的版本进行管理，因此合理的版本管理，对于项目的发展也会是更加健康的一个激励。GitHub中有一个Releases的概念，其实与tag差不多，简单理解就是在打一个tag的基础之上，用releases来进行管理。如果你没有了解过这里边的概念，那么要想成功打一个release还是有点难度的。 
+    老婆，孩子，热炕头,电脑，开源，打篮球,我已阔别城市那拥挤的精彩,在家抓住了这一阵儿的平庸 
     </details> 
 <!-- eryajf:END -->
 
@@ -79,47 +79,47 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html) | Fri Jul 01 2022 12:20 AM
-- 💪 [云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html) | Wed Jun 29 2022 3:18 AM
-- 🐎 [科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html) | Fri Jun 24 2022 12:30 AM
-- 🤔 [科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html) | Fri Jun 17 2022 12:37 AM
-- 🧠 [科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html) | Fri Jun 10 2022 12:33 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html) | Fri Jul 22 2022 12:19 AM
+- 💪 [科技爱好者周刊（第 214 期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html) | Thu Jul 14 2022 11:45 PM
+- 🐎 [科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html) | Fri Jul 08 2022 12:06 AM
+- 🤔 [科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html) | Fri Jul 01 2022 12:20 AM
+- 🧠 [云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html) | Wed Jun 29 2022 3:18 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🦣 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | Mon Jun 27 2022 12:14 AM
-- 👺 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | Mon Jun 20 2022 1:05 AM
--  [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | Tue Jun 14 2022 12:47 AM
-- 🐲 [泛工具产品深度分析 #1 独立产品周刊](https://www.decohack.com/Post/653) | Mon Jun 13 2022 1:19 AM
-- 🦅 [DecoHack #016 独立产品灵感周刊 – 苹果 WWDC 这周来了](https://www.decohack.com/Post/636) | Tue Jun 07 2022 5:28 AM<!-- DecoHack:END -->
+- 🦣 [独立产品灵感周刊 DecoHack #023 – 工作和生活的平衡](https://www.decohack.com/Post/802) | Mon Jul 25 2022 6:11 AM
+- 👺 [独立产品灵感周刊 DecoHack #022 – 截图应用如何在一个月收入 8000 美元](https://www.decohack.com/Post/774) | Mon Jul 18 2022 3:57 AM
+-  [独立产品灵感周刊 DecoHack #021 – 工作、消费主义和新穷人](https://www.decohack.com/Post/753) | Mon Jul 11 2022 12:33 AM
+- 🐲 [海外工具类产品深度分析 #2](https://www.decohack.com/Post/746) | Wed Jul 06 2022 1:03 AM
+- 🦅 [独立产品灵感周刊 DecoHack #020 – 如何停止来自金钱的压力](https://www.decohack.com/Post/728) | Mon Jul 04 2022 3:31 AM<!-- DecoHack:END -->
 
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第61期） : 我们是如何构建一个100万美元年收入开源SaaS的？](https://www.ezindie.com/weekly/issue-61) | Fri Jul 01 2022 12:00 AM 
+- 💂 [独立开发变现周刊（第64期） : 一套图标，6天6位数收入](https://www.ezindie.com/weekly/issue-64) | Fri Jul 22 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一套图标，6天6位数收入 
+    </details> 
+
+- 💡 [独立开发变现周刊（第63期） : 一个爬虫类产品，4个月做到月收入3000美元](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个爬虫类产品，4个月做到月收入3000美元 
+    </details> 
+
+- 🌋 [独立开发变现周刊（第62期） : 我是如何开发一个年收入30万美金的Vue.js开源组件库的？](https://www.ezindie.com/weekly/issue-62) | Fri Jul 08 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。我是如何开发一个年收入30万美金的Vue.js开源组件库的？ 
+    </details> 
+
+- 🕴 [独立开发变现周刊（第61期） : 我们是如何构建一个100万美元年收入开源SaaS的？](https://www.ezindie.com/weekly/issue-61) | Fri Jul 01 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。我们是如何构建一个100万美元年收入开源SaaS的？ 
     </details> 
 
-- 💡 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM 
+- 🎊 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。如何在30多个国家建立150万美元的年收入产品 
-    </details> 
-
-- 🌋 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | Thu Jun 16 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元 
-    </details> 
-
-- 🕴 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | Thu Jun 09 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。预售CSS课程，卖出55万美元 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第57期） : 开发一个免费照片编辑器，一个人每月收入10万美元](https://www.ezindie.com/weekly/issue-57) | Thu Jun 02 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。开发一个免费照片编辑器，一个人每月收入10万美元 
     </details> 
 <!-- easyindie:END -->
 
@@ -127,65 +127,65 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 19 期）: Remover.app, Enpuz, regex101, Regexper, Stormah, fffuel, ...](https://discuss-cn.bestxtools.com/d/56/1) | Wed Jun 29 2022 5:05 PM
-- 🦩 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | Wed Jun 22 2022 4:28 PM
-- 🙉 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | Wed Jun 15 2022 6:58 PM<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, ...](https://discuss-cn.bestxtools.com/d/60/1) | Thu Jul 21 2022 4:37 AM
+- 🦩 [好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, TypeLit, ...](https://discuss-cn.bestxtools.com/d/58/1) | Wed Jul 13 2022 3:49 PM
+- 🙉 [好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, ...](https://discuss-cn.bestxtools.com/d/57/1) | Wed Jul 06 2022 5:50 PM<!-- bestxtools:END -->
 
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [CVPR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html) | Thu Jun 23 2022 12:00 AM 
+- 🕯 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html) | Thu Jul 21 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    计算机视觉国际顶会CVPR 2022近日在美国新奥尔良召开，今年美团技术团队有多篇论文被CVPR 2022收录，这些论文涵盖了模型压缩、视频目标分割、3D视觉定位、图像描述、模型安全、跨模态视频内容检索等研究领域。本文将对6篇精选的论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。 
+    今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。本文将精选10篇论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。 
     </details> 
 
-- 🤠 [YOLOv6：又快又准的目标检测框架开源啦](https://tech.meituan.com/2022/06/23/yolov6-a-fast-and-accurate-target-detection-framework-is-opening-source.html) | Thu Jun 23 2022 12:00 AM 
+- 🤠 [可视化全链路日志追踪](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html) | Thu Jul 21 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    近日，美团视觉智能部研发了一款致力于工业应用的目标检测框架 YOLOv6，能够同时专注于检测的精度和推理效率。在研发过程中，视觉智能部不断进行了探索和优化，同时吸取借鉴了学术界和工业界的一些前沿进展和科研成果。在目标检测权威数据集 COCO 上的实验结果显示，YOLOv6 在检测精度和速度方面均超越其他同体量的算法，同时支持多种不同平台的部署，极大简化工程部署时的适配工作。特此开源，希望能帮助到更多的同学。 
+    可观测性作为系统高可用的重要保障，已经成为系统建设中不可或缺的一环。然而随着业务逻辑的日益复杂，传统的ELK方案在日志搜集、筛选和分析等方面愈加耗时耗力，而分布式会话跟踪方案虽然基于追踪能力完善了日志的串联，但更聚焦于调用链路，也难以直接应用于高效的业务追踪。本文介绍了可视化全链路日志追踪的新方案，它以业务链路为载体，通过有效组织业务每次执行的日志，实现了执行现场的可视化还原，支持问题的高效定位。 
     </details> 
 
-- 🤠 [端智能在大众点评搜索重排序的应用实践](https://tech.meituan.com/2022/06/16/edge-search-rerank.html) | Thu Jun 16 2022 12:00 AM 
+- 🤠 [工程效能CI/CD之流水线引擎的建设实践](https://tech.meituan.com/2022/07/14/cicd-pipeline.html) | Thu Jul 14 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    端智能，是指在移动端设备运行人工智能（AI）应用的技术。本文主要讲述大众点评搜索场景下，在端侧部署大规模深度学习模型进行搜索重排序任务的实践方案，包括端上特征工程、模型迭代思路，以及具体部署优化的过程，希望能对从事相关领域开发的同学有所帮助或者启发。 
+    经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。 
     </details> 
 
-- 🚀 [美团综合业务推荐系统的质量模型及实践](https://tech.meituan.com/2022/06/16/recommendation-system-quality-model.html) | Thu Jun 16 2022 12:00 AM 
+- 🚀 [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    推荐系统是效果导向的数据应用服务，在功能的“有”和“无”之间，有很长的效果“好”和“坏”的光谱。本文以用户请求的粒度建立质量模型，通过数据血缘关联了数据表、算法模型、系统服务和用户请求，并结合美团综合业务的实践进行了拓展泛化，希望能对大家有所帮助或启发。 
+    在外卖广告CTR场景下，深度学习模型正在从简单DNN小模型过渡到千亿参数复杂模型。基于该背景，本文将重点针对大规模深度模型在全链路带来的挑战，从在线时延、离线效率两个方面展开，阐述外卖广告在大规模深度模型上的工程实践经验，希望能为读者提供思路上的借鉴。 
     </details> 
 
-- ⚗️ [数据库全量SQL分析与审计系统性能优化之旅](https://tech.meituan.com/2022/06/09/the-route-of-database-get-audit-sql-optimize.html) | Thu Jun 09 2022 12:00 AM 
+- ⚗️ [大众点评搜索相关性技术探索与实践](https://tech.meituan.com/2022/07/06/semantic-relevance-matching.html) | Wed Jul 06 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    全量SQL（所有访问数据库的SQL）可以有效地帮助安全进行数据库审计，帮助业务快速排查性能问题。一般可通过开启genlog日志或者启动MySQL审计插件方式来进行获取，而美团选用了一种非侵入式的旁路抓包方案，使用Go语言实现。无论采用哪种方案，都需要重点关注它对数据库的性能损耗。本文介绍了美团基础研发平台抓包方案在数据库审计实践中遇到的性能问题以及优化实践，希望能对大家有所帮助或启发。 
+    搜索相关性用于衡量Query和Doc的相关程度，是搜索引擎的重要环节，本文主要讲述大众点评搜索团队在相关性计算上的技术探索和实践，通过多相似矩阵模型结构、多阶段训练等方法提升预训练模型在相关性问题上的效果，同时解决基于交互的模型在线预测的性能问题，希望为从事相关工作的同学能够带来一些启发或者帮助。 
     </details> 
 <!-- meituan:END -->
 
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
+- 👺 [盛夏露营，我不怕热不怕蚊子吗？](https://blog.ops-coffee.cn/s/mWYu4bSkSpymtk8opJa-IQ) | Thu Jul 21 2022 9:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    有很多朋友问我，三十几度的天气，你还出去露营，不怕热吗？不怕蚊虫叮咬吗？ 
+    </details> 
+
+- 💯 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    真的喜欢户外的，都是热爱生活的 
+    </details> 
+
+- 🚦 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     夏天户外露营过夜体验 
     </details> 
 
-- 💯 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM 
+- 👨‍🏫 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
     PEP 8 -- Python 代码风格指南 
     </details> 
 
-- 🚦 [半年，再聊房车使用体验](https://blog.ops-coffee.cn/r/half-a-year-RV-experience) | Fri Jun 17 2022 2:11 PM 
+- 🌮 [半年，再聊房车使用体验](https://blog.ops-coffee.cn/r/half-a-year-RV-experience) | Fri Jun 17 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
     大通B型房车使用半年之后谈下使用体验 
-    </details> 
-
-- 👨‍🏫 [多云系统之资源管理](https://blog.ops-coffee.cn/s/cKkFlBZnpLd_IRaC6i8i6A) | Fri Jun 10 2022 5:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    介绍多云系统中同步下来的云上资源如何管理，资源与关系如何建立联接 
-    </details> 
-
-- 🌮 [多云系统之多云配置](https://blog.ops-coffee.cn/s/PL31oUCLMEi3H1_1IMMDRA) | Thu May 26 2022 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    通过多云系统可以隐藏多云异构的资源模型和API差异，让用户就像访问一朵云一样访问多云 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
@@ -202,265 +202,86 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [国内有啥安卓手机支持 wifi calling 吗？](https://www.v2ex.com/t/863754#reply0) | Sun Jul 03 2022 7:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	paygo 的号码到了，但是我的 iPhone 是美版单卡的要用国内的手机号。
-	 
-    </details> 
-
-- 🤗 [项目经理的路在何方呢？](https://www.v2ex.com/t/863751#reply3) | Sun Jul 03 2022 6:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;身在一个互联网荒漠的二线城市的金融类国企，3 年前公司要上系统，因为我还会点 python 搞搞自动化办公，就被抓去当甲方项目经理。&lt;/p&gt;
-&lt;p&gt;后来就这么跌跌撞撞的学会了画原型，写文档，该有的证也都考出来了。对着已有代码复制粘贴能基于 springboot+vue 写点简单的管理页面，自己写的 python 项目也给公司把我的工资赚回来了。&lt;/p&gt;
-&lt;p&gt;带的开发团队也是一团和气，因为业务全条线我都干过，不合理的需求或者变更基本在我这都能改掉或者推出去，安排的任务开发都能高效完成，项目代码质量也不错。&lt;/p&gt;
-&lt;p&gt;直到有一天，我发现本地那些正经的软件公司，应届生跟我工资一样，心态彻底炸了。&lt;/p&gt;
-&lt;p&gt;近期一个项目，领导让我自己去客户驻场帮着写方案，把项目揽回来，然后自己对需求写文档画原型，再招聘一个开发团队把项目做完，最后给他赚回 200 万。我知道，我可能需要换个地方了。&lt;/p&gt;
-&lt;p&gt;所以项目经理的路在何方呢？一个好的项目经理应该是啥样的呢？从来没作为项目经理出去面试过，不知道人家能问啥。技术方面也是一知半解，面试别人时候问的问题我自己都答不上来。&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🎭 [上海国安数据库疑似泄露](https://www.v2ex.com/t/863750#reply5) | Sun Jul 03 2022 6:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;目前国外论坛 breached 发布出售信息，以 10BTC&lpar;20 亿美元&rpar;的价格出售这些数据&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.xyzcdn.net/FpHUZcr-n8C4Jm8D8UZ-zUflXYvg.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;根据卖家描述，其中信息已经超过 24T ，包含十亿公民及十亿病历信息如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;姓名
-出生地
-地址
-身份证号
-手机号码
-所有犯罪 /案件详细信息
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.xyzcdn.net/FsFLr0YL3EmqXo-VsmkXCRj0phnW.png&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;ps：目前所有信息存疑，请继续观望。请不要尝试使用社工库机器人，那反而证明你是个真人。&lt;/h2&gt;
-
-	 
-    </details> 
-
-- 🥷 [请教一个简单的 Golang interface 和 models 组织的问题](https://www.v2ex.com/t/863748#reply4) | Sun Jul 03 2022 5:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	&lt;p&gt;写得比较长，🙏&lt;/p&gt;
-&lt;p&gt;问题是这样的，A 层依赖于 B 层，A 作为使用者想隔离 B 的依赖，定义 interface 的时候该如何设计？&lt;/p&gt;
-&lt;p&gt;比如：controller 层从 JSON 绑定 model ，后续需要调用 service 层的用户处理逻辑&lt;/p&gt;
-&lt;p&gt;代码如下:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-go&quot;&gt;
-// package main
-
-// 构造 user service 实例
-userService := service.NewUserService&lpar;...&rpar;
-
-// userApp 依赖 user service
-userApp := controller.NewUserApp&lpar;userService&rpar;
-
------
-
-// package controller
-type UserApp struct {
-    svc *service.UserService
-}
-
-type User struct {
-    ...
-}
-
-func NewUserApp&lpar;svc *service.UserService&rpar; *UserApp {
-    return &amp;amp;UserApp{svc: svc}
-}
-
-// handler
-func &lpar;app* UserApp&rpar; Add&lpar;c Context&rpar; error {
-    // controller 层绑定 model
-    var user User
-    if err := bindJSON&lpar;c, &amp;amp;user&rpar;; err != nil {
-        return err
-    }
-
-    // model 转换
-    var svcUser service.User
-    toSvcUser&lpar;user, &amp;amp;svcUser&rpar;;
-
-    // 调用 service 逻辑
-    return app.svc.AddUser&lpar;svcUser&rpar;
-}
-
-----
-
-// package service
-type UserService struct {
-    ...
-}
-
-func NewUserService&lpar;...&rpar; *UserService {
-    ...
-}
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这里为了方便测试 controller ，希望把 service 的依赖作为一个接口，变成下面这样：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-go&quot;&gt;
-// package controller
-type IUserService interface {
-    AddUser&lpar;user xxx&rpar; error
-}
-
-type UserApp struct {
-    svc IUserService
-}
-
-func NewUserApp&lpar;svc IUserService&rpar; *UserApp {
-    return &amp;amp;UserApp{svc: svc}
-}
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我的疑问是这里的接口应该是下面的哪一种：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-go&quot;&gt;
-方法 1:
-
-type IUserService interface {
-    // 使用自己包的类型
-    AddUser&lpar;u User&rpar;
-}
-
-方法 2:
-
-type IUserService interface {
-    // 使用依赖包的类型
-    AddUser&lpar;u service.User&rpar;
-}
-
-方法 3:
-
-另开一个 models 包。把类型全塞 models 包里面，controller 层和 service 层都依赖于 models
-这种做法似乎不推荐吗？
-
-https://rakyll.org/style-packages/
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;如果是第一种的话，我是不是还需要在 controller 层加一个 adapter 来适配接口：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-go&quot;&gt;
-// package controller
-type UserServiceAdapter struct {
-    svc *service.UserService
-}
-
-// adapter 实现接口
-func &lpar;adapter *UserServiceAdapter&rpar; AddUser&lpar;user User&rpar; error {
-    // model 转换
-    var svcUser service.User
-    toSvcUser&lpar;user, &amp;amp;svcUser&rpar;;
-
-    // 调用 service 逻辑
-    return adapter.svc.AddUser&lpar;svcUser&rpar;
-}
-
-func NewUserServiceAdapter&lpar;svc *service.UserSvC&rpar; *UserServiceAdapter{
-    return &amp;amp;UserServiceAdapter{ svc: svc }
-}
-
-
-// package
-// 构造 user service 实例
-userService := service.NewUserService&lpar;...&rpar;
-userApp := controller.NewUserApp&lpar;
-    // 创建 adapter ，adapter 满足接口
-    controller.NewUserServiceAdapter&lpar;userService&rpar;
-&rpar;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;相关参考链接：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://tutorialedge.net/golang/accept-interfaces-return-structs/&quot; rel=&quot;nofollow&quot;&gt;https://tutorialedge.net/golang/accept-interfaces-return-structs/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/golang/go/wiki/CodeReviewComments&quot; rel=&quot;nofollow&quot;&gt;https://github.com/golang/go/wiki/CodeReviewComments&lt;/a&gt;&lt;/p&gt;
-
-	 
-    </details> 
-
-- 🐵 [又一炸弹， 23TB 数据。](https://www.v2ex.com/t/863746#reply0) | Sun Jul 03 2022 5:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-	魔都 23TB 数据库被脱&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[img]&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/djtQikl.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/djtQikl.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;[/img]&lt;br /&gt;&lt;br /&gt;[img]&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/9E8lQGT.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/9E8lQGT.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;[/img]
-	 
-    </details> 
-<!-- v2ex:END -->
+- 🥸 [深度学习中位置编码的本质是不是就是一层 nn.Parameter&lpar;&rpar;而已？](https://www.v2ex.com/t/868638#reply0) | Mon Jul 25 2022 11:44 AM
+- 🤗 [请教一下 netty 的 native transports 的使用场景](https://www.v2ex.com/t/868633#reply0) | Mon Jul 25 2022 11:05 AM
+- 🎭 [Windows 上有什么方便的 DNS switcher](https://www.v2ex.com/t/868631#reply1) | Mon Jul 25 2022 10:54 AM
+- 🥷 [大概十个月前删除了一个谷歌账号, 现在又想找回来, 申请找回失败, 还能摘回来吗](https://www.v2ex.com/t/868629#reply4) | Mon Jul 25 2022 10:51 AM
+- 🐵 [make 下遇到的问题，求大佬告知](https://www.v2ex.com/t/868622#reply11) | Mon Jul 25 2022 10:16 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ONNX YOLOv6目标检测、GitHub搜索引擎、AI前沿论文 | ShowMeAI资讯日报 #2022.07.03](https://juejin.cn/post/7116012587929567269) | Sun Jul 03 2022 5:25 AM 
+- 🤗 [建设下一代 Web 开放技术——WebContain](https://juejin.cn/post/7124258386606030855) | Mon Jul 25 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 2022-07-03 期，ONNX YOLOv6目标检测工具、GitHub搜索引擎、实时动画创建工具包、JupyterLab桌面应用、Linux命令参考大全、8篇前沿论文… 
+    基于 Webassembly + QuickJS 的 Web 安全沙箱技术方案，面向 Web 端建设下一代开放技术。 
     </details> 
 
-- 🎡 [Terraform 集成Ansible 实战&lpar;remote&rpar;](https://juejin.cn/post/7115994417516773384) | Sun Jul 03 2022 4:13 AM 
+- 🎡 [人人可参与开源活动正式上线，诚邀您来体验！](https://juejin.cn/post/7124258185145221127) | Mon Jul 25 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 Terraform 和 Ansible 是两个独立的工具，有各自的用途，但它们可以集成以解决典型用例以及它们相互补充的方式，这使得它们更加受欢迎。 一 工具简介 1.1 Terraform 它是 
+    开源是打开未来技术世界的钥匙，为了真正实现「人人都可以参与开源」，龙蜥社区推出开发者激励活动！本次活动无差别面向广大开发者，不管你是第一次接触开源社区的萌新小白，还是驰骋各大开源社区的高手常客，龙蜥社 
     </details> 
 
-- 🕯 [Terraform + Gitlab CI简单集成方案](https://juejin.cn/post/7115993352209694751) | Sun Jul 03 2022 4:10 AM 
+- 🕯 [200 行代码写个贪吃蛇【vue3 + canvas】](https://juejin.cn/post/7124231257076006925) | Mon Jul 25 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-    一 背景 利用Gitlab CI实现基础设施编排自动化，用户后续针对基础设施的管理使用Gitlab完成，提交基础设施变更后，会出发pr进行Gitlab CI流水线执行，从而实现基础设施DevOPS流程 
+    业务代码写烦了？让我们写点有趣的代码吧，周末花几个小时写的 贪吃蛇，vue3, canvas 技术实现... 
     </details> 
 
-- 🚀 [实战Kubernetes Gitlab CI](https://juejin.cn/post/7115992572304031780) | Sun Jul 03 2022 4:06 AM 
+- 🚀 [React组件库Concis,寻求社区有兴趣的小伙伴加入...](https://juejin.cn/post/7124227245975519269) | Mon Jul 25 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
-    一 背景 在目前微服务大行其道的背景下，Gitlab CI集成kubernetes已经是不可或缺的基本操作，我们前几节系统的实战了前后端项目以及物理/K8s混合环境部署，这节课我们来学习Gitlab  
+    React组件库Concis介绍，对组件库接下来的计划、未来的展望以及为什么要寻求队友做出依次介绍，感谢支持。 
     </details> 
 
-- 💪 [来看光影流动之美](https://juejin.cn/post/7115990446311997448) | Sun Jul 03 2022 4:00 AM 
+- 💪 [基于 Flink CDC 实现海量数据的实时同步和转换](https://juejin.cn/post/7124224801933099038) | Mon Jul 25 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    谁说代码就一定是枯燥无趣的？用代码绘制一场变幻的“光影秀”，在光影流动中感受编程之美，让写代码带给我们更多的趣味。 
+    简介： 徐榜江在 5.21 Flink CDC Meetup 的分享。 点击查看直播回放 &amp; 演讲PDF 一、Flink CDC 技术 CDC 是 Change Data Capture 的缩写，是一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [消毒剂选购不完全指南](https://sspai.com/prime/story/disinfectant) | Sun Jul 03 2022 3:55 AM 
+- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/74797) | Mon Jul 25 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-    在这篇文章中，我想带你搞懂日常清洁卫生能用到的消毒剂怎么买怎么用。除了要知道基础的消毒剂分类知识、消毒效果之外，最重要的是一定要了解消毒产品的有效消毒成分含量以及对应的使用配比。另外，还会对比市售消毒剂的浓度差别，帮你在之后选购消毒剂的时候能够找到更合适的那一款。那么就一步一步来吧。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/disinfectant&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/74797&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [大家都说好的蛋白粉，我们应该如何取舍](https://sspai.com/post/74090) | Sat Jul 02 2022 7:00 AM 
+- 🐘 [用 AI 为图片「摘下面纱」，waifu2x 如何拯救你的 macOS 修图体验](https://sspai.com/post/74786) | Mon Jul 25 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
-    声明：本文与任何品牌或产品均无利益相关警示信息：本文中出现的蛋白质摄入量推荐值和推荐高值仅适用于健康人群。目前没有证据表明蛋白粉有明确的副作用，但蛋白质摄入量总体超标有潜在健康风险。某些慢性疾病患者需 ...&lt;a href=&quot;https://sspai.com/post/74090&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    当 macOS 也拥有了好用的 waifu2x 前端，「化腐朽为神奇」也变得更加简单。&lt;a href=&quot;https://sspai.com/post/74786&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [设计、体验都出彩，白板工具的又一选择：Muse](https://sspai.com/post/74009) | Sat Jul 02 2022 4:18 AM 
+- 🤭 [抛弃目标与计划，我发现好好读书并不难](https://sspai.com/post/74767) | Mon Jul 25 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-    在我看来，Muse 是目前唯一一款真正将「白板」概念融入应用设计理念中，并针对性地利用了 iPadOS / macOS 两大平台各自所不同的交互特点 / 优势，使其达到相辅使用体验的工具。&lt;a href=&quot;https://sspai.com/post/74009&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    现在已是七月，又一个半年开始了。我想，要不大家一起浅看一会儿书吧。&lt;a href=&quot;https://sspai.com/post/74767&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [本周看什么丨最近值得一看一大锅作品](https://sspai.com/post/74085) | Fri Jul 01 2022 10:06 AM 
+- 🥸 [为了帮你迈出写作的第一步，我做了这个有趣的应用](https://sspai.com/post/74365) | Mon Jul 25 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[美剧]怪奇物语第四季（下部）、[美剧]西部世界第四季、[动画]大白！、[动画]银河英雄传说、[韩剧]安娜、[动画]RWBY冰雪帝国、[美剧]公寓大楼里的谋杀案第二季、[动 ...&lt;a href=&quot;https://sspai.com/post/74085&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    作为一个每年阅读上万篇各类网络上文章的程序员，也幻想着自己可以把我的人生、经验、幻想和生活写成文章供别人阅读，但是总是面临着「写什么、怎么写、写的不好怎么办」之类的问题，让我将写作这件事一放再放。在2 ...&lt;a href=&quot;https://sspai.com/post/74365&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🙉 [走进小众但不冷门的房车世界](https://sspai.com/post/74043) | Fri Jul 01 2022 8:04 AM 
+- 🙉 [派早报：原 eBay 中国版将于 8 月关闭，抖音发布高频不规范词语清单等](https://sspai.com/post/74770) | Mon Jul 25 2022 12:46 AM 
     <details><summary>展开描述 ...</summary> 
-    一篇文章，看懂房车。&lt;a href=&quot;https://sspai.com/post/74043&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    你可能错过的新鲜事23年历史电商网站易趣网将于八月关闭近日，有23年历史的电商网站易趣网（www.eachnet.com）发布了关闭公告。公告称，由于公司调整运营策略，决定停止易趣网络平台运营，于8月 ...&lt;a href=&quot;https://sspai.com/post/74770&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [大误 · 这两千块是不是你的？](http://daily.zhihu.com/story/9750242) | Sun Jul 03 2022 12:27 AM
-- 🐻 [低筋面粉可以做什么？](http://daily.zhihu.com/story/9750233) | Sun Jul 03 2022 12:27 AM
-- 🌏 [压力越大就越想逃避问题怎么办？](http://daily.zhihu.com/story/9750231) | Sun Jul 03 2022 12:27 AM
-- 🕴 [游戏的打击感从何而来？](http://daily.zhihu.com/story/9750222) | Sun Jul 03 2022 12:27 AM
-- 🌮 [意念减肥是真的吗？](http://daily.zhihu.com/story/9750221) | Sun Jul 03 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [大误 · 如果我能让任何人患上口腔溃疡](http://daily.zhihu.com/story/9751010) | Sun Jul 24 2022 12:27 AM
+- 🐻 [这个世界上有什么动物长得像 P 出来的?](http://daily.zhihu.com/story/9750995) | Sun Jul 24 2022 12:27 AM
+- 🌏 [把还不会说话的婴儿聚到一起，不教他们说话，会产生新的语言吗？](http://daily.zhihu.com/story/9750991) | Sun Jul 24 2022 12:27 AM
+- 🕴 [是所有饮料都冰了更好喝么？「冰」为什么能带来口感提升？](http://daily.zhihu.com/story/9750994) | Sun Jul 24 2022 12:27 AM
+- 🌮 [蜂蜜究竟有没有特殊营养价值？](http://daily.zhihu.com/story/9750989) | Sun Jul 24 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [华天酒店：控股股东拟筹划战略重组](http://www.techweb.com.cn/it/2022-07-03/2896655.shtml) | Sun Jul 03 2022 6:43 AM
-- 👹 [美的集团：已耗资11.88亿元回购2158万股](http://www.techweb.com.cn/it/2022-07-03/2896654.shtml) | Sun Jul 03 2022 6:40 AM
-- 🪜 [趣店罗敏再追预制菜风口 这次能否自救翻身](http://www.techweb.com.cn/it/2022-07-03/2896651.shtml) | Sun Jul 03 2022 6:30 AM
-- 🤭 [特斯拉：在中国大陆已建设开放1200多座超级充电站](http://www.techweb.com.cn/it/2022-07-03/2896648.shtml) | Sun Jul 03 2022 6:02 AM
-- 🙉 [钟薛高回应“雪糕1小时不化”：不存在不融化的雪糕 使用极少量食品乳化增稠剂](http://www.techweb.com.cn/it/2022-07-03/2896637.shtml) | Sun Jul 03 2022 1:34 AM<!-- techweb-allnews:END -->
+- 👍 [保时捷CFO称公司电动汽车利润率未来两年达到燃油车同等水平](http://www.techweb.com.cn/world/2022-07-25/2899319.shtml) | Mon Jul 25 2022 10:00 AM
+- 👹 [瞰瞰智能超募完成A1轮近亿元融资](http://www.techweb.com.cn/finance/2022-07-25/2899300.shtml) | Mon Jul 25 2022 9:25 AM
+- 🪜 [京东发布《2022进口消费趋势报告》：进口品牌商品数量同比增长51%](http://www.techweb.com.cn/it/2022-07-25/2899294.shtml) | Mon Jul 25 2022 9:14 AM
+- 🤭 [特斯拉柏林超级工厂已生产首辆4680电池Model Y 但只会用于测试](http://www.techweb.com.cn/world/2022-07-25/2899290.shtml) | Mon Jul 25 2022 8:58 AM
+- 🙉 [环球晶圆称芯片制造商对硅晶圆需求依旧强劲 客户尚未修改长期合同](http://www.techweb.com.cn/world/2022-07-25/2899230.shtml) | Mon Jul 25 2022 8:38 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
