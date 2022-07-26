@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [尤雨溪解读2022 Web前端生态趋势](https://juejin.cn/post/7124551017382805518) | Tue Jul 26 2022 5:37 AM 
+- 🤗 [Redis 5 种基本数据结构（String、List、Hash、Set、Sorted Set）详解 | JavaGuide](https://juejin.cn/post/7124572920403197965) | Tue Jul 26 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-    尤大大从三个前端领域的不同层次对2022 Web前端生态趋势展开了介绍，大神视角，干货满满，各位伙伴快来饱享这顿美味吧！ 
+    Redis 5 种基本数据结构（String、List、Hash、Set、Sorted Set）在面试中经常会被问到，这篇文章我们一起来回顾温习一下。 还有几种比较特殊的数据结构（HyperLogLo 
     </details> 
 
-- 🎡 [插件化系列之解决 so 加载异常的问题](https://juejin.cn/post/7124519307651842078) | Tue Jul 26 2022 3:33 AM 
+- 🎡 [PM 求职 | 疫情之下的裁员浪潮，7点建议让你在面试中脱颖而出](https://juejin.cn/post/7124572324950441992) | Tue Jul 26 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇：【插件化系列之解决资源加载异常的问题】 背景 解决完资源加载报错的问题后，Unity 开发人员（简称 CP&rpar;又给我们反馈了另外一个问题 一、问题筛选过程 这个游戏采用的是 android.ap 
+    知名大厂裁员，社招名额收缩，疫情之下找工作愈发艰难，即使收到面试邀请，0-3年的产品经理也常因为面试经验不足，最终和心仪的工作失之交臂。其实，并不是你无法胜任这份工作，而是没有在有限的时间内展现积极的 
     </details> 
 
-- 🕯 [【Unity3D开发小游戏】Unity3D零基础一步一步教你制作跑酷类游戏](https://juejin.cn/post/7124503132935028750) | Tue Jul 26 2022 2:31 AM 
+- 🕯 [HTTP Cache兔子都能懂的浏览器缓存](https://juejin.cn/post/7124571292283437093) | Tue Jul 26 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-    最近跑酷游戏比较流行，开发教程也很多，但是大部分都是不太详细，这篇文章就带着大家一步一步开发出来一个跑酷类的游戏，教程比较基础，适合大部分Unity开发的初学者。 还有就是，此专栏已经开通收 
+    Caching &amp; Networking Caching的来源 现在的网页架构已经复杂了许多，大部分资料的抓取过程都会产生许多request请求去取得response，而当这样的请求一多，就会对服务器 
     </details> 
 
-- 🚀 [【Unity3D日常开发】Unity3d中使用MVC框架](https://juejin.cn/post/7124502619346698276) | Tue Jul 26 2022 2:28 AM 
+- 🚀 [敏捷开发与DevOps的对比](https://juejin.cn/post/7124566934045065223) | Tue Jul 26 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-    MVC是一种比较常见的设计框架，是一种将代码的功能进行划分的一种设计框架，主要原理就是将软件用户界面和业务逻辑分离，以使代码可扩展性、可复用性、可维护性、灵活性加强。 MVC在桌面应用程序， 
+    敏捷开发与DevOps的区别 敏捷与 DevOps 之间的主要区别在于：敏捷是关于如何开发和交付软件的哲学，而 DevOps 则描述了如何通过使用现代工具和自动化流程来持续部署代码。 
     </details> 
 
-- 💪 [字节开源WEB框架Hertz太香啦！](https://juejin.cn/post/7124337913352945672) | Mon Jul 25 2022 3:50 PM 
+- 💪 [详解异步任务 | 看 Serverless Task 如何解决任务调度&amp;可观测性中的问题](https://juejin.cn/post/7124562575865413645) | Tue Jul 26 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-    安装Hertz命令行工具 请确保您的Go版本在1.15及以上版本，笔者用的版本是1.18 配置好GO的环境后，按照Hertz的命名行工具 验证Hertz工具是否安装成功，执行下面指令 对应的输出her 
+    简介： 本篇我们将会进一步走进函数计算异步任务，介绍异步任务的调度方案以及系统在可观测性方面所支持的各项功能。 在上篇文章《解密函数计算异步任务能力之「任务的状态及生命周期管理」》中，我们介绍了任务系 
     </details> 
 <!-- juejin:END -->
 ### 少数派
