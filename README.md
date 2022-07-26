@@ -205,7 +205,7 @@
 - 🥸 [在 golang 中，怎么判断一个 socket 连接是否关闭？](https://www.v2ex.com/t/868923#reply2) | Tue Jul 26 2022 6:22 PM
 - 🤗 [淘好玩的数码周边](https://www.v2ex.com/t/868917#reply0) | Tue Jul 26 2022 5:01 PM
 - 🎭 [史上最强爬虫辅助之一 &lpar;两秒抓包/DNS 中间人/自动化/集成 Frida,IDA&rpar;](https://www.v2ex.com/t/868916#reply0) | Tue Jul 26 2022 4:25 PM
-- 🥷 [⚛️ React 开发最佳实践](https://www.v2ex.com/t/868907#reply12) | Tue Jul 26 2022 3:00 PM
+- 🥷 [⚛️ React 开发最佳实践](https://www.v2ex.com/t/868907#reply13) | Tue Jul 26 2022 3:00 PM
 - 🐵 [现在测试工程师需要什么技能呀！](https://www.v2ex.com/t/868905#reply7) | Tue Jul 26 2022 2:55 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
