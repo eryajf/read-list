@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [Facebook推视频收入分成功能 创作者可获20% 分成](http://www.techweb.com.cn/world/2022-07-26/2899463.shtml) | Tue Jul 26 2022 6:34 AM
-- 👹 [一边砍单降价、一边缺货涨价，芯片行业上演冰火两重天](http://www.techweb.com.cn/internet/2022-07-26/2899455.shtml) | Tue Jul 26 2022 5:59 AM
-- 🪜 [特斯拉承认收到SEC第二份传票 与马斯克2018年发布私有化推文有关](http://www.techweb.com.cn/world/2022-07-26/2899447.shtml) | Tue Jul 26 2022 4:44 AM
-- 🤭 [美国能源部将向通用汽车和LG电池合资企业提供25亿美元贷款](http://www.techweb.com.cn/world/2022-07-26/2899444.shtml) | Tue Jul 26 2022 4:08 AM
-- 🙉 [特斯拉联合创始人所创公司计划投资35亿美元 建电池材料工厂](http://www.techweb.com.cn/world/2022-07-26/2899443.shtml) | Tue Jul 26 2022 4:07 AM<!-- techweb-allnews:END -->
+- 👍 [法拉第未来推迟至今年Q3或Q4生产和交付FF 91电动汽车](http://www.techweb.com.cn/world/2022-07-26/2899473.shtml) | Tue Jul 26 2022 7:35 AM
+- 👹 [谷歌和微软等公司纷纷开始在日本注册全球总部来规避罚款](http://www.techweb.com.cn/world/2022-07-26/2899472.shtml) | Tue Jul 26 2022 7:31 AM
+- 🪜 [Facebook推视频收入分成功能 创作者可获20% 分成](http://www.techweb.com.cn/world/2022-07-26/2899463.shtml) | Tue Jul 26 2022 6:34 AM
+- 🤭 [一边砍单降价、一边缺货涨价，芯片行业上演冰火两重天](http://www.techweb.com.cn/internet/2022-07-26/2899455.shtml) | Tue Jul 26 2022 5:59 AM
+- 🙉 [特斯拉承认收到SEC第二份传票 与马斯克2018年发布私有化推文有关](http://www.techweb.com.cn/world/2022-07-26/2899447.shtml) | Tue Jul 26 2022 4:44 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
