@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [“魏”的代价](http://www.techweb.com.cn/viewpoint/2022-07-26/2899428.shtml) | Tue Jul 26 2022 3:21 AM
-- 👹 [威马推新能源充电桩“私桩共享”模式 私桩也能赚钱](http://www.techweb.com.cn/smarttraveling/2022-07-26/2899419.shtml) | Tue Jul 26 2022 3:09 AM
-- 🪜 [特斯拉拟增加10亿美元资本支出 以提高德州和柏林两家新工厂产量](http://www.techweb.com.cn/world/2022-07-26/2899412.shtml) | Tue Jul 26 2022 2:56 AM
-- 🤭 [大厂云业务调整，新一轮战争转向](http://www.techweb.com.cn/viewpoint/2022-07-26/2899411.shtml) | Tue Jul 26 2022 2:52 AM
-- 🙉 [商汤的另一面](http://www.techweb.com.cn/viewpoint/2022-07-26/2899408.shtml) | Tue Jul 26 2022 2:42 AM<!-- techweb-allnews:END -->
+- 👍 [美国能源部将向通用汽车和LG电池合资企业提供25亿美元贷款](http://www.techweb.com.cn/world/2022-07-26/2899444.shtml) | Tue Jul 26 2022 4:08 AM
+- 👹 [特斯拉联合创始人所创公司计划投资35亿美元 建电池材料工厂](http://www.techweb.com.cn/world/2022-07-26/2899443.shtml) | Tue Jul 26 2022 4:07 AM
+- 🪜 [“魏”的代价](http://www.techweb.com.cn/viewpoint/2022-07-26/2899428.shtml) | Tue Jul 26 2022 3:21 AM
+- 🤭 [威马推新能源充电桩“私桩共享”模式 私桩也能赚钱](http://www.techweb.com.cn/smarttraveling/2022-07-26/2899419.shtml) | Tue Jul 26 2022 3:09 AM
+- 🙉 [特斯拉拟增加10亿美元资本支出 以提高德州和柏林两家新工厂产量](http://www.techweb.com.cn/world/2022-07-26/2899412.shtml) | Tue Jul 26 2022 2:56 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
