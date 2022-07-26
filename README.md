@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [大误 · 如果我能让任何人患上口腔溃疡](http://daily.zhihu.com/story/9751010) | Sun Jul 24 2022 12:27 AM
-- 🐻 [这个世界上有什么动物长得像 P 出来的?](http://daily.zhihu.com/story/9750995) | Sun Jul 24 2022 12:27 AM
-- 🌏 [把还不会说话的婴儿聚到一起，不教他们说话，会产生新的语言吗？](http://daily.zhihu.com/story/9750991) | Sun Jul 24 2022 12:27 AM
-- 🕴 [是所有饮料都冰了更好喝么？「冰」为什么能带来口感提升？](http://daily.zhihu.com/story/9750994) | Sun Jul 24 2022 12:27 AM
-- 🌮 [蜂蜜究竟有没有特殊营养价值？](http://daily.zhihu.com/story/9750989) | Sun Jul 24 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751045) | Tue Jul 26 2022 12:27 AM
+- 🐻 [有哪些外行觉得丑但其实很厉害的画？](http://daily.zhihu.com/story/9751019) | Tue Jul 26 2022 12:27 AM
+- 🌏 [法院电话为何那么难打，法院接线员真的有那么忙吗？](http://daily.zhihu.com/story/9751022) | Tue Jul 26 2022 12:27 AM
+- 🕴 [我们当今的人工智能体系能够达到动物的智能水平吗？或者说我们能用人工智能模拟动物吗？](http://daily.zhihu.com/story/9751027) | Tue Jul 26 2022 12:27 AM
+- 🌮 [谈论和描绘屎尿屁感觉是一种娱乐，那么可以是一种艺术吗？](http://daily.zhihu.com/story/9751048) | Tue Jul 26 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
