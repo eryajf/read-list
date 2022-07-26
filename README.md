@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [保时捷CFO称公司电动汽车利润率未来两年达到燃油车同等水平](http://www.techweb.com.cn/world/2022-07-25/2899319.shtml) | Mon Jul 25 2022 10:00 AM
-- 👹 [瞰瞰智能超募完成A1轮近亿元融资](http://www.techweb.com.cn/finance/2022-07-25/2899300.shtml) | Mon Jul 25 2022 9:25 AM
-- 🪜 [京东发布《2022进口消费趋势报告》：进口品牌商品数量同比增长51%](http://www.techweb.com.cn/it/2022-07-25/2899294.shtml) | Mon Jul 25 2022 9:14 AM
-- 🤭 [特斯拉柏林超级工厂已生产首辆4680电池Model Y 但只会用于测试](http://www.techweb.com.cn/world/2022-07-25/2899290.shtml) | Mon Jul 25 2022 8:58 AM
-- 🙉 [环球晶圆称芯片制造商对硅晶圆需求依旧强劲 客户尚未修改长期合同](http://www.techweb.com.cn/world/2022-07-25/2899230.shtml) | Mon Jul 25 2022 8:38 AM<!-- techweb-allnews:END -->
+- 👍 [TCL科技：非公开发行股票申请获得证监会审核通过](http://www.techweb.com.cn/it/2022-07-26/2899355.shtml) | Tue Jul 26 2022 1:16 AM
+- 👹 [阿里巴巴发布2022财年年报：全球年度活跃消费者约13.1亿](http://www.techweb.com.cn/it/2022-07-26/2899351.shtml) | Tue Jul 26 2022 1:12 AM
+- 🪜 [阿里巴巴将申请香港为主要上市地 预计2022年底前生效](http://www.techweb.com.cn/it/2022-07-26/2899345.shtml) | Tue Jul 26 2022 1:03 AM
+- 🤭 [保时捷CFO称公司电动汽车利润率未来两年达到燃油车同等水平](http://www.techweb.com.cn/world/2022-07-25/2899319.shtml) | Mon Jul 25 2022 10:00 AM
+- 🙉 [瞰瞰智能超募完成A1轮近亿元融资](http://www.techweb.com.cn/finance/2022-07-25/2899300.shtml) | Mon Jul 25 2022 9:25 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
