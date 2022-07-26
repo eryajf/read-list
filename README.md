@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [现代佐治亚州电动汽车及电池工厂将获得18亿美元补贴](http://www.techweb.com.cn/world/2022-07-26/2899475.shtml) | Tue Jul 26 2022 8:07 AM
-- 👹 [三星3nm技术真的超过了台积电吗？](http://www.techweb.com.cn/internet/2022-07-26/2899474.shtml) | Tue Jul 26 2022 8:06 AM
-- 🪜 [法拉第未来推迟至今年Q3或Q4生产和交付FF 91电动汽车](http://www.techweb.com.cn/world/2022-07-26/2899473.shtml) | Tue Jul 26 2022 7:35 AM
-- 🤭 [谷歌和微软等公司纷纷开始在日本注册全球总部来规避罚款](http://www.techweb.com.cn/world/2022-07-26/2899472.shtml) | Tue Jul 26 2022 7:31 AM
-- 🙉 [Facebook推视频收入分成功能 创作者可获20% 分成](http://www.techweb.com.cn/world/2022-07-26/2899463.shtml) | Tue Jul 26 2022 6:34 AM<!-- techweb-allnews:END -->
+- 👍 [当MCN不再隐匿：名字都摆那儿了，有事直接找他们](http://www.techweb.com.cn/viewpoint/2022-07-26/2899491.shtml) | Tue Jul 26 2022 9:51 AM
+- 👹 [韩国三大电池厂商北美建厂将获得至少2.1万亿韩元补贴 LG新能源占近一半](http://www.techweb.com.cn/world/2022-07-26/2899490.shtml) | Tue Jul 26 2022 9:42 AM
+- 🪜 [外媒：苹果、谷歌等美国及科技巨头购买非法开采的巴西黄金](http://www.techweb.com.cn/world/2022-07-26/2899483.shtml) | Tue Jul 26 2022 9:25 AM
+- 🤭 [全球自动驾驶竞赛：百度“开车”，谷歌“失灵”](http://www.techweb.com.cn/viewpoint/2022-07-26/2899482.shtml) | Tue Jul 26 2022 9:23 AM
+- 🙉 [自2000年以来苹果申请并公布汽车相关专利248项](http://www.techweb.com.cn/world/2022-07-26/2899480.shtml) | Tue Jul 26 2022 8:58 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
