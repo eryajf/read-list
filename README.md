@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [TCL科技：非公开发行股票申请获得证监会审核通过](http://www.techweb.com.cn/it/2022-07-26/2899355.shtml) | Tue Jul 26 2022 1:16 AM
-- 👹 [阿里巴巴发布2022财年年报：全球年度活跃消费者约13.1亿](http://www.techweb.com.cn/it/2022-07-26/2899351.shtml) | Tue Jul 26 2022 1:12 AM
-- 🪜 [阿里巴巴将申请香港为主要上市地 预计2022年底前生效](http://www.techweb.com.cn/it/2022-07-26/2899345.shtml) | Tue Jul 26 2022 1:03 AM
-- 🤭 [保时捷CFO称公司电动汽车利润率未来两年达到燃油车同等水平](http://www.techweb.com.cn/world/2022-07-25/2899319.shtml) | Mon Jul 25 2022 10:00 AM
-- 🙉 [瞰瞰智能超募完成A1轮近亿元融资](http://www.techweb.com.cn/finance/2022-07-25/2899300.shtml) | Mon Jul 25 2022 9:25 AM<!-- techweb-allnews:END -->
+- 👍 [“魏”的代价](http://www.techweb.com.cn/viewpoint/2022-07-26/2899428.shtml) | Tue Jul 26 2022 3:21 AM
+- 👹 [威马推新能源充电桩“私桩共享”模式 私桩也能赚钱](http://www.techweb.com.cn/smarttraveling/2022-07-26/2899419.shtml) | Tue Jul 26 2022 3:09 AM
+- 🪜 [特斯拉拟增加10亿美元资本支出 以提高德州和柏林两家新工厂产量](http://www.techweb.com.cn/world/2022-07-26/2899412.shtml) | Tue Jul 26 2022 2:56 AM
+- 🤭 [大厂云业务调整，新一轮战争转向](http://www.techweb.com.cn/viewpoint/2022-07-26/2899411.shtml) | Tue Jul 26 2022 2:52 AM
+- 🙉 [商汤的另一面](http://www.techweb.com.cn/viewpoint/2022-07-26/2899408.shtml) | Tue Jul 26 2022 2:42 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
