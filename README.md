@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教 Ubuntu 系统做代理服务器遇到的问题](https://www.v2ex.com/t/868689#reply5) | Tue Jul 26 2022 12:43 AM
-- 🤗 [个人开源项目推广平台汇总整理](https://www.v2ex.com/t/868684#reply4) | Tue Jul 26 2022 12:16 AM
-- 🎭 [Java 项目如何做代码风格的统一管理](https://www.v2ex.com/t/868683#reply15) | Tue Jul 26 2022 12:06 AM
-- 🥷 [有啥反向代理的方案可以反代 study.163.com 吗？](https://www.v2ex.com/t/868682#reply7) | Mon Jul 25 2022 11:53 PM
-- 🐵 [为什么使用 https 调用 API 仍然推荐需要使用 key 来签名](https://www.v2ex.com/t/868678#reply11) | Mon Jul 25 2022 9:55 PM<!-- v2ex:END -->
+- 🥸 [对于需要判断条件的查询，是在 service 中判断还是直接用动态 SQL？](https://www.v2ex.com/t/868753#reply0) | Tue Jul 26 2022 4:04 AM
+- 🤗 [如果搜索引擎爬到的内容和实际用户打开的内容展示有出入，会有什么问题么](https://www.v2ex.com/t/868736#reply0) | Tue Jul 26 2022 3:08 AM
+- 🎭 [自动化测试方案求推荐？](https://www.v2ex.com/t/868734#reply5) | Tue Jul 26 2022 2:52 AM
+- 🥷 [[收集] Java 程序，生产环境还有用 winServer 的吗](https://www.v2ex.com/t/868724#reply6) | Tue Jul 26 2022 2:32 AM
+- 🐵 [求助： mariabackup 备份报错 Error: cannot process redo log before MariaDB 10.8](https://www.v2ex.com/t/868719#reply0) | Tue Jul 26 2022 2:23 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
