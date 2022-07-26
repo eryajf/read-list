@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [国产安卓电视禁止安装第三方 launcher，如何绕过？](https://www.v2ex.com/t/868759#reply9) | Tue Jul 26 2022 4:32 AM
-- 🤗 [对于需要判断条件的查询，是在 service 中判断还是直接用动态 SQL？](https://www.v2ex.com/t/868753#reply2) | Tue Jul 26 2022 4:04 AM
-- 🎭 [如果搜索引擎爬到的内容和实际用户打开的内容展示有出入，会有什么问题么](https://www.v2ex.com/t/868736#reply0) | Tue Jul 26 2022 3:08 AM
-- 🥷 [自动化测试方案求推荐？](https://www.v2ex.com/t/868734#reply5) | Tue Jul 26 2022 2:52 AM
-- 🐵 [[收集] Java 程序，生产环境还有用 winServer 的吗](https://www.v2ex.com/t/868724#reply7) | Tue Jul 26 2022 2:32 AM<!-- v2ex:END -->
+- 🥸 [带新人心累，你们都是怎么带新手程序员的（特指刚毕业的孩子），求支招](https://www.v2ex.com/t/868776#reply19) | Tue Jul 26 2022 5:53 AM
+- 🤗 [国产安卓电视禁止安装第三方 launcher，如何绕过？](https://www.v2ex.com/t/868759#reply13) | Tue Jul 26 2022 4:32 AM
+- 🎭 [对于需要判断条件的查询，是在 service 中判断还是直接用动态 SQL？](https://www.v2ex.com/t/868753#reply2) | Tue Jul 26 2022 4:04 AM
+- 🥷 [如果搜索引擎爬到的内容和实际用户打开的内容展示有出入，会有什么问题么](https://www.v2ex.com/t/868736#reply0) | Tue Jul 26 2022 3:08 AM
+- 🐵 [自动化测试方案求推荐？](https://www.v2ex.com/t/868734#reply5) | Tue Jul 26 2022 2:52 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
