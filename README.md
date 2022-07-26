@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [rn 写 app 现在麻烦吗？](https://www.v2ex.com/t/868816#reply0) | Tue Jul 26 2022 8:21 AM
-- 🤗 [培养管理型人才心累，你们都是怎么培养技术下属的管理能力的，（特指刚承担一点管理职能的孩子），求支招](https://www.v2ex.com/t/868808#reply4) | Tue Jul 26 2022 7:44 AM
-- 🎭 [求助一下关于 react 更新 list 的一个疑问。](https://www.v2ex.com/t/868807#reply6) | Tue Jul 26 2022 7:43 AM
-- 🥷 [以后安装一个软件是不是可以直接用 docker 啊](https://www.v2ex.com/t/868799#reply19) | Tue Jul 26 2022 7:08 AM
-- 🐵 [阿里云 app 是用什么开发的，感觉不是原生，但很流畅](https://www.v2ex.com/t/868794#reply0) | Tue Jul 26 2022 6:53 AM<!-- v2ex:END -->
+- 🥸 [小米为啥用飞书而不是 WPS？](https://www.v2ex.com/t/868833#reply5) | Tue Jul 26 2022 9:06 AM
+- 🤗 [为什么 Xftp 上传速度很慢？](https://www.v2ex.com/t/868831#reply1) | Tue Jul 26 2022 9:05 AM
+- 🎭 [看 pip 的启动脚本看得我人都傻了，还能把 shell 和 py 揉到一起写](https://www.v2ex.com/t/868827#reply5) | Tue Jul 26 2022 8:58 AM
+- 🥷 [gpgtar 有没有办法可以不手动输入解压密码?](https://www.v2ex.com/t/868826#reply0) | Tue Jul 26 2022 8:48 AM
+- 🐵 [老哥们 NAS 上的电影都是怎么备份的？顺便郑州本地出惠普 N54L](https://www.v2ex.com/t/868819#reply2) | Tue Jul 26 2022 8:22 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
