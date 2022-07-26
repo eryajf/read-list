@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Redis 5 种基本数据结构（String、List、Hash、Set、Sorted Set）详解 | JavaGuide](https://juejin.cn/post/7124572920403197965) | Tue Jul 26 2022 7:01 AM 
+- 🤗 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://juejin.cn/post/7124598140312748063) | Tue Jul 26 2022 8:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Redis 5 种基本数据结构（String、List、Hash、Set、Sorted Set）在面试中经常会被问到，这篇文章我们一起来回顾温习一下。 还有几种比较特殊的数据结构（HyperLogLo 
+    今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。 
     </details> 
 
-- 🎡 [PM 求职 | 疫情之下的裁员浪潮，7点建议让你在面试中脱颖而出](https://juejin.cn/post/7124572324950441992) | Tue Jul 26 2022 6:59 AM 
+- 🎡 [leetcode  2347. Best Poker Hand（python）](https://juejin.cn/post/7124596986153533454) | Tue Jul 26 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    知名大厂裁员，社招名额收缩，疫情之下找工作愈发艰难，即使收到面试邀请，0-3年的产品经理也常因为面试经验不足，最终和心仪的工作失之交臂。其实，并不是你无法胜任这份工作，而是没有在有限的时间内展现积极的 
+    这是 Biweekly Contest 83的第一题，难度 Eazy ，主要考查的是对题目的理解和计数器的使用 
     </details> 
 
-- 🕯 [HTTP Cache兔子都能懂的浏览器缓存](https://juejin.cn/post/7124571292283437093) | Tue Jul 26 2022 6:55 AM 
+- 🕯 [leetcode  2348. Number of Zero-Filled Subarrays（python）](https://juejin.cn/post/7124596842028875784) | Tue Jul 26 2022 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-    Caching &amp; Networking Caching的来源 现在的网页架构已经复杂了许多，大部分资料的抓取过程都会产生许多request请求去取得response，而当这样的请求一多，就会对服务器 
+    这是 Biweekly Contest 83的第二题，难度 Medium ，主要考查的是统计全 0 子数组的个数 
     </details> 
 
-- 🚀 [敏捷开发与DevOps的对比](https://juejin.cn/post/7124566934045065223) | Tue Jul 26 2022 6:39 AM 
+- 🚀 [2022 云原生编程挑战赛火热报名中！看导师如何拆解 Serverless 赛题？](https://juejin.cn/post/7124594808772886559) | Tue Jul 26 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    敏捷开发与DevOps的区别 敏捷与 DevOps 之间的主要区别在于：敏捷是关于如何开发和交付软件的哲学，而 DevOps 则描述了如何通过使用现代工具和自动化流程来持续部署代码。 
+    大赛介绍 2022 第三届云原生编程挑战赛，是由阿里云、Intel 主办，云原生应用平台、天池联合承办的云原生顶级品牌赛事。 自 2015 年开始，大赛已经成功举办了七届，并从 2020 年开始升级为 
     </details> 
 
-- 💪 [详解异步任务 | 看 Serverless Task 如何解决任务调度&amp;可观测性中的问题](https://juejin.cn/post/7124562575865413645) | Tue Jul 26 2022 6:21 AM 
+- 💪 [技术风向标 | 云原生技术架构成熟度模型解读](https://juejin.cn/post/7124584720444162084) | Tue Jul 26 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-    简介： 本篇我们将会进一步走进函数计算异步任务，介绍异步任务的调度方案以及系统在可观测性方面所支持的各项功能。 在上篇文章《解密函数计算异步任务能力之「任务的状态及生命周期管理」》中，我们介绍了任务系 
+    7 月 18 日（周一）14:00 ，阿里云技术专家将做客直播间，为企业和开发者深度解读云原生技术架构成熟度模型，并介绍云原生架构安全水平，点击下方卡片，立即预约直播～ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
