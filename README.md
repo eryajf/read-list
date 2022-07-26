@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [美国能源部将向通用汽车和LG电池合资企业提供25亿美元贷款](http://www.techweb.com.cn/world/2022-07-26/2899444.shtml) | Tue Jul 26 2022 4:08 AM
-- 👹 [特斯拉联合创始人所创公司计划投资35亿美元 建电池材料工厂](http://www.techweb.com.cn/world/2022-07-26/2899443.shtml) | Tue Jul 26 2022 4:07 AM
-- 🪜 [“魏”的代价](http://www.techweb.com.cn/viewpoint/2022-07-26/2899428.shtml) | Tue Jul 26 2022 3:21 AM
-- 🤭 [威马推新能源充电桩“私桩共享”模式 私桩也能赚钱](http://www.techweb.com.cn/smarttraveling/2022-07-26/2899419.shtml) | Tue Jul 26 2022 3:09 AM
-- 🙉 [特斯拉拟增加10亿美元资本支出 以提高德州和柏林两家新工厂产量](http://www.techweb.com.cn/world/2022-07-26/2899412.shtml) | Tue Jul 26 2022 2:56 AM<!-- techweb-allnews:END -->
+- 👍 [Facebook推视频收入分成功能 创作者可获20% 分成](http://www.techweb.com.cn/world/2022-07-26/2899463.shtml) | Tue Jul 26 2022 6:34 AM
+- 👹 [一边砍单降价、一边缺货涨价，芯片行业上演冰火两重天](http://www.techweb.com.cn/internet/2022-07-26/2899455.shtml) | Tue Jul 26 2022 5:59 AM
+- 🪜 [特斯拉承认收到SEC第二份传票 与马斯克2018年发布私有化推文有关](http://www.techweb.com.cn/world/2022-07-26/2899447.shtml) | Tue Jul 26 2022 4:44 AM
+- 🤭 [美国能源部将向通用汽车和LG电池合资企业提供25亿美元贷款](http://www.techweb.com.cn/world/2022-07-26/2899444.shtml) | Tue Jul 26 2022 4:08 AM
+- 🙉 [特斯拉联合创始人所创公司计划投资35亿美元 建电池材料工厂](http://www.techweb.com.cn/world/2022-07-26/2899443.shtml) | Tue Jul 26 2022 4:07 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
