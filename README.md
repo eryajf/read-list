@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：Apple 中国即将开始官网优惠活动、推特 500 多万个账号信息被泄露等](https://sspai.com/post/74801) | Tue Jul 26 2022 12:58 AM 
+- 👹 [具透 | 下个 Android 大版本更新，Google 想为你「众筹」一套图标包](https://sspai.com/post/74800) | Tue Jul 26 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    Google 从自适应图标开始就想组建一套广泛适用的规则图标包，主题图标的推出又为这套图标包带来了千人千面的色彩风格。但这个图标包究竟能够覆盖多少应用，还是取决于有多少感兴趣的开发者愿意参与「众筹」。&lt;a href=&quot;https://sspai.com/post/74800&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：Apple 中国即将开始官网优惠活动、推特 500 多万个账号信息被泄露等](https://sspai.com/post/74801) | Tue Jul 26 2022 12:58 AM 
     <details><summary>展开描述 ...</summary> 
     抖音将治理 MCN 机构内容乱象，创维发布 PANCAKE 1 6DoF VR 一体机等。&lt;a href=&quot;https://sspai.com/post/74801&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派评 | 近期值得关注的 App](https://sspai.com/post/74797) | Mon Jul 25 2022 9:50 AM 
+- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/74797) | Mon Jul 25 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/74797&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [用 AI 为图片「摘下面纱」，waifu2x 如何拯救你的 macOS 修图体验](https://sspai.com/post/74786) | Mon Jul 25 2022 8:29 AM 
+- 🥸 [用 AI 为图片「摘下面纱」，waifu2x 如何拯救你的 macOS 修图体验](https://sspai.com/post/74786) | Mon Jul 25 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
     当 macOS 也拥有了好用的 waifu2x 前端，「化腐朽为神奇」也变得更加简单。&lt;a href=&quot;https://sspai.com/post/74786&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [抛弃目标与计划，我发现好好读书并不难](https://sspai.com/post/74767) | Mon Jul 25 2022 6:49 AM 
+- 🙉 [抛弃目标与计划，我发现好好读书并不难](https://sspai.com/post/74767) | Mon Jul 25 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
     现在已是七月，又一个半年开始了。我想，要不大家一起浅看一会儿书吧。&lt;a href=&quot;https://sspai.com/post/74767&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [为了帮你迈出写作的第一步，我做了这个有趣的应用](https://sspai.com/post/74365) | Mon Jul 25 2022 3:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为一个每年阅读上万篇各类网络上文章的程序员，也幻想着自己可以把我的人生、经验、幻想和生活写成文章供别人阅读，但是总是面临着「写什么、怎么写、写的不好怎么办」之类的问题，让我将写作这件事一放再放。在2 ...&lt;a href=&quot;https://sspai.com/post/74365&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
