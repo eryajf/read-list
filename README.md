@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://juejin.cn/post/7124598140312748063) | Tue Jul 26 2022 8:39 AM 
+- 🤗 [CVPR 2022 | 网络中批处理归一化估计偏移的深入研究](https://juejin.cn/post/7124608206348746759) | Tue Jul 26 2022 9:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    批归一化&lpar;BN&rpar;是深度学习中的一项重要技术。在训练过程中使用小批量统计量对激活进行规范化，而在推理过程中使用估计的总体统计量进行规范化。 
+    </details> 
+
+- 🎡 [菜鸟 CPaaS 平台微服务治理实践](https://juejin.cn/post/7124606292181647390) | Tue Jul 26 2022 9:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    在使用 MSE 的云产品之后，对 PaaS 平台层来说，避免很多重复功能的建设。在我们业务侧实际落地的远不止如上列举的场景，比如：服务优雅停机、注册中心等能力，均解决了业务侧的微服务治理上的难点问题。 
+    </details> 
+
+- 🕯 [你能给前端工程化下个定义么？](https://juejin.cn/post/7124601707702517797) | Tue Jul 26 2022 8:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    作为前端工程师，前端工程化是经常听到的概念，但虽然经常听到，很多人对它的认识依然很模糊。 比如，提到前端工程化，他并不能说出什么是前端工程化。给出一门具体的技术，他也不能确定是不是属于工程化范畴的技术 
+    </details> 
+
+- 🚀 [可视化全链路日志追踪](https://juejin.cn/post/7124598702307541023) | Tue Jul 26 2022 8:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文介绍了可视化全链路日志追踪的新方案，它以业务链路为载体，通过有效组织业务每次执行的日志，实现了执行现场的可视化还原，支持问题的高效定位。 
+    </details> 
+
+- 💪 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://juejin.cn/post/7124598140312748063) | Tue Jul 26 2022 8:39 AM 
     <details><summary>展开描述 ...</summary> 
     今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。 
-    </details> 
-
-- 🎡 [leetcode  2347. Best Poker Hand（python）](https://juejin.cn/post/7124596986153533454) | Tue Jul 26 2022 8:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是 Biweekly Contest 83的第一题，难度 Eazy ，主要考查的是对题目的理解和计数器的使用 
-    </details> 
-
-- 🕯 [leetcode  2348. Number of Zero-Filled Subarrays（python）](https://juejin.cn/post/7124596842028875784) | Tue Jul 26 2022 8:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是 Biweekly Contest 83的第二题，难度 Medium ，主要考查的是统计全 0 子数组的个数 
-    </details> 
-
-- 🚀 [2022 云原生编程挑战赛火热报名中！看导师如何拆解 Serverless 赛题？](https://juejin.cn/post/7124594808772886559) | Tue Jul 26 2022 8:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    大赛介绍 2022 第三届云原生编程挑战赛，是由阿里云、Intel 主办，云原生应用平台、天池联合承办的云原生顶级品牌赛事。 自 2015 年开始，大赛已经成功举办了七届，并从 2020 年开始升级为 
-    </details> 
-
-- 💪 [技术风向标 | 云原生技术架构成熟度模型解读](https://juejin.cn/post/7124584720444162084) | Tue Jul 26 2022 7:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    7 月 18 日（周一）14:00 ，阿里云技术专家将做客直播间，为企业和开发者深度解读云原生技术架构成熟度模型，并介绍云原生架构安全水平，点击下方卡片，立即预约直播～ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
