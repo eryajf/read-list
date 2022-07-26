@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [把“前端依赖”纳入知识体系、小白React+redux入门项目讲解、利用 Flutter 实现炫酷的3D卡片和帅气的 360° 展示效果|酱酱的下午茶第36期](https://juejin.cn/post/7124520592136470536) | Tue Jul 26 2022 3:38 AM 
+- 🤗 [102个Python练手项目；『机器学习』优质内容社区；『基于事件的机器人视觉』课程推荐；『迁移学习导论』书籍代码；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7124528160749649928) | Tue Jul 26 2022 4:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 07-26 期，Galileo图深度学习框架、PersonalizedFL个性化联邦学习、MLOps学习社区、102个Python迷你练手项目、哈佛USPTO专利数据集、论文 
+    </details> 
+
+- 🎡 [聊聊 Jmeter 如何并发执行 Python 脚本](https://juejin.cn/post/7124524315462729758) | Tue Jul 26 2022 3:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    1. 前言 用Django 写了一个大文件上传的 Api 接口，现在想本地检验一下接口并发的稳定性，有没有好的方案,本篇文章以文件上传为例，聊聊 Jmeter 并发执行 Python 脚本的完整流程  
+    </details> 
+
+- 🕯 [把“前端依赖”纳入知识体系、小白React+redux入门项目讲解、利用 Flutter 实现炫酷的3D卡片和帅气的 360° 展示效果|酱酱的下午茶第36期](https://juejin.cn/post/7124520592136470536) | Tue Jul 26 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
     本期下午茶看点：把“前端依赖”纳入知识体系、小白React+redux入门项目讲解、利用 Flutter 实现炫酷的3D卡片和帅气的 360° 展示效果|酱酱的下午茶第36期。。。 
     </details> 
 
-- 🎡 [社区点赞业务缓存设计优化探索](https://juejin.cn/post/7124511400948400142) | Tue Jul 26 2022 3:03 AM 
+- 🚀 [用 3行，6行，8行实现发布订阅模式，内藏何种玄机？](https://juejin.cn/post/7124515678228316174) | Tue Jul 26 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-    本文对得物社区的点赞业务如何做到高性能响应以及历史上在缓存使用上关于高性能、稳定性、低成本上的优化探索过程进行讲述，希望能给读者带来一些收获。 
+    阅读本文，你将： 彻底掌握发布订阅模式；学会使用 3 行，6 行，8 行代码实现发布订阅模式，惊叹面试官；学会标准发布订阅模式的编写 
     </details> 
 
-- 🕯 [Flutter 桌面探索 | 自定义可拖拽导航栏](https://juejin.cn/post/7124510001212686367) | Tue Jul 26 2022 2:57 AM 
+- 💪 [Go原生插件使用问题全解析](https://juejin.cn/post/7124514236462137351) | Tue Jul 26 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 1. 前言 上一篇 《桌面导航 NavigationRail》 中介绍了官方的桌面导航，但整体灵活性并不是太好，风格我也不是很喜欢。看 
-    </details> 
-
-- 🚀 [字节跳动宣布开源 KubeWharf，一个实践驱动的云原生项目集](https://juejin.cn/post/7124508128112017445) | Tue Jul 26 2022 2:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    KubeWharf 是字节跳动基础架构团队在对 Kubernetes 进行了大规模应用和不断优化增强之后的技术结晶。 
-    </details> 
-
-- 💪 [测试用例千万不能随便，记录由一个测试用例异常引起的思考](https://juejin.cn/post/7124506425912459277) | Tue Jul 26 2022 2:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    一 测试用例大家平时写不写？ 我以前写测试用例只是针对业务接口，每个接口写一个，数据case也只是测一种。能跑通就可以了。要不同的场景case，那就改数据。重新跑一遍。简单省事。 但是自从我业余时间开 
+    简介： 本人在设计和落地基于Go原生插件机制的扩展开发产品时踩到了很多坑，由于这方面相关资料很少，因而借此机会做一个非常粗浅的总结，希望能对大家有所帮助。本文只说问题和解决方案，不读代码。 作者 |  
     </details> 
 <!-- juejin:END -->
 ### 少数派
