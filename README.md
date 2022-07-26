@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [法拉第未来推迟至今年Q3或Q4生产和交付FF 91电动汽车](http://www.techweb.com.cn/world/2022-07-26/2899473.shtml) | Tue Jul 26 2022 7:35 AM
-- 👹 [谷歌和微软等公司纷纷开始在日本注册全球总部来规避罚款](http://www.techweb.com.cn/world/2022-07-26/2899472.shtml) | Tue Jul 26 2022 7:31 AM
-- 🪜 [Facebook推视频收入分成功能 创作者可获20% 分成](http://www.techweb.com.cn/world/2022-07-26/2899463.shtml) | Tue Jul 26 2022 6:34 AM
-- 🤭 [一边砍单降价、一边缺货涨价，芯片行业上演冰火两重天](http://www.techweb.com.cn/internet/2022-07-26/2899455.shtml) | Tue Jul 26 2022 5:59 AM
-- 🙉 [特斯拉承认收到SEC第二份传票 与马斯克2018年发布私有化推文有关](http://www.techweb.com.cn/world/2022-07-26/2899447.shtml) | Tue Jul 26 2022 4:44 AM<!-- techweb-allnews:END -->
+- 👍 [现代佐治亚州电动汽车及电池工厂将获得18亿美元补贴](http://www.techweb.com.cn/world/2022-07-26/2899475.shtml) | Tue Jul 26 2022 8:07 AM
+- 👹 [三星3nm技术真的超过了台积电吗？](http://www.techweb.com.cn/internet/2022-07-26/2899474.shtml) | Tue Jul 26 2022 8:06 AM
+- 🪜 [法拉第未来推迟至今年Q3或Q4生产和交付FF 91电动汽车](http://www.techweb.com.cn/world/2022-07-26/2899473.shtml) | Tue Jul 26 2022 7:35 AM
+- 🤭 [谷歌和微软等公司纷纷开始在日本注册全球总部来规避罚款](http://www.techweb.com.cn/world/2022-07-26/2899472.shtml) | Tue Jul 26 2022 7:31 AM
+- 🙉 [Facebook推视频收入分成功能 创作者可获20% 分成](http://www.techweb.com.cn/world/2022-07-26/2899463.shtml) | Tue Jul 26 2022 6:34 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
