@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React组件库Concis | 心路历程](https://juejin.cn/post/7124637008307159048) | Tue Jul 26 2022 11:10 AM 
+- 🤗 [模块化开发 Angular 应用 [含懒加载]](https://juejin.cn/post/7124664273355145229) | Tue Jul 26 2022 12:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    共享模块不仅让你的应用联系紧密，而且可以对你的应用进行瘦身。在这个教程中，我们将创建自定义的模块，并发掘它的组件。 然后，我们将学习怎么使用我们的模块来启用延迟加载，从而使应用更小，使用户体验更好！ 
+    </details> 
+
+- 🎡 [OpenCV- iOS 图像处理编程入门](https://juejin.cn/post/7124645305148145677) | Tue Jul 26 2022 11:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    OpenCV简介 OpenCV（Open Source Computer Vision Library） 是一个广受欢迎的开源的跨平台计算机视觉库，它实现了图像处理和计算机视觉方面的很多通用算法，算法 
+    </details> 
+
+- 🕯 [RichTalk 快报 第 6 期](https://juejin.cn/post/7124641270768599053) | Tue Jul 26 2022 11:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    这里是Tech 快报，每两周为你带来新鲜的技术资讯，如果想第一时间收到快报更新消息请关注本知识库。 本期快报速览： Vite 3.0 is out! 浅析 ESLint 原理 尤雨溪主题演讲《2022 
+    </details> 
+
+- 🚀 [React组件库Concis | 心路历程](https://juejin.cn/post/7124637008307159048) | Tue Jul 26 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
     前言 Concis是一款React轻量级组件库，由作者本人下班业余时间独立开发到至今初出茅庐，下面是一些组件库信息，希望大家可以支持，激励作者。 Github 官方文档 对Concis的介绍 自上文发 
     </details> 
 
-- 🎡 [飞书招聘简历解析优化实践](https://juejin.cn/post/7124632950246735902) | Tue Jul 26 2022 10:55 AM 
+- 💪 [飞书招聘简历解析优化实践](https://juejin.cn/post/7124632950246735902) | Tue Jul 26 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
     简历解析是把简历文件各个字段抽取出来，生成标准/结构化简历，它是招聘场景一项很重要的基础AI能力，本文主要对简历解析技术路径6个步骤进行优化实践。目前字节招聘简历解析已通过飞书人力套件赋能数百家企业。 
-    </details> 
-
-- 🕯 [发评测赢好礼 | Serverless 函数计算征集令](https://juejin.cn/post/7124632680620261412) | Tue Jul 26 2022 10:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    为了帮助更多用户客观了解并使用阿里云函数计算 FC，阿里云开发者社区携手云原生应用平台 Serverless 团队发布 “Serverless 函数计算征集令”，您只需发布函数计算相关评测文章，即有机 
-    </details> 
-
-- 🚀 [飞书招聘简历解析优化实践](https://juejin.cn/post/7124632290876981285) | Tue Jul 26 2022 10:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    简历解析是把简历文件各个字段抽取出来，生成标准/结构化简历，它是招聘场景一项很重要的基础AI能力，本文主要对简历解析技术路径6个步骤进行优化实践。目前字节招聘简历解析已通过飞书人力套件赋能数百家企业。 
-    </details> 
-
-- 💪 [阿里云消息队列 Kafka-消息检索实践](https://juejin.cn/post/7124629447923204133) | Tue Jul 26 2022 10:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文章主要介绍消息队列使用过程中所遇到的消息丢失、重复消费等痛点问题的排查办法，以及消息队列 Kafka「检索组件」的场景实践，并对其关键技术进行解读。旨在帮助大家对消息队列 Kafka「检索组件」的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
