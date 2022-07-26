@@ -202,11 +202,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [leetcode 的 Python 运行速度困惑](https://www.v2ex.com/t/868875#reply3) | Tue Jul 26 2022 12:05 PM
-- 🤗 [为什么 windows 的滚动条那么丑也不知道优化的~](https://www.v2ex.com/t/868874#reply0) | Tue Jul 26 2022 12:05 PM
-- 🎭 [关于对容器开发的理解](https://www.v2ex.com/t/868866#reply0) | Tue Jul 26 2022 11:34 AM
-- 🥷 [对于私有部署的 GitLab 服务，大家的工作流中是如何提交合并请求的？](https://www.v2ex.com/t/868864#reply0) | Tue Jul 26 2022 11:25 AM
-- 🐵 [CLion 和 GoLand 为什么没有社区版？](https://www.v2ex.com/t/868860#reply4) | Tue Jul 26 2022 11:08 AM<!-- v2ex:END -->
+- 🥸 [请问 lua+nginx 怎么实现并行？](https://www.v2ex.com/t/868889#reply0) | Tue Jul 26 2022 1:33 PM
+- 🤗 [如何在自己的服务器上搭建图床](https://www.v2ex.com/t/868885#reply5) | Tue Jul 26 2022 12:55 PM
+- 🎭 [服务器自动化管理脚本语言选择, Python or Shell](https://www.v2ex.com/t/868884#reply5) | Tue Jul 26 2022 12:42 PM
+- 🥷 [leetcode 的 Python 运行速度困惑](https://www.v2ex.com/t/868875#reply4) | Tue Jul 26 2022 12:05 PM
+- 🐵 [为什么 windows 的滚动条那么丑也不知道优化的~](https://www.v2ex.com/t/868874#reply1) | Tue Jul 26 2022 12:05 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
