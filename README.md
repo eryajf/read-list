@@ -79,11 +79,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html) | Fri Jul 22 2022 12:19 AM
-- 💪 [科技爱好者周刊（第 214 期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html) | Thu Jul 14 2022 11:45 PM
-- 🐎 [科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html) | Fri Jul 08 2022 12:06 AM
-- 🤔 [科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html) | Fri Jul 01 2022 12:20 AM
-- 🧠 [云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html) | Wed Jun 29 2022 3:18 AM<!-- ruanyf:END -->
+- 🌊 [能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html) | Wed Jul 27 2022 12:54 AM
+- 💪 [科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html) | Fri Jul 22 2022 12:19 AM
+- 🐎 [科技爱好者周刊（第 214 期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html) | Thu Jul 14 2022 11:45 PM
+- 🤔 [科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html) | Fri Jul 08 2022 12:06 AM
+- 🧠 [科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html) | Fri Jul 01 2022 12:20 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
@@ -202,86 +202,86 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [深度学习中位置编码的本质是不是就是一层 nn.Parameter&lpar;&rpar;而已？](https://www.v2ex.com/t/868638#reply0) | Mon Jul 25 2022 11:44 AM
-- 🤗 [请教一下 netty 的 native transports 的使用场景](https://www.v2ex.com/t/868633#reply0) | Mon Jul 25 2022 11:05 AM
-- 🎭 [Windows 上有什么方便的 DNS switcher](https://www.v2ex.com/t/868631#reply1) | Mon Jul 25 2022 10:54 AM
-- 🥷 [大概十个月前删除了一个谷歌账号, 现在又想找回来, 申请找回失败, 还能摘回来吗](https://www.v2ex.com/t/868629#reply4) | Mon Jul 25 2022 10:51 AM
-- 🐵 [make 下遇到的问题，求大佬告知](https://www.v2ex.com/t/868622#reply11) | Mon Jul 25 2022 10:16 AM<!-- v2ex:END -->
+- 🥸 [D3.js 能做什么有想象力的事情？](https://www.v2ex.com/t/869012#reply0) | Wed Jul 27 2022 6:07 AM
+- 🤗 [装 archlinux 只能跑百兆， centos 一切正常](https://www.v2ex.com/t/869009#reply4) | Wed Jul 27 2022 5:58 AM
+- 🎭 [请问 hadoop 多块磁盘只部署一个 datanode 好还是每块磁盘各部署一个 datanode](https://www.v2ex.com/t/868999#reply0) | Wed Jul 27 2022 5:01 AM
+- 🥷 [kotlin 表达式引擎](https://www.v2ex.com/t/868993#reply0) | Wed Jul 27 2022 4:26 AM
+- 🐵 [React 中如何可以实现 vue3.2 新增的 effectScope 特性呢？](https://www.v2ex.com/t/868986#reply3) | Wed Jul 27 2022 3:51 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [建设下一代 Web 开放技术——WebContain](https://juejin.cn/post/7124258386606030855) | Mon Jul 25 2022 10:41 AM 
+- 🤗 [【干货满满】码上掘金很好用，从0到1手把手带你撸一个](https://juejin.cn/post/7124927840276971550) | Wed Jul 27 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-    基于 Webassembly + QuickJS 的 Web 安全沙箱技术方案，面向 Web 端建设下一代开放技术。 
+    最近写文章的时候，用了一下掘金的前端代码在线编辑运行工具-码上掘金，感觉用来写个在线小demo还是挺不错的，于是乎手动完整撸了一个 
     </details> 
 
-- 🎡 [人人可参与开源活动正式上线，诚邀您来体验！](https://juejin.cn/post/7124258185145221127) | Mon Jul 25 2022 10:41 AM 
+- 🎡 [别再用 System.currentTimeMillis 统计耗时了，太 Low，试试 Spring Boot 源码在用的 StopWatch吧，够优雅！](https://juejin.cn/post/7124926821828657183) | Wed Jul 27 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-    开源是打开未来技术世界的钥匙，为了真正实现「人人都可以参与开源」，龙蜥社区推出开发者激励活动！本次活动无差别面向广大开发者，不管你是第一次接触开源社区的萌新小白，还是驰骋各大开源社区的高手常客，龙蜥社 
+    大家好，我是二哥呀！ 昨天，一位球友问我能不能给他解释一下 @SpringBootApplication 注解是什么意思，还有 Spring Boot 的运行原理，于是我就带着他扒拉了一下这个注解的源 
     </details> 
 
-- 🕯 [200 行代码写个贪吃蛇【vue3 + canvas】](https://juejin.cn/post/7124231257076006925) | Mon Jul 25 2022 8:55 AM 
+- 🕯 [OC 底层原理 20：GCD函数和队列](https://juejin.cn/post/7124926751687639077) | Wed Jul 27 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-    业务代码写烦了？让我们写点有趣的代码吧，周末花几个小时写的 贪吃蛇，vue3, canvas 技术实现... 
+    开发中，我们常用GCD来处理一些异步流程，感觉很熟悉，但是又很陌生。一些概念还是很模糊，比如GCD是什么，任务是什么，串行队列和并发队列区别，同步函数和异步函数，队列和函数的配合使用，GCD下层封装等 
     </details> 
 
-- 🚀 [React组件库Concis,寻求社区有兴趣的小伙伴加入...](https://juejin.cn/post/7124227245975519269) | Mon Jul 25 2022 8:40 AM 
+- 🚀 [5 分钟，快速入门 Python JWT 接口认证](https://juejin.cn/post/7124924257611546631) | Wed Jul 27 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-    React组件库Concis介绍，对组件库接下来的计划、未来的展望以及为什么要寻求队友做出依次介绍，感谢支持。 
+    1. 前言 为了反爬或限流节流，后端编写接口时，大部分 API 都会进行权限认证，只有认证通过，即：数据正常及未过期才会返回数据，否则直接报错 本篇文章以 Django 为例，聊聊后端 JWT 接口认 
     </details> 
 
-- 💪 [基于 Flink CDC 实现海量数据的实时同步和转换](https://juejin.cn/post/7124224801933099038) | Mon Jul 25 2022 8:31 AM 
+- 💪 [Python 终结者 - 装饰器，也叫 Decorator](https://juejin.cn/post/7124922734345191460) | Wed Jul 27 2022 5:39 AM 
     <details><summary>展开描述 ...</summary> 
-    简介： 徐榜江在 5.21 Flink CDC Meetup 的分享。 点击查看直播回放 &amp; 演讲PDF 一、Flink CDC 技术 CDC 是 Change Data Capture 的缩写，是一 
+    1. 前言 RPC，全程为 Remote Procedure Call，是一种进程间的通信方式，它采用「 服务端 / 客户机 」模式，是一种请求响应模型 其中，服务端负责提供服务程序、响应请求做具体的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/74797) | Mon Jul 25 2022 9:50 AM 
+- 👹 [你真的理解色彩管理吗？安卓苹果色彩管理深度解析](https://sspai.com/post/74822) | Wed Jul 27 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/74797&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    Windows 的色彩管理有什么问题？Apple 做对了什么？Android 此前为什么做不好？&lt;a href=&quot;https://sspai.com/post/74822&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [用 AI 为图片「摘下面纱」，waifu2x 如何拯救你的 macOS 修图体验](https://sspai.com/post/74786) | Mon Jul 25 2022 8:29 AM 
+- 🐘 [派早报：Anker 发布多款新品、多家科技公司呼吁废除闰秒等](https://sspai.com/post/74821) | Wed Jul 27 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    当 macOS 也拥有了好用的 waifu2x 前端，「化腐朽为神奇」也变得更加简单。&lt;a href=&quot;https://sspai.com/post/74786&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    Meta Quest 2 售价将上调 100 美元，Google Play 商店启用新 logo 等。&lt;a href=&quot;https://sspai.com/post/74821&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [抛弃目标与计划，我发现好好读书并不难](https://sspai.com/post/74767) | Mon Jul 25 2022 6:49 AM 
+- 🤭 [少数派会员第二季正式上线，现在加入可享超值优惠](https://sspai.com/post/74803) | Tue Jul 26 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-    现在已是七月，又一个半年开始了。我想，要不大家一起浅看一会儿书吧。&lt;a href=&quot;https://sspai.com/post/74767&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    新一季会员来了，我们再度起航吧！&lt;a href=&quot;https://sspai.com/post/74803&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [为了帮你迈出写作的第一步，我做了这个有趣的应用](https://sspai.com/post/74365) | Mon Jul 25 2022 3:29 AM 
+- 🥸 [手腕上的「心率检测」靠谱吗？智能手表能帮你了解哪些数据？](https://sspai.com/post/74805) | Tue Jul 26 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    作为一个每年阅读上万篇各类网络上文章的程序员，也幻想着自己可以把我的人生、经验、幻想和生活写成文章供别人阅读，但是总是面临着「写什么、怎么写、写的不好怎么办」之类的问题，让我将写作这件事一放再放。在2 ...&lt;a href=&quot;https://sspai.com/post/74365&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    如今的智能手表已经不只是能帮助我们测量步数，还能帮助我们测量心率以及最大摄氧量，让我们对健康状况以及运动能力有更深入地了解，可数据本身并不会说话，这些指标能反映哪些健康指标呢？如何通过这些数据更好的了 ...&lt;a href=&quot;https://sspai.com/post/74805&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🙉 [派早报：原 eBay 中国版将于 8 月关闭，抖音发布高频不规范词语清单等](https://sspai.com/post/74770) | Mon Jul 25 2022 12:46 AM 
+- 🙉 [具透 | 下个 Android 大版本更新，Google 想为你「众筹」一套图标包](https://sspai.com/post/74800) | Tue Jul 26 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    你可能错过的新鲜事23年历史电商网站易趣网将于八月关闭近日，有23年历史的电商网站易趣网（www.eachnet.com）发布了关闭公告。公告称，由于公司调整运营策略，决定停止易趣网络平台运营，于8月 ...&lt;a href=&quot;https://sspai.com/post/74770&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    Google 从自适应图标开始就想组建一套广泛适用的规则图标包，主题图标的推出又为这套图标包带来了千人千面的色彩风格。但这个图标包究竟能够覆盖多少应用，还是取决于有多少感兴趣的开发者愿意参与「众筹」。&lt;a href=&quot;https://sspai.com/post/74800&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [大误 · 如果我能让任何人患上口腔溃疡](http://daily.zhihu.com/story/9751010) | Sun Jul 24 2022 12:27 AM
-- 🐻 [这个世界上有什么动物长得像 P 出来的?](http://daily.zhihu.com/story/9750995) | Sun Jul 24 2022 12:27 AM
-- 🌏 [把还不会说话的婴儿聚到一起，不教他们说话，会产生新的语言吗？](http://daily.zhihu.com/story/9750991) | Sun Jul 24 2022 12:27 AM
-- 🕴 [是所有饮料都冰了更好喝么？「冰」为什么能带来口感提升？](http://daily.zhihu.com/story/9750994) | Sun Jul 24 2022 12:27 AM
-- 🌮 [蜂蜜究竟有没有特殊营养价值？](http://daily.zhihu.com/story/9750989) | Sun Jul 24 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751080) | Wed Jul 27 2022 12:27 AM
+- 🐻 [为什么有些童年是《数码宝贝》的人会认为童年是《喜羊羊》的孩子可怜？](http://daily.zhihu.com/story/9751059) | Wed Jul 27 2022 12:27 AM
+- 🌏 [你觉得螺蛳粉的灵魂 CP 是什么？](http://daily.zhihu.com/story/9751060) | Wed Jul 27 2022 12:27 AM
+- 🕴 [数学专业领域的人看《天才基本法》是什么感受？](http://daily.zhihu.com/story/9751066) | Wed Jul 27 2022 12:27 AM
+- 🌮 [新能源汽车的「天幕玻璃」只防晒不隔热，为什么还有那么多人追捧？](http://daily.zhihu.com/story/9751068) | Wed Jul 27 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [保时捷CFO称公司电动汽车利润率未来两年达到燃油车同等水平](http://www.techweb.com.cn/world/2022-07-25/2899319.shtml) | Mon Jul 25 2022 10:00 AM
-- 👹 [瞰瞰智能超募完成A1轮近亿元融资](http://www.techweb.com.cn/finance/2022-07-25/2899300.shtml) | Mon Jul 25 2022 9:25 AM
-- 🪜 [京东发布《2022进口消费趋势报告》：进口品牌商品数量同比增长51%](http://www.techweb.com.cn/it/2022-07-25/2899294.shtml) | Mon Jul 25 2022 9:14 AM
-- 🤭 [特斯拉柏林超级工厂已生产首辆4680电池Model Y 但只会用于测试](http://www.techweb.com.cn/world/2022-07-25/2899290.shtml) | Mon Jul 25 2022 8:58 AM
-- 🙉 [环球晶圆称芯片制造商对硅晶圆需求依旧强劲 客户尚未修改长期合同](http://www.techweb.com.cn/world/2022-07-25/2899230.shtml) | Mon Jul 25 2022 8:38 AM<!-- techweb-allnews:END -->
+- 👍 [格力“不清凉”：巨头诉讼落幕又遭大经销商减持 空调新战场还晚人一步？](http://www.techweb.com.cn/viewpoint/2022-07-27/2899596.shtml) | Wed Jul 27 2022 5:40 AM
+- 👹 [周鸿祎：数字安全能力落后也会挨打](http://www.techweb.com.cn/it/2022-07-27/2899593.shtml) | Wed Jul 27 2022 4:37 AM
+- 🪜 [微软第四财季营收519亿美元 其中智能云部门营收209亿美元](http://www.techweb.com.cn/world/2022-07-27/2899589.shtml) | Wed Jul 27 2022 4:21 AM
+- 🤭 [大众已开始在美国田纳西州生产ID.4电动汽车 首批最快10月份交付](http://www.techweb.com.cn/world/2022-07-27/2899588.shtml) | Wed Jul 27 2022 4:14 AM
+- 🙉 [出于环境担忧 数十家非政府组织要求特斯拉终止投资印尼镍行业](http://www.techweb.com.cn/world/2022-07-27/2899586.shtml) | Wed Jul 27 2022 3:57 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
