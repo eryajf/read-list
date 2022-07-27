@@ -239,29 +239,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：Anker 发布多款新品、多家科技公司呼吁废除闰秒等](https://sspai.com/post/74821) | Wed Jul 27 2022 1:08 AM 
+- 👹 [你真的理解色彩管理吗？安卓苹果色彩管理深度解析](https://sspai.com/post/74822) | Wed Jul 27 2022 3:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    Windows 的色彩管理有什么问题？Apple 做对了什么？Android 此前为什么做不好？&lt;a href=&quot;https://sspai.com/post/74822&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：Anker 发布多款新品、多家科技公司呼吁废除闰秒等](https://sspai.com/post/74821) | Wed Jul 27 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
     Meta Quest 2 售价将上调 100 美元，Google Play 商店启用新 logo 等。&lt;a href=&quot;https://sspai.com/post/74821&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [少数派会员第二季正式上线，现在加入可享超值优惠](https://sspai.com/post/74803) | Tue Jul 26 2022 9:59 AM 
+- 🤭 [少数派会员第二季正式上线，现在加入可享超值优惠](https://sspai.com/post/74803) | Tue Jul 26 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
     新一季会员来了，我们再度起航吧！&lt;a href=&quot;https://sspai.com/post/74803&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [手腕上的「心率检测」靠谱吗？智能手表能帮你了解哪些数据？](https://sspai.com/post/74805) | Tue Jul 26 2022 7:11 AM 
+- 🥸 [手腕上的「心率检测」靠谱吗？智能手表能帮你了解哪些数据？](https://sspai.com/post/74805) | Tue Jul 26 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
     如今的智能手表已经不只是能帮助我们测量步数，还能帮助我们测量心率以及最大摄氧量，让我们对健康状况以及运动能力有更深入地了解，可数据本身并不会说话，这些指标能反映哪些健康指标呢？如何通过这些数据更好的了 ...&lt;a href=&quot;https://sspai.com/post/74805&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [具透 | 下个 Android 大版本更新，Google 想为你「众筹」一套图标包](https://sspai.com/post/74800) | Tue Jul 26 2022 3:30 AM 
+- 🙉 [具透 | 下个 Android 大版本更新，Google 想为你「众筹」一套图标包](https://sspai.com/post/74800) | Tue Jul 26 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     Google 从自适应图标开始就想组建一套广泛适用的规则图标包，主题图标的推出又为这套图标包带来了千人千面的色彩风格。但这个图标包究竟能够覆盖多少应用，还是取决于有多少感兴趣的开发者愿意参与「众筹」。&lt;a href=&quot;https://sspai.com/post/74800&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：Apple 中国即将开始官网优惠活动、推特 500 多万个账号信息被泄露等](https://sspai.com/post/74801) | Tue Jul 26 2022 12:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    抖音将治理 MCN 机构内容乱象，创维发布 PANCAKE 1 6DoF VR 一体机等。&lt;a href=&quot;https://sspai.com/post/74801&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
