@@ -268,11 +268,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751045) | Tue Jul 26 2022 12:27 AM
-- 🐻 [有哪些外行觉得丑但其实很厉害的画？](http://daily.zhihu.com/story/9751019) | Tue Jul 26 2022 12:27 AM
-- 🌏 [法院电话为何那么难打，法院接线员真的有那么忙吗？](http://daily.zhihu.com/story/9751022) | Tue Jul 26 2022 12:27 AM
-- 🕴 [我们当今的人工智能体系能够达到动物的智能水平吗？或者说我们能用人工智能模拟动物吗？](http://daily.zhihu.com/story/9751027) | Tue Jul 26 2022 12:27 AM
-- 🌮 [谈论和描绘屎尿屁感觉是一种娱乐，那么可以是一种艺术吗？](http://daily.zhihu.com/story/9751048) | Tue Jul 26 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751080) | Wed Jul 27 2022 12:27 AM
+- 🐻 [为什么有些童年是《数码宝贝》的人会认为童年是《喜羊羊》的孩子可怜？](http://daily.zhihu.com/story/9751059) | Wed Jul 27 2022 12:27 AM
+- 🌏 [你觉得螺蛳粉的灵魂 CP 是什么？](http://daily.zhihu.com/story/9751060) | Wed Jul 27 2022 12:27 AM
+- 🕴 [数学专业领域的人看《天才基本法》是什么感受？](http://daily.zhihu.com/story/9751066) | Wed Jul 27 2022 12:27 AM
+- 🌮 [新能源汽车的「天幕玻璃」只防晒不隔热，为什么还有那么多人追捧？](http://daily.zhihu.com/story/9751068) | Wed Jul 27 2022 12:27 AM<!-- zhihu:END -->
 
 ### TechWeb-全站精华
 
