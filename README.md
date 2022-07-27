@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [芒果TV会员又涨价了 月卡价格上调至30元](http://www.techweb.com.cn/internet/2022-07-27/2899578.shtml) | Wed Jul 27 2022 2:58 AM
-- 👹 [电商平台Shopify宣布裁员10% CEO承认自己赌输了](http://www.techweb.com.cn/world/2022-07-27/2899577.shtml) | Wed Jul 27 2022 2:51 AM
-- 🪜 [优酷的“失误”](http://www.techweb.com.cn/viewpoint/2022-07-27/2899576.shtml) | Wed Jul 27 2022 2:45 AM
-- 🤭 [美参议院投票通过芯片法案 补贴美国半导体芯片制造](http://www.techweb.com.cn/world/2022-07-27/2899574.shtml) | Wed Jul 27 2022 2:39 AM
-- 🙉 [不“熟”趣店贾乃亮](http://www.techweb.com.cn/viewpoint/2022-07-27/2899573.shtml) | Wed Jul 27 2022 2:37 AM<!-- techweb-allnews:END -->
+- 👍 [微软第四财季营收519亿美元 其中智能云部门营收209亿美元](http://www.techweb.com.cn/world/2022-07-27/2899589.shtml) | Wed Jul 27 2022 4:21 AM
+- 👹 [大众已开始在美国田纳西州生产ID.4电动汽车 首批最快10月份交付](http://www.techweb.com.cn/world/2022-07-27/2899588.shtml) | Wed Jul 27 2022 4:14 AM
+- 🪜 [出于环境担忧 数十家非政府组织要求特斯拉终止投资印尼镍行业](http://www.techweb.com.cn/world/2022-07-27/2899586.shtml) | Wed Jul 27 2022 3:57 AM
+- 🤭 [Alphabet Q2营收697亿美元 其中谷歌云部门营收73.4亿美元](http://www.techweb.com.cn/world/2022-07-27/2899584.shtml) | Wed Jul 27 2022 3:44 AM
+- 🙉 [芒果TV会员又涨价了 月卡价格上调至30元](http://www.techweb.com.cn/internet/2022-07-27/2899578.shtml) | Wed Jul 27 2022 2:58 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
