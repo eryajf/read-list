@@ -210,30 +210,30 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【干货满满】码上掘金很好用，从0到1手把手带你撸一个](https://juejin.cn/post/7124927840276971550) | Wed Jul 27 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-    最近写文章的时候，用了一下掘金的前端代码在线编辑运行工具-码上掘金，感觉用来写个在线小demo还是挺不错的，于是乎手动完整撸了一个
-    </details>
+- 🤗 [5G 商用第三年：无人驾驶的“上山”与“下海”](https://juejin.cn/post/7125005357943881742) | Wed Jul 27 2022 10:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    无人驾驶，或许是其中的一个典型应用场景。这其中，既有为矿山、港口开启智能化的 5G 远程驾驶，也有各大车企、互联网巨头竞相布局的自动驾驶。5G 技术能给无人驾驶领域带来怎样的变革？ 
+    </details> 
 
-- 🎡 [别再用 System.currentTimeMillis 统计耗时了，太 Low，试试 Spring Boot 源码在用的 StopWatch吧，够优雅！](https://juejin.cn/post/7124926821828657183) | Wed Jul 27 2022 5:55 AM
-    <details><summary>展开描述 ...</summary>
-    大家好，我是二哥呀！ 昨天，一位球友问我能不能给他解释一下 @SpringBootApplication 注解是什么意思，还有 Spring Boot 的运行原理，于是我就带着他扒拉了一下这个注解的源
-    </details>
+- 🎡 [全功能WebRTC应用程序AppRTC应用服务阿里云搭建测试总结并docker化提供镜像](https://juejin.cn/post/7124999769545506829) | Wed Jul 27 2022 10:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    1. 前言 之前我们已经在阿里云服务器上搭建了turn/stun服务（https://juejin.cn/post/7122267115540709407），也使用webRTC测试过rtsp转webR 
+    </details> 
 
-- 🕯 [OC 底层原理 20：GCD函数和队列](https://juejin.cn/post/7124926751687639077) | Wed Jul 27 2022 5:55 AM
-    <details><summary>展开描述 ...</summary>
-    开发中，我们常用GCD来处理一些异步流程，感觉很熟悉，但是又很陌生。一些概念还是很模糊，比如GCD是什么，任务是什么，串行队列和并发队列区别，同步函数和异步函数，队列和函数的配合使用，GCD下层封装等
-    </details>
+- 🕯 [Aspectj与SpringAOP比较记录](https://juejin.cn/post/7124992735513640991) | Wed Jul 27 2022 10:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    在本文中我们将研究并介绍Spring AOP和 AspectJ，这是Java的两个最受欢迎的AOP框架。 AOP概念 在开始之前, 让我们对术语和核心概念进行快速、高层次的审查： Aspect： 一种 
+    </details> 
 
-- 🚀 [5 分钟，快速入门 Python JWT 接口认证](https://juejin.cn/post/7124924257611546631) | Wed Jul 27 2022 5:45 AM
-    <details><summary>展开描述 ...</summary>
-    1. 前言 为了反爬或限流节流，后端编写接口时，大部分 API 都会进行权限认证，只有认证通过，即：数据正常及未过期才会返回数据，否则直接报错 本篇文章以 Django 为例，聊聊后端 JWT 接口认
-    </details>
+- 🚀 [Spring中Autowired注解到底怎么实现的](https://juejin.cn/post/7124992332314705928) | Wed Jul 27 2022 10:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 使用Spring开发时，进行配置主要有两种方式，一是XML的方式，二是Java Config的方式。 Spring技术自身也在不断的发展和改变，从当前springboot的火热程度来看，java 
+    </details> 
 
-- 💪 [Python 终结者 - 装饰器，也叫 Decorator](https://juejin.cn/post/7124922734345191460) | Wed Jul 27 2022 5:39 AM
-    <details><summary>展开描述 ...</summary>
-    1. 前言 RPC，全程为 Remote Procedure Call，是一种进程间的通信方式，它采用「 服务端 / 客户机 」模式，是一种请求响应模型 其中，服务端负责提供服务程序、响应请求做具体的
-    </details>
+- 💪 [分布式事务系列-基础概念](https://juejin.cn/post/7124991802410532872) | Wed Jul 27 2022 10:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇主要介绍了分布式事务的前置知识，从基础概念上讲起。内如如下：什么是事务、本地事务、分布式事务、分布式事务产生的场景。快来一起学习吧！ 
+    </details> 
 <!-- juejin:END -->
 ### 少数派
 
