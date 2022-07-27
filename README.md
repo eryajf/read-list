@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从一个小开源项目到庞大的开源矩阵，他是怎么做到的？](https://juejin.cn/post/7124889755694661639) | Wed Jul 27 2022 3:31 AM 
+- 🤗 [592. 分数加减运算 : 表达式计算入门题](https://juejin.cn/post/7124886658436038669) | Wed Jul 27 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我卡颂。 很多开源作者都经历过如下过程： 有个好的开源点子 撸起袖子加油干 开源项目获得社区认可，star数量就是自己的动力 随着维护时间变长，遇到挫折（时间上的消耗、伸手党的不理解...）  
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 题目描述 这是 LeetCode 上的 592. 分数加减运算 ，难度为 中等。 Tag : 「表达式计算 
     </details> 
 
-- 🎡 [从电影到漫画，再到叙事可视化（六）从漫画到数据可视化](https://juejin.cn/post/7124866864760487973) | Wed Jul 27 2022 2:02 AM 
+- 🎡 [novnc远程连接桌面部署讲解与一键部署脚本](https://juejin.cn/post/7124858540467945486) | Wed Jul 27 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
-    hello，大家好，豆皮范儿今天由 Random Forest 给大家带来了《从电影到漫画，再到叙事可视化》系列，今天带来了第六节「从漫画到数据可视化」。  上一篇：漫谈：从电影到漫画，再到叙事可视化 
+    深入浅出讲解novnc部署完整过程，零基础也可以学会；文末还有一键部署脚本，让你一秒摆脱复杂的部署过程。 
     </details> 
 
-- 🕯 [利用云函数进行自动签到（有手就行） nodejs+serverless云函数](https://juejin.cn/post/7124865201442127902) | Wed Jul 27 2022 1:56 AM 
+- 🕯 [Flink - 读取 Parquet 文件 By Scala / Java](https://juejin.cn/post/7124858422469591053) | Wed Jul 27 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-    是否在为每天的繁琐的签到操作而感到烦恼？ 是否在为经常忘记签到断签而懊恼？ 用白嫖的云函数实现自动签到，解放你的鼠标和键盘！ 
+    parquet 文件常见与 Flink、Spark、Hive、Streamin、MapReduce 等大数据场景，通过列式存储和元数据存储的方式实现了高效的数据存储与检索 
     </details> 
 
-- 🚀 [vue3 还不知道怎么选ref和reactive,还不赶快进来](https://juejin.cn/post/7124864087359488014) | Wed Jul 27 2022 1:52 AM 
+- 🚀 [数据库存储系列（1）列式存储](https://juejin.cn/post/7124856750695514142) | Wed Jul 27 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    🕒携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天 Vue 3 的 Composition API 提供了两种主要的方式来声明响应式数据：ref和reactive.  ✏️  
+    从数据的存储和检索角度看，我们通常会将数据库系统分为两类：OLTP, OLAP。这个划分体现了我们对于数据存储效率，查询效率在不同场景下的预期。 
     </details> 
 
-- 💪 [2022年，我用技术来D虚拟主播](https://juejin.cn/post/7124698911096193038) | Tue Jul 26 2022 3:10 PM 
+- 💪 [Flink - NoSuchMethodError: com.twitter.chill.java.Java8ClosureRegistrar.areOnJav](https://juejin.cn/post/7124856520650522631) | Wed Jul 27 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    2022年上半年，作为一个前端程序员，我为虚拟主播做了三件事：制作生日纪念网页、开发舰长群机器人、为主播的视频投稿建立备份数据库 
+    使用 Flink 1.13.1 + scala 2.11.12 的组合进行 Flink 本地测试是，报错 .NoSuchMethodError: com.twitter.chill.java.Java 
     </details> 
 <!-- juejin:END -->
 ### 少数派
