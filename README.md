@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [对称的二叉树](https://juejin.cn/post/7124700430210170893) | Tue Jul 26 2022 3:17 PM 
+- 🤗 [leetcode  2350. Shortest Impossible Sequence of Rolls（python）](https://juejin.cn/post/7124852773421580301) | Wed Jul 27 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    如果一颗二叉树和它的镜像一样，那么它就是对称的。实现一个函数用于判断一颗二叉树是否对称，你会怎么做？ 本文将分享一种解决方案，欢迎各位感兴趣的开发者阅读本文。 
+    这是 Biweekly Contest 83的第四题，难度 Hard ，主要考查的是对题目的深入理解 
     </details> 
 
-- 🎡 [【入门教程】Rollup模块打包器整合](https://juejin.cn/post/7124681942745743373) | Tue Jul 26 2022 2:05 PM 
+- 🎡 [leetcode  2349. Design a Number Container System（python）](https://juejin.cn/post/7124852045462372382) | Wed Jul 27 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    特点： 选用ES6标准模块化格式； 支持静态分析导入代码进行Tree-Shaking。 兼容： 支持导入CommonJs模块； 方便使用到CommonJS模块的工具，如：Node.js、webpack 
+    这是 Biweekly Contest 83的第三题，难度 Medium ，主要考查的是使用双字典数据结构解决实际应用问题 
     </details> 
 
-- 🕯 [模块化开发 Angular 应用 [含懒加载]](https://juejin.cn/post/7124664273355145229) | Tue Jul 26 2022 12:56 PM 
+- 🕯 [【LeetCode】1184. 公交站间的距离](https://juejin.cn/post/7124850409864183845) | Wed Jul 27 2022 12:58 AM 
     <details><summary>展开描述 ...</summary> 
-    共享模块不仅让你的应用联系紧密，而且可以对你的应用进行瘦身。在这个教程中，我们将创建自定义的模块，并发掘它的组件。 然后，我们将学习怎么使用我们的模块来启用延迟加载，从而使应用更小，使用户体验更好！ 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能力 
     </details> 
 
-- 🚀 [OpenCV- iOS 图像处理编程入门](https://juejin.cn/post/7124645305148145677) | Tue Jul 26 2022 11:44 AM 
+- 🚀 [这些傻白甜的Linux命令，不会有人教你！](https://juejin.cn/post/7124849362563727367) | Wed Jul 27 2022 12:55 AM 
     <details><summary>展开描述 ...</summary> 
-    OpenCV简介 OpenCV（Open Source Computer Vision Library） 是一个广受欢迎的开源的跨平台计算机视觉库，它实现了图像处理和计算机视觉方面的很多通用算法，算法 
+    Linux上的命令非常多，为了掌握它，很多同学耗尽了自己的脑细胞，憔悴了自己的容颜，结果记忆了一大堆垃圾命令，用过之后就忘了哈哈。 xjjdog在以前整理过一批最常用的Linux命令，更编写了一篇长长 
     </details> 
 
-- 💪 [RichTalk 快报 第 6 期](https://juejin.cn/post/7124641270768599053) | Tue Jul 26 2022 11:29 AM 
+- 💪 [用头👴解决！前端必知必会的几个实用响应头](https://juejin.cn/post/7124847588070653983) | Wed Jul 27 2022 12:47 AM 
     <details><summary>展开描述 ...</summary> 
-    这里是Tech 快报，每两周为你带来新鲜的技术资讯，如果想第一时间收到快报更新消息请关注本知识库。 本期快报速览： Vite 3.0 is out! 浅析 ESLint 原理 尤雨溪主题演讲《2022 
+    响应头真的那么好用？真的！特别！好用！后端让我读流下载文件，我还他一个白眼，并扔给他MDN的文档... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
