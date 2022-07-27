@@ -210,29 +210,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [NDK 系列（6）：说一下注册 JNI 函数的方式和时机](https://juejin.cn/post/7125021894562349092) | Wed Jul 27 2022 12:05 PM 
+- 🤗 [数据库调优-原理分析和jmeter案例分享](https://juejin.cn/post/7125034745389383687) | Wed Jul 27 2022 12:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 1.写在前面 作为一个后端开发程序员，少不了和数据库打交道！！！ 毕竟大部分的业务需求，无非就是查数据，然 
+    </details> 
+
+- 🎡 [普通的加载千篇一律，有趣的 loading 万里挑一](https://juejin.cn/post/7125029565625270286) | Wed Jul 27 2022 12:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    看太多普通的“转圈”加载效果了，是不是觉得太单调？本篇带你实现几个有趣的 loading 动效，做一个有趣味的程序员！ 
+    </details> 
+
+- 🕯 [NDK 系列（6）：说一下注册 JNI 函数的方式和时机](https://juejin.cn/post/7125021894562349092) | Wed Jul 27 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
     在上一篇文章中，我们提到了注册 JNI 函数（建立 Java native 方法和 JNI 函数的映射关系）有两种方式：静态注册和动态注册。今天我们来详细说下这 2 种注册方式的使用方法和实现原理。 
     </details> 
 
-- 🎡 [LeetCode - #127 单词接龙](https://juejin.cn/post/7125009010368970760) | Wed Jul 27 2022 11:15 AM 
+- 🚀 [LeetCode - #127 单词接龙](https://juejin.cn/post/7125009010368970760) | Wed Jul 27 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
     我们社区陆续会将顾毅（Netflix 增长黑客，《iOS 面试之道》作者，ACE 职业健身教练。）的 Swift 算法题题解整理为文字版以方便大家学习与阅读。 
     </details> 
 
-- 🕯 [深入了解 vue-cli](https://juejin.cn/post/7125008707536191501) | Wed Jul 27 2022 11:14 AM 
+- 💪 [深入了解 vue-cli](https://juejin.cn/post/7125008707536191501) | Wed Jul 27 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
     转转内部脚手架的 Webpack 部分，是基于 @vue/cli 进行二次封装的。选择二次封装而不是自己搞一套 Webpack 配置，是为了减少维护的成本。 
-    </details> 
-
-- 🚀 [5G 商用第三年：无人驾驶的“上山”与“下海”](https://juejin.cn/post/7125005357943881742) | Wed Jul 27 2022 10:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    无人驾驶，或许是其中的一个典型应用场景。这其中，既有为矿山、港口开启智能化的 5G 远程驾驶，也有各大车企、互联网巨头竞相布局的自动驾驶。5G 技术能给无人驾驶领域带来怎样的变革？ 
-    </details> 
-
-- 💪 [全功能WebRTC应用程序AppRTC应用服务阿里云搭建测试总结并docker化提供镜像](https://juejin.cn/post/7124999769545506829) | Wed Jul 27 2022 10:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    1. 前言 之前我们已经在阿里云服务器上搭建了turn/stun服务（https://juejin.cn/post/7122267115540709407），也使用webRTC测试过rtsp转webR 
     </details> 
 <!-- juejin:END -->
 ### 少数派
