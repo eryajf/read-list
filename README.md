@@ -238,30 +238,30 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [你真的理解色彩管理吗？安卓苹果色彩管理深度解析](https://sspai.com/post/74822) | Wed Jul 27 2022 3:37 AM
-    <details><summary>展开描述 ...</summary>
-    Windows 的色彩管理有什么问题？Apple 做对了什么？Android 此前为什么做不好？&lt;a href=&quot;https://sspai.com/post/74822&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 👹 [用 59 分钟，找到个人记账的完备方案](https://sspai.com/post/74808) | Wed Jul 27 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    不知道你有没有这样的烦恼：到了月底钱总是不够花、明明已经缩衣节食，但钱就是存不下来；当你想要理一理自己还有多少钱的时候，却发现自己的钱散落在微信、支付宝、银行卡等各个账户中，光是「统计余额」这件事就足 ...&lt;a href=&quot;https://sspai.com/post/74808&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🐘 [派早报：Anker 发布多款新品、多家科技公司呼吁废除闰秒等](https://sspai.com/post/74821) | Wed Jul 27 2022 1:08 AM
-    <details><summary>展开描述 ...</summary>
-    Meta Quest 2 售价将上调 100 美元，Google Play 商店启用新 logo 等。&lt;a href=&quot;https://sspai.com/post/74821&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🐘 [试播集 08 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74827) | Wed Jul 27 2022 7:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于栏目不少读者表示希望能够见到更多关于文化与书籍的内容，充实书单、丰富精神。机器人特地邀请了Matrix社区作者们来聊聊自己近期阅读的有意思的书籍。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱 ...&lt;a href=&quot;https://sspai.com/post/74827&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🤭 [少数派会员第二季正式上线，现在加入可享超值优惠](https://sspai.com/post/74803) | Tue Jul 26 2022 9:59 AM
-    <details><summary>展开描述 ...</summary>
-    新一季会员来了，我们再度起航吧！&lt;a href=&quot;https://sspai.com/post/74803&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🤭 [解决你的送礼困难症，七夕到了送这 10+ 件礼物](https://sspai.com/post/74802) | Wed Jul 27 2022 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    无论你买不买以下商品，本獭都要提醒你，8 月 4 日是七夕节，如果恰好能帮到你也算是好事一件。&lt;a href=&quot;https://sspai.com/post/74802&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🥸 [手腕上的「心率检测」靠谱吗？智能手表能帮你了解哪些数据？](https://sspai.com/post/74805) | Tue Jul 26 2022 7:11 AM
-    <details><summary>展开描述 ...</summary>
-    如今的智能手表已经不只是能帮助我们测量步数，还能帮助我们测量心率以及最大摄氧量，让我们对健康状况以及运动能力有更深入地了解，可数据本身并不会说话，这些指标能反映哪些健康指标呢？如何通过这些数据更好的了 ...&lt;a href=&quot;https://sspai.com/post/74805&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🥸 [装了啥 | 结构工程师、科技达人戴老师都装了啥？](https://sspai.com/prime/story/zhuanglesha-vol02-dailaoshi) | Wed Jul 27 2022 6:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    本期《装了啥》中，我们邀请到了本职是结构工程师，却一直以数码达人的身份活跃的戴老师，谈谈他的数字生活。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/zhuanglesha-vol02-dailaoshi&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
 
-- 🙉 [具透 | 下个 Android 大版本更新，Google 想为你「众筹」一套图标包](https://sspai.com/post/74800) | Tue Jul 26 2022 3:30 AM
-    <details><summary>展开描述 ...</summary>
-    Google 从自适应图标开始就想组建一套广泛适用的规则图标包，主题图标的推出又为这套图标包带来了千人千面的色彩风格。但这个图标包究竟能够覆盖多少应用，还是取决于有多少感兴趣的开发者愿意参与「众筹」。&lt;a href=&quot;https://sspai.com/post/74800&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🙉 [你真的理解色彩管理吗？安卓苹果色彩管理深度解析](https://sspai.com/post/74822) | Wed Jul 27 2022 3:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    Windows 的色彩管理有什么问题？Apple 做对了什么？Android 此前为什么做不好？&lt;a href=&quot;https://sspai.com/post/74822&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 <!-- sspai:END -->
 
 ### 知乎每日精选
