@@ -40,30 +40,30 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM
-    <details><summary>展开描述 ...</summary>
-    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。
-    </details>
+- 🫶 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。 
+    </details> 
 
-- 🧰 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM
-    <details><summary>展开描述 ...</summary>
-    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template
-    </details>
+- 🧰 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template 
+    </details> 
 
-- 🌏 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) | Sat Jul 23 2022 11:01 AM
-    <details><summary>展开描述 ...</summary>
-    做一个开源项目，尽量提供给受众以简单易用的快速上手体验，也是项目能够立刻把人抓住的一个关键。现在如果想让用户快速体验项目，除了提供demo环境之外，还有一个方案，那就是提供一个完备的docker-compose，让人能够直接一键拉起。
-    </details>
+- 🌏 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) | Sat Jul 23 2022 11:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    做一个开源项目，尽量提供给受众以简单易用的快速上手体验，也是项目能够立刻把人抓住的一个关键。现在如果想让用户快速体验项目，除了提供demo环境之外，还有一个方案，那就是提供一个完备的docker-compose，让人能够直接一键拉起。 
+    </details> 
 
-- 😎 [学习周刊-总第63期-2022年第28周](https://wiki.eryajf.net/pages/d2ea2c/) | Sat Jul 23 2022 10:32 AM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第63期-2022年第28周
-    </details>
+- 😎 [学习周刊-总第63期-2022年第28周](https://wiki.eryajf.net/pages/d2ea2c/) | Sat Jul 23 2022 10:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第63期-2022年第28周 
+    </details> 
 
-- 💂 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) | Wed Jul 20 2022 5:22 PM
-    <details><summary>展开描述 ...</summary>
-    老婆，孩子，热炕头,电脑，开源，打篮球,我已阔别城市那拥挤的精彩,在家抓住了这一阵儿的平庸
-    </details>
+- 💂 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) | Wed Jul 20 2022 5:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    老婆，孩子，热炕头,电脑，开源，打篮球,我已阔别城市那拥挤的精彩,在家抓住了这一阵儿的平庸 
+    </details> 
 <!-- eryajf:END -->
 
 ### 酷壳
