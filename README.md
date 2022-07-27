@@ -210,29 +210,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [5G 商用第三年：无人驾驶的“上山”与“下海”](https://juejin.cn/post/7125005357943881742) | Wed Jul 27 2022 10:59 AM 
+- 🤗 [NDK 系列（6）：说一下注册 JNI 函数的方式和时机](https://juejin.cn/post/7125021894562349092) | Wed Jul 27 2022 12:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    在上一篇文章中，我们提到了注册 JNI 函数（建立 Java native 方法和 JNI 函数的映射关系）有两种方式：静态注册和动态注册。今天我们来详细说下这 2 种注册方式的使用方法和实现原理。 
+    </details> 
+
+- 🎡 [LeetCode - #127 单词接龙](https://juejin.cn/post/7125009010368970760) | Wed Jul 27 2022 11:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们社区陆续会将顾毅（Netflix 增长黑客，《iOS 面试之道》作者，ACE 职业健身教练。）的 Swift 算法题题解整理为文字版以方便大家学习与阅读。 
+    </details> 
+
+- 🕯 [深入了解 vue-cli](https://juejin.cn/post/7125008707536191501) | Wed Jul 27 2022 11:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    转转内部脚手架的 Webpack 部分，是基于 @vue/cli 进行二次封装的。选择二次封装而不是自己搞一套 Webpack 配置，是为了减少维护的成本。 
+    </details> 
+
+- 🚀 [5G 商用第三年：无人驾驶的“上山”与“下海”](https://juejin.cn/post/7125005357943881742) | Wed Jul 27 2022 10:59 AM 
     <details><summary>展开描述 ...</summary> 
     无人驾驶，或许是其中的一个典型应用场景。这其中，既有为矿山、港口开启智能化的 5G 远程驾驶，也有各大车企、互联网巨头竞相布局的自动驾驶。5G 技术能给无人驾驶领域带来怎样的变革？ 
     </details> 
 
-- 🎡 [全功能WebRTC应用程序AppRTC应用服务阿里云搭建测试总结并docker化提供镜像](https://juejin.cn/post/7124999769545506829) | Wed Jul 27 2022 10:39 AM 
+- 💪 [全功能WebRTC应用程序AppRTC应用服务阿里云搭建测试总结并docker化提供镜像](https://juejin.cn/post/7124999769545506829) | Wed Jul 27 2022 10:39 AM 
     <details><summary>展开描述 ...</summary> 
     1. 前言 之前我们已经在阿里云服务器上搭建了turn/stun服务（https://juejin.cn/post/7122267115540709407），也使用webRTC测试过rtsp转webR 
-    </details> 
-
-- 🕯 [Aspectj与SpringAOP比较记录](https://juejin.cn/post/7124992735513640991) | Wed Jul 27 2022 10:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    在本文中我们将研究并介绍Spring AOP和 AspectJ，这是Java的两个最受欢迎的AOP框架。 AOP概念 在开始之前, 让我们对术语和核心概念进行快速、高层次的审查： Aspect： 一种 
-    </details> 
-
-- 🚀 [Spring中Autowired注解到底怎么实现的](https://juejin.cn/post/7124992332314705928) | Wed Jul 27 2022 10:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 使用Spring开发时，进行配置主要有两种方式，一是XML的方式，二是Java Config的方式。 Spring技术自身也在不断的发展和改变，从当前springboot的火热程度来看，java 
-    </details> 
-
-- 💪 [分布式事务系列-基础概念](https://juejin.cn/post/7124991802410532872) | Wed Jul 27 2022 10:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇主要介绍了分布式事务的前置知识，从基础概念上讲起。内如如下：什么是事务、本地事务、分布式事务、分布式事务产生的场景。快来一起学习吧！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
