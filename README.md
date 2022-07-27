@@ -210,29 +210,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浏览器视频帧操作方法 requestVideoFrameCallback&lpar;&rpar; 简介](https://juejin.cn/post/7125059238195363871) | Wed Jul 27 2022 2:29 PM 
+- 🤗 [🐣这半年的写作流水账](https://juejin.cn/post/7125075993345622024) | Wed Jul 27 2022 3:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 22 年更文工具篇： 如何不使用tsc编译来执行TypeScript代码，体会到了如何让 NodeJs 识别 TypeScript文件并且 
+    </details> 
+
+- 🎡 [Nest 的实现原理？理解了 reflect metadata 就懂了](https://juejin.cn/post/7125066863150628900) | Wed Jul 27 2022 2:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    Nest 是 Node.js 的服务端框架，它最出名的就是 IOC（inverse of control） 机制了，也就是不需要手动创建实例，框架会自动扫描需要加载的类，并创建他们的实例放到容器里，实 
+    </details> 
+
+- 🕯 [即时通讯场景下安全合规的实践和经验](https://juejin.cn/post/7125065412072439822) | Wed Jul 27 2022 2:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    在监管趋紧的形式下，即时通讯场景会遇到很多安全合规领域的挑战，如何满足这些安全合规的要求，如何保护用户的隐私安全，是一件非常有挑战的事情。 
+    </details> 
+
+- 🚀 [浏览器视频帧操作方法 requestVideoFrameCallback&lpar;&rpar; 简介](https://juejin.cn/post/7125059238195363871) | Wed Jul 27 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
     近期发现一个很酷的应用场景，对着摄像头做动作，然后分析器动画渲染到 3D 模型上，在了解其实现原理后，对一些技术点做一些学习笔记。 requestVideoFrameCallback&lpar;&rpar; 就是其中的技 
     </details> 
 
-- 🎡 [数据库调优-原理分析和jmeter案例分享](https://juejin.cn/post/7125034745389383687) | Wed Jul 27 2022 12:54 PM 
+- 💪 [数据库调优-原理分析和jmeter案例分享](https://juejin.cn/post/7125034745389383687) | Wed Jul 27 2022 12:54 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 1.写在前面 作为一个后端开发程序员，少不了和数据库打交道！！！ 毕竟大部分的业务需求，无非就是查数据，然 
-    </details> 
-
-- 🕯 [普通的加载千篇一律，有趣的 loading 万里挑一](https://juejin.cn/post/7125029565625270286) | Wed Jul 27 2022 12:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    看太多普通的“转圈”加载效果了，是不是觉得太单调？本篇带你实现几个有趣的 loading 动效，做一个有趣味的程序员！ 
-    </details> 
-
-- 🚀 [NDK 系列（6）：说一下注册 JNI 函数的方式和时机](https://juejin.cn/post/7125021894562349092) | Wed Jul 27 2022 12:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    在上一篇文章中，我们提到了注册 JNI 函数（建立 Java native 方法和 JNI 函数的映射关系）有两种方式：静态注册和动态注册。今天我们来详细说下这 2 种注册方式的使用方法和实现原理。 
-    </details> 
-
-- 💪 [LeetCode - #127 单词接龙](https://juejin.cn/post/7125009010368970760) | Wed Jul 27 2022 11:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们社区陆续会将顾毅（Netflix 增长黑客，《iOS 面试之道》作者，ACE 职业健身教练。）的 Swift 算法题题解整理为文字版以方便大家学习与阅读。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
