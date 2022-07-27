@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [周鸿祎：数字安全能力落后也会挨打](http://www.techweb.com.cn/it/2022-07-27/2899593.shtml) | Wed Jul 27 2022 4:37 AM
-- 👹 [微软第四财季营收519亿美元 其中智能云部门营收209亿美元](http://www.techweb.com.cn/world/2022-07-27/2899589.shtml) | Wed Jul 27 2022 4:21 AM
-- 🪜 [大众已开始在美国田纳西州生产ID.4电动汽车 首批最快10月份交付](http://www.techweb.com.cn/world/2022-07-27/2899588.shtml) | Wed Jul 27 2022 4:14 AM
-- 🤭 [出于环境担忧 数十家非政府组织要求特斯拉终止投资印尼镍行业](http://www.techweb.com.cn/world/2022-07-27/2899586.shtml) | Wed Jul 27 2022 3:57 AM
-- 🙉 [Alphabet Q2营收697亿美元 其中谷歌云部门营收73.4亿美元](http://www.techweb.com.cn/world/2022-07-27/2899584.shtml) | Wed Jul 27 2022 3:44 AM<!-- techweb-allnews:END -->
+- 👍 [格力“不清凉”：巨头诉讼落幕又遭大经销商减持 空调新战场还晚人一步？](http://www.techweb.com.cn/viewpoint/2022-07-27/2899596.shtml) | Wed Jul 27 2022 5:40 AM
+- 👹 [周鸿祎：数字安全能力落后也会挨打](http://www.techweb.com.cn/it/2022-07-27/2899593.shtml) | Wed Jul 27 2022 4:37 AM
+- 🪜 [微软第四财季营收519亿美元 其中智能云部门营收209亿美元](http://www.techweb.com.cn/world/2022-07-27/2899589.shtml) | Wed Jul 27 2022 4:21 AM
+- 🤭 [大众已开始在美国田纳西州生产ID.4电动汽车 首批最快10月份交付](http://www.techweb.com.cn/world/2022-07-27/2899588.shtml) | Wed Jul 27 2022 4:14 AM
+- 🙉 [出于环境担忧 数十家非政府组织要求特斯拉终止投资印尼镍行业](http://www.techweb.com.cn/world/2022-07-27/2899586.shtml) | Wed Jul 27 2022 3:57 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
