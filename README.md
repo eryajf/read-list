@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [leetcode  2350. Shortest Impossible Sequence of Rolls（python）](https://juejin.cn/post/7124852773421580301) | Wed Jul 27 2022 1:08 AM 
+- 🤗 [从一个小开源项目到庞大的开源矩阵，他是怎么做到的？](https://juejin.cn/post/7124889755694661639) | Wed Jul 27 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-    这是 Biweekly Contest 83的第四题，难度 Hard ，主要考查的是对题目的深入理解 
+    大家好，我卡颂。 很多开源作者都经历过如下过程： 有个好的开源点子 撸起袖子加油干 开源项目获得社区认可，star数量就是自己的动力 随着维护时间变长，遇到挫折（时间上的消耗、伸手党的不理解...）  
     </details> 
 
-- 🎡 [leetcode  2349. Design a Number Container System（python）](https://juejin.cn/post/7124852045462372382) | Wed Jul 27 2022 1:05 AM 
+- 🎡 [从电影到漫画，再到叙事可视化（六）从漫画到数据可视化](https://juejin.cn/post/7124866864760487973) | Wed Jul 27 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-    这是 Biweekly Contest 83的第三题，难度 Medium ，主要考查的是使用双字典数据结构解决实际应用问题 
+    hello，大家好，豆皮范儿今天由 Random Forest 给大家带来了《从电影到漫画，再到叙事可视化》系列，今天带来了第六节「从漫画到数据可视化」。  上一篇：漫谈：从电影到漫画，再到叙事可视化 
     </details> 
 
-- 🕯 [【LeetCode】1184. 公交站间的距离](https://juejin.cn/post/7124850409864183845) | Wed Jul 27 2022 12:58 AM 
+- 🕯 [利用云函数进行自动签到（有手就行） nodejs+serverless云函数](https://juejin.cn/post/7124865201442127902) | Wed Jul 27 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能力 
+    是否在为每天的繁琐的签到操作而感到烦恼？ 是否在为经常忘记签到断签而懊恼？ 用白嫖的云函数实现自动签到，解放你的鼠标和键盘！ 
     </details> 
 
-- 🚀 [这些傻白甜的Linux命令，不会有人教你！](https://juejin.cn/post/7124849362563727367) | Wed Jul 27 2022 12:55 AM 
+- 🚀 [vue3 还不知道怎么选ref和reactive,还不赶快进来](https://juejin.cn/post/7124864087359488014) | Wed Jul 27 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-    Linux上的命令非常多，为了掌握它，很多同学耗尽了自己的脑细胞，憔悴了自己的容颜，结果记忆了一大堆垃圾命令，用过之后就忘了哈哈。 xjjdog在以前整理过一批最常用的Linux命令，更编写了一篇长长 
+    🕒携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天 Vue 3 的 Composition API 提供了两种主要的方式来声明响应式数据：ref和reactive.  ✏️  
     </details> 
 
-- 💪 [用头👴解决！前端必知必会的几个实用响应头](https://juejin.cn/post/7124847588070653983) | Wed Jul 27 2022 12:47 AM 
+- 💪 [2022年，我用技术来D虚拟主播](https://juejin.cn/post/7124698911096193038) | Tue Jul 26 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
-    响应头真的那么好用？真的！特别！好用！后端让我读流下载文件，我还他一个白眼，并扔给他MDN的文档... 
+    2022年上半年，作为一个前端程序员，我为虚拟主播做了三件事：制作生日纪念网页、开发舰长群机器人、为主播的视频投稿建立备份数据库 
     </details> 
 <!-- juejin:END -->
 ### 少数派
