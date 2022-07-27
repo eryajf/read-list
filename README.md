@@ -201,7 +201,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply1) | Wed Jul 27 2022 5:01 PM
+- 🥸 [体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply2) | Wed Jul 27 2022 5:01 PM
 - 🤗 [各位大佬们 黑裙安装时提示 SATA boot support on this platform is exper imental!](https://www.v2ex.com/t/869120#reply0) | Wed Jul 27 2022 4:38 PM
 - 🎭 [有什么推荐的 C# + WPF 跨平台开发框架](https://www.v2ex.com/t/869115#reply5) | Wed Jul 27 2022 3:33 PM
 - 🥷 [HVV](https://www.v2ex.com/t/869107#reply5) | Wed Jul 27 2022 2:52 PM
