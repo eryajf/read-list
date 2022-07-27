@@ -277,11 +277,11 @@
 ### TechWeb-全站精华
 
 <!-- techweb-allnews:START -->
-- 👍 [贾乃亮回应“与趣店预制菜合作”：重大疏忽 已经解约也没有后续的任何合作](http://www.techweb.com.cn/it/2022-07-26/2899497.shtml) | Tue Jul 26 2022 10:44 AM
-- 👹 [理想L9再曝试驾事故 发生断轴、主动刹车失效等问题](http://www.techweb.com.cn/smarttraveling/2022-07-26/2899496.shtml) | Tue Jul 26 2022 10:13 AM
-- 🪜 [当MCN不再隐匿：名字都摆那儿了，有事直接找他们](http://www.techweb.com.cn/viewpoint/2022-07-26/2899491.shtml) | Tue Jul 26 2022 9:51 AM
-- 🤭 [韩国三大电池厂商北美建厂将获得至少2.1万亿韩元补贴 LG新能源占近一半](http://www.techweb.com.cn/world/2022-07-26/2899490.shtml) | Tue Jul 26 2022 9:42 AM
-- 🙉 [外媒：苹果、谷歌等美国及科技巨头购买非法开采的巴西黄金](http://www.techweb.com.cn/world/2022-07-26/2899483.shtml) | Tue Jul 26 2022 9:25 AM<!-- techweb-allnews:END -->
+- 👍 [芒果TV会员又涨价了 月卡价格上调至30元](http://www.techweb.com.cn/internet/2022-07-27/2899578.shtml) | Wed Jul 27 2022 2:58 AM
+- 👹 [电商平台Shopify宣布裁员10% CEO承认自己赌输了](http://www.techweb.com.cn/world/2022-07-27/2899577.shtml) | Wed Jul 27 2022 2:51 AM
+- 🪜 [优酷的“失误”](http://www.techweb.com.cn/viewpoint/2022-07-27/2899576.shtml) | Wed Jul 27 2022 2:45 AM
+- 🤭 [美参议院投票通过芯片法案 补贴美国半导体芯片制造](http://www.techweb.com.cn/world/2022-07-27/2899574.shtml) | Wed Jul 27 2022 2:39 AM
+- 🙉 [不“熟”趣店贾乃亮](http://www.techweb.com.cn/viewpoint/2022-07-27/2899573.shtml) | Wed Jul 27 2022 2:37 AM<!-- techweb-allnews:END -->
 
 
 ## 应用资源
