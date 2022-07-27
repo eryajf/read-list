@@ -201,11 +201,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有什么推荐的 C# + WPF 跨平台开发框架](https://www.v2ex.com/t/869115#reply1) | Wed Jul 27 2022 3:33 PM
-- 🤗 [HVV](https://www.v2ex.com/t/869107#reply4) | Wed Jul 27 2022 2:52 PM
-- 🎭 [JS axios async/await 好像只能返回 promise](https://www.v2ex.com/t/869082#reply12) | Wed Jul 27 2022 11:57 AM
-- 🥷 [为什么 U+F061 字符粘贴到 Word 里会显示为小写希腊字母α？](https://www.v2ex.com/t/869077#reply11) | Wed Jul 27 2022 10:44 AM
-- 🐵 [ubuntu /usr/include/c++/11/ 下的文件报错](https://www.v2ex.com/t/869070#reply1) | Wed Jul 27 2022 10:08 AM<!-- v2ex:END -->
+- 🥸 [体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply0) | Wed Jul 27 2022 5:01 PM
+- 🤗 [各位大佬们 黑裙安装时提示 SATA boot support on this platform is exper imental!](https://www.v2ex.com/t/869120#reply0) | Wed Jul 27 2022 4:38 PM
+- 🎭 [有什么推荐的 C# + WPF 跨平台开发框架](https://www.v2ex.com/t/869115#reply3) | Wed Jul 27 2022 3:33 PM
+- 🥷 [HVV](https://www.v2ex.com/t/869107#reply4) | Wed Jul 27 2022 2:52 PM
+- 🐵 [JS axios async/await 好像只能返回 promise](https://www.v2ex.com/t/869082#reply12) | Wed Jul 27 2022 11:57 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
