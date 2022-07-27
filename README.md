@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [592. 分数加减运算 : 表达式计算入门题](https://juejin.cn/post/7124886658436038669) | Wed Jul 27 2022 3:19 AM 
+- 🤗 [盘点 10 个 GitHub 上的前端高仿项目](https://juejin.cn/post/7124909032808120328) | Wed Jul 27 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 题目描述 这是 LeetCode 上的 592. 分数加减运算 ，难度为 中等。 Tag : 「表达式计算 
+    大家好，我是CUGGZ。 今天来推荐 Github 上几个热门的前端开源项目！ 1. 高仿 QQ音乐（Vue） 一个使用 Vue3+TS 开发的音乐播放器，界面模仿QQ音乐Mac客户端，支持黑夜模式。 
     </details> 
 
-- 🎡 [novnc远程连接桌面部署讲解与一键部署脚本](https://juejin.cn/post/7124858540467945486) | Wed Jul 27 2022 1:30 AM 
+- 🎡 [案例+图解带你一文读懂SVG、使用滤镜构建圆角及波浪效果、说说Go中的语法糖、SpringBoot中的配置文件详解丨酱酱的下午茶第37期](https://juejin.cn/post/7124906095499280397) | Wed Jul 27 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
-    深入浅出讲解novnc部署完整过程，零基础也可以学会；文末还有一键部署脚本，让你一秒摆脱复杂的部署过程。 
+    案例+图解带你一文读懂SVG 圆角大杀器，使用滤镜构建圆角及波浪效果 使用Three.js实现炫酷的赛博朋克风格3D数字地球大屏 说说Go中的语法糖 Snowflake设计揭秘 SpringBoot中 
     </details> 
 
-- 🕯 [Flink - 读取 Parquet 文件 By Scala / Java](https://juejin.cn/post/7124858422469591053) | Wed Jul 27 2022 1:29 AM 
+- 🕯 [Seata 在蚂蚁国际银行业务的落地实践](https://juejin.cn/post/7124891732537245726) | Wed Jul 27 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-    parquet 文件常见与 Flink、Spark、Hive、Streamin、MapReduce 等大数据场景，通过列式存储和元数据存储的方式实现了高效的数据存储与检索 
+    为了满足银行业务快速发展、简化银行系统技术栈的目标，我们采用了 Spring+Dubbo 等一套开源的技术栈…… 
     </details> 
 
-- 🚀 [数据库存储系列（1）列式存储](https://juejin.cn/post/7124856750695514142) | Wed Jul 27 2022 1:23 AM 
+- 🚀 [直击 Vue 3.0 编译背后的过程和思想（一）](https://juejin.cn/post/7124890499478978597) | Wed Jul 27 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-    从数据的存储和检索角度看，我们通常会将数据库系统分为两类：OLTP, OLAP。这个划分体现了我们对于数据存储效率，查询效率在不同场景下的预期。 
+    Vue.js 3.0 为了运行时的性能优化，在编译阶段也是下了不少功夫，在接下来的系列文章中，我们一起去了解 Vue 3.0 编译过程以及背后的优化思想吧。Let&#39;s Go。 
     </details> 
 
-- 💪 [Flink - NoSuchMethodError: com.twitter.chill.java.Java8ClosureRegistrar.areOnJav](https://juejin.cn/post/7124856520650522631) | Wed Jul 27 2022 1:23 AM 
+- 💪 [责任链模式在转转精准估价中的应用](https://juejin.cn/post/7124889640430993439) | Wed Jul 27 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-    使用 Flink 1.13.1 + scala 2.11.12 的组合进行 Flink 本地测试是，报错 .NoSuchMethodError: com.twitter.chill.java.Java 
+    随着产品迭代，产品逻辑会逐渐复杂化，导致代码的维护性和可读性降低，本文介绍了在实际场景中如何用责任链模式重写业务逻辑。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
