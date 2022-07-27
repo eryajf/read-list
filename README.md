@@ -211,29 +211,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [盘点 10 个 GitHub 上的前端高仿项目](https://juejin.cn/post/7124909032808120328) | Wed Jul 27 2022 4:48 AM 
+- 🤗 [【干货满满】码上掘金很好用，从0到1手把手带你撸一个](https://juejin.cn/post/7124927840276971550) | Wed Jul 27 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是CUGGZ。 今天来推荐 Github 上几个热门的前端开源项目！ 1. 高仿 QQ音乐（Vue） 一个使用 Vue3+TS 开发的音乐播放器，界面模仿QQ音乐Mac客户端，支持黑夜模式。 
+    最近写文章的时候，用了一下掘金的前端代码在线编辑运行工具-码上掘金，感觉用来写个在线小demo还是挺不错的，于是乎手动完整撸了一个 
     </details> 
 
-- 🎡 [案例+图解带你一文读懂SVG、使用滤镜构建圆角及波浪效果、说说Go中的语法糖、SpringBoot中的配置文件详解丨酱酱的下午茶第37期](https://juejin.cn/post/7124906095499280397) | Wed Jul 27 2022 4:35 AM 
+- 🎡 [别再用 System.currentTimeMillis 统计耗时了，太 Low，试试 Spring Boot 源码在用的 StopWatch吧，够优雅！](https://juejin.cn/post/7124926821828657183) | Wed Jul 27 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-    案例+图解带你一文读懂SVG 圆角大杀器，使用滤镜构建圆角及波浪效果 使用Three.js实现炫酷的赛博朋克风格3D数字地球大屏 说说Go中的语法糖 Snowflake设计揭秘 SpringBoot中 
+    大家好，我是二哥呀！ 昨天，一位球友问我能不能给他解释一下 @SpringBootApplication 注解是什么意思，还有 Spring Boot 的运行原理，于是我就带着他扒拉了一下这个注解的源 
     </details> 
 
-- 🕯 [Seata 在蚂蚁国际银行业务的落地实践](https://juejin.cn/post/7124891732537245726) | Wed Jul 27 2022 3:39 AM 
+- 🕯 [OC 底层原理 20：GCD函数和队列](https://juejin.cn/post/7124926751687639077) | Wed Jul 27 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-    为了满足银行业务快速发展、简化银行系统技术栈的目标，我们采用了 Spring+Dubbo 等一套开源的技术栈…… 
+    开发中，我们常用GCD来处理一些异步流程，感觉很熟悉，但是又很陌生。一些概念还是很模糊，比如GCD是什么，任务是什么，串行队列和并发队列区别，同步函数和异步函数，队列和函数的配合使用，GCD下层封装等 
     </details> 
 
-- 🚀 [直击 Vue 3.0 编译背后的过程和思想（一）](https://juejin.cn/post/7124890499478978597) | Wed Jul 27 2022 3:34 AM 
+- 🚀 [5 分钟，快速入门 Python JWT 接口认证](https://juejin.cn/post/7124924257611546631) | Wed Jul 27 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue.js 3.0 为了运行时的性能优化，在编译阶段也是下了不少功夫，在接下来的系列文章中，我们一起去了解 Vue 3.0 编译过程以及背后的优化思想吧。Let&#39;s Go。 
+    1. 前言 为了反爬或限流节流，后端编写接口时，大部分 API 都会进行权限认证，只有认证通过，即：数据正常及未过期才会返回数据，否则直接报错 本篇文章以 Django 为例，聊聊后端 JWT 接口认 
     </details> 
 
-- 💪 [责任链模式在转转精准估价中的应用](https://juejin.cn/post/7124889640430993439) | Wed Jul 27 2022 3:31 AM 
+- 💪 [Python 终结者 - 装饰器，也叫 Decorator](https://juejin.cn/post/7124922734345191460) | Wed Jul 27 2022 5:39 AM 
     <details><summary>展开描述 ...</summary> 
-    随着产品迭代，产品逻辑会逐渐复杂化，导致代码的维护性和可读性降低，本文介绍了在实际场景中如何用责任链模式重写业务逻辑。 
+    1. 前言 RPC，全程为 Remote Procedure Call，是一种进程间的通信方式，它采用「 服务端 / 客户机 」模式，是一种请求响应模型 其中，服务端负责提供服务程序、响应请求做具体的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
