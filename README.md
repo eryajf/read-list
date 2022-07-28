@@ -455,7 +455,30 @@
 
 
 <!-- xclient:START -->
+- 🦏 [RAR Extractor Max – unzip 9.5.0 解压缩神器](https://xclient.info/s/rar-extractor-unzip.html) | Wed Jul 27 2022 1:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    RAR Extractor - Unzip是一款功能强大的解压缩软件，支持几乎所有的压缩格式，比如RAR, ZIP, 7z, tbz, sti, tar, xar等等，用起来非常的方便。 
+    </details> 
 
+-  [Sublime Merge 2.0 Build 2075 Git客户端](https://xclient.info/s/sublime-merge.html) | Wed Jul 27 2022 1:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    Sublime Merge 是Sublime Text制作者开发的一款Git客户端。 
+    </details> 
+
+- ⚗️ [Tower Pro 9.0 mac平台最强大的Git 客户端](https://xclient.info/s/tower.html) | Wed Jul 27 2022 1:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    Tower 是一款非常强大的Git客户端，如果你使用git的过程中，感觉使用命令很困难，可以尝试使用Tower。它采用了分布式版本库的方式，不必服务器端软件支持，使源代码的发布和交流极其方便。 
+    </details> 
+
+- 🔥 [SQLPro Studio 2022.45 CR2 多数据库管理工具](https://xclient.info/s/sqlpro-studio.html) | Wed Jul 27 2022 1:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    SQLPro Studio 是一款十分实用的数据库管理软件，该软件能够帮助用户快速智能的管理数据库的各种资料与文件，操作简单，能够更好的帮助用户及时管理数据库，欢迎有需要的用户下载使用。 
+    </details> 
+
+- 🌋 [Find Any File 2 2.3.3b14 FAF文件搜索增强工具](https://xclient.info/s/find-any-file.html) | Wed Jul 27 2022 1:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    Find Any File 让您可以在本地磁盘上搜索、查找您的任何文件包括本地磁盘的名称、 创建或修改日期、 大小或类型和创建者代码等等。 
+    </details> 
 <!-- xclient:END -->
 
 
