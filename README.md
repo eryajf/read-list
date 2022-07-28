@@ -246,30 +246,30 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [基于对象的实时空间音频渲染丨Dev for Dev 专栏](https://juejin.cn/post/7125424491257135111) | Thu Jul 28 2022 2:10 PM
-    <details><summary>展开描述 ...</summary>
-    本期文章，我们将主要讨论基于对象&lpar;object-based&rpar;的实时空间音频渲染，也就是如耳机等应用场景中，渲染对象为一个音源时的渲染思路与方案。
-    </details>
+- 🤗 [requestVideoFrameCallback&lpar;&rpar; 简单实例](https://juejin.cn/post/7125432811292459022) | Thu Jul 28 2022 2:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    在文章《浏览器视频帧操作方法 requestVideoFrameCallback&lpar;&rpar; 简介》中介绍了基本的使用情况，本文来体验一下其使用过程，后续将增加一些酷炫的实例。 点击开始播放视频、暂停视频以读 
+    </details> 
 
-- 🎡 [【LeetCode】 1200. 最小绝对差](https://juejin.cn/post/7125421831200178189) | Thu Jul 28 2022 1:57 PM
-    <details><summary>展开描述 ...</summary>
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能力
-    </details>
+- 🎡 [面试突击68：为什么 TCP 需要 3 次握手？](https://juejin.cn/post/7125431887228567582) | Thu Jul 28 2022 2:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    TCP 三次握手是一道经典的面试题，它是指 TCP 在传递数据之前，需要进行 3 次交互才能正式建立起连接... 
+    </details> 
 
-- 🕯 [Opencv 证件照片一键换底、马赛克处理](https://juejin.cn/post/7125402539792531470) | Thu Jul 28 2022 12:44 PM
-    <details><summary>展开描述 ...</summary>
-    证件照片一键换底步骤 1、获取图片； 2、数据组装； 3、Kmeans处理； 4、遮罩； 5、腐蚀、高斯模糊处理； 6、背景通道色替换； TermCriteria 类 定义迭代算法终止条件的类。 KM
-    </details>
+- 🕯 [UE4 调试常用的打印信息方法](https://juejin.cn/post/7125428279837720606) | Thu Jul 28 2022 2:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 前言 作为一名程序猿，在日常开发中肯定少不了在代码中加入日志，日志能及时的反馈给我们代码运行时的数据和信息 
+    </details> 
 
-- 🚀 [万字总结：分布式系统的38个知识点](https://juejin.cn/post/7125383856651239432) | Thu Jul 28 2022 11:32 AM
-    <details><summary>展开描述 ...</summary>
-    万字总结，38个知识点详解分布式会遇到什么问题，有哪些理论支撑，有哪些经典的应对方案，业界是如何设计并保证分布式系统的高可用
-    </details>
+- 🚀 [基于对象的实时空间音频渲染丨Dev for Dev 专栏](https://juejin.cn/post/7125424491257135111) | Thu Jul 28 2022 2:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    本期文章，我们将主要讨论基于对象&lpar;object-based&rpar;的实时空间音频渲染，也就是如耳机等应用场景中，渲染对象为一个音源时的渲染思路与方案。 
+    </details> 
 
-- 💪 [【周周有奖】云原生编程挑战赛“边缘容器”赛道邀你来战！](https://juejin.cn/post/7125375292201254925) | Thu Jul 28 2022 10:55 AM
-    <details><summary>展开描述 ...</summary>
-    作为本次大赛三大热门技术领域之一，“边缘容器”赛道的发起就希望在这样的背景下，通过集结关注、热爱云原生的开发者的智慧、技术和能量，探索研究如何在云边协同的边缘场景架构体系下，降低边缘侧组件的资源占用率
-    </details>
+- 💪 [【LeetCode】 1200. 最小绝对差](https://juejin.cn/post/7125421831200178189) | Thu Jul 28 2022 1:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能力 
+    </details> 
 <!-- juejin:END -->
 ### 少数派
 
