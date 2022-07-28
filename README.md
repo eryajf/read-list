@@ -595,28 +595,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Sliderule - 用于风险和欺诈的无代码规则引擎](https://xinquji.com/posts/178289?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:43 AM 
+- 👀 [Firezone &lpar;Beta&rpar; - 在几分钟内为您的团队提供快速的专用网络](https://xinquji.com/posts/178317?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     用于风险和欺诈的无代码规则引擎  
+     在几分钟内为您的团队提供快速的专用网络  
     </details> 
 
-- 🥷 [Warmy.io - 自动多合一工具，使您的电子邮件渠道可靠](https://xinquji.com/posts/178288?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM 
+- 🥷 [sona - 音乐作为药物 - 以科学为基础的焦虑音乐](https://xinquji.com/posts/178316?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     自动多合一工具，使您的电子邮件渠道可靠  
+     音乐作为药物 - 以科学为基础的焦虑音乐  
     </details> 
 
-- 💼 [Kreya - 更快地构建和测试 API](https://xinquji.com/posts/178287?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM 
+- 💼 [Swetrix - 终极开源分析，满足您的所有需求](https://xinquji.com/posts/178315?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     更快地构建和测试 API  
+     终极开源分析，满足您的所有需求  
     </details> 
 
-- 🦅 [Settle - 为电子商务品牌打造的现金流管理](https://xinquji.com/posts/178286?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM 
+- 🦅 [DropBlok - 拖放在 4 分钟内构建您的应用程序](https://xinquji.com/posts/178314?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     为电子商务品牌打造的现金流管理  
+     拖放在 4 分钟内构建您的应用程序  
     </details> 
 
-- 😺 [The Guide To No Code Marketplaces 2.0 - 更新且全面的 50 多页指南](https://xinquji.com/posts/178285?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM 
+- 😺 [Youcept - 以任何形式买卖任何种类的知识](https://xinquji.com/posts/178313?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     更新且全面的 50 多页指南  
+     以任何形式买卖任何种类的知识  
     </details> 
 <!-- xinquji:END -->
