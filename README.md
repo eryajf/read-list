@@ -206,11 +206,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [idea 社区版 tomcat？](https://www.v2ex.com/t/869146#reply4) | Thu Jul 28 2022 1:19 AM
-- 🤗 [体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply4) | Wed Jul 27 2022 5:01 PM
-- 🎭 [各位大佬们 黑裙安装时提示 SATA boot support on this platform is exper imental!](https://www.v2ex.com/t/869120#reply0) | Wed Jul 27 2022 4:38 PM
-- 🥷 [有什么推荐的 C# + WPF 跨平台开发框架](https://www.v2ex.com/t/869115#reply10) | Wed Jul 27 2022 3:33 PM
-- 🐵 [HVV](https://www.v2ex.com/t/869107#reply8) | Wed Jul 27 2022 2:52 PM<!-- v2ex:END -->
+- 🥸 [js 写后台, 是不是有点先天残缺?](https://www.v2ex.com/t/869194#reply2) | Thu Jul 28 2022 3:21 AM
+- 🤗 [制作 Windows 屏保](https://www.v2ex.com/t/869192#reply0) | Thu Jul 28 2022 3:18 AM
+- 🎭 [外部对象，进入函数后对其添加属性后，离开函数后，用调试器看不到这些添加的属性？](https://www.v2ex.com/t/869191#reply2) | Thu Jul 28 2022 3:14 AM
+- 🥷 [dapr sidecar 一种开发模式是不是会成为未来主流开发方式？](https://www.v2ex.com/t/869189#reply0) | Thu Jul 28 2022 3:07 AM
+- 🐵 [现在发布的充电头，怎么还带 A 口这么落后的东西，全变成 type-c 的不好么？](https://www.v2ex.com/t/869188#reply10) | Thu Jul 28 2022 3:04 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
