@@ -215,29 +215,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [手把手从0撸一个《掘金特别关注》谷歌插件、五千字细说Vue3响应式原理、几种缓存读写方案的优缺点和选择 、飞书招聘简历解析优化实践 | 酱酱的下午茶第 38 期](https://juejin.cn/post/7125278766716157988) | Thu Jul 28 2022 4:41 AM 
+- 🤗 [聊聊 Python 中数据库反向生成 Model 最优方案](https://juejin.cn/post/7125293030168330270) | Thu Jul 28 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
-    本期看点: 手把手从0撸一个《掘金特别关注》谷歌插件、五千字细说 Vue3 响应式原理 reactive 与 watch 实现、几种缓存读写方案的优缺点和选择、飞书招聘简历解析优化实践 
+    1. 前言 熟悉 Django 的朋友应该知道，我们可以通过「 inspectdb 」命令将数据库表反向生成 Model 并写入到文件中去 比如，Django 项目映射数据库中有一张 student  
     </details> 
 
-- 🎡 [品牌广告投放平台的中台化应用与实践](https://juejin.cn/post/7125256126500700168) | Thu Jul 28 2022 3:13 AM 
+- 🎡 [DRF 中的模型序列化到底该怎么用？](https://juejin.cn/post/7125291457912504327) | Thu Jul 28 2022 5:31 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要分两块，首先介绍品牌广告投放平台的架构演进；其次，结合实际业务，介绍在践行中台化理念和微服务化改造过程中碰到的问题和解决方案。 
+    1. 模型序列化的作用？ 作为 DRF 中非常关键的一步，模型序列化主要作用有 3 个 序列化数据 用于将模型序列化成 JSON 格式的对象，便于数据返回 表单验证 在表单请求中，用于验证用户上传的数 
     </details> 
 
-- 🕯 [得物客服IM消息通信SDK自研之路](https://juejin.cn/post/7125255700615774245) | Thu Jul 28 2022 3:11 AM 
+- 🕯 [给LaTeX公式添加优美的注解；日更『数据科学』面试题集锦；大学生『计算机』自学指南；个人防火墙；前沿资料/论文 | ShowMeAI资讯日报](https://juejin.cn/post/7125285341736960037) | Thu Jul 28 2022 5:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 07-28 期，Patchwork++ 使用3D点云实现地面分割、PyMLpipe 简化机器学习模型监控和部署、git-machete 简化git工作流、细粒度情感分析资源… 
+    </details> 
+
+- 🚀 [得物客服IM消息通信SDK自研之路](https://juejin.cn/post/7125255700615774245) | Thu Jul 28 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     自研SDK收益还是非常大的，也积累了很多IM方面的经验，完成自研SDK也只是一个开始，后续我们将会在耗时任务、数据安全等方面持续深耕细作。 
     </details> 
 
-- 🚀 [如何2分钟把你的前端项目（web）变成一个客户端软件（electron）](https://juejin.cn/post/7125252026232995870) | Thu Jul 28 2022 2:57 AM 
+- 💪 [巧用ngx_lua做流量分组](https://juejin.cn/post/7125232630416703518) | Thu Jul 28 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-    一个命令行来快速生成能够正常运行和打包的electron的最低配置。支持ant-design-pro、crate-react-app、vue。 
-    </details> 
-
-- 💪 [即时通讯场景下安全合规的实践和经验](https://juejin.cn/post/7125065412072439822) | Wed Jul 27 2022 2:53 PM 
-    <details><summary>展开描述 ...</summary> 
-    在监管趋紧的形式下，即时通讯场景会遇到很多安全合规领域的挑战，如何满足这些安全合规的要求，如何保护用户的隐私安全，是一件非常有挑战的事情。 
+    一个服务有多个需求同时进行测试，需要nginx根据特定信息将流量转发到指定测试机。 全链路压测：流量无区分，影响线上用户，只能在业务低峰进行压测，需要值守，成本较高，需要能够流 
     </details> 
 <!-- juejin:END -->
 ### 少数派
