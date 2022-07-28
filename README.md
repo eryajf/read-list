@@ -406,7 +406,50 @@
 
 
 <!-- mac52ipod:START -->
+- 👨‍🏫 [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果中国官网宣布了一个限时优惠活动：7月29日到8月1日，使用支付宝/招行/建行/工行卡，在苹果官网在线商店和 Apple Store 零售店买指定的苹果设备有限时优惠：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;iPhone 13 系列优惠 600 元&lt;/li&gt;&lt;li&gt;iPhone SE（第三代）优惠 200 元&lt;/li&gt;&lt;li&gt;iPhone12 和 iPhone12 mini 优惠 500 元&lt;/li&gt;&lt;li&gt;Apple Watch SE 优惠 200 元&lt;/li&gt;&lt;li&gt;AirPods 系列优惠 150-250 元&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;每人每个分类（手机、手表、耳机）限购两台，而且不和商务优惠、员工优惠、教育优惠等其它优惠叠加。&lt;/p&gt;&lt;p&gt;其实我觉得「再过一两个月就换代」的这个时间点有点儿尴尬。就算真的要买，拼多多百亿补贴挺香的。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
 
+ 
+    </details> 
+
+- 🏊 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	国内 Android 厂商很喜欢给照片加上机型信息水印，如果是和相机大厂合作的手机，还会打上莱卡、哈苏等相机的水印。最近小米推出了和莱卡合作的机型，拍照后能在照片底部添加莱卡图标和坐标、焦距、光圈、快门、ISO 等信息。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6701&quot; border=&quot;0&quot; alt=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; title=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; /&gt;&lt;/p&gt;&lt;p&gt;如果你也想让苹果 iPhone 拍的照片也有类似水印，可以试试这个叫「徕卡水印」的 iOS 捷径，下载地址 &lt;u&gt;&lt;a href=&quot;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&quot; target=&quot;_blank&quot; title=&quot;莱卡水印&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%258D%25B7%25E5%25BE%2584&quot; rel=&quot;tag&quot;&gt;捷径&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=shortcuts&quot; rel=&quot;tag&quot;&gt;shortcuts&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🦏 [Mac技巧之苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo](http://www.mac52ipod.cn/post/apple-mac-macos-search-launcher-app-alfred-hapigo.php) | Fri Jul 22 2022 10:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果电脑 macOS 系统自带了搜索和快速启动工具 Spotlight。如果你想要更多功能，十多年来比较有名的第三方启动器工具是 &lt;u&gt;&lt;a href=&quot;/post/search-open-software-by-keyboard-alfred.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑 Mac OS X 系统上通过键盘快速搜索和启动软件的免费工具：Alfred &quot;&gt;&lt;font color=#0000FF&gt;Alfred&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。最近发现一个 Alfred 的竞争者，功能类似，扩展性也很强：HapiGo。这里有段视频介绍 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Mr4y1U7en&quot; target=&quot;_blank&quot; title=&quot;Hapigo-比肩Alfred的工具终于来了!&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1Mr4y1U7en&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=765396797&amp;bvid=BV1Mr4y1U7en&amp;cid=478586306&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;HapiGo 更详细的介绍，以及下载地址，看官网吧 &lt;u&gt;&lt;a href=&quot;https://hapigo.com/&quot; target=&quot;_blank&quot; title=&quot;苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://hapigo.com/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=alfred&quot; rel=&quot;tag&quot;&gt;alfred&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2588%25E7%258E%2587&quot; rel=&quot;tag&quot;&gt;效率&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%2594%25AE%25E7%259B%2598&quot; rel=&quot;tag&quot;&gt;键盘&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🚀 [Apple Watch 用户不在微信运动里显示具体健身数据的方法](http://www.mac52ipod.cn/post/apple-watch-user-only-share-steps-to-wechat-werun.php) | Wed Jul 20 2022 11:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	我在微信运动的步数排行榜里，不仅能看到微信好友的步数，还能看到很多戴了 Apple Watch 的好友的每日具体健身数据。如果你只想和好友比比步数的话，打开 iPhone 的健康 App → 隐私 → App → 微信，关掉「体能训练」选项就行了。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6702&quot; border=&quot;0&quot; alt=&quot;Apple Watch 用户不在微信运动里显示具体健身数据的方法&quot; title=&quot;Apple Watch 用户不在微信运动里显示具体健身数据的方法&quot; /&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=applewatch&quot; rel=&quot;tag&quot;&gt;applewatch&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%25BF%2590%25E5%258A%25A8&quot; rel=&quot;tag&quot;&gt;运动&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%2581%25A5%25E8%25BA%25AB&quot; rel=&quot;tag&quot;&gt;健身&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25BE%25AE%25E4%25BF%25A1&quot; rel=&quot;tag&quot;&gt;微信&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%259A%2590%25E7%25A7%2581&quot; rel=&quot;tag&quot;&gt;隐私&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Apple新闻之2022年苹果教育优惠开启](http://www.mac52ipod.cn/post/apple-china-back-to-school-2022.php) | Mon Jul 18 2022 2:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	每年暑假到秋季开学这段时间，苹果会开启教育优惠活动。今年的中国区教育优惠时间为 7 月 14 日到 9 月 26 日，在校大学生、高考后收到大学录取通知的高三毕业生、在职教师和教职工都能参加。优惠内容包括：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;指定款的 Mac、iPad 价格优惠&lt;/li&gt;&lt;li&gt;购买指定款 Mac 或 iPad 就送第二代 AirPods 无线耳机。可以补差价升级到第三代 AirPods 或 AirPods Pro&lt;/li&gt;&lt;li&gt;Apple Care+ 八折优惠&lt;/li&gt;&lt;li&gt;Final Cut Pro X、Logic Pro X、Motion 5、Compressor 4 和 MainStage 3 这五款专业软件享受教育套装优惠价&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果中国官网的详细说明 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/cn-edu/shop/go/back_to_school&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网 新学期教育优惠活动&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/cn-edu/shop/go/back_to_school&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2599%25E8%2582%25B2&quot; rel=&quot;tag&quot;&gt;教育&lt;/a&gt;
+
+ 
+    </details> 
 <!-- mac52ipod:END -->
 ### 精品Mac应用
 
