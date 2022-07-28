@@ -45,30 +45,30 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。 
-    </details> 
+- 🫶 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM
+    <details><summary>展开描述 ...</summary>
+    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。
+    </details>
 
-- 🧰 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template 
-    </details> 
+- 🧰 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM
+    <details><summary>展开描述 ...</summary>
+    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template
+    </details>
 
-- 🌏 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) | Sat Jul 23 2022 11:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    做一个开源项目，尽量提供给受众以简单易用的快速上手体验，也是项目能够立刻把人抓住的一个关键。现在如果想让用户快速体验项目，除了提供demo环境之外，还有一个方案，那就是提供一个完备的docker-compose，让人能够直接一键拉起。 
-    </details> 
+- 🌏 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) | Sat Jul 23 2022 11:01 AM
+    <details><summary>展开描述 ...</summary>
+    做一个开源项目，尽量提供给受众以简单易用的快速上手体验，也是项目能够立刻把人抓住的一个关键。现在如果想让用户快速体验项目，除了提供demo环境之外，还有一个方案，那就是提供一个完备的docker-compose，让人能够直接一键拉起。
+    </details>
 
-- 😎 [学习周刊-总第63期-2022年第28周](https://wiki.eryajf.net/pages/d2ea2c/) | Sat Jul 23 2022 10:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第63期-2022年第28周 
-    </details> 
+- 😎 [学习周刊-总第63期-2022年第28周](https://wiki.eryajf.net/pages/d2ea2c/) | Sat Jul 23 2022 10:32 AM
+    <details><summary>展开描述 ...</summary>
+    学习周刊-总第63期-2022年第28周
+    </details>
 
-- 💂 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) | Wed Jul 20 2022 5:22 PM 
-    <details><summary>展开描述 ...</summary> 
-    老婆，孩子，热炕头,电脑，开源，打篮球,我已阔别城市那拥挤的精彩,在家抓住了这一阵儿的平庸 
-    </details> 
+- 💂 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) | Wed Jul 20 2022 5:22 PM
+    <details><summary>展开描述 ...</summary>
+    老婆，孩子，热炕头,电脑，开源，打篮球,我已阔别城市那拥挤的精彩,在家抓住了这一阵儿的平庸
+    </details>
 <!-- eryajf:END -->
 
 ### 酷壳
@@ -101,30 +101,30 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第64期） : 一套图标，6天6位数收入](https://www.ezindie.com/weekly/issue-64) | Fri Jul 22 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一套图标，6天6位数收入 
-    </details> 
+- 💂 [独立开发变现周刊（第64期） : 一套图标，6天6位数收入](https://www.ezindie.com/weekly/issue-64) | Fri Jul 22 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    分享独立开发产品变现相关有价值的内容，每周五发布。一套图标，6天6位数收入
+    </details>
 
-- 💡 [独立开发变现周刊（第63期） : 一个爬虫类产品，4个月做到月收入3000美元](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个爬虫类产品，4个月做到月收入3000美元 
-    </details> 
+- 💡 [独立开发变现周刊（第63期） : 一个爬虫类产品，4个月做到月收入3000美元](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个爬虫类产品，4个月做到月收入3000美元
+    </details>
 
-- 🌋 [独立开发变现周刊（第62期） : 我是如何开发一个年收入30万美金的Vue.js开源组件库的？](https://www.ezindie.com/weekly/issue-62) | Fri Jul 08 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。我是如何开发一个年收入30万美金的Vue.js开源组件库的？ 
-    </details> 
+- 🌋 [独立开发变现周刊（第62期） : 我是如何开发一个年收入30万美金的Vue.js开源组件库的？](https://www.ezindie.com/weekly/issue-62) | Fri Jul 08 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    分享独立开发产品变现相关有价值的内容，每周五发布。我是如何开发一个年收入30万美金的Vue.js开源组件库的？
+    </details>
 
-- 🕴 [独立开发变现周刊（第61期） : 我们是如何构建一个100万美元年收入开源SaaS的？](https://www.ezindie.com/weekly/issue-61) | Fri Jul 01 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。我们是如何构建一个100万美元年收入开源SaaS的？ 
-    </details> 
+- 🕴 [独立开发变现周刊（第61期） : 我们是如何构建一个100万美元年收入开源SaaS的？](https://www.ezindie.com/weekly/issue-61) | Fri Jul 01 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    分享独立开发产品变现相关有价值的内容，每周五发布。我们是如何构建一个100万美元年收入开源SaaS的？
+    </details>
 
-- 🎊 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。如何在30多个国家建立150万美元的年收入产品 
-    </details> 
+- 🎊 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | Fri Jun 24 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    分享独立开发产品变现相关有价值的内容，每周五发布。如何在30多个国家建立150万美元的年收入产品
+    </details>
 <!-- easyindie:END -->
 
 
@@ -138,59 +138,59 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html) | Thu Jul 21 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。本文将精选10篇论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。 
-    </details> 
+- 🕯 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html) | Thu Jul 21 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。本文将精选10篇论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。
+    </details>
 
-- 🤠 [可视化全链路日志追踪](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html) | Thu Jul 21 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    可观测性作为系统高可用的重要保障，已经成为系统建设中不可或缺的一环。然而随着业务逻辑的日益复杂，传统的ELK方案在日志搜集、筛选和分析等方面愈加耗时耗力，而分布式会话跟踪方案虽然基于追踪能力完善了日志的串联，但更聚焦于调用链路，也难以直接应用于高效的业务追踪。本文介绍了可视化全链路日志追踪的新方案，它以业务链路为载体，通过有效组织业务每次执行的日志，实现了执行现场的可视化还原，支持问题的高效定位。 
-    </details> 
+- 🤠 [可视化全链路日志追踪](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html) | Thu Jul 21 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    可观测性作为系统高可用的重要保障，已经成为系统建设中不可或缺的一环。然而随着业务逻辑的日益复杂，传统的ELK方案在日志搜集、筛选和分析等方面愈加耗时耗力，而分布式会话跟踪方案虽然基于追踪能力完善了日志的串联，但更聚焦于调用链路，也难以直接应用于高效的业务追踪。本文介绍了可视化全链路日志追踪的新方案，它以业务链路为载体，通过有效组织业务每次执行的日志，实现了执行现场的可视化还原，支持问题的高效定位。
+    </details>
 
-- 🤠 [工程效能CI/CD之流水线引擎的建设实践](https://tech.meituan.com/2022/07/14/cicd-pipeline.html) | Thu Jul 14 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。 
-    </details> 
+- 🤠 [工程效能CI/CD之流水线引擎的建设实践](https://tech.meituan.com/2022/07/14/cicd-pipeline.html) | Thu Jul 14 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。
+    </details>
 
-- 🚀 [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    在外卖广告CTR场景下，深度学习模型正在从简单DNN小模型过渡到千亿参数复杂模型。基于该背景，本文将重点针对大规模深度模型在全链路带来的挑战，从在线时延、离线效率两个方面展开，阐述外卖广告在大规模深度模型上的工程实践经验，希望能为读者提供思路上的借鉴。 
-    </details> 
+- 🚀 [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    在外卖广告CTR场景下，深度学习模型正在从简单DNN小模型过渡到千亿参数复杂模型。基于该背景，本文将重点针对大规模深度模型在全链路带来的挑战，从在线时延、离线效率两个方面展开，阐述外卖广告在大规模深度模型上的工程实践经验，希望能为读者提供思路上的借鉴。
+    </details>
 
-- ⚗️ [大众点评搜索相关性技术探索与实践](https://tech.meituan.com/2022/07/06/semantic-relevance-matching.html) | Wed Jul 06 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    搜索相关性用于衡量Query和Doc的相关程度，是搜索引擎的重要环节，本文主要讲述大众点评搜索团队在相关性计算上的技术探索和实践，通过多相似矩阵模型结构、多阶段训练等方法提升预训练模型在相关性问题上的效果，同时解决基于交互的模型在线预测的性能问题，希望为从事相关工作的同学能够带来一些启发或者帮助。 
-    </details> 
+- ⚗️ [大众点评搜索相关性技术探索与实践](https://tech.meituan.com/2022/07/06/semantic-relevance-matching.html) | Wed Jul 06 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    搜索相关性用于衡量Query和Doc的相关程度，是搜索引擎的重要环节，本文主要讲述大众点评搜索团队在相关性计算上的技术探索和实践，通过多相似矩阵模型结构、多阶段训练等方法提升预训练模型在相关性问题上的效果，同时解决基于交互的模型在线预测的性能问题，希望为从事相关工作的同学能够带来一些启发或者帮助。
+    </details>
 <!-- meituan:END -->
 
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [盛夏露营，我不怕热不怕蚊子吗？](https://blog.ops-coffee.cn/s/mWYu4bSkSpymtk8opJa-IQ) | Thu Jul 21 2022 9:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    有很多朋友问我，三十几度的天气，你还出去露营，不怕热吗？不怕蚊虫叮咬吗？ 
-    </details> 
+- 👺 [盛夏露营，我不怕热不怕蚊子吗？](https://blog.ops-coffee.cn/s/mWYu4bSkSpymtk8opJa-IQ) | Thu Jul 21 2022 9:39 AM
+    <details><summary>展开描述 ...</summary>
+    有很多朋友问我，三十几度的天气，你还出去露营，不怕热吗？不怕蚊虫叮咬吗？
+    </details>
 
-- 💯 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    真的喜欢户外的，都是热爱生活的 
-    </details> 
+- 💯 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM
+    <details><summary>展开描述 ...</summary>
+    真的喜欢户外的，都是热爱生活的
+    </details>
 
-- 🚦 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    夏天户外露营过夜体验 
-    </details> 
+- 🚦 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM
+    <details><summary>展开描述 ...</summary>
+    夏天户外露营过夜体验
+    </details>
 
-- 👨‍🏫 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    PEP 8 -- Python 代码风格指南 
-    </details> 
+- 👨‍🏫 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM
+    <details><summary>展开描述 ...</summary>
+    PEP 8 -- Python 代码风格指南
+    </details>
 
-- 🌮 [半年，再聊房车使用体验](https://blog.ops-coffee.cn/r/half-a-year-RV-experience) | Fri Jun 17 2022 2:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    大通B型房车使用半年之后谈下使用体验 
-    </details> 
+- 🌮 [半年，再聊房车使用体验](https://blog.ops-coffee.cn/r/half-a-year-RV-experience) | Fri Jun 17 2022 2:11 PM
+    <details><summary>展开描述 ...</summary>
+    大通B型房车使用半年之后谈下使用体验
+    </details>
 <!-- ops-coffee:END -->
 ### 四火的唠叨
 
@@ -200,6 +200,25 @@
 - 🤖 [英文能力与独立思考](https://www.raychase.net/6902) | Mon Mar 07 2022 4:29 AM
 - 🪄 [我的美股投资原则](https://www.raychase.net/6846) | Sat Jan 01 2022 5:13 AM
 - 🐘 [2021 年旅行的简单回顾](https://www.raychase.net/6827) | Mon Dec 27 2021 6:07 AM<!-- raychase:END -->
+
+### 腾讯全端
+
+<!-- alloyteam:START -->
+
+<!-- alloyteam:END -->
+
+### 火丁笔记
+
+<!-- huoding:START -->
+
+<!-- huoding:END -->
+
+
+### freebuf
+
+<!-- freebuf:START -->
+
+<!-- freebuf:END -->
 
 ## 新闻热览
 
@@ -215,59 +234,59 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [基于对象的实时空间音频渲染丨Dev for Dev 专栏](https://juejin.cn/post/7125424491257135111) | Thu Jul 28 2022 2:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    本期文章，我们将主要讨论基于对象&lpar;object-based&rpar;的实时空间音频渲染，也就是如耳机等应用场景中，渲染对象为一个音源时的渲染思路与方案。 
-    </details> 
+- 🤗 [基于对象的实时空间音频渲染丨Dev for Dev 专栏](https://juejin.cn/post/7125424491257135111) | Thu Jul 28 2022 2:10 PM
+    <details><summary>展开描述 ...</summary>
+    本期文章，我们将主要讨论基于对象&lpar;object-based&rpar;的实时空间音频渲染，也就是如耳机等应用场景中，渲染对象为一个音源时的渲染思路与方案。
+    </details>
 
-- 🎡 [【LeetCode】 1200. 最小绝对差](https://juejin.cn/post/7125421831200178189) | Thu Jul 28 2022 1:57 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能力 
-    </details> 
+- 🎡 [【LeetCode】 1200. 最小绝对差](https://juejin.cn/post/7125421831200178189) | Thu Jul 28 2022 1:57 PM
+    <details><summary>展开描述 ...</summary>
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能力
+    </details>
 
-- 🕯 [Opencv 证件照片一键换底、马赛克处理](https://juejin.cn/post/7125402539792531470) | Thu Jul 28 2022 12:44 PM 
-    <details><summary>展开描述 ...</summary> 
-    证件照片一键换底步骤 1、获取图片； 2、数据组装； 3、Kmeans处理； 4、遮罩； 5、腐蚀、高斯模糊处理； 6、背景通道色替换； TermCriteria 类 定义迭代算法终止条件的类。 KM 
-    </details> 
+- 🕯 [Opencv 证件照片一键换底、马赛克处理](https://juejin.cn/post/7125402539792531470) | Thu Jul 28 2022 12:44 PM
+    <details><summary>展开描述 ...</summary>
+    证件照片一键换底步骤 1、获取图片； 2、数据组装； 3、Kmeans处理； 4、遮罩； 5、腐蚀、高斯模糊处理； 6、背景通道色替换； TermCriteria 类 定义迭代算法终止条件的类。 KM
+    </details>
 
-- 🚀 [万字总结：分布式系统的38个知识点](https://juejin.cn/post/7125383856651239432) | Thu Jul 28 2022 11:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    万字总结，38个知识点详解分布式会遇到什么问题，有哪些理论支撑，有哪些经典的应对方案，业界是如何设计并保证分布式系统的高可用 
-    </details> 
+- 🚀 [万字总结：分布式系统的38个知识点](https://juejin.cn/post/7125383856651239432) | Thu Jul 28 2022 11:32 AM
+    <details><summary>展开描述 ...</summary>
+    万字总结，38个知识点详解分布式会遇到什么问题，有哪些理论支撑，有哪些经典的应对方案，业界是如何设计并保证分布式系统的高可用
+    </details>
 
-- 💪 [【周周有奖】云原生编程挑战赛“边缘容器”赛道邀你来战！](https://juejin.cn/post/7125375292201254925) | Thu Jul 28 2022 10:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为本次大赛三大热门技术领域之一，“边缘容器”赛道的发起就希望在这样的背景下，通过集结关注、热爱云原生的开发者的智慧、技术和能量，探索研究如何在云边协同的边缘场景架构体系下，降低边缘侧组件的资源占用率 
-    </details> 
+- 💪 [【周周有奖】云原生编程挑战赛“边缘容器”赛道邀你来战！](https://juejin.cn/post/7125375292201254925) | Thu Jul 28 2022 10:55 AM
+    <details><summary>展开描述 ...</summary>
+    作为本次大赛三大热门技术领域之一，“边缘容器”赛道的发起就希望在这样的背景下，通过集结关注、热爱云原生的开发者的智慧、技术和能量，探索研究如何在云边协同的边缘场景架构体系下，降低边缘侧组件的资源占用率
+    </details>
 <!-- juejin:END -->
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [新玩意 114｜少数派的编辑们最近买了啥？](https://sspai.com/post/74845) | Thu Jul 28 2022 9:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/74845&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
+- 👹 [新玩意 114｜少数派的编辑们最近买了啥？](https://sspai.com/post/74845) | Thu Jul 28 2022 9:16 AM
+    <details><summary>展开描述 ...</summary>
+    关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/74845&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 
-- 🐘 [如何做一款好玩的「猫咪模拟器」：从《Stray》拆解游戏关卡设计和美术](https://sspai.com/post/74810) | Thu Jul 28 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
+- 🐘 [如何做一款好玩的「猫咪模拟器」：从《Stray》拆解游戏关卡设计和美术](https://sspai.com/post/74810) | Thu Jul 28 2022 8:30 AM
+    <details><summary>展开描述 ...</summary>
     近日新出的第三喵称猫咪模拟器《Stray》强烈建议喜欢线性关卡设计和游戏环境美术的朋友去体验，这款游戏的关卡设计属于是非常规矩的教科书，而其最大卖点关卡美术环境则更是亮眼。
-本文章会按照游戏关卡的线性流程，将一些 RPG 游戏关卡设计包括一些零散的美术知识的个人见解和分析融入到体验过程中进行逆推。&lt;a href=&quot;https://sspai.com/post/74810&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
+本文章会按照游戏关卡的线性流程，将一些 RPG 游戏关卡设计包括一些零散的美术知识的个人见解和分析融入到体验过程中进行逆推。&lt;a href=&quot;https://sspai.com/post/74810&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 
-- 🤭 [城市收藏夹 | 那些北京的特色书店们](https://sspai.com/post/74837) | Thu Jul 28 2022 6:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    放下手机，和我一起去阅读、去感受。&lt;a href=&quot;https://sspai.com/post/74837&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
+- 🤭 [城市收藏夹 | 那些北京的特色书店们](https://sspai.com/post/74837) | Thu Jul 28 2022 6:36 AM
+    <details><summary>展开描述 ...</summary>
+    放下手机，和我一起去阅读、去感受。&lt;a href=&quot;https://sspai.com/post/74837&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 
-- 🥸 [数字文具盒 | 有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820) | Thu Jul 28 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74820&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
+- 🥸 [数字文具盒 | 有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820) | Thu Jul 28 2022 3:30 AM
+    <details><summary>展开描述 ...</summary>
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74820&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 
-- 🙉 [派早报：华为发布 HarmonyOS 3 及多款新品、realme 推出 Q5 狂欢版等](https://sspai.com/post/74835) | Thu Jul 28 2022 12:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    音视频、信息通信等设备新国标将于明年实施、雷蛇发布噬魂金蝎 V2 系列纤薄旗舰键盘等。&lt;a href=&quot;https://sspai.com/post/74835&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
+- 🙉 [派早报：华为发布 HarmonyOS 3 及多款新品、realme 推出 Q5 狂欢版等](https://sspai.com/post/74835) | Thu Jul 28 2022 12:42 AM
+    <details><summary>展开描述 ...</summary>
+    音视频、信息通信等设备新国标将于明年实施、雷蛇发布噬魂金蝎 V2 系列纤薄旗舰键盘等。&lt;a href=&quot;https://sspai.com/post/74835&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 <!-- sspai:END -->
 
 ### 知乎每日精选
@@ -279,35 +298,83 @@
 - 🕴 [为什么感觉烤出来的食物，比煮出来的食物吃起来更香？](http://daily.zhihu.com/story/9751103) | Thu Jul 28 2022 12:27 AM
 - 🌮 [《滕王阁序》是即兴创作的吗？](http://daily.zhihu.com/story/9751095) | Thu Jul 28 2022 12:27 AM<!-- zhihu:END -->
 
+### cnbeta
+
+<!-- cnbeta:START -->
+
+<!-- cnbeta:END -->
+
 ## 应用资源
 
 ### 最佳应用
 
 
 <!-- zuijiastore:START -->
-- 🎓 [最佳应用-在线免费小说阅读汇总](http://www.zuijiastore.com/2429.html) | Sun Jun 05 2022 1:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要整理的是在线小说阅读网站。 01、轻小说文库（下载：TXT） 网址：https://www.wenku8.net/index.php 02、轻之过度（下载：EPUB） 网址：http://www.lightnovel.us 03、Animex动漫（下载：EPUB/TXT） 网址：http://www.animmetox.com 04、哔哩哔哩小说（下载：TXT） 网址：https://ww [&amp;#8230;] 
-    </details> 
+- 🎓 [最佳应用-在线免费小说阅读汇总](http://www.zuijiastore.com/2429.html) | Sun Jun 05 2022 1:00 AM
+    <details><summary>展开描述 ...</summary>
+    本文主要整理的是在线小说阅读网站。 01、轻小说文库（下载：TXT） 网址：https://www.wenku8.net/index.php 02、轻之过度（下载：EPUB） 网址：http://www.lightnovel.us 03、Animex动漫（下载：EPUB/TXT） 网址：http://www.animmetox.com 04、哔哩哔哩小说（下载：TXT） 网址：https://ww [&amp;#8230;]
+    </details>
 
-- 🦣 [最佳应用-视频下载、转换、压缩必备的网站](http://www.zuijiastore.com/3118.html) | Sat Jun 04 2022 12:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    网上遇到不少喜欢的视频，但是平台禁止下载怎么办？这篇文章分享一些视频下载、转换、压缩必备的网站。 获取说明：点击右侧链接即可访问 温馨提示：如果部分打不开，可能需要特殊网络 1、YouTube视频下载：https://x2download.com/zh-tw62 2、Twitter视频下载：https://twdown.net/index.php 
-    </details> 
+- 🦣 [最佳应用-视频下载、转换、压缩必备的网站](http://www.zuijiastore.com/3118.html) | Sat Jun 04 2022 12:15 AM
+    <details><summary>展开描述 ...</summary>
+    网上遇到不少喜欢的视频，但是平台禁止下载怎么办？这篇文章分享一些视频下载、转换、压缩必备的网站。 获取说明：点击右侧链接即可访问 温馨提示：如果部分打不开，可能需要特殊网络 1、YouTube视频下载：https://x2download.com/zh-tw62 2、Twitter视频下载：https://twdown.net/index.php
+    </details>
 
-- 🧑‍🏫 [最佳应用-App Store经常限免的优质软件](http://www.zuijiastore.com/3115.html) | Thu Jun 02 2022 12:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    App Store有很多优质软件是经常会限免下载的，这篇文章我就汇总一下经常限免但很实用的iOS软件，建议收藏。 远程输入法：App Store 上的“远程输入法” &lpar;apple.com&rpar; 河马英文阅读器：App Store 上的“河马英文阅读器 &lpar;Hippo Reader&rpar;” &lpar;apple.com&rpar; 画画树专业版：App Store 上的“画画树专业版 &amp;#8211; 大师级美术绘画板” &lpar;ap [&amp;#8230;] 
-    </details> 
+- 🧑‍🏫 [最佳应用-App Store经常限免的优质软件](http://www.zuijiastore.com/3115.html) | Thu Jun 02 2022 12:58 AM
+    <details><summary>展开描述 ...</summary>
+    App Store有很多优质软件是经常会限免下载的，这篇文章我就汇总一下经常限免但很实用的iOS软件，建议收藏。 远程输入法：App Store 上的“远程输入法” &lpar;apple.com&rpar; 河马英文阅读器：App Store 上的“河马英文阅读器 &lpar;Hippo Reader&rpar;” &lpar;apple.com&rpar; 画画树专业版：App Store 上的“画画树专业版 &amp;#8211; 大师级美术绘画板” &lpar;ap [&amp;#8230;]
+    </details>
 
-- 🦣 [最佳应用-浏览器值得安装的插件](http://www.zuijiastore.com/3106.html) | Wed Jun 01 2022 1:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    浏览器安装了插件，真的会加倍提升你的工作效率，有些插件还是黑科技级别的，本文汇总一些浏览器好用的插件。 插件说明：插件默认来源于edge浏览器（免翻访问） 使用方式：安装edge浏览器，直接打开链接即可下载。 1、AdGuard 广告拦截器：AdGuard 广告拦截器 &amp;#8211; Microsoft Edge Addons 2、最棒的截图录屏插件：Awesome Screenshot 截图录屏 [&amp;#8230;] 
-    </details> 
+- 🦣 [最佳应用-浏览器值得安装的插件](http://www.zuijiastore.com/3106.html) | Wed Jun 01 2022 1:32 AM
+    <details><summary>展开描述 ...</summary>
+    浏览器安装了插件，真的会加倍提升你的工作效率，有些插件还是黑科技级别的，本文汇总一些浏览器好用的插件。 插件说明：插件默认来源于edge浏览器（免翻访问） 使用方式：安装edge浏览器，直接打开链接即可下载。 1、AdGuard 广告拦截器：AdGuard 广告拦截器 &amp;#8211; Microsoft Edge Addons 2、最棒的截图录屏插件：Awesome Screenshot 截图录屏 [&amp;#8230;]
+    </details>
 
-- 🤠 [最佳应用-在线玩游戏必备的网站](http://www.zuijiastore.com/3101.html) | Wed Jun 01 2022 1:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    疫情期间，在家办公已经成为一种常态，工作学习累了，我们就需要玩一些游戏来填补空闲时间，本文给大家汇总一些在线玩游戏必备的网站。 使用说明：点击链接即可跳转。 安装插件：如果你不想被广告打扰可以安装一些网页去广告插件。 &amp;#160; 1、小霸王-其乐无穷：https://www.yikm.net/ &amp;#160; 
-    </details> 
+- 🤠 [最佳应用-在线玩游戏必备的网站](http://www.zuijiastore.com/3101.html) | Wed Jun 01 2022 1:25 AM
+    <details><summary>展开描述 ...</summary>
+    疫情期间，在家办公已经成为一种常态，工作学习累了，我们就需要玩一些游戏来填补空闲时间，本文给大家汇总一些在线玩游戏必备的网站。 使用说明：点击链接即可跳转。 安装插件：如果你不想被广告打扰可以安装一些网页去广告插件。 &amp;#160; 1、小霸王-其乐无穷：https://www.yikm.net/ &amp;#160;
+    </details>
 <!-- zuijiastore:END -->
 
+
+### 异次元软件
+
+
+<!-- iplaysoft:START -->
+
+<!-- iplaysoft:END -->
+
+### 苹果fans
+
+
+<!-- mac52ipod:START -->
+
+<!-- mac52ipod:END -->
+### 精品Mac应用
+
+
+<!-- xclient:START -->
+
+<!-- xclient:END -->
+
+
+## 影视音乐
+
+### 摄影世界
+
+<!-- photoworld:START -->
+
+<!-- photoworld:END -->
+
+## 搞笑趣闻
+
+### 煎蛋
+
+<!-- jandan:START -->
+
+<!-- jandan:END -->
+### 新趣集
+
+<!-- xinquji:START -->
+
+<!-- xinquji:END -->
