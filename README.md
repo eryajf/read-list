@@ -215,29 +215,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [不用Swagger，那我用啥？](https://juejin.cn/post/7125249027695869983) | Thu Jul 28 2022 2:45 AM 
+- 🤗 [品牌广告投放平台的中台化应用与实践](https://juejin.cn/post/7125256126500700168) | Thu Jul 28 2022 3:13 AM 
     <details><summary>展开描述 ...</summary> 
-    @[toc] 上周松哥写了一篇文章和小伙伴们分享 Swagger3 在 Spring Boot 中的用法，评论中有不少小伙伴推荐 Spring Doc，松哥趁着休息时间抽空看了下，这个东西确实不错，不 
+    本文主要分两块，首先介绍品牌广告投放平台的架构演进；其次，结合实际业务，介绍在践行中台化理念和微服务化改造过程中碰到的问题和解决方案。 
     </details> 
 
-- 🎡 [LeetCode - #128 最长连续序列（Top 100）](https://juejin.cn/post/7125248158115823624) | Thu Jul 28 2022 2:42 AM 
+- 🎡 [得物客服IM消息通信SDK自研之路](https://juejin.cn/post/7125255700615774245) | Thu Jul 28 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    本题为 LeetCode 前 100 高频题 我们社区陆续会将顾毅（Netflix 增长黑客，《iOS 面试之道》作者，ACE 职业健身教练。）的 Swift 算法题题解整理为文字版以方便大家学习 
+    自研SDK收益还是非常大的，也积累了很多IM方面的经验，完成自研SDK也只是一个开始，后续我们将会在耗时任务、数据安全等方面持续深耕细作。 
     </details> 
 
-- 🕯 [前端Svelte框架初体验](https://juejin.cn/post/7125244798063083528) | Thu Jul 28 2022 2:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近这些年，随着React、Vue、Angular三大框架逐渐稳定，前端技术栈的迭代似乎也渐渐缓慢下来。并且随着React 16版本推出 Fiber， Vue 3.0 版本的正式发布，前端三大框架都有 
-    </details> 
-
-- 🚀 [iOS小技能：Xcode新建项目不显示Products目录的解决方案](https://juejin.cn/post/7125243771771420702) | Thu Jul 28 2022 2:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    问题：Xcode13 新建的项目不显示Products目录 解决方式： 修改project.pbxproj 文件的productRefGroup配置信息 
-    </details> 
-
-- 💪 [《HelloGitHub》第 76 期](https://juejin.cn/post/7125217100330696741) | Thu Jul 28 2022 12:41 AM 
+- 🕯 [《HelloGitHub》第 76 期](https://juejin.cn/post/7125217100330696741) | Thu Jul 28 2022 12:41 AM 
     <details><summary>展开描述 ...</summary> 
     简介 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。 这里有实战项目、入门教程、黑科技、开源书籍、大厂开源项目等，涵盖多种编程语言 Python、Java、Go、C/C++、S 
+    </details> 
+
+- 🚀 [即时通讯场景下安全合规的实践和经验](https://juejin.cn/post/7125065412072439822) | Wed Jul 27 2022 2:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    在监管趋紧的形式下，即时通讯场景会遇到很多安全合规领域的挑战，如何满足这些安全合规的要求，如何保护用户的隐私安全，是一件非常有挑战的事情。 
+    </details> 
+
+- 💪 [全功能WebRTC应用程序AppRTC应用服务阿里云搭建测试总结并docker化提供镜像](https://juejin.cn/post/7124999769545506829) | Wed Jul 27 2022 10:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    1. 前言 之前我们已经在阿里云服务器上搭建了turn/stun服务（https://juejin.cn/post/7122267115540709407），也使用webRTC测试过rtsp转webR 
     </details> 
 <!-- juejin:END -->
 ### 少数派
