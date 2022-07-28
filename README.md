@@ -206,11 +206,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [程序员不应该和一门语言绑定在一起](https://www.v2ex.com/t/869308#reply1) | Thu Jul 28 2022 11:07 AM
-- 🤗 [Float identity](https://www.v2ex.com/t/869301#reply2) | Thu Jul 28 2022 10:29 AM
-- 🎭 [211 本 5 成都 前端求捞～](https://www.v2ex.com/t/869298#reply9) | Thu Jul 28 2022 10:09 AM
+- 🥸 [程序员不应该和一门语言绑定在一起](https://www.v2ex.com/t/869308#reply10) | Thu Jul 28 2022 11:07 AM
+- 🤗 [Float identity](https://www.v2ex.com/t/869301#reply4) | Thu Jul 28 2022 10:29 AM
+- 🎭 [211 本 5 成都 前端求捞～](https://www.v2ex.com/t/869298#reply20) | Thu Jul 28 2022 10:09 AM
 - 🥷 [Layout Inspector 有没有好用的替代品？](https://www.v2ex.com/t/869291#reply0) | Thu Jul 28 2022 9:56 AM
-- 🐵 [求对 html 进行渲染与布局，输出元素相对位置的分析库](https://www.v2ex.com/t/869282#reply4) | Thu Jul 28 2022 8:59 AM<!-- v2ex:END -->
+- 🐵 [求对 html 进行渲染与布局，输出元素相对位置的分析库](https://www.v2ex.com/t/869282#reply6) | Thu Jul 28 2022 8:59 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
