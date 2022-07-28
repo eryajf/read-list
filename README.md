@@ -313,7 +313,30 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
+- 🕯 [《仙剑奇侠传7》PS4/5版玩法特征预告 8月4日发售](https://hot.cnbeta.com/articles/game/1298147.htm) | Thu Jul 28 2022 2:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《仙剑奇侠传7》在今日公布了一则全新的PS4/5版游戏预告，展示了游戏的玩法特征，该作预计在8月4日登陆PS4和PS5平台。此前游戏于2021年10月22日发售，登陆Steam。&lt;strong&gt;《仙剑奇侠传7》主机版全新预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 
+- 💼 [网飞首部大尺度电影：玛丽莲梦露传记《金发美人》官宣 见证盛世美颜](https://hot.cnbeta.com/articles/movie/1298145.htm) | Thu Jul 28 2022 2:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;安娜·德·阿玛斯主演、安德鲁·多米尼克执导的玛丽莲·梦露传记片《金发美人》发布新&lt;a class=&quot;f14_link&quot; href=&quot;https://v.youku.com/v_show/id_XNTg4OTM2NjgyMA==.html?spm=a1z3jc.11711052.0.0&amp;isextonly=1&quot; target=&quot;_blank&quot;&gt;预告&lt;/a&gt;，9月28日上线Netflix，该片入围了威尼斯电影节主竞赛。该片是网飞首部大尺度的NC 17原创电影，改编自Joyce Carol Oates的同名小说，以现代名人文化的视角聚焦1950-60年代的梦露。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果在线商店开始维护明日开启夏日特惠 iPhone 13 立减 600 元](https://www.cnbeta.com/articles/tech/1298143.htm) | Thu Jul 28 2022 2:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;中国区苹果在线商店开始维护，开始为明日的夏日优惠做准备。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 29 日至 8 月 1 日，用指定支付方式购买符合条件的产品可享立减优惠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [苹果宣布未来Mac芯片在以色列开发](https://www.cnbeta.com/articles/tech/1298141.htm) | Thu Jul 28 2022 2:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果芯片人才招聘主管 Elad Wertheimer 今天在 LinkedIn 上宣布，苹果将在以色列 Jerusalem 设立全新开发中心，为未来的 Mac 开发芯片。目前，苹果正在为这里招聘工程师。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [华硕发布紧凑型手机Zenfone 9 配备类似于万向节的相机稳定功能](https://www.cnbeta.com/articles/tech/1298139.htm) | Thu Jul 28 2022 1:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Zenfone 9和去年的8一样，是市面上已经很罕见的小屏Android手机，优先考虑紧凑的尺寸，而不是最大化屏幕或电池尺寸。&lt;strong&gt;但今年的独到之处是这款手机的相机和稳定系统：不是仅仅移动一个镜头元素来补偿相机的抖动，而是整个主相机--镜头、传感器，所有这些--都会移动。这是一种独特的方法来对抗移动摄影的一些最大敌人：低光和摇晃的视频片段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 <!-- cnbeta:END -->
 
 ## 应用资源
