@@ -220,24 +220,24 @@
     简介： Insert类的SQL语句的流程可初略分为：解析、校验、优化器、执行器、物理执行&lpar;GalaxyEngine执行&rpar;。本文将以一条简单的Insert语句通过调试的方式进行解读。 在阅读本文之前，强 
     </details> 
 
-- 🎡 [通过部署流行Web框架掌握Serverless技术](https://juejin.cn/post/7125355190210789383) | Thu Jul 28 2022 9:38 AM 
+- 🎡 [阿里云云原生一体化数仓 — 湖仓一体新能力解读](https://juejin.cn/post/7125359274431086629) | Thu Jul 28 2022 9:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    简介： 本文主要介绍如何通过湖仓一体，打通 MaxCompute 与 Hadoop、DLF/OSS 数据湖，以及 Hologres、MySQL 等数据平台，并通过 DataWorks 做统一数据开发和 
+    </details> 
+
+- 🕯 [这种动态规划你见过吗——状态机动态规划之股票问题&lpar;下&rpar;](https://juejin.cn/post/7125356512683229215) | Thu Jul 28 2022 9:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    在本篇文章当中给大家介绍最后两道股票问题，最佳买卖股票时机含冷冻期和买卖股票的最佳时机含手续费，继续升入学习状态机动态规划！！！！ 
+    </details> 
+
+- 🚀 [远光软件获得阿里云产品生态集成认证，携手阿里云共建新合作](https://juejin.cn/post/7125355951959310367) | Thu Jul 28 2022 9:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    近日，远光软件股份有限公司新一代企业数字核心系统远光达普（YG-DAP）V7.1 通过阿里云产品集成认证测试，与阿里云旗下的阿里云应用服务器（V1.0）、阿里云 PolarDB 数据库管理软件、消息队 
+    </details> 
+
+- 💪 [通过部署流行Web框架掌握Serverless技术](https://juejin.cn/post/7125355190210789383) | Thu Jul 28 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
     简介： 通过学习部署流行Web框架，如SpringBoot，Express，Web IDE，让你掌握Serverless函数计算架构和技术，领略弹性并发，高可用的好处。大家好，我是霍大侠，欢迎来到我的 
-    </details> 
-
-- 🕯 [Compose要我们remember，到底怕我们忘了啥？](https://juejin.cn/post/7125355109654986783) | Thu Jul 28 2022 9:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    Compose要我们remember，到底怕我们忘了啥？ 携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 看过Compose案例或者源码的你 
-    </details> 
-
-- 🚀 [Flutter图片浏览器，酷炫？摆烂！](https://juejin.cn/post/7125349703079690248) | Thu Jul 28 2022 9:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    效果图 效果一：任意widget 效果二：视频 效果三：图片浏览器，酷炫？摆烂！ 前言 其实这样的效果，pub上也有很多优秀的插件。秉着能自己折腾就自己折腾的原则，笔者简单实现了下，再在网上找了资料优 
-    </details> 
-
-- 💪 [数据库调优-连接池优化](https://juejin.cn/post/7125349473198276615) | Thu Jul 28 2022 9:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 1.写在前面 在昨天的时候，我们就谈到了数据库调优原理和分享了JMeter数据库压力测试案例 详情可参考这 
     </details> 
 <!-- juejin:END -->
 ### 少数派
