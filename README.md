@@ -215,29 +215,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Opencv 证件照片一键换底、马赛克处理](https://juejin.cn/post/7125402539792531470) | Thu Jul 28 2022 12:44 PM 
+- 🤗 [基于对象的实时空间音频渲染丨Dev for Dev 专栏](https://juejin.cn/post/7125424491257135111) | Thu Jul 28 2022 2:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    本期文章，我们将主要讨论基于对象&lpar;object-based&rpar;的实时空间音频渲染，也就是如耳机等应用场景中，渲染对象为一个音源时的渲染思路与方案。 
+    </details> 
+
+- 🎡 [【LeetCode】 1200. 最小绝对差](https://juejin.cn/post/7125421831200178189) | Thu Jul 28 2022 1:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能力 
+    </details> 
+
+- 🕯 [Opencv 证件照片一键换底、马赛克处理](https://juejin.cn/post/7125402539792531470) | Thu Jul 28 2022 12:44 PM 
     <details><summary>展开描述 ...</summary> 
     证件照片一键换底步骤 1、获取图片； 2、数据组装； 3、Kmeans处理； 4、遮罩； 5、腐蚀、高斯模糊处理； 6、背景通道色替换； TermCriteria 类 定义迭代算法终止条件的类。 KM 
     </details> 
 
-- 🎡 [万字总结：分布式系统的38个知识点](https://juejin.cn/post/7125383856651239432) | Thu Jul 28 2022 11:32 AM 
+- 🚀 [万字总结：分布式系统的38个知识点](https://juejin.cn/post/7125383856651239432) | Thu Jul 28 2022 11:32 AM 
     <details><summary>展开描述 ...</summary> 
     万字总结，38个知识点详解分布式会遇到什么问题，有哪些理论支撑，有哪些经典的应对方案，业界是如何设计并保证分布式系统的高可用 
     </details> 
 
-- 🕯 [【周周有奖】云原生编程挑战赛“边缘容器”赛道邀你来战！](https://juejin.cn/post/7125375292201254925) | Thu Jul 28 2022 10:55 AM 
+- 💪 [【周周有奖】云原生编程挑战赛“边缘容器”赛道邀你来战！](https://juejin.cn/post/7125375292201254925) | Thu Jul 28 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
     作为本次大赛三大热门技术领域之一，“边缘容器”赛道的发起就希望在这样的背景下，通过集结关注、热爱云原生的开发者的智慧、技术和能量，探索研究如何在云边协同的边缘场景架构体系下，降低边缘侧组件的资源占用率 
-    </details> 
-
-- 🚀 [融合数据库生态：利用 EventBridge 构建 CDC 应用](https://juejin.cn/post/7125372719851372551) | Thu Jul 28 2022 10:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    近期，EventBridge 事件流已经支持了基于阿里云 DTS服务的 CDC 能力。本文将从 CDC、CDC 在 EventBridge 上的应用以及若干最佳实践场景等方面，为大家介绍如何利用 Ev 
-    </details> 
-
-- 💪 [上海交大牵手淘宝成立媒体计算实验室：推动视频超分等关键技术发展](https://juejin.cn/post/7125364334452015111) | Thu Jul 28 2022 10:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    7月27日，上海交通大学电子信息与电气工程学院与阿里巴巴集团大淘宝技术宣布达成战略合作，共同成立上海交通大学电子信息与电气工程学院-淘宝（中国）软件有限公司媒体计算联合实验室&lpar;下称”联合实验室”&rpar;。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
