@@ -206,11 +206,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [js 写后台, 是不是有点先天残缺?](https://www.v2ex.com/t/869194#reply2) | Thu Jul 28 2022 3:21 AM
-- 🤗 [制作 Windows 屏保](https://www.v2ex.com/t/869192#reply0) | Thu Jul 28 2022 3:18 AM
-- 🎭 [外部对象，进入函数后对其添加属性后，离开函数后，用调试器看不到这些添加的属性？](https://www.v2ex.com/t/869191#reply2) | Thu Jul 28 2022 3:14 AM
-- 🥷 [dapr sidecar 一种开发模式是不是会成为未来主流开发方式？](https://www.v2ex.com/t/869189#reply0) | Thu Jul 28 2022 3:07 AM
-- 🐵 [现在发布的充电头，怎么还带 A 口这么落后的东西，全变成 type-c 的不好么？](https://www.v2ex.com/t/869188#reply10) | Thu Jul 28 2022 3:04 AM<!-- v2ex:END -->
+- 🥸 [Windows 的 Home 键个别场景（多行文本）不能对标 Mac 的 Ctrl +A，求解决办法](https://www.v2ex.com/t/869209#reply4) | Thu Jul 28 2022 4:11 AM
+- 🤗 [nginx redirect 302 问题](https://www.v2ex.com/t/869204#reply1) | Thu Jul 28 2022 3:50 AM
+- 🎭 [有什么好用的开源可部署的 Linux 文件管理器吗？有 web 界面的类似宝塔面板的那种可以解压复制编辑的](https://www.v2ex.com/t/869202#reply0) | Thu Jul 28 2022 3:45 AM
+- 🥷 [js 写后台, 是不是有点先天残缺?](https://www.v2ex.com/t/869194#reply20) | Thu Jul 28 2022 3:21 AM
+- 🐵 [制作 Windows 屏保](https://www.v2ex.com/t/869192#reply0) | Thu Jul 28 2022 3:18 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
