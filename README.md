@@ -382,29 +382,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现蓝光危害会随着年龄增长而加重](https://www.cnbeta.com/articles/science/1298167.htm) | Thu Jul 28 2022 7:05 PM 
+- 🕯 [美国国会参众两院通过对美国芯片制造业的520亿美元的补贴](https://www.cnbeta.com/articles/tech/1298169.htm) | Thu Jul 28 2022 7:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;在周四的243-187投票中，众议院通过了2800亿美元的《芯片和科学法案》，以加强美国的科技创新。该法案是拜登政府的优先事项，包括520亿美元的补贴，以鼓励芯片制造商在美国建立半导体制造厂。&lt;/strong&gt;经过众议院和参议院几个月的谈判，周四的批准解决了芯片制造商重新考虑是否在美国建厂的隐忧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [研究发现蓝光危害会随着年龄增长而加重](https://www.cnbeta.com/articles/science/1298167.htm) | Thu Jul 28 2022 7:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国俄勒冈州立大学的一项针对果蝇的新研究表明，随着年龄的增长，每天长期暴露在手机、电脑和其他家庭设备发出的蓝光下，所受到的有害影响会越来越大。相关研究结果发表于自然合作期刊《npj—衰老》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [欧盟数字化水平芬兰领跑 承认5G等处于落后地位](https://www.cnbeta.com/articles/tech/1298165.htm) | Thu Jul 28 2022 7:02 PM 
+- 💂 [欧盟数字化水平芬兰领跑 承认5G等处于落后地位](https://www.cnbeta.com/articles/tech/1298165.htm) | Thu Jul 28 2022 7:02 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;欧盟28日发布2022年“数字经济与社会指数”（DESI），显示在欧盟27个成员国中，芬兰、丹麦、荷兰、瑞典的数字化水平名列前茅，但整体而言，欧盟在数字技能、中小企业数字化转型乃至5G领域处于落后地位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [捷蓝航空将收购精神航空 联手打造美国第五大航空公司](https://www.cnbeta.com/articles/tech/1298163.htm) | Thu Jul 28 2022 5:12 PM 
+- 🚀 [捷蓝航空将收购精神航空 联手打造美国第五大航空公司](https://www.cnbeta.com/articles/tech/1298163.htm) | Thu Jul 28 2022 5:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;捷蓝航空&lpar;JetBlue&rpar;和精神航空&lpar;Spirit&rpar;宣布了一项38亿美元的合并协议，此前精神航空和边疆航空&lpar;Frontier&rpar;之间的交易于周三破裂。新合并的航空公司将成为美国第五大航空公司，对&amp;quot;四大&amp;quot;航空公司的主导地位构成潜在挑战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新版美猴王动画电影定档：好莱坞团队打造 8月12日上映](https://hot.cnbeta.com/articles/comic/1298161.htm) | Thu Jul 28 2022 5:09 PM 
+- 🎊 [新版美猴王动画电影定档：好莱坞团队打造 8月12日上映](https://hot.cnbeta.com/articles/comic/1298161.htm) | Thu Jul 28 2022 5:09 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;7月28日，动画电影《超级英雄美猴王：齐天儿》官微正式官宣：定档8月12日！官方介绍称，该动画电影由由东方国际影业出品，&lt;strong&gt;中国团队与好莱坞团队联合打造，将中国元素与国际化创意完美融合！&lt;/strong&gt;全新的齐天大圣，不一样的冒险之旅！人物萌翻笑料不断，经典IP玩出新花样。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1298161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [万没想到 英特尔的CPU比iPhone还保值](https://www.cnbeta.com/articles/tech/1298159.htm) | Thu Jul 28 2022 5:08 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这两天托尼在闲鱼上快乐捡垃圾的时候，突然发现了一件特别神奇的事情。就是那些好几年前的英特尔 CPU ，价格依然贵得离谱。拿 i7-8700&amp;nbsp;来说，这颗 2017 年的 CPU ，现在闲鱼价格依旧在 1200&amp;nbsp;元以上，要知道，四年前它的上市价格也才 2999 元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
