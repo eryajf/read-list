@@ -272,11 +272,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751080) | Wed Jul 27 2022 12:27 AM
-- 🐻 [为什么有些童年是《数码宝贝》的人会认为童年是《喜羊羊》的孩子可怜？](http://daily.zhihu.com/story/9751059) | Wed Jul 27 2022 12:27 AM
-- 🌏 [你觉得螺蛳粉的灵魂 CP 是什么？](http://daily.zhihu.com/story/9751060) | Wed Jul 27 2022 12:27 AM
-- 🕴 [数学专业领域的人看《天才基本法》是什么感受？](http://daily.zhihu.com/story/9751066) | Wed Jul 27 2022 12:27 AM
-- 🌮 [新能源汽车的「天幕玻璃」只防晒不隔热，为什么还有那么多人追捧？](http://daily.zhihu.com/story/9751068) | Wed Jul 27 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751123) | Thu Jul 28 2022 12:27 AM
+- 🐻 [空气悬架真的有空气吗？](http://daily.zhihu.com/story/9751109) | Thu Jul 28 2022 12:27 AM
+- 🌏 [运载火箭推力强大，运载火箭是怎么点火的呢？](http://daily.zhihu.com/story/9751104) | Thu Jul 28 2022 12:27 AM
+- 🕴 [为什么感觉烤出来的食物，比煮出来的食物吃起来更香？](http://daily.zhihu.com/story/9751103) | Thu Jul 28 2022 12:27 AM
+- 🌮 [《滕王阁序》是即兴创作的吗？](http://daily.zhihu.com/story/9751095) | Thu Jul 28 2022 12:27 AM<!-- zhihu:END -->
 
 ## 应用资源
 
