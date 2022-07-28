@@ -259,7 +259,7 @@
     放下手机，和我一起去阅读、去感受。&lt;a href=&quot;https://sspai.com/post/74837&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820) | Thu Jul 28 2022 3:30 AM 
+- 🥸 [数字文具盒 | 有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820) | Thu Jul 28 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74820&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
