@@ -309,7 +309,7 @@
 - 🥸 [强烈推荐一款 node.js 实现的音乐下载命令行工具，可以下载杰伦的歌哦～](https://www.v2ex.com/t/869356#reply2) | Thu Jul 28 2022 3:44 PM
 - 🤗 [2022 iOS/ iPad OS 原生 Swift 目前有比较可行的热更新策略么](https://www.v2ex.com/t/869355#reply3) | Thu Jul 28 2022 3:42 PM
 - 🎭 [有什么好看的表白网页](https://www.v2ex.com/t/869345#reply15) | Thu Jul 28 2022 2:49 PM
-- 🥷 [个人数据备份的一些问题](https://www.v2ex.com/t/869332#reply23) | Thu Jul 28 2022 1:52 PM
+- 🥷 [个人数据备份的一些问题](https://www.v2ex.com/t/869332#reply24) | Thu Jul 28 2022 1:52 PM
 - 🐵 [程序员不应该和一门语言绑定在一起](https://www.v2ex.com/t/869308#reply22) | Thu Jul 28 2022 11:07 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
