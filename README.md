@@ -595,28 +595,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Firezone &lpar;Beta&rpar; - 在几分钟内为您的团队提供快速的专用网络](https://xinquji.com/posts/178317?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:29 AM 
+- 👀 [Dope.Link Android App - 使用涂料链接赚钱](https://xinquji.com/posts/178322?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     在几分钟内为您的团队提供快速的专用网络  
+     使用涂料链接赚钱  
     </details> 
 
-- 🥷 [sona - 音乐作为药物 - 以科学为基础的焦虑音乐](https://xinquji.com/posts/178316?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:29 AM 
+- 🥷 [Course Creation Guide by SchoolMaker - 创作者的疯狂完整指南](https://xinquji.com/posts/178321?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     音乐作为药物 - 以科学为基础的焦虑音乐  
+     创作者的疯狂完整指南  
     </details> 
 
-- 💼 [Swetrix - 终极开源分析，满足您的所有需求](https://xinquji.com/posts/178315?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:27 AM 
+- 💼 [KnowledgeBase - 帮助您的支持团队，为客户提供 24/7 自助服务](https://xinquji.com/posts/178320?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     终极开源分析，满足您的所有需求  
+     帮助您的支持团队，为客户提供 24/7 自助服务  
     </details> 
 
-- 🦅 [DropBlok - 拖放在 4 分钟内构建您的应用程序](https://xinquji.com/posts/178314?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:26 AM 
+- 🦅 [FacePlay App - 换脸视频](https://xinquji.com/posts/178319?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     拖放在 4 分钟内构建您的应用程序  
+     换脸视频  
     </details> 
 
-- 😺 [Youcept - 以任何形式买卖任何种类的知识](https://xinquji.com/posts/178313?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:25 AM 
+- 😺 [Keyboard Yoga - 不一样的打字教练](https://xinquji.com/posts/178318?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     以任何形式买卖任何种类的知识  
+     不一样的打字教练  
     </details> 
 <!-- xinquji:END -->
