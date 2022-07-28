@@ -215,30 +215,30 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [🐣这半年的写作流水账](https://juejin.cn/post/7125075993345622024) | Wed Jul 27 2022 3:35 PM
-    <details><summary>展开描述 ...</summary>
-    「时光不负，创作不停，本文正在参加2022年中总结征文大赛」 22 年更文工具篇： 如何不使用tsc编译来执行TypeScript代码，体会到了如何让 NodeJs 识别 TypeScript文件并且
-    </details>
+- 🤗 [solr（二）windows安装及运行solr](https://juejin.cn/post/7125220280590401573) | Thu Jul 28 2022 12:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 这个其实没啥可写的。但是有个坑我觉得需要记录一下。 Solr是使用java开发的，运行需要使用java环境 
+    </details> 
 
-- 🎡 [Nest 的实现原理？理解了 reflect metadata 就懂了](https://juejin.cn/post/7125066863150628900) | Wed Jul 27 2022 2:59 PM
-    <details><summary>展开描述 ...</summary>
-    Nest 是 Node.js 的服务端框架，它最出名的就是 IOC（inverse of control） 机制了，也就是不需要手动创建实例，框架会自动扫描需要加载的类，并创建他们的实例放到容器里，实
-    </details>
+- 🎡 [Linux安装Docker完整教程](https://juejin.cn/post/7125218891642437640) | Thu Jul 28 2022 12:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    背景 最近接手了几个项目，发现项目的部署基本上都是基于Docker的，幸亏在几年前已经熟悉的Docker的基本使用，没有抓瞎。这两年随着云原生的发展，Docker在云原生中的作用使得它也蓬勃发展起来。 
+    </details> 
 
-- 🕯 [即时通讯场景下安全合规的实践和经验](https://juejin.cn/post/7125065412072439822) | Wed Jul 27 2022 2:53 PM
-    <details><summary>展开描述 ...</summary>
-    在监管趋紧的形式下，即时通讯场景会遇到很多安全合规领域的挑战，如何满足这些安全合规的要求，如何保护用户的隐私安全，是一件非常有挑战的事情。
-    </details>
+- 🕯 [Vue3 中还处在实验性阶段 Suspense 是个啥？](https://juejin.cn/post/7125214169632096270) | Thu Jul 28 2022 12:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    Suspense 不是你想的那样。是的，它帮助我们处理异步组件，但它的作用远不止于此。 Suspense 允许我们协调整个应用程序的加载状态，包括所有深度嵌套的组件。而不是像一个爆米花用户界面一样，到 
+    </details> 
 
-- 🚀 [浏览器视频帧操作方法 requestVideoFrameCallback&lpar;&rpar; 简介](https://juejin.cn/post/7125059238195363871) | Wed Jul 27 2022 2:29 PM
-    <details><summary>展开描述 ...</summary>
-    近期发现一个很酷的应用场景，对着摄像头做动作，然后分析器动画渲染到 3D 模型上，在了解其实现原理后，对一些技术点做一些学习笔记。 requestVideoFrameCallback&lpar;&rpar; 就是其中的技
-    </details>
+- 🚀 [Dart 知识点 - 运算符](https://juejin.cn/post/7125212870148620325) | Thu Jul 28 2022 12:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    运算符是一个很基础的知识点～ 但是很重要，比如位移，读者可知道其原理？它又是怎么得到位左/右移的结果呢？本文通过案例结合线上的 Dart 编辑器进行验证和说明... 
+    </details> 
 
-- 💪 [数据库调优-原理分析和jmeter案例分享](https://juejin.cn/post/7125034745389383687) | Wed Jul 27 2022 12:54 PM
-    <details><summary>展开描述 ...</summary>
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 1.写在前面 作为一个后端开发程序员，少不了和数据库打交道！！！ 毕竟大部分的业务需求，无非就是查数据，然
-    </details>
+- 💪 [vite 3.0 都发布了，经常初始化 vite 项目，却不知 create-vite 原理？揭秘！](https://juejin.cn/post/7125199469796130853) | Wed Jul 27 2022 11:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    这篇文章就来带领大家一起学习npm create vite原理，源码400行不到。 学会开发脚手架工具。 很多源码不是我们想象中的那么高深莫测。源码不应该成为我们的拦路虎，而应该是我们的良师益友 
+    </details> 
 <!-- juejin:END -->
 ### 少数派
 
