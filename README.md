@@ -243,29 +243,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820) | Thu Jul 28 2022 3:30 AM 
+- 👹 [城市收藏夹 | 那些北京的特色书店们](https://sspai.com/post/74837) | Thu Jul 28 2022 6:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    放下手机，和我一起去阅读、去感受。&lt;a href=&quot;https://sspai.com/post/74837&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820) | Thu Jul 28 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74820&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：华为发布 HarmonyOS 3 及多款新品、realme 推出 Q5 狂欢版等](https://sspai.com/post/74835) | Thu Jul 28 2022 12:42 AM 
+- 🤭 [派早报：华为发布 HarmonyOS 3 及多款新品、realme 推出 Q5 狂欢版等](https://sspai.com/post/74835) | Thu Jul 28 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
     音视频、信息通信等设备新国标将于明年实施、雷蛇发布噬魂金蝎 V2 系列纤薄旗舰键盘等。&lt;a href=&quot;https://sspai.com/post/74835&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [用 59 分钟，找到个人记账的完备方案](https://sspai.com/post/74808) | Wed Jul 27 2022 9:30 AM 
+- 🥸 [用 59 分钟，找到个人记账的完备方案](https://sspai.com/post/74808) | Wed Jul 27 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     不知道你有没有这样的烦恼：到了月底钱总是不够花、明明已经缩衣节食，但钱就是存不下来；当你想要理一理自己还有多少钱的时候，却发现自己的钱散落在微信、支付宝、银行卡等各个账户中，光是「统计余额」这件事就足 ...&lt;a href=&quot;https://sspai.com/post/74808&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [试播集 08 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74827) | Wed Jul 27 2022 7:54 AM 
+- 🙉 [试播集 08 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74827) | Wed Jul 27 2022 7:54 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目不少读者表示希望能够见到更多关于文化与书籍的内容，充实书单、丰富精神。机器人特地邀请了Matrix社区作者们来聊聊自己近期阅读的有意思的书籍。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱 ...&lt;a href=&quot;https://sspai.com/post/74827&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [解决你的送礼困难症，七夕到了送这 10+ 件礼物](https://sspai.com/post/74802) | Wed Jul 27 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    无论你买不买以下商品，本獭都要提醒你，8 月 4 日是七夕节，如果恰好能帮到你也算是好事一件。&lt;a href=&quot;https://sspai.com/post/74802&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
