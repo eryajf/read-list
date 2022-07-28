@@ -383,7 +383,30 @@
 ### 煎蛋
 
 <!-- jandan:START -->
+- 🚀 [No More Ransom 对抗加密劫持勒索软件的网站](http://jandan.net/p/111046) | Thu Jul 28 2022 9:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    欧洲刑警组织、荷兰国家警察局以及多家网络安全和IT公司于 2016 年联合发起No More Ransom 项目 
+    </details> 
 
+- 🙉 [冒犯式喜剧人已经灭绝了吗？](http://jandan.net/p/111057) | Thu Jul 28 2022 8:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    冒犯式喜剧人也是网络时代的受害者 
+    </details> 
+
+- 🎉 [也吃素的鲸鲨 现在已知最大的杂食动物](http://jandan.net/p/111039) | Thu Jul 28 2022 4:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    挺有颠覆性的，鲸鲨似乎以海藻为主食，而非之前公认的磷虾，虽然它们确实吞下去了大量磷虾 
+    </details> 
+
+- 🐲 [今日好价 0728](http://jandan.net/p/111055) | Thu Jul 28 2022 2:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
+    </details> 
+
+-  [木星为何没有土星那样壮丽的环](http://jandan.net/p/111038) | Wed Jul 27 2022 2:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    木星的又薄又小，只有在太阳的背光下才能被看到，非常可怜。 
+    </details> 
 <!-- jandan:END -->
 ### 新趣集
 
