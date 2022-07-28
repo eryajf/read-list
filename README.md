@@ -480,5 +480,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
+- 👀 [Sliderule - 用于风险和欺诈的无代码规则引擎](https://xinquji.com/posts/178289?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:43 AM 
+    <details><summary>展开描述 ...</summary> 
+     用于风险和欺诈的无代码规则引擎  
+    </details> 
 
+- 🥷 [Warmy.io - 自动多合一工具，使您的电子邮件渠道可靠](https://xinquji.com/posts/178288?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM 
+    <details><summary>展开描述 ...</summary> 
+     自动多合一工具，使您的电子邮件渠道可靠  
+    </details> 
+
+- 💼 [Kreya - 更快地构建和测试 API](https://xinquji.com/posts/178287?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM 
+    <details><summary>展开描述 ...</summary> 
+     更快地构建和测试 API  
+    </details> 
+
+- 🦅 [Settle - 为电子商务品牌打造的现金流管理](https://xinquji.com/posts/178286?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM 
+    <details><summary>展开描述 ...</summary> 
+     为电子商务品牌打造的现金流管理  
+    </details> 
+
+- 😺 [The Guide To No Code Marketplaces 2.0 - 更新且全面的 50 多页指南](https://xinquji.com/posts/178285?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM 
+    <details><summary>展开描述 ...</summary> 
+     更新且全面的 50 多页指南  
+    </details> 
 <!-- xinquji:END -->
