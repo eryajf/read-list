@@ -382,29 +382,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [名创优品：Blue Orca关于公司特许经营业务模式的沽空指控毫无依据](https://www.cnbeta.com/articles/tech/1298151.htm) | Thu Jul 28 2022 3:27 PM 
+- 🕯 [捷蓝航空将收购精神航空 联手打造美国第五大航空公司](https://www.cnbeta.com/articles/tech/1298163.htm) | Thu Jul 28 2022 5:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;名创优品今日晚间公布了针对Blue Orca沽空报告的初步调查结果。在公告中，名创优品称，该报告中关于本公司特许经营业务模式的指控毫无依据；该报告指控公司创始人兼首席执行官叶国富通过一系列房地产交易挪用首次公开发售所得款项亦毫无依据；该报告关于本公司业务前景的描述毫无依据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;捷蓝航空&lpar;JetBlue&rpar;和精神航空&lpar;Spirit&rpar;宣布了一项38亿美元的合并协议，此前精神航空和边疆航空&lpar;Frontier&rpar;之间的交易于周三破裂。新合并的航空公司将成为美国第五大航空公司，对&amp;quot;四大&amp;quot;航空公司的主导地位构成潜在挑战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星欲将折叠屏手机推向主流 销量将超过Galaxy Note系列](https://www.cnbeta.com/articles/tech/1298149.htm) | Thu Jul 28 2022 3:26 PM 
+- 💼 [新版美猴王动画电影定档：好莱坞团队打造 8月12日上映](https://hot.cnbeta.com/articles/comic/1298161.htm) | Thu Jul 28 2022 5:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星电子今日表示，将把可折叠屏手机推向主流，其销量将超越Galaxy Note系列。三星称，公司正寻求推动折叠屏手机的销量，以提高移动部门的盈利能力。当前，由于材料成本上涨，以及消费者需求减弱，三星电子旗下移动部门正遭受打击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月28日，动画电影《超级英雄美猴王：齐天儿》官微正式官宣：定档8月12日！官方介绍称，该动画电影由由东方国际影业出品，&lt;strong&gt;中国团队与好莱坞团队联合打造，将中国元素与国际化创意完美融合！&lt;/strong&gt;全新的齐天大圣，不一样的冒险之旅！人物萌翻笑料不断，经典IP玩出新花样。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1298161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《仙剑奇侠传7》PS4/5版玩法特征预告 8月4日发售](https://hot.cnbeta.com/articles/game/1298147.htm) | Thu Jul 28 2022 2:45 PM 
+- 💂 [万没想到 英特尔的CPU比iPhone还保值](https://www.cnbeta.com/articles/tech/1298159.htm) | Thu Jul 28 2022 5:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《仙剑奇侠传7》在今日公布了一则全新的PS4/5版游戏预告，展示了游戏的玩法特征，该作预计在8月4日登陆PS4和PS5平台。此前游戏于2021年10月22日发售，登陆Steam。&lt;strong&gt;《仙剑奇侠传7》主机版全新预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这两天托尼在闲鱼上快乐捡垃圾的时候，突然发现了一件特别神奇的事情。就是那些好几年前的英特尔 CPU ，价格依然贵得离谱。拿 i7-8700&amp;nbsp;来说，这颗 2017 年的 CPU ，现在闲鱼价格依旧在 1200&amp;nbsp;元以上，要知道，四年前它的上市价格也才 2999 元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [网飞首部大尺度电影：玛丽莲梦露传记《金发美人》官宣 见证盛世美颜](https://hot.cnbeta.com/articles/movie/1298145.htm) | Thu Jul 28 2022 2:41 PM 
+- 🚀 [i7-13700K、i5-13600K同时跑分：性能大涨、功耗稳稳300W](https://www.cnbeta.com/articles/tech/1298157.htm) | Thu Jul 28 2022 5:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;安娜·德·阿玛斯主演、安德鲁·多米尼克执导的玛丽莲·梦露传记片《金发美人》发布新&lt;a class=&quot;f14_link&quot; href=&quot;https://v.youku.com/v_show/id_XNTg4OTM2NjgyMA==.html?spm=a1z3jc.11711052.0.0&amp;isextonly=1&quot; target=&quot;_blank&quot;&gt;预告&lt;/a&gt;，9月28日上线Netflix，该片入围了威尼斯电影节主竞赛。该片是网飞首部大尺度的NC 17原创电影，改编自Joyce Carol Oates的同名小说，以现代名人文化的视角聚焦1950-60年代的梦露。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在偷跑了13代酷睿旗舰型号i9-13900K的性能、功耗之后，B站UP主“EP极致玩家堂”又曝出了另外两款K系列型号i7-13700K、i5-13600K，而且搭配了两种内存，分别是DDR4-3600、DDR5-5200。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果在线商店开始维护明日开启夏日特惠 iPhone 13 立减 600 元](https://www.cnbeta.com/articles/tech/1298143.htm) | Thu Jul 28 2022 2:37 PM 
+- 🎊 [索尼参与开发PS版手机手柄公布 售价99.99美元](https://hot.cnbeta.com/articles/game/1298155.htm) | Thu Jul 28 2022 4:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;中国区苹果在线商店开始维护，开始为明日的夏日优惠做准备。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 29 日至 8 月 1 日，用指定支付方式购买符合条件的产品可享立减优惠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;PlayStation与Backbone合作推出一款PS版手机手柄，这款手柄支持玩家串流运行PS4/5版游戏，还支持手机版原生游戏，包括《使命召唤手游版》、《原神》等。这款手柄将在美国、加拿大等国家发售，目前仅支持IOS设备，售价99.99美元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
