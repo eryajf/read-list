@@ -229,7 +229,30 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [【热点讨论】2022攻防演练情报追踪](https://www.freebuf.com/news/340081.html) | Thu Jul 28 2022 1:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    攻防来袭，FreeBuf联合漏洞盒子情报星球为大家送上新鲜及时的情报分享~ 
+    </details> 
 
+- 🦄 [离职也逃不掉，Uber协助司法部起诉前CSO](https://www.freebuf.com/articles/340391.html) | Thu Jul 28 2022 5:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    Uber就2016年一起黑客攻击事件与美国司法部达成不起诉协议，其代价就是，Uber同意帮助美国司法部起诉其前首席安全官Sullivan。 
+    </details> 
+
+- 🦅 [解读 | 东欧局势正影响全球DDoS攻击态势](https://www.freebuf.com/news/340390.html) | Thu Jul 28 2022 5:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    研究发现 DDoS 攻击已被积极用于政治目的。 
+    </details> 
+
+- 🪄 [IBM数据泄露成本报告发布，数据泄露创历史新高](https://www.freebuf.com/news/340388.html) | Thu Jul 28 2022 5:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    IBM发布了最新的数据泄露成本报告。 
+    </details> 
+
+- 💻 [新钓鱼平台Robin Banks出现，多国知名金融组织遭针对](https://www.freebuf.com/articles/340362.html) | Thu Jul 28 2022 3:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    近期出现了一个新型网络钓鱼服务平台，提供现成的网络钓鱼工具包，目标是知名银行和在线服务的客户。 
+    </details> 
 <!-- freebuf:END -->
 
 ## 新闻热览
