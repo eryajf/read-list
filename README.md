@@ -206,11 +206,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply2) | Wed Jul 27 2022 5:01 PM
-- 🤗 [各位大佬们 黑裙安装时提示 SATA boot support on this platform is exper imental!](https://www.v2ex.com/t/869120#reply0) | Wed Jul 27 2022 4:38 PM
-- 🎭 [有什么推荐的 C# + WPF 跨平台开发框架](https://www.v2ex.com/t/869115#reply5) | Wed Jul 27 2022 3:33 PM
-- 🥷 [HVV](https://www.v2ex.com/t/869107#reply5) | Wed Jul 27 2022 2:52 PM
-- 🐵 [JS axios async/await 好像只能返回 promise](https://www.v2ex.com/t/869082#reply19) | Wed Jul 27 2022 11:57 AM<!-- v2ex:END -->
+- 🥸 [idea 社区版 tomcat？](https://www.v2ex.com/t/869146#reply2) | Thu Jul 28 2022 1:19 AM
+- 🤗 [体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply4) | Wed Jul 27 2022 5:01 PM
+- 🎭 [各位大佬们 黑裙安装时提示 SATA boot support on this platform is exper imental!](https://www.v2ex.com/t/869120#reply0) | Wed Jul 27 2022 4:38 PM
+- 🥷 [有什么推荐的 C# + WPF 跨平台开发框架](https://www.v2ex.com/t/869115#reply9) | Wed Jul 27 2022 3:33 PM
+- 🐵 [HVV](https://www.v2ex.com/t/869107#reply8) | Wed Jul 27 2022 2:52 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
