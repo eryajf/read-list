@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [蔚来宣布能源欧洲工厂即将投入运营 坐落于匈牙利](https://www.cnbeta.com/articles/tech/1298583.htm) | Fri Jul 29 2022 3:17 PM 
+- 🕯 [威尔·史密斯发布视频 为掌掴洛克事件致歉](https://hot.cnbeta.com/articles/movie/1298599.htm) | Fri Jul 29 2022 4:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月29日晚间消息，匈牙利外交与对外经济部部长彼得·西亚尔托与蔚来欧洲副总裁张晖在匈牙利首都布达佩斯联合宣布，蔚来在匈牙利佩斯州投资建设的蔚来能源欧洲工厂将于9月投入运营。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月29日，威尔·史密斯发布视频，再次为自己在第94届奥斯卡颁奖礼上掌掴克里斯·洛克进行道歉。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;威尔·史密斯致歉视频：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Amazon Drive线上存储服务将于2023年12月31日关闭](https://www.cnbeta.com/articles/tech/1298581.htm) | Fri Jul 29 2022 3:15 PM 
+- 💼 [沈腾科幻新片《独行月球》上映首日票房破3亿 豆瓣7.3分](https://hot.cnbeta.com/articles/movie/1298597.htm) | Fri Jul 29 2022 4:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;仍在使用Amazon Drive的客户将迁移到Amazon Photos，并在2023年12月31日前保存其存储的文件，因为Amazon Drive服务即将结束，客户必须采取行动，防止数据丢失。亚马逊将自动将照片和视频转移到Amazon Photos服务，但其他文件类型必须手动下载。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据灯塔专业版，影片《独行月球》上映首日，票房突破3亿。&lt;/strong&gt;截至7月29日19点08分，中国电影市场时隔163天，全国单日票房再度破2亿,（上一次是2月15日的2.03亿），其中《独行月球》以1.88亿领跑，票房占比93.9%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [小型植入物无需药物即可按需缓解疼痛](https://www.cnbeta.com/articles/science/1298579.htm) | Fri Jul 29 2022 3:08 PM 
+- 💂 [Canalys警告：第二季度全球智能手机市场表现急剧下降](https://www.cnbeta.com/articles/tech/1298595.htm) | Fri Jul 29 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国西北大学一个研究小组开发了一种小型、柔软、灵活的植入物，可以按需缓解疼痛，而无需使用药物。&lt;/strong&gt;这种首创的装置可以为阿片类药物和其他高成瘾性药物提供一种急需的替代物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Canalys报告称，第二季度智能手机的销售量有所下降。全球出货量下降到2.87亿部。三星仍然处于领先地位，而苹果从小米手中重新夺回了第二名，而来自中国公司正在努力应对不断减少的需求。Canalys还报告了第二季度智能手机市场的下滑，称出货量减少了9%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [说仙人掌没叶子？你看它扎不扎你就完了](https://www.cnbeta.com/articles/science/1298577.htm) | Fri Jul 29 2022 3:01 PM 
+- 🚀 [Instagram暂时停止了蜕变为TikTok翻版的进程](https://www.cnbeta.com/articles/tech/1298593.htm) | Fri Jul 29 2022 3:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;提起仙人掌，大家脑海中第一个想到的会是什么？是那扎人的“尖刺”？还是像手掌一样的“叶子”？还记得小时候第一次看到仙人掌，好奇之下，我伸手去抚摸仙人掌那厚厚的“叶子”，顿时一阵刺痛袭来，缩手一看发现许多尖刺扎在手指上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，Instagram面临来自用户、网红和名人们的反击，主要是因为它对应用程序做出的一系列改变，有人称之为&amp;quot;类TikTok&amp;quot;，有人说Instagram太想成为TikTok，这些&amp;quot;TikTok式&amp;quot;的变化包括全屏视频体验和更多推荐视频内容，而不是来自用户关注的内容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微信发布公众号新规：这四种教你赚钱的文章禁发](https://www.cnbeta.com/articles/tech/1298575.htm) | Fri Jul 29 2022 3:00 PM 
+- 🎊 [NASA月球载荷服务供应商马斯特恩空间系统公司启动破产程序](https://www.cnbeta.com/articles/science/1298591.htm) | Fri Jul 29 2022 3:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月29日晚，微信官方发布《微信公众平台关于金融类违规营销内容的规范》。《规范》从，为保障金融消费者合法权益，防范和控制金融营销活动的法律风险，特根据《中国人民银行金融消费者权益保护实施办法》、《关于进一步规范金融营销宣传行为的通知》等相关规定，制定以下金融类违规营销内容治理规则。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298575.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Masten Space Systems（马斯特恩空间系统公司）周四开始了申请破产的程序，公司告知特拉华州的一家法院，它欠了包括SpaceX、Astrobotic、NuSpace和其他公司各数百万美元不等的债务。&lt;/strong&gt;Masten Space是一家成立于2004年的初创公司，曾雄心勃勃地想最早在明年将登陆器送上月球。该公司被美国宇航局在该机构的商业月球载荷服务项目下选中，向月球表面运送八个载荷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
