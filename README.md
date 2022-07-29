@@ -504,29 +504,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Navicat Premium 16.1.0 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Fri Jul 29 2022 1:19 AM 
+- 🦏 [Slidepad 1.3.3 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Fri Jul 29 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
+    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。 
     </details> 
 
--  [DxO PhotoLab 5 ELITE Edition 5.4.0.72 专业的raw图片处理工具](https://xclient.info/s/dxo-photolab.html) | Fri Jul 29 2022 1:18 AM 
+-  [SnapMotion 5.0.6 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Fri Jul 29 2022 6:58 AM 
     <details><summary>展开描述 ...</summary> 
-    DxO PhotoLab是一款专业的raw图片处理软件，可以让用户以最佳图像质量轻松生成RAW和JPEG图像，并提供了一整套智能辅助校正，让你可以随时手动进行微调。 
+    SnapMotion可以快速将截取视频中的图片，并且支持批量处理，支持导出为GIF等格式，简单易用。 
     </details> 
 
-- ⚗️ [Rhinoceros 7.21.22193.09002 强大的3D造型软件](https://xclient.info/s/rhino.html) | Fri Jul 29 2022 1:16 AM 
+- ⚗️ [iStat Menus 6.62.1197 优秀的系统监控工具](https://xclient.info/s/istat-menus-for-mac.html) | Fri Jul 29 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-    Rhino，中文名称犀牛，是一款超强的三维建模工具，它包含了所有的NURBS建模功能，用它建模感觉非常流畅，所以大家经常用它来建模，然后导出高精度模型给其他三维软件使用。 
+    iStat Menus是Mac上最优秀的系统监控工具，能够在系统菜单栏实时监控CPU、GPU、内存、硬盘、网络、温度、电池以及系统时间等，稳定且占用资源少，可以说是装机必备的软件。 
     </details> 
 
-- 🔥 [Scrutiny 12.3.16 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Fri Jul 29 2022 1:14 AM 
+- 🔥 [Yate 6.10.5.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Fri Jul 29 2022 6:56 AM 
     <details><summary>展开描述 ...</summary> 
-    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
+    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
     </details> 
 
-- 🌋 [Path Finder 2136 超赞Mac资源 文件管理工具](https://xclient.info/s/path-finder.html) | Fri Jul 29 2022 1:12 AM 
+- 🌋 [Notebooks 3.0 文档管理和日程备忘工具](https://xclient.info/s/notebooks.html) | Fri Jul 29 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    Path Finder 是一款类似于Finder的系统文件管理器，它能轻而易举访问系统文件或者网络硬盘。可自定义标签集，支持新建不同的侧边栏，根据不同的应用调取。使用操作的确比系统自带的 Finder 操作方便多了。 
+    Notebooks 是一款Mac上文档管理、文本编写和日程备忘工具，，集成了编写文档、日程任务管理、文档文件管理三个功能，其中文档编写支持纯文本、HTML文本和Markdown文本等，支持统一管理常见的文档文件，如text, PDF, web pages, MS Office documents等，非常实用的一款工具！ 
     </details> 
 <!-- xclient:END -->
 
