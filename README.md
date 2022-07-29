@@ -594,28 +594,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Dope.Link Android App - 使用涂料链接赚钱](https://xinquji.com/posts/178322?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:38 AM 
+- 👀 [Notion 6 Page Invoice Pack - 在 Notion 中设计的发票文件](https://xinquji.com/posts/178347?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     使用涂料链接赚钱  
+     在 Notion 中设计的发票文件  
     </details> 
 
-- 🥷 [Course Creation Guide by SchoolMaker - 创作者的疯狂完整指南](https://xinquji.com/posts/178321?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:36 AM 
+- 🥷 [SQR - 终极二维码生成器和 URL 缩短器](https://xinquji.com/posts/178346?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     创作者的疯狂完整指南  
+     终极二维码生成器和 URL 缩短器  
     </details> 
 
-- 💼 [KnowledgeBase - 帮助您的支持团队，为客户提供 24/7 自助服务](https://xinquji.com/posts/178320?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:33 AM 
+- 💼 [Sennet 2.0 - 用人工智能过滤市场](https://xinquji.com/posts/178345?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     帮助您的支持团队，为客户提供 24/7 自助服务  
+     用人工智能过滤市场  
     </details> 
 
-- 🦅 [FacePlay App - 换脸视频](https://xinquji.com/posts/178319?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:31 AM 
+- 🦅 [SuperHR - 获取如何改进您组织的人力资源流程的建议](https://xinquji.com/posts/178344?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     换脸视频  
+     获取如何改进您组织的人力资源流程的建议  
     </details> 
 
-- 😺 [Keyboard Yoga - 不一样的打字教练](https://xinquji.com/posts/178318?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:31 AM 
+- 😺 [Tip Me A Coffee - 分享时赚取加密货币](https://xinquji.com/posts/178343?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     不一样的打字教练  
+     分享时赚取加密货币  
     </details> 
 <!-- xinquji:END -->
