@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [ible推出Arivida E1：带耳机功能的负离子便携空气净化器](https://www.cnbeta.com/articles/tech/1298617.htm) | Fri Jul 29 2022 10:04 PM 
+- 🕯 [60年前老游戏《Spacewar!》登陆Analogue掌机Pocket](https://hot.cnbeta.com/articles/game/1298619.htm) | Fri Jul 29 2022 11:04 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;全球首款视频游戏即将登陆 Analogue 的游戏掌机 Pocket。&lt;/strong&gt;今天，Analogue 宣布推出《Spacewar!》，这款游戏最初是为 PDP-1 微型计算机而设计的，发布时间甚至比知名游戏《Pong》还早了整整 10 年。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [ible推出Arivida E1：带耳机功能的负离子便携空气净化器](https://www.cnbeta.com/articles/tech/1298617.htm) | Fri Jul 29 2022 10:04 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;近日，在法国巴黎召开的 Viva Tech 2022 大展上，ible 公司推出了全新的 Arivida E1 颈挂式无线耳机，更重要的是该耳机配备了该公司认证可穿戴离子空气净化器。&lt;/strong&gt;这款耳机配备了 ible 独有的 Breathing Pathway Eco Ion 技术，可以净化空气，减少冠状病毒、pm2.5、花粉、过敏原和细菌的潜在影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [当年的“站长之王”醉心炒币：一晚浮亏3个亿](https://www.cnbeta.com/articles/tech/1298615.htm) | Fri Jul 29 2022 6:37 PM 
+- 💂 [当年的“站长之王”醉心炒币：一晚浮亏3个亿](https://www.cnbeta.com/articles/tech/1298615.htm) | Fri Jul 29 2022 6:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;大家应该都记得，前段时间比特币跌穿了。6&amp;nbsp;月的时候，直接跌破了&amp;nbsp;2&amp;nbsp;万关口。虽然之后小涨小跌的，最近才涨回&amp;nbsp;2&amp;nbsp;万。&lt;strong&gt;前阵子才一万五，上次见到这么低的数字，还是比特币没被炒起来的时候。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [200万的车 撞车后打不开门？雷克萨斯这波有大问题](https://www.cnbeta.com/articles/tech/1298613.htm) | Fri Jul 29 2022 4:56 PM 
+- 🚀 [200万的车 撞车后打不开门？雷克萨斯这波有大问题](https://www.cnbeta.com/articles/tech/1298613.htm) | Fri Jul 29 2022 4:56 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“ 一辆加价 40 万，落地近 200 万的雷克萨斯 LM，撞车后因车门打不开，造成一死两伤的惨痛事故 ”。这则新闻相信大伙这两天多少都有耳闻。7 月 28 日，一台雷克萨斯 LM 300h 亚洲特供版 MPV，在某路段发生严重车祸，撞上护栏，车头严重变形，车内被困三人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小米12S Ultra暗藏澎湃C2：一部手机 三颗自研芯片](https://www.cnbeta.com/articles/tech/1298611.htm) | Fri Jul 29 2022 4:55 PM 
+- 🎊 [小米12S Ultra暗藏澎湃C2：一部手机 三颗自研芯片](https://www.cnbeta.com/articles/tech/1298611.htm) | Fri Jul 29 2022 4:55 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;我们知道，小米已经有了四颗自研芯片，分别是SoC芯片澎湃S1、影像芯片澎湃C1、快充芯片澎湃P1、电池管理芯片澎湃G1。最新发布的小米12S Ultra更是同时集成了澎湃P1、澎湃G1，组成“小米澎湃电池管理系统”，可以延长电池寿命，同时大幅提升充电效率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [AMD Zen4性能凶猛 单核超越i9-12900K 22％](https://www.cnbeta.com/articles/tech/1298609.htm) | Fri Jul 29 2022 4:54 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel 13代酷睿、AMD锐龙7000到底孰强孰劣？最新曝光的信息给了AMD粉丝们一剂强心剂。UserBenchmark数据库里出现了一颗AMD锐龙7000的工程样品，编号&lt;strong&gt;100-000000593-20_Y&lt;/strong&gt;，搭配主板是华擎N7-B65XT，很可能是基于B650E芯片组。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
