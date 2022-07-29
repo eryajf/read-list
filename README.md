@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Omdia：苹果、三星和荣耀在第二季度进步明显 尽管整体市场不振](https://www.cnbeta.com/articles/tech/1298541.htm) | Fri Jul 29 2022 12:11 PM 
+- 🕯 [苹果高管解读财报：iPhone受宏观经济影响不明显](https://www.cnbeta.com/articles/tech/1298561.htm) | Fri Jul 29 2022 1:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据Omdia的研究，今年第二季度的全球智能手机市场表现不及2021年第二季度，与2022年第一季度相比同样更差。4月至6月，共有2.937亿部智能手机出货，而第一季度为3.077亿部，2021年第二季度为3.033亿部。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司今天发布了该公司的2022财年第三财季业绩。报告显示，苹果公司第三财季净营收为829.59亿美元，与去年同期的814.34亿美元相比增长2%；净利润为194.42亿美元，与去年同期的217.44亿美元相比下降11%。其中，苹果公司第三财季大中华区净营收为146.04亿美元，相比之下去年同期为147.62亿美元，同比下降1%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [如果问天实验舱发射失败……两大“杀手锏”第一次公开](https://www.cnbeta.com/articles/science/1298539.htm) | Fri Jul 29 2022 12:07 PM 
+- 💼 [《地心引力》导演拍新片 查理兹·塞隆主演](https://hot.cnbeta.com/articles/movie/1298559.htm) | Fri Jul 29 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着问天实验舱成功与天和核心舱对接，我们似乎已经习惯了中国航天任务的一次次成功，但成功的背后，是无数科研人员的心血汗水，还有各种最好永远用不上的紧急预案，正是它们的默默存在，才使得即便发生意外也能从容应对。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《地心引力》《罗马》导演阿方索·卡隆终于有新片了，他将和查理兹·塞隆合作剧情片《简》：聚焦知名科幻小说家菲利普·K·迪克&lpar;《银翼杀手》《少数派报告》《全面回忆》&rpar;夭折的双胞胎妹妹，故事将探索迪克与简的关系。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [电影《古墓丽影2》突然黄了：新劳拉3年青春打水漂](https://hot.cnbeta.com/articles/movie/1298537.htm) | Fri Jul 29 2022 12:06 PM 
+- 💂 [被育碧解雇的前《刺客信条》创意总监 现已加盟了腾讯天美](https://hot.cnbeta.com/articles/game/1298557.htm) | Fri Jul 29 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月29日消息，据新浪电影，米高梅失去了《古墓丽影》翻拍权，归还给了游戏公司和格雷厄姆·金的GK影业，也引起了好莱坞多家公司的激烈争抢。随着版权翻新，米高梅已运作几年的《古墓丽影2》也被取消。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前被育碧解雇的《刺客信条》创意总监Ashraf Ismail现已加盟了腾讯，开发一个新的游戏。Ashraf Ismail曾是《刺客信条：英灵殿》《刺客信条：起源》的创意总监，由于滥用职权和婚外情指控，被育碧在2020年8月解雇。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Strategy Analytics：苹果在第二季度的智能手机市场份额为10年来最佳](https://www.cnbeta.com/articles/tech/1298535.htm) | Fri Jul 29 2022 11:57 AM 
+- 🚀 [索尼拒绝透漏PS5将来是否会涨价](https://hot.cnbeta.com/articles/game/1298555.htm) | Fri Jul 29 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Strategy Analytics新的研究称，即使全球智能手机出货量下降，苹果的iPhone第二季度市场份额也是2012年以来最好的。苹果公司在其财年的第三季度报告了破纪录的收益。然而，这份报告没有将该公司与其他公司进行细节上的比较，而这正是研究的重点所在。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼拒绝透露目前的经济压力是否会导致该公司提高PS5的价格。今年4月，索尼提高了一系列消费者电子产品在日本的售价，包括一些相机，蓝光播放器，家庭影院系统，耳机和音箱。涨价的原因包括持续的半导体短缺和其他外部因素，这些因素导致原材料、生产和分销的成本上升。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美社交巨头Instagram负责人承认：抖音的成功学不来](https://www.cnbeta.com/articles/tech/1298533.htm) | Fri Jul 29 2022 11:31 AM 
+- 🎊 [国务院联防联控机制：进一步推动新冠病毒核酸检测结果全国互认](https://www.cnbeta.com/articles/tech/1298553.htm) | Fri Jul 29 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间7月29日消息，美国社交软件Instagram今天表示，这一周以来，“抖音化”改动遭受越来越多批评，公司决定撤回对该产品的一些更改，逐步淘汰应用程序的测试版本，并且改进算法，减少应用程序中推荐帖子的数量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;国务院联防联控机制7月29日发布通知，要求进一步推动核酸检测结果全国互认。不同渠道展示的核酸检测结果具有同等效力。&lt;/strong&gt;各地区各有关部门要充分认识，进一步科学精准做好疫情防控工作的重要性和紧迫性，坚持以人民为中心的发展思想，站在疫情防控“全国一盘棋”的高度，将核酸检测结果全国互认作为高效统筹疫情防控和经济社会发展、切实维护正常生产生活秩序的“关键小事”，抓紧抓实切实便利人员安全有序出行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
