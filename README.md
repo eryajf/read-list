@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [适用于 iOS 的 CreateML 教程：使用样式转移创建自定义图像过滤器](https://juejin.cn/post/7125683776721518623) | Fri Jul 29 2022 6:52 AM 
+- 🤗 [重构Concis组件库 | 基于lerna转为monorepo项目](https://juejin.cn/post/7125689727532924964) | Fri Jul 29 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-    多年来，Apple 的机器学习框架变得越来越强大。Style Transfer或Neural Style Transfer是框架提供的一种技术。通过风格转换，您可以将一张图片变成一张新图片，并将其风格 
+    基于lerna重构Concis项目结构，转换为monorepo的项目架构，记录描述整个重构过程，感谢支持。 
     </details> 
 
-- 🎡 [13个非常有用的Python代码片段](https://juejin.cn/post/7125673771343544327) | Fri Jul 29 2022 6:13 AM 
+- 🎡 [2022年Java秋招面试必看的 | Memcached 面试题](https://juejin.cn/post/7125689621500919845) | Fri Jul 29 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 1：将两个列表合并成一个字典 假设我们在 Python 中有两个列表，我们希望将它们合并为字典形式，其中一 
+    Memcached作为一款开源、高性能、分布式内存对象缓存系统，在各种需要缓存的场景都适用。因此，各大公司都需要程序员掌握使用Memcached，那么在面试中面试官会怎么考察应聘者对Memcached 
     </details> 
 
-- 🕯 [硬之城携手阿里云 Serverless 应用引擎（SAE）打造低代码平台](https://juejin.cn/post/7125672719844114462) | Fri Jul 29 2022 6:10 AM 
+- 🕯 [2022年Java秋招面试必看的 | Elasticsearch 面试题](https://juejin.cn/post/7125689377699102756) | Fri Jul 29 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-    简介： 简化用云的成本，把复杂留给自己，简单留给用户。 作者 | 陈泽涛（硬之城产品总监）&amp; 洛浩（阿里云云原生高级架构师） 硬之城成立于 2015 年，是一家以电子元器件 BOM 整体供应为核心，为 
+    随着企业对近实时搜索的迫切需求，Elasticsearch 受到越来越多的关注，无论是阿里、腾讯、京东等互联网企业，还是平安、顺丰等传统企业都对 Elasticsearch 有广泛的使用， 
     </details> 
 
-- 🚀 [3分钟创建Serverless Job 定时获取新闻热搜](https://juejin.cn/post/7125671883478925349) | Fri Jul 29 2022 6:06 AM 
+- 🚀 [基于Vue源码中e2e测试实践](https://juejin.cn/post/7125688945593024542) | Fri Jul 29 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-    简介： 7月25号-8月2号工作日期间，完成场景搭建，即可获得夏日清凉小风扇（每日限量）和阿里云代金券！ 云起实验室，由阿里云提供的零门槛云上实践平台。一键预置实验环境，提供详细的实验手册指导，快速体 
+    React组件库Concis借鉴尤雨溪在Vue中e2e测试的方式，将同样的测试实践中Concis的过程记录总结。 
     </details> 
 
-- 💪 [一文带你打通前端沙箱的&quot;任督二脉&quot;、分析前端业务团队如何进行技术建设、可视化全链路日志追踪 | 酱酱的下午茶第 39期](https://juejin.cn/post/7125671760636149791) | Fri Jul 29 2022 6:06 AM 
+- 💪 [每个人都可以用的开源微信机器人](https://juejin.cn/post/7125688349557260295) | Fri Jul 29 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-    今日看点：一文带你打通前端沙箱的&quot;任督二脉&quot; 万字总结、分析前端业务团队如何进行技术建设、可视化全链路日志追踪、Golang 模块引入与快速实现表格的读写业务、Dart 知识点 - 运算符 
+    经历过UOS web协议的重放荣光，又经过一段时间的封禁，又有大神把UOS web协议救回来了。免费的快乐又重新回来了，不是吗? 这意味着每个人都可以用Wechaty搞事情了，什么服务器通知，定时给女 
     </details> 
 <!-- juejin:END -->
 ### 少数派
