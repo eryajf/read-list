@@ -382,29 +382,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果会收购奈飞？库克：不排除重大收购](https://www.cnbeta.com/articles/tech/1298183.htm) | Thu Jul 28 2022 11:18 PM 
+- 🕯 [甲壳类动物被发现像蜜蜂给植物授粉一样促进海藻繁殖](https://www.cnbeta.com/articles/science/1298269.htm) | Fri Jul 29 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间7月29日消息，苹果公司CEOTim Cook&lpar;Tim Cook&rpar;周四在第三财季电话会议上表示，他不排除收购大公司的可能性，但苹果绝不会在没有战略计划的情况收购一家公司。苹果第三财季服务业务收入为196亿美元，同比增长12%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;众所周知，蜜蜂等昆虫通过将花粉从一种植物传播到另一种植物，帮助植物进行繁殖&lt;strong&gt;。然而现在，在海底世界也发现了类似的安排--涉及红藻和微小的甲壳类动物。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星被罚1400万澳元：因手机防水广告遭遇数百位用户投诉](https://www.cnbeta.com/articles/tech/1298181.htm) | Thu Jul 28 2022 11:16 PM 
+- 💼 [NASA在木星北极附近拍摄到水彩风暴](https://www.cnbeta.com/articles/science/1298267.htm) | Fri Jul 29 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月29日消息，据Phone Arena报道，澳大利亚法院法官Brendan Murphy下令三星电子澳大利亚公司在30天内支付1400万澳元罚款（约合人民币6600多万元），对此三星同意支付罚款。&lt;strong&gt;三星被罚只因该公司在2016年到2018年期间，投放了9支广告，对7款Galaxy手机防水功能进行虚假宣传。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;太阳系的柑橘色气体巨头--木星对混乱并不陌生。本月早些时候，NASA的朱诺号任务拍摄了一张令人着迷的照片来证明这一点。在该探测器第43次近距离飞越这颗巨大的行星时，它的JunoCam仪器在北极附近捕捉到了水彩漩涡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [亚马逊第二季度营收1212亿美元：同比转盈为亏](https://www.cnbeta.com/articles/tech/1298179.htm) | Thu Jul 28 2022 11:14 PM 
+- 💂 [短视频应用TikTok已试点引入HTML5游戏](https://hot.cnbeta.com/articles/game/1298265.htm) | Fri Jul 29 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊今天发布了该公司的2022财年第二季度财报。报告显示，亚马逊第二季度净销售额为1212.34亿美元，与上年同期的1130.80亿美元相比增长7%，不计入汇率变动的影响为同比增长10%；净亏损为20.28亿美元，相比之下上年同期的净利润为77.78亿美元；每股摊薄亏损为0.20美元，相比之下上年同期的每股摊薄收益为0.76美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;全球儿童和青少年在 TikTok 上的观看时间已经超过了 YouTube，而字节跳动公司希望进一步扩大战果。援引科技媒体 TechCrunch 报道，&lt;strong&gt;TikTok 和包括 Vodoo、Nitro Games、FRVR、Aim Lab 和 Lotem 在内的多家开发商合作，在数周前悄然上线了全新的游戏试点项目。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [最强反盗版工具Denuvo 让正版用户们全成了受害者](https://hot.cnbeta.com/articles/game/1298177.htm) | Thu Jul 28 2022 11:12 PM 
+- 🚀 [慧荣推出SM8366 PCIe 5.0 NVMe主控与MonTitan SSD方案](https://www.cnbeta.com/articles/tech/1298263.htm) | Fri Jul 29 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前几天小发看到了一个消息，差点没一个冲动就把电脑里面的游戏平台全都卸掉。防盗版的D加密升级，可以用在 DLC上了！相信不少玩家应该跟我的反应差不多，“ 卧槽，为什么又来一个 D 加密，能不能愉快玩游戏 ”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;赶在闪存峰会召开之前，慧荣已于本周四抢先放出了旗下首款企业级 PCIe 5.0 NVMe SSD 主控。&lt;/strong&gt;作为 2020 年 11 月发布的 SM8266（16 通道 PCIe 4.0）的后续产品，SM8366 / SM8308 属于该公司的第三代企业级 NVMe 主控系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果CEO库克：中国供需显著改善 打折活动不是清库存](https://www.cnbeta.com/articles/tech/1298175.htm) | Thu Jul 28 2022 11:11 PM 
+- 🎊 [研究展示墨西哥湾是如何在史前大灭绝中幸存下来](https://www.cnbeta.com/articles/science/1298261.htm) | Fri Jul 29 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天发布了第三财季财报，CEO蒂姆·库克&lpar;Tim Cook&rpar;在接受采访时表示，在经济放缓的情况下，公司将会“慎重”考虑支出决定。此前报道指出，苹果将在2023年放缓支出和部分团队的招聘。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据德克萨斯大学地球物理研究所&lpar;UTIG&rpar;的研究，5600万年前的一场古老的全球变暖使海洋酸化并消灭了海洋生物，但对墨西哥湾的影响较小，那里的生命受到盆地独特地质的保护。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
