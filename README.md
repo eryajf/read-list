@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [200万的车 撞车后打不开门？雷克萨斯这波有大问题](https://www.cnbeta.com/articles/tech/1298613.htm) | Fri Jul 29 2022 4:56 PM 
+- 🕯 [当年的“站长之王”醉心炒币：一晚浮亏3个亿](https://www.cnbeta.com/articles/tech/1298615.htm) | Fri Jul 29 2022 6:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;大家应该都记得，前段时间比特币跌穿了。6&amp;nbsp;月的时候，直接跌破了&amp;nbsp;2&amp;nbsp;万关口。虽然之后小涨小跌的，最近才涨回&amp;nbsp;2&amp;nbsp;万。&lt;strong&gt;前阵子才一万五，上次见到这么低的数字，还是比特币没被炒起来的时候。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [200万的车 撞车后打不开门？雷克萨斯这波有大问题](https://www.cnbeta.com/articles/tech/1298613.htm) | Fri Jul 29 2022 4:56 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“ 一辆加价 40 万，落地近 200 万的雷克萨斯 LM，撞车后因车门打不开，造成一死两伤的惨痛事故 ”。这则新闻相信大伙这两天多少都有耳闻。7 月 28 日，一台雷克萨斯 LM 300h 亚洲特供版 MPV，在某路段发生严重车祸，撞上护栏，车头严重变形，车内被困三人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [小米12S Ultra暗藏澎湃C2：一部手机 三颗自研芯片](https://www.cnbeta.com/articles/tech/1298611.htm) | Fri Jul 29 2022 4:55 PM 
+- 💂 [小米12S Ultra暗藏澎湃C2：一部手机 三颗自研芯片](https://www.cnbeta.com/articles/tech/1298611.htm) | Fri Jul 29 2022 4:55 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;我们知道，小米已经有了四颗自研芯片，分别是SoC芯片澎湃S1、影像芯片澎湃C1、快充芯片澎湃P1、电池管理芯片澎湃G1。最新发布的小米12S Ultra更是同时集成了澎湃P1、澎湃G1，组成“小米澎湃电池管理系统”，可以延长电池寿命，同时大幅提升充电效率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AMD Zen4性能凶猛 单核超越i9-12900K 22％](https://www.cnbeta.com/articles/tech/1298609.htm) | Fri Jul 29 2022 4:54 PM 
+- 🚀 [AMD Zen4性能凶猛 单核超越i9-12900K 22％](https://www.cnbeta.com/articles/tech/1298609.htm) | Fri Jul 29 2022 4:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Intel 13代酷睿、AMD锐龙7000到底孰强孰劣？最新曝光的信息给了AMD粉丝们一剂强心剂。UserBenchmark数据库里出现了一颗AMD锐龙7000的工程样品，编号&lt;strong&gt;100-000000593-20_Y&lt;/strong&gt;，搭配主板是华擎N7-B65XT，很可能是基于B650E芯片组。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [从手机厂高位“出走”的三个男人](https://www.cnbeta.com/articles/tech/1298607.htm) | Fri Jul 29 2022 4:51 PM 
+- 🎊 [从手机厂高位“出走”的三个男人](https://www.cnbeta.com/articles/tech/1298607.htm) | Fri Jul 29 2022 4:51 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“销量下滑、砍单、清库存……”除了这些关键词，2022年7月的手机市场或许还有新故事。7月24日，魅族前副总裁李楠因为评价“小米与徕卡的合作复制华为，不够有品牌意识和原创精神”而陷入舆论风波。有网友认为，李楠熟练掌握了流量密码，蹭小米流量是因为“要发布新品了，需要热度。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [“网约车开空调要加钱”无法律依据](https://www.cnbeta.com/articles/tech/1298605.htm) | Fri Jul 29 2022 4:49 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“开空调，要加钱！”近期，一张网约车内的图片在社交网络上迅速传播。炎炎夏日，乘客因空调与司机发生争执的事件屡见报端。争执的背后，既有乘客汗流浃背的不适，又有网约车司机的无奈。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
