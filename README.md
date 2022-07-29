@@ -382,29 +382,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《模拟人生4》更新后出现乱伦和快速老化Bug](https://hot.cnbeta.com/articles/game/1298387.htm) | Fri Jul 29 2022 4:42 AM 
+- 🕯 [电动汽车电池销量强劲 三星SDI第二季度营收创新高](https://www.cnbeta.com/articles/tech/1298419.htm) | Fri Jul 29 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《模拟人生4》新DLC“高中时代”于今日&lpar;7月29日&rpar;推出，Steam国区售价198元。在DLC推出之前，EA更新了《模拟人生4》。玩家更新该作后发现，游戏中出现一些让人无语的Bug，一些模拟市民的年龄增长太快，迅速老化并死亡。还有一些模拟市民想要和家庭成员&lpar;比如兄弟姐妹&rpar;约会，真是邪恶的Bug。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;7月29日，韩国电池制造商三星SDI（Samsung SDI）表示，得益于电动汽车电池的强劲销量，该公司第二季度营收和营业利润均创历史新高。&lt;/strong&gt;具体来看，今年第二季度，三星SDI的营收为4.74万亿韩元，较去年同期大涨42.2%；营业利润为4，290亿韩元（约合3.304亿美元），同比涨幅为45.3%，并且高出韩联社旗下金融数据公司Yonhap Infomax调研的平均预期水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [比尔·盖茨：国会要迅速就清洁能源采取行动 没时间浪费了](https://www.cnbeta.com/articles/tech/1298385.htm) | Fri Jul 29 2022 4:38 AM 
+- 💼 [令人难以置信的DeepMind数据库现在包括了科学界已知的几乎所有蛋白质](https://www.cnbeta.com/articles/tech/1298417.htm) | Fri Jul 29 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;北京时间7月29日消息，前微软公司董事长比尔·盖茨今日发文称，他对于美国未来实现清洁能源的持乐观态度，但已经没有时间可以浪费了，现在需要国会迅速采取行动。&lt;/strong&gt;此外，盖茨还就气候问题发表看法，他表示自己很高兴看到参议员舒默和曼钦的合作，这可能是气候向前迈出的历史性一步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去年，Alphabet的DeepMind发布了一个开源数据库，其中包含数十万种蛋白质的3D结构，包括人体中所有的2万种已知蛋白质。现在，&lt;strong&gt;这个AlphaFold蛋白质结构&lt;a href=&quot;https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe&quot; target=&quot;_self&quot;&gt;数据库&lt;/a&gt;已经扩展到2亿个，包括科学上已知的几乎所有蛋白质。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [单原子“游泳”图像首次捕捉](https://www.cnbeta.com/articles/science/1298383.htm) | Fri Jul 29 2022 4:28 AM 
+- 💂 [安哥拉开采出300年未见大粉钻 重达34g价值至少千万](https://www.cnbeta.com/articles/tech/1298415.htm) | Fri Jul 29 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英国科学家在最新一期《自然》杂志刊发论文称，他们借助石墨烯堆叠技术，制造出一种新型“纳米皮氏培养皿”，以进一步了解液体如何改变固体的行为，在此基础上首次拍摄到单原子在液体中“游泳”的图像，最新发现有望促进制氢等绿色技术的发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;澳大利亚卢卡帕钻石公司周三宣布，他们在非洲安哥拉开采出一颗300年未见的巨大粉红钻石。据美国有线电视新闻网28日报道，这颗被命名为“卢洛玫瑰”的粉钻重达170克拉（34克），是在安哥拉北隆达地区一个名为卢洛的钻石矿中被发现的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美参议员就泛滥的欺诈性加密应用程序向苹果谷歌发起质询](https://www.cnbeta.com/articles/tech/1298381.htm) | Fri Jul 29 2022 4:23 AM 
+- 🚀 [母公司冲刺IPO卡壳，驾考宝典遇多地驾校“抵制”风波](https://www.cnbeta.com/articles/tech/1298413.htm) | Fri Jul 29 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为美国参议院银行、住房与城市事务委员会主席，&lt;strong&gt;参议员 Sherrod Brown 已于 7 月 27 日分别向苹果与谷歌 CEO 致信，要求两家科技巨头详细说明“贵公司为防止应用商店中的欺诈活动而采取的措施”。&lt;/strong&gt;更确切地说，Sherrod Brown 对“欺骗了成百上千名投资者的虚假加密应用程序报道”感到无比担忧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;冲刺“在线驾考培训第一股”的故事，历经一年半，至今还没有实质进展。2020年12月30日，驾考宝典主体公司武汉木仓科技股份有限公司（以下简称“木仓科技”）向创业板提交招股书，但直到2022年3月，木仓科技才等来第一轮问询。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [超声波贴纸，贴上能看到体内器官](https://www.cnbeta.com/articles/science/1298379.htm) | Fri Jul 29 2022 4:12 AM 
+- 🎊 [烧光100亿、关停核心业务，独角兽还等不到“救命钱”](https://www.cnbeta.com/articles/tech/1298411.htm) | Fri Jul 29 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据28日发表在《科学》杂志上的一篇论文，美国麻省理工学院的工程师展示了一种新的超声波贴纸设计，这种可贴在皮肤上的邮票大小的设备，可提供48小时内脏器官的连续超声波成像。麻省理工学院研究人员将这些贴纸贴在志愿者身上，并展示了这些设备生成的主要血管和更深层器官（如心脏、肺和胃）的实时高分辨率图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;每日优鲜昨日在热搜挂了一天。&lt;strong&gt;7月28日上午，每日优鲜宣布在全国关闭30分钟极速达业务，只保留了次日达业务云超特卖。放弃其首创的前置仓模式，令外界一度哗然。&lt;/strong&gt;7月28日下午，更大的风暴来临。一份“二十分钟内公司原地解散”的截图和录音文件在各大社交平台上传播，这将本就摇摇欲坠的每日优鲜再次推至风口浪尖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
