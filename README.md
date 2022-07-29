@@ -444,7 +444,7 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [SmsForwarder - 开源免费安卓手机短信转发器 / 转发 APP 通知 / 远程监控来电记录](https://www.iplaysoft.com/smsforwarder.html) | Thu Jul 28 2022 8:07 PM
+- 🧐 [SmsForwarder - 开源免费安卓手机短信转发器 / 转发 APP 通知 / 远程监控通话记录](https://www.iplaysoft.com/smsforwarder.html) | Thu Jul 28 2022 8:07 PM
 - 🧑‍🏫 [腾讯 Mac 柠檬清理 - 免费开源了！良心简洁的苹果 macOS 垃圾清理/系统优化工具](https://www.iplaysoft.com/lemon-cleaner.html) | Mon Jul 25 2022 11:32 AM
 - 🥰 [新版 Typora 来袭！优秀 Markdown 编辑器券后仅 84 元](https://www.iplaysoft.com/news/5744) | Mon Jul 25 2022 9:16 AM
 - 💻 [媲美真人配音！微软语音合成助手 - 免费文字转换音频的 TTS 工具 &lpar;发音更有感情&rpar;](https://www.iplaysoft.com/azure-tts.html) | Thu Jul 21 2022 6:04 PM
