@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [索尼预警PlayStation游戏销售额会恶化](https://hot.cnbeta.com/articles/game/1298501.htm) | Fri Jul 29 2022 9:37 AM 
+- 🕯 [刘亦菲黑白风格写真美照 穿蕾丝上衣成熟妩媚](https://hot.cnbeta.com/articles/movie/1298529.htm) | Fri Jul 29 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼削减了年度利润前景，警告 PlayStation 游戏销售额会比较糟糕。在最新财报中，索尼表示 PlayStation 5 主机出货量为 240 万台，比去年同期（230 万台）仅增长了 4%。目前 PlayStation 5 累计出货量为 2170 万台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，刘亦菲在社交平台上晒出自己的时尚大片。在黑白镜头下，刘亦菲眼神净澈，长发舞动，大秀曼妙身姿，尽显妩媚与纯粹。刘亦菲身穿黑色蕾丝上衣，下身搭配黑色短裤，无论是怼脸照还是侧颜都相当能打。她的肌肤白皙如雪，气质优雅动人，美若天仙一般。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://img.3dmgame.com/uploads/images2/news/20220729/1659084668_902893.jpg&quot; alt=&quot;刘亦菲黑白风格写真美照 穿蕾丝上衣成熟妩媚&quot;/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Chrome将能够更轻松地被设置为Windows系统的默认浏览器](https://www.cnbeta.com/articles/tech/1298499.htm) | Fri Jul 29 2022 9:27 AM 
+- 💼 [moto X30 Pro入网：首款2亿像素手机 一张照片超13M](https://www.cnbeta.com/articles/tech/1298527.htm) | Fri Jul 29 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管当前版本的 Chrome 已在“设置”中提供了变更默认浏览器的选项，但具体实施还是要切换到“Windows 设置”应用程序去操作。不过近日，有眼尖的 Reddit 网友发现：&lt;strong&gt;在最新的 Chromium Gerrit 提交中，有涉及对一款新控件的描述 —— 允许用户轻松点击，并将 Chrome 设置为当前系统的默认浏览器。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月29日消息，moto X30 Pro入网，型号为XT2241-1，详细参数揭晓。入网信息显示，&lt;strong&gt;moto X30 Pro机身宽度为73.5mm，厚度为8.3mm，重量为195g，&lt;/strong&gt;屏幕尺寸为6.67英寸，材质为OLED，分辨率为2400×1080。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [多年考量后NIST公布后量子加密和签名算法的首推名单](https://www.cnbeta.com/articles/tech/1298497.htm) | Fri Jul 29 2022 9:20 AM 
+- 💂 [美团推无人机配送服务 3公里15分钟](https://www.cnbeta.com/articles/tech/1298525.htm) | Fri Jul 29 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国国家标准技术研究所（NIST）近日宣布已持续数年的后量子加密和签名算法竞赛已落下阶段性帷幕，首批获胜者名单已经出炉。&lt;/strong&gt;在后量子加密上，NIST 首推 CRYSTALS-Kyber 算法，但后期可能会根据表现有所调整。在签名算法上，NIST 首推 CRYSTALS-Dilithium，以及两款同样优秀的备选算法：Falcon 和 SPHINCS+。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，美团在2022全球数字大会展出包括自动配送车、无人机、智慧餐厅、智慧药房等多项科技产品。&lt;/strong&gt;美团副总裁陈荣凯表示，美团深耕零售主赛道，科技创新是核心驱动。并表示，在“零售+科技”战略下，美团希望基于200多个开放性场景的技术创新，快速推动商品及服务零售效率提升，可以更好满足中国消费者的多样性需求，帮助更多实体商家更好融入数字经济。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [VMware为Apple Silicon上的Fusion虚拟机带来Windows 11支持](https://www.cnbeta.com/articles/tech/1298495.htm) | Fri Jul 29 2022 9:11 AM 
+- 🚀 [每日优鲜供应商爆料：半年前已出现回款问题 欠款额超六千万](https://www.cnbeta.com/articles/tech/1298523.htm) | Fri Jul 29 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;VMware已经为Mac用户发布了Fusion 22H2技术预览。这款用于macOS的免费虚拟化软件为Apple Silicon和英特尔带来了用户期待已久的Windows 11支持，使Mac能够与macOS并排运行微软的最新操作系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月29日下午，多名每日优鲜供应商向第一财经记者表示，从去年年底开始，每日优鲜回款出现问题，目前供应商端拖欠的金额超过八位数。就在前一天，有传闻称，每日优鲜在当天下午开完会后宣布原地解散，同时员工没有收到离职赔偿以及工资。 （见报道《员工称每日优鲜缓缴社保停发工资，公司股价较发行时跌去98%》）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [每日优鲜APP疑似关停账号登录 退出后就不能再登录](https://www.cnbeta.com/articles/tech/1298493.htm) | Fri Jul 29 2022 8:53 AM 
+- 🎊 [每日优鲜“摆烂”：余额无法提现 供应商欠款超16亿](https://www.cnbeta.com/articles/tech/1298521.htm) | Fri Jul 29 2022 11:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;每日优鲜“就地解散”的事情持续引发关注，&lt;strong&gt;29日，有不少网友开始反馈，每日优鲜账号登录困难。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“生鲜电商第一股”的故事结束了。7月28日，每日优鲜App首页推送通知，“30分钟极速达服务”将被关闭，最快配送时间更改为“次日达”。下午，一则每日优鲜内部聊天记录在网上流传，消息指出：一场20分钟的线上会议后，每日优鲜宣布整体解散。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
