@@ -275,29 +275,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [【热点讨论】2022攻防演练情报追踪](https://www.freebuf.com/news/340081.html) | Thu Jul 28 2022 1:11 PM 
+- 🦄 [谷歌禁用第三方Cookies计划再次推迟](https://www.freebuf.com/news/340535.html) | Fri Jul 29 2022 3:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    谷歌在本周周三表示，它再次将暂缓禁用Chrome网络浏览器中的第三方cookies的计划。 
+    </details> 
+
+- 🦄 [越来越多受害者拒绝向黑客支付赎金](https://www.freebuf.com/news/340536.html) | Fri Jul 29 2022 3:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    受害者向黑客支付赎金的比例和赎金数额正在下降，这一趋势自 2021 年第四季度以来一直在持续。 
+    </details> 
+
+- 🦅 [微软 SQL 服务器被黑，带宽遭到破坏](https://www.freebuf.com/news/340531.html) | Fri Jul 29 2022 3:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    攻击者通过使用捆绑广告的软件甚至是恶意软件入侵微软的SQL服务器，将设备转化为在线代理服务出租的服务器进行牟利。 
+    </details> 
+
+- 🪄 [【热点讨论】2022攻防演练情报追踪](https://www.freebuf.com/news/340081.html) | Thu Jul 28 2022 1:11 PM 
     <details><summary>展开描述 ...</summary> 
     攻防来袭，FreeBuf联合漏洞盒子情报星球为大家送上新鲜及时的情报分享~ 
     </details> 
 
-- 🦄 [FreeBuf早报 | 西班牙逮捕了破坏辐射警报系统的黑客；数据泄露成本创历史新高](https://www.freebuf.com/news/340405.html) | Thu Jul 28 2022 10:01 AM 
+- 💻 [FreeBuf早报 | 西班牙逮捕了破坏辐射警报系统的黑客；数据泄露成本创历史新高](https://www.freebuf.com/news/340405.html) | Thu Jul 28 2022 10:01 AM 
     <details><summary>展开描述 ...</summary> 
     数据泄露成本创历史新高。 
-    </details> 
-
-- 🦅 [攻击数量创历史之最 | 《Web3安全季度报告》解读](https://www.freebuf.com/articles/340394.html) | Thu Jul 28 2022 6:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    CertiK近期发布了《Web3 安全季度报告》（2022年第二季度版），报告描述了Web3网络安全质量的状况。 
-    </details> 
-
-- 🪄 [离职也逃不掉，Uber协助司法部起诉前CSO](https://www.freebuf.com/articles/340391.html) | Thu Jul 28 2022 5:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    Uber就2016年一起黑客攻击事件与美国司法部达成不起诉协议，其代价就是，Uber同意帮助美国司法部起诉其前首席安全官Sullivan。 
-    </details> 
-
-- 💻 [解读 | 东欧局势正影响全球DDoS攻击态势](https://www.freebuf.com/news/340390.html) | Thu Jul 28 2022 5:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    研究发现 DDoS 攻击已被积极用于政治目的。 
     </details> 
 <!-- freebuf:END -->
 
