@@ -576,7 +576,7 @@
     挺离奇的 
     </details> 
 
-- 🎉 [著名的气候科学家、盖亚假说的提出者 在103年岁生日当天去世](http://jandan.net/p/111056) | Fri Jul 29 2022 7:48 AM 
+- 🎉 [著名气候科学家、盖亚假说的提出者 在103年岁生日当天去世](http://jandan.net/p/111056) | Fri Jul 29 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
     这个人帮助促成了20世纪许多最重要的科学事件 
     </details> 
