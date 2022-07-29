@@ -567,29 +567,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [全球范围内光纤短缺 价格几乎翻番](http://jandan.net/p/111053) | Fri Jul 29 2022 3:24 AM 
+- 🚀 [著名的气候科学家、盖亚假说的提出者 在103年岁生日当天去世](http://jandan.net/p/111056) | Fri Jul 29 2022 7:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    这个人帮助促成了20世纪许多最重要的科学事件 
+    </details> 
+
+- 🙉 [全球范围内光纤短缺 价格几乎翻番](http://jandan.net/p/111053) | Fri Jul 29 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     光纤从每公里3.70美元涨至6.30美元 
     </details> 
 
-- 🙉 [今日好价 0729](http://jandan.net/p/111059) | Fri Jul 29 2022 1:56 AM 
+- 🎉 [今日好价 0729](http://jandan.net/p/111059) | Fri Jul 29 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [未来十年，有人被太空垃圾砸死的可能性有多高](http://jandan.net/p/111052) | Thu Jul 28 2022 3:10 PM 
+- 🐲 [未来十年，有人被太空垃圾砸死的可能性有多高](http://jandan.net/p/111052) | Thu Jul 28 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
     我们正在向太空发射越来越多的卫星、火箭和探测器，我们是否需要更加认真地考虑这种风险？ 
     </details> 
 
-- 🐲 [No More Ransom 对抗加密劫持勒索软件的网站](http://jandan.net/p/111046) | Thu Jul 28 2022 9:03 AM 
+-  [No More Ransom 对抗加密劫持勒索软件的网站](http://jandan.net/p/111046) | Thu Jul 28 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
     欧洲刑警组织、荷兰国家警察局以及多家网络安全和IT公司于 2016 年联合发起No More Ransom 项目 
-    </details> 
-
--  [冒犯式喜剧人已经灭绝了吗？](http://jandan.net/p/111057) | Thu Jul 28 2022 8:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    冒犯式喜剧人也是网络时代的受害者 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
