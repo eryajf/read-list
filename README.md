@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何在Python中使用Frozenset对象](https://juejin.cn/post/7125728094404476935) | Fri Jul 29 2022 9:44 AM 
+- 🤗 [微信删除的图片怎么恢复？喝杯奶茶的时间就能搞定](https://juejin.cn/post/7125719735651532836) | Fri Jul 29 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇文章将介绍在Python中使用 &quot;frozenset &quot;函数的指南，该函数返回一个新的frozenset类型的Python对象。这些对象类似于Python中的set对象，但有一些关键的区别。本文的 
+    平时和好友或者家人在微信上聊天，或多或少都会分享一些图片和表情包，当失手误删了聊天框该怎么办？微信删除的图片怎么恢复？本文小编教大家三招，总有一招能解决你的问题。 
     </details> 
 
-- 🎡 [如何在Python中使用十进制模块](https://juejin.cn/post/7125724670183079967) | Fri Jul 29 2022 9:31 AM 
+- 🎡 [TensorFlow 2.9中的新内容是什么？](https://juejin.cn/post/7125719630290616334) | Fri Jul 29 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将介绍Python中 &quot;小数 &quot;模块的使用指南。它可以用来对浮点数或含有小数点的数字进行各种数学运算。本文的所有代码样本都是在Ubuntu 21.04上用Python 3.9.5测试的。 关于小数 
+    由Goldie Gadde和Douglas Yarrington为TensorFlow团队发布 TensorFlow 2.9已经发布了!亮点包括oneDNN的性能改进，以及DTensor的发布，这是一 
     </details> 
 
-- 🕯 [在jshell中设置Visual Studio Code为默认编辑器的方法](https://juejin.cn/post/7125713244206923789) | Fri Jul 29 2022 8:47 AM 
+- 🕯 [技术周报·尤雨溪解读2022 Web前端生态趋势](https://juejin.cn/post/7125719609096798216) | Fri Jul 29 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    Java Shell*&lpar;jshell*&rpar;是一个用于学习和制作Java原型的互动工具。它是在Java 9中引入的，从那时起，我偶尔会用它来做一些快速的原型设计，在演讲中，或者仅仅是为了验证Java语言的 
+    编辑推荐：尤雨溪解读2022 Web前端生态趋势；深入浅出依赖注入及其在抖音直播中的应用；Bun 是否能挑战 Webpack、Vite 的霸主地位，等 
     </details> 
 
-- 🚀 [3个iPhone设置让你成为“人类高质量iPhone用户”](https://juejin.cn/post/7125713144873222174) | Fri Jul 29 2022 8:46 AM 
+- 🚀 [如何为 Web 应用程序执行安全测试](https://juejin.cn/post/7125719230149820453) | Fri Jul 29 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    iPhone的很多设置虽然很便捷，但平时日常生活中可能会有相反的效果。小编今天和大家分享能够提升舒适感的3个iPhone设置，让你成为“人类高质量iPhone用户”。 
+    根据SDLC的不同阶段，有不同的方法来确保应用程序和网络安全。一些标准方法包括： 设计评审 此阶段通常包括威胁建模实践，安全团队在此阶段审查应用程序的设计和体系结构，在开始编码过程之前检查安全缺陷。  
     </details> 
 
-- 💪 [使用Testcontainers和PostgreSQL的Quarkus测试（详细指南）](https://juejin.cn/post/7125712571323121671) | Fri Jul 29 2022 8:44 AM 
+- 💪 [Re:Tech FE Weekly Vol.001](https://juejin.cn/post/7125665374913183751) | Fri Jul 29 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Testcontainers是一个Java库，允许在JUnit测试中轻松集成Docker容器。在一个容器化的世界里，用嵌入式数据库和服务使测试配置复杂化是没有意义的。相反，在Docker中运行你的服务 
+    Re:Tech FE Weekly Vol.001 本期文章 关于代码评审&lpar;CodeReview&rpar;那些不得不说的事儿 本文作者在学习了Google Code Review 指南的基础上；总结了长期做C 
     </details> 
 <!-- juejin:END -->
 ### 少数派
