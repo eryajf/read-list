@@ -504,29 +504,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [RAR Extractor Max – unzip 9.5.0 解压缩神器](https://xclient.info/s/rar-extractor-unzip.html) | Wed Jul 27 2022 1:28 AM 
+- 🦏 [Navicat Premium 16.1.0 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Fri Jul 29 2022 1:19 AM 
     <details><summary>展开描述 ...</summary> 
-    RAR Extractor - Unzip是一款功能强大的解压缩软件，支持几乎所有的压缩格式，比如RAR, ZIP, 7z, tbz, sti, tar, xar等等，用起来非常的方便。 
+    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
     </details> 
 
--  [Sublime Merge 2.0 Build 2075 Git客户端](https://xclient.info/s/sublime-merge.html) | Wed Jul 27 2022 1:27 AM 
+-  [DxO PhotoLab 5 ELITE Edition 5.4.0.72 专业的raw图片处理工具](https://xclient.info/s/dxo-photolab.html) | Fri Jul 29 2022 1:18 AM 
     <details><summary>展开描述 ...</summary> 
-    Sublime Merge 是Sublime Text制作者开发的一款Git客户端。 
+    DxO PhotoLab是一款专业的raw图片处理软件，可以让用户以最佳图像质量轻松生成RAW和JPEG图像，并提供了一整套智能辅助校正，让你可以随时手动进行微调。 
     </details> 
 
-- ⚗️ [Tower Pro 9.0 mac平台最强大的Git 客户端](https://xclient.info/s/tower.html) | Wed Jul 27 2022 1:24 AM 
+- ⚗️ [Rhinoceros 7.21.22193.09002 强大的3D造型软件](https://xclient.info/s/rhino.html) | Fri Jul 29 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    Tower 是一款非常强大的Git客户端，如果你使用git的过程中，感觉使用命令很困难，可以尝试使用Tower。它采用了分布式版本库的方式，不必服务器端软件支持，使源代码的发布和交流极其方便。 
+    Rhino，中文名称犀牛，是一款超强的三维建模工具，它包含了所有的NURBS建模功能，用它建模感觉非常流畅，所以大家经常用它来建模，然后导出高精度模型给其他三维软件使用。 
     </details> 
 
-- 🔥 [SQLPro Studio 2022.45 CR2 多数据库管理工具](https://xclient.info/s/sqlpro-studio.html) | Wed Jul 27 2022 1:23 AM 
+- 🔥 [Scrutiny 12.3.16 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Fri Jul 29 2022 1:14 AM 
     <details><summary>展开描述 ...</summary> 
-    SQLPro Studio 是一款十分实用的数据库管理软件，该软件能够帮助用户快速智能的管理数据库的各种资料与文件，操作简单，能够更好的帮助用户及时管理数据库，欢迎有需要的用户下载使用。 
+    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
     </details> 
 
-- 🌋 [Find Any File 2 2.3.3b14 FAF文件搜索增强工具](https://xclient.info/s/find-any-file.html) | Wed Jul 27 2022 1:22 AM 
+- 🌋 [Path Finder 2136 超赞Mac资源 文件管理工具](https://xclient.info/s/path-finder.html) | Fri Jul 29 2022 1:12 AM 
     <details><summary>展开描述 ...</summary> 
-    Find Any File 让您可以在本地磁盘上搜索、查找您的任何文件包括本地磁盘的名称、 创建或修改日期、 大小或类型和创建者代码等等。 
+    Path Finder 是一款类似于Finder的系统文件管理器，它能轻而易举访问系统文件或者网络硬盘。可自定义标签集，支持新建不同的侧边栏，根据不同的应用调取。使用操作的确比系统自带的 Finder 操作方便多了。 
     </details> 
 <!-- xclient:END -->
 
