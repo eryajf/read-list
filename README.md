@@ -382,29 +382,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [街边店自制茅台冰淇淋80元一个，大家为什么都盯上冰淇淋赛道？](https://www.cnbeta.com/articles/tech/1298477.htm) | Fri Jul 29 2022 8:00 AM 
+- 🕯 [VMware为Apple Silicon上的Fusion虚拟机带来Windows 11支持](https://www.cnbeta.com/articles/tech/1298495.htm) | Fri Jul 29 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在茅台冰淇淋火爆全网后，一些商家都坐不住了，开启了自制茅台冰淇淋模式来抢占市场。&lt;/strong&gt;第一财经记者近期亲测了几家自己添加茅台酒的冰淇淋店，发现自制茅台冰淇淋的价格比原版茅台冰淇淋还要贵，单价可达80元，且店内也有不少客人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;VMware已经为Mac用户发布了Fusion 22H2技术预览。这款用于macOS的免费虚拟化软件为Apple Silicon和英特尔带来了用户期待已久的Windows 11支持，使Mac能够与macOS并排运行微软的最新操作系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中华医学会呼吸病学分会主任委员瞿介明：免疫脆弱群体如何预防新冠](https://www.cnbeta.com/articles/science/1298475.htm) | Fri Jul 29 2022 7:59 AM 
+- 💼 [每日优鲜APP疑似关停账号登录 退出后就不能再登录](https://www.cnbeta.com/articles/tech/1298493.htm) | Fri Jul 29 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;“在新冠疫情防控过程当中，不管是全球范围还是国内，都在努力地寻找有效的预防措施。其中，大家投入最多的手段，以及策略上研究比较多的，是疫苗。”&lt;/strong&gt;日前，中华医学会呼吸病学分会主任委员、上海交通大学医学院附属瑞金医院党委书记瞿介明在接受澎湃新闻记者采访时如是表示。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;每日优鲜“就地解散”的事情持续引发关注，&lt;strong&gt;29日，有不少网友开始反馈，每日优鲜账号登录困难。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NASA的CAPSTONE卫星在前往月球的轨道上执行第三次机动任务](https://www.cnbeta.com/articles/science/1298473.htm) | Fri Jul 29 2022 7:53 AM 
+- 💂 [券商拆解特斯拉研报遭质疑 网友：涉嫌抄袭](https://www.cnbeta.com/articles/tech/1298491.htm) | Fri Jul 29 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国宇航局（NASA）的“地月自主定位系统技术操作和导航实验”（CAPSTONE）于7月25日成功地完成了其第三次轨道修正操作（TCM）。&lt;/strong&gt;CAPSTONE正在采取一条漫长但节省燃料的路线前往月球，飞行约95.8万英里（154万公里），然后绕回其近直角光环轨道（NRHO）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前段时间，有券商机构卷了起来，争相拆车写研报，海通国际拆完比亚迪后，中信证券也自己买了一台特斯拉Model 3，并发布了一份94页的研报。&lt;strong&gt;不过而今，中信证券的特斯拉研报，似乎遭到了网友质疑，有网友发帖称其研报内容，存在抄袭借鉴等行为。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [被多家PC厂商断供后 俄罗斯的电脑键盘不够用了](https://www.cnbeta.com/articles/tech/1298471.htm) | Fri Jul 29 2022 7:50 AM 
+- 🚀 [NASA太空机器人在空间站“行云流水”般操作任务](https://www.cnbeta.com/articles/science/1298489.htm) | Fri Jul 29 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在一些企业停止在俄经营业务后，部分尚不具有替代性的产品出现了供应短缺。据媒体报道，苹果、戴尔、惠普、罗技等均暂停了在俄业务，以键盘为代表的PC外设遭遇缺货困扰。原来，&lt;strong&gt;俄罗斯使用一种俄文布局键盘，虽然标准英文键盘仍然可以通过进口的方式“曲线”获得，可问题在于还需要涂刻俄文字符。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据国外媒体报道，并非国际空间站的每位工作人员都是人类！情况真实是这样的，目前国际空间站并不是每位工作人员都是有机生命体，&lt;strong&gt;在距离地球数百公里的国际空间站太空实验舱中，存在着三个太空机器人——“甜心&lpar;Honey&rpar;”、“女王&lpar;Queen&rpar;”和“结巴&lpar;Bumble&rpar;”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [亚马逊2022Q2财报：收缩仓储物流战线 减缓办公室人员招募](https://www.cnbeta.com/articles/tech/1298469.htm) | Fri Jul 29 2022 7:47 AM 
+- 🎊 [第二代3nm GAA工艺将于2024年量产 高通或再次被三星吸引](https://www.cnbeta.com/articles/tech/1298487.htm) | Fri Jul 29 2022 8:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;GeekWire 报道称，从 2022 年 1 到 2 季度，亚马逊直属雇员已减少 99000、至 152 万人。&lt;/strong&gt;这是该公司历史上最大的一次环比下降，主要原因是在 COVID-19 大流行的推动下，该公司不得不临时招募更多人手来满足订单需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星最近开始向客户交付首批 3nm GAA 芯片，但智能手机芯片供应商并没有很快被其吸引，而是继续与竞争对手台积电接洽未来订单。&lt;strong&gt;不过据半导体、移动与无线行业分析师 Sravan Kundojjala 在 Twitter 上所述，这一情况有望于 2024 年迎来转变。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
