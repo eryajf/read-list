@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Twitter正计划支持在一条推文中同时发布图片、动图与视频](https://www.cnbeta.com/articles/tech/1298563.htm) | Fri Jul 29 2022 1:52 PM 
+- 🕯 [蔚来宣布能源欧洲工厂即将投入运营 坐落于匈牙利](https://www.cnbeta.com/articles/tech/1298583.htm) | Fri Jul 29 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Twitter正在开始一项新的测试，允许用户在一条多媒体推文中发布静态图片、GIF动图和视频。到目前为止，用户每条Twitter只能发布一种形式的媒体。但这种新的格式将使规则发生变化，让人们在一条推文中结合多种格式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月29日晚间消息，匈牙利外交与对外经济部部长彼得·西亚尔托与蔚来欧洲副总裁张晖在匈牙利首都布达佩斯联合宣布，蔚来在匈牙利佩斯州投资建设的蔚来能源欧洲工厂将于9月投入运营。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果高管解读财报：iPhone受宏观经济影响不明显](https://www.cnbeta.com/articles/tech/1298561.htm) | Fri Jul 29 2022 1:25 PM 
+- 💼 [Amazon Drive线上存储服务将于2023年12月31日关闭](https://www.cnbeta.com/articles/tech/1298581.htm) | Fri Jul 29 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天发布了该公司的2022财年第三财季业绩。报告显示，苹果公司第三财季净营收为829.59亿美元，与去年同期的814.34亿美元相比增长2%；净利润为194.42亿美元，与去年同期的217.44亿美元相比下降11%。其中，苹果公司第三财季大中华区净营收为146.04亿美元，相比之下去年同期为147.62亿美元，同比下降1%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;仍在使用Amazon Drive的客户将迁移到Amazon Photos，并在2023年12月31日前保存其存储的文件，因为Amazon Drive服务即将结束，客户必须采取行动，防止数据丢失。亚马逊将自动将照片和视频转移到Amazon Photos服务，但其他文件类型必须手动下载。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《地心引力》导演拍新片 查理兹·塞隆主演](https://hot.cnbeta.com/articles/movie/1298559.htm) | Fri Jul 29 2022 1:22 PM 
+- 💂 [小型植入物无需药物即可按需缓解疼痛](https://www.cnbeta.com/articles/science/1298579.htm) | Fri Jul 29 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《地心引力》《罗马》导演阿方索·卡隆终于有新片了，他将和查理兹·塞隆合作剧情片《简》：聚焦知名科幻小说家菲利普·K·迪克&lpar;《银翼杀手》《少数派报告》《全面回忆》&rpar;夭折的双胞胎妹妹，故事将探索迪克与简的关系。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国西北大学一个研究小组开发了一种小型、柔软、灵活的植入物，可以按需缓解疼痛，而无需使用药物。&lt;/strong&gt;这种首创的装置可以为阿片类药物和其他高成瘾性药物提供一种急需的替代物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [被育碧解雇的前《刺客信条》创意总监 现已加盟了腾讯天美](https://hot.cnbeta.com/articles/game/1298557.htm) | Fri Jul 29 2022 1:22 PM 
+- 🚀 [说仙人掌没叶子？你看它扎不扎你就完了](https://www.cnbeta.com/articles/science/1298577.htm) | Fri Jul 29 2022 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前被育碧解雇的《刺客信条》创意总监Ashraf Ismail现已加盟了腾讯，开发一个新的游戏。Ashraf Ismail曾是《刺客信条：英灵殿》《刺客信条：起源》的创意总监，由于滥用职权和婚外情指控，被育碧在2020年8月解雇。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;提起仙人掌，大家脑海中第一个想到的会是什么？是那扎人的“尖刺”？还是像手掌一样的“叶子”？还记得小时候第一次看到仙人掌，好奇之下，我伸手去抚摸仙人掌那厚厚的“叶子”，顿时一阵刺痛袭来，缩手一看发现许多尖刺扎在手指上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [索尼拒绝透漏PS5将来是否会涨价](https://hot.cnbeta.com/articles/game/1298555.htm) | Fri Jul 29 2022 1:22 PM 
+- 🎊 [微信发布公众号新规：这四种教你赚钱的文章禁发](https://www.cnbeta.com/articles/tech/1298575.htm) | Fri Jul 29 2022 3:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼拒绝透露目前的经济压力是否会导致该公司提高PS5的价格。今年4月，索尼提高了一系列消费者电子产品在日本的售价，包括一些相机，蓝光播放器，家庭影院系统，耳机和音箱。涨价的原因包括持续的半导体短缺和其他外部因素，这些因素导致原材料、生产和分销的成本上升。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月29日晚，微信官方发布《微信公众平台关于金融类违规营销内容的规范》。《规范》从，为保障金融消费者合法权益，防范和控制金融营销活动的法律风险，特根据《中国人民银行金融消费者权益保护实施办法》、《关于进一步规范金融营销宣传行为的通知》等相关规定，制定以下金融类违规营销内容治理规则。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298575.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
