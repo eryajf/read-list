@@ -165,14 +165,14 @@
     经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。 
     </details> 
 
-- 🚀 [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM 
+- 🚀 [日志导致线程Block的这些坑，你不得不防](https://tech.meituan.com/2022/07/14/tips-for-avoiding-log-blocking-threads.html) | Thu Jul 14 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    在外卖广告CTR场景下，深度学习模型正在从简单DNN小模型过渡到千亿参数复杂模型。基于该背景，本文将重点针对大规模深度模型在全链路带来的挑战，从在线时延、离线效率两个方面展开，阐述外卖广告在大规模深度模型上的工程实践经验，希望能为读者提供思路上的借鉴。 
+    研发人员在项目开发中不可避免地要使用日志，通过它来记录信息和排查问题。Apache Log4j2提供了灵活且强大的日志框架，虽然上手比较快，但稍有不慎也非常容易踩“坑”。本文介绍了美团统一API网关服务Shepherd在实践中所踩过的关于日志导致线程Block的那些“坑”，以及我们如何从日志框架源码层面进行分析和解决问题的过程，并在最后给大家分享一些关于日志避“坑”的实践经验，希望能给大家带来一些帮助。 
     </details> 
 
-- ⚗️ [大众点评搜索相关性技术探索与实践](https://tech.meituan.com/2022/07/06/semantic-relevance-matching.html) | Wed Jul 06 2022 12:00 AM 
+- ⚗️ [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    搜索相关性用于衡量Query和Doc的相关程度，是搜索引擎的重要环节，本文主要讲述大众点评搜索团队在相关性计算上的技术探索和实践，通过多相似矩阵模型结构、多阶段训练等方法提升预训练模型在相关性问题上的效果，同时解决基于交互的模型在线预测的性能问题，希望为从事相关工作的同学能够带来一些启发或者帮助。 
+    在外卖广告CTR场景下，深度学习模型正在从简单DNN小模型过渡到千亿参数复杂模型。基于该背景，本文将重点针对大规模深度模型在全链路带来的挑战，从在线时延、离线效率两个方面展开，阐述外卖广告在大规模深度模型上的工程实践经验，希望能为读者提供思路上的借鉴。 
     </details> 
 <!-- meituan:END -->
 
