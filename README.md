@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [算法 - 数组循环左移m个元素](https://juejin.cn/post/7125762114857205774) | Fri Jul 29 2022 11:57 AM 
+- 🤗 [【LeetCode】每日一题](https://juejin.cn/post/7125787870534565902) | Fri Jul 29 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
-    题目 整数数组，n个元素 数组循环左移m个元素 [1,2,3,4,5,6,7,8,9] -&gt; [4,5,6,7,8,9,1,2,3] 思路 数组整体逆转 [1,2,3,4,5,6,7,8,9] -&gt;  
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情.... 
     </details> 
 
-- 🎡 [直接运行TypeScript，Deno能NodeJS也能](https://juejin.cn/post/7125741764333273096) | Fri Jul 29 2022 10:38 AM 
+- 🎡 [重学Vue3 - 邂逅vue](https://juejin.cn/post/7125786431917654053) | Fri Jul 29 2022 1:30 PM 
     <details><summary>展开描述 ...</summary> 
-    但是Deno有的，我大Node.js也要。 前端老司机就手把手教学，使用Node.js来实现运行时直接执行TypeScript模块 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 Vue &lpar;读音 /vjuː/，类似于 view&rpar; 是一套用于构建用户界面的渐进式 JavaScript框架 
     </details> 
 
-- 🕯 [LeetCode 算法：同构字符串](https://juejin.cn/post/7125739810483863588) | Fri Jul 29 2022 10:30 AM 
+- 🕯 [文字模糊效果](https://juejin.cn/post/7125782597816303623) | Fri Jul 29 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天。本篇介绍一个算法：同构字符串。 
+    在正文第一句加入“我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！” 前言 开开心心学技术大法~~ 来了来了，他真的来了~ 正文 先看下效果 实现思路 js可以操作文字吗？ 貌似只可以 
     </details> 
 
-- 🚀 [Android NDK 开发 | CMake 使用手册 - 初见篇](https://juejin.cn/post/7125738805159542814) | Fri Jul 29 2022 10:26 AM 
+- 🚀 [React报错之Object is possibly null](https://juejin.cn/post/7125782181191876644) | Fri Jul 29 2022 1:14 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 1 天，点击查看活动详情 0. 前言 之前写过一篇 《[-NDK 导引篇 -] 在NDK开发之前你应知道的东西》 介绍了在进入  
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天。 React报错之Object is possibly null 
     </details> 
 
-- 💪 [下一代响应式Web设计：组件驱动式Web设计](https://juejin.cn/post/7125735871722520589) | Fri Jul 29 2022 10:15 AM 
+- 💪 [React hooks（useContext、useReducer、自定义hooks）](https://juejin.cn/post/7125780103472087077) | Fri Jul 29 2022 1:07 PM 
     <details><summary>展开描述 ...</summary> 
-    响应式Web设计的发展历程 既然要聊响应式Web设计，那么我们就花一点篇幅和时间简单地了解一下其发展历程。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 一、hooks（useContext） 新建useContext.js函数组件，写入如下代码： 可以看到在 
     </details> 
 <!-- juejin:END -->
 ### 少数派
