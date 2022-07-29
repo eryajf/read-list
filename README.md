@@ -275,29 +275,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [美预计将扩大与乌克兰的网络安全伙伴关系](https://www.freebuf.com/news/340544.html) | Fri Jul 29 2022 5:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    美国政府的网络安全机构已与其乌克兰网络安全机构签署了一项关于在网络安全方面加强合作的协议。 
+    </details> 
+
 - 🦄 [微软称发现奥地利间谍团伙，利用Windows和Adobe 0day攻击欧洲组织](https://www.freebuf.com/articles/system/340560.html) | Fri Jul 29 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
     微软安全和威胁情报团队称发现一家奥地利公司销售间谍软件DSIRF，该软件是基于未知的Windows漏洞开发。 
     </details> 
 
-- 🦄 [谷歌禁用第三方Cookies计划再次推迟](https://www.freebuf.com/news/340535.html) | Fri Jul 29 2022 3:22 AM 
+- 🦅 [谷歌禁用第三方Cookies计划再次推迟](https://www.freebuf.com/news/340535.html) | Fri Jul 29 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
     谷歌在本周周三表示，它再次将暂缓禁用Chrome网络浏览器中的第三方cookies的计划。 
     </details> 
 
-- 🦅 [越来越多受害者拒绝向黑客支付赎金](https://www.freebuf.com/news/340536.html) | Fri Jul 29 2022 3:21 AM 
+- 🪄 [越来越多受害者拒绝向黑客支付赎金](https://www.freebuf.com/news/340536.html) | Fri Jul 29 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
     受害者向黑客支付赎金的比例和赎金数额正在下降，这一趋势自 2021 年第四季度以来一直在持续。 
     </details> 
 
-- 🪄 [微软 SQL 服务器被黑，带宽遭到破坏](https://www.freebuf.com/news/340531.html) | Fri Jul 29 2022 3:08 AM 
+- 💻 [微软 SQL 服务器被黑，带宽遭到破坏](https://www.freebuf.com/news/340531.html) | Fri Jul 29 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者通过使用捆绑广告的软件甚至是恶意软件入侵微软的SQL服务器，将设备转化为在线代理服务出租的服务器进行牟利。 
-    </details> 
-
-- 💻 [【热点讨论】2022攻防演练情报追踪](https://www.freebuf.com/news/340081.html) | Thu Jul 28 2022 1:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    攻防来袭，FreeBuf联合漏洞盒子情报星球为大家送上新鲜及时的情报分享~ 
     </details> 
 <!-- freebuf:END -->
 
