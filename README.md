@@ -306,11 +306,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [群晖 DS1621/1821 涨价了，现在买会背刺吗？](https://www.v2ex.com/t/869429#reply0) | Fri Jul 29 2022 3:38 AM
-- 🤗 [记一次百度云的体验——体验垃圾的一匹](https://www.v2ex.com/t/869426#reply0) | Fri Jul 29 2022 3:34 AM
-- 🎭 [c++ 在服务器上打包 so 文件问题](https://www.v2ex.com/t/869423#reply9) | Fri Jul 29 2022 3:25 AM
-- 🥷 [Python 迷惑系列](https://www.v2ex.com/t/869414#reply7) | Fri Jul 29 2022 3:06 AM
-- 🐵 [2022 年了，现在 m1 芯片的虚拟机兼容性怎么样， docker 镜像兼容性怎么样](https://www.v2ex.com/t/869408#reply2) | Fri Jul 29 2022 2:49 AM<!-- v2ex:END -->
+- 🥸 [安卓手机发热的时候，怎么知道是哪个程序在占 CPU？](https://www.v2ex.com/t/869446#reply1) | Fri Jul 29 2022 4:36 AM
+- 🤗 [做基于语法自动补全麻烦么？](https://www.v2ex.com/t/869443#reply0) | Fri Jul 29 2022 4:27 AM
+- 🎭 [跟当程序员的三哥聊了一会，治好了我的焦虑……](https://www.v2ex.com/t/869438#reply8) | Fri Jul 29 2022 4:10 AM
+- 🥷 [群晖 DS1621/1821 涨价了，现在买会背刺吗？](https://www.v2ex.com/t/869429#reply0) | Fri Jul 29 2022 3:38 AM
+- 🐵 [记一次百度云的体验——体验垃圾的一匹](https://www.v2ex.com/t/869426#reply1) | Fri Jul 29 2022 3:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
