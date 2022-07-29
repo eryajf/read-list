@@ -382,29 +382,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [电动汽车电池销量强劲 三星SDI第二季度营收创新高](https://www.cnbeta.com/articles/tech/1298419.htm) | Fri Jul 29 2022 6:23 AM 
+- 🕯 [[下载]Winamp推出兼容Windows 11的5.9 Build 9999候选版本](https://www.cnbeta.com/articles/soft/1298447.htm) | Fri Jul 29 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;7月29日，韩国电池制造商三星SDI（Samsung SDI）表示，得益于电动汽车电池的强劲销量，该公司第二季度营收和营业利润均创历史新高。&lt;/strong&gt;具体来看，今年第二季度，三星SDI的营收为4.74万亿韩元，较去年同期大涨42.2%；营业利润为4，290亿韩元（约合3.304亿美元），同比涨幅为45.3%，并且高出韩联社旗下金融数据公司Yonhap Infomax调研的平均预期水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在 5.8 版本于 2018 年 10 月以 Beta 形式发布后，经典媒体播放器 Winamp 终于在近日迎来了 5.9 Build 9999 候选发布（RC1）版本。&lt;/strong&gt;起初 Winamp 5.8 测试版旨在确保与 Windows 10 的兼容性，但 Winamp 5.9 现已能够在 Windows 11 操作系统上运行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1298447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [令人难以置信的DeepMind数据库现在包括了科学界已知的几乎所有蛋白质](https://www.cnbeta.com/articles/tech/1298417.htm) | Fri Jul 29 2022 6:18 AM 
+- 💼 [iOS 16最新Beta 4版出现iPhone 14 Pro息屏显示功能](https://www.cnbeta.com/articles/tech/1298445.htm) | Fri Jul 29 2022 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年，Alphabet的DeepMind发布了一个开源数据库，其中包含数十万种蛋白质的3D结构，包括人体中所有的2万种已知蛋白质。现在，&lt;strong&gt;这个AlphaFold蛋白质结构&lt;a href=&quot;https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe&quot; target=&quot;_self&quot;&gt;数据库&lt;/a&gt;已经扩展到2亿个，包括科学上已知的几乎所有蛋白质。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在苹果刚刚公布财报中，净利润、大中华区收入均出现下滑，不过，库克对接下来的新一季度仍表示信心十足，毕竟iPhone 14要出了。在iOS 16的最新Beta 4版本中，出现了配合息屏显示功能的动态明暗壁纸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [安哥拉开采出300年未见大粉钻 重达34g价值至少千万](https://www.cnbeta.com/articles/tech/1298415.htm) | Fri Jul 29 2022 6:16 AM 
+- 💂 [广汽埃安LX疑似锁电 技术主管回应称是为了防止自燃](https://www.cnbeta.com/articles/tech/1298443.htm) | Fri Jul 29 2022 6:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;澳大利亚卢卡帕钻石公司周三宣布，他们在非洲安哥拉开采出一颗300年未见的巨大粉红钻石。据美国有线电视新闻网28日报道，这颗被命名为“卢洛玫瑰”的粉钻重达170克拉（34克），是在安哥拉北隆达地区一个名为卢洛的钻石矿中被发现的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不少车主看重埃安的销量大、口碑好以及电池续航长等优点，选择订购埃安车辆，不过而今，因为锁电问题，一些车主开始集体维权。近日，车主称经过几轮OTA后，遇到了车辆充电速度减慢，电池充电的电量相比过去明显不足问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [母公司冲刺IPO卡壳，驾考宝典遇多地驾校“抵制”风波](https://www.cnbeta.com/articles/tech/1298413.htm) | Fri Jul 29 2022 6:11 AM 
+- 🚀 [微信新版红包封面全面开放定制](https://www.cnbeta.com/articles/tech/1298441.htm) | Fri Jul 29 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;冲刺“在线驾考培训第一股”的故事，历经一年半，至今还没有实质进展。2020年12月30日，驾考宝典主体公司武汉木仓科技股份有限公司（以下简称“木仓科技”）向创业板提交招股书，但直到2022年3月，木仓科技才等来第一轮问询。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;年初春节时，微信推出了新版的红包封面，加入了新的设计，不再拘泥于方形，而是带来了很多造型独特的边框。这就是年初上线的新版红包封面。因为加入了全新的设计元素“挂件”，让整体更具特色，也被大家争先抢领，供不应求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [烧光100亿、关停核心业务，独角兽还等不到“救命钱”](https://www.cnbeta.com/articles/tech/1298411.htm) | Fri Jul 29 2022 6:10 AM 
+- 🎊 [苹果首款AR/VR设备即将启动量产 号称未来取代iPhone地位](https://www.cnbeta.com/articles/tech/1298439.htm) | Fri Jul 29 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;每日优鲜昨日在热搜挂了一天。&lt;strong&gt;7月28日上午，每日优鲜宣布在全国关闭30分钟极速达业务，只保留了次日达业务云超特卖。放弃其首创的前置仓模式，令外界一度哗然。&lt;/strong&gt;7月28日下午，更大的风暴来临。一份“二十分钟内公司原地解散”的截图和录音文件在各大社交平台上传播，这将本就摇摇欲坠的每日优鲜再次推至风口浪尖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果进军AR/VR等领域在科技界早已是公开的“秘密”，但几年下来，这款神秘的产品一直都是只闻其实不见其人。而现在，新形态的产品可能真的准备好和大家见面了。据Digitimes最新消息，有供应链人士透露，&lt;strong&gt;苹果AR/VR头戴设备有望在2022年底-2023年初启动量产，主要放量将落于2023年。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
