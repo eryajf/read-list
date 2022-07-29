@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [刘亦菲黑白风格写真美照 穿蕾丝上衣成熟妩媚](https://hot.cnbeta.com/articles/movie/1298529.htm) | Fri Jul 29 2022 11:14 AM 
+- 🕯 [Omdia：苹果、三星和荣耀在第二季度进步明显 尽管整体市场不振](https://www.cnbeta.com/articles/tech/1298541.htm) | Fri Jul 29 2022 12:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，刘亦菲在社交平台上晒出自己的时尚大片。在黑白镜头下，刘亦菲眼神净澈，长发舞动，大秀曼妙身姿，尽显妩媚与纯粹。刘亦菲身穿黑色蕾丝上衣，下身搭配黑色短裤，无论是怼脸照还是侧颜都相当能打。她的肌肤白皙如雪，气质优雅动人，美若天仙一般。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://img.3dmgame.com/uploads/images2/news/20220729/1659084668_902893.jpg&quot; alt=&quot;刘亦菲黑白风格写真美照 穿蕾丝上衣成熟妩媚&quot;/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据Omdia的研究，今年第二季度的全球智能手机市场表现不及2021年第二季度，与2022年第一季度相比同样更差。4月至6月，共有2.937亿部智能手机出货，而第一季度为3.077亿部，2021年第二季度为3.033亿部。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [moto X30 Pro入网：首款2亿像素手机 一张照片超13M](https://www.cnbeta.com/articles/tech/1298527.htm) | Fri Jul 29 2022 11:13 AM 
+- 💼 [如果问天实验舱发射失败……两大“杀手锏”第一次公开](https://www.cnbeta.com/articles/science/1298539.htm) | Fri Jul 29 2022 12:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月29日消息，moto X30 Pro入网，型号为XT2241-1，详细参数揭晓。入网信息显示，&lt;strong&gt;moto X30 Pro机身宽度为73.5mm，厚度为8.3mm，重量为195g，&lt;/strong&gt;屏幕尺寸为6.67英寸，材质为OLED，分辨率为2400×1080。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着问天实验舱成功与天和核心舱对接，我们似乎已经习惯了中国航天任务的一次次成功，但成功的背后，是无数科研人员的心血汗水，还有各种最好永远用不上的紧急预案，正是它们的默默存在，才使得即便发生意外也能从容应对。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美团推无人机配送服务 3公里15分钟](https://www.cnbeta.com/articles/tech/1298525.htm) | Fri Jul 29 2022 11:10 AM 
+- 💂 [电影《古墓丽影2》突然黄了：新劳拉3年青春打水漂](https://hot.cnbeta.com/articles/movie/1298537.htm) | Fri Jul 29 2022 12:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，美团在2022全球数字大会展出包括自动配送车、无人机、智慧餐厅、智慧药房等多项科技产品。&lt;/strong&gt;美团副总裁陈荣凯表示，美团深耕零售主赛道，科技创新是核心驱动。并表示，在“零售+科技”战略下，美团希望基于200多个开放性场景的技术创新，快速推动商品及服务零售效率提升，可以更好满足中国消费者的多样性需求，帮助更多实体商家更好融入数字经济。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月29日消息，据新浪电影，米高梅失去了《古墓丽影》翻拍权，归还给了游戏公司和格雷厄姆·金的GK影业，也引起了好莱坞多家公司的激烈争抢。随着版权翻新，米高梅已运作几年的《古墓丽影2》也被取消。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [每日优鲜供应商爆料：半年前已出现回款问题 欠款额超六千万](https://www.cnbeta.com/articles/tech/1298523.htm) | Fri Jul 29 2022 11:10 AM 
+- 🚀 [Strategy Analytics：苹果在第二季度的智能手机市场份额为10年来最佳](https://www.cnbeta.com/articles/tech/1298535.htm) | Fri Jul 29 2022 11:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月29日下午，多名每日优鲜供应商向第一财经记者表示，从去年年底开始，每日优鲜回款出现问题，目前供应商端拖欠的金额超过八位数。就在前一天，有传闻称，每日优鲜在当天下午开完会后宣布原地解散，同时员工没有收到离职赔偿以及工资。 （见报道《员工称每日优鲜缓缴社保停发工资，公司股价较发行时跌去98%》）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Strategy Analytics新的研究称，即使全球智能手机出货量下降，苹果的iPhone第二季度市场份额也是2012年以来最好的。苹果公司在其财年的第三季度报告了破纪录的收益。然而，这份报告没有将该公司与其他公司进行细节上的比较，而这正是研究的重点所在。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [每日优鲜“摆烂”：余额无法提现 供应商欠款超16亿](https://www.cnbeta.com/articles/tech/1298521.htm) | Fri Jul 29 2022 11:08 AM 
+- 🎊 [美社交巨头Instagram负责人承认：抖音的成功学不来](https://www.cnbeta.com/articles/tech/1298533.htm) | Fri Jul 29 2022 11:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“生鲜电商第一股”的故事结束了。7月28日，每日优鲜App首页推送通知，“30分钟极速达服务”将被关闭，最快配送时间更改为“次日达”。下午，一则每日优鲜内部聊天记录在网上流传，消息指出：一场20分钟的线上会议后，每日优鲜宣布整体解散。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间7月29日消息，美国社交软件Instagram今天表示，这一周以来，“抖音化”改动遭受越来越多批评，公司决定撤回对该产品的一些更改，逐步淘汰应用程序的测试版本，并且改进算法，减少应用程序中推荐帖子的数量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
