@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [requestVideoFrameCallback&lpar;&rpar; 简单实例](https://juejin.cn/post/7125432811292459022) | Thu Jul 28 2022 2:38 PM 
+- 🤗 [恭喜 Apache ShenYu 毕业成为 Apache 顶级项目！](https://juejin.cn/post/7125611044520591368) | Fri Jul 29 2022 2:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    恭喜 Aapache ShenYu 毕业成为 Apache 顶级项目！ 2022 年 7 月 26 日，全球最大的开源软件基金会 Apache 软件基金会发布博客，宣布 ShenYu 正式毕业 
+    </details> 
+
+- 🎡 [requestVideoFrameCallback&lpar;&rpar; 简单实例](https://juejin.cn/post/7125432811292459022) | Thu Jul 28 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
     在文章《浏览器视频帧操作方法 requestVideoFrameCallback&lpar;&rpar; 简介》中介绍了基本的使用情况，本文来体验一下其使用过程，后续将增加一些酷炫的实例。 点击开始播放视频、暂停视频以读 
     </details> 
 
-- 🎡 [面试突击68：为什么 TCP 需要 3 次握手？](https://juejin.cn/post/7125431887228567582) | Thu Jul 28 2022 2:35 PM 
+- 🕯 [面试突击68：为什么 TCP 需要 3 次握手？](https://juejin.cn/post/7125431887228567582) | Thu Jul 28 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
     TCP 三次握手是一道经典的面试题，它是指 TCP 在传递数据之前，需要进行 3 次交互才能正式建立起连接... 
     </details> 
 
-- 🕯 [UE4 调试常用的打印信息方法](https://juejin.cn/post/7125428279837720606) | Thu Jul 28 2022 2:21 PM 
+- 🚀 [UE4 调试常用的打印信息方法](https://juejin.cn/post/7125428279837720606) | Thu Jul 28 2022 2:21 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 前言 作为一名程序猿，在日常开发中肯定少不了在代码中加入日志，日志能及时的反馈给我们代码运行时的数据和信息 
     </details> 
 
-- 🚀 [基于对象的实时空间音频渲染丨Dev for Dev 专栏](https://juejin.cn/post/7125424491257135111) | Thu Jul 28 2022 2:10 PM 
+- 💪 [基于对象的实时空间音频渲染丨Dev for Dev 专栏](https://juejin.cn/post/7125424491257135111) | Thu Jul 28 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
     本期文章，我们将主要讨论基于对象&lpar;object-based&rpar;的实时空间音频渲染，也就是如耳机等应用场景中，渲染对象为一个音源时的渲染思路与方案。 
-    </details> 
-
-- 💪 [聊一聊 Vite 的预构建和二次预构建](https://juejin.cn/post/7125424862050402341) | Thu Jul 28 2022 2:07 PM 
-    <details><summary>展开描述 ...</summary> 
-    之前在使用 Vite 的时候，经常会遇到这种情况：项目启动以后，不管是首屏还是页面懒加载，如果发现有未进行预构建的第三方依赖，那么 Vite 就会重新预构建，然后触发页面的 reload。重复的页面l 
     </details> 
 <!-- juejin:END -->
 ### 少数派
