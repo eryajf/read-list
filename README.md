@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [重构Concis组件库 | 基于lerna转为monorepo项目](https://juejin.cn/post/7125689727532924964) | Fri Jul 29 2022 7:15 AM 
+- 🤗 [讨论C语言中的Perror函数](https://juejin.cn/post/7125717834381918216) | Fri Jul 29 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    基于lerna重构Concis项目结构，转换为monorepo的项目架构，记录描述整个重构过程，感谢支持。 
+    本指南将讨论C语言中的perror函数，它如何工作，以及我们如何使用它。 perror函数根据errno中的错误状态，将错误信息打印到stderr流中。 基本用法 perror函数的语法是。 void 
     </details> 
 
-- 🎡 [2022年Java秋招面试必看的 | Memcached 面试题](https://juejin.cn/post/7125689621500919845) | Fri Jul 29 2022 7:15 AM 
+- 🎡 [C语言中的Sprintf](https://juejin.cn/post/7125717715729252388) | Fri Jul 29 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    Memcached作为一款开源、高性能、分布式内存对象缓存系统，在各种需要缓存的场景都适用。因此，各大公司都需要程序员掌握使用Memcached，那么在面试中面试官会怎么考察应聘者对Memcached 
+    在本指南中，我们将讨论如何在C程序中使用sprintf函数。sprintf函数用于将一个格式化的字符串写入一个字符串缓冲区。 让我们来讨论如何使用这个函数，并通过各种例子来说明。 基本用法 sprin 
     </details> 
 
-- 🕯 [2022年Java秋招面试必看的 | Elasticsearch 面试题](https://juejin.cn/post/7125689377699102756) | Fri Jul 29 2022 7:14 AM 
+- 🕯 [3 分钟创建 Serverless Job 定时获取新闻热搜！](https://juejin.cn/post/7125716175996387358) | Fri Jul 29 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    随着企业对近实时搜索的迫切需求，Elasticsearch 受到越来越多的关注，无论是阿里、腾讯、京东等互联网企业，还是平安、顺丰等传统企业都对 Elasticsearch 有广泛的使用， 
+    ![]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3186e62f5d1a45a8834f856af4d823e2~tplv-k3u1fbp 
     </details> 
 
-- 🚀 [基于Vue源码中e2e测试实践](https://juejin.cn/post/7125688945593024542) | Fri Jul 29 2022 7:13 AM 
+- 🚀 [如何运行一个Bash脚本？](https://juejin.cn/post/7125714389075755015) | Fri Jul 29 2022 8:51 AM 
     <details><summary>展开描述 ...</summary> 
-    React组件库Concis借鉴尤雨溪在Vue中e2e测试的方式，将同样的测试实践中Concis的过程记录总结。 
+    Bash是一种非常流行的外壳和命令语言，它可以在Linux、macOS和Windows操作系统中使用。这种语言被广泛用于任务自动化和运行重复性任务，更加轻松和方便。你用这种语言编写的程序被称为Bash 
     </details> 
 
-- 💪 [每个人都可以用的开源微信机器人](https://juejin.cn/post/7125688349557260295) | Fri Jul 29 2022 7:10 AM 
+- 💪 [基于Springboot实现高校社团管理系统](https://juejin.cn/post/7125702610190860301) | Fri Jul 29 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    经历过UOS web协议的重放荣光，又经过一段时间的封禁，又有大神把UOS web协议救回来了。免费的快乐又重新回来了，不是吗? 这意味着每个人都可以用Wechaty搞事情了，什么服务器通知，定时给女 
+    ​ 项目编号：BS-XX-124 一，项目简介    本项目基于Springboot+Mybatis开发实现了一个高校社团管理系统，系统包含三个角色：管理员、团长、会员。管理员主要是做一些基础数据的管 
     </details> 
 <!-- juejin:END -->
 ### 少数派
