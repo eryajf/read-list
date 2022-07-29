@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [讨论C语言中的Perror函数](https://juejin.cn/post/7125717834381918216) | Fri Jul 29 2022 9:04 AM 
+- 🤗 [如何在Python中使用Frozenset对象](https://juejin.cn/post/7125728094404476935) | Fri Jul 29 2022 9:44 AM 
     <details><summary>展开描述 ...</summary> 
-    本指南将讨论C语言中的perror函数，它如何工作，以及我们如何使用它。 perror函数根据errno中的错误状态，将错误信息打印到stderr流中。 基本用法 perror函数的语法是。 void 
+    这篇文章将介绍在Python中使用 &quot;frozenset &quot;函数的指南，该函数返回一个新的frozenset类型的Python对象。这些对象类似于Python中的set对象，但有一些关键的区别。本文的 
     </details> 
 
-- 🎡 [C语言中的Sprintf](https://juejin.cn/post/7125717715729252388) | Fri Jul 29 2022 9:04 AM 
+- 🎡 [如何在Python中使用十进制模块](https://juejin.cn/post/7125724670183079967) | Fri Jul 29 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-    在本指南中，我们将讨论如何在C程序中使用sprintf函数。sprintf函数用于将一个格式化的字符串写入一个字符串缓冲区。 让我们来讨论如何使用这个函数，并通过各种例子来说明。 基本用法 sprin 
+    本文将介绍Python中 &quot;小数 &quot;模块的使用指南。它可以用来对浮点数或含有小数点的数字进行各种数学运算。本文的所有代码样本都是在Ubuntu 21.04上用Python 3.9.5测试的。 关于小数 
     </details> 
 
-- 🕯 [3 分钟创建 Serverless Job 定时获取新闻热搜！](https://juejin.cn/post/7125716175996387358) | Fri Jul 29 2022 8:58 AM 
+- 🕯 [在jshell中设置Visual Studio Code为默认编辑器的方法](https://juejin.cn/post/7125713244206923789) | Fri Jul 29 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
-    ![]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3186e62f5d1a45a8834f856af4d823e2~tplv-k3u1fbp 
+    Java Shell*&lpar;jshell*&rpar;是一个用于学习和制作Java原型的互动工具。它是在Java 9中引入的，从那时起，我偶尔会用它来做一些快速的原型设计，在演讲中，或者仅仅是为了验证Java语言的 
     </details> 
 
-- 🚀 [如何运行一个Bash脚本？](https://juejin.cn/post/7125714389075755015) | Fri Jul 29 2022 8:51 AM 
+- 🚀 [3个iPhone设置让你成为“人类高质量iPhone用户”](https://juejin.cn/post/7125713144873222174) | Fri Jul 29 2022 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-    Bash是一种非常流行的外壳和命令语言，它可以在Linux、macOS和Windows操作系统中使用。这种语言被广泛用于任务自动化和运行重复性任务，更加轻松和方便。你用这种语言编写的程序被称为Bash 
+    iPhone的很多设置虽然很便捷，但平时日常生活中可能会有相反的效果。小编今天和大家分享能够提升舒适感的3个iPhone设置，让你成为“人类高质量iPhone用户”。 
     </details> 
 
-- 💪 [基于Springboot实现高校社团管理系统](https://juejin.cn/post/7125702610190860301) | Fri Jul 29 2022 8:05 AM 
+- 💪 [使用Testcontainers和PostgreSQL的Quarkus测试（详细指南）](https://juejin.cn/post/7125712571323121671) | Fri Jul 29 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-    ​ 项目编号：BS-XX-124 一，项目简介    本项目基于Springboot+Mybatis开发实现了一个高校社团管理系统，系统包含三个角色：管理员、团长、会员。管理员主要是做一些基础数据的管 
+    Testcontainers是一个Java库，允许在JUnit测试中轻松集成Docker容器。在一个容器化的世界里，用嵌入式数据库和服务使测试配置复杂化是没有意义的。相反，在Docker中运行你的服务 
     </details> 
 <!-- juejin:END -->
 ### 少数派
