@@ -306,11 +306,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[记录] 联想电脑管家锁定其他浏览器主页被问题](https://www.v2ex.com/t/869363#reply0) | Thu Jul 28 2022 9:49 PM
-- 🤗 [强烈推荐一款 node.js 实现的音乐下载命令行工具，可以下载杰伦的歌哦～](https://www.v2ex.com/t/869356#reply2) | Thu Jul 28 2022 3:44 PM
-- 🎭 [2022 iOS/ iPad OS 原生 Swift 目前有比较可行的热更新策略么](https://www.v2ex.com/t/869355#reply3) | Thu Jul 28 2022 3:42 PM
-- 🥷 [有什么好看的表白网页](https://www.v2ex.com/t/869345#reply15) | Thu Jul 28 2022 2:49 PM
-- 🐵 [个人数据备份的一些问题](https://www.v2ex.com/t/869332#reply24) | Thu Jul 28 2022 1:52 PM<!-- v2ex:END -->
+- 🥸 [制造业真的有在吸收互联网这边转移过来的嘛？](https://www.v2ex.com/t/869389#reply1) | Fri Jul 29 2022 1:50 AM
+- 🤗 [有没有好的视频或者系列的博客推荐？](https://www.v2ex.com/t/869387#reply2) | Fri Jul 29 2022 1:47 AM
+- 🎭 [稀土掘金是不是崩了呀](https://www.v2ex.com/t/869383#reply7) | Fri Jul 29 2022 1:35 AM
+- 🥷 [学习周刊-总第 64 期-一个 V2EX 风格的开源论坛程序](https://www.v2ex.com/t/869368#reply7) | Fri Jul 29 2022 12:00 AM
+- 🐵 [Fuchsia 是黄了吗？](https://www.v2ex.com/t/869367#reply0) | Thu Jul 28 2022 11:52 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
