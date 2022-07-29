@@ -382,29 +382,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [VMware为Apple Silicon上的Fusion虚拟机带来Windows 11支持](https://www.cnbeta.com/articles/tech/1298495.htm) | Fri Jul 29 2022 9:11 AM 
+- 🕯 [索尼预警PlayStation游戏销售额会恶化](https://hot.cnbeta.com/articles/game/1298501.htm) | Fri Jul 29 2022 9:37 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;索尼削减了年度利润前景，警告 PlayStation 游戏销售额会比较糟糕。在最新财报中，索尼表示 PlayStation 5 主机出货量为 240 万台，比去年同期（230 万台）仅增长了 4%。目前 PlayStation 5 累计出货量为 2170 万台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Chrome将能够更轻松地被设置为Windows系统的默认浏览器](https://www.cnbeta.com/articles/tech/1298499.htm) | Fri Jul 29 2022 9:27 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;尽管当前版本的 Chrome 已在“设置”中提供了变更默认浏览器的选项，但具体实施还是要切换到“Windows 设置”应用程序去操作。不过近日，有眼尖的 Reddit 网友发现：&lt;strong&gt;在最新的 Chromium Gerrit 提交中，有涉及对一款新控件的描述 —— 允许用户轻松点击，并将 Chrome 设置为当前系统的默认浏览器。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [多年考量后NIST公布后量子加密和签名算法的首推名单](https://www.cnbeta.com/articles/tech/1298497.htm) | Fri Jul 29 2022 9:20 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;美国国家标准技术研究所（NIST）近日宣布已持续数年的后量子加密和签名算法竞赛已落下阶段性帷幕，首批获胜者名单已经出炉。&lt;/strong&gt;在后量子加密上，NIST 首推 CRYSTALS-Kyber 算法，但后期可能会根据表现有所调整。在签名算法上，NIST 首推 CRYSTALS-Dilithium，以及两款同样优秀的备选算法：Falcon 和 SPHINCS+。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [VMware为Apple Silicon上的Fusion虚拟机带来Windows 11支持](https://www.cnbeta.com/articles/tech/1298495.htm) | Fri Jul 29 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;VMware已经为Mac用户发布了Fusion 22H2技术预览。这款用于macOS的免费虚拟化软件为Apple Silicon和英特尔带来了用户期待已久的Windows 11支持，使Mac能够与macOS并排运行微软的最新操作系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [每日优鲜APP疑似关停账号登录 退出后就不能再登录](https://www.cnbeta.com/articles/tech/1298493.htm) | Fri Jul 29 2022 8:53 AM 
+- 🎊 [每日优鲜APP疑似关停账号登录 退出后就不能再登录](https://www.cnbeta.com/articles/tech/1298493.htm) | Fri Jul 29 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;每日优鲜“就地解散”的事情持续引发关注，&lt;strong&gt;29日，有不少网友开始反馈，每日优鲜账号登录困难。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [券商拆解特斯拉研报遭质疑 网友：涉嫌抄袭](https://www.cnbeta.com/articles/tech/1298491.htm) | Fri Jul 29 2022 8:49 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前段时间，有券商机构卷了起来，争相拆车写研报，海通国际拆完比亚迪后，中信证券也自己买了一台特斯拉Model 3，并发布了一份94页的研报。&lt;strong&gt;不过而今，中信证券的特斯拉研报，似乎遭到了网友质疑，有网友发帖称其研报内容，存在抄袭借鉴等行为。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [NASA太空机器人在空间站“行云流水”般操作任务](https://www.cnbeta.com/articles/science/1298489.htm) | Fri Jul 29 2022 8:47 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据国外媒体报道，并非国际空间站的每位工作人员都是人类！情况真实是这样的，目前国际空间站并不是每位工作人员都是有机生命体，&lt;strong&gt;在距离地球数百公里的国际空间站太空实验舱中，存在着三个太空机器人——“甜心&lpar;Honey&rpar;”、“女王&lpar;Queen&rpar;”和“结巴&lpar;Bumble&rpar;”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [第二代3nm GAA工艺将于2024年量产 高通或再次被三星吸引](https://www.cnbeta.com/articles/tech/1298487.htm) | Fri Jul 29 2022 8:41 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星最近开始向客户交付首批 3nm GAA 芯片，但智能手机芯片供应商并没有很快被其吸引，而是继续与竞争对手台积电接洽未来订单。&lt;strong&gt;不过据半导体、移动与无线行业分析师 Sravan Kundojjala 在 Twitter 上所述，这一情况有望于 2024 年迎来转变。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
