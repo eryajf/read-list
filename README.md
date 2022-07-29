@@ -287,7 +287,7 @@
 
 - 🦅 [暨南大学信息技术研究所招聘网络安全技术人员计划](https://www.freebuf.com/jobs/340608.html) | Fri Jul 29 2022 5:00 AM 
     <details><summary>展开描述 ...</summary> 
-    暨南大学信息技术研究所招聘网络安全技术人员计划 
+    暨南大学信息技术研究所招聘网络安全服务项目经理、网络技术支持工程师、网络安全工程师&lpar;攻防对抗方向）等 
     </details> 
 
 - 🪄 [微软称发现奥地利间谍团伙，利用Windows和Adobe 0day攻击欧洲组织](https://www.freebuf.com/articles/system/340560.html) | Fri Jul 29 2022 4:04 AM 
