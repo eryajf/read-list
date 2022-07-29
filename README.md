@@ -343,30 +343,30 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [新玩意 114｜少数派的编辑们最近买了啥？](https://sspai.com/post/74845) | Thu Jul 28 2022 9:16 AM 
+- 👹 [派早报：索尼 PlayStation 的新动态、华硕发布 Zenfone 9 小屏旗舰手机等](https://sspai.com/post/74862) | Fri Jul 29 2022 12:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    Beats Futura 联名特别款 Beats Studio Buds，Google 宣布淘汰第三方 cookie 计划推迟到 2024 年等&lt;a href=&quot;https://sspai.com/post/74862&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [新玩意 114｜少数派的编辑们最近买了啥？](https://sspai.com/post/74845) | Thu Jul 28 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/74845&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [如何做一款好玩的「猫咪模拟器」：从《Stray》拆解游戏关卡设计和美术](https://sspai.com/post/74810) | Thu Jul 28 2022 8:30 AM 
+- 🤭 [如何做一款好玩的「猫咪模拟器」：从《Stray》拆解游戏关卡设计和美术](https://sspai.com/post/74810) | Thu Jul 28 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
     近日新出的第三喵称猫咪模拟器《Stray》强烈建议喜欢线性关卡设计和游戏环境美术的朋友去体验，这款游戏的关卡设计属于是非常规矩的教科书，而其最大卖点关卡美术环境则更是亮眼。
 本文章会按照游戏关卡的线性流程，将一些 RPG 游戏关卡设计包括一些零散的美术知识的个人见解和分析融入到体验过程中进行逆推。&lt;a href=&quot;https://sspai.com/post/74810&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [城市收藏夹 | 那些北京的特色书店们](https://sspai.com/post/74837) | Thu Jul 28 2022 6:36 AM 
+- 🥸 [城市收藏夹 | 那些北京的特色书店们](https://sspai.com/post/74837) | Thu Jul 28 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     放下手机，和我一起去阅读、去感受。&lt;a href=&quot;https://sspai.com/post/74837&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [数字文具盒 | 有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820) | Thu Jul 28 2022 3:30 AM 
+- 🙉 [数字文具盒 | 有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820) | Thu Jul 28 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74820&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：华为发布 HarmonyOS 3 及多款新品、realme 推出 Q5 狂欢版等](https://sspai.com/post/74835) | Thu Jul 28 2022 12:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    音视频、信息通信等设备新国标将于明年实施、雷蛇发布噬魂金蝎 V2 系列纤薄旗舰键盘等。&lt;a href=&quot;https://sspai.com/post/74835&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
