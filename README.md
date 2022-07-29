@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [微信删除的图片怎么恢复？喝杯奶茶的时间就能搞定](https://juejin.cn/post/7125719735651532836) | Fri Jul 29 2022 9:12 AM 
+- 🤗 [算法 - 数组循环左移m个元素](https://juejin.cn/post/7125762114857205774) | Fri Jul 29 2022 11:57 AM 
     <details><summary>展开描述 ...</summary> 
-    平时和好友或者家人在微信上聊天，或多或少都会分享一些图片和表情包，当失手误删了聊天框该怎么办？微信删除的图片怎么恢复？本文小编教大家三招，总有一招能解决你的问题。 
+    题目 整数数组，n个元素 数组循环左移m个元素 [1,2,3,4,5,6,7,8,9] -&gt; [4,5,6,7,8,9,1,2,3] 思路 数组整体逆转 [1,2,3,4,5,6,7,8,9] -&gt;  
     </details> 
 
-- 🎡 [TensorFlow 2.9中的新内容是什么？](https://juejin.cn/post/7125719630290616334) | Fri Jul 29 2022 9:11 AM 
+- 🎡 [直接运行TypeScript，Deno能NodeJS也能](https://juejin.cn/post/7125741764333273096) | Fri Jul 29 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-    由Goldie Gadde和Douglas Yarrington为TensorFlow团队发布 TensorFlow 2.9已经发布了!亮点包括oneDNN的性能改进，以及DTensor的发布，这是一 
+    但是Deno有的，我大Node.js也要。 前端老司机就手把手教学，使用Node.js来实现运行时直接执行TypeScript模块 
     </details> 
 
-- 🕯 [技术周报·尤雨溪解读2022 Web前端生态趋势](https://juejin.cn/post/7125719609096798216) | Fri Jul 29 2022 9:11 AM 
+- 🕯 [LeetCode 算法：同构字符串](https://juejin.cn/post/7125739810483863588) | Fri Jul 29 2022 10:30 AM 
     <details><summary>展开描述 ...</summary> 
-    编辑推荐：尤雨溪解读2022 Web前端生态趋势；深入浅出依赖注入及其在抖音直播中的应用；Bun 是否能挑战 Webpack、Vite 的霸主地位，等 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天。本篇介绍一个算法：同构字符串。 
     </details> 
 
-- 🚀 [如何为 Web 应用程序执行安全测试](https://juejin.cn/post/7125719230149820453) | Fri Jul 29 2022 9:10 AM 
+- 🚀 [Android NDK 开发 | CMake 使用手册 - 初见篇](https://juejin.cn/post/7125738805159542814) | Fri Jul 29 2022 10:26 AM 
     <details><summary>展开描述 ...</summary> 
-    根据SDLC的不同阶段，有不同的方法来确保应用程序和网络安全。一些标准方法包括： 设计评审 此阶段通常包括威胁建模实践，安全团队在此阶段审查应用程序的设计和体系结构，在开始编码过程之前检查安全缺陷。  
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 1 天，点击查看活动详情 0. 前言 之前写过一篇 《[-NDK 导引篇 -] 在NDK开发之前你应知道的东西》 介绍了在进入  
     </details> 
 
-- 💪 [Re:Tech FE Weekly Vol.001](https://juejin.cn/post/7125665374913183751) | Fri Jul 29 2022 5:41 AM 
+- 💪 [下一代响应式Web设计：组件驱动式Web设计](https://juejin.cn/post/7125735871722520589) | Fri Jul 29 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-    Re:Tech FE Weekly Vol.001 本期文章 关于代码评审&lpar;CodeReview&rpar;那些不得不说的事儿 本文作者在学习了Google Code Review 指南的基础上；总结了长期做C 
+    响应式Web设计的发展历程 既然要聊响应式Web设计，那么我们就花一点篇幅和时间简单地了解一下其发展历程。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
