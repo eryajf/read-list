@@ -310,7 +310,7 @@
 - 🤗 [有什么组建内网的解决方案？](https://www.v2ex.com/t/869557#reply13) | Fri Jul 29 2022 1:49 PM
 - 🎭 [现役军人因公殉职，以他名字购买的房贷，请问还需要还房贷吗？](https://www.v2ex.com/t/869556#reply6) | Fri Jul 29 2022 1:46 PM
 - 🥷 [这段 golang 代码是什么意思，有相关文档吗？](https://www.v2ex.com/t/869549#reply4) | Fri Jul 29 2022 12:59 PM
-- 🐵 [Vue3 下有什么 umijs 的替代品推荐吗？](https://www.v2ex.com/t/869545#reply6) | Fri Jul 29 2022 12:42 PM<!-- v2ex:END -->
+- 🐵 [Vue3 下有什么 umijs 的替代品推荐吗？](https://www.v2ex.com/t/869545#reply7) | Fri Jul 29 2022 12:42 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
