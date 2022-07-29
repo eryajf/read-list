@@ -382,29 +382,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [辉瑞新冠口服药物销售额反超默沙东，上半年卖出了96亿美元](https://www.cnbeta.com/articles/tech/1298377.htm) | Fri Jul 29 2022 3:47 AM 
+- 🕯 [《模拟人生4》更新后出现乱伦和快速老化Bug](https://hot.cnbeta.com/articles/game/1298387.htm) | Fri Jul 29 2022 4:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;辉瑞方面表示，自2021年一季度以来，Paxlovid在美国区域的处方增长了近5倍，且在美国市场持续占据着超过90%的市场份额。&lt;/strong&gt;7月28日，辉瑞与默沙东皆公布了2022年第二季度财报，其中，前者的新冠口服药业绩已反超后者了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《模拟人生4》新DLC“高中时代”于今日&lpar;7月29日&rpar;推出，Steam国区售价198元。在DLC推出之前，EA更新了《模拟人生4》。玩家更新该作后发现，游戏中出现一些让人无语的Bug，一些模拟市民的年龄增长太快，迅速老化并死亡。还有一些模拟市民想要和家庭成员&lpar;比如兄弟姐妹&rpar;约会，真是邪恶的Bug。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [两滴水，一张纸，如何发电一小时？](https://www.cnbeta.com/articles/science/1298375.htm) | Fri Jul 29 2022 3:47 AM 
+- 💼 [比尔·盖茨：国会要迅速就清洁能源采取行动 没时间浪费了](https://www.cnbeta.com/articles/tech/1298385.htm) | Fri Jul 29 2022 4:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在过去几十年中，由于技术更迭加快、产品寿命变短，人类过多地使用电子产品，电子垃圾已经成为全球增长速度最快的废物流。&lt;strong&gt;来自联合国大学（United Nations University）的数据显示，2019 年全球约有 5360 万吨的电子产品被丢弃，预计到 2030 年，这一数字将高达 7470 万吨，如果这一趋势无法逆转，到 2050 年，甚至会达到 1.1 亿吨之多。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;北京时间7月29日消息，前微软公司董事长比尔·盖茨今日发文称，他对于美国未来实现清洁能源的持乐观态度，但已经没有时间可以浪费了，现在需要国会迅速采取行动。&lt;/strong&gt;此外，盖茨还就气候问题发表看法，他表示自己很高兴看到参议员舒默和曼钦的合作，这可能是气候向前迈出的历史性一步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [雷克沙发布新一代PCIe 4.0固态盘NM800PRO：狂飙7.5GB/s](https://www.cnbeta.com/articles/tech/1298373.htm) | Fri Jul 29 2022 3:46 AM 
+- 💂 [单原子“游泳”图像首次捕捉](https://www.cnbeta.com/articles/science/1298383.htm) | Fri Jul 29 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一如此前的预热，雷克沙正式发布高端新品NM800PRO PCIe 4.0固态硬盘，系比NM800更强悍的升级款。&lt;/strong&gt;外形方面，NM800PRO包装盒和散热贴采用黑金配色，M.2接口，2280形态，颇有硬核发烧的既视感。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英国科学家在最新一期《自然》杂志刊发论文称，他们借助石墨烯堆叠技术，制造出一种新型“纳米皮氏培养皿”，以进一步了解液体如何改变固体的行为，在此基础上首次拍摄到单原子在液体中“游泳”的图像，最新发现有望促进制氢等绿色技术的发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [“胶卷大王”柯达转型 价值上亿胶卷机器开产电动汽车电池](https://www.cnbeta.com/articles/tech/1298371.htm) | Fri Jul 29 2022 3:44 AM 
+- 🚀 [美参议员就泛滥的欺诈性加密应用程序向苹果谷歌发起质询](https://www.cnbeta.com/articles/tech/1298381.htm) | Fri Jul 29 2022 4:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;电动车和胶卷似乎扯不上任何关系，但曾经的“胶卷大王”柯达近日宣布，&lt;strong&gt;将会将把原本用于生产摄影胶片的精密机器重新投入到电动汽车电池制造。&lt;/strong&gt;据了解，目前柯达已经对电池初创公司Wildcat Discovery Technologies（WDT）进行投资，柯达旗下的工程师发现，&lt;strong&gt;WDT所制造的“超级电池”与柯达生产35毫米胶片所采用的涂层工艺有相当高的相似度。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为美国参议院银行、住房与城市事务委员会主席，&lt;strong&gt;参议员 Sherrod Brown 已于 7 月 27 日分别向苹果与谷歌 CEO 致信，要求两家科技巨头详细说明“贵公司为防止应用商店中的欺诈活动而采取的措施”。&lt;/strong&gt;更确切地说，Sherrod Brown 对“欺骗了成百上千名投资者的虚假加密应用程序报道”感到无比担忧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [荣耀官宣参加IFA 2022：全场景互联新品在路上了](https://www.cnbeta.com/articles/tech/1298369.htm) | Fri Jul 29 2022 3:44 AM 
+- 🎊 [超声波贴纸，贴上能看到体内器官](https://www.cnbeta.com/articles/science/1298379.htm) | Fri Jul 29 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，荣耀官方在社交媒体宣布，&lt;strong&gt;将会于柏林时间9月2日17：00（北京时间23：00），在IFA（柏林国际电子消费品展览会）发表主题演讲。&lt;/strong&gt;同时，荣耀表示会在展览会中推出一整套令人兴奋的产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据28日发表在《科学》杂志上的一篇论文，美国麻省理工学院的工程师展示了一种新的超声波贴纸设计，这种可贴在皮肤上的邮票大小的设备，可提供48小时内脏器官的连续超声波成像。麻省理工学院研究人员将这些贴纸贴在志愿者身上，并展示了这些设备生成的主要血管和更深层器官（如心脏、肺和胃）的实时高分辨率图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
