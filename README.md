@@ -95,11 +95,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html) | Wed Jul 27 2022 12:54 AM
-- 💪 [科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html) | Fri Jul 22 2022 12:19 AM
-- 🐎 [科技爱好者周刊（第 214 期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html) | Thu Jul 14 2022 11:45 PM
-- 🤔 [科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html) | Fri Jul 08 2022 12:06 AM
-- 🧠 [科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html) | Fri Jul 01 2022 12:20 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 216 期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html) | Fri Jul 29 2022 12:13 AM
+- 💪 [能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html) | Wed Jul 27 2022 12:54 AM
+- 🐎 [科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html) | Fri Jul 22 2022 12:19 AM
+- 🤔 [科技爱好者周刊（第 214 期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html) | Thu Jul 14 2022 11:45 PM
+- 🧠 [科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html) | Fri Jul 08 2022 12:06 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
