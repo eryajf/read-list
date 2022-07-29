@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [精通Java事务编程&lpar;3&rpar;-弱隔离级别之快照隔离和可重复读](https://juejin.cn/post/7125794799461859335) | Fri Jul 29 2022 2:03 PM 
+- 🤗 [Vue3 源码解读之模板AST 解析器&lpar;一&rpar;](https://juejin.cn/post/7125806038900539428) | Fri Jul 29 2022 2:47 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 表面看，RC已满足事务所需的一切特征：支持中止（原子性），防止读取不完整的事务结果，并防止并发写的混乱。这 
+    模板AST 解析器 parser 本质上就是一个状态机。它在编译器的编译过程中负责将 模板字符串 解析为 模板AST。 
     </details> 
 
-- 🎡 [基于inquirer封装一个node控制台文件选择器](https://juejin.cn/post/7125791860949418014) | Fri Jul 29 2022 1:52 PM 
+- 🎡 [JavaScript基础-原型（prototype）、原型链（__proto__）](https://juejin.cn/post/7125806007766220836) | Fri Jul 29 2022 2:46 PM 
     <details><summary>展开描述 ...</summary> 
-    我们在用脚手架初始化项目的时候，往往会进行一些命令交互，简单的交互其实用inquire这个包都能实现，但是最近自己在做一个小工具的时候，想要进行文件和文件夹的选择，这时我发现inquire里并没有这个 
+    这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 函数 普通函数、类（所有的类:内置类、自己创建的类） 对象 普通对象、数组、正则、Math、arguments... 实例是对 
     </details> 
 
-- 🕯 [Python Scrapy简介](https://juejin.cn/post/7125790351658319903) | Fri Jul 29 2022 1:47 PM 
+- 🕯 [学习right&lpar;&rpar;、left&lpar;&rpar;和forward&lpar;&rpar;函数](https://juejin.cn/post/7125802283119411236) | Fri Jul 29 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-    Python Scrapy库是一个非常流行的网络刮削软件包。网络刮削是使用该软件以编程方式从在线网页中提取关键数据的过程。使用这种技术，可以从单个页面中刮取数据，也可以在多个页面中爬行，边爬边刮取每个 
+    我们看到了如何通过使用forward&lpar;&rpar;函数来使乌龟移动。如果你不另行指定，乌龟就会以指向右边的方式开始它的旅程，而且乌龟只能朝它所面对的方向移动。如果你想让forward&lpar;&rpar;函数将乌龟向不同的方向移 
     </details> 
 
-- 🚀 [Python海龟命令小贴士](https://juejin.cn/post/7125790762490396708) | Fri Jul 29 2022 1:47 PM 
+- 🚀 [如何使用Python Turtle的循环绘制图形](https://juejin.cn/post/7125802307106799624) | Fri Jul 29 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-    下面的Python Turtle常用命令的小抄将使你迅速掌握Python Turtle。Turtle是一个有趣的程序，它的历史可以追溯到20世纪60年代，当时Seymour Papert和他在麻省理工 
+    在Python中用Turtle绘制图形可以通过组合使用forward&lpar;&rpar;和right&lpar;&rpar;函数一起工作来完成。turtle方向教程中有一个例子，说明我们如何在Turtle中使用这些命令来画一个正方形。这 
     </details> 
 
-- 💪 [如何创建一个Python Scrapy项目](https://juejin.cn/post/7125790789757730829) | Fri Jul 29 2022 1:47 PM 
+- 💪 [学习Python中的draw_square&lpar;&rpar;函数](https://juejin.cn/post/7125802125359054856) | Fri Jul 29 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-    要在Scrapy中创建一个项目，你首先要确保你对这个框架有一个很好的介绍。这将确保Scrapy已经安装并准备就绪。一旦你准备好了，我们将看看如何创建一个新的Python Scrapy项目，以及一旦创建 
+    Python 中的函数是一种方便的方式，可以将几行代码打包成一个可以调用的简单关键字。当关键词被调用时，函数中包含的所有代码都会运行。在涵盖循环和 Turtle 的教程中，我们用一个循环来画一个正方形 
     </details> 
 <!-- juejin:END -->
 ### 少数派
