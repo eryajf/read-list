@@ -306,11 +306,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [在外面怎么访问家里的服务器？](https://www.v2ex.com/t/869500#reply14) | Fri Jul 29 2022 8:34 AM
-- 🤗 [现在 Android 手机有什么人气比较旺的论坛？](https://www.v2ex.com/t/869499#reply4) | Fri Jul 29 2022 8:33 AM
-- 🎭 [单纯玩 PT， arm 的 nas 是否最合适](https://www.v2ex.com/t/869498#reply3) | Fri Jul 29 2022 8:28 AM
-- 🥷 [vscode-go 插件真正的语法高亮](https://www.v2ex.com/t/869497#reply4) | Fri Jul 29 2022 8:26 AM
-- 🐵 [git 练习， rebase 疑惑](https://www.v2ex.com/t/869494#reply1) | Fri Jul 29 2022 8:11 AM<!-- v2ex:END -->
+- 🥸 [Python 新手 爬取亚马逊的问题](https://www.v2ex.com/t/869516#reply1) | Fri Jul 29 2022 10:02 AM
+- 🤗 [预算 500，求推荐靠谱的茶吧机/饮水机](https://www.v2ex.com/t/869514#reply1) | Fri Jul 29 2022 9:52 AM
+- 🎭 [小程序埋点上报的数据，往 mysql 存是可以的吗](https://www.v2ex.com/t/869507#reply18) | Fri Jul 29 2022 9:06 AM
+- 🥷 [在外面怎么访问家里的服务器？](https://www.v2ex.com/t/869500#reply22) | Fri Jul 29 2022 8:34 AM
+- 🐵 [现在 Android 手机有什么人气比较旺的论坛？](https://www.v2ex.com/t/869499#reply6) | Fri Jul 29 2022 8:33 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
