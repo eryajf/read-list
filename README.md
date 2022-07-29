@@ -382,29 +382,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[下载]Winamp推出兼容Windows 11的5.9 Build 9999候选版本](https://www.cnbeta.com/articles/soft/1298447.htm) | Fri Jul 29 2022 7:05 AM 
+- 🕯 [街边店自制茅台冰淇淋80元一个，大家为什么都盯上冰淇淋赛道？](https://www.cnbeta.com/articles/tech/1298477.htm) | Fri Jul 29 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在 5.8 版本于 2018 年 10 月以 Beta 形式发布后，经典媒体播放器 Winamp 终于在近日迎来了 5.9 Build 9999 候选发布（RC1）版本。&lt;/strong&gt;起初 Winamp 5.8 测试版旨在确保与 Windows 10 的兼容性，但 Winamp 5.9 现已能够在 Windows 11 操作系统上运行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1298447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在茅台冰淇淋火爆全网后，一些商家都坐不住了，开启了自制茅台冰淇淋模式来抢占市场。&lt;/strong&gt;第一财经记者近期亲测了几家自己添加茅台酒的冰淇淋店，发现自制茅台冰淇淋的价格比原版茅台冰淇淋还要贵，单价可达80元，且店内也有不少客人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iOS 16最新Beta 4版出现iPhone 14 Pro息屏显示功能](https://www.cnbeta.com/articles/tech/1298445.htm) | Fri Jul 29 2022 7:02 AM 
+- 💼 [中华医学会呼吸病学分会主任委员瞿介明：免疫脆弱群体如何预防新冠](https://www.cnbeta.com/articles/science/1298475.htm) | Fri Jul 29 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在苹果刚刚公布财报中，净利润、大中华区收入均出现下滑，不过，库克对接下来的新一季度仍表示信心十足，毕竟iPhone 14要出了。在iOS 16的最新Beta 4版本中，出现了配合息屏显示功能的动态明暗壁纸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;“在新冠疫情防控过程当中，不管是全球范围还是国内，都在努力地寻找有效的预防措施。其中，大家投入最多的手段，以及策略上研究比较多的，是疫苗。”&lt;/strong&gt;日前，中华医学会呼吸病学分会主任委员、上海交通大学医学院附属瑞金医院党委书记瞿介明在接受澎湃新闻记者采访时如是表示。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [广汽埃安LX疑似锁电 技术主管回应称是为了防止自燃](https://www.cnbeta.com/articles/tech/1298443.htm) | Fri Jul 29 2022 6:56 AM 
+- 💂 [NASA的CAPSTONE卫星在前往月球的轨道上执行第三次机动任务](https://www.cnbeta.com/articles/science/1298473.htm) | Fri Jul 29 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不少车主看重埃安的销量大、口碑好以及电池续航长等优点，选择订购埃安车辆，不过而今，因为锁电问题，一些车主开始集体维权。近日，车主称经过几轮OTA后，遇到了车辆充电速度减慢，电池充电的电量相比过去明显不足问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国宇航局（NASA）的“地月自主定位系统技术操作和导航实验”（CAPSTONE）于7月25日成功地完成了其第三次轨道修正操作（TCM）。&lt;/strong&gt;CAPSTONE正在采取一条漫长但节省燃料的路线前往月球，飞行约95.8万英里（154万公里），然后绕回其近直角光环轨道（NRHO）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微信新版红包封面全面开放定制](https://www.cnbeta.com/articles/tech/1298441.htm) | Fri Jul 29 2022 6:46 AM 
+- 🚀 [被多家PC厂商断供后 俄罗斯的电脑键盘不够用了](https://www.cnbeta.com/articles/tech/1298471.htm) | Fri Jul 29 2022 7:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;年初春节时，微信推出了新版的红包封面，加入了新的设计，不再拘泥于方形，而是带来了很多造型独特的边框。这就是年初上线的新版红包封面。因为加入了全新的设计元素“挂件”，让整体更具特色，也被大家争先抢领，供不应求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在一些企业停止在俄经营业务后，部分尚不具有替代性的产品出现了供应短缺。据媒体报道，苹果、戴尔、惠普、罗技等均暂停了在俄业务，以键盘为代表的PC外设遭遇缺货困扰。原来，&lt;strong&gt;俄罗斯使用一种俄文布局键盘，虽然标准英文键盘仍然可以通过进口的方式“曲线”获得，可问题在于还需要涂刻俄文字符。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果首款AR/VR设备即将启动量产 号称未来取代iPhone地位](https://www.cnbeta.com/articles/tech/1298439.htm) | Fri Jul 29 2022 6:43 AM 
+- 🎊 [亚马逊2022Q2财报：收缩仓储物流战线 减缓办公室人员招募](https://www.cnbeta.com/articles/tech/1298469.htm) | Fri Jul 29 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果进军AR/VR等领域在科技界早已是公开的“秘密”，但几年下来，这款神秘的产品一直都是只闻其实不见其人。而现在，新形态的产品可能真的准备好和大家见面了。据Digitimes最新消息，有供应链人士透露，&lt;strong&gt;苹果AR/VR头戴设备有望在2022年底-2023年初启动量产，主要放量将落于2023年。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;GeekWire 报道称，从 2022 年 1 到 2 季度，亚马逊直属雇员已减少 99000、至 152 万人。&lt;/strong&gt;这是该公司历史上最大的一次环比下降，主要原因是在 COVID-19 大流行的推动下，该公司不得不临时招募更多人手来满足订单需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
