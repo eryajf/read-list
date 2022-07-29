@@ -343,30 +343,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [身体、心境到生活，练习瑜伽一年为我带来了哪些改变](https://sspai.com/post/74887) | Fri Jul 29 2022 7:34 AM 
+- 👹 [派周报 | 本周会员内容提要；跑题：裁员语文](https://sspai.com/prime/story/pi-weekly-002) | Fri Jul 29 2022 10:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    美国科技公司在面临裁员时，又是怎样措辞和解释的呢？&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-002&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/74896) | Fri Jul 29 2022 10:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[英剧]尝试第三季、[日剧]石子与羽男-这种事情也好告吗？、[动画]水星领航员祝福、[动画]顶点!!!!!!!!!!!!!!!、[韩剧]Adamas、[动画]闪耀路标几则精 ...&lt;a href=&quot;https://sspai.com/post/74896&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🤭 [身体、心境到生活，练习瑜伽一年为我带来了哪些改变](https://sspai.com/post/74887) | Fri Jul 29 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
     从双脚迈进垫子，再带着瑜伽精神迈出垫子走进生活，再从生活里回到垫子上，我体会到了阿斯汤伽的独特魅力：垫内垫外，皆是瑜伽。&lt;a href=&quot;https://sspai.com/post/74887&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [iOS 16 Beta 4 中值得关注的新特性](https://sspai.com/post/74861) | Fri Jul 29 2022 3:35 AM 
+- 🥸 [iOS 16 Beta 4 中值得关注的新特性](https://sspai.com/post/74861) | Fri Jul 29 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
     实时活动 Live Activities 推出 Beta 版、iPhone 支持控制其它设备，锁定屏幕继续优化…… iOS 16 Beta 4 有这些新功能值得你关注。&lt;a href=&quot;https://sspai.com/post/74861&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：索尼 PlayStation 的新动态、华硕发布 Zenfone 9 小屏旗舰手机等](https://sspai.com/post/74862) | Fri Jul 29 2022 12:59 AM 
+- 🙉 [派早报：索尼 PlayStation 的新动态、华硕发布 Zenfone 9 小屏旗舰手机等](https://sspai.com/post/74862) | Fri Jul 29 2022 12:59 AM 
     <details><summary>展开描述 ...</summary> 
     Beats Futura 联名特别款 Beats Studio Buds，Google 宣布淘汰第三方 cookie 计划推迟到 2024 年等&lt;a href=&quot;https://sspai.com/post/74862&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [新玩意 114｜少数派的编辑们最近买了啥？](https://sspai.com/post/74845) | Thu Jul 28 2022 9:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/74845&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [如何做一款好玩的「猫咪模拟器」：从《Stray》拆解游戏关卡设计和美术](https://sspai.com/post/74810) | Thu Jul 28 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    近日新出的第三喵称猫咪模拟器《Stray》强烈建议喜欢线性关卡设计和游戏环境美术的朋友去体验，这款游戏的关卡设计属于是非常规矩的教科书，而其最大卖点关卡美术环境则更是亮眼。
-本文章会按照游戏关卡的线性流程，将一些 RPG 游戏关卡设计包括一些零散的美术知识的个人见解和分析融入到体验过程中进行逆推。&lt;a href=&quot;https://sspai.com/post/74810&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
