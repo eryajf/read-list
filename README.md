@@ -382,29 +382,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [甲壳类动物被发现像蜜蜂给植物授粉一样促进海藻繁殖](https://www.cnbeta.com/articles/science/1298269.htm) | Fri Jul 29 2022 1:47 AM 
+- 🕯 [辉瑞新冠口服药物销售额反超默沙东，上半年卖出了96亿美元](https://www.cnbeta.com/articles/tech/1298377.htm) | Fri Jul 29 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;众所周知，蜜蜂等昆虫通过将花粉从一种植物传播到另一种植物，帮助植物进行繁殖&lt;strong&gt;。然而现在，在海底世界也发现了类似的安排--涉及红藻和微小的甲壳类动物。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;辉瑞方面表示，自2021年一季度以来，Paxlovid在美国区域的处方增长了近5倍，且在美国市场持续占据着超过90%的市场份额。&lt;/strong&gt;7月28日，辉瑞与默沙东皆公布了2022年第二季度财报，其中，前者的新冠口服药业绩已反超后者了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NASA在木星北极附近拍摄到水彩风暴](https://www.cnbeta.com/articles/science/1298267.htm) | Fri Jul 29 2022 1:44 AM 
+- 💼 [两滴水，一张纸，如何发电一小时？](https://www.cnbeta.com/articles/science/1298375.htm) | Fri Jul 29 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;太阳系的柑橘色气体巨头--木星对混乱并不陌生。本月早些时候，NASA的朱诺号任务拍摄了一张令人着迷的照片来证明这一点。在该探测器第43次近距离飞越这颗巨大的行星时，它的JunoCam仪器在北极附近捕捉到了水彩漩涡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在过去几十年中，由于技术更迭加快、产品寿命变短，人类过多地使用电子产品，电子垃圾已经成为全球增长速度最快的废物流。&lt;strong&gt;来自联合国大学（United Nations University）的数据显示，2019 年全球约有 5360 万吨的电子产品被丢弃，预计到 2030 年，这一数字将高达 7470 万吨，如果这一趋势无法逆转，到 2050 年，甚至会达到 1.1 亿吨之多。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [短视频应用TikTok已试点引入HTML5游戏](https://hot.cnbeta.com/articles/game/1298265.htm) | Fri Jul 29 2022 1:43 AM 
+- 💂 [雷克沙发布新一代PCIe 4.0固态盘NM800PRO：狂飙7.5GB/s](https://www.cnbeta.com/articles/tech/1298373.htm) | Fri Jul 29 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球儿童和青少年在 TikTok 上的观看时间已经超过了 YouTube，而字节跳动公司希望进一步扩大战果。援引科技媒体 TechCrunch 报道，&lt;strong&gt;TikTok 和包括 Vodoo、Nitro Games、FRVR、Aim Lab 和 Lotem 在内的多家开发商合作，在数周前悄然上线了全新的游戏试点项目。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一如此前的预热，雷克沙正式发布高端新品NM800PRO PCIe 4.0固态硬盘，系比NM800更强悍的升级款。&lt;/strong&gt;外形方面，NM800PRO包装盒和散热贴采用黑金配色，M.2接口，2280形态，颇有硬核发烧的既视感。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [慧荣推出SM8366 PCIe 5.0 NVMe主控与MonTitan SSD方案](https://www.cnbeta.com/articles/tech/1298263.htm) | Fri Jul 29 2022 1:37 AM 
+- 🚀 [“胶卷大王”柯达转型 价值上亿胶卷机器开产电动汽车电池](https://www.cnbeta.com/articles/tech/1298371.htm) | Fri Jul 29 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;赶在闪存峰会召开之前，慧荣已于本周四抢先放出了旗下首款企业级 PCIe 5.0 NVMe SSD 主控。&lt;/strong&gt;作为 2020 年 11 月发布的 SM8266（16 通道 PCIe 4.0）的后续产品，SM8366 / SM8308 属于该公司的第三代企业级 NVMe 主控系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;电动车和胶卷似乎扯不上任何关系，但曾经的“胶卷大王”柯达近日宣布，&lt;strong&gt;将会将把原本用于生产摄影胶片的精密机器重新投入到电动汽车电池制造。&lt;/strong&gt;据了解，目前柯达已经对电池初创公司Wildcat Discovery Technologies（WDT）进行投资，柯达旗下的工程师发现，&lt;strong&gt;WDT所制造的“超级电池”与柯达生产35毫米胶片所采用的涂层工艺有相当高的相似度。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究展示墨西哥湾是如何在史前大灭绝中幸存下来](https://www.cnbeta.com/articles/science/1298261.htm) | Fri Jul 29 2022 1:27 AM 
+- 🎊 [荣耀官宣参加IFA 2022：全场景互联新品在路上了](https://www.cnbeta.com/articles/tech/1298369.htm) | Fri Jul 29 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据德克萨斯大学地球物理研究所&lpar;UTIG&rpar;的研究，5600万年前的一场古老的全球变暖使海洋酸化并消灭了海洋生物，但对墨西哥湾的影响较小，那里的生命受到盆地独特地质的保护。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，荣耀官方在社交媒体宣布，&lt;strong&gt;将会于柏林时间9月2日17：00（北京时间23：00），在IFA（柏林国际电子消费品展览会）发表主题演讲。&lt;/strong&gt;同时，荣耀表示会在展览会中推出一整套令人兴奋的产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
