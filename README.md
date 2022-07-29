@@ -306,11 +306,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [git 练习， rebase 疑惑](https://www.v2ex.com/t/869494#reply0) | Fri Jul 29 2022 8:11 AM
-- 🤗 [服务器 context-path 为 /context-path 情况下，有办法删除 path 为/ 的 cookie 吗](https://www.v2ex.com/t/869493#reply1) | Fri Jul 29 2022 8:10 AM
-- 🎭 [如何记录端口连接过的 IP](https://www.v2ex.com/t/869454#reply1) | Fri Jul 29 2022 5:14 AM
-- 🥷 [c++ streambuf 里的 imbue 名字是什么的缩写？](https://www.v2ex.com/t/869450#reply1) | Fri Jul 29 2022 4:54 AM
-- 🐵 [安卓手机发热的时候，怎么知道是哪个程序在占 CPU？](https://www.v2ex.com/t/869446#reply7) | Fri Jul 29 2022 4:36 AM<!-- v2ex:END -->
+- 🥸 [在外面怎么访问家里的服务器？](https://www.v2ex.com/t/869500#reply14) | Fri Jul 29 2022 8:34 AM
+- 🤗 [现在 Android 手机有什么人气比较旺的论坛？](https://www.v2ex.com/t/869499#reply4) | Fri Jul 29 2022 8:33 AM
+- 🎭 [单纯玩 PT， arm 的 nas 是否最合适](https://www.v2ex.com/t/869498#reply3) | Fri Jul 29 2022 8:28 AM
+- 🥷 [vscode-go 插件真正的语法高亮](https://www.v2ex.com/t/869497#reply4) | Fri Jul 29 2022 8:26 AM
+- 🐵 [git 练习， rebase 疑惑](https://www.v2ex.com/t/869494#reply1) | Fri Jul 29 2022 8:11 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
