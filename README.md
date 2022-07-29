@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【LeetCode】每日一题](https://juejin.cn/post/7125787870534565902) | Fri Jul 29 2022 1:36 PM 
+- 🤗 [精通Java事务编程&lpar;3&rpar;-弱隔离级别之快照隔离和可重复读](https://juejin.cn/post/7125794799461859335) | Fri Jul 29 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情.... 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 表面看，RC已满足事务所需的一切特征：支持中止（原子性），防止读取不完整的事务结果，并防止并发写的混乱。这 
     </details> 
 
-- 🎡 [重学Vue3 - 邂逅vue](https://juejin.cn/post/7125786431917654053) | Fri Jul 29 2022 1:30 PM 
+- 🎡 [基于inquirer封装一个node控制台文件选择器](https://juejin.cn/post/7125791860949418014) | Fri Jul 29 2022 1:52 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 Vue &lpar;读音 /vjuː/，类似于 view&rpar; 是一套用于构建用户界面的渐进式 JavaScript框架 
+    我们在用脚手架初始化项目的时候，往往会进行一些命令交互，简单的交互其实用inquire这个包都能实现，但是最近自己在做一个小工具的时候，想要进行文件和文件夹的选择，这时我发现inquire里并没有这个 
     </details> 
 
-- 🕯 [文字模糊效果](https://juejin.cn/post/7125782597816303623) | Fri Jul 29 2022 1:18 PM 
+- 🕯 [Python Scrapy简介](https://juejin.cn/post/7125790351658319903) | Fri Jul 29 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-    在正文第一句加入“我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！” 前言 开开心心学技术大法~~ 来了来了，他真的来了~ 正文 先看下效果 实现思路 js可以操作文字吗？ 貌似只可以 
+    Python Scrapy库是一个非常流行的网络刮削软件包。网络刮削是使用该软件以编程方式从在线网页中提取关键数据的过程。使用这种技术，可以从单个页面中刮取数据，也可以在多个页面中爬行，边爬边刮取每个 
     </details> 
 
-- 🚀 [React报错之Object is possibly null](https://juejin.cn/post/7125782181191876644) | Fri Jul 29 2022 1:14 PM 
+- 🚀 [Python海龟命令小贴士](https://juejin.cn/post/7125790762490396708) | Fri Jul 29 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天。 React报错之Object is possibly null 
+    下面的Python Turtle常用命令的小抄将使你迅速掌握Python Turtle。Turtle是一个有趣的程序，它的历史可以追溯到20世纪60年代，当时Seymour Papert和他在麻省理工 
     </details> 
 
-- 💪 [React hooks（useContext、useReducer、自定义hooks）](https://juejin.cn/post/7125780103472087077) | Fri Jul 29 2022 1:07 PM 
+- 💪 [如何创建一个Python Scrapy项目](https://juejin.cn/post/7125790789757730829) | Fri Jul 29 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 一、hooks（useContext） 新建useContext.js函数组件，写入如下代码： 可以看到在 
+    要在Scrapy中创建一个项目，你首先要确保你对这个框架有一个很好的介绍。这将确保Scrapy已经安装并准备就绪。一旦你准备好了，我们将看看如何创建一个新的Python Scrapy项目，以及一旦创建 
     </details> 
 <!-- juejin:END -->
 ### 少数派
