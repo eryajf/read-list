@@ -527,30 +527,30 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Slidepad 1.3.3 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Fri Jul 29 2022 7:01 AM
-    <details><summary>展开描述 ...</summary>
-    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。
-    </details>
+- 🦏 [Slidepad 1.3.3 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Fri Jul 29 2022 7:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。 
+    </details> 
 
--  [SnapMotion 5.0.6 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Fri Jul 29 2022 6:58 AM
-    <details><summary>展开描述 ...</summary>
-    SnapMotion可以快速将截取视频中的图片，并且支持批量处理，支持导出为GIF等格式，简单易用。
-    </details>
+-  [SnapMotion 5.0.6 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Fri Jul 29 2022 6:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    SnapMotion可以快速将截取视频中的图片，并且支持批量处理，支持导出为GIF等格式，简单易用。 
+    </details> 
 
-- ⚗️ [iStat Menus 6.62.1197 优秀的系统监控工具](https://xclient.info/s/istat-menus-for-mac.html) | Fri Jul 29 2022 6:57 AM
-    <details><summary>展开描述 ...</summary>
-    iStat Menus是Mac上最优秀的系统监控工具，能够在系统菜单栏实时监控CPU、GPU、内存、硬盘、网络、温度、电池以及系统时间等，稳定且占用资源少，可以说是装机必备的软件。
-    </details>
+- ⚗️ [iStat Menus 6.62.1197 优秀的系统监控工具](https://xclient.info/s/istat-menus-for-mac.html) | Fri Jul 29 2022 6:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    iStat Menus是Mac上最优秀的系统监控工具，能够在系统菜单栏实时监控CPU、GPU、内存、硬盘、网络、温度、电池以及系统时间等，稳定且占用资源少，可以说是装机必备的软件。 
+    </details> 
 
-- 🔥 [Yate 6.10.5.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Fri Jul 29 2022 6:56 AM
-    <details><summary>展开描述 ...</summary>
-    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据
-    </details>
+- 🔥 [Yate 6.10.5.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Fri Jul 29 2022 6:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
+    </details> 
 
-- 🌋 [Notebooks 3.0 文档管理和日程备忘工具](https://xclient.info/s/notebooks.html) | Fri Jul 29 2022 6:54 AM
-    <details><summary>展开描述 ...</summary>
-    Notebooks 是一款Mac上文档管理、文本编写和日程备忘工具，，集成了编写文档、日程任务管理、文档文件管理三个功能，其中文档编写支持纯文本、HTML文本和Markdown文本等，支持统一管理常见的文档文件，如text, PDF, web pages, MS Office documents等，非常实用的一款工具！
-    </details>
+- 🌋 [Notebooks 3.0 文档管理和日程备忘工具](https://xclient.info/s/notebooks.html) | Fri Jul 29 2022 6:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    Notebooks 是一款Mac上文档管理、文本编写和日程备忘工具，，集成了编写文档、日程任务管理、文档文件管理三个功能，其中文档编写支持纯文本、HTML文本和Markdown文本等，支持统一管理常见的文档文件，如text, PDF, web pages, MS Office documents等，非常实用的一款工具！ 
+    </details> 
 <!-- xclient:END -->
 
 ### 不死鸟
