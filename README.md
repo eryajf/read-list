@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《龙之家族》获媒体一致好评 制作精良、会有死忠粉](https://hot.cnbeta.com/articles/movie/1298835.htm) | Sat Jul 30 2022 12:42 PM 
+- 🕯 [欧洲首现猴痘死亡病例 哪些人群会引起严重疾病？](https://www.cnbeta.com/articles/tech/1298841.htm) | Sat Jul 30 2022 2:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;猴痘疾病的临床结局通常与病毒暴露程度、患者健康状况和并发症性质有关，免疫缺陷可能导致更糟糕的临床结局。继非洲之后，欧洲和南美洲也陆续报告了猴痘死亡病例。截至7月30日，全球猴痘死亡病例数已增至8例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [曾经靠山寨四驱车火爆全国的奥迪双钻，后来做什么去了？](https://www.cnbeta.com/articles/tech/1298839.htm) | Sat Jul 30 2022 2:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“奥迪双钻，我的伙伴”——在无数80后、90后的童年里，风靡一时的迷你四驱车和这句脍炙人口的广告词一起，编织成了一段最美好的童年时光，拥有一辆奥迪双钻四驱车，成了众多孩子的梦想。拿着自己辛苦改造的四驱车，和小伙伴们一决高下，日复一日，乐此不疲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [《隐秘的角落》试玩报告：这次真的还有机会](https://hot.cnbeta.com/articles/game/1298837.htm) | Sat Jul 30 2022 2:50 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;将2020年大火的国产悬疑剧《隐秘的角落》改编成游戏，并不是件容易的事。了解这部剧集的观众应该知道，该剧改编自国内知名推理作家紫金陈的小说《坏小孩》，并且剧集本身已经对原著的故事和人物关系，进行了大量的改写，最终在不改变小说核心立意的前提下，为观众呈现了一个逻辑严密的悬疑故事。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《龙之家族》获媒体一致好评 制作精良、会有死忠粉](https://hot.cnbeta.com/articles/movie/1298835.htm) | Sat Jul 30 2022 12:42 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《权力的游戏》前传剧集《龙之家族》先导剧集已向部分国外媒体内部放映，收获了一致好评，他们纷纷表示该剧制作精良、值得一看、会有死忠粉。“《龙之家族》试播集非常清楚地解释了它与权游的联系，介绍了该剧的核心人物，并列出了核心冲突。试播集是容易让人接受的，画面具有鲜艳色彩和细致纹理。截止目前来看，这绝对是一部有价值的续作。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [北斗卫星导航独门绝技 短报文功能进入大众应用阶段](https://www.cnbeta.com/articles/tech/1298833.htm) | Sat Jul 30 2022 12:41 PM 
+- 🎊 [北斗卫星导航独门绝技 短报文功能进入大众应用阶段](https://www.cnbeta.com/articles/tech/1298833.htm) | Sat Jul 30 2022 12:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在全球四大卫星导航系统中，中国的北斗卫星除了导航定位之外还有个独门绝技，那就是短报文，不需要运营商的网络就能收发短信，现在这个功能已经进入了大众应用阶段了。据报道，7月30日，北斗三号短报文通信服务成果发布会在京举行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [印尼因违反许可证规定而封锁了Steam、雅虎、PayPal等网站与服务](https://www.cnbeta.com/articles/tech/1298831.htm) | Sat Jul 30 2022 12:40 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;印尼已经禁止了PayPal、雅虎以及包括Epic Games和Steam在内的知名游戏网站，原因是它们没有按照最近的许可规则行事。2020年11月，所有在该国提供在线服务的国内和海外公司都必须注册。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Starlink提高了美国区域下载速度 有用户实测突破280Mbps](https://www.cnbeta.com/articles/tech/1298829.htm) | Sat Jul 30 2022 12:38 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;SpaceX公司的Starlink卫星互联网服务的用户再次开始报告互联网下载速度，结果喜人。Starlink使用低地球轨道（LEO）卫星向其用户传送互联网连接，自从向公众开放以来，该服务已经有数十万用户注册使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [谍战片《铁石心肠》杀青 盖尔·加朵晒出大合影](https://hot.cnbeta.com/articles/movie/1298827.htm) | Sat Jul 30 2022 12:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月29日，演员盖尔·加朵晒出由其出演的谍战题材新片《铁石心肠》的杀青照，在经过5个月转战5个国家取景拍摄后，电影终于进入后期制作阶段。目前，《铁石心肠》的剧情还处于保密之中，有消息称，导演汤姆·哈伯将把这部电影打造成类似《007》或《碟中谍》系列的女版特工影片。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
