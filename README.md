@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [200万豪车致1死2伤 自动解锁或有矛盾：雷克萨斯LM300H加价近50万仍热卖](https://www.cnbeta.com/articles/tech/1298859.htm) | Sat Jul 30 2022 6:55 PM 
+- 🕯 [NASA阿特米斯一号登月火箭继续进行最后准备工作以便下个月发射](https://www.cnbeta.com/articles/science/1298861.htm) | Sat Jul 30 2022 7:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;NASA团队正在接近完成太空发射系统（SLS）火箭和猎户座飞船在佛罗里达州肯尼迪航天中心的车辆装配大楼的操作。&lt;/strong&gt;这距离NASA首次尝试发射阿特米斯一号任务只剩下一个月的时间。目前的目标是在不早于8月29日星期一，即美国东部时间上午8:33（太平洋时间上午5:33）的2小时内发射。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [200万豪车致1死2伤 自动解锁或有矛盾：雷克萨斯LM300H加价近50万仍热卖](https://www.cnbeta.com/articles/tech/1298859.htm) | Sat Jul 30 2022 6:55 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;这两天雷克萨斯上热搜了，因为车祸导致一死两伤，让人直呼豪车也不是那么安全，而这起事故背后更多的还是厂商在车上的自动解锁逻辑有问题。7月28日，广西贵港辖区内一段高速发生车祸，车辆在碰撞后出现自燃，疑似有伤亡情况。随后官方通告，称28日12时许，其辖区内发生一起交通事故，1人死亡，两人轻伤无生命危险。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美国总统拜登再次被检测出COVID-19阳性 将重新开始隔离治疗](https://www.cnbeta.com/articles/tech/1298857.htm) | Sat Jul 30 2022 6:53 PM 
+- 💂 [美国总统拜登再次被检测出COVID-19阳性 将重新开始隔离治疗](https://www.cnbeta.com/articles/tech/1298857.htm) | Sat Jul 30 2022 6:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;医生今天透露，美国总统乔·拜登在连续几天病毒检测呈阴性后，周六再次检测出COVID-19阳性。&lt;/strong&gt;但他没有出现新的症状，&amp;quot;继续感觉很好&amp;quot;，凯文-奥康纳医生在白宫共享的一份备忘录中说。但他仍将&amp;quot;重新启动严格的隔离程序&amp;quot;，这位总统医生写道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [像个七岁的孩子？马斯克的滑稽举动让车主和潜在买家反对特斯拉](https://www.cnbeta.com/articles/tech/1298855.htm) | Sat Jul 30 2022 4:46 PM 
+- 🚀 [像个七岁的孩子？马斯克的滑稽举动让车主和潜在买家反对特斯拉](https://www.cnbeta.com/articles/tech/1298855.htm) | Sat Jul 30 2022 4:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;现年73岁的丹尼斯·莱维特是一家美国自助仓储公司高管，他在2013年得到了他的第一辆特斯拉，一辆蓝色的 Model S，并且非常喜欢它：“我是马斯克的忠实粉丝。”虽然莱维特仍然喜欢他的特斯拉，但他对马斯克开始反感。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [这也行？酸黄瓜甩到天花板上，标价超4万……](https://hot.cnbeta.com/articles/funny/1298853.htm) | Sat Jul 30 2022 4:45 PM 
+- 🎊 [这也行？酸黄瓜甩到天花板上，标价超4万……](https://hot.cnbeta.com/articles/funny/1298853.htm) | Sat Jul 30 2022 4:45 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一片酸黄瓜甩到天花板上，然后就成为了一件“艺术品”，你敢信吗？据英国《卫报》7月27日报道，澳大利亚艺术家马修·格里芬近日就在奥克兰画廊展出了这样一件名为“酸黄瓜”（&lt;span style=&quot;&quot;&gt;Pickle&lt;/span&gt;）的作品，&lt;span style=&quot;&quot;&gt;黄瓜是从麦当劳芝士汉堡取出的，扔在了美术馆的天花板上。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1298853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [台积电前发言人称520亿美元的CHIPS法案无助于美国芯片制造](https://www.cnbeta.com/articles/tech/1298851.htm) | Sat Jul 30 2022 4:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;该法案名为《美国CHIPS法案》，它包含一些条款，承诺政府将为那些旨在在美国开设生产设施或开设新的芯片制造技术研究和开发中心的芯片公司提供资金，特别是针对特征尺寸小于3纳米的节点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
