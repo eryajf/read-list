@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [网络协议是什么？为什么要学习网络协议？](https://juejin.cn/post/7126064416725925902) | Sat Jul 30 2022 7:30 AM 
+- 🤗 [以太坊 layer2: optimism 源码学习 &lpar;一&rpar;](https://juejin.cn/post/7126083070037327909) | Sat Jul 30 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
-    如果没有网络协议，计算机之间可能就不能进行通信，就会乱套。因此网络协议的存在是十分必要的，我们也看到了，去搜索引擎搜索一个问题，背后都是许多个网络协议共同努力的结果，我使用的这个搜索引擎服务器还在俄罗 
+    《1.0-区块链DApp开发实战》 《2.0-区块链DApp开发：基于公链》 本次是长篇文章，这是第一篇。 这里就不说什么是 Layer2 了，可以去网络搜索其它文章来阅读。在 Layer2 的扩容方 
     </details> 
 
-- 🎡 [Android基于EasyPermission封装实现快速权限申请](https://juejin.cn/post/7126062754363867173) | Sat Jul 30 2022 7:23 AM 
+- 🎡 [【CSS】白云飘动效果](https://juejin.cn/post/7126076366323187725) | Sat Jul 30 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍了 ardf（Android 快速开发框架）中基于EasyPermission 的权限请求的封装使用方法，并通过源码解析详细介绍了其实现原理，进一步提高 Android 开发的效率 
+    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 效果展示 Demo代码 HTML CSS 原理详解 步骤1 使用span标签，设置为 相对定位 宽度、高度均为50px 背景色：白色  
     </details> 
 
-- 🕯 [MYSQL学习：GROUP BY分组取最新的一条记录](https://juejin.cn/post/7126058106450083871) | Sat Jul 30 2022 7:05 AM 
+- 🕯 [vscode让代码敲出火焰](https://juejin.cn/post/7126075445727985701) | Sat Jul 30 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 日常开发当中，经常会遇到查询分组数据中最新的一条记录，比如统计当前系统每个人的最新登录记录、外卖系统统计所 
+    vscode让代码敲出火焰 第一步：下载插件：Power Mode 第二步：配置settings.josn文件 搜索settings.josn，打开 效果： 
     </details> 
 
-- 🚀 [STM32+ESP8266+MQTT协议连接阿里云物联网平台](https://juejin.cn/post/7126057610763206664) | Sat Jul 30 2022 7:03 AM 
+- 🚀 [Spring MVC之处理请求的过程](https://juejin.cn/post/7126073427537952782) | Sat Jul 30 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-    物联网近几年发展非常迅速，各大平台都推出了物联网服务器，这篇文章介绍STM32+ESP8266通过阿里云物联网服务器实现设备数据远程上传、下发，实现数据交互，介绍物联网平台的对接与基本使用。 
+    spring MVC是遵循MVC架构思想，基于Spring Container Core和AOP等技术，实现的轻量级web框架，用于简化我们日常Web开发。 
     </details> 
 
-- 💪 [Flutter 键盘可见性](https://juejin.cn/post/7126057383335297037) | Sat Jul 30 2022 7:02 AM 
+- 💪 [【消息中间件】一图了解RocketMQ常用命令,不依赖Console也能得心应手](https://juejin.cn/post/7126069240422989837) | Sat Jul 30 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天， 点击查看活动详情 运行此命令： 使用Flutter： 这将在你的包的 pubspec.yaml 中添加这样的一行（并运行一 
+    前言 大家好，我是小郭，上一篇文章主要解决了我们mqadmin命令不能使用的问题，今天的这一篇主要就来说一下，我们工作中常用的一些命令，我们可以利用这些命令来进行实时情况的查看，在遇到问题的时候能够快 
     </details> 
 <!-- juejin:END -->
 ### 少数派
