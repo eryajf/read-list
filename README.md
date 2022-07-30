@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [台积电前发言人称520亿美元的CHIPS法案无助于美国芯片制造](https://www.cnbeta.com/articles/tech/1298851.htm) | Sat Jul 30 2022 4:19 PM 
+- 🕯 [像个七岁的孩子？马斯克的滑稽举动让车主和潜在买家反对特斯拉](https://www.cnbeta.com/articles/tech/1298855.htm) | Sat Jul 30 2022 4:46 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;现年73岁的丹尼斯·莱维特是一家美国自助仓储公司高管，他在2013年得到了他的第一辆特斯拉，一辆蓝色的 Model S，并且非常喜欢它：“我是马斯克的忠实粉丝。”虽然莱维特仍然喜欢他的特斯拉，但他对马斯克开始反感。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [这也行？酸黄瓜甩到天花板上，标价超4万……](https://hot.cnbeta.com/articles/funny/1298853.htm) | Sat Jul 30 2022 4:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一片酸黄瓜甩到天花板上，然后就成为了一件“艺术品”，你敢信吗？据英国《卫报》7月27日报道，澳大利亚艺术家马修·格里芬近日就在奥克兰画廊展出了这样一件名为“酸黄瓜”（&lt;span style=&quot;&quot;&gt;Pickle&lt;/span&gt;）的作品，&lt;span style=&quot;&quot;&gt;黄瓜是从麦当劳芝士汉堡取出的，扔在了美术馆的天花板上。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1298853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [台积电前发言人称520亿美元的CHIPS法案无助于美国芯片制造](https://www.cnbeta.com/articles/tech/1298851.htm) | Sat Jul 30 2022 4:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;该法案名为《美国CHIPS法案》，它包含一些条款，承诺政府将为那些旨在在美国开设生产设施或开设新的芯片制造技术研究和开发中心的芯片公司提供资金，特别是针对特征尺寸小于3纳米的节点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Apple Pay计划兼容iOS 16上运行的Chrome、Edge和Firefox](https://www.cnbeta.com/articles/tech/1298849.htm) | Sat Jul 30 2022 4:15 PM 
+- 🚀 [Apple Pay计划兼容iOS 16上运行的Chrome、Edge和Firefox](https://www.cnbeta.com/articles/tech/1298849.htm) | Sat Jul 30 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在iOS 16中，Apple Pay可能最终与Microsoft Edge、Google Chrome和Mozilla Firefox兼容。MacRumors撰稿人Steve Moser发现，Apple Pay在iOS 16 beta 4中与Edge和Chrome兼容，并在Twitter上分享了他的发现。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [沈腾0票惹争议 张译袁泉斩获百花奖影帝、影后](https://hot.cnbeta.com/articles/movie/1298847.htm) | Sat Jul 30 2022 4:00 PM 
+- 🎊 [沈腾0票惹争议 张译袁泉斩获百花奖影帝、影后](https://hot.cnbeta.com/articles/movie/1298847.htm) | Sat Jul 30 2022 4:00 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;第36届大众电影百花奖颁奖典礼于今日举行。《长津湖》获得最佳影片。张译与袁泉分别凭借《悬崖之上》与《中国医生》获得最佳男主角与最佳女主角。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [中国影史票房第一 吴京主演大片《长津湖》获36届百花奖最佳影片奖](https://hot.cnbeta.com/articles/movie/1298845.htm) | Sat Jul 30 2022 3:58 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月30日消息，第36届大众电影百花奖在武汉举行，《长津湖》获得最佳影片，《你好，李焕英》获得优秀影片。《长津湖》虽然是吴京领衔主演，不过这次的最佳男主角并不是他，&lt;strong&gt;演员张译凭借《悬崖之上》获得最佳男主角&lt;/strong&gt;，成为金鸡百花双料影帝，袁泉则凭借《中国医生》获得最佳女主角。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [三星手机上线维修数据保护模式 设定后可放心寄修](https://www.cnbeta.com/articles/tech/1298843.htm) | Sat Jul 30 2022 3:55 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;将手机寄到服务中心维修前，用户通常会将手机恢复出厂设置，否则有可能会泄露个人敏感数据。三星针对这个问题，近期上线了维修模式。&lt;strong&gt;开启维修模式后，手机将自动重启，服务中心维修期间，用户无需担心个人信息泄露。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
