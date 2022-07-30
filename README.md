@@ -66,30 +66,30 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) | Fri Jul 29 2022 4:26 PM
-    <details><summary>展开描述 ...</summary>
-    当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。
-    </details>
+- 🫶 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) | Fri Jul 29 2022 4:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。 
+    </details> 
 
-- 🧰 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) | Fri Jul 29 2022 3:51 PM
-    <details><summary>展开描述 ...</summary>
-    GitHub中的follow功能，类似于微博中的关注，而关注我们的大佬，就更应该有一个合适的地方安排，本文将分享如何基于GitHub Actions自动生成个人的Fans列表。
-    </details>
+- 🧰 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) | Fri Jul 29 2022 3:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    GitHub中的follow功能，类似于微博中的关注，而关注我们的大佬，就更应该有一个合适的地方安排，本文将分享如何基于GitHub Actions自动生成个人的Fans列表。 
+    </details> 
 
-- 🌏 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/) | Fri Jul 29 2022 7:49 AM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第64期-2022年第29周
-    </details>
+- 🌏 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/) | Fri Jul 29 2022 7:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第64期-2022年第29周 
+    </details> 
 
-- 😎 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM
-    <details><summary>展开描述 ...</summary>
-    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。
-    </details>
+- 😎 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。 
+    </details> 
 
-- 💂 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM
-    <details><summary>展开描述 ...</summary>
-    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template
-    </details>
+- 💂 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template 
+    </details> 
 <!-- eryajf:END -->
 
 ### 酷壳
@@ -122,30 +122,30 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第65期） : 个人爱好发展成一项36万美元/年的NFTs业务](https://www.ezindie.com/weekly/issue-65) | Thu Jul 28 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。个人爱好发展成一项36万美元/年的NFTs业务
-    </details>
+- 💂 [独立开发变现周刊（第65期） : 个人爱好发展成一项36万美元/年的NFTs业务](https://www.ezindie.com/weekly/issue-65) | Thu Jul 28 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。个人爱好发展成一项36万美元/年的NFTs业务 
+    </details> 
 
-- 💡 [独立开发变现周刊（第64期） : 一套图标，6天6位数收入](https://www.ezindie.com/weekly/issue-64) | Fri Jul 22 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。一套图标，6天6位数收入
-    </details>
+- 💡 [独立开发变现周刊（第64期） : 一套图标，6天6位数收入](https://www.ezindie.com/weekly/issue-64) | Fri Jul 22 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一套图标，6天6位数收入 
+    </details> 
 
-- 🌋 [独立开发变现周刊（第63期） : 一个爬虫类产品，4个月做到月收入3000美元](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个爬虫类产品，4个月做到月收入3000美元
-    </details>
+- 🌋 [独立开发变现周刊（第63期） : 一个爬虫类产品，4个月做到月收入3000美元](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个爬虫类产品，4个月做到月收入3000美元 
+    </details> 
 
-- 🕴 [独立开发变现周刊（第62期） : 我是如何开发一个年收入30万美金的Vue.js开源组件库的？](https://www.ezindie.com/weekly/issue-62) | Fri Jul 08 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。我是如何开发一个年收入30万美金的Vue.js开源组件库的？
-    </details>
+- 🕴 [独立开发变现周刊（第62期） : 我是如何开发一个年收入30万美金的Vue.js开源组件库的？](https://www.ezindie.com/weekly/issue-62) | Fri Jul 08 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。我是如何开发一个年收入30万美金的Vue.js开源组件库的？ 
+    </details> 
 
-- 🎊 [独立开发变现周刊（第61期） : 我们是如何构建一个100万美元年收入开源SaaS的？](https://www.ezindie.com/weekly/issue-61) | Fri Jul 01 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。我们是如何构建一个100万美元年收入开源SaaS的？
-    </details>
+- 🎊 [独立开发变现周刊（第61期） : 我们是如何构建一个100万美元年收入开源SaaS的？](https://www.ezindie.com/weekly/issue-61) | Fri Jul 01 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。我们是如何构建一个100万美元年收入开源SaaS的？ 
+    </details> 
 <!-- easyindie:END -->
 
 
@@ -159,74 +159,108 @@
 ### 王登科-DK博客
 
 <!-- greatdk:START -->
-<!-- greatdk:END -->
+- 💄 [历时一年，我完成了人生第一场官司，并拿回了租房押金](https://greatdk.com/1844.html) | Wed Jul 13 2022 1:16 PM
+- 🏊 [准备好面对无常](https://greatdk.com/1833.html) | Sun May 08 2022 2:24 PM
+- 🙉 [我们基于 Disco-diffusion  为 50 句中国古诗词生成了画面 （开源代码）](https://greatdk.com/1835.html) | Wed May 04 2022 10:40 AM
+- 🚀 [春节花了7天学习 SwiftUI 后，我上架了人生第一款 iOS APP，并获得了AppStore编辑推荐](https://greatdk.com/1820.html) | Mon Feb 21 2022 12:20 PM
+- 🤖 [海南大爷](https://greatdk.com/1801.html) | Wed Jan 19 2022 10:01 AM
+- ⚗️ [除了宇宙之外的那种元](https://greatdk.com/1797.html) | Sat Jan 01 2022 8:46 AM<!-- greatdk:END -->
 
 ### 谢益辉博客
 
 <!-- yihui:START -->
-<!-- yihui:END -->
+- 🪜 [河神](https://yihui.org/cn/2022/07/river-god/) | Wed Jul 20 2022 12:00 AM
+- 🤓 [糖之妙效](https://yihui.org/cn/2022/07/sugar-effect/) | Wed Jul 20 2022 12:00 AM
+- 🚀 [丹佛夜影](https://yihui.org/cn/2022/07/denver-shadow/) | Tue Jul 19 2022 12:00 AM
+- 🚀 [不急](https://yihui.org/cn/2022/07/no-hurry/) | Sat Jul 09 2022 12:00 AM
+- 💃 [边界 2022](https://yihui.org/cn/2022/07/boundary/) | Fri Jul 08 2022 12:00 AM
+- 🤠 [爱的暗面](https://yihui.org/cn/2022/07/loves-dark-side/) | Thu Jul 07 2022 12:00 AM<!-- yihui:END -->
 
 ### 卢冬冬博客
 
 <!-- ldd:START -->
+- 🔥 [APK汉化手记 &amp; 现金流游戏放出](https://www.ldd.cc/949.html) | Tue Dec 08 2020 10:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    🔮汉化项目 现金流游戏 Windows 版本 现金流游戏 Android 版本 💡Q&amp;#38;A 为什么是 CASHFLOW GAME ?这是一款经典的财商益智游戏，国内名称多样，现金流游戏/穷爸爸富爸爸/老鼠赛跑，游戏里的东西虽然是虚的，但思路还是可以借鉴的，学会改善自己的财商与现金流，2020年四处暴雷， &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/949.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;APK汉化手记 &amp;#038; 现金流游戏放出&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt; 
+    </details> 
+
+- 🔭 [中卢周刊（第1期）：内卷的打工人](https://www.ldd.cc/875.html) | Fri Oct 30 2020 7:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    作者：&amp;#160;卢东东日期：&amp;#160;2020年10月30日 这里记录过去一周，我看到的值得分享的东西，周五发布。对于喜欢无休止探索折腾各类科技问题的我，阮一峰老师创立的科技爱好者周刊无疑让我得益匪浅，于是“西颦东效”，建立了《中卢周刊》。 长久以来，我一直用各种方式，尝试整理我的收藏夹。最近想到，把它写 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/875.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;中卢周刊（第1期）：内卷的打工人&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt; 
+    </details> 
+
+- 🏊 [「湛卢导航」上线：十年一剑，霜刃未试](https://www.ldd.cc/816.html) | Thu Sep 10 2020 4:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    感谢各位的等待，经过几个月的准备工作后目前新版网址导航已经上线啦！部分书签数据尚未同步完成，此前有用户和站长提交的网站未收录的会尽快处理。关于新版本大家在使用过程中有什么意见或建议欢迎在评论中留言反馈。 一直以来我都使用Chrome的收藏夹来整理网站， 直到收藏的网站越来越多，收藏夹也越来越多， 当想要回头需 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/816.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;「湛卢导航」上线：十年一剑，霜刃未试&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt; 
+    </details> 
+
+- 🐻 [《生活黑客》：以黑客的角度来看待生活](https://www.ldd.cc/758.html) | Tue Aug 25 2020 7:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    前两天收到邮寄的书：《生活黑客》，包装封面颇有新意，你来看看这书衣，它是透明的，并且在不同位置标注着： 本书共有8个章节，版面字数20万，按照正常阅读速度，9小时可以读完 堵头布，精装书书脊上下两端会有这样一条装饰带，我们把他叫堵头布 护封，由保护署的包装纸演变而来 这就是所谓的黑客精神：个人主义+理性+实验 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/758.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;《生活黑客》：以黑客的角度来看待生活&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt; 
+    </details> 
+
+- 👺 [WordPress获取当前网站所有的文章链接](https://www.ldd.cc/275.html) | Wed Aug 05 2020 4:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    1.新建geturl.php文件，将代全部码粘贴2.将geturl.php文件上传至网站根目录3.通过浏览器访问该文件即可（例如：域名/geturl.php）4.显示内容即为所有已发布的文章链接，复制后保存至本地即可（文件使用完毕后记得删了） 文章链接：https://ludongdong.com/660.h &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/275.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;WordPress获取当前网站所有的文章链接&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt; 
+    </details> 
 <!-- ldd:END -->
 
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [日志导致线程Block的这些坑，你不得不防](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html) | Fri Jul 29 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    研发人员在项目开发中不可避免地要使用日志，通过它来记录信息和排查问题。Apache Log4j2提供了灵活且强大的日志框架，虽然上手比较快，但稍有不慎也非常容易踩“坑”。本文介绍了美团统一API网关服务Shepherd在实践中所踩过的关于日志导致线程Block的那些“坑”，以及我们如何从日志框架源码层面进行分析和解决问题的过程，并在最后给大家分享一些关于日志避“坑”的实践经验，希望能给大家带来一些帮助。
-    </details>
+- 🕯 [日志导致线程Block的这些坑，你不得不防](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html) | Fri Jul 29 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    研发人员在项目开发中不可避免地要使用日志，通过它来记录信息和排查问题。Apache Log4j2提供了灵活且强大的日志框架，虽然上手比较快，但稍有不慎也非常容易踩“坑”。本文介绍了美团统一API网关服务Shepherd在实践中所踩过的关于日志导致线程Block的那些“坑”，以及我们如何从日志框架源码层面进行分析和解决问题的过程，并在最后给大家分享一些关于日志避“坑”的实践经验，希望能给大家带来一些帮助。 
+    </details> 
 
-- 🤠 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html) | Thu Jul 21 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。本文将精选10篇论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。
-    </details>
+- 🤠 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html) | Thu Jul 21 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。本文将精选10篇论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。 
+    </details> 
 
-- 🤠 [可视化全链路日志追踪](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html) | Thu Jul 21 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    可观测性作为系统高可用的重要保障，已经成为系统建设中不可或缺的一环。然而随着业务逻辑的日益复杂，传统的ELK方案在日志搜集、筛选和分析等方面愈加耗时耗力，而分布式会话跟踪方案虽然基于追踪能力完善了日志的串联，但更聚焦于调用链路，也难以直接应用于高效的业务追踪。本文介绍了可视化全链路日志追踪的新方案，它以业务链路为载体，通过有效组织业务每次执行的日志，实现了执行现场的可视化还原，支持问题的高效定位。
-    </details>
+- 🤠 [可视化全链路日志追踪](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html) | Thu Jul 21 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    可观测性作为系统高可用的重要保障，已经成为系统建设中不可或缺的一环。然而随着业务逻辑的日益复杂，传统的ELK方案在日志搜集、筛选和分析等方面愈加耗时耗力，而分布式会话跟踪方案虽然基于追踪能力完善了日志的串联，但更聚焦于调用链路，也难以直接应用于高效的业务追踪。本文介绍了可视化全链路日志追踪的新方案，它以业务链路为载体，通过有效组织业务每次执行的日志，实现了执行现场的可视化还原，支持问题的高效定位。 
+    </details> 
 
-- 🚀 [工程效能CI/CD之流水线引擎的建设实践](https://tech.meituan.com/2022/07/14/cicd-pipeline.html) | Thu Jul 14 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。
-    </details>
+- 🚀 [工程效能CI/CD之流水线引擎的建设实践](https://tech.meituan.com/2022/07/14/cicd-pipeline.html) | Thu Jul 14 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。 
+    </details> 
 
-- ⚗️ [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    在外卖广告CTR场景下，深度学习模型正在从简单DNN小模型过渡到千亿参数复杂模型。基于该背景，本文将重点针对大规模深度模型在全链路带来的挑战，从在线时延、离线效率两个方面展开，阐述外卖广告在大规模深度模型上的工程实践经验，希望能为读者提供思路上的借鉴。
-    </details>
+- ⚗️ [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    在外卖广告CTR场景下，深度学习模型正在从简单DNN小模型过渡到千亿参数复杂模型。基于该背景，本文将重点针对大规模深度模型在全链路带来的挑战，从在线时延、离线效率两个方面展开，阐述外卖广告在大规模深度模型上的工程实践经验，希望能为读者提供思路上的借鉴。 
+    </details> 
 <!-- meituan:END -->
 
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [运维自动化之多云系统分享](https://blog.ops-coffee.cn/s/Wtx2utkC4MErDLvC3cbSMg) | Sat Jul 30 2022 8:02 AM
-    <details><summary>展开描述 ...</summary>
-    什么是多云，多云该如何设计，多云要怎么落地
-    </details>
+- 👺 [运维自动化之多云系统分享](https://blog.ops-coffee.cn/s/Wtx2utkC4MErDLvC3cbSMg) | Sat Jul 30 2022 8:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    什么是多云，多云该如何设计，多云要怎么落地 
+    </details> 
 
-- 💯 [盛夏露营，我不怕热不怕蚊子吗？](https://blog.ops-coffee.cn/s/mWYu4bSkSpymtk8opJa-IQ) | Thu Jul 21 2022 9:39 AM
-    <details><summary>展开描述 ...</summary>
-    有很多朋友问我，三十几度的天气，你还出去露营，不怕热吗？不怕蚊虫叮咬吗？
-    </details>
+- 💯 [盛夏露营，我不怕热不怕蚊子吗？](https://blog.ops-coffee.cn/s/mWYu4bSkSpymtk8opJa-IQ) | Thu Jul 21 2022 9:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    有很多朋友问我，三十几度的天气，你还出去露营，不怕热吗？不怕蚊虫叮咬吗？ 
+    </details> 
 
-- 🚦 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM
-    <details><summary>展开描述 ...</summary>
-    真的喜欢户外的，都是热爱生活的
-    </details>
+- 🚦 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    真的喜欢户外的，都是热爱生活的 
+    </details> 
 
-- 👨‍🏫 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM
-    <details><summary>展开描述 ...</summary>
-    夏天户外露营过夜体验
-    </details>
+- 👨‍🏫 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    夏天户外露营过夜体验 
+    </details> 
 
-- 🌮 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM
-    <details><summary>展开描述 ...</summary>
-    PEP 8 -- Python 代码风格指南
-    </details>
+- 🌮 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    PEP 8 -- Python 代码风格指南 
+    </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
 
@@ -240,89 +274,89 @@
 ### 腾讯全端
 
 <!-- alloyteam:START -->
-- 🤡 [走向匿名化，谈谈微信小程序新授权登录](http://www.alloyteam.com/2021/04/15431/) | Fri Apr 16 2021 5:03 AM
-    <details><summary>展开描述 ...</summary>
-    今年 2 月，微信团队针对小程序登录和用户信息获取进行了一次接口调整，这一举动史无前例地撼动了几乎所有小程序开 [&amp;#8230;]
-    </details>
+- 🤡 [走向匿名化，谈谈微信小程序新授权登录](http://www.alloyteam.com/2021/04/15431/) | Fri Apr 16 2021 5:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    今年 2 月，微信团队针对小程序登录和用户信息获取进行了一次接口调整，这一举动史无前例地撼动了几乎所有小程序开 [&amp;#8230;] 
+    </details> 
 
-- 👍 [yield 学习](http://www.alloyteam.com/2021/03/15427/) | Sat Mar 27 2021 12:10 PM
-    <details><summary>展开描述 ...</summary>
-    最近看的代码 yield 比较多，上次看到这么多 function* 还是在 koa1 时代，脑子中满是 yi [&amp;#8230;]
-    </details>
+- 👍 [yield 学习](http://www.alloyteam.com/2021/03/15427/) | Sat Mar 27 2021 12:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近看的代码 yield 比较多，上次看到这么多 function* 还是在 koa1 时代，脑子中满是 yi [&amp;#8230;] 
+    </details> 
 
-- 🚀 [callable-object](http://www.alloyteam.com/2021/03/callable-object/) | Sun Mar 14 2021 8:47 AM
-    <details><summary>展开描述 ...</summary>
-    原文地址：https://github.com/vorshen/blog/blob/master/callab [&amp;#8230;]
-    </details>
+- 🚀 [callable-object](http://www.alloyteam.com/2021/03/callable-object/) | Sun Mar 14 2021 8:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    原文地址：https://github.com/vorshen/blog/blob/master/callab [&amp;#8230;] 
+    </details> 
 
-- 💃 [深入学习定时器](http://www.alloyteam.com/2021/03/15389/) | Tue Mar 02 2021 3:37 PM
-    <details><summary>展开描述 ...</summary>
-    或许在生活中大家都讨厌定时器，比如周一早上的闹钟、承诺老板第二天一早给报告的 deadline；但是在代码的世 [&amp;#8230;]
-    </details>
+- 💃 [深入学习定时器](http://www.alloyteam.com/2021/03/15389/) | Tue Mar 02 2021 3:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    或许在生活中大家都讨厌定时器，比如周一早上的闹钟、承诺老板第二天一早给报告的 deadline；但是在代码的世 [&amp;#8230;] 
+    </details> 
 
-- 🤗 [提高资源的安全性 – SRI 与 CSP](http://www.alloyteam.com/2021/01/sri/) | Thu Jan 14 2021 11:37 AM
-    <details><summary>展开描述 ...</summary>
-    原文地址 在 《前端资源加载失败优化》文章中，我们聊到了前端资源加载失败的监控方式，以及资源加载失败时的优化方 [&amp;#8230;]
-    </details>
+- 🤗 [提高资源的安全性 – SRI 与 CSP](http://www.alloyteam.com/2021/01/sri/) | Thu Jan 14 2021 11:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    原文地址 在 《前端资源加载失败优化》文章中，我们聊到了前端资源加载失败的监控方式，以及资源加载失败时的优化方 [&amp;#8230;] 
+    </details> 
 <!-- alloyteam:END -->
 
 ### 火丁笔记
 
 <!-- huoding:START -->
-- 🌋 [关于一个打包下载的需求](https://blog.huoding.com/2022/07/01/984) | Fri Jul 01 2022 6:01 AM
-    <details><summary>展开描述 ...</summary>
-    前些天遇到一个「打包下载」的需求，在调研过程中走了一些弯路，本文记录一下。 比如 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2022/07/01/984&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
-    </details>
+- 🌋 [关于一个打包下载的需求](https://blog.huoding.com/2022/07/01/984) | Fri Jul 01 2022 6:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    前些天遇到一个「打包下载」的需求，在调研过程中走了一些弯路，本文记录一下。 比如 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2022/07/01/984&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
+    </details> 
 
-- 🤠 [如何用eBPF分析Golang应用](https://blog.huoding.com/2021/12/12/970) | Sun Dec 12 2021 5:06 AM
-    <details><summary>展开描述 ...</summary>
-    当医生遇到疑难杂症时，那么可以上 X 光机，有没有病？病在哪里？一照便知！当程序 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/12/12/970&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
-    </details>
+- 🤠 [如何用eBPF分析Golang应用](https://blog.huoding.com/2021/12/12/970) | Sun Dec 12 2021 5:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    当医生遇到疑难杂症时，那么可以上 X 光机，有没有病？病在哪里？一照便知！当程序 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/12/12/970&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
+    </details> 
 
-- 🫶 [白话Golang单元测试](https://blog.huoding.com/2021/11/28/968) | Sun Nov 28 2021 3:27 AM
-    <details><summary>展开描述 ...</summary>
-    最近学习某个 Golang 单元测试的课程，发现其中推荐使用 gomonkey  &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/28/968&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
-    </details>
+- 🫶 [白话Golang单元测试](https://blog.huoding.com/2021/11/28/968) | Sun Nov 28 2021 3:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近学习某个 Golang 单元测试的课程，发现其中推荐使用 gomonkey  &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/28/968&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
+    </details> 
 
-- 🦄 [一个没什么用的转义技巧](https://blog.huoding.com/2021/11/16/966) | Tue Nov 16 2021 7:54 AM
-    <details><summary>展开描述 ...</summary>
-    最近我用命令行工具来测试 rpc 服务，因为此命令行工具要求输入数据是 json &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/16/966&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
-    </details>
+- 🦄 [一个没什么用的转义技巧](https://blog.huoding.com/2021/11/16/966) | Tue Nov 16 2021 7:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近我用命令行工具来测试 rpc 服务，因为此命令行工具要求输入数据是 json &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/16/966&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
+    </details> 
 
-- 🕴 [聊一个string和[]byte转换问题](https://blog.huoding.com/2021/10/14/964) | Thu Oct 14 2021 6:36 AM
-    <details><summary>展开描述 ...</summary>
-    前几天闲聊的时候，景埕说网上很多 string 和 []byte 的转换都是有问 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/10/14/964&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
-    </details>
+- 🕴 [聊一个string和[]byte转换问题](https://blog.huoding.com/2021/10/14/964) | Thu Oct 14 2021 6:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    前几天闲聊的时候，景埕说网上很多 string 和 []byte 的转换都是有问 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/10/14/964&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
+    </details> 
 <!-- huoding:END -->
 
 
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf周报 | 51款应用遭上海通信管理局通报；大数据杀熟将遭严惩；美国与英国达成数据互通协议；Web3经济损失达历史新高](https://www.freebuf.com/articles/340597.html) | Fri Jul 29 2022 9:10 AM
-    <details><summary>展开描述 ...</summary>
-    各位Buffer周末好，以下是本周「FreeBuf周报」。
-    </details>
+- 🦄 [FreeBuf周报 | 51款应用遭上海通信管理局通报；大数据杀熟将遭严惩；美国与英国达成数据互通协议；Web3经济损失达历史新高](https://www.freebuf.com/articles/340597.html) | Fri Jul 29 2022 9:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    各位Buffer周末好，以下是本周「FreeBuf周报」。 
+    </details> 
 
-- 🦄 [企业外包的安全风险及应对策略 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/340581.html) | Fri Jul 29 2022 7:33 AM
-    <details><summary>展开描述 ...</summary>
-    在安全环节，外包往往会成为薄弱的一环。外包团队究竟会为企业带来哪些安全风险？我们又该如何应对外包所带来的问题？
-    </details>
+- 🦄 [企业外包的安全风险及应对策略 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/340581.html) | Fri Jul 29 2022 7:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    在安全环节，外包往往会成为薄弱的一环。外包团队究竟会为企业带来哪些安全风险？我们又该如何应对外包所带来的问题？ 
+    </details> 
 
-- 🦅 [美预计将扩大与乌克兰的网络安全伙伴关系](https://www.freebuf.com/news/340544.html) | Fri Jul 29 2022 5:36 AM
-    <details><summary>展开描述 ...</summary>
-    美国政府的网络安全机构已与其乌克兰网络安全机构签署了一项关于在网络安全方面加强合作的协议。
-    </details>
+- 🦅 [美预计将扩大与乌克兰的网络安全伙伴关系](https://www.freebuf.com/news/340544.html) | Fri Jul 29 2022 5:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    美国政府的网络安全机构已与其乌克兰网络安全机构签署了一项关于在网络安全方面加强合作的协议。 
+    </details> 
 
-- 🪄 [暨南大学信息技术研究所招聘网络安全技术人员计划](https://www.freebuf.com/jobs/340608.html) | Fri Jul 29 2022 5:00 AM
-    <details><summary>展开描述 ...</summary>
-    暨南大学信息技术研究所招聘网络安全服务项目经理、网络技术支持工程师、网络安全工程师&lpar;攻防对抗方向）等
-    </details>
+- 🪄 [暨南大学信息技术研究所招聘网络安全技术人员计划](https://www.freebuf.com/jobs/340608.html) | Fri Jul 29 2022 5:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    暨南大学信息技术研究所招聘网络安全服务项目经理、网络技术支持工程师、网络安全工程师&lpar;攻防对抗方向）等 
+    </details> 
 
-- 💻 [微软称发现奥地利间谍团伙，利用Windows和Adobe 0day攻击欧洲组织](https://www.freebuf.com/articles/system/340560.html) | Fri Jul 29 2022 4:04 AM
-    <details><summary>展开描述 ...</summary>
-    微软安全和威胁情报团队称发现一家奥地利公司销售间谍软件DSIRF，该软件是基于未知的Windows漏洞开发。
-    </details>
+- 💻 [微软称发现奥地利间谍团伙，利用Windows和Adobe 0day攻击欧洲组织](https://www.freebuf.com/articles/system/340560.html) | Fri Jul 29 2022 4:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    微软安全和威胁情报团队称发现一家奥地利公司销售间谍软件DSIRF，该软件是基于未知的Windows漏洞开发。 
+    </details> 
 <!-- freebuf:END -->
 
 ## 新闻热览
@@ -330,67 +364,67 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [android 上 telnet 的工具](https://www.v2ex.com/t/869664#reply1) | Sat Jul 30 2022 9:37 AM
-- 🤗 [Zig 中文月刊 -- 202207](https://www.v2ex.com/t/869660#reply1) | Sat Jul 30 2022 9:04 AM
-- 🎭 [收不到谷歌注册验证码](https://www.v2ex.com/t/869647#reply16) | Sat Jul 30 2022 7:15 AM
-- 🥷 [大家觉得 umijs 难用的点在哪](https://www.v2ex.com/t/869638#reply1) | Sat Jul 30 2022 6:05 AM
-- 🐵 [前端 javascript 如何获取视频的宽高?](https://www.v2ex.com/t/869637#reply3) | Sat Jul 30 2022 5:42 AM<!-- v2ex:END -->
+- 🥸 [鸿蒙系统有什么系统功能和框架能力是需要依赖于鸿蒙架构的么？](https://www.v2ex.com/t/869685#reply0) | Sat Jul 30 2022 1:02 PM
+- 🤗 [top 命令看到 VSZ 在逐步增大](https://www.v2ex.com/t/869684#reply0) | Sat Jul 30 2022 12:56 PM
+- 🎭 [掘金不支持 PC 网页端注销帐号，这也太恶心了吧，还必须下载 APP 才可以注销帐号](https://www.v2ex.com/t/869679#reply4) | Sat Jul 30 2022 11:26 AM
+- 🥷 [哪位大佬给看看还能不能优化一下？](https://www.v2ex.com/t/869677#reply1) | Sat Jul 30 2022 11:13 AM
+- 🐵 [申请小程序地理位置权限多次被驳回，累了，赶紧毁灭吧。](https://www.v2ex.com/t/869671#reply1) | Sat Jul 30 2022 10:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Linux系列之进程管理](https://juejin.cn/post/7126093151495798797) | Sat Jul 30 2022 9:21 AM
-    <details><summary>展开描述 ...</summary>
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天。 Linux系列之进程管理
-    </details>
+- 🤗 [「趣学前端」日常浏览的页面是怎么实现出来的](https://juejin.cn/post/7126153969407098887) | Sat Jul 30 2022 1:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情。趣学前端第一篇，我们来探索一下前端技术之日常浏览的页面是怎么做出来的。「趣学前端」系列，会由浅入深，将 
+    </details> 
 
-- 🎡 [【译】安卓多点触控介绍](https://juejin.cn/post/7126089631975604254) | Sat Jul 30 2022 9:08 AM
-    <details><summary>展开描述 ...</summary>
-    安卓多点触控介绍 多点触摸是指监控多个手指的触摸事件。我们可以重写（Override） View 中的 onTouchEvent 方法，或者使用 setOnTouchListener 方法来处理触摸事
-    </details>
+- 🎡 [【LeetCode】每日一题](https://juejin.cn/post/7126153640632385573) | Sat Jul 30 2022 1:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情.... 
+    </details> 
 
-- 🕯 [vue-cli解决IE浏览器sockjs-client错误](https://juejin.cn/post/7126088891467038733) | Sat Jul 30 2022 9:04 AM
-    <details><summary>展开描述 ...</summary>
-    问题描述 点开报错位置 网络解决方案 正确解决 降低sockjs-client的版本，他依赖描述在package-lock.json在里面，如果有这种情况出现，你的版本可能在我下方给出这个版本之上 更
-    </details>
+- 🕯 [Spring Security-自定义登录页面和认证过程其他常用配置](https://juejin.cn/post/7126153059335405598) | Sat Jul 30 2022 1:15 PM 
+    <details><summary>展开描述 ...</summary> 
+    这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 一、自定义登录页面 虽然Spring Security给我们提供了登录页面，但是对于实际项目中，大多喜欢使用自己的登录页面。所 
+    </details> 
 
-- 🚀 [【2022 年】崔庆才 Python3 爬虫教程 - JavaScript 逆向调试常用技巧](https://juejin.cn/post/7126085852639264805) | Sat Jul 30 2022 8:55 AM
-    <details><summary>展开描述 ...</summary>
-    😀 这是爬虫专栏第 「34」 篇原创 前面一节我们了解了 JavaScript 的压缩、混淆等技术，现在越来越多的网站也已经应用了这些技术对其数据接口进行了保护，在做爬虫时如果我们遇到了这种情况，我们
-    </details>
+- 🚀 [使用SwiftUI搭建一个风筝摇摆动画，实现放风筝的梦想～](https://juejin.cn/post/7126152277768798222) | Sat Jul 30 2022 1:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    有一次周末在海边晃悠，抬头看到好多风筝在天空自由的翱翔，有些风筝一节接着一节在空中摇荡甚是壮观。突然脑海里有了些许灵感，是不是可以把这个景象使用SwiftUI做一个动画...... 
+    </details> 
 
-- 💪 [我的认知-1：潇洒都是有枷锁的](https://juejin.cn/post/7126085112973754398) | Sat Jul 30 2022 8:49 AM
-    <details><summary>展开描述 ...</summary>
-    背景 2016年，我从一家工作了4年的IT公司主动提出辞职，当时已经做到管理岗位，而且有了一定股份。 离开后，我认为自己可以做一名潇洒的自由职业者，不用再受到朝九晚五的限制。 经过尝试，最终失败
-    </details>
+- 💪 [重学vue3 - 模板语法](https://juejin.cn/post/7126151216765075493) | Sat Jul 30 2022 1:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 data data属性是传入一个函数，并且该函数需要返回一个对象 data中返回的对象会被Vue的响应式系 
+    </details> 
 <!-- juejin:END -->
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [任意键｜初见月迅龙、爱生气的巫妖王、奶刃三部曲及其他](https://sspai.com/post/74890) | Sat Jul 30 2022 6:58 AM
-    <details><summary>展开描述 ...</summary>
-    周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当@Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。如果你对本栏目的内容方向和呈现形式有不同的见解和主张，欢迎在评论 ...&lt;a href=&quot;https://sspai.com/post/74890&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 👹 [任意键｜初见月迅龙、爱生气的巫妖王、奶刃三部曲及其他](https://sspai.com/post/74890) | Sat Jul 30 2022 6:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当@Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。如果你对本栏目的内容方向和呈现形式有不同的见解和主张，欢迎在评论 ...&lt;a href=&quot;https://sspai.com/post/74890&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🐘 [来一场义工旅行，就可以改变人生吗？](https://sspai.com/post/74875) | Sat Jul 30 2022 2:33 AM
-    <details><summary>展开描述 ...</summary>
-    走过沙滩、经过海洋、穿过人群，心里想着——「啊 ，这里就是我的家」。&lt;a href=&quot;https://sspai.com/post/74875&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🐘 [来一场义工旅行，就可以改变人生吗？](https://sspai.com/post/74875) | Sat Jul 30 2022 2:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    走过沙滩、经过海洋、穿过人群，心里想着——「啊 ，这里就是我的家」。&lt;a href=&quot;https://sspai.com/post/74875&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🤭 [派周报 | 本周会员内容提要；跑题：裁员语文](https://sspai.com/prime/story/pi-weekly-002) | Fri Jul 29 2022 10:11 AM
-    <details><summary>展开描述 ...</summary>
-    美国科技公司在面临裁员时，又是怎样措辞和解释的呢？&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-002&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt;
-    </details>
+- 🤭 [派周报 | 本周会员内容提要；跑题：裁员语文](https://sspai.com/prime/story/pi-weekly-002) | Fri Jul 29 2022 10:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    美国科技公司在面临裁员时，又是怎样措辞和解释的呢？&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-002&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
 
-- 🥸 [本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/74896) | Fri Jul 29 2022 10:03 AM
-    <details><summary>展开描述 ...</summary>
-    ☕️TL;DR近期佳作推荐：[英剧]尝试第三季、[日剧]石子与羽男-这种事情也好告吗？、[动画]水星领航员祝福、[动画]顶点!!!!!!!!!!!!!!!、[韩剧]Adamas、[动画]闪耀路标几则精 ...&lt;a href=&quot;https://sspai.com/post/74896&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🥸 [本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/74896) | Fri Jul 29 2022 10:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[英剧]尝试第三季、[日剧]石子与羽男-这种事情也好告吗？、[动画]水星领航员祝福、[动画]顶点!!!!!!!!!!!!!!!、[韩剧]Adamas、[动画]闪耀路标几则精 ...&lt;a href=&quot;https://sspai.com/post/74896&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🙉 [身体、心境到生活，练习瑜伽一年为我带来了哪些改变](https://sspai.com/post/74887) | Fri Jul 29 2022 7:34 AM
-    <details><summary>展开描述 ...</summary>
-    从双脚迈进垫子，再带着瑜伽精神迈出垫子走进生活，再从生活里回到垫子上，我体会到了阿斯汤伽的独特魅力：垫内垫外，皆是瑜伽。&lt;a href=&quot;https://sspai.com/post/74887&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🙉 [身体、心境到生活，练习瑜伽一年为我带来了哪些改变](https://sspai.com/post/74887) | Fri Jul 29 2022 7:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    从双脚迈进垫子，再带着瑜伽精神迈出垫子走进生活，再从生活里回到垫子上，我体会到了阿斯汤伽的独特魅力：垫内垫外，皆是瑜伽。&lt;a href=&quot;https://sspai.com/post/74887&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 <!-- sspai:END -->
 
 ### 知乎每日精选
@@ -405,30 +439,30 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华硕推出ProArt 32寸专业显示器：4K Mini LED、120Hz高刷 售价29999元](https://www.cnbeta.com/articles/tech/1298803.htm) | Sat Jul 30 2022 8:38 AM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;对于设计师、剪辑师等从事内容创作工作者来说，一款高水平的显示器必不可少，可以带来极大的助力。华硕现在就推出了一款专为创意创作使用而设计的显示器——&lt;strong&gt;ProArt创艺国度创梦32专业显示器&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- 🕯 [《龙之家族》获媒体一致好评 制作精良、会有死忠粉](https://hot.cnbeta.com/articles/movie/1298835.htm) | Sat Jul 30 2022 12:42 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《权力的游戏》前传剧集《龙之家族》先导剧集已向部分国外媒体内部放映，收获了一致好评，他们纷纷表示该剧制作精良、值得一看、会有死忠粉。“《龙之家族》试播集非常清楚地解释了它与权游的联系，介绍了该剧的核心人物，并列出了核心冲突。试播集是容易让人接受的，画面具有鲜艳色彩和细致纹理。截止目前来看，这绝对是一部有价值的续作。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 
-- 💼 [谷歌讲述从Goobuntu转向gLinux内部桌面发行版的心路历程](https://www.cnbeta.com/articles/tech/1298801.htm) | Sat Jul 30 2022 8:18 AM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;位于加州山景城的 Google 总部办公室，遍布着 Windows、Chromebook、Mac 等设备。&lt;strong&gt;但除了依靠 Linux 服务器之外，这家科技巨头其实还拥有自己的 Linux 桌面发行版。&lt;/strong&gt;尽管外界知之甚少，但 Google 一直在积极酝酿。而首个版本，就是基于 Ubuntu 改造出来的 Goobuntu 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- 💼 [北斗卫星导航独门绝技 短报文功能进入大众应用阶段](https://www.cnbeta.com/articles/tech/1298833.htm) | Sat Jul 30 2022 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在全球四大卫星导航系统中，中国的北斗卫星除了导航定位之外还有个独门绝技，那就是短报文，不需要运营商的网络就能收发短信，现在这个功能已经进入了大众应用阶段了。据报道，7月30日，北斗三号短报文通信服务成果发布会在京举行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 
-- 💂 [动画电影《数码宝贝大冒险02 The Beginning》公布](https://hot.cnbeta.com/articles/comic/1298799.htm) | Sat Jul 30 2022 8:01 AM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;今天（7月30日），《数码宝贝》官方公布了最新的动画电影《数码宝贝大冒险02 THEBEGINNING》。这是在今天举办的 DIGIFES 2022 上公布的。这部电影将继续《LAST EVOLUTION絆》的剧情，时间设定于 2012 年。官方还公布了新电影中角色成长后的设定图。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1298799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- 💂 [印尼因违反许可证规定而封锁了Steam、雅虎、PayPal等网站与服务](https://www.cnbeta.com/articles/tech/1298831.htm) | Sat Jul 30 2022 12:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;印尼已经禁止了PayPal、雅虎以及包括Epic Games和Steam在内的知名游戏网站，原因是它们没有按照最近的许可规则行事。2020年11月，所有在该国提供在线服务的国内和海外公司都必须注册。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 
-- 🚀 [Meta迎来会讲中文的CFO：冲破天花板的亚裔女性 14年Meta“老兵”](https://www.cnbeta.com/articles/tech/1298797.htm) | Sat Jul 30 2022 8:01 AM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;十四年Meta“老兵”的职场传奇。本周，一个陌生的名字闯入了硅谷科技圈人的耳朵：Susan Li。她的名字首先出现在Meta CEO 扎克伯格的个人Facebook页面上。在这篇博文里，扎克伯格宣布了两项重大人事任命：Meta 前任CFO David Wehner将成为Meta首席战略官；同一时间，扎克伯格宣布了对David的继任者、Meta 新任 CFO Susan Li的任命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- 🚀 [Starlink提高了美国区域下载速度 有用户实测突破280Mbps](https://www.cnbeta.com/articles/tech/1298829.htm) | Sat Jul 30 2022 12:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;SpaceX公司的Starlink卫星互联网服务的用户再次开始报告互联网下载速度，结果喜人。Starlink使用低地球轨道（LEO）卫星向其用户传送互联网连接，自从向公众开放以来，该服务已经有数十万用户注册使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 
-- 🎊 [和飞信停运飞信彻底告别 回忆飞信的落幕之路](https://www.cnbeta.com/articles/tech/1298795.htm) | Sat Jul 30 2022 7:56 AM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;智能手机和即时通讯软件的普及，大大的改变了人们的通讯方式，就像以前1毛钱一条的手机短信，就早已被即时通讯软件里的信息功能所代替，而短信还在，却沦落为了用户接收验证码和广告的工具了。而因为短信造就了一个拥有数亿用户的即时通讯软件——飞信，它在短信时代诞生，不过近日却传来了它即将落幕的消息，这也是个时代的终结。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- 🎊 [谍战片《铁石心肠》杀青 盖尔·加朵晒出大合影](https://hot.cnbeta.com/articles/movie/1298827.htm) | Sat Jul 30 2022 12:29 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;7月29日，演员盖尔·加朵晒出由其出演的谍战题材新片《铁石心肠》的杀青照，在经过5个月转战5个国家取景拍摄后，电影终于进入后期制作阶段。目前，《铁石心肠》的剧情还处于保密之中，有消息称，导演汤姆·哈伯将把这部电影打造成类似《007》或《碟中谍》系列的女版特工影片。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 <!-- cnbeta:END -->
 
 ## 应用资源
@@ -437,30 +471,30 @@
 
 
 <!-- zuijiastore:START -->
-- 🎓 [最佳应用-在线免费小说阅读汇总](http://www.zuijiastore.com/2429.html) | Sun Jun 05 2022 1:00 AM
-    <details><summary>展开描述 ...</summary>
-    本文主要整理的是在线小说阅读网站。 01、轻小说文库（下载：TXT） 网址：https://www.wenku8.net/index.php 02、轻之过度（下载：EPUB） 网址：http://www.lightnovel.us 03、Animex动漫（下载：EPUB/TXT） 网址：http://www.animmetox.com 04、哔哩哔哩小说（下载：TXT） 网址：https://ww [&amp;#8230;]
-    </details>
+- 🎓 [最佳应用-在线免费小说阅读汇总](http://www.zuijiastore.com/2429.html) | Sun Jun 05 2022 1:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要整理的是在线小说阅读网站。 01、轻小说文库（下载：TXT） 网址：https://www.wenku8.net/index.php 02、轻之过度（下载：EPUB） 网址：http://www.lightnovel.us 03、Animex动漫（下载：EPUB/TXT） 网址：http://www.animmetox.com 04、哔哩哔哩小说（下载：TXT） 网址：https://ww [&amp;#8230;] 
+    </details> 
 
-- 🦣 [最佳应用-视频下载、转换、压缩必备的网站](http://www.zuijiastore.com/3118.html) | Sat Jun 04 2022 12:15 AM
-    <details><summary>展开描述 ...</summary>
-    网上遇到不少喜欢的视频，但是平台禁止下载怎么办？这篇文章分享一些视频下载、转换、压缩必备的网站。 获取说明：点击右侧链接即可访问 温馨提示：如果部分打不开，可能需要特殊网络 1、YouTube视频下载：https://x2download.com/zh-tw62 2、Twitter视频下载：https://twdown.net/index.php
-    </details>
+- 🦣 [最佳应用-视频下载、转换、压缩必备的网站](http://www.zuijiastore.com/3118.html) | Sat Jun 04 2022 12:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    网上遇到不少喜欢的视频，但是平台禁止下载怎么办？这篇文章分享一些视频下载、转换、压缩必备的网站。 获取说明：点击右侧链接即可访问 温馨提示：如果部分打不开，可能需要特殊网络 1、YouTube视频下载：https://x2download.com/zh-tw62 2、Twitter视频下载：https://twdown.net/index.php 
+    </details> 
 
-- 🧑‍🏫 [最佳应用-App Store经常限免的优质软件](http://www.zuijiastore.com/3115.html) | Thu Jun 02 2022 12:58 AM
-    <details><summary>展开描述 ...</summary>
-    App Store有很多优质软件是经常会限免下载的，这篇文章我就汇总一下经常限免但很实用的iOS软件，建议收藏。 远程输入法：App Store 上的“远程输入法” &lpar;apple.com&rpar; 河马英文阅读器：App Store 上的“河马英文阅读器 &lpar;Hippo Reader&rpar;” &lpar;apple.com&rpar; 画画树专业版：App Store 上的“画画树专业版 &amp;#8211; 大师级美术绘画板” &lpar;ap [&amp;#8230;]
-    </details>
+- 🧑‍🏫 [最佳应用-App Store经常限免的优质软件](http://www.zuijiastore.com/3115.html) | Thu Jun 02 2022 12:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    App Store有很多优质软件是经常会限免下载的，这篇文章我就汇总一下经常限免但很实用的iOS软件，建议收藏。 远程输入法：App Store 上的“远程输入法” &lpar;apple.com&rpar; 河马英文阅读器：App Store 上的“河马英文阅读器 &lpar;Hippo Reader&rpar;” &lpar;apple.com&rpar; 画画树专业版：App Store 上的“画画树专业版 &amp;#8211; 大师级美术绘画板” &lpar;ap [&amp;#8230;] 
+    </details> 
 
-- 🦣 [最佳应用-浏览器值得安装的插件](http://www.zuijiastore.com/3106.html) | Wed Jun 01 2022 1:32 AM
-    <details><summary>展开描述 ...</summary>
-    浏览器安装了插件，真的会加倍提升你的工作效率，有些插件还是黑科技级别的，本文汇总一些浏览器好用的插件。 插件说明：插件默认来源于edge浏览器（免翻访问） 使用方式：安装edge浏览器，直接打开链接即可下载。 1、AdGuard 广告拦截器：AdGuard 广告拦截器 &amp;#8211; Microsoft Edge Addons 2、最棒的截图录屏插件：Awesome Screenshot 截图录屏 [&amp;#8230;]
-    </details>
+- 🦣 [最佳应用-浏览器值得安装的插件](http://www.zuijiastore.com/3106.html) | Wed Jun 01 2022 1:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    浏览器安装了插件，真的会加倍提升你的工作效率，有些插件还是黑科技级别的，本文汇总一些浏览器好用的插件。 插件说明：插件默认来源于edge浏览器（免翻访问） 使用方式：安装edge浏览器，直接打开链接即可下载。 1、AdGuard 广告拦截器：AdGuard 广告拦截器 &amp;#8211; Microsoft Edge Addons 2、最棒的截图录屏插件：Awesome Screenshot 截图录屏 [&amp;#8230;] 
+    </details> 
 
-- 🤠 [最佳应用-在线玩游戏必备的网站](http://www.zuijiastore.com/3101.html) | Wed Jun 01 2022 1:25 AM
-    <details><summary>展开描述 ...</summary>
-    疫情期间，在家办公已经成为一种常态，工作学习累了，我们就需要玩一些游戏来填补空闲时间，本文给大家汇总一些在线玩游戏必备的网站。 使用说明：点击链接即可跳转。 安装插件：如果你不想被广告打扰可以安装一些网页去广告插件。 &amp;#160; 1、小霸王-其乐无穷：https://www.yikm.net/ &amp;#160;
-    </details>
+- 🤠 [最佳应用-在线玩游戏必备的网站](http://www.zuijiastore.com/3101.html) | Wed Jun 01 2022 1:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    疫情期间，在家办公已经成为一种常态，工作学习累了，我们就需要玩一些游戏来填补空闲时间，本文给大家汇总一些在线玩游戏必备的网站。 使用说明：点击链接即可跳转。 安装插件：如果你不想被广告打扰可以安装一些网页去广告插件。 &amp;#160; 1、小霸王-其乐无穷：https://www.yikm.net/ &amp;#160; 
+    </details> 
 <!-- zuijiastore:END -->
 
 
@@ -478,225 +512,225 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM
-    <details><summary>展开描述 ...</summary>
-
-
+- 👨‍🏫 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
 	苹果电脑 macOS 系统的 LaunchPad 启动台里，软件图标很大，看起来很臃肿，每屏能放的软件图标数量也有限。&lt;/p&gt;&lt;p&gt;看到这篇博客《&lt;u&gt;&lt;a href=&quot;https://xinle.co/2016/03/12/%e5%b0%8f%e6%8a%80%e5%b7%a7%ef%bc%9amac%e7%b3%bb%e7%bb%9f%e8%b0%83%e6%95%b4launchpad%e5%9b%be%e6%a0%87%e5%a4%a7%e5%b0%8f/&quot; target=&quot;_blank&quot; title=&quot;小技巧：Mac系统调整Launchpad图标大小&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;小技巧：Mac系统调整Launchpad图标大小&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;》，分享的方法很好用。我现在 LaunchPad 变得很清爽，而且一屏放下更多软件图标，找起来也不用来回翻页了。&lt;/p&gt;&lt;p&gt;感兴趣的话直接点击上面的链接看原文吧，直接打开终端（找不到的话点击 Mac 屏幕右上角的放大镜按钮，搜索「终端」）→ 粘贴文中的命令行 → 回车搞定。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=launchpad&quot; rel=&quot;tag&quot;&gt;launchpad&lt;/a&gt;
 
+ 
+    </details> 
 
-    </details>
-
-- 🏊 [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM
-    <details><summary>展开描述 ...</summary>
-
-
+- 🏊 [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
 	苹果中国官网宣布了一个限时优惠活动：7月29日到8月1日，使用支付宝/招行/建行/工行卡，在苹果官网在线商店和 Apple Store 零售店买指定的苹果设备有限时优惠：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;iPhone 13 系列优惠 600 元&lt;/li&gt;&lt;li&gt;iPhone SE（第三代）优惠 200 元&lt;/li&gt;&lt;li&gt;iPhone12 和 iPhone12 mini 优惠 500 元&lt;/li&gt;&lt;li&gt;Apple Watch SE 优惠 200 元&lt;/li&gt;&lt;li&gt;AirPods 系列优惠 150-250 元&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;每人每个分类（手机、手表、耳机）限购两台，而且不和商务优惠、员工优惠、教育优惠等其它优惠叠加。&lt;/p&gt;&lt;p&gt;其实我觉得「再过一两个月就换代」的这个时间点有点儿尴尬。就算真的要买，拼多多百亿补贴挺香的。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
 
+ 
+    </details> 
 
-    </details>
-
-- 🦏 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM
-    <details><summary>展开描述 ...</summary>
-
-
+- 🦏 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
 	国内 Android 厂商很喜欢给照片加上机型信息水印，如果是和相机大厂合作的手机，还会打上莱卡、哈苏等相机的水印。最近小米推出了和莱卡合作的机型，拍照后能在照片底部添加莱卡图标和坐标、焦距、光圈、快门、ISO 等信息。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6701&quot; border=&quot;0&quot; alt=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; title=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; /&gt;&lt;/p&gt;&lt;p&gt;如果你也想让苹果 iPhone 拍的照片也有类似水印，可以试试这个叫「徕卡水印」的 iOS 捷径，下载地址 &lt;u&gt;&lt;a href=&quot;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&quot; target=&quot;_blank&quot; title=&quot;莱卡水印&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%258D%25B7%25E5%25BE%2584&quot; rel=&quot;tag&quot;&gt;捷径&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=shortcuts&quot; rel=&quot;tag&quot;&gt;shortcuts&lt;/a&gt;
 
+ 
+    </details> 
 
-    </details>
-
-- 🚀 [Mac技巧之苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo](http://www.mac52ipod.cn/post/apple-mac-macos-search-launcher-app-alfred-hapigo.php) | Fri Jul 22 2022 10:28 AM
-    <details><summary>展开描述 ...</summary>
-
-
+- 🚀 [Mac技巧之苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo](http://www.mac52ipod.cn/post/apple-mac-macos-search-launcher-app-alfred-hapigo.php) | Fri Jul 22 2022 10:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
 	苹果电脑 macOS 系统自带了搜索和快速启动工具 Spotlight。如果你想要更多功能，十多年来比较有名的第三方启动器工具是 &lt;u&gt;&lt;a href=&quot;/post/search-open-software-by-keyboard-alfred.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑 Mac OS X 系统上通过键盘快速搜索和启动软件的免费工具：Alfred &quot;&gt;&lt;font color=#0000FF&gt;Alfred&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。最近发现一个 Alfred 的竞争者，功能类似，扩展性也很强：HapiGo。这里有段视频介绍 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Mr4y1U7en&quot; target=&quot;_blank&quot; title=&quot;Hapigo-比肩Alfred的工具终于来了!&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1Mr4y1U7en&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=765396797&amp;bvid=BV1Mr4y1U7en&amp;cid=478586306&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;HapiGo 更详细的介绍，以及下载地址，看官网吧 &lt;u&gt;&lt;a href=&quot;https://hapigo.com/&quot; target=&quot;_blank&quot; title=&quot;苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://hapigo.com/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=alfred&quot; rel=&quot;tag&quot;&gt;alfred&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2588%25E7%258E%2587&quot; rel=&quot;tag&quot;&gt;效率&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%2594%25AE%25E7%259B%2598&quot; rel=&quot;tag&quot;&gt;键盘&lt;/a&gt;
 
+ 
+    </details> 
 
-    </details>
-
-- 🏊 [Apple Watch 用户不在微信运动里显示具体健身数据的方法](http://www.mac52ipod.cn/post/apple-watch-user-only-share-steps-to-wechat-werun.php) | Wed Jul 20 2022 11:14 AM
-    <details><summary>展开描述 ...</summary>
-
-
+- 🏊 [Apple Watch 用户不在微信运动里显示具体健身数据的方法](http://www.mac52ipod.cn/post/apple-watch-user-only-share-steps-to-wechat-werun.php) | Wed Jul 20 2022 11:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
 	我在微信运动的步数排行榜里，不仅能看到微信好友的步数，还能看到很多戴了 Apple Watch 的好友的每日具体健身数据。如果你只想和好友比比步数的话，打开 iPhone 的健康 App → 隐私 → App → 微信，关掉「体能训练」选项就行了。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6702&quot; border=&quot;0&quot; alt=&quot;Apple Watch 用户不在微信运动里显示具体健身数据的方法&quot; title=&quot;Apple Watch 用户不在微信运动里显示具体健身数据的方法&quot; /&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=applewatch&quot; rel=&quot;tag&quot;&gt;applewatch&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%25BF%2590%25E5%258A%25A8&quot; rel=&quot;tag&quot;&gt;运动&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%2581%25A5%25E8%25BA%25AB&quot; rel=&quot;tag&quot;&gt;健身&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25BE%25AE%25E4%25BF%25A1&quot; rel=&quot;tag&quot;&gt;微信&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%259A%2590%25E7%25A7%2581&quot; rel=&quot;tag&quot;&gt;隐私&lt;/a&gt;
 
-
-    </details>
+ 
+    </details> 
 <!-- mac52ipod:END -->
 ### 精品Mac应用
 
 
 <!-- xclient:START -->
-- 🦏 [Slidepad 1.3.3 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Fri Jul 29 2022 7:01 AM
-    <details><summary>展开描述 ...</summary>
-    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。
-    </details>
+- 🦏 [Slidepad 1.3.3 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Fri Jul 29 2022 7:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。 
+    </details> 
 
--  [SnapMotion 5.0.6 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Fri Jul 29 2022 6:58 AM
-    <details><summary>展开描述 ...</summary>
-    SnapMotion可以快速将截取视频中的图片，并且支持批量处理，支持导出为GIF等格式，简单易用。
-    </details>
+-  [SnapMotion 5.0.6 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Fri Jul 29 2022 6:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    SnapMotion可以快速将截取视频中的图片，并且支持批量处理，支持导出为GIF等格式，简单易用。 
+    </details> 
 
-- ⚗️ [iStat Menus 6.62.1197 优秀的系统监控工具](https://xclient.info/s/istat-menus-for-mac.html) | Fri Jul 29 2022 6:57 AM
-    <details><summary>展开描述 ...</summary>
-    iStat Menus是Mac上最优秀的系统监控工具，能够在系统菜单栏实时监控CPU、GPU、内存、硬盘、网络、温度、电池以及系统时间等，稳定且占用资源少，可以说是装机必备的软件。
-    </details>
+- ⚗️ [iStat Menus 6.62.1197 优秀的系统监控工具](https://xclient.info/s/istat-menus-for-mac.html) | Fri Jul 29 2022 6:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    iStat Menus是Mac上最优秀的系统监控工具，能够在系统菜单栏实时监控CPU、GPU、内存、硬盘、网络、温度、电池以及系统时间等，稳定且占用资源少，可以说是装机必备的软件。 
+    </details> 
 
-- 🔥 [Yate 6.10.5.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Fri Jul 29 2022 6:56 AM
-    <details><summary>展开描述 ...</summary>
-    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据
-    </details>
+- 🔥 [Yate 6.10.5.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Fri Jul 29 2022 6:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
+    </details> 
 
-- 🌋 [Notebooks 3.0 文档管理和日程备忘工具](https://xclient.info/s/notebooks.html) | Fri Jul 29 2022 6:54 AM
-    <details><summary>展开描述 ...</summary>
-    Notebooks 是一款Mac上文档管理、文本编写和日程备忘工具，，集成了编写文档、日程任务管理、文档文件管理三个功能，其中文档编写支持纯文本、HTML文本和Markdown文本等，支持统一管理常见的文档文件，如text, PDF, web pages, MS Office documents等，非常实用的一款工具！
-    </details>
+- 🌋 [Notebooks 3.0 文档管理和日程备忘工具](https://xclient.info/s/notebooks.html) | Fri Jul 29 2022 6:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    Notebooks 是一款Mac上文档管理、文本编写和日程备忘工具，，集成了编写文档、日程任务管理、文档文件管理三个功能，其中文档编写支持纯文本、HTML文本和Markdown文本等，支持统一管理常见的文档文件，如text, PDF, web pages, MS Office documents等，非常实用的一款工具！ 
+    </details> 
 <!-- xclient:END -->
 
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2022 年 7 月每日分享](https://iui.su/158/) | Fri Jul 29 2022 6:50 AM
-    <details><summary>展开描述 ...</summary>
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。7月29日onetabv2...
-    </details>
+- 🌊 [2022 年 7 月每日分享](https://iui.su/158/) | Fri Jul 29 2022 6:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。7月29日onetabv2... 
+    </details> 
 
-- 🫣 [闪电分镜](https://iui.su/1953/) | Mon Jul 25 2022 10:09 AM
-    <details><summary>展开描述 ...</summary>
-    闪电分镜影视飓风旗下的影视策划一站式解决方案。适合自媒体及up主等使用。包含Web网页和Pad端软件，为日常影视拍摄前期所遇到的分镜绘制、通告制作、场景管理、拍摄场记提供零门槛、流程化的制作方法...
-    </details>
+- 🫣 [闪电分镜](https://iui.su/1953/) | Mon Jul 25 2022 10:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    闪电分镜影视飓风旗下的影视策划一站式解决方案。适合自媒体及up主等使用。包含Web网页和Pad端软件，为日常影视拍摄前期所遇到的分镜绘制、通告制作、场景管理、拍摄场记提供零门槛、流程化的制作方法... 
+    </details> 
 
-- 🌜 [资源搜索引擎](https://iui.su/3700/) | Fri Jul 22 2022 4:43 AM
-    <details><summary>展开描述 ...</summary>
-    易搜综合网盘搜索阿里盘搜阿里云盘搜索找资源阿里云盘搜索tg中文搜索电报资源搜索引擎千帆搜索电报资源搜索引擎搜漫漫画搜索引擎影视搜影视聚合搜索引擎辅助狗无捆绑软件搜索引擎查报告可查询各行业的分析报...
-    </details>
+- 🌜 [资源搜索引擎](https://iui.su/3700/) | Fri Jul 22 2022 4:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    易搜综合网盘搜索阿里盘搜阿里云盘搜索找资源阿里云盘搜索tg中文搜索电报资源搜索引擎千帆搜索电报资源搜索引擎搜漫漫画搜索引擎影视搜影视聚合搜索引擎辅助狗无捆绑软件搜索引擎查报告可查询各行业的分析报... 
+    </details> 
 
-- 🏊 [FDM：免费下载神器](https://iui.su/707/) | Thu Jul 21 2022 10:15 AM
-    <details><summary>展开描述 ...</summary>
-    Free Download Manager（简称FDM）是一款支持Windows/安卓/Mac的免费下载工具，相较于idm和ndm的简陋洁面，FDM的UI比较舒服，同样支持多线程下载。下载文件的...
-    </details>
+- 🏊 [FDM：免费下载神器](https://iui.su/707/) | Thu Jul 21 2022 10:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    Free Download Manager（简称FDM）是一款支持Windows/安卓/Mac的免费下载工具，相较于idm和ndm的简陋洁面，FDM的UI比较舒服，同样支持多线程下载。下载文件的... 
+    </details> 
 
-- 🚦 [Resilio Sync License 授权文件下载](https://iui.su/956/) | Thu Jul 21 2022 10:03 AM
-    <details><summary>展开描述 ...</summary>
-    目前对所有版本有效，下载Resilio Sync License 授权许可证解压得到.btskey文件，点击试用，然后点击右上角的设置，在点击.btskey许可证文件导入即可。许可证下载Resi...
-    </details>
+- 🚦 [Resilio Sync License 授权文件下载](https://iui.su/956/) | Thu Jul 21 2022 10:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    目前对所有版本有效，下载Resilio Sync License 授权许可证解压得到.btskey文件，点击试用，然后点击右上角的设置，在点击.btskey许可证文件导入即可。许可证下载Resi... 
+    </details> 
 <!-- iui:END -->
 
 ### JOKER鹏少
 
 <!-- jokerps:START -->
-- 🤓 [7-Zip](https://www.jokerps.com/6187.html) | Sun Aug 08 2021 2:58 PM
-    <details><summary>展开描述 ...</summary>
-    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo-.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo-.png 512w, https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo--300x268.png 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt;
-    </details>
+- 🤓 [7-Zip](https://www.jokerps.com/6187.html) | Sun Aug 08 2021 2:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo-.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo-.png 512w, https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo--300x268.png 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt; 
+    </details> 
 
-- 🌏 [GIMP](https://www.jokerps.com/6181.html) | Sun Aug 08 2021 2:34 PM
-    <details><summary>展开描述 ...</summary>
-    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo.png 512w, https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo-300x268.png 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt;
-    </details>
+- 🌏 [GIMP](https://www.jokerps.com/6181.html) | Sun Aug 08 2021 2:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo.png 512w, https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo-300x268.png 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt; 
+    </details> 
 
-- 👹 [Listen 1](https://www.jokerps.com/6150.html) | Tue Jul 27 2021 1:40 PM
-    <details><summary>展开描述 ...</summary>
-    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo.jpg&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo.jpg 512w, https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo-300x268.jpg 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt;
-    </details>
+- 👹 [Listen 1](https://www.jokerps.com/6150.html) | Tue Jul 27 2021 1:40 PM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo.jpg&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo.jpg 512w, https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo-300x268.jpg 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt; 
+    </details> 
 
-- 🤠 [HandShaker](https://www.jokerps.com/6134.html) | Fri Jul 23 2021 2:56 AM
-    <details><summary>展开描述 ...</summary>
-    &lt;img width=&quot;400&quot; height=&quot;400&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo.png 400w, https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo-300x300.png 300w, https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo-150x150.png 150w&quot; sizes=&quot;&lpar;max-width: 400px&rpar; 100vw, 400px&quot; /&gt;
-    </details>
+- 🤠 [HandShaker](https://www.jokerps.com/6134.html) | Fri Jul 23 2021 2:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;img width=&quot;400&quot; height=&quot;400&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo.png 400w, https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo-300x300.png 300w, https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo-150x150.png 150w&quot; sizes=&quot;&lpar;max-width: 400px&rpar; 100vw, 400px&quot; /&gt; 
+    </details> 
 
-- 🙉 [X浏览器](https://www.jokerps.com/6127.html) | Thu Jul 22 2021 3:37 AM
-    <details><summary>展开描述 ...</summary>
-    &lt;img width=&quot;400&quot; height=&quot;400&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo.png 400w, https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo-300x300.png 300w, https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo-150x150.png 150w&quot; sizes=&quot;&lpar;max-width: 400px&rpar; 100vw, 400px&quot; /&gt;
-    </details>
+- 🙉 [X浏览器](https://www.jokerps.com/6127.html) | Thu Jul 22 2021 3:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;img width=&quot;400&quot; height=&quot;400&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo.png 400w, https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo-300x300.png 300w, https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo-150x150.png 150w&quot; sizes=&quot;&lpar;max-width: 400px&rpar; 100vw, 400px&quot; /&gt; 
+    </details> 
 <!-- jokerps:END -->
 
 ### v2方圆
 
 <!-- v2fy:START -->
-- 😺 [轻松从微软服务器高速下载各种版本的Windows镜像](https://v2fy.com/p/2022-07-18-download-windows-1658156978000/) | Mon Jul 18 2022 3:24 PM
-    <details><summary>展开描述 ...</summary>
-    title: 轻松从微软服务器高速下载各种版本的Windows镜像 网站地址：https://uupdump. [&amp;#8230;]
-    </details>
+- 😺 [轻松从微软服务器高速下载各种版本的Windows镜像](https://v2fy.com/p/2022-07-18-download-windows-1658156978000/) | Mon Jul 18 2022 3:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    title: 轻松从微软服务器高速下载各种版本的Windows镜像 网站地址：https://uupdump. [&amp;#8230;] 
+    </details> 
 
-- 💃 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/) | Sun Jul 10 2022 4:25 AM
-    <details><summary>展开描述 ...</summary>
-    title: Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类 [&amp;#8230;]
-    </details>
+- 💃 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/) | Sun Jul 10 2022 4:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    title: Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类 [&amp;#8230;] 
+    </details> 
 
-- 💡 [为WordPress网站提供类似GitBook的侧边目录](https://v2fy.com/p/2022-05-22-wordpress-side-1653217493000/) | Sun May 22 2022 11:06 AM
-    <details><summary>展开描述 ...</summary>
-    title: 为WordPress网站提供类似GitBook的侧边目录 为WordPress网站提供类似Git [&amp;#8230;]
-    </details>
+- 💡 [为WordPress网站提供类似GitBook的侧边目录](https://v2fy.com/p/2022-05-22-wordpress-side-1653217493000/) | Sun May 22 2022 11:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    title: 为WordPress网站提供类似GitBook的侧边目录 为WordPress网站提供类似Git [&amp;#8230;] 
+    </details> 
 
-- 🐘 [网易云音乐V4精简养老版](https://v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/) | Thu May 12 2022 12:23 PM
-    <details><summary>展开描述 ...</summary>
-    title: 网易云音乐V4精简养老版 网易云官方4.0养老版, 无广告,功能简单, 可用音乐云盘, 微信授权 [&amp;#8230;]
-    </details>
+- 🐘 [网易云音乐V4精简养老版](https://v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/) | Thu May 12 2022 12:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    title: 网易云音乐V4精简养老版 网易云官方4.0养老版, 无广告,功能简单, 可用音乐云盘, 微信授权 [&amp;#8230;] 
+    </details> 
 
-- 🪜 [想好好听歌？ QQ音乐精简版下载](https://v2fy.com/p/2022-05-11-qq-music-1652267193000/) | Wed May 11 2022 12:36 PM
-    <details><summary>展开描述 ...</summary>
-    title: 想好好听歌？ QQ音乐精简版下载 以前网易云音乐简洁好用，但现在网易云的功能超多，十分难用；而Q [&amp;#8230;]
-    </details>
+- 🪜 [想好好听歌？ QQ音乐精简版下载](https://v2fy.com/p/2022-05-11-qq-music-1652267193000/) | Wed May 11 2022 12:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    title: 想好好听歌？ QQ音乐精简版下载 以前网易云音乐简洁好用，但现在网易云的功能超多，十分难用；而Q [&amp;#8230;] 
+    </details> 
 <!-- v2fy:END -->
 
 
 ### 奔跑中的奶酪
 
 <!-- runningcheese:START -->
-- 🫶 [奶酪工具箱（2022-07-30 更新）](https://www.runningcheese.com/dh) | Thu May 26 2022 3:10 PM
-    <details><summary>展开描述 ...</summary>
-    所有内容集合在一个清单里！
-    </details>
+- 🫶 [奶酪工具箱（2022-07-30 更新）](https://www.runningcheese.com/dh) | Thu May 26 2022 3:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    所有内容集合在一个清单里！ 
+    </details> 
 
-- 🎓 [[置顶] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview) | Fri May 20 2022 4:00 AM
-    <details><summary>展开描述 ...</summary>
-    网站文章导航！
-    </details>
+- 🎓 [[置顶] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview) | Fri May 20 2022 4:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    网站文章导航！ 
+    </details> 
 
-- 😎 [全网首发，没有比这更快的视频下载方法！（2022-07-26）](https://www.runningcheese.com/onekey-video-download) | Wed May 18 2022 4:02 PM
-    <details><summary>展开描述 ...</summary>
-    关于「视频下载」可以讲的内容很多，也很有意思。 如果说文章《i14 - 视频下载》讲的是下载思路，文章《i37 [&amp;#8230;]
-    </details>
+- 😎 [全网首发，没有比这更快的视频下载方法！（2022-07-26）](https://www.runningcheese.com/onekey-video-download) | Wed May 18 2022 4:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    关于「视频下载」可以讲的内容很多，也很有意思。 如果说文章《i14 - 视频下载》讲的是下载思路，文章《i37 [&amp;#8230;] 
+    </details> 
 
-- 🤓 [各种骚操作，中文网最全 Bookmarklet 小书签](https://www.runningcheese.com/bookmarklets) | Wed May 18 2022 11:30 AM
-    <details><summary>展开描述 ...</summary>
-    最全小书签清单，没有之一。
-    </details>
+- 🤓 [各种骚操作，中文网最全 Bookmarklet 小书签](https://www.runningcheese.com/bookmarklets) | Wed May 18 2022 11:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    最全小书签清单，没有之一。 
+    </details> 
 
-- 💪 [浏览器必备，2022 年度最喜欢油猴脚本](https://www.runningcheese.com/userscripts) | Sat Apr 23 2022 4:02 AM
-    <details><summary>展开描述 ...</summary>
-    最全油猴脚本清单，没有之一。
-    </details>
+- 💪 [浏览器必备，2022 年度最喜欢油猴脚本](https://www.runningcheese.com/userscripts) | Sat Apr 23 2022 4:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    最全油猴脚本清单，没有之一。 
+    </details> 
 <!-- runningcheese:END -->
 
 ### 阿里云盘
 
 <!-- yunpan:START -->
-- 🧑‍🏫 [🖼 资源名称：#女巫的承诺 &lpar;2018&rpar; 资源简介：行走江湖迟早要还，下巴轻轻虽远必诛。脑退化祖父虽不能自理，却预感怪事将至。他的文静孙女有日收到多年不见的中...](https://t.me/yunpanpan/18947) | Sat Jul 30 2022 9:49 AM
-    <details><summary>展开描述 ...</summary>
-    &lt;p&gt;资源名称：&lt;a href=&quot;https://t.me/yunpanpan/18947?q=%23%E5%A5%B3%E5%B7%AB%E7%9A%84%E6%89%BF%E8%AF%BA&quot;&gt;#女巫的承诺&lt;/a&gt; &lpar;2018&rpar;&lt;br&gt;资源简介：行走江湖迟早要还，下巴轻轻虽远必诛。脑退化祖父虽不能自理，却预感怪事将至。他的文静孙女有日收到多年不见的中学同学邀约叙旧；儘管记忆中彼此不太稔熟，她仍决定赴约，然而到了约定的酒店，怪事随即连接发生。四人夜话般的氛围、会移动的牆壁、穿红色和服的长颈「辘轳首」女妖、裂嘴怪、猫眼妖…… 有如掉进了妖怪大辞典的世界，一切竟源于当年一个无心许下的诺言。特摄鬼才导演雨宫庆太原创故事。&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/YWyhKNPYt9y&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/YWyhKNPYt9y&lt;/a&gt;&lt;br&gt;文件大小：1.82 GB&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18947?q=%23%E7%94%B5%E5%BD%B1&quot;&gt;#电影&lt;/a&gt;&lt;br&gt;资源标签：&lt;a href=&quot;https://t.me/yunpanpan/18947?q=%23%E6%81%90%E6%80%96&quot;&gt;#恐怖&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18947?q=%231080p&quot;&gt;#1080p&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/SsrEoGrdGIjMHKhc1M_6o_ipJrAMsNvhr0anwoeA6ce2q6c9I4dRmWYzTfwL88ut9ydOGgAevn1-f7gf53A6kDN9HT5JuNwjhdnWr7KgXvrNk39mc873WSgllEVPGjBtWwPPCbNH6z7wGsJx8UPGxheJJ2GCndUXM8ko2UUIfWj1QucqThz1BeS3m4SY3d-uQew-ZbEpHT8i2xTPnTkYE4ob-5vDwfEDYSAuU3MjGuQ4WQW7xDDVFMKMrr63ZbQlvaLJIMRwPjfbDkuya8hJIKrq0keS3J2t-ZB9CEF2lT6jfhIAIkifdYxYmurbc-xpYOgUb0wtjpLMCwCT-MLdUg.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;
-    </details>
+- 🧑‍🏫 [🖼 资源名称：天才基本法 4K/1080P更新22 资源简介：该剧根据同名小说改编。讲述了少女林朝夕（张子枫 饰）由于长期仰望父亲林兆生（雷佳音 饰）和初恋裴之（...](https://t.me/yunpanpan/18955) | Sat Jul 30 2022 12:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;资源名称：天才基本法 4K/1080P更新22&lt;br&gt;&lt;br&gt;资源简介：该剧根据同名小说改编。讲述了少女林朝夕（张子枫 饰）由于长期仰望父亲林兆生（雷佳音 饰）和初恋裴之（张新成 饰）两位数学天才，从而悄悄掩埋了内心对于数学的热爱，直到经历了双时空之旅，她迸发出了超越想象的力量。在父亲老林的引领以及裴之的帮助下，林朝夕重拾信心，与伙伴们并肩作战，为了追寻真理与爱而拼尽全力。&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/JcTq8hZud7b&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/JcTq8hZud7b&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：28G&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18955?q=%23%E7%88%B1%E6%83%85&quot;&gt;#爱情&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18955?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3&quot;&gt;#雷佳音&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18955?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB&quot;&gt;#张子枫&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/Lg7bGXB3AlIf3njHc86evBp2ZmQOkxYS4f3pbcju7TTwUGqOm4haZnd0gn0KzO5funy9l8Wg8d6gba0eY4Yzpk2OfwBdWVMxghQ9cScGdraJiZRXQiDUaC2T_98NU-RZM-3PGk021hQei7X7IDp0T_lZPbdF9sGw6mTEihGpaI0atXdvVwywARQWJGZwxVElmj_YCd2s5C1fg1pRIQAbbX6JbEntaelBV3a-fLMspzaj3bcgDZTaUp3g2UKPBLtr-q7LjKhDkTXE9N6tWmVPyIyxjJhC-XXYgzfpUXTS1-DPfmBm9bmj8jwFgK0NlajwXnZYQY0-NDy04YfOwsJRAw.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
+    </details> 
 
-- 💯 [🖼 资源名称：#烈血海底城 &lpar;1989&rpar; 资源简介：三海矿物公司正在波罗地海深处进行一项为期90天的矿物开采活动，在海底探测过程中，巴兹（Daniel Stern 饰）因失...](https://t.me/yunpanpan/18946) | Sat Jul 30 2022 9:47 AM
-    <details><summary>展开描述 ...</summary>
-    &lt;p&gt;资源名称：&lt;a href=&quot;https://t.me/yunpanpan/18946?q=%23%E7%83%88%E8%A1%80%E6%B5%B7%E5%BA%95%E5%9F%8E&quot;&gt;#烈血海底城&lt;/a&gt; &lpar;1989&rpar;&lt;br&gt;资源简介：三海矿物公司正在波罗地海深处进行一项为期90天的矿物开采活动，在海底探测过程中，巴兹（Daniel Stern 饰）因失去和母船的联系，忙打误撞发现一艘海底沉船。船员伊丽莎白（Amanda Pays 饰）奉命将巴兹带回，经托马斯博士证实，这是一艘名为“利维坦”的俄罗斯商船。船员们在利维坦号上发现了几卷关于船员失踪事件的录影带，但对疏于酒精的巴兹等人来说，上好的伏特加更具吸引力。第二天起床，巴兹感到后背不适，8小时后离奇死亡。由此船员们才意识到，他们很可能将利维坦号上一种神秘恐怖的生物带了回来……&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/8JjR1ybq8tJ&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/8JjR1ybq8tJ&lt;/a&gt;&lt;br&gt;文件大小：2.93 GB&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18946?q=%23%E7%94%B5%E5%BD%B1&quot;&gt;#电影&lt;/a&gt;&lt;br&gt;资源标签：&lt;a href=&quot;https://t.me/yunpanpan/18946?q=%23%E5%8A%A8%E4%BD%9C&quot;&gt;#动作&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18946?q=%23%E5%86%92%E9%99%A9&quot;&gt;#冒险&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18946?q=%23%E6%83%8A%E6%82%9A&quot;&gt;#惊悚&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18946?q=%23%E7%A7%91%E5%B9%BB&quot;&gt;#科幻&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18946?q=%231080p&quot;&gt;#1080p&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/WskIP5OSlUw9cSYjyhLUOFoPDXj3Su0J1slFDsrU-1Jw_0p6Dvaat3Wu5ghn080xayykXoVLbj6B01RlAAlPMLhu-jFoYCCz2PSoI5Enp_s3Y5pKkhmFQX0ERqCKiWENrKjW1jReyWO8DweNsUENSu2N-TED5RiedZrBypKgI_ArWZsBuHZJJoZL-4fXustFYneou-mYeftJmJZwSEF3VBIv2ykpRz5rhXbgk2-wv0BPvzn4c-bPiS2w20fHh-bIV69OA_3CmrJXMoFoYdOiWD0efPKBctKjVxiBR16ZY3QXCaNW4Gkioy8PfSWJyUB9qKcrJF33LAt-que630MAbg.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;
-    </details>
+- 💯 [🖼 资源名称：#迷航昆仑墟 4K/1080P更新12 资源简介：民国初年，海外归来的学子丁云齐作为可以开启昆仑墟宝藏的唯一传承人，一踏进上海便成为多方势力关注的焦...](https://t.me/yunpanpan/18954) | Sat Jul 30 2022 12:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;资源名称：&lt;a href=&quot;https://t.me/yunpanpan/18954?q=%23%E8%BF%B7%E8%88%AA%E6%98%86%E4%BB%91%E5%A2%9F&quot;&gt;#迷航昆仑墟&lt;/a&gt; 4K/1080P更新12&lt;br&gt;&lt;br&gt;资源简介：民国初年，海外归来的学子丁云齐作为可以开启昆仑墟宝藏的唯一传承人，一踏进上海便成为多方势力关注的焦点，一时间杀机四伏，敌友难分。外有政府要员、军阀的威逼利诱，内有五门叛徒的图谋暗算，丁云齐多次遭受迫害身陷绝境，但每一次死里逃生之后都更加坚定了他保护昆仑墟免落贼人之手的决心。所幸丁云齐也因此结交了一帮志同道合的朋友，越来越多和丁云齐一样满怀报国兴邦志愿的正义之士在丁云齐的带领下，加入了守护昆仑墟的队伍，一同携手摧毁僵化封建观念的桎梏、腐朽的传统、乃至混乱民国的不正之风。他们相信丁云齐一定会找到昆仑墟，并将它交给新中国。&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/Nt4JMA4vnmd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/Nt4JMA4vnmd&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：17G&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18954?q=%23%E5%8A%A8%E4%BD%9C&quot;&gt;#动作&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18954?q=%23%E5%86%92%E9%99%A9&quot;&gt;#冒险&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18954?q=%23%E7%9B%97%E5%A2%93&quot;&gt;#盗墓&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18954?q=%23%E5%A4%A9%E4%B8%8B%E5%94%B1%E9%9C%B8&quot;&gt;#天下唱霸&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/fu62cNZT1zcpQos051fBmHVc5UeDZ0t8DSNpDYQFteX4U1bF1LZ66XxfqKIIj_g2lAjEgV0mSVlWku2fq-wHgRX1zFbFi8fgyuuurYckmU3-9NLb0dECWRVVLTjrqW2TQX-zLcbMrntkDBv5DrJiVfMMx5qtsY8HZgO9LbmhhRcpAZ5eVicNhp4euRcMvzIeWDcCtWbfVMQnA8t0bgoLN5lG4wGP5kdhTEX7gqxoHyXu0X6jB1pFY8kV1EBeYrXtXf7vplcriQyM2PfeTscTR9cJBB9Fnsnm5L_toMiZ4COYpQEbx6ib6kqE_oKDBJ-tApGedYe2NGiv4LBSvT4x2g.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
+    </details> 
 
-- 😺 [🖼 资源名称：#斗破苍穹 S01-S04 1080p &amp; 特别篇 资源简介：萧炎为唤醒老师药老，来到帝都参加炼药师大会，却因过人实力而被意图不轨的敌人暗算。危急关头，萧...](https://t.me/yunpanpan/18945) | Sat Jul 30 2022 9:46 AM
-    <details><summary>展开描述 ...</summary>
-    &lt;p&gt;&lt;b&gt;资源名称：&lt;/b&gt;&lt;a href=&quot;https://t.me/yunpanpan/18945?q=%23%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9&quot;&gt;&lt;b&gt;#斗破苍穹&lt;/b&gt;&lt;/a&gt; &lt;b&gt;S01-S04 1080p &amp;amp; 特别篇&lt;/b&gt;&lt;br&gt;&lt;br&gt;资源简介：萧炎为唤醒老师药老，来到帝都参加炼药师大会，却因过人实力而被意图不轨的敌人暗算。危急关头，萧炎力挽狂澜成功夺冠，维护了加玛帝国荣誉。解开心结的萧炎，迎接即将到来的三年之约……&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/hMMHMrJyvfc&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/hMMHMrJyvfc&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：43.3GB&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18945?q=%23%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9&quot;&gt;#斗破苍穹&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18945?q=%23%E5%9B%BD%E6%BC%AB&quot;&gt;#国漫&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18945?q=%23%E5%8A%A8%E7%94%BB&quot;&gt;#动画&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18945?q=%231080p&quot;&gt;#1080p&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/dra0G7ProXf8ADRwVf4fOASel0hDGBZZ89Js60C8gP1LxD4ycXP9_mxXP_XWCay2UG9_Tl4khRrOLG2M9exdPl-yxhM0nGiPs0TrYQ76cnrApxVVQnkOqu_ZOJTPvchPybLZ7iySCa-JCk_y2mM4optS45nLtJMbwj1T_j5XRtcyG1kHQhAlSlJfuKAq9gOKmYNwPtTEhchRAffuHl4G3_BK8bNrX_bPo1mJxzxYbprvWICUGehjtHIkQ65kE_NjDnUKGvSGmwLTRZMxMBIxn2gMEznVp1wWbfjdRhP_BZF9NRrBgtaZMnuq-Zge7OTZ4X03jWLKDwAGzWa0agUFHw.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;
-    </details>
+- 😺 [🖼 资源名称：#少年派2 更新21/附少年派1 资源简介：该剧讲述大学毕业在即，四位昔日同窗好友林妙妙、钱三一、邓小琪、江天昊与家庭虽各有困扰，但依旧努力前...](https://t.me/yunpanpan/18953) | Sat Jul 30 2022 12:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;资源名称：&lt;a href=&quot;https://t.me/yunpanpan/18953?q=%23%E5%B0%91%E5%B9%B4%E6%B4%BE2&quot;&gt;#少年派2&lt;/a&gt; 更新21/附少年派1&lt;br&gt;&lt;br&gt;资源简介：该剧讲述大学毕业在即，四位昔日同窗好友林妙妙、钱三一、邓小琪、江天昊与家庭虽各有困扰，但依旧努力前行的故事。&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/EtL9ybw8676&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/EtL9ybw8676&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：90G&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18953?q=%23%E5%96%9C%E5%89%A7&quot;&gt;#喜剧&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18953?q=%23%E7%88%B1%E6%83%85&quot;&gt;#爱情&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18953?q=%23%E5%BC%A0%E5%98%89%E8%AF%91&quot;&gt;#张嘉译&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18953?q=%23%E9%97%AB%E5%A6%AE&quot;&gt;#闫妮&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18953?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6&quot;&gt;#赵今麦&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/f4X9SdTC1HjuIXjevOt4zoFUA2QUh_K6dF-xUL9eBUdYredHw2hwQiH7Lt4t62LQz-uqoR0JP5nnC6CpdbEzIwtsx_rSPBggruNU2JtTTwKIawuF_kxii4RWvkgu7f7zPwba5j70af7TayAguysRGuyrZqAXi6X9PbD67EYzoGyYvfegcb1NC91Xb-y1qkHJ5QGys0G9wh3UnddRrwQfLfXC-oRSnBHDG-JyZXvOa6RV7dSsXt1kGSYYdc4QA9uFq8uDGLnWDWcJElIWSewpcBkRplBGSokXY9mdZXwRLHO14NJxPRJyPth40hGdS8ywwFfdq8r-p1ruHH4FnTofEg.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
+    </details> 
 
-- 🪄 [🖼 资源名称：🍃【#软件总汇】7月30日更新）大合集 描述：全网汇总软件资源、pc、windows、安卓、比较全，一次保存仙子都可以查看最新文件夹，每月2次更新，...](https://t.me/yunpanpan/18944) | Sat Jul 30 2022 9:43 AM
-    <details><summary>展开描述 ...</summary>
-    &lt;p&gt;资源名称：&lt;span class=&quot;emoji&quot;&gt;🍃&lt;/span&gt;【&lt;a href=&quot;https://t.me/yunpanpan/18944?q=%23%E8%BD%AF%E4%BB%B6%E6%80%BB%E6%B1%87&quot;&gt;#软件总汇&lt;/a&gt;】7月30日更新）大合集&lt;br&gt;描述：全网汇总软件资源、pc、windows、安卓、比较全，一次保存仙子都可以查看最新文件夹，每月2次更新，保存链接一劳永逸，转载无需带上出处谢谢分享&lt;br&gt;链接：&lt;a href=&quot;https://www.aliyundrive.com/s/HdPBGJAuBVt&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/HdPBGJAuBVt&lt;/a&gt;&lt;br&gt;&lt;span class=&quot;emoji&quot;&gt;📁&lt;/span&gt; 文件大小：33GB&lt;br&gt;&lt;span class=&quot;emoji&quot;&gt;🏷&lt;/span&gt; 文件类型：&lt;a href=&quot;https://t.me/yunpanpan/18944?q=%23%E8%BD%AF%E4%BB%B6&quot;&gt;#软件&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18944?q=%23%E8%B5%84%E6%BA%90&quot;&gt;#资源&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18944?q=%23%E5%AE%89%E5%8D%93&quot;&gt;#安卓&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18944?q=%23pc&quot;&gt;#pc&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18944?q=%23windows&quot;&gt;#windows&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18944?q=%23%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86&quot;&gt;#图片处理&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18944?q=%23%E7%BF%BB%E8%AF%91&quot;&gt;#翻译&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn4.telegram-cdn.org/file/GWkrwBTdESkujLKwzD_61iLebT9CYyMLr4elXkiLtwyr0cZXR4FKIzuw43rzI2XR8czKbywz5jgRo3kgSXlFMbdAELo3wfAOtBqtR2jOAKK1vLzy1uPlRESrQqOKNGP02EIVBYXMhXkggju5Ws1-phR_Cf84Tg4mCAxG0z4JIqQF_AfjFOqRNC-QPZQoow5C-5yQIbgrVAW2hwGDOeaIDdDEb12w8t3XL99CN1N0rDsYwpmXMNcYyS2LezcCc_jmyxpTBrHxzTg7gu8MlaG_nvjTpqEIYBNKJikuNCq4zaH9tuIxk8-cFw2uXCAUi329Wuq0AoMy8pLlF77dnumv6g.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;
-    </details>
+- 🪄 [🖼 资源名称：#灰影人 The Gray Man 2022 4K蓝光2160P超清 资源简介：《灰影人》由Netflix和AGBO合制，剧情讲述人称“灰影人”的寇特·詹特利（瑞恩·高斯林 ...](https://t.me/yunpanpan/18952) | Sat Jul 30 2022 10:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;&lt;b&gt;资源名称：&lt;/b&gt;&lt;a href=&quot;https://t.me/yunpanpan/18952?q=%23%E7%81%B0%E5%BD%B1%E4%BA%BA&quot;&gt;&lt;b&gt;#灰影人&lt;/b&gt;&lt;/a&gt; &lt;b&gt;The Gray Man 2022 4K蓝光2160P超清&lt;/b&gt;&lt;br&gt;&lt;br&gt;资源简介：《灰影人》由Netflix和AGBO合制，剧情讲述人称“灰影人”的寇特·詹特利（瑞恩·高斯林 饰）为中情局效命，特务代号“山岭六号”。上线唐纳德·菲茨罗伊（比利·鲍伯·松顿 饰）当初将他弄出联邦监狱，让他成为局里钦点的精锐死亡佣兵。如今风水轮流转，六号反倒沦为头号目标，中情局前同事洛伊德·汉森（克里斯·埃文斯 饰）为了铲除他，无所不用其极地发动全球围攻，特工达妮·米兰达（安娜·德·阿玛斯 饰）却总能在他千钧一发之际伸出援手。&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/u6jcWx989D9&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/u6jcWx989D9&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：19.87 GB&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18952?q=%23%E7%8A%AF%E7%BD%AA&quot;&gt;#犯罪&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18952?q=%23%E5%89%A7%E6%83%85&quot;&gt;#剧情&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18952?q=%232160P&quot;&gt;#2160P&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/Lal-cbujGGNVzYFsk9wFsotiu2LfxbQQZPBHRGL2RL5yOASGuES92bYTMEqwtfegrU67yvUm2cunLoB4JGecU9Wqt-1atpE5FKnb6F9xPz4F0nQsYKBGrz8z5VWrTI9hjjNNL0fZKqeYg_nsw3abCRjAhBip7WhYxdStLvtNxsgF0kHF3ySUQ2VAMc9dFs6_d2GI9OCZyj6Y0FFxsHj5Qb2hWTJb4WswuQ335Wg644UyJLGjMKIOIf-mjZDGdHqrd_SbTo6nbq68oUc6D9W8tN3t7xuRiF_999peCnVTRU3BQ3ZEyUEwwyi2yPe-bD7OzWgFe7-Pzbwr2R0A63CFOQ.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
+    </details> 
 
-- 🕴 [🖼 资源名称：【学之】#公务员和事业单位考试 描述：本库应该是2022年考公最全合集的资料库，2023的资料已经在路上了，考试的朋友可以用，昨晚看到有人在问啊...](https://t.me/yunpanpan/18943) | Sat Jul 30 2022 9:43 AM
-    <details><summary>展开描述 ...</summary>
-    &lt;p&gt;资源名称：【学之】&lt;a href=&quot;https://t.me/yunpanpan/18943?q=%23%E5%85%AC%E5%8A%A1%E5%91%98%E5%92%8C%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95&quot;&gt;#公务员和事业单位考试&lt;/a&gt;&lt;br&gt;描述：本库应该是2022年考公最全合集的资料库，2023的资料已经在路上了，考试的朋友可以用，昨晚看到有人在问啊不是吗？&lt;br&gt;链接：&lt;a href=&quot;https://www.aliyundrive.com/s/KZbSqqXaJbT&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/KZbSqqXaJbT&lt;/a&gt;&lt;br&gt;&lt;span class=&quot;emoji&quot;&gt;📁&lt;/span&gt; 文件大小：2.5TB&lt;br&gt;&lt;span class=&quot;emoji&quot;&gt;🏷&lt;/span&gt; 文件类型：&lt;a href=&quot;https://t.me/yunpanpan/18943?q=%23%E5%85%AC%E5%8A%A1%E5%91%98&quot;&gt;#公务员&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18943?q=%23%E8%80%83%E5%85%AC&quot;&gt;#考公&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18943?q=%23%E7%B2%89%E7%AC%94&quot;&gt;#粉笔&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18943?q=%23%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95&quot;&gt;#事业单位考试&lt;/a&gt; #980&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn4.telegram-cdn.org/file/Pscx7DAl89xVm62ejzVxZA23o0QO8OqvxSCUEV1JJfCH7h_mvbP7xAgFIHbiGipr6yC5AXIA_bcxkjjX4xSJ-WDF6dugJg0n2335jsS2JGjHKqJjPqbYFReO3eAFO-WIACmfdkMWBYeHLNK52_YT874OZ0sR_cCs6S7JmqoGdUROAjlhq4lDnf5U2ldDbsni78pcn9dS6w2Psfr09wm8DnaWt88XjEhff0mGbIxE-uRi0inlbZg6zzBMxlum_g4v4qC77ybBaJSDP9dMOWXre27kC5qEJ9FwVr_ElEeJpnbZbaN1HlRU4aL57jRisJ-gT1N2KcYUfTHtUMvIqtzcbw.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;
-    </details>
+- 🕴 [🖼 资源名称：#天堂高速 Paradise Highway 2022 4K蓝光2160P超清 资源简介：一名卡车司机被迫走私非法货物，以将她的兄弟从一个致命的监狱团伙中解救出来。随...](https://t.me/yunpanpan/18951) | Sat Jul 30 2022 10:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;&lt;b&gt;资源名称：&lt;/b&gt;&lt;a href=&quot;https://t.me/yunpanpan/18951?q=%23%E5%A4%A9%E5%A0%82%E9%AB%98%E9%80%9F&quot;&gt;&lt;b&gt;#天堂高速&lt;/b&gt;&lt;/a&gt; &lt;b&gt;Paradise Highway 2022 4K蓝光2160P超清&lt;/b&gt;&lt;br&gt;&lt;br&gt;资源简介：一名卡车司机被迫走私非法货物，以将她的兄弟从一个致命的监狱团伙中解救出来。随着联邦调查局特工的追捕，莎莉的良心受到挑战，最终的包裹竟然是一个十几岁的女孩。&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/soPvMgJdYKt&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/soPvMgJdYKt&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：9.96 GB&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18951?q=%23%E5%89%A7%E6%83%85&quot;&gt;#剧情&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18951?q=%23%E7%8A%AF%E7%BD%AA&quot;&gt;#犯罪&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18951?q=%232160P&quot;&gt;#2160P&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/KYxt5ap4B89VUYKgn6mqBJNQrPW4ovcSpy4dZqW7o3UAFc7Rg9R0bBe5XzMbSUq5VVZch3zFh1X0nuCPDarqV44tymXeU_Bt8fB-cJB2FyOLxLqSgOkmplUxStufknhmnzcI8XbV0Nfs2NzLJBC6WlFQ0Ui05kAexJuv_zEVAnaMnUJfAgPnO6RCEAmTmobHnBmq8stY8PNBN7YTgSlZiUR15ViMxmow4JeH-cZ-qXLEgcmUISC00UKkGdnHnm_qTWBX4yDegw7tDPq5XZG5FLDnU2VIyMeweBRF1XzZQPdB0B9P2H1JTbaXfwOSbZYAkROvteZwZPELnEW8b7GhGQ.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
+    </details> 
 <!-- yunpan:END -->
 
 
@@ -707,35 +741,61 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [大暑 | 一半是火焰，一半是山水](https://www.photoworld.com.cn/post/162200) | Sat Jul 23 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
+- 🤠 [大暑 | 一半是火焰，一半是山水](https://www.photoworld.com.cn/post/162200) | Sat Jul 23 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-    </details>
+- 🎃 [CSC 成员 Rob McLachlan 分享 CineAltaV 2 的使用印象](https://www.photoworld.com.cn/post/162191) | Fri Jul 22 2022 7:51 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-- 🎃 [CSC 成员 Rob McLachlan 分享 CineAltaV 2 的使用印象](https://www.photoworld.com.cn/post/162191) | Fri Jul 22 2022 7:51 AM
-    <details><summary>展开描述 ...</summary>
+- 👀 [2022 年新签约摄影师 广州·李维明·第二站报名持续进行中](https://www.photoworld.com.cn/post/162171) | Thu Jul 21 2022 9:08 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-    </details>
+- 🤔 [首发量产 200W 超快闪充，高性能旗舰 iQOO 10 系列发布](https://www.photoworld.com.cn/post/162149) | Wed Jul 20 2022 1:43 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-- 👀 [2022 年新签约摄影师 广州·李维明·第二站报名持续进行中](https://www.photoworld.com.cn/post/162171) | Thu Jul 21 2022 9:08 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
-
-- 🤔 [首发量产 200W 超快闪充，高性能旗舰 iQOO 10 系列发布](https://www.photoworld.com.cn/post/162149) | Wed Jul 20 2022 1:43 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
-
-- 👀 [温暖 “医” 瞬间——医务人员风采展示系列活动征稿启事](https://www.photoworld.com.cn/post/161993) | Mon Jul 18 2022 2:38 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
+- 👀 [温暖 “医” 瞬间——医务人员风采展示系列活动征稿启事](https://www.photoworld.com.cn/post/161993) | Mon Jul 18 2022 2:38 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 <!-- photoworld:END -->
 
 ### 视觉联盟
 
 <!-- cnu:START -->
+- 💃 [Cayetano González 人像摄影作品](http://www.cnu.cc/works/586843) | Fri Jul 29 2022 3:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;img src=&quot;http://imgoss.cnu.cc/2207/29/6c579337a1b83395a017349a72474260.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/bc8fce2881753133b0a20cabc0bcf33f.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/31e072b5d4ef3f0682dff5d6594dfac8.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/4cbfa0a443a73b26b0eabf2c84f50ab2.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/e6fc1d503f5e3c149cd89229cacad7cc.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/b252239d3f643a2e896546ecc0c3da4b.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/4303bfd624f43c5993c71fc6164ac992.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/30158c5f0a413659826d60dbaed01620.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/ebc970aae3ef354ebdef668961d3fa7d.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/31fae2e8b1fa3db0b821d03795be48e4.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/3b4613e39dda3a8aa3b021566e03e471.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/e643b96184c3325e8cbe75d088339746.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/67162430083c362aa91680044a52ba0e.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/d09e6e0b185133c28345f7fdda22effa.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/fdd01382b8683effa83eb47c134820ba.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/35fb13dea9b13d37b979227d47685436.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/713e4989f8e03c2a9d91145f50c473cf.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/3746aac2cde636ca9b256a46ca938a2b.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/2354a6a3fac6379abbc9ff76841461b6.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/c9602c40b5d63f9c930aa329e0f63cb1.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/a4cd2187277b3ed481b71d2d5909cc09.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/1ec41d7e30933eb995fdfbaa76ac1ffb.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/26254fc829033e9cb9eaaea411927f33.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/09c9047c087039f7b6ea364d45930e06.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/2ac4eec81d2e3c92a65c13a63ab61f2a.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/29/f0e9c1ece27c3853935032c2693d33d6.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt; 
+    </details> 
+
+- 🥰 [时光印记](http://www.cnu.cc/works/586756) | Thu Jul 28 2022 7:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;时光在悄悄流逝，岁月在偷偷奔跑，总会留下一些印记。&lt;br&gt;&lt;/p&gt;
+            &lt;img src=&quot;http://imgoss.cnu.cc/2207/28/1d10747348653b16bb9da408fe710c51.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/9d6bf0a807b33653ad168c8068044bee.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/b31e9b5006e23f7aac7e15de10d35d8e.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/c12c6eea84c5389da446e0444841dfe1.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/3223d2a4112d3284b4e778b16272628e.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/9b473e1e18c93329a236da6fee147b57.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/5d4a99fba64732f6b3a06c2863cfe4e9.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/f06f7499e21c31e9ba1deb7324b603cc.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/f1b75d0a712d33c5a544558b040aafa6.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/496cd70b552b37818cfa2f2e75e253d0.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/2bdf7b7608f23b32819219c01687bda7.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt; 
+    </details> 
+
+- 🥳 [玛格南摄影师Gueorgui Pinkhassov ​​​​镜头里的光与影 ​​​​](http://www.cnu.cc/works/586714) | Thu Jul 28 2022 1:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;img src=&quot;http://imgoss.cnu.cc/2207/28/d5a4657c9f9d30bebceb01f5a40210ce.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/f7dde0882d193a31ba9dbac7ae44a89b.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/c306be1c86bb37c2896588392e01de75.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/3eeb2b4af7b13d15bcbb4416b6ffcfb4.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/80dd814e04233cfa8e08091244961ccc.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/040ac25c9ccc32b396c97d37aca21888.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/2895caf580c23014bde28bb10828b2cb.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/1ec2ba003b0c3b448e4f42bdf9fe8dcc.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/6f7066c2c0b03ba8a8f1135cab87f101.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/d92099926af03cf1b05e5930252afa8f.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/7f527c502bcf3b3e9ff59e2f55dc93bd.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/b5ea74df11c2346dafb95bd7aedce0cc.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/d6e36227749436028e8fcf523edd1df0.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/8c0d3b5584273198aa7246da51928279.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/b5a3f3dc9804333e9425c45e303bb5b4.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/603fb5dc53003e0a833f5c10a8740c2a.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/2ef8cd9e82383ca2ab7d3d07237c05fa.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/28/0b16db088ed83e05beab5cb0ad3d1130.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt; 
+    </details> 
+
+- 🐻 [光与影的街头 | 摄影师Craig Whitehead](http://www.cnu.cc/works/586449) | Tue Jul 26 2022 3:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;img src=&quot;http://imgoss.cnu.cc/2207/26/f9c8cb1d2cb93202a81dc9e03ef92aea.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/1cfd744c22a73b50b6ef554c16f92a42.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/1643281f6a313a77af3b2cafca3e6cba.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/955f3eee763b3f499b43928102bef18d.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/c3ad8c87fc833f6a85b98cb6a367e534.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/da139468bcad371089e28ee7eae86835.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/72523af3624d3f718bd3ec943cf1d74f.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/0b6ffb7fef9731ed9bb04ad68bb30f0c.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/fa67129776e0307481ba8dfd19775bbd.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/5cc35a8a7adb3a95bbc4dc27f3eacd67.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/d219e3c787b432a1a7e3568694f36141.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/1fae369e084d350a8c377959e771eead.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/548731b618703c668e5413aa49d7682e.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/620e5b1743823dcdbb3232e7bc10303b.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/3b1bae768a963a8e9d99e9ccb17ffbd1.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/01ddaedae23a3d5093a3bcb578d035ce.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/3ee62c34f2b038bca1ee032961c98bb0.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/66839d22ed0334fe85c31bfd3ee856b0.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/9aadf049492b350a9d408c124f7b68e3.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/3860d1ff60ab35cf90984b1ae4cc0e7b.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/b7650a217ee93b62a51bb2531a71c984.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/26/0260d13be27332ef95a16e00c4d6ae54.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt; 
+    </details> 
+
+- 😎 [P U R E](http://www.cnu.cc/works/586375) | Mon Jul 25 2022 1:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;青葡萄味的海风夏日&amp;nbsp;&lt;/p&gt;&lt;p&gt;和@蔡九记 一起共同拍摄&amp;nbsp;&lt;/p&gt;
+            &lt;img src=&quot;http://imgoss.cnu.cc/2207/25/05f93a40fb263629b9105f313a186e68.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/b72119c067c13e269b1b7ecade5de17e.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/09f2d6ff4288354e85afc7dbbcb030f2.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/a328aac0afde3b55993470159b8e0597.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/b0d48ad357133d6f808be7e07f8c9a2f.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/371c06b7a8493c748478dfe8428b5c13.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/eef2c1f43db03ebcb78844e67b20b6a4.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/f4914b24febc33868da12958f5adb746.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/3453aa2288723683af0038955afa1e15.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/2d55571f5baa3dc19fa3645ad607dc43.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/09a61b4d76363dc4bb5995a7897416b0.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/9959273fbfbb373e8783a5e5b738d1d8.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/04db4f089bc133668986699d38bfb86d.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/f8922ded11ee31e7a4df01155da359e5.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/cf27d602cc4e3fb0af12d29f45cb36b5.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/6edc39d34207326bbad378586198af78.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/d3e9869eef3f3649be922da76d90e47c.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/f35c902a82fb3822b6406454f902c858.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/1298349bb652317cbabfc9f3acacf1ec.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/7296c68b3d7831e8bf648bedb797ac2f.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/cc7af1c7604d3e0f922d0101b2f26eb4.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/3061acb927f3311eb5eba6f4100e37a7.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src=&quot;http://imgoss.cnu.cc/2207/25/f391dfeefc63370f9521540199a61d49.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;div class=&quot;img_description&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt; 
+    </details> 
 <!-- cnu:END -->
 
 ## 搞笑趣闻
@@ -743,56 +803,56 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [美海洋局向公众求助：海底疑似人工痕迹的东西到底是啥](http://jandan.net/p/111062) | Sat Jul 30 2022 6:16 AM
-    <details><summary>展开描述 ...</summary>
-    2.5公里深处的海底，有一排排排列整齐的小洞
-    </details>
+- 🚀 [量子计算实现商业应用 为BMW解决含3854个变量的优化问题](http://jandan.net/p/111016) | Sat Jul 30 2022 12:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    QCI在6分钟内解决了BMW的优化问题，提供了规划最优解 
+    </details> 
 
-- 🙉 [以色列找到了一枚1850前的巨蟹座青铜币](http://jandan.net/p/111048) | Sat Jul 30 2022 3:46 AM
-    <details><summary>展开描述 ...</summary>
-    古人为黄金圣斗士发行的纪念币？
-    </details>
+- 🙉 [美海洋局向公众求助：海底疑似人工痕迹的东西到底是啥](http://jandan.net/p/111062) | Sat Jul 30 2022 6:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    2.5公里深处的海底，有一排排排列整齐的小洞 
+    </details> 
 
-- 🎉 [今日好价 0730](http://jandan.net/p/111066) | Sat Jul 30 2022 3:03 AM
-    <details><summary>展开描述 ...</summary>
-    ZSBD
-    </details>
+- 🎉 [以色列找到了一枚1850前的巨蟹座青铜币](http://jandan.net/p/111048) | Sat Jul 30 2022 3:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    古人为黄金圣斗士发行的纪念币？ 
+    </details> 
 
-- 🐲 [发霉啦：今天，我带着13岁的儿子去码头钓狗鲨](http://jandan.net/p/111064) | Fri Jul 29 2022 12:06 PM
-    <details><summary>展开描述 ...</summary>
-    周末愉快
-    </details>
+- 🐲 [今日好价 0730](http://jandan.net/p/111066) | Sat Jul 30 2022 3:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
+    </details> 
 
--  [美夫妇盗用身份20余年 假装间谍过家家？](http://jandan.net/p/111061) | Fri Jul 29 2022 9:24 AM
-    <details><summary>展开描述 ...</summary>
-    挺离奇的
-    </details>
+-  [发霉啦：今天，我带着13岁的儿子去码头钓狗鲨](http://jandan.net/p/111064) | Fri Jul 29 2022 12:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    周末愉快 
+    </details> 
 <!-- jandan:END -->
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Notion Book Essence Extractor - 整理您的书籍并提炼他们的知识](https://xinquji.com/posts/178351?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:36 AM
-    <details><summary>展开描述 ...</summary>
-     整理您的书籍并提炼他们的知识
-    </details>
+- 👀 [Notion Book Essence Extractor - 整理您的书籍并提炼他们的知识](https://xinquji.com/posts/178351?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:36 AM 
+    <details><summary>展开描述 ...</summary> 
+     整理您的书籍并提炼他们的知识  
+    </details> 
 
-- 🥷 [Fruitprints by Superlocal - 探索地图并收集水果](https://xinquji.com/posts/178350?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:33 AM
-    <details><summary>展开描述 ...</summary>
-     探索地图并收集水果
-    </details>
+- 🥷 [Fruitprints by Superlocal - 探索地图并收集水果](https://xinquji.com/posts/178350?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:33 AM 
+    <details><summary>展开描述 ...</summary> 
+     探索地图并收集水果  
+    </details> 
 
-- 💼 [Movio.la - 从浏览器中的文本创建真人视频](https://xinquji.com/posts/178349?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:31 AM
-    <details><summary>展开描述 ...</summary>
-     从浏览器中的文本创建真人视频
-    </details>
+- 💼 [Movio.la - 从浏览器中的文本创建真人视频](https://xinquji.com/posts/178349?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:31 AM 
+    <details><summary>展开描述 ...</summary> 
+     从浏览器中的文本创建真人视频  
+    </details> 
 
-- 🦅 [Gum - 用于构建迷人的 shell 脚本的工具](https://xinquji.com/posts/178348?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:29 AM
-    <details><summary>展开描述 ...</summary>
-     用于构建迷人的 shell 脚本的工具
-    </details>
+- 🦅 [Gum - 用于构建迷人的 shell 脚本的工具](https://xinquji.com/posts/178348?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:29 AM 
+    <details><summary>展开描述 ...</summary> 
+     用于构建迷人的 shell 脚本的工具  
+    </details> 
 
-- 😺 [Notion 6 Page Invoice Pack - 在 Notion 中设计的发票文件](https://xinquji.com/posts/178347?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:27 AM
-    <details><summary>展开描述 ...</summary>
-     在 Notion 中设计的发票文件
-    </details>
+- 😺 [Notion 6 Page Invoice Pack - 在 Notion 中设计的发票文件](https://xinquji.com/posts/178347?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:27 AM 
+    <details><summary>展开描述 ...</summary> 
+     在 Notion 中设计的发票文件  
+    </details> 
 <!-- xinquji:END -->
