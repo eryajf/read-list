@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [首发“4nm EUV”工艺 Intel 14代酷睿新增AI单元](https://www.cnbeta.com/articles/tech/1298817.htm) | Sat Jul 30 2022 11:16 AM 
+- 🕯 [谍战片《铁石心肠》杀青 盖尔·加朵晒出大合影](https://hot.cnbeta.com/articles/movie/1298827.htm) | Sat Jul 30 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel今年底将推出13代酷睿Raptor Lake，这是12的酷睿的改进版，升级8P+16E架构，最多24核32线程，其他规划变化不大，而真正架构大改的是明年的14代酷睿Meteor Lake系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月29日，演员盖尔·加朵晒出由其出演的谍战题材新片《铁石心肠》的杀青照，在经过5个月转战5个国家取景拍摄后，电影终于进入后期制作阶段。目前，《铁石心肠》的剧情还处于保密之中，有消息称，导演汤姆·哈伯将把这部电影打造成类似《007》或《碟中谍》系列的女版特工影片。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [第一款升级大版本的中端机 谷歌Pixel 6a喜提Android 13](https://www.cnbeta.com/articles/tech/1298815.htm) | Sat Jul 30 2022 11:15 AM 
+- 💼 [WhatsApp CEO:我们不会让政府读取用户短信](https://www.cnbeta.com/articles/tech/1298825.htm) | Sat Jul 30 2022 11:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月30日消息，据9to5Google报道，&lt;strong&gt;谷歌表示将于下周为Pixel 6a推送Android 13 Beta更新。&lt;/strong&gt;按照惯例，&lt;strong&gt;谷歌会在下半年推送Android 13正式版，届时Pixel 6a会率先升级尝鲜，这将是第一款获得Android 13大版本升级的中端机型。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;WhatsApp发表声明说，它不会遵守英国《在线安全法案》规定的条例。WhatsApp的首席执行官Will Cathcart告诉BBC，这家重要的即时通信软件公司不会因为任何政府命令而降低其安全性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [大批杯面巨人来袭 日清合味道联动进击的巨人广告](https://hot.cnbeta.com/articles/comic/1298813.htm) | Sat Jul 30 2022 11:11 AM 
+- 💂 [雷克萨斯车祸多名救援司机遭网暴 本人回应引网友点赞](https://www.cnbeta.com/articles/tech/1298823.htm) | Sat Jul 30 2022 11:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今日（7月30日），日清香港官方公布《合味道》联动《进击的巨人》广告宣传片：斩开杯面盖后，故事随即展开！&lt;/strong&gt;日清食品集团推出全新会员计划 – “日清食品体验馆”！顾客只要通过“日清食品体验馆”微信小程序，登记成为会员，然后扫描杯面盖底的二维码，即可赚取积分换领丰富奖赏，尽享不同礼遇及其他惊喜！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1298813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月28日，柳北高速广西贵港段，一辆雷克萨斯商务车发生事故后车门锁死，3人被困车内，过路司机救出2人，1人不幸遇难。现场视频在网上传播后，拍摄视频并喊人救援的司机，包括现场其他参与救援的司机都不同程度地被网暴。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《怪奇物语》警长扮演者：没想到这剧能拍到第二季](https://hot.cnbeta.com/articles/movie/1298811.htm) | Sat Jul 30 2022 11:10 AM 
+- 🚀 [特斯拉紧急避险立功：成功躲避实线变道大车](https://www.cnbeta.com/articles/tech/1298821.htm) | Sat Jul 30 2022 11:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美剧的运营模式很多时候会让演职人员难以判断自己的前途会是怎么样的。有一些自认为不错的剧集，偏偏就是在播映一季之后便惨遭腰斩，而也有很多原本默默无闻的作品突然便一炮打响，《怪奇物语》就属于后者。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉的紧急避险功能又立功了！7月30日，有网友上传了一段十分惊险的行车记录仪实拍视频。视频车是特斯拉，车型未知，在某高速路段行驶时，右侧有一队大货车。快要超过车队时，突然有一台大货车压着实线就向左变道，全然不顾已经快到跟前的视频车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [逃到私域贩卖的“催吐神器” 开始在电商平台拼单](https://www.cnbeta.com/articles/tech/1298809.htm) | Sat Jul 30 2022 11:10 AM 
+- 🎊 [斯科塞斯新作《韦杰号》即将登上银幕](https://hot.cnbeta.com/articles/movie/1298819.htm) | Sat Jul 30 2022 11:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;星期五下班后，唐馨雅照例乘地铁去市中心逛街。和一般女孩不同的是，她的&lt;strong&gt;背包里放着一卷透明塑胶管，那是她用来催吐的工具。&lt;/strong&gt;3个小时的时间里，唐馨雅在热闹的街道上、商场里边逛边吃，奶茶、饼干、面包……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管《花月杀手》尚未公映，老马在苹果的撮合下再度与小李合作，将知名作家David Grann的新作《The Wager: A Tale of Shipwreck, Mutiny, and Murder》搬上银幕。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
