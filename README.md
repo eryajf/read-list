@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开放域OOD主要数据集、评价指标汇总](https://juejin.cn/post/7125963722475962376) | Sat Jul 30 2022 12:58 AM 
+- 🤗 [开箱即用-使用异步加载布局来优化页面启动速度](https://juejin.cn/post/7125996361232678943) | Sat Jul 30 2022 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    in-distribution data &lpar;分布内训练数据集&rpar;、OOD test dataset （分布外测试数据集）Evaluation metrics. 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 Android 异步加载布局的几种实现 场景如下：当我们启动一个 Activity 的时候，如果此页面的布 
     </details> 
 
-- 🎡 [万字长文Python面试题，建议先收藏](https://juejin.cn/post/7125954020505550879) | Sat Jul 30 2022 12:21 AM 
+- 🎡 [无代码 AI 概览（Levity）](https://juejin.cn/post/7125994342233145352) | Sat Jul 30 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    精心整理的 Python 相关的基础知识，用于面试，或者平时复习，都是很好的！废话不多说，直接开搞 ，千千万万不要错过哦 
+    介绍 在构建我们自己的平台时，我们一直密切关注无代码 AI 领域。 我们意识到非技术人员构建定制的人工智能 
     </details> 
 
-- 🕯 [C++进阶：继承&lpar;四&rpar;](https://juejin.cn/post/7125947957391654926) | Fri Jul 29 2022 11:58 PM 
+- 🕯 [【消息中间件】在Docker下安装的RocketMQ，使用mqadmin命令报错解决](https://juejin.cn/post/7125993872269770783) | Sat Jul 30 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 一、继承中的拷贝构造函数 ✔ 测试用例一： 对于子类的拷贝构造，我们不写，编译器会默认生成。它针对 a&rpar;  
+    前言 大家好，我是小郭，之前在Docker下安装了RocketMQ以及他的管理平台，但是管理平台在运维的时候只能满足我们部分的需求，所以为了在集群运维时能够的得心应手，研究了下mqadmin的使用，没 
     </details> 
 
-- 🚀 [leetcode  114. Flatten Binary Tree to Linked List（python）](https://juejin.cn/post/7125945639266942983) | Fri Jul 29 2022 11:51 PM 
+- 🚀 [react + webpack + Service Worker 搭建离线web](https://juejin.cn/post/7125988057500614664) | Sat Jul 30 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode 114. Flatten Binary Tree to Linked List（python）考察二叉树转换成“链表”形式的二叉树的操作 
+    service worker 是什么 service workers 本质上充当 Web 应用程序、浏览器与网络（可用时）之间的代理服务器。这个 API 旨在创建有效的离线体验，它会拦截网络请求并根据 
     </details> 
 
-- 💪 [头脑风暴：关于 01 背包问题](https://juejin.cn/post/7125946303443370014) | Fri Jul 29 2022 11:51 PM 
+- 💪 [原来VSCode CLI这么有用](https://juejin.cn/post/7125987279130066981) | Sat Jul 30 2022 2:30 AM 
     <details><summary>展开描述 ...</summary> 
-    题目 有n件物品和一个最多能背重量为 w 的背包。第i件物品的重量是weight[i]，得到的价值是value[i] 。每件物品只能用一次，求解将哪些物品装入背包里物品价值总和最大。 解题思路 本题可 
+    说到VSCode CLI工具，可能大家比较陌生，因为在日常工作中它不是必须的。但鉴于它有些功能还比较实用，并且最近我在技术上的一些想法刚好可以借助它来实现，所以这篇文章来聊一聊。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
