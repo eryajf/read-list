@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [60年前老游戏《Spacewar!》登陆Analogue掌机Pocket](https://hot.cnbeta.com/articles/game/1298619.htm) | Fri Jul 29 2022 11:04 PM 
+- 🕯 [[视频]Nothing Phone（1）拆解和组装：普通用户自行维修不易](https://www.cnbeta.com/articles/tech/1298681.htm) | Sat Jul 30 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;全球首款视频游戏即将登陆 Analogue 的游戏掌机 Pocket。&lt;/strong&gt;今天，Analogue 宣布推出《Spacewar!》，这款游戏最初是为 PDP-1 微型计算机而设计的，发布时间甚至比知名游戏《Pong》还早了整整 10 年。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽说没有达到风靡全球的程度，但是 Nothing Phone（1）在推出后受到了很多消费者、媒体的关注。&lt;strong&gt;油管频道 PBK Reviews 在最新视频中对其进行了详细的拆解和组装，让你更直观的了解内部构造。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [ible推出Arivida E1：带耳机功能的负离子便携空气净化器](https://www.cnbeta.com/articles/tech/1298617.htm) | Fri Jul 29 2022 10:04 PM 
+- 💼 [HUAWEI Tag防丢精灵今日开售：99元/个 一颗电池用1年](https://www.cnbeta.com/articles/tech/1298679.htm) | Sat Jul 30 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，在法国巴黎召开的 Viva Tech 2022 大展上，ible 公司推出了全新的 Arivida E1 颈挂式无线耳机，更重要的是该耳机配备了该公司认证可穿戴离子空气净化器。&lt;/strong&gt;这款耳机配备了 ible 独有的 Breathing Pathway Eco Ion 技术，可以净化空气，减少冠状病毒、pm2.5、花粉、过敏原和细菌的潜在影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这个月初，华为召开了一场夏日新品发布会，推出了华为nova 10系列、华为P50 Pocket新配色版本等不少硬件产品。&lt;strong&gt;其中，还包括一款非常实用的HUAWEI Tag防丢精灵，但当时并没有上市。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [当年的“站长之王”醉心炒币：一晚浮亏3个亿](https://www.cnbeta.com/articles/tech/1298615.htm) | Fri Jul 29 2022 6:37 PM 
+- 💂 [扎克伯格承认：我犯了错误](https://www.cnbeta.com/articles/tech/1298677.htm) | Sat Jul 30 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大家应该都记得，前段时间比特币跌穿了。6&amp;nbsp;月的时候，直接跌破了&amp;nbsp;2&amp;nbsp;万关口。虽然之后小涨小跌的，最近才涨回&amp;nbsp;2&amp;nbsp;万。&lt;strong&gt;前阵子才一万五，上次见到这么低的数字，还是比特币没被炒起来的时候。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;北京时间7月30日消息，Meta首席执行官马克·扎克伯格告诉员工，公司对增长的计划过于乐观，错误地预计在新冠疫情期间使用量和收入会出现大幅增长，因此采用了过于激进的招聘计划。&lt;/strong&gt;本周三Meta公布了2022年第二季度的财报，财报显示Meta季度收入下滑，这是该公司上市12年以来首次。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [200万的车 撞车后打不开门？雷克萨斯这波有大问题](https://www.cnbeta.com/articles/tech/1298613.htm) | Fri Jul 29 2022 4:56 PM 
+- 🚀 [数百名顾客排队等候苹果伦敦Brompton Road零售店开幕](https://www.cnbeta.com/articles/tech/1298675.htm) | Sat Jul 30 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“ 一辆加价 40 万，落地近 200 万的雷克萨斯 LM，撞车后因车门打不开，造成一死两伤的惨痛事故 ”。这则新闻相信大伙这两天多少都有耳闻。7 月 28 日，一台雷克萨斯 LM 300h 亚洲特供版 MPV，在某路段发生严重车祸，撞上护栏，车头严重变形，车内被困三人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Apple 位于伦敦的最新零售店已于 7 月 28 日（周四）在繁华的骑士桥地区开幕。来自英国和世界各地的顾客与游客和 200 多人的零售店团队一起目睹了这一时刻。这家零售店将会举办一系列社区活动与研讨会，帮助顾客学习、创造，最大程度地利用自己的 Apple 产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [小米12S Ultra暗藏澎湃C2：一部手机 三颗自研芯片](https://www.cnbeta.com/articles/tech/1298611.htm) | Fri Jul 29 2022 4:55 PM 
+- 🎊 [调查：58%的美国受访者称不会考虑乘坐SpaceX的商业航班](https://www.cnbeta.com/articles/science/1298673.htm) | Sat Jul 30 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们知道，小米已经有了四颗自研芯片，分别是SoC芯片澎湃S1、影像芯片澎湃C1、快充芯片澎湃P1、电池管理芯片澎湃G1。最新发布的小米12S Ultra更是同时集成了澎湃P1、澎湃G1，组成“小米澎湃电池管理系统”，可以延长电池寿命，同时大幅提升充电效率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据SlashGear报道，商业太空飞行，即私人公民可以购买自己的外太空门票（例如，前往轨道度假村或月球购物中心），曾经是一种科幻元素，主要由1969年美国宇航局登月的时代精神驱动。从那时起，&lt;strong&gt;像SpaceX和蓝色起源这样的公司分别得到了亿万富翁埃隆·马斯克和杰夫·贝索斯提供的资金支持，目的是将上述梦想变成现实（尽管成本相当高）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
