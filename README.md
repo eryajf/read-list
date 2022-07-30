@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谍战片《铁石心肠》杀青 盖尔·加朵晒出大合影](https://hot.cnbeta.com/articles/movie/1298827.htm) | Sat Jul 30 2022 12:29 PM 
+- 🕯 [《龙之家族》获媒体一致好评 制作精良、会有死忠粉](https://hot.cnbeta.com/articles/movie/1298835.htm) | Sat Jul 30 2022 12:42 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《权力的游戏》前传剧集《龙之家族》先导剧集已向部分国外媒体内部放映，收获了一致好评，他们纷纷表示该剧制作精良、值得一看、会有死忠粉。“《龙之家族》试播集非常清楚地解释了它与权游的联系，介绍了该剧的核心人物，并列出了核心冲突。试播集是容易让人接受的，画面具有鲜艳色彩和细致纹理。截止目前来看，这绝对是一部有价值的续作。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [北斗卫星导航独门绝技 短报文功能进入大众应用阶段](https://www.cnbeta.com/articles/tech/1298833.htm) | Sat Jul 30 2022 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在全球四大卫星导航系统中，中国的北斗卫星除了导航定位之外还有个独门绝技，那就是短报文，不需要运营商的网络就能收发短信，现在这个功能已经进入了大众应用阶段了。据报道，7月30日，北斗三号短报文通信服务成果发布会在京举行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [印尼因违反许可证规定而封锁了Steam、雅虎、PayPal等网站与服务](https://www.cnbeta.com/articles/tech/1298831.htm) | Sat Jul 30 2022 12:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;印尼已经禁止了PayPal、雅虎以及包括Epic Games和Steam在内的知名游戏网站，原因是它们没有按照最近的许可规则行事。2020年11月，所有在该国提供在线服务的国内和海外公司都必须注册。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Starlink提高了美国区域下载速度 有用户实测突破280Mbps](https://www.cnbeta.com/articles/tech/1298829.htm) | Sat Jul 30 2022 12:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;SpaceX公司的Starlink卫星互联网服务的用户再次开始报告互联网下载速度，结果喜人。Starlink使用低地球轨道（LEO）卫星向其用户传送互联网连接，自从向公众开放以来，该服务已经有数十万用户注册使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [谍战片《铁石心肠》杀青 盖尔·加朵晒出大合影](https://hot.cnbeta.com/articles/movie/1298827.htm) | Sat Jul 30 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;7月29日，演员盖尔·加朵晒出由其出演的谍战题材新片《铁石心肠》的杀青照，在经过5个月转战5个国家取景拍摄后，电影终于进入后期制作阶段。目前，《铁石心肠》的剧情还处于保密之中，有消息称，导演汤姆·哈伯将把这部电影打造成类似《007》或《碟中谍》系列的女版特工影片。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [WhatsApp CEO:我们不会让政府读取用户短信](https://www.cnbeta.com/articles/tech/1298825.htm) | Sat Jul 30 2022 11:41 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;WhatsApp发表声明说，它不会遵守英国《在线安全法案》规定的条例。WhatsApp的首席执行官Will Cathcart告诉BBC，这家重要的即时通信软件公司不会因为任何政府命令而降低其安全性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [雷克萨斯车祸多名救援司机遭网暴 本人回应引网友点赞](https://www.cnbeta.com/articles/tech/1298823.htm) | Sat Jul 30 2022 11:18 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月28日，柳北高速广西贵港段，一辆雷克萨斯商务车发生事故后车门锁死，3人被困车内，过路司机救出2人，1人不幸遇难。现场视频在网上传播后，拍摄视频并喊人救援的司机，包括现场其他参与救援的司机都不同程度地被网暴。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [特斯拉紧急避险立功：成功躲避实线变道大车](https://www.cnbeta.com/articles/tech/1298821.htm) | Sat Jul 30 2022 11:17 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉的紧急避险功能又立功了！7月30日，有网友上传了一段十分惊险的行车记录仪实拍视频。视频车是特斯拉，车型未知，在某高速路段行驶时，右侧有一队大货车。快要超过车队时，突然有一台大货车压着实线就向左变道，全然不顾已经快到跟前的视频车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [斯科塞斯新作《韦杰号》即将登上银幕](https://hot.cnbeta.com/articles/movie/1298819.htm) | Sat Jul 30 2022 11:17 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管《花月杀手》尚未公映，老马在苹果的撮合下再度与小李合作，将知名作家David Grann的新作《The Wager: A Tale of Shipwreck, Mutiny, and Murder》搬上银幕。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
