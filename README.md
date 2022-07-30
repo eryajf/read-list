@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [BlogiNote 开发笔记——项目初始化](https://juejin.cn/post/7126183739373125662) | Sat Jul 30 2022 3:12 PM 
+- 🤗 [精通Java事务编程&lpar;4&rpar;-弱隔离级别之防止更新丢失](https://juejin.cn/post/7126191827593461773) | Sat Jul 30 2022 3:43 PM 
     <details><summary>展开描述 ...</summary> 
-    BlogiNote 是一个基于 Nuxt Content v2 开发的静态网站模板。该文章是我在开发 BlogiNote 时所做的笔记，记录了实现各种功能的思路，以及遇到的问题和相应的解决方案。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 RC和快照隔离级别主要都是为解决 只读事务遇到并发写时可以看到什么（虽然中间也涉及脏写），还没触及另一种情 
     </details> 
 
-- 🎡 [Java网络编程2](https://juejin.cn/post/7126181556141424677) | Sat Jul 30 2022 3:04 PM 
+- 🎡 [Chrome浏览器必备插件推荐](https://juejin.cn/post/7126191827715096583) | Sat Jul 30 2022 3:43 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 三、使用Socket进行数据传输 通过Socket对象，我们就可以获取到对应的I/O流进行网络数据传输：  
+    Chrome浏览器对于我们现在互联网行业已经不可或缺，其实大部分使用Chrome浏览器的人更看重的是它的强大的插件功能，几乎提供的插件无所不能。 
     </details> 
 
-- 🕯 [操作系统—经典同步问题](https://juejin.cn/post/7126180349305946120) | Sat Jul 30 2022 2:59 PM 
+- 🕯 [TypeScript 面向对象（三）](https://juejin.cn/post/7126191168458588173) | Sat Jul 30 2022 3:43 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 1、概念 1.1 进程同步与互斥 同步机制准则： 空闲让进：临界区空闲时，可以允许一个请求进入临界区的进程 
+    今天继续学习Typescript面向对象，今天将学到：可选参数和默认参数、剩余参数、重载、泛型、内置对象 
     </details> 
 
-- 🚀 [辣椒病虫害图像识别挑战赛](https://juejin.cn/post/7126178071148757005) | Sat Jul 30 2022 2:51 PM 
+- 🚀 [初识机器学习：关联规则](https://juejin.cn/post/7126189930379739166) | Sat Jul 30 2022 3:36 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 一、辣椒病虫害图像识别挑战赛简介 比赛地址：https://challenge.xfyun.cn/topi 
+    关联规则，或者关联规则学习（Association Rule Learning）是一种在大量数据点中发现隐蔽的关联关系的方法。能够利用一些有趣的量度来识别数据点集中发现的强规则。 
     </details> 
 
-- 💪 [Sentinel 规则持久化操作](https://juejin.cn/post/7126175555950477319) | Sat Jul 30 2022 2:41 PM 
+- 💪 [LeetCode N叉树系列 ～ N 叉树的最大深度](https://juejin.cn/post/7126188975198797838) | Sat Jul 30 2022 3:34 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 1-10、规则持久化 在上面演示的sentinel规则，每次服务重启，之前配置的规则就会丢失，这样之前好不 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 LeetCode N叉树系列 ～ N 叉树的最大深度 
     </details> 
 <!-- juejin:END -->
 ### 少数派
