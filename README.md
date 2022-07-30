@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开箱即用-使用异步加载布局来优化页面启动速度](https://juejin.cn/post/7125996361232678943) | Sat Jul 30 2022 3:06 AM 
+- 🤗 [Python 创建格式化字符串](https://juejin.cn/post/7126003153392107528) | Sat Jul 30 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 Android 异步加载布局的几种实现 场景如下：当我们启动一个 Activity 的时候，如果此页面的布 
+    当我们需要创建文本或文档时，我们往往希望能够将值正确格式化为结构化字符串。 Python 提供了多种选项用于正确对字符串进行格式化并呈现。本节，我们将介绍创建格式化文本时的一些常用选项。 
     </details> 
 
-- 🎡 [无代码 AI 概览（Levity）](https://juejin.cn/post/7125994342233145352) | Sat Jul 30 2022 2:58 AM 
+- 🎡 [SwiftUI100天：使用SwiftUI搭建一个剪刀石头布App（下）](https://juejin.cn/post/7126002711153098789) | Sat Jul 30 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍 在构建我们自己的平台时，我们一直密切关注无代码 AI 领域。 我们意识到非技术人员构建定制的人工智能 
+    在本章中，我们继续完成使用SwiftUI搭建一个剪刀石头布App。我们继续来完成石头剪刀布的逻辑部分，本章可能对于初学者有点难度，我们一步一步来........ 
     </details> 
 
-- 🕯 [【消息中间件】在Docker下安装的RocketMQ，使用mqadmin命令报错解决](https://juejin.cn/post/7125993872269770783) | Sat Jul 30 2022 2:56 AM 
+- 🕯 [云原生应用的概念和云原生应用的 15 个特征](https://juejin.cn/post/7125999608991318030) | Sat Jul 30 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 大家好，我是小郭，之前在Docker下安装了RocketMQ以及他的管理平台，但是管理平台在运维的时候只能满足我们部分的需求，所以为了在集群运维时能够的得心应手，研究了下mqadmin的使用，没 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 微服务架构只是一种软件架构风格，并不限制所采用的实现技术，开发团队可以自由选择最合适的技术来实现。微服务架 
     </details> 
 
-- 🚀 [react + webpack + Service Worker 搭建离线web](https://juejin.cn/post/7125988057500614664) | Sat Jul 30 2022 2:34 AM 
+- 🚀 [为什么没有参数的Math.max&lpar;&rpar;返回-无穷大？](https://juejin.cn/post/7125999223069212680) | Sat Jul 30 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-    service worker 是什么 service workers 本质上充当 Web 应用程序、浏览器与网络（可用时）之间的代理服务器。这个 API 旨在创建有效的离线体验，它会拦截网络请求并根据 
+    Math.max&lpar;&rpar; 是一个内置的JavaScript实用函数，可以从参数中确定最大的数字。 例如，让我们确定1,2 和3 这几个数字的最大值。 javascript Math.max&lpar;1, 2, 3 
     </details> 
 
-- 💪 [原来VSCode CLI这么有用](https://juejin.cn/post/7125987279130066981) | Sat Jul 30 2022 2:30 AM 
+- 💪 [如何在React中使用 useTransition&lpar;&rpar;hook函数的教程](https://juejin.cn/post/7125999032870109197) | Sat Jul 30 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-    说到VSCode CLI工具，可能大家比较陌生，因为在日常工作中它不是必须的。但鉴于它有些功能还比较实用，并且最近我在技术上的一些想法刚好可以借助它来实现，所以这篇文章来聊一聊。 
+    如何使用React useTransition&lpar;&rpar;hook 有些UI更新应该尽可能快地执行（在输入框中打字，从下拉菜单中选择一个值），而其他的UI更新可以有较低的优先级（过滤一个列表）。 直到现在，R 
     </details> 
 <!-- juejin:END -->
 ### 少数派
