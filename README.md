@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华硕推出ProArt 32寸专业显示器：4K Mini LED、120Hz高刷 售价29999元](https://www.cnbeta.com/articles/tech/1298803.htm) | Sat Jul 30 2022 8:38 AM 
+- 🕯 [首发“4nm EUV”工艺 Intel 14代酷睿新增AI单元](https://www.cnbeta.com/articles/tech/1298817.htm) | Sat Jul 30 2022 11:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于设计师、剪辑师等从事内容创作工作者来说，一款高水平的显示器必不可少，可以带来极大的助力。华硕现在就推出了一款专为创意创作使用而设计的显示器——&lt;strong&gt;ProArt创艺国度创梦32专业显示器&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel今年底将推出13代酷睿Raptor Lake，这是12的酷睿的改进版，升级8P+16E架构，最多24核32线程，其他规划变化不大，而真正架构大改的是明年的14代酷睿Meteor Lake系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [谷歌讲述从Goobuntu转向gLinux内部桌面发行版的心路历程](https://www.cnbeta.com/articles/tech/1298801.htm) | Sat Jul 30 2022 8:18 AM 
+- 💼 [第一款升级大版本的中端机 谷歌Pixel 6a喜提Android 13](https://www.cnbeta.com/articles/tech/1298815.htm) | Sat Jul 30 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;位于加州山景城的 Google 总部办公室，遍布着 Windows、Chromebook、Mac 等设备。&lt;strong&gt;但除了依靠 Linux 服务器之外，这家科技巨头其实还拥有自己的 Linux 桌面发行版。&lt;/strong&gt;尽管外界知之甚少，但 Google 一直在积极酝酿。而首个版本，就是基于 Ubuntu 改造出来的 Goobuntu 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月30日消息，据9to5Google报道，&lt;strong&gt;谷歌表示将于下周为Pixel 6a推送Android 13 Beta更新。&lt;/strong&gt;按照惯例，&lt;strong&gt;谷歌会在下半年推送Android 13正式版，届时Pixel 6a会率先升级尝鲜，这将是第一款获得Android 13大版本升级的中端机型。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [动画电影《数码宝贝大冒险02 The Beginning》公布](https://hot.cnbeta.com/articles/comic/1298799.htm) | Sat Jul 30 2022 8:01 AM 
+- 💂 [大批杯面巨人来袭 日清合味道联动进击的巨人广告](https://hot.cnbeta.com/articles/comic/1298813.htm) | Sat Jul 30 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天（7月30日），《数码宝贝》官方公布了最新的动画电影《数码宝贝大冒险02 THEBEGINNING》。这是在今天举办的 DIGIFES 2022 上公布的。这部电影将继续《LAST EVOLUTION絆》的剧情，时间设定于 2012 年。官方还公布了新电影中角色成长后的设定图。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1298799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今日（7月30日），日清香港官方公布《合味道》联动《进击的巨人》广告宣传片：斩开杯面盖后，故事随即展开！&lt;/strong&gt;日清食品集团推出全新会员计划 – “日清食品体验馆”！顾客只要通过“日清食品体验馆”微信小程序，登记成为会员，然后扫描杯面盖底的二维码，即可赚取积分换领丰富奖赏，尽享不同礼遇及其他惊喜！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1298813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Meta迎来会讲中文的CFO：冲破天花板的亚裔女性 14年Meta“老兵”](https://www.cnbeta.com/articles/tech/1298797.htm) | Sat Jul 30 2022 8:01 AM 
+- 🚀 [《怪奇物语》警长扮演者：没想到这剧能拍到第二季](https://hot.cnbeta.com/articles/movie/1298811.htm) | Sat Jul 30 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;十四年Meta“老兵”的职场传奇。本周，一个陌生的名字闯入了硅谷科技圈人的耳朵：Susan Li。她的名字首先出现在Meta CEO 扎克伯格的个人Facebook页面上。在这篇博文里，扎克伯格宣布了两项重大人事任命：Meta 前任CFO David Wehner将成为Meta首席战略官；同一时间，扎克伯格宣布了对David的继任者、Meta 新任 CFO Susan Li的任命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美剧的运营模式很多时候会让演职人员难以判断自己的前途会是怎么样的。有一些自认为不错的剧集，偏偏就是在播映一季之后便惨遭腰斩，而也有很多原本默默无闻的作品突然便一炮打响，《怪奇物语》就属于后者。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [和飞信停运飞信彻底告别 回忆飞信的落幕之路](https://www.cnbeta.com/articles/tech/1298795.htm) | Sat Jul 30 2022 7:56 AM 
+- 🎊 [逃到私域贩卖的“催吐神器” 开始在电商平台拼单](https://www.cnbeta.com/articles/tech/1298809.htm) | Sat Jul 30 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;智能手机和即时通讯软件的普及，大大的改变了人们的通讯方式，就像以前1毛钱一条的手机短信，就早已被即时通讯软件里的信息功能所代替，而短信还在，却沦落为了用户接收验证码和广告的工具了。而因为短信造就了一个拥有数亿用户的即时通讯软件——飞信，它在短信时代诞生，不过近日却传来了它即将落幕的消息，这也是个时代的终结。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;星期五下班后，唐馨雅照例乘地铁去市中心逛街。和一般女孩不同的是，她的&lt;strong&gt;背包里放着一卷透明塑胶管，那是她用来催吐的工具。&lt;/strong&gt;3个小时的时间里，唐馨雅在热闹的街道上、商场里边逛边吃，奶茶、饼干、面包……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
