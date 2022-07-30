@@ -343,29 +343,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [来一场义工旅行，就可以改变人生吗？](https://sspai.com/post/74875) | Sat Jul 30 2022 2:33 AM 
+- 👹 [任意键｜初见月迅龙、爱生气的巫妖王、奶刃三部曲及其他](https://sspai.com/post/74890) | Sat Jul 30 2022 6:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当@Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。如果你对本栏目的内容方向和呈现形式有不同的见解和主张，欢迎在评论 ...&lt;a href=&quot;https://sspai.com/post/74890&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [来一场义工旅行，就可以改变人生吗？](https://sspai.com/post/74875) | Sat Jul 30 2022 2:33 AM 
     <details><summary>展开描述 ...</summary> 
     走过沙滩、经过海洋、穿过人群，心里想着——「啊 ，这里就是我的家」。&lt;a href=&quot;https://sspai.com/post/74875&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派周报 | 本周会员内容提要；跑题：裁员语文](https://sspai.com/prime/story/pi-weekly-002) | Fri Jul 29 2022 10:11 AM 
+- 🤭 [派周报 | 本周会员内容提要；跑题：裁员语文](https://sspai.com/prime/story/pi-weekly-002) | Fri Jul 29 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
     美国科技公司在面临裁员时，又是怎样措辞和解释的呢？&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-002&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/74896) | Fri Jul 29 2022 10:03 AM 
+- 🥸 [本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/74896) | Fri Jul 29 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[英剧]尝试第三季、[日剧]石子与羽男-这种事情也好告吗？、[动画]水星领航员祝福、[动画]顶点!!!!!!!!!!!!!!!、[韩剧]Adamas、[动画]闪耀路标几则精 ...&lt;a href=&quot;https://sspai.com/post/74896&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [身体、心境到生活，练习瑜伽一年为我带来了哪些改变](https://sspai.com/post/74887) | Fri Jul 29 2022 7:34 AM 
+- 🙉 [身体、心境到生活，练习瑜伽一年为我带来了哪些改变](https://sspai.com/post/74887) | Fri Jul 29 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
     从双脚迈进垫子，再带着瑜伽精神迈出垫子走进生活，再从生活里回到垫子上，我体会到了阿斯汤伽的独特魅力：垫内垫外，皆是瑜伽。&lt;a href=&quot;https://sspai.com/post/74887&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [iOS 16 Beta 4 中值得关注的新特性](https://sspai.com/post/74861) | Fri Jul 29 2022 3:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    实时活动 Live Activities 推出 Beta 版、iPhone 支持控制其它设备，锁定屏幕继续优化…… iOS 16 Beta 4 有这些新功能值得你关注。&lt;a href=&quot;https://sspai.com/post/74861&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
