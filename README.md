@@ -306,9 +306,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何让 Chrome 只在新标签页显示书签栏 ?](https://www.v2ex.com/t/869622#reply1) | Sat Jul 30 2022 4:05 AM
-- 🤗 [个人做微型 sass 平台，支付问题](https://www.v2ex.com/t/869604#reply10) | Sat Jul 30 2022 2:07 AM
-- 🎭 [现在装 win 系统是推荐 11 还是 10 呢](https://www.v2ex.com/t/869596#reply54) | Sat Jul 30 2022 1:17 AM
+- 🥸 [如何让 Chrome 只在新标签页显示书签栏 ?](https://www.v2ex.com/t/869622#reply3) | Sat Jul 30 2022 4:05 AM
+- 🤗 [个人做微型 sass 平台，支付问题](https://www.v2ex.com/t/869604#reply12) | Sat Jul 30 2022 2:07 AM
+- 🎭 [现在装 win 系统是推荐 11 还是 10 呢](https://www.v2ex.com/t/869596#reply58) | Sat Jul 30 2022 1:17 AM
 - 🥷 [请教下用这种方式解决 import cycle 有什么弊端吗?](https://www.v2ex.com/t/869588#reply2) | Sat Jul 30 2022 12:02 AM
 - 🐵 [stackoverflow 崩了，我好痛苦😖](https://www.v2ex.com/t/869573#reply6) | Fri Jul 29 2022 3:29 PM<!-- v2ex:END -->
 
