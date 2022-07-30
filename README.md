@@ -306,11 +306,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大家觉得 umijs 难用的点在哪](https://www.v2ex.com/t/869638#reply1) | Sat Jul 30 2022 6:05 AM
-- 🤗 [前端 javascript 如何获取视频的宽高?](https://www.v2ex.com/t/869637#reply3) | Sat Jul 30 2022 5:42 AM
-- 🎭 [如何让 Chrome 只在新标签页显示书签栏 ?](https://www.v2ex.com/t/869622#reply7) | Sat Jul 30 2022 4:05 AM
-- 🥷 [个人做微型 sass 平台，支付问题](https://www.v2ex.com/t/869604#reply12) | Sat Jul 30 2022 2:07 AM
-- 🐵 [现在装 win 系统是推荐 11 还是 10 呢](https://www.v2ex.com/t/869596#reply68) | Sat Jul 30 2022 1:17 AM<!-- v2ex:END -->
+- 🥸 [怎么写一个 js 自动签到脚本](https://www.v2ex.com/t/869653#reply0) | Sat Jul 30 2022 8:03 AM
+- 🤗 [收不到谷歌注册验证码](https://www.v2ex.com/t/869647#reply9) | Sat Jul 30 2022 7:15 AM
+- 🎭 [大家觉得 umijs 难用的点在哪](https://www.v2ex.com/t/869638#reply1) | Sat Jul 30 2022 6:05 AM
+- 🥷 [前端 javascript 如何获取视频的宽高?](https://www.v2ex.com/t/869637#reply3) | Sat Jul 30 2022 5:42 AM
+- 🐵 [如何让 Chrome 只在新标签页显示书签栏 ?](https://www.v2ex.com/t/869622#reply7) | Sat Jul 30 2022 4:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
