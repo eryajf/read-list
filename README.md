@@ -306,11 +306,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [怎么写一个 js 自动签到脚本](https://www.v2ex.com/t/869653#reply0) | Sat Jul 30 2022 8:03 AM
-- 🤗 [收不到谷歌注册验证码](https://www.v2ex.com/t/869647#reply9) | Sat Jul 30 2022 7:15 AM
-- 🎭 [大家觉得 umijs 难用的点在哪](https://www.v2ex.com/t/869638#reply1) | Sat Jul 30 2022 6:05 AM
-- 🥷 [前端 javascript 如何获取视频的宽高?](https://www.v2ex.com/t/869637#reply3) | Sat Jul 30 2022 5:42 AM
-- 🐵 [如何让 Chrome 只在新标签页显示书签栏 ?](https://www.v2ex.com/t/869622#reply7) | Sat Jul 30 2022 4:05 AM<!-- v2ex:END -->
+- 🥸 [Zig 中文月刊 -- 202207](https://www.v2ex.com/t/869660#reply1) | Sat Jul 30 2022 9:04 AM
+- 🤗 [怎么写一个 js 自动签到脚本](https://www.v2ex.com/t/869653#reply0) | Sat Jul 30 2022 8:03 AM
+- 🎭 [收不到谷歌注册验证码](https://www.v2ex.com/t/869647#reply12) | Sat Jul 30 2022 7:15 AM
+- 🥷 [大家觉得 umijs 难用的点在哪](https://www.v2ex.com/t/869638#reply1) | Sat Jul 30 2022 6:05 AM
+- 🐵 [前端 javascript 如何获取视频的宽高?](https://www.v2ex.com/t/869637#reply3) | Sat Jul 30 2022 5:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
