@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Linux系列之进程管理](https://juejin.cn/post/7126093151495798797) | Sat Jul 30 2022 9:21 AM 
+- 🤗 [JVM诊断命令jcmd介绍](https://juejin.cn/post/7126095595818713124) | Sat Jul 30 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    简介 从JDK7开始，jdk提供了一个方便扩展的诊断命令jcmd，用来取代之前比较分散的jdk基础命令，如jps、jstack、jmap、jinfo等，并且jdk添加新的诊断功能，也会通过jcmd提供 
+    </details> 
+
+- 🎡 [Linux系列之进程管理](https://juejin.cn/post/7126093151495798797) | Sat Jul 30 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天。 Linux系列之进程管理 
     </details> 
 
-- 🎡 [【译】安卓多点触控介绍](https://juejin.cn/post/7126089631975604254) | Sat Jul 30 2022 9:08 AM 
+- 🕯 [iOS之”Tagged-Pointer“内存管理策略，设计的巧而小之美](https://juejin.cn/post/7126092159425462286) | Sat Jul 30 2022 9:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要研究Tagged Pointer技术，针对该技术需要解决的问题、以及在实际应用中的价值做一些简单的探讨。 如果你想要更进一步，去挖掘Tagged Pointer是如何实现的。 
+    </details> 
+
+- 🚀 [Kotlin 用Retrofit+OkHttp+协程+LiveData搭建MVVM&lpar;Jetpack&rpar;来实现网络请求&lpar;网络数据JSON解析&rpar;显示在Recycler](https://juejin.cn/post/7126091521815740447) | Sat Jul 30 2022 9:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    文章目录 一、效果图 二、项目 三、添加依赖包 四、Retrofit封装类 五、网络相关数据结构 1、返回数据最外层包装 2、单个数据结构 六、定义协程api 七、ViewModel层 八、UI层调用 
+    </details> 
+
+- 💪 [【译】安卓多点触控介绍](https://juejin.cn/post/7126089631975604254) | Sat Jul 30 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
     安卓多点触控介绍 多点触摸是指监控多个手指的触摸事件。我们可以重写（Override） View 中的 onTouchEvent 方法，或者使用 setOnTouchListener 方法来处理触摸事 
-    </details> 
-
-- 🕯 [vue-cli解决IE浏览器sockjs-client错误](https://juejin.cn/post/7126088891467038733) | Sat Jul 30 2022 9:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    问题描述 点开报错位置 网络解决方案 正确解决 降低sockjs-client的版本，他依赖描述在package-lock.json在里面，如果有这种情况出现，你的版本可能在我下方给出这个版本之上 更 
-    </details> 
-
-- 🚀 [【2022 年】崔庆才 Python3 爬虫教程 - JavaScript 逆向调试常用技巧](https://juejin.cn/post/7126085852639264805) | Sat Jul 30 2022 8:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    😀 这是爬虫专栏第 「34」 篇原创 前面一节我们了解了 JavaScript 的压缩、混淆等技术，现在越来越多的网站也已经应用了这些技术对其数据接口进行了保护，在做爬虫时如果我们遇到了这种情况，我们 
-    </details> 
-
-- 💪 [我的认知-1：潇洒都是有枷锁的](https://juejin.cn/post/7126085112973754398) | Sat Jul 30 2022 8:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    背景 2016年，我从一家工作了4年的IT公司主动提出辞职，当时已经做到管理岗位，而且有了一定股份。 离开后，我认为自己可以做一名潇洒的自由职业者，不用再受到朝九晚五的限制。 经过尝试，最终失败 
     </details> 
 <!-- juejin:END -->
 ### 少数派
