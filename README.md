@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [机器学习：sklearn中xgboost模块的XGBClassifier函数](https://juejin.cn/post/7126012972039667720) | Sat Jul 30 2022 4:10 AM 
+- 🤗 [macOS：用快速查看插件在Finder中预览源代码文件](https://juejin.cn/post/7126035461398609933) | Sat Jul 30 2022 5:37 AM 
     <details><summary>展开描述 ...</summary> 
-    常规参数 booster gbtree 树模型做为基分类器（默认），及弱学习器的类型，这里默认是cart分类回归决策树 gbliner 线性模型做为基分类器 silent silent=0时，不输出中 
+    macOS Finder提供了一种可能性，可以在不打开文件的情况下通过Quick Look预览任何类型的文件。默认情况下，Quick Look 支持最常用的文件格式，但如果你是一名开发人员，想要预览源 
     </details> 
 
-- 🎡 [webpack入门之图片、字体、文本、数据文件处理](https://juejin.cn/post/7126012733018865695) | Sat Jul 30 2022 4:09 AM 
+- 🎡 [JUnit 5和Selenium - 使用Selenium内置的`PageFactory&#39;来实现页面对象模式](https://juejin.cn/post/7126035319572398087) | Sat Jul 30 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
-    前端文件有很多种，比如图片、字体、文件、数据文件等等。这些文件在webpack中都是怎么被处理的呢？今天我们来一探究竟。 
+    Selenium是一套支持浏览器自动化的工具和库，它主要用于网络应用测试。Selenium的组件之一是Selenium WebDriver，它提供客户端库、JSON线协议（与浏览器驱动程序通信的协议） 
     </details> 
 
-- 🕯 [952. 按公因数计算最大组件大小 : 枚举质因数 + 并查集运用题](https://juejin.cn/post/7126012278222094367) | Sat Jul 30 2022 4:08 AM 
+- 🕯 [JUnit 5和Selenium - 使用Selenium内置的`PageFactory&#39;来实现页面对象模式](https://juejin.cn/post/7126035169839939620) | Sat Jul 30 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 题目描述 这是 LeetCode 上的 952. 按公因数计算最大组件大小 ，难度为 困难。 Tag :  
+    Selenium是一套支持浏览器自动化的工具和库，它主要用于网络应用测试。Selenium的组件之一是Selenium WebDriver，它提供客户端库、JSON线协议（与浏览器驱动程序通信的协议） 
     </details> 
 
-- 🚀 [分布式事务解决方案之TCC](https://juejin.cn/post/7126011880123924510) | Sat Jul 30 2022 4:07 AM 
+- 🚀 [JUnit 5和Selenium - 改进项目配置的详细指南](https://juejin.cn/post/7126034522528808990) | Sat Jul 30 2022 5:33 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇主要介绍了分布式事务解决方案之TCC，以及TCC需要注意的三种异常处理情况：空回滚、幂等、悬挂。快来一起学习吧！ 
+    Selenium是一套支持浏览器自动化的工具和库，它主要用于网络应用测试。Selenium的组件之一是Selenium WebDriver，它提供客户端库、JSON线协议（与浏览器驱动程序通信的协议） 
     </details> 
 
-- 💪 [SQL 26计算25岁以上和以下的用户数量](https://juejin.cn/post/7126011105331118116) | Sat Jul 30 2022 4:03 AM 
+- 💪 [JUnit 5和Selenium - 改进项目配置](https://juejin.cn/post/7126034490450771981) | Sat Jul 30 2022 5:33 AM 
     <details><summary>展开描述 ...</summary> 
-    SQL 26计算25岁以上和以下的用户数量 携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 1、题目📑 现在运营想要将用户划分为25岁以下和25岁及以上两 
+    Selenium是一套支持浏览器自动化的工具和库，它主要用于网络应用测试。Selenium的组件之一是Selenium WebDriver，它提供客户端库、JSON线协议（与浏览器驱动程序通信的协议） 
     </details> 
 <!-- juejin:END -->
 ### 少数派
