@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Notion Book Essence Extractor - 整理您的书籍并提炼他们的知识](https://xinquji.com/posts/178351?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:36 AM 
+- 👀 [Albato: Lifetime Deals - 在任何云应用程序之间构建无代码 API 自动化！ #LTD](https://xinquji.com/posts/178359?utm_campaign=xinquji-rss) | Sun Jul 31 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     整理您的书籍并提炼他们的知识  
+     在任何云应用程序之间构建无代码 API 自动化！ #LTD  
     </details> 
 
-- 🥷 [Fruitprints by Superlocal - 探索地图并收集水果](https://xinquji.com/posts/178350?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:33 AM 
+- 🥷 [Gamify your Habit Tracker - 通过简单而有趣的系统保持动力。](https://xinquji.com/posts/178358?utm_campaign=xinquji-rss) | Sun Jul 31 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     探索地图并收集水果  
+     通过简单而有趣的系统保持动力。  
     </details> 
 
-- 💼 [Movio.la - 从浏览器中的文本创建真人视频](https://xinquji.com/posts/178349?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:31 AM 
+- 💼 [SaaS Funding Napkin 2022 - 2022 年在 SaaS 中筹集资金需要什么？](https://xinquji.com/posts/178357?utm_campaign=xinquji-rss) | Sun Jul 31 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     从浏览器中的文本创建真人视频  
+     2022 年在 SaaS 中筹集资金需要什么？  
     </details> 
 
-- 🦅 [Gum - 用于构建迷人的 shell 脚本的工具](https://xinquji.com/posts/178348?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:29 AM 
+- 🦅 [HivePayroll Calculate Income Tax - 通过几个简单的步骤计算您的收入所得税](https://xinquji.com/posts/178356?utm_campaign=xinquji-rss) | Sun Jul 31 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     用于构建迷人的 shell 脚本的工具  
+     通过几个简单的步骤计算您的收入所得税  
     </details> 
 
-- 😺 [Notion 6 Page Invoice Pack - 在 Notion 中设计的发票文件](https://xinquji.com/posts/178347?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:27 AM 
+- 😺 [Fateshift - 制作带有积极肯定的精美视频](https://xinquji.com/posts/178355?utm_campaign=xinquji-rss) | Sun Jul 31 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     在 Notion 中设计的发票文件  
+     制作带有积极肯定的精美视频  
     </details> 
 <!-- xinquji:END -->
