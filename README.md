@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[视频]Nothing Phone（1）拆解和组装：普通用户自行维修不易](https://www.cnbeta.com/articles/tech/1298681.htm) | Sat Jul 30 2022 1:47 AM 
+- 🕯 [“1英寸大底”真的有1英寸吗？小米12S Ultra拆解](https://www.cnbeta.com/articles/tech/1298747.htm) | Sat Jul 30 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽说没有达到风靡全球的程度，但是 Nothing Phone（1）在推出后受到了很多消费者、媒体的关注。&lt;strong&gt;油管频道 PBK Reviews 在最新视频中对其进行了详细的拆解和组装，让你更直观的了解内部构造。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在摄影这个领域，不少人都信奉“一寸大底一寸强”、“底大一级压死人”这样的理念。&lt;strong&gt;作为第三款拥有 1 英寸大底的手机，小米 12S Ultra 的 CMOS 传感器真的有 1 英寸？&lt;/strong&gt;知名油管频道 JerryRigEverything 就对该机进行了拆解，并进行了测量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [HUAWEI Tag防丢精灵今日开售：99元/个 一颗电池用1年](https://www.cnbeta.com/articles/tech/1298679.htm) | Sat Jul 30 2022 1:45 AM 
+- 💼 [美FAA批准波音公司的检查和修改计划 以恢复787梦想客机的交付](https://www.cnbeta.com/articles/tech/1298745.htm) | Sat Jul 30 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这个月初，华为召开了一场夏日新品发布会，推出了华为nova 10系列、华为P50 Pocket新配色版本等不少硬件产品。&lt;strong&gt;其中，还包括一款非常实用的HUAWEI Tag防丢精灵，但当时并没有上市。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据两位熟悉情况的消息人士向路透社透露，&lt;strong&gt;美国联邦航空管理局（FAA）于7月29日批准了波音公司的检查和修改计划，以恢复787梦想客机的交付。&lt;/strong&gt;据路透社消息，经过广泛的审议，FAA批准了波音的建议，这应该允许波音在2021年5月停止交付后于8月恢复交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [扎克伯格承认：我犯了错误](https://www.cnbeta.com/articles/tech/1298677.htm) | Sat Jul 30 2022 1:44 AM 
+- 💂 [MLID：泄露路线图似乎暗示了英特尔Arc GPU的发布延期](https://www.cnbeta.com/articles/tech/1298743.htm) | Sat Jul 30 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;北京时间7月30日消息，Meta首席执行官马克·扎克伯格告诉员工，公司对增长的计划过于乐观，错误地预计在新冠疫情期间使用量和收入会出现大幅增长，因此采用了过于激进的招聘计划。&lt;/strong&gt;本周三Meta公布了2022年第二季度的财报，财报显示Meta季度收入下滑，这是该公司上市12年以来首次。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;此前尽管 Intel 已经确认、甚至披露了有关其即将推出的台式机 GPU 的一些细节，但外界尚不清楚它们的确切发布日期、规格、以及定价。&lt;/strong&gt;而在周五发布的新一期视频中，Moore&amp;#39;s Law Is Dead 聊到了最新泄露的英特尔 Arc GPU 路线图，指出蓝厂新显卡似乎在发布前的最后一刻又被推迟了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [数百名顾客排队等候苹果伦敦Brompton Road零售店开幕](https://www.cnbeta.com/articles/tech/1298675.htm) | Sat Jul 30 2022 1:44 AM 
+- 🚀 [超新星爆炸使Zeta Ophiuchi以10万英里/小时的速度在太空中急速飞行](https://www.cnbeta.com/articles/science/1298741.htm) | Sat Jul 30 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Apple 位于伦敦的最新零售店已于 7 月 28 日（周四）在繁华的骑士桥地区开幕。来自英国和世界各地的顾客与游客和 200 多人的零售店团队一起目睹了这一时刻。这家零售店将会举办一系列社区活动与研讨会，帮助顾客学习、创造，最大程度地利用自己的 Apple 产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Zeta Ophiuchi是一颗单一的恒星，它可能曾经有一颗伴星，但在它变成超新星时被摧毁了。在Spitzer（绿色和红色）和Chandra（蓝色）的数据中可以看到，&lt;strong&gt;超新星爆炸使Zeta Ophiuchi在太空中急速飞行。&lt;/strong&gt;钱德拉X射线天文台探测到的X射线来自于被冲击波的影响加热到数百万度的气体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [调查：58%的美国受访者称不会考虑乘坐SpaceX的商业航班](https://www.cnbeta.com/articles/science/1298673.htm) | Sat Jul 30 2022 1:39 AM 
+- 🎊 [前Xbox总裁称公司鼓励主机战争以“互相挑战”](https://hot.cnbeta.com/articles/game/1298739.htm) | Sat Jul 30 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据SlashGear报道，商业太空飞行，即私人公民可以购买自己的外太空门票（例如，前往轨道度假村或月球购物中心），曾经是一种科幻元素，主要由1969年美国宇航局登月的时代精神驱动。从那时起，&lt;strong&gt;像SpaceX和蓝色起源这样的公司分别得到了亿万富翁埃隆·马斯克和杰夫·贝索斯提供的资金支持，目的是将上述梦想变成现实（尽管成本相当高）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前 Xbox 老板 Peter Moore 透露了一个有趣的见解，即微软如何鼓励 Xbox 360 和 PS3 之间的主机大战，而不是在玩家之间制造分裂。在接受Front Office Sports 的采访中，摩尔解释说Xbox 认为那个时代的主机大战有利于健康的竞争。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
