@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [创新技术为过氧化物酶-硅串联太阳能电池提供巨大的性能提升](https://www.cnbeta.com/articles/science/1298761.htm) | Sat Jul 30 2022 6:19 AM 
+- 🕯 [英特尔第13代Raptor Lake移动版CPU确认将于2022年底推出](https://www.cnbeta.com/articles/tech/1298789.htm) | Sat Jul 30 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;阿卜杜拉国王科技大学（KAUST）的研究人员发现，在多层过氧化物-硅串联太阳能电池中插入一个金属氟化物层可以阻止电荷重组并提高性能。&lt;/strong&gt;在一个设备中结合了过氧化物和硅基子电池的串联太阳能电池有望比其传统的单结硅竞争对手更好地捕捉阳光并将其转化为电能，而且它们预计将以更低的成本实现这一目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔最近在其2022年第二季度财报电话会议上确认，第13代Raptor Lake移动CPU将在今年晚些时候推出。第13代CPU将有两个版本，分别是桌面版和移动版，都将在今年下半年发布，比第12代Core Alder Lake移动处理器的移动版晚一年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [机器人学会玩橡皮泥 - 仅凭学习10分钟的数据就比人强](https://www.cnbeta.com/articles/science/1298759.htm) | Sat Jul 30 2022 6:17 AM 
+- 💼 [概览地区名人：Topi Tjukanov借维基数据打造可视化交互地图](https://hot.cnbeta.com/articles/funny/1298787.htm) | Sat Jul 30 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们中的许多人在偶然发现一堆由水、盐和面粉组成的荧光、橡胶混合物时，都会感到一种来自内心深处的喜悦，这种混合物名叫橡皮泥&lpar;即使这种情况在成年后很少发生）。虽然捏橡皮泥对两岁的孩子来说很有趣，也很容易，但这种没有形状的淤泥对机器人来说却相当难处理。对于刚性物体，机器已经变得越来越可靠，但操纵柔软的、可变形的物体却有一长串的技术挑战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Mapbox 地理学家兼高级地图设计师 Topi Tjukanov，刚刚将文化、科学、领导力和体育等领域的不同影响力人士，放置到了一份交互式的“交叉验证可视化名人数据库”中。&lt;strong&gt;如果你想要了解自己家乡或特定地区有哪些知名人士，不妨移步至 noteble-people 去领略一下。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1298787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美国特勤局可能禁用iMessages 以避免重复2021年1月6日的争议](https://www.cnbeta.com/articles/tech/1298757.htm) | Sat Jul 30 2022 6:12 AM 
+- 💂 [台积电发起“营业秘密注册制度同学会” 以每年促成至少3家企业建立该制度为目标](https://www.cnbeta.com/articles/tech/1298785.htm) | Sat Jul 30 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国特勤局正在考虑关闭员工在其工作用的iPhone上发送iMessages的功能，希望能避免重复目前困扰该机构的与1月6日国会骚乱有关的删除短信的争议。特勤局发言人安东尼-古列尔米说：&amp;quot;这实际上是我们正在密切关注的事情。局长詹姆斯-默里已下令进行一项基准研究，以进一步研究禁用iMessage的可行性，以及它是否会产生任何业务影响。&amp;quot;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月29日台媒报道称，晶圆代工龙头台积电发起“营业秘密注册制度同学会”。据悉，第一次同学会的成员除台积电外，还包括5家已建构并开始实施营业秘密注册制度、以及4家正积极评估规画建立此制度的公司，总计有10家企业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Minisforum推出NUCXI5与NUCXI7超薄台式主机 售859美元起](https://www.cnbeta.com/articles/tech/1298755.htm) | Sat Jul 30 2022 5:20 AM 
+- 🚀 [豆神教育7.28亿贷款逾期 办公大楼重要子公司都被抵押了](https://www.cnbeta.com/articles/tech/1298783.htm) | Sat Jul 30 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着硬件性能的快速发展，桌面空间局促的消费者们，对紧凑型台式主机的接纳程度也在与日俱增。&lt;strong&gt;本文要为大家介绍的，就是来自 Minisforum 的 NUCXI5 与 NUCXI7 超薄台式主机。&lt;/strong&gt;尽管市售竞品大多只集成了核芯显卡，但 Minisforum 还是为大家带来了基于英伟达 GeForce RTX 30 系列独显的选项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，豆神教育公告显示，公司因贷款逾期，银行向法院提起了诉讼。此次涉及的借款本金约7.28亿元，银行经计算后合计支付的利息、罚息和复利约7.68亿元。据豆神教育披露，此次贷款抵押的包括公司的办公大楼、董事长持有的部分股票，以及两家重要子公司的股票。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [DataHerald：COVID大流行导致苹果零售商店客流恢复艰难](https://www.cnbeta.com/articles/tech/1298753.htm) | Sat Jul 30 2022 4:44 AM 
+- 🎊 [[评论]微信安装包膨胀575倍的背后 是整个科技行业的阳谋](https://www.cnbeta.com/articles/tech/1298781.htm) | Sat Jul 30 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;DataHerald 数据显示，COVID-19 大流行对零售商店造成了沉重的打击。&lt;strong&gt;出于对疫病传播的顾虑，许多城市都曾宣布保持社交疏离和鼓励居家办公的政策，直接导致前往实体零售门店的客流量也出现了锐减。&lt;/strong&gt;即使作为全球最有价值的企业之一，拥有极高品牌忠诚度的苹果公司，也难以迎来快速的恢复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;有没有人跟我一样，换手机是因为内存不够用了。有数据显示，卡顿和存储不够是中国手机用户主动换机的主要原因，占比高达42.9%。都说超市冰柜里躺着“雪糕刺客”，我感觉现在手机里的“App刺客”，背刺起来伤害程度一点不低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
