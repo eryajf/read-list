@@ -275,29 +275,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf周报 | 51款应用遭上海通信管理局通报；大数据杀熟将遭严惩；美国与英国达成数据互通协议；Web3经济损失达历史新高](https://www.freebuf.com/articles/340597.html) | Fri Jul 29 2022 9:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    各位Buffer周末好，以下是本周「FreeBuf周报」。 
+    </details> 
+
 - 🦄 [企业外包的安全风险及应对策略 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/340581.html) | Fri Jul 29 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
     在安全环节，外包往往会成为薄弱的一环。外包团队究竟会为企业带来哪些安全风险？我们又该如何应对外包所带来的问题？ 
     </details> 
 
-- 🦄 [美预计将扩大与乌克兰的网络安全伙伴关系](https://www.freebuf.com/news/340544.html) | Fri Jul 29 2022 5:36 AM 
+- 🦅 [美预计将扩大与乌克兰的网络安全伙伴关系](https://www.freebuf.com/news/340544.html) | Fri Jul 29 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
     美国政府的网络安全机构已与其乌克兰网络安全机构签署了一项关于在网络安全方面加强合作的协议。 
     </details> 
 
-- 🦅 [暨南大学信息技术研究所招聘网络安全技术人员计划](https://www.freebuf.com/jobs/340608.html) | Fri Jul 29 2022 5:00 AM 
+- 🪄 [暨南大学信息技术研究所招聘网络安全技术人员计划](https://www.freebuf.com/jobs/340608.html) | Fri Jul 29 2022 5:00 AM 
     <details><summary>展开描述 ...</summary> 
     暨南大学信息技术研究所招聘网络安全服务项目经理、网络技术支持工程师、网络安全工程师&lpar;攻防对抗方向）等 
     </details> 
 
-- 🪄 [微软称发现奥地利间谍团伙，利用Windows和Adobe 0day攻击欧洲组织](https://www.freebuf.com/articles/system/340560.html) | Fri Jul 29 2022 4:04 AM 
+- 💻 [微软称发现奥地利间谍团伙，利用Windows和Adobe 0day攻击欧洲组织](https://www.freebuf.com/articles/system/340560.html) | Fri Jul 29 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
     微软安全和威胁情报团队称发现一家奥地利公司销售间谍软件DSIRF，该软件是基于未知的Windows漏洞开发。 
-    </details> 
-
-- 💻 [谷歌禁用第三方Cookies计划再次推迟](https://www.freebuf.com/news/340535.html) | Fri Jul 29 2022 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    谷歌在本周周三表示，它再次将暂缓禁用Chrome网络浏览器中的第三方cookies的计划。 
     </details> 
 <!-- freebuf:END -->
 
