@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Raja Koduri澄清Arc GPU跳票传闻 AXG年底前新推四条产品线](https://www.cnbeta.com/articles/tech/1298751.htm) | Sat Jul 30 2022 4:10 AM 
+- 🕯 [DataHerald：COVID大流行导致苹果零售商店客流恢复艰难](https://www.cnbeta.com/articles/tech/1298753.htm) | Sat Jul 30 2022 4:44 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;DataHerald 数据显示，COVID-19 大流行对零售商店造成了沉重的打击。&lt;strong&gt;出于对疫病传播的顾虑，许多城市都曾宣布保持社交疏离和鼓励居家办公的政策，直接导致前往实体零售门店的客流量也出现了锐减。&lt;/strong&gt;即使作为全球最有价值的企业之一，拥有极高品牌忠诚度的苹果公司，也难以迎来快速的恢复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Raja Koduri澄清Arc GPU跳票传闻 AXG年底前新推四条产品线](https://www.cnbeta.com/articles/tech/1298751.htm) | Sat Jul 30 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近几天，英特尔一直被各种负面传闻所环绕。比如这家芯片巨头可能正在考虑推迟、甚至砍掉当前尚不成熟的图形产品线。&lt;strong&gt;不过英特尔加速计算系统和图形事业部（AXG）副总裁 Raja Korudi 刚刚在 Twitter 上出面澄清，表示该公司仍致力于既有的路线图，&lt;/strong&gt;并将在今年晚些时候推出四条新产品线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [招聘信息暗示新作《索尼克》手游或正在开发中](https://hot.cnbeta.com/articles/game/1298749.htm) | Sat Jul 30 2022 3:58 AM 
+- 💂 [招聘信息暗示新作《索尼克》手游或正在开发中](https://hot.cnbeta.com/articles/game/1298749.htm) | Sat Jul 30 2022 3:58 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;HARDlight 是一家总部位于英国的游戏开发商，它一直是世嘉欧洲分公司的一部分。该工作室以已发布的多款《刺猬索尼克》手机游戏而闻名，例如多人赛车游戏《SonicForces Speed Battle》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“1英寸大底”真的有1英寸吗？小米12S Ultra拆解](https://www.cnbeta.com/articles/tech/1298747.htm) | Sat Jul 30 2022 3:38 AM 
+- 🚀 [“1英寸大底”真的有1英寸吗？小米12S Ultra拆解](https://www.cnbeta.com/articles/tech/1298747.htm) | Sat Jul 30 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在摄影这个领域，不少人都信奉“一寸大底一寸强”、“底大一级压死人”这样的理念。&lt;strong&gt;作为第三款拥有 1 英寸大底的手机，小米 12S Ultra 的 CMOS 传感器真的有 1 英寸？&lt;/strong&gt;知名油管频道 JerryRigEverything 就对该机进行了拆解，并进行了测量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美FAA批准波音公司的检查和修改计划 以恢复787梦想客机的交付](https://www.cnbeta.com/articles/tech/1298745.htm) | Sat Jul 30 2022 3:34 AM 
+- 🎊 [美FAA批准波音公司的检查和修改计划 以恢复787梦想客机的交付](https://www.cnbeta.com/articles/tech/1298745.htm) | Sat Jul 30 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据两位熟悉情况的消息人士向路透社透露，&lt;strong&gt;美国联邦航空管理局（FAA）于7月29日批准了波音公司的检查和修改计划，以恢复787梦想客机的交付。&lt;/strong&gt;据路透社消息，经过广泛的审议，FAA批准了波音的建议，这应该允许波音在2021年5月停止交付后于8月恢复交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [MLID：泄露路线图似乎暗示了英特尔Arc GPU的发布延期](https://www.cnbeta.com/articles/tech/1298743.htm) | Sat Jul 30 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;此前尽管 Intel 已经确认、甚至披露了有关其即将推出的台式机 GPU 的一些细节，但外界尚不清楚它们的确切发布日期、规格、以及定价。&lt;/strong&gt;而在周五发布的新一期视频中，Moore&amp;#39;s Law Is Dead 聊到了最新泄露的英特尔 Arc GPU 路线图，指出蓝厂新显卡似乎在发布前的最后一刻又被推迟了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
