@@ -339,30 +339,30 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [以太坊 layer2: optimism 源码学习 &lpar;一&rpar;](https://juejin.cn/post/7126083070037327909) | Sat Jul 30 2022 8:42 AM
-    <details><summary>展开描述 ...</summary>
-    《1.0-区块链DApp开发实战》 《2.0-区块链DApp开发：基于公链》 本次是长篇文章，这是第一篇。 这里就不说什么是 Layer2 了，可以去网络搜索其它文章来阅读。在 Layer2 的扩容方
-    </details>
+- 🤗 [Linux系列之进程管理](https://juejin.cn/post/7126093151495798797) | Sat Jul 30 2022 9:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天。 Linux系列之进程管理 
+    </details> 
 
-- 🎡 [【CSS】白云飘动效果](https://juejin.cn/post/7126076366323187725) | Sat Jul 30 2022 8:16 AM
-    <details><summary>展开描述 ...</summary>
-    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 效果展示 Demo代码 HTML CSS 原理详解 步骤1 使用span标签，设置为 相对定位 宽度、高度均为50px 背景色：白色
-    </details>
+- 🎡 [【译】安卓多点触控介绍](https://juejin.cn/post/7126089631975604254) | Sat Jul 30 2022 9:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    安卓多点触控介绍 多点触摸是指监控多个手指的触摸事件。我们可以重写（Override） View 中的 onTouchEvent 方法，或者使用 setOnTouchListener 方法来处理触摸事 
+    </details> 
 
-- 🕯 [vscode让代码敲出火焰](https://juejin.cn/post/7126075445727985701) | Sat Jul 30 2022 8:12 AM
-    <details><summary>展开描述 ...</summary>
-    vscode让代码敲出火焰 第一步：下载插件：Power Mode 第二步：配置settings.josn文件 搜索settings.josn，打开 效果：
-    </details>
+- 🕯 [vue-cli解决IE浏览器sockjs-client错误](https://juejin.cn/post/7126088891467038733) | Sat Jul 30 2022 9:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    问题描述 点开报错位置 网络解决方案 正确解决 降低sockjs-client的版本，他依赖描述在package-lock.json在里面，如果有这种情况出现，你的版本可能在我下方给出这个版本之上 更 
+    </details> 
 
-- 🚀 [Spring MVC之处理请求的过程](https://juejin.cn/post/7126073427537952782) | Sat Jul 30 2022 8:04 AM
-    <details><summary>展开描述 ...</summary>
-    spring MVC是遵循MVC架构思想，基于Spring Container Core和AOP等技术，实现的轻量级web框架，用于简化我们日常Web开发。
-    </details>
+- 🚀 [【2022 年】崔庆才 Python3 爬虫教程 - JavaScript 逆向调试常用技巧](https://juejin.cn/post/7126085852639264805) | Sat Jul 30 2022 8:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    😀 这是爬虫专栏第 「34」 篇原创 前面一节我们了解了 JavaScript 的压缩、混淆等技术，现在越来越多的网站也已经应用了这些技术对其数据接口进行了保护，在做爬虫时如果我们遇到了这种情况，我们 
+    </details> 
 
-- 💪 [【消息中间件】一图了解RocketMQ常用命令,不依赖Console也能得心应手](https://juejin.cn/post/7126069240422989837) | Sat Jul 30 2022 7:48 AM
-    <details><summary>展开描述 ...</summary>
-    前言 大家好，我是小郭，上一篇文章主要解决了我们mqadmin命令不能使用的问题，今天的这一篇主要就来说一下，我们工作中常用的一些命令，我们可以利用这些命令来进行实时情况的查看，在遇到问题的时候能够快
-    </details>
+- 💪 [我的认知-1：潇洒都是有枷锁的](https://juejin.cn/post/7126085112973754398) | Sat Jul 30 2022 8:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    背景 2016年，我从一家工作了4年的IT公司主动提出辞职，当时已经做到管理岗位，而且有了一定股份。 离开后，我认为自己可以做一名潇洒的自由职业者，不用再受到朝九晚五的限制。 经过尝试，最终失败 
+    </details> 
 <!-- juejin:END -->
 ### 少数派
 
