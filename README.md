@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔第13代Raptor Lake移动版CPU确认将于2022年底推出](https://www.cnbeta.com/articles/tech/1298789.htm) | Sat Jul 30 2022 7:14 AM 
+- 🕯 [谷歌讲述从Goobuntu转向gLinux内部桌面发行版的心路历程](https://www.cnbeta.com/articles/tech/1298801.htm) | Sat Jul 30 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔最近在其2022年第二季度财报电话会议上确认，第13代Raptor Lake移动CPU将在今年晚些时候推出。第13代CPU将有两个版本，分别是桌面版和移动版，都将在今年下半年发布，比第12代Core Alder Lake移动处理器的移动版晚一年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;位于加州山景城的 Google 总部办公室，遍布着 Windows、Chromebook、Mac 等设备。&lt;strong&gt;但除了依靠 Linux 服务器之外，这家科技巨头其实还拥有自己的 Linux 桌面发行版。&lt;/strong&gt;尽管外界知之甚少，但 Google 一直在积极酝酿。而首个版本，就是基于 Ubuntu 改造出来的 Goobuntu 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [概览地区名人：Topi Tjukanov借维基数据打造可视化交互地图](https://hot.cnbeta.com/articles/funny/1298787.htm) | Sat Jul 30 2022 7:00 AM 
+- 💼 [动画电影《数码宝贝大冒险02 The Beginning》公布](https://hot.cnbeta.com/articles/comic/1298799.htm) | Sat Jul 30 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Mapbox 地理学家兼高级地图设计师 Topi Tjukanov，刚刚将文化、科学、领导力和体育等领域的不同影响力人士，放置到了一份交互式的“交叉验证可视化名人数据库”中。&lt;strong&gt;如果你想要了解自己家乡或特定地区有哪些知名人士，不妨移步至 noteble-people 去领略一下。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1298787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天（7月30日），《数码宝贝》官方公布了最新的动画电影《数码宝贝大冒险02 THEBEGINNING》。这是在今天举办的 DIGIFES 2022 上公布的。这部电影将继续《LAST EVOLUTION絆》的剧情，时间设定于 2012 年。官方还公布了新电影中角色成长后的设定图。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1298799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [台积电发起“营业秘密注册制度同学会” 以每年促成至少3家企业建立该制度为目标](https://www.cnbeta.com/articles/tech/1298785.htm) | Sat Jul 30 2022 6:51 AM 
+- 💂 [Meta迎来会讲中文的CFO：冲破天花板的亚裔女性 14年Meta“老兵”](https://www.cnbeta.com/articles/tech/1298797.htm) | Sat Jul 30 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月29日台媒报道称，晶圆代工龙头台积电发起“营业秘密注册制度同学会”。据悉，第一次同学会的成员除台积电外，还包括5家已建构并开始实施营业秘密注册制度、以及4家正积极评估规画建立此制度的公司，总计有10家企业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;十四年Meta“老兵”的职场传奇。本周，一个陌生的名字闯入了硅谷科技圈人的耳朵：Susan Li。她的名字首先出现在Meta CEO 扎克伯格的个人Facebook页面上。在这篇博文里，扎克伯格宣布了两项重大人事任命：Meta 前任CFO David Wehner将成为Meta首席战略官；同一时间，扎克伯格宣布了对David的继任者、Meta 新任 CFO Susan Li的任命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [豆神教育7.28亿贷款逾期 办公大楼重要子公司都被抵押了](https://www.cnbeta.com/articles/tech/1298783.htm) | Sat Jul 30 2022 6:33 AM 
+- 🚀 [和飞信停运飞信彻底告别 回忆飞信的落幕之路](https://www.cnbeta.com/articles/tech/1298795.htm) | Sat Jul 30 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，豆神教育公告显示，公司因贷款逾期，银行向法院提起了诉讼。此次涉及的借款本金约7.28亿元，银行经计算后合计支付的利息、罚息和复利约7.68亿元。据豆神教育披露，此次贷款抵押的包括公司的办公大楼、董事长持有的部分股票，以及两家重要子公司的股票。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;智能手机和即时通讯软件的普及，大大的改变了人们的通讯方式，就像以前1毛钱一条的手机短信，就早已被即时通讯软件里的信息功能所代替，而短信还在，却沦落为了用户接收验证码和广告的工具了。而因为短信造就了一个拥有数亿用户的即时通讯软件——飞信，它在短信时代诞生，不过近日却传来了它即将落幕的消息，这也是个时代的终结。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [[评论]微信安装包膨胀575倍的背后 是整个科技行业的阳谋](https://www.cnbeta.com/articles/tech/1298781.htm) | Sat Jul 30 2022 6:32 AM 
+- 🎊 [美国汽车最高荣誉首次颁给中国人 这位浙江企业家从此并肩福特和卡尔·本茨](https://www.cnbeta.com/articles/tech/1298793.htm) | Sat Jul 30 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有没有人跟我一样，换手机是因为内存不够用了。有数据显示，卡顿和存储不够是中国手机用户主动换机的主要原因，占比高达42.9%。都说超市冰柜里躺着“雪糕刺客”，我感觉现在手机里的“App刺客”，背刺起来伤害程度一点不低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;史无前例！&lt;strong&gt;汽车行业最高荣誉&lt;/strong&gt;奖项83年来第一次颁给了中国人。不是李书福、王传福、魏建军这些风云人物，而是万向集团创始人鲁冠球。没错，已经去世5年的鲁冠球，入选2022年汽车名人堂，与发明大王爱迪生、汽车之父卡尔·本茨、汽车大王亨利·福特并肩“站”在了一起。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
