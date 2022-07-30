@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [欧洲首现猴痘死亡病例 哪些人群会引起严重疾病？](https://www.cnbeta.com/articles/tech/1298841.htm) | Sat Jul 30 2022 2:52 PM 
+- 🕯 [台积电前发言人称520亿美元的CHIPS法案无助于美国芯片制造](https://www.cnbeta.com/articles/tech/1298851.htm) | Sat Jul 30 2022 4:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;猴痘疾病的临床结局通常与病毒暴露程度、患者健康状况和并发症性质有关，免疫缺陷可能导致更糟糕的临床结局。继非洲之后，欧洲和南美洲也陆续报告了猴痘死亡病例。截至7月30日，全球猴痘死亡病例数已增至8例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;该法案名为《美国CHIPS法案》，它包含一些条款，承诺政府将为那些旨在在美国开设生产设施或开设新的芯片制造技术研究和开发中心的芯片公司提供资金，特别是针对特征尺寸小于3纳米的节点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [曾经靠山寨四驱车火爆全国的奥迪双钻，后来做什么去了？](https://www.cnbeta.com/articles/tech/1298839.htm) | Sat Jul 30 2022 2:51 PM 
+- 💼 [Apple Pay计划兼容iOS 16上运行的Chrome、Edge和Firefox](https://www.cnbeta.com/articles/tech/1298849.htm) | Sat Jul 30 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“奥迪双钻，我的伙伴”——在无数80后、90后的童年里，风靡一时的迷你四驱车和这句脍炙人口的广告词一起，编织成了一段最美好的童年时光，拥有一辆奥迪双钻四驱车，成了众多孩子的梦想。拿着自己辛苦改造的四驱车，和小伙伴们一决高下，日复一日，乐此不疲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在iOS 16中，Apple Pay可能最终与Microsoft Edge、Google Chrome和Mozilla Firefox兼容。MacRumors撰稿人Steve Moser发现，Apple Pay在iOS 16 beta 4中与Edge和Chrome兼容，并在Twitter上分享了他的发现。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《隐秘的角落》试玩报告：这次真的还有机会](https://hot.cnbeta.com/articles/game/1298837.htm) | Sat Jul 30 2022 2:50 PM 
+- 💂 [沈腾0票惹争议 张译袁泉斩获百花奖影帝、影后](https://hot.cnbeta.com/articles/movie/1298847.htm) | Sat Jul 30 2022 4:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;将2020年大火的国产悬疑剧《隐秘的角落》改编成游戏，并不是件容易的事。了解这部剧集的观众应该知道，该剧改编自国内知名推理作家紫金陈的小说《坏小孩》，并且剧集本身已经对原著的故事和人物关系，进行了大量的改写，最终在不改变小说核心立意的前提下，为观众呈现了一个逻辑严密的悬疑故事。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;第36届大众电影百花奖颁奖典礼于今日举行。《长津湖》获得最佳影片。张译与袁泉分别凭借《悬崖之上》与《中国医生》获得最佳男主角与最佳女主角。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《龙之家族》获媒体一致好评 制作精良、会有死忠粉](https://hot.cnbeta.com/articles/movie/1298835.htm) | Sat Jul 30 2022 12:42 PM 
+- 🚀 [中国影史票房第一 吴京主演大片《长津湖》获36届百花奖最佳影片奖](https://hot.cnbeta.com/articles/movie/1298845.htm) | Sat Jul 30 2022 3:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《权力的游戏》前传剧集《龙之家族》先导剧集已向部分国外媒体内部放映，收获了一致好评，他们纷纷表示该剧制作精良、值得一看、会有死忠粉。“《龙之家族》试播集非常清楚地解释了它与权游的联系，介绍了该剧的核心人物，并列出了核心冲突。试播集是容易让人接受的，画面具有鲜艳色彩和细致纹理。截止目前来看，这绝对是一部有价值的续作。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月30日消息，第36届大众电影百花奖在武汉举行，《长津湖》获得最佳影片，《你好，李焕英》获得优秀影片。《长津湖》虽然是吴京领衔主演，不过这次的最佳男主角并不是他，&lt;strong&gt;演员张译凭借《悬崖之上》获得最佳男主角&lt;/strong&gt;，成为金鸡百花双料影帝，袁泉则凭借《中国医生》获得最佳女主角。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [北斗卫星导航独门绝技 短报文功能进入大众应用阶段](https://www.cnbeta.com/articles/tech/1298833.htm) | Sat Jul 30 2022 12:41 PM 
+- 🎊 [三星手机上线维修数据保护模式 设定后可放心寄修](https://www.cnbeta.com/articles/tech/1298843.htm) | Sat Jul 30 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在全球四大卫星导航系统中，中国的北斗卫星除了导航定位之外还有个独门绝技，那就是短报文，不需要运营商的网络就能收发短信，现在这个功能已经进入了大众应用阶段了。据报道，7月30日，北斗三号短报文通信服务成果发布会在京举行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;将手机寄到服务中心维修前，用户通常会将手机恢复出厂设置，否则有可能会泄露个人敏感数据。三星针对这个问题，近期上线了维修模式。&lt;strong&gt;开启维修模式后，手机将自动重启，服务中心维修期间，用户无需担心个人信息泄露。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
