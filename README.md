@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter 键盘可见性](https://juejin.cn/post/7126057383335297037) | Sat Jul 30 2022 7:02 AM 
+- 🤗 [网络协议是什么？为什么要学习网络协议？](https://juejin.cn/post/7126064416725925902) | Sat Jul 30 2022 7:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果没有网络协议，计算机之间可能就不能进行通信，就会乱套。因此网络协议的存在是十分必要的，我们也看到了，去搜索引擎搜索一个问题，背后都是许多个网络协议共同努力的结果，我使用的这个搜索引擎服务器还在俄罗 
+    </details> 
+
+- 🎡 [Android基于EasyPermission封装实现快速权限申请](https://juejin.cn/post/7126062754363867173) | Sat Jul 30 2022 7:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要介绍了 ardf（Android 快速开发框架）中基于EasyPermission 的权限请求的封装使用方法，并通过源码解析详细介绍了其实现原理，进一步提高 Android 开发的效率 
+    </details> 
+
+- 🕯 [MYSQL学习：GROUP BY分组取最新的一条记录](https://juejin.cn/post/7126058106450083871) | Sat Jul 30 2022 7:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 日常开发当中，经常会遇到查询分组数据中最新的一条记录，比如统计当前系统每个人的最新登录记录、外卖系统统计所 
+    </details> 
+
+- 🚀 [STM32+ESP8266+MQTT协议连接阿里云物联网平台](https://juejin.cn/post/7126057610763206664) | Sat Jul 30 2022 7:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    物联网近几年发展非常迅速，各大平台都推出了物联网服务器，这篇文章介绍STM32+ESP8266通过阿里云物联网服务器实现设备数据远程上传、下发，实现数据交互，介绍物联网平台的对接与基本使用。 
+    </details> 
+
+- 💪 [Flutter 键盘可见性](https://juejin.cn/post/7126057383335297037) | Sat Jul 30 2022 7:02 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天， 点击查看活动详情 运行此命令： 使用Flutter： 这将在你的包的 pubspec.yaml 中添加这样的一行（并运行一 
-    </details> 
-
-- 🎡 [一些有用的 DevTools 技巧分享](https://juejin.cn/post/7126050935746330654) | Sat Jul 30 2022 6:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文分享一些不常见但很有用的 DevTools 技巧，能够有效提高浏览器开发工具的使用效率。完整使用文档请见 
-    </details> 
-
-- 🕯 [如果你是初学者，如何学习JavaScript？](https://juejin.cn/post/7126043780091740190) | Sat Jul 30 2022 6:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    你已经决定学习JavaScript，因为你想成为一个前端或后端开发者。 但你如何开始呢？走哪条路才能有效地学习JavaScript，而且，如果可能的话，不那么痛苦？ 在这篇文章中，我分享了我的经验和原 
-    </details> 
-
-- 🚀 [javascript:如何对fetch&lpar;&rpar;请求进行超时处理](https://juejin.cn/post/7126043782172114951) | Sat Jul 30 2022 6:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    如何对fetch&lpar;&rpar;请求进行超时处理 2020年12月3日更新 获取 开始讨论 当开发一个使用网络的应用程序时，首先要记住的规则是不要依赖网络。 网络是不可靠的，因为一个HTTP请求或响应可能会因为很 
-    </details> 
-
-- 💪 [分享一些微信小程序的组件模版，希望可以帮助大家！](https://juejin.cn/post/7126043433587703838) | Sat Jul 30 2022 6:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参与掘金创作者训练营第5期，点击了解活动详情 前言 效果展示 Demo代码 js wxml wxss 效果展示 Demo代码 js wxml wxss 效果展示 静态展示 动态展示 Demo代码 
     </details> 
 <!-- juejin:END -->
 ### 少数派
