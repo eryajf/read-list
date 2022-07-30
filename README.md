@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [精通Java事务编程&lpar;4&rpar;-弱隔离级别之防止更新丢失](https://juejin.cn/post/7126191827593461773) | Sat Jul 30 2022 3:43 PM 
+- 🤗 [【消息通知】用公众号模板消息怎么样？](https://juejin.cn/post/7126225568034455583) | Sat Jul 30 2022 6:07 PM 
+    <details><summary>展开描述 ...</summary> 
+    我想在掘金逛了一段时间的朋友有看到关于自动签到等相关的文章吧，这里当然不是讲自动签到了，主要是说说在签到完后如何通知到我们签到的结果。在一些文章中我看到有人会使用Server酱（一个集成了 
+    </details> 
+
+- 🎡 [精通Java事务编程&lpar;4&rpar;-弱隔离级别之防止更新丢失](https://juejin.cn/post/7126191827593461773) | Sat Jul 30 2022 3:43 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 RC和快照隔离级别主要都是为解决 只读事务遇到并发写时可以看到什么（虽然中间也涉及脏写），还没触及另一种情 
     </details> 
 
-- 🎡 [Chrome浏览器必备插件推荐](https://juejin.cn/post/7126191827715096583) | Sat Jul 30 2022 3:43 PM 
+- 🕯 [Chrome浏览器必备插件推荐](https://juejin.cn/post/7126191827715096583) | Sat Jul 30 2022 3:43 PM 
     <details><summary>展开描述 ...</summary> 
     Chrome浏览器对于我们现在互联网行业已经不可或缺，其实大部分使用Chrome浏览器的人更看重的是它的强大的插件功能，几乎提供的插件无所不能。 
     </details> 
 
-- 🕯 [TypeScript 面向对象（三）](https://juejin.cn/post/7126191168458588173) | Sat Jul 30 2022 3:43 PM 
+- 🚀 [TypeScript 面向对象（三）](https://juejin.cn/post/7126191168458588173) | Sat Jul 30 2022 3:43 PM 
     <details><summary>展开描述 ...</summary> 
     今天继续学习Typescript面向对象，今天将学到：可选参数和默认参数、剩余参数、重载、泛型、内置对象 
     </details> 
 
-- 🚀 [初识机器学习：关联规则](https://juejin.cn/post/7126189930379739166) | Sat Jul 30 2022 3:36 PM 
+- 💪 [初识机器学习：关联规则](https://juejin.cn/post/7126189930379739166) | Sat Jul 30 2022 3:36 PM 
     <details><summary>展开描述 ...</summary> 
     关联规则，或者关联规则学习（Association Rule Learning）是一种在大量数据点中发现隐蔽的关联关系的方法。能够利用一些有趣的量度来识别数据点集中发现的强规则。 
-    </details> 
-
-- 💪 [LeetCode N叉树系列 ～ N 叉树的最大深度](https://juejin.cn/post/7126188975198797838) | Sat Jul 30 2022 3:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 LeetCode N叉树系列 ～ N 叉树的最大深度 
     </details> 
 <!-- juejin:END -->
 ### 少数派
