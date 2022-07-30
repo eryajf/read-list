@@ -169,7 +169,12 @@
 ### 谢益辉博客
 
 <!-- yihui:START -->
-<!-- yihui:END -->
+- 🪜 [河神](https://yihui.org/cn/2022/07/river-god/) | Wed Jul 20 2022 12:00 AM
+- 🤓 [糖之妙效](https://yihui.org/cn/2022/07/sugar-effect/) | Wed Jul 20 2022 12:00 AM
+- 🚀 [丹佛夜影](https://yihui.org/cn/2022/07/denver-shadow/) | Tue Jul 19 2022 12:00 AM
+- 🚀 [不急](https://yihui.org/cn/2022/07/no-hurry/) | Sat Jul 09 2022 12:00 AM
+- 💃 [边界 2022](https://yihui.org/cn/2022/07/boundary/) | Fri Jul 08 2022 12:00 AM
+- 🤠 [爱的暗面](https://yihui.org/cn/2022/07/loves-dark-side/) | Thu Jul 07 2022 12:00 AM<!-- yihui:END -->
 
 ### 卢冬冬博客
 
