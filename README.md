@@ -315,29 +315,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Docker 安装 MySQL8.0](https://juejin.cn/post/7125807341454721038) | Fri Jul 29 2022 2:52 PM 
+- 🤗 [开放域OOD主要数据集、评价指标汇总](https://juejin.cn/post/7125963722475962376) | Sat Jul 30 2022 12:58 AM 
     <details><summary>展开描述 ...</summary> 
-    最近需要两个版本的MySQL，就又重新在服务器上部署了一个8.0的MySQL，简单明了，8.0 版本和5+版本还是有一些区别的。 
+    in-distribution data &lpar;分布内训练数据集&rpar;、OOD test dataset （分布外测试数据集）Evaluation metrics. 
     </details> 
 
-- 🎡 [Vue3 源码解读之模板AST 解析器&lpar;一&rpar;](https://juejin.cn/post/7125806038900539428) | Fri Jul 29 2022 2:47 PM 
+- 🎡 [万字长文Python面试题，建议先收藏](https://juejin.cn/post/7125954020505550879) | Sat Jul 30 2022 12:21 AM 
     <details><summary>展开描述 ...</summary> 
-    模板AST 解析器 parser 本质上就是一个状态机。它在编译器的编译过程中负责将 模板字符串 解析为 模板AST。 
+    精心整理的 Python 相关的基础知识，用于面试，或者平时复习，都是很好的！废话不多说，直接开搞 ，千千万万不要错过哦 
     </details> 
 
-- 🕯 [JavaScript基础-原型（prototype）、原型链（__proto__）](https://juejin.cn/post/7125806007766220836) | Fri Jul 29 2022 2:46 PM 
+- 🕯 [C++进阶：继承&lpar;四&rpar;](https://juejin.cn/post/7125947957391654926) | Fri Jul 29 2022 11:58 PM 
     <details><summary>展开描述 ...</summary> 
-    这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 函数 普通函数、类（所有的类:内置类、自己创建的类） 对象 普通对象、数组、正则、Math、arguments... 实例是对 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 一、继承中的拷贝构造函数 ✔ 测试用例一： 对于子类的拷贝构造，我们不写，编译器会默认生成。它针对 a&rpar;  
     </details> 
 
-- 🚀 [学习right&lpar;&rpar;、left&lpar;&rpar;和forward&lpar;&rpar;函数](https://juejin.cn/post/7125802283119411236) | Fri Jul 29 2022 2:32 PM 
+- 🚀 [leetcode  114. Flatten Binary Tree to Linked List（python）](https://juejin.cn/post/7125945639266942983) | Fri Jul 29 2022 11:51 PM 
     <details><summary>展开描述 ...</summary> 
-    我们看到了如何通过使用forward&lpar;&rpar;函数来使乌龟移动。如果你不另行指定，乌龟就会以指向右边的方式开始它的旅程，而且乌龟只能朝它所面对的方向移动。如果你想让forward&lpar;&rpar;函数将乌龟向不同的方向移 
+    leetcode 114. Flatten Binary Tree to Linked List（python）考察二叉树转换成“链表”形式的二叉树的操作 
     </details> 
 
-- 💪 [如何使用Python Turtle的循环绘制图形](https://juejin.cn/post/7125802307106799624) | Fri Jul 29 2022 2:32 PM 
+- 💪 [头脑风暴：关于 01 背包问题](https://juejin.cn/post/7125946303443370014) | Fri Jul 29 2022 11:51 PM 
     <details><summary>展开描述 ...</summary> 
-    在Python中用Turtle绘制图形可以通过组合使用forward&lpar;&rpar;和right&lpar;&rpar;函数一起工作来完成。turtle方向教程中有一个例子，说明我们如何在Turtle中使用这些命令来画一个正方形。这 
+    题目 有n件物品和一个最多能背重量为 w 的背包。第i件物品的重量是weight[i]，得到的价值是value[i] 。每件物品只能用一次，求解将哪些物品装入背包里物品价值总和最大。 解题思路 本题可 
     </details> 
 <!-- juejin:END -->
 ### 少数派
