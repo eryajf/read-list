@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [DataHerald：COVID大流行导致苹果零售商店客流恢复艰难](https://www.cnbeta.com/articles/tech/1298753.htm) | Sat Jul 30 2022 4:44 AM 
+- 🕯 [创新技术为过氧化物酶-硅串联太阳能电池提供巨大的性能提升](https://www.cnbeta.com/articles/science/1298761.htm) | Sat Jul 30 2022 6:19 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;阿卜杜拉国王科技大学（KAUST）的研究人员发现，在多层过氧化物-硅串联太阳能电池中插入一个金属氟化物层可以阻止电荷重组并提高性能。&lt;/strong&gt;在一个设备中结合了过氧化物和硅基子电池的串联太阳能电池有望比其传统的单结硅竞争对手更好地捕捉阳光并将其转化为电能，而且它们预计将以更低的成本实现这一目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [机器人学会玩橡皮泥 - 仅凭学习10分钟的数据就比人强](https://www.cnbeta.com/articles/science/1298759.htm) | Sat Jul 30 2022 6:17 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;我们中的许多人在偶然发现一堆由水、盐和面粉组成的荧光、橡胶混合物时，都会感到一种来自内心深处的喜悦，这种混合物名叫橡皮泥&lpar;即使这种情况在成年后很少发生）。虽然捏橡皮泥对两岁的孩子来说很有趣，也很容易，但这种没有形状的淤泥对机器人来说却相当难处理。对于刚性物体，机器已经变得越来越可靠，但操纵柔软的、可变形的物体却有一长串的技术挑战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [美国特勤局可能禁用iMessages 以避免重复2021年1月6日的争议](https://www.cnbeta.com/articles/tech/1298757.htm) | Sat Jul 30 2022 6:12 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国特勤局正在考虑关闭员工在其工作用的iPhone上发送iMessages的功能，希望能避免重复目前困扰该机构的与1月6日国会骚乱有关的删除短信的争议。特勤局发言人安东尼-古列尔米说：&amp;quot;这实际上是我们正在密切关注的事情。局长詹姆斯-默里已下令进行一项基准研究，以进一步研究禁用iMessage的可行性，以及它是否会产生任何业务影响。&amp;quot;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Minisforum推出NUCXI5与NUCXI7超薄台式主机 售859美元起](https://www.cnbeta.com/articles/tech/1298755.htm) | Sat Jul 30 2022 5:20 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;随着硬件性能的快速发展，桌面空间局促的消费者们，对紧凑型台式主机的接纳程度也在与日俱增。&lt;strong&gt;本文要为大家介绍的，就是来自 Minisforum 的 NUCXI5 与 NUCXI7 超薄台式主机。&lt;/strong&gt;尽管市售竞品大多只集成了核芯显卡，但 Minisforum 还是为大家带来了基于英伟达 GeForce RTX 30 系列独显的选项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [DataHerald：COVID大流行导致苹果零售商店客流恢复艰难](https://www.cnbeta.com/articles/tech/1298753.htm) | Sat Jul 30 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;DataHerald 数据显示，COVID-19 大流行对零售商店造成了沉重的打击。&lt;strong&gt;出于对疫病传播的顾虑，许多城市都曾宣布保持社交疏离和鼓励居家办公的政策，直接导致前往实体零售门店的客流量也出现了锐减。&lt;/strong&gt;即使作为全球最有价值的企业之一，拥有极高品牌忠诚度的苹果公司，也难以迎来快速的恢复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [Raja Koduri澄清Arc GPU跳票传闻 AXG年底前新推四条产品线](https://www.cnbeta.com/articles/tech/1298751.htm) | Sat Jul 30 2022 4:10 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近几天，英特尔一直被各种负面传闻所环绕。比如这家芯片巨头可能正在考虑推迟、甚至砍掉当前尚不成熟的图形产品线。&lt;strong&gt;不过英特尔加速计算系统和图形事业部（AXG）副总裁 Raja Korudi 刚刚在 Twitter 上出面澄清，表示该公司仍致力于既有的路线图，&lt;/strong&gt;并将在今年晚些时候推出四条新产品线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [招聘信息暗示新作《索尼克》手游或正在开发中](https://hot.cnbeta.com/articles/game/1298749.htm) | Sat Jul 30 2022 3:58 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;HARDlight 是一家总部位于英国的游戏开发商，它一直是世嘉欧洲分公司的一部分。该工作室以已发布的多款《刺猬索尼克》手机游戏而闻名，例如多人赛车游戏《SonicForces Speed Battle》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [“1英寸大底”真的有1英寸吗？小米12S Ultra拆解](https://www.cnbeta.com/articles/tech/1298747.htm) | Sat Jul 30 2022 3:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在摄影这个领域，不少人都信奉“一寸大底一寸强”、“底大一级压死人”这样的理念。&lt;strong&gt;作为第三款拥有 1 英寸大底的手机，小米 12S Ultra 的 CMOS 传感器真的有 1 英寸？&lt;/strong&gt;知名油管频道 JerryRigEverything 就对该机进行了拆解，并进行了测量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [美FAA批准波音公司的检查和修改计划 以恢复787梦想客机的交付](https://www.cnbeta.com/articles/tech/1298745.htm) | Sat Jul 30 2022 3:34 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据两位熟悉情况的消息人士向路透社透露，&lt;strong&gt;美国联邦航空管理局（FAA）于7月29日批准了波音公司的检查和修改计划，以恢复787梦想客机的交付。&lt;/strong&gt;据路透社消息，经过广泛的审议，FAA批准了波音的建议，这应该允许波音在2021年5月停止交付后于8月恢复交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
