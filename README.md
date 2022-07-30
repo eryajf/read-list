@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JVM诊断命令jcmd介绍](https://juejin.cn/post/7126095595818713124) | Sat Jul 30 2022 9:30 AM 
+- 🤗 [后端学习开发【12】——商品管理开发-实现主键自增及日期自动填充功能](https://juejin.cn/post/7126103838083252261) | Sat Jul 30 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 从JDK7开始，jdk提供了一个方便扩展的诊断命令jcmd，用来取代之前比较分散的jdk基础命令，如jps、jstack、jmap、jinfo等，并且jdk添加新的诊断功能，也会通过jcmd提供 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 前言 通过上一篇文章，我们实现了商品类型的增删改查。但是同时也发现，插入的数据的 ID 是随机生成的，我现 
     </details> 
 
-- 🎡 [Linux系列之进程管理](https://juejin.cn/post/7126093151495798797) | Sat Jul 30 2022 9:21 AM 
+- 🎡 [go日志库之logrus](https://juejin.cn/post/7126102527459721246) | Sat Jul 30 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天。 Linux系列之进程管理 
+    Logrus是Go的结构化日志记录器，与标准的日志记录器库完全API兼容。 go get安装的logrus库 
     </details> 
 
-- 🕯 [iOS之”Tagged-Pointer“内存管理策略，设计的巧而小之美](https://juejin.cn/post/7126092159425462286) | Sat Jul 30 2022 9:19 AM 
+- 🕯 [go之字符串拼接使用-&gt;性能-&gt;背后原因](https://juejin.cn/post/7126102335415631885) | Sat Jul 30 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要研究Tagged Pointer技术，针对该技术需要解决的问题、以及在实际应用中的价值做一些简单的探讨。 如果你想要更进一步，去挖掘Tagged Pointer是如何实现的。 
+    因为之前是搞java的在使用字符串拼接的时候避免一直+产生新的String对象，就使用StringBuilder或者StringBuffer。最近在使用go的时候也需要字符串拼接，所以就... 
     </details> 
 
-- 🚀 [Kotlin 用Retrofit+OkHttp+协程+LiveData搭建MVVM&lpar;Jetpack&rpar;来实现网络请求&lpar;网络数据JSON解析&rpar;显示在Recycler](https://juejin.cn/post/7126091521815740447) | Sat Jul 30 2022 9:16 AM 
+- 🚀 [Mysql之MVCC](https://juejin.cn/post/7126101790033969160) | Sat Jul 30 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    文章目录 一、效果图 二、项目 三、添加依赖包 四、Retrofit封装类 五、网络相关数据结构 1、返回数据最外层包装 2、单个数据结构 六、定义协程api 七、ViewModel层 八、UI层调用 
+    上篇文章《Mysql之mvcc各场景理解》有通过实验去初步了解了下MVCC，但是不够体系。下面我们还是从场景出发，仅一步： - 认识MVCC - 了解开发中需要注意什么 
     </details> 
 
-- 💪 [【译】安卓多点触控介绍](https://juejin.cn/post/7126089631975604254) | Sat Jul 30 2022 9:08 AM 
+- 💪 [前端工作一年半，离职了！！！](https://juejin.cn/post/7126100960593575949) | Sat Jul 30 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    安卓多点触控介绍 多点触摸是指监控多个手指的触摸事件。我们可以重写（Override） View 中的 onTouchEvent 方法，或者使用 setOnTouchListener 方法来处理触摸事 
+    哈喽~，大伙儿好久不见。今天爬上来唠唠，是因为最近向公司主动提出离职了，这几天刚办理完。这是小鹿的第一份工作，算是正式画上了一个句号，我觉得有很多经历需要在这里记录分享一下。 从 2020 年 8 月 
     </details> 
 <!-- juejin:END -->
 ### 少数派
