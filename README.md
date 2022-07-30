@@ -566,29 +566,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [以色列找到了一枚1850前的巨蟹座青铜币](http://jandan.net/p/111048) | Sat Jul 30 2022 3:46 AM 
+- 🚀 [美海洋局向公众求助：海底疑似人工痕迹的东西到底是啥](http://jandan.net/p/111062) | Sat Jul 30 2022 6:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    2.5公里深处的海底，有一排排排列整齐的小洞 
+    </details> 
+
+- 🙉 [以色列找到了一枚1850前的巨蟹座青铜币](http://jandan.net/p/111048) | Sat Jul 30 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
     古人为黄金圣斗士发行的纪念币？ 
     </details> 
 
-- 🙉 [今日好价 0730](http://jandan.net/p/111066) | Sat Jul 30 2022 3:03 AM 
+- 🎉 [今日好价 0730](http://jandan.net/p/111066) | Sat Jul 30 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [发霉啦：今天，我带着13岁的儿子去码头钓狗鲨](http://jandan.net/p/111064) | Fri Jul 29 2022 12:06 PM 
+- 🐲 [发霉啦：今天，我带着13岁的儿子去码头钓狗鲨](http://jandan.net/p/111064) | Fri Jul 29 2022 12:06 PM 
     <details><summary>展开描述 ...</summary> 
     周末愉快 
     </details> 
 
-- 🐲 [美夫妇盗用身份20余年 假装间谍过家家？](http://jandan.net/p/111061) | Fri Jul 29 2022 9:24 AM 
+-  [美夫妇盗用身份20余年 假装间谍过家家？](http://jandan.net/p/111061) | Fri Jul 29 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     挺离奇的 
-    </details> 
-
--  [著名气候科学家、盖亚假说的提出者 在103年岁生日当天去世](http://jandan.net/p/111056) | Fri Jul 29 2022 7:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    这个人帮助促成了20世纪许多最重要的科学事件 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
