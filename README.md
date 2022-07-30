@@ -381,29 +381,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌讲述从Goobuntu转向gLinux内部桌面发行版的心路历程](https://www.cnbeta.com/articles/tech/1298801.htm) | Sat Jul 30 2022 8:18 AM 
+- 🕯 [华硕推出ProArt 32寸专业显示器：4K Mini LED、120Hz高刷 售价29999元](https://www.cnbeta.com/articles/tech/1298803.htm) | Sat Jul 30 2022 8:38 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;对于设计师、剪辑师等从事内容创作工作者来说，一款高水平的显示器必不可少，可以带来极大的助力。华硕现在就推出了一款专为创意创作使用而设计的显示器——&lt;strong&gt;ProArt创艺国度创梦32专业显示器&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [谷歌讲述从Goobuntu转向gLinux内部桌面发行版的心路历程](https://www.cnbeta.com/articles/tech/1298801.htm) | Sat Jul 30 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;位于加州山景城的 Google 总部办公室，遍布着 Windows、Chromebook、Mac 等设备。&lt;strong&gt;但除了依靠 Linux 服务器之外，这家科技巨头其实还拥有自己的 Linux 桌面发行版。&lt;/strong&gt;尽管外界知之甚少，但 Google 一直在积极酝酿。而首个版本，就是基于 Ubuntu 改造出来的 Goobuntu 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [动画电影《数码宝贝大冒险02 The Beginning》公布](https://hot.cnbeta.com/articles/comic/1298799.htm) | Sat Jul 30 2022 8:01 AM 
+- 💂 [动画电影《数码宝贝大冒险02 The Beginning》公布](https://hot.cnbeta.com/articles/comic/1298799.htm) | Sat Jul 30 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天（7月30日），《数码宝贝》官方公布了最新的动画电影《数码宝贝大冒险02 THEBEGINNING》。这是在今天举办的 DIGIFES 2022 上公布的。这部电影将继续《LAST EVOLUTION絆》的剧情，时间设定于 2012 年。官方还公布了新电影中角色成长后的设定图。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1298799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Meta迎来会讲中文的CFO：冲破天花板的亚裔女性 14年Meta“老兵”](https://www.cnbeta.com/articles/tech/1298797.htm) | Sat Jul 30 2022 8:01 AM 
+- 🚀 [Meta迎来会讲中文的CFO：冲破天花板的亚裔女性 14年Meta“老兵”](https://www.cnbeta.com/articles/tech/1298797.htm) | Sat Jul 30 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;十四年Meta“老兵”的职场传奇。本周，一个陌生的名字闯入了硅谷科技圈人的耳朵：Susan Li。她的名字首先出现在Meta CEO 扎克伯格的个人Facebook页面上。在这篇博文里，扎克伯格宣布了两项重大人事任命：Meta 前任CFO David Wehner将成为Meta首席战略官；同一时间，扎克伯格宣布了对David的继任者、Meta 新任 CFO Susan Li的任命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [和飞信停运飞信彻底告别 回忆飞信的落幕之路](https://www.cnbeta.com/articles/tech/1298795.htm) | Sat Jul 30 2022 7:56 AM 
+- 🎊 [和飞信停运飞信彻底告别 回忆飞信的落幕之路](https://www.cnbeta.com/articles/tech/1298795.htm) | Sat Jul 30 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;智能手机和即时通讯软件的普及，大大的改变了人们的通讯方式，就像以前1毛钱一条的手机短信，就早已被即时通讯软件里的信息功能所代替，而短信还在，却沦落为了用户接收验证码和广告的工具了。而因为短信造就了一个拥有数亿用户的即时通讯软件——飞信，它在短信时代诞生，不过近日却传来了它即将落幕的消息，这也是个时代的终结。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [美国汽车最高荣誉首次颁给中国人 这位浙江企业家从此并肩福特和卡尔·本茨](https://www.cnbeta.com/articles/tech/1298793.htm) | Sat Jul 30 2022 7:56 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;史无前例！&lt;strong&gt;汽车行业最高荣誉&lt;/strong&gt;奖项83年来第一次颁给了中国人。不是李书福、王传福、魏建军这些风云人物，而是万向集团创始人鲁冠球。没错，已经去世5年的鲁冠球，入选2022年汽车名人堂，与发明大王爱迪生、汽车之父卡尔·本茨、汽车大王亨利·福特并肩“站”在了一起。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
