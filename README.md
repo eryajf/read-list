@@ -57,30 +57,30 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) | Fri Jul 29 2022 4:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。 
-    </details> 
+- 🫶 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) | Fri Jul 29 2022 4:26 PM
+    <details><summary>展开描述 ...</summary>
+    当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。
+    </details>
 
-- 🧰 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) | Fri Jul 29 2022 3:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    GitHub中的follow功能，类似于微博中的关注，而关注我们的大佬，就更应该有一个合适的地方安排，本文将分享如何基于GitHub Actions自动生成个人的Fans列表。 
-    </details> 
+- 🧰 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) | Fri Jul 29 2022 3:51 PM
+    <details><summary>展开描述 ...</summary>
+    GitHub中的follow功能，类似于微博中的关注，而关注我们的大佬，就更应该有一个合适的地方安排，本文将分享如何基于GitHub Actions自动生成个人的Fans列表。
+    </details>
 
-- 🌏 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/) | Fri Jul 29 2022 7:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第64期-2022年第29周 
-    </details> 
+- 🌏 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/) | Fri Jul 29 2022 7:49 AM
+    <details><summary>展开描述 ...</summary>
+    学习周刊-总第64期-2022年第29周
+    </details>
 
-- 😎 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。 
-    </details> 
+- 😎 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM
+    <details><summary>展开描述 ...</summary>
+    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。
+    </details>
 
-- 💂 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template 
-    </details> 
+- 💂 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM
+    <details><summary>展开描述 ...</summary>
+    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template
+    </details>
 <!-- eryajf:END -->
 
 ### 酷壳
@@ -113,30 +113,30 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第65期） : 个人爱好发展成一项36万美元/年的NFTs业务](https://www.ezindie.com/weekly/issue-65) | Thu Jul 28 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。个人爱好发展成一项36万美元/年的NFTs业务 
-    </details> 
+- 💂 [独立开发变现周刊（第65期） : 个人爱好发展成一项36万美元/年的NFTs业务](https://www.ezindie.com/weekly/issue-65) | Thu Jul 28 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    分享独立开发产品变现相关有价值的内容，每周五发布。个人爱好发展成一项36万美元/年的NFTs业务
+    </details>
 
-- 💡 [独立开发变现周刊（第64期） : 一套图标，6天6位数收入](https://www.ezindie.com/weekly/issue-64) | Fri Jul 22 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一套图标，6天6位数收入 
-    </details> 
+- 💡 [独立开发变现周刊（第64期） : 一套图标，6天6位数收入](https://www.ezindie.com/weekly/issue-64) | Fri Jul 22 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    分享独立开发产品变现相关有价值的内容，每周五发布。一套图标，6天6位数收入
+    </details>
 
-- 🌋 [独立开发变现周刊（第63期） : 一个爬虫类产品，4个月做到月收入3000美元](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个爬虫类产品，4个月做到月收入3000美元 
-    </details> 
+- 🌋 [独立开发变现周刊（第63期） : 一个爬虫类产品，4个月做到月收入3000美元](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个爬虫类产品，4个月做到月收入3000美元
+    </details>
 
-- 🕴 [独立开发变现周刊（第62期） : 我是如何开发一个年收入30万美金的Vue.js开源组件库的？](https://www.ezindie.com/weekly/issue-62) | Fri Jul 08 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。我是如何开发一个年收入30万美金的Vue.js开源组件库的？ 
-    </details> 
+- 🕴 [独立开发变现周刊（第62期） : 我是如何开发一个年收入30万美金的Vue.js开源组件库的？](https://www.ezindie.com/weekly/issue-62) | Fri Jul 08 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    分享独立开发产品变现相关有价值的内容，每周五发布。我是如何开发一个年收入30万美金的Vue.js开源组件库的？
+    </details>
 
-- 🎊 [独立开发变现周刊（第61期） : 我们是如何构建一个100万美元年收入开源SaaS的？](https://www.ezindie.com/weekly/issue-61) | Fri Jul 01 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。我们是如何构建一个100万美元年收入开源SaaS的？ 
-    </details> 
+- 🎊 [独立开发变现周刊（第61期） : 我们是如何构建一个100万美元年收入开源SaaS的？](https://www.ezindie.com/weekly/issue-61) | Fri Jul 01 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    分享独立开发产品变现相关有价值的内容，每周五发布。我们是如何构建一个100万美元年收入开源SaaS的？
+    </details>
 <!-- easyindie:END -->
 
 
@@ -147,62 +147,77 @@
 - 🦩 [好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, ...](https://discuss-cn.bestxtools.com/d/60/1) | Thu Jul 21 2022 4:37 AM
 - 🙉 [好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, TypeLit, ...](https://discuss-cn.bestxtools.com/d/58/1) | Wed Jul 13 2022 3:49 PM<!-- bestxtools:END -->
 
+### 王登科-DK博客
+
+<!-- greatdk:START -->
+<!-- greatdk:END -->
+
+### 谢益辉博客
+
+<!-- yihui:START -->
+<!-- yihui:END -->
+
+### 卢冬冬博客
+
+<!-- ldd:END -->
+<!-- ldd:END -->
+
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [日志导致线程Block的这些坑，你不得不防](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html) | Fri Jul 29 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    研发人员在项目开发中不可避免地要使用日志，通过它来记录信息和排查问题。Apache Log4j2提供了灵活且强大的日志框架，虽然上手比较快，但稍有不慎也非常容易踩“坑”。本文介绍了美团统一API网关服务Shepherd在实践中所踩过的关于日志导致线程Block的那些“坑”，以及我们如何从日志框架源码层面进行分析和解决问题的过程，并在最后给大家分享一些关于日志避“坑”的实践经验，希望能给大家带来一些帮助。 
-    </details> 
+- 🕯 [日志导致线程Block的这些坑，你不得不防](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html) | Fri Jul 29 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    研发人员在项目开发中不可避免地要使用日志，通过它来记录信息和排查问题。Apache Log4j2提供了灵活且强大的日志框架，虽然上手比较快，但稍有不慎也非常容易踩“坑”。本文介绍了美团统一API网关服务Shepherd在实践中所踩过的关于日志导致线程Block的那些“坑”，以及我们如何从日志框架源码层面进行分析和解决问题的过程，并在最后给大家分享一些关于日志避“坑”的实践经验，希望能给大家带来一些帮助。
+    </details>
 
-- 🤠 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html) | Thu Jul 21 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。本文将精选10篇论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。 
-    </details> 
+- 🤠 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html) | Thu Jul 21 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。本文将精选10篇论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。
+    </details>
 
-- 🤠 [可视化全链路日志追踪](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html) | Thu Jul 21 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    可观测性作为系统高可用的重要保障，已经成为系统建设中不可或缺的一环。然而随着业务逻辑的日益复杂，传统的ELK方案在日志搜集、筛选和分析等方面愈加耗时耗力，而分布式会话跟踪方案虽然基于追踪能力完善了日志的串联，但更聚焦于调用链路，也难以直接应用于高效的业务追踪。本文介绍了可视化全链路日志追踪的新方案，它以业务链路为载体，通过有效组织业务每次执行的日志，实现了执行现场的可视化还原，支持问题的高效定位。 
-    </details> 
+- 🤠 [可视化全链路日志追踪](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html) | Thu Jul 21 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    可观测性作为系统高可用的重要保障，已经成为系统建设中不可或缺的一环。然而随着业务逻辑的日益复杂，传统的ELK方案在日志搜集、筛选和分析等方面愈加耗时耗力，而分布式会话跟踪方案虽然基于追踪能力完善了日志的串联，但更聚焦于调用链路，也难以直接应用于高效的业务追踪。本文介绍了可视化全链路日志追踪的新方案，它以业务链路为载体，通过有效组织业务每次执行的日志，实现了执行现场的可视化还原，支持问题的高效定位。
+    </details>
 
-- 🚀 [工程效能CI/CD之流水线引擎的建设实践](https://tech.meituan.com/2022/07/14/cicd-pipeline.html) | Thu Jul 14 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。 
-    </details> 
+- 🚀 [工程效能CI/CD之流水线引擎的建设实践](https://tech.meituan.com/2022/07/14/cicd-pipeline.html) | Thu Jul 14 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。
+    </details>
 
-- ⚗️ [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    在外卖广告CTR场景下，深度学习模型正在从简单DNN小模型过渡到千亿参数复杂模型。基于该背景，本文将重点针对大规模深度模型在全链路带来的挑战，从在线时延、离线效率两个方面展开，阐述外卖广告在大规模深度模型上的工程实践经验，希望能为读者提供思路上的借鉴。 
-    </details> 
+- ⚗️ [外卖广告大规模深度学习模型工程实践 | 美团外卖广告工程实践专题连载](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html) | Wed Jul 06 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+    在外卖广告CTR场景下，深度学习模型正在从简单DNN小模型过渡到千亿参数复杂模型。基于该背景，本文将重点针对大规模深度模型在全链路带来的挑战，从在线时延、离线效率两个方面展开，阐述外卖广告在大规模深度模型上的工程实践经验，希望能为读者提供思路上的借鉴。
+    </details>
 <!-- meituan:END -->
 
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [运维自动化之多云系统分享](https://blog.ops-coffee.cn/s/Wtx2utkC4MErDLvC3cbSMg) | Sat Jul 30 2022 8:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    什么是多云，多云该如何设计，多云要怎么落地 
-    </details> 
+- 👺 [运维自动化之多云系统分享](https://blog.ops-coffee.cn/s/Wtx2utkC4MErDLvC3cbSMg) | Sat Jul 30 2022 8:02 AM
+    <details><summary>展开描述 ...</summary>
+    什么是多云，多云该如何设计，多云要怎么落地
+    </details>
 
-- 💯 [盛夏露营，我不怕热不怕蚊子吗？](https://blog.ops-coffee.cn/s/mWYu4bSkSpymtk8opJa-IQ) | Thu Jul 21 2022 9:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    有很多朋友问我，三十几度的天气，你还出去露营，不怕热吗？不怕蚊虫叮咬吗？ 
-    </details> 
+- 💯 [盛夏露营，我不怕热不怕蚊子吗？](https://blog.ops-coffee.cn/s/mWYu4bSkSpymtk8opJa-IQ) | Thu Jul 21 2022 9:39 AM
+    <details><summary>展开描述 ...</summary>
+    有很多朋友问我，三十几度的天气，你还出去露营，不怕热吗？不怕蚊虫叮咬吗？
+    </details>
 
-- 🚦 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    真的喜欢户外的，都是热爱生活的 
-    </details> 
+- 🚦 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM
+    <details><summary>展开描述 ...</summary>
+    真的喜欢户外的，都是热爱生活的
+    </details>
 
-- 👨‍🏫 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    夏天户外露营过夜体验 
-    </details> 
+- 👨‍🏫 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM
+    <details><summary>展开描述 ...</summary>
+    夏天户外露营过夜体验
+    </details>
 
-- 🌮 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    PEP 8 -- Python 代码风格指南 
-    </details> 
+- 🌮 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM
+    <details><summary>展开描述 ...</summary>
+    PEP 8 -- Python 代码风格指南
+    </details>
 <!-- ops-coffee:END -->
 ### 四火的唠叨
 
@@ -216,89 +231,89 @@
 ### 腾讯全端
 
 <!-- alloyteam:START -->
-- 🤡 [走向匿名化，谈谈微信小程序新授权登录](http://www.alloyteam.com/2021/04/15431/) | Fri Apr 16 2021 5:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    今年 2 月，微信团队针对小程序登录和用户信息获取进行了一次接口调整，这一举动史无前例地撼动了几乎所有小程序开 [&amp;#8230;] 
-    </details> 
+- 🤡 [走向匿名化，谈谈微信小程序新授权登录](http://www.alloyteam.com/2021/04/15431/) | Fri Apr 16 2021 5:03 AM
+    <details><summary>展开描述 ...</summary>
+    今年 2 月，微信团队针对小程序登录和用户信息获取进行了一次接口调整，这一举动史无前例地撼动了几乎所有小程序开 [&amp;#8230;]
+    </details>
 
-- 👍 [yield 学习](http://www.alloyteam.com/2021/03/15427/) | Sat Mar 27 2021 12:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    最近看的代码 yield 比较多，上次看到这么多 function* 还是在 koa1 时代，脑子中满是 yi [&amp;#8230;] 
-    </details> 
+- 👍 [yield 学习](http://www.alloyteam.com/2021/03/15427/) | Sat Mar 27 2021 12:10 PM
+    <details><summary>展开描述 ...</summary>
+    最近看的代码 yield 比较多，上次看到这么多 function* 还是在 koa1 时代，脑子中满是 yi [&amp;#8230;]
+    </details>
 
-- 🚀 [callable-object](http://www.alloyteam.com/2021/03/callable-object/) | Sun Mar 14 2021 8:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    原文地址：https://github.com/vorshen/blog/blob/master/callab [&amp;#8230;] 
-    </details> 
+- 🚀 [callable-object](http://www.alloyteam.com/2021/03/callable-object/) | Sun Mar 14 2021 8:47 AM
+    <details><summary>展开描述 ...</summary>
+    原文地址：https://github.com/vorshen/blog/blob/master/callab [&amp;#8230;]
+    </details>
 
-- 💃 [深入学习定时器](http://www.alloyteam.com/2021/03/15389/) | Tue Mar 02 2021 3:37 PM 
-    <details><summary>展开描述 ...</summary> 
-    或许在生活中大家都讨厌定时器，比如周一早上的闹钟、承诺老板第二天一早给报告的 deadline；但是在代码的世 [&amp;#8230;] 
-    </details> 
+- 💃 [深入学习定时器](http://www.alloyteam.com/2021/03/15389/) | Tue Mar 02 2021 3:37 PM
+    <details><summary>展开描述 ...</summary>
+    或许在生活中大家都讨厌定时器，比如周一早上的闹钟、承诺老板第二天一早给报告的 deadline；但是在代码的世 [&amp;#8230;]
+    </details>
 
-- 🤗 [提高资源的安全性 – SRI 与 CSP](http://www.alloyteam.com/2021/01/sri/) | Thu Jan 14 2021 11:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    原文地址 在 《前端资源加载失败优化》文章中，我们聊到了前端资源加载失败的监控方式，以及资源加载失败时的优化方 [&amp;#8230;] 
-    </details> 
+- 🤗 [提高资源的安全性 – SRI 与 CSP](http://www.alloyteam.com/2021/01/sri/) | Thu Jan 14 2021 11:37 AM
+    <details><summary>展开描述 ...</summary>
+    原文地址 在 《前端资源加载失败优化》文章中，我们聊到了前端资源加载失败的监控方式，以及资源加载失败时的优化方 [&amp;#8230;]
+    </details>
 <!-- alloyteam:END -->
 
 ### 火丁笔记
 
 <!-- huoding:START -->
-- 🌋 [关于一个打包下载的需求](https://blog.huoding.com/2022/07/01/984) | Fri Jul 01 2022 6:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    前些天遇到一个「打包下载」的需求，在调研过程中走了一些弯路，本文记录一下。 比如 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2022/07/01/984&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
-    </details> 
+- 🌋 [关于一个打包下载的需求](https://blog.huoding.com/2022/07/01/984) | Fri Jul 01 2022 6:01 AM
+    <details><summary>展开描述 ...</summary>
+    前些天遇到一个「打包下载」的需求，在调研过程中走了一些弯路，本文记录一下。 比如 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2022/07/01/984&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
+    </details>
 
-- 🤠 [如何用eBPF分析Golang应用](https://blog.huoding.com/2021/12/12/970) | Sun Dec 12 2021 5:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    当医生遇到疑难杂症时，那么可以上 X 光机，有没有病？病在哪里？一照便知！当程序 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/12/12/970&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
-    </details> 
+- 🤠 [如何用eBPF分析Golang应用](https://blog.huoding.com/2021/12/12/970) | Sun Dec 12 2021 5:06 AM
+    <details><summary>展开描述 ...</summary>
+    当医生遇到疑难杂症时，那么可以上 X 光机，有没有病？病在哪里？一照便知！当程序 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/12/12/970&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
+    </details>
 
-- 🫶 [白话Golang单元测试](https://blog.huoding.com/2021/11/28/968) | Sun Nov 28 2021 3:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近学习某个 Golang 单元测试的课程，发现其中推荐使用 gomonkey  &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/28/968&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
-    </details> 
+- 🫶 [白话Golang单元测试](https://blog.huoding.com/2021/11/28/968) | Sun Nov 28 2021 3:27 AM
+    <details><summary>展开描述 ...</summary>
+    最近学习某个 Golang 单元测试的课程，发现其中推荐使用 gomonkey  &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/28/968&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
+    </details>
 
-- 🦄 [一个没什么用的转义技巧](https://blog.huoding.com/2021/11/16/966) | Tue Nov 16 2021 7:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近我用命令行工具来测试 rpc 服务，因为此命令行工具要求输入数据是 json &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/16/966&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
-    </details> 
+- 🦄 [一个没什么用的转义技巧](https://blog.huoding.com/2021/11/16/966) | Tue Nov 16 2021 7:54 AM
+    <details><summary>展开描述 ...</summary>
+    最近我用命令行工具来测试 rpc 服务，因为此命令行工具要求输入数据是 json &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/16/966&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
+    </details>
 
-- 🕴 [聊一个string和[]byte转换问题](https://blog.huoding.com/2021/10/14/964) | Thu Oct 14 2021 6:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    前几天闲聊的时候，景埕说网上很多 string 和 []byte 的转换都是有问 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/10/14/964&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
-    </details> 
+- 🕴 [聊一个string和[]byte转换问题](https://blog.huoding.com/2021/10/14/964) | Thu Oct 14 2021 6:36 AM
+    <details><summary>展开描述 ...</summary>
+    前几天闲聊的时候，景埕说网上很多 string 和 []byte 的转换都是有问 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/10/14/964&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
+    </details>
 <!-- huoding:END -->
 
 
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf周报 | 51款应用遭上海通信管理局通报；大数据杀熟将遭严惩；美国与英国达成数据互通协议；Web3经济损失达历史新高](https://www.freebuf.com/articles/340597.html) | Fri Jul 29 2022 9:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    各位Buffer周末好，以下是本周「FreeBuf周报」。 
-    </details> 
+- 🦄 [FreeBuf周报 | 51款应用遭上海通信管理局通报；大数据杀熟将遭严惩；美国与英国达成数据互通协议；Web3经济损失达历史新高](https://www.freebuf.com/articles/340597.html) | Fri Jul 29 2022 9:10 AM
+    <details><summary>展开描述 ...</summary>
+    各位Buffer周末好，以下是本周「FreeBuf周报」。
+    </details>
 
-- 🦄 [企业外包的安全风险及应对策略 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/340581.html) | Fri Jul 29 2022 7:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    在安全环节，外包往往会成为薄弱的一环。外包团队究竟会为企业带来哪些安全风险？我们又该如何应对外包所带来的问题？ 
-    </details> 
+- 🦄 [企业外包的安全风险及应对策略 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/340581.html) | Fri Jul 29 2022 7:33 AM
+    <details><summary>展开描述 ...</summary>
+    在安全环节，外包往往会成为薄弱的一环。外包团队究竟会为企业带来哪些安全风险？我们又该如何应对外包所带来的问题？
+    </details>
 
-- 🦅 [美预计将扩大与乌克兰的网络安全伙伴关系](https://www.freebuf.com/news/340544.html) | Fri Jul 29 2022 5:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    美国政府的网络安全机构已与其乌克兰网络安全机构签署了一项关于在网络安全方面加强合作的协议。 
-    </details> 
+- 🦅 [美预计将扩大与乌克兰的网络安全伙伴关系](https://www.freebuf.com/news/340544.html) | Fri Jul 29 2022 5:36 AM
+    <details><summary>展开描述 ...</summary>
+    美国政府的网络安全机构已与其乌克兰网络安全机构签署了一项关于在网络安全方面加强合作的协议。
+    </details>
 
-- 🪄 [暨南大学信息技术研究所招聘网络安全技术人员计划](https://www.freebuf.com/jobs/340608.html) | Fri Jul 29 2022 5:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    暨南大学信息技术研究所招聘网络安全服务项目经理、网络技术支持工程师、网络安全工程师&lpar;攻防对抗方向）等 
-    </details> 
+- 🪄 [暨南大学信息技术研究所招聘网络安全技术人员计划](https://www.freebuf.com/jobs/340608.html) | Fri Jul 29 2022 5:00 AM
+    <details><summary>展开描述 ...</summary>
+    暨南大学信息技术研究所招聘网络安全服务项目经理、网络技术支持工程师、网络安全工程师&lpar;攻防对抗方向）等
+    </details>
 
-- 💻 [微软称发现奥地利间谍团伙，利用Windows和Adobe 0day攻击欧洲组织](https://www.freebuf.com/articles/system/340560.html) | Fri Jul 29 2022 4:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    微软安全和威胁情报团队称发现一家奥地利公司销售间谍软件DSIRF，该软件是基于未知的Windows漏洞开发。 
-    </details> 
+- 💻 [微软称发现奥地利间谍团伙，利用Windows和Adobe 0day攻击欧洲组织](https://www.freebuf.com/articles/system/340560.html) | Fri Jul 29 2022 4:04 AM
+    <details><summary>展开描述 ...</summary>
+    微软安全和威胁情报团队称发现一家奥地利公司销售间谍软件DSIRF，该软件是基于未知的Windows漏洞开发。
+    </details>
 <!-- freebuf:END -->
 
 ## 新闻热览
@@ -315,58 +330,58 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [以太坊 layer2: optimism 源码学习 &lpar;一&rpar;](https://juejin.cn/post/7126083070037327909) | Sat Jul 30 2022 8:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    《1.0-区块链DApp开发实战》 《2.0-区块链DApp开发：基于公链》 本次是长篇文章，这是第一篇。 这里就不说什么是 Layer2 了，可以去网络搜索其它文章来阅读。在 Layer2 的扩容方 
-    </details> 
+- 🤗 [以太坊 layer2: optimism 源码学习 &lpar;一&rpar;](https://juejin.cn/post/7126083070037327909) | Sat Jul 30 2022 8:42 AM
+    <details><summary>展开描述 ...</summary>
+    《1.0-区块链DApp开发实战》 《2.0-区块链DApp开发：基于公链》 本次是长篇文章，这是第一篇。 这里就不说什么是 Layer2 了，可以去网络搜索其它文章来阅读。在 Layer2 的扩容方
+    </details>
 
-- 🎡 [【CSS】白云飘动效果](https://juejin.cn/post/7126076366323187725) | Sat Jul 30 2022 8:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 效果展示 Demo代码 HTML CSS 原理详解 步骤1 使用span标签，设置为 相对定位 宽度、高度均为50px 背景色：白色  
-    </details> 
+- 🎡 [【CSS】白云飘动效果](https://juejin.cn/post/7126076366323187725) | Sat Jul 30 2022 8:16 AM
+    <details><summary>展开描述 ...</summary>
+    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 效果展示 Demo代码 HTML CSS 原理详解 步骤1 使用span标签，设置为 相对定位 宽度、高度均为50px 背景色：白色
+    </details>
 
-- 🕯 [vscode让代码敲出火焰](https://juejin.cn/post/7126075445727985701) | Sat Jul 30 2022 8:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    vscode让代码敲出火焰 第一步：下载插件：Power Mode 第二步：配置settings.josn文件 搜索settings.josn，打开 效果： 
-    </details> 
+- 🕯 [vscode让代码敲出火焰](https://juejin.cn/post/7126075445727985701) | Sat Jul 30 2022 8:12 AM
+    <details><summary>展开描述 ...</summary>
+    vscode让代码敲出火焰 第一步：下载插件：Power Mode 第二步：配置settings.josn文件 搜索settings.josn，打开 效果：
+    </details>
 
-- 🚀 [Spring MVC之处理请求的过程](https://juejin.cn/post/7126073427537952782) | Sat Jul 30 2022 8:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    spring MVC是遵循MVC架构思想，基于Spring Container Core和AOP等技术，实现的轻量级web框架，用于简化我们日常Web开发。 
-    </details> 
+- 🚀 [Spring MVC之处理请求的过程](https://juejin.cn/post/7126073427537952782) | Sat Jul 30 2022 8:04 AM
+    <details><summary>展开描述 ...</summary>
+    spring MVC是遵循MVC架构思想，基于Spring Container Core和AOP等技术，实现的轻量级web框架，用于简化我们日常Web开发。
+    </details>
 
-- 💪 [【消息中间件】一图了解RocketMQ常用命令,不依赖Console也能得心应手](https://juejin.cn/post/7126069240422989837) | Sat Jul 30 2022 7:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 大家好，我是小郭，上一篇文章主要解决了我们mqadmin命令不能使用的问题，今天的这一篇主要就来说一下，我们工作中常用的一些命令，我们可以利用这些命令来进行实时情况的查看，在遇到问题的时候能够快 
-    </details> 
+- 💪 [【消息中间件】一图了解RocketMQ常用命令,不依赖Console也能得心应手](https://juejin.cn/post/7126069240422989837) | Sat Jul 30 2022 7:48 AM
+    <details><summary>展开描述 ...</summary>
+    前言 大家好，我是小郭，上一篇文章主要解决了我们mqadmin命令不能使用的问题，今天的这一篇主要就来说一下，我们工作中常用的一些命令，我们可以利用这些命令来进行实时情况的查看，在遇到问题的时候能够快
+    </details>
 <!-- juejin:END -->
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [任意键｜初见月迅龙、爱生气的巫妖王、奶刃三部曲及其他](https://sspai.com/post/74890) | Sat Jul 30 2022 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当@Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。如果你对本栏目的内容方向和呈现形式有不同的见解和主张，欢迎在评论 ...&lt;a href=&quot;https://sspai.com/post/74890&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
+- 👹 [任意键｜初见月迅龙、爱生气的巫妖王、奶刃三部曲及其他](https://sspai.com/post/74890) | Sat Jul 30 2022 6:58 AM
+    <details><summary>展开描述 ...</summary>
+    周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当@Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。如果你对本栏目的内容方向和呈现形式有不同的见解和主张，欢迎在评论 ...&lt;a href=&quot;https://sspai.com/post/74890&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 
-- 🐘 [来一场义工旅行，就可以改变人生吗？](https://sspai.com/post/74875) | Sat Jul 30 2022 2:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    走过沙滩、经过海洋、穿过人群，心里想着——「啊 ，这里就是我的家」。&lt;a href=&quot;https://sspai.com/post/74875&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
+- 🐘 [来一场义工旅行，就可以改变人生吗？](https://sspai.com/post/74875) | Sat Jul 30 2022 2:33 AM
+    <details><summary>展开描述 ...</summary>
+    走过沙滩、经过海洋、穿过人群，心里想着——「啊 ，这里就是我的家」。&lt;a href=&quot;https://sspai.com/post/74875&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 
-- 🤭 [派周报 | 本周会员内容提要；跑题：裁员语文](https://sspai.com/prime/story/pi-weekly-002) | Fri Jul 29 2022 10:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    美国科技公司在面临裁员时，又是怎样措辞和解释的呢？&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-002&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
+- 🤭 [派周报 | 本周会员内容提要；跑题：裁员语文](https://sspai.com/prime/story/pi-weekly-002) | Fri Jul 29 2022 10:11 AM
+    <details><summary>展开描述 ...</summary>
+    美国科技公司在面临裁员时，又是怎样措辞和解释的呢？&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-002&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt;
+    </details>
 
-- 🥸 [本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/74896) | Fri Jul 29 2022 10:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[英剧]尝试第三季、[日剧]石子与羽男-这种事情也好告吗？、[动画]水星领航员祝福、[动画]顶点!!!!!!!!!!!!!!!、[韩剧]Adamas、[动画]闪耀路标几则精 ...&lt;a href=&quot;https://sspai.com/post/74896&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
+- 🥸 [本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/74896) | Fri Jul 29 2022 10:03 AM
+    <details><summary>展开描述 ...</summary>
+    ☕️TL;DR近期佳作推荐：[英剧]尝试第三季、[日剧]石子与羽男-这种事情也好告吗？、[动画]水星领航员祝福、[动画]顶点!!!!!!!!!!!!!!!、[韩剧]Adamas、[动画]闪耀路标几则精 ...&lt;a href=&quot;https://sspai.com/post/74896&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 
-- 🙉 [身体、心境到生活，练习瑜伽一年为我带来了哪些改变](https://sspai.com/post/74887) | Fri Jul 29 2022 7:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    从双脚迈进垫子，再带着瑜伽精神迈出垫子走进生活，再从生活里回到垫子上，我体会到了阿斯汤伽的独特魅力：垫内垫外，皆是瑜伽。&lt;a href=&quot;https://sspai.com/post/74887&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
+- 🙉 [身体、心境到生活，练习瑜伽一年为我带来了哪些改变](https://sspai.com/post/74887) | Fri Jul 29 2022 7:34 AM
+    <details><summary>展开描述 ...</summary>
+    从双脚迈进垫子，再带着瑜伽精神迈出垫子走进生活，再从生活里回到垫子上，我体会到了阿斯汤伽的独特魅力：垫内垫外，皆是瑜伽。&lt;a href=&quot;https://sspai.com/post/74887&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
+    </details>
 <!-- sspai:END -->
 
 ### 知乎每日精选
@@ -381,30 +396,30 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华硕推出ProArt 32寸专业显示器：4K Mini LED、120Hz高刷 售价29999元](https://www.cnbeta.com/articles/tech/1298803.htm) | Sat Jul 30 2022 8:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于设计师、剪辑师等从事内容创作工作者来说，一款高水平的显示器必不可少，可以带来极大的助力。华硕现在就推出了一款专为创意创作使用而设计的显示器——&lt;strong&gt;ProArt创艺国度创梦32专业显示器&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- 🕯 [华硕推出ProArt 32寸专业显示器：4K Mini LED、120Hz高刷 售价29999元](https://www.cnbeta.com/articles/tech/1298803.htm) | Sat Jul 30 2022 8:38 AM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;对于设计师、剪辑师等从事内容创作工作者来说，一款高水平的显示器必不可少，可以带来极大的助力。华硕现在就推出了一款专为创意创作使用而设计的显示器——&lt;strong&gt;ProArt创艺国度创梦32专业显示器&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 
-- 💼 [谷歌讲述从Goobuntu转向gLinux内部桌面发行版的心路历程](https://www.cnbeta.com/articles/tech/1298801.htm) | Sat Jul 30 2022 8:18 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;位于加州山景城的 Google 总部办公室，遍布着 Windows、Chromebook、Mac 等设备。&lt;strong&gt;但除了依靠 Linux 服务器之外，这家科技巨头其实还拥有自己的 Linux 桌面发行版。&lt;/strong&gt;尽管外界知之甚少，但 Google 一直在积极酝酿。而首个版本，就是基于 Ubuntu 改造出来的 Goobuntu 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- 💼 [谷歌讲述从Goobuntu转向gLinux内部桌面发行版的心路历程](https://www.cnbeta.com/articles/tech/1298801.htm) | Sat Jul 30 2022 8:18 AM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;位于加州山景城的 Google 总部办公室，遍布着 Windows、Chromebook、Mac 等设备。&lt;strong&gt;但除了依靠 Linux 服务器之外，这家科技巨头其实还拥有自己的 Linux 桌面发行版。&lt;/strong&gt;尽管外界知之甚少，但 Google 一直在积极酝酿。而首个版本，就是基于 Ubuntu 改造出来的 Goobuntu 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 
-- 💂 [动画电影《数码宝贝大冒险02 The Beginning》公布](https://hot.cnbeta.com/articles/comic/1298799.htm) | Sat Jul 30 2022 8:01 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天（7月30日），《数码宝贝》官方公布了最新的动画电影《数码宝贝大冒险02 THEBEGINNING》。这是在今天举办的 DIGIFES 2022 上公布的。这部电影将继续《LAST EVOLUTION絆》的剧情，时间设定于 2012 年。官方还公布了新电影中角色成长后的设定图。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1298799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- 💂 [动画电影《数码宝贝大冒险02 The Beginning》公布](https://hot.cnbeta.com/articles/comic/1298799.htm) | Sat Jul 30 2022 8:01 AM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;今天（7月30日），《数码宝贝》官方公布了最新的动画电影《数码宝贝大冒险02 THEBEGINNING》。这是在今天举办的 DIGIFES 2022 上公布的。这部电影将继续《LAST EVOLUTION絆》的剧情，时间设定于 2012 年。官方还公布了新电影中角色成长后的设定图。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1298799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 
-- 🚀 [Meta迎来会讲中文的CFO：冲破天花板的亚裔女性 14年Meta“老兵”](https://www.cnbeta.com/articles/tech/1298797.htm) | Sat Jul 30 2022 8:01 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;十四年Meta“老兵”的职场传奇。本周，一个陌生的名字闯入了硅谷科技圈人的耳朵：Susan Li。她的名字首先出现在Meta CEO 扎克伯格的个人Facebook页面上。在这篇博文里，扎克伯格宣布了两项重大人事任命：Meta 前任CFO David Wehner将成为Meta首席战略官；同一时间，扎克伯格宣布了对David的继任者、Meta 新任 CFO Susan Li的任命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- 🚀 [Meta迎来会讲中文的CFO：冲破天花板的亚裔女性 14年Meta“老兵”](https://www.cnbeta.com/articles/tech/1298797.htm) | Sat Jul 30 2022 8:01 AM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;十四年Meta“老兵”的职场传奇。本周，一个陌生的名字闯入了硅谷科技圈人的耳朵：Susan Li。她的名字首先出现在Meta CEO 扎克伯格的个人Facebook页面上。在这篇博文里，扎克伯格宣布了两项重大人事任命：Meta 前任CFO David Wehner将成为Meta首席战略官；同一时间，扎克伯格宣布了对David的继任者、Meta 新任 CFO Susan Li的任命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 
-- 🎊 [和飞信停运飞信彻底告别 回忆飞信的落幕之路](https://www.cnbeta.com/articles/tech/1298795.htm) | Sat Jul 30 2022 7:56 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;智能手机和即时通讯软件的普及，大大的改变了人们的通讯方式，就像以前1毛钱一条的手机短信，就早已被即时通讯软件里的信息功能所代替，而短信还在，却沦落为了用户接收验证码和广告的工具了。而因为短信造就了一个拥有数亿用户的即时通讯软件——飞信，它在短信时代诞生，不过近日却传来了它即将落幕的消息，这也是个时代的终结。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- 🎊 [和飞信停运飞信彻底告别 回忆飞信的落幕之路](https://www.cnbeta.com/articles/tech/1298795.htm) | Sat Jul 30 2022 7:56 AM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;智能手机和即时通讯软件的普及，大大的改变了人们的通讯方式，就像以前1毛钱一条的手机短信，就早已被即时通讯软件里的信息功能所代替，而短信还在，却沦落为了用户接收验证码和广告的工具了。而因为短信造就了一个拥有数亿用户的即时通讯软件——飞信，它在短信时代诞生，不过近日却传来了它即将落幕的消息，这也是个时代的终结。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 <!-- cnbeta:END -->
 
 ## 应用资源
@@ -413,30 +428,30 @@
 
 
 <!-- zuijiastore:START -->
-- 🎓 [最佳应用-在线免费小说阅读汇总](http://www.zuijiastore.com/2429.html) | Sun Jun 05 2022 1:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要整理的是在线小说阅读网站。 01、轻小说文库（下载：TXT） 网址：https://www.wenku8.net/index.php 02、轻之过度（下载：EPUB） 网址：http://www.lightnovel.us 03、Animex动漫（下载：EPUB/TXT） 网址：http://www.animmetox.com 04、哔哩哔哩小说（下载：TXT） 网址：https://ww [&amp;#8230;] 
-    </details> 
+- 🎓 [最佳应用-在线免费小说阅读汇总](http://www.zuijiastore.com/2429.html) | Sun Jun 05 2022 1:00 AM
+    <details><summary>展开描述 ...</summary>
+    本文主要整理的是在线小说阅读网站。 01、轻小说文库（下载：TXT） 网址：https://www.wenku8.net/index.php 02、轻之过度（下载：EPUB） 网址：http://www.lightnovel.us 03、Animex动漫（下载：EPUB/TXT） 网址：http://www.animmetox.com 04、哔哩哔哩小说（下载：TXT） 网址：https://ww [&amp;#8230;]
+    </details>
 
-- 🦣 [最佳应用-视频下载、转换、压缩必备的网站](http://www.zuijiastore.com/3118.html) | Sat Jun 04 2022 12:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    网上遇到不少喜欢的视频，但是平台禁止下载怎么办？这篇文章分享一些视频下载、转换、压缩必备的网站。 获取说明：点击右侧链接即可访问 温馨提示：如果部分打不开，可能需要特殊网络 1、YouTube视频下载：https://x2download.com/zh-tw62 2、Twitter视频下载：https://twdown.net/index.php 
-    </details> 
+- 🦣 [最佳应用-视频下载、转换、压缩必备的网站](http://www.zuijiastore.com/3118.html) | Sat Jun 04 2022 12:15 AM
+    <details><summary>展开描述 ...</summary>
+    网上遇到不少喜欢的视频，但是平台禁止下载怎么办？这篇文章分享一些视频下载、转换、压缩必备的网站。 获取说明：点击右侧链接即可访问 温馨提示：如果部分打不开，可能需要特殊网络 1、YouTube视频下载：https://x2download.com/zh-tw62 2、Twitter视频下载：https://twdown.net/index.php
+    </details>
 
-- 🧑‍🏫 [最佳应用-App Store经常限免的优质软件](http://www.zuijiastore.com/3115.html) | Thu Jun 02 2022 12:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    App Store有很多优质软件是经常会限免下载的，这篇文章我就汇总一下经常限免但很实用的iOS软件，建议收藏。 远程输入法：App Store 上的“远程输入法” &lpar;apple.com&rpar; 河马英文阅读器：App Store 上的“河马英文阅读器 &lpar;Hippo Reader&rpar;” &lpar;apple.com&rpar; 画画树专业版：App Store 上的“画画树专业版 &amp;#8211; 大师级美术绘画板” &lpar;ap [&amp;#8230;] 
-    </details> 
+- 🧑‍🏫 [最佳应用-App Store经常限免的优质软件](http://www.zuijiastore.com/3115.html) | Thu Jun 02 2022 12:58 AM
+    <details><summary>展开描述 ...</summary>
+    App Store有很多优质软件是经常会限免下载的，这篇文章我就汇总一下经常限免但很实用的iOS软件，建议收藏。 远程输入法：App Store 上的“远程输入法” &lpar;apple.com&rpar; 河马英文阅读器：App Store 上的“河马英文阅读器 &lpar;Hippo Reader&rpar;” &lpar;apple.com&rpar; 画画树专业版：App Store 上的“画画树专业版 &amp;#8211; 大师级美术绘画板” &lpar;ap [&amp;#8230;]
+    </details>
 
-- 🦣 [最佳应用-浏览器值得安装的插件](http://www.zuijiastore.com/3106.html) | Wed Jun 01 2022 1:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    浏览器安装了插件，真的会加倍提升你的工作效率，有些插件还是黑科技级别的，本文汇总一些浏览器好用的插件。 插件说明：插件默认来源于edge浏览器（免翻访问） 使用方式：安装edge浏览器，直接打开链接即可下载。 1、AdGuard 广告拦截器：AdGuard 广告拦截器 &amp;#8211; Microsoft Edge Addons 2、最棒的截图录屏插件：Awesome Screenshot 截图录屏 [&amp;#8230;] 
-    </details> 
+- 🦣 [最佳应用-浏览器值得安装的插件](http://www.zuijiastore.com/3106.html) | Wed Jun 01 2022 1:32 AM
+    <details><summary>展开描述 ...</summary>
+    浏览器安装了插件，真的会加倍提升你的工作效率，有些插件还是黑科技级别的，本文汇总一些浏览器好用的插件。 插件说明：插件默认来源于edge浏览器（免翻访问） 使用方式：安装edge浏览器，直接打开链接即可下载。 1、AdGuard 广告拦截器：AdGuard 广告拦截器 &amp;#8211; Microsoft Edge Addons 2、最棒的截图录屏插件：Awesome Screenshot 截图录屏 [&amp;#8230;]
+    </details>
 
-- 🤠 [最佳应用-在线玩游戏必备的网站](http://www.zuijiastore.com/3101.html) | Wed Jun 01 2022 1:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    疫情期间，在家办公已经成为一种常态，工作学习累了，我们就需要玩一些游戏来填补空闲时间，本文给大家汇总一些在线玩游戏必备的网站。 使用说明：点击链接即可跳转。 安装插件：如果你不想被广告打扰可以安装一些网页去广告插件。 &amp;#160; 1、小霸王-其乐无穷：https://www.yikm.net/ &amp;#160; 
-    </details> 
+- 🤠 [最佳应用-在线玩游戏必备的网站](http://www.zuijiastore.com/3101.html) | Wed Jun 01 2022 1:25 AM
+    <details><summary>展开描述 ...</summary>
+    疫情期间，在家办公已经成为一种常态，工作学习累了，我们就需要玩一些游戏来填补空闲时间，本文给大家汇总一些在线玩游戏必备的网站。 使用说明：点击链接即可跳转。 安装插件：如果你不想被广告打扰可以安装一些网页去广告插件。 &amp;#160; 1、小霸王-其乐无穷：https://www.yikm.net/ &amp;#160;
+    </details>
 <!-- zuijiastore:END -->
 
 
@@ -454,80 +469,108 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+- 👨‍🏫 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM
+    <details><summary>展开描述 ...</summary>
+
+
 	苹果电脑 macOS 系统的 LaunchPad 启动台里，软件图标很大，看起来很臃肿，每屏能放的软件图标数量也有限。&lt;/p&gt;&lt;p&gt;看到这篇博客《&lt;u&gt;&lt;a href=&quot;https://xinle.co/2016/03/12/%e5%b0%8f%e6%8a%80%e5%b7%a7%ef%bc%9amac%e7%b3%bb%e7%bb%9f%e8%b0%83%e6%95%b4launchpad%e5%9b%be%e6%a0%87%e5%a4%a7%e5%b0%8f/&quot; target=&quot;_blank&quot; title=&quot;小技巧：Mac系统调整Launchpad图标大小&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;小技巧：Mac系统调整Launchpad图标大小&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;》，分享的方法很好用。我现在 LaunchPad 变得很清爽，而且一屏放下更多软件图标，找起来也不用来回翻页了。&lt;/p&gt;&lt;p&gt;感兴趣的话直接点击上面的链接看原文吧，直接打开终端（找不到的话点击 Mac 屏幕右上角的放大镜按钮，搜索「终端」）→ 粘贴文中的命令行 → 回车搞定。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=launchpad&quot; rel=&quot;tag&quot;&gt;launchpad&lt;/a&gt;
 
- 
-    </details> 
 
-- 🏊 [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+    </details>
+
+- 🏊 [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM
+    <details><summary>展开描述 ...</summary>
+
+
 	苹果中国官网宣布了一个限时优惠活动：7月29日到8月1日，使用支付宝/招行/建行/工行卡，在苹果官网在线商店和 Apple Store 零售店买指定的苹果设备有限时优惠：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;iPhone 13 系列优惠 600 元&lt;/li&gt;&lt;li&gt;iPhone SE（第三代）优惠 200 元&lt;/li&gt;&lt;li&gt;iPhone12 和 iPhone12 mini 优惠 500 元&lt;/li&gt;&lt;li&gt;Apple Watch SE 优惠 200 元&lt;/li&gt;&lt;li&gt;AirPods 系列优惠 150-250 元&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;每人每个分类（手机、手表、耳机）限购两台，而且不和商务优惠、员工优惠、教育优惠等其它优惠叠加。&lt;/p&gt;&lt;p&gt;其实我觉得「再过一两个月就换代」的这个时间点有点儿尴尬。就算真的要买，拼多多百亿补贴挺香的。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
 
- 
-    </details> 
 
-- 🦏 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+    </details>
+
+- 🦏 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM
+    <details><summary>展开描述 ...</summary>
+
+
 	国内 Android 厂商很喜欢给照片加上机型信息水印，如果是和相机大厂合作的手机，还会打上莱卡、哈苏等相机的水印。最近小米推出了和莱卡合作的机型，拍照后能在照片底部添加莱卡图标和坐标、焦距、光圈、快门、ISO 等信息。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6701&quot; border=&quot;0&quot; alt=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; title=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; /&gt;&lt;/p&gt;&lt;p&gt;如果你也想让苹果 iPhone 拍的照片也有类似水印，可以试试这个叫「徕卡水印」的 iOS 捷径，下载地址 &lt;u&gt;&lt;a href=&quot;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&quot; target=&quot;_blank&quot; title=&quot;莱卡水印&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%258D%25B7%25E5%25BE%2584&quot; rel=&quot;tag&quot;&gt;捷径&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=shortcuts&quot; rel=&quot;tag&quot;&gt;shortcuts&lt;/a&gt;
 
- 
-    </details> 
 
-- 🚀 [Mac技巧之苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo](http://www.mac52ipod.cn/post/apple-mac-macos-search-launcher-app-alfred-hapigo.php) | Fri Jul 22 2022 10:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+    </details>
+
+- 🚀 [Mac技巧之苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo](http://www.mac52ipod.cn/post/apple-mac-macos-search-launcher-app-alfred-hapigo.php) | Fri Jul 22 2022 10:28 AM
+    <details><summary>展开描述 ...</summary>
+
+
 	苹果电脑 macOS 系统自带了搜索和快速启动工具 Spotlight。如果你想要更多功能，十多年来比较有名的第三方启动器工具是 &lt;u&gt;&lt;a href=&quot;/post/search-open-software-by-keyboard-alfred.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑 Mac OS X 系统上通过键盘快速搜索和启动软件的免费工具：Alfred &quot;&gt;&lt;font color=#0000FF&gt;Alfred&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。最近发现一个 Alfred 的竞争者，功能类似，扩展性也很强：HapiGo。这里有段视频介绍 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Mr4y1U7en&quot; target=&quot;_blank&quot; title=&quot;Hapigo-比肩Alfred的工具终于来了!&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1Mr4y1U7en&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=765396797&amp;bvid=BV1Mr4y1U7en&amp;cid=478586306&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;HapiGo 更详细的介绍，以及下载地址，看官网吧 &lt;u&gt;&lt;a href=&quot;https://hapigo.com/&quot; target=&quot;_blank&quot; title=&quot;苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://hapigo.com/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=alfred&quot; rel=&quot;tag&quot;&gt;alfred&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2588%25E7%258E%2587&quot; rel=&quot;tag&quot;&gt;效率&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%2594%25AE%25E7%259B%2598&quot; rel=&quot;tag&quot;&gt;键盘&lt;/a&gt;
 
- 
-    </details> 
 
-- 🏊 [Apple Watch 用户不在微信运动里显示具体健身数据的方法](http://www.mac52ipod.cn/post/apple-watch-user-only-share-steps-to-wechat-werun.php) | Wed Jul 20 2022 11:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+    </details>
+
+- 🏊 [Apple Watch 用户不在微信运动里显示具体健身数据的方法](http://www.mac52ipod.cn/post/apple-watch-user-only-share-steps-to-wechat-werun.php) | Wed Jul 20 2022 11:14 AM
+    <details><summary>展开描述 ...</summary>
+
+
 	我在微信运动的步数排行榜里，不仅能看到微信好友的步数，还能看到很多戴了 Apple Watch 的好友的每日具体健身数据。如果你只想和好友比比步数的话，打开 iPhone 的健康 App → 隐私 → App → 微信，关掉「体能训练」选项就行了。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6702&quot; border=&quot;0&quot; alt=&quot;Apple Watch 用户不在微信运动里显示具体健身数据的方法&quot; title=&quot;Apple Watch 用户不在微信运动里显示具体健身数据的方法&quot; /&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=applewatch&quot; rel=&quot;tag&quot;&gt;applewatch&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%25BF%2590%25E5%258A%25A8&quot; rel=&quot;tag&quot;&gt;运动&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%2581%25A5%25E8%25BA%25AB&quot; rel=&quot;tag&quot;&gt;健身&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25BE%25AE%25E4%25BF%25A1&quot; rel=&quot;tag&quot;&gt;微信&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%259A%2590%25E7%25A7%2581&quot; rel=&quot;tag&quot;&gt;隐私&lt;/a&gt;
 
- 
-    </details> 
+
+    </details>
 <!-- mac52ipod:END -->
 ### 精品Mac应用
 
 
 <!-- xclient:START -->
-- 🦏 [Slidepad 1.3.3 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Fri Jul 29 2022 7:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。 
-    </details> 
+- 🦏 [Slidepad 1.3.3 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Fri Jul 29 2022 7:01 AM
+    <details><summary>展开描述 ...</summary>
+    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。
+    </details>
 
--  [SnapMotion 5.0.6 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Fri Jul 29 2022 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    SnapMotion可以快速将截取视频中的图片，并且支持批量处理，支持导出为GIF等格式，简单易用。 
-    </details> 
+-  [SnapMotion 5.0.6 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Fri Jul 29 2022 6:58 AM
+    <details><summary>展开描述 ...</summary>
+    SnapMotion可以快速将截取视频中的图片，并且支持批量处理，支持导出为GIF等格式，简单易用。
+    </details>
 
-- ⚗️ [iStat Menus 6.62.1197 优秀的系统监控工具](https://xclient.info/s/istat-menus-for-mac.html) | Fri Jul 29 2022 6:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    iStat Menus是Mac上最优秀的系统监控工具，能够在系统菜单栏实时监控CPU、GPU、内存、硬盘、网络、温度、电池以及系统时间等，稳定且占用资源少，可以说是装机必备的软件。 
-    </details> 
+- ⚗️ [iStat Menus 6.62.1197 优秀的系统监控工具](https://xclient.info/s/istat-menus-for-mac.html) | Fri Jul 29 2022 6:57 AM
+    <details><summary>展开描述 ...</summary>
+    iStat Menus是Mac上最优秀的系统监控工具，能够在系统菜单栏实时监控CPU、GPU、内存、硬盘、网络、温度、电池以及系统时间等，稳定且占用资源少，可以说是装机必备的软件。
+    </details>
 
-- 🔥 [Yate 6.10.5.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Fri Jul 29 2022 6:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
-    </details> 
+- 🔥 [Yate 6.10.5.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Fri Jul 29 2022 6:56 AM
+    <details><summary>展开描述 ...</summary>
+    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据
+    </details>
 
-- 🌋 [Notebooks 3.0 文档管理和日程备忘工具](https://xclient.info/s/notebooks.html) | Fri Jul 29 2022 6:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    Notebooks 是一款Mac上文档管理、文本编写和日程备忘工具，，集成了编写文档、日程任务管理、文档文件管理三个功能，其中文档编写支持纯文本、HTML文本和Markdown文本等，支持统一管理常见的文档文件，如text, PDF, web pages, MS Office documents等，非常实用的一款工具！ 
-    </details> 
+- 🌋 [Notebooks 3.0 文档管理和日程备忘工具](https://xclient.info/s/notebooks.html) | Fri Jul 29 2022 6:54 AM
+    <details><summary>展开描述 ...</summary>
+    Notebooks 是一款Mac上文档管理、文本编写和日程备忘工具，，集成了编写文档、日程任务管理、文档文件管理三个功能，其中文档编写支持纯文本、HTML文本和Markdown文本等，支持统一管理常见的文档文件，如text, PDF, web pages, MS Office documents等，非常实用的一款工具！
+    </details>
 <!-- xclient:END -->
+
+### 不死鸟
+
+<!-- iui:START -->
+<!-- iui:END -->
+
+### JOKER鹏少
+
+<!-- jokerps:START -->
+<!-- jokerps:END -->
+
+### v2方圆
+
+<!-- v2fy:START -->
+<!-- v2fy:END -->
+
+
+### 奔跑中的奶酪
+
+<!-- runningcheese:START -->
+<!-- runningcheese:END -->
+
+### 阿里云盘
+
+<!-- yunpan:START -->
+<!-- yunpan:END -->
+
+
 
 
 ## 影视音乐
@@ -535,87 +578,92 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [大暑 | 一半是火焰，一半是山水](https://www.photoworld.com.cn/post/162200) | Sat Jul 23 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+- 🤠 [大暑 | 一半是火焰，一半是山水](https://www.photoworld.com.cn/post/162200) | Sat Jul 23 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
 
-- 🎃 [CSC 成员 Rob McLachlan 分享 CineAltaV 2 的使用印象](https://www.photoworld.com.cn/post/162191) | Fri Jul 22 2022 7:51 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+    </details>
 
-- 👀 [2022 年新签约摄影师 广州·李维明·第二站报名持续进行中](https://www.photoworld.com.cn/post/162171) | Thu Jul 21 2022 9:08 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+- 🎃 [CSC 成员 Rob McLachlan 分享 CineAltaV 2 的使用印象](https://www.photoworld.com.cn/post/162191) | Fri Jul 22 2022 7:51 AM
+    <details><summary>展开描述 ...</summary>
 
-- 🤔 [首发量产 200W 超快闪充，高性能旗舰 iQOO 10 系列发布](https://www.photoworld.com.cn/post/162149) | Wed Jul 20 2022 1:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+    </details>
 
-- 👀 [温暖 “医” 瞬间——医务人员风采展示系列活动征稿启事](https://www.photoworld.com.cn/post/161993) | Mon Jul 18 2022 2:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+- 👀 [2022 年新签约摄影师 广州·李维明·第二站报名持续进行中](https://www.photoworld.com.cn/post/162171) | Thu Jul 21 2022 9:08 AM
+    <details><summary>展开描述 ...</summary>
+
+    </details>
+
+- 🤔 [首发量产 200W 超快闪充，高性能旗舰 iQOO 10 系列发布](https://www.photoworld.com.cn/post/162149) | Wed Jul 20 2022 1:43 AM
+    <details><summary>展开描述 ...</summary>
+
+    </details>
+
+- 👀 [温暖 “医” 瞬间——医务人员风采展示系列活动征稿启事](https://www.photoworld.com.cn/post/161993) | Mon Jul 18 2022 2:38 AM
+    <details><summary>展开描述 ...</summary>
+
+    </details>
 <!-- photoworld:END -->
+
+### 视觉联盟
+
+<!-- cnu:START -->
+<!-- cnu:END -->
 
 ## 搞笑趣闻
 
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [美海洋局向公众求助：海底疑似人工痕迹的东西到底是啥](http://jandan.net/p/111062) | Sat Jul 30 2022 6:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    2.5公里深处的海底，有一排排排列整齐的小洞 
-    </details> 
+- 🚀 [美海洋局向公众求助：海底疑似人工痕迹的东西到底是啥](http://jandan.net/p/111062) | Sat Jul 30 2022 6:16 AM
+    <details><summary>展开描述 ...</summary>
+    2.5公里深处的海底，有一排排排列整齐的小洞
+    </details>
 
-- 🙉 [以色列找到了一枚1850前的巨蟹座青铜币](http://jandan.net/p/111048) | Sat Jul 30 2022 3:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    古人为黄金圣斗士发行的纪念币？ 
-    </details> 
+- 🙉 [以色列找到了一枚1850前的巨蟹座青铜币](http://jandan.net/p/111048) | Sat Jul 30 2022 3:46 AM
+    <details><summary>展开描述 ...</summary>
+    古人为黄金圣斗士发行的纪念币？
+    </details>
 
-- 🎉 [今日好价 0730](http://jandan.net/p/111066) | Sat Jul 30 2022 3:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
-    </details> 
+- 🎉 [今日好价 0730](http://jandan.net/p/111066) | Sat Jul 30 2022 3:03 AM
+    <details><summary>展开描述 ...</summary>
+    ZSBD
+    </details>
 
-- 🐲 [发霉啦：今天，我带着13岁的儿子去码头钓狗鲨](http://jandan.net/p/111064) | Fri Jul 29 2022 12:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    周末愉快 
-    </details> 
+- 🐲 [发霉啦：今天，我带着13岁的儿子去码头钓狗鲨](http://jandan.net/p/111064) | Fri Jul 29 2022 12:06 PM
+    <details><summary>展开描述 ...</summary>
+    周末愉快
+    </details>
 
--  [美夫妇盗用身份20余年 假装间谍过家家？](http://jandan.net/p/111061) | Fri Jul 29 2022 9:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    挺离奇的 
-    </details> 
+-  [美夫妇盗用身份20余年 假装间谍过家家？](http://jandan.net/p/111061) | Fri Jul 29 2022 9:24 AM
+    <details><summary>展开描述 ...</summary>
+    挺离奇的
+    </details>
 <!-- jandan:END -->
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Notion Book Essence Extractor - 整理您的书籍并提炼他们的知识](https://xinquji.com/posts/178351?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:36 AM 
-    <details><summary>展开描述 ...</summary> 
-     整理您的书籍并提炼他们的知识  
-    </details> 
+- 👀 [Notion Book Essence Extractor - 整理您的书籍并提炼他们的知识](https://xinquji.com/posts/178351?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:36 AM
+    <details><summary>展开描述 ...</summary>
+     整理您的书籍并提炼他们的知识
+    </details>
 
-- 🥷 [Fruitprints by Superlocal - 探索地图并收集水果](https://xinquji.com/posts/178350?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:33 AM 
-    <details><summary>展开描述 ...</summary> 
-     探索地图并收集水果  
-    </details> 
+- 🥷 [Fruitprints by Superlocal - 探索地图并收集水果](https://xinquji.com/posts/178350?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:33 AM
+    <details><summary>展开描述 ...</summary>
+     探索地图并收集水果
+    </details>
 
-- 💼 [Movio.la - 从浏览器中的文本创建真人视频](https://xinquji.com/posts/178349?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:31 AM 
-    <details><summary>展开描述 ...</summary> 
-     从浏览器中的文本创建真人视频  
-    </details> 
+- 💼 [Movio.la - 从浏览器中的文本创建真人视频](https://xinquji.com/posts/178349?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:31 AM
+    <details><summary>展开描述 ...</summary>
+     从浏览器中的文本创建真人视频
+    </details>
 
-- 🦅 [Gum - 用于构建迷人的 shell 脚本的工具](https://xinquji.com/posts/178348?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:29 AM 
-    <details><summary>展开描述 ...</summary> 
-     用于构建迷人的 shell 脚本的工具  
-    </details> 
+- 🦅 [Gum - 用于构建迷人的 shell 脚本的工具](https://xinquji.com/posts/178348?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:29 AM
+    <details><summary>展开描述 ...</summary>
+     用于构建迷人的 shell 脚本的工具
+    </details>
 
-- 😺 [Notion 6 Page Invoice Pack - 在 Notion 中设计的发票文件](https://xinquji.com/posts/178347?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:27 AM 
-    <details><summary>展开描述 ...</summary> 
-     在 Notion 中设计的发票文件  
-    </details> 
+- 😺 [Notion 6 Page Invoice Pack - 在 Notion 中设计的发票文件](https://xinquji.com/posts/178347?utm_campaign=xinquji-rss) | Sat Jul 30 2022 6:27 AM
+    <details><summary>展开描述 ...</summary>
+     在 Notion 中设计的发票文件
+    </details>
 <!-- xinquji:END -->
