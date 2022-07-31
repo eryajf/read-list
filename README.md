@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AI篮球裁判火了：走步算得特别准 就问哈登慌不慌](https://www.cnbeta.com/articles/tech/1298981.htm) | Sun Jul 31 2022 7:13 AM 
+- 🕯 [中国国家版本馆开馆：东西南北各一个 保管文明“金种子”](https://www.cnbeta.com/articles/tech/1299005.htm) | Sun Jul 31 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;打篮球的友友们应该知道，走步是比赛中最常见的违规之一。为了更好地监测篮球比赛中球员是否出现走步行为，一位网名叫@Ayush Pai的小哥&lt;span style=&quot;&quot;&gt;（我们就叫他AP哥吧）&lt;/span&gt;搞出了一个AI裁判。如你所见，计算机时刻“盯着”打篮球的人，并且立马能判断出这个人是否走步了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月30日，中国国家版本馆开馆，采用“一总三分”的馆藏体系，&lt;strong&gt;除了中央总馆文瀚阁外，还有西安分馆文济阁、杭州分馆文润阁、广州分馆文沁阁构成&lt;/strong&gt;，是新时代标志性文化传世工程，将全面履行国家版本资源保藏传承职责。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [2022上半年我国智能手机产量5.76亿台 计算机设备2.12亿台](https://www.cnbeta.com/articles/tech/1298979.htm) | Sun Jul 31 2022 7:12 AM 
+- 💼 [SEMI：2022年第二季度全球硅晶圆出货量创下新纪录](https://www.cnbeta.com/articles/tech/1299003.htm) | Sun Jul 31 2022 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月31日，工信部数据显示，6月份，规模以上电子信息制造业增加值同比增长11%，较5月份高3.7个百分点。上半年，规模以上电子信息制造业增加值同比增长10.2%，增速分别超出工业、高技术制造业6.8个百分点和0.6个百分点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月30日，SEMI SMG（Silicon Manufacturers Group）在其最新一期的硅片行业季度报告中指出，2022年第二季度全球硅晶圆出货量超过了今年第一季度创下的历史新高，同比增长1%，达到3704百万平方英寸（MSI）。第二季度硅晶圆出货量比去年同期的3534百万平方英寸增长了5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“运油20”加油机和“歼16”开展海上空中加油训练](https://www.cnbeta.com/articles/tech/1298975.htm) | Sun Jul 31 2022 7:09 AM 
+- 💂 [烧光百亿！众叛亲离的每日优鲜被谁拔了氧气管？](https://www.cnbeta.com/articles/tech/1299001.htm) | Sun Jul 31 2022 7:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天上午，2022年空军航空开放活动暨长春航空展新闻发布会在北京召开。空军新闻发言人申进科大校发布消息称，新一代空中加油机运油-20投入新时代练兵备战。运油-20和歼-16飞机近日已开展海上方向空中加油训练，提高了实战化训练水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;互联网电商的阵营里，又倒下一员大将。7月27日，主打社区生鲜的每日优鲜，关闭“极速达”业务，第二天网上就流传着一条15分半的会议录音，约700位员工被通知结束工作，公司原地解散。一年收入超70亿的上市公司，说没就没了，网友在微博发出评论：“上市公司都能原地解散，资本市场可太精彩了。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [时隔四年《进化》原因不明突然复活 近千人闻讯上线游玩](https://hot.cnbeta.com/articles/game/1298973.htm) | Sun Jul 31 2022 7:07 AM 
+- 🚀 [在手游“逼氪”上 暴雪、任天堂出现了分歧](https://hot.cnbeta.com/articles/game/1298999.htm) | Sun Jul 31 2022 7:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;早在2018年我们就曾报道，在经历了游戏免费、开发商停止支持等等诸多波折之后，《进化》专用服务器于2018年9月3日关闭。但近日据玩家反应，《进化》的服务器又开启了。国外玩家称：“我自已和多个自己服务器的成员玩了款游戏，这是2018年来首次。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;毁誉参半的《暗黑破坏神：不朽》（简称“《不朽》”），正在手游圈子里掀起风浪。一方面，这款暴雪娱乐酝酿了4年之久的暗黑系列第一款手游，迎来了3500万玩家的预约，开服动辄5000人排队。在海外上线不到两个月，收入突破了1亿美元，成为了吸金速度最快的手游之一。7月25日开启国服公测后，连续两天在国内苹果App Store所有类别排名中均列第一。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [江西、浙江高温日数超25天 10省区市将现37℃以上高温](https://www.cnbeta.com/articles/tech/1298971.htm) | Sun Jul 31 2022 7:06 AM 
+- 🎊 [国外论坛爆料《生化危机9》情报 怪物可化作人形](https://hot.cnbeta.com/articles/game/1298997.htm) | Sun Jul 31 2022 7:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;6月以来，不少城市都感受到了这一波超越夏天正常节奏的热浪。据@中国天气，中央气象台7月31日06时发布高温黄色预警：预计7月31日白天，内蒙古西北部、新疆南疆盆地东部和吐鲁番、甘肃河西、陕西关中、湖北西部、江南、华南、四川东部、重庆等地有35℃以上高温天气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国外论坛4chan一篇帖子声称自己掌握到疑似《生化危机9》的新情报，并将情报内容公之于众。由于其来源不明，因此目前我们只能将其作为传言来对待，且可信度不高。根据爆料内容显示，这款新作名为《生化危机：启示录》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
