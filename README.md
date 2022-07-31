@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华为建成首个5G MetaAAU超级上行示范区：室内速率提高4倍](https://www.cnbeta.com/articles/tech/1299047.htm) | Sun Jul 31 2022 12:17 PM 
+- 🕯 [胡军代言理财产品翻车？疑似涉34万人390亿元](https://www.cnbeta.com/articles/tech/1299055.htm) | Sun Jul 31 2022 1:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，知名演员胡军因代言的理财产品翻车引发关注，网友在线声讨，称他合作代言的产品涉嫌欺诈。据了解，胡军代言的是玖富旗下的一款名叫“悟空”的理财产品，疑似涉及34万受害者，共计390亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [比亚迪王传福喝过电解液？这未免也太惊悚了](https://www.cnbeta.com/articles/tech/1299053.htm) | Sun Jul 31 2022 1:22 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“比亚迪董事长王传福喝下电解液”的故事，每隔一段时间都会在网上“流传”，品驾最近又看到了一波——这到底是真还是假？这一传闻又是从哪来？品驾经调查发现，有关这一传闻最早的报道，是一篇在2009年4月13日发表于《财富》杂志、题为《巴菲特开上电动车》（原文标题：Warren Buffett takes charge）的文章。文章中是这样描述的：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [比亚迪汉最强新势力对手 哪吒S正式上市：19.98万起](https://www.cnbeta.com/articles/tech/1299051.htm) | Sun Jul 31 2022 1:22 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;7月31日晚，哪吒S正式上市，新车共推出8款车型，&lt;strong&gt;售价区间为19.98-33.88万元。&lt;/strong&gt;哪吒S是哪吒全新自研山海平台首款落地车型，也是品牌旗下旗舰产品，定位于中型轿跑车，&lt;strong&gt;长宽高分别为4980*1980*1450毫米，轴距2980毫米&lt;/strong&gt;，与比亚迪汉EV、小鹏P7、零跑C01等车基本上处于同一水准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《GTA6》女性主角引争议 “粉丝”称过于正确](https://hot.cnbeta.com/articles/game/1299049.htm) | Sun Jul 31 2022 1:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最近彭博社报道称《GTA6》将有系列史上首个女主角，这引起了国外部分“粉丝”的不满。这些粉丝认为《GTA》是一个硬核犯罪游戏，是面向纯爷们的一个游戏，如果是一个女主角，这显然是无法接受的。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [华为建成首个5G MetaAAU超级上行示范区：室内速率提高4倍](https://www.cnbeta.com/articles/tech/1299047.htm) | Sun Jul 31 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，湖北联通携手华为率先建成全国首个基于MetaAAU超级上行示范区，通过连片部署3.5G MetaAAU，实现武汉江夏区生物产业园区连续覆盖。同时开通SUL超级上行，成功应用于企业视频监控业务和个人高清直播业务。&lt;strong&gt;超级上行开通后，5G上行峰值达460Mbps，室内远点速率较开通前最高可提升4倍，带来了下行流量的指数级增长。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [华硕、微星撑腰 Intel Arc显卡终于有了大品牌整机](https://www.cnbeta.com/articles/tech/1299045.htm) | Sun Jul 31 2022 12:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel 6月中发布了首款桌面独立显卡Arc A380，但除了蓝戟的一款，就只有京天、宁美等品牌的整机，而且仅限中国内地市场。现在，它终于准备进去全球市场了，终于有大品牌加持了，终于有更多型号了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [传RTX 4080的3DMark跑分将近RTX 3080两倍](https://www.cnbeta.com/articles/tech/1299043.htm) | Sun Jul 31 2022 12:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前几天已经有人在网上公布了RTX 4090的3DMark Time Spy Extreme，据称该显卡得分超过19000分，较现有旗舰RTX 3090 Ti提高了66%，现在他又放出了RTX 4080和RTX 4070的测试性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [沈腾新片《独行月球》上映3天票房破9亿](https://hot.cnbeta.com/articles/movie/1299041.htm) | Sun Jul 31 2022 11:46 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据艺恩娱数的最新统计，截至19点25分，《独行月球》的累计票房已经突破9.3亿，这仅仅是上映的第3天。就目前的拍片量、观影人次、口碑来看，本片最终或能达到20亿以上的超高票房成绩。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1299041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [我国5G基站数达185.4万个 已建成全球规模最大网络基建](https://www.cnbeta.com/articles/tech/1299039.htm) | Sun Jul 31 2022 11:37 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;7月31日下午消息，2022中国算力大会透露到，中国已建成全球规模最大、技术领先的网络基础设施。&lt;/strong&gt;据中国信息通信研究院测算，2021年，算力核心产业规模超过1.5万亿元，关联产业规模超过8万亿。其中，云计算市场规模超过3000亿元，IDC服务市场规模超过1500亿元，人工智能核心产业规模超过4000亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
