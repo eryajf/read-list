@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [俄国家航天集团总裁：退出国际空间站与建设自己的空间站须同步进行](https://www.cnbeta.com/articles/science/1298953.htm) | Sun Jul 31 2022 3:56 AM 
+- 🕯 [Netflix指控The Unofficial Bridgerton Musical侵犯《布里奇顿》版权](https://hot.cnbeta.com/articles/movie/1298959.htm) | Sun Jul 31 2022 4:22 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据Deadline首次报道，&lt;strong&gt;Netflix正在起诉The Unofficial Bridgerton Musical背后的二人组Abigail Barlow和Emily Bear，指控他们侵犯了版权。&lt;/strong&gt;在Barlow和Bear为他们的《布里奇顿&lpar;Bridgerton&rpar;》专辑举办了一场现场演出并且场场爆满之后，这家流媒体巨头在华盛顿特区的一家地方法院提起了诉讼。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [恒大汽车旗下首款量产车恒驰5 8月1日开启大定](https://www.cnbeta.com/articles/tech/1298957.htm) | Sun Jul 31 2022 4:12 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;7月初，恒大汽车旗下首款量产车恒驰5开启预售，综合补贴后预售价为17.9万元，恒驰汽车总裁刘永灼表示，&lt;strong&gt;恒驰5是“30万以内最好的纯电SUV”。&lt;/strong&gt;今日，恒驰汽车宣布，&lt;strong&gt;恒驰5将于8月1日开启大定，按交大定顺序交车，交车时付车款，&lt;/strong&gt;提车后15天内可退车并退款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [研究：一种能提高运动成绩的物质也能加速胰腺癌的发展](https://www.cnbeta.com/articles/science/1298955.htm) | Sun Jul 31 2022 4:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;根据密歇根大学罗杰尔癌症中心的研究，胰脏病变向胰腺癌的发展是由一种细胞核受体推动的，这种受体被高脂肪饮食和不规范的运动表现增强剂中的合成化合物激活。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [俄国家航天集团总裁：退出国际空间站与建设自己的空间站须同步进行](https://www.cnbeta.com/articles/science/1298953.htm) | Sun Jul 31 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;7月30日，俄罗斯国家航天集团总裁鲍里索夫表示，退出国际空间站项目与建设俄罗斯自己的空间站须同步进行。鲍里索夫30日在“俄罗斯24”电视台的节目中表示，结束国际空间站工作和启动俄罗斯空间站，这两项工作必须同步进行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马斯克再以“叹气”推文回应Twitter虚假账号问题](https://www.cnbeta.com/articles/tech/1298951.htm) | Sun Jul 31 2022 3:21 AM 
+- 🎊 [马斯克再以“叹气”推文回应Twitter虚假账号问题](https://www.cnbeta.com/articles/tech/1298951.htm) | Sun Jul 31 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;北京时间7月31日消息，网友评论马斯克，称推特正在关停“good bots（好的机器人）”标签，近期ExplainThisBob的账号被冻结，而那些垃圾信息和虚假账号大军仍然自由地活跃着。马斯克叹气回复该评论，表露其出对于放弃收购推特以及反诉推特的态度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [计算器大神演奏游戏名曲 《超级玛丽》经典名曲重现](https://hot.cnbeta.com/articles/funny/1298949.htm) | Sun Jul 31 2022 3:18 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;众所周知，计算器的每一个按键的音阶都略有不同，就有不少高玩开始研究新玩法了，@ atarime_desu网友就是其中之一，日前公开了最忌许久未出的新作品《超级玛丽》经典名曲，手法依然娴熟，一起来欣赏下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1298949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [郭台铭声明：遭虚拟货币广告冒用照片 已启动追查](https://www.cnbeta.com/articles/tech/1298947.htm) | Sun Jul 31 2022 3:17 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月31日消息，昨日，鸿海集团创始人郭台铭在社交媒体发布声明称，近期有不肖业者以郭台铭创办人照片投放虚拟货币等相关诈骗广告，郭台铭办公室对此严正谴责，此举已经触法，律师团队已联系主管机关启动追查，有心人切莫以身试法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [最会画画的影星？德普画作780张几小时卖光收获300万英镑](https://hot.cnbeta.com/articles/movie/1298945.htm) | Sun Jul 31 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;好莱坞巨星约翰尼•德普近期因为各种家事弄得灰头土脸，不过绝不影响其发挥才艺，日前据报道其业余爱好的绘画作品多达780张在宣布开卖后，仅仅几个小时就被抢购一空，收获约300万英镑。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
