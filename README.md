@@ -401,7 +401,7 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [任意键｜初见月迅龙、爱生气的巫妖王、奶刃三部曲及其他](https://sspai.com/post/74890) | Sat Jul 30 2022 6:58 AM 
+- 👹 [任意键｜初见月迅龙；爱生气的巫妖王；奶刃三部曲及其他](https://sspai.com/post/74890) | Sat Jul 30 2022 6:58 AM 
     <details><summary>展开描述 ...</summary> 
     周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当@Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。如果你对本栏目的内容方向和呈现形式有不同的见解和主张，欢迎在评论 ...&lt;a href=&quot;https://sspai.com/post/74890&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
