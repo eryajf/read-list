@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [如何评价《自私的基因》这本书？](http://daily.zhihu.com/story/9751138) | Sat Jul 30 2022 12:27 AM
-- 🐻 [新疆深度旅行该如何制定线路？有哪些建议？](http://daily.zhihu.com/story/9751157) | Sat Jul 30 2022 12:27 AM
-- 🌏 [价值理论是用来解释相对价格理论的，还是解释货币（总量）的理论？](http://daily.zhihu.com/story/9751173) | Sat Jul 30 2022 12:27 AM
-- 🕴 [身处异乡时，你都会做什么家乡菜来缓解思乡之情？](http://daily.zhihu.com/story/9751204) | Sat Jul 30 2022 12:27 AM
-- 🌮 [电影《卧虎藏龙》里玉娇龙为什么那么在意要青冥剑？](http://daily.zhihu.com/story/9751213) | Sat Jul 30 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [大误 · 你最想撤回的一次操作是什么？](http://daily.zhihu.com/story/9751250) | Sun Jul 31 2022 12:27 AM
+- 🐻 [为什么男性力量远远大于女性？](http://daily.zhihu.com/story/9751231) | Sun Jul 31 2022 12:27 AM
+- 🌏 [跳水项目的难度系数是如何计算出来的？](http://daily.zhihu.com/story/9751236) | Sun Jul 31 2022 12:27 AM
+- 🕴 [为什么航空器的速度单位是「节」，而不是更常用的「千米/时」？](http://daily.zhihu.com/story/9751245) | Sun Jul 31 2022 12:27 AM
+- 🌮 [为什么美食作家王刚做菜时先用油滑锅倒出再加底油？](http://daily.zhihu.com/story/9751249) | Sun Jul 31 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
