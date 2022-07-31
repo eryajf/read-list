@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [最近在网上遨游，终于蹲到一个用 neovim 写 swiftUI 看起来比较靠谱的集成解决方案。](https://www.v2ex.com/t/869787#reply0) | Sun Jul 31 2022 8:18 AM
-- 🤗 [今天看到一篇文章“ 大量工作毫无意义，为什么还在抢着做？”，作为一个 996 的你，这些年到底写了多少毫无意义的代码？](https://www.v2ex.com/t/869784#reply3) | Sun Jul 31 2022 7:49 AM
-- 🎭 [VSCode Remote 很香！但是有几个槽点](https://www.v2ex.com/t/869781#reply9) | Sun Jul 31 2022 7:36 AM
-- 🥷 [redmi k30 刷了 PE plus, 感觉良好](https://www.v2ex.com/t/869772#reply7) | Sun Jul 31 2022 6:27 AM
-- 🐵 [Linux 创建 socket 节点连不上求助一下各位](https://www.v2ex.com/t/869765#reply3) | Sun Jul 31 2022 5:26 AM<!-- v2ex:END -->
+- 🥸 [现在做点啥小网站或者小 app 能挣点零花钱呢](https://www.v2ex.com/t/869791#reply3) | Sun Jul 31 2022 8:43 AM
+- 🤗 [从代码实例角度来分析 MVC 和 MVVM 框架](https://www.v2ex.com/t/869789#reply4) | Sun Jul 31 2022 8:21 AM
+- 🎭 [最近在网上遨游，终于蹲到一个用 neovim 写 swiftUI 看起来比较靠谱的集成解决方案。](https://www.v2ex.com/t/869787#reply0) | Sun Jul 31 2022 8:18 AM
+- 🥷 [今天看到一篇文章“ 大量工作毫无意义，为什么还在抢着做？”，作为一个 996 的你，这些年到底写了多少毫无意义的代码？](https://www.v2ex.com/t/869784#reply11) | Sun Jul 31 2022 7:49 AM
+- 🐵 [VSCode Remote 很香！但是有几个槽点](https://www.v2ex.com/t/869781#reply10) | Sun Jul 31 2022 7:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
