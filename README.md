@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么是TensorFlow—机器学习库的解释](https://juejin.cn/post/7126525338368081957) | Sun Jul 31 2022 1:19 PM 
+- 🤗 [Vue3 中 引入 SVG 图标🔥](https://juejin.cn/post/7126536835290890254) | Sun Jul 31 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
-    什么是TensorFlow？机器学习库的解释 TensorFlow是一个对Python友好的开源数值计算库，它使机器学习和开发神经网络更快、更容易。 目录 TensorFlow如何工作 在Python 
+    Vue3 中 引入 SVG 图标， iconfont ，阿里图标库，svg-icon 引言 通过之前一段时间 Express 和 Mysql 的学习 这里尝试搭建一个 *后台系统* 来巩固下学习技术 
     </details> 
 
-- 🎡 [C++ 23将引入模块支持](https://juejin.cn/post/7126524756425179149) | Sun Jul 31 2022 1:15 PM 
+- 🎡 [面试突击69：TCP 可靠吗？为什么？](https://juejin.cn/post/7126535570989252638) | Sun Jul 31 2022 1:58 PM 
     <details><summary>展开描述 ...</summary> 
-    首页 软件开发 C++ C++ 23将引入模块支持 从标准库开始，模块有望改善编译速度和C++开发者组织代码的方式。 作者： Paul Krill 信息世界》总编辑 M-A-U / Getty Ima 
+    相比于 UDP 来说，TCP 的主要特性是三个：有连接、可靠、面向数据流。所谓的“有连接”指的是 TCP... 
     </details> 
 
-- 🕯 [C++ 23将引入模块支持](https://juejin.cn/post/7126524733247455240) | Sun Jul 31 2022 1:15 PM 
+- 🕯 [8个你可能不知道的令人震惊的 HTML 技巧](https://juejin.cn/post/7126535265740390408) | Sun Jul 31 2022 1:57 PM 
     <details><summary>展开描述 ...</summary> 
-    首页 软件开发 C++ C++ 23将引入模块支持 从标准库开始，模块有望改善编译速度和C++开发者组织代码的方式。 作者： Paul Krill 信息世界》总编辑 M-A-U / Getty Ima 
+    1. 捕获属性打开你的设备摄像头 正如 input 标记具有 email、 text 和 password 属性一样，还有一个属性可以打开移动设备的摄像头来捕捉图像。 这是通过 capture 属性完 
     </details> 
 
-- 🚀 [vue3入门27 - typeScript 高级类型-类型断言、类型别名](https://juejin.cn/post/7126524621637025823) | Sun Jul 31 2022 1:15 PM 
+- 🚀 [[拓扑排序] 6135. 图中的最长环](https://juejin.cn/post/7126534772515405838) | Sun Jul 31 2022 1:55 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 前言 这一节我们来了解下typeScript中高级类型的类型断言和类型别名 类型断言 之前我们在类型保护中 
+    leetcode原题链接：https://leetcode.cn/problems/longest-cycle-in-a-graph/ 难度：困难 方法：拓扑排序 题目 给你一个 n 个节点的 有向图 
     </details> 
 
-- 💪 [30行python代码实现“代码雨”](https://juejin.cn/post/7126524225564704798) | Sun Jul 31 2022 1:14 PM 
+- 💪 [5](https://juejin.cn/post/7126534192791617550) | Sun Jul 31 2022 1:52 PM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 1. 介绍 上手 python，很多人最先接触的就是 pygame 包了，能在有一定趣味性的同时，建立起对 python 的基本认识。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 一、题目描述 给定一个长度为 n 的整数数组 nums 。 假设 arrk 是数组 nums 顺时针旋转  
     </details> 
 <!-- juejin:END -->
 ### 少数派
