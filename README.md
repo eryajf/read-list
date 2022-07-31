@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java BigDecimal知多少？](https://juejin.cn/post/7126468973352189988) | Sun Jul 31 2022 9:39 AM 
+- 🤗 [STM32+MPU6050设计便携式Mini桌面时钟&lpar;自动调整时间显示方向&rpar;](https://juejin.cn/post/7126485208861245454) | Sun Jul 31 2022 10:45 AM 
     <details><summary>展开描述 ...</summary> 
-    大家都知道小六六是搞支付的，那么搞支付的话，对于金钱的精度还是要细心的，对于amout这个字段的取值类型还是需要我们多多我们注意的,因为一不小心就能搞出个不小的事故 BigDecimal概述 Java 
+    本次设计的时钟可以根据MPU6050测量的姿态自动调整显示画面方向，也就是倒着拿、横着拿、反着拿都可以让时间显示是正对着自己的，时间支持自己调整，支持串口校准。可以按键切换页面查看环境温度显示。 
     </details> 
 
-- 🎡 [SpringBoot集成文件 - 如何集成itextpdf导出PDF？itext的变迁？](https://juejin.cn/post/7126467199660720158) | Sun Jul 31 2022 9:33 AM 
+- 🎡 [Java Lambda表达式原理解析](https://juejin.cn/post/7126485060697456647) | Sun Jul 31 2022 10:43 AM 
     <details><summary>展开描述 ...</summary> 
-    除了处理word, excel等文件外，最为常见的就是PDF的导出了。在java技术栈中，PDF创建和操作最为常用的itext了，但是使用itext一定要了解其版本历史和License问题，在早前版本 
+    java中有lambda,在使用java的过程中我们没少用&lpar;啥?用的kotlin?你别说话&rpar;但是你知道lambda的实现原理吗? 接下来就来解析lambda实现 
     </details> 
 
-- 🕯 [webpack入门之js处理&lpar;babel、babel polyfill&rpar;](https://juejin.cn/post/7126465727178997791) | Sun Jul 31 2022 9:26 AM 
+- 🕯 [Spring Security-访问控制url匹配](https://juejin.cn/post/7126484067771482126) | Sun Jul 31 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-    前面我们说了使用webpack处理css和各种文件，今天我们再来说说使用webpack来处理我们前端三大件中的js。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情。 一、访问控制url匹配 在前面讲解了认证中所有常用配置，主要是对http.formLogin&lpar;&rpar;进行操作 
     </details> 
 
-- 🚀 [After Effects 教程，如何在 After Effects 中调整过度曝光的快照？](https://juejin.cn/post/7126462917297307684) | Sun Jul 31 2022 9:16 AM 
+- 🚀 [EfficientDet训练自己的数据集](https://juejin.cn/post/7126481500861792269) | Sun Jul 31 2022 10:28 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 After Effects 中文版教程，小编带大家学习 After Effects 的基本工具和使用技巧，了解如何在 AE 中调整过度曝光的快照。 
+    ​本文已参与「新人创作礼」活动，一起开启掘金创作之路。 https://github.com/toandaominh1997/EfficientDet.Pytorchhttps://github.co 
     </details> 
 
-- 💪 [Three.js的简单使用，Three.js在vue3.x中导入.pcd三维模型文件](https://juejin.cn/post/7126461520417914887) | Sun Jul 31 2022 9:10 AM 
+- 💪 [如何写好JavaScript代码 | 青训营笔记](https://juejin.cn/post/7126481284867555335) | Sun Jul 31 2022 10:27 AM 
     <details><summary>展开描述 ...</summary> 
-    本文说明 本文主要简单介绍了，在Vue3.x项目中如何简单的使用Three.js，导入PCD三维模型文件。 
+    关于如何去写好JavaScript代码这个问题，我们一般会遵循各司其责、组件封装、过程抽象这三大原则来展开描述。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
