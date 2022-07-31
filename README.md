@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [高端版M2 MacBook Pro、Mac mini仍被认为将于2022年底发布](https://www.cnbeta.com/articles/tech/1299073.htm) | Sun Jul 31 2022 4:29 PM 
+- 🕯 [生物传感器：废旧光盘的“第二次生命”](https://www.cnbeta.com/articles/science/1299083.htm) | Sun Jul 31 2022 7:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;高端MacBook Pro系列和Mac mini的芯片更新仍有望在2022年底之前发生，一份报告再次证实了这些产品的传闻。到目前为止，装备M2处理器的产品系列包括13英寸MacBook Pro和改版后的MacBook Air，但其他芯片的变化预计将在开发中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由于电子产品寿命短暂，电子垃圾已经成为全球性问题。美国纽约州立大学宾厄姆顿大学的一项新研究给了废弃的光盘“第二次生命”——将它们变成廉价且易于制造的柔性生物传感器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [警方认定网红用濒危大白鲨做美食 视频已全部消失](https://www.cnbeta.com/articles/tech/1299071.htm) | Sun Jul 31 2022 4:26 PM 
+- 💼 [不能让“定位腰带”变成“私家侦探”](https://www.cnbeta.com/articles/tech/1299081.htm) | Sun Jul 31 2022 7:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，美食博主“提子”发布了一则水煮鲨鱼、烧烤鲨鱼的视频，引发广泛关注，但有网友指出，视频中的鲨鱼是国际濒危野生动物噬人鲨，相当于国家二级保护动物。据&lt;a class=&quot;f14_link&quot; href=&quot;https://baijiahao.baidu.com/s?id=1739875095379839271&quot; target=&quot;_blank&quot;&gt;封面新闻&lt;/a&gt;报道，&lt;strong&gt;经四川南充警方鉴定，“提子”视频中的鲨鱼确是噬人鲨，也称大白鲨，关于噬人鲨来源并未透露，相关案件正在进一步办理中。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，有网友发帖称，在老婆送给自己的皮带头上发现电子设备，咨询网友是不是用来定位的。据报道，某电商平台确有定位皮带头在售，不过大多是用于协助老年痴呆患者日常生活，还有店主明确提醒该商品不能用于“非法用途”。（7月31日《北京青年报》）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [北斗三号全球导航系统正式开通 59颗卫星100％成功、最高精度1米](https://www.cnbeta.com/articles/tech/1299069.htm) | Sun Jul 31 2022 4:26 PM 
+- 💂 [阿尔卑斯山脉遭遇热浪 滑雪等活动受限](https://www.cnbeta.com/articles/tech/1299079.htm) | Sun Jul 31 2022 6:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;7月31日，北斗三号全球卫星导航系统建成暨开通仪式在北京举行。&lt;/strong&gt;中国航天科技集团五院、北斗三号卫星总设计师陈忠贵表示：“北斗卫星导航系统的开通仪式，是我们北斗一个重要的承诺，向全球用户提供连续、稳定的服务。我作为一个参与的一个建设者感到无比自豪。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自去年冬天以来，阿尔卑斯山经历了两次初夏热浪。7月，瑞士西南部瓦莱州滑雪胜地采尔马特的气温接近30摄氏度，致使当地山脉雪线退至海拔5184米的高处，创历史新高，而夏季的正常雪线在海拔3000至3500米之间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [第6号台风“翠丝”来了 和5号一个命运](https://www.cnbeta.com/articles/tech/1299067.htm) | Sun Jul 31 2022 4:25 PM 
+- 🚀 [拜登复阳 辉瑞新冠口服药疗效引争议](https://www.cnbeta.com/articles/tech/1299077.htm) | Sun Jul 31 2022 6:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中央气象台公报，&lt;strong&gt;今年第6号台风“翠丝”于7月31日下午在东海东南部海面上生成。&lt;/strong&gt;“翠丝”目前为热带风暴级，英文名称“Trases”来源于柬埔寨，意思是“啄木鸟”。&lt;strong&gt;7月31日下午5点，“翠丝”的中心位于韩国济州岛偏南方向大约600公里的东海东南部海面上&lt;/strong&gt;，即北纬28.2度、东经127.4度，中心附近最大风力8级（18米/秒），中心最低气压为998百帕，七级风圈半径120-280公里。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国总统拜登新冠复阳的消息刷屏社交媒体。当地时间7月30日美国白宫总统医生凯文·奥康纳说，总统拜登当天新冠病毒检测结果再次呈阳性。而此前的27日，拜登新冠病毒检测结果刚刚为阴性，随后结束隔离。为何短短几天时间，拜登就复阳了？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [猴痘全球扩散 疫苗需求爆发 而全世界只有一家公司有合格疫苗](https://www.cnbeta.com/articles/tech/1299065.htm) | Sun Jul 31 2022 4:19 PM 
+- 🎊 [目标2纳米下一代芯片 美日“化敌为友”携手](https://www.cnbeta.com/articles/tech/1299075.htm) | Sun Jul 31 2022 6:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;原本鲜有人认为猴痘疫情可以和新冠疫情相提并论，认为只是又一个人类和传染病毒抗争的小小插曲。&lt;/strong&gt;然而随着78个国家共计报告18000多例猴痘病例，美国纽约州因猴痘疫情进入“灾难紧急状态”，巴西、西班牙相继报告3例猴痘死亡病例，一切都在发生改变。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“命运竟是如此奇异！”当昔日在半导体领域是竞争对手的美国与日本如今要携手研发下一代芯片时，日本经济产业大臣萩生田光一感慨万千。据外媒报道，在7月29日的美日外长级与商务部长级官员会谈上，美日宣布，将针对新一代半导体研究，启动建立一个“新的研发机构”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
