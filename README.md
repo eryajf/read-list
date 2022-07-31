@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [戏水后十几名儿童感染腺病毒 专家提醒留心水上乐园卫生状况](https://www.cnbeta.com/articles/tech/1299027.htm) | Sun Jul 31 2022 11:08 AM 
+- 🕯 [华为建成首个5G MetaAAU超级上行示范区：室内速率提高4倍](https://www.cnbeta.com/articles/tech/1299047.htm) | Sun Jul 31 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期，多地连续发生儿童游泳或玩水后感染腺病毒事件，有关专家提醒家长在夏日暑假期间务必谨慎对待水上乐园、私人游泳馆等公共水域。据澎湃新闻报道，&lt;strong&gt;7月29日，在安徽合肥，多名家长反映，当地包河花园幼儿园举行暑期班“玩水大战”后，多名幼儿确诊腺病毒，出现高烧、呕吐、红眼睛等症状。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，湖北联通携手华为率先建成全国首个基于MetaAAU超级上行示范区，通过连片部署3.5G MetaAAU，实现武汉江夏区生物产业园区连续覆盖。同时开通SUL超级上行，成功应用于企业视频监控业务和个人高清直播业务。&lt;strong&gt;超级上行开通后，5G上行峰值达460Mbps，室内远点速率较开通前最高可提升4倍，带来了下行流量的指数级增长。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国产兆芯处理器GPU性能啥水平？追上10年前的GT 630](https://www.cnbeta.com/articles/tech/1299025.htm) | Sun Jul 31 2022 11:07 AM 
+- 💼 [华硕、微星撑腰 Intel Arc显卡终于有了大品牌整机](https://www.cnbeta.com/articles/tech/1299045.htm) | Sun Jul 31 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;逼人的形势下，这两年国产CPU、GPU接连取得各种突破。近日，快科技独家获悉了兆芯开先KX-6000G处理器的GPU性能，比上代提升多达3倍。兆芯投资的格兰菲&lpar;Glenfly&rpar;日前就公布了其独立显卡Arise-GT10C0，28nm工艺，核心频率500MHz，搭配64/128-bit 2/4GB DDR4内存，支持DX11、OpenGL 4.5、OpenCL 1.2，兼容x86、Arm、MIPS等主流硬件平台，兼容银河麒麟KOS、统信软件UOS、Windows等主流操作系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel 6月中发布了首款桌面独立显卡Arc A380，但除了蓝戟的一款，就只有京天、宁美等品牌的整机，而且仅限中国内地市场。现在，它终于准备进去全球市场了，终于有大品牌加持了，终于有更多型号了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NVIDIA已经开始测试AD106和AD107 GPU核心的显卡产品](https://www.cnbeta.com/articles/tech/1299023.htm) | Sun Jul 31 2022 11:06 AM 
+- 💂 [传RTX 4080的3DMark跑分将近RTX 3080两倍](https://www.cnbeta.com/articles/tech/1299043.htm) | Sun Jul 31 2022 12:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周，我们一大批RTX 40系显卡出现在EEC数据库中，包括我们熟悉的老朋友RTX 4090、RTX 4080等。爆料人kopite7kimi透露，&lt;strong&gt;实际上NVIDIA已经开始测试AD106和AD107两套核心的显卡产品，预计分别对应RTX 4060和RTX 4050。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前几天已经有人在网上公布了RTX 4090的3DMark Time Spy Extreme，据称该显卡得分超过19000分，较现有旗舰RTX 3090 Ti提高了66%，现在他又放出了RTX 4080和RTX 4070的测试性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究发现常见的水痘和疱疹病毒的交集可能会诱发阿尔茨海默病](https://www.cnbeta.com/articles/science/1299021.htm) | Sun Jul 31 2022 10:35 AM 
+- 🚀 [沈腾新片《独行月球》上映3天票房破9亿](https://hot.cnbeta.com/articles/movie/1299041.htm) | Sun Jul 31 2022 11:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国国家老龄化研究所称，阿尔茨海默氏病是老年人痴呆的最常见原因，也是美国第七大死亡原因。它是一种使人虚弱的渐进性疾病，慢慢地破坏认知功能和记忆。它几乎可以在不知不觉中开始，往往在早期几个月或几年内伪装成老年时非常常见的健忘症，阿尔茨海默病的原因在很大程度上仍然是个谜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据艺恩娱数的最新统计，截至19点25分，《独行月球》的累计票房已经突破9.3亿，这仅仅是上映的第3天。就目前的拍片量、观影人次、口碑来看，本片最终或能达到20亿以上的超高票房成绩。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1299041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Linux Mint 21 “Vanessa”发布 基于Ubuntu 22.04 LTS打造](https://www.cnbeta.com/articles/tech/1299019.htm) | Sun Jul 31 2022 10:29 AM 
+- 🎊 [我国5G基站数达185.4万个 已建成全球规模最大网络基建](https://www.cnbeta.com/articles/tech/1299039.htm) | Sun Jul 31 2022 11:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Linux Mint 21已经正式发布，作为流行的桌面Linux发行版的最新版本，它建立在Ubuntu之上。最值得一提的是，Linux Mint 21将其基础从Ubuntu 20.04 LTS过渡到今年早些时候发布的Ubuntu 22.04 LTS。随着向两年前的Ubuntu软件包的转移，这个Linux发行版拥有大量的软件包升级和其他增强功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;7月31日下午消息，2022中国算力大会透露到，中国已建成全球规模最大、技术领先的网络基础设施。&lt;/strong&gt;据中国信息通信研究院测算，2021年，算力核心产业规模超过1.5万亿元，关联产业规模超过8万亿。其中，云计算市场规模超过3000亿元，IDC服务市场规模超过1500亿元，人工智能核心产业规模超过4000亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
