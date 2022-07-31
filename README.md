@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SQL27 查看不同年龄段的用户明细](https://juejin.cn/post/7126512041149366308) | Sun Jul 31 2022 12:27 PM 
+- 🤗 [什么是TensorFlow—机器学习库的解释](https://juejin.cn/post/7126525338368081957) | Sun Jul 31 2022 1:19 PM 
     <details><summary>展开描述 ...</summary> 
-    SQL27 查看不同年龄段的用户明细 携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 1、题目📑 现在运营想要将用户划分为20岁以下，20-24岁，25岁 
+    什么是TensorFlow？机器学习库的解释 TensorFlow是一个对Python友好的开源数值计算库，它使机器学习和开发神经网络更快、更容易。 目录 TensorFlow如何工作 在Python 
     </details> 
 
-- 🎡 [如何更简洁地实现富文本 Span](https://juejin.cn/post/7126510374114820132) | Sun Jul 31 2022 12:20 PM 
+- 🎡 [C++ 23将引入模块支持](https://juejin.cn/post/7126524756425179149) | Sun Jul 31 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-    现在的 App 基本都需要同意用户协议和隐私政策，通常会用富文本 Span 来实现局部点击。而 Span 的代码经常会写一大堆，个人基于官方的 core-ktx 库进行封装，实现一套完整好用的 API 
+    首页 软件开发 C++ C++ 23将引入模块支持 从标准库开始，模块有望改善编译速度和C++开发者组织代码的方式。 作者： Paul Krill 信息世界》总编辑 M-A-U / Getty Ima 
     </details> 
 
-- 🕯 [Angular 官方docs 我是这样用的](https://juejin.cn/post/7126507523967811592) | Sun Jul 31 2022 12:09 PM 
+- 🕯 [C++ 23将引入模块支持](https://juejin.cn/post/7126524733247455240) | Sun Jul 31 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-    导语 本文主要介绍下Angular文档，3年使用经验，欢迎评论，一起交流学习。介绍的过程中，结合日常开发经验，把重点的直接拎出来，其他的自己寻摸这看吧。 注意事项 首先看整体目录，了解docs文档结构 
+    首页 软件开发 C++ C++ 23将引入模块支持 从标准库开始，模块有望改善编译速度和C++开发者组织代码的方式。 作者： Paul Krill 信息世界》总编辑 M-A-U / Getty Ima 
     </details> 
 
-- 🚀 [Python&lpar;五&rpar;——运算符的使用](https://juejin.cn/post/7126506597572050958) | Sun Jul 31 2022 12:05 PM 
+- 🚀 [vue3入门27 - typeScript 高级类型-类型断言、类型别名](https://juejin.cn/post/7126524621637025823) | Sun Jul 31 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 1、算术运算符 运算符 说明 实例 结果 + 加 22.4 + 15 37.4 - 减 4.56 - 0. 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 前言 这一节我们来了解下typeScript中高级类型的类型断言和类型别名 类型断言 之前我们在类型保护中 
     </details> 
 
-- 💪 [用了这些css命名小技巧，我的代码优雅了不少！](https://juejin.cn/post/7126505567408881677) | Sun Jul 31 2022 12:01 PM 
+- 💪 [30行python代码实现“代码雨”](https://juejin.cn/post/7126524225564704798) | Sun Jul 31 2022 1:14 PM 
     <details><summary>展开描述 ...</summary> 
-    如果您使用 CSS 有一段时间，那么您就会知道继承、特异性和命名是一些最难处理的事情。由于所有 CSS 都是全局的，随着代码库的增长，防止样式相互冲突并导致意外副作用变得越来越困难! 
+    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 1. 介绍 上手 python，很多人最先接触的就是 pygame 包了，能在有一定趣味性的同时，建立起对 python 的基本认识。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
