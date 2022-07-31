@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于 Python 和 Matlab，各位程序员怎么看？](https://www.v2ex.com/t/869764#reply1) | Sun Jul 31 2022 5:09 AM
-- 🤗 [最近可能要涉及到一些 iOS 开发，想请教各位老司机一些基本的 iOS 开发问题。](https://www.v2ex.com/t/869746#reply6) | Sun Jul 31 2022 3:38 AM
-- 🎭 [一个超级简单的 dns 分类查询，类似 mosdns，但简单的多。。。](https://www.v2ex.com/t/869743#reply1) | Sun Jul 31 2022 3:03 AM
-- 🥷 [请问哪里有可靠的 Dropbox 家庭车？](https://www.v2ex.com/t/869736#reply4) | Sun Jul 31 2022 2:12 AM
+- 🥸 [Linux 创建 socket 节点连不上求助一下各位](https://www.v2ex.com/t/869765#reply2) | Sun Jul 31 2022 5:26 AM
+- 🤗 [关于 Python 和 Matlab，各位程序员怎么看？](https://www.v2ex.com/t/869764#reply11) | Sun Jul 31 2022 5:09 AM
+- 🎭 [最近可能要涉及到一些 iOS 开发，想请教各位老司机一些基本的 iOS 开发问题。](https://www.v2ex.com/t/869746#reply7) | Sun Jul 31 2022 3:38 AM
+- 🥷 [一个超级简单的 dns 分类查询，类似 mosdns，但简单的多。。。](https://www.v2ex.com/t/869743#reply3) | Sun Jul 31 2022 3:03 AM
 - 🐵 [凹语言源十日小计——兼 2022 下半年线路简介](https://www.v2ex.com/t/869728#reply2) | Sun Jul 31 2022 12:50 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
