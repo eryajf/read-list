@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Netflix指控The Unofficial Bridgerton Musical侵犯《布里奇顿》版权](https://hot.cnbeta.com/articles/movie/1298959.htm) | Sun Jul 31 2022 4:22 AM 
+- 🕯 [AI篮球裁判火了：走步算得特别准 就问哈登慌不慌](https://www.cnbeta.com/articles/tech/1298981.htm) | Sun Jul 31 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Deadline首次报道，&lt;strong&gt;Netflix正在起诉The Unofficial Bridgerton Musical背后的二人组Abigail Barlow和Emily Bear，指控他们侵犯了版权。&lt;/strong&gt;在Barlow和Bear为他们的《布里奇顿&lpar;Bridgerton&rpar;》专辑举办了一场现场演出并且场场爆满之后，这家流媒体巨头在华盛顿特区的一家地方法院提起了诉讼。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;打篮球的友友们应该知道，走步是比赛中最常见的违规之一。为了更好地监测篮球比赛中球员是否出现走步行为，一位网名叫@Ayush Pai的小哥&lt;span style=&quot;&quot;&gt;（我们就叫他AP哥吧）&lt;/span&gt;搞出了一个AI裁判。如你所见，计算机时刻“盯着”打篮球的人，并且立马能判断出这个人是否走步了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [恒大汽车旗下首款量产车恒驰5 8月1日开启大定](https://www.cnbeta.com/articles/tech/1298957.htm) | Sun Jul 31 2022 4:12 AM 
+- 💼 [2022上半年我国智能手机产量5.76亿台 计算机设备2.12亿台](https://www.cnbeta.com/articles/tech/1298979.htm) | Sun Jul 31 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月初，恒大汽车旗下首款量产车恒驰5开启预售，综合补贴后预售价为17.9万元，恒驰汽车总裁刘永灼表示，&lt;strong&gt;恒驰5是“30万以内最好的纯电SUV”。&lt;/strong&gt;今日，恒驰汽车宣布，&lt;strong&gt;恒驰5将于8月1日开启大定，按交大定顺序交车，交车时付车款，&lt;/strong&gt;提车后15天内可退车并退款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月31日，工信部数据显示，6月份，规模以上电子信息制造业增加值同比增长11%，较5月份高3.7个百分点。上半年，规模以上电子信息制造业增加值同比增长10.2%，增速分别超出工业、高技术制造业6.8个百分点和0.6个百分点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究：一种能提高运动成绩的物质也能加速胰腺癌的发展](https://www.cnbeta.com/articles/science/1298955.htm) | Sun Jul 31 2022 4:07 AM 
+- 💂 [“运油20”加油机和“歼16”开展海上空中加油训练](https://www.cnbeta.com/articles/tech/1298975.htm) | Sun Jul 31 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据密歇根大学罗杰尔癌症中心的研究，胰脏病变向胰腺癌的发展是由一种细胞核受体推动的，这种受体被高脂肪饮食和不规范的运动表现增强剂中的合成化合物激活。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天上午，2022年空军航空开放活动暨长春航空展新闻发布会在北京召开。空军新闻发言人申进科大校发布消息称，新一代空中加油机运油-20投入新时代练兵备战。运油-20和歼-16飞机近日已开展海上方向空中加油训练，提高了实战化训练水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [俄国家航天集团总裁：退出国际空间站与建设自己的空间站须同步进行](https://www.cnbeta.com/articles/science/1298953.htm) | Sun Jul 31 2022 3:56 AM 
+- 🚀 [时隔四年《进化》原因不明突然复活 近千人闻讯上线游玩](https://hot.cnbeta.com/articles/game/1298973.htm) | Sun Jul 31 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月30日，俄罗斯国家航天集团总裁鲍里索夫表示，退出国际空间站项目与建设俄罗斯自己的空间站须同步进行。鲍里索夫30日在“俄罗斯24”电视台的节目中表示，结束国际空间站工作和启动俄罗斯空间站，这两项工作必须同步进行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;早在2018年我们就曾报道，在经历了游戏免费、开发商停止支持等等诸多波折之后，《进化》专用服务器于2018年9月3日关闭。但近日据玩家反应，《进化》的服务器又开启了。国外玩家称：“我自已和多个自己服务器的成员玩了款游戏，这是2018年来首次。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马斯克再以“叹气”推文回应Twitter虚假账号问题](https://www.cnbeta.com/articles/tech/1298951.htm) | Sun Jul 31 2022 3:21 AM 
+- 🎊 [江西、浙江高温日数超25天 10省区市将现37℃以上高温](https://www.cnbeta.com/articles/tech/1298971.htm) | Sun Jul 31 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间7月31日消息，网友评论马斯克，称推特正在关停“good bots（好的机器人）”标签，近期ExplainThisBob的账号被冻结，而那些垃圾信息和虚假账号大军仍然自由地活跃着。马斯克叹气回复该评论，表露其出对于放弃收购推特以及反诉推特的态度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;6月以来，不少城市都感受到了这一波超越夏天正常节奏的热浪。据@中国天气，中央气象台7月31日06时发布高温黄色预警：预计7月31日白天，内蒙古西北部、新疆南疆盆地东部和吐鲁番、甘肃河西、陕西关中、湖北西部、江南、华南、四川东部、重庆等地有35℃以上高温天气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
