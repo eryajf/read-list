@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vue3 中 引入 SVG 图标🔥](https://juejin.cn/post/7126536835290890254) | Sun Jul 31 2022 2:03 PM 
+- 🤗 [纯css实现气泡上浮背景](https://juejin.cn/post/7126554438776389669) | Sun Jul 31 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
-    Vue3 中 引入 SVG 图标， iconfont ，阿里图标库，svg-icon 引言 通过之前一段时间 Express 和 Mysql 的学习 这里尝试搭建一个 *后台系统* 来巩固下学习技术 
+    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 前言 开开心心学技术大法~~ 来了来了，他真的来了~ 正文 先看下效果 实现思路 先实现一个线性渐变的背景，可以通过backgroun 
     </details> 
 
-- 🎡 [面试突击69：TCP 可靠吗？为什么？](https://juejin.cn/post/7126535570989252638) | Sun Jul 31 2022 1:58 PM 
+- 🎡 [IOS OpenGL ES GPUImage 图像阀值素描，形成有噪点的素描 GPUImageThresholdSketchFilter](https://juejin.cn/post/7126551920226861070) | Sun Jul 31 2022 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-    相比于 UDP 来说，TCP 的主要特性是三个：有连接、可靠、面向数据流。所谓的“有连接”指的是 TCP... 
+    目录 - [一.简介]&lpar;#%E4%B8%80%E7%AE%80%E4%BB%8B &quot;一.简介&quot;&rpar; - [二.效果演示]&lpar;#%E4%BA%8C%E6%95%88%E6%9E%9C%E6%BC%94% 
     </details> 
 
-- 🕯 [8个你可能不知道的令人震惊的 HTML 技巧](https://juejin.cn/post/7126535265740390408) | Sun Jul 31 2022 1:57 PM 
+- 🕯 [精通Java事务编程&lpar;5&rpar;-弱隔离级别之写倾斜与幻读](https://juejin.cn/post/7126550614040903711) | Sun Jul 31 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
-    1. 捕获属性打开你的设备摄像头 正如 input 标记具有 email、 text 和 password 属性一样，还有一个属性可以打开移动设备的摄像头来捕捉图像。 这是通过 capture 属性完 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 多事务并发写同一对象时，会出现脏写、更新丢失两种竞态。为避免数据不一致，可考虑： 借助DB内置机制 或通过 
     </details> 
 
-- 🚀 [[拓扑排序] 6135. 图中的最长环](https://juejin.cn/post/7126534772515405838) | Sun Jul 31 2022 1:55 PM 
+- 🚀 [初识机器学习：先验原则](https://juejin.cn/post/7126550325783167012) | Sun Jul 31 2022 2:55 PM 
     <details><summary>展开描述 ...</summary> 
-    leetcode原题链接：https://leetcode.cn/problems/longest-cycle-in-a-graph/ 难度：困难 方法：拓扑排序 题目 给你一个 n 个节点的 有向图 
+    直接使用关联规则学习算法有一个很大的问题，就是需要对海量种类的集合进行计算，整体的计算复杂度非常高。先验原则可以帮助我们减少项集组合的个数。 
     </details> 
 
-- 💪 [5](https://juejin.cn/post/7126534192791617550) | Sun Jul 31 2022 1:52 PM 
+- 💪 [分布式事务解决方案之可靠消息最终一致性](https://juejin.cn/post/7126550024145600549) | Sun Jul 31 2022 2:53 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 一、题目描述 给定一个长度为 n 的整数数组 nums 。 假设 arrk 是数组 nums 顺时针旋转  
+    本篇主要介绍了分布式事务解决方案之可靠消息最终一致性，以及最终一致性需要考虑的因素，最终采用RocketMQ事务消息方案来解决分布式事务。快来一起学习吧！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
