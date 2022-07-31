@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [C#线程简介](https://juejin.cn/post/7126387672481792036) | Sun Jul 31 2022 4:25 AM 
+- 🤗 [小试牛刀：Go 反射帮我把 Excel 转成 Struct](https://juejin.cn/post/7126396172666667022) | Sun Jul 31 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
-    这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 线程： 对于所有需要等待的操作，例如移动文件，数据库和网络访问都需要一定的时间，此时就可以启动一个新的线程，同时完成其他任务。 
+    本文介绍如果通过反射机制，实现把 Excel 中的数据像json.Unmarshal一样，可以自动进行类型转换，并且复值给结构体中的对应字段 
     </details> 
 
-- 🎡 [使用jOOQ 3.14合成外键在视图上写隐式连接](https://juejin.cn/post/7126382438971867149) | Sun Jul 31 2022 4:04 AM 
+- 🎡 [无代码人工智能：它是什么，它为什么重要？（Noogata）](https://juejin.cn/post/7126394934390685727) | Sun Jul 31 2022 4:52 AM 
     <details><summary>展开描述 ...</summary> 
-    jOOQ支持JPQL最酷的功能之一已经有一段时间了：隐式连接。使用jOOQ，你可以以一种安全的方式浏览你的to-one关系，隐式生成LEFT JOIN 操作，而不必一直考虑连接谓词，以及正确的连接顺序 
+    什么是无代码 AI，为什么它很重要？ 如今，大多数企业都在考虑如何变得更加以数据为驱动力，并更好地利用可用 
     </details> 
 
-- 🕯 [不要用jOOQ串联字符串的原因及实例](https://juejin.cn/post/7126382228572995620) | Sun Jul 31 2022 4:02 AM 
+- 🕯 [从 package.json 来聊聊如何管理一款优秀的 Npm 包](https://juejin.cn/post/7126394898445500423) | Sun Jul 31 2022 4:52 AM 
     <details><summary>展开描述 ...</summary> 
-    jOOQ开箱即支持大量的SQL语法。因此，大多数用户在使用JDBC编写动态SQL时，不会像以前那样采用字符串连接的方式。 但时不时地，jOOQ不支持某个厂商的特定功能（是的，它发生了）。在这种情况下， 
+    看不懂开源项目入口文件设计？也许是你并不了解 package.json 中的这些字段的含义。文章会从 package.json 来聊聊如何管理一款优秀的 Npm 包， 
     </details> 
 
-- 🚀 [不要用jOOQ串联字符串](https://juejin.cn/post/7126382230481403912) | Sun Jul 31 2022 4:02 AM 
+- 🚀 [深入浅出边缘云 | 4. 生命周期管理](https://juejin.cn/post/7126390588819111973) | Sun Jul 31 2022 4:37 AM 
     <details><summary>展开描述 ...</summary> 
-    jOOQ开箱即支持大量的SQL语法。因此，大多数用户在使用JDBC编写动态SQL时，不会像以前那样采用字符串连接的方式。 但时不时地，jOOQ不支持某个厂商的特定功能（是的，它发生了）。在这种情况下， 
+    本系列是开源电子书Edge Cloud Operations: A Systems Approach的中文版，详细介绍了基于开源组件构建的边缘云的架构、功能及具体实现。 
     </details> 
 
-- 💪 [不要用jOOQ串联字符串](https://juejin.cn/post/7126382228514766879) | Sun Jul 31 2022 4:02 AM 
+- 💪 [React路由进阶](https://juejin.cn/post/7126388189186490375) | Sun Jul 31 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
-    jOOQ开箱即支持大量的SQL语法。因此，大多数用户在使用JDBC编写动态SQL时，不会像以前那样采用字符串连接的方式。 但时不时地，jOOQ不支持某个厂商的特定功能（是的，它发生了）。在这种情况下， 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 一、react嵌套路由 在views文件夹下新建film文件夹，里面新建两个组件： 在Film.js增加嵌 
     </details> 
 <!-- juejin:END -->
 ### 少数派
