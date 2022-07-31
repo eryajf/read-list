@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究：婴儿的社会发展并未受到COVID-19大流行的影响](https://www.cnbeta.com/articles/science/1298925.htm) | Sun Jul 31 2022 2:00 AM 
+- 🕯 [俄国家航天集团总裁：退出国际空间站与建设自己的空间站须同步进行](https://www.cnbeta.com/articles/science/1298953.htm) | Sun Jul 31 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;健康问题和损失、社会孤立和心理健康问题--COVID-19大流行病对我们的社会产生了巨大的影响。但社会中最年轻的成员是如何应对这些变化的呢？苏黎世大学的科学家们发现，父母和照顾者的存在足以减轻该大流行对婴儿社会发展的负面影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月30日，俄罗斯国家航天集团总裁鲍里索夫表示，退出国际空间站项目与建设俄罗斯自己的空间站须同步进行。鲍里索夫30日在“俄罗斯24”电视台的节目中表示，结束国际空间站工作和启动俄罗斯空间站，这两项工作必须同步进行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [印度撑起可乐半边天？](https://www.cnbeta.com/articles/tech/1298923.htm) | Sun Jul 31 2022 1:59 AM 
+- 💼 [马斯克再以“叹气”推文回应Twitter虚假账号问题](https://www.cnbeta.com/articles/tech/1298951.htm) | Sun Jul 31 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“在疫情封控的影响下，中国业务承受了压力，在二季度按月销量出现下降。”可口可乐公司董事会主席兼首席执行官詹鲲杰（James Quincey）在财报电话会上如此表示。美国时间7月27日，可口可乐公布第二季度财报。财报显示，可口可乐第二季度营收113.25亿美元，同比增长12%；净利润19.05亿美元，同比下降27.8%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间7月31日消息，网友评论马斯克，称推特正在关停“good bots（好的机器人）”标签，近期ExplainThisBob的账号被冻结，而那些垃圾信息和虚假账号大军仍然自由地活跃着。马斯克叹气回复该评论，表露其出对于放弃收购推特以及反诉推特的态度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Apple Watch S7官翻版上架：2549元起 最高便宜800元](https://www.cnbeta.com/articles/tech/1298921.htm) | Sun Jul 31 2022 1:58 AM 
+- 💂 [计算器大神演奏游戏名曲 《超级玛丽》经典名曲重现](https://hot.cnbeta.com/articles/funny/1298949.htm) | Sun Jul 31 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月31日消息，从苹果中国商城获悉，目前，&lt;strong&gt;Apple Watch S7官翻版已正式在商城上架，售价2549元起。&lt;/strong&gt;具体来看，翻新版Apple Watch S7（GPS） 41mm运动表带款售价最低为2549元，相比原价2999元便宜了450元；45mm版本售价2719元，比原价3199元便宜480元；41mm蜂窝版售价3229元，比原价便宜570元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;众所周知，计算器的每一个按键的音阶都略有不同，就有不少高玩开始研究新玩法了，@ atarime_desu网友就是其中之一，日前公开了最忌许久未出的新作品《超级玛丽》经典名曲，手法依然娴熟，一起来欣赏下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1298949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [驾校现镂空“学车神器”教练车 只有钢管没有车皮](https://hot.cnbeta.com/articles/funny/1298919.htm) | Sun Jul 31 2022 1:57 AM 
+- 🚀 [郭台铭声明：遭虚拟货币广告冒用照片 已启动追查](https://www.cnbeta.com/articles/tech/1298947.htm) | Sun Jul 31 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，河北承德一驾校训练场，出现多辆只有骨架的镂空教练车在场地训练，因“画风”实在过于惊奇，引起网友关注热议。视频中，这些“镂空”教练车，没有车身外壳遮挡。不过虽然全车身都是钢管，&lt;strong&gt;但是方向盘、油门、刹车以及离合器配备齐全，学院在车内直接看着轮胎转弯、倒车，视野简直是“全景360°无死角”，看上去尤其适合新手学车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1298919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月31日消息，昨日，鸿海集团创始人郭台铭在社交媒体发布声明称，近期有不肖业者以郭台铭创办人照片投放虚拟货币等相关诈骗广告，郭台铭办公室对此严正谴责，此举已经触法，律师团队已联系主管机关启动追查，有心人切莫以身试法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [又一车企宣称电池“永不起火” 专家：动力电池没有绝对安全](https://www.cnbeta.com/articles/tech/1298917.htm) | Sun Jul 31 2022 1:56 AM 
+- 🎊 [最会画画的影星？德普画作780张几小时卖光收获300万英镑](https://hot.cnbeta.com/articles/movie/1298945.htm) | Sun Jul 31 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，思皓新能源乘用车旗下全新纯电动轿跑车型——思皓爱跑上市，新车搭载了高能量密度的高镍811三元锂圆柱型电芯，满电状态下最高续航为602km。官方介绍，上述高镍811三元锂圆柱型电芯使用了江淮汽车全新一代蜂窝电池技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;好莱坞巨星约翰尼•德普近期因为各种家事弄得灰头土脸，不过绝不影响其发挥才艺，日前据报道其业余爱好的绘画作品多达780张在宣布开卖后，仅仅几个小时就被抢购一空，收获约300万英镑。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
