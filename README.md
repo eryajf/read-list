@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React 性能调试好帮手：useWhyDidYouUpdate](https://juejin.cn/post/7126348241943134244) | Sun Jul 31 2022 1:51 AM 
+- 🤗 [计算分页元数据，无需在SQL中进行额外的往返操作](https://juejin.cn/post/7126372764553854990) | Sun Jul 31 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-    使用 React.memo 时想要知道 props 的哪个属性发生了改变呢？你可以试试 useWhyDidYouUpate 
+    当在SQL中对结果进行分页时，我们使用标准的SQLOFFSET .. FETCH 或供应商的特定版本，如LIMIT .. OFFSET 。比如说。 像往常一样，我们在这个例子中使用Sakila数据库。 
     </details> 
 
-- 🎡 [Java 8之Lambda表达式的写法套路](https://juejin.cn/post/7126342086248366110) | Sun Jul 31 2022 1:27 AM 
+- 🎡 [【LeetCode】1260. 二维网格迁移](https://juejin.cn/post/7126372638796021773) | Sun Jul 31 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 引入 相信现在搞Java的童鞋都知道启动一个线程可以这样写： Thread里面需要传的是一个Runnabl 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能力 
     </details> 
 
-- 🕯 [如何在Linux中比较多个文件？这12个优秀工具了解一下！](https://juejin.cn/post/7126340710353076261) | Sun Jul 31 2022 1:22 AM 
+- 🕯 [不再忘记在jOOQ中调用.execute&lpar;&rpar;。](https://juejin.cn/post/7126372012523520036) | Sun Jul 31 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    比较差异或者合并文字的工具在Linux中非常有用，不管是运维还是开发，掌握好几个自己比较熟悉的工具，会让你的效率高出很多倍。 本文给大家介绍的这12个工具一般在市面上反响比较好，大家可以选择几个多练练 
+    jOOQ的DSL，像任何流畅的API一样，有一个很大的注意事项。你很容易忘记调用.execute&lpar;&rpar; 。而当你这样做的时候，你有可能会盯着你的代码好几分钟，因为一切看起来都很完美。 盯着...盯着.. 
     </details> 
 
-- 🚀 [满帮web页面首屏秒开解决之道](https://juejin.cn/post/7126339044203560997) | Sun Jul 31 2022 1:16 AM 
+- 🚀 [在你的JDBC应用中使用IN列表填充以避免游标缓存争用问题](https://juejin.cn/post/7126371976599978020) | Sun Jul 31 2022 3:23 AM 
     <details><summary>展开描述 ...</summary> 
-    web项目优化到2s加载成功靠打包优化，缓存陪着，优化到1s靠离线，优化到200ms靠预运行。抽离每个项目公共需要运行的资源提前运行显著提高秒开体验 
+    很少有开发者意识到一个问题，那就是在SQL中使用IN列表时可能会遇到 &quot;游标缓存争夺 &quot;或 &quot;执行计划缓存争夺 &quot;的问题。在以前的文章中详细描述了这个问题，可以概括为这样。 所有这些都是不同的SQL查 
     </details> 
 
-- 💪 [头脑风暴：利用滚动数组求解01背包问题](https://juejin.cn/post/7126338667676696584) | Sun Jul 31 2022 1:15 AM 
+- 💪 [phpexcel（二）导入excel文件](https://juejin.cn/post/7126371304516616229) | Sun Jul 31 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    题目 有n件物品和一个最多能背重量为 w 的背包。第i件物品的重量是weight[i]，得到的价值是value[i] 。每件物品只能用一次，求解将哪些物品装入背包里物品价值总和最大。 解题思路 在上一 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 有导出。自然就有导入。功能多样化嘛。 我这里使用的是laravel5.8框架（框架老点，但是这玩意完全就是 
     </details> 
 <!-- juejin:END -->
 ### 少数派
