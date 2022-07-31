@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [西数22TB硬盘正式出货 单系统可达528TB](https://www.cnbeta.com/articles/tech/1299063.htm) | Sun Jul 31 2022 2:45 PM 
+- 🕯 [猴痘全球扩散 疫苗需求爆发 而全世界只有一家公司有合格疫苗](https://www.cnbeta.com/articles/tech/1299065.htm) | Sun Jul 31 2022 4:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;原本鲜有人认为猴痘疫情可以和新冠疫情相提并论，认为只是又一个人类和传染病毒抗争的小小插曲。&lt;/strong&gt;然而随着78个国家共计报告18000多例猴痘病例，美国纽约州因猴痘疫情进入“灾难紧急状态”，巴西、西班牙相继报告3例猴痘死亡病例，一切都在发生改变。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [西数22TB硬盘正式出货 单系统可达528TB](https://www.cnbeta.com/articles/tech/1299063.htm) | Sun Jul 31 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;西部数据日前宣布，旗下三款22TB大容量硬盘已经向零售市场正式出货，包括面向企业和云计算的WD Gold金盘、面向小型企业和家用NAS网络存储的WD Red Pro红盘、面向视频监控的WD Purple Pro紫盘。现在，&lt;strong&gt;其中的22TB红盘&lpar;WD221KFGX&rpar;已经上架，售价高达6899元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [金立“崩塌”前后：动荡、救赎、新生](https://www.cnbeta.com/articles/tech/1299061.htm) | Sun Jul 31 2022 2:44 PM 
+- 💂 [金立“崩塌”前后：动荡、救赎、新生](https://www.cnbeta.com/articles/tech/1299061.htm) | Sun Jul 31 2022 2:44 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“如果金立还在，我现在应该也不会是自由跃动的创始人，几年前，就应该是金立的CEO了吧。”两个月前的今天，金立前副总裁俞雷以这样一条微博，宣告了人生的新航向——创立自由跃动（FreeYond），杀回手机赛道。当所有人还在思考，手机红海是否还容得下一个新玩家时，FreeYond 已拿到第一笔18万台左右的订单，并将在8月份量产交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299061.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [蔚来李斌：7月少产几千辆车 拜托供应商顶住](https://www.cnbeta.com/articles/tech/1299059.htm) | Sun Jul 31 2022 2:41 PM 
+- 🚀 [蔚来李斌：7月少产几千辆车 拜托供应商顶住](https://www.cnbeta.com/articles/tech/1299059.htm) | Sun Jul 31 2022 2:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;7月31日，在2022年蔚来合作伙伴日活动上，蔚来汽车董事长李斌表示，&lt;strong&gt;蔚来ET7 6月份交付了4000多辆，原计划在此基础上，7月份将交付量提高一个台阶，但因为压铸件供应不足，少生产了几千辆。&lt;/strong&gt;为此，李斌在活动现场喊话：&lt;strong&gt;“拜托供应商顶住！”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [“二舅”短片翻车：涉及内容虚构 B站首页已不显示](https://hot.cnbeta.com/articles/movie/1299057.htm) | Sun Jul 31 2022 2:41 PM 
+- 🎊 [“二舅”短片翻车：涉及内容虚构 B站首页已不显示](https://hot.cnbeta.com/articles/movie/1299057.htm) | Sun Jul 31 2022 2:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，B站一段名为《回村三天，二舅治好了我的精神内耗》突然火爆全网。网友不禁感叹二舅的苦难一生，同时很多感慨，如果不是小时候那场高烧，二舅的人生可能和现在截然不同。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1299057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [胡军代言理财产品翻车？疑似涉34万人390亿元](https://www.cnbeta.com/articles/tech/1299055.htm) | Sun Jul 31 2022 1:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，知名演员胡军因代言的理财产品翻车引发关注，网友在线声讨，称他合作代言的产品涉嫌欺诈。据了解，胡军代言的是玖富旗下的一款名叫“悟空”的理财产品，疑似涉及34万受害者，共计390亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
