@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [生物传感器：废旧光盘的“第二次生命”](https://www.cnbeta.com/articles/science/1299083.htm) | Sun Jul 31 2022 7:02 PM 
+- 🕯 [Windows 11的下一次更新不会删除控制面板 但更多的选项将被转移](https://www.cnbeta.com/articles/tech/1299093.htm) | Sun Jul 31 2022 11:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于电子产品寿命短暂，电子垃圾已经成为全球性问题。美国纽约州立大学宾厄姆顿大学的一项新研究给了废弃的光盘“第二次生命”——将它们变成廉价且易于制造的柔性生物传感器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软一直在慢慢地淘汰经典Windows操作系统中的标志性元素：控制面板，将更多的设定页面转移到Windows设置应用程序中。现在这一工作又有新进展，下一个Windows 11更新，可能是一个累积性或小功能更新，将把更多的页面从控制面板重定向到设置应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [不能让“定位腰带”变成“私家侦探”](https://www.cnbeta.com/articles/tech/1299081.htm) | Sun Jul 31 2022 7:00 PM 
+- 💼 [詹姆斯-韦伯望远镜发回的新照片中出现疑似属于它的第一颗超新星](https://www.cnbeta.com/articles/science/1299091.htm) | Sun Jul 31 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，有网友发帖称，在老婆送给自己的皮带头上发现电子设备，咨询网友是不是用来定位的。据报道，某电商平台确有定位皮带头在售，不过大多是用于协助老年痴呆患者日常生活，还有店主明确提醒该商品不能用于“非法用途”。（7月31日《北京青年报》）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;詹姆斯-韦伯可能已经捕捉到其第一颗超新星的图像。这个太空望远镜背后的团队本月早些时候分享了一组图像和一份关于可能的瞬态的简要报告。根据该报告，该团队认为它在星系SDSS J141930.11+525159.3中发现了一个红外瞬变体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [阿尔卑斯山脉遭遇热浪 滑雪等活动受限](https://www.cnbeta.com/articles/tech/1299079.htm) | Sun Jul 31 2022 6:58 PM 
+- 💂 [总销量近1.2亿台 索尼PS4主机进入生命末期](https://www.cnbeta.com/articles/tech/1299089.htm) | Sun Jul 31 2022 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自去年冬天以来，阿尔卑斯山经历了两次初夏热浪。7月，瑞士西南部瓦莱州滑雪胜地采尔马特的气温接近30摄氏度，致使当地山脉雪线退至海拔5184米的高处，创历史新高，而夏季的正常雪线在海拔3000至3500米之间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼目前有两代主机PS4、PS5同时销售，其中前者是2013年发布的，现在已经进入了生命末期，因为索尼在最新的财报中首次不再公布PS4销量。据索尼2022财年Q1财报中的数据，当季度中PS5的销量为240万台，同比增加了10万台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [拜登复阳 辉瑞新冠口服药疗效引争议](https://www.cnbeta.com/articles/tech/1299077.htm) | Sun Jul 31 2022 6:56 PM 
+- 🚀 [电脑用AirPods难受？Windows 11连AirPods的正确姿势](https://www.cnbeta.com/articles/tech/1299087.htm) | Sun Jul 31 2022 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国总统拜登新冠复阳的消息刷屏社交媒体。当地时间7月30日美国白宫总统医生凯文·奥康纳说，总统拜登当天新冠病毒检测结果再次呈阳性。而此前的27日，拜登新冠病毒检测结果刚刚为阴性，随后结束隔离。为何短短几天时间，拜登就复阳了？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管AirPods已经不是什么新产品，但依然是体验首屈一指的蓝牙耳机。很多朋友都购买了AirPods，但却不一定在苹果产品上使用它，例如很多人就喜欢在电脑上使用AirPods。然而，Windows系统和AirPods的契合度并不好，默认没法查看大量，也无法直观地呈现连接状态，更无法对AirPods的种种功能进行控制——直到最新版的Windows 11，也仍是如此。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [目标2纳米下一代芯片 美日“化敌为友”携手](https://www.cnbeta.com/articles/tech/1299075.htm) | Sun Jul 31 2022 6:55 PM 
+- 🎊 [只有骨架的新手专用教练车：用电发动最大速度几迈、申请专利造价千元](https://hot.cnbeta.com/articles/funny/1299085.htm) | Sun Jul 31 2022 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“命运竟是如此奇异！”当昔日在半导体领域是竞争对手的美国与日本如今要携手研发下一代芯片时，日本经济产业大臣萩生田光一感慨万千。据外媒报道，在7月29日的美日外长级与商务部长级官员会谈上，美日宣布，将针对新一代半导体研究，启动建立一个“新的研发机构”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，河北承德一驾校训练场，出现多辆只有骨架的镂空教练车，这也引起了网友的热议。该驾校负责人再次接受极目新闻报道时介绍，&lt;strong&gt;这些“骨架车”是他自己设计的模拟器，车架镂空是为了消除学员的密闭感和紧张感，还准备申请专利。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1299085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
