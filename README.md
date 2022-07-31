@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [GitHub 注册及详细使用](https://juejin.cn/post/7126415724737724429) | Sun Jul 31 2022 6:12 AM 
+- 🤗 [机器学习：sklearn中xgboost模块的XGBRegressor函数&lpar;回归&rpar;](https://juejin.cn/post/7126425974408740872) | Sun Jul 31 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-    Github 基本概念 仓库&lpar;Repository&rpar;: 仓库用来存放项目代码。你想在GitHub上开展一个项目，那必须新建一个Repository。每个项目对应一个仓库。如果你开展的项目多了，你就拥有 
+    demo        [0] validation_0-rmse:21.687 validation_1-rmse:21.3558        [50] validation_0-rmse:1.8 
     </details> 
 
-- 🎡 [iOS小技能：封装定位SDK，统一数据模型和错误处理。](https://juejin.cn/post/7126415747374383134) | Sun Jul 31 2022 6:12 AM 
+- 🎡 [JS大数相加、大数相乘](https://juejin.cn/post/7126425188928847886) | Sun Jul 31 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 引言 需求背景：收款页面需要请求IP定位API获取经纬度，由于高德的API的库不准确（没有实时更新），使用 
+    JS大数相加、大数相乘。 大数可能会超出 JavaScript`的数字类型范围，超出后结果损失精度，所以可以用字符串的方式来存储大数。 
     </details> 
 
-- 🕯 [WebRTC ｜ 入职第一周，差点把服务器搞崩！](https://juejin.cn/post/7126410234993573924) | Sun Jul 31 2022 5:52 AM 
+- 🕯 [Linux系列之管理用户环境变量](https://juejin.cn/post/7126423676534128648) | Sun Jul 31 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-    入职第一周，就进行了一次产品大的版本迭代。上线当天，我在公司阿里云服务器尝试部署某个服务的时候，被运维通知内存飙升到了 80%，险些把服务器搞挂。 此事还是要从为了要解决一个技术问题说起。 当天，le 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天。 Linux系列之管理用户环境变量 
     </details> 
 
-- 🚀 [谷歌『云开发者速查表』；清华3D人体数据集；商汤『通用视觉框架』公开课；Web3极简入门指南；高效深度学习免费书；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7126401337151422478) | Sun Jul 31 2022 5:21 AM 
+- 🚀 [Spring Cloud的PropertySourceLocator扩展点太棒了!](https://juejin.cn/post/7126423320773263391) | Sun Jul 31 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 07-31 期，基于Matplotlib的高质量绘图工具、分层预测框架、文本分类工具、静态分析框架&lpar;Python&rpar;、通用视觉框架公开课、Web3 极简入门、3D人体数据集… 
+    前言 在我新入职公司后熟悉公司项目时，想用dbeaver连接他的数据库看看，就得知道这个项目连接的数据库ip、账户密码，通常情况都是在本地配置，所以我索性就找，但是找了半天都什么都没有，不禁的就开始好 
     </details> 
 
-- 💪 [☆打卡算法☆LeetCode 176. 第二高的薪水 算法解析](https://juejin.cn/post/7126401475386802184) | Sun Jul 31 2022 5:18 AM 
+- 💪 [Java异常—异常简介和框架](https://juejin.cn/post/7126423182306705416) | Sun Jul 31 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 大家好，我是小魔龙，Unity3D软件工程师，VR、AR，虚拟仿真方向，不定时更新软件开发技巧，生活感悟， 
+    概要 本章对Java中的异常进行介绍。内容包括： Java异常简介 Java异常框架 Java异常简介 　　Java异常是Java提供的一种识别及响应错误的一致性机制。 Java异常机制可以使程序中异 
     </details> 
 <!-- juejin:END -->
 ### 少数派
