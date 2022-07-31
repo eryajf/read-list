@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【消息通知】用公众号模板消息怎么样？](https://juejin.cn/post/7126225568034455583) | Sat Jul 30 2022 6:07 PM 
+- 🤗 [React 性能调试好帮手：useWhyDidYouUpdate](https://juejin.cn/post/7126348241943134244) | Sun Jul 31 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-    我想在掘金逛了一段时间的朋友有看到关于自动签到等相关的文章吧，这里当然不是讲自动签到了，主要是说说在签到完后如何通知到我们签到的结果。在一些文章中我看到有人会使用Server酱（一个集成了 
+    使用 React.memo 时想要知道 props 的哪个属性发生了改变呢？你可以试试 useWhyDidYouUpate 
     </details> 
 
-- 🎡 [精通Java事务编程&lpar;4&rpar;-弱隔离级别之防止更新丢失](https://juejin.cn/post/7126191827593461773) | Sat Jul 30 2022 3:43 PM 
+- 🎡 [Java 8之Lambda表达式的写法套路](https://juejin.cn/post/7126342086248366110) | Sun Jul 31 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 RC和快照隔离级别主要都是为解决 只读事务遇到并发写时可以看到什么（虽然中间也涉及脏写），还没触及另一种情 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 引入 相信现在搞Java的童鞋都知道启动一个线程可以这样写： Thread里面需要传的是一个Runnabl 
     </details> 
 
-- 🕯 [Chrome浏览器必备插件推荐](https://juejin.cn/post/7126191827715096583) | Sat Jul 30 2022 3:43 PM 
+- 🕯 [如何在Linux中比较多个文件？这12个优秀工具了解一下！](https://juejin.cn/post/7126340710353076261) | Sun Jul 31 2022 1:22 AM 
     <details><summary>展开描述 ...</summary> 
-    Chrome浏览器对于我们现在互联网行业已经不可或缺，其实大部分使用Chrome浏览器的人更看重的是它的强大的插件功能，几乎提供的插件无所不能。 
+    比较差异或者合并文字的工具在Linux中非常有用，不管是运维还是开发，掌握好几个自己比较熟悉的工具，会让你的效率高出很多倍。 本文给大家介绍的这12个工具一般在市面上反响比较好，大家可以选择几个多练练 
     </details> 
 
-- 🚀 [TypeScript 面向对象（三）](https://juejin.cn/post/7126191168458588173) | Sat Jul 30 2022 3:43 PM 
+- 🚀 [满帮web页面首屏秒开解决之道](https://juejin.cn/post/7126339044203560997) | Sun Jul 31 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    今天继续学习Typescript面向对象，今天将学到：可选参数和默认参数、剩余参数、重载、泛型、内置对象 
+    web项目优化到2s加载成功靠打包优化，缓存陪着，优化到1s靠离线，优化到200ms靠预运行。抽离每个项目公共需要运行的资源提前运行显著提高秒开体验 
     </details> 
 
-- 💪 [初识机器学习：关联规则](https://juejin.cn/post/7126189930379739166) | Sat Jul 30 2022 3:36 PM 
+- 💪 [头脑风暴：利用滚动数组求解01背包问题](https://juejin.cn/post/7126338667676696584) | Sun Jul 31 2022 1:15 AM 
     <details><summary>展开描述 ...</summary> 
-    关联规则，或者关联规则学习（Association Rule Learning）是一种在大量数据点中发现隐蔽的关联关系的方法。能够利用一些有趣的量度来识别数据点集中发现的强规则。 
+    题目 有n件物品和一个最多能背重量为 w 的背包。第i件物品的重量是weight[i]，得到的价值是value[i] 。每件物品只能用一次，求解将哪些物品装入背包里物品价值总和最大。 解题思路 在上一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
