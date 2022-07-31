@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JavaScript中的模块导入有一个弊端](https://juejin.cn/post/7126446880317734943) | Sun Jul 31 2022 8:13 AM 
+- 🤗 [推荐 7 个本周 yyds 的开源项目](https://juejin.cn/post/7126458144833667108) | Sun Jul 31 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-    1.命名的导入和自动完成 假设你写了一个简单的JavaScript模块。 javascript // stringUtils.js export function equalsIgnoreCase&lpar;s 
+    本期推荐开源项目目录： 1. Web 是如何工作的？ 2. 发现好教程 3. FastAPI 4. 编程大学 5. 全栈 Web 框架：Remix 6. 用户身份访问管理 7. 科技爱好者周刊 01. 
     </details> 
 
-- 🎡 [你的React.useCallback&lpar;&rpar;指南](https://juejin.cn/post/7126446650997866527) | Sun Jul 31 2022 8:13 AM 
+- 🎡 [粉丝推荐的 GitHub 项目 yyds](https://juejin.cn/post/7126456742409568269) | Sun Jul 31 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-    我博客的一位读者在Facebook上向我提出了一个有趣的问题。他说他的队友们，无论在什么情况下，都是把每个回调函数包裹在useCallback&lpar;&rpar; 。 jsx import React, { useC 
+    本期盘点的开源项目由逛逛 GitHub 的读者投稿，如果你或者所在的组织开源了高质量的项目，希望被更多人看到，你可以关注逛逛 GitHub 后在底部菜单栏找到投稿入口。 本期推荐开源项目目录： 1.  
     </details> 
 
-- 🕯 [Tkinter 入门之旅](https://juejin.cn/post/7126446570467229703) | Sun Jul 31 2022 8:12 AM 
+- 🕯 [【译】C++ eventpp 使用教程：CallbackList、EventDispatcher、EventQueue 类](https://juejin.cn/post/7126454704166895624) | Sun Jul 31 2022 8:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Tkinter 作为 Python 的标准库，是非常流行的 Python GUI 工具，同时也是非常 
+    eventpp 是一个 header-only 、简洁易用的 C++ 事件库，能为 C++ 程序添加类似于 Qt 信号槽系统的事件机制。本文是其中的三个核心类的使用教程 
     </details> 
 
-- 🚀 [JavaScript中的自有和继承属性](https://juejin.cn/post/7126446431933562916) | Sun Jul 31 2022 8:12 AM 
+- 🚀 [1161. 最大层内元素和 : 层序遍历运用题](https://juejin.cn/post/7126453754328514591) | Sun Jul 31 2022 8:41 AM 
     <details><summary>展开描述 ...</summary> 
-    在JavaScript中，与其他编程语言如Java或Python相反，没有创建对象的模板（如类）概念。 每个JavaScript对象都链接到另一个名为prototype的对象，该对象从它那里继承属性。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 题目描述 这是 LeetCode 上的 1161. 最大层内元素和 ，难度为 中等。 Tag : 「层序遍 
     </details> 
 
-- 💪 [Object.is&lpar;&rpar; vs. JavaScript中的严格等价操作符](https://juejin.cn/post/7126446367182061581) | Sun Jul 31 2022 8:12 AM 
+- 💪 [Go 言 Go 语，一文看懂 Go 语言文件操作](https://juejin.cn/post/7126451361452916744) | Sun Jul 31 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
-    三重平等运算符=== ，严格检查两个值是否相同。 javascript 1 === 1; // =&gt; true 1 === &#39;1&#39;; // =&gt; false 1 === true; // =&gt; fal 
+    ⛳️ 实战场景 本篇博客为大家再次带来 Go 语言的基础知识，这次要学习的内容是 Go 中的文件操作。 打开关闭文件 在 Go 中操作文件，首先要做的就是导入 os 模块，该模块中具备相关函数定义。  
     </details> 
 <!-- juejin:END -->
 ### 少数派
