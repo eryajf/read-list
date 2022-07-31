@@ -365,10 +365,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [vue3 静态化问题请教](https://www.v2ex.com/t/869843#reply0) | Sun Jul 31 2022 5:22 PM
-- 🤗 [求推荐桌面：若决定在 Windows 10 EOL 后逐渐弃用 Windows 为此我该如何准备？](https://www.v2ex.com/t/869835#reply14) | Sun Jul 31 2022 4:20 PM
+- 🤗 [求推荐桌面：若决定在 Windows 10 EOL 后逐渐弃用 Windows 为此我该如何准备？](https://www.v2ex.com/t/869835#reply16) | Sun Jul 31 2022 4:20 PM
 - 🎭 [关于 vue3 composable function&lpar;hook&rpar;的一些遐想](https://www.v2ex.com/t/869833#reply0) | Sun Jul 31 2022 3:45 PM
-- 🥷 [请教下载电子书的渠道，搜索引擎搜不到的情况](https://www.v2ex.com/t/869830#reply15) | Sun Jul 31 2022 3:07 PM
-- 🐵 [Nginx referer 方面问题请教大神](https://www.v2ex.com/t/869828#reply4) | Sun Jul 31 2022 3:03 PM<!-- v2ex:END -->
+- 🥷 [请教下载电子书的渠道，搜索引擎搜不到的情况](https://www.v2ex.com/t/869830#reply17) | Sun Jul 31 2022 3:07 PM
+- 🐵 [Nginx referer 方面问题请教大神](https://www.v2ex.com/t/869828#reply5) | Sun Jul 31 2022 3:03 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
