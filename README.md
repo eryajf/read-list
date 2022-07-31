@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [AI 自行发现了替代版本的物理学](http://jandan.net/p/111065) | Sun Jul 31 2022 4:19 AM 
+- 🚀 [引人注目  每天吃一根半熟的香蕉可将某些癌症的风险降低60%](http://jandan.net/p/111050) | Sun Jul 31 2022 9:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    上消化道 &lpar;GI&rpar; 癌症包括食道癌、胃癌和胰腺癌。 
+    </details> 
+
+- 🙉 [AI 自行发现了替代版本的物理学](http://jandan.net/p/111065) | Sun Jul 31 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
     用人类未知的数学语言刻画动力学现象，比如说用4.7个参量来描述双摆的运动 
     </details> 
 
-- 🙉 [今日好价 0731](http://jandan.net/p/111069) | Sun Jul 31 2022 3:04 AM 
+- 🎉 [今日好价 0731](http://jandan.net/p/111069) | Sun Jul 31 2022 3:04 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [迄今最彻底的调查结论:自愿玩游戏不会损害心理健康](http://jandan.net/p/111067) | Sat Jul 30 2022 2:19 PM 
+- 🐲 [迄今最彻底的调查结论:自愿玩游戏不会损害心理健康](http://jandan.net/p/111067) | Sat Jul 30 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
     和游戏类型无关，不管是大逃杀游戏、还是老少皆宜的动物森友会，都不会产生心理问题 
     </details> 
 
-- 🐲 [美海洋局向公众求助：海底疑似人工痕迹的东西到底是啥](http://jandan.net/p/111062) | Sat Jul 30 2022 6:16 AM 
+-  [美海洋局向公众求助：海底疑似人工痕迹的东西到底是啥](http://jandan.net/p/111062) | Sat Jul 30 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
     2.5公里深处的海底，有一排排排列整齐的小洞 
-    </details> 
-
--  [以色列找到了一枚1850前的巨蟹座青铜币](http://jandan.net/p/111048) | Sat Jul 30 2022 3:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    古人为黄金圣斗士发行的纪念币？ 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
