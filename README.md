@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [印媒称Nothing可能将推出其Nothing Phone&lpar;1&rpar;手机的&quot;Lite&quot;版](https://www.cnbeta.com/articles/tech/1299013.htm) | Sun Jul 31 2022 8:42 AM 
+- 🕯 [戏水后十几名儿童感染腺病毒 专家提醒留心水上乐园卫生状况](https://www.cnbeta.com/articles/tech/1299027.htm) | Sun Jul 31 2022 11:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在本月早些时候首次推出Nothing Phone（1）之后，印度媒体The Mobile Indian报道，裴宇的Nothing公司似乎将在今年向市场推出另一款设备。这款手机据称被称为Nothing Phone（1）的&amp;quot;精简版&amp;quot;，它保留了Snapdragon 778G+设备的大部分硬件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近期，多地连续发生儿童游泳或玩水后感染腺病毒事件，有关专家提醒家长在夏日暑假期间务必谨慎对待水上乐园、私人游泳馆等公共水域。据澎湃新闻报道，&lt;strong&gt;7月29日，在安徽合肥，多名家长反映，当地包河花园幼儿园举行暑期班“玩水大战”后，多名幼儿确诊腺病毒，出现高烧、呕吐、红眼睛等症状。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [雷克沙发布新款NM610 Pro SSD：速度可达3300MB/s](https://www.cnbeta.com/articles/tech/1299011.htm) | Sun Jul 31 2022 8:38 AM 
+- 💼 [国产兆芯处理器GPU性能啥水平？追上10年前的GT 630](https://www.cnbeta.com/articles/tech/1299025.htm) | Sun Jul 31 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，雷克沙正式发布了NM610 Pro PCIe Gen3x4 M.2 2280 NVMe SSD，与同类产品相比具有一定优势。作为NM610 SSD的升级版，&lt;strong&gt;NM610 Pro支持PCIe 3.0、NVMe1.4技术标准，顺序读取速度最高可达3300MB/s，顺序写入速度最高则能够达到22600MB/s。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;逼人的形势下，这两年国产CPU、GPU接连取得各种突破。近日，快科技独家获悉了兆芯开先KX-6000G处理器的GPU性能，比上代提升多达3倍。兆芯投资的格兰菲&lpar;Glenfly&rpar;日前就公布了其独立显卡Arise-GT10C0，28nm工艺，核心频率500MHz，搭配64/128-bit 2/4GB DDR4内存，支持DX11、OpenGL 4.5、OpenCL 1.2，兼容x86、Arm、MIPS等主流硬件平台，兼容银河麒麟KOS、统信软件UOS、Windows等主流操作系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [想学AI的学生数量已涨200% 老师都不够用了](https://www.cnbeta.com/articles/tech/1299009.htm) | Sun Jul 31 2022 8:38 AM 
+- 💂 [NVIDIA已经开始测试AD106和AD107 GPU核心的显卡产品](https://www.cnbeta.com/articles/tech/1299023.htm) | Sun Jul 31 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如今，随着神经网络的卷土重来以及深度学习的蓬勃发展——让想学AI的学生越来越多，以至于大学里的老师都不够用了。一份报告显示，从2011年到2020年，美国计算机科学专业的学生人数增加了两倍，从60661人增至182262人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周，我们一大批RTX 40系显卡出现在EEC数据库中，包括我们熟悉的老朋友RTX 4090、RTX 4080等。爆料人kopite7kimi透露，&lt;strong&gt;实际上NVIDIA已经开始测试AD106和AD107两套核心的显卡产品，预计分别对应RTX 4060和RTX 4050。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [日本200万中小学生学力测试结果公布 游戏时间越长成绩越差](https://hot.cnbeta.com/articles/game/1299007.htm) | Sun Jul 31 2022 8:37 AM 
+- 🚀 [研究发现常见的水痘和疱疹病毒的交集可能会诱发阿尔茨海默病](https://www.cnbeta.com/articles/science/1299021.htm) | Sun Jul 31 2022 10:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，日本教育部门公布了今年4月举行的全国中小学生学力测试结果，有多达200万人以上的学生参与测试，测试结果成绩一般，尤其理科成绩达到史上最差水平，官方同时也做了关于业余时间分配方面的问卷调查。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据美国国家老龄化研究所称，阿尔茨海默氏病是老年人痴呆的最常见原因，也是美国第七大死亡原因。它是一种使人虚弱的渐进性疾病，慢慢地破坏认知功能和记忆。它几乎可以在不知不觉中开始，往往在早期几个月或几年内伪装成老年时非常常见的健忘症，阿尔茨海默病的原因在很大程度上仍然是个谜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中国国家版本馆开馆：东西南北各一个 保管文明“金种子”](https://www.cnbeta.com/articles/tech/1299005.htm) | Sun Jul 31 2022 8:03 AM 
+- 🎊 [Linux Mint 21 “Vanessa”发布 基于Ubuntu 22.04 LTS打造](https://www.cnbeta.com/articles/tech/1299019.htm) | Sun Jul 31 2022 10:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月30日，中国国家版本馆开馆，采用“一总三分”的馆藏体系，&lt;strong&gt;除了中央总馆文瀚阁外，还有西安分馆文济阁、杭州分馆文润阁、广州分馆文沁阁构成&lt;/strong&gt;，是新时代标志性文化传世工程，将全面履行国家版本资源保藏传承职责。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Linux Mint 21已经正式发布，作为流行的桌面Linux发行版的最新版本，它建立在Ubuntu之上。最值得一提的是，Linux Mint 21将其基础从Ubuntu 20.04 LTS过渡到今年早些时候发布的Ubuntu 22.04 LTS。随着向两年前的Ubuntu软件包的转移，这个Linux发行版拥有大量的软件包升级和其他增强功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
