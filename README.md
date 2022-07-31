@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [STM32+MPU6050设计便携式Mini桌面时钟&lpar;自动调整时间显示方向&rpar;](https://juejin.cn/post/7126485208861245454) | Sun Jul 31 2022 10:45 AM 
+- 🤗 [SQL27 查看不同年龄段的用户明细](https://juejin.cn/post/7126512041149366308) | Sun Jul 31 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
-    本次设计的时钟可以根据MPU6050测量的姿态自动调整显示画面方向，也就是倒着拿、横着拿、反着拿都可以让时间显示是正对着自己的，时间支持自己调整，支持串口校准。可以按键切换页面查看环境温度显示。 
+    SQL27 查看不同年龄段的用户明细 携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 1、题目📑 现在运营想要将用户划分为20岁以下，20-24岁，25岁 
     </details> 
 
-- 🎡 [Java Lambda表达式原理解析](https://juejin.cn/post/7126485060697456647) | Sun Jul 31 2022 10:43 AM 
+- 🎡 [如何更简洁地实现富文本 Span](https://juejin.cn/post/7126510374114820132) | Sun Jul 31 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-    java中有lambda,在使用java的过程中我们没少用&lpar;啥?用的kotlin?你别说话&rpar;但是你知道lambda的实现原理吗? 接下来就来解析lambda实现 
+    现在的 App 基本都需要同意用户协议和隐私政策，通常会用富文本 Span 来实现局部点击。而 Span 的代码经常会写一大堆，个人基于官方的 core-ktx 库进行封装，实现一套完整好用的 API 
     </details> 
 
-- 🕯 [Spring Security-访问控制url匹配](https://juejin.cn/post/7126484067771482126) | Sun Jul 31 2022 10:38 AM 
+- 🕯 [Angular 官方docs 我是这样用的](https://juejin.cn/post/7126507523967811592) | Sun Jul 31 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情。 一、访问控制url匹配 在前面讲解了认证中所有常用配置，主要是对http.formLogin&lpar;&rpar;进行操作 
+    导语 本文主要介绍下Angular文档，3年使用经验，欢迎评论，一起交流学习。介绍的过程中，结合日常开发经验，把重点的直接拎出来，其他的自己寻摸这看吧。 注意事项 首先看整体目录，了解docs文档结构 
     </details> 
 
-- 🚀 [EfficientDet训练自己的数据集](https://juejin.cn/post/7126481500861792269) | Sun Jul 31 2022 10:28 AM 
+- 🚀 [Python&lpar;五&rpar;——运算符的使用](https://juejin.cn/post/7126506597572050958) | Sun Jul 31 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
-    ​本文已参与「新人创作礼」活动，一起开启掘金创作之路。 https://github.com/toandaominh1997/EfficientDet.Pytorchhttps://github.co 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 1、算术运算符 运算符 说明 实例 结果 + 加 22.4 + 15 37.4 - 减 4.56 - 0. 
     </details> 
 
-- 💪 [如何写好JavaScript代码 | 青训营笔记](https://juejin.cn/post/7126481284867555335) | Sun Jul 31 2022 10:27 AM 
+- 💪 [用了这些css命名小技巧，我的代码优雅了不少！](https://juejin.cn/post/7126505567408881677) | Sun Jul 31 2022 12:01 PM 
     <details><summary>展开描述 ...</summary> 
-    关于如何去写好JavaScript代码这个问题，我们一般会遵循各司其责、组件封装、过程抽象这三大原则来展开描述。 
+    如果您使用 CSS 有一段时间，那么您就会知道继承、特异性和命名是一些最难处理的事情。由于所有 CSS 都是全局的，随着代码库的增长，防止样式相互冲突并导致意外副作用变得越来越困难! 
     </details> 
 <!-- juejin:END -->
 ### 少数派
