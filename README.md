@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [胡军代言理财产品翻车？疑似涉34万人390亿元](https://www.cnbeta.com/articles/tech/1299055.htm) | Sun Jul 31 2022 1:23 PM 
+- 🕯 [西数22TB硬盘正式出货 单系统可达528TB](https://www.cnbeta.com/articles/tech/1299063.htm) | Sun Jul 31 2022 2:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;西部数据日前宣布，旗下三款22TB大容量硬盘已经向零售市场正式出货，包括面向企业和云计算的WD Gold金盘、面向小型企业和家用NAS网络存储的WD Red Pro红盘、面向视频监控的WD Purple Pro紫盘。现在，&lt;strong&gt;其中的22TB红盘&lpar;WD221KFGX&rpar;已经上架，售价高达6899元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [金立“崩塌”前后：动荡、救赎、新生](https://www.cnbeta.com/articles/tech/1299061.htm) | Sun Jul 31 2022 2:44 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“如果金立还在，我现在应该也不会是自由跃动的创始人，几年前，就应该是金立的CEO了吧。”两个月前的今天，金立前副总裁俞雷以这样一条微博，宣告了人生的新航向——创立自由跃动（FreeYond），杀回手机赛道。当所有人还在思考，手机红海是否还容得下一个新玩家时，FreeYond 已拿到第一笔18万台左右的订单，并将在8月份量产交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299061.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [蔚来李斌：7月少产几千辆车 拜托供应商顶住](https://www.cnbeta.com/articles/tech/1299059.htm) | Sun Jul 31 2022 2:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;7月31日，在2022年蔚来合作伙伴日活动上，蔚来汽车董事长李斌表示，&lt;strong&gt;蔚来ET7 6月份交付了4000多辆，原计划在此基础上，7月份将交付量提高一个台阶，但因为压铸件供应不足，少生产了几千辆。&lt;/strong&gt;为此，李斌在活动现场喊话：&lt;strong&gt;“拜托供应商顶住！”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [“二舅”短片翻车：涉及内容虚构 B站首页已不显示](https://hot.cnbeta.com/articles/movie/1299057.htm) | Sun Jul 31 2022 2:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，B站一段名为《回村三天，二舅治好了我的精神内耗》突然火爆全网。网友不禁感叹二舅的苦难一生，同时很多感慨，如果不是小时候那场高烧，二舅的人生可能和现在截然不同。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1299057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [胡军代言理财产品翻车？疑似涉34万人390亿元](https://www.cnbeta.com/articles/tech/1299055.htm) | Sun Jul 31 2022 1:23 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，知名演员胡军因代言的理财产品翻车引发关注，网友在线声讨，称他合作代言的产品涉嫌欺诈。据了解，胡军代言的是玖富旗下的一款名叫“悟空”的理财产品，疑似涉及34万受害者，共计390亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [比亚迪王传福喝过电解液？这未免也太惊悚了](https://www.cnbeta.com/articles/tech/1299053.htm) | Sun Jul 31 2022 1:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“比亚迪董事长王传福喝下电解液”的故事，每隔一段时间都会在网上“流传”，品驾最近又看到了一波——这到底是真还是假？这一传闻又是从哪来？品驾经调查发现，有关这一传闻最早的报道，是一篇在2009年4月13日发表于《财富》杂志、题为《巴菲特开上电动车》（原文标题：Warren Buffett takes charge）的文章。文章中是这样描述的：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [比亚迪汉最强新势力对手 哪吒S正式上市：19.98万起](https://www.cnbeta.com/articles/tech/1299051.htm) | Sun Jul 31 2022 1:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月31日晚，哪吒S正式上市，新车共推出8款车型，&lt;strong&gt;售价区间为19.98-33.88万元。&lt;/strong&gt;哪吒S是哪吒全新自研山海平台首款落地车型，也是品牌旗下旗舰产品，定位于中型轿跑车，&lt;strong&gt;长宽高分别为4980*1980*1450毫米，轴距2980毫米&lt;/strong&gt;，与比亚迪汉EV、小鹏P7、零跑C01等车基本上处于同一水准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《GTA6》女性主角引争议 “粉丝”称过于正确](https://hot.cnbeta.com/articles/game/1299049.htm) | Sun Jul 31 2022 1:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近彭博社报道称《GTA6》将有系列史上首个女主角，这引起了国外部分“粉丝”的不满。这些粉丝认为《GTA》是一个硬核犯罪游戏，是面向纯爷们的一个游戏，如果是一个女主角，这显然是无法接受的。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [华为建成首个5G MetaAAU超级上行示范区：室内速率提高4倍](https://www.cnbeta.com/articles/tech/1299047.htm) | Sun Jul 31 2022 12:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，湖北联通携手华为率先建成全国首个基于MetaAAU超级上行示范区，通过连片部署3.5G MetaAAU，实现武汉江夏区生物产业园区连续覆盖。同时开通SUL超级上行，成功应用于企业视频监控业务和个人高清直播业务。&lt;strong&gt;超级上行开通后，5G上行峰值达460Mbps，室内远点速率较开通前最高可提升4倍，带来了下行流量的指数级增长。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
