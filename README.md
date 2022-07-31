@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [DEVONthink 的功能是怎么做到的？用什么语言实现的呢？](https://www.v2ex.com/t/869796#reply1) | Sun Jul 31 2022 9:48 AM
-- 🤗 [现在做点啥小网站或者小 app 能挣点零花钱呢](https://www.v2ex.com/t/869791#reply8) | Sun Jul 31 2022 8:43 AM
-- 🎭 [从代码实例角度来分析 MVC 和 MVVM 框架](https://www.v2ex.com/t/869789#reply5) | Sun Jul 31 2022 8:21 AM
-- 🥷 [最近在网上遨游，终于蹲到一个用 neovim 写 swiftUI 看起来比较靠谱的集成解决方案。](https://www.v2ex.com/t/869787#reply0) | Sun Jul 31 2022 8:18 AM
-- 🐵 [今天看到一篇文章“ 大量工作毫无意义，为什么还在抢着做？”，作为一个 996 的你，这些年到底写了多少毫无意义的代码？](https://www.v2ex.com/t/869784#reply22) | Sun Jul 31 2022 7:49 AM<!-- v2ex:END -->
+- 🥸 [奇特的码农群招一下新人](https://www.v2ex.com/t/869804#reply1) | Sun Jul 31 2022 11:20 AM
+- 🤗 [DEVONthink 的功能是怎么做到的？用什么语言实现的呢？](https://www.v2ex.com/t/869796#reply1) | Sun Jul 31 2022 9:48 AM
+- 🎭 [现在做点啥小网站或者小 app 能挣点零花钱呢](https://www.v2ex.com/t/869791#reply10) | Sun Jul 31 2022 8:43 AM
+- 🥷 [从代码实例角度来分析 MVC 和 MVVM 框架](https://www.v2ex.com/t/869789#reply6) | Sun Jul 31 2022 8:21 AM
+- 🐵 [最近在网上遨游，终于蹲到一个用 neovim 写 swiftUI 看起来比较靠谱的集成解决方案。](https://www.v2ex.com/t/869787#reply0) | Sun Jul 31 2022 8:18 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
