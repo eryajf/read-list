@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国国家版本馆开馆：东西南北各一个 保管文明“金种子”](https://www.cnbeta.com/articles/tech/1299005.htm) | Sun Jul 31 2022 8:03 AM 
+- 🕯 [印媒称Nothing可能将推出其Nothing Phone&lpar;1&rpar;手机的&quot;Lite&quot;版](https://www.cnbeta.com/articles/tech/1299013.htm) | Sun Jul 31 2022 8:42 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在本月早些时候首次推出Nothing Phone（1）之后，印度媒体The Mobile Indian报道，裴宇的Nothing公司似乎将在今年向市场推出另一款设备。这款手机据称被称为Nothing Phone（1）的&amp;quot;精简版&amp;quot;，它保留了Snapdragon 778G+设备的大部分硬件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [雷克沙发布新款NM610 Pro SSD：速度可达3300MB/s](https://www.cnbeta.com/articles/tech/1299011.htm) | Sun Jul 31 2022 8:38 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，雷克沙正式发布了NM610 Pro PCIe Gen3x4 M.2 2280 NVMe SSD，与同类产品相比具有一定优势。作为NM610 SSD的升级版，&lt;strong&gt;NM610 Pro支持PCIe 3.0、NVMe1.4技术标准，顺序读取速度最高可达3300MB/s，顺序写入速度最高则能够达到22600MB/s。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [想学AI的学生数量已涨200% 老师都不够用了](https://www.cnbeta.com/articles/tech/1299009.htm) | Sun Jul 31 2022 8:38 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;如今，随着神经网络的卷土重来以及深度学习的蓬勃发展——让想学AI的学生越来越多，以至于大学里的老师都不够用了。一份报告显示，从2011年到2020年，美国计算机科学专业的学生人数增加了两倍，从60661人增至182262人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [日本200万中小学生学力测试结果公布 游戏时间越长成绩越差](https://hot.cnbeta.com/articles/game/1299007.htm) | Sun Jul 31 2022 8:37 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，日本教育部门公布了今年4月举行的全国中小学生学力测试结果，有多达200万人以上的学生参与测试，测试结果成绩一般，尤其理科成绩达到史上最差水平，官方同时也做了关于业余时间分配方面的问卷调查。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [中国国家版本馆开馆：东西南北各一个 保管文明“金种子”](https://www.cnbeta.com/articles/tech/1299005.htm) | Sun Jul 31 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;7月30日，中国国家版本馆开馆，采用“一总三分”的馆藏体系，&lt;strong&gt;除了中央总馆文瀚阁外，还有西安分馆文济阁、杭州分馆文润阁、广州分馆文沁阁构成&lt;/strong&gt;，是新时代标志性文化传世工程，将全面履行国家版本资源保藏传承职责。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [SEMI：2022年第二季度全球硅晶圆出货量创下新纪录](https://www.cnbeta.com/articles/tech/1299003.htm) | Sun Jul 31 2022 7:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月30日，SEMI SMG（Silicon Manufacturers Group）在其最新一期的硅片行业季度报告中指出，2022年第二季度全球硅晶圆出货量超过了今年第一季度创下的历史新高，同比增长1%，达到3704百万平方英寸（MSI）。第二季度硅晶圆出货量比去年同期的3534百万平方英寸增长了5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [烧光百亿！众叛亲离的每日优鲜被谁拔了氧气管？](https://www.cnbeta.com/articles/tech/1299001.htm) | Sun Jul 31 2022 7:44 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;互联网电商的阵营里，又倒下一员大将。7月27日，主打社区生鲜的每日优鲜，关闭“极速达”业务，第二天网上就流传着一条15分半的会议录音，约700位员工被通知结束工作，公司原地解散。一年收入超70亿的上市公司，说没就没了，网友在微博发出评论：“上市公司都能原地解散，资本市场可太精彩了。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [在手游“逼氪”上 暴雪、任天堂出现了分歧](https://hot.cnbeta.com/articles/game/1298999.htm) | Sun Jul 31 2022 7:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;毁誉参半的《暗黑破坏神：不朽》（简称“《不朽》”），正在手游圈子里掀起风浪。一方面，这款暴雪娱乐酝酿了4年之久的暗黑系列第一款手游，迎来了3500万玩家的预约，开服动辄5000人排队。在海外上线不到两个月，收入突破了1亿美元，成为了吸金速度最快的手游之一。7月25日开启国服公测后，连续两天在国内苹果App Store所有类别排名中均列第一。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [国外论坛爆料《生化危机9》情报 怪物可化作人形](https://hot.cnbeta.com/articles/game/1298997.htm) | Sun Jul 31 2022 7:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国外论坛4chan一篇帖子声称自己掌握到疑似《生化危机9》的新情报，并将情报内容公之于众。由于其来源不明，因此目前我们只能将其作为传言来对待，且可信度不高。根据爆料内容显示，这款新作名为《生化危机：启示录》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1298997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
