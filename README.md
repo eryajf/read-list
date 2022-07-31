@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NASA阿特米斯一号登月火箭继续进行最后准备工作以便下个月发射](https://www.cnbeta.com/articles/science/1298861.htm) | Sat Jul 30 2022 7:35 PM 
+- 🕯 [研究：婴儿的社会发展并未受到COVID-19大流行的影响](https://www.cnbeta.com/articles/science/1298925.htm) | Sun Jul 31 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;NASA团队正在接近完成太空发射系统（SLS）火箭和猎户座飞船在佛罗里达州肯尼迪航天中心的车辆装配大楼的操作。&lt;/strong&gt;这距离NASA首次尝试发射阿特米斯一号任务只剩下一个月的时间。目前的目标是在不早于8月29日星期一，即美国东部时间上午8:33（太平洋时间上午5:33）的2小时内发射。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;健康问题和损失、社会孤立和心理健康问题--COVID-19大流行病对我们的社会产生了巨大的影响。但社会中最年轻的成员是如何应对这些变化的呢？苏黎世大学的科学家们发现，父母和照顾者的存在足以减轻该大流行对婴儿社会发展的负面影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [200万豪车致1死2伤 自动解锁或有矛盾：雷克萨斯LM300H加价近50万仍热卖](https://www.cnbeta.com/articles/tech/1298859.htm) | Sat Jul 30 2022 6:55 PM 
+- 💼 [印度撑起可乐半边天？](https://www.cnbeta.com/articles/tech/1298923.htm) | Sun Jul 31 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这两天雷克萨斯上热搜了，因为车祸导致一死两伤，让人直呼豪车也不是那么安全，而这起事故背后更多的还是厂商在车上的自动解锁逻辑有问题。7月28日，广西贵港辖区内一段高速发生车祸，车辆在碰撞后出现自燃，疑似有伤亡情况。随后官方通告，称28日12时许，其辖区内发生一起交通事故，1人死亡，两人轻伤无生命危险。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“在疫情封控的影响下，中国业务承受了压力，在二季度按月销量出现下降。”可口可乐公司董事会主席兼首席执行官詹鲲杰（James Quincey）在财报电话会上如此表示。美国时间7月27日，可口可乐公布第二季度财报。财报显示，可口可乐第二季度营收113.25亿美元，同比增长12%；净利润19.05亿美元，同比下降27.8%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美国总统拜登再次被检测出COVID-19阳性 将重新开始隔离治疗](https://www.cnbeta.com/articles/tech/1298857.htm) | Sat Jul 30 2022 6:53 PM 
+- 💂 [Apple Watch S7官翻版上架：2549元起 最高便宜800元](https://www.cnbeta.com/articles/tech/1298921.htm) | Sun Jul 31 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;医生今天透露，美国总统乔·拜登在连续几天病毒检测呈阴性后，周六再次检测出COVID-19阳性。&lt;/strong&gt;但他没有出现新的症状，&amp;quot;继续感觉很好&amp;quot;，凯文-奥康纳医生在白宫共享的一份备忘录中说。但他仍将&amp;quot;重新启动严格的隔离程序&amp;quot;，这位总统医生写道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月31日消息，从苹果中国商城获悉，目前，&lt;strong&gt;Apple Watch S7官翻版已正式在商城上架，售价2549元起。&lt;/strong&gt;具体来看，翻新版Apple Watch S7（GPS） 41mm运动表带款售价最低为2549元，相比原价2999元便宜了450元；45mm版本售价2719元，比原价3199元便宜480元；41mm蜂窝版售价3229元，比原价便宜570元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [像个七岁的孩子？马斯克的滑稽举动让车主和潜在买家反对特斯拉](https://www.cnbeta.com/articles/tech/1298855.htm) | Sat Jul 30 2022 4:46 PM 
+- 🚀 [驾校现镂空“学车神器”教练车 只有钢管没有车皮](https://hot.cnbeta.com/articles/funny/1298919.htm) | Sun Jul 31 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;现年73岁的丹尼斯·莱维特是一家美国自助仓储公司高管，他在2013年得到了他的第一辆特斯拉，一辆蓝色的 Model S，并且非常喜欢它：“我是马斯克的忠实粉丝。”虽然莱维特仍然喜欢他的特斯拉，但他对马斯克开始反感。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，河北承德一驾校训练场，出现多辆只有骨架的镂空教练车在场地训练，因“画风”实在过于惊奇，引起网友关注热议。视频中，这些“镂空”教练车，没有车身外壳遮挡。不过虽然全车身都是钢管，&lt;strong&gt;但是方向盘、油门、刹车以及离合器配备齐全，学院在车内直接看着轮胎转弯、倒车，视野简直是“全景360°无死角”，看上去尤其适合新手学车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1298919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [这也行？酸黄瓜甩到天花板上，标价超4万……](https://hot.cnbeta.com/articles/funny/1298853.htm) | Sat Jul 30 2022 4:45 PM 
+- 🎊 [又一车企宣称电池“永不起火” 专家：动力电池没有绝对安全](https://www.cnbeta.com/articles/tech/1298917.htm) | Sun Jul 31 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一片酸黄瓜甩到天花板上，然后就成为了一件“艺术品”，你敢信吗？据英国《卫报》7月27日报道，澳大利亚艺术家马修·格里芬近日就在奥克兰画廊展出了这样一件名为“酸黄瓜”（&lt;span style=&quot;&quot;&gt;Pickle&lt;/span&gt;）的作品，&lt;span style=&quot;&quot;&gt;黄瓜是从麦当劳芝士汉堡取出的，扔在了美术馆的天花板上。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1298853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，思皓新能源乘用车旗下全新纯电动轿跑车型——思皓爱跑上市，新车搭载了高能量密度的高镍811三元锂圆柱型电芯，满电状态下最高续航为602km。官方介绍，上述高镍811三元锂圆柱型电芯使用了江淮汽车全新一代蜂窝电池技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
