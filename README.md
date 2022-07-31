@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Albato: Lifetime Deals - 在任何云应用程序之间构建无代码 API 自动化！ #LTD](https://xinquji.com/posts/178359?utm_campaign=xinquji-rss) | Sun Jul 31 2022 6:14 AM 
+- 👀 [Research Secrets eBook - 建立成功的内容策略的第一步](https://xinquji.com/posts/178368?utm_campaign=xinquji-rss) | Mon Aug 01 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     在任何云应用程序之间构建无代码 API 自动化！ #LTD  
+     建立成功的内容策略的第一步  
     </details> 
 
-- 🥷 [Gamify your Habit Tracker - 通过简单而有趣的系统保持动力。](https://xinquji.com/posts/178358?utm_campaign=xinquji-rss) | Sun Jul 31 2022 6:12 AM 
+- 🥷 [Peer Connect - 寻找同行参加比赛的平台](https://xinquji.com/posts/178367?utm_campaign=xinquji-rss) | Mon Aug 01 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     通过简单而有趣的系统保持动力。  
+     寻找同行参加比赛的平台  
     </details> 
 
-- 💼 [SaaS Funding Napkin 2022 - 2022 年在 SaaS 中筹集资金需要什么？](https://xinquji.com/posts/178357?utm_campaign=xinquji-rss) | Sun Jul 31 2022 6:11 AM 
+- 💼 [Learnist - 一个开源平台，可帮助您完成学业](https://xinquji.com/posts/178366?utm_campaign=xinquji-rss) | Mon Aug 01 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     2022 年在 SaaS 中筹集资金需要什么？  
+     一个开源平台，可帮助您完成学业  
     </details> 
 
-- 🦅 [HivePayroll Calculate Income Tax - 通过几个简单的步骤计算您的收入所得税](https://xinquji.com/posts/178356?utm_campaign=xinquji-rss) | Sun Jul 31 2022 6:10 AM 
+- 🦅 [SMMRY-XT - 快速总结网络上的任何文章](https://xinquji.com/posts/178365?utm_campaign=xinquji-rss) | Mon Aug 01 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     通过几个简单的步骤计算您的收入所得税  
+     快速总结网络上的任何文章  
     </details> 
 
-- 😺 [Fateshift - 制作带有积极肯定的精美视频](https://xinquji.com/posts/178355?utm_campaign=xinquji-rss) | Sun Jul 31 2022 6:09 AM 
+- 😺 [Book Tracker Template - 完美的图书跟踪器模板](https://xinquji.com/posts/178364?utm_campaign=xinquji-rss) | Mon Aug 01 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     制作带有积极肯定的精美视频  
+     完美的图书跟踪器模板  
     </details> 
 <!-- xinquji:END -->
