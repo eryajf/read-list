@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [推荐 7 个本周 yyds 的开源项目](https://juejin.cn/post/7126458144833667108) | Sun Jul 31 2022 8:59 AM 
+- 🤗 [Java BigDecimal知多少？](https://juejin.cn/post/7126468973352189988) | Sun Jul 31 2022 9:39 AM 
     <details><summary>展开描述 ...</summary> 
-    本期推荐开源项目目录： 1. Web 是如何工作的？ 2. 发现好教程 3. FastAPI 4. 编程大学 5. 全栈 Web 框架：Remix 6. 用户身份访问管理 7. 科技爱好者周刊 01. 
+    大家都知道小六六是搞支付的，那么搞支付的话，对于金钱的精度还是要细心的，对于amout这个字段的取值类型还是需要我们多多我们注意的,因为一不小心就能搞出个不小的事故 BigDecimal概述 Java 
     </details> 
 
-- 🎡 [粉丝推荐的 GitHub 项目 yyds](https://juejin.cn/post/7126456742409568269) | Sun Jul 31 2022 8:53 AM 
+- 🎡 [SpringBoot集成文件 - 如何集成itextpdf导出PDF？itext的变迁？](https://juejin.cn/post/7126467199660720158) | Sun Jul 31 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    本期盘点的开源项目由逛逛 GitHub 的读者投稿，如果你或者所在的组织开源了高质量的项目，希望被更多人看到，你可以关注逛逛 GitHub 后在底部菜单栏找到投稿入口。 本期推荐开源项目目录： 1.  
+    除了处理word, excel等文件外，最为常见的就是PDF的导出了。在java技术栈中，PDF创建和操作最为常用的itext了，但是使用itext一定要了解其版本历史和License问题，在早前版本 
     </details> 
 
-- 🕯 [【译】C++ eventpp 使用教程：CallbackList、EventDispatcher、EventQueue 类](https://juejin.cn/post/7126454704166895624) | Sun Jul 31 2022 8:45 AM 
+- 🕯 [webpack入门之js处理&lpar;babel、babel polyfill&rpar;](https://juejin.cn/post/7126465727178997791) | Sun Jul 31 2022 9:26 AM 
     <details><summary>展开描述 ...</summary> 
-    eventpp 是一个 header-only 、简洁易用的 C++ 事件库，能为 C++ 程序添加类似于 Qt 信号槽系统的事件机制。本文是其中的三个核心类的使用教程 
+    前面我们说了使用webpack处理css和各种文件，今天我们再来说说使用webpack来处理我们前端三大件中的js。 
     </details> 
 
-- 🚀 [1161. 最大层内元素和 : 层序遍历运用题](https://juejin.cn/post/7126453754328514591) | Sun Jul 31 2022 8:41 AM 
+- 🚀 [After Effects 教程，如何在 After Effects 中调整过度曝光的快照？](https://juejin.cn/post/7126462917297307684) | Sun Jul 31 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 题目描述 这是 LeetCode 上的 1161. 最大层内元素和 ，难度为 中等。 Tag : 「层序遍 
+    欢迎观看 After Effects 中文版教程，小编带大家学习 After Effects 的基本工具和使用技巧，了解如何在 AE 中调整过度曝光的快照。 
     </details> 
 
-- 💪 [Go 言 Go 语，一文看懂 Go 语言文件操作](https://juejin.cn/post/7126451361452916744) | Sun Jul 31 2022 8:32 AM 
+- 💪 [Three.js的简单使用，Three.js在vue3.x中导入.pcd三维模型文件](https://juejin.cn/post/7126461520417914887) | Sun Jul 31 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    ⛳️ 实战场景 本篇博客为大家再次带来 Go 语言的基础知识，这次要学习的内容是 Go 中的文件操作。 打开关闭文件 在 Go 中操作文件，首先要做的就是导入 os 模块，该模块中具备相关函数定义。  
+    本文说明 本文主要简单介绍了，在Vue3.x项目中如何简单的使用Three.js，导入PCD三维模型文件。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
