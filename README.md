@@ -364,8 +364,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Rust 为什么这么火？适合做 Web 开发吗？](https://www.v2ex.com/t/870079#reply1) | Mon Aug 01 2022 3:59 PM
-- 🤗 [怎么看候选人简历的 github？](https://www.v2ex.com/t/870075#reply12) | Mon Aug 01 2022 3:19 PM
+- 🥸 [虚拟机会受到 CPU 漏洞影响吗？](https://www.v2ex.com/t/870087#reply0) | Mon Aug 01 2022 6:11 PM
+- 🤗 [怎么看候选人简历的 github？](https://www.v2ex.com/t/870075#reply13) | Mon Aug 01 2022 3:19 PM
 - 🎭 [万能的 V 友，有没有最近 CKA 的题库](https://www.v2ex.com/t/870071#reply0) | Mon Aug 01 2022 2:50 PM
 - 🥷 [typescript 类型转换请教](https://www.v2ex.com/t/870068#reply5) | Mon Aug 01 2022 2:47 PM
 - 🐵 [web 大佬来解答一下疑惑， github 直接在当前页面加载新的链接，然后不能回退](https://www.v2ex.com/t/870067#reply0) | Mon Aug 01 2022 2:30 PM<!-- v2ex:END -->
