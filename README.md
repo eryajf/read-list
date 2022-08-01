@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 美国法院系统遭受重大攻击；乌克兰网络高官就俄乌网络战发表看法](https://www.freebuf.com/articles/340616.html) | Fri Jul 29 2022 10:39 AM 
+- 🦄 [大华摄像头曝严重漏洞，黑客可无限制访问设备](https://www.freebuf.com/news/340694.html) | Mon Aug 01 2022 3:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过该漏洞，攻击者可获取最高权限，对受影响设备无限制访问，包括实时观看和重放摄像头视频。 
+    </details> 
+
+- 🦄 [Google Play商店现17款DawDropper银行恶意软件](https://www.freebuf.com/news/340693.html) | Mon Aug 01 2022 3:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    这些应用包括了文档扫描仪、VPN服务、二维码阅读器和通话记录器等，共携带了 Octo、Hydra、Ermac和TeaBot四个银行木马系列。 
+    </details> 
+
+- 🦅 [【热点讨论】2022攻防演练情报追踪](https://www.freebuf.com/news/340081.html) | Mon Aug 01 2022 2:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    攻防来袭，FreeBuf联合漏洞盒子情报星球为大家送上新鲜及时的情报分享~ 
+    </details> 
+
+- 🪄 [FreeBuf早报 | 美国法院系统遭受重大攻击；乌克兰网络高官就俄乌网络战发表看法](https://www.freebuf.com/articles/340616.html) | Fri Jul 29 2022 10:39 AM 
     <details><summary>展开描述 ...</summary> 
     美国法院系统遭受重大攻击，密封文件面临风险；西班牙一核安全系统遭黑客攻击，部分地区服务中断数月。 
     </details> 
 
-- 🦄 [FreeBuf周报 | 51款应用遭上海通信管理局通报；大数据杀熟将遭严惩；美国与英国达成数据互通协议；Web3经济损失达历史新高](https://www.freebuf.com/articles/340597.html) | Fri Jul 29 2022 9:10 AM 
+- 💻 [FreeBuf周报 | 51款应用遭上海通信管理局通报；大数据杀熟将遭严惩；美国与英国达成数据互通协议；Web3经济损失达历史新高](https://www.freebuf.com/articles/340597.html) | Fri Jul 29 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
     各位Buffer周末好，以下是本周「FreeBuf周报」。 
-    </details> 
-
-- 🦅 [企业外包的安全风险及应对策略 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/340581.html) | Fri Jul 29 2022 7:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    在安全环节，外包往往会成为薄弱的一环。外包团队究竟会为企业带来哪些安全风险？我们又该如何应对外包所带来的问题？ 
-    </details> 
-
-- 🪄 [美预计将扩大与乌克兰的网络安全伙伴关系](https://www.freebuf.com/news/340544.html) | Fri Jul 29 2022 5:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    美国政府的网络安全机构已与其乌克兰网络安全机构签署了一项关于在网络安全方面加强合作的协议。 
-    </details> 
-
-- 💻 [暨南大学信息技术研究所招聘网络安全技术人员计划](https://www.freebuf.com/jobs/340608.html) | Fri Jul 29 2022 5:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    暨南大学信息技术研究所招聘网络安全服务项目经理、网络技术支持工程师、网络安全工程师&lpar;攻防对抗方向）等 
     </details> 
 <!-- freebuf:END -->
 
