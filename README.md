@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [朋友在抖音30天赚了20万！我也能么？](https://www.cnbeta.com/articles/tech/1299487.htm) | Mon Aug 01 2022 5:21 PM 
+- 🕯 [动力电池回收的隐秘江湖：45家正规军PK 上万家“黑拆”作坊](https://www.cnbeta.com/articles/tech/1299489.htm) | Mon Aug 01 2022 5:50 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;广州市花都区花北路的万通汽配城内，分布着大大小小几百家商家，均是三年前从白云区陈田村拆车村搬迁而来的商户。第一财经记者在园区内探访几圈发现，除了传统燃油车的配件，也有回收新能源蓄电池以及配件的门店。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [朋友在抖音30天赚了20万！我也能么？](https://www.cnbeta.com/articles/tech/1299487.htm) | Mon Aug 01 2022 5:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“&amp;nbsp;所以，这哥们30&amp;nbsp;天赚了20&amp;nbsp;万&amp;nbsp;”？三分钟前，我坐到某&amp;nbsp;MCN&amp;nbsp;负责人身边，她给我打开星图（&amp;nbsp;抖音商业化平台&amp;nbsp;），随机找了个最近势头不错的达人。数据显示，&lt;strong&gt;这位20&amp;nbsp;多万粉丝的朋友30&amp;nbsp;天内发布了13个广告作品，如果按照单价16000&amp;nbsp;来算，赚了约20.8万。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [权游衍生剧《龙之家族》新剧照：坦格利安亲王亮相](https://hot.cnbeta.com/articles/movie/1299485.htm) | Mon Aug 01 2022 4:49 PM 
+- 💂 [权游衍生剧《龙之家族》新剧照：坦格利安亲王亮相](https://hot.cnbeta.com/articles/movie/1299485.htm) | Mon Aug 01 2022 4:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;HBO于今日公布了《权力的游戏》首部衍生剧《龙之家族》一张新剧照，由马特·史密斯扮演的戴蒙·坦格利安亲王亮相。该剧将于8月22日开播，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1299485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [支付宝董事长变更 花名&quot;苗人凤&quot; 第一行代码就是他写的](https://www.cnbeta.com/articles/tech/1299483.htm) | Mon Aug 01 2022 4:49 PM 
+- 🚀 [支付宝董事长变更 花名&quot;苗人凤&quot; 第一行代码就是他写的](https://www.cnbeta.com/articles/tech/1299483.htm) | Mon Aug 01 2022 4:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据界面新闻报道，&lt;strong&gt;8月1日，支付宝（中国）网络技术有限公司法定代表人、董事长由井贤栋变更为倪行军。&lt;/strong&gt;据内部人士透露，支付宝方面已向工商部门提交了变更申请，并顺利获批。资料显示，&lt;strong&gt;倪行军花名为“苗人凤”，2003年加入阿里巴巴集团，蚂蚁集团资深副总裁、首席技术官、支付宝事业群总裁，也是支付宝创始团队核心成员，也是支付宝早期版本研发者。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [代号柏拉图 小米12T泄露：天玑8100加持](https://www.cnbeta.com/articles/tech/1299481.htm) | Mon Aug 01 2022 4:24 PM 
+- 🎊 [代号柏拉图 小米12T泄露：天玑8100加持](https://www.cnbeta.com/articles/tech/1299481.htm) | Mon Aug 01 2022 4:24 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天，xiaomiui.net曝光了小米12T的详细参数，&lt;strong&gt;这款设备代号为Plato（柏拉图）。&lt;/strong&gt;其屏幕分辨率为2712×1220，支持屏幕指纹识别，&lt;strong&gt;搭载联发科天玑8100旗舰处理器，配备8GB内存，有128GB、256GB两种存储可供选择。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [马斯克再遭Twitter投资者起诉：要求继续执行收购交易](https://www.cnbeta.com/articles/tech/1299479.htm) | Mon Aug 01 2022 3:54 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，Twitter投资者路易吉·克里斯波（Luigi Crispo）日前对特斯拉CEO埃隆·马斯克（Elon Musk）提起诉讼，要求马斯克继续履行以440亿美元收购Twitter的协议。今年4月26日，马斯克与Twitter达成收购协议，马斯克将以每股54.20美元的现金收购Twitter，交易总价值约为440亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
