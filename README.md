@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [甲方不让用开源【监控软件】？大不了我自己写一个！🏀](https://juejin.cn/post/7126778241771601956) | Mon Aug 01 2022 5:40 AM 
+- 🤗 [算法小知识-----8.01-----痛苦周一](https://juejin.cn/post/7126785628003368996) | Mon Aug 01 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-    相信在公司的小伙伴，有很多都经历过这样一种情况：公司对于某些开源软件禁止使用，或者说需要修改源码，去掉其logo或者身份信息，各种监控软件就是其受害者。对于较大的系统，或者组件较多的系统，拥有一个可靠 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 生成每种字符都是奇数个的字符串 审题 返回的字符串必须只含小写英文字母。如果存在多个满足题目要求的字符串， 
     </details> 
 
-- 🎡 [什么密码，永远无法被黑客攻破？](https://juejin.cn/post/7126778109684088869) | Mon Aug 01 2022 5:39 AM 
+- 🎡 [2022年免费学习编程的21大网站 - 最佳地段](https://juejin.cn/post/7126781086784290823) | Mon Aug 01 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
-    在开始本文前，先给大家出个解谜题，密码是一句英文，开动你的脑筋吧，我们在本文结尾会揭晓答案： 密文：Cigumpz yin hvq se 提示：和身份有关的一切 
+    大家好，如果你想从头开始学习编码，并寻找一些免费的在线培训网站，或者是自己学习编程和编码的人，并寻找一些奇妙的免费网站和编码平台，那么你就来对地方了。早些时候，我分享了学习Java、Python和Ja 
     </details> 
 
-- 🕯 [RevoGain软件架构](https://juejin.cn/post/7126778092755877902) | Mon Aug 01 2022 5:38 AM 
+- 🕯 [10个免费课程学习Java、Python和C++中的数据结构和算法](https://juejin.cn/post/7126781046967762975) | Mon Aug 01 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 在这篇文章中，我将向你展示RevoGain的软件架构。RevoGain是一个帮助Revolut用户计算其股票和加密货币交易收益的网络应用程序，我在2021年9月初开始构建它。炒作与现实 你是否曾 
+    算法和数据结构是计算机科学中两个最基本和必不可少的主题，在软件开发中随处可见。我坚信，对这两个主题有良好的了解也是成为一个更好的程序员的关键，因为一个对算法和数据结构有良好了解的人可以做出深思熟虑的选 
     </details> 
 
-- 🚀 [默认的数据库主键、外键和唯一键索引](https://juejin.cn/post/7126778090692280356) | Mon Aug 01 2022 5:38 AM 
+- 🚀 [2022年10个最适合Java和Spring开发者的Udemy课程 - 最佳地段](https://juejin.cn/post/7126779782804537351) | Mon Aug 01 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-    引言 在这篇文章中，我们将看到在使用Oracle、SQL Server、PostgreSQL和MySQL时，默认的数据库主键、外键和唯一键索引策略是什么。所以，如果你想知道这些顶级关系型数据库是否在你 
+    大家好，如果你正在寻找学习Java和Spring框架的最佳Udemy课程，那么你就来对地方了。早些时候，我已经为Java开发人员分享了最佳的Pluralsight课程和最佳的LinkedIn课程，今天 
     </details> 
 
-- 💪 [编写自定义Spring Data Repository的最佳方法](https://juejin.cn/post/7126777926485278757) | Mon Aug 01 2022 5:38 AM 
+- 💪 [20大Tailwind CSS面试问题及答案](https://juejin.cn/post/7126779837137551396) | Mon Aug 01 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 在这篇文章中，我将向你展示编写自定义Spring Data Repository的最佳方法。虽然默认的JpaRepository方法以及查询方法在很多情况下都很方便，但有时你可能需要自定义Rep 
+    大家好，如果你正在准备网页设计师或网页开发人员的面试，其中需要Tailwind CSS技能，你正在寻找常见的Tailwind问题来准备面试，那么你就来对地方了。早些时候，我已经分享了常见的CSS面试问 
     </details> 
 <!-- juejin:END -->
 ### 少数派
