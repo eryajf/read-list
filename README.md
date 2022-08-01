@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [消息称苹果A16芯片无缘台积电3nm制程工艺 仍将是5nm](https://www.cnbeta.com/articles/tech/1299399.htm) | Mon Aug 01 2022 10:07 AM 
+- 🕯 [SK海力士发布CXL标准DDR5内存：容量轻松超越1TB](https://www.cnbeta.com/articles/tech/1299431.htm) | Mon Aug 01 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;已有分析师和研究机构预计，苹果今年下半年推出的iPhone 14系列智能手机，在芯片、摄像头等关键硬件配置上，可能会史无前例的出现分化，高端版本，也就是Pro版本将搭载A16芯片和4800万像素摄像头，非Pro版本仍会是A15芯片、1200像素摄像头系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel的傲腾内存已经被放弃了，业界会转向更标准的CXL内存，SK海力士日前宣布成功开发出DDR5级别的CXL内存，支持PCIe 5.0 x8通道，一套服务器的内存容量可以轻松从768GB提升到1.15TB，同时速度大增。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [吉卜力公园最新场景曝光 11月1日正式开园](https://hot.cnbeta.com/articles/comic/1299397.htm) | Mon Aug 01 2022 10:06 AM 
+- 💼 [印度电信运营商在5G竞标中出价超过190亿美元](https://www.cnbeta.com/articles/tech/1299429.htm) | Mon Aug 01 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;曾带给无数观众快乐和感动的吉卜力工作室官方主题乐园，吉卜力公园将于11月1日正式开园，日前官方透露了部分公园最新场景，一起来先睹为快。“吉卜力”（Ghibli）动画工作室成立于1985年中旬，是由旗下著名动画导演宫崎骏命名，意思是在撒哈拉沙漠上季节热风，曾经出产无数经典动画电影，深得世界粉丝喜爱。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1299397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;任何印度电信运营商在政府的5G电波拍卖中出价略高于190亿美元，这是他们在历史上频谱销售中出价最高的一次，这一世界第二大无线市场正在准备推出更好的语音和更快的数据速度。&lt;/strong&gt;Reliance Jio Infocomm、Bharti Airtel和Vodafone Idea为此竞争了七天，并提出了大部分的投标，政府表示这些投标超出了其预期。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [生产减毒疫苗 “蛋白清洁工”带来新思路](https://www.cnbeta.com/articles/science/1299395.htm) | Mon Aug 01 2022 9:33 AM 
+- 💂 [胡军代言的悟空理财爆雷 本人致歉：合约2020年就已结束](https://www.cnbeta.com/articles/tech/1299427.htm) | Mon Aug 01 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;研究人员通过操控病毒蛋白降解，控制病毒的复制能力，将病毒减毒，使其成为潜在的减毒疫苗。但是要实现疫苗的规模化制备仍需要大量的优化和探索。疫苗是预防和控制流感病毒最为经济有效的手段之一。2021年《科学》杂志将“下一代疫苗的开发”列为125个前沿科学问题之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;知名演员胡军代言的“悟空理财”翻车，据媒体报道，&lt;strong&gt;悟空理财承诺年化回报率7.9%，旗下部分理财产品甚至年化收益率高达11.6%-13.1%，&lt;/strong&gt;通过诱人的回报率吸引大量的客户，可钱到期却无法赎回。&lt;strong&gt;爆雷后的“悟空理财” 涉及390亿资金，34万出借人的本息资金迟迟不到账。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [国产操作系统上新：深度Deepin官宣23版本8月发布](https://www.cnbeta.com/articles/tech/1299393.htm) | Mon Aug 01 2022 9:31 AM 
+- 🚀 [网速/延迟表现更完美的Wi-Fi 7预计2024年出现](https://www.cnbeta.com/articles/tech/1299425.htm) | Mon Aug 01 2022 11:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，&lt;strong&gt;国产操作系统深度Deepin官方管理员在社区发帖，预告将在8月正式发布Deepin 23预览版系统。&lt;/strong&gt;据悉，&lt;strong&gt;Deepin 23预览版将会是Deepin社区基于根社区理念开发的一款操作系统，它集合社区的开源优势，拥有大量的创新技术。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在Wi-Fi 7的赛道上，自然也不能少了Intel的影子。尽管有消息称，Intel考虑促成在酷睿笔记本上搭载联发科的Wi-Fi方案，但这不表示他们要金盆洗手。在日前的媒体活动中，&lt;strong&gt;Intel无线解决方案副总裁Eric McLaughlin，Intel正开发Wi-Fi 7（802.11be）芯片，以便尽快获得联盟认证。他预计，这批芯片将于2024年安装在笔记本等PC产品上，2025年成为主流。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [盖茨差点叫停Xbox项目 只因不运行Windows系统](https://hot.cnbeta.com/articles/game/1299391.htm) | Mon Aug 01 2022 9:29 AM 
+- 🎊 [国产客机有多重要？20年内价值超2万亿](https://www.cnbeta.com/articles/tech/1299423.htm) | Mon Aug 01 2022 11:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月1日消息，如今微软游戏主机Xbox业务年营收达到160亿美元。当这款产品还是个概念时，差点被微软联合创始人比尔·盖茨&lpar;Bill Gates&rpar;扼杀在摇篮中。在Xbox发布前的一次微软高管会议上，盖茨试图阻止继续推进项目。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天上午，中国商飞公司宣布国产大飞机C919完成取证试飞，意味着C919的取证工作进入收官阶段，专家预计最快在8月到9月获得局方的合格证。试飞之后，C919飞机未来的市场空间有多大？根据中国商飞之前发布的预测，未来20年中国将接收9084架客机，价值约1.4万亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
