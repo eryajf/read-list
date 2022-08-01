@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [大误 · 你最想撤回的一次操作是什么？](http://daily.zhihu.com/story/9751250) | Sun Jul 31 2022 12:27 AM
-- 🐻 [为什么男性力量远远大于女性？](http://daily.zhihu.com/story/9751231) | Sun Jul 31 2022 12:27 AM
-- 🌏 [跳水项目的难度系数是如何计算出来的？](http://daily.zhihu.com/story/9751236) | Sun Jul 31 2022 12:27 AM
-- 🕴 [为什么航空器的速度单位是「节」，而不是更常用的「千米/时」？](http://daily.zhihu.com/story/9751245) | Sun Jul 31 2022 12:27 AM
-- 🌮 [为什么美食作家王刚做菜时先用油滑锅倒出再加底油？](http://daily.zhihu.com/story/9751249) | Sun Jul 31 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751275) | Mon Aug 01 2022 12:27 AM
+- 🐻 [空气炸锅为什么一滴油就可以炸东西？](http://daily.zhihu.com/story/9751253) | Mon Aug 01 2022 12:27 AM
+- 🌏 [在《沉默的羔羊》中，汉尼拔听完史达琳幼年农场经历后，为什么流了眼泪？](http://daily.zhihu.com/story/9751261) | Mon Aug 01 2022 12:27 AM
+- 🕴 [挫折教育对于孩子来说是必要的吗？](http://daily.zhihu.com/story/9751271) | Mon Aug 01 2022 12:27 AM
+- 🌮 [液滴（如雨水）在整个下降过程中的形状如何变化？](http://daily.zhihu.com/story/9751273) | Mon Aug 01 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
