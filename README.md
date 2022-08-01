@@ -751,7 +751,7 @@
      
     </details> 
 
-- 👀 [“太极三部曲——李英杰摄影作品展” 在郑州美术馆开幕!](https://www.photoworld.com.cn/post/162295) | Mon Aug 01 2022 2:00 AM 
+- 👀 [“太极三部曲——李英杰摄影作品展” 在郑州美术馆开幕](https://www.photoworld.com.cn/post/162295) | Mon Aug 01 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
