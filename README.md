@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [SK海力士发布CXL标准DDR5内存：容量轻松超越1TB](https://www.cnbeta.com/articles/tech/1299431.htm) | Mon Aug 01 2022 11:14 AM 
+- 🕯 [科学研究发现圈养可以使鱼类同类相食](https://www.cnbeta.com/articles/science/1299451.htm) | Mon Aug 01 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel的傲腾内存已经被放弃了，业界会转向更标准的CXL内存，SK海力士日前宣布成功开发出DDR5级别的CXL内存，支持PCIe 5.0 x8通道，一套服务器的内存容量可以轻松从768GB提升到1.15TB，同时速度大增。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;人们普遍认为同类相食行为在自然界中很常见，然而，最近的研究表明情况并非如此。&lt;/strong&gt;尽管已知蚊子鱼和石首鱼在人工饲养的情况下会同类相食，但它们在野外进行同类相食是非常不可能的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [印度电信运营商在5G竞标中出价超过190亿美元](https://www.cnbeta.com/articles/tech/1299429.htm) | Mon Aug 01 2022 11:05 AM 
+- 💼 [Intel 13代酷睿i9/i7/i5规格参数抢先看](https://www.cnbeta.com/articles/tech/1299449.htm) | Mon Aug 01 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;任何印度电信运营商在政府的5G电波拍卖中出价略高于190亿美元，这是他们在历史上频谱销售中出价最高的一次，这一世界第二大无线市场正在准备推出更好的语音和更快的数据速度。&lt;/strong&gt;Reliance Jio Infocomm、Bharti Airtel和Vodafone Idea为此竞争了七天，并提出了大部分的投标，政府表示这些投标超出了其预期。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管多方爆料显示，Intel 13代酷睿要比AMD Zen 4推出的时间晚一到两个月之久，但相较于锐龙7000的各种保密，13代酷睿已经被偷跑、泄露得很彻底。现在，已经有较为完整的规格表被整理出来，刚兴趣的朋友不妨参考。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [胡军代言的悟空理财爆雷 本人致歉：合约2020年就已结束](https://www.cnbeta.com/articles/tech/1299427.htm) | Mon Aug 01 2022 11:02 AM 
+- 💂 [i7-13700K、i5-13600K游戏实测：最低帧惊喜、DDR5真有用了](https://www.cnbeta.com/articles/tech/1299447.htm) | Mon Aug 01 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知名演员胡军代言的“悟空理财”翻车，据媒体报道，&lt;strong&gt;悟空理财承诺年化回报率7.9%，旗下部分理财产品甚至年化收益率高达11.6%-13.1%，&lt;/strong&gt;通过诱人的回报率吸引大量的客户，可钱到期却无法赎回。&lt;strong&gt;爆雷后的“悟空理财” 涉及390亿资金，34万出借人的本息资金迟迟不到账。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;13代酷睿还没发布，规格性能就被扒得差不多，“&lt;a class=&quot;f14_link&quot; href=&quot;https://www.bilibili.com/video/BV1Kr4y1576t&quot; target=&quot;_blank&quot;&gt;极致玩家堂&lt;/a&gt;”更是接连放出i9-13900K、i7-13700K、i5-13600K的测试数据，现在又公布了后两款的游戏性能，相比基准跑分更有实际价值。i7-13700K 8大8小16核心24线程，睿频最高5.4GHz，基准功耗125W，最大约244W。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [网速/延迟表现更完美的Wi-Fi 7预计2024年出现](https://www.cnbeta.com/articles/tech/1299425.htm) | Mon Aug 01 2022 11:01 AM 
+- 🚀 [芯片投资潮席卷全球 十年或投超7400亿美元](https://www.cnbeta.com/articles/tech/1299445.htm) | Mon Aug 01 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在Wi-Fi 7的赛道上，自然也不能少了Intel的影子。尽管有消息称，Intel考虑促成在酷睿笔记本上搭载联发科的Wi-Fi方案，但这不表示他们要金盆洗手。在日前的媒体活动中，&lt;strong&gt;Intel无线解决方案副总裁Eric McLaughlin，Intel正开发Wi-Fi 7（802.11be）芯片，以便尽快获得联盟认证。他预计，这批芯片将于2024年安装在笔记本等PC产品上，2025年成为主流。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8 月 1 日消息，华尔街日报称，美国《芯片与科学法案》（Chips and Science Act）未必能够达到美国政府预期的效果，因为目前世界各地对芯片行业的投资已经进入白热化阶段，一些亚洲国家在已经在芯片领域投资了几十年，美国起步已晚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国产客机有多重要？20年内价值超2万亿](https://www.cnbeta.com/articles/tech/1299423.htm) | Mon Aug 01 2022 11:00 AM 
+- 🎊 [Microsoft Edge的桌面市场市场份额持续攀升 接近11%](https://www.cnbeta.com/articles/tech/1299443.htm) | Mon Aug 01 2022 11:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天上午，中国商飞公司宣布国产大飞机C919完成取证试飞，意味着C919的取证工作进入收官阶段，专家预计最快在8月到9月获得局方的合格证。试飞之后，C919飞机未来的市场空间有多大？根据中国商飞之前发布的预测，未来20年中国将接收9084架客机，价值约1.4万亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Statcounter发布了关于不同平台上的浏览器市场占有率最新数据。根据2022年7月的报告，Edge继续在桌面市场上稳步攀升，试图颠覆Google Chrome浏览器的统治。上个月，微软的浏览器市占比达到10.84%，与2022年6月相比上升了0.2个百分点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
