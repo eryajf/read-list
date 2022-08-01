@@ -305,27 +305,27 @@
 <!-- huoding:START -->
 - 🌋 [关于一个打包下载的需求](https://blog.huoding.com/2022/07/01/984) | Fri Jul 01 2022 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-    前些天遇到一个「打包下载」的需求，在调研过程中走了一些弯路，本文记录一下。 比如 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2022/07/01/984&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
+    前些天遇到一个「打包下载」的需求，在调研过程中走了一些弯路，本文记录一下。 比如说某网站有一个文件列表，用户点哪个就可以下载哪个，如果用户想下载多个，无非就是多点几次而已。于是需求来了：当用户想下载多个文件的时候，可以通过一次点击完成打包下载操作。 听起来似乎并不复杂，服务端可以把用户想要下载的文件打包成一个新文件，然后用户点一次就可以下载了，但是这样做有以下几个缺点： 浪费了时间，多了创建新文件的流程。 浪费了空间，同样的文件被多次存储。 用户体验差，下载必须要等到新文件创建好才能开始。 不难得出结论：动态流式下载才是正解，同事提到 tar 可以搞定，于是研究一下： shell&amp;#62; cat test_0.txt xxx xxx shell&amp;#62; cat test_1.txt yyy yyy shell&amp;#62; tar cf test.tar test_0.txt test_1.txt shell&amp;#62; cat test.tar test_0.txt00006440...01014257504126011510 0ustar rootrootxxx xxx test_1.txt00006440...01014257504241011507 0ustar rootrootyyy yyy 如上可见，tar 文件的格式非常简单，多个文件的内容从上到下依次排列，只不过每个文件内容的前面附加了一个头，其中保存了诸如文件名，权限之类的信息。 看上去用 tar &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2022/07/01/984&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
     </details> 
 
 - 🤠 [如何用eBPF分析Golang应用](https://blog.huoding.com/2021/12/12/970) | Sun Dec 12 2021 5:06 AM 
     <details><summary>展开描述 ...</summary> 
-    当医生遇到疑难杂症时，那么可以上 X 光机，有没有病？病在哪里？一照便知！当程序 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/12/12/970&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
+    当医生遇到疑难杂症时，那么可以上 X 光机，有没有病？病在哪里？一照便知！当程序员遇到疑难杂症时，那么多半会查日志，不过日志的位置都是预埋的，可故障的位置却总是随机的，很多时候当我们查到关键的地方时却总是发现没有日志，此时就无能为力了，如果改代码加日志重新发布的话，那么故障往往就不能稳定复现了。回想医生的例子，他们可没有给病人加日志，可为什么他们能找到问题的，因为他们有 X 光机，所以对程序员来说，我们也需要有我们的 X 光机，它就是 eBPF。 为了降低使用 eBPF 的门槛，社区开发了 bcc，bpftrace 等工具，因为 bpftrace 在语法上贴近 awk，所以我一眼就爱上了，本文将通过它来讲解如何用 eBPF 分析 Golang 应用。 通过 bpftrace 分析 golang 方法的参数和返回值 下面是演示代码 main.go，我们的目标是通过 bpftrace 分析 sum 方法的输入输出： package main func main&lpar;&rpar; { println&lpar;sum&lpar;11, 22&rpar;&rpar; } func &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/12/12/970&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
     </details> 
 
 - 🫶 [白话Golang单元测试](https://blog.huoding.com/2021/11/28/968) | Sun Nov 28 2021 3:27 AM 
     <details><summary>展开描述 ...</summary> 
-    最近学习某个 Golang 单元测试的课程，发现其中推荐使用 gomonkey  &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/28/968&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
+    最近学习某个 Golang 单元测试的课程，发现其中推荐使用 gomonkey 这种黑科技，让人略感意外，毕竟在软件开发领域，诸如依赖注入之类的概念已经流传了几十年了，本文希望通过一个例子的演化过程，来总结出 Golang 单元测试的最佳实战。 既然是白话，那么我们得想一个通俗易懂的例子，就拿普通人来说吧：活着是为了什么，好好学习，买房，结婚，任意一个环节出现意外，整个人生就会偏离轨道。下面我用 Golang 代码来描述活着的过程，其中好好学习，买房，结婚都可能受到不可控外界因素的影响，比如好好学习遇上教培跑路，买房遇上银行限贷，结婚遇上彩礼涨价。 下面问题来了：请为「Live」编写单元测试，要求覆盖率达到 100%。 package main import &lpar; &quot;errors&quot; &quot;math/rand&quot; &rpar; // Live 活着 func Live&lpar;money1, money2, money3 int64&rpar; error { if err := GoodGoodStudy&lpar;money1&rpar;; err != nil { return err } &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/28/968&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
     </details> 
 
 - 🦄 [一个没什么用的转义技巧](https://blog.huoding.com/2021/11/16/966) | Tue Nov 16 2021 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-    最近我用命令行工具来测试 rpc 服务，因为此命令行工具要求输入数据是 json &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/16/966&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
+    最近我用命令行工具来测试 rpc 服务，因为此命令行工具要求输入数据是 json 格式，所以免不了要在 shell 环境构造一些 json 字符串： shell&amp;#62; echo &#39;{&quot;content&quot;: &quot;$descriptionlpar;base64 foo.docx&rpar;&quot;, &quot;type&quot;: &quot;docx&quot;}&#39; 如上，我想把文件 foo.docx 的内容通过 base64 编码，然后放到 json 字符串里，但是它并不能正常工作，因为它是一个单引号字符串，命令在单引号里的是不能展开的，那换成双引号可不可以？当然可以，但是因为 json 本身包含很多双引号，所以免不了转义： shell&amp;#62; echo &quot;{\&quot;content\&quot;: \&quot;$descriptionlpar;base64 foo.docx&rpar;\&quot;, \&quot;type\&quot;: \&quot;docx\&quot;}&quot; 不瞒大家说，我最开始写出如上代码的时候，脑瓜子嗡嗡的，好在最后我想到了一个绝妙的解决方法：既然用双引号字符串不可避免会带来转义问题，那么就放弃双引号字符串，而是使用单引号字符串，然后把里面的命令用单引号包起来： shell&amp;#62; echo &#39;{&quot;content&quot;: &quot;&#39;$descriptionlpar;base64 foo.docx&rpar;&#39;&quot;, &quot;type&quot;: &quot;docx&quot;}&#39; &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/11/16/966&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
     </details> 
 
 - 🕴 [聊一个string和[]byte转换问题](https://blog.huoding.com/2021/10/14/964) | Thu Oct 14 2021 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-    前几天闲聊的时候，景埕说网上很多 string 和 []byte 的转换都是有问 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/10/14/964&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
+    前几天闲聊的时候，景埕说网上很多 string 和 []byte 的转换都是有问题的，当时并没有在意，转过身没几天我偶然看到字节跳动的一篇文章，其中提到了他们是如何优化 string 和 []byte 转换的，我便问景埕有没有问题，讨论过程中学到了很多，于是便有了这篇总结。 让我们看看问题代码，类似的 string 和 []byte 转换代码在网上非常常见： func StringToSliceByte&lpar;s string&rpar; []byte { l := len&lpar;s&rpar; return *&lpar;*[]byte&rpar;&lpar;unsafe.Pointer&lpar;&amp;#38;reflect.SliceHeader{ Data: &lpar;*&lpar;*reflect.StringHeader&rpar;&lpar;unsafe.Pointer&lpar;&amp;#38;s&rpar;&rpar;&rpar;.Data, Len: l, Cap: l, }&rpar;&rpar; } 大家之所以不愿意直接通过 []byte&lpar;string&rpar; 把 string 转换为 []byte，是因为那样会牵扯内存拷贝，而通过 unsafe.Pointer 来做类型转换，没有内存拷贝，从而达到提升性能的目的。 &amp;#8230; &lt;a href=&quot;https://blog.huoding.com/2021/10/14/964&quot;&gt;继续阅读 &lt;span class=&quot;meta-nav&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt; 
     </details> 
 <!-- huoding:END -->
 
