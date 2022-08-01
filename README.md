@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端黑科技：React项目中鼠标右键菜单功能的2种实现方式](https://juejin.cn/post/7126840376886820871) | Mon Aug 01 2022 9:41 AM 
+- 🤗 [使用react-redux 记录](https://juejin.cn/post/7126873144677105677) | Mon Aug 01 2022 11:48 AM 
     <details><summary>展开描述 ...</summary> 
-    赶紧进来瞅瞅：前端黑科技之React项目中鼠标右键菜单功能的2种实现方式。划重点是2种方式而不是只有1种方式哦，看到就是赚到，赶紧点赞收藏！！！。 
+    useSelector 推荐使用 @reduxjs/toolkit 代替 createStore store.ts @reduxjs/toolkit https://zhuanlan.zhihu.co 
     </details> 
 
-- 🎡 [Python&lpar;六&rpar;——流程控制](https://juejin.cn/post/7126840428015386660) | Mon Aug 01 2022 9:40 AM 
+- 🎡 [面试突击70：什么是粘包和半包？怎么解决？](https://juejin.cn/post/7126869525962129438) | Mon Aug 01 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第6天，点击查看活动详情 1、选择结构 1.1、if 语句 说明：如果表达式成立，就执行后面的代码块；如果表达式不成立，就什么也不执 
+    粘包和半包问题是数据传输中比较常见的问题，所谓的粘包问题是指数据在传输时，在一条消息中读取到了另一条... 
     </details> 
 
-- 🕯 [从数据结构的角度看 Webpack](https://juejin.cn/post/7126840294956269576) | Mon Aug 01 2022 9:40 AM 
+- 🕯 [react-hooks进阶，理清思路，解决问题，如何清除副作用](https://juejin.cn/post/7126869316825251847) | Mon Aug 01 2022 11:33 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 随着 Webpack 成为这几年前端工程化顶梁柱般的存在，作为一个前端工程师，可能对于 Module、Chunk等概念耳熟能详，但是可能对于 Dependency、EntryDependency 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 useState 回调函数形式的参数 useEffect 清理副作用 useRef操作DOM useCon 
     </details> 
 
-- 🚀 [TypeScript是如何工作的&lpar;简单讲讲&rpar;](https://juejin.cn/post/7126840014641561613) | Mon Aug 01 2022 9:40 AM 
+- 🚀 [2022年国内外前端发展态势](https://juejin.cn/post/7126869314572910600) | Mon Aug 01 2022 11:32 AM 
     <details><summary>展开描述 ...</summary> 
-    TS是一门在JS基础上拓展的静态弱类型语言，从名字上来看，ts强调了它的核心是“type”。工作原理归纳,TS编译器分为以下几个关键部分，TS的工作原理大致可以总结为，token、AST、Symbol 
+    本文数据来源：3703份有效填写的调查问卷，125个国家的数据, 19位前端领域的专家......向所有3703名填写该调查的前端人员表示衷心的感谢——没有你，就没有报告！ 
     </details> 
 
-- 💪 [使用 Laravel Sail &lpar;WSL2&rpar; 启动您的 Laravel Web 应用程序](https://juejin.cn/post/7126839842427633695) | Mon Aug 01 2022 9:39 AM 
+- 💪 [node 官方镜像的 ENTRYPOINT 脚本解析](https://juejin.cn/post/7126869184964722719) | Mon Aug 01 2022 11:32 AM 
     <details><summary>展开描述 ...</summary> 
-    你可能熟悉 Laravel 开发环境中的 VirtualBox with Homestead。但是，这种传统的托管虚拟机在访问您的真实硬件资源之前会带来额外的开销。 Laravel Sail 是一个轻 
+    以 node:18 为例，node 官方镜像的 ENTRYPOINT 入口脚本为以下内容： 源码详见 docker-entrypoint.sh shebang #! 组成了 shebang，指定脚本执 
     </details> 
 <!-- juejin:END -->
 ### 少数派
