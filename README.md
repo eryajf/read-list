@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教大家一个正则表达式的问题](https://www.v2ex.com/t/869970#reply0) | Mon Aug 01 2022 6:55 AM
-- 🤗 [Cloudpods 新版本 v3.9.1 正式发布](https://www.v2ex.com/t/869968#reply0) | Mon Aug 01 2022 6:53 AM
-- 🎭 [今天奇怪了，我几个服务器登上去 last 历史都没有了](https://www.v2ex.com/t/869963#reply1) | Mon Aug 01 2022 6:43 AM
-- 🥷 [应该如何为 gf 挑选手机？](https://www.v2ex.com/t/869940#reply7) | Mon Aug 01 2022 5:35 AM
-- 🐵 [如何取消被封 Google 账号的 YouTube 频道会员订阅自动续费？](https://www.v2ex.com/t/869929#reply1) | Mon Aug 01 2022 4:42 AM<!-- v2ex:END -->
+- 🥸 [k8s 搭建 MySQL 主从失败](https://www.v2ex.com/t/869999#reply0) | Mon Aug 01 2022 8:20 AM
+- 🤗 [请问 docker 下一直提示 key 权限报错是什么原因?](https://www.v2ex.com/t/869998#reply1) | Mon Aug 01 2022 8:15 AM
+- 🎭 [写了个 golang pprof 代理小工具，求大佬体验下](https://www.v2ex.com/t/869997#reply0) | Mon Aug 01 2022 8:08 AM
+- 🥷 [除了 foxmail 网易邮箱助手还有哪些靠谱的客户端](https://www.v2ex.com/t/869983#reply1) | Mon Aug 01 2022 7:31 AM
+- 🐵 [Python for 循环的效率是这么差么？还是别的什么原因？](https://www.v2ex.com/t/869981#reply10) | Mon Aug 01 2022 7:30 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
