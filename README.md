@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [哪吒新车打脸周鸿祎，34万最贵定价冲高端，脱离“为人民造车”](https://www.cnbeta.com/articles/tech/1299333.htm) | Mon Aug 01 2022 7:09 AM 
+- 🕯 [各大游戏发行商回应微软收购动视暴雪 索尼：COD系列难以替代](https://hot.cnbeta.com/articles/game/1299365.htm) | Mon Aug 01 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;哪吒新车来了，哪吒S，售价区间为19.98-33.88万元。&lt;/strong&gt;也电动，也增程，离销量数据和上市越来越近，却也离原来的初心——为人民造车，越来越远。冲击高端豪华车市场，不再埋头聚焦几万、十几万的中低端车型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;“微软收购动视暴雪”这是2022年最大的游戏新闻之一，为了完成交易，微软需要得到世界各地的竞争监管机构的许可，其中包括巴西。&lt;/strong&gt;其审查从5月20日开始，在此过程中监管机构通常会询问第三方有关交易的信息，了解他们对此的看法。而巴西政府的公共行政透明度非常高，因此该审查过程中的所有内容都是可在线阅读的，包括对第三方的问题以及他们的回答。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [全球芯片制造商争夺美国政府补贴 英特尔或分走“大蛋糕”](https://www.cnbeta.com/articles/tech/1299331.htm) | Mon Aug 01 2022 7:08 AM 
+- 💼 [iPhone首次打折卖，苹果围剿国产手机？](https://www.cnbeta.com/articles/tech/1299363.htm) | Mon Aug 01 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月1日，据BusinessKorea报道，由于美国国会最近通过了2022年芯片法案，提供520亿美元支持美国半导体产业，三星电子、英特尔和台积电等全球半导体公司似乎非常关注这些补贴将如何分配。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在全国各地连续的高温中，关于苹果2022年新机iPhone 14的传言也愈发火热。7月27日，天风国际证券分析师郭明錤在推特上表示，Genius公司为iPhone 14提供的一款后置镜头可能存在涂层裂纹质量问题，苹果已经将约1000万个镜头订单从Genius转移到Largan，好消息是——这对iPhone 14的出货量影响几乎可以忽略不计。&lt;strong&gt;“小问题”之外，数月来关于iPhone 14的产业链动态消息接连不断，早已将这款尚未问世的新机型扒了个“底朝天”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [C919完成取证试飞 多种新材料大放异彩 产业链有望受益](https://www.cnbeta.com/articles/tech/1299329.htm) | Mon Aug 01 2022 7:08 AM 
+- 💂 [现代每个人离抑郁症只有一步 俞敏洪称自己曾想从20楼跳下去](https://www.cnbeta.com/articles/tech/1299361.htm) | Mon Aug 01 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日，&lt;strong&gt;中国商飞官微宣布，国产大飞机C919完成取证试飞，距离此前宣布完成全部试飞任务仅过去不到10天。&lt;/strong&gt;此次试飞成功，也意味着，C919交付运营已进入倒计时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月31日，张朝阳和俞敏洪进行了一场长达5小时的对话，在直播中他与张朝阳讨论了“焦虑”这一话题。&lt;strong&gt;俞敏洪透露自己曾可能患上狂躁症，有一次在加拿大首都渥太华出差，在20楼看着打开的窗户一心想跳下去。&lt;/strong&gt;但因为有了孩子，知道自己肯定不能跳，所以穿上了羽绒服，在零下30度的大街走了4小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [smart精灵#1价格调整：一台还没交付就涨价 顶配多花5800元](https://www.cnbeta.com/articles/tech/1299327.htm) | Mon Aug 01 2022 7:05 AM 
+- 🚀 [每日优鲜退款难：支付宝渠道可直接退 其他充值渠道需登记排队](https://www.cnbeta.com/articles/tech/1299359.htm) | Mon Aug 01 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月1日，smart中国发布消息称，全新smart精灵#1部分配置车型将涨价。公告表示，受全球原材料价格上涨影响，全新smart精灵#1 Premium配置车型价格将进行适当调整：&lt;strong&gt;自2022年8月3日00:00（含）起，Premium配置车型官方零售价将上调人民币5800元&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;继续被爆解散后，每日优鲜余额退款也引发关注。不少用户反映退款艰难，需要登记排队。&lt;/strong&gt;目前来看，通过支付宝小程序充值的用户，可以直接申请退款，账户内余额将返还到支付宝账户，其它卡或者充值渠道的则需要无限期等待。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [英伟达RTX 4070 Ti规格曝光 性能或比肩上代旗舰RTX 3090 Ti](https://www.cnbeta.com/articles/tech/1299325.htm) | Mon Aug 01 2022 6:54 AM 
+- 🎊 [马斯克称媒体离不开自己：我能带来点击量](https://www.cnbeta.com/articles/tech/1299357.htm) | Mon Aug 01 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知名爆料人 @Kopite7kimi 刚刚在 Twitter 上分享了传说中的英伟达 RTX 4070 Ti 显卡规格，并推测其性能表现与上代旗舰 RTX 3090 Ti 相当。&lt;strong&gt;若传闻靠谱，RTX 4070 Ti 有望配备拥有 60 组 SM 单元 / 7680 个 CUDA 核心的 AD104 GPU 。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;网友讨论有多少人喜欢马斯克，狗狗币联合创始人马库斯称，&lt;strong&gt;自己以前喜欢马斯克，但是后来媒体开始说坏话，讨厌马斯克成为流行，所以为了声誉，他也不得不选择随大流。&lt;/strong&gt;马斯克在评论中感叹道，媒体依靠点击量生存，又具有强烈的负面偏向，而自己自带热点，因此总被媒体关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
