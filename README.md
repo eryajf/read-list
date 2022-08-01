@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新批69款游戏版号：超九成是移动游戏 腾讯网易无缘](https://hot.cnbeta.com/articles/game/1299477.htm) | Mon Aug 01 2022 3:10 PM 
+- 🕯 [代号柏拉图 小米12T泄露：天玑8100加持](https://www.cnbeta.com/articles/tech/1299481.htm) | Mon Aug 01 2022 4:24 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天，xiaomiui.net曝光了小米12T的详细参数，&lt;strong&gt;这款设备代号为Plato（柏拉图）。&lt;/strong&gt;其屏幕分辨率为2712×1220，支持屏幕指纹识别，&lt;strong&gt;搭载联发科天玑8100旗舰处理器，配备8GB内存，有128GB、256GB两种存储可供选择。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [马斯克再遭Twitter投资者起诉：要求继续执行收购交易](https://www.cnbeta.com/articles/tech/1299479.htm) | Mon Aug 01 2022 3:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据报道，Twitter投资者路易吉·克里斯波（Luigi Crispo）日前对特斯拉CEO埃隆·马斯克（Elon Musk）提起诉讼，要求马斯克继续履行以440亿美元收购Twitter的协议。今年4月26日，马斯克与Twitter达成收购协议，马斯克将以每股54.20美元的现金收购Twitter，交易总价值约为440亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [新批69款游戏版号：超九成是移动游戏 腾讯网易无缘](https://hot.cnbeta.com/articles/game/1299477.htm) | Mon Aug 01 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在八月的第一天，国家新闻出版署发布了年内第四批游戏版号，此次共69款游戏获批，版号发放逐渐趋于常态化。此次包括吉比特、中青宝、多益网络、创梦天地、青瓷文化、搜狐畅游、金山世游（金山软件）、炫彩互动（中国电信）等多家知名厂商获得版号。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [消息称华为Mate 50会在9月12日前后发布：没有麒麟9000S](https://www.cnbeta.com/articles/tech/1299475.htm) | Mon Aug 01 2022 3:09 PM 
+- 🚀 [消息称华为Mate 50会在9月12日前后发布：没有麒麟9000S](https://www.cnbeta.com/articles/tech/1299475.htm) | Mon Aug 01 2022 3:09 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日晚间，博主旺仔百事通透露，&lt;strong&gt;华为Mate 50系列新品发布会在9月12日前后举行。这次华为至少会推出Mate 50、Mate 50 Pro、Mate 50 RS保时捷设计三款机型，可能还有Mate 50E和Mate 50 X。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [周年套直售变抽奖 策划被指割韭菜 《穿越火线》回应](https://hot.cnbeta.com/articles/game/1299473.htm) | Mon Aug 01 2022 3:08 PM 
+- 🎊 [周年套直售变抽奖 策划被指割韭菜 《穿越火线》回应](https://hot.cnbeta.com/articles/game/1299473.htm) | Mon Aug 01 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日，众多玩家反映称，&lt;strong&gt;《穿越火线》这次活动的周年套从商城直售改成抽奖，&lt;/strong&gt;此举引发大量玩家不满。有玩家指出，往年的《穿越火线》周年套采用直售形式，200元一套，一共七套。而今年的活动改成抽奖后，不少玩家表示这是策划明目张胆割韭菜。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [AMD降噪技术被闪电破解 6年前的老卡也能享用](https://www.cnbeta.com/articles/tech/1299471.htm) | Mon Aug 01 2022 3:08 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD日前发布的22.7.1版驱动引入了全新的降噪&lpar;Noise Suppression&rpar;功能，类似NVIDIA RTX Voice，通过AI算法对输入输出音频进行处理、消除杂音，对于视频会议等非常有用。&lt;strong&gt;AMD降噪技术官方支持仅限RDNA2架构家族，也就是RX 6000系列独立显卡、锐龙6000H/6000U系列集成显卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [亚马逊推出特定零售店的同日送货服务 包括PacSun和Diesel](https://www.cnbeta.com/articles/tech/1299469.htm) | Mon Aug 01 2022 3:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊今天宣布，美国一些城市地区的Prime会员现在可以从特定的零售店获得当日送货服务。开始时，在亚特兰大、芝加哥、达拉斯、拉斯维加斯、迈阿密、凤凰城、斯科茨代尔、西雅图和华盛顿特区或附近的会员可以在亚马逊应用程序和亚马逊网站上从PacSun、GNC、SuperDry和Diesel品牌店购物，并在当天收到他们的物品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
