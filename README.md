@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [波兰科学院将家猫归为“外来入侵物种” 引发争议](http://jandan.net/p/111016) | Mon Aug 01 2022 4:35 AM 
+- 🚀 [到2035年，将有80%的美国人接受火葬](http://jandan.net/p/111045) | Mon Aug 01 2022 11:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    2020年，已有超过56%的美国人选择了它 
+    </details> 
+
+- 🙉 [波兰科学院将家猫归为“外来入侵物种” 引发争议](http://jandan.net/p/111016) | Mon Aug 01 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
     猫主人和爱猫人士对此表示愤慨，担心它会引发虐待或遗弃宠物的行为。 
     </details> 
 
-- 🙉 [今日好价 0801](http://jandan.net/p/111072) | Mon Aug 01 2022 3:39 AM 
+- 🎉 [今日好价 0801](http://jandan.net/p/111072) | Mon Aug 01 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [脑力小体操 纽科姆悖论](http://jandan.net/p/110662) | Sun Jul 31 2022 1:06 PM 
+- 🐲 [脑力小体操 纽科姆悖论](http://jandan.net/p/110662) | Sun Jul 31 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
     赏析一下 
     </details> 
 
-- 🐲 [引人注目  每天吃一根半熟的香蕉可将某些癌症的风险降低60%](http://jandan.net/p/111050) | Sun Jul 31 2022 9:17 AM 
+-  [引人注目  每天吃一根半熟的香蕉可将某些癌症的风险降低60%](http://jandan.net/p/111050) | Sun Jul 31 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
     上消化道 &lpar;GI&rpar; 癌症包括食道癌、胃癌和胰腺癌。 
-    </details> 
-
--  [AI 自行发现了替代版本的物理学](http://jandan.net/p/111065) | Sun Jul 31 2022 4:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    用人类未知的数学语言刻画动力学现象，比如说用4.7个参量来描述双摆的运动 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
