@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入浅出 solid.js 源码 （七）—— 响应式能做什么](https://juejin.cn/post/7126950531645308965) | Mon Aug 01 2022 5:02 PM 
+- 🤗 [npm run demo1 &amp;&amp; npm run demo2 &amp; npm run demo3 这个命令到底会怎么执行呢](https://juejin.cn/post/7127039465314320415) | Mon Aug 01 2022 10:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    脚本中指令的执行顺序有时候会导致意想不到的后果，其实有时候只要我们稍加注意，就能避免很多错误。不过我还是踩了坑以后才总结出来的。 
+    </details> 
+
+- 🎡 [深入浅出 solid.js 源码 （七）—— 响应式能做什么](https://juejin.cn/post/7126950531645308965) | Mon Aug 01 2022 5:02 PM 
     <details><summary>展开描述 ...</summary> 
     这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 上一节看了编译后的逻辑，我们可以发现 createSignal 方法还是原样执行，createSignal 属于 solid. 
     </details> 
 
-- 🎡 [RxDogTag：自动标记RxJava原始订阅点](https://juejin.cn/post/7126934488604475406) | Mon Aug 01 2022 3:46 PM 
+- 🕯 [RxDogTag：自动标记RxJava原始订阅点](https://juejin.cn/post/7126934488604475406) | Mon Aug 01 2022 3:46 PM 
     <details><summary>展开描述 ...</summary> 
     一、背景 在使用RxJava的过程中，经常会碰到如下一个经典的错误： 在上面的代码中，由于我们没有实现onError&lpar;&rpar;的RxJava观察者，所以在运行的时候，会报如下的错误。 对于上面的信息，并不是 
     </details> 
 
-- 🕯 [牛客面经每日一总结 &lpar;八&rpar;](https://juejin.cn/post/7126929000924102670) | Mon Aug 01 2022 3:24 PM 
+- 🚀 [6 个意想不到的 JavaScript 问题](https://juejin.cn/post/7126931491702964260) | Mon Aug 01 2022 3:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    作为前端开发工程师，JavaScript 是我们的主要开发语言，它本身语法比较简单，并且生态系统也非常完善，在社区的影响力越来越大。 在我们使用过程中，经常会遇到各种奇怪的问题，让我们经常摸不着头脑。 
+    </details> 
+
+- 💪 [牛客面经每日一总结 &lpar;八&rpar;](https://juejin.cn/post/7126929000924102670) | Mon Aug 01 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
     TCP拥塞控制与流量控制区别？ 拥塞控制就是为了防⽌过多的数据注⼊到⽹络中 这样就可以使⽹络中的路由器或链路不致过载。 拥塞控制所要做的都有⼀个前提，就是⽹络能 够承受现有的⽹络负荷。拥塞控制是⼀个全 
-    </details> 
-
-- 🚀 [k8s自动化运维五-搭建共享文件存储](https://juejin.cn/post/7126928834070315016) | Mon Aug 01 2022 3:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    不同备份数据库脚本区别 同一个数据库不同的2个备份脚本，这两个备份脚本大小差别比较大，看看是哪里的区别？ 将2个脚本分别导入不同的数据库中 查看数据库中每个表占用空间,并按大小降序 数据库1 数据库2 
-    </details> 
-
-- 💪 [一共就这几种进程通信方式，不进来看看么](https://juejin.cn/post/7126928179310592014) | Mon Aug 01 2022 3:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    为什么需要通信 由于不同的进程运行在各自不同的内存空间中．一方对于变量的修改另一方是无法感知的．因此．进程之间的信息传递不可能通过变量或其它数据结构直接进行，只能通过进程间通信来完成。 并发进程之间的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
