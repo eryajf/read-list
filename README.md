@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国广电700MHz为何被称为“黄金频段”？信号范围广、损耗低](https://www.cnbeta.com/articles/tech/1299317.htm) | Mon Aug 01 2022 6:34 AM 
+- 🕯 [哪吒新车打脸周鸿祎，34万最贵定价冲高端，脱离“为人民造车”](https://www.cnbeta.com/articles/tech/1299333.htm) | Mon Aug 01 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2019年6月，工信部下发四张5G牌照，广电收获700MHz 5G频段，在拿到5G牌照三年后，中国广电5G网络服务于6月27日上市。&lt;strong&gt;中国广电手握700MHz 5G频段，该频段也被称为“黄金频段”，&lt;/strong&gt;究竟有啥不同，接着往下看。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;哪吒新车来了，哪吒S，售价区间为19.98-33.88万元。&lt;/strong&gt;也电动，也增程，离销量数据和上市越来越近，却也离原来的初心——为人民造车，越来越远。冲击高端豪华车市场，不再埋头聚焦几万、十几万的中低端车型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [百度搜索快照功能消失？知情人士：技术升级导致功能淘汰](https://www.cnbeta.com/articles/tech/1299315.htm) | Mon Aug 01 2022 6:33 AM 
+- 💼 [全球芯片制造商争夺美国政府补贴 英特尔或分走“大蛋糕”](https://www.cnbeta.com/articles/tech/1299331.htm) | Mon Aug 01 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，有用户发现，百度搜索的快照功能因为不明原因“消失”，此前网站名称右侧的“快照”按钮消失不见，点击下拉箭头时只有举报和收藏按钮。如果直接通过此前保存的快照页面链接进行访问，则会出现错误代码“dec&amp;nbsp;error”，无法顺利完成访问。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月1日，据BusinessKorea报道，由于美国国会最近通过了2022年芯片法案，提供520亿美元支持美国半导体产业，三星电子、英特尔和台积电等全球半导体公司似乎非常关注这些补贴将如何分配。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔发布“灾难性”业绩 半导体巨头困于何处？](https://www.cnbeta.com/articles/tech/1299313.htm) | Mon Aug 01 2022 6:32 AM 
+- 💂 [C919完成取证试飞 多种新材料大放异彩 产业链有望受益](https://www.cnbeta.com/articles/tech/1299329.htm) | Mon Aug 01 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;宏观环境的恶化、疫情对供应链的扰乱、半导体市场的周期逆转，正逐步体现在芯片巨头的业绩中。在公布了一份让市场、股东乃至自己都失望的财报后，美国CPU巨头英特尔上周五（7月29日）盘中暴跌逾11%，创下2021年10月以来最大的盘中跌幅，收盘跌幅收窄至8.6%，市值跌至1491亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日，&lt;strong&gt;中国商飞官微宣布，国产大飞机C919完成取证试飞，距离此前宣布完成全部试飞任务仅过去不到10天。&lt;/strong&gt;此次试飞成功，也意味着，C919交付运营已进入倒计时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [传英特尔将Sapphire Rapids-SP处理器推迟到2023年1季度上市](https://www.cnbeta.com/articles/tech/1299311.htm) | Mon Aug 01 2022 6:30 AM 
+- 🚀 [smart精灵#1价格调整：一台还没交付就涨价 顶配多花5800元](https://www.cnbeta.com/articles/tech/1299327.htm) | Mon Aug 01 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Igor&amp;#39;s Lab 报道称，英特尔正在推迟代号为“Sapphire Rapids”的第四代至强（Xeon）可扩展处理器（Scalable Processor）的上市时间。&lt;/strong&gt;当然，这并不是该项目的首次延期。某些最早的路线图，甚至可追溯到 2021 年 1 季度 —— 但原本我们也有望在 2022 年底前（4 季度）迎接 Sapphire Rapids-SP 的到来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月1日，smart中国发布消息称，全新smart精灵#1部分配置车型将涨价。公告表示，受全球原材料价格上涨影响，全新smart精灵#1 Premium配置车型价格将进行适当调整：&lt;strong&gt;自2022年8月3日00:00（含）起，Premium配置车型官方零售价将上调人民币5800元&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微软北大联合团队开发AI新应用 无限视觉生成技术](https://www.cnbeta.com/articles/tech/1299309.htm) | Mon Aug 01 2022 6:30 AM 
+- 🎊 [英伟达RTX 4070 Ti规格曝光 性能或比肩上代旗舰RTX 3090 Ti](https://www.cnbeta.com/articles/tech/1299325.htm) | Mon Aug 01 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日微软Research Asia联合北京大学以及Microsoft Azure AI共同研发了全新AI视觉生成技术“NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis”，引发热议，通过该技术可以使文本自动生成图像或者学习图像生成扩张图像等应用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;知名爆料人 @Kopite7kimi 刚刚在 Twitter 上分享了传说中的英伟达 RTX 4070 Ti 显卡规格，并推测其性能表现与上代旗舰 RTX 3090 Ti 相当。&lt;strong&gt;若传闻靠谱，RTX 4070 Ti 有望配备拥有 60 组 SM 单元 / 7680 个 CUDA 核心的 AD104 GPU 。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
