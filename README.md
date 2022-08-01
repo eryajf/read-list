@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [k8s 搭建 MySQL 主从失败](https://www.v2ex.com/t/869999#reply0) | Mon Aug 01 2022 8:20 AM
-- 🤗 [请问 docker 下一直提示 key 权限报错是什么原因?](https://www.v2ex.com/t/869998#reply1) | Mon Aug 01 2022 8:15 AM
-- 🎭 [写了个 golang pprof 代理小工具，求大佬体验下](https://www.v2ex.com/t/869997#reply0) | Mon Aug 01 2022 8:08 AM
-- 🥷 [除了 foxmail 网易邮箱助手还有哪些靠谱的客户端](https://www.v2ex.com/t/869983#reply1) | Mon Aug 01 2022 7:31 AM
-- 🐵 [Python for 循环的效率是这么差么？还是别的什么原因？](https://www.v2ex.com/t/869981#reply10) | Mon Aug 01 2022 7:30 AM<!-- v2ex:END -->
+- 🥸 [Java 8 的 stream 常规操作导致线程卡死](https://www.v2ex.com/t/870012#reply1) | Mon Aug 01 2022 9:06 AM
+- 🤗 [七夕拿去表白，祝全天下再无单身狗](https://www.v2ex.com/t/870002#reply0) | Mon Aug 01 2022 8:34 AM
+- 🎭 [k8s 搭建 MySQL 主从失败](https://www.v2ex.com/t/869999#reply2) | Mon Aug 01 2022 8:20 AM
+- 🥷 [请问 docker 下一直提示 key 权限报错是什么原因?](https://www.v2ex.com/t/869998#reply2) | Mon Aug 01 2022 8:15 AM
+- 🐵 [写了个 golang pprof 代理小工具，求大佬体验下](https://www.v2ex.com/t/869997#reply0) | Mon Aug 01 2022 8:08 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
