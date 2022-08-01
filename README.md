@@ -237,29 +237,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [运维自动化之多云系统分享](https://blog.ops-coffee.cn/s/Wtx2utkC4MErDLvC3cbSMg) | Sat Jul 30 2022 8:02 AM 
+- 👺 [Django Model之ForeignKey](https://blog.ops-coffee.cn/django/django-model-foreignkey) | Mon Aug 01 2022 5:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    foreignkey介绍及学习 
+    </details> 
+
+- 💯 [运维自动化之多云系统分享](https://blog.ops-coffee.cn/s/Wtx2utkC4MErDLvC3cbSMg) | Sat Jul 30 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
     什么是多云，多云该如何设计，多云要怎么落地 
     </details> 
 
-- 💯 [盛夏露营，我不怕热不怕蚊子吗？](https://blog.ops-coffee.cn/s/mWYu4bSkSpymtk8opJa-IQ) | Thu Jul 21 2022 9:39 AM 
+- 🚦 [盛夏露营，我不怕热不怕蚊子吗？](https://blog.ops-coffee.cn/s/mWYu4bSkSpymtk8opJa-IQ) | Thu Jul 21 2022 9:39 AM 
     <details><summary>展开描述 ...</summary> 
     有很多朋友问我，三十几度的天气，你还出去露营，不怕热吗？不怕蚊虫叮咬吗？ 
     </details> 
 
-- 🚦 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM 
+- 👨‍🏫 [真的喜欢户外的，都是热爱生活的](https://blog.ops-coffee.cn/r/weekend-camping-music-life) | Mon Jul 04 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
     真的喜欢户外的，都是热爱生活的 
     </details> 
 
-- 👨‍🏫 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
+- 🌮 [周末，一家三口夏日露营过夜](https://blog.ops-coffee.cn/r/weekend-summer-camping) | Sat Jun 25 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     夏天户外露营过夜体验 
-    </details> 
-
-- 🌮 [PEP 8 -- Python 代码风格指南](https://blog.ops-coffee.cn/g/python-code-style-pep8) | Mon Jun 20 2022 2:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    PEP 8 -- Python 代码风格指南 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
