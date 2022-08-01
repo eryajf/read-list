@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [即将涨价的 VR 头显，买来可以玩什么？](https://sspai.com/post/74918) | Sun Jul 31 2022 10:06 AM 
+- 👹 [派早报：AMD 市值再超英特尔，二季度智能手机出货量同比明显下降等](https://sspai.com/post/74917) | Mon Aug 01 2022 12:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可能错过的新鲜事AMD市值再次反超英特尔7月29日，即英特尔公布上一季度财报，表明未能实现利润预期的次日，其股价下跌近9%，市值收于1480亿美元。同日，AMD股价上涨超过3%，市值1530亿美元， ...&lt;a href=&quot;https://sspai.com/post/74917&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [即将涨价的 VR 头显，买来可以玩什么？](https://sspai.com/post/74918) | Sun Jul 31 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
     来自编辑部的 VR 游戏分享。&lt;a href=&quot;https://sspai.com/post/74918&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [用插件让新标签页回归空白，和恼人的搜索栏与广告标说再见](https://sspai.com/post/74325) | Sun Jul 31 2022 7:08 AM 
+- 🤭 [用插件让新标签页回归空白，和恼人的搜索栏与广告标说再见](https://sspai.com/post/74325) | Sun Jul 31 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
     我只想要个纯净的空白页当新标签页……怎么就这么难啊？&lt;a href=&quot;https://sspai.com/post/74325&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [任意键｜初见月迅龙；爱生气的巫妖王；奶刃三部曲及其他](https://sspai.com/post/74890) | Sat Jul 30 2022 6:58 AM 
+- 🥸 [任意键｜初见月迅龙；爱生气的巫妖王；奶刃三部曲及其他](https://sspai.com/post/74890) | Sat Jul 30 2022 6:58 AM 
     <details><summary>展开描述 ...</summary> 
     周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当@Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。如果你对本栏目的内容方向和呈现形式有不同的见解和主张，欢迎在评论 ...&lt;a href=&quot;https://sspai.com/post/74890&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [来一场义工旅行，就可以改变人生吗？](https://sspai.com/post/74875) | Sat Jul 30 2022 2:33 AM 
+- 🙉 [来一场义工旅行，就可以改变人生吗？](https://sspai.com/post/74875) | Sat Jul 30 2022 2:33 AM 
     <details><summary>展开描述 ...</summary> 
     走过沙滩、经过海洋、穿过人群，心里想着——「啊 ，这里就是我的家」。&lt;a href=&quot;https://sspai.com/post/74875&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派周报 | 本周会员内容提要；跑题：裁员语文](https://sspai.com/prime/story/pi-weekly-002) | Fri Jul 29 2022 10:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    美国科技公司在面临裁员时，又是怎样措辞和解释的呢？&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-002&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
