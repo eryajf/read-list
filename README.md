@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [SiteSucker Pro 5.0.1 扒站神器](https://xclient.info/s/sitesucker.html) | Mon Aug 01 2022 2:59 AM 
+- 🦏 [NTFS助手 4.3 最具性价比读写NTFS磁盘解决方案](https://xclient.info/s/ntfs-aibotech.html) | Mon Aug 01 2022 10:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    NTFS 助手专业版是一款在 Mac 电脑上读写 NTFS 磁盘的应用工具 
+    </details> 
+
+-  [SiteSucker Pro 5.0.1 扒站神器](https://xclient.info/s/sitesucker.html) | Mon Aug 01 2022 2:59 AM 
     <details><summary>展开描述 ...</summary> 
     SiteSucker是一款Mac OS X上的整站下载的利器，可以将整个网站所有资源下载到本地硬盘。 
     </details> 
 
--  [WiFiSpoof 3.8.5 MAC地址修改工具](https://xclient.info/s/wifi-spoof.html) | Mon Aug 01 2022 2:58 AM 
+- ⚗️ [WiFiSpoof 3.8.5 MAC地址修改工具](https://xclient.info/s/wifi-spoof.html) | Mon Aug 01 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
     WiFiSpoof是一款适用于Mac系统的wifi地址修改器，用户只需要安装WiFiSpoof for mac，点击打开就能很直观的修改Mac地址，很容易操作。 
     </details> 
 
-- ⚗️ [SnapMotion 5.0.7 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Mon Aug 01 2022 2:57 AM 
+- 🔥 [SnapMotion 5.0.7 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Mon Aug 01 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
     SnapMotion可以快速将截取视频中的图片，并且支持批量处理，支持导出为GIF等格式，简单易用。 
     </details> 
 
-- 🔥 [PowerPhotos 2.0.3b1 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Mon Aug 01 2022 2:56 AM 
+- 🌋 [PowerPhotos 2.0.3b1 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Mon Aug 01 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
     PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
-    </details> 
-
-- 🌋 [Yate 6.10.5.2 音频文件标签小工具](https://xclient.info/s/yate.html) | Mon Aug 01 2022 2:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
     </details> 
 <!-- xclient:END -->
 
