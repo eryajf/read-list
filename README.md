@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [ingress 访问 nginx 报错 404，求求大伙给指个路](https://www.v2ex.com/t/870043#reply5) | Mon Aug 01 2022 11:46 AM
-- 🤗 [lodash some 方法性能为什么比 js 原生方法 还高？](https://www.v2ex.com/t/870035#reply12) | Mon Aug 01 2022 10:30 AM
-- 🎭 [gunicorn + worker_class 除了默认 sync，像 gevent， eventlet 都无法使用](https://www.v2ex.com/t/870032#reply0) | Mon Aug 01 2022 10:22 AM
-- 🥷 [Go 微服务开发框架 DMicro 的设计思路](https://www.v2ex.com/t/870021#reply3) | Mon Aug 01 2022 9:43 AM
-- 🐵 [[视频] VS Code 6 月更新](https://www.v2ex.com/t/870019#reply1) | Mon Aug 01 2022 9:39 AM<!-- v2ex:END -->
+- 🥸 [怎么看候选人简历的 github？](https://www.v2ex.com/t/870075#reply1) | Mon Aug 01 2022 3:19 PM
+- 🤗 [万能的 V 友，有没有最近 CKA 的题库](https://www.v2ex.com/t/870071#reply0) | Mon Aug 01 2022 2:50 PM
+- 🎭 [typescript 类型转换请教](https://www.v2ex.com/t/870068#reply3) | Mon Aug 01 2022 2:47 PM
+- 🥷 [web 大佬来解答一下疑惑， github 直接在当前页面加载新的链接，然后不能回退](https://www.v2ex.com/t/870067#reply0) | Mon Aug 01 2022 2:30 PM
+- 🐵 [ingress 访问 nginx 报错 404，求求大伙给指个路](https://www.v2ex.com/t/870043#reply7) | Mon Aug 01 2022 11:46 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
