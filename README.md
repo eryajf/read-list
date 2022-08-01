@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [http客户端Feign](https://juejin.cn/post/7126909796720050189) | Mon Aug 01 2022 2:10 PM 
+- 🤗 [Vue 之 provide和inject的使用](https://juejin.cn/post/7126923732316061732) | Mon Aug 01 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 1. RestTemplate方式调用存在的问题 以前利用RestTemplate发起远程调用的代码： 存 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 在Vue中我们可以很方便的通过父组件往子组件传递属性，Props是我们将数据传递到子组件的主 
     </details> 
 
-- 🎡 [精通Java事务编程&lpar;6&rpar;-可串行化隔离级别之真串行](https://juejin.cn/post/7126908077776830500) | Mon Aug 01 2022 2:03 PM 
+- 🎡 [「LeetCode」123-买卖股票的最佳时机|||⚡️](https://juejin.cn/post/7126923410382258207) | Mon Aug 01 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第6天，点击查看活动详情 RC 和 快照隔离 级别可防止某些竞争条件，但并非全部。一些棘手案例，如写偏斜 和 幻读，会发现可悲情况： 
+    前言🌧️ 算法，对前端人来说陌生又熟悉，很多时候我们都不会像后端工程师一样重视这项能力。但事实上，算法对每一个程序员来说，都有着不可撼动的地位。 因为开发的过程就是把实际问题转换成计算机可识别的指令， 
     </details> 
 
-- 🕯 [docker和docker-compose一文入门](https://juejin.cn/post/7126907873296121892) | Mon Aug 01 2022 2:02 PM 
+- 🕯 [leetcode刷题记录-593. 有效的正方形](https://juejin.cn/post/7126922939726823455) | Mon Aug 01 2022 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-    现实生活中，容器是用来装东西的。 某个特定的容器用来装特定的物质。 在计算机科学中，容器的概念是用来封装 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 前言 今天的题目为中等，题目主要就是证明题，证明四个点组成的图形是一个正方形，那么运用正方形的特性就能够得 
     </details> 
 
-- 🚀 [Flutter学习-GetX-03 状态管理](https://juejin.cn/post/7126907225087901704) | Mon Aug 01 2022 2:01 PM 
+- 🚀 [边做边学spark? -- scala 安装与执行](https://juejin.cn/post/7126922229996060703) | Mon Aug 01 2022 2:58 PM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍GetX中的状态管理的几种方式包括Obx，GetBuilder，getx 等，1. Obx 对于我们使用Getx进行状态管理通常会根据实际情况进行使用，对于页面的局部变化的时候我们可以 
+    下载 下载 scala 压缩包 插：msi和zip文件的区别： 检查 scala 是否安装成功 scala -version 基于IntelliJ IDE行安装Scala 确保你有Java 8 JDK 
     </details> 
 
-- 💪 [vite 脚手架使用教程&lpar;三&rpar;-Pinia的使用&amp;环境配置](https://juejin.cn/post/7126907044153524254) | Mon Aug 01 2022 1:59 PM 
+- 💪 [IOS OpenGL ES GPUImage 图像阴影和深度效果 GPUImageMultiplyBlendFilter](https://juejin.cn/post/7126922025402105893) | Mon Aug 01 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
-    与上篇文章关于 vue-router的部分使用中说明的一样，通过可以有更多的插件加入的思维去设计引入，这里的 Pinia 页使用这种方式去构建...... 
+    目录 - [一.简介]&lpar;#%E4%B8%80%E7%AE%80%E4%BB%8B &quot;一.简介&quot;&rpar; - [二.效果演示]&lpar;#%E4%BA%8C%E6%95%88%E6%9E%9C%E6%BC%94% 
     </details> 
 <!-- juejin:END -->
 ### 少数派
