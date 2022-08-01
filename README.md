@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Research Secrets eBook - 建立成功的内容策略的第一步](https://xinquji.com/posts/178368?utm_campaign=xinquji-rss) | Mon Aug 01 2022 6:13 AM 
+- 👀 [Tab Butler Beta - 为您服务的标签管理器](https://xinquji.com/posts/178383?utm_campaign=xinquji-rss) | Tue Aug 02 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     建立成功的内容策略的第一步  
+     为您服务的标签管理器  
     </details> 
 
-- 🥷 [Peer Connect - 寻找同行参加比赛的平台](https://xinquji.com/posts/178367?utm_campaign=xinquji-rss) | Mon Aug 01 2022 6:12 AM 
+- 🥷 [UChat - 无需编码即可自动化您的业务](https://xinquji.com/posts/178382?utm_campaign=xinquji-rss) | Tue Aug 02 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     寻找同行参加比赛的平台  
+     无需编码即可自动化您的业务  
     </details> 
 
-- 💼 [Learnist - 一个开源平台，可帮助您完成学业](https://xinquji.com/posts/178366?utm_campaign=xinquji-rss) | Mon Aug 01 2022 6:11 AM 
+- 💼 [Polymath Robotics - 在 sim 中构建自动工业车辆](https://xinquji.com/posts/178381?utm_campaign=xinquji-rss) | Tue Aug 02 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     一个开源平台，可帮助您完成学业  
+     在 sim 中构建自动工业车辆  
     </details> 
 
-- 🦅 [SMMRY-XT - 快速总结网络上的任何文章](https://xinquji.com/posts/178365?utm_campaign=xinquji-rss) | Mon Aug 01 2022 6:10 AM 
+- 🦅 [Attribute - 了解您的客户如何发现您的品牌](https://xinquji.com/posts/178380?utm_campaign=xinquji-rss) | Tue Aug 02 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     快速总结网络上的任何文章  
+     了解您的客户如何发现您的品牌  
     </details> 
 
-- 😺 [Book Tracker Template - 完美的图书跟踪器模板](https://xinquji.com/posts/178364?utm_campaign=xinquji-rss) | Mon Aug 01 2022 6:09 AM 
+- 😺 [YOLOREKT - 基于区块链的短期预测市场平台](https://xinquji.com/posts/178379?utm_campaign=xinquji-rss) | Tue Aug 02 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     完美的图书跟踪器模板  
+     基于区块链的短期预测市场平台  
     </details> 
 <!-- xinquji:END -->
