@@ -343,7 +343,7 @@
     研究人员发现了一个由 1.1万多个域名组成的巨大网络，正在向欧洲用户推广虚假投资计划。 
     </details> 
 
-- 🦅 [大华摄像头曝严重漏洞，黑客可无限制访问设备](https://www.freebuf.com/news/340694.html) | Mon Aug 01 2022 3:24 AM 
+- 🦅 [大华摄像头存在安全漏洞，目前已得到修复](https://www.freebuf.com/news/340694.html) | Mon Aug 01 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     通过该漏洞，攻击者可获取最高权限，对受影响设备无限制访问，包括实时观看和重放摄像头视频。 
     </details> 
