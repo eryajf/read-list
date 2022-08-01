@@ -364,8 +364,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [ingress 访问 nginx 报错 404，求求大伙给指个路](https://www.v2ex.com/t/870043#reply2) | Mon Aug 01 2022 11:46 AM
-- 🤗 [lodash some 方法性能为什么比 js 原生方法 还高？](https://www.v2ex.com/t/870035#reply10) | Mon Aug 01 2022 10:30 AM
+- 🥸 [ingress 访问 nginx 报错 404，求求大伙给指个路](https://www.v2ex.com/t/870043#reply5) | Mon Aug 01 2022 11:46 AM
+- 🤗 [lodash some 方法性能为什么比 js 原生方法 还高？](https://www.v2ex.com/t/870035#reply12) | Mon Aug 01 2022 10:30 AM
 - 🎭 [gunicorn + worker_class 除了默认 sync，像 gevent， eventlet 都无法使用](https://www.v2ex.com/t/870032#reply0) | Mon Aug 01 2022 10:22 AM
 - 🥷 [Go 微服务开发框架 DMicro 的设计思路](https://www.v2ex.com/t/870021#reply3) | Mon Aug 01 2022 9:43 AM
 - 🐵 [[视频] VS Code 6 月更新](https://www.v2ex.com/t/870019#reply0) | Mon Aug 01 2022 9:39 AM<!-- v2ex:END -->
