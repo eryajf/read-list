@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现62种“长新冠”症状 包括脱发、性欲降低等](https://www.cnbeta.com/articles/science/1299271.htm) | Mon Aug 01 2022 4:56 AM 
+- 🕯 [中国广电700MHz为何被称为“黄金频段”？信号范围广、损耗低](https://www.cnbeta.com/articles/tech/1299317.htm) | Mon Aug 01 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管在全球很多国家和地区的新冠疫情已经得到了基本控制，但是新冠康复者的“长新冠”症状在可预见的未来仍将存在。近日，一项大规模研究整合了截至目前最庞大的数据，希望洞察这些新冠康复者的症状和患病率。&lt;strong&gt;研究发现了一系列和“长新冠”相关的症状，包括脱发、性欲降低等等，并且认为将应该视病情划分为 3 种不同类别，而不是只是认为是新冠的后遗症。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2019年6月，工信部下发四张5G牌照，广电收获700MHz 5G频段，在拿到5G牌照三年后，中国广电5G网络服务于6月27日上市。&lt;strong&gt;中国广电手握700MHz 5G频段，该频段也被称为“黄金频段”，&lt;/strong&gt;究竟有啥不同，接着往下看。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Pico新手柄谍照曝光，新品或在全球同步发售](https://www.cnbeta.com/articles/tech/1299269.htm) | Mon Aug 01 2022 4:27 AM 
+- 💼 [百度搜索快照功能消失？知情人士：技术升级导致功能淘汰](https://www.cnbeta.com/articles/tech/1299315.htm) | Mon Aug 01 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月1日，海外科技博主@TonyVT SkarredGhost通过社交媒体放出了Pico新品手柄的谍照。从外观看，Pico新品手柄发生了巨大变化，目前的形状更像击剑手柄，且明显增加了手部覆盖面积。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，有用户发现，百度搜索的快照功能因为不明原因“消失”，此前网站名称右侧的“快照”按钮消失不见，点击下拉箭头时只有举报和收藏按钮。如果直接通过此前保存的快照页面链接进行访问，则会出现错误代码“dec&amp;nbsp;error”，无法顺利完成访问。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [前高管：微软鼓励Xbox和PlayStation主机大战](https://hot.cnbeta.com/articles/game/1299267.htm) | Mon Aug 01 2022 4:17 AM 
+- 💂 [英特尔发布“灾难性”业绩 半导体巨头困于何处？](https://www.cnbeta.com/articles/tech/1299313.htm) | Mon Aug 01 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;PlayStation 3 和 Xbox 360 之间的竞争，更可以看作是是和自己之间的竞争：例如前者的各种技术问题和后者的 Red Ring of Death。在当时你几乎听不到“主机大战”（console wars）这个单词，也很少有关于谁比谁好的争论。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;宏观环境的恶化、疫情对供应链的扰乱、半导体市场的周期逆转，正逐步体现在芯片巨头的业绩中。在公布了一份让市场、股东乃至自己都失望的财报后，美国CPU巨头英特尔上周五（7月29日）盘中暴跌逾11%，创下2021年10月以来最大的盘中跌幅，收盘跌幅收窄至8.6%，市值跌至1491亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究：纳米抗体治疗可帮助清除帕金森病患者的大脑蛋白质团块](https://www.cnbeta.com/articles/science/1299265.htm) | Mon Aug 01 2022 4:09 AM 
+- 🚀 [传英特尔将Sapphire Rapids-SP处理器推迟到2023年1季度上市](https://www.cnbeta.com/articles/tech/1299311.htm) | Mon Aug 01 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，聚集在大脑中的错误折叠的蛋白质团块被认为与帕金森病等神经退行性疾病有关。现在，&lt;strong&gt;新发现的纳米抗体显示有希望破坏这些团块的结构，有可能导致该疾病的新疗法。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Igor&amp;#39;s Lab 报道称，英特尔正在推迟代号为“Sapphire Rapids”的第四代至强（Xeon）可扩展处理器（Scalable Processor）的上市时间。&lt;/strong&gt;当然，这并不是该项目的首次延期。某些最早的路线图，甚至可追溯到 2021 年 1 季度 —— 但原本我们也有望在 2022 年底前（4 季度）迎接 Sapphire Rapids-SP 的到来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [台积电高雄厂将于今年动工](https://www.cnbeta.com/articles/tech/1299263.htm) | Mon Aug 01 2022 4:02 AM 
+- 🎊 [微软北大联合团队开发AI新应用 无限视觉生成技术](https://www.cnbeta.com/articles/tech/1299309.htm) | Mon Aug 01 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;台积电今（1）日表示，高雄厂将于今年动工。据悉，台积电将在高雄设立生产7纳米及28纳米制程的晶圆厂，将于2022年开始动工，并于2024年开始量产。此前台积电透露，到 2025 年，其成熟和专业节点的产能将扩大约 50%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日微软Research Asia联合北京大学以及Microsoft Azure AI共同研发了全新AI视觉生成技术“NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis”，引发热议，通过该技术可以使文本自动生成图像或者学习图像生成扩张图像等应用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
