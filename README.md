@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Windows 11的下一次更新不会删除控制面板 但更多的选项将被转移](https://www.cnbeta.com/articles/tech/1299093.htm) | Sun Jul 31 2022 11:15 PM 
+- 🕯 [艾莉演员谈《最后的生还者》剧集：很尊重游戏原作](https://hot.cnbeta.com/articles/movie/1299187.htm) | Mon Aug 01 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软一直在慢慢地淘汰经典Windows操作系统中的标志性元素：控制面板，将更多的设定页面转移到Windows设置应用程序中。现在这一工作又有新进展，下一个Windows 11更新，可能是一个累积性或小功能更新，将把更多的页面从控制面板重定向到设置应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《最后的生还者》剧集已经杀青，将于2023年初在HBO播出，贝拉·拉姆齐在剧集中饰演艾莉。近日贝拉·拉姆齐接受外媒采访，谈及《最后的生还者》剧集。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1299187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [詹姆斯-韦伯望远镜发回的新照片中出现疑似属于它的第一颗超新星](https://www.cnbeta.com/articles/science/1299091.htm) | Sun Jul 31 2022 11:11 PM 
+- 💼 [Intel ARC A5xx/A7xx显卡有望8月5日-9月29日发售](https://www.cnbeta.com/articles/tech/1299185.htm) | Mon Aug 01 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;詹姆斯-韦伯可能已经捕捉到其第一颗超新星的图像。这个太空望远镜背后的团队本月早些时候分享了一组图像和一份关于可能的瞬态的简要报告。根据该报告，该团队认为它在星系SDSS J141930.11+525159.3中发现了一个红外瞬变体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;上周末，英特尔的 Arc 显卡成为了热门话题；而根据 &lt;a href=&quot;https://www.igorslab.de/en/possible-launch-date-for-intels-arc-a5xx-and-a7xx-graphics-cards-leaked-exclusively/&quot; target=&quot;_blank&quot;&gt;Igor Wallossek&lt;/a&gt; 分享的最新消息，该系列显卡预估将会在 8 月 5 日至 9 月 29 日期间发货。&lt;/strong&gt;这是我们第三次听到关于 Arc 显卡的发货日期，首先是油管频道 Moore&amp;#39;s Law is Dead 的谣传；随后英特尔首席执行官帕特·基辛格和显卡副总裁拉加·科杜里均确认将会在 2022 年第 3 季度上市，而现在 Igor 再次确认了发售日期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [总销量近1.2亿台 索尼PS4主机进入生命末期](https://www.cnbeta.com/articles/tech/1299089.htm) | Sun Jul 31 2022 11:04 PM 
+- 💂 [侏罗纪海洋世界：科学家在英国一个农田里发现特殊的史前遗址](https://www.cnbeta.com/articles/science/1299183.htm) | Mon Aug 01 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼目前有两代主机PS4、PS5同时销售，其中前者是2013年发布的，现在已经进入了生命末期，因为索尼在最新的财报中首次不再公布PS4销量。据索尼2022财年Q1财报中的数据，当季度中PS5的销量为240万台，同比增加了10万台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;化石收集者在英国格洛斯特郡的一个农田里发现了一个特殊的史前遗址，里面有生活在热带海洋中的动物遗骸。&lt;/strong&gt;这些化石是在一块由古老的英国长角牛放牧的田地下面发现的，保存得非常好，令人惊叹。尽管约有1.83亿年的历史，这些化石看起来就像被“冻结”在时间中一样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [电脑用AirPods难受？Windows 11连AirPods的正确姿势](https://www.cnbeta.com/articles/tech/1299087.htm) | Sun Jul 31 2022 11:03 PM 
+- 🚀 [欧洲最后的熊猫？科学家发现与大熊猫密切相关的物种](https://www.cnbeta.com/articles/science/1299181.htm) | Mon Aug 01 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管AirPods已经不是什么新产品，但依然是体验首屈一指的蓝牙耳机。很多朋友都购买了AirPods，但却不一定在苹果产品上使用它，例如很多人就喜欢在电脑上使用AirPods。然而，Windows系统和AirPods的契合度并不好，默认没法查看大量，也无法直观地呈现连接状态，更无法对AirPods的种种功能进行控制——直到最新版的Windows 11，也仍是如此。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;科学家们发现了一个新的熊猫物种，&lt;strong&gt;他们说这是目前已知的最后一只和“最进化的 ”欧洲大熊猫。它在大约600万年前在保加利亚的森林湿地中蹒跚而行。&lt;/strong&gt;从保加利亚国家自然历史博物馆的内部发掘出来的两颗牙齿化石，最初于20世纪70年代末在这个东欧国家发现，为现代大熊猫的一个相当大的近亲提供了新的证据。然而，与今天标志性的黑白熊猫不同的是，它并非纯粹依赖竹子为食。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [只有骨架的新手专用教练车：用电发动最大速度几迈、申请专利造价千元](https://hot.cnbeta.com/articles/funny/1299085.htm) | Sun Jul 31 2022 11:02 PM 
+- 🎊 [苗条的人反而更懒？Cell子刊揭示“瘦子之所以瘦”的奥秘](https://www.cnbeta.com/articles/science/1299179.htm) | Mon Aug 01 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，河北承德一驾校训练场，出现多辆只有骨架的镂空教练车，这也引起了网友的热议。该驾校负责人再次接受极目新闻报道时介绍，&lt;strong&gt;这些“骨架车”是他自己设计的模拟器，车架镂空是为了消除学员的密闭感和紧张感，还准备申请专利。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1299085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;每个人的身边都有这样一种人：他们很瘦，甚至从来都没有胖过；更气人的是，他们看上去好像怎么吃也不会胖，还会时不时和你抱怨“自己想增肥但不成功”。&lt;/strong&gt;苍天呐，“喝口水都会长胖”的小编流下了羡慕的泪水！他们到底为啥能保持这么瘦呢？难道这群瘦子损友背着我在偷偷地运动？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
