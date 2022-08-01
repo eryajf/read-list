@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软称Windows 10 22H2将获得&quot;范围广泛的一组&quot;新功能](https://www.cnbeta.com/articles/tech/1299461.htm) | Mon Aug 01 2022 1:41 PM 
+- 🕯 [泡泡玛特20个月市值跌去八成 盲盒二级市场遭抛售](https://www.cnbeta.com/articles/tech/1299465.htm) | Mon Aug 01 2022 1:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;二手交易平台上，年轻人正在疯狂转手盲盒。张乐童是泡泡玛特SKULLPANDA OOTD狂热粉丝，之前花上万元购入该系列盲盒，但被大厂裁退后他想要“出坑”回回血。令他没想到的是，盲盒价格跳水实在太厉害了，原本发售价899元SKULLPANDA OOTD牛仔款，闲鱼500元无人问津，最终不得不降至400元才出手。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Linus Torvalds使用M2 MacBook Air笔记本发布了Linux 5.19](https://www.cnbeta.com/articles/tech/1299463.htm) | Mon Aug 01 2022 1:44 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最新发布的Linux 5.19比以往有更多的苹果元素，Linus Torvalds是使用M2 MacBook Air运行移植到Apple Silicon的Linux版本来发布了该最新版本的。Linux和其他操作系统一样会定期更新，Linux背后的推动者Linus Torvalds最近发布了5.19版本的操作系统，使不同Linux套件的维护者能够纳入这些变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [微软称Windows 10 22H2将获得&quot;范围广泛的一组&quot;新功能](https://www.cnbeta.com/articles/tech/1299461.htm) | Mon Aug 01 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Windows 10的下一个特色更新即Windows 10 22H2现在已经在发布预览版频道中进行测试，但除此之外还有一点细节值得提一下。正如Thurrott.com所发现的，微软悄悄地更新了该Windows 10 22H2新闻的原始博客文章，以预告该操作系统未来可能的一些新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [尽管使用A15芯片 iPhone 14入门机型仍将拥有性能提升](https://www.cnbeta.com/articles/tech/1299459.htm) | Mon Aug 01 2022 1:18 PM 
+- 🚀 [尽管使用A15芯片 iPhone 14入门机型仍将拥有性能提升](https://www.cnbeta.com/articles/tech/1299459.htm) | Mon Aug 01 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据泄密者&amp;quot;ShrimpApplePro&amp;quot;称，尽管包含相同的A15仿生芯片，但标准的iPhone14型号仍将比iPhone13有更好的性能。3月，苹果分析师郭明錤声称，只有iPhone 14 Pro机型将采用A16芯片，标准款iPhone 14和iPhone 14 Max机型将像iPhone 13一样配备A15芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [三星M12材质OLED屏将首先供应给苹果](https://www.cnbeta.com/articles/tech/1299457.htm) | Mon Aug 01 2022 1:02 PM 
+- 🎊 [三星M12材质OLED屏将首先供应给苹果](https://www.cnbeta.com/articles/tech/1299457.htm) | Mon Aug 01 2022 1:02 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;国产机在宣传OLED屏幕时，这几年多会强调采用的三星E4/E5材质。不过，在三星内部，其实还有M系列材质，它们的品质更好，这些面板，三星一些拿来自己用，另外一些则卖给了苹果。最新消息称，从订单量来看，三星将为苹果iPhone 14系列供应多达8000万块OLED面板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [3米长的SpaceX太空垃圾击中澳大利亚农场：传出巨大爆炸声](https://www.cnbeta.com/articles/tech/1299455.htm) | Mon Aug 01 2022 1:01 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据澳大利亚广播公司报道，近日，SpaceX飞船上的多块太空垃圾掉落在澳大利亚境内，其中一块长达3米。&lt;/strong&gt;澳大利亚农民迈纳斯表示，当时，他的女儿听到一声巨响，然后在自己的一处农场土地上发现了这个家伙。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [骗过了N多媒体的每日优鲜假公告 其实是最近流行的骗局](https://www.cnbeta.com/articles/tech/1299453.htm) | Mon Aug 01 2022 12:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天下午，互联网圈的一则假新闻快把人折腾得精神错乱了。大概在5点左右，突然有一大批媒体报道了“每日优鲜宣布无法正常经营，资金链断裂”的消息。如此爆炸性的“新闻”迅速被更多的媒体转载、传播。这则新闻的核心证据是一则来路不明的所谓《关于每日优鲜资金链断裂无法经营的通知》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
