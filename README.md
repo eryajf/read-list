@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [还在苦恼如何寻找研究选题？不妨来试一试这个人工智能吧](https://sspai.com/post/74901) | Mon Aug 01 2022 3:30 AM 
+- 👹 [施救者会在心肺复苏过程中感染疾病吗](https://sspai.com/post/74931) | Mon Aug 01 2022 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    近年来，我们越来越频繁的发现：「不明原因猝死」的人越来越多了。从光鲜亮丽的艺人，到日夜兼程的社畜，越来越多的年轻人提前走到了生命的尽头。之前LesliePan老师科已经科普了「猝死的相关知识」，并教大 ...&lt;a href=&quot;https://sspai.com/post/74931&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [还在苦恼如何寻找研究选题？不妨来试一试这个人工智能吧](https://sspai.com/post/74901) | Mon Aug 01 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     让 Elicit 在海量的研究文库里面，帮咱们寻找别人的研究成果，以便确定它们是不是有价值的真问题。&lt;a href=&quot;https://sspai.com/post/74901&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：AMD 市值再超英特尔，二季度智能手机出货量同比明显下降等](https://sspai.com/post/74917) | Mon Aug 01 2022 12:55 AM 
+- 🤭 [派早报：AMD 市值再超英特尔，二季度智能手机出货量同比明显下降等](https://sspai.com/post/74917) | Mon Aug 01 2022 12:55 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事AMD市值再次反超英特尔7月29日，即英特尔公布上一季度财报，表明未能实现利润预期的次日，其股价下跌近9%，市值收于1480亿美元。同日，AMD股价上涨超过3%，市值1530亿美元， ...&lt;a href=&quot;https://sspai.com/post/74917&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [即将涨价的 VR 头显，买来可以玩什么？](https://sspai.com/post/74918) | Sun Jul 31 2022 10:06 AM 
+- 🥸 [即将涨价的 VR 头显，买来可以玩什么？](https://sspai.com/post/74918) | Sun Jul 31 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
     来自编辑部的 VR 游戏分享。&lt;a href=&quot;https://sspai.com/post/74918&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [用插件让新标签页回归空白，和恼人的搜索栏与广告标说再见](https://sspai.com/post/74325) | Sun Jul 31 2022 7:08 AM 
+- 🙉 [用插件让新标签页回归空白，和恼人的搜索栏与广告标说再见](https://sspai.com/post/74325) | Sun Jul 31 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
     我只想要个纯净的空白页当新标签页……怎么就这么难啊？&lt;a href=&quot;https://sspai.com/post/74325&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [任意键｜初见月迅龙；爱生气的巫妖王；奶刃三部曲及其他](https://sspai.com/post/74890) | Sat Jul 30 2022 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当@Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。如果你对本栏目的内容方向和呈现形式有不同的见解和主张，欢迎在评论 ...&lt;a href=&quot;https://sspai.com/post/74890&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
