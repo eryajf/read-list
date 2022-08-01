@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [MBDA疑似被入侵，攻击者声称获取机密](https://www.freebuf.com/news/340722.html) | Mon Aug 01 2022 6:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    一个名为Adrastea的攻击组织声称已经入侵了跨国导弹制造商 MBDA。 
+    </details> 
+
 - 🦄 [1.1万个虚假投资网站组成的庞大网络“盯上”了欧洲](https://www.freebuf.com/news/340699.html) | Mon Aug 01 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员发现了一个由 1.1万多个域名组成的巨大网络，正在向欧洲用户推广虚假投资计划。 
     </details> 
 
-- 🦄 [大华摄像头曝严重漏洞，黑客可无限制访问设备](https://www.freebuf.com/news/340694.html) | Mon Aug 01 2022 3:24 AM 
+- 🦅 [大华摄像头曝严重漏洞，黑客可无限制访问设备](https://www.freebuf.com/news/340694.html) | Mon Aug 01 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     通过该漏洞，攻击者可获取最高权限，对受影响设备无限制访问，包括实时观看和重放摄像头视频。 
     </details> 
 
-- 🦅 [Google Play商店现17款DawDropper银行恶意软件](https://www.freebuf.com/news/340693.html) | Mon Aug 01 2022 3:22 AM 
+- 🪄 [Google Play商店现17款DawDropper银行恶意软件](https://www.freebuf.com/news/340693.html) | Mon Aug 01 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
     这些应用包括了文档扫描仪、VPN服务、二维码阅读器和通话记录器等，共携带了 Octo、Hydra、Ermac和TeaBot四个银行木马系列。 
     </details> 
 
-- 🪄 [【热点讨论】2022攻防演练情报追踪](https://www.freebuf.com/news/340081.html) | Mon Aug 01 2022 2:33 AM 
+- 💻 [VeinMind：一款容器安全检测工具使用全记录](https://www.freebuf.com/sectool/339319.html) | Mon Aug 01 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    攻防来袭，FreeBuf联合漏洞盒子情报星球为大家送上新鲜及时的情报分享~ 
-    </details> 
-
-- 💻 [FreeBuf早报 | 美国法院系统遭受重大攻击；乌克兰网络高官就俄乌网络战发表看法](https://www.freebuf.com/articles/340616.html) | Fri Jul 29 2022 10:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    美国法院系统遭受重大攻击，密封文件面临风险；西班牙一核安全系统遭黑客攻击，部分地区服务中断数月。 
+    最近在调研国内外开源的容器安全相关工具，发现了很多优秀的项目，国外的项目有trivy、anchor等，在漏洞检测这块做的很出色了；而国内的项目不多，关注非漏洞检测的工具更少，所以对一款名为问脉的开源容 
     </details> 
 <!-- freebuf:END -->
 
