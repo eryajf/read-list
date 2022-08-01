@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [vue3 静态化问题请教](https://www.v2ex.com/t/869843#reply1) | Sun Jul 31 2022 5:22 PM
-- 🤗 [求推荐桌面：若决定在 Windows 10 EOL 后逐渐弃用 Windows 为此我该如何准备？](https://www.v2ex.com/t/869835#reply17) | Sun Jul 31 2022 4:20 PM
-- 🎭 [关于 vue3 composable function&lpar;hook&rpar;的一些遐想](https://www.v2ex.com/t/869833#reply0) | Sun Jul 31 2022 3:45 PM
-- 🥷 [请教下载电子书的渠道，搜索引擎搜不到的情况](https://www.v2ex.com/t/869830#reply22) | Sun Jul 31 2022 3:07 PM
-- 🐵 [Nginx referer 方面问题请教大神](https://www.v2ex.com/t/869828#reply5) | Sun Jul 31 2022 3:03 PM<!-- v2ex:END -->
+- 🥸 [第三方的 errors 包是不是没有人用了？](https://www.v2ex.com/t/869866#reply0) | Mon Aug 01 2022 1:46 AM
+- 🤗 [有人发的这个让 windows 笔电续航能和苹果肛一下的工具有人试过吗？具体效果怎样？](https://www.v2ex.com/t/869863#reply4) | Mon Aug 01 2022 1:36 AM
+- 🎭 [来～来～来～小伙子们～ JS 圈儿又出新轮子啦～卷起来啊～](https://www.v2ex.com/t/869858#reply22) | Mon Aug 01 2022 1:03 AM
+- 🥷 [请教一下 Linux shell 中使用 IFS 分割符分割字符串被修改的问题](https://www.v2ex.com/t/869857#reply1) | Mon Aug 01 2022 12:57 AM
+- 🐵 [vue3 静态化问题请教](https://www.v2ex.com/t/869843#reply4) | Sun Jul 31 2022 5:22 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
