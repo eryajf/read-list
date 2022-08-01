@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学研究发现圈养可以使鱼类同类相食](https://www.cnbeta.com/articles/science/1299451.htm) | Mon Aug 01 2022 12:34 PM 
+- 🕯 [微软称Windows 10 22H2将获得&quot;范围广泛的一组&quot;新功能](https://www.cnbeta.com/articles/tech/1299461.htm) | Mon Aug 01 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;人们普遍认为同类相食行为在自然界中很常见，然而，最近的研究表明情况并非如此。&lt;/strong&gt;尽管已知蚊子鱼和石首鱼在人工饲养的情况下会同类相食，但它们在野外进行同类相食是非常不可能的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Windows 10的下一个特色更新即Windows 10 22H2现在已经在发布预览版频道中进行测试，但除此之外还有一点细节值得提一下。正如Thurrott.com所发现的，微软悄悄地更新了该Windows 10 22H2新闻的原始博客文章，以预告该操作系统未来可能的一些新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Intel 13代酷睿i9/i7/i5规格参数抢先看](https://www.cnbeta.com/articles/tech/1299449.htm) | Mon Aug 01 2022 12:20 PM 
+- 💼 [尽管使用A15芯片 iPhone 14入门机型仍将拥有性能提升](https://www.cnbeta.com/articles/tech/1299459.htm) | Mon Aug 01 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管多方爆料显示，Intel 13代酷睿要比AMD Zen 4推出的时间晚一到两个月之久，但相较于锐龙7000的各种保密，13代酷睿已经被偷跑、泄露得很彻底。现在，已经有较为完整的规格表被整理出来，刚兴趣的朋友不妨参考。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据泄密者&amp;quot;ShrimpApplePro&amp;quot;称，尽管包含相同的A15仿生芯片，但标准的iPhone14型号仍将比iPhone13有更好的性能。3月，苹果分析师郭明錤声称，只有iPhone 14 Pro机型将采用A16芯片，标准款iPhone 14和iPhone 14 Max机型将像iPhone 13一样配备A15芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [i7-13700K、i5-13600K游戏实测：最低帧惊喜、DDR5真有用了](https://www.cnbeta.com/articles/tech/1299447.htm) | Mon Aug 01 2022 11:53 AM 
+- 💂 [三星M12材质OLED屏将首先供应给苹果](https://www.cnbeta.com/articles/tech/1299457.htm) | Mon Aug 01 2022 1:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;13代酷睿还没发布，规格性能就被扒得差不多，“&lt;a class=&quot;f14_link&quot; href=&quot;https://www.bilibili.com/video/BV1Kr4y1576t&quot; target=&quot;_blank&quot;&gt;极致玩家堂&lt;/a&gt;”更是接连放出i9-13900K、i7-13700K、i5-13600K的测试数据，现在又公布了后两款的游戏性能，相比基准跑分更有实际价值。i7-13700K 8大8小16核心24线程，睿频最高5.4GHz，基准功耗125W，最大约244W。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国产机在宣传OLED屏幕时，这几年多会强调采用的三星E4/E5材质。不过，在三星内部，其实还有M系列材质，它们的品质更好，这些面板，三星一些拿来自己用，另外一些则卖给了苹果。最新消息称，从订单量来看，三星将为苹果iPhone 14系列供应多达8000万块OLED面板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [芯片投资潮席卷全球 十年或投超7400亿美元](https://www.cnbeta.com/articles/tech/1299445.htm) | Mon Aug 01 2022 11:53 AM 
+- 🚀 [3米长的SpaceX太空垃圾击中澳大利亚农场：传出巨大爆炸声](https://www.cnbeta.com/articles/tech/1299455.htm) | Mon Aug 01 2022 1:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8 月 1 日消息，华尔街日报称，美国《芯片与科学法案》（Chips and Science Act）未必能够达到美国政府预期的效果，因为目前世界各地对芯片行业的投资已经进入白热化阶段，一些亚洲国家在已经在芯片领域投资了几十年，美国起步已晚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据澳大利亚广播公司报道，近日，SpaceX飞船上的多块太空垃圾掉落在澳大利亚境内，其中一块长达3米。&lt;/strong&gt;澳大利亚农民迈纳斯表示，当时，他的女儿听到一声巨响，然后在自己的一处农场土地上发现了这个家伙。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Microsoft Edge的桌面市场市场份额持续攀升 接近11%](https://www.cnbeta.com/articles/tech/1299443.htm) | Mon Aug 01 2022 11:49 AM 
+- 🎊 [骗过了N多媒体的每日优鲜假公告 其实是最近流行的骗局](https://www.cnbeta.com/articles/tech/1299453.htm) | Mon Aug 01 2022 12:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Statcounter发布了关于不同平台上的浏览器市场占有率最新数据。根据2022年7月的报告，Edge继续在桌面市场上稳步攀升，试图颠覆Google Chrome浏览器的统治。上个月，微软的浏览器市占比达到10.84%，与2022年6月相比上升了0.2个百分点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天下午，互联网圈的一则假新闻快把人折腾得精神错乱了。大概在5点左右，突然有一大批媒体报道了“每日优鲜宣布无法正常经营，资金链断裂”的消息。如此爆炸性的“新闻”迅速被更多的媒体转载、传播。这则新闻的核心证据是一则来路不明的所谓《关于每日优鲜资金链断裂无法经营的通知》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
