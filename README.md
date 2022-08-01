@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [前高管：微软鼓励Xbox和PlayStation主机大战](https://hot.cnbeta.com/articles/game/1299267.htm) | Mon Aug 01 2022 4:17 AM 
+- 🕯 [研究发现62种“长新冠”症状 包括脱发、性欲降低等](https://www.cnbeta.com/articles/science/1299271.htm) | Mon Aug 01 2022 4:56 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;尽管在全球很多国家和地区的新冠疫情已经得到了基本控制，但是新冠康复者的“长新冠”症状在可预见的未来仍将存在。近日，一项大规模研究整合了截至目前最庞大的数据，希望洞察这些新冠康复者的症状和患病率。&lt;strong&gt;研究发现了一系列和“长新冠”相关的症状，包括脱发、性欲降低等等，并且认为将应该视病情划分为 3 种不同类别，而不是只是认为是新冠的后遗症。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Pico新手柄谍照曝光，新品或在全球同步发售](https://www.cnbeta.com/articles/tech/1299269.htm) | Mon Aug 01 2022 4:27 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月1日，海外科技博主@TonyVT SkarredGhost通过社交媒体放出了Pico新品手柄的谍照。从外观看，Pico新品手柄发生了巨大变化，目前的形状更像击剑手柄，且明显增加了手部覆盖面积。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [前高管：微软鼓励Xbox和PlayStation主机大战](https://hot.cnbeta.com/articles/game/1299267.htm) | Mon Aug 01 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;PlayStation 3 和 Xbox 360 之间的竞争，更可以看作是是和自己之间的竞争：例如前者的各种技术问题和后者的 Red Ring of Death。在当时你几乎听不到“主机大战”（console wars）这个单词，也很少有关于谁比谁好的争论。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究：纳米抗体治疗可帮助清除帕金森病患者的大脑蛋白质团块](https://www.cnbeta.com/articles/science/1299265.htm) | Mon Aug 01 2022 4:09 AM 
+- 🚀 [研究：纳米抗体治疗可帮助清除帕金森病患者的大脑蛋白质团块](https://www.cnbeta.com/articles/science/1299265.htm) | Mon Aug 01 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据New Atlas报道，聚集在大脑中的错误折叠的蛋白质团块被认为与帕金森病等神经退行性疾病有关。现在，&lt;strong&gt;新发现的纳米抗体显示有希望破坏这些团块的结构，有可能导致该疾病的新疗法。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [台积电高雄厂将于今年动工](https://www.cnbeta.com/articles/tech/1299263.htm) | Mon Aug 01 2022 4:02 AM 
+- 🎊 [台积电高雄厂将于今年动工](https://www.cnbeta.com/articles/tech/1299263.htm) | Mon Aug 01 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;台积电今（1）日表示，高雄厂将于今年动工。据悉，台积电将在高雄设立生产7纳米及28纳米制程的晶圆厂，将于2022年开始动工，并于2024年开始量产。此前台积电透露，到 2025 年，其成熟和专业节点的产能将扩大约 50%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [微软宣布与历史建筑保护组织合作《我的世界》中重现古城](https://hot.cnbeta.com/articles/game/1299261.htm) | Mon Aug 01 2022 4:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软日前宣布，将与著名历史建筑保护组织National Trust合作，发挥旗下游戏《我的世界》的特长，在《我的世界》中陆续重现世界古城，用于寓教于乐。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [研究表明肠道细菌的稳定性与长跑成绩的提高有关](https://www.cnbeta.com/articles/science/1299259.htm) | Mon Aug 01 2022 3:53 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;众所周知，我们的肠道微生物组的组成会影响人体的许多元素，而新的研究思路正在发现一些关于如何将其延伸到运动表现的迷人见解。这一领域的最新发现表明，&lt;strong&gt;更稳定的肠道细菌群落可以提高耐力赛跑者的表现，并表明饮食可能发挥了关键作用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
