@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [泡泡玛特20个月市值跌去八成 盲盒二级市场遭抛售](https://www.cnbeta.com/articles/tech/1299465.htm) | Mon Aug 01 2022 1:48 PM 
+- 🕯 [新批69款游戏版号：超九成是移动游戏 腾讯网易无缘](https://hot.cnbeta.com/articles/game/1299477.htm) | Mon Aug 01 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;二手交易平台上，年轻人正在疯狂转手盲盒。张乐童是泡泡玛特SKULLPANDA OOTD狂热粉丝，之前花上万元购入该系列盲盒，但被大厂裁退后他想要“出坑”回回血。令他没想到的是，盲盒价格跳水实在太厉害了，原本发售价899元SKULLPANDA OOTD牛仔款，闲鱼500元无人问津，最终不得不降至400元才出手。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在八月的第一天，国家新闻出版署发布了年内第四批游戏版号，此次共69款游戏获批，版号发放逐渐趋于常态化。此次包括吉比特、中青宝、多益网络、创梦天地、青瓷文化、搜狐畅游、金山世游（金山软件）、炫彩互动（中国电信）等多家知名厂商获得版号。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Linus Torvalds使用M2 MacBook Air笔记本发布了Linux 5.19](https://www.cnbeta.com/articles/tech/1299463.htm) | Mon Aug 01 2022 1:44 PM 
+- 💼 [消息称华为Mate 50会在9月12日前后发布：没有麒麟9000S](https://www.cnbeta.com/articles/tech/1299475.htm) | Mon Aug 01 2022 3:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最新发布的Linux 5.19比以往有更多的苹果元素，Linus Torvalds是使用M2 MacBook Air运行移植到Apple Silicon的Linux版本来发布了该最新版本的。Linux和其他操作系统一样会定期更新，Linux背后的推动者Linus Torvalds最近发布了5.19版本的操作系统，使不同Linux套件的维护者能够纳入这些变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日晚间，博主旺仔百事通透露，&lt;strong&gt;华为Mate 50系列新品发布会在9月12日前后举行。这次华为至少会推出Mate 50、Mate 50 Pro、Mate 50 RS保时捷设计三款机型，可能还有Mate 50E和Mate 50 X。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软称Windows 10 22H2将获得&quot;范围广泛的一组&quot;新功能](https://www.cnbeta.com/articles/tech/1299461.htm) | Mon Aug 01 2022 1:41 PM 
+- 💂 [周年套直售变抽奖 策划被指割韭菜 《穿越火线》回应](https://hot.cnbeta.com/articles/game/1299473.htm) | Mon Aug 01 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Windows 10的下一个特色更新即Windows 10 22H2现在已经在发布预览版频道中进行测试，但除此之外还有一点细节值得提一下。正如Thurrott.com所发现的，微软悄悄地更新了该Windows 10 22H2新闻的原始博客文章，以预告该操作系统未来可能的一些新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日，众多玩家反映称，&lt;strong&gt;《穿越火线》这次活动的周年套从商城直售改成抽奖，&lt;/strong&gt;此举引发大量玩家不满。有玩家指出，往年的《穿越火线》周年套采用直售形式，200元一套，一共七套。而今年的活动改成抽奖后，不少玩家表示这是策划明目张胆割韭菜。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [尽管使用A15芯片 iPhone 14入门机型仍将拥有性能提升](https://www.cnbeta.com/articles/tech/1299459.htm) | Mon Aug 01 2022 1:18 PM 
+- 🚀 [AMD降噪技术被闪电破解 6年前的老卡也能享用](https://www.cnbeta.com/articles/tech/1299471.htm) | Mon Aug 01 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据泄密者&amp;quot;ShrimpApplePro&amp;quot;称，尽管包含相同的A15仿生芯片，但标准的iPhone14型号仍将比iPhone13有更好的性能。3月，苹果分析师郭明錤声称，只有iPhone 14 Pro机型将采用A16芯片，标准款iPhone 14和iPhone 14 Max机型将像iPhone 13一样配备A15芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD日前发布的22.7.1版驱动引入了全新的降噪&lpar;Noise Suppression&rpar;功能，类似NVIDIA RTX Voice，通过AI算法对输入输出音频进行处理、消除杂音，对于视频会议等非常有用。&lt;strong&gt;AMD降噪技术官方支持仅限RDNA2架构家族，也就是RX 6000系列独立显卡、锐龙6000H/6000U系列集成显卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [三星M12材质OLED屏将首先供应给苹果](https://www.cnbeta.com/articles/tech/1299457.htm) | Mon Aug 01 2022 1:02 PM 
+- 🎊 [亚马逊推出特定零售店的同日送货服务 包括PacSun和Diesel](https://www.cnbeta.com/articles/tech/1299469.htm) | Mon Aug 01 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国产机在宣传OLED屏幕时，这几年多会强调采用的三星E4/E5材质。不过，在三星内部，其实还有M系列材质，它们的品质更好，这些面板，三星一些拿来自己用，另外一些则卖给了苹果。最新消息称，从订单量来看，三星将为苹果iPhone 14系列供应多达8000万块OLED面板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊今天宣布，美国一些城市地区的Prime会员现在可以从特定的零售店获得当日送货服务。开始时，在亚特兰大、芝加哥、达拉斯、拉斯维加斯、迈阿密、凤凰城、斯科茨代尔、西雅图和华盛顿特区或附近的会员可以在亚马逊应用程序和亚马逊网站上从PacSun、GNC、SuperDry和Diesel品牌店购物，并在当天收到他们的物品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
