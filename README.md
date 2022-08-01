@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AMD RX 6000与英伟达RTX 30系列显卡已低于首发价14%和9%](https://www.cnbeta.com/articles/tech/1299381.htm) | Mon Aug 01 2022 9:19 AM 
+- 🕯 [消息称苹果A16芯片无缘台积电3nm制程工艺 仍将是5nm](https://www.cnbeta.com/articles/tech/1299399.htm) | Mon Aug 01 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;3DCenter 刚刚分享了截止 7 月底的 AMD / 英伟达显卡报价，&lt;strong&gt;可知自 2022 年初以来，Radeon RX 6000 与 GeForce RTX 30 系列在国际零售市场的售价在持续下跌。&lt;/strong&gt;主要因素是加密货币市场的大崩盘、GPU 库存压力过大，以及制造商试图在新一代显卡上市前出清库存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;已有分析师和研究机构预计，苹果今年下半年推出的iPhone 14系列智能手机，在芯片、摄像头等关键硬件配置上，可能会史无前例的出现分化，高端版本，也就是Pro版本将搭载A16芯片和4800万像素摄像头，非Pro版本仍会是A15芯片、1200像素摄像头系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [现代汽车考虑收购韩国无激光雷达自动驾驶创业公司42dot](https://www.cnbeta.com/articles/tech/1299379.htm) | Mon Aug 01 2022 9:02 AM 
+- 💼 [吉卜力公园最新场景曝光 11月1日正式开园](https://hot.cnbeta.com/articles/comic/1299397.htm) | Mon Aug 01 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;现代汽车正在考虑增加其在韩国无激光雷达自动驾驶平台42dot的股份，或完全收购该公司，这是其对快速增长的领域越来越感兴趣的最新信号。42dot的一位发言人表示，这家初创公司正在与现代汽车进行谈判，但他提醒说，包括股权规模和交易估值在内的条款还没有实现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;曾带给无数观众快乐和感动的吉卜力工作室官方主题乐园，吉卜力公园将于11月1日正式开园，日前官方透露了部分公园最新场景，一起来先睹为快。“吉卜力”（Ghibli）动画工作室成立于1985年中旬，是由旗下著名动画导演宫崎骏命名，意思是在撒哈拉沙漠上季节热风，曾经出产无数经典动画电影，深得世界粉丝喜爱。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1299397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [盘后跌破300港元，港股超跌拖腾讯“跳水”](https://www.cnbeta.com/articles/tech/1299377.htm) | Mon Aug 01 2022 9:02 AM 
+- 💂 [生产减毒疫苗 “蛋白清洁工”带来新思路](https://www.cnbeta.com/articles/science/1299395.htm) | Mon Aug 01 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月1日，腾讯控股股价多次触碰300港元低位，创60日股价新低。&lt;/strong&gt;截至收盘，腾讯股价299.6港元，跌2.35%，总市值2.88万亿港元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;研究人员通过操控病毒蛋白降解，控制病毒的复制能力，将病毒减毒，使其成为潜在的减毒疫苗。但是要实现疫苗的规模化制备仍需要大量的优化和探索。疫苗是预防和控制流感病毒最为经济有效的手段之一。2021年《科学》杂志将“下一代疫苗的开发”列为125个前沿科学问题之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小屏旗舰华硕Zenfone 9续航令人惊讶 轻松击败iPhone 13](https://www.cnbeta.com/articles/tech/1299375.htm) | Mon Aug 01 2022 9:00 AM 
+- 🚀 [国产操作系统上新：深度Deepin官宣23版本8月发布](https://www.cnbeta.com/articles/tech/1299393.htm) | Mon Aug 01 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，Phone Arena测试了华硕Zenfone 9的续航，称赞“&lt;strong&gt;Zenfone 9迷你机身、Pro Max级续航&lt;/strong&gt;”，表现令人惊讶、难以置信。先来看下华硕Zenfone 9和竞品的电池数据，&lt;strong&gt;Zenfone 9电池容量为4300mAh，iPhone 13点电池容量为3227mAh，三星Galaxy S22电池容量为3700mAh。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，&lt;strong&gt;国产操作系统深度Deepin官方管理员在社区发帖，预告将在8月正式发布Deepin 23预览版系统。&lt;/strong&gt;据悉，&lt;strong&gt;Deepin 23预览版将会是Deepin社区基于根社区理念开发的一款操作系统，它集合社区的开源优势，拥有大量的创新技术。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [华为拟发行30亿元超短期融资券：今年7次融资240亿](https://www.cnbeta.com/articles/tech/1299373.htm) | Mon Aug 01 2022 8:59 AM 
+- 🎊 [盖茨差点叫停Xbox项目 只因不运行Windows系统](https://hot.cnbeta.com/articles/game/1299391.htm) | Mon Aug 01 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据&lt;a class=&quot;f14_link&quot; href=&quot;https://www.shclearing.com.cn/xxpl/fxpl/scp/202208/t20220801_1093738.html&quot; target=&quot;_blank&quot;&gt;上海清算所&lt;/a&gt;发布消息，&lt;strong&gt;华为投资控股有限公司拟发行2022年度第三期超短期融资券，发行金额为人民币30亿元，期限为120天&lt;/strong&gt;，发行日为2022年8月2日-3日。华为表示，此次募集资金是为了支撑各项业务发展和关键战略落地，将用于补充公司本部及下属子公司营运资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月1日消息，如今微软游戏主机Xbox业务年营收达到160亿美元。当这款产品还是个概念时，差点被微软联合创始人比尔·盖茨&lpar;Bill Gates&rpar;扼杀在摇篮中。在Xbox发布前的一次微软高管会议上，盖茨试图阻止继续推进项目。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
