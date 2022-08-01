@@ -365,9 +365,9 @@
 
 <!-- v2ex:START -->
 - 🥸 [小白求救， Apache 服务器发布网站， js 文件怎么加载不上](https://www.v2ex.com/t/870090#reply0) | Mon Aug 01 2022 9:16 PM
-- 🤗 [zh.ifixit.com 存在 DNS 污染吗](https://www.v2ex.com/t/870089#reply0) | Mon Aug 01 2022 8:50 PM
+- 🤗 [zh.ifixit.com 存在 DNS 污染吗](https://www.v2ex.com/t/870089#reply1) | Mon Aug 01 2022 8:50 PM
 - 🎭 [虚拟机会受到 CPU 漏洞影响吗？](https://www.v2ex.com/t/870087#reply1) | Mon Aug 01 2022 6:11 PM
-- 🥷 [怎么看候选人简历的 github？](https://www.v2ex.com/t/870075#reply16) | Mon Aug 01 2022 3:19 PM
+- 🥷 [怎么看候选人简历的 github？](https://www.v2ex.com/t/870075#reply17) | Mon Aug 01 2022 3:19 PM
 - 🐵 [万能的 V 友，有没有最近 CKA 的题库](https://www.v2ex.com/t/870071#reply0) | Mon Aug 01 2022 2:50 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
