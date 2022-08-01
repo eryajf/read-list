@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vue 之 provide和inject的使用](https://juejin.cn/post/7126923732316061732) | Mon Aug 01 2022 3:04 PM 
+- 🤗 [RxDogTag：自动标记RxJava原始订阅点](https://juejin.cn/post/7126934488604475406) | Mon Aug 01 2022 3:46 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 在Vue中我们可以很方便的通过父组件往子组件传递属性，Props是我们将数据传递到子组件的主 
+    一、背景 在使用RxJava的过程中，经常会碰到如下一个经典的错误： 在上面的代码中，由于我们没有实现onError&lpar;&rpar;的RxJava观察者，所以在运行的时候，会报如下的错误。 对于上面的信息，并不是 
     </details> 
 
-- 🎡 [「LeetCode」123-买卖股票的最佳时机|||⚡️](https://juejin.cn/post/7126923410382258207) | Mon Aug 01 2022 3:04 PM 
+- 🎡 [牛客面经每日一总结 &lpar;八&rpar;](https://juejin.cn/post/7126929000924102670) | Mon Aug 01 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
-    前言🌧️ 算法，对前端人来说陌生又熟悉，很多时候我们都不会像后端工程师一样重视这项能力。但事实上，算法对每一个程序员来说，都有着不可撼动的地位。 因为开发的过程就是把实际问题转换成计算机可识别的指令， 
+    TCP拥塞控制与流量控制区别？ 拥塞控制就是为了防⽌过多的数据注⼊到⽹络中 这样就可以使⽹络中的路由器或链路不致过载。 拥塞控制所要做的都有⼀个前提，就是⽹络能 够承受现有的⽹络负荷。拥塞控制是⼀个全 
     </details> 
 
-- 🕯 [leetcode刷题记录-593. 有效的正方形](https://juejin.cn/post/7126922939726823455) | Mon Aug 01 2022 3:01 PM 
+- 🕯 [k8s自动化运维五-搭建共享文件存储](https://juejin.cn/post/7126928834070315016) | Mon Aug 01 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 前言 今天的题目为中等，题目主要就是证明题，证明四个点组成的图形是一个正方形，那么运用正方形的特性就能够得 
+    不同备份数据库脚本区别 同一个数据库不同的2个备份脚本，这两个备份脚本大小差别比较大，看看是哪里的区别？ 将2个脚本分别导入不同的数据库中 查看数据库中每个表占用空间,并按大小降序 数据库1 数据库2 
     </details> 
 
-- 🚀 [边做边学spark? -- scala 安装与执行](https://juejin.cn/post/7126922229996060703) | Mon Aug 01 2022 2:58 PM 
+- 🚀 [一共就这几种进程通信方式，不进来看看么](https://juejin.cn/post/7126928179310592014) | Mon Aug 01 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-    下载 下载 scala 压缩包 插：msi和zip文件的区别： 检查 scala 是否安装成功 scala -version 基于IntelliJ IDE行安装Scala 确保你有Java 8 JDK 
+    为什么需要通信 由于不同的进程运行在各自不同的内存空间中．一方对于变量的修改另一方是无法感知的．因此．进程之间的信息传递不可能通过变量或其它数据结构直接进行，只能通过进程间通信来完成。 并发进程之间的 
     </details> 
 
-- 💪 [IOS OpenGL ES GPUImage 图像阴影和深度效果 GPUImageMultiplyBlendFilter](https://juejin.cn/post/7126922025402105893) | Mon Aug 01 2022 2:57 PM 
+- 💪 [LeetCode 二叉搜索树系列 ～ 二叉搜索树迭代器](https://juejin.cn/post/7126928109747568676) | Mon Aug 01 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-    目录 - [一.简介]&lpar;#%E4%B8%80%E7%AE%80%E4%BB%8B &quot;一.简介&quot;&rpar; - [二.效果演示]&lpar;#%E4%BA%8C%E6%95%88%E6%9E%9C%E6%BC%94% 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第6天，点击查看活动详情 LeetCode 二叉搜索树系列 ～ 二叉搜索树迭代器 
     </details> 
 <!-- juejin:END -->
 ### 少数派
