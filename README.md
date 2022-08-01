@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [各大游戏发行商回应微软收购动视暴雪 索尼：COD系列难以替代](https://hot.cnbeta.com/articles/game/1299365.htm) | Mon Aug 01 2022 8:22 AM 
+- 🕯 [AMD RX 6000与英伟达RTX 30系列显卡已低于首发价14%和9%](https://www.cnbeta.com/articles/tech/1299381.htm) | Mon Aug 01 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;“微软收购动视暴雪”这是2022年最大的游戏新闻之一，为了完成交易，微软需要得到世界各地的竞争监管机构的许可，其中包括巴西。&lt;/strong&gt;其审查从5月20日开始，在此过程中监管机构通常会询问第三方有关交易的信息，了解他们对此的看法。而巴西政府的公共行政透明度非常高，因此该审查过程中的所有内容都是可在线阅读的，包括对第三方的问题以及他们的回答。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;3DCenter 刚刚分享了截止 7 月底的 AMD / 英伟达显卡报价，&lt;strong&gt;可知自 2022 年初以来，Radeon RX 6000 与 GeForce RTX 30 系列在国际零售市场的售价在持续下跌。&lt;/strong&gt;主要因素是加密货币市场的大崩盘、GPU 库存压力过大，以及制造商试图在新一代显卡上市前出清库存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone首次打折卖，苹果围剿国产手机？](https://www.cnbeta.com/articles/tech/1299363.htm) | Mon Aug 01 2022 8:20 AM 
+- 💼 [现代汽车考虑收购韩国无激光雷达自动驾驶创业公司42dot](https://www.cnbeta.com/articles/tech/1299379.htm) | Mon Aug 01 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在全国各地连续的高温中，关于苹果2022年新机iPhone 14的传言也愈发火热。7月27日，天风国际证券分析师郭明錤在推特上表示，Genius公司为iPhone 14提供的一款后置镜头可能存在涂层裂纹质量问题，苹果已经将约1000万个镜头订单从Genius转移到Largan，好消息是——这对iPhone 14的出货量影响几乎可以忽略不计。&lt;strong&gt;“小问题”之外，数月来关于iPhone 14的产业链动态消息接连不断，早已将这款尚未问世的新机型扒了个“底朝天”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;现代汽车正在考虑增加其在韩国无激光雷达自动驾驶平台42dot的股份，或完全收购该公司，这是其对快速增长的领域越来越感兴趣的最新信号。42dot的一位发言人表示，这家初创公司正在与现代汽车进行谈判，但他提醒说，包括股权规模和交易估值在内的条款还没有实现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [现代每个人离抑郁症只有一步 俞敏洪称自己曾想从20楼跳下去](https://www.cnbeta.com/articles/tech/1299361.htm) | Mon Aug 01 2022 8:17 AM 
+- 💂 [盘后跌破300港元，港股超跌拖腾讯“跳水”](https://www.cnbeta.com/articles/tech/1299377.htm) | Mon Aug 01 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月31日，张朝阳和俞敏洪进行了一场长达5小时的对话，在直播中他与张朝阳讨论了“焦虑”这一话题。&lt;strong&gt;俞敏洪透露自己曾可能患上狂躁症，有一次在加拿大首都渥太华出差，在20楼看着打开的窗户一心想跳下去。&lt;/strong&gt;但因为有了孩子，知道自己肯定不能跳，所以穿上了羽绒服，在零下30度的大街走了4小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月1日，腾讯控股股价多次触碰300港元低位，创60日股价新低。&lt;/strong&gt;截至收盘，腾讯股价299.6港元，跌2.35%，总市值2.88万亿港元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [每日优鲜退款难：支付宝渠道可直接退 其他充值渠道需登记排队](https://www.cnbeta.com/articles/tech/1299359.htm) | Mon Aug 01 2022 8:15 AM 
+- 🚀 [小屏旗舰华硕Zenfone 9续航令人惊讶 轻松击败iPhone 13](https://www.cnbeta.com/articles/tech/1299375.htm) | Mon Aug 01 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;继续被爆解散后，每日优鲜余额退款也引发关注。不少用户反映退款艰难，需要登记排队。&lt;/strong&gt;目前来看，通过支付宝小程序充值的用户，可以直接申请退款，账户内余额将返还到支付宝账户，其它卡或者充值渠道的则需要无限期等待。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，Phone Arena测试了华硕Zenfone 9的续航，称赞“&lt;strong&gt;Zenfone 9迷你机身、Pro Max级续航&lt;/strong&gt;”，表现令人惊讶、难以置信。先来看下华硕Zenfone 9和竞品的电池数据，&lt;strong&gt;Zenfone 9电池容量为4300mAh，iPhone 13点电池容量为3227mAh，三星Galaxy S22电池容量为3700mAh。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马斯克称媒体离不开自己：我能带来点击量](https://www.cnbeta.com/articles/tech/1299357.htm) | Mon Aug 01 2022 8:12 AM 
+- 🎊 [华为拟发行30亿元超短期融资券：今年7次融资240亿](https://www.cnbeta.com/articles/tech/1299373.htm) | Mon Aug 01 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;网友讨论有多少人喜欢马斯克，狗狗币联合创始人马库斯称，&lt;strong&gt;自己以前喜欢马斯克，但是后来媒体开始说坏话，讨厌马斯克成为流行，所以为了声誉，他也不得不选择随大流。&lt;/strong&gt;马斯克在评论中感叹道，媒体依靠点击量生存，又具有强烈的负面偏向，而自己自带热点，因此总被媒体关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据&lt;a class=&quot;f14_link&quot; href=&quot;https://www.shclearing.com.cn/xxpl/fxpl/scp/202208/t20220801_1093738.html&quot; target=&quot;_blank&quot;&gt;上海清算所&lt;/a&gt;发布消息，&lt;strong&gt;华为投资控股有限公司拟发行2022年度第三期超短期融资券，发行金额为人民币30亿元，期限为120天&lt;/strong&gt;，发行日为2022年8月2日-3日。华为表示，此次募集资金是为了支撑各项业务发展和关键战略落地，将用于补充公司本部及下属子公司营运资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
