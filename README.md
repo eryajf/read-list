@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [KubeSphere监控失效为NAN的问题](https://juejin.cn/post/7126836632019271693) | Mon Aug 01 2022 9:26 AM 
+- 🤗 [前端黑科技：React项目中鼠标右键菜单功能的2种实现方式](https://juejin.cn/post/7126840376886820871) | Mon Aug 01 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 前言 在安装完KubSphere后可能会遇到监控体系无效的情况，如下图 原因 遇到这种情况先查看KubeS 
+    赶紧进来瞅瞅：前端黑科技之React项目中鼠标右键菜单功能的2种实现方式。划重点是2种方式而不是只有1种方式哦，看到就是赚到，赶紧点赞收藏！！！。 
     </details> 
 
-- 🎡 [Element 2 组件源码剖析之Progress 添加新特性（三）](https://juejin.cn/post/7126834455099998238) | Mon Aug 01 2022 9:17 AM 
+- 🎡 [Python&lpar;六&rpar;——流程控制](https://juejin.cn/post/7126840428015386660) | Mon Aug 01 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
-    前文深入解读了线性环形/仪表盘进度条的代码实现。虽然组件提供了很多属性用来满足不同使用场景的下差异化配置，但是还缺少一些特性，例如 自定义进度条渐变色、仪表盘缺口大小、仪表盘缺口位置、分段进度条等。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第6天，点击查看活动详情 1、选择结构 1.1、if 语句 说明：如果表达式成立，就执行后面的代码块；如果表达式不成立，就什么也不执 
     </details> 
 
-- 🕯 [分布式事务解决方案之最大努力通知](https://juejin.cn/post/7126833886805360654) | Mon Aug 01 2022 9:15 AM 
+- 🕯 [从数据结构的角度看 Webpack](https://juejin.cn/post/7126840294956269576) | Mon Aug 01 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇主要介绍了分布式事务解决方案：最大努力通知，适用于一些最终一致性时间敏感度低的业务。快来一起学习吧！ 
+    前言 随着 Webpack 成为这几年前端工程化顶梁柱般的存在，作为一个前端工程师，可能对于 Module、Chunk等概念耳熟能详，但是可能对于 Dependency、EntryDependency 
     </details> 
 
-- 🚀 [vivo直播系统中IM消息模块的架构实践](https://juejin.cn/post/7126831796393607198) | Mon Aug 01 2022 9:07 AM 
+- 🚀 [TypeScript是如何工作的&lpar;简单讲讲&rpar;](https://juejin.cn/post/7126840014641561613) | Mon Aug 01 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
-    本文针对秀场直播，结合我们一年以来通过处理不同的业务线上问题，进行了技术演进式的IM消息模块架构的升级与调整，并据此进行了技术总结、整理成文，希望借此机会分享给大家。 
+    TS是一门在JS基础上拓展的静态弱类型语言，从名字上来看，ts强调了它的核心是“type”。工作原理归纳,TS编译器分为以下几个关键部分，TS的工作原理大致可以总结为，token、AST、Symbol 
     </details> 
 
-- 💪 [淘宝商品销量接口/淘宝商品销量监控接口/商品累计销量接口/商品详情接口代码对接分享](https://juejin.cn/post/7126830919519830030) | Mon Aug 01 2022 9:04 AM 
+- 💪 [使用 Laravel Sail &lpar;WSL2&rpar; 启动您的 Laravel Web 应用程序](https://juejin.cn/post/7126839842427633695) | Mon Aug 01 2022 9:39 AM 
     <details><summary>展开描述 ...</summary> 
-    淘宝商品销量接口/淘宝商品销量监控接口/商品累计销量接口/商品详情接口/淘宝商品详情API接口/天猫商品详情API接口/天猫商品销量接口/淘宝商品列表接口/淘宝商品sku接口/天猫商品历史价格接口 
+    你可能熟悉 Laravel 开发环境中的 VirtualBox with Homestead。但是，这种传统的托管虚拟机在访问您的真实硬件资源之前会带来额外的开销。 Laravel Sail 是一个轻 
     </details> 
 <!-- juejin:END -->
 ### 少数派
