@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [第三方的 errors 包是不是没有人用了？](https://www.v2ex.com/t/869866#reply0) | Mon Aug 01 2022 1:46 AM
-- 🤗 [有人发的这个让 windows 笔电续航能和苹果肛一下的工具有人试过吗？具体效果怎样？](https://www.v2ex.com/t/869863#reply4) | Mon Aug 01 2022 1:36 AM
-- 🎭 [来～来～来～小伙子们～ JS 圈儿又出新轮子啦～卷起来啊～](https://www.v2ex.com/t/869858#reply22) | Mon Aug 01 2022 1:03 AM
-- 🥷 [请教一下 Linux shell 中使用 IFS 分割符分割字符串被修改的问题](https://www.v2ex.com/t/869857#reply1) | Mon Aug 01 2022 12:57 AM
-- 🐵 [vue3 静态化问题请教](https://www.v2ex.com/t/869843#reply4) | Sun Jul 31 2022 5:22 PM<!-- v2ex:END -->
+- 🥸 [nginx 怎么根据全局连接数来做全局总的限流并自定义相应信息](https://www.v2ex.com/t/869910#reply5) | Mon Aug 01 2022 3:41 AM
+- 🤗 [我的白群 920+月度报告 提示出现硬盘重新连接次数为 4](https://www.v2ex.com/t/869909#reply0) | Mon Aug 01 2022 3:38 AM
+- 🎭 [来整活呀！和大伙简单聊下独立开发者的「产品运营方法」，以及社区项目冷启动的问题](https://www.v2ex.com/t/869904#reply1) | Mon Aug 01 2022 3:31 AM
+- 🥷 [有 V 友知道运行在 Zen2 CPU 上的 PVE 如何缓解最近的 Retbleed（CVE-2022-29*900）漏洞吗？](https://www.v2ex.com/t/869903#reply0) | Mon Aug 01 2022 3:31 AM
+- 🐵 [请大家帮忙分析这个套路是干啥的](https://www.v2ex.com/t/869900#reply4) | Mon Aug 01 2022 3:22 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
