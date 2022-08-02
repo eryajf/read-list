@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中消协点名商家使用预制菜未告知、运营商设置转网障碍等](https://www.cnbeta.com/articles/tech/1299735.htm) | Tue Aug 02 2022 6:19 AM 
+- 🕯 [[图]富士推全球最轻13.3吋笔记本WU-X/G 比12.9吋iPad Pro还轻](https://www.cnbeta.com/articles/tech/1299769.htm) | Tue Aug 02 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据全国消协组织受理投诉情况统计，2022年上半年，全国消协组织共受理消费者投诉551,780件，同比增长5.71%，解决449,786件，投诉解决率81.52%,为消费者挽回经济损失73,863万元。其中，因经营者有欺诈行为得到加倍赔偿的投诉8,456件，加倍赔偿金额215万元。接待消费者来访和咨询76.6万人次。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;富士（Fujitsu）近日悄然推出了全球最轻的笔记本--WU-X/G2，但遗憾的是该笔记本仅限日本地区发售。WU-X/G2 属于公司的 Lifebook 系列，在没有充电器的情况下机身整体重量为 634 克，约为 22.4 盎司/1.4 磅。这意味着这款商务笔记本比 12.9 英寸 iPad Pro（682 克）更轻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [反腐风暴叠加企业倒闭，芯片行业挤泡沫](https://www.cnbeta.com/articles/tech/1299733.htm) | Tue Aug 02 2022 6:16 AM 
+- 💼 [丰田顶级越野车新款陆巡将引入国内：最高或售170万](https://www.cnbeta.com/articles/tech/1299767.htm) | Tue Aug 02 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;过去一周，2家半导体企业宣布破产，5位芯片产业重要人物陆续被查，美国也收紧了对中国获取芯片制造设备的限制，股价低迷，都在预示着国内芯片产业正面临新的洗牌。近日，对标高通的国产通信芯片设计公司“诺领科技”已被证实破产倒闭，此前曾完成2亿元B轮融资，如今拖欠着员工两个月的工资。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新一代丰田兰德酷路泽（陆巡）已发布一年有余的时间，不过受制于国内严苛的排放法规限制，一直未能有确切进入我国内地市场销售的消息。近日，据汽车博主，专做平行进口车生意的博主@柴可夫斯基-平行进口车手册 透露，&lt;strong&gt;平行进口的新款陆地巡洋舰LC300环保公开了，开始准备通关交付，国六B的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究：将我们的记忆力“外包”给数字设备实际上可能是有益的](https://www.cnbeta.com/articles/science/1299731.htm) | Tue Aug 02 2022 6:16 AM 
+- 💂 [业内消息称内存现货价格持续下跌](https://www.cnbeta.com/articles/tech/1299765.htm) | Tue Aug 02 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，离开手机，你还记得多少人的手机号码?或者说，你曾经记住的所有这些零碎信息都转移到了智能手机等数字设备上？有些人认为，这种将我们的记忆“外包”的做法正在损害我们正确记忆任何东西的能力，但一项新研究表明，情况并非如此。&lt;strong&gt;使用数字设备来记忆一些东西，实际上可能会释放我们的大脑，使其在整体上记住更多的东西。&lt;/strong&gt;当然，除非我们丢失了我们的智能手机......&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;集微网消息，内存模块制造商的消息人士称，随着价格跌幅扩大，内存现货价格继续下跌，主流8Gb DDR4 DRAM的现货价格跌幅已扩大至10%。&lt;/strong&gt;据《电子时报》报道，消息人士指出，由于DRAM现货价格仍呈下降趋势，预计第三季度的合同价格将大幅下跌。另外NAND闪存的供过于求比DRAM芯片更为严重。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [功耗仅有92W的Intel Arc A380入门显卡用上豪华水冷](https://www.cnbeta.com/articles/tech/1299729.htm) | Tue Aug 02 2022 6:09 AM 
+- 🚀 [Windows端Xbox新预览版发布：修复游戏启动、Cloud Gaming缓慢/卡死等问题](https://www.cnbeta.com/articles/tech/1299763.htm) | Tue Aug 02 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel第一款桌面级独立显卡Arc A380是标标准准的入门级产品，就连AMD RX 6400都打不过，但你能想象吗？就是这样的“亮机卡”，也有了水冷……水冷散热专业户Bykski就带来了这么一款“&lt;a class=&quot;f14_link&quot; href=&quot;https://www.bykski.com/page133?product_id=5546&quot; target=&quot;_blank&quot;&gt;I-GNA380-X GPU BLOCK&lt;/a&gt;”，&lt;strong&gt;专为蓝戟的Arc A380 Photon OC定制，这也是迄今唯一零售上市的Arc A380显卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本周一晚间，适用于 Windows 的 Xbox（Preview）应用升至 2208.1001.11.0 版本。&lt;/strong&gt;本次更新修复了该应用的多处 BUG，让其更加实用。对于 EA 公司的游戏，本次更新修复了启动游戏方面的问题。本次更新还修复了启用 Cloud Gaming 缓慢或者卡死的问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [将于2023年上市 现代IONIQ 5 N最新谍照曝光](https://www.cnbeta.com/articles/tech/1299727.htm) | Tue Aug 02 2022 6:07 AM 
+- 🎊 [Sabrent推出Rocket 4 Plus G游戏SSD：喜迎DirectStorage](https://www.cnbeta.com/articles/tech/1299761.htm) | Tue Aug 02 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，我们获悉，现代IONIQ 5 N最新谍照。&lt;/strong&gt;据了解，新车将基于E-GMP纯电平台打造而成，定位纯电高性能SUV，将在2023年上市。外观方面，从最新的谍照来看，新车沿用普通版车型的设计，预计将采用封闭式前格栅搭配两侧的大灯组形成一体化的布局，匹配贯穿式前包围的设计，整个车头看上去精致小巧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管 Windows 11 操作系统已经集成了对 DirectStorage API 的支持，且早期基准测试表明它可彻底革新 PC 和主机平台的游戏体验。但首款支持该功能的《Forspoken》游戏，已被 Square Enix 推迟到 2023 年。&lt;strong&gt;即便如此，Sabrent 还是发布了面向游戏玩家的 Rocket 4 Plus G 系列 PCIe 4.0 NVMe SSD 新品。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
