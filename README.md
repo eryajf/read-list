@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [热门狼人杀游戏《我们之中》差点于2019年被取消](https://hot.cnbeta.com/articles/game/1299791.htm) | Tue Aug 02 2022 8:23 AM 
+- 🕯 [现代氢燃料电池重卡将再次出口欧洲 向德国7家企业供应27辆](https://www.cnbeta.com/articles/tech/1299821.htm) | Tue Aug 02 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，热门太空狼人杀游戏《我们之中》开发商 Innersloth 的联合创始人 Marcus Bromander 在一个最新的采访中揭示了&lt;strong&gt;团队差点就彻底放弃了游戏，并且永远没有机会让《我们之中》成为一款现象级游戏，并最终成为流行文化中的一环。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299791.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月2日消息，据国外媒体报道，在向瑞士23家公司出口47辆之后，现代汽车2020年推出的氢燃料电池重卡XCIENT，将再次出口欧洲，向德国的7家公司供应27辆。&lt;/strong&gt;现代汽车当地时间周二，已在官网宣布他们将向德国的7家公司，出口27辆XCIENT氢燃料电池重卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD Zen4主板泄露天机 SSD真的要长胖了](https://www.cnbeta.com/articles/tech/1299787.htm) | Tue Aug 02 2022 8:07 AM 
+- 💼 [Google为Pixel 6A带来Android 13 Beta 4.1更新](https://www.cnbeta.com/articles/tech/1299819.htm) | Tue Aug 02 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD将于8月5日公开展示AMD Zen4锐龙7000系列处理器搭配的新主板，包括华擎、华硕、映泰、技嘉、微星五大品牌，代表型号均为X670E。微星提前泄露了新板子的部分核心规格，包括4个导热垫片、4个PCIe 5.0 M.2固态盘，以及M.2冰霜铠甲散热片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Pixel 6A 已经于上周四正式发售，Google 已经马不停蹄地为这款中端手机带来最新的 Android 13 Beta 版本。援引 9to5Google 报道，&lt;strong&gt;Google 已经为 Pixel 6A 带来了 Android 13 的最新 4.1 版本。该新版系统于上周一发布，当时仅限于 Pixel 4 到 Pixel 6 Pro 的 Pixel 设备。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [铠侠将演示基于PCIe NVMe闪存的SEF软件定义存储解决方案](https://www.cnbeta.com/articles/tech/1299785.htm) | Tue Aug 02 2022 7:59 AM 
+- 💂 [文件显示雪莉·桑德伯格已于8月1日正式卸任Meta首席运营官一职](https://www.cnbeta.com/articles/tech/1299817.htm) | Tue Aug 02 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;为支持 Linux 基金会的 Software-Enabled Flash 开源项目，铠侠美国公司今日宣布了基于 PCIe 和 NVMe 技术的创新软件定义技术和演示硬件。&lt;/strong&gt;TechPowerUp 指出，这项技术能够将闪存存储与传统机械硬盘（HDD）协议完全分离，以便充分发挥闪存这一存储介质的性能潜力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据TechCrunch报道，&lt;strong&gt;Meta公司已经确认，其长期以来的首席运营官（COO）雪莉·桑德伯格（Sheryl Sandberg）已于昨天（8月1日）离职。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉二季度欧洲销量减半 市场份额下滑超50%](https://www.cnbeta.com/articles/tech/1299781.htm) | Tue Aug 02 2022 7:52 AM 
+- 🚀 [音集协“举刀”直播间BGM要收费](https://hot.cnbeta.com/articles/music/1299815.htm) | Tue Aug 02 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉发布第二季度财报时没有提供各主要市场的汽车销量数据，&lt;strong&gt;不过目前该公司欧洲市场6月的最终和完整数据已经披露。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月26日，小琪打开B站虚拟主播的直播间，主播刚开播十几分钟，正在进行点歌预热环节。&lt;strong&gt;往常这个时候，正是直播间气氛最高涨的时候，粉丝点歌点得弹幕横飞，主播唱歌也没太多顾虑。但这一次，主播却显得很谨慎。&lt;/strong&gt;开启点播前，就一直叮嘱粉丝，尽量点日文歌和英文歌。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1299815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [我国南海和东海近岸海域发现2个海蛾鱼新种](https://www.cnbeta.com/articles/science/1299779.htm) | Tue Aug 02 2022 7:52 AM 
+- 🎊 [研究发现党派观点存在生物学根源](https://www.cnbeta.com/articles/science/1299813.htm) | Tue Aug 02 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，&lt;strong&gt;中国科学院南海海洋研究所研究员林强团队在海龙目鱼类资源与分类领域取得研究新进展。&lt;/strong&gt;他们基于近岸海龙目鱼类资源调查和系统分类研究，在我国南海和东海近岸海域发现2个海蛾鱼新种，分别命名为南海海蛾鱼（Spinipegasus nanhaiensis sp. nov.）和中华海蛾鱼（Pegasus sinensis sp. nov.）。相关成果相继发表于《动物分类学》《动物学研究》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;根据一项新研究显示，在个人从事不同的活动或甚至什么都不做时通过大脑扫描可以准确地显示其是政治上的保守派还是自由派。&lt;/strong&gt;研究人员发现，扫描所显示的大脑中的“签名”在预测政治意识形态方面跟政治学研究中经常采用的最强有力的预测因素一样好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
