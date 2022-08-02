@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [Linux Mint 21 - 公认比 Ubuntu 更好用的个人桌面级 Linux 操作系统发行版](https://www.iplaysoft.com/linux-mint.html) | Mon Aug 01 2022 2:46 AM
-- 🧑‍🏫 [SmsForwarder - 开源免费安卓手机短信转发器 / 转发 APP 通知 / 远程监控通话记录](https://www.iplaysoft.com/smsforwarder.html) | Thu Jul 28 2022 8:07 PM
-- 🥰 [腾讯 Mac 柠檬清理 - 免费开源了！良心简洁的苹果 macOS 垃圾清理/系统优化工具](https://www.iplaysoft.com/lemon-cleaner.html) | Mon Jul 25 2022 11:32 AM
-- 💻 [新版 Typora 来袭！优秀 Markdown 编辑器券后仅 84 元](https://www.iplaysoft.com/news/5744) | Mon Jul 25 2022 9:16 AM
-- 🎃 [媲美真人配音！微软语音合成助手 - 免费文字转换音频的 TTS 工具 &lpar;发音更有感情&rpar;](https://www.iplaysoft.com/azure-tts.html) | Thu Jul 21 2022 6:04 PM<!-- iplaysoft:END -->
+- 🧐 [MenubarX Pro - 创意实用的 Mac 菜单栏迷你小窗浏览器 &lpar; “摸鱼+效率”工具&rpar;](https://www.iplaysoft.com/menubarx.html) | Tue Aug 02 2022 6:14 PM
+- 🧑‍🏫 [Linux Mint 21 - 公认比 Ubuntu 更好用的个人桌面级 Linux 操作系统发行版](https://www.iplaysoft.com/linux-mint.html) | Mon Aug 01 2022 2:46 AM
+- 🥰 [SmsForwarder - 开源免费安卓手机短信转发器 / 转发 APP 通知 / 远程监控通话记录](https://www.iplaysoft.com/smsforwarder.html) | Thu Jul 28 2022 8:07 PM
+- 💻 [腾讯 Mac 柠檬清理 - 免费开源了！良心简洁的苹果 macOS 垃圾清理/系统优化工具](https://www.iplaysoft.com/lemon-cleaner.html) | Mon Jul 25 2022 11:32 AM
+- 🎃 [新版 Typora 来袭！优秀 Markdown 编辑器券后仅 84 元](https://www.iplaysoft.com/news/5744) | Mon Jul 25 2022 9:16 AM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
