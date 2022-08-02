@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [npm run demo1 &amp;&amp; npm run demo2 &amp; npm run demo3 这个命令到底会怎么执行呢](https://juejin.cn/post/7127039465314320415) | Mon Aug 01 2022 10:37 PM 
+- 🤗 [Python小工具：五分钟处理完一天的工作量，真香](https://juejin.cn/post/7127091960803754020) | Tue Aug 02 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-    脚本中指令的执行顺序有时候会导致意想不到的后果，其实有时候只要我们稍加注意，就能避免很多错误。不过我还是踩了坑以后才总结出来的。 
+    简介 FFmpeg 是一套强大的音视频处理程序，也是很多音视频软件的基础，事实上，FFmpeg 已经成为业界音视频处理的标准了。但命令行使用 FFmpeg 是有一定学习成本的，而 ffmpeg-pyt 
     </details> 
 
-- 🎡 [深入浅出 solid.js 源码 （七）—— 响应式能做什么](https://juejin.cn/post/7126950531645308965) | Mon Aug 01 2022 5:02 PM 
+- 🎡 [前端好文推荐](https://juejin.cn/post/7127091029571796999) | Tue Aug 02 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-    这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 上一节看了编译后的逻辑，我们可以发现 createSignal 方法还是原样执行，createSignal 属于 solid. 
+    收集一些前端前沿技术好文 HTML 浏览器IMG图片原生懒加载loading=”lazy”实践指南 CSS JS Webpack Webpack 性能系列一: 使用 Cache 提升构建性能 
     </details> 
 
-- 🕯 [RxDogTag：自动标记RxJava原始订阅点](https://juejin.cn/post/7126934488604475406) | Mon Aug 01 2022 3:46 PM 
+- 🕯 [iOS16适配指南之UINavigationItem](https://juejin.cn/post/7127088533130444830) | Tue Aug 02 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-    一、背景 在使用RxJava的过程中，经常会碰到如下一个经典的错误： 在上面的代码中，由于我们没有实现onError&lpar;&rpar;的RxJava观察者，所以在运行的时候，会报如下的错误。 对于上面的信息，并不是 
+    UINavigationItem在iOS16中发生了比较大的变化，本文总结了3个方面并以案例的形式进行了阐述。 
     </details> 
 
-- 🚀 [6 个意想不到的 JavaScript 问题](https://juejin.cn/post/7126931491702964260) | Mon Aug 01 2022 3:34 PM 
+- 🚀 [人工智能如何改变物联网](https://juejin.cn/post/7127085290304307236) | Tue Aug 02 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
-    作为前端开发工程师，JavaScript 是我们的主要开发语言，它本身语法比较简单，并且生态系统也非常完善，在社区的影响力越来越大。 在我们使用过程中，经常会遇到各种奇怪的问题，让我们经常摸不着头脑。 
+    首页 联网 物联网 新技术论坛 作者：Xavier Dupont,InfoWorld 关于 技术专家对新兴技术的剖析 人工智能如何改变物联网 人工智能通过使网络和设备从过去的决策中学习，预测未来的活动 
     </details> 
 
-- 💪 [牛客面经每日一总结 &lpar;八&rpar;](https://juejin.cn/post/7126929000924102670) | Mon Aug 01 2022 3:24 PM 
+- 💪 [转转反爬攻防战](https://juejin.cn/post/7127085113023660039) | Tue Aug 02 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
-    TCP拥塞控制与流量控制区别？ 拥塞控制就是为了防⽌过多的数据注⼊到⽹络中 这样就可以使⽹络中的路由器或链路不致过载。 拥塞控制所要做的都有⼀个前提，就是⽹络能 够承受现有的⽹络负荷。拥塞控制是⼀个全 
+    我们在应对爬虫的过程中，考察了前人的研究成果，总结了爬虫具有的和反爬系统应具有的特点，最终规划出一个可实行的具体的反爬虫系统方案。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
