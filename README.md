@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Watch Edition高端型号在Series 8发布前已经售完](https://www.cnbeta.com/articles/tech/1299941.htm) | Tue Aug 02 2022 4:13 PM 
+- 🕯 [詹姆斯-韦伯太空望远镜描绘出车轮星系的惊人细节](https://www.cnbeta.com/articles/science/1299961.htm) | Tue Aug 02 2022 5:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在Apple Watch Series 8阵容公布前几周，Apple Watch Edition型号，也就是价格最高的定制材质款开始售罄。在美国、加拿大、英国和其他一些国家的苹果在线商店中，有几款采用钛金属外壳的高端Apple Watch Series 7型号被列为&amp;quot;目前不可用&amp;quot;。在美国，41毫米型号的供应目前最为匮乏，但一些45毫米型号也缺货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国宇航局及其合作伙伴在詹姆斯-韦伯太空望远镜上分享了更多来自该天文台的壮观图像。这一次，他们对哈勃和其他望远镜之前观察到的车轮星系进行了一次全新的观察。美国宇航局表示，JWST能够揭示有关恒星形成和银河系中心黑洞的新细节，该星系距离地球约5亿光年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [MarqVision通过人工智能驱动的知识产权保护平台来抓捕造假者](https://www.cnbeta.com/articles/tech/1299939.htm) | Tue Aug 02 2022 3:28 PM 
+- 💼 [希捷发布Nytro 5350、Nytro 5550系列企业级SSD 采用群联E20主控](https://www.cnbeta.com/articles/tech/1299959.htm) | Tue Aug 02 2022 5:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;截至2020年，服装行业因假货而损失了约270亿美元的年销售额，这种非法贸易给品牌和买家都带来了巨大损失。&lt;/strong&gt;根据2022年知识产权犯罪威胁评估报告，衣服、配件和奢侈品是最受欢迎的造假产品项目。但这并不是问题的起点和终点：数字内容的爆炸性增长也导致了大量数字造假者的出现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;希捷正式发布了全新的Nytro 5350、Nytro 5550系列企业级SSD，基于希捷、群联的合作成果。希捷、群联早在2017年就开始合作了，今年4月又宣布共同开发NVMe SSD，这次发布的新品就是结晶，&lt;strong&gt;使用了群联专为希捷开发的主控E20&lt;/strong&gt;，集成两个Cortex-R55核心、多个协处理器核心，可加速SSD管理、提升随机读取速度&lpar;最高30％&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [网约车开空调要加钱？平台：禁止网约车收空调附加费](https://www.cnbeta.com/articles/tech/1299937.htm) | Tue Aug 02 2022 3:26 PM 
+- 💂 [气候法案将给美国电动汽车行业带来哪些利好？](https://www.cnbeta.com/articles/tech/1299957.htm) | Tue Aug 02 2022 4:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月2日消息，据央视财经频道报道，最近个别消费者在乘坐网约出租车时，被司机以“成本太高”为由拒绝开空调。对此，网约车平台方明确表示，&lt;strong&gt;司机应配合乘客开关空调，禁止以“空调费”等各种名义向乘客多收附加费或拒载乘客&lt;/strong&gt;，而对于违反相关标准的司机，在服务分数和派单上都有一定的惩罚措施。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周，美国所有致力于能源和气候问题的人都高度关注《通胀削减法案》&lpar;Inflation Reduction Act&rpar;，寻找有关该法案是否会通过以及是否会做出任何修改的信号。据报道，这项抵免包括在更广泛的一揽子立法中。该法案恢复了总统拜登国内议程的关键部分，包含大约3690亿美元的气候和能源支出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [茅台丁雄军：70多年存了几十万吨基酒 价值万亿](https://www.cnbeta.com/articles/tech/1299935.htm) | Tue Aug 02 2022 3:21 PM 
+- 🚀 [Semtech证实正在洽购Sierra Wireless](https://www.cnbeta.com/articles/tech/1299955.htm) | Tue Aug 02 2022 4:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于独特的定位，茅台公司不仅是国内A股的一哥，茅台酒也是市场的风向标，一直很坚挺。今日，茅台董事长丁雄军在亚布力论坛天津峰会上透露，&lt;strong&gt;70多年来，茅台现在在酒库里存了几十万吨基酒，如果按照现在的市场价值计算，是好多万亿。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间2日晚，加拿大半导体公司Semtech（SMTC）确认正在与加拿大网络公司Sierra Wireless（SW.T）进行谈判，将以每股31美元的价格收购后者。该报价比Sierra股票周一收盘价29.70美元溢价4.4%。截至周一收盘，Sierra的市值为11.4亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [EA已经在为其FIFA结束合作之后的未来做准备](https://hot.cnbeta.com/articles/game/1299933.htm) | Tue Aug 02 2022 2:07 PM 
+- 🎊 [迈克尔·基顿没看过MCU和DC任何一部完整电影](https://hot.cnbeta.com/articles/movie/1299953.htm) | Tue Aug 02 2022 4:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;FIFA 23还没有出来，但电子艺界（EA）已经在为其“后FIFA”的未来做准备。今天，出版商宣布了与西班牙西甲，也就是皇家马德里和巴塞罗那等标志性俱乐部所在的联盟达成了一项&amp;quot;独一无二的多年合作&amp;quot;，从2023-2024赛季开始，EA将成为该联赛的冠名赞助商。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在接受《综艺》杂志采访时，《蝙蝠侠》男星迈克尔·基顿表示他从来没有看过完整一部漫威或DC电影，他说“我还有别的事情要做”。迈克尔·基顿曾在1989年蒂姆·伯顿《蝙蝠侠》以及1992年《蝙蝠侠归来》电影中扮演了布鲁斯韦恩（蝙蝠侠）。基顿还将在明年的《闪电侠》电影中再度扮演蝙蝠侠。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1299953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
