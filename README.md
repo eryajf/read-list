@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [设计循环队列](https://juejin.cn/post/7127243759741304839) | Tue Aug 02 2022 11:46 AM 
+- 🤗 [Baseline Profiles 在 Compose 中的应用](https://juejin.cn/post/7127269954235138084) | Tue Aug 02 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 一、题目 LeetCode 设计循环队列 设计你的循环队列实现。 循环队列是一种线性数据结构，其操作表现基 
+    为什么需要 Baseline Profiles ？ 如下是官方使用 Baseline Profiles 在应用启动上提升的百分比，来自 《 Performance best practices for 
     </details> 
 
-- 🎡 [Mysql那些最需要掌握的原理](https://juejin.cn/post/7127243755249205279) | Tue Aug 02 2022 11:46 AM 
+- 🎡 [有趣的 Kotlin 0x0E：DeepRecursiveFunction](https://juejin.cn/post/7127268120602869790) | Tue Aug 02 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-    如何写好SQL？如何发现日常开发中慢SQL的问题？ 本文选取MySQL体系中核心内容，辅佐详细的核心模块及底层原理介绍，加入实战案例加深理解，以便于在后续开发中避免问题、发现问题、解决问题。 
+    前言 DeepRecursiveFunction 是 Kotlin 在 1.4.0 版本上尝试解决深度递归导致 StackOverflowError 问题的试行方案。在最新发布的 1.7.0 版本上正 
     </details> 
 
-- 🕯 [MOSN 反向通道详解](https://juejin.cn/post/7127240044774948878) | Tue Aug 02 2022 11:31 AM 
+- 🕯 [聊聊 Java 的单元测试](https://juejin.cn/post/7127266800605069320) | Tue Aug 02 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-    目前例如 SuperEdge、Yurttunnel 等业界知名云边协同开源框架，对于云边通信的实现方案都是基于反向通道。本文将着重介绍 MOSN 之上的反向通道运作流程和原理。 
+    单元测试框架 Java​ 中，​JUnit ​和 ​TestNG ​是最受欢迎的单元测试框架。 JUnit TestNG JUnit 首先是大名鼎鼎的 JUnit ，JUnit 已经成为 Java 应 
     </details> 
 
-- 🚀 [高手，云集于REST、gRPC 和 GraphQL之间!](https://juejin.cn/post/7127239293499605028) | Tue Aug 02 2022 11:30 AM 
+- 🚀 [2022年，移动开发已经进入寒冬期，这年头谁还做移动开发呀，可我......](https://juejin.cn/post/7127265843745914911) | Tue Aug 02 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
-    Rest、GraphQL、gRPC，是目前对Web暴露API常用的三种组织方式。 每当看着这些名词，我都会进入选择困难症。这些丰富多彩的协议填满了我们的工具箱，同时也抛出了一个难题：如果我想要自己的程 
+    随着市场行情的变化，移动应用开发已经是后半场，几年前炙手可热的移动端程序员，如今却面临着僧多粥少的局面。移动端程序员的人才市场上，早已“供过于求&quot;，在以前一个稍微懂点安卓开发的实习生一个月都能拿七八千 
     </details> 
 
-- 💪 [【超简单之强化学习入门】基于Sarsa表格方法的出租车调度](https://juejin.cn/post/7127238848660111397) | Tue Aug 02 2022 11:26 AM 
+- 💪 [resubmit 渐进式防重复提交框架简介](https://juejin.cn/post/7127264936295661604) | Tue Aug 02 2022 1:08 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第6天，点击查看活动详情 一、【超简单之强化学习入门】基于SARSA表格方法的出租车调度 滴滴滴，发车了，强化学习开始复习了。之前强 
+    resubmit resubmit 是一款为 java 设计的渐进式防止重复提交框架。 推荐阅读： 面试官：你们的项目中是怎么做防止重复提交的？ resubmit 渐进式防重复提交框架简介 创作目的  
     </details> 
 <!-- juejin:END -->
 ### 少数派
