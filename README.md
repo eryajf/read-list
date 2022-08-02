@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌Pixel 6a漏洞未修复：屏幕指纹识别不可靠问题依然存在](https://www.cnbeta.com/articles/tech/1299881.htm) | Tue Aug 02 2022 11:14 AM 
+- 🕯 [与开发商的合同结束 首批Apple Arcade游戏被下架](https://hot.cnbeta.com/articles/game/1299903.htm) | Tue Aug 02 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，谷歌为Pixel 6a推送安全补丁更新。经博主Ranjit实测，此前谷歌Pixel 6a存在的指纹漏洞仍未修复，更不更新没有太大区别。Ranjit表示，&lt;strong&gt;谷歌Pixel 6a更新之后，左手拇指仍然能解锁手机，而这台手机仅仅录入了他右手拇指的指纹信息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司今天从Apple Arcade中删除了15款游戏，这距离它列出第一批因开发商合同到期而退出订阅服务的游戏名单仅有两周多的时间。7月18日，苹果在App Store的Arcade区域增加了一个名为&amp;quot;即将离开Arcade&amp;quot;的板块，并列出了将被删除的游戏，但它没有说明这些游戏何时会消失。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [张朝阳：人不应该退休 应该活到老干到老](https://www.cnbeta.com/articles/tech/1299879.htm) | Tue Aug 02 2022 11:13 AM 
+- 💼 [动视：《使命召唤》2023年会有付费内容](https://hot.cnbeta.com/articles/game/1299901.htm) | Tue Aug 02 2022 12:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，搜狐创始人张朝阳和新东方俞敏洪在访谈节目《星空下的对话》中，回答了“年轻人卷不动了，想退休怎么办？”的问题。张朝阳表示，&lt;strong&gt;首先人不应该退休，人应该是活到老就干到老，&lt;/strong&gt;如果是为了养家糊口的生存必须来干这份工作，现在卷不动了可以换一换，但换也要换能继续养家糊口的工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前彭博社报道称动视不会在2023年推出《使命召唤》游戏，而在动视暴雪第二季度财报上，动视称《使命召唤》在2023年将会获得“新的付费内容”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [西班牙愿给830亿元补贴也建不起5nm芯片厂](https://www.cnbeta.com/articles/tech/1299877.htm) | Tue Aug 02 2022 11:13 AM 
+- 💂 [腾讯Logitech G宣布新合作 携手推进掌上云游戏](https://www.cnbeta.com/articles/tech/1299899.htm) | Tue Aug 02 2022 12:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;先进工艺的芯片厂已经是各国争夺的焦点，美国、日本、韩国及欧洲多国都想建立自己的工厂，甚至不惜给巨额补贴，然而就算是官方愿意给钱，也不是所有国家都能实现建厂的目标，西班牙现在就是如此。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;官方新闻稿称：&lt;strong&gt;通过结合罗技 G 在硬件方面、以及腾讯在软件服务方面专业知识，双方将于 2022 年晚些时候推出一款“云游戏掌上电脑”。&lt;/strong&gt;这款新设备将支持包括 Xbox Cloud Gaming 和英伟达 GeForce NOW 在内的多种云游戏服务，以期玩家能够在远离 PC / 主机时轻松体验 3A 游戏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《迪迦奥特曼》大古演员长野博新冠确诊 准备接受治疗](https://hot.cnbeta.com/articles/comic/1299875.htm) | Tue Aug 02 2022 11:11 AM 
+- 🚀 [三星第二代3nm GAA工艺将于2024年量产](https://www.cnbeta.com/articles/tech/1299897.htm) | Tue Aug 02 2022 11:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据所属社杰尼斯消息，&lt;strong&gt;V6组合成员、曾在《迪迦奥特曼》中饰演大古的演员长野博确诊新冠。&lt;/strong&gt;官方表示，在今日定期进行的PCR测试中，&lt;strong&gt;长野博得到了阳性的结果，但目前还没有任何症状。&lt;/strong&gt;长野博将在接下来的一定时间内，接受医疗护理和观察。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1299875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前一段时间，三星在京畿道华城工厂V1生产线，举行了采用下一代GAA（Gate-All-Around）架构晶体管技术的3nm代工产品发货仪式。三星表示，与原来采用FinFET的5nm工艺相比，初代3nm GAA制程节点在功耗、性能和面积（PPA）方面有不同程度的改进，其面积减少了16%、性能提高23%、功耗降低45%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [第一次同时穿越长江/黄浦江：沪通铁路太仓至四团段全线开工](https://www.cnbeta.com/articles/tech/1299873.htm) | Tue Aug 02 2022 11:10 AM 
+- 🎊 [儿子给老爸买的荣耀手机 插后裤袋炸了](https://www.cnbeta.com/articles/tech/1299895.htm) | Tue Aug 02 2022 11:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，上海至南通铁路&lpar;沪通铁路&rpar;太仓至四团段进入全线开工建设阶段。&lt;/strong&gt;此前，作为全线的控制性工程，&lt;strong&gt;吴淞口长江隧道&lt;/strong&gt;已经开工，盾构顺利始发掘进。这条隧道下穿长江口、黄浦江，为双洞单线水底隧道，&lt;strong&gt;是中国第一条穿越长江和黄浦江的铁路隧道、第一条软土地区客货共线铁路盾构隧道、第一条全封闭内衬的盾构法隧道。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;宁波慈溪的潘师傅反映，7月28号，他把一部手机放在裤子后面的口袋里，坐进车子没多久，手机爆炸了。潘师傅今年60岁，左手的两根手指上，各有一个大水泡，他说屁股上的情况也差不多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
