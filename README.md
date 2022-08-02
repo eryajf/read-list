@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [最新研究：第四针辉瑞疫苗可降低感染奥密克戎的风险](https://www.cnbeta.com/articles/tech/1299967.htm) | Tue Aug 02 2022 8:26 PM 
+- 🕯 [AMD第二季度营收65.50亿美元：净利润同比下降37%](https://www.cnbeta.com/articles/tech/1299975.htm) | Tue Aug 02 2022 11:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;AMD今天公布了该公司的2022财年第二季度财报。报告显示，AMD第二季度营收为65.50亿美元，与去年同期的38.50亿美元相比增长70%；净利润为4.47亿美元，与去年同期的7.10亿美元相比下降37%；每股收益为0.27美元，与去年同期的0.58美元相比下降53%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [工人日报：必须追问濒危大白鲨怎么进了直播间](https://hot.cnbeta.com/articles/movie/1299973.htm) | Tue Aug 02 2022 11:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，网红主播“提子”拍摄水煮鲨鱼和烧烤鲨鱼的视频火爆网络。据警方最新回应，视频中的鲨鱼确系濒危物种噬人鲨（又称大白鲨），来源为福建沿海地区。专家表示，噬人鲨属于国家二级保护动物，带上岸或者销售购买属于违法行为。目前，涉案人员已被警方控制，案件正在进一步调查中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1299973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [互联网券商Robinhood公布2022财年第二季度财报并宣布裁员23%](https://www.cnbeta.com/articles/tech/1299971.htm) | Tue Aug 02 2022 11:10 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;北京时间8月3日凌晨消息，美国互联网券商股票交易服务公司Robinhood今天公布了该公司的2022财年第二季度财报。&lt;/strong&gt;报告显示，Robinhood第二季度总净营收为3.18亿美元，与去年同期的5.65亿美元相比下降44%；净亏损为2.95亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [SK海力士成功开发出238层4D NAND闪存 明年上半年量产](https://www.cnbeta.com/articles/tech/1299969.htm) | Tue Aug 02 2022 11:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;韩国SK海力士（SK Hynix）已经开发出238层NAND闪存芯片，它可以用于PC存储设备、智能手机和服务器。上周美光也开始出货232层NAND闪存芯片。SK海力士宣称新的238层芯片是最小的NAND闪存芯片，数据传输速度相比上代产品提升50%，读取数据消耗的能量降低21%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [最新研究：第四针辉瑞疫苗可降低感染奥密克戎的风险](https://www.cnbeta.com/articles/tech/1299967.htm) | Tue Aug 02 2022 8:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;周二公布的一项研究显示，相较于仅接种了三针疫苗的同行，接种了第四针辉瑞新冠疫苗的医疗工作者感染奥秘克戎的风险明显更低。这项最新研究刊登在了美国医学协会的开放获取期刊上，旨在研究第二剂加强针疫苗预防感染奥密克戎的有效性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [宁德时代计划推迟发布北美工厂计划公告](https://www.cnbeta.com/articles/tech/1299965.htm) | Tue Aug 02 2022 6:50 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据知情人士透露，中国主要电动车电池供应商宁德时代决定推迟发布有关北美工厂的公告。该厂耗资数十亿美元，原本计划为特斯拉、福特等车企提供电池。宁德时代一直在考虑德克萨斯州附近位于墨西哥境内的两个地点，此外美国境内也是选址范围之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [应对劳动力短缺 三星要建无人工厂](https://www.cnbeta.com/articles/tech/1299963.htm) | Tue Aug 02 2022 6:49 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;世界顶级内存芯片制造商三星电子正计划建造一座“无人工厂”，以解决因“人口悬崖”造成的人力短缺问题。据韩国经济日报1日援引业内人士的消息称，三星最近成立了一个工作组，计划最早在2030年前将关键工厂打造成“无人工厂”，工厂内所有生产过程都将使用自动化机器来进行操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [詹姆斯-韦伯太空望远镜描绘出车轮星系的惊人细节](https://www.cnbeta.com/articles/science/1299961.htm) | Tue Aug 02 2022 5:10 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国宇航局及其合作伙伴在詹姆斯-韦伯太空望远镜上分享了更多来自该天文台的壮观图像。这一次，他们对哈勃和其他望远镜之前观察到的车轮星系进行了一次全新的观察。美国宇航局表示，JWST能够揭示有关恒星形成和银河系中心黑洞的新细节，该星系距离地球约5亿光年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [希捷发布Nytro 5350、Nytro 5550系列企业级SSD 采用群联E20主控](https://www.cnbeta.com/articles/tech/1299959.htm) | Tue Aug 02 2022 5:05 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;希捷正式发布了全新的Nytro 5350、Nytro 5550系列企业级SSD，基于希捷、群联的合作成果。希捷、群联早在2017年就开始合作了，今年4月又宣布共同开发NVMe SSD，这次发布的新品就是结晶，&lt;strong&gt;使用了群联专为希捷开发的主控E20&lt;/strong&gt;，集成两个Cortex-R55核心、多个协处理器核心，可加速SSD管理、提升随机读取速度&lpar;最高30％&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
