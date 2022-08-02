@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [第三大芯片架构RISC-V出货量将达到600亿](https://www.cnbeta.com/articles/tech/1299497.htm) | Mon Aug 01 2022 11:21 PM 
+- 🕯 [5nm Zen 4来了！AMD锐龙7000处理器首发型号及价格曝光](https://www.cnbeta.com/articles/tech/1299607.htm) | Tue Aug 02 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;目前x86架构掌控着全球的高性能计算领域，ARM则是主导了移动计算，新兴的RISC-V已经成为第三大芯片架构，此前出货量刚刚超过100亿，但是其发展速度更快，预计在2025年就能实现600亿出货量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;采用5nm Zen 4架构的AMD锐龙7000桌面处理器呼之欲出，最新消息指出，&lt;strong&gt;基本确定9月15日上市，发布时间则会更早，大约提前一周时间。&lt;/strong&gt;同时，有经销商泄露了首发SKU阵容以及对应的价格，内容如下：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [认为30%佣金收费过高 法国App开发者集体起诉苹果](https://www.cnbeta.com/articles/tech/1299495.htm) | Mon Aug 01 2022 11:18 PM 
+- 💼 [全DNA纳米机器人可探索细胞过程](https://www.cnbeta.com/articles/science/1299605.htm) | Tue Aug 02 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;法国App开发者起诉苹果，它们认为苹果App Store收费过高，违反了美国反垄断法。参与集体诉讼的有Figaro新闻App开发商Société du Figaro，L‘Équipe体育新闻应用开发商L’Équipe 24/24，还有法国内容提供商协会Le Geste。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;用DNA建造一个微型机器人，并用它来研究肉眼看不见的细胞过程——这不是科幻小说，而是法国国家健康与医学研究院（Inserm）、国家科学研究中心和蒙彼利埃大学的科学家们认真研究的主题。&lt;strong&gt;这种高度创新的“纳米机器人”能够更密切地研究在微观水平上施加的机械力，这对许多生物和病理过程至关重要，代表了一项重大的技术进步。&lt;/strong&gt;相关研究发表在最新一期《自然·通讯》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [报道称甲骨文开始在美国裁员](https://www.cnbeta.com/articles/tech/1299493.htm) | Mon Aug 01 2022 6:47 PM 
+- 💂 [AFS：上周全球因缺芯减产2.3万辆车，减产速度再放缓](https://www.cnbeta.com/articles/tech/1299603.htm) | Tue Aug 02 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，甲骨文公司已开始在美国裁员，其中包括旧金山湾区的一些员工。知情人士称，此次裁员的确切人数尚不清楚，但也会影响到加拿大、印度和欧洲部分地区的员工。裁员预计将在未来几周和几个月内进行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据汽车行业数据预测公司AutoForecast Solutions（以下简称为AFS）的最新数据，截至7月31日，&lt;strong&gt;由于芯片短缺，今年全球汽车市场累计减产量约为281.02万辆。AFS预测，到今年年底，全球汽车制造商将因缺芯削减368.06万辆汽车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [网店“明码标价”1个名额1万多付费实习值不值？](https://www.cnbeta.com/articles/tech/1299491.htm) | Mon Aug 01 2022 6:42 PM 
+- 🚀 [全球空头最多的股票，特斯拉自5月低点已经反弹近50%](https://www.cnbeta.com/articles/tech/1299601.htm) | Tue Aug 02 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;正值暑假，不少准毕业生们计划利用这段时间到企业实习。北京青年报记者发现，原本积累工作经验的实习机会，却被“明码标价”。“实习内推”在电商平台也已成为一种商品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;马斯克忍不住股价上涨的激动心情，发推特讽刺做空者，称“热浪正席卷Shortville（卖空谷）”。在周四特斯拉股东就股票1拆3计划进行投票之前，特斯拉股价一路飙升。&lt;strong&gt;周一，美股结束三连阳，但特斯拉收涨，该股已连涨四日至近三个月新高，接近从5月低点反弹50%，7月份的涨幅为32%，这是自2021年10月以来表现最好的月份。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [动力电池回收的隐秘江湖：45家正规军PK 上万家“黑拆”作坊](https://www.cnbeta.com/articles/tech/1299489.htm) | Mon Aug 01 2022 5:50 PM 
+- 🎊 [“无人认领”行李箱成盲盒，开盒一时爽，但真没问题吗？](https://www.cnbeta.com/articles/tech/1299599.htm) | Tue Aug 02 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;广州市花都区花北路的万通汽配城内，分布着大大小小几百家商家，均是三年前从白云区陈田村拆车村搬迁而来的商户。第一财经记者在园区内探访几圈发现，除了传统燃油车的配件，也有回收新能源蓄电池以及配件的门店。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;“你永远不知道下一个盒子里装的是什么，但总是充满期待”，盲盒就是凭借这种不确定带来的惊喜，近几年来深受年轻人喜爱。&lt;/strong&gt;一些社交媒体KOL也乐此不疲以“开盲盒”为主题创作内容，吸引人眼球。但你听说过“无人认领行李箱盲盒”吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
