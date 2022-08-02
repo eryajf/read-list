@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [研究发现，攻击者能利用Chromium浏览器书签同步功能数据泄露](https://www.freebuf.com/news/340801.html) | Tue Aug 02 2022 3:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    书签可以被滥用来从企业环境中吸走大量被盗数据，或者在几乎不会被发现的情况下从中部署攻击工具和恶意有效载荷。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 上半年全国网络执法工作取得明显成效；美国众议院通过《勒索软件法案》](https://www.freebuf.com/news/340733.html) | Mon Aug 01 2022 7:50 AM 
     <details><summary>展开描述 ...</summary> 
     2022年上半年，全国网信系统持续加大网络执法力度、规范网络执法行为，坚决依法查处各类违法违规案件，取得明显成效。 
     </details> 
 
-- 🦄 [MBDA疑似被入侵，攻击者声称获取机密](https://www.freebuf.com/news/340722.html) | Mon Aug 01 2022 6:26 AM 
+- 🦅 [MBDA疑似被入侵，攻击者声称获取机密](https://www.freebuf.com/news/340722.html) | Mon Aug 01 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
     一个名为Adrastea的攻击组织声称已经入侵了跨国导弹制造商 MBDA。 
     </details> 
 
-- 🦅 [1.1万个虚假投资网站组成的庞大网络“盯上”了欧洲](https://www.freebuf.com/news/340699.html) | Mon Aug 01 2022 3:45 AM 
+- 🪄 [1.1万个虚假投资网站组成的庞大网络“盯上”了欧洲](https://www.freebuf.com/news/340699.html) | Mon Aug 01 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员发现了一个由 1.1万多个域名组成的巨大网络，正在向欧洲用户推广虚假投资计划。 
     </details> 
 
-- 🪄 [大华摄像头存在安全漏洞，目前已得到修复](https://www.freebuf.com/news/340694.html) | Mon Aug 01 2022 3:24 AM 
+- 💻 [大华摄像头存在安全漏洞，目前已得到修复](https://www.freebuf.com/news/340694.html) | Mon Aug 01 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     通过该漏洞，攻击者可获取最高权限，对受影响设备无限制访问，包括实时观看和重放摄像头视频。 
-    </details> 
-
-- 💻 [Google Play商店现17款DawDropper银行恶意软件](https://www.freebuf.com/news/340693.html) | Mon Aug 01 2022 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    这些应用包括了文档扫描仪、VPN服务、二维码阅读器和通话记录器等，共携带了 Octo、Hydra、Ermac和TeaBot四个银行木马系列。 
     </details> 
 <!-- freebuf:END -->
 
