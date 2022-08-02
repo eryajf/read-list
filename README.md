@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [跨平台的播客电台 App：Moon FM](http://www.mac52ipod.cn/post/apple-ios-macos-windows-linus-podcast-app-moon-fm.php) | Sun Jul 31 2022 3:07 AM 
+- 👨‍🏫 [Apple新闻之苹果公布 2022 财年第三季财报](http://www.mac52ipod.cn/post/apple-2022-q3-result.php) | Tue Aug 02 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果公布了 2022 财年第三财季财报，营收 829.59 亿美元，同比增长 2%，净利润 194.42 亿美元，同比下降 11%；其中大中华区营收 146.04 亿美元，同比下降 1%；因为苹果早已不再公布具体销量，下面只有财务数据：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;iPhone 营收 406.65 亿美元，同比增长 2.8%&lt;/li&gt;&lt;li&gt;Mac 营收 73.82 亿美元，同比下降 10.4%&lt;/li&gt;&lt;li&gt;iPad 营收 72.24 亿美元，同比下降 2%&lt;/li&gt;&lt;li&gt;可穿戴设备、家居设备和配件营收 80.84 亿美元，同比下降 7.9%&lt;/li&gt;&lt;li&gt;服务营收 196.04 亿美元，同比增长 12.1%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果官网财报原文 &lt;u&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/&quot; target=&quot;_blank&quot; title=&quot;Apple Reports Third Quarter Results &quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [跨平台的播客电台 App：Moon FM](http://www.mac52ipod.cn/post/apple-ios-macos-windows-linus-podcast-app-moon-fm.php) | Sun Jul 31 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM 
+- 🦏 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM 
+- 🚀 [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM 
+- 🏊 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	国内 Android 厂商很喜欢给照片加上机型信息水印，如果是和相机大厂合作的手机，还会打上莱卡、哈苏等相机的水印。最近小米推出了和莱卡合作的机型，拍照后能在照片底部添加莱卡图标和坐标、焦距、光圈、快门、ISO 等信息。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6701&quot; border=&quot;0&quot; alt=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; title=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; /&gt;&lt;/p&gt;&lt;p&gt;如果你也想让苹果 iPhone 拍的照片也有类似水印，可以试试这个叫「徕卡水印」的 iOS 捷径，下载地址 &lt;u&gt;&lt;a href=&quot;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&quot; target=&quot;_blank&quot; title=&quot;莱卡水印&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%258D%25B7%25E5%25BE%2584&quot; rel=&quot;tag&quot;&gt;捷径&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=shortcuts&quot; rel=&quot;tag&quot;&gt;shortcuts&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Mac技巧之苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo](http://www.mac52ipod.cn/post/apple-mac-macos-search-launcher-app-alfred-hapigo.php) | Fri Jul 22 2022 10:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果电脑 macOS 系统自带了搜索和快速启动工具 Spotlight。如果你想要更多功能，十多年来比较有名的第三方启动器工具是 &lt;u&gt;&lt;a href=&quot;/post/search-open-software-by-keyboard-alfred.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑 Mac OS X 系统上通过键盘快速搜索和启动软件的免费工具：Alfred &quot;&gt;&lt;font color=#0000FF&gt;Alfred&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。最近发现一个 Alfred 的竞争者，功能类似，扩展性也很强：HapiGo。这里有段视频介绍 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Mr4y1U7en&quot; target=&quot;_blank&quot; title=&quot;Hapigo-比肩Alfred的工具终于来了!&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1Mr4y1U7en&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=765396797&amp;bvid=BV1Mr4y1U7en&amp;cid=478586306&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;HapiGo 更详细的介绍，以及下载地址，看官网吧 &lt;u&gt;&lt;a href=&quot;https://hapigo.com/&quot; target=&quot;_blank&quot; title=&quot;苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://hapigo.com/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=alfred&quot; rel=&quot;tag&quot;&gt;alfred&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2588%25E7%258E%2587&quot; rel=&quot;tag&quot;&gt;效率&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%2594%25AE%25E7%259B%2598&quot; rel=&quot;tag&quot;&gt;键盘&lt;/a&gt;
 
  
     </details> 
