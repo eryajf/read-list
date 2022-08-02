@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python小工具：五分钟处理完一天的工作量，真香](https://juejin.cn/post/7127091960803754020) | Tue Aug 02 2022 1:57 AM 
+- 🤗 [YugabyteDB中最重要的9个新功能](https://juejin.cn/post/7127107090539085861) | Tue Aug 02 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 FFmpeg 是一套强大的音视频处理程序，也是很多音视频软件的基础，事实上，FFmpeg 已经成为业界音视频处理的标准了。但命令行使用 FFmpeg 是有一定学习成本的，而 ffmpeg-pyt 
+    首页 数据管理 数据库 新技术论坛 作者：Karthik Ranganathan,InfoWorld 关于 技术专家剖析的新兴技术 YugabyteDB中最重要的9个新功能 YugabyteDB 2. 
     </details> 
 
-- 🎡 [前端好文推荐](https://juejin.cn/post/7127091029571796999) | Tue Aug 02 2022 1:53 AM 
+- 🎡 [Cloudflare Workers for Platforms旨在实现更加可编程的网络](https://juejin.cn/post/7127106707372654628) | Tue Aug 02 2022 2:54 AM 
     <details><summary>展开描述 ...</summary> 
-    收集一些前端前沿技术好文 HTML 浏览器IMG图片原生懒加载loading=”lazy”实践指南 CSS JS Webpack Webpack 性能系列一: 使用 Cache 提升构建性能 
+    首页 企业架构 无服务器计算 Cloudflare Workers for Platforms旨在实现更加可编程的网络 Cloudflare Workers for Platforms提供了一套工具和 
     </details> 
 
-- 🕯 [iOS16适配指南之UINavigationItem](https://juejin.cn/post/7127088533130444830) | Tue Aug 02 2022 1:43 AM 
+- 🕯 [【算法】层数最深叶子节点的和（多语言实现）](https://juejin.cn/post/7127104851267289102) | Tue Aug 02 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
-    UINavigationItem在iOS16中发生了比较大的变化，本文总结了3个方面并以案例的形式进行了阐述。 
+    2235. 两整数相加： 给你一棵二叉树的根节点 root ，请你返回 层数最深的叶子节点的和 。 
     </details> 
 
-- 🚀 [人工智能如何改变物联网](https://juejin.cn/post/7127085290304307236) | Tue Aug 02 2022 1:31 AM 
+- 🚀 [干货|如何在海量文件系统中选择合适自己的文件系统](https://juejin.cn/post/7127104556328026148) | Tue Aug 02 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
-    首页 联网 物联网 新技术论坛 作者：Xavier Dupont,InfoWorld 关于 技术专家对新兴技术的剖析 人工智能如何改变物联网 人工智能通过使网络和设备从过去的决策中学习，预测未来的活动 
+    前段时间Gitee图床突然&quot;暴雷&quot;，导致许多写作者笔记、博客、网站等图片全部无法访问，一时间哀怨四起! 在日常业务开发中，文件存储无处不在，小到图片存储访问，大到svg、zip、视频、音频等文件上传下 
     </details> 
 
-- 💪 [转转反爬攻防战](https://juejin.cn/post/7127085113023660039) | Tue Aug 02 2022 1:30 AM 
+- 💪 [继承-基类和派生类的转化](https://juejin.cn/post/7127098636210700318) | Tue Aug 02 2022 2:23 AM 
     <details><summary>展开描述 ...</summary> 
-    我们在应对爬虫的过程中，考察了前人的研究成果，总结了爬虫具有的和反爬系统应具有的特点，最终规划出一个可实行的具体的反爬虫系统方案。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 .基类和派生类对象赋值转换 派生类对象&lpar;子类对象&rpar; 可以赋值给 基类的对象 / 基类的指针 / 基类的引用 
     </details> 
 <!-- juejin:END -->
 ### 少数派
