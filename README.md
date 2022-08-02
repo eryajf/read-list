@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国玩家今年在游戏上的花费比2021年少很多](https://hot.cnbeta.com/articles/game/1299921.htm) | Tue Aug 02 2022 1:38 PM 
+- 🕯 [EA已经在为其FIFA结束合作之后的未来做准备](https://hot.cnbeta.com/articles/game/1299933.htm) | Tue Aug 02 2022 2:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据市场研究公司NPD的数据，美国消费者在视频游戏产品上的支出在第二季度下降了17.8亿美元。总体而言，最近一个季度美国的视频游戏消费总额为123.5亿美元，同比下降13%。这些发现是在微软和索尼报告游戏收入下降后得出的。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;FIFA 23还没有出来，但电子艺界（EA）已经在为其“后FIFA”的未来做准备。今天，出版商宣布了与西班牙西甲，也就是皇家马德里和巴塞罗那等标志性俱乐部所在的联盟达成了一项&amp;quot;独一无二的多年合作&amp;quot;，从2023-2024赛季开始，EA将成为该联赛的冠名赞助商。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星为Galaxy设备推出用户自行维修工具包 部件价格公布](https://www.cnbeta.com/articles/tech/1299919.htm) | Tue Aug 02 2022 1:32 PM 
+- 💼 [B站回应HR称用户是Loser：涉事面试官去年底已被劝退](https://www.cnbeta.com/articles/tech/1299931.htm) | Tue Aug 02 2022 2:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;早在3月，三星就加入了越来越多的硬件制造商的行列，宣布了用户自维修计划。这份名单包括苹果和Google提供的类似服务，发现公司对潜在的维修权立法做出了积极的反应。三星和Google都与流行的维修网站iFixit合作，提供低成本的工具来修复常见的设备问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月2日消息，日前，博主@菠萝地海牛 一条旧微博被翻出来，&lt;strong&gt;B站HR称核心用户都是“生活里的Loser”。&lt;/strong&gt;今日晚间，就网传B站HR称核心用户都是Loser一事，B站回应：对该事件中的面试官言论非常气愤，经内部调查，&lt;strong&gt;该面试官去年底已被劝退，会吸取教训加强管理，感谢监督。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软较低配置的Android手机推出Outlook Lite](https://www.cnbeta.com/articles/tech/1299917.htm) | Tue Aug 02 2022 1:28 PM 
+- 💂 [兰博基尼对发展其电动汽车产品依然持观望态度](https://www.cnbeta.com/articles/tech/1299929.htm) | Tue Aug 02 2022 2:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软推出了轻量级的Outlook Lite Android应用，适用于低端Android设备和有数据连接问题的地区。该应用的下载量不到5MB，而普通版本的下载量超过80MB（取决于设备）。该应用程序目前在特定国家可用，包括阿根廷、巴西、智利、哥伦比亚、厄瓜多尔、印度、墨西哥、秘鲁、沙特阿拉伯、南非、台湾地区、泰国、土耳其和委内瑞拉。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;母公司大众集团之前表态会投资超过1000亿美元将电动汽车全面推向市场，但其超级跑车品牌兰博基尼却并没有出售相关车型的迹象。据兰博基尼首席执行官Stephan Winkelmann称，这家小众汽车制造商正在等待欧盟的指示，然后再决定是否全力投入电动汽车业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [多次延期，“天才设计”图像传感器Foveon即将面世](https://www.cnbeta.com/articles/tech/1299915.htm) | Tue Aug 02 2022 1:22 PM 
+- 🚀 [微软将其收购的RiskIQ核心功能整合到Microsoft Defender中](https://www.cnbeta.com/articles/tech/1299927.htm) | Tue Aug 02 2022 1:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，Sigma 首席执行官 Kazuto Yamaki 透露，该公司制造全画幅 Foveon 传感器的工作有望在今年年底前完成。在Mirrorless Rumors发现的 Sigma 的 YouTube 频道上发表的一次采访中，Yamaki 被问及自今年早些时候提供更新以来是否有任何关于传感器开发进展的消息。“我们仍在努力，现在我们正在研究三层 X3 传感器的原型，”他回应道。“这个传感器应该在今年某个时候上市。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软今天为其Microsoft Defender安全平台增加了两项新功能：威胁情报和外部攻击面管理。这些功能是源于该公司对RiskIQ的收购，通过这次推出，微软现在将RiskIQ的一些核心功能带到了自己的安全平台上（同时RiskIQ也继续运营自己的服务）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Steam 7月硬件调查公布：GTX 1060稳居榜首“傲视群雄”](https://www.cnbeta.com/articles/tech/1299913.htm) | Tue Aug 02 2022 1:18 PM 
+- 🎊 [贾跃亭又找来6亿美元增资 FF股价盘前涨幅近20%](https://www.cnbeta.com/articles/tech/1299925.htm) | Tue Aug 02 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为全球最大的PC游戏平台，Steam每月的硬件与软件调查数据，往往能够反应当前PC游戏玩家的主流配置。今天，Steam更新了7月的调查报告，&lt;strong&gt;NVIDIA继续包揽热门显卡的前十名，而一代神卡GTX 1060也依旧稳居第一，并与第二名GTX 1650有2.1%的差距，称得上是“傲视群雄”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月2日，法拉第未来（Faraday Future，以下简称“FF”）大股东FF Top Holding LLC （以下简称“FF Top”）与FF就可转换定期贷款融资正式签署非约束性投资意向书，本轮融资包括潜在金额最高达6亿美元的高级有担保可转换票据（“票据”）（“拟议融资”）。 &lt;br/&gt;&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
