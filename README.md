@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [宁德时代计划推迟发布北美工厂计划公告](https://www.cnbeta.com/articles/tech/1299965.htm) | Tue Aug 02 2022 6:50 PM 
+- 🕯 [最新研究：第四针辉瑞疫苗可降低感染奥密克戎的风险](https://www.cnbeta.com/articles/tech/1299967.htm) | Tue Aug 02 2022 8:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;周二公布的一项研究显示，相较于仅接种了三针疫苗的同行，接种了第四针辉瑞新冠疫苗的医疗工作者感染奥秘克戎的风险明显更低。这项最新研究刊登在了美国医学协会的开放获取期刊上，旨在研究第二剂加强针疫苗预防感染奥密克戎的有效性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [宁德时代计划推迟发布北美工厂计划公告](https://www.cnbeta.com/articles/tech/1299965.htm) | Tue Aug 02 2022 6:50 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据知情人士透露，中国主要电动车电池供应商宁德时代决定推迟发布有关北美工厂的公告。该厂耗资数十亿美元，原本计划为特斯拉、福特等车企提供电池。宁德时代一直在考虑德克萨斯州附近位于墨西哥境内的两个地点，此外美国境内也是选址范围之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [应对劳动力短缺 三星要建无人工厂](https://www.cnbeta.com/articles/tech/1299963.htm) | Tue Aug 02 2022 6:49 PM 
+- 💂 [应对劳动力短缺 三星要建无人工厂](https://www.cnbeta.com/articles/tech/1299963.htm) | Tue Aug 02 2022 6:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;世界顶级内存芯片制造商三星电子正计划建造一座“无人工厂”，以解决因“人口悬崖”造成的人力短缺问题。据韩国经济日报1日援引业内人士的消息称，三星最近成立了一个工作组，计划最早在2030年前将关键工厂打造成“无人工厂”，工厂内所有生产过程都将使用自动化机器来进行操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [詹姆斯-韦伯太空望远镜描绘出车轮星系的惊人细节](https://www.cnbeta.com/articles/science/1299961.htm) | Tue Aug 02 2022 5:10 PM 
+- 🚀 [詹姆斯-韦伯太空望远镜描绘出车轮星系的惊人细节](https://www.cnbeta.com/articles/science/1299961.htm) | Tue Aug 02 2022 5:10 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国宇航局及其合作伙伴在詹姆斯-韦伯太空望远镜上分享了更多来自该天文台的壮观图像。这一次，他们对哈勃和其他望远镜之前观察到的车轮星系进行了一次全新的观察。美国宇航局表示，JWST能够揭示有关恒星形成和银河系中心黑洞的新细节，该星系距离地球约5亿光年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [希捷发布Nytro 5350、Nytro 5550系列企业级SSD 采用群联E20主控](https://www.cnbeta.com/articles/tech/1299959.htm) | Tue Aug 02 2022 5:05 PM 
+- 🎊 [希捷发布Nytro 5350、Nytro 5550系列企业级SSD 采用群联E20主控](https://www.cnbeta.com/articles/tech/1299959.htm) | Tue Aug 02 2022 5:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;希捷正式发布了全新的Nytro 5350、Nytro 5550系列企业级SSD，基于希捷、群联的合作成果。希捷、群联早在2017年就开始合作了，今年4月又宣布共同开发NVMe SSD，这次发布的新品就是结晶，&lt;strong&gt;使用了群联专为希捷开发的主控E20&lt;/strong&gt;，集成两个Cortex-R55核心、多个协处理器核心，可加速SSD管理、提升随机读取速度&lpar;最高30％&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [气候法案将给美国电动汽车行业带来哪些利好？](https://www.cnbeta.com/articles/tech/1299957.htm) | Tue Aug 02 2022 4:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周，美国所有致力于能源和气候问题的人都高度关注《通胀削减法案》&lpar;Inflation Reduction Act&rpar;，寻找有关该法案是否会通过以及是否会做出任何修改的信号。据报道，这项抵免包括在更广泛的一揽子立法中。该法案恢复了总统拜登国内议程的关键部分，包含大约3690亿美元的气候和能源支出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
