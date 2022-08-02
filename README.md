@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [阿里云香港 ECS 的一个坑](https://www.v2ex.com/t/870334#reply2) | Tue Aug 02 2022 6:17 PM
+- 🥸 [阿里云香港 ECS 的一个坑](https://www.v2ex.com/t/870334#reply4) | Tue Aug 02 2022 6:17 PM
 - 🤗 [请教 Android 开发大佬一个问题](https://www.v2ex.com/t/870327#reply1) | Tue Aug 02 2022 3:05 PM
 - 🎭 [如何 windows 安装镜像带预装软件和分区？](https://www.v2ex.com/t/870325#reply5) | Tue Aug 02 2022 2:43 PM
 - 🥷 [MySQL 的 inner join 顺序是否会影响最后查询的性能](https://www.v2ex.com/t/870321#reply1) | Tue Aug 02 2022 2:12 PM
