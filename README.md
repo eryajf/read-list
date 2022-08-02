@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [与开发商的合同结束 首批Apple Arcade游戏被下架](https://hot.cnbeta.com/articles/game/1299903.htm) | Tue Aug 02 2022 12:14 PM 
+- 🕯 [美国玩家今年在游戏上的花费比2021年少很多](https://hot.cnbeta.com/articles/game/1299921.htm) | Tue Aug 02 2022 1:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天从Apple Arcade中删除了15款游戏，这距离它列出第一批因开发商合同到期而退出订阅服务的游戏名单仅有两周多的时间。7月18日，苹果在App Store的Arcade区域增加了一个名为&amp;quot;即将离开Arcade&amp;quot;的板块，并列出了将被删除的游戏，但它没有说明这些游戏何时会消失。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据市场研究公司NPD的数据，美国消费者在视频游戏产品上的支出在第二季度下降了17.8亿美元。总体而言，最近一个季度美国的视频游戏消费总额为123.5亿美元，同比下降13%。这些发现是在微软和索尼报告游戏收入下降后得出的。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [动视：《使命召唤》2023年会有付费内容](https://hot.cnbeta.com/articles/game/1299901.htm) | Tue Aug 02 2022 12:08 PM 
+- 💼 [三星为Galaxy设备推出用户自行维修工具包 部件价格公布](https://www.cnbeta.com/articles/tech/1299919.htm) | Tue Aug 02 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前彭博社报道称动视不会在2023年推出《使命召唤》游戏，而在动视暴雪第二季度财报上，动视称《使命召唤》在2023年将会获得“新的付费内容”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;早在3月，三星就加入了越来越多的硬件制造商的行列，宣布了用户自维修计划。这份名单包括苹果和Google提供的类似服务，发现公司对潜在的维修权立法做出了积极的反应。三星和Google都与流行的维修网站iFixit合作，提供低成本的工具来修复常见的设备问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [腾讯Logitech G宣布新合作 携手推进掌上云游戏](https://www.cnbeta.com/articles/tech/1299899.htm) | Tue Aug 02 2022 12:03 PM 
+- 💂 [微软较低配置的Android手机推出Outlook Lite](https://www.cnbeta.com/articles/tech/1299917.htm) | Tue Aug 02 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;官方新闻稿称：&lt;strong&gt;通过结合罗技 G 在硬件方面、以及腾讯在软件服务方面专业知识，双方将于 2022 年晚些时候推出一款“云游戏掌上电脑”。&lt;/strong&gt;这款新设备将支持包括 Xbox Cloud Gaming 和英伟达 GeForce NOW 在内的多种云游戏服务，以期玩家能够在远离 PC / 主机时轻松体验 3A 游戏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软推出了轻量级的Outlook Lite Android应用，适用于低端Android设备和有数据连接问题的地区。该应用的下载量不到5MB，而普通版本的下载量超过80MB（取决于设备）。该应用程序目前在特定国家可用，包括阿根廷、巴西、智利、哥伦比亚、厄瓜多尔、印度、墨西哥、秘鲁、沙特阿拉伯、南非、台湾地区、泰国、土耳其和委内瑞拉。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星第二代3nm GAA工艺将于2024年量产](https://www.cnbeta.com/articles/tech/1299897.htm) | Tue Aug 02 2022 11:52 AM 
+- 🚀 [多次延期，“天才设计”图像传感器Foveon即将面世](https://www.cnbeta.com/articles/tech/1299915.htm) | Tue Aug 02 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前一段时间，三星在京畿道华城工厂V1生产线，举行了采用下一代GAA（Gate-All-Around）架构晶体管技术的3nm代工产品发货仪式。三星表示，与原来采用FinFET的5nm工艺相比，初代3nm GAA制程节点在功耗、性能和面积（PPA）方面有不同程度的改进，其面积减少了16%、性能提高23%、功耗降低45%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，Sigma 首席执行官 Kazuto Yamaki 透露，该公司制造全画幅 Foveon 传感器的工作有望在今年年底前完成。在Mirrorless Rumors发现的 Sigma 的 YouTube 频道上发表的一次采访中，Yamaki 被问及自今年早些时候提供更新以来是否有任何关于传感器开发进展的消息。“我们仍在努力，现在我们正在研究三层 X3 传感器的原型，”他回应道。“这个传感器应该在今年某个时候上市。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [儿子给老爸买的荣耀手机 插后裤袋炸了](https://www.cnbeta.com/articles/tech/1299895.htm) | Tue Aug 02 2022 11:51 AM 
+- 🎊 [Steam 7月硬件调查公布：GTX 1060稳居榜首“傲视群雄”](https://www.cnbeta.com/articles/tech/1299913.htm) | Tue Aug 02 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;宁波慈溪的潘师傅反映，7月28号，他把一部手机放在裤子后面的口袋里，坐进车子没多久，手机爆炸了。潘师傅今年60岁，左手的两根手指上，各有一个大水泡，他说屁股上的情况也差不多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为全球最大的PC游戏平台，Steam每月的硬件与软件调查数据，往往能够反应当前PC游戏玩家的主流配置。今天，Steam更新了7月的调查报告，&lt;strong&gt;NVIDIA继续包揽热门显卡的前十名，而一代神卡GTX 1060也依旧稳居第一，并与第二名GTX 1650有2.1%的差距，称得上是“傲视群雄”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
