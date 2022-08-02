@@ -741,27 +741,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [京东居家携全链路业务登陆深圳家具展，京东居家线下店重磅亮相](https://www.photoworld.com.cn/post/162293) | Mon Aug 01 2022 9:10 AM 
+- 🤠 [征稿｜“我遇见最美的光”——第七届医务人员摄影大展征稿启事](https://www.photoworld.com.cn/post/162413) | Tue Aug 02 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [视觉中国&amp;500px 视觉盛典北京举行，荣耀影像技术专家现场分享移动影像未来新趋势](https://www.photoworld.com.cn/post/162324) | Mon Aug 01 2022 7:33 AM 
+- 🎃 [京东居家携全链路业务登陆深圳家具展，京东居家线下店重磅亮相](https://www.photoworld.com.cn/post/162293) | Mon Aug 01 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [“太极三部曲——李英杰摄影作品展” 在郑州美术馆开幕](https://www.photoworld.com.cn/post/162295) | Mon Aug 01 2022 2:00 AM 
+- 👀 [视觉中国&amp;500px 视觉盛典北京举行，荣耀影像技术专家现场分享移动影像未来新趋势](https://www.photoworld.com.cn/post/162324) | Mon Aug 01 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [大暑 | 一半是火焰，一半是山水](https://www.photoworld.com.cn/post/162200) | Sat Jul 23 2022 12:00 AM 
+- 🤔 [“太极三部曲——李英杰摄影作品展” 在郑州美术馆开幕](https://www.photoworld.com.cn/post/162295) | Mon Aug 01 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [CSC 成员 Rob McLachlan 分享 CineAltaV 2 的使用印象](https://www.photoworld.com.cn/post/162191) | Fri Jul 22 2022 7:51 AM 
+- 👀 [大暑 | 一半是火焰，一半是山水](https://www.photoworld.com.cn/post/162200) | Sat Jul 23 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
