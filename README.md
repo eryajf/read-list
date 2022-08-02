@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [现代氢燃料电池重卡将再次出口欧洲 向德国7家企业供应27辆](https://www.cnbeta.com/articles/tech/1299821.htm) | Tue Aug 02 2022 9:16 AM 
+- 🕯 [主机力推xCloud云游戏服务一年暴涨1800% 未来将跨更多平台](https://hot.cnbeta.com/articles/game/1299849.htm) | Tue Aug 02 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月2日消息，据国外媒体报道，在向瑞士23家公司出口47辆之后，现代汽车2020年推出的氢燃料电池重卡XCIENT，将再次出口欧洲，向德国的7家公司供应27辆。&lt;/strong&gt;现代汽车当地时间周二，已在官网宣布他们将向德国的7家公司，出口27辆XCIENT氢燃料电池重卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在周一发表于 Xbox 官方油管账号的一段视频中，两位 xCloud 领导人探讨了该公司云游戏平台的最新增强和功能更新。&lt;/strong&gt;微软 xCloud 平台副总裁 Kevin LaChapelle 表示 —— Xbox 云游戏已经取得了长足进步。仅在过去一年，该服务就迎来了高达 1800% 的业务增长。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google为Pixel 6A带来Android 13 Beta 4.1更新](https://www.cnbeta.com/articles/tech/1299819.htm) | Tue Aug 02 2022 9:14 AM 
+- 💼 [AMD市值超越Intel 一个新时代的开端](https://www.cnbeta.com/articles/tech/1299847.htm) | Tue Aug 02 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Pixel 6A 已经于上周四正式发售，Google 已经马不停蹄地为这款中端手机带来最新的 Android 13 Beta 版本。援引 9to5Google 报道，&lt;strong&gt;Google 已经为 Pixel 6A 带来了 Android 13 的最新 4.1 版本。该新版系统于上周一发布，当时仅限于 Pixel 4 到 Pixel 6 Pro 的 Pixel 设备。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国当地时间7月29日周五，半导体行业发生了一件颇具标志性意义的事件，即Intel的股票市值被AMD所超越。在周五股市收盘后，Intel市值为1480亿美元，而AMD为1530亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [文件显示雪莉·桑德伯格已于8月1日正式卸任Meta首席运营官一职](https://www.cnbeta.com/articles/tech/1299817.htm) | Tue Aug 02 2022 9:07 AM 
+- 💂 [研究发现人类大脑形状在过去16万年中几乎没有变化](https://www.cnbeta.com/articles/science/1299845.htm) | Tue Aug 02 2022 10:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据TechCrunch报道，&lt;strong&gt;Meta公司已经确认，其长期以来的首席运营官（COO）雪莉·桑德伯格（Sheryl Sandberg）已于昨天（8月1日）离职。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项研究发现，在过去的16万年里，&lt;strong&gt;人类颅骨物理变化可能是由饮食和生活方式变化导致的面部改变所驱动，而不是像以前认为的那样由大脑本身进化所驱动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [音集协“举刀”直播间BGM要收费](https://hot.cnbeta.com/articles/music/1299815.htm) | Tue Aug 02 2022 9:04 AM 
+- 🚀 [深度deepin官宣自研软件包格式“玲珑” 兼容所有Linux发行版](https://www.cnbeta.com/articles/tech/1299843.htm) | Tue Aug 02 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月26日，小琪打开B站虚拟主播的直播间，主播刚开播十几分钟，正在进行点歌预热环节。&lt;strong&gt;往常这个时候，正是直播间气氛最高涨的时候，粉丝点歌点得弹幕横飞，主播唱歌也没太多顾虑。但这一次，主播却显得很谨慎。&lt;/strong&gt;开启点播前，就一直叮嘱粉丝，尽量点日文歌和英文歌。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1299815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在昨天发布新的deepin 23的同时，深度官方就表示，将会陆续放出新版本的诸多&lt;a class=&quot;f14_link&quot; href=&quot;https://bbs.deepin.org/post/241097&quot; target=&quot;_blank&quot;&gt;全新特性&lt;/a&gt;。今天，&lt;strong&gt;我们就迎来了deepin 23的第一个新特性——由统信软件自研的开源软件包格式：“玲珑”的介绍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究发现党派观点存在生物学根源](https://www.cnbeta.com/articles/science/1299813.htm) | Tue Aug 02 2022 8:58 AM 
+- 🎊 [编程天才们即将因无人卡车对簿公堂](https://www.cnbeta.com/articles/tech/1299841.htm) | Tue Aug 02 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据一项新研究显示，在个人从事不同的活动或甚至什么都不做时通过大脑扫描可以准确地显示其是政治上的保守派还是自由派。&lt;/strong&gt;研究人员发现，扫描所显示的大脑中的“签名”在预测政治意识形态方面跟政治学研究中经常采用的最强有力的预测因素一样好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;爱，恨，无人车。擎天智卡，2021年11月创办的自动驾驶卡车公司，被业内明星独角兽小马智行以商业机密为由告上法庭，要求赔偿6000万元。其中，潘震皓、孙又晗均在被告之列。他们不仅是擎天智卡的核心创办者，也是小马智行和小马智卡卡车业务曾经的核心技术负责人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
