@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Tab Butler Beta - 为您服务的标签管理器](https://xinquji.com/posts/178383?utm_campaign=xinquji-rss) | Tue Aug 02 2022 6:20 AM 
+- 👀 [Writely AI - 用更少的时间写更多的内容](https://xinquji.com/posts/178406?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     为您服务的标签管理器  
+     用更少的时间写更多的内容  
     </details> 
 
-- 🥷 [UChat - 无需编码即可自动化您的业务](https://xinquji.com/posts/178382?utm_campaign=xinquji-rss) | Tue Aug 02 2022 6:18 AM 
+- 🥷 [So Cinema - 精心策划的影院，提升您的观影体验](https://xinquji.com/posts/178405?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     无需编码即可自动化您的业务  
+     精心策划的影院，提升您的观影体验  
     </details> 
 
-- 💼 [Polymath Robotics - 在 sim 中构建自动工业车辆](https://xinquji.com/posts/178381?utm_campaign=xinquji-rss) | Tue Aug 02 2022 6:17 AM 
+- 💼 [500+ Pro Pitch Decks by slidddo - 更轻松、更快地创建出色的演示文稿](https://xinquji.com/posts/178404?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     在 sim 中构建自动工业车辆  
+     更轻松、更快地创建出色的演示文稿  
     </details> 
 
-- 🦅 [Attribute - 了解您的客户如何发现您的品牌](https://xinquji.com/posts/178380?utm_campaign=xinquji-rss) | Tue Aug 02 2022 6:16 AM 
+- 🦅 [Coypot - 工资最低的远程公司远程工作机会](https://xinquji.com/posts/178403?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     了解您的客户如何发现您的品牌  
+     工资最低的远程公司远程工作机会  
     </details> 
 
-- 😺 [YOLOREKT - 基于区块链的短期预测市场平台](https://xinquji.com/posts/178379?utm_campaign=xinquji-rss) | Tue Aug 02 2022 6:15 AM 
+- 😺 [Threado - 社区建设者指挥中心](https://xinquji.com/posts/178402?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     基于区块链的短期预测市场平台  
+     社区建设者指挥中心  
     </details> 
 <!-- xinquji:END -->
