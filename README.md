@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Baseline Profiles 在 Compose 中的应用](https://juejin.cn/post/7127269954235138084) | Tue Aug 02 2022 1:28 PM 
+- 🤗 [MySQL的InnoDB和MyISAM存储引擎的区别](https://juejin.cn/post/7127279196811821070) | Tue Aug 02 2022 2:05 PM 
     <details><summary>展开描述 ...</summary> 
-    为什么需要 Baseline Profiles ？ 如下是官方使用 Baseline Profiles 在应用启动上提升的百分比，来自 《 Performance best practices for 
+    详细介绍了MySQL 的InnoDB和MyISAM存储引擎的区别。详细介绍了MySQL 的InnoDB和MyISAM存储引擎的区别。 
     </details> 
 
-- 🎡 [有趣的 Kotlin 0x0E：DeepRecursiveFunction](https://juejin.cn/post/7127268120602869790) | Tue Aug 02 2022 1:22 PM 
+- 🎡 [你需要知道的 12 个常用的 JavaScript 函数](https://juejin.cn/post/7127278574033174542) | Tue Aug 02 2022 2:01 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 DeepRecursiveFunction 是 Kotlin 在 1.4.0 版本上尝试解决深度递归导致 StackOverflowError 问题的试行方案。在最新发布的 1.7.0 版本上正 
+    本文收集了 12 个在日常开发中非常常用的函数，有些可能很复杂，有些可能很简单，但我相信或多或少会对大家都会有所帮助。 
     </details> 
 
-- 🕯 [聊聊 Java 的单元测试](https://juejin.cn/post/7127266800605069320) | Tue Aug 02 2022 1:15 PM 
+- 🕯 [[数学：浪漫的相遇]  剑指 Offer 52. 两个链表的第一个公共节点](https://juejin.cn/post/7127277855792168968) | Tue Aug 02 2022 1:59 PM 
     <details><summary>展开描述 ...</summary> 
-    单元测试框架 Java​ 中，​JUnit ​和 ​TestNG ​是最受欢迎的单元测试框架。 JUnit TestNG JUnit 首先是大名鼎鼎的 JUnit ，JUnit 已经成为 Java 应 
+    leetcode原题链接：https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof 难度： 
     </details> 
 
-- 🚀 [2022年，移动开发已经进入寒冬期，这年头谁还做移动开发呀，可我......](https://juejin.cn/post/7127265843745914911) | Tue Aug 02 2022 1:12 PM 
+- 🚀 [react笔记（四）—— 事件处理](https://juejin.cn/post/7127277986667036685) | Tue Aug 02 2022 1:58 PM 
     <details><summary>展开描述 ...</summary> 
-    随着市场行情的变化，移动应用开发已经是后半场，几年前炙手可热的移动端程序员，如今却面临着僧多粥少的局面。移动端程序员的人才市场上，早已“供过于求&quot;，在以前一个稍微懂点安卓开发的实习生一个月都能拿七八千 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 前言 大家好呀，我是L同学。在上篇文章react笔记（三）—— 组件中，我们学习了react的组件介绍、创 
     </details> 
 
-- 💪 [resubmit 渐进式防重复提交框架简介](https://juejin.cn/post/7127264936295661604) | Tue Aug 02 2022 1:08 PM 
+- 💪 [JVM类加载与GC垃圾回收机制](https://juejin.cn/post/7127277636552032269) | Tue Aug 02 2022 1:57 PM 
     <details><summary>展开描述 ...</summary> 
-    resubmit resubmit 是一款为 java 设计的渐进式防止重复提交框架。 推荐阅读： 面试官：你们的项目中是怎么做防止重复提交的？ resubmit 渐进式防重复提交框架简介 创作目的  
+    本篇文章将介绍JVM运行时分区，类加载过程已经垃圾回收机制中的查找垃圾的算法和回收垃圾算法，了解常见的Java虚拟机。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
