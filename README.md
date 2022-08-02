@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[图]富士推全球最轻13.3吋笔记本WU-X/G 比12.9吋iPad Pro还轻](https://www.cnbeta.com/articles/tech/1299769.htm) | Tue Aug 02 2022 7:20 AM 
+- 🕯 [热门狼人杀游戏《我们之中》差点于2019年被取消](https://hot.cnbeta.com/articles/game/1299791.htm) | Tue Aug 02 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;富士（Fujitsu）近日悄然推出了全球最轻的笔记本--WU-X/G2，但遗憾的是该笔记本仅限日本地区发售。WU-X/G2 属于公司的 Lifebook 系列，在没有充电器的情况下机身整体重量为 634 克，约为 22.4 盎司/1.4 磅。这意味着这款商务笔记本比 12.9 英寸 iPad Pro（682 克）更轻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，热门太空狼人杀游戏《我们之中》开发商 Innersloth 的联合创始人 Marcus Bromander 在一个最新的采访中揭示了&lt;strong&gt;团队差点就彻底放弃了游戏，并且永远没有机会让《我们之中》成为一款现象级游戏，并最终成为流行文化中的一环。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299791.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [丰田顶级越野车新款陆巡将引入国内：最高或售170万](https://www.cnbeta.com/articles/tech/1299767.htm) | Tue Aug 02 2022 7:07 AM 
+- 💼 [AMD Zen4主板泄露天机 SSD真的要长胖了](https://www.cnbeta.com/articles/tech/1299787.htm) | Tue Aug 02 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新一代丰田兰德酷路泽（陆巡）已发布一年有余的时间，不过受制于国内严苛的排放法规限制，一直未能有确切进入我国内地市场销售的消息。近日，据汽车博主，专做平行进口车生意的博主@柴可夫斯基-平行进口车手册 透露，&lt;strong&gt;平行进口的新款陆地巡洋舰LC300环保公开了，开始准备通关交付，国六B的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD将于8月5日公开展示AMD Zen4锐龙7000系列处理器搭配的新主板，包括华擎、华硕、映泰、技嘉、微星五大品牌，代表型号均为X670E。微星提前泄露了新板子的部分核心规格，包括4个导热垫片、4个PCIe 5.0 M.2固态盘，以及M.2冰霜铠甲散热片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [业内消息称内存现货价格持续下跌](https://www.cnbeta.com/articles/tech/1299765.htm) | Tue Aug 02 2022 6:55 AM 
+- 💂 [铠侠将演示基于PCIe NVMe闪存的SEF软件定义存储解决方案](https://www.cnbeta.com/articles/tech/1299785.htm) | Tue Aug 02 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;集微网消息，内存模块制造商的消息人士称，随着价格跌幅扩大，内存现货价格继续下跌，主流8Gb DDR4 DRAM的现货价格跌幅已扩大至10%。&lt;/strong&gt;据《电子时报》报道，消息人士指出，由于DRAM现货价格仍呈下降趋势，预计第三季度的合同价格将大幅下跌。另外NAND闪存的供过于求比DRAM芯片更为严重。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;为支持 Linux 基金会的 Software-Enabled Flash 开源项目，铠侠美国公司今日宣布了基于 PCIe 和 NVMe 技术的创新软件定义技术和演示硬件。&lt;/strong&gt;TechPowerUp 指出，这项技术能够将闪存存储与传统机械硬盘（HDD）协议完全分离，以便充分发挥闪存这一存储介质的性能潜力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Windows端Xbox新预览版发布：修复游戏启动、Cloud Gaming缓慢/卡死等问题](https://www.cnbeta.com/articles/tech/1299763.htm) | Tue Aug 02 2022 6:55 AM 
+- 🚀 [特斯拉二季度欧洲销量减半 市场份额下滑超50%](https://www.cnbeta.com/articles/tech/1299781.htm) | Tue Aug 02 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;本周一晚间，适用于 Windows 的 Xbox（Preview）应用升至 2208.1001.11.0 版本。&lt;/strong&gt;本次更新修复了该应用的多处 BUG，让其更加实用。对于 EA 公司的游戏，本次更新修复了启动游戏方面的问题。本次更新还修复了启用 Cloud Gaming 缓慢或者卡死的问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉发布第二季度财报时没有提供各主要市场的汽车销量数据，&lt;strong&gt;不过目前该公司欧洲市场6月的最终和完整数据已经披露。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Sabrent推出Rocket 4 Plus G游戏SSD：喜迎DirectStorage](https://www.cnbeta.com/articles/tech/1299761.htm) | Tue Aug 02 2022 6:53 AM 
+- 🎊 [我国南海和东海近岸海域发现2个海蛾鱼新种](https://www.cnbeta.com/articles/science/1299779.htm) | Tue Aug 02 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管 Windows 11 操作系统已经集成了对 DirectStorage API 的支持，且早期基准测试表明它可彻底革新 PC 和主机平台的游戏体验。但首款支持该功能的《Forspoken》游戏，已被 Square Enix 推迟到 2023 年。&lt;strong&gt;即便如此，Sabrent 还是发布了面向游戏玩家的 Rocket 4 Plus G 系列 PCIe 4.0 NVMe SSD 新品。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，&lt;strong&gt;中国科学院南海海洋研究所研究员林强团队在海龙目鱼类资源与分类领域取得研究新进展。&lt;/strong&gt;他们基于近岸海龙目鱼类资源调查和系统分类研究，在我国南海和东海近岸海域发现2个海蛾鱼新种，分别命名为南海海蛾鱼（Spinipegasus nanhaiensis sp. nov.）和中华海蛾鱼（Pegasus sinensis sp. nov.）。相关成果相继发表于《动物分类学》《动物学研究》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
