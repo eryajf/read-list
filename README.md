@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [开发团队菜得一批，是不是该提桶跑路啊？](https://www.v2ex.com/t/870206#reply2) | Tue Aug 02 2022 6:20 AM
-- 🤗 [七夕节送礼物随感而发](https://www.v2ex.com/t/870198#reply3) | Tue Aug 02 2022 5:54 AM
-- 🎭 [阿里云发邮件通知未实名域名禁止续费](https://www.v2ex.com/t/870197#reply5) | Tue Aug 02 2022 5:52 AM
-- 🥷 [关于 IDEA 的编译问题](https://www.v2ex.com/t/870196#reply2) | Tue Aug 02 2022 5:50 AM
-- 🐵 [今天晚上有人会在线看直播吗？](https://www.v2ex.com/t/870195#reply2) | Tue Aug 02 2022 5:47 AM<!-- v2ex:END -->
+- 🥸 [Python 代理问题， requests 自带的 proxies 参数会导致请求失败](https://www.v2ex.com/t/870229#reply1) | Tue Aug 02 2022 7:11 AM
+- 🤗 [好代码的五个特质 - CUPID](https://www.v2ex.com/t/870226#reply0) | Tue Aug 02 2022 7:06 AM
+- 🎭 [即时通讯场景下安全合规的实践和经验](https://www.v2ex.com/t/870224#reply0) | Tue Aug 02 2022 6:57 AM
+- 🥷 [国内安卓机/生态是不是越来垃圾了](https://www.v2ex.com/t/870218#reply15) | Tue Aug 02 2022 6:47 AM
+- 🐵 [Python GUI 自动化框架 Clicknium](https://www.v2ex.com/t/870217#reply0) | Tue Aug 02 2022 6:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
