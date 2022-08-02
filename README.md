@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [App+1 | OCR 录入、金字塔减糖，HiWater 想成为你的喝水管家](https://sspai.com/post/74956) | Tue Aug 02 2022 7:55 AM 
+- 👹 [距离新 iPhone 不到两个月，为什么我买了一台 iPhone 13 mini](https://sspai.com/post/74960) | Tue Aug 02 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74960&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [App+1 | OCR 录入、金字塔减糖，HiWater 想成为你的喝水管家](https://sspai.com/post/74956) | Tue Aug 02 2022 7:55 AM 
     <details><summary>展开描述 ...</summary> 
     「记录」这件事就是非常有威力，它会把注意力之外的小细节收集起来，给予一种确实发生但又意料之外的生活视角。比如如果不是记账，我不知道原来每个月会支出那么多零零碎碎的「拿铁因子」；如果不是HiWater， ...&lt;a href=&quot;https://sspai.com/post/74956&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [在小宇宙收听播客 200 小时后，我体会到了播客的魅力](https://sspai.com/post/74915) | Tue Aug 02 2022 6:10 AM 
+- 🤭 [在小宇宙收听播客 200 小时后，我体会到了播客的魅力](https://sspai.com/post/74915) | Tue Aug 02 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
     从听众的角度一直作为消费者去收听内容有一种乐趣；而投入自己的时间站在生产者的角度去创作播客，也许能体会到更不一样的感受，看待播客的视角也会有新的发现。&lt;a href=&quot;https://sspai.com/post/74915&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：微信上线视频号「个人专栏」、小米发布米家眼镜相机等](https://sspai.com/post/74953) | Tue Aug 02 2022 12:49 AM 
+- 🥸 [派早报：微信上线视频号「个人专栏」、小米发布米家眼镜相机等](https://sspai.com/post/74953) | Tue Aug 02 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
     微软宣布在《我的世界》中重现古城堡，百度快照功能疑似下线等。&lt;a href=&quot;https://sspai.com/post/74953&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/74943) | Mon Aug 01 2022 9:41 AM 
+- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/74943) | Mon Aug 01 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/74943&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [在录音之前你需要知道的事](https://sspai.com/prime/story/sr-06-01) | Mon Aug 01 2022 8:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    对待声音，我们要有敬畏之心，也要充满仪式感。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/sr-06-01&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/SR-06&quot; target=&quot;_blank&quot;&gt;《录音入门指南》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
