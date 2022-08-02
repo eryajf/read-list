@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [乐高雅达利2600复古游戏主机积木套装现已上市](https://hot.cnbeta.com/articles/game/1299703.htm) | Tue Aug 02 2022 5:30 AM 
+- 🕯 [中消协点名商家使用预制菜未告知、运营商设置转网障碍等](https://www.cnbeta.com/articles/tech/1299735.htm) | Tue Aug 02 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;为了庆祝雅达利成立 50 周年，玩具制造商乐高也赶在 8 月 1 日正式带来了“Atari 2600 复古游戏主机”积木套装的完整体验。&lt;/strong&gt;如早前预告的那样，套装中包含了实体摇杆和硕大的游戏卡带等组件。且组装完成后，其高度将超过 3 英寸。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据全国消协组织受理投诉情况统计，2022年上半年，全国消协组织共受理消费者投诉551,780件，同比增长5.71%，解决449,786件，投诉解决率81.52%,为消费者挽回经济损失73,863万元。其中，因经营者有欺诈行为得到加倍赔偿的投诉8,456件，加倍赔偿金额215万元。接待消费者来访和咨询76.6万人次。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新研究揭示了120亿年前星系周围的暗物质分布情况](https://www.cnbeta.com/articles/science/1299701.htm) | Tue Aug 02 2022 5:27 AM 
+- 💼 [反腐风暴叠加企业倒闭，芯片行业挤泡沫](https://www.cnbeta.com/articles/tech/1299733.htm) | Tue Aug 02 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;科学家们调查了120亿年前的星系周围暗物质的性质，这些星系比以往任何时候都更久远。他们的发现提供了一种诱人的可能性，即在研究我们宇宙的早期历史时宇宙学的基本规则可能有所不同。这项合作由日本名古屋大学的科学家领导，研究结果已于日前发表在《Physical Review Letters》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;过去一周，2家半导体企业宣布破产，5位芯片产业重要人物陆续被查，美国也收紧了对中国获取芯片制造设备的限制，股价低迷，都在预示着国内芯片产业正面临新的洗牌。近日，对标高通的国产通信芯片设计公司“诺领科技”已被证实破产倒闭，此前曾完成2亿元B轮融资，如今拖欠着员工两个月的工资。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [CXL将融合OpenCAPI并主导CPU设备互连标准](https://www.cnbeta.com/articles/tech/1299699.htm) | Tue Aug 02 2022 4:55 AM 
+- 💂 [研究：将我们的记忆力“外包”给数字设备实际上可能是有益的](https://www.cnbeta.com/articles/science/1299731.htm) | Tue Aug 02 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;定于本周召开的 2022 闪存峰会，似乎也成为了 I/O 互连标准的一个重要讨论场。&lt;strong&gt;由周一的 OpenCAPI 公告可知，其将与 CXL 组织实现更深度的融合。&lt;/strong&gt;集成后，已被几乎所有主要制造商支持的 CXL，将继续主导 CPU 与设备之间的互连标准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，离开手机，你还记得多少人的手机号码?或者说，你曾经记住的所有这些零碎信息都转移到了智能手机等数字设备上？有些人认为，这种将我们的记忆“外包”的做法正在损害我们正确记忆任何东西的能力，但一项新研究表明，情况并非如此。&lt;strong&gt;使用数字设备来记忆一些东西，实际上可能会释放我们的大脑，使其在整体上记住更多的东西。&lt;/strong&gt;当然，除非我们丢失了我们的智能手机......&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Valve公布7月Steam软硬件报告：Linux玩家占比增至1.23%](https://hot.cnbeta.com/articles/game/1299697.htm) | Tue Aug 02 2022 4:42 AM 
+- 🚀 [功耗仅有92W的Intel Arc A380入门显卡用上豪华水冷](https://www.cnbeta.com/articles/tech/1299729.htm) | Tue Aug 02 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据 Valve 公布的 7 月 Steam 软硬件调查报告，使用 Linux 发行版本进行游戏的玩家占比达到了 1.23%，相比较 6 月的 1.18%，增幅为 0.05%。这一方面归功于 Valve 加大了对 Linux 平台的投资力度，而另一方面则是近期发售的 Steam Deck。其他方面，Windows 依然是最受玩家欢迎的系统，占比达到了 97.03%，而 macOS 占比为 1.74%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel第一款桌面级独立显卡Arc A380是标标准准的入门级产品，就连AMD RX 6400都打不过，但你能想象吗？就是这样的“亮机卡”，也有了水冷……水冷散热专业户Bykski就带来了这么一款“&lt;a class=&quot;f14_link&quot; href=&quot;https://www.bykski.com/page133?product_id=5546&quot; target=&quot;_blank&quot;&gt;I-GNA380-X GPU BLOCK&lt;/a&gt;”，&lt;strong&gt;专为蓝戟的Arc A380 Photon OC定制，这也是迄今唯一零售上市的Arc A380显卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [诞生于1984年的STC Executel 揭示了智能手机最初的样子](https://www.cnbeta.com/articles/tech/1299695.htm) | Tue Aug 02 2022 4:33 AM 
+- 🎊 [将于2023年上市 现代IONIQ 5 N最新谍照曝光](https://www.cnbeta.com/articles/tech/1299727.htm) | Tue Aug 02 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管手机早在 1973 年就已经问世，但其体型却与当前的平板式全面屏造型相去深远，便携性更是无从谈起。此外尽管 IBM 在 1992 年制造了被誉为首款智能机的“Simon Personal Communicator”，&lt;strong&gt;但 Techmoan 在油管上分享的一段视频中指出，其历史应该可以追溯到更早的 1984 年。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，我们获悉，现代IONIQ 5 N最新谍照。&lt;/strong&gt;据了解，新车将基于E-GMP纯电平台打造而成，定位纯电高性能SUV，将在2023年上市。外观方面，从最新的谍照来看，新车沿用普通版车型的设计，预计将采用封闭式前格栅搭配两侧的大灯组形成一体化的布局，匹配贯穿式前包围的设计，整个车头看上去精致小巧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
