@@ -348,7 +348,7 @@
     在线平台Zscaler安全专家发布了对Raccoon Stealer恶意软件新变种的分析。 
     </details> 
 
-- 🪄 [研究发现，攻击者能利用Chromium浏览器书签同步功能数据泄露](https://www.freebuf.com/news/340801.html) | Tue Aug 02 2022 3:20 AM 
+- 🪄 [研究发现，攻击者能利用Chromium浏览器书签同步功能泄露数据](https://www.freebuf.com/news/340801.html) | Tue Aug 02 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
     书签可以被滥用来从企业环境中吸走大量被盗数据，或者在几乎不会被发现的情况下从中部署攻击工具和恶意有效载荷。 
     </details> 
