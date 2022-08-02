@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [EA已经在为其FIFA结束合作之后的未来做准备](https://hot.cnbeta.com/articles/game/1299933.htm) | Tue Aug 02 2022 2:07 PM 
+- 🕯 [Apple Watch Edition高端型号在Series 8发布前已经售完](https://www.cnbeta.com/articles/tech/1299941.htm) | Tue Aug 02 2022 4:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;就在Apple Watch Series 8阵容公布前几周，Apple Watch Edition型号，也就是价格最高的定制材质款开始售罄。在美国、加拿大、英国和其他一些国家的苹果在线商店中，有几款采用钛金属外壳的高端Apple Watch Series 7型号被列为&amp;quot;目前不可用&amp;quot;。在美国，41毫米型号的供应目前最为匮乏，但一些45毫米型号也缺货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [MarqVision通过人工智能驱动的知识产权保护平台来抓捕造假者](https://www.cnbeta.com/articles/tech/1299939.htm) | Tue Aug 02 2022 3:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;截至2020年，服装行业因假货而损失了约270亿美元的年销售额，这种非法贸易给品牌和买家都带来了巨大损失。&lt;/strong&gt;根据2022年知识产权犯罪威胁评估报告，衣服、配件和奢侈品是最受欢迎的造假产品项目。但这并不是问题的起点和终点：数字内容的爆炸性增长也导致了大量数字造假者的出现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [网约车开空调要加钱？平台：禁止网约车收空调附加费](https://www.cnbeta.com/articles/tech/1299937.htm) | Tue Aug 02 2022 3:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月2日消息，据央视财经频道报道，最近个别消费者在乘坐网约出租车时，被司机以“成本太高”为由拒绝开空调。对此，网约车平台方明确表示，&lt;strong&gt;司机应配合乘客开关空调，禁止以“空调费”等各种名义向乘客多收附加费或拒载乘客&lt;/strong&gt;，而对于违反相关标准的司机，在服务分数和派单上都有一定的惩罚措施。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [茅台丁雄军：70多年存了几十万吨基酒 价值万亿](https://www.cnbeta.com/articles/tech/1299935.htm) | Tue Aug 02 2022 3:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;由于独特的定位，茅台公司不仅是国内A股的一哥，茅台酒也是市场的风向标，一直很坚挺。今日，茅台董事长丁雄军在亚布力论坛天津峰会上透露，&lt;strong&gt;70多年来，茅台现在在酒库里存了几十万吨基酒，如果按照现在的市场价值计算，是好多万亿。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [EA已经在为其FIFA结束合作之后的未来做准备](https://hot.cnbeta.com/articles/game/1299933.htm) | Tue Aug 02 2022 2:07 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;FIFA 23还没有出来，但电子艺界（EA）已经在为其“后FIFA”的未来做准备。今天，出版商宣布了与西班牙西甲，也就是皇家马德里和巴塞罗那等标志性俱乐部所在的联盟达成了一项&amp;quot;独一无二的多年合作&amp;quot;，从2023-2024赛季开始，EA将成为该联赛的冠名赞助商。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [B站回应HR称用户是Loser：涉事面试官去年底已被劝退](https://www.cnbeta.com/articles/tech/1299931.htm) | Tue Aug 02 2022 2:02 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月2日消息，日前，博主@菠萝地海牛 一条旧微博被翻出来，&lt;strong&gt;B站HR称核心用户都是“生活里的Loser”。&lt;/strong&gt;今日晚间，就网传B站HR称核心用户都是Loser一事，B站回应：对该事件中的面试官言论非常气愤，经内部调查，&lt;strong&gt;该面试官去年底已被劝退，会吸取教训加强管理，感谢监督。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [兰博基尼对发展其电动汽车产品依然持观望态度](https://www.cnbeta.com/articles/tech/1299929.htm) | Tue Aug 02 2022 2:01 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;母公司大众集团之前表态会投资超过1000亿美元将电动汽车全面推向市场，但其超级跑车品牌兰博基尼却并没有出售相关车型的迹象。据兰博基尼首席执行官Stephan Winkelmann称，这家小众汽车制造商正在等待欧盟的指示，然后再决定是否全力投入电动汽车业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [微软将其收购的RiskIQ核心功能整合到Microsoft Defender中](https://www.cnbeta.com/articles/tech/1299927.htm) | Tue Aug 02 2022 1:50 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软今天为其Microsoft Defender安全平台增加了两项新功能：威胁情报和外部攻击面管理。这些功能是源于该公司对RiskIQ的收购，通过这次推出，微软现在将RiskIQ的一些核心功能带到了自己的安全平台上（同时RiskIQ也继续运营自己的服务）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [贾跃亭又找来6亿美元增资 FF股价盘前涨幅近20%](https://www.cnbeta.com/articles/tech/1299925.htm) | Tue Aug 02 2022 1:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月2日，法拉第未来（Faraday Future，以下简称“FF”）大股东FF Top Holding LLC （以下简称“FF Top”）与FF就可转换定期贷款融资正式签署非约束性投资意向书，本轮融资包括潜在金额最高达6亿美元的高级有担保可转换票据（“票据”）（“拟议融资”）。 &lt;br/&gt;&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
