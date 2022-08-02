@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [特别直播｜少数派会员第二季都有哪些「新意」？](https://sspai.com/post/74940) | Tue Aug 02 2022 3:30 AM 
+- 👹 [在小宇宙收听播客 200 小时后，我体会到了播客的魅力](https://sspai.com/post/74915) | Tue Aug 02 2022 6:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    从听众的角度一直作为消费者去收听内容有一种乐趣；而投入自己的时间站在生产者的角度去创作播客，也许能体会到更不一样的感受，看待播客的视角也会有新的发现。&lt;a href=&quot;https://sspai.com/post/74915&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [特别直播｜少数派会员第二季都有哪些「新意」？](https://sspai.com/post/74940) | Tue Aug 02 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，少数派会员第二季已经上线一周多了。在经历了第一季会员之后，我们希望在第二季会员给大家带来更多新鲜感。因此，不论你是第一季订阅过来的老会员，还是第二季才订阅的「小鲜肉」，相信大家都发现会员第二季 ...&lt;a href=&quot;https://sspai.com/post/74940&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：微信上线视频号「个人专栏」、小米发布米家眼镜相机等](https://sspai.com/post/74953) | Tue Aug 02 2022 12:49 AM 
+- 🤭 [派早报：微信上线视频号「个人专栏」、小米发布米家眼镜相机等](https://sspai.com/post/74953) | Tue Aug 02 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
     微软宣布在《我的世界》中重现古城堡，百度快照功能疑似下线等。&lt;a href=&quot;https://sspai.com/post/74953&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/74943) | Mon Aug 01 2022 9:41 AM 
+- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/74943) | Mon Aug 01 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/74943&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [在录音之前你需要知道的事](https://sspai.com/prime/story/sr-06-01) | Mon Aug 01 2022 8:40 AM 
+- 🙉 [在录音之前你需要知道的事](https://sspai.com/prime/story/sr-06-01) | Mon Aug 01 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
     对待声音，我们要有敬畏之心，也要充满仪式感。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/sr-06-01&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/SR-06&quot; target=&quot;_blank&quot;&gt;《录音入门指南》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [施救者会在心肺复苏过程中感染疾病吗](https://sspai.com/post/74931) | Mon Aug 01 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    近年来，我们越来越频繁的发现：「不明原因猝死」的人越来越多了。从光鲜亮丽的艺人，到日夜兼程的社畜，越来越多的年轻人提前走到了生命的尽头。之前LesliePan老师科已经科普了「猝死的相关知识」，并教大 ...&lt;a href=&quot;https://sspai.com/post/74931&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
