@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Writely AI - 用更少的时间写更多的内容](https://xinquji.com/posts/178406?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:26 AM 
+- 👀 [LINK - 与老朋友结交新朋友](https://xinquji.com/posts/178420?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     用更少的时间写更多的内容  
+     与老朋友结交新朋友  
     </details> 
 
-- 🥷 [So Cinema - 精心策划的影院，提升您的观影体验](https://xinquji.com/posts/178405?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:25 AM 
+- 🥷 [Guide for Project Managers - 为项目经理精心挑选的 300 多种资源](https://xinquji.com/posts/178419?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-     精心策划的影院，提升您的观影体验  
+     为项目经理精心挑选的 300 多种资源  
     </details> 
 
-- 💼 [500+ Pro Pitch Decks by slidddo - 更轻松、更快地创建出色的演示文稿](https://xinquji.com/posts/178404?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:24 AM 
+- 💼 [Voice Rhythm - 可视化你的声音](https://xinquji.com/posts/178418?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     更轻松、更快地创建出色的演示文稿  
+     可视化你的声音  
     </details> 
 
-- 🦅 [Coypot - 工资最低的远程公司远程工作机会](https://xinquji.com/posts/178403?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:23 AM 
+- 🦅 [Collab Spot - 任何网站的即时协作](https://xinquji.com/posts/178417?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     工资最低的远程公司远程工作机会  
+     任何网站的即时协作  
     </details> 
 
-- 😺 [Threado - 社区建设者指挥中心](https://xinquji.com/posts/178402?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:22 AM 
+- 😺 [Global Database Outreach - 在几秒钟内丰富您的潜在客户的个人资料](https://xinquji.com/posts/178416?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     社区建设者指挥中心  
+     在几秒钟内丰富您的潜在客户的个人资料  
     </details> 
 <!-- xinquji:END -->
