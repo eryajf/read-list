@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[图]和NBA球星德文·布克合作 限量版Beats Pill+音箱即将上架发售](https://www.cnbeta.com/articles/tech/1299691.htm) | Tue Aug 02 2022 3:58 AM 
+- 🕯 [乐高雅达利2600复古游戏主机积木套装现已上市](https://hot.cnbeta.com/articles/game/1299703.htm) | Tue Aug 02 2022 5:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年 1 月，Beats Pill+ 音箱从苹果和 Beats 官网下架，并宣告停产。不过现在通过和德文·布克（&lt;span class=&quot;highlight-style&quot;&gt;Devin Booker&lt;/span&gt;）及其 Book Projects 和合作，这款音响重新上架。&lt;strong&gt;Beats by Dre 官方发布推文，表示和 Book Project（NBA 球星 Devin Booker 的风投公司）合作，推出了定制版 Pill+ 音箱。该音箱的灵感来自于“索诺伦沙漠”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;为了庆祝雅达利成立 50 周年，玩具制造商乐高也赶在 8 月 1 日正式带来了“Atari 2600 复古游戏主机”积木套装的完整体验。&lt;/strong&gt;如早前预告的那样，套装中包含了实体摇杆和硕大的游戏卡带等组件。且组装完成后，其高度将超过 3 英寸。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [由工业废料制成的聚合物砖无需砂浆即可粘合在一起](https://www.cnbeta.com/articles/science/1299689.htm) | Tue Aug 02 2022 3:58 AM 
+- 💼 [新研究揭示了120亿年前星系周围的暗物质分布情况](https://www.cnbeta.com/articles/science/1299701.htm) | Tue Aug 02 2022 5:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，建筑业是最大的温室气体排放的最大来源之一，因此寻找新的材料和方法是一个重要目标。&lt;strong&gt;弗林德斯大学的研究人员现已开发出一种新型聚合物，由工业废料制成，可以形成建筑砖块，无需任何砂浆即可粘合在一起。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;科学家们调查了120亿年前的星系周围暗物质的性质，这些星系比以往任何时候都更久远。他们的发现提供了一种诱人的可能性，即在研究我们宇宙的早期历史时宇宙学的基本规则可能有所不同。这项合作由日本名古屋大学的科学家领导，研究结果已于日前发表在《Physical Review Letters》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [世嘉：Genesis Mini 2出货量仅有初代的十分之一](https://hot.cnbeta.com/articles/game/1299687.htm) | Tue Aug 02 2022 3:39 AM 
+- 💂 [CXL将融合OpenCAPI并主导CPU设备互连标准](https://www.cnbeta.com/articles/tech/1299699.htm) | Tue Aug 02 2022 4:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;世嘉（Sega）在今年早些时候推出了第一代 Genesis Mini 复古游戏主机继任型号--Genesis Mini 2。该复古掌机基于 Genesis Model 2，将预装超过 50 款复古游戏，原本计划于今年 7 月上市发售。不过近日在给国外媒体 Arc Technica 的声明中，&lt;strong&gt;世嘉的日本代表表示 Genesis Mini 2 原本计划仅在日本地区上市发售，不过最终决定也会在西方国家发售。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;定于本周召开的 2022 闪存峰会，似乎也成为了 I/O 互连标准的一个重要讨论场。&lt;strong&gt;由周一的 OpenCAPI 公告可知，其将与 CXL 组织实现更深度的融合。&lt;/strong&gt;集成后，已被几乎所有主要制造商支持的 CXL，将继续主导 CPU 与设备之间的互连标准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [庆祝NAND诞生35周年：铠侠放出2022闪存峰会活动预告](https://www.cnbeta.com/articles/tech/1299685.htm) | Tue Aug 02 2022 3:36 AM 
+- 🚀 [Valve公布7月Steam软硬件报告：Linux玩家占比增至1.23%](https://hot.cnbeta.com/articles/game/1299697.htm) | Tue Aug 02 2022 4:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在本周举办的闪存峰会暨博览会（FMS 2022）上，&lt;strong&gt;铠侠（Kioxia）美国公司将与整个行业共同庆祝一个重要的里程碑 —— NAND 闪存发明 35 周年纪念。&lt;/strong&gt;据悉，东芝（Toshiba）在 1987 年发明了这项开创性的技术。而从东芝正式剥离出来的铠侠，也在继续着眼于未来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据 Valve 公布的 7 月 Steam 软硬件调查报告，使用 Linux 发行版本进行游戏的玩家占比达到了 1.23%，相比较 6 月的 1.18%，增幅为 0.05%。这一方面归功于 Valve 加大了对 Linux 平台的投资力度，而另一方面则是近期发售的 Steam Deck。其他方面，Windows 依然是最受玩家欢迎的系统，占比达到了 97.03%，而 macOS 占比为 1.74%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [首款国产新冠口服药在河南平顶山投产：5天左右清除病毒](https://www.cnbeta.com/articles/tech/1299683.htm) | Tue Aug 02 2022 3:33 AM 
+- 🎊 [诞生于1984年的STC Executel 揭示了智能手机最初的样子](https://www.cnbeta.com/articles/tech/1299695.htm) | Tue Aug 02 2022 4:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;首款国产新冠口服药来了！据顶端新闻报道，&lt;strong&gt;8月2日上午，用于新冠病毒肺炎适应症的阿兹夫定片投产仪式，在河南平顶山市城乡一体化示范区河南真实生物科技有限公司内举行。&lt;/strong&gt;据悉，在7月25日，国家药监局已应急附条件批准河南真实生物科技有限公司阿兹夫定片增加新冠肺炎治疗适应症注册申请，&lt;strong&gt;本品是我国自主研发的口服小分子新冠病毒肺炎治疗药物。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管手机早在 1973 年就已经问世，但其体型却与当前的平板式全面屏造型相去深远，便携性更是无从谈起。此外尽管 IBM 在 1992 年制造了被誉为首款智能机的“Simon Personal Communicator”，&lt;strong&gt;但 Techmoan 在油管上分享的一段视频中指出，其历史应该可以追溯到更早的 1984 年。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
