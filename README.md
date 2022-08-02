@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [js 通过 Object.defineProperty&lpar;&rpar; 定义与控制对象的属性](https://juejin.cn/post/7127290954653892622) | Tue Aug 02 2022 2:51 PM 
+- 🤗 [Redis RDB与AOF持久化详解](https://juejin.cn/post/7127310071100342286) | Tue Aug 02 2022 4:05 PM 
     <details><summary>展开描述 ...</summary> 
-    打牢 js 基础是十分必要的，今天就来看看如何用Object.defineProperty&lpar;&rpar; 给一个对象定义一个新属性或是修改某个现有属性吧~ 
+    Redis的数据是全部存储在内存中的，如果机器突然宕机，那么数据就会全部丢失，因此需要有持久化机制来保证数据不会因为宕机而丢失。Redis 为我们提供了两种持久化方案，一种是基于快照的 RDB，另外一 
     </details> 
 
-- 🎡 [elementui源码学习之仿写一个el-divider](https://juejin.cn/post/7127289083608432671) | Tue Aug 02 2022 2:42 PM 
+- 🎡 [python 一行代码打印爱心](https://juejin.cn/post/7127310366794579998) | Tue Aug 02 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
-    组件需求分析 关于分割线的组件，一般使用的场景有： 分割线之水平分割（如：段落与段落之间分隔） 水平分割线加上文字描述（文字描述位置一般是位于分割线的左侧、居中、右侧） 分割类型之垂直分割（横向的行内 
+    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 1. 先放代码 2. 语法讲解 2.1 代码逻辑梳理 首先，为了更清晰的分析上面一行代码的逻辑关系，我们将其拆解成下面一个逻辑上更直观 
     </details> 
 
-- 🕯 [LeetCode 二叉搜索树系列 ～ 二叉搜索树中的搜索](https://juejin.cn/post/7127288800874594335) | Tue Aug 02 2022 2:41 PM 
+- 🕯 [Go 中的 select 语句](https://juejin.cn/post/7127308613164466213) | Tue Aug 02 2022 3:58 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 LeetCode 二叉搜索树系列 ～ 二叉搜索树中的搜索 
+    用法 多个通道 Channel 中信息的发送和接受处理的专用的语句—select 语句。select 语句会阻塞，直到其中的一个发送/接收操作准备好。select 语句和 switch 语句有点相似， 
     </details> 
 
-- 🚀 [Python&lpar;七&rpar;——字符串和列表的详细使用](https://juejin.cn/post/7127287110171623461) | Tue Aug 02 2022 2:34 PM 
+- 🚀 [Go语言 fmt.Printf 格式输出](https://juejin.cn/post/7127305094273433613) | Tue Aug 02 2022 3:45 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 方式一：将两个字符串常量紧挨在一起，打印时会拼接起来 执行结果：这种方式只适用于字符串常量的拼接 方式二： 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 Go语言 fmt.Printf 格式输出 通用占位符 占位符 说明 %v 值的默认格式表示 %+v 类似% 
     </details> 
 
-- 💪 [手把手教你定位线上MySQL慢查询问题，包教包会](https://juejin.cn/post/7127285434522009637) | Tue Aug 02 2022 2:27 PM 
+- 💪 [Jenkins + Docker + Github 实现自动化部署 Maven 项目](https://juejin.cn/post/7127302949797101604) | Tue Aug 02 2022 3:36 PM 
     <details><summary>展开描述 ...</summary> 
-    慢查询日志默认不开启，建议手动开启，方便我们定位线上问题。 执行时间超过阈值的SQL会被写入到慢查询日志当中，这样可以帮助我们记录执行时间过长的SQL语句，定位线上慢SQL问题，方便我们进行SQL性能 
+    Jenkins + Docker + Github 实现自动化部署 Maven 项目，通过一步步的操作，学会如何简单的使用 jenkins 自动化部署后端项目 
     </details> 
 <!-- juejin:END -->
 ### 少数派
