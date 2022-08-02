@@ -338,24 +338,24 @@
     ALPHV勒索软件团伙，又名BlackCat，宣布对Creos卢森堡公司的网络攻击事件负责。 
     </details> 
 
-- 🦄 [研究发现，攻击者能利用Chromium浏览器书签同步功能数据泄露](https://www.freebuf.com/news/340801.html) | Tue Aug 02 2022 3:20 AM 
+- 🦄 [超3200个应用程序泄露了 Twitter API 密钥](https://www.freebuf.com/news/340817.html) | Tue Aug 02 2022 5:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    网络安全研究人员发现一组异常的移动应用程序，这些应用程序向民众公开了 Twitter API 密钥。 
+    </details> 
+
+- 🦅 [恶意软件Raccoon升级，窃取密码效率将大大提高](https://www.freebuf.com/news/340813.html) | Tue Aug 02 2022 5:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    在线平台Zscaler安全专家发布了对Raccoon Stealer恶意软件新变种的分析。 
+    </details> 
+
+- 🪄 [研究发现，攻击者能利用Chromium浏览器书签同步功能数据泄露](https://www.freebuf.com/news/340801.html) | Tue Aug 02 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
     书签可以被滥用来从企业环境中吸走大量被盗数据，或者在几乎不会被发现的情况下从中部署攻击工具和恶意有效载荷。 
     </details> 
 
-- 🦅 [窃密恶意软件Raccoon最新样本Stealer v2分析](https://www.freebuf.com/articles/network/340797.html) | Tue Aug 02 2022 3:02 AM 
+- 💻 [窃密恶意软件Raccoon最新样本Stealer v2分析](https://www.freebuf.com/articles/network/340797.html) | Tue Aug 02 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     Raccoon 是一个信息窃密恶意软件，能够从浏览器窃取例如密码、Cookie 和自动填充数据等隐私信息。 
-    </details> 
-
-- 🪄 [FreeBuf早报 | 上半年全国网络执法工作取得明显成效；美国众议院通过《勒索软件法案》](https://www.freebuf.com/news/340733.html) | Mon Aug 01 2022 7:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    2022年上半年，全国网信系统持续加大网络执法力度、规范网络执法行为，坚决依法查处各类违法违规案件，取得明显成效。 
-    </details> 
-
-- 💻 [MBDA疑似被入侵，攻击者声称获取机密](https://www.freebuf.com/news/340722.html) | Mon Aug 01 2022 6:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    一个名为Adrastea的攻击组织声称已经入侵了跨国导弹制造商 MBDA。 
     </details> 
 <!-- freebuf:END -->
 
