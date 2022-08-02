@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751275) | Mon Aug 01 2022 12:27 AM
-- 🐻 [空气炸锅为什么一滴油就可以炸东西？](http://daily.zhihu.com/story/9751253) | Mon Aug 01 2022 12:27 AM
-- 🌏 [在《沉默的羔羊》中，汉尼拔听完史达琳幼年农场经历后，为什么流了眼泪？](http://daily.zhihu.com/story/9751261) | Mon Aug 01 2022 12:27 AM
-- 🕴 [挫折教育对于孩子来说是必要的吗？](http://daily.zhihu.com/story/9751271) | Mon Aug 01 2022 12:27 AM
-- 🌮 [液滴（如雨水）在整个下降过程中的形状如何变化？](http://daily.zhihu.com/story/9751273) | Mon Aug 01 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751303) | Tue Aug 02 2022 12:27 AM
+- 🐻 [《崩坏》系列包括《星穹铁道》的宇宙世界观是怎样的？](http://daily.zhihu.com/story/9751283) | Tue Aug 02 2022 12:27 AM
+- 🌏 [马上要进入律所的实习律师需要注意哪些方面？](http://daily.zhihu.com/story/9751289) | Tue Aug 02 2022 12:27 AM
+- 🕴 [耳机中的「空间感」是如何实现的？](http://daily.zhihu.com/story/9751296) | Tue Aug 02 2022 12:27 AM
+- 🌮 [有什么在家也能吃出花的极简食材？](http://daily.zhihu.com/story/9751301) | Tue Aug 02 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
