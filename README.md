@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [主机力推xCloud云游戏服务一年暴涨1800% 未来将跨更多平台](https://hot.cnbeta.com/articles/game/1299849.htm) | Tue Aug 02 2022 10:10 AM 
+- 🕯 [谷歌Pixel 6a漏洞未修复：屏幕指纹识别不可靠问题依然存在](https://www.cnbeta.com/articles/tech/1299881.htm) | Tue Aug 02 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在周一发表于 Xbox 官方油管账号的一段视频中，两位 xCloud 领导人探讨了该公司云游戏平台的最新增强和功能更新。&lt;/strong&gt;微软 xCloud 平台副总裁 Kevin LaChapelle 表示 —— Xbox 云游戏已经取得了长足进步。仅在过去一年，该服务就迎来了高达 1800% 的业务增长。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1299849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，谷歌为Pixel 6a推送安全补丁更新。经博主Ranjit实测，此前谷歌Pixel 6a存在的指纹漏洞仍未修复，更不更新没有太大区别。Ranjit表示，&lt;strong&gt;谷歌Pixel 6a更新之后，左手拇指仍然能解锁手机，而这台手机仅仅录入了他右手拇指的指纹信息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD市值超越Intel 一个新时代的开端](https://www.cnbeta.com/articles/tech/1299847.htm) | Tue Aug 02 2022 10:06 AM 
+- 💼 [张朝阳：人不应该退休 应该活到老干到老](https://www.cnbeta.com/articles/tech/1299879.htm) | Tue Aug 02 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国当地时间7月29日周五，半导体行业发生了一件颇具标志性意义的事件，即Intel的股票市值被AMD所超越。在周五股市收盘后，Intel市值为1480亿美元，而AMD为1530亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，搜狐创始人张朝阳和新东方俞敏洪在访谈节目《星空下的对话》中，回答了“年轻人卷不动了，想退休怎么办？”的问题。张朝阳表示，&lt;strong&gt;首先人不应该退休，人应该是活到老就干到老，&lt;/strong&gt;如果是为了养家糊口的生存必须来干这份工作，现在卷不动了可以换一换，但换也要换能继续养家糊口的工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究发现人类大脑形状在过去16万年中几乎没有变化](https://www.cnbeta.com/articles/science/1299845.htm) | Tue Aug 02 2022 10:05 AM 
+- 💂 [西班牙愿给830亿元补贴也建不起5nm芯片厂](https://www.cnbeta.com/articles/tech/1299877.htm) | Tue Aug 02 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项研究发现，在过去的16万年里，&lt;strong&gt;人类颅骨物理变化可能是由饮食和生活方式变化导致的面部改变所驱动，而不是像以前认为的那样由大脑本身进化所驱动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1299845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;先进工艺的芯片厂已经是各国争夺的焦点，美国、日本、韩国及欧洲多国都想建立自己的工厂，甚至不惜给巨额补贴，然而就算是官方愿意给钱，也不是所有国家都能实现建厂的目标，西班牙现在就是如此。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [深度deepin官宣自研软件包格式“玲珑” 兼容所有Linux发行版](https://www.cnbeta.com/articles/tech/1299843.htm) | Tue Aug 02 2022 10:03 AM 
+- 🚀 [《迪迦奥特曼》大古演员长野博新冠确诊 准备接受治疗](https://hot.cnbeta.com/articles/comic/1299875.htm) | Tue Aug 02 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在昨天发布新的deepin 23的同时，深度官方就表示，将会陆续放出新版本的诸多&lt;a class=&quot;f14_link&quot; href=&quot;https://bbs.deepin.org/post/241097&quot; target=&quot;_blank&quot;&gt;全新特性&lt;/a&gt;。今天，&lt;strong&gt;我们就迎来了deepin 23的第一个新特性——由统信软件自研的开源软件包格式：“玲珑”的介绍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据所属社杰尼斯消息，&lt;strong&gt;V6组合成员、曾在《迪迦奥特曼》中饰演大古的演员长野博确诊新冠。&lt;/strong&gt;官方表示，在今日定期进行的PCR测试中，&lt;strong&gt;长野博得到了阳性的结果，但目前还没有任何症状。&lt;/strong&gt;长野博将在接下来的一定时间内，接受医疗护理和观察。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1299875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [编程天才们即将因无人卡车对簿公堂](https://www.cnbeta.com/articles/tech/1299841.htm) | Tue Aug 02 2022 9:53 AM 
+- 🎊 [第一次同时穿越长江/黄浦江：沪通铁路太仓至四团段全线开工](https://www.cnbeta.com/articles/tech/1299873.htm) | Tue Aug 02 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;爱，恨，无人车。擎天智卡，2021年11月创办的自动驾驶卡车公司，被业内明星独角兽小马智行以商业机密为由告上法庭，要求赔偿6000万元。其中，潘震皓、孙又晗均在被告之列。他们不仅是擎天智卡的核心创办者，也是小马智行和小马智卡卡车业务曾经的核心技术负责人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，上海至南通铁路&lpar;沪通铁路&rpar;太仓至四团段进入全线开工建设阶段。&lt;/strong&gt;此前，作为全线的控制性工程，&lt;strong&gt;吴淞口长江隧道&lt;/strong&gt;已经开工，盾构顺利始发掘进。这条隧道下穿长江口、黄浦江，为双洞单线水底隧道，&lt;strong&gt;是中国第一条穿越长江和黄浦江的铁路隧道、第一条软土地区客货共线铁路盾构隧道、第一条全封闭内衬的盾构法隧道。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
