@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/74943) | Mon Aug 01 2022 9:41 AM 
+- 👹 [派早报：微信上线视频号「个人专栏」、小米发布米家眼镜相机等](https://sspai.com/post/74953) | Tue Aug 02 2022 12:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    微软宣布在《我的世界》中重现古城堡，百度快照功能疑似下线等。&lt;a href=&quot;https://sspai.com/post/74953&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派评 | 近期值得关注的 App](https://sspai.com/post/74943) | Mon Aug 01 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/74943&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [在录音之前你需要知道的事](https://sspai.com/prime/story/sr-06-01) | Mon Aug 01 2022 8:40 AM 
+- 🤭 [在录音之前你需要知道的事](https://sspai.com/prime/story/sr-06-01) | Mon Aug 01 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
     对待声音，我们要有敬畏之心，也要充满仪式感。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/sr-06-01&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/SR-06&quot; target=&quot;_blank&quot;&gt;《录音入门指南》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [施救者会在心肺复苏过程中感染疾病吗](https://sspai.com/post/74931) | Mon Aug 01 2022 7:00 AM 
+- 🥸 [施救者会在心肺复苏过程中感染疾病吗](https://sspai.com/post/74931) | Mon Aug 01 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     近年来，我们越来越频繁的发现：「不明原因猝死」的人越来越多了。从光鲜亮丽的艺人，到日夜兼程的社畜，越来越多的年轻人提前走到了生命的尽头。之前LesliePan老师科已经科普了「猝死的相关知识」，并教大 ...&lt;a href=&quot;https://sspai.com/post/74931&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [还在苦恼如何寻找研究选题？不妨来试一试这个人工智能吧](https://sspai.com/post/74901) | Mon Aug 01 2022 3:30 AM 
+- 🙉 [还在苦恼如何寻找研究选题？不妨来试一试这个人工智能吧](https://sspai.com/post/74901) | Mon Aug 01 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     让 Elicit 在海量的研究文库里面，帮咱们寻找别人的研究成果，以便确定它们是不是有价值的真问题。&lt;a href=&quot;https://sspai.com/post/74901&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：AMD 市值再超英特尔，二季度智能手机出货量同比明显下降等](https://sspai.com/post/74917) | Mon Aug 01 2022 12:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可能错过的新鲜事AMD市值再次反超英特尔7月29日，即英特尔公布上一季度财报，表明未能实现利润预期的次日，其股价下跌近9%，市值收于1480亿美元。同日，AMD股价上涨超过3%，市值1530亿美元， ...&lt;a href=&quot;https://sspai.com/post/74917&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
