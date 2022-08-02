@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter 使用 json_serializable 解析 JSON 支持泛型](https://juejin.cn/post/7127206962915180574) | Tue Aug 02 2022 9:23 AM 
+- 🤗 [原生写switch开关，jsp页面与后端交互](https://juejin.cn/post/7127210749667049480) | Tue Aug 02 2022 9:37 AM 
     <details><summary>展开描述 ...</summary> 
-    这是我在 Flutter 中使用 json_serializable 解析 JSON 数据时处理泛型的实践经验，含真实接口案例说明 
+    效果如图： css html js 这是个前后端不分离的项目，可以选择用插件来写，也可以选择jQuery加css来实现，只要能达成效果就行 
     </details> 
 
-- 🎡 [Mysql那些最需要掌握的原理](https://juejin.cn/post/7127200844335972366) | Tue Aug 02 2022 8:59 AM 
+- 🎡 [AI全球气象预报模型；开源数据标注平台;『统计学习导论及R语言应用』Python版源码;『数学』自学路线图与资源；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7127210404245143582) | Tue Aug 02 2022 9:36 AM 
     <details><summary>展开描述 ...</summary> 
-    如何写好SQL？如何发现日常开发中慢SQL的问题？ 本文选取MySQL体系中核心内容，辅佐详细的核心模块及底层原理介绍，加入实战案例加深理解，以便于在后续开发中避免问题、发现问题、解决问题。 
+    ShowMeAI资讯日报 08-02 期，Gum编写炫酷的shell脚本、全球AI气象预报模型、CBIM医学图像分割框架、Diffgram开源数据标注平台、数学自学路线图、时间序列资源、前沿论文… 
     </details> 
 
-- 🕯 [Linux在线安装Mongodb](https://juejin.cn/post/7127198522603995149) | Tue Aug 02 2022 8:51 AM 
+- 🕯 [【七夕特辑】html+css 写一个情诗表白墙](https://juejin.cn/post/7127210046840111117) | Tue Aug 02 2022 9:35 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 1. 下载源码包 执行命令安装Mongodb所需依赖 下载源码包，官网地址：MongoDB 我这里选择li 
+    一年一度的七夕又要到了。想想去年是一个人过的七夕，没想到今年...还是一个人😭 虽然身为一个直男，可是也有追求浪漫的权利，所以有了这个项目 
     </details> 
 
-- 🚀 [【低代码系列之万物之初】重生之梦回Dreamweaver？](https://juejin.cn/post/7127197773014761486) | Tue Aug 02 2022 8:48 AM 
+- 🚀 [新系列文章内容有奖征集](https://juejin.cn/post/7127209370013663245) | Tue Aug 02 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
-    上期，简单了说了一下低代码平台的现状以及认识,有小伙伴说这不就是 Dreamweaver 吗？拖拉拽，生成代码。 
+    很高兴之前的专栏对一些朋友有帮助，我的看法是只要能帮到一个读者，那就是有价值的。 新系列文章，现在有几个方向上的选择 1、前端工程化方向 这有一个很致命的问题，写的难了，文章很长又难懂。写的简单了 
     </details> 
 
-- 💪 [Android 源码分析之Glide&lpar;图片Url加载&rpar;](https://juejin.cn/post/7127197158381617182) | Tue Aug 02 2022 8:45 AM 
+- 💪 [分布式事务综合案例分析](https://juejin.cn/post/7127208667123810317) | Tue Aug 02 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    Glide源码分析,简单分析Glide加载网络图.从Glide的配置到资源选择再到Url图片下载的一些列流程. 
+    本篇主要介绍了分布式事务综合案例，针对P2P业务中的不同场景案例，有不同的解决方案，进一步加强对分布式事务的理解。快来一起学习吧！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
