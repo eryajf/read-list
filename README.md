@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [记一次 .NET 某工控自动化控制系统 卡死分析](https://juejin.cn/post/7127203718436487205) | Tue Aug 02 2022 9:10 AM 
+- 🤗 [Flutter 使用 json_serializable 解析 JSON 支持泛型](https://juejin.cn/post/7127206962915180574) | Tue Aug 02 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
-    一：背景 1. 讲故事 前段时间遇到了好几起关于窗体程序的 进程加载锁 引发的 程序卡死 和 线程暴涨 问题，这种 dump 分析难度较大，主要涉及到 Windows操作系统 和 C++ 的基础知识， 
+    这是我在 Flutter 中使用 json_serializable 解析 JSON 数据时处理泛型的实践经验，含真实接口案例说明 
     </details> 
 
-- 🎡 [富文本插入字段](https://juejin.cn/post/7127203076871553055) | Tue Aug 02 2022 9:08 AM 
+- 🎡 [Mysql那些最需要掌握的原理](https://juejin.cn/post/7127200844335972366) | Tue Aug 02 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-    --- theme: smartblue --- ```js insertWord&lpar;btn&rpar; { // 获取textarea标签 const field = document.getElementsB 
+    如何写好SQL？如何发现日常开发中慢SQL的问题？ 本文选取MySQL体系中核心内容，辅佐详细的核心模块及底层原理介绍，加入实战案例加深理解，以便于在后续开发中避免问题、发现问题、解决问题。 
     </details> 
 
-- 🕯 [spark原理和实践——青训营笔记](https://juejin.cn/post/7127190490507657253) | Tue Aug 02 2022 8:19 AM 
+- 🕯 [Linux在线安装Mongodb](https://juejin.cn/post/7127198522603995149) | Tue Aug 02 2022 8:51 AM 
     <details><summary>展开描述 ...</summary> 
-    一、大数据处理引擎Spark介绍 1.大数据处理技术栈 大数据的特性，数据是海量的，数据源是丰富多样的，有消息，图片，音视频流，数据产生的非常快，需要快速处理，提高数据价值。 数据生成后，需要存储元数 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 1. 下载源码包 执行命令安装Mongodb所需依赖 下载源码包，官网地址：MongoDB 我这里选择li 
     </details> 
 
-- 🚀 [zabbix实现企业微信监控报警（七）](https://juejin.cn/post/7127182384767696926) | Tue Aug 02 2022 7:47 AM 
+- 🚀 [【低代码系列之万物之初】重生之梦回Dreamweaver？](https://juejin.cn/post/7127197773014761486) | Tue Aug 02 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 zabbix使用企业微信监控报警 1.注册企业微信 使用企业微信报警需要先注册企业微信 填写注册信息即可  
+    上期，简单了说了一下低代码平台的现状以及认识,有小伙伴说这不就是 Dreamweaver 吗？拖拉拽，生成代码。 
     </details> 
 
-- 💪 [React 状态管理：从现在开始拥抱redux-toolkit](https://juejin.cn/post/7127176987067547661) | Tue Aug 02 2022 7:26 AM 
+- 💪 [Android 源码分析之Glide&lpar;图片Url加载&rpar;](https://juejin.cn/post/7127197158381617182) | Tue Aug 02 2022 8:45 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 为什么是 redux-toolkit redux 被设计的非常灵活，这也带来了一些问题，例如如果我们直接使 
+    Glide源码分析,简单分析Glide加载网络图.从Glide的配置到资源选择再到Url图片下载的一些列流程. 
     </details> 
 <!-- juejin:END -->
 ### 少数派
