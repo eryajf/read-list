@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [YugabyteDB中最重要的9个新功能](https://juejin.cn/post/7127107090539085861) | Tue Aug 02 2022 2:55 AM 
+- 🤗 [面试官为啥总是喜欢问前端路由实现方式？](https://juejin.cn/post/7127143415879303204) | Tue Aug 02 2022 5:17 AM 
     <details><summary>展开描述 ...</summary> 
-    首页 数据管理 数据库 新技术论坛 作者：Karthik Ranganathan,InfoWorld 关于 技术专家剖析的新兴技术 YugabyteDB中最重要的9个新功能 YugabyteDB 2. 
+    前端面试过程中被问到如何实现前端路由，我们应该从哪些方面回答。如果让你自己实现前端路由，你又该怎么做？ 
     </details> 
 
-- 🎡 [Cloudflare Workers for Platforms旨在实现更加可编程的网络](https://juejin.cn/post/7127106707372654628) | Tue Aug 02 2022 2:54 AM 
+- 🎡 [【万字长文，满满干货】Vue3项目模版搭建封装](https://juejin.cn/post/7127130027992285197) | Tue Aug 02 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
-    首页 企业架构 无服务器计算 Cloudflare Workers for Platforms旨在实现更加可编程的网络 Cloudflare Workers for Platforms提供了一套工具和 
+    基于vue-cli二次封装的移动端框架，vue3 +vue-cli4 + webpack5 + 多入口打包 + 自动生成项目模版 + pinia + 数据持久化 + 路由动画 + axios二次封装。 
     </details> 
 
-- 🕯 [【算法】层数最深叶子节点的和（多语言实现）](https://juejin.cn/post/7127104851267289102) | Tue Aug 02 2022 2:47 AM 
+- 🕯 [「趣学前端」页面上吸顶的效果是怎么做到的](https://juejin.cn/post/7127124345167544334) | Tue Aug 02 2022 4:03 AM 
     <details><summary>展开描述 ...</summary> 
-    2235. 两整数相加： 给你一棵二叉树的根节点 root ，请你返回 层数最深的叶子节点的和 。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情。我身边一些非互联网技术从业的朋友，偶尔对我的工作表示兴趣。所以我开了一个趣学前端系列。 
     </details> 
 
-- 🚀 [干货|如何在海量文件系统中选择合适自己的文件系统](https://juejin.cn/post/7127104556328026148) | Tue Aug 02 2022 2:46 AM 
+- 🚀 [Vue DevUI 公开测试参考指南](https://juejin.cn/post/7127123905323466788) | Tue Aug 02 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
-    前段时间Gitee图床突然&quot;暴雷&quot;，导致许多写作者笔记、博客、网站等图片全部无法访问，一时间哀怨四起! 在日常业务开发中，文件存储无处不在，小到图片存储访问，大到svg、zip、视频、音频等文件上传下 
+    为了方便大家参与 Vue DevUI 1.0 版本的公测，我们特意准备了一份《Vue DevUI 公开测试参考指南》。 
     </details> 
 
-- 💪 [继承-基类和派生类的转化](https://juejin.cn/post/7127098636210700318) | Tue Aug 02 2022 2:23 AM 
+- 💪 [技术分享| 融合调度系统中的电子围栏功能说明](https://juejin.cn/post/7127121752571772959) | Tue Aug 02 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 .基类和派生类对象赋值转换 派生类对象&lpar;子类对象&rpar; 可以赋值给 基类的对象 / 基类的指针 / 基类的引用 
+    概述 融合调度系统中的电子围栏功能区别于传统意义上的电子围栏，该功能是在GPS定位的基础上实现的，用户可在地图上划定制定的范围，当携带快对讲终端设备进入或者离开这个特定的区域时，就会产生警报发送至调度 
     </details> 
 <!-- juejin:END -->
 ### 少数派
