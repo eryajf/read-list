@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [android studio 查看 native crash 配置 donotstrip， build 之后.so 文件大小没变。是姿势不对吗？](https://www.v2ex.com/t/870451#reply0) | Wed Aug 03 2022 8:36 AM
-- 🤗 [有什么较为通用的办法解决两个实体类传递相同参数?](https://www.v2ex.com/t/870449#reply14) | Wed Aug 03 2022 8:33 AM
-- 🎭 [求教， Excel 存储的题库，怎么快速生成题本和解析](https://www.v2ex.com/t/870445#reply7) | Wed Aug 03 2022 8:16 AM
-- 🥷 [Ubuntu 的系统更新是真的难用](https://www.v2ex.com/t/870439#reply1) | Wed Aug 03 2022 7:41 AM
-- 🐵 [有什么好的 Android 文件备份方法吗](https://www.v2ex.com/t/870436#reply2) | Wed Aug 03 2022 7:24 AM<!-- v2ex:END -->
+- 🥸 [gradle 拉依赖包，配置了两个仓库只去一个仓库里查找，怎么解？](https://www.v2ex.com/t/870483#reply0) | Wed Aug 03 2022 10:54 AM
+- 🤗 [运行 mariadb 出错 innodb=off](https://www.v2ex.com/t/870481#reply0) | Wed Aug 03 2022 10:35 AM
+- 🎭 [单身🐶的七夕都这么卷了么？](https://www.v2ex.com/t/870480#reply3) | Wed Aug 03 2022 10:29 AM
+- 🥷 [android studio 查看 native crash 配置 donotstrip， build 之后.so 文件大小没变。是姿势不对吗？](https://www.v2ex.com/t/870451#reply0) | Wed Aug 03 2022 8:36 AM
+- 🐵 [有什么较为通用的办法解决两个实体类传递相同参数?](https://www.v2ex.com/t/870449#reply14) | Wed Aug 03 2022 8:33 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
