@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你需要知道的 12 道 React 面试题](https://juejin.cn/post/7127614623531925518) | Wed Aug 03 2022 11:45 AM 
+- 🤗 [React报错之Can&#39;t perform a React state update on an unmounted component](https://juejin.cn/post/7127641652264452133) | Wed Aug 03 2022 1:30 PM 
     <details><summary>展开描述 ...</summary> 
-    React 是一个非常流行的框架，本文总结了 12 个非常常见的 React 面试题。如果你需要通过面试成为一名 React 开发人员，这篇文章会给你带来帮助！ 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天。 React报错之Can&#39;t perform a React state update on an unmounted co 
     </details> 
 
-- 🎡 [JS基础之事件循环机制探究](https://juejin.cn/post/7127614358955229220) | Wed Aug 03 2022 11:44 AM 
+- 🎡 [SpringBoot系列之xml传参与返回实战演练](https://juejin.cn/post/7127640912049471519) | Wed Aug 03 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
-    js是单线程非阻塞的脚本语言，单线程意味着在同一时间，只能做同一件事，所以js代码执行时只有一个主线程在执行。而非阻塞是指当代码需要进行一项异步任务（也就是不能及时获取结果，需要等待一 
+    最近在准备使用微信公众号来做个人站点的登录，发现微信的回调协议居然是xml格式的，之前使用json传输的较多，结果发现换成xml之后，好像并没有想象中的那么顺利，特此记录一下 
     </details> 
 
-- 🕯 [【LeetCode】1161. 二叉树最大层内元素和](https://juejin.cn/post/7127612699717926948) | Wed Aug 03 2022 11:37 AM 
+- 🕯 [极智开发 | 讲解 React 组件三大属性之二：props](https://juejin.cn/post/7127640140507250701) | Wed Aug 03 2022 1:25 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能力 
+    大家好，我是极智视界，本文讲解一下 React 组件三大属性之二：props。希望我的分享能对你的学习有一点帮助。 
     </details> 
 
-- 🚀 [无代码人工智能平台：成功的基石（Noogata）](https://juejin.cn/post/7127612176168124447) | Wed Aug 03 2022 11:35 AM 
+- 🚀 [Go编译原理系列7（Go源码调试）](https://juejin.cn/post/7127638222330396686) | Wed Aug 03 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
-    随着公司寻求加速数字化转型，人工智能和机器学习自然而然地在其技术优先事项中排名靠前。 AI 和 ML 为处 
+    在前边几篇文章中分享了Go编译过程中的源码实现，本文主要是想分享一下我是怎么调试Go的源代码的（如果你很熟悉的话，可以跳过本文）。本文主要是分享两种Go源码的调试方法 
     </details> 
 
-- 💪 [Oracle数据同步的思考与优化-CloudCanal核心技术揭秘](https://juejin.cn/post/7127565962479894559) | Wed Aug 03 2022 8:36 AM 
+- 💪 [自己写 YOLOv4 模型实现&lpar;Pytorch 版本&rpar;&lpar;1&rpar;](https://juejin.cn/post/7127636780223823886) | Wed Aug 03 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
-    # 为什么我们要重构 Oracle 源端数据同步？ CloudCanal 早期版本即支持了 Oracle 数据库，围绕**结构迁移**、**全量迁移**、**增量同步**三个核心步骤，构建了以 Or 
+    选择有一个有代表网络结构，然后从头到尾实现了一遍这个网络结构，这样才会对这个网络结构有一个比较深印象。对于同类其他网络结构也会有感觉。带着这种想法今天就自己动手实现一个完整 YOLOv4 的网络。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
