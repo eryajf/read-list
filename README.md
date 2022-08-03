@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [LINK - 与老朋友结交新朋友](https://xinquji.com/posts/178420?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:45 AM 
+- 👀 [Insta360 Link - 人工智能驱动的 4K 网络摄像头，具有手势控制和隐私功能](https://xinquji.com/posts/178447?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     与老朋友结交新朋友  
+     人工智能驱动的 4K 网络摄像头，具有手势控制和隐私功能  
     </details> 
 
-- 🥷 [Guide for Project Managers - 为项目经理精心挑选的 300 多种资源](https://xinquji.com/posts/178419?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:43 AM 
+- 🥷 [LALAL.AI Voice Cleaner - 使用 AI 去除音频和视频中的噪音](https://xinquji.com/posts/178446?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     为项目经理精心挑选的 300 多种资源  
+     使用 AI 去除音频和视频中的噪音  
     </details> 
 
-- 💼 [Voice Rhythm - 可视化你的声音](https://xinquji.com/posts/178418?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:40 AM 
+- 💼 [B2B Customer Journeys by HockeyStack - 单一时间线上跨渠道的所有接触点](https://xinquji.com/posts/178445?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     可视化你的声音  
+     单一时间线上跨渠道的所有接触点  
     </details> 
 
-- 🦅 [Collab Spot - 任何网站的即时协作](https://xinquji.com/posts/178417?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:38 AM 
+- 🦅 [Wall33 - 任何人都可以在公共墙上写任何东西](https://xinquji.com/posts/178444?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     任何网站的即时协作  
+     任何人都可以在公共墙上写任何东西  
     </details> 
 
-- 😺 [Global Database Outreach - 在几秒钟内丰富您的潜在客户的个人资料](https://xinquji.com/posts/178416?utm_campaign=xinquji-rss) | Wed Aug 03 2022 6:37 AM 
+- 😺 [Trickle - 一个让团队想法可共享和互动的地方](https://xinquji.com/posts/178443?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     在几秒钟内丰富您的潜在客户的个人资料  
+     一个让团队想法可共享和互动的地方  
     </details> 
 <!-- xinquji:END -->
