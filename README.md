@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [陈春花回应“学历造假”争议：所获博士学位未被认证](https://www.cnbeta.com/articles/tech/1300209.htm) | Wed Aug 03 2022 6:21 AM 
+- 🕯 [专利曝光戴尔设想为笔记本电脑掌托底部配备无线充电线圈](https://www.cnbeta.com/articles/tech/1300241.htm) | Wed Aug 03 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月3日，北大教授陈春花在&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s/7Em5LB6HRYpyalnfd3KFFg&quot; target=&quot;_blank&quot;&gt;其微信公号回应有关学历争议&lt;/a&gt;。陈春花发文表示，“我毕业于华南工学院无线电技术专业，随后留校讲授马哲课程八年（期间于北师大进修学习哲学与伦理学）。之后决定就读新加坡国立大学工商管理硕士课程，学习管理学专业知识并了解中西文化的不同。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周公布的 20220239124 美国专利申请，揭示了戴尔正在酝酿为笔记本电脑配备反向无线充电功能。&lt;strong&gt;插图中描绘了一款位于底部的磁吸充电线圈，可在掌托附近区域为智能手机等设备提供无线能源。&lt;/strong&gt;顺道一提，苹果公司也有设想过类似的功能，只是它将充电线圈内置于 MacBook，以便为顶部的 iPhone、iPad 或 Apple Watch 充电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中国空间站动态：小机械臂已“上线”](https://www.cnbeta.com/articles/tech/1300207.htm) | Wed Aug 03 2022 6:19 AM 
+- 💼 [北京一居民家中惊现极危物种圆鼻巨蜥：唾液有剧毒、能活150岁](https://www.cnbeta.com/articles/tech/1300239.htm) | Wed Aug 03 2022 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;安装在问天实验舱舱外的小机械臂肩负着独立完成舱外载荷的安装、更换等照料操作的重任。近日，小机械臂在地面人员的支持下顺利完成在轨测试，让我们一起期待后续它的精彩表现！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一级国家保护动物，跑到了居民家中，是幸运还是惊吓？据@北京日报消息，8月2日，北京市东城区前门消防救援站接到报警&lt;strong&gt;，对方表示在居民家里发现了一只大蜥蜴，需求助。&lt;/strong&gt;消防员迅速赶赴现场，在报警人的指引下，锁定了这条蜥蜴的位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [7月安卓手机性价比榜：Redmi拿下两个价位段冠军](https://www.cnbeta.com/articles/tech/1300205.htm) | Wed Aug 03 2022 6:12 AM 
+- 💂 [中国企业的“印度困局”](https://www.cnbeta.com/articles/tech/1300237.htm) | Wed Aug 03 2022 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月是每年上半年和下半年更新迭代的时间，在我们发布本次性价比榜单的时候，首款骁龙8+处理器和首款天玑9000+处理器的新机已经上市，骁龙8&amp;nbsp;Gen1和天玑9000瞬间成为了“过时”的产品，这也就是在国内市场能这么卷，换别的地方很多公司可能都扛不下去了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;“除了手机行业，包括家电制造、工业制造等其他领域的中资企业都遇到了印度方面的审查。”&lt;/strong&gt;一位在印度当地做风险投资业务的人士向南对钛媒体App表示，目前在印度审查名单的中资企业超过500家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [兼并OpenCAPI ，CXL 将一统CPU 互连标准](https://www.cnbeta.com/articles/tech/1300203.htm) | Wed Aug 03 2022 6:08 AM 
+- 🚀 [新约会应用Desti：基于约会地点匹配约会对象](https://www.cnbeta.com/articles/tech/1300235.htm) | Wed Aug 03 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日，OpenCAPI 和 CXL 将发布联合公告，表示这两个集团将联手，OpenCAPI 标准和财团的资产将转移到 CXL 财团。通过这种集成，CXL 将成为主导的 CPU 到设备互连标准，因为几乎所有主要制造商现在都支持该标准，而竞争标准已经退出竞争并被 CXL 吸收。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日上线了一款名为 &lt;a href=&quot;https://www.prnewswire.com/news-releases/first-of-its-kind-dating-app-desti-launches-in-austin-texas-301598050.html&quot; target=&quot;_blank&quot;&gt;Desti&lt;/a&gt; 的全新约会应用程序，它主要根据你想要去的约会地点来匹配约会对象。&lt;strong&gt;据开发人员称，该应用程序旨在通过利用视频消息来替代闲聊，旨在让更多人通过本地化业务进行约会。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《使命召唤19》内测照片泄露 DMZ模式证实](https://hot.cnbeta.com/articles/game/1300201.htm) | Wed Aug 03 2022 6:07 AM 
+- 🎊 [通用汽车向Bolt车主提供6000美元 希望他们不因“电池缺陷或召回”而提起诉讼](https://www.cnbeta.com/articles/tech/1300231.htm) | Wed Aug 03 2022 6:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，《使命召唤19：现代战争2》内部测试照片已在Instagram等社交媒体平台传播，泄露图片展示了《使命召唤19：现代战争2》玩家大厅以及此前泄露的DMZ模式，本次泄露来自于洛杉矶公羊队运动员昆汀·莱克 &lpar;Quentin Lake&rpar;。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Electrek报道，&lt;strong&gt;通用汽车公司已经开始向雪佛兰Bolt电动车车主提供6000美元的退款，只要他们承诺不因去年的电池起火召回惨败而提起诉讼。&lt;/strong&gt;6月，通用汽车宣布，2023年款雪佛兰Bolt电动车和EUV将大幅降价6000美元--在大多数汽车制造商提高电动车价格的时候，这一点令人惊讶。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
