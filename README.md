@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Solidigm推出P41 Plus系列PCIe 4.0 M.2 NVMe主流固态硬盘](https://www.cnbeta.com/articles/tech/1300175.htm) | Wed Aug 03 2022 4:13 AM 
+- 🕯 [陈春花回应“学历造假”争议：所获博士学位未被认证](https://www.cnbeta.com/articles/tech/1300209.htm) | Wed Aug 03 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Solidigm 刚刚推出了面向 PC 主流市场的 P41 Plus 系列高性价比 PCIe 4.0 固态硬盘，具有高达 4125 MB/s 的传输速率。&lt;/strong&gt;此外该系列 SSD 采用了 144 层 3D NAND，辅以 512GB / 1TB / 2TB 三档容量和 M.2 2280 的外形，可满足 PC 用户的日常生产力与游戏需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月3日，北大教授陈春花在&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s/7Em5LB6HRYpyalnfd3KFFg&quot; target=&quot;_blank&quot;&gt;其微信公号回应有关学历争议&lt;/a&gt;。陈春花发文表示，“我毕业于华南工学院无线电技术专业，随后留校讲授马哲课程八年（期间于北师大进修学习哲学与伦理学）。之后决定就读新加坡国立大学工商管理硕士课程，学习管理学专业知识并了解中西文化的不同。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [二手显卡暴跌超50%仍无人买只是开始 多款热门显卡价格也大跌](https://www.cnbeta.com/articles/tech/1300173.htm) | Wed Aug 03 2022 3:49 AM 
+- 💼 [中国空间站动态：小机械臂已“上线”](https://www.cnbeta.com/articles/tech/1300207.htm) | Wed Aug 03 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;显卡暴跌已经是不争的事实，这个事情的导火索，就是挖矿热潮的退去。近两年来，&lt;strong&gt;显卡市场在挖矿的带动下十分火热，挖矿潮在全球的扩散，使得各种显卡被爆炒，一度出现一卡难求的场景，显卡市场价远超原价的情况屡见不鲜，且在渠道商囤货的行为下，显卡市场价曾几何时更是高得离谱。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;安装在问天实验舱舱外的小机械臂肩负着独立完成舱外载荷的安装、更换等照料操作的重任。近日，小机械臂在地面人员的支持下顺利完成在轨测试，让我们一起期待后续它的精彩表现！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [为说服监管机构 微软表示动视暴雪也没有什么必玩游戏](https://hot.cnbeta.com/articles/game/1300171.htm) | Wed Aug 03 2022 3:46 AM 
+- 💂 [7月安卓手机性价比榜：Redmi拿下两个价位段冠军](https://www.cnbeta.com/articles/tech/1300205.htm) | Wed Aug 03 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年游戏行业的一件大事之一就是，微软以 687 亿美元收购动视暴雪。为了消除外界对本次收购的诸多担忧，近日微软向多家新西兰监管机构表示，&lt;strong&gt;动视暴雪也没有什么“必玩”（must have）的游戏。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月是每年上半年和下半年更新迭代的时间，在我们发布本次性价比榜单的时候，首款骁龙8+处理器和首款天玑9000+处理器的新机已经上市，骁龙8&amp;nbsp;Gen1和天玑9000瞬间成为了“过时”的产品，这也就是在国内市场能这么卷，换别的地方很多公司可能都扛不下去了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [威刚推出LEGEND 960 PCIe 4.0固态硬盘 适用于PC和PS5](https://www.cnbeta.com/articles/tech/1300169.htm) | Wed Aug 03 2022 3:35 AM 
+- 🚀 [兼并OpenCAPI ，CXL 将一统CPU 互连标准](https://www.cnbeta.com/articles/tech/1300203.htm) | Wed Aug 03 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近年来，M.2 NVMe 固态硬盘已成为台式 PC 和笔记本电脑的主流选择。此外为了追求更高的数据传输速率，一些 DIY 爱好者也会给它加个移动硬盘盒。&lt;strong&gt;但是想要给索尼 PlayStation 5 游戏主机扩容的话，还是得遵循一些最低要求 —— 比如支持 PCIe 4.0 x4 连接。&lt;/strong&gt;而本文要为大家介绍的，则是来自威刚（ADATA）的 LEGEND 960 系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日，OpenCAPI 和 CXL 将发布联合公告，表示这两个集团将联手，OpenCAPI 标准和财团的资产将转移到 CXL 财团。通过这种集成，CXL 将成为主导的 CPU 到设备互连标准，因为几乎所有主要制造商现在都支持该标准，而竞争标准已经退出竞争并被 CXL 吸收。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果Apple Store国区推出3.5小时送达服务：收费45元 仅限上海](https://www.cnbeta.com/articles/tech/1300167.htm) | Wed Aug 03 2022 3:29 AM 
+- 🎊 [《使命召唤19》内测照片泄露 DMZ模式证实](https://hot.cnbeta.com/articles/game/1300201.htm) | Wed Aug 03 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果Apple Store推出同城快递服务啦，网上下单，在家就能等待新机送上门。今天，有网友发现，&lt;strong&gt;苹果Apple Store零售店推出了3.5小时送达服务，目前仅限上海地区，收取服务费45元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，《使命召唤19：现代战争2》内部测试照片已在Instagram等社交媒体平台传播，泄露图片展示了《使命召唤19：现代战争2》玩家大厅以及此前泄露的DMZ模式，本次泄露来自于洛杉矶公羊队运动员昆汀·莱克 &lpar;Quentin Lake&rpar;。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
