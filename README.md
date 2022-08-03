@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TabLayout 之改变 Indicator 的宽度](https://juejin.cn/post/7127561470681808927) | Wed Aug 03 2022 8:19 AM 
+- 🤗 [7种优化WordPress网站性能的方法&lpar;赞助&rpar;](https://juejin.cn/post/7127566655999180837) | Wed Aug 03 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
-    Indicator 允许我们设置 drawable 来自定义样式，通过 layer-list 可以在上层设置一个固定宽度的 shape： 然后在 xml 中给 TabLayout 设置 参考：TabL 
+    绝大多数的博客、新闻网站和信息网站都运行在WordPress上。 虽然WordPress的开发团队和社区尽最大努力确保wordPress的性能，但有一些做法你可以实施，以保持你的网站快速发展。 让我们 
     </details> 
 
-- 🎡 [构建面向未来的前端架构](https://juejin.cn/post/7127559810324627463) | Wed Aug 03 2022 8:12 AM 
+- 🎡 [在Linux上一键安装K8s集群](https://juejin.cn/post/7127565513114255373) | Wed Aug 03 2022 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是柒八九。 今天，我们来讲讲在前端架构。 要想在大项目中做到构建性能良好并且在架构方面具有扩展性是一件困难的事情。 所以，今天我们来通过一些例子来探讨如何在前端项目中如何做到在性能和架构方面 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第6天，点击查看活动详情 前言 KubeKey 的几种使用场景： 仅安装 Kubernetes； 使用一个命令同时安装 Kubern 
     </details> 
 
-- 🕯 [学习D3.js（十八）桑基图](https://juejin.cn/post/7127559319402315806) | Wed Aug 03 2022 8:10 AM 
+- 🕯 [并发的三大特性&amp;Java内存模型](https://juejin.cn/post/7127558177805041700) | Wed Aug 03 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 引入D3模块 引入整个D3模块。 桑基图布局计算需要使用d3.sankey&lpar;&rpar;函数。该函数不在d3整体包中 
+    本篇主要介绍了并发编程中的三大特性：原子性、可见性、有序性。以及并发和并行的区别，最后介绍了Java内存模型（JMM）。快来一起学习吧！ 
     </details> 
 
-- 🚀 [普通技术人的弯道超车指南、Spring / SpringBoot 常用扩展点｜掘金一周 08.03](https://juejin.cn/post/7127557841363140616) | Wed Aug 03 2022 8:05 AM 
+- 🚀 [【Metaverse系列一】元宇宙的奥秘](https://juejin.cn/post/7127555262650515487) | Wed Aug 03 2022 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-    【掘金一周08.03】本期看点：如何在繁重的工作中持续成长 、JAVA基于CompletableFuture的流水线并行处理深度实践... 
+    你有没有想过逃离闷热的会议室，瞬间移动到马尔代夫的沙滩上开会？开完会，纵身跳入大海和美人鱼捉迷藏。然后一个鲤鱼打挺直冲云霄，进入天宫一号开展科学研究，发现微重力环境下韭菜的长势喜人，而且在特定光照条件 
     </details> 
 
-- 💪 [flink部署模式（三）- standalone k8s session 部署模式](https://juejin.cn/post/7127557823214387231) | Wed Aug 03 2022 8:04 AM 
+- 💪 [全尺度表示的上下文非局部对齐，南科大&amp;优图提出NAFS解决基于文本的Re ID](https://juejin.cn/post/7127547397445517349) | Wed Aug 03 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 docker应用镜像构建 Dockerfile 构建镜像 NOTE： 需要镜像上传到docker镜像私服（或者在每个node节点都构建相同的镜像） 
+    【写在前面】 基于文本的人物搜索旨在使用人物的描述性句子在图像库中检索目标人物。这是一个非常具有挑战 
     </details> 
 <!-- juejin:END -->
 ### 少数派
