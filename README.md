@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [075-Dlink+Flink+CDC on k8s 整库同步](https://juejin.cn/post/7127518515686277151) | Wed Aug 03 2022 5:32 AM 
+- 🤗 [继承易错点分析](https://juejin.cn/post/7127545361421303838) | Wed Aug 03 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-    本文 主要讲解如何在 K8S 集群跑 Dlink+Flink 通过 Flink CDC 进行整库同步。 安装 K8S 如果是本地测试的话，可以起 minikube 如果是生产的话，可以使用 Ranch 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 1&rpar;基类private&lpar;私有&rpar;成员在派生类中无论以什么方式继承都是不可见的。 这里的不可见是指基类的私有成 
     </details> 
 
-- 🎡 [Android技术分享| 视频通话开发流程&lpar;一&rpar;](https://juejin.cn/post/7127516607609307150) | Wed Aug 03 2022 5:26 AM 
+- 🎡 [JavaScript如何从数组中删除特定数据](https://juejin.cn/post/7127539663841001479) | Wed Aug 03 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    此文档基于 Android RTM、RTC SDK，其他平台API 基本一致，可供参考。 ​ RTM：用于搭建呼叫的一整套流程、信令交互 ​ RTC：用于呼叫流程通了之后的音视频交互 由于呼叫和音视频 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 增删改查是我们日常开发中的最基本任务，在JavaScript中我们经常需要从数据组删除特定的 
     </details> 
 
-- 🕯 [Observability：你所需要知道的关于 Syslog 的一些知识](https://juejin.cn/post/7127516125893492773) | Wed Aug 03 2022 5:23 AM 
+- 🕯 [telnet远程登录aaa模式详解【华为eNSP】](https://juejin.cn/post/7127529313876770847) | Wed Aug 03 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Syslog 是一种标准，用于以特定格式从各种网络设备发送和接收通知消息。 这些消息包括时间戳、事件消息、严重性、主机 IP 地址、诊断等。 就其内置的严重性级别而言，它可以传达级别 0、紧急、级别  
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 一.前言 所有的需求都已经记录完毕了，现在只差最后一个需求： 对于这个需求还是较为简单，采用telnet远 
     </details> 
 
-- 🚀 [async-validator 源码解析&lpar;二&rpar; - 核心实现](https://juejin.cn/post/7127514371210608653) | Wed Aug 03 2022 5:17 AM 
+- 🚀 [ffplay视频播放原理分析](https://juejin.cn/post/7127528274774720520) | Wed Aug 03 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-    async-validator 是一个表单异步校验库，npm上每周下载量达120万次左右，代码设计十分优秀，这期我准备来详情解读一下源码，从中学习和了解作者的设计思想，便于在项目中更灵活的运用。 
+    本文从整体播放流程出发，介绍了 ffplay 播放器播放媒体文件的主要流程，不深陷于代码细节。同时，对 FFmpeg 的一些常用函数有了一些了解，对我们自己手写一个简单的播放器有很大的帮助。 
     </details> 
 
-- 💪 [async-validator 源码解析&lpar;一&rpar; - 基本使用](https://juejin.cn/post/7127513760960348174) | Wed Aug 03 2022 5:14 AM 
+- 💪 [「Kafka 专栏」- 004 Kafka 分区机制详解](https://juejin.cn/post/7127526322598838286) | Wed Aug 03 2022 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-    async-validator 是一个表单异步校验库，npm上每周下载量达120万次左右，代码设计十分优秀，这期我准备来详情解读一下源码，从中学习和了解作者的设计思想，便于在项目中更灵活的运用。 
+    上一期聊的是如何对 Kafka 生产者进行调优；这一期来聊聊 Kafka 非常非常重要的分区机制： 主题与分区之间的关系 ✅ 分区工作的原理流程 ✅ 如何创建一个多分区的主题 ✅ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
