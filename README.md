@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [通用汽车超级巡航系统将覆盖北美40万英里道路](https://www.cnbeta.com/articles/tech/1300425.htm) | Wed Aug 03 2022 5:48 PM 
+- 🕯 [彭博社：iPadOS 16 推迟至 10 月发布](https://www.cnbeta.com/articles/tech/1300441.htm) | Wed Aug 03 2022 7:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;通用汽车公司的 &amp;quot;免提&amp;quot;高级驾驶辅助系统（ADAS）--Super Cruise，很快将在北美更多的道路上使用。&lt;/strong&gt;通用汽车公司今天宣布，今年晚些时候，该ADAS系统将能够在40万英里的道路上运行，包括非分隔的高速公路，这将使超级巡航系统目前在美国和加拿大的覆盖范围基本翻倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据彭博社消息，苹果计划将 iPadOS 16 正式版的发布时间推迟至今年 10 月，这意味着 iPadOS 16 不会与 iOS 16 一同在 9 月发布。在 iPadOS 16 中，苹果新增全新多任务功能台前调度（Stage Manager），这项功能提供了类似 Mac 风格的多窗口多任务管理体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [消息称暴雪将不会发行《魔兽世界》手游](https://hot.cnbeta.com/articles/game/1300423.htm) | Wed Aug 03 2022 4:56 PM 
+- 💼 [德国计划延长核电站运营时间 对继续使用核电持开放态度](https://www.cnbeta.com/articles/tech/1300439.htm) | Wed Aug 03 2022 6:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;暴雪娱乐公司正在继续向移动游戏领域拓展，但据说一个未公布的手游项目被取消了。&lt;/strong&gt;根据彭博社的报道，暴雪已经取消了《魔兽世界》品牌下的一款手机游戏。这款游戏是与暴雪的中国合作伙伴网易共同制作的，开发了有三年左右的时间，后来因为融资条件的冲突而停止了这个项目。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;德国财政部长林德纳也在近日表示，“对继续使用核电持开放态度”，为避免德国出现电力短缺，德国应保持现有的发电能力并建设新的发电设施。“我们必须努力确保在天然气危机之后不会出现电力危机。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Facebook直播购物服务将于10月1日起停止服务](https://www.cnbeta.com/articles/tech/1300421.htm) | Wed Aug 03 2022 4:48 PM 
+- 💂 [H&amp;M退出俄罗斯前最后一次清库存 民众排队购买](https://www.cnbeta.com/articles/tech/1300437.htm) | Wed Aug 03 2022 6:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Facebook在一篇博文中宣布，该公司将于10月1日关闭其直播购物功能，将重点转移到Reels上。在这个日期之后，用户将不再能够在Facebook上举办任何新的或预定的直播购物活动，用户仍然能够使用Facebook Live来直播活动，只是不能在Facebook Live视频中创建产品播放列表或标记产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;当地时间2日，瑞典服装零售公司 H&amp;amp;M 在完全退出俄罗斯市场之前，最后一次开门营业，销售库存，很多俄罗斯民众排队进店购买。&lt;/strong&gt;据报道，H&amp;amp;M集团于1947年在瑞典成立，主要生产和销售服装。于2009年进入俄罗斯，目前在俄罗斯有170家店铺，是H&amp;amp;M全球第六大市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [罗技、腾讯云游戏掌机内幕首曝：安卓系统、配置较低](https://www.cnbeta.com/articles/tech/1300419.htm) | Wed Aug 03 2022 4:28 PM 
+- 🚀 [恒驰5预售订单超3.7万台 恒大汽车这波真稳了？](https://www.cnbeta.com/articles/tech/1300435.htm) | Wed Aug 03 2022 6:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，&lt;strong&gt;罗技官方宣布与腾讯达成了合作，双方今年晚些时候将会推出一款云游戏掌机，&lt;/strong&gt;支持多种云游戏服务，PC级3A大作都能玩。不过罗技并未公布与腾讯合作的掌机具体细节，只表示罗技会负责硬件，腾讯自然负责软件及游戏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在众多造车厂商中，由于恒大集团负债累累，恒大汽车的争议因此也十分巨大，很多人认为恒大汽车“要凉”。8月1日，恒大汽车首款车型恒驰5开启大定，恒驰汽车总裁刘永灼透露，恒驰5的市场反响非常好，大卖已成定局。恒大集团7月29日的公告显示，恒驰5的小订客户已超3.7万，首批26家授权代理门店计划8月开业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [一加10T真机图赏 9月1日海外开售](https://www.cnbeta.com/articles/tech/1300417.htm) | Wed Aug 03 2022 4:10 PM 
+- 🎊 [陈春花辞去北大教授职务背后 业内人士：培训价格虚高](https://www.cnbeta.com/articles/tech/1300433.htm) | Wed Aug 03 2022 6:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月3日晚间，一加10T在海外亮相，&lt;strong&gt;起售价为649美元（约合人民币4400元，8GB+128GB）。&lt;/strong&gt;科技媒体Phone Arena指出，&lt;strong&gt;一加10T价格极具竞争力，相信这是最便宜的骁龙8+手机，而且8GB+128GB与16GB+256GB俩版本差价只有100美元，非常划算。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北大教授陈春花学历造假一事有了新进展。根据北京大学在官方微博发布的信息：近期，我校对陈春花老师的有关情况进行了调查。8月3日，我校国家发展研究院收到了陈春花老师的辞职申请，学校按程序终止其聘用合同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
