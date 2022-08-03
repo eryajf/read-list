@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一加10T真机图赏 9月1日海外开售](https://www.cnbeta.com/articles/tech/1300417.htm) | Wed Aug 03 2022 4:10 PM 
+- 🕯 [消息称暴雪将不会发行《魔兽世界》手游](https://hot.cnbeta.com/articles/game/1300423.htm) | Wed Aug 03 2022 4:56 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;暴雪娱乐公司正在继续向移动游戏领域拓展，但据说一个未公布的手游项目被取消了。&lt;/strong&gt;根据彭博社的报道，暴雪已经取消了《魔兽世界》品牌下的一款手机游戏。这款游戏是与暴雪的中国合作伙伴网易共同制作的，开发了有三年左右的时间，后来因为融资条件的冲突而停止了这个项目。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Facebook直播购物服务将于10月1日起停止服务](https://www.cnbeta.com/articles/tech/1300421.htm) | Wed Aug 03 2022 4:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Facebook在一篇博文中宣布，该公司将于10月1日关闭其直播购物功能，将重点转移到Reels上。在这个日期之后，用户将不再能够在Facebook上举办任何新的或预定的直播购物活动，用户仍然能够使用Facebook Live来直播活动，只是不能在Facebook Live视频中创建产品播放列表或标记产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [罗技、腾讯云游戏掌机内幕首曝：安卓系统、配置较低](https://www.cnbeta.com/articles/tech/1300419.htm) | Wed Aug 03 2022 4:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;日前，&lt;strong&gt;罗技官方宣布与腾讯达成了合作，双方今年晚些时候将会推出一款云游戏掌机，&lt;/strong&gt;支持多种云游戏服务，PC级3A大作都能玩。不过罗技并未公布与腾讯合作的掌机具体细节，只表示罗技会负责硬件，腾讯自然负责软件及游戏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [一加10T真机图赏 9月1日海外开售](https://www.cnbeta.com/articles/tech/1300417.htm) | Wed Aug 03 2022 4:10 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月3日晚间，一加10T在海外亮相，&lt;strong&gt;起售价为649美元（约合人民币4400元，8GB+128GB）。&lt;/strong&gt;科技媒体Phone Arena指出，&lt;strong&gt;一加10T价格极具竞争力，相信这是最便宜的骁龙8+手机，而且8GB+128GB与16GB+256GB俩版本差价只有100美元，非常划算。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [买前128G到手32G 江苏一男子网购买到iPad扩容机起诉商家获退一赔三](https://www.cnbeta.com/articles/tech/1300415.htm) | Wed Aug 03 2022 4:04 PM 
+- 🎊 [买前128G到手32G 江苏一男子网购买到iPad扩容机起诉商家获退一赔三](https://www.cnbeta.com/articles/tech/1300415.htm) | Wed Aug 03 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;便捷的网购成为当下消费者最青睐的购物方式之一，但因为是线上交易，其背后隐藏着不少隐患，如遇到 “货不对板”等问题。据媒体报道，近日，&lt;strong&gt;江苏苏州的张先生通过网购平台花费2600多元，购买了一台号称“原装正品”的128G iPad。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [一加OnePlus 10T海外亮相 搭载骁龙8+ Gen 1、150W充电功率](https://www.cnbeta.com/articles/tech/1300413.htm) | Wed Aug 03 2022 3:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一加推出了最新机型OnePlus 10T，并改变了今年的发布策略，在下半年推出非Pro机型。这意味着它不得不削减一些规格以实现更低的定价，但10T实际上却在某些方面击败了10 Pro。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [AMD Zen4 X670E主板设计图曝光：令人瞠目结舌的24+2+1相供电](https://www.cnbeta.com/articles/tech/1300411.htm) | Wed Aug 03 2022 3:58 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD将在本周五展示面向Zen4锐龙7000系列处理器的X670E、X670主板，各家厂商也都在做最后的准备，曝料也多了起来。之前我们曾看到过据称是微星MEG X670E Godlike超神板的PCB设计图，可以看到双芯片组成的X670E、24+2+1相供电电路&lpar;最大电流105A&rpar;、两个PES 8针供电接口、三条PCIe x16扩展插槽、四个M.2插槽、八个SATA 6Gbps接口、PCIe/USB-PD 6针供电接口、USB 3.2扩展插针，等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [马斯克向Twitter交易顾问高盛和摩根大通寻求交易信息](https://www.cnbeta.com/articles/tech/1300409.htm) | Wed Aug 03 2022 3:58 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，特斯拉CEO埃隆·马斯克（Elon Musk）今日向Twitter交易顾问高盛和摩根大通寻求相关信息，以判断他们在“马斯克与Twitter谈判期间”是如何引导Twitter的。根据特拉华州衡平法院的文件，马斯克的律师希望两家银行交出有关“他们讨论收购Twitter交易和分析Twitter财务状况的“文件和通讯”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300409.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
