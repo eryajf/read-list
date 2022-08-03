@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [用TS+reactHooks+redux完成一个todos](https://juejin.cn/post/7127602770810503175) | Wed Aug 03 2022 10:59 AM 
+- 🤗 [你需要知道的 12 道 React 面试题](https://juejin.cn/post/7127614623531925518) | Wed Aug 03 2022 11:45 AM 
     <details><summary>展开描述 ...</summary> 
-    整体目标 在react项目中使用TS，具体学习如何使用： hooks：useState,useEffect,useRef等hooks的使用 redux：useDispatch, reducer, us 
+    React 是一个非常流行的框架，本文总结了 12 个非常常见的 React 面试题。如果你需要通过面试成为一名 React 开发人员，这篇文章会给你带来帮助！ 
     </details> 
 
-- 🎡 [函数调用堆栈](https://juejin.cn/post/7127601266879889445) | Wed Aug 03 2022 10:54 AM 
+- 🎡 [JS基础之事件循环机制探究](https://juejin.cn/post/7127614358955229220) | Wed Aug 03 2022 11:44 AM 
     <details><summary>展开描述 ...</summary> 
-    在学习线程的相关知识时，我们一定接触过 NSThread 类，它有一个类属性：@property &lpar;class, readonly, copy&rpar; NSArray&lt;NSString *&gt; *callSt 
+    js是单线程非阻塞的脚本语言，单线程意味着在同一时间，只能做同一件事，所以js代码执行时只有一个主线程在执行。而非阻塞是指当代码需要进行一项异步任务（也就是不能及时获取结果，需要等待一 
     </details> 
 
-- 🕯 [时刻记录你的创作灵感！超简单的Vue+Electron快速开发多端在线笔记本](https://juejin.cn/post/7127593631606636581) | Wed Aug 03 2022 10:24 AM 
+- 🕯 [【LeetCode】1161. 二叉树最大层内元素和](https://juejin.cn/post/7127612699717926948) | Wed Aug 03 2022 11:37 AM 
     <details><summary>展开描述 ...</summary> 
-    在文章创作前往往需要先有一个想法，当你有了模糊的想法，便可以开始研究。工欲善其事，必先利其器。这就是为什么我要做这个项目的原因——总有一些想法需要记录，围绕着某个主题，还需要把文章脉络理清。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能力 
     </details> 
 
-- 🚀 [话痨小机器人快陪我聊天](https://juejin.cn/post/7127584774507462664) | Wed Aug 03 2022 9:50 AM 
+- 🚀 [无代码人工智能平台：成功的基石（Noogata）](https://juejin.cn/post/7127612176168124447) | Wed Aug 03 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
-    # 话痨小机器人快陪我聊天 &gt;Knover is a toolkit for knowledge grounded dialogue generation based on PaddlePaddl 
+    随着公司寻求加速数字化转型，人工智能和机器学习自然而然地在其技术优先事项中排名靠前。 AI 和 ML 为处 
     </details> 
 
-- 💪 [Node如何获取pnpm安装的包源码真实代码路径并操作](https://juejin.cn/post/7127584537030164487) | Wed Aug 03 2022 9:49 AM 
+- 💪 [Oracle数据同步的思考与优化-CloudCanal核心技术揭秘](https://juejin.cn/post/7127565962479894559) | Wed Aug 03 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
-    在改造老工程的包依赖管理的时候，有时候我们想引入一些社区比较好用的包管理；有时候一些阻塞点会阻拦我们，特别我们构建流程可能会拷贝node_modules包源码的行为； 
+    # 为什么我们要重构 Oracle 源端数据同步？ CloudCanal 早期版本即支持了 Oracle 数据库，围绕**结构迁移**、**全量迁移**、**增量同步**三个核心步骤，构建了以 Or 
     </details> 
 <!-- juejin:END -->
 ### 少数派
