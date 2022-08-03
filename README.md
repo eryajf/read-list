@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [专利曝光戴尔设想为笔记本电脑掌托底部配备无线充电线圈](https://www.cnbeta.com/articles/tech/1300241.htm) | Wed Aug 03 2022 7:15 AM 
+- 🕯 [任天堂22-23财年Q1财报公开 NS销量累计1亿1108万台](https://hot.cnbeta.com/articles/game/1300261.htm) | Wed Aug 03 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周公布的 20220239124 美国专利申请，揭示了戴尔正在酝酿为笔记本电脑配备反向无线充电功能。&lt;strong&gt;插图中描绘了一款位于底部的磁吸充电线圈，可在掌托附近区域为智能手机等设备提供无线能源。&lt;/strong&gt;顺道一提，苹果公司也有设想过类似的功能，只是它将充电线圈内置于 MacBook，以便为顶部的 iPhone、iPad 或 Apple Watch 充电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;任天堂公开2022~2023财年第一季度财报（2022年4月1日~2022年6月30日），该季度任天堂销售额3074.6亿日元，同比减少4.7%，利润1016.47亿日元，同比减少15.1%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [北京一居民家中惊现极危物种圆鼻巨蜥：唾液有剧毒、能活150岁](https://www.cnbeta.com/articles/tech/1300239.htm) | Wed Aug 03 2022 7:02 AM 
+- 💼 [无敌是多么寂寞 寂寞到玩家要起诉暴雪了](https://hot.cnbeta.com/articles/game/1300259.htm) | Wed Aug 03 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一级国家保护动物，跑到了居民家中，是幸运还是惊吓？据@北京日报消息，8月2日，北京市东城区前门消防救援站接到报警&lt;strong&gt;，对方表示在居民家里发现了一只大蜥蜴，需求助。&lt;/strong&gt;消防员迅速赶赴现场，在报警人的指引下，锁定了这条蜥蜴的位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;从国际服开服以来，《暗黑破坏神：不朽》这款游戏已经算得上是差评如潮了，而其中最大的问题，无外乎这游戏的氪金问题。&lt;/strong&gt;作为一款 F2P 游戏，氪金提升强度自然是游戏不可或缺的一部分，要么怎么说免费玩家是氪金玩家游戏体验的一部分呢。但最近有用户发现，氪金太多，反而给游戏体验带来了麻烦。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国企业的“印度困局”](https://www.cnbeta.com/articles/tech/1300237.htm) | Wed Aug 03 2022 7:02 AM 
+- 💂 [被山东省汽车协会拉黑 观致汽车回应欠薪：已还520万元](https://www.cnbeta.com/articles/tech/1300257.htm) | Wed Aug 03 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;“除了手机行业，包括家电制造、工业制造等其他领域的中资企业都遇到了印度方面的审查。”&lt;/strong&gt;一位在印度当地做风险投资业务的人士向南对钛媒体App表示，目前在印度审查名单的中资企业超过500家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，8月2日，观致汽车被曝由于欠薪疑似被移送公安处理。有媒体联系了宝能集团相关工作人员，其表示：通报发出后，观致汽车第一时间与常熟人社局局进行了情况报告和沟通。经核查确认，宝能观致汽车方面此前与常熟市人民政府碧溪街道办事处就员工欠薪问题进行了全面沟通和妥善处理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新约会应用Desti：基于约会地点匹配约会对象](https://www.cnbeta.com/articles/tech/1300235.htm) | Wed Aug 03 2022 7:00 AM 
+- 🚀 [新冠长期症危害渐显 《自然》：心脏患病风险增加20倍](https://www.cnbeta.com/articles/tech/1300255.htm) | Wed Aug 03 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日上线了一款名为 &lt;a href=&quot;https://www.prnewswire.com/news-releases/first-of-its-kind-dating-app-desti-launches-in-austin-texas-301598050.html&quot; target=&quot;_blank&quot;&gt;Desti&lt;/a&gt; 的全新约会应用程序，它主要根据你想要去的约会地点来匹配约会对象。&lt;strong&gt;据开发人员称，该应用程序旨在通过利用视频消息来替代闲聊，旨在让更多人通过本地化业务进行约会。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国际科学顶刊《自然》杂志8月2日发表文章指出，研究表明，即使在新冠感染治愈后的几个月，患上心血管问题的风险也会很高，例如心脏病发作、中风等。在《自然-医学》上的一项研究中，研究人员使用美国退伍军人事务部（VA）记录的数据来估计新冠病毒导致心血管问题的频率，对比了VA记录的15万名新冠康复患者和未感染的同龄人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [通用汽车向Bolt车主提供6000美元 希望他们不因“电池缺陷或召回”而提起诉讼](https://www.cnbeta.com/articles/tech/1300231.htm) | Wed Aug 03 2022 6:56 AM 
+- 🎊 [40℃高温有多热？新疆“冰山之父”都融化了](https://www.cnbeta.com/articles/tech/1300253.htm) | Wed Aug 03 2022 7:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Electrek报道，&lt;strong&gt;通用汽车公司已经开始向雪佛兰Bolt电动车车主提供6000美元的退款，只要他们承诺不因去年的电池起火召回惨败而提起诉讼。&lt;/strong&gt;6月，通用汽车宣布，2023年款雪佛兰Bolt电动车和EUV将大幅降价6000美元--在大多数汽车制造商提高电动车价格的时候，这一点令人惊讶。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月以来，新疆南疆盆地、陕西南部 、湖北、江南、华南、四川东部、重庆等全国多地持续高温，气温普遍超过35℃，新疆吐鲁番盆地等局部地区甚至超过了40℃。据中央气象台统计，从7月1日至7月31日，新疆地区一整月有26天以上都在遭遇高温侵袭。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
