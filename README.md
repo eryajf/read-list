@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [SMART Modular推出旗下首款CXL内存模组](https://www.cnbeta.com/articles/tech/1300089.htm) | Wed Aug 03 2022 1:43 AM 
+- 🕯 [二手显卡暴跌超50%仍无人买只是开始 多款热门显卡价格也大跌](https://www.cnbeta.com/articles/tech/1300173.htm) | Wed Aug 03 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;全球内存解决方案、固态硬盘和混合存储领域领导者之一的 SMART Modular，刚刚发布了旗下首款 DDR5 XMM CXL 内存模组。&lt;/strong&gt;通过在 Compute Express Link 接口后面添加高速缓存相干的内存，其能够突破当前大多数平台的 8 / 12 通道限制，大举提升服务器和数据中心应用程序的数据处理能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;显卡暴跌已经是不争的事实，这个事情的导火索，就是挖矿热潮的退去。近两年来，&lt;strong&gt;显卡市场在挖矿的带动下十分火热，挖矿潮在全球的扩散，使得各种显卡被爆炒，一度出现一卡难求的场景，显卡市场价远超原价的情况屡见不鲜，且在渠道商囤货的行为下，显卡市场价曾几何时更是高得离谱。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Match盈利亏损，Tinder将取消虚拟货币和元宇宙计划](https://www.cnbeta.com/articles/tech/1300087.htm) | Wed Aug 03 2022 1:41 AM 
+- 💼 [为说服监管机构 微软表示动视暴雪也没有什么必玩游戏](https://hot.cnbeta.com/articles/game/1300171.htm) | Wed Aug 03 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;约会巨头Match Group在周二公布令人失望的第二季度财报的同时还宣布了对Tinder的管理团队进行一系列调整。值得注意的是，&lt;strong&gt;Tinder CEO Renate Nyborg在担任最高职务不到一年后将离开公司。同时，Match还在扼杀Tinder采用新技术的计划，如虚拟货币和基于元宇宙的约会。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年游戏行业的一件大事之一就是，微软以 687 亿美元收购动视暴雪。为了消除外界对本次收购的诸多担忧，近日微软向多家新西兰监管机构表示，&lt;strong&gt;动视暴雪也没有什么“必玩”（must have）的游戏。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [抖音旗下内容社区“可颂”意在种草，仅支持发图文内容，暂未接入电商功能](https://www.cnbeta.com/articles/tech/1300085.htm) | Wed Aug 03 2022 1:40 AM 
+- 💂 [威刚推出LEGEND 960 PCIe 4.0固态硬盘 适用于PC和PS5](https://www.cnbeta.com/articles/tech/1300169.htm) | Wed Aug 03 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;抖音旗下的内容社区App“可颂”在登录国内各大应用商店后，短短数日又悄然下架，在业内引发热议。&lt;/strong&gt;在可颂下架前，蓝鲸财经记者对这款产品进行了深度体验，发现可颂不论是平台定位、内容覆盖范围还是展示方式等，都与小红书较为相似。不过由于可颂尚在发展初期，其在页面呈现、内容划分、功能设定等层面均未达到小红书的深度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近年来，M.2 NVMe 固态硬盘已成为台式 PC 和笔记本电脑的主流选择。此外为了追求更高的数据传输速率，一些 DIY 爱好者也会给它加个移动硬盘盒。&lt;strong&gt;但是想要给索尼 PlayStation 5 游戏主机扩容的话，还是得遵循一些最低要求 —— 比如支持 PCIe 4.0 x4 连接。&lt;/strong&gt;而本文要为大家介绍的，则是来自威刚（ADATA）的 LEGEND 960 系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google Camera代码表明Google并未放弃可折叠手机开发](https://www.cnbeta.com/articles/tech/1300083.htm) | Wed Aug 03 2022 1:39 AM 
+- 🚀 [苹果Apple Store国区推出3.5小时送达服务：收费45元 仅限上海](https://www.cnbeta.com/articles/tech/1300167.htm) | Wed Aug 03 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;关于 Google 首款可折叠设备（非官方名称为 Pixel Notepad）的讨论早在 1 年前就已经开始，虽然多方渠道都表明该机不会在今年上市发售，&lt;strong&gt;但是从 Google Camera 应用代码表明 Google 并未放弃对这款设备的开发。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果Apple Store推出同城快递服务啦，网上下单，在家就能等待新机送上门。今天，有网友发现，&lt;strong&gt;苹果Apple Store零售店推出了3.5小时送达服务，目前仅限上海地区，收取服务费45元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [罗振宇致内部信曝光：感谢筹备上市的这段经历，2021年净利润再创新高](https://www.cnbeta.com/articles/tech/1300081.htm) | Wed Aug 03 2022 1:39 AM 
+- 🎊 [搭载L2级辅助驾驶的车辆不得靠近天文台 工信部解释原因](https://www.cnbeta.com/articles/tech/1300165.htm) | Wed Aug 03 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据IPO早知道消息，&lt;strong&gt;深交所8月2日披露，北京思维造物信息科技股份有限公司（以下简称“思维造物”）撤回了创业板上市申请。&lt;/strong&gt;《IPO早知道》独家获悉，在深交所披露撤回信息后，思维造物董事长罗振宇发布内部信称：基于和监管部门的沟通，以及当前市场环境等多方面因素的综合考量，公司决定暂时撤回国内上市的申请。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“搭载毫米波雷达有L2级辅助驾驶的车辆，不得靠近天文台”，相信不少车主都不知道这样一条冷知识。事实上，此规定由工信部制定下发，具体细则在《汽车雷达无线电管理暂行规定》中就已明确。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
