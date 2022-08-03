@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《暗黑破坏神4》实机视频疑遭泄露](https://hot.cnbeta.com/articles/game/1300407.htm) | Wed Aug 03 2022 2:56 PM 
+- 🕯 [一加10T真机图赏 9月1日海外开售](https://www.cnbeta.com/articles/tech/1300417.htm) | Wed Aug 03 2022 4:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;目前，外网传出一段《暗黑破坏神4》开头视频，时长半分钟，展示了游戏的开篇部分，由于泄露的内容较少，所以还不能确切知道游戏的游玩等内容。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《暗黑破坏神4》泄露视频：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月3日晚间，一加10T在海外亮相，&lt;strong&gt;起售价为649美元（约合人民币4400元，8GB+128GB）。&lt;/strong&gt;科技媒体Phone Arena指出，&lt;strong&gt;一加10T价格极具竞争力，相信这是最便宜的骁龙8+手机，而且8GB+128GB与16GB+256GB俩版本差价只有100美元，非常划算。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [SEC的难题：尚乘数科成为第一只市值超腾讯、阿里的中国股票](https://www.cnbeta.com/articles/tech/1300405.htm) | Wed Aug 03 2022 2:30 PM 
+- 💼 [买前128G到手32G 江苏一男子网购买到iPad扩容机起诉商家获退一赔三](https://www.cnbeta.com/articles/tech/1300415.htm) | Wed Aug 03 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;实现千亿美元市值的奇迹，尚乘数科（HKD.US）仅用了14天。14天！刷新了中概股千亿美元市值“小目标”的最新记录，而阿里竟跑了8年。李嘉诚携手尚乘数科（HKD.US）一出手便刷新了中概股新顺位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;便捷的网购成为当下消费者最青睐的购物方式之一，但因为是线上交易，其背后隐藏着不少隐患，如遇到 “货不对板”等问题。据媒体报道，近日，&lt;strong&gt;江苏苏州的张先生通过网购平台花费2600多元，购买了一台号称“原装正品”的128G iPad。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [232层堆叠？长江存储第四代3D闪存揭秘](https://www.cnbeta.com/articles/tech/1300403.htm) | Wed Aug 03 2022 2:29 PM 
+- 💂 [一加OnePlus 10T海外亮相 搭载骁龙8+ Gen 1、150W充电功率](https://www.cnbeta.com/articles/tech/1300413.htm) | Wed Aug 03 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月2日，国产闪存制造商长江存储在2022年闪存峰会（FMS）上宣布，正式推出了基于晶栈?3.0（Xtacking?3.0）技术的第四代TLC三维闪存X3-9070。消息显示，该3D NAND闪存堆叠层数或已达到了业界领先的232层。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一加推出了最新机型OnePlus 10T，并改变了今年的发布策略，在下半年推出非Pro机型。这意味着它不得不削减一些规格以实现更低的定价，但10T实际上却在某些方面击败了10 Pro。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [印度再次指控vivo逃税221亿卢比](https://www.cnbeta.com/articles/tech/1300401.htm) | Wed Aug 03 2022 2:29 PM 
+- 🚀 [AMD Zen4 X670E主板设计图曝光：令人瞠目结舌的24+2+1相供电](https://www.cnbeta.com/articles/tech/1300411.htm) | Wed Aug 03 2022 3:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月3日消息，印度政府机构在一份声明中称，vivo逃税221亿卢比（约合18.9亿元人民币）。声明称，印度税务情报局 &lpar;DRI&rpar; 发现了逃税行为，随后它向vivo发出了通知。上个月，印度执法局称已经封锁了119个与vivo印度业务相关的银行账户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD将在本周五展示面向Zen4锐龙7000系列处理器的X670E、X670主板，各家厂商也都在做最后的准备，曝料也多了起来。之前我们曾看到过据称是微星MEG X670E Godlike超神板的PCB设计图，可以看到双芯片组成的X670E、24+2+1相供电电路&lpar;最大电流105A&rpar;、两个PES 8针供电接口、三条PCIe x16扩展插槽、四个M.2插槽、八个SATA 6Gbps接口、PCIe/USB-PD 6针供电接口、USB 3.2扩展插针，等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [2.88亿条印度养老基金持有人的身份数据被暴露在互联网](https://www.cnbeta.com/articles/tech/1300399.htm) | Wed Aug 03 2022 2:25 PM 
+- 🎊 [马斯克向Twitter交易顾问高盛和摩根大通寻求交易信息](https://www.cnbeta.com/articles/tech/1300409.htm) | Wed Aug 03 2022 3:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一个包含印度养老基金持有人全名、银行账户号码等信息的巨大数据缓存已在网上浮出水面。安全研究员Bob Diachenko发现两个独立的IP地址存储了超过2.88亿条记录--其中一个IP地址下有约2.8亿条记录，约840万条是第二个IP地址的一部分。该研究人员说，这两个IP地址都公开向互联网暴露数据，但没有密码保护。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，特斯拉CEO埃隆·马斯克（Elon Musk）今日向Twitter交易顾问高盛和摩根大通寻求相关信息，以判断他们在“马斯克与Twitter谈判期间”是如何引导Twitter的。根据特拉华州衡平法院的文件，马斯克的律师希望两家银行交出有关“他们讨论收购Twitter交易和分析Twitter财务状况的“文件和通讯”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300409.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
