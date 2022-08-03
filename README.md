@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [消息称暴雪将不会发行《魔兽世界》手游](https://hot.cnbeta.com/articles/game/1300423.htm) | Wed Aug 03 2022 4:56 PM 
+- 🕯 [通用汽车超级巡航系统将覆盖北美40万英里道路](https://www.cnbeta.com/articles/tech/1300425.htm) | Wed Aug 03 2022 5:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;通用汽车公司的 &amp;quot;免提&amp;quot;高级驾驶辅助系统（ADAS）--Super Cruise，很快将在北美更多的道路上使用。&lt;/strong&gt;通用汽车公司今天宣布，今年晚些时候，该ADAS系统将能够在40万英里的道路上运行，包括非分隔的高速公路，这将使超级巡航系统目前在美国和加拿大的覆盖范围基本翻倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [消息称暴雪将不会发行《魔兽世界》手游](https://hot.cnbeta.com/articles/game/1300423.htm) | Wed Aug 03 2022 4:56 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;暴雪娱乐公司正在继续向移动游戏领域拓展，但据说一个未公布的手游项目被取消了。&lt;/strong&gt;根据彭博社的报道，暴雪已经取消了《魔兽世界》品牌下的一款手机游戏。这款游戏是与暴雪的中国合作伙伴网易共同制作的，开发了有三年左右的时间，后来因为融资条件的冲突而停止了这个项目。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Facebook直播购物服务将于10月1日起停止服务](https://www.cnbeta.com/articles/tech/1300421.htm) | Wed Aug 03 2022 4:48 PM 
+- 💂 [Facebook直播购物服务将于10月1日起停止服务](https://www.cnbeta.com/articles/tech/1300421.htm) | Wed Aug 03 2022 4:48 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Facebook在一篇博文中宣布，该公司将于10月1日关闭其直播购物功能，将重点转移到Reels上。在这个日期之后，用户将不再能够在Facebook上举办任何新的或预定的直播购物活动，用户仍然能够使用Facebook Live来直播活动，只是不能在Facebook Live视频中创建产品播放列表或标记产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [罗技、腾讯云游戏掌机内幕首曝：安卓系统、配置较低](https://www.cnbeta.com/articles/tech/1300419.htm) | Wed Aug 03 2022 4:28 PM 
+- 🚀 [罗技、腾讯云游戏掌机内幕首曝：安卓系统、配置较低](https://www.cnbeta.com/articles/tech/1300419.htm) | Wed Aug 03 2022 4:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;日前，&lt;strong&gt;罗技官方宣布与腾讯达成了合作，双方今年晚些时候将会推出一款云游戏掌机，&lt;/strong&gt;支持多种云游戏服务，PC级3A大作都能玩。不过罗技并未公布与腾讯合作的掌机具体细节，只表示罗技会负责硬件，腾讯自然负责软件及游戏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [一加10T真机图赏 9月1日海外开售](https://www.cnbeta.com/articles/tech/1300417.htm) | Wed Aug 03 2022 4:10 PM 
+- 🎊 [一加10T真机图赏 9月1日海外开售](https://www.cnbeta.com/articles/tech/1300417.htm) | Wed Aug 03 2022 4:10 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月3日晚间，一加10T在海外亮相，&lt;strong&gt;起售价为649美元（约合人民币4400元，8GB+128GB）。&lt;/strong&gt;科技媒体Phone Arena指出，&lt;strong&gt;一加10T价格极具竞争力，相信这是最便宜的骁龙8+手机，而且8GB+128GB与16GB+256GB俩版本差价只有100美元，非常划算。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [买前128G到手32G 江苏一男子网购买到iPad扩容机起诉商家获退一赔三](https://www.cnbeta.com/articles/tech/1300415.htm) | Wed Aug 03 2022 4:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;便捷的网购成为当下消费者最青睐的购物方式之一，但因为是线上交易，其背后隐藏着不少隐患，如遇到 “货不对板”等问题。据媒体报道，近日，&lt;strong&gt;江苏苏州的张先生通过网购平台花费2600多元，购买了一台号称“原装正品”的128G iPad。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
