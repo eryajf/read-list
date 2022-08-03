@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Latest - 个人仪表板工具](https://xinquji.com/posts/178464?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:51 AM 
+- 👀 [青航 - 构建强大的功能清新主题](https://xinquji.com/posts/178384?utm_campaign=xinquji-rss) | Thu Aug 04 2022 9:09 AM 
+    <details><summary>展开描述 ...</summary> 
+     构建强大的功能清新主题  
+    </details> 
+
+- 🥷 [Latest - 个人仪表板工具](https://xinquji.com/posts/178464?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
      个人仪表板工具  
     </details> 
 
-- 🥷 [Casama - 分享您的加密货币交易理念，在几分钟内共同投资](https://xinquji.com/posts/178463?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:48 AM 
+- 💼 [Casama - 分享您的加密货币交易理念，在几分钟内共同投资](https://xinquji.com/posts/178463?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
      分享您的加密货币交易理念，在几分钟内共同投资  
     </details> 
 
-- 💼 [Ask A Doula by Ruth Health - 在怀孕、产后的所有事情上发短信给导乐](https://xinquji.com/posts/178462?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:46 AM 
+- 🦅 [Ask A Doula by Ruth Health - 在怀孕、产后的所有事情上发短信给导乐](https://xinquji.com/posts/178462?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
      在怀孕、产后的所有事情上发短信给导乐  
     </details> 
 
-- 🦅 [REVERB.wtf - 在几秒钟内生成漂亮的调色板和渐变](https://xinquji.com/posts/178461?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:44 AM 
+- 😺 [REVERB.wtf - 在几秒钟内生成漂亮的调色板和渐变](https://xinquji.com/posts/178461?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
      在几秒钟内生成漂亮的调色板和渐变  
-    </details> 
-
-- 😺 [Sitekick.ai - AI 登陆页面构建器，由 GPT-3 提供支持](https://xinquji.com/posts/178460?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:42 AM 
-    <details><summary>展开描述 ...</summary> 
-     AI 登陆页面构建器，由 GPT-3 提供支持  
     </details> 
 <!-- xinquji:END -->
