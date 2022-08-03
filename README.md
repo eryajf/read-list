@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0803](http://jandan.net/p/111081) | Wed Aug 03 2022 4:31 AM 
+- 🚀 [色彩饱和度高的食物图片能激发人们的购买欲望](http://jandan.net/p/111076) | Wed Aug 03 2022 8:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    同时起作用的变量是，照片中食物的视觉距离，以及就餐人数 
+    </details> 
+
+- 🙉 [今日好价 0803](http://jandan.net/p/111081) | Wed Aug 03 2022 4:31 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🙉 [用舌头去“看” 感官替代技术的潜力和局限性](http://jandan.net/p/111079) | Wed Aug 03 2022 4:25 AM 
+- 🎉 [用舌头去“看” 感官替代技术的潜力和局限性](http://jandan.net/p/111079) | Wed Aug 03 2022 4:25 AM 
     <details><summary>展开描述 ...</summary> 
     BrainPort  
     </details> 
 
-- 🎉 [2030年，中国、越南、乌干达、印尼和印度将成为增长最快的经济体](http://jandan.net/p/111054) | Tue Aug 02 2022 9:55 AM 
+- 🐲 [2030年，中国、越南、乌干达、印尼和印度将成为增长最快的经济体](http://jandan.net/p/111054) | Tue Aug 02 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
     哈佛大学增长实验室的经济复杂性指数 &lpar;ECI&rpar; 的新国家排名 
     </details> 
 
-- 🐲 [借助AI首次以化学准确度计算出氯化钠熔盐的自由能](http://jandan.net/p/111031) | Tue Aug 02 2022 9:54 AM 
+-  [借助AI首次以化学准确度计算出氯化钠熔盐的自由能](http://jandan.net/p/111031) | Tue Aug 02 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
     熔盐对于开发新能源非常重要——甚至有一天可能会用于聚变能源。 
-    </details> 
-
--  [6月29日 有史以来最短的一天](http://jandan.net/p/111078) | Tue Aug 02 2022 2:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    地球自转时间少了1.59 毫秒 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
