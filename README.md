@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Redis RDB与AOF持久化详解](https://juejin.cn/post/7127310071100342286) | Tue Aug 02 2022 4:05 PM 
+- 🤗 [Seata服务搭建及配合Nacos使用注册中心及配置中心](https://juejin.cn/post/7127444807022018597) | Wed Aug 03 2022 12:46 AM 
     <details><summary>展开描述 ...</summary> 
-    Redis的数据是全部存储在内存中的，如果机器突然宕机，那么数据就会全部丢失，因此需要有持久化机制来保证数据不会因为宕机而丢失。Redis 为我们提供了两种持久化方案，一种是基于快照的 RDB，另外一 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 一、Seata 是什么 Seata 是一款开源的分布式事务解决方案，致力于提供高性能和简单易用的分布式事务 
     </details> 
 
-- 🎡 [python 一行代码打印爱心](https://juejin.cn/post/7127310366794579998) | Tue Aug 02 2022 4:04 PM 
+- 🎡 [spring cloud tencent：安装北极星polaris服务](https://juejin.cn/post/7127444083206783012) | Wed Aug 03 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 1. 先放代码 2. 语法讲解 2.1 代码逻辑梳理 首先，为了更清晰的分析上面一行代码的逻辑关系，我们将其拆解成下面一个逻辑上更直观 
+    0. 引言 近期腾讯推出了自己的微服务框架，其中polaris（北极星）服务更是核心，除了提供服务发现和治理中心，除服务发现、服务注册和健康检查之外，还提供流量控制、故障容错和安全能力 今天我们就来看 
     </details> 
 
-- 🕯 [Go 中的 select 语句](https://juejin.cn/post/7127308613164466213) | Tue Aug 02 2022 3:58 PM 
+- 🕯 [PHP代码审计（二）常见危险函数及特殊函数](https://juejin.cn/post/7127443948506710047) | Wed Aug 03 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-    用法 多个通道 Channel 中信息的发送和接受处理的专用的语句—select 语句。select 语句会阻塞，直到其中的一个发送/接收操作准备好。select 语句和 switch 语句有点相似， 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 PHP中可以执行代码的函数，常用于编写一句话木马，可能导致代码执行漏洞，这里对代码常见危险函数做一些归纳。 
     </details> 
 
-- 🚀 [Go语言 fmt.Printf 格式输出](https://juejin.cn/post/7127305094273433613) | Tue Aug 02 2022 3:45 PM 
+- 🚀 [面试突击71：GET 和 POST 有什么区别？](https://juejin.cn/post/7127443645073981476) | Wed Aug 03 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 Go语言 fmt.Printf 格式输出 通用占位符 占位符 说明 %v 值的默认格式表示 %+v 类似% 
+    GET 和 POST 是 HTTP 请求中最常用的两种请求方法，在日常开发的 RESTful 接口中... 
     </details> 
 
-- 💪 [Jenkins + Docker + Github 实现自动化部署 Maven 项目](https://juejin.cn/post/7127302949797101604) | Tue Aug 02 2022 3:36 PM 
+- 💪 [软件测试 - 缺陷管理](https://juejin.cn/post/7127443411996508190) | Wed Aug 03 2022 12:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Jenkins + Docker + Github 实现自动化部署 Maven 项目，通过一步步的操作，学会如何简单的使用 jenkins 自动化部署后端项目 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第6天，点击查看活动详情 1. 缺陷的定义 产品不满足用户的需求或者测试执行时实际结果和预期结果不一致都属于缺陷。 2. 缺陷的判定 
     </details> 
 <!-- juejin:END -->
 ### 少数派
