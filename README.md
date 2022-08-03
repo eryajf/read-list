@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [gradle 拉依赖包，配置了两个仓库只去一个仓库里查找，怎么解？](https://www.v2ex.com/t/870483#reply0) | Wed Aug 03 2022 10:54 AM
-- 🤗 [运行 mariadb 出错 innodb=off](https://www.v2ex.com/t/870481#reply0) | Wed Aug 03 2022 10:35 AM
-- 🎭 [单身🐶的七夕都这么卷了么？](https://www.v2ex.com/t/870480#reply3) | Wed Aug 03 2022 10:29 AM
-- 🥷 [android studio 查看 native crash 配置 donotstrip， build 之后.so 文件大小没变。是姿势不对吗？](https://www.v2ex.com/t/870451#reply0) | Wed Aug 03 2022 8:36 AM
-- 🐵 [有什么较为通用的办法解决两个实体类传递相同参数?](https://www.v2ex.com/t/870449#reply14) | Wed Aug 03 2022 8:33 AM<!-- v2ex:END -->
+- 🥸 [如何配置一台小型 server](https://www.v2ex.com/t/870492#reply5) | Wed Aug 03 2022 12:03 PM
+- 🤗 [gradle 拉依赖包，配置了两个仓库只去一个仓库里查找，怎么解？](https://www.v2ex.com/t/870483#reply1) | Wed Aug 03 2022 10:54 AM
+- 🎭 [运行 mariadb 出错 innodb=off](https://www.v2ex.com/t/870481#reply0) | Wed Aug 03 2022 10:35 AM
+- 🥷 [单身🐶的七夕都这么卷了么？](https://www.v2ex.com/t/870480#reply6) | Wed Aug 03 2022 10:29 AM
+- 🐵 [android studio 查看 native crash 配置 donotstrip， build 之后.so 文件大小没变。是姿势不对吗？](https://www.v2ex.com/t/870451#reply0) | Wed Aug 03 2022 8:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
