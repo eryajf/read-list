@@ -364,8 +364,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [ESBuild 支持龙芯 loong64 了](https://www.v2ex.com/t/870534#reply1) | Wed Aug 03 2022 9:42 PM
-- 🤗 [谁篡改了我的主页，联想电脑管家？ Opera 狼狈为奸？](https://www.v2ex.com/t/870507#reply12) | Wed Aug 03 2022 2:28 PM
+- 🥸 [ESBuild 支持龙芯 loong64 了](https://www.v2ex.com/t/870534#reply3) | Wed Aug 03 2022 9:42 PM
+- 🤗 [谁篡改了我的主页，联想电脑管家？ Opera 狼狈为奸？](https://www.v2ex.com/t/870507#reply13) | Wed Aug 03 2022 2:28 PM
 - 🎭 [gradle 拉依赖包，配置了两个仓库只去一个仓库里查找，怎么解？](https://www.v2ex.com/t/870483#reply2) | Wed Aug 03 2022 10:54 AM
 - 🥷 [运行 mariadb 出错 innodb=off](https://www.v2ex.com/t/870481#reply1) | Wed Aug 03 2022 10:35 AM
 - 🐵 [单身🐶的七夕都这么卷了么？](https://www.v2ex.com/t/870480#reply16) | Wed Aug 03 2022 10:29 AM<!-- v2ex:END -->
