@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google商店纽约店现已撤消了Stadia体验室及演示服务](https://www.cnbeta.com/articles/tech/1300287.htm) | Wed Aug 03 2022 9:07 AM 
+- 🕯 [首发国产4K级显卡 芯动科技拿下5亿元GPU大单](https://www.cnbeta.com/articles/tech/1300325.htm) | Wed Aug 03 2022 10:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google的第一家零售店于去年在纽约市开张，其提供当面购买、维修、咨询和产品演示服务。另外，这家Google商店还有一个Stadia体验室，不过现在它将取消这一部分。9to5Google证实，纽约店的Google商店在过去的一两个星期里取消了其Stadia体验室。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去年11月份，芯动科技宣布推出首款国产4K级数据中心显卡风华1号系列，今天该公司还要发布新一代的风华2号系列，同时也在商业化方便取得重要突破，签订了5亿元的采购大单。今天下午，芯动科技与中国能建集团举行了有关新能源低碳数据中心的设备和技术运营合作的战略合作签约仪式，&lt;strong&gt;中国能建将采购风华GPU服务器等设备和技术合作，金额高达5亿元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [知名爆料者称任天堂可能会在6个月内发布新Switch](https://hot.cnbeta.com/articles/game/1300285.htm) | Wed Aug 03 2022 8:56 AM 
+- 💼 [消息称三星Galaxy Z折叠屏手机名称将全面去掉字母Z](https://www.cnbeta.com/articles/tech/1300323.htm) | Wed Aug 03 2022 10:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知名爆料者“Moore’s Law is Dead”宣称，&lt;strong&gt;任天堂可能会在6个月内发布一款全新的Switch主机&lt;/strong&gt;，“Moore’s Law is Dead”曾多次爆料过即将发布的电脑硬件和显卡信息，准确性较高。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月3日消息，爆料人SnoopyTech透露，&lt;strong&gt;三星下一代折叠屏手机会改名，去掉字母“Z”，最终命名为Galaxy Fold4和Galaxy Flip4。&lt;/strong&gt;此前三星曾在爱沙尼亚、立陶宛和拉脱维亚等国家，&lt;strong&gt;将旗下Galaxy Z Fold3和Galaxy Z Flip3改名为Galaxy Fold3和Galaxy Flip3，去掉“Z”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [扒一扒经典动漫游戏台词特点 并非仅仅只是鸡汤](https://hot.cnbeta.com/articles/comic/1300283.htm) | Wed Aug 03 2022 8:56 AM 
+- 💂 [Ubuntu 22.04.1 LTS正在准备发布 含英特尔AMX支持和其他修复](https://www.cnbeta.com/articles/tech/1300321.htm) | Wed Aug 03 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不可否认的是，日本动漫以及游戏文化已经风靡世界，包括精彩的内容、动听的歌曲、完善的系统，其中不可或缺的还有各种台词，好的台词不但容易上口，衬托角色性格，还容易被粉丝记住成为名言，不过其中并不全是教育人的鸡汤哦，一起来了解下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1300283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Canonical正在对Ubuntu 22.04.1 LTS进行收尾工作，该版本将于明天发布，是这个&amp;quot;Jammy Jellyfish&amp;quot;长期支持系列的第一个稳定版更新集合，采用了重新编译的ISO形式发行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [抖音网红彩虹夫妇自曝：一场直播带货2.3亿 净赚400多万](https://www.cnbeta.com/articles/tech/1300281.htm) | Wed Aug 03 2022 8:55 AM 
+- 🚀 [创新发布Sound Blaster X1 USB DAC](https://www.cnbeta.com/articles/tech/1300317.htm) | Wed Aug 03 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;直播带货算是当前最火、最挣钱的行业之一，不少网红主播，一场带货下来都是几十、上百万元的收入，羡煞旁人。那么，对于头部网红主播来说，一场带货到底能挣多少钱呢？抖音网红“彩虹夫妇”给出了参考答案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Creative Technology（创新科技）今天推出了Sound Blaster X1，这是一款便携的USB DAC和耳机放大器，它内置了Sound Blaster Acoustic Engine技术，以及在标志性的SXFI AMP中首次出现的Super X-Fi Headphone Holography。&lt;/strong&gt;小如手指却能提供多声道、高分辨率和沉浸式音频等特性，由128dB AKM4377 32位DAC和Ti/Burr-Brown INA1620双音频运算放大器方案构成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国内用户数量最多的20款App排名 看看你手机里有几款](https://www.cnbeta.com/articles/tech/1300279.htm) | Wed Aug 03 2022 8:51 AM 
+- 🎊 [腾讯诉争“王者世界”商标被法院驳回](https://hot.cnbeta.com/articles/game/1300315.htm) | Wed Aug 03 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;手机中国注意到，有调研机构公布了国内用户数量最多的20款App排名。榜单信息显示，这些App的月度活跃用户数量都在3.4亿人以上，拥有非常广泛的用户基础。&lt;strong&gt;具体到排名上，我们可以看到，微信是国内用户数量最多的App，其月度活跃用户超过了10亿人。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，腾讯科技（深圳）有限公司与国家知识产权局相关案件一审法律文书公布。&lt;strong&gt;文书显示，国家知识产权局曾对腾讯公司申请的服装鞋帽类“王者世界”商标作出驳回复审决定。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
