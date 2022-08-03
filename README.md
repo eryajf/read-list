@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [首发国产4K级显卡 芯动科技拿下5亿元GPU大单](https://www.cnbeta.com/articles/tech/1300325.htm) | Wed Aug 03 2022 10:23 AM 
+- 🕯 [瑞士Nant de Drance抽水蓄能电站可为90万户家庭供电](https://www.cnbeta.com/articles/tech/1300333.htm) | Wed Aug 03 2022 10:55 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;经历 14 年攻坚建设与测试，瑞士瓦莱州的 900 兆瓦抽水蓄能电站 —— Nant de Drance —— 终于在今年 7 月完成了建设。&lt;/strong&gt;这座巨大的“蓄电池”拥有 2000 万千瓦时的库容，能够为多达 90 万个家庭供电。但是对于瑞士与欧洲来说，其在“削峰填谷”以确保电网运行稳定的意义上要更大一些。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [AT&amp;T关闭3G网络导致密歇根州无法在周二及时上报选举结果](https://www.cnbeta.com/articles/tech/1300331.htm) | Wed Aug 03 2022 10:29 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;底特律人口大县 Wayne County 书记官办公室在网站上证实，密歇根州 83 个县中有 65 个受到了事故影响。&lt;/strong&gt;TheVerge 指出，由于美国选举授权委员（EAC）的指导方针中强调了不要将投票系统直接互联网，目前尚不清楚有多少官员因没有升级他们的 AT&amp;amp;T 3G 调制解调器而受到影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [湖人老板推特账户被盗 黑客用其进行PS5义卖诈骗](https://www.cnbeta.com/articles/tech/1300329.htm) | Wed Aug 03 2022 10:28 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据Kotaku报道，近日，NBA洛杉矶湖人队老板珍妮·巴斯的推特账户被黑客盗取，并在其推特账号上发布有关于PS5的骗局广告。黑客在盗取珍妮·巴斯的账户后，用其账号发文称，作为全球知名球队的拥有者，她将为了慈善事业，把自己手中的三台PS5进行义卖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [创见推出112层3D NAND嵌入式宽温固态硬盘](https://www.cnbeta.com/articles/tech/1300327.htm) | Wed Aug 03 2022 10:25 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;创见最近推出了全系列112层3D NAND固态硬盘，具有宽温耐受性，可在-40°C至85°C之间稳定运行。其规格包括2.5英寸、M.2和mSATA类型，全面适用于嵌入式设备、车载系统和超薄服务器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [首发国产4K级显卡 芯动科技拿下5亿元GPU大单](https://www.cnbeta.com/articles/tech/1300325.htm) | Wed Aug 03 2022 10:23 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;去年11月份，芯动科技宣布推出首款国产4K级数据中心显卡风华1号系列，今天该公司还要发布新一代的风华2号系列，同时也在商业化方便取得重要突破，签订了5亿元的采购大单。今天下午，芯动科技与中国能建集团举行了有关新能源低碳数据中心的设备和技术运营合作的战略合作签约仪式，&lt;strong&gt;中国能建将采购风华GPU服务器等设备和技术合作，金额高达5亿元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [消息称三星Galaxy Z折叠屏手机名称将全面去掉字母Z](https://www.cnbeta.com/articles/tech/1300323.htm) | Wed Aug 03 2022 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月3日消息，爆料人SnoopyTech透露，&lt;strong&gt;三星下一代折叠屏手机会改名，去掉字母“Z”，最终命名为Galaxy Fold4和Galaxy Flip4。&lt;/strong&gt;此前三星曾在爱沙尼亚、立陶宛和拉脱维亚等国家，&lt;strong&gt;将旗下Galaxy Z Fold3和Galaxy Z Flip3改名为Galaxy Fold3和Galaxy Flip3，去掉“Z”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Ubuntu 22.04.1 LTS正在准备发布 含英特尔AMX支持和其他修复](https://www.cnbeta.com/articles/tech/1300321.htm) | Wed Aug 03 2022 10:19 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Canonical正在对Ubuntu 22.04.1 LTS进行收尾工作，该版本将于明天发布，是这个&amp;quot;Jammy Jellyfish&amp;quot;长期支持系列的第一个稳定版更新集合，采用了重新编译的ISO形式发行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [创新发布Sound Blaster X1 USB DAC](https://www.cnbeta.com/articles/tech/1300317.htm) | Wed Aug 03 2022 10:14 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Creative Technology（创新科技）今天推出了Sound Blaster X1，这是一款便携的USB DAC和耳机放大器，它内置了Sound Blaster Acoustic Engine技术，以及在标志性的SXFI AMP中首次出现的Super X-Fi Headphone Holography。&lt;/strong&gt;小如手指却能提供多声道、高分辨率和沉浸式音频等特性，由128dB AKM4377 32位DAC和Ti/Burr-Brown INA1620双音频运算放大器方案构成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [腾讯诉争“王者世界”商标被法院驳回](https://hot.cnbeta.com/articles/game/1300315.htm) | Wed Aug 03 2022 10:10 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，腾讯科技（深圳）有限公司与国家知识产权局相关案件一审法律文书公布。&lt;strong&gt;文书显示，国家知识产权局曾对腾讯公司申请的服装鞋帽类“王者世界”商标作出驳回复审决定。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
