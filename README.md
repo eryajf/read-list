@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [任天堂22-23财年Q1财报公开 NS销量累计1亿1108万台](https://hot.cnbeta.com/articles/game/1300261.htm) | Wed Aug 03 2022 8:08 AM 
+- 🕯 [Google商店纽约店现已撤消了Stadia体验室及演示服务](https://www.cnbeta.com/articles/tech/1300287.htm) | Wed Aug 03 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;任天堂公开2022~2023财年第一季度财报（2022年4月1日~2022年6月30日），该季度任天堂销售额3074.6亿日元，同比减少4.7%，利润1016.47亿日元，同比减少15.1%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google的第一家零售店于去年在纽约市开张，其提供当面购买、维修、咨询和产品演示服务。另外，这家Google商店还有一个Stadia体验室，不过现在它将取消这一部分。9to5Google证实，纽约店的Google商店在过去的一两个星期里取消了其Stadia体验室。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [无敌是多么寂寞 寂寞到玩家要起诉暴雪了](https://hot.cnbeta.com/articles/game/1300259.htm) | Wed Aug 03 2022 8:07 AM 
+- 💼 [知名爆料者称任天堂可能会在6个月内发布新Switch](https://hot.cnbeta.com/articles/game/1300285.htm) | Wed Aug 03 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;从国际服开服以来，《暗黑破坏神：不朽》这款游戏已经算得上是差评如潮了，而其中最大的问题，无外乎这游戏的氪金问题。&lt;/strong&gt;作为一款 F2P 游戏，氪金提升强度自然是游戏不可或缺的一部分，要么怎么说免费玩家是氪金玩家游戏体验的一部分呢。但最近有用户发现，氪金太多，反而给游戏体验带来了麻烦。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;知名爆料者“Moore’s Law is Dead”宣称，&lt;strong&gt;任天堂可能会在6个月内发布一款全新的Switch主机&lt;/strong&gt;，“Moore’s Law is Dead”曾多次爆料过即将发布的电脑硬件和显卡信息，准确性较高。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [被山东省汽车协会拉黑 观致汽车回应欠薪：已还520万元](https://www.cnbeta.com/articles/tech/1300257.htm) | Wed Aug 03 2022 8:03 AM 
+- 💂 [扒一扒经典动漫游戏台词特点 并非仅仅只是鸡汤](https://hot.cnbeta.com/articles/comic/1300283.htm) | Wed Aug 03 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，8月2日，观致汽车被曝由于欠薪疑似被移送公安处理。有媒体联系了宝能集团相关工作人员，其表示：通报发出后，观致汽车第一时间与常熟人社局局进行了情况报告和沟通。经核查确认，宝能观致汽车方面此前与常熟市人民政府碧溪街道办事处就员工欠薪问题进行了全面沟通和妥善处理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不可否认的是，日本动漫以及游戏文化已经风靡世界，包括精彩的内容、动听的歌曲、完善的系统，其中不可或缺的还有各种台词，好的台词不但容易上口，衬托角色性格，还容易被粉丝记住成为名言，不过其中并不全是教育人的鸡汤哦，一起来了解下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1300283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新冠长期症危害渐显 《自然》：心脏患病风险增加20倍](https://www.cnbeta.com/articles/tech/1300255.htm) | Wed Aug 03 2022 8:02 AM 
+- 🚀 [抖音网红彩虹夫妇自曝：一场直播带货2.3亿 净赚400多万](https://www.cnbeta.com/articles/tech/1300281.htm) | Wed Aug 03 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国际科学顶刊《自然》杂志8月2日发表文章指出，研究表明，即使在新冠感染治愈后的几个月，患上心血管问题的风险也会很高，例如心脏病发作、中风等。在《自然-医学》上的一项研究中，研究人员使用美国退伍军人事务部（VA）记录的数据来估计新冠病毒导致心血管问题的频率，对比了VA记录的15万名新冠康复患者和未感染的同龄人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;直播带货算是当前最火、最挣钱的行业之一，不少网红主播，一场带货下来都是几十、上百万元的收入，羡煞旁人。那么，对于头部网红主播来说，一场带货到底能挣多少钱呢？抖音网红“彩虹夫妇”给出了参考答案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [40℃高温有多热？新疆“冰山之父”都融化了](https://www.cnbeta.com/articles/tech/1300253.htm) | Wed Aug 03 2022 7:46 AM 
+- 🎊 [国内用户数量最多的20款App排名 看看你手机里有几款](https://www.cnbeta.com/articles/tech/1300279.htm) | Wed Aug 03 2022 8:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月以来，新疆南疆盆地、陕西南部 、湖北、江南、华南、四川东部、重庆等全国多地持续高温，气温普遍超过35℃，新疆吐鲁番盆地等局部地区甚至超过了40℃。据中央气象台统计，从7月1日至7月31日，新疆地区一整月有26天以上都在遭遇高温侵袭。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;手机中国注意到，有调研机构公布了国内用户数量最多的20款App排名。榜单信息显示，这些App的月度活跃用户数量都在3.4亿人以上，拥有非常广泛的用户基础。&lt;strong&gt;具体到排名上，我们可以看到，微信是国内用户数量最多的App，其月度活跃用户超过了10亿人。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
