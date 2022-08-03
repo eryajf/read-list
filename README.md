@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [七夕专属限定：1 分钟 Serverless 极速抽盲盒](https://juejin.cn/post/7127482622522949645) | Wed Aug 03 2022 3:13 AM 
+- 🤗 [075-Dlink+Flink+CDC on k8s 整库同步](https://juejin.cn/post/7127518515686277151) | Wed Aug 03 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
-    体验简介 在阿里云云起实验中，通过Serverless架构部署一个抽奖系统，当前，Serverless在移动应用、游戏等场景已经实现规模化应用，Serverless 技术可以更好的帮助开发者只关注应用 
+    本文 主要讲解如何在 K8S 集群跑 Dlink+Flink 通过 Flink CDC 进行整库同步。 安装 K8S 如果是本地测试的话，可以起 minikube 如果是生产的话，可以使用 Ranch 
     </details> 
 
-- 🎡 [近邻搜索算法浅析](https://juejin.cn/post/7127481865803890725) | Wed Aug 03 2022 3:10 AM 
+- 🎡 [Android技术分享| 视频通话开发流程&lpar;一&rpar;](https://juejin.cn/post/7127516607609307150) | Wed Aug 03 2022 5:26 AM 
     <details><summary>展开描述 ...</summary> 
-    如何在海量数据中精准高效的完成搜索成为一个研究热点，各路前辈专家提出了不同的算法，今天我们就简单聊下当前比较常见的近邻搜索算法。 
+    此文档基于 Android RTM、RTC SDK，其他平台API 基本一致，可供参考。 ​ RTM：用于搭建呼叫的一整套流程、信令交互 ​ RTC：用于呼叫流程通了之后的音视频交互 由于呼叫和音视频 
     </details> 
 
-- 🕯 [TiKV &amp; TiFlash 加速复杂业务查询丨TiFlash 应用实践](https://juejin.cn/post/7127478339538780191) | Wed Aug 03 2022 2:56 AM 
+- 🕯 [Observability：你所需要知道的关于 Syslog 的一些知识](https://juejin.cn/post/7127516125893492773) | Wed Aug 03 2022 5:23 AM 
     <details><summary>展开描述 ...</summary> 
-    复杂业务查询对于传统的关系型数据库来说是一种考验，而通过 TiKV 行存与 TiFlash 的列存结合使用就能很好地应对。本文根据 TUG 用户边城元元在 TiDB 社区技术交流石家庄站的分享整理，详 
+    Syslog 是一种标准，用于以特定格式从各种网络设备发送和接收通知消息。 这些消息包括时间戳、事件消息、严重性、主机 IP 地址、诊断等。 就其内置的严重性级别而言，它可以传达级别 0、紧急、级别  
     </details> 
 
-- 🚀 [本周四晚19：00知识赋能第4期直播丨OpenHarmony智能家居项目之设备控制实现](https://juejin.cn/post/7127478093194723359) | Wed Aug 03 2022 2:55 AM 
+- 🚀 [async-validator 源码解析&lpar;二&rpar; - 核心实现](https://juejin.cn/post/7127514371210608653) | Wed Aug 03 2022 5:17 AM 
     <details><summary>展开描述 ...</summary> 
-    OpenAtom OpenHarmony&lpar;以下简称“OpenHarmony&quot;&rpar;开源开发者成长计划项目自 2021 年 10 月 24 日上线以来，在开发者中引发高度关注。 
+    async-validator 是一个表单异步校验库，npm上每周下载量达120万次左右，代码设计十分优秀，这期我准备来详情解读一下源码，从中学习和了解作者的设计思想，便于在项目中更灵活的运用。 
     </details> 
 
-- 💪 [【LeetCode】160. 相交链表](https://juejin.cn/post/7127478001758896136) | Wed Aug 03 2022 2:55 AM 
+- 💪 [async-validator 源码解析&lpar;一&rpar; - 基本使用](https://juejin.cn/post/7127513760960348174) | Wed Aug 03 2022 5:14 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 前言 为了养成创作习惯，从今天起开始刷力扣了，只刷简单和中等难度的题，分类刷，这个月就先刷链表题，从简单的 
+    async-validator 是一个表单异步校验库，npm上每周下载量达120万次左右，代码设计十分优秀，这期我准备来详情解读一下源码，从中学习和了解作者的设计思想，便于在项目中更灵活的运用。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
