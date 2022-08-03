@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [又有传言称iPhone 14和iPhone 14 Pro包含紫色机壳选项](https://www.cnbeta.com/articles/tech/1300391.htm) | Wed Aug 03 2022 1:15 PM 
+- 🕯 [《暗黑破坏神4》实机视频疑遭泄露](https://hot.cnbeta.com/articles/game/1300407.htm) | Wed Aug 03 2022 2:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月苹果将推出新的iPhone 14和iPhone 14 Pro。虽然我们已经对这款产品的外观有了很好的了解，但现在一个泄密者证实了之前的一些报道，同时给出了关于下一代iPhone的一些小道消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;目前，外网传出一段《暗黑破坏神4》开头视频，时长半分钟，展示了游戏的开篇部分，由于泄露的内容较少，所以还不能确切知道游戏的游玩等内容。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《暗黑破坏神4》泄露视频：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Linux 6.0网络子系统将迎来性能优化 并为Wi-Fi 7做早期准备](https://www.cnbeta.com/articles/tech/1300389.htm) | Wed Aug 03 2022 1:12 PM 
+- 💼 [SEC的难题：尚乘数科成为第一只市值超腾讯、阿里的中国股票](https://www.cnbeta.com/articles/tech/1300405.htm) | Wed Aug 03 2022 2:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着Linux 5.19内核的推出，一些令人兴奋的网络改进虽知道来，如big-TCP支持、基于光的网络的PureLiFi驱动、用于低功耗IoT硬件的“WFX”WiFi 驱动支持以及更多。现在，随着正在开发的Linux 6.0（也就是5.20版），还有很多工作要做。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;实现千亿美元市值的奇迹，尚乘数科（HKD.US）仅用了14天。14天！刷新了中概股千亿美元市值“小目标”的最新记录，而阿里竟跑了8年。李嘉诚携手尚乘数科（HKD.US）一出手便刷新了中概股新顺位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Google现在允许商家在其地图和搜索资料中添加&quot;亚洲人拥有&quot;标签](https://www.cnbeta.com/articles/tech/1300387.htm) | Wed Aug 03 2022 1:04 PM 
+- 💂 [232层堆叠？长江存储第四代3D闪存揭秘](https://www.cnbeta.com/articles/tech/1300403.htm) | Wed Aug 03 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Google今天宣布，它将在地图和搜索中增加一个新的标签，让人们可以识别他们的企业是由亚洲人拥有的。&lt;/strong&gt;这个新标签现在对在Google上拥有经过验证的企业资料的美国商家可用。一旦商家在他们的商业档案中添加了这个标签，用户就可以在地图的搜索中看到这个属性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月2日，国产闪存制造商长江存储在2022年闪存峰会（FMS）上宣布，正式推出了基于晶栈?3.0（Xtacking?3.0）技术的第四代TLC三维闪存X3-9070。消息显示，该3D NAND闪存堆叠层数或已达到了业界领先的232层。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [AppleCare+在更多欧洲国家增加手机被盗和丢失扩展保险项目](https://www.cnbeta.com/articles/tech/1300385.htm) | Wed Aug 03 2022 12:47 PM 
+- 🚀 [印度再次指控vivo逃税221亿卢比](https://www.cnbeta.com/articles/tech/1300401.htm) | Wed Aug 03 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;法国、意大利和西班牙的用户现在可以选择扩展版的AppleCare+保险，它涵盖盗窃、丢失以及损坏。在美国首次推出AppleCare+选项六年后，苹果现在在上述国家提供相应服务，这使得目前提供失窃和丢失保险的国家名单达到8个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月3日消息，印度政府机构在一份声明中称，vivo逃税221亿卢比（约合18.9亿元人民币）。声明称，印度税务情报局 &lpar;DRI&rpar; 发现了逃税行为，随后它向vivo发出了通知。上个月，印度执法局称已经封锁了119个与vivo印度业务相关的银行账户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [重庆造了全国首条4D景观高速隧道：开车能“穿越”一年四季](https://www.cnbeta.com/articles/tech/1300383.htm) | Wed Aug 03 2022 12:42 PM 
+- 🎊 [2.88亿条印度养老基金持有人的身份数据被暴露在互联网](https://www.cnbeta.com/articles/tech/1300399.htm) | Wed Aug 03 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你见过能“穿越”一年四季的隧道吗？近日，重庆城口县至开州区高速公路，城口鸡鸣至开州谭家段面向社会车辆正式开放。在全长11.5公里的隧道内，设有4段景观拓宽段，以四季风光为主题，&lt;strong&gt;分别是春季烂漫油菜花、夏季汉丰湖揽胜、秋季大巴山红叶、冬季雪山云海，&lt;/strong&gt;让人开车就能体验到“穿越”一年四季的感受。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一个包含印度养老基金持有人全名、银行账户号码等信息的巨大数据缓存已在网上浮出水面。安全研究员Bob Diachenko发现两个独立的IP地址存储了超过2.88亿条记录--其中一个IP地址下有约2.8亿条记录，约840万条是第二个IP地址的一部分。该研究人员说，这两个IP地址都公开向互联网暴露数据，但没有密码保护。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
