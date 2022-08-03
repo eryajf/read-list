@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Insta360 Link - 人工智能驱动的 4K 网络摄像头，具有手势控制和隐私功能](https://xinquji.com/posts/178447?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:26 AM 
+- 👀 [Latest - 个人仪表板工具](https://xinquji.com/posts/178464?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     人工智能驱动的 4K 网络摄像头，具有手势控制和隐私功能  
+     个人仪表板工具  
     </details> 
 
-- 🥷 [LALAL.AI Voice Cleaner - 使用 AI 去除音频和视频中的噪音](https://xinquji.com/posts/178446?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:24 AM 
+- 🥷 [Casama - 分享您的加密货币交易理念，在几分钟内共同投资](https://xinquji.com/posts/178463?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 AI 去除音频和视频中的噪音  
+     分享您的加密货币交易理念，在几分钟内共同投资  
     </details> 
 
-- 💼 [B2B Customer Journeys by HockeyStack - 单一时间线上跨渠道的所有接触点](https://xinquji.com/posts/178445?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:24 AM 
+- 💼 [Ask A Doula by Ruth Health - 在怀孕、产后的所有事情上发短信给导乐](https://xinquji.com/posts/178462?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     单一时间线上跨渠道的所有接触点  
+     在怀孕、产后的所有事情上发短信给导乐  
     </details> 
 
-- 🦅 [Wall33 - 任何人都可以在公共墙上写任何东西](https://xinquji.com/posts/178444?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:23 AM 
+- 🦅 [REVERB.wtf - 在几秒钟内生成漂亮的调色板和渐变](https://xinquji.com/posts/178461?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-     任何人都可以在公共墙上写任何东西  
+     在几秒钟内生成漂亮的调色板和渐变  
     </details> 
 
-- 😺 [Trickle - 一个让团队想法可共享和互动的地方](https://xinquji.com/posts/178443?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:22 AM 
+- 😺 [Sitekick.ai - AI 登陆页面构建器，由 GPT-3 提供支持](https://xinquji.com/posts/178460?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     一个让团队想法可共享和互动的地方  
+     AI 登陆页面构建器，由 GPT-3 提供支持  
     </details> 
 <!-- xinquji:END -->
