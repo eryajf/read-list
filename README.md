@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [还原经典的细节与质感，将复古音乐播放器装进口袋：OneMusic | App+1](https://sspai.com/post/74850) | Wed Aug 03 2022 6:30 AM 
+- 👹 [让手机变身电脑配件，这些 App 帮你应对突发意外](https://sspai.com/post/74978) | Wed Aug 03 2022 8:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    再也不用为网课考试多买两个摄像头了。&lt;a href=&quot;https://sspai.com/post/74978&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [还原经典的细节与质感，将复古音乐播放器装进口袋：OneMusic | App+1](https://sspai.com/post/74850) | Wed Aug 03 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     OneMusic 希望为你还原历史中的经典播放器，让你在享受音乐的同时，拥有不同的视觉体验，体会多款历史经典音乐播放器的效果，带你重温过去的时光和自己。&lt;a href=&quot;https://sspai.com/post/74850&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [身体乳入门攻略：除了品牌和价格，你还需要考虑什么？](https://sspai.com/post/74973) | Wed Aug 03 2022 3:31 AM 
+- 🤭 [身体乳入门攻略：除了品牌和价格，你还需要考虑什么？](https://sspai.com/post/74973) | Wed Aug 03 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     冬天为了对抗干燥气候带来的皮肤干燥，很多人都会选择身体乳。之前在百元幸中推荐了自己近期爱用的身体乳，就想能不能试着写一篇身体乳推荐，但是我一个人的经验和观点难免偏颇，于是我采访了5位有一定经验的朋友， ...&lt;a href=&quot;https://sspai.com/post/74973&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：影石发布 Link 4K 网络摄像头、Apple 更新「过时产品」名单等](https://sspai.com/post/74969) | Wed Aug 03 2022 12:37 AM 
+- 🥸 [派早报：影石发布 Link 4K 网络摄像头、Apple 更新「过时产品」名单等](https://sspai.com/post/74969) | Wed Aug 03 2022 12:37 AM 
     <details><summary>展开描述 ...</summary> 
     罗技 G 与腾讯游戏宣布合作，富士通推出 Lifebook WU-X/G2 等。&lt;a href=&quot;https://sspai.com/post/74969&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [距离新 iPhone 不到两个月，为什么我买了一台 iPhone 13 mini](https://sspai.com/post/74960) | Tue Aug 02 2022 9:30 AM 
+- 🙉 [距离新 iPhone 不到两个月，为什么我买了一台 iPhone 13 mini](https://sspai.com/post/74960) | Tue Aug 02 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74960&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [App+1 | OCR 录入、金字塔减糖，HiWater 想成为你的喝水管家](https://sspai.com/post/74956) | Tue Aug 02 2022 7:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    「记录」这件事就是非常有威力，它会把注意力之外的小细节收集起来，给予一种确实发生但又意料之外的生活视角。比如如果不是记账，我不知道原来每个月会支出那么多零零碎碎的「拿铁因子」；如果不是HiWater， ...&lt;a href=&quot;https://sspai.com/post/74956&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
