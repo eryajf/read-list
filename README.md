@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java最强大的技术之一：反射](https://juejin.cn/post/7127479917767294990) | Wed Aug 03 2022 3:02 AM 
+- 🤗 [七夕专属限定：1 分钟 Serverless 极速抽盲盒](https://juejin.cn/post/7127482622522949645) | Wed Aug 03 2022 3:13 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 何为反射？ Java的 反射机制 是在运行状态中，对于任意一个类，都能够 知道这个类的所有属性和方法 ；对 
+    体验简介 在阿里云云起实验中，通过Serverless架构部署一个抽奖系统，当前，Serverless在移动应用、游戏等场景已经实现规模化应用，Serverless 技术可以更好的帮助开发者只关注应用 
     </details> 
 
-- 🎡 [谷歌三件套 - Bigtable](https://juejin.cn/post/7127465416103821349) | Wed Aug 03 2022 2:06 AM 
+- 🎡 [近邻搜索算法浅析](https://juejin.cn/post/7127481865803890725) | Wed Aug 03 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
-    如标题所言，这一篇文章简单介绍BigTable，其实个人更建议看LevelDB这款开源数据库，因为这数据库也是Bigtable的作者 **JeffreyDean** 设计的，很多内容不能说像简直就是一 
+    如何在海量数据中精准高效的完成搜索成为一个研究热点，各路前辈专家提出了不同的算法，今天我们就简单聊下当前比较常见的近邻搜索算法。 
     </details> 
 
-- 🕯 [你需要了解的 React 性能优化方法（建议收藏）](https://juejin.cn/post/7127461996932366372) | Wed Aug 03 2022 1:52 AM 
+- 🕯 [TiKV &amp; TiFlash 加速复杂业务查询丨TiFlash 应用实践](https://juejin.cn/post/7127478339538780191) | Wed Aug 03 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是前端西瓜哥。今天带大家来学习如何做 React 性能优化。 使用 React.memo&lpar;&rpar; 一个组件可以通过 React.memo 方法得到一个添加了缓存功能的新组件。 
+    复杂业务查询对于传统的关系型数据库来说是一种考验，而通过 TiKV 行存与 TiFlash 的列存结合使用就能很好地应对。本文根据 TUG 用户边城元元在 TiDB 社区技术交流石家庄站的分享整理，详 
     </details> 
 
-- 🚀 [七夕活动浪漫上线，别让网络拖慢和小姐姐的开黑时间](https://juejin.cn/post/7127461549362380813) | Wed Aug 03 2022 1:51 AM 
+- 🚀 [本周四晚19：00知识赋能第4期直播丨OpenHarmony智能家居项目之设备控制实现](https://juejin.cn/post/7127478093194723359) | Wed Aug 03 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    七夕情人节到了，各种App都要忙着上新，抓住互联网产品的节日热点，结合应用的类别进行活动营销。比如购物类App会在节日进行大促；旅游类App会推出各种优惠活动；短视频和拍照App会推出各种节日限定特 
+    OpenAtom OpenHarmony&lpar;以下简称“OpenHarmony&quot;&rpar;开源开发者成长计划项目自 2021 年 10 月 24 日上线以来，在开发者中引发高度关注。 
     </details> 
 
-- 💪 [Python 深入了解正则表达式](https://juejin.cn/post/7127461471407046686) | Wed Aug 03 2022 1:51 AM 
+- 💪 [【LeetCode】160. 相交链表](https://juejin.cn/post/7127478001758896136) | Wed Aug 03 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    在本节中，我们将学习更多关于如何处理正则表达式的知识。在学习了基础知识之后，我们将更深入地了解模式元素，介绍另一种用于检索和解析字符串的方法 group&lpar;&rpar; 方法。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 前言 为了养成创作习惯，从今天起开始刷力扣了，只刷简单和中等难度的题，分类刷，这个月就先刷链表题，从简单的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
