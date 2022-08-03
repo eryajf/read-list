@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [WidsMob Panorama 4.25 图片拼接工具](https://xclient.info/s/widsmob-panorama.html) | Tue Aug 02 2022 1:13 AM 
+- 🦏 [Parallels Toolbox 5.5.1-4410 PD工具箱](https://xclient.info/s/parallels-toolbox.html) | Wed Aug 03 2022 1:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    Parallels Toolbox 是Mac平台上的一款PD虚拟机快捷的实用工具集合工具 
+    </details> 
+
+-  [Parallels Desktop 17.1.4-51567 最佳Mac虚拟机解决方案](https://xclient.info/s/parallels-desktop.html) | Wed Aug 03 2022 1:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    Parallels Desktop 是功能最强大灵活度最高的虚拟化方案，无需重启即可在同一台电脑上随时访问Windows和Mac两个系统上的众多应用程序。从仅限于PC的游戏到生产力软件，Parallels Desktop都能帮您实现便捷使用。 
+    </details> 
+
+- ⚗️ [Sweet Home 3D 7.0.3 3D室内设计软件](https://xclient.info/s/sweet-home-3d.html) | Wed Aug 03 2022 1:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    Sweet Home 3D是一个易于学习的室内设计应用程序，可以帮助您绘制您的房子在2D的计划，安排家具，并在渲染成3D效果。 
+    </details> 
+
+- 🔥 [WidsMob Panorama 4.25 图片拼接工具](https://xclient.info/s/widsmob-panorama.html) | Tue Aug 02 2022 1:13 AM 
     <details><summary>展开描述 ...</summary> 
     WidsMob Panorama是一款Mac平台上备受好评的图片拼接软件。有了它您可以将多个照片拼接成一张照片。 
     </details> 
 
--  [NeoFinder 8.1.2 外部磁盘管理工具](https://xclient.info/s/neofinder.html) | Tue Aug 02 2022 1:12 AM 
+- 🌋 [NeoFinder 8.1.2 外部磁盘管理工具](https://xclient.info/s/neofinder.html) | Tue Aug 02 2022 1:12 AM 
     <details><summary>展开描述 ...</summary> 
     NeoFinder是Mac上的一款帮助用户管理磁盘的Mac工具，NeoFinder能迅速组织您的数据，无论是在外部或内部磁盘，或任何其他卷。它能记录组织所有的数据 
-    </details> 
-
-- ⚗️ [Music Tag Editor 7.2.1 音频文件标签编辑](https://xclient.info/s/music-tag-editor-pro.html) | Tue Aug 02 2022 1:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    Music Tag Editor Pro 能帮你快速高效的编辑不同音乐格式文件的标签信息 
-    </details> 
-
-- 🔥 [Grids for Instagram 8.1.2 在桌面端更加优雅地浏览Instagram](https://xclient.info/s/grids-for-instagram.html) | Tue Aug 02 2022 1:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    Grids带给您Mac上的全新的Instagram体验。完美支持VPN和代理连接！ 
-    </details> 
-
-- 🌋 [Digital Clock 3D 2.1.1 3D动态时钟桌面](https://xclient.info/s/digital-clock-3d.html) | Tue Aug 02 2022 1:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    Digital Clock 3D是一款3D时钟动态桌面应用，多种风格可以选择。 
     </details> 
 <!-- xclient:END -->
 
