@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Parallels Toolbox 5.5.1-4410 PD工具箱](https://xclient.info/s/parallels-toolbox.html) | Wed Aug 03 2022 1:50 AM 
+- 🦏 [RAR Extractor Max – unzip 9.8.0 解压缩神器](https://xclient.info/s/rar-extractor-unzip.html) | Wed Aug 03 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-    Parallels Toolbox 是Mac平台上的一款PD虚拟机快捷的实用工具集合工具 
+    RAR Extractor - Unzip是一款功能强大的解压缩软件，支持几乎所有的压缩格式，比如RAR, ZIP, 7z, tbz, sti, tar, xar等等，用起来非常的方便。 
     </details> 
 
--  [Parallels Desktop 17.1.4-51567 最佳Mac虚拟机解决方案](https://xclient.info/s/parallels-desktop.html) | Wed Aug 03 2022 1:43 AM 
+-  [PowerPhotos 2.0.3 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Wed Aug 03 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-    Parallels Desktop 是功能最强大灵活度最高的虚拟化方案，无需重启即可在同一台电脑上随时访问Windows和Mac两个系统上的众多应用程序。从仅限于PC的游戏到生产力软件，Parallels Desktop都能帮您实现便捷使用。 
+    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
     </details> 
 
-- ⚗️ [Sweet Home 3D 7.0.3 3D室内设计软件](https://xclient.info/s/sweet-home-3d.html) | Wed Aug 03 2022 1:41 AM 
+- ⚗️ [Perfectly Clear WorkBench 4.1.2.2311 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Wed Aug 03 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-    Sweet Home 3D是一个易于学习的室内设计应用程序，可以帮助您绘制您的房子在2D的计划，安排家具，并在渲染成3D效果。 
+    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
     </details> 
 
-- 🔥 [WidsMob Panorama 4.25 图片拼接工具](https://xclient.info/s/widsmob-panorama.html) | Tue Aug 02 2022 1:13 AM 
+- 🔥 [GlueMotion 2.0.5 缩时摄影](https://xclient.info/s/gluemotion.html) | Wed Aug 03 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-    WidsMob Panorama是一款Mac平台上备受好评的图片拼接软件。有了它您可以将多个照片拼接成一张照片。 
+    GlueMotion是Mac平台上的一款缩时摄影师的理想工具。GlueMotion Mac版允许用户批量对图像进行编辑、去闪烁，并将图像序列汇编成缩时影片。 
     </details> 
 
-- 🌋 [NeoFinder 8.1.2 外部磁盘管理工具](https://xclient.info/s/neofinder.html) | Tue Aug 02 2022 1:12 AM 
+- 🌋 [ApolloOne 3.1.2 图片浏览工具](https://xclient.info/s/apolloone.html) | Wed Aug 03 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-    NeoFinder是Mac上的一款帮助用户管理磁盘的Mac工具，NeoFinder能迅速组织您的数据，无论是在外部或内部磁盘，或任何其他卷。它能记录组织所有的数据 
+    ApolloOne是Mac平台上的一款优秀的图片浏览器，给你一个全新查看和整理照片的体验，采用先进的操作系统功能，如multi-threading，Grand Central Dispatch和Core Image图像引擎，以确保应用程序有快速的反应能力。 
     </details> 
 <!-- xclient:END -->
 
