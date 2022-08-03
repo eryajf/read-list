@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [教育企业这一年：营收腰斩，断臂求生 大多在布局直播](https://www.cnbeta.com/articles/tech/1300379.htm) | Wed Aug 03 2022 12:36 PM 
+- 🕯 [又有传言称iPhone 14和iPhone 14 Pro包含紫色机壳选项](https://www.cnbeta.com/articles/tech/1300391.htm) | Wed Aug 03 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“双减”政策刚落地时的慌乱正在过去，与教育企业的挣扎相比，公司财务数据可能落后半步，但他们已迈出向前求生转型的一步。“正在力所能及的范围里寻找生存空间。”截至2022年8月，“双减”政策落地已一年，一位原在线教育头部企业员工对记者表示，日常工作内容发生了翻天覆地的变化，但好在公司还在剩余空间中寻求求生机会，积极谋求转型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月苹果将推出新的iPhone 14和iPhone 14 Pro。虽然我们已经对这款产品的外观有了很好的了解，但现在一个泄密者证实了之前的一些报道，同时给出了关于下一代iPhone的一些小道消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Galaxy Z Fold 4细节：采用Gorilla Victus Plus玻璃 快充升级](https://www.cnbeta.com/articles/tech/1300377.htm) | Wed Aug 03 2022 12:34 PM 
+- 💼 [Linux 6.0网络子系统将迎来性能优化 并为Wi-Fi 7做早期准备](https://www.cnbeta.com/articles/tech/1300389.htm) | Wed Aug 03 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Galaxy Z Fold 4将不仅仅是对其前辈Galaxy Z Fold 3的迭代更新。&lt;strong&gt;这款可折叠的旗舰机的升级清单给人提供了一个积极的印象，首先，手机的两侧都得到了保护，提供了令人印象深刻的性能，除此之外还有更多。下面是关注这款手机的你应该知道的更多细节：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着Linux 5.19内核的推出，一些令人兴奋的网络改进虽知道来，如big-TCP支持、基于光的网络的PureLiFi驱动、用于低功耗IoT硬件的“WFX”WiFi 驱动支持以及更多。现在，随着正在开发的Linux 6.0（也就是5.20版），还有很多工作要做。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [有用户发现了一个让IE在Windows 11上继续运行的方法](https://www.cnbeta.com/articles/tech/1300375.htm) | Wed Aug 03 2022 12:28 PM 
+- 💂 [Google现在允许商家在其地图和搜索资料中添加&quot;亚洲人拥有&quot;标签](https://www.cnbeta.com/articles/tech/1300387.htm) | Wed Aug 03 2022 1:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&amp;quot;What is dead may never die.&amp;quot;与《权力的游戏》中的白行者一样，IE浏览器也加入了亡灵的行列。微软在Windows 11中驯服了IE兽，防止任何人召唤它并运行其古老的代码，但现在一位Twitter用户打破了枷锁，让IE在Windows 11上自由运行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Google今天宣布，它将在地图和搜索中增加一个新的标签，让人们可以识别他们的企业是由亚洲人拥有的。&lt;/strong&gt;这个新标签现在对在Google上拥有经过验证的企业资料的美国商家可用。一旦商家在他们的商业档案中添加了这个标签，用户就可以在地图的搜索中看到这个属性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [俞敏洪：新东方老师年入超百万 现在做主播收入二三十万](https://www.cnbeta.com/articles/tech/1300373.htm) | Wed Aug 03 2022 12:20 PM 
+- 🚀 [AppleCare+在更多欧洲国家增加手机被盗和丢失扩展保险项目](https://www.cnbeta.com/articles/tech/1300385.htm) | Wed Aug 03 2022 12:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在2022亚布力中国企业家论坛天津峰会闭幕演讲中，新东方教育科技集团董事长俞敏洪表示，&lt;strong&gt;东方甄选的主播们此前做老师时，年收入最高时超百万，现在做主播最多年入二三十万，&lt;/strong&gt;但依然愿意一起奋斗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;法国、意大利和西班牙的用户现在可以选择扩展版的AppleCare+保险，它涵盖盗窃、丢失以及损坏。在美国首次推出AppleCare+选项六年后，苹果现在在上述国家提供相应服务，这使得目前提供失窃和丢失保险的国家名单达到8个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [英国CMA暂时批准NortonLifeLock对Avast的收购交易可继续进行](https://www.cnbeta.com/articles/tech/1300371.htm) | Wed Aug 03 2022 12:17 PM 
+- 🎊 [重庆造了全国首条4D景观高速隧道：开车能“穿越”一年四季](https://www.cnbeta.com/articles/tech/1300383.htm) | Wed Aug 03 2022 12:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英国竞争和市场管理局（CMA）已经暂时允许NortonLifeLock继续收购Avast。该决定是在第二阶段深入调查的基础上做出的。监管机构认为该交易不会损害英国的竞争环境，尽管两家公司都涉及重叠的领域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你见过能“穿越”一年四季的隧道吗？近日，重庆城口县至开州区高速公路，城口鸡鸣至开州谭家段面向社会车辆正式开放。在全长11.5公里的隧道内，设有4段景观拓宽段，以四季风光为主题，&lt;strong&gt;分别是春季烂漫油菜花、夏季汉丰湖揽胜、秋季大巴山红叶、冬季雪山云海，&lt;/strong&gt;让人开车就能体验到“穿越”一年四季的感受。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
