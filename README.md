@@ -333,7 +333,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [恶意软件时如何伪装的，这份报告给出了答案](https://www.freebuf.com/news/340901.html) | Wed Aug 03 2022 3:25 AM 
+- 🦄 [恶意软件是如何伪装的，这份报告给出了答案](https://www.freebuf.com/news/340901.html) | Wed Aug 03 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
     恶意软件设计和部署的关键之处，在于将自己伪装成合法的APP，欺骗用户用户下载和运行恶意文件，以此感染目标设备和系统。 
     </details> 
