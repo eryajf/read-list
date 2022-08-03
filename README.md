@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [BlackCat宣布对Creos攻击事件负责](https://www.freebuf.com/news/340820.html) | Tue Aug 02 2022 5:36 AM 
+- 🦄 [FreeBuf早报 | 专家称推特泄密情况很糟糕；QQ音乐开始显示用户IP属地信息](https://www.freebuf.com/news/340864.html) | Tue Aug 02 2022 9:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    540 万 Twitter 用户的数据在暗网上出售的消息可能会让许多人感到震惊，但这可能只是冰山一角。 
+    </details> 
+
+- 🦄 [火了十几年的零信任，为啥还不能落地](https://www.freebuf.com/articles/neopoints/340862.html) | Tue Aug 02 2022 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    对于甲方企业来说，全面实施零信任的核心推动是什么，零信任技术未来的发展路径又是怎样的呢？ 
+    </details> 
+
+- 🦅 [BlackCat宣布对Creos攻击事件负责](https://www.freebuf.com/news/340820.html) | Tue Aug 02 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
     ALPHV勒索软件团伙，又名BlackCat，宣布对Creos卢森堡公司的网络攻击事件负责。 
     </details> 
 
-- 🦄 [超3200个应用程序泄露了 Twitter API 密钥](https://www.freebuf.com/news/340817.html) | Tue Aug 02 2022 5:30 AM 
+- 🪄 [超3200个应用程序泄露了 Twitter API 密钥](https://www.freebuf.com/news/340817.html) | Tue Aug 02 2022 5:30 AM 
     <details><summary>展开描述 ...</summary> 
     网络安全研究人员发现一组异常的移动应用程序，这些应用程序向民众公开了 Twitter API 密钥。 
     </details> 
 
-- 🦅 [恶意软件Raccoon升级，窃取密码效率将大大提高](https://www.freebuf.com/news/340813.html) | Tue Aug 02 2022 5:25 AM 
+- 💻 [恶意软件Raccoon升级，窃取密码效率将大大提高](https://www.freebuf.com/news/340813.html) | Tue Aug 02 2022 5:25 AM 
     <details><summary>展开描述 ...</summary> 
     在线平台Zscaler安全专家发布了对Raccoon Stealer恶意软件新变种的分析。 
-    </details> 
-
-- 🪄 [研究发现，攻击者能利用Chromium浏览器书签同步功能泄露数据](https://www.freebuf.com/news/340801.html) | Tue Aug 02 2022 3:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    书签可以被滥用来从企业环境中吸走大量被盗数据，或者在几乎不会被发现的情况下从中部署攻击工具和恶意有效载荷。 
-    </details> 
-
-- 💻 [窃密恶意软件Raccoon最新样本Stealer v2分析](https://www.freebuf.com/articles/network/340797.html) | Tue Aug 02 2022 3:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    Raccoon 是一个信息窃密恶意软件，能够从浏览器窃取例如密码、Cookie 和自动填充数据等隐私信息。 
     </details> 
 <!-- freebuf:END -->
 
