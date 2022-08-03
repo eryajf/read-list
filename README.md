@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [瑞士Nant de Drance抽水蓄能电站可为90万户家庭供电](https://www.cnbeta.com/articles/tech/1300333.htm) | Wed Aug 03 2022 10:55 AM 
+- 🕯 [教育企业这一年：营收腰斩，断臂求生 大多在布局直播](https://www.cnbeta.com/articles/tech/1300379.htm) | Wed Aug 03 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;经历 14 年攻坚建设与测试，瑞士瓦莱州的 900 兆瓦抽水蓄能电站 —— Nant de Drance —— 终于在今年 7 月完成了建设。&lt;/strong&gt;这座巨大的“蓄电池”拥有 2000 万千瓦时的库容，能够为多达 90 万个家庭供电。但是对于瑞士与欧洲来说，其在“削峰填谷”以确保电网运行稳定的意义上要更大一些。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“双减”政策刚落地时的慌乱正在过去，与教育企业的挣扎相比，公司财务数据可能落后半步，但他们已迈出向前求生转型的一步。“正在力所能及的范围里寻找生存空间。”截至2022年8月，“双减”政策落地已一年，一位原在线教育头部企业员工对记者表示，日常工作内容发生了翻天覆地的变化，但好在公司还在剩余空间中寻求求生机会，积极谋求转型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AT&amp;T关闭3G网络导致密歇根州无法在周二及时上报选举结果](https://www.cnbeta.com/articles/tech/1300331.htm) | Wed Aug 03 2022 10:29 AM 
+- 💼 [Galaxy Z Fold 4细节：采用Gorilla Victus Plus玻璃 快充升级](https://www.cnbeta.com/articles/tech/1300377.htm) | Wed Aug 03 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;底特律人口大县 Wayne County 书记官办公室在网站上证实，密歇根州 83 个县中有 65 个受到了事故影响。&lt;/strong&gt;TheVerge 指出，由于美国选举授权委员（EAC）的指导方针中强调了不要将投票系统直接互联网，目前尚不清楚有多少官员因没有升级他们的 AT&amp;amp;T 3G 调制解调器而受到影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Galaxy Z Fold 4将不仅仅是对其前辈Galaxy Z Fold 3的迭代更新。&lt;strong&gt;这款可折叠的旗舰机的升级清单给人提供了一个积极的印象，首先，手机的两侧都得到了保护，提供了令人印象深刻的性能，除此之外还有更多。下面是关注这款手机的你应该知道的更多细节：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [湖人老板推特账户被盗 黑客用其进行PS5义卖诈骗](https://www.cnbeta.com/articles/tech/1300329.htm) | Wed Aug 03 2022 10:28 AM 
+- 💂 [有用户发现了一个让IE在Windows 11上继续运行的方法](https://www.cnbeta.com/articles/tech/1300375.htm) | Wed Aug 03 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Kotaku报道，近日，NBA洛杉矶湖人队老板珍妮·巴斯的推特账户被黑客盗取，并在其推特账号上发布有关于PS5的骗局广告。黑客在盗取珍妮·巴斯的账户后，用其账号发文称，作为全球知名球队的拥有者，她将为了慈善事业，把自己手中的三台PS5进行义卖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&amp;quot;What is dead may never die.&amp;quot;与《权力的游戏》中的白行者一样，IE浏览器也加入了亡灵的行列。微软在Windows 11中驯服了IE兽，防止任何人召唤它并运行其古老的代码，但现在一位Twitter用户打破了枷锁，让IE在Windows 11上自由运行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [创见推出112层3D NAND嵌入式宽温固态硬盘](https://www.cnbeta.com/articles/tech/1300327.htm) | Wed Aug 03 2022 10:25 AM 
+- 🚀 [俞敏洪：新东方老师年入超百万 现在做主播收入二三十万](https://www.cnbeta.com/articles/tech/1300373.htm) | Wed Aug 03 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;创见最近推出了全系列112层3D NAND固态硬盘，具有宽温耐受性，可在-40°C至85°C之间稳定运行。其规格包括2.5英寸、M.2和mSATA类型，全面适用于嵌入式设备、车载系统和超薄服务器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在2022亚布力中国企业家论坛天津峰会闭幕演讲中，新东方教育科技集团董事长俞敏洪表示，&lt;strong&gt;东方甄选的主播们此前做老师时，年收入最高时超百万，现在做主播最多年入二三十万，&lt;/strong&gt;但依然愿意一起奋斗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [首发国产4K级显卡 芯动科技拿下5亿元GPU大单](https://www.cnbeta.com/articles/tech/1300325.htm) | Wed Aug 03 2022 10:23 AM 
+- 🎊 [英国CMA暂时批准NortonLifeLock对Avast的收购交易可继续进行](https://www.cnbeta.com/articles/tech/1300371.htm) | Wed Aug 03 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年11月份，芯动科技宣布推出首款国产4K级数据中心显卡风华1号系列，今天该公司还要发布新一代的风华2号系列，同时也在商业化方便取得重要突破，签订了5亿元的采购大单。今天下午，芯动科技与中国能建集团举行了有关新能源低碳数据中心的设备和技术运营合作的战略合作签约仪式，&lt;strong&gt;中国能建将采购风华GPU服务器等设备和技术合作，金额高达5亿元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英国竞争和市场管理局（CMA）已经暂时允许NortonLifeLock继续收购Avast。该决定是在第二阶段深入调查的基础上做出的。监管机构认为该交易不会损害英国的竞争环境，尽管两家公司都涉及重叠的领域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
