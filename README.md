@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [二手显卡暴跌超50%仍无人买只是开始 多款热门显卡价格也大跌](https://www.cnbeta.com/articles/tech/1300173.htm) | Wed Aug 03 2022 3:49 AM 
+- 🕯 [Solidigm推出P41 Plus系列PCIe 4.0 M.2 NVMe主流固态硬盘](https://www.cnbeta.com/articles/tech/1300175.htm) | Wed Aug 03 2022 4:13 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;Solidigm 刚刚推出了面向 PC 主流市场的 P41 Plus 系列高性价比 PCIe 4.0 固态硬盘，具有高达 4125 MB/s 的传输速率。&lt;/strong&gt;此外该系列 SSD 采用了 144 层 3D NAND，辅以 512GB / 1TB / 2TB 三档容量和 M.2 2280 的外形，可满足 PC 用户的日常生产力与游戏需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [二手显卡暴跌超50%仍无人买只是开始 多款热门显卡价格也大跌](https://www.cnbeta.com/articles/tech/1300173.htm) | Wed Aug 03 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;显卡暴跌已经是不争的事实，这个事情的导火索，就是挖矿热潮的退去。近两年来，&lt;strong&gt;显卡市场在挖矿的带动下十分火热，挖矿潮在全球的扩散，使得各种显卡被爆炒，一度出现一卡难求的场景，显卡市场价远超原价的情况屡见不鲜，且在渠道商囤货的行为下，显卡市场价曾几何时更是高得离谱。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [为说服监管机构 微软表示动视暴雪也没有什么必玩游戏](https://hot.cnbeta.com/articles/game/1300171.htm) | Wed Aug 03 2022 3:46 AM 
+- 💂 [为说服监管机构 微软表示动视暴雪也没有什么必玩游戏](https://hot.cnbeta.com/articles/game/1300171.htm) | Wed Aug 03 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年游戏行业的一件大事之一就是，微软以 687 亿美元收购动视暴雪。为了消除外界对本次收购的诸多担忧，近日微软向多家新西兰监管机构表示，&lt;strong&gt;动视暴雪也没有什么“必玩”（must have）的游戏。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [威刚推出LEGEND 960 PCIe 4.0固态硬盘 适用于PC和PS5](https://www.cnbeta.com/articles/tech/1300169.htm) | Wed Aug 03 2022 3:35 AM 
+- 🚀 [威刚推出LEGEND 960 PCIe 4.0固态硬盘 适用于PC和PS5](https://www.cnbeta.com/articles/tech/1300169.htm) | Wed Aug 03 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近年来，M.2 NVMe 固态硬盘已成为台式 PC 和笔记本电脑的主流选择。此外为了追求更高的数据传输速率，一些 DIY 爱好者也会给它加个移动硬盘盒。&lt;strong&gt;但是想要给索尼 PlayStation 5 游戏主机扩容的话，还是得遵循一些最低要求 —— 比如支持 PCIe 4.0 x4 连接。&lt;/strong&gt;而本文要为大家介绍的，则是来自威刚（ADATA）的 LEGEND 960 系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果Apple Store国区推出3.5小时送达服务：收费45元 仅限上海](https://www.cnbeta.com/articles/tech/1300167.htm) | Wed Aug 03 2022 3:29 AM 
+- 🎊 [苹果Apple Store国区推出3.5小时送达服务：收费45元 仅限上海](https://www.cnbeta.com/articles/tech/1300167.htm) | Wed Aug 03 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果Apple Store推出同城快递服务啦，网上下单，在家就能等待新机送上门。今天，有网友发现，&lt;strong&gt;苹果Apple Store零售店推出了3.5小时送达服务，目前仅限上海地区，收取服务费45元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [搭载L2级辅助驾驶的车辆不得靠近天文台 工信部解释原因](https://www.cnbeta.com/articles/tech/1300165.htm) | Wed Aug 03 2022 3:26 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“搭载毫米波雷达有L2级辅助驾驶的车辆，不得靠近天文台”，相信不少车主都不知道这样一条冷知识。事实上，此规定由工信部制定下发，具体细则在《汽车雷达无线电管理暂行规定》中就已明确。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
