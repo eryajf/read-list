@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [珠三角旅游推荐](https://www.v2ex.com/t/870447#reply2) | Wed Aug 03 2022 8:17 AM
-- 🤗 [求教， Excel 存储的题库，怎么快速生成题本和解析](https://www.v2ex.com/t/870445#reply0) | Wed Aug 03 2022 8:16 AM
-- 🎭 [Ubuntu 的系统更新是真的难用](https://www.v2ex.com/t/870439#reply0) | Wed Aug 03 2022 7:41 AM
-- 🥷 [有什么好的 Android 文件备份方法吗](https://www.v2ex.com/t/870436#reply1) | Wed Aug 03 2022 7:24 AM
-- 🐵 [Java switch 为什么比 for 循环快？](https://www.v2ex.com/t/870434#reply6) | Wed Aug 03 2022 7:18 AM<!-- v2ex:END -->
+- 🥸 [android studio 查看 native crash 配置 donotstrip， build 之后.so 文件大小没变。是姿势不对吗？](https://www.v2ex.com/t/870451#reply0) | Wed Aug 03 2022 8:36 AM
+- 🤗 [有什么较为通用的办法解决两个实体类传递相同参数?](https://www.v2ex.com/t/870449#reply10) | Wed Aug 03 2022 8:33 AM
+- 🎭 [珠三角旅游推荐](https://www.v2ex.com/t/870447#reply6) | Wed Aug 03 2022 8:17 AM
+- 🥷 [求教， Excel 存储的题库，怎么快速生成题本和解析](https://www.v2ex.com/t/870445#reply4) | Wed Aug 03 2022 8:16 AM
+- 🐵 [Ubuntu 的系统更新是真的难用](https://www.v2ex.com/t/870439#reply0) | Wed Aug 03 2022 7:41 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
