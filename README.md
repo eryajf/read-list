@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [继承易错点分析](https://juejin.cn/post/7127545361421303838) | Wed Aug 03 2022 7:16 AM 
+- 🤗 [TabLayout 之改变 Indicator 的宽度](https://juejin.cn/post/7127561470681808927) | Wed Aug 03 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 1&rpar;基类private&lpar;私有&rpar;成员在派生类中无论以什么方式继承都是不可见的。 这里的不可见是指基类的私有成 
+    Indicator 允许我们设置 drawable 来自定义样式，通过 layer-list 可以在上层设置一个固定宽度的 shape： 然后在 xml 中给 TabLayout 设置 参考：TabL 
     </details> 
 
-- 🎡 [JavaScript如何从数组中删除特定数据](https://juejin.cn/post/7127539663841001479) | Wed Aug 03 2022 6:54 AM 
+- 🎡 [构建面向未来的前端架构](https://juejin.cn/post/7127559810324627463) | Wed Aug 03 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 增删改查是我们日常开发中的最基本任务，在JavaScript中我们经常需要从数据组删除特定的 
+    大家好，我是柒八九。 今天，我们来讲讲在前端架构。 要想在大项目中做到构建性能良好并且在架构方面具有扩展性是一件困难的事情。 所以，今天我们来通过一些例子来探讨如何在前端项目中如何做到在性能和架构方面 
     </details> 
 
-- 🕯 [telnet远程登录aaa模式详解【华为eNSP】](https://juejin.cn/post/7127529313876770847) | Wed Aug 03 2022 6:14 AM 
+- 🕯 [学习D3.js（十八）桑基图](https://juejin.cn/post/7127559319402315806) | Wed Aug 03 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 一.前言 所有的需求都已经记录完毕了，现在只差最后一个需求： 对于这个需求还是较为简单，采用telnet远 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 引入D3模块 引入整个D3模块。 桑基图布局计算需要使用d3.sankey&lpar;&rpar;函数。该函数不在d3整体包中 
     </details> 
 
-- 🚀 [ffplay视频播放原理分析](https://juejin.cn/post/7127528274774720520) | Wed Aug 03 2022 6:09 AM 
+- 🚀 [普通技术人的弯道超车指南、Spring / SpringBoot 常用扩展点｜掘金一周 08.03](https://juejin.cn/post/7127557841363140616) | Wed Aug 03 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    本文从整体播放流程出发，介绍了 ffplay 播放器播放媒体文件的主要流程，不深陷于代码细节。同时，对 FFmpeg 的一些常用函数有了一些了解，对我们自己手写一个简单的播放器有很大的帮助。 
+    【掘金一周08.03】本期看点：如何在繁重的工作中持续成长 、JAVA基于CompletableFuture的流水线并行处理深度实践... 
     </details> 
 
-- 💪 [「Kafka 专栏」- 004 Kafka 分区机制详解](https://juejin.cn/post/7127526322598838286) | Wed Aug 03 2022 6:03 AM 
+- 💪 [flink部署模式（三）- standalone k8s session 部署模式](https://juejin.cn/post/7127557823214387231) | Wed Aug 03 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-    上一期聊的是如何对 Kafka 生产者进行调优；这一期来聊聊 Kafka 非常非常重要的分区机制： 主题与分区之间的关系 ✅ 分区工作的原理流程 ✅ 如何创建一个多分区的主题 ✅ 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 docker应用镜像构建 Dockerfile 构建镜像 NOTE： 需要镜像上传到docker镜像私服（或者在每个node节点都构建相同的镜像） 
     </details> 
 <!-- juejin:END -->
 ### 少数派
