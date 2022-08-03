@@ -365,10 +365,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [谁篡改了我的主页，联想电脑管家？ Opera 狼狈为奸？](https://www.v2ex.com/t/870507#reply12) | Wed Aug 03 2022 2:28 PM
-- 🤗 [如何配置一台小型 server](https://www.v2ex.com/t/870492#reply21) | Wed Aug 03 2022 12:03 PM
-- 🎭 [gradle 拉依赖包，配置了两个仓库只去一个仓库里查找，怎么解？](https://www.v2ex.com/t/870483#reply2) | Wed Aug 03 2022 10:54 AM
-- 🥷 [运行 mariadb 出错 innodb=off](https://www.v2ex.com/t/870481#reply1) | Wed Aug 03 2022 10:35 AM
-- 🐵 [单身🐶的七夕都这么卷了么？](https://www.v2ex.com/t/870480#reply16) | Wed Aug 03 2022 10:29 AM<!-- v2ex:END -->
+- 🤗 [gradle 拉依赖包，配置了两个仓库只去一个仓库里查找，怎么解？](https://www.v2ex.com/t/870483#reply2) | Wed Aug 03 2022 10:54 AM
+- 🎭 [运行 mariadb 出错 innodb=off](https://www.v2ex.com/t/870481#reply1) | Wed Aug 03 2022 10:35 AM
+- 🥷 [单身🐶的七夕都这么卷了么？](https://www.v2ex.com/t/870480#reply16) | Wed Aug 03 2022 10:29 AM
+- 🐵 [android studio 查看 native crash 配置 donotstrip， build 之后.so 文件大小没变。是姿势不对吗？](https://www.v2ex.com/t/870451#reply0) | Wed Aug 03 2022 8:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
