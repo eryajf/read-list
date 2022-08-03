@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python&lpar;八&rpar;——列表的详细使用](https://juejin.cn/post/7127591394796896264) | Wed Aug 03 2022 10:15 AM 
+- 🤗 [用TS+reactHooks+redux完成一个todos](https://juejin.cn/post/7127602770810503175) | Wed Aug 03 2022 10:59 AM 
     <details><summary>展开描述 ...</summary> 
-    append&lpar;&rpar;方法：在列表的末尾追加元素 - 可以将一个元素追加到列表末尾 - 也可以将整个列表看成一个元素，然后追加到列表末尾 
+    整体目标 在react项目中使用TS，具体学习如何使用： hooks：useState,useEffect,useRef等hooks的使用 redux：useDispatch, reducer, us 
     </details> 
 
-- 🎡 [vue history nginx原因](https://juejin.cn/post/7127586768206954510) | Wed Aug 03 2022 9:57 AM 
+- 🎡 [函数调用堆栈](https://juejin.cn/post/7127601266879889445) | Wed Aug 03 2022 10:54 AM 
     <details><summary>展开描述 ...</summary> 
-    vue 的History模式在nginx配置 因为nginx服务器，当我们直接输入url 访问时，其实定位不到我们想要的资源，所以需要重定向 location tryfile $uri $uri/ 
+    在学习线程的相关知识时，我们一定接触过 NSThread 类，它有一个类属性：@property &lpar;class, readonly, copy&rpar; NSArray&lt;NSString *&gt; *callSt 
     </details> 
 
-- 🕯 [蚂蚁互动图形引擎 Oasis Engine v0.8 发布](https://juejin.cn/post/7127583833410502687) | Wed Aug 03 2022 9:46 AM 
+- 🕯 [时刻记录你的创作灵感！超简单的Vue+Electron快速开发多端在线笔记本](https://juejin.cn/post/7127593631606636581) | Wed Aug 03 2022 10:24 AM 
     <details><summary>展开描述 ...</summary> 
-    历经数月，蚂蚁互动图形引擎 Oasis Engine v0.8 正式发布，本次里程碑除了原本的 Engine 仓库外，还为大家带来了包含一定业务向且具备通用性功能的 Engine Toolkit～ 
+    在文章创作前往往需要先有一个想法，当你有了模糊的想法，便可以开始研究。工欲善其事，必先利其器。这就是为什么我要做这个项目的原因——总有一些想法需要记录，围绕着某个主题，还需要把文章脉络理清。 
     </details> 
 
-- 🚀 [当代方仲出口成章指物作诗与唐寅再现之微信小程序](https://juejin.cn/post/7127580693269315591) | Wed Aug 03 2022 9:33 AM 
+- 🚀 [话痨小机器人快陪我聊天](https://juejin.cn/post/7127584774507462664) | Wed Aug 03 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 当代方仲出口成章指物作诗与唐寅再现之微信小程序 伤仲永 唐伯虎 1.俺也想有才艺 俺也想有方仲永的才艺以及唐伯虎的风流，为此终日终日昏 
+    # 话痨小机器人快陪我聊天 &gt;Knover is a toolkit for knowledge grounded dialogue generation based on PaddlePaddl 
     </details> 
 
-- 💪 [我的疫情防控流程中有个死循环](https://juejin.cn/post/7127572554318872583) | Wed Aug 03 2022 9:02 AM 
+- 💪 [Node如何获取pnpm安装的包源码真实代码路径并操作](https://juejin.cn/post/7127584537030164487) | Wed Aug 03 2022 9:49 AM 
     <details><summary>展开描述 ...</summary> 
-    导语 请看下方流程： 问题分析 自己出去做核酸 自己不出去做核酸 那怎么操作呢？ 针对转码过程的疑惑？ 1.社区报备后，AI电话、人工电话确认后，转码就开始了，应该是人工操作的，非大数据根据行程轨迹发 
+    在改造老工程的包依赖管理的时候，有时候我们想引入一些社区比较好用的包管理；有时候一些阻塞点会阻拦我们，特别我们构建流程可能会拷贝node_modules包源码的行为； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
