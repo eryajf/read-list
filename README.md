@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 专家称推特泄密情况很糟糕；QQ音乐开始显示用户IP属地信息](https://www.freebuf.com/news/340864.html) | Tue Aug 02 2022 9:40 AM 
+- 🦄 [恶意软件时如何伪装的，这份报告给出了答案](https://www.freebuf.com/news/340901.html) | Wed Aug 03 2022 3:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    恶意软件设计和部署的关键之处，在于将自己伪装成合法的APP，欺骗用户用户下载和运行恶意文件，以此感染目标设备和系统。 
+    </details> 
+
+- 🦄 [知名半导体制造商Semikron遭勒索软件攻击](https://www.freebuf.com/news/340890.html) | Wed Aug 03 2022 2:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    德国半导体制造商Semikron披露，该公司遭到勒索软件攻击，加密了公司的部分网络。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | 专家称推特泄密情况很糟糕；QQ音乐开始显示用户IP属地信息](https://www.freebuf.com/news/340864.html) | Tue Aug 02 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
     540 万 Twitter 用户的数据在暗网上出售的消息可能会让许多人感到震惊，但这可能只是冰山一角。 
     </details> 
 
-- 🦄 [火了十几年的零信任，为啥还不能落地](https://www.freebuf.com/articles/neopoints/340862.html) | Tue Aug 02 2022 9:33 AM 
+- 🪄 [火了十几年的零信任，为何迟迟不能落地](https://www.freebuf.com/articles/neopoints/340862.html) | Tue Aug 02 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     对于甲方企业来说，全面实施零信任的核心推动是什么，零信任技术未来的发展路径又是怎样的呢？ 
     </details> 
 
-- 🦅 [BlackCat宣布对Creos攻击事件负责](https://www.freebuf.com/news/340820.html) | Tue Aug 02 2022 5:36 AM 
+- 💻 [BlackCat宣布对Creos攻击事件负责](https://www.freebuf.com/news/340820.html) | Tue Aug 02 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
     ALPHV勒索软件团伙，又名BlackCat，宣布对Creos卢森堡公司的网络攻击事件负责。 
-    </details> 
-
-- 🪄 [超3200个应用程序泄露了 Twitter API 密钥](https://www.freebuf.com/news/340817.html) | Tue Aug 02 2022 5:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    网络安全研究人员发现一组异常的移动应用程序，这些应用程序向民众公开了 Twitter API 密钥。 
-    </details> 
-
-- 💻 [恶意软件Raccoon升级，窃取密码效率将大大提高](https://www.freebuf.com/news/340813.html) | Tue Aug 02 2022 5:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    在线平台Zscaler安全专家发布了对Raccoon Stealer恶意软件新变种的分析。 
     </details> 
 <!-- freebuf:END -->
 
