@@ -365,10 +365,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [请问 Windows 多桌面怎么设置快捷键切换到指定的桌面？](https://www.v2ex.com/t/870394#reply0) | Wed Aug 03 2022 3:25 AM
-- 🤗 [mac ssh 远程 报错额](https://www.v2ex.com/t/870383#reply1) | Wed Aug 03 2022 3:01 AM
+- 🤗 [mac ssh 远程 报错额](https://www.v2ex.com/t/870383#reply5) | Wed Aug 03 2022 3:01 AM
 - 🎭 [求助,a-table 的页码怎么固定在底部啊](https://www.v2ex.com/t/870380#reply5) | Wed Aug 03 2022 2:49 AM
-- 🥷 [Python 能不能像 node 一样管理包](https://www.v2ex.com/t/870375#reply9) | Wed Aug 03 2022 2:44 AM
-- 🐵 [Swift 官方的文档马上看完了.有什么开源框架 orApp 适合去研究巩固下这方面知识的吗](https://www.v2ex.com/t/870371#reply8) | Wed Aug 03 2022 2:39 AM<!-- v2ex:END -->
+- 🥷 [Python 能不能像 node 一样管理包](https://www.v2ex.com/t/870375#reply15) | Wed Aug 03 2022 2:44 AM
+- 🐵 [Swift 官方的文档马上看完了.有什么开源框架 orApp 适合去研究巩固下这方面知识的吗](https://www.v2ex.com/t/870371#reply10) | Wed Aug 03 2022 2:39 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
