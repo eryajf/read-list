@@ -343,19 +343,19 @@
     德国半导体制造商Semikron披露，该公司遭到勒索软件攻击，加密了公司的部分网络。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 专家称推特泄密情况很糟糕；QQ音乐开始显示用户IP属地信息](https://www.freebuf.com/news/340864.html) | Tue Aug 02 2022 9:40 AM 
+- 🦅 [零信任安全论坛精选议题视频上线 | CIS大会夏日版](https://www.freebuf.com/news/340852.html) | Tue Aug 02 2022 11:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    CIS大会夏日版，FreeBuf邀请多位业界大咖，就零信任安全进行了深入的探讨、展望，期待能够给企业和用户带来一些零信任安全方面的参考和启发。 
+    </details> 
+
+- 🪄 [FreeBuf早报 | 专家称推特泄密情况很糟糕；QQ音乐开始显示用户IP属地信息](https://www.freebuf.com/news/340864.html) | Tue Aug 02 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
     540 万 Twitter 用户的数据在暗网上出售的消息可能会让许多人感到震惊，但这可能只是冰山一角。 
     </details> 
 
-- 🪄 [火了十几年的零信任，为何迟迟不能落地](https://www.freebuf.com/articles/neopoints/340862.html) | Tue Aug 02 2022 9:33 AM 
+- 💻 [火了十几年的零信任，为何迟迟不能落地](https://www.freebuf.com/articles/neopoints/340862.html) | Tue Aug 02 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     对于甲方企业来说，全面实施零信任的核心推动是什么，零信任技术未来的发展路径又是怎样的呢？ 
-    </details> 
-
-- 💻 [BlackCat宣布对Creos攻击事件负责](https://www.freebuf.com/news/340820.html) | Tue Aug 02 2022 5:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    ALPHV勒索软件团伙，又名BlackCat，宣布对Creos卢森堡公司的网络攻击事件负责。 
     </details> 
 <!-- freebuf:END -->
 
