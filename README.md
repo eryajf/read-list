@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AMD第二季度营收65.50亿美元：净利润同比下降37%](https://www.cnbeta.com/articles/tech/1299975.htm) | Tue Aug 02 2022 11:17 PM 
+- 🕯 [SMART Modular推出旗下首款CXL内存模组](https://www.cnbeta.com/articles/tech/1300089.htm) | Wed Aug 03 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD今天公布了该公司的2022财年第二季度财报。报告显示，AMD第二季度营收为65.50亿美元，与去年同期的38.50亿美元相比增长70%；净利润为4.47亿美元，与去年同期的7.10亿美元相比下降37%；每股收益为0.27美元，与去年同期的0.58美元相比下降53%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;全球内存解决方案、固态硬盘和混合存储领域领导者之一的 SMART Modular，刚刚发布了旗下首款 DDR5 XMM CXL 内存模组。&lt;/strong&gt;通过在 Compute Express Link 接口后面添加高速缓存相干的内存，其能够突破当前大多数平台的 8 / 12 通道限制，大举提升服务器和数据中心应用程序的数据处理能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [工人日报：必须追问濒危大白鲨怎么进了直播间](https://hot.cnbeta.com/articles/movie/1299973.htm) | Tue Aug 02 2022 11:16 PM 
+- 💼 [Match盈利亏损，Tinder将取消虚拟货币和元宇宙计划](https://www.cnbeta.com/articles/tech/1300087.htm) | Wed Aug 03 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，网红主播“提子”拍摄水煮鲨鱼和烧烤鲨鱼的视频火爆网络。据警方最新回应，视频中的鲨鱼确系濒危物种噬人鲨（又称大白鲨），来源为福建沿海地区。专家表示，噬人鲨属于国家二级保护动物，带上岸或者销售购买属于违法行为。目前，涉案人员已被警方控制，案件正在进一步调查中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1299973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;约会巨头Match Group在周二公布令人失望的第二季度财报的同时还宣布了对Tinder的管理团队进行一系列调整。值得注意的是，&lt;strong&gt;Tinder CEO Renate Nyborg在担任最高职务不到一年后将离开公司。同时，Match还在扼杀Tinder采用新技术的计划，如虚拟货币和基于元宇宙的约会。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [互联网券商Robinhood公布2022财年第二季度财报并宣布裁员23%](https://www.cnbeta.com/articles/tech/1299971.htm) | Tue Aug 02 2022 11:10 PM 
+- 💂 [抖音旗下内容社区“可颂”意在种草，仅支持发图文内容，暂未接入电商功能](https://www.cnbeta.com/articles/tech/1300085.htm) | Wed Aug 03 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;北京时间8月3日凌晨消息，美国互联网券商股票交易服务公司Robinhood今天公布了该公司的2022财年第二季度财报。&lt;/strong&gt;报告显示，Robinhood第二季度总净营收为3.18亿美元，与去年同期的5.65亿美元相比下降44%；净亏损为2.95亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;抖音旗下的内容社区App“可颂”在登录国内各大应用商店后，短短数日又悄然下架，在业内引发热议。&lt;/strong&gt;在可颂下架前，蓝鲸财经记者对这款产品进行了深度体验，发现可颂不论是平台定位、内容覆盖范围还是展示方式等，都与小红书较为相似。不过由于可颂尚在发展初期，其在页面呈现、内容划分、功能设定等层面均未达到小红书的深度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [SK海力士成功开发出238层4D NAND闪存 明年上半年量产](https://www.cnbeta.com/articles/tech/1299969.htm) | Tue Aug 02 2022 11:08 PM 
+- 🚀 [Google Camera代码表明Google并未放弃可折叠手机开发](https://www.cnbeta.com/articles/tech/1300083.htm) | Wed Aug 03 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;韩国SK海力士（SK Hynix）已经开发出238层NAND闪存芯片，它可以用于PC存储设备、智能手机和服务器。上周美光也开始出货232层NAND闪存芯片。SK海力士宣称新的238层芯片是最小的NAND闪存芯片，数据传输速度相比上代产品提升50%，读取数据消耗的能量降低21%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;关于 Google 首款可折叠设备（非官方名称为 Pixel Notepad）的讨论早在 1 年前就已经开始，虽然多方渠道都表明该机不会在今年上市发售，&lt;strong&gt;但是从 Google Camera 应用代码表明 Google 并未放弃对这款设备的开发。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [最新研究：第四针辉瑞疫苗可降低感染奥密克戎的风险](https://www.cnbeta.com/articles/tech/1299967.htm) | Tue Aug 02 2022 8:26 PM 
+- 🎊 [罗振宇致内部信曝光：感谢筹备上市的这段经历，2021年净利润再创新高](https://www.cnbeta.com/articles/tech/1300081.htm) | Wed Aug 03 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;周二公布的一项研究显示，相较于仅接种了三针疫苗的同行，接种了第四针辉瑞新冠疫苗的医疗工作者感染奥秘克戎的风险明显更低。这项最新研究刊登在了美国医学协会的开放获取期刊上，旨在研究第二剂加强针疫苗预防感染奥密克戎的有效性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1299967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据IPO早知道消息，&lt;strong&gt;深交所8月2日披露，北京思维造物信息科技股份有限公司（以下简称“思维造物”）撤回了创业板上市申请。&lt;/strong&gt;《IPO早知道》独家获悉，在深交所披露撤回信息后，思维造物董事长罗振宇发布内部信称：基于和监管部门的沟通，以及当前市场环境等多方面因素的综合考量，公司决定暂时撤回国内上市的申请。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
