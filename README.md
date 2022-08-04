@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Steam Deck将在日韩港台地区销售 首批年底发货](https://hot.cnbeta.com/articles/game/1300559.htm) | Thu Aug 04 2022 1:46 AM 
+- 🕯 [小贱贱开始健身：为拍摄《死侍3》做准备](https://hot.cnbeta.com/articles/movie/1300615.htm) | Thu Aug 04 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Valve今日宣布将与Komodo合作，将新增日本、韩国、中国香港、中国台湾四个Steam Deck销售地区，现已开放预定。&lt;/strong&gt;港版定价为64GB版本3288港币、256GB版本4388港币、512GB版本5488港币，首批机器将于今年晚些时候发货。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;那个男人要来了！据报道，瑞恩·雷诺兹已经开始健身，为拍摄《死侍3》做准备&lt;/strong&gt;《死侍3》是肖恩·利维执导的超级英雄电影，由瑞安·雷诺兹主演。&amp;lt;/p&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1300615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [除了《黑豹》，传EA还在开发《钢铁侠》单机游戏](https://hot.cnbeta.com/articles/game/1300557.htm) | Thu Aug 04 2022 1:46 AM 
+- 💼 [《铁血战士猎物》IGN 8分：杀戮不减 女主塑造点睛](https://hot.cnbeta.com/articles/movie/1300613.htm) | Thu Aug 04 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;看起来漫威正在和更多的大厂合作开发单机游戏。除了索尼（《漫威蜘蛛侠》《漫威金刚狼》）、SE（《漫威复仇者联盟》《漫威银河护卫队》）以及Firaxis Games（《漫威午夜之子》）外，EA也加入了这一行列。根据传闻，除了开发《漫威黑豹》外，EA还在开发另外一个漫威单机游戏《漫威钢铁侠》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;由丹·特拉切滕贝格执导，安伯·明迪桑德主演的《铁血战士：猎物》媒体评分解禁，IGN为其打出了8分的评价。&lt;/strong&gt;评测者认为本片充满了《铁血战士》系标志性的残酷杀戮，情节简约而不简单。同时也是安伯·明迪桑德成名之路的关键性转折点。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1300613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [曝《暗黑破坏神4》正进行内部测试 测试者对游戏很满意](https://hot.cnbeta.com/articles/game/1300555.htm) | Thu Aug 04 2022 1:44 AM 
+- 💂 [《风骚律师》老白小粉剧照 第11集已于昨日上线](https://hot.cnbeta.com/articles/movie/1300611.htm) | Thu Aug 04 2022 3:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;之前PlayStation Game Size爆料称，《暗黑破坏神4》PS4/PS5测试版已添加到PlayStation数据库中，应该是Beta试玩版，或即将推出。现在业内知名记者Jason Schreier发推文称，《暗黑破坏神4》早期版本已发给与暴雪关系密切的一些测试人员，许多人现在在试玩暗黑4早期版本。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今日，《风骚律师》公布了一张剧照，老白小粉回归，第11集已于昨日上线。&lt;/strong&gt;《风骚律师》是《绝命毒师》的衍生剧，讲述索尔·古德曼（鲍勃·奥登科克 饰）遇见毒师“老白”之前的故事，描述了本性善良的律师“吉米”转变为游走在法律边缘的无良律师“索尔”的过程。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1300611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [传漫威《永恒族2》电影制作中 赵婷回归执导](https://hot.cnbeta.com/articles/movie/1300553.htm) | Thu Aug 04 2022 1:44 AM 
+- 🚀 [美国海军机器人机器人扫雷舰宣布投入使用](https://www.cnbeta.com/articles/tech/1300609.htm) | Thu Aug 04 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然还没有正式公布，但《永恒族2》似乎要来了，同时原导演赵婷也将回归。《永恒族》男演员Patton Oswalt在近期的Today采访节目中说露了嘴。他说：“他们已经宣布将有《永恒族》续集，赵婷将会执导。所以希望我扮演的Pip和Harry Style扮演的Starfox能有更多的冒险。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1300553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;机器人舰艇现已正式加入美国海军。&lt;/strong&gt;无人驾驶和小型战斗舰项目执行办公室&lpar;PEO USC&rpar;于7月22日宣布，海军的无人影响扫雷系统&lpar;UISS&rpar;无舰员扫雷舰已被授予初始操作能力&lpar;IOC&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [今年股价下跌近半，美国“人造肉第一股”宣布裁员](https://www.cnbeta.com/articles/tech/1300551.htm) | Thu Aug 04 2022 1:43 AM 
+- 🎊 [裁员、被罚、业绩暴雷：一天之内三大坏消息 网红券商Robinhood怎么了？](https://www.cnbeta.com/articles/tech/1300607.htm) | Thu Aug 04 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国“人造肉第一股”Beyond Meat首席执行官伊森·布朗（Ethan Brown）周三在一份内部备忘录中告诉员工，作为一项更广泛的成本削减计划的一部分，该公司裁减了约40个职位。&lt;/strong&gt;布朗表示：“尽管困难重重，但这一决定是我们降低运营费用和支持可持续增长的更大战略的一部分。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国互联网券商的“当红炸子鸡”Robinhood最近的“麻烦事”有点多。美东时间8月2日，Robinhood发布公告，宣布将裁员约23%，主要涉及运营、营销和管理等职能部门。事实上，今年4月，Robinhood就已经裁掉了9%的员工。祸不单行，Robinhood于8月2日美股盘后公布的2022年二季报显示，主要业绩数据都不及市场预期，当日盘后股价大跌近4%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
