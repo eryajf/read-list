@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [乘联会7月新能源销量数据出炉：比亚迪能打五个特斯拉](https://www.cnbeta.com/articles/tech/1300867.htm) | Thu Aug 04 2022 4:20 PM 
+- 🕯 [Intel官宣第三类显卡 感受光追的华丽](https://www.cnbeta.com/articles/tech/1300873.htm) | Thu Aug 04 2022 5:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;虽然笔记本、桌面平台的Arc锐炫显卡才刚开始，Intel又要开辟第三条战线了。&lt;/strong&gt;Intel早就预告过，会在第三季度发布Arc显卡的工作站版本，现在终于要来了。Intel官方宣布，将在8月8-11日举办的SIGGRAPH 2022专业图形大会上，首次公开介绍并展示“Arc Pro”工作站显卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [传马斯克要建私人机场 本人否认](https://www.cnbeta.com/articles/tech/1300871.htm) | Thu Aug 04 2022 5:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月5日消息，有媒体报道称特斯拉首席执行官马斯克要建私人机场，该机场将建在奥斯汀以东，靠近郊区巴斯托普县，马斯克打算机场建好后，除了供自己使用之外，还将提供给旗下特斯拉、SpaceX、博恩公司员工使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [推特现在允许所有企业在其简介中显示位置和联系信息](https://www.cnbeta.com/articles/tech/1300869.htm) | Thu Aug 04 2022 4:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;Twitter今天宣布，所有拥有专业账户的企业现在都可以通过其 &amp;quot;地点聚焦&amp;quot;功能在其个人资料上显示其地点地址、营业时间和其他联系信息。&lt;/strong&gt;该社交网络表示，该功能还为客户提供了通过电话、短信、电子邮件或DMs直接联系企业的途径。在扩展之前，该功能仅适用于美国、英国、加拿大和澳大利亚的用户，但现在正向全球所有专业账户推广。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [乘联会7月新能源销量数据出炉：比亚迪能打五个特斯拉](https://www.cnbeta.com/articles/tech/1300867.htm) | Thu Aug 04 2022 4:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月4日消息，乘联会今天发布批发量快报。其中，比亚迪本月批发量达16.22万辆，特斯拉国内市场的批发量预估为3.00万辆，可能还比不上上汽通用五菱的5.93万辆，&lt;strong&gt;而比亚迪是特斯拉的5倍之多，同时，比亚迪也创下了历史销量最高纪录。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国人画师被动视暴雪抄袭后 竟然还遭到邮件辱骂？](https://hot.cnbeta.com/articles/game/1300865.htm) | Thu Aug 04 2022 4:19 PM 
+- 🎊 [国人画师被动视暴雪抄袭后 竟然还遭到邮件辱骂？](https://hot.cnbeta.com/articles/game/1300865.htm) | Thu Aug 04 2022 4:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;以《使命召唤》闻名世界的动视（Activision），正在外网被玩家们“爆破”。事情起源自2022年7月30日凌晨的一则Twitter。这位名为Sail_lin（后简称林老师）的国人画师，公开指责动视暴雪旗下作品《使命召唤：先锋》的新皮肤包——Floof Fury（蓬松福瑞），抄袭了他于2019年创作的概念设计。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [消息称三星Galaxy Z Fold4价格上涨：512G顶配售价超1万3](https://www.cnbeta.com/articles/tech/1300863.htm) | Thu Aug 04 2022 3:51 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，爆料人Onleaks曝光了三星Galaxy Z Fold4价格，&lt;strong&gt;Galaxy Z Fold4 256GB版本售价1799欧元（约合人民币12400元），512GB顶配版售价1919欧元（约合人民币13200元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [英特尔WiFi 7产品将于2024年亮相 最高速度可达5.8Gbps](https://www.cnbeta.com/articles/tech/1300861.htm) | Thu Aug 04 2022 3:49 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管英特尔早在2020年就放弃了制造路由器和网关产品，但该公司仍然是世界上最大的计算机WiFi模块制造商。现在来自韩国的消息表明，英特尔的第一批WiFi 7产品将于2024年推出，大约在第一批WiFi 7路由器和网关预计上市后一年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [机器学习帮助拯救受威胁的物种免遭灭绝](https://www.cnbeta.com/articles/science/1300859.htm) | Thu Aug 04 2022 3:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;地球上有数以千计的物种我们仍然不了解。但我们现在知道，它们已经在灭绝的边缘徘徊&lt;strong&gt;。一项新的研究使用机器学习来计算这些鲜为人知的物种受到了多大的威胁，其结果是严峻的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
