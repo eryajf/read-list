@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 德半导体制造商遭勒索软件攻击；微软宣布新的外部攻击面审计工具](https://www.freebuf.com/news/340918.html) | Wed Aug 03 2022 9:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    德国电力电子制造商赛米控披露，它遭到勒索软件攻击，甚至加密了公司的网络。 
+    </details> 
+
 - 🦄 [恶意软件是如何伪装的，这份报告给出了答案](https://www.freebuf.com/news/340901.html) | Wed Aug 03 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
     恶意软件设计和部署的关键之处，在于将自己伪装成合法的APP，欺骗用户用户下载和运行恶意文件，以此感染目标设备和系统。 
     </details> 
 
-- 🦄 [知名半导体制造商Semikron遭勒索软件攻击](https://www.freebuf.com/news/340890.html) | Wed Aug 03 2022 2:42 AM 
+- 🦅 [知名半导体制造商Semikron遭勒索软件攻击](https://www.freebuf.com/news/340890.html) | Wed Aug 03 2022 2:42 AM 
     <details><summary>展开描述 ...</summary> 
     德国半导体制造商Semikron披露，该公司遭到勒索软件攻击，加密了公司的部分网络。 
     </details> 
 
-- 🦅 [零信任安全论坛精选议题视频上线 | CIS大会夏日版](https://www.freebuf.com/news/340852.html) | Tue Aug 02 2022 11:01 AM 
+- 🪄 [零信任安全论坛精选议题视频上线 | CIS大会夏日版](https://www.freebuf.com/news/340852.html) | Tue Aug 02 2022 11:01 AM 
     <details><summary>展开描述 ...</summary> 
     CIS大会夏日版，FreeBuf邀请多位业界大咖，就零信任安全进行了深入的探讨，期待能够给企业和用户带来一些零信任安全方面的参考和启发。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 专家称推特泄密情况很糟糕；QQ音乐开始显示用户IP属地信息](https://www.freebuf.com/news/340864.html) | Tue Aug 02 2022 9:40 AM 
+- 💻 [FreeBuf早报 | 专家称推特泄密情况很糟糕；QQ音乐开始显示用户IP属地信息](https://www.freebuf.com/news/340864.html) | Tue Aug 02 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
     540 万 Twitter 用户的数据在暗网上出售的消息可能会让许多人感到震惊，但这可能只是冰山一角。 
-    </details> 
-
-- 💻 [飞了十几年的零信任，为何迟迟不能落地](https://www.freebuf.com/articles/neopoints/340862.html) | Tue Aug 02 2022 9:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    对于甲方企业来说，全面实施零信任的核心推动是什么，零信任技术未来的发展路径又是怎样的呢？ 
     </details> 
 <!-- freebuf:END -->
 
