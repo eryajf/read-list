@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [青航 - 构建强大的功能清新主题](https://xinquji.com/posts/178384?utm_campaign=xinquji-rss) | Thu Aug 04 2022 9:09 AM 
+- 👀 [LAMP - 社交媒体管理和营销订阅](https://xinquji.com/posts/178490?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     构建强大的功能清新主题  
+     社交媒体管理和营销订阅  
     </details> 
 
-- 🥷 [Latest - 个人仪表板工具](https://xinquji.com/posts/178464?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:51 AM 
+- 🥷 [Upgraderoo - 自动化 NPM 包更新](https://xinquji.com/posts/178489?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     个人仪表板工具  
+     自动化 NPM 包更新  
     </details> 
 
-- 💼 [Casama - 分享您的加密货币交易理念，在几分钟内共同投资](https://xinquji.com/posts/178463?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:48 AM 
+- 💼 [Priceboard - 检查比特币价格的最佳方法](https://xinquji.com/posts/178488?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     分享您的加密货币交易理念，在几分钟内共同投资  
+     检查比特币价格的最佳方法  
     </details> 
 
-- 🦅 [Ask A Doula by Ruth Health - 在怀孕、产后的所有事情上发短信给导乐](https://xinquji.com/posts/178462?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:46 AM 
+- 🦅 [Deploybot - 管理和自动化 GitHub 部署](https://xinquji.com/posts/178487?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     在怀孕、产后的所有事情上发短信给导乐  
+     管理和自动化 GitHub 部署  
     </details> 
 
-- 😺 [REVERB.wtf - 在几秒钟内生成漂亮的调色板和渐变](https://xinquji.com/posts/178461?utm_campaign=xinquji-rss) | Thu Aug 04 2022 6:44 AM 
+- 😺 [Dun Dun Dunning - 唯一一部关于战胜非自愿流失的网络漫画](https://xinquji.com/posts/178486?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     在几秒钟内生成漂亮的调色板和渐变  
+     唯一一部关于战胜非自愿流失的网络漫画  
     </details> 
 <!-- xinquji:END -->
