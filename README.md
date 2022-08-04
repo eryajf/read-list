@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Java面试】生产环境服务器变慢，如何诊断处理？](https://juejin.cn/post/7127971794643845128) | Thu Aug 04 2022 10:51 AM 
+- 🤗 [相同的树](https://juejin.cn/post/7127993071236546568) | Thu Aug 04 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
-    &gt; “生产环境服务器变慢？如何诊断处理” &gt; &gt; 这是最近一些工作5年以上的粉丝反馈给我的问题，他们去一线大厂面试，都被问到了这一类的问题。 &gt; &gt; 今天给大家分享一下，面试过程中遇到这个问题， 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 一、题目 LeetCode 相同的树 给你两棵二叉树的根节点 p 和 q ，编写一个函数来检验这两棵树是否 
     </details> 
 
-- 🎡 [第一章、变量](https://juejin.cn/post/7127945024024608799) | Thu Aug 04 2022 9:07 AM 
+- 🎡 [【坑】&lt;input&gt; 的「type=&quot;number&quot;」](https://juejin.cn/post/7127951949588070436) | Thu Aug 04 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-    1、数据类型 各个数据类型占用的空间： 数据类型 占用空间&lpar;字节&rpar; byte 1 short 2 int 4 long 8 float 4 double 8 boolean 1 char 2 2、变量 
+    正文 在你处理「只允许输入0-9数字」的需求的时候，你可能很容易想到&lt;input&gt;标签的type=&quot;number&quot;。于是乎，你就这么干了。通常，你会在键盘上乱输入一通（比如，依次输入“a,b,c,d, 
     </details> 
 
-- 🕯 [关于 Android 稳定性优化你应该了解的知识点](https://juejin.cn/post/7127912072519614494) | Thu Aug 04 2022 6:59 AM 
+- 🕯 [Element 2 组件源码剖析之Switch开关](https://juejin.cn/post/7127950086893469726) | Thu Aug 04 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
-    Android 稳定性优化是一个需要长期投入，持续运营和维护的一个过程，不仅深入探讨了 Java Crash、Native Crash 和 ANR 的解决流程及方案，还分析了其内部实现原理和监控流程！ 
+    开关选择器 Switch 用于表示开关状态/两种状态之间的切换时。本文将分析源码实现，耐心读完，相信会对您有所帮助。 
     </details> 
 
-- 🚀 [【Android】一键登录 - 三大运营商](https://juejin.cn/post/7127836566084386852) | Thu Aug 04 2022 2:06 AM 
+- 🚀 [web自动化工具-playwright安装失败怎么办](https://juejin.cn/post/7127946496183369759) | Thu Aug 04 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-    在条件允许的情况下，通过运行商提供的服务，进行【一键登录】。简化用户的登录操作，提高 App 的登录注册率以及使用率。 本方案采用的是阿里云中【一键登录】方案。 
+    playwright 有自己管理浏览器的机制，最好不要绕过 playwright install 自己安装浏览器。playwright 下载好的浏览器会存放在本地一个特定的目录，当需要运行浏览器 
     </details> 
 
-- 💪 [挖一挖Retrofit源码（一）](https://juejin.cn/post/7127832427426217998) | Thu Aug 04 2022 1:51 AM 
+- 💪 [虚拟键盘工具类](https://juejin.cn/post/7127944301811597348) | Thu Aug 04 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    Retrofit是当下非常火的一个基于OkHttp的网络请求框架，本文将对Retrofit2.8.0的源码进行详细分析。 
+    导航栏日常使用工具类，包括状态栏颜色/状态栏高度/显示状态栏/关闭状态栏/状态栏与Dialog碰撞出火花后如何解决！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
