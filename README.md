@@ -688,7 +688,7 @@
     网站文章导航！ 
     </details> 
 
-- 😎 [全网首发，没有比这更快的视频下载方法！（2022-07-26）](https://www.runningcheese.com/onekey-video-download) | Wed May 18 2022 4:02 PM 
+- 😎 [全网首发，没有比这更快的视频下载方法！](https://www.runningcheese.com/onekey-video-download) | Wed May 18 2022 4:02 PM 
     <details><summary>展开描述 ...</summary> 
     关于「视频下载」可以讲的内容很多，也很有意思。 如果说文章《i14 - 视频下载》讲的是下载思路，文章《i37 [&amp;#8230;] 
     </details> 
