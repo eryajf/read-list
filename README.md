@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [消息称英特尔即将与意大利政府达成50亿美元建厂协议](https://www.cnbeta.com/articles/tech/1300827.htm) | Thu Aug 04 2022 1:33 PM 
+- 🕯 [未经许可收录作品并提供下载 知网侵权被判赔19.6万](https://www.cnbeta.com/articles/tech/1300831.htm) | Thu Aug 04 2022 1:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;知网收录作品侵权被判赔19.6万。8月4日，北京法院审判信息网披露的一系列案件判决书显示，因相关著作权权属、侵权纠纷，北京世纪超星信息技术发展有限责任公司（下称“世纪超星”）起诉《中国学术期刊（光盘版）》电子杂志社有限公司（下称“学术期刊公司”），世纪超星称，其对涉案文章享有专有使用权，被告学术期刊公司未经许可，擅自提供上述涉案文章的付费在线阅读、下载服务，侵害原告权利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [价值数百万美元的Solana加密货币盗窃案被认为与Slope手机钱包有关](https://www.cnbeta.com/articles/tech/1300829.htm) | Thu Aug 04 2022 1:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;本周早些时候，与Solana生态系统相连的数千个加密货币钱包被攻击者洗劫一空，他们使用所有者的私钥来窃取Solana（SOL）和USD Coin（USDC）。Solana现在说，经过&amp;quot;开发人员、生态系统团队和安全审计员&amp;quot;的调查，它将这次攻击与与Slope移动钱包应用相关的账户联系在一起。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [消息称英特尔即将与意大利政府达成50亿美元建厂协议](https://www.cnbeta.com/articles/tech/1300827.htm) | Thu Aug 04 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，两位知情人士今日称，英特尔公司即将与意大利政府达成一项投资交易，在意大利建立一家先进的半导体封装和组装厂，最初拟投资50亿美元。此次在意大利投资，也是英特尔今年早些时候宣布的一项更广泛的投资计划的一部分。当时，英特尔宣布将投资约880亿美元在欧洲扩大产能。目前，英特尔正在努力降低对亚洲芯片进口的依赖，并缓解供应紧缺局面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [京东方AMOLED屏幕出货量暴跌32.7％：静待iPhone 14发布](https://www.cnbeta.com/articles/tech/1300825.htm) | Thu Aug 04 2022 1:33 PM 
+- 🚀 [京东方AMOLED屏幕出货量暴跌32.7％：静待iPhone 14发布](https://www.cnbeta.com/articles/tech/1300825.htm) | Thu Aug 04 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据CINNO Research数据显示，2022年上半年全球市场AMOLED智能手机面板出货量约2.78亿片，较去年同期下滑10.5%。其中第二季度，&lt;strong&gt;三星显示（SDC）出货量同比下滑12.9%，环比下滑17.8%&lt;/strong&gt;，市场份额跌破七成至69.9%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Galaxy S23 Ultra电池容量和芯片配置信息泄露](https://www.cnbeta.com/articles/tech/1300823.htm) | Thu Aug 04 2022 1:10 PM 
+- 🎊 [Galaxy S23 Ultra电池容量和芯片配置信息泄露](https://www.cnbeta.com/articles/tech/1300823.htm) | Thu Aug 04 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Galaxy S22 Ultra这款相当成功的机型在过去的半年有力地证明了自己，它是Galaxy Note系列结束使命后第一款配备S Pen笔仓和Galaxy Note系列所有其他功能的手机。因此，Galaxy S23 Ultra自然会基于S22 Ultra所奠定的基础，我们可以期待一些组件的整体改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [NASA在几百万英里外为受小行星影响的露西号航天器排除故障](https://www.cnbeta.com/articles/science/1300821.htm) | Thu Aug 04 2022 1:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2021年10月16日，美国宇航局的露西号航天器成功发射后，一群工程师挤在佛罗里达州泰特斯维尔的一张长会议桌旁。露西号的12年旅程刚刚开始几个小时，但有史以来第一次特洛伊小行星任务的一个重大意外挑战已经浮出水面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [苹果新平板iPad 10外形首秀：摄像头突起感人](https://www.cnbeta.com/articles/tech/1300819.htm) | Thu Aug 04 2022 12:57 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果有望在今年秋季更新多款iPad新品，包括iPad 10、iPad mini 7、iPad Pro等。其中作为系列最便宜的产品，iPad数字系列长期都是销量担当，而在iPad 10上，无论是外形还是内在，预计都会有一次大升级。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
