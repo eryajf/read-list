@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [腾讯、华为都看上了滴滴的生意](https://www.cnbeta.com/articles/tech/1300811.htm) | Thu Aug 04 2022 12:16 PM 
+- 🕯 [消息称英特尔即将与意大利政府达成50亿美元建厂协议](https://www.cnbeta.com/articles/tech/1300827.htm) | Thu Aug 04 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;刚刚过去的7月，高温日达到22个，数量为史上第三多，但持续的高温热浪还没有结束。“高烧”中的上海，让网约车司机地图上的“热力点”红了起来、多了起来，在经历一场疫情停滞之后，这个夏天，网约车迎来期盼已久的“黄金季”，而平台也趁势推出一大波优惠券吸引用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，两位知情人士今日称，英特尔公司即将与意大利政府达成一项投资交易，在意大利建立一家先进的半导体封装和组装厂，最初拟投资50亿美元。此次在意大利投资，也是英特尔今年早些时候宣布的一项更广泛的投资计划的一部分。当时，英特尔宣布将投资约880亿美元在欧洲扩大产能。目前，英特尔正在努力降低对亚洲芯片进口的依赖，并缓解供应紧缺局面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [上财研究生从央企裸辞送外卖：一天赚几十 自称很幸福](https://www.cnbeta.com/articles/tech/1300809.htm) | Thu Aug 04 2022 12:03 PM 
+- 💼 [京东方AMOLED屏幕出货量暴跌32.7％：静待iPhone 14发布](https://www.cnbeta.com/articles/tech/1300825.htm) | Thu Aug 04 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;27岁的网友“峰哥”最近做出了让所有人都瞠目结舌的决定。据新闻晨报报道，&lt;strong&gt;“峰哥”是研究生学历，2020年毕业于上海财经大学，后入职一家央企，年薪达20万。&lt;/strong&gt;但因为适应不了人员频繁调动、加班等，他在今年7月初裸辞，开始送外卖，第一单赚了4.7元，在视频中自称是一个美好的开始，目前已经做了20多天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据CINNO Research数据显示，2022年上半年全球市场AMOLED智能手机面板出货量约2.78亿片，较去年同期下滑10.5%。其中第二季度，&lt;strong&gt;三星显示（SDC）出货量同比下滑12.9%，环比下滑17.8%&lt;/strong&gt;，市场份额跌破七成至69.9%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [一颗帝国大厦大小的小行星本周将飞过地球](https://www.cnbeta.com/articles/science/1300807.htm) | Thu Aug 04 2022 12:02 PM 
+- 💂 [Galaxy S23 Ultra电池容量和芯片配置信息泄露](https://www.cnbeta.com/articles/tech/1300823.htm) | Thu Aug 04 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一颗小行星将在本周晚些时候飞过地球。这颗小行星是2022 OE2，它最近才被天文学家在7月发现。这颗小行星估计大约有1200英尺长，大约和帝国大厦一样高。它将在围绕太阳的轨道上以大约320万英里的安全距离经过地球。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Galaxy S22 Ultra这款相当成功的机型在过去的半年有力地证明了自己，它是Galaxy Note系列结束使命后第一款配备S Pen笔仓和Galaxy Note系列所有其他功能的手机。因此，Galaxy S23 Ultra自然会基于S22 Ultra所奠定的基础，我们可以期待一些组件的整体改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Windows 11今年7月在Steam上的市场份额首次出现下滑](https://www.cnbeta.com/articles/tech/1300805.htm) | Thu Aug 04 2022 11:59 AM 
+- 🚀 [NASA在几百万英里外为受小行星影响的露西号航天器排除故障](https://www.cnbeta.com/articles/science/1300821.htm) | Thu Aug 04 2022 1:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Valve发布了最新的Steam硬件和软件调查结果，揭示了有关微软最新操作系统的有趣花絮。自2021年10月公开亮相以来，Windows 11首次在领先的PC游戏平台上失去了一小部分客户。根据Valve的数据，在2022年7月，Windows 11从21.23%下降到21.12%，下滑了0.11%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300805.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2021年10月16日，美国宇航局的露西号航天器成功发射后，一群工程师挤在佛罗里达州泰特斯维尔的一张长会议桌旁。露西号的12年旅程刚刚开始几个小时，但有史以来第一次特洛伊小行星任务的一个重大意外挑战已经浮出水面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Mozilla Firefox浏览器工具栏迎来统一扩展管理按钮](https://www.cnbeta.com/articles/tech/1300803.htm) | Thu Aug 04 2022 11:55 AM 
+- 🎊 [苹果新平板iPad 10外形首秀：摄像头突起感人](https://www.cnbeta.com/articles/tech/1300819.htm) | Thu Aug 04 2022 12:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;网络浏览器中的扩展程序提升了浏览器的功能，现在的主流浏览器都支持通过扩展程序添加浏览器未内置的其他功能。到目前为止，Firefox浏览器通常在工具栏上的溢出菜单图标中显示扩展功能，而现在Mozilla现在要用一个新的统一扩展面板取代它。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果有望在今年秋季更新多款iPad新品，包括iPad 10、iPad mini 7、iPad Pro等。其中作为系列最便宜的产品，iPad数字系列长期都是销量担当，而在iPad 10上，无论是外形还是内在，预计都会有一次大升级。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
