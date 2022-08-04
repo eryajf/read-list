@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [相同的树](https://juejin.cn/post/7127993071236546568) | Thu Aug 04 2022 12:14 PM 
+- 🤗 [码率vs.分辨率，哪一个更重要？](https://juejin.cn/post/7127988092081799182) | Thu Aug 04 2022 11:55 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 一、题目 LeetCode 相同的树 给你两棵二叉树的根节点 p 和 q ，编写一个函数来检验这两棵树是否 
+    在本文中，我们将讨论OTT领域中视频压缩和处理的基本问题：码率 vs. 分辨率，哪一个对视频流更重要？ 
     </details> 
 
-- 🎡 [【坑】&lt;input&gt; 的「type=&quot;number&quot;」](https://juejin.cn/post/7127951949588070436) | Thu Aug 04 2022 9:34 AM 
+- 🎡 [明明加了唯一索引，为什么还是产生了重复数据？](https://juejin.cn/post/7127986629213421576) | Thu Aug 04 2022 11:51 AM 
     <details><summary>展开描述 ...</summary> 
-    正文 在你处理「只允许输入0-9数字」的需求的时候，你可能很容易想到&lt;input&gt;标签的type=&quot;number&quot;。于是乎，你就这么干了。通常，你会在键盘上乱输入一通（比如，依次输入“a,b,c,d, 
+    前言 前段时间我踩过一个坑：在mysql8的一张innodb引擎的表中，加了唯一索引，但最后发现数据竟然还是重复了。 到底怎么回事呢？ 本文通过一次踩坑经历，聊聊唯一索引，一些有意思的知识点。 1.还 
     </details> 
 
-- 🕯 [Element 2 组件源码剖析之Switch开关](https://juejin.cn/post/7127950086893469726) | Thu Aug 04 2022 9:27 AM 
+- 🕯 [xgboost建模的几种方式](https://juejin.cn/post/7127977211432271908) | Thu Aug 04 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-    开关选择器 Switch 用于表示开关状态/两种状态之间的切换时。本文将分析源码实现，耐心读完，相信会对您有所帮助。 
+    参考网址 https://juejin.cn/post/7077575057253335077 引言 xgboost的不同建模方式 1/内置建模方式：libsvm格式数据源 
     </details> 
 
-- 🚀 [web自动化工具-playwright安装失败怎么办](https://juejin.cn/post/7127946496183369759) | Thu Aug 04 2022 9:13 AM 
+- 🚀 [JS基础之经典面试题回顾](https://juejin.cn/post/7127976501588262926) | Thu Aug 04 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-    playwright 有自己管理浏览器的机制，最好不要绕过 playwright install 自己安装浏览器。playwright 下载好的浏览器会存放在本地一个特定的目录，当需要运行浏览器 
+    说说你对闭包的理解？闭包使用场景 闭包产生的原因 Js 最大的缺点就是没有类，尤其是es5，自身没有面向对 
     </details> 
 
-- 💪 [虚拟键盘工具类](https://juejin.cn/post/7127944301811597348) | Thu Aug 04 2022 9:04 AM 
+- 💪 [哎，这是你的React面试小抄吧](https://juejin.cn/post/7127975245998194695) | Thu Aug 04 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-    导航栏日常使用工具类，包括状态栏颜色/状态栏高度/显示状态栏/关闭状态栏/状态栏与Dialog碰撞出火花后如何解决！ 
+    八月了，可能因为上半年之前的裁员积累，最近很多小伙伴在面试，问了不少React方向的面试题，接下来我会做个《React面试小抄》。 题目来源都是各个小伙伴的面试真题，这个小抄我会不断更新， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
