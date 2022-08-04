@@ -343,19 +343,19 @@
     知名去中心化钱包和加密货币交换门户网站Atomic wallet近期被假冒。 
     </details> 
 
-- 🦅 [微软推出新服务，扩大企业对其威胁情报库的访问权限](https://www.freebuf.com/news/340995.html) | Thu Aug 04 2022 2:50 AM 
+- 🦅 [针对微软企业电子邮件服务，大规模网络钓鱼攻击来袭](https://www.freebuf.com/news/341011.html) | Thu Aug 04 2022 3:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    来自ThreatLabz的安全研究人员发现了一批大规模的网络钓鱼活动。 
+    </details> 
+
+- 🪄 [思科修复了VPN路由器中关键远程代码执行漏洞](https://www.freebuf.com/news/341009.html) | Thu Aug 04 2022 3:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    目前，思科已经发布了软件更新来解决这两个漏洞。 
+    </details> 
+
+- 💻 [微软推出新服务，扩大企业对其威胁情报库的访问权限](https://www.freebuf.com/news/340995.html) | Thu Aug 04 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
     微软已在本周推出两项新服务，让企业安全运营中心 &lpar;SOC&rpar; 更广泛地访问其每天收集的大量威胁情报。 
-    </details> 
-
-- 🪄 [FreeBuf早报 | 德半导体制造商遭勒索软件攻击；微软宣布新的外部攻击面审计工具](https://www.freebuf.com/news/340918.html) | Wed Aug 03 2022 9:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    德国电力电子制造商赛米控披露，它遭到勒索软件攻击，甚至加密了公司的网络。 
-    </details> 
-
-- 💻 [恶意软件是如何伪装的，这份报告给出了答案](https://www.freebuf.com/news/340901.html) | Wed Aug 03 2022 3:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    恶意软件设计和部署的关键之处，在于将自己伪装成合法的APP，欺骗用户用户下载和运行恶意文件，以此感染目标设备和系统。 
     </details> 
 <!-- freebuf:END -->
 
