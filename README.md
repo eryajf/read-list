@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Nothing直播暗示Ear&lpar;1&rpar;Stick与Ear&lpar;2&rpar;真无线耳机即将到来](https://www.cnbeta.com/articles/tech/1300681.htm) | Thu Aug 04 2022 7:12 AM 
+- 🕯 [利用人体微生物自发电 可穿戴设备普及更进一步](https://www.cnbeta.com/articles/science/1300713.htm) | Thu Aug 04 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在推出了旗下首款智能机 Nothing Phone（1）之后，&lt;strong&gt;该公司又被发现在直播期间“一晃而过”地展示了正在打造的 Nothing Ear（1）Stick 和 Nothing Ear（2）真无线耳机新品。&lt;/strong&gt;其实早前，网络上已经盛传该公司正在推出一些新配件。但现在，知名爆料人 Mukul Sharma 又在 Twitter 上分享了更明确的信号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;最近发表在《Nature Communications》上的新研究，让我们看到了微型可穿戴设备普及的可能性，也就是利用人体微生物进行自发电的储能技术&lt;/strong&gt;。一直以来，限制着人体可穿戴设备产业发展其中一个主要因素就是电池技术，尤其是对于一些植入式的可穿戴设备而言，如果要做成微型化，必须要面对的一个问题就是储能，也就是供电系统的微型化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Windows 10七月可选更新导致任务栏语言图标无响应 用户无法更换输入法](https://www.cnbeta.com/articles/tech/1300679.htm) | Thu Aug 04 2022 7:01 AM 
+- 💼 [消息称SpaceX星链服务在法国降价一半](https://www.cnbeta.com/articles/science/1300711.htm) | Thu Aug 04 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在安装 KB5015878（7 月可选更新）之后，Windows 10 用户反馈任务栏中的通知区域在点击语言图标之后无法呼出输入栏。由于通知区域错误阻止了任务栏上的语言和输入栏，可能导致用户无法通过鼠标来切换输入法或者语言。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据跟踪特斯拉、SpaceX和马斯克消息的网站Tesla North报道，&lt;strong&gt;SpaceX公司的“星链”（Starlink）高速卫星互联网服务在法国的价格已大幅下调。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉提交了一项旨在提升GPS天线定位精度的独特专利申请](https://www.cnbeta.com/articles/tech/1300677.htm) | Thu Aug 04 2022 6:52 AM 
+- 💂 [华为神秘屏下镜头折叠新机首次现身：神似P50 Pocket](https://www.cnbeta.com/articles/tech/1300709.htm) | Thu Aug 04 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Electrek 报道称：特斯拉申请了一项多频段 GPS 天线专利，有望增强车载导航 / 自动驾驶等应用的定位精度。&lt;/strong&gt;文件描述称，该天线可嵌于车身玻璃的外表面、或与附近的金属元件电容耦合 —— 后者不仅能够为天线提供增益，还可在雨雾和冰雪天气加热车窗玻璃。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;原先因技术限制，手机厂商只能采用刘海屏、打孔屏、升降式镜头等各种异形屏设计，以解决前置镜头和听筒、红外感应等元件安装问题。但随着技术发展，采用屏下摄像头技术的真全面屏手机相继横空出世。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [海贼王漫画销量破5亿 刷新自己的吉尼斯世界纪录](https://hot.cnbeta.com/articles/comic/1300675.htm) | Thu Aug 04 2022 6:35 AM 
+- 🚀 [身家56亿、58岁仍单身 张朝阳：独居的人要多说话](https://www.cnbeta.com/articles/tech/1300707.htm) | Thu Aug 04 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（8月4日），《海贼王》官方推特宣布漫画全球累计销量已超5亿本，刷新了「单一作者发行量最大的系列漫画」的吉尼斯世界纪录，之前该纪录的保持者也是「尾田荣一郎」，此外，官推还分享了《少年Jump》主编中野博之手持吉尼斯证书的照片。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1300675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，张朝阳和俞敏洪进行了一场长达5小时的对话。对话中，张朝阳谈到独居的人要多说话。张朝阳说道：“&lt;strong&gt;一个人的时候，一般没人说话，这时你就要朗读，每天朗读或者你自言自语，或者你去干别的事，总之说话非常重要。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微软表示将向内部网络安全专家共享数据 为企业提供更安全保护](https://www.cnbeta.com/articles/tech/1300673.htm) | Thu Aug 04 2022 6:34 AM 
+- 🎊 [Intel 13代酷睿第一次开盖：16核心变24核心 面积增大近1/4](https://www.cnbeta.com/articles/tech/1300705.htm) | Thu Aug 04 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软近日表示将开放其内部数据的访问权限，以便于内部网络安全专家能够查看和使用。拥有成熟企业安全运营中心 &lpar;SOC&rpar; 的企业将能够通过这种方式更好地保护自己。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;同样没有发布，AMD Zen4锐龙7000系列静悄悄，Intel Raptor Lake 13代酷睿却是样品、规格、跑分满天飞，现在开盖都来了。友媒&lt;a class=&quot;f14_link&quot; href=&quot;https://www.bilibili.com/video/BV1FB4y1k7Nc?vd_source=b1d7076cbe7eab656ccc9e2a8fb982c2&quot; target=&quot;_blank&quot;&gt;超能网&lt;/a&gt;搞到了一颗i9-13900的样品，掀开了散热顶盖，这个过程没啥好说的，主要看看内核面积。13代酷睿依然是长方形内核，经过测量&lt;strong&gt;长度23.8毫米、宽度10.8毫米，面积约257.0平方毫米。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
