@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [RAR Extractor Max – unzip 9.8.0 解压缩神器](https://xclient.info/s/rar-extractor-unzip.html) | Wed Aug 03 2022 1:59 AM 
+- 🦏 [PDF Reader Pro 2.8.13 PDF 文档阅读编辑批注](https://xclient.info/s/pdf-reader-pro.html) | Thu Aug 04 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-    RAR Extractor - Unzip是一款功能强大的解压缩软件，支持几乎所有的压缩格式，比如RAR, ZIP, 7z, tbz, sti, tar, xar等等，用起来非常的方便。 
+    PDF Reader Pro是一款Mac平台的PDF文档阅读编辑器，除了可以进行 PDF 文档阅读以外，你还可以对文档进行备注、编辑、标注等，还可以添加笔记和书签，如果想要演示的话，还可以配合遥控来进行演示。 
     </details> 
 
--  [PowerPhotos 2.0.3 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Wed Aug 03 2022 1:58 AM 
+-  [iReal Pro 2022.7 编曲软件](https://xclient.info/s/ireal-pro.html) | Thu Aug 04 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
+    iReal Pro是一款应用在mac平台上的乐谱编曲软件，它拥有强大的乐谱风格伴奏功能。 
     </details> 
 
-- ⚗️ [Perfectly Clear WorkBench 4.1.2.2311 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Wed Aug 03 2022 1:56 AM 
+- ⚗️ [Eon 2.9.1 优秀的时间跟踪定时器](https://xclient.info/s/eon.html) | Thu Aug 04 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
+    Eon 是一款Mac上优秀的时间跟踪定时器，支持中文界面，可以进行时间统计跟踪，设置定时器等，简单易用。 
     </details> 
 
-- 🔥 [GlueMotion 2.0.5 缩时摄影](https://xclient.info/s/gluemotion.html) | Wed Aug 03 2022 1:55 AM 
+- 🔥 [Permute 3.9.7 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Thu Aug 04 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-    GlueMotion是Mac平台上的一款缩时摄影师的理想工具。GlueMotion Mac版允许用户批量对图像进行编辑、去闪烁，并将图像序列汇编成缩时影片。 
+    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
     </details> 
 
-- 🌋 [ApolloOne 3.1.2 图片浏览工具](https://xclient.info/s/apolloone.html) | Wed Aug 03 2022 1:53 AM 
+- 🌋 [EasyDataTransform 1.32.0 Excel和CSV文件转换工具](https://xclient.info/s/easydatatransform.html) | Thu Aug 04 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-    ApolloOne是Mac平台上的一款优秀的图片浏览器，给你一个全新查看和整理照片的体验，采用先进的操作系统功能，如multi-threading，Grand Central Dispatch和Core Image图像引擎，以确保应用程序有快速的反应能力。 
+    EasyDataTransform是一款功能强大的Excel和CSV文件转换工具，使您无需编程即可将表和列表数据快速转换为新的，更有用的形式。 
     </details> 
 <!-- xclient:END -->
 
