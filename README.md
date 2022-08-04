@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [创建HTML动态数据报告；论文投稿技巧大全&lpar;中文版&rpar;;『高效Pandas指南』随书代码；oneDNN深度神经网络库；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7127837183414632478) | Thu Aug 04 2022 2:08 AM 
+- 🤗 [浅析使用 JWT 的正确姿势](https://juejin.cn/post/7127839678711103495) | Thu Aug 04 2022 2:18 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 08-04 期，oneDNN深度神经网络库、HiClass层次化分类工具库、用于管理文件系统的Neovim插件、StreamX一站式流数据处理平台、摄影测量指南、COD资源… 
+    浅析使用 JWT 的正确姿势 在很长的一段时间里，我都没有正确的使用 jwt，意识到这个问题之后，把我最真实的思考和总结拿出来和大家分享下，欢迎一起讨论 现状 先说下我以前是怎么使用的： 登录成功后， 
     </details> 
 
-- 🎡 [Kroomsa搜索引擎的详细介绍](https://juejin.cn/post/7127837027495575582) | Thu Aug 04 2022 2:08 AM 
+- 🎡 [面向Docker和Kubernetes的Wingify](https://juejin.cn/post/7127839053939998750) | Thu Aug 04 2022 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 在你的网站上实施的搜索算法极大地影响了访客的参与。一个合适的搜索算法的实施可以大大减少对标准搜索引擎的依赖，如谷歌的每一个查询，从而增加参与度。传统的方法是看你查询中的术语或短语，根据句法匹配来 
+    介绍。 在Wingify，我们遵循基于微服务的架构，以利用其巨大的可扩展性优势。我们有很多的微服务，以及它们之间复杂的网络设置。目前，所有的服务都部署在云上的虚拟机上。我们希望改善这种架构设置，并使用 
     </details> 
 
-- 🕯 [仿钉钉审批流程后端 PHP 处理（一）](https://juejin.cn/post/7127832841592766494) | Thu Aug 04 2022 1:52 AM 
+- 🕯 [【LeetCode】数组美丽值求和Java题解](https://juejin.cn/post/7127838693578145805) | Thu Aug 04 2022 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    前端数据结构参照： https://github.com/StavinLi/Workflow 数据表结构： 数据处理：     数据处理完成后保存数据库即可。 思路：利用节点唯一值绑定节点的上下级关系 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 题目描述 给你一个下标从 0 开始的整数数组 nums 。对于每个下标 i（1 &lt;= i &lt;= nums. 
     </details> 
 
-- 🚀 [【综合笔试题】难度 4.5/5，超超超经典数学运用题](https://juejin.cn/post/7127832376503173151) | Thu Aug 04 2022 1:50 AM 
+- 🚀 [VWO SmartCode的性能改进介绍](https://juejin.cn/post/7127838226349309959) | Thu Aug 04 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 题目描述 这是 LeetCode 上的 458. 可怜的小猪 ，难度为 困难。 Tag : 「数学」 有  
+    VWO非常重视确保网站在使用VWO时保持足够的性能。我们一直在加大这方面的努力，正因为如此，我们能够带来两个非常大的优化，这将直接减少对网站性能的影响。 去除jQuery的依赖性 VWO主要曾经是一个 
     </details> 
 
-- 💪 [Android渲染流程](https://juejin.cn/post/7127832435911294989) | Thu Aug 04 2022 1:50 AM 
+- 💪 [雪花算法SnowFlake](https://juejin.cn/post/7127838214718488607) | Thu Aug 04 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 Android应用程序调用SurfaceFliger将测量，布局，绘制好的Surface借助GPU渲染显示 
+    Twitter 的分布式雪花算法SnowFlake ， 经测试 snowflake 每秒能产出26 万个自增可排序的ID twitter的SnowFlake生成ID能够按照时间有序生成 SnowFla 
     </details> 
 <!-- juejin:END -->
 ### 少数派
