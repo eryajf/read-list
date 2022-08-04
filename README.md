@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [LAMP - 社交媒体管理和营销订阅](https://xinquji.com/posts/178490?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:29 AM 
+- 👀 [Paysa - 适用于金融科技和银行应用程序的 124 页和 286 个符号](https://xinquji.com/posts/178500?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     社交媒体管理和营销订阅  
+     适用于金融科技和银行应用程序的 124 页和 286 个符号  
     </details> 
 
-- 🥷 [Upgraderoo - 自动化 NPM 包更新](https://xinquji.com/posts/178489?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:28 AM 
+- 🥷 [Highlight - 自信地了解和调试客户问题](https://xinquji.com/posts/178499?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     自动化 NPM 包更新  
+     自信地了解和调试客户问题  
     </details> 
 
-- 💼 [Priceboard - 检查比特币价格的最佳方法](https://xinquji.com/posts/178488?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:26 AM 
+- 💼 [CodeShield - 检测并修复您的 AWS 账户中的 IAM 权限升级](https://xinquji.com/posts/178498?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     检查比特币价格的最佳方法  
+     检测并修复您的 AWS 账户中的 IAM 权限升级  
     </details> 
 
-- 🦅 [Deploybot - 管理和自动化 GitHub 部署](https://xinquji.com/posts/178487?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:25 AM 
+- 🦅 [Open source SAML SSO &lpar;by BoxyHQ&rpar; - 只需几行代码即可集成企业 SSO](https://xinquji.com/posts/178497?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     管理和自动化 GitHub 部署  
+     只需几行代码即可集成企业 SSO  
     </details> 
 
-- 😺 [Dun Dun Dunning - 唯一一部关于战胜非自愿流失的网络漫画](https://xinquji.com/posts/178486?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:24 AM 
+- 😺 [Radar by Meshed Labs - 在被骗之前拦截恶意交易](https://xinquji.com/posts/178496?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     唯一一部关于战胜非自愿流失的网络漫画  
+     在被骗之前拦截恶意交易  
     </details> 
 <!-- xinquji:END -->
