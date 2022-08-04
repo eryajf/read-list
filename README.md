@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [git tag那个类似分支的标签命令](https://juejin.cn/post/7127825699741630494) | Thu Aug 04 2022 1:25 AM 
+- 🤗 [创建HTML动态数据报告；论文投稿技巧大全&lpar;中文版&rpar;;『高效Pandas指南』随书代码；oneDNN深度神经网络库；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7127837183414632478) | Thu Aug 04 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-    这里我在使用的过程中，简单的把 `tag` 标签当成只读的分支了，通过把tag标签作为一个中介，是我的一个使用方法。 
+    ShowMeAI资讯日报 08-04 期，oneDNN深度神经网络库、HiClass层次化分类工具库、用于管理文件系统的Neovim插件、StreamX一站式流数据处理平台、摄影测量指南、COD资源… 
     </details> 
 
-- 🎡 [leetcode  378. Kth Smallest Element in a Sorted Matrix（python）](https://juejin.cn/post/7127825073947787294) | Thu Aug 04 2022 1:22 AM 
+- 🎡 [Kroomsa搜索引擎的详细介绍](https://juejin.cn/post/7127837027495575582) | Thu Aug 04 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode 378. Kth Smallest Element in a Sorted Matrix（python）主要是用了堆数据结构来解决第 n 个最小数字问题 
+    简介 在你的网站上实施的搜索算法极大地影响了访客的参与。一个合适的搜索算法的实施可以大大减少对标准搜索引擎的依赖，如谷歌的每一个查询，从而增加参与度。传统的方法是看你查询中的术语或短语，根据句法匹配来 
     </details> 
 
-- 🕯 [软件测试 - 项目测试流程](https://juejin.cn/post/7127824190266163236) | Thu Aug 04 2022 1:19 AM 
+- 🕯 [仿钉钉审批流程后端 PHP 处理（一）](https://juejin.cn/post/7127832841592766494) | Thu Aug 04 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 首先需要进行需求分析和评审，在该环节需要项目组成员共同参与，需求分析和评审的目的就是为了让项目组成员确认需 
+    前端数据结构参照： https://github.com/StavinLi/Workflow 数据表结构： 数据处理：     数据处理完成后保存数据库即可。 思路：利用节点唯一值绑定节点的上下级关系 
     </details> 
 
-- 🚀 [[译] WebRTC 周刊 442 期](https://juejin.cn/post/7127819836779921415) | Thu Aug 04 2022 1:01 AM 
+- 🚀 [【综合笔试题】难度 4.5/5，超超超经典数学运用题](https://juejin.cn/post/7127832376503173151) | Thu Aug 04 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎查阅来自 webrtcweekly.com 最新的 WebRTC 相关信息，由塔万科技翻译整理。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 题目描述 这是 LeetCode 上的 458. 可怜的小猪 ，难度为 困难。 Tag : 「数学」 有  
     </details> 
 
-- 💪 [第十六章 源代码文件 REST API 教程（一）](https://juejin.cn/post/7127816382313398308) | Thu Aug 04 2022 12:49 AM 
+- 💪 [Android渲染流程](https://juejin.cn/post/7127832435911294989) | Thu Aug 04 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 9 月更文挑战」的第8天，点击查看活动详情 第十六章 源代码文件 REST API 教程（一） 本章提供了一个简短的教程，通过一系列示例演示如何使用源 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 Android应用程序调用SurfaceFliger将测量，布局，绘制好的Surface借助GPU渲染显示 
     </details> 
 <!-- juejin:END -->
 ### 少数派
