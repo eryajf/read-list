@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [响应式系统与React | 青训营笔记](https://juejin.cn/post/7127850110209228837) | Thu Aug 04 2022 2:59 AM 
+- 🤗 [防止 npm 安装不支持的 Node.js 版本](https://juejin.cn/post/7127891637572730911) | Thu Aug 04 2022 5:40 AM 
     <details><summary>展开描述 ...</summary> 
-    这是我参与「第四届青训营 」笔记创作活动的第3天 React的历史与应用 应用场景 前端应用开发，如Facebook、Netflix网页版 移动端原生应用，如Android、IOS的app 结合Ele 
+    确保设置项目的使用特定的 Node.js 版本，使开发人员在 git clone 或 git pull 您的项目时，可以正常运行项目。 我们可以通过在 package.json中设置 engines  
     </details> 
 
-- 🎡 [Java面试题总结（一）](https://juejin.cn/post/7127850007067099143) | Thu Aug 04 2022 2:58 AM 
+- 🎡 [如何将Tailwind添加到Hugo中（附代码示例）](https://juejin.cn/post/7127868093006774309) | Thu Aug 04 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
-    Lin携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 一.基础知识： 1）集合类：List和Set比较，各自的子类比较（ArrayList，Vector， 
+    在你的主题文件夹内运行 然后安装Tailwind CSS作为开发依赖。 使用Tailwind初始化。 这将创建tailwind.config.js 文件。在你的编辑器中打开它，用你的主题布局文件以这种 
     </details> 
 
-- 🕯 [ttypescript plugin 入门指南](https://juejin.cn/post/7127849917317382151) | Thu Aug 04 2022 2:58 AM 
+- 🕯 [HTML如何在避免在找不到图像的情况下显示一个破损的图像](https://juejin.cn/post/7127868169254862879) | Thu Aug 04 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
-    作者：阳羡 本文为了快速说清楚相关原理，可能表述不够严谨，希望深入学习的同学请以源码为准 ttypescript 是什么 首先这并不是一个 typo。 在我们的业务逻辑中，总有需要对代码进行处理的需求 
+    当我在一个网站上工作时，我正在根据当前页面的URL动态地加载一个图像。 由于确信我最终会忘记在未来创建一个图像，所以我研究如何避免出现通常的 &quot;破损的图像&quot;，即 &quot;这个网站被放弃了&quot;。 我使用的技术是 
     </details> 
 
-- 🚀 [性能提升400倍丨外汇掉期估值计算优化案例](https://juejin.cn/post/7127848128069238821) | Thu Aug 04 2022 2:51 AM 
+- 🚀 [在HTML中强制下载链接](https://juejin.cn/post/7127867959988453412) | Thu Aug 04 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
-    合约匹配利率，最常见的做法是通过循环语句对每一个合约做计算。而 DolphinDB 中，可以通过强大的表连接函数，将需要的信息关联后，再通过 SQL向量编程 进行计算。 
+    我最近发现，你可以在a 标签上添加download 属性。 浏览器就会强制下载，即使该文件可以在浏览器中加载（如PDF）。 这只对同一来源的链接有效。 下载我的免费HTML手册! 
     </details> 
 
-- 💪 [API 与 SDK 之间的区别](https://juejin.cn/post/7127846000831496206) | Thu Aug 04 2022 2:43 AM 
+- 💪 [如何在JSX中重复显示一些东西](https://juejin.cn/post/7127867875892658183) | Thu Aug 04 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
-     很多人在软件开发中经常会分不清 SDK 与 API ，今天就来浅谈一下两者之间的区别。 直白地说，SDK 包含了 API ，是一套完整的，能完成更多功能的工具包，无论你想获取什么样的信息， 
+    我需要在JSX中重复一些东西。 用例是这样的，我有一个从1到5的评论，根据这个值我想显示一些星星，从1到5颗。 所以我使用了这个片段。 下载我的免费React手册! 
     </details> 
 <!-- juejin:END -->
 ### 少数派
