@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [未经许可收录作品并提供下载 知网侵权被判赔19.6万](https://www.cnbeta.com/articles/tech/1300831.htm) | Thu Aug 04 2022 1:40 PM 
+- 🕯 [Build 25174的隐秘改动表明Windows 11的关机界面可能迎来变动](https://www.cnbeta.com/articles/tech/1300845.htm) | Thu Aug 04 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知网收录作品侵权被判赔19.6万。8月4日，北京法院审判信息网披露的一系列案件判决书显示，因相关著作权权属、侵权纠纷，北京世纪超星信息技术发展有限责任公司（下称“世纪超星”）起诉《中国学术期刊（光盘版）》电子杂志社有限公司（下称“学术期刊公司”），世纪超星称，其对涉案文章享有专有使用权，被告学术期刊公司未经许可，擅自提供上述涉案文章的付费在线阅读、下载服务，侵害原告权利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天早些时候，微软为Windows 11内部人员发布了最新的开发渠道构建版25174。该版本带来了几个错误的修复，以及对文件资源管理器的一些改进，然而，还有更多变化存在于不大容易留意到的地方，且在发布说明中仍未披露。Twitter用户和泄密者Xeno发现，关闭菜单上类似PC的图标不见了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [价值数百万美元的Solana加密货币盗窃案被认为与Slope手机钱包有关](https://www.cnbeta.com/articles/tech/1300829.htm) | Thu Aug 04 2022 1:39 PM 
+- 💼 [三星Galaxy Buds2 Pro规格泄露](https://www.cnbeta.com/articles/tech/1300843.htm) | Thu Aug 04 2022 3:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周早些时候，与Solana生态系统相连的数千个加密货币钱包被攻击者洗劫一空，他们使用所有者的私钥来窃取Solana（SOL）和USD Coin（USDC）。Solana现在说，经过&amp;quot;开发人员、生态系统团队和安全审计员&amp;quot;的调查，它将这次攻击与与Slope移动钱包应用相关的账户联系在一起。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然围绕三星即将举行的Galaxy Unpacked活动的大部分关注都是围绕Galaxy Z Fold4和Z Flip4展开的，但三星将在舞台上宣布更多的小玩意。&lt;strong&gt;预期的新产品之一是一对新的旗舰无线耳机，德国网站WinFuture的朋友们获得了Galaxy Buds2 Pro的官方图片以及其详细规格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [消息称英特尔即将与意大利政府达成50亿美元建厂协议](https://www.cnbeta.com/articles/tech/1300827.htm) | Thu Aug 04 2022 1:33 PM 
+- 💂 [科学家开发基于芯片的光束转向装置 让激光雷达更小更便宜](https://www.cnbeta.com/articles/science/1300841.htm) | Thu Aug 04 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，两位知情人士今日称，英特尔公司即将与意大利政府达成一项投资交易，在意大利建立一家先进的半导体封装和组装厂，最初拟投资50亿美元。此次在意大利投资，也是英特尔今年早些时候宣布的一项更广泛的投资计划的一部分。当时，英特尔宣布将投资约880亿美元在欧洲扩大产能。目前，英特尔正在努力降低对亚洲芯片进口的依赖，并缓解供应紧缺局面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;研究人员已经开发出一种新基于芯片的光束转向技术，为小型、低成本和高性能的激光雷达系统提供了一条有希望的途径。&lt;/strong&gt;激光雷达，或称光探测和测距，使用激光脉冲来获取场景或物体的三维信息。它被用于广泛的应用，如自动驾驶、三维全息、生物医学传感、自由空间光通信和虚拟现实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [京东方AMOLED屏幕出货量暴跌32.7％：静待iPhone 14发布](https://www.cnbeta.com/articles/tech/1300825.htm) | Thu Aug 04 2022 1:33 PM 
+- 🚀 [国产桌面显卡风华2号现场演示：能玩DX11游戏、功耗最低3W](https://www.cnbeta.com/articles/tech/1300839.htm) | Thu Aug 04 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据CINNO Research数据显示，2022年上半年全球市场AMOLED智能手机面板出货量约2.78亿片，较去年同期下滑10.5%。其中第二季度，&lt;strong&gt;三星显示（SDC）出货量同比下滑12.9%，环比下滑17.8%&lt;/strong&gt;，市场份额跌破七成至69.9%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月3日，芯动科技正式发布了新一代桌面级显卡“风华2号”，并且现场进行了基准测试跑分、办公软件、工程制图、GIS、游戏娱乐等各种场景的实时演示。按照官方说法，&lt;strong&gt;风华2号是一款集超低功耗、强渲染、4K高清三屏显示、4K视频解码、智能AI计算于一体的桌面和笔记本GPU，实现了多个自研技术的创新突破。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Galaxy S23 Ultra电池容量和芯片配置信息泄露](https://www.cnbeta.com/articles/tech/1300823.htm) | Thu Aug 04 2022 1:10 PM 
+- 🎊 [新技术使量子计算机性能更进一步](https://www.cnbeta.com/articles/tech/1300837.htm) | Thu Aug 04 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Galaxy S22 Ultra这款相当成功的机型在过去的半年有力地证明了自己，它是Galaxy Note系列结束使命后第一款配备S Pen笔仓和Galaxy Note系列所有其他功能的手机。因此，Galaxy S23 Ultra自然会基于S22 Ultra所奠定的基础，我们可以期待一些组件的整体改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;量子计算新兴领域的领导者Quantinuum周四表示，&lt;strong&gt;它推进了一项纠正先进机器计算错误的关键技术，这一发展对于它们实现其革命性的潜力至关重要。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
