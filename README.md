@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Spring Security-退出登录和CSRF](https://juejin.cn/post/7127887788313149448) | Thu Aug 04 2022 5:25 AM 
+- 🤗 [Neuron Newsletter 2022-07｜新增非 A11 驱动、即将支持 OPC DA](https://juejin.cn/post/7127933772284051464) | Thu Aug 04 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情。 一、退出登录 用户只需要向Spring Security项目中发送/logout退出请求即可。 1.退出 
+    七月，我们发布了Neuron 2.1.1、2.1.2两个版本，引入了SQLite以存储Neuron的配置信息，新增非A11驱动。 
     </details> 
 
-- 🎡 [如何优雅的消除项目中的重复代码、中高级前端工程师都需要熟悉的技能、JVM调优-GC基本原理和调优关键分析 | 酱酱的下午茶第43期](https://juejin.cn/post/7127882709413658631) | Thu Aug 04 2022 5:05 AM 
+- 🎡 [百度APP Android包体积优化实践（三）资源优化](https://juejin.cn/post/7127910952162295822) | Thu Aug 04 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-    本期看点：中高级前端工程师都需要熟悉的技能--前端缓存、这个夏天，用仿小红书实战带你玩转 React + Redux、面试官为啥总是喜欢问前端路由实现方式？ 
+    百度APP Android包体积优化实践系列文章的前两篇分别介绍了体积优化的整体方案和Dex行号优化的具体内容。本文主要介绍了百度APP资源优化方案，其中重点讲述了在资源路径和资源名方面的优化。 
     </details> 
 
-- 🕯 [牛刀小试基本语法,Go lang1.18入门精炼教程，由白丁入鸿儒，go lang基本语法和变量的使用EP02](https://juejin.cn/post/7127877354835148808) | Thu Aug 04 2022 4:45 AM 
+- 🕯 [从-99打造Sentinel高可用集群限流中间件](https://juejin.cn/post/7127909278110875679) | Thu Aug 04 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-    书接上回，Go lang1.18首个程序的运行犹如一声悠扬的长笛，标志着并发编程的Go lang巨轮正式开始起航。那么，在这艘巨轮之上，我们首先该做些什么呢？当然需要了解最基本的语法，那就是基础变量 
+    接上篇Sentinel集群限流探索，上次简单提到了集群限流的原理，然后用官方给的 demo 简单修改了一下，可以正常运行生效。 这一次需要更进一步，基于 Sentinel 实现内嵌式集群限流的高可用方 
     </details> 
 
-- 🚀 [刷完LeetCode题库——278. 第一个错误的版本](https://juejin.cn/post/7127874873925304357) | Thu Aug 04 2022 4:35 AM 
+- 🚀 [【并发编程】-  ThreadPoolExecutor使用submit方法提交Runnable任务定义执行结果的返回值类型](https://juejin.cn/post/7127908349454057480) | Thu Aug 04 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 题目详情 LeetCode题库序号 278. 第一个错误的版本 ，难度为 简单。 Tag : 「二分查找」 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 ThreadPoolExecutor使用submit方法提交Runnable任务规定执行结果的返回值 实体 
     </details> 
 
-- 💪 [使用Vue3，vite启动一个的Element 后台管理框架并使用GitHub Action部署项目](https://juejin.cn/post/7127871180685443079) | Thu Aug 04 2022 4:20 AM 
+- 💪 [javascript中伪数组和真数组的小秘密](https://juejin.cn/post/7127904903778795527) | Thu Aug 04 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天 点击查看活动详情 前言 昨天写了一篇文章说到最近有一个爬虫需求，可能后面需要写一个基于爬虫的数据非常简单的管理后台，所以有了 
+    arguments接受的实参是一个列表，得到的是一个像数组一样的东西，于是他想实现无限参数求和，在遍历数组求和时，使用了forEach遍历，却报错了，问这是为什么？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
