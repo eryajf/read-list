@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [浙江一水库发现大量桃花水母：被称为“活化石” 比恐龙还早几亿年](https://www.cnbeta.com/articles/science/1300769.htm) | Thu Aug 04 2022 9:51 AM 
+- 🕯 [网易云音乐听歌识曲“史诗级”升级：哼歌念歌词都能认出来](https://hot.cnbeta.com/articles/music/1300779.htm) | Thu Aug 04 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你见过淡水中的水母吗？还是活了几亿年的那种。据中国蓝新闻消息，&lt;strong&gt;近日在浙江千岛湖支流上游的中洲镇木瓜水库，发现了大量古老的腔肠动物桃花水母，在水中一张一缩，触角展开后像把小雨伞，直径大概一公分左右。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，网易云音乐对其“听歌识曲”功能进行了一波升级，实现了“听歌识曲”与“哼唱识曲”两项功能的整合，并加入了部分新功能，可以说是一次“史诗级”更新了。据悉，在更新后的听歌识曲功能，&lt;strong&gt;除了常规的根据播放音乐识曲外，也支持哼唱、念歌词等多种识曲方式，且精确度与此前相比有一定提升。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1300779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [报道称任天堂在2023年3月前不会推出任何新硬件产品](https://hot.cnbeta.com/articles/game/1300767.htm) | Thu Aug 04 2022 9:46 AM 
+- 💼 [每日优鲜拖欠农户货款175万元：相关对接人已被裁掉](https://www.cnbeta.com/articles/tech/1300777.htm) | Thu Aug 04 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;《日经新闻》的一份新报告称，2023年3月之前都不会有新的任天堂硬件。&lt;/strong&gt;根据这家日本报纸，任天堂在本财政年度不会发布新的硬件，该年度将持续到2023年3月。另外，该文章还引用了任天堂CEO的话，称这家日本游戏公司今年夏天没有能生产出它想要的那么多Switch硬件，但据推测，未来几个月的生产将有所改善。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月4日消息，据北京时间报道，大兴区庞各庄多名农户表示，&lt;strong&gt;自己种的瓜通过合作社代销的形式卖给了每日优鲜，但迟迟不给货款。&lt;/strong&gt;报道指出，&lt;strong&gt;每日优鲜共拖欠合作社人民币175万余元，&lt;/strong&gt;但项目相关负责人员均被裁员。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Windows 11智能应用控制可更好地阻止潜在恶意软件的传播](https://www.cnbeta.com/articles/tech/1300765.htm) | Thu Aug 04 2022 9:41 AM 
+- 💂 [AMD Zen 4锐龙7000系列首发四款CPU SKU规格爆料汇总](https://www.cnbeta.com/articles/tech/1300775.htm) | Thu Aug 04 2022 10:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在经历了一段时间的拉锯后，Microsoft Office 生产力套件终于在 7 月下旬默认阻止 VBA 宏的运行。&lt;strong&gt;然而对于用户基数庞大的 Windows 操作系统来说，它还是很容易被各类威胁参与者给盯上。&lt;/strong&gt;Neowin 指出，新的策略、基数和程序（TTP）层出不穷，使得 ISO、LNK 和 RAR 等文件格式都极易被注入恶意软件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;各方消息已证实 AMD 即将推出 Zen 4“Raphael”锐龙 7000 系列处理器和配套的 600 系主板，且首发 AM5 台式 CPU 阵容中将包括 R9-7950X、R9-7900X、R7-7700X 和 R5-7600X 四款 SKU 。&lt;strong&gt;而随着传说中的 9 月 15 号的临近，WCCFTech 也用心汇总了锐龙 7000 系列台式 CPU 的最终规格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [COVID-19研究揭示了免疫系统跟血栓之间的其他联系](https://www.cnbeta.com/articles/science/1300763.htm) | Thu Aug 04 2022 9:40 AM 
+- 🚀 [Intel Arc显卡AV1编码表现实测 1299元不亏](https://www.cnbeta.com/articles/tech/1300773.htm) | Thu Aug 04 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一项来自COVID-19队列的研究揭示了免疫系统和血凝块之间的另一种联系，这可能会改善危重疾病的治疗。&lt;/strong&gt;血凝块被认为发生在多达1.3的COVID-19住院病人身上。在许多情况下，这些血凝块可能是致命的如肺栓塞--血凝块会进入肺部。事实上，在近1/3的COVID-19患者中，这些血块导致了死亡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel的Arc游戏显卡已经开始上市了，目前主要是A380这一款，国内实际售价1299元，虽然在驱动和优化上还有些槽点，导致游戏性能有些飘忽，但是Intel显卡支持AV1视频编码，这让它在此类应用中轻松获胜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [机构预计DRAM市场规模明年仅增长8.3% 首次低于10%](https://www.cnbeta.com/articles/tech/1300761.htm) | Thu Aug 04 2022 9:30 AM 
+- 🎊 [花旗分析师：特斯拉股价被高估 可能暴跌50%以上](https://www.cnbeta.com/articles/tech/1300771.htm) | Thu Aug 04 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年并不理想的全球DRAM市场，在明年将会更不乐观，已有研究机构预计明年的市场规模增长将创下新低，供过于求的状况将会更严重。从外媒的报道来看，研究机构预计明年全球DRAM市场的规模，只会增长8.3%，历史首次低于10%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;花旗分析师Itay Michaeli表示，特斯拉股票处于膨胀状态，未来可能暴跌50%以上。分析师在一份报告中重申了特斯拉股票的卖出评级，目标价为424美元。目前，特斯拉股票交易价格约为每股923美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
