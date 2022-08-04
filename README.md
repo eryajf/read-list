@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [车厂致电急求订购25片晶圆 魏哲家：台积电接单2.5万片起跳](https://www.cnbeta.com/articles/tech/1300879.htm) | Thu Aug 04 2022 7:26 PM 
+- 🕯 [上财研究生从央企裸辞送外卖引热议 本人重申：临时过渡](https://www.cnbeta.com/articles/tech/1300883.htm) | Thu Aug 04 2022 11:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;上财研究生从央企裸辞送外卖在社交媒体上引起了不少人的围观，不过这件事背后还是应该关注的是，对方只是过渡工作。27岁的“峰哥” 是上海财经大学毕业的研究生，为了追求自由，从央企离职后暂时以送外卖为生。但他也表示未来还是会选择一份稳定的、适合自己的工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [马斯克说自己被骗了 推特：胡扯](https://www.cnbeta.com/articles/tech/1300881.htm) | Thu Aug 04 2022 11:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;马斯克在提交给特拉华州法院的文件中说，他被骗才签下与推特的收购协议，推特驳斥了马斯克的说法，说马斯克的话不可信，与事实不符。马斯克在一份反诉文件中表达了自己的看法，之前文件没公开，周四才公开。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [车厂致电急求订购25片晶圆 魏哲家：台积电接单2.5万片起跳](https://www.cnbeta.com/articles/tech/1300879.htm) | Thu Aug 04 2022 7:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据路透社报道，台积电总裁魏哲家表示，在汽车芯片严重短缺之前从未接到过汽车行业高管的电话，但过去两年，他们给我打电话，表现得像我最好的朋友一样。魏哲家透露，曾接到过汽车行业高管电话，要求紧急订购25片晶圆。由于台积电接单多以2.5万片起跳，魏哲家回应对方说“难怪你得不到支持”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [疯涨320倍的尚乘数科股价腰斩 与李嘉诚的关系成热议话题](https://www.cnbeta.com/articles/tech/1300877.htm) | Thu Aug 04 2022 7:22 PM 
+- 🚀 [疯涨320倍的尚乘数科股价腰斩 与李嘉诚的关系成热议话题](https://www.cnbeta.com/articles/tech/1300877.htm) | Thu Aug 04 2022 7:22 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;香港两家鲜为人知的金融服务公司股票正在急速下跌，一如它们此前飞一般的上涨。尚乘集团周四最高重挫39%，子公司尚乘数科跌幅更是一度高达50%。尚乘数科最高峰时股价曾经比上月IPO价高出32000%，市值超过美银、高盛。而这家从事数字业务开发等金融服务的公司截至2021年4月的全年收入仅为2500万美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美国宣布猴痘疫情为突发公共卫生事件](https://www.cnbeta.com/articles/tech/1300875.htm) | Thu Aug 04 2022 7:21 PM 
+- 🎊 [美国宣布猴痘疫情为突发公共卫生事件](https://www.cnbeta.com/articles/tech/1300875.htm) | Thu Aug 04 2022 7:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当地时间8月4日，美国卫生与公众服务部部长泽维尔·贝塞拉宣布猴痘疫情为美国突发公共卫生事件。贝塞拉表示，“我们准备将应对猴痘病毒的反应提升到一个新的水平，敦促每个美国人认真对待猴痘，并承担起应对病毒的责任。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Intel官宣第三类显卡 感受光追的华丽](https://www.cnbeta.com/articles/tech/1300873.htm) | Thu Aug 04 2022 5:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;虽然笔记本、桌面平台的Arc锐炫显卡才刚开始，Intel又要开辟第三条战线了。&lt;/strong&gt;Intel早就预告过，会在第三季度发布Arc显卡的工作站版本，现在终于要来了。Intel官方宣布，将在8月8-11日举办的SIGGRAPH 2022专业图形大会上，首次公开介绍并展示“Arc Pro”工作站显卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [传马斯克要建私人机场 本人否认](https://www.cnbeta.com/articles/tech/1300871.htm) | Thu Aug 04 2022 5:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月5日消息，有媒体报道称特斯拉首席执行官马斯克要建私人机场，该机场将建在奥斯汀以东，靠近郊区巴斯托普县，马斯克打算机场建好后，除了供自己使用之外，还将提供给旗下特斯拉、SpaceX、博恩公司员工使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
