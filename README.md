@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [狗子能用鼻子看东西？脑成像发现 狗鼻子直通视觉皮层](http://jandan.net/p/111034) | Thu Aug 04 2022 10:11 AM 
+- 🚀 [暴雪和网易取消了已开发三年的魔兽世界手游](http://jandan.net/p/111083) | Thu Aug 04 2022 2:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    腾讯正在将《使命召唤》系列游戏移植到移动端。 
+    </details> 
+
+- 🙉 [狗子能用鼻子看东西？脑成像发现 狗鼻子直通视觉皮层](http://jandan.net/p/111034) | Thu Aug 04 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
     “我们从未在其它动物中看到鼻子和枕叶之间的这种联系“ 
     </details> 
 
-- 🙉 [第一次用相机捕捉到单个原子在液体中的运动](http://jandan.net/p/111073) | Thu Aug 04 2022 5:11 AM 
+- 🎉 [第一次用相机捕捉到单个原子在液体中的运动](http://jandan.net/p/111073) | Thu Aug 04 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     观察原子世界是极其困难的 
     </details> 
 
-- 🎉 [今日好价 0804](http://jandan.net/p/111082) | Thu Aug 04 2022 2:52 AM 
+- 🐲 [今日好价 0804](http://jandan.net/p/111082) | Thu Aug 04 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [和陌生人在线调情 会削弱现实伴侣对你的吸引力](http://jandan.net/p/111041) | Wed Aug 03 2022 12:07 PM 
+-  [和陌生人在线调情 会削弱现实伴侣对你的吸引力](http://jandan.net/p/111041) | Wed Aug 03 2022 12:07 PM 
     <details><summary>展开描述 ...</summary> 
     当然现实中没有伴侣的人就随意啦 
-    </details> 
-
--  [色彩饱和度高的食物图片能激发人们的购买欲望](http://jandan.net/p/111076) | Wed Aug 03 2022 8:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    同时起作用的变量是，照片中食物的视觉距离，以及就餐人数 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
