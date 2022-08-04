@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [微软推出新服务，扩大企业对其威胁情报库的访问权限](https://www.freebuf.com/news/340995.html) | Thu Aug 04 2022 2:50 AM 
+- 🦄 [GitHub 3.5万个代码库被黑？谣言，只是被恶意复制](https://www.freebuf.com/news/341016.html) | Thu Aug 04 2022 5:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    虽然“GitHub 3.5万个代码库被攻击”是一个乌龙事件，但是有软件工程师发现，大约有数千个GitHub代码库正在被恶意复制。 
+    </details> 
+
+- 🦄 [Atomic wallet遭山寨，假网站散播恶意软件](https://www.freebuf.com/news/341012.html) | Thu Aug 04 2022 5:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    知名去中心化钱包和加密货币交换门户网站Atomic wallet近期被假冒。 
+    </details> 
+
+- 🦅 [微软推出新服务，扩大企业对其威胁情报库的访问权限](https://www.freebuf.com/news/340995.html) | Thu Aug 04 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
     微软已在本周推出两项新服务，让企业安全运营中心 &lpar;SOC&rpar; 更广泛地访问其每天收集的大量威胁情报。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 德半导体制造商遭勒索软件攻击；微软宣布新的外部攻击面审计工具](https://www.freebuf.com/news/340918.html) | Wed Aug 03 2022 9:44 AM 
+- 🪄 [FreeBuf早报 | 德半导体制造商遭勒索软件攻击；微软宣布新的外部攻击面审计工具](https://www.freebuf.com/news/340918.html) | Wed Aug 03 2022 9:44 AM 
     <details><summary>展开描述 ...</summary> 
     德国电力电子制造商赛米控披露，它遭到勒索软件攻击，甚至加密了公司的网络。 
     </details> 
 
-- 🦅 [恶意软件是如何伪装的，这份报告给出了答案](https://www.freebuf.com/news/340901.html) | Wed Aug 03 2022 3:25 AM 
+- 💻 [恶意软件是如何伪装的，这份报告给出了答案](https://www.freebuf.com/news/340901.html) | Wed Aug 03 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
     恶意软件设计和部署的关键之处，在于将自己伪装成合法的APP，欺骗用户用户下载和运行恶意文件，以此感染目标设备和系统。 
-    </details> 
-
-- 🪄 [知名半导体制造商Semikron遭勒索软件攻击](https://www.freebuf.com/news/340890.html) | Wed Aug 03 2022 2:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    德国半导体制造商Semikron披露，该公司遭到勒索软件攻击，加密了公司的部分网络。 
-    </details> 
-
-- 💻 [零信任安全论坛精选议题视频上线 | CIS大会夏日版](https://www.freebuf.com/news/340852.html) | Tue Aug 02 2022 11:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    CIS大会夏日版，FreeBuf邀请多位业界大咖，就零信任安全进行了深入的探讨，期待能够给企业和用户带来一些零信任安全方面的参考和启发。 
     </details> 
 <!-- freebuf:END -->
 
