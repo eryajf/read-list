@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Build 25174的隐秘改动表明Windows 11的关机界面可能迎来变动](https://www.cnbeta.com/articles/tech/1300845.htm) | Thu Aug 04 2022 3:05 PM 
+- 🕯 [乘联会7月新能源销量数据出炉：比亚迪能打五个特斯拉](https://www.cnbeta.com/articles/tech/1300867.htm) | Thu Aug 04 2022 4:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天早些时候，微软为Windows 11内部人员发布了最新的开发渠道构建版25174。该版本带来了几个错误的修复，以及对文件资源管理器的一些改进，然而，还有更多变化存在于不大容易留意到的地方，且在发布说明中仍未披露。Twitter用户和泄密者Xeno发现，关闭菜单上类似PC的图标不见了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月4日消息，乘联会今天发布批发量快报。其中，比亚迪本月批发量达16.22万辆，特斯拉国内市场的批发量预估为3.00万辆，可能还比不上上汽通用五菱的5.93万辆，&lt;strong&gt;而比亚迪是特斯拉的5倍之多，同时，比亚迪也创下了历史销量最高纪录。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星Galaxy Buds2 Pro规格泄露](https://www.cnbeta.com/articles/tech/1300843.htm) | Thu Aug 04 2022 3:02 PM 
+- 💼 [国人画师被动视暴雪抄袭后 竟然还遭到邮件辱骂？](https://hot.cnbeta.com/articles/game/1300865.htm) | Thu Aug 04 2022 4:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然围绕三星即将举行的Galaxy Unpacked活动的大部分关注都是围绕Galaxy Z Fold4和Z Flip4展开的，但三星将在舞台上宣布更多的小玩意。&lt;strong&gt;预期的新产品之一是一对新的旗舰无线耳机，德国网站WinFuture的朋友们获得了Galaxy Buds2 Pro的官方图片以及其详细规格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;以《使命召唤》闻名世界的动视（Activision），正在外网被玩家们“爆破”。事情起源自2022年7月30日凌晨的一则Twitter。这位名为Sail_lin（后简称林老师）的国人画师，公开指责动视暴雪旗下作品《使命召唤：先锋》的新皮肤包——Floof Fury（蓬松福瑞），抄袭了他于2019年创作的概念设计。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科学家开发基于芯片的光束转向装置 让激光雷达更小更便宜](https://www.cnbeta.com/articles/science/1300841.htm) | Thu Aug 04 2022 2:52 PM 
+- 💂 [消息称三星Galaxy Z Fold4价格上涨：512G顶配售价超1万3](https://www.cnbeta.com/articles/tech/1300863.htm) | Thu Aug 04 2022 3:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;研究人员已经开发出一种新基于芯片的光束转向技术，为小型、低成本和高性能的激光雷达系统提供了一条有希望的途径。&lt;/strong&gt;激光雷达，或称光探测和测距，使用激光脉冲来获取场景或物体的三维信息。它被用于广泛的应用，如自动驾驶、三维全息、生物医学传感、自由空间光通信和虚拟现实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，爆料人Onleaks曝光了三星Galaxy Z Fold4价格，&lt;strong&gt;Galaxy Z Fold4 256GB版本售价1799欧元（约合人民币12400元），512GB顶配版售价1919欧元（约合人民币13200元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [国产桌面显卡风华2号现场演示：能玩DX11游戏、功耗最低3W](https://www.cnbeta.com/articles/tech/1300839.htm) | Thu Aug 04 2022 2:34 PM 
+- 🚀 [英特尔WiFi 7产品将于2024年亮相 最高速度可达5.8Gbps](https://www.cnbeta.com/articles/tech/1300861.htm) | Thu Aug 04 2022 3:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月3日，芯动科技正式发布了新一代桌面级显卡“风华2号”，并且现场进行了基准测试跑分、办公软件、工程制图、GIS、游戏娱乐等各种场景的实时演示。按照官方说法，&lt;strong&gt;风华2号是一款集超低功耗、强渲染、4K高清三屏显示、4K视频解码、智能AI计算于一体的桌面和笔记本GPU，实现了多个自研技术的创新突破。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管英特尔早在2020年就放弃了制造路由器和网关产品，但该公司仍然是世界上最大的计算机WiFi模块制造商。现在来自韩国的消息表明，英特尔的第一批WiFi 7产品将于2024年推出，大约在第一批WiFi 7路由器和网关预计上市后一年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [新技术使量子计算机性能更进一步](https://www.cnbeta.com/articles/tech/1300837.htm) | Thu Aug 04 2022 2:32 PM 
+- 🎊 [机器学习帮助拯救受威胁的物种免遭灭绝](https://www.cnbeta.com/articles/science/1300859.htm) | Thu Aug 04 2022 3:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;量子计算新兴领域的领导者Quantinuum周四表示，&lt;strong&gt;它推进了一项纠正先进机器计算错误的关键技术，这一发展对于它们实现其革命性的潜力至关重要。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;地球上有数以千计的物种我们仍然不了解。但我们现在知道，它们已经在灭绝的边缘徘徊&lt;strong&gt;。一项新的研究使用机器学习来计算这些鲜为人知的物种受到了多大的威胁，其结果是严峻的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
