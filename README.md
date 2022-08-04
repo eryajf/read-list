@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [彭博社：iPadOS 16 推迟至 10 月发布](https://www.cnbeta.com/articles/tech/1300441.htm) | Wed Aug 03 2022 7:05 PM 
+- 🕯 [Steam Deck将在日韩港台地区销售 首批年底发货](https://hot.cnbeta.com/articles/game/1300559.htm) | Thu Aug 04 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据彭博社消息，苹果计划将 iPadOS 16 正式版的发布时间推迟至今年 10 月，这意味着 iPadOS 16 不会与 iOS 16 一同在 9 月发布。在 iPadOS 16 中，苹果新增全新多任务功能台前调度（Stage Manager），这项功能提供了类似 Mac 风格的多窗口多任务管理体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Valve今日宣布将与Komodo合作，将新增日本、韩国、中国香港、中国台湾四个Steam Deck销售地区，现已开放预定。&lt;/strong&gt;港版定价为64GB版本3288港币、256GB版本4388港币、512GB版本5488港币，首批机器将于今年晚些时候发货。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [德国计划延长核电站运营时间 对继续使用核电持开放态度](https://www.cnbeta.com/articles/tech/1300439.htm) | Wed Aug 03 2022 6:58 PM 
+- 💼 [除了《黑豹》，传EA还在开发《钢铁侠》单机游戏](https://hot.cnbeta.com/articles/game/1300557.htm) | Thu Aug 04 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;德国财政部长林德纳也在近日表示，“对继续使用核电持开放态度”，为避免德国出现电力短缺，德国应保持现有的发电能力并建设新的发电设施。“我们必须努力确保在天然气危机之后不会出现电力危机。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;看起来漫威正在和更多的大厂合作开发单机游戏。除了索尼（《漫威蜘蛛侠》《漫威金刚狼》）、SE（《漫威复仇者联盟》《漫威银河护卫队》）以及Firaxis Games（《漫威午夜之子》）外，EA也加入了这一行列。根据传闻，除了开发《漫威黑豹》外，EA还在开发另外一个漫威单机游戏《漫威钢铁侠》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [H&amp;M退出俄罗斯前最后一次清库存 民众排队购买](https://www.cnbeta.com/articles/tech/1300437.htm) | Wed Aug 03 2022 6:56 PM 
+- 💂 [曝《暗黑破坏神4》正进行内部测试 测试者对游戏很满意](https://hot.cnbeta.com/articles/game/1300555.htm) | Thu Aug 04 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;当地时间2日，瑞典服装零售公司 H&amp;amp;M 在完全退出俄罗斯市场之前，最后一次开门营业，销售库存，很多俄罗斯民众排队进店购买。&lt;/strong&gt;据报道，H&amp;amp;M集团于1947年在瑞典成立，主要生产和销售服装。于2009年进入俄罗斯，目前在俄罗斯有170家店铺，是H&amp;amp;M全球第六大市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;之前PlayStation Game Size爆料称，《暗黑破坏神4》PS4/PS5测试版已添加到PlayStation数据库中，应该是Beta试玩版，或即将推出。现在业内知名记者Jason Schreier发推文称，《暗黑破坏神4》早期版本已发给与暴雪关系密切的一些测试人员，许多人现在在试玩暗黑4早期版本。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [恒驰5预售订单超3.7万台 恒大汽车这波真稳了？](https://www.cnbeta.com/articles/tech/1300435.htm) | Wed Aug 03 2022 6:52 PM 
+- 🚀 [传漫威《永恒族2》电影制作中 赵婷回归执导](https://hot.cnbeta.com/articles/movie/1300553.htm) | Thu Aug 04 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在众多造车厂商中，由于恒大集团负债累累，恒大汽车的争议因此也十分巨大，很多人认为恒大汽车“要凉”。8月1日，恒大汽车首款车型恒驰5开启大定，恒驰汽车总裁刘永灼透露，恒驰5的市场反响非常好，大卖已成定局。恒大集团7月29日的公告显示，恒驰5的小订客户已超3.7万，首批26家授权代理门店计划8月开业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然还没有正式公布，但《永恒族2》似乎要来了，同时原导演赵婷也将回归。《永恒族》男演员Patton Oswalt在近期的Today采访节目中说露了嘴。他说：“他们已经宣布将有《永恒族》续集，赵婷将会执导。所以希望我扮演的Pip和Harry Style扮演的Starfox能有更多的冒险。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1300553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [陈春花辞去北大教授职务背后 业内人士：培训价格虚高](https://www.cnbeta.com/articles/tech/1300433.htm) | Wed Aug 03 2022 6:51 PM 
+- 🎊 [今年股价下跌近半，美国“人造肉第一股”宣布裁员](https://www.cnbeta.com/articles/tech/1300551.htm) | Thu Aug 04 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北大教授陈春花学历造假一事有了新进展。根据北京大学在官方微博发布的信息：近期，我校对陈春花老师的有关情况进行了调查。8月3日，我校国家发展研究院收到了陈春花老师的辞职申请，学校按程序终止其聘用合同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国“人造肉第一股”Beyond Meat首席执行官伊森·布朗（Ethan Brown）周三在一份内部备忘录中告诉员工，作为一项更广泛的成本削减计划的一部分，该公司裁减了约40个职位。&lt;/strong&gt;布朗表示：“尽管困难重重，但这一决定是我们降低运营费用和支持可持续增长的更大战略的一部分。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
