@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [利用人体微生物自发电 可穿戴设备普及更进一步](https://www.cnbeta.com/articles/science/1300713.htm) | Thu Aug 04 2022 8:24 AM 
+- 🕯 [一切因为成本：一加10T仍存IP评级混乱问题](https://www.cnbeta.com/articles/tech/1300749.htm) | Thu Aug 04 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;最近发表在《Nature Communications》上的新研究，让我们看到了微型可穿戴设备普及的可能性，也就是利用人体微生物进行自发电的储能技术&lt;/strong&gt;。一直以来，限制着人体可穿戴设备产业发展其中一个主要因素就是电池技术，尤其是对于一些植入式的可穿戴设备而言，如果要做成微型化，必须要面对的一个问题就是储能，也就是供电系统的微型化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在过去几年时间里，一加在部分机型上虽然提供 IP 评级，但是在不同市场是存在差异的。刚刚推出的一加 10T 同样如此，&lt;strong&gt;在美国市场该机具备 IP54 级别防水防尘等级，而在德国等欧洲市场并没有任何 IP 评级。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [消息称SpaceX星链服务在法国降价一半](https://www.cnbeta.com/articles/science/1300711.htm) | Thu Aug 04 2022 8:20 AM 
+- 💼 [华为申请注册“灵境3D”商标 灵感或来自掐钱学森书信](https://www.cnbeta.com/articles/tech/1300747.htm) | Thu Aug 04 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据跟踪特斯拉、SpaceX和马斯克消息的网站Tesla North报道，&lt;strong&gt;SpaceX公司的“星链”（Starlink）高速卫星互联网服务在法国的价格已大幅下调。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，&lt;strong&gt;华为技术有限公司申请注册了“华为灵境3D”商标，国际分类包括科学仪器、教育娱乐等，目前商标状态为申请中。&lt;/strong&gt;事实上，这已经不是华为第一次提到“灵境”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华为神秘屏下镜头折叠新机首次现身：神似P50 Pocket](https://www.cnbeta.com/articles/tech/1300709.htm) | Thu Aug 04 2022 8:18 AM 
+- 💂 [国产桌面GPU新品“风华2号”发布 功耗低至4W](https://www.cnbeta.com/articles/tech/1300745.htm) | Thu Aug 04 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;原先因技术限制，手机厂商只能采用刘海屏、打孔屏、升降式镜头等各种异形屏设计，以解决前置镜头和听筒、红外感应等元件安装问题。但随着技术发展，采用屏下摄像头技术的真全面屏手机相继横空出世。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/1826796923/LFiNTn4AR&quot; target=&quot;_blank&quot;&gt;芯榜&lt;/a&gt;等报道，珠海芯动科技日前发布桌面GPU新品“风华2号”。官方介绍，“风华2号”针对桌面、笔记本、工控等领域，从官方公布的参数来看，主打通用、低功耗、高渲染能力等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [身家56亿、58岁仍单身 张朝阳：独居的人要多说话](https://www.cnbeta.com/articles/tech/1300707.htm) | Thu Aug 04 2022 8:15 AM 
+- 🚀 [MIT开发“质子”人工突触 其运行速度比人脑突触快一百万倍](https://www.cnbeta.com/articles/science/1300743.htm) | Thu Aug 04 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，张朝阳和俞敏洪进行了一场长达5小时的对话。对话中，张朝阳谈到独居的人要多说话。张朝阳说道：“&lt;strong&gt;一个人的时候，一般没人说话，这时你就要朗读，每天朗读或者你自言自语，或者你去干别的事，总之说话非常重要。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，&lt;strong&gt;麻省理工学院（MIT）的工程师们开发了一种新型的人工突触，这种突触能效极高，速度极快，处理数据的速度比人脑中的突触快一百万倍。&lt;/strong&gt;关键是一种模拟设计，在周围穿梭的是质子而不是电子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Intel 13代酷睿第一次开盖：16核心变24核心 面积增大近1/4](https://www.cnbeta.com/articles/tech/1300705.htm) | Thu Aug 04 2022 8:14 AM 
+- 🎊 [中国长征火箭成功完成100连射 只用了821天](https://www.cnbeta.com/articles/science/1300741.htm) | Thu Aug 04 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;同样没有发布，AMD Zen4锐龙7000系列静悄悄，Intel Raptor Lake 13代酷睿却是样品、规格、跑分满天飞，现在开盖都来了。友媒&lt;a class=&quot;f14_link&quot; href=&quot;https://www.bilibili.com/video/BV1FB4y1k7Nc?vd_source=b1d7076cbe7eab656ccc9e2a8fb982c2&quot; target=&quot;_blank&quot;&gt;超能网&lt;/a&gt;搞到了一颗i9-13900的样品，掀开了散热顶盖，这个过程没啥好说的，主要看看内核面积。13代酷睿依然是长方形内核，经过测量&lt;strong&gt;长度23.8毫米、宽度10.8毫米，面积约257.0平方毫米。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月4日11时08分，在太原卫星发射，长征四号乙运载火箭成功发射了我国乃至世界首颗陆地生态系统碳监测卫星，还以侧壁搭载方式发射了和德二号G星、闵行少年星两颗小卫星。这是一次看似平常的发射，但具有里程碑式的意义：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
