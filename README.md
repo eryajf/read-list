@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Blender Python 编程 —— 批量导入网格并截图](https://juejin.cn/post/7127926500900208653) | Thu Aug 04 2022 7:55 AM 
+- 🤗 [【Java面试】生产环境服务器变慢，如何诊断处理？](https://juejin.cn/post/7127971794643845128) | Thu Aug 04 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-    在正文第一句加入“我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！” 继上一篇 《Blender Python 编程：快速入门》 我们已经了解了 Blender Python 脚本的基 
+    &gt; “生产环境服务器变慢？如何诊断处理” &gt; &gt; 这是最近一些工作5年以上的粉丝反馈给我的问题，他们去一线大厂面试，都被问到了这一类的问题。 &gt; &gt; 今天给大家分享一下，面试过程中遇到这个问题， 
     </details> 
 
-- 🎡 [当我们二次封装时我们在封装什么](https://juejin.cn/post/7127925414885851144) | Thu Aug 04 2022 7:51 AM 
+- 🎡 [第一章、变量](https://juejin.cn/post/7127945024024608799) | Thu Aug 04 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 经常的，我们在日常工作中，会使用第三方UI组件库，比如：element-ui、vant-ui、iview、ant-design等等。不管是为了业务考虑还是单纯的为了提高效率，我们会把一些经常用到 
+    1、数据类型 各个数据类型占用的空间： 数据类型 占用空间&lpar;字节&rpar; byte 1 short 2 int 4 long 8 float 4 double 8 boolean 1 char 2 2、变量 
     </details> 
 
-- 🕯 [微前端qiankun实践——手动挂载篇](https://juejin.cn/post/7127919345103028255) | Thu Aug 04 2022 7:28 AM 
+- 🕯 [关于 Android 稳定性优化你应该了解的知识点](https://juejin.cn/post/7127912072519614494) | Thu Aug 04 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    一、项目背景 最近一直在做toB业务，手里负责多个后台管理系统（内网使用），最近要对外开放一个平台，其中需要运用到存量系统的部分能力，避免代码重复搬运以及考虑到后续对其他系统的拓展能力，打算封装该子系 
+    Android 稳定性优化是一个需要长期投入，持续运营和维护的一个过程，不仅深入探讨了 Java Crash、Native Crash 和 ANR 的解决流程及方案，还分析了其内部实现原理和监控流程！ 
     </details> 
 
-- 🚀 [React-Hooks + Redux项目实战：仿酷狗移动端页面开发](https://juejin.cn/post/7127900752990699551) | Thu Aug 04 2022 6:15 AM 
+- 🚀 [【Android】一键登录 - 三大运营商](https://juejin.cn/post/7127836566084386852) | Thu Aug 04 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-    前段时间用react做了个仿酷狗demo，其中的数据是用useState来管理的。最近学习了redux，在上次项目的基础上，将数据管理由useState升级为了redux，也对项目进行了优化. 
+    在条件允许的情况下，通过运行商提供的服务，进行【一键登录】。简化用户的登录操作，提高 App 的登录注册率以及使用率。 本方案采用的是阿里云中【一键登录】方案。 
     </details> 
 
-- 💪 [动手实现抖音视频加载Loading](https://juejin.cn/post/7127896094922506248) | Thu Aug 04 2022 5:58 AM 
+- 💪 [挖一挖Retrofit源码（一）](https://juejin.cn/post/7127832427426217998) | Thu Aug 04 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了 天天刷抖音，无意中发现抖音加载视频的loading蛮有趣的，是两个相互纠缠的小球。尝试用CSS实现一下。 动画分析 如果只看一只小球的话 
+    Retrofit是当下非常火的一个基于OkHttp的网络请求框架，本文将对Retrofit2.8.0的源码进行详细分析。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
