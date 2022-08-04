@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一切因为成本：一加10T仍存IP评级混乱问题](https://www.cnbeta.com/articles/tech/1300749.htm) | Thu Aug 04 2022 9:14 AM 
+- 🕯 [浙江一水库发现大量桃花水母：被称为“活化石” 比恐龙还早几亿年](https://www.cnbeta.com/articles/science/1300769.htm) | Thu Aug 04 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在过去几年时间里，一加在部分机型上虽然提供 IP 评级，但是在不同市场是存在差异的。刚刚推出的一加 10T 同样如此，&lt;strong&gt;在美国市场该机具备 IP54 级别防水防尘等级，而在德国等欧洲市场并没有任何 IP 评级。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你见过淡水中的水母吗？还是活了几亿年的那种。据中国蓝新闻消息，&lt;strong&gt;近日在浙江千岛湖支流上游的中洲镇木瓜水库，发现了大量古老的腔肠动物桃花水母，在水中一张一缩，触角展开后像把小雨伞，直径大概一公分左右。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华为申请注册“灵境3D”商标 灵感或来自掐钱学森书信](https://www.cnbeta.com/articles/tech/1300747.htm) | Thu Aug 04 2022 9:13 AM 
+- 💼 [报道称任天堂在2023年3月前不会推出任何新硬件产品](https://hot.cnbeta.com/articles/game/1300767.htm) | Thu Aug 04 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，&lt;strong&gt;华为技术有限公司申请注册了“华为灵境3D”商标，国际分类包括科学仪器、教育娱乐等，目前商标状态为申请中。&lt;/strong&gt;事实上，这已经不是华为第一次提到“灵境”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;《日经新闻》的一份新报告称，2023年3月之前都不会有新的任天堂硬件。&lt;/strong&gt;根据这家日本报纸，任天堂在本财政年度不会发布新的硬件，该年度将持续到2023年3月。另外，该文章还引用了任天堂CEO的话，称这家日本游戏公司今年夏天没有能生产出它想要的那么多Switch硬件，但据推测，未来几个月的生产将有所改善。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国产桌面GPU新品“风华2号”发布 功耗低至4W](https://www.cnbeta.com/articles/tech/1300745.htm) | Thu Aug 04 2022 9:13 AM 
+- 💂 [Windows 11智能应用控制可更好地阻止潜在恶意软件的传播](https://www.cnbeta.com/articles/tech/1300765.htm) | Thu Aug 04 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/1826796923/LFiNTn4AR&quot; target=&quot;_blank&quot;&gt;芯榜&lt;/a&gt;等报道，珠海芯动科技日前发布桌面GPU新品“风华2号”。官方介绍，“风华2号”针对桌面、笔记本、工控等领域，从官方公布的参数来看，主打通用、低功耗、高渲染能力等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在经历了一段时间的拉锯后，Microsoft Office 生产力套件终于在 7 月下旬默认阻止 VBA 宏的运行。&lt;strong&gt;然而对于用户基数庞大的 Windows 操作系统来说，它还是很容易被各类威胁参与者给盯上。&lt;/strong&gt;Neowin 指出，新的策略、基数和程序（TTP）层出不穷，使得 ISO、LNK 和 RAR 等文件格式都极易被注入恶意软件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [MIT开发“质子”人工突触 其运行速度比人脑突触快一百万倍](https://www.cnbeta.com/articles/science/1300743.htm) | Thu Aug 04 2022 9:04 AM 
+- 🚀 [COVID-19研究揭示了免疫系统跟血栓之间的其他联系](https://www.cnbeta.com/articles/science/1300763.htm) | Thu Aug 04 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，&lt;strong&gt;麻省理工学院（MIT）的工程师们开发了一种新型的人工突触，这种突触能效极高，速度极快，处理数据的速度比人脑中的突触快一百万倍。&lt;/strong&gt;关键是一种模拟设计，在周围穿梭的是质子而不是电子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一项来自COVID-19队列的研究揭示了免疫系统和血凝块之间的另一种联系，这可能会改善危重疾病的治疗。&lt;/strong&gt;血凝块被认为发生在多达1.3的COVID-19住院病人身上。在许多情况下，这些血凝块可能是致命的如肺栓塞--血凝块会进入肺部。事实上，在近1/3的COVID-19患者中，这些血块导致了死亡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中国长征火箭成功完成100连射 只用了821天](https://www.cnbeta.com/articles/science/1300741.htm) | Thu Aug 04 2022 9:01 AM 
+- 🎊 [机构预计DRAM市场规模明年仅增长8.3% 首次低于10%](https://www.cnbeta.com/articles/tech/1300761.htm) | Thu Aug 04 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月4日11时08分，在太原卫星发射，长征四号乙运载火箭成功发射了我国乃至世界首颗陆地生态系统碳监测卫星，还以侧壁搭载方式发射了和德二号G星、闵行少年星两颗小卫星。这是一次看似平常的发射，但具有里程碑式的意义：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年并不理想的全球DRAM市场，在明年将会更不乐观，已有研究机构预计明年的市场规模增长将创下新低，供过于求的状况将会更严重。从外媒的报道来看，研究机构预计明年全球DRAM市场的规模，只会增长8.3%，历史首次低于10%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
