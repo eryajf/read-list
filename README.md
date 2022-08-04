@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [python 一行代码打印小海龟](https://juejin.cn/post/7127687759598682143) | Wed Aug 03 2022 4:30 PM 
+- 🤗 [git tag那个类似分支的标签命令](https://juejin.cn/post/7127825699741630494) | Thu Aug 04 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！ 1. 先放代码 2. 语法讲解 之前我们已经学会了用一行代码打印爱心的操作了,并且在这个过程中学习了.join&lpar;&rpar;语法以及列表中的循环 
+    这里我在使用的过程中，简单的把 `tag` 标签当成只读的分支了，通过把tag标签作为一个中介，是我的一个使用方法。 
     </details> 
 
-- 🎡 [Java转Android：第4天 用Layout布局实现罗盘和三叉戟](https://juejin.cn/post/7127686132858355742) | Wed Aug 03 2022 4:26 PM 
+- 🎡 [leetcode  378. Kth Smallest Element in a Sorted Matrix（python）](https://juejin.cn/post/7127825073947787294) | Thu Aug 04 2022 1:22 AM 
     <details><summary>展开描述 ...</summary> 
-    我已经连续更新4天了。掘友们也不看好往Android转。我哪天不更新了，我一定会在最后一篇告诉大家的。 
+    leetcode 378. Kth Smallest Element in a Sorted Matrix（python）主要是用了堆数据结构来解决第 n 个最小数字问题 
     </details> 
 
-- 🕯 [Flutter 系列（一），有固定 header 的底部滑动页效果](https://juejin.cn/post/7127686678587637796) | Wed Aug 03 2022 4:25 PM 
+- 🕯 [软件测试 - 项目测试流程](https://juejin.cn/post/7127824190266163236) | Thu Aug 04 2022 1:19 AM 
     <details><summary>展开描述 ...</summary> 
-    刚开始的时候，是在dev上找了两个轮子，简单测了下，都不太满意，滑动事件处理的比较粗糙，总有bug。就在想着，要不要拿源码改一版的时候，让我无意间看到了. 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 首先需要进行需求分析和评审，在该环节需要项目组成员共同参与，需求分析和评审的目的就是为了让项目组成员确认需 
     </details> 
 
-- 🚀 [ip层的简单总结](https://juejin.cn/post/7127674335594020895) | Wed Aug 03 2022 3:39 PM 
+- 🚀 [[译] WebRTC 周刊 442 期](https://juejin.cn/post/7127819836779921415) | Thu Aug 04 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
-    简单介绍 在 TCP/IP 网络通信时，为了保证能正常通信，每个设备都需要配置正确的 IP 地址，否则无法实现正常的通信。 实际上，IP 地址并不是根据主机台数来配置的，而是以网卡。像服务器、路由器等 
+    欢迎查阅来自 webrtcweekly.com 最新的 WebRTC 相关信息，由塔万科技翻译整理。 
     </details> 
 
-- 💪 [2022年前端面试集锦](https://juejin.cn/post/7127673540379148318) | Wed Aug 03 2022 3:34 PM 
+- 💪 [第十六章 源代码文件 REST API 教程（一）](https://juejin.cn/post/7127816382313398308) | Thu Aug 04 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
-    2022前端面试问题集锦 整理了自己面试前端（主要技术是vue）的各种问题，以及一些算法答案，面试回答思路等 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 9 月更文挑战」的第8天，点击查看活动详情 第十六章 源代码文件 REST API 教程（一） 本章提供了一个简短的教程，通过一系列示例演示如何使用源 
     </details> 
 <!-- juejin:END -->
 ### 少数派
