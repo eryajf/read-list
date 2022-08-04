@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Neuron Newsletter 2022-07｜新增非 A11 驱动、即将支持 OPC DA](https://juejin.cn/post/7127933772284051464) | Thu Aug 04 2022 8:23 AM 
+- 🤗 [MQTT X Newsletter 2022-07 | 自动更新、MQTT X CLI 支持 MQTT 5.0、新增 conn 命令…](https://juejin.cn/post/7127944558326841381) | Thu Aug 04 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    七月，我们发布了Neuron 2.1.1、2.1.2两个版本，引入了SQLite以存储Neuron的配置信息，新增非A11驱动。 
+    7月，MQTT X团队专注于1.8.1版本的开发。v1.8.1中MQTT X桌面端版本将支持自动更新，并对MQTT X Web页面进行了优化。 
     </details> 
 
-- 🎡 [百度APP Android包体积优化实践（三）资源优化](https://juejin.cn/post/7127910952162295822) | Thu Aug 04 2022 6:55 AM 
+- 🎡 [后端只能写后端？vue + vite环境搭建你也必须要会呀！！](https://juejin.cn/post/7127920435693355021) | Thu Aug 04 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
-    百度APP Android包体积优化实践系列文章的前两篇分别介绍了体积优化的整体方案和Dex行号优化的具体内容。本文主要介绍了百度APP资源优化方案，其中重点讲述了在资源路径和资源名方面的优化。 
+    作为一个后端人员，对于前端基本的人们技术也是需要了解的，虽然平时也会使用vue2甚至vue3去写代码，但是对于系统性的学习和记录还是较少的，毕竟每次都去百度也是挺麻烦的，接下来将会用一些篇幅去提升下这 
     </details> 
 
-- 🕯 [从-99打造Sentinel高可用集群限流中间件](https://juejin.cn/post/7127909278110875679) | Thu Aug 04 2022 6:48 AM 
+- 🕯 [树形查找（二叉查找树）](https://juejin.cn/post/7127917666861334541) | Thu Aug 04 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-    接上篇Sentinel集群限流探索，上次简单提到了集群限流的原理，然后用官方给的 demo 简单修改了一下，可以正常运行生效。 这一次需要更进一步，基于 Sentinel 实现内嵌式集群限流的高可用方 
+    我们在平时的查找算法中，最多的往往是顺序查找和折半查找，而对树形查找往往一知半解，本文主要介绍二叉排 
     </details> 
 
-- 🚀 [【并发编程】-  ThreadPoolExecutor使用submit方法提交Runnable任务定义执行结果的返回值类型](https://juejin.cn/post/7127908349454057480) | Thu Aug 04 2022 6:46 AM 
+- 🚀 [云函数实现网站自动化签到配置详解【Web函数/Nodejs/cookie】](https://juejin.cn/post/7127917405938352164) | Thu Aug 04 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 ThreadPoolExecutor使用submit方法提交Runnable任务规定执行结果的返回值 实体 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 一.前言 现在大多数的网站都有每日签到功能，坚持签到会给相应的奖励，然而我们每天都签到是非常的不容易，难免 
     </details> 
 
-- 💪 [javascript中伪数组和真数组的小秘密](https://juejin.cn/post/7127904903778795527) | Thu Aug 04 2022 6:32 AM 
+- 💪 [Elasticsearch：Simulate index API](https://juejin.cn/post/7127916774019825672) | Thu Aug 04 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-    arguments接受的实参是一个列表，得到的是一个像数组一样的东西，于是他想实现无限参数求和，在遍历数组求和时，使用了forEach遍历，却报错了，问这是为什么？ 
+    从现有 index template 返回将应用于指定索引的索引配置。如果你对 index template 还没有什么理解的话，请阅读我之前的文章 “Elasticsearch：可组合的 Index 
     </details> 
 <!-- juejin:END -->
 ### 少数派
