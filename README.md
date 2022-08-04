@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [攻击者正利用中间人技术绕过微软邮件服务的多因素身份验证](https://www.cnbeta.com/articles/tech/1300625.htm) | Thu Aug 04 2022 4:42 AM 
+- 🕯 [《福布斯》杂志寻求出售 已聘请花旗集团负责](https://www.cnbeta.com/articles/tech/1300661.htm) | Thu Aug 04 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;网络安全研究公司 Zscaler 警告称 —— &lt;strong&gt;使用微软电子邮件服务的用户需提高警惕，因为他们刚刚发现了一种新型网络钓鱼活动。&lt;/strong&gt;调查显示，攻击者正使用 AiTM 中间人技术，来绕过当前的 MFA 多因素身份验证，且企业客户很容易受到这方面的影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;几个月前美国《福布斯》杂志（Forbes）曾通过特殊目的收购公司（SPAC）借壳上市的计划，但计划失败后，现寻求出售，已聘请花旗集团（Citigroup）负责。据称最近几周花旗集团编制的一份描述《福布斯》财务状况的招股文件已传阅给包括雅虎&lpar;Yahoo&rpar;在内的媒体公司，根据文件2021年福布斯的收入超过2亿美元，利润超过4000万美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD线程撕裂者5995WX液氮超频5.15GHz 创Cinebench新纪录](https://www.cnbeta.com/articles/tech/1300623.htm) | Thu Aug 04 2022 4:13 AM 
+- 💼 [Microsoft Rewards计划新增38个区域 总数达到58个](https://www.cnbeta.com/articles/tech/1300659.htm) | Thu Aug 04 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由 HXL（@9550pro）早前在 Twitter 上分享的爆料可知 —— 来自中国台湾地区的超频挑战者 TSAIK，&lt;strong&gt;刚刚通过微星 WS WRX80 主板，打破了 AMD Threadripper PRO 5990WX 处理器的液氮超频纪录。&lt;/strong&gt;作为一枚 64C / 128T 的工作站 CPU，其频率被提升到了 5.15 GHz、并打破了 Cinebench R23 的前世界纪录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;任何参与 Microsoft Rewards 的用户通过丰富的活动都可以获得各种奖品。该计划可以帮助您获得积分并将其换成不同奖励，也可以根据你的选择捐献给某些组织。&lt;a href=&quot;https://support.microsoft.com/zh-cn/topic/microsoft-rewards-%E5%8C%BA%E5%9F%9F-9795ec47-c0f4-a33e-aede-738903359d63&quot; target=&quot;_blank&quot;&gt;现在，微软宣布该活动&lt;/a&gt;再扩展了 38 个国家和地区，让总数达到 58 个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [知名建筑设计师Buckminster Fuller曾认定Apple II就是个玩具](https://www.cnbeta.com/articles/tech/1300621.htm) | Thu Aug 04 2022 3:41 AM 
+- 💂 [大众旗下CARIAD和意法半导体达成合作 将共同开发汽车系统级芯片](https://www.cnbeta.com/articles/tech/1300657.htm) | Thu Aug 04 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在苹果公司成立初期，著名设计师、建筑师和哲学家巴克敏斯特·富勒（Buckminster Fuller）曾与史蒂夫·乔布斯（Steve Jobs）有过私下交流。&lt;/strong&gt;虽然名气没有后者那么大，但去世近四十年后，其工作和本人仍对十余个领域发挥着影响力 —— 除了广为人知的“圆顶城市”概念，由 60 个碳原子构成的球形 32 面体化合物也被称作“富勒烯”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月4日，意法半导体发文称，德国大众汽车集团旗下软件公司CARIAD和意法半导体&lpar;简称ST&rpar;宣布，双方即将开始合作开发汽车系统级芯片&lpar;SoC&rpar;，开创软件定义汽车合作开发新模式。合作目标是为基于大众汽车集团统一的可扩展软件平台的新一代汽车提供处理器芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《暗黑破坏神：不朽》氪金大佬匹配PvP故意输掉比赛](https://hot.cnbeta.com/articles/game/1300619.htm) | Thu Aug 04 2022 3:39 AM 
+- 🚀 [摩拜单车现可退押金 系统提示ofo小黄车并非美团所属业务](https://www.cnbeta.com/articles/tech/1300655.htm) | Thu Aug 04 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前我们曾报道的在《暗黑破坏神：不朽》中花费了 10 万美元并因为太强导致匹配不到 PvP 比赛的土豪玩家又回来了，并且他正在故意输掉比赛。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前，国共享单车最火爆的时候，两大巨头摩拜和ofo小黄车。不过后来，ofo小黄车倒下，摩拜也卖身给美团，两者都是留下一地鸡毛，甚至还有用户的骑行押金还没有退完。不过而今，摩拜单车又开始了押金清退工作，据多名网友反馈，&lt;strong&gt;摩拜的押金可以在美团App申请退押金了，并有网友表示押金已到账。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [新西兰发布国家气候适应计划 包括可能寻求将一些社区搬到高处](https://www.cnbeta.com/articles/tech/1300617.htm) | Thu Aug 04 2022 3:29 AM 
+- 🎊 [Intel Arc A750游戏实测：《控制》2K帧率超RTX 3060](https://www.cnbeta.com/articles/tech/1300653.htm) | Thu Aug 04 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据NPR报道，&lt;strong&gt;新西兰政府周三发布了其有史以来第一个气候适应计划，其中包括将一些社区搬到高处的可能性。&lt;/strong&gt;但是，这份长达近200页的六年计划在一些重要的细节上有所欠缺，包括这些变化将花费多少资金以及由谁来支付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着Intel Arc A5/A7系列中高端显卡越来越近，系列几款显卡的跑分成绩也逐渐浮出水面，但其实际表现却尚未得到充分展示。近日，Intel使用《控制》，为即将发行的A750显卡进行了游戏实测。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
