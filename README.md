@@ -152,9 +152,9 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, ...](https://discuss-cn.bestxtools.com/d/61/1) | Thu Jul 28 2022 3:40 AM
-- 🦩 [好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, ...](https://discuss-cn.bestxtools.com/d/60/1) | Thu Jul 21 2022 4:37 AM
-- 🙉 [好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, TypeLit, ...](https://discuss-cn.bestxtools.com/d/58/1) | Wed Jul 13 2022 3:49 PM<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, stooge, ...](https://discuss-cn.bestxtools.com/d/64/1) | Thu Aug 04 2022 1:47 AM
+- 🦩 [好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, ...](https://discuss-cn.bestxtools.com/d/61/1) | Thu Jul 28 2022 3:40 AM
+- 🙉 [好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, ...](https://discuss-cn.bestxtools.com/d/60/1) | Thu Jul 21 2022 4:37 AM<!-- bestxtools:END -->
 
 ### 王登科-DK博客
 
