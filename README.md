@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅析使用 JWT 的正确姿势](https://juejin.cn/post/7127839678711103495) | Thu Aug 04 2022 2:18 AM 
+- 🤗 [响应式系统与React | 青训营笔记](https://juejin.cn/post/7127850110209228837) | Thu Aug 04 2022 2:59 AM 
     <details><summary>展开描述 ...</summary> 
-    浅析使用 JWT 的正确姿势 在很长的一段时间里，我都没有正确的使用 jwt，意识到这个问题之后，把我最真实的思考和总结拿出来和大家分享下，欢迎一起讨论 现状 先说下我以前是怎么使用的： 登录成功后， 
+    这是我参与「第四届青训营 」笔记创作活动的第3天 React的历史与应用 应用场景 前端应用开发，如Facebook、Netflix网页版 移动端原生应用，如Android、IOS的app 结合Ele 
     </details> 
 
-- 🎡 [面向Docker和Kubernetes的Wingify](https://juejin.cn/post/7127839053939998750) | Thu Aug 04 2022 2:16 AM 
+- 🎡 [Java面试题总结（一）](https://juejin.cn/post/7127850007067099143) | Thu Aug 04 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍。 在Wingify，我们遵循基于微服务的架构，以利用其巨大的可扩展性优势。我们有很多的微服务，以及它们之间复杂的网络设置。目前，所有的服务都部署在云上的虚拟机上。我们希望改善这种架构设置，并使用 
+    Lin携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 一.基础知识： 1）集合类：List和Set比较，各自的子类比较（ArrayList，Vector， 
     </details> 
 
-- 🕯 [【LeetCode】数组美丽值求和Java题解](https://juejin.cn/post/7127838693578145805) | Thu Aug 04 2022 2:14 AM 
+- 🕯 [ttypescript plugin 入门指南](https://juejin.cn/post/7127849917317382151) | Thu Aug 04 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 题目描述 给你一个下标从 0 开始的整数数组 nums 。对于每个下标 i（1 &lt;= i &lt;= nums. 
+    作者：阳羡 本文为了快速说清楚相关原理，可能表述不够严谨，希望深入学习的同学请以源码为准 ttypescript 是什么 首先这并不是一个 typo。 在我们的业务逻辑中，总有需要对代码进行处理的需求 
     </details> 
 
-- 🚀 [VWO SmartCode的性能改进介绍](https://juejin.cn/post/7127838226349309959) | Thu Aug 04 2022 2:13 AM 
+- 🚀 [性能提升400倍丨外汇掉期估值计算优化案例](https://juejin.cn/post/7127848128069238821) | Thu Aug 04 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
-    VWO非常重视确保网站在使用VWO时保持足够的性能。我们一直在加大这方面的努力，正因为如此，我们能够带来两个非常大的优化，这将直接减少对网站性能的影响。 去除jQuery的依赖性 VWO主要曾经是一个 
+    合约匹配利率，最常见的做法是通过循环语句对每一个合约做计算。而 DolphinDB 中，可以通过强大的表连接函数，将需要的信息关联后，再通过 SQL向量编程 进行计算。 
     </details> 
 
-- 💪 [雪花算法SnowFlake](https://juejin.cn/post/7127838214718488607) | Thu Aug 04 2022 2:12 AM 
+- 💪 [API 与 SDK 之间的区别](https://juejin.cn/post/7127846000831496206) | Thu Aug 04 2022 2:43 AM 
     <details><summary>展开描述 ...</summary> 
-    Twitter 的分布式雪花算法SnowFlake ， 经测试 snowflake 每秒能产出26 万个自增可排序的ID twitter的SnowFlake生成ID能够按照时间有序生成 SnowFla 
+     很多人在软件开发中经常会分不清 SDK 与 API ，今天就来浅谈一下两者之间的区别。 直白地说，SDK 包含了 API ，是一套完整的，能完成更多功能的工具包，无论你想获取什么样的信息， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
