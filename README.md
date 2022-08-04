@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [小贱贱开始健身：为拍摄《死侍3》做准备](https://hot.cnbeta.com/articles/movie/1300615.htm) | Thu Aug 04 2022 3:25 AM 
+- 🕯 [攻击者正利用中间人技术绕过微软邮件服务的多因素身份验证](https://www.cnbeta.com/articles/tech/1300625.htm) | Thu Aug 04 2022 4:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;那个男人要来了！据报道，瑞恩·雷诺兹已经开始健身，为拍摄《死侍3》做准备&lt;/strong&gt;《死侍3》是肖恩·利维执导的超级英雄电影，由瑞安·雷诺兹主演。&amp;lt;/p&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1300615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;网络安全研究公司 Zscaler 警告称 —— &lt;strong&gt;使用微软电子邮件服务的用户需提高警惕，因为他们刚刚发现了一种新型网络钓鱼活动。&lt;/strong&gt;调查显示，攻击者正使用 AiTM 中间人技术，来绕过当前的 MFA 多因素身份验证，且企业客户很容易受到这方面的影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《铁血战士猎物》IGN 8分：杀戮不减 女主塑造点睛](https://hot.cnbeta.com/articles/movie/1300613.htm) | Thu Aug 04 2022 3:24 AM 
+- 💼 [AMD线程撕裂者5995WX液氮超频5.15GHz 创Cinebench新纪录](https://www.cnbeta.com/articles/tech/1300623.htm) | Thu Aug 04 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;由丹·特拉切滕贝格执导，安伯·明迪桑德主演的《铁血战士：猎物》媒体评分解禁，IGN为其打出了8分的评价。&lt;/strong&gt;评测者认为本片充满了《铁血战士》系标志性的残酷杀戮，情节简约而不简单。同时也是安伯·明迪桑德成名之路的关键性转折点。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1300613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由 HXL（@9550pro）早前在 Twitter 上分享的爆料可知 —— 来自中国台湾地区的超频挑战者 TSAIK，&lt;strong&gt;刚刚通过微星 WS WRX80 主板，打破了 AMD Threadripper PRO 5990WX 处理器的液氮超频纪录。&lt;/strong&gt;作为一枚 64C / 128T 的工作站 CPU，其频率被提升到了 5.15 GHz、并打破了 Cinebench R23 的前世界纪录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《风骚律师》老白小粉剧照 第11集已于昨日上线](https://hot.cnbeta.com/articles/movie/1300611.htm) | Thu Aug 04 2022 3:23 AM 
+- 💂 [知名建筑设计师Buckminster Fuller曾认定Apple II就是个玩具](https://www.cnbeta.com/articles/tech/1300621.htm) | Thu Aug 04 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今日，《风骚律师》公布了一张剧照，老白小粉回归，第11集已于昨日上线。&lt;/strong&gt;《风骚律师》是《绝命毒师》的衍生剧，讲述索尔·古德曼（鲍勃·奥登科克 饰）遇见毒师“老白”之前的故事，描述了本性善良的律师“吉米”转变为游走在法律边缘的无良律师“索尔”的过程。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1300611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在苹果公司成立初期，著名设计师、建筑师和哲学家巴克敏斯特·富勒（Buckminster Fuller）曾与史蒂夫·乔布斯（Steve Jobs）有过私下交流。&lt;/strong&gt;虽然名气没有后者那么大，但去世近四十年后，其工作和本人仍对十余个领域发挥着影响力 —— 除了广为人知的“圆顶城市”概念，由 60 个碳原子构成的球形 32 面体化合物也被称作“富勒烯”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国海军机器人机器人扫雷舰宣布投入使用](https://www.cnbeta.com/articles/tech/1300609.htm) | Thu Aug 04 2022 3:21 AM 
+- 🚀 [《暗黑破坏神：不朽》氪金大佬匹配PvP故意输掉比赛](https://hot.cnbeta.com/articles/game/1300619.htm) | Thu Aug 04 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;机器人舰艇现已正式加入美国海军。&lt;/strong&gt;无人驾驶和小型战斗舰项目执行办公室&lpar;PEO USC&rpar;于7月22日宣布，海军的无人影响扫雷系统&lpar;UISS&rpar;无舰员扫雷舰已被授予初始操作能力&lpar;IOC&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前我们曾报道的在《暗黑破坏神：不朽》中花费了 10 万美元并因为太强导致匹配不到 PvP 比赛的土豪玩家又回来了，并且他正在故意输掉比赛。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1300619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [裁员、被罚、业绩暴雷：一天之内三大坏消息 网红券商Robinhood怎么了？](https://www.cnbeta.com/articles/tech/1300607.htm) | Thu Aug 04 2022 3:19 AM 
+- 🎊 [新西兰发布国家气候适应计划 包括可能寻求将一些社区搬到高处](https://www.cnbeta.com/articles/tech/1300617.htm) | Thu Aug 04 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国互联网券商的“当红炸子鸡”Robinhood最近的“麻烦事”有点多。美东时间8月2日，Robinhood发布公告，宣布将裁员约23%，主要涉及运营、营销和管理等职能部门。事实上，今年4月，Robinhood就已经裁掉了9%的员工。祸不单行，Robinhood于8月2日美股盘后公布的2022年二季报显示，主要业绩数据都不及市场预期，当日盘后股价大跌近4%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据NPR报道，&lt;strong&gt;新西兰政府周三发布了其有史以来第一个气候适应计划，其中包括将一些社区搬到高处的可能性。&lt;/strong&gt;但是，这份长达近200页的六年计划在一些重要的细节上有所欠缺，包括这些变化将花费多少资金以及由谁来支付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
