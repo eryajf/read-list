@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Windows 在内网情况下，目录如何指定共享给其它 PC（非 everyone）？](https://www.v2ex.com/t/870646#reply0) | Thu Aug 04 2022 6:24 AM
-- 🤗 [年过 30 的软件从业者，再看 JD 刘老板那句我不想认命，迷茫焦虑吗？](https://www.v2ex.com/t/870639#reply14) | Thu Aug 04 2022 5:57 AM
-- 🎭 [Pixel 系 Google 相册对压缩质量图片/视频无限上传备份的问题](https://www.v2ex.com/t/870635#reply0) | Thu Aug 04 2022 5:45 AM
-- 🥷 [都 Windows 11 了，微软的出错信息越来越不用心了](https://www.v2ex.com/t/870634#reply3) | Thu Aug 04 2022 5:44 AM
-- 🐵 [现在的工作内容会影响到以后的就业方向吗](https://www.v2ex.com/t/870630#reply2) | Thu Aug 04 2022 5:13 AM<!-- v2ex:END -->
+- 🥸 [用什么办法可以查看 Python 多线程情况下,线程的 cpu 时间和等待时间?](https://www.v2ex.com/t/870660#reply0) | Thu Aug 04 2022 7:12 AM
+- 🤗 [用 Go 写 Web 后端合适吗？](https://www.v2ex.com/t/870659#reply0) | Thu Aug 04 2022 7:11 AM
+- 🎭 [如题，为什么 requests 使用本地 vpn 代理可以访问被墙的网站，代理 ip 却不行？](https://www.v2ex.com/t/870652#reply2) | Thu Aug 04 2022 6:44 AM
+- 🥷 [Windows 在内网情况下，目录如何指定共享给其它 PC（非 everyone）？](https://www.v2ex.com/t/870646#reply5) | Thu Aug 04 2022 6:24 AM
+- 🐵 [年过 30 的软件从业者，再看 JD 刘老板那句我不想认命，迷茫焦虑吗？](https://www.v2ex.com/t/870639#reply21) | Thu Aug 04 2022 5:57 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
