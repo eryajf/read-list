@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么是异步 API 设计的扇入扇出模式](https://juejin.cn/post/7128037479587790855) | Thu Aug 04 2022 3:06 PM 
+- 🤗 [Jenkins 构建成功后发送邮件配置](https://juejin.cn/post/7128046538802069511) | Thu Aug 04 2022 3:41 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 5 天，点击查看活动详情 0 前言 扇出/扇入模式是更高级 API 集成的主要内容。这些应用程序并不总是表现出相同的可用性或性能 
+    Jenkins 构建成功后发送邮件配置，文章内的效果是可以实现的，如果对于一些基础知识不知道，前文也有讲到， 大家不用担心。 前文知识点：Jenkins+Docker+Github实现自动化部署 
     </details> 
 
-- 🎡 [Bpmn.js 进阶之Lint流程校验&lpar;一&rpar;](https://juejin.cn/post/7128037146203521055) | Thu Aug 04 2022 3:05 PM 
+- 🎡 [[二分查找区间] 729. 我的日程安排表 I](https://juejin.cn/post/7128046223503654943) | Thu Aug 04 2022 3:40 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 前言 在之前的文章中已经把 bpmn.js 的执行原理和模块扩展方式都做了一些简单介绍，对 Rendere 
+    leetcode原题链接：https://leetcode.cn/problems/my-calendar-i 难度：中等 方法：二分 题目 实现一个 MyCalendar 类来存放你的日程安排。如果 
     </details> 
 
-- 🕯 [Dart 知识点 - 继承和多态](https://juejin.cn/post/7128036615288537101) | Thu Aug 04 2022 3:02 PM 
+- 🕯 [HarmonyOS应用开发：鸿蒙自定义组件slot插槽，体现的更强大！](https://juejin.cn/post/7128045382113689613) | Thu Aug 04 2022 3:37 PM 
     <details><summary>展开描述 ...</summary> 
-    Dart 中的继承是单继承，也就是一个类只能有一个直接的父类。默认继承父类 Object 类。使用 extends 关键字，子类会继承父类的属性和方法。本文讲解下继承和多态。 
+    鸿蒙除了了基础组件，容器组件，高级组件，还有自定义组件，自定义组件可以将已有的组件组合，封装成新的组件，在工程中被多次调用，从而提高代码的可读性。 slot插槽的使用可以让自定义组件承载父组件中定义的 
     </details> 
 
-- 🚀 [精通Java事务编程&lpar;8&rpar;-可串行化隔离级别之可串行化的快照隔离](https://juejin.cn/post/7128036472464080927) | Thu Aug 04 2022 3:02 PM 
+- 🚀 [JDBC入门](https://juejin.cn/post/7128044319298027528) | Thu Aug 04 2022 3:32 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 本系列文章描述了DB并发控制的黯淡： 2PL虽保证了串行化，但性能和扩展不好 性能良好的弱隔离级别，但易出 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 一、JDBC概念 JDBC一般指java数据库连接，是Java DataBase Connectivity 
     </details> 
 
-- 💪 [再肝3天，整理了90个 NumPy 例子，不能不收藏！](https://juejin.cn/post/7128036482836594702) | Thu Aug 04 2022 3:02 PM 
+- 💪 [后台项目 Express-Mysql-Vue3-TS-Pinia 处理 菜单表](https://juejin.cn/post/7128043829583675405) | Thu Aug 04 2022 3:30 PM 
     <details><summary>展开描述 ...</summary> 
-    Numpy 是什么就不太过多介绍了，懂的人都懂！ 文章很长，高低要忍一下，如果忍不了，那就收藏吧，总 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 菜单表 引言 通过之前一段时间 Express 和 Mysql 的学习 这里尝试来搭建一个 后台系统 来巩 
     </details> 
 <!-- juejin:END -->
 ### 少数派
