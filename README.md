@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [网易云音乐听歌识曲“史诗级”升级：哼歌念歌词都能认出来](https://hot.cnbeta.com/articles/music/1300779.htm) | Thu Aug 04 2022 11:13 AM 
+- 🕯 [腾讯、华为都看上了滴滴的生意](https://www.cnbeta.com/articles/tech/1300811.htm) | Thu Aug 04 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，网易云音乐对其“听歌识曲”功能进行了一波升级，实现了“听歌识曲”与“哼唱识曲”两项功能的整合，并加入了部分新功能，可以说是一次“史诗级”更新了。据悉，在更新后的听歌识曲功能，&lt;strong&gt;除了常规的根据播放音乐识曲外，也支持哼唱、念歌词等多种识曲方式，且精确度与此前相比有一定提升。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1300779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;刚刚过去的7月，高温日达到22个，数量为史上第三多，但持续的高温热浪还没有结束。“高烧”中的上海，让网约车司机地图上的“热力点”红了起来、多了起来，在经历一场疫情停滞之后，这个夏天，网约车迎来期盼已久的“黄金季”，而平台也趁势推出一大波优惠券吸引用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [每日优鲜拖欠农户货款175万元：相关对接人已被裁掉](https://www.cnbeta.com/articles/tech/1300777.htm) | Thu Aug 04 2022 11:12 AM 
+- 💼 [上财研究生从央企裸辞送外卖：一天赚几十 自称很幸福](https://www.cnbeta.com/articles/tech/1300809.htm) | Thu Aug 04 2022 12:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月4日消息，据北京时间报道，大兴区庞各庄多名农户表示，&lt;strong&gt;自己种的瓜通过合作社代销的形式卖给了每日优鲜，但迟迟不给货款。&lt;/strong&gt;报道指出，&lt;strong&gt;每日优鲜共拖欠合作社人民币175万余元，&lt;/strong&gt;但项目相关负责人员均被裁员。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;27岁的网友“峰哥”最近做出了让所有人都瞠目结舌的决定。据新闻晨报报道，&lt;strong&gt;“峰哥”是研究生学历，2020年毕业于上海财经大学，后入职一家央企，年薪达20万。&lt;/strong&gt;但因为适应不了人员频繁调动、加班等，他在今年7月初裸辞，开始送外卖，第一单赚了4.7元，在视频中自称是一个美好的开始，目前已经做了20多天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AMD Zen 4锐龙7000系列首发四款CPU SKU规格爆料汇总](https://www.cnbeta.com/articles/tech/1300775.htm) | Thu Aug 04 2022 10:40 AM 
+- 💂 [一颗帝国大厦大小的小行星本周将飞过地球](https://www.cnbeta.com/articles/science/1300807.htm) | Thu Aug 04 2022 12:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;各方消息已证实 AMD 即将推出 Zen 4“Raphael”锐龙 7000 系列处理器和配套的 600 系主板，且首发 AM5 台式 CPU 阵容中将包括 R9-7950X、R9-7900X、R7-7700X 和 R5-7600X 四款 SKU 。&lt;strong&gt;而随着传说中的 9 月 15 号的临近，WCCFTech 也用心汇总了锐龙 7000 系列台式 CPU 的最终规格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一颗小行星将在本周晚些时候飞过地球。这颗小行星是2022 OE2，它最近才被天文学家在7月发现。这颗小行星估计大约有1200英尺长，大约和帝国大厦一样高。它将在围绕太阳的轨道上以大约320万英里的安全距离经过地球。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Intel Arc显卡AV1编码表现实测 1299元不亏](https://www.cnbeta.com/articles/tech/1300773.htm) | Thu Aug 04 2022 10:38 AM 
+- 🚀 [Windows 11今年7月在Steam上的市场份额首次出现下滑](https://www.cnbeta.com/articles/tech/1300805.htm) | Thu Aug 04 2022 11:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel的Arc游戏显卡已经开始上市了，目前主要是A380这一款，国内实际售价1299元，虽然在驱动和优化上还有些槽点，导致游戏性能有些飘忽，但是Intel显卡支持AV1视频编码，这让它在此类应用中轻松获胜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Valve发布了最新的Steam硬件和软件调查结果，揭示了有关微软最新操作系统的有趣花絮。自2021年10月公开亮相以来，Windows 11首次在领先的PC游戏平台上失去了一小部分客户。根据Valve的数据，在2022年7月，Windows 11从21.23%下降到21.12%，下滑了0.11%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300805.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [花旗分析师：特斯拉股价被高估 可能暴跌50%以上](https://www.cnbeta.com/articles/tech/1300771.htm) | Thu Aug 04 2022 10:38 AM 
+- 🎊 [Mozilla Firefox浏览器工具栏迎来统一扩展管理按钮](https://www.cnbeta.com/articles/tech/1300803.htm) | Thu Aug 04 2022 11:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;花旗分析师Itay Michaeli表示，特斯拉股票处于膨胀状态，未来可能暴跌50%以上。分析师在一份报告中重申了特斯拉股票的卖出评级，目标价为424美元。目前，特斯拉股票交易价格约为每股923美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;网络浏览器中的扩展程序提升了浏览器的功能，现在的主流浏览器都支持通过扩展程序添加浏览器未内置的其他功能。到目前为止，Firefox浏览器通常在工具栏上的溢出菜单图标中显示扩展功能，而现在Mozilla现在要用一个新的统一扩展面板取代它。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
