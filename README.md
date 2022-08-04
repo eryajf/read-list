@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [windows 12 pro](https://www.v2ex.com/t/870752#reply6) | Thu Aug 04 2022 3:06 PM
+- 🥸 [windows 12 pro](https://www.v2ex.com/t/870752#reply20) | Thu Aug 04 2022 3:06 PM
 - 🤗 [有人买 Zenfone9 吗？](https://www.v2ex.com/t/870732#reply14) | Thu Aug 04 2022 12:49 PM
 - 🎭 [有什么好用的 Python 界面自动化软件吗？](https://www.v2ex.com/t/870727#reply3) | Thu Aug 04 2022 11:53 AM
-- 🥷 [我认为手机 64GB 内存对我够用了](https://www.v2ex.com/t/870724#reply19) | Thu Aug 04 2022 11:25 AM
+- 🥷 [我认为手机 64GB 内存对我够用了](https://www.v2ex.com/t/870724#reply25) | Thu Aug 04 2022 11:25 AM
 - 🐵 [想练习使用云服务，哪家比较便宜](https://www.v2ex.com/t/870722#reply13) | Thu Aug 04 2022 11:17 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
