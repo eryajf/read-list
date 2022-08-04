@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Apple新闻之苹果公布 2022 财年第三季财报](http://www.mac52ipod.cn/post/apple-2022-q3-result.php) | Tue Aug 02 2022 3:30 AM 
+- 👨‍🏫 [Mac技巧之用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）](http://www.mac52ipod.cn/post/james-webb-space-telescope-images-6k-mac-wallpapers.php) | Thu Aug 04 2022 3:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	我记得很久以前，苹果电脑 Mac OS X 系统默认的壁纸就是太空主题，后来到了 macOS 时代变成旅游景点主题的壁纸了。詹姆斯·韦伯望远镜拍到的太空照片最近很火，在网上找到了相关主题的壁纸，6K 分辨率，苹果最高端的 Pro Display XDR 也能用。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6704&quot; border=&quot;0&quot; alt=&quot;用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）&quot; title=&quot;用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）&quot; /&gt;&lt;/p&gt;&lt;p&gt;直接到 &lt;u&gt;&lt;a href=&quot;https://www.icavedave.com/2022/07/17/jwst/#google_vignette&quot; target=&quot;_blank&quot; title=&quot;JWST Images as 6K Mac Wallpapers&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.icavedave.com/2022/07/17/jwst/#google_vignette&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 看吧，好几张可选，点击每张下方的「Full 6K」链接就能下载&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=wallpaper&quot; rel=&quot;tag&quot;&gt;wallpaper&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A3%2581%25E7%25BA%25B8&quot; rel=&quot;tag&quot;&gt;壁纸&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Apple新闻之苹果公布 2022 财年第三季财报](http://www.mac52ipod.cn/post/apple-2022-q3-result.php) | Tue Aug 02 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [跨平台的播客电台 App：Moon FM](http://www.mac52ipod.cn/post/apple-ios-macos-windows-linus-podcast-app-moon-fm.php) | Sun Jul 31 2022 3:07 AM 
+- 🦏 [跨平台的播客电台 App：Moon FM](http://www.mac52ipod.cn/post/apple-ios-macos-windows-linus-podcast-app-moon-fm.php) | Sun Jul 31 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM 
+- 🚀 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM 
+- 🏊 [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM 
     <details><summary>展开描述 ...</summary> 
     
  
 	苹果中国官网宣布了一个限时优惠活动：7月29日到8月1日，使用支付宝/招行/建行/工行卡，在苹果官网在线商店和 Apple Store 零售店买指定的苹果设备有限时优惠：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;iPhone 13 系列优惠 600 元&lt;/li&gt;&lt;li&gt;iPhone SE（第三代）优惠 200 元&lt;/li&gt;&lt;li&gt;iPhone12 和 iPhone12 mini 优惠 500 元&lt;/li&gt;&lt;li&gt;Apple Watch SE 优惠 200 元&lt;/li&gt;&lt;li&gt;AirPods 系列优惠 150-250 元&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;每人每个分类（手机、手表、耳机）限购两台，而且不和商务优惠、员工优惠、教育优惠等其它优惠叠加。&lt;/p&gt;&lt;p&gt;其实我觉得「再过一两个月就换代」的这个时间点有点儿尴尬。就算真的要买，拼多多百亿补贴挺香的。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	国内 Android 厂商很喜欢给照片加上机型信息水印，如果是和相机大厂合作的手机，还会打上莱卡、哈苏等相机的水印。最近小米推出了和莱卡合作的机型，拍照后能在照片底部添加莱卡图标和坐标、焦距、光圈、快门、ISO 等信息。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6701&quot; border=&quot;0&quot; alt=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; title=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; /&gt;&lt;/p&gt;&lt;p&gt;如果你也想让苹果 iPhone 拍的照片也有类似水印，可以试试这个叫「徕卡水印」的 iOS 捷径，下载地址 &lt;u&gt;&lt;a href=&quot;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&quot; target=&quot;_blank&quot; title=&quot;莱卡水印&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%258D%25B7%25E5%25BE%2584&quot; rel=&quot;tag&quot;&gt;捷径&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=shortcuts&quot; rel=&quot;tag&quot;&gt;shortcuts&lt;/a&gt;
 
  
     </details> 
