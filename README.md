@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [OneData在雪球的探索与实践](https://juejin.cn/post/7128307840439025672) | Fri Aug 05 2022 8:35 AM 
+- 🤗 [2022.2~2022.8 , 0~100star , 小破组件库Concis的半年总结和未来规划](https://juejin.cn/post/7128339168644005919) | Fri Aug 05 2022 10:37 AM 
     <details><summary>展开描述 ...</summary> 
-    而随着社区与基金、股票等业务的进一步融合，管理层以及各业务方对数据的准确性、及时性等要求进一步提高，业务的发展壮大也使得数仓规模越来越大。雪球大数据团队在支持现有数据需求的同时，也对历史沉积的数据做了 
+    Concis是什么？ 首先，感谢大家的支持，让Concis突破了100star~也是有你们的不断支持，让博主在开源路上不断充能，持续前进。 对于不熟悉这个项目的小伙伴们做个简单的介绍，Concis是一 
     </details> 
 
-- 🎡 [Docker 部署 Flask](https://juejin.cn/post/7128307721954148366) | Fri Aug 05 2022 8:34 AM 
+- 🎡 [Swift - LeetCode - 相交链表](https://juejin.cn/post/7128337292153847816) | Fri Aug 05 2022 10:29 AM 
     <details><summary>展开描述 ...</summary> 
-    Docker 部署 Flask WSGI Server Gunicorn \ Gevent Gunicorn ‘Green Unicorn’ 是一个 UNIX 下的 WSGI HTTP 服务器，它是一 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情  题目 给你两个单链表的头节点 headA 和 headB，请你找出并返回两个单链表相交的起始节点。如果 
     </details> 
 
-- 🕯 [千亿级、大规模：腾讯超大 Apache Pulsar 集群性能调优实践](https://juejin.cn/post/7128307626386915341) | Fri Aug 05 2022 8:34 AM 
+- 🕯 [WebXR 技术调研 - 在浏览器中构建扩展现实应用](https://juejin.cn/post/7128333668480712735) | Fri Aug 05 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-    云原生时代消息队列和流融合系统，提供统一的消费模型，支持消息队列和流两种场景，既能为队列场景提供企业级读写服务质量和强一致性保障，又能为流场景提供高吞吐、低延迟； 
+    WebXR 是一组支持将渲染 3D 场景用来呈现虚拟世界（虚拟现实，也称作VR）或将图形图像添加到现实世界（增强现实，也称作AR）的标准。 
     </details> 
 
-- 🚀 [对应用程序启动时所有方法的调用顺序分析](https://juejin.cn/post/7128303953321656334) | Fri Aug 05 2022 8:20 AM 
+- 🚀 [分布事务和分布式锁](https://juejin.cn/post/7128332659490553892) | Fri Aug 05 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
-    本文转载：董铂然的博客 防止原文无法查看。有原文连接。iOS中对应用程序启动时所有方法的调用顺序分析 
+    分布式事务 1 两阶段提交 二阶段提交协议（Two-phase Commit，即 2PC）是常用的分布式事务解决方案，即将事务的提交过程分为两个阶段来进行处理：准备阶段和提交阶段 阶段 1：准备阶段  
     </details> 
 
-- 💪 [Android开发文字对齐问题](https://juejin.cn/post/7128302603431051278) | Fri Aug 05 2022 8:14 AM 
+- 💪 [拿走吧，你！可视化大屏一次性解决！](https://juejin.cn/post/7128330153012248584) | Fri Aug 05 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
-    三种空格unicode&lpar;\u00A0,\u0020,\u3000&rpar;表示的区别 不间断空格\u00A0,主要用在office中,让一个单词在结尾处不会换行显示,快捷键ctrl+shift+space;  
+    前言 授人以渔，不如授人以鱼。 我把最近开发大屏的项目，抽象为一个最简版的demo，放到 github 上。保证拿来即用，可以帮助大家省去一些调研的时间。 半成品demo的github地址如下： 
     </details> 
 <!-- juejin:END -->
 ### 少数派
