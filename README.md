@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [为什么互联网大厂一边疯狂裁员，一边不停招聘？](https://juejin.cn/post/7128383929580519431) | Fri Aug 05 2022 1:31 PM 
+- 🤗 [Rxjs 监听使用不精确，版本上线晚了3个小时](https://juejin.cn/post/7128391769112182792) | Fri Aug 05 2022 2:01 PM 
     <details><summary>展开描述 ...</summary> 
-    DevWeekly收集整理每周优质开发者内容，包括开源项目、资源工具、技术文章等方面。 每周五定期发布，同步更新到 知乎：Jackpop 。 欢迎大家投稿，提交issue，推荐或者自荐开源项目/资源/ 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 导语 最近在开发新feature，周五需要版本合并，上线。可是从DevTool Network请求记录来看 
     </details> 
 
-- 🎡 [《高阶前端指北》之深入中出 PWA（5分钟搞定）](https://juejin.cn/post/7128380172922781727) | Fri Aug 05 2022 1:15 PM 
+- 🎡 [VS Code如何打造C/C++开发环境？](https://juejin.cn/post/7128388084516782110) | Fri Aug 05 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 什么是PWA PWA 的英文全称是 Progressive Web Apps，渐进式 Web 应用， 运用 
+    VS Code这几年非常受欢迎，对于大多数编程语言，只需要简单的安装解释器/编译器就可以轻松的运行。 例如，Python，只需要取官网下载对应版本的Python并安装，就可以在VS Code进行Pyt 
     </details> 
 
-- 🕯 [【LeetCode】623. 在二叉树中增加一行](https://juejin.cn/post/7128379358003068958) | Fri Aug 05 2022 1:15 PM 
+- 🕯 [Redux中间件及其开发者工具](https://juejin.cn/post/7128387064625627172) | Fri Aug 05 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 一、redux中间件&lpar;redux-thunk&rpar; 安装命令: npm i redux-thunk 在你创建的 
     </details> 
 
-- 🚀 [JVM调优-JVM调优实践一](https://juejin.cn/post/7128377003224334373) | Fri Aug 05 2022 1:05 PM 
+- 🚀 [C++为什么始终无法取代 C 吗？](https://juejin.cn/post/7128386432623706126) | Fri Aug 05 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 1.写在前面 前面已经分享了很多关于jvm的知识，具体的详情都可以查看上几篇的文章。 从jvm的调优原理 
+    Linux之父Linus Torvald对C++有过一段评价：“C++ can’t solve the problem of the C language at all, it will only m 
     </details> 
 
-- 💪 [记录下最近泛型（ts）的使用心得](https://juejin.cn/post/7128371649182711845) | Fri Aug 05 2022 12:42 PM 
+- 💪 [Linux的难题，终于有解了！](https://juejin.cn/post/7128386191942139911) | Fri Aug 05 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第6天，点击查看活动详情 介绍 软件设计中规范和灵活往往是相悖的，约束越多规范性越强反之灵活性越低。一款优秀的软件系统在这两者之间把 
+    删除文件，无论是在windows还是Linux都是非常频繁的操作，使用Windows时有回收站，如果删错了还可以恢复，但是，使用Linux则不然，rm -rf应该是一种噩梦版的存在，一旦删错，再也无法 
     </details> 
 <!-- juejin:END -->
 ### 少数派
