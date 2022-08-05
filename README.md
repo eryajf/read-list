@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [标准版Apple Watch Series 8传闻采用与Series 7相同的外壳设计](https://www.cnbeta.com/articles/tech/1301285.htm) | Fri Aug 05 2022 4:04 PM 
+- 🕯 [Intel承认独立显卡驱动表现糟糕 将持续优化DX9/11游戏](https://www.cnbeta.com/articles/tech/1301293.htm) | Fri Aug 05 2022 6:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Intel Arc独立显卡的问题很多，最头疼也是最难以解决的，还是驱动优化，尤其是游戏性能的适配。Intel自己也承认，Arc显卡在DX12游戏上的优化最为到位，可以稳定高性能运行，而且能够提供无与伦比的性价比，Vulkan也基本到位，而更老的DX11、DX9还差得多，比如《古墓丽影》，Arc A770 DX12模式下能够跑出80FPS，DX11下就只有39FPS。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [国产手机冲击高端 又双叒叕失败了……](https://www.cnbeta.com/articles/tech/1301291.htm) | Fri Aug 05 2022 6:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;前两天，微博上&amp;nbsp;@数码闲聊站&amp;nbsp;的一番话，引起了托尼的兴趣。这段话直接&amp;nbsp;AOE&amp;nbsp;（&amp;nbsp;范围伤害 ）国产手机厂商的旗舰机，销量扑街。&lt;/strong&gt;不过细究起来，好像自从华为被制裁后，就从没听到过有&amp;nbsp;“&amp;nbsp;冲高成功&amp;nbsp;”&amp;nbsp;的案例。为什么呢？简单说，高端机的几个标志是什么？&lt;strong&gt;豪华的参数，顶尖的芯片性能，考究的外观工艺，六千以上的价格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [配送最后一公里 压垮每日优鲜？](https://www.cnbeta.com/articles/tech/1301289.htm) | Fri Aug 05 2022 6:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在每日优鲜“原地解散”的风波中，首当其冲的就是“30分钟达”。每日优鲜对媒体回应称，在实现盈利的大目标下，公司对业务及组织进行调整，次日达、智慧菜场、零售云等业务不受影响。每日优鲜的APP也发布通知称，配送时间由原来的最快30分钟送达变为最快次日送达。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [信用卡积分规则密集调整 线上交易积分更“值钱”](https://www.cnbeta.com/articles/tech/1301287.htm) | Fri Aug 05 2022 6:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近期，多家银行密集发布信用卡积分规则调整公告。日前，中信银行发布公告称，自2022年9月14日（以实际执行日期为准）起，该行信用卡积分规则进行调整。《证券日报》记者梳理发现，近年来，不少银行对信用卡积分规则及发卡策略进行细化调整。包括取消部分商户类别刷卡交易积分累计，增加线上支付累计积分权益等规则。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [标准版Apple Watch Series 8传闻采用与Series 7相同的外壳设计](https://www.cnbeta.com/articles/tech/1301285.htm) | Fri Aug 05 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据Twitter用户@ShrimpApplePro称，Apple Watch Series 8的标准41毫米和45毫米型号将采用与Apple Watch Series 7相同的设计，之前是他首先透露iPhone 14 Pro型号将采用新的圆形+药丸孔显示屏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [主板厂商官方泄密：AMD Zen锐龙7000上市时间100％实锤](https://www.cnbeta.com/articles/tech/1301283.htm) | Fri Aug 05 2022 4:00 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD CEO苏姿丰已经亲口确认，将在第三季度内发布5nm工艺、Zen4架构的锐龙7000系列处理器，具体时间传闻是8月底宣布、9月15日上市发售。8月5日，AMD与各大厂商公开展示了为锐龙7000处理器准备的X670E、X670高端主板，其中&lt;strong&gt;微星更是明确了发售时间：9月15日！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [尚乘数科的狂野上涨变成极速暴跌 两天蒸发1600亿美元市值](https://www.cnbeta.com/articles/tech/1301281.htm) | Fri Aug 05 2022 3:53 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;鲜为人知的一家香港金融服务公司此前令人目眩的狂野上涨戛然而止，紧跟着两天暴跌，其在美国上市的股票市值缩水一半。在纽约证交所上市不到一个月的尚乘数科，股价周二创历史新高，但随后到周四收盘累计暴跌52%，市值蒸发约1600亿美元，超过英特尔、摩根士丹利和高盛之类公司当前的总市值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Meta最新AI聊天机器人上网供公众测试使用](https://www.cnbeta.com/articles/tech/1301279.htm) | Fri Aug 05 2022 3:38 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Meta公司人工智能研究实验室创造了一个最先进的聊天机器人，并让公众与该系统交谈，以收集对其能力的反馈。&lt;/strong&gt;该机器人被称为BlenderBot 3，可以在网上访问。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [传标准版 Apple Watch Series 8 外观设计与 Series 7 相同](https://www.cnbeta.com/articles/tech/1301277.htm) | Fri Aug 05 2022 3:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来自 &lt;span style=&quot;color:Red;font-size:+1px&quot;&gt;@&lt;/span&gt;ShrimpApplePro 的爆料称，标准版 41 毫米和 45 毫米 Apple Watch Series 8 的外观设计与 Apple Watch Series 7 完全相同。Apple Watch Series 8 将不再提供钛合金外壳版本，苹果会退出全新高端 Apple Watch Pro，也就是极限运动版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
