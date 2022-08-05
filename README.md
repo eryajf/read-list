@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [程序员区提到的“内存”不应该默认是“memory”吗](https://www.v2ex.com/t/870855#reply12) | Fri Aug 05 2022 4:29 AM
-- 🤗 [vscode 这样输入不触发代码提示，并且给了一个选中的样式](https://www.v2ex.com/t/870850#reply1) | Fri Aug 05 2022 4:04 AM
-- 🎭 [找不到 Apple chips version Chrome](https://www.v2ex.com/t/870849#reply2) | Fri Aug 05 2022 4:03 AM
-- 🥷 [swagger yaml 手写？](https://www.v2ex.com/t/870835#reply1) | Fri Aug 05 2022 3:36 AM
-- 🐵 [使用的 conda，有公共库的概念吗](https://www.v2ex.com/t/870833#reply1) | Fri Aug 05 2022 3:32 AM<!-- v2ex:END -->
+- 🥸 [菜鸟请教几个 git 相关的问题](https://www.v2ex.com/t/870863#reply1) | Fri Aug 05 2022 4:53 AM
+- 🤗 [程序员区提到的“内存”不应该默认是“memory”吗](https://www.v2ex.com/t/870855#reply25) | Fri Aug 05 2022 4:29 AM
+- 🎭 [vscode 这样输入不触发代码提示，并且给了一个选中的样式](https://www.v2ex.com/t/870850#reply1) | Fri Aug 05 2022 4:04 AM
+- 🥷 [找不到 Apple chips version Chrome](https://www.v2ex.com/t/870849#reply2) | Fri Aug 05 2022 4:03 AM
+- 🐵 [swagger yaml 手写？](https://www.v2ex.com/t/870835#reply1) | Fri Aug 05 2022 3:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
