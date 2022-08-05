@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [上新 | 从0到1数据库内核实战教程直播开始啦](https://juejin.cn/post/7128317726187061285) | Fri Aug 05 2022 9:14 AM 
+- 🤗 [OneData在雪球的探索与实践](https://juejin.cn/post/7128307840439025672) | Fri Aug 05 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    还在为不够了解数据库内核而烦恼？ 想参加 2022 OceanBase 数据库大赛却不知从何入手？ 想提升研发效率，提升工作技能 想成为开源项目的 Contributor！ 是否感觉自己虽然熟悉用 S 
+    而随着社区与基金、股票等业务的进一步融合，管理层以及各业务方对数据的准确性、及时性等要求进一步提高，业务的发展壮大也使得数仓规模越来越大。雪球大数据团队在支持现有数据需求的同时，也对历史沉积的数据做了 
     </details> 
 
-- 🎡 [【访谈】Eotalk Vol.01：Eoapi，我们希望以开源的方式构建 API 生态系统](https://juejin.cn/post/7128316272068001823) | Fri Aug 05 2022 9:08 AM 
+- 🎡 [Docker 部署 Flask](https://juejin.cn/post/7128307721954148366) | Fri Aug 05 2022 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-    ![]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/154b053dedab4d2592a797c77618b3a9~tplv-k3u1fbp 
+    Docker 部署 Flask WSGI Server Gunicorn \ Gevent Gunicorn ‘Green Unicorn’ 是一个 UNIX 下的 WSGI HTTP 服务器，它是一 
     </details> 
 
-- 🕯 [【访谈】Eotalk Vol.02：从极客到 CEO，开发者应该如何提升技术领导力？](https://juejin.cn/post/7128316181466841096) | Fri Aug 05 2022 9:07 AM 
+- 🕯 [千亿级、大规模：腾讯超大 Apache Pulsar 集群性能调优实践](https://juejin.cn/post/7128307626386915341) | Fri Aug 05 2022 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-    ![]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5024451851034e8a999012b5b2b9bd75~tplv-k3u1fbp 
+    云原生时代消息队列和流融合系统，提供统一的消费模型，支持消息队列和流两种场景，既能为队列场景提供企业级读写服务质量和强一致性保障，又能为流场景提供高吞吐、低延迟； 
     </details> 
 
-- 🚀 [面对枯燥和量大的知识 怎么学习](https://juejin.cn/post/7128311839888244743) | Fri Aug 05 2022 8:50 AM 
+- 🚀 [对应用程序启动时所有方法的调用顺序分析](https://juejin.cn/post/7128303953321656334) | Fri Aug 05 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-    序 我一直以来都保持着 每月最少一本书的学习，学习方法上也有过很多尝试。毕竟每个人 不同的时间 不同的环境 适合的学习方法都可能不一样。 随着现在社会，wx 博客，公众号等快餐式信息的涌来，而真正有效 
+    本文转载：董铂然的博客 防止原文无法查看。有原文连接。iOS中对应用程序启动时所有方法的调用顺序分析 
     </details> 
 
-- 💪 [Element 2 组件源码剖析之Loading 加载--指令实现](https://juejin.cn/post/7128295333267767327) | Fri Aug 05 2022 7:47 AM 
+- 💪 [Android开发文字对齐问题](https://juejin.cn/post/7128302603431051278) | Fri Aug 05 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-    加载组件 `Loading` 常用于页面和区块的加载中状态，页面局部处于等待异步数据或正在渲染过程时，合适的加载动效会有效缓解用户的焦虑。本文将分析其源码实现，耐心读完，相信会对您有所帮助。 
+    三种空格unicode&lpar;\u00A0,\u0020,\u3000&rpar;表示的区别 不间断空格\u00A0,主要用在office中,让一个单词在结尾处不会换行显示,快捷键ctrl+shift+space;  
     </details> 
 <!-- juejin:END -->
 ### 少数派
