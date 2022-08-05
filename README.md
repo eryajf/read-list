@@ -353,9 +353,9 @@
     ，网络攻击组织盯上了 DIHK，对其发起了大规模的网络攻击。DIHK无力面对如此强力的网络攻击，直接躺平。 
     </details> 
 
-- 💻 [区块链行业遭供应链攻击，上万加密钱包被“抄底”损失上亿美元](https://www.freebuf.com/articles/blockchain-articles/341089.html) | Thu Aug 04 2022 12:43 PM 
+- 💻 [Solana被盗500万美元，具体原因尚不明确](https://www.freebuf.com/news/341112.html) | Fri Aug 05 2022 2:44 AM 
     <details><summary>展开描述 ...</summary> 
-    据科技媒体TechCrunch报道，若干名未知攻击者“抄底”了上万个加密钱包，钱包内有价值上亿美元的代币。 
+    攻击者从区块链平台Solana窃取了超过500万美元，具体的失窃原因仍在进一步调查中调查中。 
     </details> 
 <!-- freebuf:END -->
 
