@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [GitHub 3.5万个代码库被黑？谣言，只是被恶意复制](https://www.freebuf.com/news/341016.html) | Thu Aug 04 2022 5:26 AM 
+- 🦄 [区块链行业遭供应链攻击，上万加密钱包被“抄底”损失上亿美元](https://www.freebuf.com/articles/blockchain-articles/341089.html) | Thu Aug 04 2022 12:43 PM 
+    <details><summary>展开描述 ...</summary> 
+    据科技媒体TechCrunch报道，若干名未知攻击者“抄底”了上万个加密钱包，钱包内有价值上亿美元的代币。 
+    </details> 
+
+- 🦄 [FreeBuf早报 | 澳大利亚隐私监管机构调查 TikTok；GitLab 计划删除免费账户中的休眠项目](https://www.freebuf.com/articles/341076.html) | Thu Aug 04 2022 10:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    澳大利亚隐私监管机构 表态，正在遵循监管行动政策，核查一份报告中指出的 TikTok 数据隐私问题。 
+    </details> 
+
+- 🦅 [CVE-2022-26138 Confluence Server硬编码漏洞分析](https://www.freebuf.com/vuls/341027.html) | Thu Aug 04 2022 6:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    Atlassian发布7月的安全更新，涉及到Confluence Server的多个漏洞，其中CVE-2022-26138为一个硬编码漏洞。 
+    </details> 
+
+- 🪄 [GitHub 3.5万个代码库被黑？谣言，只是被恶意复制](https://www.freebuf.com/news/341016.html) | Thu Aug 04 2022 5:26 AM 
     <details><summary>展开描述 ...</summary> 
     虽然“GitHub 3.5万个代码库被攻击”是一个乌龙事件，但是有软件工程师发现，大约有数千个GitHub代码库正在被恶意复制。 
     </details> 
 
-- 🦄 [Atomic wallet遭山寨，假网站散播恶意软件](https://www.freebuf.com/news/341012.html) | Thu Aug 04 2022 5:14 AM 
+- 💻 [Atomic wallet遭山寨，假网站散播恶意软件](https://www.freebuf.com/news/341012.html) | Thu Aug 04 2022 5:14 AM 
     <details><summary>展开描述 ...</summary> 
     知名去中心化钱包和加密货币交换门户网站Atomic wallet近期被假冒。 
-    </details> 
-
-- 🦅 [针对微软企业电子邮件服务，大规模网络钓鱼攻击来袭](https://www.freebuf.com/news/341011.html) | Thu Aug 04 2022 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    来自ThreatLabz的安全研究人员发现了一批大规模的网络钓鱼活动。 
-    </details> 
-
-- 🪄 [思科修复了VPN路由器中关键远程代码执行漏洞](https://www.freebuf.com/news/341009.html) | Thu Aug 04 2022 3:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    目前，思科已经发布了软件更新来解决这两个漏洞。 
-    </details> 
-
-- 💻 [微软推出新服务，扩大企业对其威胁情报库的访问权限](https://www.freebuf.com/news/340995.html) | Thu Aug 04 2022 2:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    微软已在本周推出两项新服务，让企业安全运营中心 &lpar;SOC&rpar; 更广泛地访问其每天收集的大量威胁情报。 
     </details> 
 <!-- freebuf:END -->
 
