@@ -350,7 +350,7 @@
 
 - 🪄 [德国工商总会被网络攻击打爆了](https://www.freebuf.com/news/341115.html) | Fri Aug 05 2022 2:48 AM 
     <details><summary>展开描述 ...</summary> 
-    ，网络攻击组织盯上了 DIHK，对其发起了大规模的网络攻击。DIHK无力面对如此强力的网络攻击，直接躺平。 
+    网络攻击组织盯上了 DIHK，对其发起了大规模的网络攻击。DIHK无力面对如此强力的网络攻击，直接躺平。 
     </details> 
 
 - 💻 [Solana被盗500万美元，具体原因尚不明确](https://www.freebuf.com/news/341112.html) | Fri Aug 05 2022 2:44 AM 
