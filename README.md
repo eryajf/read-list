@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [上财研究生从央企裸辞送外卖引热议 本人重申：临时过渡](https://www.cnbeta.com/articles/tech/1300883.htm) | Thu Aug 04 2022 11:18 PM 
+- 🕯 [[图]三星Unpacked发布会新品汇总](https://www.cnbeta.com/articles/tech/1300971.htm) | Fri Aug 05 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上财研究生从央企裸辞送外卖在社交媒体上引起了不少人的围观，不过这件事背后还是应该关注的是，对方只是过渡工作。27岁的“峰哥” 是上海财经大学毕业的研究生，为了追求自由，从央企离职后暂时以送外卖为生。但他也表示未来还是会选择一份稳定的、适合自己的工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;海量图片预警。距离三星 Unpacked 发布会还有不到 1 周的时间，在这场主题为“Unfold Your World”的活动中，三星将会推出包括 Galaxy Z Fold 4、Galaxy Z Flip 4、Galaxy Watch 5、Galaxy Watch 5 Pro 在内的诸多新品。在正式发布之前，国外科技媒体 91Mobile 带来了详尽的新品渲染图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马斯克说自己被骗了 推特：胡扯](https://www.cnbeta.com/articles/tech/1300881.htm) | Thu Aug 04 2022 11:17 PM 
+- 💼 [用DNA构建的纳米级转子：科学家建造世界上最小的流动驱动马达](https://www.cnbeta.com/articles/science/1300969.htm) | Fri Aug 05 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;马斯克在提交给特拉华州法院的文件中说，他被骗才签下与推特的收购协议，推特驳斥了马斯克的说法，说马斯克的话不可信，与事实不符。马斯克在一份反诉文件中表达了自己的看法，之前文件没公开，周四才公开。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;科学家们已经建造了世界上最小的流动驱动马达。&lt;/strong&gt;受标志性的荷兰风车和生物马达蛋白的启发，他们从DNA中创造了一个自我配置的流动驱动转子，将来自电或盐梯度的能量转换为有用的机械功。该成果为纳米级的主动机器人工程开辟了新的前景。荷兰代尔夫特理工大学研究人员的论文于周四发表在《&lt;a href=&quot;https://www.nature.com/articles/s41567-022-01683-z&quot; target=&quot;_self&quot;&gt;自然-物理学&lt;/a&gt;》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [车厂致电急求订购25片晶圆 魏哲家：台积电接单2.5万片起跳](https://www.cnbeta.com/articles/tech/1300879.htm) | Thu Aug 04 2022 7:26 PM 
+- 💂 [马斯克：今年或宣布第5家超级工厂计划 最终建10到12家工厂](https://www.cnbeta.com/articles/tech/1300967.htm) | Fri Aug 05 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据路透社报道，台积电总裁魏哲家表示，在汽车芯片严重短缺之前从未接到过汽车行业高管的电话，但过去两年，他们给我打电话，表现得像我最好的朋友一样。魏哲家透露，曾接到过汽车行业高管电话，要求紧急订购25片晶圆。由于台积电接单多以2.5万片起跳，魏哲家回应对方说“难怪你得不到支持”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月5日消息，在美国当地时间周四召开的年会上，首席执行官埃隆·马斯克&lpar;Elon Musk&rpar;在得克萨斯州向人群发表讲话，概述了他的扩张计划。&lt;/strong&gt;他表示，该公司的目标是到2022年底达到每年200万辆的生产速度，并将继续建设工厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [疯涨320倍的尚乘数科股价腰斩 与李嘉诚的关系成热议话题](https://www.cnbeta.com/articles/tech/1300877.htm) | Thu Aug 04 2022 7:22 PM 
+- 🚀 [华纳兄弟探索公司调整流媒体优先战略：DC宇宙将挑战漫威宇宙](https://hot.cnbeta.com/articles/movie/1300965.htm) | Fri Aug 05 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;香港两家鲜为人知的金融服务公司股票正在急速下跌，一如它们此前飞一般的上涨。尚乘集团周四最高重挫39%，子公司尚乘数科跌幅更是一度高达50%。尚乘数科最高峰时股价曾经比上月IPO价高出32000%，市值超过美银、高盛。而这家从事数字业务开发等金融服务的公司截至2021年4月的全年收入仅为2500万美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月5日早间消息，据报道，&lt;strong&gt;当地时间周四，华纳兄弟探索公司（Warner Bros. Discovery ）披露了一项最新战略，希望将HBO Max流媒体服务与Discovery+进行合并，并承诺将对“美国队长”和“钢铁侠”等漫威宇宙发起挑战。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1300965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美国宣布猴痘疫情为突发公共卫生事件](https://www.cnbeta.com/articles/tech/1300875.htm) | Thu Aug 04 2022 7:21 PM 
+- 🎊 [紫金山天文台新发现两颗近地小行星](https://www.cnbeta.com/articles/science/1300963.htm) | Fri Aug 05 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间8月4日，美国卫生与公众服务部部长泽维尔·贝塞拉宣布猴痘疫情为美国突发公共卫生事件。贝塞拉表示，“我们准备将应对猴痘病毒的反应提升到一个新的水平，敦促每个美国人认真对待猴痘，并承担起应对病毒的责任。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1300875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，&lt;em scene=&quot;strong&quot;&gt;国际小行星中心发布公告确认中国科学院紫金山天文台于7月23日、24日新发现两颗近地小行星——2022 OS1和2022 ON1。&lt;/em&gt;&lt;/strong&gt;这两颗小行星均是紫金山天文台盱眙近地天体观测站近地天体望远镜观测到的。至此，该望远镜共发现32颗近地小行星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1300963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
