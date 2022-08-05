@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新上线的iOS应用可阻止Safari中恼人的&quot;在应用程序中打开&quot;弹出窗口](https://www.cnbeta.com/articles/tech/1301217.htm) | Fri Aug 05 2022 10:17 AM 
+- 🕯 [科学家发现灵长类动物和其他动物之间大脑的关键差异](https://www.cnbeta.com/articles/science/1301255.htm) | Fri Aug 05 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;您可能有过这样的经历：在你的iPhone上访问像Reddit或LinkedIn这样的网站时，迎接你的是一个恼人的、几乎全屏的弹出窗口，敦促在他们的应用程序中而不是在网站上查看内容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一个多国研究小组现在已经更好了解物种之间大脑皮层神经元架构的差异&lt;/strong&gt;，这要归功于高分辨率显微镜。波鸿鲁尔大学发育神经生物学研究小组的研究人员在Petra Wahle教授的领导下，已经证明灵长类动物和非灵长类动物在其结构上一个重要差异：轴突的起源，这是负责传输被称为动作电位电信号的过程。这些结果最近发表在《eLife》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [男子用捕鼠贴设天罗地网捉老鼠：结果反被调戏 直接“飞”了过去](https://hot.cnbeta.com/articles/funny/1301215.htm) | Fri Aug 05 2022 10:04 AM 
+- 💼 [身份难辨，未成年人直播打赏怎么管？](https://www.cnbeta.com/articles/tech/1301253.htm) | Fri Aug 05 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;老鼠的智商好像已经越来越高了。据麦穗视频报道，&lt;strong&gt;近日浙江丽水一位男子用捕鼠贴设下天罗地网捉老鼠，没想到老鼠仍成功逃脱。&lt;/strong&gt;他表示，前两天发现家里有老鼠，就想了个办法把路口给封住了，没想到那只老鼠直接跳了过去。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1301215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在“榜一大哥”消失了几个月后，6月底，虚拟主播“桃宝Momoko”（下称“桃宝”）收到了B站直播团队的退款通知。通知的大意是：在平台审核了监护人提供的相应证明材料后，将对桃宝直播间多笔未成年人消费款项予以退还，总金额为142139.9元，同时将扣除主播账户中70267.6元等值的金仓鼠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [GPU性能追赶RTX 3090 有观点认为苹果Mac电脑才是PC游戏的未来](https://www.cnbeta.com/articles/tech/1301213.htm) | Fri Aug 05 2022 10:04 AM 
+- 💂 [亚马逊将以17亿美元收购家用机器人公司iRobot](https://www.cnbeta.com/articles/tech/1301251.htm) | Fri Aug 05 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大部分人玩到的PC游戏都是基于Windows系统的，这一点是Wintel联盟的护城河，Linux以及苹果的Mac也无法与之相比，然而时代不同了，苹果自从有了自研的M1/M2处理器之后，他们的Mac电脑被认为是PC游戏的未来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊今天上午宣布计划以全现金交易的方式收购iRobot，作价17亿美元。这家家用机器人公司以发明机器人扫地机而闻名，公司最初由麻省理工学院人工智能实验室成员科林·安格、罗德尼·布鲁克斯和海伦·格雷纳于1990年创立。创立12年后，该公司推出了Roomba，此后成为机器人扫地机的代名词，截至2020年销量超过3000万台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小鹏G9内饰谍照流出：比理想L9多块仪表盘](https://www.cnbeta.com/articles/tech/1301211.htm) | Fri Aug 05 2022 10:03 AM 
+- 🚀 [DuckDuckGo更严格的隐私保护现在也适用于合作伙伴微软的脚本](https://www.cnbeta.com/articles/tech/1301249.htm) | Fri Aug 05 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;小鹏旗舰SUV车型G9&lt;/strong&gt;的最新内饰现身。根据此前发布的消息来看，该车将于8月10日开启预订，并在9月份正式上市。从此次曝光的内饰谍照来看，与理想L9相似，小鹏G9同样配有大尺寸的联屏，这块屏幕贯穿中控和副驾驶侧，从界面来看，&lt;strong&gt;新车还将配备Xmart OS 4.0 UI操作系统&lt;/strong&gt;，预计在流畅度和易用性方面有较好的表现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在5月份披露了DuckDuckGo（DDG）注重隐私的网络浏览器允许第三方网站的微软跟踪脚本之后，该公司现在说它也将开始阻止这些脚本。DuckDuckGo的浏览器默认第三方跟踪器加载保护已经阻止了嵌入在Facebook、Google和其他网站上的脚本，但直到现在，微软来自Bing和LinkedIn域名的脚本（但不是其第三方cookies）都需要通行证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [楠梓产业园区7日动工 台积电将进驻设厂](https://www.cnbeta.com/articles/tech/1301209.htm) | Fri Aug 05 2022 10:00 AM 
+- 🎊 [被叫“红衣大炮” 周鸿祎回应：现在努力自省 与人为善](https://www.cnbeta.com/articles/tech/1301247.htm) | Fri Aug 05 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国台湾楠梓产业园区将于8月7日动工，台积电已完成签约将进驻设厂。据台媒《经济日报》报道，中国台湾相关部门表示，台积电是楠梓产业园区唯一进驻厂商，园区动工也代表厂区进入建厂阶段，完备产业链关键拼图，高雄将成为全球半导体研发与制造中心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天下午（8月5日）和新东方创始人俞敏洪的直播对话似乎让周鸿祎心情不错，他在微博中还罕见回应了“红衣大炮”的网络“外号”。周鸿祎表示，“&lt;strong&gt;原来人叫我红衣大炮，我现在也努力做到自省，与人为善，给公司创造一个和平发展的环境。我现在跟之前发生矛盾的公司关系也很好。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
