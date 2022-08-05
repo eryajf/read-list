@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国会工作人员披露SEC正在对所有的加密货币交易所展开调查](https://www.cnbeta.com/articles/tech/1301071.htm) | Fri Aug 05 2022 3:44 AM 
+- 🕯 [威刚推ACE 6400 DDR5内存套装：非光污染的清新设计](https://www.cnbeta.com/articles/tech/1301083.htm) | Fri Aug 05 2022 4:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国参议员Cynthia Lummis办公室的一名工作人员披露称，广泛流传的关于美国证券交易委员会&lpar;SEC&rpar;正在调查200亿美元的加密货币交易所Coinbase的报道只是冰山一角而已。该工作人员称，美国的每一家加密货币交易所和世界上最大的加密货币交易所Binance都处于被调查的不同阶段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，威刚（ADATA）推出了型号为 ACE 6400 的全新 DDR5 内存。虽然这款内存的标准版有点平平无奇，采用了银色的散热片；但是它的限量版采用了非常可爱的外观设计，印有五颜六色的花朵图案。对于见惯了光污染的用户来说，这不失为一个比较清新的外观设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [MIT对阿尔茨海默病风险基因的研究揭示潜在的可逆机制](https://www.cnbeta.com/articles/science/1301069.htm) | Fri Aug 05 2022 3:35 AM 
+- 💼 [[图]你每天花在手机APP上的时间是多久？调查显示超过4个小时](https://www.cnbeta.com/articles/tech/1301081.htm) | Fri Aug 05 2022 4:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;麻省理工学院&lpar;MIT&rpar;的科学家们发现了一种机制，即阿尔茨海默病的一个常见遗传风险因素是如何导致该疾病的。&lt;/strong&gt;该机制以脂质代谢为中心，早期调查表明，它最终可能导致新的治疗方法，以减缓疾病的发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据应用市场 data.ai 公布的最新报告，全球很多国家和地区虽然基本上摆脱了疫情的封控影响，但是移动使用量仍在增长。&lt;strong&gt;TikTok 是全球使用量最大的应用程序，而 Instagram 是 2022 年第 2 季度下载量最大的应用程序。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [伴随地球自转加快，Meta公司加入“反闰秒”队伍](https://www.cnbeta.com/articles/science/1301067.htm) | Fri Aug 05 2022 3:28 AM 
+- 💂 [动视暴雪手游收益超过主机+PC 鲍比科蒂克：加大力度](https://hot.cnbeta.com/articles/game/1301079.htm) | Fri Aug 05 2022 4:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月5日上午消息，据报道，&lt;strong&gt;近期，Meta&lpar;Facebook母公司&rpar;加入科技巨头的行列，一起呼吁结束闰秒规则，闰秒是人类对地球自转时间微小变化的复杂解释方式。&lt;/strong&gt;随着Meta公司加入多年来不断呼吁取消闰秒算法的科技企业队伍，一场辩论可能会在2023年全球会议上达到高潮，如果地球继续自转加快，每天的时间会缩短，其缩短趋势可能超出人们的预期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近动视暴雪公布了2022年第二季度财报，财报显示动视暴雪从移动端赚到的钱超过其他所有平台&lpar;主机+PC&rpar;总和，这也突显了《暗黑破坏神：不朽》等热门手游的重要性。目前全球疫情形势依然严峻，游戏公司支出居高不下。而《暗黑破坏神：不朽》帮助动视暴雪提升了收益，这款受欢迎的手游让暴雪手游收益同比增长了462%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [揭秘4.38亿年前古海洋！长江流域华南板块曾是扬子海](https://www.cnbeta.com/articles/science/1301065.htm) | Fri Aug 05 2022 3:27 AM 
+- 🚀 [研究人员开发基于EarHealth耳塞的系统 能准确诊断出常见耳部疾病](https://www.cnbeta.com/articles/science/1301077.htm) | Fri Aug 05 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;早在4.38亿年前的志留纪早期，以我国长江流域为主的华南板块曾是一片广阔的海洋——名为“扬子海”！&lt;/strong&gt;该海域又被进一步分为上、下扬子海，两者通过一狭长的水道相连。更神奇的是，如今远在4000公里之外的塔里木盆地并不在现在的位置，而是与我国的华南板块相连。解开这段神秘古海洋演化历史的端倪，竟是因为两地古鱼类有着非常相似的面貌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;纽约州立大学布法罗分校研究人员领导的团队使用蓝牙耳塞和深度学习人工智能系统，通过简单的非侵入性音频测试诊断三种常见的耳部疾病&lt;/strong&gt;，该测试使用类似声纳的音频鸣叫来绘制出耳部结构。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [雅万高铁动车组下线 时速350公里中国高铁首次出口海外](https://www.cnbeta.com/articles/tech/1301063.htm) | Fri Aug 05 2022 3:26 AM 
+- 🎊 [《古惑狼》工作室员工指控动视暴雪阻挠工会化](https://hot.cnbeta.com/articles/game/1301075.htm) | Fri Aug 05 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国高铁正在加速走向海外——8月5日央视消息，我国出口印尼，用于雅万高铁的高速动车组将在中国中车青岛基地下线。这标志着最高运行时速350公里、中国出口国外的首列高速动车组正式诞生。作为东南亚首条高速铁路，雅万高铁连接印尼首都雅加达和西爪哇省省会万隆，&lt;strong&gt;全长约142公里，是我国高铁首次全系统、全要素、全产业链在海外落地。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;暴雪奥尔巴尼工作室（前身为 Vicarious Visions）的员工近日指责动视暴雪试图破坏工作室建立工会所做的努力。根据奥尔巴尼游戏工会（AlbanyGame Workers Alliance）的说法，该工会为工作室提供更好的工作条件而团结起来，动视暴雪重新雇用了提供避免工会服务的 Reed Smith 律师事务所，以阻止对工会的认可。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
