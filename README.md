@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [PIL 库打开图片保存为 pdf,转的 pdf 文件超级大, 怎么解决](https://www.v2ex.com/t/870986#reply0) | Fri Aug 05 2022 2:03 PM
-- 🤗 [有什么支持过期的 Java 本地内存 KV 存储吗？](https://www.v2ex.com/t/870985#reply3) | Fri Aug 05 2022 1:44 PM
-- 🎭 [matePad11 创建多用户以后，除了机主以外其他用户居然用不了存储卡](https://www.v2ex.com/t/870983#reply0) | Fri Aug 05 2022 1:42 PM
-- 🥷 [怎样让两台设备通过 PC 连接？](https://www.v2ex.com/t/870968#reply9) | Fri Aug 05 2022 12:24 PM
-- 🐵 [请问大家如何确定一个无状态应用何时应该横向扩容、何时应该纵向扩容？](https://www.v2ex.com/t/870967#reply4) | Fri Aug 05 2022 12:17 PM<!-- v2ex:END -->
+- 🥸 [用任何一个图灵完备的编程语言可以实现另一个图灵完备的编程语言 这个理论出自哪里？](https://www.v2ex.com/t/870996#reply0) | Fri Aug 05 2022 2:46 PM
+- 🤗 [PIL 库打开图片保存为 pdf,转的 pdf 文件超级大, 怎么解决](https://www.v2ex.com/t/870986#reply0) | Fri Aug 05 2022 2:03 PM
+- 🎭 [有什么支持过期的 Java 本地内存 KV 存储吗？](https://www.v2ex.com/t/870985#reply5) | Fri Aug 05 2022 1:44 PM
+- 🥷 [matePad11 创建多用户以后，除了机主以外其他用户居然用不了存储卡](https://www.v2ex.com/t/870983#reply0) | Fri Aug 05 2022 1:42 PM
+- 🐵 [怎样让两台设备通过 PC 连接？](https://www.v2ex.com/t/870968#reply9) | Fri Aug 05 2022 12:24 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
