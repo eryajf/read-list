@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [利用PHP的特性做免杀Webshell](https://juejin.cn/post/7128264467406110750) | Fri Aug 05 2022 5:47 AM 
+- 🤗 [第四章、数组](https://juejin.cn/post/7128281943510089758) | Fri Aug 05 2022 6:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    1、数组简介 1.1 数组初始化 为什么要使用数组呢？ 因为有了数组可以更好的存储同类型的值，并做一些操作。 那么如何定义数组呢？ 动态初始化方式1：数据类型 数组名[] = new 数据类型[数组长 
+    </details> 
+
+- 🎡 [利用PHP的特性做免杀Webshell](https://juejin.cn/post/7128264467406110750) | Fri Aug 05 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
     最近很多家厂商都陆续开放了自己的Webshell检测引擎，并且公开接口，邀请众安全研究员参加尝试bypass检测引擎，并且给予奖励，我也参加了几场类似的活动... 
     </details> 
 
-- 🎡 [梳理](https://juejin.cn/post/7128262982634586120) | Fri Aug 05 2022 5:41 AM 
+- 🕯 [梳理](https://juejin.cn/post/7128262982634586120) | Fri Aug 05 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
     整理知识链路和细节 知识整理 1 JavaScript 高级程序设计 基础数据类型 object api array api 2 css flex grid 3 http 协议 
     </details> 
 
-- 🕯 [你需要知道的 CSS 技巧](https://juejin.cn/post/7128245277592387620) | Fri Aug 05 2022 4:33 AM 
+- 🚀 [Blender Python 编程 ：创建发光材质](https://juejin.cn/post/7128250956000526349) | Fri Aug 05 2022 4:55 AM 
     <details><summary>展开描述 ...</summary> 
-    这是 CSS 进阶指南系列文章，本文主要介绍了 CSS 中容易被忽略的细节，通过阅读本文，你将学习 flex-wrap、处理长文本、避免错误的固定尺寸等内容。 
+    在正文第一句加入“我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！” 前言 Blender 并不是唯一一款允许你为场景编程和自动化任务的3D软件; 随着每一个新版本的推出，Blende 
     </details> 
 
-- 🚀 [面试官为啥总是让我们手撕call、apply、bind](https://juejin.cn/post/7128233572380442660) | Fri Aug 05 2022 3:47 AM 
+- 💪 [头脑风暴：零钱兑换](https://juejin.cn/post/7128247578843414541) | Fri Aug 05 2022 4:43 AM 
     <details><summary>展开描述 ...</summary> 
-    工作多年，是否仍旧对一些Javascript基础实现比较模糊。面试官为啥总是喜欢让我们手撕call、apply、bind的实现？本篇用最通俗的话让你知其然，知其所以然。 
-    </details> 
-
-- 💪 [TSF微服务治理实战系列（二）——服务路由](https://juejin.cn/post/7128233368595988487) | Fri Aug 05 2022 3:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    在服务实例数量和规模较大的业务场景下，服务路由是系统比较常见的诉求，比如针对业务属性的全链路灰度、测试环境多分支路由、多Region多AZ时的就近路由等。 
+    题目 给定不同面额的硬币和一个总金额。写出函数来计算可以凑成总金额的硬币组合数。假设每一种面额的硬币有无限个。 示例 1: 输入: amount = 5, coins = [1, 2, 5] 输出:  
     </details> 
 <!-- juejin:END -->
 ### 少数派
