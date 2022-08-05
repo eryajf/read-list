@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [3年来最大变化 华为Mate 50 Pro瀑布屏消失了](https://www.cnbeta.com/articles/tech/1301113.htm) | Fri Aug 05 2022 6:20 AM 
+- 🕯 [吉卜力公园宣传片公布 11月1日正式开园](https://hot.cnbeta.com/articles/comic/1301123.htm) | Fri Aug 05 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;华为“88°超曲环幕屏”因其侧屏向边框延展，形成88°超曲面，外观看上去就像没有边框一样，&lt;/strong&gt;因此也被大家称为瀑布屏。华为首款使用这种屏幕的手机还是3年前的华为Mate 30 Pro，随后又在华为Mate 40 Pro上延续。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（8月5日），即将于11月1日开业的爱知县吉卜力公园发布动画小短片，久石让配乐，铃木敏夫担任旁白，猫巴士载着龙猫、次子、无脸男等登场，车身印着吉卜力公园开幕日期。购票方式也公布，采用预约制：11月份的第一批门票从8月10日开始预约，9月2日公布抽选结果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1301123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [米哈游新作《绝区零》全新PV公布 首测已开启](https://hot.cnbeta.com/articles/game/1301111.htm) | Fri Aug 05 2022 6:18 AM 
+- 💼 [GitLab计划清理基于免费账户的休眠项目以优化成本](https://www.cnbeta.com/articles/tech/1301121.htm) | Fri Aug 05 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日&lpar;8月5日&rpar;米哈游宣布《绝区零》首次测试“调律测试”已正式开启，支持iOS和PC平台，拥有测试资格的玩家可以下载游玩了。官方还公布了全新PV，一起来看看吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本周四，代码托管平台 GitLab 透露了要将免费账户中的“长期休眠项目”清理掉，以大幅削减运营成本。&lt;/strong&gt;The Register 指出，该“多云编程协作服务提供商”打算向超过一年未活跃过的免费内容下手，且预估每年可节省高达百万美元（约占 1/4）的运营成本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [气候变化致美佛罗里达海岸新生海龟性别比失衡：过去四年全为雌性](https://www.cnbeta.com/articles/science/1301109.htm) | Fri Aug 05 2022 6:16 AM 
+- 💂 [HBO Max和Discovery+开始整合 新服务将于明年推出](https://www.cnbeta.com/articles/tech/1301119.htm) | Fri Aug 05 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近年来，全球极端天气事件频发，多国持续遭遇热浪。&lt;strong&gt;美国佛罗里达州沙滩温度因此升高，有科学家称，过去四年中当地海滩边的新生海龟几乎皆为雌性。&lt;/strong&gt;据英国《卫报》8月4日报道， 根据美国国家海洋局研究显示，假使海龟蛋在低于27℃的环境下孵化，为雄性的可能性大；而若在超过31℃的温度下孵化，出生的小海龟将多数是雌性。若温度处于这两个数据之间摇摆不定，则出生的幼龟中雄性和雌性都有。研究人员还发现，沙子温度越高，雌龟的比例就越高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;华纳兄弟探索 &lpar;Warner Bros. Discovery&rpar;公司已经开始整合 Discovery+ 和 HBO Max，整合这两家平台内容的统一流媒体服务将于明年推出。&lt;/strong&gt;该服务除了提供高端的无广告订阅之外，还会提供有广告的精简版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小荷健康宣布全资控股美中宜和，探索优质医疗健康服务](https://www.cnbeta.com/articles/tech/1301107.htm) | Fri Aug 05 2022 6:15 AM 
+- 🚀 [Brevan Howard推出迄今为止规模最大的加密对冲基金](https://www.cnbeta.com/articles/tech/1301117.htm) | Fri Aug 05 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2021年9月，小荷健康科技（北京）有限公司首次投资美中宜和，持股17.5748%。2022年6月，小荷健康旗下小荷香港增持美中宜和41.49%股权。本次增持后，小荷香港、小荷健康科技（北京）有限公司的持股比例分别为69.53%和30.47%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Blockworks报道，&lt;strong&gt;布雷文-霍华德资产管理公司（Brevan Howard Asset Managemen）已经完成了迄今为止规模最大的加密货币对冲基金的推出。&lt;/strong&gt;据四位知情人士透露，该公司专注于数字资产的旗舰工具从机构投资者那里筹集了超过10亿美元的资金--其中绝大部分是在今年早些时候该基金推出时筹集的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [超大尺寸覆盖整个桌面 雷蛇重装甲虫幻彩版3XL鼠标垫发布](https://www.cnbeta.com/articles/tech/1301105.htm) | Fri Aug 05 2022 6:13 AM 
+- 🎊 [全球供应链压力连续3个月缓解 通胀已触顶？](https://www.cnbeta.com/articles/tech/1301115.htm) | Fri Aug 05 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，雷蛇发布了一款重装甲虫幻彩版3XL鼠标垫，较此前同系产品拥有更大的面积。&lt;strong&gt;目前，该鼠标垫已经开启预约，售价799元&lt;/strong&gt;。据悉，这款鼠标垫的尺寸为1200mm &lpar;长&rpar; X 550mm &lpar;宽&rpar; X 3.5mm &lpar;厚&rpar; ，对比现有的重装甲虫幻彩版加长款（920mm x 294mm x 3mm）都大出许多，可以覆盖整个桌面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;当地时间周四（8月4日），根据纽约联邦储备银行公布的全球供应链压力指数（GSCPI）显示，供应链限制连续第3个月获得缓解，创2021年1月以来最低。&lt;/strong&gt;同时，该联储银行还指出，GSCPI当中大多数的分项指数7月份普遍走低。不过， 2022年初以来GSCPI的走势显示，尽管全球供应链压力持续降低，但仍处于历史高位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
