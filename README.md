@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [老板给了个 PHP 的网站包, 让我部署一下, 是部署到 apche 还是 nginx 好呢?](https://www.v2ex.com/t/870894#reply0) | Fri Aug 05 2022 7:10 AM
-- 🤗 [获取系统的 disk IO 速度有什么好办法吗？](https://www.v2ex.com/t/870891#reply1) | Fri Aug 05 2022 7:01 AM
-- 🎭 [遭遇电信诈骗求白帽子大佬出手](https://www.v2ex.com/t/870889#reply2) | Fri Aug 05 2022 6:41 AM
-- 🥷 [CFCA p7SignMessageDetach 有谁能给个 golang 版本的吗](https://www.v2ex.com/t/870887#reply0) | Fri Aug 05 2022 6:28 AM
-- 🐵 [在没有完善设计文档的情况下，如何有效阅读一个大型系统代码？](https://www.v2ex.com/t/870881#reply4) | Fri Aug 05 2022 6:10 AM<!-- v2ex:END -->
+- 🥸 [联通 1000M 宽带 插网线后 SpeedTest 下载速度只能跑到 940Mbps 左右](https://www.v2ex.com/t/870915#reply2) | Fri Aug 05 2022 8:12 AM
+- 🤗 [一点认知：解释权与批量制造的大聪明](https://www.v2ex.com/t/870908#reply0) | Fri Aug 05 2022 7:55 AM
+- 🎭 [刚入门 k8s，想请问如何制作一次性 pod。求指导！](https://www.v2ex.com/t/870905#reply1) | Fri Aug 05 2022 7:46 AM
+- 🥷 [Copilot 的 token 过期了，要如何修改呢 ？](https://www.v2ex.com/t/870904#reply3) | Fri Aug 05 2022 7:43 AM
+- 🐵 [打开 PowerShell 时出现 The volume for a file has been externally altered ...](https://www.v2ex.com/t/870902#reply0) | Fri Aug 05 2022 7:39 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
