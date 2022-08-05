@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [引用增加20% 原来法官也会在维基上搜历史判例](http://jandan.net/p/111060) | Fri Aug 05 2022 3:50 AM 
+- 🚀 [在猪死亡一小时后，让心和脑的重启循环和恢复细胞活动](http://jandan.net/p/111088) | Fri Aug 05 2022 8:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    直接挑战了心/脑死亡是不可逆的观点 
+    </details> 
+
+- 🙉 [引用增加20% 原来法官也会在维基上搜历史判例](http://jandan.net/p/111060) | Fri Aug 05 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     首个调查 法律解释来源对司法行为影响 的随机现场实验 
     </details> 
 
-- 🙉 [今日好价 0805](http://jandan.net/p/111084) | Fri Aug 05 2022 3:12 AM 
+- 🎉 [今日好价 0805](http://jandan.net/p/111084) | Fri Aug 05 2022 3:12 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [暴雪和网易取消了已开发三年的魔兽世界手游](http://jandan.net/p/111083) | Thu Aug 04 2022 2:04 PM 
+- 🐲 [暴雪和网易取消了已开发三年的魔兽世界手游](http://jandan.net/p/111083) | Thu Aug 04 2022 2:04 PM 
     <details><summary>展开描述 ...</summary> 
     腾讯正在将《使命召唤》系列游戏移植到移动端。 
     </details> 
 
-- 🐲 [狗子能用鼻子看东西？脑成像发现 狗鼻子直通视觉皮层](http://jandan.net/p/111034) | Thu Aug 04 2022 10:11 AM 
+-  [狗子能用鼻子看东西？脑成像发现 狗鼻子直通视觉皮层](http://jandan.net/p/111034) | Thu Aug 04 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
     “我们从未在其它动物中看到鼻子和枕叶之间的这种联系“ 
-    </details> 
-
--  [第一次用相机捕捉到单个原子在液体中的运动](http://jandan.net/p/111073) | Thu Aug 04 2022 5:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    观察原子世界是极其困难的 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
