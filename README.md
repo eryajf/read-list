@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [怎样让两台设备通过 PC 连接？](https://www.v2ex.com/t/870968#reply9) | Fri Aug 05 2022 12:24 PM
-- 🤗 [请问大家如何确定一个无状态应用何时应该横向扩容、何时应该纵向扩容？](https://www.v2ex.com/t/870967#reply4) | Fri Aug 05 2022 12:17 PM
-- 🎭 [某个 package 的库文件没有经过 babel 处理，导致在 browserify 时报错](https://www.v2ex.com/t/870966#reply2) | Fri Aug 05 2022 12:09 PM
-- 🥷 [请问 autohotkey 如何设置切换不同应用？](https://www.v2ex.com/t/870965#reply2) | Fri Aug 05 2022 11:50 AM
-- 🐵 [有可能可以忽略 error，使得 vite build 正常通过嘛？](https://www.v2ex.com/t/870961#reply2) | Fri Aug 05 2022 11:34 AM<!-- v2ex:END -->
+- 🥸 [PIL 库打开图片保存为 pdf,转的 pdf 文件超级大, 怎么解决](https://www.v2ex.com/t/870986#reply0) | Fri Aug 05 2022 2:03 PM
+- 🤗 [有什么支持过期的 Java 本地内存 KV 存储吗？](https://www.v2ex.com/t/870985#reply3) | Fri Aug 05 2022 1:44 PM
+- 🎭 [matePad11 创建多用户以后，除了机主以外其他用户居然用不了存储卡](https://www.v2ex.com/t/870983#reply0) | Fri Aug 05 2022 1:42 PM
+- 🥷 [怎样让两台设备通过 PC 连接？](https://www.v2ex.com/t/870968#reply9) | Fri Aug 05 2022 12:24 PM
+- 🐵 [请问大家如何确定一个无状态应用何时应该横向扩容、何时应该纵向扩容？](https://www.v2ex.com/t/870967#reply4) | Fri Aug 05 2022 12:17 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
