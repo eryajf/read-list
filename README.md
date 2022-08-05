@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Intel承认独立显卡驱动表现糟糕 将持续优化DX9/11游戏](https://www.cnbeta.com/articles/tech/1301293.htm) | Fri Aug 05 2022 6:41 PM 
+- 🕯 [梦工厂动画宣布将于年底前开源 MoonRay 制作渲染器](https://www.cnbeta.com/articles/tech/1301297.htm) | Fri Aug 05 2022 11:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;梦工厂动画公司（DreamWorks Animation）今天宣布，计划于 2022 年晚些时候开源 MoonRay 制作渲染器。使用这款 MoonRay 渲染器，梦工厂制作了《驯龙高手：隐秘的世界》、《坏蛋联盟》、《穿靴子的猫2》以及其他动画电影。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [[图]乌克兰警方捣毁一处用于传播假新闻的机器农场](https://www.cnbeta.com/articles/tech/1301295.htm) | Fri Aug 05 2022 10:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;乌克兰警方近日关闭了设在该国境内、有俄罗斯人运营的大型机器农场（Bot Farm），该农场用于在社交网络上传播有关战争的政治宣传和假新闻。&lt;/strong&gt;虽然这并不是乌克兰网络警察（SSU）关闭的首个此类农场，却是缴获规模最大的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Intel承认独立显卡驱动表现糟糕 将持续优化DX9/11游戏](https://www.cnbeta.com/articles/tech/1301293.htm) | Fri Aug 05 2022 6:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Intel Arc独立显卡的问题很多，最头疼也是最难以解决的，还是驱动优化，尤其是游戏性能的适配。Intel自己也承认，Arc显卡在DX12游戏上的优化最为到位，可以稳定高性能运行，而且能够提供无与伦比的性价比，Vulkan也基本到位，而更老的DX11、DX9还差得多，比如《古墓丽影》，Arc A770 DX12模式下能够跑出80FPS，DX11下就只有39FPS。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国产手机冲击高端 又双叒叕失败了……](https://www.cnbeta.com/articles/tech/1301291.htm) | Fri Aug 05 2022 6:40 PM 
+- 🚀 [国产手机冲击高端 又双叒叕失败了……](https://www.cnbeta.com/articles/tech/1301291.htm) | Fri Aug 05 2022 6:40 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;前两天，微博上&amp;nbsp;@数码闲聊站&amp;nbsp;的一番话，引起了托尼的兴趣。这段话直接&amp;nbsp;AOE&amp;nbsp;（&amp;nbsp;范围伤害 ）国产手机厂商的旗舰机，销量扑街。&lt;/strong&gt;不过细究起来，好像自从华为被制裁后，就从没听到过有&amp;nbsp;“&amp;nbsp;冲高成功&amp;nbsp;”&amp;nbsp;的案例。为什么呢？简单说，高端机的几个标志是什么？&lt;strong&gt;豪华的参数，顶尖的芯片性能，考究的外观工艺，六千以上的价格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [配送最后一公里 压垮每日优鲜？](https://www.cnbeta.com/articles/tech/1301289.htm) | Fri Aug 05 2022 6:35 PM 
+- 🎊 [配送最后一公里 压垮每日优鲜？](https://www.cnbeta.com/articles/tech/1301289.htm) | Fri Aug 05 2022 6:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在每日优鲜“原地解散”的风波中，首当其冲的就是“30分钟达”。每日优鲜对媒体回应称，在实现盈利的大目标下，公司对业务及组织进行调整，次日达、智慧菜场、零售云等业务不受影响。每日优鲜的APP也发布通知称，配送时间由原来的最快30分钟送达变为最快次日送达。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [信用卡积分规则密集调整 线上交易积分更“值钱”](https://www.cnbeta.com/articles/tech/1301287.htm) | Fri Aug 05 2022 6:33 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期，多家银行密集发布信用卡积分规则调整公告。日前，中信银行发布公告称，自2022年9月14日（以实际执行日期为准）起，该行信用卡积分规则进行调整。《证券日报》记者梳理发现，近年来，不少银行对信用卡积分规则及发卡策略进行细化调整。包括取消部分商户类别刷卡交易积分累计，增加线上支付累计积分权益等规则。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [标准版Apple Watch Series 8传闻采用与Series 7相同的外壳设计](https://www.cnbeta.com/articles/tech/1301285.htm) | Fri Aug 05 2022 4:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Twitter用户@ShrimpApplePro称，Apple Watch Series 8的标准41毫米和45毫米型号将采用与Apple Watch Series 7相同的设计，之前是他首先透露iPhone 14 Pro型号将采用新的圆形+药丸孔显示屏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
