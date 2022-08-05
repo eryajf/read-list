@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [物理学家在有记录的最低压力条件下实现室温超导](https://www.cnbeta.com/articles/science/1301095.htm) | Fri Aug 05 2022 5:22 AM 
+- 🕯 [3年来最大变化 华为Mate 50 Pro瀑布屏消失了](https://www.cnbeta.com/articles/tech/1301113.htm) | Fri Aug 05 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不到两年前，科学界被一种能实现室温超导的材料的发现所震惊。现在，内华达大学拉斯维加斯分校&lpar;UNLV&rpar;的一个物理学家团队通过在有记录的最低压力下再现这一壮举并再次提高了难度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;华为“88°超曲环幕屏”因其侧屏向边框延展，形成88°超曲面，外观看上去就像没有边框一样，&lt;/strong&gt;因此也被大家称为瀑布屏。华为首款使用这种屏幕的手机还是3年前的华为Mate 30 Pro，随后又在华为Mate 40 Pro上延续。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [超轻量化设计，5口合1，联想小新 USB-C 五合一多功能拓展坞评测](https://www.cnbeta.com/articles/tech/1301093.htm) | Fri Aug 05 2022 5:16 AM 
+- 💼 [米哈游新作《绝区零》全新PV公布 首测已开启](https://hot.cnbeta.com/articles/game/1301111.htm) | Fri Aug 05 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;现在愈来愈多的商务办公人士出行无不随身携带笔记本，而对于笔记本而言，多类型的接口将可满足各式各样的场景需求，但随着近年来的商务笔记本接口数量趋向于同类化，虽配备拓展性能更加的雷电接口，但外设太多，并不能一一同时接入。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日&lpar;8月5日&rpar;米哈游宣布《绝区零》首次测试“调律测试”已正式开启，支持iOS和PC平台，拥有测试资格的玩家可以下载游玩了。官方还公布了全新PV，一起来看看吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [涨价实现盈利？优酷日均付费用户增长15%：连续亏损状况好转](https://www.cnbeta.com/articles/tech/1301091.htm) | Fri Aug 05 2022 5:11 AM 
+- 💂 [气候变化致美佛罗里达海岸新生海龟性别比失衡：过去四年全为雌性](https://www.cnbeta.com/articles/science/1301109.htm) | Fri Aug 05 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月5日，&lt;strong&gt;阿里巴巴在最新公开的2023年第一季度财报中显示，优酷视频连续五个季度的亏损收窄，日均付费用户增长15%，而这可能与早前会员资费上涨有关。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近年来，全球极端天气事件频发，多国持续遭遇热浪。&lt;strong&gt;美国佛罗里达州沙滩温度因此升高，有科学家称，过去四年中当地海滩边的新生海龟几乎皆为雌性。&lt;/strong&gt;据英国《卫报》8月4日报道， 根据美国国家海洋局研究显示，假使海龟蛋在低于27℃的环境下孵化，为雄性的可能性大；而若在超过31℃的温度下孵化，出生的小海龟将多数是雌性。若温度处于这两个数据之间摇摆不定，则出生的幼龟中雄性和雌性都有。研究人员还发现，沙子温度越高，雌龟的比例就越高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [继《蝙蝠女》之后 DC《超女》电影可能也要被砍](https://hot.cnbeta.com/articles/movie/1301089.htm) | Fri Aug 05 2022 5:08 AM 
+- 🚀 [小荷健康宣布全资控股美中宜和，探索优质医疗健康服务](https://www.cnbeta.com/articles/tech/1301107.htm) | Fri Aug 05 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;几天前，我们报道过华纳取消DC电影《蝙蝠女》发行计划的消息，据《滚石》杂志报道，新组建的华纳高层要砍掉的不仅仅是《蝙蝠女》，其他DC超英项目都岌岌可危。“正在开发中的《超女》不太可能继续了，”内部人士表示。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2021年9月，小荷健康科技（北京）有限公司首次投资美中宜和，持股17.5748%。2022年6月，小荷健康旗下小荷香港增持美中宜和41.49%股权。本次增持后，小荷香港、小荷健康科技（北京）有限公司的持股比例分别为69.53%和30.47%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [字节跳动全资收购高端妇儿医院“美中宜和”：反垄断审查已获通过](https://www.cnbeta.com/articles/tech/1301087.htm) | Fri Aug 05 2022 5:06 AM 
+- 🎊 [超大尺寸覆盖整个桌面 雷蛇重装甲虫幻彩版3XL鼠标垫发布](https://www.cnbeta.com/articles/tech/1301105.htm) | Fri Aug 05 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据国家企业信用信息公示系统显示，6月24日，美中宜和新增股东Xiaohe Health （Hong Kong） LIMITED（小荷健康香港有限公司），其持股比例为69.5%，与此前的股东小荷健康科技（北京）有限公司持股的30.5%相加，共计持股100%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久，雷蛇发布了一款重装甲虫幻彩版3XL鼠标垫，较此前同系产品拥有更大的面积。&lt;strong&gt;目前，该鼠标垫已经开启预约，售价799元&lt;/strong&gt;。据悉，这款鼠标垫的尺寸为1200mm &lpar;长&rpar; X 550mm &lpar;宽&rpar; X 3.5mm &lpar;厚&rpar; ，对比现有的重装甲虫幻彩版加长款（920mm x 294mm x 3mm）都大出许多，可以覆盖整个桌面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
