@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[图]Windows 10获得源自Windows 11的打印新功能](https://www.cnbeta.com/articles/tech/1301175.htm) | Fri Aug 05 2022 8:21 AM 
+- 🕯 [报告显示：《暗黑不朽》50%玩家之前从未玩过暗黑](https://hot.cnbeta.com/articles/game/1301197.htm) | Fri Aug 05 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软此前曾承诺会在未来将 Windows 11 系统中某些功能下放至 Windows 10 系统中，近期 Windows 10 就获得了这样一项新功能。&lt;strong&gt;Windows 10 系统现在也可以为打印作业添加 PIN 码。只有用户在打印机上正确输入 PIN 码之后，打印作业才会开始。这是避免重复连接/错误打印输出的新方法之一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《暗黑破坏神：不朽》发售后取得了巨大成功，或许比动视暴雪的预期还要大。这款手游为玩家们带来刺激体验，并有一些全新的机制和功能。虽然该作微交易系统颇受争议，但其核心游戏性、图形和系统都很强大。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [卫星图像显示阿拉斯加基奈峡湾国家公园冰川边缘的退缩](https://www.cnbeta.com/articles/science/1301173.htm) | Fri Aug 05 2022 8:16 AM 
+- 💼 [上海一款自动驾驶航空器适航审定取得新进展，可搭载4人](https://www.cnbeta.com/articles/tech/1301195.htm) | Fri Aug 05 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着世界各地的冰川因气候变化而退缩，国家公园的管理者需要了解地平线上的情况，以便为未来做好准备。&lt;strong&gt;一项新研究测量了基奈峡湾国家公园冰川38年的变化。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月5日，澎湃新闻记者从上海市金山区获悉，中国民航华东地区管理局领导及适航审定处相关负责人一行，于当日到访位于金山区的华东无人机基地，与峰飞航空共同签署“关于电动垂直起降航空器（eVTOL）安全合作的备忘录”，并现场观看了峰飞自动驾驶eVTOL航空器盛世龙的演示飞行，标志着eVTOL型号适航取证和合格审定工作取得了重要新进展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [RTX 4080规格爆料更新：420W TBP、性能较3090 Ti领先35%](https://www.cnbeta.com/articles/tech/1301171.htm) | Fri Aug 05 2022 8:14 AM 
+- 💂 [清凉一夏 任天堂免费提供2022夏季特别壁纸](https://hot.cnbeta.com/articles/game/1301193.htm) | Fri Aug 05 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在昨日更新了英伟达 GeForce RTX 4070 的预期规格和性能之后，&lt;strong&gt;知名爆料人 @Kopite7kimi 现又在 Twitter 上分享了传说中的 RTX 4080 显卡规格。&lt;/strong&gt;预计该型号会配备由 84 砍到 76 组 SM 单元 / 9728 个 CUDA 核心的 AD103-300 GPU（早前传闻为 80 组 SM 单元 / 10240 个 CUDA 核心）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;任天堂发布了2022年夏季马里奥原创壁纸，供大家下载。壁纸可在PC、手机，平板等多种设备上使用。这个夏日，任天堂也在第一方大作上全面发力，反向跳票的《异度神剑3》，《任天堂Switch运动》的夏季更新，以及今日推出的《马里奥赛车8豪华版》第二弹DLC等，陪伴着玩家们度过清凉一夏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [ChromeOS 104稳定版发布 大幅改善交互体验](https://www.cnbeta.com/articles/tech/1301169.htm) | Fri Aug 05 2022 8:11 AM 
+- 🚀 [国产显卡风华3号即将完工 光线追踪性表现酷炫](https://www.cnbeta.com/articles/tech/1301191.htm) | Fri Aug 05 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;ChromeOS 104 稳定版于今天正式推出，可改善你的交互体验。ChromeOS 104 引入了适合用户界面各个方面的深色和浅色主题。这包括底部导航条、应用程序启动器、文件应用程序以及各种设置页面的背景。您可以从快速设置的第二页启用深色主题。Google还根据设置的主题创建了“从浅色到深色的微妙变化”的壁纸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周，芯动科技在湖北武汉发布了风华2号桌面GPU。会上，总裁敖海&lt;a class=&quot;f14_link&quot; href=&quot;https://www.innosilicon.cn/home/News/index/id/140.html&quot; target=&quot;_blank&quot;&gt;透露&lt;/a&gt;，&lt;strong&gt;目前“风华3号”已基本完成研发，将为国内用户提供超大算力光追等酷炫性能。&lt;/strong&gt;支持光追或许意味着，风华3号会支持Win10/11 DX12 API、开源Vulkan API等图形接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微软可能正在为Windows 11开发一个包含圆角的任务栏](https://www.cnbeta.com/articles/tech/1301167.htm) | Fri Aug 05 2022 7:57 AM 
+- 🎊 [斯坦福大学的神经科学家探索如何让衰老的大脑重新焕发活力](https://www.cnbeta.com/articles/science/1301189.htm) | Fri Aug 05 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管Windows 11中的任务栏由于各种原因面临着公众的反感，但微软一直在不断地对其进行试验。最近的例子包括溢出控制和搜索小部件。&lt;strong&gt;现在，该公司似乎也在秘密研究圆角任务栏，如图所示，圆角任务栏意外出现在Reddit用户u/caipira113的最新Windows 11 Dev通道的build 25174版本上。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;斯坦福大学神经科学家Tony Wyss-Coray博士花了20年时间发现和研究各种具有神经保护和神经退行性的分子。&lt;/strong&gt;这些分子存在于大脑的不同细胞类型中或其上，也存在于与之相邻的血管上，或漂浮在血液和沐浴着它的脑脊液中。随着我们的年龄增长，它们变得越来越重要。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
