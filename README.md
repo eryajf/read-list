@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [印度政府宣布撤回本国数据保护法案](https://www.freebuf.com/news/341137.html) | Fri Aug 05 2022 4:00 AM 
+- 🦄 [【深度】OpenSea 新协议 Seaport源码解析](https://www.freebuf.com/articles/blockchain-articles/338188.html) | Fri Aug 05 2022 8:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    近期，NFT 市场 OpenSea 宣布推出全新 Web3 市场协议 Seaport 协议，用于安全高效地买卖 NFT。本文将深度分析其关键业务实现和接口实现。 
+    </details> 
+
+- 🦄 [记一次非法网站渗透](https://www.freebuf.com/articles/web/283700.html) | Fri Aug 05 2022 7:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章原文在我的个人公众号（ZAC安全）中，部分有争议的内容已修改。 
+    </details> 
+
+- 🦅 [印度政府宣布撤回本国数据保护法案](https://www.freebuf.com/news/341137.html) | Fri Aug 05 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
     8月3日，印度电子和信息技术国务部长Rajeev Chandrasekhar宣布，于2019年颁布的《数据保护法案》已正式撤回。 
     </details> 
 
-- 🦄 [过去一年里，游戏行业的网络攻击爆增167%](https://www.freebuf.com/news/341114.html) | Fri Aug 05 2022 3:27 AM 
+- 🪄 [过去一年里，游戏行业的网络攻击爆增167%](https://www.freebuf.com/news/341114.html) | Fri Aug 05 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
     网络安全公司Akamai发布了最新的报告。 
     </details> 
 
-- 🦅 [DrayTek爆出RCE漏洞，影响旗下29个型号的路由器](https://www.freebuf.com/news/341124.html) | Fri Aug 05 2022 3:26 AM 
+- 💻 [DrayTek爆出RCE漏洞，影响旗下29个型号的路由器](https://www.freebuf.com/news/341124.html) | Fri Aug 05 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员发现一个严重的远程代码执行漏洞，会对29种型号的DrayTek Vigor商业路由器产生严重影响。 
-    </details> 
-
-- 🪄 [德国工商总会被网络攻击打爆了](https://www.freebuf.com/news/341115.html) | Fri Aug 05 2022 2:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    网络攻击组织盯上了 DIHK，对其发起了大规模的网络攻击。DIHK无力面对如此强力的网络攻击，直接躺平。 
-    </details> 
-
-- 💻 [Solana被盗500万美元，具体原因尚不明确](https://www.freebuf.com/news/341112.html) | Fri Aug 05 2022 2:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    攻击者从区块链平台Solana窃取了超过500万美元，具体的失窃原因仍在进一步调查中调查中。 
     </details> 
 <!-- freebuf:END -->
 
