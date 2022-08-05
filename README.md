@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [没有按摩师也没关系，你可以用这些方法和工具「自我修复」](https://sspai.com/post/75002) | Fri Aug 05 2022 3:37 AM 
+- 👹 [一日一技 | 把日历同步交给私有云：群晖 NAS 配置 Synology Calendar](https://sspai.com/post/74993) | Fri Aug 05 2022 6:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    相比使用其他公有云的日历服务，私有云的日历服务数据信息可控，本文就以群晖为例，教你搭建一个私有云日历服务。&lt;a href=&quot;https://sspai.com/post/74993&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [没有按摩师也没关系，你可以用这些方法和工具「自我修复」](https://sspai.com/post/75002) | Fri Aug 05 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     免责和警示信息：本文作者与文章所涉内容之间无直接利益相关。文中介绍的自助按摩手法和工具皆出自合法出版物。自助按摩存在禁忌症和禁忌部位，在实施时务必预先了解自己的身体状况并小心行事。按摩不能代替任何医学 ...&lt;a href=&quot;https://sspai.com/post/75002&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：InnLead Innovative 推出无线便携显示器、Apple 上线全新诊断工具](https://sspai.com/post/75000) | Fri Aug 05 2022 12:59 AM 
+- 🤭 [派早报：InnLead Innovative 推出无线便携显示器、Apple 上线全新诊断工具](https://sspai.com/post/75000) | Fri Aug 05 2022 12:59 AM 
     <details><summary>展开描述 ...</summary> 
     网易云音乐升级「听歌识曲」功能，JBL 推出 QUANTUM TWS 真无线耳机等&lt;a href=&quot;https://sspai.com/post/75000&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新玩意 115｜少数派的编辑们最近买了啥？](https://sspai.com/post/74997) | Thu Aug 04 2022 9:19 AM 
+- 🥸 [新玩意 115｜少数派的编辑们最近买了啥？](https://sspai.com/post/74997) | Thu Aug 04 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/74997&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [有无相生，长短相形：Nothing Phone &lpar;1&rpar; 上手体验](https://sspai.com/post/74925) | Thu Aug 04 2022 8:00 AM 
+- 🙉 [有无相生，长短相形：Nothing Phone &lpar;1&rpar; 上手体验](https://sspai.com/post/74925) | Thu Aug 04 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     Nothing new, something else.&lt;a href=&quot;https://sspai.com/post/74925&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [一派·Podcast | 旅居、阅读、写作，以及身体和灵魂的自由](https://sspai.com/post/74990) | Thu Aug 04 2022 6:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    「自由撰稿人」这个身份的幸福之处并不是自由本身，而是多出了时间和空间，对身边熟悉的事物产生不同维度的感悟。&lt;a href=&quot;https://sspai.com/post/74990&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
