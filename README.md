@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Dart 知识点 - 抽象类和接口](https://juejin.cn/post/7128406077502128142) | Fri Aug 05 2022 2:57 PM 
+- 🤗 [手把手教你定位线上MySQL锁超时问题，包教包会](https://juejin.cn/post/7128419961415925790) | Fri Aug 05 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-    抽象类用于描述父类拥有的一种行为，但是无法给出细节实现，需要子类来实现抽象的细节。可以简单理解抽象类就是伪代码。 
+    昨晚我正在床上睡得着着的，突然来了一条短信。 什么？线上的订单无法取消！ 我赶紧登录线上系统，查看业务日志。 发现有MySQL锁超时的错误日志。 
     </details> 
 
-- 🎡 [001_重学Vue_Vue简介](https://juejin.cn/post/7128404295799537701) | Fri Aug 05 2022 2:49 PM 
+- 🎡 [Go-Excelize API源码阅读（五）—— Close&lpar;&rpar;、NewSheet&lpar;&rpar;](https://juejin.cn/post/7128410261039349796) | Fri Aug 05 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
-    一、什么是 Vue Vue 是一款构建用户界面的渐进式的 JavaScript 框架。 构建用户界面是指：在适当的时候拿到数据通过某种办法，变成用户看得到的界面。 渐进式是指：如果你只要实现一个简单的 
+    此API的作用是关闭工作簿并清理打开文档时可能产生的系统磁盘缓存。本文着重介绍这两个API是如何工作的，深入挖掘它们。 
     </details> 
 
-- 🕯 [技术周报·Google V8引擎浅析：内存管理](https://juejin.cn/post/7128402403505733639) | Fri Aug 05 2022 2:42 PM 
+- 🕯 [什么是 HTTPS 的证书信任链？自己给自己发行不行？](https://juejin.cn/post/7128409253722718244) | Fri Aug 05 2022 3:09 PM 
     <details><summary>展开描述 ...</summary> 
-    编辑推荐：Google V8引擎浅析-内存管理；浅谈 Web3.0：动手做一个去中心化 APP；初探 Vue3 编译之美，等 
+    互联网应用的网络通信一般都是通过 HTTP，但 HTTP 是明文传输的，容易泄漏信息，所以大多数应用都会升级为 HTTPS。 HTTP 底层是用 TCP 传输的，HTTPS 就是在 TCP 和 HTT 
     </details> 
 
-- 🚀 [性能优化之 preload、prefetch、preconnect 的区别与使用](https://juejin.cn/post/7128400578467594248) | Fri Aug 05 2022 2:35 PM 
+- 🚀 [看一遍就会：0-1 背包问题](https://juejin.cn/post/7128408424362016781) | Fri Aug 05 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    今天讲的三个属性都是在 link 标签上使用的，使用形式如下： 初看起来，这三个属性设置起来比较简单，但是如果使用得当，效果却会非常棒。比如 奈飞 通过使用 prefetch 把 TTI &lpar; Time 
+    基本介绍 今天就来说一下背包问题吧，就讨论最常说的 0-1 背包问题，简单描述一下吧： 给你一个可装载重量为W的背包和N个物品，每个物品有重量和价值两个属性。其中第i个物品的重量为wt[i]，价值为v 
     </details> 
 
-- 💪 [「趣学前端」box-shadow的多重用法](https://juejin.cn/post/7128399045629853704) | Fri Aug 05 2022 2:29 PM 
+- 💪 [Chrome操作指南——入门篇（五）Snippets](https://juejin.cn/post/7128407387156774943) | Fri Aug 05 2022 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情。我身边一些非互联网技术从业的朋友，偶尔对我的工作表示兴趣。所以我开了一个趣学前端系列。 
+    有时候我们浏览一个壁纸网站的时候，可能我们想把这个页面的图片地址全都扒过来，可能你会下载一个工具，获取通过别的途径来实现。但今天我要告诉你，JavaScript也可以，配合上你的浏览器，几行代码帮你轻 
     </details> 
 <!-- juejin:END -->
 ### 少数派
