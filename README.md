@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [韩国实施《国家尖端战略产业法》 推动半导体产业发展](https://www.cnbeta.com/articles/tech/1301261.htm) | Fri Aug 05 2022 1:16 PM 
+- 🕯 [面部识别智能手表将被用于监控英国的外国罪犯](https://www.cnbeta.com/articles/tech/1301265.htm) | Fri Aug 05 2022 1:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;根据内政部和司法部的计划，&lt;strong&gt;被判定犯有刑事罪的移民将被要求使用安装有面部识别技术的智能手表，每天最多扫描五次面部。&lt;/strong&gt;今年5月，政府授予英国技术公司Buddi Limited一份合同，以提供非安装设备来监控特定人群，以作为内政部卫星追踪服务的一部分。该计划将从秋季开始在英国各地推行，初期费用为600万英镑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [初创公司希望使用电磁铁而不是燃料来让航天器调整位置](https://www.cnbeta.com/articles/tech/1301263.htm) | Fri Aug 05 2022 1:42 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;人们很容易把卫星想象成一群迷你的月亮，无缝地绕着地球运行，没有任何明显的）运动。&lt;strong&gt;但是这并不完全正确：卫星和其他航天器经常需要对其在轨道上的位置进行相当持续的调整。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [韩国实施《国家尖端战略产业法》 推动半导体产业发展](https://www.cnbeta.com/articles/tech/1301261.htm) | Fri Aug 05 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;韩国国际广播电台8月4日报道，韩国《国家尖端战略产业法》4日起正式实施。该法将半导体等产业技术指定为国家尖端战略技术并加强扶持。据了解，被称为“半导体特别法”的《关于加强与保护国家尖端战略产业竞争力的特别措施法》（《国家尖端战略产业法》）于8月4日起正式实施。该法将通过指定特色园区、支援基础设施、放宽核心规制等，大幅加强对半导体等战略产业领域企业投资的支援。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [法官裁定凯文·史派西和他的制作公司必须向《纸牌屋》片方支付3090万美元](https://hot.cnbeta.com/articles/movie/1301259.htm) | Fri Aug 05 2022 1:15 PM 
+- 🚀 [法官裁定凯文·史派西和他的制作公司必须向《纸牌屋》片方支付3090万美元](https://hot.cnbeta.com/articles/movie/1301259.htm) | Fri Aug 05 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;周四，一名法官裁定凯文·史派西和他的制作公司必须向《纸牌屋》的制作者支付近3090万美元，补偿因为他在 2017 年因对剧组人员的性骚扰而被解雇所带来的损失。&lt;/strong&gt;洛杉矶高等法院法官梅尔·雷德·雷卡纳 &lpar;Mel Red Recana&rpar; 的裁决有利于 MRC 和其他制作 Netflix 系列的公司。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [统计显示2022年上半年美国大多数移动游戏收入下降](https://hot.cnbeta.com/articles/game/1301257.htm) | Fri Aug 05 2022 12:47 PM 
+- 🎊 [统计显示2022年上半年美国大多数移动游戏收入下降](https://hot.cnbeta.com/articles/game/1301257.htm) | Fri Aug 05 2022 12:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Sensor Tower游戏情报&lt;em&gt;数据&lt;/em&gt;显示，2022年上半年，&lt;strong&gt;美国大多数移动游戏类型的玩家支出和下载量都有所下降，市场同比下降了9.6%，达到114亿美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [科学家发现灵长类动物和其他动物之间大脑的关键差异](https://www.cnbeta.com/articles/science/1301255.htm) | Fri Aug 05 2022 12:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一个多国研究小组现在已经更好了解物种之间大脑皮层神经元架构的差异&lt;/strong&gt;，这要归功于高分辨率显微镜。波鸿鲁尔大学发育神经生物学研究小组的研究人员在Petra Wahle教授的领导下，已经证明灵长类动物和非灵长类动物在其结构上一个重要差异：轴突的起源，这是负责传输被称为动作电位电信号的过程。这些结果最近发表在《eLife》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [身份难辨，未成年人直播打赏怎么管？](https://www.cnbeta.com/articles/tech/1301253.htm) | Fri Aug 05 2022 12:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在“榜一大哥”消失了几个月后，6月底，虚拟主播“桃宝Momoko”（下称“桃宝”）收到了B站直播团队的退款通知。通知的大意是：在平台审核了监护人提供的相应证明材料后，将对桃宝直播间多笔未成年人消费款项予以退还，总金额为142139.9元，同时将扣除主播账户中70267.6元等值的金仓鼠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
