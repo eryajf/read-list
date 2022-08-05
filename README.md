@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Rxjs 监听使用不精确，版本上线晚了3个小时](https://juejin.cn/post/7128391769112182792) | Fri Aug 05 2022 2:01 PM 
+- 🤗 [Dart 知识点 - 抽象类和接口](https://juejin.cn/post/7128406077502128142) | Fri Aug 05 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 导语 最近在开发新feature，周五需要版本合并，上线。可是从DevTool Network请求记录来看 
+    抽象类用于描述父类拥有的一种行为，但是无法给出细节实现，需要子类来实现抽象的细节。可以简单理解抽象类就是伪代码。 
     </details> 
 
-- 🎡 [VS Code如何打造C/C++开发环境？](https://juejin.cn/post/7128388084516782110) | Fri Aug 05 2022 1:47 PM 
+- 🎡 [001_重学Vue_Vue简介](https://juejin.cn/post/7128404295799537701) | Fri Aug 05 2022 2:49 PM 
     <details><summary>展开描述 ...</summary> 
-    VS Code这几年非常受欢迎，对于大多数编程语言，只需要简单的安装解释器/编译器就可以轻松的运行。 例如，Python，只需要取官网下载对应版本的Python并安装，就可以在VS Code进行Pyt 
+    一、什么是 Vue Vue 是一款构建用户界面的渐进式的 JavaScript 框架。 构建用户界面是指：在适当的时候拿到数据通过某种办法，变成用户看得到的界面。 渐进式是指：如果你只要实现一个简单的 
     </details> 
 
-- 🕯 [Redux中间件及其开发者工具](https://juejin.cn/post/7128387064625627172) | Fri Aug 05 2022 1:43 PM 
+- 🕯 [技术周报·Google V8引擎浅析：内存管理](https://juejin.cn/post/7128402403505733639) | Fri Aug 05 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 一、redux中间件&lpar;redux-thunk&rpar; 安装命令: npm i redux-thunk 在你创建的 
+    编辑推荐：Google V8引擎浅析-内存管理；浅谈 Web3.0：动手做一个去中心化 APP；初探 Vue3 编译之美，等 
     </details> 
 
-- 🚀 [C++为什么始终无法取代 C 吗？](https://juejin.cn/post/7128386432623706126) | Fri Aug 05 2022 1:41 PM 
+- 🚀 [性能优化之 preload、prefetch、preconnect 的区别与使用](https://juejin.cn/post/7128400578467594248) | Fri Aug 05 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
-    Linux之父Linus Torvald对C++有过一段评价：“C++ can’t solve the problem of the C language at all, it will only m 
+    今天讲的三个属性都是在 link 标签上使用的，使用形式如下： 初看起来，这三个属性设置起来比较简单，但是如果使用得当，效果却会非常棒。比如 奈飞 通过使用 prefetch 把 TTI &lpar; Time 
     </details> 
 
-- 💪 [Linux的难题，终于有解了！](https://juejin.cn/post/7128386191942139911) | Fri Aug 05 2022 1:39 PM 
+- 💪 [「趣学前端」box-shadow的多重用法](https://juejin.cn/post/7128399045629853704) | Fri Aug 05 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
-    删除文件，无论是在windows还是Linux都是非常频繁的操作，使用Windows时有回收站，如果删错了还可以恢复，但是，使用Linux则不然，rm -rf应该是一种噩梦版的存在，一旦删错，再也无法 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情。我身边一些非互联网技术从业的朋友，偶尔对我的工作表示兴趣。所以我开了一个趣学前端系列。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
