@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [第四章、数组](https://juejin.cn/post/7128281943510089758) | Fri Aug 05 2022 6:54 AM 
+- 🤗 [全屏DialogFragment](https://juejin.cn/post/7128301452937658404) | Fri Aug 05 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    1、数组简介 1.1 数组初始化 为什么要使用数组呢？ 因为有了数组可以更好的存储同类型的值，并做一些操作。 那么如何定义数组呢？ 动态初始化方式1：数据类型 数组名[] = new 数据类型[数组长 
+    在DialogFragment的oncreate里面做 setStyle在onCreate里面设置才有效。 参考: # 全屏DialogFragment # Android中如何让DialogFrag 
     </details> 
 
-- 🎡 [利用PHP的特性做免杀Webshell](https://juejin.cn/post/7128264467406110750) | Fri Aug 05 2022 5:47 AM 
+- 🎡 [【Java面试】讲下线程池的线程回收](https://juejin.cn/post/7128275990131769381) | Fri Aug 05 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-    最近很多家厂商都陆续开放了自己的Webshell检测引擎，并且公开接口，邀请众安全研究员参加尝试bypass检测引擎，并且给予奖励，我也参加了几场类似的活动... 
+    &gt; 大家好，我是Mic，一个工作了14年的Java程序员。 &gt; &gt; 最近很多小伙伴私信我，让我说一些线程池相关的问题。 &gt; &gt; 线程池这个方向考察的点还挺多的，如果只是靠刷面试题 &gt; &gt; 面试 
     </details> 
 
-- 🕯 [梳理](https://juejin.cn/post/7128262982634586120) | Fri Aug 05 2022 5:41 AM 
+- 🕯 [Bpmn.js 进阶之Lint流程校验&lpar;二&rpar;](https://juejin.cn/post/7128275767389061127) | Fri Aug 05 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-    整理知识链路和细节 知识整理 1 JavaScript 高级程序设计 基础数据类型 object api array api 2 css flex grid 3 http 协议 
+    在之前的文章中已经把 bpmn.js 的执行原理和模块扩展方式都做了一些简单介绍，对 Renderer 
     </details> 
 
-- 🚀 [Blender Python 编程 ：创建发光材质](https://juejin.cn/post/7128250956000526349) | Fri Aug 05 2022 4:55 AM 
+- 🚀 [【前端团队】统一的请求方案](https://juejin.cn/post/7128274771652902925) | Fri Aug 05 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-    在正文第一句加入“我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！” 前言 Blender 并不是唯一一款允许你为场景编程和自动化任务的3D软件; 随着每一个新版本的推出，Blende 
+    最近都在整理团队建设相关的事项，发现还是有不少事情可以记录一下的。例如本次的主题：请求方案的封装。在封装请求之前，我们需要知道，为什么我们需要做这个封装，而不是为了封装而封装。 
     </details> 
 
-- 💪 [头脑风暴：零钱兑换](https://juejin.cn/post/7128247578843414541) | Fri Aug 05 2022 4:43 AM 
+- 💪 [加薪神器 | 让前端爽翻天的终极秘诀！](https://juejin.cn/post/7128274347029954574) | Fri Aug 05 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-    题目 给定不同面额的硬币和一个总金额。写出函数来计算可以凑成总金额的硬币组合数。假设每一种面额的硬币有无限个。 示例 1: 输入: amount = 5, coins = [1, 2, 5] 输出:  
+    让工作变得流程规范化，各司其职，应该是每个互联网打工人的心愿。 但现实却是，不少公司现在还是“一人多职”，原本只需敲代码的程序员都有可能从“需求调研、系统设计、落地开发”全流程来跟进；而对于那些原本就 
     </details> 
 <!-- juejin:END -->
 ### 少数派
