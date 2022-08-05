@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [UI自动化测试 - 基础理论概念部分](https://juejin.cn/post/7128227625738338318) | Fri Aug 05 2022 3:24 AM 
+- 🤗 [多业务模式下的交易链路探索与实践](https://juejin.cn/post/7128227554053341221) | Fri Aug 05 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 1. 自动化测试介绍 1.1 概念 由程序代替人工进行系统校验的过程 1.2 自动化测试能够解决的问题 回 
+    并发模型解决无状态的复杂并发场景&lpar;如商品列表页、详情页、首页等&rpar;，而FSM主要解决复杂业务场景交易链路状态流转的问题，但FSM的应用场景不止于交易订单，还可用于其他有状态的链路场景，比如OA工作流。 
     </details> 
 
-- 🎡 [从一道面试题进入Java并发新机制---J.U.C](https://juejin.cn/post/7128226794745888776) | Fri Aug 05 2022 3:20 AM 
+- 🎡 [Apache APISIX Ingress v1.5-rc1 发布](https://juejin.cn/post/7128227255179804686) | Fri Aug 05 2022 3:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    Apache APISIX Ingress Controller v1.5-rc1 版本正式发布。此版本历时 7 个月左右的时间，由 36 位贡献者进行了 144 次提交。其中有 22 位新晋贡献者， 
+    </details> 
+
+- 🕯 [iOS小技能:参数名ASCII码从小到大排序、对象数组排序](https://juejin.cn/post/7128227091081854990) | Fri Aug 05 2022 3:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    利用KVC的 valueForKeyPath API、NSPredicate、数组的sortedArrayUsingComparator:API进行实现。 
+    </details> 
+
+- 🚀 [从一道面试题进入Java并发新机制---J.U.C](https://juejin.cn/post/7128226794745888776) | Fri Aug 05 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 从一道面试题进入Java并发新机制---J.U.C 什么是 J.U.C ？ 它是 Java java.u 
     </details> 
 
-- 🕯 [Python分支语句注意事项](https://juejin.cn/post/7128216572682272799) | Fri Aug 05 2022 2:41 AM 
+- 💪 [pnpm 对 npm 和 yarn 降维打击；低代码远程组件加载方案；智能家居+树莓派 | 酱酱的下午茶第44期](https://juejin.cn/post/7128223962034634788) | Fri Aug 05 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
-    一、单分支语句：if语句 1.语法: 2.注意事项: 1）if语句首先判断&lt;条件&gt;的结果值，如果结果为True，则执行语句块里的语句序列。如果结果为False，语句块里的语句会被跳过；  2）语句块是 
-    </details> 
-
-- 🚀 [Python的指针:有什么意义？](https://juejin.cn/post/7128216126797905950) | Fri Aug 05 2022 2:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    目录 为什么Python没有指针？ Python中的对象 不可变对象和可变对象 了解变量 C的变量  Python的名称 关于Python的预实现对象的注释 在Python中模拟指针 使用可变类型作为 
-    </details> 
-
-- 💪 [完美解决github访问速度慢](https://juejin.cn/post/7128214696208891912) | Fri Aug 05 2022 2:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    试过了很多办法来提高github的访问速度，但是到最后花里胡哨的东西一大堆，真正有用的没有多少。话不多说，直接上活。 
+    本期看点：pnpm 是凭什么对 npm 和 yarn 降维打击的；浅谈低代码平台远程组件加载方案；if err != nil 太烦？Go 创始人教你如何对错误进行编程... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
