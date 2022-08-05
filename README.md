@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751386) | Thu Aug 04 2022 12:27 AM
-- 🐻 [有氧运动真的会掉肌肉吗？](http://daily.zhihu.com/story/9751345) | Thu Aug 04 2022 12:27 AM
-- 🌏 [为什么人不能近亲结婚，而其它动物近亲则没有什么问题？](http://daily.zhihu.com/story/9751353) | Thu Aug 04 2022 12:27 AM
-- 🕴 [如何看待「人类逐地震带而居」的现象？](http://daily.zhihu.com/story/9751363) | Thu Aug 04 2022 12:27 AM
-- 🌮 [为什么你更喜欢的是杨德昌，而不是侯孝贤？](http://daily.zhihu.com/story/9751369) | Thu Aug 04 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751425) | Fri Aug 05 2022 12:27 AM
+- 🐻 [学龄前儿童，过早接触博物馆、艺术馆、科技馆等会对孩子产生什么样的影响?](http://daily.zhihu.com/story/9751399) | Fri Aug 05 2022 12:27 AM
+- 🌏 [都说土到极致便是潮，你知道的时尚圈到底有哪些「谜之审美」？](http://daily.zhihu.com/story/9751400) | Fri Aug 05 2022 12:27 AM
+- 🕴 [云南野生菌这么好吃吗？](http://daily.zhihu.com/story/9751408) | Fri Aug 05 2022 12:27 AM
+- 🌮 [为什么《古惑仔》中山鸡哥的人气那么高？](http://daily.zhihu.com/story/9751417) | Fri Aug 05 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
