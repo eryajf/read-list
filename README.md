@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [德国工商总会被网络攻击打爆了](https://www.freebuf.com/news/341115.html) | Fri Aug 05 2022 2:48 AM 
+- 🦄 [印度政府宣布撤回本国数据保护法案](https://www.freebuf.com/news/341137.html) | Fri Aug 05 2022 4:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    8月3日，印度电子和信息技术国务部长Rajeev Chandrasekhar宣布，于2019年颁布的《数据保护法案》已正式撤回。 
+    </details> 
+
+- 🦄 [过去一年里，游戏行业的网络攻击爆增167%](https://www.freebuf.com/news/341114.html) | Fri Aug 05 2022 3:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    网络安全公司Akamai发布了最新的报告。 
+    </details> 
+
+- 🦅 [DrayTek爆出RCE漏洞，影响旗下29个型号的路由器](https://www.freebuf.com/news/341124.html) | Fri Aug 05 2022 3:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    研究人员发现一个严重的远程代码执行漏洞，会对29种型号的DrayTek Vigor商业路由器产生严重影响。 
+    </details> 
+
+- 🪄 [德国工商总会被网络攻击打爆了](https://www.freebuf.com/news/341115.html) | Fri Aug 05 2022 2:48 AM 
     <details><summary>展开描述 ...</summary> 
     ，网络攻击组织盯上了 DIHK，对其发起了大规模的网络攻击。DIHK无力面对如此强力的网络攻击，直接躺平。 
     </details> 
 
-- 🦄 [区块链行业遭供应链攻击，上万加密钱包被“抄底”损失上亿美元](https://www.freebuf.com/articles/blockchain-articles/341089.html) | Thu Aug 04 2022 12:43 PM 
+- 💻 [区块链行业遭供应链攻击，上万加密钱包被“抄底”损失上亿美元](https://www.freebuf.com/articles/blockchain-articles/341089.html) | Thu Aug 04 2022 12:43 PM 
     <details><summary>展开描述 ...</summary> 
     据科技媒体TechCrunch报道，若干名未知攻击者“抄底”了上万个加密钱包，钱包内有价值上亿美元的代币。 
-    </details> 
-
-- 🦅 [FreeBuf早报 | 澳大利亚隐私监管机构调查 TikTok；GitLab 计划删除免费账户中的休眠项目](https://www.freebuf.com/articles/341076.html) | Thu Aug 04 2022 10:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    澳大利亚隐私监管机构 表态，正在遵循监管行动政策，核查一份报告中指出的 TikTok 数据隐私问题。 
-    </details> 
-
-- 🪄 [CVE-2022-26138 Confluence Server硬编码漏洞分析](https://www.freebuf.com/vuls/341027.html) | Thu Aug 04 2022 6:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    Atlassian发布7月的安全更新，涉及到Confluence Server的多个漏洞，其中CVE-2022-26138为一个硬编码漏洞。 
-    </details> 
-
-- 💻 [GitHub 3.5万个代码库被黑？谣言，只是被恶意复制](https://www.freebuf.com/news/341016.html) | Thu Aug 04 2022 5:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    虽然“GitHub 3.5万个代码库被攻击”是一个乌龙事件，但是有软件工程师发现，大约有数千个GitHub代码库正在被恶意复制。 
     </details> 
 <!-- freebuf:END -->
 
