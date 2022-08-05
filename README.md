@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [全屏DialogFragment](https://juejin.cn/post/7128301452937658404) | Fri Aug 05 2022 8:10 AM 
+- 🤗 [【七夕限定盲盒抽奖】一文带你搞懂盲盒抽奖的页面配置](https://juejin.cn/post/7128289656327634975) | Fri Aug 05 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-    在DialogFragment的oncreate里面做 setStyle在onCreate里面设置才有效。 参考: # 全屏DialogFragment # Android中如何让DialogFrag 
+    基于Serverless架构的盲盒抽奖系统 当前，Serverless在移动应用、游戏等场景已经实现规模化应用，Serverless 技术可以更好的帮助开发者只关注应用创新，减少对开发与运维的过度关注 
     </details> 
 
-- 🎡 [【Java面试】讲下线程池的线程回收](https://juejin.cn/post/7128275990131769381) | Fri Aug 05 2022 6:32 AM 
+- 🎡 [Flutter ChartSpace：通过跨端 Canvas 实现图表库](https://juejin.cn/post/7128289168991453220) | Fri Aug 05 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt; 大家好，我是Mic，一个工作了14年的Java程序员。 &gt; &gt; 最近很多小伙伴私信我，让我说一些线程池相关的问题。 &gt; &gt; 线程池这个方向考察的点还挺多的，如果只是靠刷面试题 &gt; &gt; 面试 
+    作者：豆皮范儿 一、背景 数据平台有个基于图形语法的图表库 ChartSpace ，支持 web/h5/mini program，现在收到业务诉求，要支持到 Flutter 端。 为方便理解，稍微解释 
     </details> 
 
-- 🕯 [Bpmn.js 进阶之Lint流程校验&lpar;二&rpar;](https://juejin.cn/post/7128275767389061127) | Fri Aug 05 2022 6:30 AM 
+- 🕯 [使用 Monaco Editor 开发 SQL 编辑器](https://juejin.cn/post/7128286357545287693) | Fri Aug 05 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-    在之前的文章中已经把 bpmn.js 的执行原理和模块扩展方式都做了一些简单介绍，对 Renderer 
+    使用 Monaco Editor 写了一个 SQL 编辑器，实现了不少功能。在此记录下开发过程及相关经验。 
     </details> 
 
-- 🚀 [【前端团队】统一的请求方案](https://juejin.cn/post/7128274771652902925) | Fri Aug 05 2022 6:26 AM 
+- 🚀 [签署 CLA 是开源开发者的保护伞还是枷锁？](https://juejin.cn/post/7128285536321552392) | Fri Aug 05 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-    最近都在整理团队建设相关的事项，发现还是有不少事情可以记录一下的。例如本次的主题：请求方案的封装。在封装请求之前，我们需要知道，为什么我们需要做这个封装，而不是为了封装而封装。 
+    为解决大家的疑惑，下周三&lpar;8/10&rpar; 20:00-21:30 ，来自华为开源能力中心专家高琨、都广科技创始人、OpenCLA/开源建木核心开发者刘新、竞天公诚律师事务所吴筱雪将做客Gitee直播间。 
     </details> 
 
-- 💪 [加薪神器 | 让前端爽翻天的终极秘诀！](https://juejin.cn/post/7128274347029954574) | Fri Aug 05 2022 6:25 AM 
+- 💪 [使用 JMeter API 创建 JMX 并执行测试](https://juejin.cn/post/7128278282771890190) | Fri Aug 05 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-    让工作变得流程规范化，各司其职，应该是每个互联网打工人的心愿。 但现实却是，不少公司现在还是“一人多职”，原本只需敲代码的程序员都有可能从“需求调研、系统设计、落地开发”全流程来跟进；而对于那些原本就 
+    一、实现 JavaSamplerClient 接口对 JavaMethod 进行测试 在 JMeter GUI 界面中添加 Java Request 二、使用 JMeter API 执行本地的 JMX 
     </details> 
 <!-- juejin:END -->
 ### 少数派
