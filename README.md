@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【七夕限定盲盒抽奖】一文带你搞懂盲盒抽奖的页面配置](https://juejin.cn/post/7128289656327634975) | Fri Aug 05 2022 7:24 AM 
+- 🤗 [上新 | 从0到1数据库内核实战教程直播开始啦](https://juejin.cn/post/7128317726187061285) | Fri Aug 05 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-    基于Serverless架构的盲盒抽奖系统 当前，Serverless在移动应用、游戏等场景已经实现规模化应用，Serverless 技术可以更好的帮助开发者只关注应用创新，减少对开发与运维的过度关注 
+    还在为不够了解数据库内核而烦恼？ 想参加 2022 OceanBase 数据库大赛却不知从何入手？ 想提升研发效率，提升工作技能 想成为开源项目的 Contributor！ 是否感觉自己虽然熟悉用 S 
     </details> 
 
-- 🎡 [Flutter ChartSpace：通过跨端 Canvas 实现图表库](https://juejin.cn/post/7128289168991453220) | Fri Aug 05 2022 7:23 AM 
+- 🎡 [【访谈】Eotalk Vol.01：Eoapi，我们希望以开源的方式构建 API 生态系统](https://juejin.cn/post/7128316272068001823) | Fri Aug 05 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-    作者：豆皮范儿 一、背景 数据平台有个基于图形语法的图表库 ChartSpace ，支持 web/h5/mini program，现在收到业务诉求，要支持到 Flutter 端。 为方便理解，稍微解释 
+    ![]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/154b053dedab4d2592a797c77618b3a9~tplv-k3u1fbp 
     </details> 
 
-- 🕯 [使用 Monaco Editor 开发 SQL 编辑器](https://juejin.cn/post/7128286357545287693) | Fri Aug 05 2022 7:12 AM 
+- 🕯 [【访谈】Eotalk Vol.02：从极客到 CEO，开发者应该如何提升技术领导力？](https://juejin.cn/post/7128316181466841096) | Fri Aug 05 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    使用 Monaco Editor 写了一个 SQL 编辑器，实现了不少功能。在此记录下开发过程及相关经验。 
+    ![]&lpar;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5024451851034e8a999012b5b2b9bd75~tplv-k3u1fbp 
     </details> 
 
-- 🚀 [签署 CLA 是开源开发者的保护伞还是枷锁？](https://juejin.cn/post/7128285536321552392) | Fri Aug 05 2022 7:09 AM 
+- 🚀 [面对枯燥和量大的知识 怎么学习](https://juejin.cn/post/7128311839888244743) | Fri Aug 05 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    为解决大家的疑惑，下周三&lpar;8/10&rpar; 20:00-21:30 ，来自华为开源能力中心专家高琨、都广科技创始人、OpenCLA/开源建木核心开发者刘新、竞天公诚律师事务所吴筱雪将做客Gitee直播间。 
+    序 我一直以来都保持着 每月最少一本书的学习，学习方法上也有过很多尝试。毕竟每个人 不同的时间 不同的环境 适合的学习方法都可能不一样。 随着现在社会，wx 博客，公众号等快餐式信息的涌来，而真正有效 
     </details> 
 
-- 💪 [使用 JMeter API 创建 JMX 并执行测试](https://juejin.cn/post/7128278282771890190) | Fri Aug 05 2022 6:40 AM 
+- 💪 [Element 2 组件源码剖析之Loading 加载--指令实现](https://juejin.cn/post/7128295333267767327) | Fri Aug 05 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-    一、实现 JavaSamplerClient 接口对 JavaMethod 进行测试 在 JMeter GUI 界面中添加 Java Request 二、使用 JMeter API 执行本地的 JMX 
+    加载组件 `Loading` 常用于页面和区块的加载中状态，页面局部处于等待异步数据或正在渲染过程时，合适的加载动效会有效缓解用户的焦虑。本文将分析其源码实现，耐心读完，相信会对您有所帮助。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
