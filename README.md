@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [IDEA Spring Boot 插件收费了吗](https://www.v2ex.com/t/870791#reply0) | Fri Aug 05 2022 1:39 AM
-- 🤗 [Python 读取 txt 数据存 mangodb](https://www.v2ex.com/t/870781#reply2) | Fri Aug 05 2022 1:12 AM
-- 🎭 [obsidian 每次启动好慢呀，总是加载工作区中](https://www.v2ex.com/t/870775#reply5) | Fri Aug 05 2022 12:53 AM
-- 🥷 [学习周刊-总第 65 期-一个能够让你在本地运行调试 GitHub Actions 的工具](https://www.v2ex.com/t/870768#reply2) | Thu Aug 04 2022 11:59 PM
-- 🐵 [SQL 苦手来请教各位大佬了。](https://www.v2ex.com/t/870762#reply21) | Thu Aug 04 2022 9:48 PM<!-- v2ex:END -->
+- 🥸 [swagger yaml 手写？](https://www.v2ex.com/t/870835#reply0) | Fri Aug 05 2022 3:36 AM
+- 🤗 [使用的 conda，有公共库的概念吗](https://www.v2ex.com/t/870833#reply0) | Fri Aug 05 2022 3:32 AM
+- 🎭 [VScode 搜索并 Open in editor 后出现不匹配条目](https://www.v2ex.com/t/870832#reply0) | Fri Aug 05 2022 3:32 AM
+- 🥷 [webgl 有哪些成熟的、生态良好、持续维护的开发生态？](https://www.v2ex.com/t/870827#reply1) | Fri Aug 05 2022 3:21 AM
+- 🐵 [请教一下，前端真的会有算法诉求吗？](https://www.v2ex.com/t/870826#reply10) | Fri Aug 05 2022 3:18 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
