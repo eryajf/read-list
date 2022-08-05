@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Paysa - 适用于金融科技和银行应用程序的 124 页和 286 个符号](https://xinquji.com/posts/178500?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:41 AM 
+- 👀 [WTFcrypto - 帮助您最终了解加密货币的时事通讯](https://xinquji.com/posts/178520?utm_campaign=xinquji-rss) | Sat Aug 06 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     适用于金融科技和银行应用程序的 124 页和 286 个符号  
+     帮助您最终了解加密货币的时事通讯  
     </details> 
 
-- 🥷 [Highlight - 自信地了解和调试客户问题](https://xinquji.com/posts/178499?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:38 AM 
+- 🥷 [Email Marketing Funnel Guide - 电子邮件营销电子书](https://xinquji.com/posts/178519?utm_campaign=xinquji-rss) | Sat Aug 06 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     自信地了解和调试客户问题  
+     电子邮件营销电子书  
     </details> 
 
-- 💼 [CodeShield - 检测并修复您的 AWS 账户中的 IAM 权限升级](https://xinquji.com/posts/178498?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:37 AM 
+- 💼 [Klasshour - 即时课外支持](https://xinquji.com/posts/178518?utm_campaign=xinquji-rss) | Sat Aug 06 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     检测并修复您的 AWS 账户中的 IAM 权限升级  
+     即时课外支持  
     </details> 
 
-- 🦅 [Open source SAML SSO &lpar;by BoxyHQ&rpar; - 只需几行代码即可集成企业 SSO](https://xinquji.com/posts/178497?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:36 AM 
+- 🦅 [mintibbl - 与你的朋友一起画画、猜猜和铸币](https://xinquji.com/posts/178517?utm_campaign=xinquji-rss) | Sat Aug 06 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     只需几行代码即可集成企业 SSO  
+     与你的朋友一起画画、猜猜和铸币  
     </details> 
 
-- 😺 [Radar by Meshed Labs - 在被骗之前拦截恶意交易](https://xinquji.com/posts/178496?utm_campaign=xinquji-rss) | Fri Aug 05 2022 6:35 AM 
+- 😺 [Legislate - 律师批准了没有法律预算的合同](https://xinquji.com/posts/178516?utm_campaign=xinquji-rss) | Sat Aug 06 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     在被骗之前拦截恶意交易  
+     律师批准了没有法律预算的合同  
     </details> 
 <!-- xinquji:END -->
