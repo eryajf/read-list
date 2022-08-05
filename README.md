@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家发现灵长类动物和其他动物之间大脑的关键差异](https://www.cnbeta.com/articles/science/1301255.htm) | Fri Aug 05 2022 12:29 PM 
+- 🕯 [韩国实施《国家尖端战略产业法》 推动半导体产业发展](https://www.cnbeta.com/articles/tech/1301261.htm) | Fri Aug 05 2022 1:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;韩国国际广播电台8月4日报道，韩国《国家尖端战略产业法》4日起正式实施。该法将半导体等产业技术指定为国家尖端战略技术并加强扶持。据了解，被称为“半导体特别法”的《关于加强与保护国家尖端战略产业竞争力的特别措施法》（《国家尖端战略产业法》）于8月4日起正式实施。该法将通过指定特色园区、支援基础设施、放宽核心规制等，大幅加强对半导体等战略产业领域企业投资的支援。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [法官裁定凯文·史派西和他的制作公司必须向《纸牌屋》片方支付3090万美元](https://hot.cnbeta.com/articles/movie/1301259.htm) | Fri Aug 05 2022 1:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;周四，一名法官裁定凯文·史派西和他的制作公司必须向《纸牌屋》的制作者支付近3090万美元，补偿因为他在 2017 年因对剧组人员的性骚扰而被解雇所带来的损失。&lt;/strong&gt;洛杉矶高等法院法官梅尔·雷德·雷卡纳 &lpar;Mel Red Recana&rpar; 的裁决有利于 MRC 和其他制作 Netflix 系列的公司。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [统计显示2022年上半年美国大多数移动游戏收入下降](https://hot.cnbeta.com/articles/game/1301257.htm) | Fri Aug 05 2022 12:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Sensor Tower游戏情报&lt;em&gt;数据&lt;/em&gt;显示，2022年上半年，&lt;strong&gt;美国大多数移动游戏类型的玩家支出和下载量都有所下降，市场同比下降了9.6%，达到114亿美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [科学家发现灵长类动物和其他动物之间大脑的关键差异](https://www.cnbeta.com/articles/science/1301255.htm) | Fri Aug 05 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;一个多国研究小组现在已经更好了解物种之间大脑皮层神经元架构的差异&lt;/strong&gt;，这要归功于高分辨率显微镜。波鸿鲁尔大学发育神经生物学研究小组的研究人员在Petra Wahle教授的领导下，已经证明灵长类动物和非灵长类动物在其结构上一个重要差异：轴突的起源，这是负责传输被称为动作电位电信号的过程。这些结果最近发表在《eLife》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [身份难辨，未成年人直播打赏怎么管？](https://www.cnbeta.com/articles/tech/1301253.htm) | Fri Aug 05 2022 12:28 PM 
+- 🎊 [身份难辨，未成年人直播打赏怎么管？](https://www.cnbeta.com/articles/tech/1301253.htm) | Fri Aug 05 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在“榜一大哥”消失了几个月后，6月底，虚拟主播“桃宝Momoko”（下称“桃宝”）收到了B站直播团队的退款通知。通知的大意是：在平台审核了监护人提供的相应证明材料后，将对桃宝直播间多笔未成年人消费款项予以退还，总金额为142139.9元，同时将扣除主播账户中70267.6元等值的金仓鼠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [亚马逊将以17亿美元收购家用机器人公司iRobot](https://www.cnbeta.com/articles/tech/1301251.htm) | Fri Aug 05 2022 12:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊今天上午宣布计划以全现金交易的方式收购iRobot，作价17亿美元。这家家用机器人公司以发明机器人扫地机而闻名，公司最初由麻省理工学院人工智能实验室成员科林·安格、罗德尼·布鲁克斯和海伦·格雷纳于1990年创立。创立12年后，该公司推出了Roomba，此后成为机器人扫地机的代名词，截至2020年销量超过3000万台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [DuckDuckGo更严格的隐私保护现在也适用于合作伙伴微软的脚本](https://www.cnbeta.com/articles/tech/1301249.htm) | Fri Aug 05 2022 12:24 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在5月份披露了DuckDuckGo（DDG）注重隐私的网络浏览器允许第三方网站的微软跟踪脚本之后，该公司现在说它也将开始阻止这些脚本。DuckDuckGo的浏览器默认第三方跟踪器加载保护已经阻止了嵌入在Facebook、Google和其他网站上的脚本，但直到现在，微软来自Bing和LinkedIn域名的脚本（但不是其第三方cookies）都需要通行证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [被叫“红衣大炮” 周鸿祎回应：现在努力自省 与人为善](https://www.cnbeta.com/articles/tech/1301247.htm) | Fri Aug 05 2022 12:20 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天下午（8月5日）和新东方创始人俞敏洪的直播对话似乎让周鸿祎心情不错，他在微博中还罕见回应了“红衣大炮”的网络“外号”。周鸿祎表示，“&lt;strong&gt;原来人叫我红衣大炮，我现在也努力做到自省，与人为善，给公司创造一个和平发展的环境。我现在跟之前发生矛盾的公司关系也很好。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
