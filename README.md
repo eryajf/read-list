@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [吉卜力公园宣传片公布 11月1日正式开园](https://hot.cnbeta.com/articles/comic/1301123.htm) | Fri Aug 05 2022 7:15 AM 
+- 🕯 [[图]Windows 10获得源自Windows 11的打印新功能](https://www.cnbeta.com/articles/tech/1301175.htm) | Fri Aug 05 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（8月5日），即将于11月1日开业的爱知县吉卜力公园发布动画小短片，久石让配乐，铃木敏夫担任旁白，猫巴士载着龙猫、次子、无脸男等登场，车身印着吉卜力公园开幕日期。购票方式也公布，采用预约制：11月份的第一批门票从8月10日开始预约，9月2日公布抽选结果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1301123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软此前曾承诺会在未来将 Windows 11 系统中某些功能下放至 Windows 10 系统中，近期 Windows 10 就获得了这样一项新功能。&lt;strong&gt;Windows 10 系统现在也可以为打印作业添加 PIN 码。只有用户在打印机上正确输入 PIN 码之后，打印作业才会开始。这是避免重复连接/错误打印输出的新方法之一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [GitLab计划清理基于免费账户的休眠项目以优化成本](https://www.cnbeta.com/articles/tech/1301121.htm) | Fri Aug 05 2022 6:40 AM 
+- 💼 [卫星图像显示阿拉斯加基奈峡湾国家公园冰川边缘的退缩](https://www.cnbeta.com/articles/science/1301173.htm) | Fri Aug 05 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;本周四，代码托管平台 GitLab 透露了要将免费账户中的“长期休眠项目”清理掉，以大幅削减运营成本。&lt;/strong&gt;The Register 指出，该“多云编程协作服务提供商”打算向超过一年未活跃过的免费内容下手，且预估每年可节省高达百万美元（约占 1/4）的运营成本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着世界各地的冰川因气候变化而退缩，国家公园的管理者需要了解地平线上的情况，以便为未来做好准备。&lt;strong&gt;一项新研究测量了基奈峡湾国家公园冰川38年的变化。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [HBO Max和Discovery+开始整合 新服务将于明年推出](https://www.cnbeta.com/articles/tech/1301119.htm) | Fri Aug 05 2022 6:31 AM 
+- 💂 [RTX 4080规格爆料更新：420W TBP、性能较3090 Ti领先35%](https://www.cnbeta.com/articles/tech/1301171.htm) | Fri Aug 05 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;华纳兄弟探索 &lpar;Warner Bros. Discovery&rpar;公司已经开始整合 Discovery+ 和 HBO Max，整合这两家平台内容的统一流媒体服务将于明年推出。&lt;/strong&gt;该服务除了提供高端的无广告订阅之外，还会提供有广告的精简版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在昨日更新了英伟达 GeForce RTX 4070 的预期规格和性能之后，&lt;strong&gt;知名爆料人 @Kopite7kimi 现又在 Twitter 上分享了传说中的 RTX 4080 显卡规格。&lt;/strong&gt;预计该型号会配备由 84 砍到 76 组 SM 单元 / 9728 个 CUDA 核心的 AD103-300 GPU（早前传闻为 80 组 SM 单元 / 10240 个 CUDA 核心）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Brevan Howard推出迄今为止规模最大的加密对冲基金](https://www.cnbeta.com/articles/tech/1301117.htm) | Fri Aug 05 2022 6:30 AM 
+- 🚀 [ChromeOS 104稳定版发布 大幅改善交互体验](https://www.cnbeta.com/articles/tech/1301169.htm) | Fri Aug 05 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Blockworks报道，&lt;strong&gt;布雷文-霍华德资产管理公司（Brevan Howard Asset Managemen）已经完成了迄今为止规模最大的加密货币对冲基金的推出。&lt;/strong&gt;据四位知情人士透露，该公司专注于数字资产的旗舰工具从机构投资者那里筹集了超过10亿美元的资金--其中绝大部分是在今年早些时候该基金推出时筹集的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;ChromeOS 104 稳定版于今天正式推出，可改善你的交互体验。ChromeOS 104 引入了适合用户界面各个方面的深色和浅色主题。这包括底部导航条、应用程序启动器、文件应用程序以及各种设置页面的背景。您可以从快速设置的第二页启用深色主题。Google还根据设置的主题创建了“从浅色到深色的微妙变化”的壁纸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [全球供应链压力连续3个月缓解 通胀已触顶？](https://www.cnbeta.com/articles/tech/1301115.htm) | Fri Aug 05 2022 6:27 AM 
+- 🎊 [微软可能正在为Windows 11开发一个包含圆角的任务栏](https://www.cnbeta.com/articles/tech/1301167.htm) | Fri Aug 05 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;当地时间周四（8月4日），根据纽约联邦储备银行公布的全球供应链压力指数（GSCPI）显示，供应链限制连续第3个月获得缓解，创2021年1月以来最低。&lt;/strong&gt;同时，该联储银行还指出，GSCPI当中大多数的分项指数7月份普遍走低。不过， 2022年初以来GSCPI的走势显示，尽管全球供应链压力持续降低，但仍处于历史高位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管Windows 11中的任务栏由于各种原因面临着公众的反感，但微软一直在不断地对其进行试验。最近的例子包括溢出控制和搜索小部件。&lt;strong&gt;现在，该公司似乎也在秘密研究圆角任务栏，如图所示，圆角任务栏意外出现在Reddit用户u/caipira113的最新Windows 11 Dev通道的build 25174版本上。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
