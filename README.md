@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [交付800多架F-35战斗机后 洛克希德马丁生产仍存在诸多问题](https://www.cnbeta.com/articles/tech/1301273.htm) | Fri Aug 05 2022 3:09 PM 
+- 🕯 [标准版Apple Watch Series 8传闻采用与Series 7相同的外壳设计](https://www.cnbeta.com/articles/tech/1301285.htm) | Fri Aug 05 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据五角大楼国防合同管理局表示，洛克希德马丁&lpar;LMT.US&rpar;已经交付了800多架F-35战斗机，但生产仍受到过多缺陷和返工的影响，这可能会导致交付延误和战备能力下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Twitter用户@ShrimpApplePro称，Apple Watch Series 8的标准41毫米和45毫米型号将采用与Apple Watch Series 7相同的设计，之前是他首先透露iPhone 14 Pro型号将采用新的圆形+药丸孔显示屏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [以色列警方Pegasus间谍软件原型被曝光](https://www.cnbeta.com/articles/tech/1301271.htm) | Fri Aug 05 2022 2:51 PM 
+- 💼 [主板厂商官方泄密：AMD Zen锐龙7000上市时间100％实锤](https://www.cnbeta.com/articles/tech/1301283.htm) | Fri Aug 05 2022 4:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;2014年为以色列警方设计的Pegasus间谍软件原型细节和截图显示了该系统的工具和深远的能力&lt;/strong&gt;，该系统计划在日常警务工作中部署。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD CEO苏姿丰已经亲口确认，将在第三季度内发布5nm工艺、Zen4架构的锐龙7000系列处理器，具体时间传闻是8月底宣布、9月15日上市发售。8月5日，AMD与各大厂商公开展示了为锐龙7000处理器准备的X670E、X670高端主板，其中&lt;strong&gt;微星更是明确了发售时间：9月15日！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [2022年上半年美国移动设备游戏市场下跌近10%](https://www.cnbeta.com/articles/tech/1301269.htm) | Fri Aug 05 2022 2:34 PM 
+- 💂 [尚乘数科的狂野上涨变成极速暴跌 两天蒸发1600亿美元市值](https://www.cnbeta.com/articles/tech/1301281.htm) | Fri Aug 05 2022 3:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;2022年上半年，大多数移动平台游戏类型的供应量和下载量都有所下降，移动游戏市场总额同比下降9.6%。&lt;/strong&gt;根据Sensor Tower Game Intelligence的新数据，2022年上半年，移动游戏市场降至114亿美元。街机和桌面游戏是这一时期不多见的收入保持增长的类别。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;鲜为人知的一家香港金融服务公司此前令人目眩的狂野上涨戛然而止，紧跟着两天暴跌，其在美国上市的股票市值缩水一半。在纽约证交所上市不到一个月的尚乘数科，股价周二创历史新高，但随后到周四收盘累计暴跌52%，市值蒸发约1600亿美元，超过英特尔、摩根士丹利和高盛之类公司当前的总市值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [采用完全可回收叶片的风力涡轮机开始发电](https://www.cnbeta.com/articles/tech/1301267.htm) | Fri Aug 05 2022 2:22 PM 
+- 🚀 [Meta最新AI聊天机器人上网供公众测试使用](https://www.cnbeta.com/articles/tech/1301279.htm) | Fri Aug 05 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;收集风能是可再生能源组合的一个重要部分，但当这些巨大的涡轮机叶片达到其工作年限时，它们可能最终成为垃圾填埋场的废物。&lt;strong&gt;西门子Gamesa公司已经开发出一种可回收的叶片，当它的捕风期结束后，可以用来制造其它新产品。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Meta公司人工智能研究实验室创造了一个最先进的聊天机器人，并让公众与该系统交谈，以收集对其能力的反馈。&lt;/strong&gt;该机器人被称为BlenderBot 3，可以在网上访问。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [面部识别智能手表将被用于监控英国的外国罪犯](https://www.cnbeta.com/articles/tech/1301265.htm) | Fri Aug 05 2022 1:53 PM 
+- 🎊 [传标准版 Apple Watch Series 8 外观设计与 Series 7 相同](https://www.cnbeta.com/articles/tech/1301277.htm) | Fri Aug 05 2022 3:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据内政部和司法部的计划，&lt;strong&gt;被判定犯有刑事罪的移民将被要求使用安装有面部识别技术的智能手表，每天最多扫描五次面部。&lt;/strong&gt;今年5月，政府授予英国技术公司Buddi Limited一份合同，以提供非安装设备来监控特定人群，以作为内政部卫星追踪服务的一部分。该计划将从秋季开始在英国各地推行，初期费用为600万英镑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;来自 &lt;span style=&quot;color:Red;font-size:+1px&quot;&gt;@&lt;/span&gt;ShrimpApplePro 的爆料称，标准版 41 毫米和 45 毫米 Apple Watch Series 8 的外观设计与 Apple Watch Series 7 完全相同。Apple Watch Series 8 将不再提供钛合金外壳版本，苹果会退出全新高端 Apple Watch Pro，也就是极限运动版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
