@@ -366,7 +366,7 @@
 <!-- v2ex:START -->
 - 🥸 [用任何一个图灵完备的编程语言可以实现另一个图灵完备的编程语言 这个理论出自哪里？](https://www.v2ex.com/t/870996#reply0) | Fri Aug 05 2022 2:46 PM
 - 🤗 [PIL 库打开图片保存为 pdf,转的 pdf 文件超级大, 怎么解决](https://www.v2ex.com/t/870986#reply0) | Fri Aug 05 2022 2:03 PM
-- 🎭 [有什么支持过期的 Java 本地内存 KV 存储吗？](https://www.v2ex.com/t/870985#reply5) | Fri Aug 05 2022 1:44 PM
+- 🎭 [有什么支持过期的 Java 本地内存 KV 存储吗？](https://www.v2ex.com/t/870985#reply6) | Fri Aug 05 2022 1:44 PM
 - 🥷 [matePad11 创建多用户以后，除了机主以外其他用户居然用不了存储卡](https://www.v2ex.com/t/870983#reply0) | Fri Aug 05 2022 1:42 PM
 - 🐵 [怎样让两台设备通过 PC 连接？](https://www.v2ex.com/t/870968#reply9) | Fri Aug 05 2022 12:24 PM<!-- v2ex:END -->
 
