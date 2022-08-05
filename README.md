@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [SQL 苦手来请教各位大佬了。](https://www.v2ex.com/t/870762#reply2) | Thu Aug 04 2022 9:48 PM
-- 🤗 [Github 付费问题咨询（抱歉，上一个主题没打正文就发出来了）](https://www.v2ex.com/t/870756#reply2) | Thu Aug 04 2022 5:43 PM
-- 🎭 [windows 12 pro](https://www.v2ex.com/t/870752#reply33) | Thu Aug 04 2022 3:06 PM
-- 🥷 [有人买 Zenfone9 吗？](https://www.v2ex.com/t/870732#reply17) | Thu Aug 04 2022 12:49 PM
-- 🐵 [有什么好用的 Python 界面自动化软件吗？](https://www.v2ex.com/t/870727#reply3) | Thu Aug 04 2022 11:53 AM<!-- v2ex:END -->
+- 🥸 [IDEA Spring Boot 插件收费了吗](https://www.v2ex.com/t/870791#reply0) | Fri Aug 05 2022 1:39 AM
+- 🤗 [Python 读取 txt 数据存 mangodb](https://www.v2ex.com/t/870781#reply2) | Fri Aug 05 2022 1:12 AM
+- 🎭 [obsidian 每次启动好慢呀，总是加载工作区中](https://www.v2ex.com/t/870775#reply5) | Fri Aug 05 2022 12:53 AM
+- 🥷 [学习周刊-总第 65 期-一个能够让你在本地运行调试 GitHub Actions 的工具](https://www.v2ex.com/t/870768#reply2) | Thu Aug 04 2022 11:59 PM
+- 🐵 [SQL 苦手来请教各位大佬了。](https://www.v2ex.com/t/870762#reply21) | Thu Aug 04 2022 9:48 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
