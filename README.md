@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Jenkins 构建成功后发送邮件配置](https://juejin.cn/post/7128046538802069511) | Thu Aug 04 2022 3:41 PM 
+- 🤗 [使用docker部署golang http服务时端口无法访问的问题](https://juejin.cn/post/7128165664610598943) | Thu Aug 04 2022 11:23 PM 
     <details><summary>展开描述 ...</summary> 
-    Jenkins 构建成功后发送邮件配置，文章内的效果是可以实现的，如果对于一些基础知识不知道，前文也有讲到， 大家不用担心。 前文知识点：Jenkins+Docker+Github实现自动化部署 
+    需要使用docker将golang的httpserver容器化。在这个过程中遇到了一个低级问题，golang http服务时端口无法访问，特此记录解决这个问题的过程。 
     </details> 
 
-- 🎡 [[二分查找区间] 729. 我的日程安排表 I](https://juejin.cn/post/7128046223503654943) | Thu Aug 04 2022 3:40 PM 
+- 🎡 [SpringCloud 之初识 GateWay](https://juejin.cn/post/7128165578128228366) | Thu Aug 04 2022 11:23 PM 
     <details><summary>展开描述 ...</summary> 
-    leetcode原题链接：https://leetcode.cn/problems/my-calendar-i 难度：中等 方法：二分 题目 实现一个 MyCalendar 类来存放你的日程安排。如果 
+    这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 前言 什么是 GateWay 网关，在微服务中为了方便统一管理且对外暴露服务端地址，起到了内部和外部的隔离保证了后台服务的安全 
     </details> 
 
-- 🕯 [HarmonyOS应用开发：鸿蒙自定义组件slot插槽，体现的更强大！](https://juejin.cn/post/7128045382113689613) | Thu Aug 04 2022 3:37 PM 
+- 🕯 [Unity 之 ToLua框架中UI.Dropdown组件动态添加Options](https://juejin.cn/post/7128162717302521870) | Thu Aug 04 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-    鸿蒙除了了基础组件，容器组件，高级组件，还有自定义组件，自定义组件可以将已有的组件组合，封装成新的组件，在工程中被多次调用，从而提高代码的可读性。 slot插槽的使用可以让自定义组件承载父组件中定义的 
+    这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 前言 @[TOC]&lpar;Unity 之 ToLua框架中使用Dropdown&rpar; 一，在C#中动态添加Options 1.获取Dr 
     </details> 
 
-- 🚀 [JDBC入门](https://juejin.cn/post/7128044319298027528) | Thu Aug 04 2022 3:32 PM 
+- 🚀 [算法简单题，吾辈重拳出击 - 爬楼梯的最少成本](https://juejin.cn/post/7128161420838977567) | Thu Aug 04 2022 11:10 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 一、JDBC概念 JDBC一般指java数据库连接，是Java DataBase Connectivity 
+    这题如果不是用动态规划+斐波那契去解，真的就会很麻烦，要考虑的情况太多了。所以，做算法题第一步是最难的，就是把题目抽象成公式。 
     </details> 
 
-- 💪 [后台项目 Express-Mysql-Vue3-TS-Pinia 处理 菜单表](https://juejin.cn/post/7128043829583675405) | Thu Aug 04 2022 3:30 PM 
+- 💪 [Discourse 清理存储空间的方法](https://juejin.cn/post/7128152717368754206) | Thu Aug 04 2022 10:34 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 菜单表 引言 通过之前一段时间 Express 和 Mysql 的学习 这里尝试来搭建一个 后台系统 来巩 
+    Discourse 使用一段时间以后会发现硬盘空间占用非常多。 主要是因为 Docker Image 的问题，如果升级次数越多，空间占用越多。 运行下面的命令： ./launcher cleanup  
     </details> 
 <!-- juejin:END -->
 ### 少数派
