@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [报告显示：《暗黑不朽》50%玩家之前从未玩过暗黑](https://hot.cnbeta.com/articles/game/1301197.htm) | Fri Aug 05 2022 9:14 AM 
+- 🕯 [新上线的iOS应用可阻止Safari中恼人的&quot;在应用程序中打开&quot;弹出窗口](https://www.cnbeta.com/articles/tech/1301217.htm) | Fri Aug 05 2022 10:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《暗黑破坏神：不朽》发售后取得了巨大成功，或许比动视暴雪的预期还要大。这款手游为玩家们带来刺激体验，并有一些全新的机制和功能。虽然该作微交易系统颇受争议，但其核心游戏性、图形和系统都很强大。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;您可能有过这样的经历：在你的iPhone上访问像Reddit或LinkedIn这样的网站时，迎接你的是一个恼人的、几乎全屏的弹出窗口，敦促在他们的应用程序中而不是在网站上查看内容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [上海一款自动驾驶航空器适航审定取得新进展，可搭载4人](https://www.cnbeta.com/articles/tech/1301195.htm) | Fri Aug 05 2022 9:12 AM 
+- 💼 [男子用捕鼠贴设天罗地网捉老鼠：结果反被调戏 直接“飞”了过去](https://hot.cnbeta.com/articles/funny/1301215.htm) | Fri Aug 05 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月5日，澎湃新闻记者从上海市金山区获悉，中国民航华东地区管理局领导及适航审定处相关负责人一行，于当日到访位于金山区的华东无人机基地，与峰飞航空共同签署“关于电动垂直起降航空器（eVTOL）安全合作的备忘录”，并现场观看了峰飞自动驾驶eVTOL航空器盛世龙的演示飞行，标志着eVTOL型号适航取证和合格审定工作取得了重要新进展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;老鼠的智商好像已经越来越高了。据麦穗视频报道，&lt;strong&gt;近日浙江丽水一位男子用捕鼠贴设下天罗地网捉老鼠，没想到老鼠仍成功逃脱。&lt;/strong&gt;他表示，前两天发现家里有老鼠，就想了个办法把路口给封住了，没想到那只老鼠直接跳了过去。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1301215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [清凉一夏 任天堂免费提供2022夏季特别壁纸](https://hot.cnbeta.com/articles/game/1301193.htm) | Fri Aug 05 2022 9:10 AM 
+- 💂 [GPU性能追赶RTX 3090 有观点认为苹果Mac电脑才是PC游戏的未来](https://www.cnbeta.com/articles/tech/1301213.htm) | Fri Aug 05 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;任天堂发布了2022年夏季马里奥原创壁纸，供大家下载。壁纸可在PC、手机，平板等多种设备上使用。这个夏日，任天堂也在第一方大作上全面发力，反向跳票的《异度神剑3》，《任天堂Switch运动》的夏季更新，以及今日推出的《马里奥赛车8豪华版》第二弹DLC等，陪伴着玩家们度过清凉一夏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大部分人玩到的PC游戏都是基于Windows系统的，这一点是Wintel联盟的护城河，Linux以及苹果的Mac也无法与之相比，然而时代不同了，苹果自从有了自研的M1/M2处理器之后，他们的Mac电脑被认为是PC游戏的未来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [国产显卡风华3号即将完工 光线追踪性表现酷炫](https://www.cnbeta.com/articles/tech/1301191.htm) | Fri Aug 05 2022 9:07 AM 
+- 🚀 [小鹏G9内饰谍照流出：比理想L9多块仪表盘](https://www.cnbeta.com/articles/tech/1301211.htm) | Fri Aug 05 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周，芯动科技在湖北武汉发布了风华2号桌面GPU。会上，总裁敖海&lt;a class=&quot;f14_link&quot; href=&quot;https://www.innosilicon.cn/home/News/index/id/140.html&quot; target=&quot;_blank&quot;&gt;透露&lt;/a&gt;，&lt;strong&gt;目前“风华3号”已基本完成研发，将为国内用户提供超大算力光追等酷炫性能。&lt;/strong&gt;支持光追或许意味着，风华3号会支持Win10/11 DX12 API、开源Vulkan API等图形接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;小鹏旗舰SUV车型G9&lt;/strong&gt;的最新内饰现身。根据此前发布的消息来看，该车将于8月10日开启预订，并在9月份正式上市。从此次曝光的内饰谍照来看，与理想L9相似，小鹏G9同样配有大尺寸的联屏，这块屏幕贯穿中控和副驾驶侧，从界面来看，&lt;strong&gt;新车还将配备Xmart OS 4.0 UI操作系统&lt;/strong&gt;，预计在流畅度和易用性方面有较好的表现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [斯坦福大学的神经科学家探索如何让衰老的大脑重新焕发活力](https://www.cnbeta.com/articles/science/1301189.htm) | Fri Aug 05 2022 9:04 AM 
+- 🎊 [楠梓产业园区7日动工 台积电将进驻设厂](https://www.cnbeta.com/articles/tech/1301209.htm) | Fri Aug 05 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;斯坦福大学神经科学家Tony Wyss-Coray博士花了20年时间发现和研究各种具有神经保护和神经退行性的分子。&lt;/strong&gt;这些分子存在于大脑的不同细胞类型中或其上，也存在于与之相邻的血管上，或漂浮在血液和沐浴着它的脑脊液中。随着我们的年龄增长，它们变得越来越重要。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国台湾楠梓产业园区将于8月7日动工，台积电已完成签约将进驻设厂。据台媒《经济日报》报道，中国台湾相关部门表示，台积电是楠梓产业园区唯一进驻厂商，园区动工也代表厂区进入建厂阶段，完备产业链关键拼图，高雄将成为全球半导体研发与制造中心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
