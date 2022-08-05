@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [WidsMob HDR 3.17 HDR照片编辑器](https://xclient.info/s/widsmob-hdr.html) | Thu Aug 04 2022 1:49 AM 
+- 🦏 [SpamSieve 2.9.50 垃圾邮件过滤](https://xclient.info/s/spamsieve.html) | Fri Aug 05 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    WidsMob HDR 是一款高效的HDR照片编辑器，具有先进的色调映射算法，可将一组3个不同的括号内的照片与高级色调映射算法组合成HDR。 
+    SpamSieve 是一个强大的垃圾邮件过滤的主要的电子邮件客户端，使用强大的贝叶斯垃圾邮件过滤。 
     </details> 
 
--  [Vellum 3.3.2 电子书制作工具](https://xclient.info/s/vellum.html) | Thu Aug 04 2022 1:48 AM 
+-  [Soulver 3.6 多功能计算器](https://xclient.info/s/soulver.html) | Fri Aug 05 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    Vellum 是一款Mac上优秀的电子书制作工具，把文本生成为图文格式的电子书，如iBooks, Kindle， Nook等，简单易用。 
+    Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
     </details> 
 
-- ⚗️ [PDF Reader Pro 2.8.13 PDF 文档阅读编辑批注](https://xclient.info/s/pdf-reader-pro.html) | Thu Aug 04 2022 1:47 AM 
+- ⚗️ [PhotoSweeper X 4.5.0 重复照片查找删除工具](https://xclient.info/s/photosweeper.html) | Fri Aug 05 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    PDF Reader Pro是一款Mac平台的PDF文档阅读编辑器，除了可以进行 PDF 文档阅读以外，你还可以对文档进行备注、编辑、标注等，还可以添加笔记和书签，如果想要演示的话，还可以配合遥控来进行演示。 
+    PhotoSweeper可以快速有效的从你的电脑中删除重复照片,可以对照片分组对比,可以选择格式,尺寸,文件大小. 
     </details> 
 
-- 🔥 [iReal Pro 2022.7 编曲软件](https://xclient.info/s/ireal-pro.html) | Thu Aug 04 2022 1:47 AM 
+- 🔥 [Tinderbox 9.3.0 笔记、计划等个人内容管理工具](https://xclient.info/s/tinderbox.html) | Fri Aug 05 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-    iReal Pro是一款应用在mac平台上的乐谱编曲软件，它拥有强大的乐谱风格伴奏功能。 
+    保存笔记、想法和计划用什么软件好？不妨试试这款Tinderbox个人内容管理工具吧！想要记录私人笔记、时间戳、永久链接、档案等都可以在Tinderbox版上进行，还提供丰富的注释工具，使用便捷。 
     </details> 
 
-- 🌋 [Eon 2.9.1 优秀的时间跟踪定时器](https://xclient.info/s/eon.html) | Thu Aug 04 2022 1:45 AM 
+- 🌋 [Folder Tidy 2.8.7 桌面文件夹整理](https://xclient.info/s/folder-tidy.html) | Fri Aug 05 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    Eon 是一款Mac上优秀的时间跟踪定时器，支持中文界面，可以进行时间统计跟踪，设置定时器等，简单易用。 
+    Folder Tidy 是一款帮助用户整理自己桌面文件夹的Mac软件，用户只需要选择需要清理的文件夹，眨眼功夫，所有的文件就会按照类别（照片、音乐、文档等等）分别整理好，并得到一个名为“x月x日x时的桌面”这样的目录。 
     </details> 
 <!-- xclient:END -->
 
