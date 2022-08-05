@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用docker部署golang http服务时端口无法访问的问题](https://juejin.cn/post/7128165664610598943) | Thu Aug 04 2022 11:23 PM 
+- 🤗 [UI自动化测试 - 基础理论概念部分](https://juejin.cn/post/7128227625738338318) | Fri Aug 05 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    需要使用docker将golang的httpserver容器化。在这个过程中遇到了一个低级问题，golang http服务时端口无法访问，特此记录解决这个问题的过程。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 1. 自动化测试介绍 1.1 概念 由程序代替人工进行系统校验的过程 1.2 自动化测试能够解决的问题 回 
     </details> 
 
-- 🎡 [SpringCloud 之初识 GateWay](https://juejin.cn/post/7128165578128228366) | Thu Aug 04 2022 11:23 PM 
+- 🎡 [Android与IOS渲染流程对比](https://juejin.cn/post/7128207665313890311) | Fri Aug 05 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-    这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 前言 什么是 GateWay 网关，在微服务中为了方便统一管理且对外暴露服务端地址，起到了内部和外部的隔离保证了后台服务的安全 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 Android APP通过WindowManager统一提供所有Surface的缓冲区【不管是Surfa 
     </details> 
 
-- 🕯 [Unity 之 ToLua框架中UI.Dropdown组件动态添加Options](https://juejin.cn/post/7128162717302521870) | Thu Aug 04 2022 11:14 PM 
+- 🕯 [OpenHarmony如何查询设备类型](https://juejin.cn/post/7128205340046262279) | Fri Aug 05 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-    这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 前言 @[TOC]&lpar;Unity 之 ToLua框架中使用Dropdown&rpar; 一，在C#中动态添加Options 1.获取Dr 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天， 点击查看活动详情 如何查询设备类型 在应用开发过程中查询设备类型。 通过js接口查询指定系统参数（const.build 
     </details> 
 
-- 🚀 [算法简单题，吾辈重拳出击 - 爬楼梯的最少成本](https://juejin.cn/post/7128161420838977567) | Thu Aug 04 2022 11:10 PM 
+- 🚀 [如何解决前端常见的竞态问题](https://juejin.cn/post/7128205011019890695) | Fri Aug 05 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-    这题如果不是用动态规划+斐波那契去解，真的就会很麻烦，要考虑的情况太多了。所以，做算法题第一步是最难的，就是把题目抽象成公式。 
+    前端常见的搜索、分页、选项卡等切换场景中，由于网络不确定性，先发出的请求不一定先响应，这会造成竞态问题。本文提供「取消」或「忽略」两种对过期请求竞态问题处理的方案。 
     </details> 
 
-- 💪 [Discourse 清理存储空间的方法](https://juejin.cn/post/7128152717368754206) | Thu Aug 04 2022 10:34 PM 
+- 💪 [Go编译原理系列9（函数内联）](https://juejin.cn/post/7128202181722767396) | Fri Aug 05 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Discourse 使用一段时间以后会发现硬盘空间占用非常多。 主要是因为 Docker Image 的问题，如果升级次数越多，空间占用越多。 运行下面的命令： ./launcher cleanup  
+    在前一篇文章中分享了编译器优化的变量捕获部分，本文分享编译器优化的另一个内容—函数内联。函数内联是指将将较小的函数内容，直接放入到调用者函数中，从而减少函数调用的开销 
     </details> 
 <!-- juejin:END -->
 ### 少数派
