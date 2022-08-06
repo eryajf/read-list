@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [为什么要做LiveVideoStack课程？](https://juejin.cn/post/7128563268209082376) | Sat Aug 06 2022 1:06 AM 
+- 🤗 [【JMeter】jmeter测试 - 上传多个图片/批量上传图片接口 CSV文件参数化方法](https://juejin.cn/post/7128590443226349604) | Sat Aug 06 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
-    今天的主题是，我们要推出课程产品了，希望大家多多支持。我们会上线第一门课程——《轻松掌握WebAssembly视频播放器》轻松掌握WebAssembly视频播放器，由李超老师亲自打造。 
+    前言 在网上查了一下，没有查到很满意的方法，这里记录了一个比较好用的方法。 需要测试的接口，是直接将图片File放到请求体中。 接口的函数签名如下： 数据情况与路径生成 如果你跟我一样，图片放在一个文 
     </details> 
 
-- 🎡 [iOS小技能： 抽奖轮盘跑马灯边框的实现](https://juejin.cn/post/7128560927393185799) | Sat Aug 06 2022 12:57 AM 
+- 🎡 [看看你离世界一流大厂有多远？3道Google最新SQL面试题 ⛵](https://juejin.cn/post/7128587085333659685) | Sat Aug 06 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 跑马灯的应用场景： iOS 抽奖轮盘边框动画 在待办界面或者工作台界面，往往需要应用到跑马灯的地方 如用户登陆未绑定手机号，进行提示。 I iOS 抽奖轮盘边框动画 1.1 原理 用NSTime 
+    朋友刚刚拿到了 Google 数据分析师的 Offer！跟她详聊了面试的3道SQL题目，把思路和参考答案一并奉上！【代码与数据集亲测可运行】 
     </details> 
 
-- 🕯 [PHP代码审计（四）PHP文件操作函数](https://juejin.cn/post/7128559059732529183) | Sat Aug 06 2022 12:51 AM 
+- 🕯 [力扣之找出数组中的幸运数](https://juejin.cn/post/7128586978219524127) | Sat Aug 06 2022 2:38 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 常用PHP文件操作函数 注：文件操作函数的行为受到 php.ini 中设置的影响。 当在 Unix 平台 
+    问题描述 在整数数组中，如果一个整数的出现频次和它的数值大小相等，我们就称这个整数为「幸运数」。 给你一个整数数组 arr，请你从中找出并返回一个幸运数。 如果数组中存在多个幸运数，只需返回 最大 的 
     </details> 
 
-- 🚀 [算法简单题，吾辈重拳出击 - 前 n 个数字二进制中 1 的个数](https://juejin.cn/post/7128531936393297956) | Fri Aug 05 2022 11:24 PM 
+- 🚀 [公司内部组件库设计思路](https://juejin.cn/post/7128586710443065351) | Sat Aug 06 2022 2:37 AM 
     <details><summary>展开描述 ...</summary> 
-    更重要的是再次过一遍动态规划的简单题基础思维：动态规划 =&gt; 子问题 =&gt; 复用计算结果（通常伴随比较得值、更新值） =&gt; 递归（通常一遍循环即可） 
+    前提基础：vite + pnpm&lpar;workspace&rpar; + vue3 + ts + scss + element-plus 组件库整体设计分为三块： svg 图标库 vue 组件库 图标组件的测试项目 
     </details> 
 
-- 💪 [Java转Android：第6天  BroadcastReceiver知道你换了壁纸](https://juejin.cn/post/7128491222913515534) | Fri Aug 05 2022 9:50 PM 
+- 💪 [1408. 数组中的字符串匹配 : 简单模拟题](https://juejin.cn/post/7128580596665679879) | Sat Aug 06 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    日更第7天，好累。看完这800字，你将获得：你的壁纸被女票更换了，你的程序会记录下来，并警示她。主要使用BroadcastReceiver…… 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 题目描述 这是 LeetCode 上的 1408. 数组中的字符串匹配 ，难度为 简单。 Tag : 「 
     </details> 
 <!-- juejin:END -->
 ### 少数派
