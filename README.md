@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [加密借贷平台Voyager将于下周开始处理客户的现金提款请求](https://www.cnbeta.com/articles/tech/1301429.htm) | Sat Aug 06 2022 5:33 AM 
+- 🕯 [哈啰涨价7个月后美团宣布跟价 共享单车迎涨价周期](https://www.cnbeta.com/articles/tech/1301441.htm) | Sat Aug 06 2022 6:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上月，Voyager 提交了基于美国《破产法》第 11 章的申请，以期资不抵债的该公司能够在重组偿债的过程中继续运营。&lt;strong&gt;本周四，Voyager 终于获批，可于 8 月 11 日起使用大都会商业银行保管的资金，来兑现广大客户的提款。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在哈啰宣布涨价7个月之后，另一个主要共享单车平台美团“小黄车”开始跟进。据介绍，本次调整主要涉及7天、30天、90天卡券，其他骑行卡券无变化。今年1月起，哈啰率先将骑行套餐7天卡涨到15元，30天卡涨到35元。哈啰单车在当时发布的公告中表示涨价系因硬件和运维成本增加。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华纳兄弟探索频道或携手HBO推出基于广告的免费流媒体服务](https://hot.cnbeta.com/articles/movie/1301427.htm) | Sat Aug 06 2022 5:15 AM 
+- 💼 [iPhone 14 Pro机模对比iPhone 13 Pro：后摄大了一圈 凸起严重](https://www.cnbeta.com/articles/tech/1301439.htm) | Sat Aug 06 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在本周的财报电话会议上，&lt;strong&gt;首席执行官 David Zaslav 宣布，华纳兄弟探索公司（Warner Bros. Discovery）正考虑推出自家的广告支持免费服务。&lt;/strong&gt;尽管这件事不会很快发生，但该公司显然会先在融合了 HBO Max 和 Discovery Plus 的付费流媒体平台上发力，然后寄希望于 FAST 服务能够成为消费市场的另一个切入点。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;下个月iPhone 14系列就要发布了，目前在设计上已经完全定型，苹果也将进入紧锣密鼓的量产备货中。近日，供应链上也传出了iPhone 14系列的各方面详细数据，甚至还带来了超逼真的机模展示，&lt;strong&gt;海外博主Majin Bu就晒出了iPhone 14 Pro与iPhone 13 Pro的对比。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Artillect将80年代打字机变身为Linux终端和ASCII艺术打印机](https://www.cnbeta.com/articles/tech/1301425.htm) | Sat Aug 06 2022 5:00 AM 
+- 💂 [男子杀鸡取出宝称价值6位数 兽医称药用价值不大](https://hot.cnbeta.com/articles/funny/1301437.htm) | Sat Aug 06 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，油管 Artillect 频道分享了一个相当有趣的老旧外设改造视频 —— &lt;strong&gt;展示了如何通过现代硬件，将上世纪 80 年代的 Brother AX-25 电子打字机，变身为一套 Linux 终端 + ASCII 码的艺术打印机。&lt;/strong&gt;据悉，1980年代后期的原版兄弟 AX-25 使用了菊花字轮来打印文本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;杀只鸡竟然取出了宝贝，网上一查，好家伙，竟然能卖到6位数高价，是不是要乐疯了？近日，据@小莉帮忙报道，在洛阳新安，一小伙为给坐月子媳妇补身体，杀老母鸡时意外发现鸡肚子里有十多粒类似鹅卵石一样黄黄的东西，&lt;strong&gt;在网上一查说是叫做鸡宝，竟然价值6位数，有的甚至8位数&lt;/strong&gt;！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1301437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google Immersive Stream for XR即将支持VR/AR头显设备](https://www.cnbeta.com/articles/tech/1301423.htm) | Sat Aug 06 2022 4:24 AM 
+- 🚀 [Apple Watch推出首个中文表盘：用十二个汉字显示时间](https://www.cnbeta.com/articles/tech/1301435.htm) | Sat Aug 06 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google Cloud 的 Immersive Stream for XR 平台此前仅限于在移动设备上提供交互式 3D 和增强现实体验，&lt;strong&gt;不过现在该服务即将支持增强现实和虚拟现实头显设备。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果最近向Apple Watch用户推送了WatchOS 9的beta版本，其中虽然没有带来任何实质性的功能改变，但是却上线了一款新表盘引起了热议。&lt;strong&gt;因为这是苹果在手表中推出的第一款中文表盘，采用了一、二、三......十二个汉字数字显示时间，看起来非常的复古。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [[图]苹果M2上网速度实测：Speedomter 2.0跑分比M1快18%](https://www.cnbeta.com/articles/tech/1301421.htm) | Sat Aug 06 2022 4:11 AM 
+- 🎊 [一箱油能跑近1500公里 全新荣威RX5/超混eRX5上市：12.49万起](https://www.cnbeta.com/articles/tech/1301433.htm) | Sat Aug 06 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在最新的 MacBook Air 和 MacBook Pro 型号发售之后，M2 芯片的大量跑分和实际运行测试数据已经曝光。但这些测试中还缺少了一项测试，那就是上网速度。在看到 Basecamp 的创始人 David Heinemeier Hanson 公布测试结果之后，&lt;a href=&quot;https://www.macworld.com/article/827677/m2-processor-macbook-safari-speedometer-benchmark.html&quot; target=&quot;_blank&quot;&gt;国外科技媒体 MacWorld 决定对 M1、M1 Pro 和 M2 三款芯片再次进行测试。&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月5日晚间，新一代荣威RX5/eRX5正式上市，其中全新荣威RX5共有6款车型，&lt;strong&gt;售价区间为11.79-15.59万元&lt;/strong&gt;；全新荣威eRX5（插混版）拥有3款车型，&lt;strong&gt;售价区间为15.39-16.59万元&lt;/strong&gt;。新车提供丝绒银、北极蓝、珠光黑、珠光白、云锦灰5种车身颜色，搭配活力棕、典雅黑两款内饰配色，满足消费者的使用需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
