@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [LOVEPHP-WEB 全栈开源框架发布](https://www.v2ex.com/t/871065#reply4) | Sat Aug 06 2022 4:31 AM
-- 🤗 [最近忽然有种感觉， web2 的应用逐渐在腐朽崩塌，但新的应用形式是什么样，又还看不清楚。不知道大家有什么想法吗，可以一起来说说呀。现存的痛点究竟是什么，我们该怎么建设出一个更好的？](https://www.v2ex.com/t/871064#reply12) | Sat Aug 06 2022 4:24 AM
-- 🎭 [2202 年了 Windows 还没有高效的文件多标签？](https://www.v2ex.com/t/871045#reply17) | Sat Aug 06 2022 2:51 AM
+- 🥸 [LOVEPHP-WEB 全栈开源框架发布](https://www.v2ex.com/t/871065#reply5) | Sat Aug 06 2022 4:31 AM
+- 🤗 [最近忽然有种感觉， web2 的应用逐渐在腐朽崩塌，但新的应用形式是什么样，又还看不清楚。不知道大家有什么想法吗，可以一起来说说呀。现存的痛点究竟是什么，我们该怎么建设出一个更好的？](https://www.v2ex.com/t/871064#reply17) | Sat Aug 06 2022 4:24 AM
+- 🎭 [2202 年了 Windows 还没有高效的文件多标签？](https://www.v2ex.com/t/871045#reply20) | Sat Aug 06 2022 2:51 AM
 - 🥷 [go 泛型以后会支持特例化吗](https://www.v2ex.com/t/871042#reply7) | Sat Aug 06 2022 2:44 AM
-- 🐵 [函数调用 return func 和 return result 有什么区别吗？](https://www.v2ex.com/t/871039#reply4) | Sat Aug 06 2022 2:28 AM<!-- v2ex:END -->
+- 🐵 [函数调用 return func 和 return result 有什么区别吗？](https://www.v2ex.com/t/871039#reply5) | Sat Aug 06 2022 2:28 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
