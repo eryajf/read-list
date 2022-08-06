@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [哈啰涨价7个月后美团宣布跟价 共享单车迎涨价周期](https://www.cnbeta.com/articles/tech/1301441.htm) | Sat Aug 06 2022 6:52 AM 
+- 🕯 [台积电3nm首发客户仅剩苹果 AMD Zen5随后跟上](https://www.cnbeta.com/articles/tech/1301457.htm) | Sat Aug 06 2022 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在哈啰宣布涨价7个月之后，另一个主要共享单车平台美团“小黄车”开始跟进。据介绍，本次调整主要涉及7天、30天、90天卡券，其他骑行卡券无变化。今年1月起，哈啰率先将骑行套餐7天卡涨到15元，30天卡涨到35元。哈啰单车在当时发布的公告中表示涨价系因硬件和运维成本增加。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;台积电的3nm工艺今年下半年才会量产，产品会在明年开始出货，本来Intel会跟苹果一起成为首发客户，然而最近的传闻几乎证实了Intel的3nm订单几乎全都取消了，14代酷睿的GPU单元赶不上3nm工艺了。随着Intel的退出，首发3nm的只有苹果一家了，&lt;strong&gt;今年的iPhone 14系列的A16芯片也没赶上，需要新一代的M系列处理器及A17处理器。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14 Pro机模对比iPhone 13 Pro：后摄大了一圈 凸起严重](https://www.cnbeta.com/articles/tech/1301439.htm) | Sat Aug 06 2022 6:46 AM 
+- 💼 [《暗黑不朽》第三季通行证预告 赛季持续到9月1日](https://hot.cnbeta.com/articles/game/1301455.htm) | Sat Aug 06 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;下个月iPhone 14系列就要发布了，目前在设计上已经完全定型，苹果也将进入紧锣密鼓的量产备货中。近日，供应链上也传出了iPhone 14系列的各方面详细数据，甚至还带来了超逼真的机模展示，&lt;strong&gt;海外博主Majin Bu就晒出了iPhone 14 Pro与iPhone 13 Pro的对比。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，《暗黑破坏神：不朽》官方公布国际服第三赛季通行证“义天使（Aspect ofJustice）”预告，第三季战斗通行证现已上线，持续到9月1日，义天使战斗通行证总共包括40个阶级，提供各种挑战和奖励，例如：传奇宝石、饰章、战柄币以及更多。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [男子杀鸡取出宝称价值6位数 兽医称药用价值不大](https://hot.cnbeta.com/articles/funny/1301437.htm) | Sat Aug 06 2022 6:46 AM 
+- 💂 [微软“黑科技”加持 跨国全息传送首次实现 不用出门也能“身”处异乡了？](https://www.cnbeta.com/articles/tech/1301453.htm) | Sat Aug 06 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;杀只鸡竟然取出了宝贝，网上一查，好家伙，竟然能卖到6位数高价，是不是要乐疯了？近日，据@小莉帮忙报道，在洛阳新安，一小伙为给坐月子媳妇补身体，杀老母鸡时意外发现鸡肚子里有十多粒类似鹅卵石一样黄黄的东西，&lt;strong&gt;在网上一查说是叫做鸡宝，竟然价值6位数，有的甚至8位数&lt;/strong&gt;！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1301437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;说出你最想要拥有的超能力或道具，有没有漫威英雄“夜行者”的瞬移？或者哆啦A梦的“任意门”？如今，这种天马行空的想象，在相关技术的加持下也能触及现实。据物理学家组织网报道，&lt;span style=&quot;&quot;&gt;近日，加拿大科学家首次实现了国际间双向全息传送&lt;/span&gt;——将一个人以全息图像的形式从美国阿拉巴马州传输到加拿大安大略省，团队其他人的全息图被传输到阿拉巴马州亨茨维尔市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Apple Watch推出首个中文表盘：用十二个汉字显示时间](https://www.cnbeta.com/articles/tech/1301435.htm) | Sat Aug 06 2022 6:45 AM 
+- 🚀 [900页数学论文证明旋转的黑洞不会爆炸 30多年来广义相对论首次重大突破](https://www.cnbeta.com/articles/science/1301451.htm) | Sat Aug 06 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果最近向Apple Watch用户推送了WatchOS 9的beta版本，其中虽然没有带来任何实质性的功能改变，但是却上线了一款新表盘引起了热议。&lt;strong&gt;因为这是苹果在手表中推出的第一款中文表盘，采用了一、二、三......十二个汉字数字显示时间，看起来非常的复古。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;能被丘成桐评价为“90 年代以来广义相对论首次突破”的是什么研究？原来，有人用一篇 900 多页的数学论文&lt;strong&gt;证明了一种缓慢旋转的黑洞是稳定的，并不会爆炸&lt;/strong&gt;！论文的研究对象克尔黑洞（Kerr black holes），&lt;strong&gt;专指以不变的速度自转的黑洞&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [一箱油能跑近1500公里 全新荣威RX5/超混eRX5上市：12.49万起](https://www.cnbeta.com/articles/tech/1301433.htm) | Sat Aug 06 2022 6:44 AM 
+- 🎊 [专家建议中国手机使用国产芯片 不足30%可考虑收税](https://www.cnbeta.com/articles/tech/1301449.htm) | Sat Aug 06 2022 7:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月5日晚间，新一代荣威RX5/eRX5正式上市，其中全新荣威RX5共有6款车型，&lt;strong&gt;售价区间为11.79-15.59万元&lt;/strong&gt;；全新荣威eRX5（插混版）拥有3款车型，&lt;strong&gt;售价区间为15.39-16.59万元&lt;/strong&gt;。新车提供丝绒银、北极蓝、珠光黑、珠光白、云锦灰5种车身颜色，搭配活力棕、典雅黑两款内饰配色，满足消费者的使用需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月5日消息，凤凰网财经《封面直播》对话华侨大学台湾经济研究所前所长、全国台湾研究会理事陈克明，以及闽江学院闽都学者特聘教授曹海涛。在谈到半导体产业的国产化话题时，曹海涛表示，半导体产业是一个高投入高技术领域，它必须需要大量的市场营收以及利润才能维持不断的研发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
