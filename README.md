@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [台积电3nm首发客户仅剩苹果 AMD Zen5随后跟上](https://www.cnbeta.com/articles/tech/1301457.htm) | Sat Aug 06 2022 7:55 AM 
+- 🕯 [Akamai：针对网游行业的网络攻击在一年内增加了167个百分点](https://www.cnbeta.com/articles/tech/1301473.htm) | Sat Aug 06 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;台积电的3nm工艺今年下半年才会量产，产品会在明年开始出货，本来Intel会跟苹果一起成为首发客户，然而最近的传闻几乎证实了Intel的3nm订单几乎全都取消了，14代酷睿的GPU单元赶不上3nm工艺了。随着Intel的退出，首发3nm的只有苹果一家了，&lt;strong&gt;今年的iPhone 14系列的A16芯片也没赶上，需要新一代的M系列处理器及A17处理器。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Akamai表示，游戏行业不断增长的价值吸引了更多的犯罪分子，他们试图扰乱网络游戏，窃取有价值的玩家的账户。根据Akamai Technologies的一份新报告，针对游戏行业的网络攻击在该行业最近的蓬勃发展中迅速上升。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《暗黑不朽》第三季通行证预告 赛季持续到9月1日](https://hot.cnbeta.com/articles/game/1301455.htm) | Sat Aug 06 2022 7:36 AM 
+- 💼 [微信里的视频怎么下载？教您用小工具轻松实现](https://www.cnbeta.com/articles/soft/1301471.htm) | Sat Aug 06 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，《暗黑破坏神：不朽》官方公布国际服第三赛季通行证“义天使（Aspect ofJustice）”预告，第三季战斗通行证现已上线，持续到9月1日，义天使战斗通行证总共包括40个阶级，提供各种挑战和奖励，例如：传奇宝石、饰章、战柄币以及更多。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;想要下载微信公众号，视频号里的视频却不知道怎么下载保存？这里小编推荐一个小巧玲珑的下载软件，用它就能轻松下载视频了，赶紧来看看。这个视频下载软件名叫小 V 视频号下载工具，为PC版，所以得用微信PC版配合操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1301471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软“黑科技”加持 跨国全息传送首次实现 不用出门也能“身”处异乡了？](https://www.cnbeta.com/articles/tech/1301453.htm) | Sat Aug 06 2022 7:34 AM 
+- 💂 [Intel i9-13900K 5.8GHz火力全开 可轻松击败AMD 5950X/3990X](https://www.cnbeta.com/articles/tech/1301469.htm) | Sat Aug 06 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;说出你最想要拥有的超能力或道具，有没有漫威英雄“夜行者”的瞬移？或者哆啦A梦的“任意门”？如今，这种天马行空的想象，在相关技术的加持下也能触及现实。据物理学家组织网报道，&lt;span style=&quot;&quot;&gt;近日，加拿大科学家首次实现了国际间双向全息传送&lt;/span&gt;——将一个人以全息图像的形式从美国阿拉巴马州传输到加拿大安大略省，团队其他人的全息图被传输到阿拉巴马州亨茨维尔市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不少玩家很关心的i9-13900K性能，现在跑分软件已经提前揭晓了其零售版的成绩。Geekbench基准测试数据库刚刚揭示了零售版酷睿i9-13900K CPU的跑分成绩，可知采用24C / 32T（8P+16E）设计的“Raptor Lake”台式旗舰处理器，能够在最高5.8GHz睿频的情况下打败64C/128T的AMD 线程撕裂者3990X处理器、并且领先16C/32T的锐龙R9-5950X达50%以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [900页数学论文证明旋转的黑洞不会爆炸 30多年来广义相对论首次重大突破](https://www.cnbeta.com/articles/science/1301451.htm) | Sat Aug 06 2022 7:30 AM 
+- 🚀 [FIFA 23图形增强功能包括球场磨损细节、更真实的阴影以及更多](https://hot.cnbeta.com/articles/game/1301467.htm) | Sat Aug 06 2022 9:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;能被丘成桐评价为“90 年代以来广义相对论首次突破”的是什么研究？原来，有人用一篇 900 多页的数学论文&lt;strong&gt;证明了一种缓慢旋转的黑洞是稳定的，并不会爆炸&lt;/strong&gt;！论文的研究对象克尔黑洞（Kerr black holes），&lt;strong&gt;专指以不变的速度自转的黑洞&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着我们越来越接近《FIFA 23》的发布，EA SPORT继续分享关于游戏的更多细节。昨天，开发商重点介绍了最新版本（也是最后一个版本）的授权足球游戏的图形和演示增强功能；例如，今年的版本会展现在整个比赛过程中保持活动的球场磨损。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [专家建议中国手机使用国产芯片 不足30%可考虑收税](https://www.cnbeta.com/articles/tech/1301449.htm) | Sat Aug 06 2022 7:28 AM 
+- 🎊 [《蝙蝠女》被砍之后，DC电影总裁已接近离职边缘](https://hot.cnbeta.com/articles/movie/1301465.htm) | Sat Aug 06 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月5日消息，凤凰网财经《封面直播》对话华侨大学台湾经济研究所前所长、全国台湾研究会理事陈克明，以及闽江学院闽都学者特聘教授曹海涛。在谈到半导体产业的国产化话题时，曹海涛表示，半导体产业是一个高投入高技术领域，它必须需要大量的市场营收以及利润才能维持不断的研发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;有报道称，在电影版《蝙蝠女》被砍之后，DC电影总裁沃尔特·浜田已濒于离职边缘。不过，他目前已经同意在工作室至少留任到10月21日《黑亚当》上映之后。根据好莱坞记者报的爆料称，《蝙蝠女》项目搁置的这个消息只是在《黑亚当》的试映会上通知了滨田一声。而滨田对自己未能参与决策而感到极其不爽。报道称，他还担心这一消息会对电影的演职人员造成不利影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
