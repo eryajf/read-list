@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [我国芯片行业人才薪资翻了3-5倍：40万年薪人才现在120万才能招到](https://www.cnbeta.com/articles/tech/1301513.htm) | Sat Aug 06 2022 4:11 PM 
+- 🕯 [马斯克称若推特能确认部分内容 或将继续推进收购计划](https://www.cnbeta.com/articles/tech/1301519.htm) | Sat Aug 06 2022 6:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当地时间8月6日，特斯拉首席执行官埃隆·马斯克在社交媒体上表示，如果推特能够确认一些关于如何衡量用户账户是“机器人或虚假账户”还是真人的细节，他以440亿美元收购推特的计划或将继续推进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [亚马逊收购iRobot是为了给你的家绘制地图](https://www.cnbeta.com/articles/tech/1301517.htm) | Sat Aug 06 2022 6:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;通过收购iRobot，亚马逊获得了一台带有“真空装置”的数据收集机。&lt;strong&gt;亚马逊公司不仅收购了一家机器人吸尘器制造商。它收购了一家地图公司。更准确地说，是一家可以为你的家绘制地图的公司。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [嵌入式Ryzen 5000处理器在研华AIMB-522工业主板列表中被发现](https://www.cnbeta.com/articles/tech/1301515.htm) | Sat Aug 06 2022 5:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;基于Zen 3核心架构的AMD Ryzen 5000 CPU已经在市场上销售了近两年，AMD也即将推出下一代Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU，然而，Zen 3在现有平台上仍有一些应用，其中一个领域就是嵌入式市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [我国芯片行业人才薪资翻了3-5倍：40万年薪人才现在120万才能招到](https://www.cnbeta.com/articles/tech/1301513.htm) | Sat Aug 06 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据央视网报道称，目前半导体是我国着力发展的行业，而芯片行业人才薪资翻了3-5倍，这样也不难理解，为了更好的留住人才。&lt;strong&gt;随着国产芯片产业高速发展，芯片人才匮乏的现象日渐凸显。如今，薪水增加和高薪挖人成为行业常态。某微电子公司的董事长称，以前招一个人才，假设要40万，现在就要120万才能招聘到。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [不用精子卵子子宫 科学家“无中生有”培育出胚胎](https://www.cnbeta.com/articles/science/1301511.htm) | Sat Aug 06 2022 4:05 PM 
+- 🎊 [不用精子卵子子宫 科学家“无中生有”培育出胚胎](https://www.cnbeta.com/articles/science/1301511.htm) | Sat Aug 06 2022 4:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;没有子宫，胚胎可以生长发育吗？也不是不行。&lt;strong&gt;魏茨曼科学研究所的Jacob H.Hanna教授和他的研究团队做了一个“机器子宫”，成功地让小鼠胚胎在里面发育了6天，经历了原肠胚前期到器官发生晚期的关键阶段。这项研究成果于2021年3月发表在顶级期刊《自然》上。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [已退出手机市场的LG发布安卓平板：骁龙680加持 卖2200多元](https://www.cnbeta.com/articles/tech/1301509.htm) | Sat Aug 06 2022 4:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年4月份，LG宣布退出手机市场。LG表示，在行业竞争加剧的情况下，公司移动部门业绩持续低迷，因此作出这一决定。今后将集中资源开发其它新兴增长领域，比如电动汽车零配件、物联网设备和智能家居用品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [李连杰成名作《少林寺》等4K版重映 堪称中国影史奇迹](https://hot.cnbeta.com/articles/movie/1301507.htm) | Sat Aug 06 2022 4:03 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为李连杰的成名作，你看过他主演的《少林寺》吗？现在，北京国际电影节官方宣布，&lt;strong&gt;将精选《半边人》（2K）、《少林寺》（4K）与《黄飞鸿》（4K）三部修复经典影片与由新晋导演执导的四部佳作《麦路人》、《杀出个黄昏》、《一秒拳王》及《我的非凡父母》。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [直播带货乱象丛生 主播为追求流量让鸡蛋长树上](https://hot.cnbeta.com/articles/movie/1301505.htm) | Sat Aug 06 2022 3:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月6日消息，据央视财经频道报道，根据中消协最新发布的消费维权报告，&lt;strong&gt;部分主播在带货农产品时违反常识。&lt;/strong&gt;比如，&lt;strong&gt;有的主播为带货竟然可以让鸡蛋、草莓等长到树上，视频中出现了鸡蛋树的视频，这显然违反了常识。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
