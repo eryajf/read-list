@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [马斯克称若推特能确认部分内容 或将继续推进收购计划](https://www.cnbeta.com/articles/tech/1301519.htm) | Sat Aug 06 2022 6:17 PM 
+- 🕯 [蔚来新故事：手机向上看 造车向下看](https://www.cnbeta.com/articles/tech/1301529.htm) | Sat Aug 06 2022 7:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间8月6日，特斯拉首席执行官埃隆·马斯克在社交媒体上表示，如果推特能够确认一些关于如何衡量用户账户是“机器人或虚假账户”还是真人的细节，他以440亿美元收购推特的计划或将继续推进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月31日，博主“碳粉说电池不胖”在微博爆料，在常州蔚来车主面对面活动上，蔚来创始人李斌透露了蔚来手机的更多细节：&lt;strong&gt;7000元以上的旗舰机型，非曲面屏的直板机，会是和蔚来汽车匹配度最好的手机，预计一年后上市&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [亚马逊收购iRobot是为了给你的家绘制地图](https://www.cnbeta.com/articles/tech/1301517.htm) | Sat Aug 06 2022 6:16 PM 
+- 💼 [成千上万的黑客正涌向&quot;黑暗公用事业&quot;：C2-as-a-Service](https://www.cnbeta.com/articles/tech/1301527.htm) | Sat Aug 06 2022 6:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;通过收购iRobot，亚马逊获得了一台带有“真空装置”的数据收集机。&lt;strong&gt;亚马逊公司不仅收购了一家机器人吸尘器制造商。它收购了一家地图公司。更准确地说，是一家可以为你的家绘制地图的公司。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;安全研究人员发现了一种名为&amp;quot;黑暗公用事业&amp;quot;的新服务，它为网络犯罪分子提供了一种简单而廉价的方式，为其恶意行动建立一个指挥和控制（C2）中心。Dark Utilities服务为威胁者提供了一个支持Windows、Linux和基于Python的恶意程序载荷的平台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [嵌入式Ryzen 5000处理器在研华AIMB-522工业主板列表中被发现](https://www.cnbeta.com/articles/tech/1301515.htm) | Sat Aug 06 2022 5:49 PM 
+- 💂 [微星推出首款英特尔A380半高刀卡 专为小尺寸预制系统设计](https://www.cnbeta.com/articles/tech/1301525.htm) | Sat Aug 06 2022 6:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;基于Zen 3核心架构的AMD Ryzen 5000 CPU已经在市场上销售了近两年，AMD也即将推出下一代Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU，然而，Zen 3在现有平台上仍有一些应用，其中一个领域就是嵌入式市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微星推出了其首款英特尔A380显卡，这也是首款Low-Profile形态的显卡（半高刀卡）。微星的英特尔A380显卡的推出使其成为第三个在独立显卡阵容中提供英特尔Arc GPU的制造商。它采用了公版参考规格，并定制了专门为SFF（小尺寸）PC设计的定制PCB。到目前为止，我们只看到GUNNIR和华擎有此设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [我国芯片行业人才薪资翻了3-5倍：40万年薪人才现在120万才能招到](https://www.cnbeta.com/articles/tech/1301513.htm) | Sat Aug 06 2022 4:11 PM 
+- 🚀 [动视暴雪从移动游戏中赚的钱比PC和游戏机的总和还要多](https://hot.cnbeta.com/articles/game/1301523.htm) | Sat Aug 06 2022 6:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据央视网报道称，目前半导体是我国着力发展的行业，而芯片行业人才薪资翻了3-5倍，这样也不难理解，为了更好的留住人才。&lt;strong&gt;随着国产芯片产业高速发展，芯片人才匮乏的现象日渐凸显。如今，薪水增加和高薪挖人成为行业常态。某微电子公司的董事长称，以前招一个人才，假设要40万，现在就要120万才能招聘到。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;动视暴雪上周发布了季度财务报告，报告描绘了游戏平台不同层次的光明与黯淡。由于PC和游戏机销量暴跌，这家陷入困境的公司的收入逐年下降，以至于现在手机游戏占其收入的一半。如今，动视暴雪真的应该被称为动视暴雪King。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [不用精子卵子子宫 科学家“无中生有”培育出胚胎](https://www.cnbeta.com/articles/science/1301511.htm) | Sat Aug 06 2022 4:05 PM 
+- 🎊 [Instagram试图通过测试9:16全屏图片来取悦摄影爱好者](https://www.cnbeta.com/articles/tech/1301521.htm) | Sat Aug 06 2022 6:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;没有子宫，胚胎可以生长发育吗？也不是不行。&lt;strong&gt;魏茨曼科学研究所的Jacob H.Hanna教授和他的研究团队做了一个“机器子宫”，成功地让小鼠胚胎在里面发育了6天，经历了原肠胚前期到器官发生晚期的关键阶段。这项研究成果于2021年3月发表在顶级期刊《自然》上。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Instagram很快将开始测试一种新的照片格式，允许用户在主屏幕上发布9:16的图片，与该应用继续推动的全屏视频相匹配。这款由Meta公司拥有的应用程序已经逐渐推动了对视频的更多使用，但代价是将原有的摄影特色抛在后面。然而，它很快就会做出努力，使摄影可以在服务上与视频并存，具有类似的地位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
