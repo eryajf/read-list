@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [参与核反应的重水也能喝？喝过的都说甜？](https://www.cnbeta.com/articles/tech/1301493.htm) | Sat Aug 06 2022 12:12 PM 
+- 🕯 [马斯克解释为何不造主机和微软索尼竞争](https://www.cnbeta.com/articles/tech/1301495.htm) | Sat Aug 06 2022 1:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在最近的播客节目上，商业巨头埃隆马斯克解释了自己为什么没有兴趣打造一个主机平台，对抗PS5和Xbox Series X|S。马斯克对游戏的热情是众所周知的事情。此前他的Twitter头像就曾使用了《杀出重围1》的一张艺术图。而今年早些时候，马斯克晒出了自己的《艾尔登法环》build，被疯狂吐槽是最烂的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [参与核反应的重水也能喝？喝过的都说甜？](https://www.cnbeta.com/articles/tech/1301493.htm) | Sat Aug 06 2022 12:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;北京理工大学讲师，应用化学博士水是什么？从初中接触化学开始，我们就牢牢记住水是H2O，所以这看起来真是一个愚蠢的问题，但是化学家并不这么想。在0℃冰就会融化，这件事大家都知道，但如果有一种冰块在3.8℃以上才能融化，你相信吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [海报图像显示Galaxy Z Fold4前摄依旧隐约可见](https://www.cnbeta.com/articles/tech/1301491.htm) | Sat Aug 06 2022 12:12 PM 
+- 💂 [海报图像显示Galaxy Z Fold4前摄依旧隐约可见](https://www.cnbeta.com/articles/tech/1301491.htm) | Sat Aug 06 2022 12:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月6日消息，三星将于8月10日发布折叠屏Galaxy Z Fold4。赶在发布之前，亚马逊意外泄露了Galaxy Z Fold4的宣传海报。如图所示，三星Galaxy Z Fold4采用了屏下摄像头技术。然而&lt;strong&gt;三星屏下相机隐藏效果不够理想，从海报就能看到前置摄像头隐约可见。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [首届上海虚拟体育公开赛开启 涵盖赛艇赛车滑雪骑行高尔夫](https://www.cnbeta.com/articles/tech/1301489.htm) | Sat Aug 06 2022 11:40 AM 
+- 🚀 [首届上海虚拟体育公开赛开启 涵盖赛艇赛车滑雪骑行高尔夫](https://www.cnbeta.com/articles/tech/1301489.htm) | Sat Aug 06 2022 11:40 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月5日，首届上海虚拟体育公开赛（Shanghai Virtual Sports Open，简称SVS）暨莓塔体育元宇宙正式开启。&lt;strong&gt;SVS赛事是国内首个虚拟体育综合性赛事，赛事元年纳入了虚拟赛艇、虚拟赛车、虚拟滑雪、虚拟骑行、虚拟高尔夫5项赛事。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [被父亲催吃减肥药 马斯克决定行动起来：起床后先锻练20分钟](https://hot.cnbeta.com/articles/funny/1301487.htm) | Sat Aug 06 2022 11:37 AM 
+- 🎊 [被父亲催吃减肥药 马斯克决定行动起来：起床后先锻练20分钟](https://hot.cnbeta.com/articles/funny/1301487.htm) | Sat Aug 06 2022 11:37 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;上月份，马斯克被拍到在希腊的一个著名旅游海岛上度假，当时他光着上身，&lt;strong&gt;露出了一身白花花的肥肉&lt;/strong&gt;。随后，马斯克的裸身照在网上疯传，引发网友的调侃，马斯克自嘲称，他以后得多脱脱上衣，放松自己。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1301487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Arc显卡驱动糟糕 Intel解释缘由：市面上的游戏之前为AMD/NV优化](https://www.cnbeta.com/articles/tech/1301485.htm) | Sat Aug 06 2022 11:36 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel的Arc游戏显卡已经上市，虽然目前主要是A380这一款，但接下来还会有更高端的Arc 5、Arc 7系列上市，性能可以匹敌到RTX 3060/3070级别。当然，对Intel的Arc显卡，大家现在都知道硬件设计还是可圈可点，尤其是AV1编码很有优势，但是最大的麻烦还是驱动优化，A380在实际游戏中的表现被多家外媒形容为糟糕，表现不让人满意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
