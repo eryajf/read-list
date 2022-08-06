@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [elasticsearch单节点部署及内存调优（二）](https://juejin.cn/post/7128761990918438926) | Sat Aug 06 2022 1:58 PM 
+- 🤗 [防止数据冒用的方法](https://juejin.cn/post/7128775117923958797) | Sat Aug 06 2022 2:48 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 1.elasticsearch的部署 1.1.elasticsearch的安装访问 安装方式 优点 缺点  
+    我们看一个数据冒用的经典例子： 在一些网站成功登录后，浏览器的cookie会设置serviceToken值，服务器通过该值能获取到用户信息。 如果serviceToken被劫持？ 
     </details> 
 
-- 🎡 [HTTP 常用的状态码及使用场景](https://juejin.cn/post/7128760224403603464) | Sat Aug 06 2022 1:51 PM 
+- 🎡 [算法系列-链表](https://juejin.cn/post/7128774165984706591) | Sat Aug 06 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 HTTP 常用的状态码及使用场景 使用场景: 1xx：表示目前是协议的中间状态，还需要后续请求 2xx： 
+    写链表代码是最考验逻辑思维能力的。因为，链表代码到处都是指针的操作、边界条件的处理，稍有不慎就容易产生 Bug。 
     </details> 
 
-- 🕯 [Go-Excelize API源码阅读（六）—— DeleteSheet&lpar;sheet string&rpar;](https://juejin.cn/post/7128759232953843742) | Sat Aug 06 2022 1:47 PM 
+- 🕯 [Java小技巧：巧用函数方法实现二维数组遍历](https://juejin.cn/post/7128771846131941406) | Sat Aug 06 2022 2:36 PM 
     <details><summary>展开描述 ...</summary> 
-    该API根据给定的工作表名称删除指定工作表，谨慎使用此方法，这将会影响到与被删除工作表相关联的公式、引用、图表等元素。如果有其他组件引用了被删除工作表上的值，将会引发错误提示，甚至将会导致打开工作簿失 
+    java基本功介绍，借助函数方法，有效降低多维数组遍历的层级，提高代码的可阅读性，实战演练，零基础教学 
     </details> 
 
-- 🚀 [【刷题日记】622. 设计循环队列](https://juejin.cn/post/7128750888750956574) | Sat Aug 06 2022 1:14 PM 
+- 🚀 [头脑风暴：打家劫舍](https://juejin.cn/post/7128771460885119006) | Sat Aug 06 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 本次刷题日记的第 85 篇，力扣题为：622. 设计循环队列 一、题目描述： 今天来做一个循环队列设计相关 
+    题目 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的现金，影响你偷窃的唯一制约因素就是相邻的房屋装有相互连通的防盗系统，如果两间相邻的房屋在同一晚上被小偷闯入，系统会自动报警。 给定一个 
     </details> 
 
-- 💪 [LeetCode - #145 二叉树的后序遍历](https://juejin.cn/post/7128749658477690917) | Sat Aug 06 2022 1:12 PM 
+- 💪 [react-redux及redux持久化](https://juejin.cn/post/7128766881019723784) | Sat Aug 06 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
-    我们社区陆续会将顾毅（Netflix 增长黑客，《iOS 面试之道》作者，ACE 职业健身教练。）的 Swift 算法题题解整理为文字版以方便大家学习与阅读。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 一、react-redux react-redux依赖于redux工作。 运行安装命令：npm i rea 
     </details> 
 <!-- juejin:END -->
 ### 少数派
