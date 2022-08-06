@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Care+丢失险多国上线，国内却悄无声息，原因为何？](https://www.cnbeta.com/articles/tech/1301503.htm) | Sat Aug 06 2022 3:00 PM 
+- 🕯 [我国芯片行业人才薪资翻了3-5倍：40万年薪人才现在120万才能招到](https://www.cnbeta.com/articles/tech/1301513.htm) | Sat Aug 06 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;早在2018年，苹果在Apple Care+中增加了一项服务，名为with Theft and Loss&lpar;盗窃和丢失&rpar;理赔服务，iPhone用户只要购买了这项服务后，在iPhone丢失/被盗情况下就可以用超低价找苹果官方获得一台同型号的全新iPhone。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据央视网报道称，目前半导体是我国着力发展的行业，而芯片行业人才薪资翻了3-5倍，这样也不难理解，为了更好的留住人才。&lt;strong&gt;随着国产芯片产业高速发展，芯片人才匮乏的现象日渐凸显。如今，薪水增加和高薪挖人成为行业常态。某微电子公司的董事长称，以前招一个人才，假设要40万，现在就要120万才能招聘到。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [无线电源技术厂商Powermat与Nanami、 Yootech达成和解](https://www.cnbeta.com/articles/tech/1301501.htm) | Sat Aug 06 2022 1:29 PM 
+- 💼 [不用精子卵子子宫 科学家“无中生有”培育出胚胎](https://www.cnbeta.com/articles/science/1301511.htm) | Sat Aug 06 2022 4:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;先进无线电源技术厂商Powermat Technologies, Ltd.今（5）日宣布已与Nanami和Yootech解决了未决诉讼，并签订专利许可协议。Powermat Technologies指出，Nanami和Yootech同意为以往对专利技术的使用向公司支付一笔费用，随后按季度支付许可费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;没有子宫，胚胎可以生长发育吗？也不是不行。&lt;strong&gt;魏茨曼科学研究所的Jacob H.Hanna教授和他的研究团队做了一个“机器子宫”，成功地让小鼠胚胎在里面发育了6天，经历了原肠胚前期到器官发生晚期的关键阶段。这项研究成果于2021年3月发表在顶级期刊《自然》上。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [IE彻底退出历史舞台 盘点那些年微软砍掉的产品](https://www.cnbeta.com/articles/tech/1301499.htm) | Sat Aug 06 2022 1:28 PM 
+- 💂 [已退出手机市场的LG发布安卓平板：骁龙680加持 卖2200多元](https://www.cnbeta.com/articles/tech/1301509.htm) | Sat Aug 06 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如果你是一名老网民，一定有过和IE浏览器相爱相杀的经历。作为Windows很长一段时间内的默认浏览器，IE一度是先进技术的代表，其恐怖的市场占有率也让其一度成为了事实上的网页兼容标准。然而，由于技术长久停滞不前、市场环境发生改变等原因，IE节节败退，不仅在市场上难有容身之地，在微软内部也成为了被淘汰的项目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去年4月份，LG宣布退出手机市场。LG表示，在行业竞争加剧的情况下，公司移动部门业绩持续低迷，因此作出这一决定。今后将集中资源开发其它新兴增长领域，比如电动汽车零配件、物联网设备和智能家居用品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [消息称Intel 3nm核显GPU跳票 直奔15代酷睿](https://www.cnbeta.com/articles/tech/1301497.htm) | Sat Aug 06 2022 1:26 PM 
+- 🚀 [李连杰成名作《少林寺》等4K版重映 堪称中国影史奇迹](https://hot.cnbeta.com/articles/movie/1301507.htm) | Sat Aug 06 2022 4:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近有消息称Intel几乎取消了所有的台积电3nm订单，原本是跟苹果明年一起首发的，主要用于14代酷睿的核显GPU单元，这也是Intel处理器的子单元首次使用外部先进工艺。14代酷睿的核显规模原本有望达到192组Xe单元，是现在12代酷睿的2-3倍规模，不过不上3nm工艺的化，规模应该会缩小，之前传闻是128组Xe单元，减少了1/3。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为李连杰的成名作，你看过他主演的《少林寺》吗？现在，北京国际电影节官方宣布，&lt;strong&gt;将精选《半边人》（2K）、《少林寺》（4K）与《黄飞鸿》（4K）三部修复经典影片与由新晋导演执导的四部佳作《麦路人》、《杀出个黄昏》、《一秒拳王》及《我的非凡父母》。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马斯克解释为何不造主机和微软索尼竞争](https://www.cnbeta.com/articles/tech/1301495.htm) | Sat Aug 06 2022 1:19 PM 
+- 🎊 [直播带货乱象丛生 主播为追求流量让鸡蛋长树上](https://hot.cnbeta.com/articles/movie/1301505.htm) | Sat Aug 06 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在最近的播客节目上，商业巨头埃隆马斯克解释了自己为什么没有兴趣打造一个主机平台，对抗PS5和Xbox Series X|S。马斯克对游戏的热情是众所周知的事情。此前他的Twitter头像就曾使用了《杀出重围1》的一张艺术图。而今年早些时候，马斯克晒出了自己的《艾尔登法环》build，被疯狂吐槽是最烂的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月6日消息，据央视财经频道报道，根据中消协最新发布的消费维权报告，&lt;strong&gt;部分主播在带货农产品时违反常识。&lt;/strong&gt;比如，&lt;strong&gt;有的主播为带货竟然可以让鸡蛋、草莓等长到树上，视频中出现了鸡蛋树的视频，这显然违反了常识。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
