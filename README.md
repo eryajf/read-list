@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Akamai：针对网游行业的网络攻击在一年内增加了167个百分点](https://www.cnbeta.com/articles/tech/1301473.htm) | Sat Aug 06 2022 9:34 AM 
+- 🕯 [神舟十四号航天员太空出差满两个月：状态良好](https://www.cnbeta.com/articles/science/1301479.htm) | Sat Aug 06 2022 10:26 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据央视网新闻频道报道，&lt;strong&gt;8月5日是神舟十四号航天员“太空出差”满两个月的日子，&lt;/strong&gt;目前航天员身体健康，精神饱满，正在围绕核心舱日常照料、问天实验舱状态设置、再生生保系统安装和测试等展开各项工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [全新GLB效果图曝光 或继续使用1.3T发动机](https://www.cnbeta.com/articles/tech/1301477.htm) | Sat Aug 06 2022 10:25 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日消息，有海外媒体曝光了一张新款奔驰GLB的效果图。&lt;strong&gt;此次发布的为中期改款GLB&lt;/strong&gt;，主要变化集中在了造型细节方面，配置部分也会有相应的提升，以增强竞争力。从图片看，新车变化集中在前大灯组、前格栅、前保险杠及后尾灯组，LED日行灯及大灯组内部灯腔结构将进行升级，此外，车辆格栅及前保险杠造型也将进行微调。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [我国没有造芯片那种砂 每年还要进口13亿元天然砂](https://www.cnbeta.com/articles/tech/1301475.htm) | Sat Aug 06 2022 10:25 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;朋友，你知道天然砂吗？作为被限制出口的主角，这几天简直让网友们脑洞大开，甚至还扯上了“石器时代”……有不少人认为，天然砂是造芯的核心原材料，而我国有着丰富的自然资源。但其实并非如此。一方面，正如大家所说，此砂非彼砂。进出口的&lt;strong&gt;“天然砂”&lt;/strong&gt;，跟用来造芯的&lt;strong&gt;“天然砂”&lt;/strong&gt;并不是一类东西。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Akamai：针对网游行业的网络攻击在一年内增加了167个百分点](https://www.cnbeta.com/articles/tech/1301473.htm) | Sat Aug 06 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Akamai表示，游戏行业不断增长的价值吸引了更多的犯罪分子，他们试图扰乱网络游戏，窃取有价值的玩家的账户。根据Akamai Technologies的一份新报告，针对游戏行业的网络攻击在该行业最近的蓬勃发展中迅速上升。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微信里的视频怎么下载？教您用小工具轻松实现](https://www.cnbeta.com/articles/soft/1301471.htm) | Sat Aug 06 2022 9:30 AM 
+- 🎊 [微信里的视频怎么下载？教您用小工具轻松实现](https://www.cnbeta.com/articles/soft/1301471.htm) | Sat Aug 06 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;想要下载微信公众号，视频号里的视频却不知道怎么下载保存？这里小编推荐一个小巧玲珑的下载软件，用它就能轻松下载视频了，赶紧来看看。这个视频下载软件名叫小 V 视频号下载工具，为PC版，所以得用微信PC版配合操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1301471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Intel i9-13900K 5.8GHz火力全开 可轻松击败AMD 5950X/3990X](https://www.cnbeta.com/articles/tech/1301469.htm) | Sat Aug 06 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不少玩家很关心的i9-13900K性能，现在跑分软件已经提前揭晓了其零售版的成绩。Geekbench基准测试数据库刚刚揭示了零售版酷睿i9-13900K CPU的跑分成绩，可知采用24C / 32T（8P+16E）设计的“Raptor Lake”台式旗舰处理器，能够在最高5.8GHz睿频的情况下打败64C/128T的AMD 线程撕裂者3990X处理器、并且领先16C/32T的锐龙R9-5950X达50%以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [FIFA 23图形增强功能包括球场磨损细节、更真实的阴影以及更多](https://hot.cnbeta.com/articles/game/1301467.htm) | Sat Aug 06 2022 9:28 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着我们越来越接近《FIFA 23》的发布，EA SPORT继续分享关于游戏的更多细节。昨天，开发商重点介绍了最新版本（也是最后一个版本）的授权足球游戏的图形和演示增强功能；例如，今年的版本会展现在整个比赛过程中保持活动的球场磨损。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《蝙蝠女》被砍之后，DC电影总裁已接近离职边缘](https://hot.cnbeta.com/articles/movie/1301465.htm) | Sat Aug 06 2022 9:21 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有报道称，在电影版《蝙蝠女》被砍之后，DC电影总裁沃尔特·浜田已濒于离职边缘。不过，他目前已经同意在工作室至少留任到10月21日《黑亚当》上映之后。根据好莱坞记者报的爆料称，《蝙蝠女》项目搁置的这个消息只是在《黑亚当》的试映会上通知了滨田一声。而滨田对自己未能参与决策而感到极其不爽。报道称，他还担心这一消息会对电影的演职人员造成不利影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
