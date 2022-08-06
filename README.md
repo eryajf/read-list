@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【webpack快速入门】如何手动给项目配置一个webpack打包工具？](https://juejin.cn/post/7128641619766542367) | Sat Aug 06 2022 6:10 AM 
+- 🤗 [6 个让网页浏览更好的 Google Chrome 扩展](https://juejin.cn/post/7128647427682222110) | Sat Aug 06 2022 6:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    6 个让网页浏览更好的 Google Chrome 扩展 Chrome 浏览器凭借流畅的访问体验、简洁的用户界面和众多好用的扩展程序得到了很多用户的喜爱。而作为程序员的我来讲，非常渴望高效地使用 Ch 
+    </details> 
+
+- 🎡 [深入浅出边缘云 | 5. 运行时控制](https://juejin.cn/post/7128645259831017508) | Sat Aug 06 2022 6:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    本系列是开源电子书Edge Cloud Operations: A Systems Approach的中文版，详细介绍了基于开源组件构建的边缘云的架构、功能及具体实现。 
+    </details> 
+
+- 🕯 [【webpack快速入门】如何手动给项目配置一个webpack打包工具？](https://juejin.cn/post/7128641619766542367) | Sat Aug 06 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
     前言 大家好，我是东东吖 , 一名前端工程师，随着工作的深入，想要成为一名【高级前端工程师】，就不得不学习更加深入的内容，如前端工程化，前端动画，框架原理与源码，全栈开发、泛客户端开发... 
     </details> 
 
-- 🎡 [JVM调优-JVM调优实践二](https://juejin.cn/post/7128641152877608973) | Sat Aug 06 2022 6:08 AM 
+- 🚀 [JVM调优-JVM调优实践二](https://juejin.cn/post/7128641152877608973) | Sat Aug 06 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 1.写在前面 在上一篇文章中，我们分享了调优的主要步骤，和gc日志的分析。 分享了一个gc日志分析的可视 
     </details> 
 
-- 🕯 [《矛盾论》思考深度、高度](https://juejin.cn/post/7128638223944777741) | Sat Aug 06 2022 5:58 AM 
+- 💪 [《矛盾论》思考深度、高度](https://juejin.cn/post/7128638223944777741) | Sat Aug 06 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
     偶遇《矛盾论》 博主平时空闲的时候会关注平时比较出名的博主写的博客，偶然一次看到阿里的一篇 如何快速理解复杂业务，系统思考问题？，里头提到了《矛盾论》，还是毛主席写的，自然要去拜读一波。 初识《矛盾论 
-    </details> 
-
-- 🚀 [挑战Demand-100（002/100）之 防止sql注入风险](https://juejin.cn/post/7128635297780219934) | Sat Aug 06 2022 5:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    这个需求我们主管以为是个系统漏洞，可能搞起来要很久，居然给我三天时间，我一听到三天就偷偷笑了，我当天下午就给他搞完了，含泪摸了两天鱼。。。。 
-    </details> 
-
-- 💪 [Docker 部署单页应用](https://juejin.cn/post/7128635346769674276) | Sat Aug 06 2022 5:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 1. Docker 介绍 Docker 是一个基于 GO 语言和 Linux 内核的虚拟化容器技术，遵从 
     </details> 
 <!-- juejin:END -->
 ### 少数派
