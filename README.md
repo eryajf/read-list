@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Ofuro - 探索日本的温泉、温泉和当地浴池](https://xinquji.com/posts/178521?utm_campaign=xinquji-rss) | Sat Aug 06 2022 6:30 AM 
+- 👀 [Peerlink - 获取自己的页面，销售 1 对 1 节目，安排约会](https://xinquji.com/posts/178530?utm_campaign=xinquji-rss) | Sun Aug 07 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     探索日本的温泉、温泉和当地浴池  
+     获取自己的页面，销售 1 对 1 节目，安排约会  
     </details> 
 
-- 🥷 [WTFcrypto - 帮助您最终了解加密货币的时事通讯](https://xinquji.com/posts/178520?utm_campaign=xinquji-rss) | Sat Aug 06 2022 6:27 AM 
+- 🥷 [Txtmoji - 将文本加密为表情符号](https://xinquji.com/posts/178529?utm_campaign=xinquji-rss) | Sun Aug 07 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     帮助您最终了解加密货币的时事通讯  
+     将文本加密为表情符号  
     </details> 
 
-- 💼 [Email Marketing Funnel Guide - 电子邮件营销电子书](https://xinquji.com/posts/178519?utm_campaign=xinquji-rss) | Sat Aug 06 2022 6:25 AM 
+- 💼 [ReadingLines - 从图像中提取文本](https://xinquji.com/posts/178528?utm_campaign=xinquji-rss) | Sun Aug 07 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     电子邮件营销电子书  
+     从图像中提取文本  
     </details> 
 
-- 🦅 [Klasshour - 即时课外支持](https://xinquji.com/posts/178518?utm_campaign=xinquji-rss) | Sat Aug 06 2022 6:23 AM 
+- 🦅 [File Approved - 获得文件批准的最快方法。](https://xinquji.com/posts/178527?utm_campaign=xinquji-rss) | Sun Aug 07 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-     即时课外支持  
+     获得文件批准的最快方法。  
     </details> 
 
-- 😺 [mintibbl - 与你的朋友一起画画、猜猜和铸币](https://xinquji.com/posts/178517?utm_campaign=xinquji-rss) | Sat Aug 06 2022 6:21 AM 
+- 😺 [Otternal Life - 建立和跟踪习惯。记录心情和简短的轶事。](https://xinquji.com/posts/178526?utm_campaign=xinquji-rss) | Sun Aug 07 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-     与你的朋友一起画画、猜猜和铸币  
+     建立和跟踪习惯。记录心情和简短的轶事。  
     </details> 
 <!-- xinquji:END -->
