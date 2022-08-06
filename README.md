@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [神舟十四号航天员太空出差满两个月：状态良好](https://www.cnbeta.com/articles/science/1301479.htm) | Sat Aug 06 2022 10:26 AM 
+- 🕯 [参与核反应的重水也能喝？喝过的都说甜？](https://www.cnbeta.com/articles/tech/1301493.htm) | Sat Aug 06 2022 12:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据央视网新闻频道报道，&lt;strong&gt;8月5日是神舟十四号航天员“太空出差”满两个月的日子，&lt;/strong&gt;目前航天员身体健康，精神饱满，正在围绕核心舱日常照料、问天实验舱状态设置、再生生保系统安装和测试等展开各项工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京理工大学讲师，应用化学博士水是什么？从初中接触化学开始，我们就牢牢记住水是H2O，所以这看起来真是一个愚蠢的问题，但是化学家并不这么想。在0℃冰就会融化，这件事大家都知道，但如果有一种冰块在3.8℃以上才能融化，你相信吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [全新GLB效果图曝光 或继续使用1.3T发动机](https://www.cnbeta.com/articles/tech/1301477.htm) | Sat Aug 06 2022 10:25 AM 
+- 💼 [海报图像显示Galaxy Z Fold4前摄依旧隐约可见](https://www.cnbeta.com/articles/tech/1301491.htm) | Sat Aug 06 2022 12:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日消息，有海外媒体曝光了一张新款奔驰GLB的效果图。&lt;strong&gt;此次发布的为中期改款GLB&lt;/strong&gt;，主要变化集中在了造型细节方面，配置部分也会有相应的提升，以增强竞争力。从图片看，新车变化集中在前大灯组、前格栅、前保险杠及后尾灯组，LED日行灯及大灯组内部灯腔结构将进行升级，此外，车辆格栅及前保险杠造型也将进行微调。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月6日消息，三星将于8月10日发布折叠屏Galaxy Z Fold4。赶在发布之前，亚马逊意外泄露了Galaxy Z Fold4的宣传海报。如图所示，三星Galaxy Z Fold4采用了屏下摄像头技术。然而&lt;strong&gt;三星屏下相机隐藏效果不够理想，从海报就能看到前置摄像头隐约可见。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [我国没有造芯片那种砂 每年还要进口13亿元天然砂](https://www.cnbeta.com/articles/tech/1301475.htm) | Sat Aug 06 2022 10:25 AM 
+- 💂 [首届上海虚拟体育公开赛开启 涵盖赛艇赛车滑雪骑行高尔夫](https://www.cnbeta.com/articles/tech/1301489.htm) | Sat Aug 06 2022 11:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;朋友，你知道天然砂吗？作为被限制出口的主角，这几天简直让网友们脑洞大开，甚至还扯上了“石器时代”……有不少人认为，天然砂是造芯的核心原材料，而我国有着丰富的自然资源。但其实并非如此。一方面，正如大家所说，此砂非彼砂。进出口的&lt;strong&gt;“天然砂”&lt;/strong&gt;，跟用来造芯的&lt;strong&gt;“天然砂”&lt;/strong&gt;并不是一类东西。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月5日，首届上海虚拟体育公开赛（Shanghai Virtual Sports Open，简称SVS）暨莓塔体育元宇宙正式开启。&lt;strong&gt;SVS赛事是国内首个虚拟体育综合性赛事，赛事元年纳入了虚拟赛艇、虚拟赛车、虚拟滑雪、虚拟骑行、虚拟高尔夫5项赛事。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Akamai：针对网游行业的网络攻击在一年内增加了167个百分点](https://www.cnbeta.com/articles/tech/1301473.htm) | Sat Aug 06 2022 9:34 AM 
+- 🚀 [被父亲催吃减肥药 马斯克决定行动起来：起床后先锻练20分钟](https://hot.cnbeta.com/articles/funny/1301487.htm) | Sat Aug 06 2022 11:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Akamai表示，游戏行业不断增长的价值吸引了更多的犯罪分子，他们试图扰乱网络游戏，窃取有价值的玩家的账户。根据Akamai Technologies的一份新报告，针对游戏行业的网络攻击在该行业最近的蓬勃发展中迅速上升。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上月份，马斯克被拍到在希腊的一个著名旅游海岛上度假，当时他光着上身，&lt;strong&gt;露出了一身白花花的肥肉&lt;/strong&gt;。随后，马斯克的裸身照在网上疯传，引发网友的调侃，马斯克自嘲称，他以后得多脱脱上衣，放松自己。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1301487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微信里的视频怎么下载？教您用小工具轻松实现](https://www.cnbeta.com/articles/soft/1301471.htm) | Sat Aug 06 2022 9:30 AM 
+- 🎊 [Arc显卡驱动糟糕 Intel解释缘由：市面上的游戏之前为AMD/NV优化](https://www.cnbeta.com/articles/tech/1301485.htm) | Sat Aug 06 2022 11:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;想要下载微信公众号，视频号里的视频却不知道怎么下载保存？这里小编推荐一个小巧玲珑的下载软件，用它就能轻松下载视频了，赶紧来看看。这个视频下载软件名叫小 V 视频号下载工具，为PC版，所以得用微信PC版配合操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1301471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel的Arc游戏显卡已经上市，虽然目前主要是A380这一款，但接下来还会有更高端的Arc 5、Arc 7系列上市，性能可以匹敌到RTX 3060/3070级别。当然，对Intel的Arc显卡，大家现在都知道硬件设计还是可圈可点，尤其是AV1编码很有优势，但是最大的麻烦还是驱动优化，A380在实际游戏中的表现被多家外媒形容为糟糕，表现不让人满意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
