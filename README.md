@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [2202 年了 Windows 还没有高效的文件多标签？](https://www.v2ex.com/t/871045#reply3) | Sat Aug 06 2022 2:51 AM
-- 🤗 [go 泛型以后会支持特例化吗](https://www.v2ex.com/t/871042#reply3) | Sat Aug 06 2022 2:44 AM
-- 🎭 [函数调用 return func 和 return result 有什么区别吗？](https://www.v2ex.com/t/871039#reply3) | Sat Aug 06 2022 2:28 AM
-- 🥷 [请问 Win10 多桌面如何绑定应用？](https://www.v2ex.com/t/871021#reply9) | Sat Aug 06 2022 12:55 AM
-- 🐵 [关于分页只能写 sql 的痛苦](https://www.v2ex.com/t/871007#reply24) | Fri Aug 05 2022 5:59 PM<!-- v2ex:END -->
+- 🥸 [2202 年了 Windows 还没有高效的文件多标签？](https://www.v2ex.com/t/871045#reply13) | Sat Aug 06 2022 2:51 AM
+- 🤗 [go 泛型以后会支持特例化吗](https://www.v2ex.com/t/871042#reply7) | Sat Aug 06 2022 2:44 AM
+- 🎭 [函数调用 return func 和 return result 有什么区别吗？](https://www.v2ex.com/t/871039#reply4) | Sat Aug 06 2022 2:28 AM
+- 🥷 [请问 Win10 多桌面如何绑定应用？](https://www.v2ex.com/t/871021#reply10) | Sat Aug 06 2022 12:55 AM
+- 🐵 [关于分页只能写 sql 的痛苦](https://www.v2ex.com/t/871007#reply29) | Fri Aug 05 2022 5:59 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
