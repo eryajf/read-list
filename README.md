@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [在犹他州沙漠盐滩上偶然发现了一组神秘的“鬼脚印”](http://jandan.net/p/111080) | Sat Aug 06 2022 9:50 AM 
+- 🚀 [法国原子能委员会主任因恶作剧道歉：欺骗公众，把香肠说成是比邻星](http://jandan.net/p/111093) | Sat Aug 06 2022 12:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    还记得10多年前那个用平底锅冒充欧罗巴卫星的恶作剧吗 
+    </details> 
+
+- 🙉 [在犹他州沙漠盐滩上偶然发现了一组神秘的“鬼脚印”](http://jandan.net/p/111080) | Sat Aug 06 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
     只有下雨时才显现  
     </details> 
 
-- 🙉 [从水化学视角解释 为什么感冒存在季节性](http://jandan.net/p/111086) | Sat Aug 06 2022 3:15 AM 
+- 🎉 [从水化学视角解释 为什么感冒存在季节性](http://jandan.net/p/111086) | Sat Aug 06 2022 3:15 AM 
     <details><summary>展开描述 ...</summary> 
     接触电气化 
     </details> 
 
-- 🎉 [今日好价 0806](http://jandan.net/p/111091) | Sat Aug 06 2022 2:28 AM 
+- 🐲 [今日好价 0806](http://jandan.net/p/111091) | Sat Aug 06 2022 2:28 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [思维方式也遵循昼夜周期 午夜未眠 大脑就会转入消极模式](http://jandan.net/p/111085) | Fri Aug 05 2022 3:14 PM 
+-  [思维方式也遵循昼夜周期 午夜未眠 大脑就会转入消极模式](http://jandan.net/p/111085) | Fri Aug 05 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
     人类曾经也是猎物，到了晚上更加危险 
-    </details> 
-
--  [发霉啦：今天，前任说她想我了](http://jandan.net/p/111090) | Fri Aug 05 2022 11:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    没有摸鱼的时间来翻译FML，感觉亏了很多。FML 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
