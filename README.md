@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [无线电源技术厂商Powermat与Nanami、 Yootech达成和解](https://www.cnbeta.com/articles/tech/1301501.htm) | Sat Aug 06 2022 1:29 PM 
+- 🕯 [Apple Care+丢失险多国上线，国内却悄无声息，原因为何？](https://www.cnbeta.com/articles/tech/1301503.htm) | Sat Aug 06 2022 3:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;早在2018年，苹果在Apple Care+中增加了一项服务，名为with Theft and Loss&lpar;盗窃和丢失&rpar;理赔服务，iPhone用户只要购买了这项服务后，在iPhone丢失/被盗情况下就可以用超低价找苹果官方获得一台同型号的全新iPhone。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [无线电源技术厂商Powermat与Nanami、 Yootech达成和解](https://www.cnbeta.com/articles/tech/1301501.htm) | Sat Aug 06 2022 1:29 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;先进无线电源技术厂商Powermat Technologies, Ltd.今（5）日宣布已与Nanami和Yootech解决了未决诉讼，并签订专利许可协议。Powermat Technologies指出，Nanami和Yootech同意为以往对专利技术的使用向公司支付一笔费用，随后按季度支付许可费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [IE彻底退出历史舞台 盘点那些年微软砍掉的产品](https://www.cnbeta.com/articles/tech/1301499.htm) | Sat Aug 06 2022 1:28 PM 
+- 💂 [IE彻底退出历史舞台 盘点那些年微软砍掉的产品](https://www.cnbeta.com/articles/tech/1301499.htm) | Sat Aug 06 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;如果你是一名老网民，一定有过和IE浏览器相爱相杀的经历。作为Windows很长一段时间内的默认浏览器，IE一度是先进技术的代表，其恐怖的市场占有率也让其一度成为了事实上的网页兼容标准。然而，由于技术长久停滞不前、市场环境发生改变等原因，IE节节败退，不仅在市场上难有容身之地，在微软内部也成为了被淘汰的项目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [消息称Intel 3nm核显GPU跳票 直奔15代酷睿](https://www.cnbeta.com/articles/tech/1301497.htm) | Sat Aug 06 2022 1:26 PM 
+- 🚀 [消息称Intel 3nm核显GPU跳票 直奔15代酷睿](https://www.cnbeta.com/articles/tech/1301497.htm) | Sat Aug 06 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近有消息称Intel几乎取消了所有的台积电3nm订单，原本是跟苹果明年一起首发的，主要用于14代酷睿的核显GPU单元，这也是Intel处理器的子单元首次使用外部先进工艺。14代酷睿的核显规模原本有望达到192组Xe单元，是现在12代酷睿的2-3倍规模，不过不上3nm工艺的化，规模应该会缩小，之前传闻是128组Xe单元，减少了1/3。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [马斯克解释为何不造主机和微软索尼竞争](https://www.cnbeta.com/articles/tech/1301495.htm) | Sat Aug 06 2022 1:19 PM 
+- 🎊 [马斯克解释为何不造主机和微软索尼竞争](https://www.cnbeta.com/articles/tech/1301495.htm) | Sat Aug 06 2022 1:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在最近的播客节目上，商业巨头埃隆马斯克解释了自己为什么没有兴趣打造一个主机平台，对抗PS5和Xbox Series X|S。马斯克对游戏的热情是众所周知的事情。此前他的Twitter头像就曾使用了《杀出重围1》的一张艺术图。而今年早些时候，马斯克晒出了自己的《艾尔登法环》build，被疯狂吐槽是最烂的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [参与核反应的重水也能喝？喝过的都说甜？](https://www.cnbeta.com/articles/tech/1301493.htm) | Sat Aug 06 2022 12:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京理工大学讲师，应用化学博士水是什么？从初中接触化学开始，我们就牢牢记住水是H2O，所以这看起来真是一个愚蠢的问题，但是化学家并不这么想。在0℃冰就会融化，这件事大家都知道，但如果有一种冰块在3.8℃以上才能融化，你相信吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
