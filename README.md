@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Java面试】这道互联网高频面试题难住了80%的程序员？索引什么时候失效？](https://juejin.cn/post/7128667657553281061) | Sat Aug 06 2022 7:52 AM 
+- 🤗 [iOSUIKit和Swift ｜ 青训营笔记](https://juejin.cn/post/7128677543162413087) | Sat Aug 06 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt; “索引什么时候失效？” &gt; &gt; 面试过程中，突如其来的一个问题，是不是有点懵？ &gt; &gt; 没关系，关注我，面试不迷路。 &gt; &gt; 我是Mic，一个工作了14年的Java程序员。 &gt; &gt; 索引 
+    这是我参与「第四届青训营 -iOS场」笔记创作活动的的第4篇笔记。UIKit/Swift/SwiftUI 
     </details> 
 
-- 🎡 [线性代数和概率论](https://juejin.cn/post/7128662983374274590) | Sat Aug 06 2022 7:33 AM 
+- 🎡 [关于mmap不为人知的秘密](https://juejin.cn/post/7128675991819386893) | Sat Aug 06 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-    谈到人工智能和机器学习，就必须具备一定的数学基础知识，才能让我们更深刻的理解其本质。而这些数学基础知识中最重要的包含两块内容：线性代数和概率论。 线性代数 线性代数的核心意义：万事万物都可以被抽象成某 
+    本文将从例子角度出发，分析mmap的来龙去脉，内涵mmap中的使用细节与解析，就算是敢接触的新手，都可快速了解mmap背后的秘密 
     </details> 
 
-- 🕯 [Nodejs 基础](https://juejin.cn/post/7128661910018326565) | Sat Aug 06 2022 7:29 AM 
+- 🕯 [LeetCode搜索插入位置使用JavaScript解题|前端学算法](https://juejin.cn/post/7128675995225161735) | Sat Aug 06 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-    Nodejs 基础 一、Node.js 的特性 常见的后端开发语言和技术有多种: 基于 Java 的 Spring 基于 Python 的 Django ... 相比其他后端技术，JavaScript 
+    使用JavaScript解题LeetCode搜索插入位置，还是使用二分法解题，难度大的做不出来，咱还做不出来简单的嘛 
     </details> 
 
-- 🚀 [Android端自动化测试工具源码分享](https://juejin.cn/post/7128654235930984461) | Sat Aug 06 2022 6:59 AM 
+- 🚀 [博客项目&lpar;4、初始化&rpar;](https://juejin.cn/post/7128673564051374110) | Sat Aug 06 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-    在上一篇的文章中，针对Android端的自动化测试框架做了一个简单的了解与使用，今天这篇文章呢，咱们就谈一谈具体的实现思路 
+    上一章中，我为设计到的用户模块、文章模块、分类标签等模块进行了数据库设计工作，本章开始就要对设计的个人博客进行代码开发工作了 
     </details> 
 
-- 💪 [Jetpack架构组件学习&lpar;1&rpar;——LifeCycle的使用](https://juejin.cn/post/7128618589518561293) | Sat Aug 06 2022 4:41 AM 
+- 💪 [一起来学华为云数据库，RDS实践【华为云至简致远】](https://juejin.cn/post/7128671835604025352) | Sat Aug 06 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    最近有时间了，准备入坑Jetpack架构，第一篇就学个简单的`LifeCycle`，可以帮助开发者创建可感知生命周期的组件。 
+    【摘要】 写在前面实验沙箱获取地址：https://lab.huaweicloud.com/testdetail_476接下来又是沉浸式学习体验过程。为了体验华为云的 RDS MySQL 过程，我们直 
     </details> 
 <!-- juejin:END -->
 ### 少数派
