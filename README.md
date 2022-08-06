@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [手把手教你定位线上MySQL锁超时问题，包教包会](https://juejin.cn/post/7128419961415925790) | Fri Aug 05 2022 3:50 PM 
+- 🤗 [为什么要做LiveVideoStack课程？](https://juejin.cn/post/7128563268209082376) | Sat Aug 06 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
-    昨晚我正在床上睡得着着的，突然来了一条短信。 什么？线上的订单无法取消！ 我赶紧登录线上系统，查看业务日志。 发现有MySQL锁超时的错误日志。 
+    今天的主题是，我们要推出课程产品了，希望大家多多支持。我们会上线第一门课程——《轻松掌握WebAssembly视频播放器》轻松掌握WebAssembly视频播放器，由李超老师亲自打造。 
     </details> 
 
-- 🎡 [Go-Excelize API源码阅读（五）—— Close&lpar;&rpar;、NewSheet&lpar;&rpar;](https://juejin.cn/post/7128410261039349796) | Fri Aug 05 2022 3:12 PM 
+- 🎡 [iOS小技能： 抽奖轮盘跑马灯边框的实现](https://juejin.cn/post/7128560927393185799) | Sat Aug 06 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
-    此API的作用是关闭工作簿并清理打开文档时可能产生的系统磁盘缓存。本文着重介绍这两个API是如何工作的，深入挖掘它们。 
+    前言 跑马灯的应用场景： iOS 抽奖轮盘边框动画 在待办界面或者工作台界面，往往需要应用到跑马灯的地方 如用户登陆未绑定手机号，进行提示。 I iOS 抽奖轮盘边框动画 1.1 原理 用NSTime 
     </details> 
 
-- 🕯 [什么是 HTTPS 的证书信任链？自己给自己发行不行？](https://juejin.cn/post/7128409253722718244) | Fri Aug 05 2022 3:09 PM 
+- 🕯 [PHP代码审计（四）PHP文件操作函数](https://juejin.cn/post/7128559059732529183) | Sat Aug 06 2022 12:51 AM 
     <details><summary>展开描述 ...</summary> 
-    互联网应用的网络通信一般都是通过 HTTP，但 HTTP 是明文传输的，容易泄漏信息，所以大多数应用都会升级为 HTTPS。 HTTP 底层是用 TCP 传输的，HTTPS 就是在 TCP 和 HTT 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 常用PHP文件操作函数 注：文件操作函数的行为受到 php.ini 中设置的影响。 当在 Unix 平台 
     </details> 
 
-- 🚀 [看一遍就会：0-1 背包问题](https://juejin.cn/post/7128408424362016781) | Fri Aug 05 2022 3:06 PM 
+- 🚀 [算法简单题，吾辈重拳出击 - 前 n 个数字二进制中 1 的个数](https://juejin.cn/post/7128531936393297956) | Fri Aug 05 2022 11:24 PM 
     <details><summary>展开描述 ...</summary> 
-    基本介绍 今天就来说一下背包问题吧，就讨论最常说的 0-1 背包问题，简单描述一下吧： 给你一个可装载重量为W的背包和N个物品，每个物品有重量和价值两个属性。其中第i个物品的重量为wt[i]，价值为v 
+    更重要的是再次过一遍动态规划的简单题基础思维：动态规划 =&gt; 子问题 =&gt; 复用计算结果（通常伴随比较得值、更新值） =&gt; 递归（通常一遍循环即可） 
     </details> 
 
-- 💪 [Chrome操作指南——入门篇（五）Snippets](https://juejin.cn/post/7128407387156774943) | Fri Aug 05 2022 3:01 PM 
+- 💪 [Java转Android：第6天  BroadcastReceiver知道你换了壁纸](https://juejin.cn/post/7128491222913515534) | Fri Aug 05 2022 9:50 PM 
     <details><summary>展开描述 ...</summary> 
-    有时候我们浏览一个壁纸网站的时候，可能我们想把这个页面的图片地址全都扒过来，可能你会下载一个工具，获取通过别的途径来实现。但今天我要告诉你，JavaScript也可以，配合上你的浏览器，几行代码帮你轻 
+    日更第7天，好累。看完这800字，你将获得：你的壁纸被女票更换了，你的程序会记录下来，并警示她。主要使用BroadcastReceiver…… 
     </details> 
 <!-- juejin:END -->
 ### 少数派
