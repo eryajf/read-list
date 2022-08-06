@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有国外大厂提供免费 NodeJS 运行环境吗？直接从 github 拉取编译那种](https://www.v2ex.com/t/871085#reply0) | Sat Aug 06 2022 6:24 AM
+- 🥸 [有国外大厂提供免费 NodeJS 运行环境吗？直接从 github 拉取编译那种](https://www.v2ex.com/t/871085#reply7) | Sat Aug 06 2022 6:24 AM
 - 🤗 [LOVEPHP-WEB 全栈开源框架发布](https://www.v2ex.com/t/871065#reply6) | Sat Aug 06 2022 4:31 AM
-- 🎭 [最近忽然有种感觉， web2 的应用逐渐在腐朽崩塌，但新的应用形式是什么样，又还看不清楚。不知道大家有什么想法吗，可以一起来说说呀。现存的痛点究竟是什么，我们该怎么建设出一个更好的？](https://www.v2ex.com/t/871064#reply20) | Sat Aug 06 2022 4:24 AM
-- 🥷 [2202 年了 Windows 还没有高效的文件多标签？](https://www.v2ex.com/t/871045#reply23) | Sat Aug 06 2022 2:51 AM
-- 🐵 [go 泛型以后会支持特例化吗](https://www.v2ex.com/t/871042#reply7) | Sat Aug 06 2022 2:44 AM<!-- v2ex:END -->
+- 🎭 [最近忽然有种感觉， web2 的应用逐渐在腐朽崩塌，但新的应用形式是什么样，又还看不清楚。不知道大家有什么想法吗，可以一起来说说呀。现存的痛点究竟是什么，我们该怎么建设出一个更好的？](https://www.v2ex.com/t/871064#reply22) | Sat Aug 06 2022 4:24 AM
+- 🥷 [2202 年了 Windows 还没有高效的文件多标签？](https://www.v2ex.com/t/871045#reply28) | Sat Aug 06 2022 2:51 AM
+- 🐵 [go 泛型以后会支持特例化吗](https://www.v2ex.com/t/871042#reply8) | Sat Aug 06 2022 2:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
