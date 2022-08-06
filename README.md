@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [6 个让网页浏览更好的 Google Chrome 扩展](https://juejin.cn/post/7128647427682222110) | Sat Aug 06 2022 6:33 AM 
+- 🤗 [【Java面试】这道互联网高频面试题难住了80%的程序员？索引什么时候失效？](https://juejin.cn/post/7128667657553281061) | Sat Aug 06 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-    6 个让网页浏览更好的 Google Chrome 扩展 Chrome 浏览器凭借流畅的访问体验、简洁的用户界面和众多好用的扩展程序得到了很多用户的喜爱。而作为程序员的我来讲，非常渴望高效地使用 Ch 
+    &gt; “索引什么时候失效？” &gt; &gt; 面试过程中，突如其来的一个问题，是不是有点懵？ &gt; &gt; 没关系，关注我，面试不迷路。 &gt; &gt; 我是Mic，一个工作了14年的Java程序员。 &gt; &gt; 索引 
     </details> 
 
-- 🎡 [深入浅出边缘云 | 5. 运行时控制](https://juejin.cn/post/7128645259831017508) | Sat Aug 06 2022 6:24 AM 
+- 🎡 [线性代数和概率论](https://juejin.cn/post/7128662983374274590) | Sat Aug 06 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
-    本系列是开源电子书Edge Cloud Operations: A Systems Approach的中文版，详细介绍了基于开源组件构建的边缘云的架构、功能及具体实现。 
+    谈到人工智能和机器学习，就必须具备一定的数学基础知识，才能让我们更深刻的理解其本质。而这些数学基础知识中最重要的包含两块内容：线性代数和概率论。 线性代数 线性代数的核心意义：万事万物都可以被抽象成某 
     </details> 
 
-- 🕯 [【webpack快速入门】如何手动给项目配置一个webpack打包工具？](https://juejin.cn/post/7128641619766542367) | Sat Aug 06 2022 6:10 AM 
+- 🕯 [Nodejs 基础](https://juejin.cn/post/7128661910018326565) | Sat Aug 06 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 大家好，我是东东吖 , 一名前端工程师，随着工作的深入，想要成为一名【高级前端工程师】，就不得不学习更加深入的内容，如前端工程化，前端动画，框架原理与源码，全栈开发、泛客户端开发... 
+    Nodejs 基础 一、Node.js 的特性 常见的后端开发语言和技术有多种: 基于 Java 的 Spring 基于 Python 的 Django ... 相比其他后端技术，JavaScript 
     </details> 
 
-- 🚀 [JVM调优-JVM调优实践二](https://juejin.cn/post/7128641152877608973) | Sat Aug 06 2022 6:08 AM 
+- 🚀 [Android端自动化测试工具源码分享](https://juejin.cn/post/7128654235930984461) | Sat Aug 06 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 1.写在前面 在上一篇文章中，我们分享了调优的主要步骤，和gc日志的分析。 分享了一个gc日志分析的可视 
+    在上一篇的文章中，针对Android端的自动化测试框架做了一个简单的了解与使用，今天这篇文章呢，咱们就谈一谈具体的实现思路 
     </details> 
 
-- 💪 [《矛盾论》思考深度、高度](https://juejin.cn/post/7128638223944777741) | Sat Aug 06 2022 5:58 AM 
+- 💪 [Jetpack架构组件学习&lpar;1&rpar;——LifeCycle的使用](https://juejin.cn/post/7128618589518561293) | Sat Aug 06 2022 4:41 AM 
     <details><summary>展开描述 ...</summary> 
-    偶遇《矛盾论》 博主平时空闲的时候会关注平时比较出名的博主写的博客，偶然一次看到阿里的一篇 如何快速理解复杂业务，系统思考问题？，里头提到了《矛盾论》，还是毛主席写的，自然要去拜读一波。 初识《矛盾论 
+    最近有时间了，准备入坑Jetpack架构，第一篇就学个简单的`LifeCycle`，可以帮助开发者创建可感知生命周期的组件。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
