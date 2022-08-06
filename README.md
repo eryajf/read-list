@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[图]苹果M2上网速度实测：Speedomter 2.0跑分比M1快18%](https://www.cnbeta.com/articles/tech/1301421.htm) | Sat Aug 06 2022 4:11 AM 
+- 🕯 [Artillect将80年代打字机变身为Linux终端和ASCII艺术打印机](https://www.cnbeta.com/articles/tech/1301425.htm) | Sat Aug 06 2022 5:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，油管 Artillect 频道分享了一个相当有趣的老旧外设改造视频 —— &lt;strong&gt;展示了如何通过现代硬件，将上世纪 80 年代的 Brother AX-25 电子打字机，变身为一套 Linux 终端 + ASCII 码的艺术打印机。&lt;/strong&gt;据悉，1980年代后期的原版兄弟 AX-25 使用了菊花字轮来打印文本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Google Immersive Stream for XR即将支持VR/AR头显设备](https://www.cnbeta.com/articles/tech/1301423.htm) | Sat Aug 06 2022 4:24 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Google Cloud 的 Immersive Stream for XR 平台此前仅限于在移动设备上提供交互式 3D 和增强现实体验，&lt;strong&gt;不过现在该服务即将支持增强现实和虚拟现实头显设备。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [[图]苹果M2上网速度实测：Speedomter 2.0跑分比M1快18%](https://www.cnbeta.com/articles/tech/1301421.htm) | Sat Aug 06 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在最新的 MacBook Air 和 MacBook Pro 型号发售之后，M2 芯片的大量跑分和实际运行测试数据已经曝光。但这些测试中还缺少了一项测试，那就是上网速度。在看到 Basecamp 的创始人 David Heinemeier Hanson 公布测试结果之后，&lt;a href=&quot;https://www.macworld.com/article/827677/m2-processor-macbook-safari-speedometer-benchmark.html&quot; target=&quot;_blank&quot;&gt;国外科技媒体 MacWorld 决定对 M1、M1 Pro 和 M2 三款芯片再次进行测试。&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果或不在2023年刷新14与16英寸MacBook Pro机型](https://www.cnbeta.com/articles/tech/1301419.htm) | Sat Aug 06 2022 4:01 AM 
+- 🚀 [苹果或不在2023年刷新14与16英寸MacBook Pro机型](https://www.cnbeta.com/articles/tech/1301419.htm) | Sat Aug 06 2022 4:01 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;许多人都期盼着苹果新推新款 14 / 16 英寸 MacBook 笔记本电脑，推测它们会在 M2 Pro 和 M2 Max 芯片的加持下带来显著的性能提升。&lt;/strong&gt;虽然距离苹果新品发布还有一段时间，但 MacRumors 已从多个角度展开了分析。首先是设计方面，预计它们不会很快迎来较大的变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔否认Meteor Lake跳票至2024 消费级芯片仍将于2023年到来](https://www.cnbeta.com/articles/tech/1301417.htm) | Sat Aug 06 2022 3:39 AM 
+- 🎊 [英特尔否认Meteor Lake跳票至2024 消费级芯片仍将于2023年到来](https://www.cnbeta.com/articles/tech/1301417.htm) | Sat Aug 06 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;受 PC 市场萎靡的影响，亏损 50 亿美元的英特尔上季度财报业绩相当拉胯。然而昨日，市场又曝出了一个更糟糕的消息。&lt;strong&gt;集邦咨询（TrendForce）援引传闻称，Intel 14 代 Meteor Lake 处理器或跳票一年、直到 2024 年才会正式上市。&lt;/strong&gt;作为参考，在今年 2 月的投资者会议上，英特尔曾表示会在今夏“启动”、并于 2023 年发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [全资控股美中宜和 字节跳动挺进生育大业](https://www.cnbeta.com/articles/tech/1301415.htm) | Sat Aug 06 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继马斯克之后，张一鸣也要为生育大业做贡献了。企业工商信息平台显示，近日，北京美中宜和医疗管理（集团）有限公司发生工商变更，字节跳动旗下小荷健康完成增持，对美中宜和全资控股。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [中国科大发现肿瘤免疫治疗新潜在靶点](https://www.cnbeta.com/articles/science/1301413.htm) | Sat Aug 06 2022 3:28 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国科学技术大学生命科学与医学部周荣斌、江维教授团队和转化医学与创新药物国家重点实验室唐任宏团队合作，发现了下丘脑-垂体轴及其产生的激素α-MSH，可以通过其受体MC5R促进髓系造血和免疫抑制性的髓系细胞产生，从而促进肿瘤生长，MC5R有望成为一个潜在的肿瘤免疫治疗新靶点。8月4日，该成果论文在《科学》杂志在线发表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
