@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Artillect将80年代打字机变身为Linux终端和ASCII艺术打印机](https://www.cnbeta.com/articles/tech/1301425.htm) | Sat Aug 06 2022 5:00 AM 
+- 🕯 [加密借贷平台Voyager将于下周开始处理客户的现金提款请求](https://www.cnbeta.com/articles/tech/1301429.htm) | Sat Aug 06 2022 5:33 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;上月，Voyager 提交了基于美国《破产法》第 11 章的申请，以期资不抵债的该公司能够在重组偿债的过程中继续运营。&lt;strong&gt;本周四，Voyager 终于获批，可于 8 月 11 日起使用大都会商业银行保管的资金，来兑现广大客户的提款。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [华纳兄弟探索频道或携手HBO推出基于广告的免费流媒体服务](https://hot.cnbeta.com/articles/movie/1301427.htm) | Sat Aug 06 2022 5:15 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在本周的财报电话会议上，&lt;strong&gt;首席执行官 David Zaslav 宣布，华纳兄弟探索公司（Warner Bros. Discovery）正考虑推出自家的广告支持免费服务。&lt;/strong&gt;尽管这件事不会很快发生，但该公司显然会先在融合了 HBO Max 和 Discovery Plus 的付费流媒体平台上发力，然后寄希望于 FAST 服务能够成为消费市场的另一个切入点。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Artillect将80年代打字机变身为Linux终端和ASCII艺术打印机](https://www.cnbeta.com/articles/tech/1301425.htm) | Sat Aug 06 2022 5:00 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，油管 Artillect 频道分享了一个相当有趣的老旧外设改造视频 —— &lt;strong&gt;展示了如何通过现代硬件，将上世纪 80 年代的 Brother AX-25 电子打字机，变身为一套 Linux 终端 + ASCII 码的艺术打印机。&lt;/strong&gt;据悉，1980年代后期的原版兄弟 AX-25 使用了菊花字轮来打印文本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google Immersive Stream for XR即将支持VR/AR头显设备](https://www.cnbeta.com/articles/tech/1301423.htm) | Sat Aug 06 2022 4:24 AM 
+- 🚀 [Google Immersive Stream for XR即将支持VR/AR头显设备](https://www.cnbeta.com/articles/tech/1301423.htm) | Sat Aug 06 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Google Cloud 的 Immersive Stream for XR 平台此前仅限于在移动设备上提供交互式 3D 和增强现实体验，&lt;strong&gt;不过现在该服务即将支持增强现实和虚拟现实头显设备。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[图]苹果M2上网速度实测：Speedomter 2.0跑分比M1快18%](https://www.cnbeta.com/articles/tech/1301421.htm) | Sat Aug 06 2022 4:11 AM 
+- 🎊 [[图]苹果M2上网速度实测：Speedomter 2.0跑分比M1快18%](https://www.cnbeta.com/articles/tech/1301421.htm) | Sat Aug 06 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在最新的 MacBook Air 和 MacBook Pro 型号发售之后，M2 芯片的大量跑分和实际运行测试数据已经曝光。但这些测试中还缺少了一项测试，那就是上网速度。在看到 Basecamp 的创始人 David Heinemeier Hanson 公布测试结果之后，&lt;a href=&quot;https://www.macworld.com/article/827677/m2-processor-macbook-safari-speedometer-benchmark.html&quot; target=&quot;_blank&quot;&gt;国外科技媒体 MacWorld 决定对 M1、M1 Pro 和 M2 三款芯片再次进行测试。&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [苹果或不在2023年刷新14与16英寸MacBook Pro机型](https://www.cnbeta.com/articles/tech/1301419.htm) | Sat Aug 06 2022 4:01 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;许多人都期盼着苹果新推新款 14 / 16 英寸 MacBook 笔记本电脑，推测它们会在 M2 Pro 和 M2 Max 芯片的加持下带来显著的性能提升。&lt;/strong&gt;虽然距离苹果新品发布还有一段时间，但 MacRumors 已从多个角度展开了分析。首先是设计方面，预计它们不会很快迎来较大的变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [英特尔否认Meteor Lake跳票至2024 消费级芯片仍将于2023年到来](https://www.cnbeta.com/articles/tech/1301417.htm) | Sat Aug 06 2022 3:39 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;受 PC 市场萎靡的影响，亏损 50 亿美元的英特尔上季度财报业绩相当拉胯。然而昨日，市场又曝出了一个更糟糕的消息。&lt;strong&gt;集邦咨询（TrendForce）援引传闻称，Intel 14 代 Meteor Lake 处理器或跳票一年、直到 2024 年才会正式上市。&lt;/strong&gt;作为参考，在今年 2 月的投资者会议上，英特尔曾表示会在今夏“启动”、并于 2023 年发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
