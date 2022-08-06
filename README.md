@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [我觉得 Windows11 是现在最好用的操作系统](https://www.v2ex.com/t/871109#reply8) | Sat Aug 06 2022 8:49 AM
-- 🤗 [Chrome 异常被重置，有遇到过吗？](https://www.v2ex.com/t/871104#reply9) | Sat Aug 06 2022 8:26 AM
-- 🎭 [有国外大厂提供免费 NodeJS 运行环境吗？直接从 github 拉取编译那种](https://www.v2ex.com/t/871085#reply13) | Sat Aug 06 2022 6:24 AM
-- 🥷 [LOVEPHP-WEB 全栈开源框架发布](https://www.v2ex.com/t/871065#reply6) | Sat Aug 06 2022 4:31 AM
-- 🐵 [最近忽然有种感觉， web2 的应用逐渐在腐朽崩塌，但新的应用形式是什么样，又还看不清楚。不知道大家有什么想法吗，可以一起来说说呀。现存的痛点究竟是什么，我们该怎么建设出一个更好的？](https://www.v2ex.com/t/871064#reply24) | Sat Aug 06 2022 4:24 AM<!-- v2ex:END -->
+- 🥸 [vulkan-1.dll 到底是什么，不是应该由显卡驱动提供么，为什么每个 Electron 写的程序都带了一个？](https://www.v2ex.com/t/871116#reply0) | Sat Aug 06 2022 9:59 AM
+- 🤗 [我觉得 Windows11 是现在最好用的操作系统](https://www.v2ex.com/t/871109#reply23) | Sat Aug 06 2022 8:49 AM
+- 🎭 [Chrome 异常被重置，有遇到过吗？](https://www.v2ex.com/t/871104#reply10) | Sat Aug 06 2022 8:26 AM
+- 🥷 [有国外大厂提供免费 NodeJS 运行环境吗？直接从 github 拉取编译那种](https://www.v2ex.com/t/871085#reply15) | Sat Aug 06 2022 6:24 AM
+- 🐵 [LOVEPHP-WEB 全栈开源框架发布](https://www.v2ex.com/t/871065#reply6) | Sat Aug 06 2022 4:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
