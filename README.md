@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [防止数据冒用的方法](https://juejin.cn/post/7128775117923958797) | Sat Aug 06 2022 2:48 PM 
+- 🤗 [MySQL之COUNT&lpar;*&rpar;性能到底如何？](https://juejin.cn/post/7128785774153039880) | Sat Aug 06 2022 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    * GreatSQL社区原创内容未经授权不得随意使用，转载请联系小编并注明来源。 * GreatSQL是MySQL的国产分支版本，使用上与MySQL一致。 ## 前言 在实际开发过程中，统计 
+    </details> 
+
+- 🎡 [VS Code运行Python时，提示无法加载文件xxx\.venv\Scripts\activate.ps1，因为在此系统中禁止执行脚本。](https://juejin.cn/post/7128781413100306445) | Sat Aug 06 2022 3:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    无法加载文件 C:\Users\waws520\Envs\waws_1\Scripts\Activate.ps1，因为在此系统上禁止运行脚本。有关详细信息，请参阅 https:/go.microsof 
+    </details> 
+
+- 🕯 [Chrome操作指南——入门篇（六）console.injector](https://juejin.cn/post/7128781041556258846) | Sat Aug 06 2022 3:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    用过npm的都知道，通过它我们可以安装自己想用的任何依赖，比如element-ui，lodash等等。那你想没想过有一天我们可以在chrome浏览器中也可以用这些依赖。是不是觉得很新奇？对，没错。今天 
+    </details> 
+
+- 🚀 [防止数据冒用的方法](https://juejin.cn/post/7128775117923958797) | Sat Aug 06 2022 2:48 PM 
     <details><summary>展开描述 ...</summary> 
     我们看一个数据冒用的经典例子： 在一些网站成功登录后，浏览器的cookie会设置serviceToken值，服务器通过该值能获取到用户信息。 如果serviceToken被劫持？ 
     </details> 
 
-- 🎡 [算法系列-链表](https://juejin.cn/post/7128774165984706591) | Sat Aug 06 2022 2:45 PM 
+- 💪 [算法系列-链表](https://juejin.cn/post/7128774165984706591) | Sat Aug 06 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
     写链表代码是最考验逻辑思维能力的。因为，链表代码到处都是指针的操作、边界条件的处理，稍有不慎就容易产生 Bug。 
-    </details> 
-
-- 🕯 [Java小技巧：巧用函数方法实现二维数组遍历](https://juejin.cn/post/7128771846131941406) | Sat Aug 06 2022 2:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    java基本功介绍，借助函数方法，有效降低多维数组遍历的层级，提高代码的可阅读性，实战演练，零基础教学 
-    </details> 
-
-- 🚀 [头脑风暴：打家劫舍](https://juejin.cn/post/7128771460885119006) | Sat Aug 06 2022 2:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    题目 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的现金，影响你偷窃的唯一制约因素就是相邻的房屋装有相互连通的防盗系统，如果两间相邻的房屋在同一晚上被小偷闯入，系统会自动报警。 给定一个 
-    </details> 
-
-- 💪 [react-redux及redux持久化](https://juejin.cn/post/7128766881019723784) | Sat Aug 06 2022 2:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 一、react-redux react-redux依赖于redux工作。 运行安装命令：npm i rea 
     </details> 
 <!-- juejin:END -->
 ### 少数派
