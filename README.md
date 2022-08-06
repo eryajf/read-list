@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [AQS同步组件-CountDownLatch解析和案例](https://juejin.cn/post/7128694003771375623) | Sat Aug 06 2022 9:34 AM 
+- 🤗 [From Swift to Rust - The Fast Way（基础篇）](https://juejin.cn/entry/7128710601617965087) | Sat Aug 06 2022 10:39 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 CountDownLatch原理 CountDownLatch是通过一个计数器来实现的，计数器的初始化值 
+    作为一名从 iOS 转 Rust SDK 的开发者，我将结合 Swift 的以往使用经验以及对 Rust 的学习爬坑体会，从客户端工程师的视角，通过以下这些方面和组织结构对两门语言进行对比学习，突出重 
     </details> 
 
-- 🎡 [JUC并发容器1（CopyOnWriteArrayList、CopyOnWriteArraySet、ConcurrentSkipListSet）](https://juejin.cn/post/7128692767793872932) | Sat Aug 06 2022 9:29 AM 
+- 🎡 [webpack5 打包流程源码剖析（2）](https://juejin.cn/post/7128705624803655687) | Sat Aug 06 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 CopyOnWriteArrayList ArrayList对应的线程安全的并发容器是CopyOnWri 
+    Webpack 源码分析。上一讲 webpack5 打包流程源码剖析（1） 中介绍了源码中「初始化阶段」和 「构建阶段」的流程分析。 本篇，我们重点分析后半部分「生成阶段」和「写入阶段」的具体流程。 
     </details> 
 
-- 🕯 [从 VLAN 到 IPVLAN: 聊聊虚拟网络设备及其在云原生中的应用](https://juejin.cn/post/7128690771594592292) | Sat Aug 06 2022 9:21 AM 
+- 🕯 [webpack5 打包流程源码剖析（1）](https://juejin.cn/post/7128705370335215630) | Sat Aug 06 2022 10:18 AM 
     <details><summary>展开描述 ...</summary> 
-    由于这篇文章真的很长，大量的篇幅在讲述内核的实现，如果你对这部分不感兴趣，那么在建议你在看完第一部分的三个问题后，思考一下，然后直接跳转到我们对问题的回答。 
+    Webpack 源码分析。开篇 webpack 相信大家都不陌生，近些年来被广泛应用于打包资源前端项目工程之中。 通常，我们只要掌握了 webpack 一些常用配置，足以满足项目构建的大多数应用场景。 
     </details> 
 
-- 🚀 [React Fiber技术架构大揭秘](https://juejin.cn/post/7128689230749892621) | Sat Aug 06 2022 9:15 AM 
+- 🚀 [vue 实现微信公众号 h5 跳转小程序](https://juejin.cn/post/7128675297339113509) | Sat Aug 06 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-    一、概述 在 React 16 之前，VirtualDOM 的更新采用的是Stack架构实现的，也就是循环递归方式。不过，这种对比方式有明显的缺陷，就是一旦任务开始进行就无法中断，如果遇到应用中组件数 
+    项目概述 实现类似图中红色框框选中可以左右滑动的组件，点击可以跳转到对应的小程序页面。 涉及知识点 computed 实现分页 开放标签 wx-open-launch-weapp 使用 实现 实现容器 
     </details> 
 
-- 💪 [Vue全家桶——Vue-CLI2及Vue-CLI3手把手教学](https://juejin.cn/post/7128394247623049223) | Fri Aug 05 2022 2:11 PM 
+- 💪 [WebWorker 优化数据导出下载 Excel](https://juejin.cn/post/7128674965821325326) | Sat Aug 06 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
-    当前进度[========80% ] 前言 介绍: 开发大型项目，必然需要用到Vue CLI——使用vue.js开发大型应用时，需要考虑代码目录结构，项目结构和部署、热加载、代码单元测试等等事情。如果 
+    这是一篇介绍如何借助浏览器的 Webworker 多线程能力对当前导出 Excel 文件进行性能优化的文章。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
