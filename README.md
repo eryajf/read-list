@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [iOSUIKit和Swift ｜ 青训营笔记](https://juejin.cn/post/7128677543162413087) | Sat Aug 06 2022 8:32 AM 
+- 🤗 [AQS同步组件-CountDownLatch解析和案例](https://juejin.cn/post/7128694003771375623) | Sat Aug 06 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-    这是我参与「第四届青训营 -iOS场」笔记创作活动的的第4篇笔记。UIKit/Swift/SwiftUI 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 CountDownLatch原理 CountDownLatch是通过一个计数器来实现的，计数器的初始化值 
     </details> 
 
-- 🎡 [关于mmap不为人知的秘密](https://juejin.cn/post/7128675991819386893) | Sat Aug 06 2022 8:25 AM 
+- 🎡 [JUC并发容器1（CopyOnWriteArrayList、CopyOnWriteArraySet、ConcurrentSkipListSet）](https://juejin.cn/post/7128692767793872932) | Sat Aug 06 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将从例子角度出发，分析mmap的来龙去脉，内涵mmap中的使用细节与解析，就算是敢接触的新手，都可快速了解mmap背后的秘密 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 CopyOnWriteArrayList ArrayList对应的线程安全的并发容器是CopyOnWri 
     </details> 
 
-- 🕯 [LeetCode搜索插入位置使用JavaScript解题|前端学算法](https://juejin.cn/post/7128675995225161735) | Sat Aug 06 2022 8:24 AM 
+- 🕯 [从 VLAN 到 IPVLAN: 聊聊虚拟网络设备及其在云原生中的应用](https://juejin.cn/post/7128690771594592292) | Sat Aug 06 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    使用JavaScript解题LeetCode搜索插入位置，还是使用二分法解题，难度大的做不出来，咱还做不出来简单的嘛 
+    由于这篇文章真的很长，大量的篇幅在讲述内核的实现，如果你对这部分不感兴趣，那么在建议你在看完第一部分的三个问题后，思考一下，然后直接跳转到我们对问题的回答。 
     </details> 
 
-- 🚀 [博客项目&lpar;4、初始化&rpar;](https://juejin.cn/post/7128673564051374110) | Sat Aug 06 2022 8:15 AM 
+- 🚀 [React Fiber技术架构大揭秘](https://juejin.cn/post/7128689230749892621) | Sat Aug 06 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    上一章中，我为设计到的用户模块、文章模块、分类标签等模块进行了数据库设计工作，本章开始就要对设计的个人博客进行代码开发工作了 
+    一、概述 在 React 16 之前，VirtualDOM 的更新采用的是Stack架构实现的，也就是循环递归方式。不过，这种对比方式有明显的缺陷，就是一旦任务开始进行就无法中断，如果遇到应用中组件数 
     </details> 
 
-- 💪 [一起来学华为云数据库，RDS实践【华为云至简致远】](https://juejin.cn/post/7128671835604025352) | Sat Aug 06 2022 8:08 AM 
+- 💪 [Vue全家桶——Vue-CLI2及Vue-CLI3手把手教学](https://juejin.cn/post/7128394247623049223) | Fri Aug 05 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
-    【摘要】 写在前面实验沙箱获取地址：https://lab.huaweicloud.com/testdetail_476接下来又是沉浸式学习体验过程。为了体验华为云的 RDS MySQL 过程，我们直 
+    当前进度[========80% ] 前言 介绍: 开发大型项目，必然需要用到Vue CLI——使用vue.js开发大型应用时，需要考虑代码目录结构，项目结构和部署、热加载、代码单元测试等等事情。如果 
     </details> 
 <!-- juejin:END -->
 ### 少数派
