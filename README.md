@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/75007) | Fri Aug 05 2022 9:38 AM 
+- 👹 [离开书本几年后，我开始重新思考读书这件事](https://sspai.com/post/75009) | Sat Aug 06 2022 3:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    读书这件事因人而异，也因时而异。如果是休假在家，睡前时光或随便一读，那么大可不必考虑任何方式方法，已有的读书习惯则会潜移默化得帮助到你。总之读书这件事并不复杂，先读起来就对了。&lt;a href=&quot;https://sspai.com/post/75009&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/75007) | Fri Aug 05 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[动画]邪神与厨二病少女X、[韩剧]黑话律师、[纪录片]光影与魔术、[台剧]我愿意、[动画]风都侦探、[电影]独行月球、[美剧]中年失恋日记、[动画]影宅第二季、[动画]狂 ...&lt;a href=&quot;https://sspai.com/post/75007&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派周报 | 本周会员内容提要；跑题：果园鸽鸣](https://sspai.com/prime/story/pi-weekly-003) | Fri Aug 05 2022 9:11 AM 
+- 🤭 [派周报 | 本周会员内容提要；跑题：果园鸽鸣](https://sspai.com/prime/story/pi-weekly-003) | Fri Aug 05 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
     无论是推迟发布正式版，还是调整开发周期搞「大小年」，都只是治标不治本的做法。但苹果似乎坚持认为，只有通过促使最多用户在最短时间升级到最新系统，才能确保自己对设备和生态的绝对控制。如果这种思路不改变，我们也许还是只能继续、并且越发受制于苹果的「鸽」与「不鸽」。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-003&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [一篇文章，读懂中文播客前世今生](https://sspai.com/post/74874) | Fri Aug 05 2022 8:00 AM 
+- 🥸 [一篇文章，读懂中文播客前世今生](https://sspai.com/post/74874) | Fri Aug 05 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     中文播客的过去，谁会记得它的模样？中文播客的未来，从一门生意的角度看，又将如何续命？&lt;a href=&quot;https://sspai.com/post/74874&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [一日一技 | 把日历同步交给私有云：群晖 NAS 配置 Synology Calendar](https://sspai.com/post/74993) | Fri Aug 05 2022 6:31 AM 
+- 🙉 [一日一技 | 把日历同步交给私有云：群晖 NAS 配置 Synology Calendar](https://sspai.com/post/74993) | Fri Aug 05 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
     相比使用其他公有云的日历服务，私有云的日历服务数据信息可控，本文就以群晖为例，教你搭建一个私有云日历服务。&lt;a href=&quot;https://sspai.com/post/74993&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [没有按摩师也没关系，你可以用这些方法和工具「自我修复」](https://sspai.com/post/75002) | Fri Aug 05 2022 3:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    免责和警示信息：本文作者与文章所涉内容之间无直接利益相关。文中介绍的自助按摩手法和工具皆出自合法出版物。自助按摩存在禁忌症和禁忌部位，在实施时务必预先了解自己的身体状况并小心行事。按摩不能代替任何医学 ...&lt;a href=&quot;https://sspai.com/post/75002&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
