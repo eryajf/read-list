@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [马斯克解释为何不造主机和微软索尼竞争](https://www.cnbeta.com/articles/tech/1301495.htm) | Sat Aug 06 2022 1:19 PM 
+- 🕯 [无线电源技术厂商Powermat与Nanami、 Yootech达成和解](https://www.cnbeta.com/articles/tech/1301501.htm) | Sat Aug 06 2022 1:29 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;先进无线电源技术厂商Powermat Technologies, Ltd.今（5）日宣布已与Nanami和Yootech解决了未决诉讼，并签订专利许可协议。Powermat Technologies指出，Nanami和Yootech同意为以往对专利技术的使用向公司支付一笔费用，随后按季度支付许可费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [IE彻底退出历史舞台 盘点那些年微软砍掉的产品](https://www.cnbeta.com/articles/tech/1301499.htm) | Sat Aug 06 2022 1:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;如果你是一名老网民，一定有过和IE浏览器相爱相杀的经历。作为Windows很长一段时间内的默认浏览器，IE一度是先进技术的代表，其恐怖的市场占有率也让其一度成为了事实上的网页兼容标准。然而，由于技术长久停滞不前、市场环境发生改变等原因，IE节节败退，不仅在市场上难有容身之地，在微软内部也成为了被淘汰的项目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [消息称Intel 3nm核显GPU跳票 直奔15代酷睿](https://www.cnbeta.com/articles/tech/1301497.htm) | Sat Aug 06 2022 1:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最近有消息称Intel几乎取消了所有的台积电3nm订单，原本是跟苹果明年一起首发的，主要用于14代酷睿的核显GPU单元，这也是Intel处理器的子单元首次使用外部先进工艺。14代酷睿的核显规模原本有望达到192组Xe单元，是现在12代酷睿的2-3倍规模，不过不上3nm工艺的化，规模应该会缩小，之前传闻是128组Xe单元，减少了1/3。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [马斯克解释为何不造主机和微软索尼竞争](https://www.cnbeta.com/articles/tech/1301495.htm) | Sat Aug 06 2022 1:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在最近的播客节目上，商业巨头埃隆马斯克解释了自己为什么没有兴趣打造一个主机平台，对抗PS5和Xbox Series X|S。马斯克对游戏的热情是众所周知的事情。此前他的Twitter头像就曾使用了《杀出重围1》的一张艺术图。而今年早些时候，马斯克晒出了自己的《艾尔登法环》build，被疯狂吐槽是最烂的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [参与核反应的重水也能喝？喝过的都说甜？](https://www.cnbeta.com/articles/tech/1301493.htm) | Sat Aug 06 2022 12:12 PM 
+- 🎊 [参与核反应的重水也能喝？喝过的都说甜？](https://www.cnbeta.com/articles/tech/1301493.htm) | Sat Aug 06 2022 12:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;北京理工大学讲师，应用化学博士水是什么？从初中接触化学开始，我们就牢牢记住水是H2O，所以这看起来真是一个愚蠢的问题，但是化学家并不这么想。在0℃冰就会融化，这件事大家都知道，但如果有一种冰块在3.8℃以上才能融化，你相信吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [海报图像显示Galaxy Z Fold4前摄依旧隐约可见](https://www.cnbeta.com/articles/tech/1301491.htm) | Sat Aug 06 2022 12:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月6日消息，三星将于8月10日发布折叠屏Galaxy Z Fold4。赶在发布之前，亚马逊意外泄露了Galaxy Z Fold4的宣传海报。如图所示，三星Galaxy Z Fold4采用了屏下摄像头技术。然而&lt;strong&gt;三星屏下相机隐藏效果不够理想，从海报就能看到前置摄像头隐约可见。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [首届上海虚拟体育公开赛开启 涵盖赛艇赛车滑雪骑行高尔夫](https://www.cnbeta.com/articles/tech/1301489.htm) | Sat Aug 06 2022 11:40 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月5日，首届上海虚拟体育公开赛（Shanghai Virtual Sports Open，简称SVS）暨莓塔体育元宇宙正式开启。&lt;strong&gt;SVS赛事是国内首个虚拟体育综合性赛事，赛事元年纳入了虚拟赛艇、虚拟赛车、虚拟滑雪、虚拟骑行、虚拟高尔夫5项赛事。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [被父亲催吃减肥药 马斯克决定行动起来：起床后先锻练20分钟](https://hot.cnbeta.com/articles/funny/1301487.htm) | Sat Aug 06 2022 11:37 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上月份，马斯克被拍到在希腊的一个著名旅游海岛上度假，当时他光着上身，&lt;strong&gt;露出了一身白花花的肥肉&lt;/strong&gt;。随后，马斯克的裸身照在网上疯传，引发网友的调侃，马斯克自嘲称，他以后得多脱脱上衣，放松自己。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1301487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
