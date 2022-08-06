@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [leetcode  377. Combination Sum IV（python）](https://juejin.cn/post/7128596556491522078) | Sat Aug 06 2022 3:15 AM 
+- 🤗 [使用Python自动制作历史上的今天宣传图片](https://juejin.cn/post/7128613559973445640) | Sat Aug 06 2022 4:21 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode 377. Combination Sum IV（python）主要考察用记忆化 DFS 来解题 
+    大家好，今天分享一个通过 Python 自动创建相关图片的教程，而这个相关图片就是《历史上的今天》， 
     </details> 
 
-- 🎡 [分布式消息通信之Kafka的实现原理](https://juejin.cn/post/7128595410649612319) | Sat Aug 06 2022 3:11 AM 
+- 🎡 [你需要知道的 CSS 技巧：图片篇](https://juejin.cn/post/7128610834904776717) | Sat Aug 06 2022 4:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是 CSS 进阶指南系列文章，本文主要介绍了 CSS 中处理图片时容易被忽略的细节，通过阅读本文，你将学习处理图片失真、背景图片重复、图片上的文字、图片内边框等内容。 
+    </details> 
+
+- 🕯 [Dygraphs 中的注释 Annotations](https://juejin.cn/post/7128600170329014302) | Sat Aug 06 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    Dygraphs 让我们在图表上添加单独的注释（标记）。这些注释（标记）可以是简单的文字或者一个 icon，在图表上面展示出来，可以添加一个长的描述信息，当我们将鼠标在其上方悬停，长描述就会出现。 
+    </details> 
+
+- 🚀 [分布式消息通信之Kafka的实现原理](https://juejin.cn/post/7128595410649612319) | Sat Aug 06 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     消息中间件能做什么 消息中间件主要解决的就是分布式系统之间消息传递的问题，它能够屏蔽各种平台以及协议之间的特性，实现应用程序之间的协同。举个非常简单的例子，就拿一个电商平台的注册功能来简单分析下，用户 
     </details> 
 
-- 🕯 [K8s手记基础](https://juejin.cn/post/7128594274555265054) | Sat Aug 06 2022 3:06 AM 
+- 💪 [K8s手记基础](https://juejin.cn/post/7128594274555265054) | Sat Aug 06 2022 3:06 AM 
     <details><summary>展开描述 ...</summary> 
     怎么定义云原生的概念？ CNCF 官方定义：云原生技术有利于各组织在公有云、私有云和混合云等新型动态环境中，构建和运行可弹性扩展的应用。云原生的代表技术包括容器、服务网格、微服务、不可变基础设施和声明 
-    </details> 
-
-- 🚀 [【JMeter】jmeter测试 - 上传多个图片/批量上传图片接口 CSV文件参数化方法](https://juejin.cn/post/7128590443226349604) | Sat Aug 06 2022 2:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 在网上查了一下，没有查到很满意的方法，这里记录了一个比较好用的方法。 需要测试的接口，是直接将图片File放到请求体中。 接口的函数签名如下： 数据情况与路径生成 如果你跟我一样，图片放在一个文 
-    </details> 
-
-- 💪 [看看你离世界一流大厂有多远？3道Google最新SQL面试题 ⛵](https://juejin.cn/post/7128587085333659685) | Sat Aug 06 2022 2:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    朋友刚刚拿到了 Google 数据分析师的 Offer！跟她详聊了面试的3道SQL题目，把思路和参考答案一并奉上！【代码与数据集亲测可运行】 
     </details> 
 <!-- juejin:END -->
 ### 少数派
