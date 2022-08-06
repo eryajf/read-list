@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【JMeter】jmeter测试 - 上传多个图片/批量上传图片接口 CSV文件参数化方法](https://juejin.cn/post/7128590443226349604) | Sat Aug 06 2022 2:51 AM 
+- 🤗 [leetcode  377. Combination Sum IV（python）](https://juejin.cn/post/7128596556491522078) | Sat Aug 06 2022 3:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    leetcode 377. Combination Sum IV（python）主要考察用记忆化 DFS 来解题 
+    </details> 
+
+- 🎡 [分布式消息通信之Kafka的实现原理](https://juejin.cn/post/7128595410649612319) | Sat Aug 06 2022 3:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    消息中间件能做什么 消息中间件主要解决的就是分布式系统之间消息传递的问题，它能够屏蔽各种平台以及协议之间的特性，实现应用程序之间的协同。举个非常简单的例子，就拿一个电商平台的注册功能来简单分析下，用户 
+    </details> 
+
+- 🕯 [K8s手记基础](https://juejin.cn/post/7128594274555265054) | Sat Aug 06 2022 3:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    怎么定义云原生的概念？ CNCF 官方定义：云原生技术有利于各组织在公有云、私有云和混合云等新型动态环境中，构建和运行可弹性扩展的应用。云原生的代表技术包括容器、服务网格、微服务、不可变基础设施和声明 
+    </details> 
+
+- 🚀 [【JMeter】jmeter测试 - 上传多个图片/批量上传图片接口 CSV文件参数化方法](https://juejin.cn/post/7128590443226349604) | Sat Aug 06 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
     前言 在网上查了一下，没有查到很满意的方法，这里记录了一个比较好用的方法。 需要测试的接口，是直接将图片File放到请求体中。 接口的函数签名如下： 数据情况与路径生成 如果你跟我一样，图片放在一个文 
     </details> 
 
-- 🎡 [看看你离世界一流大厂有多远？3道Google最新SQL面试题 ⛵](https://juejin.cn/post/7128587085333659685) | Sat Aug 06 2022 2:39 AM 
+- 💪 [看看你离世界一流大厂有多远？3道Google最新SQL面试题 ⛵](https://juejin.cn/post/7128587085333659685) | Sat Aug 06 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
     朋友刚刚拿到了 Google 数据分析师的 Offer！跟她详聊了面试的3道SQL题目，把思路和参考答案一并奉上！【代码与数据集亲测可运行】 
-    </details> 
-
-- 🕯 [力扣之找出数组中的幸运数](https://juejin.cn/post/7128586978219524127) | Sat Aug 06 2022 2:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    问题描述 在整数数组中，如果一个整数的出现频次和它的数值大小相等，我们就称这个整数为「幸运数」。 给你一个整数数组 arr，请你从中找出并返回一个幸运数。 如果数组中存在多个幸运数，只需返回 最大 的 
-    </details> 
-
-- 🚀 [公司内部组件库设计思路](https://juejin.cn/post/7128586710443065351) | Sat Aug 06 2022 2:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    前提基础：vite + pnpm&lpar;workspace&rpar; + vue3 + ts + scss + element-plus 组件库整体设计分为三块： svg 图标库 vue 组件库 图标组件的测试项目 
-    </details> 
-
-- 💪 [1408. 数组中的字符串匹配 : 简单模拟题](https://juejin.cn/post/7128580596665679879) | Sat Aug 06 2022 2:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 题目描述 这是 LeetCode 上的 1408. 数组中的字符串匹配 ，难度为 简单。 Tag : 「 
     </details> 
 <!-- juejin:END -->
 ### 少数派
