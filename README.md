@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [梦工厂动画宣布将于年底前开源 MoonRay 制作渲染器](https://www.cnbeta.com/articles/tech/1301297.htm) | Fri Aug 05 2022 11:15 PM 
+- 🕯 [5年来首次改款 新款iPad外观图出炉：实体Home键+直角边框](https://www.cnbeta.com/articles/tech/1301371.htm) | Sat Aug 06 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;梦工厂动画公司（DreamWorks Animation）今天宣布，计划于 2022 年晚些时候开源 MoonRay 制作渲染器。使用这款 MoonRay 渲染器，梦工厂制作了《驯龙高手：隐秘的世界》、《坏蛋联盟》、《穿靴子的猫2》以及其他动画电影。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在下个月的苹果秋季发布会上，iPad 10、iPad Pro等新品也有望登场，其中iPad 10尤为引人注意。&lt;strong&gt;目前在售的iPad是第九代产品，然而外观还维持着2017年发布的iPad 5代设计，超宽的黑边加上后置单摄，让人不免有些审美疲劳。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[图]乌克兰警方捣毁一处用于传播假新闻的机器农场](https://www.cnbeta.com/articles/tech/1301295.htm) | Fri Aug 05 2022 10:51 PM 
+- 💼 [Eidos想开发《杀出重围》新作 做2077做不到的事情](https://hot.cnbeta.com/articles/game/1301369.htm) | Sat Aug 06 2022 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;乌克兰警方近日关闭了设在该国境内、有俄罗斯人运营的大型机器农场（Bot Farm），该农场用于在社交网络上传播有关战争的政治宣传和假新闻。&lt;/strong&gt;虽然这并不是乌克兰网络警察（SSU）关闭的首个此类农场，却是缴获规模最大的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据外媒记者Jeff Grubb爆料，在Eiods蒙特利尔被Embracer收购后，这家开发商将回归到他们最知名的游戏系列——《杀出重围》中。&lt;strong&gt;虽然一切尚处于早期阶段，但据说Embracer更愿意让Adam Jensen（《杀出重围》系列男主）回归，而Eidos蒙特利尔也将在科幻RPG领域中“做到《赛博朋克2077》无法做到的事情”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel承认独立显卡驱动表现糟糕 将持续优化DX9/11游戏](https://www.cnbeta.com/articles/tech/1301293.htm) | Fri Aug 05 2022 6:41 PM 
+- 💂 [科学家对瑞典的“灭狼计划”作出回应 称扑杀将进一步危及该脆弱物种](https://www.cnbeta.com/articles/science/1301367.htm) | Sat Aug 06 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel Arc独立显卡的问题很多，最头疼也是最难以解决的，还是驱动优化，尤其是游戏性能的适配。Intel自己也承认，Arc显卡在DX12游戏上的优化最为到位，可以稳定高性能运行，而且能够提供无与伦比的性价比，Vulkan也基本到位，而更老的DX11、DX9还差得多，比如《古墓丽影》，Arc A770 DX12模式下能够跑出80FPS，DX11下就只有39FPS。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，瑞典议会宣布打算将瑞典的狼的数量从400只严重削减到200只。现在，科学家们正在对这一目标作出回应。&lt;strong&gt;来自5个国家的18位科学家在最近发表在《&lt;a href=&quot;https://www.science.org/doi/10.1126/science.add5299&quot; target=&quot;_self&quot;&gt;科学&lt;/a&gt;》杂志上的一封信中警告说，这样的扑杀将进一步危及这个已经非常脆弱的物种。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [国产手机冲击高端 又双叒叕失败了……](https://www.cnbeta.com/articles/tech/1301291.htm) | Fri Aug 05 2022 6:40 PM 
+- 🚀 [投资超10年，腾讯突然割肉影视巨头 合计8000多万股](https://hot.cnbeta.com/articles/movie/1301365.htm) | Sat Aug 06 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;前两天，微博上&amp;nbsp;@数码闲聊站&amp;nbsp;的一番话，引起了托尼的兴趣。这段话直接&amp;nbsp;AOE&amp;nbsp;（&amp;nbsp;范围伤害 ）国产手机厂商的旗舰机，销量扑街。&lt;/strong&gt;不过细究起来，好像自从华为被制裁后，就从没听到过有&amp;nbsp;“&amp;nbsp;冲高成功&amp;nbsp;”&amp;nbsp;的案例。为什么呢？简单说，高端机的几个标志是什么？&lt;strong&gt;豪华的参数，顶尖的芯片性能，考究的外观工艺，六千以上的价格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;继海澜之家、京东、步步高之后，又一家上市公司遭遇了腾讯减持。这一次是A股影视巨头华谊兄弟&lpar;300027&rpar;。8月5日晚间，华谊兄弟公告，获悉持股5%以上股东深圳市腾讯计算机系统有限公司，自2022年8月2日至8月4日，累计通过大宗交易方式和参与转融通证券出借，导致持股比例变动超1%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [配送最后一公里 压垮每日优鲜？](https://www.cnbeta.com/articles/tech/1301289.htm) | Fri Aug 05 2022 6:35 PM 
+- 🎊 [SpaceX再获2.5亿美元融资 今年以来共筹集20亿美元](https://www.cnbeta.com/articles/tech/1301363.htm) | Sat Aug 06 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在每日优鲜“原地解散”的风波中，首当其冲的就是“30分钟达”。每日优鲜对媒体回应称，在实现盈利的大目标下，公司对业务及组织进行调整，次日达、智慧菜场、零售云等业务不受影响。每日优鲜的APP也发布通知称，配送时间由原来的最快30分钟送达变为最快次日送达。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月6日消息，当地时间周五，埃隆·马斯克&lpar;Elon Musk&rpar;领导的SpaceX在一份申报文件中披露，公司在上月开展的一轮股权融资中筹集到2.5亿美元。今年以来，SpaceX已经筹集到20亿美元的资金。文件没有具体说明这些资金的来源，但指出相关融资来自五名投资者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
