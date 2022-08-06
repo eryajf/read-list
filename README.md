@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [LeetCode - #145 二叉树的后序遍历](https://juejin.cn/post/7128749658477690917) | Sat Aug 06 2022 1:12 PM 
+- 🤗 [elasticsearch单节点部署及内存调优（二）](https://juejin.cn/post/7128761990918438926) | Sat Aug 06 2022 1:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 1.elasticsearch的部署 1.1.elasticsearch的安装访问 安装方式 优点 缺点  
+    </details> 
+
+- 🎡 [HTTP 常用的状态码及使用场景](https://juejin.cn/post/7128760224403603464) | Sat Aug 06 2022 1:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 HTTP 常用的状态码及使用场景 使用场景: 1xx：表示目前是协议的中间状态，还需要后续请求 2xx： 
+    </details> 
+
+- 🕯 [Go-Excelize API源码阅读（六）—— DeleteSheet&lpar;sheet string&rpar;](https://juejin.cn/post/7128759232953843742) | Sat Aug 06 2022 1:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    该API根据给定的工作表名称删除指定工作表，谨慎使用此方法，这将会影响到与被删除工作表相关联的公式、引用、图表等元素。如果有其他组件引用了被删除工作表上的值，将会引发错误提示，甚至将会导致打开工作簿失 
+    </details> 
+
+- 🚀 [【刷题日记】622. 设计循环队列](https://juejin.cn/post/7128750888750956574) | Sat Aug 06 2022 1:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 本次刷题日记的第 85 篇，力扣题为：622. 设计循环队列 一、题目描述： 今天来做一个循环队列设计相关 
+    </details> 
+
+- 💪 [LeetCode - #145 二叉树的后序遍历](https://juejin.cn/post/7128749658477690917) | Sat Aug 06 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
     我们社区陆续会将顾毅（Netflix 增长黑客，《iOS 面试之道》作者，ACE 职业健身教练。）的 Swift 算法题题解整理为文字版以方便大家学习与阅读。 
-    </details> 
-
-- 🎡 [「CSS畅想」当我拥有了一个掘金小夜灯，我的CSS副属性被激活了](https://juejin.cn/post/7128748785722720264) | Sat Aug 06 2022 1:07 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情。「CSS畅想」系列双休日出现的频率会很好，今日奇思为掘金小夜灯。 
-    </details> 
-
-- 🕯 [渣翻：《The Pragmatic Programmer》中我最喜欢的9个主题](https://juejin.cn/post/7128738081087815687) | Sat Aug 06 2022 12:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    书籍总是常读常新，我们在不同阶段去读同一本书，体会自然也是不同的。所关注的主题有时候也会有所侧重。本篇翻译则来聊聊《程序员修炼之道》 
-    </details> 
-
-- 🚀 [三种时间复杂度为O&lpar;N²&rpar;的排序算法](https://juejin.cn/post/7128721614144798750) | Sat Aug 06 2022 11:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 排序是一个非常经典的问题，它以一定的 顺序 对一个 数组 （或一个 列表 ）中的项进行重新排序（可以进行 
-    </details> 
-
-- 💪 [分门别类输入输出,Go lang1.18入门精炼教程，由白丁入鸿儒，go lang基本数据类型和输入输出EP03](https://juejin.cn/post/7128720577925218317) | Sat Aug 06 2022 11:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    前文再续，Go lang和Python一样，基础数据类型有着很多分类，分门别类，一应俱全。它们对应着不同的使用场景，分别是：整形、浮点、字符、字符串、布尔等等。常用的基本数据类型经常会参与日常业务逻辑 
     </details> 
 <!-- juejin:END -->
 ### 少数派
