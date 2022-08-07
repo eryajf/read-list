@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Exacto For Figma - 在 Figma 中快速创建社交媒体框架](https://xinquji.com/posts/178542?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:14 AM 
+- 👀 [禅意单词 - 简约的单词本，支持安卓与iOS](https://xinquji.com/posts/178421?utm_campaign=xinquji-rss) | Mon Aug 08 2022 8:15 AM 
+    <details><summary>展开描述 ...</summary> 
+     简约的单词本，支持安卓与iOS  
+    </details> 
+
+- 🥷 [Exacto For Figma - 在 Figma 中快速创建社交媒体框架](https://xinquji.com/posts/178542?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
      在 Figma 中快速创建社交媒体框架  
     </details> 
 
-- 🥷 [Joyline - 每月将打印的照片交付给您的亲人](https://xinquji.com/posts/178541?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:12 AM 
+- 💼 [Joyline - 每月将打印的照片交付给您的亲人](https://xinquji.com/posts/178541?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
      每月将打印的照片交付给您的亲人  
     </details> 
 
-- 💼 [Carbos - 糖尿病患者的碳水化合物计数变得容易](https://xinquji.com/posts/178540?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:12 AM 
+- 🦅 [Carbos - 糖尿病患者的碳水化合物计数变得容易](https://xinquji.com/posts/178540?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
      糖尿病患者的碳水化合物计数变得容易  
     </details> 
 
-- 🦅 [hhhue - 精心挑选的精美调色板](https://xinquji.com/posts/178539?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:10 AM 
+- 😺 [hhhue - 精心挑选的精美调色板](https://xinquji.com/posts/178539?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
      精心挑选的精美调色板  
-    </details> 
-
-- 😺 [BlenderBot 3 - 通过对话改进的 AI 聊天机器人](https://xinquji.com/posts/178538?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:10 AM 
-    <details><summary>展开描述 ...</summary> 
-     通过对话改进的 AI 聊天机器人  
     </details> 
 <!-- xinquji:END -->
