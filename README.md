@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [乌克兰扎波罗热核电站遭到第二次炮击](https://www.cnbeta.com/articles/tech/1301639.htm) | Sun Aug 07 2022 7:15 AM 
+- 🕯 [用皮肤“听”音乐：戴上这款装备听音乐会 仿佛住在钢琴里](https://www.cnbeta.com/articles/tech/1301681.htm) | Sun Aug 07 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间8月5日，乌克兰扎波罗热核电站遭到第二次炮击。俄乌双方都指责对方制造了这两次袭击。该核电站是欧洲最大核电站之一。据乌通社5日报道，乌克兰国家核电公司当天发布消息称，当地时间5日14时30分，俄罗斯军方采取挑衅行为，向扎波罗热核电站方向开火，击中了扎波罗热核电站的高压线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;贝多芬失聪后继续创作的故事相信大家都听过。《致爱丽丝》、《英雄交响曲》、《田园交响曲》等等作品都堪称经典。那你有没有想过，他究竟是如何做到的？初中物理课上，老师告诉我们：失去听力的贝多芬，用牙咬住木棒一端，另一端顶在钢琴上，以此感受钢琴的震动，坚持创作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [曝华纳已邀请亨利·卡维尔再演超人 但被对方回绝](https://hot.cnbeta.com/articles/movie/1301637.htm) | Sun Aug 07 2022 4:50 AM 
+- 💼 [瑞士冰川融化惊现坠毁飞机残骸 遇难者54年前就被找到了](https://www.cnbeta.com/articles/tech/1301679.htm) | Sun Aug 07 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据外媒消息，近日在影视业内人士——来自Fandango的埃里克·戴维斯和来自Wrap的翁贝托·冈萨雷斯谈话中，谈到了亨利·卡维尔在DC扩展宇宙中的未来。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间8月4日，54年前在阿尔卑斯山坠毁的一架飞机残骸，在瑞士一座冰川上被一名登山向导发现。这起空难发生于1968年6月30日，坠毁的是Piper Cherokee，注册号为HB-OYL，在少女峰以南500米处发生了致命事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [炸鸡叔确认与漫威接触过：他比较想演X教授](https://hot.cnbeta.com/articles/movie/1301635.htm) | Sun Aug 07 2022 4:50 AM 
+- 💂 [史上最贵“垃圾袋”：巴黎世家12000元新包神似大号垃圾袋](https://hot.cnbeta.com/articles/funny/1301677.htm) | Sun Aug 07 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前我们曾报道有爆料称漫威影业正与“炸鸡叔”吉安卡罗·埃斯波西托商谈，邀请他加入漫威电影宇宙。而在MCU中他很可能会饰演新《神奇四侠》当中的毁灭博士一角。近日，“炸鸡叔”确认和漫威影业接触过，并且他比较想演“X教授”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一个垃圾袋能有卖多少钱？近日，&lt;strong&gt;知名奢侈品品牌Balenciaga（巴黎世家）推出了一款史上最贵的“垃圾袋”。&lt;/strong&gt;这款神似垃圾袋，名叫Trash Pouch的包采用小牛皮制成，有黑、白、蓝、黄四种颜色的款式，售价则达到了1790美元（约合人民币12104元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1301677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《蜘蛛夫人》新路透照+片场视频：“达妹”飒爽登场](https://hot.cnbeta.com/articles/movie/1301633.htm) | Sun Aug 07 2022 4:48 AM 
+- 🚀 [研究人员锁定伊朗对阿尔巴尼亚政府实施的网络攻击行为](https://www.cnbeta.com/articles/tech/1301675.htm) | Sun Aug 07 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据守望好莱坞及外媒消息，“达妹”达科塔·约翰逊和亚当·斯科特主演的《蜘蛛夫人》释出新路透照以及片场视频，“达妹”一身服饰干练利落，让我们一起来看一看。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月中旬，一场针对阿尔巴尼亚政府的网络攻击使国家网站和公共服务中断了数小时。随着俄罗斯在乌克兰的战争肆虐，克里姆林宫似乎是最可能的嫌疑人。&lt;strong&gt;但威胁情报公司Mandiant周四发表的研究报告将这次攻击归咎于伊朗。虽然德黑兰的间谍活动和数字干预已经在世界各地出现，但曼迪安特的研究人员说，来自伊朗对一个北约成员国的破坏性攻击是一个值得注意的行动升级。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [被华纳砍掉的《蝙蝠女》剧照公开 迈克尔基顿版蝙蝠侠亮相](https://hot.cnbeta.com/articles/movie/1301631.htm) | Sun Aug 07 2022 4:46 AM 
+- 🎊 [英特尔承诺在Arc GPU上提高DirectX 11和传统API游戏性能](https://www.cnbeta.com/articles/tech/1301673.htm) | Sun Aug 07 2022 7:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在被取消后，《蝙蝠女》导演Adil El Arbi分享了影片一张剧照，展示了Leslie Grace饰演的蝙蝠女和迈克尔基顿饰演的蝙蝠侠站在哥谭市的街头&lt;/strong&gt;，中间是导演本人。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔已经确认，他们将在最近的一个视频中为Arc GPU带来DirectX 11支持和传统API游戏性能。该公司承认，他们意识到利用DirectX 11的游戏性能不尽人意，并正在努力改善未来的体验。最初在LinusTechTips的评论中报道，该技术机构在利用Arc A770显卡的系统上对《古墓丽影》进行基准测试时，目睹了DirectX 11和12版本之间50%的GPU性能差异。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
