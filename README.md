@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [java之关键字使用](https://juejin.cn/post/7128948815419146271) | Sun Aug 07 2022 2:02 AM 
+- 🤗 [封装一个有趣的 Loading 组件](https://juejin.cn/post/7129071400509243423) | Sun Aug 07 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-    java中有很多的关键字，他们的使用让Java语言变得更加灵活、易用，下面将介绍Java中最常用的几个关键字并说明其用法 一、关键字：return--跳出 使用在方法体中，用于：① 结束方法② 针对于 
+    通过绘图和动画实现有趣的loading效果，并完成组件的封装，使得组件可以开箱即用。在实际应用过程中可以根据需要，修改源码实现其他有趣的loading效果。 
     </details> 
 
-- 🎡 [springcloud 入门&lpar;8&rpar; springcloud Stream](https://juejin.cn/post/7128947917628375077) | Sun Aug 07 2022 1:59 AM 
+- 🎡 [列式存储？OLAP？ClickHouse究竟是何方神圣](https://juejin.cn/post/7129070080427556894) | Sun Aug 07 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-    在系统开发里面难免用到消息队列，但各个的消息队列又有所区别，SpringCloudStream 的 作用就是屏蔽各种消息队列的区别，对消息队列的 API进行进一步的抽象 
+    ClickHouse是一种OLAP类型的列式数据库管理系统，这里有两个概念：OLAP、列式数据库。ClickHouse完美的实现了OLAP和列式存储 
     </details> 
 
-- 🕯 [mybatis第八话 - mybaits之ParameterHandler参数处理源码分析](https://juejin.cn/post/7128947692339740708) | Sun Aug 07 2022 1:58 AM 
+- 🕯 [Three.js贴图效果一览！](https://juejin.cn/post/7129065605461884964) | Sun Aug 07 2022 9:35 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 本章主要记录了mybatis参数处理源码分析 1.前因 mybatis源码也分析过了，插件也分析完了，但是在分析插件的过程中产生一个疑问？ 找到源 
+    纹理贴图（Textures）字面意思就是給几何体对象贴上不同的纹理图！它是 Three.js一个很重要的内容，掌握了纹理贴图可以让3d效果产生质的飞跃。 
     </details> 
 
-- 🚀 [Android实现倒计时的几种方案汇总](https://juejin.cn/post/7128947531471388709) | Sun Aug 07 2022 1:58 AM 
+- 🚀 [音视频开发之旅（66&rpar; - 音频变速不变调的原理](https://juejin.cn/post/7129063704829804580) | Sun Aug 07 2022 9:28 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 前言 关于倒计时可以说我们App开发中常见的一种场景了，比如Splash倒计时跳转首页，比如发送短信之后 
+    目录 声音的基本知识 时域压扩（TSM&rpar;的原理 波形相似叠加（WSOLA） 资料 收获 音频的原始pcm数据是由 采样率、采样通道数以及位宽而定。常见的音频采样率是44100HZ，即一秒内采样4410 
     </details> 
 
-- 💪 [mybatis第七话 - mybatis插件Interceptor之pagehelper的源码分析](https://juejin.cn/post/7128947616762560549) | Sun Aug 07 2022 1:57 AM 
+- 💪 [「CSS畅想」有一天，我遇到了一个奇特的路灯，眼里一下子有了光](https://juejin.cn/post/7129063175005143077) | Sun Aug 07 2022 9:26 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 本篇内容主要记录mybatis插件篇之pagehelper的源码分析过程。 上篇文章已经描述pagehelper的分页功能如何使用了，那原理肯定得 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情。「CSS畅想」系列双休日出现的频率会很好，今日奇思为奇特的路灯。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
