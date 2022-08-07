@@ -364,8 +364,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [突然收到腾讯 tdmq 的欠费通知，有人遇到这种情况吗](https://www.v2ex.com/t/871221#reply2) | Sun Aug 07 2022 4:57 AM
-- 🤗 [Windows 多用户之间如何共享软件设置数据 &lpar;AppData&rpar; ？](https://www.v2ex.com/t/871215#reply2) | Sun Aug 07 2022 3:54 AM
+- 🥸 [突然收到腾讯 tdmq 的欠费通知，有人遇到这种情况吗](https://www.v2ex.com/t/871221#reply4) | Sun Aug 07 2022 4:57 AM
+- 🤗 [Windows 多用户之间如何共享软件设置数据 &lpar;AppData&rpar; ？](https://www.v2ex.com/t/871215#reply6) | Sun Aug 07 2022 3:54 AM
 - 🎭 [Python 这个 scope/block leak 我是越来越膈硬](https://www.v2ex.com/t/871213#reply3) | Sun Aug 07 2022 3:44 AM
 - 🥷 [Linux /MAC 下 vi 或 vim 的编辑再保存改变了文件的什么信息](https://www.v2ex.com/t/871208#reply3) | Sun Aug 07 2022 3:20 AM
 - 🐵 [有什么办法看出字幕组压制成片时使用的参数（主要是 crf preset 这类的）吗](https://www.v2ex.com/t/871207#reply2) | Sun Aug 07 2022 3:15 AM<!-- v2ex:END -->
