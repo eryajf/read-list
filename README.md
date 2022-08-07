@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Mac技巧之用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）](http://www.mac52ipod.cn/post/james-webb-space-telescope-images-6k-mac-wallpapers.php) | Thu Aug 04 2022 3:26 PM 
+- 👨‍🏫 [苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照](http://www.mac52ipod.cn/post/apple-ios-iphone-app-bai-miao-zheng-jian-zhao.php) | Sun Aug 07 2022 2:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	制作简历、网上报名、注册公司账号等等时候可能会用到证件照，如果你没有证件照且对自己抠图水平没信心的话，可以试试「白描证件照」这款 App。支持各种尺寸和证件照背景颜色，还能美颜，比去照相馆方便多了。&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6703&quot; border=&quot;0&quot; alt=&quot;苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照&quot; title=&quot;苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照&quot; /&gt;&lt;/p&gt;&lt;p&gt;开发者写了篇很详细的介绍，甚至教你自拍证件照时的姿势和光线 &lt;u&gt;&lt;a href=&quot;https://xinle.co/2021/01/10/%e5%9c%a8%e6%89%8b%e6%9c%ba%e4%b8%8a%e5%bf%ab%e9%80%9f%e5%9c%b0%e5%88%b6%e4%bd%9c%e4%b8%80%e5%bc%a0%e8%af%81%e4%bb%b6%e7%85%a7%ef%bc%8c%e8%bf%98%e8%83%bd%e7%be%8e%e9%a2%9c/&quot; target=&quot;_blank&quot; title=&quot;在手机上快速地制作一张证件照，还能美颜&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://xinle.co/2021/01/10/在手机上快速地制作一张证件照，还能美颜&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。&lt;/p&gt;&lt;p&gt;白描证件照在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/id1545812838&quot; target=&quot;_blank&quot; title=&quot;白描证件照&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/id1545812838&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;另外，这位开发者做的 OCR 软件&lt;u&gt;&lt;a href=&quot;/post/apple-mac-macos-ocr-app-baimiao.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑上图片转文字、图片转电子表格的 OCR 软件：白描&quot;&gt;&lt;font color=#0000FF&gt;白描&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;也非常赞&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2585%25A7%25E7%2589%2587&quot; rel=&quot;tag&quot;&gt;照片&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Mac技巧之用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）](http://www.mac52ipod.cn/post/james-webb-space-telescope-images-6k-mac-wallpapers.php) | Thu Aug 04 2022 3:26 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Apple新闻之苹果公布 2022 财年第三季财报](http://www.mac52ipod.cn/post/apple-2022-q3-result.php) | Tue Aug 02 2022 3:30 AM 
+- 🦏 [Apple新闻之苹果公布 2022 财年第三季财报](http://www.mac52ipod.cn/post/apple-2022-q3-result.php) | Tue Aug 02 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [跨平台的播客电台 App：Moon FM](http://www.mac52ipod.cn/post/apple-ios-macos-windows-linus-podcast-app-moon-fm.php) | Sun Jul 31 2022 3:07 AM 
+- 🚀 [跨平台的播客电台 App：Moon FM](http://www.mac52ipod.cn/post/apple-ios-macos-windows-linus-podcast-app-moon-fm.php) | Sun Jul 31 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM 
+- 🏊 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	苹果电脑 macOS 系统的 LaunchPad 启动台里，软件图标很大，看起来很臃肿，每屏能放的软件图标数量也有限。&lt;/p&gt;&lt;p&gt;看到这篇博客《&lt;u&gt;&lt;a href=&quot;https://xinle.co/2016/03/12/%e5%b0%8f%e6%8a%80%e5%b7%a7%ef%bc%9amac%e7%b3%bb%e7%bb%9f%e8%b0%83%e6%95%b4launchpad%e5%9b%be%e6%a0%87%e5%a4%a7%e5%b0%8f/&quot; target=&quot;_blank&quot; title=&quot;小技巧：Mac系统调整Launchpad图标大小&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;小技巧：Mac系统调整Launchpad图标大小&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;》，分享的方法很好用。我现在 LaunchPad 变得很清爽，而且一屏放下更多软件图标，找起来也不用来回翻页了。&lt;/p&gt;&lt;p&gt;感兴趣的话直接点击上面的链接看原文吧，直接打开终端（找不到的话点击 Mac 屏幕右上角的放大镜按钮，搜索「终端」）→ 粘贴文中的命令行 → 回车搞定。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=launchpad&quot; rel=&quot;tag&quot;&gt;launchpad&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果中国官网宣布了一个限时优惠活动：7月29日到8月1日，使用支付宝/招行/建行/工行卡，在苹果官网在线商店和 Apple Store 零售店买指定的苹果设备有限时优惠：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;iPhone 13 系列优惠 600 元&lt;/li&gt;&lt;li&gt;iPhone SE（第三代）优惠 200 元&lt;/li&gt;&lt;li&gt;iPhone12 和 iPhone12 mini 优惠 500 元&lt;/li&gt;&lt;li&gt;Apple Watch SE 优惠 200 元&lt;/li&gt;&lt;li&gt;AirPods 系列优惠 150-250 元&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;每人每个分类（手机、手表、耳机）限购两台，而且不和商务优惠、员工优惠、教育优惠等其它优惠叠加。&lt;/p&gt;&lt;p&gt;其实我觉得「再过一两个月就换代」的这个时间点有点儿尴尬。就算真的要买，拼多多百亿补贴挺香的。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
 
  
     </details> 
