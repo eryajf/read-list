@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Peerlink - 获取自己的页面，销售 1 对 1 节目，安排约会](https://xinquji.com/posts/178530?utm_campaign=xinquji-rss) | Sun Aug 07 2022 6:11 AM 
+- 👀 [Exacto For Figma - 在 Figma 中快速创建社交媒体框架](https://xinquji.com/posts/178542?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     获取自己的页面，销售 1 对 1 节目，安排约会  
+     在 Figma 中快速创建社交媒体框架  
     </details> 
 
-- 🥷 [Txtmoji - 将文本加密为表情符号](https://xinquji.com/posts/178529?utm_campaign=xinquji-rss) | Sun Aug 07 2022 6:10 AM 
+- 🥷 [Joyline - 每月将打印的照片交付给您的亲人](https://xinquji.com/posts/178541?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     将文本加密为表情符号  
+     每月将打印的照片交付给您的亲人  
     </details> 
 
-- 💼 [ReadingLines - 从图像中提取文本](https://xinquji.com/posts/178528?utm_campaign=xinquji-rss) | Sun Aug 07 2022 6:09 AM 
+- 💼 [Carbos - 糖尿病患者的碳水化合物计数变得容易](https://xinquji.com/posts/178540?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     从图像中提取文本  
+     糖尿病患者的碳水化合物计数变得容易  
     </details> 
 
-- 🦅 [File Approved - 获得文件批准的最快方法。](https://xinquji.com/posts/178527?utm_campaign=xinquji-rss) | Sun Aug 07 2022 6:08 AM 
+- 🦅 [hhhue - 精心挑选的精美调色板](https://xinquji.com/posts/178539?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     获得文件批准的最快方法。  
+     精心挑选的精美调色板  
     </details> 
 
-- 😺 [Otternal Life - 建立和跟踪习惯。记录心情和简短的轶事。](https://xinquji.com/posts/178526?utm_campaign=xinquji-rss) | Sun Aug 07 2022 6:07 AM 
+- 😺 [BlenderBot 3 - 通过对话改进的 AI 聊天机器人](https://xinquji.com/posts/178538?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     建立和跟踪习惯。记录心情和简短的轶事。  
+     通过对话改进的 AI 聊天机器人  
     </details> 
 <!-- xinquji:END -->
