@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [没想到“华为汽车”站在了抠标鄙视链的顶端](https://www.cnbeta.com/articles/tech/1301615.htm) | Sun Aug 07 2022 3:16 AM 
+- 🕯 [科学家呼吁对人体大脑在午夜后清醒时如何变化展开新研究](https://www.cnbeta.com/articles/science/1301625.htm) | Sun Aug 07 2022 4:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，淘宝上华为车标热销，很多问界车主都把车尾的赛力斯车标抠掉换成了华为车标。品驾在某宝上搜了搜，果然卖家不在少数。而且卖家还很会投其所好，各种“华为”、“HUAWEI”，或者是“HarmonyOS”车标应有尽有，连华为的花瓣标也可以按需定制，卖家更直接打出“根据官方字体一比一开模打造”的宣传。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Mind After Midnight假说认为，当人类在生物昼夜节律的夜晚清醒时--对大多数人来说是午夜之后--大脑中会出现神经生理变化从而改变我们跟世界的互动方式，尤其是跟冲动控制、奖励处理和信息处理有关的行动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [17.763公里，历时1387天 银兰高铁最长隧道贯通](https://www.cnbeta.com/articles/tech/1301613.htm) | Sun Aug 07 2022 3:10 AM 
+- 💼 [抖音4千万粉丝的“疯产姐妹”组合解散 原因公布](https://hot.cnbeta.com/articles/movie/1301623.htm) | Sun Aug 07 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月6日，历经1387天的奋战，西北在建客专第一长大隧道、新建银兰高铁中卫至兰州段最后一座隧道——香山隧道实现贯通。这标志着银兰高铁中兰段施工进展取得重大突破，为全线开通运营奠定坚实基础。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在短视频平台上，一对看上去“疯疯癫癫”的“疯产姐妹”组合，凭借着无厘头的搞笑风格和荒诞的剧情创意，给不少人带去了欢乐，抖音上更是有高达4千万的粉丝量。不过而今，因为各种原因，这对姐妹组合也“分道扬镳”了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“股神”巴菲特二季度巨亏437亿美元 为何如此淡定？](https://www.cnbeta.com/articles/tech/1301611.htm) | Sun Aug 07 2022 3:09 AM 
+- 💂 [科学家发现可再生能源的新来源：分解植物物质](https://www.cnbeta.com/articles/science/1301621.htm) | Sun Aug 07 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间8月6日，股神巴菲特掌舵的伯克希尔·哈撒韦公司公布了二季度财报和半年报。报告显示，今年第二季度该公司营收761.8亿美元，去年同期691.14亿美元，增幅为10.2%，二季度运营利润为92.8亿美元，相较去年同期66.9亿美元增幅为38.7%。此项利润为集团拥有的保险、铁路和公用事业等各项业务的利润总和。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;鉴于能源价格不断上涨及燃烧化石燃料对全球气候的影响迅速显现，科学家们从未像现在这样迫切地需要发现通往真正可再生产品和燃料的途径。来自密歇根州立大学自然科学学院的有机化学教授Ned Jackson说道：“我们在美国每天使用2000万桶石油；这约是世界用量的1/5。我们所有的液体燃料和几乎所有的人造材料，从汽油和加仑壶到台面和衣服都是从石油--原油开始的。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究：新冠大流行减慢了人们对时间的感知](https://www.cnbeta.com/articles/science/1301609.htm) | Sun Aug 07 2022 3:08 AM 
+- 🚀 [iPhone支持Siri操作关机 感觉电源键更耐用了](https://www.cnbeta.com/articles/tech/1301619.htm) | Sun Aug 07 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据《Science Advances》的一份报告，COVID-19大流行病改变了个人对时间流逝的看法。大多数研究参与者（65%）报告称，在2020年5月发生的第一个月的社会隔离结束时，感觉时间过得更慢。这种感觉被研究人员称为“时间膨胀”，他们发现，这跟整个时间段内的孤独感和缺乏愉快的活动有关。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;身为苹果自家的语音助手，Siri不仅可以用来拨打电话、播放音乐、查找苹果设备等，甚至还能帮你把手机关机。这不，有网友反馈称，&lt;strong&gt;在升级iOS 16最新预览版后，iPhone已支持通过Siri来语音操控关机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [科学家绘制出一条可让微生物通过发酵二氧化碳来制造燃料的途径](https://www.cnbeta.com/articles/science/1301607.htm) | Sun Aug 07 2022 2:51 AM 
+- 🎊 [哈佛开发出可以确定隐性听力损失的模型](https://www.cnbeta.com/articles/science/1301617.htm) | Sun Aug 07 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;面包师对面团进行发酵以制作出口感良好的面包。同样，酿酒师通过对小麦和大麦的发酵来获得一杯光滑的麦芽啤酒。而作为自然界最重要的面包师和酿酒师，一些微生物甚至可以做得更多。事实上，某些种类的细菌通过发酵二氧化碳气体来制造它们自己选择的营养物质。这可以被用来帮助为我们的世界提供能量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;马萨诸塞州眼耳科的研究人员创建了一个可能评估人耳隐性听力损失程度的词分模型。&lt;/strong&gt;来自马萨诸塞州眼耳科的Eaton-Peabody实验室的研究人员在一项刚刚发表在《Scientific Reports》上的新研究中，从马萨诸塞州眼耳科评估的约96000只耳朵的记录中计算出了作为年龄函数的平均语音分数。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
