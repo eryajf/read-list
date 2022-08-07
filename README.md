@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [彭博社：M2/M2 Pro 芯片 Mac mini 开发中 外观不变](https://www.cnbeta.com/articles/tech/1301727.htm) | Sun Aug 07 2022 3:38 PM 
+- 🕯 [国内牛人重制《双截龙2》 连招爽快速度感十足](https://hot.cnbeta.com/articles/game/1301735.htm) | Sun Aug 07 2022 11:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;擅长在游戏原有基础上追加各种现代机制和动作的国内游戏爱好者再接再厉，继恶魔城、赤影战士、魂斗罗等老一辈玩家耳熟能详的FC游戏之后，最近完成《双截龙2》初步改进。经过这位达人修改过的《双截龙2》玩起来更加爽快感十足，让老玩家看了也摩拳擦掌，跃跃欲试。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《FF7核心危机 再融合》介于复刻与重制版之间](https://hot.cnbeta.com/articles/game/1301733.htm) | Sun Aug 07 2022 11:10 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最近的一次采访中，Square Enix旗下制作人野村哲也向媒体透露了《最终幻想7：核心危机 再融合》游戏名称的由来，表示这款游戏连接了《最终幻想7》与《核心危机》，而且是介于“重制版”和“复刻版”之间的作品。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [直播售卖机场“无主行李箱盲盒”？恐怕不能当真](https://www.cnbeta.com/articles/tech/1301731.htm) | Sun Aug 07 2022 11:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“无主行李箱盲盒”的第一问，或许是追问其是否真来自机场、车站。据报道，近日，“行李箱盲盒”在网络上爆火。销售这种盲盒的商家称，这些行李箱一般是在机场或者火车站，长时间无人认领的。有市民认为，行李箱被当“盲盒”来消遣娱乐，十分不妥。也有律师表示，购买这样的行李箱，本身就存在一定的法律风险和隐患，在网络上直播，极易侵犯原物主隐私权。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [超前点播卷土重来 芒果TV推出18元提前看大结局礼包](https://hot.cnbeta.com/articles/movie/1301729.htm) | Sun Aug 07 2022 11:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;之前各大视频平台推出超前点播功能，引发众多网友的反对，后来各个平台陆续取消了该付费特权，但最近这个功能似乎又换了个“马甲”重新出现在了大众面前。&lt;strong&gt;芒果TV官方于今日宣布，正热播的电视剧《少年派2》开启“大结局点映”活动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [彭博社：M2/M2 Pro 芯片 Mac mini 开发中 外观不变](https://www.cnbeta.com/articles/tech/1301727.htm) | Sun Aug 07 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;彭博社 Mark Gurman 再次给出了苹果下一代 Mac mini 的预测。Gurman 表示，此前苹果开发的 M1 Pro 版 Mac mini 已经被放弃。取而代之的是，M2 和 M2 Pro 芯片版 Mac mini，除了芯片升级外，M2 和 M2 Pro&amp;nbsp;&amp;nbsp;Mac&amp;nbsp;&amp;nbsp;mini 的外观没有任何变化，延续 M1 Mac mini 设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [苹果开始录制iPhone 14、Apple Watch Series 8发布会视频](https://www.cnbeta.com/articles/tech/1301725.htm) | Sun Aug 07 2022 3:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司已经开始为其秋季产品发布活动制作预录视频，预计9月份的iPhone 14发布会将在上半月举行，并伴随着Apple Watch Series 8一起发布。自COVID-19大流行开始以来，苹果的发布会活动一直是通过录像的形式进行的，向全球播放预先录制的视频而不是现场观众亲身参与。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [新版HomePod与HomePod mini传闻将于2023年初推出](https://www.cnbeta.com/articles/tech/1301723.htm) | Sun Aug 07 2022 3:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果可能正在为HomePod系列的更新做准备，一份报告称，全尺寸的智能音箱将在2023年初回归，而HomePod mini将在未来获得某种形式的更新。苹果在HomePod mini上取得了一些成功，实现从高端的HomePod退出的市场上享有高销量。一份讨论苹果未来HomePod变化的报告显示，两者都可能在明年看到变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [天马：明年量产折叠屏 全力攻关AMOLED](https://www.cnbeta.com/articles/tech/1301721.htm) | Sun Aug 07 2022 3:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这两年，折叠屏手机不断涌现，国产的折叠屏面板也要来了！据天马透露，已在今年点亮的TM18产线上重点布局了包括折叠屏、低功耗屏等在内的先进前沿技术，明年将具备折叠屏的量产能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [拜登新冠检测结果为阴性 将解除隔离并恢复公开活动](https://www.cnbeta.com/articles/tech/1301719.htm) | Sun Aug 07 2022 3:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;79岁的美国总统拜登连续第二天新冠检测为阴性，结束了在白宫超过两周的自我隔离。&lt;/strong&gt;总统医生Kevin O’Connor在白宫发布的一封信中表示，拜登周日上午的检测结果为阴性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
