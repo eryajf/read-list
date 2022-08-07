@@ -366,9 +366,9 @@
 <!-- v2ex:START -->
 - 🥸 [New Outlook for Windows](https://www.v2ex.com/t/871311#reply3) | Sun Aug 07 2022 4:51 PM
 - 🤗 [有 ARM 版 Windows 11 能用的外接 USB 无线网卡吗](https://www.v2ex.com/t/871310#reply0) | Sun Aug 07 2022 4:24 PM
-- 🎭 [如何自动化搜集黄图群里的图片？](https://www.v2ex.com/t/871304#reply12) | Sun Aug 07 2022 3:30 PM
-- 🥷 [2720qm 是否支持 typec 接 mac 以后，键盘接显示器控制 mac](https://www.v2ex.com/t/871299#reply7) | Sun Aug 07 2022 2:38 PM
-- 🐵 [iTerm2 拖文件和目录上传到服务器，不知有没有人感兴趣？](https://www.v2ex.com/t/871296#reply13) | Sun Aug 07 2022 2:21 PM<!-- v2ex:END -->
+- 🎭 [2720qm 是否支持 typec 接 mac 以后，键盘接显示器控制 mac](https://www.v2ex.com/t/871299#reply7) | Sun Aug 07 2022 2:38 PM
+- 🥷 [iTerm2 拖文件和目录上传到服务器，不知有没有人感兴趣？](https://www.v2ex.com/t/871296#reply13) | Sun Aug 07 2022 2:21 PM
+- 🐵 [请问用 shell 脚本怎么设置 window 系统代理？就像 clash 那样](https://www.v2ex.com/t/871284#reply0) | Sun Aug 07 2022 12:48 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
