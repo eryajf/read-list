@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [用皮肤“听”音乐：戴上这款装备听音乐会 仿佛住在钢琴里](https://www.cnbeta.com/articles/tech/1301681.htm) | Sun Aug 07 2022 8:15 AM 
+- 🕯 [SK子公司向越南Vingroup供应电动汽车电池材料](https://www.cnbeta.com/articles/tech/1301683.htm) | Sun Aug 07 2022 8:32 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据Kedglobal报道称，SK IE Technology从越南最大的企业Vingroup那里获得了电池隔膜的订单。Vingroup正在进军东南亚和北美市场。本周五，SK IE Technology表示，上个月末Vingroup旗下电池制造企业“Vin Energy Solution”的董事长Pham Thuy Linh一行访问了位于忠北的SK IE Technology本部和工厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [用皮肤“听”音乐：戴上这款装备听音乐会 仿佛住在钢琴里](https://www.cnbeta.com/articles/tech/1301681.htm) | Sun Aug 07 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;贝多芬失聪后继续创作的故事相信大家都听过。《致爱丽丝》、《英雄交响曲》、《田园交响曲》等等作品都堪称经典。那你有没有想过，他究竟是如何做到的？初中物理课上，老师告诉我们：失去听力的贝多芬，用牙咬住木棒一端，另一端顶在钢琴上，以此感受钢琴的震动，坚持创作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [瑞士冰川融化惊现坠毁飞机残骸 遇难者54年前就被找到了](https://www.cnbeta.com/articles/tech/1301679.htm) | Sun Aug 07 2022 7:59 AM 
+- 💂 [瑞士冰川融化惊现坠毁飞机残骸 遇难者54年前就被找到了](https://www.cnbeta.com/articles/tech/1301679.htm) | Sun Aug 07 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当地时间8月4日，54年前在阿尔卑斯山坠毁的一架飞机残骸，在瑞士一座冰川上被一名登山向导发现。这起空难发生于1968年6月30日，坠毁的是Piper Cherokee，注册号为HB-OYL，在少女峰以南500米处发生了致命事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [史上最贵“垃圾袋”：巴黎世家12000元新包神似大号垃圾袋](https://hot.cnbeta.com/articles/funny/1301677.htm) | Sun Aug 07 2022 7:58 AM 
+- 🚀 [史上最贵“垃圾袋”：巴黎世家12000元新包神似大号垃圾袋](https://hot.cnbeta.com/articles/funny/1301677.htm) | Sun Aug 07 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;一个垃圾袋能有卖多少钱？近日，&lt;strong&gt;知名奢侈品品牌Balenciaga（巴黎世家）推出了一款史上最贵的“垃圾袋”。&lt;/strong&gt;这款神似垃圾袋，名叫Trash Pouch的包采用小牛皮制成，有黑、白、蓝、黄四种颜色的款式，售价则达到了1790美元（约合人民币12104元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1301677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究人员锁定伊朗对阿尔巴尼亚政府实施的网络攻击行为](https://www.cnbeta.com/articles/tech/1301675.htm) | Sun Aug 07 2022 7:56 AM 
+- 🎊 [研究人员锁定伊朗对阿尔巴尼亚政府实施的网络攻击行为](https://www.cnbeta.com/articles/tech/1301675.htm) | Sun Aug 07 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;7月中旬，一场针对阿尔巴尼亚政府的网络攻击使国家网站和公共服务中断了数小时。随着俄罗斯在乌克兰的战争肆虐，克里姆林宫似乎是最可能的嫌疑人。&lt;strong&gt;但威胁情报公司Mandiant周四发表的研究报告将这次攻击归咎于伊朗。虽然德黑兰的间谍活动和数字干预已经在世界各地出现，但曼迪安特的研究人员说，来自伊朗对一个北约成员国的破坏性攻击是一个值得注意的行动升级。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [英特尔承诺在Arc GPU上提高DirectX 11和传统API游戏性能](https://www.cnbeta.com/articles/tech/1301673.htm) | Sun Aug 07 2022 7:51 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔已经确认，他们将在最近的一个视频中为Arc GPU带来DirectX 11支持和传统API游戏性能。该公司承认，他们意识到利用DirectX 11的游戏性能不尽人意，并正在努力改善未来的体验。最初在LinusTechTips的评论中报道，该技术机构在利用Arc A770显卡的系统上对《古墓丽影》进行基准测试时，目睹了DirectX 11和12版本之间50%的GPU性能差异。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
