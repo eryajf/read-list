@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [第五章、面向对象编程01](https://juejin.cn/post/7128971872607141924) | Sun Aug 07 2022 3:32 AM 
+- 🤗 [2022年学React，一篇就够了！](https://juejin.cn/post/7128982435705913358) | Sun Aug 07 2022 4:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文围绕基本概念、组件、Hooks 三个 React 核心维度出发，将 React 中 90% 以上的实用功能和常用概念讲清楚，帮助你快速掌握 React。 
+    </details> 
+
+- 🎡 [特征工程-特征分箱](https://juejin.cn/post/7128976597557706759) | Sun Aug 07 2022 3:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    特征工程-特征分箱 大家好，我是Peter~ 一般在建立分类模型时，当我们进行特征工程的工作经常需要对连续型变量进行离散化的处理，也就是将连续型字段转成离散型字段。 离散化的过程中，连续型变量重新进行 
+    </details> 
+
+- 🕯 [Swift - LeetCode - 多数元素](https://juejin.cn/post/7128974473894002718) | Sun Aug 07 2022 3:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情  题目 给定一个大小为 n 的数组 nums，返回其中的多数元素。多数元素是指在数组中出现次数 大于 ⌊ 
+    </details> 
+
+- 🚀 [动态规划电路布线问题（Java代码实现）](https://juejin.cn/post/7128973901715439630) | Sun Aug 07 2022 3:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    电路布线 问题分析 电路布线的官方解释我就不加赘述了，通俗的讲，就是求最大不相交子集，也就是尽可能多的在线路不相交的情况下的布线情况。那么，这里再说一下，什么是相交，对于所有上端的接线柱 1&lt;=i&lt;j 
+    </details> 
+
+- 💪 [第五章、面向对象编程01](https://juejin.cn/post/7128971872607141924) | Sun Aug 07 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
     1、类与对象 1.1 基本介绍 类是抽象的，概念的，代表一类事物,比如人类,猫类.., 即它是数据类型 对象是具体的，实际的，代表一个具体事物, 即 是实例 类是对象的模板，对象是类的一个个体，对应一 
-    </details> 
-
-- 🎡 [什么是 Office Open XML 文件格式](https://juejin.cn/post/7128966210158329887) | Sun Aug 07 2022 3:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 Office Open XML是一种基于 XML 的文件格式，已发布为 ECMA-376。 它被 Mic 
-    </details> 
-
-- 🕯 [Java转Android：第7天  Handler做一个倒计时功能](https://juejin.cn/post/7128964814491090951) | Sun Aug 07 2022 3:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    5、4、3、2、1~今天，做一个倒计时功能。我主要简讲安卓的UI线程模型、Handler的使用。当应用启动，系统会创建一个主线程。这个主线程负责向UI组件分发事件…… 
-    </details> 
-
-- 🚀 [git 分支合并代码的四种方式](https://juejin.cn/post/7128963845741084686) | Sun Aug 07 2022 3:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    很多时候是否经常为合并代码而烦恼呢，我曾经就是这样，每次都要解决好久，后来我痛定思痛，于是整理了四种方法来合并不同场景的代码。 
-    </details> 
-
-- 💪 [来，跟我一起撸kotlin runBlocking/launch/join/async/delay 原理&amp;使用](https://juejin.cn/post/7128961903220490270) | Sun Aug 07 2022 2:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 之前一些列的文章重点在于分析协程本质原理，了解了协程的内核再来看其它衍生的知识就比较容易了。 接下来这边文章着重分析协程框架提供的一些重要的函数原理，通过本篇文章，你将了解到： 1. runBl 
     </details> 
 <!-- juejin:END -->
 ### 少数派
