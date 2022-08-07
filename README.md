@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Blender Python 编程 ：程序化建模（生成超形）](https://juejin.cn/post/7129008327463763999) | Sun Aug 07 2022 5:53 AM 
+- 🤗 [JUC（2）线程池一览](https://juejin.cn/post/7129013968038789156) | Sun Aug 07 2022 6:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 前言 本篇主要介绍线程池相关的知识点和面试题知识。 一、什么是线程池 说到线程池，我们可以类比 JDBC  
+    </details> 
+
+- 🎡 [AQS同步组件-CyclicBarrier&lpar;循环屏障&rpar;解析和用例](https://juejin.cn/post/7129012183647649805) | Sun Aug 07 2022 6:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 CyclicBarrier原理 CyclicBarrier 的字面意思是可循环使用（Cyclic）的屏障 
+    </details> 
+
+- 🕯 [AQS同步组件-Semaphore（信号量）解析和案例](https://juejin.cn/post/7129010239994593317) | Sun Aug 07 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 基本概念 Semaphore也是一个线程同步的辅助类，可以维护当前访问自身的线程个数，并提供了同步机制。 
+    </details> 
+
+- 🚀 [Blender Python 编程 ：程序化建模（生成超形）](https://juejin.cn/post/7129008327463763999) | Sun Aug 07 2022 5:53 AM 
     <details><summary>展开描述 ...</summary> 
     在正文第一句加入“我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！” 什么是超形（Supershapes, Superformula） 二维超形 超形方程是基于由 Johan Giel 
     </details> 
 
-- 🎡 [JVM调优-JVM调优实践三](https://juejin.cn/post/7129007631959588877) | Sun Aug 07 2022 5:51 AM 
+- 💪 [JVM调优-JVM调优实践三](https://juejin.cn/post/7129007631959588877) | Sun Aug 07 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 1.写在前面 在上一篇文章中，我们分享了jvm调优中：堆内存与元空间优化，新生代和老年代比例优化，和线程 
-    </details> 
-
-- 🕯 [谁说程序员不懂浪漫，教你使用SwiftUI搭建一个电子相册送给她吧～](https://juejin.cn/post/7128997465855885343) | Sun Aug 07 2022 5:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    每到七夕情人节、纪念日等节日，身为程序员的我们总是不知道该送什么礼物表达心意，毕竟满脑子装的都是代码。那我们能不能用代码做一个礼物送给心爱的那个她呢...... 
-    </details> 
-
-- 🚀 [Bpmn.js 进阶指南之Lint流程校验&lpar;三&rpar;](https://juejin.cn/post/7128995058879037447) | Sun Aug 07 2022 5:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 前言 在之前的文章中已经把 bpmn.js 的执行原理和模块扩展方式都做了一些简单介绍，对 Render 
-    </details> 
-
-- 💪 [【LeetCode】剑指 Offer II 091. 粉刷房子](https://juejin.cn/post/7128993290430480414) | Sun Aug 07 2022 4:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能 
     </details> 
 <!-- juejin:END -->
 ### 少数派
