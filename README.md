@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [曝华纳已邀请亨利·卡维尔再演超人 但被对方回绝](https://hot.cnbeta.com/articles/movie/1301637.htm) | Sun Aug 07 2022 4:50 AM 
+- 🕯 [乌克兰扎波罗热核电站遭到第二次炮击](https://www.cnbeta.com/articles/tech/1301639.htm) | Sun Aug 07 2022 7:15 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当地时间8月5日，乌克兰扎波罗热核电站遭到第二次炮击。俄乌双方都指责对方制造了这两次袭击。该核电站是欧洲最大核电站之一。据乌通社5日报道，乌克兰国家核电公司当天发布消息称，当地时间5日14时30分，俄罗斯军方采取挑衅行为，向扎波罗热核电站方向开火，击中了扎波罗热核电站的高压线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [曝华纳已邀请亨利·卡维尔再演超人 但被对方回绝](https://hot.cnbeta.com/articles/movie/1301637.htm) | Sun Aug 07 2022 4:50 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据外媒消息，近日在影视业内人士——来自Fandango的埃里克·戴维斯和来自Wrap的翁贝托·冈萨雷斯谈话中，谈到了亨利·卡维尔在DC扩展宇宙中的未来。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [炸鸡叔确认与漫威接触过：他比较想演X教授](https://hot.cnbeta.com/articles/movie/1301635.htm) | Sun Aug 07 2022 4:50 AM 
+- 💂 [炸鸡叔确认与漫威接触过：他比较想演X教授](https://hot.cnbeta.com/articles/movie/1301635.htm) | Sun Aug 07 2022 4:50 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;此前我们曾报道有爆料称漫威影业正与“炸鸡叔”吉安卡罗·埃斯波西托商谈，邀请他加入漫威电影宇宙。而在MCU中他很可能会饰演新《神奇四侠》当中的毁灭博士一角。近日，“炸鸡叔”确认和漫威影业接触过，并且他比较想演“X教授”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《蜘蛛夫人》新路透照+片场视频：“达妹”飒爽登场](https://hot.cnbeta.com/articles/movie/1301633.htm) | Sun Aug 07 2022 4:48 AM 
+- 🚀 [《蜘蛛夫人》新路透照+片场视频：“达妹”飒爽登场](https://hot.cnbeta.com/articles/movie/1301633.htm) | Sun Aug 07 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据守望好莱坞及外媒消息，“达妹”达科塔·约翰逊和亚当·斯科特主演的《蜘蛛夫人》释出新路透照以及片场视频，“达妹”一身服饰干练利落，让我们一起来看一看。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [被华纳砍掉的《蝙蝠女》剧照公开 迈克尔基顿版蝙蝠侠亮相](https://hot.cnbeta.com/articles/movie/1301631.htm) | Sun Aug 07 2022 4:46 AM 
+- 🎊 [被华纳砍掉的《蝙蝠女》剧照公开 迈克尔基顿版蝙蝠侠亮相](https://hot.cnbeta.com/articles/movie/1301631.htm) | Sun Aug 07 2022 4:46 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;在被取消后，《蝙蝠女》导演Adil El Arbi分享了影片一张剧照，展示了Leslie Grace饰演的蝙蝠女和迈克尔基顿饰演的蝙蝠侠站在哥谭市的街头&lt;/strong&gt;，中间是导演本人。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《企鹅家族》配音演员Carlo Bonomi去世，享年85岁](https://hot.cnbeta.com/articles/comic/1301629.htm) | Sun Aug 07 2022 4:42 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Carlo Bonomi的突然去世让他的粉丝们大受打击，人们纷纷向这位配音艺术家致敬。Bonomi是意大利知名的配音演员和小丑。他因在名为《La Linea》的动画节目中扮演Linea的配音工作而闻名。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1301629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
