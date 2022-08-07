@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [拜登新冠检测结果为阴性 将解除隔离并恢复公开活动](https://www.cnbeta.com/articles/tech/1301719.htm) | Sun Aug 07 2022 3:12 PM 
+- 🕯 [彭博社：M2/M2 Pro 芯片 Mac mini 开发中 外观不变](https://www.cnbeta.com/articles/tech/1301727.htm) | Sun Aug 07 2022 3:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;彭博社 Mark Gurman 再次给出了苹果下一代 Mac mini 的预测。Gurman 表示，此前苹果开发的 M1 Pro 版 Mac mini 已经被放弃。取而代之的是，M2 和 M2 Pro 芯片版 Mac mini，除了芯片升级外，M2 和 M2 Pro&amp;nbsp;&amp;nbsp;Mac&amp;nbsp;&amp;nbsp;mini 的外观没有任何变化，延续 M1 Mac mini 设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果开始录制iPhone 14、Apple Watch Series 8发布会视频](https://www.cnbeta.com/articles/tech/1301725.htm) | Sun Aug 07 2022 3:34 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司已经开始为其秋季产品发布活动制作预录视频，预计9月份的iPhone 14发布会将在上半月举行，并伴随着Apple Watch Series 8一起发布。自COVID-19大流行开始以来，苹果的发布会活动一直是通过录像的形式进行的，向全球播放预先录制的视频而不是现场观众亲身参与。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [新版HomePod与HomePod mini传闻将于2023年初推出](https://www.cnbeta.com/articles/tech/1301723.htm) | Sun Aug 07 2022 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果可能正在为HomePod系列的更新做准备，一份报告称，全尺寸的智能音箱将在2023年初回归，而HomePod mini将在未来获得某种形式的更新。苹果在HomePod mini上取得了一些成功，实现从高端的HomePod退出的市场上享有高销量。一份讨论苹果未来HomePod变化的报告显示，两者都可能在明年看到变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [天马：明年量产折叠屏 全力攻关AMOLED](https://www.cnbeta.com/articles/tech/1301721.htm) | Sun Aug 07 2022 3:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;这两年，折叠屏手机不断涌现，国产的折叠屏面板也要来了！据天马透露，已在今年点亮的TM18产线上重点布局了包括折叠屏、低功耗屏等在内的先进前沿技术，明年将具备折叠屏的量产能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [拜登新冠检测结果为阴性 将解除隔离并恢复公开活动](https://www.cnbeta.com/articles/tech/1301719.htm) | Sun Aug 07 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;79岁的美国总统拜登连续第二天新冠检测为阴性，结束了在白宫超过两周的自我隔离。&lt;/strong&gt;总统医生Kevin O’Connor在白宫发布的一封信中表示，拜登周日上午的检测结果为阴性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [赞达亚布达佩斯拍摄《沙丘2》 男友荷兰弟现身探班](https://hot.cnbeta.com/articles/movie/1301717.htm) | Sun Aug 07 2022 1:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，有网友发现赞达亚·科尔曼正在布达佩斯拍摄《沙丘2》，男友汤姆·霍兰德现身探班，二人相伴而行十分甜蜜。据悉，赞达亚·科尔曼与汤姆·霍兰德于电影《蜘蛛侠：英雄归来》中相结识，汤姆·赫兰德与2019年向外界官宣了与赞达亚·科尔曼恋爱的消息。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [索尼漫威新片《蜘蛛夫人》曝光新片场照](https://hot.cnbeta.com/articles/movie/1301715.htm) | Sun Aug 07 2022 1:10 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼影业打造的漫威超级英雄新片《蜘蛛夫人》曝光全新片场照。本片由“达妹”达科塔·约翰逊主演，是索尼蜘蛛宇宙中第一部以女性角色为主的超英电影。片场照展示了达科塔·约翰逊和亚当·斯科特拍摄救援戏份的场景。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [英特尔、AMD和英伟达均减少招聘新员工 专注于留住现有人才而不是填补空缺](https://www.cnbeta.com/articles/tech/1301713.htm) | Sun Aug 07 2022 1:09 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着全球宏观经济形势变得越来越严峻、通货膨胀加剧、加上新冠疫情的持续影响，未来一段时间内不确定因素增加，不少科技企业开始选择放慢招聘新员工的步伐，甚至有部分企业已开始进行裁员。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [国乒队长马龙保研北京体育大学：世界排名第2](https://www.cnbeta.com/articles/tech/1301711.htm) | Sun Aug 07 2022 1:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月7日，北京体育大学官方公布2022年优秀运动员、教练员免初试攻读硕士研究生名单，&lt;strong&gt;多位奥运冠军上榜，国家乒乓球队长马龙就是其中之一，另外还有侯志慧、刘洋等。&lt;/strong&gt;国乒队员一直都有去名校深造的，比如丁宁就读北京大学、樊振东保送上海交大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
