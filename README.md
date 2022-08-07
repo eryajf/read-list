@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [SK子公司向越南Vingroup供应电动汽车电池材料](https://www.cnbeta.com/articles/tech/1301683.htm) | Sun Aug 07 2022 8:32 AM 
+- 🕯 [分析师认为任天堂将不会在2022年内推出新机型](https://hot.cnbeta.com/articles/game/1301689.htm) | Sun Aug 07 2022 9:58 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;多年来，关于Switch Pro的传言一直甚嚣尘上，而现在看来，任天堂显然还没有计划推出这款传说中的设备。在任天堂的最新财报会议结束后，日经分析师认为，任天堂在2022年内将不会推出最新款NS机型。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [日本拟最快10月启动二价奥密克戎疫苗接种](https://www.cnbeta.com/articles/tech/1301687.htm) | Sun Aug 07 2022 9:57 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国辉瑞和莫德纳等公司开发了针对奥密克戎毒株的疫苗，有望在秋季前后登陆日本。日前采访相关人士获悉，日本政府正在就最快10月启动应对新冠奥密克戎毒株的二价疫苗接种工作展开协调。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Galaxy Z Fold 4和Flip 4实拍图泄露 新颜色和显示屏折痕情况展示](https://www.cnbeta.com/articles/tech/1301685.htm) | Sun Aug 07 2022 9:37 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;离Galaxy Z Fold 4和Flip 4的首次亮相只有几天时间了，三星的新一代折叠机的真实图片昨日现身，展示了新的颜色选择、显示屏折痕情况等。Noh_tech今天在Twitter上发布了一批图片，这台Galaxy Z Fold 4和Galaxy Z Flip 4在一个看起来像运营商员工的手中。这些图片当中的Fold 4为蓝灰色，而Flip 4则为蓝色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [SK子公司向越南Vingroup供应电动汽车电池材料](https://www.cnbeta.com/articles/tech/1301683.htm) | Sun Aug 07 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据Kedglobal报道称，SK IE Technology从越南最大的企业Vingroup那里获得了电池隔膜的订单。Vingroup正在进军东南亚和北美市场。本周五，SK IE Technology表示，上个月末Vingroup旗下电池制造企业“Vin Energy Solution”的董事长Pham Thuy Linh一行访问了位于忠北的SK IE Technology本部和工厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [用皮肤“听”音乐：戴上这款装备听音乐会 仿佛住在钢琴里](https://www.cnbeta.com/articles/tech/1301681.htm) | Sun Aug 07 2022 8:15 AM 
+- 🎊 [用皮肤“听”音乐：戴上这款装备听音乐会 仿佛住在钢琴里](https://www.cnbeta.com/articles/tech/1301681.htm) | Sun Aug 07 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;贝多芬失聪后继续创作的故事相信大家都听过。《致爱丽丝》、《英雄交响曲》、《田园交响曲》等等作品都堪称经典。那你有没有想过，他究竟是如何做到的？初中物理课上，老师告诉我们：失去听力的贝多芬，用牙咬住木棒一端，另一端顶在钢琴上，以此感受钢琴的震动，坚持创作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [瑞士冰川融化惊现坠毁飞机残骸 遇难者54年前就被找到了](https://www.cnbeta.com/articles/tech/1301679.htm) | Sun Aug 07 2022 7:59 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间8月4日，54年前在阿尔卑斯山坠毁的一架飞机残骸，在瑞士一座冰川上被一名登山向导发现。这起空难发生于1968年6月30日，坠毁的是Piper Cherokee，注册号为HB-OYL，在少女峰以南500米处发生了致命事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [史上最贵“垃圾袋”：巴黎世家12000元新包神似大号垃圾袋](https://hot.cnbeta.com/articles/funny/1301677.htm) | Sun Aug 07 2022 7:58 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一个垃圾袋能有卖多少钱？近日，&lt;strong&gt;知名奢侈品品牌Balenciaga（巴黎世家）推出了一款史上最贵的“垃圾袋”。&lt;/strong&gt;这款神似垃圾袋，名叫Trash Pouch的包采用小牛皮制成，有黑、白、蓝、黄四种颜色的款式，售价则达到了1790美元（约合人民币12104元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1301677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [研究人员锁定伊朗对阿尔巴尼亚政府实施的网络攻击行为](https://www.cnbeta.com/articles/tech/1301675.htm) | Sun Aug 07 2022 7:56 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月中旬，一场针对阿尔巴尼亚政府的网络攻击使国家网站和公共服务中断了数小时。随着俄罗斯在乌克兰的战争肆虐，克里姆林宫似乎是最可能的嫌疑人。&lt;strong&gt;但威胁情报公司Mandiant周四发表的研究报告将这次攻击归咎于伊朗。虽然德黑兰的间谍活动和数字干预已经在世界各地出现，但曼迪安特的研究人员说，来自伊朗对一个北约成员国的破坏性攻击是一个值得注意的行动升级。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
