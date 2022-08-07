@@ -365,10 +365,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [请问用 shell 脚本怎么设置 window 系统代理？就像 clash 那样](https://www.v2ex.com/t/871284#reply0) | Sun Aug 07 2022 12:48 PM
-- 🤗 [求助， nodeJs 进程无响应了，应该怎么查](https://www.v2ex.com/t/871277#reply3) | Sun Aug 07 2022 12:15 PM
-- 🎭 [Java ， PHP ， Go，哪种语言和框架更适合开发 API 接口?](https://www.v2ex.com/t/871276#reply9) | Sun Aug 07 2022 12:00 PM
+- 🤗 [求助， nodeJs 进程无响应了，应该怎么查](https://www.v2ex.com/t/871277#reply4) | Sun Aug 07 2022 12:15 PM
+- 🎭 [Java ， PHP ， Go，哪种语言和框架更适合开发 API 接口?](https://www.v2ex.com/t/871276#reply14) | Sun Aug 07 2022 12:00 PM
 - 🥷 [想请教一下 steam++安装证书有什么风险或者潜在风险?平时 V2EX 都用它的](https://www.v2ex.com/t/871274#reply4) | Sun Aug 07 2022 11:49 AM
-- 🐵 [jetbrains remote toolchain 使用的时候你们有没有遇到过编译是按照旧代码编译的](https://www.v2ex.com/t/871273#reply1) | Sun Aug 07 2022 11:48 AM<!-- v2ex:END -->
+- 🐵 [jetbrains remote toolchain 使用的时候你们有没有遇到过编译是按照旧代码编译的](https://www.v2ex.com/t/871273#reply2) | Sun Aug 07 2022 11:48 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
