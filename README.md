@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [赞达亚布达佩斯拍摄《沙丘2》 男友荷兰弟现身探班](https://hot.cnbeta.com/articles/movie/1301717.htm) | Sun Aug 07 2022 1:16 PM 
+- 🕯 [拜登新冠检测结果为阴性 将解除隔离并恢复公开活动](https://www.cnbeta.com/articles/tech/1301719.htm) | Sun Aug 07 2022 3:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;79岁的美国总统拜登连续第二天新冠检测为阴性，结束了在白宫超过两周的自我隔离。&lt;/strong&gt;总统医生Kevin O’Connor在白宫发布的一封信中表示，拜登周日上午的检测结果为阴性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [赞达亚布达佩斯拍摄《沙丘2》 男友荷兰弟现身探班](https://hot.cnbeta.com/articles/movie/1301717.htm) | Sun Aug 07 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，有网友发现赞达亚·科尔曼正在布达佩斯拍摄《沙丘2》，男友汤姆·霍兰德现身探班，二人相伴而行十分甜蜜。据悉，赞达亚·科尔曼与汤姆·霍兰德于电影《蜘蛛侠：英雄归来》中相结识，汤姆·赫兰德与2019年向外界官宣了与赞达亚·科尔曼恋爱的消息。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [索尼漫威新片《蜘蛛夫人》曝光新片场照](https://hot.cnbeta.com/articles/movie/1301715.htm) | Sun Aug 07 2022 1:10 PM 
+- 💂 [索尼漫威新片《蜘蛛夫人》曝光新片场照](https://hot.cnbeta.com/articles/movie/1301715.htm) | Sun Aug 07 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;索尼影业打造的漫威超级英雄新片《蜘蛛夫人》曝光全新片场照。本片由“达妹”达科塔·约翰逊主演，是索尼蜘蛛宇宙中第一部以女性角色为主的超英电影。片场照展示了达科塔·约翰逊和亚当·斯科特拍摄救援戏份的场景。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔、AMD和英伟达均减少招聘新员工 专注于留住现有人才而不是填补空缺](https://www.cnbeta.com/articles/tech/1301713.htm) | Sun Aug 07 2022 1:09 PM 
+- 🚀 [英特尔、AMD和英伟达均减少招聘新员工 专注于留住现有人才而不是填补空缺](https://www.cnbeta.com/articles/tech/1301713.htm) | Sun Aug 07 2022 1:09 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;随着全球宏观经济形势变得越来越严峻、通货膨胀加剧、加上新冠疫情的持续影响，未来一段时间内不确定因素增加，不少科技企业开始选择放慢招聘新员工的步伐，甚至有部分企业已开始进行裁员。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [国乒队长马龙保研北京体育大学：世界排名第2](https://www.cnbeta.com/articles/tech/1301711.htm) | Sun Aug 07 2022 1:04 PM 
+- 🎊 [国乒队长马龙保研北京体育大学：世界排名第2](https://www.cnbeta.com/articles/tech/1301711.htm) | Sun Aug 07 2022 1:04 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月7日，北京体育大学官方公布2022年优秀运动员、教练员免初试攻读硕士研究生名单，&lt;strong&gt;多位奥运冠军上榜，国家乒乓球队长马龙就是其中之一，另外还有侯志慧、刘洋等。&lt;/strong&gt;国乒队员一直都有去名校深造的，比如丁宁就读北京大学、樊振东保送上海交大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [全球第一SaaS公司Salesforce突然解散中国团队](https://www.cnbeta.com/articles/tech/1301709.htm) | Sun Aug 07 2022 1:03 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为全球最大的SaaS软件服务公司，Salesforce近日突然宣布，解散中国区团队，同时关闭位于中国香港的办公室。&lt;/strong&gt;Salesforce中国区主要负责中国大陆、中国香港、中国台湾的业务。团队解散后，中国大陆、中国香港的业务将交给阿里云代销，中国台湾的业务则纳入东南亚区，由新加坡办公室管理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
