@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [分析师认为任天堂将不会在2022年内推出新机型](https://hot.cnbeta.com/articles/game/1301689.htm) | Sun Aug 07 2022 9:58 AM 
+- 🕯 [AMD锐龙5 7600X小试牛刀登上性能榜第一：力压12代酷睿全家](https://www.cnbeta.com/articles/tech/1301697.htm) | Sun Aug 07 2022 11:31 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;AMD Zen 4锐龙7000处理器要到月底才能正式发布，&lt;strong&gt;然而，在UserBenchmark上，锐龙5 7600X已经正式被列为跑分榜第一。&lt;/strong&gt;测试显示，锐龙5 7600X在各种负载下来的成绩是平均数的117%，居然超越了12代酷睿全家。可做参考的是，i9-12900KS的成绩是平均负载的116%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [中国16岁女孩夺首个顶级霹雳舞冠军：含金量极高 系巴黎奥运会项目](https://www.cnbeta.com/articles/tech/1301695.htm) | Sun Aug 07 2022 11:31 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;相信，喜欢Breaking、Poping、Locking等舞蹈的年轻人不在少数，其中Breaking常被译为霹雳舞、地板舞。据青流视频报道，8月7日，在斯洛伐克举行的世界知名赛事“Outbreak大赛”中，中国霹雳舞队16岁女将刘清漪夺冠。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [官方揭秘：中国空间站是如何做到“坐如钟、行如风”的？](https://www.cnbeta.com/articles/science/1301693.htm) | Sun Aug 07 2022 11:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;7月24日，问天实验舱在文昌航天发射场成功发射。问天入列后，当前空间站组合体由天和核心舱、问天实验舱、神舟十四号载人飞船和天舟四号货运飞船组成。今年还将迎接梦天实验舱、天舟五号、神舟十五号接续造访。这个在轨质量达百余吨重的空间站组合体，其姿态控制难度是我国航天飞行任务中史无前例的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [i9-13900K加速频率高达5.8GHz 多核性能领先锐龙9 60％](https://www.cnbeta.com/articles/tech/1301691.htm) | Sun Aug 07 2022 11:29 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Intel、AMD新一代处理器都风雨欲来，这次要大打频率之战了。13代酷睿旗舰i9-13900K此前曝料可最高加速到5.5GHz，而在最新的一条GeekBench 5测试数据中，表面看起来最高还是5.5GHz，但&lt;strong&gt;实际上可以冲到5.8GHz，而且大部分时间都在5.7-5.8GHz范围内。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [分析师认为任天堂将不会在2022年内推出新机型](https://hot.cnbeta.com/articles/game/1301689.htm) | Sun Aug 07 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;多年来，关于Switch Pro的传言一直甚嚣尘上，而现在看来，任天堂显然还没有计划推出这款传说中的设备。在任天堂的最新财报会议结束后，日经分析师认为，任天堂在2022年内将不会推出最新款NS机型。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [日本拟最快10月启动二价奥密克戎疫苗接种](https://www.cnbeta.com/articles/tech/1301687.htm) | Sun Aug 07 2022 9:57 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国辉瑞和莫德纳等公司开发了针对奥密克戎毒株的疫苗，有望在秋季前后登陆日本。日前采访相关人士获悉，日本政府正在就最快10月启动应对新冠奥密克戎毒株的二价疫苗接种工作展开协调。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Galaxy Z Fold 4和Flip 4实拍图泄露 新颜色和显示屏折痕情况展示](https://www.cnbeta.com/articles/tech/1301685.htm) | Sun Aug 07 2022 9:37 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;离Galaxy Z Fold 4和Flip 4的首次亮相只有几天时间了，三星的新一代折叠机的真实图片昨日现身，展示了新的颜色选择、显示屏折痕情况等。Noh_tech今天在Twitter上发布了一批图片，这台Galaxy Z Fold 4和Galaxy Z Flip 4在一个看起来像运营商员工的手中。这些图片当中的Fold 4为蓝灰色，而Flip 4则为蓝色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [SK子公司向越南Vingroup供应电动汽车电池材料](https://www.cnbeta.com/articles/tech/1301683.htm) | Sun Aug 07 2022 8:32 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Kedglobal报道称，SK IE Technology从越南最大的企业Vingroup那里获得了电池隔膜的订单。Vingroup正在进军东南亚和北美市场。本周五，SK IE Technology表示，上个月末Vingroup旗下电池制造企业“Vin Energy Solution”的董事长Pham Thuy Linh一行访问了位于忠北的SK IE Technology本部和工厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [用皮肤“听”音乐：戴上这款装备听音乐会 仿佛住在钢琴里](https://www.cnbeta.com/articles/tech/1301681.htm) | Sun Aug 07 2022 8:15 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;贝多芬失聪后继续创作的故事相信大家都听过。《致爱丽丝》、《英雄交响曲》、《田园交响曲》等等作品都堪称经典。那你有没有想过，他究竟是如何做到的？初中物理课上，老师告诉我们：失去听力的贝多芬，用牙咬住木棒一端，另一端顶在钢琴上，以此感受钢琴的震动，坚持创作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
