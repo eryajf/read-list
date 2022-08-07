@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [蔚来新故事：手机向上看 造车向下看](https://www.cnbeta.com/articles/tech/1301529.htm) | Sat Aug 06 2022 7:04 PM 
+- 🕯 [Mate 50 9月迎战iPhone 14 余承东曾称华为手机开始回来了](https://www.cnbeta.com/articles/tech/1301559.htm) | Sun Aug 07 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月31日，博主“碳粉说电池不胖”在微博爆料，在常州蔚来车主面对面活动上，蔚来创始人李斌透露了蔚来手机的更多细节：&lt;strong&gt;7000元以上的旗舰机型，非曲面屏的直板机，会是和蔚来汽车匹配度最好的手机，预计一年后上市&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年9月可以说是手机圈最重要的一个月份，曾经两个最有竞争力的高端品牌——华为和苹果将相继发布Mate 50系列和iPhone 14系列。其中时隔两年登场的Mate 50系列备受关注。最近，华为Mate 50系列终于浮出水面。根据多方消息，&lt;strong&gt;该系列预计会在9月7日正式发布。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [成千上万的黑客正涌向&quot;黑暗公用事业&quot;：C2-as-a-Service](https://www.cnbeta.com/articles/tech/1301527.htm) | Sat Aug 06 2022 6:58 PM 
+- 💼 [今年销量还不足5000台 英菲尼迪：会一直深耕中国](https://www.cnbeta.com/articles/tech/1301557.htm) | Sun Aug 07 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;安全研究人员发现了一种名为&amp;quot;黑暗公用事业&amp;quot;的新服务，它为网络犯罪分子提供了一种简单而廉价的方式，为其恶意行动建立一个指挥和控制（C2）中心。Dark Utilities服务为威胁者提供了一个支持Windows、Linux和基于Python的恶意程序载荷的平台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日系品牌中的豪华车，除了丰田的雷克萨斯之外，本田的讴歌和日产英菲尼迪，在中国市场的日子并不好过。8月5日，日产中国公布数据显示，2022年7月东风日产（含日产/启辰/英菲尼迪）销量为86,474辆，2022年1-7月累计销量为535,280辆。&lt;strong&gt;其中，7月英菲尼迪品牌销量为459辆，1-7月累计销量为4569辆（以上为终端销量）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微星推出首款英特尔A380半高刀卡 专为小尺寸预制系统设计](https://www.cnbeta.com/articles/tech/1301525.htm) | Sat Aug 06 2022 6:51 PM 
+- 💂 [福特向肯塔基州洪水灾区派出两辆电动F-150 Lightning救灾](https://www.cnbeta.com/articles/tech/1301555.htm) | Sun Aug 07 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微星推出了其首款英特尔A380显卡，这也是首款Low-Profile形态的显卡（半高刀卡）。微星的英特尔A380显卡的推出使其成为第三个在独立显卡阵容中提供英特尔Arc GPU的制造商。它采用了公版参考规格，并定制了专门为SFF（小尺寸）PC设计的定制PCB。到目前为止，我们只看到GUNNIR和华擎有此设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;福特已经派出两辆电动F-150 Lightnings来帮助肯塔基州的洪水应对工作，其为工作人员提供移动电源进而能够每天帮助10-15个家庭回到自己的家中。&lt;/strong&gt;7月底，严重的洪水袭击了肯塔基州，迄今已有37人死亡，数以万计的肯塔基人断电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [动视暴雪从移动游戏中赚的钱比PC和游戏机的总和还要多](https://hot.cnbeta.com/articles/game/1301523.htm) | Sat Aug 06 2022 6:36 PM 
+- 🚀 [詹姆斯-韦伯望远镜新图展示了两个巨大星系撞在一起的画面](https://www.cnbeta.com/articles/science/1301553.htm) | Sun Aug 07 2022 12:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;动视暴雪上周发布了季度财务报告，报告描绘了游戏平台不同层次的光明与黯淡。由于PC和游戏机销量暴跌，这家陷入困境的公司的收入逐年下降，以至于现在手机游戏占其收入的一半。如今，动视暴雪真的应该被称为动视暴雪King。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;詹姆斯-韦伯所做的工作继续让人惊讶。该望远镜背后团队分享的最新图像则是两个巨大星系撞在一起的画面。&lt;/strong&gt;银河系的碰撞如此激烈，以至于可以看到星系碰撞时似乎有火花喷出。更耐人寻味的是，这两个星系的中心似乎都没有一个超大质量的黑洞。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Instagram试图通过测试9:16全屏图片来取悦摄影爱好者](https://www.cnbeta.com/articles/tech/1301521.htm) | Sat Aug 06 2022 6:23 PM 
+- 🎊 [SeaSearcher水下无人机将在寻宝界掀起一场风暴](https://www.cnbeta.com/articles/tech/1301551.htm) | Sun Aug 07 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Instagram很快将开始测试一种新的照片格式，允许用户在主屏幕上发布9:16的图片，与该应用继续推动的全屏视频相匹配。这款由Meta公司拥有的应用程序已经逐渐推动了对视频的更多使用，但代价是将原有的摄影特色抛在后面。然而，它很快就会做出努力，使摄影可以在服务上与视频并存，具有类似的地位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;任何经常观看探索频道的观众都会知道，寻找沉没的宝藏通常需要在沙子里翻找。然而，SeaSearcher水下无人机可能很快就会把客户引向战利品。目前，由电池供电的SeaSearcher处于运作原型状态，其由佛罗里达州的初创公司Seafarer Exploration开发。它是由工程师Tim Reynolds设计，据悉，他是合作公司Wild Manta的CEO。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
