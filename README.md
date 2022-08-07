@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [任意键｜第九世代宝可梦；彩虹六号出手游；骗情怀的仙剑七及其他](https://sspai.com/post/75012) | Sat Aug 06 2022 6:59 AM 
+- 👹 [跨平台、功能足、体验好：我为什么在用 iA Writer 写作](https://sspai.com/post/75025) | Sun Aug 07 2022 4:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果你是一名习惯使用 iA Writer 的长期用户，可能会觉得它虽然清冷如水，但就是不可或缺，任何同类应用都无法替代。可以说，iA Writer 凭借极简美观的界面、恰到好处的功能，牢牢占据着自己在编辑器类目当中的一席之地。&lt;a href=&quot;https://sspai.com/post/75025&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [任意键｜第九世代宝可梦；彩虹六号出手游；骗情怀的仙剑七及其他](https://sspai.com/post/75012) | Sat Aug 06 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
     周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。🎮玩游戏宝可梦｜NS新作《宝可梦朱/紫》将于11月18日发售在《宝 ...&lt;a href=&quot;https://sspai.com/post/75012&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [离开书本几年后，我开始重新思考读书这件事](https://sspai.com/post/75009) | Sat Aug 06 2022 3:00 AM 
+- 🤭 [离开书本几年后，我开始重新思考读书这件事](https://sspai.com/post/75009) | Sat Aug 06 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     读书这件事因人而异，也因时而异。如果是休假在家，睡前时光或随便一读，那么大可不必考虑任何方式方法，已有的读书习惯则会潜移默化得帮助到你。总之读书这件事并不复杂，先读起来就对了。&lt;a href=&quot;https://sspai.com/post/75009&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/75007) | Fri Aug 05 2022 9:38 AM 
+- 🥸 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/75007) | Fri Aug 05 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[动画]邪神与厨二病少女X、[韩剧]黑话律师、[纪录片]光影与魔术、[台剧]我愿意、[动画]风都侦探、[电影]独行月球、[美剧]中年失恋日记、[动画]影宅第二季、[动画]狂 ...&lt;a href=&quot;https://sspai.com/post/75007&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派周报 | 本周会员内容提要；跑题：果园鸽鸣](https://sspai.com/prime/story/pi-weekly-003) | Fri Aug 05 2022 9:11 AM 
+- 🙉 [派周报 | 本周会员内容提要；跑题：果园鸽鸣](https://sspai.com/prime/story/pi-weekly-003) | Fri Aug 05 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
     无论是推迟发布正式版，还是调整开发周期搞「大小年」，都只是治标不治本的做法。但苹果似乎坚持认为，只有通过促使最多用户在最短时间升级到最新系统，才能确保自己对设备和生态的绝对控制。如果这种思路不改变，我们也许还是只能继续、并且越发受制于苹果的「鸽」与「不鸽」。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-003&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [一篇文章，读懂中文播客前世今生](https://sspai.com/post/74874) | Fri Aug 05 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    中文播客的过去，谁会记得它的模样？中文播客的未来，从一门生意的角度看，又将如何续命？&lt;a href=&quot;https://sspai.com/post/74874&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
