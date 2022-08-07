@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家呼吁对人体大脑在午夜后清醒时如何变化展开新研究](https://www.cnbeta.com/articles/science/1301625.htm) | Sun Aug 07 2022 4:21 AM 
+- 🕯 [曝华纳已邀请亨利·卡维尔再演超人 但被对方回绝](https://hot.cnbeta.com/articles/movie/1301637.htm) | Sun Aug 07 2022 4:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Mind After Midnight假说认为，当人类在生物昼夜节律的夜晚清醒时--对大多数人来说是午夜之后--大脑中会出现神经生理变化从而改变我们跟世界的互动方式，尤其是跟冲动控制、奖励处理和信息处理有关的行动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据外媒消息，近日在影视业内人士——来自Fandango的埃里克·戴维斯和来自Wrap的翁贝托·冈萨雷斯谈话中，谈到了亨利·卡维尔在DC扩展宇宙中的未来。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [抖音4千万粉丝的“疯产姐妹”组合解散 原因公布](https://hot.cnbeta.com/articles/movie/1301623.htm) | Sun Aug 07 2022 4:00 AM 
+- 💼 [炸鸡叔确认与漫威接触过：他比较想演X教授](https://hot.cnbeta.com/articles/movie/1301635.htm) | Sun Aug 07 2022 4:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在短视频平台上，一对看上去“疯疯癫癫”的“疯产姐妹”组合，凭借着无厘头的搞笑风格和荒诞的剧情创意，给不少人带去了欢乐，抖音上更是有高达4千万的粉丝量。不过而今，因为各种原因，这对姐妹组合也“分道扬镳”了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前我们曾报道有爆料称漫威影业正与“炸鸡叔”吉安卡罗·埃斯波西托商谈，邀请他加入漫威电影宇宙。而在MCU中他很可能会饰演新《神奇四侠》当中的毁灭博士一角。近日，“炸鸡叔”确认和漫威影业接触过，并且他比较想演“X教授”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科学家发现可再生能源的新来源：分解植物物质](https://www.cnbeta.com/articles/science/1301621.htm) | Sun Aug 07 2022 3:39 AM 
+- 💂 [《蜘蛛夫人》新路透照+片场视频：“达妹”飒爽登场](https://hot.cnbeta.com/articles/movie/1301633.htm) | Sun Aug 07 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;鉴于能源价格不断上涨及燃烧化石燃料对全球气候的影响迅速显现，科学家们从未像现在这样迫切地需要发现通往真正可再生产品和燃料的途径。来自密歇根州立大学自然科学学院的有机化学教授Ned Jackson说道：“我们在美国每天使用2000万桶石油；这约是世界用量的1/5。我们所有的液体燃料和几乎所有的人造材料，从汽油和加仑壶到台面和衣服都是从石油--原油开始的。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据守望好莱坞及外媒消息，“达妹”达科塔·约翰逊和亚当·斯科特主演的《蜘蛛夫人》释出新路透照以及片场视频，“达妹”一身服饰干练利落，让我们一起来看一看。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone支持Siri操作关机 感觉电源键更耐用了](https://www.cnbeta.com/articles/tech/1301619.htm) | Sun Aug 07 2022 3:33 AM 
+- 🚀 [被华纳砍掉的《蝙蝠女》剧照公开 迈克尔基顿版蝙蝠侠亮相](https://hot.cnbeta.com/articles/movie/1301631.htm) | Sun Aug 07 2022 4:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;身为苹果自家的语音助手，Siri不仅可以用来拨打电话、播放音乐、查找苹果设备等，甚至还能帮你把手机关机。这不，有网友反馈称，&lt;strong&gt;在升级iOS 16最新预览版后，iPhone已支持通过Siri来语音操控关机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在被取消后，《蝙蝠女》导演Adil El Arbi分享了影片一张剧照，展示了Leslie Grace饰演的蝙蝠女和迈克尔基顿饰演的蝙蝠侠站在哥谭市的街头&lt;/strong&gt;，中间是导演本人。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [哈佛开发出可以确定隐性听力损失的模型](https://www.cnbeta.com/articles/science/1301617.htm) | Sun Aug 07 2022 3:29 AM 
+- 🎊 [《企鹅家族》配音演员Carlo Bonomi去世，享年85岁](https://hot.cnbeta.com/articles/comic/1301629.htm) | Sun Aug 07 2022 4:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;马萨诸塞州眼耳科的研究人员创建了一个可能评估人耳隐性听力损失程度的词分模型。&lt;/strong&gt;来自马萨诸塞州眼耳科的Eaton-Peabody实验室的研究人员在一项刚刚发表在《Scientific Reports》上的新研究中，从马萨诸塞州眼耳科评估的约96000只耳朵的记录中计算出了作为年龄函数的平均语音分数。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Carlo Bonomi的突然去世让他的粉丝们大受打击，人们纷纷向这位配音艺术家致敬。Bonomi是意大利知名的配音演员和小丑。他因在名为《La Linea》的动画节目中扮演Linea的配音工作而闻名。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1301629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
