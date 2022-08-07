@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Trino的介绍和安装使用](https://juejin.cn/post/7129151816512012302) | Sun Aug 07 2022 3:10 PM 
+- 🤗 [jQuery 编程 | 03 - jQuery 属性选择器](https://juejin.cn/post/7129159069507518495) | Sun Aug 07 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
-    前言： 最近在研究大数据的一些组件和数据库，本来是要调研下presto怎么用的，结果发现presto因为facebook的关系，导致presto核心开发成员离开， 重新开始创建了trino，个人感觉t 
+    一、属性选择器 Attribute Selector [name=&quot;value&quot;] 选择指定属性是给定值的元素。 Attribute Selector [name|=&quot;value&quot;] 选择指定属性值等 
     </details> 
 
-- 🎡 [阿里云云原生加速器企业硬之城携手阿里云 Serverless 应用引擎（SAE）打造低代码平台](https://juejin.cn/post/7129148770138193934) | Sun Aug 07 2022 2:58 PM 
+- 🎡 [“终于懂了” 系列：组件化框架 ARouter 完全解析（二）APT技术](https://juejin.cn/post/7129157665732689934) | Sun Aug 07 2022 3:33 PM 
     <details><summary>展开描述 ...</summary> 
-    作为入选阿里云首期云原生加速器的企业，硬之城此前也获得了阿里云首批产品生态集成认证，通过云原生加速器项目携手阿里云共建更加丰富的云原生产业生态圈，加速云原生落地。 
+    在上一篇《“终于懂了” 系列：组件化框架 ARouter 完全解析（一） 原理详解》中，详细介绍了ARouter的核心原理。其中提到了“帮助类”的概念，也就是在运行时生成 用于帮助填充WareHous 
     </details> 
 
-- 🕯 [Postman的使用教程](https://juejin.cn/post/7129146586386890765) | Sun Aug 07 2022 2:50 PM 
+- 🕯 [永不过时的话题：原型与原型链的实战详解（过万字总结）](https://juejin.cn/post/7129157532970385421) | Sun Aug 07 2022 3:32 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 Postman的使用教程 postman的简单介绍 在我们平时开发中，特别是需要与接口打交道时，无论是写接 
+    本文将先讲解关于原型与原型链的基础知识，然后再延伸讲解它们的实际应用场景，比如在 Vue2 源码中的应用，在 Vue3 源码中应用，及其他一些场景的应用加深对原型与原型链的理解。 
     </details> 
 
-- 🚀 [生于云、长于云，RocketMQ 5.0 再出发](https://juejin.cn/post/7129145624984813604) | Sun Aug 07 2022 2:46 PM 
+- 🚀 [头脑风暴：除数博弈](https://juejin.cn/post/7129156763588395015) | Sun Aug 07 2022 3:30 PM 
     <details><summary>展开描述 ...</summary> 
-    万物皆云的时代，RocketMQ 让数字化转型更简单高效，也将消息、事件、流的价值最大程度释放。Apache RocketMQ 将不断推动技术演进与落地实践，帮助企业真正实现高质量数字化转型与创新。 
+    题目 爱丽丝和鲍勃一起玩游戏，他们轮流行动。爱丽丝先手开局。 最初，黑板上有一个数字 n 。在每个玩家的回合，玩家需要执行以下操作： 选出任一 x，满足 0 &lt; x &lt; n 且 n % x == 0  
     </details> 
 
-- 💪 [广州搬砖第三年，从一枚小菜鸡到架构师](https://juejin.cn/post/7129144623968026637) | Sun Aug 07 2022 2:42 PM 
+- 💪 [TCP层的简单总结](https://juejin.cn/post/7129156909206568990) | Sun Aug 07 2022 3:30 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 在广州搬砖三年，我觉得蛮有意思的，真真正正有所成长的，也让我从一名小菜鸡成长为一名架构师，当然中间也遇到很多艰辛，当我回过头去看的时候，这些都是我成长的垫脚石，雕刻着我的成长痕迹。 食茶，接下来 
+    TCP头部一些字段的意思 序列号：在建立连接时由计算机生成的随机数作为其初始值，通过 SYN 包传给接收端主机，每发送一次数据，就「累加」一次该「数据字节数」的大小。用来解决网络包乱序问题。 确认应答 
     </details> 
 <!-- juejin:END -->
 ### 少数派
