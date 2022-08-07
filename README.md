@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Mate 50 9月迎战iPhone 14 余承东曾称华为手机开始回来了](https://www.cnbeta.com/articles/tech/1301559.htm) | Sun Aug 07 2022 1:46 AM 
+- 🕯 [没想到“华为汽车”站在了抠标鄙视链的顶端](https://www.cnbeta.com/articles/tech/1301615.htm) | Sun Aug 07 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年9月可以说是手机圈最重要的一个月份，曾经两个最有竞争力的高端品牌——华为和苹果将相继发布Mate 50系列和iPhone 14系列。其中时隔两年登场的Mate 50系列备受关注。最近，华为Mate 50系列终于浮出水面。根据多方消息，&lt;strong&gt;该系列预计会在9月7日正式发布。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，淘宝上华为车标热销，很多问界车主都把车尾的赛力斯车标抠掉换成了华为车标。品驾在某宝上搜了搜，果然卖家不在少数。而且卖家还很会投其所好，各种“华为”、“HUAWEI”，或者是“HarmonyOS”车标应有尽有，连华为的花瓣标也可以按需定制，卖家更直接打出“根据官方字体一比一开模打造”的宣传。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [今年销量还不足5000台 英菲尼迪：会一直深耕中国](https://www.cnbeta.com/articles/tech/1301557.htm) | Sun Aug 07 2022 1:40 AM 
+- 💼 [17.763公里，历时1387天 银兰高铁最长隧道贯通](https://www.cnbeta.com/articles/tech/1301613.htm) | Sun Aug 07 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日系品牌中的豪华车，除了丰田的雷克萨斯之外，本田的讴歌和日产英菲尼迪，在中国市场的日子并不好过。8月5日，日产中国公布数据显示，2022年7月东风日产（含日产/启辰/英菲尼迪）销量为86,474辆，2022年1-7月累计销量为535,280辆。&lt;strong&gt;其中，7月英菲尼迪品牌销量为459辆，1-7月累计销量为4569辆（以上为终端销量）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月6日，历经1387天的奋战，西北在建客专第一长大隧道、新建银兰高铁中卫至兰州段最后一座隧道——香山隧道实现贯通。这标志着银兰高铁中兰段施工进展取得重大突破，为全线开通运营奠定坚实基础。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [福特向肯塔基州洪水灾区派出两辆电动F-150 Lightning救灾](https://www.cnbeta.com/articles/tech/1301555.htm) | Sun Aug 07 2022 1:37 AM 
+- 💂 [“股神”巴菲特二季度巨亏437亿美元 为何如此淡定？](https://www.cnbeta.com/articles/tech/1301611.htm) | Sun Aug 07 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;福特已经派出两辆电动F-150 Lightnings来帮助肯塔基州的洪水应对工作，其为工作人员提供移动电源进而能够每天帮助10-15个家庭回到自己的家中。&lt;/strong&gt;7月底，严重的洪水袭击了肯塔基州，迄今已有37人死亡，数以万计的肯塔基人断电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间8月6日，股神巴菲特掌舵的伯克希尔·哈撒韦公司公布了二季度财报和半年报。报告显示，今年第二季度该公司营收761.8亿美元，去年同期691.14亿美元，增幅为10.2%，二季度运营利润为92.8亿美元，相较去年同期66.9亿美元增幅为38.7%。此项利润为集团拥有的保险、铁路和公用事业等各项业务的利润总和。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [詹姆斯-韦伯望远镜新图展示了两个巨大星系撞在一起的画面](https://www.cnbeta.com/articles/science/1301553.htm) | Sun Aug 07 2022 12:54 AM 
+- 🚀 [研究：新冠大流行减慢了人们对时间的感知](https://www.cnbeta.com/articles/science/1301609.htm) | Sun Aug 07 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;詹姆斯-韦伯所做的工作继续让人惊讶。该望远镜背后团队分享的最新图像则是两个巨大星系撞在一起的画面。&lt;/strong&gt;银河系的碰撞如此激烈，以至于可以看到星系碰撞时似乎有火花喷出。更耐人寻味的是，这两个星系的中心似乎都没有一个超大质量的黑洞。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据《Science Advances》的一份报告，COVID-19大流行病改变了个人对时间流逝的看法。大多数研究参与者（65%）报告称，在2020年5月发生的第一个月的社会隔离结束时，感觉时间过得更慢。这种感觉被研究人员称为“时间膨胀”，他们发现，这跟整个时间段内的孤独感和缺乏愉快的活动有关。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [SeaSearcher水下无人机将在寻宝界掀起一场风暴](https://www.cnbeta.com/articles/tech/1301551.htm) | Sun Aug 07 2022 12:44 AM 
+- 🎊 [科学家绘制出一条可让微生物通过发酵二氧化碳来制造燃料的途径](https://www.cnbeta.com/articles/science/1301607.htm) | Sun Aug 07 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;任何经常观看探索频道的观众都会知道，寻找沉没的宝藏通常需要在沙子里翻找。然而，SeaSearcher水下无人机可能很快就会把客户引向战利品。目前，由电池供电的SeaSearcher处于运作原型状态，其由佛罗里达州的初创公司Seafarer Exploration开发。它是由工程师Tim Reynolds设计，据悉，他是合作公司Wild Manta的CEO。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;面包师对面团进行发酵以制作出口感良好的面包。同样，酿酒师通过对小麦和大麦的发酵来获得一杯光滑的麦芽啤酒。而作为自然界最重要的面包师和酿酒师，一些微生物甚至可以做得更多。事实上，某些种类的细菌通过发酵二氧化碳气体来制造它们自己选择的营养物质。这可以被用来帮助为我们的世界提供能量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
