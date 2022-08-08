@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [卧龙电驱澄清：公司为特斯拉提供的相关业务仅涉及工业机器人范畴](https://www.cnbeta.com/articles/tech/1302075.htm) | Mon Aug 08 2022 10:15 AM 
+- 🕯 [Intel两大FPGA产品部署中国：性能升45％、功耗降40％](https://www.cnbeta.com/articles/tech/1302095.htm) | Mon Aug 08 2022 11:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年8月5日，卧龙电驱在上证e互动回复投资者提问时称“公司为特斯拉提供机器人生产线”。为避免给投资者造成误导，卧龙电驱于8月7日发布了一则澄清说明的公告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel今天官方宣布，位于重庆的Intel FPGA创新中心已经全新部署了Intel Agilex、Stratix 10 NX两大产品。Agilex FPGA拥有10nm SuperFin制程技术、Chiplet小芯片设计、3D SiP立体封装等，支持DDR5、PCIe 5.0，在生产、工艺、封装、互连等方面较前代产品都有明显进步，可用于数据中心的5G、AI场景，&lt;strong&gt;相比于上代Stratix 10可以将性能提高45％，功耗则降低40％。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中外学者研究发现：夜晚高温可增加民众死亡风险](https://www.cnbeta.com/articles/science/1302073.htm) | Mon Aug 08 2022 10:14 AM 
+- 💼 [毕业生入职次日就遭毁约？长城汽车回应称并无裁员计划](https://www.cnbeta.com/articles/tech/1302093.htm) | Mon Aug 08 2022 11:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中外科学家携手通过一项东亚多中心的未来气候变化模拟研究发现，夜晚高温会增加民众死亡风险。他们发现随着气候变暖，夜晚高温的频率和强度均将显著上升，进而大幅增加与热相关的疾病的负担。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，脉脉平台上一则有关“长城毁约校招生”的消息引发众多网友关注。据该应届生发帖称，自己是一名本科毕业生，毕业于某211大学。在校招期间曾收到3家公司的offer，&lt;strong&gt;因为长城总部离他家近，最后选择了入职长城汽车，但是在入职第二天遭到解约。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [败诉以后 Google再次起诉Sonos的智能音箱和语音控制技术](https://www.cnbeta.com/articles/tech/1302071.htm) | Mon Aug 08 2022 10:11 AM 
+- 💂 [微信一周只能发7条朋友圈？微信：不实消息](https://www.cnbeta.com/articles/tech/1302091.htm) | Mon Aug 08 2022 10:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google正在对Sonos进行反击，指控这家无线扬声器公司侵犯了其在智能扬声器和语音控制技术方面的多项专利。这是一场关于无线扬声器的来回缠斗中的最新一击，到目前为止，Sonos已经提出了多起诉讼，Google随之提出了一项反诉，法院作出了有利于Sonos的裁决，导致Google的产品功能被剥夺了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月8日晚间消息，此前，有消息称“微信将限制朋友圈发布次数，未来可能一周只能发七条”。对此，微信安全中心发布声明称，该内容为不实消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [JSON发明人：老朽的JavaScript编程语言早该入土了](https://www.cnbeta.com/articles/tech/1302069.htm) | Mon Aug 08 2022 10:08 AM 
+- 🚀 [全资收购高端妇儿医院 财大气粗的字节能做好医疗吗？](https://www.cnbeta.com/articles/tech/1302089.htm) | Mon Aug 08 2022 10:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;尽管大多数调查显示，JavaScript 仍是世界上最流行的编程语言之一。但随着它的日渐年迈，越来越多的开发者也正将其视作进步的阻碍。&lt;/strong&gt;近日，用于对 Web 应用程序中的数据进行系列化的 JavaScript 对象表示法（JSON）创始人 Douglas Crockford 就严厉指出 —— JavaScript 和其它化石语言都该被淘汰了！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，字节跳动完成对高端私立医疗机构美中宜和的全资收购。天眼查App显示，收购完成后，美中宜和目前共有两大股东，其一为由抖音全资控股的小荷健康科技（北京）有限公司，另外一位股东为小荷健康香港有限公司，两者持股比例合计100%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“非洲之王”传音答复投资者提问：手机产品暂无计划进入中国](https://www.cnbeta.com/articles/tech/1302067.htm) | Mon Aug 08 2022 10:01 AM 
+- 🎊 [科学家设法延长疫苗的保质期：就像蛋白质的&quot;特百惠&quot;](https://www.cnbeta.com/articles/science/1302087.htm) | Mon Aug 08 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在国内手机厂商争夺一哥位置的同时，有一个国产品牌却在遥远的非洲市场称雄称霸，它就是号称“非洲之王”的传音。今日，有网友在互动平台表示：“希望传音的产品能进入国内，毕竟国内的市场也很大”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在所有生产的疫苗中，有近一半被浪费掉了。这是因为将它们运送到世界不同地区涉及许多物流方面的挑战。另一个主要因素是，大多数疫苗从生产线到注射到人体手臂都需要严格的温度管控。&lt;/strong&gt;在最好的情况下，保持冷（供应）链上的温度恒定也是一项挑战。此外，在撒哈拉以南非洲和其他发展中地区，例如，有限的交通基础设施和不可靠的电力服务使提供可行疫苗的巨大挑战更加复杂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
