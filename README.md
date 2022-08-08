@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [用工具实现 Mock API 的整个流程](https://juejin.cn/post/7129448582171590686) | Mon Aug 08 2022 10:22 AM 
+- 🤗 [前端监控系列2 ｜ 聊聊 JS 错误监控那些事儿](https://juejin.cn/post/7129451832396480525) | Mon Aug 08 2022 10:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    JS 错误监控这类异常监控的存在，就是为了能及时发现线上问题、帮助快速定位问题，从而提升站点稳定性。本文揭秘从监控JS错误到线上bug自动分“锅”的全过程。 
+    </details> 
+
+- 🎡 [用工具实现 Mock API 的整个流程](https://juejin.cn/post/7129448582171590686) | Mon Aug 08 2022 10:22 AM 
     <details><summary>展开描述 ...</summary> 
      在瀑布流开发模式中，如果前端开发人员需要进行页面对接，需要后端先完成 API 的开发工作，因此前后端开发的进度会互相影响。这时候就需要使用 Mock 工具来帮助前端进行模拟页面对接。 **我们 
     </details> 
 
-- 🎡 [用工具实现 Mock API 的整个流程](https://juejin.cn/post/7129448367825879076) | Mon Aug 08 2022 10:21 AM 
+- 🕯 [用工具实现 Mock API 的整个流程](https://juejin.cn/post/7129448367825879076) | Mon Aug 08 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
      在瀑布流开发模式中，如果前端开发人员需要进行页面对接，需要后端先完成 API 的开发工作，因此前后端开发的进度会互相影响。这时候就需要使用 Mock 工具来帮助前端进行模拟页面对接。 **我们 
     </details> 
 
-- 🕯 [《高阶前端指北》之快速吃透浏览器缓存机制图解](https://juejin.cn/post/7129436747473584142) | Mon Aug 08 2022 9:36 AM 
+- 🚀 [Github：通过sshkey的方式拉取代码报错kex_exchange_identification: Connection closed by remote](https://juejin.cn/post/7129443602379309086) | Mon Aug 08 2022 10:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 最近通过sshkey的方式拉取GitHub代码报错： kex_exchange_identification: Connection closed by remote host和Connec 
+    </details> 
+
+- 💪 [《高阶前端指北》之快速吃透浏览器缓存机制图解](https://juejin.cn/post/7129436747473584142) | Mon Aug 08 2022 9:36 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 什么是缓存？ 通俗讲，浏览器会将网络请求到的资源存储到本地不同的位置，下次请求时直接从存储的位置取用，不需 
-    </details> 
-
-- 🚀 [内核实战教程第1期｜数据库系统概述，带你走近 OceanBase 研发环境！](https://juejin.cn/post/7129434945793032228) | Mon Aug 08 2022 9:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    小伙伴们看过来👀 想参加 OceanBase 数据库大赛，但苦于不知从哪里开始入手？ OceanBase 数据库大赛专门为大家设置了 7 期免费的赛前训练营「从0到1数据库内核实战教程」💪 8月11日 
-    </details> 
-
-- 💪 [【Tools】前端老司机实用工具网站分享（建议收藏！）🔥🔥](https://juejin.cn/post/7129412947931037732) | Mon Aug 08 2022 8:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是HoMeTown，好的工具，可以帮助我们大幅提高编程效率，今天给大家分享一下我平时收集到的一些网页工具，目录已经分好了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
