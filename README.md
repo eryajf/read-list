@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [NHS遭网络攻击，系统出现重大故障](https://www.freebuf.com/news/341264.html) | Mon Aug 08 2022 3:07 AM 
+- 🦄 [微软365网络钓鱼攻击中滥用Snapchat和Amex网站](https://www.freebuf.com/news/341287.html) | Mon Aug 08 2022 7:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    攻击者在一系列网络钓鱼攻击中滥用 Snapchat 和美国运通网站上的开放重定向，以期窃取受害者 Microsoft 365 凭证。 
+    </details> 
+
+- 🦄 [从BlackHat来看JDBC Attack](https://www.freebuf.com/vuls/341270.html) | Mon Aug 08 2022 4:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    JDBC attack 
+    </details> 
+
+- 🦅 [NHS遭网络攻击，系统出现重大故障](https://www.freebuf.com/news/341264.html) | Mon Aug 08 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     英国国家卫生服务（NHS）的111紧急服务受到网络攻击,继而引发了重大影响，服务系统出现持续性中断。 
     </details> 
 
-- 🦄 [推特承认，零日漏洞致540万用户数据被盗](https://www.freebuf.com/news/341258.html) | Mon Aug 08 2022 2:43 AM 
+- 🪄 [推特承认，零日漏洞致540万用户数据被盗](https://www.freebuf.com/news/341258.html) | Mon Aug 08 2022 2:43 AM 
     <details><summary>展开描述 ...</summary> 
     推特正式确认攻击者在去年12 月使用的漏洞与他们在今年 1 月报告并修复的漏洞相同，并透露漏洞原因是去年6月的一次代码更新导致。 
     </details> 
 
-- 🦅 [常用的30+种未授权访问漏洞汇总](https://www.freebuf.com/articles/web/338459.html) | Sat Aug 06 2022 6:48 AM 
+- 💻 [常用的30+种未授权访问漏洞汇总](https://www.freebuf.com/articles/web/338459.html) | Sat Aug 06 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
     覆盖了目前网络资讯上公布的30+种常见的未授权访问漏洞 
-    </details> 
-
-- 🪄 [FreeBuf早报 | 阿里巴巴称互联公司正减缓云支出；远程木马Woody瞄准俄罗斯实体](https://www.freebuf.com/news/341210.html) | Fri Aug 05 2022 12:23 PM 
-    <details><summary>展开描述 ...</summary> 
-    在阿里巴巴2022 Q2财报电话会议上，高管们谈到了“互联网行业减速”，这阻碍了阿里云的增长。 
-    </details> 
-
-- 💻 [FreeBuf周报 | 澳大利亚隐私监管机构调查TikTok；印度废除数据保护法；区块链行业遭供应链攻击重创](https://www.freebuf.com/news/341181.html) | Fri Aug 05 2022 9:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    澳大利亚隐私监管机构正调查 TikTok，TikTok 称报告存在多处错误，并“存在对移动应用根本性的误解”。 
     </details> 
 <!-- freebuf:END -->
 
