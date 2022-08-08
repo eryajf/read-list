@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求 kubernetes 的轻量级替代品](https://www.v2ex.com/t/871416#reply6) | Mon Aug 08 2022 6:02 AM
-- 🤗 [有好用的 react 代码定位插件吗？](https://www.v2ex.com/t/871411#reply0) | Mon Aug 08 2022 5:44 AM
-- 🎭 [TypeScript 全搞定： Monorepo 的痛苦和收获](https://www.v2ex.com/t/871408#reply0) | Mon Aug 08 2022 5:41 AM
-- 🥷 [Clion 怎么删除到下划线而不是整个单词？](https://www.v2ex.com/t/871405#reply3) | Mon Aug 08 2022 5:33 AM
-- 🐵 [数据库事务 原子性和隔离性的疑问](https://www.v2ex.com/t/871401#reply5) | Mon Aug 08 2022 4:59 AM<!-- v2ex:END -->
+- 🥸 [求问能够压力测试万兆网卡组播性能的工具](https://www.v2ex.com/t/871432#reply0) | Mon Aug 08 2022 7:16 AM
+- 🤗 [写了一个 ddd 方式的 demo，分享出来给大家瞧瞧](https://www.v2ex.com/t/871430#reply0) | Mon Aug 08 2022 7:07 AM
+- 🎭 [求 kubernetes 的轻量级替代品](https://www.v2ex.com/t/871416#reply11) | Mon Aug 08 2022 6:02 AM
+- 🥷 [有好用的 react 代码定位插件吗？](https://www.v2ex.com/t/871411#reply0) | Mon Aug 08 2022 5:44 AM
+- 🐵 [TypeScript 全搞定： Monorepo 的痛苦和收获](https://www.v2ex.com/t/871408#reply0) | Mon Aug 08 2022 5:41 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
