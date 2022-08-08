@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [CameraBag Photo 2022.3.0 图片编辑](https://xclient.info/s/camerabag-photo.html) | Mon Aug 08 2022 4:35 AM 
+- 🦏 [Scrutiny 12.3.17 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Mon Aug 08 2022 4:47 AM 
     <details><summary>展开描述 ...</summary> 
-    CameraBag Photo 可以为图片添加各种复古特效，具有150多款专业滤镜和30多种图片处理工具，支持RAW等常见的图片格式，让你轻松制作出复古照片。 
+    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
     </details> 
 
--  [SpamSieve 2.9.50 垃圾邮件过滤](https://xclient.info/s/spamsieve.html) | Fri Aug 05 2022 2:13 AM 
+-  [PowerPhotos 2.0.4 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Mon Aug 08 2022 4:46 AM 
     <details><summary>展开描述 ...</summary> 
-    SpamSieve 是一个强大的垃圾邮件过滤的主要的电子邮件客户端，使用强大的贝叶斯垃圾邮件过滤。 
+    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
     </details> 
 
-- ⚗️ [Soulver 3.6 多功能计算器](https://xclient.info/s/soulver.html) | Fri Aug 05 2022 2:12 AM 
+- ⚗️ [Multitouch 1.27.6 增强你的多点触控设备](https://xclient.info/s/multitouch.html) | Mon Aug 08 2022 4:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
+    Multitouch 是Mac平台上的一款可以增强你的多点触控设备的应用，可以让你将一个自定义的动作绑定到一个特定的魔力轨迹板或魔术鼠标手势。 
     </details> 
 
-- 🔥 [PhotoSweeper X 4.5.0 重复照片查找删除工具](https://xclient.info/s/photosweeper.html) | Fri Aug 05 2022 2:12 AM 
+- 🔥 [Downcast 2.11.12 Podcast订阅工具](https://xclient.info/s/downcast.html) | Mon Aug 08 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
-    PhotoSweeper可以快速有效的从你的电脑中删除重复照片,可以对照片分组对比,可以选择格式,尺寸,文件大小. 
+    Downcast 可以下载、 播放和同步你最喜欢的播客。 
     </details> 
 
-- 🌋 [Tinderbox 9.3.0 笔记、计划等个人内容管理工具](https://xclient.info/s/tinderbox.html) | Fri Aug 05 2022 2:11 AM 
+- 🌋 [Wondershare PDFelement Pro 9.0.6 OCR 强大的PDF编辑工具](https://xclient.info/s/wondershare-pdf-element.html) | Mon Aug 08 2022 4:43 AM 
     <details><summary>展开描述 ...</summary> 
-    保存笔记、想法和计划用什么软件好？不妨试试这款Tinderbox个人内容管理工具吧！想要记录私人笔记、时间戳、永久链接、档案等都可以在Tinderbox版上进行，还提供丰富的注释工具，使用便捷。 
+    PDFelement可是能为你提供强大的编辑功能滴，支持OCR光学识别引擎，有效的提升文字的识别效率，另外PDFelement支持PDF转换等功能，在保证原有完整文档的基础上，提供了多样的风格和样式。 
     </details> 
 <!-- xclient:END -->
 
