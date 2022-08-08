@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《新·奥特曼》中字预告 9月16日台湾上映](https://hot.cnbeta.com/articles/comic/1302177.htm) | Mon Aug 08 2022 5:19 PM 
+- 🕯 [美联邦航空管理局：波音787梦想客机交付将在“未来几天”重启](https://www.cnbeta.com/articles/tech/1302185.htm) | Mon Aug 08 2022 6:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国联邦航空管理局（FAA）周一表示，预计波音公司将在未来几天恢复其787梦想客机的交付。自2020年底以来，波音787梦想客机被发现存在多处质量问题，交付几乎停止。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [2600万张显卡要无家可归？矿工和奸商可能真的要下岗了](https://www.cnbeta.com/articles/tech/1302183.htm) | Mon Aug 08 2022 5:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;前两年的虚拟币挖矿热，大伙们应该还历历在目。无数被游戏玩家呵护在手、疼爱在心的显卡，就那么被矿工叔叔们高价买去了自由，被囚禁在矿场里打工。&lt;/strong&gt;去年5月的时候，部分显卡的价格直接到了首发价的三倍。原价三千不到的RTX 3060 Ti，市场要价近万元，你说离谱不离谱？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [上市半年狂降近30万：奔驰大LOGO在电车市场失灵了](https://www.cnbeta.com/articles/tech/1302181.htm) | Mon Aug 08 2022 5:32 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;奔驰旗舰级纯电动车，跳水了。在电池原材料成本上涨，导致新能源汽车普遍涨价的情况下，奔驰EQS开始“逆势降价”。最近有消息称&lt;strong&gt;，奔驰旗下的旗舰级新能源纯电轿车EQS正在进行大幅度优惠促销活动，最高优惠达30万。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [AMD Zen3 64核心撕裂者跑分上天 5995WX拿下65071分再创新高](https://www.cnbeta.com/articles/tech/1302179.htm) | Mon Aug 08 2022 5:31 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;AMD Zen3架构锐龙线程撕裂者PRO 5000WX系列终于解禁，不再局限于专业工作站和OEM市场，开放了零售，当然价格十分高昂：&lt;strong&gt;64核心的5995WX 6499美元，32核心的5975WX 3299美元，24核心的5965WX 2399美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [《新·奥特曼》中字预告 9月16日台湾上映](https://hot.cnbeta.com/articles/comic/1302177.htm) | Mon Aug 08 2022 5:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《新·奥特曼》公开了首支中字预告，该片预计于9月16日在台湾上映，由庵野秀明编剧、樋口真嗣执导。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《新·奥特曼》中字预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1302177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [英特尔推出专为工作站和专业应用程序设计的Arc Pro GPU](https://www.cnbeta.com/articles/tech/1302175.htm) | Mon Aug 08 2022 4:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔今天推出了Arc Pro系列GPU，主要为强大的桌面工作站和笔记本电脑而设计。英特尔Arc Pro A40和A50都将用于工作站，而A30M将用于专注于专业的笔记本电脑。所有这三款GPU都能够进行基于硬件的光线追踪和AV1硬件加速，且其设计考虑到了人工智能任务和Adobe Premiere Pro等创作者应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [AMD Zen3线程撕裂者零售开卖：64核心4.4万元](https://www.cnbeta.com/articles/tech/1302173.htm) | Mon Aug 08 2022 4:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年3月份，AMD正式发布了基于Zen3架构的锐龙线程撕裂者PRO 5000WX系列，但联想工作站独占首发，直到6月底AMD才宣布开放给更多OEM/SI厂商，并将在年底推向零售市场。结果，AMD没让我们等那么久。今天，新一代撕裂者单独上市了！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [全无人驾驶出租车已在重庆武汉上路 一键就能启动](https://www.cnbeta.com/articles/tech/1302171.htm) | Mon Aug 08 2022 3:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月8日消息，据央视财经频道报道，近年来，随着自动驾驶技术的快速发展，商业化的应用也正在不断落地。目前重庆、武汉两地率先发布了自动驾驶全无人商业化试点政策，从今天开始，&lt;strong&gt;在武汉市经开区和重庆市永川区的特定区域内，就可以打到全无人的自动驾驶出租车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [360“卸载不下去”引热议 周鸿祎重申是谣言：步骤繁琐出于安全考虑](https://www.cnbeta.com/articles/tech/1302169.htm) | Mon Aug 08 2022 3:38 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近360 CEO周鸿祎频频发言引起了网友的广泛关注，当然其中也涉及一些比较敏感的话题。近日，新东方创始人俞敏洪与360集团创始人周鸿祎进行了一场直播对话，探讨了不少有关360的话题。在直播中，有网友询问“怎么用360卸载360”，俞敏洪在旁边发问“这句话是啥意思，是不是装了360就卸载不下去了”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
