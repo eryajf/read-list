@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美联邦航空管理局：波音787梦想客机交付将在“未来几天”重启](https://www.cnbeta.com/articles/tech/1302185.htm) | Mon Aug 08 2022 6:05 PM 
+- 🕯 [iOS 16 beta 5将电池百分比标尺带回到状态栏](https://www.cnbeta.com/articles/tech/1302187.htm) | Mon Aug 08 2022 6:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在iOS 16中，一个长期以来被要求的功能终于回到了有刘海的iPhone上，那就是状态栏中的电池百分比。当苹果发布带有刘海显示屏的iPhone X时，状态栏的空间非常小。所以，苹果取消了在任何时候都显示电池百分比的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [美联邦航空管理局：波音787梦想客机交付将在“未来几天”重启](https://www.cnbeta.com/articles/tech/1302185.htm) | Mon Aug 08 2022 6:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国联邦航空管理局（FAA）周一表示，预计波音公司将在未来几天恢复其787梦想客机的交付。自2020年底以来，波音787梦想客机被发现存在多处质量问题，交付几乎停止。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [2600万张显卡要无家可归？矿工和奸商可能真的要下岗了](https://www.cnbeta.com/articles/tech/1302183.htm) | Mon Aug 08 2022 5:33 PM 
+- 💂 [2600万张显卡要无家可归？矿工和奸商可能真的要下岗了](https://www.cnbeta.com/articles/tech/1302183.htm) | Mon Aug 08 2022 5:33 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;前两年的虚拟币挖矿热，大伙们应该还历历在目。无数被游戏玩家呵护在手、疼爱在心的显卡，就那么被矿工叔叔们高价买去了自由，被囚禁在矿场里打工。&lt;/strong&gt;去年5月的时候，部分显卡的价格直接到了首发价的三倍。原价三千不到的RTX 3060 Ti，市场要价近万元，你说离谱不离谱？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [上市半年狂降近30万：奔驰大LOGO在电车市场失灵了](https://www.cnbeta.com/articles/tech/1302181.htm) | Mon Aug 08 2022 5:32 PM 
+- 🚀 [上市半年狂降近30万：奔驰大LOGO在电车市场失灵了](https://www.cnbeta.com/articles/tech/1302181.htm) | Mon Aug 08 2022 5:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;奔驰旗舰级纯电动车，跳水了。在电池原材料成本上涨，导致新能源汽车普遍涨价的情况下，奔驰EQS开始“逆势降价”。最近有消息称&lt;strong&gt;，奔驰旗下的旗舰级新能源纯电轿车EQS正在进行大幅度优惠促销活动，最高优惠达30万。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [AMD Zen3 64核心撕裂者跑分上天 5995WX拿下65071分再创新高](https://www.cnbeta.com/articles/tech/1302179.htm) | Mon Aug 08 2022 5:31 PM 
+- 🎊 [AMD Zen3 64核心撕裂者跑分上天 5995WX拿下65071分再创新高](https://www.cnbeta.com/articles/tech/1302179.htm) | Mon Aug 08 2022 5:31 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;AMD Zen3架构锐龙线程撕裂者PRO 5000WX系列终于解禁，不再局限于专业工作站和OEM市场，开放了零售，当然价格十分高昂：&lt;strong&gt;64核心的5995WX 6499美元，32核心的5975WX 3299美元，24核心的5965WX 2399美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《新·奥特曼》中字预告 9月16日台湾上映](https://hot.cnbeta.com/articles/comic/1302177.htm) | Mon Aug 08 2022 5:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《新·奥特曼》公开了首支中字预告，该片预计于9月16日在台湾上映，由庵野秀明编剧、樋口真嗣执导。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《新·奥特曼》中字预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1302177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
