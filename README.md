@@ -113,11 +113,11 @@
 ### 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🦣 [独立产品灵感周刊 DecoHack #024 – 90年代的网站设计](https://www.decohack.com/Post/819) | Mon Aug 01 2022 3:20 AM
-- 👺 [独立产品灵感周刊 DecoHack #023 – 工作和生活的平衡](https://www.decohack.com/Post/802) | Mon Jul 25 2022 6:11 AM
--  [独立产品灵感周刊 DecoHack #022 – 截图应用如何在一个月收入 8000 美元](https://www.decohack.com/Post/774) | Mon Jul 18 2022 3:57 AM
-- 🐲 [独立产品灵感周刊 DecoHack #021 – 工作、消费主义和新穷人](https://www.decohack.com/Post/753) | Mon Jul 11 2022 12:33 AM
-- 🦅 [海外工具类产品深度分析 #2](https://www.decohack.com/Post/746) | Wed Jul 06 2022 1:03 AM<!-- DecoHack:END -->
+- 🦣 [独立产品灵感周刊 DecoHack #025 – 如何找到一个新爱好](https://www.decohack.com/Post/840) | Mon Aug 08 2022 3:00 AM
+- 👺 [独立产品灵感周刊 DecoHack #024 – 90年代的网站设计](https://www.decohack.com/Post/819) | Mon Aug 01 2022 3:20 AM
+-  [独立产品灵感周刊 DecoHack #023 – 工作和生活的平衡](https://www.decohack.com/Post/802) | Mon Jul 25 2022 6:11 AM
+- 🐲 [独立产品灵感周刊 DecoHack #022 – 截图应用如何在一个月收入 8000 美元](https://www.decohack.com/Post/774) | Mon Jul 18 2022 3:57 AM
+- 🦅 [独立产品灵感周刊 DecoHack #021 – 工作、消费主义和新穷人](https://www.decohack.com/Post/753) | Mon Jul 11 2022 12:33 AM<!-- DecoHack:END -->
 
 ### 独立开发变现周刊
 
