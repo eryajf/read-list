@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [哈勃捕捉到猎户座星云中迷人的天体云景](https://www.cnbeta.com/articles/science/1301999.htm) | Mon Aug 08 2022 8:01 AM 
+- 🕯 [闻着臭吃着香 可靠性更高的西数26TB机械盘已有大客户认可](https://www.cnbeta.com/articles/tech/1302039.htm) | Mon Aug 08 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;NASA/ESA哈勃太空望远镜拍摄的这幅充满活力的天体云图捕捉到了赫比格-哈罗天体HH 505周围的彩色区域。&lt;/strong&gt;据了解，赫比格-哈罗天体天体则是在恒星风或从这些新生恒星喷出的气体喷流而成的冲击波跟附近的气体和尘埃高速碰撞后形成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在西数发布的Q4财季报告中，HDD机械硬盘出货量只有1650万部了，同比下滑了35%，但是PC用户不买也不妨碍企业级用户买，西数大容量机械硬盘依然很红火，本季度不仅22TB硬盘上市，而且26TB SMR硬盘也有大客户认可。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [网红50万转卖微信号被驳回 法院：合同无效](https://www.cnbeta.com/articles/tech/1301997.htm) | Mon Aug 08 2022 7:56 AM 
+- 💼 [放下手机吧：实验表明花20分钟思考和上网一样快乐](https://www.cnbeta.com/articles/tech/1302037.htm) | Mon Aug 08 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微信里面加的客户多了，微信号竟也能当作商品转卖，不过这种灰色操作，往往不受法律保护。&lt;strong&gt;近日，江阴法院发布一起有关微信账号买卖的案例判决，引发了众多网友关注。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;点进这篇文章的你，此刻是否正在刷着手机？智能手机和电脑确实对现代人吸引力巨大，大家普遍觉得玩电子设备比起动脑子学习工作更快乐。不过事实似乎并不是很多人想的那样——据美国心理学会发表的一篇研究报告，实验表明，用20分钟来独自思考和上网冲浪同样快乐。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [解锁功耗限制：Raptor Lake酷睿i9-13900K实现14%性能提升](https://www.cnbeta.com/articles/tech/1301995.htm) | Mon Aug 08 2022 7:53 AM 
+- 💂 [老软件突然发布新版 回忆Winamp的兴衰](https://www.cnbeta.com/articles/tech/1302035.htm) | Mon Aug 08 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由 @OneRaichu 在 Twitter 上最新分享的 Cinebench R23 基准测试成绩可知，即将推出的英特尔 Raptor Lake 桌面旗舰 CPU —— &lt;strong&gt;采用 8P+16E（24C / 32T）设计的酷睿 i9-13900K —— 可在冒险解锁更高功耗墙后，实现近 14% 的多线程性能提升。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在很久很久以前，还是属于PC辉煌时代，在众多用户的电脑硬盘上大多都保存着成百上千的MP3音乐文件，打开电脑，开启播放器Winamp，动听的音乐随之响起，这一幕，你是否记忆犹新呢？这里，就让我们一起来回顾一下Winamp这个昔日音乐播放器王者的风光与没落，还有体验一下它沉寂多年以后最新推出的新版。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [长城汽车被曝毁约应届生 入职第二天就被解约](https://www.cnbeta.com/articles/tech/1301993.htm) | Mon Aug 08 2022 7:53 AM 
+- 🚀 [《仙剑奇侠传3》动画化：首部概念预告片发布 腾讯独播](https://hot.cnbeta.com/articles/comic/1302033.htm) | Mon Aug 08 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月8日消息，据拿到长城汽车offer的应届生在脉脉爆料，拿到offer后刚入职就被毁约。&lt;/strong&gt;当事人表示，自己是211本科应届生，手握3个offer，考虑到长城总部离家近所以选了长城。结果入职第二天，就被通知解约了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《仙剑奇侠传3》是几代人的经典仙侠剧回忆，是迄今最优秀的仙侠剧之一，也是至今口碑最好的游戏改编剧之一。现在，一代经典要以全新的面貌回归了。&lt;strong&gt;今天下午，腾讯视频官方宣布《仙剑奇侠传3》动画化，并且公布了首部概念预告片，展示了唐家堡、渝州城、蜀山等场景，配合上经典的BGM响起，瞬间就让人充满了回忆。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1302033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [印尼官员称特斯拉已签署约50亿美元镍采购合同](https://www.cnbeta.com/articles/tech/1301991.htm) | Mon Aug 08 2022 7:52 AM 
+- 🎊 [印度版黑色款Moto G32提前曝光 或售13000卢比](https://www.cnbeta.com/articles/tech/1302031.htm) | Mon Aug 08 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;印尼一位高级内阁部长周一透露，美国电动汽车制造商特斯拉已经签署了价值约50亿美元的合同，从印尼的镍加工公司购买电池材料。&lt;/strong&gt;印尼拥有重要的镍资源，一直试图吸引特斯拉在该国建立生产设施。印尼总统佐科·维多多今年早些时候会见了特斯拉CEO埃隆·马斯克（Elon Musk），以吸引投资。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;赶在发布会前，印度版 Moto G32 的真机外形，已被 Mukul Sharma 在 Twitter 上分享的一支上手视频给全面曝光。&lt;/strong&gt;在上月于欧洲推出后，该机也将于明日在印度上市。配置方面，可知其采用了 6.5 英寸 @ HD+ 分辨率的 90Hz LCD 高刷屏，但印度版可能将芯片组从高通骁龙 680、换成紫光展锐的入门级 SoC 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
