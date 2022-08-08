@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [被风吹过的「痛」：关于痛风你可能想要了解这些](https://sspai.com/post/75049) | Mon Aug 08 2022 8:30 AM 
+- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/75051) | Mon Aug 08 2022 9:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75051&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [被风吹过的「痛」：关于痛风你可能想要了解这些](https://sspai.com/post/75049) | Mon Aug 08 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
     大家身边是不是总有一两个「痛风」的小伙伴呢？亦或者，你就是那个备受「痛风」折磨的那位同学呢？现阶段，「痛风」已经成为继「糖尿病」后，发病率最高的内分泌疾病了，并且有飞速增长及年轻化的趋势。中国「高尿酸 ...&lt;a href=&quot;https://sspai.com/post/75049&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [送码 | 一款好用的录屏讲解工具背后的秘密：为什么他们都选择了《芦笋》？](https://sspai.com/post/74865) | Mon Aug 08 2022 7:30 AM 
+- 🤭 [送码 | 一款好用的录屏讲解工具背后的秘密：为什么他们都选择了《芦笋》？](https://sspai.com/post/74865) | Mon Aug 08 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
     在体验过多款录屏讲解工具、采访了多位相关用户之后，我们认为今年初才刚刚面世的《芦笋》，也许是你目前能够找到的最好的选择之一。不像许多录屏工具仅从某一需求着眼，《芦笋》从一开始就朝着「一站式录屏讲解工具」的方向出发，希望仅在一个 App 之中，帮你完成从视频录制到制作，甚至到分享与获得反馈的完整工作流程。&lt;a href=&quot;https://sspai.com/post/74865&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [Steam Deck 半月谈：让 Valve 再一次变酷](https://sspai.com/post/75032) | Mon Aug 08 2022 6:29 AM 
+- 🥸 [Steam Deck 半月谈：让 Valve 再一次变酷](https://sspai.com/post/75032) | Mon Aug 08 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
     坦诚、幽默、了解玩家和技术，Valve 依然是那个很酷的 Valve。&lt;a href=&quot;https://sspai.com/post/75032&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [具透 | 更新幅度远超预期——全面分析 iOS 16 版 Books 的新特性](https://sspai.com/post/75010) | Mon Aug 08 2022 3:34 AM 
+- 🙉 [具透 | 更新幅度远超预期——全面分析 iOS 16 版 Books 的新特性](https://sspai.com/post/75010) | Mon Aug 08 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     除了在去年更新中出现过的翻页动画和下沉式的交互逻辑外，其他几乎所有的改变都是首次出现在 Apple 的操作系统中。&lt;a href=&quot;https://sspai.com/post/75010&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：亚马逊收购 iRobot、加州交管局指控特斯拉虚假宣传自动驾驶等](https://sspai.com/post/75029) | Mon Aug 08 2022 12:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可能错过的新鲜事亚马逊收购扫地机器人Roomba制造商iRobot8月6日，亚马逊宣布，将以每股61美元、总价17亿美元，全现金收购扫地机器人Roomba的制造商iRobot。这也是亚马逊历史上交易 ...&lt;a href=&quot;https://sspai.com/post/75029&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
