@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Unity选择微软Azure作为其云计算合作伙伴](https://www.cnbeta.com/articles/tech/1302153.htm) | Mon Aug 08 2022 1:39 PM 
+- 🕯 [为防对手偷窥操作 电竞选手将手藏在纸箱里比赛](https://hot.cnbeta.com/articles/game/1302163.htm) | Mon Aug 08 2022 1:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大科技领域的云战略合作关系并不罕见。早在2021年11月，世嘉宣布它正在考虑与微软Azure建立这样的合作关系，在Super Games计划下，在&amp;quot;下一代开发环境&amp;quot;中构建大型游戏。今天，另一个游戏大亨Unity也宣布与微软Azure在云上的合作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;EVO 2022已在火热进行当中，其中一些职业选手为最大程度保证竞技的公平性，使用了各种方法避免对手偷看自己手部的操作。近日，有国外网友在论坛晒出了一张比赛现场的照片，某位选手将纸箱套在了自己正在操作的手柄上，画面显得十分喜感。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国产GPU大厂景嘉微半年净利润1.25亿元 旗下产品大卖](https://www.cnbeta.com/articles/tech/1302151.htm) | Mon Aug 08 2022 1:37 PM 
+- 💼 [《使命召唤19》新加坡6v6多人地图预览视频](https://hot.cnbeta.com/articles/game/1302161.htm) | Mon Aug 08 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为国产GPU大厂，景嘉微今晚公布2022年半年度报告，公司实现营业收入5.44亿元，同比增长14.47%；归属于上市公司股东的净利润1.25亿元，同比下降0.86%。&lt;strong&gt;报告期内营业收入增长系图形显控领域产品与小型专业化雷达领域产品收入稳定增加，公司图形显控领域产品营业收入2.63亿元，营业收入比上年同期增长25.36%，毛利率72.17%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《使命召唤19：现代战争2》发布6v6地图“Marina Bay Grand Prix”的预览预告片。Marina Bay是新加坡滨海湾赛道，是F1新加坡大奖赛的举办地。IW表示即将到来的BETA公测将有多个6v6地图，而新加坡滨海湾赛道是玩家将可以首次体验的新地图之一。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果公司从根本上减少了对技术和人才公司的收购](https://www.cnbeta.com/articles/tech/1302149.htm) | Mon Aug 08 2022 1:27 PM 
+- 💂 [印度拟将中国大陆手机制造商逐出低端市场](https://www.cnbeta.com/articles/tech/1302159.htm) | Mon Aug 08 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果很少进行像2014年收购Beats那样的高成本、高知名度的收购。尽管如此，直到现在，它一直在稳步和定期地收购公司。但根据新的监管文件，苹果在2020年购买的公司比2021年和2022年迄今为止购买的公司多七倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月8日，据台媒《经济日报》援引彭博社的报道称，印度打算限制中国大陆智能手机生产商出售价格在12000卢比（150美元）以下的设备，以推动印度国内苦苦挣扎的手机产业发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [门店数超星巴克 利润扭亏为盈 瑞幸咖啡Q2大赚32亿元](https://www.cnbeta.com/articles/tech/1302147.htm) | Mon Aug 08 2022 1:24 PM 
+- 🚀 [阿里巴巴：自愿转换为于香港联交所双重主要上市](https://www.cnbeta.com/articles/tech/1302157.htm) | Mon Aug 08 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月8日消息，今日，瑞幸咖啡公布了2022年第二季度财报，财报显示，&lt;strong&gt;第二季度瑞幸咖啡总净收入32.987亿元，同比增长72.4%。&lt;/strong&gt;根据美国会计准则（CAAP）下瑞幸咖啡第二季度营业利润为2.416亿元，美国会计准则（GAAP）下营业利润率为7.3%，而2021年同期为亏损0.475亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据阿里巴巴发布的公告显示，该公司已向香港联交所申请将公司于香港联交所主板的第二上市地位变更为主要上市。于2022年8月8日，香港联交所根据上市地位变更指引信发出转为主要上市申请收悉确认。本公司主要转换生效日期预计为2022年底前。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Galaxy Z Fold 4的营销材料和技术规格在发布前完全泄露](https://www.cnbeta.com/articles/tech/1302145.htm) | Mon Aug 08 2022 1:14 PM 
+- 🎊 [波斯尼亚运营商泄露三星折叠屏新机Galaxy Flip4和Fold4配置细节](https://www.cnbeta.com/articles/tech/1302155.htm) | Mon Aug 08 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Galaxy Z Fold 4距离正式发布只有两天时间，毫无疑问，三星未能将该设备有效保密，因为关于这款手机的几乎所有信息都已泄露，而其姐妹机型的信息也将在两天后发布。&lt;strong&gt;我们得到的最新泄漏信息揭示了即将到来的可折叠手机的营销材料，以及所有其他相关信息，如技术规格和一些你在过去已经看到的渲染图。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;离三星的Unpacked活动只有两天时间了，但这并不意味着泄密事件就要结束了。波斯尼亚运营商m:tel提前列出了Galaxy Z Fold4和Galaxy Z Flip4折叠机，以供提前预订，并透露了它们的核心规格和其他一些细节。据说这两款设备将于8月27日开始公开销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
