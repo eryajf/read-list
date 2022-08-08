@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [LeetCode最长回文串使用JavaScript解题|前端学算法](https://juejin.cn/post/7129513929289498638) | Mon Aug 08 2022 2:35 PM 
+- 🤗 [【PaddlePaddle机器学习】求解线性模型](https://juejin.cn/post/7129528216800198664) | Mon Aug 08 2022 3:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 飞桨&lpar;PaddlePaddle&rpar;是集深度学习核心框架、工具组件和服务平台为一体的技术先进、功能完备的开源深 
+    </details> 
+
+- 🎡 [Go&amp;Java算法之交错字符串](https://juejin.cn/post/7129525015388962823) | Mon Aug 08 2022 3:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 交错字符串 给定三个字符串 s1、s2、s3，请你帮忙验证 s3 是否是由 s1 和 s2 交错 组成的 
+    </details> 
+
+- 🕯 [C# List转KML经纬度文件](https://juejin.cn/post/7129523010427584520) | Mon Aug 08 2022 3:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 前言： 之前在做项目的时候，遇到一个需求，需要我将list封装好的数据转换成KML经纬度文件，通过自己的学 
+    </details> 
+
+- 🚀 [UMD 的包如何导出 TS 类型](https://juejin.cn/post/7129520818232492040) | Mon Aug 08 2022 3:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    在 TypeScript 里声明模块，最早是用 namespace 和 module 的语法，后来支持了 es module，类型和变量会用 import 来导入、用 export 导出。 比如你写了 
+    </details> 
+
+- 💪 [LeetCode最长回文串使用JavaScript解题|前端学算法](https://juejin.cn/post/7129513929289498638) | Mon Aug 08 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
     使用JavaScript破解LeetCode中最长回文串的算法，以及for......in的用法示例。 
-    </details> 
-
-- 🎡 [【刷题日记】73. 矩阵置零](https://juejin.cn/post/7129513551789555748) | Mon Aug 08 2022 2:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 本次刷题日记的第 86 篇，力扣题为：73. 矩阵置零 一、题目描述： 今天来做一个二维数组的题目，矩阵 
-    </details> 
-
-- 🕯 [RocketMQ 详解系列](https://juejin.cn/post/7129513088843251748) | Mon Aug 08 2022 2:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    什么是RocketMQ RocketMQ作为一款纯java、分布式、队列模型的开源消息中间件，支持事务消息、顺序消息、批量消息、定时消息、消息回溯等。主要功能是异步解耦和流量削峰：。 常见的MQ主要有 
-    </details> 
-
-- 🚀 [vue自定义指令-加载指令v-loading和占位图指令v-showimg](https://juejin.cn/post/7129511908419338247) | Mon Aug 08 2022 2:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    了解自定义指令的钩子函数 注册成为全局指令 需求描述 列表组件 ListCom.vue 加载动画组件 LoadingCom.vue 钩子函数 loading.js 分析上面的代码 main.js 中  
-    </details> 
-
-- 💪 [jQuery 编程 | 04 - jQuery 事件](https://juejin.cn/post/7129503393558724645) | Mon Aug 08 2022 1:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、绑定事件处理器 .on&lpar;&rpar; 在选定的元素上绑定一个或多个事件处理函数。 事件委托 .one&lpar;&rpar; 为元素的事件添加处理函数。处理函数在每个元素上每种事件类型最多执行一次。 .off&lpar;&rpar; 移除一个事件 
     </details> 
 <!-- juejin:END -->
 ### 少数派
