@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [用户投诉三大运营商擅自为其开通视频彩铃业务](https://www.cnbeta.com/articles/tech/1301841.htm) | Mon Aug 08 2022 1:42 AM 
+- 🕯 [VinFast将新增8,000工人以提升产量](https://www.cnbeta.com/articles/tech/1301903.htm) | Mon Aug 08 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，有不少网友爆料称，&lt;strong&gt;自己在毫不知情的情况下被开通了视频彩铃，中国移动、中国联通、中国电信三大运营商都有这种操作。&lt;/strong&gt;此前，罗永浩就曾怼过视频彩铃业务，他吐槽：“这个视频彩铃业务是很多人自己都不知道的情况下就开通了，除了自己花钱之外，还会还会折磨给你打电话的人：大部分是恶俗的音乐；电话被接听前不能静音；有时还带广告。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;越南汽车制造商VinFast正在寻求为其位于越南的电动汽车工厂再招聘8，000名员工。当&lt;/strong&gt;前该公司正在加紧生产，以便在今年年底前向美国消费者交付其首款纯电动SUV。越南最大的企业集团Vingroup旗下的VinFast目前员工总数为6，000人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉下一座超级工厂选址或拟定 马斯克暗示位于加拿大](https://www.cnbeta.com/articles/tech/1301839.htm) | Mon Aug 08 2022 1:41 AM 
+- 💼 [罗永浩退网创业，交个朋友加速谋求“曲线上市”？](https://www.cnbeta.com/articles/tech/1301901.htm) | Mon Aug 08 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉目前已经在世界各地建立了多座超级工厂，不过由于需求旺盛，即便是开足马力，也无法及时供应消费者的购买需求，所以建设更多的超级工厂实有必要。那么下一座超级工厂会位于哪里呢？此前有多种传言，比如在国内就有青岛、大连以及上海等多个备选项，但如今看来，这座新工厂并非选在中国。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;交个朋友加快资本化。&lt;/strong&gt;今年六月，50岁的罗永浩开启“最后一次创业”，市场对交个朋友是否能保持住抖音顶流MCN机构颇为关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《最后的生还者：重制版》新演示泄露 黑人小哥无奈杀弟](https://hot.cnbeta.com/articles/game/1301837.htm) | Mon Aug 08 2022 1:40 AM 
+- 💂 [当特斯拉产能迎来解放 马斯克的野心又将漫向何方？](https://www.cnbeta.com/articles/tech/1301899.htm) | Mon Aug 08 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日据外媒VGC报道，《最后的生还者：重制版》新演示泄露，展示了黑人小哥无奈枪杀变异弟弟的场景。油管主Speclizer Clips也分享了新演示与PS4版的对比视频，一起来看看吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉2022年股东大会日前在得州奥斯汀超级工厂举行。此次股东大会上马斯克的一番应答，可以用“全面开花”来形容。除了宣布拆股以及继续扩大产能的“豪言壮志”，马斯克对自动驾驶、电池、机器人、可持续能源一一做出了回应。他介绍，未来特斯拉将在可持续发展的多个领域有更多动作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究：一种新癌症药物组合可将死亡风险降低31%](https://www.cnbeta.com/articles/science/1301835.htm) | Mon Aug 08 2022 1:40 AM 
+- 🚀 [国内首个新能源整车能效试验室亦庄落成](https://www.cnbeta.com/articles/science/1301897.htm) | Mon Aug 08 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;跟标准治疗相比，雷莫芦单抗和派姆单抗的组合使之前免疫治疗中出现进展的晚期非小细胞肺癌患者的死亡风险下降了31%。&lt;/strong&gt;根据Lung Cancer Master Protocol&lpar;Lung-MAP&rpar;所做的一项研究，晚期非小细胞肺癌患者在接受雷莫芦单抗&lpar;Cyramza&rpar;和派姆单抗&lpar;Keytruda&rpar;联合治疗时，比接受目前这种类型癌症的标准疗法之一治疗时明显活得更长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，国家新能源汽车技术创新中心与西门子共同建设的整车能效开发试验室在北京经开区落成运营。&lt;/strong&gt;这是国内第一个针对新能源车的整车能效开发试验室，水准对标国际一流。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《暗黑破坏神4》新截图泄露 角色定制界面展示](https://hot.cnbeta.com/articles/game/1301833.htm) | Mon Aug 08 2022 1:40 AM 
+- 🎊 [法国遭遇创纪录干旱：逾百市镇缺乏饮用水 玉米收成恐降近两成](https://www.cnbeta.com/articles/tech/1301895.htm) | Mon Aug 08 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《暗黑破坏神4》A测正在进行中，限内部人士和亲戚朋友，据说有许多人玩到该作了。不过有人没遵守保密协定，泄露了一些内部截图。这些截图不太清晰，但也能看清楚角色定制界面以及其他内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周日，法国迎来了今夏以来的第四波热浪。今年这场该国有纪录以来最严重的干旱，正使得大量干涸的村庄缺乏安全的饮用水。同时，干旱所导致的核电产出骤降、农作物大范围欠收，也正在多个领域威胁着这一欧洲大陆第二大经济体的运转。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
