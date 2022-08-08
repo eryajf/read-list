@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何高效地根据 Mybatis Mapper.xml 还原出数据库表？](https://www.v2ex.com/t/871335#reply1) | Mon Aug 08 2022 1:38 AM
-- 🤗 [Linux 高速写入的性能问题](https://www.v2ex.com/t/871334#reply0) | Mon Aug 08 2022 1:35 AM
-- 🎭 [windows 双屏情况下，角落按钮太难点了（关闭按钮和显示桌面）](https://www.v2ex.com/t/871323#reply11) | Mon Aug 08 2022 12:52 AM
-- 🥷 [New Outlook for Windows](https://www.v2ex.com/t/871311#reply4) | Sun Aug 07 2022 4:51 PM
-- 🐵 [有 ARM 版 Windows 11 能用的外接 USB 无线网卡吗](https://www.v2ex.com/t/871310#reply3) | Sun Aug 07 2022 4:24 PM<!-- v2ex:END -->
+- 🥸 [初学者问一个略显深入的问题： K8S 如何查看 Pod 的 Cgroup](https://www.v2ex.com/t/871379#reply1) | Mon Aug 08 2022 3:27 AM
+- 🤗 [有什么批量生成单测的思路?](https://www.v2ex.com/t/871372#reply2) | Mon Aug 08 2022 3:14 AM
+- 🎭 [独立产品灵感周刊 DecoHack #025 - 如何找到一个新爱好](https://www.v2ex.com/t/871367#reply0) | Mon Aug 08 2022 3:04 AM
+- 🥷 [安卓 12L flashboot 无法刷入 Rec](https://www.v2ex.com/t/871361#reply2) | Mon Aug 08 2022 2:41 AM
+- 🐵 [社交权限类似于朋友圈权限，遇到以下场景你会怎样设计](https://www.v2ex.com/t/871358#reply1) | Mon Aug 08 2022 2:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
