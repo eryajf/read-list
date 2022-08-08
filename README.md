@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 阿里巴巴称互联公司正减缓云支出；远程木马Woody瞄准俄罗斯实体](https://www.freebuf.com/news/341210.html) | Fri Aug 05 2022 12:23 PM 
+- 🦄 [NHS遭网络攻击，系统出现重大故障](https://www.freebuf.com/news/341264.html) | Mon Aug 08 2022 3:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    英国国家卫生服务（NHS）的111紧急服务受到网络攻击,继而引发了重大影响，服务系统出现持续性中断。 
+    </details> 
+
+- 🦄 [推特承认，零日漏洞致540万用户数据被盗](https://www.freebuf.com/news/341258.html) | Mon Aug 08 2022 2:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    推特正式确认攻击者在去年12 月使用的漏洞与他们在今年 1 月报告并修复的漏洞相同，并透露漏洞原因是去年6月的一次代码更新导致。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | 阿里巴巴称互联公司正减缓云支出；远程木马Woody瞄准俄罗斯实体](https://www.freebuf.com/news/341210.html) | Fri Aug 05 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
     在阿里巴巴2022 Q2财报电话会议上，高管们谈到了“互联网行业减速”，这阻碍了阿里云的增长。 
     </details> 
 
-- 🦄 [FreeBuf周报 | 澳大利亚隐私监管机构调查TikTok；印度废除数据保护法；区块链行业遭供应链攻击重创](https://www.freebuf.com/news/341181.html) | Fri Aug 05 2022 9:45 AM 
+- 🪄 [FreeBuf周报 | 澳大利亚隐私监管机构调查TikTok；印度废除数据保护法；区块链行业遭供应链攻击重创](https://www.freebuf.com/news/341181.html) | Fri Aug 05 2022 9:45 AM 
     <details><summary>展开描述 ...</summary> 
     澳大利亚隐私监管机构正调查 TikTok，TikTok 称报告存在多处错误，并“存在对移动应用根本性的误解”。 
     </details> 
 
-- 🦅 [【深度】OpenSea 新协议 Seaport源码解析](https://www.freebuf.com/articles/blockchain-articles/338188.html) | Fri Aug 05 2022 8:24 AM 
+- 💻 [【深度】OpenSea 新协议 Seaport源码解析](https://www.freebuf.com/articles/blockchain-articles/338188.html) | Fri Aug 05 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
     近期，NFT 市场 OpenSea 宣布推出全新 Web3 市场协议 Seaport 协议，用于安全高效地买卖 NFT。本文将深度分析其关键业务实现和接口实现。 
-    </details> 
-
-- 🪄 [记一次非法网站渗透](https://www.freebuf.com/articles/web/283700.html) | Fri Aug 05 2022 7:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章原文在我的个人公众号（ZAC安全）中，部分有争议的内容已修改。 
-    </details> 
-
-- 💻 [印度政府宣布撤回本国数据保护法案](https://www.freebuf.com/news/341137.html) | Fri Aug 05 2022 4:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    8月3日，印度电子和信息技术国务部长Rajeev Chandrasekhar宣布，于2019年颁布的《数据保护法案》已正式撤回。 
     </details> 
 <!-- freebuf:END -->
 
