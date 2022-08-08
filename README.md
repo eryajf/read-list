@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [裸辞-疫情-闭关-复习-大厂offer（二）](https://juejin.cn/post/7129306281650683935) | Mon Aug 08 2022 1:09 AM 
+- 🤗 [Iptables防火墙的基本概念以及执行原理](https://juejin.cn/post/7129336942138753032) | Mon Aug 08 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-    这不是一篇面经，而是一篇面试的复习稿。分享了我对面试的理解，以及自己破釜沉舟裸辞及复习面试的心路历程。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 Iptables防火墙的基本概念以及执行原理 
     </details> 
 
-- 🎡 [精读《Unique, MapTypes, Construct Tuple...》](https://juejin.cn/post/7129302479748988958) | Mon Aug 08 2022 12:55 AM 
+- 🎡 [MQTT X Web：在线的 MQTT 5.0 客户端工具](https://juejin.cn/post/7129322854671188004) | Mon Aug 08 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    解决 TS 问题的最好办法就是多练，这次解读 type-challenges Medium 难度 63~68 题。 
+    MQTT X Web无需繁杂的下载安装步骤，只需在浏览器内打开页面，即可在线快速连接和测试MQTT服务与应用，了解和探索MQTT协议。 
     </details> 
 
-- 🕯 [一键到位「GitHub 热点速览 v.22.32」](https://juejin.cn/post/7129301200331079717) | Mon Aug 08 2022 12:50 AM 
+- 🕯 [如何“优雅的”取消异步操作？](https://juejin.cn/post/7129322186447257614) | Mon Aug 08 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 上上周在 B 站观看了智能键盘——瀚文的制作过程，本周 GitHub 热榜上出现了它的软硬件开源项目 He 
+    如何“优雅的”取消异步操作？在多线程环境下，我们只需要把相关执行线程给终止掉即可。但JavaScript是单线程语言，那应该如何实现？ 
     </details> 
 
-- 🚀 [PHP代码审计（六）Seay源代码审计系统使用教程](https://juejin.cn/post/7129298288389390367) | Mon Aug 08 2022 12:38 AM 
+- 🚀 [JavaScript中new操作符的原理](https://juejin.cn/post/7129321553098965000) | Mon Aug 08 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 软件下载地址： 链接：https://pan.baidu.com/s/1HHnniTNWzXhb-pn6 
+    new的用处 new的作用是通过构造函数来创建一个实例对象，该实例与原型和构造函数之间的关系如下图所示： 具体步骤 javascript中的new是一个语法糖，new的过程如下 在内存中创建一个新对象 
     </details> 
 
-- 💪 [关于前端与后端鉴权方案，你真的都知道吗？](https://juejin.cn/post/7129298214959710244) | Mon Aug 08 2022 12:38 AM 
+- 💪 [如何在 React Native 中实现倒计时功能](https://juejin.cn/post/7129319913331621902) | Mon Aug 08 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-    关于前端鉴权这块，Token、Cookie、Session、JWT、单点登录、扫码登录、一键登录是什么意思？分别有什么作用？你一般是怎么做的？以及你是怎么存储的呢？那你又是怎么保证它的安全的呢？ 
+    在 React Native，该如何实现一个倒计时功能呢？新手可能会掉到坑里，本文给出一个可复用的示范。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
