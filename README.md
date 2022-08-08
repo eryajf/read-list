@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何快速定位SSR项目中只在线上环境出现的报错](https://juejin.cn/post/7129387128227627015) | Mon Aug 08 2022 6:23 AM 
+- 🤗 [阿里低代码框架 lowcode-engine 之自定义物料篇](https://juejin.cn/post/7129394975782993957) | Mon Aug 08 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    如何快速定位SSR项目中只在线上环境出现的报错 背景 在做SSR项目开发的时候，碰到过几次报错：本地调试是正常的，只在线上环境会报错 有些报错影响也很大：导致js加载错误，js功能全部无效 因为只在线 
+    今天我们主要来说下低代码比较核心的东西之一物料，就是我们低代码框架怎么支持和使用我们自己写的组件。物料是页面搭建的原料，按照粒度可分为组件、区块和模板： 
     </details> 
 
-- 🎡 [如何使用 Eolink 实现 API 文档自动生成](https://juejin.cn/post/7129386886446972965) | Mon Aug 08 2022 6:22 AM 
+- 🎡 [聊聊Spring事务控制策略以及@Transactional失效问题避坑](https://juejin.cn/post/7129391912460484616) | Mon Aug 08 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     API 文档的编写让很多 API 编写人员感到头疼，自动生成 API 文档就能帮助我们省心省力地完成任务。 所以今天我们来通过 Eolink 来演示如何通过 API 管理工具实现 API 文 
+    在大部分涉及到数据库操作的项目里面，事务控制、事务处理都是一个无法回避的问题，这里我们一起探讨下关于事务控制相关的一些内容。 
     </details> 
 
-- 🕯 [如何使用 Eolink 实现 API 文档自动生成](https://juejin.cn/post/7129386857112010766) | Mon Aug 08 2022 6:22 AM 
+- 🕯 [造成MySql主从复制延迟的几个点](https://juejin.cn/post/7129390559168299039) | Mon Aug 08 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     API 文档的编写让很多 API 编写人员感到头疼，自动生成 API 文档就能帮助我们省心省力地完成任务。 所以今天我们来通过 Eolink 来演示如何通过 API 管理工具实现 API 文 
+    在我们工作中，一般都会使用一个最基础的一主一从数据库集群，这样可以避免单机故障，业务发展到一定程度的时候还可以进行读写分离。 既然数据库有了主从，那么主从之间的数据一致性就必须是我们要解决的一个问题  
     </details> 
 
-- 🚀 [如何使用 Eolink 实现 API 文档自动生成](https://juejin.cn/post/7129386859053973517) | Mon Aug 08 2022 6:22 AM 
+- 🚀 [Java并发之ThreadLocal](https://juejin.cn/post/7129379778678751245) | Mon Aug 08 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-     API 文档的编写让很多 API 编写人员感到头疼，自动生成 API 文档就能帮助我们省心省力地完成任务。 所以今天我们来通过 Eolink 来演示如何通过 API 管理工具实现 API 文 
+    本文讲解了我在学习ThreadLocal的过程中的一些个人理解，可能还存在很多不足，请各位大佬指出，我会积极接受并进行改正 
     </details> 
 
-- 💪 [Mrakdown 写 PPT 是如何实现的？](https://juejin.cn/post/7129385772561465358) | Mon Aug 08 2022 6:18 AM 
+- 💪 [使用Go操作Kafka和Etcd](https://juejin.cn/post/7129376877449314335) | Mon Aug 08 2022 5:43 AM 
     <details><summary>展开描述 ...</summary> 
-    一个非常好用的工具 slidev, 可以使用 markdown 来制作演示文稿，其他类似的工具还有 Nodeppt、 marp 等，那么这类工具是如何实现的？ 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天。 操作Kafka Kafka 是一种高吞吐量的分布式发布订阅消息系统，它可以处理消费者规模的网站中的所有动作流数据，具有高性 
     </details> 
 <!-- juejin:END -->
 ### 少数派
