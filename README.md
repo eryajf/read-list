@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [jQuery 编程 | 03 - jQuery 属性选择器](https://juejin.cn/post/7129159069507518495) | Sun Aug 07 2022 3:38 PM 
+- 🤗 [裸辞-疫情-闭关-复习-大厂offer（二）](https://juejin.cn/post/7129306281650683935) | Mon Aug 08 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    一、属性选择器 Attribute Selector [name=&quot;value&quot;] 选择指定属性是给定值的元素。 Attribute Selector [name|=&quot;value&quot;] 选择指定属性值等 
+    这不是一篇面经，而是一篇面试的复习稿。分享了我对面试的理解，以及自己破釜沉舟裸辞及复习面试的心路历程。 
     </details> 
 
-- 🎡 [“终于懂了” 系列：组件化框架 ARouter 完全解析（二）APT技术](https://juejin.cn/post/7129157665732689934) | Sun Aug 07 2022 3:33 PM 
+- 🎡 [精读《Unique, MapTypes, Construct Tuple...》](https://juejin.cn/post/7129302479748988958) | Mon Aug 08 2022 12:55 AM 
     <details><summary>展开描述 ...</summary> 
-    在上一篇《“终于懂了” 系列：组件化框架 ARouter 完全解析（一） 原理详解》中，详细介绍了ARouter的核心原理。其中提到了“帮助类”的概念，也就是在运行时生成 用于帮助填充WareHous 
+    解决 TS 问题的最好办法就是多练，这次解读 type-challenges Medium 难度 63~68 题。 
     </details> 
 
-- 🕯 [永不过时的话题：原型与原型链的实战详解（过万字总结）](https://juejin.cn/post/7129157532970385421) | Sun Aug 07 2022 3:32 PM 
+- 🕯 [一键到位「GitHub 热点速览 v.22.32」](https://juejin.cn/post/7129301200331079717) | Mon Aug 08 2022 12:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将先讲解关于原型与原型链的基础知识，然后再延伸讲解它们的实际应用场景，比如在 Vue2 源码中的应用，在 Vue3 源码中应用，及其他一些场景的应用加深对原型与原型链的理解。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 上上周在 B 站观看了智能键盘——瀚文的制作过程，本周 GitHub 热榜上出现了它的软硬件开源项目 He 
     </details> 
 
-- 🚀 [头脑风暴：除数博弈](https://juejin.cn/post/7129156763588395015) | Sun Aug 07 2022 3:30 PM 
+- 🚀 [PHP代码审计（六）Seay源代码审计系统使用教程](https://juejin.cn/post/7129298288389390367) | Mon Aug 08 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    题目 爱丽丝和鲍勃一起玩游戏，他们轮流行动。爱丽丝先手开局。 最初，黑板上有一个数字 n 。在每个玩家的回合，玩家需要执行以下操作： 选出任一 x，满足 0 &lt; x &lt; n 且 n % x == 0  
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 软件下载地址： 链接：https://pan.baidu.com/s/1HHnniTNWzXhb-pn6 
     </details> 
 
-- 💪 [TCP层的简单总结](https://juejin.cn/post/7129156909206568990) | Sun Aug 07 2022 3:30 PM 
+- 💪 [关于前端与后端鉴权方案，你真的都知道吗？](https://juejin.cn/post/7129298214959710244) | Mon Aug 08 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    TCP头部一些字段的意思 序列号：在建立连接时由计算机生成的随机数作为其初始值，通过 SYN 包传给接收端主机，每发送一次数据，就「累加」一次该「数据字节数」的大小。用来解决网络包乱序问题。 确认应答 
+    关于前端鉴权这块，Token、Cookie、Session、JWT、单点登录、扫码登录、一键登录是什么意思？分别有什么作用？你一般是怎么做的？以及你是怎么存储的呢？那你又是怎么保证它的安全的呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
