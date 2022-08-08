@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [发帖求助下 fsck 以后如何异常如何修复？](https://www.v2ex.com/t/871392#reply0) | Mon Aug 08 2022 4:30 AM
-- 🤗 [说 Go 语言写不了业务逻辑的请进](https://www.v2ex.com/t/871389#reply1) | Mon Aug 08 2022 4:23 AM
-- 🎭 [有被 t3 出行恶心到](https://www.v2ex.com/t/871388#reply4) | Mon Aug 08 2022 4:22 AM
-- 🥷 [初学者问一个略显深入的问题： K8S 如何查看 Pod 的 Cgroup](https://www.v2ex.com/t/871379#reply4) | Mon Aug 08 2022 3:27 AM
-- 🐵 [有什么批量生成单测的思路?](https://www.v2ex.com/t/871372#reply2) | Mon Aug 08 2022 3:14 AM<!-- v2ex:END -->
+- 🥸 [数据库事务 原子性和隔离性的疑问](https://www.v2ex.com/t/871401#reply1) | Mon Aug 08 2022 4:59 AM
+- 🤗 [几年前用的一个很不错的 V2EX 插件, 可以把 V2 变两栏, 暗色的, 现在找不到了, 有用过的么](https://www.v2ex.com/t/871399#reply0) | Mon Aug 08 2022 4:53 AM
+- 🎭 [大佬们，有没有一些持续更新，可以了解最新技术前沿的渠道？](https://www.v2ex.com/t/871397#reply0) | Mon Aug 08 2022 4:44 AM
+- 🥷 [发帖求助下 fsck 以后如何异常如何修复？](https://www.v2ex.com/t/871392#reply0) | Mon Aug 08 2022 4:30 AM
+- 🐵 [说 Go 语言写不了业务逻辑的请进](https://www.v2ex.com/t/871389#reply15) | Mon Aug 08 2022 4:23 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
