@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [贫困家庭儿童若与富有家庭的孩子建立友谊，成年后收入更高](http://jandan.net/p/111074) | Sun Aug 07 2022 3:05 PM 
+- 🚀 [用这个App扫一扫新生儿眼睛可能救他们一命](http://jandan.net/p/111100) | Mon Aug 08 2022 2:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    扫一扫拯救小黄人 
+    </details> 
+
+- 🙉 [贫困家庭儿童若与富有家庭的孩子建立友谊，成年后收入更高](http://jandan.net/p/111074) | Sun Aug 07 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
     一种叫“经济联系”的现象，如果你的所有朋友的平均收入高于基线，则你的收入十有八九也会高于基线 
     </details> 
 
-- 🙉 [大家知道谷歌的带引号搜索吗](http://jandan.net/p/111092) | Sun Aug 07 2022 9:51 AM 
+- 🎉 [大家知道谷歌的带引号搜索吗](http://jandan.net/p/111092) | Sun Aug 07 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
     就是搜索引号内的字符串内容 
     </details> 
 
-- 🎉 [詹姆斯韦布太空望远镜 美“轮”美奂的星系](http://jandan.net/p/111095) | Sun Aug 07 2022 3:52 AM 
+- 🐲 [詹姆斯韦布太空望远镜 美“轮”美奂的星系](http://jandan.net/p/111095) | Sun Aug 07 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
     顾名思义 
     </details> 
 
-- 🐲 [今日好价 0807](http://jandan.net/p/111096) | Sun Aug 07 2022 3:44 AM 
+-  [今日好价 0807](http://jandan.net/p/111096) | Sun Aug 07 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
-    </details> 
-
--  [法国原子能委员会主任因恶作剧道歉：欺骗公众，把香肠说成是比邻星](http://jandan.net/p/111093) | Sat Aug 06 2022 12:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    还记得10多年前那个用平底锅冒充欧罗巴卫星的恶作剧吗 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
