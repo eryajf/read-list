@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [SpamSieve 2.9.50 垃圾邮件过滤](https://xclient.info/s/spamsieve.html) | Fri Aug 05 2022 2:13 AM 
+- 🦏 [CameraBag Photo 2022.3.0 图片编辑](https://xclient.info/s/camerabag-photo.html) | Mon Aug 08 2022 4:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    CameraBag Photo 可以为图片添加各种复古特效，具有150多款专业滤镜和30多种图片处理工具，支持RAW等常见的图片格式，让你轻松制作出复古照片。 
+    </details> 
+
+-  [SpamSieve 2.9.50 垃圾邮件过滤](https://xclient.info/s/spamsieve.html) | Fri Aug 05 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
     SpamSieve 是一个强大的垃圾邮件过滤的主要的电子邮件客户端，使用强大的贝叶斯垃圾邮件过滤。 
     </details> 
 
--  [Soulver 3.6 多功能计算器](https://xclient.info/s/soulver.html) | Fri Aug 05 2022 2:12 AM 
+- ⚗️ [Soulver 3.6 多功能计算器](https://xclient.info/s/soulver.html) | Fri Aug 05 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
     Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
     </details> 
 
-- ⚗️ [PhotoSweeper X 4.5.0 重复照片查找删除工具](https://xclient.info/s/photosweeper.html) | Fri Aug 05 2022 2:12 AM 
+- 🔥 [PhotoSweeper X 4.5.0 重复照片查找删除工具](https://xclient.info/s/photosweeper.html) | Fri Aug 05 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
     PhotoSweeper可以快速有效的从你的电脑中删除重复照片,可以对照片分组对比,可以选择格式,尺寸,文件大小. 
     </details> 
 
-- 🔥 [Tinderbox 9.3.0 笔记、计划等个人内容管理工具](https://xclient.info/s/tinderbox.html) | Fri Aug 05 2022 2:11 AM 
+- 🌋 [Tinderbox 9.3.0 笔记、计划等个人内容管理工具](https://xclient.info/s/tinderbox.html) | Fri Aug 05 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
     保存笔记、想法和计划用什么软件好？不妨试试这款Tinderbox个人内容管理工具吧！想要记录私人笔记、时间戳、永久链接、档案等都可以在Tinderbox版上进行，还提供丰富的注释工具，使用便捷。 
-    </details> 
-
-- 🌋 [Folder Tidy 2.8.7 桌面文件夹整理](https://xclient.info/s/folder-tidy.html) | Fri Aug 05 2022 2:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    Folder Tidy 是一款帮助用户整理自己桌面文件夹的Mac软件，用户只需要选择需要清理的文件夹，眨眼功夫，所有的文件就会按照类别（照片、音乐、文档等等）分别整理好，并得到一个名为“x月x日x时的桌面”这样的目录。 
     </details> 
 <!-- xclient:END -->
 
