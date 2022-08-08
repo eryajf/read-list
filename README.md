@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Workspaces - 来自创意人士的工作空间集合](https://xinquji.com/posts/178562?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:27 AM 
+- 👀 [Buddy Crush - 与您的朋友一起跟踪您在小组中的习惯](https://xinquji.com/posts/178565?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:31 AM 
+    <details><summary>展开描述 ...</summary> 
+     与您的朋友一起跟踪您在小组中的习惯  
+    </details> 
+
+- 🥷 [CommunityScout - 根据您的需求获取合适的社区平台](https://xinquji.com/posts/178564?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:29 AM 
+    <details><summary>展开描述 ...</summary> 
+     根据您的需求获取合适的社区平台  
+    </details> 
+
+- 💼 [/checklist by Workast - 在 Slack 上创建清单](https://xinquji.com/posts/178563?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:28 AM 
+    <details><summary>展开描述 ...</summary> 
+     在 Slack 上创建清单  
+    </details> 
+
+- 🦅 [Workspaces - 来自创意人士的工作空间集合](https://xinquji.com/posts/178562?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
      来自创意人士的工作空间集合  
     </details> 
 
-- 🥷 [ironov.ai - 一个独特的品牌标识，在几秒钟内生成](https://xinquji.com/posts/178561?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:26 AM 
+- 😺 [ironov.ai - 一个独特的品牌标识，在几秒钟内生成](https://xinquji.com/posts/178561?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
      一个独特的品牌标识，在几秒钟内生成  
-    </details> 
-
-- 💼 [Easier Gradients For Figma - 使在 Figma 中使用渐变变得更容易](https://xinquji.com/posts/178560?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:25 AM 
-    <details><summary>展开描述 ...</summary> 
-     使在 Figma 中使用渐变变得更容易  
-    </details> 
-
-- 🦅 [Where Should I Eat? - 餐厅的火种，在您所在的地区找到您的渴望](https://xinquji.com/posts/178559?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:24 AM 
-    <details><summary>展开描述 ...</summary> 
-     餐厅的火种，在您所在的地区找到您的渴望  
-    </details> 
-
-- 😺 [Instagreen - 在 Instagram 上假装不环保的生活](https://xinquji.com/posts/178558?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:23 AM 
-    <details><summary>展开描述 ...</summary> 
-     在 Instagram 上假装不环保的生活  
     </details> 
 <!-- xinquji:END -->
