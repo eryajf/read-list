@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [瑞幸咖啡第二季度营收同比增长72% 美股盘中涨11%](https://www.cnbeta.com/articles/tech/1302189.htm) | Mon Aug 08 2022 7:38 PM 
+- 🕯 [高通将从GlobalFoundries额外采购42亿美元芯片](https://www.cnbeta.com/articles/tech/1302193.htm) | Mon Aug 08 2022 11:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据周一公布的一份文件显示，高通同意从半导体晶圆代工公司GlobalFoundries纽约工厂额外采购价值42亿美元的半导体芯片，这就使其到2028年的总购买额达到了74亿美元。这笔追加采购交易扩大了高通与GlobalFoundries之间此前价值32亿美元的协议，这两家公司将合作生产用于5G收发器、WiFi、汽车和物联网连接的芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [特斯拉占了中国汽车出口半壁江山？真实情况并非如此](https://www.cnbeta.com/articles/tech/1302191.htm) | Mon Aug 08 2022 11:07 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近年来中国汽车行业发展迅猛，出口量更是坐火箭一般飞升，去年出口超过200万辆，今年上半年将超越德国成为全球第二，未来几年超过日本成为世界第一也是时间问题。在这个过程中，新能源汽车被认为是个关键，同时引进特斯拉之后，很多人也认为特斯拉上海工厂产能增长很猛，&lt;strong&gt;因此有一种说法就是特斯拉占了中国汽车出口的半壁江山，那事实真的如此吗？&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [瑞幸咖啡第二季度营收同比增长72% 美股盘中涨11%](https://www.cnbeta.com/articles/tech/1302189.htm) | Mon Aug 08 2022 7:38 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美东时间8月8日美股盘前，瑞幸咖啡（OTC：LKNCY）公布了2022年第二季度财报，受益于其连续推出的爆款产品、以及持续高速扩张的门店带动，瑞幸咖啡这份强劲的二季度财报使得其美股盘前涨近7%，截止发文瑞幸咖啡美股午盘涨幅达11.2%，年初至今瑞幸咖啡累计涨幅超58%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iOS 16 beta 5将电池百分比标尺带回到状态栏](https://www.cnbeta.com/articles/tech/1302187.htm) | Mon Aug 08 2022 6:27 PM 
+- 🚀 [iOS 16 beta 5将电池百分比标尺带回到状态栏](https://www.cnbeta.com/articles/tech/1302187.htm) | Mon Aug 08 2022 6:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在iOS 16中，一个长期以来被要求的功能终于回到了有刘海的iPhone上，那就是状态栏中的电池百分比。当苹果发布带有刘海显示屏的iPhone X时，状态栏的空间非常小。所以，苹果取消了在任何时候都显示电池百分比的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美联邦航空管理局：波音787梦想客机交付将在“未来几天”重启](https://www.cnbeta.com/articles/tech/1302185.htm) | Mon Aug 08 2022 6:05 PM 
+- 🎊 [美联邦航空管理局：波音787梦想客机交付将在“未来几天”重启](https://www.cnbeta.com/articles/tech/1302185.htm) | Mon Aug 08 2022 6:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国联邦航空管理局（FAA）周一表示，预计波音公司将在未来几天恢复其787梦想客机的交付。自2020年底以来，波音787梦想客机被发现存在多处质量问题，交付几乎停止。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [2600万张显卡要无家可归？矿工和奸商可能真的要下岗了](https://www.cnbeta.com/articles/tech/1302183.htm) | Mon Aug 08 2022 5:33 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;前两年的虚拟币挖矿热，大伙们应该还历历在目。无数被游戏玩家呵护在手、疼爱在心的显卡，就那么被矿工叔叔们高价买去了自由，被囚禁在矿场里打工。&lt;/strong&gt;去年5月的时候，部分显卡的价格直接到了首发价的三倍。原价三千不到的RTX 3060 Ti，市场要价近万元，你说离谱不离谱？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [上市半年狂降近30万：奔驰大LOGO在电车市场失灵了](https://www.cnbeta.com/articles/tech/1302181.htm) | Mon Aug 08 2022 5:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;奔驰旗舰级纯电动车，跳水了。在电池原材料成本上涨，导致新能源汽车普遍涨价的情况下，奔驰EQS开始“逆势降价”。最近有消息称&lt;strong&gt;，奔驰旗下的旗舰级新能源纯电轿车EQS正在进行大幅度优惠促销活动，最高优惠达30万。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
