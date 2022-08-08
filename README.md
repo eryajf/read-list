@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [闻着臭吃着香 可靠性更高的西数26TB机械盘已有大客户认可](https://www.cnbeta.com/articles/tech/1302039.htm) | Mon Aug 08 2022 9:17 AM 
+- 🕯 [卧龙电驱澄清：公司为特斯拉提供的相关业务仅涉及工业机器人范畴](https://www.cnbeta.com/articles/tech/1302075.htm) | Mon Aug 08 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在西数发布的Q4财季报告中，HDD机械硬盘出货量只有1650万部了，同比下滑了35%，但是PC用户不买也不妨碍企业级用户买，西数大容量机械硬盘依然很红火，本季度不仅22TB硬盘上市，而且26TB SMR硬盘也有大客户认可。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年8月5日，卧龙电驱在上证e互动回复投资者提问时称“公司为特斯拉提供机器人生产线”。为避免给投资者造成误导，卧龙电驱于8月7日发布了一则澄清说明的公告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [放下手机吧：实验表明花20分钟思考和上网一样快乐](https://www.cnbeta.com/articles/tech/1302037.htm) | Mon Aug 08 2022 9:16 AM 
+- 💼 [中外学者研究发现：夜晚高温可增加民众死亡风险](https://www.cnbeta.com/articles/science/1302073.htm) | Mon Aug 08 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;点进这篇文章的你，此刻是否正在刷着手机？智能手机和电脑确实对现代人吸引力巨大，大家普遍觉得玩电子设备比起动脑子学习工作更快乐。不过事实似乎并不是很多人想的那样——据美国心理学会发表的一篇研究报告，实验表明，用20分钟来独自思考和上网冲浪同样快乐。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中外科学家携手通过一项东亚多中心的未来气候变化模拟研究发现，夜晚高温会增加民众死亡风险。他们发现随着气候变暖，夜晚高温的频率和强度均将显著上升，进而大幅增加与热相关的疾病的负担。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [老软件突然发布新版 回忆Winamp的兴衰](https://www.cnbeta.com/articles/tech/1302035.htm) | Mon Aug 08 2022 9:13 AM 
+- 💂 [败诉以后 Google再次起诉Sonos的智能音箱和语音控制技术](https://www.cnbeta.com/articles/tech/1302071.htm) | Mon Aug 08 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在很久很久以前，还是属于PC辉煌时代，在众多用户的电脑硬盘上大多都保存着成百上千的MP3音乐文件，打开电脑，开启播放器Winamp，动听的音乐随之响起，这一幕，你是否记忆犹新呢？这里，就让我们一起来回顾一下Winamp这个昔日音乐播放器王者的风光与没落，还有体验一下它沉寂多年以后最新推出的新版。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google正在对Sonos进行反击，指控这家无线扬声器公司侵犯了其在智能扬声器和语音控制技术方面的多项专利。这是一场关于无线扬声器的来回缠斗中的最新一击，到目前为止，Sonos已经提出了多起诉讼，Google随之提出了一项反诉，法院作出了有利于Sonos的裁决，导致Google的产品功能被剥夺了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《仙剑奇侠传3》动画化：首部概念预告片发布 腾讯独播](https://hot.cnbeta.com/articles/comic/1302033.htm) | Mon Aug 08 2022 9:12 AM 
+- 🚀 [JSON发明人：老朽的JavaScript编程语言早该入土了](https://www.cnbeta.com/articles/tech/1302069.htm) | Mon Aug 08 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《仙剑奇侠传3》是几代人的经典仙侠剧回忆，是迄今最优秀的仙侠剧之一，也是至今口碑最好的游戏改编剧之一。现在，一代经典要以全新的面貌回归了。&lt;strong&gt;今天下午，腾讯视频官方宣布《仙剑奇侠传3》动画化，并且公布了首部概念预告片，展示了唐家堡、渝州城、蜀山等场景，配合上经典的BGM响起，瞬间就让人充满了回忆。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1302033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;尽管大多数调查显示，JavaScript 仍是世界上最流行的编程语言之一。但随着它的日渐年迈，越来越多的开发者也正将其视作进步的阻碍。&lt;/strong&gt;近日，用于对 Web 应用程序中的数据进行系列化的 JavaScript 对象表示法（JSON）创始人 Douglas Crockford 就严厉指出 —— JavaScript 和其它化石语言都该被淘汰了！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [印度版黑色款Moto G32提前曝光 或售13000卢比](https://www.cnbeta.com/articles/tech/1302031.htm) | Mon Aug 08 2022 9:06 AM 
+- 🎊 [“非洲之王”传音答复投资者提问：手机产品暂无计划进入中国](https://www.cnbeta.com/articles/tech/1302067.htm) | Mon Aug 08 2022 10:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;赶在发布会前，印度版 Moto G32 的真机外形，已被 Mukul Sharma 在 Twitter 上分享的一支上手视频给全面曝光。&lt;/strong&gt;在上月于欧洲推出后，该机也将于明日在印度上市。配置方面，可知其采用了 6.5 英寸 @ HD+ 分辨率的 90Hz LCD 高刷屏，但印度版可能将芯片组从高通骁龙 680、换成紫光展锐的入门级 SoC 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在国内手机厂商争夺一哥位置的同时，有一个国产品牌却在遥远的非洲市场称雄称霸，它就是号称“非洲之王”的传音。今日，有网友在互动平台表示：“希望传音的产品能进入国内，毕竟国内的市场也很大”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
