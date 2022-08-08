@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新型可充气胰岛素泵：可减少疤痕组织形成以实现长期药物输送](https://www.cnbeta.com/articles/science/1301919.htm) | Mon Aug 08 2022 5:03 AM 
+- 🕯 [雷军职业生涯最重要感悟：人生低谷还得靠自己](https://www.cnbeta.com/articles/tech/1301955.htm) | Mon Aug 08 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;免疫系统的异物反应对保持我们的健康非常重要--但当这个异物是医疗植入物时它就不那么有用了。&lt;strong&gt;麻省理工学院&lpar;MIT&rpar;的研究人员现在已经开发出一种设备，其通过每12小时轻轻地充气和放气来防止植入物周围形成疤痕组织。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，雷军发布了2022年度演讲的预告，&lt;strong&gt;以他在1996年经历的第一次人生低谷为引，分享了他职业生涯中最重要的感悟，并向观众发出了邀请。&lt;/strong&gt;在1996年，雷军与数十位高水平程序员，耗资200多万开发出了WPS、表格处理、操作系统等一系列“盘古”组件，但却无人问津，原计划能卖20000套，最后才卖出不到2000套。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《宝可梦Go》在新宿投放新3D广告 大量猫咪宝可梦出镜](https://hot.cnbeta.com/articles/game/1301917.htm) | Mon Aug 08 2022 4:50 AM 
+- 💼 [淘宝上线方言语音搜功能：支持识别东北话、河南话等](https://www.cnbeta.com/articles/tech/1301953.htm) | Mon Aug 08 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《宝可梦Go》日本新宿街头投放了大型3D广告，持续时间为8月8日至9月5日，并且由于8月8日是国际猫咪日，所以广告中出现了各种各样的“喵喵”和猫咪外观的宝可梦。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于大多中老年人群来说，日常使用App时语音一般是常用的交流方式，包括语音输入法、语音搜索等等。今日，@万能的淘宝 官微宣布淘宝上线方言语音搜功能，&lt;strong&gt;能够听的懂方言，只要会说天津话、东北话、山东话、河南话、河北话，&lt;/strong&gt;打开淘宝，点击语音搜小话筒，动动嘴的功夫就可以轻松购物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新款宝马3系官图发布：灵魂“鸡腿档杆”没了](https://www.cnbeta.com/articles/tech/1301915.htm) | Mon Aug 08 2022 3:56 AM 
+- 💂 [吉利几何新车定名G6、M6 双双搭载华为鸿蒙智能座舱](https://www.cnbeta.com/articles/tech/1301951.htm) | Mon Aug 08 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月8日，华晨宝马正式发布了新款宝马3系的官图，并宣布称新车将于今年成都车展上市（8月26日开幕）。作为中期改款车型，新款宝马3系在&lt;strong&gt;内外设计、智能交互和车辆配置&lt;/strong&gt;等多方面进行了提升。从官图来看，新款宝马3系将采用最新的家族化外观，配有星幕设计的智能降阻进气格栅以及全新样式的“天使眼”LED大灯。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月8日，吉利几何汽车正式公布了即将发布新车的名称：分为两款，&lt;strong&gt;叫做G6和M6&lt;/strong&gt;。值得注意的是，这两款新车都将用上基于华为HarmonyOS开发的几何数智座舱，且售价会落在20万元以内。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果镜头供应商因不满被唱衰开炮郭明錤 后者回应](https://www.cnbeta.com/articles/tech/1301913.htm) | Mon Aug 08 2022 3:51 AM 
+- 🚀 [Twitter最近曝光的一个系统漏洞可能会暴露匿名账户所有者的身份](https://www.cnbeta.com/articles/tech/1301949.htm) | Mon Aug 08 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;天风国际分析师郭明錤今日发推文回应台媒和台湾“镜头二哥”玉晶光公司的质疑言论，称台湾媒体工商时报8月4日的报道和玉晶光的调查有误，来源不可靠。&lt;/strong&gt;“台湾媒体工商时报记者陈柔蓁，于8月4日出版关于我的错误报导，来源引述自台湾公司玉晶光的错误调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;最近，Twitter上一个被利用的漏洞让不良分子掌握了不同账户所有者的数据库，这对那些希望在平台上保持身份未知的个人来说是个危险。&lt;/strong&gt;“由于这个漏洞，如果有人向Twitter的系统提交电子邮件地址或电话号码，Twitter的系统会告诉这个人所提交的电子邮件地址或电话号码与哪个Twitter账户有关，如果有的话，”Twitter在上周五的一篇博文中承认了这个案例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [为新款显卡让路？EVGA非公版RTX 3090Ti FTW3价格近乎腰斩](https://www.cnbeta.com/articles/tech/1301911.htm) | Mon Aug 08 2022 3:49 AM 
+- 🎊 [《街头霸王6》正式公布新角色宣传片：金佰莉和韩蛛俐](https://hot.cnbeta.com/articles/game/1301947.htm) | Mon Aug 08 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有迹象表明，NVIDIA 主板合作伙伴迫切需要清理其高端 GeForce RTX 30 系列“Ampere”显卡库存，以便于为即将到来的新款显卡让路。&lt;strong&gt;EVGA 非公版 GeForce RTX 3090 Ti FTW3 目前的定价为 1149 美元，和上市价（2149 美元）几乎可以说腰斩。&lt;/strong&gt;这比 2022 年第 2 季度“矿难”前该卡的零售价低了近 1500 美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;卡普空正式公布了《街头霸王6》新角色“金佰莉（Kimberly）”和“韩蛛俐”的宣传片，继承了武神流忍术的“金佰莉”及残虐的享乐主义者“韩蛛俐”加入《街头霸王6》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
