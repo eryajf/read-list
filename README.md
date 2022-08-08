@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [Steam Deck 半月谈：让 Valve 再一次变酷](https://sspai.com/post/75032) | Mon Aug 08 2022 6:29 AM 
+- 👹 [送码 | 一款好用的录屏讲解工具背后的秘密：为什么他们都选择了《芦笋》？](https://sspai.com/post/74865) | Mon Aug 08 2022 7:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    在体验过多款录屏讲解工具、采访了多位相关用户之后，我们认为今年初才刚刚面世的《芦笋》，也许是你目前能够找到的最好的选择之一。不像许多录屏工具仅从某一需求着眼，《芦笋》从一开始就朝着「一站式录屏讲解工具」的方向出发，希望仅在一个 App 之中，帮你完成从视频录制到制作，甚至到分享与获得反馈的完整工作流程。&lt;a href=&quot;https://sspai.com/post/74865&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [Steam Deck 半月谈：让 Valve 再一次变酷](https://sspai.com/post/75032) | Mon Aug 08 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
     坦诚、幽默、了解玩家和技术，Valve 依然是那个很酷的 Valve。&lt;a href=&quot;https://sspai.com/post/75032&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [具透 | 更新幅度远超预期——全面分析 iOS 16 版 Books 的新特性](https://sspai.com/post/75010) | Mon Aug 08 2022 3:34 AM 
+- 🤭 [具透 | 更新幅度远超预期——全面分析 iOS 16 版 Books 的新特性](https://sspai.com/post/75010) | Mon Aug 08 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     除了在去年更新中出现过的翻页动画和下沉式的交互逻辑外，其他几乎所有的改变都是首次出现在 Apple 的操作系统中。&lt;a href=&quot;https://sspai.com/post/75010&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：亚马逊收购 iRobot、加州交管局指控特斯拉虚假宣传自动驾驶等](https://sspai.com/post/75029) | Mon Aug 08 2022 12:57 AM 
+- 🥸 [派早报：亚马逊收购 iRobot、加州交管局指控特斯拉虚假宣传自动驾驶等](https://sspai.com/post/75029) | Mon Aug 08 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事亚马逊收购扫地机器人Roomba制造商iRobot8月6日，亚马逊宣布，将以每股61美元、总价17亿美元，全现金收购扫地机器人Roomba的制造商iRobot。这也是亚马逊历史上交易 ...&lt;a href=&quot;https://sspai.com/post/75029&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [多标签页浏览，如何才能游刃有余？](https://sspai.com/post/75031) | Sun Aug 07 2022 7:00 AM 
+- 🙉 [多标签页浏览，如何才能游刃有余？](https://sspai.com/post/75031) | Sun Aug 07 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     积压了那么多标签页，交给浏览器还是交给浏览器扩展？&lt;a href=&quot;https://sspai.com/post/75031&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [跨平台、功能足、体验好：我为什么在用 iA Writer 写作](https://sspai.com/post/75025) | Sun Aug 07 2022 4:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    如果你是一名习惯使用 iA Writer 的长期用户，可能会觉得它虽然清冷如水，但就是不可或缺，任何同类应用都无法替代。可以说，iA Writer 凭借极简美观的界面、恰到好处的功能，牢牢占据着自己在编辑器类目当中的一席之地。&lt;a href=&quot;https://sspai.com/post/75025&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
