@@ -364,9 +364,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [2022 年了， vscode 还是不兼容中文吗？](https://www.v2ex.com/t/871561#reply3) | Mon Aug 08 2022 7:16 PM
+- 🥸 [2022 年了， vscode 还是不兼容中文吗？](https://www.v2ex.com/t/871561#reply4) | Mon Aug 08 2022 7:16 PM
 - 🤗 [Rust 加入 Linux 内核是不是离用 Rust 开发大规模商用的桌面 UI 软件不远了？（虽然看起来这两点关系不大，但现在 Rust 没普及， Rust 中用 Qt 都很多问题一直没解决）](https://www.v2ex.com/t/871552#reply3) | Mon Aug 08 2022 4:51 PM
-- 🎭 [请教大家，哪款市面上还能买得到的安卓手机最适合 root？](https://www.v2ex.com/t/871548#reply7) | Mon Aug 08 2022 3:56 PM
+- 🎭 [请教大家，哪款市面上还能买得到的安卓手机最适合 root？](https://www.v2ex.com/t/871548#reply8) | Mon Aug 08 2022 3:56 PM
 - 🥷 [看了一个 APT 27 得组织，突然对黑客的相关技术挺感兴趣？有老哥说说嘛。故事技术论坛都可以](https://www.v2ex.com/t/871544#reply10) | Mon Aug 08 2022 3:13 PM
 - 🐵 [C++如何简单地在堆上创建多维数组？](https://www.v2ex.com/t/871538#reply8) | Mon Aug 08 2022 2:44 PM<!-- v2ex:END -->
 
