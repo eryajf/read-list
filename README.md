@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0808](http://jandan.net/p/111102) | Mon Aug 08 2022 3:55 AM 
+- 🚀 [用于一次性电子产品的 可降解打印纸电池](http://jandan.net/p/111068) | Mon Aug 08 2022 6:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    只要往上面滴两滴水，电池就开始发电，电压接近1.5伏 
+    </details> 
+
+- 🙉 [今日好价 0808](http://jandan.net/p/111102) | Mon Aug 08 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🙉 [用这个App扫一扫新生儿眼睛可能救他们一命](http://jandan.net/p/111100) | Mon Aug 08 2022 2:36 AM 
+- 🎉 [用这个App扫一扫新生儿眼睛可能救他们一命](http://jandan.net/p/111100) | Mon Aug 08 2022 2:36 AM 
     <details><summary>展开描述 ...</summary> 
     扫一扫拯救小黄人 
     </details> 
 
-- 🎉 [贫困家庭儿童若与富有家庭的孩子建立友谊，成年后收入更高](http://jandan.net/p/111074) | Sun Aug 07 2022 3:05 PM 
+- 🐲 [贫困家庭儿童若与富有家庭的孩子建立友谊，成年后收入更高](http://jandan.net/p/111074) | Sun Aug 07 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
     一种叫“经济联系”的现象，如果你的所有朋友的平均收入高于基线，则你的收入十有八九也会高于基线 
     </details> 
 
-- 🐲 [大家知道谷歌的带引号搜索吗](http://jandan.net/p/111092) | Sun Aug 07 2022 9:51 AM 
+-  [大家知道谷歌的带引号搜索吗](http://jandan.net/p/111092) | Sun Aug 07 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
     就是搜索引号内的字符串内容 
-    </details> 
-
--  [詹姆斯韦布太空望远镜 美“轮”美奂的星系](http://jandan.net/p/111095) | Sun Aug 07 2022 3:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    顾名思义 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
