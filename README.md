@@ -66,29 +66,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) | Fri Aug 05 2022 7:42 AM 
+- 🫶 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/) | Mon Aug 08 2022 3:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    我维护的开源项目 https://github.com/eryajf/Thanks-Mirror 整理记录了各个包管理器，系统镜像，以及常用软件的好用镜像，随着项目越来越完善，到今天，已经累计整理链接 1091 个，随着时间推移，一些国内镜像可能会停止维护，如何自定感知那些已经失效的链接，就是一个需要考虑的事情了。本文就介绍一个有意思的小动作，它的主要功能是可以自动扫描仓库内的链接，然后对链接进行请求，根据自定义的规则，自动抛出异常的链接，然后将这些链接创建到issue当中。 
+    </details> 
+
+- 🧰 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) | Fri Aug 05 2022 7:42 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第65期-2022年第30周 
     </details> 
 
-- 🧰 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/) | Mon Aug 01 2022 11:42 PM 
+- 🌏 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/) | Mon Aug 01 2022 11:42 PM 
     <details><summary>展开描述 ...</summary> 
     我维护的 awesome-github-profile-readme-chinese 项目旨在收集汇总中文区优秀的个人主页，每个人的主页将会通过截图的方式存放在 exampls 目录下，有时候有的朋友主页内容很多，这样整体截图下来就非常大。本文就介绍一个有意思的小动作，它的主要功能是可以自动扫描仓库内的图片，然后对其进行几乎无损的压缩，让整个仓库的体积保持在一个相对低的水平。 
     </details> 
 
-- 🌏 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/) | Mon Aug 01 2022 3:28 PM 
+- 😎 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/) | Mon Aug 01 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
     当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。 
     </details> 
 
-- 😎 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) | Fri Jul 29 2022 4:26 PM 
+- 💂 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) | Fri Jul 29 2022 4:26 PM 
     <details><summary>展开描述 ...</summary> 
     当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。 
-    </details> 
-
-- 💂 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) | Fri Jul 29 2022 3:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    GitHub中的follow功能，类似于微博中的关注，而关注我们的大佬，就更应该有一个合适的地方安排，本文将分享如何基于GitHub Actions自动生成个人的Fans列表。 
     </details> 
 <!-- eryajf:END -->
 
