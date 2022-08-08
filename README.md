@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国家广播电视总局就《广播电视和网络视听节目制作经营管理规定（征求意见稿）》 公开征求意见](https://www.cnbeta.com/articles/tech/1301985.htm) | Mon Aug 08 2022 7:11 AM 
+- 🕯 [哈勃捕捉到猎户座星云中迷人的天体云景](https://www.cnbeta.com/articles/science/1301999.htm) | Mon Aug 08 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据广电总局网站8月8日消息，为贯彻落实国务院“放管服”改革精神，进一步规范广播电视和网络视听节目制作经营活动，确保广播电视和网络视听节目正确导向，促进行业健康有序发展，更好满足人民群众精神文化生活需求，根据《中华人民共和国立法法》《规章制定程序条例》，国家广播电视总局在《广播电视节目制作经营管理规定》（原国家广播电影电视总局令第34号）修订工作基础上，起草了《广播电视和网络视听节目制作经营管理规定（征求意见稿）》，现向社会公开征求意见。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;NASA/ESA哈勃太空望远镜拍摄的这幅充满活力的天体云图捕捉到了赫比格-哈罗天体HH 505周围的彩色区域。&lt;/strong&gt;据了解，赫比格-哈罗天体天体则是在恒星风或从这些新生恒星喷出的气体喷流而成的冲击波跟附近的气体和尘埃高速碰撞后形成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三款AMD锐龙5000 Pro系列AM4台式商用处理器SKU曝光](https://www.cnbeta.com/articles/tech/1301983.htm) | Mon Aug 08 2022 7:11 AM 
+- 💼 [网红50万转卖微信号被驳回 法院：合同无效](https://www.cnbeta.com/articles/tech/1301997.htm) | Mon Aug 08 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;除了即将上市的 Zen 4 锐龙 7000 系列台式 AM5 CPU，AMD 显然也没有放弃为嵌入式 / 商用市场开发更多 AM4 处理器。&lt;/strong&gt;早些时候，知名爆料人 HXL（@9550pro）在 Twitter 上晒出了来自联想官网的截图链接，表明 ThinkStation P358 塔式商用主机将可选配 AMD 锐龙 R9-5945 / R7-5845 / R5-5645、以及现有的 R3-4350G 等“Pro”版 CPU 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微信里面加的客户多了，微信号竟也能当作商品转卖，不过这种灰色操作，往往不受法律保护。&lt;strong&gt;近日，江阴法院发布一起有关微信账号买卖的案例判决，引发了众多网友关注。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [8999起嫌贵？苹果测试中的iPhone 14 Pro 2TB版价格更感人](https://www.cnbeta.com/articles/tech/1301981.htm) | Mon Aug 08 2022 7:10 AM 
+- 💂 [解锁功耗限制：Raptor Lake酷睿i9-13900K实现14%性能提升](https://www.cnbeta.com/articles/tech/1301995.htm) | Mon Aug 08 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年苹果要发布的iPhone 14系列，其中包含了4款机型，但是mini版本被抛弃，在定价上这次也跟之前不太一样。有供应链称，iPhone 14标准版这次并不会涨价，依然维持前代的5999元起步价。而iPhone 14 Pro系列两款机型，这次将大概率迎来涨价，其中iPhone 14 Pro预计售价8999起步，iPhone 14 Pro Max预计9999起步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由 @OneRaichu 在 Twitter 上最新分享的 Cinebench R23 基准测试成绩可知，即将推出的英特尔 Raptor Lake 桌面旗舰 CPU —— &lt;strong&gt;采用 8P+16E（24C / 32T）设计的酷睿 i9-13900K —— 可在冒险解锁更高功耗墙后，实现近 14% 的多线程性能提升。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [电动车不能充满电了？博主透露所有快充桩充到95%自动断电](https://www.cnbeta.com/articles/tech/1301979.htm) | Mon Aug 08 2022 7:09 AM 
+- 🚀 [长城汽车被曝毁约应届生 入职第二天就被解约](https://www.cnbeta.com/articles/tech/1301993.htm) | Mon Aug 08 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，有博主曝光了一条小鹏汽车发送的充电完成短信，文中称：为了充电安全并响应主管部门对充电安全工作的指导，本站充电设施SOC上限阈值为95%。现充电已完成，请驶离车位以免被收取占位费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月8日消息，据拿到长城汽车offer的应届生在脉脉爆料，拿到offer后刚入职就被毁约。&lt;/strong&gt;当事人表示，自己是211本科应届生，手握3个offer，考虑到长城总部离家近所以选了长城。结果入职第二天，就被通知解约了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [上扬软件辟谣：中芯京城正常推进 CIM项目仍在进行中](https://www.cnbeta.com/articles/tech/1301977.htm) | Mon Aug 08 2022 7:09 AM 
+- 🎊 [印尼官员称特斯拉已签署约50亿美元镍采购合同](https://www.cnbeta.com/articles/tech/1301991.htm) | Mon Aug 08 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月8日，新浪科技报道称中芯国际软件项目停摆，供应商上扬软件无法满足12英寸厂CIM系统要求，上百人团队解散。受到该消息影响，外界不仅误以为上扬软件运营陷入困境，甚至猜想中芯国际北京项目因此停摆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;印尼一位高级内阁部长周一透露，美国电动汽车制造商特斯拉已经签署了价值约50亿美元的合同，从印尼的镍加工公司购买电池材料。&lt;/strong&gt;印尼拥有重要的镍资源，一直试图吸引特斯拉在该国建立生产设施。印尼总统佐科·维多多今年早些时候会见了特斯拉CEO埃隆·马斯克（Elon Musk），以吸引投资。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
