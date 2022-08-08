@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国内牛人重制《双截龙2》 连招爽快速度感十足](https://hot.cnbeta.com/articles/game/1301735.htm) | Sun Aug 07 2022 11:14 PM 
+- 🕯 [用户投诉三大运营商擅自为其开通视频彩铃业务](https://www.cnbeta.com/articles/tech/1301841.htm) | Mon Aug 08 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;擅长在游戏原有基础上追加各种现代机制和动作的国内游戏爱好者再接再厉，继恶魔城、赤影战士、魂斗罗等老一辈玩家耳熟能详的FC游戏之后，最近完成《双截龙2》初步改进。经过这位达人修改过的《双截龙2》玩起来更加爽快感十足，让老玩家看了也摩拳擦掌，跃跃欲试。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，有不少网友爆料称，&lt;strong&gt;自己在毫不知情的情况下被开通了视频彩铃，中国移动、中国联通、中国电信三大运营商都有这种操作。&lt;/strong&gt;此前，罗永浩就曾怼过视频彩铃业务，他吐槽：“这个视频彩铃业务是很多人自己都不知道的情况下就开通了，除了自己花钱之外，还会还会折磨给你打电话的人：大部分是恶俗的音乐；电话被接听前不能静音；有时还带广告。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《FF7核心危机 再融合》介于复刻与重制版之间](https://hot.cnbeta.com/articles/game/1301733.htm) | Sun Aug 07 2022 11:10 PM 
+- 💼 [特斯拉下一座超级工厂选址或拟定 马斯克暗示位于加拿大](https://www.cnbeta.com/articles/tech/1301839.htm) | Mon Aug 08 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近的一次采访中，Square Enix旗下制作人野村哲也向媒体透露了《最终幻想7：核心危机 再融合》游戏名称的由来，表示这款游戏连接了《最终幻想7》与《核心危机》，而且是介于“重制版”和“复刻版”之间的作品。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉目前已经在世界各地建立了多座超级工厂，不过由于需求旺盛，即便是开足马力，也无法及时供应消费者的购买需求，所以建设更多的超级工厂实有必要。那么下一座超级工厂会位于哪里呢？此前有多种传言，比如在国内就有青岛、大连以及上海等多个备选项，但如今看来，这座新工厂并非选在中国。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [直播售卖机场“无主行李箱盲盒”？恐怕不能当真](https://www.cnbeta.com/articles/tech/1301731.htm) | Sun Aug 07 2022 11:08 PM 
+- 💂 [《最后的生还者：重制版》新演示泄露 黑人小哥无奈杀弟](https://hot.cnbeta.com/articles/game/1301837.htm) | Mon Aug 08 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“无主行李箱盲盒”的第一问，或许是追问其是否真来自机场、车站。据报道，近日，“行李箱盲盒”在网络上爆火。销售这种盲盒的商家称，这些行李箱一般是在机场或者火车站，长时间无人认领的。有市民认为，行李箱被当“盲盒”来消遣娱乐，十分不妥。也有律师表示，购买这样的行李箱，本身就存在一定的法律风险和隐患，在网络上直播，极易侵犯原物主隐私权。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日据外媒VGC报道，《最后的生还者：重制版》新演示泄露，展示了黑人小哥无奈枪杀变异弟弟的场景。油管主Speclizer Clips也分享了新演示与PS4版的对比视频，一起来看看吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [超前点播卷土重来 芒果TV推出18元提前看大结局礼包](https://hot.cnbeta.com/articles/movie/1301729.htm) | Sun Aug 07 2022 11:05 PM 
+- 🚀 [研究：一种新癌症药物组合可将死亡风险降低31%](https://www.cnbeta.com/articles/science/1301835.htm) | Mon Aug 08 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;之前各大视频平台推出超前点播功能，引发众多网友的反对，后来各个平台陆续取消了该付费特权，但最近这个功能似乎又换了个“马甲”重新出现在了大众面前。&lt;strong&gt;芒果TV官方于今日宣布，正热播的电视剧《少年派2》开启“大结局点映”活动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1301729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;跟标准治疗相比，雷莫芦单抗和派姆单抗的组合使之前免疫治疗中出现进展的晚期非小细胞肺癌患者的死亡风险下降了31%。&lt;/strong&gt;根据Lung Cancer Master Protocol&lpar;Lung-MAP&rpar;所做的一项研究，晚期非小细胞肺癌患者在接受雷莫芦单抗&lpar;Cyramza&rpar;和派姆单抗&lpar;Keytruda&rpar;联合治疗时，比接受目前这种类型癌症的标准疗法之一治疗时明显活得更长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [彭博社：M2/M2 Pro 芯片 Mac mini 开发中 外观不变](https://www.cnbeta.com/articles/tech/1301727.htm) | Sun Aug 07 2022 3:38 PM 
+- 🎊 [《暗黑破坏神4》新截图泄露 角色定制界面展示](https://hot.cnbeta.com/articles/game/1301833.htm) | Mon Aug 08 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;彭博社 Mark Gurman 再次给出了苹果下一代 Mac mini 的预测。Gurman 表示，此前苹果开发的 M1 Pro 版 Mac mini 已经被放弃。取而代之的是，M2 和 M2 Pro 芯片版 Mac mini，除了芯片升级外，M2 和 M2 Pro&amp;nbsp;&amp;nbsp;Mac&amp;nbsp;&amp;nbsp;mini 的外观没有任何变化，延续 M1 Mac mini 设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《暗黑破坏神4》A测正在进行中，限内部人士和亲戚朋友，据说有许多人玩到该作了。不过有人没遵守保密协定，泄露了一些内部截图。这些截图不太清晰，但也能看清楚角色定制界面以及其他内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
