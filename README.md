@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Homebrew 国内如何自动安装（国内地址）（Mac &amp; Linux）](https://juejin.cn/post/7129341515804966919) | Mon Aug 08 2022 3:26 AM 
+- 🤗 [掌握 TypeScript 中的映射类型](https://juejin.cn/post/7129379753651830815) | Mon Aug 08 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-    原文：https://zhuanlan.zhihu.com/p/111014448 如果你是提示来这个页面查看错误，说明你用的脚本太老了，用下面脚本安装。 自动脚本&lpar;全部国内地址&rpar;（复制下面一句脚本到 
+    DRY 原则（Don&#39;t repeat yourself）是软件开发中最重要的原则之一，即不要重复自己。应该避免在代码中的两个或多个地方存在重复的业务逻辑。 在 TypeScript 中，映射类型可以 
     </details> 
 
-- 🎡 [使用 CSS 构建强大且酷炫的粒子动画](https://juejin.cn/post/7129339706570965029) | Mon Aug 08 2022 3:19 AM 
+- 🎡 [基于 RocksDB 实现高可靠、低时延的 MQTT 数据持久化](https://juejin.cn/post/7129377478837010439) | Mon Aug 08 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-    粒子动画，顾名思义，就是页面上存在大量的粒子构建而成的动画。传统的粒子动画主要由 Canvas、WebGL 实现。 当然，不使用 HTML + CSS 的主要原因在于，粒子动画通常需要较多的粒子，而如 
+    基于RocksDB实现的原生MQTT会话持久化是EMQX发布以来的一项突破性的重要功能变革，这一能力将为开源用户提供更可靠的业务保证。 
     </details> 
 
-- 🕯 [761. 特殊的二进制序列 : 经典构造题](https://juejin.cn/post/7129339228932341791) | Mon Aug 08 2022 3:17 AM 
+- 🕯 [2022年了，CSS的终结解决方案是什么？](https://juejin.cn/post/7129377267028869150) | Mon Aug 08 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 题目描述 这是 LeetCode 上的 761. 特殊的二进制序列 ，难度为 困难。 Tag : 「构造 
+    你会不会和我一样认为 TailwindCSS 是 2022 年最完美的样式解决方案呢？欢迎说出你的想法。 
     </details> 
 
-- 🚀 [Kafka在美团数据平台的实践](https://juejin.cn/post/7129338441989292068) | Mon Aug 08 2022 3:14 AM 
+- 🚀 [微前端之IceStark介绍和基础使用](https://juejin.cn/post/7129374473949544485) | Mon Aug 08 2022 5:35 AM 
     <details><summary>展开描述 ...</summary> 
-    本文分享了美团Kafka面临的实际挑战，以及美团针对性的一些优化工作，希望能给从事相关开发工作的同学带来帮助或启发。 
+    1. 介绍 阿里飞冰团队于 2019 年 6 月发布的微前端框架，内部服务于淘宝、飞猪、钉钉、阿里云等大型项目。 IceStark 支持以下特性： 框架无关（也是所有微前端框架都会解决的问题） 快速迁 
     </details> 
 
-- 💪 [Iptables防火墙的四表五链概念以及使用技巧](https://juejin.cn/post/7129337209299140639) | Mon Aug 08 2022 3:09 AM 
+- 💪 [Re:Tech FE Weekly Vol.004](https://juejin.cn/post/7129372874489462814) | Mon Aug 08 2022 5:28 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 Iptables防火墙的四表五链概念以及使用技巧 
+    本期文章 七夕到了，还不快给你女朋友做一个专属chrome插件 七夕节马上就要到了，作为拥有对象（没有的话，可以选择 new 一个出来）的程序员来说，肯定是需要有一点表示才行的。用钱能买到的东西不一定 
     </details> 
 <!-- juejin:END -->
 ### 少数派
