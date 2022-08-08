@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [数据孤岛成通病问题？软件买再多，解决不了这个问题都是白费！](https://juejin.cn/post/7129416136189280264) | Mon Aug 08 2022 8:16 AM 
+- 🤗 [gRpc接口调试工具BloomRpc与gRPCurl傻瓜教程，帮助微服务rpc开发便捷调试](https://juejin.cn/post/7129414359419191303) | Mon Aug 08 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-    数据孤岛问题是中大型集团公司的通病了，像我们搞制造业的更是如此，部门尤其多，每个部门都需要采购软件，所以感觉整个公司几乎每个月都在采购新的软件系统... 比较常见的就是OA、HR、ERP、MES系统这 
+    我们在开发rpc服务时，如果不被api服务调用，则无法调试，那有没有一个工具像postman一样直接调试gRpc的接口呢， 我们要想直接调试gRpc的接口， 就是BloomRpc和gRpcurl。 
     </details> 
 
-- 🎡 [再次搞定 Ali 云函数计算 FC](https://juejin.cn/post/7129415876062740493) | Mon Aug 08 2022 8:14 AM 
+- 🎡 [有了这个开源工具后，我五点就下班了！](https://juejin.cn/post/7129413026758787086) | Mon Aug 08 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-    原本早就该写完了微信 SDK 授权服务上云计划由于对 Ali 云函数计算 FC 的不熟悉遇到了很多的坑，再前面的文章中还吐槽了一通。在服务顺利跑通后，这回实打实的来总结一下顺利上云的保守指南 
+    一个优秀的开发者，一定是会利用各种工具来提升自己的开发效率。这款开源工具能够帮助你在开发常见的业务功能提示100%效率 
     </details> 
 
-- 🕯 [Gradle筑基篇&lpar;二&rpar;-groovy语法详解](https://juejin.cn/post/7129336080112812039) | Mon Aug 08 2022 3:05 AM 
+- 🕯 [RabbitMQ安装](https://juejin.cn/post/7129413011025952804) | Mon Aug 08 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 &gt;&gt; 前言: 大家回想一下自己第一次接触Gradle是什么时候？ 相信大家也都是和我一样，在我们打开第一个 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 。RabbitMQ系列笔记大部分已完结，可以到博客中直接查看 
     </details> 
 
-- 🚀 [AQS同步组件-CyclicBarrier&lpar;循环屏障&rpar;解析和用例](https://juejin.cn/post/7129012183647649805) | Sun Aug 07 2022 6:08 AM 
+- 🚀 [如何写出好代码？](https://juejin.cn/post/7129407117198360613) | Mon Aug 08 2022 7:42 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 CyclicBarrier原理 CyclicBarrier 的字面意思是可循环使用（Cyclic）的屏障 
+    什么是好代码？ 我个人认为好代码有很多种评判标准，我们经常提起的就是一下三类： 使用更好的算法优化代码执行效率。 代码的可读性非常强。 代码的可拓展性非常强。 实际上对于用算法来优化代码，第一种情况很 
     </details> 
 
-- 💪 [AQS同步组件-Semaphore（信号量）解析和案例](https://juejin.cn/post/7129010239994593317) | Sun Aug 07 2022 6:02 AM 
+- 💪 [这篇文章让你搞懂什么是ThreadLocal](https://juejin.cn/post/7129406923392155678) | Mon Aug 08 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 基本概念 Semaphore也是一个线程同步的辅助类，可以维护当前访问自身的线程个数，并提供了同步机制。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 Java 并发 - ThreadLocal详解 带着BAT大厂的面试问题去理解 什么是ThreadLoca 
     </details> 
 <!-- juejin:END -->
 ### 少数派
