@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [三道MySQL联合索引面试题，淘汰80%的面试者，你能答对几道](https://juejin.cn/post/7129490960169304095) | Mon Aug 08 2022 1:06 PM 
+- 🤗 [LeetCode最长回文串使用JavaScript解题|前端学算法](https://juejin.cn/post/7129513929289498638) | Mon Aug 08 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
-    众所周知MySQL联合索引遵循最左前缀匹配原则，在少数情况下也会不遵循（有兴趣，可以翻一下上篇文章）。 创建联合索引的时候，建议优先把区分度高的字段放在第一列。 至于怎么统计区分度，可以按照下面这 
+    使用JavaScript破解LeetCode中最长回文串的算法，以及for......in的用法示例。 
     </details> 
 
-- 🎡 [【LeetCode】636. 函数的独占时间](https://juejin.cn/post/7129489071637790727) | Mon Aug 08 2022 1:00 PM 
+- 🎡 [【刷题日记】73. 矩阵置零](https://juejin.cn/post/7129513551789555748) | Mon Aug 08 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 本次刷题日记的第 86 篇，力扣题为：73. 矩阵置零 一、题目描述： 今天来做一个二维数组的题目，矩阵 
     </details> 
 
-- 🕯 [Swift - LeetCode - 同构字符串](https://juejin.cn/post/7129486708248150024) | Mon Aug 08 2022 12:49 PM 
+- 🕯 [RocketMQ 详解系列](https://juejin.cn/post/7129513088843251748) | Mon Aug 08 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情  题目 给定两个字符串 s 和 t，判断它们是否是同构的。 如果 s 中的字符可以按某种映射关系替换得到 
+    什么是RocketMQ RocketMQ作为一款纯java、分布式、队列模型的开源消息中间件，支持事务消息、顺序消息、批量消息、定时消息、消息回溯等。主要功能是异步解耦和流量削峰：。 常见的MQ主要有 
     </details> 
 
-- 🚀 [Java唤醒本地应用的两种姿势](https://juejin.cn/post/7129480421007441956) | Mon Aug 08 2022 12:25 PM 
+- 🚀 [vue自定义指令-加载指令v-loading和占位图指令v-showimg](https://juejin.cn/post/7129511908419338247) | Mon Aug 08 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
-    本文将介绍一下如何使用java打开本地应用，以及打开mac系统中特殊一点的处理方式（直白来说就是不同操作系统，使用姿势不一样） 
+    了解自定义指令的钩子函数 注册成为全局指令 需求描述 列表组件 ListCom.vue 加载动画组件 LoadingCom.vue 钩子函数 loading.js 分析上面的代码 main.js 中  
     </details> 
 
-- 💪 [GitKraken可视化git软件的使用](https://juejin.cn/post/7129479860581302285) | Mon Aug 08 2022 12:23 PM 
+- 💪 [jQuery 编程 | 04 - jQuery 事件](https://juejin.cn/post/7129503393558724645) | Mon Aug 08 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
-    一、前言 其实之前自己比较喜欢用 git 命令，主要是因为写久了也就那几个命令，已经习惯了。后来工作看到同事们都用 GitKraKen 来提交代码，本着开发工具一致原则也开始安装使用，发现遇到了一个大 
+    一、绑定事件处理器 .on&lpar;&rpar; 在选定的元素上绑定一个或多个事件处理函数。 事件委托 .one&lpar;&rpar; 为元素的事件添加处理函数。处理函数在每个元素上每种事件类型最多执行一次。 .off&lpar;&rpar; 移除一个事件 
     </details> 
 <!-- juejin:END -->
 ### 少数派
