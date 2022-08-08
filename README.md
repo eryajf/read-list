@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新款宝马3系官图发布：灵魂“鸡腿档杆”没了](https://www.cnbeta.com/articles/tech/1301915.htm) | Mon Aug 08 2022 3:56 AM 
+- 🕯 [新型可充气胰岛素泵：可减少疤痕组织形成以实现长期药物输送](https://www.cnbeta.com/articles/science/1301919.htm) | Mon Aug 08 2022 5:03 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;免疫系统的异物反应对保持我们的健康非常重要--但当这个异物是医疗植入物时它就不那么有用了。&lt;strong&gt;麻省理工学院&lpar;MIT&rpar;的研究人员现在已经开发出一种设备，其通过每12小时轻轻地充气和放气来防止植入物周围形成疤痕组织。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《宝可梦Go》在新宿投放新3D广告 大量猫咪宝可梦出镜](https://hot.cnbeta.com/articles/game/1301917.htm) | Mon Aug 08 2022 4:50 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《宝可梦Go》日本新宿街头投放了大型3D广告，持续时间为8月8日至9月5日，并且由于8月8日是国际猫咪日，所以广告中出现了各种各样的“喵喵”和猫咪外观的宝可梦。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [新款宝马3系官图发布：灵魂“鸡腿档杆”没了](https://www.cnbeta.com/articles/tech/1301915.htm) | Mon Aug 08 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月8日，华晨宝马正式发布了新款宝马3系的官图，并宣布称新车将于今年成都车展上市（8月26日开幕）。作为中期改款车型，新款宝马3系在&lt;strong&gt;内外设计、智能交互和车辆配置&lt;/strong&gt;等多方面进行了提升。从官图来看，新款宝马3系将采用最新的家族化外观，配有星幕设计的智能降阻进气格栅以及全新样式的“天使眼”LED大灯。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果镜头供应商因不满被唱衰开炮郭明錤 后者回应](https://www.cnbeta.com/articles/tech/1301913.htm) | Mon Aug 08 2022 3:51 AM 
+- 🚀 [苹果镜头供应商因不满被唱衰开炮郭明錤 后者回应](https://www.cnbeta.com/articles/tech/1301913.htm) | Mon Aug 08 2022 3:51 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;天风国际分析师郭明錤今日发推文回应台媒和台湾“镜头二哥”玉晶光公司的质疑言论，称台湾媒体工商时报8月4日的报道和玉晶光的调查有误，来源不可靠。&lt;/strong&gt;“台湾媒体工商时报记者陈柔蓁，于8月4日出版关于我的错误报导，来源引述自台湾公司玉晶光的错误调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [为新款显卡让路？EVGA非公版RTX 3090Ti FTW3价格近乎腰斩](https://www.cnbeta.com/articles/tech/1301911.htm) | Mon Aug 08 2022 3:49 AM 
+- 🎊 [为新款显卡让路？EVGA非公版RTX 3090Ti FTW3价格近乎腰斩](https://www.cnbeta.com/articles/tech/1301911.htm) | Mon Aug 08 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;有迹象表明，NVIDIA 主板合作伙伴迫切需要清理其高端 GeForce RTX 30 系列“Ampere”显卡库存，以便于为即将到来的新款显卡让路。&lt;strong&gt;EVGA 非公版 GeForce RTX 3090 Ti FTW3 目前的定价为 1149 美元，和上市价（2149 美元）几乎可以说腰斩。&lt;/strong&gt;这比 2022 年第 2 季度“矿难”前该卡的零售价低了近 1500 美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [轻度智障小伙考上大学做UP主：凭努力拿下多门证书 希望为群体正名](https://www.cnbeta.com/articles/tech/1301909.htm) | Mon Aug 08 2022 3:44 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大家生活中，经常用“智障”来互相调侃，但你知道真正的智障群体是什么样吗？其实“智障”也是分级别的，有一种叫做“边缘智力”，指的是介于平常智力和低下智力之间的一种智力水平，属于轻度智力障碍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [手机厂商们不送充电头的做法可能会让环保的初衷适得其反](https://www.cnbeta.com/articles/tech/1301907.htm) | Mon Aug 08 2022 3:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;厂商不送充电头就是环保吗？安卓手机编辑Calvin Wankhede经过一段时间的观察发现，厂商们不送充电头的做法，可能会让环保的初衷适得其反。他的理由在于，如今各家手机企业都专注于开发自由的快充协议，这些协议并不互相兼容。虽然大家都是USB-C接口，但对于那些开箱不带专用充电头的手机，你用家里的兼容头，很可能距离理论峰值功率很远。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
