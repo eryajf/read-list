@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [为防对手偷窥操作 电竞选手将手藏在纸箱里比赛](https://hot.cnbeta.com/articles/game/1302163.htm) | Mon Aug 08 2022 1:55 PM 
+- 🕯 [英伟达预计第二季度营收67亿美元 游戏需求低迷致环比下滑19%](https://www.cnbeta.com/articles/tech/1302165.htm) | Mon Aug 08 2022 3:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;英伟达（Nvidia）今日发布预警，称由于游戏业务低迷，第二季度营收环比将下滑19%，导致公司股价在早盘交易中下跌约5%。今日，英伟达发布了初步的第二季度业绩。营收预计为67亿美元，环比下滑19%，同比增长3%，主要因为游戏业务表现低迷。该营收低于英伟达之前预期的81亿美元，以及分析师平均预期的81亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [为防对手偷窥操作 电竞选手将手藏在纸箱里比赛](https://hot.cnbeta.com/articles/game/1302163.htm) | Mon Aug 08 2022 1:55 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;EVO 2022已在火热进行当中，其中一些职业选手为最大程度保证竞技的公平性，使用了各种方法避免对手偷看自己手部的操作。近日，有国外网友在论坛晒出了一张比赛现场的照片，某位选手将纸箱套在了自己正在操作的手柄上，画面显得十分喜感。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《使命召唤19》新加坡6v6多人地图预览视频](https://hot.cnbeta.com/articles/game/1302161.htm) | Mon Aug 08 2022 1:47 PM 
+- 💂 [《使命召唤19》新加坡6v6多人地图预览视频](https://hot.cnbeta.com/articles/game/1302161.htm) | Mon Aug 08 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《使命召唤19：现代战争2》发布6v6地图“Marina Bay Grand Prix”的预览预告片。Marina Bay是新加坡滨海湾赛道，是F1新加坡大奖赛的举办地。IW表示即将到来的BETA公测将有多个6v6地图，而新加坡滨海湾赛道是玩家将可以首次体验的新地图之一。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [印度拟将中国大陆手机制造商逐出低端市场](https://www.cnbeta.com/articles/tech/1302159.htm) | Mon Aug 08 2022 1:46 PM 
+- 🚀 [印度拟将中国大陆手机制造商逐出低端市场](https://www.cnbeta.com/articles/tech/1302159.htm) | Mon Aug 08 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月8日，据台媒《经济日报》援引彭博社的报道称，印度打算限制中国大陆智能手机生产商出售价格在12000卢比（150美元）以下的设备，以推动印度国内苦苦挣扎的手机产业发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [阿里巴巴：自愿转换为于香港联交所双重主要上市](https://www.cnbeta.com/articles/tech/1302157.htm) | Mon Aug 08 2022 1:46 PM 
+- 🎊 [阿里巴巴：自愿转换为于香港联交所双重主要上市](https://www.cnbeta.com/articles/tech/1302157.htm) | Mon Aug 08 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据阿里巴巴发布的公告显示，该公司已向香港联交所申请将公司于香港联交所主板的第二上市地位变更为主要上市。于2022年8月8日，香港联交所根据上市地位变更指引信发出转为主要上市申请收悉确认。本公司主要转换生效日期预计为2022年底前。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [波斯尼亚运营商泄露三星折叠屏新机Galaxy Flip4和Fold4配置细节](https://www.cnbeta.com/articles/tech/1302155.htm) | Mon Aug 08 2022 1:43 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;离三星的Unpacked活动只有两天时间了，但这并不意味着泄密事件就要结束了。波斯尼亚运营商m:tel提前列出了Galaxy Z Fold4和Galaxy Z Flip4折叠机，以供提前预订，并透露了它们的核心规格和其他一些细节。据说这两款设备将于8月27日开始公开销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
