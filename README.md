@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [禅意单词 - 简约的单词本，支持安卓与iOS](https://xinquji.com/posts/178421?utm_campaign=xinquji-rss) | Mon Aug 08 2022 8:15 AM 
+- 👀 [Workspaces - 来自创意人士的工作空间集合](https://xinquji.com/posts/178562?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     简约的单词本，支持安卓与iOS  
+     来自创意人士的工作空间集合  
     </details> 
 
-- 🥷 [Exacto For Figma - 在 Figma 中快速创建社交媒体框架](https://xinquji.com/posts/178542?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:14 AM 
+- 🥷 [ironov.ai - 一个独特的品牌标识，在几秒钟内生成](https://xinquji.com/posts/178561?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     在 Figma 中快速创建社交媒体框架  
+     一个独特的品牌标识，在几秒钟内生成  
     </details> 
 
-- 💼 [Joyline - 每月将打印的照片交付给您的亲人](https://xinquji.com/posts/178541?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:12 AM 
+- 💼 [Easier Gradients For Figma - 使在 Figma 中使用渐变变得更容易](https://xinquji.com/posts/178560?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     每月将打印的照片交付给您的亲人  
+     使在 Figma 中使用渐变变得更容易  
     </details> 
 
-- 🦅 [Carbos - 糖尿病患者的碳水化合物计数变得容易](https://xinquji.com/posts/178540?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:12 AM 
+- 🦅 [Where Should I Eat? - 餐厅的火种，在您所在的地区找到您的渴望](https://xinquji.com/posts/178559?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     糖尿病患者的碳水化合物计数变得容易  
+     餐厅的火种，在您所在的地区找到您的渴望  
     </details> 
 
-- 😺 [hhhue - 精心挑选的精美调色板](https://xinquji.com/posts/178539?utm_campaign=xinquji-rss) | Mon Aug 08 2022 6:10 AM 
+- 😺 [Instagreen - 在 Instagram 上假装不环保的生活](https://xinquji.com/posts/178558?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     精心挑选的精美调色板  
+     在 Instagram 上假装不环保的生活  
     </details> 
 <!-- xinquji:END -->
