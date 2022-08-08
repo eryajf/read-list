@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [雷声大雨点小 Netflix游戏业务只吸引了不到1%的订阅者](https://hot.cnbeta.com/articles/game/1302129.htm) | Mon Aug 08 2022 12:33 PM 
+- 🕯 [Unity选择微软Azure作为其云计算合作伙伴](https://www.cnbeta.com/articles/tech/1302153.htm) | Mon Aug 08 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据应用分析公司Apptopia的新数据，Netflix的移动游戏平台自去年11月推出以来，只有不到1%的Netflix用户参与其中（通过CNBC）。Netflix游戏包括在每个Netflix订阅中，允许用户在其移动设备上玩一些游戏。游戏作为单独的应用程序在iOS应用商店发布，而完整的游戏目录（目前有24个游戏）则保留在Netflix应用程序中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大科技领域的云战略合作关系并不罕见。早在2021年11月，世嘉宣布它正在考虑与微软Azure建立这样的合作关系，在Super Games计划下，在&amp;quot;下一代开发环境&amp;quot;中构建大型游戏。今天，另一个游戏大亨Unity也宣布与微软Azure在云上的合作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [休会期临近 美国国会审议大科技反垄断法案的时间已经所剩无几](https://www.cnbeta.com/articles/tech/1302127.htm) | Mon Aug 08 2022 12:29 PM 
+- 💼 [国产GPU大厂景嘉微半年净利润1.25亿元 旗下产品大卖](https://www.cnbeta.com/articles/tech/1302151.htm) | Mon Aug 08 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;旨在防止大型科技公司偏袒自己的服务的两党反垄断法案面临挫折，因为国会在8月的休会期间不会进行任何投票。这使得人们怀疑国会是否有足够的支持来通过《美国选择和创新法案》成为法律。&lt;/strong&gt;参议院多数党领袖参议员查克-舒默在7月说，该法案仍然是&amp;quot;高度优先事项&amp;quot;，但当时并没有获得所需的60票。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为国产GPU大厂，景嘉微今晚公布2022年半年度报告，公司实现营业收入5.44亿元，同比增长14.47%；归属于上市公司股东的净利润1.25亿元，同比下降0.86%。&lt;strong&gt;报告期内营业收入增长系图形显控领域产品与小型专业化雷达领域产品收入稳定增加，公司图形显控领域产品营业收入2.63亿元，营业收入比上年同期增长25.36%，毛利率72.17%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马来西亚银行短暂出现Apple Pay推广信息](https://www.cnbeta.com/articles/tech/1302125.htm) | Mon Aug 08 2022 12:26 PM 
+- 💂 [苹果公司从根本上减少了对技术和人才公司的收购](https://www.cnbeta.com/articles/tech/1302149.htm) | Mon Aug 08 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;马来西亚的一家银行错误地提前宣布Apple Pay已经通过其网站推出，在意识到消息走漏后，这家银行的营销推广信息已经迅速从公众的视野中撤出。&lt;/strong&gt;引入对Apple Pay的支持对通常对于一家银行和金融机构来说是一个很大的收获，这也让该支付平台继续在全球范围内缓慢传播。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果很少进行像2014年收购Beats那样的高成本、高知名度的收购。尽管如此，直到现在，它一直在稳步和定期地收购公司。但根据新的监管文件，苹果在2020年购买的公司比2021年和2022年迄今为止购买的公司多七倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Intel Arc A750实测表现超RTX 3060 2K畅玩《控制》](https://www.cnbeta.com/articles/tech/1302123.htm) | Mon Aug 08 2022 12:23 PM 
+- 🚀 [门店数超星巴克 利润扭亏为盈 瑞幸咖啡Q2大赚32亿元](https://www.cnbeta.com/articles/tech/1302147.htm) | Mon Aug 08 2022 1:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着Intel&amp;nbsp;Arc&amp;nbsp;A系列桌面显卡发布时间将近，这些显卡的游戏性能也在逐渐披露，前不久Intel官方才放出了A750运行《死亡搁浅》时的游戏帧数，分辨率设置为2K，默认配置状态下，A750的帧率在80到100FPS之间&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月8日消息，今日，瑞幸咖啡公布了2022年第二季度财报，财报显示，&lt;strong&gt;第二季度瑞幸咖啡总净收入32.987亿元，同比增长72.4%。&lt;/strong&gt;根据美国会计准则（CAAP）下瑞幸咖啡第二季度营业利润为2.416亿元，美国会计准则（GAAP）下营业利润率为7.3%，而2021年同期为亏损0.475亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Bluu海鲜公司推出首批实验室培育的鱼类产品](https://www.cnbeta.com/articles/science/1302121.htm) | Mon Aug 08 2022 12:20 PM 
+- 🎊 [Galaxy Z Fold 4的营销材料和技术规格在发布前完全泄露](https://www.cnbeta.com/articles/tech/1302145.htm) | Mon Aug 08 2022 1:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Bluu Seafood是一家开发 &amp;quot;实验室培育&amp;quot;鱼的德国公司，正在展示其第一批成品，&lt;/strong&gt;因为它准备开始为亚洲、欧洲和北美主要市场监管审批程序进行准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Galaxy Z Fold 4距离正式发布只有两天时间，毫无疑问，三星未能将该设备有效保密，因为关于这款手机的几乎所有信息都已泄露，而其姐妹机型的信息也将在两天后发布。&lt;strong&gt;我们得到的最新泄漏信息揭示了即将到来的可折叠手机的营销材料，以及所有其他相关信息，如技术规格和一些你在过去已经看到的渲染图。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
