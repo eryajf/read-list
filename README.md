@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [多标签页浏览，如何才能游刃有余？](https://sspai.com/post/75031) | Sun Aug 07 2022 7:00 AM 
+- 👹 [派早报：亚马逊收购 iRobot、加州交管局指控特斯拉虚假宣传自动驾驶等](https://sspai.com/post/75029) | Mon Aug 08 2022 12:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可能错过的新鲜事亚马逊收购扫地机器人Roomba制造商iRobot8月6日，亚马逊宣布，将以每股61美元、总价17亿美元，全现金收购扫地机器人Roomba的制造商iRobot。这也是亚马逊历史上交易 ...&lt;a href=&quot;https://sspai.com/post/75029&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [多标签页浏览，如何才能游刃有余？](https://sspai.com/post/75031) | Sun Aug 07 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     积压了那么多标签页，交给浏览器还是交给浏览器扩展？&lt;a href=&quot;https://sspai.com/post/75031&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [跨平台、功能足、体验好：我为什么在用 iA Writer 写作](https://sspai.com/post/75025) | Sun Aug 07 2022 4:32 AM 
+- 🤭 [跨平台、功能足、体验好：我为什么在用 iA Writer 写作](https://sspai.com/post/75025) | Sun Aug 07 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
     如果你是一名习惯使用 iA Writer 的长期用户，可能会觉得它虽然清冷如水，但就是不可或缺，任何同类应用都无法替代。可以说，iA Writer 凭借极简美观的界面、恰到好处的功能，牢牢占据着自己在编辑器类目当中的一席之地。&lt;a href=&quot;https://sspai.com/post/75025&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [任意键｜第九世代宝可梦；彩虹六号出手游；骗情怀的仙剑七及其他](https://sspai.com/post/75012) | Sat Aug 06 2022 6:59 AM 
+- 🥸 [任意键｜第九世代宝可梦；彩虹六号出手游；骗情怀的仙剑七及其他](https://sspai.com/post/75012) | Sat Aug 06 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
     周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。🎮玩游戏宝可梦｜NS新作《宝可梦朱/紫》将于11月18日发售在《宝 ...&lt;a href=&quot;https://sspai.com/post/75012&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [离开书本几年后，我开始重新思考读书这件事](https://sspai.com/post/75009) | Sat Aug 06 2022 3:00 AM 
+- 🙉 [离开书本几年后，我开始重新思考读书这件事](https://sspai.com/post/75009) | Sat Aug 06 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     读书这件事因人而异，也因时而异。如果是休假在家，睡前时光或随便一读，那么大可不必考虑任何方式方法，已有的读书习惯则会潜移默化得帮助到你。总之读书这件事并不复杂，先读起来就对了。&lt;a href=&quot;https://sspai.com/post/75009&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/75007) | Fri Aug 05 2022 9:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[动画]邪神与厨二病少女X、[韩剧]黑话律师、[纪录片]光影与魔术、[台剧]我愿意、[动画]风都侦探、[电影]独行月球、[美剧]中年失恋日记、[动画]影宅第二季、[动画]狂 ...&lt;a href=&quot;https://sspai.com/post/75007&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
