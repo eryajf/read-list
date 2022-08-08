@@ -333,19 +333,19 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [安全应急响应，用魔法打败魔法！](https://www.freebuf.com/news/341305.html) | Mon Aug 08 2022 9:20 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
+
 - 🦄 [针对Windows和Linux ESXi服务器，GwisinLocker勒索软件发起勒索攻击](https://www.freebuf.com/news/341293.html) | Mon Aug 08 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
     GwisinLocker勒索软件系列针对具有Windows和Linux加密器的韩国医疗保健、工业和制药公司发动勒索攻击. 
     </details> 
 
-- 🦄 [微软365网络钓鱼攻击中滥用Snapchat和Amex网站](https://www.freebuf.com/news/341287.html) | Mon Aug 08 2022 7:17 AM 
+- 🦅 [微软365网络钓鱼攻击中滥用Snapchat和Amex网站](https://www.freebuf.com/news/341287.html) | Mon Aug 08 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者在一系列网络钓鱼攻击中滥用 Snapchat 和美国运通网站上的开放重定向，以期窃取受害者 Microsoft 365 凭证。 
-    </details> 
-
-- 🦅 [从BlackHat来看JDBC Attack](https://www.freebuf.com/vuls/341270.html) | Mon Aug 08 2022 4:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    JDBC attack 
     </details> 
 
 - 🪄 [NHS遭网络攻击，系统出现重大故障](https://www.freebuf.com/news/341264.html) | Mon Aug 08 2022 3:07 AM 
