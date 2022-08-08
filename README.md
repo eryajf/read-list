@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AMD Zen3线程撕裂者零售开卖：64核心4.4万元](https://www.cnbeta.com/articles/tech/1302173.htm) | Mon Aug 08 2022 4:23 PM 
+- 🕯 [《新·奥特曼》中字预告 9月16日台湾上映](https://hot.cnbeta.com/articles/comic/1302177.htm) | Mon Aug 08 2022 5:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《新·奥特曼》公开了首支中字预告，该片预计于9月16日在台湾上映，由庵野秀明编剧、樋口真嗣执导。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《新·奥特曼》中字预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1302177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [英特尔推出专为工作站和专业应用程序设计的Arc Pro GPU](https://www.cnbeta.com/articles/tech/1302175.htm) | Mon Aug 08 2022 4:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;英特尔今天推出了Arc Pro系列GPU，主要为强大的桌面工作站和笔记本电脑而设计。英特尔Arc Pro A40和A50都将用于工作站，而A30M将用于专注于专业的笔记本电脑。所有这三款GPU都能够进行基于硬件的光线追踪和AV1硬件加速，且其设计考虑到了人工智能任务和Adobe Premiere Pro等创作者应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [AMD Zen3线程撕裂者零售开卖：64核心4.4万元](https://www.cnbeta.com/articles/tech/1302173.htm) | Mon Aug 08 2022 4:23 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年3月份，AMD正式发布了基于Zen3架构的锐龙线程撕裂者PRO 5000WX系列，但联想工作站独占首发，直到6月底AMD才宣布开放给更多OEM/SI厂商，并将在年底推向零售市场。结果，AMD没让我们等那么久。今天，新一代撕裂者单独上市了！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [全无人驾驶出租车已在重庆武汉上路 一键就能启动](https://www.cnbeta.com/articles/tech/1302171.htm) | Mon Aug 08 2022 3:39 PM 
+- 🚀 [全无人驾驶出租车已在重庆武汉上路 一键就能启动](https://www.cnbeta.com/articles/tech/1302171.htm) | Mon Aug 08 2022 3:39 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月8日消息，据央视财经频道报道，近年来，随着自动驾驶技术的快速发展，商业化的应用也正在不断落地。目前重庆、武汉两地率先发布了自动驾驶全无人商业化试点政策，从今天开始，&lt;strong&gt;在武汉市经开区和重庆市永川区的特定区域内，就可以打到全无人的自动驾驶出租车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [360“卸载不下去”引热议 周鸿祎重申是谣言：步骤繁琐出于安全考虑](https://www.cnbeta.com/articles/tech/1302169.htm) | Mon Aug 08 2022 3:38 PM 
+- 🎊 [360“卸载不下去”引热议 周鸿祎重申是谣言：步骤繁琐出于安全考虑](https://www.cnbeta.com/articles/tech/1302169.htm) | Mon Aug 08 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近360 CEO周鸿祎频频发言引起了网友的广泛关注，当然其中也涉及一些比较敏感的话题。近日，新东方创始人俞敏洪与360集团创始人周鸿祎进行了一场直播对话，探讨了不少有关360的话题。在直播中，有网友询问“怎么用360卸载360”，俞敏洪在旁边发问“这句话是啥意思，是不是装了360就卸载不下去了”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [软银已抛空所持Uber全部股份：愿景基金持续亏损急需现金](https://www.cnbeta.com/articles/tech/1302167.htm) | Mon Aug 08 2022 3:36 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;软银集团今日披露，已出售了所持网约车巨头Uber的剩余股份。此举正值软银希望在其投资部门亏损不断加剧的情况下筹集现金。今日早些时候，软银发布了截至6月 30日的2022财年第一季度财报，净亏损为3.16万亿日元（约合234亿美元），连续第二个季度创下有史以来最大的季度亏损。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [英伟达预计第二季度营收67亿美元 游戏需求低迷致环比下滑19%](https://www.cnbeta.com/articles/tech/1302165.htm) | Mon Aug 08 2022 3:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英伟达（Nvidia）今日发布预警，称由于游戏业务低迷，第二季度营收环比将下滑19%，导致公司股价在早盘交易中下跌约5%。今日，英伟达发布了初步的第二季度业绩。营收预计为67亿美元，环比下滑19%，同比增长3%，主要因为游戏业务表现低迷。该营收低于英伟达之前预期的81亿美元，以及分析师平均预期的81亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
