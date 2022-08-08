@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [雷军职业生涯最重要感悟：人生低谷还得靠自己](https://www.cnbeta.com/articles/tech/1301955.htm) | Mon Aug 08 2022 6:24 AM 
+- 🕯 [国家广播电视总局就《广播电视和网络视听节目制作经营管理规定（征求意见稿）》 公开征求意见](https://www.cnbeta.com/articles/tech/1301985.htm) | Mon Aug 08 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，雷军发布了2022年度演讲的预告，&lt;strong&gt;以他在1996年经历的第一次人生低谷为引，分享了他职业生涯中最重要的感悟，并向观众发出了邀请。&lt;/strong&gt;在1996年，雷军与数十位高水平程序员，耗资200多万开发出了WPS、表格处理、操作系统等一系列“盘古”组件，但却无人问津，原计划能卖20000套，最后才卖出不到2000套。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据广电总局网站8月8日消息，为贯彻落实国务院“放管服”改革精神，进一步规范广播电视和网络视听节目制作经营活动，确保广播电视和网络视听节目正确导向，促进行业健康有序发展，更好满足人民群众精神文化生活需求，根据《中华人民共和国立法法》《规章制定程序条例》，国家广播电视总局在《广播电视节目制作经营管理规定》（原国家广播电影电视总局令第34号）修订工作基础上，起草了《广播电视和网络视听节目制作经营管理规定（征求意见稿）》，现向社会公开征求意见。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [淘宝上线方言语音搜功能：支持识别东北话、河南话等](https://www.cnbeta.com/articles/tech/1301953.htm) | Mon Aug 08 2022 6:23 AM 
+- 💼 [三款AMD锐龙5000 Pro系列AM4台式商用处理器SKU曝光](https://www.cnbeta.com/articles/tech/1301983.htm) | Mon Aug 08 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于大多中老年人群来说，日常使用App时语音一般是常用的交流方式，包括语音输入法、语音搜索等等。今日，@万能的淘宝 官微宣布淘宝上线方言语音搜功能，&lt;strong&gt;能够听的懂方言，只要会说天津话、东北话、山东话、河南话、河北话，&lt;/strong&gt;打开淘宝，点击语音搜小话筒，动动嘴的功夫就可以轻松购物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;除了即将上市的 Zen 4 锐龙 7000 系列台式 AM5 CPU，AMD 显然也没有放弃为嵌入式 / 商用市场开发更多 AM4 处理器。&lt;/strong&gt;早些时候，知名爆料人 HXL（@9550pro）在 Twitter 上晒出了来自联想官网的截图链接，表明 ThinkStation P358 塔式商用主机将可选配 AMD 锐龙 R9-5945 / R7-5845 / R5-5645、以及现有的 R3-4350G 等“Pro”版 CPU 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [吉利几何新车定名G6、M6 双双搭载华为鸿蒙智能座舱](https://www.cnbeta.com/articles/tech/1301951.htm) | Mon Aug 08 2022 6:22 AM 
+- 💂 [8999起嫌贵？苹果测试中的iPhone 14 Pro 2TB版价格更感人](https://www.cnbeta.com/articles/tech/1301981.htm) | Mon Aug 08 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月8日，吉利几何汽车正式公布了即将发布新车的名称：分为两款，&lt;strong&gt;叫做G6和M6&lt;/strong&gt;。值得注意的是，这两款新车都将用上基于华为HarmonyOS开发的几何数智座舱，且售价会落在20万元以内。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年苹果要发布的iPhone 14系列，其中包含了4款机型，但是mini版本被抛弃，在定价上这次也跟之前不太一样。有供应链称，iPhone 14标准版这次并不会涨价，依然维持前代的5999元起步价。而iPhone 14 Pro系列两款机型，这次将大概率迎来涨价，其中iPhone 14 Pro预计售价8999起步，iPhone 14 Pro Max预计9999起步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Twitter最近曝光的一个系统漏洞可能会暴露匿名账户所有者的身份](https://www.cnbeta.com/articles/tech/1301949.htm) | Mon Aug 08 2022 6:19 AM 
+- 🚀 [电动车不能充满电了？博主透露所有快充桩充到95%自动断电](https://www.cnbeta.com/articles/tech/1301979.htm) | Mon Aug 08 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;最近，Twitter上一个被利用的漏洞让不良分子掌握了不同账户所有者的数据库，这对那些希望在平台上保持身份未知的个人来说是个危险。&lt;/strong&gt;“由于这个漏洞，如果有人向Twitter的系统提交电子邮件地址或电话号码，Twitter的系统会告诉这个人所提交的电子邮件地址或电话号码与哪个Twitter账户有关，如果有的话，”Twitter在上周五的一篇博文中承认了这个案例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，有博主曝光了一条小鹏汽车发送的充电完成短信，文中称：为了充电安全并响应主管部门对充电安全工作的指导，本站充电设施SOC上限阈值为95%。现充电已完成，请驶离车位以免被收取占位费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《街头霸王6》正式公布新角色宣传片：金佰莉和韩蛛俐](https://hot.cnbeta.com/articles/game/1301947.htm) | Mon Aug 08 2022 6:19 AM 
+- 🎊 [上扬软件辟谣：中芯京城正常推进 CIM项目仍在进行中](https://www.cnbeta.com/articles/tech/1301977.htm) | Mon Aug 08 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;卡普空正式公布了《街头霸王6》新角色“金佰莉（Kimberly）”和“韩蛛俐”的宣传片，继承了武神流忍术的“金佰莉”及残虐的享乐主义者“韩蛛俐”加入《街头霸王6》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1301947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月8日，新浪科技报道称中芯国际软件项目停摆，供应商上扬软件无法满足12英寸厂CIM系统要求，上百人团队解散。受到该消息影响，外界不仅误以为上扬软件运营陷入困境，甚至猜想中芯国际北京项目因此停摆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
