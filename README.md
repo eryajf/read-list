@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [VinFast将新增8,000工人以提升产量](https://www.cnbeta.com/articles/tech/1301903.htm) | Mon Aug 08 2022 3:26 AM 
+- 🕯 [新款宝马3系官图发布：灵魂“鸡腿档杆”没了](https://www.cnbeta.com/articles/tech/1301915.htm) | Mon Aug 08 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;越南汽车制造商VinFast正在寻求为其位于越南的电动汽车工厂再招聘8，000名员工。当&lt;/strong&gt;前该公司正在加紧生产，以便在今年年底前向美国消费者交付其首款纯电动SUV。越南最大的企业集团Vingroup旗下的VinFast目前员工总数为6，000人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月8日，华晨宝马正式发布了新款宝马3系的官图，并宣布称新车将于今年成都车展上市（8月26日开幕）。作为中期改款车型，新款宝马3系在&lt;strong&gt;内外设计、智能交互和车辆配置&lt;/strong&gt;等多方面进行了提升。从官图来看，新款宝马3系将采用最新的家族化外观，配有星幕设计的智能降阻进气格栅以及全新样式的“天使眼”LED大灯。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [罗永浩退网创业，交个朋友加速谋求“曲线上市”？](https://www.cnbeta.com/articles/tech/1301901.htm) | Mon Aug 08 2022 3:25 AM 
+- 💼 [苹果镜头供应商因不满被唱衰开炮郭明錤 后者回应](https://www.cnbeta.com/articles/tech/1301913.htm) | Mon Aug 08 2022 3:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;交个朋友加快资本化。&lt;/strong&gt;今年六月，50岁的罗永浩开启“最后一次创业”，市场对交个朋友是否能保持住抖音顶流MCN机构颇为关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;天风国际分析师郭明錤今日发推文回应台媒和台湾“镜头二哥”玉晶光公司的质疑言论，称台湾媒体工商时报8月4日的报道和玉晶光的调查有误，来源不可靠。&lt;/strong&gt;“台湾媒体工商时报记者陈柔蓁，于8月4日出版关于我的错误报导，来源引述自台湾公司玉晶光的错误调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [当特斯拉产能迎来解放 马斯克的野心又将漫向何方？](https://www.cnbeta.com/articles/tech/1301899.htm) | Mon Aug 08 2022 3:25 AM 
+- 💂 [为新款显卡让路？EVGA非公版RTX 3090Ti FTW3价格近乎腰斩](https://www.cnbeta.com/articles/tech/1301911.htm) | Mon Aug 08 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉2022年股东大会日前在得州奥斯汀超级工厂举行。此次股东大会上马斯克的一番应答，可以用“全面开花”来形容。除了宣布拆股以及继续扩大产能的“豪言壮志”，马斯克对自动驾驶、电池、机器人、可持续能源一一做出了回应。他介绍，未来特斯拉将在可持续发展的多个领域有更多动作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;有迹象表明，NVIDIA 主板合作伙伴迫切需要清理其高端 GeForce RTX 30 系列“Ampere”显卡库存，以便于为即将到来的新款显卡让路。&lt;strong&gt;EVGA 非公版 GeForce RTX 3090 Ti FTW3 目前的定价为 1149 美元，和上市价（2149 美元）几乎可以说腰斩。&lt;/strong&gt;这比 2022 年第 2 季度“矿难”前该卡的零售价低了近 1500 美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [国内首个新能源整车能效试验室亦庄落成](https://www.cnbeta.com/articles/science/1301897.htm) | Mon Aug 08 2022 3:25 AM 
+- 🚀 [轻度智障小伙考上大学做UP主：凭努力拿下多门证书 希望为群体正名](https://www.cnbeta.com/articles/tech/1301909.htm) | Mon Aug 08 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，国家新能源汽车技术创新中心与西门子共同建设的整车能效开发试验室在北京经开区落成运营。&lt;/strong&gt;这是国内第一个针对新能源车的整车能效开发试验室，水准对标国际一流。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1301897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大家生活中，经常用“智障”来互相调侃，但你知道真正的智障群体是什么样吗？其实“智障”也是分级别的，有一种叫做“边缘智力”，指的是介于平常智力和低下智力之间的一种智力水平，属于轻度智力障碍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [法国遭遇创纪录干旱：逾百市镇缺乏饮用水 玉米收成恐降近两成](https://www.cnbeta.com/articles/tech/1301895.htm) | Mon Aug 08 2022 3:24 AM 
+- 🎊 [手机厂商们不送充电头的做法可能会让环保的初衷适得其反](https://www.cnbeta.com/articles/tech/1301907.htm) | Mon Aug 08 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周日，法国迎来了今夏以来的第四波热浪。今年这场该国有纪录以来最严重的干旱，正使得大量干涸的村庄缺乏安全的饮用水。同时，干旱所导致的核电产出骤降、农作物大范围欠收，也正在多个领域威胁着这一欧洲大陆第二大经济体的运转。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;厂商不送充电头就是环保吗？安卓手机编辑Calvin Wankhede经过一段时间的观察发现，厂商们不送充电头的做法，可能会让环保的初衷适得其反。他的理由在于，如今各家手机企业都专注于开发自由的快充协议，这些协议并不互相兼容。虽然大家都是USB-C接口，但对于那些开箱不带专用充电头的手机，你用家里的兼容头，很可能距离理论峰值功率很远。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1301907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
