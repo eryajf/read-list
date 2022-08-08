@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Intel两大FPGA产品部署中国：性能升45％、功耗降40％](https://www.cnbeta.com/articles/tech/1302095.htm) | Mon Aug 08 2022 11:01 AM 
+- 🕯 [雷声大雨点小 Netflix游戏业务只吸引了不到1%的订阅者](https://hot.cnbeta.com/articles/game/1302129.htm) | Mon Aug 08 2022 12:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel今天官方宣布，位于重庆的Intel FPGA创新中心已经全新部署了Intel Agilex、Stratix 10 NX两大产品。Agilex FPGA拥有10nm SuperFin制程技术、Chiplet小芯片设计、3D SiP立体封装等，支持DDR5、PCIe 5.0，在生产、工艺、封装、互连等方面较前代产品都有明显进步，可用于数据中心的5G、AI场景，&lt;strong&gt;相比于上代Stratix 10可以将性能提高45％，功耗则降低40％。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据应用分析公司Apptopia的新数据，Netflix的移动游戏平台自去年11月推出以来，只有不到1%的Netflix用户参与其中（通过CNBC）。Netflix游戏包括在每个Netflix订阅中，允许用户在其移动设备上玩一些游戏。游戏作为单独的应用程序在iOS应用商店发布，而完整的游戏目录（目前有24个游戏）则保留在Netflix应用程序中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [毕业生入职次日就遭毁约？长城汽车回应称并无裁员计划](https://www.cnbeta.com/articles/tech/1302093.htm) | Mon Aug 08 2022 11:00 AM 
+- 💼 [休会期临近 美国国会审议大科技反垄断法案的时间已经所剩无几](https://www.cnbeta.com/articles/tech/1302127.htm) | Mon Aug 08 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，脉脉平台上一则有关“长城毁约校招生”的消息引发众多网友关注。据该应届生发帖称，自己是一名本科毕业生，毕业于某211大学。在校招期间曾收到3家公司的offer，&lt;strong&gt;因为长城总部离他家近，最后选择了入职长城汽车，但是在入职第二天遭到解约。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;旨在防止大型科技公司偏袒自己的服务的两党反垄断法案面临挫折，因为国会在8月的休会期间不会进行任何投票。这使得人们怀疑国会是否有足够的支持来通过《美国选择和创新法案》成为法律。&lt;/strong&gt;参议院多数党领袖参议员查克-舒默在7月说，该法案仍然是&amp;quot;高度优先事项&amp;quot;，但当时并没有获得所需的60票。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微信一周只能发7条朋友圈？微信：不实消息](https://www.cnbeta.com/articles/tech/1302091.htm) | Mon Aug 08 2022 10:59 AM 
+- 💂 [马来西亚银行短暂出现Apple Pay推广信息](https://www.cnbeta.com/articles/tech/1302125.htm) | Mon Aug 08 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月8日晚间消息，此前，有消息称“微信将限制朋友圈发布次数，未来可能一周只能发七条”。对此，微信安全中心发布声明称，该内容为不实消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;马来西亚的一家银行错误地提前宣布Apple Pay已经通过其网站推出，在意识到消息走漏后，这家银行的营销推广信息已经迅速从公众的视野中撤出。&lt;/strong&gt;引入对Apple Pay的支持对通常对于一家银行和金融机构来说是一个很大的收获，这也让该支付平台继续在全球范围内缓慢传播。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [全资收购高端妇儿医院 财大气粗的字节能做好医疗吗？](https://www.cnbeta.com/articles/tech/1302089.htm) | Mon Aug 08 2022 10:57 AM 
+- 🚀 [Intel Arc A750实测表现超RTX 3060 2K畅玩《控制》](https://www.cnbeta.com/articles/tech/1302123.htm) | Mon Aug 08 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，字节跳动完成对高端私立医疗机构美中宜和的全资收购。天眼查App显示，收购完成后，美中宜和目前共有两大股东，其一为由抖音全资控股的小荷健康科技（北京）有限公司，另外一位股东为小荷健康香港有限公司，两者持股比例合计100%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着Intel&amp;nbsp;Arc&amp;nbsp;A系列桌面显卡发布时间将近，这些显卡的游戏性能也在逐渐披露，前不久Intel官方才放出了A750运行《死亡搁浅》时的游戏帧数，分辨率设置为2K，默认配置状态下，A750的帧率在80到100FPS之间&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [科学家设法延长疫苗的保质期：就像蛋白质的&quot;特百惠&quot;](https://www.cnbeta.com/articles/science/1302087.htm) | Mon Aug 08 2022 10:55 AM 
+- 🎊 [Bluu海鲜公司推出首批实验室培育的鱼类产品](https://www.cnbeta.com/articles/science/1302121.htm) | Mon Aug 08 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在所有生产的疫苗中，有近一半被浪费掉了。这是因为将它们运送到世界不同地区涉及许多物流方面的挑战。另一个主要因素是，大多数疫苗从生产线到注射到人体手臂都需要严格的温度管控。&lt;/strong&gt;在最好的情况下，保持冷（供应）链上的温度恒定也是一项挑战。此外，在撒哈拉以南非洲和其他发展中地区，例如，有限的交通基础设施和不可靠的电力服务使提供可行疫苗的巨大挑战更加复杂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Bluu Seafood是一家开发 &amp;quot;实验室培育&amp;quot;鱼的德国公司，正在展示其第一批成品，&lt;/strong&gt;因为它准备开始为亚洲、欧洲和北美主要市场监管审批程序进行准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
