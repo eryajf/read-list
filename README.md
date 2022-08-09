@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [梅赛德斯-奔驰推出培训计划以深化员工的EV知识](https://www.cnbeta.com/articles/tech/1302383.htm) | Tue Aug 09 2022 3:37 AM 
+- 🕯 [macOS端Chrome即将允许用户使用Touch ID访问/编辑/复制已保存密码](https://www.cnbeta.com/articles/tech/1302393.htm) | Tue Aug 09 2022 4:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;德国豪华汽车制造商梅赛德斯-奔驰正在推出Mercedes EQ体验，这是一个沉浸式的电动车培训计划以加深员工的知识。&lt;/strong&gt;该项目旨在围绕其新的电动车子品牌为梅赛德斯团队成员提供能量、教育和电动化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Windows 端 Chrome 浏览器在用户尝试查看和编辑已保存的密码时候，需要用户输入设备密码。Google 现在正提高安全等级，提供了生物识别方式来验证用户身份。例如在笔记本上，用户可以使用指纹传感器来识别来访问密码。而现在在 macOS 设备上，用户即将可以使用 Touch ID 来访问这些密码。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [漫威《钢铁之心》剧场照泄露 新战甲和反派曝光](https://hot.cnbeta.com/articles/movie/1302381.htm) | Tue Aug 09 2022 3:33 AM 
+- 💼 [Google数据中心发生“电气事故” 三名电工严重烧伤](https://www.cnbeta.com/articles/tech/1302391.htm) | Tue Aug 09 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由小罗伯特·唐尼饰演的托尼·斯塔克已经在漫威电影宇宙去世，作为启动十年有余牵动许多粉丝心弦宏大篇章的首个超级英雄，钢铁侠的位置目前空了出来，但漫威已经有了对应的计划。《钢铁之心》于去年首次宣布，将由 Dominique Thorne 饰演女主角，新黑人女性超级英雄“钢铁之心”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1302381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据康瑟尔布拉夫斯警察局和 Google 的说法，&lt;strong&gt;位于美国爱荷华州康瑟尔布拉夫斯 &lpar;Council Bluffs&rpar;的 Google 数据中心发生“电气事故”后，有 3 名受重伤的电工送往当地医院就诊。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《FIFA 23》职业俱乐部演示预告公布 10月1日正式发售](https://hot.cnbeta.com/articles/game/1302379.htm) | Tue Aug 09 2022 3:32 AM 
+- 💂 [Binance宣布8月11日停用WazirX的链下加密资产转移通道](https://www.cnbeta.com/articles/tech/1302389.htm) | Tue Aug 09 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（8月9日），EA官方公布《FIFA 23》职业俱乐部官方实机演示预告，《FIFA 23》Steam国区10月1日发售，支持简中。《FIFA 23》将采用次世代HyperMotion2技术，并提供两倍的真实比赛数据捕捉。游戏将有超过6000个真实足球动画效果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Binance 首席通讯官 Patrick Hillmann 在周一接受采访时称 —— &lt;strong&gt;为保护客户利益，该公司将于 8 月 11 日停用“跨服登录 WazirX”的链下接口，并督促大家尽快将资产转移到 Binance 。&lt;/strong&gt;此前，Binance 与印度加密货币交易所 WazirX 陷入了“不愿承认收购”的所有权纠纷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [张平院士：破解6G演进的挑战 需大力发展原创通信技术](https://www.cnbeta.com/articles/tech/1302377.htm) | Tue Aug 09 2022 3:31 AM 
+- 🚀 [OneUI 5开测：通知托盘Quick Setting快捷方式从6个减少到5个](https://www.cnbeta.com/articles/tech/1302387.htm) | Tue Aug 09 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在世界5G大会的前瞻论坛上，中国工程院院士张平发表《发展5G及Beyond技术，使能双循环数字战略》的主题演讲。&lt;/strong&gt;他表示，6G发展正面临激烈的国际竞争格局，对新一轮技术创新和产业变革至关重要。中国、美国、芬兰、欧盟、日本、韩国等都在提前布局6G。他指出了全球和我国在6G研发中面临的挑战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，三星启动了基于 Android 13 的 OneUI 5 Beta 公测计划，目前已经邀请美国、日本、韩国等国家和地区的 Galaxy S22 系列用户进行测试。&lt;strong&gt;不过新版中有个不幸的调整：三星通知托盘中 Quick Setting 的快捷方式数量减少了 1 个。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [BBC举办游戏音乐会 游戏配乐成为主流“只是时间问题”](https://hot.cnbeta.com/articles/music/1302375.htm) | Tue Aug 09 2022 3:31 AM 
+- 🎊 [特斯拉为新车置换老客户提供半价购买FSD等福利](https://www.cnbeta.com/articles/tech/1302385.htm) | Tue Aug 09 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;此前我们曾报道 BBC 宣布今年 8 月 1 日举办游戏配乐主题的音乐会。&lt;/strong&gt;这是 BBC 首次举办以游戏为主题的音乐会，并且，此次音乐会还是由皇家爱乐乐团演奏的，游戏配乐也被主流大众逐渐接受为正统音乐的一种分支，GI.biz称这是非常值得游戏业界庆祝的又一个文化里程碑。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1302375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由 @Ray4Tesla 上月底在社交媒体上分享的截图可知，特斯拉面向中国市场推出了久违的新车购置福利。&lt;strong&gt;从即日起至 9 月 30 日，任意通过官方渠道成功置换新款 Model S、Model 3、Model X、Model Y 的老车主们，&lt;/strong&gt;可享半价购买 FSD（立省 32000 元）、赠送 15000 公里超充额度、以及价值 8000 元的家庭充电服务包。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
