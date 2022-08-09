@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照](http://www.mac52ipod.cn/post/apple-ios-iphone-app-bai-miao-zheng-jian-zhao.php) | Sun Aug 07 2022 2:31 PM 
+- 👨‍🏫 [Apple新闻之 Apple Pay 公交支持刷浙江台州公共交通卡了](http://www.mac52ipod.cn/post/apple-pay-transit-card-support-taizhou.php) | Tue Aug 09 2022 5:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	Apple Pay 公交支持浙江台州公共交通卡了。苹果用户可以在乘坐公交时直接刷手机或手表，Appley Pay 使用的 NFC 方案只需手机往读卡器上一靠，比扫二维码方便得多。&lt;/p&gt;&lt;p&gt;其实，Apple Pay 很久以前就通过互联互通卡支持全国几百个城市的公交卡。但支持本地公交卡有助于用户享受本地公交优惠。而且这次新增的浙江台州公共交通卡也是互联互通卡，到开通一卡通互联的其它 300 多个中国城市也能用。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6705&quot; border=&quot;0&quot; alt=&quot;Apple Pay 公交支持刷浙江台州公共交通卡了&quot; title=&quot;Apple Pay 公交支持刷浙江台州公共交通卡了&quot; /&gt;&lt;/p&gt;&lt;p&gt;iPhone XS、iPhone XS Max、iPhone XR 或更新机型用户，可以将公交卡设为「快捷交通卡」，手机没电自动关机 5 小时内依然可以刷交通卡。所以不用担心「上车后手机没电，没法下车/出站」。注意是自动关机，你长按电源键手动关机就不能刷卡出站了。&lt;/p&gt;&lt;p&gt;更多开卡方式、城市列表、支持设备等信息，看苹果中国官网关于 Apple Pay 公交卡的详细介绍吧 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/apple-pay/transit/&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/apple-pay/transit/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=applepay&quot; rel=&quot;tag&quot;&gt;applepay&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照](http://www.mac52ipod.cn/post/apple-ios-iphone-app-bai-miao-zheng-jian-zhao.php) | Sun Aug 07 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Mac技巧之用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）](http://www.mac52ipod.cn/post/james-webb-space-telescope-images-6k-mac-wallpapers.php) | Thu Aug 04 2022 3:26 PM 
+- 🦏 [Mac技巧之用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）](http://www.mac52ipod.cn/post/james-webb-space-telescope-images-6k-mac-wallpapers.php) | Thu Aug 04 2022 3:26 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Apple新闻之苹果公布 2022 财年第三季财报](http://www.mac52ipod.cn/post/apple-2022-q3-result.php) | Tue Aug 02 2022 3:30 AM 
+- 🚀 [Apple新闻之苹果公布 2022 财年第三季财报](http://www.mac52ipod.cn/post/apple-2022-q3-result.php) | Tue Aug 02 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [跨平台的播客电台 App：Moon FM](http://www.mac52ipod.cn/post/apple-ios-macos-windows-linus-podcast-app-moon-fm.php) | Sun Jul 31 2022 3:07 AM 
+- 🏊 [跨平台的播客电台 App：Moon FM](http://www.mac52ipod.cn/post/apple-ios-macos-windows-linus-podcast-app-moon-fm.php) | Sun Jul 31 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	最近在用 Moon FM 听播客，来自一位中国的开发者，界面还行，内置了几十万个电台，而且 iOS、Android、macOS、Windows、Linux 都支持，能在不同设备直接同步节目。&lt;/p&gt;&lt;p&gt;除了收藏、分享、下载、深色模式、CarPlay 等常见功能外，Moon FM 的睡眠模式定时自动关机功能挺适合睡前听播客，电脑版 Moon FM 还支持均衡器（EQ）调节。&lt;/p&gt;&lt;p&gt;各个平台的下载地址，直接看 Moon FM 官网吧，底部有下载链接集合 &lt;u&gt;&lt;a href=&quot;https://moon.fm/&quot; target=&quot;_blank&quot; title=&quot;Moon FM 官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://moon.fm/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;另外，Moon FM 的开发者最近急等用钱，在社交网络上发帖说有意出售自己开发的 App。大家能帮忙就帮忙吧。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=podcast&quot; rel=&quot;tag&quot;&gt;podcast&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Mac技巧之调整苹果电脑 LaunchPad 启动台里的软件图标大小和行数、列数](http://www.mac52ipod.cn/post/apple-mac-macos-tip-resize-app-icons-in-launchpad.php) | Fri Jul 29 2022 2:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果电脑 macOS 系统的 LaunchPad 启动台里，软件图标很大，看起来很臃肿，每屏能放的软件图标数量也有限。&lt;/p&gt;&lt;p&gt;看到这篇博客《&lt;u&gt;&lt;a href=&quot;https://xinle.co/2016/03/12/%e5%b0%8f%e6%8a%80%e5%b7%a7%ef%bc%9amac%e7%b3%bb%e7%bb%9f%e8%b0%83%e6%95%b4launchpad%e5%9b%be%e6%a0%87%e5%a4%a7%e5%b0%8f/&quot; target=&quot;_blank&quot; title=&quot;小技巧：Mac系统调整Launchpad图标大小&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;小技巧：Mac系统调整Launchpad图标大小&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;》，分享的方法很好用。我现在 LaunchPad 变得很清爽，而且一屏放下更多软件图标，找起来也不用来回翻页了。&lt;/p&gt;&lt;p&gt;感兴趣的话直接点击上面的链接看原文吧，直接打开终端（找不到的话点击 Mac 屏幕右上角的放大镜按钮，搜索「终端」）→ 粘贴文中的命令行 → 回车搞定。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=launchpad&quot; rel=&quot;tag&quot;&gt;launchpad&lt;/a&gt;
 
  
     </details> 
