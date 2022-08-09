@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【八月】每日一题 - 1413. 逐步求和得到正数的最小值](https://juejin.cn/post/7129698166084993032) | Tue Aug 09 2022 2:30 AM 
+- 🤗 [【你的第二个socket应用】Vue3+Node实现一对一即时聊天应用](https://juejin.cn/post/7129714963458818085) | Tue Aug 09 2022 3:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    前一段时间通过WebSocket实现了一个即时通讯聊天室，使用是Vue3+Node，那篇文章点我进入，这篇文章在上一篇文章的基础上进行一个简单的扩展，实现一个一对一即时聊天应用。 
+    </details> 
+
+- 🎡 [ZooKeeper集群操作以及集群Master选举](https://juejin.cn/post/7129714129660542984) | Tue Aug 09 2022 3:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    分布式的高可用协调服务：简单又不简单的ZooKeeper！本文不仅提供了保姆式搭建ZooKeeper集群的步骤，并且还演示了集群如何选举Master的。 
+    </details> 
+
+- 🕯 [web项目访问jar内部的静态资源](https://juejin.cn/post/7129704975680143374) | Tue Aug 09 2022 2:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    java web项目（比如springboot项目）。基于servlet3.0访问jar包里面的静态资源 
+    </details> 
+
+- 🚀 [【八月】每日一题 - 1413. 逐步求和得到正数的最小值](https://juejin.cn/post/7129698166084993032) | Tue Aug 09 2022 2:30 AM 
     <details><summary>展开描述 ...</summary> 
     给你一个整数数组 nums 。你可以选定任意的 正数 startValue 作为初始值。 你需要从左到右遍历 nums 数组，并将 startValue 依次累加上 nums 数组中的值。 
     </details> 
 
-- 🎡 [程序员进阶系列（1）](https://juejin.cn/post/7129697147045281805) | Tue Aug 09 2022 2:26 AM 
+- 💪 [程序员进阶系列（1）](https://juejin.cn/post/7129697147045281805) | Tue Aug 09 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
     1、电脑部分!   2、独立承担责任!   3、工资年龄模型 ! 4、遇到不会的怎么处理？ 5、更多精彩 即将呈现...... 
-    </details> 
-
-- 🕯 [【面试高频题】可逐步优化的链表高频题](https://juejin.cn/post/7129696149100363789) | Tue Aug 09 2022 2:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 题目描述 这是 LeetCode 上的 138. 复制带随机指针的链表 ，难度为 中等。 Tag : 「 
-    </details> 
-
-- 🚀 [这些前端新技术你很难再忽视了 —— Svelte](https://juejin.cn/post/7129695531852365832) | Tue Aug 09 2022 2:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    咱们将采用 5W1H 分析法，即 What（何事）、Why（何因）、Where（何地）、When（何时）、何人（Who）、How（何法）6 个维度来解析这些“新玩意儿”。 
-    </details> 
-
-- 💪 [使用 ABAP 编程语言的 System CALL 接口，直接执行 ABAP 服务器所在操作系统的 shell 命令](https://juejin.cn/post/7129693894458998821) | Tue Aug 09 2022 2:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 假设我们想查看安装了 ABAP 应用服务器的 Linux 系统某个文件目录下的明细，如果直接登录 Lin 
     </details> 
 <!-- juejin:END -->
 ### 少数派
