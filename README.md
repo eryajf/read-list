@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Beats和金-卡戴珊携手推出三种新颜色的Beats Fit Pro](https://www.cnbeta.com/articles/tech/1302597.htm) | Tue Aug 09 2022 2:18 PM 
+- 🕯 [美国总统乔·拜登签署价值2800亿美元的《CHIPS和科学法案》](https://www.cnbeta.com/articles/tech/1302601.htm) | Tue Aug 09 2022 3:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国总统乔·拜登周二签署了《CHIPS和科学法案》，从而将这一价值2800亿美元的方案写入法律，其中包括520亿美元的资金以促进美国国内的半导体制造。&amp;quot;今天是属于建设者的日子。美国人正在交付，&amp;quot;拜登星期二在白宫的签字仪式上说。&amp;quot;CHIPS和科学法案是对美国本身的一代人的投资。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [除了《碟中谍8》 阿汤哥还想拍一部音乐歌舞片](https://hot.cnbeta.com/articles/movie/1302599.htm) | Tue Aug 09 2022 3:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;随着《壮志凌云2》全球票房超过13亿美元跃居全球最卖座电影第13名，影片主演汤姆克鲁斯和制作人克里斯托夫·迈考利已经开始制作三个不同的影视项目了。据消息人士爆料，一个项目是一个原创歌舞风音乐片，另外一个项目是原创动作惊悚片，有打造成系列的可能，最后一个项目是和Les Grossman相关。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1302599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Beats和金-卡戴珊携手推出三种新颜色的Beats Fit Pro](https://www.cnbeta.com/articles/tech/1302597.htm) | Tue Aug 09 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果旗下Beats品牌今天宣布与Kim Kardashian（金·卡戴珊）合作推出三种新颜色的Beats Fit Pro无线耳塞。这三种新的中性颜色将从下周二（8月16日）开始在apple.com/kim页面销售，并从第二天开始通过选定的Apple Store店面和授权经销商销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [郭明錤：AirPods Pro 2依然保留Lightning充电盒 USB-C型号明年推出](https://www.cnbeta.com/articles/tech/1302595.htm) | Tue Aug 09 2022 2:14 PM 
+- 🚀 [郭明錤：AirPods Pro 2依然保留Lightning充电盒 USB-C型号明年推出](https://www.cnbeta.com/articles/tech/1302595.htm) | Tue Aug 09 2022 2:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;天风证券分析师郭明錤称，苹果第二代AirPods Pro可能仍然采用Lightning充电盒。在今天的推文中他预测苹果将等到2023年再为所有AirPods型号改用USB-C充电盒。新款AirPods Pro将于今年晚些时候发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [共享单车骑行卡涨价 “月卡会员们”是否还不离不弃？](https://www.cnbeta.com/articles/tech/1302593.htm) | Tue Aug 09 2022 1:46 PM 
+- 🎊 [共享单车骑行卡涨价 “月卡会员们”是否还不离不弃？](https://www.cnbeta.com/articles/tech/1302593.htm) | Tue Aug 09 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“我偶尔会骑共享单车，所以没买骑行卡，如果经常骑，月卡还是挺划算的。”8月9日，北京林先生表示，并没有发现共享单车涨价，目前起步价还是1.5元/30分钟。不过，共享单车平台调整骑行卡价格的话题关注度颇高。业内人士认为，原材料上涨的情况下，共享单车调整骑行卡，也属正常情况。此外，近年来互联网平台普遍调整服务价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [为什么美国需要俄罗斯的铀？](https://www.cnbeta.com/articles/tech/1302589.htm) | Tue Aug 09 2022 1:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;已经进行了半年的俄乌冲突暴露了俄罗斯和美国之间一个鲜为人知的意外联系：核燃料供应链。早在2022年3月，拜登总统宣布对俄罗斯的能源出口进行制裁，特别是石油和天然气。但有一个值得注意的出口被排除在该名单之外：铀。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [LCD面板降价 有液晶电视价格“雪崩”直降5000元](https://www.cnbeta.com/articles/tech/1302587.htm) | Tue Aug 09 2022 1:30 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;LCD面板作为液晶电视的主要原材料，自去年三季度开始，价格从高点下降，目前仍处于低位。今日，据@央视财经 报道，在走访了几家电视门店后发现，多款液晶电视出现降价，这两个月电视迎来一波小高潮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
