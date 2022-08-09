@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【PaddlePaddle机器学习】求解线性模型](https://juejin.cn/post/7129528216800198664) | Mon Aug 08 2022 3:30 PM 
+- 🤗 [leetcode  2333. Minimum Sum of Squared Difference（python）](https://juejin.cn/post/7129675768862343175) | Tue Aug 09 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 飞桨&lpar;PaddlePaddle&rpar;是集深度学习核心框架、工具组件和服务平台为一体的技术先进、功能完备的开源深 
+    这是 Biweekly Contest 82 的第三题，难度 Medium ，主要考查的是有序数据结构的实际应用 
     </details> 
 
-- 🎡 [Go&amp;Java算法之交错字符串](https://juejin.cn/post/7129525015388962823) | Mon Aug 08 2022 3:19 PM 
+- 🎡 [那些我经常使用过的npm指令](https://juejin.cn/post/7129666423126753310) | Tue Aug 09 2022 12:27 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 交错字符串 给定三个字符串 s1、s2、s3，请你帮忙验证 s3 是否是由 s1 和 s2 交错 组成的 
+    在不断的使用过程中，渐渐的我有了自己使用npm包的一套小方式，不能说很好，但对我来说已经非常方便了。 
     </details> 
 
-- 🕯 [C# List转KML经纬度文件](https://juejin.cn/post/7129523010427584520) | Mon Aug 08 2022 3:10 PM 
+- 🕯 [使用Vue.js编写命令行界面,前端开发CLI的利器](https://juejin.cn/post/7129665321127903246) | Tue Aug 09 2022 12:23 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 前言： 之前在做项目的时候，遇到一个需求，需要我将list封装好的数据转换成KML经纬度文件，通过自己的学 
+    今天要跟大家分享的是如何将Vue渲染到命令行工具 :&rpar;.关于命令行工具,大家应该都比较熟悉了,比如vue-cli、Vite等.我们在编写前端应用面向用户时,通常会非常关注用户体验 
     </details> 
 
-- 🚀 [UMD 的包如何导出 TS 类型](https://juejin.cn/post/7129520818232492040) | Mon Aug 08 2022 3:02 PM 
+- 🚀 [Java基础 | Stream流原理与用法总结](https://juejin.cn/post/7129662941736992776) | Tue Aug 09 2022 12:13 AM 
     <details><summary>展开描述 ...</summary> 
-    在 TypeScript 里声明模块，最早是用 namespace 和 module 的语法，后来支持了 es module，类型和变量会用 import 来导入、用 export 导出。 比如你写了 
+    通常对于Stream的中间操作，可以视为是源的查询，并且是懒惰式的设计，对于源数据进行的计算只有在需要时才会被执行，与数据库中视图的原理相似； 
     </details> 
 
-- 💪 [LeetCode最长回文串使用JavaScript解题|前端学算法](https://juejin.cn/post/7129513929289498638) | Mon Aug 08 2022 2:35 PM 
+- 💪 [日常工作中对我很重要的那些git命令](https://juejin.cn/post/7129659977706242056) | Tue Aug 09 2022 12:02 AM 
     <details><summary>展开描述 ...</summary> 
-    使用JavaScript破解LeetCode中最长回文串的算法，以及for......in的用法示例。 
+    来看一遍我日常使用的命令，当然很多时候有些命令一台电脑只用一次，但是很多时候可以救火，已经救过我好多次了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
