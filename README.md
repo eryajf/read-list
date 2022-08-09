@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [获取el-form的整体验证状态](https://juejin.cn/post/7129865887896567821) | Tue Aug 09 2022 1:22 PM 
+- 🤗 [Tomcat原理剖析-tomcat介绍和源码idea构建](https://juejin.cn/post/7129873124610293796) | Tue Aug 09 2022 1:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 写在前面 tomcat作为一个中间件，相信绝大多数java程序员，多多少少都应该用到过吧。尤其是在spr 
+    </details> 
+
+- 🎡 [MySQL查询性能优化七种武器之索引下推](https://juejin.cn/post/7129870429090480142) | Tue Aug 09 2022 1:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    前面已经讲了MySQL的查询性能优化方式，索引潜水和链路追踪， 今天要讲的是MySQL的另一种查询性能优化方式 — 索引下推（Index Condition Pushdown，简称ICP）。 
+    </details> 
+
+- 🕯 [【Python】pygame-项目实战（5）-绘制游戏图像](https://juejin.cn/post/7129870105462341646) | Tue Aug 09 2022 1:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 1. 实战项目概括 本节，我们将继续使用pygame模块完成飞机大战游戏的实战开发，飞机大战游戏的简要概 
+    </details> 
+
+- 🚀 [获取el-form的整体验证状态](https://juejin.cn/post/7129865887896567821) | Tue Aug 09 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
     如果需要在一开始就要通过表单数据的验证状态，决定操作按钮（如：保存）是否禁用，那么需要注意两点： 需要通过如下方式获取验证状态 有两种情况表示验证不通过: A情况：el-form-item的valid 
     </details> 
 
-- 🎡 [61秒，摸透Linux的健康状态！](https://juejin.cn/post/7129863634930860062) | Tue Aug 09 2022 1:12 PM 
+- 💪 [61秒，摸透Linux的健康状态！](https://juejin.cn/post/7129863634930860062) | Tue Aug 09 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
     操作系统作为所有程序的载体，对应用的性能影响是非常重要的。然而计算机各个组件之间的速度，是非常不均衡的。拿CPU和硬盘的速度来说，比兔子和乌龟的速度差别还要大。 下面将简单的介绍CPU、内存、I/O的 
-    </details> 
-
-- 🕯 [分享 6 个 Vue3 开发必备的 VSCode 插件](https://juejin.cn/post/7129853180803973150) | Tue Aug 09 2022 12:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 5 天，点击查看活动详情 今天分享 6 个 Vue3 开发必备的 VSCode 插件，可以直接用过 VSCode 的插件中心直接 
-    </details> 
-
-- 🚀 [Ubuntu终端实现Maven中央仓库包上传全流程配置](https://juejin.cn/post/7129826824627945480) | Tue Aug 09 2022 10:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    在win10的ubuntu终端界面下，手把手教你如何配置maven中央仓库上传，发布自己的jar包应用 
-    </details> 
-
-- 💪 [720. 词典中最长的单词 [中等]](https://juejin.cn/post/7129825461877604360) | Tue Aug 09 2022 10:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目 给出一个字符串数组 words 组成的一本英语词典。返回 words 中最长的一个单词，该单词是由 words 词典中其他单词逐步添加一个字母组成。 若其中有多个可行的答案，则返回答案中字典序最 
     </details> 
 <!-- juejin:END -->
 ### 少数派
