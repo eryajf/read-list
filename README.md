@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [高通将从GlobalFoundries额外采购42亿美元芯片](https://www.cnbeta.com/articles/tech/1302193.htm) | Mon Aug 08 2022 11:18 PM 
+- 🕯 [[图]大疆有望推新款FPV无人机Avata，小巧机身可在室内飞行](https://www.cnbeta.com/articles/tech/1302305.htm) | Tue Aug 09 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据周一公布的一份文件显示，高通同意从半导体晶圆代工公司GlobalFoundries纽约工厂额外采购价值42亿美元的半导体芯片，这就使其到2028年的总购买额达到了74亿美元。这笔追加采购交易扩大了高通与GlobalFoundries之间此前价值32亿美元的协议，这两家公司将合作生产用于5G收发器、WiFi、汽车和物联网连接的芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;大疆（DJI）可能在会近期推出一款采用第一人称视角（FPV）的新款无人机，小巧的体积可以在室内飞行。&lt;/strong&gt;知名爆料人士 @OsitaLV 在最新分享的视频中，展示使用了大疆 Motion Controller 控制器遥控无人机的场景。这款无人机如果并非是专门用于测试的原型设备的话，在演示中我们也看到了 FPV 护目镜，那么在上市之后可能会叫做 Avata。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉占了中国汽车出口半壁江山？真实情况并非如此](https://www.cnbeta.com/articles/tech/1302191.htm) | Mon Aug 08 2022 11:07 PM 
+- 💼 [Take Two Q1财报：亏损1亿美元 那个游戏5销量1.7亿套](https://hot.cnbeta.com/articles/game/1302303.htm) | Tue Aug 09 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近年来中国汽车行业发展迅猛，出口量更是坐火箭一般飞升，去年出口超过200万辆，今年上半年将超越德国成为全球第二，未来几年超过日本成为世界第一也是时间问题。在这个过程中，新能源汽车被认为是个关键，同时引进特斯拉之后，很多人也认为特斯拉上海工厂产能增长很猛，&lt;strong&gt;因此有一种说法就是特斯拉占了中国汽车出口的半壁江山，那事实真的如此吗？&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Take Two发布了2023财年第一季度（截止到2022年6月30日）财报，在此期间Zynga正式加入了T2，这一收购对T2该季度的业绩影响很大。&lt;/strong&gt;目前，Take Two收入的94%来自数字渠道，75%来自即时服务游戏的“经常性消费支出（氪金）”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [瑞幸咖啡第二季度营收同比增长72% 美股盘中涨11%](https://www.cnbeta.com/articles/tech/1302189.htm) | Mon Aug 08 2022 7:38 PM 
+- 💂 [Fully Buffered揭示了传说中的英特尔“奔腾5”处理器的更多细节](https://www.cnbeta.com/articles/tech/1302301.htm) | Tue Aug 09 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美东时间8月8日美股盘前，瑞幸咖啡（OTC：LKNCY）公布了2022年第二季度财报，受益于其连续推出的爆款产品、以及持续高速扩张的门店带动，瑞幸咖啡这份强劲的二季度财报使得其美股盘前涨近7%，截止发文瑞幸咖啡美股午盘涨幅达11.2%，年初至今瑞幸咖啡累计涨幅超58%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在周一发布的一支油管视频中，Fully Buffered 讲述了与英特尔被弃的 7 GHz“奔腾 5”处理器有关的故事。&lt;/strong&gt;若能顺利推进，英特尔原本有望挑战单核 7-10 GHz 主频。然而受功耗与过热问题的困扰，该项目最终被搁置，然后该公司将重心转移到了多核路线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iOS 16 beta 5将电池百分比标尺带回到状态栏](https://www.cnbeta.com/articles/tech/1302187.htm) | Mon Aug 08 2022 6:27 PM 
+- 🚀 [间歇性禁食试验看到减肥的好处 但问题仍然存在](https://www.cnbeta.com/articles/science/1302299.htm) | Tue Aug 09 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在iOS 16中，一个长期以来被要求的功能终于回到了有刘海的iPhone上，那就是状态栏中的电池百分比。当苹果发布带有刘海显示屏的iPhone X时，状态栏的空间非常小。所以，苹果取消了在任何时候都显示电池百分比的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近一项测试流行的限制时间的饮食做法的研究取得了积极的结果，表明与卡路里计算相比，体重下降更多。&lt;strong&gt;但是，研究人员仍然深陷在不和谐的研究结果中，无法清楚地证明这种间歇性禁食策略的减肥好处是否是由于试验参与者只是吃得少而造成的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美联邦航空管理局：波音787梦想客机交付将在“未来几天”重启](https://www.cnbeta.com/articles/tech/1302185.htm) | Mon Aug 08 2022 6:05 PM 
+- 🎊 [Google用可爱的爪印游戏迎接国际猫咪日的到来](https://www.cnbeta.com/articles/tech/1302297.htm) | Tue Aug 09 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国联邦航空管理局（FAA）周一表示，预计波音公司将在未来几天恢复其787梦想客机的交付。自2020年底以来，波音787梦想客机被发现存在多处质量问题，交付几乎停止。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;人们可能会觉得互联网上的每一天都是国际猫咪日，但周一却是庆祝来自世界各地的猫咪朋友的正式日子。&lt;strong&gt;Google在今日（当地时间8月8日）的搜索结果中为猫迷们塞进了一个甜蜜的复活节彩蛋。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
