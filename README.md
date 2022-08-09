@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Buddy Crush - 与您的朋友一起跟踪您在小组中的习惯](https://xinquji.com/posts/178565?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:31 AM 
+- 👀 [Vtiger LMS - Vtiger CRM 中的免费 LMS 插件可让员工做好准备](https://xinquji.com/posts/178591?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     与您的朋友一起跟踪您在小组中的习惯  
+     Vtiger CRM 中的免费 LMS 插件可让员工做好准备  
     </details> 
 
-- 🥷 [CommunityScout - 根据您的需求获取合适的社区平台](https://xinquji.com/posts/178564?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:29 AM 
+- 🥷 [Minimal BMI Calculator - 使用身高和体重计算您的 BMI](https://xinquji.com/posts/178590?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     根据您的需求获取合适的社区平台  
+     使用身高和体重计算您的 BMI  
     </details> 
 
-- 💼 [/checklist by Workast - 在 Slack 上创建清单](https://xinquji.com/posts/178563?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:28 AM 
+- 💼 [Sly - 根据您的兴趣结识新朋友](https://xinquji.com/posts/178589?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     在 Slack 上创建清单  
+     根据您的兴趣结识新朋友  
     </details> 
 
-- 🦅 [Workspaces - 来自创意人士的工作空间集合](https://xinquji.com/posts/178562?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:27 AM 
+- 🦅 [Hanko - 具有超能力的 Auth0 的开源替代品](https://xinquji.com/posts/178588?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     来自创意人士的工作空间集合  
+     具有超能力的 Auth0 的开源替代品  
     </details> 
 
-- 😺 [ironov.ai - 一个独特的品牌标识，在几秒钟内生成](https://xinquji.com/posts/178561?utm_campaign=xinquji-rss) | Tue Aug 09 2022 6:26 AM 
+- 😺 [BODIED Coffee - 适合现代生活方式的美味速溶健身咖啡](https://xinquji.com/posts/178587?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     一个独特的品牌标识，在几秒钟内生成  
+     适合现代生活方式的美味速溶健身咖啡  
     </details> 
 <!-- xinquji:END -->
