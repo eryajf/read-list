@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Scrutiny 12.3.17 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Mon Aug 08 2022 4:47 AM 
+- 🦏 [Omni Recover 3.3.9 iPhone数据恢复软件](https://xclient.info/s/omni-recover.html) | Tue Aug 09 2022 3:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    Omni Recover是一款恢复iPhone数据恢复最好的软件。它可以与您所有的苹果设备，iOS和iTunes版本无缝地配合使用。 
+    </details> 
+
+-  [Feeder 4.3.9 创建和发布RSS](https://xclient.info/s/feeder.html) | Tue Aug 09 2022 3:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
+    </details> 
+
+- ⚗️ [Filmage Screen 1.4.5 屏幕录制及视频编辑](https://xclient.info/s/filmage-screen.html) | Tue Aug 09 2022 3:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    Filmage Screen 是一款专业屏幕录制和视频编辑应用，集最好的屏幕录制，专业的视频编辑，快速的视频格式转换于一体，是处理视频的一站式解决方案。 
+    </details> 
+
+- 🔥 [Infuse Pro 7.4.3 全能视频播放器](https://xclient.info/s/infuse-pro.html) | Tue Aug 09 2022 3:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    Infuse Pro 是一款强大的 Mac 视频播放器。它可以一口通吃您所有的视频文件，把您从繁琐的视频转换中解放出来，用极美的方式在您的 Mac 上观赏几乎所有视频的格式。 
+    </details> 
+
+- 🌋 [Scrutiny 12.3.17 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Mon Aug 08 2022 4:47 AM 
     <details><summary>展开描述 ...</summary> 
     Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
-    </details> 
-
--  [PowerPhotos 2.0.4 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Mon Aug 08 2022 4:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
-    </details> 
-
-- ⚗️ [Multitouch 1.27.6 增强你的多点触控设备](https://xclient.info/s/multitouch.html) | Mon Aug 08 2022 4:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    Multitouch 是Mac平台上的一款可以增强你的多点触控设备的应用，可以让你将一个自定义的动作绑定到一个特定的魔力轨迹板或魔术鼠标手势。 
-    </details> 
-
-- 🔥 [Downcast 2.11.12 Podcast订阅工具](https://xclient.info/s/downcast.html) | Mon Aug 08 2022 4:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    Downcast 可以下载、 播放和同步你最喜欢的播客。 
-    </details> 
-
-- 🌋 [Wondershare PDFelement Pro 9.0.6 OCR 强大的PDF编辑工具](https://xclient.info/s/wondershare-pdf-element.html) | Mon Aug 08 2022 4:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    PDFelement可是能为你提供强大的编辑功能滴，支持OCR光学识别引擎，有效的提升文字的识别效率，另外PDFelement支持PDF转换等功能，在保证原有完整文档的基础上，提供了多样的风格和样式。 
     </details> 
 <!-- xclient:END -->
 
