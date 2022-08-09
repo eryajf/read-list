@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [南梦宫将携手Wayfarer Studios打造另一部《吃豆人》真人电影](https://hot.cnbeta.com/articles/movie/1302395.htm) | Tue Aug 09 2022 4:43 AM 
+- 🕯 [李彦宏向马斯克摊牌：我的新车会领先你一代](https://www.cnbeta.com/articles/tech/1302419.htm) | Tue Aug 09 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然 2015 年上映的科幻喜剧电影《像素大战》没能给大家留下深刻的印象，&lt;strong&gt;但作为标志性街机 IP 的吉祥物之一，南梦宫还是希望携手 Wayfarer Studios，打造另一部《吃豆人》真人电影。&lt;/strong&gt;据悉，该项目基于《刺猬索尼克》系列电影幕后策划者 Chuck Willams（Lightbeam Entertainment）的原创剧情。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1302395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;李彦宏直接把话撂下——集度首款车将领先特斯拉一代。他表现得神情自若、云淡风轻，仿佛胜券在握。另外，集度CEO夏一平还扬言，2028年交付80万台智能车，不是梦。这是最新的集度生态伙伴大会上，曝光的核心信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [macOS端Chrome即将允许用户使用Touch ID访问/编辑/复制已保存密码](https://www.cnbeta.com/articles/tech/1302393.htm) | Tue Aug 09 2022 4:37 AM 
+- 💼 [Intel Arc Pro专业显卡详细规格：6GB显存、功耗低至35W](https://www.cnbeta.com/articles/tech/1302417.htm) | Tue Aug 09 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Windows 端 Chrome 浏览器在用户尝试查看和编辑已保存的密码时候，需要用户输入设备密码。Google 现在正提高安全等级，提供了生物识别方式来验证用户身份。例如在笔记本上，用户可以使用指纹传感器来识别来访问密码。而现在在 macOS 设备上，用户即将可以使用 Touch ID 来访问这些密码。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel今天凌晨正式发布了Arc Pro A系列专业显卡，面向移动和台式图形工作站，包括A30M、A40、A50三款型号。现在来看看三款卡的详细规格。它们和移动版、桌面版游戏卡一样，都基于Xe HPG架构、Alchemist核心，台积电N6 6nm工艺制造。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Google数据中心发生“电气事故” 三名电工严重烧伤](https://www.cnbeta.com/articles/tech/1302391.htm) | Tue Aug 09 2022 4:28 AM 
+- 💂 [东风本田CR-V对撞雪佛兰探界者结果惨烈：国产版出现钢材缩水](https://www.cnbeta.com/articles/tech/1302415.htm) | Tue Aug 09 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据康瑟尔布拉夫斯警察局和 Google 的说法，&lt;strong&gt;位于美国爱荷华州康瑟尔布拉夫斯 &lpar;Council Bluffs&rpar;的 Google 数据中心发生“电气事故”后，有 3 名受重伤的电工送往当地医院就诊。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，B站百万粉丝的汽车号“一鹿有车”上传&lt;a href=&quot;https://www.bilibili.com/video/BV1hU4y1e7BD?spm_id_from=333.999.0.0&quot; target=&quot;_blank&quot;&gt;最新视频&lt;/a&gt;，这次节目组“燃烧经费”，花费二十多万买来东风本田CR-V和雪佛兰探界者新车（均为次低配），进行了70公里/小时正面对撞。据悉，两辆车在市场销量不低，CR-V更是长期占据国内市场紧凑级SUV销冠。不过，两者并未参与过中保研的碰撞测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Binance宣布8月11日停用WazirX的链下加密资产转移通道](https://www.cnbeta.com/articles/tech/1302389.htm) | Tue Aug 09 2022 4:17 AM 
+- 🚀 [小米Buds 4 Pro无线耳机官宣 全新外观设计](https://www.cnbeta.com/articles/tech/1302413.htm) | Tue Aug 09 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Binance 首席通讯官 Patrick Hillmann 在周一接受采访时称 —— &lt;strong&gt;为保护客户利益，该公司将于 8 月 11 日停用“跨服登录 WazirX”的链下接口，并督促大家尽快将资产转移到 Binance 。&lt;/strong&gt;此前，Binance 与印度加密货币交易所 WazirX 陷入了“不愿承认收购”的所有权纠纷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;小米今日官宣，将于8月11日晚7点给大家带来小米真无线降噪耳机——小米Buds 4 Pro，目前新品已上架开启预约。从官方放出的海报可以看出，新款耳机采用了全新外观设计，&lt;strong&gt;较上一代更加圆润，耳柄部分进行了亮面处理，配色也采用了亮眼的金色，给人一种高贵优雅之感。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [OneUI 5开测：通知托盘Quick Setting快捷方式从6个减少到5个](https://www.cnbeta.com/articles/tech/1302387.htm) | Tue Aug 09 2022 3:52 AM 
+- 🎊 [中国首个自动驾驶商用指南文件出炉 太洋对岸也在密切关注](https://www.cnbeta.com/articles/tech/1302411.htm) | Tue Aug 09 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，三星启动了基于 Android 13 的 OneUI 5 Beta 公测计划，目前已经邀请美国、日本、韩国等国家和地区的 Galaxy S22 系列用户进行测试。&lt;strong&gt;不过新版中有个不幸的调整：三星通知托盘中 Quick Setting 的快捷方式数量减少了 1 个。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;忽如一夜春风，中国自动驾驶商用迎来最强助攻。就在8月8日，交通部下发&lt;strong&gt;《自动驾驶汽车运输安全服务指南（试行）》&lt;/strong&gt;征求意见稿&lt;em&gt;（下称“指南”）&lt;/em&gt;，首次对自动驾驶的商用落地，作出了方向性规定和指示。这是国内首次对自动驾驶商用作出明确指引，也是全球范围内真正意义的第一枪。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
