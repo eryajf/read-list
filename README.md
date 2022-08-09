@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [专利显示苹果可能使用玻璃制造MacBook 可能支持无线充电](https://www.cnbeta.com/articles/tech/1302579.htm) | Tue Aug 09 2022 12:31 PM 
+- 🕯 [共享单车骑行卡涨价 “月卡会员们”是否还不离不弃？](https://www.cnbeta.com/articles/tech/1302593.htm) | Tue Aug 09 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据新的专利，苹果公司可能使用玻璃制造未来的MacBook模型，可能支持无线充电。&lt;/strong&gt;苹果公司的产品，如iPhone，已经从金属过渡到了玻璃，获得了支持无线充电的能力，但代价是耐用性降低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“我偶尔会骑共享单车，所以没买骑行卡，如果经常骑，月卡还是挺划算的。”8月9日，北京林先生表示，并没有发现共享单车涨价，目前起步价还是1.5元/30分钟。不过，共享单车平台调整骑行卡价格的话题关注度颇高。业内人士认为，原材料上涨的情况下，共享单车调整骑行卡，也属正常情况。此外，近年来互联网平台普遍调整服务价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [邓紫棋新歌《GLORIA》MV上线 质感有点像虚幻5大作](https://hot.cnbeta.com/articles/music/1302577.htm) | Tue Aug 09 2022 12:29 PM 
+- 💼 [为什么美国需要俄罗斯的铀？](https://www.cnbeta.com/articles/tech/1302589.htm) | Tue Aug 09 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;G.E.M.邓紫棋时隔三年全新专辑《启示录》第一支主打歌曲《GLORIA》MV现已在B站上线，一起来听听！&lt;strong&gt;《Gloria》的诞生源于G.E.M.邓紫棋的英文原名Gloria。&lt;/strong&gt;她分享道：“Gloria是爸爸给我取的名字。我从小就觉得很好听，而且充满荣耀。长大了，更认定这是我的使命-在世上作盐作光。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1302577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;已经进行了半年的俄乌冲突暴露了俄罗斯和美国之间一个鲜为人知的意外联系：核燃料供应链。早在2022年3月，拜登总统宣布对俄罗斯的能源出口进行制裁，特别是石油和天然气。但有一个值得注意的出口被排除在该名单之外：铀。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [LDL职业选手被欠薪也坚持不打假赛 只能靠借网贷生活](https://hot.cnbeta.com/articles/game/1302575.htm) | Tue Aug 09 2022 12:28 PM 
+- 💂 [LCD面板降价 有液晶电视价格“雪崩”直降5000元](https://www.cnbeta.com/articles/tech/1302587.htm) | Tue Aug 09 2022 1:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虎扑《英雄联盟》社区有玩家发现，一位抖音账号名叫“不知名职业上单”的用户发文称：自己是《英雄联盟》LDL的SDX战队上单Acheng（孙成），在为战队效力期间被俱乐部欠薪，仍坚持不打假赛，只能靠借网贷生活。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302575.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;LCD面板作为液晶电视的主要原材料，自去年三季度开始，价格从高点下降，目前仍处于低位。今日，据@央视财经 报道，在走访了几家电视门店后发现，多款液晶电视出现降价，这两个月电视迎来一波小高潮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Galaxy S23憋大招逆袭：全系骁龙8 Gen2+UFS 4.0](https://www.cnbeta.com/articles/tech/1302573.htm) | Tue Aug 09 2022 12:27 PM 
+- 🚀 [分析师：一旦微软收购了动视暴雪 Game Pass订阅用户能达到1亿](https://hot.cnbeta.com/articles/game/1302585.htm) | Tue Aug 09 2022 1:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然三星依然把持着全球智能机出货第一的位置，但在很多重要市场，份额早已猛烈下滑，中国市场自然不用说，最新数据显示其在印度也已经跌至第四名。显然，三星需要拿出一些让人眼前一亮的产品来重新吸引这部分消费者，除了即将发布的Galaxy Fold 4/Flip 4折叠屏手机，更大的看点还有Galaxy S23系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在接受雅虎金融采访时，韦德布什证券分析师Michael Pachter承认他之前质疑微软的Game Pass是错误的，然后他说一旦动视暴雪收购交易完成，那么这个游戏订阅服务可能会跃至1亿用户。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [一加Nord Watch智能手表渲染图、价格和功能细节曝光](https://www.cnbeta.com/articles/tech/1302571.htm) | Tue Aug 09 2022 12:21 PM 
+- 🎊 [三星电子拟在越南追加33亿美元投资 用于半导体零部件生产](https://www.cnbeta.com/articles/tech/1302583.htm) | Tue Aug 09 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;OnePlus Nord Watch的渲染图、价格和功能已经曝光。&lt;/strong&gt;OnePlus Nord Watch预计将有两种型号，有五种不同的形状：三种是圆形表盘，两种是长方形表盘。所有五个变体都可能支持GPS，在印度的零售价约为5000卢比。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302571.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星电子计划于2022年在越南追加投资33亿美元，以帮助三星电子在2023年7月之前开始在越南生产半导体零部件。三星电子正在位于越南东北Thái Nguyên省的三星电机工厂，准备试生产集成电路用的表面贴装封装技术“倒装球栅阵列”&lpar;flip-chip ball grid&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
