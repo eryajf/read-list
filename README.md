@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [macOS端Chrome即将允许用户使用Touch ID访问/编辑/复制已保存密码](https://www.cnbeta.com/articles/tech/1302393.htm) | Tue Aug 09 2022 4:37 AM 
+- 🕯 [南梦宫将携手Wayfarer Studios打造另一部《吃豆人》真人电影](https://hot.cnbeta.com/articles/movie/1302395.htm) | Tue Aug 09 2022 4:43 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;虽然 2015 年上映的科幻喜剧电影《像素大战》没能给大家留下深刻的印象，&lt;strong&gt;但作为标志性街机 IP 的吉祥物之一，南梦宫还是希望携手 Wayfarer Studios，打造另一部《吃豆人》真人电影。&lt;/strong&gt;据悉，该项目基于《刺猬索尼克》系列电影幕后策划者 Chuck Willams（Lightbeam Entertainment）的原创剧情。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1302395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [macOS端Chrome即将允许用户使用Touch ID访问/编辑/复制已保存密码](https://www.cnbeta.com/articles/tech/1302393.htm) | Tue Aug 09 2022 4:37 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Windows 端 Chrome 浏览器在用户尝试查看和编辑已保存的密码时候，需要用户输入设备密码。Google 现在正提高安全等级，提供了生物识别方式来验证用户身份。例如在笔记本上，用户可以使用指纹传感器来识别来访问密码。而现在在 macOS 设备上，用户即将可以使用 Touch ID 来访问这些密码。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google数据中心发生“电气事故” 三名电工严重烧伤](https://www.cnbeta.com/articles/tech/1302391.htm) | Tue Aug 09 2022 4:28 AM 
+- 💂 [Google数据中心发生“电气事故” 三名电工严重烧伤](https://www.cnbeta.com/articles/tech/1302391.htm) | Tue Aug 09 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据康瑟尔布拉夫斯警察局和 Google 的说法，&lt;strong&gt;位于美国爱荷华州康瑟尔布拉夫斯 &lpar;Council Bluffs&rpar;的 Google 数据中心发生“电气事故”后，有 3 名受重伤的电工送往当地医院就诊。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Binance宣布8月11日停用WazirX的链下加密资产转移通道](https://www.cnbeta.com/articles/tech/1302389.htm) | Tue Aug 09 2022 4:17 AM 
+- 🚀 [Binance宣布8月11日停用WazirX的链下加密资产转移通道](https://www.cnbeta.com/articles/tech/1302389.htm) | Tue Aug 09 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Binance 首席通讯官 Patrick Hillmann 在周一接受采访时称 —— &lt;strong&gt;为保护客户利益，该公司将于 8 月 11 日停用“跨服登录 WazirX”的链下接口，并督促大家尽快将资产转移到 Binance 。&lt;/strong&gt;此前，Binance 与印度加密货币交易所 WazirX 陷入了“不愿承认收购”的所有权纠纷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [OneUI 5开测：通知托盘Quick Setting快捷方式从6个减少到5个](https://www.cnbeta.com/articles/tech/1302387.htm) | Tue Aug 09 2022 3:52 AM 
+- 🎊 [OneUI 5开测：通知托盘Quick Setting快捷方式从6个减少到5个](https://www.cnbeta.com/articles/tech/1302387.htm) | Tue Aug 09 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;日前，三星启动了基于 Android 13 的 OneUI 5 Beta 公测计划，目前已经邀请美国、日本、韩国等国家和地区的 Galaxy S22 系列用户进行测试。&lt;strong&gt;不过新版中有个不幸的调整：三星通知托盘中 Quick Setting 的快捷方式数量减少了 1 个。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [特斯拉为新车置换老客户提供半价购买FSD等福利](https://www.cnbeta.com/articles/tech/1302385.htm) | Tue Aug 09 2022 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由 @Ray4Tesla 上月底在社交媒体上分享的截图可知，特斯拉面向中国市场推出了久违的新车购置福利。&lt;strong&gt;从即日起至 9 月 30 日，任意通过官方渠道成功置换新款 Model S、Model 3、Model X、Model Y 的老车主们，&lt;/strong&gt;可享半价购买 FSD（立省 32000 元）、赠送 15000 公里超充额度、以及价值 8000 元的家庭充电服务包。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
