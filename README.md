@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [爱普生打印机内置打印次数上限，到点就“报废”](http://jandan.net/p/111101) | Mon Aug 08 2022 12:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    “对于低成本打印机而言，维修可能不是一种经济高效的选择，因为其他组件也可能接近使用寿命。” 
-    </details> 
-
-- 🙉 [鸟类大脑的启示 生物的脑子越大，智能程度就越高？](http://jandan.net/p/111097) | Mon Aug 08 2022 12:56 PM 
-    <details><summary>展开描述 ...</summary> 
-    这里的“大”是什么意思，是绝对的数值还是相对于身体的比例？ 
-    </details> 
-
-- 🎉 [用于一次性电子产品的 可降解打印纸电池](http://jandan.net/p/111068) | Mon Aug 08 2022 6:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    只要往上面滴两滴水，电池就开始发电，电压接近1.5伏 
-    </details> 
-
-- 🐲 [今日好价 0808](http://jandan.net/p/111102) | Mon Aug 08 2022 3:55 AM 
+- 🚀 [今日好价 0809](http://jandan.net/p/111109) | Tue Aug 09 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
--  [用这个App扫一扫新生儿眼睛可能救他们一命](http://jandan.net/p/111100) | Mon Aug 08 2022 2:36 AM 
+- 🙉 [爱普生打印机内置打印次数上限，到点就“报废”](http://jandan.net/p/111101) | Mon Aug 08 2022 12:58 PM 
     <details><summary>展开描述 ...</summary> 
-    扫一扫拯救小黄人 
+    “对于低成本打印机而言，维修可能不是一种经济高效的选择，因为其他组件也可能接近使用寿命。” 
+    </details> 
+
+- 🎉 [鸟类大脑的启示 生物的脑子越大，智能程度就越高？](http://jandan.net/p/111097) | Mon Aug 08 2022 12:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    这里的“大”是什么意思，是绝对的数值还是相对于身体的比例？ 
+    </details> 
+
+- 🐲 [用于一次性电子产品的 可降解打印纸电池](http://jandan.net/p/111068) | Mon Aug 08 2022 6:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    只要往上面滴两滴水，电池就开始发电，电压接近1.5伏 
+    </details> 
+
+-  [今日好价 0808](http://jandan.net/p/111102) | Mon Aug 08 2022 3:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
