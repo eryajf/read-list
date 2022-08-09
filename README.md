@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [C# List生成Txt文档，读取Txt文档封装List](https://juejin.cn/post/7129886486798794766) | Tue Aug 09 2022 2:42 PM 
+- 🤗 [Swift - LeetCode - 反转链表](https://juejin.cn/post/7129907736728305671) | Tue Aug 09 2022 4:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情  题目 给你单链表的头节点 head，请你反转链表，并返回反转后的链表。 示例 1： 示例 2： 示例  
+    </details> 
+
+- 🎡 [[JS真好玩] 浏览器中执行JS，如何将某个长字符串存到本地文件里](https://juejin.cn/post/7129888845226573861) | Tue Aug 09 2022 2:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    在浏览器中执行的JS，如何把一个字符串存到电脑的本地文件呢？可以通过开启一个下载任务来实现。具体方法是：通过&lt;a&gt;标签的href属性触发下载，通过FileReader生成文本文件。 
+    </details> 
+
+- 🕯 [Flutter - 列表滚动定位超强辅助库，墙裂推荐！🔥](https://juejin.cn/post/7129888644290068487) | Tue Aug 09 2022 2:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    Flutter 官方提供了 ScrollController，调用下方两个方法可以滚动到指定偏移处，但是官方没有提供滚动到指定下标位置的功能 
+    </details> 
+
+- 🚀 [C# List生成Txt文档，读取Txt文档封装List](https://juejin.cn/post/7129886486798794766) | Tue Aug 09 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 前言： 在做项目的时候遇到这样的一个问题，需要我将List中的数据读出来并把数据封装到Txt文件中，也能把 
     </details> 
 
-- 🎡 [LeetCode移动零使用JavaScript解题|前端学算法](https://juejin.cn/post/7129886029162479652) | Tue Aug 09 2022 2:39 PM 
+- 💪 [【刷题日记】121. 买卖股票的最佳时机](https://juejin.cn/post/7129886184037187615) | Tue Aug 09 2022 2:40 PM 
     <details><summary>展开描述 ...</summary> 
-    使用JavaScript来解决LeetCode算法移动零的问题，纯JavaScript解决问题，前端学算法 
-    </details> 
-
-- 🕯 [Three.js 之 17 Import Model 导入模型](https://juejin.cn/post/7129885749838610440) | Tue Aug 09 2022 2:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    Three.js 提供了很多原始模型，但如果我们需要更复杂的模型，最好使用 3D 软件建模，然后导入到场景中。本节我们就来学学如何导入一个做好的 3D 模型。 
-    </details> 
-
-- 🚀 [Tomcat原理剖析-tomcat介绍和源码idea构建](https://juejin.cn/post/7129873124610293796) | Tue Aug 09 2022 1:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 写在前面 tomcat作为一个中间件，相信绝大多数java程序员，多多少少都应该用到过吧。尤其是在spr 
-    </details> 
-
-- 💪 [MySQL查询性能优化七种武器之索引下推](https://juejin.cn/post/7129870429090480142) | Tue Aug 09 2022 1:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    前面已经讲了MySQL的查询性能优化方式，索引潜水和链路追踪， 今天要讲的是MySQL的另一种查询性能优化方式 — 索引下推（Index Condition Pushdown，简称ICP）。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 本次刷题日记的第 87 篇，力扣题为：121. 买卖股票的最佳时机 一、题目描述： 今天我们来做一个简单 
     </details> 
 <!-- juejin:END -->
 ### 少数派
