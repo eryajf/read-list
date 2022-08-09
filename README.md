@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [城市漫步指南（半份）｜愿您在合肥找到「平静」](https://sspai.com/post/74998) | Tue Aug 09 2022 3:31 AM 
+- 👹 [借我一小时，来和 500 人一起在线编程](https://sspai.com/post/74959) | Tue Aug 09 2022 6:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    在「100小时后请叫我程序员」栏目上架之时，曾有派友犀利地提出过一个问题：为什么我要在少数派学编程？在少数派的平台上，泛科技和品质生活类内容固然最为拿手，但我们资深的作者与编辑团队对于「硬核」的编程同 ...&lt;a href=&quot;https://sspai.com/post/74959&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [城市漫步指南（半份）｜愿您在合肥找到「平静」](https://sspai.com/post/74998) | Tue Aug 09 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     前言南京自古以来都是「国家历史文化名城」，高铁通车以后，南京更是来自安徽的朋友们求学、工作的热门目的地，所以南京又有了「徽京」这一玩味的美誉。想必这也是我经常被问及：「你当初为什么选择去合肥而不是南京 ...&lt;a href=&quot;https://sspai.com/post/74998&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：Apple 推送 iOS/iPadOS 16 开发者预览版 Beta 5 等](https://sspai.com/post/75056) | Tue Aug 09 2022 12:57 AM 
+- 🤭 [派早报：Apple 推送 iOS/iPadOS 16 开发者预览版 Beta 5 等](https://sspai.com/post/75056) | Tue Aug 09 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
     腾讯注册微信刷掌商标，Intel 发布 Arc Pro 系列 GPU 等。&lt;a href=&quot;https://sspai.com/post/75056&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/75051) | Mon Aug 08 2022 9:57 AM 
+- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/75051) | Mon Aug 08 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75051&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [被风吹过的「痛」：关于痛风你可能想要了解这些](https://sspai.com/post/75049) | Mon Aug 08 2022 8:30 AM 
+- 🙉 [被风吹过的「痛」：关于痛风你可能想要了解这些](https://sspai.com/post/75049) | Mon Aug 08 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
     大家身边是不是总有一两个「痛风」的小伙伴呢？亦或者，你就是那个备受「痛风」折磨的那位同学呢？现阶段，「痛风」已经成为继「糖尿病」后，发病率最高的内分泌疾病了，并且有飞速增长及年轻化的趋势。中国「高尿酸 ...&lt;a href=&quot;https://sspai.com/post/75049&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [送码 | 一款好用的录屏讲解工具背后的秘密：为什么他们都选择了《芦笋》？](https://sspai.com/post/74865) | Mon Aug 08 2022 7:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    在体验过多款录屏讲解工具、采访了多位相关用户之后，我们认为今年初才刚刚面世的《芦笋》，也许是你目前能够找到的最好的选择之一。不像许多录屏工具仅从某一需求着眼，《芦笋》从一开始就朝着「一站式录屏讲解工具」的方向出发，希望仅在一个 App 之中，帮你完成从视频录制到制作，甚至到分享与获得反馈的完整工作流程。&lt;a href=&quot;https://sspai.com/post/74865&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
