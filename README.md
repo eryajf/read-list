@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Snapchat将让父母看到其孩子在应用中的聊天对象](https://www.cnbeta.com/articles/tech/1302453.htm) | Tue Aug 09 2022 7:03 AM 
+- 🕯 [微信PC版新增手机/电脑聊天记录互相迁移和合并](https://www.cnbeta.com/articles/tech/1302493.htm) | Tue Aug 09 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为Snap的儿童安全工作的一部分，Snapchat于当地时间周二推出了一个新的监督工具，其该公司称该工具模仿了父母和青少年在现实世界的互动方式。&lt;/strong&gt;Snapchat的新“Family Center（家庭中心）”中心允许父母和监护人监视他们的青少年在应用上的信息而不透露他们彼此之间的谈话内容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微信聊天记录保存是很多网友面临的巨大问题，然而在无数网友呼吁微信增加云端保存功能微信也无动于衷。&lt;strong&gt;虽然微信聊天记录也可以定期备份到电脑上但毕竟还是有些麻烦，尤其是聊天记录不同的版本还是不同步的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [拆解报告：Soyealink 华为P50 Pro 5G通信壳](https://www.cnbeta.com/articles/tech/1302451.htm) | Tue Aug 09 2022 7:03 AM 
+- 💼 [经纪人回应林志颖转入普通病房 半年可恢复正常](https://www.cnbeta.com/articles/tech/1302491.htm) | Tue Aug 09 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;充电头网前不久拿到了华为P50 Pro的5G通信壳，并对这款产品进行了使用体验。使用这款通信壳，可以为手机提供5G网速，并且自带的USB-C接口可以为手机提供66W超级快充，在提升网络速率同时，保留了原有的快充能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;林志颖7月22日驾驶特斯拉自撞桥墩号志杆起火，“车友”姚元浩8月8日出席活动时被问到他近况，称有共同朋友说林志颖已转入普通病房。&lt;strong&gt;对于这个消息，林志颖经纪人回应：“谢谢关心，目前先让病人休养，暂时先不做其他回应。”关于林志颖的手术进度，有位不具名的医师对外透露，林志颖“骨头复位得蛮漂亮”，预估半年可以恢复正常运动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [芯片巨头的又一次豪赌](https://www.cnbeta.com/articles/tech/1302449.htm) | Tue Aug 09 2022 7:01 AM 
+- 💂 [白色Xbox Elite Wireless Series 2手柄再次曝光](https://www.cnbeta.com/articles/tech/1302489.htm) | Tue Aug 09 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔似乎从来不缺壮士断腕的勇气。如果把时间的指针回拨到1985年，你会发现，如今的英特尔正在做出和当时一样的决定——退出存储市场。37年前，正是由于退出存储市场这个决定，成就了英特尔在微处理器领域的龙头地位。那么37年后，同样的决策又将会给英特尔带来怎样的未来？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年 3 月，在一家零售店内发现了一款白色的 Xbox Elite Wireless Controller - Series 2。当时曝光的图片显示 Xbox Elite Controller 采用白色的机身和黑色摇杆，按钮部分同样也是和机身相同的白色。&lt;strong&gt;今天，国外科技媒体 NeoWin 发现了 1 个月前上传的一段视频，更细节地展示了白色 Xbox Elite Wireless Controller。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星S23 Ultra代号遭泄露 或搭载第二代骁龙8移动平台](https://www.cnbeta.com/articles/tech/1302447.htm) | Tue Aug 09 2022 6:57 AM 
+- 🚀 [微软确认Windows 10/11操作系统存在打不开XPS文档的问题](https://www.cnbeta.com/articles/tech/1302487.htm) | Tue Aug 09 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;再过一天，三星的新一代折叠屏手机Z Fold 4和Z Flip 4将正式亮相。由于这两款手机即将发布，曝光者们的焦点现在已经转移到了三星的下一款旗舰手机上。最近有海外爆料人透露，三星S23 Ultra的代号和型号已经泄露。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由 Windows Health Dashboard 可知，微软已意识到一个问题 —— &lt;strong&gt;作为 Adobe PDF 的替代品，Windows 10 / 11 操作系统用户似乎很难打开特定的 XPS 文档。&lt;/strong&gt;除了无法打开非英语语言的 XPS / OXPS 文档，XPS Viewer 查看器也会停止响应并蚕食 CPU / 内存资源，直至突破 2.5GB RAM 使用率时崩溃。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [金山云地震，震源在字节？](https://www.cnbeta.com/articles/tech/1302445.htm) | Tue Aug 09 2022 6:55 AM 
+- 🎊 [ICANN第75届大会参会者需下载追踪应用程序](https://www.cnbeta.com/articles/tech/1302485.htm) | Tue Aug 09 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;中国云服务市场正在迎来一轮新的行业大洗牌。&lt;/strong&gt;一边是巨头争相入局：继字节去年底推出自有云服务后，快手也在8月初对外宣布进军To B领域，即将发布面向企业侧的StreamLake品牌，这被视为快手云服务正式上线的前奏。另一边则是标榜中立的独立云厂商发展受困，甚至遭遇高管人员更替。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;感谢&lt;a href=&quot;https://www.racent.com/blog/going-to-icann75-youll-need-to-download-a-tracking-app&quot; target=&quot;_blank&quot;&gt;锐成信息&lt;/a&gt;的投递&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;ICANN 第75届大会将于2022年9月17日至22日在吉隆坡举行，参会者需要遵守马来西亚新冠肺炎疫情管控条例，下载追踪应用程序等。首先，所有到马来西亚的人都必须下载、注册、激活使用MySejahtera应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
