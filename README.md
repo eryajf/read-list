@@ -366,7 +366,7 @@
 <!-- v2ex:START -->
 - 🥸 [Chrome 发起的 HTTP 的请求头 Accept 中有个 v=b3，它是干嘛的？](https://www.v2ex.com/t/871778#reply2) | Tue Aug 09 2022 1:38 PM
 - 🤗 [求职业培训视频加速插件](https://www.v2ex.com/t/871766#reply5) | Tue Aug 09 2022 12:07 PM
-- 🎭 [求一个数据表设计的思路！](https://www.v2ex.com/t/871762#reply12) | Tue Aug 09 2022 11:52 AM
+- 🎭 [求一个数据表设计的思路！](https://www.v2ex.com/t/871762#reply13) | Tue Aug 09 2022 11:52 AM
 - 🥷 [OpenSSH 使用 Ed25519 算法生成的密钥鉴权真的安全吗，这么短的密钥好不放心，但好多大佬都在推荐。未来是不是比 RSA 更容易出现快速计算来实现破解的方法？](https://www.v2ex.com/t/871754#reply5) | Tue Aug 09 2022 10:58 AM
 - 🐵 [docker 的 hello-world 这种运行完就退出的容器，有什么方法进去看看？](https://www.v2ex.com/t/871741#reply20) | Tue Aug 09 2022 10:04 AM<!-- v2ex:END -->
 
