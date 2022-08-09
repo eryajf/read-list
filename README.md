@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国总统乔·拜登签署价值2800亿美元的《CHIPS和科学法案》](https://www.cnbeta.com/articles/tech/1302601.htm) | Tue Aug 09 2022 3:12 PM 
+- 🕯 [塞雷娜·威廉姆斯将宣布退役计划：&quot;我正在逐渐远离网球&quot;](https://www.cnbeta.com/articles/tech/1302607.htm) | Tue Aug 09 2022 4:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;23个大满贯单打冠军得主、网球运动的代表人物塞雷娜-威廉姆斯（小威）在为《时尚》杂志9月刊撰写的一篇文章中宣布了从网球这项运动中退役的计划。&amp;quot;我在这里告诉你们，我正在逐渐远离网球，走向其他对我来说很重要的事情，&amp;quot;威廉姆斯在星期二发表的文章中说。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [砸下数百亿美元补贴 拜登勉力打造“美国芯”](https://www.cnbeta.com/articles/tech/1302605.htm) | Tue Aug 09 2022 3:31 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;拜登为扶持“美国制造”再添一把火。&lt;/strong&gt;北京时间8月9日晚，美国总统拜登正式签署《芯片和科学法案》（下称“芯片法案”）。该项立法包括对美国芯片行业给予超过520亿美元（约合3512亿元人民币）的补贴，用于鼓励在半导体芯片制造，其中还包括价值约24亿美元的芯片工厂的投资税收抵免，以及支持对芯片领域的持续研究。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [传蔚来首款手机定位高端：骁龙8系加持 一年一款](https://www.cnbeta.com/articles/tech/1302603.htm) | Tue Aug 09 2022 3:29 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;就在上个月，蔚来创始人李斌透露，&lt;strong&gt;蔚来手机的事正在推进，每年就开发一款手机，像苹果一样。&lt;/strong&gt;李斌表示，我们现在和卖一亿部手机的公司肯定比不了，现在造手机不难，造出好用的手机还是有挑战的，现在这款手机已被曝光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [美国总统乔·拜登签署价值2800亿美元的《CHIPS和科学法案》](https://www.cnbeta.com/articles/tech/1302601.htm) | Tue Aug 09 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国总统乔·拜登周二签署了《CHIPS和科学法案》，从而将这一价值2800亿美元的方案写入法律，其中包括520亿美元的资金以促进美国国内的半导体制造。&amp;quot;今天是属于建设者的日子。美国人正在交付，&amp;quot;拜登星期二在白宫的签字仪式上说。&amp;quot;CHIPS和科学法案是对美国本身的一代人的投资。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [除了《碟中谍8》 阿汤哥还想拍一部音乐歌舞片](https://hot.cnbeta.com/articles/movie/1302599.htm) | Tue Aug 09 2022 3:00 PM 
+- 🎊 [除了《碟中谍8》 阿汤哥还想拍一部音乐歌舞片](https://hot.cnbeta.com/articles/movie/1302599.htm) | Tue Aug 09 2022 3:00 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;随着《壮志凌云2》全球票房超过13亿美元跃居全球最卖座电影第13名，影片主演汤姆克鲁斯和制作人克里斯托夫·迈考利已经开始制作三个不同的影视项目了。据消息人士爆料，一个项目是一个原创歌舞风音乐片，另外一个项目是原创动作惊悚片，有打造成系列的可能，最后一个项目是和Les Grossman相关。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1302599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Beats和金-卡戴珊携手推出三种新颜色的Beats Fit Pro](https://www.cnbeta.com/articles/tech/1302597.htm) | Tue Aug 09 2022 2:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果旗下Beats品牌今天宣布与Kim Kardashian（金·卡戴珊）合作推出三种新颜色的Beats Fit Pro无线耳塞。这三种新的中性颜色将从下周二（8月16日）开始在apple.com/kim页面销售，并从第二天开始通过选定的Apple Store店面和授权经销商销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [郭明錤：AirPods Pro 2依然保留Lightning充电盒 USB-C型号明年推出](https://www.cnbeta.com/articles/tech/1302595.htm) | Tue Aug 09 2022 2:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天风证券分析师郭明錤称，苹果第二代AirPods Pro可能仍然采用Lightning充电盒。在今天的推文中他预测苹果将等到2023年再为所有AirPods型号改用USB-C充电盒。新款AirPods Pro将于今年晚些时候发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [共享单车骑行卡涨价 “月卡会员们”是否还不离不弃？](https://www.cnbeta.com/articles/tech/1302593.htm) | Tue Aug 09 2022 1:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“我偶尔会骑共享单车，所以没买骑行卡，如果经常骑，月卡还是挺划算的。”8月9日，北京林先生表示，并没有发现共享单车涨价，目前起步价还是1.5元/30分钟。不过，共享单车平台调整骑行卡价格的话题关注度颇高。业内人士认为，原材料上涨的情况下，共享单车调整骑行卡，也属正常情况。此外，近年来互联网平台普遍调整服务价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
