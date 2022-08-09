@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Vtiger LMS - Vtiger CRM 中的免费 LMS 插件可让员工做好准备](https://xinquji.com/posts/178591?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:26 AM 
+- 👀 [Suggestic API - 统一的食物、食谱、餐厅和膳食计划 API](https://xinquji.com/posts/178604?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     Vtiger CRM 中的免费 LMS 插件可让员工做好准备  
+     统一的食物、食谱、餐厅和膳食计划 API  
     </details> 
 
-- 🥷 [Minimal BMI Calculator - 使用身高和体重计算您的 BMI](https://xinquji.com/posts/178590?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:26 AM 
+- 🥷 [Prelaunchers - 在所有人之前找到您下一个最喜欢的产品](https://xinquji.com/posts/178603?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-     使用身高和体重计算您的 BMI  
+     在所有人之前找到您下一个最喜欢的产品  
     </details> 
 
-- 💼 [Sly - 根据您的兴趣结识新朋友](https://xinquji.com/posts/178589?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:24 AM 
+- 💼 [Freemance - 硬币驱动的自由职业者社区](https://xinquji.com/posts/178602?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     根据您的兴趣结识新朋友  
+     硬币驱动的自由职业者社区  
     </details> 
 
-- 🦅 [Hanko - 具有超能力的 Auth0 的开源替代品](https://xinquji.com/posts/178588?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:24 AM 
+- 🦅 [Flipped Off - 一个挑衅的中指 GIF 库](https://xinquji.com/posts/178601?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     具有超能力的 Auth0 的开源替代品  
+     一个挑衅的中指 GIF 库  
     </details> 
 
-- 😺 [BODIED Coffee - 适合现代生活方式的美味速溶健身咖啡](https://xinquji.com/posts/178587?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:22 AM 
+- 😺 [Meme Yourself - 一个有趣的工具，用你的脸制作模因，富有创意和有趣](https://xinquji.com/posts/178600?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     适合现代生活方式的美味速溶健身咖啡  
+     一个有趣的工具，用你的脸制作模因，富有创意和有趣  
     </details> 
 <!-- xinquji:END -->
