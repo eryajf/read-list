@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [Spurious correlations 缅因州的离婚率和黄油的生产成本相关性达到99.26%](http://jandan.net/p/111108) | Tue Aug 09 2022 9:11 AM 
+- 🚀 [第一次 直接诱导干细胞发育成胚胎](http://jandan.net/p/111087) | Tue Aug 09 2022 3:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    不借助精子，卵子或子宫等 
+    </details> 
+
+- 🙉 [Spurious correlations 缅因州的离婚率和黄油的生产成本相关性达到99.26%](http://jandan.net/p/111108) | Tue Aug 09 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
     分享一个好玩的网站，收集那些看上去强相关却又实际上八竿子打不着的数据。 
     </details> 
 
-- 🙉 [一些地狱笑话](http://jandan.net/p/111112) | Tue Aug 09 2022 7:17 AM 
+- 🎉 [一些地狱笑话](http://jandan.net/p/111112) | Tue Aug 09 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     开个新坑 
     </details> 
 
-- 🎉 [高脂饮食可能导致认知退化](http://jandan.net/p/111110) | Tue Aug 09 2022 5:47 AM 
+- 🐲 [高脂饮食可能导致认知退化](http://jandan.net/p/111110) | Tue Aug 09 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
     难怪薯片一吃停不下来 
     </details> 
 
-- 🐲 [成功“复活”死猪细胞 或为器官移植带来突破](http://jandan.net/p/111104) | Tue Aug 09 2022 4:55 AM 
+-  [成功“复活”死猪细胞 或为器官移植带来突破](http://jandan.net/p/111104) | Tue Aug 09 2022 4:55 AM 
     <details><summary>展开描述 ...</summary> 
     未来器官移植可能不用生死接力啦 
-    </details> 
-
--  [美国密歇根州有五分之一的成年人口选择无子女生活](http://jandan.net/p/111105) | Tue Aug 09 2022 4:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    而且，那些年轻时就宣称不要孩子的人，最后证明都不是说说而已 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
