@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国内第一算力通用GPU芯片集成770亿晶体管 一次点亮成功](https://www.cnbeta.com/articles/tech/1302535.htm) | Tue Aug 09 2022 10:14 AM 
+- 🕯 [Aptera揭示SEV太阳能电三轮：内饰极简 续航可达1000英里](https://www.cnbeta.com/articles/tech/1302539.htm) | Tue Aug 09 2022 11:11 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;对于追求效率的电动汽车潜在买家来说，宣称续航可达 1000 英里的 Aptera“太阳能电动汽车”（SEV），或许是一个不错的选择。&lt;/strong&gt;此外得益于极其轻巧的三轮设计、以及低至 0.13 的风阻系数（Cd），即使在配备相当小的电池组的情况下，Aptera SEV 也能够达成 250 英里的续航。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [印度公积金账户数据被黑客窃取 影响2.8亿人](https://www.cnbeta.com/articles/tech/1302537.htm) | Tue Aug 09 2022 10:48 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;本月初，乌克兰网络安全研究人员 Bob Diachenko 指出，包含印度 2.8 亿公积金账户的数据已被黑客泄露。&lt;/strong&gt;其中包括了用户的 UAN 号码、姓名、性别、出生日期、婚姻状况、账户详情和其它敏感信息，而黑客显然能够利用这些信息来创建虚假身份、文档、以及访问相应的公积金账户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [国内第一算力通用GPU芯片集成770亿晶体管 一次点亮成功](https://www.cnbeta.com/articles/tech/1302535.htm) | Tue Aug 09 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月9日下午，国内科技创新企业壁仞科技&lpar;Birentech&rpar;正式发布BR100系列通用计算GPU，号称算力国内第一，多向指标媲美设置超越国际旗舰产品。根据介绍，壁仞科技BR100芯片采用台积电7nm工艺制造、2.5D CoWoS封装技术、Chiplet小芯片技术，&lt;strong&gt;集成了多达770亿晶体管，规模上堪比人类大脑神经细胞&lt;/strong&gt;，已经非常接近800亿个晶体管的NVIDIA GH100计算核心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Apple Pay在马来西亚正式推出 三家银行首批获支持](https://www.cnbeta.com/articles/tech/1302533.htm) | Tue Aug 09 2022 10:13 AM 
+- 🚀 [Apple Pay在马来西亚正式推出 三家银行首批获支持](https://www.cnbeta.com/articles/tech/1302533.htm) | Tue Aug 09 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在马来西亚的AmBank撤回过早的营销材料后，苹果现在已经在该国正式推出Apple Pay。之前只有AmBank提前公布了其支持Apple Pay的细节，但苹果现在已经确认，共有三家银行支持该服务。除了AmBank，还有Maybank以及渣打银行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [IDC：三星表现不佳 Realme成为印度第二大手机厂商](https://www.cnbeta.com/articles/tech/1302531.htm) | Tue Aug 09 2022 10:11 AM 
+- 🎊 [IDC：三星表现不佳 Realme成为印度第二大手机厂商](https://www.cnbeta.com/articles/tech/1302531.htm) | Tue Aug 09 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据IDC的报告，2022年第二季度印度的智能手机出货量同比增长约3%，但与2022年第一季度相比下降5%。整个2022年上半年，智能手机的整体销量下降了1%。2021年供应紧张的影响挥之不去，以及通胀上升导致需求萎缩等原因共同造成了全球性的手机市场萎靡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [苹果限制iOS 16 Beta 5电池百分比的显示 只限于部分iPhone](https://www.cnbeta.com/articles/tech/1302529.htm) | Tue Aug 09 2022 10:08 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果本周带回了自2017年推出iPhone X以来，iOS用户最强烈要求的功能之一：能够直接在状态栏中看到你的电池百分比。自从带刘海的iPhone X推出以来，苹果一直不允许用户在状态栏中直接显示他们的电池百分比，迫使他们向下滑动到控制中心才可以瞥见他们当前的电池水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [商汤推出专业AI下棋机器人“元萝卜SenseRobot”](https://www.cnbeta.com/articles/tech/1302527.htm) | Tue Aug 09 2022 10:03 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月9日消息，商汤科技推出其首个家庭消费级人工智能产品——“元萝卜SenseRobot” AI下棋机器人。“元萝卜SenseRobot”包含AI学棋、残局挑战、棋力闯关、巅峰挑战等多种模式，可以从“0基础”为孩子介绍和讲解象棋的文化、规则及每个棋子的使用技巧，在锻炼思维的同时，还能提升孩子的文化素养。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
