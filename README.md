@@ -237,29 +237,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [Django URL](https://blog.ops-coffee.cn/django/django-url-conf) | Wed Aug 03 2022 6:01 PM 
+- 👺 [游记 | 浙东秋名山，跑山消暑玩水好去处](https://blog.ops-coffee.cn/s/HApDTE3c0o4YL5ntx0Aa1Q) | Tue Aug 09 2022 2:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    浙东秋名山，周末四名山自驾跑山、消暑、玩儿水游记 
+    </details> 
+
+- 💯 [Django URL](https://blog.ops-coffee.cn/django/django-url-conf) | Wed Aug 03 2022 6:01 PM 
     <details><summary>展开描述 ...</summary> 
     Django URL 
     </details> 
 
-- 💯 [Django Model字段类型](https://blog.ops-coffee.cn/django/django-model-fields) | Tue Aug 02 2022 4:32 PM 
+- 🚦 [Django Model字段类型](https://blog.ops-coffee.cn/django/django-model-fields) | Tue Aug 02 2022 4:32 PM 
     <details><summary>展开描述 ...</summary> 
     介绍Django Model的全部字段类型 
     </details> 
 
-- 🚦 [Django Model字段选项](https://blog.ops-coffee.cn/django/django-model-options) | Tue Aug 02 2022 12:19 PM 
+- 👨‍🏫 [Django Model字段选项](https://blog.ops-coffee.cn/django/django-model-options) | Tue Aug 02 2022 12:19 PM 
     <details><summary>展开描述 ...</summary> 
     详细介绍Django Model的字段选项 
     </details> 
 
-- 👨‍🏫 [Django Model之ForeignKey](https://blog.ops-coffee.cn/django/django-model-foreignkey) | Mon Aug 01 2022 5:53 PM 
+- 🌮 [Django Model之ForeignKey](https://blog.ops-coffee.cn/django/django-model-foreignkey) | Mon Aug 01 2022 5:53 PM 
     <details><summary>展开描述 ...</summary> 
     foreignkey介绍及学习 
-    </details> 
-
-- 🌮 [运维自动化之多云系统分享](https://blog.ops-coffee.cn/s/Wtx2utkC4MErDLvC3cbSMg) | Sat Jul 30 2022 8:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    什么是多云，多云该如何设计，多云要怎么落地 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
