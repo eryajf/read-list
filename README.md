@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [Rufus 中文绿色版 - 简单快速制作 USB 启动盘软件 &lpar;U盘安装 Windows / Linux 系统&rpar;](https://www.iplaysoft.com/rufus.html) | Fri Aug 05 2022 5:15 PM
-- 🧑‍🏫 [MenubarX Pro - 创意实用的 Mac 菜单栏迷你小窗浏览器 &lpar; “摸鱼+效率”工具&rpar;](https://www.iplaysoft.com/menubarx.html) | Tue Aug 02 2022 6:14 PM
-- 🥰 [Linux Mint 21 - 公认比 Ubuntu 更好用的个人桌面级 Linux 操作系统发行版](https://www.iplaysoft.com/linux-mint.html) | Mon Aug 01 2022 2:46 AM
-- 💻 [SmsForwarder - 开源免费安卓手机短信转发器 / 转发 APP 通知 / 远程监控通话记录](https://www.iplaysoft.com/smsforwarder.html) | Thu Jul 28 2022 8:07 PM
-- 🎃 [腾讯 Mac 柠檬清理 - 免费开源了！良心简洁的苹果 macOS 垃圾清理/系统优化工具](https://www.iplaysoft.com/lemon-cleaner.html) | Mon Jul 25 2022 11:32 AM<!-- iplaysoft:END -->
+- 🧐 [Paper2GUI - 开源免费的“AI 黑科技”工具箱！十几款上手即用的人工智能软件合集](https://www.iplaysoft.com/paper2gui.html) | Tue Aug 09 2022 9:27 AM
+- 🧑‍🏫 [Rufus 中文绿色版 - 简单快速制作 USB 启动盘软件 &lpar;U盘安装 Windows / Linux 系统&rpar;](https://www.iplaysoft.com/rufus.html) | Fri Aug 05 2022 5:15 PM
+- 🥰 [MenubarX Pro - 创意实用的 Mac 菜单栏迷你小窗浏览器 &lpar; “摸鱼+效率”工具&rpar;](https://www.iplaysoft.com/menubarx.html) | Tue Aug 02 2022 6:14 PM
+- 💻 [Linux Mint 21 - 公认比 Ubuntu 更好用的个人桌面级 Linux 操作系统发行版](https://www.iplaysoft.com/linux-mint.html) | Mon Aug 01 2022 2:46 AM
+- 🎃 [SmsForwarder - 开源免费安卓手机短信转发器 / 转发 APP 通知 / 远程监控通话记录](https://www.iplaysoft.com/smsforwarder.html) | Thu Jul 28 2022 8:07 PM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
