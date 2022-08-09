@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [李彦宏向马斯克摊牌：我的新车会领先你一代](https://www.cnbeta.com/articles/tech/1302419.htm) | Tue Aug 09 2022 6:23 AM 
+- 🕯 [Snapchat将让父母看到其孩子在应用中的聊天对象](https://www.cnbeta.com/articles/tech/1302453.htm) | Tue Aug 09 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;李彦宏直接把话撂下——集度首款车将领先特斯拉一代。他表现得神情自若、云淡风轻，仿佛胜券在握。另外，集度CEO夏一平还扬言，2028年交付80万台智能车，不是梦。这是最新的集度生态伙伴大会上，曝光的核心信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为Snap的儿童安全工作的一部分，Snapchat于当地时间周二推出了一个新的监督工具，其该公司称该工具模仿了父母和青少年在现实世界的互动方式。&lt;/strong&gt;Snapchat的新“Family Center（家庭中心）”中心允许父母和监护人监视他们的青少年在应用上的信息而不透露他们彼此之间的谈话内容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Intel Arc Pro专业显卡详细规格：6GB显存、功耗低至35W](https://www.cnbeta.com/articles/tech/1302417.htm) | Tue Aug 09 2022 6:19 AM 
+- 💼 [拆解报告：Soyealink 华为P50 Pro 5G通信壳](https://www.cnbeta.com/articles/tech/1302451.htm) | Tue Aug 09 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel今天凌晨正式发布了Arc Pro A系列专业显卡，面向移动和台式图形工作站，包括A30M、A40、A50三款型号。现在来看看三款卡的详细规格。它们和移动版、桌面版游戏卡一样，都基于Xe HPG架构、Alchemist核心，台积电N6 6nm工艺制造。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;充电头网前不久拿到了华为P50 Pro的5G通信壳，并对这款产品进行了使用体验。使用这款通信壳，可以为手机提供5G网速，并且自带的USB-C接口可以为手机提供66W超级快充，在提升网络速率同时，保留了原有的快充能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [东风本田CR-V对撞雪佛兰探界者结果惨烈：国产版出现钢材缩水](https://www.cnbeta.com/articles/tech/1302415.htm) | Tue Aug 09 2022 6:17 AM 
+- 💂 [芯片巨头的又一次豪赌](https://www.cnbeta.com/articles/tech/1302449.htm) | Tue Aug 09 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，B站百万粉丝的汽车号“一鹿有车”上传&lt;a href=&quot;https://www.bilibili.com/video/BV1hU4y1e7BD?spm_id_from=333.999.0.0&quot; target=&quot;_blank&quot;&gt;最新视频&lt;/a&gt;，这次节目组“燃烧经费”，花费二十多万买来东风本田CR-V和雪佛兰探界者新车（均为次低配），进行了70公里/小时正面对撞。据悉，两辆车在市场销量不低，CR-V更是长期占据国内市场紧凑级SUV销冠。不过，两者并未参与过中保研的碰撞测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔似乎从来不缺壮士断腕的勇气。如果把时间的指针回拨到1985年，你会发现，如今的英特尔正在做出和当时一样的决定——退出存储市场。37年前，正是由于退出存储市场这个决定，成就了英特尔在微处理器领域的龙头地位。那么37年后，同样的决策又将会给英特尔带来怎样的未来？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小米Buds 4 Pro无线耳机官宣 全新外观设计](https://www.cnbeta.com/articles/tech/1302413.htm) | Tue Aug 09 2022 6:15 AM 
+- 🚀 [三星S23 Ultra代号遭泄露 或搭载第二代骁龙8移动平台](https://www.cnbeta.com/articles/tech/1302447.htm) | Tue Aug 09 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;小米今日官宣，将于8月11日晚7点给大家带来小米真无线降噪耳机——小米Buds 4 Pro，目前新品已上架开启预约。从官方放出的海报可以看出，新款耳机采用了全新外观设计，&lt;strong&gt;较上一代更加圆润，耳柄部分进行了亮面处理，配色也采用了亮眼的金色，给人一种高贵优雅之感。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;再过一天，三星的新一代折叠屏手机Z Fold 4和Z Flip 4将正式亮相。由于这两款手机即将发布，曝光者们的焦点现在已经转移到了三星的下一款旗舰手机上。最近有海外爆料人透露，三星S23 Ultra的代号和型号已经泄露。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中国首个自动驾驶商用指南文件出炉 太洋对岸也在密切关注](https://www.cnbeta.com/articles/tech/1302411.htm) | Tue Aug 09 2022 6:12 AM 
+- 🎊 [金山云地震，震源在字节？](https://www.cnbeta.com/articles/tech/1302445.htm) | Tue Aug 09 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;忽如一夜春风，中国自动驾驶商用迎来最强助攻。就在8月8日，交通部下发&lt;strong&gt;《自动驾驶汽车运输安全服务指南（试行）》&lt;/strong&gt;征求意见稿&lt;em&gt;（下称“指南”）&lt;/em&gt;，首次对自动驾驶的商用落地，作出了方向性规定和指示。这是国内首次对自动驾驶商用作出明确指引，也是全球范围内真正意义的第一枪。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;中国云服务市场正在迎来一轮新的行业大洗牌。&lt;/strong&gt;一边是巨头争相入局：继字节去年底推出自有云服务后，快手也在8月初对外宣布进军To B领域，即将发布面向企业侧的StreamLake品牌，这被视为快手云服务正式上线的前奏。另一边则是标榜中立的独立云厂商发展受困，甚至遭遇高管人员更替。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
