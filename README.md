@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [这周六 8 月 13 日南京云原生线下活动，报名中（可抽奖）](https://www.v2ex.com/t/871639#reply0) | Tue Aug 09 2022 3:32 AM
+- 🥸 [这周六 8 月 13 日南京云原生线下活动，报名中（可抽奖）](https://www.v2ex.com/t/871639#reply1) | Tue Aug 09 2022 3:32 AM
 - 🤗 [刷了 PE 之后，怎么使用微信指纹支付](https://www.v2ex.com/t/871625#reply3) | Tue Aug 09 2022 3:08 AM
 - 🎭 [关于零拷贝，理论上两次 splice 调用应该比 read+write 更快，为什么我测试结果却是相反的？](https://www.v2ex.com/t/871623#reply2) | Tue Aug 09 2022 3:03 AM
 - 🥷 [JSON 发明人：老朽的 JavaScript 编程语言早该入土了](https://www.v2ex.com/t/871619#reply13) | Tue Aug 09 2022 2:57 AM
