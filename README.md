@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Aptera揭示SEV太阳能电三轮：内饰极简 续航可达1000英里](https://www.cnbeta.com/articles/tech/1302539.htm) | Tue Aug 09 2022 11:11 AM 
+- 🕯 [专利显示苹果可能使用玻璃制造MacBook 可能支持无线充电](https://www.cnbeta.com/articles/tech/1302579.htm) | Tue Aug 09 2022 12:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;对于追求效率的电动汽车潜在买家来说，宣称续航可达 1000 英里的 Aptera“太阳能电动汽车”（SEV），或许是一个不错的选择。&lt;/strong&gt;此外得益于极其轻巧的三轮设计、以及低至 0.13 的风阻系数（Cd），即使在配备相当小的电池组的情况下，Aptera SEV 也能够达成 250 英里的续航。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;根据新的专利，苹果公司可能使用玻璃制造未来的MacBook模型，可能支持无线充电。&lt;/strong&gt;苹果公司的产品，如iPhone，已经从金属过渡到了玻璃，获得了支持无线充电的能力，但代价是耐用性降低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [印度公积金账户数据被黑客窃取 影响2.8亿人](https://www.cnbeta.com/articles/tech/1302537.htm) | Tue Aug 09 2022 10:48 AM 
+- 💼 [邓紫棋新歌《GLORIA》MV上线 质感有点像虚幻5大作](https://hot.cnbeta.com/articles/music/1302577.htm) | Tue Aug 09 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;本月初，乌克兰网络安全研究人员 Bob Diachenko 指出，包含印度 2.8 亿公积金账户的数据已被黑客泄露。&lt;/strong&gt;其中包括了用户的 UAN 号码、姓名、性别、出生日期、婚姻状况、账户详情和其它敏感信息，而黑客显然能够利用这些信息来创建虚假身份、文档、以及访问相应的公积金账户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;G.E.M.邓紫棋时隔三年全新专辑《启示录》第一支主打歌曲《GLORIA》MV现已在B站上线，一起来听听！&lt;strong&gt;《Gloria》的诞生源于G.E.M.邓紫棋的英文原名Gloria。&lt;/strong&gt;她分享道：“Gloria是爸爸给我取的名字。我从小就觉得很好听，而且充满荣耀。长大了，更认定这是我的使命-在世上作盐作光。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1302577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国内第一算力通用GPU芯片集成770亿晶体管 一次点亮成功](https://www.cnbeta.com/articles/tech/1302535.htm) | Tue Aug 09 2022 10:14 AM 
+- 💂 [LDL职业选手被欠薪也坚持不打假赛 只能靠借网贷生活](https://hot.cnbeta.com/articles/game/1302575.htm) | Tue Aug 09 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月9日下午，国内科技创新企业壁仞科技&lpar;Birentech&rpar;正式发布BR100系列通用计算GPU，号称算力国内第一，多向指标媲美设置超越国际旗舰产品。根据介绍，壁仞科技BR100芯片采用台积电7nm工艺制造、2.5D CoWoS封装技术、Chiplet小芯片技术，&lt;strong&gt;集成了多达770亿晶体管，规模上堪比人类大脑神经细胞&lt;/strong&gt;，已经非常接近800亿个晶体管的NVIDIA GH100计算核心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虎扑《英雄联盟》社区有玩家发现，一位抖音账号名叫“不知名职业上单”的用户发文称：自己是《英雄联盟》LDL的SDX战队上单Acheng（孙成），在为战队效力期间被俱乐部欠薪，仍坚持不打假赛，只能靠借网贷生活。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302575.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Apple Pay在马来西亚正式推出 三家银行首批获支持](https://www.cnbeta.com/articles/tech/1302533.htm) | Tue Aug 09 2022 10:13 AM 
+- 🚀 [Galaxy S23憋大招逆袭：全系骁龙8 Gen2+UFS 4.0](https://www.cnbeta.com/articles/tech/1302573.htm) | Tue Aug 09 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在马来西亚的AmBank撤回过早的营销材料后，苹果现在已经在该国正式推出Apple Pay。之前只有AmBank提前公布了其支持Apple Pay的细节，但苹果现在已经确认，共有三家银行支持该服务。除了AmBank，还有Maybank以及渣打银行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然三星依然把持着全球智能机出货第一的位置，但在很多重要市场，份额早已猛烈下滑，中国市场自然不用说，最新数据显示其在印度也已经跌至第四名。显然，三星需要拿出一些让人眼前一亮的产品来重新吸引这部分消费者，除了即将发布的Galaxy Fold 4/Flip 4折叠屏手机，更大的看点还有Galaxy S23系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [IDC：三星表现不佳 Realme成为印度第二大手机厂商](https://www.cnbeta.com/articles/tech/1302531.htm) | Tue Aug 09 2022 10:11 AM 
+- 🎊 [一加Nord Watch智能手表渲染图、价格和功能细节曝光](https://www.cnbeta.com/articles/tech/1302571.htm) | Tue Aug 09 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据IDC的报告，2022年第二季度印度的智能手机出货量同比增长约3%，但与2022年第一季度相比下降5%。整个2022年上半年，智能手机的整体销量下降了1%。2021年供应紧张的影响挥之不去，以及通胀上升导致需求萎缩等原因共同造成了全球性的手机市场萎靡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;OnePlus Nord Watch的渲染图、价格和功能已经曝光。&lt;/strong&gt;OnePlus Nord Watch预计将有两种型号，有五种不同的形状：三种是圆形表盘，两种是长方形表盘。所有五个变体都可能支持GPS，在印度的零售价约为5000卢比。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302571.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
