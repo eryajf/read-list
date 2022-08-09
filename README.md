@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [「原生练手」🌊安卓上的按钮水波涟漪效果](https://juejin.cn/post/7129526359513038884) | Mon Aug 08 2022 3:23 PM 
+- 🤗 [啥？b站不支持倍速播放，那自己写一个](https://juejin.cn/post/7129704256269090853) | Tue Aug 09 2022 2:54 AM 
     <details><summary>展开描述 ...</summary> 
-    不知道你是否有见过安卓系统上的这种水波纹涟漪特效，特效的起点在哪？特效从整体上看应当是什么形状的？特效触发到结束，整个特效生效的过程中有什么要注意的吗？ 
+    前几年在B站学习的时候（没错，B站大学毕业的🐶）,碰到一个问题，就是不能超过2倍速播放，而我有时候是需要3倍速播放，甚至更高的倍速 
     </details> 
 
-- 🎡 [用Composition API的思想封装NProgress](https://juejin.cn/post/7129519192897749005) | Mon Aug 08 2022 2:56 PM 
+- 🎡 [关于TornadoFx和Android的全局配置工具类封装实现及思路解析](https://juejin.cn/post/7129688110081769479) | Tue Aug 09 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，第13篇。vue中如何更好的使用NProgress 
+    设置页面,可以让用户自定义设置某些选项,但我发现,存储数据的代码逻辑实在是有些繁琐，于是便是花了些精力研究封装了个简单的工具类,可以快捷实现存储数据的保存和初始化 
     </details> 
 
-- 🕯 [一次分表的技术方案分享](https://juejin.cn/post/7129464636272967688) | Mon Aug 08 2022 11:24 AM 
+- 🕯 [不就new个对象的事，为什么要把简单的问题复杂化？为什么要使用Hilt依赖注入？看完就知道！](https://juejin.cn/post/7129673928460468254) | Tue Aug 09 2022 12:56 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 1. 业务场景 主要考虑两个因素： 纯粹的数据量角度： 单表数据量过大已经影响查询性能（查看当前数据量） 数据量增长迅速，防患于未然（查看近一月数 
+    为什么要使用依赖注入？直接new对象不香吗？为什么要把简单的问题复杂化？ 就算要用依赖注入，我为什么依赖注入要使用Hilt？ 
     </details> 
 
-- 🚀 [对一段JDBC代码的优化&lpar;上&rpar;](https://juejin.cn/post/7129453010543247396) | Mon Aug 08 2022 10:39 AM 
+- 🚀 [绝了，这套RESTful API接口设计总结](https://juejin.cn/post/7129668615019692068) | Tue Aug 09 2022 12:36 AM 
     <details><summary>展开描述 ...</summary> 
-    有JDBC连接PostgreSQL的代码，存在诸多问题，现在要对这部分代码进行优化。优化过程见详情。 
+    🤞RESTful API接口设计总结🤞 RESTfu是一种网络应用程序的设计风格和开发方式，基于HTTP进行通信。 
     </details> 
 
-- 💪 [Redis缓存过期和淘汰策略](https://juejin.cn/post/7129442214807076900) | Mon Aug 08 2022 9:57 AM 
+- 💪 [超实用 Linux 常用命令](https://juejin.cn/post/7129667405357252644) | Tue Aug 09 2022 12:30 AM 
     <details><summary>展开描述 ...</summary> 
-    缓存过期和淘汰策略 Redis性能高：Redis作为缓存使用，key会不断增加，物理内存也会满。需要设定策略定期清除某些不常用的key。 
+    Shell 详解 Shell 简介 Linux精髓在于命令行操作 Shell是一种特殊的程序 是内核与用户的一种接口 Shell命令解释器 Shell一种解释性的语言（内部命令/外部命令） 内部命令： 
     </details> 
 <!-- juejin:END -->
 ### 少数派
