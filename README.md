@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [韩国将调查苹果和谷歌应用商店：或违反应用内支付法规](https://www.cnbeta.com/articles/tech/1302515.htm) | Tue Aug 09 2022 9:17 AM 
+- 🕯 [国内第一算力通用GPU芯片集成770亿晶体管 一次点亮成功](https://www.cnbeta.com/articles/tech/1302535.htm) | Tue Aug 09 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月9日下午消息，据报道，&lt;strong&gt;韩国电信监管机构“韩国通信委员会”（KCC）今日表示，计划对苹果和Google的应用商店，以及韩国的一个应用商店One Store展开调查&lt;/strong&gt;，原因是这些应用商店可能违反了应用内支付法规。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月9日下午，国内科技创新企业壁仞科技&lpar;Birentech&rpar;正式发布BR100系列通用计算GPU，号称算力国内第一，多向指标媲美设置超越国际旗舰产品。根据介绍，壁仞科技BR100芯片采用台积电7nm工艺制造、2.5D CoWoS封装技术、Chiplet小芯片技术，&lt;strong&gt;集成了多达770亿晶体管，规模上堪比人类大脑神经细胞&lt;/strong&gt;，已经非常接近800亿个晶体管的NVIDIA GH100计算核心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [专家：现在还没有真正的5G应用 运营商逼迫用户升级5G不是商业正路](https://www.cnbeta.com/articles/tech/1302513.htm) | Tue Aug 09 2022 9:16 AM 
+- 💼 [Apple Pay在马来西亚正式推出 三家银行首批获支持](https://www.cnbeta.com/articles/tech/1302533.htm) | Tue Aug 09 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月9日下午消息，在世界5G大会的元宇宙论坛上，北京航空航天大学软件学院创始院长、贵州盛华职业学院创始人及院长孙伟发表主题演讲。&lt;/strong&gt;他指出，5G目前面临着巨大挑战。5G建设我国已经投入了上万亿元，全球第一；还要继续投入上万亿元，继续全球第一；华为等公司的5G技术和专利授权领先全球，全球第一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在马来西亚的AmBank撤回过早的营销材料后，苹果现在已经在该国正式推出Apple Pay。之前只有AmBank提前公布了其支持Apple Pay的细节，但苹果现在已经确认，共有三家银行支持该服务。除了AmBank，还有Maybank以及渣打银行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Meta AI聊天机器人被发现存在一些否认选举结果和反犹太主义的错误](https://www.cnbeta.com/articles/tech/1302511.htm) | Tue Aug 09 2022 9:05 AM 
+- 💂 [IDC：三星表现不佳 Realme成为印度第二大手机厂商](https://www.cnbeta.com/articles/tech/1302531.htm) | Tue Aug 09 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在Meta发布其迄今为止最先进的AI聊天机器人的两天后，BlenderBot 3正在向与之互动的用户重复否认选举的说法和反犹太主义的定型观念。这项机器学习技术--于周五向公众推出--通过在互联网上搜索信息并从它与人类用户的对话中学习来制作回应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据IDC的报告，2022年第二季度印度的智能手机出货量同比增长约3%，但与2022年第一季度相比下降5%。整个2022年上半年，智能手机的整体销量下降了1%。2021年供应紧张的影响挥之不去，以及通胀上升导致需求萎缩等原因共同造成了全球性的手机市场萎靡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [同样是矿卡崩盘：NVIDIA显卡暴跌、AMD显卡逆势增长](https://www.cnbeta.com/articles/tech/1302509.htm) | Tue Aug 09 2022 9:05 AM 
+- 🚀 [苹果限制iOS 16 Beta 5电池百分比的显示 只限于部分iPhone](https://www.cnbeta.com/articles/tech/1302529.htm) | Tue Aug 09 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨晚NVIDIA突然发布了财报预警，指出二季度营收预计为67亿美元，环比下滑19%，同比仅增长3%，而且游戏业务营收仅为20.4亿美元，环比下滑44%，同比下滑也达到了33%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果本周带回了自2017年推出iPhone X以来，iOS用户最强烈要求的功能之一：能够直接在状态栏中看到你的电池百分比。自从带刘海的iPhone X推出以来，苹果一直不允许用户在状态栏中直接显示他们的电池百分比，迫使他们向下滑动到控制中心才可以瞥见他们当前的电池水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [北京市消协约谈每日优鲜，要求及时公布退费方案和登记方式](https://www.cnbeta.com/articles/tech/1302507.htm) | Tue Aug 09 2022 9:04 AM 
+- 🎊 [商汤推出专业AI下棋机器人“元萝卜SenseRobot”](https://www.cnbeta.com/articles/tech/1302527.htm) | Tue Aug 09 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;针对近日“每日优鲜”无法正常经营引发大量消费者投诉的情况，8月4日下午，市消协约谈北京每日优鲜电子商务有限公司。会上，市消协向北京每日优鲜电子商务有限公司通报了96315热线登记消费者投诉的情况，并对企业目前的现状和投诉处理情况进行了询问。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月9日消息，商汤科技推出其首个家庭消费级人工智能产品——“元萝卜SenseRobot” AI下棋机器人。“元萝卜SenseRobot”包含AI学棋、残局挑战、棋力闯关、巅峰挑战等多种模式，可以从“0基础”为孩子介绍和讲解象棋的文化、规则及每个棋子的使用技巧，在锻炼思维的同时，还能提升孩子的文化素养。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
