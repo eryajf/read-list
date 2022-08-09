@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [成功“复活”死猪细胞 或为器官移植带来突破](http://jandan.net/p/111104) | Tue Aug 09 2022 4:55 AM 
+- 🚀 [高脂饮食可能导致认知退化](http://jandan.net/p/111110) | Tue Aug 09 2022 5:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    难怪薯片一吃停不下来 
+    </details> 
+
+- 🙉 [成功“复活”死猪细胞 或为器官移植带来突破](http://jandan.net/p/111104) | Tue Aug 09 2022 4:55 AM 
     <details><summary>展开描述 ...</summary> 
     未来器官移植可能不用生死接力啦 
     </details> 
 
-- 🙉 [美国密歇根州有五分之一的成年人口选择无子女生活](http://jandan.net/p/111105) | Tue Aug 09 2022 4:14 AM 
+- 🎉 [美国密歇根州有五分之一的成年人口选择无子女生活](http://jandan.net/p/111105) | Tue Aug 09 2022 4:14 AM 
     <details><summary>展开描述 ...</summary> 
     而且，那些年轻时就宣称不要孩子的人，最后证明都不是说说而已 
     </details> 
 
-- 🎉 [今日好价 0809](http://jandan.net/p/111109) | Tue Aug 09 2022 3:41 AM 
+- 🐲 [今日好价 0809](http://jandan.net/p/111109) | Tue Aug 09 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [爱普生打印机内置打印次数上限，到点就“报废”](http://jandan.net/p/111101) | Mon Aug 08 2022 12:58 PM 
+-  [爱普生打印机内置打印次数上限，到点就“报废”](http://jandan.net/p/111101) | Mon Aug 08 2022 12:58 PM 
     <details><summary>展开描述 ...</summary> 
     “对于低成本打印机而言，维修可能不是一种经济高效的选择，因为其他组件也可能接近使用寿命。” 
-    </details> 
-
--  [鸟类大脑的启示 生物的脑子越大，智能程度就越高？](http://jandan.net/p/111097) | Mon Aug 08 2022 12:56 PM 
-    <details><summary>展开描述 ...</summary> 
-    这里的“大”是什么意思，是绝对的数值还是相对于身体的比例？ 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
