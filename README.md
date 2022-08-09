@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751519) | Mon Aug 08 2022 12:27 AM
-- 🐻 [为什么港风可以成为经典，如今依然好看？](http://daily.zhihu.com/story/9751501) | Mon Aug 08 2022 12:27 AM
-- 🌏 [为什么我吃了肥猪肉会觉得想吐？](http://daily.zhihu.com/story/9751505) | Mon Aug 08 2022 12:27 AM
-- 🕴 [《独行月球》人们用手电筒等向太空发射光，组成「你不是一个人」，在现实中可行吗？](http://daily.zhihu.com/story/9751507) | Mon Aug 08 2022 12:27 AM
-- 🌮 [为什么蒸汽机中国人古代两千年的时间都没有造出来？](http://daily.zhihu.com/story/9751509) | Mon Aug 08 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751553) | Tue Aug 09 2022 12:27 AM
+- 🐻 [蛋白质摄入过多到底会不会伤身？](http://daily.zhihu.com/story/9751549) | Tue Aug 09 2022 12:27 AM
+- 🌏 [地球上的重金属元素从哪儿来的？](http://daily.zhihu.com/story/9751540) | Tue Aug 09 2022 12:27 AM
+- 🕴 [气温升高对跑步的影响大不大？](http://daily.zhihu.com/story/9751537) | Tue Aug 09 2022 12:27 AM
+- 🌮 [为什么桃代表长寿而不是其他水果？](http://daily.zhihu.com/story/9751529) | Tue Aug 09 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
