@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [啥？b站不支持倍速播放，那自己写一个](https://juejin.cn/post/7129704256269090853) | Tue Aug 09 2022 2:54 AM 
+- 🤗 [答应我，这次一定要彻底搞懂Vue2双向数据绑定原理](https://juejin.cn/post/7129795830764011527) | Tue Aug 09 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-    前几年在B站学习的时候（没错，B站大学毕业的🐶）,碰到一个问题，就是不能超过2倍速播放，而我有时候是需要3倍速播放，甚至更高的倍速 
+    看了十几篇各大厂的面经还有一些掘金社区里大佬的面试考点总结，如果你是Vue技术栈的话，Vue响应式/双向数据绑定原理被问到的可能性还是很高的。 
     </details> 
 
-- 🎡 [关于TornadoFx和Android的全局配置工具类封装实现及思路解析](https://juejin.cn/post/7129688110081769479) | Tue Aug 09 2022 1:51 AM 
+- 🎡 [用 typescript 类型来推算斐波那契](https://juejin.cn/post/7129772111043756068) | Tue Aug 09 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-    设置页面,可以让用户自定义设置某些选项,但我发现,存储数据的代码逻辑实在是有些繁琐，于是便是花了些精力研究封装了个简单的工具类,可以快捷实现存储数据的保存和初始化 
+    写在前面 本文执行环境typescript，版本4.5.4 作者：东东么么哒 斐波那契 虽然大家都熟悉斐波那契了，还是简单的说说吧，一个知名的数学数列，地推方式如下 • Fib&lpar;0&rpar; = 0 • Fi 
     </details> 
 
-- 🕯 [不就new个对象的事，为什么要把简单的问题复杂化？为什么要使用Hilt依赖注入？看完就知道！](https://juejin.cn/post/7129673928460468254) | Tue Aug 09 2022 12:56 AM 
+- 🕯 [看完这篇文章，我不信你还对eslint一知半解](https://juejin.cn/post/7129771851638636575) | Tue Aug 09 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么要使用依赖注入？直接new对象不香吗？为什么要把简单的问题复杂化？ 就算要用依赖注入，我为什么依赖注入要使用Hilt？ 
+    从零到一带详细带你学会eslint的配置。看完这篇文章，相信你可以自己定制出一份适合自己团队规范的eslint配置，也能一眼看懂其他人写的配置，成为一名合格的eslnit配置工程师。 
     </details> 
 
-- 🚀 [绝了，这套RESTful API接口设计总结](https://juejin.cn/post/7129668615019692068) | Tue Aug 09 2022 12:36 AM 
+- 🚀 [Elasticsearch：ingest pipeline 使用示例 - 解析常用日志格式](https://juejin.cn/post/7129767885177618463) | Tue Aug 09 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-    🤞RESTful API接口设计总结🤞 RESTfu是一种网络应用程序的设计风格和开发方式，基于HTTP进行通信。 
+    在本示例教程中，你将在索引之前使用 ingest pipeline 以通用日志格式解析服务器日志。 在开始之前，请检查摄取管道的先决条件。 你要解析的日志类似于以下内容： 这些日志包含时间戳、IP 地 
     </details> 
 
-- 💪 [超实用 Linux 常用命令](https://juejin.cn/post/7129667405357252644) | Tue Aug 09 2022 12:30 AM 
+- 💪 [Activiti进阶篇-流程实例](https://juejin.cn/post/7129766099907346469) | Tue Aug 09 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    Shell 详解 Shell 简介 Linux精髓在于命令行操作 Shell是一种特殊的程序 是内核与用户的一种接口 Shell命令解释器 Shell一种解释性的语言（内部命令/外部命令） 内部命令： 
+    1.流程实例 1.1 什么是流程实例 流程实例&lpar;ProcessInstance&rpar;代表流程定义的执行实例 一个流程实例包括了所有的运行节点，我们可以利用这个对象来了解当前流程实例的进度等信息 例如：用户 
     </details> 
 <!-- juejin:END -->
 ### 少数派
