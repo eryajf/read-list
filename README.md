@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [代码改造：设计模式之责任链](https://juejin.cn/post/7129792302142193695) | Tue Aug 09 2022 8:36 AM 
+- 🤗 [Vite 是怎样利用 Esbuild 来提升性能的 ？](https://juejin.cn/post/7129802255120728100) | Tue Aug 09 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 最近负责了一个相对大点的项目，在开发的时候一把梭哈，最近在做代码优化（个人习惯是开发时把逻辑快速搞完，很多实现方式在设计阶段已经拍板，不会有太大问题，然后等开发完后再开始做精修） 发现了一个很长 
+    在上一篇 为什么有人说 vite 快，有人却说 vite 慢？ 中，我们提到过开发模式下使用 Vite 会有首屏性能下降的负面效果。之所以会造成首屏性能下降，一方面是 dev server 需要完成预 
     </details> 
 
-- 🎡 [自定义view 下载进度条](https://juejin.cn/post/7129776212817707022) | Tue Aug 09 2022 7:33 AM 
+- 🎡 [LeetCode周赛305，两千人通过第四题，手速场太可怕……](https://juejin.cn/post/7129801929437216775) | Tue Aug 09 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-    下载进度条自定义view 效果如下 其实主要是draw内部进行绘制 断点也给了点思路 代码很少 主要是绘制叠层和裁剪画布 可能写法不是最优解 
+    大家好，我是梁唐。 我们照例来聊聊昨天的LeetCode周赛。这次是第305场周赛，这场的赞助商是中国银联。前500名都能获得简历内推的机会。 这次的比赛由于题目比较简单，又引来了广泛吐槽，给大家截取 
     </details> 
 
-- 🕯 [【flutter进阶】Widget源码详解-如何实现自由组合，动态刷新，布局绘制？](https://juejin.cn/post/7129770397838344206) | Tue Aug 09 2022 7:10 AM 
+- 🕯 [SwiftUI之ScrollView使用](https://juejin.cn/post/7129798040445009933) | Tue Aug 09 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-    对于StatefulWidget ，StatelessWidget，以及flutter中Widget的众多子类我真的足够了解吗？ 对于自己经常要打交道的东西，如果只是一知半解则不利于进步。 
+    ScrollView 使用 UIKit中 scrollView有十分丰富的功能，但是在SwiftUI中ScrollView变化很多，在其声明的地方只有一个滚动方向和是否展示进度条的设置 如果我们现在需 
     </details> 
 
-- 🚀 [SpringBoot从2.2.5升级到2.7.2问题总结](https://juejin.cn/post/7129751916002672654) | Tue Aug 09 2022 5:59 AM 
+- 🚀 [被裁员后我选择去看青海湖（青甘大环线攻略）](https://juejin.cn/post/7129790391120822303) | Tue Aug 09 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-    SpringBoot从2.2.5升级到2.7.2问题总结 说明 2.7.2为2.x的最后一个稳定版本。 3开始最低要求 Java 17，所以暂时不到3.x。 以下的处理方法主要针对我们的项目，可能并不 
+    计划之外的旅行 每年我都会出去旅游一次，今年原计划是八九月份请年假出去玩，没想到七月份公司出了问题大规模裁员，直接让我的后续计划全部破产。处理完离职的问题以后决定来一次长时间旅行，跟朋友商量结果是青海 
     </details> 
 
-- 💪 [理解Dayjs](https://juejin.cn/post/7129745253627592734) | Tue Aug 09 2022 5:33 AM 
+- 💪 [在 Web 应用的运行时实现多分支并存和切换](https://juejin.cn/post/7129788785100849160) | Tue Aug 09 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-    时间字符串： 指的是 YYYY-MM-DD 、 HH:mm:ss诸如，在本地显示的时间字符串 理解时间和时区 场景A 假设张三在A地区（+8）执行了一行代码，new Date&lpar;&#39;2022-01-01  
+    一般来说，SaaS 服务商提供的是标准化的产品服务，体现的是所有客户的共性需求。然而，部分客户（尤其是大客户），会提出功能、UI 等方面的定制需求。针对这些定制需求，大体上有两个解决方案。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
