@@ -333,7 +333,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [关于委托“FreeBuf”调研成都网络安全企业的情况说明](https://www.freebuf.com/fevents/341423.html) | Tue Aug 09 2022 8:21 AM 
+- 🦄 [FreeBuf成都网络安全企业调研正式开启](https://www.freebuf.com/fevents/341423.html) | Tue Aug 09 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
     现诚邀本土网络安全厂商积极参与，踊跃报名！ 
     </details> 
