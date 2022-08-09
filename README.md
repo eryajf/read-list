@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [共享单车骑行卡涨价 “月卡会员们”是否还不离不弃？](https://www.cnbeta.com/articles/tech/1302593.htm) | Tue Aug 09 2022 1:46 PM 
+- 🕯 [Beats和金-卡戴珊携手推出三种新颜色的Beats Fit Pro](https://www.cnbeta.com/articles/tech/1302597.htm) | Tue Aug 09 2022 2:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果旗下Beats品牌今天宣布与Kim Kardashian（金·卡戴珊）合作推出三种新颜色的Beats Fit Pro无线耳塞。这三种新的中性颜色将从下周二（8月16日）开始在apple.com/kim页面销售，并从第二天开始通过选定的Apple Store店面和授权经销商销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [郭明錤：AirPods Pro 2依然保留Lightning充电盒 USB-C型号明年推出](https://www.cnbeta.com/articles/tech/1302595.htm) | Tue Aug 09 2022 2:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;天风证券分析师郭明錤称，苹果第二代AirPods Pro可能仍然采用Lightning充电盒。在今天的推文中他预测苹果将等到2023年再为所有AirPods型号改用USB-C充电盒。新款AirPods Pro将于今年晚些时候发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [共享单车骑行卡涨价 “月卡会员们”是否还不离不弃？](https://www.cnbeta.com/articles/tech/1302593.htm) | Tue Aug 09 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“我偶尔会骑共享单车，所以没买骑行卡，如果经常骑，月卡还是挺划算的。”8月9日，北京林先生表示，并没有发现共享单车涨价，目前起步价还是1.5元/30分钟。不过，共享单车平台调整骑行卡价格的话题关注度颇高。业内人士认为，原材料上涨的情况下，共享单车调整骑行卡，也属正常情况。此外，近年来互联网平台普遍调整服务价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [为什么美国需要俄罗斯的铀？](https://www.cnbeta.com/articles/tech/1302589.htm) | Tue Aug 09 2022 1:35 PM 
+- 🚀 [为什么美国需要俄罗斯的铀？](https://www.cnbeta.com/articles/tech/1302589.htm) | Tue Aug 09 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;已经进行了半年的俄乌冲突暴露了俄罗斯和美国之间一个鲜为人知的意外联系：核燃料供应链。早在2022年3月，拜登总统宣布对俄罗斯的能源出口进行制裁，特别是石油和天然气。但有一个值得注意的出口被排除在该名单之外：铀。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [LCD面板降价 有液晶电视价格“雪崩”直降5000元](https://www.cnbeta.com/articles/tech/1302587.htm) | Tue Aug 09 2022 1:30 PM 
+- 🎊 [LCD面板降价 有液晶电视价格“雪崩”直降5000元](https://www.cnbeta.com/articles/tech/1302587.htm) | Tue Aug 09 2022 1:30 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;LCD面板作为液晶电视的主要原材料，自去年三季度开始，价格从高点下降，目前仍处于低位。今日，据@央视财经 报道，在走访了几家电视门店后发现，多款液晶电视出现降价，这两个月电视迎来一波小高潮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [分析师：一旦微软收购了动视暴雪 Game Pass订阅用户能达到1亿](https://hot.cnbeta.com/articles/game/1302585.htm) | Tue Aug 09 2022 1:24 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在接受雅虎金融采访时，韦德布什证券分析师Michael Pachter承认他之前质疑微软的Game Pass是错误的，然后他说一旦动视暴雪收购交易完成，那么这个游戏订阅服务可能会跃至1亿用户。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [三星电子拟在越南追加33亿美元投资 用于半导体零部件生产](https://www.cnbeta.com/articles/tech/1302583.htm) | Tue Aug 09 2022 1:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星电子计划于2022年在越南追加投资33亿美元，以帮助三星电子在2023年7月之前开始在越南生产半导体零部件。三星电子正在位于越南东北Thái Nguyên省的三星电机工厂，准备试生产集成电路用的表面贴装封装技术“倒装球栅阵列”&lpar;flip-chip ball grid&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
