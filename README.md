@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [妖股现形：智富融资暴跌80% 尚乘数科跌超40%](https://www.cnbeta.com/articles/tech/1302621.htm) | Tue Aug 09 2022 6:21 PM 
+- 🕯 [魅族手机配件缺货无法维修 加价换购新款手机行为不合规](https://www.cnbeta.com/articles/tech/1302627.htm) | Tue Aug 09 2022 6:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;手机坏了只换不修，这看上去是天大的好事。在今年的618，就有不少手机厂商打出了“180天内只换不修”的承诺，即手机坏了免费换新机。但对部分魅族手机用户而言，他们遇到的“只换不修”，却是加价换购新款手机，而且这加价还不便宜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [上万币圈账号被毙 严管之下谁在逆行](https://www.cnbeta.com/articles/tech/1302625.htm) | Tue Aug 09 2022 6:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;监管风暴再次来袭。自2021年9月央行等十部门对虚拟货币非法业务活动重拳出击后，2022年8月9日，国家网信办再发布集中整治涉虚拟货币炒作乱象的消息称，已关闭上万个违规用户账号，清理数万条违规信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [印度“围剿”中国手机 但“胜利”不会属于印度](https://www.cnbeta.com/articles/tech/1302623.htm) | Tue Aug 09 2022 6:24 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;印度将限制中国厂商出售价格低于1.2万卢比（约合1200元人民币）的手机。8月8日，外媒报道，目前还不清楚莫迪政府是否已经宣布政策，或通过其他非公开渠道向中国公司下达了指令。“还没接到通知，但很可能是真的，媒体在吹风。”某知名手机品牌的印度负责人表示。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [妖股现形：智富融资暴跌80% 尚乘数科跌超40%](https://www.cnbeta.com/articles/tech/1302621.htm) | Tue Aug 09 2022 6:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;两大“妖股”作妖结束了？“妖股”现行了？在接连暴涨之后，智富融资和尚乘数科在8月9日周二纷纷暴跌。智富融资股价一度跌破20美元，已不足最高价的10%。智富融资上周五上市，上市首日一度暴涨超50倍，从4美元的发行价一路走高，日内最高上探214.5美元，触发多次熔断，最终收涨20.7%。上市首日当天收涨2325%报97美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [波音7月客机交付量降至五个月来最低水平](https://www.cnbeta.com/articles/tech/1302619.htm) | Tue Aug 09 2022 6:16 PM 
+- 🎊 [波音7月客机交付量降至五个月来最低水平](https://www.cnbeta.com/articles/tech/1302619.htm) | Tue Aug 09 2022 6:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;波音公司周二表示，该公司7月份飞机交付量降至26架，为五个月以来的最低水平，突显了全球供应链面临的压力。与此同时，该公司准备恢复787梦想客机的交付。&lt;/strong&gt;波音表示，7月份的交付包括23架737 MAX机型和三架宽体货机。该公司今年迄今的总交付量达到242架，其中包括212架MAX机型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [福特上调电动皮卡价格 因原材料成本显著增加](https://www.cnbeta.com/articles/tech/1302617.htm) | Tue Aug 09 2022 6:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;福特汽车周二表示，由于“原材料成本显著增加和其他因素”，该公司将提高其F-150 Lightning电动皮卡的起售价。&lt;/strong&gt;福特表示，价格涨幅在6000-8500美元之间，具体将取决于车型。该公司称，此次涨价不会影响已订购车辆并等待交付的客户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [特斯拉推出官方牌照架 被吐槽像汽配城出品](https://www.cnbeta.com/articles/tech/1302615.htm) | Tue Aug 09 2022 5:11 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;马斯克的杂货铺已经不满足卖哨子、卖酒瓶了。今日，&lt;strong&gt;特斯拉又上架了一款专为Model 3、Model Y打造的周边产品——官方牌照架，售价40美元（约合人民币270元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [AppLovin欲以200亿美元收购游戏引擎开发商Unity](https://hot.cnbeta.com/articles/game/1302613.htm) | Tue Aug 09 2022 5:08 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在上市一年后，应用增长和货币化机构AppLovin今天提交了一份主动提议，希望以价值200亿美元的交易收购游戏引擎Unity。但是有一个问题。Unity将不得不终止其最近与ironSource（AppLovin的竞争对手）的合并交易。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
