@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [docker 的 hello-world 这种运行完就退出的容器，有什么方法进去看看？](https://www.v2ex.com/t/871741#reply4) | Tue Aug 09 2022 10:04 AM
-- 🤗 [esxi 能不能实现按电源按钮关机](https://www.v2ex.com/t/871737#reply0) | Tue Aug 09 2022 9:50 AM
-- 🎭 [Golang 中怎么获得接口中存储的数据指针？](https://www.v2ex.com/t/871734#reply2) | Tue Aug 09 2022 9:40 AM
-- 🥷 [大家有没有什么很 COOL 的终端工具，分享一下。](https://www.v2ex.com/t/871716#reply17) | Tue Aug 09 2022 8:55 AM
-- 🐵 [服务器开机负载 50%,咋定位问题啊?](https://www.v2ex.com/t/871710#reply4) | Tue Aug 09 2022 8:26 AM<!-- v2ex:END -->
+- 🥸 [OpenSSH 使用 Ed25519 算法生成的密钥鉴权真的安全吗，这么短的密钥好不放心，但好多大佬都在推荐。未来是不是比 RSA 更容易出现快速计算来实现破解的方法？](https://www.v2ex.com/t/871754#reply0) | Tue Aug 09 2022 10:58 AM
+- 🤗 [docker 的 hello-world 这种运行完就退出的容器，有什么方法进去看看？](https://www.v2ex.com/t/871741#reply9) | Tue Aug 09 2022 10:04 AM
+- 🎭 [esxi 能不能实现按电源按钮关机](https://www.v2ex.com/t/871737#reply2) | Tue Aug 09 2022 9:50 AM
+- 🥷 [Golang 中怎么获得接口中存储的数据指针？](https://www.v2ex.com/t/871734#reply2) | Tue Aug 09 2022 9:40 AM
+- 🐵 [利用 Windows 11 自带的效率模式把笔记本续航提升到 15 小时以上](https://www.v2ex.com/t/871732#reply0) | Tue Aug 09 2022 9:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
