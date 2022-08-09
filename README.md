@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 美国紧急警报系统发现严重缺陷；Gitlab 禁止使用Windows](https://www.freebuf.com/news/341315.html) | Mon Aug 08 2022 10:20 AM 
+- 🦄 [Meta打击南亚滥用Facebook的网络攻击活动](https://www.freebuf.com/news/341370.html) | Tue Aug 09 2022 3:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    Facebook母公司Meta披露，它对南亚的两个攻击组织采取了反制行动，这两个组织都是利用其社交媒体平台向潜在目标分发恶意软件。 
+    </details> 
+
+- 🦄 [员工被钓鱼，云通讯巨头Twilio客户数据遭泄露](https://www.freebuf.com/news/341361.html) | Tue Aug 09 2022 2:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    Twilio表示，有攻击者利用短信网络钓鱼攻击窃取了员工凭证，并潜入内部系统泄露了部分客户数据。 
+    </details> 
+
+- 🦅 [丹麦7-11门店因网络攻击而关闭](https://www.freebuf.com/news/341358.html) | Tue Aug 09 2022 2:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    因遭受了网络攻击，丹麦7-11门店的支付和结账系统全面故障，故而选择闭店。 
+    </details> 
+
+- 🪄 [FreeBuf早报 | 美国紧急警报系统发现严重缺陷；Gitlab 禁止使用Windows](https://www.freebuf.com/news/341315.html) | Mon Aug 08 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
     美国政府警告其紧急警报系统 &lpar;EAS&rpar; 系统中的严重漏洞；Gitlab 被发现有一项禁止使用 Microsoft Windows 的公司政策。 
     </details> 
 
-- 🦄 [安全应急响应，用魔法打败魔法！](https://www.freebuf.com/news/341305.html) | Mon Aug 08 2022 9:20 AM 
+- 💻 [安全应急响应，用魔法打败魔法！](https://www.freebuf.com/news/341305.html) | Mon Aug 08 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
      
-    </details> 
-
-- 🦅 [针对Windows和Linux ESXi服务器，GwisinLocker勒索软件发起勒索攻击](https://www.freebuf.com/news/341293.html) | Mon Aug 08 2022 8:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    GwisinLocker勒索软件系列针对具有Windows和Linux加密器的韩国医疗保健、工业和制药公司发动勒索攻击. 
-    </details> 
-
-- 🪄 [微软365网络钓鱼攻击中滥用Snapchat和Amex网站](https://www.freebuf.com/news/341287.html) | Mon Aug 08 2022 7:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    攻击者在一系列网络钓鱼攻击中滥用 Snapchat 和美国运通网站上的开放重定向，以期窃取受害者 Microsoft 365 凭证。 
-    </details> 
-
-- 💻 [从BlackHat来看JDBC Attack](https://www.freebuf.com/vuls/341270.html) | Mon Aug 08 2022 4:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    从Mysql 任意文件读取、allowUrlInLocalInfile的使用、Mysql客户端反序列化等方面进行讲解。 
     </details> 
 <!-- freebuf:END -->
 
