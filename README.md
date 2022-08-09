@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [「CSS畅想」玩转CSS的2D转换，也许能有个代码纸片人](https://juejin.cn/post/7129724157809393678) | Tue Aug 09 2022 4:11 AM 
+- 🤗 [以掘金首页为例带你进行组件拆解、Tauri+React仿写一个酷安社区PC端、纯代码实现立体Dash和3D掘金Logo|酱酱的下午茶第46期](https://juejin.cn/post/7129734924516950029) | Tue Aug 09 2022 4:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    本期下午茶看点：以掘金首页为例带你进行组件拆解、Tauri+React仿写一个酷安社区PC端、纯代码实现立体Dash和3D掘金Logo... 
+    </details> 
+
+- 🎡 [欢迎你在掘金开始创作！这里有一份如何快速玩转掘金指南&gt;&gt;](https://juejin.cn/post/7129733076543864863) | Tue Aug 09 2022 4:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    欢迎xdjm在掘金开始创作！如何快速玩转掘金&gt;&gt; 掘友你好，欢迎在掘金开始创作！也许你非常关心以下内容： 如何使用掘金编辑器写文章 掘金的内容审核和推荐规则 掘金社区内容的标准和规范 违规文章是什么样 
+    </details> 
+
+- 🕯 [【LeetCode】1403. 非递增顺序的最小子序列](https://juejin.cn/post/7129727151191900167) | Tue Aug 09 2022 4:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 测试岗位也越来卷了，除了基本的功能测试外，还要有编程基础、脚本经验才脱颖而出。 怎么才能提高我们的编程能 
+    </details> 
+
+- 🚀 [「CSS畅想」玩转CSS的2D转换，也许能有个代码纸片人](https://juejin.cn/post/7129724157809393678) | Tue Aug 09 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情。「趣学前端」系列，今天和大家分享的是transform的2D转换功能。 
     </details> 
 
-- 🎡 [你有对象类,我有结构体,Go lang1.18入门精炼教程，由白丁入鸿儒，go lang结构体&lpar;struct&rpar;的使用EP06](https://juejin.cn/post/7129717416333934600) | Tue Aug 09 2022 3:45 AM 
+- 💪 [不要盲目刷算法题！！！](https://juejin.cn/post/7129720135664795661) | Tue Aug 09 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
-    再续前文，在面向对象层面，Python做到了超神：万物皆为对象，而Ruby，则干脆就是神：飞花摘叶皆可对象。二者都提供对象类操作以及继承的方式为面向对象张目，但Go lang显然有一些特立独行 
-    </details> 
-
-- 🕯 [你是不是还在随意使用while循环？该小心一点了。](https://juejin.cn/post/7129716643097214984) | Tue Aug 09 2022 3:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    我会尽量避免去使用while。不代表while就完全一无是处。while也是有自己的使用场景的。作者仅从个人角度来说明为什么我要避开while循环。 
-    </details> 
-
-- 🚀 [【你的第二个socket应用】Vue3+Node实现一对一即时聊天应用](https://juejin.cn/post/7129714963458818085) | Tue Aug 09 2022 3:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    前一段时间通过WebSocket实现了一个即时通讯聊天室，使用是Vue3+Node，那篇文章点我进入，这篇文章在上一篇文章的基础上进行一个简单的扩展，实现一个一对一即时聊天应用。 
-    </details> 
-
-- 💪 [ZooKeeper集群操作以及集群Master选举](https://juejin.cn/post/7129714129660542984) | Tue Aug 09 2022 3:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    分布式的高可用协调服务：简单又不简单的ZooKeeper！本文不仅提供了保姆式搭建ZooKeeper集群的步骤，并且还演示了集群如何选举Master的。 
+    刷题前一定要先打好数据结构和算法基础，没有基础刷题，寸步难行。 打基础推荐一位宝藏老师（建议2倍速观看）： https://www.bilibili.com/video/BV1nJ411V7bd?p= 
     </details> 
 <!-- juejin:END -->
 ### 少数派
