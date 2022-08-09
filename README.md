@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微信PC版新增手机/电脑聊天记录互相迁移和合并](https://www.cnbeta.com/articles/tech/1302493.htm) | Tue Aug 09 2022 8:26 AM 
+- 🕯 [韩国将调查苹果和谷歌应用商店：或违反应用内支付法规](https://www.cnbeta.com/articles/tech/1302515.htm) | Tue Aug 09 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微信聊天记录保存是很多网友面临的巨大问题，然而在无数网友呼吁微信增加云端保存功能微信也无动于衷。&lt;strong&gt;虽然微信聊天记录也可以定期备份到电脑上但毕竟还是有些麻烦，尤其是聊天记录不同的版本还是不同步的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月9日下午消息，据报道，&lt;strong&gt;韩国电信监管机构“韩国通信委员会”（KCC）今日表示，计划对苹果和Google的应用商店，以及韩国的一个应用商店One Store展开调查&lt;/strong&gt;，原因是这些应用商店可能违反了应用内支付法规。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [经纪人回应林志颖转入普通病房 半年可恢复正常](https://www.cnbeta.com/articles/tech/1302491.htm) | Tue Aug 09 2022 8:25 AM 
+- 💼 [专家：现在还没有真正的5G应用 运营商逼迫用户升级5G不是商业正路](https://www.cnbeta.com/articles/tech/1302513.htm) | Tue Aug 09 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;林志颖7月22日驾驶特斯拉自撞桥墩号志杆起火，“车友”姚元浩8月8日出席活动时被问到他近况，称有共同朋友说林志颖已转入普通病房。&lt;strong&gt;对于这个消息，林志颖经纪人回应：“谢谢关心，目前先让病人休养，暂时先不做其他回应。”关于林志颖的手术进度，有位不具名的医师对外透露，林志颖“骨头复位得蛮漂亮”，预估半年可以恢复正常运动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月9日下午消息，在世界5G大会的元宇宙论坛上，北京航空航天大学软件学院创始院长、贵州盛华职业学院创始人及院长孙伟发表主题演讲。&lt;/strong&gt;他指出，5G目前面临着巨大挑战。5G建设我国已经投入了上万亿元，全球第一；还要继续投入上万亿元，继续全球第一；华为等公司的5G技术和专利授权领先全球，全球第一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [白色Xbox Elite Wireless Series 2手柄再次曝光](https://www.cnbeta.com/articles/tech/1302489.htm) | Tue Aug 09 2022 8:23 AM 
+- 💂 [Meta AI聊天机器人被发现存在一些否认选举结果和反犹太主义的错误](https://www.cnbeta.com/articles/tech/1302511.htm) | Tue Aug 09 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年 3 月，在一家零售店内发现了一款白色的 Xbox Elite Wireless Controller - Series 2。当时曝光的图片显示 Xbox Elite Controller 采用白色的机身和黑色摇杆，按钮部分同样也是和机身相同的白色。&lt;strong&gt;今天，国外科技媒体 NeoWin 发现了 1 个月前上传的一段视频，更细节地展示了白色 Xbox Elite Wireless Controller。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;就在Meta发布其迄今为止最先进的AI聊天机器人的两天后，BlenderBot 3正在向与之互动的用户重复否认选举的说法和反犹太主义的定型观念。这项机器学习技术--于周五向公众推出--通过在互联网上搜索信息并从它与人类用户的对话中学习来制作回应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软确认Windows 10/11操作系统存在打不开XPS文档的问题](https://www.cnbeta.com/articles/tech/1302487.htm) | Tue Aug 09 2022 8:23 AM 
+- 🚀 [同样是矿卡崩盘：NVIDIA显卡暴跌、AMD显卡逆势增长](https://www.cnbeta.com/articles/tech/1302509.htm) | Tue Aug 09 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由 Windows Health Dashboard 可知，微软已意识到一个问题 —— &lt;strong&gt;作为 Adobe PDF 的替代品，Windows 10 / 11 操作系统用户似乎很难打开特定的 XPS 文档。&lt;/strong&gt;除了无法打开非英语语言的 XPS / OXPS 文档，XPS Viewer 查看器也会停止响应并蚕食 CPU / 内存资源，直至突破 2.5GB RAM 使用率时崩溃。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨晚NVIDIA突然发布了财报预警，指出二季度营收预计为67亿美元，环比下滑19%，同比仅增长3%，而且游戏业务营收仅为20.4亿美元，环比下滑44%，同比下滑也达到了33%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [ICANN第75届大会参会者需下载追踪应用程序](https://www.cnbeta.com/articles/tech/1302485.htm) | Tue Aug 09 2022 8:12 AM 
+- 🎊 [北京市消协约谈每日优鲜，要求及时公布退费方案和登记方式](https://www.cnbeta.com/articles/tech/1302507.htm) | Tue Aug 09 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;感谢&lt;a href=&quot;https://www.racent.com/blog/going-to-icann75-youll-need-to-download-a-tracking-app&quot; target=&quot;_blank&quot;&gt;锐成信息&lt;/a&gt;的投递&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;ICANN 第75届大会将于2022年9月17日至22日在吉隆坡举行，参会者需要遵守马来西亚新冠肺炎疫情管控条例，下载追踪应用程序等。首先，所有到马来西亚的人都必须下载、注册、激活使用MySejahtera应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;针对近日“每日优鲜”无法正常经营引发大量消费者投诉的情况，8月4日下午，市消协约谈北京每日优鲜电子商务有限公司。会上，市消协向北京每日优鲜电子商务有限公司通报了96315热线登记消费者投诉的情况，并对企业目前的现状和投诉处理情况进行了询问。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
