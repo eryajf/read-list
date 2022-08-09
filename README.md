@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[图]大疆有望推新款FPV无人机Avata，小巧机身可在室内飞行](https://www.cnbeta.com/articles/tech/1302305.htm) | Tue Aug 09 2022 1:53 AM 
+- 🕯 [梅赛德斯-奔驰推出培训计划以深化员工的EV知识](https://www.cnbeta.com/articles/tech/1302383.htm) | Tue Aug 09 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;大疆（DJI）可能在会近期推出一款采用第一人称视角（FPV）的新款无人机，小巧的体积可以在室内飞行。&lt;/strong&gt;知名爆料人士 @OsitaLV 在最新分享的视频中，展示使用了大疆 Motion Controller 控制器遥控无人机的场景。这款无人机如果并非是专门用于测试的原型设备的话，在演示中我们也看到了 FPV 护目镜，那么在上市之后可能会叫做 Avata。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;德国豪华汽车制造商梅赛德斯-奔驰正在推出Mercedes EQ体验，这是一个沉浸式的电动车培训计划以加深员工的知识。&lt;/strong&gt;该项目旨在围绕其新的电动车子品牌为梅赛德斯团队成员提供能量、教育和电动化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Take Two Q1财报：亏损1亿美元 那个游戏5销量1.7亿套](https://hot.cnbeta.com/articles/game/1302303.htm) | Tue Aug 09 2022 1:51 AM 
+- 💼 [漫威《钢铁之心》剧场照泄露 新战甲和反派曝光](https://hot.cnbeta.com/articles/movie/1302381.htm) | Tue Aug 09 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Take Two发布了2023财年第一季度（截止到2022年6月30日）财报，在此期间Zynga正式加入了T2，这一收购对T2该季度的业绩影响很大。&lt;/strong&gt;目前，Take Two收入的94%来自数字渠道，75%来自即时服务游戏的“经常性消费支出（氪金）”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由小罗伯特·唐尼饰演的托尼·斯塔克已经在漫威电影宇宙去世，作为启动十年有余牵动许多粉丝心弦宏大篇章的首个超级英雄，钢铁侠的位置目前空了出来，但漫威已经有了对应的计划。《钢铁之心》于去年首次宣布，将由 Dominique Thorne 饰演女主角，新黑人女性超级英雄“钢铁之心”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1302381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Fully Buffered揭示了传说中的英特尔“奔腾5”处理器的更多细节](https://www.cnbeta.com/articles/tech/1302301.htm) | Tue Aug 09 2022 1:47 AM 
+- 💂 [《FIFA 23》职业俱乐部演示预告公布 10月1日正式发售](https://hot.cnbeta.com/articles/game/1302379.htm) | Tue Aug 09 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在周一发布的一支油管视频中，Fully Buffered 讲述了与英特尔被弃的 7 GHz“奔腾 5”处理器有关的故事。&lt;/strong&gt;若能顺利推进，英特尔原本有望挑战单核 7-10 GHz 主频。然而受功耗与过热问题的困扰，该项目最终被搁置，然后该公司将重心转移到了多核路线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（8月9日），EA官方公布《FIFA 23》职业俱乐部官方实机演示预告，《FIFA 23》Steam国区10月1日发售，支持简中。《FIFA 23》将采用次世代HyperMotion2技术，并提供两倍的真实比赛数据捕捉。游戏将有超过6000个真实足球动画效果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [间歇性禁食试验看到减肥的好处 但问题仍然存在](https://www.cnbeta.com/articles/science/1302299.htm) | Tue Aug 09 2022 1:47 AM 
+- 🚀 [张平院士：破解6G演进的挑战 需大力发展原创通信技术](https://www.cnbeta.com/articles/tech/1302377.htm) | Tue Aug 09 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近一项测试流行的限制时间的饮食做法的研究取得了积极的结果，表明与卡路里计算相比，体重下降更多。&lt;strong&gt;但是，研究人员仍然深陷在不和谐的研究结果中，无法清楚地证明这种间歇性禁食策略的减肥好处是否是由于试验参与者只是吃得少而造成的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在世界5G大会的前瞻论坛上，中国工程院院士张平发表《发展5G及Beyond技术，使能双循环数字战略》的主题演讲。&lt;/strong&gt;他表示，6G发展正面临激烈的国际竞争格局，对新一轮技术创新和产业变革至关重要。中国、美国、芬兰、欧盟、日本、韩国等都在提前布局6G。他指出了全球和我国在6G研发中面临的挑战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Google用可爱的爪印游戏迎接国际猫咪日的到来](https://www.cnbeta.com/articles/tech/1302297.htm) | Tue Aug 09 2022 1:39 AM 
+- 🎊 [BBC举办游戏音乐会 游戏配乐成为主流“只是时间问题”](https://hot.cnbeta.com/articles/music/1302375.htm) | Tue Aug 09 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;人们可能会觉得互联网上的每一天都是国际猫咪日，但周一却是庆祝来自世界各地的猫咪朋友的正式日子。&lt;strong&gt;Google在今日（当地时间8月8日）的搜索结果中为猫迷们塞进了一个甜蜜的复活节彩蛋。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;此前我们曾报道 BBC 宣布今年 8 月 1 日举办游戏配乐主题的音乐会。&lt;/strong&gt;这是 BBC 首次举办以游戏为主题的音乐会，并且，此次音乐会还是由皇家爱乐乐团演奏的，游戏配乐也被主流大众逐渐接受为正统音乐的一种分支，GI.biz称这是非常值得游戏业界庆祝的又一个文化里程碑。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1302375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
