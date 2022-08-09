@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉推出官方牌照架 被吐槽像汽配城出品](https://www.cnbeta.com/articles/tech/1302615.htm) | Tue Aug 09 2022 5:11 PM 
+- 🕯 [妖股现形：智富融资暴跌80% 尚乘数科跌超40%](https://www.cnbeta.com/articles/tech/1302621.htm) | Tue Aug 09 2022 6:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;两大“妖股”作妖结束了？“妖股”现行了？在接连暴涨之后，智富融资和尚乘数科在8月9日周二纷纷暴跌。智富融资股价一度跌破20美元，已不足最高价的10%。智富融资上周五上市，上市首日一度暴涨超50倍，从4美元的发行价一路走高，日内最高上探214.5美元，触发多次熔断，最终收涨20.7%。上市首日当天收涨2325%报97美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [波音7月客机交付量降至五个月来最低水平](https://www.cnbeta.com/articles/tech/1302619.htm) | Tue Aug 09 2022 6:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;波音公司周二表示，该公司7月份飞机交付量降至26架，为五个月以来的最低水平，突显了全球供应链面临的压力。与此同时，该公司准备恢复787梦想客机的交付。&lt;/strong&gt;波音表示，7月份的交付包括23架737 MAX机型和三架宽体货机。该公司今年迄今的总交付量达到242架，其中包括212架MAX机型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [福特上调电动皮卡价格 因原材料成本显著增加](https://www.cnbeta.com/articles/tech/1302617.htm) | Tue Aug 09 2022 6:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;福特汽车周二表示，由于“原材料成本显著增加和其他因素”，该公司将提高其F-150 Lightning电动皮卡的起售价。&lt;/strong&gt;福特表示，价格涨幅在6000-8500美元之间，具体将取决于车型。该公司称，此次涨价不会影响已订购车辆并等待交付的客户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [特斯拉推出官方牌照架 被吐槽像汽配城出品](https://www.cnbeta.com/articles/tech/1302615.htm) | Tue Aug 09 2022 5:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;马斯克的杂货铺已经不满足卖哨子、卖酒瓶了。今日，&lt;strong&gt;特斯拉又上架了一款专为Model 3、Model Y打造的周边产品——官方牌照架，售价40美元（约合人民币270元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AppLovin欲以200亿美元收购游戏引擎开发商Unity](https://hot.cnbeta.com/articles/game/1302613.htm) | Tue Aug 09 2022 5:08 PM 
+- 🎊 [AppLovin欲以200亿美元收购游戏引擎开发商Unity](https://hot.cnbeta.com/articles/game/1302613.htm) | Tue Aug 09 2022 5:08 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在上市一年后，应用增长和货币化机构AppLovin今天提交了一份主动提议，希望以价值200亿美元的交易收购游戏引擎Unity。但是有一个问题。Unity将不得不终止其最近与ironSource（AppLovin的竞争对手）的合并交易。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [外星人34寸非曲面显示器即将面世](https://www.cnbeta.com/articles/tech/1302611.htm) | Tue Aug 09 2022 4:57 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;型号为AW3423DWF的外星人QD-OLED显示器已通过相关机构认证，据信将于近期面市：“F”后缀也许指明了该显示器是之前曲面屏的平面型号（Flat），这对于那些不喜欢曲面屏的用户来说是一个好消息，除非平面型号有大幅溢价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [三星Galaxy Z Flip4的机模实拍照片展示两种配色](https://www.cnbeta.com/articles/tech/1302609.htm) | Tue Aug 09 2022 4:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;几个月前，三星Galaxy Z Flip4出现在实拍照片中，显示的似乎是石墨色的配色。现在又有更多的机模浮出水面，甚至还有一段短视频。新照片显示了两种配色，分别是石墨色和粉金色。后者是一种双色设计，面板较浅，金属框架的色调不同。盖板上的相机模组和屏幕区域是黑色的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [塞雷娜·威廉姆斯将宣布退役计划：&quot;我正在逐渐远离网球&quot;](https://www.cnbeta.com/articles/tech/1302607.htm) | Tue Aug 09 2022 4:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;23个大满贯单打冠军得主、网球运动的代表人物塞雷娜-威廉姆斯（小威）在为《时尚》杂志9月刊撰写的一篇文章中宣布了从网球这项运动中退役的计划。&amp;quot;我在这里告诉你们，我正在逐渐远离网球，走向其他对我来说很重要的事情，&amp;quot;威廉姆斯在星期二发表的文章中说。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
