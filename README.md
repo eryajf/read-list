@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国成功发射一箭十六星 每一颗都牛得很](https://www.cnbeta.com/articles/science/1303013.htm) | Wed Aug 10 2022 5:28 PM 
+- 🕯 [欧洲多条河流水位告急 危及800亿美元贸易航道](https://www.cnbeta.com/articles/tech/1303019.htm) | Wed Aug 10 2022 7:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;欧洲各地今夏干旱少雨，气温刷新纪录，多条河流也濒临干涸。&lt;/strong&gt;莱茵河作为德国、荷兰和瑞士几个世纪以来的经济支柱，也是欧洲最为重要的水路之一。本周晚些时候，莱茵河的一个关键航路点可能会基本无法通行，阻碍包括柴油、煤炭等能源产品和其他工业商品的运输。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [乐视怒怼中电熊猫 一声难兄难弟的叹息](https://www.cnbeta.com/articles/tech/1303017.htm) | Wed Aug 10 2022 7:29 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“合作已中止，会索赔。”这是乐视相关负责人在发文控诉中电熊猫后，对北京商报记者的回复。8月10日，乐融致新电子科技（天津）有限公司（以下简称“乐融致新”）和天津智融创新科技发展有限公司（以下简称“天津智融”）联合发布了《乐视致南京中电熊猫家电有限公司的公开信》（以下简称《公开信》）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [“杀猪盘”盯上互联网平台 网络虚假人设诈骗如何防？](https://www.cnbeta.com/articles/tech/1303015.htm) | Wed Aug 10 2022 7:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，多名用户称在社区电商等平台上了遇到了“杀猪盘”骗局。不法分子盗取他人信息后，在平台上塑造虚假人设行骗。互联网平台何以成为“杀猪盘”的温床？利用网络虚假用户信息行骗防不胜防，该如何防范？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [中国成功发射一箭十六星 每一颗都牛得很](https://www.cnbeta.com/articles/science/1303013.htm) | Wed Aug 10 2022 5:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月10日12时50分，在太原卫星发射中心，长征六号运载火箭成功将16颗商用卫星送入太阳同步轨道，发射任务取得圆满成功。&lt;strong&gt;这是长征六号运载火箭第9次发射、长征系列运载火箭第432次发射。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华为Mate 50三个型号完成入网 9月大战iPhone 14](https://www.cnbeta.com/articles/tech/1303011.htm) | Wed Aug 10 2022 5:28 PM 
+- 🎊 [华为Mate 50三个型号完成入网 9月大战iPhone 14](https://www.cnbeta.com/articles/tech/1303011.htm) | Wed Aug 10 2022 5:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年9月的手机圈与往年都不太一样，&lt;strong&gt;除iPhone 14系列外，时隔两年问世的华为Mate 50系列也会正式登场。&lt;/strong&gt;当今手机界两个最有竞争力的品牌将上演一场硬碰硬的“大战”。目前华为Mate 50系列已在工信部官网公示，具体型号为BNE-AL00、DCO-AL00、CET-AL00，预计对应Mate 50，Mate 50 Pro和Mate 50 RS三款机型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [AMD Zen4有“甜点”：DDR5-6000MHz以下全成了炮灰](https://www.cnbeta.com/articles/tech/1303009.htm) | Wed Aug 10 2022 5:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel 12代酷睿在消费级首发支持DDR5内存，AMD锐龙6000H/U系列笔记本已经跟上，Zen4架构的锐龙7000系列在桌面上也要补完了。但是，DDR5初期频率非常低，导致性能相比DDR4变化不大，但价格高得多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [郭明錤：iPhone 14 Pro机型可能比iPhone 13 Pro更贵](https://www.cnbeta.com/articles/tech/1303007.htm) | Wed Aug 10 2022 4:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天风证券分析师郭明錤表示，苹果可能会提高其即将推出的iPhone 14 Pro机型的价格，但目前还不清楚它们会贵多少。郭明錤在周三的推文中说，富士康将是即将推出的产品的平均销售价格（ASP）上升的&amp;quot;赢家之一&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [1TB 1.7万元 三星首发骁龙8+折叠屏Galaxy Z Fold4](https://www.cnbeta.com/articles/tech/1303005.htm) | Wed Aug 10 2022 3:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日晚，三星正式发布了新一代两款折叠屏旗舰机Galaxy Z Fold4、Galaxy Z Flip4，第一次为折叠屏带来了骁龙8+旗舰平台。Galaxy Z Fold4延续了家族折叠设计方案，&lt;strong&gt;折叠状态下边缘处最薄14.2毫米、铰链处最厚15.8毫米，而展开后厚度控制在区区6.3毫米，不过分量依然很足，达到了263克。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
