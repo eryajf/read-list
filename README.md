@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [优化实战 第43期 - 数据字典的设计](https://juejin.cn/post/7130121701819416590) | Wed Aug 10 2022 5:54 AM 
+- 🤗 [Android实现仿微信实时语音对讲功能｜与女友游戏开黑](https://juejin.cn/post/7130156247310925838) | Wed Aug 10 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-    在日常的项目研发中，常常会遇到一些下拉框选项或一组（单选/多选）的选择项，比如性别、学历、行业等。通常以 [{ label: &#39;前端显示的文案&#39;, value: &#39;后端存储的数据库值&#39; }] 的枚举数 
+    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！” 与亲朋好友一起玩在线游戏，如果游戏中有实时语音对讲能力就可以拉进玩家之间的距离，添加更多乐趣。我们以经典的中国象棋为例，开发在线语音 
     </details> 
 
-- 🎡 [Spring纯注解开发，简直太哇塞了！](https://juejin.cn/post/7130117910994878477) | Wed Aug 10 2022 5:39 AM 
+- 🎡 [React 官网为什么那么快、Java 定时任务技术趋势｜掘金一周 08.10](https://juejin.cn/post/7130152856836898829) | Wed Aug 10 2022 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring3.0引入了纯注解开发的模式，框架的诞生是为了简化开发，那注解开发就是简化再简化。Spring的特性在整合MyBatis方面体现的淋漓尽致哦 
+    【掘金一周08.10】本期看点：前端构建效率优化之路、写在腾讯的第六年、如何优雅的消除项目中的重复代码.. 
     </details> 
 
-- 🕯 [Element 2 组件源码剖析之Message消息提示](https://juejin.cn/post/7130117232138387492) | Wed Aug 10 2022 5:36 AM 
+- 🕯 [iOS App技术支持网址&lpar;URL&rpar;](https://juejin.cn/post/7130146079588237325) | Wed Aug 10 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
-    消息提示组件 `Message` 常用于主动操作后的反馈提示，顶部居中显示并自动消失，是一种不打断用户操作的轻量级提示方式。本文将分析其源码实现，耐心读完，相信会对您有所帮助。 
+    If you have any questions, please leave a message or send me an email. Email：h85296374102022@163.com 
     </details> 
 
-- 🚀 [EMP React@18 的 安卓低版本支持](https://juejin.cn/post/7130117113523470343) | Wed Aug 10 2022 5:36 AM 
+- 🚀 [LockSupport详解](https://juejin.cn/post/7130118450789220382) | Wed Aug 10 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 最近升级了一批低版本的活动模版支持依赖 其中用到的库有 React@18 React-Dom@18 React-Router-Dom@6 Zustand@4 项目地址: Github Demo  
+    LockSupport详解 带着BAT大厂的面试问题去理解 为什么LockSupport也是核心基础类? AQS框架借助于两个类：Unsafe&lpar;提供CAS操作&rpar;和LockSupport&lpar;提供park/ 
     </details> 
 
-- 💪 [详解TCP三次握手的首次握手协议数据](https://juejin.cn/post/7130062216355086372) | Wed Aug 10 2022 2:03 AM 
+- 💪 [go语言实现常用排序算法详解必备](https://juejin.cn/post/7130090981658984461) | Wed Aug 10 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-    我们之前学习计算机网络，都会提到TCP的三次握手、四次挥手，相信不少小伙伴都能简单描述但一直似懂非懂。那么双方主机到底是如何进行协议交互的？今天带领大家从二进制协议数据层面进行深入分析。 
+    排序算法是在生活中随处可见，也是算法基础，因为其实现代码较短,应用较常见。所以在面试中经常会问到排序算法及其相关的问题，可以说是每个程序员都必须得掌握的了。为了方便大家学习，花了一天的时间用Go语言实 
     </details> 
 <!-- juejin:END -->
 ### 少数派
