@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [一日一技 | 一个注册表键让微软停止歧视苹果](https://sspai.com/post/75019) | Tue Aug 09 2022 9:30 AM 
+- 👹 [派早报：一加 Ace Pro 发布、阿维塔 11 发售等](https://sspai.com/post/75072) | Wed Aug 10 2022 12:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    台州公共交通卡支持 Apple Pay，Beats Fit Pro 推出金·卡戴珊特别版新配色等。&lt;a href=&quot;https://sspai.com/post/75072&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [一日一技 | 一个注册表键让微软停止歧视苹果](https://sspai.com/post/75019) | Tue Aug 09 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     Windows 上 Xbox Game Bar 的录制功能很方便，但录制的视频在 Apple 设备上播放不正常，只需要修改一个注册表键就能让微软停止歧视苹果。&lt;a href=&quot;https://sspai.com/post/75019&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [定向运动：集竞速、烧脑、体能、越野为一体的高强度户外运动](https://sspai.com/post/75052) | Tue Aug 09 2022 8:33 AM 
+- 🤭 [定向运动：集竞速、烧脑、体能、越野为一体的高强度户外运动](https://sspai.com/post/75052) | Tue Aug 09 2022 8:33 AM 
     <details><summary>展开描述 ...</summary> 
     定向运动是一种借助地图、指北针或其他导航工具，在一个设定的范围内，通过途中的各种障碍，快速到达目标点位并完成各个点位任务，最后到达终点的运动。&lt;a href=&quot;https://sspai.com/post/75052&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [借我一小时，来和 500 人一起在线编程](https://sspai.com/post/74959) | Tue Aug 09 2022 6:32 AM 
+- 🥸 [借我一小时，来和 500 人一起在线编程](https://sspai.com/post/74959) | Tue Aug 09 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
     在「100小时后请叫我程序员」栏目上架之时，曾有派友犀利地提出过一个问题：为什么我要在少数派学编程？在少数派的平台上，泛科技和品质生活类内容固然最为拿手，但我们资深的作者与编辑团队对于「硬核」的编程同 ...&lt;a href=&quot;https://sspai.com/post/74959&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [城市漫步指南（半份）｜愿您在合肥找到「平静」](https://sspai.com/post/74998) | Tue Aug 09 2022 3:31 AM 
+- 🙉 [城市漫步指南（半份）｜愿您在合肥找到「平静」](https://sspai.com/post/74998) | Tue Aug 09 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     前言南京自古以来都是「国家历史文化名城」，高铁通车以后，南京更是来自安徽的朋友们求学、工作的热门目的地，所以南京又有了「徽京」这一玩味的美誉。想必这也是我经常被问及：「你当初为什么选择去合肥而不是南京 ...&lt;a href=&quot;https://sspai.com/post/74998&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：Apple 推送 iOS/iPadOS 16 开发者预览版 Beta 5 等](https://sspai.com/post/75056) | Tue Aug 09 2022 12:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    腾讯注册微信刷掌商标，Intel 发布 Arc Pro 系列 GPU 等。&lt;a href=&quot;https://sspai.com/post/75056&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
