@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Suggestic API - 统一的食物、食谱、餐厅和膳食计划 API](https://xinquji.com/posts/178604?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:45 AM 
+- 👀 [Swipewipe - 一种刻意清理相机胶卷的令人愉快的方式](https://xinquji.com/posts/178627?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     统一的食物、食谱、餐厅和膳食计划 API  
+     一种刻意清理相机胶卷的令人愉快的方式  
     </details> 
 
-- 🥷 [Prelaunchers - 在所有人之前找到您下一个最喜欢的产品](https://xinquji.com/posts/178603?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:43 AM 
+- 🥷 [Spotify Tickets - 您喜爱的创作者的现场活动目的地](https://xinquji.com/posts/178626?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     在所有人之前找到您下一个最喜欢的产品  
+     您喜爱的创作者的现场活动目的地  
     </details> 
 
-- 💼 [Freemance - 硬币驱动的自由职业者社区](https://xinquji.com/posts/178602?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:41 AM 
+- 💼 [Birthday Piano - 为某人的生日发送一首歌和一个愿望](https://xinquji.com/posts/178625?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     硬币驱动的自由职业者社区  
+     为某人的生日发送一首歌和一个愿望  
     </details> 
 
-- 🦅 [Flipped Off - 一个挑衅的中指 GIF 库](https://xinquji.com/posts/178601?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:39 AM 
+- 🦅 [Virtual Headshot - 制作很棒的个人资料图片](https://xinquji.com/posts/178624?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     一个挑衅的中指 GIF 库  
+     制作很棒的个人资料图片  
     </details> 
 
-- 😺 [Meme Yourself - 一个有趣的工具，用你的脸制作模因，富有创意和有趣](https://xinquji.com/posts/178600?utm_campaign=xinquji-rss) | Wed Aug 10 2022 6:37 AM 
+- 😺 [UMU AI Audio Slides - 使用虚拟讲师创建带字幕的 AI 视频课程](https://xinquji.com/posts/178623?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     一个有趣的工具，用你的脸制作模因，富有创意和有趣  
+     使用虚拟讲师创建带字幕的 AI 视频课程  
     </details> 
 <!-- xinquji:END -->
