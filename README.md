@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Swipewipe - 一种刻意清理相机胶卷的令人愉快的方式](https://xinquji.com/posts/178627?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:27 AM 
+- 👀 [Notion Small Business Kit - 使用 Notion 启动和管理您的小型企业](https://xinquji.com/posts/178640?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     一种刻意清理相机胶卷的令人愉快的方式  
+     使用 Notion 启动和管理您的小型企业  
     </details> 
 
-- 🥷 [Spotify Tickets - 您喜爱的创作者的现场活动目的地](https://xinquji.com/posts/178626?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:26 AM 
+- 🥷 [Svix - 企业就绪的 webhook 发送服务](https://xinquji.com/posts/178639?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     您喜爱的创作者的现场活动目的地  
+     企业就绪的 webhook 发送服务  
     </details> 
 
-- 💼 [Birthday Piano - 为某人的生日发送一首歌和一个愿望](https://xinquji.com/posts/178625?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:25 AM 
+- 💼 [Buy Geek Stuff - 网络上的精选列表很酷的小工具和极客项目](https://xinquji.com/posts/178638?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     为某人的生日发送一首歌和一个愿望  
+     网络上的精选列表很酷的小工具和极客项目  
     </details> 
 
-- 🦅 [Virtual Headshot - 制作很棒的个人资料图片](https://xinquji.com/posts/178624?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:24 AM 
+- 🦅 [pro - 在浏览器中快速打开当前 PR 的单个命令](https://xinquji.com/posts/178637?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     制作很棒的个人资料图片  
+     在浏览器中快速打开当前 PR 的单个命令  
     </details> 
 
-- 😺 [UMU AI Audio Slides - 使用虚拟讲师创建带字幕的 AI 视频课程](https://xinquji.com/posts/178623?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:23 AM 
+- 😺 [Meet Jules - 完全抵消您的碳足迹](https://xinquji.com/posts/178636?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     使用虚拟讲师创建带字幕的 AI 视频课程  
+     完全抵消您的碳足迹  
     </details> 
 <!-- xinquji:END -->
