@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【docker专栏】使用docker安装nginx提供web服务](https://juejin.cn/post/7130150571964629022) | Wed Aug 10 2022 7:46 AM 
+- 🤗 [浅谈函数调用！](https://juejin.cn/post/7130173989950849031) | Wed Aug 10 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-    一般学习一项技术，会先用一个最简单的例子或最典型的例子来向大家讲解入门内容，所以此文为大家介绍使用docker安装nginx容器服务。从基础使用的角度来讲，此文几乎涵盖了docker最核心的内容：镜像 
+    在任意一门编程语言中，函数调用基本上都是非常常见的操作；我们都知道，函数是由调用栈实现的，不同的函数调用会切换上下文；但是，你是否好奇，对于一个函数调用而言，其底层到底是如何实现的呢？ 
     </details> 
 
-- 🎡 [SpringBoot+Vue+Flowable，模拟一个请假审批流程！](https://juejin.cn/post/7130150061257785351) | Wed Aug 10 2022 7:44 AM 
+- 🎡 [npm 发包实践教程之 gRPC 怎么使用？（1）](https://juejin.cn/post/7130161124325998599) | Wed Aug 10 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    小伙伴们知道松哥最近在录 TienChin 项目视频，这个项目会用到工作流，为了帮助小伙伴们更好的理解这个项目，松哥最近会出几篇文章和大伙聊一聊工作流 flowable 的使用，算是给 TienChi 
+    1、目的 实现将自己的一些工具或者 demo 作品 放到 npm 帮助更多开发者理解和学习，构建强大的学习生态 可以直接 安装到你的项目中，入门级理解 gRPC 2、步骤 3、结果 这个包的地址 ht 
     </details> 
 
-- 🕯 [OneFlow源码解析：算子指令在虚拟机中的执行](https://juejin.cn/post/7130149643442192414) | Wed Aug 10 2022 7:42 AM 
+- 🕯 [Vite 3.0 核心更新调研](https://juejin.cn/entry/7130159972264411167) | Wed Aug 10 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-    通常，我们习惯在动态图模式下训练深度学习网络，使用Python搭建网络，并通过各种op进行前向、反向、loss计算、调试debug等过程，这些Python代码可以看作是动态的op的执行序列。 
+    在 2021 年 2 月，尤大正式推出了 Vite 2.0 版本，可以说是 Vite 的一个重要转折点，自此之后 Vite 的用户量发生了非常迅速的增长，很快达到了每周 100 万的 npm 下载量。 
     </details> 
 
-- 🚀 [【docker专栏】docker基础概念-容器、镜像以及引擎组成部分](https://juejin.cn/post/7130148583046660132) | Wed Aug 10 2022 7:39 AM 
+- 🚀 [浅析 Vue3 响应式原理](https://juejin.cn/post/7130156153417236494) | Wed Aug 10 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-    一、docker镜像与容器 docker镜像是一个可执行的静态独立软件包，包含打包程序代码和软件运行环境等文件。如：代码、运行时库、环境变量和配置文件等都包含在其中。容器是镜像的运行时状态（镜像中的软 
+    Proxy Vue3 的响应式原理依赖了 Proxy 这个核心 API，通过 Proxy 可以劫持对象的某些操作。 
     </details> 
 
-- 💪 [【译文】HTTP/3 历史和核心概念](https://juejin.cn/post/7130147679937495048) | Wed Aug 10 2022 7:34 AM 
+- 💪 [聊聊产品研发流程](https://juejin.cn/post/7130155047760953381) | Wed Aug 10 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-    总结 经过近五年的发展，新的 HTTP/3 协议接近最终形式。早期的迭代已经作为一项实验性功能可用，可以预期 HTTP/3 的可用性和使用将在 2022 年大幅提升。 那么 HTTP/3 到底是什么？ 
+    前言 最近一段时间在忙着开发公司的产品，第一阶段也结束了，今天想跟大家聊聊一个产品的正常的开发流程。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
