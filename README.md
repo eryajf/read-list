@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果Apple Watch高精度温度传感器专利曝光](https://www.cnbeta.com/articles/tech/1302993.htm) | Wed Aug 10 2022 2:11 PM 
+- 🕯 [《斯普拉遁3》直面会全程 大量情报公布](https://hot.cnbeta.com/articles/game/1302999.htm) | Wed Aug 10 2022 2:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《斯普拉遁3》于今日举行了一场约30分钟的直面会活动，海量情报公布，包括新地图、新技能、战斗回放、称号功能、卡牌游戏、打工模式等。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《斯普拉遁3》直面会全程视频：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Wedbush：马斯克卖掉70亿美元特斯拉股票后 收购推特可能性变大](https://www.cnbeta.com/articles/tech/1302997.htm) | Wed Aug 10 2022 2:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;华尔街金融机构Wedbush表示，这位世界首富最终将收购社交平台推特的可能性越来越大。智通财经APP获悉，世界首富特斯拉CEO埃隆•马斯克再度抛售价值近70亿美元的特斯拉（TSLA.US）股票后，华尔街金融机构Wedbush表示，这位世界首富最终将收购社交平台推特（TWTR.US）的可能性越来越大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [传Zen 4游戏性能惊人 AMD下个月将削减Ryzen 7 5800X3D售价](https://www.cnbeta.com/articles/tech/1302995.htm) | Wed Aug 10 2022 2:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;据报道，随着Ryzen 7000 &amp;quot;Zen 4&amp;quot;发布的临近，AMD计划对Ryzen 7 5800X3D CPU降价。&lt;/strong&gt;该传言来自Greymon55，他表示，听说AMD可能准备对其唯一的3D V-Cache芯片Ryzen 7 5800X3D进行降价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [苹果Apple Watch高精度温度传感器专利曝光](https://www.cnbeta.com/articles/tech/1302993.htm) | Wed Aug 10 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果公司在推出具有体温感应功能的Apple Watch Series 8前几周&lt;strong&gt;，已经获得了一项适用于Apple Watch的温度传感器专利。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [加州理工学院开发新光学开关  可能导致超高速信号处理](https://www.cnbeta.com/articles/science/1302991.htm) | Wed Aug 10 2022 2:04 PM 
+- 🎊 [加州理工学院开发新光学开关  可能导致超高速信号处理](https://www.cnbeta.com/articles/science/1302991.htm) | Wed Aug 10 2022 2:04 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;加州理工学院（Caltech）的工程师们已经开发出一种开关，这是计算的最基本组件之一，它使用光学而不是电子组件&lt;strong&gt;。这一发展可能有助于实现超快的全光信号处理和计算。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [美国初创企业通过Anthem电动摩托车进军通勤电动车领域](https://www.cnbeta.com/articles/tech/1302989.htm) | Wed Aug 10 2022 1:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当一些电动摩托车制造商专注于高性能和长距离时，其他制造商则瞄准了通勤市场。&lt;strong&gt;加州初创公司Ryvid推出了一款名为Anthem的电动摩托车，它也有足够的动力在高速公路上行驶。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [三星Galaxy Z Fold4/Z Flip4上手体验：这次的创意在外屏](https://www.cnbeta.com/articles/tech/1302987.htm) | Wed Aug 10 2022 1:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日晚间消息，三星今日举行在海外举行“Galaxy Unpacked 2022”活动，推出Galaxy Z Fold4，Galaxy Z Flip4等两款折叠手机新品，以及Galaxy Buds2 Pro无线耳机，Galaxy Watch 5智能手表等配件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [三星推出Galaxy Watch 5系列智能手表 电池续航大大加强](https://www.cnbeta.com/articles/tech/1302985.htm) | Wed Aug 10 2022 1:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;经过几周的泄漏和传言，三星今天在其Unpacked活动中终于宣布了279.99美元的Galaxy Watch 5和449.99美元的Galaxy Watch 5 Pro。&lt;/strong&gt;虽然没有太多的惊喜，但该公司似乎把对Galaxy Watch 4电池寿命不佳的批评放在心上，两款新机都拥有更大的电池，更快的充电速度，以及更高的耐用性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
