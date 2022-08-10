@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [警惕！黑客正在从分类信息网站上窃取信用卡](https://www.freebuf.com/news/341511.html) | Wed Aug 10 2022 5:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    攻击者还试图利用银行平台上的一次性有效密码（OTP）将资金直接转入其账户上。 
+    </details> 
+
 - 🦄 [PyPI中发现新恶意Python库](https://www.freebuf.com/news/341509.html) | Wed Aug 10 2022 5:17 AM 
     <details><summary>展开描述 ...</summary> 
     Check Point的安全研究人员在Python软件包索引（PyPI）上发现了10个恶意软件包。 
     </details> 
 
-- 🦄 [继Twilio后，Cloudflare员工也遭到了同样的钓鱼攻击](https://www.freebuf.com/news/341481.html) | Wed Aug 10 2022 2:39 AM 
+- 🦅 [继Twilio后，Cloudflare员工也遭到了同样的钓鱼攻击](https://www.freebuf.com/news/341481.html) | Wed Aug 10 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
     有至少 76 名员工的个人或工作手机号码收到了钓鱼短信，一些短信也发送给了员工的家人。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 谷歌搜索遭遇全球性宕机；多家电商平台个人信息遭泄露](https://www.freebuf.com/news/341438.html) | Tue Aug 09 2022 9:00 AM 
+- 🪄 [FreeBuf早报 | 谷歌搜索遭遇全球性宕机；多家电商平台个人信息遭泄露](https://www.freebuf.com/news/341438.html) | Tue Aug 09 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
     据报道，美国有超过 4 万人报告无法使用谷歌搜索，还有英国、澳大利亚、新加坡的用户也都报告了谷歌宕机问题。 
     </details> 
 
-- 🪄 [FreeBuf成都网络安全企业调研正式开启](https://www.freebuf.com/fevents/341423.html) | Tue Aug 09 2022 8:21 AM 
+- 💻 [FreeBuf成都网络安全企业调研正式开启](https://www.freebuf.com/fevents/341423.html) | Tue Aug 09 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
     现诚邀本土网络安全厂商积极参与，踊跃报名！ 
-    </details> 
-
-- 💻 [斗象出席CICV科技周专题论坛，共话车联网安全能力建设](https://www.freebuf.com/news/341403.html) | Tue Aug 09 2022 5:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    2022-8-9 23：58：59 
     </details> 
 <!-- freebuf:END -->
 
