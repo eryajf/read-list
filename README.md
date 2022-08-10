@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [iOS 16 Beta 5 中值得关注的新特性](https://sspai.com/post/75075) | Wed Aug 10 2022 3:28 AM 
+- 👹 [少一点用车的烦恼，多一分出行的便利：MaaS 是什么？](https://sspai.com/post/74977) | Wed Aug 10 2022 6:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    整合交通资源的 MaaS，让后疫情时代的「数字游民」也拥有自由移动的可能。&lt;a href=&quot;https://sspai.com/post/74977&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [iOS 16 Beta 5 中值得关注的新特性](https://sspai.com/post/75075) | Wed Aug 10 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     变化不多，但也有值得关注的新内容。&lt;a href=&quot;https://sspai.com/post/75075&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：一加 Ace Pro 发布、阿维塔 11 发售等](https://sspai.com/post/75072) | Wed Aug 10 2022 12:49 AM 
+- 🤭 [派早报：一加 Ace Pro 发布、阿维塔 11 发售等](https://sspai.com/post/75072) | Wed Aug 10 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
     台州公共交通卡支持 Apple Pay，Beats Fit Pro 推出金·卡戴珊特别版新配色等。&lt;a href=&quot;https://sspai.com/post/75072&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [一日一技 | 一个注册表键让微软的录制功能停止歧视苹果设备](https://sspai.com/post/75019) | Tue Aug 09 2022 9:30 AM 
+- 🥸 [一日一技 | 一个注册表键让微软的录制功能停止歧视苹果设备](https://sspai.com/post/75019) | Tue Aug 09 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     Windows 上 Xbox Game Bar 的录制功能很方便，但录制的视频在 Apple 设备上播放不正常，只需要修改一个注册表键就能让微软停止歧视苹果。&lt;a href=&quot;https://sspai.com/post/75019&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [定向运动：集竞速、烧脑、体能、越野为一体的高强度户外运动](https://sspai.com/post/75052) | Tue Aug 09 2022 8:33 AM 
+- 🙉 [定向运动：集竞速、烧脑、体能、越野为一体的高强度户外运动](https://sspai.com/post/75052) | Tue Aug 09 2022 8:33 AM 
     <details><summary>展开描述 ...</summary> 
     定向运动是一种借助地图、指北针或其他导航工具，在一个设定的范围内，通过途中的各种障碍，快速到达目标点位并完成各个点位任务，最后到达终点的运动。&lt;a href=&quot;https://sspai.com/post/75052&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [借我一小时，来和 500 人一起在线编程](https://sspai.com/post/74959) | Tue Aug 09 2022 6:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    在「100小时后请叫我程序员」栏目上架之时，曾有派友犀利地提出过一个问题：为什么我要在少数派学编程？在少数派的平台上，泛科技和品质生活类内容固然最为拿手，但我们资深的作者与编辑团队对于「硬核」的编程同 ...&lt;a href=&quot;https://sspai.com/post/74959&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
