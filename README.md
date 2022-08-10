@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [郭明錤：iPhone 14 Pro机型可能比iPhone 13 Pro更贵](https://www.cnbeta.com/articles/tech/1303007.htm) | Wed Aug 10 2022 4:34 PM 
+- 🕯 [中国成功发射一箭十六星 每一颗都牛得很](https://www.cnbeta.com/articles/science/1303013.htm) | Wed Aug 10 2022 5:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月10日12时50分，在太原卫星发射中心，长征六号运载火箭成功将16颗商用卫星送入太阳同步轨道，发射任务取得圆满成功。&lt;strong&gt;这是长征六号运载火箭第9次发射、长征系列运载火箭第432次发射。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [华为Mate 50三个型号完成入网 9月大战iPhone 14](https://www.cnbeta.com/articles/tech/1303011.htm) | Wed Aug 10 2022 5:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今年9月的手机圈与往年都不太一样，&lt;strong&gt;除iPhone 14系列外，时隔两年问世的华为Mate 50系列也会正式登场。&lt;/strong&gt;当今手机界两个最有竞争力的品牌将上演一场硬碰硬的“大战”。目前华为Mate 50系列已在工信部官网公示，具体型号为BNE-AL00、DCO-AL00、CET-AL00，预计对应Mate 50，Mate 50 Pro和Mate 50 RS三款机型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [AMD Zen4有“甜点”：DDR5-6000MHz以下全成了炮灰](https://www.cnbeta.com/articles/tech/1303009.htm) | Wed Aug 10 2022 5:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Intel 12代酷睿在消费级首发支持DDR5内存，AMD锐龙6000H/U系列笔记本已经跟上，Zen4架构的锐龙7000系列在桌面上也要补完了。但是，DDR5初期频率非常低，导致性能相比DDR4变化不大，但价格高得多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [郭明錤：iPhone 14 Pro机型可能比iPhone 13 Pro更贵](https://www.cnbeta.com/articles/tech/1303007.htm) | Wed Aug 10 2022 4:34 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;天风证券分析师郭明錤表示，苹果可能会提高其即将推出的iPhone 14 Pro机型的价格，但目前还不清楚它们会贵多少。郭明錤在周三的推文中说，富士康将是即将推出的产品的平均销售价格（ASP）上升的&amp;quot;赢家之一&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [1TB 1.7万元 三星首发骁龙8+折叠屏Galaxy Z Fold4](https://www.cnbeta.com/articles/tech/1303005.htm) | Wed Aug 10 2022 3:41 PM 
+- 🎊 [1TB 1.7万元 三星首发骁龙8+折叠屏Galaxy Z Fold4](https://www.cnbeta.com/articles/tech/1303005.htm) | Wed Aug 10 2022 3:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月10日晚，三星正式发布了新一代两款折叠屏旗舰机Galaxy Z Fold4、Galaxy Z Flip4，第一次为折叠屏带来了骁龙8+旗舰平台。Galaxy Z Fold4延续了家族折叠设计方案，&lt;strong&gt;折叠状态下边缘处最薄14.2毫米、铰链处最厚15.8毫米，而展开后厚度控制在区区6.3毫米，不过分量依然很足，达到了263克。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [尝鲜价8499元起 三星Galaxy Z Flip4/Fold4国行发布会时间官宣](https://www.cnbeta.com/articles/tech/1303003.htm) | Wed Aug 10 2022 3:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日晚间，三星宣布将于8月22日在中国举行Galaxy Z系列折叠屏国行版发布会，&lt;strong&gt;届时会公布Galaxy Z Flip4和Galaxy Z Fold4国行版价格。&lt;/strong&gt;目前，Galaxy Z Flip4和Galaxy Z Fold4国行版已在三星官网开启预定，其中&lt;strong&gt;Galaxy Z Flip4 8GB+256GB尝鲜价为8499元，8GB+512GB尝鲜价为9499元，Galaxy Z Fold4尝鲜价为13999元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [多任务体验堪比PC 三星Galaxy Z Fold4真机图赏：尝鲜价13999元](https://www.cnbeta.com/articles/tech/1303001.htm) | Wed Aug 10 2022 3:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日晚间，三星Galaxy Z Fold4在海外发布，&lt;strong&gt;售价1799美元（约合人民币12100元）。&lt;/strong&gt;核心配置上，三星Galaxy Z Fold4内屏尺寸为7.6英寸，分辨率为2176×1812，外屏尺寸为6.2英寸，分辨率为2316×904，同样搭载骁龙8+，后置5000万主摄，支持OIS光学防抖，同时配备1000万像素长焦和1200万超广角，内屏前置摄像头为400万像素，电池为4400mAh，支持25W有线、10W无线充电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《斯普拉遁3》直面会全程 大量情报公布](https://hot.cnbeta.com/articles/game/1302999.htm) | Wed Aug 10 2022 2:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《斯普拉遁3》于今日举行了一场约30分钟的直面会活动，海量情报公布，包括新地图、新技能、战斗回放、称号功能、卡牌游戏、打工模式等。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《斯普拉遁3》直面会全程视频：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
