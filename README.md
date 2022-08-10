@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [蜘蛛睡觉吗](http://jandan.net/p/111107) | Wed Aug 10 2022 3:41 AM 
+- 🚀 [蝗虫能闻出某些癌症](http://jandan.net/p/111118) | Wed Aug 10 2022 5:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以帮助研发“仿生鼻”探测癌细胞 
+    </details> 
+
+- 🙉 [蜘蛛睡觉吗](http://jandan.net/p/111107) | Wed Aug 10 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
     最短的标题 
     </details> 
 
-- 🙉 [今日好价 0810](http://jandan.net/p/111116) | Wed Aug 10 2022 2:39 AM 
+- 🎉 [今日好价 0810](http://jandan.net/p/111116) | Wed Aug 10 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [第一次 直接诱导干细胞发育成胚胎](http://jandan.net/p/111087) | Tue Aug 09 2022 3:54 PM 
+- 🐲 [第一次 直接诱导干细胞发育成胚胎](http://jandan.net/p/111087) | Tue Aug 09 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     不借助精子，卵子或子宫等 
     </details> 
 
-- 🐲 [Spurious correlations 缅因州的离婚率和黄油的生产成本相关性达到99.26%](http://jandan.net/p/111108) | Tue Aug 09 2022 9:11 AM 
+-  [Spurious correlations 缅因州的离婚率和黄油的生产成本相关性达到99.26%](http://jandan.net/p/111108) | Tue Aug 09 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
     分享一个好玩的网站，收集那些看上去强相关却又实际上八竿子打不着的数据。 
-    </details> 
-
--  [一些地狱笑话](http://jandan.net/p/111112) | Tue Aug 09 2022 7:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    开个新坑 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
