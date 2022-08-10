@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [VS Code 能写 Java 吗？](https://www.v2ex.com/t/872022#reply1) | Wed Aug 10 2022 1:06 PM
-- 🤗 [如何整理部署需要的文件](https://www.v2ex.com/t/872021#reply1) | Wed Aug 10 2022 1:03 PM
-- 🎭 [请教一个关于结婚后去哪边过年的问题](https://www.v2ex.com/t/872020#reply12) | Wed Aug 10 2022 1:02 PM
-- 🥷 [chrome 下有什么好用的屏蔽网站插件？](https://www.v2ex.com/t/872019#reply0) | Wed Aug 10 2022 1:00 PM
-- 🐵 [maven 使用体验很痛苦](https://www.v2ex.com/t/872011#reply2) | Wed Aug 10 2022 12:15 PM<!-- v2ex:END -->
+- 🥸 [大家在下班之后或者周末时间会做些什么](https://www.v2ex.com/t/872030#reply2) | Wed Aug 10 2022 2:04 PM
+- 🤗 [VS Code 能写 Java 吗？](https://www.v2ex.com/t/872022#reply3) | Wed Aug 10 2022 1:06 PM
+- 🎭 [如何整理部署需要的文件](https://www.v2ex.com/t/872021#reply1) | Wed Aug 10 2022 1:03 PM
+- 🥷 [请教一个关于结婚后去哪边过年的问题](https://www.v2ex.com/t/872020#reply24) | Wed Aug 10 2022 1:02 PM
+- 🐵 [chrome 下有什么好用的屏蔽网站插件？](https://www.v2ex.com/t/872019#reply0) | Wed Aug 10 2022 1:00 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
