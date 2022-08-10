@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [广州首批氢能环卫车投入营运 最多8分钟便能加满氢气](https://www.cnbeta.com/articles/tech/1302759.htm) | Wed Aug 10 2022 3:04 AM 
+- 🕯 [为什么不是所有肥胖者都会得2型糖尿病？新研究揭示原因](https://www.cnbeta.com/articles/science/1302801.htm) | Wed Aug 10 2022 3:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;广州首批氢能环卫车8日正式营运。与纯电动环卫车相比，氢能环卫车只要4分钟至8分钟就能加满氢气&lt;/strong&gt;。氢能被誉为21世纪的“最清洁的能源”，是一种清洁、高效、安全、可持续的二次能源。氢能的持续发展，是实现“碳达峰、碳中和”的重要环节，是走低碳绿色发展道路的必然选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;俄勒冈州立大学的研究人员开发的一种新的分析技术为一个长期存在的2型糖尿病之谜提供了启示：&lt;/strong&gt;为什么一些肥胖的人得了这种疾病，而其他人却没有。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [CCSA发布融合快充团体标准 推动自主技术创新应用](https://www.cnbeta.com/articles/tech/1302757.htm) | Wed Aug 10 2022 3:04 AM 
+- 💼 [HyperJuice 245W USB-C氮化镓充电头和移动电源现已上市](https://www.cnbeta.com/articles/tech/1302799.htm) | Wed Aug 10 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月9日，中国通信标准化协会（CCSA）正式发布了两项与电信终端产业协会双编号的团体标准T/CCSA 393—2022 |T/TAF 083-2022 《&lt;a href=&quot;https://www.taf.org.cn/StdDetail.aspx?uid=B1E2AF83-75BD-461F-B77F-DFB6EC9CD50F&amp;stdType=TAF&quot; target=&quot;_blank&quot;&gt;移动终端融合快速充电技术规范&lt;/a&gt;》、T/CCSA 394—2022|T/TAF 092-2022 《&lt;a href=&quot;https://www.taf.org.cn/StdDetail.aspx?uid=569EBF71-AD43-457A-986D-F5A621B4EAB3&amp;stdType=TAF&quot; target=&quot;_blank&quot;&gt;移动终端融合快速充电测试方法&lt;/a&gt;》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在去年于 Indiegogo 上顺利众筹到百万美元之后，Hyper 的 245W 四口 USB-C 氮化镓（GaN）桌面充电器和移动电源，正在向更多消费者投送。&lt;strong&gt;与普通充电器相比，GaN 方案能够做到更加紧凑高效，便于外出携带或放置在空间有限的桌面上，以同时为多个设备充电。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究首次将肝癌风险增加与接触“永久化学品”PFAS直接联系起来](https://www.cnbeta.com/articles/science/1302755.htm) | Wed Aug 10 2022 3:03 AM 
+- 💂 [[图]Model Y和Model 3成美国加州最畅销的两款车型](https://www.cnbeta.com/articles/tech/1302797.htm) | Wed Aug 10 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项新研究报告称，&lt;strong&gt;血液中全氟辛烷磺酸（PFOS）水平的升高与肝癌风险的增加之间存在联系。&lt;/strong&gt;该研究首次将这种“永久化学品”与人类的肝癌直接联系起来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;特斯拉 Model Y 和 Model 3 已经成为美国加州地区最畅销的两款车型，也助推该州的电动车销量再创新高。&lt;/strong&gt;在推动汽车电气化，加州一直走在美国的前列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [拿到补贴后美光宣布2700亿投资 在美国扩大内存芯片本土产能](https://www.cnbeta.com/articles/tech/1302753.htm) | Wed Aug 10 2022 3:02 AM 
+- 🚀 [亿万富翁对冰盖融化下的关键电动汽车资源的追求如何推动行业发展？](https://www.cnbeta.com/articles/tech/1302795.htm) | Wed Aug 10 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国日前宣布了总额2800多亿美元的科技补贴法案，其中针对半导体领域的就有520多亿美元，开始给美国的芯片行业输血补贴，美光公司也是被邀请参与的企业之一，作为对官方补贴的回报，美光也宣布了400亿美元的投资计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Electrek报道，由于格陵兰岛的冰盖融化，一项新的探索正在进行中。&lt;strong&gt;世界上最富有的亿万富翁们，包括杰夫·贝索斯、比尔·盖茨和迈克尔·布隆伯格，正在资助一项活动，寻找对电动汽车行业和气候变化至关重要的资源。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [矿卡崩盘 NVIDIA不好赚了：RTX 30显卡利润大缩水](https://www.cnbeta.com/articles/tech/1302751.htm) | Wed Aug 10 2022 2:56 AM 
+- 🎊 [再无“养老厂”，硅谷科技公司也要开始“狼性”起来了？](https://www.cnbeta.com/articles/tech/1302793.htm) | Wed Aug 10 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年五一前后，显卡挖矿市场突变，后续矿卡市场就崩盘了，没有了工头们高价抢购，显卡价格一落千丈，现在影响力开始逐渐显现，NVIDIA前两天预告游戏业务暴跌44%。在公告中，NVIDIA并没有提及矿卡的影响，强调是全球经济环境影响，后续会跟合作伙伴采取调整渠道价格和库存的策略。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近期，伴随着裁员潮和经济大环境的波动，硅谷的公司正在变得越来越卷。而“最后一家”养老厂”甲骨文（Oracle）的裁员消息也在硅谷工程师中引发了不少的讨论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
