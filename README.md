@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《斯普拉遁3》直面会全程 大量情报公布](https://hot.cnbeta.com/articles/game/1302999.htm) | Wed Aug 10 2022 2:52 PM 
+- 🕯 [1TB 1.7万元 三星首发骁龙8+折叠屏Galaxy Z Fold4](https://www.cnbeta.com/articles/tech/1303005.htm) | Wed Aug 10 2022 3:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月10日晚，三星正式发布了新一代两款折叠屏旗舰机Galaxy Z Fold4、Galaxy Z Flip4，第一次为折叠屏带来了骁龙8+旗舰平台。Galaxy Z Fold4延续了家族折叠设计方案，&lt;strong&gt;折叠状态下边缘处最薄14.2毫米、铰链处最厚15.8毫米，而展开后厚度控制在区区6.3毫米，不过分量依然很足，达到了263克。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [尝鲜价8499元起 三星Galaxy Z Flip4/Fold4国行发布会时间官宣](https://www.cnbeta.com/articles/tech/1303003.htm) | Wed Aug 10 2022 3:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日晚间，三星宣布将于8月22日在中国举行Galaxy Z系列折叠屏国行版发布会，&lt;strong&gt;届时会公布Galaxy Z Flip4和Galaxy Z Fold4国行版价格。&lt;/strong&gt;目前，Galaxy Z Flip4和Galaxy Z Fold4国行版已在三星官网开启预定，其中&lt;strong&gt;Galaxy Z Flip4 8GB+256GB尝鲜价为8499元，8GB+512GB尝鲜价为9499元，Galaxy Z Fold4尝鲜价为13999元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [多任务体验堪比PC 三星Galaxy Z Fold4真机图赏：尝鲜价13999元](https://www.cnbeta.com/articles/tech/1303001.htm) | Wed Aug 10 2022 3:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日晚间，三星Galaxy Z Fold4在海外发布，&lt;strong&gt;售价1799美元（约合人民币12100元）。&lt;/strong&gt;核心配置上，三星Galaxy Z Fold4内屏尺寸为7.6英寸，分辨率为2176×1812，外屏尺寸为6.2英寸，分辨率为2316×904，同样搭载骁龙8+，后置5000万主摄，支持OIS光学防抖，同时配备1000万像素长焦和1200万超广角，内屏前置摄像头为400万像素，电池为4400mAh，支持25W有线、10W无线充电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《斯普拉遁3》直面会全程 大量情报公布](https://hot.cnbeta.com/articles/game/1302999.htm) | Wed Aug 10 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《斯普拉遁3》于今日举行了一场约30分钟的直面会活动，海量情报公布，包括新地图、新技能、战斗回放、称号功能、卡牌游戏、打工模式等。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《斯普拉遁3》直面会全程视频：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Wedbush：马斯克卖掉70亿美元特斯拉股票后 收购推特可能性变大](https://www.cnbeta.com/articles/tech/1302997.htm) | Wed Aug 10 2022 2:35 PM 
+- 🎊 [Wedbush：马斯克卖掉70亿美元特斯拉股票后 收购推特可能性变大](https://www.cnbeta.com/articles/tech/1302997.htm) | Wed Aug 10 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;华尔街金融机构Wedbush表示，这位世界首富最终将收购社交平台推特的可能性越来越大。智通财经APP获悉，世界首富特斯拉CEO埃隆•马斯克再度抛售价值近70亿美元的特斯拉（TSLA.US）股票后，华尔街金融机构Wedbush表示，这位世界首富最终将收购社交平台推特（TWTR.US）的可能性越来越大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [传Zen 4游戏性能惊人 AMD下个月将削减Ryzen 7 5800X3D售价](https://www.cnbeta.com/articles/tech/1302995.htm) | Wed Aug 10 2022 2:27 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据报道，随着Ryzen 7000 &amp;quot;Zen 4&amp;quot;发布的临近，AMD计划对Ryzen 7 5800X3D CPU降价。&lt;/strong&gt;该传言来自Greymon55，他表示，听说AMD可能准备对其唯一的3D V-Cache芯片Ryzen 7 5800X3D进行降价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [苹果Apple Watch高精度温度传感器专利曝光](https://www.cnbeta.com/articles/tech/1302993.htm) | Wed Aug 10 2022 2:11 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司在推出具有体温感应功能的Apple Watch Series 8前几周&lt;strong&gt;，已经获得了一项适用于Apple Watch的温度传感器专利。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [加州理工学院开发新光学开关  可能导致超高速信号处理](https://www.cnbeta.com/articles/science/1302991.htm) | Wed Aug 10 2022 2:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;加州理工学院（Caltech）的工程师们已经开发出一种开关，这是计算的最基本组件之一，它使用光学而不是电子组件&lt;strong&gt;。这一发展可能有助于实现超快的全光信号处理和计算。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
