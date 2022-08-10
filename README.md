@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [程序员如何优雅的挣零花钱？](https://www.v2ex.com/t/871959#reply2) | Wed Aug 10 2022 8:14 AM
+- 🥸 [程序员如何优雅的挣零花钱？](https://www.v2ex.com/t/871959#reply17) | Wed Aug 10 2022 8:14 AM
 - 🤗 [[Snippet]-Csharp 批量导入助手 代码片段](https://www.v2ex.com/t/871953#reply0) | Wed Aug 10 2022 7:44 AM
-- 🎭 [Windows 也有快照功能？](https://www.v2ex.com/t/871949#reply2) | Wed Aug 10 2022 7:34 AM
-- 🥷 [开源的数据库发布系统](https://www.v2ex.com/t/871948#reply2) | Wed Aug 10 2022 7:32 AM
+- 🎭 [Windows 也有快照功能？](https://www.v2ex.com/t/871949#reply3) | Wed Aug 10 2022 7:34 AM
+- 🥷 [开源的数据库发布系统](https://www.v2ex.com/t/871948#reply5) | Wed Aug 10 2022 7:32 AM
 - 🐵 [微服务架构，怎么输出报表的？](https://www.v2ex.com/t/871937#reply1) | Wed Aug 10 2022 6:49 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
