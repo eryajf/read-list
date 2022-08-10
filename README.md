@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [因泄露三星折叠屏 爆料人被警告 相关信息已删除](https://www.cnbeta.com/articles/tech/1302893.htm) | Wed Aug 10 2022 8:21 AM 
+- 🕯 [[图]庆祝国际土著人日 Google推出3张Pixel壁纸](https://www.cnbeta.com/articles/tech/1302911.htm) | Wed Aug 10 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，知名爆料人Roland Quandt收到通知，&lt;strong&gt;应版权方三星要求，Roland Quandt此前发布的Galaxy Z Fold4和Galaxy Z Flip4相关信息被删除。&lt;/strong&gt;事实上，这不是第一次发生该事件。此前在三星Galaxy S22系列发布之前，知名爆料人evleaks提前泄露了Galaxy S22 Ultra的信息，本人被三星投诉，相关内容被删除。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302893.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为庆祝 2022 年国际土著人日（International Day of the World’s Indigenous Peoples），Google 近日和艺术家 Gayle Uyagaqi Kabloona 合作，推出了多张全新的 Pixel 壁纸。这些壁纸隶属于 Curated Culture 合集，目前总数已经达到了 54 张。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [奥迪Q9效果图流出 旗下史上最大尺寸SUV](https://www.cnbeta.com/articles/tech/1302891.htm) | Wed Aug 10 2022 8:18 AM 
+- 💼 [英伟达业绩不佳恐是加密货币惹的祸 投资者的痛苦才刚刚开始](https://www.cnbeta.com/articles/tech/1302909.htm) | Wed Aug 10 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;宝马X7、奔驰GLS真正的对手来了。近日，据海外媒体报道，奥迪已经向海外部分经销商透露将于2025年推出一款大型SUV，&lt;strong&gt;新车或被命名为奥迪Q9。&lt;/strong&gt;同时该车的最新效果图也已得到曝光，从外观来看，该车将采用最新的家族式设计，整体造型相比Q7和Q6明显更大气豪华，矩阵式大灯依旧是新车的最大亮点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302891.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月8日美股盘前，英伟达公布了2023财年二季度业绩的初步数据：●营收67亿美元，而指引为81亿美元 ●Non-GAAP准则下利润率为46.1%，而指引为67.1% ●游戏业务收入为20.3亿美元，环比下降44% ●数据中心收入38.1亿美元，环比增长1% ●专业可视化业务收入5亿美元，环比下降20%&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14发布时间或提前至9月6日 苹果正疯狂备货](https://www.cnbeta.com/articles/tech/1302889.htm) | Wed Aug 10 2022 8:15 AM 
+- 💂 [SpaceX成功发射52颗Starlink卫星 助推器在海上成功回收](https://www.cnbeta.com/articles/tech/1302907.htm) | Wed Aug 10 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于即将到来的iPhone 14系列，苹果看起来信心满满。此前，外界普遍相信苹果秋季发布会定在9月13日（周二），但爆料好手Max Weinbach称有看到内部文件的消息人士称，&lt;strong&gt;活动提前到了9月6日（周二），预购9月16号开始，23号首批发货和正式销售。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302889.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;SpaceX于当地时间周二将另一大批Starlink互联网卫星送入轨道并将一枚火箭降落在海上的一艘船上。&lt;strong&gt;美东部时间周二晚10点14分，一枚携有52个Starlink航天器的两级“猎鹰9号”火箭从佛罗里达州的NASA肯尼迪航天中心升空。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星今年有望出货1100万部Galaxy Z Fold4/Flip4折叠屏新机](https://www.cnbeta.com/articles/tech/1302887.htm) | Wed Aug 10 2022 8:15 AM 
+- 🚀 [Urbanista推出太阳能真无线耳机Phoenix](https://www.cnbeta.com/articles/tech/1302905.htm) | Wed Aug 10 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;赶在 Galaxy Unpacked 发布会召开数小时前，数据分析机构 Omdia 抢先分享了三星折叠屏新机的年内出货量预估数据。&lt;strong&gt;该机构表示，三星有望于 2022 年底前出货 1100 万部 Galaxy Z Fold4 和 Galaxy Z Flip4 。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在去年推出 Los Angeles 太阳能无线覆耳式（Over-Ear）耳机之后，今天 Urbanista 公司再次推出了一款真无线耳机（TWS）--Phoenix。这款耳机采用了 Exeger 生产的 Powerfoyle 太阳能电池板，利用太阳光线的能量延长电池寿命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [爆料称DDR5-6000是Zen 4锐龙7000处理器的最佳内存频率搭配](https://www.cnbeta.com/articles/tech/1302885.htm) | Wed Aug 10 2022 8:01 AM 
+- 🎊 [一位替沙特阿拉伯从事间谍活动的Twitter前雇员被起诉](https://www.cnbeta.com/articles/tech/1302903.htm) | Wed Aug 10 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD 主板合作伙伴已经主动分享了与 Zen 4 锐龙 7000 系列 AM5 台式处理器有关的一些设计细节，可知其有助于为新一代平台带来出色的超频与内存支持。&lt;strong&gt;此外有消息人士透露，DDR5-6000 将是 Raphael CPU 的内存频率“甜蜜点”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;彭博社报道称，&lt;strong&gt;因替沙特阿拉伯政府从事间谍活动，美国公民艾哈迈德·阿布阿莫（Ahmad Abouammo）将面临 10-20 年的监禁。&lt;/strong&gt;由提交给旧金山联邦法院的判决可知，被告还遭到了串谋电信欺诈、伪造记录和洗钱等犯罪指控。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
