@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Apple新闻之 Apple Pay 公交支持刷浙江台州公共交通卡了](http://www.mac52ipod.cn/post/apple-pay-transit-card-support-taizhou.php) | Tue Aug 09 2022 5:49 AM 
+- 👨‍🏫 [Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster](http://www.mac52ipod.cn/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php) | Wed Aug 10 2022 4:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	上网时经常被网站推到&amp;nbsp;&amp;nbsp;reCAPTCHA 图形验证页面，如下图所示。美其名曰为了验证我是个人还是个恶意攻击网站的程序，但实际上很可能是利用我帮 IT 公司们训练图像识别 AI（我就发现 Google 经常给我弹这个 reCAPTCHA 验证）。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6666&quot; border=&quot;0&quot; alt=&quot;我是人类 reCAPTCHA 图形验证码&quot; title=&quot;我是人类 reCAPTCHA 图形验证码&quot; /&gt;&lt;/p&gt;&lt;p&gt;用魔法才能打败魔法，所以用 AI 才能打败 AI。于是有了 Buster 这个浏览器扩展，用 AI 自动识别 reCAPTCHA 的语音验证，让你不用再点击好几次图片才能通过验证了。支持 Chrome、Firefox、Opera 和 Edge 浏览器。&lt;/p&gt;&lt;p&gt;Buster 主页 &lt;u&gt;&lt;a href=&quot;https://github.com/dessant/buster&quot; target=&quot;_blank&quot; title=&quot;Buster&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://github.com/dessant/buster&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=recaptcha&quot; rel=&quot;tag&quot;&gt;recaptcha&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=ai&quot; rel=&quot;tag&quot;&gt;ai&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Apple新闻之 Apple Pay 公交支持刷浙江台州公共交通卡了](http://www.mac52ipod.cn/post/apple-pay-transit-card-support-taizhou.php) | Tue Aug 09 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照](http://www.mac52ipod.cn/post/apple-ios-iphone-app-bai-miao-zheng-jian-zhao.php) | Sun Aug 07 2022 2:31 PM 
+- 🦏 [苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照](http://www.mac52ipod.cn/post/apple-ios-iphone-app-bai-miao-zheng-jian-zhao.php) | Sun Aug 07 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Mac技巧之用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）](http://www.mac52ipod.cn/post/james-webb-space-telescope-images-6k-mac-wallpapers.php) | Thu Aug 04 2022 3:26 PM 
+- 🚀 [Mac技巧之用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）](http://www.mac52ipod.cn/post/james-webb-space-telescope-images-6k-mac-wallpapers.php) | Thu Aug 04 2022 3:26 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Apple新闻之苹果公布 2022 财年第三季财报](http://www.mac52ipod.cn/post/apple-2022-q3-result.php) | Tue Aug 02 2022 3:30 AM 
+- 🏊 [Apple新闻之苹果公布 2022 财年第三季财报](http://www.mac52ipod.cn/post/apple-2022-q3-result.php) | Tue Aug 02 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	苹果公布了 2022 财年第三财季财报，营收 829.59 亿美元，同比增长 2%，净利润 194.42 亿美元，同比下降 11%；其中大中华区营收 146.04 亿美元，同比下降 1%；因为苹果早已不再公布具体销量，下面只有财务数据：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;iPhone 营收 406.65 亿美元，同比增长 2.8%&lt;/li&gt;&lt;li&gt;Mac 营收 73.82 亿美元，同比下降 10.4%&lt;/li&gt;&lt;li&gt;iPad 营收 72.24 亿美元，同比下降 2%&lt;/li&gt;&lt;li&gt;可穿戴设备、家居设备和配件营收 80.84 亿美元，同比下降 7.9%&lt;/li&gt;&lt;li&gt;服务营收 196.04 亿美元，同比增长 12.1%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果官网财报原文 &lt;u&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/&quot; target=&quot;_blank&quot; title=&quot;Apple Reports Third Quarter Results &quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [跨平台的播客电台 App：Moon FM](http://www.mac52ipod.cn/post/apple-ios-macos-windows-linus-podcast-app-moon-fm.php) | Sun Jul 31 2022 3:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	最近在用 Moon FM 听播客，来自一位中国的开发者，界面还行，内置了几十万个电台，而且 iOS、Android、macOS、Windows、Linux 都支持，能在不同设备直接同步节目。&lt;/p&gt;&lt;p&gt;除了收藏、分享、下载、深色模式、CarPlay 等常见功能外，Moon FM 的睡眠模式定时自动关机功能挺适合睡前听播客，电脑版 Moon FM 还支持均衡器（EQ）调节。&lt;/p&gt;&lt;p&gt;各个平台的下载地址，直接看 Moon FM 官网吧，底部有下载链接集合 &lt;u&gt;&lt;a href=&quot;https://moon.fm/&quot; target=&quot;_blank&quot; title=&quot;Moon FM 官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://moon.fm/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;另外，Moon FM 的开发者最近急等用钱，在社交网络上发帖说有意出售自己开发的 App。大家能帮忙就帮忙吧。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=podcast&quot; rel=&quot;tag&quot;&gt;podcast&lt;/a&gt;
 
  
     </details> 
