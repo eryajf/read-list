@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [为什么不是所有肥胖者都会得2型糖尿病？新研究揭示原因](https://www.cnbeta.com/articles/science/1302801.htm) | Wed Aug 10 2022 3:59 AM 
+- 🕯 [雨水中存在的PFAS化学物质对饮用水安全构成了威胁](https://www.cnbeta.com/articles/science/1302803.htm) | Wed Aug 10 2022 4:47 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;作为地球生态系统的一个重要组成部分，雨水是许多地区的重要饮用水来源。然而在本月早些时候发表的一篇新文章中，&lt;strong&gt;麻省理工学院（MIT）研究团队却指出了一个惊人的事实 —— 一些无法在环境中被分解的 PFAS 化学物质，已经严重威胁到了饮用水的安全。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [为什么不是所有肥胖者都会得2型糖尿病？新研究揭示原因](https://www.cnbeta.com/articles/science/1302801.htm) | Wed Aug 10 2022 3:59 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;俄勒冈州立大学的研究人员开发的一种新的分析技术为一个长期存在的2型糖尿病之谜提供了启示：&lt;/strong&gt;为什么一些肥胖的人得了这种疾病，而其他人却没有。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [HyperJuice 245W USB-C氮化镓充电头和移动电源现已上市](https://www.cnbeta.com/articles/tech/1302799.htm) | Wed Aug 10 2022 3:54 AM 
+- 💂 [HyperJuice 245W USB-C氮化镓充电头和移动电源现已上市](https://www.cnbeta.com/articles/tech/1302799.htm) | Wed Aug 10 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在去年于 Indiegogo 上顺利众筹到百万美元之后，Hyper 的 245W 四口 USB-C 氮化镓（GaN）桌面充电器和移动电源，正在向更多消费者投送。&lt;strong&gt;与普通充电器相比，GaN 方案能够做到更加紧凑高效，便于外出携带或放置在空间有限的桌面上，以同时为多个设备充电。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[图]Model Y和Model 3成美国加州最畅销的两款车型](https://www.cnbeta.com/articles/tech/1302797.htm) | Wed Aug 10 2022 3:48 AM 
+- 🚀 [[图]Model Y和Model 3成美国加州最畅销的两款车型](https://www.cnbeta.com/articles/tech/1302797.htm) | Wed Aug 10 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;特斯拉 Model Y 和 Model 3 已经成为美国加州地区最畅销的两款车型，也助推该州的电动车销量再创新高。&lt;/strong&gt;在推动汽车电气化，加州一直走在美国的前列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [亿万富翁对冰盖融化下的关键电动汽车资源的追求如何推动行业发展？](https://www.cnbeta.com/articles/tech/1302795.htm) | Wed Aug 10 2022 3:45 AM 
+- 🎊 [亿万富翁对冰盖融化下的关键电动汽车资源的追求如何推动行业发展？](https://www.cnbeta.com/articles/tech/1302795.htm) | Wed Aug 10 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据Electrek报道，由于格陵兰岛的冰盖融化，一项新的探索正在进行中。&lt;strong&gt;世界上最富有的亿万富翁们，包括杰夫·贝索斯、比尔·盖茨和迈克尔·布隆伯格，正在资助一项活动，寻找对电动汽车行业和气候变化至关重要的资源。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [再无“养老厂”，硅谷科技公司也要开始“狼性”起来了？](https://www.cnbeta.com/articles/tech/1302793.htm) | Wed Aug 10 2022 3:39 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期，伴随着裁员潮和经济大环境的波动，硅谷的公司正在变得越来越卷。而“最后一家”养老厂”甲骨文（Oracle）的裁员消息也在硅谷工程师中引发了不少的讨论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
