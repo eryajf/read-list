@@ -237,9 +237,9 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [Django URL用法及配置介绍](https://blog.ops-coffee.cn/django/django-url-path-conf) | Wed Aug 10 2022 11:35 AM 
+- 👺 [Django URL常见用法及配置介绍](https://blog.ops-coffee.cn/django/django-url-path-conf) | Wed Aug 10 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
-    Django URL常用方法及配置介绍 
+    Django URL常见使用方法及配置介绍 
     </details> 
 
 - 💯 [Django Model关联关系之ManyToManyField](https://blog.ops-coffee.cn/django/django-model-manytomany-field) | Wed Aug 10 2022 11:28 AM 
