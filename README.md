@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [日本政府报告指出中国科技论文质量指标超过美国 跃上全球首位](https://www.cnbeta.com/articles/science/1302945.htm) | Wed Aug 10 2022 10:15 AM 
+- 🕯 [2nm芯片研发遭遇瓶颈：没ASML下一代NA EUV光刻机搞不掂](https://www.cnbeta.com/articles/tech/1302961.htm) | Wed Aug 10 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在显示自然科学领域论文关注度高低的指标上，中国首次跃居世界第一。日本文部科学省的研究所8月10日发布了最新报告。在研究人员的引用次数进入前10％的“受关注论文”篇数上首次超过美国。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在业内，比Intel、台积电、三星还要早就能接触到ASML光刻机新品的是比利时微电子研究中心（IMEC），虽然名气不大，但其实它是世界上最大的半导体专门研究机构。因为离得近，ASML的原型试做机，往往在完工后就第一时间送交IMEC评估尝鲜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [博纳影业首次公开发行股票招股说明书：《红海行动2》拟投资2.5亿元](https://hot.cnbeta.com/articles/movie/1302943.htm) | Wed Aug 10 2022 10:13 AM 
+- 💼 [零百3秒级！纯电smart性能版实车曝光](https://www.cnbeta.com/articles/tech/1302959.htm) | Wed Aug 10 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，博纳影业最新发布的《首次公开发行股票招股说明书》中显示，公司拟16.8亿元总额投资10部影片。其中使用募集资金10.33亿元，其余使用自筹资金，公司预计分三年投入。片单中包括《智取威虎山前传》《红海行动2》《血战上甘岭》等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1302943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;smart精灵#1的性能版车型将于8月15日正式亮相。据此前消息，该车将限量2000台发售，搭载双电机四驱系统，&lt;strong&gt;零百加速仅需3.7秒，预计补贴后售价28万元起&lt;/strong&gt;。该车已经进行了申报，而其实拍图也得到了曝光，其长宽高分别为4300/1822/1636mm，轴距为2750mm，定位于小型SUV。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [7月国内汽车厂商销量出炉：比亚迪干掉一汽-大众再夺冠](https://www.cnbeta.com/articles/tech/1302941.htm) | Wed Aug 10 2022 10:12 AM 
+- 💂 [3520颗AMD锐龙7 6800U：史上最庞大开箱](https://hot.cnbeta.com/articles/game/1302957.htm) | Wed Aug 10 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日，乘联会公布了7月份各家汽车厂商的销量成绩和排名。其中比亚迪表现十分亮眼，&lt;strong&gt;以15.89万台勇夺冠军&lt;/strong&gt;，同比增长了172.6%，占据当月市场份额的8.7%。这也是比亚迪第二次超越一汽-大众成为当月国内销冠，&lt;strong&gt;今年4月份，比亚迪已10.47万台的成绩首次超过一汽-大众&lt;/strong&gt;，时隔三个月后，再回冠军宝座，而且销量与4月份相比增长了将近60%，不得不说，比亚迪真的太畅销了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;开箱见得多了，但是你见过开箱3520颗处理器吗？AMD新一代低功耗移动平台旗舰锐龙7 6800U今年意外成了游戏掌机的新宠，AYANEO 2、AOKZOE K1、GPD WIN Max 2三款国产掌机不约而同地都用了它，前两家还都说自己是全球首发&lpar;后者还有12代酷睿&rpar;。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [电视不良率竟达20％ 乐视痛斥南京熊猫：赚的钱都被当竹子吃了](https://www.cnbeta.com/articles/tech/1302939.htm) | Wed Aug 10 2022 10:12 AM 
+- 🚀 [从“守望生鲜未来”到“欠租欠薪欠款”：每日优鲜将向何处去](https://www.cnbeta.com/articles/tech/1302955.htm) | Wed Aug 10 2022 11:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日下午，乐视超级电视突然发布一封公开信，披露了南京中电熊猫家电有限公司为其代工电视的质量问题，并强调是在无法友好协商的情况下，不得不撇下脸面，公开曝光。据乐视透露，乐融致新于2019年初与南京熊猫达成超级电视代工合作，&lt;strong&gt;截止2022年3月已交付39万台，金额4.3亿元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“我们守望大江南北，守望生鲜未来。”生鲜电商每日优鲜曾经的豪言壮语，短时间内显然已难以实现。从国内的“生鲜第一股”走到崩溃的边缘，每日优鲜正陷入员工“原地解散”，拖欠供应商货款，消费者充值后无法消费的困境。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [老鼠被剪胡须后出现社交障碍 因为大脑中缺了催产素](https://www.cnbeta.com/articles/science/1302937.htm) | Wed Aug 10 2022 10:11 AM 
+- 🎊 [雷军分享奋斗心得：实在撑不住 其实躺会没关系](https://www.cnbeta.com/articles/tech/1302953.htm) | Wed Aug 10 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;出生将满16天的小鼠被剪去胡须，由此产生的“童年阴影”会延续到成年，使得天性热爱社交、怕寂寞的小鼠出现社交障碍，变得不爱交新朋友，甚至难以辨别新老朋友。这一症状和人类的自闭症颇为相似。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月11日，雷军将举行2022年度演讲，这一次，他要讲讲自己遇到的那些人生低谷，以及如何走出困境。在今天发布的年度演讲预热视频中，雷军回应了“劳模”的称号，他表示：“我讨厌别人说我劳模了，我不过就是喜欢工作而已。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
