@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [2nm芯片研发遭遇瓶颈：没ASML下一代NA EUV光刻机搞不掂](https://www.cnbeta.com/articles/tech/1302961.htm) | Wed Aug 10 2022 11:06 AM 
+- 🕯 [给苹果敲响警钟 富士康预计Q3智能手机需求放缓](https://www.cnbeta.com/articles/tech/1302971.htm) | Wed Aug 10 2022 12:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在业内，比Intel、台积电、三星还要早就能接触到ASML光刻机新品的是比利时微电子研究中心（IMEC），虽然名气不大，但其实它是世界上最大的半导体专门研究机构。因为离得近，ASML的原型试做机，往往在完工后就第一时间送交IMEC评估尝鲜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;富士康周三公布的二季度财报显示，受苹果&lpar;AAPL.US&rpar;iPhone强劲销售势头的推动，该公司Q2净利润达到新台币332.9亿元&lpar;约合11.1亿美元&rpar;，同比增长12%。不过，富士康对第三季度的前景持谨慎态度，预计智能手机需求将放缓。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [零百3秒级！纯电smart性能版实车曝光](https://www.cnbeta.com/articles/tech/1302959.htm) | Wed Aug 10 2022 11:05 AM 
+- 💼 [英伟达CEO黄仁勋：营收未达预期不会裁员 还要加薪](https://www.cnbeta.com/articles/tech/1302969.htm) | Wed Aug 10 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;smart精灵#1的性能版车型将于8月15日正式亮相。据此前消息，该车将限量2000台发售，搭载双电机四驱系统，&lt;strong&gt;零百加速仅需3.7秒，预计补贴后售价28万元起&lt;/strong&gt;。该车已经进行了申报，而其实拍图也得到了曝光，其长宽高分别为4300/1822/1636mm，轴距为2750mm，定位于小型SUV。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Business Insider报道，英伟达CEO黄仁勋在公司内部电子邮件中分享了他对公司当前看法并表示不会在营收未达预期情况下进行裁员。此前英伟达公开了本财年最新季度的财报，总体来看各项重点指标均未达到预期，第二季度游戏收入为20.4亿美元，环比下降44%，同比下降33%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [3520颗AMD锐龙7 6800U：史上最庞大开箱](https://hot.cnbeta.com/articles/game/1302957.htm) | Wed Aug 10 2022 11:05 AM 
+- 💂 [Joby Aviation与美国防部的电动飞机合同扩大到包括海军陆战队](https://www.cnbeta.com/articles/tech/1302967.htm) | Wed Aug 10 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;开箱见得多了，但是你见过开箱3520颗处理器吗？AMD新一代低功耗移动平台旗舰锐龙7 6800U今年意外成了游戏掌机的新宠，AYANEO 2、AOKZOE K1、GPD WIN Max 2三款国产掌机不约而同地都用了它，前两家还都说自己是全球首发&lpar;后者还有12代酷睿&rpar;。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国国防部正在加深与电动垂直起降（eVTOL）飞机公司Joby Aviation的关系。Joby周三表示，它正在扩大与美国空军Agility Prime项目的现有合同，该项目是空军在2020年4月发起的一项倡议，旨在测试、试验并普遍加快eVTOL的发展，以实现跨商业和军事用途。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [从“守望生鲜未来”到“欠租欠薪欠款”：每日优鲜将向何处去](https://www.cnbeta.com/articles/tech/1302955.htm) | Wed Aug 10 2022 11:00 AM 
+- 🚀 [科学家开发出可使所有癌症患者实现免疫疗法的小分子物质](https://www.cnbeta.com/articles/science/1302965.htm) | Wed Aug 10 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“我们守望大江南北，守望生鲜未来。”生鲜电商每日优鲜曾经的豪言壮语，短时间内显然已难以实现。从国内的“生鲜第一股”走到崩溃的边缘，每日优鲜正陷入员工“原地解散”，拖欠供应商货款，消费者充值后无法消费的困境。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特拉维夫大学和里斯本大学的科学家们发现并合成了一种小分子，它可以成为一种更容易获得和有效的抗体替代品，这种抗体被成功用于治疗一系列癌症。这项研究的结果发表在《癌症免疫治疗杂志》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [雷军分享奋斗心得：实在撑不住 其实躺会没关系](https://www.cnbeta.com/articles/tech/1302953.htm) | Wed Aug 10 2022 10:46 AM 
+- 🎊 [Watch 3系列智能手表领衔登场 OPPO举办新品最多的IoT发布会](https://www.cnbeta.com/articles/tech/1302963.htm) | Wed Aug 10 2022 11:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月11日，雷军将举行2022年度演讲，这一次，他要讲讲自己遇到的那些人生低谷，以及如何走出困境。在今天发布的年度演讲预热视频中，雷军回应了“劳模”的称号，他表示：“我讨厌别人说我劳模了，我不过就是喜欢工作而已。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;OPPO Watch 3系列及智美生活发布会正式举办，OPPO Watch 3 Pro领衔穿戴新品，&lt;/strong&gt;以“腕上生长设计”和LTPO常亮屏革新智能手表形态和交互体验，全新推出专业网球模式、血管健康研究，焕新演绎全智能手表旗舰典范体验；OPPO 手环 2 搭载1.57英寸AMOLED大屏，全面刷新入门穿戴产品体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
