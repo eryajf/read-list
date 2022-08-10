@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [程序员如何优雅的挣零花钱？](https://www.v2ex.com/t/871959#reply17) | Wed Aug 10 2022 8:14 AM
-- 🤗 [[Snippet]-Csharp 批量导入助手 代码片段](https://www.v2ex.com/t/871953#reply0) | Wed Aug 10 2022 7:44 AM
-- 🎭 [Windows 也有快照功能？](https://www.v2ex.com/t/871949#reply3) | Wed Aug 10 2022 7:34 AM
-- 🥷 [开源的数据库发布系统](https://www.v2ex.com/t/871948#reply5) | Wed Aug 10 2022 7:32 AM
-- 🐵 [微服务架构，怎么输出报表的？](https://www.v2ex.com/t/871937#reply1) | Wed Aug 10 2022 6:49 AM<!-- v2ex:END -->
+- 🥸 [go 项目 私有加密不公开代码的函数有哪些可跨平台的方案](https://www.v2ex.com/t/871996#reply1) | Wed Aug 10 2022 10:01 AM
+- 🤗 [什么情况下会使用 UI 自动化而不是调用 api?](https://www.v2ex.com/t/871985#reply0) | Wed Aug 10 2022 9:36 AM
+- 🎭 [程序员如何优雅的挣零花钱？](https://www.v2ex.com/t/871959#reply21) | Wed Aug 10 2022 8:14 AM
+- 🥷 [[Snippet]-Csharp 批量导入助手 代码片段](https://www.v2ex.com/t/871953#reply0) | Wed Aug 10 2022 7:44 AM
+- 🐵 [Windows 也有快照功能？](https://www.v2ex.com/t/871949#reply6) | Wed Aug 10 2022 7:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
