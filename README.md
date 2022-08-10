@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [欧洲多条河流水位告急 危及800亿美元贸易航道](https://www.cnbeta.com/articles/tech/1303019.htm) | Wed Aug 10 2022 7:37 PM 
+- 🕯 [年轻人在哪儿易遭遇网络诈骗？刷单兼职和网络求职](https://www.cnbeta.com/articles/tech/1303027.htm) | Wed Aug 10 2022 11:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;付费实习、网络刷单、交友杀猪盘、假冒游戏代练……在年轻人日常接触较多的网络环境中，暗藏着网络诈骗的风险。近日，中国青年报社社会调查中心联合问卷网（wenjuan.com），对1507名青年进行的一项调查显示，刷单兼职（62.5%）和网络求职（57.7%）是受访青年觉得年轻人容易被网络诈骗的主要场景。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [PC对比PS5《漫威蜘蛛侠：重制版》这特效超越原版](https://hot.cnbeta.com/articles/game/1303025.htm) | Wed Aug 10 2022 11:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;曾经作为PS平台独占大作的《漫威蜘蛛侠》即将登陆PC平台，国外媒体第一时间对PS5版和使用RTX 3090显卡的顶配PC运行效果进行对比，并录制了视频，一起来看看两个版本到底有什么差距。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [迪斯尼流媒体订阅用户达2.21亿 无广告内容年底涨价最高38%](https://www.cnbeta.com/articles/tech/1303023.htm) | Wed Aug 10 2022 11:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;北京时间8月11日消息，迪斯尼流媒体视频订阅用户数量增至2.21亿，超越了Netflix。迪斯尼还发布消息称，客户想观看无广告迪斯尼+或者Hulu内容需要支付更高费用。今年12月无广告迪斯尼+服务的月费将增加38%，达到10.99美元，如果不想支付更高费用，内容中会附带广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [美国证交会审查Coinbase的加密货币质押项目](https://www.cnbeta.com/articles/tech/1303021.htm) | Wed Aug 10 2022 11:10 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;北京时间8月11日凌晨消息，加密货币交易所Coinbase表示，该公司的加密货币质押项目正在接受美国证交会（SEC）的调查，该项目让用户通过持有某些加密货币获得奖励。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [欧洲多条河流水位告急 危及800亿美元贸易航道](https://www.cnbeta.com/articles/tech/1303019.htm) | Wed Aug 10 2022 7:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;欧洲各地今夏干旱少雨，气温刷新纪录，多条河流也濒临干涸。&lt;/strong&gt;莱茵河作为德国、荷兰和瑞士几个世纪以来的经济支柱，也是欧洲最为重要的水路之一。本周晚些时候，莱茵河的一个关键航路点可能会基本无法通行，阻碍包括柴油、煤炭等能源产品和其他工业商品的运输。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [乐视怒怼中电熊猫 一声难兄难弟的叹息](https://www.cnbeta.com/articles/tech/1303017.htm) | Wed Aug 10 2022 7:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“合作已中止，会索赔。”这是乐视相关负责人在发文控诉中电熊猫后，对北京商报记者的回复。8月10日，乐融致新电子科技（天津）有限公司（以下简称“乐融致新”）和天津智融创新科技发展有限公司（以下简称“天津智融”）联合发布了《乐视致南京中电熊猫家电有限公司的公开信》（以下简称《公开信》）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [“杀猪盘”盯上互联网平台 网络虚假人设诈骗如何防？](https://www.cnbeta.com/articles/tech/1303015.htm) | Wed Aug 10 2022 7:27 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，多名用户称在社区电商等平台上了遇到了“杀猪盘”骗局。不法分子盗取他人信息后，在平台上塑造虚假人设行骗。互联网平台何以成为“杀猪盘”的温床？利用网络虚假用户信息行骗防不胜防，该如何防范？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [中国成功发射一箭十六星 每一颗都牛得很](https://www.cnbeta.com/articles/science/1303013.htm) | Wed Aug 10 2022 5:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日12时50分，在太原卫星发射中心，长征六号运载火箭成功将16颗商用卫星送入太阳同步轨道，发射任务取得圆满成功。&lt;strong&gt;这是长征六号运载火箭第9次发射、长征系列运载火箭第432次发射。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [华为Mate 50三个型号完成入网 9月大战iPhone 14](https://www.cnbeta.com/articles/tech/1303011.htm) | Wed Aug 10 2022 5:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年9月的手机圈与往年都不太一样，&lt;strong&gt;除iPhone 14系列外，时隔两年问世的华为Mate 50系列也会正式登场。&lt;/strong&gt;当今手机界两个最有竞争力的品牌将上演一场硬碰硬的“大战”。目前华为Mate 50系列已在工信部官网公示，具体型号为BNE-AL00、DCO-AL00、CET-AL00，预计对应Mate 50，Mate 50 Pro和Mate 50 RS三款机型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
