@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一次由groovy引起的fullGC问题排查](https://juejin.cn/post/7130214479026978847) | Wed Aug 10 2022 11:54 AM 
+- 🤗 [CVPR2022 | 简单高效的语义分割体系结构](https://juejin.cn/post/7130248091411709966) | Wed Aug 10 2022 2:04 PM 
     <details><summary>展开描述 ...</summary> 
-    Groovy错误的使用方式导致class对象常驻堆外内存，并随着调用频率增长，从而造成堆外内存溢出； 
+    本文提出了一种简单的编码-解码器体系结构，具有类似ResNet的主干和一个小的多尺度头，其性能与复杂的语义分割体系结构（如HRNet、FANet和DDRNets）相当或更好。另外，本文还为桌面和移动目 
     </details> 
 
-- 🎡 [java数据存储、集合博大精深学习完，对您面试和工作事半功倍！！！](https://juejin.cn/post/7130195946041769991) | Wed Aug 10 2022 10:42 AM 
+- 🎡 [TypeScript-起步（一）——JavaScript简介](https://juejin.cn/post/7130245479736016910) | Wed Aug 10 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
-    数组 存储相同类型的多个数据的结构体，长度固定 语法格式：数据类型[] 变量名=new 数据类型[长度]; 一维数组和多维数组 索引从0开始，长度固定，只能存储一种类型的数据 Collection集合 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 1、JavaScript ① JavaScript一门优秀的语言 我始终相信：任何新技术的出现都是为了解 
     </details> 
 
-- 🕯 [RocketMQ 消息集成：多类型业务消息——定时消息](https://juejin.cn/post/7130194937223577637) | Wed Aug 10 2022 10:39 AM 
+- 🕯 [C# MessageBox使用技巧](https://juejin.cn/post/7130242838310158344) | Wed Aug 10 2022 1:45 PM 
     <details><summary>展开描述 ...</summary> 
-    本篇将继续业务消息集成的场景，从使用场景、应用案例、功能原理以及最佳实践等角度介绍 RocketMQ 的定时消息功能。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 前言：Windows应用程序开发中，经常会用到消息对话框给用户或者管理员一些的消息提示 
     </details> 
 
-- 🚀 [Redux——一个源码比使用简单的库](https://juejin.cn/post/7130195207789740068) | Wed Aug 10 2022 10:39 AM 
+- 🚀 [风控逻辑利器---规则引擎](https://juejin.cn/post/7130234970257244168) | Wed Aug 10 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
-    相信学过 React 的朋友对 Redux 一定不陌生，其作为 JavaScript 的状态容器，能够提供可预测化的状态管理，但其实它并不是专门为了 react 而设计的，你也可以在原生 JS 项目或 
+    只要有规则的存在，规则引擎都可以在此大放异彩。你还在频繁的写if-else吗？不如试试规则引擎。它绝对会给你带来意想不到的效果。 
     </details> 
 
-- 💪 [Java面试知识点：OOP:面向对象，希望对您有用！！！](https://juejin.cn/post/7130195124675411981) | Wed Aug 10 2022 10:38 AM 
+- 💪 [一次 VSCode 插件内存泄露背后的技术思考](https://juejin.cn/post/7130232079157035015) | Wed Aug 10 2022 1:02 PM 
     <details><summary>展开描述 ...</summary> 
-    思想 80年代，百花争名，OOP&lpar;面向对象编程&rpar; OOA（面向对象分析） OOD（面向对象设计） 程序即现实：模拟现实世界 万事万物皆对象 核心：类和对象 类是对象的抽象，对象是类的具体 类：抽象的 
+    问题 在一次新版本的插件发布后，收到反馈，偶尔会有卡死的情况，在休眠后出现概率比较高。 收集数据 巧妇难为无米之炊，分析问题之前首先要有足够的数据。遇到性能问题，可以从先从内存入手，分析内存的工具有很 
     </details> 
 <!-- juejin:END -->
 ### 少数派
