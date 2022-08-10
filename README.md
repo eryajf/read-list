@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android实现仿微信实时语音对讲功能｜与女友游戏开黑](https://juejin.cn/post/7130156247310925838) | Wed Aug 10 2022 8:09 AM 
+- 🤗 [GPU加速Pinterest推荐模型，参数量增加100倍，用户活跃度提高16%](https://juejin.cn/post/7130141247838093342) | Wed Aug 10 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「创意开发 投稿大赛」详情请看：掘金创意开发大赛来了！” 与亲朋好友一起玩在线游戏，如果游戏中有实时语音对讲能力就可以拉进玩家之间的距离，添加更多乐趣。我们以经典的中国象棋为例，开发在线语音 
+    将基于CPU模型服务转换成基于GPU服务的过程很复杂，但这是我们在Pinterest使用最先进推荐模型的一个必要步骤。我们能够以适当的成本提供大100倍的推荐模型…… 
     </details> 
 
-- 🎡 [React 官网为什么那么快、Java 定时任务技术趋势｜掘金一周 08.10](https://juejin.cn/post/7130152856836898829) | Wed Aug 10 2022 7:54 AM 
+- 🎡 [设置 echarts 柱状图双轴右侧的百分比](https://juejin.cn/post/7130140959408390174) | Wed Aug 10 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    【掘金一周08.10】本期看点：前端构建效率优化之路、写在腾讯的第六年、如何优雅的消除项目中的重复代码.. 
+    设置 echarts 柱状图双轴右侧的百分比 如图： 看起来是个比较简单的柱状图，左侧轴的单位是 ml， 右侧的轴是 %。 但是我们要设置橙色的折线图是以右侧的百分比去显示。 具体配置如下： yAxi 
     </details> 
 
-- 🕯 [iOS App技术支持网址&lpar;URL&rpar;](https://juejin.cn/post/7130146079588237325) | Wed Aug 10 2022 7:29 AM 
+- 🕯 [为什么「确定按钮」正在慢慢消失](https://juejin.cn/post/7130137212988948487) | Wed Aug 10 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    If you have any questions, please leave a message or send me an email. Email：h85296374102022@163.com 
+    不论做什么产品，界面上几乎都少不了「确定」按钮。例如：操作提示时、进行选择时、填写表单时…… 完成、保存、下单……各种代表“确定某一步骤”的按钮，都可以统称为确定按钮。 以前的产品设计，大量以来确定按 
     </details> 
 
-- 🚀 [LockSupport详解](https://juejin.cn/post/7130118450789220382) | Wed Aug 10 2022 5:41 AM 
+- 🚀 [【大数据专场 学习资料七】第四届字节跳动青训营](https://juejin.cn/post/7130134071232954404) | Wed Aug 10 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-    LockSupport详解 带着BAT大厂的面试问题去理解 为什么LockSupport也是核心基础类? AQS框架借助于两个类：Unsafe&lpar;提供CAS操作&rpar;和LockSupport&lpar;提供park/ 
+    第四届字节跳动青训营讲师非常用心给大家整理了课前、中、后的学习内容，同学们自我评估，选择性查漏补缺，便于大家更好的跟上讲师们的节奏，祝大家学习愉快，多多提问交流～ 
     </details> 
 
-- 💪 [go语言实现常用排序算法详解必备](https://juejin.cn/post/7130090981658984461) | Wed Aug 10 2022 3:54 AM 
+- 💪 [聊聊我在新加坡的生活和工作体验](https://juejin.cn/post/7129821088313262094) | Tue Aug 09 2022 10:27 AM 
     <details><summary>展开描述 ...</summary> 
-    排序算法是在生活中随处可见，也是算法基础，因为其实现代码较短,应用较常见。所以在面试中经常会问到排序算法及其相关的问题，可以说是每个程序员都必须得掌握的了。为了方便大家学习，花了一天的时间用Go语言实 
+    本文主要分享了笔者在新加坡生活和工作了几个月以来，在租房、出行、吃饭、工作、教育等方面的生活和工作体验。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
