@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星Galaxy Buds 2 Pro发布 带来更舒适的佩戴感受和高保真音频](https://www.cnbeta.com/articles/tech/1302981.htm) | Wed Aug 10 2022 1:31 PM 
+- 🕯 [苹果Apple Watch高精度温度传感器专利曝光](https://www.cnbeta.com/articles/tech/1302993.htm) | Wed Aug 10 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，三星举办发布会继续其一连串的硬件更新，在介绍耳机产品时推出新的Galaxy Buds 2 Pro。它们比初代Buds Pro更小、佩戴更舒适，而且新机型支持通过蓝牙播放24位音频，前提是如果你使用的是三星手机的话。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司在推出具有体温感应功能的Apple Watch Series 8前几周&lt;strong&gt;，已经获得了一项适用于Apple Watch的温度传感器专利。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星推出2022款Galaxy Z Flip 4和Z Fold 4智能手机 售价999/1799美元起](https://www.cnbeta.com/articles/tech/1302979.htm) | Wed Aug 10 2022 1:21 PM 
+- 💼 [加州理工学院开发新光学开关  可能导致超高速信号处理](https://www.cnbeta.com/articles/science/1302991.htm) | Wed Aug 10 2022 2:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星今天宣布推出其下一代可折叠智能手机，包括Galaxy Z Flip 4和Galaxy Z Fold 4。自2019年以来，三星一直在生产可折叠设备，2022款智能手机代表了这四年的折叠屏技术进展。Galaxy Z Flip 4采用120Hz的6.7英寸AMOLED显示屏，它可以垂直折叠。关闭时，机身外部有一个1.9英寸的AMOLED显示屏，用于显示时间、通知和其他需要一眼了解的信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;加州理工学院（Caltech）的工程师们已经开发出一种开关，这是计算的最基本组件之一，它使用光学而不是电子组件&lt;strong&gt;。这一发展可能有助于实现超快的全光信号处理和计算。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [LG发布97英寸OLED EX电视 号称可创造电影般的无扬声器振动音效](https://www.cnbeta.com/articles/tech/1302977.htm) | Wed Aug 10 2022 1:05 PM 
+- 💂 [美国初创企业通过Anthem电动摩托车进军通勤电动车领域](https://www.cnbeta.com/articles/tech/1302989.htm) | Wed Aug 10 2022 1:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;LG Display宣布了一款采用97英寸OLED EX面板的电视，它可以在没有内置扬声器的帮助下通过振动来产生5.1音频。&lt;/strong&gt;这款巨大的显示屏采用了LG的CSO（电影级OLED）技术，以前曾在可弯曲的48英寸OLED面板等设备上看到过。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当一些电动摩托车制造商专注于高性能和长距离时，其他制造商则瞄准了通勤市场。&lt;strong&gt;加州初创公司Ryvid推出了一款名为Anthem的电动摩托车，它也有足够的动力在高速公路上行驶。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Spotify直接从其平台上向粉丝出售现场演出的门票](https://www.cnbeta.com/articles/tech/1302975.htm) | Wed Aug 10 2022 1:04 PM 
+- 🚀 [三星Galaxy Z Fold4/Z Flip4上手体验：这次的创意在外屏](https://www.cnbeta.com/articles/tech/1302987.htm) | Wed Aug 10 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Spotify推出了一个新网站，直接从其平台上向粉丝出售现场演出的门票&lt;/strong&gt;，而不是将用户转到Ticketmaster和Eventbrite等合作伙伴那里。该公司的新网站列出了即将举行的音乐会，并让用户通过借记卡或信用卡购买这些演出的门票；不过，用户需要有一个Spotify账户才能购买门票。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月10日晚间消息，三星今日举行在海外举行“Galaxy Unpacked 2022”活动，推出Galaxy Z Fold4，Galaxy Z Flip4等两款折叠手机新品，以及Galaxy Buds2 Pro无线耳机，Galaxy Watch 5智能手表等配件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [格力、美的等家电龙头芯片自给量增加](https://www.cnbeta.com/articles/tech/1302973.htm) | Wed Aug 10 2022 12:36 PM 
+- 🎊 [三星推出Galaxy Watch 5系列智能手表 电池续航大大加强](https://www.cnbeta.com/articles/tech/1302985.htm) | Wed Aug 10 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国是全球最大的家电生产国，国产家电芯片的市场份额近年明显提升，格力、美的、海信、格兰仕等家电龙头也纷纷涉足芯片领域，国产家电芯片处于快速成长期。8月10日，产业在线半导体分析师欧阳怀对第一财经记者表示，目前国内主要家电芯片MCU（微控制单元）、IPM（智能功率模块）国产化率已超10%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;经过几周的泄漏和传言，三星今天在其Unpacked活动中终于宣布了279.99美元的Galaxy Watch 5和449.99美元的Galaxy Watch 5 Pro。&lt;/strong&gt;虽然没有太多的惊喜，但该公司似乎把对Galaxy Watch 4电池寿命不佳的批评放在心上，两款新机都拥有更大的电池，更快的充电速度，以及更高的耐用性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
