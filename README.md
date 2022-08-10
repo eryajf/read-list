@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [DeepFake换脸诈骗怎么破？让他侧个身](https://www.cnbeta.com/articles/tech/1302831.htm) | Wed Aug 10 2022 6:22 AM 
+- 🕯 [特斯拉500英里版Semi今年将开始配送，Cybertruck则要晚一年](https://www.cnbeta.com/articles/tech/1302871.htm) | Wed Aug 10 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;DeepFake被用到了电信诈骗里，该怎么破？让他转过头，看看他的侧脸就好了。&lt;/strong&gt;DeepFake一直以来都存在着这样一个漏洞：当伪造的人脸完全侧着（转90°）时，真实性就会急剧下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉CEO埃隆·马斯克在美东时间周三凌晨宣布，&lt;strong&gt;该公司将在今年开始运送续航能力为500英里（804公里）的Semi卡车，而对于续航能力相同的Cybertruck则将在2023年运送。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [油管网红博主打造“全自动击球”桌球杆 扣动扳机变身丁俊晖](https://www.cnbeta.com/articles/tech/1302829.htm) | Wed Aug 10 2022 6:21 AM 
+- 💼 [2022上半年中国智能机SoC终端出货量约为1.34亿颗 同比下降约16.9%](https://www.cnbeta.com/articles/tech/1302869.htm) | Wed Aug 10 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在油管上有这么一位博主Shane Wighton，&lt;strong&gt;他在运动方面经常被妻子血虐。于是，他经常造一些诸如“百发百中弓箭”、“百发百中篮球板”等作弊道具来挑战他妻子。&lt;/strong&gt;这一次，Shane Wighton买了设备跟妻子打台球。结果不出意料，Shane Wighton再次被妻子无情嘲讽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月9日，根据CINNO Research数据显示，2022上半年中国智能机SoC终端出货量约为1.34亿颗，同比下降约16.9%&lt;/strong&gt;，其中，紫光展锐与联发科实现同比正增长，由于低基数的影响，紫光展锐同比增长约为38%，为同比最大正增长的品牌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [比亚迪硬派越野车内饰谍照流出：中控设计视觉效果硬核](https://www.cnbeta.com/articles/tech/1302827.htm) | Wed Aug 10 2022 6:21 AM 
+- 💂 [其实，控制你的脑子的是你的肚子](https://www.cnbeta.com/articles/science/1302867.htm) | Wed Aug 10 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，网络上曝光了一张比亚迪高端硬派越野车内饰谍照，不同于比亚迪目前在售的车型，其中控设计样式非常独特，&lt;strong&gt;可以看到一整块大尺寸的触控屏&lt;/strong&gt;，没有采用比亚迪和腾势品牌惯用的悬浮式设计。此外，该车还将拥有一块尺寸巨大的全液晶仪表盘，其空调出风口就裸露在外，视觉效果十分硬核，也对得起它硬派越野车的身份。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;啤酒、烧烤、花生、毛豆，这是夏季限定的美好。但是，有时候，我们一个不小心就有可能吃坏肚子。此时，除了不要再乱吃东西调理肠胃之外，我们身体内部的肠道菌群也会控制免疫系统，帮我们尽早恢复健康。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [我国成功发射吉林一号高分03D09星等十六颗卫星](https://www.cnbeta.com/articles/tech/1302825.htm) | Wed Aug 10 2022 6:13 AM 
+- 🚀 [亚马逊掌纹支付功能即将推广至数十家Whole Foods门店](https://www.cnbeta.com/articles/tech/1302865.htm) | Wed Aug 10 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间2022年8月10日12时50分，我国在太原卫星发射中心使用长征六号遥十运载火箭，成功将吉林一号高分03D09星、云遥一号04-08星等十六颗卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。该批卫星主要用于商业遥感、大气成像等领域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊的“掌纹支付”技术，正在扩展至加利福尼亚州的 65 个 Whole Foods 门店。作为 Amazon One 支付服务的一部分，这些收银设备于 2020 年开始出现。&lt;strong&gt;现在，这家零售巨头又将掌纹支付功能扩展到了 Malibu、Montana Avenue 和 Santa Monica 的 Whole Foods 门店。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [日本300家便利店上线机械臂以填补劳动缺口](https://www.cnbeta.com/articles/tech/1302823.htm) | Wed Aug 10 2022 6:12 AM 
+- 🎊 [Solidigm展示全球首款PLC SSD 将率先用于数据中心](https://www.cnbeta.com/articles/tech/1302863.htm) | Wed Aug 10 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于日本劳动力萎缩，全家正寻求机器人的帮助，计划推出一支由微软、英伟达、机器人制造商Telexistence合作设计的人工智能驱动机器人队伍，在日本的300家便利店上架。Telexistence在周三的一份声明中表示，这些机器人手臂将用于补充冰箱中的饮料，现在已经开始批量生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;其实Intel早在2019年就宣布过他们在研究PLC闪存，而且还是用浮栅型结构，而接手Intel闪存业务的Solidigm也会继承了他们的所有技术。近日，在全球闪存峰会的主题演讲结束之际，Solidigm公司客户端存储事业部高级副总裁兼总经理Sanjay Talreja在现场展示了全球首款正在研发的PLC SSD。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
