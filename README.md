@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [刷新网页后先前浏览位置不变的解决方案](https://juejin.cn/post/7130044220991078431) | Wed Aug 10 2022 12:53 AM 
+- 🤗 [数据流程图：工作量评估的利器](https://juejin.cn/post/7130055018648076324) | Wed Aug 10 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 在京东上浏览的时候，发现了一个比较人性化的小功能，浏览商品，浏览到一半的时候，如下图所示： 我重新加载网 
+    若你是做业务后端开发同学，“数据流程图”绝对能帮助到你，更好的理解系统现状，更好评估需求开发工作量。其它岗位同学，同样有很大帮助，从研发视角理解系统设计，更好理解研发的工作评估。 
     </details> 
 
-- 🎡 [越折腾越好用的 3 款开源 APP](https://juejin.cn/post/7130041204183400484) | Wed Aug 10 2022 12:41 AM 
+- 🎡 [Iptables防火墙iprange模块扩展匹配规则](https://juejin.cn/post/7130054965074067492) | Wed Aug 10 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 高中的时候我特别喜欢捣鼓手机，然后我一个哥们儿在我的强烈推荐下买了个 HTC Dream&lpar;G1&rpar; 手机。  
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情Iptables防火墙iprange模块扩展匹配规则 
     </details> 
 
-- 🕯 [iOS小技能：文件预览、分享](https://juejin.cn/post/7130040729761480712) | Wed Aug 10 2022 12:39 AM 
+- 🕯 [ZooKeeper原理-paxos算法，ZAB协议](https://juejin.cn/post/7130054796295274510) | Wed Aug 10 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 应用场景：文件下载、打印 I 第三方SDK分享文件 1.1 微信SDK 1.2 友盟SDK II 原生API的文件预览及其他应用打开 获取NSURL 实例化UIDocumentInteracti 
+    ZK选举过程： - 3888端口保证两两通信 - 只要任何人投票，都会触发那个准Leader发起自己的投票 - 推选制：先比较zxid，如果zxid相同，再比较myid 
     </details> 
 
-- 🚀 [面试突击73：IoC 和 DI 有什么区别？](https://juejin.cn/post/7130040421731794974) | Wed Aug 10 2022 12:39 AM 
+- 🚀 [使用CSS实现多种Noise噪点效果](https://juejin.cn/post/7130053304113889311) | Wed Aug 10 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
-    IoC 和 DI 都是 Spring 框架中的重要概念，就像玫瑰花与爱情一样，IoC 和 DI 通常情况下... 
+    在前端开发过程中，我们也有可能遇到噪点插画风格的设计稿，本文主要内容主要就是通过几个示例来实现几种噪点效果。本文包含的知识点包括：CSS 属性 mask 遮罩、SVG 滤镜 feTurbulence、 
     </details> 
 
-- 💪 [学习 HTTP Referer](https://juejin.cn/post/7130033583284027429) | Wed Aug 10 2022 12:12 AM 
+- 💪 [es-head插件插入查询以及条件查询（五）](https://juejin.cn/post/7130049525250523173) | Wed Aug 10 2022 1:14 AM 
     <details><summary>展开描述 ...</summary> 
-    HTTP 中 Referer 字段在工作中或许并不会吸引你的注意，隐藏在 Network 的请求之下，但是却有着非常重要的作用。平常你一定会遇到一些问题需要去排查。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 es-head插件插入查询以及条件查询（五） 
     </details> 
 <!-- juejin:END -->
 ### 少数派
