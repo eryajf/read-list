@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究称跳蛛或经历类似快速眼动的睡眠 甚至可能会做梦](https://www.cnbeta.com/articles/science/1302721.htm) | Wed Aug 10 2022 1:30 AM 
+- 🕯 [广州首批氢能环卫车投入营运 最多8分钟便能加满氢气](https://www.cnbeta.com/articles/tech/1302759.htm) | Wed Aug 10 2022 3:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据CNET报道，跳蛛可以说是最可爱的蛛形纲动物。&lt;strong&gt;一个科学家小组已经在这类蜘蛛身上观察到一种类似快速眼动睡眠的状态，这导致它们可能在做梦。&lt;/strong&gt;现在对蜘蛛的研究还处于早期阶段，但初步结果很吸引人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;广州首批氢能环卫车8日正式营运。与纯电动环卫车相比，氢能环卫车只要4分钟至8分钟就能加满氢气&lt;/strong&gt;。氢能被誉为21世纪的“最清洁的能源”，是一种清洁、高效、安全、可持续的二次能源。氢能的持续发展，是实现“碳达峰、碳中和”的重要环节，是走低碳绿色发展道路的必然选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美司法部正在准备就数字广告市场的主导地位起诉Google](https://www.cnbeta.com/articles/tech/1302719.htm) | Wed Aug 10 2022 1:29 AM 
+- 💼 [CCSA发布融合快充团体标准 推动自主技术创新应用](https://www.cnbeta.com/articles/tech/1302757.htm) | Wed Aug 10 2022 3:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，&lt;strong&gt;美国司法部&lpar;DOJ&rpar;正在准备起诉Google，他们担心该公司非法控制网络广告市场。&lt;/strong&gt;据熟悉情况的人称，目前，DOJ的律师正在询问出版商并希望为投诉获得更多细节。彭博社指出，DOJ可能最快在下个月起诉Google。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月9日，中国通信标准化协会（CCSA）正式发布了两项与电信终端产业协会双编号的团体标准T/CCSA 393—2022 |T/TAF 083-2022 《&lt;a href=&quot;https://www.taf.org.cn/StdDetail.aspx?uid=B1E2AF83-75BD-461F-B77F-DFB6EC9CD50F&amp;stdType=TAF&quot; target=&quot;_blank&quot;&gt;移动终端融合快速充电技术规范&lt;/a&gt;》、T/CCSA 394—2022|T/TAF 092-2022 《&lt;a href=&quot;https://www.taf.org.cn/StdDetail.aspx?uid=569EBF71-AD43-457A-986D-F5A621B4EAB3&amp;stdType=TAF&quot; target=&quot;_blank&quot;&gt;移动终端融合快速充电测试方法&lt;/a&gt;》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [网剧播放量动辄几十亿？造假的“神话”该收场了](https://hot.cnbeta.com/articles/movie/1302717.htm) | Wed Aug 10 2022 1:24 AM 
+- 💂 [研究首次将肝癌风险增加与接触“永久化学品”PFAS直接联系起来](https://www.cnbeta.com/articles/science/1302755.htm) | Wed Aug 10 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;网剧上线，一天就斩获数亿播放量？这样的“神话”，以后可能不多见了。&lt;strong&gt;“网生”已成为中国影视的新坐标，互联网思维正在重塑着影视行业的传统格局。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1302717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项新研究报告称，&lt;strong&gt;血液中全氟辛烷磺酸（PFOS）水平的升高与肝癌风险的增加之间存在联系。&lt;/strong&gt;该研究首次将这种“永久化学品”与人类的肝癌直接联系起来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉的下一座超级工厂将可能建在加拿大](https://www.cnbeta.com/articles/tech/1302715.htm) | Wed Aug 10 2022 1:24 AM 
+- 🚀 [拿到补贴后美光宣布2700亿投资 在美国扩大内存芯片本土产能](https://www.cnbeta.com/articles/tech/1302753.htm) | Wed Aug 10 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在特斯拉年度股东大会的舞台上，CEO埃隆·马斯克暗示，该汽车制造商将在今年年底前选择一个新超级工厂的地点。马斯克开玩笑地问他的粉丝，公司应该在哪里建厂，当一些人喊出“加拿大”时，马斯克回答道：“我有一半加拿大血统。也许我应该这样做。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国日前宣布了总额2800多亿美元的科技补贴法案，其中针对半导体领域的就有520多亿美元，开始给美国的芯片行业输血补贴，美光公司也是被邀请参与的企业之一，作为对官方补贴的回报，美光也宣布了400亿美元的投资计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Google Stadia服务迎来Party Stream直播功能增强](https://hot.cnbeta.com/articles/game/1302713.htm) | Wed Aug 10 2022 1:23 AM 
+- 🎊 [矿卡崩盘 NVIDIA不好赚了：RTX 30显卡利润大缩水](https://www.cnbeta.com/articles/tech/1302751.htm) | Wed Aug 10 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为了更方便地与好友分享屏幕，Google Stadia 刚刚迎来了名叫“派对串流”（Party Stream）的直播功能增强。与竞争对手相比，Stadia 的一大优势，就是无需使用特殊软硬件，即可直接通过 Google 旗下的 YouTube 平台来直播游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年五一前后，显卡挖矿市场突变，后续矿卡市场就崩盘了，没有了工头们高价抢购，显卡价格一落千丈，现在影响力开始逐渐显现，NVIDIA前两天预告游戏业务暴跌44%。在公告中，NVIDIA并没有提及矿卡的影响，强调是全球经济环境影响，后续会跟合作伙伴采取调整渠道价格和库存的策略。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
