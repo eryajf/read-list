@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RocketMQ 消息集成：多类型业务消息——定时消息](https://juejin.cn/post/7130194937223577637) | Wed Aug 10 2022 10:39 AM 
+- 🤗 [一次由groovy引起的fullGC问题排查](https://juejin.cn/post/7130214479026978847) | Wed Aug 10 2022 11:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    Groovy错误的使用方式导致class对象常驻堆外内存，并随着调用频率增长，从而造成堆外内存溢出； 
+    </details> 
+
+- 🎡 [java数据存储、集合博大精深学习完，对您面试和工作事半功倍！！！](https://juejin.cn/post/7130195946041769991) | Wed Aug 10 2022 10:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    数组 存储相同类型的多个数据的结构体，长度固定 语法格式：数据类型[] 变量名=new 数据类型[长度]; 一维数组和多维数组 索引从0开始，长度固定，只能存储一种类型的数据 Collection集合 
+    </details> 
+
+- 🕯 [RocketMQ 消息集成：多类型业务消息——定时消息](https://juejin.cn/post/7130194937223577637) | Wed Aug 10 2022 10:39 AM 
     <details><summary>展开描述 ...</summary> 
     本篇将继续业务消息集成的场景，从使用场景、应用案例、功能原理以及最佳实践等角度介绍 RocketMQ 的定时消息功能。 
     </details> 
 
-- 🎡 [Redux——一个源码比使用简单的库](https://juejin.cn/post/7130195207789740068) | Wed Aug 10 2022 10:39 AM 
+- 🚀 [Redux——一个源码比使用简单的库](https://juejin.cn/post/7130195207789740068) | Wed Aug 10 2022 10:39 AM 
     <details><summary>展开描述 ...</summary> 
     相信学过 React 的朋友对 Redux 一定不陌生，其作为 JavaScript 的状态容器，能够提供可预测化的状态管理，但其实它并不是专门为了 react 而设计的，你也可以在原生 JS 项目或 
     </details> 
 
-- 🕯 [Java面试知识点：OOP:面向对象，希望对您有用！！！](https://juejin.cn/post/7130195124675411981) | Wed Aug 10 2022 10:38 AM 
+- 💪 [Java面试知识点：OOP:面向对象，希望对您有用！！！](https://juejin.cn/post/7130195124675411981) | Wed Aug 10 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
     思想 80年代，百花争名，OOP&lpar;面向对象编程&rpar; OOA（面向对象分析） OOD（面向对象设计） 程序即现实：模拟现实世界 万事万物皆对象 核心：类和对象 类是对象的抽象，对象是类的具体 类：抽象的 
-    </details> 
-
-- 🚀 [转转 Hybrid 离线包治理与优化实践](https://juejin.cn/post/7130189657102352414) | Wed Aug 10 2022 10:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    在离线包的监控方面，主要通过埋点上报和sentry 异常报警方式进行。lego埋点 主要上报一些问题排查的辅助信息，sentry 主要上报一些该技术在用户使用时遇到的较严重的错误信息，比如下载异常、解 
-    </details> 
-
-- 💪 [一文搞懂传统单节点网站的 Serverless 上云](https://juejin.cn/post/7130171685189189645) | Wed Aug 10 2022 9:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    阿里云函数计算 FC 是事件驱动的全托管计算服务，真正的无需去考虑服务器的运维管理，只需要完成开发的代码进行上传，函数计算会通过角色策略去规划计算资源，弹性的方式执行函数，最后高效的执行部署。优雅！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
