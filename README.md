@@ -237,29 +237,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [游记 | 浙东秋名山，跑山消暑玩水好去处](https://blog.ops-coffee.cn/s/HApDTE3c0o4YL5ntx0Aa1Q) | Tue Aug 09 2022 2:53 PM 
+- 👺 [Django URL用法及配置介绍](https://blog.ops-coffee.cn/django/django-url-path-conf) | Wed Aug 10 2022 11:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    Django URL常用方法及配置介绍 
+    </details> 
+
+- 💯 [Django Model关联关系之ManyToManyField](https://blog.ops-coffee.cn/django/django-model-manytomany-field) | Wed Aug 10 2022 11:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    详细介绍Django Model多对多的关联关系ManyToManyField 
+    </details> 
+
+- 🚦 [Django Model关联关系之ForeignKey](https://blog.ops-coffee.cn/django/django-model-foreignkey) | Wed Aug 10 2022 11:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    详细介绍Django Model一对多的关联关系ForeignKey 
+    </details> 
+
+- 👨‍🏫 [Django Model之关联关系](https://blog.ops-coffee.cn/django/django-model-relationships) | Wed Aug 10 2022 11:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    Django model关联关系介绍 
+    </details> 
+
+- 🌮 [游记 | 浙东秋名山，跑山消暑玩水好去处](https://blog.ops-coffee.cn/s/HApDTE3c0o4YL5ntx0Aa1Q) | Tue Aug 09 2022 2:53 PM 
     <details><summary>展开描述 ...</summary> 
     浙东秋名山，周末四名山自驾跑山、消暑、玩儿水游记 
-    </details> 
-
-- 💯 [Django URL](https://blog.ops-coffee.cn/django/django-url-conf) | Wed Aug 03 2022 6:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    Django URL 
-    </details> 
-
-- 🚦 [Django Model字段类型](https://blog.ops-coffee.cn/django/django-model-fields) | Tue Aug 02 2022 4:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    介绍Django Model的全部字段类型 
-    </details> 
-
-- 👨‍🏫 [Django Model字段选项](https://blog.ops-coffee.cn/django/django-model-options) | Tue Aug 02 2022 12:19 PM 
-    <details><summary>展开描述 ...</summary> 
-    详细介绍Django Model的字段选项 
-    </details> 
-
-- 🌮 [Django Model之ForeignKey](https://blog.ops-coffee.cn/django/django-model-foreignkey) | Mon Aug 01 2022 5:53 PM 
-    <details><summary>展开描述 ...</summary> 
-    foreignkey介绍及学习 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
