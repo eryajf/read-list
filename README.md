@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [魅族手机配件缺货无法维修 加价换购新款手机行为不合规](https://www.cnbeta.com/articles/tech/1302627.htm) | Tue Aug 09 2022 6:26 PM 
+- 🕯 [研究称跳蛛或经历类似快速眼动的睡眠 甚至可能会做梦](https://www.cnbeta.com/articles/science/1302721.htm) | Wed Aug 10 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;手机坏了只换不修，这看上去是天大的好事。在今年的618，就有不少手机厂商打出了“180天内只换不修”的承诺，即手机坏了免费换新机。但对部分魅族手机用户而言，他们遇到的“只换不修”，却是加价换购新款手机，而且这加价还不便宜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据CNET报道，跳蛛可以说是最可爱的蛛形纲动物。&lt;strong&gt;一个科学家小组已经在这类蜘蛛身上观察到一种类似快速眼动睡眠的状态，这导致它们可能在做梦。&lt;/strong&gt;现在对蜘蛛的研究还处于早期阶段，但初步结果很吸引人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [上万币圈账号被毙 严管之下谁在逆行](https://www.cnbeta.com/articles/tech/1302625.htm) | Tue Aug 09 2022 6:25 PM 
+- 💼 [美司法部正在准备就数字广告市场的主导地位起诉Google](https://www.cnbeta.com/articles/tech/1302719.htm) | Wed Aug 10 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;监管风暴再次来袭。自2021年9月央行等十部门对虚拟货币非法业务活动重拳出击后，2022年8月9日，国家网信办再发布集中整治涉虚拟货币炒作乱象的消息称，已关闭上万个违规用户账号，清理数万条违规信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，&lt;strong&gt;美国司法部&lpar;DOJ&rpar;正在准备起诉Google，他们担心该公司非法控制网络广告市场。&lt;/strong&gt;据熟悉情况的人称，目前，DOJ的律师正在询问出版商并希望为投诉获得更多细节。彭博社指出，DOJ可能最快在下个月起诉Google。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [印度“围剿”中国手机 但“胜利”不会属于印度](https://www.cnbeta.com/articles/tech/1302623.htm) | Tue Aug 09 2022 6:24 PM 
+- 💂 [网剧播放量动辄几十亿？造假的“神话”该收场了](https://hot.cnbeta.com/articles/movie/1302717.htm) | Wed Aug 10 2022 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;印度将限制中国厂商出售价格低于1.2万卢比（约合1200元人民币）的手机。8月8日，外媒报道，目前还不清楚莫迪政府是否已经宣布政策，或通过其他非公开渠道向中国公司下达了指令。“还没接到通知，但很可能是真的，媒体在吹风。”某知名手机品牌的印度负责人表示。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;网剧上线，一天就斩获数亿播放量？这样的“神话”，以后可能不多见了。&lt;strong&gt;“网生”已成为中国影视的新坐标，互联网思维正在重塑着影视行业的传统格局。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1302717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [妖股现形：智富融资暴跌80% 尚乘数科跌超40%](https://www.cnbeta.com/articles/tech/1302621.htm) | Tue Aug 09 2022 6:21 PM 
+- 🚀 [特斯拉的下一座超级工厂将可能建在加拿大](https://www.cnbeta.com/articles/tech/1302715.htm) | Wed Aug 10 2022 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;两大“妖股”作妖结束了？“妖股”现行了？在接连暴涨之后，智富融资和尚乘数科在8月9日周二纷纷暴跌。智富融资股价一度跌破20美元，已不足最高价的10%。智富融资上周五上市，上市首日一度暴涨超50倍，从4美元的发行价一路走高，日内最高上探214.5美元，触发多次熔断，最终收涨20.7%。上市首日当天收涨2325%报97美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在特斯拉年度股东大会的舞台上，CEO埃隆·马斯克暗示，该汽车制造商将在今年年底前选择一个新超级工厂的地点。马斯克开玩笑地问他的粉丝，公司应该在哪里建厂，当一些人喊出“加拿大”时，马斯克回答道：“我有一半加拿大血统。也许我应该这样做。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [波音7月客机交付量降至五个月来最低水平](https://www.cnbeta.com/articles/tech/1302619.htm) | Tue Aug 09 2022 6:16 PM 
+- 🎊 [Google Stadia服务迎来Party Stream直播功能增强](https://hot.cnbeta.com/articles/game/1302713.htm) | Wed Aug 10 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;波音公司周二表示，该公司7月份飞机交付量降至26架，为五个月以来的最低水平，突显了全球供应链面临的压力。与此同时，该公司准备恢复787梦想客机的交付。&lt;/strong&gt;波音表示，7月份的交付包括23架737 MAX机型和三架宽体货机。该公司今年迄今的总交付量达到242架，其中包括212架MAX机型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了更方便地与好友分享屏幕，Google Stadia 刚刚迎来了名叫“派对串流”（Party Stream）的直播功能增强。与竞争对手相比，Stadia 的一大优势，就是无需使用特殊软硬件，即可直接通过 Google 旗下的 YouTube 平台来直播游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1302713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
