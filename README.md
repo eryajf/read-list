@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉500英里版Semi今年将开始配送，Cybertruck则要晚一年](https://www.cnbeta.com/articles/tech/1302871.htm) | Wed Aug 10 2022 7:07 AM 
+- 🕯 [因泄露三星折叠屏 爆料人被警告 相关信息已删除](https://www.cnbeta.com/articles/tech/1302893.htm) | Wed Aug 10 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉CEO埃隆·马斯克在美东时间周三凌晨宣布，&lt;strong&gt;该公司将在今年开始运送续航能力为500英里（804公里）的Semi卡车，而对于续航能力相同的Cybertruck则将在2023年运送。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，知名爆料人Roland Quandt收到通知，&lt;strong&gt;应版权方三星要求，Roland Quandt此前发布的Galaxy Z Fold4和Galaxy Z Flip4相关信息被删除。&lt;/strong&gt;事实上，这不是第一次发生该事件。此前在三星Galaxy S22系列发布之前，知名爆料人evleaks提前泄露了Galaxy S22 Ultra的信息，本人被三星投诉，相关内容被删除。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302893.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [2022上半年中国智能机SoC终端出货量约为1.34亿颗 同比下降约16.9%](https://www.cnbeta.com/articles/tech/1302869.htm) | Wed Aug 10 2022 6:59 AM 
+- 💼 [奥迪Q9效果图流出 旗下史上最大尺寸SUV](https://www.cnbeta.com/articles/tech/1302891.htm) | Wed Aug 10 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月9日，根据CINNO Research数据显示，2022上半年中国智能机SoC终端出货量约为1.34亿颗，同比下降约16.9%&lt;/strong&gt;，其中，紫光展锐与联发科实现同比正增长，由于低基数的影响，紫光展锐同比增长约为38%，为同比最大正增长的品牌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;宝马X7、奔驰GLS真正的对手来了。近日，据海外媒体报道，奥迪已经向海外部分经销商透露将于2025年推出一款大型SUV，&lt;strong&gt;新车或被命名为奥迪Q9。&lt;/strong&gt;同时该车的最新效果图也已得到曝光，从外观来看，该车将采用最新的家族式设计，整体造型相比Q7和Q6明显更大气豪华，矩阵式大灯依旧是新车的最大亮点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302891.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [其实，控制你的脑子的是你的肚子](https://www.cnbeta.com/articles/science/1302867.htm) | Wed Aug 10 2022 6:59 AM 
+- 💂 [iPhone 14发布时间或提前至9月6日 苹果正疯狂备货](https://www.cnbeta.com/articles/tech/1302889.htm) | Wed Aug 10 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;啤酒、烧烤、花生、毛豆，这是夏季限定的美好。但是，有时候，我们一个不小心就有可能吃坏肚子。此时，除了不要再乱吃东西调理肠胃之外，我们身体内部的肠道菌群也会控制免疫系统，帮我们尽早恢复健康。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于即将到来的iPhone 14系列，苹果看起来信心满满。此前，外界普遍相信苹果秋季发布会定在9月13日（周二），但爆料好手Max Weinbach称有看到内部文件的消息人士称，&lt;strong&gt;活动提前到了9月6日（周二），预购9月16号开始，23号首批发货和正式销售。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302889.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [亚马逊掌纹支付功能即将推广至数十家Whole Foods门店](https://www.cnbeta.com/articles/tech/1302865.htm) | Wed Aug 10 2022 6:57 AM 
+- 🚀 [三星今年有望出货1100万部Galaxy Z Fold4/Flip4折叠屏新机](https://www.cnbeta.com/articles/tech/1302887.htm) | Wed Aug 10 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊的“掌纹支付”技术，正在扩展至加利福尼亚州的 65 个 Whole Foods 门店。作为 Amazon One 支付服务的一部分，这些收银设备于 2020 年开始出现。&lt;strong&gt;现在，这家零售巨头又将掌纹支付功能扩展到了 Malibu、Montana Avenue 和 Santa Monica 的 Whole Foods 门店。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;赶在 Galaxy Unpacked 发布会召开数小时前，数据分析机构 Omdia 抢先分享了三星折叠屏新机的年内出货量预估数据。&lt;strong&gt;该机构表示，三星有望于 2022 年底前出货 1100 万部 Galaxy Z Fold4 和 Galaxy Z Flip4 。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Solidigm展示全球首款PLC SSD 将率先用于数据中心](https://www.cnbeta.com/articles/tech/1302863.htm) | Wed Aug 10 2022 6:57 AM 
+- 🎊 [爆料称DDR5-6000是Zen 4锐龙7000处理器的最佳内存频率搭配](https://www.cnbeta.com/articles/tech/1302885.htm) | Wed Aug 10 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;其实Intel早在2019年就宣布过他们在研究PLC闪存，而且还是用浮栅型结构，而接手Intel闪存业务的Solidigm也会继承了他们的所有技术。近日，在全球闪存峰会的主题演讲结束之际，Solidigm公司客户端存储事业部高级副总裁兼总经理Sanjay Talreja在现场展示了全球首款正在研发的PLC SSD。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD 主板合作伙伴已经主动分享了与 Zen 4 锐龙 7000 系列 AM5 台式处理器有关的一些设计细节，可知其有助于为新一代平台带来出色的超频与内存支持。&lt;strong&gt;此外有消息人士透露，DDR5-6000 将是 Raphael CPU 的内存频率“甜蜜点”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
