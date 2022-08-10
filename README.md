@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [给苹果敲响警钟 富士康预计Q3智能手机需求放缓](https://www.cnbeta.com/articles/tech/1302971.htm) | Wed Aug 10 2022 12:31 PM 
+- 🕯 [三星Galaxy Buds 2 Pro发布 带来更舒适的佩戴感受和高保真音频](https://www.cnbeta.com/articles/tech/1302981.htm) | Wed Aug 10 2022 1:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;富士康周三公布的二季度财报显示，受苹果&lpar;AAPL.US&rpar;iPhone强劲销售势头的推动，该公司Q2净利润达到新台币332.9亿元&lpar;约合11.1亿美元&rpar;，同比增长12%。不过，富士康对第三季度的前景持谨慎态度，预计智能手机需求将放缓。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，三星举办发布会继续其一连串的硬件更新，在介绍耳机产品时推出新的Galaxy Buds 2 Pro。它们比初代Buds Pro更小、佩戴更舒适，而且新机型支持通过蓝牙播放24位音频，前提是如果你使用的是三星手机的话。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英伟达CEO黄仁勋：营收未达预期不会裁员 还要加薪](https://www.cnbeta.com/articles/tech/1302969.htm) | Wed Aug 10 2022 12:26 PM 
+- 💼 [三星推出2022款Galaxy Z Flip 4和Z Fold 4智能手机 售价999/1799美元起](https://www.cnbeta.com/articles/tech/1302979.htm) | Wed Aug 10 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Business Insider报道，英伟达CEO黄仁勋在公司内部电子邮件中分享了他对公司当前看法并表示不会在营收未达预期情况下进行裁员。此前英伟达公开了本财年最新季度的财报，总体来看各项重点指标均未达到预期，第二季度游戏收入为20.4亿美元，环比下降44%，同比下降33%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星今天宣布推出其下一代可折叠智能手机，包括Galaxy Z Flip 4和Galaxy Z Fold 4。自2019年以来，三星一直在生产可折叠设备，2022款智能手机代表了这四年的折叠屏技术进展。Galaxy Z Flip 4采用120Hz的6.7英寸AMOLED显示屏，它可以垂直折叠。关闭时，机身外部有一个1.9英寸的AMOLED显示屏，用于显示时间、通知和其他需要一眼了解的信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Joby Aviation与美国防部的电动飞机合同扩大到包括海军陆战队](https://www.cnbeta.com/articles/tech/1302967.htm) | Wed Aug 10 2022 12:16 PM 
+- 💂 [LG发布97英寸OLED EX电视 号称可创造电影般的无扬声器振动音效](https://www.cnbeta.com/articles/tech/1302977.htm) | Wed Aug 10 2022 1:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国国防部正在加深与电动垂直起降（eVTOL）飞机公司Joby Aviation的关系。Joby周三表示，它正在扩大与美国空军Agility Prime项目的现有合同，该项目是空军在2020年4月发起的一项倡议，旨在测试、试验并普遍加快eVTOL的发展，以实现跨商业和军事用途。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;LG Display宣布了一款采用97英寸OLED EX面板的电视，它可以在没有内置扬声器的帮助下通过振动来产生5.1音频。&lt;/strong&gt;这款巨大的显示屏采用了LG的CSO（电影级OLED）技术，以前曾在可弯曲的48英寸OLED面板等设备上看到过。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [科学家开发出可使所有癌症患者实现免疫疗法的小分子物质](https://www.cnbeta.com/articles/science/1302965.htm) | Wed Aug 10 2022 12:09 PM 
+- 🚀 [Spotify直接从其平台上向粉丝出售现场演出的门票](https://www.cnbeta.com/articles/tech/1302975.htm) | Wed Aug 10 2022 1:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特拉维夫大学和里斯本大学的科学家们发现并合成了一种小分子，它可以成为一种更容易获得和有效的抗体替代品，这种抗体被成功用于治疗一系列癌症。这项研究的结果发表在《癌症免疫治疗杂志》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1302965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Spotify推出了一个新网站，直接从其平台上向粉丝出售现场演出的门票&lt;/strong&gt;，而不是将用户转到Ticketmaster和Eventbrite等合作伙伴那里。该公司的新网站列出了即将举行的音乐会，并让用户通过借记卡或信用卡购买这些演出的门票；不过，用户需要有一个Spotify账户才能购买门票。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Watch 3系列智能手表领衔登场 OPPO举办新品最多的IoT发布会](https://www.cnbeta.com/articles/tech/1302963.htm) | Wed Aug 10 2022 11:59 AM 
+- 🎊 [格力、美的等家电龙头芯片自给量增加](https://www.cnbeta.com/articles/tech/1302973.htm) | Wed Aug 10 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;OPPO Watch 3系列及智美生活发布会正式举办，OPPO Watch 3 Pro领衔穿戴新品，&lt;/strong&gt;以“腕上生长设计”和LTPO常亮屏革新智能手表形态和交互体验，全新推出专业网球模式、血管健康研究，焕新演绎全智能手表旗舰典范体验；OPPO 手环 2 搭载1.57英寸AMOLED大屏，全面刷新入门穿戴产品体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国是全球最大的家电生产国，国产家电芯片的市场份额近年明显提升，格力、美的、海信、格兰仕等家电龙头也纷纷涉足芯片领域，国产家电芯片处于快速成长期。8月10日，产业在线半导体分析师欧阳怀对第一财经记者表示，目前国内主要家电芯片MCU（微控制单元）、IPM（智能功率模块）国产化率已超10%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1302973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
