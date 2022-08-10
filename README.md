@@ -804,7 +804,7 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [添加香蕉皮粉的烘培曲奇，更健康也更好吃](http://jandan.net/p/111119) | Wed Aug 10 2022 9:15 AM 
+- 🚀 [添加香蕉皮粉的烘焙曲奇，更健康也更好吃](http://jandan.net/p/111119) | Wed Aug 10 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
     把香蕉皮粉末与黄油、脱脂奶粉、糖粉、植物油和小麦粉混合在一起 
     </details> 
