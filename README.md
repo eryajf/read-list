@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [数据流程图：工作量评估的利器](https://juejin.cn/post/7130055018648076324) | Wed Aug 10 2022 1:35 AM 
+- 🤗 [详解TCP三次握手的首次握手协议数据](https://juejin.cn/post/7130062216355086372) | Wed Aug 10 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-    若你是做业务后端开发同学，“数据流程图”绝对能帮助到你，更好的理解系统现状，更好评估需求开发工作量。其它岗位同学，同样有很大帮助，从研发视角理解系统设计，更好理解研发的工作评估。 
+    我们之前学习计算机网络，都会提到TCP的三次握手、四次挥手，相信不少小伙伴都能简单描述但一直似懂非懂。那么双方主机到底是如何进行协议交互的？今天带领大家从二进制协议数据层面进行深入分析。 
     </details> 
 
-- 🎡 [Iptables防火墙iprange模块扩展匹配规则](https://juejin.cn/post/7130054965074067492) | Wed Aug 10 2022 1:35 AM 
+- 🎡 [Vue 2 阅读理解（二）之$mount](https://juejin.cn/post/7130060565963079711) | Wed Aug 10 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情Iptables防火墙iprange模块扩展匹配规则 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 1. $mount 函数来源 上一节虽然直接从 core 目录下找到了 Vue 的构造函数定义，但是缺少 
     </details> 
 
-- 🕯 [ZooKeeper原理-paxos算法，ZAB协议](https://juejin.cn/post/7130054796295274510) | Wed Aug 10 2022 1:34 AM 
+- 🕯 [负载均衡原理分析与源码解读](https://juejin.cn/post/7130058444442173447) | Wed Aug 10 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-    ZK选举过程： - 3888端口保证两两通信 - 只要任何人投票，都会触发那个准Leader发起自己的投票 - 推选制：先比较zxid，如果zxid相同，再比较myid 
+    上一篇文章一起学习了Resolver的原理和源码分析，本篇继续和大家一起学习下和Resolver关系密切的Balancer的相关内容。这里说的负载均衡主要指数据中心内的负载均衡，即RPC间的负载均衡。 
     </details> 
 
-- 🚀 [使用CSS实现多种Noise噪点效果](https://juejin.cn/post/7130053304113889311) | Wed Aug 10 2022 1:28 AM 
+- 🚀 [用 React Tsx 语法发送飞书交互卡片（Teamo）](https://juejin.cn/entry/7129942982760857613) | Tue Aug 09 2022 6:20 PM 
     <details><summary>展开描述 ...</summary> 
-    在前端开发过程中，我们也有可能遇到噪点插画风格的设计稿，本文主要内容主要就是通过几个示例来实现几种噪点效果。本文包含的知识点包括：CSS 属性 mask 遮罩、SVG 滤镜 feTurbulence、 
+    文章使用 React 的 Tsx 语法在 node.js 端使用搭建了一个远程控制飞书卡片的前端系统。 
     </details> 
 
-- 💪 [es-head插件插入查询以及条件查询（五）](https://juejin.cn/post/7130049525250523173) | Wed Aug 10 2022 1:14 AM 
+- 💪 [RocketMQ实现一个随缘分BUG小功能](https://juejin.cn/post/7129904989064953864) | Tue Aug 09 2022 3:53 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 es-head插件插入查询以及条件查询（五） 
+    以前公司的产品已经上线20多年了，主要是维护，也就是改bug。每周我们Team会从Jira上拿我们可以改的bug，因为每个团队负责的业务范围不一样，我们团队只能改我们自己业务范围的。这样每周大概有20 
     </details> 
 <!-- juejin:END -->
 ### 少数派
