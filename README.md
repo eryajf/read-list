@@ -406,7 +406,7 @@
     台州公共交通卡支持 Apple Pay，Beats Fit Pro 推出金·卡戴珊特别版新配色等。&lt;a href=&quot;https://sspai.com/post/75072&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一日一技 | 一个注册表键让微软停止歧视苹果](https://sspai.com/post/75019) | Tue Aug 09 2022 9:30 AM 
+- 🐘 [一日一技 | 一个注册表键让微软的录制功能停止歧视苹果设备](https://sspai.com/post/75019) | Tue Aug 09 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     Windows 上 Xbox Game Bar 的录制功能很方便，但录制的视频在 Apple 设备上播放不正常，只需要修改一个注册表键就能让微软停止歧视苹果。&lt;a href=&quot;https://sspai.com/post/75019&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
