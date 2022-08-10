@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [一个对象有多个字段需要分别求和，每一个字段都有一个 stream 流处理不太美观](https://www.v2ex.com/t/872043#reply6) | Wed Aug 10 2022 2:58 PM
+- 🥸 [一个对象有多个字段需要分别求和，每一个字段都有一个 stream 流处理不太美观](https://www.v2ex.com/t/872043#reply9) | Wed Aug 10 2022 2:58 PM
 - 🤗 [编写一个 shell 脚本，将 2 个文件的差集，输出到一个新文件](https://www.v2ex.com/t/872042#reply12) | Wed Aug 10 2022 2:56 PM
 - 🎭 [React Hook 一些实践选择的讨论](https://www.v2ex.com/t/872041#reply2) | Wed Aug 10 2022 2:54 PM
-- 🥷 [F*** U 阿里巴巴！ Windows 阿里旺旺客户端升级之后，竟然不兼容旧版数据！](https://www.v2ex.com/t/872035#reply2) | Wed Aug 10 2022 2:34 PM
+- 🥷 [F*** U 阿里巴巴！ Windows 阿里旺旺客户端升级之后，竟然不兼容旧版数据！](https://www.v2ex.com/t/872035#reply3) | Wed Aug 10 2022 2:34 PM
 - 🐵 [大家在下班之后或者周末时间会做些什么](https://www.v2ex.com/t/872030#reply3) | Wed Aug 10 2022 2:04 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
