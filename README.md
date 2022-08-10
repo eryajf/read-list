@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Swift - LeetCode - 反转链表](https://juejin.cn/post/7129907736728305671) | Tue Aug 09 2022 4:04 PM 
+- 🤗 [刷新网页后先前浏览位置不变的解决方案](https://juejin.cn/post/7130044220991078431) | Wed Aug 10 2022 12:53 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情  题目 给你单链表的头节点 head，请你反转链表，并返回反转后的链表。 示例 1： 示例 2： 示例  
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 在京东上浏览的时候，发现了一个比较人性化的小功能，浏览商品，浏览到一半的时候，如下图所示： 我重新加载网 
     </details> 
 
-- 🎡 [[JS真好玩] 浏览器中执行JS，如何将某个长字符串存到本地文件里](https://juejin.cn/post/7129888845226573861) | Tue Aug 09 2022 2:50 PM 
+- 🎡 [越折腾越好用的 3 款开源 APP](https://juejin.cn/post/7130041204183400484) | Wed Aug 10 2022 12:41 AM 
     <details><summary>展开描述 ...</summary> 
-    在浏览器中执行的JS，如何把一个字符串存到电脑的本地文件呢？可以通过开启一个下载任务来实现。具体方法是：通过&lt;a&gt;标签的href属性触发下载，通过FileReader生成文本文件。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第2天，点击查看活动详情 高中的时候我特别喜欢捣鼓手机，然后我一个哥们儿在我的强烈推荐下买了个 HTC Dream&lpar;G1&rpar; 手机。  
     </details> 
 
-- 🕯 [Flutter - 列表滚动定位超强辅助库，墙裂推荐！🔥](https://juejin.cn/post/7129888644290068487) | Tue Aug 09 2022 2:50 PM 
+- 🕯 [iOS小技能：文件预览、分享](https://juejin.cn/post/7130040729761480712) | Wed Aug 10 2022 12:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Flutter 官方提供了 ScrollController，调用下方两个方法可以滚动到指定偏移处，但是官方没有提供滚动到指定下标位置的功能 
+    前言 应用场景：文件下载、打印 I 第三方SDK分享文件 1.1 微信SDK 1.2 友盟SDK II 原生API的文件预览及其他应用打开 获取NSURL 实例化UIDocumentInteracti 
     </details> 
 
-- 🚀 [C# List生成Txt文档，读取Txt文档封装List](https://juejin.cn/post/7129886486798794766) | Tue Aug 09 2022 2:42 PM 
+- 🚀 [面试突击73：IoC 和 DI 有什么区别？](https://juejin.cn/post/7130040421731794974) | Wed Aug 10 2022 12:39 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 前言： 在做项目的时候遇到这样的一个问题，需要我将List中的数据读出来并把数据封装到Txt文件中，也能把 
+    IoC 和 DI 都是 Spring 框架中的重要概念，就像玫瑰花与爱情一样，IoC 和 DI 通常情况下... 
     </details> 
 
-- 💪 [【刷题日记】121. 买卖股票的最佳时机](https://juejin.cn/post/7129886184037187615) | Tue Aug 09 2022 2:40 PM 
+- 💪 [学习 HTTP Referer](https://juejin.cn/post/7130033583284027429) | Wed Aug 10 2022 12:12 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 本次刷题日记的第 87 篇，力扣题为：121. 买卖股票的最佳时机 一、题目描述： 今天我们来做一个简单 
+    HTTP 中 Referer 字段在工作中或许并不会吸引你的注意，隐藏在 Network 的请求之下，但是却有着非常重要的作用。平常你一定会遇到一些问题需要去排查。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
