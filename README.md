@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google的搜索AI现在能够寻找普遍共识以突出更值得信赖的结果](https://www.cnbeta.com/articles/tech/1303363.htm) | Thu Aug 11 2022 11:15 AM 
+- 🕯 [雷军：贝索斯向我道歉 称没有照顾好卓越网](https://www.cnbeta.com/articles/tech/1303383.htm) | Thu Aug 11 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你知道当你查询某条信息时，Google搜索结果页面最上方的那段高亮文字吗？这被称为&amp;quot;特色片段&amp;quot;，其目的是为你的查询提供一个快速答案。现在，Google正在通过使用其最新的人工智能模型--多任务统一模型，确保它所突出的信息是尽可能可靠和准确的，换句话说，现在搜索引擎可以智能决定特色片段显示公众共识。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月11日，2022年雷军年度演讲正式开幕，雷军回忆了创业的“心酸历程”，在谈到自己创办的卓越网时，他感触颇多。雷军表示将卓越网卖给亚马逊之后，2018年自己拜访其老总贝索斯时，&lt;strong&gt;对方第一句话就是：对不起，我没照顾好你的卓越&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [猖狂的小偷竟要求失主为被盗的iPhone解除iCloud锁定](https://www.cnbeta.com/articles/tech/1303361.htm) | Thu Aug 11 2022 10:59 AM 
+- 💼 [经典名作《福星小子》新篇动画新角色公开 10月开播](https://hot.cnbeta.com/articles/comic/1303381.htm) | Thu Aug 11 2022 11:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;即使小偷告诉你，他们对你被盗的iPhone进行了&amp;quot;逆向工程&amp;quot;或越狱，如果你不删除iCloud设备锁，就会出售你的数据，那也不要相信他们的谎言。以下是为什么你不应该这样做，以及为什么你应该对此感到安全。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;高桥留美子经典名作《福星小子》全新TV动画即将于10月开播，8月11日今天官方公布了新角色声优，鬼星冰雪女王阿雪将由将由早见沙织饰演，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1303381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [六台小卫星构成合成孔径望远镜 SunRISE将用于观测太阳射电暴](https://www.cnbeta.com/articles/science/1303359.htm) | Thu Aug 11 2022 10:59 AM 
+- 💂 [小鹏汽车辅助驾驶致死，谁之过？](https://www.cnbeta.com/articles/tech/1303379.htm) | Thu Aug 11 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;想要在太空中搭建一座 6 英里（10 公里）宽的望远镜，似乎只有在科学作品里听说过。&lt;strong&gt;然而美国宇航局（NASA）想到了一个变通方案，它就是本文要为大家介绍的 SunRISE 项目。&lt;/strong&gt;通过六个烤面包机大小的微型卫星协同工作，整套系统能够被高效地用于探测和追踪危险的爆炸性太空天气事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月10日，一名小鹏P7车主在宁波市一高架桥上与道路前方故障车辆和其车上乘客发生追尾碰撞，造成人员死伤。今天上午，事件记录视频在网上流传并迅速发酵，目前已登上今日微博热搜榜第二。根据一段疑似当事小鹏P7车主的微信聊天记录显示，他的车辆当时正处于车道保持系统的开启状态。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [16颗卫星发射一天就传来高清图 还有特殊的红外图](https://www.cnbeta.com/articles/science/1303357.htm) | Thu Aug 11 2022 10:38 AM 
+- 🚀 [国美旗下多平台裁员降薪？回应称不排除经营困难而将实施减员](https://www.cnbeta.com/articles/tech/1303377.htm) | Thu Aug 11 2022 11:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日，在太原卫星发射中心，长征六号运载火箭成功将16颗长光卫星旗下的吉林一号卫星送入太阳同步轨道，在轨数量增至70颗，新星座第一阶段建设圆满完成。其中10颗吉林一号高分03D星主要用于获取高分辨率光学遥感影像，提供遥感数据服务；6颗云遥卫星主要用于对大气层进行成像，在气象观测领域具有应用前景和价值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国美集团旗下多个平台正经历裁员风波。近日，多位国美电商平台国美真快乐电子商务有限公司（以下简称“真快乐”）的员工及前员工告诉澎湃新闻记者，公司自今年4月起开启裁员，8月以来又迎来新一轮裁员，至少为今年的第三波，而近几个月公司还存在工资拖延发放的情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国家发放1亿元观影消费券 推进更多新片大片上映](https://hot.cnbeta.com/articles/movie/1303355.htm) | Thu Aug 11 2022 10:22 AM 
+- 🎊 [中汽协陈士华：新能源车上游企业利润暴增 下游“连汤都喝不到”](https://www.cnbeta.com/articles/tech/1303375.htm) | Thu Aug 11 2022 11:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月11日，国家电影局发布开展2022年电影惠民消费季有关事项通知，以促进电影消费、加快电影市场恢复。开展时间为2022年8月至10月。主要内容包括丰富影片供给、发放1亿元观影消费券等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由于原材料价格上涨，汽车行业正面临利润下滑的问题。8月11日，在中国汽车工业协会（下称“中汽协”）信息发布会上，中汽协副秘书长陈士华表示，今年上半年，中国汽车行业利润同比降幅达到了25.5%，同期营收仅下降4%，这是很不健康的。尤其是在新能源汽车领域，上游企业利润暴增，但下游企业却“连汤都喝不到”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
