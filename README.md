@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究显示SSD二氧化碳排放量可能是HDD的两倍](https://www.cnbeta.com/articles/tech/1303431.htm) | Thu Aug 11 2022 5:09 PM 
+- 🕯 [IBM研究技术使边缘人工智能应用可以扩展](https://www.cnbeta.com/articles/tech/1303433.htm) | Thu Aug 11 2022 5:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;边缘计算是推动技术领域发展耐人寻味的话题之一。&lt;/strong&gt;试图将计算任务分布在多个地点，然后将这些不同的努力协调成一个有凝聚力的、有意义的整体，比它最初看起来要难得多。当试图将小型概念验证项目扩展到全面生产时，这一点尤其真实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [研究显示SSD二氧化碳排放量可能是HDD的两倍](https://www.cnbeta.com/articles/tech/1303431.htm) | Thu Aug 11 2022 5:09 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;一项新的研究指称，尽管固态硬盘的能源效率更高，但其造成的碳排放却明显高于HDD。&lt;/strong&gt;然而，不同的使用场景可能会改变这种情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英国一男子因用AirTag跟踪前女友而入狱](https://www.cnbeta.com/articles/tech/1303429.htm) | Thu Aug 11 2022 3:43 PM 
+- 💂 [英国一男子因用AirTag跟踪前女友而入狱](https://www.cnbeta.com/articles/tech/1303429.htm) | Thu Aug 11 2022 3:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;英国一名男子因使用苹果的AirTags追踪其前女友的汽车而被判处9周监禁。41岁的克里斯托弗-保罗-特罗曼（Christopher Paul Trotman）在2020年8月分手前，与前女友的关系被描述为&amp;quot;控制性&amp;quot;关系，且时间长达10年以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Pew:YouTube成为首选社交平台 使用Facebook的青少年人数骤减](https://www.cnbeta.com/articles/tech/1303427.htm) | Thu Aug 11 2022 3:07 PM 
+- 🚀 [Pew:YouTube成为首选社交平台 使用Facebook的青少年人数骤减](https://www.cnbeta.com/articles/tech/1303427.htm) | Thu Aug 11 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;你还记得Facebook取代MySpace成为每个人都使用的很酷的社交媒体平台的时候吗？这一幕熟悉的场景可能正在重新上演。有关于Facebook的坏消息来自皮尤研究中心的一项调查。它询问了1316名年龄在13至17岁之间的美国青少年的上网习惯，发现他们中只有32%的人使用Facebook应用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [用于新款MacBook Pro和Air的垂直支架扩展坞Brydge ProDock开始预购](https://www.cnbeta.com/articles/tech/1303425.htm) | Thu Aug 11 2022 2:54 PM 
+- 🎊 [用于新款MacBook Pro和Air的垂直支架扩展坞Brydge ProDock开始预购](https://www.cnbeta.com/articles/tech/1303425.htm) | Thu Aug 11 2022 2:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Brydge ProDock是用于MacBook Pro和M2 MacBook Air的垂直放置支架+Thunderbolt 4坞站现在可以预购，价格为399.99美元。这款新发售的的扩展坞提供10个端口，包含兼容的MagSafe充电器，可提供135W电源，可以直接给受支持的MacBook型号供电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [1小时4元？共享单车为何频频涨价？](https://www.cnbeta.com/articles/tech/1303423.htm) | Thu Aug 11 2022 2:50 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日晚间，美团单车上调了单车骑行畅骑卡的无折扣价格，这一举动引发市场的关注。美团共享单车的计价规则是起步价15分钟以内1.5元。周三23:00，美团共享单车进行了畅骑卡的无折扣卡的调价，分别将7天、30天和90天调整为15元、35元和90元，实际支付的价格要根据每个城市和用户的优惠券不同来决定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
