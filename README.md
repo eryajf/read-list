@@ -741,27 +741,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [CineAltaV 2 获得 Cine Gear Technical Awards 相机类奖项](https://www.photoworld.com.cn/post/162732) | Wed Aug 10 2022 3:26 AM 
+- 🤠 [三星发布 Galaxy Watch5 和 Galaxy Watch5 Pro](https://www.photoworld.com.cn/post/162779) | Thu Aug 11 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [FX3 和 CineAltaV 拍美剧混着用？他们做到了](https://www.photoworld.com.cn/post/162738) | Wed Aug 10 2022 3:07 AM 
+- 🎃 [多能畅享 焕新未来 | 三星发布 Galaxy Z Flip4 和 Galaxy Z Fold4](https://www.photoworld.com.cn/post/162772) | Thu Aug 11 2022 3:08 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
+
+- 👀 [CineAltaV 2 获得 Cine Gear Technical Awards 相机类奖项](https://www.photoworld.com.cn/post/162732) | Wed Aug 10 2022 3:26 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
+
+- 🤔 [FX3 和 CineAltaV 拍美剧混着用？他们做到了](https://www.photoworld.com.cn/post/162738) | Wed Aug 10 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
 - 👀 [“千锤百炼始成金”——尼康 Z 9 开发背后不为人知的故事](https://www.photoworld.com.cn/post/162711) | Tue Aug 09 2022 9:01 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
-
-- 🤔 [“一起向未来——新华社双奥主题图片展” 在北京中华世纪坛开幕](https://www.photoworld.com.cn/post/162681) | Mon Aug 08 2022 2:48 PM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
-
-- 👀 [第十届中国人像摄影十杰颁奖仪式在京举行](https://www.photoworld.com.cn/post/162641) | Mon Aug 08 2022 7:42 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
