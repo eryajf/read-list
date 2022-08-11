@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果正在打击违规分享iOS 16开发者测试版软件的网站](https://www.cnbeta.com/articles/tech/1303347.htm) | Thu Aug 11 2022 9:17 AM 
+- 🕯 [奥迪e-tron锁电 车主打官司被4S指责恶意占用司法资源](https://www.cnbeta.com/articles/tech/1303351.htm) | Thu Aug 11 2022 10:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;作为BBA中的豪华电动车，奥迪E-Tron在国内也是属于“名车”，此前有不少车主维权，奥迪E-Tron电机故障，无奈之下，奥迪方面发起召回。不过，该车的质量可靠性，依然有车主质疑。8月11日消息，&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s?__biz=MzkzNjI2ODExOQ==&amp;mid=2247493906&amp;idx=1&amp;sn=73130d63cf8dfedda097a11df62ead81&amp;chksm=c2a3f12af5d4783ca004df22fd999e0aad3d570c15f7f442b0cc0c3f25d490df65b5c05d5d9e&amp;mpshare=1&amp;scene=23&amp;srcid=0811Isyx2Lkk3iSJXj5OZ3rO&amp;sharer_sharetime=1660188897891&amp;sharer_shareid=07bd9bf8c4b077eec063cdec5f9279b4#rd&quot; target=&quot;_blank&quot;&gt;“电动汽车用户联盟”&lt;/a&gt;消息，河北保定的田律师，因为95度的大电池，在去年9月份购买了一台50万的奥迪etron sportback。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [英特尔押注OneAPI 欲为Arc游戏和专业GPU提供多卡交火支持](https://www.cnbeta.com/articles/tech/1303349.htm) | Thu Aug 11 2022 9:42 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;多年前，AMD 和 NVIDIA 不约而同地放弃了为旗下消费级显卡提供任何类型的交火支持。&lt;strong&gt;尽管这项技术仍在服务器和 HPC 领域发光发热，但它已一路淡出普通游戏玩家的视线。&lt;/strong&gt;究其原因，主要还是多 GPU API 在游戏中提供的可扩展性和价值较差，且引擎开发者也必须为这部分小众群体付出额外多的时间和精力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果正在打击违规分享iOS 16开发者测试版软件的网站](https://www.cnbeta.com/articles/tech/1303347.htm) | Thu Aug 11 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在今年 6 月的 WWDC 2022 全球开发者大会期间，苹果面向 Apple Developer 社区成员放出了 iOS 16 和其它新软件的开发者测试版本。&lt;strong&gt;尽管官方表示 Beta 测试用户要等到 7 月才能试用 iOS 16，但一些网站还是分享了特殊的安装方式。&lt;/strong&gt;然而最新消息称，苹果正在对这些分享网站重拳出击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [快手自研芯片进入流片阶段，规模化落地仍需时日](https://www.cnbeta.com/articles/tech/1303345.htm) | Thu Aug 11 2022 9:06 AM 
+- 🚀 [快手自研芯片进入流片阶段，规模化落地仍需时日](https://www.cnbeta.com/articles/tech/1303345.htm) | Thu Aug 11 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;快手近日推出自研SoC芯片SL200，目前已进入内测阶段。这一芯片是快手加强云端智能视频处理能力的重要一步。&lt;/strong&gt;采访中，快手高级副总裁、Streamlake业务负责人于冰对第一财经记者表示，StreamLake是一个快手独立业务部门，跟主业务既有关联，又是比较独立的面向B端做技术赋能的To B业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Google Images网站现可使用Google Lens进行搜索](https://www.cnbeta.com/articles/tech/1303343.htm) | Thu Aug 11 2022 9:01 AM 
+- 🎊 [Google Images网站现可使用Google Lens进行搜索](https://www.cnbeta.com/articles/tech/1303343.htm) | Thu Aug 11 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;在Android和Chrome浏览器中整合之后，Google Lens现在是桌面Google Images搜索网站上的主要视觉搜索体验。&lt;/strong&gt;在桌面网页上访问images.google.com现在会在语音和常规搜索之间显示Google Lens。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Google为Pixel举办壁纸比赛 获胜者免费得一台Pixel 6](https://www.cnbeta.com/articles/tech/1303341.htm) | Thu Aug 11 2022 9:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Google 正在举办一场壁纸比赛，获胜者将免费获得一台 Pixel 6。&lt;/strong&gt;不过本次活动仅限于澳大利亚、加拿大（不包括魁北克）、日本、中国台湾、英国和美国，需要为 Pixel 6 系列或者后续型号来创建壁纸。也就是说，背景必须包含 Pixel 6、6 Pro 和 6a 以及未来的 Pixel 7 和 7 Pro 上的居中前置摄像头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [谷歌工程师通过优化信息内容片段而提升搜索结果质量](https://www.cnbeta.com/articles/tech/1303339.htm) | Thu Aug 11 2022 8:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在周四的一篇博客文章中，&lt;strong&gt;谷歌研究员兼搜索副总裁 Pandu Nayak，谈到了该团队如何帮助用户找到更高质量信息的新方法。&lt;/strong&gt;据悉， 尽管 Google 搜索本意通过特色信息片段（Featured Snippets）来增强用户体验，但它也会在有些时候帮倒忙 —— 比如助长虚假信息在搜索文本框下的传播。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
