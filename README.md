@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Omni Recover 3.3.9 iPhone数据恢复软件](https://xclient.info/s/omni-recover.html) | Tue Aug 09 2022 3:11 AM 
+- 🦏 [Allavsoft Video Downloader Converter 3.25.0.8257 视频下载工具](https://xclient.info/s/allavsoft-video-downloader-converter.html) | Thu Aug 11 2022 2:44 AM 
     <details><summary>展开描述 ...</summary> 
-    Omni Recover是一款恢复iPhone数据恢复最好的软件。它可以与您所有的苹果设备，iOS和iTunes版本无缝地配合使用。 
+    Allavsoft Video Downloader Converter 是一款运行在macOS平台上的视频下载软件，支持任何视频文件格式的转换，支持在任何移动设备上脱机播放下载的视频。 
     </details> 
 
--  [Feeder 4.3.9 创建和发布RSS](https://xclient.info/s/feeder.html) | Tue Aug 09 2022 3:10 AM 
+-  [Capture One 22 Pro 15.3.2.11  一款专业的RAW文件转换器和图像编辑软件](https://xclient.info/s/capture-one-pro.html) | Thu Aug 11 2022 2:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
+    CAPTURE ONE PRO 是一款专业的RAW文件转换器和图像编辑软件，拥有核心运算技术,作为拍摄支持软件系统后期处理的核心。是独立的相片编辑软件，可以转换数码相机所拍摄出来的RAW图像格式以及提代相片的处理流程，它是代表RAW工作流程软件的新世纪, 同时也代表了一个RAW转换变程的新处理方法。 
     </details> 
 
-- ⚗️ [Filmage Screen 1.4.5 屏幕录制及视频编辑](https://xclient.info/s/filmage-screen.html) | Tue Aug 09 2022 3:10 AM 
+- ⚗️ [Camtasia 2022.1.0 CR2 强大且易用的视频录制和剪辑软件](https://xclient.info/s/camtasia.html) | Thu Aug 11 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Filmage Screen 是一款专业屏幕录制和视频编辑应用，集最好的屏幕录制，专业的视频编辑，快速的视频格式转换于一体，是处理视频的一站式解决方案。 
+    Camtasia Studio是一套专业的屏幕录像软件，同时包含Camtasia 录像器、Camtasia Studio（编辑器）、Camtasia 菜单制作器、Camtasia 剧场、Camtasia 播放器和Screencast的内置功能。 
     </details> 
 
-- 🔥 [Infuse Pro 7.4.3 全能视频播放器](https://xclient.info/s/infuse-pro.html) | Tue Aug 09 2022 3:09 AM 
+- 🔥 [Compressor 4.6.2 苹果官方出品视频解码格式转换工具](https://xclient.info/s/compressor.html) | Thu Aug 11 2022 2:36 AM 
     <details><summary>展开描述 ...</summary> 
-    Infuse Pro 是一款强大的 Mac 视频播放器。它可以一口通吃您所有的视频文件，把您从繁琐的视频转换中解放出来，用极美的方式在您的 Mac 上观赏几乎所有视频的格式。 
+    Compressor 为 Final Cut Pro X 导出增添了功能和灵活性。自定了输出设置，采用分布式编码，工作更快，同时接进了一套全面的传送功能。 
     </details> 
 
-- 🌋 [Scrutiny 12.3.17 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Mon Aug 08 2022 4:47 AM 
+- 🌋 [Wondershare UniConverter 14.1.0.12 视频编辑转换工具](https://xclient.info/s/wondershare-uniconverter.html) | Thu Aug 11 2022 2:35 AM 
     <details><summary>展开描述 ...</summary> 
-    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
+    Wondershare UniConverter 是一款功能强大的视频编辑工具，集视频下载，转换，剪辑，刻录等多功能于一体，能够帮助用户轻松进行视频处理。 
     </details> 
 <!-- xclient:END -->
 
