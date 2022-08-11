@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [FundamentalVR融资2000万美元 帮助外科医生练习手术技能](https://www.cnbeta.com/articles/tech/1303399.htm) | Thu Aug 11 2022 1:24 PM 
+- 🕯 [受益于通胀降温 苹果公司股价7月重抬升势](https://www.cnbeta.com/articles/tech/1303411.htm) | Thu Aug 11 2022 2:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;FundamentalVR是一个用于医疗和保健专业的沉浸式模拟平台，在一轮融资中筹集了2000万美元，&lt;strong&gt;以通过虚拟现实（VR）和混合现实（MR）应用加速技能和手术熟练度。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-align: left;&quot;&gt;当地时间8月10日，据彭博社报道，由于7月美国消费者物价指数显示增长速度较前一个月有所下降后，投资者纷纷回购股票，押注美联储可能会缩减未来加息的幅度。受此影响，苹果股价涨幅达2.4%，每股升至168.83美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Redmi K50至尊版发布：首发1.5K直屏 一亿像素OIS相机 售价2999元](https://www.cnbeta.com/articles/tech/1303397.htm) | Thu Aug 11 2022 1:07 PM 
+- 💼 [Telegram CEO抱怨苹果App Store无故拖延更新](https://www.cnbeta.com/articles/tech/1303409.htm) | Thu Aug 11 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月11日晚，Redmi K50至尊版正式发布，骁龙8+、1.5K旗舰直屏、120W快充等顶级配置拉满，售价2999元起。&lt;/strong&gt;作为K50宇宙阵容最重要的一款产品，K50至尊版采用了全新设计，机身背部玻璃材质采用AG磨砂工艺，与精致闪亮的金属Deco形成质感对冲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Telegram首席执行官帕威尔·杜罗夫称，苹果公司一直在拖延该应用的App Store更新，该更新将&amp;quot;彻底改变人们在信息传递中的表达方式&amp;quot;。杜罗夫在周四的Telegram消息中说，即将到来的更新已经在苹果的审查过程中停留了两个星期，而苹果方面没有对这一拖延作出任何解释。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303409.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [小米平板5 Pro 12.4 大屏生产力2999元起](https://www.cnbeta.com/articles/tech/1303395.htm) | Thu Aug 11 2022 1:03 PM 
+- 💂 [抢先特斯拉 雷军发布小米全尺寸人形仿生机器人“铁大”](https://www.cnbeta.com/articles/tech/1303407.htm) | Thu Aug 11 2022 2:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今晚的发布会上，小米带来了一大堆新品，其中小米平板5 Pro 12.4是一款大屏生产力平板电脑，屏幕从之前的11英寸提升到12.4英寸，并配备了更大的10000mAh电池及67W快充，还有优化的MIUI系统，生产力对标苹果iPad Pro这样的平板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;赶在马斯克前（之前已经多次表示9月份特斯拉也要推出这个产品），雷军今晚带来了小米全新的产品--仿生机器人，真的是酷炫十足。&lt;/strong&gt;小米首款全尺寸人形仿生机器人CyberOne看点不少，内部昵称“铁大”，身高177厘米，体重52公斤，可对真实世界三维虛拟重建（自研Mi-Sense深度视觉模组，结合AI算法，提供完整的三维空间感知能力，看得到也看得懂），“小脑”发达、可实现双足运动姿态平衡，四肢强健、动力峰值扭矩300Nm等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [消息称苹果MacBook订单“三分天下” 闻泰科技负责MacBook Air](https://www.cnbeta.com/articles/tech/1303393.htm) | Thu Aug 11 2022 1:01 PM 
+- 🚀 [损失超1440万 熊猫代工坑惨乐视超级电视](https://www.cnbeta.com/articles/tech/1303405.htm) | Thu Aug 11 2022 2:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期多家媒体援引Digitimes的一份报告称苹果预计将 MacBook的生产扩展到中国大陆的多个地点。其中，约生产苹果MacBook Pro 60%订单的广达将把部分生产线从上海转移到中国西部的重庆，剩下的40% MacBook Pro订单由富士康在其位于中国西部的成都工厂生产，而MacBook Air将逐渐转移到闻泰科技位于中国西南的昆明工厂生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月10日，乐视超级电视突然向代工厂南京中电熊猫家电有限公司“发难”，指责其制造的43、F43、F55型号电视频频出现屏幕横线、竖线、漏液等问题，&lt;a class=&quot;f14_link&quot; href=&quot;https://news.mydrivers.com/1/851/851592.htm&quot; target=&quot;_blank&quot;&gt;故障率最高达20％&lt;/a&gt;，但不仅没有改善生产质量，还拒绝支付相关售后费用，甚至工厂即将关闭都未通知乐视。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [饶毅戳破了华大基因的圈钱谎言？起底暴利益生菌](https://www.cnbeta.com/articles/tech/1303391.htm) | Thu Aug 11 2022 12:57 PM 
+- 🎊 [雷军：小米汽车100％自研自动驾驶 先砸它33个亿](https://www.cnbeta.com/articles/tech/1303403.htm) | Thu Aug 11 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;从“承包这一届年轻人的肠胃”到被质疑“最新收割消费者智商税代表”，益生菌产业再一次被推到风口浪尖。7月26日，首都医科大学校长饶毅在其个人公众号“饶议科学”发文《太厉害的忽悠会忽悠自己：因为太逼真了》，质疑华大集团CEO、华大基因副董事长尹烨推广的益生菌是假药。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;年度演讲&amp;amp;新品发布会行将结束之际，雷军带来了One More Thing——小米造车最新进展！&lt;strong&gt;从小米官宣进入电动汽车开始，已经过去了整整500天。&lt;/strong&gt;雷军表示期间学到了很多，也认识到造车急不得，希望大家耐心给予小米一点时间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
