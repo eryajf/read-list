@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [雷军：贝索斯向我道歉 称没有照顾好卓越网](https://www.cnbeta.com/articles/tech/1303383.htm) | Thu Aug 11 2022 12:29 PM 
+- 🕯 [FundamentalVR融资2000万美元 帮助外科医生练习手术技能](https://www.cnbeta.com/articles/tech/1303399.htm) | Thu Aug 11 2022 1:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月11日，2022年雷军年度演讲正式开幕，雷军回忆了创业的“心酸历程”，在谈到自己创办的卓越网时，他感触颇多。雷军表示将卓越网卖给亚马逊之后，2018年自己拜访其老总贝索斯时，&lt;strong&gt;对方第一句话就是：对不起，我没照顾好你的卓越&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;FundamentalVR是一个用于医疗和保健专业的沉浸式模拟平台，在一轮融资中筹集了2000万美元，&lt;strong&gt;以通过虚拟现实（VR）和混合现实（MR）应用加速技能和手术熟练度。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [经典名作《福星小子》新篇动画新角色公开 10月开播](https://hot.cnbeta.com/articles/comic/1303381.htm) | Thu Aug 11 2022 11:55 AM 
+- 💼 [Redmi K50至尊版发布：首发1.5K直屏 一亿像素OIS相机 售价2999元](https://www.cnbeta.com/articles/tech/1303397.htm) | Thu Aug 11 2022 1:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;高桥留美子经典名作《福星小子》全新TV动画即将于10月开播，8月11日今天官方公布了新角色声优，鬼星冰雪女王阿雪将由将由早见沙织饰演，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1303381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月11日晚，Redmi K50至尊版正式发布，骁龙8+、1.5K旗舰直屏、120W快充等顶级配置拉满，售价2999元起。&lt;/strong&gt;作为K50宇宙阵容最重要的一款产品，K50至尊版采用了全新设计，机身背部玻璃材质采用AG磨砂工艺，与精致闪亮的金属Deco形成质感对冲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [小鹏汽车辅助驾驶致死，谁之过？](https://www.cnbeta.com/articles/tech/1303379.htm) | Thu Aug 11 2022 11:53 AM 
+- 💂 [小米平板5 Pro 12.4 大屏生产力2999元起](https://www.cnbeta.com/articles/tech/1303395.htm) | Thu Aug 11 2022 1:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日，一名小鹏P7车主在宁波市一高架桥上与道路前方故障车辆和其车上乘客发生追尾碰撞，造成人员死伤。今天上午，事件记录视频在网上流传并迅速发酵，目前已登上今日微博热搜榜第二。根据一段疑似当事小鹏P7车主的微信聊天记录显示，他的车辆当时正处于车道保持系统的开启状态。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今晚的发布会上，小米带来了一大堆新品，其中小米平板5 Pro 12.4是一款大屏生产力平板电脑，屏幕从之前的11英寸提升到12.4英寸，并配备了更大的10000mAh电池及67W快充，还有优化的MIUI系统，生产力对标苹果iPad Pro这样的平板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [国美旗下多平台裁员降薪？回应称不排除经营困难而将实施减员](https://www.cnbeta.com/articles/tech/1303377.htm) | Thu Aug 11 2022 11:48 AM 
+- 🚀 [消息称苹果MacBook订单“三分天下” 闻泰科技负责MacBook Air](https://www.cnbeta.com/articles/tech/1303393.htm) | Thu Aug 11 2022 1:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国美集团旗下多个平台正经历裁员风波。近日，多位国美电商平台国美真快乐电子商务有限公司（以下简称“真快乐”）的员工及前员工告诉澎湃新闻记者，公司自今年4月起开启裁员，8月以来又迎来新一轮裁员，至少为今年的第三波，而近几个月公司还存在工资拖延发放的情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近期多家媒体援引Digitimes的一份报告称苹果预计将 MacBook的生产扩展到中国大陆的多个地点。其中，约生产苹果MacBook Pro 60%订单的广达将把部分生产线从上海转移到中国西部的重庆，剩下的40% MacBook Pro订单由富士康在其位于中国西部的成都工厂生产，而MacBook Air将逐渐转移到闻泰科技位于中国西南的昆明工厂生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中汽协陈士华：新能源车上游企业利润暴增 下游“连汤都喝不到”](https://www.cnbeta.com/articles/tech/1303375.htm) | Thu Aug 11 2022 11:48 AM 
+- 🎊 [饶毅戳破了华大基因的圈钱谎言？起底暴利益生菌](https://www.cnbeta.com/articles/tech/1303391.htm) | Thu Aug 11 2022 12:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于原材料价格上涨，汽车行业正面临利润下滑的问题。8月11日，在中国汽车工业协会（下称“中汽协”）信息发布会上，中汽协副秘书长陈士华表示，今年上半年，中国汽车行业利润同比降幅达到了25.5%，同期营收仅下降4%，这是很不健康的。尤其是在新能源汽车领域，上游企业利润暴增，但下游企业却“连汤都喝不到”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;从“承包这一届年轻人的肠胃”到被质疑“最新收割消费者智商税代表”，益生菌产业再一次被推到风口浪尖。7月26日，首都医科大学校长饶毅在其个人公众号“饶议科学”发文《太厉害的忽悠会忽悠自己：因为太逼真了》，质疑华大集团CEO、华大基因副董事长尹烨推广的益生菌是假药。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
