@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [IBM研究技术使边缘人工智能应用可以扩展](https://www.cnbeta.com/articles/tech/1303433.htm) | Thu Aug 11 2022 5:25 PM 
+- 🕯 [显卡出货量将暴跌最多50％ NVIDIA终于吞下苦果](https://www.cnbeta.com/articles/tech/1303449.htm) | Thu Aug 11 2022 6:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;边缘计算是推动技术领域发展耐人寻味的话题之一。&lt;/strong&gt;试图将计算任务分布在多个地点，然后将这些不同的努力协调成一个有凝聚力的、有意义的整体，比它最初看起来要难得多。当试图将小型概念验证项目扩展到全面生产时，这一点尤其真实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;曾经多快乐，如今就多痛苦。NVIDIA之前在挖矿、矿卡上赚得盆钵满钵，现在遭到了无情的反噬。RTX 40系列即将发布之际，NVIDIA、AIC品牌正在焦头烂额地清理RTX 30系列的库存，但还有更糟糕的消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究显示SSD二氧化碳排放量可能是HDD的两倍](https://www.cnbeta.com/articles/tech/1303431.htm) | Thu Aug 11 2022 5:09 PM 
+- 💼 [被病毒勒索千万美元？美的回应：传闻系谣言 业务系统未受影响](https://www.cnbeta.com/articles/tech/1303447.htm) | Thu Aug 11 2022 6:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一项新的研究指称，尽管固态硬盘的能源效率更高，但其造成的碳排放却明显高于HDD。&lt;/strong&gt;然而，不同的使用场景可能会改变这种情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月11日晚间，@美的集团 官微就“美的受黑客攻击并勒索千万美元”的传闻进行回应。美的集团表示，网传美的遭受病毒勒索系谣言，2022年8月11日，&lt;strong&gt;美的集团遭受新型网络病毒攻击，少数员工电脑受到感染，公司各业务系统未受影响，经营正常进行，也没有收到勒索信息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英国一男子因用AirTag跟踪前女友而入狱](https://www.cnbeta.com/articles/tech/1303429.htm) | Thu Aug 11 2022 3:43 PM 
+- 💂 [江浙皖川渝等地气温可超40℃ 杭州连续30天高温将破纪录](https://www.cnbeta.com/articles/tech/1303445.htm) | Thu Aug 11 2022 6:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英国一名男子因使用苹果的AirTags追踪其前女友的汽车而被判处9周监禁。41岁的克里斯托弗-保罗-特罗曼（Christopher Paul Trotman）在2020年8月分手前，与前女友的关系被描述为&amp;quot;控制性&amp;quot;关系，且时间长达10年以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月11日18时，中央气象台继续发布高温橙色预警：预计8月12日白天，新疆南疆盆地东部、内蒙古西部、陕西中南部、河南、安徽、江苏、上海、四川中东部、重庆、湖北、湖南、江西、浙江、福建、贵州北部等地有35～39℃高温天气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Pew:YouTube成为首选社交平台 使用Facebook的青少年人数骤减](https://www.cnbeta.com/articles/tech/1303427.htm) | Thu Aug 11 2022 3:07 PM 
+- 🚀 [仅发布两款机型的雷蛇退出手机市场 安卓主题商店本月关闭](https://www.cnbeta.com/articles/tech/1303443.htm) | Thu Aug 11 2022 6:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你还记得Facebook取代MySpace成为每个人都使用的很酷的社交媒体平台的时候吗？这一幕熟悉的场景可能正在重新上演。有关于Facebook的坏消息来自皮尤研究中心的一项调查。它询问了1316名年龄在13至17岁之间的美国青少年的上网习惯，发现他们中只有32%的人使用Facebook应用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月12日消息，据9to5Google报道，&lt;strong&gt;雷蛇宣布Razer Phone系列上内置的安卓主题商店将于2022年8月24日关闭。&lt;/strong&gt;关闭后，Razer Phone仅保留当前使用的主题，不能下载和更换，这意味着雷蛇手机就此终结。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [用于新款MacBook Pro和Air的垂直支架扩展坞Brydge ProDock开始预购](https://www.cnbeta.com/articles/tech/1303425.htm) | Thu Aug 11 2022 2:54 PM 
+- 🎊 [美国FTC考虑出台新规 打击企业收集消费者信息](https://www.cnbeta.com/articles/tech/1303441.htm) | Thu Aug 11 2022 6:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Brydge ProDock是用于MacBook Pro和M2 MacBook Air的垂直放置支架+Thunderbolt 4坞站现在可以预购，价格为399.99美元。这款新发售的的扩展坞提供10个端口，包含兼容的MagSafe充电器，可提供135W电源，可以直接给受支持的MacBook型号供电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国联邦贸易委员会 （FTC） 周四表示，该机构正考虑出台新规以禁止有害的商业监视和数据安全松懈，并称消费者经常在不知情的情况下放弃他们的个人信息。&lt;/strong&gt;FTC主席Lina Khan称：“企业现在大规模地收集个人的个人数据，并在一系列令人震惊的情况下进行。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
