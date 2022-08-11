@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [夏天越来越热 佛罗里达州过去四年孵化的海龟恐怕全是雌性](http://jandan.net/p/111115) | Thu Aug 11 2022 10:25 AM 
+- 🚀 [薛定谔建立的人眼感知色差的数学模型，是错的](http://jandan.net/p/111123) | Thu Aug 11 2022 3:45 PM 
+    <details><summary>展开描述 ...</summary> 
+    这一模型被科学家和工业界使用了100多年，用于纺织印刷，显示器设计等 
+    </details> 
+
+- 🙉 [夏天越来越热 佛罗里达州过去四年孵化的海龟恐怕全是雌性](http://jandan.net/p/111115) | Thu Aug 11 2022 10:25 AM 
     <details><summary>展开描述 ...</summary> 
     埋有卵的沙子温度会影响海龟的性别。 
     </details> 
 
-- 🙉 [发霉啦：今天，我和男朋友一起骑山地车时摔断了脚踝](http://jandan.net/p/111125) | Thu Aug 11 2022 6:42 AM 
+- 🎉 [发霉啦：今天，我和男朋友一起骑山地车时摔断了脚踝](http://jandan.net/p/111125) | Thu Aug 11 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
     今天不是周五啊？FML 
     </details> 
 
-- 🎉 [罕见病例 生长在喉咙里的真菌](http://jandan.net/p/111094) | Thu Aug 11 2022 3:11 AM 
+- 🐲 [罕见病例 生长在喉咙里的真菌](http://jandan.net/p/111094) | Thu Aug 11 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     zsbd 
     </details> 
 
-- 🐲 [今日好价 0811](http://jandan.net/p/111124) | Thu Aug 11 2022 2:11 AM 
+-  [今日好价 0811](http://jandan.net/p/111124) | Thu Aug 11 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
-    </details> 
-
--  [哪怕是轮回宇宙，也需要一个起始点](http://jandan.net/p/111113) | Wed Aug 10 2022 3:57 PM 
-    <details><summary>展开描述 ...</summary> 
-    不适用于物理学家罗杰·彭罗斯的共形循环宇宙模型 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
