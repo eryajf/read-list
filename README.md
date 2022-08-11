@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Notion Small Business Kit - 使用 Notion 启动和管理您的小型企业](https://xinquji.com/posts/178640?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:42 AM 
+- 👀 [SavvyCal Meeting Polls - 100% 无广告组调度](https://xinquji.com/posts/178662?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 Notion 启动和管理您的小型企业  
+     100% 无广告组调度  
     </details> 
 
-- 🥷 [Svix - 企业就绪的 webhook 发送服务](https://xinquji.com/posts/178639?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:40 AM 
+- 🥷 [UXPin and NPM Integration - 构建您的开发人员会喜欢的交互式原型](https://xinquji.com/posts/178661?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     企业就绪的 webhook 发送服务  
+     构建您的开发人员会喜欢的交互式原型  
     </details> 
 
-- 💼 [Buy Geek Stuff - 网络上的精选列表很酷的小工具和极客项目](https://xinquji.com/posts/178638?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:40 AM 
+- 💼 [XoForms by Xobin - 视频首次求职管理平台](https://xinquji.com/posts/178660?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     网络上的精选列表很酷的小工具和极客项目  
+     视频首次求职管理平台  
     </details> 
 
-- 🦅 [pro - 在浏览器中快速打开当前 PR 的单个命令](https://xinquji.com/posts/178637?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:38 AM 
+- 🦅 [Pinxo 3D - 150+ 3D 令人惊叹的物体形状的集合](https://xinquji.com/posts/178659?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     在浏览器中快速打开当前 PR 的单个命令  
+     150+ 3D 令人惊叹的物体形状的集合  
     </details> 
 
-- 😺 [Meet Jules - 完全抵消您的碳足迹](https://xinquji.com/posts/178636?utm_campaign=xinquji-rss) | Thu Aug 11 2022 6:37 AM 
+- 😺 [RyterAI - 面向小型企业和自由职业者的 AI 文案](https://xinquji.com/posts/178658?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     完全抵消您的碳足迹  
+     面向小型企业和自由职业者的 AI 文案  
     </details> 
 <!-- xinquji:END -->
