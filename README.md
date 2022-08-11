@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Pew:YouTube成为首选社交平台 使用Facebook的青少年人数骤减](https://www.cnbeta.com/articles/tech/1303427.htm) | Thu Aug 11 2022 3:07 PM 
+- 🕯 [英国一男子因用AirTag跟踪前女友而入狱](https://www.cnbeta.com/articles/tech/1303429.htm) | Thu Aug 11 2022 3:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;英国一名男子因使用苹果的AirTags追踪其前女友的汽车而被判处9周监禁。41岁的克里斯托弗-保罗-特罗曼（Christopher Paul Trotman）在2020年8月分手前，与前女友的关系被描述为&amp;quot;控制性&amp;quot;关系，且时间长达10年以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Pew:YouTube成为首选社交平台 使用Facebook的青少年人数骤减](https://www.cnbeta.com/articles/tech/1303427.htm) | Thu Aug 11 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;你还记得Facebook取代MySpace成为每个人都使用的很酷的社交媒体平台的时候吗？这一幕熟悉的场景可能正在重新上演。有关于Facebook的坏消息来自皮尤研究中心的一项调查。它询问了1316名年龄在13至17岁之间的美国青少年的上网习惯，发现他们中只有32%的人使用Facebook应用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [用于新款MacBook Pro和Air的垂直支架扩展坞Brydge ProDock开始预购](https://www.cnbeta.com/articles/tech/1303425.htm) | Thu Aug 11 2022 2:54 PM 
+- 💂 [用于新款MacBook Pro和Air的垂直支架扩展坞Brydge ProDock开始预购](https://www.cnbeta.com/articles/tech/1303425.htm) | Thu Aug 11 2022 2:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Brydge ProDock是用于MacBook Pro和M2 MacBook Air的垂直放置支架+Thunderbolt 4坞站现在可以预购，价格为399.99美元。这款新发售的的扩展坞提供10个端口，包含兼容的MagSafe充电器，可提供135W电源，可以直接给受支持的MacBook型号供电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [1小时4元？共享单车为何频频涨价？](https://www.cnbeta.com/articles/tech/1303423.htm) | Thu Aug 11 2022 2:50 PM 
+- 🚀 [1小时4元？共享单车为何频频涨价？](https://www.cnbeta.com/articles/tech/1303423.htm) | Thu Aug 11 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月10日晚间，美团单车上调了单车骑行畅骑卡的无折扣价格，这一举动引发市场的关注。美团共享单车的计价规则是起步价15分钟以内1.5元。周三23:00，美团共享单车进行了畅骑卡的无折扣卡的调价，分别将7天、30天和90天调整为15元、35元和90元，实际支付的价格要根据每个城市和用户的优惠券不同来决定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《瑞克和莫蒂》第六季宣传片 9月4日正式播映](https://hot.cnbeta.com/articles/comic/1303421.htm) | Thu Aug 11 2022 2:34 PM 
+- 🎊 [《瑞克和莫蒂》第六季宣传片 9月4日正式播映](https://hot.cnbeta.com/articles/comic/1303421.htm) | Thu Aug 11 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《瑞克和莫蒂》第六季公开一段宣传动画，该片预计在9月9月4日正式播映，敬请期待！《瑞克和莫蒂》是由Justin Roiland和Dan Harmon为卡通网络深夜节目Adult Swim创作的美国成人动画科幻情景喜剧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1303421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [2022年雷军度演讲全文：穿越人生低谷的感悟](https://www.cnbeta.com/articles/tech/1303419.htm) | Thu Aug 11 2022 2:33 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天晚上，我进行了我的第三场年度演讲，用了大约3个小时，和大家分享了在我创办小米之前，人生中多次经历的挫折与迷茫，以及穿越低谷过程中的一些感悟。2010年，我创办了小米公司。这12年里，同样经历了无数的困难，今天，12周岁的小米，依然会和大家一起，始终保持对这个世界的热爱。&lt;strong&gt;人生很长，无论如何，让我们保持信念，永远相信美好的事情即将发生。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
