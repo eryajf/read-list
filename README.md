@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [回到本真，代码到底是什么？](https://juejin.cn/post/7130425141699280926) | Thu Aug 11 2022 1:31 AM 
+- 🤗 [小册上新｜基于 Vite 的组件库工程化实战](https://juejin.cn/post/7130451506800623630) | Thu Aug 11 2022 3:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果你想弄懂什么东西，就最好自己亲手造一个，最好的轮子应该就是组件库了，组件库的搭建过程，就是一个完美的工程化实践。 
+    </details> 
+
+- 🎡 [2022年中总结征文大赛中奖公示来啦](https://juejin.cn/post/7130450621936697380) | Thu Aug 11 2022 3:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    年中总结中奖公示来啦~时间长如光年悄然流逝于眼角、指尖；重如泰山承载疫情暖心瞬间铭刻于心；2022已过半旬，回头盘点过去的半年，年初的Flag🚩实现了哪些？有哪些遗憾？后半年目标如何，如何为之付出努 
+    </details> 
+
+- 🕯 [Node.js 网络编程之 TCP](https://juejin.cn/post/7130431011946496013) | Thu Aug 11 2022 1:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们常与网络打交道，但对于网络协议往往一知半解，遇到相关问题时常常茫然不知所措；为此，从本文开始笔者将为大家带来 Node.js 网络编程系列，希望能够通过理论到实践的方式让大家真正掌握网络编程。 
+    </details> 
+
+- 🚀 [Vue 2 阅读理解（二）之 Compile 模板编译](https://juejin.cn/post/7130426939541553182) | Thu Aug 11 2022 1:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 template compile 模板解析 在 runtime-with-compiler.ts 中， 
+    </details> 
+
+- 💪 [回到本真，代码到底是什么？](https://juejin.cn/post/7130425141699280926) | Thu Aug 11 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
     代码即文本 我们写的「代码」只是个普通的文本文件，因为编译器等方式得以转化为二进制代码。代码文本从最早期的「二进制代码」演化到现在百花齐放的「编程语言代码」，粗略演化路线： 二进制代码：初期二进制代码 
-    </details> 
-
-- 🎡 [Open Office XML 格式中的 Style 设计原理](https://juejin.cn/post/7130425075622215710) | Thu Aug 11 2022 1:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 Microsoft Word 中有一个专门用于样式的完整工具栏：正常、无间距、标题 1、标题 2、标题等 
-    </details> 
-
-- 🕯 [回到本真，梦回计算机发展史](https://juejin.cn/post/7130424870101319716) | Thu Aug 11 2022 1:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 关于之前「Go语言的内存管理实现」这部分，本来接下来是要给大家继续讲解「Go语言堆内存、栈内存分配」的，以及这部分之前图都画完了。但是呢，写文章的时候，写着写着发现写不下去了，为什么？ 我发现想 
-    </details> 
-
-- 🚀 [Android开发小技巧-屏幕常亮与高亮的管理](https://juejin.cn/post/7130424225147387935) | Thu Aug 11 2022 1:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    在使用我们国民应用微信和支付宝的时候，打开付款码给别人扫码的时候，那个页面简直亮瞎我的眼，做为一个Android开发者，我就想这个功能是怎么实现的呢? 
-    </details> 
-
-- 💪 [十分钟了解一下MySql锁机制](https://juejin.cn/post/7130423416607375373) | Thu Aug 11 2022 1:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    MySql锁的概念 在MySql中有很多不同种类的锁 从操作粒度来说有 表锁，行锁，页锁 表级锁：每次操作锁住整张表。锁定粒度大，发生锁冲突的概率最高，并发度最低。应用在MyISAM、InnoDB、B 
     </details> 
 <!-- juejin:END -->
 ### 少数派
