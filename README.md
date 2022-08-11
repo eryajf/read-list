@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《使命召唤15：黑色行动4》更多被取消的战役情报泄露](https://hot.cnbeta.com/articles/game/1303279.htm) | Thu Aug 11 2022 7:17 AM 
+- 🕯 [Pinata获得1800万美元A轮融资 专注发展NFT媒体基础设施](https://www.cnbeta.com/articles/tech/1303321.htm) | Thu Aug 11 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在《使命召唤：黑色行动 4》发布近四年后，有关该游戏已被取消的战役的新报道细节被披露，包括其剧情、任务设计等。&lt;/strong&gt;目前官方并未证实这些细节，因此无法证明这些报道的真实性。Reddit 用户 Purpletoaster20 分享了这些泄露，他解释称这些内容是经过数月的研究和“与了解（战役）模式的人讨论”的结果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Pinata 联合创始人兼 CEO Kyle Tut 在接受外媒采访时称，&lt;strong&gt;在 2021 年拿到了 350 万美元的种子轮融资后，这家成立已有四年的初创企业，最近又完成了 1800 万美元的 A 轮融资。&lt;/strong&gt;前者由 Greylock 和 Offline Ventures 共同领投，A 轮则是 Greylock 和 Pantera，其它投资者包括 Volt Capital、OpenSea、以及 Alchemy 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [显卡出货量或下跌50%，厂商为漫长的冬天做准备](https://www.cnbeta.com/articles/tech/1303277.htm) | Thu Aug 11 2022 7:16 AM 
+- 💼 [FydeOS V15上线 优化系统引导体验并支持直接解压缩打包文件](https://www.cnbeta.com/articles/soft/1303319.htm) | Thu Aug 11 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔、AMD和英伟达都修改了今年的目标出货量和预期收入，其中英特尔和英伟达都有较大幅度的下调。&lt;strong&gt;随着加密货币崩盘，显卡出货量可能会下跌50%，预计不少关联厂商会被波及，现在开始需要为漫长的冬天做准备。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;感谢&lt;a href=&quot;https://www.fydeos.com&quot; target=&quot;_blank&quot;&gt;FydeOS&lt;/a&gt;的投递&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;这次 FydeOS v15 着实让大家久等了！在这一次里程碑更新中，最值得一提的有：Chromium 浏览器升级至 102.0.5005.*；Chromium OS 平台更新到了 14695.91.15.*。同步了上游所有关于浏览器和操作系统平台的新特性。这其中可以明显察觉到的有：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1303319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [moto razr 2022正式发布 5999元起开启折叠屏主力机时代](https://www.cnbeta.com/articles/tech/1303275.htm) | Thu Aug 11 2022 7:14 AM 
+- 💂 [Intel公布A750次旗舰50款游戏性能：骑脸输出RTX 3060](https://www.cnbeta.com/articles/tech/1303317.htm) | Thu Aug 11 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年8月11日，moto摩托罗拉召开了“三舰齐发 顶峰相见”新品发布会，正式发布了moto X30Pro、moto razr 2022和moto S30 Pro三款旗舰新品。moto摩托罗拉一直践行“做中国用户喜欢的moto”的美好愿景，用最具诚意的产品回馈中国用户的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel的Arc游戏卡已经有千元级的A380上市，接下来还会推出更高端的Arc 5及Arc 7系列，其中A750是仅次于A770的次旗舰显卡。&lt;strong&gt;之前Intel透露了部分性能，这次索性公布了50款游戏实测结果，在1080p、2K等分辨率下可以骑脸输出RTX 3060了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《小美人鱼》真人版女主美照 该剧对黑人女孩有非凡意义](https://hot.cnbeta.com/articles/movie/1303273.htm) | Thu Aug 11 2022 7:13 AM 
+- 🚀 [小鹏汽车回应P7高架撞人致死：辅助驾驶不能识别哪些障碍物？](https://www.cnbeta.com/articles/tech/1303315.htm) | Thu Aug 11 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日《小美人鱼》真人版女主扮演者哈莉·贝利&lpar;Halle Bailey&rpar;登上《Variety》封面，并接受采访。她谈及自己扮演的小美人鱼时，希望可以鼓励和她一样的小姑娘知道自己很特别，她们也一样可以做个小公主。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月10日，一辆小鹏P7发生事故，致一人死亡和两车损坏。驾驶员称车在撞击前没有发出任何警告。 对此，小鹏回复：会全力配合相关部门进行事故调查。根据视频显示，在宁波某高架桥路段，一辆抛锚的故障车停在最左侧车道，车主疑似正在后备箱处理着什么，然后一辆小鹏 P7 快速驶来，在没有减速的情况下径直装上故障车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [首次披露 知网发言人：100%国有控股，2021年已支付版权费1.56亿](https://www.cnbeta.com/articles/tech/1303271.htm) | Thu Aug 11 2022 7:08 AM 
+- 🎊 [小鹏智能驾驶致命车祸：高速撞向静止车辆 光线良好 系统里里外外失效](https://www.cnbeta.com/articles/tech/1303313.htm) | Thu Aug 11 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月11日上午，在北京海淀知网总部，知网副总经理兼新闻发言人肖宏就网友关心问题，接受光明日报记者采访，首次披露多方面信息。针对此前网友对其股权成分认知的情况，肖宏回应，目前，知网为100%国有控股企业，下设“两司一社”，即《中国学术期刊（光盘版）》电子杂志社有限公司、同方知网数字出版技术股份有限公司、同方知网（北京）技术有限公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一起严重的智能驾驶直接相关事故，刚刚被证实。高速道路上，据说是道路检修车停在高速左侧车道上，而另一辆开启智能驾驶的车辆完全识别失败，没有任何减速动作以80km/h的速度撞了上去。而且是在白天光线良好，路况良好的情况下。&lt;strong&gt;令人痛心的是，事故发生瞬间，抛锚车车主正站在车尾，猝不及防被后车正面夹击冲撞：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
