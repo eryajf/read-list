@@ -338,24 +338,24 @@
     思科证实，Yanluowang勒索软件集团在今年5月下旬入侵了公司网络，攻击者试图以泄露被盗数据威胁索要赎金。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 刷单类电信网络诈骗案占全部电诈案四成；PyPI中发现新恶意Python库](https://www.freebuf.com/news/341525.html) | Wed Aug 10 2022 7:48 AM 
+- 🦄 [深入调查揭秘钓鱼邮件背后的故事](https://www.freebuf.com/articles/neopoints/341606.html) | Thu Aug 11 2022 3:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    共同探讨”钓鱼邮件背后的故事”中解密在钓鱼邮件后隐藏的惊天玩法。 
+    </details> 
+
+- 🦅 [因从事间谍活动，前Twitter员工最高可判20年监禁](https://www.freebuf.com/news/341604.html) | Thu Aug 11 2022 3:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    因窃取 Twitter 用户有关的私人信息，并将数据交给沙特阿拉伯政府，美国公民Ahmad Abouammo将最高面临 20 年的监禁。 
+    </details> 
+
+- 🪄 [FreeBuf早报 | 刷单类电信网络诈骗案占全部电诈案四成；PyPI中发现新恶意Python库](https://www.freebuf.com/news/341525.html) | Wed Aug 10 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
     《云计算安全责任共担模型》行业标准已于2022年7月正式发布施行。 
     </details> 
 
-- 🦅 [警惕！黑客正在从分类信息网站上窃取信用卡](https://www.freebuf.com/news/341511.html) | Wed Aug 10 2022 5:49 AM 
+- 💻 [警惕！黑客正在从分类信息网站上窃取信用卡](https://www.freebuf.com/news/341511.html) | Wed Aug 10 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者还试图利用银行平台上的一次性有效密码（OTP）将资金直接转入其账户上。 
-    </details> 
-
-- 🪄 [PyPI中发现新恶意Python库](https://www.freebuf.com/news/341509.html) | Wed Aug 10 2022 5:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    Check Point的安全研究人员在Python软件包索引（PyPI）上发现了10个恶意软件包。 
-    </details> 
-
-- 💻 [CISA警告Windows和UnRAR漏洞在野被利用](https://www.freebuf.com/articles/341495.html) | Wed Aug 10 2022 2:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    近期美国网络安全和基础设施安全局 &lpar;CISA&rpar; 在其已知利用漏洞目录中增加了两个漏洞。其中一个已经在Windows支持诊断工具&lpar;MSDT&rpar;中作为零日漏洞了潜在了两年多的时间，并且它具有公开可用的漏洞利用代码。这两个安全问题的严重程度都很高，并且是目录遍历漏洞，可以帮助攻击者在目标系统上植入恶意软件。该漏洞编号为CVE-2022-34713，非正式地称为DogWalk，MSDT中的安全漏洞允许攻击者 
     </details> 
 <!-- freebuf:END -->
 
