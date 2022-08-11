@@ -237,29 +237,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [Django URL常见用法及配置介绍](https://blog.ops-coffee.cn/django/django-url-path-conf) | Wed Aug 10 2022 11:35 AM 
+- 👺 [Django Template常见用法及配置介绍](https://blog.ops-coffee.cn/django/django-template-config) | Thu Aug 11 2022 11:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    详细介绍Django Template的常见用法及配置 
+    </details> 
+
+- 💯 [Django URL常见用法及配置介绍](https://blog.ops-coffee.cn/django/django-url-path-conf) | Wed Aug 10 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
     Django URL常见使用方法及配置介绍 
     </details> 
 
-- 💯 [Django Model关联关系之ManyToManyField](https://blog.ops-coffee.cn/django/django-model-manytomany-field) | Wed Aug 10 2022 11:28 AM 
+- 🚦 [Django Model关联关系之ManyToManyField](https://blog.ops-coffee.cn/django/django-model-manytomany-field) | Wed Aug 10 2022 11:28 AM 
     <details><summary>展开描述 ...</summary> 
     详细介绍Django Model多对多的关联关系ManyToManyField 
     </details> 
 
-- 🚦 [Django Model关联关系之ForeignKey](https://blog.ops-coffee.cn/django/django-model-foreignkey) | Wed Aug 10 2022 11:26 AM 
+- 👨‍🏫 [Django Model关联关系之ForeignKey](https://blog.ops-coffee.cn/django/django-model-foreignkey) | Wed Aug 10 2022 11:26 AM 
     <details><summary>展开描述 ...</summary> 
     详细介绍Django Model一对多的关联关系ForeignKey 
     </details> 
 
-- 👨‍🏫 [Django Model之关联关系](https://blog.ops-coffee.cn/django/django-model-relationships) | Wed Aug 10 2022 11:13 AM 
+- 🌮 [Django Model之关联关系](https://blog.ops-coffee.cn/django/django-model-relationships) | Wed Aug 10 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
     Django model关联关系介绍 
-    </details> 
-
-- 🌮 [游记 | 浙东秋名山，跑山消暑玩水好去处](https://blog.ops-coffee.cn/s/HApDTE3c0o4YL5ntx0Aa1Q) | Tue Aug 09 2022 2:53 PM 
-    <details><summary>展开描述 ...</summary> 
-    浙东秋名山，周末四名山自驾跑山、消暑、玩儿水游记 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
