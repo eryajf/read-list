@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [年轻人在哪儿易遭遇网络诈骗？刷单兼职和网络求职](https://www.cnbeta.com/articles/tech/1303027.htm) | Wed Aug 10 2022 11:15 PM 
+- 🕯 [10个人里就有1个网络主播 我国主播账号累计近1.4亿个](https://hot.cnbeta.com/articles/movie/1303111.htm) | Thu Aug 11 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;付费实习、网络刷单、交友杀猪盘、假冒游戏代练……在年轻人日常接触较多的网络环境中，暗藏着网络诈骗的风险。近日，中国青年报社社会调查中心联合问卷网（wenjuan.com），对1507名青年进行的一项调查显示，刷单兼职（62.5%）和网络求职（57.7%）是受访青年觉得年轻人容易被网络诈骗的主要场景。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月10日，“2021-2022中国网络表演（直播）行业发展论坛”在北京举行，《中国网络表演（直播）行业发展报告（2021-2022）》《网络直播文艺生态报告》双报告同时发布。报告显示，2021年我国网络表演（直播）行业市场规模达1844.42亿元，具有网络表演&lpar;直播&rpar;经营资质的经营性互联网文化单位有7661家，其中2021年新增1641家。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [PC对比PS5《漫威蜘蛛侠：重制版》这特效超越原版](https://hot.cnbeta.com/articles/game/1303025.htm) | Wed Aug 10 2022 11:14 PM 
+- 💼 [华为Mate 50四款新机齐曝光：7.2寸巨屏机皇或回归](https://www.cnbeta.com/articles/tech/1303109.htm) | Thu Aug 11 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;曾经作为PS平台独占大作的《漫威蜘蛛侠》即将登陆PC平台，国外媒体第一时间对PS5版和使用RTX 3090显卡的顶配PC运行效果进行对比，并录制了视频，一起来看看两个版本到底有什么差距。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;既然iPhone 14是四款的话，那么华为Mate 50也是四款也不难吧，这样全方位对决是不是更直接一点呢？现在，网上又有消息称，华为可能会为Mate 50系列增加一款巨屏机皇，最终被冠以Mate 50X的称号，而系列其余三位成员分别是Mate 50、Mate 50 Pro和Mate 50 RS。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [迪斯尼流媒体订阅用户达2.21亿 无广告内容年底涨价最高38%](https://www.cnbeta.com/articles/tech/1303023.htm) | Wed Aug 10 2022 11:13 PM 
+- 💂 [新一代丰田汉兰达纯燃油版上市：31.48万起](https://www.cnbeta.com/articles/tech/1303107.htm) | Thu Aug 11 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月11日消息，迪斯尼流媒体视频订阅用户数量增至2.21亿，超越了Netflix。迪斯尼还发布消息称，客户想观看无广告迪斯尼+或者Hulu内容需要支付更高费用。今年12月无广告迪斯尼+服务的月费将增加38%，达到10.99美元，如果不想支付更高费用，内容中会附带广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一般情况下，同一款车的混动版要比纯燃油版贵上数千甚至是几万，但你见过纯燃油卖得比混动贵的吗？8月10日，新一代丰田汉兰达380T车型正式上市，其搭载了一台2.0T燃油发动机，&lt;strong&gt;全系标配四驱，共推出3款，售价区间为31.48-34.48万元&lt;/strong&gt;，同时还加推了一款2.5L双擎混动四驱豪华版车型，售价为31.48万元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国证交会审查Coinbase的加密货币质押项目](https://www.cnbeta.com/articles/tech/1303021.htm) | Wed Aug 10 2022 11:10 PM 
+- 🚀 [神似华为Mate 40 鼎桥TD Tech M40高配版3599元起今日首销](https://www.cnbeta.com/articles/tech/1303105.htm) | Thu Aug 11 2022 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月11日凌晨消息，加密货币交易所Coinbase表示，该公司的加密货币质押项目正在接受美国证交会（SEC）的调查，该项目让用户通过持有某些加密货币获得奖励。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;上周，鼎桥官方正式发布了TD Tech M40高配版，相比普通版带来了配置升级。&lt;/strong&gt;根据官方消息，该机将在今天上午10:08正式开售，提供两种存储版本可选，起售价3599元。据爆料，TD Tech M40高配版相比此前有两大升级点：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [欧洲多条河流水位告急 危及800亿美元贸易航道](https://www.cnbeta.com/articles/tech/1303019.htm) | Wed Aug 10 2022 7:37 PM 
+- 🎊 [Mawi推出能更快、更实时地跟踪心脏健康状况的贴片](https://www.cnbeta.com/articles/tech/1303103.htm) | Thu Aug 11 2022 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;欧洲各地今夏干旱少雨，气温刷新纪录，多条河流也濒临干涸。&lt;/strong&gt;莱茵河作为德国、荷兰和瑞士几个世纪以来的经济支柱，也是欧洲最为重要的水路之一。本周晚些时候，莱茵河的一个关键航路点可能会基本无法通行，阻碍包括柴油、煤炭等能源产品和其他工业商品的运输。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果你曾经不幸需要持续的心电图监测，那么你可能已经使用过Holter监测仪。这就像带着一个20世纪80年代的金属制成的随身听，有一堆电线从它连接到你的胸部。如果这听起来很不舒服，而且在你需要带着它的两个星期里好像你无法睡觉或享受淋浴，那么Mawi Heart贴片的到来绝对是个福音。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
