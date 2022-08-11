@@ -378,24 +378,24 @@
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 前言： 用C#发送命令，需要循环发送 
     </details> 
 
-- 🎡 [LeetCode重新格式化字符串使用JavaScript解题|前端学算法](https://juejin.cn/post/7130624201547300871) | Thu Aug 11 2022 2:24 PM 
+- 🎡 [TypeScript-起步——JavaScript简介（二）](https://juejin.cn/post/7130625090030420005) | Thu Aug 11 2022 2:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 ③ 类型带来的问题 首先你需要知道，编程开发中我们有一个共识：错误出现的越早越好 能在写代码的时候发现错 
+    </details> 
+
+- 🕯 [LeetCode重新格式化字符串使用JavaScript解题|前端学算法](https://juejin.cn/post/7130624201547300871) | Thu Aug 11 2022 2:24 PM 
     <details><summary>展开描述 ...</summary> 
     前端使用JavaScript来解决LeetCode从新格式化字符串的算法，前端学习算法，每天三分钟学会一个知识点 
     </details> 
 
-- 🕯 [d3环形图以及文字居中和大小自适应](https://juejin.cn/post/7130621190841991182) | Thu Aug 11 2022 2:12 PM 
+- 🚀 [NiceModal：重新思考 React 中的弹窗使用方式](https://juejin.cn/entry/7130623457993162759) | Thu Aug 11 2022 2:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    可能是 React 下最好的弹窗管理实践方案。 经过 `NiceModal` 的封装，好处显而易见：1. 调用过程干净优雅；2. 组件依旧存在于上下文中（可以自定义位置，默认在... 
+    </details> 
+
+- 💪 [d3环形图以及文字居中和大小自适应](https://juejin.cn/post/7130621190841991182) | Thu Aug 11 2022 2:12 PM 
     <details><summary>展开描述 ...</summary> 
     d3js 带阴影的环形图、饼图，图例动态居中显示 - 掘金 &lpar;juejin.cn&rpar; 学习D3.js（十）环形饼图 - 掘金 &lpar;juejin.cn&rpar; d3中图表大小自适应区域大小_justforuse的 
-    </details> 
-
-- 🚀 [你不知道的 Rust](https://juejin.cn/post/7130616966716325896) | Thu Aug 11 2022 1:56 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 本文档不是一篇Rust入门教程，而是从前端开发者的视角对Rust进行较感性的杂谈：诸如学习曲线、开发体验、语法差异、性能差异、优势领域等细节会被讨论到。通过这种横向的对比，有助于我们进一步了解： 
-    </details> 
-
-- 💪 [Dygraphs 中 x 轴等间距实现](https://juejin.cn/post/7130612273285955591) | Thu Aug 11 2022 1:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文，我们来探讨下，如何在 Dygraphs 中的 X 轴上等间距的展示每一条竖线，间隔是 1s。在 Dygraphs 中没有相关 api 直接调用，我们使用属性 pixelsPerLabel 来实现 
     </details> 
 <!-- juejin:END -->
 ### 少数派
