@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [19名作家索赔700余万元，知网回应：从未故意侵权，愿意承担相应责任](https://www.cnbeta.com/articles/tech/1303243.htm) | Thu Aug 11 2022 6:18 AM 
+- 🕯 [《使命召唤15：黑色行动4》更多被取消的战役情报泄露](https://hot.cnbeta.com/articles/game/1303279.htm) | Thu Aug 11 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今年以来，除了“反垄断”和“网络安全审查”，知网还需面对第三个关键词：“诉讼”。&lt;/strong&gt;作为其中的典型样本，陈渐等19位作家分别针对知网密集发起的诉讼，试图在数字时代，为纸媒时代遗留的“信息网络传播权”争议的解决，再打开一个突破口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在《使命召唤：黑色行动 4》发布近四年后，有关该游戏已被取消的战役的新报道细节被披露，包括其剧情、任务设计等。&lt;/strong&gt;目前官方并未证实这些细节，因此无法证明这些报道的真实性。Reddit 用户 Purpletoaster20 分享了这些泄露，他解释称这些内容是经过数月的研究和“与了解（战役）模式的人讨论”的结果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[视频]特斯拉2022年度股东大会双语字幕完整版](https://hot.cnbeta.com/articles/comic/1303241.htm) | Thu Aug 11 2022 6:17 AM 
+- 💼 [显卡出货量或下跌50%，厂商为漫长的冬天做准备](https://www.cnbeta.com/articles/tech/1303277.htm) | Thu Aug 11 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;北京时间8月5日凌晨，特斯拉公司在得州超级工厂召开了2022年度股东大会，会议代号Cyber Roundup。公司CEO埃隆·马斯克作年度总结，并回答了多个网络提问和现场观众提问。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;源视频：Tesla@yt 翻译及字幕：瓦砾村夫&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1303241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔、AMD和英伟达都修改了今年的目标出货量和预期收入，其中英特尔和英伟达都有较大幅度的下调。&lt;strong&gt;随着加密货币崩盘，显卡出货量可能会下跌50%，预计不少关联厂商会被波及，现在开始需要为漫长的冬天做准备。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [小鹏P7辅助驾驶追尾前车 有人被撞飞 现场监控视频流出](https://www.cnbeta.com/articles/tech/1303239.htm) | Thu Aug 11 2022 6:15 AM 
+- 💂 [moto razr 2022正式发布 5999元起开启折叠屏主力机时代](https://www.cnbeta.com/articles/tech/1303275.htm) | Thu Aug 11 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，有博主上传了一段小鹏P7高架追尾事故，引起网友热议。而事故现场的道路监控视频，恰好记录下了事故发生的恐怖一幕。&lt;strong&gt;被追尾的车辆不知因何原因，停在了高架桥的最左侧车道，两名驾乘人员均没有及时远离车辆，其中一名还走到了车尾。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年8月11日，moto摩托罗拉召开了“三舰齐发 顶峰相见”新品发布会，正式发布了moto X30Pro、moto razr 2022和moto S30 Pro三款旗舰新品。moto摩托罗拉一直践行“做中国用户喜欢的moto”的美好愿景，用最具诚意的产品回馈中国用户的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [你每日睡眠够吗？研究发现缺觉人胳膊大腿更粗](https://www.cnbeta.com/articles/science/1303237.htm) | Thu Aug 11 2022 6:14 AM 
+- 🚀 [《小美人鱼》真人版女主美照 该剧对黑人女孩有非凡意义](https://hot.cnbeta.com/articles/movie/1303273.htm) | Thu Aug 11 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;妹子们怕了吗，如果休息不好睡眠不够，那么身形是要改变的，所以要特别注意了。总是睡不够身体会怎样？近日，一项研究发现，睡眠不足的人，腿、胳膊更“粗”。刊登在国际营养学杂志《Nutrients》上一项研究发现，“肥肉”长的地方，和睡眠时长有关。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日《小美人鱼》真人版女主扮演者哈莉·贝利&lpar;Halle Bailey&rpar;登上《Variety》封面，并接受采访。她谈及自己扮演的小美人鱼时，希望可以鼓励和她一样的小姑娘知道自己很特别，她们也一样可以做个小公主。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [魅族申请FLYME AUTO商标：Flyme真要上车了](https://www.cnbeta.com/articles/tech/1303235.htm) | Thu Aug 11 2022 6:08 AM 
+- 🎊 [首次披露 知网发言人：100%国有控股，2021年已支付版权费1.56亿](https://www.cnbeta.com/articles/tech/1303271.htm) | Thu Aug 11 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，&lt;strong&gt;珠海市魅族科技有限公司申请了多个“FLYME AUTO”商标，国际分类分别为交通工具、软件产品以及广告、销售、市场服务。&lt;/strong&gt;这一系列商标的申请，结合魅族昨天在官方论坛发起的关于手机与汽车互联互通系列功能需求的投票，&lt;strong&gt;不难让人看出，魅族确实计划将Flyme送上汽车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月11日上午，在北京海淀知网总部，知网副总经理兼新闻发言人肖宏就网友关心问题，接受光明日报记者采访，首次披露多方面信息。针对此前网友对其股权成分认知的情况，肖宏回应，目前，知网为100%国有控股企业，下设“两司一社”，即《中国学术期刊（光盘版）》电子杂志社有限公司、同方知网数字出版技术股份有限公司、同方知网（北京）技术有限公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
