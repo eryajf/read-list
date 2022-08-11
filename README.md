@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JavaScript实现网页带动画返回顶部](https://juejin.cn/post/7130411097764888607) | Thu Aug 11 2022 12:37 AM 
+- 🤗 [回到本真，代码到底是什么？](https://juejin.cn/post/7130425141699280926) | Thu Aug 11 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 服务器由阿里云换到了腾讯云，我的代码之前一直都是托管在git上的，但是搬家的时候，可能是着急了，之前有些 
+    代码即文本 我们写的「代码」只是个普通的文本文件，因为编译器等方式得以转化为二进制代码。代码文本从最早期的「二进制代码」演化到现在百花齐放的「编程语言代码」，粗略演化路线： 二进制代码：初期二进制代码 
     </details> 
 
-- 🎡 [Android代码检查之自定义Lint](https://juejin.cn/post/7130410607534145544) | Thu Aug 11 2022 12:35 AM 
+- 🎡 [Open Office XML 格式中的 Style 设计原理](https://juejin.cn/post/7130425075622215710) | Thu Aug 11 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
-    Lint 是 Android studio 提供的一款静态代码检查工具，它可以帮助我们检查 Android 项目源文件是否有潜在的 bug，以及在正确性、安全性、性能、易用性、无障碍性和国际化方面 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 Microsoft Word 中有一个专门用于样式的完整工具栏：正常、无间距、标题 1、标题 2、标题等 
     </details> 
 
-- 🕯 [这些前端新技术你很难再忽视了 —— Bun](https://juejin.cn/post/7130410339245490184) | Thu Aug 11 2022 12:34 AM 
+- 🕯 [回到本真，梦回计算机发展史](https://juejin.cn/post/7130424870101319716) | Thu Aug 11 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 新系列《这些前端新技术你很难再忽视了》，包括：SolidJS、Svelte、Tauri、Bun、Sche 
+    前言 关于之前「Go语言的内存管理实现」这部分，本来接下来是要给大家继续讲解「Go语言堆内存、栈内存分配」的，以及这部分之前图都画完了。但是呢，写文章的时候，写着写着发现写不下去了，为什么？ 我发现想 
     </details> 
 
-- 🚀 [Label Studio+Yolov5 实现目标检测预标注&lpar;一&rpar;](https://juejin.cn/post/7130402058955390983) | Thu Aug 11 2022 12:02 AM 
+- 🚀 [Android开发小技巧-屏幕常亮与高亮的管理](https://juejin.cn/post/7130424225147387935) | Thu Aug 11 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-    目标检测作为机器学习的热门方向，广泛应用于视频监控和工业检测等诸多领域。想要训练出一个效果不错的模型通常需要大量的标记样本，其中人工标记样本是常用的方法。 
+    在使用我们国民应用微信和支付宝的时候，打开付款码给别人扫码的时候，那个页面简直亮瞎我的眼，做为一个Android开发者，我就想这个功能是怎么实现的呢? 
     </details> 
 
-- 💪 [Web Components 从零到一](https://juejin.cn/post/7130383727615557640) | Wed Aug 10 2022 10:52 PM 
+- 💪 [十分钟了解一下MySql锁机制](https://juejin.cn/post/7130423416607375373) | Thu Aug 11 2022 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 Web Components MDN 上对 Web Components 这个名词的解释是: 当然，你也 
+    MySql锁的概念 在MySql中有很多不同种类的锁 从操作粒度来说有 表锁，行锁，页锁 表级锁：每次操作锁住整张表。锁定粒度大，发生锁冲突的概率最高，并发度最低。应用在MyISAM、InnoDB、B 
     </details> 
 <!-- juejin:END -->
 ### 少数派
