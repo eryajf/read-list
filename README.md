@@ -411,7 +411,7 @@
     Spotify 更新首页用户体验、Web 版 OneDrive 启用全新界面等。&lt;a href=&quot;https://sspai.com/post/75095&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [一派·Podcast | 中元特辑：马来异闻和人间轶事](https://sspai.com/post/75061) | Wed Aug 10 2022 9:30 AM 
+- 🤭 [一派·Podcast | 中元节特辑：马来西亚异闻和人间奇妙轶事](https://sspai.com/post/75061) | Wed Aug 10 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     又到中元节了。我们邀请了老朋友大耳，从他在马来西亚工作期间经历的奇异见闻聊起，谈谈各种神秘轶事。&lt;a href=&quot;https://sspai.com/post/75061&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
