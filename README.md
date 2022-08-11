@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [显卡出货量将暴跌最多50％ NVIDIA终于吞下苦果](https://www.cnbeta.com/articles/tech/1303449.htm) | Thu Aug 11 2022 6:59 PM 
+- 🕯 [苹果预计2022年可维持iPhone销量 指望富裕消费者帮助抵消市场放缓](https://www.cnbeta.com/articles/tech/1303451.htm) | Thu Aug 11 2022 8:50 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;苹果公司已要求供应商在今年生产至少与2021年同样多的下一代iPhone，指望富裕消费者和竞争减少帮助抵消全球电子市场的低迷。&lt;/strong&gt;知情人士透露，尽管智能手机市场的预测不断恶化，但苹果仍要求组装商生产9，000万部最新iPhone，数量与去年持平。其中一位知情人士表示，苹果仍预计2022年总共生产大约2.2亿部iPhone，也与去年的水平大致相当。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [显卡出货量将暴跌最多50％ NVIDIA终于吞下苦果](https://www.cnbeta.com/articles/tech/1303449.htm) | Thu Aug 11 2022 6:59 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;曾经多快乐，如今就多痛苦。NVIDIA之前在挖矿、矿卡上赚得盆钵满钵，现在遭到了无情的反噬。RTX 40系列即将发布之际，NVIDIA、AIC品牌正在焦头烂额地清理RTX 30系列的库存，但还有更糟糕的消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [被病毒勒索千万美元？美的回应：传闻系谣言 业务系统未受影响](https://www.cnbeta.com/articles/tech/1303447.htm) | Thu Aug 11 2022 6:54 PM 
+- 💂 [被病毒勒索千万美元？美的回应：传闻系谣言 业务系统未受影响](https://www.cnbeta.com/articles/tech/1303447.htm) | Thu Aug 11 2022 6:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月11日晚间，@美的集团 官微就“美的受黑客攻击并勒索千万美元”的传闻进行回应。美的集团表示，网传美的遭受病毒勒索系谣言，2022年8月11日，&lt;strong&gt;美的集团遭受新型网络病毒攻击，少数员工电脑受到感染，公司各业务系统未受影响，经营正常进行，也没有收到勒索信息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [江浙皖川渝等地气温可超40℃ 杭州连续30天高温将破纪录](https://www.cnbeta.com/articles/tech/1303445.htm) | Thu Aug 11 2022 6:54 PM 
+- 🚀 [江浙皖川渝等地气温可超40℃ 杭州连续30天高温将破纪录](https://www.cnbeta.com/articles/tech/1303445.htm) | Thu Aug 11 2022 6:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月11日18时，中央气象台继续发布高温橙色预警：预计8月12日白天，新疆南疆盆地东部、内蒙古西部、陕西中南部、河南、安徽、江苏、上海、四川中东部、重庆、湖北、湖南、江西、浙江、福建、贵州北部等地有35～39℃高温天气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [仅发布两款机型的雷蛇退出手机市场 安卓主题商店本月关闭](https://www.cnbeta.com/articles/tech/1303443.htm) | Thu Aug 11 2022 6:53 PM 
+- 🎊 [仅发布两款机型的雷蛇退出手机市场 安卓主题商店本月关闭](https://www.cnbeta.com/articles/tech/1303443.htm) | Thu Aug 11 2022 6:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月12日消息，据9to5Google报道，&lt;strong&gt;雷蛇宣布Razer Phone系列上内置的安卓主题商店将于2022年8月24日关闭。&lt;/strong&gt;关闭后，Razer Phone仅保留当前使用的主题，不能下载和更换，这意味着雷蛇手机就此终结。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [美国FTC考虑出台新规 打击企业收集消费者信息](https://www.cnbeta.com/articles/tech/1303441.htm) | Thu Aug 11 2022 6:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国联邦贸易委员会 （FTC） 周四表示，该机构正考虑出台新规以禁止有害的商业监视和数据安全松懈，并称消费者经常在不知情的情况下放弃他们的个人信息。&lt;/strong&gt;FTC主席Lina Khan称：“企业现在大规模地收集个人的个人数据，并在一系列令人震惊的情况下进行。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
