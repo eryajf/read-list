@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [Parallels Desktop 18 最新版下载 - Mac 系统最强虚拟机 &lpar;支持M1/Win11/macOS Ventura&rpar;](https://www.iplaysoft.com/parallels-desktop.html) | Tue Aug 09 2022 12:00 PM
-- 🧑‍🏫 [Paper2GUI - 开源免费的“AI 黑科技”工具箱！十几款上手即用的人工智能软件合集](https://www.iplaysoft.com/paper2gui.html) | Tue Aug 09 2022 9:27 AM
-- 🥰 [Rufus 中文绿色版 - 简单快速制作 USB 启动盘软件 &lpar;U盘安装 Windows / Linux 系统&rpar;](https://www.iplaysoft.com/rufus.html) | Fri Aug 05 2022 5:15 PM
-- 💻 [MenubarX Pro - 创意实用的 Mac 菜单栏迷你小窗浏览器 &lpar; “摸鱼+效率”工具&rpar;](https://www.iplaysoft.com/menubarx.html) | Tue Aug 02 2022 6:14 PM
-- 🎃 [Linux Mint 21 - 公认比 Ubuntu 更好用的个人桌面级 Linux 操作系统发行版](https://www.iplaysoft.com/linux-mint.html) | Mon Aug 01 2022 2:46 AM<!-- iplaysoft:END -->
+- 🧐 [Windows 12.1 最新概念演示视频 - UI 界面设计视觉效果惊艳](https://www.iplaysoft.com/news/5752) | Thu Aug 11 2022 12:36 PM
+- 🧑‍🏫 [Parallels Desktop 18 最新版下载 - Mac 系统最强虚拟机 &lpar;支持M1/Win11/macOS Ventura&rpar;](https://www.iplaysoft.com/parallels-desktop.html) | Tue Aug 09 2022 12:00 PM
+- 🥰 [Paper2GUI - 开源免费的“AI 黑科技”工具箱！十几款上手即用的人工智能软件合集](https://www.iplaysoft.com/paper2gui.html) | Tue Aug 09 2022 9:27 AM
+- 💻 [Rufus 中文绿色版 - 简单快速制作 USB 启动盘软件 &lpar;U盘安装 Windows / Linux 系统&rpar;](https://www.iplaysoft.com/rufus.html) | Fri Aug 05 2022 5:15 PM
+- 🎃 [MenubarX Pro - 创意实用的 Mac 菜单栏迷你小窗浏览器 &lpar; “摸鱼+效率”工具&rpar;](https://www.iplaysoft.com/menubarx.html) | Tue Aug 02 2022 6:14 PM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
