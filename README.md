@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [新硬盘顺序读取速度异常](https://www.v2ex.com/t/872312#reply1) | Thu Aug 11 2022 4:03 PM
+- 🥸 [新硬盘顺序读取速度异常](https://www.v2ex.com/t/872312#reply4) | Thu Aug 11 2022 4:03 PM
 - 🤗 [大家平时写 SQL 会用正则表达式吗？](https://www.v2ex.com/t/872306#reply3) | Thu Aug 11 2022 2:50 PM
 - 🎭 [rocketmq 半消息回查失败怎么重新消费](https://www.v2ex.com/t/872292#reply0) | Thu Aug 11 2022 1:34 PM
-- 🥷 [在两家公司用过两个 mac 了，实在没整明白对码农来说 mac 比 win 好在哪儿..可以说 win 和 Mac 的价格反过来我也会选 win](https://www.v2ex.com/t/872288#reply26) | Thu Aug 11 2022 1:10 PM
+- 🥷 [在两家公司用过两个 mac 了，实在没整明白对码农来说 mac 比 win 好在哪儿..可以说 win 和 Mac 的价格反过来我也会选 win](https://www.v2ex.com/t/872288#reply29) | Thu Aug 11 2022 1:10 PM
 - 🐵 [第三方的 oauth2 怎么做进 vscode 插件里](https://www.v2ex.com/t/872283#reply0) | Thu Aug 11 2022 12:57 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
