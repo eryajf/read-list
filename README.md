@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Kotlin 协程如何与 Java 进行混编？](https://juejin.cn/post/7130270050572828703) | Wed Aug 10 2022 3:29 PM 
+- 🤗 [JavaScript实现网页带动画返回顶部](https://juejin.cn/post/7130411097764888607) | Thu Aug 11 2022 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    一文搞定 Kotlin 协程与 Java 混编问题。也可以从 API 设计的角度考虑语义约束与语法约束的区别。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 服务器由阿里云换到了腾讯云，我的代码之前一直都是托管在git上的，但是搬家的时候，可能是着急了，之前有些 
     </details> 
 
-- 🎡 [记录npm link使用过程以及遇到并解决的问题&lpar;相同依赖引用&rpar;](https://juejin.cn/post/7130269325872758798) | Wed Aug 10 2022 3:27 PM 
+- 🎡 [Android代码检查之自定义Lint](https://juejin.cn/post/7130410607534145544) | Thu Aug 11 2022 12:35 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在 monorepo 技术成为多包管理/调试的常用方式之后，其实不应该优先考虑使用 npm link 来实现开发环境多包调试。但因为笔者所要操作的两个仓库的基建都是比较陈旧的，且考虑到未来可能会 
+    Lint 是 Android studio 提供的一款静态代码检查工具，它可以帮助我们检查 Android 项目源文件是否有潜在的 bug，以及在正确性、安全性、性能、易用性、无障碍性和国际化方面 
     </details> 
 
-- 🕯 [Go&amp;Java算法之分数到小数](https://juejin.cn/post/7130269178384089102) | Wed Aug 10 2022 3:26 PM 
+- 🕯 [这些前端新技术你很难再忽视了 —— Bun](https://juejin.cn/post/7130410339245490184) | Thu Aug 11 2022 12:34 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 分数到小数 给定两个整数，分别表示分数的分子 numerator 和分母 denominator，以 字 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 新系列《这些前端新技术你很难再忽视了》，包括：SolidJS、Svelte、Tauri、Bun、Sche 
     </details> 
 
-- 🚀 [【Python】pygame-项目实战（6）-动画实现原理](https://juejin.cn/post/7130266390895788039) | Wed Aug 10 2022 3:15 PM 
+- 🚀 [Label Studio+Yolov5 实现目标检测预标注&lpar;一&rpar;](https://juejin.cn/post/7130402058955390983) | Thu Aug 11 2022 12:02 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 1. 游戏循环和游戏时钟 之前几篇文章中，飞机大战游戏中的英雄飞机已经被绘制到屏幕上了，怎么能够让飞机移 
+    目标检测作为机器学习的热门方向，广泛应用于视频监控和工业检测等诸多领域。想要训练出一个效果不错的模型通常需要大量的标记样本，其中人工标记样本是常用的方法。 
     </details> 
 
-- 💪 [日新刷题 - 234. 回文链表](https://juejin.cn/post/7130266112029114375) | Wed Aug 10 2022 3:14 PM 
+- 💪 [Web Components 从零到一](https://juejin.cn/post/7130383727615557640) | Wed Aug 10 2022 10:52 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 一、题目描述： 234. 回文链表 - 力扣（LeetCode） &lpar;leetcode-cn.com&rpar; 给你 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 Web Components MDN 上对 Web Components 这个名词的解释是: 当然，你也 
     </details> 
 <!-- juejin:END -->
 ### 少数派
