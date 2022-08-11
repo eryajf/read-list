@@ -378,24 +378,24 @@
     最近，在做一个小需求，将身份证号，转化为具体的信息，籍贯、出生日期、性别。 随手写了个get-id-card-info 插件，没有任何依赖。 支持命令行和函数引用。 
     </details> 
 
-- 🎡 [使用ZooKeeper客户端原生API实现分布式配置中心](https://juejin.cn/post/7130546506796859400) | Thu Aug 11 2022 9:22 AM 
+- 🎡 [Turborepo  高性能 monorepo方案,前端的构建未来还得开go](https://juejin.cn/post/7130565939333955620) | Thu Aug 11 2022 10:37 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 ZooKeeper集群主要是帮我们做分布式协调的，今天我们用zk实现 分布式配置 。 本文的实现方式所采 
+    之前的一篇文章我选择了go做前端的cli工具链,现在出现了新的项目构建神器Turborepo用于Monorepo 方案. 1.1 什么是monorepo ? Monorepo是一种项目管理方式，在Mo 
     </details> 
 
-- 🕯 [SpringBoot 实战：国际化组件 MessageSource 的执行逻辑与源码](https://juejin.cn/post/7130535095353475103) | Thu Aug 11 2022 8:38 AM 
+- 🕯 [阅读源码入门实践系列之 element ui&lpar;1&rpar;](https://juejin.cn/post/7130564859908849694) | Thu Aug 11 2022 10:35 AM 
     <details><summary>展开描述 ...</summary> 
-    配置文件 配置文件是基础，会影响执行逻辑，我们先来看下配置项： basename：加载资源的文件名，可以多个资源名称，通过逗号隔开，默认是“messages”； encoding：加载文件的字符集，默 
+    1、为啥要写本篇？ 有好几个小伙伴问我如何去阅读源码？如何成为开源项目贡献者？ 短暂思考后先带你入门，回答第一部分 ps: 这篇不是告诉你如何理解每部分内容，会说个主要过程，然后写一个组件来说明这个事 
     </details> 
 
-- 🚀 [MyBatis-Plus逻辑删除和字段自动填充](https://juejin.cn/post/7130533663808176136) | Thu Aug 11 2022 8:33 AM 
+- 🚀 [解析 RocketMQ 业务消息——“事务消息”](https://juejin.cn/post/7130564272865673253) | Thu Aug 11 2022 10:31 AM 
     <details><summary>展开描述 ...</summary> 
-    一、ID生成策略 1、使用@TableId注解 @TableId注解：主键注解 使用位置：实体类主键字段。 2、全局ID生成策略 使用注解是针对一个POJO的。如果我们全局使用同样的 ID生成策略。那 
+    本篇文章通过拆解 RocketMQ 事务消息的使用场景、基本原理、实现细节和实战使用，帮助大家更好的理解和使用 RocketMQ 的事务消息。 
     </details> 
 
-- 💪 [vue3 + quasar 弹窗的几种方式](https://juejin.cn/post/7130533455540486180) | Thu Aug 11 2022 8:32 AM 
+- 💪 [UniApp video 使用（自定义进度条，及微信无法暂停播放设置进度问题）](https://juejin.cn/post/7130556549121966088) | Thu Aug 11 2022 10:01 AM 
     <details><summary>展开描述 ...</summary> 
-    文章目录 1. 鼠标悬浮时的提示（Quasar Tooltip组件） 2. 点击某按钮后出现自定义的弹窗 2.1 点击某按钮后出现自定义的弹窗（vue方法） 2.2 点击某按钮后出现自定义的弹窗（qu 
+    在小程序开发的时候，其他小程序能够正常暂停、播放、切换进度，但是在微信小程序发现没有生效，原因是平台差异 案例效果 
     </details> 
 <!-- juejin:END -->
 ### 少数派
