@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [用 manim 写一个排序算法动画](https://juejin.cn/post/7130528931975233566) | Thu Aug 11 2022 8:14 AM 
+- 🤗 [使用ZooKeeper客户端原生API实现分布式配置中心](https://juejin.cn/post/7130546506796859400) | Thu Aug 11 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是 manim Manim 是一个用于精确编程动画的引擎，专为创建解释性数学视频而设计。 注意，有两个主要版本的 manim。该存储库最初是 3Blue1Brown 的作者的个人项目，目的是为这些 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 ZooKeeper集群主要是帮我们做分布式协调的，今天我们用zk实现 分布式配置 。 本文的实现方式所采 
     </details> 
 
-- 🎡 [Android—以面试角度剖析HashMap源码](https://juejin.cn/post/7130524758059253774) | Thu Aug 11 2022 7:57 AM 
+- 🎡 [SpringBoot 实战：国际化组件 MessageSource 的执行逻辑与源码](https://juejin.cn/post/7130535095353475103) | Thu Aug 11 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 HashMap 这个词想必大家都挺熟悉的！但往往大多数都知其所用，而不知其原理，导致面试的处处碰壁！因此，这一篇的作用就是以面试的角度剖析HashMap！话不多说，直接开始！ 
+    配置文件 配置文件是基础，会影响执行逻辑，我们先来看下配置项： basename：加载资源的文件名，可以多个资源名称，通过逗号隔开，默认是“messages”； encoding：加载文件的字符集，默 
     </details> 
 
-- 🕯 [iOS小技能：提取数字&lpar;文本框对粘贴内容进行手机号码提取）](https://juejin.cn/post/7130490706824527886) | Thu Aug 11 2022 5:46 AM 
+- 🕯 [MyBatis-Plus逻辑删除和字段自动填充](https://juejin.cn/post/7130533663808176136) | Thu Aug 11 2022 8:33 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 前言 使用手机进行登录注册的时候，需要对粘贴的内容进行手机号码提取。 应用场景： 登陆界面、注册界面 文 
+    一、ID生成策略 1、使用@TableId注解 @TableId注解：主键注解 使用位置：实体类主键字段。 2、全局ID生成策略 使用注解是针对一个POJO的。如果我们全局使用同样的 ID生成策略。那 
     </details> 
 
-- 🚀 [实证与虚无,抽象和具象，Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang接口&lpar;interface&rpar;的使用EP08](https://juejin.cn/post/7130487725282557960) | Thu Aug 11 2022 5:34 AM 
+- 🚀 [vue3 + quasar 弹窗的几种方式](https://juejin.cn/post/7130533455540486180) | Thu Aug 11 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
-    看到接口这两个字，我们一定会联想到面向接口编程。说白了就是接口指定执行对象的具体行为，也就是接口表示让执行对象具体应该做什么，所以，普遍意义上讲，接口是抽象的，而实际执行行为，则是具象的。 
+    文章目录 1. 鼠标悬浮时的提示（Quasar Tooltip组件） 2. 点击某按钮后出现自定义的弹窗 2.1 点击某按钮后出现自定义的弹窗（vue方法） 2.2 点击某按钮后出现自定义的弹窗（qu 
     </details> 
 
-- 💪 [日新刷题 - 235. 二叉搜索树的最近公共祖先](https://juejin.cn/post/7130485753234063397) | Thu Aug 11 2022 5:28 AM 
+- 💪 [HiveServer2 报错 OutOfMemoryError 解决思路](https://juejin.cn/post/7130532885760573453) | Thu Aug 11 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 一、题目描述： 235. 二叉搜索树的最近公共祖先 给定一个二叉搜索树, 找到该树中两个指定节点的最近公 
+    今天下午使用 datagrip 远程连接 hive 突然中断，无法连接，拒绝连接 看了一下 hiveserver2 日志 这是很明显的 OutOfMemoryError 问题 首先，排查集群虚机内存  
     </details> 
 <!-- juejin:END -->
 ### 少数派
