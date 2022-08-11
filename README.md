@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [Sophos：首次发现三个勒索软件连续攻击同一个网络](https://www.freebuf.com/news/341648.html) | Thu Aug 11 2022 6:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    Sophos X-Ops在报告中称某汽车供应商的系统在5月的两周内被三个不同的勒索软件团伙入侵。 
+    </details> 
+
 - 🦄 [思科证实被勒索攻击，泄露数据2.8GB](https://www.freebuf.com/news/341607.html) | Thu Aug 11 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
     思科证实，Yanluowang勒索软件集团在今年5月下旬入侵了公司网络，攻击者试图以泄露被盗数据威胁索要赎金。 
     </details> 
 
-- 🦄 [深入调查揭秘钓鱼邮件背后的故事](https://www.freebuf.com/articles/neopoints/341606.html) | Thu Aug 11 2022 3:19 AM 
+- 🦅 [深入调查揭秘钓鱼邮件背后的故事](https://www.freebuf.com/articles/neopoints/341606.html) | Thu Aug 11 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     共同探讨”钓鱼邮件背后的故事”中解密在钓鱼邮件后隐藏的惊天玩法。 
     </details> 
 
-- 🦅 [因从事间谍活动，前Twitter员工最高可判20年监禁](https://www.freebuf.com/news/341604.html) | Thu Aug 11 2022 3:16 AM 
+- 🪄 [因从事间谍活动，前Twitter员工最高可判20年监禁](https://www.freebuf.com/news/341604.html) | Thu Aug 11 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     因窃取 Twitter 用户有关的私人信息，并将数据交给沙特阿拉伯政府，美国公民Ahmad Abouammo将最高面临 20 年的监禁。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 刷单类电信网络诈骗案占全部电诈案四成；PyPI中发现新恶意Python库](https://www.freebuf.com/news/341525.html) | Wed Aug 10 2022 7:48 AM 
+- 💻 [FreeBuf早报 | 刷单类电信网络诈骗案占全部电诈案四成；PyPI中发现新恶意Python库](https://www.freebuf.com/news/341525.html) | Wed Aug 10 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
     《云计算安全责任共担模型》行业标准已于2022年7月正式发布施行。 
-    </details> 
-
-- 💻 [警惕！黑客正在从分类信息网站上窃取信用卡](https://www.freebuf.com/news/341511.html) | Wed Aug 10 2022 5:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    攻击者还试图利用银行平台上的一次性有效密码（OTP）将资金直接转入其账户上。 
     </details> 
 <!-- freebuf:END -->
 
