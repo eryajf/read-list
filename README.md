@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [奥迪e-tron锁电 车主打官司被4S指责恶意占用司法资源](https://www.cnbeta.com/articles/tech/1303351.htm) | Thu Aug 11 2022 10:07 AM 
+- 🕯 [Google的搜索AI现在能够寻找普遍共识以突出更值得信赖的结果](https://www.cnbeta.com/articles/tech/1303363.htm) | Thu Aug 11 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为BBA中的豪华电动车，奥迪E-Tron在国内也是属于“名车”，此前有不少车主维权，奥迪E-Tron电机故障，无奈之下，奥迪方面发起召回。不过，该车的质量可靠性，依然有车主质疑。8月11日消息，&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s?__biz=MzkzNjI2ODExOQ==&amp;mid=2247493906&amp;idx=1&amp;sn=73130d63cf8dfedda097a11df62ead81&amp;chksm=c2a3f12af5d4783ca004df22fd999e0aad3d570c15f7f442b0cc0c3f25d490df65b5c05d5d9e&amp;mpshare=1&amp;scene=23&amp;srcid=0811Isyx2Lkk3iSJXj5OZ3rO&amp;sharer_sharetime=1660188897891&amp;sharer_shareid=07bd9bf8c4b077eec063cdec5f9279b4#rd&quot; target=&quot;_blank&quot;&gt;“电动汽车用户联盟”&lt;/a&gt;消息，河北保定的田律师，因为95度的大电池，在去年9月份购买了一台50万的奥迪etron sportback。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你知道当你查询某条信息时，Google搜索结果页面最上方的那段高亮文字吗？这被称为&amp;quot;特色片段&amp;quot;，其目的是为你的查询提供一个快速答案。现在，Google正在通过使用其最新的人工智能模型--多任务统一模型，确保它所突出的信息是尽可能可靠和准确的，换句话说，现在搜索引擎可以智能决定特色片段显示公众共识。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英特尔押注OneAPI 欲为Arc游戏和专业GPU提供多卡交火支持](https://www.cnbeta.com/articles/tech/1303349.htm) | Thu Aug 11 2022 9:42 AM 
+- 💼 [猖狂的小偷竟要求失主为被盗的iPhone解除iCloud锁定](https://www.cnbeta.com/articles/tech/1303361.htm) | Thu Aug 11 2022 10:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;多年前，AMD 和 NVIDIA 不约而同地放弃了为旗下消费级显卡提供任何类型的交火支持。&lt;strong&gt;尽管这项技术仍在服务器和 HPC 领域发光发热，但它已一路淡出普通游戏玩家的视线。&lt;/strong&gt;究其原因，主要还是多 GPU API 在游戏中提供的可扩展性和价值较差，且引擎开发者也必须为这部分小众群体付出额外多的时间和精力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;即使小偷告诉你，他们对你被盗的iPhone进行了&amp;quot;逆向工程&amp;quot;或越狱，如果你不删除iCloud设备锁，就会出售你的数据，那也不要相信他们的谎言。以下是为什么你不应该这样做，以及为什么你应该对此感到安全。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果正在打击违规分享iOS 16开发者测试版软件的网站](https://www.cnbeta.com/articles/tech/1303347.htm) | Thu Aug 11 2022 9:17 AM 
+- 💂 [六台小卫星构成合成孔径望远镜 SunRISE将用于观测太阳射电暴](https://www.cnbeta.com/articles/science/1303359.htm) | Thu Aug 11 2022 10:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在今年 6 月的 WWDC 2022 全球开发者大会期间，苹果面向 Apple Developer 社区成员放出了 iOS 16 和其它新软件的开发者测试版本。&lt;strong&gt;尽管官方表示 Beta 测试用户要等到 7 月才能试用 iOS 16，但一些网站还是分享了特殊的安装方式。&lt;/strong&gt;然而最新消息称，苹果正在对这些分享网站重拳出击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;想要在太空中搭建一座 6 英里（10 公里）宽的望远镜，似乎只有在科学作品里听说过。&lt;strong&gt;然而美国宇航局（NASA）想到了一个变通方案，它就是本文要为大家介绍的 SunRISE 项目。&lt;/strong&gt;通过六个烤面包机大小的微型卫星协同工作，整套系统能够被高效地用于探测和追踪危险的爆炸性太空天气事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [快手自研芯片进入流片阶段，规模化落地仍需时日](https://www.cnbeta.com/articles/tech/1303345.htm) | Thu Aug 11 2022 9:06 AM 
+- 🚀 [16颗卫星发射一天就传来高清图 还有特殊的红外图](https://www.cnbeta.com/articles/science/1303357.htm) | Thu Aug 11 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;快手近日推出自研SoC芯片SL200，目前已进入内测阶段。这一芯片是快手加强云端智能视频处理能力的重要一步。&lt;/strong&gt;采访中，快手高级副总裁、Streamlake业务负责人于冰对第一财经记者表示，StreamLake是一个快手独立业务部门，跟主业务既有关联，又是比较独立的面向B端做技术赋能的To B业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月10日，在太原卫星发射中心，长征六号运载火箭成功将16颗长光卫星旗下的吉林一号卫星送入太阳同步轨道，在轨数量增至70颗，新星座第一阶段建设圆满完成。其中10颗吉林一号高分03D星主要用于获取高分辨率光学遥感影像，提供遥感数据服务；6颗云遥卫星主要用于对大气层进行成像，在气象观测领域具有应用前景和价值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Google Images网站现可使用Google Lens进行搜索](https://www.cnbeta.com/articles/tech/1303343.htm) | Thu Aug 11 2022 9:01 AM 
+- 🎊 [国家发放1亿元观影消费券 推进更多新片大片上映](https://hot.cnbeta.com/articles/movie/1303355.htm) | Thu Aug 11 2022 10:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在Android和Chrome浏览器中整合之后，Google Lens现在是桌面Google Images搜索网站上的主要视觉搜索体验。&lt;/strong&gt;在桌面网页上访问images.google.com现在会在语音和常规搜索之间显示Google Lens。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月11日，国家电影局发布开展2022年电影惠民消费季有关事项通知，以促进电影消费、加快电影市场恢复。开展时间为2022年8月至10月。主要内容包括丰富影片供给、发放1亿元观影消费券等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
