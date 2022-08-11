@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083) | Thu Aug 11 2022 6:30 AM 
+- 👹 [新玩意 116｜少数派的作者们最近买了啥？](https://sspai.com/post/75102) | Thu Aug 11 2022 9:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/75102&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [依然是最佳密码管理器选择之一，1Password 8 这次却让我有点失望](https://sspai.com/post/75104) | Thu Aug 11 2022 8:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    1Password 8 移动版终于正式发布，作为目前跨平台最多、功能最全面、设计最精致的密码管理器之一，我是否还会继续选择它，却在新版推出之后变成了问号。&lt;a href=&quot;https://sspai.com/post/75104&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🤭 [掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083) | Thu Aug 11 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     本文介绍一些能够让 Edge 浏览器体验更加干净、纯粹的设置技巧。&lt;a href=&quot;https://sspai.com/post/75083&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [电增电的少数派，极氪 001 使用体验分享](https://sspai.com/post/75033) | Thu Aug 11 2022 3:30 AM 
+- 🥸 [电增电的少数派，极氪 001 使用体验分享](https://sspai.com/post/75033) | Thu Aug 11 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     在经历了三个月的选车试驾后，我们提了极氪 001。作为少数的电车复购电车的车主，分享下我们的心路历程与用车体验。&lt;a href=&quot;https://sspai.com/post/75033&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：三星、OPPO 召开新品发布会，新款 moto razr 售价公布等](https://sspai.com/post/75095) | Thu Aug 11 2022 12:32 AM 
+- 🙉 [派早报：三星、OPPO 召开新品发布会，新款 moto razr 售价公布等](https://sspai.com/post/75095) | Thu Aug 11 2022 12:32 AM 
     <details><summary>展开描述 ...</summary> 
     Spotify 更新首页用户体验、Web 版 OneDrive 启用全新界面等。&lt;a href=&quot;https://sspai.com/post/75095&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [一派·Podcast | 中元节特辑：马来西亚异闻和人间奇妙轶事](https://sspai.com/post/75061) | Wed Aug 10 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    又到中元节了。我们邀请了老朋友大耳，从他在马来西亚工作期间经历的奇异见闻聊起，谈谈各种神秘轶事。&lt;a href=&quot;https://sspai.com/post/75061&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [找到写作者的位置：如何在满足自身创作欲时也让读者满意](https://sspai.com/post/75067) | Wed Aug 10 2022 8:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们创作欲的敌人不是「不自信」，而是对「面向自己写作」与「面向读者写作」这两个概念的混淆——该面向自己写的时候，念着别人；该面向别人去写的时候，觉得应该坚持自己。&lt;a href=&quot;https://sspai.com/post/75067&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
