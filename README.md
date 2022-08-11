@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你会用CSS画一个炫酷的3D旋转柱状体吗？](https://juejin.cn/post/7130495713196113927) | Thu Aug 11 2022 6:05 AM 
+- 🤗 [用 manim 写一个排序算法动画](https://juejin.cn/post/7130528931975233566) | Thu Aug 11 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-    用 CSS 模拟一些 3D 形状，对前端开发者的 CSS 技术水平有很高的考验。 同时也可以提高对 CSS 的掌握和认知。 
+    什么是 manim Manim 是一个用于精确编程动画的引擎，专为创建解释性数学视频而设计。 注意，有两个主要版本的 manim。该存储库最初是 3Blue1Brown 的作者的个人项目，目的是为这些 
     </details> 
 
-- 🎡 [基于 TLS 1.3的百度安全通信协议 bdtls 介绍](https://juejin.cn/post/7130457643717492773) | Thu Aug 11 2022 3:38 AM 
+- 🎡 [Android—以面试角度剖析HashMap源码](https://juejin.cn/post/7130524758059253774) | Thu Aug 11 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
-    基于最新的TLS1.3的协议标准，百度小程序研发团队推出了一套安全防固多APP、多业务的百度安全通信协议方案。 
+    前言 HashMap 这个词想必大家都挺熟悉的！但往往大多数都知其所用，而不知其原理，导致面试的处处碰壁！因此，这一篇的作用就是以面试的角度剖析HashMap！话不多说，直接开始！ 
     </details> 
 
-- 🕯 [Dygraphs 中的高亮区间](https://juejin.cn/post/7130264264782118948) | Wed Aug 10 2022 3:07 PM 
+- 🕯 [iOS小技能：提取数字&lpar;文本框对粘贴内容进行手机号码提取）](https://juejin.cn/post/7130490706824527886) | Thu Aug 11 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
-    本文，我们来探讨，如何在 Dygraphs 中画出两点之间的区间。使用到了 canvas 的相关知识点。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 前言 使用手机进行登录注册的时候，需要对粘贴的内容进行手机号码提取。 应用场景： 登陆界面、注册界面 文 
     </details> 
 
-- 🚀 [LeetCode生成每种字符都是奇数个的字符串使用JavaScript解题|前端学算法](https://juejin.cn/post/7130255506329272351) | Wed Aug 10 2022 2:33 PM 
+- 🚀 [实证与虚无,抽象和具象，Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang接口&lpar;interface&rpar;的使用EP08](https://juejin.cn/post/7130487725282557960) | Thu Aug 11 2022 5:34 AM 
     <details><summary>展开描述 ...</summary> 
-    我真没想到LeetCode里面竟然有这种题？这是在可怜我吗？？关键我还是看了解析才敢写的；LeetCode生成每种字符都是奇数个的字符串使用JavaScript解题 
+    看到接口这两个字，我们一定会联想到面向接口编程。说白了就是接口指定执行对象的具体行为，也就是接口表示让执行对象具体应该做什么，所以，普遍意义上讲，接口是抽象的，而实际执行行为，则是具象的。 
     </details> 
 
-- 💪 [CVPR2022 | 简单高效的语义分割体系结构](https://juejin.cn/post/7130248091411709966) | Wed Aug 10 2022 2:04 PM 
+- 💪 [日新刷题 - 235. 二叉搜索树的最近公共祖先](https://juejin.cn/post/7130485753234063397) | Thu Aug 11 2022 5:28 AM 
     <details><summary>展开描述 ...</summary> 
-    本文提出了一种简单的编码-解码器体系结构，具有类似ResNet的主干和一个小的多尺度头，其性能与复杂的语义分割体系结构（如HRNet、FANet和DDRNets）相当或更好。另外，本文还为桌面和移动目 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 一、题目描述： 235. 二叉搜索树的最近公共祖先 给定一个二叉搜索树, 找到该树中两个指定节点的最近公 
     </details> 
 <!-- juejin:END -->
 ### 少数派
