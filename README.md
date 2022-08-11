@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《守望先锋联赛》队员Seo通过Twitter得知自己被Excelsior解雇](https://hot.cnbeta.com/articles/game/1303215.htm) | Thu Aug 11 2022 5:14 AM 
+- 🕯 [19名作家索赔700余万元，知网回应：从未故意侵权，愿意承担相应责任](https://www.cnbeta.com/articles/tech/1303243.htm) | Thu Aug 11 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;被解雇从来不是一件让人感到轻松的事，但纽约“九霄天擎队”（Excelsior）队员 Sang-min“Myunb0ng”Seo 近日的遭遇，更是让一票圈内外人士感到费解。&lt;strong&gt;在推特上向另一位新队员发文表示欢迎后短短数小时，@NYExcelsior 竟然毫无预兆地发布了解雇 Seo 的官方公告。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今年以来，除了“反垄断”和“网络安全审查”，知网还需面对第三个关键词：“诉讼”。&lt;/strong&gt;作为其中的典型样本，陈渐等19位作家分别针对知网密集发起的诉讼，试图在数字时代，为纸媒时代遗留的“信息网络传播权”争议的解决，再打开一个突破口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [乔治马丁：《权游》从第五季开始就没我啥事了](https://hot.cnbeta.com/articles/movie/1303213.htm) | Thu Aug 11 2022 5:00 AM 
+- 💼 [[视频]特斯拉2022年度股东大会双语字幕完整版](https://hot.cnbeta.com/articles/comic/1303241.htm) | Thu Aug 11 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;谈到《权力的游戏》最终季，至今仍有许多的剧迷对它的结局耿耿于怀。而近日在接受采访时，原作作者乔治·RR·马丁表示自己并未参与后期剧集的制作。乔治·RR·马丁称：“从第五季开始，第五第六第七第八季我几乎已经退出了。”而当被问及为什么会与剧集疏远的原因时，他表示：“我不知道为什么，这你得问丹和大卫（《权游》编剧）。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;北京时间8月5日凌晨，特斯拉公司在得州超级工厂召开了2022年度股东大会，会议代号Cyber Roundup。公司CEO埃隆·马斯克作年度总结，并回答了多个网络提问和现场观众提问。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;源视频：Tesla@yt 翻译及字幕：瓦砾村夫&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1303241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软抨击索尼砸钱阻止开发者将游戏上架Xbox Game Pass](https://hot.cnbeta.com/articles/game/1303211.htm) | Thu Aug 11 2022 4:51 AM 
+- 💂 [小鹏P7辅助驾驶追尾前车 有人被撞飞 现场监控视频流出](https://www.cnbeta.com/articles/tech/1303239.htm) | Thu Aug 11 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 8 月 9 日提交给巴西国家竞争监管机构 CADE 的一份葡萄牙语文件中，微软向索尼提起了严肃的指控 —— &lt;strong&gt;理由是随着该公司游戏订阅服务的持续增长，索尼采取了砸钱阻止开发者将其内容上架 Xbox Game Pass 等竞争平台的举措。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，有博主上传了一段小鹏P7高架追尾事故，引起网友热议。而事故现场的道路监控视频，恰好记录下了事故发生的恐怖一幕。&lt;strong&gt;被追尾的车辆不知因何原因，停在了高架桥的最左侧车道，两名驾乘人员均没有及时远离车辆，其中一名还走到了车尾。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《绝命毒师》制作人：曾试图开发电视剧改编游戏](https://hot.cnbeta.com/articles/game/1303209.htm) | Thu Aug 11 2022 4:42 AM 
+- 🚀 [你每日睡眠够吗？研究发现缺觉人胳膊大腿更粗](https://www.cnbeta.com/articles/science/1303237.htm) | Thu Aug 11 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《绝命毒师》系列制作人VinceGilligan 透露，他几年前曾试图推出过一款《绝命毒师》 游戏，并且可能部分受到了Rockstar 广受欢迎的《GTA》的启发。据 NME 报道，Gilligan在 Inside the Gilliverse 的一集中说：“我不是一个游戏玩家，但你不可能不知道《GTA》。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;妹子们怕了吗，如果休息不好睡眠不够，那么身形是要改变的，所以要特别注意了。总是睡不够身体会怎样？近日，一项研究发现，睡眠不足的人，腿、胳膊更“粗”。刊登在国际营养学杂志《Nutrients》上一项研究发现，“肥肉”长的地方，和睡眠时长有关。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [EA宣布 将与NFL续约多年独家电子竞技协议](https://hot.cnbeta.com/articles/game/1303207.htm) | Thu Aug 11 2022 4:34 AM 
+- 🎊 [魅族申请FLYME AUTO商标：Flyme真要上车了](https://www.cnbeta.com/articles/tech/1303235.htm) | Thu Aug 11 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在今年上半年，EA宣布与FIFA（国际足联）分道扬镳，NFL（美国国家橄榄球联盟）却一直与EA保持着良好的合作关系，即使EA并不是NFL电子游戏的独家合作伙伴。今日EA宣布将与NFL续约多年的独家电子竞技协议。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，&lt;strong&gt;珠海市魅族科技有限公司申请了多个“FLYME AUTO”商标，国际分类分别为交通工具、软件产品以及广告、销售、市场服务。&lt;/strong&gt;这一系列商标的申请，结合魅族昨天在官方论坛发起的关于手机与汽车互联互通系列功能需求的投票，&lt;strong&gt;不难让人看出，魅族确实计划将Flyme送上汽车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
