@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用ZooKeeper客户端原生API实现分布式配置中心](https://juejin.cn/post/7130546506796859400) | Thu Aug 11 2022 9:22 AM 
+- 🤗 [怎么获得身份证号的信息](https://juejin.cn/post/7130571748210114568) | Thu Aug 11 2022 11:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近，在做一个小需求，将身份证号，转化为具体的信息，籍贯、出生日期、性别。 随手写了个get-id-card-info 插件，没有任何依赖。 支持命令行和函数引用。 
+    </details> 
+
+- 🎡 [使用ZooKeeper客户端原生API实现分布式配置中心](https://juejin.cn/post/7130546506796859400) | Thu Aug 11 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 ZooKeeper集群主要是帮我们做分布式协调的，今天我们用zk实现 分布式配置 。 本文的实现方式所采 
     </details> 
 
-- 🎡 [SpringBoot 实战：国际化组件 MessageSource 的执行逻辑与源码](https://juejin.cn/post/7130535095353475103) | Thu Aug 11 2022 8:38 AM 
+- 🕯 [SpringBoot 实战：国际化组件 MessageSource 的执行逻辑与源码](https://juejin.cn/post/7130535095353475103) | Thu Aug 11 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
     配置文件 配置文件是基础，会影响执行逻辑，我们先来看下配置项： basename：加载资源的文件名，可以多个资源名称，通过逗号隔开，默认是“messages”； encoding：加载文件的字符集，默 
     </details> 
 
-- 🕯 [MyBatis-Plus逻辑删除和字段自动填充](https://juejin.cn/post/7130533663808176136) | Thu Aug 11 2022 8:33 AM 
+- 🚀 [MyBatis-Plus逻辑删除和字段自动填充](https://juejin.cn/post/7130533663808176136) | Thu Aug 11 2022 8:33 AM 
     <details><summary>展开描述 ...</summary> 
     一、ID生成策略 1、使用@TableId注解 @TableId注解：主键注解 使用位置：实体类主键字段。 2、全局ID生成策略 使用注解是针对一个POJO的。如果我们全局使用同样的 ID生成策略。那 
     </details> 
 
-- 🚀 [vue3 + quasar 弹窗的几种方式](https://juejin.cn/post/7130533455540486180) | Thu Aug 11 2022 8:32 AM 
+- 💪 [vue3 + quasar 弹窗的几种方式](https://juejin.cn/post/7130533455540486180) | Thu Aug 11 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
     文章目录 1. 鼠标悬浮时的提示（Quasar Tooltip组件） 2. 点击某按钮后出现自定义的弹窗 2.1 点击某按钮后出现自定义的弹窗（vue方法） 2.2 点击某按钮后出现自定义的弹窗（qu 
-    </details> 
-
-- 💪 [HiveServer2 报错 OutOfMemoryError 解决思路](https://juejin.cn/post/7130532885760573453) | Thu Aug 11 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天下午使用 datagrip 远程连接 hive 突然中断，无法连接，拒绝连接 看了一下 hiveserver2 日志 这是很明显的 OutOfMemoryError 问题 首先，排查集群虚机内存  
     </details> 
 <!-- juejin:END -->
 ### 少数派
