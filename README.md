@@ -122,29 +122,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第66期） : 如何把一个短链接生成工具变成一个可持续盈利的产品？](https://www.ezindie.com/weekly/issue-66) | Thu Aug 04 2022 12:00 AM 
+- 💂 [独立开发变现周刊（第67期） : 如何建立了一个年收入42万美元的业务，将播客转化为文章](https://www.ezindie.com/weekly/issue-67) | Fri Aug 12 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。如何建立了一个年收入42万美元的业务，将播客转化为文章 
+    </details> 
+
+- 💡 [独立开发变现周刊（第66期） : 如何把一个短链接生成工具变成一个可持续盈利的产品？](https://www.ezindie.com/weekly/issue-66) | Thu Aug 04 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。如何把一个短链接生成工具变成一个可持续盈利的产品？ 
     </details> 
 
-- 💡 [独立开发变现周刊（第65期） : 个人爱好发展成一项36万美元/年的NFTs业务](https://www.ezindie.com/weekly/issue-65) | Thu Jul 28 2022 12:00 AM 
+- 🌋 [独立开发变现周刊（第65期） : 个人爱好发展成一项36万美元/年的NFTs业务](https://www.ezindie.com/weekly/issue-65) | Thu Jul 28 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。个人爱好发展成一项36万美元/年的NFTs业务 
     </details> 
 
-- 🌋 [独立开发变现周刊（第64期） : 一套图标，6天6位数收入](https://www.ezindie.com/weekly/issue-64) | Fri Jul 22 2022 12:00 AM 
+- 🕴 [独立开发变现周刊（第64期） : 一套图标，6天6位数收入](https://www.ezindie.com/weekly/issue-64) | Fri Jul 22 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一套图标，6天6位数收入 
     </details> 
 
-- 🕴 [独立开发变现周刊（第63期） : 一个爬虫类产品，4个月做到月收入3000美元](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM 
+- 🎊 [独立开发变现周刊（第63期） : 一个爬虫类产品，4个月做到月收入3000美元](https://www.ezindie.com/weekly/issue-63) | Thu Jul 14 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个爬虫类产品，4个月做到月收入3000美元 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第62期） : 我是如何开发一个年收入30万美金的Vue.js开源组件库的？](https://www.ezindie.com/weekly/issue-62) | Fri Jul 08 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。我是如何开发一个年收入30万美金的Vue.js开源组件库的？ 
     </details> 
 <!-- easyindie:END -->
 
