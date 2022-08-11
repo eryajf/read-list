@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：三星、OPPO 召开新品发布会，新款 moto razr 售价公布等](https://sspai.com/post/75095) | Thu Aug 11 2022 12:32 AM 
+- 👹 [电增电的少数派，极氪 001 使用体验分享](https://sspai.com/post/75033) | Thu Aug 11 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    在经历了三个月的选车试驾后，我们提了极氪 001。作为少数的电车复购电车的车主，分享下我们的心路历程与用车体验。&lt;a href=&quot;https://sspai.com/post/75033&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：三星、OPPO 召开新品发布会，新款 moto razr 售价公布等](https://sspai.com/post/75095) | Thu Aug 11 2022 12:32 AM 
     <details><summary>展开描述 ...</summary> 
     Spotify 更新首页用户体验、Web 版 OneDrive 启用全新界面等。&lt;a href=&quot;https://sspai.com/post/75095&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一派·Podcast | 中元特辑：马来异闻和人间轶事](https://sspai.com/post/75061) | Wed Aug 10 2022 9:30 AM 
+- 🤭 [一派·Podcast | 中元特辑：马来异闻和人间轶事](https://sspai.com/post/75061) | Wed Aug 10 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     又到中元节了。我们邀请了老朋友大耳，从他在马来西亚工作期间经历的奇异见闻聊起，谈谈各种神秘轶事。&lt;a href=&quot;https://sspai.com/post/75061&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [找到写作者的位置：如何在满足自身创作欲时也让读者满意](https://sspai.com/post/75067) | Wed Aug 10 2022 8:13 AM 
+- 🥸 [找到写作者的位置：如何在满足自身创作欲时也让读者满意](https://sspai.com/post/75067) | Wed Aug 10 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
     我们创作欲的敌人不是「不自信」，而是对「面向自己写作」与「面向读者写作」这两个概念的混淆——该面向自己写的时候，念着别人；该面向别人去写的时候，觉得应该坚持自己。&lt;a href=&quot;https://sspai.com/post/75067&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [少一点用车的烦恼，多一分出行的便利：MaaS 是什么？](https://sspai.com/post/74977) | Wed Aug 10 2022 6:35 AM 
+- 🙉 [少一点用车的烦恼，多一分出行的便利：MaaS 是什么？](https://sspai.com/post/74977) | Wed Aug 10 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
     整合交通资源的 MaaS，让后疫情时代的「数字游民」也拥有自由移动的可能。&lt;a href=&quot;https://sspai.com/post/74977&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [iOS 16 Beta 5 中值得关注的新特性](https://sspai.com/post/75075) | Wed Aug 10 2022 3:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    变化不多，但也有值得关注的新内容。&lt;a href=&quot;https://sspai.com/post/75075&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
