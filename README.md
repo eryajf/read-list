@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [SavvyCal Meeting Polls - 100% 无广告组调度](https://xinquji.com/posts/178662?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:25 AM 
+- 👀 [Zuddl Studio - 制作、录制和流式传输工作室质量的视频内容](https://xinquji.com/posts/178675?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     100% 无广告组调度  
+     制作、录制和流式传输工作室质量的视频内容  
     </details> 
 
-- 🥷 [UXPin and NPM Integration - 构建您的开发人员会喜欢的交互式原型](https://xinquji.com/posts/178661?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:24 AM 
+- 🥷 [n8n Community Nodes - 轻松构建、共享和使用社区集成](https://xinquji.com/posts/178674?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     构建您的开发人员会喜欢的交互式原型  
+     轻松构建、共享和使用社区集成  
     </details> 
 
-- 💼 [XoForms by Xobin - 视频首次求职管理平台](https://xinquji.com/posts/178660?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:23 AM 
+- 💼 [SOU.BEST搜索神器 - 一键同时搜索19个平台的社交话题](https://xinquji.com/posts/178607?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     视频首次求职管理平台  
+     一键同时搜索19个平台的社交话题  
     </details> 
 
-- 🦅 [Pinxo 3D - 150+ 3D 令人惊叹的物体形状的集合](https://xinquji.com/posts/178659?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:21 AM 
+- 🦅 [Mellow for Google Sheets - 在几秒钟内将 Google 表格与您的电子商务商店同步](https://xinquji.com/posts/178673?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     150+ 3D 令人惊叹的物体形状的集合  
+     在几秒钟内将 Google 表格与您的电子商务商店同步  
     </details> 
 
-- 😺 [RyterAI - 面向小型企业和自由职业者的 AI 文案](https://xinquji.com/posts/178658?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:21 AM 
+- 😺 [Watch my logs! - 有助于调试应用程序的 PHP 日志监视器](https://xinquji.com/posts/178672?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     面向小型企业和自由职业者的 AI 文案  
+     有助于调试应用程序的 PHP 日志监视器  
     </details> 
 <!-- xinquji:END -->
