@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 刷单类电信网络诈骗案占全部电诈案四成；PyPI中发现新恶意Python库](https://www.freebuf.com/news/341525.html) | Wed Aug 10 2022 7:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    《云计算安全责任共担模型》行业标准已于2022年7月正式发布施行。 
+    </details> 
+
 - 🦄 [警惕！黑客正在从分类信息网站上窃取信用卡](https://www.freebuf.com/news/341511.html) | Wed Aug 10 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者还试图利用银行平台上的一次性有效密码（OTP）将资金直接转入其账户上。 
     </details> 
 
-- 🦄 [PyPI中发现新恶意Python库](https://www.freebuf.com/news/341509.html) | Wed Aug 10 2022 5:17 AM 
+- 🦅 [PyPI中发现新恶意Python库](https://www.freebuf.com/news/341509.html) | Wed Aug 10 2022 5:17 AM 
     <details><summary>展开描述 ...</summary> 
     Check Point的安全研究人员在Python软件包索引（PyPI）上发现了10个恶意软件包。 
     </details> 
 
-- 🦅 [CISA警告Windows和UnRAR漏洞在野被利用](https://www.freebuf.com/articles/341495.html) | Wed Aug 10 2022 2:56 AM 
+- 🪄 [CISA警告Windows和UnRAR漏洞在野被利用](https://www.freebuf.com/articles/341495.html) | Wed Aug 10 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
     近期美国网络安全和基础设施安全局 &lpar;CISA&rpar; 在其已知利用漏洞目录中增加了两个漏洞。其中一个已经在Windows支持诊断工具&lpar;MSDT&rpar;中作为零日漏洞了潜在了两年多的时间，并且它具有公开可用的漏洞利用代码。这两个安全问题的严重程度都很高，并且是目录遍历漏洞，可以帮助攻击者在目标系统上植入恶意软件。该漏洞编号为CVE-2022-34713，非正式地称为DogWalk，MSDT中的安全漏洞允许攻击者 
     </details> 
 
-- 🪄 [继Twilio后，Cloudflare员工也遭到了同样的钓鱼攻击](https://www.freebuf.com/news/341481.html) | Wed Aug 10 2022 2:39 AM 
+- 💻 [继Twilio后，Cloudflare员工也遭到了同样的钓鱼攻击](https://www.freebuf.com/news/341481.html) | Wed Aug 10 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
     有至少 76 名员工的个人或工作手机号码收到了钓鱼短信，一些短信也发送给了员工的家人。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 谷歌搜索遭遇全球性宕机；多家电商平台个人信息遭泄露](https://www.freebuf.com/news/341438.html) | Tue Aug 09 2022 9:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    据报道，美国有超过 4 万人报告无法使用谷歌搜索，还有英国、澳大利亚、新加坡的用户也都报告了谷歌宕机问题。 
     </details> 
 <!-- freebuf:END -->
 
