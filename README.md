@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [发霉啦：今天，我和男朋友一起骑山地车时摔断了脚踝](http://jandan.net/p/111125) | Thu Aug 11 2022 6:42 AM 
+- 🚀 [夏天越来越热 佛罗里达州过去四年孵化的海龟恐怕全是雌性](http://jandan.net/p/111115) | Thu Aug 11 2022 10:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    埋有卵的沙子温度会影响海龟的性别。 
+    </details> 
+
+- 🙉 [发霉啦：今天，我和男朋友一起骑山地车时摔断了脚踝](http://jandan.net/p/111125) | Thu Aug 11 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
     今天不是周五啊？FML 
     </details> 
 
-- 🙉 [罕见病例 生长在喉咙里的真菌](http://jandan.net/p/111094) | Thu Aug 11 2022 3:11 AM 
+- 🎉 [罕见病例 生长在喉咙里的真菌](http://jandan.net/p/111094) | Thu Aug 11 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     zsbd 
     </details> 
 
-- 🎉 [今日好价 0811](http://jandan.net/p/111124) | Thu Aug 11 2022 2:11 AM 
+- 🐲 [今日好价 0811](http://jandan.net/p/111124) | Thu Aug 11 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [哪怕是轮回宇宙，也需要一个起始点](http://jandan.net/p/111113) | Wed Aug 10 2022 3:57 PM 
+-  [哪怕是轮回宇宙，也需要一个起始点](http://jandan.net/p/111113) | Wed Aug 10 2022 3:57 PM 
     <details><summary>展开描述 ...</summary> 
     不适用于物理学家罗杰·彭罗斯的共形循环宇宙模型 
-    </details> 
-
--  [添加香蕉皮粉的烘焙曲奇，更健康也更好吃](http://jandan.net/p/111119) | Wed Aug 10 2022 9:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    把香蕉皮粉末与黄油、脱脂奶粉、糖粉、植物油和小麦粉混合在一起 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
