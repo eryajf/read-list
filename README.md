@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [10个人里就有1个网络主播 我国主播账号累计近1.4亿个](https://hot.cnbeta.com/articles/movie/1303111.htm) | Thu Aug 11 2022 1:40 AM 
+- 🕯 [《原神》正成为有史以来最昂贵游戏 将超星际公民](https://hot.cnbeta.com/articles/game/1303187.htm) | Thu Aug 11 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日，“2021-2022中国网络表演（直播）行业发展论坛”在北京举行，《中国网络表演（直播）行业发展报告（2021-2022）》《网络直播文艺生态报告》双报告同时发布。报告显示，2021年我国网络表演（直播）行业市场规模达1844.42亿元，具有网络表演&lpar;直播&rpar;经营资质的经营性互联网文化单位有7661家，其中2021年新增1641家。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;米哈游旗下大作《原神》推出近两年后，正在成为有史以来最昂贵的游戏。&lt;/strong&gt;《原神》是米哈游开发的最具野心的游戏，从长远来看，这会带来巨大的财务成本。《原神》推出后迅速成为移动端、主机和PC端上最受欢迎的抽卡游戏之一，并定期发布大型更新。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华为Mate 50四款新机齐曝光：7.2寸巨屏机皇或回归](https://www.cnbeta.com/articles/tech/1303109.htm) | Thu Aug 11 2022 1:38 AM 
+- 💼 [PS4生命周期销量达1.172亿台 史上第4热销主机](https://hot.cnbeta.com/articles/game/1303185.htm) | Thu Aug 11 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;既然iPhone 14是四款的话，那么华为Mate 50也是四款也不难吧，这样全方位对决是不是更直接一点呢？现在，网上又有消息称，华为可能会为Mate 50系列增加一款巨屏机皇，最终被冠以Mate 50X的称号，而系列其余三位成员分别是Mate 50、Mate 50 Pro和Mate 50 RS。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;PS4 基本上已经达到其生产生命周期的终点，因为索尼不再报告该游戏机的销售数据。最初于2013 年底推出，截至2022 年 3 月，PS4 的最终出货量为 1.172 亿台，这一令人印象深刻的数字使PS4 成为目前有史以来第四畅销的游戏机。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新一代丰田汉兰达纯燃油版上市：31.48万起](https://www.cnbeta.com/articles/tech/1303107.htm) | Thu Aug 11 2022 1:37 AM 
+- 💂 [《蜘蛛夫人》全新片场照曝光 夫人落水浑身湿透](https://hot.cnbeta.com/articles/movie/1303183.htm) | Thu Aug 11 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一般情况下，同一款车的混动版要比纯燃油版贵上数千甚至是几万，但你见过纯燃油卖得比混动贵的吗？8月10日，新一代丰田汉兰达380T车型正式上市，其搭载了一台2.0T燃油发动机，&lt;strong&gt;全系标配四驱，共推出3款，售价区间为31.48-34.48万元&lt;/strong&gt;，同时还加推了一款2.5L双擎混动四驱豪华版车型，售价为31.48万元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日外媒曝光了索尼漫改超级英雄新片《蜘蛛夫人》全新片场照，展示了达科塔·约翰逊和亚当·斯科特落水的戏份。&lt;/strong&gt;《蜘蛛夫人》是索尼的漫威角色宇宙中第一部以女性为主角的超英电影，由S·J·克拉克森执导，达科塔·约翰逊、西德妮·斯威尼、塞莱斯特·奥康纳等主演，定档于2023年10月6日在北美上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [神似华为Mate 40 鼎桥TD Tech M40高配版3599元起今日首销](https://www.cnbeta.com/articles/tech/1303105.htm) | Thu Aug 11 2022 1:33 AM 
+- 🚀 [2022年折叠屏智能手机出货量将达到1600万部，同比增长73%](https://www.cnbeta.com/articles/tech/1303181.htm) | Thu Aug 11 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;上周，鼎桥官方正式发布了TD Tech M40高配版，相比普通版带来了配置升级。&lt;/strong&gt;根据官方消息，该机将在今天上午10:08正式开售，提供两种存储版本可选，起售价3599元。据爆料，TD Tech M40高配版相比此前有两大升级点：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据Counterpoint Research最新的可折叠智能手机预测，可折叠设备仍然是今年增长最快的智能手机产品类别，今年全球可折叠智能手机市场将从去年的900万台增长73%至1600万台。对此，Counterpoint Research高级分析师 Jene Park表示，由于高端市场显示出弹性和稳定的需求，预计到2023年可折叠设备将增长到2600万台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Mawi推出能更快、更实时地跟踪心脏健康状况的贴片](https://www.cnbeta.com/articles/tech/1303103.htm) | Thu Aug 11 2022 1:32 AM 
+- 🎊 [恒驰5推十大购车权益：三年内6折回购、终身质保](https://www.cnbeta.com/articles/tech/1303179.htm) | Thu Aug 11 2022 2:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如果你曾经不幸需要持续的心电图监测，那么你可能已经使用过Holter监测仪。这就像带着一个20世纪80年代的金属制成的随身听，有一堆电线从它连接到你的胸部。如果这听起来很不舒服，而且在你需要带着它的两个星期里好像你无法睡觉或享受淋浴，那么Mawi Heart贴片的到来绝对是个福音。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，恒驰汽车宣布恒驰5正式上市，&lt;strong&gt;统一只有一款配置，售价17.9万元。&lt;/strong&gt;为了打消准车主的顾虑，恒驰这次还首创了公证处购车模式，预售订金、认购资金及尾款全部支付至天津市津滨公证处设立的专用账户，并接受公证处监管。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
