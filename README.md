@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果M1与AMD Zen架构处理器易受侧信道SQUIP攻击影响](https://www.cnbeta.com/articles/tech/1303205.htm) | Thu Aug 11 2022 3:46 AM 
+- 🕯 [《守望先锋联赛》队员Seo通过Twitter得知自己被Excelsior解雇](https://hot.cnbeta.com/articles/game/1303215.htm) | Thu Aug 11 2022 5:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;早前，安全研究人员发现了一个名为“SQUIP”、并且波及苹果 M1 和 AMD Zen 架构 CPU 的新漏洞。&lt;/strong&gt;SQUIP 是“调度器队列干扰探测”（Scheduler Queue Usage via Interference Probing）的缩写，该漏洞与 CPU 中的多调度程序队列有关，导致相关芯片易受侧信道 SQUIP 攻击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;被解雇从来不是一件让人感到轻松的事，但纽约“九霄天擎队”（Excelsior）队员 Sang-min“Myunb0ng”Seo 近日的遭遇，更是让一票圈内外人士感到费解。&lt;strong&gt;在推特上向另一位新队员发文表示欢迎后短短数小时，@NYExcelsior 竟然毫无预兆地发布了解雇 Seo 的官方公告。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究发现海棉通过“打喷嚏”来清理其水通道](https://www.cnbeta.com/articles/science/1303203.htm) | Thu Aug 11 2022 3:33 AM 
+- 💼 [乔治马丁：《权游》从第五季开始就没我啥事了](https://hot.cnbeta.com/articles/movie/1303213.htm) | Thu Aug 11 2022 5:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;化石证据显示，海绵可以追溯到6.5亿年前，这使得它们成为地球上最古老的动物之一。它们起初可能看起来是简单的生物，但海绵在许多水下生态系统中发挥着关键作用。它们通过体内的进水和出水通道网络来吸水，每天过滤多达数千升的海水。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;谈到《权力的游戏》最终季，至今仍有许多的剧迷对它的结局耿耿于怀。而近日在接受采访时，原作作者乔治·RR·马丁表示自己并未参与后期剧集的制作。乔治·RR·马丁称：“从第五季开始，第五第六第七第八季我几乎已经退出了。”而当被问及为什么会与剧集疏远的原因时，他表示：“我不知道为什么，这你得问丹和大卫（《权游》编剧）。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国人画师回应动视就《COD》皮肤抄袭致歉：敷衍了事](https://hot.cnbeta.com/articles/game/1303201.htm) | Thu Aug 11 2022 3:32 AM 
+- 💂 [微软抨击索尼砸钱阻止开发者将游戏上架Xbox Game Pass](https://hot.cnbeta.com/articles/game/1303211.htm) | Thu Aug 11 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;之前我们报道了动视致歉《使命召唤：先锋》新皮肤抄袭国人画师Sail_lin的作品。然而事情并没有这么简单，Sail_lin微博回应动视道歉一事，称其并非通过官方媒体发布致歉声明，而是让一个COD资讯的推特账号代发，敷衍了事。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在 8 月 9 日提交给巴西国家竞争监管机构 CADE 的一份葡萄牙语文件中，微软向索尼提起了严肃的指控 —— &lt;strong&gt;理由是随着该公司游戏订阅服务的持续增长，索尼采取了砸钱阻止开发者将其内容上架 Xbox Game Pass 等竞争平台的举措。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [快递加盟商生存实录：有人三年亏损360万，依然在坚持](https://www.cnbeta.com/articles/tech/1303199.htm) | Thu Aug 11 2022 3:29 AM 
+- 🚀 [《绝命毒师》制作人：曾试图开发电视剧改编游戏](https://hot.cnbeta.com/articles/game/1303209.htm) | Thu Aug 11 2022 4:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“疫情开始第一年亏了260多万，第二年亏了不到100万，去年也有几十万的亏损。”&lt;strong&gt;叶长林是北京中关村快递网点负责人，每天有近3万单快递从这里分派到附近小区里的住户。鲜有人知道，他们已经连续三年处于亏损状态。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《绝命毒师》系列制作人VinceGilligan 透露，他几年前曾试图推出过一款《绝命毒师》 游戏，并且可能部分受到了Rockstar 广受欢迎的《GTA》的启发。据 NME 报道，Gilligan在 Inside the Gilliverse 的一集中说：“我不是一个游戏玩家，但你不可能不知道《GTA》。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Unity新版引擎技术演示狮子 大小狮子形象栩栩如生](https://hot.cnbeta.com/articles/game/1303197.htm) | Thu Aug 11 2022 3:27 AM 
+- 🎊 [EA宣布 将与NFL续约多年独家电子竞技协议](https://hot.cnbeta.com/articles/game/1303207.htm) | Thu Aug 11 2022 4:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日Unity Technologies分享了一个名为“狮子”的Unity新版引擎即时演算技术演示，该技术演示使用了Unity新版诸多新功能，展现了逼真的画面。Unity Technologies使用高清渲染通道技术&lpar;HDRP&rpar;制作了这个演示Demo。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在今年上半年，EA宣布与FIFA（国际足联）分道扬镳，NFL（美国国家橄榄球联盟）却一直与EA保持着良好的合作关系，即使EA并不是NFL电子游戏的独家合作伙伴。今日EA宣布将与NFL续约多年的独家电子竞技协议。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
