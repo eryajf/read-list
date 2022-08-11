@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Pinata获得1800万美元A轮融资 专注发展NFT媒体基础设施](https://www.cnbeta.com/articles/tech/1303321.htm) | Thu Aug 11 2022 8:15 AM 
+- 🕯 [苹果正在打击违规分享iOS 16开发者测试版软件的网站](https://www.cnbeta.com/articles/tech/1303347.htm) | Thu Aug 11 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Pinata 联合创始人兼 CEO Kyle Tut 在接受外媒采访时称，&lt;strong&gt;在 2021 年拿到了 350 万美元的种子轮融资后，这家成立已有四年的初创企业，最近又完成了 1800 万美元的 A 轮融资。&lt;/strong&gt;前者由 Greylock 和 Offline Ventures 共同领投，A 轮则是 Greylock 和 Pantera，其它投资者包括 Volt Capital、OpenSea、以及 Alchemy 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在今年 6 月的 WWDC 2022 全球开发者大会期间，苹果面向 Apple Developer 社区成员放出了 iOS 16 和其它新软件的开发者测试版本。&lt;strong&gt;尽管官方表示 Beta 测试用户要等到 7 月才能试用 iOS 16，但一些网站还是分享了特殊的安装方式。&lt;/strong&gt;然而最新消息称，苹果正在对这些分享网站重拳出击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [FydeOS V15上线 优化系统引导体验并支持直接解压缩打包文件](https://www.cnbeta.com/articles/soft/1303319.htm) | Thu Aug 11 2022 8:13 AM 
+- 💼 [快手自研芯片进入流片阶段，规模化落地仍需时日](https://www.cnbeta.com/articles/tech/1303345.htm) | Thu Aug 11 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;感谢&lt;a href=&quot;https://www.fydeos.com&quot; target=&quot;_blank&quot;&gt;FydeOS&lt;/a&gt;的投递&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;这次 FydeOS v15 着实让大家久等了！在这一次里程碑更新中，最值得一提的有：Chromium 浏览器升级至 102.0.5005.*；Chromium OS 平台更新到了 14695.91.15.*。同步了上游所有关于浏览器和操作系统平台的新特性。这其中可以明显察觉到的有：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1303319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;快手近日推出自研SoC芯片SL200，目前已进入内测阶段。这一芯片是快手加强云端智能视频处理能力的重要一步。&lt;/strong&gt;采访中，快手高级副总裁、Streamlake业务负责人于冰对第一财经记者表示，StreamLake是一个快手独立业务部门，跟主业务既有关联，又是比较独立的面向B端做技术赋能的To B业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel公布A750次旗舰50款游戏性能：骑脸输出RTX 3060](https://www.cnbeta.com/articles/tech/1303317.htm) | Thu Aug 11 2022 8:12 AM 
+- 💂 [Google Images网站现可使用Google Lens进行搜索](https://www.cnbeta.com/articles/tech/1303343.htm) | Thu Aug 11 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel的Arc游戏卡已经有千元级的A380上市，接下来还会推出更高端的Arc 5及Arc 7系列，其中A750是仅次于A770的次旗舰显卡。&lt;strong&gt;之前Intel透露了部分性能，这次索性公布了50款游戏实测结果，在1080p、2K等分辨率下可以骑脸输出RTX 3060了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在Android和Chrome浏览器中整合之后，Google Lens现在是桌面Google Images搜索网站上的主要视觉搜索体验。&lt;/strong&gt;在桌面网页上访问images.google.com现在会在语音和常规搜索之间显示Google Lens。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小鹏汽车回应P7高架撞人致死：辅助驾驶不能识别哪些障碍物？](https://www.cnbeta.com/articles/tech/1303315.htm) | Thu Aug 11 2022 8:11 AM 
+- 🚀 [Google为Pixel举办壁纸比赛 获胜者免费得一台Pixel 6](https://www.cnbeta.com/articles/tech/1303341.htm) | Thu Aug 11 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日，一辆小鹏P7发生事故，致一人死亡和两车损坏。驾驶员称车在撞击前没有发出任何警告。 对此，小鹏回复：会全力配合相关部门进行事故调查。根据视频显示，在宁波某高架桥路段，一辆抛锚的故障车停在最左侧车道，车主疑似正在后备箱处理着什么，然后一辆小鹏 P7 快速驶来，在没有减速的情况下径直装上故障车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Google 正在举办一场壁纸比赛，获胜者将免费获得一台 Pixel 6。&lt;/strong&gt;不过本次活动仅限于澳大利亚、加拿大（不包括魁北克）、日本、中国台湾、英国和美国，需要为 Pixel 6 系列或者后续型号来创建壁纸。也就是说，背景必须包含 Pixel 6、6 Pro 和 6a 以及未来的 Pixel 7 和 7 Pro 上的居中前置摄像头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [小鹏智能驾驶致命车祸：高速撞向静止车辆 光线良好 系统里里外外失效](https://www.cnbeta.com/articles/tech/1303313.htm) | Thu Aug 11 2022 8:09 AM 
+- 🎊 [谷歌工程师通过优化信息内容片段而提升搜索结果质量](https://www.cnbeta.com/articles/tech/1303339.htm) | Thu Aug 11 2022 8:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一起严重的智能驾驶直接相关事故，刚刚被证实。高速道路上，据说是道路检修车停在高速左侧车道上，而另一辆开启智能驾驶的车辆完全识别失败，没有任何减速动作以80km/h的速度撞了上去。而且是在白天光线良好，路况良好的情况下。&lt;strong&gt;令人痛心的是，事故发生瞬间，抛锚车车主正站在车尾，猝不及防被后车正面夹击冲撞：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在周四的一篇博客文章中，&lt;strong&gt;谷歌研究员兼搜索副总裁 Pandu Nayak，谈到了该团队如何帮助用户找到更高质量信息的新方法。&lt;/strong&gt;据悉， 尽管 Google 搜索本意通过特色信息片段（Featured Snippets）来增强用户体验，但它也会在有些时候帮倒忙 —— 比如助长虚假信息在搜索文本框下的传播。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
