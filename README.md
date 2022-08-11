@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [受益于通胀降温 苹果公司股价7月重抬升势](https://www.cnbeta.com/articles/tech/1303411.htm) | Thu Aug 11 2022 2:12 PM 
+- 🕯 [Pew:YouTube成为首选社交平台 使用Facebook的青少年人数骤减](https://www.cnbeta.com/articles/tech/1303427.htm) | Thu Aug 11 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p style=&quot;text-align: left;&quot;&gt;当地时间8月10日，据彭博社报道，由于7月美国消费者物价指数显示增长速度较前一个月有所下降后，投资者纷纷回购股票，押注美联储可能会缩减未来加息的幅度。受此影响，苹果股价涨幅达2.4%，每股升至168.83美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你还记得Facebook取代MySpace成为每个人都使用的很酷的社交媒体平台的时候吗？这一幕熟悉的场景可能正在重新上演。有关于Facebook的坏消息来自皮尤研究中心的一项调查。它询问了1316名年龄在13至17岁之间的美国青少年的上网习惯，发现他们中只有32%的人使用Facebook应用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Telegram CEO抱怨苹果App Store无故拖延更新](https://www.cnbeta.com/articles/tech/1303409.htm) | Thu Aug 11 2022 2:11 PM 
+- 💼 [用于新款MacBook Pro和Air的垂直支架扩展坞Brydge ProDock开始预购](https://www.cnbeta.com/articles/tech/1303425.htm) | Thu Aug 11 2022 2:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Telegram首席执行官帕威尔·杜罗夫称，苹果公司一直在拖延该应用的App Store更新，该更新将&amp;quot;彻底改变人们在信息传递中的表达方式&amp;quot;。杜罗夫在周四的Telegram消息中说，即将到来的更新已经在苹果的审查过程中停留了两个星期，而苹果方面没有对这一拖延作出任何解释。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303409.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Brydge ProDock是用于MacBook Pro和M2 MacBook Air的垂直放置支架+Thunderbolt 4坞站现在可以预购，价格为399.99美元。这款新发售的的扩展坞提供10个端口，包含兼容的MagSafe充电器，可提供135W电源，可以直接给受支持的MacBook型号供电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [抢先特斯拉 雷军发布小米全尺寸人形仿生机器人“铁大”](https://www.cnbeta.com/articles/tech/1303407.htm) | Thu Aug 11 2022 2:07 PM 
+- 💂 [1小时4元？共享单车为何频频涨价？](https://www.cnbeta.com/articles/tech/1303423.htm) | Thu Aug 11 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;赶在马斯克前（之前已经多次表示9月份特斯拉也要推出这个产品），雷军今晚带来了小米全新的产品--仿生机器人，真的是酷炫十足。&lt;/strong&gt;小米首款全尺寸人形仿生机器人CyberOne看点不少，内部昵称“铁大”，身高177厘米，体重52公斤，可对真实世界三维虛拟重建（自研Mi-Sense深度视觉模组，结合AI算法，提供完整的三维空间感知能力，看得到也看得懂），“小脑”发达、可实现双足运动姿态平衡，四肢强健、动力峰值扭矩300Nm等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月10日晚间，美团单车上调了单车骑行畅骑卡的无折扣价格，这一举动引发市场的关注。美团共享单车的计价规则是起步价15分钟以内1.5元。周三23:00，美团共享单车进行了畅骑卡的无折扣卡的调价，分别将7天、30天和90天调整为15元、35元和90元，实际支付的价格要根据每个城市和用户的优惠券不同来决定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [损失超1440万 熊猫代工坑惨乐视超级电视](https://www.cnbeta.com/articles/tech/1303405.htm) | Thu Aug 11 2022 2:05 PM 
+- 🚀 [《瑞克和莫蒂》第六季宣传片 9月4日正式播映](https://hot.cnbeta.com/articles/comic/1303421.htm) | Thu Aug 11 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日，乐视超级电视突然向代工厂南京中电熊猫家电有限公司“发难”，指责其制造的43、F43、F55型号电视频频出现屏幕横线、竖线、漏液等问题，&lt;a class=&quot;f14_link&quot; href=&quot;https://news.mydrivers.com/1/851/851592.htm&quot; target=&quot;_blank&quot;&gt;故障率最高达20％&lt;/a&gt;，但不仅没有改善生产质量，还拒绝支付相关售后费用，甚至工厂即将关闭都未通知乐视。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《瑞克和莫蒂》第六季公开一段宣传动画，该片预计在9月9月4日正式播映，敬请期待！《瑞克和莫蒂》是由Justin Roiland和Dan Harmon为卡通网络深夜节目Adult Swim创作的美国成人动画科幻情景喜剧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1303421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [雷军：小米汽车100％自研自动驾驶 先砸它33个亿](https://www.cnbeta.com/articles/tech/1303403.htm) | Thu Aug 11 2022 2:03 PM 
+- 🎊 [2022年雷军度演讲全文：穿越人生低谷的感悟](https://www.cnbeta.com/articles/tech/1303419.htm) | Thu Aug 11 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;年度演讲&amp;amp;新品发布会行将结束之际，雷军带来了One More Thing——小米造车最新进展！&lt;strong&gt;从小米官宣进入电动汽车开始，已经过去了整整500天。&lt;/strong&gt;雷军表示期间学到了很多，也认识到造车急不得，希望大家耐心给予小米一点时间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天晚上，我进行了我的第三场年度演讲，用了大约3个小时，和大家分享了在我创办小米之前，人生中多次经历的挫折与迷茫，以及穿越低谷过程中的一些感悟。2010年，我创办了小米公司。这12年里，同样经历了无数的困难，今天，12周岁的小米，依然会和大家一起，始终保持对这个世界的热爱。&lt;strong&gt;人生很长，无论如何，让我们保持信念，永远相信美好的事情即将发生。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
