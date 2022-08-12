@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Fluent Emoji - 来自微软的 1500 个 3D 开源表情符号](https://xinquji.com/posts/178701?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:29 AM 
+- 👀 [TrellOKR by ConectoHub - 将 Trello 卡片与关键业务指标和公司目标相关联](https://xinquji.com/posts/178702?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:31 AM 
+    <details><summary>展开描述 ...</summary> 
+     将 Trello 卡片与关键业务指标和公司目标相关联  
+    </details> 
+
+- 🥷 [Fluent Emoji - 来自微软的 1500 个 3D 开源表情符号](https://xinquji.com/posts/178701?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
      来自微软的 1500 个 3D 开源表情符号  
     </details> 
 
-- 🥷 [FlipClock 2.0 - 它不仅仅是一个时钟](https://xinquji.com/posts/178700?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:26 AM 
+- 💼 [FlipClock 2.0 - 它不仅仅是一个时钟](https://xinquji.com/posts/178700?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
      它不仅仅是一个时钟  
     </details> 
 
-- 💼 [Streamle - 每天在最喜欢的流媒体服务上查找可观看的内容](https://xinquji.com/posts/178699?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:24 AM 
+- 🦅 [Streamle - 每天在最喜欢的流媒体服务上查找可观看的内容](https://xinquji.com/posts/178699?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
      每天在最喜欢的流媒体服务上查找可观看的内容  
     </details> 
 
-- 🦅 [Abridge - 只需点击几下即可从亚太地区发货](https://xinquji.com/posts/178698?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:22 AM 
+- 😺 [Abridge - 只需点击几下即可从亚太地区发货](https://xinquji.com/posts/178698?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
      只需点击几下即可从亚太地区发货  
-    </details> 
-
-- 😺 [Literal 2.0 - 发现、整理和讨论书籍](https://xinquji.com/posts/178697?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:22 AM 
-    <details><summary>展开描述 ...</summary> 
-     发现、整理和讨论书籍  
     </details> 
 <!-- xinquji:END -->
