@@ -348,14 +348,14 @@
     Sophos X-Ops在报告中称某汽车供应商的系统在5月的两周内被三个不同的勒索软件团伙入侵。 
     </details> 
 
-- 🪄 [思科证实被勒索攻击，泄露数据2.8GB](https://www.freebuf.com/news/341607.html) | Thu Aug 11 2022 3:21 AM 
+- 🪄 [Gartner发布2022新兴技术成熟曲线](https://www.freebuf.com/news/341629.html) | Thu Aug 11 2022 5:05 AM 
     <details><summary>展开描述 ...</summary> 
-    思科证实，Yanluowang勒索软件集团在今年5月下旬入侵了公司网络，攻击者试图以泄露被盗数据威胁索要赎金。 
+    不断发展/扩展沉浸式体验、加速人工智能自动化和优化技术专家交付。 
     </details> 
 
-- 💻 [深入调查揭秘钓鱼邮件背后的故事](https://www.freebuf.com/articles/neopoints/341606.html) | Thu Aug 11 2022 3:19 AM 
+- 💻 [FreeBuf早报 | 新的暗网市场声称与犯罪卡特尔有关；思科被燕洛网勒索软件团伙黑](https://www.freebuf.com/articles/341613.html) | Thu Aug 11 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
-    共同探讨”钓鱼邮件背后的故事”中解密在钓鱼邮件后隐藏的惊天玩法。 
+    一家汽车供应商的系统在 5 月的两周内被三个不同的勒索软件团伙破坏并加密了文件。 
     </details> 
 <!-- freebuf:END -->
 
