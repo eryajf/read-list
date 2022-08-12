@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从 Islands Architecture 看前端有多卷](https://juejin.cn/post/7130790357553381389) | Fri Aug 12 2022 1:08 AM 
+- 🤗 [设置css渐变](https://juejin.cn/post/7130809502604984328) | Fri Aug 12 2022 2:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    自动生成渐变颜色的网站 在线生成CSS渐变色工具 &lpar;lingdaima.com&rpar; CSS实现渐变色边框（Gradient borders）的5种方法 - 掘金 &lpar;juejin.cn&rpar; 
+    </details> 
+
+- 🎡 [1282. 用户分组 : 简单哈希表模拟题](https://juejin.cn/post/7130795522087993352) | Fri Aug 12 2022 1:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 题目描述 这是 LeetCode 上的 1282. 用户分组 ，难度为 中等。 Tag : 「哈希表」、 
+    </details> 
+
+- 🕯 [pnpm 的 workspace 实现 monorepo 工程](https://juejin.cn/post/7130791628981141512) | Fri Aug 12 2022 1:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    前端多个包管理的的方式一般都是采用`monorepo`的方式去管理，之前都是使用的`lerna`的workspace去管理。这段时间包管理切换到了`pnpm`上，它也有worksapce。 
+    </details> 
+
+- 🚀 [从 Islands Architecture 看前端有多卷](https://juejin.cn/post/7130790357553381389) | Fri Aug 12 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我卡颂。 最近，Remix团队的暴躁老哥Ryan Florence一连怼了好几个友商框架，比如： 喷SolidStart抄Remix的文档 怼Next.js抄Remix的API设计 吐槽Ast 
     </details> 
 
-- 🎡 [使用ZooKeeper原生API实现分布式锁](https://juejin.cn/post/7130784186599735326) | Fri Aug 12 2022 12:45 AM 
+- 💪 [elasticsearch集群运维监控优化及故障恢复（七）](https://juejin.cn/post/7130788893414129678) | Fri Aug 12 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 分布式锁的引入 一个很典型的秒杀场景，或者说并发量非常高的场景下，对商品库存的操作，我用一个Spring 
-    </details> 
-
-- 🕯 [🎉Vue3+Vite2.6+TypeScript+ant-design-vue+egg.js 一键构建管理前后台管理系统](https://juejin.cn/post/7130781395483361287) | Fri Aug 12 2022 12:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    Bag快速开发管理系统、门户网站、博客系统框架，提供基础的框架，快速搭建企业产品，响应式开发，你可以将它应用在任何需要服务端管理的应用。如：开发管理系统的 API 接口、门户网站博客、企业内部的业务管 
-    </details> 
-
-- 🚀 [微服务概念](https://juejin.cn/post/7130778944046891021) | Fri Aug 12 2022 12:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为一名有经验的技术人员，相信我们在日常的开发过程中、或者是技术交流的过程中，是很容易听见微服务这个名词的，但是什么是微服务呢？ 
-    </details> 
-
-- 💪 [入门前端那时，收集了一些问题，还有踩过的坑](https://juejin.cn/post/7130766168008163341) | Thu Aug 11 2022 11:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 css 设置div宽高比1:2 判断两个小数是否相等 用等于号是肯定不行的。判断两个小数是否相等要用它们 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 elasticsearch集群运维监控优化及故障恢复（七） 
     </details> 
 <!-- juejin:END -->
 ### 少数派
