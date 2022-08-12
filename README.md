@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ecarts 饼状图鼠标悬浮放大](https://juejin.cn/post/7130828784600776734) | Fri Aug 12 2022 3:38 AM 
+- 🤗 [解析 Golang 测试（4）- 一篇文章教你分清 Mock，Stub，Fake](https://juejin.cn/post/7130831772916383774) | Fri Aug 12 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-    ecarts 饼状图鼠标悬浮放大 起因是，同事写了一个饼图，数据展示完全没问题，但是鼠标悬浮，不是放大，反而缩小了。这和我们的ui不一样，所以在找了一系列的资料后，终于发现在哪里改。 下面附上之前写的 
+    日常开发中，我们经常遇到各种【替代对象】的叫法，mock，stub，fake，dummy，很多时候区分不开到底哪个是哪个，今天这篇文章，我们就来看看这些概念，以及 Test Double 如何区分。 
     </details> 
 
-- 🎡 [用一个示例入门solidity编程语言](https://juejin.cn/post/7130630010934657055) | Thu Aug 11 2022 2:47 PM 
+- 🎡 [一起学习搭建react+webpack+ts框架啊！！！&lpar;二&rpar;](https://juejin.cn/post/7130814408170995720) | Fri Aug 12 2022 2:42 AM 
     <details><summary>展开描述 ...</summary> 
-    `deposit`是一个方法，表示存钱。这里首先需要我们关注的是`payable`这个关键字。被这个关键字修饰的方法可以在调用的时候接收ETH。这个方法的首先检查发送的ETH值要必须大于0，然后更新余 
+    React项目框架搭建 css modules模块及sass配置 eslint、prettier代码规范配置 webpack5打包优化 
     </details> 
 
-- 🕯 [【LeetCode周赛】LeetCode第286场周赛题解](https://juejin.cn/post/7130629372448342053) | Thu Aug 11 2022 2:44 PM 
+- 🕯 [文件和目录操作|多进程和多线程【python进阶篇】](https://juejin.cn/post/7130536884148633636) | Thu Aug 11 2022 8:45 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情。【LeetCode周赛】LeetCode第286场周赛题解 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 创建目录 操作系统。MakeDir可以递归地创建目录结构，例如 导入操作系统 将在当前工作目录下创建TM 
     </details> 
 
-- 🚀 [RocketMQ源码解析-消息是如何写入Broker服务器&lpar;客户端篇&rpar;](https://juejin.cn/post/7130625397443543070) | Thu Aug 11 2022 2:29 PM 
+- 🚀 [解析 Golang 测试（3）- goconvey 实战](https://juejin.cn/post/7130533292310265886) | Thu Aug 11 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文件主要是介绍一条普通的消息时如何写入到Broker服务器的。 消息的写入在Producer生产者经历了哪些步骤，会以源码的方式解读 
+    goconvey 是一套单元测试框架，比原生的go testing 好用很多。goconvey提供了很多好用的功能，如 多层级嵌套单测，丰富的断言，清晰的单测结果，支持原生go test。 
     </details> 
 
-- 💪 [入坑机器学习：六，逻辑回归](https://juejin.cn/post/7130571832490459143) | Thu Aug 11 2022 11:01 AM 
+- 💪 [10分钟在服务器部署好Jenkins](https://juejin.cn/post/7130532862868062244) | Thu Aug 11 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
-    ​携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 目录 一，分类问题： 二，假设表示： 三，判定边界： 四，代价函数： 五，简化的成本函数和梯度下降 六 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 &gt;&gt; Linux安装Jenkins 哈喽，大家好，我是一条。 这是 DevOps 相关的第一篇文章，准确 
     </details> 
 <!-- juejin:END -->
 ### 少数派
