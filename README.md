@@ -104,11 +104,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 217 期）：沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html) | Fri Aug 05 2022 12:15 AM
-- 💪 [DNS 查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html) | Tue Aug 02 2022 11:42 AM
-- 🐎 [科技爱好者周刊（第 216 期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html) | Fri Jul 29 2022 12:13 AM
-- 🤔 [能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html) | Wed Jul 27 2022 12:54 AM
-- 🧠 [科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html) | Fri Jul 22 2022 12:19 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html) | Fri Aug 12 2022 12:12 AM
+- 💪 [科技爱好者周刊（第 217 期）：沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html) | Fri Aug 05 2022 12:15 AM
+- 🐎 [DNS 查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html) | Tue Aug 02 2022 11:42 AM
+- 🤔 [科技爱好者周刊（第 216 期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html) | Fri Jul 29 2022 12:13 AM
+- 🧠 [能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html) | Wed Jul 27 2022 12:54 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
