@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Zuddl Studio - 制作、录制和流式传输工作室质量的视频内容](https://xinquji.com/posts/178675?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:45 AM 
+- 👀 [Fluent Emoji - 来自微软的 1500 个 3D 开源表情符号](https://xinquji.com/posts/178701?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     制作、录制和流式传输工作室质量的视频内容  
+     来自微软的 1500 个 3D 开源表情符号  
     </details> 
 
-- 🥷 [n8n Community Nodes - 轻松构建、共享和使用社区集成](https://xinquji.com/posts/178674?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:42 AM 
+- 🥷 [FlipClock 2.0 - 它不仅仅是一个时钟](https://xinquji.com/posts/178700?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     轻松构建、共享和使用社区集成  
+     它不仅仅是一个时钟  
     </details> 
 
-- 💼 [SOU.BEST搜索神器 - 一键同时搜索19个平台的社交话题](https://xinquji.com/posts/178607?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:40 AM 
+- 💼 [Streamle - 每天在最喜欢的流媒体服务上查找可观看的内容](https://xinquji.com/posts/178699?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     一键同时搜索19个平台的社交话题  
+     每天在最喜欢的流媒体服务上查找可观看的内容  
     </details> 
 
-- 🦅 [Mellow for Google Sheets - 在几秒钟内将 Google 表格与您的电子商务商店同步](https://xinquji.com/posts/178673?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:40 AM 
+- 🦅 [Abridge - 只需点击几下即可从亚太地区发货](https://xinquji.com/posts/178698?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     在几秒钟内将 Google 表格与您的电子商务商店同步  
+     只需点击几下即可从亚太地区发货  
     </details> 
 
-- 😺 [Watch my logs! - 有助于调试应用程序的 PHP 日志监视器](https://xinquji.com/posts/178672?utm_campaign=xinquji-rss) | Fri Aug 12 2022 6:38 AM 
+- 😺 [Literal 2.0 - 发现、整理和讨论书籍](https://xinquji.com/posts/178697?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     有助于调试应用程序的 PHP 日志监视器  
+     发现、整理和讨论书籍  
     </details> 
 <!-- xinquji:END -->
