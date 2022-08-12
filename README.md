@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [被谷歌地图导航带偏路线 澳大利亚一家人自称差点丧命](https://www.cnbeta.com/articles/tech/1303693.htm) | Fri Aug 12 2022 6:19 AM 
+- 🕯 [新报告预测旺盛的电动汽车需求或推动锂市场到2030年翻一番](https://www.cnbeta.com/articles/tech/1303745.htm) | Fri Aug 12 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;驾车出行，导航就成为了最值得信任的“朋友”，但如果导航出现问题，轻则浪费时间绕路，重则危及人身安全。近日，据报道，澳大利亚新威尔士州警方透露，&lt;strong&gt;他们于8月9日接到了一则报警，称有一家人驾车出行不久后，便失去了联系。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在 Q2 财季电话会议上，福特首席执行官 Jim Farley 表示：“我们正以尽可能快的速度去销售电动汽车”。&lt;strong&gt;Electrek 指出，该公司计划到 2023 年底实现 60 万辆电动汽车的制造，并于 2026 年达成 200 万辆的目标。&lt;/strong&gt;然而在向电气化转型的雄心壮志面前，传统燃油车企仍有难以绕开的电池供应链难题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [外卖最后100米“提速” 部分区域试水收费](https://www.cnbeta.com/articles/tech/1303691.htm) | Fri Aug 12 2022 6:16 AM 
+- 💼 [小鹏P7发生致命车祸  辅助驾驶缘何频频出事](https://www.cnbeta.com/articles/tech/1303743.htm) | Fri Aug 12 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;外卖已成为堂食的重要补充部分，而近几年受疫情影响，人们的工作、生活方式也随之改变，无接触配送成为常态。与此同时，为避免外卖无序摆放、满足消费者多元化需求，智能取餐柜作为外卖服务“最后100米”的重要补充应运而生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月10日下午，&lt;strong&gt;一辆小鹏P7在宁波机场路高架（自南往北方向）撞上了一辆前方停放的小车和该车驾驶员，造成小车司机不幸死亡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [驾驶证换证无需再提交纸质体检证明 在线即可操作](https://www.cnbeta.com/articles/tech/1303689.htm) | Fri Aug 12 2022 6:15 AM 
+- 💂 [柳暗花明又一村：中国移动2022H1营收、利润均实现双位数增长](https://www.cnbeta.com/articles/tech/1303739.htm) | Fri Aug 12 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;驾驶证到期需要更换，但更换过程还是有些麻烦，之前需要到指定医院进行体检，然后拿着纸质体检报告现场办理才行。北京交管部门持续在群众办事的申请材料、环节、流程上做“减法”，针对驾驶证期满换证业务中的不便之处，&lt;strong&gt;积极推进体检信息网上传输，纸质身体条件证明免提交&lt;/strong&gt;，进一步方便市民朋友在线办理驾驶证期满换证业务，节约群众出行时间，提升窗口服务效能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国移动昨日发布上半年财报。数据显示，2022年上半年，中国移动营运收入达到4969亿元，同比增长12.0%，继续保持双位数增速。其中，通信服务收入达到4264亿元，同比增长8.4%；股东应占利润为703亿元，同比增长18.9%，盈利能力继续保持国际一流运营商领先水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [知名网络安全记者警告关键基础设施仍面临重大攻击威胁](https://www.cnbeta.com/articles/tech/1303687.htm) | Fri Aug 12 2022 6:12 AM 
+- 🚀 [福布斯中国发布2022中国创新力企业50强，新能源赛道18家企业入选](https://www.cnbeta.com/articles/tech/1303737.htm) | Fri Aug 12 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在拉斯维加斯举办的黑帽大会上，调查记者 Kim Zetter 表示：&lt;strong&gt;自 2010 年发现“震网”（Stuxnet）蠕虫病毒以来，针对全球石油 / 天然气管道、电力 / 水厂、以及其它基础设施计算机系统的攻击有急剧增加。&lt;/strong&gt;但若人们能够积极落实必要的预防措施，去年针对 Colonial Pipeline 的勒索软件攻击，也本该是能够避免的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在今年入选的50家公司中，来自新能源相关领域的企业占比最高，共有18家。&lt;/strong&gt;宁德时代是唯一一家连续5年入选的公司。全球跌宕、奔腾的又一个20年代，那些正在穿越周期的创新公司再次向我们诠释：进步就是波动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [卡普空大佬小林裕幸加入网易 曾开发《鬼泣4》《生化危机4》等游戏](https://hot.cnbeta.com/articles/game/1303685.htm) | Fri Aug 12 2022 6:11 AM 
+- 🎊 [清华黑科技登Science子刊封面：圆管上贴个膜，秒变3D复杂结构](https://www.cnbeta.com/articles/science/1303735.htm) | Fri Aug 12 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日，知名游戏制作人小林裕幸发布声明，自己已于2022年3月31日从工作了27年的卡普空离职，将加入网易游戏继续担任游戏制作人，具体规划会在未来发布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;要把复杂3D零件装在曲面上，怎么装最方便？清华团队新研究登上Science子刊在工业实践中，零件和电子设备的装配，是复杂机械设备正常运转的关键环节&lt;/strong&gt;。过去，这些部件装配的基板以平面为主，少数曲面装配的零件，也多半仅限于简单结构，而且不好改装。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
