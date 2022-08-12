@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《FIFA 23》仍有开箱系统 EA表示不会强迫玩家氪金](https://hot.cnbeta.com/articles/game/1303659.htm) | Fri Aug 12 2022 4:18 AM 
+- 🕯 [Epic预告《龙珠》人气角色即将于8月16日加入《堡垒之夜》](https://hot.cnbeta.com/articles/game/1303665.htm) | Fri Aug 12 2022 5:05 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;长盛不衰的《堡垒之夜》游戏，刚刚迎来了最新的跨界角色联动 —— 他就是有望与 DC 超人一战的《七龙珠》主角悟空。&lt;/strong&gt;尽管不少人已经对 Epic Games 的骚操作见怪不怪，但一想到悟空在游戏中持枪的动作，还是不免让人感到有些违和。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [小牛队老板Mark Cuban身陷Voyager加密货币传销指控](https://www.cnbeta.com/articles/tech/1303663.htm) | Fri Aug 12 2022 4:47 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;1958 年生于美国匹兹堡市的马克·库班，最让人熟悉的身份是小牛队的老板。但在此之外，他也是一位知名的投资人。&lt;strong&gt;尴尬的是，在加密货币市场在过去几个月经历了价格暴跌之后，愤怒的 Voyager Digital 投资者们正在向交易平台发起讨伐。&lt;/strong&gt;而参与宣传推广的 Mark Cuban，也没能逃过这一劫。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [《绝地求生》每天新增八万名新玩家 开发商利润激增](https://hot.cnbeta.com/articles/game/1303661.htm) | Fri Aug 12 2022 4:34 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《绝地求生》开发商Krafton发布了最新的收益报告。除了财务数据，该报告还揭示了这款游戏最近的表现如何。Krafton表示，面向主机和PC平台的《绝地求生》最近刚刚度过了五周年，自2022年1月转为免费游戏以来，每天都有超过八万名新玩家加入。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《FIFA 23》仍有开箱系统 EA表示不会强迫玩家氪金](https://hot.cnbeta.com/articles/game/1303659.htm) | Fri Aug 12 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在英国政府最近决定不对有争议的游戏内货币化系统进行立法后，EA已经确认将在与国际足联合作的最后一款足球游戏《FIFA 23》中，坚持保留Ultimate Team模式的开箱系统。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《Half-Life 2》Source VR Mod团队预告下月转入公测](https://hot.cnbeta.com/articles/game/1303657.htm) | Fri Aug 12 2022 4:15 AM 
+- 🎊 [《Half-Life 2》Source VR Mod团队预告下月转入公测](https://hot.cnbeta.com/articles/game/1303657.htm) | Fri Aug 12 2022 4:15 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;过去十年，开发者和 MOD 制作组一直努力让 Valve 的《Half-Life 2》游戏迎来 VR 支持。尽管距离下一个重要的里程碑还有很长一段路要走，&lt;strong&gt;但本周，我们已经迎来了一个好消息 —— 可知在五年的等待之后，该游戏的 VR Mod 即将于下月转入公测（public beta）阶段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [软件锁导致Nothing Phone&lpar;1&rpar;无法达成1200尼特峰值屏幕亮度](https://www.cnbeta.com/articles/tech/1303655.htm) | Fri Aug 12 2022 3:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;尽管 Nothing Phone（1）有在初期宣传过 1200 尼特的峰值亮度，但其仅适用于特定的 HDR 视频场景。&lt;/strong&gt;GSM Arena 没有对此展开详细深入的测试，所以文章里提到的都是自动 / 手动模式下的 663 / 466 尼特。除了 Nothing，其它厂商也有在采用这一策略，但这并不意味着所有人都愿意为此买账。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [男性不育症或有破解 上海科学家揭示精子发育重要机制](https://www.cnbeta.com/articles/science/1303653.htm) | Fri Aug 12 2022 3:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在哺乳动物中，精子与卵子为遗传物质的传递提供了载体。对于雄性个体而言，生精细胞历经有丝分裂、减数分裂以及最后的形变才能发育为成熟精子。&lt;/strong&gt;然而，精子形成过程中仍有许多谜题尚未破解。遗传突变和基因表达异常，更是导致男性不育的重要病因。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [三星电子副会长李在镕复职 三星股价涨超1%](https://www.cnbeta.com/articles/tech/1303651.htm) | Fri Aug 12 2022 3:36 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;韩国政府8月12日公布“光复节”特赦名单，三星电子副会长李在镕复职，乐天集团董事长申东彬也获特赦复职。消息出来后，三星股价上涨1.3%。&lt;/strong&gt;韩国总统尹锡悦12日在龙山总统室主持召开临时国务会议，最终确定法务部赦免审查委员会审查的光复节特赦案。此前预计前总统李明博和前庆尚南道知事金庆洙将不在赦免对象之列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
