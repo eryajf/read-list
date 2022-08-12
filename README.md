@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [设置css渐变](https://juejin.cn/post/7130809502604984328) | Fri Aug 12 2022 2:23 AM 
+- 🤗 [安卓webView输入法遮挡问题解决](https://juejin.cn/post/7130835424779436039) | Fri Aug 12 2022 4:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    问题 在实际项目开发中遇到一个webView中添加input框被输入法遮挡问题，尤其小米手机设置adjustPan和adjustResize都无法适配。后搜索查到此类。问题解决。做此记录 使用方法 在 
+    </details> 
+
+- 🎡 [工具网站](https://juejin.cn/post/7130832443090829349) | Fri Aug 12 2022 3:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    合集工具箱 零代码-前端工具箱 &lpar;lingdaima.com&rpar; 前端导航 前端导航 | 专为前端开发、设计、产品、自媒体人员打造，最全面的网址导航！ &lpar;poetries.top&rpar; 常用布局/组件的写法 
+    </details> 
+
+- 🕯 [设置css渐变](https://juejin.cn/post/7130809502604984328) | Fri Aug 12 2022 2:23 AM 
     <details><summary>展开描述 ...</summary> 
     自动生成渐变颜色的网站 在线生成CSS渐变色工具 &lpar;lingdaima.com&rpar; CSS实现渐变色边框（Gradient borders）的5种方法 - 掘金 &lpar;juejin.cn&rpar; 
     </details> 
 
-- 🎡 [1282. 用户分组 : 简单哈希表模拟题](https://juejin.cn/post/7130795522087993352) | Fri Aug 12 2022 1:29 AM 
+- 🚀 [JavaScript Promise 的使用技巧](https://juejin.cn/post/7130800075235688484) | Fri Aug 12 2022 1:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 “生产代码”是可能需要一些时间来执行的代码。 “消费代码”是必须等待结果的代码。 Promise 是一个 
+    </details> 
+
+- 💪 [1282. 用户分组 : 简单哈希表模拟题](https://juejin.cn/post/7130795522087993352) | Fri Aug 12 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 题目描述 这是 LeetCode 上的 1282. 用户分组 ，难度为 中等。 Tag : 「哈希表」、 
-    </details> 
-
-- 🕯 [pnpm 的 workspace 实现 monorepo 工程](https://juejin.cn/post/7130791628981141512) | Fri Aug 12 2022 1:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    前端多个包管理的的方式一般都是采用`monorepo`的方式去管理，之前都是使用的`lerna`的workspace去管理。这段时间包管理切换到了`pnpm`上，它也有worksapce。 
-    </details> 
-
-- 🚀 [从 Islands Architecture 看前端有多卷](https://juejin.cn/post/7130790357553381389) | Fri Aug 12 2022 1:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我卡颂。 最近，Remix团队的暴躁老哥Ryan Florence一连怼了好几个友商框架，比如： 喷SolidStart抄Remix的文档 怼Next.js抄Remix的API设计 吐槽Ast 
-    </details> 
-
-- 💪 [elasticsearch集群运维监控优化及故障恢复（七）](https://juejin.cn/post/7130788893414129678) | Fri Aug 12 2022 1:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 elasticsearch集群运维监控优化及故障恢复（七） 
     </details> 
 <!-- juejin:END -->
 ### 少数派
