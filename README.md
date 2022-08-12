@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [法国多地森林火灾再度肆虐 过火面积达到上万公顷](https://www.cnbeta.com/articles/tech/1303921.htm) | Fri Aug 12 2022 8:05 PM 
+- 🕯 [美国悬赏1000万美元追缉勒索软件组织Conti五名主要成员](https://www.cnbeta.com/articles/tech/1303929.htm) | Fri Aug 12 2022 11:11 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;美国政府宣布将悬赏 1000 万美元，以获取关于有俄罗斯背景的勒索软件团伙 Conti 五名主要成员的相关信息。&lt;/strong&gt;该赏金是国国务院正义奖 &lpar;RFJ&rpar; 计划的一部分。本周四，该计划分享了一个名为“Target”的知名 Conti 勒索软件成员的图像，这标志着美国政府首次公开悬赏 Conti 团伙。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [[图]AWS Private 5G在美正式推出 帮助企业部署私有“5G”网络](https://www.cnbeta.com/articles/tech/1303927.htm) | Fri Aug 12 2022 10:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;亚马逊的现金牛 AWS 云业务近日推出了一项新的服务，旨在帮助公司部署自己的私有 5G 网络。&lt;/strong&gt;AWS 于去年年底开始了 AWS Private 5G 的早期测试，&lt;strong&gt;而现在面向美国东部（俄亥俄）、美国东部（弗吉尼亚北部）和美国西部（俄勒冈）区域开始向 AWS 客户正式提供&lt;/strong&gt;，并计划在“不久的将来”在国际市场上推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [[视频]moto razr 2022拆解：改进内部设计以减少折痕](https://www.cnbeta.com/articles/tech/1303925.htm) | Fri Aug 12 2022 10:34 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;国内知名数码频道“微机分WekiHome”的主播楼斌日前对摩托罗拉 moto razr 2022 进行了拆解，他在视频中表示：“&lt;strong&gt;moto razr 2022 可以说没有很明显的短板，在性能、影像、系统体验上都做了升级，特别是这个外观设计，太合我的胃口了~”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [[图]微软正为Windows 11测试新的任务栏动画特效](https://www.cnbeta.com/articles/tech/1303923.htm) | Fri Aug 12 2022 10:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;部分 Dev 频道的 Windows Insider 项目成员在升级到最新的 Windows 11 Build 25179 预览版更新之后，很快就发现任务栏启用了不同的图标启动动画。&lt;strong&gt;目前来看微软正在进行 A/B 测试，不过感兴趣的用户可以通过第三方软件 ViVeTool 来启用这个新特性。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [法国多地森林火灾再度肆虐 过火面积达到上万公顷](https://www.cnbeta.com/articles/tech/1303921.htm) | Fri Aug 12 2022 8:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;法国多个地方的森林火灾本周以来再度肆虐，过火面积达到上万公顷。来自欧洲多国的消防员赶赴法国协助灭火。此次森林火灾灾情最为严重的地区仍是位于法国西南部的吉伦特省。根据12日的统计，该省此次森林火灾的过火面积已达7400公顷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [Intel Arc A380显卡超频3.1GHz 这是图个啥？](https://www.cnbeta.com/articles/tech/1303919.htm) | Fri Aug 12 2022 6:30 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;超频高手MassMan&lpar;ScaterBencher&rpar;展示了他的最新成果：&lt;strong&gt;将一块蓝戟的Intel Arc A380显卡核心频率超到了惊人的3.1GHz！对比Arc A380默认设定的2.0GHz，这一成绩提高了足足55％，即便是对比蓝戟预超的2.45GHz，也要高了27％。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [美国史上最大气候法案本周见分晓 增收7400亿美元 新增投入4300亿](https://www.cnbeta.com/articles/tech/1303917.htm) | Fri Aug 12 2022 6:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;法案提出对气候投资砸下3690亿美元，通过对大企业增税未来十年削减赤字3000亿&amp;nbsp;。评论认为，法案的真正目的不是降低通胀，是民主党要确保赢得中期选举的行动，政治意义大于经济意义。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [又一家美国零售巨头裁员 报道称百思买过去一周裁员“数百人”](https://www.cnbeta.com/articles/tech/1303915.htm) | Fri Aug 12 2022 6:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;媒体周五援引知情人士的话报道称，美国最大消费电子零售商百思买（Best Buy）正在美国各地裁员，以削减成本并提高利润。报道称，百思买过去一周在全美范围内裁员“数百人”。该公司减少了其零售店的员工人数，同时还削减了一些帮助客户规划和购买家庭娱乐布局的员工的职位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [互动健身平台Peloton宣布裁员近800人 关闭大量门店并提高产品价格 股价大涨13%](https://www.cnbeta.com/articles/tech/1303913.htm) | Fri Aug 12 2022 6:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球最大互动健身平台Peloton周五告诉员工，该公司将裁员约780人、关闭大量零售门店，并提高部分设备的价格，以降低成本并实现盈利。该公司没有具体说明计划在86家零售店中关闭多少家，但表示计划从2023年开始“积极”减少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
