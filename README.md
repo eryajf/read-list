@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [为什么有人说 vite 快，有人却说 vite 慢？](https://juejin.cn/post/7130864107502338062) | Fri Aug 12 2022 5:55 AM 
+- 🤗 [SkyWalking的简介及搭建](https://juejin.cn/post/7130865811832946718) | Fri Aug 12 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-    谈到 Vite，给人的第一印象就是 dev server 启动速度快。同样规模的项目，相比 Webpack 动辄十几秒甚至几十秒的的启动速度，Vite 简直是快到没朋友，往往数秒之内即 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 一、链路追踪介绍 对于一个大型的几十个、几百个微服务构成的微服务架构系统，通常会遇到下面一些问题，比如： 
     </details> 
 
-- 🎡 [安卓webView输入法遮挡问题解决](https://juejin.cn/post/7130835424779436039) | Fri Aug 12 2022 4:05 AM 
+- 🎡 [我是如何在腾讯实践webpack优化的，解决飞书前端提到的Android上竞态问题，61秒摸透Linux健康状态 | 酱酱的下午茶第 49 期](https://juejin.cn/post/7130829882799915045) | Fri Aug 12 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-    问题 在实际项目开发中遇到一个webView中添加input框被输入法遮挡问题，尤其小米手机设置adjustPan和adjustResize都无法适配。后搜索查到此类。问题解决。做此记录 使用方法 在 
+    今日看点: 我是如何在腾讯实践webpack优化的；Vite 是怎样利用 Esbuild 来提升性能的 ？ ；61秒，摸透Linux的健康状态！；60行从零开始自己动手写FutureTask是什么体验 
     </details> 
 
-- 🕯 [工具网站](https://juejin.cn/post/7130832443090829349) | Fri Aug 12 2022 3:52 AM 
+- 🕯 [SpringCloudAlibaba云商场-高性能门户网构建（二）](https://juejin.cn/post/7130815623357005861) | Fri Aug 12 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
-    合集工具箱 零代码-前端工具箱 &lpar;lingdaima.com&rpar; 前端导航 前端导航 | 专为前端开发、设计、产品、自媒体人员打造，最全面的网址导航！ &lpar;poetries.top&rpar; 常用布局/组件的写法 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 每日英语: After all,tomorrow is another day! 翻译：毕竟，明天又是新 
     </details> 
 
-- 🚀 [你给文字描述，AI艺术作画，精美无比！附源码，快来试试！](https://juejin.cn/post/7130823403325358110) | Fri Aug 12 2022 3:17 AM 
+- 🚀 [二十三种设计模式之工厂模式（含Java工厂模式的实现）](https://juejin.cn/post/7130814420951040030) | Fri Aug 12 2022 2:42 AM 
     <details><summary>展开描述 ...</summary> 
-    通过使用 AI 高级算法（各类 Diffusion 模型），它们可以根据人类的提示文本信息创作极其精美的艺术画品，从肖像到风景画，全部都能完成，创作的精美逼真程度有时甚至与人类艺术家不相上下。 
+    本篇文章是我在学习二十三种设计模式之工厂模式过程中的一些个人理解，可能会有很多不足，请各位提出，我会积极接受并进行改正，谢谢 
     </details> 
 
-- 💪 [移动端兼容问题收录](https://juejin.cn/post/7130808903939391495) | Fri Aug 12 2022 2:20 AM 
+- 💪 [SpringBoot与数据访问](https://juejin.cn/post/7130811165890281486) | Fri Aug 12 2022 2:29 AM 
     <details><summary>展开描述 ...</summary> 
-    1px问题 原因 解决方案 方案一 和设计师沟通，让设计稿中避免出现1px的值 优先沟通，从问题的根源解决 方案二 通过各种方式去兼容 方式一：伪元素 + transform: scale&lpar;&rpar;缩放 原 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 概述 在任何一个平台都逃离不了数据库的操作，那么在 spring boot 中怎么接入数据库呢？很简单， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
