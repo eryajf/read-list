@@ -208,29 +208,29 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [Kafka在美团数据平台的实践](https://tech.meituan.com/2022/08/04/the-practice-of-kafka-in-the-meituan-data-platform.html) | Thu Aug 04 2022 12:00 AM 
+- 🕯 [提升资源利用率与保障服务质量，鱼与熊掌不可兼得？](https://tech.meituan.com/2022/08/11/load-auto-regulator.html) | Thu Aug 11 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    美团Hulk调度系统团队在集群服务质量与资源利用率运营的长期落地实践中，基于业务实际场景，自主设计研发了集群负载自动调控系统（LAR）以及配套的运营体系，在提升集群整体资源利用率的同时保障了业务服务质量。本文介绍了LAR的设计理念、基本框架以及核心设计，并结合在线和混部场景应用展开思考，并展示了部分落地成果。希望能为从事相关工作的同学带来一些启发或者帮助。 
+    </details> 
+
+- 🤠 [美团搜索粗排优化的探索与实践](https://tech.meituan.com/2022/08/11/coarse-ranking-exploration-practice.html) | Thu Aug 11 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    粗排是工业界搜广推系统的重要模块。美团搜索排序团队在优化粗排效果的探索和实践中，基于业务实际场景，从精排联动和效果性能联合优化两方面优化粗排，提升了粗排的效果。本文介绍了美团搜索粗排的迭代路线、基于知识蒸馏和自动神经网络选择的粗排优化工作，希望为从事相关工作的同学带来一些启发或者帮助。 
+    </details> 
+
+- 🤠 [Kafka在美团数据平台的实践](https://tech.meituan.com/2022/08/04/the-practice-of-kafka-in-the-meituan-data-platform.html) | Thu Aug 04 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     Kafka在美团数据平台承担着统一的数据缓存和分发的角色，随着数据量的增长，集群规模的扩大，Kafka面临的挑战也愈发严峻。本文分享了美团Kafka面临的实际挑战，以及美团针对性的一些优化工作，希望能给从事相关开发工作的同学带来帮助或启发。 
     </details> 
 
-- 🤠 [日志导致线程Block的这些坑，你不得不防](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html) | Fri Jul 29 2022 12:00 AM 
+- 🚀 [日志导致线程Block的这些坑，你不得不防](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html) | Fri Jul 29 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     研发人员在项目开发中不可避免地要使用日志，通过它来记录信息和排查问题。Apache Log4j2提供了灵活且强大的日志框架，虽然上手比较快，但稍有不慎也非常容易踩“坑”。本文介绍了美团统一API网关服务Shepherd在实践中所踩过的关于日志导致线程Block的那些“坑”，以及我们如何从日志框架源码层面进行分析和解决问题的过程，并在最后给大家分享一些关于日志避“坑”的实践经验，希望能给大家带来一些帮助。 
     </details> 
 
-- 🤠 [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html) | Thu Jul 21 2022 12:00 AM 
+- ⚗️ [ACM SIGIR 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html) | Thu Jul 21 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     今年美团技术团队有多篇论文被ACM SIGIR 2022收录，这些论文涵盖了观点标签生成、跨域情感分类、对话摘要领域迁移、跨域检索、点击率预估、对话主题分割等多个技术领域。本文将精选10篇论文做简要的介绍（附下载链接），希望能对从事相关研究的同学有所帮助或启发。 
-    </details> 
-
-- 🚀 [可视化全链路日志追踪](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html) | Thu Jul 21 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    可观测性作为系统高可用的重要保障，已经成为系统建设中不可或缺的一环。然而随着业务逻辑的日益复杂，传统的ELK方案在日志搜集、筛选和分析等方面愈加耗时耗力，而分布式会话跟踪方案虽然基于追踪能力完善了日志的串联，但更聚焦于调用链路，也难以直接应用于高效的业务追踪。本文介绍了可视化全链路日志追踪的新方案，它以业务链路为载体，通过有效组织业务每次执行的日志，实现了执行现场的可视化还原，支持问题的高效定位。 
-    </details> 
-
-- ⚗️ [工程效能CI/CD之流水线引擎的建设实践](https://tech.meituan.com/2022/07/14/cicd-pipeline.html) | Thu Jul 14 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    经过近3年的建设打磨，美团流水线引擎完成了服务端的基建统一，每日支撑近十万次的流水线执行量，系统成功率保持在99.99%以上。本文主要介绍在自研引擎建设层面遇到的挑战以及解决方案。 
     </details> 
 <!-- meituan:END -->
 
