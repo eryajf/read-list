@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [《高阶前端指北》之短小而精悍的现代TS工具库](https://juejin.cn/post/7130913183606243364) | Fri Aug 12 2022 9:05 AM 
+- 🤗 [组件解析：WeUI系列button的实现](https://juejin.cn/post/7130900006868877349) | Fri Aug 12 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-    为了能够让`Fastool`得到更好的维护，我们特意为其加持了一些能力： - ✅ 完整的TypeScript定义 - ✅ 适用于现代ES6规范 - ✅ 涵盖多数开发所需的方法 - ✅ 支持动态插件库 
+    随着应用开发需求的不断增大，快速开发已经成为很多企业目标，但是传统的应用程序想要实现快速开发并不现实，那怎么办呢？低代码开发平台可以帮到你。 
     </details> 
 
-- 🎡 [【Jvm】Jvm类加载机制](https://juejin.cn/post/7130856676189536286) | Fri Aug 12 2022 5:26 AM 
+- 🎡 [100行代码写个canvas库](https://juejin.cn/post/7130894865440702478) | Fri Aug 12 2022 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-    类加载时机 在Java语言里面，类型的加载、连接和初始化过程都是在程序运行期间完成的 类加载的过程 类的生命周期 PS: 
+    从零开始实现一个canvas的库，画面刷新，自定义事件，组合容器，看完这个还是不会canvas就放弃它吧。 
     </details> 
 
-- 🕯 [React Reconciliation](https://juejin.cn/post/7130842398438981646) | Fri Aug 12 2022 4:30 AM 
+- 🕯 [Vite 是怎样利用 Esbuild 来提升性能的 ？](https://juejin.cn/post/7130865011324354590) | Fri Aug 12 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-    协调（reconciliation）是什么？ React 是一个用于构建用户界面的库，它的核心是跟踪组件状态变化并将它们更新到页面上。 
+    我们提到过开发模式下使用 `Vite` 会有首屏性能下降的负面效果。之所以会造成首屏性能下降，一方面是 `dev server` 需要完成预构建才可以响应首屏请求；另一方面是需要对请求文件做实时转换。 
     </details> 
 
-- 🚀 [Glide源码解读&lpar;二&rpar;：如何处理并发问题](https://juejin.cn/post/7130550068456718373) | Thu Aug 11 2022 9:36 AM 
+- 🚀 [阿里低代码引擎 | LowCodeEngine - 多页面管理及代码示例](https://juejin.cn/post/7130862978764636173) | Fri Aug 12 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇是Glide源码解读系列的第二篇，主要分析Glide图片加载框架中对并发操作的处理。阅读本篇之前，首先得对Glide流程很了解，不了解Glide图片加载流程的建议先阅读第一篇 Glide源码解读&lpar; 
+    本文主要介绍基于阿里低代码引擎 lowcode-engine 如何实现多页面管理功能，并提供全网最完善的代码示例。 
     </details> 
 
-- 💪 [Python 读取文件元数据](https://juejin.cn/post/7130475670651535367) | Thu Aug 11 2022 4:47 AM 
+- 💪 [ArrayList源码分析&lpar;基于jdk1.8&rpar;（二）：subList陷阱](https://juejin.cn/post/7130860761273860127) | Fri Aug 12 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
-    文件元数据是与特定文件相关联的所有内容，而不是文件数据内容本身。在本节中，我们介绍如何使用 Python 访问文件元数据。 
+    在前面对ArrayList源码进行了分析，那么最近在阅读阿里代码规范的时候，发现对asList方法有特别的约定，这个方法也可能是我们经常会出现问题的地方。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
