@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [半导体周期反转之际 中芯国际的喜与忧](https://www.cnbeta.com/articles/tech/1303853.htm) | Fri Aug 12 2022 11:45 AM 
+- 🕯 [支付宝出现这两个界面千万别转账 你的钱有被骗风险](https://www.cnbeta.com/articles/tech/1303881.htm) | Fri Aug 12 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;受疫情影响，中芯国际部分工厂每年定期的停工检修没有在今年二季度进行，同时疫情对产出的影响也低于预期，帮助该公司二季度营收继续创下历史新高，毛利率也超过之前预期的上限。但随着全球经济增速放缓、半导体行业进入下行周期，中芯国际也难免受到双周期叠加的影响。二季度，中芯国际库存水平持续走高，晶圆价格上涨也基本停滞，净利润同比下滑25%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着互联网的飞速发展，如今只需要一部手机即可轻松完成网上购物、支付和转账，十分方便，但转账的同时也要时刻保持谨慎。据媒体报道，在使用支付宝转账时，&lt;strong&gt;如果你看见如下弹窗提示，千万要注意，说明系统识别到当前交易的收款方账号涉嫌欺诈，&lt;/strong&gt;你的钱有被骗风险。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [6.5元/小时 共享单车这个新“刺客”](https://www.cnbeta.com/articles/tech/1303851.htm) | Fri Aug 12 2022 11:43 AM 
+- 💼 [爱马仕回应官网删除16.5万自行车：已售竭、暂时不补货](https://www.cnbeta.com/articles/tech/1303879.htm) | Fri Aug 12 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年，“雪糕刺客”“水果刺客”等网络热词出现之后，共享单车如今也成了“刺客”？走在街上，随手扫一辆共享单车，已经成为不少人的习惯。而最近不少用户却发现，共享单车不知不觉涨价了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨天，爱马仕推出了一款设计“独特”，售价高达16.5万的自行车。这款能够买上一台中型国产SUV的自行车长154.6cm，宽58cm，总重在14kg左右，采用白蜡木、铝和Spad皮革打造， 把手及坐垫支架处配有车灯，前侧饰有系列标识上釉徽章，坐垫处饰有“Hermes Paris”烫印字样，同时配有前后车篮子，支持4挡速度调节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [实探上海赛格电子市场：芯片一天一个价 MCU需求出现分化](https://www.cnbeta.com/articles/tech/1303849.htm) | Fri Aug 12 2022 11:41 AM 
+- 💂 [今年首发最高级别高温红色预警：10余省区市或超40℃ 最高破42℃](https://www.cnbeta.com/articles/tech/1303877.htm) | Fri Aug 12 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上半年以来，消费电子市场需求持续减弱，三星、戴尔、LG等大厂纷纷下调订单，而另一方面，汽车芯片供应依旧保持紧缺态势，整个芯片市场结构性分化加剧。那么，市场具体情况如何？近日，记者实探上海赛格电子市场，了解市场情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;又是一个见证历史的时刻！&lt;strong&gt;中央气象台8月12日18时发布了高温红色预警，这也是中央气象台历史首个高温红色预警，之前最高都是橙色预警。&lt;/strong&gt;高温红色预警信号，是气象部门通过气象监测在高温到来之前做出的预警信号，提示百姓预防，尽量减少高温带来的不适，避免中暑等情况的发生，高温红色预警信号是高温预警信号中的第三级别（最高级别）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [地狱难度翻盘，瑞幸真的要干掉星巴克了](https://www.cnbeta.com/articles/tech/1303847.htm) | Fri Aug 12 2022 11:41 AM 
+- 🚀 [x86处理器市场变天：Intel份额首次跌破7成](https://www.cnbeta.com/articles/tech/1303875.htm) | Fri Aug 12 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;取代星巴克，成为中国咖啡市场的老大，瑞幸似乎真的要做到了。日前，瑞幸咖啡公布二季度财报，总净收入为32.99亿元，相较去年同期增长72.4%，远高于此前分析师预测的26亿元。瑞幸咖啡董事长兼CEO郭谨对此表示满意，并在Q2业绩说明会上表示，“尽管不利因素仍旧存在，瑞幸咖啡仍实现了又一季度出色的运营业绩。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;来自统计机构Mercury Research的最新数据显示，尽管刚过去的二季度，桌面处理器销量创下30年来的新低，但就厂商而言，AMD依然是相对胜利的一方，其在移动笔记本、台式机、服务器以及整个x86市场的份额，都在继续增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [超越奈飞，迪士尼只用了5年](https://hot.cnbeta.com/articles/movie/1303845.htm) | Fri Aug 12 2022 11:40 AM 
+- 🎊 [前《魔兽世界》设计师Travis Day去世 鬼蟹发文表示缅怀](https://hot.cnbeta.com/articles/game/1303873.htm) | Fri Aug 12 2022 1:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;从第一次推出流媒体视频服务开始，只用了短短五年时间，迪士尼就掀翻了Netflix流媒体视频霸主的宝座。迪士尼8月10日公布的2022年第三财季财报显示，Disney+订阅用户同比增长31%至1.52亿，高于分析师此前预测的1.47亿，加上迪士尼旗下其他两大流媒体视频订阅服务Hulu和ESPN+，迪士尼流媒体订阅用户的总数达到2.211亿，首次超过Netflix，后者最新公布的订阅用户总数为2.21亿。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据gamedeveloper消息，资深游戏设计师Travis Day确认去世，消息来自他的妹妹，但并没有给出明确死因。Travis Day于2005年入职暴雪，参与了《魔兽世界》以及《暗黑破坏神3》的开发工作。而后，Travis Day于2018年从暴雪离职，加入了Phoenix Labs，其还曾任职于腾讯光子工作室。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
