@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【刷题模板】123. 买卖股票的最佳时机 III](https://juejin.cn/post/7130639426438299662) | Thu Aug 11 2022 3:23 PM 
+- 🤗 [从 Islands Architecture 看前端有多卷](https://juejin.cn/post/7130790357553381389) | Fri Aug 12 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 本次刷题日记的第 89 篇，力扣题为：123. 买卖股票的最佳时机 III 一、题目描述： 咱们继续来做 
+    大家好，我卡颂。 最近，Remix团队的暴躁老哥Ryan Florence一连怼了好几个友商框架，比如： 喷SolidStart抄Remix的文档 怼Next.js抄Remix的API设计 吐槽Ast 
     </details> 
 
-- 🎡 [C# 线程简单使用](https://juejin.cn/post/7130629883184545828) | Thu Aug 11 2022 2:47 PM 
+- 🎡 [使用ZooKeeper原生API实现分布式锁](https://juejin.cn/post/7130784186599735326) | Fri Aug 12 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 前言： 用C#发送命令，需要循环发送 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 分布式锁的引入 一个很典型的秒杀场景，或者说并发量非常高的场景下，对商品库存的操作，我用一个Spring 
     </details> 
 
-- 🕯 [TypeScript-起步——JavaScript简介（二）](https://juejin.cn/post/7130625090030420005) | Thu Aug 11 2022 2:27 PM 
+- 🕯 [🎉Vue3+Vite2.6+TypeScript+ant-design-vue+egg.js 一键构建管理前后台管理系统](https://juejin.cn/post/7130781395483361287) | Fri Aug 12 2022 12:33 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 ③ 类型带来的问题 首先你需要知道，编程开发中我们有一个共识：错误出现的越早越好 能在写代码的时候发现错 
+    Bag快速开发管理系统、门户网站、博客系统框架，提供基础的框架，快速搭建企业产品，响应式开发，你可以将它应用在任何需要服务端管理的应用。如：开发管理系统的 API 接口、门户网站博客、企业内部的业务管 
     </details> 
 
-- 🚀 [LeetCode重新格式化字符串使用JavaScript解题|前端学算法](https://juejin.cn/post/7130624201547300871) | Thu Aug 11 2022 2:24 PM 
+- 🚀 [微服务概念](https://juejin.cn/post/7130778944046891021) | Fri Aug 12 2022 12:25 AM 
     <details><summary>展开描述 ...</summary> 
-    前端使用JavaScript来解决LeetCode从新格式化字符串的算法，前端学习算法，每天三分钟学会一个知识点 
+    作为一名有经验的技术人员，相信我们在日常的开发过程中、或者是技术交流的过程中，是很容易听见微服务这个名词的，但是什么是微服务呢？ 
     </details> 
 
-- 💪 [NiceModal：重新思考 React 中的弹窗使用方式](https://juejin.cn/entry/7130623457993162759) | Thu Aug 11 2022 2:21 PM 
+- 💪 [入门前端那时，收集了一些问题，还有踩过的坑](https://juejin.cn/post/7130766168008163341) | Thu Aug 11 2022 11:39 PM 
     <details><summary>展开描述 ...</summary> 
-    可能是 React 下最好的弹窗管理实践方案。 经过 `NiceModal` 的封装，好处显而易见：1. 调用过程干净优雅；2. 组件依旧存在于上下文中（可以自定义位置，默认在... 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 css 设置div宽高比1:2 判断两个小数是否相等 用等于号是肯定不行的。判断两个小数是否相等要用它们 
     </details> 
 <!-- juejin:END -->
 ### 少数派
