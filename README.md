@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Client-Go 免费视频教程来来来了。](https://www.v2ex.com/t/872451#reply1) | Fri Aug 12 2022 7:39 AM
-- 🤗 [Java 有哪些开源项目值得啃的...求大佬推荐](https://www.v2ex.com/t/872436#reply3) | Fri Aug 12 2022 6:54 AM
-- 🎭 [斯琴高娃老师，这是可以开源的吗](https://www.v2ex.com/t/872422#reply5) | Fri Aug 12 2022 5:49 AM
-- 🥷 [怎么实现敏感数据加密存储并可模糊检索](https://www.v2ex.com/t/872410#reply8) | Fri Aug 12 2022 4:53 AM
-- 🐵 [关于 Go 在 `Return Nil or Pointer to Empty Struct on Error` 上的讨论？](https://www.v2ex.com/t/872400#reply31) | Fri Aug 12 2022 3:47 AM<!-- v2ex:END -->
+- 🥸 [请教一个 nginx 根据 HTTP 请求头信息条件转发的问题](https://www.v2ex.com/t/872473#reply2) | Fri Aug 12 2022 8:59 AM
+- 🤗 [Client-Go 免费视频教程来来来了。](https://www.v2ex.com/t/872451#reply3) | Fri Aug 12 2022 7:39 AM
+- 🎭 [Java 有哪些开源项目值得啃的...求大佬推荐](https://www.v2ex.com/t/872436#reply3) | Fri Aug 12 2022 6:54 AM
+- 🥷 [斯琴高娃老师，这是可以开源的吗](https://www.v2ex.com/t/872422#reply6) | Fri Aug 12 2022 5:49 AM
+- 🐵 [怎么实现敏感数据加密存储并可模糊检索](https://www.v2ex.com/t/872410#reply9) | Fri Aug 12 2022 4:53 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
