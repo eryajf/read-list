@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Allavsoft Video Downloader Converter 3.25.0.8257 视频下载工具](https://xclient.info/s/allavsoft-video-downloader-converter.html) | Thu Aug 11 2022 2:44 AM 
+- 🦏 [MetaImage 2.0.10 图像元数据编辑器](https://xclient.info/s/metaimage.html) | Fri Aug 12 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-    Allavsoft Video Downloader Converter 是一款运行在macOS平台上的视频下载软件，支持任何视频文件格式的转换，支持在任何移动设备上脱机播放下载的视频。 
+    MetaImage 是一款专为mac用户设计的图像元数据编辑器，可以帮助您轻松的更改或删除照片中的元数据信息，而且MetaImage还为地理和缩略图数据提供了特殊支持。而且支持90多种图像格式（MOS，CR2，DNG，NEF，NRW，JPEG，PNG，TIFF，RAW等等） 
     </details> 
 
--  [Capture One 22 Pro 15.3.2.11  一款专业的RAW文件转换器和图像编辑软件](https://xclient.info/s/capture-one-pro.html) | Thu Aug 11 2022 2:41 AM 
+-  [SiteSucker 5.0.2 扒站神器](https://xclient.info/s/sitesucker.html) | Fri Aug 12 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-    CAPTURE ONE PRO 是一款专业的RAW文件转换器和图像编辑软件，拥有核心运算技术,作为拍摄支持软件系统后期处理的核心。是独立的相片编辑软件，可以转换数码相机所拍摄出来的RAW图像格式以及提代相片的处理流程，它是代表RAW工作流程软件的新世纪, 同时也代表了一个RAW转换变程的新处理方法。 
+    SiteSucker是一款Mac OS X上的整站下载的利器，可以将整个网站所有资源下载到本地硬盘。 
     </details> 
 
-- ⚗️ [Camtasia 2022.1.0 CR2 强大且易用的视频录制和剪辑软件](https://xclient.info/s/camtasia.html) | Thu Aug 11 2022 2:39 AM 
+- ⚗️ [Mission Control Plus 1.19 调度中心辅助](https://xclient.info/s/mission-control-plus.html) | Fri Aug 12 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Camtasia Studio是一套专业的屏幕录像软件，同时包含Camtasia 录像器、Camtasia Studio（编辑器）、Camtasia 菜单制作器、Camtasia 剧场、Camtasia 播放器和Screencast的内置功能。 
+    Mission Control Plus可以在 Mac 调度中心 Mission Control 管理应用，并添加快捷键。 
     </details> 
 
-- 🔥 [Compressor 4.6.2 苹果官方出品视频解码格式转换工具](https://xclient.info/s/compressor.html) | Thu Aug 11 2022 2:36 AM 
+- 🔥 [SSH Config Editor 2.5.1 SSH配置编辑器](https://xclient.info/s/ssh-config-editor.html) | Fri Aug 12 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-    Compressor 为 Final Cut Pro X 导出增添了功能和灵活性。自定了输出设置，采用分布式编码，工作更快，同时接进了一套全面的传送功能。 
+    SSH Config Editor是一款运行在macOS平台上的SSH配置编辑软件，可以帮助用户管理ssh配置文件，如果您的电脑上有ssh配置文件，那么更加需要使用它。 
     </details> 
 
-- 🌋 [Wondershare UniConverter 14.1.0.12 视频编辑转换工具](https://xclient.info/s/wondershare-uniconverter.html) | Thu Aug 11 2022 2:35 AM 
+- 🌋 [GrandTotal 7.3.5.7 一款非常实用的发票设计工具](https://xclient.info/s/grandtotal.html) | Fri Aug 12 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-    Wondershare UniConverter 是一款功能强大的视频编辑工具，集视频下载，转换，剪辑，刻录等多功能于一体，能够帮助用户轻松进行视频处理。 
+    GrandTotal 是Mac OS X 上的一款非常实用的发票设计工具，可以根据一个内置的模板编辑器来重新调整布局，创建属于自己的发票模版，适合企业和个人来进行形象设计。 
     </details> 
 <!-- xclient:END -->
 
