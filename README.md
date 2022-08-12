@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [安卓webView输入法遮挡问题解决](https://juejin.cn/post/7130835424779436039) | Fri Aug 12 2022 4:05 AM 
+- 🤗 [为什么有人说 vite 快，有人却说 vite 慢？](https://juejin.cn/post/7130864107502338062) | Fri Aug 12 2022 5:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    谈到 Vite，给人的第一印象就是 dev server 启动速度快。同样规模的项目，相比 Webpack 动辄十几秒甚至几十秒的的启动速度，Vite 简直是快到没朋友，往往数秒之内即 
+    </details> 
+
+- 🎡 [安卓webView输入法遮挡问题解决](https://juejin.cn/post/7130835424779436039) | Fri Aug 12 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
     问题 在实际项目开发中遇到一个webView中添加input框被输入法遮挡问题，尤其小米手机设置adjustPan和adjustResize都无法适配。后搜索查到此类。问题解决。做此记录 使用方法 在 
     </details> 
 
-- 🎡 [工具网站](https://juejin.cn/post/7130832443090829349) | Fri Aug 12 2022 3:52 AM 
+- 🕯 [工具网站](https://juejin.cn/post/7130832443090829349) | Fri Aug 12 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
     合集工具箱 零代码-前端工具箱 &lpar;lingdaima.com&rpar; 前端导航 前端导航 | 专为前端开发、设计、产品、自媒体人员打造，最全面的网址导航！ &lpar;poetries.top&rpar; 常用布局/组件的写法 
     </details> 
 
-- 🕯 [你给文字描述，AI艺术作画，精美无比！附源码，快来试试！](https://juejin.cn/post/7130823403325358110) | Fri Aug 12 2022 3:17 AM 
+- 🚀 [你给文字描述，AI艺术作画，精美无比！附源码，快来试试！](https://juejin.cn/post/7130823403325358110) | Fri Aug 12 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
     通过使用 AI 高级算法（各类 Diffusion 模型），它们可以根据人类的提示文本信息创作极其精美的艺术画品，从肖像到风景画，全部都能完成，创作的精美逼真程度有时甚至与人类艺术家不相上下。 
     </details> 
 
-- 🚀 [设置css渐变](https://juejin.cn/post/7130809502604984328) | Fri Aug 12 2022 2:23 AM 
+- 💪 [移动端兼容问题收录](https://juejin.cn/post/7130808903939391495) | Fri Aug 12 2022 2:20 AM 
     <details><summary>展开描述 ...</summary> 
-    自动生成渐变颜色的网站 在线生成CSS渐变色工具 &lpar;lingdaima.com&rpar; CSS实现渐变色边框（Gradient borders）的5种方法 - 掘金 &lpar;juejin.cn&rpar; 
-    </details> 
-
-- 💪 [我用vue3和egg开发了一个早报学习平台，带领群友走向技术大佬](https://juejin.cn/post/7130804581759451144) | Fri Aug 12 2022 2:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    [toc] 项目功能介绍 该项目的出发点是获取最新最值得推荐的文章以及面经，供群友们学习使用。带领前端阳光的群友们一起成为技术大佬。 当点击掘金的时候，就会获取掘金当前推荐的前端文章 当点击牛客网的时 
+    1px问题 原因 解决方案 方案一 和设计师沟通，让设计稿中避免出现1px的值 优先沟通，从问题的根源解决 方案二 通过各种方式去兼容 方式一：伪元素 + transform: scale&lpar;&rpar;缩放 原 
     </details> 
 <!-- juejin:END -->
 ### 少数派
