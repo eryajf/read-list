@@ -741,27 +741,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [三星发布 Galaxy Watch5 和 Galaxy Watch5 Pro](https://www.photoworld.com.cn/post/162779) | Thu Aug 11 2022 3:09 AM 
+- 🤠 [索尼微单™ 手机 Xperia PRO-I 固件升级，新增相机监控及直播功能](https://www.photoworld.com.cn/post/162812) | Fri Aug 12 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [多能畅享 焕新未来 | 三星发布 Galaxy Z Flip4 和 Galaxy Z Fold4](https://www.photoworld.com.cn/post/162772) | Thu Aug 11 2022 3:08 AM 
+- 🎃 [三星发布 Galaxy Watch5 和 Galaxy Watch5 Pro](https://www.photoworld.com.cn/post/162779) | Thu Aug 11 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [CineAltaV 2 获得 Cine Gear Technical Awards 相机类奖项](https://www.photoworld.com.cn/post/162732) | Wed Aug 10 2022 3:26 AM 
+- 👀 [多能畅享 焕新未来 | 三星发布 Galaxy Z Flip4 和 Galaxy Z Fold4](https://www.photoworld.com.cn/post/162772) | Thu Aug 11 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [FX3 和 CineAltaV 拍美剧混着用？他们做到了](https://www.photoworld.com.cn/post/162738) | Wed Aug 10 2022 3:07 AM 
+- 🤔 [CineAltaV 2 获得 Cine Gear Technical Awards 相机类奖项](https://www.photoworld.com.cn/post/162732) | Wed Aug 10 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [“千锤百炼始成金”——尼康 Z 9 开发背后不为人知的故事](https://www.photoworld.com.cn/post/162711) | Tue Aug 09 2022 9:01 AM 
+- 👀 [FX3 和 CineAltaV 拍美剧混着用？他们做到了](https://www.photoworld.com.cn/post/162738) | Wed Aug 10 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
