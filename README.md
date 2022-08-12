@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：小米新品发布会、微软宣布开源超 1500 款 3D Emoji 等](https://sspai.com/post/75115) | Fri Aug 12 2022 1:00 AM 
+- 👹 [以徕卡相机而闻名的徕卡，到底是一家什么样的厂商](https://sspai.com/post/74124) | Fri Aug 12 2022 3:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文希望借着这个机会，从一个摄影爱好者的角度为大家简单介绍一下徕卡这个品牌，并尝试回答一个老生常谈的问题：徕卡究竟是什么，徕卡代表了什么。&lt;a href=&quot;https://sspai.com/post/74124&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：小米新品发布会、微软宣布开源超 1500 款 3D Emoji 等](https://sspai.com/post/75115) | Fri Aug 12 2022 1:00 AM 
     <details><summary>展开描述 ...</summary> 
     联想新品发布会，摩托罗拉发布 moto razr 2022 等&lt;a href=&quot;https://sspai.com/post/75115&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [新玩意 116｜少数派的作者们最近买了啥？](https://sspai.com/post/75102) | Thu Aug 11 2022 9:11 AM 
+- 🤭 [新玩意 116｜少数派的作者们最近买了啥？](https://sspai.com/post/75102) | Thu Aug 11 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/75102&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [依然是最佳密码管理器选择之一，1Password 8 这次却让我有点失望](https://sspai.com/post/75104) | Thu Aug 11 2022 8:22 AM 
+- 🥸 [依然是最佳密码管理器选择之一，1Password 8 这次却让我有点失望](https://sspai.com/post/75104) | Thu Aug 11 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
     1Password 8 移动版终于正式发布，作为目前跨平台最多、功能最全面、设计最精致的密码管理器之一，我是否还会继续选择它，却在新版推出之后变成了问号。&lt;a href=&quot;https://sspai.com/post/75104&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083) | Thu Aug 11 2022 6:30 AM 
+- 🙉 [掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083) | Thu Aug 11 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     本文介绍一些能够让 Edge 浏览器体验更加干净、纯粹的设置技巧。&lt;a href=&quot;https://sspai.com/post/75083&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [电增电的少数派，极氪 001 使用体验分享](https://sspai.com/post/75033) | Thu Aug 11 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    在经历了三个月的选车试驾后，我们提了极氪 001。作为少数的电车复购电车的车主，分享下我们的心路历程与用车体验。&lt;a href=&quot;https://sspai.com/post/75033&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
