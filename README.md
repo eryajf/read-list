@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Ubuntu22.04 sogou 输出法打快了会切换不到中文](https://www.v2ex.com/t/872527#reply0) | Fri Aug 12 2022 1:43 PM
-- 🤗 [SPDK 的开发环境和调试](https://www.v2ex.com/t/872511#reply0) | Fri Aug 12 2022 11:58 AM
-- 🎭 [请教 V 友们一些关于 devops 的问题](https://www.v2ex.com/t/872505#reply0) | Fri Aug 12 2022 10:55 AM
-- 🥷 [react 函数组件的单元测试 有办法单独测组件内的函数么](https://www.v2ex.com/t/872501#reply6) | Fri Aug 12 2022 10:38 AM
-- 🐵 [JDK8 升级到 JDK17 怎么搞](https://www.v2ex.com/t/872499#reply6) | Fri Aug 12 2022 10:25 AM<!-- v2ex:END -->
+- 🥸 [Android 12 准备好了，如何虚拟机运行 Windows 11？](https://www.v2ex.com/t/872547#reply0) | Fri Aug 12 2022 4:17 PM
+- 🤗 [请问大家一个大屏发布系统是怎么做的](https://www.v2ex.com/t/872542#reply6) | Fri Aug 12 2022 3:27 PM
+- 🎭 [把给 app 打包的 keystore 文件弄丢了，怎么办？](https://www.v2ex.com/t/872541#reply6) | Fri Aug 12 2022 3:25 PM
+- 🥷 [WINDOWS 的 Android Studio 无法启动 ARM 的模拟器](https://www.v2ex.com/t/872539#reply3) | Fri Aug 12 2022 3:20 PM
+- 🐵 [Ubuntu22.04 sogou 输出法打快了会切换不到中文](https://www.v2ex.com/t/872527#reply0) | Fri Aug 12 2022 1:43 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
