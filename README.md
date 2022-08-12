@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [分析师认为iPhone 14Pro存储空间仍将以128GB起步](https://www.cnbeta.com/articles/tech/1303909.htm) | Fri Aug 12 2022 5:13 PM 
+- 🕯 [又一家美国零售巨头裁员 报道称百思买过去一周裁员“数百人”](https://www.cnbeta.com/articles/tech/1303915.htm) | Fri Aug 12 2022 6:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;媒体周五援引知情人士的话报道称，美国最大消费电子零售商百思买（Best Buy）正在美国各地裁员，以削减成本并提高利润。报道称，百思买过去一周在全美范围内裁员“数百人”。该公司减少了其零售店的员工人数，同时还削减了一些帮助客户规划和购买家庭娱乐布局的员工的职位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [互动健身平台Peloton宣布裁员近800人 关闭大量门店并提高产品价格 股价大涨13%](https://www.cnbeta.com/articles/tech/1303913.htm) | Fri Aug 12 2022 6:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;全球最大互动健身平台Peloton周五告诉员工，该公司将裁员约780人、关闭大量零售门店，并提高部分设备的价格，以降低成本并实现盈利。该公司没有具体说明计划在86家零售店中关闭多少家，但表示计划从2023年开始“积极”减少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [前高通研究副总裁等三人被控参与1.5亿美元欺诈计划](https://www.cnbeta.com/articles/tech/1303911.htm) | Fri Aug 12 2022 5:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;圣地亚哥联邦检察官本周公布了对一名前高通公司研究工程师和其他三人的欺诈和洗钱指控，&lt;strong&gt;他们涉嫌欺骗高通公司支付1.5亿美元来收购其所谓拥有的技术。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [分析师认为iPhone 14Pro存储空间仍将以128GB起步](https://www.cnbeta.com/articles/tech/1303909.htm) | Fri Aug 12 2022 5:13 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;研究机构TrendForce预测，iPhone 14Pro机型存储空间会从256GB起跳&lt;strong&gt;，而海通国际分析师Jeff Pu今天预测，即将推出的Pro机型将继续以128GB的存储空间开始。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星称可折叠手机将在几年内超越Galaxy S系列](https://www.cnbeta.com/articles/tech/1303907.htm) | Fri Aug 12 2022 4:57 PM 
+- 🎊 [三星称可折叠手机将在几年内超越Galaxy S系列](https://www.cnbeta.com/articles/tech/1303907.htm) | Fri Aug 12 2022 4:57 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;三星正在大力推动可折叠智能手机，几年前，当最初的Galaxy Z Fold首次亮相时，没有很多人认为这一天会到来，&lt;strong&gt;但根据三星的最新声明，该公司似乎已经准备使可折叠手机取代Galaxy S系列。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [研究发现火星地下水和地下冰的情况打破了人们预期](https://www.cnbeta.com/articles/science/1303905.htm) | Fri Aug 12 2022 4:24 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;物理学家将地震数据与岩石和沉积物的属性联系起来，&lt;strong&gt;对来自美国宇航局火星探测器任务的地震数据进行新分析，发现了几个大的惊喜&lt;/strong&gt;。第一个惊喜是：在火星赤道附近的着陆点下方300米（1000英尺）的地表下几乎不含任何冰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [美国宇航局SpaceX Crew-5任务完成乘员培训](https://www.cnbeta.com/articles/science/1303903.htm) | Fri Aug 12 2022 3:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;进行美国宇航局SpaceX Crew-5任务的宇航员即将结束为期18个月的培训。&lt;/strong&gt;这次培训是为他们前往国际空间站的科学考察任务做准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [小鹏P7高速撞人剖析：不能识别静物？防撞系统失效？风险提示是否到位？](https://www.cnbeta.com/articles/tech/1303901.htm) | Fri Aug 12 2022 2:36 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，一辆小鹏P7在高速撞上另外一辆停在车道上的汽车，造成人员伤亡。从视频来看，发生事故时小鹏P7似乎并没有减速，一人被撞飞。而据小鹏P7车主描述，其当时开启了辅助驾驶。车主称当时车速80km/h，打开了LCC（车道居中辅助），平时有异常情况都会预警，但这次没有任何提示，加上自己分神了，就发生了碰撞事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
