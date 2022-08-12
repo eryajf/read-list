@@ -366,9 +366,9 @@
 <!-- v2ex:START -->
 - 🥸 [SPDK 的开发环境和调试](https://www.v2ex.com/t/872511#reply0) | Fri Aug 12 2022 11:58 AM
 - 🤗 [请教 V 友们一些关于 devops 的问题](https://www.v2ex.com/t/872505#reply0) | Fri Aug 12 2022 10:55 AM
-- 🎭 [react 函数组件的单元测试 有办法单独测组件内的函数么](https://www.v2ex.com/t/872501#reply2) | Fri Aug 12 2022 10:38 AM
-- 🥷 [JDK8 升级到 JDK17 怎么搞](https://www.v2ex.com/t/872499#reply3) | Fri Aug 12 2022 10:25 AM
-- 🐵 [DNS 加密怎么设置？](https://www.v2ex.com/t/872494#reply5) | Fri Aug 12 2022 9:58 AM<!-- v2ex:END -->
+- 🎭 [react 函数组件的单元测试 有办法单独测组件内的函数么](https://www.v2ex.com/t/872501#reply4) | Fri Aug 12 2022 10:38 AM
+- 🥷 [JDK8 升级到 JDK17 怎么搞](https://www.v2ex.com/t/872499#reply5) | Fri Aug 12 2022 10:25 AM
+- 🐵 [DNS 加密怎么设置？](https://www.v2ex.com/t/872494#reply9) | Fri Aug 12 2022 9:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
