@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [哈勃发现红超巨星参宿四在发生从未见过的爆炸后缓慢恢复](https://www.cnbeta.com/articles/science/1303817.htm) | Fri Aug 12 2022 9:06 AM 
+- 🕯 [首个国产新冠口服药阿兹夫定片临时纳入医保](https://www.cnbeta.com/articles/tech/1303831.htm) | Fri Aug 12 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;参宿四是一颗红超巨星，在冬季猎户座的右上角出现一个明亮的、红宝石色的、闪烁的光点。然而，当近距离观察时，天文学家们知道，它是一个愤怒的“怪物”，有着长达400天的有规律的“脉动心跳”。&lt;strong&gt;这颗衰老的恒星被归类为超巨星，因为它已经膨胀到了惊人的直径，大约有10亿英里。如果放在我们太阳系的中心，它将达到木星的轨道。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据北京日报从国家医疗保障局获悉，&lt;strong&gt;按照基本医保有关规定，为更好保障诊疗需求，凡被列入新冠肺炎诊疗方案的药品，可以临时性纳入医保支付范围。&lt;/strong&gt;此前8月9日，国家卫健委发布通知，将阿兹夫定片&lpar;azvudine&rpar;纳入新型冠状病毒肺炎诊疗方案（第九版），适应症为用于治疗普通型新型冠状病毒肺炎成年患者，用法用量为空腹整片吞服，每次5mg，每日1次，疗程至多不超过14天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《指环王：力量之戒》新预告 黑人精灵很凶悍](https://hot.cnbeta.com/articles/movie/1303813.htm) | Fri Aug 12 2022 8:59 AM 
+- 💼 [谷歌Pixel 6a屏幕也能升级高刷新率](https://www.cnbeta.com/articles/tech/1303829.htm) | Fri Aug 12 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日指环王衍生剧集《指环王：力量之戒》新预告公布，“精灵与矮人联手，可能揭开新的时代”。众多角色齐登场，一起来看看视频吧！&lt;/strong&gt;此前“黑人精灵”演员伊斯梅尔·克鲁兹·科尔多瓦曾表达了出演精灵的感受。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前在2019年，有网友通过刷dtbo文件，&lt;strong&gt;把小米9屏幕刷成了84Hz，屏幕刷新率超频后的小米9动画流畅了许多。&lt;/strong&gt;时隔3年，开发者Mishaal Rahman对谷歌Pixel 6a也做了类似的超频处理，&lt;strong&gt;使得这款手机屏幕从60Hz升级到了90Hz。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [MLID：英伟达下场敦促AIB合作伙伴清理Ampere显卡库存](https://www.cnbeta.com/articles/tech/1303811.htm) | Fri Aug 12 2022 8:55 AM 
+- 💂 [Linux 6.0已为龙芯中科LoongArch架构启用PCI和其他功能支持](https://www.cnbeta.com/articles/tech/1303827.htm) | Fri Aug 12 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;加密货币市场崩盘数月后，显卡的售价也在一路回归正常。&lt;strong&gt;不过随着 RTX 40 系列新卡发布的临近，英伟达也在亲自下场敦促 AIB 合作伙伴加快清理积压的 RTX 30 系列显卡库存。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然在Linux 5.19中合并了对龙芯中科LoongArchCPU指令集架构的支持，但由于一些驱动代码尚未完成并准备好及时合并，这实际上还不足以产生一个启动系统。&lt;strong&gt;LoongArch之前被允许在v5.19中合并这些初步代码，以便Glibc支持可以落地，现在Linux 6.0中更多的CPU端口已经准备好进入内核。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小鹏销售带客户体验“自动驾驶”：时速70怼上前车、气囊爆了](https://www.cnbeta.com/articles/tech/1303809.htm) | Fri Aug 12 2022 8:51 AM 
+- 🚀 [UP主抵制商场35元/小时盗版游戏主机 把NS借给小学生玩](https://hot.cnbeta.com/articles/game/1303825.htm) | Fri Aug 12 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国产新造车势力总是轮流登上热搜，昨日，一小鹏P7在高架上发生事故，致人死亡事件曝光后，引起了大家对所谓“自动驾驶”的热烈讨论。&lt;strong&gt;而就在今天，又有博主爆料称，小鹏汽车再出事故，不过幸运的是，这次没人伤亡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日，B站UP主&lt;a href=&quot;https://space.bilibili.com/26454148&quot; target=&quot;_blank&quot; class=&quot;n1&quot;&gt;我是买爆哥&lt;/a&gt;上传了一支探访一家商场游戏店的视频，价目表显示游玩15分钟价格就已近14元，一小时高达35.88元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [小米MIX Fold 2与Galaxy Z Fold4厚度实拍对比](https://www.cnbeta.com/articles/tech/1303807.htm) | Fri Aug 12 2022 8:50 AM 
+- 🎊 [中国石油、中国石化、中国人寿、中国铝业拟自愿从纽交所退市](https://www.cnbeta.com/articles/tech/1303823.htm) | Fri Aug 12 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，博主i冰宇宙晒出了三星Galaxy Z Fold4与小米MIX Fold2厚度对比照。如图所示，小米MIX Fold 2无论是单边厚度还是铰链厚度，它都比三星Galaxy Z Fold4更薄。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月12日，中国石油、中国石化、中国人寿、中国铝业四家公司相继宣布，拟将美国存托股份从纽约证券交易所退市。&lt;/strong&gt;四家公司均已于2022年8月12日（美国东部时间）通知纽交所，将根据1934年美国证券交易法（经修订）等相关规定，申请自愿将其美国存托股份从纽交所退市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
