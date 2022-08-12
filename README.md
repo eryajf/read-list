@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Epic预告《龙珠》人气角色即将于8月16日加入《堡垒之夜》](https://hot.cnbeta.com/articles/game/1303665.htm) | Fri Aug 12 2022 5:05 AM 
+- 🕯 [被谷歌地图导航带偏路线 澳大利亚一家人自称差点丧命](https://www.cnbeta.com/articles/tech/1303693.htm) | Fri Aug 12 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;长盛不衰的《堡垒之夜》游戏，刚刚迎来了最新的跨界角色联动 —— 他就是有望与 DC 超人一战的《七龙珠》主角悟空。&lt;/strong&gt;尽管不少人已经对 Epic Games 的骚操作见怪不怪，但一想到悟空在游戏中持枪的动作，还是不免让人感到有些违和。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;驾车出行，导航就成为了最值得信任的“朋友”，但如果导航出现问题，轻则浪费时间绕路，重则危及人身安全。近日，据报道，澳大利亚新威尔士州警方透露，&lt;strong&gt;他们于8月9日接到了一则报警，称有一家人驾车出行不久后，便失去了联系。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [小牛队老板Mark Cuban身陷Voyager加密货币传销指控](https://www.cnbeta.com/articles/tech/1303663.htm) | Fri Aug 12 2022 4:47 AM 
+- 💼 [外卖最后100米“提速” 部分区域试水收费](https://www.cnbeta.com/articles/tech/1303691.htm) | Fri Aug 12 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;1958 年生于美国匹兹堡市的马克·库班，最让人熟悉的身份是小牛队的老板。但在此之外，他也是一位知名的投资人。&lt;strong&gt;尴尬的是，在加密货币市场在过去几个月经历了价格暴跌之后，愤怒的 Voyager Digital 投资者们正在向交易平台发起讨伐。&lt;/strong&gt;而参与宣传推广的 Mark Cuban，也没能逃过这一劫。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;外卖已成为堂食的重要补充部分，而近几年受疫情影响，人们的工作、生活方式也随之改变，无接触配送成为常态。与此同时，为避免外卖无序摆放、满足消费者多元化需求，智能取餐柜作为外卖服务“最后100米”的重要补充应运而生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《绝地求生》每天新增八万名新玩家 开发商利润激增](https://hot.cnbeta.com/articles/game/1303661.htm) | Fri Aug 12 2022 4:34 AM 
+- 💂 [驾驶证换证无需再提交纸质体检证明 在线即可操作](https://www.cnbeta.com/articles/tech/1303689.htm) | Fri Aug 12 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《绝地求生》开发商Krafton发布了最新的收益报告。除了财务数据，该报告还揭示了这款游戏最近的表现如何。Krafton表示，面向主机和PC平台的《绝地求生》最近刚刚度过了五周年，自2022年1月转为免费游戏以来，每天都有超过八万名新玩家加入。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;驾驶证到期需要更换，但更换过程还是有些麻烦，之前需要到指定医院进行体检，然后拿着纸质体检报告现场办理才行。北京交管部门持续在群众办事的申请材料、环节、流程上做“减法”，针对驾驶证期满换证业务中的不便之处，&lt;strong&gt;积极推进体检信息网上传输，纸质身体条件证明免提交&lt;/strong&gt;，进一步方便市民朋友在线办理驾驶证期满换证业务，节约群众出行时间，提升窗口服务效能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《FIFA 23》仍有开箱系统 EA表示不会强迫玩家氪金](https://hot.cnbeta.com/articles/game/1303659.htm) | Fri Aug 12 2022 4:18 AM 
+- 🚀 [知名网络安全记者警告关键基础设施仍面临重大攻击威胁](https://www.cnbeta.com/articles/tech/1303687.htm) | Fri Aug 12 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在英国政府最近决定不对有争议的游戏内货币化系统进行立法后，EA已经确认将在与国际足联合作的最后一款足球游戏《FIFA 23》中，坚持保留Ultimate Team模式的开箱系统。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在拉斯维加斯举办的黑帽大会上，调查记者 Kim Zetter 表示：&lt;strong&gt;自 2010 年发现“震网”（Stuxnet）蠕虫病毒以来，针对全球石油 / 天然气管道、电力 / 水厂、以及其它基础设施计算机系统的攻击有急剧增加。&lt;/strong&gt;但若人们能够积极落实必要的预防措施，去年针对 Colonial Pipeline 的勒索软件攻击，也本该是能够避免的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《Half-Life 2》Source VR Mod团队预告下月转入公测](https://hot.cnbeta.com/articles/game/1303657.htm) | Fri Aug 12 2022 4:15 AM 
+- 🎊 [卡普空大佬小林裕幸加入网易 曾开发《鬼泣4》《生化危机4》等游戏](https://hot.cnbeta.com/articles/game/1303685.htm) | Fri Aug 12 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;过去十年，开发者和 MOD 制作组一直努力让 Valve 的《Half-Life 2》游戏迎来 VR 支持。尽管距离下一个重要的里程碑还有很长一段路要走，&lt;strong&gt;但本周，我们已经迎来了一个好消息 —— 可知在五年的等待之后，该游戏的 VR Mod 即将于下月转入公测（public beta）阶段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日，知名游戏制作人小林裕幸发布声明，自己已于2022年3月31日从工作了27年的卡普空离职，将加入网易游戏继续担任游戏制作人，具体规划会在未来发布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
