@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [丰田“加价神车” 新款雷克萨斯ES上市：29.69万起](https://www.cnbeta.com/articles/tech/1303649.htm) | Fri Aug 12 2022 3:31 AM 
+- 🕯 [《FIFA 23》仍有开箱系统 EA表示不会强迫玩家氪金](https://hot.cnbeta.com/articles/game/1303659.htm) | Fri Aug 12 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为丰田旗下的豪华汽车品牌，雷克萨斯一直的销量都很不错，特别是雷克萨斯ES，可以说是占据了雷克萨斯的半壁江山。即便是被网友疯狂吐槽“同级别动力最弱”，但也丝毫不影响该车的热卖，甚至一度“加价”提车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在英国政府最近决定不对有争议的游戏内货币化系统进行立法后，EA已经确认将在与国际足联合作的最后一款足球游戏《FIFA 23》中，坚持保留Ultimate Team模式的开箱系统。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Alexa关闭，最好的SEO工具轮到谁了？](https://www.cnbeta.com/articles/tech/1303647.htm) | Fri Aug 12 2022 3:31 AM 
+- 💼 [《Half-Life 2》Source VR Mod团队预告下月转入公测](https://hot.cnbeta.com/articles/game/1303657.htm) | Fri Aug 12 2022 4:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;感谢JY的投递&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;工作了20多年的Alexa在2022年5月1日宣布退休了，现在再访问alexa.com的官网和插件，已经是停止服务的状态了。Alexa一直以来都是SEO所必需的工具，它的关停难免让许多用户感到遗憾。但也不必过多担心，因为只要有需求，市场上就仍然会有老的、新的SEO工具竞相开花。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;过去十年，开发者和 MOD 制作组一直努力让 Valve 的《Half-Life 2》游戏迎来 VR 支持。尽管距离下一个重要的里程碑还有很长一段路要走，&lt;strong&gt;但本周，我们已经迎来了一个好消息 —— 可知在五年的等待之后，该游戏的 VR Mod 即将于下月转入公测（public beta）阶段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [龙芯中科之后 国产CPU龙头海光信息登陆科创板](https://www.cnbeta.com/articles/tech/1303645.htm) | Fri Aug 12 2022 3:29 AM 
+- 💂 [软件锁导致Nothing Phone&lpar;1&rpar;无法达成1200尼特峰值屏幕亮度](https://www.cnbeta.com/articles/tech/1303655.htm) | Fri Aug 12 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;芯东西8月12日报道，刚刚，&lt;strong&gt;国产CPU龙头海光信息以发行价36元/股登陆科创板。&lt;/strong&gt;海光信息开盘价为70元/股，涨幅达94.44%。开盘后，海光信息股价小幅下跌，截至芯东西成文，股价为67.87元/股，涨幅88.53%，总市值1578亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;尽管 Nothing Phone（1）有在初期宣传过 1200 尼特的峰值亮度，但其仅适用于特定的 HDR 视频场景。&lt;/strong&gt;GSM Arena 没有对此展开详细深入的测试，所以文章里提到的都是自动 / 手动模式下的 663 / 466 尼特。除了 Nothing，其它厂商也有在采用这一策略，但这并不意味着所有人都愿意为此买账。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [韩国、欧盟不满美国电动车税收抵免计划 称“违反世贸规则”](https://www.cnbeta.com/articles/tech/1303643.htm) | Fri Aug 12 2022 3:22 AM 
+- 🚀 [男性不育症或有破解 上海科学家揭示精子发育重要机制](https://www.cnbeta.com/articles/science/1303653.htm) | Fri Aug 12 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月12日消息，&lt;strong&gt;欧盟和韩国对美国拟议的电动汽车购买税收抵免计划表示担忧，称这是“歧视”外国制造的汽车，并违反世界贸易组织（WTO）的规则&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在哺乳动物中，精子与卵子为遗传物质的传递提供了载体。对于雄性个体而言，生精细胞历经有丝分裂、减数分裂以及最后的形变才能发育为成熟精子。&lt;/strong&gt;然而，精子形成过程中仍有许多谜题尚未破解。遗传突变和基因表达异常，更是导致男性不育的重要病因。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Asahi Linux或继续用Rust为Apple Silicon编写GPU驱动程序](https://www.cnbeta.com/articles/tech/1303641.htm) | Fri Aug 12 2022 3:22 AM 
+- 🎊 [三星电子副会长李在镕复职 三星股价涨超1%](https://www.cnbeta.com/articles/tech/1303651.htm) | Fri Aug 12 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;尽管有一些逆向开发者在努力为 Apple Silicon Mac 引入 Linux 支持，但当前的一大阻碍，就是缺乏对 GPU 硬件加速特性的支持。&lt;/strong&gt;比如早期的 Asahi Linux 实验，主要围绕 m1n1 环境开展。而下一步，他们或继续使用 Rust 语言来编写 Apple AGX 的 DRM 内核图形驱动程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;韩国政府8月12日公布“光复节”特赦名单，三星电子副会长李在镕复职，乐天集团董事长申东彬也获特赦复职。消息出来后，三星股价上涨1.3%。&lt;/strong&gt;韩国总统尹锡悦12日在龙山总统室主持召开临时国务会议，最终确定法务部赦免审查委员会审查的光复节特赦案。此前预计前总统李明博和前庆尚南道知事金庆洙将不在赦免对象之列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
