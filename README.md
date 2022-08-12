@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [支付宝出现这两个界面千万别转账 你的钱有被骗风险](https://www.cnbeta.com/articles/tech/1303881.htm) | Fri Aug 12 2022 1:39 PM 
+- 🕯 [小鹏P7高速撞人剖析：不能识别静物？防撞系统失效？风险提示是否到位？](https://www.cnbeta.com/articles/tech/1303901.htm) | Fri Aug 12 2022 2:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着互联网的飞速发展，如今只需要一部手机即可轻松完成网上购物、支付和转账，十分方便，但转账的同时也要时刻保持谨慎。据媒体报道，在使用支付宝转账时，&lt;strong&gt;如果你看见如下弹窗提示，千万要注意，说明系统识别到当前交易的收款方账号涉嫌欺诈，&lt;/strong&gt;你的钱有被骗风险。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，一辆小鹏P7在高速撞上另外一辆停在车道上的汽车，造成人员伤亡。从视频来看，发生事故时小鹏P7似乎并没有减速，一人被撞飞。而据小鹏P7车主描述，其当时开启了辅助驾驶。车主称当时车速80km/h，打开了LCC（车道居中辅助），平时有异常情况都会预警，但这次没有任何提示，加上自己分神了，就发生了碰撞事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [爱马仕回应官网删除16.5万自行车：已售竭、暂时不补货](https://www.cnbeta.com/articles/tech/1303879.htm) | Fri Aug 12 2022 1:37 PM 
+- 💼 [纽交所：对个别中国企业宣布启动自美退市“不予置评”](https://www.cnbeta.com/articles/tech/1303899.htm) | Fri Aug 12 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨天，爱马仕推出了一款设计“独特”，售价高达16.5万的自行车。这款能够买上一台中型国产SUV的自行车长154.6cm，宽58cm，总重在14kg左右，采用白蜡木、铝和Spad皮革打造， 把手及坐垫支架处配有车灯，前侧饰有系列标识上釉徽章，坐垫处饰有“Hermes Paris”烫印字样，同时配有前后车篮子，支持4挡速度调节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国石油、中国石化、中国人寿、中国铝业等多只中字头公司公告，将其存托股自纽交所退市。对此，纽约证券交易所回复第一财经记者的采访请求，并表示对此事”不予置评“。早盘，中国石油下跌3.25%，中国石化跌3.6%，中国铝业跌3.79%。中国人寿下跌3.33%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [今年首发最高级别高温红色预警：10余省区市或超40℃ 最高破42℃](https://www.cnbeta.com/articles/tech/1303877.htm) | Fri Aug 12 2022 1:36 PM 
+- 💂 [分析师：英特尔离散GPU业务亏损严重 整个AXG部门可能被砍掉](https://www.cnbeta.com/articles/tech/1303897.htm) | Fri Aug 12 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;又是一个见证历史的时刻！&lt;strong&gt;中央气象台8月12日18时发布了高温红色预警，这也是中央气象台历史首个高温红色预警，之前最高都是橙色预警。&lt;/strong&gt;高温红色预警信号，是气象部门通过气象监测在高温到来之前做出的预警信号，提示百姓预防，尽量减少高温带来的不适，避免中暑等情况的发生，高温红色预警信号是高温预警信号中的第三级别（最高级别）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;曾在第六届集微半导体峰会分析师大会上担任演讲嘉宾的Jon Peddie，最近撰文分析了英特尔的GPU业务。他认为英特尔已在其离散型GPU开发上投资了约35亿美元——这些投资尚未得到回报。自2021年第一季度正式成立以来，英特尔的AXG（加速计算和图形部门）亏损了21亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [x86处理器市场变天：Intel份额首次跌破7成](https://www.cnbeta.com/articles/tech/1303875.htm) | Fri Aug 12 2022 1:32 PM 
+- 🚀 [iPad 10渲染图抢先看：配备实体Home键 价格可能会涨](https://www.cnbeta.com/articles/tech/1303895.htm) | Fri Aug 12 2022 2:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来自统计机构Mercury Research的最新数据显示，尽管刚过去的二季度，桌面处理器销量创下30年来的新低，但就厂商而言，AMD依然是相对胜利的一方，其在移动笔记本、台式机、服务器以及整个x86市场的份额，都在继续增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日晚间，AppleInsider基于之前曝光的CAD图绘制了iPad 10渲染图。如图所示，&lt;strong&gt;iPad 10采用了直角中框设计，保留了实体Home键，这颗按键集成了Touch ID功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [前《魔兽世界》设计师Travis Day去世 鬼蟹发文表示缅怀](https://hot.cnbeta.com/articles/game/1303873.htm) | Fri Aug 12 2022 1:30 PM 
+- 🎊 [何同学做了一个自己会打字的电磁铁轴体键盘](https://www.cnbeta.com/articles/science/1303893.htm) | Fri Aug 12 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据gamedeveloper消息，资深游戏设计师Travis Day确认去世，消息来自他的妹妹，但并没有给出明确死因。Travis Day于2005年入职暴雪，参与了《魔兽世界》以及《暗黑破坏神3》的开发工作。而后，Travis Day于2018年从暴雪离职，加入了Phoenix Labs，其还曾任职于腾讯光子工作室。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月12日，断更很久的B站UP主“何同学”更新了最新的视频《我做了一个自己打字的键盘》。视频中，何同学演示了自己花50个小时制作的神奇键盘，&lt;strong&gt;通过旋钮就能控制按键的触发力度，最重的时候如大雨倾盆，最轻的时候如蜻蜓点水&lt;/strong&gt;，还可以通过编程，调节每个按键的力度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303893.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
