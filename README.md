@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现火星地下水和地下冰的情况打破了人们预期](https://www.cnbeta.com/articles/science/1303905.htm) | Fri Aug 12 2022 4:24 PM 
+- 🕯 [分析师认为iPhone 14Pro存储空间仍将以128GB起步](https://www.cnbeta.com/articles/tech/1303909.htm) | Fri Aug 12 2022 5:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;研究机构TrendForce预测，iPhone 14Pro机型存储空间会从256GB起跳&lt;strong&gt;，而海通国际分析师Jeff Pu今天预测，即将推出的Pro机型将继续以128GB的存储空间开始。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [三星称可折叠手机将在几年内超越Galaxy S系列](https://www.cnbeta.com/articles/tech/1303907.htm) | Fri Aug 12 2022 4:57 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;三星正在大力推动可折叠智能手机，几年前，当最初的Galaxy Z Fold首次亮相时，没有很多人认为这一天会到来，&lt;strong&gt;但根据三星的最新声明，该公司似乎已经准备使可折叠手机取代Galaxy S系列。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [研究发现火星地下水和地下冰的情况打破了人们预期](https://www.cnbeta.com/articles/science/1303905.htm) | Fri Aug 12 2022 4:24 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;物理学家将地震数据与岩石和沉积物的属性联系起来，&lt;strong&gt;对来自美国宇航局火星探测器任务的地震数据进行新分析，发现了几个大的惊喜&lt;/strong&gt;。第一个惊喜是：在火星赤道附近的着陆点下方300米（1000英尺）的地表下几乎不含任何冰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美国宇航局SpaceX Crew-5任务完成乘员培训](https://www.cnbeta.com/articles/science/1303903.htm) | Fri Aug 12 2022 3:32 PM 
+- 🚀 [美国宇航局SpaceX Crew-5任务完成乘员培训](https://www.cnbeta.com/articles/science/1303903.htm) | Fri Aug 12 2022 3:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;进行美国宇航局SpaceX Crew-5任务的宇航员即将结束为期18个月的培训。&lt;/strong&gt;这次培训是为他们前往国际空间站的科学考察任务做准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [小鹏P7高速撞人剖析：不能识别静物？防撞系统失效？风险提示是否到位？](https://www.cnbeta.com/articles/tech/1303901.htm) | Fri Aug 12 2022 2:36 PM 
+- 🎊 [小鹏P7高速撞人剖析：不能识别静物？防撞系统失效？风险提示是否到位？](https://www.cnbeta.com/articles/tech/1303901.htm) | Fri Aug 12 2022 2:36 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，一辆小鹏P7在高速撞上另外一辆停在车道上的汽车，造成人员伤亡。从视频来看，发生事故时小鹏P7似乎并没有减速，一人被撞飞。而据小鹏P7车主描述，其当时开启了辅助驾驶。车主称当时车速80km/h，打开了LCC（车道居中辅助），平时有异常情况都会预警，但这次没有任何提示，加上自己分神了，就发生了碰撞事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [纽交所：对个别中国企业宣布启动自美退市“不予置评”](https://www.cnbeta.com/articles/tech/1303899.htm) | Fri Aug 12 2022 2:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国石油、中国石化、中国人寿、中国铝业等多只中字头公司公告，将其存托股自纽交所退市。对此，纽约证券交易所回复第一财经记者的采访请求，并表示对此事”不予置评“。早盘，中国石油下跌3.25%，中国石化跌3.6%，中国铝业跌3.79%。中国人寿下跌3.33%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [分析师：英特尔离散GPU业务亏损严重 整个AXG部门可能被砍掉](https://www.cnbeta.com/articles/tech/1303897.htm) | Fri Aug 12 2022 2:31 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;曾在第六届集微半导体峰会分析师大会上担任演讲嘉宾的Jon Peddie，最近撰文分析了英特尔的GPU业务。他认为英特尔已在其离散型GPU开发上投资了约35亿美元——这些投资尚未得到回报。自2021年第一季度正式成立以来，英特尔的AXG（加速计算和图形部门）亏损了21亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
