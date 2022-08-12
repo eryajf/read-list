@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [组件解析：WeUI系列button的实现](https://juejin.cn/post/7130900006868877349) | Fri Aug 12 2022 8:14 AM 
+- 🤗 [开源个参考 chrome 密码生成写的密码生成库](https://juejin.cn/post/7130910007108829198) | Fri Aug 12 2022 8:52 AM 
     <details><summary>展开描述 ...</summary> 
-    随着应用开发需求的不断增大，快速开发已经成为很多企业目标，但是传统的应用程序想要实现快速开发并不现实，那怎么办呢？低代码开发平台可以帮到你。 
+    几个月前因为某个需求参考了 chrome 的密码生成的源码撸了一个 js 的密码生成器，这里分享一下。 
     </details> 
 
-- 🎡 [100行代码写个canvas库](https://juejin.cn/post/7130894865440702478) | Fri Aug 12 2022 7:54 AM 
+- 🎡 [服务端优化-Tomcat调优](https://juejin.cn/post/7130909498285228040) | Fri Aug 12 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    从零开始实现一个canvas的库，画面刷新，自定义事件，组合容器，看完这个还是不会canvas就放弃它吧。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 1.写在前面 目前的java开发中，越来越多的企业，基本上都上springboot开发框架了，尤其是一些 
     </details> 
 
-- 🕯 [Vite 是怎样利用 Esbuild 来提升性能的 ？](https://juejin.cn/post/7130865011324354590) | Fri Aug 12 2022 5:58 AM 
+- 🕯 [注册配置、微服务治理、云原生网关三箭齐发，阿里云 MSE 持续升级](https://juejin.cn/post/7130909057786839054) | Fri Aug 12 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-    我们提到过开发模式下使用 `Vite` 会有首屏性能下降的负面效果。之所以会造成首屏性能下降，一方面是 `dev server` 需要完成预构建才可以响应首屏请求；另一方面是需要对请求文件做实时转换。 
+    MSE 云原生网关作为托管型的独享实例，与部署业务应用的资源解耦，并支持过载保护、故障自愈、限流降级等功能，确保流量高峰时的稳定性。其优异的性能表现使费芮不需要高规格的资源配置即可支撑大规模的业务调用 
     </details> 
 
-- 🚀 [阿里低代码引擎 | LowCodeEngine - 多页面管理及代码示例](https://juejin.cn/post/7130862978764636173) | Fri Aug 12 2022 5:50 AM 
+- 🚀 [为什么Vue没有React那么多性能优化API？](https://juejin.cn/post/7130907881733357604) | Fri Aug 12 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍基于阿里低代码引擎 lowcode-engine 如何实现多页面管理功能，并提供全网最完善的代码示例。 
+    jsx语法过于灵活,在组件每次setState的时候,整个组件树都会递归的遍历并且render一遍,所以你需要手动的告诉React,那些那些组件不需要重复render,而且Vue2使用模板SFC来组织 
     </details> 
 
-- 💪 [ArrayList源码分析&lpar;基于jdk1.8&rpar;（二）：subList陷阱](https://juejin.cn/post/7130860761273860127) | Fri Aug 12 2022 5:42 AM 
+- 💪 [iOS小技能：自定义时间格式（适配iOS15.4之后12/24小时制的问题）](https://juejin.cn/post/7130903205311381518) | Fri Aug 12 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    在前面对ArrayList源码进行了分析，那么最近在阅读阿里代码规范的时候，发现对asList方法有特别的约定，这个方法也可能是我们经常会出现问题的地方。 
+    iOS15.4之后12/24小时制的问题:如果没有设置locale和NSCalendarIdentifierISO8601，即使指定格式化指定了24小时制，也会跟随系统24小时制设置显示。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
