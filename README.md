@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [明星项目与破产清算并存 芯片产业极端现象折射周期特性](https://www.cnbeta.com/articles/tech/1303837.htm) | Fri Aug 12 2022 11:02 AM 
+- 🕯 [半导体周期反转之际 中芯国际的喜与忧](https://www.cnbeta.com/articles/tech/1303853.htm) | Fri Aug 12 2022 11:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年，受内外部多重因素影响，国内半导体产业进入极端化产业周期。8月12日，在由投中信息和投中网主办的“第16届中国投资年会·年度峰会”上，长石资本合伙人丁忠民表示，目前半导体不论是产业还是投资界，都处于一个相当极端的状态。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;受疫情影响，中芯国际部分工厂每年定期的停工检修没有在今年二季度进行，同时疫情对产出的影响也低于预期，帮助该公司二季度营收继续创下历史新高，毛利率也超过之前预期的上限。但随着全球经济增速放缓、半导体行业进入下行周期，中芯国际也难免受到双周期叠加的影响。二季度，中芯国际库存水平持续走高，晶圆价格上涨也基本停滞，净利润同比下滑25%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国内防沉迷新规出台后 未成年玩家人数降至8300万](https://hot.cnbeta.com/articles/game/1303835.htm) | Fri Aug 12 2022 11:01 AM 
+- 💼 [6.5元/小时 共享单车这个新“刺客”](https://www.cnbeta.com/articles/tech/1303851.htm) | Fri Aug 12 2022 11:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年8月，国家新闻出版署下发了限制未成年人网络游戏时间的通知，要求所有网络游戏企业仅可在周五、周六、周日和法定节假日每日20时至21时向未成年人提供1小时服务。这项限制未成年人游玩游戏时长的通知，到底产生了多大的影响呢？&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年，“雪糕刺客”“水果刺客”等网络热词出现之后，共享单车如今也成了“刺客”？走在街上，随手扫一辆共享单车，已经成为不少人的习惯。而最近不少用户却发现，共享单车不知不觉涨价了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [内卷新高度，外卖要上天？美团无人机送餐专利获授权](https://www.cnbeta.com/articles/tech/1303833.htm) | Fri Aug 12 2022 11:00 AM 
+- 💂 [实探上海赛格电子市场：芯片一天一个价 MCU需求出现分化](https://www.cnbeta.com/articles/tech/1303849.htm) | Fri Aug 12 2022 11:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月12日消息，天眼查App显示，8月12日，北京三快在线科技有限公司申请的“外卖自提设备及无人机配送系统”“一种脚架组件及无人机”“一种无人机降落平台及无人机运输系统”等5个无人机相关专利获授权。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上半年以来，消费电子市场需求持续减弱，三星、戴尔、LG等大厂纷纷下调订单，而另一方面，汽车芯片供应依旧保持紧缺态势，整个芯片市场结构性分化加剧。那么，市场具体情况如何？近日，记者实探上海赛格电子市场，了解市场情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [首个国产新冠口服药阿兹夫定片临时纳入医保](https://www.cnbeta.com/articles/tech/1303831.htm) | Fri Aug 12 2022 10:20 AM 
+- 🚀 [地狱难度翻盘，瑞幸真的要干掉星巴克了](https://www.cnbeta.com/articles/tech/1303847.htm) | Fri Aug 12 2022 11:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据北京日报从国家医疗保障局获悉，&lt;strong&gt;按照基本医保有关规定，为更好保障诊疗需求，凡被列入新冠肺炎诊疗方案的药品，可以临时性纳入医保支付范围。&lt;/strong&gt;此前8月9日，国家卫健委发布通知，将阿兹夫定片&lpar;azvudine&rpar;纳入新型冠状病毒肺炎诊疗方案（第九版），适应症为用于治疗普通型新型冠状病毒肺炎成年患者，用法用量为空腹整片吞服，每次5mg，每日1次，疗程至多不超过14天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;取代星巴克，成为中国咖啡市场的老大，瑞幸似乎真的要做到了。日前，瑞幸咖啡公布二季度财报，总净收入为32.99亿元，相较去年同期增长72.4%，远高于此前分析师预测的26亿元。瑞幸咖啡董事长兼CEO郭谨对此表示满意，并在Q2业绩说明会上表示，“尽管不利因素仍旧存在，瑞幸咖啡仍实现了又一季度出色的运营业绩。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [谷歌Pixel 6a屏幕也能升级高刷新率](https://www.cnbeta.com/articles/tech/1303829.htm) | Fri Aug 12 2022 10:20 AM 
+- 🎊 [超越奈飞，迪士尼只用了5年](https://hot.cnbeta.com/articles/movie/1303845.htm) | Fri Aug 12 2022 11:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前在2019年，有网友通过刷dtbo文件，&lt;strong&gt;把小米9屏幕刷成了84Hz，屏幕刷新率超频后的小米9动画流畅了许多。&lt;/strong&gt;时隔3年，开发者Mishaal Rahman对谷歌Pixel 6a也做了类似的超频处理，&lt;strong&gt;使得这款手机屏幕从60Hz升级到了90Hz。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;从第一次推出流媒体视频服务开始，只用了短短五年时间，迪士尼就掀翻了Netflix流媒体视频霸主的宝座。迪士尼8月10日公布的2022年第三财季财报显示，Disney+订阅用户同比增长31%至1.52亿，高于分析师此前预测的1.47亿，加上迪士尼旗下其他两大流媒体视频订阅服务Hulu和ESPN+，迪士尼流媒体订阅用户的总数达到2.211亿，首次超过Netflix，后者最新公布的订阅用户总数为2.21亿。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
