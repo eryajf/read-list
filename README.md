@@ -383,19 +383,19 @@
     合集工具箱 零代码-前端工具箱 &lpar;lingdaima.com&rpar; 前端导航 前端导航 | 专为前端开发、设计、产品、自媒体人员打造，最全面的网址导航！ &lpar;poetries.top&rpar; 常用布局/组件的写法 
     </details> 
 
-- 🕯 [设置css渐变](https://juejin.cn/post/7130809502604984328) | Fri Aug 12 2022 2:23 AM 
+- 🕯 [你给文字描述，AI艺术作画，精美无比！附源码，快来试试！](https://juejin.cn/post/7130823403325358110) | Fri Aug 12 2022 3:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过使用 AI 高级算法（各类 Diffusion 模型），它们可以根据人类的提示文本信息创作极其精美的艺术画品，从肖像到风景画，全部都能完成，创作的精美逼真程度有时甚至与人类艺术家不相上下。 
+    </details> 
+
+- 🚀 [设置css渐变](https://juejin.cn/post/7130809502604984328) | Fri Aug 12 2022 2:23 AM 
     <details><summary>展开描述 ...</summary> 
     自动生成渐变颜色的网站 在线生成CSS渐变色工具 &lpar;lingdaima.com&rpar; CSS实现渐变色边框（Gradient borders）的5种方法 - 掘金 &lpar;juejin.cn&rpar; 
     </details> 
 
-- 🚀 [JavaScript Promise 的使用技巧](https://juejin.cn/post/7130800075235688484) | Fri Aug 12 2022 1:46 AM 
+- 💪 [我用vue3和egg开发了一个早报学习平台，带领群友走向技术大佬](https://juejin.cn/post/7130804581759451144) | Fri Aug 12 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 “生产代码”是可能需要一些时间来执行的代码。 “消费代码”是必须等待结果的代码。 Promise 是一个 
-    </details> 
-
-- 💪 [1282. 用户分组 : 简单哈希表模拟题](https://juejin.cn/post/7130795522087993352) | Fri Aug 12 2022 1:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 题目描述 这是 LeetCode 上的 1282. 用户分组 ，难度为 中等。 Tag : 「哈希表」、 
+    [toc] 项目功能介绍 该项目的出发点是获取最新最值得推荐的文章以及面经，供群友们学习使用。带领前端阳光的群友们一起成为技术大佬。 当点击掘金的时候，就会获取掘金当前推荐的前端文章 当点击牛客网的时 
     </details> 
 <!-- juejin:END -->
 ### 少数派
