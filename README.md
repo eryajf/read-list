@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [银行木马SOVA卷土重来，或可发起勒索攻击](https://www.freebuf.com/news/341757.html) | Fri Aug 12 2022 3:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    肆虐Android平台的银行木马 SOVA 卷土重来，和之前相比增加了更多的新功能，甚至还有可能进行勒索攻击。 
+    </details> 
+
 - 🦄 [美国悬赏1000万美元，征集Conti成员信息](https://www.freebuf.com/news/341747.html) | Fri Aug 12 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
     美国国务院今天宣布悬赏1000万美元征集5名Conti勒索软件高级成员的信息。 
     </details> 
 
-- 🦄 [涉及金额5.4亿美元，网络犯罪分子正通过 RenBridge 跨链平台洗钱](https://www.freebuf.com/news/341744.html) | Fri Aug 12 2022 3:00 AM 
+- 🦅 [涉及金额5.4亿美元，网络犯罪分子正通过 RenBridge 跨链平台洗钱](https://www.freebuf.com/news/341744.html) | Fri Aug 12 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     该平台允许在不同的区块链网络之间无缝移动资产，例如将比特币转换为以太坊区块链。 
     </details> 
 
-- 🦅 [突发！美的传闻被勒索攻击](https://www.freebuf.com/news/341718.html) | Thu Aug 11 2022 11:49 AM 
+- 🪄 [突发！美的传闻被勒索攻击](https://www.freebuf.com/news/341718.html) | Thu Aug 11 2022 11:49 AM 
     <details><summary>展开描述 ...</summary> 
     美的集团传闻遭遇勒索攻击，工厂多处电脑中了勒索病毒，导致内网系统连不上，所有文件都无法打开。 
     </details> 
 
-- 🪄 [新趋势：雇佣黑客成为一门生意](https://www.freebuf.com/articles/network/341681.html) | Thu Aug 11 2022 8:47 AM 
+- 💻 [新趋势：雇佣黑客成为一门生意](https://www.freebuf.com/articles/network/341681.html) | Thu Aug 11 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
     网络犯罪已经进入了一个新的时代，黑客不再仅仅为了刺激而发起攻击。 
-    </details> 
-
-- 💻 [Sophos：首次发现三个勒索软件连续攻击同一个网络](https://www.freebuf.com/news/341648.html) | Thu Aug 11 2022 6:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    Sophos X-Ops在报告中称某汽车供应商的系统在5月的两周内被三个不同的勒索软件团伙入侵。 
     </details> 
 <!-- freebuf:END -->
 
