@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开源个参考 chrome 密码生成写的密码生成库](https://juejin.cn/post/7130910007108829198) | Fri Aug 12 2022 8:52 AM 
+- 🤗 [【App 商业化训练营】 限时免费报名中！程序员也要 get 商业思维](https://juejin.cn/post/7130975312350822431) | Fri Aug 12 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-    几个月前因为某个需求参考了 chrome 的密码生成的源码撸了一个 js 的密码生成器，这里分享一下。 
+    2021 年 5 月，移动互联网活跃用户规模出现了“负增长”，同比增长率为 -0.1%，互联网彻底进入“存量时代” 。虽然互联网“入冬”，但相关数据表明：流量获取与流量变现依旧是互联网企业的财富密码。 
     </details> 
 
-- 🎡 [服务端优化-Tomcat调优](https://juejin.cn/post/7130909498285228040) | Fri Aug 12 2022 8:50 AM 
+- 🎡 [Swift - LeetCode - 用队列实现栈](https://juejin.cn/post/7130934688054525983) | Fri Aug 12 2022 10:31 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 1.写在前面 目前的java开发中，越来越多的企业，基本上都上springboot开发框架了，尤其是一些 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情  题目 请你仅使用两个队列实现一个后入先出（LIFO）的栈，并支持普通栈的全部四种操作（push、top 
     </details> 
 
-- 🕯 [注册配置、微服务治理、云原生网关三箭齐发，阿里云 MSE 持续升级](https://juejin.cn/post/7130909057786839054) | Fri Aug 12 2022 8:49 AM 
+- 🕯 [JVM系列第二篇](https://juejin.cn/post/7130929532035661855) | Fri Aug 12 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-    MSE 云原生网关作为托管型的独享实例，与部署业务应用的资源解耦，并支持过载保护、故障自愈、限流降级等功能，确保流量高峰时的稳定性。其优异的性能表现使费芮不需要高规格的资源配置即可支撑大规模的业务调用 
+    01 结合字节码指令理解Java虚拟机栈和栈帧 每个栈帧中包括局部变量表&lpar;Local Variables&rpar;、操作数栈&lpar;Operand Stack&rpar;、指向运行时常量池的引用&lpar;A reference to 
     </details> 
 
-- 🚀 [为什么Vue没有React那么多性能优化API？](https://juejin.cn/post/7130907881733357604) | Fri Aug 12 2022 8:44 AM 
+- 🚀 [私有化输出的服务网格我们是这样做的](https://juejin.cn/post/7130925351965818917) | Fri Aug 12 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    jsx语法过于灵活,在组件每次setState的时候,整个组件树都会递归的遍历并且render一遍,所以你需要手动的告诉React,那些那些组件不需要重复render,而且Vue2使用模板SFC来组织 
+    我们支持通过阿里云混合云企业版输出、CNStack 输出，同时我们也支持独立部署输出，只需要一个 K8s 集群，可以快速轻松拉起专有云服务网格的能力，体验产品化的服务网格能力。 
     </details> 
 
-- 💪 [iOS小技能：自定义时间格式（适配iOS15.4之后12/24小时制的问题）](https://juejin.cn/post/7130903205311381518) | Fri Aug 12 2022 8:26 AM 
+- 💪 [给所有React的小伙伴：useUpdateEffect（状态更新生命周期）](https://juejin.cn/post/7130923763281395726) | Fri Aug 12 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
-    iOS15.4之后12/24小时制的问题:如果没有设置locale和NSCalendarIdentifierISO8601，即使指定格式化指定了24小时制，也会跟随系统24小时制设置显示。 
+    自定义hook,弥补react没有update生命周期，自定义useUpdateEffect生命周期。对代码进行解耦并提升代码B格。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
