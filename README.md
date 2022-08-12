@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [又一家美国零售巨头裁员 报道称百思买过去一周裁员“数百人”](https://www.cnbeta.com/articles/tech/1303915.htm) | Fri Aug 12 2022 6:21 PM 
+- 🕯 [Intel Arc A380显卡超频3.1GHz 这是图个啥？](https://www.cnbeta.com/articles/tech/1303919.htm) | Fri Aug 12 2022 6:30 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;超频高手MassMan&lpar;ScaterBencher&rpar;展示了他的最新成果：&lt;strong&gt;将一块蓝戟的Intel Arc A380显卡核心频率超到了惊人的3.1GHz！对比Arc A380默认设定的2.0GHz，这一成绩提高了足足55％，即便是对比蓝戟预超的2.45GHz，也要高了27％。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [美国史上最大气候法案本周见分晓 增收7400亿美元 新增投入4300亿](https://www.cnbeta.com/articles/tech/1303917.htm) | Fri Aug 12 2022 6:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;法案提出对气候投资砸下3690亿美元，通过对大企业增税未来十年削减赤字3000亿&amp;nbsp;。评论认为，法案的真正目的不是降低通胀，是民主党要确保赢得中期选举的行动，政治意义大于经济意义。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [又一家美国零售巨头裁员 报道称百思买过去一周裁员“数百人”](https://www.cnbeta.com/articles/tech/1303915.htm) | Fri Aug 12 2022 6:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;媒体周五援引知情人士的话报道称，美国最大消费电子零售商百思买（Best Buy）正在美国各地裁员，以削减成本并提高利润。报道称，百思买过去一周在全美范围内裁员“数百人”。该公司减少了其零售店的员工人数，同时还削减了一些帮助客户规划和购买家庭娱乐布局的员工的职位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [互动健身平台Peloton宣布裁员近800人 关闭大量门店并提高产品价格 股价大涨13%](https://www.cnbeta.com/articles/tech/1303913.htm) | Fri Aug 12 2022 6:21 PM 
+- 🚀 [互动健身平台Peloton宣布裁员近800人 关闭大量门店并提高产品价格 股价大涨13%](https://www.cnbeta.com/articles/tech/1303913.htm) | Fri Aug 12 2022 6:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;全球最大互动健身平台Peloton周五告诉员工，该公司将裁员约780人、关闭大量零售门店，并提高部分设备的价格，以降低成本并实现盈利。该公司没有具体说明计划在86家零售店中关闭多少家，但表示计划从2023年开始“积极”减少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [前高通研究副总裁等三人被控参与1.5亿美元欺诈计划](https://www.cnbeta.com/articles/tech/1303911.htm) | Fri Aug 12 2022 5:25 PM 
+- 🎊 [前高通研究副总裁等三人被控参与1.5亿美元欺诈计划](https://www.cnbeta.com/articles/tech/1303911.htm) | Fri Aug 12 2022 5:25 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;圣地亚哥联邦检察官本周公布了对一名前高通公司研究工程师和其他三人的欺诈和洗钱指控，&lt;strong&gt;他们涉嫌欺骗高通公司支付1.5亿美元来收购其所谓拥有的技术。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [分析师认为iPhone 14Pro存储空间仍将以128GB起步](https://www.cnbeta.com/articles/tech/1303909.htm) | Fri Aug 12 2022 5:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;研究机构TrendForce预测，iPhone 14Pro机型存储空间会从256GB起跳&lt;strong&gt;，而海通国际分析师Jeff Pu今天预测，即将推出的Pro机型将继续以128GB的存储空间开始。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [三星称可折叠手机将在几年内超越Galaxy S系列](https://www.cnbeta.com/articles/tech/1303907.htm) | Fri Aug 12 2022 4:57 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星正在大力推动可折叠智能手机，几年前，当最初的Galaxy Z Fold首次亮相时，没有很多人认为这一天会到来，&lt;strong&gt;但根据三星的最新声明，该公司似乎已经准备使可折叠手机取代Galaxy S系列。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
