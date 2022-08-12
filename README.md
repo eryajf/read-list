@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [薛定谔建立的人眼感知色差的数学模型，是错的](http://jandan.net/p/111123) | Thu Aug 11 2022 3:45 PM 
+- 🚀 [海绵也会打喷嚏](http://jandan.net/p/111127) | Fri Aug 12 2022 3:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    海绵是没有大脑的简单多细胞生物，历史可以追溯到大约 50 亿年前。 
+    </details> 
+
+- 🙉 [今日好价 0812](http://jandan.net/p/111128) | Fri Aug 12 2022 3:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
+    </details> 
+
+- 🎉 [薛定谔建立的人眼感知色差的数学模型，是错的](http://jandan.net/p/111123) | Thu Aug 11 2022 3:45 PM 
     <details><summary>展开描述 ...</summary> 
     这一模型被科学家和工业界使用了100多年，用于纺织印刷，显示器设计等 
     </details> 
 
-- 🙉 [夏天越来越热 佛罗里达州过去四年孵化的海龟恐怕全是雌性](http://jandan.net/p/111115) | Thu Aug 11 2022 10:25 AM 
+- 🐲 [夏天越来越热 佛罗里达州过去四年孵化的海龟恐怕全是雌性](http://jandan.net/p/111115) | Thu Aug 11 2022 10:25 AM 
     <details><summary>展开描述 ...</summary> 
     埋有卵的沙子温度会影响海龟的性别。 
     </details> 
 
-- 🎉 [发霉啦：今天，我和男朋友一起骑山地车时摔断了脚踝](http://jandan.net/p/111125) | Thu Aug 11 2022 6:42 AM 
+-  [发霉啦：今天，我和男朋友一起骑山地车时摔断了脚踝](http://jandan.net/p/111125) | Thu Aug 11 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
     今天不是周五啊？FML 
-    </details> 
-
-- 🐲 [罕见病例 生长在喉咙里的真菌](http://jandan.net/p/111094) | Thu Aug 11 2022 3:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    zsbd 
-    </details> 
-
--  [今日好价 0811](http://jandan.net/p/111124) | Thu Aug 11 2022 2:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
