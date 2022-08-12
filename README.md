@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Windows 11 有没有这样的菜单 Api](https://www.v2ex.com/t/872343#reply3) | Fri Aug 12 2022 1:34 AM
-- 🤗 [求教一个查找空文件夹的 bash 脚本](https://www.v2ex.com/t/872338#reply4) | Fri Aug 12 2022 1:18 AM
-- 🎭 [学习周刊-总第 66 期-又有两个新的 go-web 管理后台框架](https://www.v2ex.com/t/872330#reply0) | Fri Aug 12 2022 12:49 AM
-- 🥷 [浏览器图片渲染优化，各位有什么好方案吗](https://www.v2ex.com/t/872324#reply10) | Thu Aug 11 2022 9:34 PM
-- 🐵 [Google IPV6 Doh/Dot 目前&lpar;202208&rpar;在国内是可用状态](https://www.v2ex.com/t/872322#reply7) | Thu Aug 11 2022 8:27 PM<!-- v2ex:END -->
+- 🥸 [Python 每日一练：等分字符串](https://www.v2ex.com/t/872391#reply0) | Fri Aug 12 2022 3:16 AM
+- 🤗 [大佬快来，请教一个 bash 文本对齐问题。](https://www.v2ex.com/t/872386#reply0) | Fri Aug 12 2022 3:06 AM
+- 🎭 [求教下有哪个 CI/CD 工具能完全替代 Jenkins 的，求推荐](https://www.v2ex.com/t/872380#reply12) | Fri Aug 12 2022 2:47 AM
+- 🥷 [怎么对比 postgres 数据库数据变化](https://www.v2ex.com/t/872353#reply3) | Fri Aug 12 2022 1:56 AM
+- 🐵 [Windows 11 有没有这样的菜单 Api](https://www.v2ex.com/t/872343#reply14) | Fri Aug 12 2022 1:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
