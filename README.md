@@ -378,24 +378,24 @@
     2021 年 5 月，移动互联网活跃用户规模出现了“负增长”，同比增长率为 -0.1%，互联网彻底进入“存量时代” 。虽然互联网“入冬”，但相关数据表明：流量获取与流量变现依旧是互联网企业的财富密码。 
     </details> 
 
-- 🎡 [Swift - LeetCode - 用队列实现栈](https://juejin.cn/post/7130934688054525983) | Fri Aug 12 2022 10:31 AM 
+- 🎡 [&lpar;七&rpar;Java网络编程-IO模型篇之从BIO、NIO、AIO到内核select、epoll剖析！](https://juejin.cn/post/7130952602350534693) | Fri Aug 12 2022 11:38 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情  题目 请你仅使用两个队列实现一个后入先出（LIFO）的栈，并支持普通栈的全部四种操作（push、top 
+    如若你对于面试要求中的“基础扎实，熟练掌握IO、多线程....”这一条中的IO还不了解，那么欢迎阅读本文为你建立出全面的IO模型体系。 
     </details> 
 
-- 🕯 [JVM系列第二篇](https://juejin.cn/post/7130929532035661855) | Fri Aug 12 2022 10:09 AM 
+- 🕯 [【刷题模板】1282. 用户分组](https://juejin.cn/post/7130950200889180167) | Fri Aug 12 2022 11:29 AM 
     <details><summary>展开描述 ...</summary> 
-    01 结合字节码指令理解Java虚拟机栈和栈帧 每个栈帧中包括局部变量表&lpar;Local Variables&rpar;、操作数栈&lpar;Operand Stack&rpar;、指向运行时常量池的引用&lpar;A reference to 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 本次刷题日记的第 90 篇，力扣题为：1282. 用户分组 一、题目描述： 咱今天不买彩票了，被套牢了， 
     </details> 
 
-- 🚀 [私有化输出的服务网格我们是这样做的](https://juejin.cn/post/7130925351965818917) | Fri Aug 12 2022 9:52 AM 
+- 🚀 [SpringCloud OpenFeign 请求重试](https://juejin.cn/post/7130943346117181476) | Fri Aug 12 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
-    我们支持通过阿里云混合云企业版输出、CNStack 输出，同时我们也支持独立部署输出，只需要一个 K8s 集群，可以快速轻松拉起专有云服务网格的能力，体验产品化的服务网格能力。 
+    前言 真实的微服务业务场景中，可能出现跨服务调用失败的情况。最常见的就是被调用的服务正在发布，由于微服务之间通常有依赖关系，发布有一定的先后顺序，对于一个微服务应用常见的发布策略有两种 先停掉集群中一 
     </details> 
 
-- 💪 [给所有React的小伙伴：useUpdateEffect（状态更新生命周期）](https://juejin.cn/post/7130923763281395726) | Fri Aug 12 2022 9:47 AM 
+- 💪 [学点Linux命令没坏处（常用的内置命令）](https://juejin.cn/post/7130938958023753735) | Fri Aug 12 2022 10:45 AM 
     <details><summary>展开描述 ...</summary> 
-    自定义hook,弥补react没有update生命周期，自定义useUpdateEffect生命周期。对代码进行解耦并提升代码B格。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第11天，点击查看活动详情 前言 linux操作系统提供了一些内置的命令，掌握这些有利于我们日常对linux的使用，以及shell脚 
     </details> 
 <!-- juejin:END -->
 ### 少数派
