@@ -805,7 +805,7 @@
 <!-- jandan:START -->
 - 🚀 [海绵也会打喷嚏](http://jandan.net/p/111127) | Fri Aug 12 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-    海绵是没有大脑的简单多细胞生物，历史可以追溯到大约 50 亿年前。 
+    海绵是没有大脑的简单多细胞生物，历史可以追溯到大约 5 亿年前。 
     </details> 
 
 - 🙉 [今日好价 0812](http://jandan.net/p/111128) | Fri Aug 12 2022 3:24 AM 
