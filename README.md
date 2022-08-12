@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [印度考虑限制中企销售千元以内手机？印官员否认](https://www.cnbeta.com/articles/tech/1303463.htm) | Thu Aug 11 2022 11:15 PM 
+- 🕯 [美FTC征求公众意见 拟出台新规逼科技巨头保护消费者隐私](https://www.cnbeta.com/articles/tech/1303553.htm) | Fri Aug 12 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;印度《铸币报》网站11日报道称，印度政府高级官员表示，印度政府没有限制中国手机品牌在印度市场销售低端智能手机的计划。此前有报道称，印度政府正考虑禁止中国品牌销售价格低于1.2万卢比（约合1016元人民币）的低端手机，但一名了解印度政府内部相关事务的人士表示：“印度电子和信息技术部没有考虑此类建议。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，日前，美国联邦贸易委员会（FTC）向社会公开征集意见，内容是科技公司应该如何保护消费者隐私数据，这将是美国联邦政府为科技行业制定隐私监管制度迈出的第一步。FTC对外发出的文件官方名称是《关于拟议中制度制定的预先通知》，希望社会各界能够提供有关数据采集、算法歧视问题，以及商业监控等方面的意见建议和观点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美国猴痘确诊病例数超万例](https://www.cnbeta.com/articles/tech/1303461.htm) | Thu Aug 11 2022 11:10 PM 
+- 💼 [《纽约时报》股价收涨10%，激进投资者ValueAct大举买入其股份](https://www.cnbeta.com/articles/tech/1303551.htm) | Fri Aug 12 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国疾病控制和预防中心10日发布的最新数据显示，美国猴痘确诊病例数已达10392例。美国猴痘病例数为全球最多，政府应对不力招致多方批评。&lt;/strong&gt;美疾控中心数据显示，10日当天全美报告新增猴痘确诊病例1391例，这是美国自5月报告首例猴痘病例以来，首次单日新增病例数过千。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月12日早间消息，&lt;strong&gt;当地时间周四，美国证券交易委员会（SEC）文件显示，激进投资者ValueAct已经持有纽约时报公司的6.7%股份，这条消息推动该公司股价当天上涨约10%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [面临数万起致癌诉讼，强生将停产含滑石粉产品](https://www.cnbeta.com/articles/tech/1303459.htm) | Thu Aug 11 2022 11:09 PM 
+- 💂 [Intel宣布重要人事任命 马来华裔半导体大牛陈立武加入董事会](https://www.cnbeta.com/articles/tech/1303549.htm) | Fri Aug 12 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;强生公司当地时间周四宣布，将转型生产全玉米淀粉配方的婴儿爽身粉，并将于2023年在全球范围内停用滑石粉。该公司在一份声明中表示：“我们不断评估和优化我们的投资组合，以使业务处于最有利于长期增长的位置。这一转变将有助于简化我们的产品供应，提供可持续的创新，并满足我们的消费者和客户的需求，以及不断变化的全球趋势。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间8月11日，Intel宣布了一项重要人事任命，现任Cadence 执行董事长陈立武（Lip-Bu Tan）将加入Interl董事会，自2022年9月1日生效，主要参与并购委员会工作。“陈立武是半导体行业备受尊敬的全球领导者，我们很高兴欢迎他加入Intel董事会，”Intel董事会主席 Omar Ishrak 说。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [电动汽车初创公司Rivian第二季度营收3.64亿美元 净亏损同比扩大](https://www.cnbeta.com/articles/tech/1303457.htm) | Thu Aug 11 2022 11:07 PM 
+- 🚀 [《柳叶刀传染病》刊发新研究：新冠mRNA疫苗对孕妇是安全的](https://www.cnbeta.com/articles/science/1303547.htm) | Fri Aug 12 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;电动汽车初创公司Rivian今日公布了该公司的2021财年第二季度财报。报告显示，Rivian第二季度总营收为3.64亿美元；归属于普通股股东的净亏损为17.12亿美元，相比之下上年同期归属于普通股股东的净亏损为5.80亿美元，同比有所扩大；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月12日消息，发表在《柳叶刀传染病》上的一项新研究，比较了接种疫苗的孕妇、未接种疫苗的孕妇和接种疫苗的非孕妇之间的疫苗副作用。&lt;strong&gt;这项研进一步证明了新冠肺炎mRNA疫苗对孕妇是安全的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果预计2022年iPhone总产量2.2亿台 销量不会下降](https://www.cnbeta.com/articles/tech/1303455.htm) | Thu Aug 11 2022 11:07 PM 
+- 🎊 [头朝下装进-196℃液氮瓶，第一批冷冻人​现在怎么样了？](https://www.cnbeta.com/articles/science/1303545.htm) | Fri Aug 12 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然整个智能手机市场正在减速，但苹果相信2022年iPhone销量不会下滑。苹果仍然认为iPhone需求会很强劲，它要求供应商制造9000万台iPhone 14各型手机，与上年同期对iPhone 13各型手机的预期差不多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;把人体冷冻以求未来，是科幻作品中一个常见的设定。现实中，虽然没有美国队长的超级血清，但是“冷冻人”其实已经存在了。他们也希望能够打破时间的桎梏，将生命的“停止”键换成“暂停”键，在未来的某天复活。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
