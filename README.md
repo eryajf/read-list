@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [首个国产新冠口服药阿兹夫定片临时纳入医保](https://www.cnbeta.com/articles/tech/1303831.htm) | Fri Aug 12 2022 10:20 AM 
+- 🕯 [明星项目与破产清算并存 芯片产业极端现象折射周期特性](https://www.cnbeta.com/articles/tech/1303837.htm) | Fri Aug 12 2022 11:02 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;2022年，受内外部多重因素影响，国内半导体产业进入极端化产业周期。8月12日，在由投中信息和投中网主办的“第16届中国投资年会·年度峰会”上，长石资本合伙人丁忠民表示，目前半导体不论是产业还是投资界，都处于一个相当极端的状态。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [国内防沉迷新规出台后 未成年玩家人数降至8300万](https://hot.cnbeta.com/articles/game/1303835.htm) | Fri Aug 12 2022 11:01 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;去年8月，国家新闻出版署下发了限制未成年人网络游戏时间的通知，要求所有网络游戏企业仅可在周五、周六、周日和法定节假日每日20时至21时向未成年人提供1小时服务。这项限制未成年人游玩游戏时长的通知，到底产生了多大的影响呢？&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [内卷新高度，外卖要上天？美团无人机送餐专利获授权](https://www.cnbeta.com/articles/tech/1303833.htm) | Fri Aug 12 2022 11:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月12日消息，天眼查App显示，8月12日，北京三快在线科技有限公司申请的“外卖自提设备及无人机配送系统”“一种脚架组件及无人机”“一种无人机降落平台及无人机运输系统”等5个无人机相关专利获授权。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [首个国产新冠口服药阿兹夫定片临时纳入医保](https://www.cnbeta.com/articles/tech/1303831.htm) | Fri Aug 12 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据北京日报从国家医疗保障局获悉，&lt;strong&gt;按照基本医保有关规定，为更好保障诊疗需求，凡被列入新冠肺炎诊疗方案的药品，可以临时性纳入医保支付范围。&lt;/strong&gt;此前8月9日，国家卫健委发布通知，将阿兹夫定片&lpar;azvudine&rpar;纳入新型冠状病毒肺炎诊疗方案（第九版），适应症为用于治疗普通型新型冠状病毒肺炎成年患者，用法用量为空腹整片吞服，每次5mg，每日1次，疗程至多不超过14天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [谷歌Pixel 6a屏幕也能升级高刷新率](https://www.cnbeta.com/articles/tech/1303829.htm) | Fri Aug 12 2022 10:20 AM 
+- 🎊 [谷歌Pixel 6a屏幕也能升级高刷新率](https://www.cnbeta.com/articles/tech/1303829.htm) | Fri Aug 12 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;此前在2019年，有网友通过刷dtbo文件，&lt;strong&gt;把小米9屏幕刷成了84Hz，屏幕刷新率超频后的小米9动画流畅了许多。&lt;/strong&gt;时隔3年，开发者Mishaal Rahman对谷歌Pixel 6a也做了类似的超频处理，&lt;strong&gt;使得这款手机屏幕从60Hz升级到了90Hz。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Linux 6.0已为龙芯中科LoongArch架构启用PCI和其他功能支持](https://www.cnbeta.com/articles/tech/1303827.htm) | Fri Aug 12 2022 9:48 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然在Linux 5.19中合并了对龙芯中科LoongArchCPU指令集架构的支持，但由于一些驱动代码尚未完成并准备好及时合并，这实际上还不足以产生一个启动系统。&lt;strong&gt;LoongArch之前被允许在v5.19中合并这些初步代码，以便Glibc支持可以落地，现在Linux 6.0中更多的CPU端口已经准备好进入内核。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [UP主抵制商场35元/小时盗版游戏主机 把NS借给小学生玩](https://hot.cnbeta.com/articles/game/1303825.htm) | Fri Aug 12 2022 9:46 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日，B站UP主&lt;a href=&quot;https://space.bilibili.com/26454148&quot; target=&quot;_blank&quot; class=&quot;n1&quot;&gt;我是买爆哥&lt;/a&gt;上传了一支探访一家商场游戏店的视频，价目表显示游玩15分钟价格就已近14元，一小时高达35.88元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [中国石油、中国石化、中国人寿、中国铝业拟自愿从纽交所退市](https://www.cnbeta.com/articles/tech/1303823.htm) | Fri Aug 12 2022 9:46 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月12日，中国石油、中国石化、中国人寿、中国铝业四家公司相继宣布，拟将美国存托股份从纽约证券交易所退市。&lt;/strong&gt;四家公司均已于2022年8月12日（美国东部时间）通知纽交所，将根据1934年美国证券交易法（经修订）等相关规定，申请自愿将其美国存托股份从纽交所退市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
