@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [GTX 2080原型卡惊现人间！唯一支持光追的GTX显卡](https://www.cnbeta.com/articles/tech/1303785.htm) | Fri Aug 12 2022 8:12 AM 
+- 🕯 [哈勃发现红超巨星参宿四在发生从未见过的爆炸后缓慢恢复](https://www.cnbeta.com/articles/science/1303817.htm) | Fri Aug 12 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;我们知道，NVIDIA这几年的显卡可分为两个级别，RTX系列支持光线追踪、DLSS，GTX系列则都没有。&lt;/strong&gt;当然，RTX 30已经全系普及光追，笔记本上也有了入门级的RTX 2050。不出意外的话，GTX这个曾经响当当的序列，将会退出历史舞台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;参宿四是一颗红超巨星，在冬季猎户座的右上角出现一个明亮的、红宝石色的、闪烁的光点。然而，当近距离观察时，天文学家们知道，它是一个愤怒的“怪物”，有着长达400天的有规律的“脉动心跳”。&lt;strong&gt;这颗衰老的恒星被归类为超巨星，因为它已经膨胀到了惊人的直径，大约有10亿英里。如果放在我们太阳系的中心，它将达到木星的轨道。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [大疆Mavic 3无人机在珠峰峰顶成功起飞：8848米 人类首次](https://www.cnbeta.com/articles/tech/1303783.htm) | Fri Aug 12 2022 8:10 AM 
+- 💼 [《指环王：力量之戒》新预告 黑人精灵很凶悍](https://hot.cnbeta.com/articles/movie/1303813.htm) | Fri Aug 12 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;珠穆朗玛峰海拔8848.86米，作为世界之巅，登顶珠峰是每个攀登者的梦想之一。今日，据大疆官方消息，&lt;strong&gt;DJI联合影像团队8KRAW成功登顶珠穆朗玛峰，并使用Mavic 3航拍记录珠峰。&lt;/strong&gt;值得一提的是，&lt;strong&gt;这也是人类首次在珠峰峰顶起飞无人机，&lt;/strong&gt;最终Mavic 3在9232.86米的高空将峰顶的景象成功记录下来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日指环王衍生剧集《指环王：力量之戒》新预告公布，“精灵与矮人联手，可能揭开新的时代”。众多角色齐登场，一起来看看视频吧！&lt;/strong&gt;此前“黑人精灵”演员伊斯梅尔·克鲁兹·科尔多瓦曾表达了出演精灵的感受。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科学家重现久违的“昆虫之歌”  以帮助再次找到该物种](https://www.cnbeta.com/articles/science/1303781.htm) | Fri Aug 12 2022 8:07 AM 
+- 💂 [MLID：英伟达下场敦促AIB合作伙伴清理Ampere显卡库存](https://www.cnbeta.com/articles/tech/1303811.htm) | Fri Aug 12 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，在博物馆里静静地呆了150年后，一个奇怪的标本现在再次“唱起了它的歌”。&lt;strong&gt;科学家们通过对其翅膀进行3D扫描，以数字方式重现了自1869年以来从未见过的一种久违的昆虫声音。&lt;/strong&gt;这首“曲子”的具体内容可以帮助追踪野外的活体标本--如果有任何剩下的话。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;加密货币市场崩盘数月后，显卡的售价也在一路回归正常。&lt;strong&gt;不过随着 RTX 40 系列新卡发布的临近，英伟达也在亲自下场敦促 AIB 合作伙伴加快清理积压的 RTX 30 系列显卡库存。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Playbox？网友发现蓝色包装的Xbox Series X主机](https://hot.cnbeta.com/articles/game/1303779.htm) | Fri Aug 12 2022 8:07 AM 
+- 🚀 [小鹏销售带客户体验“自动驾驶”：时速70怼上前车、气囊爆了](https://www.cnbeta.com/articles/tech/1303809.htm) | Fri Aug 12 2022 8:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自从初代Xbox主机发售以来，绿色一直是Xbox主机的主题色。&lt;strong&gt;但最近，一位Reddit用户在当地的游戏商店中发现了一台蓝色外包装的Xbox Series X主机，这引起了玩家们的热烈讨论。&lt;/strong&gt;这位Reddit用户名叫Confluxster，从他拍摄的图片可以看到，确实有一台Xbox Series X主机的外包装颜色与其他的不同。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1303779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国产新造车势力总是轮流登上热搜，昨日，一小鹏P7在高架上发生事故，致人死亡事件曝光后，引起了大家对所谓“自动驾驶”的热烈讨论。&lt;strong&gt;而就在今天，又有博主爆料称，小鹏汽车再出事故，不过幸运的是，这次没人伤亡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [与五菱宏光S正面对飙 小鹏P7将加入《极限竞速：地平线5》](https://www.cnbeta.com/articles/tech/1303777.htm) | Fri Aug 12 2022 8:01 AM 
+- 🎊 [小米MIX Fold 2与Galaxy Z Fold4厚度实拍对比](https://www.cnbeta.com/articles/tech/1303807.htm) | Fri Aug 12 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;备受玩家喜爱的竞速游戏《极限竞速：地平线5》又要迎来新的参赛选手了。近日消息，《极限竞速：地平线5》开发商Playground Game宣布&lt;strong&gt;小鹏P7将加入游戏之中&lt;/strong&gt;，新车将会在第12赛季的春季赛中现身，因此可以获得车辆的具体日期为2022年10月6日-10月13日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，博主i冰宇宙晒出了三星Galaxy Z Fold4与小米MIX Fold2厚度对比照。如图所示，小米MIX Fold 2无论是单边厚度还是铰链厚度，它都比三星Galaxy Z Fold4更薄。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
