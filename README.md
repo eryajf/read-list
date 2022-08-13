@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Ubuntu 22.04.1 发布了，给 WSL2 升级一下](https://www.v2ex.com/t/872549#reply3) | Fri Aug 12 2022 4:59 PM
-- 🤗 [Android 12 准备好了，如何虚拟机运行 Windows 11？](https://www.v2ex.com/t/872547#reply1) | Fri Aug 12 2022 4:17 PM
-- 🎭 [请问大家一个大屏发布系统是怎么做的](https://www.v2ex.com/t/872542#reply9) | Fri Aug 12 2022 3:27 PM
-- 🥷 [把给 app 打包的 keystore 文件弄丢了，怎么办？](https://www.v2ex.com/t/872541#reply9) | Fri Aug 12 2022 3:25 PM
-- 🐵 [WINDOWS 的 Android Studio 无法启动 ARM 的模拟器](https://www.v2ex.com/t/872539#reply3) | Fri Aug 12 2022 3:20 PM<!-- v2ex:END -->
+- 🥸 [想开发一个 windows 平台对标 Dash 的应用，用什么技术栈效率高](https://www.v2ex.com/t/872565#reply0) | Sat Aug 13 2022 1:24 AM
+- 🤗 [redmi pro 14 2022 + win11 home + docker 开发如何？](https://www.v2ex.com/t/872558#reply3) | Sat Aug 13 2022 12:17 AM
+- 🎭 [Ubuntu 22.04.1 发布了，给 WSL2 升级一下](https://www.v2ex.com/t/872549#reply3) | Fri Aug 12 2022 4:59 PM
+- 🥷 [Android 12 准备好了，如何虚拟机运行 Windows 11？](https://www.v2ex.com/t/872547#reply2) | Fri Aug 12 2022 4:17 PM
+- 🐵 [请问大家一个大屏发布系统是怎么做的](https://www.v2ex.com/t/872542#reply11) | Fri Aug 12 2022 3:27 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
