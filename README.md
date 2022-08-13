@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [加州能源委员会希望海上风电装机量在2045年达到25000兆瓦](https://www.cnbeta.com/articles/tech/1304045.htm) | Sat Aug 13 2022 4:01 AM 
+- 🕯 [传OPPO正酝酿向国际市场推出两款折叠屏新机](https://www.cnbeta.com/articles/tech/1304047.htm) | Sat Aug 13 2022 4:49 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;虽然引发高度关注的 OPPO Find N 折叠屏智能机没有选择出海，但据 Yogesh Brar 爆料，该公司似乎有意在今秋带来一些惊喜。&lt;/strong&gt;此外鉴于该公司早前在欧盟知识产权局（EUIPO）注册了 Find N Fold 和 Find N Flip 的新商标，推测两款新机会在几周后露面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [加州能源委员会希望海上风电装机量在2045年达到25000兆瓦](https://www.cnbeta.com/articles/tech/1304045.htm) | Sat Aug 13 2022 4:01 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;加利福尼亚州刚刚制定了一个壮大其海上风电产业的长期计划，目标是在 2045 年达到 25000 兆瓦的装机容量 —— 与当前整个欧洲的水平相当。&lt;/strong&gt;外媒指出，加州能源委员会在本周三设定的这一目标，也是全美各州迄今为止最充满雄心壮志的承诺。现实情况是，美国海上风电产业暂时仅在东海岸稍微站稳了脚跟。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [世嘉表示自己没有计划延期《索尼克：边境》](https://hot.cnbeta.com/articles/game/1304043.htm) | Sat Aug 13 2022 3:56 AM 
+- 💂 [世嘉表示自己没有计划延期《索尼克：边境》](https://hot.cnbeta.com/articles/game/1304043.htm) | Sat Aug 13 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;世嘉即将推出的《索尼克：边境》仍有望在今年发布，并且不会延迟以解决自正式披露以来受到评论家和粉丝的褒贬不一的反应。在最近举行的一次商业简报中，世嘉飒美高级执行副总裁Koichi Fukazawa 和执行副总裁Makoto Takahashi 解释说，该公司并没有让这款开放世界的《索尼克》游戏延期的计划。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [最坚挺的科技巨头 苹果股价接近收复今年全部跌幅](https://www.cnbeta.com/articles/tech/1304041.htm) | Sat Aug 13 2022 3:55 AM 
+- 🚀 [最坚挺的科技巨头 苹果股价接近收复今年全部跌幅](https://www.cnbeta.com/articles/tech/1304041.htm) | Sat Aug 13 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;超预期的财报、蓄势待发的新品、市场对美联储加息预期减弱等因素或是近期苹果上涨的动力。不过，随着股价的不断上行，苹果的估值并不便宜。近期，苹果公司的表现非常亮眼。自6月16日跌至128.81美元低点后，苹果股价一路高歌猛进。截至昨日收盘，苹果股价继续上涨2%至172.10美元，较6月低点大幅反弹超30%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [细读斯坦福报告：《芯片与科学法案》对人工智能意味着什么](https://www.cnbeta.com/articles/tech/1304039.htm) | Sat Aug 13 2022 3:55 AM 
+- 🎊 [细读斯坦福报告：《芯片与科学法案》对人工智能意味着什么](https://www.cnbeta.com/articles/tech/1304039.htm) | Sat Aug 13 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当地时间8月9日，美国总统拜登正式签署《芯片与科学法案》（Chips and Science Act）。该法案的支出大致分为两部分——分配520亿美元的补贴和税收抵免给芯片制造公司，在人工智能、机器人技术、量子计算等关键领域投入2000亿美元研究经费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [苹果曾与Facebook商议内购订阅分成 应用追踪透明度则是后话](https://www.cnbeta.com/articles/tech/1304037.htm) | Sat Aug 13 2022 3:33 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自 iPhone 制造商强制实施“应用追踪透明度”政策以来，社交网络巨头 Facebook 与苹果的争执一直没能得到缓解。&lt;strong&gt;然而据《华尔街日报》报道，苹果其实曾与 Facebook 讨论过潜在的“营收分成计划”。&lt;/strong&gt;可知大部分讨论发生于 2016 - 2018 年间，且苹果这边的想法是构建一款基于订阅的无广告版 Facebook 应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
