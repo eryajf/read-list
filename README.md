@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [2100页论文 证明 最经典的克尔黑洞在数学上是稳定的](http://jandan.net/p/111122) | Fri Aug 12 2022 3:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    自1990年代初以来广义相对论领域的“第一个重大突破” 
-    </details> 
-
-- 🙉 [大家听说过EZ水或第四相水吗](http://jandan.net/p/111106) | Fri Aug 12 2022 10:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    它科学吗 
-    </details> 
-
-- 🎉 [海绵也会打喷嚏](http://jandan.net/p/111127) | Fri Aug 12 2022 3:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    海绵是没有大脑的简单多细胞生物，历史可以追溯到大约 5 亿年前。 
-    </details> 
-
-- 🐲 [今日好价 0812](http://jandan.net/p/111128) | Fri Aug 12 2022 3:24 AM 
+- 🚀 [今日好价 0813](http://jandan.net/p/111132) | Sat Aug 13 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
--  [薛定谔建立的人眼感知色差的数学模型，是错的](http://jandan.net/p/111123) | Thu Aug 11 2022 3:45 PM 
+- 🙉 [2100页论文 证明 最经典的克尔黑洞在数学上是稳定的](http://jandan.net/p/111122) | Fri Aug 12 2022 3:27 PM 
     <details><summary>展开描述 ...</summary> 
-    这一模型被科学家和工业界使用了100多年，用于纺织印刷，显示器设计等 
+    自1990年代初以来广义相对论领域的“第一个重大突破” 
+    </details> 
+
+- 🎉 [大家听说过EZ水或第四相水吗](http://jandan.net/p/111106) | Fri Aug 12 2022 10:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    它科学吗 
+    </details> 
+
+- 🐲 [海绵也会打喷嚏](http://jandan.net/p/111127) | Fri Aug 12 2022 3:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    海绵是没有大脑的简单多细胞生物，历史可以追溯到大约 5 亿年前。 
+    </details> 
+
+-  [今日好价 0812](http://jandan.net/p/111128) | Fri Aug 12 2022 3:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
