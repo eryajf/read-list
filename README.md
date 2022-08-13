@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [收入猛涨超70% 迪士尼CEO：迪士尼乐园或继续涨价](https://hot.cnbeta.com/articles/movie/1304105.htm) | Sat Aug 13 2022 9:22 AM 
+- 🕯 [今年高温综合强度或为1961年来最强](https://www.cnbeta.com/articles/tech/1304117.htm) | Sat Aug 13 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年的一大关键词就是“涨价”，放在世界范围内都很适用。近日消息，据老板联播引援纽约时报报道，迪士尼CEO鲍勃·查佩克（Bob Chapek）近日表示，迪士尼乐园的游客可能很快会受到另一轮涨价的冲击。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年7月下旬以来，我国长江中下游地区等地出现了范围较大、强度强的高温天气，多地最高气温值、高温日数破纪录，网友吐槽“包邮区热成保熟区”、“重庆热成炼丹炉”……那么今年南方到底有多热？为何这么热呢？还要热多久？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《海贼王：红发歌姬》剧场版票房破50亿日元 观影人次达360万](https://hot.cnbeta.com/articles/comic/1304103.htm) | Sat Aug 13 2022 9:21 AM 
+- 💼 [新一代沃尔沃XC90纯电版首曝：多了精致、少了霸气](https://www.cnbeta.com/articles/tech/1304115.htm) | Sat Aug 13 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《海贼王：红发歌姬》官方推特发文称，本影片上映首周，观影人数已超360万人，票房收入超50亿日元。这个票房成绩创造了2022年日本电影首周票房之最，也是历代海贼王剧场版首周票房之最。此前，排名为历代《海贼王》剧场版第二的狂热行动共花费5周时间才突破50亿日元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1304103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为沃尔沃家族旗舰SUV车型，XC90以稳重、大气的造型赢得了不少粉丝。有海外媒体曝光了一组新一代沃尔沃XC90纯电动版（代号V536）的外观专利图，&lt;strong&gt;新车将基于全新的SPA2架构进行打造，或将于今年底正式发布&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马克·鲁法诺漫威宇宙创作自由比《星球大战》更大](https://hot.cnbeta.com/articles/movie/1304101.htm) | Sat Aug 13 2022 9:15 AM 
+- 💂 [现代汽车集团将在美建人工智能机器人研究所](https://www.cnbeta.com/articles/tech/1304113.htm) | Sat Aug 13 2022 11:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近编剧导演戴蒙·林道夫发起了关于接下来的漫威电影数量是否略显太多的讨论，而绿巨人扮演者马克·鲁法诺在讨论中认为，MCU其实千变万化，创作自由更胜于《星球大战》。在接受采访时，鲁法诺介绍了他认为漫威无需降低输出速度的原因。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据韩联社报道，韩国现代汽车集团12日表示将在美国创办人工智能机器人研究所，在提升“机器人科学”（Robotics）、自动驾驶等未来产业竞争力的同时，巩固智能移动出行解决方案提供商的地位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [谷歌Stadia全新试玩系统 可玩到解锁特定成就为止](https://hot.cnbeta.com/articles/game/1304099.htm) | Sat Aug 13 2022 9:14 AM 
+- 🚀 [制作人：《怪奇物语》最终季不会出现全新角色](https://hot.cnbeta.com/articles/movie/1304111.htm) | Sat Aug 13 2022 10:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;谷歌Stadia宣布，将会测试一款全新游戏试玩系统，让玩家试玩到解锁某个特定成就为止。新系统的试运行将会从下周开始。玩家可以试玩游戏《控制》和《狙击精英4》，直到完成特定成就或达到特定游戏时长为止。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据热门剧集《怪奇物语》的主创达弗兄弟的说法，剧集最后一季不会有任何观众不认识的角色。在接受IndieWire 的新采访中，他们声称重点将放在现有演员阵容上。“每当我们介绍一个新角色时，我们都希望确保他们成为故事中不可或缺的一部分，”罗斯·达弗说。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [争相入局短视频 硅谷科技巨头全力抵御TikTok](https://www.cnbeta.com/articles/tech/1304097.htm) | Sat Aug 13 2022 9:12 AM 
+- 🎊 [电影《长空之王》先导海报及预告公布 年内上映](https://hot.cnbeta.com/articles/movie/1304109.htm) | Sat Aug 13 2022 10:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;面世五年，TikTok的飞速增长，让硅谷科技巨头紧张地竖起防御铠甲。据英国科技媒体Verdict报道，为了追赶TikTok的步伐，Facebook母公司Meta正改变其社交帝国的基因，试图全方位模仿TikTok。Google高管也在公开场合称，TikTok不仅挤压了Google长视频的市场，还正蚕食Google搜索和Google地图的地盘。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（8月13日），聚焦新时代空军试飞员的电影《长空之王》发布贴片预告及先导海报，歼-20直冲云霄，王一博、胡军、周冬雨一身戎装。“想要试出新飞机的极限，首先要突破你们自己的极限”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
