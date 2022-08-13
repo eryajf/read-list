@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Hugging Face发布diffuser模型AI绘画库初尝鲜！](https://juejin.cn/post/7131194124077629453) | Sat Aug 13 2022 3:16 AM 
+- 🤗 [Dygraphs 动态更新](https://juejin.cn/post/7131202235228225573) | Sat Aug 13 2022 3:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    玩过基金或者股票的读者应该比较清楚数据的动态更新，当一有数据更改的时候，相关的折线图就会更新。我们在本文来探讨下，Dygraphs 中如何进行数据的更新。 
+    </details> 
+
+- 🎡 [【刷题日记】769. 最多能完成排序的块](https://juejin.cn/post/7131199511023583245) | Sat Aug 13 2022 3:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 本次刷题日记的第 91 篇，力扣题为：769. 最多能完成排序的块 一、题目描述： 买股票的三连刷我们写 
+    </details> 
+
+- 🕯 [「项目总结」大型项目如何稳健的进行开发](https://juejin.cn/post/7131194962724519949) | Sat Aug 13 2022 3:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情。经历了一次双项目重构，我总结了一波大型项目如何稳健的进行开发的经验，分享给大家。 
+    </details> 
+
+- 🚀 [Hugging Face发布diffuser模型AI绘画库初尝鲜！](https://juejin.cn/post/7131194124077629453) | Sat Aug 13 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     本文讲解 Hugging Face 发布的专注于 diffuser 模型的开源库，仅仅通过几行代码就开始生成自己的艺术作画，并对比相同文本提示下各付费商业产品生成的结果。 
     </details> 
 
-- 🎡 [PyCharm 2022.2 发布了，支持最新 Python 3.11 和 PyScript 框架！](https://juejin.cn/post/7131191262078009351) | Sat Aug 13 2022 3:04 AM 
+- 💪 [PyCharm 2022.2 发布了，支持最新 Python 3.11 和 PyScript 框架！](https://juejin.cn/post/7131191262078009351) | Sat Aug 13 2022 3:04 AM 
     <details><summary>展开描述 ...</summary> 
     PyCharm 2022.2 发布了，支持最新 Python 3.11 和 PyScript 框架！ 
-    </details> 
-
-- 🕯 [Swift4 - 学习笔记：数据类型 | 运算符 | 字符串](https://juejin.cn/post/7131188846087290887) | Sat Aug 13 2022 2:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 Swift4 初步认识 基本数据类型 常量 let ,变量 var 在一行中声明多个常量或变量，用逗号隔 
-    </details> 
-
-- 🚀 [消息队列之RabbitMQ&lpar;四&rpar;-消息确认机制](https://juejin.cn/post/7130916907980423198) | Fri Aug 12 2022 9:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    使用消息队列&lpar;如：RabbitMQ&rpar;的系统都是异步通信的，这种通信方式不能够保证发送的消息被对端成功的接收并且处理，因为有各种原因可能导致消息的丢失，所以发布者（Publisher）和消费者（Cons 
-    </details> 
-
-- 💪 [LCODER设计模式一：创建型模式](https://juejin.cn/post/7130916808055324686) | Fri Aug 12 2022 9:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    面向对象的六大原则 单一职责原则 : &lpar;Single Responsibility Principle SRP&rpar; 就一个类而言，应该仅有一个引起它变化的原因。 开闭原则 :（Open Close Pr 
     </details> 
 <!-- juejin:END -->
 ### 少数派
