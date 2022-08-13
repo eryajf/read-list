@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国悬赏1000万美元追缉勒索软件组织Conti五名主要成员](https://www.cnbeta.com/articles/tech/1303929.htm) | Fri Aug 12 2022 11:11 PM 
+- 🕯 [新型聚合物可用于去除废水中的染料 之后可以重复使用](https://www.cnbeta.com/articles/science/1303973.htm) | Sat Aug 13 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国政府宣布将悬赏 1000 万美元，以获取关于有俄罗斯背景的勒索软件团伙 Conti 五名主要成员的相关信息。&lt;/strong&gt;该赏金是国国务院正义奖 &lpar;RFJ&rpar; 计划的一部分。本周四，该计划分享了一个名为“Target”的知名 Conti 勒索软件成员的图像，这标志着美国政府首次公开悬赏 Conti 团伙。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在纺织业和其他行业产生的废水中，染料是主要污染物之一。&lt;strong&gt;一种新开发的合成聚合物能够从水中去除这种染料，而且它可以被清理并重新用于处理更多的废水。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[图]AWS Private 5G在美正式推出 帮助企业部署私有“5G”网络](https://www.cnbeta.com/articles/tech/1303927.htm) | Fri Aug 12 2022 10:53 PM 
+- 💼 [多名美国政界人士向NHTSA施压 要求对特斯拉Autopilot和FSD采取行动](https://www.cnbeta.com/articles/tech/1303971.htm) | Sat Aug 13 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;亚马逊的现金牛 AWS 云业务近日推出了一项新的服务，旨在帮助公司部署自己的私有 5G 网络。&lt;/strong&gt;AWS 于去年年底开始了 AWS Private 5G 的早期测试，&lt;strong&gt;而现在面向美国东部（俄亥俄）、美国东部（弗吉尼亚北部）和美国西部（俄勒冈）区域开始向 AWS 客户正式提供&lt;/strong&gt;，并计划在“不久的将来”在国际市场上推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉的 Autopilot 和完全自动驾驶（FSD）项目由于受到监管机构和政界人士的介入，承受着多方越来越大的压力。&lt;strong&gt;近日，多名美国政界人士向 NHTSA 施加压力，要求其对特斯拉的 Autopilot 和 FSD Beta 采取行动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[视频]moto razr 2022拆解：改进内部设计以减少折痕](https://www.cnbeta.com/articles/tech/1303925.htm) | Fri Aug 12 2022 10:34 PM 
+- 💂 [欧空局宣布仪器电源异常迫使哥白尼哨兵-1B卫星任务结束](https://www.cnbeta.com/articles/science/1303969.htm) | Sat Aug 13 2022 1:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国内知名数码频道“微机分WekiHome”的主播楼斌日前对摩托罗拉 moto razr 2022 进行了拆解，他在视频中表示：“&lt;strong&gt;moto razr 2022 可以说没有很明显的短板，在性能、影像、系统体验上都做了升级，特别是这个外观设计，太合我的胃口了~”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2021年12月23日，哥白尼哨兵-1B卫星经历了一个与卫星平台提供的仪器电源有关的异常情况，导致其无法提供雷达数据。从那时起，航天器运营商和工程师一直在不懈努力，以纠正这个问题。不幸的是，尽管各方齐心努力，&lt;strong&gt;欧空局（ESA）和欧盟委员会仍宣布，哨兵-1B任务已经结束。&lt;/strong&gt;哥白尼哨兵-1A仍在全面运行，并计划尽快发射哨兵-1C。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[图]微软正为Windows 11测试新的任务栏动画特效](https://www.cnbeta.com/articles/tech/1303923.htm) | Fri Aug 12 2022 10:23 PM 
+- 🚀 [《晚间秀》主持人Stephen Colbert在短片中乱入《人生切割术》](https://hot.cnbeta.com/articles/movie/1303967.htm) | Sat Aug 13 2022 1:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;部分 Dev 频道的 Windows Insider 项目成员在升级到最新的 Windows 11 Build 25179 预览版更新之后，很快就发现任务栏启用了不同的图标启动动画。&lt;strong&gt;目前来看微软正在进行 A/B 测试，不过感兴趣的用户可以通过第三方软件 ViVeTool 来启用这个新特性。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在最新一期《扣熊晚间秀》节目中，&lt;strong&gt;史蒂芬·科尔伯特分享了一部短剧，讲述了 Apple TV+ 心理剧《离职》—— 又名《人生切割术》（Severance）—— 中一些“被误删”的场景。&lt;/strong&gt;作为一名喜剧演员，扣熊遗憾表示自己未能在正片中留下“最初的身影”。好消息是，《晚间秀》给了他一个向大家爆料的机会。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [法国多地森林火灾再度肆虐 过火面积达到上万公顷](https://www.cnbeta.com/articles/tech/1303921.htm) | Fri Aug 12 2022 8:05 PM 
+- 🎊 [Roon希望向患者提供最新的经过医学审查的病情信息](https://www.cnbeta.com/articles/science/1303965.htm) | Sat Aug 13 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;法国多个地方的森林火灾本周以来再度肆虐，过火面积达到上万公顷。来自欧洲多国的消防员赶赴法国协助灭火。此次森林火灾灾情最为严重的地区仍是位于法国西南部的吉伦特省。根据12日的统计，该省此次森林火灾的过火面积已达7400公顷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据TechCrunch报道，当个人试图管理医疗信息和了解自己的病情时，许多人通常会求助于Google或WebMD--这两者都无法验证或提供最新信息。&lt;strong&gt;但Roon计划通过一个医疗教育平台来改变这种状况，该平台经过审查的信息来自医生、病人和护理人员。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
