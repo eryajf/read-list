@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [分析师：美国半导体材料严重依赖进口 芯片法案也应加大对其投资](https://www.cnbeta.com/articles/tech/1304141.htm) | Sat Aug 13 2022 4:56 PM 
+- 🕯 [漂浮在太空中可能看起来很令人兴奋 但有严重的健康后果](https://www.cnbeta.com/articles/science/1304153.htm) | Sat Aug 13 2022 5:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着美国芯片法案签署，将为美国半导体的研究和生产提供约520亿美元的政府补贴，还包括对估计价值240亿美元的芯片工厂的投资税收抵免。研究机构TECHCET指出，美国半导体产业下一步应该加大对材料领域的投资。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你有没有想过你和宇航员是否有什么共同之处？有一点是肯定的，而且数字还不少：有206个，那就是你的骨骼。一项关于宇航员骨质流失以及返回地球后骨骼能否恢复的关键问题一直是医学和天文学界关注的话题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星员工平均年薪74.88万元 比台积电高1.5倍](https://www.cnbeta.com/articles/tech/1304139.htm) | Sat Aug 13 2022 4:54 PM 
+- 💼 [大脑如何在混乱中作出决定？原理类似于数据压缩技术](https://www.cnbeta.com/articles/science/1304151.htm) | Sat Aug 13 2022 5:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;韩国媒体报道，三星电子、SK海力士等韩国主要半导体公司在人力成本和企业税方面落后于全球竞争对手台积电。近日，韩国经济研究所对三星电子和台积电的基础设施等竞争因素进行了分析。三星电子在半导体代工领域与台积电展开竞争，试图在代工领域超越台积电，但未能超越台积电。目前，台积电处于领先地位，市占率 53.6%，三星电子占比仅16.3%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果你在20世纪80年代长大，或者喜欢玩老式视频游戏，你可能对《青蛙过河》很熟悉。这个游戏可能相当困难。要想成功，你必须首先穿过繁忙的交通流，然后在移动的木板上走&amp;quot;之&amp;quot;字形，以避免摔进充满危险的河里。大脑是如何决定在这种混乱中注意什么的呢？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [北极局部变暖速度达世界其他地方7倍](https://www.cnbeta.com/articles/science/1304137.htm) | Sat Aug 13 2022 4:51 PM 
+- 💂 [研究发现磁铁可以解决宇航员在长期空间旅行时的氧气供应问题](https://www.cnbeta.com/articles/science/1304149.htm) | Sat Aug 13 2022 5:45 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英国《通讯·地球与环境》杂志11日在线发表的一篇气候变化论文报告称，与全球平均值相比，北极变暖速度确实比之前人们认为的更快。极地加速变暖表明该地区对全球变暖的敏感程度高于当前的评估。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;华威大学的一个专家小组展示了一种在微重力条件下生产氧气的新方法，其中涉及磁铁。磁铁被用来吸引气体气泡在一个区域内凝聚，使得在太空的低重力环境下更容易收获它们，而不是使用不适合长期任务的重型机器。实验所解决的关键问题是浮力，或者更准确地说，太空中缺乏自然浮力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [红色预警继续 全国高温排行榜门槛提高到42℃](https://www.cnbeta.com/articles/tech/1304135.htm) | Sat Aug 13 2022 4:49 PM 
+- 🚀 [GPU价格跌至七折：6900 XT起价699美元 RTX 3080 Ti售869美元](https://www.cnbeta.com/articles/tech/1304147.htm) | Sat Aug 13 2022 5:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据@中国天气 13日下午13时-18时，全国高温排行榜门槛再次提升，位于第一名的湖北竹山最高气温超过44℃，位于第九名和第十名的重庆沙坪坝与丰都最高气温超过42℃。不少网友纷纷表示，真的要热化了，因为真的是热到没朋友。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;GPU价格出现持续下跌，AMD Radeon RX 6900 XT和NVIDIA GeForce RTX 3080 Ti等旗舰显卡的价格现在达到了低于MSRP的-30%，也就是七折水平。在过去的几个月里，由于加密货币崩溃，PC市场下降，以及对下一代GPU的预期，整体需求不佳，整个GPU市场出现了大幅的下跌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [特斯拉车主自述：Model Y突然失控加速撞墙](https://www.cnbeta.com/articles/tech/1304133.htm) | Sat Aug 13 2022 4:48 PM 
+- 🎊 [微软改进Windows小工具中的天气位置检测 更精确使用定位数据](https://www.cnbeta.com/articles/tech/1304145.htm) | Sat Aug 13 2022 5:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉再现“失控”情况。近日，一车主爆料自己驾驶特斯拉Model Y突然加速碰撞。根据网络流出的视频来看，该辆Model Y行驶至小区门口的收费杆前减速，缓慢前行一小段距离，但收费杆还未升起，该Model Y突然加速撞毁收费杆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Windows工程团队的Jen Gentleman说，微软已经做了一些背景工作来改进Windows小工具在任务栏上显示天气预报的方式。后者在正确的位置检测方面存在问题（以及其他令人费解的故障），最终导致预测的天气情况和实际不一致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
