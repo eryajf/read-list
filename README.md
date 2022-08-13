@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你知道什么是函数式编程吗？](https://juejin.cn/post/7131268862766481415) | Sat Aug 13 2022 8:06 AM 
+- 🤗 [etcd系列之事务：etcd 中如何实现事务（上）？](https://juejin.cn/post/7131265932818645022) | Sat Aug 13 2022 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-    同面向对象编程一样，函数式编程也是一种编程范式。范式可以简单理解为一种规范和模式，一种方法论。js 虽然不是纯粹的函数式语言，但毕竟 js 中函数是一等公民，其也支持函数式编程。 
+    你好，我是 aoho，今天我和你分享的主题是事务：etcd 中如何实现事务？ 我们在前面介绍了 etcd 存储、etcd-raft 模块以及 MVCC 多版本控制实现的原理。今天将会介绍 etcd 中 
     </details> 
 
-- 🎡 [iOS小技能：右滑返回](https://juejin.cn/post/7131257692965994503) | Sat Aug 13 2022 7:22 AM 
+- 🎡 [前端需要去了解的nodejs知识（fs文件处理）](https://juejin.cn/post/7131261796182147079) | Sat Aug 13 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 引言 原理：利用系统的返回手势interactivePopGestureRecognizer进行实现 使 
+    文件系统时nodejs中至关重要的一个模块，它使得JavaScript具备了操作文件的能力。对于所有文件或目录的操作fs都提供了同步和异步两种操作方式。另外nodejs也提供了文件流的处理。 
     </details> 
 
-- 🕯 [层次分明井然有条,Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang包管理机制&lpar;package&rpar;EP10](https://juejin.cn/post/7131243130912768036) | Sat Aug 13 2022 6:25 AM 
+- 🕯 [python “groupby” 操作实践之格式化输出星期字符串](https://juejin.cn/post/7131220661640364039) | Sat Aug 13 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
-    Go lang使用包（package）这种概念元素来统筹代码，所有代码功能上的可调用性都定义在包这个级别，如果我们需要调用依赖，那就“导包”就行了，无论是内部的还是外部的，使用import关键字即可。 
+    python “groupby” 操作实践之格式化输出星期字符串 最近遇到一个需求，是在一周内选择几天，并按格式输出出来，来说下完成这个功能的过程，如何从 0 到 1。 
     </details> 
 
-- 🚀 [部署kibana分析系统并连接elasticsearch集群展现索引数据（八）](https://juejin.cn/post/7131239115529388046) | Sat Aug 13 2022 6:10 AM 
+- 🚀 [基于Redission的分布式锁实战【代码案例详解】](https://juejin.cn/post/7131220315438825502) | Sat Aug 13 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 部署kibana分析系统并连接es展现索引数据 1.kibana分析系统简介 Kibana是一个开源的分 
+    在系统中，当存在多个进程和线程可以改变某个共享数据时，就容易出现并发问题导致共享数据的不一致性。本篇分享基于Redission的分布式锁实战，解决如上场景问题！ 
     </details> 
 
-- 💪 [2022年AI专家成长路线图 21K★；前端工程师算法红宝书；经典推荐算法的代码全实现；触觉机器人的强化学习套件；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7131231578922942501) | Sat Aug 13 2022 5:42 AM 
+- 💪 [深入源码剖析ThreadPoolExecutor的工作原理](https://juejin.cn/post/7131212689161846821) | Sat Aug 13 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 08-13 期，基于ONNX的线条检测模型、多触觉传感器、C++异步Web框架、深入浅出区块链教程、一次性解决前端工程师的算法学习问题、推荐算法实现库、前沿论文… 
+    深入源码剖析ThreadPoolExecutor的工作原理 为什么要有线程池 先来说说什么是池化技术： 什么是线程池： 线程池有什么优点： 线程池3 个核心部分： Executor框架结构图解 从JD 
     </details> 
 <!-- juejin:END -->
 ### 少数派
