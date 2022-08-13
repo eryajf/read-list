@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [存在满足以下要求的博客程序吗](https://www.v2ex.com/t/872628#reply0) | Sat Aug 13 2022 8:08 AM
-- 🤗 [日本程序员薪资](https://www.v2ex.com/t/872621#reply14) | Sat Aug 13 2022 7:22 AM
-- 🎭 [接口类型 命名修改的代价](https://www.v2ex.com/t/872616#reply5) | Sat Aug 13 2022 6:49 AM
-- 🥷 [如何能更好地实践新技术](https://www.v2ex.com/t/872613#reply2) | Sat Aug 13 2022 6:31 AM
-- 🐵 [黑群晖，多网口问题请教](https://www.v2ex.com/t/872604#reply2) | Sat Aug 13 2022 5:38 AM<!-- v2ex:END -->
+- 🥸 [关于 Async DRF](https://www.v2ex.com/t/872646#reply1) | Sat Aug 13 2022 9:38 AM
+- 🤗 [关于开源的一点想法](https://www.v2ex.com/t/872641#reply5) | Sat Aug 13 2022 9:21 AM
+- 🎭 [存在满足以下要求的博客程序吗](https://www.v2ex.com/t/872628#reply0) | Sat Aug 13 2022 8:08 AM
+- 🥷 [日本程序员薪资](https://www.v2ex.com/t/872621#reply15) | Sat Aug 13 2022 7:22 AM
+- 🐵 [接口类型 命名修改的代价](https://www.v2ex.com/t/872616#reply7) | Sat Aug 13 2022 6:49 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
