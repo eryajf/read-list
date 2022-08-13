@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [层次分明井然有条,Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang包管理机制&lpar;package&rpar;EP10](https://juejin.cn/post/7131243130912768036) | Sat Aug 13 2022 6:25 AM 
+- 🤗 [你知道什么是函数式编程吗？](https://juejin.cn/post/7131268862766481415) | Sat Aug 13 2022 8:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    同面向对象编程一样，函数式编程也是一种编程范式。范式可以简单理解为一种规范和模式，一种方法论。js 虽然不是纯粹的函数式语言，但毕竟 js 中函数是一等公民，其也支持函数式编程。 
+    </details> 
+
+- 🎡 [iOS小技能：右滑返回](https://juejin.cn/post/7131257692965994503) | Sat Aug 13 2022 7:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 引言 原理：利用系统的返回手势interactivePopGestureRecognizer进行实现 使 
+    </details> 
+
+- 🕯 [层次分明井然有条,Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang包管理机制&lpar;package&rpar;EP10](https://juejin.cn/post/7131243130912768036) | Sat Aug 13 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
     Go lang使用包（package）这种概念元素来统筹代码，所有代码功能上的可调用性都定义在包这个级别，如果我们需要调用依赖，那就“导包”就行了，无论是内部的还是外部的，使用import关键字即可。 
     </details> 
 
-- 🎡 [Vue 2 阅读理解（四）之 Parse 函数定义](https://juejin.cn/post/7131238380343394312) | Sat Aug 13 2022 6:07 AM 
+- 🚀 [部署kibana分析系统并连接elasticsearch集群展现索引数据（八）](https://juejin.cn/post/7131239115529388046) | Sat Aug 13 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 Parse 函数 在 baseCompile&lpar;&rpar; 执行过程中，首先就是通过 parse方法 解析 tem 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 部署kibana分析系统并连接es展现索引数据 1.kibana分析系统简介 Kibana是一个开源的分 
     </details> 
 
-- 🕯 [什么是强缓存和协商缓存](https://juejin.cn/post/7131237076065845256) | Sat Aug 13 2022 6:02 AM 
+- 💪 [2022年AI专家成长路线图 21K★；前端工程师算法红宝书；经典推荐算法的代码全实现；触觉机器人的强化学习套件；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7131231578922942501) | Sat Aug 13 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
-    HTTP 缓存分为以下两种，两者都是通过 HTTP 响应头控制缓存。 强制缓存 协商缓存 强制缓存 再次请求时无需再向服务器发送请求 与之相关的 Response Headers 有以下几个 Expi 
-    </details> 
-
-- 🚀 [颜值即正义，使用SwiftUI搭建简历管理详情页](https://juejin.cn/post/7131215602496045064) | Sat Aug 13 2022 4:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    承接上一章的内容，我们完成了一个基本设置页面中的个人信息、账号绑定、通用设置的详情页。这一章节，我们来完成简历管理的页面搭建。我们先来看看最终的效果图。示例...... 
-    </details> 
-
-- 💪 [一文带你理解@RefreshScope注解实现动态刷新原理](https://juejin.cn/post/7131193486849605646) | Sat Aug 13 2022 3:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 概述 RefeshScope这个注解想必大家都用过，在微服务配置中心的场景下经常出现，他可以用来刷新Be 
+    ShowMeAI资讯日报 08-13 期，基于ONNX的线条检测模型、多触觉传感器、C++异步Web框架、深入浅出区块链教程、一次性解决前端工程师的算法学习问题、推荐算法实现库、前沿论文… 
     </details> 
 <!-- juejin:END -->
 ### 少数派
