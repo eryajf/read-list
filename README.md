@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [今年高温综合强度或为1961年来最强](https://www.cnbeta.com/articles/tech/1304117.htm) | Sat Aug 13 2022 11:04 AM 
+- 🕯 [三星990 PRO PCIe Gen 5 M.2固态硬盘再次得到确认](https://www.cnbeta.com/articles/tech/1304123.htm) | Sat Aug 13 2022 12:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;三星的下一代990 PRO固态硬盘采用PCIe Gen 5.0 M.2协议，这一次再次得到PCI-SIG的确认。本月早些时候，三星990 PRO Gen 5 M.2固态硬盘也被发现在韩国RRA认证名单中。我们看到了两种SSD配置，一种是1TB，另一种是2TB型号，它们将使用三星自己的专有解决方案来驱动其下一代SSD解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《老友记》菲比的演员丽莎·库卓谈剧集缺乏多样性：编剧没经历过](https://hot.cnbeta.com/articles/movie/1304121.htm) | Sat Aug 13 2022 12:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《老友记》菲比·布菲的饰演者丽莎·库卓在最近采访中谈论了有关《老友记》缺乏有色人种的事情。在2020年，这名演员曾表示《老友记》严重缺乏多样性，如果这部剧集能够重新回到电视上，那他就不会是一个全白人的阵容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [AMD CPU被发现新型安全漏洞：锐龙全家中招](https://www.cnbeta.com/articles/tech/1304119.htm) | Sat Aug 13 2022 12:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;如今的CPU处理器异常复杂，被发现安全漏洞也是平常事，以往发现的几次重要漏洞中AMD的锐龙处理器因为问世较晚，经常躲过一劫，Intel处理器才是重灾区，不过这一次发布的新漏洞没Intel什么事，AMD的三代锐龙都中招了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [今年高温综合强度或为1961年来最强](https://www.cnbeta.com/articles/tech/1304117.htm) | Sat Aug 13 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年7月下旬以来，我国长江中下游地区等地出现了范围较大、强度强的高温天气，多地最高气温值、高温日数破纪录，网友吐槽“包邮区热成保熟区”、“重庆热成炼丹炉”……那么今年南方到底有多热？为何这么热呢？还要热多久？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新一代沃尔沃XC90纯电版首曝：多了精致、少了霸气](https://www.cnbeta.com/articles/tech/1304115.htm) | Sat Aug 13 2022 11:04 AM 
+- 🎊 [新一代沃尔沃XC90纯电版首曝：多了精致、少了霸气](https://www.cnbeta.com/articles/tech/1304115.htm) | Sat Aug 13 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;作为沃尔沃家族旗舰SUV车型，XC90以稳重、大气的造型赢得了不少粉丝。有海外媒体曝光了一组新一代沃尔沃XC90纯电动版（代号V536）的外观专利图，&lt;strong&gt;新车将基于全新的SPA2架构进行打造，或将于今年底正式发布&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [现代汽车集团将在美建人工智能机器人研究所](https://www.cnbeta.com/articles/tech/1304113.htm) | Sat Aug 13 2022 11:03 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据韩联社报道，韩国现代汽车集团12日表示将在美国创办人工智能机器人研究所，在提升“机器人科学”（Robotics）、自动驾驶等未来产业竞争力的同时，巩固智能移动出行解决方案提供商的地位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [制作人：《怪奇物语》最终季不会出现全新角色](https://hot.cnbeta.com/articles/movie/1304111.htm) | Sat Aug 13 2022 10:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据热门剧集《怪奇物语》的主创达弗兄弟的说法，剧集最后一季不会有任何观众不认识的角色。在接受IndieWire 的新采访中，他们声称重点将放在现有演员阵容上。“每当我们介绍一个新角色时，我们都希望确保他们成为故事中不可或缺的一部分，”罗斯·达弗说。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [电影《长空之王》先导海报及预告公布 年内上映](https://hot.cnbeta.com/articles/movie/1304109.htm) | Sat Aug 13 2022 10:53 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（8月13日），聚焦新时代空军试飞员的电影《长空之王》发布贴片预告及先导海报，歼-20直冲云霄，王一博、胡军、周冬雨一身戎装。“想要试出新飞机的极限，首先要突破你们自己的极限”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
