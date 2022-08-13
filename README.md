@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [爱马仕16.5万自行车被火速抢光 客服回应：库存已空、将从法国来货](https://www.cnbeta.com/articles/tech/1304089.htm) | Sat Aug 13 2022 8:00 AM 
+- 🕯 [马克·鲁法诺漫威宇宙创作自由比《星球大战》更大](https://hot.cnbeta.com/articles/movie/1304101.htm) | Sat Aug 13 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，爱马仕在中国官网上架了一款售价16.5万元的自行车，引起了网友热议。虽然价格昂贵，当时很快官网就显示无货，&lt;strong&gt;而客服表示目前这款自行车已经售罄，包括线下门店。&lt;/strong&gt;对此，有媒体联系到了爱马仕客服人员，&lt;strong&gt;对方称中国大陆暂时没有这款自行车的存货了，爱马仕没有调货服务，但后续会从法国来货，受多种因素影响，来货时间无法确定。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近编剧导演戴蒙·林道夫发起了关于接下来的漫威电影数量是否略显太多的讨论，而绿巨人扮演者马克·鲁法诺在讨论中认为，MCU其实千变万化，创作自由更胜于《星球大战》。在接受采访时，鲁法诺介绍了他认为漫威无需降低输出速度的原因。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [8月15日将上演“土星冲日”：地球、太阳、土星会连成一串](https://www.cnbeta.com/articles/science/1304087.htm) | Sat Aug 13 2022 7:25 AM 
+- 💼 [谷歌Stadia全新试玩系统 可玩到解锁特定成就为止](https://hot.cnbeta.com/articles/game/1304099.htm) | Sat Aug 13 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，年度第三大满月、英仙座流星雨刚刚过去，我们又要迎来一次罕见的天象奇景了。据天文科普专家介绍，&lt;strong&gt;8月15日，有着“指环王”美誉的土星将带来冲日表演。&lt;/strong&gt;届时如果天气晴好，我国公众可于14日晚至15日凌晨一睹这颗美丽星球的风采。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;谷歌Stadia宣布，将会测试一款全新游戏试玩系统，让玩家试玩到解锁某个特定成就为止。新系统的试运行将会从下周开始。玩家可以试玩游戏《控制》和《狙击精英4》，直到完成特定成就或达到特定游戏时长为止。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [日本收紧对外国研究人员入境审查](https://www.cnbeta.com/articles/science/1304085.htm) | Sat Aug 13 2022 7:18 AM 
+- 💂 [争相入局短视频 硅谷科技巨头全力抵御TikTok](https://www.cnbeta.com/articles/tech/1304097.htm) | Sat Aug 13 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据《日本经济新闻》8月13日报道，日本政府正在收紧对外国研究人员和留学生的入境审查。当提交在日本停留所必需的证明文件时，申报内容将包括海外旅行经历、在日期间的资金来源等等。目的是在相关人员入境日本前确认其是否有可能将高密级科研成果或技术带往海外。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;面世五年，TikTok的飞速增长，让硅谷科技巨头紧张地竖起防御铠甲。据英国科技媒体Verdict报道，为了追赶TikTok的步伐，Facebook母公司Meta正改变其社交帝国的基因，试图全方位模仿TikTok。Google高管也在公开场合称，TikTok不仅挤压了Google长视频的市场，还正蚕食Google搜索和Google地图的地盘。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国动力电池开始“卷”向海外](https://www.cnbeta.com/articles/tech/1304083.htm) | Sat Aug 13 2022 7:06 AM 
+- 🚀 [B站魔力赏玩家：花了50万，抽到一堆垃圾](https://hot.cnbeta.com/articles/movie/1304095.htm) | Sat Aug 13 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;出海正在成为拥挤产能的一个重要去处，帮助国内动力电池企业打开空间。自去年开始锂电池原材料的价格节节攀升，让动力电池企业叫苦不迭。今年以来，上游原材料的继续大幅上涨，无疑让锂电池厂商的压力进一步加大，“增收不增利”（仅指动力电池业务）越发成为普遍现象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;玩得最狠的时候，玩家刘崇曾贷款20万元，全部投了进去。中间靠抽到的奖品变现，他又赚回11万元，但这些钱很快又赔了进去。“还不上钱的时候，银行给我打电话，最后还是我妈帮着还的，还完她和我说，以后要是再玩，就给我剁手。”母亲的劝阻并未生效，等到每月收到工资那天，他又会将钱全部投入。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [猪皮做成眼角膜为盲人恢复视力 不用等人捐献了](https://www.cnbeta.com/articles/science/1304081.htm) | Sat Aug 13 2022 7:05 AM 
+- 🎊 [造车新势力的隐忧 正在暴露](https://www.cnbeta.com/articles/tech/1304093.htm) | Sat Aug 13 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;用&lt;strong&gt;猪皮&lt;/strong&gt;做的眼角膜，可以恢复视障患者视力。really？？？没错，这项研究最近在《Nature》子刊《自然·生物技术》上发布，并且已经进行试点研究，使20名患者恢复了视力，且无不良反应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月第一周，新势力的日子并不好过。降价、滞销、产能过剩的传闻嚣甚尘上，而刚过去的7月份，三家新势力们的销量增长率也正在被一些传统势力以及二线品牌超越。无可否认，电动车这个行业还是欣欣向荣，未来无限可期，但台面上风光，台底下却是暗流涌动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
