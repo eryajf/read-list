@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [TrellOKR by ConectoHub - 将 Trello 卡片与关键业务指标和公司目标相关联](https://xinquji.com/posts/178702?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:31 AM 
+- 👀 [True Pace - 比较 iOS 上的动态调步策略](https://xinquji.com/posts/178710?utm_campaign=xinquji-rss) | Sun Aug 14 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     将 Trello 卡片与关键业务指标和公司目标相关联  
+     比较 iOS 上的动态调步策略  
     </details> 
 
-- 🥷 [Fluent Emoji - 来自微软的 1500 个 3D 开源表情符号](https://xinquji.com/posts/178701?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:29 AM 
+- 🥷 [Collabtools - 使用白板、代码编辑器进行实时协作](https://xinquji.com/posts/178709?utm_campaign=xinquji-rss) | Sun Aug 14 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     来自微软的 1500 个 3D 开源表情符号  
+     使用白板、代码编辑器进行实时协作  
     </details> 
 
-- 💼 [FlipClock 2.0 - 它不仅仅是一个时钟](https://xinquji.com/posts/178700?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:26 AM 
+- 💼 [CoinCurrently - 适用于所有人 iOS/Android 的加密货币追踪器](https://xinquji.com/posts/178708?utm_campaign=xinquji-rss) | Sun Aug 14 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     它不仅仅是一个时钟  
+     适用于所有人 iOS/Android 的加密货币追踪器  
     </details> 
 
-- 🦅 [Streamle - 每天在最喜欢的流媒体服务上查找可观看的内容](https://xinquji.com/posts/178699?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:24 AM 
+- 🦅 [Grouptag - 用于连接、学习和准备工作的 Z 世代网络应用程序。](https://xinquji.com/posts/178707?utm_campaign=xinquji-rss) | Sun Aug 14 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-     每天在最喜欢的流媒体服务上查找可观看的内容  
+     用于连接、学习和准备工作的 Z 世代网络应用程序。  
     </details> 
 
-- 😺 [Abridge - 只需点击几下即可从亚太地区发货](https://xinquji.com/posts/178698?utm_campaign=xinquji-rss) | Sat Aug 13 2022 6:22 AM 
+- 😺 [Highlighted for iOS - 不要忘记你读过的东西。](https://xinquji.com/posts/178706?utm_campaign=xinquji-rss) | Sun Aug 14 2022 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-     只需点击几下即可从亚太地区发货  
+     不要忘记你读过的东西。  
     </details> 
 <!-- xinquji:END -->
