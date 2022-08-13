@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派周报 | 本周会员内容提要；跑题：扎网恢恢](https://sspai.com/prime/story/pi-weekly-004) | Fri Aug 12 2022 9:46 AM 
+- 👹 [App+1｜DailyBeen 日记说：你的所有小事，都值得铭记](https://sspai.com/post/75093) | Sat Aug 13 2022 5:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    好友有抑郁症，已经七八年了。她病情时好时坏，情绪经常处于低落状态，医生建议她写日记来记录心情的变化，尤其是记录一些值得开心的小事，对病情都有帮助。但手写不易保存，纯文本又比较枯燥，我就寻思着帮她找一个 ...&lt;a href=&quot;https://sspai.com/post/75093&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派周报 | 本周会员内容提要；跑题：扎网恢恢](https://sspai.com/prime/story/pi-weekly-004) | Fri Aug 12 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
     Facebook「小动作」的曝光显示了应用内浏览器的乱象，但在现状之下，真正能靠得住的，可能只有用户自己的判断力和「好习惯」。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-004&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/75122) | Fri Aug 12 2022 9:28 AM 
+- 🤭 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/75122) | Fri Aug 12 2022 9:28 AM 
     <details><summary>展开描述 ...</summary> 
     年度最受期待韩影来啦——朴赞郁、汤唯《分手的决心》&lt;a href=&quot;https://sspai.com/post/75122&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [文科博士生的数字文具盒：这一年里我真正在用的那些 App](https://sspai.com/post/75111) | Fri Aug 12 2022 7:59 AM 
+- 🥸 [文科博士生的数字文具盒：这一年里我真正在用的那些 App](https://sspai.com/post/75111) | Fri Aug 12 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75111&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [一日一技 | Windows 蓝牙 / Wi-Fi 开关消失应如何排障](https://sspai.com/post/75118) | Fri Aug 12 2022 6:30 AM 
+- 🙉 [一日一技 | Windows 蓝牙 / Wi-Fi 开关消失应如何排障](https://sspai.com/post/75118) | Fri Aug 12 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     我蓝牙怎么没了啊，淦。&lt;a href=&quot;https://sspai.com/post/75118&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [以徕卡相机而闻名的徕卡，到底是一家什么样的厂商](https://sspai.com/post/74124) | Fri Aug 12 2022 3:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文希望借着这个机会，从一个摄影爱好者的角度为大家简单介绍一下徕卡这个品牌，并尝试回答一个老生常谈的问题：徕卡究竟是什么，徕卡代表了什么。&lt;a href=&quot;https://sspai.com/post/74124&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
