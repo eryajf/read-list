@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TypeScript  类型编程：索引类型递归去掉可选修饰](https://juejin.cn/post/7131314849711128612) | Sat Aug 13 2022 11:04 AM 
+- 🤗 [3 分钟创建 Serverless Job 定时获取新闻热搜！](https://juejin.cn/post/7131337277472505863) | Sat Aug 13 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-    这两天东东遇到一个 TS 的问题，跑来问我。 问题是这样的： 这样一个 interface，想取出 userInfo 的类型来： 他是这样取的： 但是会报错： 说是 userInfo 不在这个联合类型 
+    Serverless Job 支持将传统的 XXL-JOB 零改造迁移至SAE中，本场景将采用 XXL-JOB 作为示例。创建并执行 demoJobHandler 和 shardingJobHandl 
     </details> 
 
-- 🎡 [webpack基础入门笔记](https://juejin.cn/post/7131306836413644807) | Sat Aug 13 2022 10:34 AM 
+- 🎡 [异步迭代生成器](https://juejin.cn/post/7131337199504588831) | Sat Aug 13 2022 12:31 PM 
     <details><summary>展开描述 ...</summary> 
-    笔者不是多么厉害的大牛啥的，只是一篇对于webpack的学习笔记。 代码是一方面，以后都是要努力站在工程化，整体的角度去看问题，从整个工程的角度去考虑问题的吧。 之前的一段时间单位的996是在搞得难受 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 处理异步请求 以前我们的异步代码是通过回调函数来解决的。代码如下： 现在我们通过生成器来改写这个异步代码 
     </details> 
 
-- 🕯 [《高阶前端指北》之深入中出Vitest](https://juejin.cn/post/7131306707237470222) | Sat Aug 13 2022 10:32 AM 
+- 🕯 [神奇的共享内存](https://juejin.cn/post/7131333107696795678) | Sat Aug 13 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
-    概念部分很枯燥，抄过来没意思，但未了一些新人首次接触提供一个小台阶 Vite 而且它拥有许多插。Vite 而且它拥有许多插件和集成框架，从而慢慢形成一个活跃的生态社区 
+    共享内存（shared memory）是最常见的ipc进程之间通讯的方式之一了，相比于Binder，它也能做到不败吗？ 
     </details> 
 
-- 🚀 [日新刷题 - 387. 字符串中的第一个唯一字符](https://juejin.cn/post/7131289299970064391) | Sat Aug 13 2022 9:25 AM 
+- 🚀 [如何可视化编写和编排你的 K8s 任务](https://juejin.cn/post/7131331488527679525) | Sat Aug 13 2022 12:08 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 一、题目描述： 387. 字符串中的第一个唯一字符 给定一个字符串 s ，找到 它的第一个不重复的字符， 
+    通过任务调度 SchedulerX 来调度你的 K8s 任务，能够降低学习成本，加快开发效率，让你的任务失败可报警，出问题可排查，打造云原生可观测体系下的可视化 K8s 任务。 
     </details> 
 
-- 💪 [服务端优化-连接性能,io模型,web容器](https://juejin.cn/post/7131286456642830372) | Sat Aug 13 2022 9:14 AM 
+- 💪 [C# List类学习及深拷贝](https://juejin.cn/post/7131323975346602021) | Sat Aug 13 2022 11:39 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 1.写在前面 在上一篇文章中，我们分享了服务端调优-tomcat方向的调优。 分享了，如何对内嵌tomc 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 前言： List是我们在编程的时候用的比较多的一种类型，所以今天来学习一下List，它是一种泛型的集合， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
