@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [漂浮在太空中可能看起来很令人兴奋 但有严重的健康后果](https://www.cnbeta.com/articles/science/1304153.htm) | Sat Aug 13 2022 5:52 PM 
+- 🕯 [“超级食物”真的那么超级吗？](https://www.cnbeta.com/articles/science/1304155.htm) | Sat Aug 13 2022 7:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;健康的饮食对许多人来说是很重要的。无论是藜麦、奇亚籽还是枸杞，48%的人认为这些经常被宣传的&amp;quot;超级食物&amp;quot;是健康饮食的一个必要组成部分。据说它们具有促进健康的品质，有些甚至被认为有助于避免疾病。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [漂浮在太空中可能看起来很令人兴奋 但有严重的健康后果](https://www.cnbeta.com/articles/science/1304153.htm) | Sat Aug 13 2022 5:52 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;你有没有想过你和宇航员是否有什么共同之处？有一点是肯定的，而且数字还不少：有206个，那就是你的骨骼。一项关于宇航员骨质流失以及返回地球后骨骼能否恢复的关键问题一直是医学和天文学界关注的话题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [大脑如何在混乱中作出决定？原理类似于数据压缩技术](https://www.cnbeta.com/articles/science/1304151.htm) | Sat Aug 13 2022 5:49 PM 
+- 💂 [大脑如何在混乱中作出决定？原理类似于数据压缩技术](https://www.cnbeta.com/articles/science/1304151.htm) | Sat Aug 13 2022 5:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;如果你在20世纪80年代长大，或者喜欢玩老式视频游戏，你可能对《青蛙过河》很熟悉。这个游戏可能相当困难。要想成功，你必须首先穿过繁忙的交通流，然后在移动的木板上走&amp;quot;之&amp;quot;字形，以避免摔进充满危险的河里。大脑是如何决定在这种混乱中注意什么的呢？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究发现磁铁可以解决宇航员在长期空间旅行时的氧气供应问题](https://www.cnbeta.com/articles/science/1304149.htm) | Sat Aug 13 2022 5:45 PM 
+- 🚀 [研究发现磁铁可以解决宇航员在长期空间旅行时的氧气供应问题](https://www.cnbeta.com/articles/science/1304149.htm) | Sat Aug 13 2022 5:45 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;华威大学的一个专家小组展示了一种在微重力条件下生产氧气的新方法，其中涉及磁铁。磁铁被用来吸引气体气泡在一个区域内凝聚，使得在太空的低重力环境下更容易收获它们，而不是使用不适合长期任务的重型机器。实验所解决的关键问题是浮力，或者更准确地说，太空中缺乏自然浮力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [GPU价格跌至七折：6900 XT起价699美元 RTX 3080 Ti售869美元](https://www.cnbeta.com/articles/tech/1304147.htm) | Sat Aug 13 2022 5:43 PM 
+- 🎊 [GPU价格跌至七折：6900 XT起价699美元 RTX 3080 Ti售869美元](https://www.cnbeta.com/articles/tech/1304147.htm) | Sat Aug 13 2022 5:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;GPU价格出现持续下跌，AMD Radeon RX 6900 XT和NVIDIA GeForce RTX 3080 Ti等旗舰显卡的价格现在达到了低于MSRP的-30%，也就是七折水平。在过去的几个月里，由于加密货币崩溃，PC市场下降，以及对下一代GPU的预期，整体需求不佳，整个GPU市场出现了大幅的下跌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [微软改进Windows小工具中的天气位置检测 更精确使用定位数据](https://www.cnbeta.com/articles/tech/1304145.htm) | Sat Aug 13 2022 5:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Windows工程团队的Jen Gentleman说，微软已经做了一些背景工作来改进Windows小工具在任务栏上显示天气预报的方式。后者在正确的位置检测方面存在问题（以及其他令人费解的故障），最终导致预测的天气情况和实际不一致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
