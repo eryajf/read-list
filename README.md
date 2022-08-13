@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [PHP实现递归排序](https://juejin.cn/post/7131160840408924173) | Sat Aug 13 2022 1:06 AM 
+- 🤗 [有用但不为大家所熟知的 Java 特性](https://juejin.cn/post/7130883974846480391) | Fri Aug 12 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 在leetcode练习算法的时候，发现一个算法需要用到递归。 递归是个好东西，但是吧，一般不理解其精髓的 
+    在本文中，你可以了解一些可能没有听说过的有用的 Java 特性。这是我最近使用的功能的私人列表，或者是我在阅读有关 Java 的文章时偶然发现的。我不会关注语言方面，而是关注 API。 1.延迟队列【 
     </details> 
 
-- 🎡 [晚饭都没吃,我一前端帮后端做了一点SQL优化,才避免了通宵](https://juejin.cn/post/7131134227759759391) | Fri Aug 12 2022 11:25 PM 
+- 🎡 [bug现场谜之报错也识趣-客户一上班报错就消失了！](https://juejin.cn/post/7130882905249120286) | Fri Aug 12 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    我这人是最不爱干重复性的工作的，如果干我一定会想方法来不断优化重复性的工作，直到我自己感觉无法优化了。 
+    友商系统的一个bug，已经存在一年多了，解决不了。客户意见很大，让我司解决下。这谜一样的bug，上班前出现，客户上报就消失了，不影响客户使用，也难怪忍了这么久。看看吧...... 
     </details> 
 
-- 🕯 [TypeScript-起步——JavaScript简介（四）](https://juejin.cn/post/7131131005074669582) | Fri Aug 12 2022 11:11 PM 
+- 🕯 [【Liquibase】入门扫盲](https://juejin.cn/post/7130882006937780261) | Fri Aug 12 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 ⑤ 类型思维的缺失 我们已经简单体会到没有类型检查带来的一些问题，JavaScript因为从设计之初就没 
+    Liquibase 是一个用于跟踪、管理和应用数据库变化的开源的数据库重构工具。它将所有数据库的变化保存到文件中。 
     </details> 
 
-- 🚀 [JVM 系列（6）吊打面试官：为什么 finalize&lpar;&rpar; 方法只会执行一次？](https://juejin.cn/post/7131027741163388958) | Fri Aug 12 2022 4:31 PM 
+- 🚀 [广州蓝景分享—程序员在面试时必须要做的五件事，最后一件很重要](https://juejin.cn/post/7130881424752082980) | Fri Aug 12 2022 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-    Java Finalizer 机制提供了一个在对象被回收之前释放占用资源的时机，但是都说 Finalizer 机制是不稳定且危险的，不推荐使用，这是为什么呢？今天我们来深入理解这个问题。 
+    Hello大家好，我是小蓝，专门帮助大家解答前端技术上的问题和前端学习上的疑问以及在程序员在面试时的技巧使用等等，今天要和大家分享的内容是：“程序员面试时必须要做的五件事” 为了能让大家提升应聘成功率 
     </details> 
 
-- 💪 [ES6 变量的解构赋值](https://juejin.cn/post/7131023550709923847) | Fri Aug 12 2022 4:15 PM 
+- 💪 [Webpack5中相关资源loader的升级改动（Assest Module）](https://juejin.cn/post/7130880991614861325) | Fri Aug 12 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-    一、变量的解构赋值 数组的解构赋值 ES6 允许按照一定模式，从数组和对象中提取值，对变量进行赋值，这被称为解构（Destructuring）。 以前，为变量赋值，只能直接指定值。 ES6 允许写成下 
+    Webpack5中相关资源loader的升级改动（Assest Module） Assest Module是webpack中加载静态资源的模块，webpack实现一个打包器就是可以把在js中引用的任何 
     </details> 
 <!-- juejin:END -->
 ### 少数派
