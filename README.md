@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ES6 变量的解构赋值](https://juejin.cn/post/7131023550709923847) | Fri Aug 12 2022 4:15 PM 
+- 🤗 [PHP实现递归排序](https://juejin.cn/post/7131160840408924173) | Sat Aug 13 2022 1:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 在leetcode练习算法的时候，发现一个算法需要用到递归。 递归是个好东西，但是吧，一般不理解其精髓的 
+    </details> 
+
+- 🎡 [晚饭都没吃,我一前端帮后端做了一点SQL优化,才避免了通宵](https://juejin.cn/post/7131134227759759391) | Fri Aug 12 2022 11:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    我这人是最不爱干重复性的工作的，如果干我一定会想方法来不断优化重复性的工作，直到我自己感觉无法优化了。 
+    </details> 
+
+- 🕯 [TypeScript-起步——JavaScript简介（四）](https://juejin.cn/post/7131131005074669582) | Fri Aug 12 2022 11:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 ⑤ 类型思维的缺失 我们已经简单体会到没有类型检查带来的一些问题，JavaScript因为从设计之初就没 
+    </details> 
+
+- 🚀 [JVM 系列（6）吊打面试官：为什么 finalize&lpar;&rpar; 方法只会执行一次？](https://juejin.cn/post/7131027741163388958) | Fri Aug 12 2022 4:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    Java Finalizer 机制提供了一个在对象被回收之前释放占用资源的时机，但是都说 Finalizer 机制是不稳定且危险的，不推荐使用，这是为什么呢？今天我们来深入理解这个问题。 
+    </details> 
+
+- 💪 [ES6 变量的解构赋值](https://juejin.cn/post/7131023550709923847) | Fri Aug 12 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
     一、变量的解构赋值 数组的解构赋值 ES6 允许按照一定模式，从数组和对象中提取值，对变量进行赋值，这被称为解构（Destructuring）。 以前，为变量赋值，只能直接指定值。 ES6 允许写成下 
-    </details> 
-
-- 🎡 [软考高级《系统架构设计师》系统的可靠性设计 笔记](https://juejin.cn/post/7131021297735172127) | Fri Aug 12 2022 4:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    可靠性的基本概念 可靠性（Reliability）是指产品在规定条件下、规定的时间内完成规定功能的能力。 规定时间 我们一般用系统的执行时间来算，这样比较准确。 
-    </details> 
-
-- 🕯 [ES6 中的 let 和 const 命令](https://juejin.cn/post/7131011304252571684) | Fri Aug 12 2022 3:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、let 和 const 命令 let 命令 ES6 新增了let命令，用来声明变量。它的用法类似于var，但是所声明的变量，只在let命令所在的代码块内有效。 上面代码在代码块之中，分别用let和 
-    </details> 
-
-- 🚀 [Go&amp;Java算法之Excel表列序号](https://juejin.cn/post/7131009371412103181) | Fri Aug 12 2022 3:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 Excel表列序号 给你一个字符串 columnTitle ，表示 Excel 表格中的列名称。返回 该 
-    </details> 
-
-- 💪 [C# 控件篇](https://juejin.cn/post/7131001289059598372) | Fri Aug 12 2022 2:47 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天，点击查看活动详情 前言 博主这篇文章主要讲解C#窗体应用的几个常用的控件，这几个控件在C#窗体应用中用的频率特别高，如果你 
     </details> 
 <!-- juejin:END -->
 ### 少数派
