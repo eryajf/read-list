@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [红旗首款豪华MPV HQ9开售 售价40万元](https://www.cnbeta.com/articles/tech/1304061.htm) | Sat Aug 13 2022 6:20 AM 
+- 🕯 [中国动力电池开始“卷”向海外](https://www.cnbeta.com/articles/tech/1304083.htm) | Sat Aug 13 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月12日，红旗旗下首款豪华MPV车型HQ正式开售，&lt;strong&gt;目前其共推出1款车型，售价40万元&lt;/strong&gt;。40万元，已经比目前市面上大多数的主流MPV都要贵，不得不说，红旗还是非常自信。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304061.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;出海正在成为拥挤产能的一个重要去处，帮助国内动力电池企业打开空间。自去年开始锂电池原材料的价格节节攀升，让动力电池企业叫苦不迭。今年以来，上游原材料的继续大幅上涨，无疑让锂电池厂商的压力进一步加大，“增收不增利”（仅指动力电池业务）越发成为普遍现象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD Navi 3X图形核心配置爆料 Navi 31或搭配96MB无限缓存](https://www.cnbeta.com/articles/tech/1304059.htm) | Sat Aug 13 2022 6:19 AM 
+- 💼 [猪皮做成眼角膜为盲人恢复视力 不用等人捐献了](https://www.cnbeta.com/articles/science/1304081.htm) | Sat Aug 13 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着发布日期的临近，我们对 AMD RDNA 3 GPU 的了解也日渐深入。&lt;strong&gt;比如在 Angstronomics 网站上，SkyJuice 就分享了与“Navi 3X”有关的芯片详情。&lt;/strong&gt;尽管一些细节最早可追溯到 2019 - 2020 年，但我们还是可以借此机会再回顾一下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;用&lt;strong&gt;猪皮&lt;/strong&gt;做的眼角膜，可以恢复视障患者视力。really？？？没错，这项研究最近在《Nature》子刊《自然·生物技术》上发布，并且已经进行试点研究，使20名患者恢复了视力，且无不良反应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [17岁高中生手搓发动机获50万元大奖：自称天生工程爱好者 已有60余项发明](https://www.cnbeta.com/articles/science/1304057.htm) | Sat Aug 13 2022 6:19 AM 
+- 💂 [AMD发布Radeon 22.8.1显卡驱动：优化2款新游戏、黑屏bug依然无解](https://www.cnbeta.com/articles/tech/1304079.htm) | Sat Aug 13 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;17岁少年“手搓发动机”，参加最大的国际性青少年科学竞赛ISEF，捧走一等奖50万元奖金。获奖者罗伯特·桑松（Robert Sansone），高中还未毕业，表示将来想去改变电动汽车行业。为什么这么说？他研究的这款电动发动机，不需要稀土。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近一段时间Intel入局显卡市场引发了大家对驱动优化问题的关心，这个事比硬件架构更影响体验，做出一个好驱动不是那么容易的，AMD刚刚发布了Radeon 22.8.1驱动，虽然增加了对2款新游戏的优化，但是被吐槽很久的黑屏问题依然存在。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新款领克03内饰首曝：仪表盘变成“大平板”](https://www.cnbeta.com/articles/tech/1304055.htm) | Sat Aug 13 2022 6:14 AM 
+- 🚀 [国美陷入泥淖：黄光裕的flag倒了](https://www.cnbeta.com/articles/tech/1304077.htm) | Sat Aug 13 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为领克品牌的销量担当，03已经成为了不少年轻消费群体的心头好，今年6月份，中期改款领克03在工信部进行了申报，近日网络上&lt;strong&gt;首次曝光了该车的内饰&lt;/strong&gt;。从图片来看，此次流出的应该是03+车型，车内配有明黄色的缝线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“力争用未来18个月的时间，使国美恢复原有的市场地位。”这是去年2月，国美创始人黄光裕正式获释后在高管会上立下的flag。如今，18个月过去，黄光裕的豪言壮志没有成真，反而是铺天盖地的负面消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [任天堂社长称Switch不会涨价：怕吓跑消费者](https://www.cnbeta.com/articles/tech/1304053.htm) | Sat Aug 13 2022 6:12 AM 
+- 🎊 [AI加持的TrashBot垃圾分拣系统可实现90%准确率](https://www.cnbeta.com/articles/tech/1304075.htm) | Sat Aug 13 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近一年时间，由于半导体等材料价格上涨严重，已经影响到了终端产品价格，许多电子产品、汽车等产品都纷纷涨价。&lt;strong&gt;大家甚至都已经慢慢习惯了各类产品涨价，大不了不买就是了。&lt;/strong&gt;不过，任天堂却反其道而行之，坚称不会提高Switch的售价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;随着人工智能技术的日渐成熟，近年也有越来越多的初创企业试图借助 AI 机器人系统，来帮助改善垃圾分类和资源回收。&lt;/strong&gt;以 AMP Robitics 为例，通过结合 AI 挑选机和传送带，其不仅能够减少人工失误、还有望在大型自动化设施中大幅提升材料分拣效率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
