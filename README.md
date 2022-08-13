@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [微软电子书商店将在8月18日停止支持MOBI 格式](http://jandan.net/p/111129) | Sat Aug 13 2022 3:23 AM 
+- 🚀 [小学阶段，父母帮助孩子完成作业有害无益](http://jandan.net/p/111133) | Sat Aug 13 2022 9:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    不会提升孩子的学业成绩，反而破坏孩子的训练效果和习惯养成；甚至引发家庭冲突 
+    </details> 
+
+- 🙉 [微软电子书商店将在8月18日停止支持MOBI 格式](http://jandan.net/p/111129) | Sat Aug 13 2022 3:23 AM 
     <details><summary>展开描述 ...</summary> 
     因为亚马逊已宣布将废止其专有的 MOBI 电子书格式 
     </details> 
 
-- 🙉 [今日好价 0813](http://jandan.net/p/111132) | Sat Aug 13 2022 3:20 AM 
+- 🎉 [今日好价 0813](http://jandan.net/p/111132) | Sat Aug 13 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [2100页论文 证明 最经典的克尔黑洞在数学上是稳定的](http://jandan.net/p/111122) | Fri Aug 12 2022 3:27 PM 
+- 🐲 [2100页论文 证明 最经典的克尔黑洞在数学上是稳定的](http://jandan.net/p/111122) | Fri Aug 12 2022 3:27 PM 
     <details><summary>展开描述 ...</summary> 
     自1990年代初以来广义相对论领域的“第一个重大突破” 
     </details> 
 
-- 🐲 [大家听说过EZ水或第四相水吗](http://jandan.net/p/111106) | Fri Aug 12 2022 10:26 AM 
+-  [大家听说过EZ水或第四相水吗](http://jandan.net/p/111106) | Fri Aug 12 2022 10:26 AM 
     <details><summary>展开描述 ...</summary> 
     它科学吗 
-    </details> 
-
--  [海绵也会打喷嚏](http://jandan.net/p/111127) | Fri Aug 12 2022 3:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    海绵是没有大脑的简单多细胞生物，历史可以追溯到大约 5 亿年前。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
