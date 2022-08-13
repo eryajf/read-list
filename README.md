@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Kruise Rollout：灵活可插拔的渐进式发布框架](https://juejin.cn/post/7131358561031946253) | Sat Aug 13 2022 1:53 PM 
+- 🤗 [项目开发通用注意事项](https://juejin.cn/post/7131389664811810823) | Sat Aug 13 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
-    Kruise Rollout 是 OpenKruise 社区开源的渐进式交付框架。Kruise Rollout 支持配合流量和实例灰度的金丝雀发布、蓝绿发布、A/B Testing 发布，以及发布过程 
+    统一文字风格 P.S. 风格包括：字体，字号，粗细，行高，行间距，颜色，溢出控制 一级标题文字风格 二级标题文字风格 三级标题文字风格 模态框标题文字风格 tips文字风格 段落文字风格 表格头文字风 
     </details> 
 
-- 🎡 [BaguTree  Compose 分享](https://juejin.cn/post/7131357215788630029) | Sat Aug 13 2022 1:48 PM 
+- 🎡 [Swift - LeetCode - 翻转二叉树](https://juejin.cn/post/7131388585697116197) | Sat Aug 13 2022 3:51 PM 
     <details><summary>展开描述 ...</summary> 
-    BaguTree 组织地址： http://jetpack.net.cn/#/blog/all 目录: Compose 是什么 如何学习 Compose 用示例了解 Compose 重组 Compos 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情  题目 给你一棵二叉树的根节点 root，翻转这棵二叉树，并返回其根节点。 说明： xxx 示例 1：  
     </details> 
 
-- 🕯 [头脑风暴：零钱兑换2](https://juejin.cn/post/7131355312255074318) | Sat Aug 13 2022 1:42 PM 
+- 🕯 [手写Promise方法](https://juejin.cn/post/7131382301937631246) | Sat Aug 13 2022 3:25 PM 
     <details><summary>展开描述 ...</summary> 
-    题目 给定不同面额的硬币和一个总金额。写出函数来计算可以凑成总金额的硬币组合数。假设每一种面额的硬币有无限个。 示例 1: 输入: amount = 5, coins = [1, 2, 5] 输出:  
+    --- theme: nico --- &gt;携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，[点击查看活动详情]&lpar;https://juejin.cn/post/712312 
     </details> 
 
-- 🚀 [【kafka】kafka的服务复用与隔离设计方案](https://juejin.cn/post/7131343783735590949) | Sat Aug 13 2022 12:56 PM 
+- 🚀 [使用go做一个https证书时间检测工具](https://juejin.cn/post/7131378441428926501) | Sat Aug 13 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
-    这篇文章主要讲一下 kafka的服务复用与隔离; 主要解决的问题是,在多个迭代环境下; 让消息的提供者和消费者都能正确的发出和消费 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 各位运维同仁肯定都多多少少面临过，为了节省不必要的开支，很多不那么重要的域名https证书大多数都是申请 
     </details> 
 
-- 💪 [useState 和它的朋友们](https://juejin.cn/post/7131337758617894942) | Sat Aug 13 2022 12:33 PM 
+- 💪 [Quartz 的启动流程分析](https://juejin.cn/post/7131376773148721188) | Sat Aug 13 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-    你知道事实上 useState 和 useReducer 在 React 源码中是同一个方法吗？固然， React 为你提供了单独的调用 useState 或 useReducer 的接口方法…… 
+    针对Quartz 的启动流程分析 昨天写了篇SpringBoot整合Quartz的文章，然后也正巧不知道写什么了，就带着好奇写了这篇文章，明天的话再谈一谈执行流程。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
