@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [7月新能源销量排名出炉：比亚迪逆天夺冠 特斯拉暴跌至第15](https://www.cnbeta.com/articles/tech/1304033.htm) | Sat Aug 13 2022 3:19 AM 
+- 🕯 [加州能源委员会希望海上风电装机量在2045年达到25000兆瓦](https://www.cnbeta.com/articles/tech/1304045.htm) | Sat Aug 13 2022 4:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;刚刚过去的7月，国内狭义乘用车市场销量达181.8万辆，同比增长20.4%，环比6月的194.4万辆下降6.5%。其中，新能源狭义乘用车销量达48.6万辆，同比增长117.3%，环比6月的53.1万辆下降8.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;加利福尼亚州刚刚制定了一个壮大其海上风电产业的长期计划，目标是在 2045 年达到 25000 兆瓦的装机容量 —— 与当前整个欧洲的水平相当。&lt;/strong&gt;外媒指出，加州能源委员会在本周三设定的这一目标，也是全美各州迄今为止最充满雄心壮志的承诺。现实情况是，美国海上风电产业暂时仅在东海岸稍微站稳了脚跟。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [高温下电费让人崩溃 有人空调不停一月花五千](https://www.cnbeta.com/articles/tech/1304031.htm) | Sat Aug 13 2022 3:19 AM 
+- 💼 [世嘉表示自己没有计划延期《索尼克：边境》](https://hot.cnbeta.com/articles/game/1304043.htm) | Sat Aug 13 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中央气象台12日18时发布高温红色预警。不少上海网友开始PK电费了：少的一两千，多的有五六千。据央视新闻报道称，近期，四川、重庆、陕西、湖北等地部分地区最高气温达到或突破历史极值。预计未来10天，江淮、江汉、江南、四川盆地等地将出现持续高温天气，中央气象台8月13日06时继续发布高温红色预警。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;世嘉即将推出的《索尼克：边境》仍有望在今年发布，并且不会延迟以解决自正式披露以来受到评论家和粉丝的褒贬不一的反应。在最近举行的一次商业简报中，世嘉飒美高级执行副总裁Koichi Fukazawa 和执行副总裁Makoto Takahashi 解释说，该公司并没有让这款开放世界的《索尼克》游戏延期的计划。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《家园3》宣布参加科隆游戏展 明年上半年发售](https://hot.cnbeta.com/articles/game/1304029.htm) | Sat Aug 13 2022 3:19 AM 
+- 💂 [最坚挺的科技巨头 苹果股价接近收复今年全部跌幅](https://www.cnbeta.com/articles/tech/1304041.htm) | Sat Aug 13 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日，即时战略类游戏《家园3》官方Twitter宣布该作将参加今年的科隆游戏展。&lt;strong&gt;不过该作6月份已经宣布发售日期，由原来的2022年第四季度推迟至2023年上半年，本次参展或将放出更多实机演示。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;超预期的财报、蓄势待发的新品、市场对美联储加息预期减弱等因素或是近期苹果上涨的动力。不过，随着股价的不断上行，苹果的估值并不便宜。近期，苹果公司的表现非常亮眼。自6月16日跌至128.81美元低点后，苹果股价一路高歌猛进。截至昨日收盘，苹果股价继续上涨2%至172.10美元，较6月低点大幅反弹超30%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国芯片法案英特尔将获得最多补贴 但仍难改变代工市场格局](https://www.cnbeta.com/articles/tech/1304027.htm) | Sat Aug 13 2022 3:14 AM 
+- 🚀 [细读斯坦福报告：《芯片与科学法案》对人工智能意味着什么](https://www.cnbeta.com/articles/tech/1304039.htm) | Sat Aug 13 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国近日通过芯片法案，分析指出，美系半导体厂商将是主要受惠者，英特尔更将拿下最多补贴份额，但仍然难以撼动当前晶圆代工竞争版图。大和资本证券指出，美国芯片法案中，将有390亿美元用于补贴晶圆厂扩产，110亿美元用于先进制程研发，20亿美元用于国防计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间8月9日，美国总统拜登正式签署《芯片与科学法案》（Chips and Science Act）。该法案的支出大致分为两部分——分配520亿美元的补贴和税收抵免给芯片制造公司，在人工智能、机器人技术、量子计算等关键领域投入2000亿美元研究经费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [土星15日冲日，公众可一睹“指环王”风采](https://www.cnbeta.com/articles/science/1304025.htm) | Sat Aug 13 2022 3:01 AM 
+- 🎊 [苹果曾与Facebook商议内购订阅分成 应用追踪透明度则是后话](https://www.cnbeta.com/articles/tech/1304037.htm) | Sat Aug 13 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新华社天津8月13日电（记者周润健）&lt;strong&gt;天文科普专家介绍，8月15日，有着“指环王”美誉的土星将带来冲日表演。&lt;/strong&gt;届时如果天气晴好，我国感兴趣的公众可于14日晚至15日凌晨一睹这颗美丽星球的风采。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自 iPhone 制造商强制实施“应用追踪透明度”政策以来，社交网络巨头 Facebook 与苹果的争执一直没能得到缓解。&lt;strong&gt;然而据《华尔街日报》报道，苹果其实曾与 Facebook 讨论过潜在的“营收分成计划”。&lt;/strong&gt;可知大部分讨论发生于 2016 - 2018 年间，且苹果这边的想法是构建一款基于订阅的无广告版 Facebook 应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
