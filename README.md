@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新型聚合物可用于去除废水中的染料 之后可以重复使用](https://www.cnbeta.com/articles/science/1303973.htm) | Sat Aug 13 2022 1:29 AM 
+- 🕯 [7月新能源销量排名出炉：比亚迪逆天夺冠 特斯拉暴跌至第15](https://www.cnbeta.com/articles/tech/1304033.htm) | Sat Aug 13 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在纺织业和其他行业产生的废水中，染料是主要污染物之一。&lt;strong&gt;一种新开发的合成聚合物能够从水中去除这种染料，而且它可以被清理并重新用于处理更多的废水。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;刚刚过去的7月，国内狭义乘用车市场销量达181.8万辆，同比增长20.4%，环比6月的194.4万辆下降6.5%。其中，新能源狭义乘用车销量达48.6万辆，同比增长117.3%，环比6月的53.1万辆下降8.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [多名美国政界人士向NHTSA施压 要求对特斯拉Autopilot和FSD采取行动](https://www.cnbeta.com/articles/tech/1303971.htm) | Sat Aug 13 2022 1:27 AM 
+- 💼 [高温下电费让人崩溃 有人空调不停一月花五千](https://www.cnbeta.com/articles/tech/1304031.htm) | Sat Aug 13 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉的 Autopilot 和完全自动驾驶（FSD）项目由于受到监管机构和政界人士的介入，承受着多方越来越大的压力。&lt;strong&gt;近日，多名美国政界人士向 NHTSA 施加压力，要求其对特斯拉的 Autopilot 和 FSD Beta 采取行动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1303971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中央气象台12日18时发布高温红色预警。不少上海网友开始PK电费了：少的一两千，多的有五六千。据央视新闻报道称，近期，四川、重庆、陕西、湖北等地部分地区最高气温达到或突破历史极值。预计未来10天，江淮、江汉、江南、四川盆地等地将出现持续高温天气，中央气象台8月13日06时继续发布高温红色预警。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [欧空局宣布仪器电源异常迫使哥白尼哨兵-1B卫星任务结束](https://www.cnbeta.com/articles/science/1303969.htm) | Sat Aug 13 2022 1:18 AM 
+- 💂 [《家园3》宣布参加科隆游戏展 明年上半年发售](https://hot.cnbeta.com/articles/game/1304029.htm) | Sat Aug 13 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2021年12月23日，哥白尼哨兵-1B卫星经历了一个与卫星平台提供的仪器电源有关的异常情况，导致其无法提供雷达数据。从那时起，航天器运营商和工程师一直在不懈努力，以纠正这个问题。不幸的是，尽管各方齐心努力，&lt;strong&gt;欧空局（ESA）和欧盟委员会仍宣布，哨兵-1B任务已经结束。&lt;/strong&gt;哥白尼哨兵-1A仍在全面运行，并计划尽快发射哨兵-1C。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日，即时战略类游戏《家园3》官方Twitter宣布该作将参加今年的科隆游戏展。&lt;strong&gt;不过该作6月份已经宣布发售日期，由原来的2022年第四季度推迟至2023年上半年，本次参展或将放出更多实机演示。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《晚间秀》主持人Stephen Colbert在短片中乱入《人生切割术》](https://hot.cnbeta.com/articles/movie/1303967.htm) | Sat Aug 13 2022 1:15 AM 
+- 🚀 [美国芯片法案英特尔将获得最多补贴 但仍难改变代工市场格局](https://www.cnbeta.com/articles/tech/1304027.htm) | Sat Aug 13 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在最新一期《扣熊晚间秀》节目中，&lt;strong&gt;史蒂芬·科尔伯特分享了一部短剧，讲述了 Apple TV+ 心理剧《离职》—— 又名《人生切割术》（Severance）—— 中一些“被误删”的场景。&lt;/strong&gt;作为一名喜剧演员，扣熊遗憾表示自己未能在正片中留下“最初的身影”。好消息是，《晚间秀》给了他一个向大家爆料的机会。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1303967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国近日通过芯片法案，分析指出，美系半导体厂商将是主要受惠者，英特尔更将拿下最多补贴份额，但仍然难以撼动当前晶圆代工竞争版图。大和资本证券指出，美国芯片法案中，将有390亿美元用于补贴晶圆厂扩产，110亿美元用于先进制程研发，20亿美元用于国防计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Roon希望向患者提供最新的经过医学审查的病情信息](https://www.cnbeta.com/articles/science/1303965.htm) | Sat Aug 13 2022 1:01 AM 
+- 🎊 [土星15日冲日，公众可一睹“指环王”风采](https://www.cnbeta.com/articles/science/1304025.htm) | Sat Aug 13 2022 3:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据TechCrunch报道，当个人试图管理医疗信息和了解自己的病情时，许多人通常会求助于Google或WebMD--这两者都无法验证或提供最新信息。&lt;strong&gt;但Roon计划通过一个医疗教育平台来改变这种状况，该平台经过审查的信息来自医生、病人和护理人员。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1303965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新华社天津8月13日电（记者周润健）&lt;strong&gt;天文科普专家介绍，8月15日，有着“指环王”美誉的土星将带来冲日表演。&lt;/strong&gt;届时如果天气晴好，我国感兴趣的公众可于14日晚至15日凌晨一睹这颗美丽星球的风采。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
