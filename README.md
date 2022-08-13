@@ -364,9 +364,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [brave browser](https://www.v2ex.com/t/872670#reply7) | Sat Aug 13 2022 1:05 PM
-- 🤗 [国行三星手机搜不到澳门版的固件？](https://www.v2ex.com/t/872668#reply6) | Sat Aug 13 2022 12:30 PM
-- 🎭 [关于随机时间产生算法](https://www.v2ex.com/t/872667#reply5) | Sat Aug 13 2022 12:29 PM
+- 🥸 [brave browser](https://www.v2ex.com/t/872670#reply10) | Sat Aug 13 2022 1:05 PM
+- 🤗 [国行三星手机搜不到澳门版的固件？](https://www.v2ex.com/t/872668#reply10) | Sat Aug 13 2022 12:30 PM
+- 🎭 [关于随机时间产生算法](https://www.v2ex.com/t/872667#reply8) | Sat Aug 13 2022 12:29 PM
 - 🥷 [平时对 GO 的学习再深入些，可以好好讨论,得到你需要的答案 [go101]](https://www.v2ex.com/t/872663#reply1) | Sat Aug 13 2022 12:11 PM
 - 🐵 [自定义 Clash 代理规则的方案（使用 github actions 缓存到 CDN，提升访问速度）](https://www.v2ex.com/t/872662#reply3) | Sat Aug 13 2022 11:59 AM<!-- v2ex:END -->
 
