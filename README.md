@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星990 PRO PCIe Gen 5 M.2固态硬盘再次得到确认](https://www.cnbeta.com/articles/tech/1304123.htm) | Sat Aug 13 2022 12:17 PM 
+- 🕯 [一主播疑在青海采摘濒危植物“水母雪兔子” 相关部门已介入](https://www.cnbeta.com/articles/tech/1304125.htm) | Sat Aug 13 2022 1:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月11日，有微博网友发称，名为“西伯利亚狼”的主播发布了自己在青海采摘“雪兔子”的视频，目前，相关部门已介入。网传视频显示，8月3日，该主播发视频称：“青藏雪莲花，原生态海拔5000多米真实采摘”，并将一朵植物从石缝中连根拔起，向着镜头展示。该植物疑为国家二级保护植物“水母雪兔子”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [三星990 PRO PCIe Gen 5 M.2固态硬盘再次得到确认](https://www.cnbeta.com/articles/tech/1304123.htm) | Sat Aug 13 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;三星的下一代990 PRO固态硬盘采用PCIe Gen 5.0 M.2协议，这一次再次得到PCI-SIG的确认。本月早些时候，三星990 PRO Gen 5 M.2固态硬盘也被发现在韩国RRA认证名单中。我们看到了两种SSD配置，一种是1TB，另一种是2TB型号，它们将使用三星自己的专有解决方案来驱动其下一代SSD解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《老友记》菲比的演员丽莎·库卓谈剧集缺乏多样性：编剧没经历过](https://hot.cnbeta.com/articles/movie/1304121.htm) | Sat Aug 13 2022 12:14 PM 
+- 💂 [《老友记》菲比的演员丽莎·库卓谈剧集缺乏多样性：编剧没经历过](https://hot.cnbeta.com/articles/movie/1304121.htm) | Sat Aug 13 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《老友记》菲比·布菲的饰演者丽莎·库卓在最近采访中谈论了有关《老友记》缺乏有色人种的事情。在2020年，这名演员曾表示《老友记》严重缺乏多样性，如果这部剧集能够重新回到电视上，那他就不会是一个全白人的阵容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AMD CPU被发现新型安全漏洞：锐龙全家中招](https://www.cnbeta.com/articles/tech/1304119.htm) | Sat Aug 13 2022 12:14 PM 
+- 🚀 [AMD CPU被发现新型安全漏洞：锐龙全家中招](https://www.cnbeta.com/articles/tech/1304119.htm) | Sat Aug 13 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;如今的CPU处理器异常复杂，被发现安全漏洞也是平常事，以往发现的几次重要漏洞中AMD的锐龙处理器因为问世较晚，经常躲过一劫，Intel处理器才是重灾区，不过这一次发布的新漏洞没Intel什么事，AMD的三代锐龙都中招了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [今年高温综合强度或为1961年来最强](https://www.cnbeta.com/articles/tech/1304117.htm) | Sat Aug 13 2022 11:04 AM 
+- 🎊 [今年高温综合强度或为1961年来最强](https://www.cnbeta.com/articles/tech/1304117.htm) | Sat Aug 13 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年7月下旬以来，我国长江中下游地区等地出现了范围较大、强度强的高温天气，多地最高气温值、高温日数破纪录，网友吐槽“包邮区热成保熟区”、“重庆热成炼丹炉”……那么今年南方到底有多热？为何这么热呢？还要热多久？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [新一代沃尔沃XC90纯电版首曝：多了精致、少了霸气](https://www.cnbeta.com/articles/tech/1304115.htm) | Sat Aug 13 2022 11:04 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为沃尔沃家族旗舰SUV车型，XC90以稳重、大气的造型赢得了不少粉丝。有海外媒体曝光了一组新一代沃尔沃XC90纯电动版（代号V536）的外观专利图，&lt;strong&gt;新车将基于全新的SPA2架构进行打造，或将于今年底正式发布&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
