@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [etcd系列之事务：etcd 中如何实现事务（上）？](https://juejin.cn/post/7131265932818645022) | Sat Aug 13 2022 7:54 AM 
+- 🤗 [在Go中使用gjson来操作JSON数据](https://juejin.cn/post/7131274045797957645) | Sat Aug 13 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    你好，我是 aoho，今天我和你分享的主题是事务：etcd 中如何实现事务？ 我们在前面介绍了 etcd 存储、etcd-raft 模块以及 MVCC 多版本控制实现的原理。今天将会介绍 etcd 中 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第12天。 项目地址：https://github.com/tidwall/gjson 下载： 获取值 Get查询指定路径, 通过. 
     </details> 
 
-- 🎡 [前端需要去了解的nodejs知识（fs文件处理）](https://juejin.cn/post/7131261796182147079) | Sat Aug 13 2022 7:38 AM 
+- 🎡 [RabbitMQ消息确认机制](https://juejin.cn/post/7131272158726062093) | Sat Aug 13 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-    文件系统时nodejs中至关重要的一个模块，它使得JavaScript具备了操作文件的能力。对于所有文件或目录的操作fs都提供了同步和异步两种操作方式。另外nodejs也提供了文件流的处理。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 前言 上一章讲解了RabbitMq的三种Exchange消息发送的模式，但是在默认情况下RabbitMQ 
     </details> 
 
-- 🕯 [python “groupby” 操作实践之格式化输出星期字符串](https://juejin.cn/post/7131220661640364039) | Sat Aug 13 2022 4:58 AM 
+- 🕯 [我们来聊聊HTTPS吧](https://juejin.cn/post/7131271758006452231) | Sat Aug 13 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-    python “groupby” 操作实践之格式化输出星期字符串 最近遇到一个需求，是在一周内选择几天，并按格式输出出来，来说下完成这个功能的过程，如何从 0 到 1。 
+    前言 其实在没了解HTTPS之前，我对HTTPS的理解就是HTTPS = HTTP + SAFE，意为安全的HTTP协议，其实这么理解也没问题，HTTPS就是让HTTP变的安全，那说到安全我们该如何定 
     </details> 
 
-- 🚀 [基于Redission的分布式锁实战【代码案例详解】](https://juejin.cn/post/7131220315438825502) | Sat Aug 13 2022 4:58 AM 
+- 🚀 [你必须避免的 10 个 React 错误用法](https://juejin.cn/post/7131270450918719519) | Sat Aug 13 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-    在系统中，当存在多个进程和线程可以改变某个共享数据时，就容易出现并发问题导致共享数据的不一致性。本篇分享基于Redission的分布式锁实战，解决如上场景问题！ 
+    本文是作者在实际工作经验中总结提炼出的错误使用 React 的一些方式，希望能够帮助你摆脱这些相同的错误。 
     </details> 
 
-- 💪 [深入源码剖析ThreadPoolExecutor的工作原理](https://juejin.cn/post/7131212689161846821) | Sat Aug 13 2022 4:28 AM 
+- 💪 [让我们来写写排序算法（javaScript）吧！](https://juejin.cn/post/7131268543714164744) | Sat Aug 13 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    深入源码剖析ThreadPoolExecutor的工作原理 为什么要有线程池 先来说说什么是池化技术： 什么是线程池： 线程池有什么优点： 线程池3 个核心部分： Executor框架结构图解 从JD 
+    1. 冒泡排序 定义 重复地走访要排序的数列，一次比较两个元素，如果他们的顺序有变化就交换过来。冒泡排序是一种稳定排序，值相等的元素不会打乱原本的顺序。由于该排序算法每一轮都有遍历所有的元素，总共遍历 
     </details> 
 <!-- juejin:END -->
 ### 少数派
