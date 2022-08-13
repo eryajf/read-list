@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [有用但不为大家所熟知的 Java 特性](https://juejin.cn/post/7130883974846480391) | Fri Aug 12 2022 7:12 AM 
+- 🤗 [Hugging Face发布diffuser模型AI绘画库初尝鲜！](https://juejin.cn/post/7131194124077629453) | Sat Aug 13 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-    在本文中，你可以了解一些可能没有听说过的有用的 Java 特性。这是我最近使用的功能的私人列表，或者是我在阅读有关 Java 的文章时偶然发现的。我不会关注语言方面，而是关注 API。 1.延迟队列【 
+    本文讲解 Hugging Face 发布的专注于 diffuser 模型的开源库，仅仅通过几行代码就开始生成自己的艺术作画，并对比相同文本提示下各付费商业产品生成的结果。 
     </details> 
 
-- 🎡 [bug现场谜之报错也识趣-客户一上班报错就消失了！](https://juejin.cn/post/7130882905249120286) | Fri Aug 12 2022 7:08 AM 
+- 🎡 [PyCharm 2022.2 发布了，支持最新 Python 3.11 和 PyScript 框架！](https://juejin.cn/post/7131191262078009351) | Sat Aug 13 2022 3:04 AM 
     <details><summary>展开描述 ...</summary> 
-    友商系统的一个bug，已经存在一年多了，解决不了。客户意见很大，让我司解决下。这谜一样的bug，上班前出现，客户上报就消失了，不影响客户使用，也难怪忍了这么久。看看吧...... 
+    PyCharm 2022.2 发布了，支持最新 Python 3.11 和 PyScript 框架！ 
     </details> 
 
-- 🕯 [【Liquibase】入门扫盲](https://juejin.cn/post/7130882006937780261) | Fri Aug 12 2022 7:04 AM 
+- 🕯 [Swift4 - 学习笔记：数据类型 | 运算符 | 字符串](https://juejin.cn/post/7131188846087290887) | Sat Aug 13 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    Liquibase 是一个用于跟踪、管理和应用数据库变化的开源的数据库重构工具。它将所有数据库的变化保存到文件中。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 Swift4 初步认识 基本数据类型 常量 let ,变量 var 在一行中声明多个常量或变量，用逗号隔 
     </details> 
 
-- 🚀 [广州蓝景分享—程序员在面试时必须要做的五件事，最后一件很重要](https://juejin.cn/post/7130881424752082980) | Fri Aug 12 2022 7:02 AM 
+- 🚀 [消息队列之RabbitMQ&lpar;四&rpar;-消息确认机制](https://juejin.cn/post/7130916907980423198) | Fri Aug 12 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
-    Hello大家好，我是小蓝，专门帮助大家解答前端技术上的问题和前端学习上的疑问以及在程序员在面试时的技巧使用等等，今天要和大家分享的内容是：“程序员面试时必须要做的五件事” 为了能让大家提升应聘成功率 
+    使用消息队列&lpar;如：RabbitMQ&rpar;的系统都是异步通信的，这种通信方式不能够保证发送的消息被对端成功的接收并且处理，因为有各种原因可能导致消息的丢失，所以发布者（Publisher）和消费者（Cons 
     </details> 
 
-- 💪 [Webpack5中相关资源loader的升级改动（Assest Module）](https://juejin.cn/post/7130880991614861325) | Fri Aug 12 2022 7:00 AM 
+- 💪 [LCODER设计模式一：创建型模式](https://juejin.cn/post/7130916808055324686) | Fri Aug 12 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-    Webpack5中相关资源loader的升级改动（Assest Module） Assest Module是webpack中加载静态资源的模块，webpack实现一个打包器就是可以把在js中引用的任何 
+    面向对象的六大原则 单一职责原则 : &lpar;Single Responsibility Principle SRP&rpar; 就一个类而言，应该仅有一个引起它变化的原因。 开闭原则 :（Open Close Pr 
     </details> 
 <!-- juejin:END -->
 ### 少数派
