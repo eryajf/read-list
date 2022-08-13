@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [项目开发通用注意事项](https://juejin.cn/post/7131389664811810823) | Sat Aug 13 2022 3:54 PM 
+- 🤗 [【开源项目】Github 主页显示最近发布的掘金文章（支持动态更新）](https://juejin.cn/post/7131429821992665102) | Sat Aug 13 2022 6:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文介绍如何在 github 主页 readme 显示掘金与小专栏的最近文章（只部署一次，实时同步） 
+    </details> 
+
+- 🎡 [项目开发通用注意事项](https://juejin.cn/post/7131389664811810823) | Sat Aug 13 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     统一文字风格 P.S. 风格包括：字体，字号，粗细，行高，行间距，颜色，溢出控制 一级标题文字风格 二级标题文字风格 三级标题文字风格 模态框标题文字风格 tips文字风格 段落文字风格 表格头文字风 
     </details> 
 
-- 🎡 [Swift - LeetCode - 翻转二叉树](https://juejin.cn/post/7131388585697116197) | Sat Aug 13 2022 3:51 PM 
+- 🕯 [Swift - LeetCode - 翻转二叉树](https://juejin.cn/post/7131388585697116197) | Sat Aug 13 2022 3:51 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情  题目 给你一棵二叉树的根节点 root，翻转这棵二叉树，并返回其根节点。 说明： xxx 示例 1：  
     </details> 
 
-- 🕯 [手写Promise方法](https://juejin.cn/post/7131382301937631246) | Sat Aug 13 2022 3:25 PM 
+- 🚀 [手写Promise方法](https://juejin.cn/post/7131382301937631246) | Sat Aug 13 2022 3:25 PM 
     <details><summary>展开描述 ...</summary> 
     --- theme: nico --- &gt;携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，[点击查看活动详情]&lpar;https://juejin.cn/post/712312 
     </details> 
 
-- 🚀 [使用go做一个https证书时间检测工具](https://juejin.cn/post/7131378441428926501) | Sat Aug 13 2022 3:11 PM 
+- 💪 [使用go做一个https证书时间检测工具](https://juejin.cn/post/7131378441428926501) | Sat Aug 13 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 各位运维同仁肯定都多多少少面临过，为了节省不必要的开支，很多不那么重要的域名https证书大多数都是申请 
-    </details> 
-
-- 💪 [Quartz 的启动流程分析](https://juejin.cn/post/7131376773148721188) | Sat Aug 13 2022 3:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    针对Quartz 的启动流程分析 昨天写了篇SpringBoot整合Quartz的文章，然后也正巧不知道写什么了，就带着好奇写了这篇文章，明天的话再谈一谈执行流程。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
