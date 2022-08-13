@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国动力电池开始“卷”向海外](https://www.cnbeta.com/articles/tech/1304083.htm) | Sat Aug 13 2022 7:06 AM 
+- 🕯 [爱马仕16.5万自行车被火速抢光 客服回应：库存已空、将从法国来货](https://www.cnbeta.com/articles/tech/1304089.htm) | Sat Aug 13 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最近，爱马仕在中国官网上架了一款售价16.5万元的自行车，引起了网友热议。虽然价格昂贵，当时很快官网就显示无货，&lt;strong&gt;而客服表示目前这款自行车已经售罄，包括线下门店。&lt;/strong&gt;对此，有媒体联系到了爱马仕客服人员，&lt;strong&gt;对方称中国大陆暂时没有这款自行车的存货了，爱马仕没有调货服务，但后续会从法国来货，受多种因素影响，来货时间无法确定。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [8月15日将上演“土星冲日”：地球、太阳、土星会连成一串](https://www.cnbeta.com/articles/science/1304087.htm) | Sat Aug 13 2022 7:25 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;日前，年度第三大满月、英仙座流星雨刚刚过去，我们又要迎来一次罕见的天象奇景了。据天文科普专家介绍，&lt;strong&gt;8月15日，有着“指环王”美誉的土星将带来冲日表演。&lt;/strong&gt;届时如果天气晴好，我国公众可于14日晚至15日凌晨一睹这颗美丽星球的风采。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [日本收紧对外国研究人员入境审查](https://www.cnbeta.com/articles/science/1304085.htm) | Sat Aug 13 2022 7:18 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据《日本经济新闻》8月13日报道，日本政府正在收紧对外国研究人员和留学生的入境审查。当提交在日本停留所必需的证明文件时，申报内容将包括海外旅行经历、在日期间的资金来源等等。目的是在相关人员入境日本前确认其是否有可能将高密级科研成果或技术带往海外。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [中国动力电池开始“卷”向海外](https://www.cnbeta.com/articles/tech/1304083.htm) | Sat Aug 13 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;出海正在成为拥挤产能的一个重要去处，帮助国内动力电池企业打开空间。自去年开始锂电池原材料的价格节节攀升，让动力电池企业叫苦不迭。今年以来，上游原材料的继续大幅上涨，无疑让锂电池厂商的压力进一步加大，“增收不增利”（仅指动力电池业务）越发成为普遍现象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [猪皮做成眼角膜为盲人恢复视力 不用等人捐献了](https://www.cnbeta.com/articles/science/1304081.htm) | Sat Aug 13 2022 7:05 AM 
+- 🎊 [猪皮做成眼角膜为盲人恢复视力 不用等人捐献了](https://www.cnbeta.com/articles/science/1304081.htm) | Sat Aug 13 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;用&lt;strong&gt;猪皮&lt;/strong&gt;做的眼角膜，可以恢复视障患者视力。really？？？没错，这项研究最近在《Nature》子刊《自然·生物技术》上发布，并且已经进行试点研究，使20名患者恢复了视力，且无不良反应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [AMD发布Radeon 22.8.1显卡驱动：优化2款新游戏、黑屏bug依然无解](https://www.cnbeta.com/articles/tech/1304079.htm) | Sat Aug 13 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近一段时间Intel入局显卡市场引发了大家对驱动优化问题的关心，这个事比硬件架构更影响体验，做出一个好驱动不是那么容易的，AMD刚刚发布了Radeon 22.8.1驱动，虽然增加了对2款新游戏的优化，但是被吐槽很久的黑屏问题依然存在。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [国美陷入泥淖：黄光裕的flag倒了](https://www.cnbeta.com/articles/tech/1304077.htm) | Sat Aug 13 2022 6:59 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“力争用未来18个月的时间，使国美恢复原有的市场地位。”这是去年2月，国美创始人黄光裕正式获释后在高管会上立下的flag。如今，18个月过去，黄光裕的豪言壮志没有成真，反而是铺天盖地的负面消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [AI加持的TrashBot垃圾分拣系统可实现90%准确率](https://www.cnbeta.com/articles/tech/1304075.htm) | Sat Aug 13 2022 6:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着人工智能技术的日渐成熟，近年也有越来越多的初创企业试图借助 AI 机器人系统，来帮助改善垃圾分类和资源回收。&lt;/strong&gt;以 AMP Robitics 为例，通过结合 AI 挑选机和传送带，其不仅能够减少人工失误、还有望在大型自动化设施中大幅提升材料分拣效率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
