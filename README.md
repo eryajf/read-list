@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [颜值即正义，使用SwiftUI搭建简历管理详情页](https://juejin.cn/post/7131215602496045064) | Sat Aug 13 2022 4:38 AM 
+- 🤗 [层次分明井然有条,Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang包管理机制&lpar;package&rpar;EP10](https://juejin.cn/post/7131243130912768036) | Sat Aug 13 2022 6:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    Go lang使用包（package）这种概念元素来统筹代码，所有代码功能上的可调用性都定义在包这个级别，如果我们需要调用依赖，那就“导包”就行了，无论是内部的还是外部的，使用import关键字即可。 
+    </details> 
+
+- 🎡 [Vue 2 阅读理解（四）之 Parse 函数定义](https://juejin.cn/post/7131238380343394312) | Sat Aug 13 2022 6:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 Parse 函数 在 baseCompile&lpar;&rpar; 执行过程中，首先就是通过 parse方法 解析 tem 
+    </details> 
+
+- 🕯 [什么是强缓存和协商缓存](https://juejin.cn/post/7131237076065845256) | Sat Aug 13 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    HTTP 缓存分为以下两种，两者都是通过 HTTP 响应头控制缓存。 强制缓存 协商缓存 强制缓存 再次请求时无需再向服务器发送请求 与之相关的 Response Headers 有以下几个 Expi 
+    </details> 
+
+- 🚀 [颜值即正义，使用SwiftUI搭建简历管理详情页](https://juejin.cn/post/7131215602496045064) | Sat Aug 13 2022 4:38 AM 
     <details><summary>展开描述 ...</summary> 
     承接上一章的内容，我们完成了一个基本设置页面中的个人信息、账号绑定、通用设置的详情页。这一章节，我们来完成简历管理的页面搭建。我们先来看看最终的效果图。示例...... 
     </details> 
 
-- 🎡 [一文带你理解@RefreshScope注解实现动态刷新原理](https://juejin.cn/post/7131193486849605646) | Sat Aug 13 2022 3:12 AM 
+- 💪 [一文带你理解@RefreshScope注解实现动态刷新原理](https://juejin.cn/post/7131193486849605646) | Sat Aug 13 2022 3:12 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 概述 RefeshScope这个注解想必大家都用过，在微服务配置中心的场景下经常出现，他可以用来刷新Be 
-    </details> 
-
-- 🕯 [【LeetCode】61. 旋转链表](https://juejin.cn/post/7131181297124245511) | Sat Aug 13 2022 2:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 前言 为了养成创作习惯，从今天起开始刷力扣了，只刷简单和中等难度的题，分类刷，这个月就先刷链表题，简单的已 
-    </details> 
-
-- 🚀 [leetcode  300. Longest Increasing Subsequence（python）](https://juejin.cn/post/7131156478869635079) | Sat Aug 13 2022 12:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    leetcode 300. Longest Increasing Subsequence 这道题考察的就是动态规划 
-    </details> 
-
-- 💪 [实战第13篇：Sensor距离传感器实现小猪睡觉趣味App](https://juejin.cn/post/7131152469802876941) | Sat Aug 13 2022 12:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    利用Android中的距离传感器，开发一个小猪睡觉的趣味应用，靠近小猪，它就睡觉；你一离开，它就作妖。可用于哄娃，效果如下…… 
     </details> 
 <!-- juejin:END -->
 ### 少数派
