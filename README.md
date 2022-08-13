@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [马克·鲁法诺漫威宇宙创作自由比《星球大战》更大](https://hot.cnbeta.com/articles/movie/1304101.htm) | Sat Aug 13 2022 9:15 AM 
+- 🕯 [收入猛涨超70% 迪士尼CEO：迪士尼乐园或继续涨价](https://hot.cnbeta.com/articles/movie/1304105.htm) | Sat Aug 13 2022 9:22 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;2022年的一大关键词就是“涨价”，放在世界范围内都很适用。近日消息，据老板联播引援纽约时报报道，迪士尼CEO鲍勃·查佩克（Bob Chapek）近日表示，迪士尼乐园的游客可能很快会受到另一轮涨价的冲击。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《海贼王：红发歌姬》剧场版票房破50亿日元 观影人次达360万](https://hot.cnbeta.com/articles/comic/1304103.htm) | Sat Aug 13 2022 9:21 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《海贼王：红发歌姬》官方推特发文称，本影片上映首周，观影人数已超360万人，票房收入超50亿日元。这个票房成绩创造了2022年日本电影首周票房之最，也是历代海贼王剧场版首周票房之最。此前，排名为历代《海贼王》剧场版第二的狂热行动共花费5周时间才突破50亿日元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1304103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [马克·鲁法诺漫威宇宙创作自由比《星球大战》更大](https://hot.cnbeta.com/articles/movie/1304101.htm) | Sat Aug 13 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近编剧导演戴蒙·林道夫发起了关于接下来的漫威电影数量是否略显太多的讨论，而绿巨人扮演者马克·鲁法诺在讨论中认为，MCU其实千变万化，创作自由更胜于《星球大战》。在接受采访时，鲁法诺介绍了他认为漫威无需降低输出速度的原因。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [谷歌Stadia全新试玩系统 可玩到解锁特定成就为止](https://hot.cnbeta.com/articles/game/1304099.htm) | Sat Aug 13 2022 9:14 AM 
+- 🚀 [谷歌Stadia全新试玩系统 可玩到解锁特定成就为止](https://hot.cnbeta.com/articles/game/1304099.htm) | Sat Aug 13 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;谷歌Stadia宣布，将会测试一款全新游戏试玩系统，让玩家试玩到解锁某个特定成就为止。新系统的试运行将会从下周开始。玩家可以试玩游戏《控制》和《狙击精英4》，直到完成特定成就或达到特定游戏时长为止。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [争相入局短视频 硅谷科技巨头全力抵御TikTok](https://www.cnbeta.com/articles/tech/1304097.htm) | Sat Aug 13 2022 9:12 AM 
+- 🎊 [争相入局短视频 硅谷科技巨头全力抵御TikTok](https://www.cnbeta.com/articles/tech/1304097.htm) | Sat Aug 13 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;面世五年，TikTok的飞速增长，让硅谷科技巨头紧张地竖起防御铠甲。据英国科技媒体Verdict报道，为了追赶TikTok的步伐，Facebook母公司Meta正改变其社交帝国的基因，试图全方位模仿TikTok。Google高管也在公开场合称，TikTok不仅挤压了Google长视频的市场，还正蚕食Google搜索和Google地图的地盘。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [B站魔力赏玩家：花了50万，抽到一堆垃圾](https://hot.cnbeta.com/articles/movie/1304095.htm) | Sat Aug 13 2022 9:11 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;玩得最狠的时候，玩家刘崇曾贷款20万元，全部投了进去。中间靠抽到的奖品变现，他又赚回11万元，但这些钱很快又赔了进去。“还不上钱的时候，银行给我打电话，最后还是我妈帮着还的，还完她和我说，以后要是再玩，就给我剁手。”母亲的劝阻并未生效，等到每月收到工资那天，他又会将钱全部投入。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [造车新势力的隐忧 正在暴露](https://www.cnbeta.com/articles/tech/1304093.htm) | Sat Aug 13 2022 9:10 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月第一周，新势力的日子并不好过。降价、滞销、产能过剩的传闻嚣甚尘上，而刚过去的7月份，三家新势力们的销量增长率也正在被一些传统势力以及二线品牌超越。无可否认，电动车这个行业还是欣欣向荣，未来无限可期，但台面上风光，台底下却是暗流涌动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
