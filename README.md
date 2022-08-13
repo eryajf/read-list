@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [你可能不知道，在中国古代也有玻璃](https://www.cnbeta.com/articles/science/1304129.htm) | Sat Aug 13 2022 4:17 PM 
+- 🕯 [分析师：美国半导体材料严重依赖进口 芯片法案也应加大对其投资](https://www.cnbeta.com/articles/tech/1304141.htm) | Sat Aug 13 2022 4:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“大都好物不坚牢，彩云易散琉璃脆。”白居易的一首诗形象地指出了玻璃易碎的特点。中国古代常用“琉璃”指代玻璃（但“琉璃”一词并不专指玻璃，一些釉砂、玉器、彩釉砖瓦也被古人称为“琉璃”），除此之外，古代玻璃还有“璆琳琅玕”、“琉琳”、“药玉”、“瓘玉”、“哨子”和“料器”等名称。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着美国芯片法案签署，将为美国半导体的研究和生产提供约520亿美元的政府补贴，还包括对估计价值240亿美元的芯片工厂的投资税收抵免。研究机构TECHCET指出，美国半导体产业下一步应该加大对材料领域的投资。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD清仓 RX 6900 XT显卡史低价：暴跌30%](https://www.cnbeta.com/articles/tech/1304127.htm) | Sat Aug 13 2022 4:16 PM 
+- 💼 [三星员工平均年薪74.88万元 比台积电高1.5倍](https://www.cnbeta.com/articles/tech/1304139.htm) | Sat Aug 13 2022 4:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD的RX 6000系列显卡发布即将满两年了，当初发售没多久也遇到了挖矿及产能紧张等问题，价格一路上涨，旗舰RX 6900 XT从999美元一路涨到了2500美元以上，4月份才跌回建议价，最新价格拉低到了699美元，比建议价低了30%了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;韩国媒体报道，三星电子、SK海力士等韩国主要半导体公司在人力成本和企业税方面落后于全球竞争对手台积电。近日，韩国经济研究所对三星电子和台积电的基础设施等竞争因素进行了分析。三星电子在半导体代工领域与台积电展开竞争，试图在代工领域超越台积电，但未能超越台积电。目前，台积电处于领先地位，市占率 53.6%，三星电子占比仅16.3%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [一主播疑在青海采摘濒危植物“水母雪兔子” 相关部门已介入](https://www.cnbeta.com/articles/tech/1304125.htm) | Sat Aug 13 2022 1:19 PM 
+- 💂 [北极局部变暖速度达世界其他地方7倍](https://www.cnbeta.com/articles/science/1304137.htm) | Sat Aug 13 2022 4:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月11日，有微博网友发称，名为“西伯利亚狼”的主播发布了自己在青海采摘“雪兔子”的视频，目前，相关部门已介入。网传视频显示，8月3日，该主播发视频称：“青藏雪莲花，原生态海拔5000多米真实采摘”，并将一朵植物从石缝中连根拔起，向着镜头展示。该植物疑为国家二级保护植物“水母雪兔子”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英国《通讯·地球与环境》杂志11日在线发表的一篇气候变化论文报告称，与全球平均值相比，北极变暖速度确实比之前人们认为的更快。极地加速变暖表明该地区对全球变暖的敏感程度高于当前的评估。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星990 PRO PCIe Gen 5 M.2固态硬盘再次得到确认](https://www.cnbeta.com/articles/tech/1304123.htm) | Sat Aug 13 2022 12:17 PM 
+- 🚀 [红色预警继续 全国高温排行榜门槛提高到42℃](https://www.cnbeta.com/articles/tech/1304135.htm) | Sat Aug 13 2022 4:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星的下一代990 PRO固态硬盘采用PCIe Gen 5.0 M.2协议，这一次再次得到PCI-SIG的确认。本月早些时候，三星990 PRO Gen 5 M.2固态硬盘也被发现在韩国RRA认证名单中。我们看到了两种SSD配置，一种是1TB，另一种是2TB型号，它们将使用三星自己的专有解决方案来驱动其下一代SSD解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据@中国天气 13日下午13时-18时，全国高温排行榜门槛再次提升，位于第一名的湖北竹山最高气温超过44℃，位于第九名和第十名的重庆沙坪坝与丰都最高气温超过42℃。不少网友纷纷表示，真的要热化了，因为真的是热到没朋友。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《老友记》菲比的演员丽莎·库卓谈剧集缺乏多样性：编剧没经历过](https://hot.cnbeta.com/articles/movie/1304121.htm) | Sat Aug 13 2022 12:14 PM 
+- 🎊 [特斯拉车主自述：Model Y突然失控加速撞墙](https://www.cnbeta.com/articles/tech/1304133.htm) | Sat Aug 13 2022 4:48 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《老友记》菲比·布菲的饰演者丽莎·库卓在最近采访中谈论了有关《老友记》缺乏有色人种的事情。在2020年，这名演员曾表示《老友记》严重缺乏多样性，如果这部剧集能够重新回到电视上，那他就不会是一个全白人的阵容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉再现“失控”情况。近日，一车主爆料自己驾驶特斯拉Model Y突然加速碰撞。根据网络流出的视频来看，该辆Model Y行驶至小区门口的收费杆前减速，缓慢前行一小段距离，但收费杆还未升起，该Model Y突然加速撞毁收费杆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
