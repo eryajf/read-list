@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [3 分钟创建 Serverless Job 定时获取新闻热搜！](https://juejin.cn/post/7131337277472505863) | Sat Aug 13 2022 12:32 PM 
+- 🤗 [Kruise Rollout：灵活可插拔的渐进式发布框架](https://juejin.cn/post/7131358561031946253) | Sat Aug 13 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
-    Serverless Job 支持将传统的 XXL-JOB 零改造迁移至SAE中，本场景将采用 XXL-JOB 作为示例。创建并执行 demoJobHandler 和 shardingJobHandl 
+    Kruise Rollout 是 OpenKruise 社区开源的渐进式交付框架。Kruise Rollout 支持配合流量和实例灰度的金丝雀发布、蓝绿发布、A/B Testing 发布，以及发布过程 
     </details> 
 
-- 🎡 [异步迭代生成器](https://juejin.cn/post/7131337199504588831) | Sat Aug 13 2022 12:31 PM 
+- 🎡 [BaguTree  Compose 分享](https://juejin.cn/post/7131357215788630029) | Sat Aug 13 2022 1:48 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 处理异步请求 以前我们的异步代码是通过回调函数来解决的。代码如下： 现在我们通过生成器来改写这个异步代码 
+    BaguTree 组织地址： http://jetpack.net.cn/#/blog/all 目录: Compose 是什么 如何学习 Compose 用示例了解 Compose 重组 Compos 
     </details> 
 
-- 🕯 [神奇的共享内存](https://juejin.cn/post/7131333107696795678) | Sat Aug 13 2022 12:14 PM 
+- 🕯 [头脑风暴：零钱兑换2](https://juejin.cn/post/7131355312255074318) | Sat Aug 13 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
-    共享内存（shared memory）是最常见的ipc进程之间通讯的方式之一了，相比于Binder，它也能做到不败吗？ 
+    题目 给定不同面额的硬币和一个总金额。写出函数来计算可以凑成总金额的硬币组合数。假设每一种面额的硬币有无限个。 示例 1: 输入: amount = 5, coins = [1, 2, 5] 输出:  
     </details> 
 
-- 🚀 [如何可视化编写和编排你的 K8s 任务](https://juejin.cn/post/7131331488527679525) | Sat Aug 13 2022 12:08 PM 
+- 🚀 [【kafka】kafka的服务复用与隔离设计方案](https://juejin.cn/post/7131343783735590949) | Sat Aug 13 2022 12:56 PM 
     <details><summary>展开描述 ...</summary> 
-    通过任务调度 SchedulerX 来调度你的 K8s 任务，能够降低学习成本，加快开发效率，让你的任务失败可报警，出问题可排查，打造云原生可观测体系下的可视化 K8s 任务。 
+    这篇文章主要讲一下 kafka的服务复用与隔离; 主要解决的问题是,在多个迭代环境下; 让消息的提供者和消费者都能正确的发出和消费 
     </details> 
 
-- 💪 [C# List类学习及深拷贝](https://juejin.cn/post/7131323975346602021) | Sat Aug 13 2022 11:39 AM 
+- 💪 [useState 和它的朋友们](https://juejin.cn/post/7131337758617894942) | Sat Aug 13 2022 12:33 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 前言： List是我们在编程的时候用的比较多的一种类型，所以今天来学习一下List，它是一种泛型的集合， 
+    你知道事实上 useState 和 useReducer 在 React 源码中是同一个方法吗？固然， React 为你提供了单独的调用 useState 或 useReducer 的接口方法…… 
     </details> 
 <!-- juejin:END -->
 ### 少数派
