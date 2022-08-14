@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [成本十几块 我把摔碎了的手机改造成了透明探索版](https://www.cnbeta.com/articles/tech/1304285.htm) | Sun Aug 14 2022 7:44 AM 
+- 🕯 [中国初创公司在车载IC领域取得突破性进展](https://www.cnbeta.com/articles/tech/1304295.htm) | Sun Aug 14 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;要不是手机在前阵子被我一不小心摔碎了，我永远不会知道原来给手机换后盖这么便宜，换个玻璃后盖比直接买一个手机壳还便宜你敢信？事情的起因是这样的，在一个再平常不过的上班日，正当我蹲在地上带薪撸狗的时候，啪嗒一声，我的一加 8T&amp;nbsp;突然从裤袋滑落直接砸在了地上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据DIGITIMES报道，业内人士透露，中国初创企业在开发用于智能座舱、ADAS（高级驾驶辅助系统）和自动驾驶等应用的车载IC方面发挥了重要作用，但预计未来五年将面临巨大竞争挑战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [豆瓣小组侵占事件始末：文学小组还是饭圈阵地？](https://www.cnbeta.com/articles/tech/1304283.htm) | Sun Aug 14 2022 7:19 AM 
+- 💼 [标题党、废话文学和AI配音：电影解说已造出一套流水线](https://hot.cnbeta.com/articles/movie/1304293.htm) | Sun Aug 14 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年7月20日，豆瓣“那不勒斯四部曲”小组（以下称那不勒斯小组）的七千多名成员忽然被踢出小组。豆瓣系统没有提醒，很多组员没有第一时间发现，姚琴是其中之一，她在其他地方看到对这件事的讨论，才确认自己已不是小组成员。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“银行行长被人冤枉入狱，看他如何涅槃重生。”“见女友家长被催眠，原因竟是为了共享身体？”“大聪明为爱抢劫，造就史上最大现金抢劫案。”“女孩在公交车上被劫持，没想到却爱上了劫匪。”看了这些标题，你能想到它们其实是在说一些经典电影么？&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [缠成一坨的耳机线，这机器人两下就能解开](https://www.cnbeta.com/articles/tech/1304281.htm) | Sun Aug 14 2022 7:17 AM 
+- 💂 [2022年国内暑期档票房突破75亿元 超去年同期](https://hot.cnbeta.com/articles/movie/1304291.htm) | Sun Aug 14 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;明明自己已经整理过了，数据线却还是绕成一团。这像不像耳机从你的包里刚取出来的样子。现在不用怕了！加州大学研究出了一款机器人，可以轻松理顺数据线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管国内疫情依然还在反弹肆虐，不过根据灯塔专业版提供的数据，截止8月14日15时，今年暑期档的总票房已经达到了75.69亿，超越了去年暑期档73.81亿的票房成绩。截止目前，今年暑期档的总出票数已经达到了1.95亿张，总场次2447.01万，平均票价38.9元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [零跑汽车高速上半自动驾驶追尾前车 车主：我就喝了口水](https://www.cnbeta.com/articles/tech/1304279.htm) | Sun Aug 14 2022 7:15 AM 
+- 🚀 [《生化危机》初代虚幻引擎5重制项目预告视频欣赏](https://hot.cnbeta.com/articles/game/1304289.htm) | Sun Aug 14 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自动辅助驾驶功能当前仍处于L2级水平，远达不到脱手脱脚的程度，而对于一些慢速、静止车辆，更不容易做到有效识别，极易引发追尾碰撞事故。据“1818黄金眼”报道，近日，沈海高速温州萧江路段，&lt;strong&gt;一辆零跑电动车毫无制动措施，径直追尾前车，&lt;/strong&gt;把前车顶出了几十米，零跑驾驶员靠边停车并查看情况，几分钟后，高速交警赶到现场处理事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;RE Biohazard近日分享新视频，展示了他们用虚幻引擎5对初代《生化危机》进行重制的画面。这款重制将忠实原作概念，感兴趣的玩家可以观看一下。这款经典重制版本的玩法更接近于原版32位游戏，效果非常复古。目前开发者尚未放出下载，感兴趣的玩家只能继续保持期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [三星下调DDR4芯片价格，以逐步淘汰DDR3生产](https://www.cnbeta.com/articles/tech/1304277.htm) | Sun Aug 14 2022 7:14 AM 
+- 🎊 [法庭文件证实Xbox One销量不及PS4销量一半](https://hot.cnbeta.com/articles/game/1304287.htm) | Sun Aug 14 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据DIGITIMES报道，业内人士透露，三星已经降低了其4Gb DDR4芯片价格，这是该公司进一步加快行业从DDR3向DDR4过渡的战略举措。消息人士表示，三星继续缩减了其DDR3芯片产量，同时提供更高性价比的DDR4芯片价格，以吸引仍然需要DDR3内存的应用，如消费电子产品的订单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软对动视暴雪的收购近日遭到巴西监管机构的审查，目前已有多份法庭文件流出，其中披露了非常有趣的细节。在最新的法庭文件中，微软方面证实，Xbox One的总销量还不及索尼PS4销量的半数。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
