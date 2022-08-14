@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [True Pace - 比较 iOS 上的动态调步策略](https://xinquji.com/posts/178710?utm_campaign=xinquji-rss) | Sun Aug 14 2022 6:11 AM 
+- 👀 [srty.link - 真正小巧的链接缩短器，专为快速口头分享而打造](https://xinquji.com/posts/178718?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     比较 iOS 上的动态调步策略  
+     真正小巧的链接缩短器，专为快速口头分享而打造  
     </details> 
 
-- 🥷 [Collabtools - 使用白板、代码编辑器进行实时协作](https://xinquji.com/posts/178709?utm_campaign=xinquji-rss) | Sun Aug 14 2022 6:10 AM 
+- 🥷 [Minimalist Habit Pack - 开始养成习惯。今天。](https://xinquji.com/posts/178717?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     使用白板、代码编辑器进行实时协作  
+     开始养成习惯。今天。  
     </details> 
 
-- 💼 [CoinCurrently - 适用于所有人 iOS/Android 的加密货币追踪器](https://xinquji.com/posts/178708?utm_campaign=xinquji-rss) | Sun Aug 14 2022 6:09 AM 
+- 💼 [FM Radio - 65,000 多个免费直播电台](https://xinquji.com/posts/178716?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     适用于所有人 iOS/Android 的加密货币追踪器  
+     65,000 多个免费直播电台  
     </details> 
 
-- 🦅 [Grouptag - 用于连接、学习和准备工作的 Z 世代网络应用程序。](https://xinquji.com/posts/178707?utm_campaign=xinquji-rss) | Sun Aug 14 2022 6:08 AM 
+- 🦅 [Wins - 为 Mac 带来系统级排列窗口功能](https://xinquji.com/posts/178715?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-     用于连接、学习和准备工作的 Z 世代网络应用程序。  
+     为 Mac 带来系统级排列窗口功能  
     </details> 
 
-- 😺 [Highlighted for iOS - 不要忘记你读过的东西。](https://xinquji.com/posts/178706?utm_campaign=xinquji-rss) | Sun Aug 14 2022 6:06 AM 
+- 😺 [Gradientify - 为您的下一个项目找到完美的渐变。](https://xinquji.com/posts/178714?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-     不要忘记你读过的东西。  
+     为您的下一个项目找到完美的渐变。  
     </details> 
 <!-- xinquji:END -->
