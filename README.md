@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Disney+ or 主题乐园 谁能盘活迪士尼？](https://www.cnbeta.com/articles/tech/1304265.htm) | Sun Aug 14 2022 6:19 AM 
+- 🕯 [三星下调DDR4芯片价格，以逐步淘汰DDR3生产](https://www.cnbeta.com/articles/tech/1304277.htm) | Sun Aug 14 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;迪士尼本季主题乐园业绩亮眼，超越疫情之前的表现，公司将其归功于新上线的Disney Genie。图片来自迪士尼乐园官网迪士尼2022年第三财季报一出，外界一片叫好，因为其旗下流媒体平台Disney+新增了1440万订阅用户。作为流媒体赛场上的新人，Disney+这一数字直接吊打了老牌玩家Netflix。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据DIGITIMES报道，业内人士透露，三星已经降低了其4Gb DDR4芯片价格，这是该公司进一步加快行业从DDR3向DDR4过渡的战略举措。消息人士表示，三星继续缩减了其DDR3芯片产量，同时提供更高性价比的DDR4芯片价格，以吸引仍然需要DDR3内存的应用，如消费电子产品的订单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“你是下一个”：J.K.罗琳收到死亡威胁](https://hot.cnbeta.com/articles/movie/1304263.htm) | Sun Aug 14 2022 6:15 AM 
+- 💼 [《三伏》制作人称完成最最期待的场景之一：居民楼惊现无头巨佛](https://hot.cnbeta.com/articles/game/1304275.htm) | Sun Aug 14 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据英国《每日电讯报》8月13日报道，《哈利·波特》的作者J.K．罗琳在对作家萨尔曼·拉什迪在纽约遇袭一事做出评论后，收到了潜在的死亡威胁。J.K．罗琳这位57岁的作家在推特上分享了一位用户发来的消息截图。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日，国产悬疑游戏《三伏》制作人@月光蟑螂MR发微博表示，自己终于画了最最期待的场景之一，称其可以说是整个三伏的灵感来源之一，并邀请熟悉重庆新闻的小伙伴猜猜来源。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [自动驾驶与智能网联：特斯拉小鹏刚踩雷 雷军就入坑了](https://www.cnbeta.com/articles/tech/1304261.htm) | Sun Aug 14 2022 6:12 AM 
+- 💂 [更多AMD Radeon RX 7000和Ryzen 7000&quot;RDNA 3&quot;GPU内部代号现身](https://www.cnbeta.com/articles/tech/1304273.htm) | Sun Aug 14 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月11日，在2022年度演讲上，雷军对小米自动驾驶团队大加赞赏：“他们在短时间内取得的成果，我个人觉得非常不错，远超预期！”雷军透露，小米汽车自动驾驶项目一期投入33亿元，团队规模超过500人，计划在2024年进入行业第一阵营。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD即将推出的RDNA 3图形架构将以Radeon RX 7000和Ryzen 7000的Navi 3x GPU的形态提供，旗下不同产品的代号已被披露，可以说充满了海洋的味道。今天，我们发现了更多即将发布的RDNA 3架构GPU的剩余名称，它们分别是：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [困于培训贷的年轻人：当“学习”变成“负债”](https://www.cnbeta.com/articles/tech/1304259.htm) | Sun Aug 14 2022 6:10 AM 
+- 🚀 [AMD Ryzen 7000&quot;Zen 4&quot;CPU现身加拿大电商 7600X售价折合330美元起](https://www.cnbeta.com/articles/tech/1304271.htm) | Sun Aug 14 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，&amp;nbsp;微博话题“多名在校学生陷入培训贷”阅读总次数近500万，其下不乏有“之前经常看到一些群，发布一些免费教画画的信息，估计也是同样的套路。”“之前还有人说校园贷是因为学生们‘盲目消费’，这次呢？想学东西又有什么错？”之类的评论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;AMD即将推出的基于Zen 4核心架构的Ryzen 7000桌面CPU已经开始在网上零售商列表中出现。所有四款CPU都在加拿大零售商PC-Canada上架，并有了一个初步的价格表。&lt;/strong&gt;这些价格是由Momomo_US发现的，列出了AMD Ryzen 9 7950X、Ryzen 9 7900X、Ryzen 7 700X和Ryzen 5 7600X的托盘式和无萨热器SKU。以下是这些芯片以及零售商价格细节：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [网传一特斯拉Model Y“失控”冲出栏杆撞墙 官方回应将跟进处理](https://www.cnbeta.com/articles/tech/1304257.htm) | Sun Aug 14 2022 6:10 AM 
+- 🎊 [苹果授权店教育优惠上线：买iPad、Mac就送最高500元充值卡](https://www.cnbeta.com/articles/tech/1304269.htm) | Sun Aug 14 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉再次卷入事故风波。近日，有车主爆料自己驾驶特斯拉Model Y突然加速碰撞。根据网络流出的视频来看，该辆Model Y行驶至小区门口的收费杆前减速，缓慢前行一小段距离，但收费杆还未升起，该车辆却突然加速撞毁收费杆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月14日消息，日前，苹果授权专营店上线高校教育优惠，&lt;strong&gt;高校生购买指定款iPad或Mac可获赠最高500元App Store充值卡。&lt;/strong&gt;据介绍，该优惠活动面向中国大陆大学及大专、高职院校的在读本科、专科学生，包含在读研究生及博士生，充值卡将在订单完成7天后放入“我的卡券”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
