@@ -364,8 +364,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [C 语言中基础数据类型首字母大写了，如 `Int`, `String`，但是编译能通过，这是怎么回事呀？](https://www.v2ex.com/t/872834#reply2) | Sun Aug 14 2022 3:12 PM
-- 🤗 [django 项目，文章到期后自动取消置顶,这个时间如何处理好？](https://www.v2ex.com/t/872832#reply3) | Sun Aug 14 2022 2:57 PM
+- 🥸 [C 语言中基础数据类型首字母大写了，如 `Int`, `String`，但是编译能通过，这是怎么回事呀？](https://www.v2ex.com/t/872834#reply4) | Sun Aug 14 2022 3:12 PM
+- 🤗 [django 项目，文章到期后自动取消置顶,这个时间如何处理好？](https://www.v2ex.com/t/872832#reply4) | Sun Aug 14 2022 2:57 PM
 - 🎭 [V 站大佬那么多，导航人手有一个](https://www.v2ex.com/t/872830#reply2) | Sun Aug 14 2022 2:47 PM
 - 🥷 [开源 kv 引擎 nutsdb v0.10.0 发布~](https://www.v2ex.com/t/872829#reply0) | Sun Aug 14 2022 2:38 PM
 - 🐵 [vscode git 合并的时候，为什么只能只能接受右侧全部，没办法合并其中一部分](https://www.v2ex.com/t/872825#reply2) | Sun Aug 14 2022 2:19 PM<!-- v2ex:END -->
