@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星下调DDR4芯片价格，以逐步淘汰DDR3生产](https://www.cnbeta.com/articles/tech/1304277.htm) | Sun Aug 14 2022 7:14 AM 
+- 🕯 [成本十几块 我把摔碎了的手机改造成了透明探索版](https://www.cnbeta.com/articles/tech/1304285.htm) | Sun Aug 14 2022 7:44 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;要不是手机在前阵子被我一不小心摔碎了，我永远不会知道原来给手机换后盖这么便宜，换个玻璃后盖比直接买一个手机壳还便宜你敢信？事情的起因是这样的，在一个再平常不过的上班日，正当我蹲在地上带薪撸狗的时候，啪嗒一声，我的一加 8T&amp;nbsp;突然从裤袋滑落直接砸在了地上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [豆瓣小组侵占事件始末：文学小组还是饭圈阵地？](https://www.cnbeta.com/articles/tech/1304283.htm) | Sun Aug 14 2022 7:19 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;2022年7月20日，豆瓣“那不勒斯四部曲”小组（以下称那不勒斯小组）的七千多名成员忽然被踢出小组。豆瓣系统没有提醒，很多组员没有第一时间发现，姚琴是其中之一，她在其他地方看到对这件事的讨论，才确认自己已不是小组成员。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [缠成一坨的耳机线，这机器人两下就能解开](https://www.cnbeta.com/articles/tech/1304281.htm) | Sun Aug 14 2022 7:17 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;明明自己已经整理过了，数据线却还是绕成一团。这像不像耳机从你的包里刚取出来的样子。现在不用怕了！加州大学研究出了一款机器人，可以轻松理顺数据线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [零跑汽车高速上半自动驾驶追尾前车 车主：我就喝了口水](https://www.cnbeta.com/articles/tech/1304279.htm) | Sun Aug 14 2022 7:15 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;自动辅助驾驶功能当前仍处于L2级水平，远达不到脱手脱脚的程度，而对于一些慢速、静止车辆，更不容易做到有效识别，极易引发追尾碰撞事故。据“1818黄金眼”报道，近日，沈海高速温州萧江路段，&lt;strong&gt;一辆零跑电动车毫无制动措施，径直追尾前车，&lt;/strong&gt;把前车顶出了几十米，零跑驾驶员靠边停车并查看情况，几分钟后，高速交警赶到现场处理事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [三星下调DDR4芯片价格，以逐步淘汰DDR3生产](https://www.cnbeta.com/articles/tech/1304277.htm) | Sun Aug 14 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据DIGITIMES报道，业内人士透露，三星已经降低了其4Gb DDR4芯片价格，这是该公司进一步加快行业从DDR3向DDR4过渡的战略举措。消息人士表示，三星继续缩减了其DDR3芯片产量，同时提供更高性价比的DDR4芯片价格，以吸引仍然需要DDR3内存的应用，如消费电子产品的订单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [《三伏》制作人称完成最最期待的场景之一：居民楼惊现无头巨佛](https://hot.cnbeta.com/articles/game/1304275.htm) | Sun Aug 14 2022 7:13 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日，国产悬疑游戏《三伏》制作人@月光蟑螂MR发微博表示，自己终于画了最最期待的场景之一，称其可以说是整个三伏的灵感来源之一，并邀请熟悉重庆新闻的小伙伴猜猜来源。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [更多AMD Radeon RX 7000和Ryzen 7000&quot;RDNA 3&quot;GPU内部代号现身](https://www.cnbeta.com/articles/tech/1304273.htm) | Sun Aug 14 2022 6:41 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD即将推出的RDNA 3图形架构将以Radeon RX 7000和Ryzen 7000的Navi 3x GPU的形态提供，旗下不同产品的代号已被披露，可以说充满了海洋的味道。今天，我们发现了更多即将发布的RDNA 3架构GPU的剩余名称，它们分别是：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [AMD Ryzen 7000&quot;Zen 4&quot;CPU现身加拿大电商 7600X售价折合330美元起](https://www.cnbeta.com/articles/tech/1304271.htm) | Sun Aug 14 2022 6:34 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;AMD即将推出的基于Zen 4核心架构的Ryzen 7000桌面CPU已经开始在网上零售商列表中出现。所有四款CPU都在加拿大零售商PC-Canada上架，并有了一个初步的价格表。&lt;/strong&gt;这些价格是由Momomo_US发现的，列出了AMD Ryzen 9 7950X、Ryzen 9 7900X、Ryzen 7 700X和Ryzen 5 7600X的托盘式和无萨热器SKU。以下是这些芯片以及零售商价格细节：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [苹果授权店教育优惠上线：买iPad、Mac就送最高500元充值卡](https://www.cnbeta.com/articles/tech/1304269.htm) | Sun Aug 14 2022 6:28 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月14日消息，日前，苹果授权专营店上线高校教育优惠，&lt;strong&gt;高校生购买指定款iPad或Mac可获赠最高500元App Store充值卡。&lt;/strong&gt;据介绍，该优惠活动面向中国大陆大学及大专、高职院校的在读本科、专科学生，包含在读研究生及博士生，充值卡将在订单完成7天后放入“我的卡券”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
