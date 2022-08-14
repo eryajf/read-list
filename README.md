@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster](http://www.mac52ipod.cn/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php) | Wed Aug 10 2022 4:52 PM 
+- 👨‍🏫 [苹果的一个 Bug：MagSafe 充电线让笔记本变成永动机](http://www.mac52ipod.cn/post/apple-mac-magsafe-usb-c-bug.php) | Sun Aug 14 2022 5:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	MagSafe 充电线的一端插到 Mac 的 USB-C 接口，另一端吸到 MagSafe 充电口 …… 苹果电脑显示自己在充电，变成了一台「永动机」。&lt;/p&gt;&lt;p&gt;下面这个视频来自 @MKBHD，我扒到了 Bilibili &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Jd4y1T7Qp&quot; target=&quot;_blank&quot; title=&quot;Mac 永动机 Bug&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1Jd4y1T7Qp&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=344067125&amp;bvid=BV1Jd4y1T7Qp&amp;cid=790056203&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=magsafe&quot; rel=&quot;tag&quot;&gt;magsafe&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster](http://www.mac52ipod.cn/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php) | Wed Aug 10 2022 4:52 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Apple新闻之 Apple Pay 公交支持刷浙江台州公共交通卡了](http://www.mac52ipod.cn/post/apple-pay-transit-card-support-taizhou.php) | Tue Aug 09 2022 5:49 AM 
+- 🦏 [Apple新闻之 Apple Pay 公交支持刷浙江台州公共交通卡了](http://www.mac52ipod.cn/post/apple-pay-transit-card-support-taizhou.php) | Tue Aug 09 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照](http://www.mac52ipod.cn/post/apple-ios-iphone-app-bai-miao-zheng-jian-zhao.php) | Sun Aug 07 2022 2:31 PM 
+- 🚀 [苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照](http://www.mac52ipod.cn/post/apple-ios-iphone-app-bai-miao-zheng-jian-zhao.php) | Sun Aug 07 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Mac技巧之用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）](http://www.mac52ipod.cn/post/james-webb-space-telescope-images-6k-mac-wallpapers.php) | Thu Aug 04 2022 3:26 PM 
+- 🏊 [Mac技巧之用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）](http://www.mac52ipod.cn/post/james-webb-space-telescope-images-6k-mac-wallpapers.php) | Thu Aug 04 2022 3:26 PM 
     <details><summary>展开描述 ...</summary> 
     
  
 	我记得很久以前，苹果电脑 Mac OS X 系统默认的壁纸就是太空主题，后来到了 macOS 时代变成旅游景点主题的壁纸了。詹姆斯·韦伯望远镜拍到的太空照片最近很火，在网上找到了相关主题的壁纸，6K 分辨率，苹果最高端的 Pro Display XDR 也能用。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6704&quot; border=&quot;0&quot; alt=&quot;用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）&quot; title=&quot;用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）&quot; /&gt;&lt;/p&gt;&lt;p&gt;直接到 &lt;u&gt;&lt;a href=&quot;https://www.icavedave.com/2022/07/17/jwst/#google_vignette&quot; target=&quot;_blank&quot; title=&quot;JWST Images as 6K Mac Wallpapers&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.icavedave.com/2022/07/17/jwst/#google_vignette&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 看吧，好几张可选，点击每张下方的「Full 6K」链接就能下载&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=wallpaper&quot; rel=&quot;tag&quot;&gt;wallpaper&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A3%2581%25E7%25BA%25B8&quot; rel=&quot;tag&quot;&gt;壁纸&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Apple新闻之苹果公布 2022 财年第三季财报](http://www.mac52ipod.cn/post/apple-2022-q3-result.php) | Tue Aug 02 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果公布了 2022 财年第三财季财报，营收 829.59 亿美元，同比增长 2%，净利润 194.42 亿美元，同比下降 11%；其中大中华区营收 146.04 亿美元，同比下降 1%；因为苹果早已不再公布具体销量，下面只有财务数据：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;iPhone 营收 406.65 亿美元，同比增长 2.8%&lt;/li&gt;&lt;li&gt;Mac 营收 73.82 亿美元，同比下降 10.4%&lt;/li&gt;&lt;li&gt;iPad 营收 72.24 亿美元，同比下降 2%&lt;/li&gt;&lt;li&gt;可穿戴设备、家居设备和配件营收 80.84 亿美元，同比下降 7.9%&lt;/li&gt;&lt;li&gt;服务营收 196.04 亿美元，同比增长 12.1%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果官网财报原文 &lt;u&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/&quot; target=&quot;_blank&quot; title=&quot;Apple Reports Third Quarter Results &quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
 
  
     </details> 
