@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [关于浮动元素，你还在自己计算位置吗？来看看 Floating UI 吧！](https://juejin.cn/post/7131632210813124638) | Sun Aug 14 2022 7:36 AM 
+- 🤗 [日新刷题 - 415. 字符串相加](https://juejin.cn/post/7131653068365987870) | Sun Aug 14 2022 8:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 一、题目描述： 415. 字符串相加 给定两个字符串形式的非负整数 num1 和num2 ，计算它们的和 
+    </details> 
+
+- 🎡 [记一次不太成功的关于 Vite 开发模式下懒加载的性能优化](https://juejin.cn/post/7131636427183357965) | Sun Aug 14 2022 7:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    之前在 为什么有人说 vite 快，有人却说 vite 慢？ 一文中，我们有提到开发模式下使用 Vite 会有首屏和懒加载性能下降的负面效果，并且在文章的结尾提到了可以通过持久化缓存、prefetch 
+    </details> 
+
+- 🕯 [关于浮动元素，你还在自己计算位置吗？来看看 Floating UI 吧！](https://juejin.cn/post/7131632210813124638) | Sun Aug 14 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
     关于浮动元素，计算位置是一个非常令人烦恼的事情。本文介绍了 Floating UI 这个库，可以很好的帮助你在任何项目中解决浮动元素的问题。 
     </details> 
 
-- 🎡 [vue3实现H5表单验证组件](https://juejin.cn/post/7131631122542723102) | Sun Aug 14 2022 7:32 AM 
+- 🚀 [vue3实现H5表单验证组件](https://juejin.cn/post/7131631122542723102) | Sun Aug 14 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
     描述 基于vue.js，不依赖其他插件或库实现；基础功能使用保持和 element-ui 一致，内部实现做了一些移动端差异的调整。 当前构建平台使用 uni-app 官方脚手架构建，因为当下移动端大多 
     </details> 
 
-- 🕯 [读书笔记——《底层逻辑—看清这个世界的底牌》](https://juejin.cn/post/7131617873411178526) | Sun Aug 14 2022 6:40 AM 
+- 💪 [读书笔记——《底层逻辑—看清这个世界的底牌》](https://juejin.cn/post/7131617873411178526) | Sun Aug 14 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
     一句话总结 底层逻辑 + 环境变量 = 方法论。本书介绍了一些个人成长、创业、管理等方面的方法论。东西比较散，文中一些观点有一种让人豁然开朗的感觉。 脑图 详情 第一章：是非对错的底层逻辑 1. 一个 
-    </details> 
-
-- 🚀 [写给数据科学家：GitHub实践指南教程；交互式图像标注工具&lpar;像素级&rpar;；Kindle高亮笔记的导出工具；人脸分析库；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7131591526664110087) | Sun Aug 14 2022 4:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 08-14 期，基于深度神经网络和ONNX runtime的人脸分析库、蛋白质折叠计算工具大全、IPAT交互式像素级图像标注工具&lpar;web版&rpar;、以视觉为中心的BEV感知调研综述 
-    </details> 
-
-- 💪 [【SpringBoot】使用Nacos简化SpringBoot配置&lpar;所有配置放入到Nacos中&rpar;](https://juejin.cn/post/7131589338160168967) | Sun Aug 14 2022 4:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章主要讲述以下几个知识点 - [x] Nacos属性的简单使用 - [x] 将SpringBoot中的所有配置全部放入到Nacos中 - [x] 开发人创建单独的命名空间,修改互不影响 
     </details> 
 <!-- juejin:END -->
 ### 少数派
