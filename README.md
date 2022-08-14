@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [el-select问题收录](https://juejin.cn/post/7131572248742133774) | Sun Aug 14 2022 3:42 AM 
+- 🤗 [写给数据科学家：GitHub实践指南教程；交互式图像标注工具&lpar;像素级&rpar;；Kindle高亮笔记的导出工具；人脸分析库；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7131591526664110087) | Sun Aug 14 2022 4:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 08-14 期，基于深度神经网络和ONNX runtime的人脸分析库、蛋白质折叠计算工具大全、IPAT交互式像素级图像标注工具&lpar;web版&rpar;、以视觉为中心的BEV感知调研综述 
+    </details> 
+
+- 🎡 [【SpringBoot】使用Nacos简化SpringBoot配置&lpar;所有配置放入到Nacos中&rpar;](https://juejin.cn/post/7131589338160168967) | Sun Aug 14 2022 4:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章主要讲述以下几个知识点 - [x] Nacos属性的简单使用 - [x] 将SpringBoot中的所有配置全部放入到Nacos中 - [x] 开发人创建单独的命名空间,修改互不影响 
+    </details> 
+
+- 🕯 [Dubbo下的多版本并行开发测试解决方案（服务路由）](https://juejin.cn/post/7131588642128003079) | Sun Aug 14 2022 4:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    在很久之前的文章多版本并行开发测试解决方案 中挖了个坑 今天来给填上； 今天主要讲解实现方案; 主要思路 给不同版本的d 
+    </details> 
+
+- 🚀 [【CEP 扩展开发三】Debug](https://juejin.cn/post/7131585039740960798) | Sun Aug 14 2022 4:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    实际的开发工作中，随着业务的增多和复杂度的加深，单凭人肉代码来定位和修复 bug 会变得越来越困难。这时候，debug 工具就显得尤为强大和高效... 
+    </details> 
+
+- 💪 [el-select问题收录](https://juejin.cn/post/7131572248742133774) | Sun Aug 14 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
     el-select如何优化超大数据不卡顿 - mark224 - 博客园 &lpar;cnblogs.com&rpar; &lpar;28条消息&rpar; 利用el-tooltip来对el-select选项过长进行优化_SmallTedd 
-    </details> 
-
-- 🎡 [el-table问题收录](https://juejin.cn/post/7131571636192411684) | Sun Aug 14 2022 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lpar;28条消息&rpar; 【基于vue的大量表单数据，动态生成表单性能优化篇】解决输入延迟，卡顿问题_小陆pro的博客-CSDN博客_vue大表单 &lpar;28条消息&rpar; 【bug】vxe-table编辑列表中使用vu 
-    </details> 
-
-- 🕯 [实现el-table高度自适应，让滚动条只能出现在表格内部](https://juejin.cn/post/7131566256624238600) | Sun Aug 14 2022 3:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    已知需要自适应的页面结构 绿色固定高度区域： 可以想象为页面顶部的统计卡片 白色自适应高度区域： 可以想象为el-table所在区域 蓝色定高区域： 可以想象为分页组件区域 黄色动态高度区域： 可以想 
-    </details> 
-
-- 🚀 [TypeScript-起步——TypeScript简介（一）](https://juejin.cn/post/7131564081412046879) | Sun Aug 14 2022 3:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 2、TypeScript ① 认识TypeScript 虽然我们已经知道TypeScript是干什么的了 
-    </details> 
-
-- 💪 [「项目总结」大型业务项目中，前端如何撰写设计文档](https://juejin.cn/post/7131563694819344420) | Sun Aug 14 2022 3:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情。每年总会经历几个大型业务项目的迭代，我总结了一波前端如何撰写设计文档，分享给大家。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
