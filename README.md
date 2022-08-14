@@ -378,24 +378,24 @@
     一、字符串的扩展 字符的 Unicode 表示法 ES6 加强了对 Unicode 的支持，允许采用\uxxxx形式表示一个字符，其中xxxx表示字符的 Unicode 码点。 字符串的遍历器接口 E 
     </details> 
 
-- 🎡 [图解 React 的 diff 算法：核心就是两个字 —— 复用](https://juejin.cn/post/7131741751152214030) | Sun Aug 14 2022 2:42 PM 
+- 🎡 [Go&amp;Java算法之重复的DNA序列](https://juejin.cn/post/7131746170648395813) | Sun Aug 14 2022 2:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 重复的DNA序列 DNA序列 由一系列核苷酸组成，缩写为 &#39;A&#39;, &#39;C&#39;, &#39;G&#39; 和 &#39;T&#39;.。 例 
+    </details> 
+
+- 🕯 [图解 React 的 diff 算法：核心就两个字 —— 复用](https://juejin.cn/post/7131741751152214030) | Sun Aug 14 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
     React 是基于 vdom 的前端框架，组件 render 产生 vdom，然后渲染器把 vdom 渲染出来。 state 更新的时候，组件会重新 render，产生新的 vdom，在浏览器平台下， 
     </details> 
 
-- 🕯 [Web Worker](https://juejin.cn/post/7131738631424704543) | Sun Aug 14 2022 2:28 PM 
+- 🚀 [LeetCode分割字符串的最大得分使用JavaScript解题,击败了100%的用户|前端学算法](https://juejin.cn/post/7131740322287058957) | Sun Aug 14 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 在JavaScript程序中，你希望处理一些密集型的任务，但不希望在主线程运行（这会减慢浏览器/UI）， 
+    竟然击败了100%的用户，LeetCode分割字符串的最大得分使用JavaScript解题，前端学习算法，每日一个算法题知识 
     </details> 
 
-- 🚀 [对国际化 i18n 项目的一点思考](https://juejin.cn/post/7131737709231472670) | Sun Aug 14 2022 2:24 PM 
+- 💪 [头脑风暴：组合总和 Ⅳ](https://juejin.cn/post/7131739198272798757) | Sun Aug 14 2022 2:30 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情。 国际化是什么？ 国际化 对应的英文单词为 Internationalization，又称 i18n： i 
-    </details> 
-
-- 💪 [【Python】pygame-项目实战（10）-监听退出事件](https://juejin.cn/post/7131737672023801886) | Sun Aug 14 2022 2:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 1. 事件监听 首先，我们简单回顾一下事件监听，可以简单概括如下： 在游戏循环中，我们希望判断用户具体操 
+    题目 给你一个由 不同 整数组成的数组 nums ，和一个目标整数 target 。请你从 nums 中找出并返回总和为 target 的元素组合的个数。 题目数据保证答案符合 32 位整数范围。 示 
     </details> 
 <!-- juejin:END -->
 ### 少数派
