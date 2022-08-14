@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Uber免费忠诚度服务Uber Rewards将于今年晚些时候关闭](https://www.cnbeta.com/articles/tech/1304233.htm) | Sun Aug 14 2022 3:33 AM 
+- 🕯 [罕见夫妻同框富坚与武内直子同绘插画  小杰X月野兔](https://hot.cnbeta.com/articles/comic/1304241.htm) | Sun Aug 14 2022 4:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;大阪环球乐园近日举行特别展示活动，主题是来自经典动漫《全职猎人》与《美少女战士》，听起来好像有什么不对劲的地方？没错，可能还有粉丝不知道，实际上这两部名作的作者是一对漫画家夫妇，官方图示展示了两人亲绘的插画色纸，一起来开开眼。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1304241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [马斯克：早晨醒来就看手机是个坏习惯 我希望先去锻炼](https://www.cnbeta.com/articles/tech/1304239.htm) | Sun Aug 14 2022 3:59 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月14日消息，尽管特斯拉和SpaceX首席执行官埃隆·马斯克（Elon Musk）已经是世界富翁，但他的日常生活在有些方面与我们没有太大的分别。不过马斯克现在希望改变他的日常生活，在最近接受采访时，马斯克说他早上醒来第一件事就是查看手机，而他认为这可能会损害自己的健康。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [电动化或将导致欧美汽车行业减少数十万个岗位](https://www.cnbeta.com/articles/tech/1304237.htm) | Sun Aug 14 2022 3:59 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月14日消息，从通用汽车、福特到大众再到丰田，汽车制造商们都在努力逐步淘汰燃油车。尽管电动汽车有助于减少有害气体排放、遏制气候变暖，但新技术和制造工艺可能导致汽车行业数十万人失业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [科学家们找到努力思考会让人感到疲倦的原因](https://www.cnbeta.com/articles/science/1304235.htm) | Sun Aug 14 2022 3:40 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;不言而喻，艰苦的体力劳动使人疲惫不堪，但艰苦的脑力劳动呢？坐着苦思冥想几个小时也会让人感到疲惫。&lt;strong&gt;现在，科学家有新的证据来解释这一点。根据他们的研究结果，因紧张思考而感到精神疲惫（而不是昏昏欲睡）的原因并不全在脑子里。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [Uber免费忠诚度服务Uber Rewards将于今年晚些时候关闭](https://www.cnbeta.com/articles/tech/1304233.htm) | Sun Aug 14 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Uber正在结束其免费的忠诚度服务--Uber Rewards，以便将注意力转向基于订阅的Uber One会员。&lt;/strong&gt;在发给客户的电子邮件中，Uber解释称，在8月底之前，用户仍可以获得积分，而兑换积分的最后一天为10月31日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [研究：低温条件可使癌细胞更难生长](https://www.cnbeta.com/articles/science/1304231.htm) | Sun Aug 14 2022 3:26 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;人们已经知道，许多肿瘤（尤其是实体肿瘤）比正常组织更依赖糖酵解来满足其能量需求。这是有道理的，因为糖酵解是一种制造ATP的无氧途径（跟通常的克雷布斯循环方式、柠檬酸循环和氧化磷酸化相反），而一旦你越过它们的外层，实体瘤往往是相对贫氧的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [造成西单交通拥堵 滴滴取消周日免单活动](https://www.cnbeta.com/articles/tech/1304229.htm) | Sun Aug 14 2022 3:17 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月14日消息，由于免单活动造成昨天傍晚西单交通拥堵，滴滴发布通知称，决定取消今天的免单活动，并向消费者致歉。&lt;/strong&gt;滴滴在通知中表示，非常抱歉由于活动火爆导致西单交通拥堵，8月13日周六西单免单活动将临时调整。出发地为西单仍参与免单，目的地为西单不参与免单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《斯普拉遁3》可继承前作存档 直接进入高段位比赛](https://hot.cnbeta.com/articles/game/1304227.htm) | Sun Aug 14 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《斯普拉遁3》还有不到一个月的时间就要发售，而最期待本作的无疑是已经享受过前作乐趣的玩家。而任天堂也向前作玩家示好，玩过前作的玩家在《斯普拉遁3》中可以获得海量奖励，能加速玩家的升级进度。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [动手高玩用玻璃打造宝可梦 惟妙惟肖晶莹剔透](https://hot.cnbeta.com/articles/game/1304225.htm) | Sun Aug 14 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于动手高玩来说，用各种材料打造自己喜爱角色的乐趣绝非常人所能想象，近日日本的一位玻璃工艺人用各色玻璃还原打造看宝可梦，惟妙惟肖晶莹剔透，别有一番魅力。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
