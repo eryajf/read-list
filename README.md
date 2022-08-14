@@ -265,11 +265,11 @@
 ### 四火的唠叨
 
 <!-- raychase:START -->
-- 🌮 [再谈谈互联网外企在中国的失败](https://www.raychase.net/6974) | Sun Jun 05 2022 2:30 AM
-- 💫 [软件工程师成长的一个误区](https://www.raychase.net/6965) | Mon May 09 2022 5:51 AM
-- 🤖 [英文能力与独立思考](https://www.raychase.net/6902) | Mon Mar 07 2022 4:29 AM
-- 🪄 [我的美股投资原则](https://www.raychase.net/6846) | Sat Jan 01 2022 5:13 AM
-- 🐘 [2021 年旅行的简单回顾](https://www.raychase.net/6827) | Mon Dec 27 2021 6:07 AM<!-- raychase:END -->
+- 🌮 [常见分布式应用系统设计图解（十四）：日志系统](https://www.raychase.net/7087) | Sun Aug 14 2022 5:21 PM
+- 💫 [再谈谈互联网外企在中国的失败](https://www.raychase.net/6974) | Sun Jun 05 2022 2:30 AM
+- 🤖 [软件工程师成长的一个误区](https://www.raychase.net/6965) | Mon May 09 2022 5:51 AM
+- 🪄 [英文能力与独立思考](https://www.raychase.net/6902) | Mon Mar 07 2022 4:29 AM
+- 🐘 [我的美股投资原则](https://www.raychase.net/6846) | Sat Jan 01 2022 5:13 AM<!-- raychase:END -->
 
 ### 腾讯全端
 
