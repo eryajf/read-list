@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [瑞幸终于开始赚钱了 还暴打了一波星巴克](https://www.cnbeta.com/articles/tech/1304341.htm) | Sun Aug 14 2022 4:52 PM 
+- 🕯 [部分芯片价格暴跌 200元降至20元](https://www.cnbeta.com/articles/tech/1304343.htm) | Sun Aug 14 2022 6:59 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今年以来，芯片荒问题虽然比去年有所好转，但有些领域的芯片仍然供应偏紧，针对芯片市场上的新变化，有的企业不断扩大产能，有的企业则转型至新的赛道。随着近几年新能源汽车市场的日益火爆，转型研发生产新能源汽车急需的芯片成为许多企业的选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [瑞幸终于开始赚钱了 还暴打了一波星巴克](https://www.cnbeta.com/articles/tech/1304341.htm) | Sun Aug 14 2022 4:52 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;和大伙们讲个“鬼”故事。几年前因财务造假事件，几乎快要崩盘的瑞幸咖啡，要上演赘婿情节了。这可不，最近瑞幸就发布了第二季度财报，净收入暴涨了 72%&amp;nbsp;，到达了 32 亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [拜登新冠转阴后出现后遗症？专家称对长期新冠症状了解非常有限](https://www.cnbeta.com/articles/tech/1304339.htm) | Sun Aug 14 2022 4:16 PM 
+- 💂 [拜登新冠转阴后出现后遗症？专家称对长期新冠症状了解非常有限](https://www.cnbeta.com/articles/tech/1304339.htm) | Sun Aug 14 2022 4:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国总统拜登在新冠转阴后重回公众场合。不过，他在上周出席美国芯片法案签署仪式时咳嗽不止，多次被迫中断发言。白宫对此回应称，这是由于新冠“挥之不去”的影响而导致的。此前，白宫新冠协调员Ashish Jha曾透露，拜登曾患有哮喘，并患有“反应性气道疾病”，他在生病期间依靠沙丁胺醇气雾吸入器来缓解咳嗽，以前感冒时也使用过这种吸入器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [超过每周饮酒建议量让染色体变短](https://www.cnbeta.com/articles/science/1304337.htm) | Sun Aug 14 2022 4:14 PM 
+- 🚀 [超过每周饮酒建议量让染色体变短](https://www.cnbeta.com/articles/science/1304337.htm) | Sun Aug 14 2022 4:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，牛津大学的一项新研究发现，每周饮酒量超过17单位（略高于英国人的建议上限），就会导致端粒缩短。相关研究结果发表于《分子精神病学》。端粒是DNA重复序列中覆盖染色体的区域，就像鞋带末端的塑料头一样。端粒长度随着人们的正常衰老而缩短，但令人担忧的是，端粒较短与许多老年疾病有关，如癌症、阿尔茨海默病和心脏病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [8K超清画面记录中国空间站凌月 仅仅0.72秒](https://www.cnbeta.com/articles/science/1304335.htm) | Sun Aug 14 2022 4:08 PM 
+- 🎊 [8K超清画面记录中国空间站凌月 仅仅0.72秒](https://www.cnbeta.com/articles/science/1304335.htm) | Sun Aug 14 2022 4:08 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;2022年8月14日凌晨4时26分23秒，在重庆市渝北区，有天文爱好者拍摄到了中国空间站凌月的罕见画面。由于空间站运行速度极快，&lt;strong&gt;凌月的时间仅仅0.72秒&lt;/strong&gt;，也就是一眨眼的功夫就从月球前边飞掠而过，想抓怕下来需要对空间站运行非常熟悉，也需要极高的拍摄技巧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [我，买了辆恒大汽车，成了别人眼里的大冤种](https://www.cnbeta.com/articles/tech/1304333.htm) | Sun Aug 14 2022 2:38 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;没开新车发布会，恒驰5悄咪咪上市了？最近恒驰汽车发布一则推文，显示恒驰5正在认购，售价为17.9万，这意味着恒驰5不再举办新的上市发布会，此前7月6号公布的预售价就是最终上市价格，新车仅有一款车型。恒驰5发布后，官方称“市场反应非常好”、“大卖成定局”，几天后还召开了一场用户节，称订车用户已经达到3.7万。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
