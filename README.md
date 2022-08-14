@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [荷兰弟暂时“退网”：社交网络对我的精神状态十分不利](https://hot.cnbeta.com/articles/movie/1304247.htm) | Sun Aug 14 2022 5:00 AM 
+- 🕯 [Disney+ or 主题乐园 谁能盘活迪士尼？](https://www.cnbeta.com/articles/tech/1304265.htm) | Sun Aug 14 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，“荷兰弟”汤姆·赫兰德在社交媒体上表示他将暂时“退网”一段时间。&lt;/strong&gt;荷兰弟表示为了身心健康，他将暂时离开社交媒体一段时间，他说“当我在网上读到关于我的事情时，我会觉得十分困扰，这会对我的精神状态造成十分不利的影响。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;迪士尼本季主题乐园业绩亮眼，超越疫情之前的表现，公司将其归功于新上线的Disney Genie。图片来自迪士尼乐园官网迪士尼2022年第三财季报一出，外界一片叫好，因为其旗下流媒体平台Disney+新增了1440万订阅用户。作为流媒体赛场上的新人，Disney+这一数字直接吊打了老牌玩家Netflix。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [漫威《洛基》第二季片场路透 洛基对空施法、充气摇摆人略显滑稽](https://hot.cnbeta.com/articles/movie/1304245.htm) | Sun Aug 14 2022 4:58 AM 
+- 💼 [“你是下一个”：J.K.罗琳收到死亡威胁](https://hot.cnbeta.com/articles/movie/1304263.htm) | Sun Aug 14 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;漫威剧集《洛基》第二季已于今年6月14日正式开拍，近日，又释出了一段片场视频：洛基对空施法，完美展现加特效之前的表演。&lt;/strong&gt;略微滑稽的无特效表演加上旁边摆动的充气人偶看起来确实有些搞笑。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据英国《每日电讯报》8月13日报道，《哈利·波特》的作者J.K．罗琳在对作家萨尔曼·拉什迪在纽约遇袭一事做出评论后，收到了潜在的死亡威胁。J.K．罗琳这位57岁的作家在推特上分享了一位用户发来的消息截图。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [DC《康斯坦丁》剧集2023年初开拍 黑人男星出演](https://hot.cnbeta.com/articles/movie/1304243.htm) | Sun Aug 14 2022 4:57 AM 
+- 💂 [自动驾驶与智能网联：特斯拉小鹏刚踩雷 雷军就入坑了](https://www.cnbeta.com/articles/tech/1304261.htm) | Sun Aug 14 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在华纳兄弟意外取消《蝙蝠女》后，外媒Variety发布了新专栏，讨论了华纳和探索频道合并后所有DC电影和电视剧的方向。&lt;/strong&gt;这包括J.J. Abrams的《黑暗正义联盟》剧集和其专注于康斯坦丁和Madame Xanadu的衍生作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月11日，在2022年度演讲上，雷军对小米自动驾驶团队大加赞赏：“他们在短时间内取得的成果，我个人觉得非常不错，远超预期！”雷军透露，小米汽车自动驾驶项目一期投入33亿元，团队规模超过500人，计划在2024年进入行业第一阵营。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [罕见夫妻同框富坚与武内直子同绘插画  小杰X月野兔](https://hot.cnbeta.com/articles/comic/1304241.htm) | Sun Aug 14 2022 4:00 AM 
+- 🚀 [困于培训贷的年轻人：当“学习”变成“负债”](https://www.cnbeta.com/articles/tech/1304259.htm) | Sun Aug 14 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大阪环球乐园近日举行特别展示活动，主题是来自经典动漫《全职猎人》与《美少女战士》，听起来好像有什么不对劲的地方？没错，可能还有粉丝不知道，实际上这两部名作的作者是一对漫画家夫妇，官方图示展示了两人亲绘的插画色纸，一起来开开眼。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1304241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久，&amp;nbsp;微博话题“多名在校学生陷入培训贷”阅读总次数近500万，其下不乏有“之前经常看到一些群，发布一些免费教画画的信息，估计也是同样的套路。”“之前还有人说校园贷是因为学生们‘盲目消费’，这次呢？想学东西又有什么错？”之类的评论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马斯克：早晨醒来就看手机是个坏习惯 我希望先去锻炼](https://www.cnbeta.com/articles/tech/1304239.htm) | Sun Aug 14 2022 3:59 AM 
+- 🎊 [网传一特斯拉Model Y“失控”冲出栏杆撞墙 官方回应将跟进处理](https://www.cnbeta.com/articles/tech/1304257.htm) | Sun Aug 14 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月14日消息，尽管特斯拉和SpaceX首席执行官埃隆·马斯克（Elon Musk）已经是世界富翁，但他的日常生活在有些方面与我们没有太大的分别。不过马斯克现在希望改变他的日常生活，在最近接受采访时，马斯克说他早上醒来第一件事就是查看手机，而他认为这可能会损害自己的健康。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉再次卷入事故风波。近日，有车主爆料自己驾驶特斯拉Model Y突然加速碰撞。根据网络流出的视频来看，该辆Model Y行驶至小区门口的收费杆前减速，缓慢前行一小段距离，但收费杆还未升起，该车辆却突然加速撞毁收费杆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
