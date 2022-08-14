@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [日新刷题 - 415. 字符串相加](https://juejin.cn/post/7131653068365987870) | Sun Aug 14 2022 8:57 AM 
+- 🤗 [解析 Golang 测试（6）- 如何针对 MySQL 进行 Fake 测试](https://juejin.cn/post/7131661977310461965) | Sun Aug 14 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第13天，点击查看活动详情 一、题目描述： 415. 字符串相加 给定两个字符串形式的非负整数 num1 和num2 ，计算它们的和 
+    前面我们了解了什么是 Fake 和 Mock，并学习了对 sql 进行 Mock 的经典driver 库 `sqlmock`，今天我们则是来看一看，针对 MySQL 我们有什么 Fake 的选项。 
     </details> 
 
-- 🎡 [记一次不太成功的关于 Vite 开发模式下懒加载的性能优化](https://juejin.cn/post/7131636427183357965) | Sun Aug 14 2022 7:52 AM 
+- 🎡 [近距离感受一下Elasticsearch的CRUD：ES Java API之增删改查](https://juejin.cn/post/7131660426198122532) | Sun Aug 14 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
-    之前在 为什么有人说 vite 快，有人却说 vite 慢？ 一文中，我们有提到开发模式下使用 Vite 会有首屏和懒加载性能下降的负面效果，并且在文章的结尾提到了可以通过持久化缓存、prefetch 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 可以有下面几种方式来实现： Transport Client Java High Level REST  
     </details> 
 
-- 🕯 [关于浮动元素，你还在自己计算位置吗？来看看 Floating UI 吧！](https://juejin.cn/post/7131632210813124638) | Sun Aug 14 2022 7:36 AM 
+- 🕯 [高性能Web平台-OpenResty安装部署](https://juejin.cn/post/7131659452343648263) | Sun Aug 14 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
-    关于浮动元素，计算位置是一个非常令人烦恼的事情。本文介绍了 Floating UI 这个库，可以很好的帮助你在任何项目中解决浮动元素的问题。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 1.写在前面 在如今的一些项目架构中，访问接入层，一把都会使用web服务器。 这里一般的web服务器，可 
     </details> 
 
-- 🚀 [vue3实现H5表单验证组件](https://juejin.cn/post/7131631122542723102) | Sun Aug 14 2022 7:32 AM 
+- 🚀 [【设计模式】策略模式（Strategy Pattern）](https://juejin.cn/post/7131657987411673102) | Sun Aug 14 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-    描述 基于vue.js，不依赖其他插件或库实现；基础功能使用保持和 element-ui 一致，内部实现做了一些移动端差异的调整。 当前构建平台使用 uni-app 官方脚手架构建，因为当下移动端大多 
+    本文将阐述设计模式中的策略模式，包括策略模式的应用场景、框架源码分析等，最后综合阐述下策略模式的优缺点。 希望可以帮忙大家更好的理解策略模式。@空歌白石 
     </details> 
 
-- 💪 [读书笔记——《底层逻辑—看清这个世界的底牌》](https://juejin.cn/post/7131617873411178526) | Sun Aug 14 2022 6:40 AM 
+- 💪 [Swift - LeetCode - 汇总区间](https://juejin.cn/post/7131657040136503333) | Sun Aug 14 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-    一句话总结 底层逻辑 + 环境变量 = 方法论。本书介绍了一些个人成长、创业、管理等方面的方法论。东西比较散，文中一些观点有一种让人豁然开朗的感觉。 脑图 详情 第一章：是非对错的底层逻辑 1. 一个 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情  题目 给定一个 无重复元素 的 有序 整数数组 nums。 返回 恰好覆盖数组中所有数字 的 最小有序 
     </details> 
 <!-- juejin:END -->
 ### 少数派
