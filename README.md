@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NASA将Landsat 9卫星移交给USGS 洞察地球上的景观变化](https://www.cnbeta.com/articles/science/1304329.htm) | Sun Aug 14 2022 1:54 PM 
+- 🕯 [我，买了辆恒大汽车，成了别人眼里的大冤种](https://www.cnbeta.com/articles/tech/1304333.htm) | Sun Aug 14 2022 2:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;没开新车发布会，恒驰5悄咪咪上市了？最近恒驰汽车发布一则推文，显示恒驰5正在认购，售价为17.9万，这意味着恒驰5不再举办新的上市发布会，此前7月6号公布的预售价就是最终上市价格，新车仅有一款车型。恒驰5发布后，官方称“市场反应非常好”、“大卖成定局”，几天后还召开了一场用户节，称订车用户已经达到3.7万。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [新研究称来自地球的爆炸碎片可能孕育了月球](https://www.cnbeta.com/articles/science/1304331.htm) | Sun Aug 14 2022 2:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;在很久以前，当地球形成初期，科学家们相信一次火热的爆发或碰撞将大量的碎片喷向太空。他们说，这些碎片当时为月球的诞生提供了可能。&lt;/strong&gt;当然这并不完全是一个新的想法，几十年来，科学家们一直认为月球起源于地球的一部分。然而，这项新的研究可能最终提供了他们一直在寻找的证据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [NASA将Landsat 9卫星移交给USGS 洞察地球上的景观变化](https://www.cnbeta.com/articles/science/1304329.htm) | Sun Aug 14 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月11日，美国宇航局在南达科他州苏福尔斯举行仪式，将Landsat 9卫星的所有权和操作控制权移交给美国地质调查局（USGS）。Landsat 9是Landsat系列遥感卫星中最新的一颗，它提供了地球上景观变化的全球覆盖。大地卫星计划--美国国家航空航天局和美国地质调查局的联合努力是一个长期的项目，7月23日标志今年是该项目连续服务50年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [千万不要试图跟一只袋鼠打架 沈腾被一脚踢飞](https://www.cnbeta.com/articles/science/1304327.htm) | Sun Aug 14 2022 1:41 PM 
+- 🚀 [千万不要试图跟一只袋鼠打架 沈腾被一脚踢飞](https://www.cnbeta.com/articles/science/1304327.htm) | Sun Aug 14 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;要说最近动物界的“顶流”是谁？毫无疑问，下面这只袋鼠——它叫刚子，一只出现在电影《独行月球》里的赤大袋鼠，贪吃、暴躁，拥有着令无数健身房撸铁人士羡慕不已的壮硕肌肉，战斗力超强，几乎每次都能把沈腾揍得鼻青脸肿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Ulefone发布史上首款自带耳机的三防机 售价1150元](https://www.cnbeta.com/articles/tech/1304325.htm) | Sun Aug 14 2022 1:36 PM 
+- 🎊 [Ulefone发布史上首款自带耳机的三防机 售价1150元](https://www.cnbeta.com/articles/tech/1304325.htm) | Sun Aug 14 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;不久前，诺基亚推出了内置TWS无线耳机的功能机5710 XpressAudio，其独特的创意引起了关注。今天，主打海外市场的深圳手机厂商Ulefone（欧乐风）推出了Armor 15，&lt;strong&gt;延续5710的“步伐”，成为了全球首款内置TWS耳机的三防手机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [300人中了Arc显卡大奖 Intel无法兑现甚至还想“掉包”](https://www.cnbeta.com/articles/tech/1304323.htm) | Sun Aug 14 2022 1:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel Arc锐炫显卡最近招致非议，甚至有分析师建议CEO考虑卖掉或者关闭GPU业务。没想到，与锐炫独显有关另一件让人有些大跌眼镜的事情发生。原来，去年Intel上线了Xe HPG Scavenger Hunt活动，说白了就是为独显宣传造势。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [时速240的拖拉机 1600匹的面包车 这地可比车展精彩多了](https://www.cnbeta.com/articles/tech/1304321.htm) | Sun Aug 14 2022 1:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;世界上最快的车在哪？世界上最帅的车在哪？世界上最新的车在哪？有人会说，找新车去车展，找快车去 F1 啊。em...，其实都不对。有个地方，世界上的&amp;nbsp;“&amp;nbsp;最&amp;nbsp;”&amp;nbsp;系列车每年都会聚集在这。它就是古德伍德小镇。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
