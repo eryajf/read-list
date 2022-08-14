@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【开源项目】Github 主页显示最近发布的掘金文章（支持动态更新）](https://juejin.cn/post/7131429821992665102) | Sat Aug 13 2022 6:32 PM 
+- 🤗 [使用 Kitten 开发一款趣味成语接龙游戏](https://juejin.cn/post/7131534469525143582) | Sun Aug 14 2022 1:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 每一轮接龙成功后，初始接龙和成功接龙的成语，都会显示在作品的接龙记录里，便于使用者学习和记忆。通过积分的 
+    </details> 
+
+- 🎡 [elasticsearch中文分词器详解（九）](https://juejin.cn/post/7131534004674625573) | Sun Aug 14 2022 1:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 1.es安装中文分词器 官网：https://github.com/medcl/elasticsearc 
+    </details> 
+
+- 🕯 [移动端实现HTML5 mp3录音踩坑指南：系统播放音量变小、一些机型录音断断续续 之 MediaRecorder和AudioWorklet的终极对决](https://juejin.cn/post/7131520770076835848) | Sun Aug 14 2022 12:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    Recorder H5录音开源库 采用的浏览器MediaRecorder、ScriptProcessor或AudioWorklet接口对getUserMedia返回的音频流进行音频采集 
+    </details> 
+
+- 🚀 [如何开发一个跨框架组件？](https://juejin.cn/post/7131475867200389133) | Sat Aug 13 2022 9:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 你有这种感觉吗？几个大的前端框架把世界割裂了。 我们会为你用Vue，我用React而争吵，甚至有鄙视链情况发生。 争吵的原因有很多，我这篇文章主要是从组件的角度阐述。 需求 如果你身处一个中台部 
+    </details> 
+
+- 💪 [【开源项目】Github 主页显示最近发布的掘金文章（支持动态更新）](https://juejin.cn/post/7131429821992665102) | Sat Aug 13 2022 6:32 PM 
     <details><summary>展开描述 ...</summary> 
     本文介绍如何在 github 主页 readme 显示掘金与小专栏的最近文章（只部署一次，实时同步） 
-    </details> 
-
-- 🎡 [项目开发通用注意事项](https://juejin.cn/post/7131389664811810823) | Sat Aug 13 2022 3:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    统一文字风格 P.S. 风格包括：字体，字号，粗细，行高，行间距，颜色，溢出控制 一级标题文字风格 二级标题文字风格 三级标题文字风格 模态框标题文字风格 tips文字风格 段落文字风格 表格头文字风 
-    </details> 
-
-- 🕯 [Swift - LeetCode - 翻转二叉树](https://juejin.cn/post/7131388585697116197) | Sat Aug 13 2022 3:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情  题目 给你一棵二叉树的根节点 root，翻转这棵二叉树，并返回其根节点。 说明： xxx 示例 1：  
-    </details> 
-
-- 🚀 [手写Promise方法](https://juejin.cn/post/7131382301937631246) | Sat Aug 13 2022 3:25 PM 
-    <details><summary>展开描述 ...</summary> 
-    --- theme: nico --- &gt;携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，[点击查看活动详情]&lpar;https://juejin.cn/post/712312 
-    </details> 
-
-- 💪 [使用go做一个https证书时间检测工具](https://juejin.cn/post/7131378441428926501) | Sat Aug 13 2022 3:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 各位运维同仁肯定都多多少少面临过，为了节省不必要的开支，很多不那么重要的域名https证书大多数都是申请 
     </details> 
 <!-- juejin:END -->
 ### 少数派
