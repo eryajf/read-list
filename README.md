@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [srty.link - 真正小巧的链接缩短器，专为快速口头分享而打造](https://xinquji.com/posts/178718?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:12 AM 
+- 👀 [TG喵 - 一款索引Telegram资源的搜索引擎](https://xinquji.com/posts/178676?utm_campaign=xinquji-rss) | Mon Aug 15 2022 7:26 AM 
+    <details><summary>展开描述 ...</summary> 
+     一款索引Telegram资源的搜索引擎  
+    </details> 
+
+- 🥷 [srty.link - 真正小巧的链接缩短器，专为快速口头分享而打造](https://xinquji.com/posts/178718?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
      真正小巧的链接缩短器，专为快速口头分享而打造  
     </details> 
 
-- 🥷 [Minimalist Habit Pack - 开始养成习惯。今天。](https://xinquji.com/posts/178717?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:10 AM 
+- 💼 [Minimalist Habit Pack - 开始养成习惯。今天。](https://xinquji.com/posts/178717?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
      开始养成习惯。今天。  
     </details> 
 
-- 💼 [FM Radio - 65,000 多个免费直播电台](https://xinquji.com/posts/178716?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:10 AM 
+- 🦅 [FM Radio - 65,000 多个免费直播电台](https://xinquji.com/posts/178716?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
      65,000 多个免费直播电台  
     </details> 
 
-- 🦅 [Wins - 为 Mac 带来系统级排列窗口功能](https://xinquji.com/posts/178715?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:08 AM 
+- 😺 [Wins - 为 Mac 带来系统级排列窗口功能](https://xinquji.com/posts/178715?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
      为 Mac 带来系统级排列窗口功能  
-    </details> 
-
-- 😺 [Gradientify - 为您的下一个项目找到完美的渐变。](https://xinquji.com/posts/178714?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:07 AM 
-    <details><summary>展开描述 ...</summary> 
-     为您的下一个项目找到完美的渐变。  
     </details> 
 <!-- xinquji:END -->
