@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [读书笔记——《底层逻辑—看清这个世界的底牌》](https://juejin.cn/post/7131617873411178526) | Sun Aug 14 2022 6:40 AM 
+- 🤗 [关于浮动元素，你还在自己计算位置吗？来看看 Floating UI 吧！](https://juejin.cn/post/7131632210813124638) | Sun Aug 14 2022 7:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于浮动元素，计算位置是一个非常令人烦恼的事情。本文介绍了 Floating UI 这个库，可以很好的帮助你在任何项目中解决浮动元素的问题。 
+    </details> 
+
+- 🎡 [vue3实现H5表单验证组件](https://juejin.cn/post/7131631122542723102) | Sun Aug 14 2022 7:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    描述 基于vue.js，不依赖其他插件或库实现；基础功能使用保持和 element-ui 一致，内部实现做了一些移动端差异的调整。 当前构建平台使用 uni-app 官方脚手架构建，因为当下移动端大多 
+    </details> 
+
+- 🕯 [读书笔记——《底层逻辑—看清这个世界的底牌》](https://juejin.cn/post/7131617873411178526) | Sun Aug 14 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
     一句话总结 底层逻辑 + 环境变量 = 方法论。本书介绍了一些个人成长、创业、管理等方面的方法论。东西比较散，文中一些观点有一种让人豁然开朗的感觉。 脑图 详情 第一章：是非对错的底层逻辑 1. 一个 
     </details> 
 
-- 🎡 [写给数据科学家：GitHub实践指南教程；交互式图像标注工具&lpar;像素级&rpar;；Kindle高亮笔记的导出工具；人脸分析库；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7131591526664110087) | Sun Aug 14 2022 4:58 AM 
+- 🚀 [写给数据科学家：GitHub实践指南教程；交互式图像标注工具&lpar;像素级&rpar;；Kindle高亮笔记的导出工具；人脸分析库；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7131591526664110087) | Sun Aug 14 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
     ShowMeAI资讯日报 08-14 期，基于深度神经网络和ONNX runtime的人脸分析库、蛋白质折叠计算工具大全、IPAT交互式像素级图像标注工具&lpar;web版&rpar;、以视觉为中心的BEV感知调研综述 
     </details> 
 
-- 🕯 [【SpringBoot】使用Nacos简化SpringBoot配置&lpar;所有配置放入到Nacos中&rpar;](https://juejin.cn/post/7131589338160168967) | Sun Aug 14 2022 4:51 AM 
+- 💪 [【SpringBoot】使用Nacos简化SpringBoot配置&lpar;所有配置放入到Nacos中&rpar;](https://juejin.cn/post/7131589338160168967) | Sun Aug 14 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
     本篇文章主要讲述以下几个知识点 - [x] Nacos属性的简单使用 - [x] 将SpringBoot中的所有配置全部放入到Nacos中 - [x] 开发人创建单独的命名空间,修改互不影响 
-    </details> 
-
-- 🚀 [Dubbo下的多版本并行开发测试解决方案（服务路由）](https://juejin.cn/post/7131588642128003079) | Sun Aug 14 2022 4:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    在很久之前的文章多版本并行开发测试解决方案 中挖了个坑 今天来给填上； 今天主要讲解实现方案; 主要思路 给不同版本的d 
-    </details> 
-
-- 💪 [【CEP 扩展开发三】Debug](https://juejin.cn/post/7131585039740960798) | Sun Aug 14 2022 4:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    实际的开发工作中，随着业务的增多和复杂度的加深，单凭人肉代码来定位和修复 bug 会变得越来越困难。这时候，debug 工具就显得尤为强大和高效... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
