@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [长时间思考为什么会令我们疲惫不堪？](http://jandan.net/p/111134) | Sat Aug 13 2022 1:01 PM 
+- 🚀 [第一颗来自其它恒星系的星际流星如何打通一条“官僚迷宫”落入人间](http://jandan.net/p/111135) | Sun Aug 14 2022 4:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    因为需要美国国防部的数据背书，所以关于它的发现迟迟无法登上期刊 
+    </details> 
+
+- 🙉 [长时间思考为什么会令我们疲惫不堪？](http://jandan.net/p/111134) | Sat Aug 13 2022 1:01 PM 
     <details><summary>展开描述 ...</summary> 
     （部分）答案竟然是谷氨酸 
     </details> 
 
-- 🙉 [小学阶段，父母帮助孩子完成作业有害无益](http://jandan.net/p/111133) | Sat Aug 13 2022 9:42 AM 
+- 🎉 [小学阶段，父母帮助孩子完成作业有害无益](http://jandan.net/p/111133) | Sat Aug 13 2022 9:42 AM 
     <details><summary>展开描述 ...</summary> 
     不会提升孩子的学业成绩，反而破坏孩子的训练效果和习惯养成；甚至引发家庭冲突 
     </details> 
 
-- 🎉 [微软电子书商店将在8月18日停止支持MOBI 格式](http://jandan.net/p/111129) | Sat Aug 13 2022 3:23 AM 
+- 🐲 [微软电子书商店将在8月18日停止支持MOBI 格式](http://jandan.net/p/111129) | Sat Aug 13 2022 3:23 AM 
     <details><summary>展开描述 ...</summary> 
     因为亚马逊已宣布将废止其专有的 MOBI 电子书格式 
     </details> 
 
-- 🐲 [今日好价 0813](http://jandan.net/p/111132) | Sat Aug 13 2022 3:20 AM 
+-  [今日好价 0813](http://jandan.net/p/111132) | Sat Aug 13 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
-    </details> 
-
--  [2100页论文 证明 最经典的克尔黑洞在数学上是稳定的](http://jandan.net/p/111122) | Fri Aug 12 2022 3:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    自1990年代初以来广义相对论领域的“第一个重大突破” 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
