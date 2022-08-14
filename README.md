@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [女贼用失主抖音号发视频被抓：以为换了头像账号就是自己的了](https://hot.cnbeta.com/articles/funny/1304317.htm) | Sun Aug 14 2022 11:35 AM 
+- 🕯 [NASA将Landsat 9卫星移交给USGS 洞察地球上的景观变化](https://www.cnbeta.com/articles/science/1304329.htm) | Sun Aug 14 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;熟练使用智能手机，很多人年轻人依然做不到。近日，四川一名31岁女子偷了部手机，直接把失主的抖音头像换成自己的头像，当成自己的账号更新视频，结果被警方轻而易举得抓获。据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/ttarticle/p/show?id=2309354802383879471355&quot; target=&quot;_blank&quot;&gt;封面新闻&lt;/a&gt;报道，该女子刘某到岳池县齐福镇偷到一部手机，见无开机密码且手机高档还较新，便把该手机里的电话卡换上自己的电话卡继续使用。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1304317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月11日，美国宇航局在南达科他州苏福尔斯举行仪式，将Landsat 9卫星的所有权和操作控制权移交给美国地质调查局（USGS）。Landsat 9是Landsat系列遥感卫星中最新的一颗，它提供了地球上景观变化的全球覆盖。大地卫星计划--美国国家航空航天局和美国地质调查局的联合努力是一个长期的项目，7月23日标志今年是该项目连续服务50年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中央气象台继续发布高温红色预警 安徽42.6℃热成全国第一](https://www.cnbeta.com/articles/tech/1304315.htm) | Sun Aug 14 2022 11:34 AM 
+- 💼 [千万不要试图跟一只袋鼠打架 沈腾被一脚踢飞](https://www.cnbeta.com/articles/science/1304327.htm) | Sun Aug 14 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中央气象台，8月14日14时，安徽马鞍山气温达到42.6℃，斩获高温榜榜首。前三名中还有重庆奉节（42.1℃）和浙江临安（41.9℃）。&lt;strong&gt;马鞍山地方官微“马鞍山发布”也在留言中幽默评论“是不是要发表一下‘获奖感言’：马鞍山变成了‘火焰山’，谁那儿有芭蕉扇借来用一用？”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;要说最近动物界的“顶流”是谁？毫无疑问，下面这只袋鼠——它叫刚子，一只出现在电影《独行月球》里的赤大袋鼠，贪吃、暴躁，拥有着令无数健身房撸铁人士羡慕不已的壮硕肌肉，战斗力超强，几乎每次都能把沈腾揍得鼻青脸肿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国空间站任务LOGO大赏：12枚集齐 召唤神龙](https://www.cnbeta.com/articles/science/1304313.htm) | Sun Aug 14 2022 11:34 AM 
+- 💂 [Ulefone发布史上首款自带耳机的三防机 售价1150元](https://www.cnbeta.com/articles/tech/1304325.htm) | Sun Aug 14 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“问天”实验舱发射成功之后，作为中国空间站建造阶段最后一个舱段的“梦天”实验舱已于近日运抵海南文昌航天发射场，计划10月份发射。此后，天舟五号货运飞船、神舟十五号载人飞船将于今年陆续升空，完成空间站建造阶段全部飞行任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不久前，诺基亚推出了内置TWS无线耳机的功能机5710 XpressAudio，其独特的创意引起了关注。今天，主打海外市场的深圳手机厂商Ulefone（欧乐风）推出了Armor 15，&lt;strong&gt;延续5710的“步伐”，成为了全球首款内置TWS耳机的三防手机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [青海玉树发生5.9级地震：去年附近曾发生6.1级](https://www.cnbeta.com/articles/tech/1304311.htm) | Sun Aug 14 2022 11:34 AM 
+- 🚀 [300人中了Arc显卡大奖 Intel无法兑现甚至还想“掉包”](https://www.cnbeta.com/articles/tech/1304323.htm) | Sun Aug 14 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中国地震台网正式测定，&lt;strong&gt;8月14日16时20分在青海玉树州杂多县（北纬33.14度，东经92.85度）发生5.9级地震，震源深度10千米。&lt;/strong&gt;16时24分，当地又发生3.4级地震，震源深度10千米。本地地震的震中位于高原无人区，5公里范围内平均海拔约4795米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel Arc锐炫显卡最近招致非议，甚至有分析师建议CEO考虑卖掉或者关闭GPU业务。没想到，与锐炫独显有关另一件让人有些大跌眼镜的事情发生。原来，去年Intel上线了Xe HPG Scavenger Hunt活动，说白了就是为独显宣传造势。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [私募大佬冯柳66亿大举加仓海康威视 公司称对未来5-10年非常乐观](https://www.cnbeta.com/articles/tech/1304309.htm) | Sun Aug 14 2022 11:33 AM 
+- 🎊 [时速240的拖拉机 1600匹的面包车 这地可比车展精彩多了](https://www.cnbeta.com/articles/tech/1304321.htm) | Sun Aug 14 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;私募大佬冯柳重磅出击了！日前，海康威视公布的半年报显示，&lt;strong&gt;今年二季度，高毅资产冯柳大举加仓该公司，截至今年二季度末，共持有该公司3.98亿股，持仓市值高达144亿元，非常罕见。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;世界上最快的车在哪？世界上最帅的车在哪？世界上最新的车在哪？有人会说，找新车去车展，找快车去 F1 啊。em...，其实都不对。有个地方，世界上的&amp;nbsp;“&amp;nbsp;最&amp;nbsp;”&amp;nbsp;系列车每年都会聚集在这。它就是古德伍德小镇。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
