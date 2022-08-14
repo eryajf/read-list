@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [马斯克称特斯拉已经生产了超过300万辆汽车 其中上海厂生产了1/3](https://www.cnbeta.com/articles/tech/1304345.htm) | Sun Aug 14 2022 8:50 PM 
+- 🕯 [安徽热成全国第一 重庆霸占高温榜7位：中央气象台继续发布高温红色预警](https://www.cnbeta.com/articles/tech/1304353.htm) | Sun Aug 14 2022 11:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月14日是中伏的最后一天，中央气象台继续发布高温红色预警。11点，安徽马鞍山气温为39.7 ℃，位居全国高温榜第一，含山以39 ℃位居全国第五。不过很快，昨天下午17点左右，重庆在高温排行榜前十就占了7位：北碚44.5℃，奉节43.5℃，已经打破当地观测史气温最高纪录，热成了全国第一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [赢了i9却输给i3？大脑相当于什么CPU](https://www.cnbeta.com/articles/tech/1304351.htm) | Sun Aug 14 2022 11:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;很多人会把CPU比喻为电脑的“大脑”，的确，CPU作为中央处理器承担着计算的作用，那么人的大脑相当于什么级别的CPU呢？其实把大脑比作CPU是太小瞧它了，因为大脑整合了包括硬盘显卡等设备的功能，而不单单是CPU，如果单纯看运算能力的话，两者倒是有可比性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [这场奇葩lol骗局 全网都在讨论破解方法](https://hot.cnbeta.com/articles/game/1304349.htm) | Sun Aug 14 2022 11:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;不服 solo！我就想知道有多少人在游戏里和队友吵完架后，甩下过这句话？这是一句流传在众多游戏佬里的口头禅，像极了现实里骂到兴头上就会撂下 “ 等我回去叫人 ” 的狠话。当年，小发就有个朋友经常各种下帖求战，打赢了疯狂打字嘲讽，打输了火速删好友免得被喷，横竖不吃亏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Intel/AMD/NVIDIA表现疲软 为何产品降价也不能刺激购买？](https://www.cnbeta.com/articles/tech/1304347.htm) | Sun Aug 14 2022 11:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;不得不否认，PC已经是过去式了，至少从目前的情况看是这样，巨头们产品越来越不好卖也是事实，所以所有的产品其是都有周期。存储芯片公司美光警告称，PC需求表现疲软，市场充满挑战。NV也预发布了季度财报，第二季度营收仅为67亿美元，远低于此前预计的81亿美元，令华尔街震动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [马斯克称特斯拉已经生产了超过300万辆汽车 其中上海厂生产了1/3](https://www.cnbeta.com/articles/tech/1304345.htm) | Sun Aug 14 2022 8:50 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;特斯拉CEO马斯克周日在推特上表示，特斯拉已经生产了超过300万辆汽车。这条推文称，其中特斯拉上海工厂生产了100万辆汽车。马斯克周日庆祝的汽车总量成就是在特斯拉报告的交付量（最接近销量的近似值）在最近几个季度一直在上升之后实现的。7月份，特斯拉表示，第二季度交付了254695辆汽车，同比增长26.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [部分芯片价格暴跌 200元降至20元](https://www.cnbeta.com/articles/tech/1304343.htm) | Sun Aug 14 2022 6:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年以来，芯片荒问题虽然比去年有所好转，但有些领域的芯片仍然供应偏紧，针对芯片市场上的新变化，有的企业不断扩大产能，有的企业则转型至新的赛道。随着近几年新能源汽车市场的日益火爆，转型研发生产新能源汽车急需的芯片成为许多企业的选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [瑞幸终于开始赚钱了 还暴打了一波星巴克](https://www.cnbeta.com/articles/tech/1304341.htm) | Sun Aug 14 2022 4:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;和大伙们讲个“鬼”故事。几年前因财务造假事件，几乎快要崩盘的瑞幸咖啡，要上演赘婿情节了。这可不，最近瑞幸就发布了第二季度财报，净收入暴涨了 72%&amp;nbsp;，到达了 32 亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [拜登新冠转阴后出现后遗症？专家称对长期新冠症状了解非常有限](https://www.cnbeta.com/articles/tech/1304339.htm) | Sun Aug 14 2022 4:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国总统拜登在新冠转阴后重回公众场合。不过，他在上周出席美国芯片法案签署仪式时咳嗽不止，多次被迫中断发言。白宫对此回应称，这是由于新冠“挥之不去”的影响而导致的。此前，白宫新冠协调员Ashish Jha曾透露，拜登曾患有哮喘，并患有“反应性气道疾病”，他在生病期间依靠沙丁胺醇气雾吸入器来缓解咳嗽，以前感冒时也使用过这种吸入器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [超过每周饮酒建议量让染色体变短](https://www.cnbeta.com/articles/science/1304337.htm) | Sun Aug 14 2022 4:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，牛津大学的一项新研究发现，每周饮酒量超过17单位（略高于英国人的建议上限），就会导致端粒缩短。相关研究结果发表于《分子精神病学》。端粒是DNA重复序列中覆盖染色体的区域，就像鞋带末端的塑料头一样。端粒长度随着人们的正常衰老而缩短，但令人担忧的是，端粒较短与许多老年疾病有关，如癌症、阿尔茨海默病和心脏病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
