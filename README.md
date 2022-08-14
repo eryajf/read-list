@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [数据：在Android 13发布之前，Android 12在13.3%的设备上运行](https://www.cnbeta.com/articles/tech/1304201.htm) | Sun Aug 14 2022 1:47 AM 
+- 🕯 [Uber免费忠诚度服务Uber Rewards将于今年晚些时候关闭](https://www.cnbeta.com/articles/tech/1304233.htm) | Sun Aug 14 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;本月初，Google更新了Android的分布数字。数据显示，Android 12在13.3%的设备上运行。&lt;/strong&gt;在8月4日的更新之前，Google最后一次刷新Android Studio中的Android平台/API版本分布则是在5月9日。四个月前，Android 12还没有被列在分布数字中，目前它被列入Android 13发布之前。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Uber正在结束其免费的忠诚度服务--Uber Rewards，以便将注意力转向基于订阅的Uber One会员。&lt;/strong&gt;在发给客户的电子邮件中，Uber解释称，在8月底之前，用户仍可以获得积分，而兑换积分的最后一天为10月31日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软iPad版Office将支持Apple Pencil的“手写转文本”功能](https://www.cnbeta.com/articles/tech/1304199.htm) | Sun Aug 14 2022 1:36 AM 
+- 💼 [研究：低温条件可使癌细胞更难生长](https://www.cnbeta.com/articles/science/1304231.htm) | Sun Aug 14 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;微软本周发布了一个新的iPad版Office应用测试版，其将支持Apple Pencil的手写转文本功能Scribble。&lt;/strong&gt;该功能允许用户使用Apple Pencil在Word文档、PowerPoint演示文稿或Excel电子表格中插入和编辑文本并将手写内容自动转换为打字文本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;人们已经知道，许多肿瘤（尤其是实体肿瘤）比正常组织更依赖糖酵解来满足其能量需求。这是有道理的，因为糖酵解是一种制造ATP的无氧途径（跟通常的克雷布斯循环方式、柠檬酸循环和氧化磷酸化相反），而一旦你越过它们的外层，实体瘤往往是相对贫氧的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [虚幻5引擎试图解决游戏卡顿问题](https://hot.cnbeta.com/articles/game/1304197.htm) | Sun Aug 14 2022 1:35 AM 
+- 💂 [造成西单交通拥堵 滴滴取消周日免单活动](https://www.cnbeta.com/articles/tech/1304229.htm) | Sun Aug 14 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Epic Games更新了虚幻引擎5.1的路线图，充满了各种令人兴奋的改进，即将加入到这一流行游戏开发软件中。首先Epic的工程师们正在努力修复经常困扰虚幻4+引擎游戏的卡顿问题。虚幻引擎5.1将获得一个自动PSO收集功能，来帮助解决这个长期存在的问题。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月14日消息，由于免单活动造成昨天傍晚西单交通拥堵，滴滴发布通知称，决定取消今天的免单活动，并向消费者致歉。&lt;/strong&gt;滴滴在通知中表示，非常抱歉由于活动火爆导致西单交通拥堵，8月13日周六西单免单活动将临时调整。出发地为西单仍参与免单，目的地为西单不参与免单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《排球少年 FINAL》二部曲确定制作 先导预告公开](https://hot.cnbeta.com/articles/comic/1304195.htm) | Sun Aug 14 2022 1:35 AM 
+- 🚀 [《斯普拉遁3》可继承前作存档 直接进入高段位比赛](https://hot.cnbeta.com/articles/game/1304227.htm) | Sun Aug 14 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;古馆春一原著的漫画名作《排球少年》官方日前宣布，确定制作全新动画电影《排球少年 FINAL》二部曲，预定2023年上映，最新先导预告公开，一起来先睹为快。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1304195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《斯普拉遁3》还有不到一个月的时间就要发售，而最期待本作的无疑是已经享受过前作乐趣的玩家。而任天堂也向前作玩家示好，玩过前作的玩家在《斯普拉遁3》中可以获得海量奖励，能加速玩家的升级进度。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [三星电子工会好像“赢了” 又好像没有](https://www.cnbeta.com/articles/tech/1304193.htm) | Sun Aug 14 2022 1:34 AM 
+- 🎊 [动手高玩用玻璃打造宝可梦 惟妙惟肖晶莹剔透](https://hot.cnbeta.com/articles/game/1304225.htm) | Sun Aug 14 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月10日，在韩国龙仁市的器兴园区内，三星电子与三星工会举行了《薪资协议》签约仪式。在经历了长达10个月的谈判后，三星电子的劳资双方终于就“涨薪”一事达成了协议，并决定在器兴园区内的半导体生产基地进行签约。据韩国商报BusinessKorea报道，这将是三星电子成立53年以来首次与工会签署薪资协议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于动手高玩来说，用各种材料打造自己喜爱角色的乐趣绝非常人所能想象，近日日本的一位玻璃工艺人用各色玻璃还原打造看宝可梦，惟妙惟肖晶莹剔透，别有一番魅力。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
