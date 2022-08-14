@@ -804,7 +804,7 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [这位天文学家坚信那颗星际流星是外星文明的造物，或者起码是“振金”材质](http://jandan.net/p/111136) | Sun Aug 14 2022 5:07 AM 
+- 🚀 [这位天文学家坚信星际流星是外星文明的造物，或起码是“振金”材质](http://jandan.net/p/111136) | Sun Aug 14 2022 5:07 AM 
     <details><summary>展开描述 ...</summary> 
     正募集百万美元去大海捞针 
     </details> 
