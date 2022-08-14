@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [日本零售商防黄牛新对策：想买PS5先卖PS4](https://hot.cnbeta.com/articles/game/1304303.htm) | Sun Aug 14 2022 9:56 AM 
+- 🕯 [女贼用失主抖音号发视频被抓：以为换了头像账号就是自己的了](https://hot.cnbeta.com/articles/funny/1304317.htm) | Sun Aug 14 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;到现在，索尼的PS5主机如今仍然不是想买就能随时买到的，而这已经是主机正式发售的两年之后。具体原因大家已经熟得不能再熟，芯片短缺和供应链问题导致的。而黄牛囤货也是其中一个不可忽视的元素。日本零售店GEO针对黄牛问题就想出了一个“妙招”，那就是如果想要在这里买PS5的话，你需要把自己的PS4主机带过来卖掉。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;熟练使用智能手机，很多人年轻人依然做不到。近日，四川一名31岁女子偷了部手机，直接把失主的抖音头像换成自己的头像，当成自己的账号更新视频，结果被警方轻而易举得抓获。据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/ttarticle/p/show?id=2309354802383879471355&quot; target=&quot;_blank&quot;&gt;封面新闻&lt;/a&gt;报道，该女子刘某到岳池县齐福镇偷到一部手机，见无开机密码且手机高档还较新，便把该手机里的电话卡换上自己的电话卡继续使用。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1304317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [我国首款符合北斗国际标准的船载接收设备问世 获得中国船级社证书](https://www.cnbeta.com/articles/tech/1304301.htm) | Sun Aug 14 2022 9:18 AM 
+- 💼 [中央气象台继续发布高温红色预警 安徽42.6℃热成全国第一](https://www.cnbeta.com/articles/tech/1304315.htm) | Sun Aug 14 2022 11:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据“&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s/q9RVzQCcIF1xq0nChCfTTQ&quot; target=&quot;_blank&quot;&gt;中国北斗卫星导航系统&lt;/a&gt;”公众号报道，8月8日，中国船级社为全球首款具有单北斗功能的船载全球卫星导航系统接收设备颁发了型式认可证书。据了解，该设备完全符合国际电工协会（IEC）61108-5:2020《海上导航与无线电通信设备及系统-全球卫星导航系统（GNSS）-第5部分：北斗卫星导航系统（BDS）-接收设备性能要求、测试方法与要求的测试结果》标准的要求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中央气象台，8月14日14时，安徽马鞍山气温达到42.6℃，斩获高温榜榜首。前三名中还有重庆奉节（42.1℃）和浙江临安（41.9℃）。&lt;strong&gt;马鞍山地方官微“马鞍山发布”也在留言中幽默评论“是不是要发表一下‘获奖感言’：马鞍山变成了‘火焰山’，谁那儿有芭蕉扇借来用一用？”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [主播疑采摘“水母雪兔子”被封号 嫌疑人已锁定](https://www.cnbeta.com/articles/science/1304299.htm) | Sun Aug 14 2022 9:17 AM 
+- 💂 [中国空间站任务LOGO大赏：12枚集齐 召唤神龙](https://www.cnbeta.com/articles/science/1304313.htm) | Sun Aug 14 2022 11:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，有网友爆料，&lt;strong&gt;网名为“西伯利亚狼”的主播疑采挖濒危植物“水母雪兔子”。&lt;/strong&gt;该主播发视频称：“青藏雪莲花，原生态海拔5000多米真实采摘”，并将一朵植物从石缝中连根拔起，向着镜头展示，而他手中的植物疑似为国家二级保护植物“水母雪兔子”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“问天”实验舱发射成功之后，作为中国空间站建造阶段最后一个舱段的“梦天”实验舱已于近日运抵海南文昌航天发射场，计划10月份发射。此后，天舟五号货运飞船、神舟十五号载人飞船将于今年陆续升空，完成空间站建造阶段全部飞行任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [官方回应网红手机Nothing Phone 1虚标亮度：硬件没问题](https://www.cnbeta.com/articles/tech/1304297.htm) | Sun Aug 14 2022 9:16 AM 
+- 🚀 [青海玉树发生5.9级地震：去年附近曾发生6.1级](https://www.cnbeta.com/articles/tech/1304311.htm) | Sun Aug 14 2022 11:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本月早些时候，知名网红手机Nothing Phone 1被曝出存在虚标最高亮度的问题，&lt;strong&gt;手机实际亮度仅有不到700尼特，无法达到参数页显示的1200尼特。&lt;/strong&gt;在当时，&lt;strong&gt;Nothing直接修改了官网的参数页，将最高亮度改为了700尼特。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中国地震台网正式测定，&lt;strong&gt;8月14日16时20分在青海玉树州杂多县（北纬33.14度，东经92.85度）发生5.9级地震，震源深度10千米。&lt;/strong&gt;16时24分，当地又发生3.4级地震，震源深度10千米。本地地震的震中位于高原无人区，5公里范围内平均海拔约4795米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中国初创公司在车载IC领域取得突破性进展](https://www.cnbeta.com/articles/tech/1304295.htm) | Sun Aug 14 2022 9:16 AM 
+- 🎊 [私募大佬冯柳66亿大举加仓海康威视 公司称对未来5-10年非常乐观](https://www.cnbeta.com/articles/tech/1304309.htm) | Sun Aug 14 2022 11:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据DIGITIMES报道，业内人士透露，中国初创企业在开发用于智能座舱、ADAS（高级驾驶辅助系统）和自动驾驶等应用的车载IC方面发挥了重要作用，但预计未来五年将面临巨大竞争挑战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;私募大佬冯柳重磅出击了！日前，海康威视公布的半年报显示，&lt;strong&gt;今年二季度，高毅资产冯柳大举加仓该公司，截至今年二季度末，共持有该公司3.98亿股，持仓市值高达144亿元，非常罕见。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
