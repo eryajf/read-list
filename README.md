@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [除去税和必要花费，单身汉每个月能存工资的几成？](https://www.v2ex.com/t/872742#reply2) | Sun Aug 14 2022 4:12 AM
-- 🤗 [关于润去海外的问题](https://www.v2ex.com/t/872740#reply0) | Sun Aug 14 2022 4:07 AM
-- 🎭 [数据库集合返回一个 DTO 的集合。使用 Stream Group by 多个字段拼接进行分组，其中有需要根据 6 个字段进行分组的，有需要根据 4 个字段进行分组的，怎么比较‘优雅’的实现。不采用 SQL 里面分组是业务需要。](https://www.v2ex.com/t/872735#reply1) | Sun Aug 14 2022 3:36 AM
-- 🥷 [求教 Java 大佬，这是什么报错?下载报错还是解压报错？和 Java 版本或者解压软件有没有关系？](https://www.v2ex.com/t/872729#reply5) | Sun Aug 14 2022 3:24 AM
-- 🐵 [服务隔离的必要性疑问、以及不同 Docker Host 之间通信的方案](https://www.v2ex.com/t/872721#reply3) | Sun Aug 14 2022 2:19 AM<!-- v2ex:END -->
+- 🥸 [chrome 密码泄漏了， 才知道用 chrome 保存密码等于裸奔](https://www.v2ex.com/t/872745#reply27) | Sun Aug 14 2022 4:31 AM
+- 🤗 [除去税和必要花费，单身汉每个月能存工资的几成？](https://www.v2ex.com/t/872742#reply12) | Sun Aug 14 2022 4:12 AM
+- 🎭 [关于润去海外的问题](https://www.v2ex.com/t/872740#reply4) | Sun Aug 14 2022 4:07 AM
+- 🥷 [数据库集合返回一个 DTO 的集合。使用 Stream Group by 多个字段拼接进行分组，其中有需要根据 6 个字段进行分组的，有需要根据 4 个字段进行分组的，怎么比较‘优雅’的实现。不采用 SQL 里面分组是业务需要。](https://www.v2ex.com/t/872735#reply2) | Sun Aug 14 2022 3:36 AM
+- 🐵 [求教 Java 大佬，这是什么报错?下载报错还是解压报错？和 Java 版本或者解压软件有没有关系？](https://www.v2ex.com/t/872729#reply6) | Sun Aug 14 2022 3:24 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
