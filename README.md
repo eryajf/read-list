@@ -406,7 +406,7 @@
     「农历」和「阴历」有什么不同你知道吗？中元节聊历法，带你做个「阴阳师」。&lt;a href=&quot;https://sspai.com/post/75137&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [App+1｜DailyBeen 日记说：你的所有小事，都值得铭记](https://sspai.com/post/75093) | Sat Aug 13 2022 5:02 AM 
+- 🐘 [App+1｜DailyBean 日记说：你的所有小事，都值得铭记](https://sspai.com/post/75093) | Sat Aug 13 2022 5:02 AM 
     <details><summary>展开描述 ...</summary> 
     好友有抑郁症，已经七八年了。她病情时好时坏，情绪经常处于低落状态，医生建议她写日记来记录心情的变化，尤其是记录一些值得开心的小事，对病情都有帮助。但手写不易保存，纯文本又比较枯燥，我就寻思着帮她找一个 ...&lt;a href=&quot;https://sspai.com/post/75093&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
