@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [“超级食物”真的那么超级吗？](https://www.cnbeta.com/articles/science/1304155.htm) | Sat Aug 13 2022 7:35 PM 
+- 🕯 [数据：在Android 13发布之前，Android 12在13.3%的设备上运行](https://www.cnbeta.com/articles/tech/1304201.htm) | Sun Aug 14 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;健康的饮食对许多人来说是很重要的。无论是藜麦、奇亚籽还是枸杞，48%的人认为这些经常被宣传的&amp;quot;超级食物&amp;quot;是健康饮食的一个必要组成部分。据说它们具有促进健康的品质，有些甚至被认为有助于避免疾病。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本月初，Google更新了Android的分布数字。数据显示，Android 12在13.3%的设备上运行。&lt;/strong&gt;在8月4日的更新之前，Google最后一次刷新Android Studio中的Android平台/API版本分布则是在5月9日。四个月前，Android 12还没有被列在分布数字中，目前它被列入Android 13发布之前。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [漂浮在太空中可能看起来很令人兴奋 但有严重的健康后果](https://www.cnbeta.com/articles/science/1304153.htm) | Sat Aug 13 2022 5:52 PM 
+- 💼 [微软iPad版Office将支持Apple Pencil的“手写转文本”功能](https://www.cnbeta.com/articles/tech/1304199.htm) | Sun Aug 14 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你有没有想过你和宇航员是否有什么共同之处？有一点是肯定的，而且数字还不少：有206个，那就是你的骨骼。一项关于宇航员骨质流失以及返回地球后骨骼能否恢复的关键问题一直是医学和天文学界关注的话题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;微软本周发布了一个新的iPad版Office应用测试版，其将支持Apple Pencil的手写转文本功能Scribble。&lt;/strong&gt;该功能允许用户使用Apple Pencil在Word文档、PowerPoint演示文稿或Excel电子表格中插入和编辑文本并将手写内容自动转换为打字文本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [大脑如何在混乱中作出决定？原理类似于数据压缩技术](https://www.cnbeta.com/articles/science/1304151.htm) | Sat Aug 13 2022 5:49 PM 
+- 💂 [虚幻5引擎试图解决游戏卡顿问题](https://hot.cnbeta.com/articles/game/1304197.htm) | Sun Aug 14 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如果你在20世纪80年代长大，或者喜欢玩老式视频游戏，你可能对《青蛙过河》很熟悉。这个游戏可能相当困难。要想成功，你必须首先穿过繁忙的交通流，然后在移动的木板上走&amp;quot;之&amp;quot;字形，以避免摔进充满危险的河里。大脑是如何决定在这种混乱中注意什么的呢？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Epic Games更新了虚幻引擎5.1的路线图，充满了各种令人兴奋的改进，即将加入到这一流行游戏开发软件中。首先Epic的工程师们正在努力修复经常困扰虚幻4+引擎游戏的卡顿问题。虚幻引擎5.1将获得一个自动PSO收集功能，来帮助解决这个长期存在的问题。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究发现磁铁可以解决宇航员在长期空间旅行时的氧气供应问题](https://www.cnbeta.com/articles/science/1304149.htm) | Sat Aug 13 2022 5:45 PM 
+- 🚀 [《排球少年 FINAL》二部曲确定制作 先导预告公开](https://hot.cnbeta.com/articles/comic/1304195.htm) | Sun Aug 14 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;华威大学的一个专家小组展示了一种在微重力条件下生产氧气的新方法，其中涉及磁铁。磁铁被用来吸引气体气泡在一个区域内凝聚，使得在太空的低重力环境下更容易收获它们，而不是使用不适合长期任务的重型机器。实验所解决的关键问题是浮力，或者更准确地说，太空中缺乏自然浮力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;古馆春一原著的漫画名作《排球少年》官方日前宣布，确定制作全新动画电影《排球少年 FINAL》二部曲，预定2023年上映，最新先导预告公开，一起来先睹为快。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1304195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [GPU价格跌至七折：6900 XT起价699美元 RTX 3080 Ti售869美元](https://www.cnbeta.com/articles/tech/1304147.htm) | Sat Aug 13 2022 5:43 PM 
+- 🎊 [三星电子工会好像“赢了” 又好像没有](https://www.cnbeta.com/articles/tech/1304193.htm) | Sun Aug 14 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;GPU价格出现持续下跌，AMD Radeon RX 6900 XT和NVIDIA GeForce RTX 3080 Ti等旗舰显卡的价格现在达到了低于MSRP的-30%，也就是七折水平。在过去的几个月里，由于加密货币崩溃，PC市场下降，以及对下一代GPU的预期，整体需求不佳，整个GPU市场出现了大幅的下跌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月10日，在韩国龙仁市的器兴园区内，三星电子与三星工会举行了《薪资协议》签约仪式。在经历了长达10个月的谈判后，三星电子的劳资双方终于就“涨薪”一事达成了协议，并决定在器兴园区内的半导体生产基地进行签约。据韩国商报BusinessKorea报道，这将是三星电子成立53年以来首次与工会签署薪资协议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
