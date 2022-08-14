@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国初创公司在车载IC领域取得突破性进展](https://www.cnbeta.com/articles/tech/1304295.htm) | Sun Aug 14 2022 9:16 AM 
+- 🕯 [日本零售商防黄牛新对策：想买PS5先卖PS4](https://hot.cnbeta.com/articles/game/1304303.htm) | Sun Aug 14 2022 9:56 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;到现在，索尼的PS5主机如今仍然不是想买就能随时买到的，而这已经是主机正式发售的两年之后。具体原因大家已经熟得不能再熟，芯片短缺和供应链问题导致的。而黄牛囤货也是其中一个不可忽视的元素。日本零售店GEO针对黄牛问题就想出了一个“妙招”，那就是如果想要在这里买PS5的话，你需要把自己的PS4主机带过来卖掉。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [我国首款符合北斗国际标准的船载接收设备问世 获得中国船级社证书](https://www.cnbeta.com/articles/tech/1304301.htm) | Sun Aug 14 2022 9:18 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据“&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s/q9RVzQCcIF1xq0nChCfTTQ&quot; target=&quot;_blank&quot;&gt;中国北斗卫星导航系统&lt;/a&gt;”公众号报道，8月8日，中国船级社为全球首款具有单北斗功能的船载全球卫星导航系统接收设备颁发了型式认可证书。据了解，该设备完全符合国际电工协会（IEC）61108-5:2020《海上导航与无线电通信设备及系统-全球卫星导航系统（GNSS）-第5部分：北斗卫星导航系统（BDS）-接收设备性能要求、测试方法与要求的测试结果》标准的要求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [主播疑采摘“水母雪兔子”被封号 嫌疑人已锁定](https://www.cnbeta.com/articles/science/1304299.htm) | Sun Aug 14 2022 9:17 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，有网友爆料，&lt;strong&gt;网名为“西伯利亚狼”的主播疑采挖濒危植物“水母雪兔子”。&lt;/strong&gt;该主播发视频称：“青藏雪莲花，原生态海拔5000多米真实采摘”，并将一朵植物从石缝中连根拔起，向着镜头展示，而他手中的植物疑似为国家二级保护植物“水母雪兔子”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [官方回应网红手机Nothing Phone 1虚标亮度：硬件没问题](https://www.cnbeta.com/articles/tech/1304297.htm) | Sun Aug 14 2022 9:16 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;本月早些时候，知名网红手机Nothing Phone 1被曝出存在虚标最高亮度的问题，&lt;strong&gt;手机实际亮度仅有不到700尼特，无法达到参数页显示的1200尼特。&lt;/strong&gt;在当时，&lt;strong&gt;Nothing直接修改了官网的参数页，将最高亮度改为了700尼特。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [中国初创公司在车载IC领域取得突破性进展](https://www.cnbeta.com/articles/tech/1304295.htm) | Sun Aug 14 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据DIGITIMES报道，业内人士透露，中国初创企业在开发用于智能座舱、ADAS（高级驾驶辅助系统）和自动驾驶等应用的车载IC方面发挥了重要作用，但预计未来五年将面临巨大竞争挑战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [标题党、废话文学和AI配音：电影解说已造出一套流水线](https://hot.cnbeta.com/articles/movie/1304293.htm) | Sun Aug 14 2022 9:13 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“银行行长被人冤枉入狱，看他如何涅槃重生。”“见女友家长被催眠，原因竟是为了共享身体？”“大聪明为爱抢劫，造就史上最大现金抢劫案。”“女孩在公交车上被劫持，没想到却爱上了劫匪。”看了这些标题，你能想到它们其实是在说一些经典电影么？&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [2022年国内暑期档票房突破75亿元 超去年同期](https://hot.cnbeta.com/articles/movie/1304291.htm) | Sun Aug 14 2022 9:12 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管国内疫情依然还在反弹肆虐，不过根据灯塔专业版提供的数据，截止8月14日15时，今年暑期档的总票房已经达到了75.69亿，超越了去年暑期档73.81亿的票房成绩。截止目前，今年暑期档的总出票数已经达到了1.95亿张，总场次2447.01万，平均票价38.9元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《生化危机》初代虚幻引擎5重制项目预告视频欣赏](https://hot.cnbeta.com/articles/game/1304289.htm) | Sun Aug 14 2022 9:11 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;RE Biohazard近日分享新视频，展示了他们用虚幻引擎5对初代《生化危机》进行重制的画面。这款重制将忠实原作概念，感兴趣的玩家可以观看一下。这款经典重制版本的玩法更接近于原版32位游戏，效果非常复古。目前开发者尚未放出下载，感兴趣的玩家只能继续保持期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [法庭文件证实Xbox One销量不及PS4销量一半](https://hot.cnbeta.com/articles/game/1304287.htm) | Sun Aug 14 2022 9:11 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软对动视暴雪的收购近日遭到巴西监管机构的审查，目前已有多份法庭文件流出，其中披露了非常有趣的细节。在最新的法庭文件中，微软方面证实，Xbox One的总销量还不及索尼PS4销量的半数。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
