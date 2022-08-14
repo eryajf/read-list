@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端可以掌握的linux命令: 三种远程方式和三种关机重启的方式](https://juejin.cn/post/7131558925224116232) | Sun Aug 14 2022 2:51 AM 
+- 🤗 [el-select问题收录](https://juejin.cn/post/7131572248742133774) | Sun Aug 14 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-    平常自己喜欢折腾，所以自己买了云服务器，有时候会捯饬一下，所以避免不了要跟linux系统打交道，那么第一步便是如何远程，如何关机如何重启的问题 
+    el-select如何优化超大数据不卡顿 - mark224 - 博客园 &lpar;cnblogs.com&rpar; &lpar;28条消息&rpar; 利用el-tooltip来对el-select选项过长进行优化_SmallTedd 
     </details> 
 
-- 🎡 [pycharm中配置node.js环境](https://juejin.cn/post/7131553158945308709) | Sun Aug 14 2022 2:28 AM 
+- 🎡 [TypeScript-起步——TypeScript简介（一）](https://juejin.cn/post/7131564081412046879) | Sun Aug 14 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    首先下载node.js 下载地址: https://nodejs.org/zh-cn/download/ 选择合适的版本下载，我个人选择的是windows 64位 下载完成之后，进行安装node.js 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 2、TypeScript ① 认识TypeScript 虽然我们已经知道TypeScript是干什么的了 
     </details> 
 
-- 🕯 [C# 初识Winform PictureBox控件](https://juejin.cn/post/7131552698758856711) | Sun Aug 14 2022 2:27 AM 
+- 🕯 [「项目总结」大型业务项目中，前端如何撰写设计文档](https://juejin.cn/post/7131563694819344420) | Sun Aug 14 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 前言： Picture在C#中是一个比较常用的控件，在做Winform 程序时用picture控件展示图 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情。每年总会经历几个大型业务项目的迭代，我总结了一波前端如何撰写设计文档，分享给大家。 
     </details> 
 
-- 🚀 [linux虚拟机手动安装VMware Tools使屏幕自适应](https://juejin.cn/post/7131544405160230943) | Sun Aug 14 2022 1:55 AM 
+- 🚀 [【刷题日记】768. 最多能完成排序的块 II](https://juejin.cn/post/7131562999671685156) | Sun Aug 14 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 电脑装了双系统，但是，linux系统的使用率不是很高，而且这玩意没有镜像，一旦手残给整废了，还得重装系统 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 本次刷题日记的第 92 篇，力扣题为：768. 最多能完成排序的块 II 一、题目描述： 继续干最多能完 
     </details> 
 
-- 💪 [1422. 分割字符串的最大得分 :「前缀和」&amp;「模拟」](https://juejin.cn/post/7131541838615281677) | Sun Aug 14 2022 1:45 AM 
+- 💪 [Pycharm以友好的方式显示输出框的json字符串--&quot;Show as JSON&quot;](https://juejin.cn/post/7131560456539340831) | Sun Aug 14 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 题目描述 这是 LeetCode 上的 1422. 分割字符串的最大得分 ，难度为 简单。 Tag :  
+    Pycharm的&quot;Show as JSON&quot;功能可以把输出框的json字符串以友好的格式显示出来，这样可以方便的查看输出信息。 使用方法： &lpar;1&rpar;光标定位到输出框中的某一行，右键选择&quot;Show as  
     </details> 
 <!-- juejin:END -->
 ### 少数派
