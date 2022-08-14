@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Apache Tika 如何创建新的 Detector](https://www.v2ex.com/t/872811#reply0) | Sun Aug 14 2022 1:11 PM
-- 🤗 [你们开发 vite+vue3 项目，打开 vue devtools 页面不卡吗？](https://www.v2ex.com/t/872809#reply0) | Sun Aug 14 2022 12:48 PM
-- 🎭 [多服务器实例下，怎么让不同请求的 backend 共享同一个 promise](https://www.v2ex.com/t/872800#reply0) | Sun Aug 14 2022 11:42 AM
-- 🥷 [[信息检索] 试问给你一个视频怎么找到出处](https://www.v2ex.com/t/872797#reply10) | Sun Aug 14 2022 11:20 AM
-- 🐵 [关于编程语言内存对齐的疑问](https://www.v2ex.com/t/872792#reply17) | Sun Aug 14 2022 10:40 AM<!-- v2ex:END -->
+- 🥸 [写前端的很好奇， WASM 是怎么做到同时在 ARM 和 x86 CPU 上运行的？如果是转译，性能损耗有多少？ Google 一直没搜到答案。](https://www.v2ex.com/t/872823#reply0) | Sun Aug 14 2022 2:11 PM
+- 🤗 [js 判断一个 url/网址是否能正常打开，然后跳转不同的网址，咋写？](https://www.v2ex.com/t/872818#reply5) | Sun Aug 14 2022 1:48 PM
+- 🎭 [Apache Tika 如何创建新的 Detector](https://www.v2ex.com/t/872811#reply0) | Sun Aug 14 2022 1:11 PM
+- 🥷 [你们开发 vite+vue3 项目，打开 vue devtools 页面不卡吗？](https://www.v2ex.com/t/872809#reply0) | Sun Aug 14 2022 12:48 PM
+- 🐵 [多服务器实例下，怎么让不同请求的 backend 共享同一个 promise](https://www.v2ex.com/t/872800#reply0) | Sun Aug 14 2022 11:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
