@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [罕见夫妻同框富坚与武内直子同绘插画  小杰X月野兔](https://hot.cnbeta.com/articles/comic/1304241.htm) | Sun Aug 14 2022 4:00 AM 
+- 🕯 [荷兰弟暂时“退网”：社交网络对我的精神状态十分不利](https://hot.cnbeta.com/articles/movie/1304247.htm) | Sun Aug 14 2022 5:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;近日，“荷兰弟”汤姆·赫兰德在社交媒体上表示他将暂时“退网”一段时间。&lt;/strong&gt;荷兰弟表示为了身心健康，他将暂时离开社交媒体一段时间，他说“当我在网上读到关于我的事情时，我会觉得十分困扰，这会对我的精神状态造成十分不利的影响。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [漫威《洛基》第二季片场路透 洛基对空施法、充气摇摆人略显滑稽](https://hot.cnbeta.com/articles/movie/1304245.htm) | Sun Aug 14 2022 4:58 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;漫威剧集《洛基》第二季已于今年6月14日正式开拍，近日，又释出了一段片场视频：洛基对空施法，完美展现加特效之前的表演。&lt;/strong&gt;略微滑稽的无特效表演加上旁边摆动的充气人偶看起来确实有些搞笑。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [DC《康斯坦丁》剧集2023年初开拍 黑人男星出演](https://hot.cnbeta.com/articles/movie/1304243.htm) | Sun Aug 14 2022 4:57 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;在华纳兄弟意外取消《蝙蝠女》后，外媒Variety发布了新专栏，讨论了华纳和探索频道合并后所有DC电影和电视剧的方向。&lt;/strong&gt;这包括J.J. Abrams的《黑暗正义联盟》剧集和其专注于康斯坦丁和Madame Xanadu的衍生作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [罕见夫妻同框富坚与武内直子同绘插画  小杰X月野兔](https://hot.cnbeta.com/articles/comic/1304241.htm) | Sun Aug 14 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;大阪环球乐园近日举行特别展示活动，主题是来自经典动漫《全职猎人》与《美少女战士》，听起来好像有什么不对劲的地方？没错，可能还有粉丝不知道，实际上这两部名作的作者是一对漫画家夫妇，官方图示展示了两人亲绘的插画色纸，一起来开开眼。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1304241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马斯克：早晨醒来就看手机是个坏习惯 我希望先去锻炼](https://www.cnbeta.com/articles/tech/1304239.htm) | Sun Aug 14 2022 3:59 AM 
+- 🎊 [马斯克：早晨醒来就看手机是个坏习惯 我希望先去锻炼](https://www.cnbeta.com/articles/tech/1304239.htm) | Sun Aug 14 2022 3:59 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月14日消息，尽管特斯拉和SpaceX首席执行官埃隆·马斯克（Elon Musk）已经是世界富翁，但他的日常生活在有些方面与我们没有太大的分别。不过马斯克现在希望改变他的日常生活，在最近接受采访时，马斯克说他早上醒来第一件事就是查看手机，而他认为这可能会损害自己的健康。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [电动化或将导致欧美汽车行业减少数十万个岗位](https://www.cnbeta.com/articles/tech/1304237.htm) | Sun Aug 14 2022 3:59 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月14日消息，从通用汽车、福特到大众再到丰田，汽车制造商们都在努力逐步淘汰燃油车。尽管电动汽车有助于减少有害气体排放、遏制气候变暖，但新技术和制造工艺可能导致汽车行业数十万人失业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [科学家们找到努力思考会让人感到疲倦的原因](https://www.cnbeta.com/articles/science/1304235.htm) | Sun Aug 14 2022 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不言而喻，艰苦的体力劳动使人疲惫不堪，但艰苦的脑力劳动呢？坐着苦思冥想几个小时也会让人感到疲惫。&lt;strong&gt;现在，科学家有新的证据来解释这一点。根据他们的研究结果，因紧张思考而感到精神疲惫（而不是昏昏欲睡）的原因并不全在脑子里。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Uber免费忠诚度服务Uber Rewards将于今年晚些时候关闭](https://www.cnbeta.com/articles/tech/1304233.htm) | Sun Aug 14 2022 3:33 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Uber正在结束其免费的忠诚度服务--Uber Rewards，以便将注意力转向基于订阅的Uber One会员。&lt;/strong&gt;在发给客户的电子邮件中，Uber解释称，在8月底之前，用户仍可以获得积分，而兑换积分的最后一天为10月31日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
