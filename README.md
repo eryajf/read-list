@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [为学习pnpm了解一点基础：linux的文件存储 inode](https://juejin.cn/post/7131724819640352775) | Sun Aug 14 2022 1:34 PM 
+- 🤗 [ES6 字符串的扩展](https://juejin.cn/post/7131750152049524766) | Sun Aug 14 2022 3:13 PM 
     <details><summary>展开描述 ...</summary> 
-    本来我想去了解一下硬连接和软连接的，但是发现简单的了解一下后，还是需要进一步的了解 Inode。所以再来学学Inode。 
+    一、字符串的扩展 字符的 Unicode 表示法 ES6 加强了对 Unicode 的支持，允许采用\uxxxx形式表示一个字符，其中xxxx表示字符的 Unicode 码点。 字符串的遍历器接口 E 
     </details> 
 
-- 🎡 [【狂刷面试题】GO常见面试题汇总](https://juejin.cn/post/7131717990558466062) | Sun Aug 14 2022 1:09 PM 
+- 🎡 [图解 React 的 diff 算法：核心就是两个字 —— 复用](https://juejin.cn/post/7131741751152214030) | Sun Aug 14 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
-    今年互联网的就业环境很差，我也不幸中枪，还好花了2周时间顺利过度。我们一定要居安思危，有忧患意识。近期我会整理一系列面试题系列的文章，包括：go开发语言层面、DB知识点、nosql知识点、微服务架构等 
+    React 是基于 vdom 的前端框架，组件 render 产生 vdom，然后渲染器把 vdom 渲染出来。 state 更新的时候，组件会重新 render，产生新的 vdom，在浏览器平台下， 
     </details> 
 
-- 🕯 [什么？Android 编译线程爆了， gradle 内存 OOM 解决之路](https://juejin.cn/post/7131717681069162533) | Sun Aug 14 2022 1:07 PM 
+- 🕯 [Web Worker](https://juejin.cn/post/7131738631424704543) | Sun Aug 14 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第1天，点击查看活动详情 背景 最近我们项目在编译的时候，编译多次之后，有挺多人反馈会出现 OOM 的，在项目的根目录下面会出现 h 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 在JavaScript程序中，你希望处理一些密集型的任务，但不希望在主线程运行（这会减慢浏览器/UI）， 
     </details> 
 
-- 🚀 [Vue 2 阅读理解（七）之 ParseHTML函数](https://juejin.cn/post/7131714599274938381) | Sun Aug 14 2022 12:55 PM 
+- 🚀 [对国际化 i18n 项目的一点思考](https://juejin.cn/post/7131737709231472670) | Sun Aug 14 2022 2:24 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 ParseHTML函数 - HTML 模板解析 之前在解析 parse 函数时，我们知道整个 解析 te 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情。 国际化是什么？ 国际化 对应的英文单词为 Internationalization，又称 i18n： i 
     </details> 
 
-- 💪 [女朋友说 Git 玩不明白，怎么办？安排！](https://juejin.cn/post/7131713973572861966) | Sun Aug 14 2022 12:53 PM 
+- 💪 [【Python】pygame-项目实战（10）-监听退出事件](https://juejin.cn/post/7131737672023801886) | Sun Aug 14 2022 2:24 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 在某个月黑风高的晚上，一脸愁容的女朋友突然跟我说，Git 老搞不明白，有什么比较好的经验可以分享下吗，说时迟，那时快，二话不说，立马开始奋笔疾书...... 在平时的 Coding 过程中，我们 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第15天，点击查看活动详情 1. 事件监听 首先，我们简单回顾一下事件监听，可以简单概括如下： 在游戏循环中，我们希望判断用户具体操 
     </details> 
 <!-- juejin:END -->
 ### 少数派
