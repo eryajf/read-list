@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [如何与失败的感受和解，停止对自己的失望和谴责？](http://daily.zhihu.com/story/9751685) | Sun Aug 14 2022 12:27 AM
-- 🐻 [为什么喝咖啡总觉得酸？如何才能喝出咖啡的香味？](http://daily.zhihu.com/story/9751695) | Sun Aug 14 2022 12:27 AM
-- 🌏 [古人为何如此重视随葬品？这又体现了古人怎样的生死观？](http://daily.zhihu.com/story/9751700) | Sun Aug 14 2022 12:27 AM
-- 🕴 [领导者和管理者的主要区别有哪些？](http://daily.zhihu.com/story/9751704) | Sun Aug 14 2022 12:27 AM
-- 🌮 [汽车的转向几何是怎么来的？](http://daily.zhihu.com/story/9751714) | Sun Aug 14 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9751751) | Mon Aug 15 2022 12:27 AM
+- 🐻 [当一个文明能够建造戴森球，那这个文明还需要戴森球吗？](http://daily.zhihu.com/story/9751724) | Mon Aug 15 2022 12:27 AM
+- 🌏 [如何克服对不确定性的焦虑？](http://daily.zhihu.com/story/9751731) | Mon Aug 15 2022 12:27 AM
+- 🕴 [古代人都穿什么，不同阶级的人在服饰面料方面都有哪些讲究？](http://daily.zhihu.com/story/9751736) | Mon Aug 15 2022 12:27 AM
+- 🌮 [用什么开关控制几百个电路中的通断？](http://daily.zhihu.com/story/9751738) | Mon Aug 15 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
