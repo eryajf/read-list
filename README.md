@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RTC 场景下的屏幕共享优化实践](https://juejin.cn/post/7131991375625535496) | Mon Aug 15 2022 6:49 AM 
+- 🤗 [前端埋点：如何拦截Message的弹窗信息？](https://juejin.cn/post/7132014269150789662) | Mon Aug 15 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-    屏幕共享是视频会议场景使用最广泛的功能之一，在共享一个 PPT 或者文档的情况下，人们对画面清晰度有着极高的要求。 
+    前端埋点：拦截Message弹窗的信息会使用到函数的劫持，那么函数的劫持有3种方式：apply，Object.defineProperty，proxy。 
     </details> 
 
-- 🎡 [经典动画《大闹天宫》4K 版上映，老动画是如何修复的？](https://juejin.cn/post/7131990997277343780) | Mon Aug 15 2022 6:48 AM 
+- 🎡 [49张图带领小伙伴们体验一把 Flowable-UI](https://juejin.cn/post/7132008835161522189) | Mon Aug 15 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
-    8月8日，第十二届北京国际电影节公布了展映片单，4K修复版《大闹天宫》亮相“修复经典”单元。这些老动画，是如何修复的？ 
+    不知道小伙伴们有没发发现，IDEA 中似乎没有一个特别称手的流程绘制工具，大家注意我说的是称手，不是能用。 我之前用过下图这个插件： 评价就是两个字：能用！ 官方提供了一个 flowable-ui，功 
     </details> 
 
-- 🕯 [开源图编辑库 NebulaGraph VEditor 的设计思路分享](https://juejin.cn/post/7131989589635366948) | Mon Aug 15 2022 6:42 AM 
+- 🕯 [命名规则](https://juejin.cn/post/7132008637425254431) | Mon Aug 15 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
-    VEditor 是一个拥有高性能、高可定制的所见即所得图可视化编辑器前端库，底层基于 SVG 绘图，它通过合理抽象代码结构以易于二次开发和自定义绘制，轻松支持了图查询，图建模等可视化场景。 
+    布尔值&lpar;Boolean&rpar;命名 Boolean值是两种逻辑状态的变量，它包含两个值：真和假。在JavaScript中对应 true 和 false，在实践中通常使用数字1表示真值，0来表示假值。 虽然B 
     </details> 
 
-- 🚀 [需求子任务的数据管理提效实践](https://juejin.cn/post/7131989472836583438) | Mon Aug 15 2022 6:41 AM 
+- 🚀 [TS+vue3 打套组合拳](https://juejin.cn/post/7132006760516157471) | Mon Aug 15 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-    公司目前通过TAPD对需求进行项目管理，公司的业务需要可视化的方式快速查看需求的资源情况，本文给大家介绍下2种通过技术手段减少相关同学的维护成本的方式。 
+    准备 在vscode 中使用Vue3 +ts 开发，还需要额外安装一个插件 Typescript Vue Plugin defineProps defineProps配合vue默认语法进行类型校验（运 
     </details> 
 
-- 💪 [写开源组件库需要知道些什么](https://juejin.cn/post/7131980358844678180) | Mon Aug 15 2022 6:06 AM 
+- 💪 [高性能Web平台-OpenResty压力测试和调优](https://juejin.cn/post/7132004000265666573) | Mon Aug 15 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
-    本文总结下近几年维护公司开源 React 组件库的一些经验。文章主要分为六部分讲解：组件编写、文档、构建/发包、开源、测试、其它 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第20天，点击查看活动详情 1.写在前面 在上一篇文章中，我们分享了高性能Web平台-OpenResty安装部署教程。 具体的详情可 
     </details> 
 <!-- juejin:END -->
 ### 少数派
