@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [安徽热成全国第一 重庆霸占高温榜7位：中央气象台继续发布高温红色预警](https://www.cnbeta.com/articles/tech/1304353.htm) | Sun Aug 14 2022 11:13 PM 
+- 🕯 [放弃DX9原生支持：Intel宣布12代CPU与Arc显卡拥抱DX12](https://www.cnbeta.com/articles/tech/1304485.htm) | Mon Aug 15 2022 3:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月14日是中伏的最后一天，中央气象台继续发布高温红色预警。11点，安徽马鞍山气温为39.7 ℃，位居全国高温榜第一，含山以39 ℃位居全国第五。不过很快，昨天下午17点左右，重庆在高温排行榜前十就占了7位：北碚44.5℃，奉节43.5℃，已经打破当地观测史气温最高纪录，热成了全国第一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，Intel已经将原生DirectX 9支持从自家的Arc独显，以及12代CPU中的Xe集显中移除，全面拥抱DirectX 12。根据Intel的说法，&lt;strong&gt;之前DX9的支持将被转移到DX12的仿真模式，在微软“D3D9On12”开源转换层上运行。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [赢了i9却输给i3？大脑相当于什么CPU](https://www.cnbeta.com/articles/tech/1304351.htm) | Sun Aug 14 2022 11:12 PM 
+- 💼 [理想ONE高速追尾工程车辆 官方回应：事故超出ADAS工作范围](https://www.cnbeta.com/articles/tech/1304483.htm) | Mon Aug 15 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;很多人会把CPU比喻为电脑的“大脑”，的确，CPU作为中央处理器承担着计算的作用，那么人的大脑相当于什么级别的CPU呢？其实把大脑比作CPU是太小瞧它了，因为大脑整合了包括硬盘显卡等设备的功能，而不单单是CPU，如果单纯看运算能力的话，两者倒是有可比性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月8日，一起理想ONE高速追尾工程车辆的车祸视频，引起网友关注热议。行车记录仪显示，事故车辆理想ONE在某高速路段，以77公里/时的车速行驶在最左侧车道，车道前方出现了一辆打着双闪停在路边的工程车，&lt;strong&gt;但理想 ONE 并没有识别到，AEB紧急制动也没有工作，车辆未减速径直撞了上去。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [这场奇葩lol骗局 全网都在讨论破解方法](https://hot.cnbeta.com/articles/game/1304349.htm) | Sun Aug 14 2022 11:08 PM 
+- 💂 [奥密克戎BA.5对当前的新冠激增意味着什么？](https://www.cnbeta.com/articles/science/1304481.htm) | Mon Aug 15 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不服 solo！我就想知道有多少人在游戏里和队友吵完架后，甩下过这句话？这是一句流传在众多游戏佬里的口头禅，像极了现实里骂到兴头上就会撂下 “ 等我回去叫人 ” 的狠话。当年，小发就有个朋友经常各种下帖求战，打赢了疯狂打字嘲讽，打输了火速删好友免得被喷，横竖不吃亏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;被称为BA.5的COVID奥密克戎亚变体于2022年2月在南非首次发现并迅速蔓延到世界各地。截至2022年7月的第二周，BA.5亚变体占美国COVID-19变体的近80%。2021年11月24日，南非的研究人员报告了奥密克戎变体的原始版本（B.1.1.529）后不久，许多科学家推测，如果奥密克戎的众多突变使它比前面的德尔塔变体更具传播性或在免疫规避方面更出色，那么奥密克戎将可能成为全世界的主导变体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Intel/AMD/NVIDIA表现疲软 为何产品降价也不能刺激购买？](https://www.cnbeta.com/articles/tech/1304347.htm) | Sun Aug 14 2022 11:05 PM 
+- 🚀 [同一岗位年薪相差近3倍 美科技巨头逃离硅谷](https://www.cnbeta.com/articles/tech/1304479.htm) | Mon Aug 15 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不得不否认，PC已经是过去式了，至少从目前的情况看是这样，巨头们产品越来越不好卖也是事实，所以所有的产品其是都有周期。存储芯片公司美光警告称，PC需求表现疲软，市场充满挑战。NV也预发布了季度财报，第二季度营收仅为67亿美元，远低于此前预计的81亿美元，令华尔街震动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月15日消息，截至今年8月，6名Meta高管离开了加州总部，迁往英国伦敦，其中就包括Instagram 负责人亚当·莫塞里 &lpar;Adam Mosseri&rpar;。甫一抵英，莫塞里团队就在英国大规雇佣开发和产品人员，但同一岗位薪资比起美国总部却大打折扣。导致这一差距的原因主要有两个方面：&lt;strong&gt;生活成本以及美国对技术专家的需求膨胀&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马斯克称特斯拉已经生产了超过300万辆汽车 其中上海厂生产了1/3](https://www.cnbeta.com/articles/tech/1304345.htm) | Sun Aug 14 2022 8:50 PM 
+- 🎊 [加州水库为节水投放的巨量塑料小球 引发了意料之外的长期争议](https://www.cnbeta.com/articles/science/1304477.htm) | Mon Aug 15 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉CEO马斯克周日在推特上表示，特斯拉已经生产了超过300万辆汽车。这条推文称，其中特斯拉上海工厂生产了100万辆汽车。马斯克周日庆祝的汽车总量成就是在特斯拉报告的交付量（最接近销量的近似值）在最近几个季度一直在上升之后实现的。7月份，特斯拉表示，第二季度交付了254695辆汽车，同比增长26.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;为了减少水库蒸发量、降低水中溴酸盐含量并防止藻类生长，洛杉矶水电局（LAWPD）率先于 2008 年在艾芬豪水库中投放了 4000 个直径 4 英寸的遮光球。&lt;/strong&gt;据 PBS 所述，与其它方案相比，塑料小球可节省多达 2.5 亿美元的资金。2015 年之后，该机构又将 9600 万个遮光球投放到了洛杉矶另一座 175 英亩的水库中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
