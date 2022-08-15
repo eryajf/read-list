@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [一日一技 | 如何快速上手注音输入法](https://sspai.com/post/75103) | Mon Aug 15 2022 8:01 AM 
+- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/75164) | Mon Aug 15 2022 9:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75164&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [一日一技 | 如何快速上手注音输入法](https://sspai.com/post/75103) | Mon Aug 15 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
     一项有趣的知识储备。&lt;a href=&quot;https://sspai.com/post/75103&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [数字文具盒 | 都是输入、沉淀与输出，我的选择有什么不一样](https://sspai.com/post/75127) | Mon Aug 15 2022 6:28 AM 
+- 🤭 [数字文具盒 | 都是输入、沉淀与输出，我的选择有什么不一样](https://sspai.com/post/75127) | Mon Aug 15 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75127&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [獭可派 | 可背可提还「上镜」：为什么你该试试 Bellroy](https://sspai.com/post/75123) | Mon Aug 15 2022 3:00 AM 
+- 🥸 [獭可派 | 可背可提还「上镜」：为什么你该试试 Bellroy](https://sspai.com/post/75123) | Mon Aug 15 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     点击领取满700减70优惠券点击领取满1000减150优惠券点击领取满1400减280优惠券注：对领券及使用有任何疑问或需要帮助请直接联系Bellroy天猫国际旗舰店客服，发送「少数派」即可获取详细信 ...&lt;a href=&quot;https://sspai.com/post/75123&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：苹果脸书曾就广告分成谈判但未果、网信办公示算法备案清单等](https://sspai.com/post/75147) | Mon Aug 15 2022 12:51 AM 
+- 🙉 [派早报：苹果脸书曾就广告分成谈判但未果、网信办公示算法备案清单等](https://sspai.com/post/75147) | Mon Aug 15 2022 12:51 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事Apple和Facebook曾就广告分成谈判但未果据《华尔街日报》报道，知情人士透露，2016年至2018年期间，Apple与Facebook曾经就广告分成和业务合作进行过谈判。双方 ...&lt;a href=&quot;https://sspai.com/post/75147&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [不治之症如何治——聊聊癌症的来历、治疗和现状](https://sspai.com/post/75143) | Sun Aug 14 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    这篇文章，我们从癌症的定义与发展开始，简单聊聊癌症的治疗手段都有什么，希望可以帮你消除一些对疾病与治疗的恐惧。&lt;a href=&quot;https://sspai.com/post/75143&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
