@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [建筑师正设法让太阳能外墙完全满足办公大楼的电力需求](https://www.cnbeta.com/articles/science/1304699.htm) | Mon Aug 15 2022 12:28 PM 
+- 🕯 [视频游戏公司Unity拒绝AppLovin 175亿美元收购要约](https://hot.cnbeta.com/articles/game/1304715.htm) | Mon Aug 15 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;澳大利亚公司Kennon透露了墨尔本一个雄心勃勃的新项目的计划。被命名为550 Spencer的八层办公大楼将使用由1182块太阳能电池板组成的尖端太阳能外墙，生产超过其需求的电力。550 Spencer的设计并不是像哥本哈根的国际学校那样简单地在外墙上安装标准的太阳能电池板。相反，它的太阳能外墙看起来像玻璃，但将利用1182块集成太阳能电池板从太阳光中获取能量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，游戏软件平台Unity Software今日拒绝了游戏软件公司AppLovin 175.4亿美元的收购要约。同时，Unity Software还表示，将继续执行之前所宣布的“收购移动应用货币化软件公司ironSource”交易。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [月饼新规今日开始实施 和“天价”月饼说拜拜](https://www.cnbeta.com/articles/tech/1304697.htm) | Mon Aug 15 2022 12:23 PM 
+- 💼 [马斯克的SpaceX称欢迎“攻击”星链：可获近17万元奖励](https://www.cnbeta.com/articles/tech/1304713.htm) | Mon Aug 15 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本月早些时候，根据&lt;a class=&quot;f14_link&quot; href=&quot;https://www.cca.org.cn/zxsd/detail/30471.html&quot; target=&quot;_blank&quot;&gt;中消协官网&lt;/a&gt;消息，&lt;strong&gt;中国消费者协会与中国焙烤食品糖制品工业协会将在中秋节前联合对月饼过度包装情况进行消费监督，倡导月饼产品回归食品本身属性和简约适度包装的理念。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Insider报道，近日，马斯克的SpaceX公司表示，欢迎各位研究人员“攻击”其Starlink（星链），并称如果他们发现了服务器中的某些漏洞，将向他们支付最高2.5万美元（折合人民币近17万元）的奖励。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel显卡首秀光追渲染：性能保密](https://www.cnbeta.com/articles/tech/1304695.htm) | Mon Aug 15 2022 12:22 PM 
+- 💂 [Apple Watch提醒有糖尿病史的摄像师及时完成自救 挽救其生命](https://www.cnbeta.com/articles/tech/1304711.htm) | Mon Aug 15 2022 1:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然打游戏还没打磨好，但是Intel已经迫不及待地将Arc显卡推进到了专业工作站领域，宣布了全新的Arc Pro系列专业卡。SIGGRAPH 2022图形大会上，Intel首次展示了Arc显卡专业渲染的表现，但用的不是Arc Pro，而是旗舰级游戏卡Arc A770。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在另一个关于Apple Watch功能如何拯救佩戴者的故事中，这一次，视频制作人Justin Eastzer归功于他的连续葡萄糖监测器（CGM）和苹果公司的可穿戴设备在事情失去控制之前提醒了他。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [TikTok开始在应用中提供一个基本款文本到图像AI生成器](https://www.cnbeta.com/articles/tech/1304693.htm) | Mon Aug 15 2022 12:20 PM 
+- 🚀 [华为海思手机芯片出货同比下降约达81.5% 已被高通、苹果甩开](https://www.cnbeta.com/articles/tech/1304709.htm) | Mon Aug 15 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;文本-图像人工智能系统目前在能力和受欢迎程度上都在蓬勃发展，还有什么比它们出现在世界最热门的应用程序中更好的证明？那就是TikTok。这个视频平台最近增加了一种新的效果，它称之为&amp;quot;人工智能绿屏&amp;quot;，允许用户输入文字提示，然后软件会生成一个图像。这张图片随后可以作为视频的背景--对创作者来说可能是一个非常有用的工具。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年的今天，依然有很多粉丝在怀念华为的麒麟9000处理器，尽管发布已经2年了，也没用上X1/X2架构，但麒麟9000的性能及能效表现依然可圈可点，遗憾的是它已经绝版了，伴随而来的是华为海思手机芯片出货量大幅下滑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [明星光环褪去 周杰伦、陈冠希站台的NFT价格暴跌](https://www.cnbeta.com/articles/tech/1304691.htm) | Mon Aug 15 2022 12:16 PM 
+- 🎊 [Moderna首个针对Omicron二价新冠疫苗于英国获批](https://www.cnbeta.com/articles/tech/1304707.htm) | Mon Aug 15 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在加密货币熊市之下，NFT板块持续下跌。截至8月15日，NFT市场总市值已由今年2月366亿美元的高点跌至239亿美元，跌幅超38%。NFT单日交易额由33.94亿美元的高点跌至不到0.15亿美元，下降了99.56%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一种可能每年只需要注射一次的“下一代”新冠疫苗加强针已被批准用于英国成年人。英国药品和保健产品监管局&lpar;MHRA&rpar;已批准Moderna&lpar;MRNA.US&rpar;的二价疫苗，该疫苗针对的是新冠病毒原始毒株和Omicron变体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
