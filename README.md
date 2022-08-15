@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [SnipThat - 保存您在浏览时发现的有趣的文本片段](https://xinquji.com/posts/178745?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:28 AM 
+- 👀 [Datalogz Power BI Connector - 自助分析环境](https://xinquji.com/posts/178755?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     保存您在浏览时发现的有趣的文本片段  
+     自助分析环境  
     </details> 
 
-- 🥷 [Loxperts - 本地化专家的自由职业者市场](https://xinquji.com/posts/178744?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:28 AM 
+- 🥷 [Poliview - 您通往政治世界的智能指南针](https://xinquji.com/posts/178754?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     本地化专家的自由职业者市场  
+     您通往政治世界的智能指南针  
     </details> 
 
-- 💼 [Pokemon Picker - 将您最喜爱的 Pokémon TCG 卡添加到 FigJam](https://xinquji.com/posts/178743?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:26 AM 
+- 💼 [UX Portfolio Playbook - 让你被录用的分步系统](https://xinquji.com/posts/178753?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     将您最喜爱的 Pokémon TCG 卡添加到 FigJam  
+     让你被录用的分步系统  
     </details> 
 
-- 🦅 [Realtime Crypto Investment Tracker - 具有实时加密定价的动态概念模板](https://xinquji.com/posts/178742?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:26 AM 
+- 🦅 [EpicTopia - 跟踪、管理和社交生活旅程](https://xinquji.com/posts/178752?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     具有实时加密定价的动态概念模板  
+     跟踪、管理和社交生活旅程  
     </details> 
 
-- 😺 [Later Cam - 把你的手机变成一个老式的一次性相机](https://xinquji.com/posts/178741?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:24 AM 
+- 😺 [Email Warm-Up by Snov.io - 预热您的电子邮件以提高送达率并获得回复](https://xinquji.com/posts/178751?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     把你的手机变成一个老式的一次性相机  
+     预热您的电子邮件以提高送达率并获得回复  
     </details> 
 <!-- xinquji:END -->
