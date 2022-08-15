@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [笔记本不知道选哪个](https://www.v2ex.com/t/872965#reply7) | Mon Aug 15 2022 5:55 AM
-- 🤗 [小记， django select 字段中含有连表查询 分页优化](https://www.v2ex.com/t/872940#reply0) | Mon Aug 15 2022 4:09 AM
-- 🎭 [请教：数据库表达类型，用字符串还是数字](https://www.v2ex.com/t/872931#reply14) | Mon Aug 15 2022 3:40 AM
-- 🥷 [XDM，请问下域名解析的相关问题](https://www.v2ex.com/t/872919#reply33) | Mon Aug 15 2022 3:14 AM
-- 🐵 [Visual Studio Code Python - 2022 年 8 月更新 - Web 应用程序的自动调试配置 , 使用体验改进](https://www.v2ex.com/t/872917#reply1) | Mon Aug 15 2022 3:08 AM<!-- v2ex:END -->
+- 🥸 [Maven 依赖包的问题](https://www.v2ex.com/t/872981#reply1) | Mon Aug 15 2022 7:05 AM
+- 🤗 [我正在录一套比较深入的 TypeScript 课程，无废话](https://www.v2ex.com/t/872979#reply1) | Mon Aug 15 2022 7:00 AM
+- 🎭 [vue 项目单步调试还是 console.log？](https://www.v2ex.com/t/872978#reply2) | Mon Aug 15 2022 6:51 AM
+- 🥷 [有没有用 echo 的兄弟，怎么判断 echo 服务启动成功，然后执行一些其他逻辑的](https://www.v2ex.com/t/872977#reply0) | Mon Aug 15 2022 6:49 AM
+- 🐵 [BOSS 直聘的那种 im 聊天的是怎么实现的呢](https://www.v2ex.com/t/872975#reply1) | Mon Aug 15 2022 6:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
