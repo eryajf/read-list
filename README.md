@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究人员通过9000年历史数据预测地球磁极不会很快发生翻转](https://www.cnbeta.com/articles/science/1304487.htm) | Mon Aug 15 2022 4:10 AM 
+- 🕯 [Linux 6.0-rc1发布：完善新硬件支持 性能大优化](https://www.cnbeta.com/articles/tech/1304511.htm) | Mon Aug 15 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;众所周知，地球磁场提供的隐形屏障，可帮助我们抵御太阳风和宇宙中高度危险的环境。&lt;strong&gt;然而随着南大西洋出现了一个地磁强度迅速下降的神秘区域，一些人推测地球的磁极或即将迎来翻转。&lt;/strong&gt;但在 2022 年 6 月 6 日发表于 PNAS 上的一项新研究中，另一派科学家们认为这件事不会很快发生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;经历两周的合并窗口，Linus Torvalds 终于赶在周日下午发布了 Linux 6.0 主线内核的首个“候选发布”（rc1）版本。&lt;/strong&gt;在接下来的大约两个月内，团队将专注于 Linux 6.0 内核的稳定性改进。不过从 Phoronix 的早期测试体验来看，其已在各种系统上表现得相当良好、功能和性能都没啥拖后腿的地方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [放弃DX9原生支持：Intel宣布12代CPU与Arc显卡拥抱DX12](https://www.cnbeta.com/articles/tech/1304485.htm) | Mon Aug 15 2022 3:59 AM 
+- 💼 [全球首搭4颗华为激光雷达 长城机甲龙实车曝光](https://www.cnbeta.com/articles/tech/1304509.htm) | Mon Aug 15 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，Intel已经将原生DirectX 9支持从自家的Arc独显，以及12代CPU中的Xe集显中移除，全面拥抱DirectX 12。根据Intel的说法，&lt;strong&gt;之前DX9的支持将被转移到DX12的仿真模式，在微软“D3D9On12”开源转换层上运行。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，网络上曝光了一组长城旗下高端品牌&lt;strong&gt;沙龙首款车型机甲龙量产版&lt;/strong&gt;的测试照片。该车于定位四门轿跑车，CLTC续航里程802km，搭载4颗激光雷达，于去年11月开幕的2021广州车展正式亮相，并且公布了&lt;strong&gt;全球限量版车型售价48.8万&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [理想ONE高速追尾工程车辆 官方回应：事故超出ADAS工作范围](https://www.cnbeta.com/articles/tech/1304483.htm) | Mon Aug 15 2022 3:39 AM 
+- 💂 [研究人员开发优于天然软骨的水凝胶 将在2023年进行临床试验](https://www.cnbeta.com/articles/science/1304507.htm) | Mon Aug 15 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月8日，一起理想ONE高速追尾工程车辆的车祸视频，引起网友关注热议。行车记录仪显示，事故车辆理想ONE在某高速路段，以77公里/时的车速行驶在最左侧车道，车道前方出现了一辆打着双闪停在路边的工程车，&lt;strong&gt;但理想 ONE 并没有识别到，AEB紧急制动也没有工作，车辆未减速径直撞了上去。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;关节疼痛是一种常见的衰老疾病，因为软骨容易磨损。现在，&lt;strong&gt;杜克大学的研究人员开发了一种新的水凝胶，它比真实的软骨更强、更耐用，这可以使膝关节植入物更持久。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [奥密克戎BA.5对当前的新冠激增意味着什么？](https://www.cnbeta.com/articles/science/1304481.htm) | Mon Aug 15 2022 3:39 AM 
+- 🚀 [《英雄联盟》VIT战队不敌XL无缘世界赛 “快乐阿P”Perkz宣布要退役了](https://hot.cnbeta.com/articles/game/1304505.htm) | Mon Aug 15 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;被称为BA.5的COVID奥密克戎亚变体于2022年2月在南非首次发现并迅速蔓延到世界各地。截至2022年7月的第二周，BA.5亚变体占美国COVID-19变体的近80%。2021年11月24日，南非的研究人员报告了奥密克戎变体的原始版本（B.1.1.529）后不久，许多科学家推测，如果奥密克戎的众多突变使它比前面的德尔塔变体更具传播性或在免疫规避方面更出色，那么奥密克戎将可能成为全世界的主导变体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;就在今日，我们中国LOL玩家熟悉的“快乐阿P”Perkz所在的VIT战队加赛不敌XL无缘LEC季后赛，这也成为Perkz职业生涯中首次无缘世界赛。Perkz难掩悲伤，在确认无缘S赛后更推：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [同一岗位年薪相差近3倍 美科技巨头逃离硅谷](https://www.cnbeta.com/articles/tech/1304479.htm) | Mon Aug 15 2022 3:38 AM 
+- 🎊 [国产特斯拉本地化率已超95% 网友：只剩车标是美国造](https://www.cnbeta.com/articles/tech/1304503.htm) | Mon Aug 15 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月15日消息，截至今年8月，6名Meta高管离开了加州总部，迁往英国伦敦，其中就包括Instagram 负责人亚当·莫塞里 &lpar;Adam Mosseri&rpar;。甫一抵英，莫塞里团队就在英国大规雇佣开发和产品人员，但同一岗位薪资比起美国总部却大打折扣。导致这一差距的原因主要有两个方面：&lt;strong&gt;生活成本以及美国对技术专家的需求膨胀&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月15日，特斯拉方面宣布，上海超级工厂第100万辆整车已驶下生产线。马斯克发文表示：“祝贺特斯拉上海超级工厂生产第100万辆车！特斯拉全球累计生产已超过300万辆。”当日午间，特斯拉对外事务副总裁陶琳转发该微博，&lt;strong&gt;向上海工厂团队致敬，并透露上海工厂供应链本地化率已经超过95%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
