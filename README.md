@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [CISA、FBI 发布联合公告，警告 Zeppelin 勒索软件攻击](https://www.freebuf.com/news/341907.html) | Mon Aug 15 2022 3:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    Zeppelin 勒索软件于2019 年11月首次出现在威胁领域。 
+    </details> 
+
 - 🦄 [竟然不设密码！调查发现全球超9000台VNC 服务器存暴露风险](https://www.freebuf.com/news/341900.html) | Mon Aug 15 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
     在黑客论坛上，通过暴露或破解的VNC访问关键网络的需求很高，在某些情况下，这种访问可以用于更深层次的网络渗透。 
     </details> 
 
-- 🦄 [美国制裁加密货币混合，Tornado Cash员工遭逮捕](https://www.freebuf.com/articles/341895.html) | Mon Aug 15 2022 3:07 AM 
+- 🦅 [美国制裁加密货币混合，Tornado Cash员工遭逮捕](https://www.freebuf.com/articles/341895.html) | Mon Aug 15 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     荷兰有关当局宣布，美国在阿姆斯特丹逮捕了一名加密货币混合器工作的软件开发人员。 
     </details> 
 
-- 🦅 [Killnet黑客组织声称已“攻破”洛克希德-马丁公司](https://www.freebuf.com/news/341896.html) | Mon Aug 15 2022 3:06 AM 
+- 🪄 [Killnet黑客组织声称已“攻破”洛克希德-马丁公司](https://www.freebuf.com/news/341896.html) | Mon Aug 15 2022 3:06 AM 
     <details><summary>展开描述 ...</summary> 
     《莫斯科时报》披露，黑客组织 Killnet 声称对航空航天和国防巨头洛克希德-马丁公司发动了一次大规模 DDoS 攻击。 
     </details> 
 
-- 🪄 [因收集Android 位置数据，Google被罚六千万美元](https://www.freebuf.com/news/341890.html) | Mon Aug 15 2022 2:43 AM 
+- 💻 [因收集Android 位置数据，Google被罚六千万美元](https://www.freebuf.com/news/341890.html) | Mon Aug 15 2022 2:43 AM 
     <details><summary>展开描述 ...</summary> 
     澳大利亚公平竞争和消费者委员会称，谷歌因收集数据时误导用户，被处以6000万澳元&lpar;约合人民币2.88亿元&rpar;罚款。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 首批针对星链卫星网的攻击手法曝光；Instagram被曝跟踪用户网络活动](https://www.freebuf.com/news/341878.html) | Sun Aug 14 2022 2:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    研究人员只需要花费25美元，就能用小零件制作出硬件入侵工具，在星链卫星天线上运行任意代码。 
     </details> 
 <!-- freebuf:END -->
 
