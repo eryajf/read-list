@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端埋点：如何拦截Message的弹窗信息？](https://juejin.cn/post/7132014269150789662) | Mon Aug 15 2022 8:18 AM 
+- 🤗 [2022年能让你早点下班的36个JavaScript实用函数！](https://juejin.cn/post/7132019982644772901) | Mon Aug 15 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
-    前端埋点：拦截Message弹窗的信息会使用到函数的劫持，那么函数的劫持有3种方式：apply，Object.defineProperty，proxy。 
+    JavaScript 是一个很复杂的语言，很多新手在使用它开发应用的时候会发现很多功能无从下手。有了我根据功能分类总结的 36 个 JavaScript 技巧，复制粘贴一键搞定！ 
     </details> 
 
-- 🎡 [49张图带领小伙伴们体验一把 Flowable-UI](https://juejin.cn/post/7132008835161522189) | Mon Aug 15 2022 7:58 AM 
+- 🎡 [Go-Excelize API源码阅读（十四）——GetSheetFormatPr](https://juejin.cn/post/7131983142763626503) | Mon Aug 15 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-    不知道小伙伴们有没发发现，IDEA 中似乎没有一个特别称手的流程绘制工具，大家注意我说的是称手，不是能用。 我之前用过下图这个插件： 评价就是两个字：能用！ 官方提供了一个 flowable-ui，功 
+    Excelize 是 Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，ISO/IEC 29500 国际标准。可以使用它来读取、写入由 Microsoft Exc 
     </details> 
 
-- 🕯 [命名规则](https://juejin.cn/post/7132008637425254431) | Mon Aug 15 2022 7:58 AM 
+- 🕯 [Kubernetes—数据存储](https://juejin.cn/post/7131972082023268360) | Mon Aug 15 2022 5:34 AM 
     <details><summary>展开描述 ...</summary> 
-    布尔值&lpar;Boolean&rpar;命名 Boolean值是两种逻辑状态的变量，它包含两个值：真和假。在JavaScript中对应 true 和 false，在实践中通常使用数字1表示真值，0来表示假值。 虽然B 
+    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 概述   容器的生命周期可能很短，会被频繁地创建和销毁。那么容器在销毁时，保存在容器中的数据也会被清除。这种结果对用户来说，在某些情况下是不乐意 
     </details> 
 
-- 🚀 [TS+vue3 打套组合拳](https://juejin.cn/post/7132006760516157471) | Mon Aug 15 2022 7:49 AM 
+- 🚀 [JWT：谁创造了我，我听命于谁](https://juejin.cn/post/7131956073472196621) | Mon Aug 15 2022 4:33 AM 
     <details><summary>展开描述 ...</summary> 
-    准备 在vscode 中使用Vue3 +ts 开发，还需要额外安装一个插件 Typescript Vue Plugin defineProps defineProps配合vue默认语法进行类型校验（运 
+    hi，这里是桑小榆。上篇我们一起探讨了jwt的特性，以及各个部分的组成原理。本篇我们以代码实操去打造一个授权体系，为进一步探讨并理解jwt。 细心的伙伴会发现，我们无需界定语言来使用jwt，任一语言， 
     </details> 
 
-- 💪 [高性能Web平台-OpenResty压力测试和调优](https://juejin.cn/post/7132004000265666573) | Mon Aug 15 2022 7:38 AM 
+- 💪 [Java异常机制详解](https://juejin.cn/post/7131954099418824718) | Mon Aug 15 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第20天，点击查看活动详情 1.写在前面 在上一篇文章中，我们分享了高性能Web平台-OpenResty安装部署教程。 具体的详情可 
+    异常机制详解 异常的层次结构 Throwable Throwable 是 Java 语言中所有错误与异常的超类。 Throwable 包含两个子类：Error（错误）和 Exception（异常），它 
     </details> 
 <!-- juejin:END -->
 ### 少数派
