@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [哈勃太空望远镜发现一个闪烁的球状星团](https://www.cnbeta.com/articles/science/1304719.htm) | Mon Aug 15 2022 1:59 PM 
+- 🕯 [黑客对拖拉机越狱行为掀起农民争取维修权的浪潮](https://www.cnbeta.com/articles/tech/1304725.htm) | Mon Aug 15 2022 2:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;世界各地的农民已经转向拖拉机黑客，以便他们能够绕过制造商强加给他们车辆的数字锁。&lt;/strong&gt;就像胰岛素泵的 &amp;quot;循环 &amp;quot;和iPhone的越狱一样，这使得农民可以修改和修理对他们工作至关重要的昂贵设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [周杰伦《粉色海洋》MV正式上线 父子携手送浪漫](https://hot.cnbeta.com/articles/music/1304723.htm) | Mon Aug 15 2022 2:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今晚八点，杰威尔音乐正式公布了周杰伦新曲《粉色海洋》的MV视频，周杰伦携手儿子Romeo放送浪漫，一起来看一下吧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1304723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [LG Display正在开发20英寸OLED面板和可弯曲型号](https://www.cnbeta.com/articles/tech/1304721.htm) | Mon Aug 15 2022 2:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;LG Display正在准备一款20英寸的OLED显示屏，预计今年年底前提供给其合作伙伴。&lt;/strong&gt;厂方表示它是为&amp;quot;个人设备&amp;quot;设计制造的，但20英寸对于平板电脑或笔记本电脑显示屏来说似乎太大了。爆料的韩国媒体The Elec没有提到该面板的长宽比，但即使是16:9或16:10，这似乎也是为小型台式机显示器或大尺寸游戏笔记本准备的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [哈勃太空望远镜发现一个闪烁的球状星团](https://www.cnbeta.com/articles/science/1304719.htm) | Mon Aug 15 2022 1:59 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;这张闪烁的图片是由NASA/ESA哈勃太空望远镜的宽视场相机3和高级观测相机拍摄的，展示了人马座的球状星团NGC 6540。&lt;/strong&gt;这两台仪器各自的视场略有不同，这决定了每台仪器在同一时间捕捉到的天空面积有多大。这张合成图片显示了两台仪器视场内所捕捉到的星光灿烂的天空区域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [法拉第未来宣布5200万美元新融资](https://www.cnbeta.com/articles/tech/1304717.htm) | Mon Aug 15 2022 1:44 PM 
+- 🎊 [法拉第未来宣布5200万美元新融资](https://www.cnbeta.com/articles/tech/1304717.htm) | Mon Aug 15 2022 1:44 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;贾跃亭又找到钱了，能继续造车了。&lt;strong&gt;今晚，法拉第未来宣布新融资，称新的担保票据工具提供5200万美元（约3.5亿人民币）的承诺资金，&lt;/strong&gt;并表示正与多个投资者积极商谈追加融资事宜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [视频游戏公司Unity拒绝AppLovin 175亿美元收购要约](https://hot.cnbeta.com/articles/game/1304715.htm) | Mon Aug 15 2022 1:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，游戏软件平台Unity Software今日拒绝了游戏软件公司AppLovin 175.4亿美元的收购要约。同时，Unity Software还表示，将继续执行之前所宣布的“收购移动应用货币化软件公司ironSource”交易。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [马斯克的SpaceX称欢迎“攻击”星链：可获近17万元奖励](https://www.cnbeta.com/articles/tech/1304713.htm) | Mon Aug 15 2022 1:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Insider报道，近日，马斯克的SpaceX公司表示，欢迎各位研究人员“攻击”其Starlink（星链），并称如果他们发现了服务器中的某些漏洞，将向他们支付最高2.5万美元（折合人民币近17万元）的奖励。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Apple Watch提醒有糖尿病史的摄像师及时完成自救 挽救其生命](https://www.cnbeta.com/articles/tech/1304711.htm) | Mon Aug 15 2022 1:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在另一个关于Apple Watch功能如何拯救佩戴者的故事中，这一次，视频制作人Justin Eastzer归功于他的连续葡萄糖监测器（CGM）和苹果公司的可穿戴设备在事情失去控制之前提醒了他。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
