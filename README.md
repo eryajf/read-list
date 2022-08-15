@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Linux 6.0-rc1发布：完善新硬件支持 性能大优化](https://www.cnbeta.com/articles/tech/1304511.htm) | Mon Aug 15 2022 6:22 AM 
+- 🕯 [保时捷客服回应“186万豪车当街起火”：如有缺陷会召回](https://www.cnbeta.com/articles/tech/1304557.htm) | Mon Aug 15 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;经历两周的合并窗口，Linus Torvalds 终于赶在周日下午发布了 Linux 6.0 主线内核的首个“候选发布”（rc1）版本。&lt;/strong&gt;在接下来的大约两个月内，团队将专注于 Linux 6.0 内核的稳定性改进。不过从 Phoronix 的早期测试体验来看，其已在各种系统上表现得相当良好、功能和性能都没啥拖后腿的地方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，有消息称一辆保时捷Panamera在广东省广州市白云区当街起火。针对此事，中新经纬以消费者身份致电了保时捷中国，问及是否存在该起火事件，客服表示除非当事车主本人查询，否则无法查询到相关详情。如车型存在缺陷，有同款车型的车主请关注召回信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [全球首搭4颗华为激光雷达 长城机甲龙实车曝光](https://www.cnbeta.com/articles/tech/1304509.htm) | Mon Aug 15 2022 6:20 AM 
+- 💼 [硬件付费订阅引众怒 黑客向宝马宣战：将免费破解给车主使用](https://www.cnbeta.com/articles/tech/1304555.htm) | Mon Aug 15 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，网络上曝光了一组长城旗下高端品牌&lt;strong&gt;沙龙首款车型机甲龙量产版&lt;/strong&gt;的测试照片。该车于定位四门轿跑车，CLTC续航里程802km，搭载4颗激光雷达，于去年11月开幕的2021广州车展正式亮相，并且公布了&lt;strong&gt;全球限量版车型售价48.8万&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前段时间，宝马宣布将为今后的新车推出远程付费升级服务，包括座椅加热、自适应巡航等功能，&lt;strong&gt;客户可以在需要的时候，暂时或者永久付费开通某些功能。&lt;/strong&gt;韩国和英国等市场，已经上线了部分服务，英国车主每月花15英镑&lpar;约合人民币120元&rpar;激活加热座椅等设备，或每月花35英镑&lpar;42美元&rpar;激活主动巡航控制设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究人员开发优于天然软骨的水凝胶 将在2023年进行临床试验](https://www.cnbeta.com/articles/science/1304507.htm) | Mon Aug 15 2022 6:19 AM 
+- 💂 [狗狗感染猴痘引发了关于这种病毒从人类传染给动物的问题](https://www.cnbeta.com/articles/science/1304553.htm) | Mon Aug 15 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;关节疼痛是一种常见的衰老疾病，因为软骨容易磨损。现在，&lt;strong&gt;杜克大学的研究人员开发了一种新的水凝胶，它比真实的软骨更强、更耐用，这可以使膝关节植入物更持久。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据 《新闻周刊》报道，猴痘病毒继续在美国和世界各国蔓延，但首次有狗在主人出现症状后检测呈阳性。人们一直不清楚这种病毒是否可以从人类传播到动物，因为这种病毒是人畜共患的，这意味着它更常见于从动物到人类的传播。然而，&lt;strong&gt;《&lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736&lpar;22&rpar;01487-8/fulltext&quot; target=&quot;_self&quot;&gt;柳叶刀&lt;/a&gt;》杂志最近的一份报告显示，有证据表明两名同居的男性患者感染了猴痘病毒，并且很可能将病毒传染给了他们4岁的意大利灰狗。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《英雄联盟》VIT战队不敌XL无缘世界赛 “快乐阿P”Perkz宣布要退役了](https://hot.cnbeta.com/articles/game/1304505.htm) | Mon Aug 15 2022 6:17 AM 
+- 🚀 [小鹏车主出车祸被护栏插中身亡，小鹏回应：事发时车辆属于手动驾驶状态](https://www.cnbeta.com/articles/tech/1304551.htm) | Mon Aug 15 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在今日，我们中国LOL玩家熟悉的“快乐阿P”Perkz所在的VIT战队加赛不敌XL无缘LEC季后赛，这也成为Perkz职业生涯中首次无缘世界赛。Perkz难掩悲伤，在确认无缘S赛后更推：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，日前，浙江梁先生的侄子在驾驶小鹏汽车时，发生交通事故身亡。&lt;strong&gt;事故发生时，车辆没有明显刹车痕迹，发生碰撞后，气囊并未弹出，引起家属质疑。&lt;/strong&gt;行车记录仪拍下的视频显示，驾驶员在行驶途中逐渐偏离车道，最终导致车辆撞上隔离栏。其中被撞击的一截栏杆伤害到驾驶员的大脑。据了解，这也是导致该驾驶员身亡的原因。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国产特斯拉本地化率已超95% 网友：只剩车标是美国造](https://www.cnbeta.com/articles/tech/1304503.htm) | Mon Aug 15 2022 6:15 AM 
+- 🎊 [匈牙利工厂建成之后 宁德时代在欧洲就将有两大生产基地](https://www.cnbeta.com/articles/tech/1304547.htm) | Mon Aug 15 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月15日，特斯拉方面宣布，上海超级工厂第100万辆整车已驶下生产线。马斯克发文表示：“祝贺特斯拉上海超级工厂生产第100万辆车！特斯拉全球累计生产已超过300万辆。”当日午间，特斯拉对外事务副总裁陶琳转发该微博，&lt;strong&gt;向上海工厂团队致敬，并透露上海工厂供应链本地化率已经超过95%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周五宁德时代发布公告称，公司第三届董事会第九次会议审议通过了《关于投资建设匈牙利时代新能源电池产业基地项目的议案》，将投资不超过73.4亿欧元，在匈牙利德布勒森市建设100GWh动力电池系统生产线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
