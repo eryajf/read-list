@@ -393,9 +393,9 @@
     在某些业务场景下，接入第三方库实现轮播图效果可能并没有那么好用，笔者在接入Swiper插件失败后，还是决定手写一个。那么关于手写轮播图有很多文章已经讲过了，其核心原理是将图片排成一排，设置外层的Div 
     </details> 
 
-- 💪 [Flutter中的ValueNotifier和ValueListenableBuilder](https://juejin.cn/post/7132000226331590692) | Mon Aug 15 2022 7:23 AM 
+- 💪 [写代码也要讲规矩——SLA](https://juejin.cn/post/7132030165038661646) | Mon Aug 15 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
-    在这篇文章中，我们将深入探讨ValueNotifier及其相应的主题。 ValueNotifier简介 ValueNotifier是继承自ChangeNotifier的一个类。该类可以保存单个值，并每 
+    软件的复杂性带来的问题 工作一年多了，在涉及到跨部门合作的时候往往就是最痛苦的时候，其实道理很简单，刚开始，我们的组织和产品如左图，一切都比较简单，为了业务的发展，通过人工快速吃到技术和产品的红利，很 
     </details> 
 <!-- juejin:END -->
 ### 少数派
