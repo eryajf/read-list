@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [视频游戏公司Unity拒绝AppLovin 175亿美元收购要约](https://hot.cnbeta.com/articles/game/1304715.htm) | Mon Aug 15 2022 1:32 PM 
+- 🕯 [哈勃太空望远镜发现一个闪烁的球状星团](https://www.cnbeta.com/articles/science/1304719.htm) | Mon Aug 15 2022 1:59 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;这张闪烁的图片是由NASA/ESA哈勃太空望远镜的宽视场相机3和高级观测相机拍摄的，展示了人马座的球状星团NGC 6540。&lt;/strong&gt;这两台仪器各自的视场略有不同，这决定了每台仪器在同一时间捕捉到的天空面积有多大。这张合成图片显示了两台仪器视场内所捕捉到的星光灿烂的天空区域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [法拉第未来宣布5200万美元新融资](https://www.cnbeta.com/articles/tech/1304717.htm) | Mon Aug 15 2022 1:44 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;贾跃亭又找到钱了，能继续造车了。&lt;strong&gt;今晚，法拉第未来宣布新融资，称新的担保票据工具提供5200万美元（约3.5亿人民币）的承诺资金，&lt;/strong&gt;并表示正与多个投资者积极商谈追加融资事宜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [视频游戏公司Unity拒绝AppLovin 175亿美元收购要约](https://hot.cnbeta.com/articles/game/1304715.htm) | Mon Aug 15 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，游戏软件平台Unity Software今日拒绝了游戏软件公司AppLovin 175.4亿美元的收购要约。同时，Unity Software还表示，将继续执行之前所宣布的“收购移动应用货币化软件公司ironSource”交易。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马斯克的SpaceX称欢迎“攻击”星链：可获近17万元奖励](https://www.cnbeta.com/articles/tech/1304713.htm) | Mon Aug 15 2022 1:32 PM 
+- 🚀 [马斯克的SpaceX称欢迎“攻击”星链：可获近17万元奖励](https://www.cnbeta.com/articles/tech/1304713.htm) | Mon Aug 15 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据Insider报道，近日，马斯克的SpaceX公司表示，欢迎各位研究人员“攻击”其Starlink（星链），并称如果他们发现了服务器中的某些漏洞，将向他们支付最高2.5万美元（折合人民币近17万元）的奖励。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Apple Watch提醒有糖尿病史的摄像师及时完成自救 挽救其生命](https://www.cnbeta.com/articles/tech/1304711.htm) | Mon Aug 15 2022 1:29 PM 
+- 🎊 [Apple Watch提醒有糖尿病史的摄像师及时完成自救 挽救其生命](https://www.cnbeta.com/articles/tech/1304711.htm) | Mon Aug 15 2022 1:29 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在另一个关于Apple Watch功能如何拯救佩戴者的故事中，这一次，视频制作人Justin Eastzer归功于他的连续葡萄糖监测器（CGM）和苹果公司的可穿戴设备在事情失去控制之前提醒了他。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [华为海思手机芯片出货同比下降约达81.5% 已被高通、苹果甩开](https://www.cnbeta.com/articles/tech/1304709.htm) | Mon Aug 15 2022 1:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年的今天，依然有很多粉丝在怀念华为的麒麟9000处理器，尽管发布已经2年了，也没用上X1/X2架构，但麒麟9000的性能及能效表现依然可圈可点，遗憾的是它已经绝版了，伴随而来的是华为海思手机芯片出货量大幅下滑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Moderna首个针对Omicron二价新冠疫苗于英国获批](https://www.cnbeta.com/articles/tech/1304707.htm) | Mon Aug 15 2022 1:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一种可能每年只需要注射一次的“下一代”新冠疫苗加强针已被批准用于英国成年人。英国药品和保健产品监管局&lpar;MHRA&rpar;已批准Moderna&lpar;MRNA.US&rpar;的二价疫苗，该疫苗针对的是新冠病毒原始毒株和Omicron变体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
