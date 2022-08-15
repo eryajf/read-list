@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Bundle-less 的深入思考和实践](https://juejin.cn/entry/7131925778911985701) | Mon Aug 15 2022 2:34 AM 
+- 🤗 [【jvm】通过JDBC为例谈谈双亲委派模型的破坏](https://juejin.cn/post/7131953063039860749) | Mon Aug 15 2022 4:20 AM 
     <details><summary>展开描述 ...</summary> 
-    随着 Snowpack、Vite 等利用提倡 no-bundle 的构建工具逐渐兴起，同时现代浏览器对原生 ESM 的普遍支持，Bundle-less 的概念席卷前端圈，那么我们如何理解 Bundle 
+    我们都知道类加载的双亲委派模型 双亲委派模型并不是一个强制约束模型,而是java设计者推荐给开发者的类加载实现方式；但是 
     </details> 
 
-- 🎡 [Long-Polling, WebSocket, SSE 傻傻分不清楚](https://juejin.cn/post/7131925082477166599) | Mon Aug 15 2022 2:32 AM 
+- 🎡 [【狂刷面试题】Go逃逸分析详解](https://juejin.cn/post/7131947887398748196) | Mon Aug 15 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-    所谓 HTTP1.1 及以上支持长连接，并不是 HTTP1.1 可以建立长连接，而是它支持以请求头的方式进行长连接发起（并且要求客户端与服务端都要具备 ‘Keep-Alive: true’ ）。 
+    这篇文章将带你加深对堆、栈的理解；搞清楚逃逸分析的作用和原理，通过对逃逸分析的学习指导我们写出更优雅的代码：我们在日常开发中，要根据实际场景考虑，如何将内存尽量分配到栈中，减少GC的压力，提高性能。 
     </details> 
 
-- 🕯 [iOS小技能：时间格式化](https://juejin.cn/post/7131923388461187102) | Mon Aug 15 2022 2:25 AM 
+- 🕯 [HTTP的升级以及改进](https://juejin.cn/post/7131940287198265380) | Mon Aug 15 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-    案例1: 小程序订单小票 案例2:订单详情时间格式化 I. 案例1: 小程序订单小票 需求：小程序订单打印模板优化，头部增加配送订单、自提订单；自提订单增加显示自提时间，配送订单无需显示。 订单接口数 
+    HTTP1.1的不足 同一时间只能发起一次请求，需要等到服务器响应之后才能发送下一次请求，而浏览器对同一个域名请求的并发数是6次，所以如果按照HTTP1.1协议去请求网页应该会很慢，很多开发公司在2. 
     </details> 
 
-- 🚀 [记一组关于录音音频相关的工具类](https://juejin.cn/post/7131921136945725454) | Mon Aug 15 2022 2:16 AM 
+- 🚀 [走进 Yarn 资源管理和调度｜青训营笔记](https://juejin.cn/post/7131939843411542023) | Mon Aug 15 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    监听器 监听录音开始，录音结束，音量改变的监听器。 音频录制管理器 可以指定配置音频格式，麦克风，采样率声道等相关格式。并对原始格式进行相应转换，同时还可以回调音频音量大小 PCM转Wav格式工具类转 
+    讲解 YARN 系统的设计思想和整体架构，两个核心模块 Resource Manger 和 Node Manager 的整体架构和主要职责 
     </details> 
 
-- 💪 [深入浅出JS红宝书 - 集合引用类型（下）](https://juejin.cn/post/7131789606151782408) | Sun Aug 14 2022 5:49 PM 
+- 💪 [GitLab 中配置添加 SSH 密钥](https://juejin.cn/post/7131937979589165086) | Mon Aug 15 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    聚焦于 Map | WeakMap | Set | WeakSet 的基本使用，以及各自的优缺点和适用性。 
+    前提 GitLab作为一个企业级的代码管理工具，开发者在最开始用git命令拉取代码时，需要先配置SSH密匙，让git和GitLab建立连接桥梁。如果你的SSH key没有添加到GitLab的账号设置中 
     </details> 
 <!-- juejin:END -->
 ### 少数派
