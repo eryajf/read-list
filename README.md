@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [优化实战 第44期 - 数据分析之去重、参数序列化](https://juejin.cn/post/7132058226497060872) | Mon Aug 15 2022 11:09 AM 
+- 🤗 [转转价格系统DDD实践](https://juejin.cn/post/7132094979974889479) | Mon Aug 15 2022 1:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    领域驱动设计，不仅带给我们一套新的概念，还提供了一套全新的设计思路，应用在构建大型复杂软件系统之上。客观的理解它、应用它，能让它发挥出最大的作用。 
+    </details> 
+
+- 🎡 [Chrome DevTools 远程调试安卓网页的原理](https://juejin.cn/post/7132077894922141726) | Mon Aug 15 2022 12:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    作为前端开发，我们每天都会用 Chrome DevTools 调试 Chrome 的网页，但其实它还可以远程调试安卓手机的网页。 那 Chrome Devtools 如何远程调试安卓网页呢？它的实现原 
+    </details> 
+
+- 🕯 [iOS 中的手势传递（一）操作系统层](https://juejin.cn/post/7132069500656517151) | Mon Aug 15 2022 11:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文重点讲的是操作系统层面，手势识别与传递的过程，在介绍整个过程的同时，也能对整个操作系统的工作方式有一定的了解 
+    </details> 
+
+- 🚀 [Spring5源码3-BeanDefinition](https://juejin.cn/post/7132069035163779079) | Mon Aug 15 2022 11:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    BeanDefinition的实现类ChildBeanDefinition、RootBeanDefinition、GenericBeanDefinition实现类，及其各种属性 
+    </details> 
+
+- 💪 [优化实战 第44期 - 数据分析之去重、参数序列化](https://juejin.cn/post/7132058226497060872) | Mon Aug 15 2022 11:09 AM 
     <details><summary>展开描述 ...</summary> 
     列表去重 使用 Set 数据结构 注：Set 数据结构认为对象永不相等，即使是两个空对象，在 Set 结构内部也是不等的 方法封装 对象转为查询字符串 代码注释 方法封装 获取查询参数 代码注释 方法 
-    </details> 
-
-- 🎡 [绝了，hutool导出excel 图片居然没有调用方法](https://juejin.cn/post/7132050134426189832) | Mon Aug 15 2022 10:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 最近在做excel导出文件，然后有一列是图片展示，然后我们图片搞了防盗链，如果直接点开链接，就是一个默认图片（无法展示），我就想着把图片嵌入excel中展示，由于我框架用的是hutool去导出， 
-    </details> 
-
-- 🕯 [《高阶前端指北》之JavaScript爬虫速成攻略（第一弹）](https://juejin.cn/post/7132043879527743525) | Mon Aug 15 2022 10:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    简单的例子解释爬虫概念:百度蜘蛛，百度引擎最得力的爬虫干将，每天会在海量的互联网信息中进行爬取，收集并整理网上的网页，图片，视频等信息。最后在自己服务器上生成软链和快照，当你搜索到对应的关键词时 
-    </details> 
-
-- 🚀 [移动端适配方案详解](https://juejin.cn/post/7132037611060740103) | Mon Aug 15 2022 9:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    对于各种不同形状，不同设备像素比移动设备，其浏览器的视口（窗口中显示网页信息的区域）不一定与渲染页面大小相同。移动设备的视口的默认值为 980px，一般情况下都要比这些设备的屏幕尺寸要大。 
-    </details> 
-
-- 💪 [用贪吃蛇小游戏的思路手写一个无限循环滚动轮播图](https://juejin.cn/post/7132032591456108580) | Mon Aug 15 2022 9:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    在某些业务场景下，接入第三方库实现轮播图效果可能并没有那么好用，笔者在接入Swiper插件失败后，还是决定手写一个。那么关于手写轮播图有很多文章已经讲过了，其核心原理是将图片排成一排，设置外层的Div 
     </details> 
 <!-- juejin:END -->
 ### 少数派
