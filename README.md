@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [新发现的信号分子能强烈刺激毛发生长](http://jandan.net/p/111147) | Mon Aug 15 2022 5:54 AM 
+- 🚀 [中国第二季度的手机出货量下降14.7% 智能手机的黄金时代结束了](http://jandan.net/p/111138) | Mon Aug 15 2022 10:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    进入存量市场，增长停滞：中国拥有超过16亿活跃的手机号，而中国人口为14 亿 
+    </details> 
+
+- 🙉 [新发现的信号分子能强烈刺激毛发生长](http://jandan.net/p/111147) | Mon Aug 15 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
     理想的下一代脱发候选药物可能不远了 
     </details> 
 
-- 🙉 [自认为经验丰富的爱猫者，可能予了猫咪太多自以为是的爱](http://jandan.net/p/111139) | Mon Aug 15 2022 4:48 AM 
+- 🎉 [自认为经验丰富的爱猫者，可能予了猫咪太多自以为是的爱](http://jandan.net/p/111139) | Mon Aug 15 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
     会让猫猫受不了 
     </details> 
 
-- 🎉 [今日好价 0815](http://jandan.net/p/111145) | Mon Aug 15 2022 4:17 AM 
+- 🐲 [今日好价 0815](http://jandan.net/p/111145) | Mon Aug 15 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [微创、便宜的角膜替代植入物使临床实验里的所有失明者恢复全部视力](http://jandan.net/p/111141) | Sun Aug 14 2022 12:34 PM 
+-  [微创、便宜的角膜替代植入物使临床实验里的所有失明者恢复全部视力](http://jandan.net/p/111141) | Sun Aug 14 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
     有3人现在拥有了完美的20/20 视力；制造植入物的材料是食品工业的副产品 
-    </details> 
-
--  [这位天文学家坚信星际流星是外星文明的造物，或起码是“振金”材质](http://jandan.net/p/111136) | Sun Aug 14 2022 5:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    正募集百万美元去大海捞针 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
