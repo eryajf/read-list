@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [TG喵 - 一款索引Telegram资源的搜索引擎](https://xinquji.com/posts/178676?utm_campaign=xinquji-rss) | Mon Aug 15 2022 7:26 AM 
+- 👀 [SnipThat - 保存您在浏览时发现的有趣的文本片段](https://xinquji.com/posts/178745?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     一款索引Telegram资源的搜索引擎  
+     保存您在浏览时发现的有趣的文本片段  
     </details> 
 
-- 🥷 [srty.link - 真正小巧的链接缩短器，专为快速口头分享而打造](https://xinquji.com/posts/178718?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:12 AM 
+- 🥷 [Loxperts - 本地化专家的自由职业者市场](https://xinquji.com/posts/178744?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     真正小巧的链接缩短器，专为快速口头分享而打造  
+     本地化专家的自由职业者市场  
     </details> 
 
-- 💼 [Minimalist Habit Pack - 开始养成习惯。今天。](https://xinquji.com/posts/178717?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:10 AM 
+- 💼 [Pokemon Picker - 将您最喜爱的 Pokémon TCG 卡添加到 FigJam](https://xinquji.com/posts/178743?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     开始养成习惯。今天。  
+     将您最喜爱的 Pokémon TCG 卡添加到 FigJam  
     </details> 
 
-- 🦅 [FM Radio - 65,000 多个免费直播电台](https://xinquji.com/posts/178716?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:10 AM 
+- 🦅 [Realtime Crypto Investment Tracker - 具有实时加密定价的动态概念模板](https://xinquji.com/posts/178742?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     65,000 多个免费直播电台  
+     具有实时加密定价的动态概念模板  
     </details> 
 
-- 😺 [Wins - 为 Mac 带来系统级排列窗口功能](https://xinquji.com/posts/178715?utm_campaign=xinquji-rss) | Mon Aug 15 2022 6:08 AM 
+- 😺 [Later Cam - 把你的手机变成一个老式的一次性相机](https://xinquji.com/posts/178741?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     为 Mac 带来系统级排列窗口功能  
+     把你的手机变成一个老式的一次性相机  
     </details> 
 <!-- xinquji:END -->
