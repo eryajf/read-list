@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [MetaImage 2.0.10 图像元数据编辑器](https://xclient.info/s/metaimage.html) | Fri Aug 12 2022 1:40 AM 
+- 🦏 [Pastebot 2.4.2 剪切板管理器](https://xclient.info/s/pastebot.html) | Mon Aug 15 2022 1:15 AM 
     <details><summary>展开描述 ...</summary> 
-    MetaImage 是一款专为mac用户设计的图像元数据编辑器，可以帮助您轻松的更改或删除照片中的元数据信息，而且MetaImage还为地理和缩略图数据提供了特殊支持。而且支持90多种图像格式（MOS，CR2，DNG，NEF，NRW，JPEG，PNG，TIFF，RAW等等） 
+    Pastebot 是一款 Mac 设备上的第三方剪贴板管理器应用，它能够与 iCloud 同步，还可以配合 iOS 和 macOS 系统的通用剪贴板使用。 
     </details> 
 
--  [SiteSucker 5.0.2 扒站神器](https://xclient.info/s/sitesucker.html) | Fri Aug 12 2022 1:39 AM 
+-  [IconFly 3.11.1 应用图标生成](https://xclient.info/s/iconfly.html) | Mon Aug 15 2022 1:14 AM 
     <details><summary>展开描述 ...</summary> 
-    SiteSucker是一款Mac OS X上的整站下载的利器，可以将整个网站所有资源下载到本地硬盘。 
+    IconFly 是Mac os平台上的一款帮助用户生成软件图标的图标制作软件 
     </details> 
 
-- ⚗️ [Mission Control Plus 1.19 调度中心辅助](https://xclient.info/s/mission-control-plus.html) | Fri Aug 12 2022 1:39 AM 
+- ⚗️ [App Cleaner &amp;amp; Uninstaller Pro 7.8.2 软件卸载工具](https://xclient.info/s/app-cleaner-uninstaller-pro.html) | Mon Aug 15 2022 1:13 AM 
     <details><summary>展开描述 ...</summary> 
-    Mission Control Plus可以在 Mac 调度中心 Mission Control 管理应用，并添加快捷键。 
+    App Cleaner Pro是一款Mac上非常好用的软件卸载工具，支持应用卸载、Widget卸载、浏览器插件卸载，支持拖拽卸载和列表卸载，能够非常干净的卸载应用，节省你的磁盘空间。 
     </details> 
 
-- 🔥 [SSH Config Editor 2.5.1 SSH配置编辑器](https://xclient.info/s/ssh-config-editor.html) | Fri Aug 12 2022 1:38 AM 
+- 🔥 [Movie Thumbnails Maker 4.3.1 电影缩略图制作工具](https://xclient.info/s/movie-thumbnails-maker.html) | Mon Aug 15 2022 1:12 AM 
     <details><summary>展开描述 ...</summary> 
-    SSH Config Editor是一款运行在macOS平台上的SSH配置编辑软件，可以帮助用户管理ssh配置文件，如果您的电脑上有ssh配置文件，那么更加需要使用它。 
+    Movie Thumbnails Maker 是一款电影缩略图制作工具，可以让您第一眼看到最新电影的内容。 
     </details> 
 
-- 🌋 [GrandTotal 7.3.5.7 一款非常实用的发票设计工具](https://xclient.info/s/grandtotal.html) | Fri Aug 12 2022 1:37 AM 
+- 🌋 [Perfectly Clear WorkBench 4.1.2.2319 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Mon Aug 15 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    GrandTotal 是Mac OS X 上的一款非常实用的发票设计工具，可以根据一个内置的模板编辑器来重新调整布局，创建属于自己的发票模版，适合企业和个人来进行形象设计。 
+    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
     </details> 
 <!-- xclient:END -->
 
