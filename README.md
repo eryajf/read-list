@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [放弃DX9原生支持：Intel宣布12代CPU与Arc显卡拥抱DX12](https://www.cnbeta.com/articles/tech/1304485.htm) | Mon Aug 15 2022 3:59 AM 
+- 🕯 [研究人员通过9000年历史数据预测地球磁极不会很快发生翻转](https://www.cnbeta.com/articles/science/1304487.htm) | Mon Aug 15 2022 4:10 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;众所周知，地球磁场提供的隐形屏障，可帮助我们抵御太阳风和宇宙中高度危险的环境。&lt;strong&gt;然而随着南大西洋出现了一个地磁强度迅速下降的神秘区域，一些人推测地球的磁极或即将迎来翻转。&lt;/strong&gt;但在 2022 年 6 月 6 日发表于 PNAS 上的一项新研究中，另一派科学家们认为这件事不会很快发生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [放弃DX9原生支持：Intel宣布12代CPU与Arc显卡拥抱DX12](https://www.cnbeta.com/articles/tech/1304485.htm) | Mon Aug 15 2022 3:59 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，Intel已经将原生DirectX 9支持从自家的Arc独显，以及12代CPU中的Xe集显中移除，全面拥抱DirectX 12。根据Intel的说法，&lt;strong&gt;之前DX9的支持将被转移到DX12的仿真模式，在微软“D3D9On12”开源转换层上运行。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [理想ONE高速追尾工程车辆 官方回应：事故超出ADAS工作范围](https://www.cnbeta.com/articles/tech/1304483.htm) | Mon Aug 15 2022 3:39 AM 
+- 💂 [理想ONE高速追尾工程车辆 官方回应：事故超出ADAS工作范围](https://www.cnbeta.com/articles/tech/1304483.htm) | Mon Aug 15 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月8日，一起理想ONE高速追尾工程车辆的车祸视频，引起网友关注热议。行车记录仪显示，事故车辆理想ONE在某高速路段，以77公里/时的车速行驶在最左侧车道，车道前方出现了一辆打着双闪停在路边的工程车，&lt;strong&gt;但理想 ONE 并没有识别到，AEB紧急制动也没有工作，车辆未减速径直撞了上去。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [奥密克戎BA.5对当前的新冠激增意味着什么？](https://www.cnbeta.com/articles/science/1304481.htm) | Mon Aug 15 2022 3:39 AM 
+- 🚀 [奥密克戎BA.5对当前的新冠激增意味着什么？](https://www.cnbeta.com/articles/science/1304481.htm) | Mon Aug 15 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;被称为BA.5的COVID奥密克戎亚变体于2022年2月在南非首次发现并迅速蔓延到世界各地。截至2022年7月的第二周，BA.5亚变体占美国COVID-19变体的近80%。2021年11月24日，南非的研究人员报告了奥密克戎变体的原始版本（B.1.1.529）后不久，许多科学家推测，如果奥密克戎的众多突变使它比前面的德尔塔变体更具传播性或在免疫规避方面更出色，那么奥密克戎将可能成为全世界的主导变体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [同一岗位年薪相差近3倍 美科技巨头逃离硅谷](https://www.cnbeta.com/articles/tech/1304479.htm) | Mon Aug 15 2022 3:38 AM 
+- 🎊 [同一岗位年薪相差近3倍 美科技巨头逃离硅谷](https://www.cnbeta.com/articles/tech/1304479.htm) | Mon Aug 15 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月15日消息，截至今年8月，6名Meta高管离开了加州总部，迁往英国伦敦，其中就包括Instagram 负责人亚当·莫塞里 &lpar;Adam Mosseri&rpar;。甫一抵英，莫塞里团队就在英国大规雇佣开发和产品人员，但同一岗位薪资比起美国总部却大打折扣。导致这一差距的原因主要有两个方面：&lt;strong&gt;生活成本以及美国对技术专家的需求膨胀&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [加州水库为节水投放的巨量塑料小球 引发了意料之外的长期争议](https://www.cnbeta.com/articles/science/1304477.htm) | Mon Aug 15 2022 3:26 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;为了减少水库蒸发量、降低水中溴酸盐含量并防止藻类生长，洛杉矶水电局（LAWPD）率先于 2008 年在艾芬豪水库中投放了 4000 个直径 4 英寸的遮光球。&lt;/strong&gt;据 PBS 所述，与其它方案相比，塑料小球可节省多达 2.5 亿美元的资金。2015 年之后，该机构又将 9600 万个遮光球投放到了洛杉矶另一座 175 英亩的水库中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
