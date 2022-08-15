@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [2022年全球网络威胁报告](https://www.freebuf.com/articles/paper/341758.html) | Fri Aug 12 2022 3:46 AM 
+- 🦄 [竟然不设密码！调查发现全球超9000台VNC 服务器存暴露风险](https://www.freebuf.com/news/341900.html) | Mon Aug 15 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
-    来源：Acronis作者：Alexander Ivanyuk（Acronis 产品与技术定位部资深总监）Candid Wuest（Acronis 网络防护研究部副总裁）目  录简介与摘要第一部分：2021年主要网络威胁和趋势第二部分：常见恶意软件威胁第三部分：Windows 操作系统和软件中的漏洞第四部分：2022 年安全预测第五部分：Acronis 就如何在当前和今后的威胁环境中保持安全提出的建 
+    在黑客论坛上，通过暴露或破解的VNC访问关键网络的需求很高，在某些情况下，这种访问可以用于更深层次的网络渗透。 
     </details> 
 
-- 🦄 [银行木马SOVA卷土重来，或可发起勒索攻击](https://www.freebuf.com/news/341757.html) | Fri Aug 12 2022 3:41 AM 
+- 🦄 [美国制裁加密货币混合，Tornado Cash员工遭逮捕](https://www.freebuf.com/articles/341895.html) | Mon Aug 15 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
-    肆虐Android平台的银行木马 SOVA 卷土重来，和之前相比增加了更多的新功能，甚至还有可能进行勒索攻击。 
+    荷兰有关当局宣布，美国在阿姆斯特丹逮捕了一名加密货币混合器工作的软件开发人员。 
     </details> 
 
-- 🦅 [美国悬赏1000万美元，征集Conti成员信息](https://www.freebuf.com/news/341747.html) | Fri Aug 12 2022 3:09 AM 
+- 🦅 [Killnet黑客组织声称已“攻破”洛克希德-马丁公司](https://www.freebuf.com/news/341896.html) | Mon Aug 15 2022 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    美国国务院今天宣布悬赏1000万美元征集5名Conti勒索软件高级成员的信息。 
+    《莫斯科时报》披露，黑客组织 Killnet 声称对航空航天和国防巨头洛克希德-马丁公司发动了一次大规模 DDoS 攻击。 
     </details> 
 
-- 🪄 [涉及金额5.4亿美元，网络犯罪分子正通过 RenBridge 跨链平台洗钱](https://www.freebuf.com/news/341744.html) | Fri Aug 12 2022 3:00 AM 
+- 🪄 [因收集Android 位置数据，Google被罚六千万美元](https://www.freebuf.com/news/341890.html) | Mon Aug 15 2022 2:43 AM 
     <details><summary>展开描述 ...</summary> 
-    该平台允许在不同的区块链网络之间无缝移动资产，例如将比特币转换为以太坊区块链。 
+    澳大利亚公平竞争和消费者委员会称，谷歌因收集数据时误导用户，被处以6000万澳元&lpar;约合人民币2.88亿元&rpar;罚款。 
     </details> 
 
-- 💻 [突发！美的传闻被勒索攻击](https://www.freebuf.com/news/341718.html) | Thu Aug 11 2022 11:49 AM 
+- 💻 [FreeBuf早报 | 首批针对星链卫星网的攻击手法曝光；Instagram被曝跟踪用户网络活动](https://www.freebuf.com/news/341878.html) | Sun Aug 14 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
-    美的集团传闻遭遇勒索攻击，工厂多处电脑中了勒索病毒，导致内网系统连不上，所有文件都无法打开。 
+    研究人员只需要花费25美元，就能用小零件制作出硬件入侵工具，在星链卫星天线上运行任意代码。 
     </details> 
 <!-- freebuf:END -->
 
