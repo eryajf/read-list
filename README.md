@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国收紧对半导体及燃气涡轮引擎相关技术的出口管制](https://www.cnbeta.com/articles/tech/1304623.htm) | Mon Aug 15 2022 9:13 AM 
+- 🕯 [纸工高玩展示动漫游戏武器作品 眼花缭乱精致无比](https://hot.cnbeta.com/articles/game/1304633.htm) | Mon Aug 15 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周末美国再收紧出口管制，限制能支持先进半导体和燃气涡轮引擎生产的技术出口。美国商务部表示，此举涵盖的“新兴和基础技术”包括氧化镓（Gallium oxide）和钻石，使用这些材料的设备显著增加了军事潜力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;@ Tsu_ku_ru_san网友凭借精湛制作的纸工作品闻名手工界，其主打的作品都是来自知名动漫游戏，8月15日今天将作品做了大集合展示，一起来看看你能认出多少！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家发现简单的技巧 可在保持理解力的前提下将阅读速度提高35%](https://www.cnbeta.com/articles/science/1304621.htm) | Mon Aug 15 2022 9:07 AM 
+- 💼 [真·画蛇添足：“实现梦想”长出四条腿](https://www.cnbeta.com/articles/science/1304631.htm) | Mon Aug 15 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;中佛罗里达大学（UCF）的研究人员发现，数字阅读没有一个放之四海而皆准的方法，改变字体风格和大小可以在保持理解力的同时加快阅读速度。&lt;/strong&gt;把它想象成数字时代的处方眼镜。该&lt;a href=&quot;https://dl.acm.org/doi/10.1145/3502222&quot; target=&quot;_self&quot;&gt;研究结果&lt;/a&gt;最近发表在《ACM Transactions on Computer-Human Interaction 》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在广为人知的伊甸园故事中，蛇是原罪的象征。根据一些古老的传说，蛇一度是有腿的物种，只因引诱夏娃和亚当吃了智慧树的果实，遭到了惩罚，才失去了腿，用肚子行走。科学家们始终相信，蛇在很久之前曾经是有四条腿的，但一直没有发现化石证据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果iPhone 14保留刘海屏 业内人士：利润最大化](https://www.cnbeta.com/articles/tech/1304619.htm) | Mon Aug 15 2022 9:04 AM 
+- 💂 [14岁少年沉迷手游被训 竟然报警抓父亲](https://hot.cnbeta.com/articles/game/1304629.htm) | Mon Aug 15 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，据MacRumors爆料，iPhone 14保留了13系列上的刘海屏方案，同时&lt;strong&gt;搭载了13系列同款A15芯片，该机是一款小迭代版，更像是“13S”。&lt;/strong&gt;对此，业内人士酸数码指出，&lt;strong&gt;iPhone这种聚量下沉，对整体成本的改善，对利润贡献是巨大的，大家的供应链管理和苹果之间差距太大了。这也导致最佳的物料，没有谁比苹果拥有最佳的成本。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;许多小孩子喜欢玩手游，而且自控能力差，还经常与父母发生争执。近日浙江金华就发生了一件事儿，民警接到一男孩报警称自己被父亲打了。民警赶往现场后，男孩冲其父怒吼：“你刚才不是很牛吗？”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [高温红色预警已连续四天发布：多地破40℃ 最高冲上44.5℃](https://www.cnbeta.com/articles/tech/1304617.htm) | Mon Aug 15 2022 9:02 AM 
+- 🚀 [任天堂京都总部发生火灾 部分桌椅被烧无人员受伤](https://hot.cnbeta.com/articles/game/1304627.htm) | Mon Aug 15 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天是末伏第一天，今年末伏为8月15日至24日，也就是说目前三伏天过去四分之三了，但天气却依然炎热。中央气象台今天15日06时继续发布高温红色预警，&lt;strong&gt;这是中央气象台连续四天发布高温红色预警。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据NHK报道今日（8月15日）下午，位于京都市南区任天堂总部的本社开发中心（本社開発棟）的一个房间里，发生了一场火灾。现场部分桌子和椅子被烧毁，但没有人员受伤。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [加州州长纽森提议延长该州最后一座核电站的寿命](https://www.cnbeta.com/articles/tech/1304615.htm) | Mon Aug 15 2022 8:50 AM 
+- 🎊 [英特尔第14代芯片P核在Golden Cove架构上改进 而E核采用新架构](https://www.cnbeta.com/articles/tech/1304625.htm) | Mon Aug 15 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美联社报道，&lt;strong&gt;加州州长加文·纽森（Gavin Newsom）上周五提议将该州最后一座运营中的核电站的寿命延长5至10年，以维持气候变化时代的可靠电力供应。&lt;/strong&gt;该州原计划在2025年关闭Diablo Canyon核电站。而延长该核电站寿命的新建议给长达数十年的有关该核电站地震安全的斗争带来了新的紧迫性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据 Coelacanth-Dream 透露的信息，在英特尔的开源数据库中，透露了关于第 14 代 Meteor Lake CPU 的最新信息。从官方透露的信息来看，&lt;strong&gt;Meteor Lake CPU 会在现有 Golden Cove 内核基础上进行改进，而 E-Core 会采用新的架构。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
