@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《斯普拉遁3》真人TV广告 对战一触即发](https://hot.cnbeta.com/articles/game/1304731.htm) | Mon Aug 15 2022 3:37 PM 
+- 🕯 [中国显卡厂商芯动科技加入UCIe联盟 首发国产Chiplet标准方案](https://www.cnbeta.com/articles/tech/1304739.htm) | Mon Aug 15 2022 4:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;自称中国一站式IP和定制芯片领军企业的芯动科技宣布，&lt;strong&gt;正式加入UCIe产业联盟&lt;/strong&gt;，推动Chiplet&lpar;小芯片/芯粒&rpar;标准化。同时，&lt;strong&gt;芯动科技自研的首套跨工艺、跨封装物理层兼容UCIe国际标准的Innolink Chiplet解决方案，已在全球范围内率先兼容各种应用场景，并成功商用落地。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [理想L9将于8月18日正式下线：9月可交付1万辆车](https://www.cnbeta.com/articles/tech/1304737.htm) | Mon Aug 15 2022 4:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据官方消息，&lt;strong&gt;理想L9将于8月18日在常州工厂举行下线仪式，正式下线，将于8月底开启交付用户。&lt;/strong&gt;根据此前官方在8月1日公布的数据，L9累计预订辆超过了50000份，其中确认定购的定单用户超过了30000个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [索尼、微软不再拖后腿 AMD锐龙7000处理器这次随便买](https://www.cnbeta.com/articles/tech/1304735.htm) | Mon Aug 15 2022 4:36 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月份AMD的锐龙7000处理器就要上市了，这一代升级了5nm Zen4架构，IPC提升8-10%，单核提升15%以上，综合提升35%，亮点可不少。对于AMD新品，A饭现在担心的也主要是三件事——&lt;strong&gt;性能能否跟13代酷睿有得一战、价格是上涨还是下调，最后一点则是供货能不能跟上，&lt;/strong&gt;毕竟上了台积电5nm工艺，而且两年前的锐龙5000新品上市就涨价的教训很深刻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [iPhone 14爆料合集来了：然而十三香可能是真的](https://www.cnbeta.com/articles/tech/1304733.htm) | Mon Aug 15 2022 4:36 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;对于数码爱好者来说，每次快到九月的时候，就能隐约感受到一股无形的力量在吸引着我们，因为...果子哥每到这个时候就会发布新一代 iPhone。不过今年这种感觉变得更强烈了，有关苹果的热搜可以说是一天出现一个……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [《斯普拉遁3》真人TV广告 对战一触即发](https://hot.cnbeta.com/articles/game/1304731.htm) | Mon Aug 15 2022 3:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《斯普拉遁3》即将在9月9日正式登陆Switch平台，任天堂于今日公布了一则真人TV广告，一起欣赏一下。此外，试玩活动（前夜祭）将于北京时间8月28日8点-20点进行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《斯普拉遁3》真人广告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [全球电子商务收入或将首次出现萎缩](https://www.cnbeta.com/articles/tech/1304729.htm) | Mon Aug 15 2022 3:36 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;媒体数字市场展望最新预测下调了2022年全球电子商务收入预估。受供应链问题和通胀影响，全球电子商务收入预计将在2022年同比首次萎缩，较2021年下降2.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [比特币价格自6月中上旬以来首次触及25000美元](https://www.cnbeta.com/articles/tech/1304727.htm) | Mon Aug 15 2022 3:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;世界上最大的加密货币比特币今天成功涨破了25000美元，这是6月13日以来的第一次。虽然在写这篇文章的时候，价格已经回落到24127美元，显示该资产还没有准备好保持最新的高点。&lt;/strong&gt;目前的价格下跌在很大程度上与金融市场的大盘涨跌幅一致，标准普尔500指数下跌0.31%，英国富时指数持平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [黑客对拖拉机越狱行为掀起农民争取维修权的浪潮](https://www.cnbeta.com/articles/tech/1304725.htm) | Mon Aug 15 2022 2:27 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;世界各地的农民已经转向拖拉机黑客，以便他们能够绕过制造商强加给他们车辆的数字锁。&lt;/strong&gt;就像胰岛素泵的 &amp;quot;循环 &amp;quot;和iPhone的越狱一样，这使得农民可以修改和修理对他们工作至关重要的昂贵设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [周杰伦《粉色海洋》MV正式上线 父子携手送浪漫](https://hot.cnbeta.com/articles/music/1304723.htm) | Mon Aug 15 2022 2:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今晚八点，杰威尔音乐正式公布了周杰伦新曲《粉色海洋》的MV视频，周杰伦携手儿子Romeo放送浪漫，一起来看一下吧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1304723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
