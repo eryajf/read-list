@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [黑客对拖拉机越狱行为掀起农民争取维修权的浪潮](https://www.cnbeta.com/articles/tech/1304725.htm) | Mon Aug 15 2022 2:27 PM 
+- 🕯 [《斯普拉遁3》真人TV广告 对战一触即发](https://hot.cnbeta.com/articles/game/1304731.htm) | Mon Aug 15 2022 3:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《斯普拉遁3》即将在9月9日正式登陆Switch平台，任天堂于今日公布了一则真人TV广告，一起欣赏一下。此外，试玩活动（前夜祭）将于北京时间8月28日8点-20点进行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《斯普拉遁3》真人广告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [全球电子商务收入或将首次出现萎缩](https://www.cnbeta.com/articles/tech/1304729.htm) | Mon Aug 15 2022 3:36 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;媒体数字市场展望最新预测下调了2022年全球电子商务收入预估。受供应链问题和通胀影响，全球电子商务收入预计将在2022年同比首次萎缩，较2021年下降2.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [比特币价格自6月中上旬以来首次触及25000美元](https://www.cnbeta.com/articles/tech/1304727.htm) | Mon Aug 15 2022 3:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;世界上最大的加密货币比特币今天成功涨破了25000美元，这是6月13日以来的第一次。虽然在写这篇文章的时候，价格已经回落到24127美元，显示该资产还没有准备好保持最新的高点。&lt;/strong&gt;目前的价格下跌在很大程度上与金融市场的大盘涨跌幅一致，标准普尔500指数下跌0.31%，英国富时指数持平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [黑客对拖拉机越狱行为掀起农民争取维修权的浪潮](https://www.cnbeta.com/articles/tech/1304725.htm) | Mon Aug 15 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;世界各地的农民已经转向拖拉机黑客，以便他们能够绕过制造商强加给他们车辆的数字锁。&lt;/strong&gt;就像胰岛素泵的 &amp;quot;循环 &amp;quot;和iPhone的越狱一样，这使得农民可以修改和修理对他们工作至关重要的昂贵设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [周杰伦《粉色海洋》MV正式上线 父子携手送浪漫](https://hot.cnbeta.com/articles/music/1304723.htm) | Mon Aug 15 2022 2:25 PM 
+- 🎊 [周杰伦《粉色海洋》MV正式上线 父子携手送浪漫](https://hot.cnbeta.com/articles/music/1304723.htm) | Mon Aug 15 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今晚八点，杰威尔音乐正式公布了周杰伦新曲《粉色海洋》的MV视频，周杰伦携手儿子Romeo放送浪漫，一起来看一下吧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1304723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [LG Display正在开发20英寸OLED面板和可弯曲型号](https://www.cnbeta.com/articles/tech/1304721.htm) | Mon Aug 15 2022 2:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;LG Display正在准备一款20英寸的OLED显示屏，预计今年年底前提供给其合作伙伴。&lt;/strong&gt;厂方表示它是为&amp;quot;个人设备&amp;quot;设计制造的，但20英寸对于平板电脑或笔记本电脑显示屏来说似乎太大了。爆料的韩国媒体The Elec没有提到该面板的长宽比，但即使是16:9或16:10，这似乎也是为小型台式机显示器或大尺寸游戏笔记本准备的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [哈勃太空望远镜发现一个闪烁的球状星团](https://www.cnbeta.com/articles/science/1304719.htm) | Mon Aug 15 2022 1:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;这张闪烁的图片是由NASA/ESA哈勃太空望远镜的宽视场相机3和高级观测相机拍摄的，展示了人马座的球状星团NGC 6540。&lt;/strong&gt;这两台仪器各自的视场略有不同，这决定了每台仪器在同一时间捕捉到的天空面积有多大。这张合成图片显示了两台仪器视场内所捕捉到的星光灿烂的天空区域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [法拉第未来宣布5200万美元新融资](https://www.cnbeta.com/articles/tech/1304717.htm) | Mon Aug 15 2022 1:44 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;贾跃亭又找到钱了，能继续造车了。&lt;strong&gt;今晚，法拉第未来宣布新融资，称新的担保票据工具提供5200万美元（约3.5亿人民币）的承诺资金，&lt;/strong&gt;并表示正与多个投资者积极商谈追加融资事宜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
