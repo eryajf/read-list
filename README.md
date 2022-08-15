@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教：数据库表达类型，用字符串还是数字](https://www.v2ex.com/t/872931#reply7) | Mon Aug 15 2022 3:40 AM
-- 🤗 [XDM，请问下域名解析的相关问题](https://www.v2ex.com/t/872919#reply8) | Mon Aug 15 2022 3:14 AM
-- 🎭 [Visual Studio Code Python - 2022 年 8 月更新 - Web 应用程序的自动调试配置 , 使用体验改进](https://www.v2ex.com/t/872917#reply1) | Mon Aug 15 2022 3:08 AM
-- 🥷 [求各位前辈推荐一些 Android BSP&lpar;主要是 HAL&rpar;相关的资料/书籍](https://www.v2ex.com/t/872908#reply0) | Mon Aug 15 2022 2:45 AM
-- 🐵 [Kuberenetes + Casbin 权限插件： K8s-Gatekeeper](https://www.v2ex.com/t/872898#reply0) | Mon Aug 15 2022 2:35 AM<!-- v2ex:END -->
+- 🥸 [小记， django select 字段中含有连表查询 分页优化](https://www.v2ex.com/t/872940#reply0) | Mon Aug 15 2022 4:09 AM
+- 🤗 [请教：数据库表达类型，用字符串还是数字](https://www.v2ex.com/t/872931#reply10) | Mon Aug 15 2022 3:40 AM
+- 🎭 [XDM，请问下域名解析的相关问题](https://www.v2ex.com/t/872919#reply12) | Mon Aug 15 2022 3:14 AM
+- 🥷 [Visual Studio Code Python - 2022 年 8 月更新 - Web 应用程序的自动调试配置 , 使用体验改进](https://www.v2ex.com/t/872917#reply1) | Mon Aug 15 2022 3:08 AM
+- 🐵 [求各位前辈推荐一些 Android BSP&lpar;主要是 HAL&rpar;相关的资料/书籍](https://www.v2ex.com/t/872908#reply0) | Mon Aug 15 2022 2:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
