@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ES6 字符串的扩展](https://juejin.cn/post/7131750152049524766) | Sun Aug 14 2022 3:13 PM 
+- 🤗 [Bundle-less 的深入思考和实践](https://juejin.cn/entry/7131925778911985701) | Mon Aug 15 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    一、字符串的扩展 字符的 Unicode 表示法 ES6 加强了对 Unicode 的支持，允许采用\uxxxx形式表示一个字符，其中xxxx表示字符的 Unicode 码点。 字符串的遍历器接口 E 
+    随着 Snowpack、Vite 等利用提倡 no-bundle 的构建工具逐渐兴起，同时现代浏览器对原生 ESM 的普遍支持，Bundle-less 的概念席卷前端圈，那么我们如何理解 Bundle 
     </details> 
 
-- 🎡 [Go&amp;Java算法之重复的DNA序列](https://juejin.cn/post/7131746170648395813) | Sun Aug 14 2022 2:58 PM 
+- 🎡 [Long-Polling, WebSocket, SSE 傻傻分不清楚](https://juejin.cn/post/7131925082477166599) | Mon Aug 15 2022 2:32 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 重复的DNA序列 DNA序列 由一系列核苷酸组成，缩写为 &#39;A&#39;, &#39;C&#39;, &#39;G&#39; 和 &#39;T&#39;.。 例 
+    所谓 HTTP1.1 及以上支持长连接，并不是 HTTP1.1 可以建立长连接，而是它支持以请求头的方式进行长连接发起（并且要求客户端与服务端都要具备 ‘Keep-Alive: true’ ）。 
     </details> 
 
-- 🕯 [图解 React 的 diff 算法：核心就两个字 —— 复用](https://juejin.cn/post/7131741751152214030) | Sun Aug 14 2022 2:42 PM 
+- 🕯 [iOS小技能：时间格式化](https://juejin.cn/post/7131923388461187102) | Mon Aug 15 2022 2:25 AM 
     <details><summary>展开描述 ...</summary> 
-    React 是基于 vdom 的前端框架，组件 render 产生 vdom，然后渲染器把 vdom 渲染出来。 state 更新的时候，组件会重新 render，产生新的 vdom，在浏览器平台下， 
+    案例1: 小程序订单小票 案例2:订单详情时间格式化 I. 案例1: 小程序订单小票 需求：小程序订单打印模板优化，头部增加配送订单、自提订单；自提订单增加显示自提时间，配送订单无需显示。 订单接口数 
     </details> 
 
-- 🚀 [LeetCode分割字符串的最大得分使用JavaScript解题,击败了100%的用户|前端学算法](https://juejin.cn/post/7131740322287058957) | Sun Aug 14 2022 2:35 PM 
+- 🚀 [记一组关于录音音频相关的工具类](https://juejin.cn/post/7131921136945725454) | Mon Aug 15 2022 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-    竟然击败了100%的用户，LeetCode分割字符串的最大得分使用JavaScript解题，前端学习算法，每日一个算法题知识 
+    监听器 监听录音开始，录音结束，音量改变的监听器。 音频录制管理器 可以指定配置音频格式，麦克风，采样率声道等相关格式。并对原始格式进行相应转换，同时还可以回调音频音量大小 PCM转Wav格式工具类转 
     </details> 
 
-- 💪 [头脑风暴：组合总和 Ⅳ](https://juejin.cn/post/7131739198272798757) | Sun Aug 14 2022 2:30 PM 
+- 💪 [深入浅出JS红宝书 - 集合引用类型（下）](https://juejin.cn/post/7131789606151782408) | Sun Aug 14 2022 5:49 PM 
     <details><summary>展开描述 ...</summary> 
-    题目 给你一个由 不同 整数组成的数组 nums ，和一个目标整数 target 。请你从 nums 中找出并返回总和为 target 的元素组合的个数。 题目数据保证答案符合 32 位整数范围。 示 
+    聚焦于 Map | WeakMap | Set | WeakSet 的基本使用，以及各自的优缺点和适用性。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
