@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [刀片电池已被特斯拉相中 比亚迪再投近300亿新建工厂](https://www.cnbeta.com/articles/tech/1304657.htm) | Mon Aug 15 2022 10:58 AM 
+- 🕯 [建筑师正设法让太阳能外墙完全满足办公大楼的电力需求](https://www.cnbeta.com/articles/science/1304699.htm) | Mon Aug 15 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月15日下午，比亚迪宣布将在宜春投资285亿新建电池厂。据报道，宜春市政府、宜春经开区、宜丰县政府、宜春市矿业公司与比亚迪股份有限公司在南昌正式签订战略合作框架协议。&lt;strong&gt;比亚迪拟在宜春投资285亿元建设年产30GWh动力电池和年产10万吨电池级碳酸锂及陶瓷土&lpar;含锂&rpar;矿采选综合开发利用生产基地项目。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;澳大利亚公司Kennon透露了墨尔本一个雄心勃勃的新项目的计划。被命名为550 Spencer的八层办公大楼将使用由1182块太阳能电池板组成的尖端太阳能外墙，生产超过其需求的电力。550 Spencer的设计并不是像哥本哈根的国际学校那样简单地在外墙上安装标准的太阳能电池板。相反，它的太阳能外墙看起来像玻璃，但将利用1182块集成太阳能电池板从太阳光中获取能量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [直击冰岛火山持续喷发：火红的岩浆不间断涌出 最高喷到70米](https://www.cnbeta.com/articles/science/1304655.htm) | Mon Aug 15 2022 10:57 AM 
+- 💼 [月饼新规今日开始实施 和“天价”月饼说拜拜](https://www.cnbeta.com/articles/tech/1304697.htm) | Mon Aug 15 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;自从8月3日开始，冰岛境内雷克雅内斯半岛的法格拉达尔火山就开始持续喷发，一直持续至今。&lt;/strong&gt;甚至目前还吸引了无数游客专门赶去观看这一奇景，沿峡谷崎岖的山路徒步数小时前往观赏，也有媒体直接在喷发口附近架起了直播。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本月早些时候，根据&lt;a class=&quot;f14_link&quot; href=&quot;https://www.cca.org.cn/zxsd/detail/30471.html&quot; target=&quot;_blank&quot;&gt;中消协官网&lt;/a&gt;消息，&lt;strong&gt;中国消费者协会与中国焙烤食品糖制品工业协会将在中秋节前联合对月饼过度包装情况进行消费监督，倡导月饼产品回归食品本身属性和简约适度包装的理念。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [理想二季度交付量大涨6成：理想ONE日均销量破300台](https://www.cnbeta.com/articles/tech/1304653.htm) | Mon Aug 15 2022 10:56 AM 
+- 💂 [Intel显卡首秀光追渲染：性能保密](https://www.cnbeta.com/articles/tech/1304695.htm) | Mon Aug 15 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月15日，理想汽车发布2022年第二季度财报。数据显示，&lt;strong&gt;二季度营收87.3亿元，上年同期营收50.4亿元，同比增长73.3%，环比减少8.7%，市场预期79.9亿元。&lt;/strong&gt;第二季度的毛利为人民币18.8亿元，同比增加97.1%，Q2毛利率为21.5%。截至第二季度末，公司现金储备达536.5亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然打游戏还没打磨好，但是Intel已经迫不及待地将Arc显卡推进到了专业工作站领域，宣布了全新的Arc Pro系列专业卡。SIGGRAPH 2022图形大会上，Intel首次展示了Arc显卡专业渲染的表现，但用的不是Arc Pro，而是旗舰级游戏卡Arc A770。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [俄罗斯想绕过5G直接开发6G被认为根本没戏](https://www.cnbeta.com/articles/tech/1304651.htm) | Mon Aug 15 2022 10:55 AM 
+- 🚀 [TikTok开始在应用中提供一个基本款文本到图像AI生成器](https://www.cnbeta.com/articles/tech/1304693.htm) | Mon Aug 15 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;5G技术最近几年在全球大热，然而有些国家出于种种考虑希望越过5G阶段，直接开发6G技术，美国、日本以及最近的俄罗斯等国都有过类似的宣传，前不久俄罗斯媒体还说该国研究机构准备自研6G技术，然而这是不可能的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;文本-图像人工智能系统目前在能力和受欢迎程度上都在蓬勃发展，还有什么比它们出现在世界最热门的应用程序中更好的证明？那就是TikTok。这个视频平台最近增加了一种新的效果，它称之为&amp;quot;人工智能绿屏&amp;quot;，允许用户输入文字提示，然后软件会生成一个图像。这张图片随后可以作为视频的背景--对创作者来说可能是一个非常有用的工具。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [GA102芯片库存实在太多：NVIDIA恢复生产RTX 3080 12GB显卡](https://www.cnbeta.com/articles/tech/1304649.htm) | Mon Aug 15 2022 10:55 AM 
+- 🎊 [明星光环褪去 周杰伦、陈冠希站台的NFT价格暴跌](https://www.cnbeta.com/articles/tech/1304691.htm) | Mon Aug 15 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年6月，NVIDIA宣布将停止RTX 3080 12GB显卡的生产，原因或许是它的定位卡在RTX 3080 10GB与RTX 3080 Ti之间，略显尴尬。现在，根据MEGAsizeGPU的消息，&lt;strong&gt;NVIDIA决定恢复生产RTX 3080 12GB显卡，其原因很可能是——GA102芯片的库存实在太多了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在加密货币熊市之下，NFT板块持续下跌。截至8月15日，NFT市场总市值已由今年2月366亿美元的高点跌至239亿美元，跌幅超38%。NFT单日交易额由33.94亿美元的高点跌至不到0.15亿美元，下降了99.56%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
