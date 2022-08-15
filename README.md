@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [一些地狱笑话&lpar;2&rpar;](http://jandan.net/p/111148) | Mon Aug 15 2022 2:22 PM 
+- 🚀 [从蹒跚学步到昂首阔步，儿童走路方式的转变是否有文化因素的影响](http://jandan.net/p/111130) | Mon Aug 15 2022 3:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    小孩子的走路方式可以向医生透露很多信息，各国都希望为儿童建立一个步态标准 
+    </details> 
+
+- 🙉 [一些地狱笑话&lpar;2&rpar;](http://jandan.net/p/111148) | Mon Aug 15 2022 2:22 PM 
     <details><summary>展开描述 ...</summary> 
      迟到总比不到强 
     </details> 
 
-- 🙉 [中国第二季度的手机出货量下降14.7% 智能手机的黄金时代结束了](http://jandan.net/p/111138) | Mon Aug 15 2022 10:04 AM 
+- 🎉 [中国第二季度的手机出货量下降14.7% 智能手机的黄金时代结束了](http://jandan.net/p/111138) | Mon Aug 15 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     进入存量市场，增长停滞：中国拥有超过16亿活跃的手机号，而中国人口为14 亿 
     </details> 
 
-- 🎉 [新发现的信号分子能强烈刺激毛发生长](http://jandan.net/p/111147) | Mon Aug 15 2022 5:54 AM 
+- 🐲 [新发现的信号分子能强烈刺激毛发生长](http://jandan.net/p/111147) | Mon Aug 15 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
     理想的下一代脱发候选药物可能不远了 
     </details> 
 
-- 🐲 [自认为经验丰富的爱猫者，可能予了猫咪太多自以为是的爱](http://jandan.net/p/111139) | Mon Aug 15 2022 4:48 AM 
+-  [自认为经验丰富的爱猫者，可能予了猫咪太多自以为是的爱](http://jandan.net/p/111139) | Mon Aug 15 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
     会让猫猫受不了 
-    </details> 
-
--  [今日好价 0815](http://jandan.net/p/111145) | Mon Aug 15 2022 4:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
