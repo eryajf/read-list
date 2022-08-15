@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Android 13 源代码已经发布到AOSP](https://www.cnbeta.com/articles/tech/1304747.htm) | Mon Aug 15 2022 7:31 PM 
+- 🕯 [比亚迪“开进”亚洲锂都 285亿元投建动力电池基地](https://www.cnbeta.com/articles/tech/1304757.htm) | Mon Aug 15 2022 11:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google今天宣布，作为正式发布最新版本的Android系统的一部分，Android 13的源代码已经发布到Android开源项目（AOSP）。Android 13带来了安全改进、UI/主题完善、生产力提升、OpenJDK 11 LTS更新、ART优化、垃圾收集改进以及其他各种进化和变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚洲锂都宜春迎来比亚迪（002594）。8月15日，宜春市政府、宜春经济技术开发区、宜丰县政府、宜春市矿业公司与比亚迪签订战略合作框架协议约定，比亚迪拟在宜春市投资285亿元，建设年产30GWh动力电池和年产10万吨电池级碳酸锂及陶瓷土（含锂）矿采选综合开发利用生产基地项目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科技公司寻找不破坏地球环境的空调以应对全球气候变化](https://www.cnbeta.com/articles/tech/1304745.htm) | Mon Aug 15 2022 7:15 PM 
+- 💼 [员工接受安检时应支付费用？法院批准苹果以3050万美元和解诉讼](https://www.cnbeta.com/articles/tech/1304755.htm) | Mon Aug 15 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在越来越多的热浪中，空调已成为一条生命线。这些电器对于保持人们的凉爽，保护他们免受危险的高温天气影响。国际能源署（IEA）估计，到2050年，整个地球上可能有超过50亿台空调。&lt;strong&gt;问题是，虽然空调确实能保证人们的安全，但它们也是气候变化的一个主要贡献者。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;2013年苹果遭到员工起诉，员工们认为下班后接受公司安全检查耗时很长，公司应该支付酬劳。后来苹果同意以3050万美元和解诉讼，最近加州联邦法官批准了和解方案。&lt;/strong&gt;美国旧金山地区法官威廉·阿尔苏普（William Alsup）于周日批准了和解方案。2020年加州最高法院认为，根据州法律的要求，强制员工进行安全检查时应该支付费用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [报告称三星与台积电竞争时面临着一些弊端](https://www.cnbeta.com/articles/tech/1304743.htm) | Mon Aug 15 2022 6:47 PM 
+- 💂 [法官向推特下令：将前高管统计虚假账户的文件交给马斯克](https://www.cnbeta.com/articles/tech/1304753.htm) | Mon Aug 15 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据韩国发布的一份研究报告，韩国三星电子芯片制造部门三星晶圆厂如果要与台湾半导体制造公司（TSMC）有效竞争，需要更多政府支持&lt;/strong&gt;。三星和台积电是世界上仅有的两家有能力用先进制造技术制造半导体的合同芯片制造商，后者在市场上有绝对的领先优势，全球大部分订单都是通过其设施流转的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国一名法官下达命令，让推特将一名前高管的文件交给马斯克，这名高管是统计推特虚假账户的关键人物。&lt;/strong&gt;法庭命令显示，法官要求推特根据来自前消费品总经理凯文·贝克普尔（Kayvon Beykpour）提供的内容收集、评估、制作文件。推特和马斯克的律师还没有回应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Hyper发布全球最小245W GaN充电器和充电宝](https://www.cnbeta.com/articles/tech/1304741.htm) | Mon Aug 15 2022 5:31 PM 
+- 🚀 [WeWork创始人新公司Flow获3.5亿美元投资](https://www.cnbeta.com/articles/tech/1304751.htm) | Mon Aug 15 2022 11:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Hyper 今天发布了两款全新高功率配件，专门为苹果设备设计，分别是 HyperJuice 245W 氮化镓桌面充电器和 HyperJuice 245W USB-C 充电宝。HyperJuice 245W 氮化镓桌面充电器是全球最小的 245W 氮化镓充电器，提供了 4 个 USB-C 接口，每个接口都可以提供 100W USB-C PD 供电，可以同时为多款设备充电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Andreessen Horowitz（又名a16z）宣布投资新型住宅房地产公司Flow。Flow是亚当·诺伊曼（Adam Neumann）创建的，他是WeWork创始人、前CEO，2019年被迫离职。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中国显卡厂商芯动科技加入UCIe联盟 首发国产Chiplet标准方案](https://www.cnbeta.com/articles/tech/1304739.htm) | Mon Aug 15 2022 4:41 PM 
+- 🎊 [QQ音乐更新了个游戏引擎 它到底想干啥？](https://www.cnbeta.com/articles/tech/1304749.htm) | Mon Aug 15 2022 11:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自称中国一站式IP和定制芯片领军企业的芯动科技宣布，&lt;strong&gt;正式加入UCIe产业联盟&lt;/strong&gt;，推动Chiplet&lpar;小芯片/芯粒&rpar;标准化。同时，&lt;strong&gt;芯动科技自研的首套跨工艺、跨封装物理层兼容UCIe国际标准的Innolink Chiplet解决方案，已在全球范围内率先兼容各种应用场景，并成功商用落地。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前阵子我们不是给大家说过手机 QQ 里塞了虚幻 4 引擎的事儿嘛，当时大家讨论的还挺热烈的。（&amp;nbsp;手机 QQ 安装包居然快 900MB ，真就塞了个虚幻引擎？&amp;nbsp;）不知道是不是腾讯尝到了甜头， QQ 音乐里也出现了一个叫&amp;nbsp;“ music zone ”&amp;nbsp;的新功能，同样为 QQ 音乐&amp;nbsp;“&amp;nbsp;增重&amp;nbsp;”&amp;nbsp;了不少。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
