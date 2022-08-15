@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [自认为经验丰富的爱猫者，可能予了猫咪太多自以为是的爱](http://jandan.net/p/111139) | Mon Aug 15 2022 4:48 AM 
+- 🚀 [新发现的信号分子能强烈刺激毛发生长](http://jandan.net/p/111147) | Mon Aug 15 2022 5:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    理想的下一代脱发候选药物可能不远了 
+    </details> 
+
+- 🙉 [自认为经验丰富的爱猫者，可能予了猫咪太多自以为是的爱](http://jandan.net/p/111139) | Mon Aug 15 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
     会让猫猫受不了 
     </details> 
 
-- 🙉 [今日好价 0815](http://jandan.net/p/111145) | Mon Aug 15 2022 4:17 AM 
+- 🎉 [今日好价 0815](http://jandan.net/p/111145) | Mon Aug 15 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [微创、便宜的角膜替代植入物使临床实验里的所有失明者恢复全部视力](http://jandan.net/p/111141) | Sun Aug 14 2022 12:34 PM 
+- 🐲 [微创、便宜的角膜替代植入物使临床实验里的所有失明者恢复全部视力](http://jandan.net/p/111141) | Sun Aug 14 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
     有3人现在拥有了完美的20/20 视力；制造植入物的材料是食品工业的副产品 
     </details> 
 
-- 🐲 [这位天文学家坚信星际流星是外星文明的造物，或起码是“振金”材质](http://jandan.net/p/111136) | Sun Aug 14 2022 5:07 AM 
+-  [这位天文学家坚信星际流星是外星文明的造物，或起码是“振金”材质](http://jandan.net/p/111136) | Sun Aug 14 2022 5:07 AM 
     <details><summary>展开描述 ...</summary> 
     正募集百万美元去大海捞针 
-    </details> 
-
--  [第一颗来自其它恒星系的星际流星如何打通一条“官僚迷宫”落入人间](http://jandan.net/p/111135) | Sun Aug 14 2022 4:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    因为需要美国国防部的数据背书，所以关于它的发现迟迟无法登上期刊 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
