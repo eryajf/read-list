@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [保时捷客服回应“186万豪车当街起火”：如有缺陷会召回](https://www.cnbeta.com/articles/tech/1304557.htm) | Mon Aug 15 2022 7:14 AM 
+- 🕯 [俞敏洪称感谢当年北大处分他：推动自己开启了广阔人生](https://www.cnbeta.com/articles/tech/1304605.htm) | Mon Aug 15 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，有消息称一辆保时捷Panamera在广东省广州市白云区当街起火。针对此事，中新经纬以消费者身份致电了保时捷中国，问及是否存在该起火事件，客服表示除非当事车主本人查询，否则无法查询到相关详情。如车型存在缺陷，有同款车型的车主请关注召回信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月15日下午消息，新东方创始人俞敏洪在个人公众号发表最新文章，题为《&lt;a href=&quot;https://mp.weixin.qq.com/s/bsF6bt0nnX-a-4ObahOZvw&quot; target=&quot;_blank&quot;&gt;生死相依，才是人类最真挚的感情！&lt;/a&gt;》。其中，俞敏洪提到和薛兆丰老师聊天得知了其从北大离开的原因，竟然和自己如出一辙。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [硬件付费订阅引众怒 黑客向宝马宣战：将免费破解给车主使用](https://www.cnbeta.com/articles/tech/1304555.htm) | Mon Aug 15 2022 7:13 AM 
+- 💼 [首次双芯设计 锐龙7000旗舰主板售价偷跑](https://www.cnbeta.com/articles/tech/1304603.htm) | Mon Aug 15 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前段时间，宝马宣布将为今后的新车推出远程付费升级服务，包括座椅加热、自适应巡航等功能，&lt;strong&gt;客户可以在需要的时候，暂时或者永久付费开通某些功能。&lt;/strong&gt;韩国和英国等市场，已经上线了部分服务，英国车主每月花15英镑&lpar;约合人民币120元&rpar;激活加热座椅等设备，或每月花35英镑&lpar;42美元&rpar;激活主动巡航控制设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD预计会在9月中旬正式推出锐龙7000处理器，同时还有全新的AM5平台主板，本月初5大主板品牌已经展示了高端的X670/X670E主板，其中微星2款型号已经在意大利网站偷跑，最高的也不到4000元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [狗狗感染猴痘引发了关于这种病毒从人类传染给动物的问题](https://www.cnbeta.com/articles/science/1304553.htm) | Mon Aug 15 2022 7:12 AM 
+- 💂 [米哈游新作《崩坏：星穹铁道》获扶持 暂未获得版号](https://hot.cnbeta.com/articles/game/1304601.htm) | Mon Aug 15 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据 《新闻周刊》报道，猴痘病毒继续在美国和世界各国蔓延，但首次有狗在主人出现症状后检测呈阳性。人们一直不清楚这种病毒是否可以从人类传播到动物，因为这种病毒是人畜共患的，这意味着它更常见于从动物到人类的传播。然而，&lt;strong&gt;《&lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736&lpar;22&rpar;01487-8/fulltext&quot; target=&quot;_self&quot;&gt;柳叶刀&lt;/a&gt;》杂志最近的一份报告显示，有证据表明两名同居的男性患者感染了猴痘病毒，并且很可能将病毒传染给了他们4岁的意大利灰狗。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日上海徐汇区文化和旅游局发布了“关于2022年度徐汇区文化发展专项资金扶持项目评审结果的公示”，&lt;strong&gt;米哈游3D回合制策略RPG新作《崩坏：星穹铁道》位列其中。&lt;/strong&gt;此外还有《战火与永恒》《江南百景图》等4个游戏项目拟获扶持，3项元宇宙相关项目拟获扶持。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1304601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小鹏车主出车祸被护栏插中身亡，小鹏回应：事发时车辆属于手动驾驶状态](https://www.cnbeta.com/articles/tech/1304551.htm) | Mon Aug 15 2022 7:10 AM 
+- 🚀 [少女时代迎来15周年 纪念LOGO抄袭迪士尼海洋标引热议](https://hot.cnbeta.com/articles/music/1304599.htm) | Mon Aug 15 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，日前，浙江梁先生的侄子在驾驶小鹏汽车时，发生交通事故身亡。&lt;strong&gt;事故发生时，车辆没有明显刹车痕迹，发生碰撞后，气囊并未弹出，引起家属质疑。&lt;/strong&gt;行车记录仪拍下的视频显示，驾驶员在行驶途中逐渐偏离车道，最终导致车辆撞上隔离栏。其中被撞击的一截栏杆伤害到驾驶员的大脑。据了解，这也是导致该驾驶员身亡的原因。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;老牌韩国少女偶像天团少女时代迎来出道15周年，日前官方宣布将发行全新15周年专辑，&lt;strong&gt;然而在纪念MV中出现了15周年纪念LOGO却引发热议，有眼尖的粉丝发现这个纪念LOGO有抄袭迪士尼海洋同样的15周年纪念标的嫌疑，日前MV的导演承认抄袭向公众致歉。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1304599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [匈牙利工厂建成之后 宁德时代在欧洲就将有两大生产基地](https://www.cnbeta.com/articles/tech/1304547.htm) | Mon Aug 15 2022 7:03 AM 
+- 🎊 [现代汽车集团宣布在美国发起设立AI研究所 初始投资超过4亿美元](https://www.cnbeta.com/articles/tech/1304597.htm) | Mon Aug 15 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周五宁德时代发布公告称，公司第三届董事会第九次会议审议通过了《关于投资建设匈牙利时代新能源电池产业基地项目的议案》，将投资不超过73.4亿欧元，在匈牙利德布勒森市建设100GWh动力电池系统生产线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据国外媒体报道，现代汽车集团已在官网宣布，他们将在美国发起成立一家新的AI研发机构，将由他们已经控股的波士顿动力的创始人领导。&lt;/strong&gt;从现代汽车在官网公布的消息来看，他们发起成立的AI研发机构，名为波士顿动力AI研究所，波士顿动力的创始人Marc Raibert将领导这一机构。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
