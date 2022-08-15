@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求推荐 vue3 + typescript 最佳实践的文章或视频](https://www.v2ex.com/t/873070#reply0) | Mon Aug 15 2022 3:03 PM
-- 🤗 [奇怪现象之 M1 芯片下安卓 APP 打包更大](https://www.v2ex.com/t/873055#reply3) | Mon Aug 15 2022 1:08 PM
-- 🎭 [学习 nginx，遇到文件夹改名了无法访问的问题](https://www.v2ex.com/t/873052#reply2) | Mon Aug 15 2022 12:31 PM
-- 🥷 [spring-boot+spring-cloud, 基础的加载配置代码如何脱离容器来运行？](https://www.v2ex.com/t/873047#reply0) | Mon Aug 15 2022 11:32 AM
-- 🐵 [萌新求教一下大佬们 C++教材](https://www.v2ex.com/t/873046#reply16) | Mon Aug 15 2022 11:28 AM<!-- v2ex:END -->
+- 🥸 [最近一直纠结 terraform 和各种云的组织和 IaC 处理问题](https://www.v2ex.com/t/873079#reply0) | Mon Aug 15 2022 3:50 PM
+- 🤗 [有在美国本科读 AI 相关课程的 V 友吗，可以说一下你们 ML 和 DL 用什么教材吗？](https://www.v2ex.com/t/873075#reply0) | Mon Aug 15 2022 3:36 PM
+- 🎭 [Go 有 gc 的话，创建结构体是直接创建还是用 new 好？](https://www.v2ex.com/t/873074#reply3) | Mon Aug 15 2022 3:34 PM
+- 🥷 [学技术，看 o reilly 的书好，还是 in action 系列好？](https://www.v2ex.com/t/873073#reply4) | Mon Aug 15 2022 3:22 PM
+- 🐵 [求推荐 vue3 + typescript 最佳实践的文章或视频](https://www.v2ex.com/t/873070#reply0) | Mon Aug 15 2022 3:03 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
