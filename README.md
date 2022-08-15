@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [报告称三星与台积电竞争时面临着一些弊端](https://www.cnbeta.com/articles/tech/1304743.htm) | Mon Aug 15 2022 6:47 PM 
+- 🕯 [Android 13 源代码已经发布到AOSP](https://www.cnbeta.com/articles/tech/1304747.htm) | Mon Aug 15 2022 7:31 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Google今天宣布，作为正式发布最新版本的Android系统的一部分，Android 13的源代码已经发布到Android开源项目（AOSP）。Android 13带来了安全改进、UI/主题完善、生产力提升、OpenJDK 11 LTS更新、ART优化、垃圾收集改进以及其他各种进化和变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [科技公司寻找不破坏地球环境的空调以应对全球气候变化](https://www.cnbeta.com/articles/tech/1304745.htm) | Mon Aug 15 2022 7:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在越来越多的热浪中，空调已成为一条生命线。这些电器对于保持人们的凉爽，保护他们免受危险的高温天气影响。国际能源署（IEA）估计，到2050年，整个地球上可能有超过50亿台空调。&lt;strong&gt;问题是，虽然空调确实能保证人们的安全，但它们也是气候变化的一个主要贡献者。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [报告称三星与台积电竞争时面临着一些弊端](https://www.cnbeta.com/articles/tech/1304743.htm) | Mon Aug 15 2022 6:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;根据韩国发布的一份研究报告，韩国三星电子芯片制造部门三星晶圆厂如果要与台湾半导体制造公司（TSMC）有效竞争，需要更多政府支持&lt;/strong&gt;。三星和台积电是世界上仅有的两家有能力用先进制造技术制造半导体的合同芯片制造商，后者在市场上有绝对的领先优势，全球大部分订单都是通过其设施流转的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Hyper发布全球最小245W GaN充电器和充电宝](https://www.cnbeta.com/articles/tech/1304741.htm) | Mon Aug 15 2022 5:31 PM 
+- 🚀 [Hyper发布全球最小245W GaN充电器和充电宝](https://www.cnbeta.com/articles/tech/1304741.htm) | Mon Aug 15 2022 5:31 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Hyper 今天发布了两款全新高功率配件，专门为苹果设备设计，分别是 HyperJuice 245W 氮化镓桌面充电器和 HyperJuice 245W USB-C 充电宝。HyperJuice 245W 氮化镓桌面充电器是全球最小的 245W 氮化镓充电器，提供了 4 个 USB-C 接口，每个接口都可以提供 100W USB-C PD 供电，可以同时为多款设备充电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国显卡厂商芯动科技加入UCIe联盟 首发国产Chiplet标准方案](https://www.cnbeta.com/articles/tech/1304739.htm) | Mon Aug 15 2022 4:41 PM 
+- 🎊 [中国显卡厂商芯动科技加入UCIe联盟 首发国产Chiplet标准方案](https://www.cnbeta.com/articles/tech/1304739.htm) | Mon Aug 15 2022 4:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;自称中国一站式IP和定制芯片领军企业的芯动科技宣布，&lt;strong&gt;正式加入UCIe产业联盟&lt;/strong&gt;，推动Chiplet&lpar;小芯片/芯粒&rpar;标准化。同时，&lt;strong&gt;芯动科技自研的首套跨工艺、跨封装物理层兼容UCIe国际标准的Innolink Chiplet解决方案，已在全球范围内率先兼容各种应用场景，并成功商用落地。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [理想L9将于8月18日正式下线：9月可交付1万辆车](https://www.cnbeta.com/articles/tech/1304737.htm) | Mon Aug 15 2022 4:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据官方消息，&lt;strong&gt;理想L9将于8月18日在常州工厂举行下线仪式，正式下线，将于8月底开启交付用户。&lt;/strong&gt;根据此前官方在8月1日公布的数据，L9累计预订辆超过了50000份，其中确认定购的定单用户超过了30000个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [索尼、微软不再拖后腿 AMD锐龙7000处理器这次随便买](https://www.cnbeta.com/articles/tech/1304735.htm) | Mon Aug 15 2022 4:36 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月份AMD的锐龙7000处理器就要上市了，这一代升级了5nm Zen4架构，IPC提升8-10%，单核提升15%以上，综合提升35%，亮点可不少。对于AMD新品，A饭现在担心的也主要是三件事——&lt;strong&gt;性能能否跟13代酷睿有得一战、价格是上涨还是下调，最后一点则是供货能不能跟上，&lt;/strong&gt;毕竟上了台积电5nm工艺，而且两年前的锐龙5000新品上市就涨价的教训很深刻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
