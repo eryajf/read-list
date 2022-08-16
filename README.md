@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Pastebot 2.4.2 剪切板管理器](https://xclient.info/s/pastebot.html) | Mon Aug 15 2022 1:15 AM 
+- 🦏 [FontLab 8.0.1.8248 字体编辑器](https://xclient.info/s/fontlab.html) | Tue Aug 16 2022 2:42 AM 
     <details><summary>展开描述 ...</summary> 
-    Pastebot 是一款 Mac 设备上的第三方剪贴板管理器应用，它能够与 iCloud 同步，还可以配合 iOS 和 macOS 系统的通用剪贴板使用。 
+    FontLab VI 是一款Mac上的字体编辑软件，可以自动计算字距和指标，还可以修改字体，字形和技术字体信息，也能在zip中打开BitFonter Photofont（PHF + PNG，+ SVG），Fontographer（FOG），Glyphs，Ikarus的任意一种。 
     </details> 
 
--  [IconFly 3.11.1 应用图标生成](https://xclient.info/s/iconfly.html) | Mon Aug 15 2022 1:14 AM 
+-  [Money Pro 2.8.3 可同步账单、预算和账户](https://xclient.info/s/money-pro.html) | Tue Aug 16 2022 2:41 AM 
     <details><summary>展开描述 ...</summary> 
-    IconFly 是Mac os平台上的一款帮助用户生成软件图标的图标制作软件 
+    Money Pro是Mac上的一款很好用的理财软件，目前全世界共有两百多万客户使用它来管理个人财务。它是一款真正的多合一应用程序，可以为你规划账单、安排预算、跟踪交易，并且所有操作均可同步执行。 
     </details> 
 
-- ⚗️ [App Cleaner &amp;amp; Uninstaller Pro 7.8.2 软件卸载工具](https://xclient.info/s/app-cleaner-uninstaller-pro.html) | Mon Aug 15 2022 1:13 AM 
+- ⚗️ [DoubleTake 2.6.8&lpar;1048&rpar; 全景照片拼接](https://xclient.info/s/doubletake.html) | Tue Aug 16 2022 2:41 AM 
     <details><summary>展开描述 ...</summary> 
-    App Cleaner Pro是一款Mac上非常好用的软件卸载工具，支持应用卸载、Widget卸载、浏览器插件卸载，支持拖拽卸载和列表卸载，能够非常干净的卸载应用，节省你的磁盘空间。 
+    DoubleTake 是一款Mac平台的照片全景拼图工具，可以直接将图片拖拽到视图中进行编辑图片重叠部分会自动融合最后合并成为一张全景图像，还支持将iphoto 和 Aperture 中的图片进行拖拽。 
     </details> 
 
-- 🔥 [Movie Thumbnails Maker 4.3.1 电影缩略图制作工具](https://xclient.info/s/movie-thumbnails-maker.html) | Mon Aug 15 2022 1:12 AM 
+- 🔥 [WidsMob Montage 2.22 蒙太奇图片制作](https://xclient.info/s/widsmob-montage.html) | Tue Aug 16 2022 2:40 AM 
     <details><summary>展开描述 ...</summary> 
-    Movie Thumbnails Maker 是一款电影缩略图制作工具，可以让您第一眼看到最新电影的内容。 
+    WidsMob Montage 是一款能轻松制作蒙太奇图片的软件！简单滴说就是一张图片的组成是由许多小图片拼贴而成的，这样的画面非常有意思。 
     </details> 
 
-- 🌋 [Perfectly Clear WorkBench 4.1.2.2319 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Mon Aug 15 2022 1:08 AM 
+- 🌋 [SyncBird Pro 3.8.3 iOS内容管理软件](https://xclient.info/s/syncbird-pro.html) | Tue Aug 16 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
+    SyncBird Pro是一款运行在Mac平台上的iOS内容管理软件，你可以使用SyncBird Mac版在iPhone、iPad和Mac之间转移音乐、照片、视频、书籍等内容，SyncBird Mac版还支持转换格式、双向同步、导入等实用的功能。 
     </details> 
 <!-- xclient:END -->
 
