@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google官方Android 13雕像在总部竖起 看起来有点像bugdroid的屁股](https://www.cnbeta.com/articles/tech/1305195.htm) | Tue Aug 16 2022 2:09 PM 
+- 🕯 [非洲企鹅被曝濒临灭绝 原因是人为](https://www.cnbeta.com/articles/tech/1305205.htm) | Tue Aug 16 2022 3:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Android 13系统的稳定版本终于发布并率先向Pixel手机推出。这也意味着Google是时候在其总部后院竖起一个官方雕像，并加入该公司多年来竖起的Android吉祥物系列了。&lt;strong&gt;这一次，Google选择了一个秋千，凳子的形状是三，但它的形状和形式使它看起来更像是bugdroid吉祥物长了一对屁股。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;非洲企鹅濒临灭绝，正被赶离南非东海岸的自然栖息地，经研究发现是受相关船舶加油的噪音影响。据了解，阿尔戈亚湾位于南非的伊丽莎白港，近3万头瓶鼻海豚生活于此，拥有丰富的海洋和鸟类生物，是全球最大的非洲企鹅繁殖地，但是16年南非开始允许当地船只在海上加油后岛上的非洲企鹅数量急剧减少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软与Canonical联合宣布Ubuntu 22.04 LTS上的原生.NET 6支持](https://www.cnbeta.com/articles/tech/1305193.htm) | Tue Aug 16 2022 2:05 PM 
+- 💼 [Intel显卡放弃DirectX 9支持 《CSGO》实测性能惨不忍睹](https://www.cnbeta.com/articles/tech/1305203.htm) | Tue Aug 16 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为微软和Canonical之间的最新合作项目，双方今天共同宣布了Ubuntu 22.04 LTS主机和容器的本地.NET可用性。微软的.NET 6现在可以在Ubuntu 22.04 LTS上通过简单的sudo apt install dotnet6命令使用，微软现在还为Ubuntu提供了带有.NET 6和ASP.NET运行机制的设备镜像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel的Arc A380显卡上市之后，多家网站都指出它在DX9/DX11等旧游戏中表现不佳，前不久Intel高管还在采访中确认会继续优化旧游戏，然而Intel突然又表示不再原生支持DX9了。Intel已经确认，基于Xe LP架构的12代酷睿核芯显卡、基于Xe HGP架构的Arc A系列独立显卡，&lt;strong style=&quot;white-space: normal;&quot;&gt;都不再原生支持DX9，而基于DX9的程序、游戏都需要通过D3D9On12进行转译运行。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [索尼可能将推出自己的PC游戏启动器](https://hot.cnbeta.com/articles/game/1305191.htm) | Tue Aug 16 2022 2:00 PM 
+- 💂 [微软提醒客户注意俄罗斯黑客组织SEABORGIUM的网络钓鱼攻击](https://www.cnbeta.com/articles/tech/1305201.htm) | Tue Aug 16 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继PSN账户连接后，玩家又在《漫威蜘蛛侠：复刻版》游戏文件中找到了“PlayStation PC启动器”的引用，这意味着索尼可能很快将推出自己的PC游戏启动器。此前，已有不少游戏发行商推出了自己的PC游戏启动器，包括R星，B社等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软最近透露，他们已经发现了一种恶意攻击与俄罗斯的黑客密切相关，因为其背后的目标似乎有利于他们。据说SEABORGIUM黑客组织是这次攻击的幕后黑手，微软进一步表示，他们目前正在调查此事，同时试图追踪他们在服务器中的数字足迹，以确定任何可能进一步使他们受到影响的漏洞。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [腾讯“分手”传闻“吓丢”美团千亿市值？](https://www.cnbeta.com/articles/tech/1305189.htm) | Tue Aug 16 2022 1:56 PM 
+- 🚀 [三大运营商上半年日均赚超5亿元 中国电信净利增速最低](https://www.cnbeta.com/articles/tech/1305199.htm) | Tue Aug 16 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天（8月16日）午后，“腾讯或将出清美团股票”的消息在网上不胫而走，美团港股急转直下，盘中跌幅一度扩大超 11 %，对应市值蒸发一度超千亿港元。溯源这场震及二级市场的传闻，始于路透社的一则报道：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年上半年，三大运营商日均约赚5.16亿元。8月16日，随着中国电信2022年上半年财报披露，三大基础电信运营商上半年业绩全部出炉。上半年，三大运营商合计实现营收约9133.8亿元，净利润约933.5亿元，日均约赚5.16亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Lyft和Motional的全电动无人驾驶出租车服务现已在拉斯维加斯上路](https://www.cnbeta.com/articles/tech/1305187.htm) | Tue Aug 16 2022 1:13 PM 
+- 🎊 [四款Pixel 7机型获FCC认证 其中两款支持毫米波5G](https://www.cnbeta.com/articles/tech/1305197.htm) | Tue Aug 16 2022 2:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项新的机器人出租车服务已在拉斯维加斯正式启动，并免费开放供公众使用。该服务由Lyft和一家名为Motional的自动驾驶汽车公司运营，是将于2023年在该市推出的完全无人驾驶服务的前奏。Motional公司是现代汽车公司和Aptiv公司的合资企业，通过与Lyft公司的合作，已经在拉斯维加斯测试其自动驾驶车辆四年多了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Pixel 7系列预计很快就会在富士康投入量产，同时谷歌继续为预计的10月初的发布会做准备&lt;/strong&gt;，据称Pixel 7系列10月6日预购，13日开始销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
