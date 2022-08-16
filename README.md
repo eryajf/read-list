@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Noptcha : 一个自动完成 CAPTCHA 的浏览器插件](https://www.v2ex.com/t/873187#reply0) | Tue Aug 16 2022 5:03 AM
-- 🤗 [Google Voice 回收时间缩短至 30 天](https://www.v2ex.com/t/873186#reply18) | Tue Aug 16 2022 4:51 AM
-- 🎭 [镜像网站数据库重启的疑问](https://www.v2ex.com/t/873174#reply0) | Tue Aug 16 2022 4:11 AM
-- 🥷 [调查下有多少人想搞自己的 SaaS 系统?](https://www.v2ex.com/t/873173#reply4) | Tue Aug 16 2022 4:09 AM
-- 🐵 [安卓 APP 刚刚打开就手动退出，之后突然又弹出来是怎么回事？](https://www.v2ex.com/t/873170#reply3) | Tue Aug 16 2022 4:07 AM<!-- v2ex:END -->
+- 🥸 [这个技术太神奇了,是怎么实现的?](https://www.v2ex.com/t/873199#reply12) | Tue Aug 16 2022 6:04 AM
+- 🤗 [Noptcha : 一个自动完成 CAPTCHA 的浏览器插件](https://www.v2ex.com/t/873187#reply2) | Tue Aug 16 2022 5:03 AM
+- 🎭 [Google Voice 回收时间缩短至 30 天](https://www.v2ex.com/t/873186#reply28) | Tue Aug 16 2022 4:51 AM
+- 🥷 [镜像网站数据库重启的疑问](https://www.v2ex.com/t/873174#reply0) | Tue Aug 16 2022 4:11 AM
+- 🐵 [调查下有多少人想搞自己的 SaaS 系统?](https://www.v2ex.com/t/873173#reply5) | Tue Aug 16 2022 4:09 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
