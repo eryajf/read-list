@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：iOS 16 beta 6 开始推送、Android 13 开始推送等](https://sspai.com/post/75171) | Tue Aug 16 2022 1:04 AM 
+- 👹 [基因组学数据科学双专业学生拯救知识点记不住：本科生学习工作流](https://sspai.com/post/75145) | Tue Aug 16 2022 3:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    虽然不能说适合所有人，但全文一共提到的三个步骤两个技巧一个方法论和十几个常见的、不常见的 app 多少能引起一些思考，希望帮助大家找到适配自己工作/学习的习惯和内容的工作流。&lt;a href=&quot;https://sspai.com/post/75145&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：iOS 16 beta 6 开始推送、Android 13 开始推送等](https://sspai.com/post/75171) | Tue Aug 16 2022 1:04 AM 
     <details><summary>展开描述 ...</summary> 
     高德地图红绿灯倒计时功能上线，腾讯会议电话入会开始收费等。&lt;a href=&quot;https://sspai.com/post/75171&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派评 | 近期值得关注的 App](https://sspai.com/post/75164) | Mon Aug 15 2022 9:55 AM 
+- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/75164) | Mon Aug 15 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75164&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [一日一技 | 如何快速上手注音输入法](https://sspai.com/post/75103) | Mon Aug 15 2022 8:01 AM 
+- 🥸 [一日一技 | 如何快速上手注音输入法](https://sspai.com/post/75103) | Mon Aug 15 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
     一项有趣的知识储备。&lt;a href=&quot;https://sspai.com/post/75103&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [数字文具盒 | 都是输入、沉淀与输出，我的选择有什么不一样](https://sspai.com/post/75127) | Mon Aug 15 2022 6:28 AM 
+- 🙉 [数字文具盒 | 都是输入、沉淀与输出，我的选择有什么不一样](https://sspai.com/post/75127) | Mon Aug 15 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75127&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [獭可派 | 可背可提还「上镜」：为什么你该试试 Bellroy](https://sspai.com/post/75123) | Mon Aug 15 2022 3:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    点击领取满700减70优惠券点击领取满1000减150优惠券点击领取满1400减280优惠券注：对领券及使用有任何疑问或需要帮助请直接联系Bellroy天猫国际旗舰店客服，发送「少数派」即可获取详细信 ...&lt;a href=&quot;https://sspai.com/post/75123&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
