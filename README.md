@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [首款石墨烯散热M.2 SSD发布：极限读写不降速掉盘](https://www.cnbeta.com/articles/tech/1305163.htm) | Tue Aug 16 2022 12:13 PM 
+- 🕯 [Lyft和Motional的全电动无人驾驶出租车服务现已在拉斯维加斯上路](https://www.cnbeta.com/articles/tech/1305187.htm) | Tue Aug 16 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;PCIe 4.0时代，SSD的速度有了显著提升，可由此也带来发热量增加的情况。一旦热量聚集过多，轻则降速，重则还可能造成卡顿甚至掉盘。日前，十铨（TEAMGROUP）发布了业内首款石墨烯技术加持的M.2 SSD产品MP44L。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项新的机器人出租车服务已在拉斯维加斯正式启动，并免费开放供公众使用。该服务由Lyft和一家名为Motional的自动驾驶汽车公司运营，是将于2023年在该市推出的完全无人驾驶服务的前奏。Motional公司是现代汽车公司和Aptiv公司的合资企业，通过与Lyft公司的合作，已经在拉斯维加斯测试其自动驾驶车辆四年多了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [嘉陵江被晒成“嘉陵工”？官方回应：网传视频本就是浅滩](https://www.cnbeta.com/articles/tech/1305161.htm) | Tue Aug 16 2022 12:03 PM 
+- 💼 [Twelve South发布新款MacBook支架Curve Flex 可折平以便于携带](https://www.cnbeta.com/articles/tech/1305185.htm) | Tue Aug 16 2022 1:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;高温一度突破44.4℃，霸占全国高温排行前十中六席的重庆，近日受到了大量关注。持续的高温天气不仅仅是让人难受，也对环境造成了一定的影响。据此前报道，重庆33个区县部分地区土壤轻到重度缺墒，全市51条河流断流，24座水库干涸，2138眼机电井出水不足。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Twelve South宣布推出Curve Flex，这是一款为MacBook设计的笔记本电脑支架，可将设备从2英寸高度提升到22英寸，本身还可折叠放平，便于携带。Curve Flex提供黑色或白色的磨砂表面，售价79.99美元/79.99英镑/89.99欧元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [四川拉响限电警报  半导体产业链影响几何？](https://www.cnbeta.com/articles/tech/1305159.htm) | Tue Aug 16 2022 12:02 PM 
+- 💂 [新专利显示苹果研究可穿戴手套输入设备 简化与AR和VR的互动](https://www.cnbeta.com/articles/tech/1305183.htm) | Tue Aug 16 2022 1:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，因极端高温天气等原因，四川工业企业“临时限电停产”引发行业关注。作为我国中西部集成电路产业的重点区域，封测、显示、光伏等领域均遭遇不同程度影响。&lt;strong style=&quot;white-space: normal;&quot;&gt;集微网在采访中了解到，相关部门半月前就发出预警提示，但临时限电所造成的停产仍然给企业的生产运营带来不小压力，部分企业面临库存报废的经济风险和无法及时交货的罚款和订单流失风险。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司正在研究用户如何与计算机系统互动，&lt;strong&gt;其中一个想法是可以用于手势控制的手套，并有可能在某些情况下提供触觉反馈。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [AI预测30秒内火灾轰燃 中国石油大学参与研究](https://www.cnbeta.com/articles/tech/1305157.htm) | Tue Aug 16 2022 11:57 AM 
+- 🚀 [Das Keyboard推出MacTigr有线机械键盘 面向Mac设计](https://www.cnbeta.com/articles/tech/1305181.htm) | Tue Aug 16 2022 1:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这段时间天气巨热，天干物燥，也是火灾高发的时候。最近就接连发生了一些火灾事件，还有消防员牺牲的消息，令人心痛。&lt;strong style=&quot;white-space: normal;&quot;&gt;火灾中对消防员威胁很大的，其实是爆燃现象。&lt;/strong&gt;短短两天，就有两起消防员因为爆燃现象而牺牲的事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然苹果公司的妙控键盘实际上表现相当不错，但有一个不幸的事实，该公司根本不生产机械键盘。因此，如果你想为你的Mac购买这样的键盘，你将不得不依赖第三方公司。Das Keyboard新推出的以苹果为重点的USB-C键盘，名为&amp;quot;MacTigr&amp;quot;，不仅有Das键盘一贯扎实的用料和做工，而且这款有线键盘还具有许多出色的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [万亿美团大跌10% 腾讯真要减持吗？](https://www.cnbeta.com/articles/tech/1305155.htm) | Tue Aug 16 2022 11:54 AM 
+- 🎊 [华擎率先将英特尔的Arc A380显卡带到美国 入门价格为139.99美元](https://www.cnbeta.com/articles/tech/1305179.htm) | Tue Aug 16 2022 12:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大股东减持的传闻引发各界猜测，在二级市场掀起波澜。8月16日，美团股价午后持续走低，跌幅一度扩大至10%。截至收盘，股价有所回升，跌幅为9.07%。据市场消息称，腾讯控股计划出售其在美团的全部或大部分股份。腾讯拥有美团约17%股权，近几个月一直在与财务顾问接触，以研究如何执行可能大规模出售美团股份的计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;华擎已成为第一家将英特尔 Arc A380 显卡推向美国市场的制造商。华擎的英特尔Arc A380显卡首次在该市场推出，比AMD RX 6400便宜，售价139.99美元。就在几天前，华擎推出其Intel Arc A380 Challenger ITX OC显卡，在中国市场的价格折合150美元，比大多数亚太地区零售商列出的AMD显卡便宜。现在，华擎正式成为第一家将英特尔独立Arc A380显卡推向美国市场的制造商。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
