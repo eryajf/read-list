@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [排查服务器异常流量保姆级教程](https://juejin.cn/post/7132292135306395679) | Tue Aug 16 2022 2:16 AM 
+- 🤗 [拯救消防员！AI提前30秒预测火灾闪燃;『书籍』12个Python项目全流程；端到端企业VPN解决方案；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7132319163183267877) | Tue Aug 16 2022 4:01 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将介绍排查解决服务器异常流程的入门级保姆级解决方案，包括：日志查询，日志分析、请求链接分析、异常ip定位、ip封禁、停用服务、配置服务器host等。 
+    ShowMeAI资讯日报 08-16 期，Flet开发网页/桌面端/移动应用的Python工具库、pynapple神经生理数据分析工具包、GRAPE高性能图数据处理和嵌入的Rust/Python库… 
     </details> 
 
-- 🎡 [Windows滚动条如何美化成 macOS 那样？](https://juejin.cn/post/7132291477404647431) | Tue Aug 16 2022 2:13 AM 
+- 🎡 [踏足SVG 深入浅出全方位介绍SVG的功能及特性 - 滤镜篇（三）](https://juejin.cn/post/7132306133162655781) | Tue Aug 16 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
-    众所周知，Windows和macOS的滚动条在默认情况是不一致的，最显著的区别就是 macOS滚动条是不占据屏幕尺寸的，如下 而Windows下是这样的 很多设计师会吐槽Windows滚动条不太美观， 
+    本篇文章将将详细介绍SVG的光源滤镜。通过本文，你将会知道如何使用SVG内的光照滤镜，以及他们的使用方式及应用。 
     </details> 
 
-- 🕯 [AI听曲识歌！哼曲、口哨吹，都能秒识！](https://juejin.cn/post/7132285575259750437) | Tue Aug 16 2022 1:50 AM 
+- 🕯 [增强分析在百度统计的实践](https://juejin.cn/post/7132292831741214728) | Tue Aug 16 2022 2:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文结合作者实践经验，介绍了对于增强分析的理解和在实际工作中的展开点，包括基于自然语言的分析接口、核心功能的智能助手、业务洞察及建议，也希望在这个方向上能和大家有更多探讨。 
+    </details> 
+
+- 🚀 [创建第一个 Cypress 应用后使用命令行 npx Cypress open 报错的原因分析](https://juejin.cn/post/7132291015218003981) | Tue Aug 16 2022 2:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 大多数测试工具（如 Selenium）通过在浏览器外部运行并通过网络执行远程命令来运行。Cypress  
+    </details> 
+
+- 💪 [AI听曲识歌！哼曲、口哨吹，都能秒识！](https://juejin.cn/post/7132285575259750437) | Tue Aug 16 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
     本文讲解音频检索技术及其广泛的应用场景。以『听曲识歌』为例，技术流程为具对已知歌曲抽取特征并构建特征向量库，而对于待检索的歌曲音频，同样做特征抽取后进行比对和快速匹配。 
-    </details> 
-
-- 🚀 [2022的互联网很难，你可能需要一份好的简历](https://juejin.cn/post/7132285072727605284) | Tue Aug 16 2022 1:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 博主五六月份尝试投过20份简历感受下市场，结果只有4份简历给了回应，这在往年是不可能的情况。 在这样的市场行情下，你有再好的技术，投出去的简历都没个响声也白搭呀。 
-    </details> 
-
-- 💪 [【面试高频题】难度 3/5，近期面试原题（简单计算几何运用）](https://juejin.cn/post/7132281432440832007) | Tue Aug 16 2022 1:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 题目描述 这是 LeetCode 上的 149. 直线上最多的点数 ，难度为 困难。 Tag : 「数学 
     </details> 
 <!-- juejin:END -->
 ### 少数派
