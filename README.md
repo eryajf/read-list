@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [共享单车涨价“追”上公交车 还没追上盈利](https://www.cnbeta.com/articles/tech/1305219.htm) | Tue Aug 16 2022 4:58 PM 
+- 🕯 [腾讯辟谣清仓美团 后者今年已遭沈南鹏8次减持](https://www.cnbeta.com/articles/tech/1305221.htm) | Tue Aug 16 2022 6:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;8月16日，市场传出腾讯（00700.HK）或将出售全部美团（03690.HK）股票，对此腾讯集团市场与公关部总经理张军予以否认，截至发稿美团未有回应。&lt;/strong&gt;但受此传闻影响，美团港股午后暴跌，截至收盘股价下跌9.07%至164港元/股，市值为1.02万亿港元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [共享单车涨价“追”上公交车 还没追上盈利](https://www.cnbeta.com/articles/tech/1305219.htm) | Tue Aug 16 2022 4:58 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;共享单车企业开始了新一轮用户骑行费上调，继年初哈啰骑行卡涨价后，美团骑行卡近日涨幅也达50%。8月10日23时起，美团单车“骑行畅骑卡”无折扣价向上调整：7天畅骑卡由10元调整为15元，30天畅骑卡由25元调整为35元，90天畅骑卡由60元调整为90元。调整的价格与哈啰单车无折扣卡价格持平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [盲盒经营活动规范指引即将到来 宠物盲盒、食品盲盒拟禁止](https://www.cnbeta.com/articles/tech/1305217.htm) | Tue Aug 16 2022 4:57 PM 
+- 💂 [盲盒经营活动规范指引即将到来 宠物盲盒、食品盲盒拟禁止](https://www.cnbeta.com/articles/tech/1305217.htm) | Tue Aug 16 2022 4:57 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“盲盒诱导食品过度消费”“活体宠物盲盒”“无人认领行李箱被当盲盒售卖”……这几年，万物皆可盲盒的潮流下，盲盒乱象也逐渐增多，现在盲盒经营活动规范来了。16日，市场监管总局公开征求《盲盒经营活动规范指引（试行）（征求意见稿）》意见，拟对盲盒销售的内容、形式、销售对象等方面作出规定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [奢侈品电商第一股寺库人去楼空](https://www.cnbeta.com/articles/tech/1305215.htm) | Tue Aug 16 2022 4:56 PM 
+- 🚀 [奢侈品电商第一股寺库人去楼空](https://www.cnbeta.com/articles/tech/1305215.htm) | Tue Aug 16 2022 4:56 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;寺库的危机正在不断浮出水面。8月16日，北京商报记者探访发现，曾经摆满了奢侈品的寺库大厦如今已空空如也，仅剩5层还有部分工作人员，大厦内还专门设立了消费者维权中心。不仅如此，一年内寺库已两次被申请破产重组，还被昔日的合作伙伴冻结了千万资产。有分析人士直言，做奢侈品的垂直电商只靠低价抢市场并不能自我造血，很容易被消费者抛弃。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [长江流域发生严重旱情 高温红色预警连续发布6天](https://www.cnbeta.com/articles/tech/1305213.htm) | Tue Aug 16 2022 4:50 PM 
+- 🎊 [长江流域发生严重旱情 高温红色预警连续发布6天](https://www.cnbeta.com/articles/tech/1305213.htm) | Tue Aug 16 2022 4:50 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据国家水利部官方消息，&lt;strong style=&quot;white-space: normal;&quot;&gt;近期，长江流域发生严重旱情，对农村人畜饮水保障和农作物生长造成不利影响，水利部办公厅发出通知，部署相关省份以“时时放心不下”的责任感，坚决打赢抗旱保供水这场硬仗。&lt;/strong&gt;通知强调，要全面落实农村供水保障地方人民政府主体责任、水行政主管部门行业监管责任、供水单位运行管理责任等“三个责任”，进一步落实灌区灌溉供水保障责任，强化农业用水监管，全力做好抗旱保饮水保灌溉工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [微软证实Windows 11 KB5016629更新导致了一些问题](https://www.cnbeta.com/articles/tech/1305211.htm) | Tue Aug 16 2022 4:49 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;像往常一样，微软为Windows 11发布最新的安全更新，以提供设备的稳定和安全性，但最新的更新对一些Windows 11用户造成了新的问题。这一消息得到了微软的正式确认。根据Windows Latest的报道，KB5016629安全补丁是2022年8月升级周期的一部分。该更新旨在为支持的硬件提供安全和非安全方面的改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
