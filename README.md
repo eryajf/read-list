@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Datalogz Power BI Connector - 自助分析环境](https://xinquji.com/posts/178755?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:41 AM 
+- 👀 [Terra.do - 在气候下工作所需的一切✅](https://xinquji.com/posts/178776?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     自助分析环境  
+     在气候下工作所需的一切✅  
     </details> 
 
-- 🥷 [Poliview - 您通往政治世界的智能指南针](https://xinquji.com/posts/178754?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:39 AM 
+- 🥷 [Zen Twitter - 隐藏 Twitter 虚荣指标、通知和干扰](https://xinquji.com/posts/178775?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     您通往政治世界的智能指南针  
+     隐藏 Twitter 虚荣指标、通知和干扰  
     </details> 
 
-- 💼 [UX Portfolio Playbook - 让你被录用的分步系统](https://xinquji.com/posts/178753?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:37 AM 
+- 💼 [Clientpad - 为自由职业者设计的简化发票和提案。](https://xinquji.com/posts/178774?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     让你被录用的分步系统  
+     为自由职业者设计的简化发票和提案。  
     </details> 
 
-- 🦅 [EpicTopia - 跟踪、管理和社交生活旅程](https://xinquji.com/posts/178752?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:37 AM 
+- 🦅 [hire.win - 带有招聘页面的面试工具包](https://xinquji.com/posts/178773?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     跟踪、管理和社交生活旅程  
+     带有招聘页面的面试工具包  
     </details> 
 
-- 😺 [Email Warm-Up by Snov.io - 预热您的电子邮件以提高送达率并获得回复](https://xinquji.com/posts/178751?utm_campaign=xinquji-rss) | Tue Aug 16 2022 6:35 AM 
+- 😺 [PreCloud - 上传前加密](https://xinquji.com/posts/178772?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     预热您的电子邮件以提高送达率并获得回复  
+     上传前加密  
     </details> 
 <!-- xinquji:END -->
