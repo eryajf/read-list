@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [如果把老年人的血液输给年轻者，后者会显示出衰老迹象吗](http://jandan.net/p/111143) | Tue Aug 16 2022 9:08 AM 
+- 🚀 [西班牙科学家首次为热浪命名](http://jandan.net/p/111151) | Tue Aug 16 2022 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    西班牙政府计划在未来继续为热浪命名，以提高公众对热浪的认知 
+    </details> 
+
+- 🙉 [如果把老年人的血液输给年轻者，后者会显示出衰老迹象吗](http://jandan.net/p/111143) | Tue Aug 16 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
     动物和实验室人体组织实验揭示了结果 
     </details> 
 
-- 🙉 [数学烹饪课 如何更快速地 煎/烤 汉堡肉排](http://jandan.net/p/111144) | Tue Aug 16 2022 5:32 AM 
+- 🎉 [数学烹饪课 如何更快速地 煎/烤 汉堡肉排](http://jandan.net/p/111144) | Tue Aug 16 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
     首先，假定肉排是对称、均匀且导热系数恒定的理想对象 
     </details> 
 
-- 🎉 [今日好价 0816](http://jandan.net/p/111149) | Tue Aug 16 2022 3:27 AM 
+- 🐲 [今日好价 0816](http://jandan.net/p/111149) | Tue Aug 16 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [从蹒跚学步到昂首阔步，儿童走路方式的转变是否有文化因素的影响](http://jandan.net/p/111130) | Mon Aug 15 2022 3:23 PM 
+-  [从蹒跚学步到昂首阔步，儿童走路方式的转变是否有文化因素的影响](http://jandan.net/p/111130) | Mon Aug 15 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
     小孩子的走路方式可以向医生透露很多信息，各国都希望为儿童建立一个步态标准 
-    </details> 
-
--  [一些地狱笑话&lpar;2&rpar;](http://jandan.net/p/111148) | Mon Aug 15 2022 2:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     迟到总比不到强 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
