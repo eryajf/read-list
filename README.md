@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉刚刚升级了自家超算的GPU 向榜首位置发起冲刺](https://www.cnbeta.com/articles/tech/1305073.htm) | Tue Aug 16 2022 8:17 AM 
+- 🕯 [OmniVision发布2亿像素紧凑型OVB0A高端移动影像传感器新品](https://www.cnbeta.com/articles/tech/1305095.htm) | Tue Aug 16 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;众所周知，特斯拉内部一直在积极研发一套针对神经网络视频训练而优化的新款超级计算机。&lt;strong&gt;目前该公司神经网络有在处理来自超过百万辆汽车的大量视频数据，但研究团队显然并不满足于现有的硬件选项。&lt;/strong&gt;事实上，过去几年里，特斯拉 CEO 伊隆·马斯克经常会在社交媒体上调侃 Dojo 超算的开发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为业内领先的半导体解决方案开发商之一，OMNIVISION 于本周一隆重发布了 OVB0A 。&lt;/strong&gt;这是一款具有 2 亿像素的紧凑型图像传感器 —— 像素尺寸仅 0.56 μm、但也支持 16 像素合并 —— 能够为高端智能机的后置（广角）摄像头，带来较同类竞品更优秀的低光性能表现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [小鹏飞行汽车新试飞：起飞、前进一气呵成 超平稳](https://www.cnbeta.com/articles/tech/1305071.htm) | Tue Aug 16 2022 8:12 AM 
+- 💼 [微软宣布9月13日起IE和EdgeHTML开始禁用TLS 1.0/1.1](https://www.cnbeta.com/articles/tech/1305093.htm) | Tue Aug 16 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;小鹏飞行汽车目前已经经历过多次迭代，在全国各地的车展上都曾亮相，大家应该已经非常熟悉了，但是真正起飞的效果却很少见到。今天，博主不是郑小康曝光了一段小鹏汇天的新试飞视频，展示了该设备的起飞、前进等操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在近日更新的计划中，微软表示支持 WebView 控件的 Internet Explorer 和 EdgeHTML 中近期将禁用 TLS 1.0 和 1.1 &lpar;Transport Layer Security Protocol&rpar;。&lt;/strong&gt;该公司宣布计划在 2018 年 10 月逐步淘汰 TLS 1.0 和 1.1，但后来由于 2020 年疫情影响不得不延迟其时间表。现在微软准备在其停止支持的浏览器中取消对过时安全标准的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [狗改不了吃翔 美国药业“坏小子”刚出狱又被指操纵加密货币骗局](https://www.cnbeta.com/articles/tech/1305069.htm) | Tue Aug 16 2022 8:11 AM 
+- 💂 [日本NEC打造穿越式复古迷你机：高配1.5万元 竟然带光驱](https://hot.cnbeta.com/articles/game/1305091.htm) | Tue Aug 16 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;因哄抬救命药价格被称为“美国最被憎恨之人”，后因金融诈骗入狱，&lt;strong&gt;今年5月刚刚刑满释放的马丁- 什克雷利又招惹了新麻烦，被控操纵一个加密货币“拉地毯”骗局，出售超过1620亿枚以他名字命名的山寨币，然后在短短24小时内，让这种代币的价格暴跌了95%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日本厂商NEC今天推出了一款非常好玩的迷你机产品“MC-C”，采用了复古式造型设计，配置很先进，还可以选配DVD Super Multi光驱。&lt;strong style=&quot;white-space: normal;&quot;&gt;光驱采用外挂式安装，带上的话三围尺寸179 x 63×18.29毫米、重量2.04kg，去掉之后宽度34.5毫米、重量1.28kg，把一部iPhone放在旁边都不显得差别很大。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [建设银行：8月19日起将关闭ATM二维码存款功能](https://www.cnbeta.com/articles/tech/1305067.htm) | Tue Aug 16 2022 8:07 AM 
+- 🚀 [《指环王：力量之戒》洛杉矶首映式红毯照发布](https://hot.cnbeta.com/articles/movie/1305089.htm) | Tue Aug 16 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国建设银行官网发布公告，为提升建行持卡客户服务能力，前期建行在ATM自助渠道部署了二维码存款功能。由于业务调整，自2022年8月19日起建行将关闭ATM二维码存款功能，之后客户仍可持建行银行卡、选择无卡无折存款服务或开通“刷脸办”服务功能办理ATM存款业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，好莱坞媒体《DEADLINE》发布了亚马逊全新剧集《指环王：力量之戒》于洛杉矶举办的首映式的红毯照。出厂的包括主演罗伯特·阿拉马、莫菲德·克拉克、欧文·亚瑟等，以及亚马逊前任 CEO 杰夫·贝索斯。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1305089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [男子网约车上捡手机被判为盗窃](https://www.cnbeta.com/articles/tech/1305065.htm) | Tue Aug 16 2022 8:06 AM 
+- 🎊 [新的mRNA癌症疫苗被设计为靶向淋巴结 以获得更强的免疫反应](https://www.cnbeta.com/articles/science/1305087.htm) | Tue Aug 16 2022 8:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，江苏南京，朱先生不慎将手机落在了网约车上，拨打了50多通电话都显示关机，不久后，终于由一手机营业厅工作人员接通了电话。&lt;strong&gt;工作人员表示，一男子来到营业厅声称自己忘记了密码，要求工作人员帮忙解锁。民警立即赶往现场，在男子再次出现时，将其当场抓获。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;塔夫茨大学的研究人员创造了一种新的mRNA癌症疫苗，它被设计为将其分子带到淋巴结而不是肝脏。&lt;/strong&gt;在小鼠身上进行的测试显示，肿瘤受到了明显的抑制，在相当大比例的情况下，癌症完全消失。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
