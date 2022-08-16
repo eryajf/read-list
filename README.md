@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 网信办公布微信淘宝抖音等算法备案；两款红米手机被曝存在安全漏洞](https://www.freebuf.com/articles/341988.html) | Mon Aug 15 2022 12:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    国家网信办公开发布了境内互联网信息服务算法名称及备案编号，包括多个大型企业和产品的相关算法。。 
+    </details> 
+
 - 🦄 [Black Hat 2022 | 三大趋势已成世界定局](https://www.freebuf.com/news/341956.html) | Mon Aug 15 2022 9:26 AM 
     <details><summary>展开描述 ...</summary> 
     Black Hat被公认为“黑客界的奥斯卡”，着眼于当下实际的安全态势，分享前沿的安全研究、安全产品和解决方案。 
     </details> 
 
-- 🦄 [CISA、FBI 发布联合公告，警告 Zeppelin 勒索软件攻击](https://www.freebuf.com/news/341907.html) | Mon Aug 15 2022 3:49 AM 
+- 🦅 [Black Hat 2022公布14大研究新发现](https://www.freebuf.com/news/341915.html) | Mon Aug 15 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    PCMag选出了本届大会上14个重磅研究成果，让我们通过本文来一一窥探。 
+    </details> 
+
+- 🪄 [CISA、FBI 发布联合公告，警告 Zeppelin 勒索软件攻击](https://www.freebuf.com/news/341907.html) | Mon Aug 15 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     Zeppelin 勒索软件于2019 年11月首次出现在威胁领域。 
     </details> 
 
-- 🦅 [竟然不设密码！调查发现全球超9000台VNC 服务器存暴露风险](https://www.freebuf.com/news/341900.html) | Mon Aug 15 2022 3:14 AM 
+- 💻 [竟然不设密码！调查发现全球超9000台VNC 服务器存暴露风险](https://www.freebuf.com/news/341900.html) | Mon Aug 15 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
     在黑客论坛上，通过暴露或破解的VNC访问关键网络的需求很高，在某些情况下，这种访问可以用于更深层次的网络渗透。 
-    </details> 
-
-- 🪄 [美国制裁加密货币混合，Tornado Cash员工遭逮捕](https://www.freebuf.com/articles/341895.html) | Mon Aug 15 2022 3:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    荷兰有关当局宣布，美国在阿姆斯特丹逮捕了一名加密货币混合器工作的软件开发人员。 
-    </details> 
-
-- 💻 [Killnet黑客组织声称已“攻破”洛克希德-马丁公司](https://www.freebuf.com/news/341896.html) | Mon Aug 15 2022 3:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    《莫斯科时报》披露，黑客组织 Killnet 声称对航空航天和国防巨头洛克希德-马丁公司发动了一次大规模 DDoS 攻击。 
     </details> 
 <!-- freebuf:END -->
 
