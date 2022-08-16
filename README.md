@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [第10代iPad已投入生产 在设计上会有“重大”调整](https://www.cnbeta.com/articles/tech/1304951.htm) | Tue Aug 16 2022 3:45 AM 
+- 🕯 [日本松下派人协助特斯拉内华达超级电池工厂产能提升10%](https://www.cnbeta.com/articles/tech/1304955.htm) | Tue Aug 16 2022 4:36 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日有消息称，&lt;strong&gt;由电动汽车制造商特斯拉（Tesla）与长期电池制造合作伙伴松下（Panasonic）联合运营的内华达州超级工厂（Gigafactory Nevada），或将预期产能再提升 10% 。&lt;/strong&gt;尽管这一数字相当于新开辟一条生产线，但据说松下正试图通过流程优化来改善该设施的电池产能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [传Google新款Nest无线路由器将迎来Wi-Fi 6组网功能](https://www.cnbeta.com/articles/tech/1304953.htm) | Tue Aug 16 2022 4:20 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;Google 于 2016 年设立了 Wi-Fi 产品线，旨在通过尽可能简单的设置，为家庭用户带来快速稳定的无线互联网体验。&lt;/strong&gt;而后通过轻松的硬件扩展，这家科技巨头带来了无线组网解决方案。2019 年的时候，Nest 无线路由器还实现了与 Google Assistant 智能扬声器的集成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [第10代iPad已投入生产 在设计上会有“重大”调整](https://www.cnbeta.com/articles/tech/1304951.htm) | Tue Aug 16 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;根据 DigiTimes 透露的信息，谣传中的苹果第 10 代 iPad 目前已经投入生产，在外观设计上会有“重大”调整。&lt;/strong&gt;不过在该媒体的报道中并未提供明确的细节，在此前谣传中该 iPad 将装备更大的 10.5 英寸屏幕，更窄的边框，USB-C 端口，而且后置摄像头将不再凸起。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [DriveSavers率先宣布为Apple Silicon Mac提供数据恢复服务](https://www.cnbeta.com/articles/tech/1304949.htm) | Tue Aug 16 2022 3:39 AM 
+- 🚀 [DriveSavers率先宣布为Apple Silicon Mac提供数据恢复服务](https://www.cnbeta.com/articles/tech/1304949.htm) | Tue Aug 16 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;一家名叫 DriveSavers 的数据恢复公司，刚刚宣布了可为带有 Apple Silicon 芯片的 Mac 用户提供数据恢复服务。&lt;/strong&gt;Apple Insider 指出，它或许是首家具备这一能力的第三方服务提供商。DriveSavers 表示，其已确定从带有 M1、M2 和 T2 芯片的 Mac 设备上访问数据所需的组件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [DC《黑暗正义联盟》有望拍成剧集上线HBO Max](https://hot.cnbeta.com/articles/movie/1304947.htm) | Tue Aug 16 2022 3:27 AM 
+- 🎊 [DC《黑暗正义联盟》有望拍成剧集上线HBO Max](https://hot.cnbeta.com/articles/movie/1304947.htm) | Tue Aug 16 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，外媒《综艺》在一篇分析“DC十年规划”的文章透露： &lt;strong&gt;《星球大战：原力觉醒》导演J·J·艾布拉姆斯和他的坏机器人公司正在筹拍《黑暗正义联盟》剧集，将上线HBO Max，而且要拍成类似“复联”的风格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [芯片行业的“喜”与“忧”](https://www.cnbeta.com/articles/tech/1304945.htm) | Tue Aug 16 2022 3:25 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在如今这个冰火两重天的半导体行业氛围下，有人欢喜有人愁，一面是不断清库存的芯片厂，而另一面是长约不断的晶圆厂。芯片下行周期已至，未来芯片又将何去何从？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [韩媒：恢复经营之路，李在镕有望就任三星电子会长？](https://www.cnbeta.com/articles/tech/1304943.htm) | Tue Aug 16 2022 3:24 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据韩国《东亚日报》报道，被列入“8·15光复节特赦”对象的三星电子副会长李在镕15日正式复职。三星内部正在讨论其回归经营一线的时间和信息。有人预测，李在镕就任会长等经营正常化进程，会比预想的更快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
