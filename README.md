@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [比亚迪“开进”亚洲锂都 285亿元投建动力电池基地](https://www.cnbeta.com/articles/tech/1304757.htm) | Mon Aug 15 2022 11:16 PM 
+- 🕯 [Mycel的蘑菇基生物材料技术获1000万美元融资](https://www.cnbeta.com/articles/science/1304863.htm) | Tue Aug 16 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚洲锂都宜春迎来比亚迪（002594）。8月15日，宜春市政府、宜春经济技术开发区、宜丰县政府、宜春市矿业公司与比亚迪签订战略合作框架协议约定，比亚迪拟在宜春市投资285亿元，建设年产30GWh动力电池和年产10万吨电池级碳酸锂及陶瓷土（含锂）矿采选综合开发利用生产基地项目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;韩国一家制造可替代皮革和肉类的真菌类生物材料的初创公司Mycel表示，它在A轮融资前已经筹集了1000万美元。&lt;/strong&gt;该公司联合创始人兼CEO Sungjin Sah告诉TechCrunch，该公司利用菌丝体（一种蘑菇的根状结构）制造皮革替代品，它们可用于汽车座椅和豪华化妆品及鞋、衣服和包等时尚产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [员工接受安检时应支付费用？法院批准苹果以3050万美元和解诉讼](https://www.cnbeta.com/articles/tech/1304755.htm) | Mon Aug 15 2022 11:14 PM 
+- 💼 [微软Dev Box云端工作站服务现已开放公众预览](https://www.cnbeta.com/articles/tech/1304861.htm) | Tue Aug 16 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;2013年苹果遭到员工起诉，员工们认为下班后接受公司安全检查耗时很长，公司应该支付酬劳。后来苹果同意以3050万美元和解诉讼，最近加州联邦法官批准了和解方案。&lt;/strong&gt;美国旧金山地区法官威廉·阿尔苏普（William Alsup）于周日批准了和解方案。2020年加州最高法院认为，根据州法律的要求，强制员工进行安全检查时应该支付费用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在五月宣布了 Dev Box 之后，微软终于在本周一开放了公众预览。&lt;strong&gt;其背后的想法，是为开发者提供在云端托管的“准备就绪”工作站体验，使之能够轻松利用预配置的环境来编写代码&lt;/strong&gt;（而无需担心本地设备的架构）。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [法官向推特下令：将前高管统计虚假账户的文件交给马斯克](https://www.cnbeta.com/articles/tech/1304753.htm) | Mon Aug 15 2022 11:13 PM 
+- 💂 [微软向Office 2021用户推送Microsoft 365限时促销广告](https://www.cnbeta.com/articles/tech/1304859.htm) | Tue Aug 16 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国一名法官下达命令，让推特将一名前高管的文件交给马斯克，这名高管是统计推特虚假账户的关键人物。&lt;/strong&gt;法庭命令显示，法官要求推特根据来自前消费品总经理凯文·贝克普尔（Kayvon Beykpour）提供的内容收集、评估、制作文件。推特和马斯克的律师还没有回应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软开始向 Office 2021 用户推送 Microsoft 365 的广告，声称可以享受 Microsoft 365 家庭订阅套餐的限时优惠。&lt;strong&gt;Microsoft Azure Security 的首席安全架构师李·福尔摩斯（Lee Holmes）还分享了一张截图，在 Office 菜单栏的下方有个黄色的广告推广横幅。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [WeWork创始人新公司Flow获3.5亿美元投资](https://www.cnbeta.com/articles/tech/1304751.htm) | Mon Aug 15 2022 11:12 PM 
+- 🚀 [研究：含糖零食会对幼儿的认知能力产生负面影响](https://www.cnbeta.com/articles/science/1304857.htm) | Tue Aug 16 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Andreessen Horowitz（又名a16z）宣布投资新型住宅房地产公司Flow。Flow是亚当·诺伊曼（Adam Neumann）创建的，他是WeWork创始人、前CEO，2019年被迫离职。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据伊利诺伊大学厄巴纳-香槟分校的一项研究结果，&lt;strong&gt;幼儿的执行功能--控制记忆、注意力和情绪控制的高阶认知能力--可能因营养不良加上生活在混乱的家庭环境中而受到不利影响。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [QQ音乐更新了个游戏引擎 它到底想干啥？](https://www.cnbeta.com/articles/tech/1304749.htm) | Mon Aug 15 2022 11:10 PM 
+- 🎊 [WhatsApp新特性：允许用户使用公仔形象作为头像](https://www.cnbeta.com/articles/tech/1304855.htm) | Tue Aug 16 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前阵子我们不是给大家说过手机 QQ 里塞了虚幻 4 引擎的事儿嘛，当时大家讨论的还挺热烈的。（&amp;nbsp;手机 QQ 安装包居然快 900MB ，真就塞了个虚幻引擎？&amp;nbsp;）不知道是不是腾讯尝到了甜头， QQ 音乐里也出现了一个叫&amp;nbsp;“ music zone ”&amp;nbsp;的新功能，同样为 QQ 音乐&amp;nbsp;“&amp;nbsp;增重&amp;nbsp;”&amp;nbsp;了不少。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;WhatsApp 正在开发一种新功能：让用户在使用这款即时聊天消息服务时，可以使用公仔形象作为他们的头像。&lt;/strong&gt;几天前，著名的泄密者 WABetainfo 在 WhatsApp Android 应用程序上发现了这款即将推出的功能，但这并不意味着该功能将仅限于 Android 用户。据泄密者称，头像个人资料照片也将在其他平台上提供。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
