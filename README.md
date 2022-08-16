@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [群晖刚刚出了个 C2](https://www.v2ex.com/t/873222#reply0) | Tue Aug 16 2022 7:11 AM
-- 🤗 [你的开发环境（包括但不限于硬件、软件、设置）是什么样的？](https://www.v2ex.com/t/873221#reply0) | Tue Aug 16 2022 7:06 AM
-- 🎭 [idea 调试，线程问题](https://www.v2ex.com/t/873212#reply0) | Tue Aug 16 2022 6:43 AM
-- 🥷 [在错的地方和时间里遇到了对的人](https://www.v2ex.com/t/873205#reply19) | Tue Aug 16 2022 6:24 AM
-- 🐵 [这个技术太神奇了,是怎么实现的?](https://www.v2ex.com/t/873199#reply13) | Tue Aug 16 2022 6:04 AM<!-- v2ex:END -->
+- 🥸 [有没有靠工具类 APP 存活的个人开发者呢](https://www.v2ex.com/t/873234#reply2) | Tue Aug 16 2022 7:56 AM
+- 🤗 [关于能不能结婚的对错问题！大家理性评价](https://www.v2ex.com/t/873232#reply42) | Tue Aug 16 2022 7:51 AM
+- 🎭 [现在还有卖 USB 红外传输文件的设备吗，求个关键词，一直搜索不到](https://www.v2ex.com/t/873229#reply1) | Tue Aug 16 2022 7:35 AM
+- 🥷 [群晖刚刚出了个 C2](https://www.v2ex.com/t/873222#reply7) | Tue Aug 16 2022 7:11 AM
+- 🐵 [你的开发环境（包括但不限于硬件、软件、设置）是什么样的？](https://www.v2ex.com/t/873221#reply12) | Tue Aug 16 2022 7:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
