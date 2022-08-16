@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [绽放在桌面的英雄梦，6 寸美漫可动人偶入坑指南](https://sspai.com/prime/story/doll-and-your-hero-dream) | Tue Aug 16 2022 7:47 AM 
+- 👹 [应用内浏览器瞒天过海，苹果的隐私策略被 Instagram「扎」破了吗？](https://sspai.com/post/75176) | Tue Aug 16 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    Meta 公司旗下的 Instagram 的 iOS 版本被隐私安全专家 Felix Krause 发现，它们会用程序内的定制化浏览器尝试跟踪用户在其他第三方网页中的交互和输入，不仅有害于用户隐私，还会给用户带来不少的风险。&lt;a href=&quot;https://sspai.com/post/75176&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [绽放在桌面的英雄梦，6 寸美漫可动人偶入坑指南](https://sspai.com/prime/story/doll-and-your-hero-dream) | Tue Aug 16 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
     既然我们没法自己变成超级英雄，那我们就把「超级英雄」们买回来，让这些「货真价实」的「超级英雄」，为我们心中的那个孩子上演一场只属于我们的动作大片。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/doll-and-your-hero-dream&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [城市漫步指南：风物长宜放眼量，坐参禅意望佛山](https://sspai.com/post/75110) | Tue Aug 16 2022 6:31 AM 
+- 🤭 [城市漫步指南：风物长宜放眼量，坐参禅意望佛山](https://sspai.com/post/75110) | Tue Aug 16 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
     佛山禅城散步路线：南浦公园-后龙西街-通济桥-有记餐厅-先行书店南浦公园巧妙躲过城市热岛效应，在钢筋水泥之间忽然拥有一片绿洲，南浦公园常常是我散步路线的起点，因为过于留恋这里的宜人氛围，我会在公园的塑 ...&lt;a href=&quot;https://sspai.com/post/75110&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [基因组学数据科学双专业学生拯救知识点记不住：本科生学习工作流](https://sspai.com/post/75145) | Tue Aug 16 2022 3:32 AM 
+- 🥸 [基因组学数据科学双专业学生拯救知识点记不住：本科生学习工作流](https://sspai.com/post/75145) | Tue Aug 16 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
     虽然不能说适合所有人，但全文一共提到的三个步骤两个技巧一个方法论和十几个常见的、不常见的 app 多少能引起一些思考，希望帮助大家找到适配自己工作/学习的习惯和内容的工作流。&lt;a href=&quot;https://sspai.com/post/75145&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：iOS 16 beta 6 开始推送、Android 13 开始推送等](https://sspai.com/post/75171) | Tue Aug 16 2022 1:04 AM 
+- 🙉 [派早报：iOS 16 beta 6 开始推送、Android 13 开始推送等](https://sspai.com/post/75171) | Tue Aug 16 2022 1:04 AM 
     <details><summary>展开描述 ...</summary> 
     高德地图红绿灯倒计时功能上线，腾讯会议电话入会开始收费等。&lt;a href=&quot;https://sspai.com/post/75171&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/75164) | Mon Aug 15 2022 9:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75164&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
