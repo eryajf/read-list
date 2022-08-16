@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CRUD有啥用？关注需求收益，聊聊电商的数据体系！](https://juejin.cn/post/7132346102019260429) | Tue Aug 16 2022 5:45 AM 
+- 🤗 [自己动手给mac换电池，省1000多](https://juejin.cn/post/7132369825958985758) | Tue Aug 16 2022 7:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    大概在21年的时候同事看到我的电脑在桌子上没有放平，就说是不是电池鼓包了，看了同事的电脑是可以放平的，这时候才意识到电池鼓包 
+    </details> 
+
+- 🎡 [EMAS Serverless系列～4步教你快速搭建小程序](https://juejin.cn/post/7132365918763483143) | Tue Aug 16 2022 7:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    体验简介 本实验基于 EMAS Serverless 的云函数、云数据库、云存储等云服务能力一站式快速开发小程序《私人云相册》。 
+    </details> 
+
+- 🕯 [一文了解字节跳动 KubeZoo 的核心理念——协议转换](https://juejin.cn/post/7132361348419158030) | Tue Aug 16 2022 6:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文是 KubeZoo 系列技术文章的第二篇，将重点介绍 KubeZoo 的核心理念和关键实现 —— 协议转换。 
+    </details> 
+
+- 🚀 [使用filebeat简单收集多个nginx应用服务器日志（一）](https://juejin.cn/post/7132352303918809096) | Tue Aug 16 2022 6:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 使用filebeat简单收集多个nginx应用服务器日志（一） 
+    </details> 
+
+- 💪 [CRUD有啥用？关注需求收益，聊聊电商的数据体系！](https://juejin.cn/post/7132346102019260429) | Tue Aug 16 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是老三，不知道你的日常是否经历过这样的场景—— 产品：我们这期要上线巴拉巴拉…… 开发：为什么要做这个需求呢？ 产品：因为这个需求，能给我们带来**收益……总之，好处大大地有！ 开发：……  
-    </details> 
-
-- 🎡 [监控利器 prometheus &lpar;1&rpar;](https://juejin.cn/post/7132344841257615391) | Tue Aug 16 2022 5:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    1. 监控 完善的监控和合理的指标采集方便我们去观察线上的健康情况, 更好的预测和处理问题. 监控我们可以分为白盒监控和黑盒监控, 那它们具体表示什么意思呢? ⿊盒监控：站在⽤户的⻆度看到的东⻄。⽹站 
-    </details> 
-
-- 🕯 [摸鱼搞了个掘金数据监控桌面应用，还不快用起来！](https://juejin.cn/post/7132340811353554957) | Tue Aug 16 2022 5:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    我做了个掘金数据监控的插件，还不快用起来？小f搞了个Electron桌面应用的开源项目，最近在找人给他提`PR`，然而我前天半夜摸鱼，正好逛github逛到他仓库了，于是乎，掘金数据监控插件诞生了。 
-    </details> 
-
-- 🚀 [工作≤4 年，小公司反复横跳，技术热情不足被当成纯资源、成长缓慢的人](https://juejin.cn/post/7132335963899953159) | Tue Aug 16 2022 5:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    因为主观上、客观上没有养成有效的技术学习方法，掌握足够多的编程技巧、沉淀出丰富的项目经验，而又受限于较低的工资，不得不用跳槽的方式来涨薪以满足生活需求，产生了横跳现象，跳一次涨个三五千块钱，跳一次涨个 
-    </details> 
-
-- 💪 [一文讲透Java可扩展利器SPI；浅谈不使用VueUse，选择造轮子；优雅的1行代码，让同事吃不上午饭 | 酱酱的下午茶第51期](https://juejin.cn/post/7132324492868583461) | Tue Aug 16 2022 4:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    本期下午茶看点：一文讲透Java可扩展利器SPI；浅谈不使用VueUse，选择造轮子；优雅的1行代码，让同事吃不上午饭。。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
