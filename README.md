@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Terra.do - 在气候下工作所需的一切✅](https://xinquji.com/posts/178776?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:26 AM 
+- 👀 [HOKALI - 只需 3 个简单步骤即可预订体育课程和健身课程](https://xinquji.com/posts/178783?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     在气候下工作所需的一切✅  
+     只需 3 个简单步骤即可预订体育课程和健身课程  
     </details> 
 
-- 🥷 [Zen Twitter - 隐藏 Twitter 虚荣指标、通知和干扰](https://xinquji.com/posts/178775?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:26 AM 
+- 🥷 [timeOS by Magical - Chrome 最快的会议记录体验](https://xinquji.com/posts/178782?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     隐藏 Twitter 虚荣指标、通知和干扰  
+     Chrome 最快的会议记录体验  
     </details> 
 
-- 💼 [Clientpad - 为自由职业者设计的简化发票和提案。](https://xinquji.com/posts/178774?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:24 AM 
+- 💼 [Facetune - 用照片和视频的顶级自拍编辑器表达自己](https://xinquji.com/posts/178781?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     为自由职业者设计的简化发票和提案。  
+     用照片和视频的顶级自拍编辑器表达自己  
     </details> 
 
-- 🦅 [hire.win - 带有招聘页面的面试工具包](https://xinquji.com/posts/178773?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:24 AM 
+- 🦅 [Prooflander - 将更多访客转化为买家](https://xinquji.com/posts/178780?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     带有招聘页面的面试工具包  
+     将更多访客转化为买家  
     </details> 
 
-- 😺 [PreCloud - 上传前加密](https://xinquji.com/posts/178772?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:22 AM 
+- 😺 [FlutterFlow 3.0 - 为移动和网络构建漂亮的现代应用程序](https://xinquji.com/posts/178779?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     上传前加密  
+     为移动和网络构建漂亮的现代应用程序  
     </details> 
 <!-- xinquji:END -->
