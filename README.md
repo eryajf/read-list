@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [苹果的一个 Bug：MagSafe 充电线让笔记本变成永动机](http://www.mac52ipod.cn/post/apple-mac-magsafe-usb-c-bug.php) | Sun Aug 14 2022 5:46 AM 
+- 👨‍🏫 [Apple新闻之 iPhone 年年焕新最低门槛缩短至 3 个月](http://www.mac52ipod.cn/post/apple-iphone-upgrade-program-updated.php) | Tue Aug 16 2022 4:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果的「iPhone 年年焕新计划」让用户每年都能用上一代旧手机抵扣 50% 的价格换新手机，此前的限制是手机买来第 10-13 个月可以拿去换新手机，今年放宽到了第 3-13 个月 …… 哪怕你刚买了 iPhone 13，也能在 iPhone 14 发售后用抵扣价换新机。另外：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;在线或到店换机都行，最高可以 24 期免息分期&lt;/li&gt;&lt;li&gt;你必须加购 AppleCare+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果中国官网的详细说明 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/shop/iphone/iphone-upgrade-program&quot; target=&quot;_blank&quot; title=&quot;iPhone 年年焕新计划” rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/shop/iphone/iphone-upgrade-program&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [苹果的一个 Bug：MagSafe 充电线让笔记本变成永动机](http://www.mac52ipod.cn/post/apple-mac-magsafe-usb-c-bug.php) | Sun Aug 14 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster](http://www.mac52ipod.cn/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php) | Wed Aug 10 2022 4:52 PM 
+- 🦏 [Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster](http://www.mac52ipod.cn/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php) | Wed Aug 10 2022 4:52 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Apple新闻之 Apple Pay 公交支持刷浙江台州公共交通卡了](http://www.mac52ipod.cn/post/apple-pay-transit-card-support-taizhou.php) | Tue Aug 09 2022 5:49 AM 
+- 🚀 [Apple新闻之 Apple Pay 公交支持刷浙江台州公共交通卡了](http://www.mac52ipod.cn/post/apple-pay-transit-card-support-taizhou.php) | Tue Aug 09 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照](http://www.mac52ipod.cn/post/apple-ios-iphone-app-bai-miao-zheng-jian-zhao.php) | Sun Aug 07 2022 2:31 PM 
+- 🏊 [苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照](http://www.mac52ipod.cn/post/apple-ios-iphone-app-bai-miao-zheng-jian-zhao.php) | Sun Aug 07 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
     
  
 	制作简历、网上报名、注册公司账号等等时候可能会用到证件照，如果你没有证件照且对自己抠图水平没信心的话，可以试试「白描证件照」这款 App。支持各种尺寸和证件照背景颜色，还能美颜，比去照相馆方便多了。&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6703&quot; border=&quot;0&quot; alt=&quot;苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照&quot; title=&quot;苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照&quot; /&gt;&lt;/p&gt;&lt;p&gt;开发者写了篇很详细的介绍，甚至教你自拍证件照时的姿势和光线 &lt;u&gt;&lt;a href=&quot;https://xinle.co/2021/01/10/%e5%9c%a8%e6%89%8b%e6%9c%ba%e4%b8%8a%e5%bf%ab%e9%80%9f%e5%9c%b0%e5%88%b6%e4%bd%9c%e4%b8%80%e5%bc%a0%e8%af%81%e4%bb%b6%e7%85%a7%ef%bc%8c%e8%bf%98%e8%83%bd%e7%be%8e%e9%a2%9c/&quot; target=&quot;_blank&quot; title=&quot;在手机上快速地制作一张证件照，还能美颜&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://xinle.co/2021/01/10/在手机上快速地制作一张证件照，还能美颜&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。&lt;/p&gt;&lt;p&gt;白描证件照在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/id1545812838&quot; target=&quot;_blank&quot; title=&quot;白描证件照&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/id1545812838&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;另外，这位开发者做的 OCR 软件&lt;u&gt;&lt;a href=&quot;/post/apple-mac-macos-ocr-app-baimiao.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑上图片转文字、图片转电子表格的 OCR 软件：白描&quot;&gt;&lt;font color=#0000FF&gt;白描&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;也非常赞&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2585%25A7%25E7%2589%2587&quot; rel=&quot;tag&quot;&gt;照片&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Mac技巧之用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）](http://www.mac52ipod.cn/post/james-webb-space-telescope-images-6k-mac-wallpapers.php) | Thu Aug 04 2022 3:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	我记得很久以前，苹果电脑 Mac OS X 系统默认的壁纸就是太空主题，后来到了 macOS 时代变成旅游景点主题的壁纸了。詹姆斯·韦伯望远镜拍到的太空照片最近很火，在网上找到了相关主题的壁纸，6K 分辨率，苹果最高端的 Pro Display XDR 也能用。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6704&quot; border=&quot;0&quot; alt=&quot;用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）&quot; title=&quot;用詹姆斯·韦伯望远镜拍到的太空照片做苹果电脑壁纸（6K）&quot; /&gt;&lt;/p&gt;&lt;p&gt;直接到 &lt;u&gt;&lt;a href=&quot;https://www.icavedave.com/2022/07/17/jwst/#google_vignette&quot; target=&quot;_blank&quot; title=&quot;JWST Images as 6K Mac Wallpapers&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.icavedave.com/2022/07/17/jwst/#google_vignette&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 看吧，好几张可选，点击每张下方的「Full 6K」链接就能下载&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=wallpaper&quot; rel=&quot;tag&quot;&gt;wallpaper&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A3%2581%25E7%25BA%25B8&quot; rel=&quot;tag&quot;&gt;壁纸&lt;/a&gt;
 
  
     </details> 
