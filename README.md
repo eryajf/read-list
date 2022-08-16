@@ -237,29 +237,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [Django Template常见用法及配置介绍](https://blog.ops-coffee.cn/django/django-template-config) | Thu Aug 11 2022 11:42 AM 
+- 👺 [Echarts常见问题处理](https://blog.ops-coffee.cn/t/echarts-options-config) | Tue Aug 16 2022 5:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    一些echarts的常见问题处理记录 
+    </details> 
+
+- 💯 [Django Template常见用法及配置介绍](https://blog.ops-coffee.cn/django/django-template-config) | Thu Aug 11 2022 11:42 AM 
     <details><summary>展开描述 ...</summary> 
     详细介绍Django Template的常见用法及配置 
     </details> 
 
-- 💯 [Django URL常见用法及配置介绍](https://blog.ops-coffee.cn/django/django-url-path-conf) | Wed Aug 10 2022 11:35 AM 
+- 🚦 [Django URL常见用法及配置介绍](https://blog.ops-coffee.cn/django/django-url-path-conf) | Wed Aug 10 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
     Django URL常见使用方法及配置介绍 
     </details> 
 
-- 🚦 [Django Model关联关系之ManyToManyField](https://blog.ops-coffee.cn/django/django-model-manytomany-field) | Wed Aug 10 2022 11:28 AM 
+- 👨‍🏫 [Django Model关联关系之ManyToManyField](https://blog.ops-coffee.cn/django/django-model-manytomany-field) | Wed Aug 10 2022 11:28 AM 
     <details><summary>展开描述 ...</summary> 
     详细介绍Django Model多对多的关联关系ManyToManyField 
     </details> 
 
-- 👨‍🏫 [Django Model关联关系之ForeignKey](https://blog.ops-coffee.cn/django/django-model-foreignkey) | Wed Aug 10 2022 11:26 AM 
+- 🌮 [Django Model关联关系之ForeignKey](https://blog.ops-coffee.cn/django/django-model-foreignkey) | Wed Aug 10 2022 11:26 AM 
     <details><summary>展开描述 ...</summary> 
     详细介绍Django Model一对多的关联关系ForeignKey 
-    </details> 
-
-- 🌮 [Django Model之关联关系](https://blog.ops-coffee.cn/django/django-model-relationships) | Wed Aug 10 2022 11:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    Django model关联关系介绍 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
