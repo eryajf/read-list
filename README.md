@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Lyft和Motional的全电动无人驾驶出租车服务现已在拉斯维加斯上路](https://www.cnbeta.com/articles/tech/1305187.htm) | Tue Aug 16 2022 1:13 PM 
+- 🕯 [Google官方Android 13雕像在总部竖起 看起来有点像bugdroid的屁股](https://www.cnbeta.com/articles/tech/1305195.htm) | Tue Aug 16 2022 2:09 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Android 13系统的稳定版本终于发布并率先向Pixel手机推出。这也意味着Google是时候在其总部后院竖起一个官方雕像，并加入该公司多年来竖起的Android吉祥物系列了。&lt;strong&gt;这一次，Google选择了一个秋千，凳子的形状是三，但它的形状和形式使它看起来更像是bugdroid吉祥物长了一对屁股。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [微软与Canonical联合宣布Ubuntu 22.04 LTS上的原生.NET 6支持](https://www.cnbeta.com/articles/tech/1305193.htm) | Tue Aug 16 2022 2:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;作为微软和Canonical之间的最新合作项目，双方今天共同宣布了Ubuntu 22.04 LTS主机和容器的本地.NET可用性。微软的.NET 6现在可以在Ubuntu 22.04 LTS上通过简单的sudo apt install dotnet6命令使用，微软现在还为Ubuntu提供了带有.NET 6和ASP.NET运行机制的设备镜像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [索尼可能将推出自己的PC游戏启动器](https://hot.cnbeta.com/articles/game/1305191.htm) | Tue Aug 16 2022 2:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;继PSN账户连接后，玩家又在《漫威蜘蛛侠：复刻版》游戏文件中找到了“PlayStation PC启动器”的引用，这意味着索尼可能很快将推出自己的PC游戏启动器。此前，已有不少游戏发行商推出了自己的PC游戏启动器，包括R星，B社等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [腾讯“分手”传闻“吓丢”美团千亿市值？](https://www.cnbeta.com/articles/tech/1305189.htm) | Tue Aug 16 2022 1:56 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天（8月16日）午后，“腾讯或将出清美团股票”的消息在网上不胫而走，美团港股急转直下，盘中跌幅一度扩大超 11 %，对应市值蒸发一度超千亿港元。溯源这场震及二级市场的传闻，始于路透社的一则报道：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [Lyft和Motional的全电动无人驾驶出租车服务现已在拉斯维加斯上路](https://www.cnbeta.com/articles/tech/1305187.htm) | Tue Aug 16 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一项新的机器人出租车服务已在拉斯维加斯正式启动，并免费开放供公众使用。该服务由Lyft和一家名为Motional的自动驾驶汽车公司运营，是将于2023年在该市推出的完全无人驾驶服务的前奏。Motional公司是现代汽车公司和Aptiv公司的合资企业，通过与Lyft公司的合作，已经在拉斯维加斯测试其自动驾驶车辆四年多了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [Twelve South发布新款MacBook支架Curve Flex 可折平以便于携带](https://www.cnbeta.com/articles/tech/1305185.htm) | Tue Aug 16 2022 1:09 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Twelve South宣布推出Curve Flex，这是一款为MacBook设计的笔记本电脑支架，可将设备从2英寸高度提升到22英寸，本身还可折叠放平，便于携带。Curve Flex提供黑色或白色的磨砂表面，售价79.99美元/79.99英镑/89.99欧元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [新专利显示苹果研究可穿戴手套输入设备 简化与AR和VR的互动](https://www.cnbeta.com/articles/tech/1305183.htm) | Tue Aug 16 2022 1:05 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司正在研究用户如何与计算机系统互动，&lt;strong&gt;其中一个想法是可以用于手势控制的手套，并有可能在某些情况下提供触觉反馈。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Das Keyboard推出MacTigr有线机械键盘 面向Mac设计](https://www.cnbeta.com/articles/tech/1305181.htm) | Tue Aug 16 2022 1:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然苹果公司的妙控键盘实际上表现相当不错，但有一个不幸的事实，该公司根本不生产机械键盘。因此，如果你想为你的Mac购买这样的键盘，你将不得不依赖第三方公司。Das Keyboard新推出的以苹果为重点的USB-C键盘，名为&amp;quot;MacTigr&amp;quot;，不仅有Das键盘一贯扎实的用料和做工，而且这款有线键盘还具有许多出色的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [华擎率先将英特尔的Arc A380显卡带到美国 入门价格为139.99美元](https://www.cnbeta.com/articles/tech/1305179.htm) | Tue Aug 16 2022 12:58 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;华擎已成为第一家将英特尔 Arc A380 显卡推向美国市场的制造商。华擎的英特尔Arc A380显卡首次在该市场推出，比AMD RX 6400便宜，售价139.99美元。就在几天前，华擎推出其Intel Arc A380 Challenger ITX OC显卡，在中国市场的价格折合150美元，比大多数亚太地区零售商列出的AMD显卡便宜。现在，华擎正式成为第一家将英特尔独立Arc A380显卡推向美国市场的制造商。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
