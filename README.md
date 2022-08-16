@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [清洁能源占2022年上半年美国新增装机容量的67%](https://www.cnbeta.com/articles/tech/1305041.htm) | Tue Aug 16 2022 7:13 AM 
+- 🕯 [特斯拉刚刚升级了自家超算的GPU 向榜首位置发起冲刺](https://www.cnbeta.com/articles/tech/1305073.htm) | Tue Aug 16 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Electrek报道，&lt;strong&gt;根据美国联邦能源管理委员会（FERC）最近公布的&lt;a href=&quot;https://cms.ferc.gov/media/energy-infrastructure-update-june-2022&quot; target=&quot;_self&quot;&gt;数据&lt;/a&gt;，清洁能源占2022年上半年美国新增发电量的三分之二以上。&lt;/strong&gt;风能（5722MW）和太阳能（3895MW）提供了2022年上半年新增的14352MW公用事业规模容量的67.01%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;众所周知，特斯拉内部一直在积极研发一套针对神经网络视频训练而优化的新款超级计算机。&lt;strong&gt;目前该公司神经网络有在处理来自超过百万辆汽车的大量视频数据，但研究团队显然并不满足于现有的硬件选项。&lt;/strong&gt;事实上，过去几年里，特斯拉 CEO 伊隆·马斯克经常会在社交媒体上调侃 Dojo 超算的开发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [取消免费早晚餐后 腾讯食堂宣布不再提供免费水果和餐盒](https://www.cnbeta.com/articles/tech/1305039.htm) | Tue Aug 16 2022 7:04 AM 
+- 💼 [小鹏飞行汽车新试飞：起飞、前进一气呵成 超平稳](https://www.cnbeta.com/articles/tech/1305071.htm) | Tue Aug 16 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据此前报道，从8月15日开始，腾讯会对部分外包员工取消餐厅福利，已有夜宵券可以正常使用，但后续使用食堂需要收费。当时曝光的内部通知提到，目前外包员工还可以享受腾讯免费班车，暂不受影响。值得注意的是，根据新浪科技最新报道，&lt;strong&gt;除了取消免费早晚餐，腾讯近期又取消了一项福利。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;小鹏飞行汽车目前已经经历过多次迭代，在全国各地的车展上都曾亮相，大家应该已经非常熟悉了，但是真正起飞的效果却很少见到。今天，博主不是郑小康曝光了一段小鹏汇天的新试飞视频，展示了该设备的起飞、前进等操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉市场份额虽略有下跌，但仍主导着美国EV市场](https://www.cnbeta.com/articles/tech/1305037.htm) | Tue Aug 16 2022 7:01 AM 
+- 💂 [狗改不了吃翔 美国药业“坏小子”刚出狱又被指操纵加密货币骗局](https://www.cnbeta.com/articles/tech/1305069.htm) | Tue Aug 16 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;特斯拉仍然主导着美国的电动汽车市场，现在拥有68%的市场份额。&lt;/strong&gt;随着更多的电动汽车进入市场，这一份额正在下降。但下降的速度很慢，与此同时，这家汽车制造商正在增加其在美国的交付量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;因哄抬救命药价格被称为“美国最被憎恨之人”，后因金融诈骗入狱，&lt;strong&gt;今年5月刚刚刑满释放的马丁- 什克雷利又招惹了新麻烦，被控操纵一个加密货币“拉地毯”骗局，出售超过1620亿枚以他名字命名的山寨币，然后在短短24小时内，让这种代币的价格暴跌了95%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中科院国家空间科学中心：揭示嫦娥五号着陆点月壤矿物组成和太空风化作用](https://www.cnbeta.com/articles/science/1305035.htm) | Tue Aug 16 2022 6:53 AM 
+- 🚀 [建设银行：8月19日起将关闭ATM二维码存款功能](https://www.cnbeta.com/articles/tech/1305067.htm) | Tue Aug 16 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;总台记者从中国科学院国家空间科学中心获悉，我国首次月球采样返回任务嫦娥五号（CE-5）着陆于月球风暴洋北部年轻的克里普（KREEP）地体，成功带回1.73kg月壤。前人利用轨道遥感数据对CE-5着陆区的地形地貌和物质成分进行大量研究，近期一系列样品分析推进了对于月球年代学、月球晚期火山活动和岩浆演化机制的认识。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国建设银行官网发布公告，为提升建行持卡客户服务能力，前期建行在ATM自助渠道部署了二维码存款功能。由于业务调整，自2022年8月19日起建行将关闭ATM二维码存款功能，之后客户仍可持建行银行卡、选择无卡无折存款服务或开通“刷脸办”服务功能办理ATM存款业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [手机里能掏出一对蓝牙耳机 诺基亚5710 XpressAudio明天预售](https://www.cnbeta.com/articles/tech/1305033.htm) | Tue Aug 16 2022 6:44 AM 
+- 🎊 [男子网约车上捡手机被判为盗窃](https://www.cnbeta.com/articles/tech/1305065.htm) | Tue Aug 16 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上个月，诺基亚在国内发布了三款新机，其中有款自带耳机的直板机令人映象深刻。根据官方消息，&lt;strong&gt;诺基亚5710 XpressAudio将会在明天上午十点开启预售，&lt;/strong&gt;具体价格还暂未公布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，江苏南京，朱先生不慎将手机落在了网约车上，拨打了50多通电话都显示关机，不久后，终于由一手机营业厅工作人员接通了电话。&lt;strong&gt;工作人员表示，一男子来到营业厅声称自己忘记了密码，要求工作人员帮忙解锁。民警立即赶往现场，在男子再次出现时，将其当场抓获。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
