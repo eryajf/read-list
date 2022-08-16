@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [非洲企鹅被曝濒临灭绝 原因是人为](https://www.cnbeta.com/articles/tech/1305205.htm) | Tue Aug 16 2022 3:18 PM 
+- 🕯 [共享单车涨价“追”上公交车 还没追上盈利](https://www.cnbeta.com/articles/tech/1305219.htm) | Tue Aug 16 2022 4:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;非洲企鹅濒临灭绝，正被赶离南非东海岸的自然栖息地，经研究发现是受相关船舶加油的噪音影响。据了解，阿尔戈亚湾位于南非的伊丽莎白港，近3万头瓶鼻海豚生活于此，拥有丰富的海洋和鸟类生物，是全球最大的非洲企鹅繁殖地，但是16年南非开始允许当地船只在海上加油后岛上的非洲企鹅数量急剧减少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;共享单车企业开始了新一轮用户骑行费上调，继年初哈啰骑行卡涨价后，美团骑行卡近日涨幅也达50%。8月10日23时起，美团单车“骑行畅骑卡”无折扣价向上调整：7天畅骑卡由10元调整为15元，30天畅骑卡由25元调整为35元，90天畅骑卡由60元调整为90元。调整的价格与哈啰单车无折扣卡价格持平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Intel显卡放弃DirectX 9支持 《CS:GO》实测性能惨不忍睹](https://www.cnbeta.com/articles/tech/1305203.htm) | Tue Aug 16 2022 3:17 PM 
+- 💼 [盲盒经营活动规范指引即将到来 宠物盲盒、食品盲盒拟禁止](https://www.cnbeta.com/articles/tech/1305217.htm) | Tue Aug 16 2022 4:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel的Arc A380显卡上市之后，多家网站都指出它在DX9/DX11等旧游戏中表现不佳，前不久Intel高管还在采访中确认会继续优化旧游戏，然而Intel突然又表示不再原生支持DX9了。Intel已经确认，基于Xe LP架构的12代酷睿核芯显卡、基于Xe HGP架构的Arc A系列独立显卡，&lt;strong style=&quot;white-space: normal;&quot;&gt;都不再原生支持DX9，而基于DX9的程序、游戏都需要通过D3D9On12进行转译运行。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“盲盒诱导食品过度消费”“活体宠物盲盒”“无人认领行李箱被当盲盒售卖”……这几年，万物皆可盲盒的潮流下，盲盒乱象也逐渐增多，现在盲盒经营活动规范来了。16日，市场监管总局公开征求《盲盒经营活动规范指引（试行）（征求意见稿）》意见，拟对盲盒销售的内容、形式、销售对象等方面作出规定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软提醒客户注意俄罗斯黑客组织SEABORGIUM的网络钓鱼攻击](https://www.cnbeta.com/articles/tech/1305201.htm) | Tue Aug 16 2022 3:14 PM 
+- 💂 [奢侈品电商第一股寺库人去楼空](https://www.cnbeta.com/articles/tech/1305215.htm) | Tue Aug 16 2022 4:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软最近透露，他们已经发现了一种恶意攻击与俄罗斯的黑客密切相关，因为其背后的目标似乎有利于他们。据说SEABORGIUM黑客组织是这次攻击的幕后黑手，微软进一步表示，他们目前正在调查此事，同时试图追踪他们在服务器中的数字足迹，以确定任何可能进一步使他们受到影响的漏洞。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;寺库的危机正在不断浮出水面。8月16日，北京商报记者探访发现，曾经摆满了奢侈品的寺库大厦如今已空空如也，仅剩5层还有部分工作人员，大厦内还专门设立了消费者维权中心。不仅如此，一年内寺库已两次被申请破产重组，还被昔日的合作伙伴冻结了千万资产。有分析人士直言，做奢侈品的垂直电商只靠低价抢市场并不能自我造血，很容易被消费者抛弃。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三大运营商上半年日均赚超5亿元 中国电信净利增速最低](https://www.cnbeta.com/articles/tech/1305199.htm) | Tue Aug 16 2022 2:50 PM 
+- 🚀 [长江流域发生严重旱情 高温红色预警连续发布6天](https://www.cnbeta.com/articles/tech/1305213.htm) | Tue Aug 16 2022 4:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年上半年，三大运营商日均约赚5.16亿元。8月16日，随着中国电信2022年上半年财报披露，三大基础电信运营商上半年业绩全部出炉。上半年，三大运营商合计实现营收约9133.8亿元，净利润约933.5亿元，日均约赚5.16亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据国家水利部官方消息，&lt;strong style=&quot;white-space: normal;&quot;&gt;近期，长江流域发生严重旱情，对农村人畜饮水保障和农作物生长造成不利影响，水利部办公厅发出通知，部署相关省份以“时时放心不下”的责任感，坚决打赢抗旱保供水这场硬仗。&lt;/strong&gt;通知强调，要全面落实农村供水保障地方人民政府主体责任、水行政主管部门行业监管责任、供水单位运行管理责任等“三个责任”，进一步落实灌区灌溉供水保障责任，强化农业用水监管，全力做好抗旱保饮水保灌溉工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [四款Pixel 7机型获FCC认证 其中两款支持毫米波5G](https://www.cnbeta.com/articles/tech/1305197.htm) | Tue Aug 16 2022 2:41 PM 
+- 🎊 [微软证实Windows 11 KB5016629更新导致了一些问题](https://www.cnbeta.com/articles/tech/1305211.htm) | Tue Aug 16 2022 4:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Pixel 7系列预计很快就会在富士康投入量产，同时谷歌继续为预计的10月初的发布会做准备&lt;/strong&gt;，据称Pixel 7系列10月6日预购，13日开始销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;像往常一样，微软为Windows 11发布最新的安全更新，以提供设备的稳定和安全性，但最新的更新对一些Windows 11用户造成了新的问题。这一消息得到了微软的正式确认。根据Windows Latest的报道，KB5016629安全补丁是2022年8月升级周期的一部分。该更新旨在为支持的硬件提供安全和非安全方面的改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
