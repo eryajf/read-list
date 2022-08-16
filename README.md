@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有靠工具类 APP 存活的个人开发者呢](https://www.v2ex.com/t/873234#reply2) | Tue Aug 16 2022 7:56 AM
-- 🤗 [关于能不能结婚的对错问题！大家理性评价](https://www.v2ex.com/t/873232#reply42) | Tue Aug 16 2022 7:51 AM
-- 🎭 [现在还有卖 USB 红外传输文件的设备吗，求个关键词，一直搜索不到](https://www.v2ex.com/t/873229#reply1) | Tue Aug 16 2022 7:35 AM
-- 🥷 [群晖刚刚出了个 C2](https://www.v2ex.com/t/873222#reply7) | Tue Aug 16 2022 7:11 AM
-- 🐵 [你的开发环境（包括但不限于硬件、软件、设置）是什么样的？](https://www.v2ex.com/t/873221#reply12) | Tue Aug 16 2022 7:06 AM<!-- v2ex:END -->
+- 🥸 [现在注册一个 gmail 这么难？](https://www.v2ex.com/t/873253#reply8) | Tue Aug 16 2022 8:46 AM
+- 🤗 [有没有靠工具类 APP 存活的个人开发者呢](https://www.v2ex.com/t/873234#reply6) | Tue Aug 16 2022 7:56 AM
+- 🎭 [关于能不能结婚的对错问题！大家理性评价](https://www.v2ex.com/t/873232#reply112) | Tue Aug 16 2022 7:51 AM
+- 🥷 [现在还有卖 USB 红外传输文件的设备吗，求个关键词，一直搜索不到](https://www.v2ex.com/t/873229#reply1) | Tue Aug 16 2022 7:35 AM
+- 🐵 [群晖刚刚出了个 C2](https://www.v2ex.com/t/873222#reply8) | Tue Aug 16 2022 7:11 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
