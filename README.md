@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [日本松下派人协助特斯拉内华达超级电池工厂产能提升10%](https://www.cnbeta.com/articles/tech/1304955.htm) | Tue Aug 16 2022 4:36 AM 
+- 🕯 [陈若仪晒与林志颖病床前牵手照 称挺过风雨终究会看见曙光](https://www.cnbeta.com/articles/tech/1304997.htm) | Tue Aug 16 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日有消息称，&lt;strong&gt;由电动汽车制造商特斯拉（Tesla）与长期电池制造合作伙伴松下（Panasonic）联合运营的内华达州超级工厂（Gigafactory Nevada），或将预期产能再提升 10% 。&lt;/strong&gt;尽管这一数字相当于新开辟一条生产线，但据说松下正试图通过流程优化来改善该设施的电池产能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;林志颖7月22日驾驶特斯拉自撞桥墩号志杆起火，“车友”姚元浩8月8日出席活动时被问到他近况，称有共同朋友说林志颖已转入普通病房。对于这个消息，林志颖经纪人回应：&lt;strong&gt;“谢谢关心，目前先让病人休养，暂时先不做其他回应。”关于林志颖的手术进度，有位不具名的医师对外透露，林志颖“骨头复位得蛮漂亮”，预估半年可以恢复正常运动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [传Google新款Nest无线路由器将迎来Wi-Fi 6组网功能](https://www.cnbeta.com/articles/tech/1304953.htm) | Tue Aug 16 2022 4:20 AM 
+- 💼 [研究：每天进行短暂的哑铃锻炼可导致肌肉力量的大幅提升](https://www.cnbeta.com/articles/science/1304995.htm) | Tue Aug 16 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Google 于 2016 年设立了 Wi-Fi 产品线，旨在通过尽可能简单的设置，为家庭用户带来快速稳定的无线互联网体验。&lt;/strong&gt;而后通过轻松的硬件扩展，这家科技巨头带来了无线组网解决方案。2019 年的时候，Nest 无线路由器还实现了与 Google Assistant 智能扬声器的集成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，在平时定期锻炼可以带来各种好处，但研究仍在不断发现有关我们如何取得最佳平衡的宝贵细节。&lt;strong&gt;一项新研究在这一领域提供了有趣的见解，表明每天进行非常短暂的哑铃锻炼可导致肌肉力量的大幅提升。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [第10代iPad已投入生产 在设计上会有“重大”调整](https://www.cnbeta.com/articles/tech/1304951.htm) | Tue Aug 16 2022 3:45 AM 
+- 💂 [Google宣布2022年Doodle for Google大赛的冠军](https://www.cnbeta.com/articles/tech/1304993.htm) | Tue Aug 16 2022 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据 DigiTimes 透露的信息，谣传中的苹果第 10 代 iPad 目前已经投入生产，在外观设计上会有“重大”调整。&lt;/strong&gt;不过在该媒体的报道中并未提供明确的细节，在此前谣传中该 iPad 将装备更大的 10.5 英寸屏幕，更窄的边框，USB-C 端口，而且后置摄像头将不再凸起。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据CNET报道，有时关爱自己意味着认识到世界上还有其他人也在关心你。这一认识是高中生 Sophie Araque-Liu 创作的涂鸦作品的基石。&lt;strong&gt;Google周二宣布，她创作的名为“Not Alone”（不孤单）的涂鸦是2022年Doodle for Google大赛的冠军，&lt;/strong&gt;这是一个面向全美各地学生的年度竞赛。今年的主题是“我通过......关爱自己”（I care for myself by......）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [DriveSavers率先宣布为Apple Silicon Mac提供数据恢复服务](https://www.cnbeta.com/articles/tech/1304949.htm) | Tue Aug 16 2022 3:39 AM 
+- 🚀 [EA对《FIFA23》预购临时工价表态 损失由官方承担](https://www.cnbeta.com/articles/tech/1304991.htm) | Tue Aug 16 2022 5:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一家名叫 DriveSavers 的数据恢复公司，刚刚宣布了可为带有 Apple Silicon 芯片的 Mac 用户提供数据恢复服务。&lt;/strong&gt;Apple Insider 指出，它或许是首家具备这一能力的第三方服务提供商。DriveSavers 表示，其已确定从带有 M1、M2 和 T2 芯片的 Mac 设备上访问数据所需的组件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Epic Games之前开启《FIFA 23》终极版时，出现了零时工价。&lt;strong&gt;《FIFA 23》终极版在印度区仅售4.8印度卢比（约合人民币0.4元），该游戏原价为4799印度卢比（约合人民币406元）。&lt;/strong&gt;许多印度本地以及临时把账号地区改为印度的玩家疯狂涌入Epic商店，抢购《FIFA 23》终极版。Epic花费了30分钟才修复了该错误。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [DC《黑暗正义联盟》有望拍成剧集上线HBO Max](https://hot.cnbeta.com/articles/movie/1304947.htm) | Tue Aug 16 2022 3:27 AM 
+- 🎊 [PC危机空前：库存积压出货量下滑12.6% 创9年来最大降幅](https://www.cnbeta.com/articles/tech/1304989.htm) | Tue Aug 16 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，外媒《综艺》在一篇分析“DC十年规划”的文章透露： &lt;strong&gt;《星球大战：原力觉醒》导演J·J·艾布拉姆斯和他的坏机器人公司正在筹拍《黑暗正义联盟》剧集，将上线HBO Max，而且要拍成类似“复联”的风格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;PC行业正遭遇罕见的惨淡光景，ODM大厂仁宝总裁日前表示，&lt;strong&gt;由于品牌商持续调整库存以及宏观经济环境的不利&lpar;通如货膨胀等&rpar;，PC电脑的复苏最快也要明年下半年。&lt;/strong&gt;上周有消息称，某TOP5 PC大厂的积压库存多达458亿元，超180天，接近失控。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
