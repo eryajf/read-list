@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [陈若仪晒与林志颖病床前牵手照 称挺过风雨终究会看见曙光](https://www.cnbeta.com/articles/tech/1304997.htm) | Tue Aug 16 2022 6:14 AM 
+- 🕯 [清洁能源占2022年上半年美国新增装机容量的67%](https://www.cnbeta.com/articles/tech/1305041.htm) | Tue Aug 16 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;林志颖7月22日驾驶特斯拉自撞桥墩号志杆起火，“车友”姚元浩8月8日出席活动时被问到他近况，称有共同朋友说林志颖已转入普通病房。对于这个消息，林志颖经纪人回应：&lt;strong&gt;“谢谢关心，目前先让病人休养，暂时先不做其他回应。”关于林志颖的手术进度，有位不具名的医师对外透露，林志颖“骨头复位得蛮漂亮”，预估半年可以恢复正常运动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Electrek报道，&lt;strong&gt;根据美国联邦能源管理委员会（FERC）最近公布的&lt;a href=&quot;https://cms.ferc.gov/media/energy-infrastructure-update-june-2022&quot; target=&quot;_self&quot;&gt;数据&lt;/a&gt;，清洁能源占2022年上半年美国新增发电量的三分之二以上。&lt;/strong&gt;风能（5722MW）和太阳能（3895MW）提供了2022年上半年新增的14352MW公用事业规模容量的67.01%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究：每天进行短暂的哑铃锻炼可导致肌肉力量的大幅提升](https://www.cnbeta.com/articles/science/1304995.htm) | Tue Aug 16 2022 6:13 AM 
+- 💼 [取消免费早晚餐后 腾讯食堂宣布不再提供免费水果和餐盒](https://www.cnbeta.com/articles/tech/1305039.htm) | Tue Aug 16 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，在平时定期锻炼可以带来各种好处，但研究仍在不断发现有关我们如何取得最佳平衡的宝贵细节。&lt;strong&gt;一项新研究在这一领域提供了有趣的见解，表明每天进行非常短暂的哑铃锻炼可导致肌肉力量的大幅提升。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据此前报道，从8月15日开始，腾讯会对部分外包员工取消餐厅福利，已有夜宵券可以正常使用，但后续使用食堂需要收费。当时曝光的内部通知提到，目前外包员工还可以享受腾讯免费班车，暂不受影响。值得注意的是，根据新浪科技最新报道，&lt;strong&gt;除了取消免费早晚餐，腾讯近期又取消了一项福利。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Google宣布2022年Doodle for Google大赛的冠军](https://www.cnbeta.com/articles/tech/1304993.htm) | Tue Aug 16 2022 6:03 AM 
+- 💂 [特斯拉市场份额虽略有下跌，但仍主导着美国EV市场](https://www.cnbeta.com/articles/tech/1305037.htm) | Tue Aug 16 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据CNET报道，有时关爱自己意味着认识到世界上还有其他人也在关心你。这一认识是高中生 Sophie Araque-Liu 创作的涂鸦作品的基石。&lt;strong&gt;Google周二宣布，她创作的名为“Not Alone”（不孤单）的涂鸦是2022年Doodle for Google大赛的冠军，&lt;/strong&gt;这是一个面向全美各地学生的年度竞赛。今年的主题是“我通过......关爱自己”（I care for myself by......）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;特斯拉仍然主导着美国的电动汽车市场，现在拥有68%的市场份额。&lt;/strong&gt;随着更多的电动汽车进入市场，这一份额正在下降。但下降的速度很慢，与此同时，这家汽车制造商正在增加其在美国的交付量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [EA对《FIFA23》预购临时工价表态 损失由官方承担](https://www.cnbeta.com/articles/tech/1304991.htm) | Tue Aug 16 2022 5:59 AM 
+- 🚀 [中科院国家空间科学中心：揭示嫦娥五号着陆点月壤矿物组成和太空风化作用](https://www.cnbeta.com/articles/science/1305035.htm) | Tue Aug 16 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Epic Games之前开启《FIFA 23》终极版时，出现了零时工价。&lt;strong&gt;《FIFA 23》终极版在印度区仅售4.8印度卢比（约合人民币0.4元），该游戏原价为4799印度卢比（约合人民币406元）。&lt;/strong&gt;许多印度本地以及临时把账号地区改为印度的玩家疯狂涌入Epic商店，抢购《FIFA 23》终极版。Epic花费了30分钟才修复了该错误。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;总台记者从中国科学院国家空间科学中心获悉，我国首次月球采样返回任务嫦娥五号（CE-5）着陆于月球风暴洋北部年轻的克里普（KREEP）地体，成功带回1.73kg月壤。前人利用轨道遥感数据对CE-5着陆区的地形地貌和物质成分进行大量研究，近期一系列样品分析推进了对于月球年代学、月球晚期火山活动和岩浆演化机制的认识。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [PC危机空前：库存积压出货量下滑12.6% 创9年来最大降幅](https://www.cnbeta.com/articles/tech/1304989.htm) | Tue Aug 16 2022 5:58 AM 
+- 🎊 [手机里能掏出一对蓝牙耳机 诺基亚5710 XpressAudio明天预售](https://www.cnbeta.com/articles/tech/1305033.htm) | Tue Aug 16 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;PC行业正遭遇罕见的惨淡光景，ODM大厂仁宝总裁日前表示，&lt;strong&gt;由于品牌商持续调整库存以及宏观经济环境的不利&lpar;通如货膨胀等&rpar;，PC电脑的复苏最快也要明年下半年。&lt;/strong&gt;上周有消息称，某TOP5 PC大厂的积压库存多达458亿元，超180天，接近失控。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上个月，诺基亚在国内发布了三款新机，其中有款自带耳机的直板机令人映象深刻。根据官方消息，&lt;strong&gt;诺基亚5710 XpressAudio将会在明天上午十点开启预售，&lt;/strong&gt;具体价格还暂未公布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
