@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [更文活动](https://juejin.cn/post/7132413511505805326) | Tue Aug 16 2022 10:08 AM 
+- 🤗 [开源中国专访 TJ：开源许可证，欢迎来到云时代](https://juejin.cn/post/7132293953541537823) | Tue Aug 16 2022 2:23 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt;携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，[点击查看活动详情]&lpar;https://juejin.cn/post/7123120819437322247 &quot;https 
+    近年来，一批新的开源许可证的出现，在社区内引发了一些激烈的讨论。从争论的角度主要分为两大阵营：原教旨主义和实用主义。本文将重点谈谈关于这些争论的思考与实践。 
     </details> 
 
-- 🎡 [Swift - LeetCode - 回文链表](https://juejin.cn/post/7132411137450049543) | Tue Aug 16 2022 9:58 AM 
+- 🎡 [学到就是赚到，面试加分项之WebServer线程池管理！](https://juejin.cn/post/7132291993035604004) | Tue Aug 16 2022 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情  题目 给你一个单链表的头节点 head，请你判断该链表是否为回文链表。如果是，返回 true；否则，返 
+    大家好，这篇文章我们来讨论一个话题，怎么去管理 SpringBoot 内置的三大 WebServer（Tomcat、Jetty、Undertow）的线程池，包括监控告警、动态调参。 不管是应对越来 
     </details> 
 
-- 🕯 [前端框架大比拼：2022年的Vue与React谁更胜一筹？](https://juejin.cn/post/7132410200597725214) | Tue Aug 16 2022 9:54 AM 
+- 🕯 [长列表优化：用 React 实现虚拟列表](https://juejin.cn/post/7132277540806213645) | Tue Aug 16 2022 1:20 AM 
     <details><summary>展开描述 ...</summary> 
-    前端框架经历了十多年的争奇斗艳百花齐放，经历了各大框架的争奇斗艳、百花齐放。如今谁才是真正的王者呢？ 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 大家好，我是前端西瓜哥。这次我们来看看虚拟列表是什么玩意，并用 React 来实现两种虚拟列表组件。 虚 
     </details> 
 
-- 🚀 [彩虹女神跃长空,Go语言进阶之Go语言高性能Web框架Iris项目实战-项目入口与路由EP01](https://juejin.cn/post/7132409797017600037) | Tue Aug 16 2022 9:53 AM 
+- 🚀 [RocketMQ特性--Broker是如何存储事务消息的？](https://juejin.cn/post/7132133887043436581) | Mon Aug 15 2022 4:02 PM 
     <details><summary>展开描述 ...</summary> 
-    书接上回，我们已经安装好Iris框架，并且构建好了Iris项目，同时配置了fresh自动监控项目的实时编译，万事俱备，只欠东风，彩虹女神蓄势待发。现在我们来看看Iris的基础功能，如何编写项目入口文件 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 在Broker中，事务消息的初始化是通过BrokerController.initialTransact 
     </details> 
 
-- 💪 [【AutoML】深度神经网络下的广义机器学习算法及框架简介](https://juejin.cn/post/7132396086555050014) | Tue Aug 16 2022 8:59 AM 
+- 💪 [RocketMQ的主要组件及其功能](https://juejin.cn/post/7132126902046687262) | Mon Aug 15 2022 3:35 PM 
     <details><summary>展开描述 ...</summary> 
-    深度学习的快速发展，凸显了其在人工智能领域的重要地位。特别是在计算机视觉领域，深度神经网络广泛应用于图像分类、目标检测、语义分割、姿态检测、3D视频等任务，模型精度大大超越了传统.... 
+    什么是RocketMQ？RocketMQ都有些什么东西？RocketMQ一个基于主题的订阅发布机制的消息中间。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
