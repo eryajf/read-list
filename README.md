@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Mycel的蘑菇基生物材料技术获1000万美元融资](https://www.cnbeta.com/articles/science/1304863.htm) | Tue Aug 16 2022 1:53 AM 
+- 🕯 [第10代iPad已投入生产 在设计上会有“重大”调整](https://www.cnbeta.com/articles/tech/1304951.htm) | Tue Aug 16 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;韩国一家制造可替代皮革和肉类的真菌类生物材料的初创公司Mycel表示，它在A轮融资前已经筹集了1000万美元。&lt;/strong&gt;该公司联合创始人兼CEO Sungjin Sah告诉TechCrunch，该公司利用菌丝体（一种蘑菇的根状结构）制造皮革替代品，它们可用于汽车座椅和豪华化妆品及鞋、衣服和包等时尚产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;根据 DigiTimes 透露的信息，谣传中的苹果第 10 代 iPad 目前已经投入生产，在外观设计上会有“重大”调整。&lt;/strong&gt;不过在该媒体的报道中并未提供明确的细节，在此前谣传中该 iPad 将装备更大的 10.5 英寸屏幕，更窄的边框，USB-C 端口，而且后置摄像头将不再凸起。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软Dev Box云端工作站服务现已开放公众预览](https://www.cnbeta.com/articles/tech/1304861.htm) | Tue Aug 16 2022 1:52 AM 
+- 💼 [DriveSavers率先宣布为Apple Silicon Mac提供数据恢复服务](https://www.cnbeta.com/articles/tech/1304949.htm) | Tue Aug 16 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在五月宣布了 Dev Box 之后，微软终于在本周一开放了公众预览。&lt;strong&gt;其背后的想法，是为开发者提供在云端托管的“准备就绪”工作站体验，使之能够轻松利用预配置的环境来编写代码&lt;/strong&gt;（而无需担心本地设备的架构）。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一家名叫 DriveSavers 的数据恢复公司，刚刚宣布了可为带有 Apple Silicon 芯片的 Mac 用户提供数据恢复服务。&lt;/strong&gt;Apple Insider 指出，它或许是首家具备这一能力的第三方服务提供商。DriveSavers 表示，其已确定从带有 M1、M2 和 T2 芯片的 Mac 设备上访问数据所需的组件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软向Office 2021用户推送Microsoft 365限时促销广告](https://www.cnbeta.com/articles/tech/1304859.htm) | Tue Aug 16 2022 1:45 AM 
+- 💂 [DC《黑暗正义联盟》有望拍成剧集上线HBO Max](https://hot.cnbeta.com/articles/movie/1304947.htm) | Tue Aug 16 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软开始向 Office 2021 用户推送 Microsoft 365 的广告，声称可以享受 Microsoft 365 家庭订阅套餐的限时优惠。&lt;strong&gt;Microsoft Azure Security 的首席安全架构师李·福尔摩斯（Lee Holmes）还分享了一张截图，在 Office 菜单栏的下方有个黄色的广告推广横幅。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，外媒《综艺》在一篇分析“DC十年规划”的文章透露： &lt;strong&gt;《星球大战：原力觉醒》导演J·J·艾布拉姆斯和他的坏机器人公司正在筹拍《黑暗正义联盟》剧集，将上线HBO Max，而且要拍成类似“复联”的风格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1304947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究：含糖零食会对幼儿的认知能力产生负面影响](https://www.cnbeta.com/articles/science/1304857.htm) | Tue Aug 16 2022 1:35 AM 
+- 🚀 [芯片行业的“喜”与“忧”](https://www.cnbeta.com/articles/tech/1304945.htm) | Tue Aug 16 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据伊利诺伊大学厄巴纳-香槟分校的一项研究结果，&lt;strong&gt;幼儿的执行功能--控制记忆、注意力和情绪控制的高阶认知能力--可能因营养不良加上生活在混乱的家庭环境中而受到不利影响。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1304857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在如今这个冰火两重天的半导体行业氛围下，有人欢喜有人愁，一面是不断清库存的芯片厂，而另一面是长约不断的晶圆厂。芯片下行周期已至，未来芯片又将何去何从？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [WhatsApp新特性：允许用户使用公仔形象作为头像](https://www.cnbeta.com/articles/tech/1304855.htm) | Tue Aug 16 2022 1:35 AM 
+- 🎊 [韩媒：恢复经营之路，李在镕有望就任三星电子会长？](https://www.cnbeta.com/articles/tech/1304943.htm) | Tue Aug 16 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;WhatsApp 正在开发一种新功能：让用户在使用这款即时聊天消息服务时，可以使用公仔形象作为他们的头像。&lt;/strong&gt;几天前，著名的泄密者 WABetainfo 在 WhatsApp Android 应用程序上发现了这款即将推出的功能，但这并不意味着该功能将仅限于 Android 用户。据泄密者称，头像个人资料照片也将在其他平台上提供。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据韩国《东亚日报》报道，被列入“8·15光复节特赦”对象的三星电子副会长李在镕15日正式复职。三星内部正在讨论其回归经营一线的时间和信息。有人预测，李在镕就任会长等经营正常化进程，会比预想的更快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1304943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
