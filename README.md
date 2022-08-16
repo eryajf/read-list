@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [k8s service 无法负载均衡](https://www.v2ex.com/t/873287#reply11) | Tue Aug 16 2022 11:13 AM
-- 🤗 [工作的意义究竟是什么](https://www.v2ex.com/t/873279#reply38) | Tue Aug 16 2022 10:33 AM
-- 🎭 [发现 windows10 下一个莫名其妙自启动进程](https://www.v2ex.com/t/873273#reply3) | Tue Aug 16 2022 10:07 AM
-- 🥷 [朋友的三星 Note8 备用机只要室温一高就会 Kernel Panic 重启，刷机两次都无法解决， dump 好了内核日志，能看出是哪里的问题吗？](https://www.v2ex.com/t/873271#reply2) | Tue Aug 16 2022 10:03 AM
-- 🐵 [Win 环境，如何非阻塞运行一个 windows 命令？](https://www.v2ex.com/t/873270#reply5) | Tue Aug 16 2022 9:56 AM<!-- v2ex:END -->
+- 🥸 [大抵是被投毒了，是通过 ftp 匿名登陆投的，该如何解决？](https://www.v2ex.com/t/873299#reply0) | Tue Aug 16 2022 1:18 PM
+- 🤗 [k8s service 无法负载均衡](https://www.v2ex.com/t/873287#reply12) | Tue Aug 16 2022 11:13 AM
+- 🎭 [工作的意义究竟是什么](https://www.v2ex.com/t/873279#reply43) | Tue Aug 16 2022 10:33 AM
+- 🥷 [发现 windows10 下一个莫名其妙自启动进程](https://www.v2ex.com/t/873273#reply3) | Tue Aug 16 2022 10:07 AM
+- 🐵 [朋友的三星 Note8 备用机只要室温一高就会 Kernel Panic 重启，刷机两次都无法解决， dump 好了内核日志，能看出是哪里的问题吗？](https://www.v2ex.com/t/873271#reply2) | Tue Aug 16 2022 10:03 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
