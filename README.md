@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新研究模型详细预估了全球“核冬天”引发的粮食危机的严重程度](https://www.cnbeta.com/articles/science/1305129.htm) | Tue Aug 16 2022 10:51 AM 
+- 🕯 [首款石墨烯散热M.2 SSD发布：极限读写不降速掉盘](https://www.cnbeta.com/articles/tech/1305163.htm) | Tue Aug 16 2022 12:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管国际社会在努力避免核战的爆发，&lt;strong&gt;但在周一发表于《自然·食物》子刊上的一篇文章中，罗切斯特大学的一支研究团队，还是通过建模预估了“核冬天”的严重后果。&lt;/strong&gt;几十年来，许多研究团队都在模拟核冲突的后果。在核大国之间一通乱射之后，灾难性的损失并不难想象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;PCIe 4.0时代，SSD的速度有了显著提升，可由此也带来发热量增加的情况。一旦热量聚集过多，轻则降速，重则还可能造成卡顿甚至掉盘。日前，十铨（TEAMGROUP）发布了业内首款石墨烯技术加持的M.2 SSD产品MP44L。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD锐龙7000处理器延期到9月底：两大问题还没解决](https://www.cnbeta.com/articles/tech/1305127.htm) | Tue Aug 16 2022 10:27 AM 
+- 💼 [嘉陵江被晒成“嘉陵工”？官方回应：网传视频本就是浅滩](https://www.cnbeta.com/articles/tech/1305161.htm) | Tue Aug 16 2022 12:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD确定会在9月份推出5nm Zen4的锐龙7000处理器，之前的传闻是9月15日上市，然而现在有消息称延期到了9月27日，有人解释说这是正面刚Intel，因为这次会跟13代酷睿同一天发售。对于这个传闻，首先可以基本确认的是延期没跑，推迟到9月27日也是比较准的，推上有多个消息来源都可以佐证这次跳票。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;高温一度突破44.4℃，霸占全国高温排行前十中六席的重庆，近日受到了大量关注。持续的高温天气不仅仅是让人难受，也对环境造成了一定的影响。据此前报道，重庆33个区县部分地区土壤轻到重度缺墒，全市51条河流断流，24座水库干涸，2138眼机电井出水不足。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [连续8天超40度 重庆嘉陵江被晒干露出河床](https://www.cnbeta.com/articles/tech/1305125.htm) | Tue Aug 16 2022 10:27 AM 
+- 💂 [四川拉响限电警报  半导体产业链影响几何？](https://www.cnbeta.com/articles/tech/1305159.htm) | Tue Aug 16 2022 12:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，全国多地都经历了高温天气，严重的甚至出现了河流断流的情况。据悉，重庆昨天刚以33.8℃的气温打破当地最低气温的最高纪录，当天13时10分气温又超过40℃，&lt;strong style=&quot;white-space: normal;&quot;&gt;为自8月8日以来连续8天气温超40℃，创下当地最长40℃+纪录。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，因极端高温天气等原因，四川工业企业“临时限电停产”引发行业关注。作为我国中西部集成电路产业的重点区域，封测、显示、光伏等领域均遭遇不同程度影响。&lt;strong style=&quot;white-space: normal;&quot;&gt;集微网在采访中了解到，相关部门半月前就发出预警提示，但临时限电所造成的停产仍然给企业的生产运营带来不小压力，部分企业面临库存报废的经济风险和无法及时交货的罚款和订单流失风险。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [64核心49999元 AMD Zen3线程撕裂者国内开卖 溢价最多30％](https://www.cnbeta.com/articles/tech/1305123.htm) | Tue Aug 16 2022 10:26 AM 
+- 🚀 [AI预测30秒内火灾轰燃 中国石油大学参与研究](https://www.cnbeta.com/articles/tech/1305157.htm) | Tue Aug 16 2022 11:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD今年3月底发布了Zen3架构的锐龙线程撕裂者PRO 5000WX系列，初期仅限OEM工作站整机，直到本月初才在海外零售上市。今天，Zen3撕裂者终于在国内开卖了！还是三款型号，&lt;strong style=&quot;white-space: normal;&quot;&gt;64核心的旗舰5995WX 49999元，32核心的5975WX 25999元，24核心的5965WX 18999元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这段时间天气巨热，天干物燥，也是火灾高发的时候。最近就接连发生了一些火灾事件，还有消防员牺牲的消息，令人心痛。&lt;strong style=&quot;white-space: normal;&quot;&gt;火灾中对消防员威胁很大的，其实是爆燃现象。&lt;/strong&gt;短短两天，就有两起消防员因为爆燃现象而牺牲的事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [林志颖顺利完成颜面手术 消息称特斯拉曾私下询问病情](https://www.cnbeta.com/articles/tech/1305121.htm) | Tue Aug 16 2022 10:25 AM 
+- 🎊 [万亿美团大跌10% 腾讯真要减持吗？](https://www.cnbeta.com/articles/tech/1305155.htm) | Tue Aug 16 2022 11:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong style=&quot;white-space: normal;&quot;&gt;据港媒最新报道称，继手部手术后，林志颖顺利完成颜面手术，目前恢复中。&lt;/strong&gt;&lt;a class=&quot;f14_link&quot; href=&quot;https://news.mydrivers.com/1/852/852751.htm&quot; target=&quot;_blank&quot; style=&quot;white-space: normal;&quot;&gt;今天陈若仪也晒握手照表示&lt;/a&gt;：挺过风雨，终究会看见曙光，经纪人对此回应：感谢关心，希望他状况越来越好，其他不方便回应，就让病人多多修养。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大股东减持的传闻引发各界猜测，在二级市场掀起波澜。8月16日，美团股价午后持续走低，跌幅一度扩大至10%。截至收盘，股价有所回升，跌幅为9.07%。据市场消息称，腾讯控股计划出售其在美团的全部或大部分股份。腾讯拥有美团约17%股权，近几个月一直在与财务顾问接触，以研究如何执行可能大规模出售美团股份的计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
