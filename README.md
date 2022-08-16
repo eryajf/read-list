@@ -444,7 +444,7 @@
      &lt;p&gt;非洲企鹅濒临灭绝，正被赶离南非东海岸的自然栖息地，经研究发现是受相关船舶加油的噪音影响。据了解，阿尔戈亚湾位于南非的伊丽莎白港，近3万头瓶鼻海豚生活于此，拥有丰富的海洋和鸟类生物，是全球最大的非洲企鹅繁殖地，但是16年南非开始允许当地船只在海上加油后岛上的非洲企鹅数量急剧减少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Intel显卡放弃DirectX 9支持 《CSGO》实测性能惨不忍睹](https://www.cnbeta.com/articles/tech/1305203.htm) | Tue Aug 16 2022 3:17 PM 
+- 💼 [Intel显卡放弃DirectX 9支持 《CS:GO》实测性能惨不忍睹](https://www.cnbeta.com/articles/tech/1305203.htm) | Tue Aug 16 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Intel的Arc A380显卡上市之后，多家网站都指出它在DX9/DX11等旧游戏中表现不佳，前不久Intel高管还在采访中确认会继续优化旧游戏，然而Intel突然又表示不再原生支持DX9了。Intel已经确认，基于Xe LP架构的12代酷睿核芯显卡、基于Xe HGP架构的Arc A系列独立显卡，&lt;strong style=&quot;white-space: normal;&quot;&gt;都不再原生支持DX9，而基于DX9的程序、游戏都需要通过D3D9On12进行转译运行。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
