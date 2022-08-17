@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [NAS 协议问题](https://www.v2ex.com/t/873569#reply7) | Wed Aug 17 2022 12:12 PM
-- 🤗 [国内的服务器虚拟化方案哪个靠谱?智简魔方和 zstack](https://www.v2ex.com/t/873567#reply1) | Wed Aug 17 2022 12:01 PM
-- 🎭 [前端为 Web 显示的 信息发布系统 有开源或推荐的吗？](https://www.v2ex.com/t/873561#reply27) | Wed Aug 17 2022 11:42 AM
-- 🥷 [怎么理解这段 if 判断的逻辑](https://www.v2ex.com/t/873556#reply0) | Wed Aug 17 2022 11:23 AM
-- 🐵 [根目录&lpar;/&rpar;被 chmod -R 777 *了， sudo 命令救回来能用了，还有其它暗病吗](https://www.v2ex.com/t/873547#reply3) | Wed Aug 17 2022 10:27 AM<!-- v2ex:END -->
+- 🥸 [请问各位 V 友，有没有类似聚合招聘的网站](https://www.v2ex.com/t/873602#reply0) | Wed Aug 17 2022 3:17 PM
+- 🤗 [nginx 双向认证的几个问题！](https://www.v2ex.com/t/873598#reply0) | Wed Aug 17 2022 3:02 PM
+- 🎭 [AI Screenshot 是啥软件？](https://www.v2ex.com/t/873595#reply1) | Wed Aug 17 2022 2:45 PM
+- 🥷 [有没有对国内 nft 感兴趣的](https://www.v2ex.com/t/873591#reply0) | Wed Aug 17 2022 2:34 PM
+- 🐵 [NAS 协议问题](https://www.v2ex.com/t/873569#reply9) | Wed Aug 17 2022 12:12 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
