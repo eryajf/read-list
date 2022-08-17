@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开学了，计算机的大学生们，送给你们一些经验，希望你们的四年不负年华！](https://juejin.cn/post/7132851609578504222) | Wed Aug 17 2022 2:27 PM 
+- 🤗 [Swift - LeetCode - 删除链表中的节点](https://juejin.cn/post/7132873318905937934) | Wed Aug 17 2022 3:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情  题目 请编写一个函数，用于 删除单链表中某个特定节点。在设计函数时需要注意，你无法访问链表的头节点 h 
+    </details> 
+
+- 🎡 [Ruby vs Elixir | 2022 该选哪个？](https://juejin.cn/post/7132852318474600456) | Wed Aug 17 2022 2:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    一起来探索 Ruby 和 Elixir（以及 Phoenix） 的起源搞清楚 Ruby 和 Elixir 的优缺点和Elixir 和 Ruby 的最佳实践以及到底是选择 Elixir 还是 Ruby？ 
+    </details> 
+
+- 🕯 [如何预防利用Redis弱密码进行攻击](https://juejin.cn/post/7132852216875974686) | Wed Aug 17 2022 2:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 各位运维同仁大家好，我们之前在 服务器被挖矿了后应当如何做 中提及过，如何预防服务器被挖矿，其中有几条措 
+    </details> 
+
+- 🚀 [开学了，计算机的大学生们，送给你们一些经验，希望你们的四年不负年华！](https://juejin.cn/post/7132851609578504222) | Wed Aug 17 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
     9月快要到了，不少大学已经陆陆续续开学了，不禁感慨，时间过得真快啊，一转眼就毕业多年了。在这里说一些自己对于大学浅薄的经验，希望对于你们有用。 一、不要挂科 大家应该都听过“没挂科的大学不是完整的大学 
     </details> 
 
-- 🎡 [大家都能看得懂的源码之 ahooks useVirtualList 封装虚拟滚动列表](https://juejin.cn/post/7132842601786376200) | Wed Aug 17 2022 1:52 PM 
+- 💪 [LeetCode最长公共前缀使用JavaScript解题,一种不太正经的解法|前端学算法](https://juejin.cn/post/7132850825801498637) | Wed Aug 17 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
-    useVirtualList 提供虚拟化列表能力的 Hook，用于解决展示海量数据渲染时首屏渲染缓慢和滚动卡顿问题。 
-    </details> 
-
-- 🕯 [头脑风暴：最长递增子序列](https://juejin.cn/post/7132836063277482021) | Wed Aug 17 2022 1:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    题目 给你一个整数数组 nums ，找到其中最长严格递增子序列的长度。 子序列是由数组派生而来的序列，删除（或不删除）数组中的元素而不改变其余元素的顺序。例如，[3,6,2,7] 是数组 [0,3,1 
-    </details> 
-
-- 🚀 [压力测试-JMeter安装、入门、结果分析](https://juejin.cn/post/7132829647674277919) | Wed Aug 17 2022 1:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 1.写在前面 等到服务上线后，在业务压力的冲击下，会发现程序运行非常的慢，或者是宕机，莫名其妙的出现各种 
-    </details> 
-
-- 💪 [百炼成钢 —— 声网实时网络的自动运维丨Dev for Dev 专栏](https://juejin.cn/post/7132828657428463630) | Wed Aug 17 2022 12:59 PM 
-    <details><summary>展开描述 ...</summary> 
-    在智能化时代，信息的爆炸式增长导致传统的运维、决策、分析、服务已经无法与环境契合，而算法正是为了解决这些问题而存在的。 
+    使用JavaScript解决LeetCode最长公共前缀的问题,for循环的几种跳出循环的方式；前端学习算法 
     </details> 
 <!-- juejin:END -->
 ### 少数派
