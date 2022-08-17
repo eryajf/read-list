@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [真的比SSD硬盘大了 三星研发1TB单条DDR5内存](https://www.cnbeta.com/articles/tech/1305627.htm) | Wed Aug 17 2022 2:48 PM 
+- 🕯 [曝《GTA6》回归单人DLC模式 发售前就提前做好准备](https://hot.cnbeta.com/articles/game/1305635.htm) | Wed Aug 17 2022 3:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;此前有消息称，《GTA6》将“随着时间的推移而扩展”。玩家担心这会占用R星更多的人手，导致其他游戏的更新和开发进度变慢。知名爆料者Tez2对此做出了回应。他表示“随着时间的推移而扩展”意味着《GTA6》将回归《GTAOL》大获成功之前的单人DLC更新方式。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [黑吃黑：宝马遭挖墙脚 黑客光明正大敛钱](https://www.cnbeta.com/articles/tech/1305633.htm) | Wed Aug 17 2022 3:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近两年，视频平台在播放电视剧时，各种巧立名目，花式收费，像超前点播、二次收费等，引发不少吐槽。不过这种付费才能享受的待遇，最近出现了“人传人”现象。近日，宝马的18美元/月的座椅加热功能，先后在韩国、英国推出，即便引发不少争议，宝马仍表示，要推出更多针对车辆性能的订阅服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [传特斯拉将于近期公布自研AI芯片新进展](https://www.cnbeta.com/articles/tech/1305631.htm) | Wed Aug 17 2022 3:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;将于下周举行的硅谷芯片技术研讨会HOT CHIPS议程显示，特斯拉将在本次活动上发表多场演讲，主题涉及其自研AI芯片Dojo项目。特斯拉硬件工程师Emil Talpes演讲主题为《Dojo，特斯拉E级超算的微架构》，而Dojo首席系统工程师Bill Chang则将随后带来题为《Dojo，面向机器学习训练的超算系统伸缩》演讲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [AMD下代三大GPU核心靓照公布：瘦成一道闪电](https://www.cnbeta.com/articles/tech/1305629.htm) | Wed Aug 17 2022 3:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;推特博主Wild_C近日又制作了一组AMD下一代三大GPU核心的渲染图，和之前的不太一样，毕竟信息更新了。Navi 31大核心采用一个GCD、六个MCD的小芯片组合，之前传闻面积分别是369、44平方毫米，合计达633平方毫米，但最新说法变成了&lt;strong style=&quot;white-space: normal;&quot;&gt;308、37.5平方毫米，总计仅为533平方毫米，小了近16％。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [真的比SSD硬盘大了 三星研发1TB单条DDR5内存](https://www.cnbeta.com/articles/tech/1305627.htm) | Wed Aug 17 2022 2:48 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;不考虑钱的因素，内存容量显然是越大越好，今年锐龙7000以及13代酷睿上市之后，很多人恐怕都是32GB DDR5内存起步，服务器级市场上单条64GB、128GB都不稀奇了，三星正在研发的则是单条512GB甚至1TB的DDR5内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [NASA正在热火朝天地组装欧罗巴Clipper航天器](https://www.cnbeta.com/articles/science/1305625.htm) | Wed Aug 17 2022 2:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Europa Clipper航天器将占据美国宇航局喷气推进实验室（JPL）的主要生产设施，&lt;strong&gt;因为它准备在2024年发射到木星的冰冷卫星Europa。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [辉瑞CEO新冠阳性背后：复阳只是时间问题吗？](https://www.cnbeta.com/articles/tech/1305623.htm) | Wed Aug 17 2022 2:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新冠疫苗生产研发大厂辉瑞制药的CEO竟然被检测出新冠阳性，这件事在昨日曝光后就登上了热搜榜。如何形容此次事件背后的黑色幽默意味，我想不亚于生产老鼠药的工坊闹开了鼠疫。疫苗、特效药，辉瑞从来都走在抗击新冠的前锋梯队，CEO的感染让看客开始揣测其下产品的作用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [流媒体革命拉大了英国青年人和老年人之间的电视代沟](https://www.cnbeta.com/articles/tech/1305621.htm) | Wed Aug 17 2022 1:56 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;英国通讯管理局发现，威尔士年轻人现在比55岁以上的人少看近五倍的电视&lt;/strong&gt;，这显示媒体习惯的代沟达到了历史最高水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [分析师表示iPhone 14 Pro机型可能会涨价100美元](https://www.cnbeta.com/articles/tech/1305619.htm) | Wed Aug 17 2022 1:53 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Wedbush Securities分析师Dan Ives称，与iPhone 13 Pro机型相比，iPhone 14 Pro机型将&amp;quot;可能&amp;quot;出现100美元的价格上涨。Ives在今天分享的一份研究报告中说：&amp;quot;虽然基本的iPhone将保持相同的价格，但我们相信，鉴于组件价格的增加以及新发布的功能的增加，iPhone 14 Pro/Pro Max的价格可能会增加100美元。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
