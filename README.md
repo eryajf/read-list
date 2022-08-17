@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Linux +mac 如何提升开发体验？](https://www.v2ex.com/t/873608#reply4) | Wed Aug 17 2022 3:45 PM
-- 🤗 [Github contribution 中不显示我对自己 repo 的 commit](https://www.v2ex.com/t/873603#reply7) | Wed Aug 17 2022 3:23 PM
-- 🎭 [请问各位 V 友，有没有类似聚合招聘的网站](https://www.v2ex.com/t/873602#reply0) | Wed Aug 17 2022 3:17 PM
-- 🥷 [nginx 双向认证的几个问题！](https://www.v2ex.com/t/873598#reply0) | Wed Aug 17 2022 3:02 PM
-- 🐵 [AI Screenshot 是啥软件？](https://www.v2ex.com/t/873595#reply2) | Wed Aug 17 2022 2:45 PM<!-- v2ex:END -->
+- 🥸 [在线旅游公司招聘长期实习（兼职）岗位 - 在校或毕业两年内均可](https://www.v2ex.com/t/873620#reply1) | Wed Aug 17 2022 8:04 PM
+- 🤗 [Linux +mac 如何提升开发体验？](https://www.v2ex.com/t/873608#reply4) | Wed Aug 17 2022 3:45 PM
+- 🎭 [Github contribution 中不显示我对自己 repo 的 commit](https://www.v2ex.com/t/873603#reply7) | Wed Aug 17 2022 3:23 PM
+- 🥷 [请问各位 V 友，有没有类似聚合招聘的网站](https://www.v2ex.com/t/873602#reply0) | Wed Aug 17 2022 3:17 PM
+- 🐵 [nginx 双向认证的几个问题！](https://www.v2ex.com/t/873598#reply0) | Wed Aug 17 2022 3:02 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
