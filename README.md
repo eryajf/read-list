@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [谈谈我的数字文具「盒」：如何围绕 Mac 桌面构建简易数字化工作流程](https://sspai.com/post/75146) | Wed Aug 17 2022 2:58 AM 
+- 👹 [特别直播｜少数派会员第二季都有哪些「新意」？](https://sspai.com/post/74940) | Wed Aug 17 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，少数派会员第二季已经上线快一个月了。在经历了第一季会员之后，我们希望在第二季会员给大家带来更多新鲜感。因此，不论你是第一季订阅过来的老会员，还是第二季才订阅的「小鲜肉」，相信大家都发现会员第二 ...&lt;a href=&quot;https://sspai.com/post/74940&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [谈谈我的数字文具「盒」：如何围绕 Mac 桌面构建简易数字化工作流程](https://sspai.com/post/75146) | Wed Aug 17 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
     谈谈如何将 Mac 桌面作为我的数字文具盒，搭建简易数字化学术工作流程。&lt;a href=&quot;https://sspai.com/post/75146&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：文石发布 BOOX Tab8 平板、微星发布 Prestige 16 笔记本等](https://sspai.com/post/75183) | Wed Aug 17 2022 12:45 AM 
+- 🤭 [派早报：文石发布 BOOX Tab8 平板、微星发布 Prestige 16 笔记本等](https://sspai.com/post/75183) | Wed Aug 17 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
     华硕发布 PA32DC 显示器，Alienware 外星人发布新款游戏显示器等。&lt;a href=&quot;https://sspai.com/post/75183&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [应用内浏览器瞒天过海，苹果的隐私策略被 Instagram「扎」破了吗？](https://sspai.com/post/75176) | Tue Aug 16 2022 9:30 AM 
+- 🥸 [应用内浏览器瞒天过海，苹果的隐私策略被 Instagram「扎」破了吗？](https://sspai.com/post/75176) | Tue Aug 16 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     Meta 公司旗下的 Instagram 的 iOS 版本被隐私安全专家 Felix Krause 发现，它们会用程序内的定制化浏览器尝试跟踪用户在其他第三方网页中的交互和输入，不仅有害于用户隐私，还会给用户带来不少的风险。&lt;a href=&quot;https://sspai.com/post/75176&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [绽放在桌面的英雄梦，6 寸美漫可动人偶入坑指南](https://sspai.com/prime/story/doll-and-your-hero-dream) | Tue Aug 16 2022 7:47 AM 
+- 🙉 [绽放在桌面的英雄梦，6 寸美漫可动人偶入坑指南](https://sspai.com/prime/story/doll-and-your-hero-dream) | Tue Aug 16 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
     既然我们没法自己变成超级英雄，那我们就把「超级英雄」们买回来，让这些「货真价实」的「超级英雄」，为我们心中的那个孩子上演一场只属于我们的动作大片。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/doll-and-your-hero-dream&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [城市漫步指南：风物长宜放眼量，坐参禅意望佛山](https://sspai.com/post/75110) | Tue Aug 16 2022 6:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    佛山禅城散步路线：南浦公园-后龙西街-通济桥-有记餐厅-先行书店南浦公园巧妙躲过城市热岛效应，在钢筋水泥之间忽然拥有一片绿洲，南浦公园常常是我散步路线的起点，因为过于留恋这里的宜人氛围，我会在公园的塑 ...&lt;a href=&quot;https://sspai.com/post/75110&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
