@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Linux必知必会】如何查看进程&amp;数字法和文本法修改权限](https://juejin.cn/post/7132827022585233445) | Wed Aug 17 2022 12:54 PM 
+- 🤗 [压力测试-JMeter安装、入门、结果分析](https://juejin.cn/post/7132829647674277919) | Wed Aug 17 2022 1:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 1.写在前面 等到服务上线后，在业务压力的冲击下，会发现程序运行非常的慢，或者是宕机，莫名其妙的出现各种 
+    </details> 
+
+- 🎡 [百炼成钢 —— 声网实时网络的自动运维丨Dev for Dev 专栏](https://juejin.cn/post/7132828657428463630) | Wed Aug 17 2022 12:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    在智能化时代，信息的爆炸式增长导致传统的运维、决策、分析、服务已经无法与环境契合，而算法正是为了解决这些问题而存在的。 
+    </details> 
+
+- 🕯 [【Linux必知必会】如何查看进程&amp;数字法和文本法修改权限](https://juejin.cn/post/7132827022585233445) | Wed Aug 17 2022 12:54 PM 
     <details><summary>展开描述 ...</summary> 
     这篇文章详细的讲解了Linux查看进程的知识点和Linux权限的知识点。通过这一系列的文章，大家不仅能复习梳理后端开发相关的知识点，也可以了解目前的市场环境对服务端开发，尤其是对Go开发工程师的岗位要 
     </details> 
 
-- 🎡 [C# Chart控件标记问题](https://juejin.cn/post/7132818750155259912) | Wed Aug 17 2022 12:20 PM 
+- 🚀 [怪异盒模型border-box真的一无是处吗？](https://juejin.cn/post/7132826677469511716) | Wed Aug 17 2022 12:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    我们都知道有两种盒模型，w3c盒模型和IE盒模型，IE是业界毒瘤所以IE盒模型又叫怪异盒模型&lpar;好吧我瞎说的&rpar;，现代浏览器默认的都是w3c标准，也就是 content-box，顾名思义，即width就是 
+    </details> 
+
+- 💪 [C# Chart控件标记问题](https://juejin.cn/post/7132818750155259912) | Wed Aug 17 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 前言： 在做项目的时候，遇到一个需求，需要我对Chart图标标记数据正在运行，实现数据可视化，因为我们的 
-    </details> 
-
-- 🕯 [简历包装 || 简历造假 vs 背景调查](https://juejin.cn/post/7132816319354765326) | Wed Aug 17 2022 12:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    简历这玩意其实是深水区，社区经常对简历造假的同学，骂得起劲，上升到了道德层面，但是很多同学屡试不爽，难以杜绝，也无法杜绝，到现在就是存在即为合理，面试官知道你在造假，你也知道你在造假， 
-    </details> 
-
-- 🚀 [如何在uni-app使用iconfont字图标](https://juejin.cn/post/7132815287187046436) | Wed Aug 17 2022 12:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    添加图标 打开，https://www.iconfont.cn/ 网站，找到自己的喜欢的图表加入到项目中 下载本地 点击下载至本地 拷贝文件 将iconfont.css，iconfont.woff,i 
-    </details> 
-
-- 💪 [Fiddler的使用&lpar;一&rpar;](https://juejin.cn/post/7132809591452073998) | Wed Aug 17 2022 11:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    什么是 Fiddler? Fiddler 是一个 HTTP 协议调试代理工具，它能够记录并检查所有你的电脑和互联网之间的 HTTP 通讯。 Fiddler 提供了电脑端、移动端的抓包、包括 http  
     </details> 
 <!-- juejin:END -->
 ### 少数派
