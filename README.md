@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [新人律师需要掌握哪些方法论与技巧？](https://sspai.com/post/75186) | Wed Aug 17 2022 6:27 AM 
+- 👹 [一派 | 编辑部都用什么 app 看天气？](https://sspai.com/post/75189) | Wed Aug 17 2022 8:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    一张截图、两位飘红的数字、三天内不见降水的预报……足以说明一切。&lt;a href=&quot;https://sspai.com/post/75189&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [新人律师需要掌握哪些方法论与技巧？](https://sspai.com/post/75186) | Wed Aug 17 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
     每年这个时候，总有不少刚毕业的法学院同学加入律所开启自己的律师生涯，也有不少在校学生在暑假选择到律所实习。对于刚刚步入职场的律师新人或实习生而言，应该注意哪些方面呢？&lt;a href=&quot;https://sspai.com/post/75186&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [特别直播｜少数派会员第二季都有哪些「新意」？](https://sspai.com/post/74940) | Wed Aug 17 2022 3:30 AM 
+- 🤭 [特别直播｜少数派会员第二季都有哪些「新意」？](https://sspai.com/post/74940) | Wed Aug 17 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，少数派会员第二季已经上线快一个月了。在经历了第一季会员之后，我们希望在第二季会员给大家带来更多新鲜感。因此，不论你是第一季订阅过来的老会员，还是第二季才订阅的「小鲜肉」，相信大家都发现会员第二 ...&lt;a href=&quot;https://sspai.com/post/74940&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [谈谈我的数字文具「盒」：如何围绕 Mac 桌面构建简易数字化工作流程](https://sspai.com/post/75146) | Wed Aug 17 2022 2:58 AM 
+- 🥸 [谈谈我的数字文具「盒」：如何围绕 Mac 桌面构建简易数字化工作流程](https://sspai.com/post/75146) | Wed Aug 17 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
     谈谈如何将 Mac 桌面作为我的数字文具盒，搭建简易数字化学术工作流程。&lt;a href=&quot;https://sspai.com/post/75146&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：文石发布 BOOX Tab8 平板、微星发布 Prestige 16 笔记本等](https://sspai.com/post/75183) | Wed Aug 17 2022 12:45 AM 
+- 🙉 [派早报：文石发布 BOOX Tab8 平板、微星发布 Prestige 16 笔记本等](https://sspai.com/post/75183) | Wed Aug 17 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
     华硕发布 PA32DC 显示器，Alienware 外星人发布新款游戏显示器等。&lt;a href=&quot;https://sspai.com/post/75183&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [应用内浏览器瞒天过海，苹果的隐私策略被 Instagram「扎」破了吗？](https://sspai.com/post/75176) | Tue Aug 16 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    Meta 公司旗下的 Instagram 的 iOS 版本被隐私安全专家 Felix Krause 发现，它们会用程序内的定制化浏览器尝试跟踪用户在其他第三方网页中的交互和输入，不仅有害于用户隐私，还会给用户带来不少的风险。&lt;a href=&quot;https://sspai.com/post/75176&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
