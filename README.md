@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [这一年，我对终端组织与技术架构的思考【专家讲技术】](https://juejin.cn/post/7132679176481406983) | Wed Aug 17 2022 3:18 AM 
+- 🤗 [Android WebView界面输入法弹起遮挡文本框问题最终解决方案---网上的其他的全是渣渣](https://juejin.cn/post/7132722849457897509) | Wed Aug 17 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-    这一年，我对终端组织与技术架构的思考【专家讲技术】：面向未来的终端框架——KUN 。。。。。。。。。 
+    Android输入法遮挡问题，WebView输入法遮挡问题，安卓WebView文本框弹出导致的输入法遮挡。 
     </details> 
 
-- 🎡 [如何利用prefetch提升Vite开发模式下懒加载的性能、转转价格系统DDD实践、必须避免的10个React错误用法 | 酱酱的下午茶第52期](https://juejin.cn/post/7132673641279389726) | Wed Aug 17 2022 2:56 AM 
+- 🎡 [Android 13 正式版发布](https://juejin.cn/post/7132720318736515085) | Wed Aug 17 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-    本期每日掘金由圣 · 无敌 · 超级厉害 · 神 · 弑天 · 战魂 · 战神 · 皇族丶少帅 · 丘山子负责制作。亮点：我是如何利用 prefetch 来提升 Vite 开发模式下懒加载的性能... 
+    一、Android 13 正式版发布 今天，没做任何预告，谷歌为Pixel用户（Pixel 4、4a、5、5a和6系列等）送出惊喜，Android 13首个稳定版正式推送。 随后，谷歌承诺包括三星、小 
     </details> 
 
-- 🕯 [还在嫌弃自己网站密码屡屡被攻克吗？强密码校验隔离机器人](https://juejin.cn/post/7132666094237515789) | Wed Aug 17 2022 2:27 AM 
+- 🕯 [商汤发布象棋机器人『元萝卜』;『南瓜书』西瓜书公式推导&amp;解析；代码自动美化插件；Tock建立对话机器人的AI平台；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7132691133460643871) | Wed Aug 17 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-    这道题难就难在需要你给出优化步骤。不仅仅需要判定他是否符合强密码要求，还需要针对非强密码给出优化方案优化的方式题目中也给出说明了，我们一次操作仅可以新增，删除，修改一个字符。在针对密码长度我们会区分三 
+    ShowMeAI资讯日报 08-17 期，分析/理解推文的NLP工具包、微软·应用程序的性能分析工具、Tock 用于建立对话机器人的AI平台、微软·计算机视觉最佳实践合辑、前沿论文… 
     </details> 
 
-- 🚀 [盘点12个 yyds 的低代码开源项目](https://juejin.cn/post/7132664773761564702) | Wed Aug 17 2022 2:22 AM 
+- 🚀 [我好爱公众号开发](https://juejin.cn/post/7132688916737425438) | Wed Aug 17 2022 3:58 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 6 天，点击查看活动详情 &gt;&gt; 大家好，我是 CUGGZ。 低代码是基于可视化和模型驱动理念，结合云原生与多端体验技术，它能够在 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 最近在公司接手了一个微信公众号商城的项目，支付走的三方平台，服务商手续费就是低。以前也开发过公众号，觉得 
     </details> 
 
-- 💪 [果蝇优化算法（Fruit Fly Optimization Algorithm，FOA）-Matlab源码](https://juejin.cn/entry/7132647608966709285) | Wed Aug 17 2022 1:15 AM 
+- 💪 [Seata-php 半年规划](https://juejin.cn/post/7132681742955053092) | Wed Aug 17 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-    2011年台湾亚东技术学院的潘文超受果蝇觅食行为的启发，提出了一种的全局优化算法—果蝇优化算法（Fruit Fly Optimization Algorithm，FOA）。该算法的优点在于计算过程简单、易于编码实现和易于理解等。果蝇本身在感觉和感知方面优于其他物种，尤其是在嗅觉和... 
+    Seata-php 是 Seata 的 PHP 语言实现，它实现了 Java 和 PHP 之间的互通，让 PHPer 也能使用 seata-php 来实现分布式事务。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
