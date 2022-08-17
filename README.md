@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [12岁男孩玩手游充掉父亲医疗费 游戏公司退款已到账](https://hot.cnbeta.com/articles/game/1305443.htm) | Wed Aug 17 2022 5:08 AM 
+- 🕯 [《辐射》真人剧新剧照 故事地点或为32号避难所](https://hot.cnbeta.com/articles/movie/1305477.htm) | Wed Aug 17 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如今互联网时代，越来越多的自控制力较差的孩子难以避免各种充值的诱惑热下祸来，上个月，12岁的男孩黄某勋到医院陪伴因病住院的父亲黄正祥。期间，他用父亲的手机玩游戏，为能顺利通关，先后充值共计3800余元。虽然看上去不是很多，然而，他没有意识到，这些钱是亲友们捐给父亲的医疗费，对他的家庭来说，这是一笔“巨款”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（8月17日），《辐射》真人剧避难所场景剧照被泄露到社交媒体，最新剧照详细展现了避难所内部构造，其中包括育儿房、避难所过道、教学室等内部场所及耕地和畜栏等外部建筑，其中一种剧照疑似透露剧集故事发生在32号避难所。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1305477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [贝索斯：《指环王：力量之戒》是一种责任 并不是全为了赚钱](https://hot.cnbeta.com/articles/movie/1305441.htm) | Wed Aug 17 2022 5:06 AM 
+- 💼 [Pixel 7系列通过FCC认证：UWB仍为Pro型号独有](https://www.cnbeta.com/articles/tech/1305475.htm) | Wed Aug 17 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊创始人，前 CEO 杰夫·贝索斯对《指环王：力量之戒》发表了自己的看法。在最新的采访中，他表示希望这部剧能够忠于托尔金所创作的原作，且并不完全是以赚钱为目的。“中土是一个深受喜爱的世界，讲述力量之戒的锻造故事是一种荣幸和责任。我希望我们能够公正地对待托尔金的作品，”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1305441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;继支持 Wi-Fi 6E 的下一代 Nest WiFi 昨日通过 FCC 认证之后，Goolge 的 Pixel 7 和 Pixel 7 Pro 今天也现身 FCC。本次共有 6 款型号通过认证，其中 2 组型号使用相同的 FCC ID。&lt;/strong&gt;对此，国外科技媒体 9to5Google 认为，型号“GP4BC”是支持 Sub-6 的 Pixel 7 Pro，而型号“GE2AE”（此外还包括 GFE4J）是支持 mmWave 的 Pixel 7 Pro。Pro 型号均支持 UWB，将会继续仅限于 Pro 型号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [任天堂美国前CEO雷吉透露公司曾开发过无障碍控制器](https://hot.cnbeta.com/articles/game/1305439.htm) | Wed Aug 17 2022 4:42 AM 
+- 💂 [科学家展示新方法：利用磁铁在微重力条件下从水中获取氧气](https://www.cnbeta.com/articles/science/1305473.htm) | Wed Aug 17 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美任前CEO雷吉·菲尔斯·埃米近日在接受Inverse采访时透露，任天堂曾开发过一款类似于微软Xbox的无障碍控制器。这种设备面向所有玩家开放，不管他们的身体需求如何，都可以通过许多即插即用模块实现对游戏的控制，用户可以根据需要切换输入/输出模块。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;科学家们展示了一种利用磁铁在微重力条件下从水中获取氧气的方法，这被描述为帮助人类进入深空的系统发展的一个关键进展。&lt;/strong&gt;该技术作为一种具有成本效益和可行的方式，在宇航员的旅程中保持呼吸，并标志着在没有浮力的情况下从水中生产氧气的一个重要突破。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [3年产能100万辆 中国市场挽救特斯拉](https://www.cnbeta.com/articles/tech/1305437.htm) | Wed Aug 17 2022 4:26 AM 
+- 🚀 [拜登政府砸数十亿美元补贴新能源车市场，“北美制造”的目标能实现吗？](https://www.cnbeta.com/articles/tech/1305471.htm) | Wed Aug 17 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，特斯拉CEO埃隆·马斯克在Twitter上表示，特斯拉上海工厂已经生产了超过100万辆汽车，特斯拉全球总产量同时突破了300万辆。特斯拉对外事务副总裁陶琳转载特马斯克的微博，并表示供应链的本土化率已超过95%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国总统拜登于当地时间16日签署了《2022年通胀削减法案》。该法案看似名为《通胀削减法案》实质上包含了大量能源安全和气候变化领域的条款，总额7500亿美元的法案中有3690亿美元投资都和能源安全和气候变化相关，也被视为美国史上最大规模的气候法案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [报道称苹果供应链厂商将在越南生产Apple Watch和MacBook](https://www.cnbeta.com/articles/tech/1305435.htm) | Wed Aug 17 2022 4:21 AM 
+- 🎊 [Google在澳赢得诽谤之战，最高法院认定其并非内容出版商](https://www.cnbeta.com/articles/tech/1305469.htm) | Wed Aug 17 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;《日经亚洲》周二援引知情人士的话称，苹果供应商正就首次于越南生产 Apple Watch 和 MacBook 展开谈判。&lt;/strong&gt;此外报告补充道，立讯精密（Luxshare Precision）和 iPhone 组装商富士康（Foxconn）已在该国北部开启试生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;澳大利亚最高法院裁定，Google并非其在搜索结果中链接的网站的发布者，另外发现这家互联网巨头没有诽谤一位以代表黑社会人物而闻名的维多利亚州律师。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
