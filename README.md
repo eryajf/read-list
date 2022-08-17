@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iOS 15.6.1和iPadOS 15.6.1发布 修复了一些错误和漏洞](https://www.cnbeta.com/articles/tech/1305647.htm) | Wed Aug 17 2022 5:54 PM 
+- 🕯 [曼联股价大涨7% 马斯克开收购玩笑后格雷泽家族考虑出售少数股权](https://www.cnbeta.com/articles/tech/1305653.htm) | Wed Aug 17 2022 6:36 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong style=&quot;white-space: normal;&quot;&gt;曼联股价周三盘中一度大涨逾7%，因有报道称该足球俱乐部的所有者格雷泽家族可能愿意出售少数股权。&lt;/strong&gt;据报道，格雷泽家族已就出售曼联股份进行了早期讨论。报道称，格雷泽家族尚未准备好放弃对曼联的控制权，但正在权衡新投资者的选择，已就引入新投资者的可能性进行了一些初步讨论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [芯片价格“雪崩” 新能源汽车要降价了？](https://www.cnbeta.com/articles/tech/1305651.htm) | Wed Aug 17 2022 6:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;困扰汽车行业近两年的“芯荒”，就要结束了？据媒体报道，在经历了价格暴涨后，芯片市场开始出现降价销售的情况，部分芯片价格甚至开始出现雪崩式下跌，跌幅达到九成。虽然芯片供应紧张有所缓解，但随着新能源汽车的渗透率的快速攀升，一些车用芯片供不应求的现象也在出现。在经历了上半年的涨价后，下半年新能源汽车会不会降价？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [汽车辅助驾驶频出交通事故 是谁误导了它的功能？](https://www.cnbeta.com/articles/tech/1305649.htm) | Wed Aug 17 2022 6:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近期，一则与小鹏汽车辅助驾驶系统关联的交通事故，让辅助驾驶系统的安全问题再次被热议。其实，不只小鹏汽车，理想、蔚来等造车新势力均曾因与辅助驾驶系统相关的事故登上热搜。中新财经注意到，在多起使用辅助驾驶系统引发的交通事故中，不少车辆都出现了在行驶中遇到静止物体，刹车不及或是并未刹车而发生的碰撞情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [iOS 15.6.1和iPadOS 15.6.1发布 修复了一些错误和漏洞](https://www.cnbeta.com/articles/tech/1305647.htm) | Wed Aug 17 2022 5:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果今天发布了iOS和iPadOS 15.6.1，这是最初在2021年9月发布的iOS和iPadOS 15操作系统的小更新。iOS 15.6.1和iPadOS 15.6.1是在苹果发布iOS 15.6和iPadOS 15.6一个月后发布的，带有新的实时体育功能和错误修复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [macOS Monterey 12.5.1现在可供下载](https://www.cnbeta.com/articles/tech/1305645.htm) | Wed Aug 17 2022 5:53 PM 
+- 🎊 [macOS Monterey 12.5.1现在可供下载](https://www.cnbeta.com/articles/tech/1305645.htm) | Wed Aug 17 2022 5:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;当地时间周三，苹果公司发布了macOS Monterey 12.5.1，其中包括错误修复和性能改进。&lt;/strong&gt;这是自7月20日以来对macOS的首次更新。由于macOS Ventura测试版和其他新的操作系统优先，最近的更新没有包含重大的功能变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [苹果公司计划于9月7日举行iPhone 14、Apple Watch发布会](https://www.cnbeta.com/articles/tech/1305643.htm) | Wed Aug 17 2022 5:48 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据彭博社记者Mark Gurman报道，苹果公司计划在9月7日（星期三）举行其首次秋季发布会活动。这次活动将重点介绍iPhone 14机型和Apple Watch Series 8。标准版iPhone 14机型预计变化不大，但iPhone 14 Pro机型将包括更新的相机技术，取消刘海，改用药丸状和圆形打孔，配备最新A16芯片等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《盟军敢死队3：复刻版》8月31日发售 重返欧洲战场](https://hot.cnbeta.com/articles/game/1305641.htm) | Wed Aug 17 2022 4:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;发行商Kalypso Media和开发者Raylight Games确认《盟军敢死队3：复刻版》将于今年8月31日正式发售，登陆S4、Xbox one、Switch和Steam平台游戏也将加入XGP，支持中文。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《盟军敢死队3：复刻版》全新预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [美国零售巨头塔吉特再暴雷：营收不及预期 净利润同比暴跌近90%](https://www.cnbeta.com/articles/tech/1305639.htm) | Wed Aug 17 2022 4:40 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然业绩滑铁卢早有预期，但塔吉特的财报还是惨了点。塔吉特净利润大幅下降的主要原因是公司在二季度积极降价销售商品清理库存。公司称，这虽然会给当季业绩带来影响，但有助于公司在未来处于更好的位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
