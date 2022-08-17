@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [access token 会自动失效么，当调用 refresh token 获取一个新的 access token 后？](https://www.v2ex.com/t/873518#reply1) | Wed Aug 17 2022 9:07 AM
-- 🤗 [程序员在北京有哪些国企公司可以选择，国企和私企差别在哪，有哪些强优势呢？](https://www.v2ex.com/t/873513#reply0) | Wed Aug 17 2022 8:42 AM
-- 🎭 [hr 这样裁员不知道大家遇到过没有，先录音掌握证据然后裁员变成待岗，最后拒绝所有赔偿，这走仲裁可行吗？](https://www.v2ex.com/t/873500#reply1) | Wed Aug 17 2022 8:25 AM
-- 🥷 [想问一下 chrome 弃用了 FTP 文件传输协议之后，有什么替换方案吗](https://www.v2ex.com/t/873475#reply5) | Wed Aug 17 2022 7:19 AM
-- 🐵 [Github Copilot 好像可以一人订阅，多台设备一起使用？](https://www.v2ex.com/t/873474#reply5) | Wed Aug 17 2022 7:18 AM<!-- v2ex:END -->
+- 🥸 [咸鱼上几百块的 4k 显示器靠谱嘛](https://www.v2ex.com/t/873543#reply0) | Wed Aug 17 2022 10:16 AM
+- 🤗 [问下 nodejs 有什么在线调试的网站吗？](https://www.v2ex.com/t/873541#reply2) | Wed Aug 17 2022 10:08 AM
+- 🎭 [大家有遇到新浪微博长期未登陆被冻结的情况吗](https://www.v2ex.com/t/873540#reply0) | Wed Aug 17 2022 10:06 AM
+- 🥷 [能不能给某个 App 最高 root 权限，而系统又不完全放开 root 权限](https://www.v2ex.com/t/873534#reply1) | Wed Aug 17 2022 9:44 AM
+- 🐵 [一直找不到一个好的 sqlgen 生成工具，参考 sqlc,goctl 撸了一个](https://www.v2ex.com/t/873533#reply0) | Wed Aug 17 2022 9:40 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
