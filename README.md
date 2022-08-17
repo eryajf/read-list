@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [马斯克开起收购曼联玩笑 小心又被SEC罚款](https://www.cnbeta.com/articles/tech/1305603.htm) | Wed Aug 17 2022 12:26 PM 
+- 🕯 [TikTok应用内推出美国中期选举中心并且打击错误信息](https://www.cnbeta.com/articles/tech/1305617.htm) | Wed Aug 17 2022 1:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;周二晚些时候，特斯拉&lpar;TSLA.US&rpar;CEO埃隆·马斯克在推特上宣布他将收购足球俱乐部曼联&lpar;MANU.US&rpar;，这一消息引起了球迷和投资者的关注。不过，马斯克随后又表示他只是在开玩笑。据悉，马斯克周二晚上发推表示将收购曼联，但并未提供任何细节。但在后来回复其他推特用户的问题时，马斯克表示“这只是推特上一个长期存在的笑话”，并表示他不会购买任何体育队伍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;TikTok宣布其中期选举中心将从今天（2022年8月17日）开始在美国的应用程序中上线&lt;/strong&gt;，届时将以40多种语言向用户提供，包括英语和西班牙语。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [腾讯减持美团？下一个是谁](https://www.cnbeta.com/articles/tech/1305601.htm) | Wed Aug 17 2022 12:25 PM 
+- 💼 [马斯克劝阻前女友接受整形手术 被回怼观念陈旧“真可悲”](https://www.cnbeta.com/articles/tech/1305615.htm) | Wed Aug 17 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月16日，媒体引述数位消息人士称，腾讯控股（0700.HK，下称“腾讯”）计划出售其所持外卖公司美团-W（3690.HK，下称“美团”）的全部或大部分股份，将一项八年的投资变现。腾讯随后表示对该消息不予置评。尽管真假未知，但是消息发布后，美团昨天大跌9.07%，今天小幅回升3.34%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月17日消息，当地时间周二，马斯克前女友，加拿大音乐人格莱姆斯（Grimes）在Twitter上发文称，自己想通过手术获得“一双尖尖的精灵耳朵”，并询问是否有人成功接受过该类手术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Twitter员工不断离职：被马斯克闹得精神疲惫](https://www.cnbeta.com/articles/tech/1305599.htm) | Wed Aug 17 2022 12:22 PM 
+- 💂 [传今年要推出的Apple Watch Series 8无法精确测量体温](https://www.cnbeta.com/articles/tech/1305613.htm) | Wed Aug 17 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;多位Twitter内部人士称，针对公司与特斯拉CEO埃隆·马斯克（Elon Musk）之前的诉讼大战，Twitter员工已经感到厌倦，导致最近几周不断有员工离职。今年4月，马斯克宣布以约440亿美元的现金收购Twitter。但7月9日，马斯克宣布终止该交易。7月13日，Twitter将马斯克告上法庭。7月20日，法官宣布于10月审理此案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据可靠消息来源的多份报告称，&lt;strong&gt;传言将出现在今年的Apple Watch Series 8上的体温传感器预计不会提供精确的测量。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国首批前装量产自动驾驶重卡批量交付](https://www.cnbeta.com/articles/tech/1305597.htm) | Wed Aug 17 2022 12:05 PM 
+- 🚀 [华擎B660M妖板将不可能变成可能：酷睿i5-12400冲上5.5GHz](https://www.cnbeta.com/articles/tech/1305611.htm) | Wed Aug 17 2022 1:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月17日消息，据一汽解放官方，昨日，荣庆物流自动驾驶重卡交车仪式在荣庆太仓智慧园区顺利举办。此次批量交付的一汽解放J7超级卡车，&lt;strong style=&quot;white-space: normal;&quot;&gt;是国内首批前装量产自动驾驶重卡订单交付&lt;/strong&gt;，对一汽解放“哥伦布智慧物流开放计划”落地具有重要的里程碑意义。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel酷睿产品线中，后缀不带K的型号功耗设计很保守，且出厂变没有超频属性，不适合折腾。不过，“妖板王”华擎这次将不可能变成了可能，在一块B660M PG Riptide主板上，一位&lt;strong style=&quot;white-space: normal;&quot;&gt;中国硬件发烧友将酷睿i5-12400居然超出了5.479GHz的历史最高频率，成绩已经得到HWBOT认证。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [恒大汽车传出或将被并购：工厂将停工 半年仅生产200辆汽车](https://www.cnbeta.com/articles/tech/1305595.htm) | Wed Aug 17 2022 12:04 PM 
+- 🎊 [AMD Ryzen 7 7700X 8核Zen 4零售版桌面CPU首次现身](https://www.cnbeta.com/articles/tech/1305609.htm) | Wed Aug 17 2022 12:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为恒大汽车最重磅的首款车型，恒驰5竟然没有一个专属的发布会，就悄咪咪的上市了，而且恒驰5只有一款配置，售价17.9万元。销售政策上，为了打消消费者对售后的疑虑，恒驰5还推出了15日内可退车退款、整车终身质保等十大权益。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD的Ryzen 7 7700X，一款8核心的Zen 4 CPU已经在Anandtech论坛上被发现，进一步证实了即将到来的芯片的存在。&lt;strong&gt;这是我们第一次看到零售版的AMD Ryzen 7000桌面CPU，OPN代码为&amp;quot;100-000000591&amp;quot;。Ryzen 7700X预计将以低于Ryzen 7 5800X的价格推出，后者在近两年前推出时的零售价为449美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
