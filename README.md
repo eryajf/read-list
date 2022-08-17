@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 抄家特朗普后网络威胁激增；抖音上线溯源等功能治理不实信息](https://www.freebuf.com/news/342082.html) | Tue Aug 16 2022 11:06 AM 
+- 🦄 [CS:GO 交易网站被黑，价值 600 万美元皮肤被盗](https://www.freebuf.com/news/342126.html) | Wed Aug 17 2022 3:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    著名射击游戏CS:GO最大的皮肤交易平台之一——CS.MONEY在一次黑客攻击后被窃取了2万件、总价值约 600万美元的游戏皮肤。 
+    </details> 
+
+- 🦄 [FreeBuf咨询服务 | 企业安全意识教育，让“网安周”永久在线](https://www.freebuf.com/articles/342118.html) | Wed Aug 17 2022 2:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    网络安全已经成为工作学习不可缺少的一部分。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | “抄家”特朗普后网络威胁激增；抖音上线溯源等功能治理不实信息](https://www.freebuf.com/news/342082.html) | Tue Aug 16 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
     联邦调查局发出警告，自上周FBI在佛罗里达州突袭搜查前总统唐纳德·特朗普位于海湖庄园的住宅后，针对执法官员的网络威胁激增。 
     </details> 
 
-- 🦄 [macOS上的漏洞可能让攻击者访问Mac上的所有文件](https://www.freebuf.com/articles/342024.html) | Tue Aug 16 2022 5:16 AM 
+- 🪄 [macOS上的漏洞可能让攻击者访问Mac上的所有文件](https://www.freebuf.com/articles/342024.html) | Tue Aug 16 2022 5:16 AM 
     <details><summary>展开描述 ...</summary> 
     安全研究人员发现一个与macOS处理系统软件更新有关的注入漏洞可能会让攻击者访问Mac设备上的所有文件。 
     </details> 
 
-- 🦅 [新的 PyPI 包提供无文件 Linux 恶意软件](https://www.freebuf.com/news/342014.html) | Tue Aug 16 2022 3:23 AM 
+- 💻 [新的 PyPI 包提供无文件 Linux 恶意软件](https://www.freebuf.com/news/342014.html) | Tue Aug 16 2022 3:23 AM 
     <details><summary>展开描述 ...</summary> 
     Sonatype 研究人员发现了一个名为“secretslib”的新 PyPI 包，旨在将无文件加密矿工投放到 Linux 机器系统的内存中。 
-    </details> 
-
-- 🪄 [FreeBuf早报 | 网信办公布微信淘宝抖音等算法备案；两款红米手机被曝存在安全漏洞](https://www.freebuf.com/articles/341988.html) | Mon Aug 15 2022 12:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    国家网信办公开发布了境内互联网信息服务算法名称及备案编号，包括多个大型企业和产品的相关算法。。 
-    </details> 
-
-- 💻 [Black Hat 2022 | 三大趋势已成世界定局](https://www.freebuf.com/news/341956.html) | Mon Aug 15 2022 9:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    Black Hat被公认为“黑客界的奥斯卡”，着眼于当下实际的安全态势，分享前沿的安全研究、安全产品和解决方案。 
     </details> 
 <!-- freebuf:END -->
 
