@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android WebView界面输入法弹起遮挡文本框问题最终解决方案---网上的其他的全是渣渣](https://juejin.cn/post/7132722849457897509) | Wed Aug 17 2022 6:07 AM 
+- 🤗 [一文搞定前后端所有鉴权方案、Android 解决“竞态问题”｜掘金一周 08.17](https://juejin.cn/post/7132742700779978783) | Wed Aug 17 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-    Android输入法遮挡问题最终解决方案，Android WebView弹出输入法遮挡问题最终解决方案，安卓WebView文本框点击弹出输入法导致的遮挡问题最终解决方案。 
+    【掘金一周08.17】本期看点：一文了解字节跳动“埋点验证平台”、Go 语言实现敏感词检测、美团搜索粗排优化的探索与实践... 
     </details> 
 
-- 🎡 [Android 13 正式版发布](https://juejin.cn/post/7132720318736515085) | Wed Aug 17 2022 5:58 AM 
+- 🎡 [找回消失的密钥 --- DFA分析白盒AES算法](https://juejin.cn/post/7132722509740245023) | Wed Aug 17 2022 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-    一、Android 13 正式版发布 今天，没做任何预告，谷歌为Pixel用户（Pixel 4、4a、5、5a和6系列等）送出惊喜，Android 13首个稳定版正式推送。 随后，谷歌承诺包括三星、小 
+    一、目标 李老板：什么叫白盒AES算法？ 奋飞： 将密钥进行白盒化处理，融入到整个加密过程中，使密钥无法跟踪还原，保障密钥安全。简单的说，就是你可以明明白白的调试整个算法过程，怎么看都像是AES算法， 
     </details> 
 
-- 🕯 [JSON.stringify（递归）与 JSON.parse（有限状态自动机）的实现](https://juejin.cn/post/7132700524670877727) | Wed Aug 17 2022 4:41 AM 
+- 🕯 [20个js工具函数助力高效开发（值得收藏）](https://juejin.cn/post/7132714583399071758) | Wed Aug 17 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
-    在工作中，应该都使用过 JSON 的这两个方法，在这里简单手动实现下其思路： 使用递归实现 JSON.stringify 使用有限状态自动机实现 JSON.parse在 
+    日常开发中，面对各种不同的需求，我们经常会用到以前开发过的一些工具函数，把这些工具函数收集起来，将大大提高我们的开发效率。 
     </details> 
 
-- 🚀 [「趣学前端」Taro迁移完成之后，总结了一些踩坑经验](https://juejin.cn/post/7132694414308147208) | Wed Aug 17 2022 4:17 AM 
+- 🚀 [时隔4个月我面试字节又挂了｜总结与展望](https://juejin.cn/post/7132712873351970823) | Wed Aug 17 2022 5:30 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情。今天分享一波Taro迁移过程中的踩坑经验。 
+    半个月之前，我又一次结束了字节的日常实习面试，前后持续一个多星期，每一面都是2天内出结果，第四面一周未出结果，询问hr，面试流程已经终止，是的，又挂了。这篇文章是对此的总结和后续的展望，共勉～ 
     </details> 
 
-- 💪 [ARMS助力羽如贸易打造全链路可观测最佳实践](https://juejin.cn/post/7132693306143670308) | Wed Aug 17 2022 4:14 AM 
+- 💪 [K8S Configmap 和 Secret 作为 Volume 的热更新原理](https://juejin.cn/post/7132709459452756004) | Wed Aug 17 2022 5:16 AM 
     <details><summary>展开描述 ...</summary> 
-    随着奢侈品行业在我国快速发展，跨境电商市场不断扩张。作为电商行业初创企业的上海羽如贸易有限公司（简称羽如贸易）积极进行数字化创新，打破固有零售思维，借助可观测能力有效提升用户体验，为业务飞速增长提供稳 
+    K8S Configmap 和 Secret 作为 Volume 的热更新原理 configmap/secret 作为 volume 挂载在容器内，如果 configmap 值发生变化，最大等待时间在 
     </details> 
 <!-- juejin:END -->
 ### 少数派
