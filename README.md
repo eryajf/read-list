@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vite+Electron --- 踩坑补坑记录](https://juejin.cn/post/7132758874536280101) | Wed Aug 17 2022 8:27 AM 
+- 🤗 [云音乐播放页直播推荐实战](https://juejin.cn/post/7132802106611744804) | Wed Aug 17 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-    项目目录不允许有中文，否则不能下载打包依赖，导致无法打包 3、每次打包软件前都可能缺失依赖包，需要手动在package.json文件里的dependencies填写依赖名称和版本 4、打包软件时不能出 
+    直播作为以视频和语音为媒介而进行信息传播的工具，越来越火。本文主要以歌曲播放页直播为例，介绍我们在直播推荐面临的问题和挑战、当前工业界常用的方法，以及我们针对这些问题的优化方案。 
     </details> 
 
-- 🎡 [Element 2 组件源码剖析之Skeleton骨架屏](https://juejin.cn/post/7132758756261101598) | Wed Aug 17 2022 8:27 AM 
+- 🎡 [【Go-Ginrest】一行代码实现一个RESTful接口](https://juejin.cn/post/7132790934353215502) | Wed Aug 17 2022 10:34 AM 
     <details><summary>展开描述 ...</summary> 
-    通知组件`Notification` 常用于在需要等待加载内容的位置提供一个占位图形组合,可以被 `Loading` 完全代替，但是在可用的场景下可以提供更好的视觉效果和用户体验。 
+    基于现在微服务或者服务化的思想，我们大部分的业务逻辑处理函数都是有统一的格式，有些服务我们需要把它包装为RESTful形式的接口，但是如果不进行封装则会产生很多模板代码，这个库就是为了消除模板代码。 
     </details> 
 
-- 🕯 [字节跳动Dev Better技术沙龙来啦！参与活动赢好礼，限时免费报名中！](https://juejin.cn/post/7132758739848790024) | Wed Aug 17 2022 8:26 AM 
+- 🕯 [聊聊那些你可能不知道的 CSS 选择器](https://juejin.cn/post/7132785726688608287) | Wed Aug 17 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
-    为助力前端开发者的成长、为所有前端爱好者提供交流的机会，9月17日，字节跳动Dev Infra团队邀您参加Dev Better系列技术沙龙活动——《前端性能及新技术实践》！ 
+    到今天为止，CSS3 在很多人的印象中似乎还是一个比较新的技术名词，其中很多模块的发展也很难引起大家的关注。但是 CSS3 可不是新东西，这个技术的发展从上个世纪就开始了。 
     </details> 
 
-- 🚀 [Android - 升级 Android T 编译环境适配](https://juejin.cn/post/7132756683482202120) | Wed Aug 17 2022 8:19 AM 
+- 🚀 [孤陋寡闻了，才知道已经可以用 JS 来控制 CSS 动画了](https://juejin.cn/post/7132783783148781599) | Wed Aug 17 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-    升级 Android T 的编译环境各种库尽可能低版本的适配。主要解决适配问题，以及在适配中遇到的问题和解决思路。 
+    最近翻 `MDN` 突然发现一套叫 `Web Animations API` 的东东，点进去看才知道，原来是一套控制 `css animation` 的 `API`，而且已经有段时间了 🤦‍♂️ 
     </details> 
 
-- 💪 [从函数柯里化聊到add&lpar;1&rpar;&lpar;2&rpar;&lpar;3&rpar; add&lpar;1, 2&rpar;&lpar;3&rpar;，以及柯里化无限调用](https://juejin.cn/post/7132751786451927047) | Wed Aug 17 2022 8:00 AM 
+- 💪 [从函数计算到 Serverless 架构](https://juejin.cn/post/7132781329850040357) | Wed Aug 17 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    壹 ❀ 引 很久之前看到过的一道面试题，最近复习又遇到了，这里简单做个整理，本题考点主要是函数柯里化，所以在实现前还是简单介绍什么是柯里化。 贰 ❀ 函数柯里化&lpar;Currying&rpar; 所谓函数柯里化，其 
+    本次活动是阿里云 Serverless 函数计算评测，所以本文仅对函数计算与其相关产品进行体验，包括函数计算本身（包括三个主要模块：基础模块服务与函数和上层封装模块应用、任务），Serverless 
     </details> 
 <!-- juejin:END -->
 ### 少数派
