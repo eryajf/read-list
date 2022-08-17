@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [曝《GTA6》回归单人DLC模式 发售前就提前做好准备](https://hot.cnbeta.com/articles/game/1305635.htm) | Wed Aug 17 2022 3:28 PM 
+- 🕯 [《盟军敢死队3：复刻版》8月31日发售 重返欧洲战场](https://hot.cnbeta.com/articles/game/1305641.htm) | Wed Aug 17 2022 4:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;发行商Kalypso Media和开发者Raylight Games确认《盟军敢死队3：复刻版》将于今年8月31日正式发售，登陆S4、Xbox one、Switch和Steam平台游戏也将加入XGP，支持中文。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《盟军敢死队3：复刻版》全新预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [美国零售巨头塔吉特再暴雷：营收不及预期 净利润同比暴跌近90%](https://www.cnbeta.com/articles/tech/1305639.htm) | Wed Aug 17 2022 4:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;虽然业绩滑铁卢早有预期，但塔吉特的财报还是惨了点。塔吉特净利润大幅下降的主要原因是公司在二季度积极降价销售商品清理库存。公司称，这虽然会给当季业绩带来影响，但有助于公司在未来处于更好的位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [4个月以来腾讯已有9款产品停服：QQ堂、企鹅电竞等都没了](https://www.cnbeta.com/articles/tech/1305637.htm) | Wed Aug 17 2022 4:34 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;相信大家最近都看到过腾讯旗下产品停服的消息，有软件有游戏，其中很多都承载了大家的经典回忆。这是真正的时代的眼泪。&lt;strong style=&quot;white-space: normal;&quot;&gt;据统计，腾讯近4个月以来竟然停服了9款产品，其中包括QQ堂、企鹅电竞、看点快报、掌上WeGame、搜狗地图、搜狗搜索App等。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [曝《GTA6》回归单人DLC模式 发售前就提前做好准备](https://hot.cnbeta.com/articles/game/1305635.htm) | Wed Aug 17 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;此前有消息称，《GTA6》将“随着时间的推移而扩展”。玩家担心这会占用R星更多的人手，导致其他游戏的更新和开发进度变慢。知名爆料者Tez2对此做出了回应。他表示“随着时间的推移而扩展”意味着《GTA6》将回归《GTAOL》大获成功之前的单人DLC更新方式。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [黑吃黑：宝马遭挖墙脚 黑客光明正大敛钱](https://www.cnbeta.com/articles/tech/1305633.htm) | Wed Aug 17 2022 3:28 PM 
+- 🎊 [黑吃黑：宝马遭挖墙脚 黑客光明正大敛钱](https://www.cnbeta.com/articles/tech/1305633.htm) | Wed Aug 17 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近两年，视频平台在播放电视剧时，各种巧立名目，花式收费，像超前点播、二次收费等，引发不少吐槽。不过这种付费才能享受的待遇，最近出现了“人传人”现象。近日，宝马的18美元/月的座椅加热功能，先后在韩国、英国推出，即便引发不少争议，宝马仍表示，要推出更多针对车辆性能的订阅服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [传特斯拉将于近期公布自研AI芯片新进展](https://www.cnbeta.com/articles/tech/1305631.htm) | Wed Aug 17 2022 3:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;将于下周举行的硅谷芯片技术研讨会HOT CHIPS议程显示，特斯拉将在本次活动上发表多场演讲，主题涉及其自研AI芯片Dojo项目。特斯拉硬件工程师Emil Talpes演讲主题为《Dojo，特斯拉E级超算的微架构》，而Dojo首席系统工程师Bill Chang则将随后带来题为《Dojo，面向机器学习训练的超算系统伸缩》演讲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [AMD下代三大GPU核心靓照公布：瘦成一道闪电](https://www.cnbeta.com/articles/tech/1305629.htm) | Wed Aug 17 2022 3:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;推特博主Wild_C近日又制作了一组AMD下一代三大GPU核心的渲染图，和之前的不太一样，毕竟信息更新了。Navi 31大核心采用一个GCD、六个MCD的小芯片组合，之前传闻面积分别是369、44平方毫米，合计达633平方毫米，但最新说法变成了&lt;strong style=&quot;white-space: normal;&quot;&gt;308、37.5平方毫米，总计仅为533平方毫米，小了近16％。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [真的比SSD硬盘大了 三星研发1TB单条DDR5内存](https://www.cnbeta.com/articles/tech/1305627.htm) | Wed Aug 17 2022 2:48 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不考虑钱的因素，内存容量显然是越大越好，今年锐龙7000以及13代酷睿上市之后，很多人恐怕都是32GB DDR5内存起步，服务器级市场上单条64GB、128GB都不稀奇了，三星正在研发的则是单条512GB甚至1TB的DDR5内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
