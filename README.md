@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [EMAS Serverless到底有多便利？](https://juejin.cn/post/7132751543756914725) | Wed Aug 17 2022 7:59 AM 
+- 🤗 [Vite+Electron --- 踩坑补坑记录](https://juejin.cn/post/7132758874536280101) | Wed Aug 17 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    EMAS Serverless 是阿里云提供的基于Serverless技术的一站式后端开发平台，为开发者提供高可用、弹性伸缩的云开发服务，包含云函数、云数据库、云存储、静态网站托管等功能，帮助开发者及 
+    项目目录不允许有中文，否则不能下载打包依赖，导致无法打包 3、每次打包软件前都可能缺失依赖包，需要手动在package.json文件里的dependencies填写依赖名称和版本 4、打包软件时不能出 
     </details> 
 
-- 🎡 [种草 Vue3 中几个好玩的插件和配置](https://juejin.cn/post/7132749538606972964) | Wed Aug 17 2022 7:51 AM 
+- 🎡 [Element 2 组件源码剖析之Skeleton骨架屏](https://juejin.cn/post/7132758756261101598) | Wed Aug 17 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    小伙伴们知道 TienChin 项目前端用的是 Vue3，当我们把 Vue3 官网刷了一遍之后回来看 TienChin 项目的前端，发现还是有很多不太一样的地方，今天松哥就来和大家捋一捋 Vue3 中 
+    通知组件`Notification` 常用于在需要等待加载内容的位置提供一个占位图形组合,可以被 `Loading` 完全代替，但是在可用的场景下可以提供更好的视觉效果和用户体验。 
     </details> 
 
-- 🕯 [MyBatis核心知识点介绍](https://juejin.cn/post/7132746770622185485) | Wed Aug 17 2022 7:41 AM 
+- 🕯 [字节跳动Dev Better技术沙龙来啦！参与活动赢好礼，限时免费报名中！](https://juejin.cn/post/7132758739848790024) | Wed Aug 17 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第8天，点击查看活动详情 1、什么是MyBatis？ MyBatis是一个可以自定义SQL、存储过程和高级映射的持久层框架。 2、M 
+    为助力前端开发者的成长、为所有前端爱好者提供交流的机会，9月17日，字节跳动Dev Infra团队邀您参加Dev Better系列技术沙龙活动——《前端性能及新技术实践》！ 
     </details> 
 
-- 🚀 [在阿里做前端程序员，我是这样规划的](https://juejin.cn/post/7132745736696889351) | Wed Aug 17 2022 7:36 AM 
+- 🚀 [Android - 升级 Android T 编译环境适配](https://juejin.cn/post/7132756683482202120) | Wed Aug 17 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-    我跟很多前端从业人也聊过，有一部分人说想做开源项目推广出去（类似react，vue）变成前端网红。有些说想去创业。往往更长远的职业发展规划考虑的很少。我希望把自己工作经历和在阿里学到的东西分享给大家， 
+    升级 Android T 的编译环境各种库尽可能低版本的适配。主要解决适配问题，以及在适配中遇到的问题和解决思路。 
     </details> 
 
-- 💪 [如何做好分布式任务调度——Scheduler的一些探索](https://juejin.cn/post/7132740670674403365) | Wed Aug 17 2022 7:17 AM 
+- 💪 [从函数柯里化聊到add&lpar;1&rpar;&lpar;2&rpar;&lpar;3&rpar; add&lpar;1, 2&rpar;&lpar;3&rpar;，以及柯里化无限调用](https://juejin.cn/post/7132751786451927047) | Wed Aug 17 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-    Scheduler作为飞书内的分布式任务调度凭条，具有分布式部署、任务调度、配置中心的任务调度能力。本文整体介绍Scheduler在做好分布式任务调度的一些探索。 
+    壹 ❀ 引 很久之前看到过的一道面试题，最近复习又遇到了，这里简单做个整理，本题考点主要是函数柯里化，所以在实现前还是简单介绍什么是柯里化。 贰 ❀ 函数柯里化&lpar;Currying&rpar; 所谓函数柯里化，其 
     </details> 
 <!-- juejin:END -->
 ### 少数派
