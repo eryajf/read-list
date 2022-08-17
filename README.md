@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [樱井政博展示游戏装备柜 多种游戏机摆放有序井井有条](https://hot.cnbeta.com/articles/game/1305573.htm) | Wed Aug 17 2022 10:28 AM 
+- 🕯 [马斯克开起收购曼联玩笑 小心又被SEC罚款](https://www.cnbeta.com/articles/tech/1305603.htm) | Wed Aug 17 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《任天堂大乱斗》之父，著名游戏制作人樱井政博日前展示了自己的游戏装备柜，吸引了大批粉丝玩家围观点赞，各种游戏机摆放有序井井有条，玩起各平台游戏来轻松快捷不含糊。樱井政博表示，自己的游戏装备柜经过特别设计，不论走线还是摆放位置都根据不同游戏主机的尺寸合理布置，而且明面上看起来干净利落，绝没有拖拖沓沓的各种线缆碍眼，其中还考虑了游戏机的散热问题。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;周二晚些时候，特斯拉&lpar;TSLA.US&rpar;CEO埃隆·马斯克在推特上宣布他将收购足球俱乐部曼联&lpar;MANU.US&rpar;，这一消息引起了球迷和投资者的关注。不过，马斯克随后又表示他只是在开玩笑。据悉，马斯克周二晚上发推表示将收购曼联，但并未提供任何细节。但在后来回复其他推特用户的问题时，马斯克表示“这只是推特上一个长期存在的笑话”，并表示他不会购买任何体育队伍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [波音中国：为恢复交付737 MAX做好准备](https://www.cnbeta.com/articles/tech/1305571.htm) | Wed Aug 17 2022 10:25 AM 
+- 💼 [腾讯减持美团？下一个是谁](https://www.cnbeta.com/articles/tech/1305601.htm) | Wed Aug 17 2022 12:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月17日，据“波音中国”微信公众号消息，波音中国总裁谢利嘉近日表示，中国商飞是波音在中国最亲密和最信任的合作伙伴之一，&lt;strong style=&quot;white-space: normal;&quot;&gt;在舟山波音完工和交付中心，双方为开展737MAX飞机的完工和交付工作做好了准备。&lt;/strong&gt;谢利嘉强调，波音正努力争取737 MAX获得尽可能多的单通道市场份额，并从舟山交付它们。据悉，现在波音在中国有35家直接供应商。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305571.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月16日，媒体引述数位消息人士称，腾讯控股（0700.HK，下称“腾讯”）计划出售其所持外卖公司美团-W（3690.HK，下称“美团”）的全部或大部分股份，将一项八年的投资变现。腾讯随后表示对该消息不予置评。尽管真假未知，但是消息发布后，美团昨天大跌9.07%，今天小幅回升3.34%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [法官同意马斯克查看Twitter高管的统计数据 而Twitter要查看马斯克短信](https://www.cnbeta.com/articles/tech/1305569.htm) | Wed Aug 17 2022 10:25 AM 
+- 💂 [Twitter员工不断离职：被马斯克闹得精神疲惫](https://www.cnbeta.com/articles/tech/1305599.htm) | Wed Aug 17 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月17日下午消息，据报道，在与Twitter的诉讼大战中，特斯拉CEO埃隆·马斯克（Elon Musk）日前取得了一场小胜。美国特拉华州衡平法院法官要求Twitter向马斯克提供其前消费产品主管凯文·贝克普尔（KayvonBeykpour）统计的一些数据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305569.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;多位Twitter内部人士称，针对公司与特斯拉CEO埃隆·马斯克（Elon Musk）之前的诉讼大战，Twitter员工已经感到厌倦，导致最近几周不断有员工离职。今年4月，马斯克宣布以约440亿美元的现金收购Twitter。但7月9日，马斯克宣布终止该交易。7月13日，Twitter将马斯克告上法庭。7月20日，法官宣布于10月审理此案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Windows 11的小工具现在可以在任务栏上触发通知](https://www.cnbeta.com/articles/tech/1305567.htm) | Wed Aug 17 2022 10:22 AM 
+- 🚀 [中国首批前装量产自动驾驶重卡批量交付](https://www.cnbeta.com/articles/tech/1305597.htm) | Wed Aug 17 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软本周在其Windows 11部件中推出了任务栏通知系统。虽然天气小部件在今年早些时候回到了Windows 11，但它在很大程度上是一种静态体验，当天气好时显示一个阳光明媚的图标，当下雨时显示一个雨伞图标，功能非常单一。这一切在本周发生了变化，因为微软现在正在为这个任务栏小工具添加实时动画。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305567.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月17日消息，据一汽解放官方，昨日，荣庆物流自动驾驶重卡交车仪式在荣庆太仓智慧园区顺利举办。此次批量交付的一汽解放J7超级卡车，&lt;strong style=&quot;white-space: normal;&quot;&gt;是国内首批前装量产自动驾驶重卡订单交付&lt;/strong&gt;，对一汽解放“哥伦布智慧物流开放计划”落地具有重要的里程碑意义。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Android 13正式版发布并开源 一起来看看新特性吧](https://www.cnbeta.com/articles/tech/1305565.htm) | Wed Aug 17 2022 10:06 AM 
+- 🎊 [恒大汽车传出或将被并购：工厂将停工 半年仅生产200辆汽车](https://www.cnbeta.com/articles/tech/1305595.htm) | Wed Aug 17 2022 12:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;从今天开始，Google面向&amp;nbsp;Pixel&amp;nbsp;手机推出&amp;nbsp;Android&amp;nbsp;13&amp;nbsp;正式版。&lt;strong style=&quot;white-space: normal;&quot;&gt;此次&amp;nbsp;Android&amp;nbsp;更新进一步增强&amp;nbsp;Android&amp;nbsp;12&amp;nbsp;中引入的&amp;nbsp;Material&amp;nbsp;You&amp;nbsp;主题，改进了现有的隐私控制，并引入了在支持的&amp;nbsp;Android&amp;nbsp;设备复制和粘贴的功能&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为恒大汽车最重磅的首款车型，恒驰5竟然没有一个专属的发布会，就悄咪咪的上市了，而且恒驰5只有一款配置，售价17.9万元。销售政策上，为了打消消费者对售后的疑虑，恒驰5还推出了15日内可退车退款、整车终身质保等十大权益。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
