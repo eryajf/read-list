@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [QNAP推出QXG-100G2SF-CX6双端口100GbE PCIe 4.0扩展卡](https://www.cnbeta.com/articles/tech/1305495.htm) | Wed Aug 17 2022 7:15 AM 
+- 🕯 [vivo正式向国际市场推出V25和V25 Pro中端新机](https://www.cnbeta.com/articles/tech/1305525.htm) | Wed Aug 17 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;为满足客户的高带宽网络访问需求，威联通（QNAP Systems）刚刚推出了采用 PCIe 4.0 接口的双端口十万兆（100 GbE）扩展卡。&lt;/strong&gt;可知 QXG-100G2SF-CX6 基于英伟达 Mellanox ConnectX-6 控制器方案，兼容 QNAP 全闪存 NAS 和 Windows / Linux，能够为工作站 / 服务器带来高达 200 Gbps 的总吞吐量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在今日的活动中，vivo 推出了 V25 和 V25 Pro 两款让人印象深刻的中端新机。&lt;strong&gt;前者特点是配备了支持自动对焦的 50MP 前置自拍摄像头，而后者则具有 6nm 芯片组 + 64MP 后置主摄等高端规格。&lt;/strong&gt;首先，vivo V25 采用了联发科天玑 900 芯片组，可选 8 / 12GB RAM + 128 / 256GB ROM 的存储组合。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究发现失语症患者可使用不同的认知工具来弥补语言缺陷](https://www.cnbeta.com/articles/science/1305493.htm) | Wed Aug 17 2022 7:02 AM 
+- 💼 [巨石强森：《黑亚当》独立电影是我强烈要求的结果](https://hot.cnbeta.com/articles/movie/1305523.htm) | Wed Aug 17 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一个由认知科学家和医生组成的团队发现，失语症患者使用不同的认知工具来弥补语言缺陷。&lt;/strong&gt;好莱坞著名演员布鲁斯·威利斯（Bruce Willis）最近宣布息影，使公众广泛关注失语症这一神经系统疾病。虽然几乎每个人都会偶尔为找不到正确的词或被句子而挣扎，但失语症患者可能完全失去理解语言的能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;黑亚当和沙赞原本应该是作为超级反派和英雄一起在 DC 电影宇宙首次亮相，但是让两者分开独立登场的，正是即将上映的《黑亚当》电影的主演道恩·“巨石”强森。“当我们一开始收到电影初稿时，它结合了黑亚当和沙赞：一部电影两个起源故事。”强森告诉 Vanity Fair：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1305523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Steve Teixeira加盟Mozilla并就任首席产品官](https://www.cnbeta.com/articles/tech/1305491.htm) | Wed Aug 17 2022 6:53 AM 
+- 💂 [NASA有史以来最强大的火箭正被运往发射台 计划于8月29日升空](https://www.cnbeta.com/articles/science/1305521.htm) | Wed Aug 17 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在周一的一篇官方博客文章中，Mozilla 宣布 Steve Teixeira 已加盟并成为其新一任首席产品官。&lt;/strong&gt;Mozilla CEO Mitchell Baker 写道：“在寻找首席产品官的过程中，Steve Teixeira 让我们眼前一亮。他拥有科技与互联网企业的丰富经验，并在设计研发和将产品推向市场的过程中发挥了重要的作用”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;经过十多年的开发、延迟和测试，美国宇航局（&lt;a href=&quot;https://www.youtube.com/watch?v=DEPUvjlrOeQ&quot; target=&quot;_self&quot;&gt;NASA&lt;/a&gt;）有史以来最强大的火箭现在似乎已经准备好升空。&lt;strong&gt;太空发射系统（SLS）和猎户座飞船于当地时间周二晚间离开了航天器装配大楼，正在前往发射台进行首次环月旅行的途中。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [任天堂美国前员工称公司存在职场骚扰和性别歧视](https://hot.cnbeta.com/articles/game/1305489.htm) | Wed Aug 17 2022 6:51 AM 
+- 🚀 [格力提示超39℃可致空调宕机？客服：超过60℃也能够运行](https://www.cnbeta.com/articles/tech/1305519.htm) | Wed Aug 17 2022 7:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据Kotaku 的曝光，&lt;strong&gt;多个美国任天堂前合同工声称该公司是一个歧视女性承包商的工作场所。&lt;/strong&gt;在该报道的一个案例中，一名前临时员工解释说，她举报了工作场所骚扰事件，作为回应，她实际上隶属的公司 Aerotek “警告她不要话太多”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然已经立秋，但是“夏日炙烤”模式还在多地上线，8月15日全国高温top10榜中，没有43℃都进不了榜单。持续高温天气，不仅给居民用电带来了巨大挑战，可能连空调也扛不住了。日前，一张印有格力logo的图片在网络上流传，引发大众对高温空调使用的关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微信公众平台迎来十岁生日：还记得你关注的第一个公众号么？](https://www.cnbeta.com/articles/tech/1305487.htm) | Wed Aug 17 2022 6:45 AM 
+- 🎊 [彩虹-4无人机换装重油发动机首飞成功](https://www.cnbeta.com/articles/tech/1305515.htm) | Wed Aug 17 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，微信官方公众号“微信派”发布文章，&lt;strong&gt;宣布微信公众平台在今天迎来了它的十周岁生日。&lt;/strong&gt;&lt;strong&gt;十年前的2012年8月17日22点52分，微信团队发出了一封内部信，正式宣告“微信公众平台”这个堪称划时代的平台正式诞生。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;来自航天科技集团航天彩虹无人机股份有限公司的消息表示，航天彩虹无人机自主研发的中空长航时重油无人机不久前完成科研试验。该型无人机圆满完成了自主起降、航点飞行、满载运输、最高升限、航程航时等试验科目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
