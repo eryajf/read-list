@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Resilience Quarterly Notion Template - 实用的自我调查提示韧性](https://xinquji.com/posts/178806?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:29 AM 
+- 👀 [Billdu - 现代自由职业者的发票应用程序](https://xinquji.com/posts/178825?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-     实用的自我调查提示韧性  
+     现代自由职业者的发票应用程序  
     </details> 
 
-- 🥷 [Scripthub - 用于营销、销售自动化脚本的 Stack Overflow](https://xinquji.com/posts/178805?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:28 AM 
+- 🥷 [Soft Cleaner - 计算机每次都像智能手机一样运行](https://xinquji.com/posts/178824?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-     用于营销、销售自动化脚本的 Stack Overflow  
+     计算机每次都像智能手机一样运行  
     </details> 
 
-- 💼 [The Thing From The Future - 一款创造未来主义元素的棋盘游戏](https://xinquji.com/posts/178804?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:27 AM 
+- 💼 [Pulse Surveys by Roots - 通过 Slack 保持对员工敬业度的持续关注](https://xinquji.com/posts/178823?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-     一款创造未来主义元素的棋盘游戏  
+     通过 Slack 保持对员工敬业度的持续关注  
     </details> 
 
-- 🦅 [Bestlist - 搜索引擎发现最好的东西](https://xinquji.com/posts/178803?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:26 AM 
+- 🦅 [onfigr - 用于室内和家庭零售的高品质配置工具](https://xinquji.com/posts/178822?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     搜索引擎发现最好的东西  
+     用于室内和家庭零售的高品质配置工具  
     </details> 
 
-- 😺 [SparkCards - 抽认卡变得简单](https://xinquji.com/posts/178802?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:25 AM 
+- 😺 [Viral Post Generator - 使用 AI 撰写完美的 LinkedIn 帖子](https://xinquji.com/posts/178821?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     抽认卡变得简单  
+     使用 AI 撰写完美的 LinkedIn 帖子  
     </details> 
 <!-- xinquji:END -->
