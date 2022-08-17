@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [压力测试-JMeter安装、入门、结果分析](https://juejin.cn/post/7132829647674277919) | Wed Aug 17 2022 1:02 PM 
+- 🤗 [开学了，计算机的大学生们，送给你们一些经验，希望你们的四年不负年华！](https://juejin.cn/post/7132851609578504222) | Wed Aug 17 2022 2:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    9月快要到了，不少大学已经陆陆续续开学了，不禁感慨，时间过得真快啊，一转眼就毕业多年了。在这里说一些自己对于大学浅薄的经验，希望对于你们有用。 一、不要挂科 大家应该都听过“没挂科的大学不是完整的大学 
+    </details> 
+
+- 🎡 [大家都能看得懂的源码之 ahooks useVirtualList 封装虚拟滚动列表](https://juejin.cn/post/7132842601786376200) | Wed Aug 17 2022 1:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    useVirtualList 提供虚拟化列表能力的 Hook，用于解决展示海量数据渲染时首屏渲染缓慢和滚动卡顿问题。 
+    </details> 
+
+- 🕯 [头脑风暴：最长递增子序列](https://juejin.cn/post/7132836063277482021) | Wed Aug 17 2022 1:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    题目 给你一个整数数组 nums ，找到其中最长严格递增子序列的长度。 子序列是由数组派生而来的序列，删除（或不删除）数组中的元素而不改变其余元素的顺序。例如，[3,6,2,7] 是数组 [0,3,1 
+    </details> 
+
+- 🚀 [压力测试-JMeter安装、入门、结果分析](https://juejin.cn/post/7132829647674277919) | Wed Aug 17 2022 1:02 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 1.写在前面 等到服务上线后，在业务压力的冲击下，会发现程序运行非常的慢，或者是宕机，莫名其妙的出现各种 
     </details> 
 
-- 🎡 [百炼成钢 —— 声网实时网络的自动运维丨Dev for Dev 专栏](https://juejin.cn/post/7132828657428463630) | Wed Aug 17 2022 12:59 PM 
+- 💪 [百炼成钢 —— 声网实时网络的自动运维丨Dev for Dev 专栏](https://juejin.cn/post/7132828657428463630) | Wed Aug 17 2022 12:59 PM 
     <details><summary>展开描述 ...</summary> 
     在智能化时代，信息的爆炸式增长导致传统的运维、决策、分析、服务已经无法与环境契合，而算法正是为了解决这些问题而存在的。 
-    </details> 
-
-- 🕯 [【Linux必知必会】如何查看进程&amp;数字法和文本法修改权限](https://juejin.cn/post/7132827022585233445) | Wed Aug 17 2022 12:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    这篇文章详细的讲解了Linux查看进程的知识点和Linux权限的知识点。通过这一系列的文章，大家不仅能复习梳理后端开发相关的知识点，也可以了解目前的市场环境对服务端开发，尤其是对Go开发工程师的岗位要 
-    </details> 
-
-- 🚀 [怪异盒模型border-box真的一无是处吗？](https://juejin.cn/post/7132826677469511716) | Wed Aug 17 2022 12:52 PM 
-    <details><summary>展开描述 ...</summary> 
-    我们都知道有两种盒模型，w3c盒模型和IE盒模型，IE是业界毒瘤所以IE盒模型又叫怪异盒模型&lpar;好吧我瞎说的&rpar;，现代浏览器默认的都是w3c标准，也就是 content-box，顾名思义，即width就是 
-    </details> 
-
-- 💪 [C# Chart控件标记问题](https://juejin.cn/post/7132818750155259912) | Wed Aug 17 2022 12:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 前言： 在做项目的时候，遇到一个需求，需要我对Chart图标标记数据正在运行，实现数据可视化，因为我们的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
