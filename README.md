@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [去年8月8日人类第一次在实验室内为核聚变成功”点火“ 但今年所有重复实验都失败了](http://jandan.net/p/111152) | Tue Aug 16 2022 10:45 AM 
+- 🚀 [高温致欧洲河流干涸 水下的警世饥饿石重新浮出水面](http://jandan.net/p/111150) | Wed Aug 17 2022 3:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    “过去500 年来都没有类似于2018年的大旱。但我认为今年更糟。” 
+    </details> 
+
+- 🙉 [今日好价 0817](http://jandan.net/p/111155) | Wed Aug 17 2022 3:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
+    </details> 
+
+- 🎉 [去年8月8日人类第一次在实验室内为核聚变成功”点火“ 但今年所有重复实验都失败了](http://jandan.net/p/111152) | Tue Aug 16 2022 10:45 AM 
     <details><summary>展开描述 ...</summary> 
     我们不知道那些是随机条件导致了可持续的聚变反应 
     </details> 
 
-- 🙉 [西班牙科学家首次为热浪命名](http://jandan.net/p/111151) | Tue Aug 16 2022 9:33 AM 
+- 🐲 [西班牙科学家首次为热浪命名](http://jandan.net/p/111151) | Tue Aug 16 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     西班牙政府计划在未来继续为热浪命名，以提高公众对热浪的认知 
     </details> 
 
-- 🎉 [如果把老年人的血液输给年轻者，后者会显示出衰老迹象吗](http://jandan.net/p/111143) | Tue Aug 16 2022 9:08 AM 
+-  [如果把老年人的血液输给年轻者，后者会显示出衰老迹象吗](http://jandan.net/p/111143) | Tue Aug 16 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
     动物和实验室人体组织实验揭示了结果 
-    </details> 
-
-- 🐲 [数学烹饪课 如何更快速地 煎/烤 汉堡肉排](http://jandan.net/p/111144) | Tue Aug 16 2022 5:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    首先，假定肉排是对称、均匀且导热系数恒定的理想对象 
-    </details> 
-
--  [今日好价 0816](http://jandan.net/p/111149) | Tue Aug 16 2022 3:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
