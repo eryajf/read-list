@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [TikTok应用内推出美国中期选举中心并且打击错误信息](https://www.cnbeta.com/articles/tech/1305617.htm) | Wed Aug 17 2022 1:31 PM 
+- 🕯 [辉瑞CEO新冠阳性背后：复阳只是时间问题吗？](https://www.cnbeta.com/articles/tech/1305623.htm) | Wed Aug 17 2022 2:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;新冠疫苗生产研发大厂辉瑞制药的CEO竟然被检测出新冠阳性，这件事在昨日曝光后就登上了热搜榜。如何形容此次事件背后的黑色幽默意味，我想不亚于生产老鼠药的工坊闹开了鼠疫。疫苗、特效药，辉瑞从来都走在抗击新冠的前锋梯队，CEO的感染让看客开始揣测其下产品的作用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [流媒体革命拉大了英国青年人和老年人之间的电视代沟](https://www.cnbeta.com/articles/tech/1305621.htm) | Wed Aug 17 2022 1:56 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;英国通讯管理局发现，威尔士年轻人现在比55岁以上的人少看近五倍的电视&lt;/strong&gt;，这显示媒体习惯的代沟达到了历史最高水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [分析师表示iPhone 14 Pro机型可能会涨价100美元](https://www.cnbeta.com/articles/tech/1305619.htm) | Wed Aug 17 2022 1:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据Wedbush Securities分析师Dan Ives称，与iPhone 13 Pro机型相比，iPhone 14 Pro机型将&amp;quot;可能&amp;quot;出现100美元的价格上涨。Ives在今天分享的一份研究报告中说：&amp;quot;虽然基本的iPhone将保持相同的价格，但我们相信，鉴于组件价格的增加以及新发布的功能的增加，iPhone 14 Pro/Pro Max的价格可能会增加100美元。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [TikTok应用内推出美国中期选举中心并且打击错误信息](https://www.cnbeta.com/articles/tech/1305617.htm) | Wed Aug 17 2022 1:31 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;TikTok宣布其中期选举中心将从今天（2022年8月17日）开始在美国的应用程序中上线&lt;/strong&gt;，届时将以40多种语言向用户提供，包括英语和西班牙语。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马斯克劝阻前女友接受整形手术 被回怼观念陈旧“真可悲”](https://www.cnbeta.com/articles/tech/1305615.htm) | Wed Aug 17 2022 1:26 PM 
+- 🎊 [马斯克劝阻前女友接受整形手术 被回怼观念陈旧“真可悲”](https://www.cnbeta.com/articles/tech/1305615.htm) | Wed Aug 17 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;北京时间8月17日消息，当地时间周二，马斯克前女友，加拿大音乐人格莱姆斯（Grimes）在Twitter上发文称，自己想通过手术获得“一双尖尖的精灵耳朵”，并询问是否有人成功接受过该类手术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [传今年要推出的Apple Watch Series 8无法精确测量体温](https://www.cnbeta.com/articles/tech/1305613.htm) | Wed Aug 17 2022 1:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据可靠消息来源的多份报告称，&lt;strong&gt;传言将出现在今年的Apple Watch Series 8上的体温传感器预计不会提供精确的测量。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [华擎B660M妖板将不可能变成可能：酷睿i5-12400冲上5.5GHz](https://www.cnbeta.com/articles/tech/1305611.htm) | Wed Aug 17 2022 1:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel酷睿产品线中，后缀不带K的型号功耗设计很保守，且出厂变没有超频属性，不适合折腾。不过，“妖板王”华擎这次将不可能变成了可能，在一块B660M PG Riptide主板上，一位&lt;strong style=&quot;white-space: normal;&quot;&gt;中国硬件发烧友将酷睿i5-12400居然超出了5.479GHz的历史最高频率，成绩已经得到HWBOT认证。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [AMD Ryzen 7 7700X 8核Zen 4零售版桌面CPU首次现身](https://www.cnbeta.com/articles/tech/1305609.htm) | Wed Aug 17 2022 12:55 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD的Ryzen 7 7700X，一款8核心的Zen 4 CPU已经在Anandtech论坛上被发现，进一步证实了即将到来的芯片的存在。&lt;strong&gt;这是我们第一次看到零售版的AMD Ryzen 7000桌面CPU，OPN代码为&amp;quot;100-000000591&amp;quot;。Ryzen 7700X预计将以低于Ryzen 7 5800X的价格推出，后者在近两年前推出时的零售价为449美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
