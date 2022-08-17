@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [HOKALI - 只需 3 个简单步骤即可预订体育课程和健身课程](https://xinquji.com/posts/178783?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:34 AM 
+- 👀 [Resilience Quarterly Notion Template - 实用的自我调查提示韧性](https://xinquji.com/posts/178806?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     只需 3 个简单步骤即可预订体育课程和健身课程  
+     实用的自我调查提示韧性  
     </details> 
 
-- 🥷 [timeOS by Magical - Chrome 最快的会议记录体验](https://xinquji.com/posts/178782?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:33 AM 
+- 🥷 [Scripthub - 用于营销、销售自动化脚本的 Stack Overflow](https://xinquji.com/posts/178805?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     Chrome 最快的会议记录体验  
+     用于营销、销售自动化脚本的 Stack Overflow  
     </details> 
 
-- 💼 [Facetune - 用照片和视频的顶级自拍编辑器表达自己](https://xinquji.com/posts/178781?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:32 AM 
+- 💼 [The Thing From The Future - 一款创造未来主义元素的棋盘游戏](https://xinquji.com/posts/178804?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     用照片和视频的顶级自拍编辑器表达自己  
+     一款创造未来主义元素的棋盘游戏  
     </details> 
 
-- 🦅 [Prooflander - 将更多访客转化为买家](https://xinquji.com/posts/178780?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:31 AM 
+- 🦅 [Bestlist - 搜索引擎发现最好的东西](https://xinquji.com/posts/178803?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     将更多访客转化为买家  
+     搜索引擎发现最好的东西  
     </details> 
 
-- 😺 [FlutterFlow 3.0 - 为移动和网络构建漂亮的现代应用程序](https://xinquji.com/posts/178779?utm_campaign=xinquji-rss) | Wed Aug 17 2022 6:30 AM 
+- 😺 [SparkCards - 抽认卡变得简单](https://xinquji.com/posts/178802?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     为移动和网络构建漂亮的现代应用程序  
+     抽认卡变得简单  
     </details> 
 <!-- xinquji:END -->
