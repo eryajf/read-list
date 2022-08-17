@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SVN配置服务器自动更新](https://juejin.cn/post/7132641918650941454) | Wed Aug 17 2022 12:53 AM 
+- 🤗 [Spring5源码4-XML配置文件解析](https://juejin.cn/post/7132658819678601247) | Wed Aug 17 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 使用svn做版本控制服务器，其实还是比较方便的，不管是从搭建还是配置上，相对于git，都要简单很多。 L 
+    Spring的xml配置文件的解析主要流程，解析出并放到beanDefinitionMap和beanDefinitionNames中 
     </details> 
 
-- 🎡 [面试突击75：SpringBoot 有几种读取配置文件的方法？](https://juejin.cn/post/7132641888166739982) | Wed Aug 17 2022 12:53 AM 
+- 🎡 [vue3中h函数的常见使用方式](https://juejin.cn/post/7132656370901336101) | Wed Aug 17 2022 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring Boot 中读取配置文件有以下 5 种方法： 使用 @Value 读取配置文件...... 
+    一般情况下每个vue组件都用&quot;&lt;template&gt;&quot;写html, 但实际还可以在js代码中通过render函数生成dom. 最主要常见组件库也需要配合&quot;h&quot;使用. render render是组件的一 
     </details> 
 
-- 🕯 [cocoapods 小技能：只安装新添加的库，已更新的库忽略](https://juejin.cn/post/7132639944845033485) | Wed Aug 17 2022 12:46 AM 
+- 🕯 [图数据挖掘！使用图分析+AI进行保险欺诈检测](https://juejin.cn/post/7132654937732808712) | Wed Aug 17 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 为了避免修改第三方库之后，使用pod install的时候 更新了库，采用参数--verbose --no-repo-update,只安装新添加的库。 I cocoapods 用法 1.1 更新 
+    本文将基于保险欺诈场景案例讲解如何进行有效的图挖掘，并将挖掘到的信息提供给AI模型，辅助精准检测和识别商业保险欺诈。 
     </details> 
 
-- 🚀 [Go入门系列：变量声明](https://juejin.cn/post/7132636122798112781) | Wed Aug 17 2022 12:31 AM 
+- 🚀 [个人真实项目-FEIGN常见问题分享](https://juejin.cn/post/7132495545884639240) | Tue Aug 16 2022 3:26 PM 
     <details><summary>展开描述 ...</summary> 
-    首先明确一点就是Go语言是静态语言，意味着对于变量的使用来说，必须先进行声明之后才可以使用。 变量的 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 1.写在前面 很多时候，我们在使用微服务框架的时候，就基本上少不了与feign打交道。 毕竟服务之间的调 
     </details> 
 
-- 💪 [你会用RxJS吗？【初识 RxJS中的Observable和Observer】](https://juejin.cn/post/7132630368192036877) | Wed Aug 17 2022 12:09 AM 
+- 💪 [Go&amp;Java算法之为运算表达式设计优先级](https://juejin.cn/post/7132494050795454501) | Tue Aug 16 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-    RxJS是一个库，可以使用可观察队列来编写异步和基于事件的程序的库。RxJS 中管理和解决异步事件的几个关键点：Observable，Observer, Subscription,Operators。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第20天，点击查看活动详情 为运算表达式设计优先级 给你一个由数字和运算符组成的字符串 expression ，按不同优先级组合数字 
     </details> 
 <!-- juejin:END -->
 ### 少数派
