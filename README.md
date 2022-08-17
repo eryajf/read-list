@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一文搞定前后端所有鉴权方案、Android 解决“竞态问题”｜掘金一周 08.17](https://juejin.cn/post/7132742700779978783) | Wed Aug 17 2022 7:24 AM 
+- 🤗 [EMAS Serverless到底有多便利？](https://juejin.cn/post/7132751543756914725) | Wed Aug 17 2022 7:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    EMAS Serverless 是阿里云提供的基于Serverless技术的一站式后端开发平台，为开发者提供高可用、弹性伸缩的云开发服务，包含云函数、云数据库、云存储、静态网站托管等功能，帮助开发者及 
+    </details> 
+
+- 🎡 [一文搞定前后端所有鉴权方案、Android 解决“竞态问题”｜掘金一周 08.17](https://juejin.cn/post/7132742700779978783) | Wed Aug 17 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
     【掘金一周08.17】本期看点：一文了解字节跳动“埋点验证平台”、Go 语言实现敏感词检测、美团搜索粗排优化的探索与实践... 
     </details> 
 
-- 🎡 [找回消失的密钥 --- DFA分析白盒AES算法](https://juejin.cn/post/7132722509740245023) | Wed Aug 17 2022 6:06 AM 
+- 🕯 [Elasticsearch：LDAP 用户鉴权](https://juejin.cn/post/7132739314902892574) | Wed Aug 17 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-    一、目标 李老板：什么叫白盒AES算法？ 奋飞： 将密钥进行白盒化处理，融入到整个加密过程中，使密钥无法跟踪还原，保障密钥安全。简单的说，就是你可以明明白白的调试整个算法过程，怎么看都像是AES算法， 
+    使用凭证访问 Elasticsearch 集群。 凭证可以是存储在 Elasticsearch 内部的标准用户/密码，也可以使用更复杂的解决方案，例如 Active Directory 和轻量级目录访 
     </details> 
 
-- 🕯 [20个js工具函数助力高效开发（值得收藏）](https://juejin.cn/post/7132714583399071758) | Wed Aug 17 2022 5:36 AM 
+- 🚀 [盘点那些产品经理经常逛的网站/论坛](https://juejin.cn/post/7132736111817785375) | Wed Aug 17 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    日常开发中，面对各种不同的需求，我们经常会用到以前开发过的一些工具函数，把这些工具函数收集起来，将大大提高我们的开发效率。 
+    作为一名产品经理学习肯定是必不可少的，需要不断的学习，完善自身的知识体系，需要不断的了解市场情况，行业动态。这样才能在工作上得心应手，才能不会被时代所淘汰。 所以从几个方向给大家推荐一些论坛、软件、网 
     </details> 
 
-- 🚀 [时隔4个月我面试字节又挂了｜总结与展望](https://juejin.cn/post/7132712873351970823) | Wed Aug 17 2022 5:30 AM 
+- 💪 [H5可回溯方案浅析 -- 以保险投保为例](https://juejin.cn/post/7132729131568988196) | Wed Aug 17 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-    半个月之前，我又一次结束了字节的日常实习面试，前后持续一个多星期，每一面都是2天内出结果，第四面一周未出结果，询问hr，面试流程已经终止，是的，又挂了。这篇文章是对此的总结和后续的展望，共勉～ 
-    </details> 
-
-- 💪 [K8S Configmap 和 Secret 作为 Volume 的热更新原理](https://juejin.cn/post/7132709459452756004) | Wed Aug 17 2022 5:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    K8S Configmap 和 Secret 作为 Volume 的热更新原理 configmap/secret 作为 volume 挂载在容器内，如果 configmap 值发生变化，最大等待时间在 
+    在金融行业工作过的同学应该多少都有听说过【可回溯】这个词，它主要是为了记录用户所有的操作轨迹以及交互状态，大都用在与用户发生纠纷时的举证，并且也是金融监管部门的监管红线 
     </details> 
 <!-- juejin:END -->
 ### 少数派
