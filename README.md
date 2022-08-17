@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [从Prime服务到贝佐斯 亚马逊指责FTC调查太过繁琐没法满足要求](https://www.cnbeta.com/articles/tech/1305229.htm) | Tue Aug 16 2022 11:15 PM 
+- 🕯 [小鹏第三款轿车N5亮相：车标焕然一新](https://www.cnbeta.com/articles/tech/1305351.htm) | Wed Aug 17 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;FTC正在调查亚马逊Prime服务，亚马逊创始人贝佐斯及一些高管也被调查，亚马逊报怨说FTC针对高管们的调查太过繁琐，根本无法满足要求。亚马逊还说FTC的目的是骚扰公司高管，影响公司运营。从2021年3月开始FTC一直调查亚马逊Prime的注册及取消注册机制，随后还发了民事传票。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;小鹏目前在售车型中，轿车有P7、P5两款，为进一步拓展销量，小鹏还将推出小鹏P5的兄弟车型“N5”，主打网约车市场，车辆的价格、配置也有一定的下探。近日，小鹏第三款轿车“N5”也亮相工信部新车申报目录，车身尺寸与小鹏P5一致，前后造型则有明显改变，小鹏N5整备质量较P5减少了55kg，而且仅提供17英寸轮毂（P5部分车型为18英寸）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [IC后端材料供应商称四川短期限电影响“可控”](https://www.cnbeta.com/articles/tech/1305227.htm) | Tue Aug 16 2022 11:12 PM 
+- 💼 [媒体加深代沟：年轻人看电子屏幕的时间近老年人的七倍](https://www.cnbeta.com/articles/tech/1305349.htm) | Wed Aug 17 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;业内人士称，IC后端材料供应商预计，中国四川省正在进行为期六天的限电措施对其工厂运营的影响 &amp;quot;可控&amp;quot;。根据限制措施，四川省19个城市的工业用电用户已被责令在8月15日至20日期间停产，以确保正常的居民用电，并在该地区60年来最严重的热浪中确保电网安全。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月17日消息，&lt;strong&gt;英国通信管理局对人们观看电子屏幕的习惯进行了调查，发现年轻人的观看时间几乎达到老年人的七倍&lt;/strong&gt;，大约五分之一的家庭在使用流媒体服务，并且三分之一的成年人都在观看短视频。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉在德国胜诉：将可继续在广告中提及自动驾驶功能](https://www.cnbeta.com/articles/tech/1305225.htm) | Tue Aug 16 2022 11:11 PM 
+- 💂 [《原神》3.0版本更新预告 8月24日上线](https://hot.cnbeta.com/articles/game/1305347.htm) | Wed Aug 17 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;德国联邦最高法院（Federal Court of Justice）驳回了针对特斯拉的一项申诉，这意味着该公司在德国投放的广告中可以继续提到其驾驶员辅助系统和自动驾驶能力。这项申诉是由关注反竞争行为的行业组织Wettbewerbszentrale提起的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日米哈游宣布《原神》3.0版本“千朵玫瑰带来的黎明”更新将于8月24日上线，官方还透露了3.0版本更新内容，并发布了游戏新预告。&lt;/strong&gt;《原神》3.0版本包含新角色、武器、圣遗物、新场景等内容。更新将有新地图扩展，以独特的热带雨林和须弥城为特色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [从初代iPhone到iPhone 11 苹果这12年到底有多抠？](https://www.cnbeta.com/articles/tech/1305223.htm) | Tue Aug 16 2022 11:04 PM 
+- 🚀 [PC Game Pass官推更换新头像 背景酷似《死亡搁浅》](https://hot.cnbeta.com/articles/game/1305345.htm) | Wed Aug 17 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果又又又上热搜了，托尼这个暑假除了恰西瓜，就净看苹果上热搜了。也没啥大事，就是苹果用了好几年的 &amp;nbsp;“ 五福一安 ” &amp;nbsp;5W 充电器，终于把库存给清完了，不管是苹果官网还是线下零售店，都莫得卖了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;PC Game Pass官推今日更换一张新头像，并发文表示“有时我们只是喜欢一幅优美的风景图片”。&lt;strong&gt;有细心的玩家发现新头像背景酷似《死亡搁浅》里的场景，许多玩家在评论里猜测《死亡搁浅》可能加入到PGP游戏库中。&lt;/strong&gt;具体信息以官方为准。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [腾讯辟谣清仓美团 后者今年已遭沈南鹏8次减持](https://www.cnbeta.com/articles/tech/1305221.htm) | Tue Aug 16 2022 6:49 PM 
+- 🎊 [新任007选角要求：30岁左右 身高超1米七八](https://hot.cnbeta.com/articles/movie/1305343.htm) | Wed Aug 17 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月16日，市场传出腾讯（00700.HK）或将出售全部美团（03690.HK）股票，对此腾讯集团市场与公关部总经理张军予以否认，截至发稿美团未有回应。&lt;/strong&gt;但受此传闻影响，美团港股午后暴跌，截至收盘股价下跌9.07%至164港元/股，市值为1.02万亿港元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据外媒报道，詹姆斯·邦德的制片人正在寻找更年轻的007演员人选，年龄在30岁左右，身高超过1米七八。&lt;/strong&gt;根据推主Ross King，詹姆斯·邦德的制片人已经排除了42岁的英国男星山姆·修汉（《古战场传奇》《英伦性丑闻》）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1305343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
