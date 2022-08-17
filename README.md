@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [vivo正式向国际市场推出V25和V25 Pro中端新机](https://www.cnbeta.com/articles/tech/1305525.htm) | Wed Aug 17 2022 8:18 AM 
+- 🕯 [科学家开发出一种通过肠道淋巴系统被人体吸收的新抗癌药物](https://www.cnbeta.com/articles/science/1305551.htm) | Wed Aug 17 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在今日的活动中，vivo 推出了 V25 和 V25 Pro 两款让人印象深刻的中端新机。&lt;strong&gt;前者特点是配备了支持自动对焦的 50MP 前置自拍摄像头，而后者则具有 6nm 芯片组 + 64MP 后置主摄等高端规格。&lt;/strong&gt;首先，vivo V25 采用了联发科天玑 900 芯片组，可选 8 / 12GB RAM + 128 / 256GB ROM 的存储组合。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;来自密歇根大学的一个研究小组正在开发一种新的抗癌药物，它通过肠道的淋巴系统而非血管被吸收。&lt;/strong&gt;这使得它有可能避开导致耐药性的分子信号通路，并与此同时提高抗癌能力并减少副作用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [巨石强森：《黑亚当》独立电影是我强烈要求的结果](https://hot.cnbeta.com/articles/movie/1305523.htm) | Wed Aug 17 2022 8:14 AM 
+- 💼 [NASA雇佣Microchip研发下一代HPSC芯片  计算性能提高100倍](https://www.cnbeta.com/articles/science/1305549.htm) | Wed Aug 17 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;黑亚当和沙赞原本应该是作为超级反派和英雄一起在 DC 电影宇宙首次亮相，但是让两者分开独立登场的，正是即将上映的《黑亚当》电影的主演道恩·“巨石”强森。“当我们一开始收到电影初稿时，它结合了黑亚当和沙赞：一部电影两个起源故事。”强森告诉 Vanity Fair：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1305523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天早些时候，美国宇航局（NASA）发布了关于下一代处理器的重大升级计划。&lt;strong&gt;该航天机构已经雇佣了芯片厂商 Microchip 来设计下一代 High-Performance Spaceflight Computing &lpar;HPSC&rpar;芯片，目标是将航天芯片的计算能力提升 100 倍。&lt;/strong&gt;为了实现这个目标，美国宇航局将注资 5000 万美元。新系统将会在美国宇航局位于南加州的喷气推进实验室 &lpar;JPL&rpar;内部署。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NASA有史以来最强大的火箭正被运往发射台 计划于8月29日升空](https://www.cnbeta.com/articles/science/1305521.htm) | Wed Aug 17 2022 7:53 AM 
+- 💂 [腾讯第二季度营收1340亿元 净利润186亿元同比下滑56%](https://www.cnbeta.com/articles/tech/1305547.htm) | Wed Aug 17 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;经过十多年的开发、延迟和测试，美国宇航局（&lt;a href=&quot;https://www.youtube.com/watch?v=DEPUvjlrOeQ&quot; target=&quot;_self&quot;&gt;NASA&lt;/a&gt;）有史以来最强大的火箭现在似乎已经准备好升空。&lt;strong&gt;太空发射系统（SLS）和猎户座飞船于当地时间周二晚间离开了航天器装配大楼，正在前往发射台进行首次环月旅行的途中。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月17日消息，腾讯今日发布截至2022年6月30日止三个月及六个月的未经审核综合业绩。&lt;strong&gt;财报显示，腾讯第二季度营收1340亿元人民币，预估1356亿元人民币，同比下滑3%；第二季度净利润186亿元人民币，预估250.3亿元人民币，同比下滑56%，环比下滑20%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [格力提示超39℃可致空调宕机？客服：超过60℃也能够运行](https://www.cnbeta.com/articles/tech/1305519.htm) | Wed Aug 17 2022 7:51 AM 
+- 🚀 [为防止举行未经批准的聚会 Airbnb推出新反派对技术](https://www.cnbeta.com/articles/tech/1305545.htm) | Wed Aug 17 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然已经立秋，但是“夏日炙烤”模式还在多地上线，8月15日全国高温top10榜中，没有43℃都进不了榜单。持续高温天气，不仅给居民用电带来了巨大挑战，可能连空调也扛不住了。日前，一张印有格力logo的图片在网络上流传，引发大众对高温空调使用的关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Airbnb正在美国和加拿大试行新的反派对技术以抵御那些希望预订房子来举行未经批准的大型聚会的用户。这家度假租赁公司告诉Fast Company，新技术的目的是识别潜在的高风险预订。Airbnb将关注一些因素，如用户的好评历史和服务历史、要求预订的时间长度、从他们家到预订地的距离及预订的是周末还是工作日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [彩虹-4无人机换装重油发动机首飞成功](https://www.cnbeta.com/articles/tech/1305515.htm) | Wed Aug 17 2022 7:47 AM 
+- 🎊 [寺库回应“人去楼空”：目前在岗员工有几百人](https://www.cnbeta.com/articles/tech/1305543.htm) | Wed Aug 17 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来自航天科技集团航天彩虹无人机股份有限公司的消息表示，航天彩虹无人机自主研发的中空长航时重油无人机不久前完成科研试验。该型无人机圆满完成了自主起降、航点飞行、满载运输、最高升限、航程航时等试验科目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;17日，针对有媒体报道称“奢侈品电商寺库疑似跑路、人去楼空”的消息，寺库方面回应中新经纬记者称，&lt;strong&gt;此报道不实。“我们办公地点只有一层，就是第5层，目前办公面积没有缩减，有几百人在正常办公。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
