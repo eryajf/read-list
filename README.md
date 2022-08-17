@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [一种新型攻击技术出现，可将PLC武器化](https://www.freebuf.com/articles/342185.html) | Wed Aug 17 2022 7:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    该技术的巧妙之处在于，可将可编程逻辑控制器 &lpar; PLC &rpar; 武器化，以在工程工作站中获得初步立足点，随后入侵运营技术 &lpar;OT&rpar; 网络。 
+    </details> 
+
 - 🦄 [混合钓鱼攻击在第二季度飙升625%](https://www.freebuf.com/news/342151.html) | Wed Aug 17 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
     混合网络钓鱼威胁是多阶段攻击，与传统网络钓鱼不同。 
     </details> 
 
-- 🦄 [Realtek爆出关键漏洞，影响多款网络设备](https://www.freebuf.com/news/342152.html) | Wed Aug 17 2022 5:44 AM 
+- 🦅 [Realtek爆出关键漏洞，影响多款网络设备](https://www.freebuf.com/news/342152.html) | Wed Aug 17 2022 5:44 AM 
     <details><summary>展开描述 ...</summary> 
     CVE-2022-27255漏洞影响到数百万台采用 Realtek RTL819x 系统芯片（SoC）的网络设备。 
     </details> 
 
-- 🦅 [CS:GO 交易网站被黑，价值 600 万美元皮肤被盗](https://www.freebuf.com/news/342126.html) | Wed Aug 17 2022 3:10 AM 
+- 🪄 [CS:GO 交易网站被黑，价值 600 万美元皮肤被盗](https://www.freebuf.com/news/342126.html) | Wed Aug 17 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
     著名射击游戏CS:GO最大的皮肤交易平台之一——CS.MONEY在一次黑客攻击后被窃取了2万件、总价值约 600万美元的游戏皮肤。 
     </details> 
 
-- 🪄 [FreeBuf咨询服务 | 企业安全意识教育，让“网安周”永久在线](https://www.freebuf.com/articles/342118.html) | Wed Aug 17 2022 2:02 AM 
+- 💻 [FreeBuf咨询服务 | 企业安全意识教育，让“网安周”永久在线](https://www.freebuf.com/articles/342118.html) | Wed Aug 17 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
     网络安全已经成为工作学习不可缺少的一部分。 
-    </details> 
-
-- 💻 [FreeBuf早报 | “抄家”特朗普后网络威胁激增；抖音上线溯源等功能治理不实信息](https://www.freebuf.com/news/342082.html) | Tue Aug 16 2022 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    联邦调查局发出警告，自上周FBI在佛罗里达州突袭搜查前总统唐纳德·特朗普位于海湖庄园的住宅后，针对执法官员的网络威胁激增。 
     </details> 
 <!-- freebuf:END -->
 
