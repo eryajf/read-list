@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《辐射》真人剧新剧照 故事地点或为32号避难所](https://hot.cnbeta.com/articles/movie/1305477.htm) | Wed Aug 17 2022 6:23 AM 
+- 🕯 [QNAP推出QXG-100G2SF-CX6双端口100GbE PCIe 4.0扩展卡](https://www.cnbeta.com/articles/tech/1305495.htm) | Wed Aug 17 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（8月17日），《辐射》真人剧避难所场景剧照被泄露到社交媒体，最新剧照详细展现了避难所内部构造，其中包括育儿房、避难所过道、教学室等内部场所及耕地和畜栏等外部建筑，其中一种剧照疑似透露剧集故事发生在32号避难所。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1305477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;为满足客户的高带宽网络访问需求，威联通（QNAP Systems）刚刚推出了采用 PCIe 4.0 接口的双端口十万兆（100 GbE）扩展卡。&lt;/strong&gt;可知 QXG-100G2SF-CX6 基于英伟达 Mellanox ConnectX-6 控制器方案，兼容 QNAP 全闪存 NAS 和 Windows / Linux，能够为工作站 / 服务器带来高达 200 Gbps 的总吞吐量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Pixel 7系列通过FCC认证：UWB仍为Pro型号独有](https://www.cnbeta.com/articles/tech/1305475.htm) | Wed Aug 17 2022 6:22 AM 
+- 💼 [研究发现失语症患者可使用不同的认知工具来弥补语言缺陷](https://www.cnbeta.com/articles/science/1305493.htm) | Wed Aug 17 2022 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;继支持 Wi-Fi 6E 的下一代 Nest WiFi 昨日通过 FCC 认证之后，Goolge 的 Pixel 7 和 Pixel 7 Pro 今天也现身 FCC。本次共有 6 款型号通过认证，其中 2 组型号使用相同的 FCC ID。&lt;/strong&gt;对此，国外科技媒体 9to5Google 认为，型号“GP4BC”是支持 Sub-6 的 Pixel 7 Pro，而型号“GE2AE”（此外还包括 GFE4J）是支持 mmWave 的 Pixel 7 Pro。Pro 型号均支持 UWB，将会继续仅限于 Pro 型号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一个由认知科学家和医生组成的团队发现，失语症患者使用不同的认知工具来弥补语言缺陷。&lt;/strong&gt;好莱坞著名演员布鲁斯·威利斯（Bruce Willis）最近宣布息影，使公众广泛关注失语症这一神经系统疾病。虽然几乎每个人都会偶尔为找不到正确的词或被句子而挣扎，但失语症患者可能完全失去理解语言的能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科学家展示新方法：利用磁铁在微重力条件下从水中获取氧气](https://www.cnbeta.com/articles/science/1305473.htm) | Wed Aug 17 2022 6:15 AM 
+- 💂 [Steve Teixeira加盟Mozilla并就任首席产品官](https://www.cnbeta.com/articles/tech/1305491.htm) | Wed Aug 17 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;科学家们展示了一种利用磁铁在微重力条件下从水中获取氧气的方法，这被描述为帮助人类进入深空的系统发展的一个关键进展。&lt;/strong&gt;该技术作为一种具有成本效益和可行的方式，在宇航员的旅程中保持呼吸，并标志着在没有浮力的情况下从水中生产氧气的一个重要突破。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在周一的一篇官方博客文章中，Mozilla 宣布 Steve Teixeira 已加盟并成为其新一任首席产品官。&lt;/strong&gt;Mozilla CEO Mitchell Baker 写道：“在寻找首席产品官的过程中，Steve Teixeira 让我们眼前一亮。他拥有科技与互联网企业的丰富经验，并在设计研发和将产品推向市场的过程中发挥了重要的作用”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [拜登政府砸数十亿美元补贴新能源车市场，“北美制造”的目标能实现吗？](https://www.cnbeta.com/articles/tech/1305471.htm) | Wed Aug 17 2022 6:15 AM 
+- 🚀 [任天堂美国前员工称公司存在职场骚扰和性别歧视](https://hot.cnbeta.com/articles/game/1305489.htm) | Wed Aug 17 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国总统拜登于当地时间16日签署了《2022年通胀削减法案》。该法案看似名为《通胀削减法案》实质上包含了大量能源安全和气候变化领域的条款，总额7500亿美元的法案中有3690亿美元投资都和能源安全和气候变化相关，也被视为美国史上最大规模的气候法案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据Kotaku 的曝光，&lt;strong&gt;多个美国任天堂前合同工声称该公司是一个歧视女性承包商的工作场所。&lt;/strong&gt;在该报道的一个案例中，一名前临时员工解释说，她举报了工作场所骚扰事件，作为回应，她实际上隶属的公司 Aerotek “警告她不要话太多”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Google在澳赢得诽谤之战，最高法院认定其并非内容出版商](https://www.cnbeta.com/articles/tech/1305469.htm) | Wed Aug 17 2022 6:13 AM 
+- 🎊 [微信公众平台迎来十岁生日：还记得你关注的第一个公众号么？](https://www.cnbeta.com/articles/tech/1305487.htm) | Wed Aug 17 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;澳大利亚最高法院裁定，Google并非其在搜索结果中链接的网站的发布者，另外发现这家互联网巨头没有诽谤一位以代表黑社会人物而闻名的维多利亚州律师。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，微信官方公众号“微信派”发布文章，&lt;strong&gt;宣布微信公众平台在今天迎来了它的十周岁生日。&lt;/strong&gt;&lt;strong&gt;十年前的2012年8月17日22点52分，微信团队发出了一封内部信，正式宣告“微信公众平台”这个堪称划时代的平台正式诞生。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
