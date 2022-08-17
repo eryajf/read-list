@@ -804,29 +804,31 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [高温致欧洲河流干涸 水下的警世饥饿石重新浮出水面](http://jandan.net/p/111150) | Wed Aug 17 2022 3:47 AM 
+- 🚀 [苏格兰 世界上首个向所有人免费提供经期用品的政治体](http://jandan.net/p/111156) | Wed Aug 17 2022 5:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    2018 年，Young Scot 对 2000 多人进行的一项调查发现，苏格兰学校、学院或大学中约有四分之一的受访者难以获得经期产品。
+
+那一年，苏格兰政府创造了历史，成为世界上第一个向学生免费提供经期用品的国家。 
+    </details> 
+
+- 🙉 [高温致欧洲河流干涸 水下的警世饥饿石重新浮出水面](http://jandan.net/p/111150) | Wed Aug 17 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
     “过去500 年来都没有类似于2018年的大旱。但我认为今年更糟。” 
     </details> 
 
-- 🙉 [今日好价 0817](http://jandan.net/p/111155) | Wed Aug 17 2022 3:34 AM 
+- 🎉 [今日好价 0817](http://jandan.net/p/111155) | Wed Aug 17 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [去年8月8日人类第一次在实验室内为核聚变成功”点火“ 但今年所有重复实验都失败了](http://jandan.net/p/111152) | Tue Aug 16 2022 10:45 AM 
+- 🐲 [去年8月8日人类第一次在实验室内为核聚变成功”点火“ 但今年所有重复实验都失败了](http://jandan.net/p/111152) | Tue Aug 16 2022 10:45 AM 
     <details><summary>展开描述 ...</summary> 
     我们不知道那些是随机条件导致了可持续的聚变反应 
     </details> 
 
-- 🐲 [西班牙科学家首次为热浪命名](http://jandan.net/p/111151) | Tue Aug 16 2022 9:33 AM 
+-  [西班牙科学家首次为热浪命名](http://jandan.net/p/111151) | Tue Aug 16 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     西班牙政府计划在未来继续为热浪命名，以提高公众对热浪的认知 
-    </details> 
-
--  [如果把老年人的血液输给年轻者，后者会显示出衰老迹象吗](http://jandan.net/p/111143) | Tue Aug 16 2022 9:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    动物和实验室人体组织实验揭示了结果 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
