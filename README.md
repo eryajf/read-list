@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [dubbo 泛化调用问题](https://www.v2ex.com/t/873461#reply0) | Wed Aug 17 2022 6:24 AM
-- 🤗 [vue 组件名以及 prop 写法你们都怎么选的呢 团队都怎么统一的呢](https://www.v2ex.com/t/873452#reply0) | Wed Aug 17 2022 5:56 AM
-- 🎭 [nginx 中，如何 rewrite 使其$host 带上指定端口？](https://www.v2ex.com/t/873450#reply3) | Wed Aug 17 2022 5:50 AM
-- 🥷 [最近在 WSA 上常用的应用](https://www.v2ex.com/t/873448#reply5) | Wed Aug 17 2022 5:41 AM
-- 🐵 [关于公司代码管理](https://www.v2ex.com/t/873420#reply19) | Wed Aug 17 2022 3:21 AM<!-- v2ex:END -->
+- 🥸 [想问一下 chrome 弃用了 FTP 文件传输协议之后，有什么替换方案吗](https://www.v2ex.com/t/873475#reply0) | Wed Aug 17 2022 7:19 AM
+- 🤗 [Github Copilot 好像可以一人订阅，多台设备一起使用？](https://www.v2ex.com/t/873474#reply3) | Wed Aug 17 2022 7:18 AM
+- 🎭 [dubbo 泛化调用问题](https://www.v2ex.com/t/873461#reply0) | Wed Aug 17 2022 6:24 AM
+- 🥷 [vue 组件名以及 prop 写法你们都怎么选的呢 团队都怎么统一的呢](https://www.v2ex.com/t/873452#reply0) | Wed Aug 17 2022 5:56 AM
+- 🐵 [nginx 中，如何 rewrite 使其$host 带上指定端口？](https://www.v2ex.com/t/873450#reply3) | Wed Aug 17 2022 5:50 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
