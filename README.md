@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [小鹏第三款轿车N5亮相：车标焕然一新](https://www.cnbeta.com/articles/tech/1305351.htm) | Wed Aug 17 2022 2:03 AM 
+- 🕯 [甲骨文创始人开价1.45亿美元出售佛州豪宅 去年花8000万购置](https://www.cnbeta.com/articles/tech/1305433.htm) | Wed Aug 17 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;小鹏目前在售车型中，轿车有P7、P5两款，为进一步拓展销量，小鹏还将推出小鹏P5的兄弟车型“N5”，主打网约车市场，车辆的价格、配置也有一定的下探。近日，小鹏第三款轿车“N5”也亮相工信部新车申报目录，车身尺寸与小鹏P5一致，前后造型则有明显改变，小鹏N5整备质量较P5减少了55kg，而且仅提供17英寸轮毂（P5部分车型为18英寸）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;甲骨文公司创始人拉里•埃里森（Larry Ellison）正寻求出售他的房地产帝国的一部分，即他原本计划拆掉的佛罗里达州一处庄园。这处7.35英亩的房产位于佛州最贵的棕榈滩县，最近由房地产经纪公司Douglas Elliman以1.45亿美元的价格挂牌出售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [媒体加深代沟：年轻人看电子屏幕的时间近老年人的七倍](https://www.cnbeta.com/articles/tech/1305349.htm) | Wed Aug 17 2022 2:01 AM 
+- 💼 [上线3年 Apple Card信用卡服务仍未走出美国](https://www.cnbeta.com/articles/tech/1305431.htm) | Wed Aug 17 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月17日消息，&lt;strong&gt;英国通信管理局对人们观看电子屏幕的习惯进行了调查，发现年轻人的观看时间几乎达到老年人的七倍&lt;/strong&gt;，大约五分之一的家庭在使用流媒体服务，并且三分之一的成年人都在观看短视频。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Apple Card 在美国市场发布已经走过了 3 个年头。2019 年 8 月 6 日，苹果向少量用户推广了这项信用卡服务，在两周后向所有符合条件的美国用户开放注册。&lt;strong&gt;不过遗憾的是，时隔 3 年这项服务依然仅限于美国市场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《原神》3.0版本更新预告 8月24日上线](https://hot.cnbeta.com/articles/game/1305347.htm) | Wed Aug 17 2022 2:00 AM 
+- 💂 [NASA“露西号”团队在小行星Polymele周围发现一颗卫星](https://www.cnbeta.com/articles/science/1305429.htm) | Wed Aug 17 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日米哈游宣布《原神》3.0版本“千朵玫瑰带来的黎明”更新将于8月24日上线，官方还透露了3.0版本更新内容，并发布了游戏新预告。&lt;/strong&gt;《原神》3.0版本包含新角色、武器、圣遗物、新场景等内容。更新将有新地图扩展，以独特的热带雨林和须弥城为特色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;即使在2021年10月发射之前，美国宇航局（NASA）的“露西号”（LUCY）任务就已经开始打破记录，访问的小行星比以前任何任务都多。&lt;strong&gt;现在，该任务可以在名单上再增加一个小行星，因为在长期的观察活动中出现了一个令人惊讶的结果。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [PC Game Pass官推更换新头像 背景酷似《死亡搁浅》](https://hot.cnbeta.com/articles/game/1305345.htm) | Wed Aug 17 2022 1:59 AM 
+- 🚀 [研究人员演示基于远程电磁精确定位的触屏设备“隐形手指”攻击方法](https://www.cnbeta.com/articles/tech/1305427.htm) | Wed Aug 17 2022 4:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;PC Game Pass官推今日更换一张新头像，并发文表示“有时我们只是喜欢一幅优美的风景图片”。&lt;strong&gt;有细心的玩家发现新头像背景酷似《死亡搁浅》里的场景，许多玩家在评论里猜测《死亡搁浅》可能加入到PGP游戏库中。&lt;/strong&gt;具体信息以官方为准。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在上周于拉斯维加斯举办的 Black Hat USA 2022 大会上，来自佛罗里达与新罕布什尔大学的研究人员，演示了如何通过“隐形手指”来远程操控目标设备的触控屏。&lt;/strong&gt;尽管人们早就知晓电磁场（EMF）可对电子设备产生一些奇怪的影响，但最新实验还揭示了一套更加复杂的技术 —— 通过机械臂和多个天线阵列，远程模拟手指对多个电容式触控屏设备的操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [新任007选角要求：30岁左右 身高超1米七八](https://hot.cnbeta.com/articles/movie/1305343.htm) | Wed Aug 17 2022 1:59 AM 
+- 🎊 [电影《深海》预告及海报公布 今年年内上映](https://hot.cnbeta.com/articles/comic/1305425.htm) | Wed Aug 17 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据外媒报道，詹姆斯·邦德的制片人正在寻找更年轻的007演员人选，年龄在30岁左右，身高超过1米七八。&lt;/strong&gt;根据推主Ross King，詹姆斯·邦德的制片人已经排除了42岁的英国男星山姆·修汉（《古战场传奇》《英伦性丑闻》）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1305343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（8月17日），《大圣归来》导演田晓鹏新作《深海》首支预告及宣传海报公开，影片预计2022年年内上映。影片是导演历时七年打造之作，为制作出独特的视觉效果，主创耗时两年研发“粒子水墨动画”，实现中国水墨与主流三维技术的结合。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1305425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
