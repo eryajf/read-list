@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [甲骨文创始人开价1.45亿美元出售佛州豪宅 去年花8000万购置](https://www.cnbeta.com/articles/tech/1305433.htm) | Wed Aug 17 2022 4:10 AM 
+- 🕯 [12岁男孩玩手游充掉父亲医疗费 游戏公司退款已到账](https://hot.cnbeta.com/articles/game/1305443.htm) | Wed Aug 17 2022 5:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;甲骨文公司创始人拉里•埃里森（Larry Ellison）正寻求出售他的房地产帝国的一部分，即他原本计划拆掉的佛罗里达州一处庄园。这处7.35英亩的房产位于佛州最贵的棕榈滩县，最近由房地产经纪公司Douglas Elliman以1.45亿美元的价格挂牌出售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如今互联网时代，越来越多的自控制力较差的孩子难以避免各种充值的诱惑热下祸来，上个月，12岁的男孩黄某勋到医院陪伴因病住院的父亲黄正祥。期间，他用父亲的手机玩游戏，为能顺利通关，先后充值共计3800余元。虽然看上去不是很多，然而，他没有意识到，这些钱是亲友们捐给父亲的医疗费，对他的家庭来说，这是一笔“巨款”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [上线3年 Apple Card信用卡服务仍未走出美国](https://www.cnbeta.com/articles/tech/1305431.htm) | Wed Aug 17 2022 4:05 AM 
+- 💼 [贝索斯：《指环王：力量之戒》是一种责任 并不是全为了赚钱](https://hot.cnbeta.com/articles/movie/1305441.htm) | Wed Aug 17 2022 5:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Apple Card 在美国市场发布已经走过了 3 个年头。2019 年 8 月 6 日，苹果向少量用户推广了这项信用卡服务，在两周后向所有符合条件的美国用户开放注册。&lt;strong&gt;不过遗憾的是，时隔 3 年这项服务依然仅限于美国市场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊创始人，前 CEO 杰夫·贝索斯对《指环王：力量之戒》发表了自己的看法。在最新的采访中，他表示希望这部剧能够忠于托尔金所创作的原作，且并不完全是以赚钱为目的。“中土是一个深受喜爱的世界，讲述力量之戒的锻造故事是一种荣幸和责任。我希望我们能够公正地对待托尔金的作品，”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1305441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NASA“露西号”团队在小行星Polymele周围发现一颗卫星](https://www.cnbeta.com/articles/science/1305429.htm) | Wed Aug 17 2022 4:05 AM 
+- 💂 [任天堂美国前CEO雷吉透露公司曾开发过无障碍控制器](https://hot.cnbeta.com/articles/game/1305439.htm) | Wed Aug 17 2022 4:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;即使在2021年10月发射之前，美国宇航局（NASA）的“露西号”（LUCY）任务就已经开始打破记录，访问的小行星比以前任何任务都多。&lt;strong&gt;现在，该任务可以在名单上再增加一个小行星，因为在长期的观察活动中出现了一个令人惊讶的结果。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美任前CEO雷吉·菲尔斯·埃米近日在接受Inverse采访时透露，任天堂曾开发过一款类似于微软Xbox的无障碍控制器。这种设备面向所有玩家开放，不管他们的身体需求如何，都可以通过许多即插即用模块实现对游戏的控制，用户可以根据需要切换输入/输出模块。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究人员演示基于远程电磁精确定位的触屏设备“隐形手指”攻击方法](https://www.cnbeta.com/articles/tech/1305427.htm) | Wed Aug 17 2022 4:03 AM 
+- 🚀 [3年产能100万辆 中国市场挽救特斯拉](https://www.cnbeta.com/articles/tech/1305437.htm) | Wed Aug 17 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在上周于拉斯维加斯举办的 Black Hat USA 2022 大会上，来自佛罗里达与新罕布什尔大学的研究人员，演示了如何通过“隐形手指”来远程操控目标设备的触控屏。&lt;/strong&gt;尽管人们早就知晓电磁场（EMF）可对电子设备产生一些奇怪的影响，但最新实验还揭示了一套更加复杂的技术 —— 通过机械臂和多个天线阵列，远程模拟手指对多个电容式触控屏设备的操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，特斯拉CEO埃隆·马斯克在Twitter上表示，特斯拉上海工厂已经生产了超过100万辆汽车，特斯拉全球总产量同时突破了300万辆。特斯拉对外事务副总裁陶琳转载特马斯克的微博，并表示供应链的本土化率已超过95%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [电影《深海》预告及海报公布 今年年内上映](https://hot.cnbeta.com/articles/comic/1305425.htm) | Wed Aug 17 2022 3:53 AM 
+- 🎊 [报道称苹果供应链厂商将在越南生产Apple Watch和MacBook](https://www.cnbeta.com/articles/tech/1305435.htm) | Wed Aug 17 2022 4:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（8月17日），《大圣归来》导演田晓鹏新作《深海》首支预告及宣传海报公开，影片预计2022年年内上映。影片是导演历时七年打造之作，为制作出独特的视觉效果，主创耗时两年研发“粒子水墨动画”，实现中国水墨与主流三维技术的结合。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1305425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;《日经亚洲》周二援引知情人士的话称，苹果供应商正就首次于越南生产 Apple Watch 和 MacBook 展开谈判。&lt;/strong&gt;此外报告补充道，立讯精密（Luxshare Precision）和 iPhone 组装商富士康（Foxconn）已在该国北部开启试生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
