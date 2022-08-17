@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [FontLab 8.0.1.8248 字体编辑器](https://xclient.info/s/fontlab.html) | Tue Aug 16 2022 2:42 AM 
+- 🦏 [DVD-Cloner 2022 9.40.731 DVD刻录软件](https://xclient.info/s/dvd-cloner.html) | Wed Aug 17 2022 1:14 AM 
     <details><summary>展开描述 ...</summary> 
-    FontLab VI 是一款Mac上的字体编辑软件，可以自动计算字距和指标，还可以修改字体，字形和技术字体信息，也能在zip中打开BitFonter Photofont（PHF + PNG，+ SVG），Fontographer（FOG），Glyphs，Ikarus的任意一种。 
+    DVD-Cloner 2020 for mac是DVD光盘刻录工具，DVD-Cloner Gold 2020可以轻松刻录光盘以及蓝光光盘，用户可以将任何的文件刻录到DVD光盘中，并可以制作为蓝光光盘，可以很方便地录入视频到光盘中进行保存，刻录好的蓝光光盘，播放的效果非常高清，带给你一种超清的蓝光视频体验。 
     </details> 
 
--  [Money Pro 2.8.3 可同步账单、预算和账户](https://xclient.info/s/money-pro.html) | Tue Aug 16 2022 2:41 AM 
+-  [Keep It 2.0.11 内容收藏夹](https://xclient.info/s/keep-it.html) | Wed Aug 17 2022 1:12 AM 
     <details><summary>展开描述 ...</summary> 
-    Money Pro是Mac上的一款很好用的理财软件，目前全世界共有两百多万客户使用它来管理个人财务。它是一款真正的多合一应用程序，可以为你规划账单、安排预算、跟踪交易，并且所有操作均可同步执行。 
+    Keep It 是Mac平台上的一款保存笔记，保存网页链接，存储文件的效率工具。Keep It 支持icloud同步，用户可以在所有支持icloud的设备上同步自己的数据资料。 
     </details> 
 
-- ⚗️ [DoubleTake 2.6.8&lpar;1048&rpar; 全景照片拼接](https://xclient.info/s/doubletake.html) | Tue Aug 16 2022 2:41 AM 
+- ⚗️ [VideoDuke 2.8 视频下载](https://xclient.info/s/videoduke.html) | Wed Aug 17 2022 1:11 AM 
     <details><summary>展开描述 ...</summary> 
-    DoubleTake 是一款Mac平台的照片全景拼图工具，可以直接将图片拖拽到视图中进行编辑图片重叠部分会自动融合最后合并成为一张全景图像，还支持将iphoto 和 Aperture 中的图片进行拖拽。 
+    VideoDuke 支持在网站视频下载所有流行格式的视频文件，可以以各种文件格式保存。只需将链接粘贴到应用中即可完成。 
     </details> 
 
-- 🔥 [WidsMob Montage 2.22 蒙太奇图片制作](https://xclient.info/s/widsmob-montage.html) | Tue Aug 16 2022 2:40 AM 
+- 🔥 [WonderPen 2.1.10 优秀的文本写作工具](https://xclient.info/s/wonderpen.html) | Wed Aug 17 2022 1:10 AM 
     <details><summary>展开描述 ...</summary> 
-    WidsMob Montage 是一款能轻松制作蒙太奇图片的软件！简单滴说就是一张图片的组成是由许多小图片拼贴而成的，这样的画面非常有意思。 
+    WonderPen 是一款Mac上优秀的文本写作工具，简单易用的文本编辑器，支持 Markdown 语法。可切换为全屏专注模式，排除干扰，专心写作。 
     </details> 
 
-- 🌋 [SyncBird Pro 3.8.3 iOS内容管理软件](https://xclient.info/s/syncbird-pro.html) | Tue Aug 16 2022 2:39 AM 
+- 🌋 [Navicat Premium 16.1.1 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Wed Aug 17 2022 1:07 AM 
     <details><summary>展开描述 ...</summary> 
-    SyncBird Pro是一款运行在Mac平台上的iOS内容管理软件，你可以使用SyncBird Mac版在iPhone、iPad和Mac之间转移音乐、照片、视频、书籍等内容，SyncBird Mac版还支持转换格式、双向同步、导入等实用的功能。 
+    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
     </details> 
 <!-- xclient:END -->
 
