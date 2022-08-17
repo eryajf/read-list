@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [云音乐播放页直播推荐实战](https://juejin.cn/post/7132802106611744804) | Wed Aug 17 2022 11:15 AM 
+- 🤗 [【Linux必知必会】如何查看进程&amp;数字法和文本法修改权限](https://juejin.cn/post/7132827022585233445) | Wed Aug 17 2022 12:54 PM 
     <details><summary>展开描述 ...</summary> 
-    直播作为以视频和语音为媒介而进行信息传播的工具，越来越火。本文主要以歌曲播放页直播为例，介绍我们在直播推荐面临的问题和挑战、当前工业界常用的方法，以及我们针对这些问题的优化方案。 
+    这篇文章详细的讲解了Linux查看进程的知识点和Linux权限的知识点。通过这一系列的文章，大家不仅能复习梳理后端开发相关的知识点，也可以了解目前的市场环境对服务端开发，尤其是对Go开发工程师的岗位要 
     </details> 
 
-- 🎡 [【Go-Ginrest】一行代码实现一个RESTful接口](https://juejin.cn/post/7132790934353215502) | Wed Aug 17 2022 10:34 AM 
+- 🎡 [C# Chart控件标记问题](https://juejin.cn/post/7132818750155259912) | Wed Aug 17 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-    基于现在微服务或者服务化的思想，我们大部分的业务逻辑处理函数都是有统一的格式，有些服务我们需要把它包装为RESTful形式的接口，但是如果不进行封装则会产生很多模板代码，这个库就是为了消除模板代码。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 前言： 在做项目的时候，遇到一个需求，需要我对Chart图标标记数据正在运行，实现数据可视化，因为我们的 
     </details> 
 
-- 🕯 [聊聊那些你可能不知道的 CSS 选择器](https://juejin.cn/post/7132785726688608287) | Wed Aug 17 2022 10:12 AM 
+- 🕯 [简历包装 || 简历造假 vs 背景调查](https://juejin.cn/post/7132816319354765326) | Wed Aug 17 2022 12:10 PM 
     <details><summary>展开描述 ...</summary> 
-    到今天为止，CSS3 在很多人的印象中似乎还是一个比较新的技术名词，其中很多模块的发展也很难引起大家的关注。但是 CSS3 可不是新东西，这个技术的发展从上个世纪就开始了。 
+    简历这玩意其实是深水区，社区经常对简历造假的同学，骂得起劲，上升到了道德层面，但是很多同学屡试不爽，难以杜绝，也无法杜绝，到现在就是存在即为合理，面试官知道你在造假，你也知道你在造假， 
     </details> 
 
-- 🚀 [孤陋寡闻了，才知道已经可以用 JS 来控制 CSS 动画了](https://juejin.cn/post/7132783783148781599) | Wed Aug 17 2022 10:04 AM 
+- 🚀 [如何在uni-app使用iconfont字图标](https://juejin.cn/post/7132815287187046436) | Wed Aug 17 2022 12:06 PM 
     <details><summary>展开描述 ...</summary> 
-    最近翻 `MDN` 突然发现一套叫 `Web Animations API` 的东东，点进去看才知道，原来是一套控制 `css animation` 的 `API`，而且已经有段时间了 🤦‍♂️ 
+    添加图标 打开，https://www.iconfont.cn/ 网站，找到自己的喜欢的图表加入到项目中 下载本地 点击下载至本地 拷贝文件 将iconfont.css，iconfont.woff,i 
     </details> 
 
-- 💪 [从函数计算到 Serverless 架构](https://juejin.cn/post/7132781329850040357) | Wed Aug 17 2022 9:54 AM 
+- 💪 [Fiddler的使用&lpar;一&rpar;](https://juejin.cn/post/7132809591452073998) | Wed Aug 17 2022 11:45 AM 
     <details><summary>展开描述 ...</summary> 
-    本次活动是阿里云 Serverless 函数计算评测，所以本文仅对函数计算与其相关产品进行体验，包括函数计算本身（包括三个主要模块：基础模块服务与函数和上层封装模块应用、任务），Serverless 
+    什么是 Fiddler? Fiddler 是一个 HTTP 协议调试代理工具，它能够记录并检查所有你的电脑和互联网之间的 HTTP 通讯。 Fiddler 提供了电脑端、移动端的抓包、包括 http  
     </details> 
 <!-- juejin:END -->
 ### 少数派
