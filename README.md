@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [辉瑞CEO新冠阳性背后：复阳只是时间问题吗？](https://www.cnbeta.com/articles/tech/1305623.htm) | Wed Aug 17 2022 2:18 PM 
+- 🕯 [真的比SSD硬盘大了 三星研发1TB单条DDR5内存](https://www.cnbeta.com/articles/tech/1305627.htm) | Wed Aug 17 2022 2:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;不考虑钱的因素，内存容量显然是越大越好，今年锐龙7000以及13代酷睿上市之后，很多人恐怕都是32GB DDR5内存起步，服务器级市场上单条64GB、128GB都不稀奇了，三星正在研发的则是单条512GB甚至1TB的DDR5内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [NASA正在热火朝天地组装欧罗巴Clipper航天器](https://www.cnbeta.com/articles/science/1305625.htm) | Wed Aug 17 2022 2:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Europa Clipper航天器将占据美国宇航局喷气推进实验室（JPL）的主要生产设施，&lt;strong&gt;因为它准备在2024年发射到木星的冰冷卫星Europa。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [辉瑞CEO新冠阳性背后：复阳只是时间问题吗？](https://www.cnbeta.com/articles/tech/1305623.htm) | Wed Aug 17 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;新冠疫苗生产研发大厂辉瑞制药的CEO竟然被检测出新冠阳性，这件事在昨日曝光后就登上了热搜榜。如何形容此次事件背后的黑色幽默意味，我想不亚于生产老鼠药的工坊闹开了鼠疫。疫苗、特效药，辉瑞从来都走在抗击新冠的前锋梯队，CEO的感染让看客开始揣测其下产品的作用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [流媒体革命拉大了英国青年人和老年人之间的电视代沟](https://www.cnbeta.com/articles/tech/1305621.htm) | Wed Aug 17 2022 1:56 PM 
+- 🚀 [流媒体革命拉大了英国青年人和老年人之间的电视代沟](https://www.cnbeta.com/articles/tech/1305621.htm) | Wed Aug 17 2022 1:56 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;英国通讯管理局发现，威尔士年轻人现在比55岁以上的人少看近五倍的电视&lt;/strong&gt;，这显示媒体习惯的代沟达到了历史最高水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [分析师表示iPhone 14 Pro机型可能会涨价100美元](https://www.cnbeta.com/articles/tech/1305619.htm) | Wed Aug 17 2022 1:53 PM 
+- 🎊 [分析师表示iPhone 14 Pro机型可能会涨价100美元](https://www.cnbeta.com/articles/tech/1305619.htm) | Wed Aug 17 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据Wedbush Securities分析师Dan Ives称，与iPhone 13 Pro机型相比，iPhone 14 Pro机型将&amp;quot;可能&amp;quot;出现100美元的价格上涨。Ives在今天分享的一份研究报告中说：&amp;quot;虽然基本的iPhone将保持相同的价格，但我们相信，鉴于组件价格的增加以及新发布的功能的增加，iPhone 14 Pro/Pro Max的价格可能会增加100美元。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [TikTok应用内推出美国中期选举中心并且打击错误信息](https://www.cnbeta.com/articles/tech/1305617.htm) | Wed Aug 17 2022 1:31 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;TikTok宣布其中期选举中心将从今天（2022年8月17日）开始在美国的应用程序中上线&lt;/strong&gt;，届时将以40多种语言向用户提供，包括英语和西班牙语。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [马斯克劝阻前女友接受整形手术 被回怼观念陈旧“真可悲”](https://www.cnbeta.com/articles/tech/1305615.htm) | Wed Aug 17 2022 1:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月17日消息，当地时间周二，马斯克前女友，加拿大音乐人格莱姆斯（Grimes）在Twitter上发文称，自己想通过手术获得“一双尖尖的精灵耳朵”，并询问是否有人成功接受过该类手术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
