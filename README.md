@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《盟军敢死队3：复刻版》8月31日发售 重返欧洲战场](https://hot.cnbeta.com/articles/game/1305641.htm) | Wed Aug 17 2022 4:41 PM 
+- 🕯 [iOS 15.6.1和iPadOS 15.6.1发布 修复了一些错误和漏洞](https://www.cnbeta.com/articles/tech/1305647.htm) | Wed Aug 17 2022 5:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果今天发布了iOS和iPadOS 15.6.1，这是最初在2021年9月发布的iOS和iPadOS 15操作系统的小更新。iOS 15.6.1和iPadOS 15.6.1是在苹果发布iOS 15.6和iPadOS 15.6一个月后发布的，带有新的实时体育功能和错误修复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [macOS Monterey 12.5.1现在可供下载](https://www.cnbeta.com/articles/tech/1305645.htm) | Wed Aug 17 2022 5:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;当地时间周三，苹果公司发布了macOS Monterey 12.5.1，其中包括错误修复和性能改进。&lt;/strong&gt;这是自7月20日以来对macOS的首次更新。由于macOS Ventura测试版和其他新的操作系统优先，最近的更新没有包含重大的功能变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果公司计划于9月7日举行iPhone 14、Apple Watch发布会](https://www.cnbeta.com/articles/tech/1305643.htm) | Wed Aug 17 2022 5:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据彭博社记者Mark Gurman报道，苹果公司计划在9月7日（星期三）举行其首次秋季发布会活动。这次活动将重点介绍iPhone 14机型和Apple Watch Series 8。标准版iPhone 14机型预计变化不大，但iPhone 14 Pro机型将包括更新的相机技术，取消刘海，改用药丸状和圆形打孔，配备最新A16芯片等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《盟军敢死队3：复刻版》8月31日发售 重返欧洲战场](https://hot.cnbeta.com/articles/game/1305641.htm) | Wed Aug 17 2022 4:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;发行商Kalypso Media和开发者Raylight Games确认《盟军敢死队3：复刻版》将于今年8月31日正式发售，登陆S4、Xbox one、Switch和Steam平台游戏也将加入XGP，支持中文。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《盟军敢死队3：复刻版》全新预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美国零售巨头塔吉特再暴雷：营收不及预期 净利润同比暴跌近90%](https://www.cnbeta.com/articles/tech/1305639.htm) | Wed Aug 17 2022 4:40 PM 
+- 🎊 [美国零售巨头塔吉特再暴雷：营收不及预期 净利润同比暴跌近90%](https://www.cnbeta.com/articles/tech/1305639.htm) | Wed Aug 17 2022 4:40 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;虽然业绩滑铁卢早有预期，但塔吉特的财报还是惨了点。塔吉特净利润大幅下降的主要原因是公司在二季度积极降价销售商品清理库存。公司称，这虽然会给当季业绩带来影响，但有助于公司在未来处于更好的位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [4个月以来腾讯已有9款产品停服：QQ堂、企鹅电竞等都没了](https://www.cnbeta.com/articles/tech/1305637.htm) | Wed Aug 17 2022 4:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;相信大家最近都看到过腾讯旗下产品停服的消息，有软件有游戏，其中很多都承载了大家的经典回忆。这是真正的时代的眼泪。&lt;strong style=&quot;white-space: normal;&quot;&gt;据统计，腾讯近4个月以来竟然停服了9款产品，其中包括QQ堂、企鹅电竞、看点快报、掌上WeGame、搜狗地图、搜狗搜索App等。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [曝《GTA6》回归单人DLC模式 发售前就提前做好准备](https://hot.cnbeta.com/articles/game/1305635.htm) | Wed Aug 17 2022 3:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前有消息称，《GTA6》将“随着时间的推移而扩展”。玩家担心这会占用R星更多的人手，导致其他游戏的更新和开发进度变慢。知名爆料者Tez2对此做出了回应。他表示“随着时间的推移而扩展”意味着《GTA6》将回归《GTAOL》大获成功之前的单人DLC更新方式。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [黑吃黑：宝马遭挖墙脚 黑客光明正大敛钱](https://www.cnbeta.com/articles/tech/1305633.htm) | Wed Aug 17 2022 3:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近两年，视频平台在播放电视剧时，各种巧立名目，花式收费，像超前点播、二次收费等，引发不少吐槽。不过这种付费才能享受的待遇，最近出现了“人传人”现象。近日，宝马的18美元/月的座椅加热功能，先后在韩国、英国推出，即便引发不少争议，宝马仍表示，要推出更多针对车辆性能的订阅服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
