@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SpringBoot系列教程之定义接口返回类型的几种方式](https://juejin.cn/post/7133020498434195464) | Thu Aug 18 2022 1:22 AM 
+- 🤗 [Understanding LSTM Networks（理解LSTM网络-colah‘s blog）](https://juejin.cn/post/7133019233583104013) | Thu Aug 18 2022 1:18 AM 
     <details><summary>展开描述 ...</summary> 
-    如果我有一个接口，除了希望返回 json 格式的数据之外，若也希望可以返回 xml 格式数据是否可行呢？ 又有哪些实现方式呢？ 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 获取更多资讯，赶快关注公众号&lpar;名称：智能制造与智能调度，公众号：deeprlscheduler&rpar;吧！ @[TOC] 1. 循环神经网络   人类不 
     </details> 
 
-- 🎡 [Vue 状态管理未来样子](https://juejin.cn/post/7133008213301002253) | Thu Aug 18 2022 12:36 AM 
+- 🎡 [博观约取系列 ～ 探测Bert Finetune对向量空间的影响](https://juejin.cn/post/7133013953851949063) | Thu Aug 18 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
-    新出了一个系列：Vue2与Vue3 技巧小册 随着Vue 3越来越受重视并成为默认版本，许多事情正在发生变化，生态系统逐渐完善中。直到最近，Vue3 的状态管理默认推荐的是使用 Pinia。这节课，我 
+    Bert Finetune一定比直接使用预训练模型效果好么？微调究竟对Bert的向量空间产生了哪些影响？结合DirectProb等探测任务，我们一起来看下BERT微调对向量空间的影响 
     </details> 
 
-- 🕯 [两年前端装机工具指南window版&lpar;像我一样不到两年经验的建议收藏&rpar;](https://juejin.cn/post/7133007639176282142) | Thu Aug 18 2022 12:34 AM 
+- 🕯 [中文NER的那些事儿4. 数据增强在NER的尝试](https://juejin.cn/post/7133012941149831199) | Thu Aug 18 2022 12:53 AM 
     <details><summary>展开描述 ...</summary> 
-    作为一个两年的前端，在不断的折腾下，积累了很多的工具，由于最近刚好重装了系统，所以这里整理下来，方便自己日后查看，以及可能需要的你。 
+    这一章我们不聊模型来聊聊数据，结合一些业界的案例和新鲜出炉的NLP数据增强总数，我们来聊聊有哪些数据增强方案，其中哪些适用于NER任务。代码实现详见ChineseNER~ 
     </details> 
 
-- 🚀 [JavaScript 中「Thunk」怎么理解？](https://juejin.cn/post/7132986833243553805) | Wed Aug 17 2022 11:17 PM 
+- 🚀 [软件工程——问题定义及指标制定方法](https://juejin.cn/post/7132866725032230949) | Wed Aug 17 2022 3:26 PM 
     <details><summary>展开描述 ...</summary> 
-    一套嵌一套，母猪带熊罩。所以，我们可以写出一个 toThunk 工具函数。JavaScript 中「Thunk」怎么理解，你 get 到了吗？ 
+    本文按照今日学习的*问题分解和质量指标*讲座为为出发点，介绍问题定义、指标制定的方法，并以当前目标为案例进行实际测试。 
     </details> 
 
-- 💪 [TypeScript-起步——TypeScript简介（三）](https://juejin.cn/post/7132977777346609159) | Wed Aug 17 2022 10:49 PM 
+- 💪 [【论文阅读】AROPE：Arbitrary-Order Proximity Preserved Network Embedding](https://juejin.cn/post/7132857893501534221) | Wed Aug 17 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 ⑥ TypeScript的编译环境 在前面我们提到过，TypeScript最终会被编译成JavaScri 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 前言 简介 原文链接：https://dl.acm.org/doi/10.1145/3219819.32 
     </details> 
 <!-- juejin:END -->
 ### 少数派
