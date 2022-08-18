@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [最好看的 Q1！少数派 Keychron 联名 Q1 键盘体验+改造](https://sspai.com/post/75188) | Thu Aug 18 2022 3:00 AM 
+- 👹 [CalDigit TS4 评测：如何用一根雷电 4 线驱动 2 块最高规格的 XDR？](https://sspai.com/post/75166) | Thu Aug 18 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    TS4 的强悍之处，在于它几乎一次性满足了绝大部分专业用户对扩展坞的所有期待，并且完美契合了我基于 14 寸 MacBook Pro 搭建桌面环境的一切需求。&lt;a href=&quot;https://sspai.com/post/75166&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [最好看的 Q1！少数派 Keychron 联名 Q1 键盘体验+改造](https://sspai.com/post/75188) | Thu Aug 18 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     作为一把典型的「量产客制化」键盘，本视频会分享我对于少数派 Keychron 联名 Q1 的简单体验和改造过程。&lt;a href=&quot;https://sspai.com/post/75188&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：黑鲨 5 高能版发布、英特尔推出 NUC 12 Pro 等](https://sspai.com/post/75213) | Thu Aug 18 2022 12:45 AM 
+- 🤭 [派早报：黑鲨 5 高能版发布、英特尔推出 NUC 12 Pro 等](https://sspai.com/post/75213) | Thu Aug 18 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
     宏碁发布掠夺者刀锋 300SE 游戏笔记本、Spotify 延长免费体验期等。&lt;a href=&quot;https://sspai.com/post/75213&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [这是我们迈出的一大步：少数派「面向 Z 世代的家」线下活动回顾](https://sspai.com/post/75192) | Wed Aug 17 2022 8:58 AM 
+- 🥸 [这是我们迈出的一大步：少数派「面向 Z 世代的家」线下活动回顾](https://sspai.com/post/75192) | Wed Aug 17 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
     十岁之前的少数派喜欢创新，用一些别开生面的视角或方式去解读那些与我们息息相关的新老事物，而十岁之后的少数派开始常提「突破」。我们当然没有变革行业的雄心壮志，试图努力多一些不同的尝试——无论是补足过去「 ...&lt;a href=&quot;https://sspai.com/post/75192&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [一派 | 编辑部都用什么 app 看天气？](https://sspai.com/post/75189) | Wed Aug 17 2022 8:05 AM 
+- 🙉 [一派 | 编辑部都用什么 app 看天气？](https://sspai.com/post/75189) | Wed Aug 17 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     一张截图、两位飘红的数字、三天内不见降水的预报……足以说明一切。&lt;a href=&quot;https://sspai.com/post/75189&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [新人律师需要掌握哪些方法论与技巧？](https://sspai.com/post/75186) | Wed Aug 17 2022 6:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    每年这个时候，总有不少刚毕业的法学院同学加入律所开启自己的律师生涯，也有不少在校学生在暑假选择到律所实习。对于刚刚步入职场的律师新人或实习生而言，应该注意哪些方面呢？&lt;a href=&quot;https://sspai.com/post/75186&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
