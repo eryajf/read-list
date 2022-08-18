@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [实验室测试显示一种新抗体能中和所有已知的新冠病毒变种](https://www.cnbeta.com/articles/science/1306057.htm) | Thu Aug 18 2022 2:39 PM 
+- 🕯 [Aero为其半私人航空公司筹集了6500万美元资金](https://www.cnbeta.com/articles/tech/1306077.htm) | Thu Aug 18 2022 4:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着COVID-19大流行的持续，SARS-CoV-2的较新变种一直在进化，以逃避我们身体对疫苗接种或先前感染所产生的抗体。&lt;/strong&gt;突破性的病例已经产生，而曾经有效的抗体治疗也随着时间的推移变得不那么有效。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;自称是 &amp;quot;下一代航空旅行公司&amp;quot;的Aero Technologies今天宣布，它已经筹集了6500万美元&lt;/strong&gt;，其中5000万美元是由Albacore Capital Group共同领导的B轮融资，1500万美元是可转换债券。Expa和Keyframe Capital，以及新投资者Capital One Ventures也参与了这一途径。该公司此前在2021年进行了20美元的A轮融资，现在的估值为3亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新专利显示寻找完美尺寸的Apple Watch表带将更加容易](https://www.cnbeta.com/articles/tech/1306055.htm) | Thu Aug 18 2022 2:26 PM 
+- 💼 [新加坡新规多次狙击含糖饮料 居民健康问题首要关注货架上的“隐形糖”](https://www.cnbeta.com/articles/tech/1306075.htm) | Thu Aug 18 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;要找到适合你手腕的Apple Watch表带尺寸，肯定有更好的方法，而不是尝试无数的表带，或者打印纸质指南，&lt;strong&gt;苹果认为它有答案。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，新加坡卫生部王乙康在出席活动时宣布，从2023年年底开始新加坡将禁止含糖量与反式脂肪酸较高的饮料进行广告宣传，具体措施将在明年年中公布。王乙康指出，现制饮料、鲜榨果汁及泡泡茶已经逐渐成为新加坡人民摄糖超标源头，为明确饮料中的糖分含量，新加坡卫生部还将采取“Nutri-Grade标签分级制度”，要求售卖的商家在饮料包装及电子菜单中表明糖量与反式脂肪酸含量，进一步推动全民饮食健康化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [为避免给猴子带来负面影响 世卫将猴痘病毒重命名](https://www.cnbeta.com/articles/tech/1306053.htm) | Thu Aug 18 2022 1:39 PM 
+- 💂 [传 3nm M2 Pro 芯片将于今年晚些时候开始量产](https://www.cnbeta.com/articles/tech/1306073.htm) | Thu Aug 18 2022 3:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月17日消息，8月13日下午世界卫生组织在Twitter公布将monkeypox（猴痘）变体命名为Clades I、IIa 和IIb。并在评论回复称对新发现的病毒、相关疾病和病毒变种进行命名，以避免对任何文化、社会、国家、地区、专业或种族群体造成冒犯，并尽量减少对贸易、旅行、旅游或动物福利的负面影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据工商时报消息，台积电 TSMC 将于 2022 年底开始为苹果量产 3nm 芯片。M2 Pro 将成为首批使用台积电 3nm 工艺制作的新品。此前，彭博社 Mark Gurman 提到苹果下一代 14 英寸和 16 英寸 MacBook Pro、高端 Mac mini 都会搭载 M2 Pro 芯片。这些新款 Mac 会在今年底或明年初发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NASA全力以赴为UFO研究做准备](https://www.cnbeta.com/articles/science/1306051.htm) | Thu Aug 18 2022 1:23 PM 
+- 🚀 [居民睡觉时家中马桶突然着火 谨记切勿超龄使用、长期不用要断电](https://www.cnbeta.com/articles/tech/1306071.htm) | Thu Aug 18 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国NASA在6月宣布，它将对UFO（&amp;quot;不明飞行物 &amp;quot;的简称）进行科学研究&lt;/strong&gt;，它们最近被重新命名为UAP（&amp;quot;不明空中现象&amp;quot;）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月15日，浙江丽水，一居民家中智能马桶冒烟，物业微型消防站接到火情警报，第一时间赶到现场将火势控制住。&lt;strong style=&quot;white-space: normal;&quot;&gt;随后消防赶到将火扑灭。经了解，户主在家中睡觉时，突然闻到很浓的烟味，起来一看发现智能马桶起火，遂拨打119。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [为何众多车厂对与华为合作充满了警惕？](https://www.cnbeta.com/articles/tech/1306049.htm) | Thu Aug 18 2022 1:21 PM 
+- 🎊 [真的有10亿中国人没坐过飞机？真相很残酷](https://www.cnbeta.com/articles/tech/1306069.htm) | Thu Aug 18 2022 3:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近年来，华为在美国的持续加码制裁制裁之下，使得华为的智能手机及电信业务开展受到了较大的影响，特别是原本营收占过半的智能手机业务大幅下滑，华为也被迫在2020年底出售了荣耀。在此背景之下，华为近两年来开始不断加大对于“受禁令影响较小”的汽车领域的投入，希望汽车业务能够成为华为新的增长引擎。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2019年，经济学家李迅雷撰文指出，国内还有10亿人没有坐过飞机，这个数据至今还在流传。真的这么夸张吗？按照当时的最新数据，&lt;strong style=&quot;white-space: normal;&quot;&gt;2018年全国民航旅客运输量约为6亿人次。&lt;/strong&gt;当然，人次不等于人数，因为一个人可以多次坐飞机，而且其中还包括一部分境外乘客。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
