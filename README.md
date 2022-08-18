@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [4680电池：特斯拉跌入“量产炼狱”？](https://www.cnbeta.com/articles/tech/1305833.htm) | Thu Aug 18 2022 3:59 AM 
+- 🕯 [特斯拉法务负责人离职？特斯拉官方推特：假新闻，没离开公司](https://www.cnbeta.com/articles/tech/1305843.htm) | Thu Aug 18 2022 5:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“我们会在年底之前实现4680电池的量产，但这很难预测，因为这里面有很多新的技术。”在8月初的特斯拉（Tesla Inc）2022年股东大会上，公司首席执行官埃隆.马斯克（Elon Musk）说，“我们有信心将获得高生产率，但可能要到今年年底，我们才能实现高产量。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉否认法务部门负责人离职。&lt;strong&gt;当地时间8月17日，彭博社援引知情人士消息表示，David Searle在不到一个月前已经与特斯拉分道扬镳。特斯拉原副总法律顾问Dinna Eskin接任。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《斯普拉遁3》新预告公布 9月9日正式发售](https://hot.cnbeta.com/articles/game/1305831.htm) | Thu Aug 18 2022 3:58 AM 
+- 💼 [Skyrora XL火箭已顺利完成二级静态点火试验](https://www.cnbeta.com/articles/science/1305841.htm) | Thu Aug 18 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今日（8月18日），任天堂官方公布《斯普拉遁3》最新预告“斯普拉遁从现在开始”，&lt;/strong&gt;《斯普拉遁3》9月9日登陆任天堂Switch平台，游戏试玩活动将于北京时间8月28日8点-20点进行。《斯普拉遁3》是一款4对4运用墨汁互相涂抹的对战游戏，对战的基本是称之为“占地对战”的4对4团体战，3分钟内将墨汁涂抹地面，最后涂墨面积（占地）较多的团队胜出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;总部位于英国的 Skyrora，刚刚抵达了 Skyrora XL 火箭开发的又一个里程碑 —— 完成了火箭二级的静态点火测试。&lt;/strong&gt;通过对该公司设计制造的单引擎开展标称的 20 秒燃烧测试，Skyrora 距离 2023 下半年的首次轨道发射目标又近了一步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [乐高版实大兰博基尼超跑公开展出 高贵华丽酷炫无比](https://www.cnbeta.com/articles/tech/1305829.htm) | Thu Aug 18 2022 3:57 AM 
+- 💂 [Switch包装盒尺寸将减少20% 以提高运输效率增加供应](https://hot.cnbeta.com/articles/game/1305839.htm) | Thu Aug 18 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年乐高官方曾经公开了乐高版实大兰博基尼超跑，近日这台超跑出现在了意大利兰博基尼博物馆公开展示，时间截止到10月6日，没条件现场观赏的粉丝可以跟随外媒视线一睹真容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据日经报道，任天堂从8月开始生产的续航版Switch包装盒尺寸将缩小20%，OLED型号不受影响。官方表示这样做是为年末的销售竞争做准备，缩小NS包装盒尺寸可以提高运输效率，增加供应。由于半导体等零件短缺，只能增加对航空运输空间的利用，压缩物流成本，尽量减少销售成本的损失。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [联发科推出适用于5G路由器和移动热点的T830新平台](https://www.cnbeta.com/articles/tech/1305827.htm) | Thu Aug 18 2022 3:57 AM 
+- 🚀 [任天堂公布两则Switch新CM 演示《马车8》《斯普拉遁3》](https://hot.cnbeta.com/articles/game/1305837.htm) | Thu Aug 18 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管普通消费者对联发科的智能手机芯片组要更加熟悉一些，但这家芯片巨头也有在积极构建适用于 5G 路由器和移动热点的新平台。由周四上午的官方新闻稿可知：&lt;strong&gt;全新发布的 T830 5G 平台采用了 4nm 制程，具有高度集成式设计、拥有高能效特性，并且可在 6GHz 以下频段达成 7 Gbps 的传输速率。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;任天堂今日发布了两则Switch的新CM《Nintendo Switch My Way》，标题一语双关，Switch既指任天堂的游戏机，又有“转变”的意思。CM中，一对父子靠Switch改变了两代人的交流方式。同时又展现了《宝可梦传说：阿尔宙斯》《马里奥赛车8豪华版》以及《斯普拉遁3》这三款游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《女浩克》突遭网络抨击 宣传片中长椅被隔断涉嫌歧视流浪者](https://hot.cnbeta.com/articles/movie/1305825.htm) | Thu Aug 18 2022 3:56 AM 
+- 🎊 [Linux 6.0在rc1合并窗口后对NTFS3内核驱动更新网开一面](https://www.cnbeta.com/articles/tech/1305835.htm) | Thu Aug 18 2022 4:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期热度最高的漫威剧当属《女浩克》了，不过据外媒《新闻周刊》报道，正忙于宣传造势的《女浩克》剧组突然收到了大量的网络抨击，指责其在宣传片中出现的长椅，因为中间有了小扶手隔断涉嫌歧视视流浪者而引发热议。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1305825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;由 Paragon Software 开源的 NTFS3，是现代 Linux 内核中的 NFTS 文件系统的读 / 写驱动程序。&lt;/strong&gt;随着上一个 Linux 合并窗口在 6.0-rc1 版本发布时结束，我们也看到了一些针对 Linux 6.0 的后期代码重构和修复。但在常规的两周时间里，Paragon Software 并未带来新功能代码和其它非严格 bug 的修复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
