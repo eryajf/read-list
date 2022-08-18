@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [AdGuard DNS 2.0 - 您自己的隐私保护中心](https://xinquji.com/posts/178854?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:33 AM 
+- 👀 [Bristle Oral Health Test - 口腔微生物组测试可改善您的口腔健康](https://xinquji.com/posts/178856?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:36 AM 
+    <details><summary>展开描述 ...</summary> 
+     口腔微生物组测试可改善您的口腔健康  
+    </details> 
+
+- 🥷 [Closely - 将 LinkedIn 转变为 CRM 并将所有外展活动置于自动驾驶仪上](https://xinquji.com/posts/178855?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:34 AM 
+    <details><summary>展开描述 ...</summary> 
+     将 LinkedIn 转变为 CRM 并将所有外展活动置于自动驾驶仪上  
+    </details> 
+
+- 💼 [AdGuard DNS 2.0 - 您自己的隐私保护中心](https://xinquji.com/posts/178854?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
      您自己的隐私保护中心  
     </details> 
 
-- 🥷 [Jollylook Pinhole - 即时胶片相机 DIY 套件](https://xinquji.com/posts/178853?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:33 AM 
+- 🦅 [Jollylook Pinhole - 即时胶片相机 DIY 套件](https://xinquji.com/posts/178853?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
      即时胶片相机 DIY 套件  
     </details> 
 
-- 💼 [Artboard Studio - 前所未有的设计和动画](https://xinquji.com/posts/178852?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:27 AM 
+- 😺 [Artboard Studio - 前所未有的设计和动画](https://xinquji.com/posts/178852?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
      前所未有的设计和动画  
-    </details> 
-
-- 🦅 [Nexsto - 过程的透明度](https://xinquji.com/posts/178851?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:26 AM 
-    <details><summary>展开描述 ...</summary> 
-     过程的透明度  
-    </details> 
-
-- 😺 [Saleo - 改变您的现场销售演示环境](https://xinquji.com/posts/178850?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:25 AM 
-    <details><summary>展开描述 ...</summary> 
-     改变您的现场销售演示环境  
     </details> 
 <!-- xinquji:END -->
