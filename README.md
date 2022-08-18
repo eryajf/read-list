@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [攻击者开发BugDrop恶意软件，可绕过安卓安全防护](https://www.freebuf.com/news/342264.html) | Thu Aug 18 2022 3:49 AM 
+- 🦄 [BlackByte团伙携新勒索手段卷土重来](https://www.freebuf.com/news/342285.html) | Thu Aug 18 2022 6:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    勒索软件 BlackByte 带着 2.0 版本回归了，并创建了一个新的数据泄露网站 
+    </details> 
+
+- 🦄 [聊聊新版风险评估的变化](https://www.freebuf.com/articles/342273.html) | Thu Aug 18 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    新版风评简化了要素关系，只保留了资产、脆弱性、威胁、安全措施和风险要素。 
+    </details> 
+
+- 🦅 [攻击者开发BugDrop恶意软件，可绕过安卓安全防护](https://www.freebuf.com/news/342264.html) | Thu Aug 18 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     随着BugDrop逐步完善当前存在的各种缺陷，攻击者在与安全团队、银行机构的战争中拥有一种全新的高威力的武器，可击败谷歌目前采用的解决方案。 
     </details> 
 
-- 🦄 [上海浦东发展银行信用卡中心招聘信息](https://www.freebuf.com/jobs/342253.html) | Thu Aug 18 2022 3:06 AM 
+- 🪄 [上海浦东发展银行信用卡中心招聘信息](https://www.freebuf.com/jobs/342253.html) | Thu Aug 18 2022 3:06 AM 
     <details><summary>展开描述 ...</summary> 
     上海浦东发展银行信用卡中心成立于2004年1月，是国内最早获得金融许可证的信用卡中心之一。 
     </details> 
 
-- 🦅 [2021年，身份欺诈案例创下新记录](https://www.freebuf.com/articles/342245.html) | Thu Aug 18 2022 2:30 AM 
+- 💻 [2021年，身份欺诈案例创下新记录](https://www.freebuf.com/articles/342245.html) | Thu Aug 18 2022 2:30 AM 
     <details><summary>展开描述 ...</summary> 
     谷歌语音诈骗在 2021 年的身份相关欺诈案例中创下新纪录。 
-    </details> 
-
-- 🪄 [FreeBuf早报 | 卡巴斯基实验室开发防黑客手机；微软为 Mac 推出篡改保护](https://www.freebuf.com/news/342222.html) | Wed Aug 17 2022 11:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    据俄罗斯卫星社报道，近期卡巴斯基实验室总裁表示，该实验室正在开发自主品牌手机的防黑客入侵功能。 
-    </details> 
-
-- 💻 [《网络安全标准实践指南——健康码防伪技术指南（征求意见稿）》发布](https://www.freebuf.com/news/342208.html) | Wed Aug 17 2022 8:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    《指南》依据有关政策法规要求，做好支撑疫情防控工作，防止健康码伪造安全风险，对健康码防伪提供技术实践参考。 
     </details> 
 <!-- freebuf:END -->
 
