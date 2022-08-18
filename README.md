@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Billdu - 现代自由职业者的发票应用程序](https://xinquji.com/posts/178825?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:50 AM 
+- 👀 [AdGuard DNS 2.0 - 您自己的隐私保护中心](https://xinquji.com/posts/178854?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     现代自由职业者的发票应用程序  
+     您自己的隐私保护中心  
     </details> 
 
-- 🥷 [Soft Cleaner - 计算机每次都像智能手机一样运行](https://xinquji.com/posts/178824?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:49 AM 
+- 🥷 [Jollylook Pinhole - 即时胶片相机 DIY 套件](https://xinquji.com/posts/178853?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     计算机每次都像智能手机一样运行  
+     即时胶片相机 DIY 套件  
     </details> 
 
-- 💼 [Pulse Surveys by Roots - 通过 Slack 保持对员工敬业度的持续关注](https://xinquji.com/posts/178823?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:48 AM 
+- 💼 [Artboard Studio - 前所未有的设计和动画](https://xinquji.com/posts/178852?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     通过 Slack 保持对员工敬业度的持续关注  
+     前所未有的设计和动画  
     </details> 
 
-- 🦅 [onfigr - 用于室内和家庭零售的高品质配置工具](https://xinquji.com/posts/178822?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:46 AM 
+- 🦅 [Nexsto - 过程的透明度](https://xinquji.com/posts/178851?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     用于室内和家庭零售的高品质配置工具  
+     过程的透明度  
     </details> 
 
-- 😺 [Viral Post Generator - 使用 AI 撰写完美的 LinkedIn 帖子](https://xinquji.com/posts/178821?utm_campaign=xinquji-rss) | Thu Aug 18 2022 6:46 AM 
+- 😺 [Saleo - 改变您的现场销售演示环境](https://xinquji.com/posts/178850?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 AI 撰写完美的 LinkedIn 帖子  
+     改变您的现场销售演示环境  
     </details> 
 <!-- xinquji:END -->
