@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TiFlash 源码阅读（六）DeltaTree Index 的设计和实现分析](https://juejin.cn/post/7133048019368280072) | Thu Aug 18 2022 3:09 AM 
+- 🤗 [1224. 最大相等频率 : 常规计数模拟题](https://juejin.cn/post/7133059143253884935) | Thu Aug 18 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 在前面的源码分析中对 TiFlash 的计算层和存储层都进行了深入的分析，其中 TiFlash DeltaTree 存储引擎设计及实现分析 &lpar;Part 1&rpar; TiFlash DeltaTree  
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 题目描述 这是 LeetCode 上的 1224. 最大相等频率 ，难度为 困难。 Tag : 「模拟」 
     </details> 
 
-- 🎡 [社招5年来字节，发现我根本不会用GIT，真的是社死了](https://juejin.cn/post/7133045617877581831) | Thu Aug 18 2022 3:00 AM 
+- 🎡 [社区圆桌分享：代码学习无止境，程序员如何规划自己的职业生涯发展？](https://juejin.cn/post/7133058599001325599) | Thu Aug 18 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-    明明用了5年的git，来了字节之后感觉自己好像没用过git一样。靠，我5年前端开发经验难道是假造的咩~，真的是栓q。什么git rebase;git rebase -i;git cherry-pick 
+    本文为 CloudWeGo 源码解读第二期第四场直播中 CSG 圆桌讨论分享内容，内容主要是关于如何选择开源项目以及程序员如何进行自己的职业生涯规划。 
     </details> 
 
-- 🕯 [立即报名 | 相约 8.27，云原生 Meetup 杭州站火热开启](https://juejin.cn/post/7133043140998463495) | Thu Aug 18 2022 2:50 AM 
+- 🕯 [「原生练手」✨将深浅色模式切换逻辑抽离成hooks，体验hooks的魅力！](https://juejin.cn/post/7132872750804238349) | Wed Aug 17 2022 3:49 PM 
     <details><summary>展开描述 ...</summary> 
-    2022 年，KubeSphere 社区已经分别在长沙、成都和广州组织了线下 Meetup，汇聚当地 
+    最近项目开发的过程中经常有抽离hooks提高代码复用性的场景，在我个人看来，抽离hooks主要有以下好处：提高代码复用性、起到一个语义化的作用 
     </details> 
 
-- 🚀 [海边溺水，救援机器人“生死时速”；机器学习论文撰写清单；Kaggle数据科学新手教程；约克大学『计算机视觉』课程资料；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7133042557214261278) | Thu Aug 18 2022 2:48 AM 
+- 🚀 [我眼中的无影云桌面‖云桌面使用者角度](https://juejin.cn/post/7132869268764360711) | Wed Aug 17 2022 3:36 PM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 08-18 期，StemRoller音源分离工具、 Nativefier将网页转换成桌面应用、OpenKS知识学习与计算引擎、论文提交准备的python脚本、前沿论文… 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第N天，点击查看活动详情 1. 何为无影云桌面 无影云桌面 &lpar;Elastic Desktop Service），是一种易用、安全、高 
     </details> 
 
-- 💪 [AI 音辨世界：艺术小白的我，靠这个AI模型，速识音乐流派选择音乐](https://juejin.cn/post/7133039684963270692) | Thu Aug 18 2022 2:37 AM 
+- 💪 [【实战】umi3.x+qiankun+模块联邦  搭建微前端应用（一）](https://juejin.cn/post/7132866035744522254) | Wed Aug 17 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
-    音乐领域，借助于歌曲相关信息，模型可以根据歌曲的音频和歌词特征，将歌曲精准进行流派分类。本文讲解如何基于机器学习完成对音乐的识别分类。 
+    前言 终于要对我们公司的“巨石”项目动手改造了，该项目是基于umi@3.5.27框架搭建的，目前已经有上百个路由了，每次在这上面搬砖都是一次痛苦的煎熬。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
