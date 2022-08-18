@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊聊 npm 的语义化版本（Semver）](https://juejin.cn/post/7133175128988319775) | Thu Aug 18 2022 11:23 AM 
+- 🤗 [GCD的dispatch_get_specific与dispatch_queue_set_specific](https://juejin.cn/post/7133204939475517477) | Thu Aug 18 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
-    如果一个版本号为 X.Y.Z，什么时候是 X 应该加 1，什么时候 Y 应该加 1 ，什么时候 Z 应该加 1，加 1 遵循十进制吗？比如 1.0.9 的下一个版本应该是 1.1.0 吗？ 
+    概述 GCD是一个多核编程的解决方案。它主要用于优化应用程序以支持多核处理器。 GCD介绍 要理解GCD的使用就必须先知道GCD中的任务和队列的概念： 任务 任务即执行操作的意思，换句话说就是你在线程 
     </details> 
 
-- 🎡 [【Nacos源码之配置管理 三】TaskManager 任务管理的使用](https://juejin.cn/post/7133170845270147109) | Thu Aug 18 2022 11:07 AM 
+- 🎡 [跑马灯简单版](https://juejin.cn/post/7133192438117564447) | Thu Aug 18 2022 12:30 PM 
     <details><summary>展开描述 ...</summary> 
-    任务管理类 因为Nacos中有很多地方使用了这个TaskManager,所以我们得先了解一下这个类是干啥用的,方便后面 
+    背景 跑马灯对前端来说，再常见不过了，市面上也有很多封装好的插件，但是对于一些简单效果，总觉得是杀鸡用牛刀。项目中正好遇到了，决定自己实现一个简洁版的，先看下效果： 实现原理 主要操作就是：在滚动到最 
     </details> 
 
-- 🕯 [C# 使用鼠标点击对Chart控件，实现数据提示效果](https://juejin.cn/post/7133171122723848222) | Thu Aug 18 2022 11:07 AM 
+- 🕯 [日新刷题 - 496. 下一个更大元素 I](https://juejin.cn/post/7133191605691006989) | Thu Aug 18 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 前言： 上一篇文章，我们对C#Chart控件标记问题做了一系列的处理，今天是对上一篇文章的一个扩展，使用 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 一、题目描述： 496. 下一个更大元素 I - 力扣（LeetCode） &lpar;leetcode-cn.c 
     </details> 
 
-- 🚀 [CA&lpar;cluster autoscaler&rpar;删除 Node逻辑排查](https://juejin.cn/post/7133171053240516621) | Thu Aug 18 2022 11:07 AM 
+- 🚀 [LeakCanary 你真的了解么？看看这些高级用法](https://juejin.cn/post/7133188148728692766) | Thu Aug 18 2022 12:13 PM 
     <details><summary>展开描述 ...</summary> 
-    背景 CA 并不是只有开启缩容功能才会下线机器，使用过程中发现没有开启缩容开关也出现了 Node被删除导致服务不可用的情况，本文针对 CA中所有涉及到高危的删除操作做排查，避免掉坑 CA 自动扩缩容需 
+    “LeakCanary 虽好，但就是太卡。”，“LeakCanary 虽好，但无法线上使用。”，这些是真的么，情况可能并没有你想的那么简单。 
     </details> 
 
-- 💪 [Swift - LeetCode - 二叉搜索树的最近公共祖先](https://juejin.cn/post/7133169464920506375) | Thu Aug 18 2022 11:01 AM 
+- 💪 [Android 边播放边缓存视频框架AndroidVideoCache简析](https://juejin.cn/post/7133182104447221791) | Thu Aug 18 2022 11:51 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情  题目 给定一个二叉搜索树, 找到该树中两个指定节点的最近公共祖先。 百度百科中最近公共祖先的定义为：“ 
+    一、背景 现在的移动应用，视频是一个非常重要的组成部分，好像里面不搞一点视频就不是一个正常的移动App。在视频开发方面，可以分为视频录制和视频播放，视频录制的场景可能还比较少，这方面可以使用Googl 
     </details> 
 <!-- juejin:END -->
 ### 少数派
