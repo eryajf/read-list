@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [这是我们迈出的一大步：少数派「面向 Z 世代的家」线下活动回顾](https://sspai.com/post/75192) | Wed Aug 17 2022 8:58 AM 
+- 👹 [派早报：黑鲨 5 高能版发布、英特尔推出 NUC 12 Pro 等](https://sspai.com/post/75213) | Thu Aug 18 2022 12:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    宏碁发布掠夺者刀锋 300SE 游戏笔记本、Spotify 延长免费体验期等。&lt;a href=&quot;https://sspai.com/post/75213&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [这是我们迈出的一大步：少数派「面向 Z 世代的家」线下活动回顾](https://sspai.com/post/75192) | Wed Aug 17 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
     十岁之前的少数派喜欢创新，用一些别开生面的视角或方式去解读那些与我们息息相关的新老事物，而十岁之后的少数派开始常提「突破」。我们当然没有变革行业的雄心壮志，试图努力多一些不同的尝试——无论是补足过去「 ...&lt;a href=&quot;https://sspai.com/post/75192&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一派 | 编辑部都用什么 app 看天气？](https://sspai.com/post/75189) | Wed Aug 17 2022 8:05 AM 
+- 🤭 [一派 | 编辑部都用什么 app 看天气？](https://sspai.com/post/75189) | Wed Aug 17 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     一张截图、两位飘红的数字、三天内不见降水的预报……足以说明一切。&lt;a href=&quot;https://sspai.com/post/75189&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新人律师需要掌握哪些方法论与技巧？](https://sspai.com/post/75186) | Wed Aug 17 2022 6:27 AM 
+- 🥸 [新人律师需要掌握哪些方法论与技巧？](https://sspai.com/post/75186) | Wed Aug 17 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
     每年这个时候，总有不少刚毕业的法学院同学加入律所开启自己的律师生涯，也有不少在校学生在暑假选择到律所实习。对于刚刚步入职场的律师新人或实习生而言，应该注意哪些方面呢？&lt;a href=&quot;https://sspai.com/post/75186&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [特别直播｜少数派会员第二季都有哪些「新意」？](https://sspai.com/post/74940) | Wed Aug 17 2022 3:30 AM 
+- 🙉 [特别直播｜少数派会员第二季都有哪些「新意」？](https://sspai.com/post/74940) | Wed Aug 17 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，少数派会员第二季已经上线快一个月了。在经历了第一季会员之后，我们希望在第二季会员给大家带来更多新鲜感。因此，不论你是第一季订阅过来的老会员，还是第二季才订阅的「小鲜肉」，相信大家都发现会员第二 ...&lt;a href=&quot;https://sspai.com/post/74940&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [谈谈我的数字文具「盒」：如何围绕 Mac 桌面构建简易数字化工作流程](https://sspai.com/post/75146) | Wed Aug 17 2022 2:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    谈谈如何将 Mac 桌面作为我的数字文具盒，搭建简易数字化学术工作流程。&lt;a href=&quot;https://sspai.com/post/75146&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
