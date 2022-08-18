@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国《降低通货膨胀法案》拒绝补贴众多韩国EV车型](https://www.cnbeta.com/articles/tech/1306027.htm) | Thu Aug 18 2022 11:13 AM 
+- 🕯 [三家最大比特币挖矿公司上季度损失超过10亿美元 正出售挖矿机以维持生计](https://www.cnbeta.com/articles/tech/1306041.htm) | Thu Aug 18 2022 12:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国总统拜登签署《降低通胀法案》之后，韩国方面传出消息，从当地时间8月16日起，美国停止为非在北美组装的电动汽车（EV）支付补贴。美国政府公布了有资格获得补贴的电动汽车清单。到今年年底，仅在北美组装的21款车型将获得最高7500美元的补贴。该清单不包括现代汽车集团在美国市场销售的五款车型——IONIQ5、KonaEV、GenesisGV60、EV6和NiroEV。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由于加密货币价格的暴跌，比特币挖矿的关注点在过去一个季度报告了巨大的损失。一些人正在出售他们的持币量和挖矿机，甚至贷款来支付运营费用和维持生计。根据彭博社的报道，在美国股市交易的三家最大的比特币挖矿公司在第二季度损失超过10亿美元。由于过去几个月加密货币价格的大幅下跌，这些公司不得不减记其持有的价值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [LibreOffice 7.4发布 首次支持WebP 还有许多其他改进](https://www.cnbeta.com/articles/soft/1306025.htm) | Thu Aug 18 2022 11:11 AM 
+- 💼 [马斯克抱怨其110亿美元税单 称“民主党应远离人们的钱包”](https://www.cnbeta.com/articles/tech/1306039.htm) | Thu Aug 18 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;LibreOffice 7.4今天发布了，作为这个开源的、跨平台的办公套件的最新重大更新。这个领先的自由软件办公套件现在首次开始支持WebP图像，并对其各种组件进行了多种改进。这一版本还进行了许多UI/UX的改进工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1306025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间周二， 马斯克参加了由众议院少数党领袖凯文·麦卡锡（Kevin McCarthy）主持的共和党聚会，并抱怨了他在2021年出售特斯拉股票后所产生的110亿美元税单。据了解，去年时，马斯克行使了大量特斯拉股票期权，因此他必须为股票行使价格与公平市场价值之间的差额纳税。当时，马斯克称自己“将比历史上任何美国人缴纳的税都多”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [报告预测印度或成为全球第二大半导体消费市场](https://www.cnbeta.com/articles/tech/1306023.htm) | Thu Aug 18 2022 11:05 AM 
+- 💂 [联想消费生态秋季新品发布 拯救者手机、VR及小新平板等齐亮相](https://www.cnbeta.com/articles/tech/1306037.htm) | Thu Aug 18 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;印度电子与半导体协会&lpar;IESA&rpar;与Counterpoint联合编制的《2019-2026年印度半导体市场报告》于近日发布，根据该报告预测，印度半导体市场在2021-2026年间的累计消费量将达到3000亿美元，有望成为全球第二大半导体消费市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年8月18日19时，联想召开“正装野兽，性能觉醒”2022联想消费生态秋季新品发布会。联想携拯救者Y70性能旗舰手机、小新Pad Pro 2022、个人云存储X1s、拯救者VR700等丰富生态新品及全新ZUI 14震撼而来。有别以往，本次发布会创新性采用XR交互技术打造了一场虚实相生的感官盛宴。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉中国制造Model 3即将全系换装宁德时代M3P电池 续航增加](https://www.cnbeta.com/articles/tech/1306021.htm) | Thu Aug 18 2022 11:04 AM 
+- 🚀 [阵营博弈中 万兆宽带做“接棒”准备](https://www.cnbeta.com/articles/tech/1306035.htm) | Thu Aug 18 2022 11:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月18日下午消息，两位消息人士透露，特斯拉即将推出新款Model 3。新版本Model 3全面增配，最大亮点是全系换装了宁德时代提供的M3P电池，续航能力至少有10%提升。此前，有媒体报道，中国制造Model Y确定换装宁德时代M3P电池，搭载的是72度电池包。宁德时代将在今年第四季度向特斯拉供应M3P电池，而该版本Model Y将于明年初上市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;通信技术发展，一直遵循着“商用一代、规划一代”的规律，如此反复、不断前进。移动通信领域，在5G如火如荼全面商用的同时，产业界针对6G的研究、规划也在加快推进之中，如中国信通院已相继发布了《6G总体愿景与潜在关键技术》《6G典型场景和关键能力》等白皮书。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [米哈游《崩坏：星穹铁道》新EP公布 预约量破250万](https://hot.cnbeta.com/articles/game/1306019.htm) | Thu Aug 18 2022 11:02 AM 
+- 🎊 [欧洲和美国“芯片法案”相继出台后 全球抢人大战将会愈加激烈](https://www.cnbeta.com/articles/tech/1306033.htm) | Thu Aug 18 2022 11:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，米哈游新作《绝区零》开启了首轮测试，并已经顺利结束，口碑非常不错，这也是《原神》之后的又一力作。除了《绝区零》之外，&lt;strong style=&quot;white-space: normal;&quot;&gt;米哈游同时还在制作一款3D回合制策略RPG游戏——《崩坏：星穹铁道》。&lt;/strong&gt;该游戏此前也已经进行过玩家测试，官方今天还公布了全新的EP视频，提前为我们展示了一些人物和场景的设计。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然美国和欧盟最终制定了各自的“芯片法案”，准备投入巨资巩固其半导体生产能力以保障战略供应。如果各国想要确保其投资的有效性，人才短缺将是一个需要解决的关键问题。据DIGITIMES报道，在国际管理发展协会（IMD）发布的2021年世界竞争力排名中，中国台湾地区的每千人研发人力排名世界第一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
