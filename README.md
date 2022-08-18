@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [戴尔新款平板电脑XPS 13将于下周上市](https://www.cnbeta.com/articles/tech/1306083.htm) | Thu Aug 18 2022 4:41 PM 
+- 🕯 [Alder Lake-HX刚发布3个月 Intel顶级新U就后继有人了](https://www.cnbeta.com/articles/tech/1306089.htm) | Thu Aug 18 2022 5:46 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今年5月份，Intel发布了全新的Alder Lake-HX 12代酷睿移动平台，首次为笔记本带来桌面级核心，拥有最高8大8小16核心24线程、30MB三级缓存、5GHz频率的豪华规格，基础功耗就有55W。没想到，&lt;strong style=&quot;white-space: normal;&quot;&gt;这才过去3个来月，13代酷睿的Raptor Lake-HX系列就现身了，型号为i5-13600HKX，6大8小14核心20线程，对比i5-12600HX多了2个大核心，达到了i7-12650HX的水平。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [东京迪士尼乐园收到多起零食发霉投诉 运营商召回6782份商品并道歉](https://www.cnbeta.com/articles/tech/1306087.htm) | Thu Aug 18 2022 5:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;日本广播协会（NHK）18日报道，东京迪士尼乐园运营商发布消息称，因为接到顾客反映商品“发霉”，决定召回6782份在园区内多家店铺贩卖印有迪士尼旗下角色图案的“东京香蕉焦糖香蕉味”零食。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [百度网盘否认人工审核用户照片 保留追究法律责任权利](https://www.cnbeta.com/articles/tech/1306085.htm) | Thu Aug 18 2022 5:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;北京时间8月18日晚间消息，针对网友反应百度网盘&lt;strong style=&quot;white-space: normal;&quot;&gt;人工审核用户照片一事，&lt;/strong&gt;百度网盘官方微博回应称“百度网盘不存在所谓的照片人工审核，此截图信息为造谣信息，请您立即删除该信息，我们会保留追究法律责任的权利”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [戴尔新款平板电脑XPS 13将于下周上市](https://www.cnbeta.com/articles/tech/1306083.htm) | Thu Aug 18 2022 4:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;戴尔宣布，早在6月首次曝光的新XPS 13二合一产品将于8月25日开始发售，起价为1099美元。&lt;/strong&gt;与前几代XPS 13二合一机型不同，这款XPS是一款带有磁性键盘盒的Surface Pro式平板电脑。这将使该设备能够迅速从平板电脑转变为笔记本电脑，类似于苹果iPad Pro使用Magic Keyboard的方式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [配件商晒iPhone 14 Pro带壳厚度](https://www.cnbeta.com/articles/tech/1306081.htm) | Thu Aug 18 2022 4:39 PM 
+- 🎊 [配件商晒iPhone 14 Pro带壳厚度](https://www.cnbeta.com/articles/tech/1306081.htm) | Thu Aug 18 2022 4:39 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;按照目前传闻，苹果将会在北京时间9月7日凌晨召开秋季新品发布会，iPhone 14系列会是最大的主角。&lt;strong style=&quot;white-space: normal;&quot;&gt;这次iPhone 14系列共四款机型，整体带来了不小的改变，&lt;/strong&gt;尤其是Pro版本在外观和配置上都迎来大幅升级，引起了非常多的讨论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [AMD锐龙7000告别脆弱的针脚：“八爪鱼”设计用心良苦](https://www.cnbeta.com/articles/tech/1306079.htm) | Thu Aug 18 2022 4:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD即将在8月30日举行发布会，届时会正式推出锐龙7000处理器，最迟9月底就要上市了，这一代不仅升级了5nm Zen4架构，还升级了全新的AM5插槽，支持DDR5及PCIe 5.0等新技术。伴随AM5插槽升级的还有锐龙7000的全新封装，&lt;strong style=&quot;white-space: normal;&quot;&gt;AMD这次淘汰了用了数十年的PGA针脚式插槽，改为跟Intel处理器一样的LGA触点式，这一点也跟AMD的霄龙处理器统一起来了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Aero为其半私人航空公司筹集了6500万美元资金](https://www.cnbeta.com/articles/tech/1306077.htm) | Thu Aug 18 2022 4:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;自称是 &amp;quot;下一代航空旅行公司&amp;quot;的Aero Technologies今天宣布，它已经筹集了6500万美元&lt;/strong&gt;，其中5000万美元是由Albacore Capital Group共同领导的B轮融资，1500万美元是可转换债券。Expa和Keyframe Capital，以及新投资者Capital One Ventures也参与了这一途径。该公司此前在2021年进行了20美元的A轮融资，现在的估值为3亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [新加坡新规多次狙击含糖饮料 居民健康问题首要关注货架上的“隐形糖”](https://www.cnbeta.com/articles/tech/1306075.htm) | Thu Aug 18 2022 3:50 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，新加坡卫生部王乙康在出席活动时宣布，从2023年年底开始新加坡将禁止含糖量与反式脂肪酸较高的饮料进行广告宣传，具体措施将在明年年中公布。王乙康指出，现制饮料、鲜榨果汁及泡泡茶已经逐渐成为新加坡人民摄糖超标源头，为明确饮料中的糖分含量，新加坡卫生部还将采取“Nutri-Grade标签分级制度”，要求售卖的商家在饮料包装及电子菜单中表明糖量与反式脂肪酸含量，进一步推动全民饮食健康化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
