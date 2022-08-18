@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Swift - LeetCode - 删除链表中的节点](https://juejin.cn/post/7132873318905937934) | Wed Aug 17 2022 3:51 PM 
+- 🤗 [SpringBoot系列教程之定义接口返回类型的几种方式](https://juejin.cn/post/7133020498434195464) | Thu Aug 18 2022 1:22 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情  题目 请编写一个函数，用于 删除单链表中某个特定节点。在设计函数时需要注意，你无法访问链表的头节点 h 
+    如果我有一个接口，除了希望返回 json 格式的数据之外，若也希望可以返回 xml 格式数据是否可行呢？ 又有哪些实现方式呢？ 
     </details> 
 
-- 🎡 [Ruby vs Elixir | 2022 该选哪个？](https://juejin.cn/post/7132852318474600456) | Wed Aug 17 2022 2:31 PM 
+- 🎡 [Vue 状态管理未来样子](https://juejin.cn/post/7133008213301002253) | Thu Aug 18 2022 12:36 AM 
     <details><summary>展开描述 ...</summary> 
-    一起来探索 Ruby 和 Elixir（以及 Phoenix） 的起源搞清楚 Ruby 和 Elixir 的优缺点和Elixir 和 Ruby 的最佳实践以及到底是选择 Elixir 还是 Ruby？ 
+    新出了一个系列：Vue2与Vue3 技巧小册 随着Vue 3越来越受重视并成为默认版本，许多事情正在发生变化，生态系统逐渐完善中。直到最近，Vue3 的状态管理默认推荐的是使用 Pinia。这节课，我 
     </details> 
 
-- 🕯 [如何预防利用Redis弱密码进行攻击](https://juejin.cn/post/7132852216875974686) | Wed Aug 17 2022 2:30 PM 
+- 🕯 [两年前端装机工具指南window版&lpar;像我一样不到两年经验的建议收藏&rpar;](https://juejin.cn/post/7133007639176282142) | Thu Aug 18 2022 12:34 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 各位运维同仁大家好，我们之前在 服务器被挖矿了后应当如何做 中提及过，如何预防服务器被挖矿，其中有几条措 
+    作为一个两年的前端，在不断的折腾下，积累了很多的工具，由于最近刚好重装了系统，所以这里整理下来，方便自己日后查看，以及可能需要的你。 
     </details> 
 
-- 🚀 [开学了，计算机的大学生们，送给你们一些经验，希望你们的四年不负年华！](https://juejin.cn/post/7132851609578504222) | Wed Aug 17 2022 2:27 PM 
+- 🚀 [JavaScript 中「Thunk」怎么理解？](https://juejin.cn/post/7132986833243553805) | Wed Aug 17 2022 11:17 PM 
     <details><summary>展开描述 ...</summary> 
-    9月快要到了，不少大学已经陆陆续续开学了，不禁感慨，时间过得真快啊，一转眼就毕业多年了。在这里说一些自己对于大学浅薄的经验，希望对于你们有用。 一、不要挂科 大家应该都听过“没挂科的大学不是完整的大学 
+    一套嵌一套，母猪带熊罩。所以，我们可以写出一个 toThunk 工具函数。JavaScript 中「Thunk」怎么理解，你 get 到了吗？ 
     </details> 
 
-- 💪 [LeetCode最长公共前缀使用JavaScript解题,一种不太正经的解法|前端学算法](https://juejin.cn/post/7132850825801498637) | Wed Aug 17 2022 2:25 PM 
+- 💪 [TypeScript-起步——TypeScript简介（三）](https://juejin.cn/post/7132977777346609159) | Wed Aug 17 2022 10:49 PM 
     <details><summary>展开描述 ...</summary> 
-    使用JavaScript解决LeetCode最长公共前缀的问题,for循环的几种跳出循环的方式；前端学习算法 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 ⑥ TypeScript的编译环境 在前面我们提到过，TypeScript最终会被编译成JavaScri 
     </details> 
 <!-- juejin:END -->
 ### 少数派
