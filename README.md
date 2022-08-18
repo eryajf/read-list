@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Aero为其半私人航空公司筹集了6500万美元资金](https://www.cnbeta.com/articles/tech/1306077.htm) | Thu Aug 18 2022 4:32 PM 
+- 🕯 [戴尔新款平板电脑XPS 13将于下周上市](https://www.cnbeta.com/articles/tech/1306083.htm) | Thu Aug 18 2022 4:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;戴尔宣布，早在6月首次曝光的新XPS 13二合一产品将于8月25日开始发售，起价为1099美元。&lt;/strong&gt;与前几代XPS 13二合一机型不同，这款XPS是一款带有磁性键盘盒的Surface Pro式平板电脑。这将使该设备能够迅速从平板电脑转变为笔记本电脑，类似于苹果iPad Pro使用Magic Keyboard的方式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [配件商晒iPhone 14 Pro带壳厚度](https://www.cnbeta.com/articles/tech/1306081.htm) | Thu Aug 18 2022 4:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;按照目前传闻，苹果将会在北京时间9月7日凌晨召开秋季新品发布会，iPhone 14系列会是最大的主角。&lt;strong style=&quot;white-space: normal;&quot;&gt;这次iPhone 14系列共四款机型，整体带来了不小的改变，&lt;/strong&gt;尤其是Pro版本在外观和配置上都迎来大幅升级，引起了非常多的讨论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [AMD锐龙7000告别脆弱的针脚：“八爪鱼”设计用心良苦](https://www.cnbeta.com/articles/tech/1306079.htm) | Thu Aug 18 2022 4:34 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;AMD即将在8月30日举行发布会，届时会正式推出锐龙7000处理器，最迟9月底就要上市了，这一代不仅升级了5nm Zen4架构，还升级了全新的AM5插槽，支持DDR5及PCIe 5.0等新技术。伴随AM5插槽升级的还有锐龙7000的全新封装，&lt;strong style=&quot;white-space: normal;&quot;&gt;AMD这次淘汰了用了数十年的PGA针脚式插槽，改为跟Intel处理器一样的LGA触点式，这一点也跟AMD的霄龙处理器统一起来了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Aero为其半私人航空公司筹集了6500万美元资金](https://www.cnbeta.com/articles/tech/1306077.htm) | Thu Aug 18 2022 4:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;自称是 &amp;quot;下一代航空旅行公司&amp;quot;的Aero Technologies今天宣布，它已经筹集了6500万美元&lt;/strong&gt;，其中5000万美元是由Albacore Capital Group共同领导的B轮融资，1500万美元是可转换债券。Expa和Keyframe Capital，以及新投资者Capital One Ventures也参与了这一途径。该公司此前在2021年进行了20美元的A轮融资，现在的估值为3亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新加坡新规多次狙击含糖饮料 居民健康问题首要关注货架上的“隐形糖”](https://www.cnbeta.com/articles/tech/1306075.htm) | Thu Aug 18 2022 3:50 PM 
+- 🎊 [新加坡新规多次狙击含糖饮料 居民健康问题首要关注货架上的“隐形糖”](https://www.cnbeta.com/articles/tech/1306075.htm) | Thu Aug 18 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，新加坡卫生部王乙康在出席活动时宣布，从2023年年底开始新加坡将禁止含糖量与反式脂肪酸较高的饮料进行广告宣传，具体措施将在明年年中公布。王乙康指出，现制饮料、鲜榨果汁及泡泡茶已经逐渐成为新加坡人民摄糖超标源头，为明确饮料中的糖分含量，新加坡卫生部还将采取“Nutri-Grade标签分级制度”，要求售卖的商家在饮料包装及电子菜单中表明糖量与反式脂肪酸含量，进一步推动全民饮食健康化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [传 3nm M2 Pro 芯片将于今年晚些时候开始量产](https://www.cnbeta.com/articles/tech/1306073.htm) | Thu Aug 18 2022 3:49 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据工商时报消息，台积电 TSMC 将于 2022 年底开始为苹果量产 3nm 芯片。M2 Pro 将成为首批使用台积电 3nm 工艺制作的新品。此前，彭博社 Mark Gurman 提到苹果下一代 14 英寸和 16 英寸 MacBook Pro、高端 Mac mini 都会搭载 M2 Pro 芯片。这些新款 Mac 会在今年底或明年初发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [居民睡觉时家中马桶突然着火 谨记切勿超龄使用、长期不用要断电](https://www.cnbeta.com/articles/tech/1306071.htm) | Thu Aug 18 2022 3:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月15日，浙江丽水，一居民家中智能马桶冒烟，物业微型消防站接到火情警报，第一时间赶到现场将火势控制住。&lt;strong style=&quot;white-space: normal;&quot;&gt;随后消防赶到将火扑灭。经了解，户主在家中睡觉时，突然闻到很浓的烟味，起来一看发现智能马桶起火，遂拨打119。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [真的有10亿中国人没坐过飞机？真相很残酷](https://www.cnbeta.com/articles/tech/1306069.htm) | Thu Aug 18 2022 3:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2019年，经济学家李迅雷撰文指出，国内还有10亿人没有坐过飞机，这个数据至今还在流传。真的这么夸张吗？按照当时的最新数据，&lt;strong style=&quot;white-space: normal;&quot;&gt;2018年全国民航旅客运输量约为6亿人次。&lt;/strong&gt;当然，人次不等于人数，因为一个人可以多次坐飞机，而且其中还包括一部分境外乘客。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
