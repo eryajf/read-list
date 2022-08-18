@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [FDA大胆决定引发热议：批准下一代新冠疫苗前无需人体实验](https://www.cnbeta.com/articles/tech/1306097.htm) | Thu Aug 18 2022 7:58 PM 
+- 🕯 [为保流畅度《斯普拉遁3》使用了AMD的FSR技术](https://hot.cnbeta.com/articles/game/1306111.htm) | Thu Aug 18 2022 11:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着8月逐步进入尾声，秋冬季新冠疫苗加强接种的事宜正变得愈发迫切，而美国药品监管采取的大胆决定，也为该国防疫前景增添了不少挑战。据悉，在此前的接种策略评估中，美国FDA拒绝了药厂们提出的“原始毒株+奥秘克戎BA.1”构成的二价疫苗方案，要求药厂们赶紧动手准备能够应对BA.4和BA.5变异株的疫苗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为任天堂年度动作射击大作，《斯普拉遁3》在发售之前提供测试活动，并且在近日提供测试客户端的预载。通过对游戏说明书的简单浏览发现，这款Switch游戏使用了AMD的AMD FSR技术。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [芯片价格下降 有的比雪糕刺客还便宜](https://www.cnbeta.com/articles/tech/1306095.htm) | Thu Aug 18 2022 7:04 PM 
+- 💼 [SUNSOFT宣布两款经典FC游戏重新复活](https://hot.cnbeta.com/articles/game/1306109.htm) | Thu Aug 18 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，“芯片价格雪崩”引发热议，部分芯片从去年高位的200元降至现在的20元一个，对比不久前还有大佬“打飞的”求芯片，仿佛一夜之间，芯片价格就“雪崩”了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日本老牌游戏厂商SUNSOFT于今天（8月19日）凌晨进行了“复活直播”，在本次直播上除了带来昨天就公开的Steam游戏《一揆团结》之外，还公布了两款FC时代的游戏复活，他们分别是《吉米克》和《糊涂蛋》。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [日本最近一个月新冠确诊病例超600万例 多地医疗资源紧张](https://www.cnbeta.com/articles/tech/1306093.htm) | Thu Aug 18 2022 7:02 PM 
+- 💂 [Snap停止开发Pixy自拍无人机](https://www.cnbeta.com/articles/tech/1306107.htm) | Thu Aug 18 2022 11:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近一段时间，日本新冠肺炎疫情持续处于高位。据日本广播协会电视台统计数据，18日，日本单日新增确诊病例超25.5万例，为历史新高，累计确诊超1646万例。最近一个月，日本累计新增确诊病例已经超过了600万例。此外，截至18日的11天中，有9天的单日新增死亡病例超过了200例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;知情人士透露说，Snapchat母公司Snap未来不会再继续开发Pixy自拍无人机。Pixy无人机售价230美元，现有版本仍会继续销售。几个月前Snap刚刚才推出Pixy，它可以飞到用户上方几英尺高的地方，然后自拍照片和视频。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美银：若苹果股价突破2021年12月高点 可能会再涨30%](https://www.cnbeta.com/articles/tech/1306091.htm) | Thu Aug 18 2022 6:59 PM 
+- 🚀 [利润暴跌56%、9个App关停，腾讯经历了啥？](https://www.cnbeta.com/articles/tech/1306105.htm) | Thu Aug 18 2022 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着市场从上半年的跌势中恢复过来，苹果公司股价在过去一个月中上涨了逾18%。美国银行市场策略师认为，如果该股能够突破2021年12月时的峰值，则可能会有更大的上涨空间。美银首席市场技术员Stephen Suttmeier表示，如果苹果股价在逢低时守住157-150美元区域上方或附近，那将形成“看涨头肩形态”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近有关注互联网大厂近况的小伙伴们，应该都能感受到大厂们越来越不对劲了。巅峰时期的大厂们，追求的是什么呢？是逐年翻倍的用户数，是不断进击的营收增长，是干翻友商的新生业务。总之在那个形势下，互联网行业下的公司和人，都过得很滋润，前方是海阔天空，目标自然就定得很远。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Alder Lake-HX刚发布3个月 Intel顶级新U就后继有人了](https://www.cnbeta.com/articles/tech/1306089.htm) | Thu Aug 18 2022 5:46 PM 
+- 🎊 [美国议员化身黑粉头子？特斯拉这波粉圈大战比内娱还精彩](https://www.cnbeta.com/articles/tech/1306103.htm) | Thu Aug 18 2022 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年5月份，Intel发布了全新的Alder Lake-HX 12代酷睿移动平台，首次为笔记本带来桌面级核心，拥有最高8大8小16核心24线程、30MB三级缓存、5GHz频率的豪华规格，基础功耗就有55W。没想到，&lt;strong style=&quot;white-space: normal;&quot;&gt;这才过去3个来月，13代酷睿的Raptor Lake-HX系列就现身了，型号为i5-13600HKX，6大8小14核心20线程，对比i5-12600HX多了2个大核心，达到了i7-12650HX的水平。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8 月 9 号，一个自称 “ 黎明计划 ” 的团体做了个试验。它们驾驶一辆特斯拉，&lt;strong&gt;开启 FSD&lt;/strong&gt;（ 马斯克称其为完全自动驾驶功能 ）进行测试，结果车辆在多次测试中径直撞上&lt;strong&gt;了前方的儿童假人，并且碾压过去。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
