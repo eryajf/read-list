@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [福布斯中国发布2022中国最佳CEO：王传福位列第一](https://www.cnbeta.com/articles/tech/1305927.htm) | Thu Aug 18 2022 7:13 AM 
+- 🕯 [专家：苹果基带芯片真的被高通专利拖了后腿？并不是](https://www.cnbeta.com/articles/tech/1305955.htm) | Thu Aug 18 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;50位入选者的平均年龄为54岁，和去年相同。今年有44位新面孔，来自化工和高端智能制造领域的CEO占比持续上升。&lt;/strong&gt;联合国近期发布的《2022年中世界经济形势与展望》报告称，尚处于疫情恢复期的全球经济可能到了一场新危机的边缘。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果基带芯片的问题一度引发了外界热议。近日，Tantra Analyst的创始人Prakash Sangam发文对此阐述了自己的看法。他认为，一些对苹果的能力深信不疑的分析师和新闻媒体开始找借口，猜测原因不是苹果的无能，而是高通拥有一些模糊的专利。他认为，&lt;strong&gt;苹果调制解调器的延迟是因为高通的专利吗？答案很简单：不是！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [2022年二季度5G手机占有率同比增长超七成](https://www.cnbeta.com/articles/tech/1305925.htm) | Thu Aug 18 2022 7:12 AM 
+- 💼 [YouTube现《GTA6》假广告：现在免费下载玩](https://hot.cnbeta.com/articles/game/1305953.htm) | Thu Aug 18 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国专业的数据智能服务商每日互动发布了 2022 年二季度 5G 手机报告，从激活设备的角度展现二季度 5G 手机市场发展情况。报告显示，国内 5G 手机市场激活终端数量以及市占率依旧保持上涨趋势，市占率增长至 41.7%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《GTA6》一直是玩家们最期待的游戏之一，然而近日有粉丝在油管的广告中发现出现了这么一则“虚假”的广告：现在就能免费下载《GTA6》！为了骗取玩家们的眼球，虚假广告甚至配上了假的《GTA6》和R星的Logo。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究：大陆运动具备遏制氧气并杀死深海生物的能力](https://www.cnbeta.com/articles/science/1305923.htm) | Thu Aug 18 2022 7:12 AM 
+- 💂 [华科联合研发制造，全球首台无人驾驶推土机修路、挖矿都会干](https://www.cnbeta.com/articles/tech/1305951.htm) | Thu Aug 18 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;以前被忽视的一个因素--大陆的位置--有助于使地球的海洋充满支持生命的氧气。大陆运动最终可能产生相反的效果并杀死大多数深海生物。来自加州大学河滨分校的地质学家Andy Ridgwell日前指出：&lt;strong&gt;“大陆漂移看起来很慢，好像没有什么剧烈的变化，但当海洋被引爆时，即使是一个看似微小的事件也可能引发海洋生物的大范围死亡。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;华中科技大学和山推工程机械有限公司（简称“山推”）联合制造的全球首台无人驾驶推土机，历经近百次测试，已能精准执行指令。&lt;/strong&gt;该项目技术负责人、华中科技大学国家数字建造技术创新中心教授周诚告诉记者：无人驾驶推土机研发起始于2019年初，攻关团队冬天在零下十几度的野外进行系统测试，最终实现了推、铲、平、运、集等无人驾驶推土机功能一体化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Redwire公司将于2023年发射首个商业太空温室](https://www.cnbeta.com/articles/science/1305921.htm) | Thu Aug 18 2022 7:12 AM 
+- 🚀 [Switch第一方新作采用FSR技术提升画质](https://www.cnbeta.com/articles/tech/1305949.htm) | Thu Aug 18 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据路透社报道，&lt;strong&gt;Redwire公司周二&lt;a href=&quot;https://redwirespace.com/newsroom/redwire-to-develop-first-commercial-space-greenhouse-to-improve-crop-science-on-earth-and-support-future-space-exploration-missions/&quot; target=&quot;_self&quot;&gt;表示&lt;/a&gt;，它将在明年春季推出首个商业太空温室，以促进地球以外的作物生产研究，并支持探索任务。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然任天堂的Switch主机理论上支持输出1080P 60Fps的画面，但由于其羸弱的性能，&lt;strong style=&quot;white-space: normal;&quot;&gt;大部分游戏游戏都只能以1080P 30Fps，甚至是720P 30Fps的画面运行。&lt;/strong&gt;但现在看来，一项来自AMD的技术，或许将成为Switch游戏画面的救星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究发现现代黄河水系于125万年前开始形成](https://www.cnbeta.com/articles/science/1305919.htm) | Thu Aug 18 2022 7:10 AM 
+- 🎊 [经历漫长等待：好奇号火星车即将迎来提速50%的软件更新](https://www.cnbeta.com/articles/science/1305947.htm) | Thu Aug 18 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;兰州大学与中国地震局地质研究所、中国地震局第一监测中心、日本岛根大学、中国地质大学（武汉）等单位联合，在三门峡盆地中心实施了环境钻探并开展合作研究，&lt;strong&gt;获取了黄河贯通三门峡历史完整的岩芯档案，通过与盆地边缘露头剖面的对比，明确了岩芯108米处河道沉积物的首次出现是黄河在三门峡地区留下的最老印迹。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在现有的任务执行策略下，美国宇航局的好奇号（Curiosity）火星车必须经常停下来检查自身所处的位置。&lt;strong&gt;不过据 New Scientist 报道，即将到来的一项软件更新，将允许其更快速连贯地移动。&lt;/strong&gt;对于迄今服役已十个年头的好奇号来说，该火星车已经远超原计划的两年任务寿命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
