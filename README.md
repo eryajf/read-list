@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求助各位大佬，公司需要建立 openapi 的站点有啥开源项目推荐吗？](https://www.v2ex.com/t/873650#reply0) | Thu Aug 18 2022 1:57 AM
-- 🤗 [Redux 怎么处理嵌套的 selector？真的整糊涂了](https://www.v2ex.com/t/873647#reply0) | Thu Aug 18 2022 1:48 AM
-- 🎭 [对于后端开发，如何学好 CSS？](https://www.v2ex.com/t/873641#reply20) | Thu Aug 18 2022 1:41 AM
-- 🥷 [Happy birthday to, 35-years-old, 3-years-unemployed and 4-years-not-in-a-relationship myself.](https://www.v2ex.com/t/873640#reply7) | Thu Aug 18 2022 1:39 AM
-- 🐵 [vite 编译速度没有宣传的那么快啊！](https://www.v2ex.com/t/873639#reply3) | Thu Aug 18 2022 1:32 AM<!-- v2ex:END -->
+- 🥸 [“薪资期望 14～ 28k”这个范围是不是有点宽？](https://www.v2ex.com/t/873699#reply1) | Thu Aug 18 2022 4:08 AM
+- 🤗 [父类的方法返回子类的对象问题](https://www.v2ex.com/t/873698#reply0) | Thu Aug 18 2022 4:07 AM
+- 🎭 [Minio+Nginx+Docker 控制台登陆 401 问题，请问如何解决？](https://www.v2ex.com/t/873692#reply4) | Thu Aug 18 2022 3:42 AM
+- 🥷 [如何监听浏览器中同一域名的 tab 全部关闭？](https://www.v2ex.com/t/873662#reply10) | Thu Aug 18 2022 2:26 AM
+- 🐵 [有没有把 exe 打包成 uwp 程序的方法，用来双开微信](https://www.v2ex.com/t/873651#reply18) | Thu Aug 18 2022 2:04 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
