@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于设置一个定时任务还是多个定时任务问题](https://www.v2ex.com/t/873811#reply0) | Thu Aug 18 2022 10:48 AM
-- 🤗 [如何切换已过期的开发账号所有者？](https://www.v2ex.com/t/873810#reply1) | Thu Aug 18 2022 10:46 AM
-- 🎭 [想用对象存储的自定义域名，但又不想备案，有啥办法吗](https://www.v2ex.com/t/873806#reply7) | Thu Aug 18 2022 10:06 AM
-- 🥷 [有没有 K8s 的交流群，顺便求教一个问题](https://www.v2ex.com/t/873805#reply3) | Thu Aug 18 2022 9:52 AM
-- 🐵 [为什么公司的人写代码都无视 IDE 的警告提示？](https://www.v2ex.com/t/873803#reply28) | Thu Aug 18 2022 9:43 AM<!-- v2ex:END -->
+- 🥸 [helm 模版或 golang 模版，如何实现 Java 中 stream.map.join 的效果？](https://www.v2ex.com/t/873822#reply1) | Thu Aug 18 2022 12:04 PM
+- 🤗 [新 UP 视频自荐 四个我一定会安装的浏览器，你也一定要试试～](https://www.v2ex.com/t/873818#reply0) | Thu Aug 18 2022 11:48 AM
+- 🎭 [关于设置一个定时任务还是多个定时任务问题](https://www.v2ex.com/t/873811#reply0) | Thu Aug 18 2022 10:48 AM
+- 🥷 [如何切换已过期的开发账号所有者？](https://www.v2ex.com/t/873810#reply1) | Thu Aug 18 2022 10:46 AM
+- 🐵 [想用对象存储的自定义域名，但又不想备案，有啥办法吗](https://www.v2ex.com/t/873806#reply7) | Thu Aug 18 2022 10:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
