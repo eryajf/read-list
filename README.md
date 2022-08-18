@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Understanding LSTM Networks（理解LSTM网络-colah‘s blog）](https://juejin.cn/post/7133019233583104013) | Thu Aug 18 2022 1:18 AM 
+- 🤗 [Promise.allSettled 的 Polyfill 处理](https://juejin.cn/post/7133033579210080270) | Thu Aug 18 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 获取更多资讯，赶快关注公众号&lpar;名称：智能制造与智能调度，公众号：deeprlscheduler&rpar;吧！ @[TOC] 1. 循环神经网络   人类不 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 如果因为浏览器太过老旧，不支持最新的 Promise.allSettled API，我们可以使用 pol 
     </details> 
 
-- 🎡 [博观约取系列 ～ 探测Bert Finetune对向量空间的影响](https://juejin.cn/post/7133013953851949063) | Thu Aug 18 2022 12:57 AM 
+- 🎡 [ES6+前世今生](https://juejin.cn/post/7133032358223020045) | Thu Aug 18 2022 2:09 AM 
     <details><summary>展开描述 ...</summary> 
-    Bert Finetune一定比直接使用预训练模型效果好么？微调究竟对Bert的向量空间产生了哪些影响？结合DirectProb等探测任务，我们一起来看下BERT微调对向量空间的影响 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 命名 JavaScript标准的官方名称是“ＥＣＭＡＳｃｒｉｐｔ”（简称ＥＳ）。一般情况下是用有序的数字 
     </details> 
 
-- 🕯 [中文NER的那些事儿4. 数据增强在NER的尝试](https://juejin.cn/post/7133012941149831199) | Thu Aug 18 2022 12:53 AM 
+- 🕯 [Linux网络服务之SSH（远程访问及控制）](https://juejin.cn/post/7132857486066860046) | Wed Aug 17 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
-    这一章我们不聊模型来聊聊数据，结合一些业界的案例和新鲜出炉的NLP数据增强总数，我们来聊聊有哪些数据增强方案，其中哪些适用于NER任务。代码实现详见ChineseNER~ 
+    SSH远程管理 SSH（Secure Shell）是一种安全通道协议，主要用来实现字符界面的远程登录、远程复制等功能 SSH协议对通信双方的数据传输进行了加密处理，其中包括用户登录时输入的用户口令，因 
     </details> 
 
-- 🚀 [软件工程——问题定义及指标制定方法](https://juejin.cn/post/7132866725032230949) | Wed Aug 17 2022 3:26 PM 
+- 🚀 [配置网关服务器搭建DNS分离解析](https://juejin.cn/post/7132854087594278919) | Wed Aug 17 2022 2:37 PM 
     <details><summary>展开描述 ...</summary> 
-    本文按照今日学习的*问题分解和质量指标*讲座为为出发点，介绍问题定义、指标制定的方法，并以当前目标为案例进行实际测试。 
+    1.为网关服务器配置双网卡 在关机状态下在添加一块网卡，重启系统 查看网卡是否配置成功，并设置网卡 2.安装bind软件包 3.修改主配置文件 4.修改区域配置文件 5.修改区域数据配置文件 外网：  
     </details> 
 
-- 💪 [【论文阅读】AROPE：Arbitrary-Order Proximity Preserved Network Embedding](https://juejin.cn/post/7132857893501534221) | Wed Aug 17 2022 2:52 PM 
+- 💪 [Spring Boot + Canal 实现数据库实时监控](https://juejin.cn/post/7132843053768769567) | Wed Aug 17 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 前言 简介 原文链接：https://dl.acm.org/doi/10.1145/3219819.32 
+    早期，阿里巴巴B2B公司因为存在杭州和美国双机房部署，存在跨机房同步的业务需求。不过早期的数据库同步业务，主要是基于trigger的方式获取增量变更，不过从2010年开始，阿里系公司开始逐步的尝试基于 
     </details> 
 <!-- juejin:END -->
 ### 少数派
