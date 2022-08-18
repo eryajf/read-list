@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [为避免给猴子带来负面影响 世卫将猴痘病毒重命名](https://www.cnbeta.com/articles/tech/1306053.htm) | Thu Aug 18 2022 1:39 PM 
+- 🕯 [实验室测试显示一种新抗体能中和所有已知的新冠病毒变种](https://www.cnbeta.com/articles/science/1306057.htm) | Thu Aug 18 2022 2:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;随着COVID-19大流行的持续，SARS-CoV-2的较新变种一直在进化，以逃避我们身体对疫苗接种或先前感染所产生的抗体。&lt;/strong&gt;突破性的病例已经产生，而曾经有效的抗体治疗也随着时间的推移变得不那么有效。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [新专利显示寻找完美尺寸的Apple Watch表带将更加容易](https://www.cnbeta.com/articles/tech/1306055.htm) | Thu Aug 18 2022 2:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;要找到适合你手腕的Apple Watch表带尺寸，肯定有更好的方法，而不是尝试无数的表带，或者打印纸质指南，&lt;strong&gt;苹果认为它有答案。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [为避免给猴子带来负面影响 世卫将猴痘病毒重命名](https://www.cnbeta.com/articles/tech/1306053.htm) | Thu Aug 18 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;北京时间8月17日消息，8月13日下午世界卫生组织在Twitter公布将monkeypox（猴痘）变体命名为Clades I、IIa 和IIb。并在评论回复称对新发现的病毒、相关疾病和病毒变种进行命名，以避免对任何文化、社会、国家、地区、专业或种族群体造成冒犯，并尽量减少对贸易、旅行、旅游或动物福利的负面影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NASA全力以赴为UFO研究做准备](https://www.cnbeta.com/articles/science/1306051.htm) | Thu Aug 18 2022 1:23 PM 
+- 🚀 [NASA全力以赴为UFO研究做准备](https://www.cnbeta.com/articles/science/1306051.htm) | Thu Aug 18 2022 1:23 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;美国NASA在6月宣布，它将对UFO（&amp;quot;不明飞行物 &amp;quot;的简称）进行科学研究&lt;/strong&gt;，它们最近被重新命名为UAP（&amp;quot;不明空中现象&amp;quot;）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [为何众多车厂对与华为合作充满了警惕？](https://www.cnbeta.com/articles/tech/1306049.htm) | Thu Aug 18 2022 1:21 PM 
+- 🎊 [为何众多车厂对与华为合作充满了警惕？](https://www.cnbeta.com/articles/tech/1306049.htm) | Thu Aug 18 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近年来，华为在美国的持续加码制裁制裁之下，使得华为的智能手机及电信业务开展受到了较大的影响，特别是原本营收占过半的智能手机业务大幅下滑，华为也被迫在2020年底出售了荣耀。在此背景之下，华为近两年来开始不断加大对于“受禁令影响较小”的汽车领域的投入，希望汽车业务能够成为华为新的增长引擎。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [魏牌高管谈辅助驾驶：不能以生命代价挑战花式营销](https://www.cnbeta.com/articles/tech/1306047.htm) | Thu Aug 18 2022 12:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月18日消息，今日，魏牌CMO乔心昱在微博上讨论了智能辅助驾驶的问题。乔心昱表示，业内都说2022是激光雷达上车元年，我看并不尽然。目前很多智能辅助驾驶并没有配合激光雷达，给大家分享几个小贴士：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [特斯拉自研7nm超级芯片 可取代NVIDIA安培GPU](https://www.cnbeta.com/articles/tech/1306045.htm) | Thu Aug 18 2022 12:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉的自动驾驶技术开发走在前列，无疑，这背后有一套规模庞大的超级计算机用作开发训练平台。日前，特斯拉工程总经理Tim Zaman分享了特斯拉这套人工智能训练系统的最新规格，一年前配备了5760颗NVIDIA A100 GPU，如今增加了1600颗，达到7360，幅度是28%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
