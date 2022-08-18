@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [木卫二的部分冰壳 可能是由”脆弱的冰“构成](http://jandan.net/p/111153) | Wed Aug 17 2022 7:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    在海洋深处形成冰，再像逆雪一样上浮到海面，形成蓬松冰晶堆积物 
-    </details> 
-
-- 🙉 [苏格兰 世界上首个向所有人免费提供经期用品的政治体](http://jandan.net/p/111156) | Wed Aug 17 2022 5:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    调查发现苏格兰学校约有四分之一的受访者难以获得经期产品。 
-    </details> 
-
-- 🎉 [高温致欧洲河流干涸 水下的警世饥饿石重新浮出水面](http://jandan.net/p/111150) | Wed Aug 17 2022 3:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    “过去500 年来都没有类似于2018年的大旱。但我认为今年更糟。” 
-    </details> 
-
-- 🐲 [今日带货：煎蛋16周年纪念款T恤](http://jandan.net/p/111155) | Wed Aug 17 2022 3:34 AM 
+- 🚀 [今日好价 0818](http://jandan.net/p/111165) | Thu Aug 18 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
--  [去年8月8日人类第一次在实验室内为核聚变成功”点火“ 但今年所有重复实验都失败了](http://jandan.net/p/111152) | Tue Aug 16 2022 10:45 AM 
+- 🙉 [发霉啦：今天，老师布置作业让我们做一个关于这个夏天的PPT](http://jandan.net/p/111163) | Thu Aug 18 2022 2:54 AM 
     <details><summary>展开描述 ...</summary> 
-    我们不知道那些是随机条件导致了可持续的聚变反应 
+    干脆以后周四更吧 
+    </details> 
+
+- 🎉 [木卫二的部分冰壳 可能是由”脆弱的冰“构成](http://jandan.net/p/111153) | Wed Aug 17 2022 7:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    在海洋深处形成冰，再像逆雪一样上浮到海面，形成蓬松冰晶堆积物 
+    </details> 
+
+- 🐲 [苏格兰 世界上首个向所有人免费提供经期用品的政治体](http://jandan.net/p/111156) | Wed Aug 17 2022 5:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    调查发现苏格兰学校约有四分之一的受访者难以获得经期产品。 
+    </details> 
+
+-  [高温致欧洲河流干涸 水下的警世饥饿石重新浮出水面](http://jandan.net/p/111150) | Wed Aug 17 2022 3:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    “过去500 年来都没有类似于2018年的大旱。但我认为今年更糟。” 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
