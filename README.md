@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [传部分Intel 700系主板可解锁i9-13900K的350W极限性能模式](https://www.cnbeta.com/articles/tech/1306005.htm) | Thu Aug 18 2022 9:38 AM 
+- 🕯 [美国《降低通货膨胀法案》拒绝补贴众多韩国EV车型](https://www.cnbeta.com/articles/tech/1306027.htm) | Thu Aug 18 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;匈牙利科技媒体 ProHardver 报道称 —— &lt;strong&gt;定于今年晚些时候到来的英特尔 13 代酷睿 i9 台式 CPU 产品线，将迎来出厂新增的超频模式。&lt;/strong&gt;具体说来是，在部分 700 系列主板上，Raptor Lake-S 酷睿 i9-13900K 处理器将能够启用所谓的“350W 极限性能模式”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国总统拜登签署《降低通胀法案》之后，韩国方面传出消息，从当地时间8月16日起，美国停止为非在北美组装的电动汽车（EV）支付补贴。美国政府公布了有资格获得补贴的电动汽车清单。到今年年底，仅在北美组装的21款车型将获得最高7500美元的补贴。该清单不包括现代汽车集团在美国市场销售的五款车型——IONIQ5、KonaEV、GenesisGV60、EV6和NiroEV。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英特尔Arc 580性能曝光：接近GeForce RTX 3050](https://www.cnbeta.com/articles/tech/1306003.htm) | Thu Aug 18 2022 9:31 AM 
+- 💼 [LibreOffice 7.4发布 首次支持WebP 还有许多其他改进](https://www.cnbeta.com/articles/soft/1306025.htm) | Thu Aug 18 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔 Arc 580 是基于 Xe-HPG “Alchemist” 架构的入门级桌面显卡，市场定位介于 A380 和 A750 之间。该显卡装备了更大的 6nm DG2-512 芯片，16 个 Xe Cores，SIMD 数量是 A380 的两倍，并配有 2048 个统一着色器。该显卡拥有 128-bit 总线，8GB 的 GDDR6 显存，16Gbps 的速率能够产生 256GB/s 的带宽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;LibreOffice 7.4今天发布了，作为这个开源的、跨平台的办公套件的最新重大更新。这个领先的自由软件办公套件现在首次开始支持WebP图像，并对其各种组件进行了多种改进。这一版本还进行了许多UI/UX的改进工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1306025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软在Windows 11 Build 25182中删除了之前新出现的任务栏动画特效](https://www.cnbeta.com/articles/tech/1306001.htm) | Thu Aug 18 2022 9:29 AM 
+- 💂 [报告预测印度或成为全球第二大半导体消费市场](https://www.cnbeta.com/articles/tech/1306023.htm) | Thu Aug 18 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;似乎微软放弃了它在Windows 11 build 25179中测试的新任务栏动画。正如@PhantomOfEarth所发现的，Windows 11 build 25182删除了更新的放大图标动画，并恢复了旧的“升起”效果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;印度电子与半导体协会&lpar;IESA&rpar;与Counterpoint联合编制的《2019-2026年印度半导体市场报告》于近日发布，根据该报告预测，印度半导体市场在2021-2026年间的累计消费量将达到3000亿美元，有望成为全球第二大半导体消费市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [技术支持骗子正在利用带有微软logo的USB驱动器来骗取用户](https://www.cnbeta.com/articles/tech/1305999.htm) | Thu Aug 18 2022 9:28 AM 
+- 🚀 [特斯拉中国制造Model 3即将全系换装宁德时代M3P电池 续航增加](https://www.cnbeta.com/articles/tech/1306021.htm) | Thu Aug 18 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;通过使用微软的名字来欺骗潜在的受害者在技术支持骗子的名单上总是名列前茅。FBI最近的一份报告指出，这些骗局仍相当活跃，即使在今天也是如此。在日前的一篇报道中，Sky News称其被发送了一个带有微软品牌的欺诈性USB驱动器。它们是由来自Atheniem的网络安全顾问Martin Pitman发现的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月18日下午消息，两位消息人士透露，特斯拉即将推出新款Model 3。新版本Model 3全面增配，最大亮点是全系换装了宁德时代提供的M3P电池，续航能力至少有10%提升。此前，有媒体报道，中国制造Model Y确定换装宁德时代M3P电池，搭载的是72度电池包。宁德时代将在今年第四季度向特斯拉供应M3P电池，而该版本Model Y将于明年初上市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Intel：明年的​Sapphire Rapids 60核CPU将改变游戏规则](https://www.cnbeta.com/articles/tech/1305997.htm) | Thu Aug 18 2022 9:25 AM 
+- 🎊 [米哈游《崩坏：星穹铁道》新EP公布 预约量破250万](https://hot.cnbeta.com/articles/game/1306019.htm) | Thu Aug 18 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在Intel的处理器中，桌面及移动端的酷睿处理器已经恢复了竞争力，随着12代酷睿升级Intel 7工艺及异构架构，现在无惧AMD的Zen3、Zen4处理器，但是在服务器级的至强处理器，Sapphire Rapids跳票一年多，影响了布局。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久，米哈游新作《绝区零》开启了首轮测试，并已经顺利结束，口碑非常不错，这也是《原神》之后的又一力作。除了《绝区零》之外，&lt;strong style=&quot;white-space: normal;&quot;&gt;米哈游同时还在制作一款3D回合制策略RPG游戏——《崩坏：星穹铁道》。&lt;/strong&gt;该游戏此前也已经进行过玩家测试，官方今天还公布了全新的EP视频，提前为我们展示了一些人物和场景的设计。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
