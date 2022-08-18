@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android—以面试官要求手写HashMap](https://juejin.cn/post/7133122126374469639) | Thu Aug 18 2022 7:57 AM 
+- 🤗 [百度指数 Cipher-Text、百度翻译 Acs-Token 逆向分析](https://juejin.cn/post/7133151365806686245) | Thu Aug 18 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 上一篇提到：Android—以面试角度剖析HashMap源码，分析了HashMap源码。为了加深印象，因此这篇将会实现手写HashMap！ 话不多说，直接开始！（结合上一篇一起看效果更佳哟） 
+    ![1]&lpar;https://s2.loli.net/2022/08/12/Jl6EfUeFshMjZKc.png&rpar; &gt; K 哥之前写过一篇关于百度翻译逆向的文章，也在 bilibili 上出过相应的 
     </details> 
 
-- 🎡 [RabbitMQ第二话 -- Springboot基于四种Exchange&lpar;Direct、Fanout、Topic、Heders、延时队列&rpar;的实现和多虚拟主机下](https://juejin.cn/post/7133033631702286372) | Thu Aug 18 2022 2:13 AM 
+- 🎡 [火爆全网的 Evil.js 源码解读](https://juejin.cn/post/7133134875426553886) | Thu Aug 18 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 本文主要分享RabbitMQ exchange类型的功能和使用、RabbitMQ延时队列、一个springboot服务发送消息到多虚拟主机 1.R 
+    什么？黑心996公司要让你提桶跑路了？想在离开前给你们的项目留点小礼物？偷偷地把本项目引入你们的项目吧，你们的项目会有但不仅限于如下的神奇效果：当数组长度可以被7整除时…… 
     </details> 
 
-- 🕯 [CMake include_directories 和 target_include_directories，头文件的搜索顺序](https://juejin.cn/post/7133033533072736269) | Thu Aug 18 2022 2:13 AM 
+- 🕯 [jdk8 | Function＜T,R＞实践应用](https://juejin.cn/post/7133124274855870471) | Thu Aug 18 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 头文件搜索顺序 先说结论，编译器会按照 CMake 脚本给出的 include 路径顺序从头到尾（从左往右）依次搜索，如果在前面找到了相应的头文 
+    对于大多数开发者而言，灵活运用基于函数式编程依然窃取，倘若灵活使用jdk8的相关函数式编程，可以有效精简我们的冗余代码，使得我们的代码可以更灵活的复用。这边，今天来谈谈JDK8中的Function。 
     </details> 
 
-- 🚀 [湖仓一体方案有很多，为何偶数的实时湖仓脱颖而出？](https://juejin.cn/post/7133033506032058405) | Thu Aug 18 2022 2:13 AM 
+- 🚀 [PyTorch指定GPU进行训练](https://juejin.cn/post/7133115471431204871) | Thu Aug 18 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-    近十余年，移动互联网的高速发展给互联网用户提供了更便捷的服务途径，不管是在地铁、饭店还是室外，用户都可以随时通过手机、pad等移动设备连接到高速的移动网络，实现购物、社交、商务会议等各种网络服务。与此 
+    原文链接 1直接终端中设定： CUDA_VISIBLE_DEVICES=1 python main. 
     </details> 
 
-- 💪 [yarn 队列标签配置及使用](https://juejin.cn/post/7133033379049504804) | Thu Aug 18 2022 2:12 AM 
+- 💪 [令牌桶与预热算法](https://juejin.cn/post/7133115012641456136) | Thu Aug 18 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 配置标签nodelabel yarn-site.xml yarn.node-labels.enabled: true yarn.node-labe 
+    “预热”&lpar;Warm Up&rpar;一词广泛的出现在工科领域和.....健身领域，其基本表现都是：都是运行机器一段时间，已使其达到最大性能的状态。例如： 在冬天提前发动汽车，让引擎充分被汽油润滑... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
