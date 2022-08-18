@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [CalDigit TS4 评测：如何用一根雷电 4 线驱动 2 块最高规格的 XDR？](https://sspai.com/post/75166) | Thu Aug 18 2022 6:30 AM 
+- 👹 [城市漫步指南：如果故宫是一座围城](https://sspai.com/post/72464) | Thu Aug 18 2022 7:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    无论是在西方还是东方，各个文化在进行文化创作时，总绕不开一些历史相关的题材。而这一类题材中很重要的一类就是还原当时的生活图景拍成剧集，所谓时代剧。时代剧（英语：PeriodDrama、CostumeD ...&lt;a href=&quot;https://sspai.com/post/72464&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [CalDigit TS4 评测：如何用一根雷电 4 线驱动 2 块最高规格的 XDR？](https://sspai.com/post/75166) | Thu Aug 18 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     TS4 的强悍之处，在于它几乎一次性满足了绝大部分专业用户对扩展坞的所有期待，并且完美契合了我基于 14 寸 MacBook Pro 搭建桌面环境的一切需求。&lt;a href=&quot;https://sspai.com/post/75166&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [最好看的 Q1！少数派 Keychron 联名 Q1 键盘体验+改造](https://sspai.com/post/75188) | Thu Aug 18 2022 3:00 AM 
+- 🤭 [最好看的 Q1！少数派 Keychron 联名 Q1 键盘体验+改造](https://sspai.com/post/75188) | Thu Aug 18 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     作为一把典型的「量产客制化」键盘，本视频会分享我对于少数派 Keychron 联名 Q1 的简单体验和改造过程。&lt;a href=&quot;https://sspai.com/post/75188&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：黑鲨 5 高能版发布、英特尔推出 NUC 12 Pro 等](https://sspai.com/post/75213) | Thu Aug 18 2022 12:45 AM 
+- 🥸 [派早报：黑鲨 5 高能版发布、英特尔推出 NUC 12 Pro 等](https://sspai.com/post/75213) | Thu Aug 18 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
     宏碁发布掠夺者刀锋 300SE 游戏笔记本、Spotify 延长免费体验期等。&lt;a href=&quot;https://sspai.com/post/75213&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [这是我们迈出的一大步：少数派「面向 Z 世代的家」线下活动回顾](https://sspai.com/post/75192) | Wed Aug 17 2022 8:58 AM 
+- 🙉 [这是我们迈出的一大步：少数派「面向 Z 世代的家」线下活动回顾](https://sspai.com/post/75192) | Wed Aug 17 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
     十岁之前的少数派喜欢创新，用一些别开生面的视角或方式去解读那些与我们息息相关的新老事物，而十岁之后的少数派开始常提「突破」。我们当然没有变革行业的雄心壮志，试图努力多一些不同的尝试——无论是补足过去「 ...&lt;a href=&quot;https://sspai.com/post/75192&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [一派 | 编辑部都用什么 app 看天气？](https://sspai.com/post/75189) | Wed Aug 17 2022 8:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    一张截图、两位飘红的数字、三天内不见降水的预报……足以说明一切。&lt;a href=&quot;https://sspai.com/post/75189&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
