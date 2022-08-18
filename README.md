@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美团推出多款机器人 无人机“3公里15分钟”送货到家](https://www.cnbeta.com/articles/tech/1305989.htm) | Thu Aug 18 2022 9:17 AM 
+- 🕯 [传部分Intel 700系主板可解锁i9-13900K的350W极限性能模式](https://www.cnbeta.com/articles/tech/1306005.htm) | Thu Aug 18 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月18日，美团在2022世界机器人大会上，展示多款在仓、在途、在楼机器人产品。本次大会吸引了130余家企业携500余件展品亮相，30余款全球首发新品将在博览会现场集中发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;匈牙利科技媒体 ProHardver 报道称 —— &lt;strong&gt;定于今年晚些时候到来的英特尔 13 代酷睿 i9 台式 CPU 产品线，将迎来出厂新增的超频模式。&lt;/strong&gt;具体说来是，在部分 700 系列主板上，Raptor Lake-S 酷睿 i9-13900K 处理器将能够启用所谓的“350W 极限性能模式”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [45℃！重庆北碚又创造高温新纪录](https://www.cnbeta.com/articles/tech/1305987.htm) | Thu Aug 18 2022 9:16 AM 
+- 💼 [英特尔Arc 580性能曝光：接近GeForce RTX 3050](https://www.cnbeta.com/articles/tech/1306003.htm) | Thu Aug 18 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据@中央气象台 8月18日消息，&lt;strong style=&quot;white-space: normal;&quot;&gt;45℃，重庆北碚又创造了新的纪录。&lt;/strong&gt;根据11时-16时2418个国家级气象观测站数据，在全国最高气温地区TOP10中，重庆占据7席，其他三席被重庆邻省四川和湖北占据。需要说明的是，说明一下，&lt;strong style=&quot;white-space: normal;&quot;&gt;45℃破了北碚本站的历史极值，也是本轮高温国家观测站出现的最高气温纪录。&lt;/strong&gt;但并不是国内最高气温纪录，毕竟还有变态热的新疆吐鲁番，最高气温接近50℃。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔 Arc 580 是基于 Xe-HPG “Alchemist” 架构的入门级桌面显卡，市场定位介于 A380 和 A750 之间。该显卡装备了更大的 6nm DG2-512 芯片，16 个 Xe Cores，SIMD 数量是 A380 的两倍，并配有 2048 个统一着色器。该显卡拥有 128-bit 总线，8GB 的 GDDR6 显存，16Gbps 的速率能够产生 256GB/s 的带宽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [恒驰总裁回应或被并购：不存在 天津工厂停工是谣言](https://www.cnbeta.com/articles/tech/1305985.htm) | Thu Aug 18 2022 9:16 AM 
+- 💂 [微软在Windows 11 Build 25182中删除了之前新出现的任务栏动画特效](https://www.cnbeta.com/articles/tech/1306001.htm) | Thu Aug 18 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为恒大汽车重金投资后的首款量产车，恒驰5近期已经上市，甚至还首创了公证购车模式，引起非常大的关注。但是新车上市没多久，日前就有消息称，&lt;strong style=&quot;white-space: normal;&quot;&gt;恒大汽车可能将被另一家汽车公司并购。&lt;/strong&gt;&lt;strong style=&quot;white-space: normal;&quot;&gt;甚至因为备料不足，恒驰天津工厂也将于8月18日停工。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;似乎微软放弃了它在Windows 11 build 25179中测试的新任务栏动画。正如@PhantomOfEarth所发现的，Windows 11 build 25182删除了更新的放大图标动画，并恢复了旧的“升起”效果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究称过半玩家会因游戏生气 还有的对亲人大打出手](https://hot.cnbeta.com/articles/game/1305983.htm) | Thu Aug 18 2022 9:15 AM 
+- 🚀 [技术支持骗子正在利用带有微软logo的USB驱动器来骗取用户](https://www.cnbeta.com/articles/tech/1305999.htm) | Thu Aug 18 2022 9:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据外媒Gamerant消息，多年来的大量研究表明，电子游戏暴力与现实世界的暴力行为之间没有直接联系，但这并不意味着电子游戏不会让人生气。由于其竞技性，无论玩家的对手是真人还是电脑，都难免会因失败或角色死亡而生气。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;通过使用微软的名字来欺骗潜在的受害者在技术支持骗子的名单上总是名列前茅。FBI最近的一份报告指出，这些骗局仍相当活跃，即使在今天也是如此。在日前的一篇报道中，Sky News称其被发送了一个带有微软品牌的欺诈性USB驱动器。它们是由来自Atheniem的网络安全顾问Martin Pitman发现的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Windows 11微软商店支持直接下载游戏 无需跳转Xbox应用程序](https://www.cnbeta.com/articles/tech/1305979.htm) | Thu Aug 18 2022 9:02 AM 
+- 🎊 [Intel：明年的​Sapphire Rapids 60核CPU将改变游戏规则](https://www.cnbeta.com/articles/tech/1305997.htm) | Thu Aug 18 2022 9:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着 Build 25182 预览编译版本的发布，Windows 11 上的微软商店终于迎来了一项改进 —— &lt;strong&gt;玩家们将能够直接通过 Microsoft Store 下载游戏， 而无需麻烦地跳转至 Xbox 应用程序。&lt;/strong&gt;此外 Dev 通道的 Insider 测试者们，还会在 22207.1401.X 版本的 Microsoft Store 搜索结果中看到屏幕截图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在Intel的处理器中，桌面及移动端的酷睿处理器已经恢复了竞争力，随着12代酷睿升级Intel 7工艺及异构架构，现在无惧AMD的Zen3、Zen4处理器，但是在服务器级的至强处理器，Sapphire Rapids跳票一年多，影响了布局。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
