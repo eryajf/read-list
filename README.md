@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [在线旅游公司招聘长期实习（兼职）岗位 - 在校或毕业两年内均可](https://www.v2ex.com/t/873620#reply1) | Wed Aug 17 2022 8:04 PM
-- 🤗 [Linux +mac 如何提升开发体验？](https://www.v2ex.com/t/873608#reply4) | Wed Aug 17 2022 3:45 PM
-- 🎭 [Github contribution 中不显示我对自己 repo 的 commit](https://www.v2ex.com/t/873603#reply7) | Wed Aug 17 2022 3:23 PM
-- 🥷 [请问各位 V 友，有没有类似聚合招聘的网站](https://www.v2ex.com/t/873602#reply0) | Wed Aug 17 2022 3:17 PM
-- 🐵 [nginx 双向认证的几个问题！](https://www.v2ex.com/t/873598#reply0) | Wed Aug 17 2022 3:02 PM<!-- v2ex:END -->
+- 🥸 [求助各位大佬，公司需要建立 openapi 的站点有啥开源项目推荐吗？](https://www.v2ex.com/t/873650#reply0) | Thu Aug 18 2022 1:57 AM
+- 🤗 [Redux 怎么处理嵌套的 selector？真的整糊涂了](https://www.v2ex.com/t/873647#reply0) | Thu Aug 18 2022 1:48 AM
+- 🎭 [对于后端开发，如何学好 CSS？](https://www.v2ex.com/t/873641#reply20) | Thu Aug 18 2022 1:41 AM
+- 🥷 [Happy birthday to, 35-years-old, 3-years-unemployed and 4-years-not-in-a-relationship myself.](https://www.v2ex.com/t/873640#reply7) | Thu Aug 18 2022 1:39 AM
+- 🐵 [vite 编译速度没有宣传的那么快啊！](https://www.v2ex.com/t/873639#reply3) | Thu Aug 18 2022 1:32 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
