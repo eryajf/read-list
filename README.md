@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [专家：苹果基带芯片真的被高通专利拖了后腿？并不是](https://www.cnbeta.com/articles/tech/1305955.htm) | Thu Aug 18 2022 8:20 AM 
+- 🕯 [美团推出多款机器人 无人机“3公里15分钟”送货到家](https://www.cnbeta.com/articles/tech/1305989.htm) | Thu Aug 18 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果基带芯片的问题一度引发了外界热议。近日，Tantra Analyst的创始人Prakash Sangam发文对此阐述了自己的看法。他认为，一些对苹果的能力深信不疑的分析师和新闻媒体开始找借口，猜测原因不是苹果的无能，而是高通拥有一些模糊的专利。他认为，&lt;strong&gt;苹果调制解调器的延迟是因为高通的专利吗？答案很简单：不是！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月18日，美团在2022世界机器人大会上，展示多款在仓、在途、在楼机器人产品。本次大会吸引了130余家企业携500余件展品亮相，30余款全球首发新品将在博览会现场集中发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [YouTube现《GTA6》假广告：现在免费下载玩](https://hot.cnbeta.com/articles/game/1305953.htm) | Thu Aug 18 2022 8:18 AM 
+- 💼 [45℃！重庆北碚又创造高温新纪录](https://www.cnbeta.com/articles/tech/1305987.htm) | Thu Aug 18 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《GTA6》一直是玩家们最期待的游戏之一，然而近日有粉丝在油管的广告中发现出现了这么一则“虚假”的广告：现在就能免费下载《GTA6》！为了骗取玩家们的眼球，虚假广告甚至配上了假的《GTA6》和R星的Logo。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据@中央气象台 8月18日消息，&lt;strong style=&quot;white-space: normal;&quot;&gt;45℃，重庆北碚又创造了新的纪录。&lt;/strong&gt;根据11时-16时2418个国家级气象观测站数据，在全国最高气温地区TOP10中，重庆占据7席，其他三席被重庆邻省四川和湖北占据。需要说明的是，说明一下，&lt;strong style=&quot;white-space: normal;&quot;&gt;45℃破了北碚本站的历史极值，也是本轮高温国家观测站出现的最高气温纪录。&lt;/strong&gt;但并不是国内最高气温纪录，毕竟还有变态热的新疆吐鲁番，最高气温接近50℃。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华科联合研发制造，全球首台无人驾驶推土机修路、挖矿都会干](https://www.cnbeta.com/articles/tech/1305951.htm) | Thu Aug 18 2022 8:18 AM 
+- 💂 [恒驰总裁回应或被并购：不存在 天津工厂停工是谣言](https://www.cnbeta.com/articles/tech/1305985.htm) | Thu Aug 18 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;华中科技大学和山推工程机械有限公司（简称“山推”）联合制造的全球首台无人驾驶推土机，历经近百次测试，已能精准执行指令。&lt;/strong&gt;该项目技术负责人、华中科技大学国家数字建造技术创新中心教授周诚告诉记者：无人驾驶推土机研发起始于2019年初，攻关团队冬天在零下十几度的野外进行系统测试，最终实现了推、铲、平、运、集等无人驾驶推土机功能一体化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为恒大汽车重金投资后的首款量产车，恒驰5近期已经上市，甚至还首创了公证购车模式，引起非常大的关注。但是新车上市没多久，日前就有消息称，&lt;strong style=&quot;white-space: normal;&quot;&gt;恒大汽车可能将被另一家汽车公司并购。&lt;/strong&gt;&lt;strong style=&quot;white-space: normal;&quot;&gt;甚至因为备料不足，恒驰天津工厂也将于8月18日停工。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Switch第一方新作采用FSR技术提升画质](https://www.cnbeta.com/articles/tech/1305949.htm) | Thu Aug 18 2022 8:17 AM 
+- 🚀 [研究称过半玩家会因游戏生气 还有的对亲人大打出手](https://hot.cnbeta.com/articles/game/1305983.htm) | Thu Aug 18 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然任天堂的Switch主机理论上支持输出1080P 60Fps的画面，但由于其羸弱的性能，&lt;strong style=&quot;white-space: normal;&quot;&gt;大部分游戏游戏都只能以1080P 30Fps，甚至是720P 30Fps的画面运行。&lt;/strong&gt;但现在看来，一项来自AMD的技术，或许将成为Switch游戏画面的救星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据外媒Gamerant消息，多年来的大量研究表明，电子游戏暴力与现实世界的暴力行为之间没有直接联系，但这并不意味着电子游戏不会让人生气。由于其竞技性，无论玩家的对手是真人还是电脑，都难免会因失败或角色死亡而生气。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1305983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [经历漫长等待：好奇号火星车即将迎来提速50%的软件更新](https://www.cnbeta.com/articles/science/1305947.htm) | Thu Aug 18 2022 7:47 AM 
+- 🎊 [Windows 11微软商店支持直接下载游戏 无需跳转Xbox应用程序](https://www.cnbeta.com/articles/tech/1305979.htm) | Thu Aug 18 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在现有的任务执行策略下，美国宇航局的好奇号（Curiosity）火星车必须经常停下来检查自身所处的位置。&lt;strong&gt;不过据 New Scientist 报道，即将到来的一项软件更新，将允许其更快速连贯地移动。&lt;/strong&gt;对于迄今服役已十个年头的好奇号来说，该火星车已经远超原计划的两年任务寿命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1305947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着 Build 25182 预览编译版本的发布，Windows 11 上的微软商店终于迎来了一项改进 —— &lt;strong&gt;玩家们将能够直接通过 Microsoft Store 下载游戏， 而无需麻烦地跳转至 Xbox 应用程序。&lt;/strong&gt;此外 Dev 通道的 Insider 测试者们，还会在 22207.1401.X 版本的 Microsoft Store 搜索结果中看到屏幕截图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1305979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
