@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [贝塞尔曲线轨迹运动原理与实战](https://juejin.cn/post/7133216909910736926) | Thu Aug 18 2022 2:05 PM 
+- 🤗 [我又写“bug”了，关于go切片的探究](https://juejin.cn/post/7133225962325409822) | Thu Aug 18 2022 2:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 将问题抽象出来 最近在用go写定时任务的时候，采取了切片的方式作为数据的存储载体。但是在编写的过程中遇到 
+    </details> 
+
+- 🎡 [浅谈 Raft 分布式一致性协议｜图解 Raft](https://juejin.cn/post/7133224955541618702) | Thu Aug 18 2022 2:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章将模拟一个KV数据读写服务，从提供单一节点读写服务，到结合分布式一致性协议（Raft）后，逐步扩展为一个分布式的，满足一致性读写需求的读写服务的过程。 
+    </details> 
+
+- 🕯 [坚叔：让科幻片的概念变成产品丨编程挑战赛 x 嘉宾分享](https://juejin.cn/post/7133223747581902878) | Thu Aug 18 2022 2:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    实时交互的前景肯定是巨大的，因为以前别说视频，就连看一张图片都非常奢侈，基本上都是依靠文字交互，而且也是通过离线方式，现在听起来可能是天方夜谭，所以信息交互一定是向越来越的高维度发展的。 
+    </details> 
+
+- 🚀 [贝塞尔曲线轨迹运动原理与实战](https://juejin.cn/post/7133216909910736926) | Thu Aug 18 2022 2:05 PM 
     <details><summary>展开描述 ...</summary> 
     本次分享大概分为下面几个方面 背景 贝塞尔曲线讲解 实现和探索过程 背景 近期在 X 业务测评报告页有一个需求，用户可以左右拖动滑块来查看各个等级的信息。 在之前的野种中是通过切换图片的方式，会有卡顿 
     </details> 
 
-- 🎡 [关于github默认分支名改为main后可能的处理【git推送到远程不同的分支、github修改默认分支名】](https://juejin.cn/post/7133215762797297694) | Thu Aug 18 2022 2:00 PM 
+- 💪 [关于github默认分支名改为main后可能的处理【git推送到远程不同的分支、github修改默认分支名】](https://juejin.cn/post/7133215762797297694) | Thu Aug 18 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
     git如何删除本地分支、删除远程分支，由分支的删除可以实现推送到远程不同的分支。 git不允许推送到远程与本地分支名不同的分支上。 
-    </details> 
-
-- 🕯 [如何使用 JavaScript 在网页上打印单张图片？](https://juejin.cn/post/7133212338877890574) | Thu Aug 18 2022 1:47 PM 
-    <details><summary>展开描述 ...</summary> 
-    在浏览器中，我们可以通过点击菜单打印项来打印整个页面。 或者你可以使用快捷键 Ctrl + P（Command + P） 来打印页面。 在代码中，可以使用 `window.print&lpar;&rpar;` 方法调用页 
-    </details> 
-
-- 🚀 [头脑风暴：最长连续递增序列](https://juejin.cn/post/7133206665255452679) | Thu Aug 18 2022 1:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    题目 给定一个未经排序的整数数组，找到最长且 连续递增的子序列，并返回该序列的长度。 连续递增的子序列 可以由两个下标 l 和 r（l &lt; r）确定，如果对于每个 l &lt;= i &lt; r，都有 nums 
-    </details> 
-
-- 💪 [GCD的dispatch_get_specific与dispatch_queue_set_specific](https://juejin.cn/post/7133204939475517477) | Thu Aug 18 2022 1:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    概述 GCD是一个多核编程的解决方案。它主要用于优化应用程序以支持多核处理器。 GCD介绍 要理解GCD的使用就必须先知道GCD中的任务和队列的概念： 任务 任务即执行操作的意思，换句话说就是你在线程 
     </details> 
 <!-- juejin:END -->
 ### 少数派
