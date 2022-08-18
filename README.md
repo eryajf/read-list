@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [芯片价格下降 有的比雪糕刺客还便宜](https://www.cnbeta.com/articles/tech/1306095.htm) | Thu Aug 18 2022 7:04 PM 
+- 🕯 [FDA大胆决定引发热议：批准下一代新冠疫苗前无需人体实验](https://www.cnbeta.com/articles/tech/1306097.htm) | Thu Aug 18 2022 7:58 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;随着8月逐步进入尾声，秋冬季新冠疫苗加强接种的事宜正变得愈发迫切，而美国药品监管采取的大胆决定，也为该国防疫前景增添了不少挑战。据悉，在此前的接种策略评估中，美国FDA拒绝了药厂们提出的“原始毒株+奥秘克戎BA.1”构成的二价疫苗方案，要求药厂们赶紧动手准备能够应对BA.4和BA.5变异株的疫苗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [芯片价格下降 有的比雪糕刺客还便宜](https://www.cnbeta.com/articles/tech/1306095.htm) | Thu Aug 18 2022 7:04 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，“芯片价格雪崩”引发热议，部分芯片从去年高位的200元降至现在的20元一个，对比不久前还有大佬“打飞的”求芯片，仿佛一夜之间，芯片价格就“雪崩”了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [日本最近一个月新冠确诊病例超600万例 多地医疗资源紧张](https://www.cnbeta.com/articles/tech/1306093.htm) | Thu Aug 18 2022 7:02 PM 
+- 💂 [日本最近一个月新冠确诊病例超600万例 多地医疗资源紧张](https://www.cnbeta.com/articles/tech/1306093.htm) | Thu Aug 18 2022 7:02 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近一段时间，日本新冠肺炎疫情持续处于高位。据日本广播协会电视台统计数据，18日，日本单日新增确诊病例超25.5万例，为历史新高，累计确诊超1646万例。最近一个月，日本累计新增确诊病例已经超过了600万例。此外，截至18日的11天中，有9天的单日新增死亡病例超过了200例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美银：若苹果股价突破2021年12月高点 可能会再涨30%](https://www.cnbeta.com/articles/tech/1306091.htm) | Thu Aug 18 2022 6:59 PM 
+- 🚀 [美银：若苹果股价突破2021年12月高点 可能会再涨30%](https://www.cnbeta.com/articles/tech/1306091.htm) | Thu Aug 18 2022 6:59 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;随着市场从上半年的跌势中恢复过来，苹果公司股价在过去一个月中上涨了逾18%。美国银行市场策略师认为，如果该股能够突破2021年12月时的峰值，则可能会有更大的上涨空间。美银首席市场技术员Stephen Suttmeier表示，如果苹果股价在逢低时守住157-150美元区域上方或附近，那将形成“看涨头肩形态”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Alder Lake-HX刚发布3个月 Intel顶级新U就后继有人了](https://www.cnbeta.com/articles/tech/1306089.htm) | Thu Aug 18 2022 5:46 PM 
+- 🎊 [Alder Lake-HX刚发布3个月 Intel顶级新U就后继有人了](https://www.cnbeta.com/articles/tech/1306089.htm) | Thu Aug 18 2022 5:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年5月份，Intel发布了全新的Alder Lake-HX 12代酷睿移动平台，首次为笔记本带来桌面级核心，拥有最高8大8小16核心24线程、30MB三级缓存、5GHz频率的豪华规格，基础功耗就有55W。没想到，&lt;strong style=&quot;white-space: normal;&quot;&gt;这才过去3个来月，13代酷睿的Raptor Lake-HX系列就现身了，型号为i5-13600HKX，6大8小14核心20线程，对比i5-12600HX多了2个大核心，达到了i7-12650HX的水平。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [东京迪士尼乐园收到多起零食发霉投诉 运营商召回6782份商品并道歉](https://www.cnbeta.com/articles/tech/1306087.htm) | Thu Aug 18 2022 5:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本广播协会（NHK）18日报道，东京迪士尼乐园运营商发布消息称，因为接到顾客反映商品“发霉”，决定召回6782份在园区内多家店铺贩卖印有迪士尼旗下角色图案的“东京香蕉焦糖香蕉味”零食。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
