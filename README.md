@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求一个运维 Python 的学习路线](https://www.v2ex.com/t/873777#reply0) | Thu Aug 18 2022 8:17 AM
-- 🤗 [请教 drf 全局封装 response 的优雅实现](https://www.v2ex.com/t/873759#reply1) | Thu Aug 18 2022 7:10 AM
-- 🎭 [有人用 react-native-macos 么?](https://www.v2ex.com/t/873747#reply1) | Thu Aug 18 2022 6:42 AM
-- 🥷 [打算买个安卓手机，国产安卓机有能支持谷歌全家桶的吗？包括 google wallet &lpar;google pay&rpar;](https://www.v2ex.com/t/873712#reply20) | Thu Aug 18 2022 4:49 AM
-- 🐵 [大家公司的项目代码会写的尽善尽美吗](https://www.v2ex.com/t/873709#reply75) | Thu Aug 18 2022 4:43 AM<!-- v2ex:END -->
+- 🥸 [如何提取一张图片上的线段、路径?](https://www.v2ex.com/t/873790#reply2) | Thu Aug 18 2022 8:59 AM
+- 🤗 [Selenium 是不是已经废了？](https://www.v2ex.com/t/873785#reply1) | Thu Aug 18 2022 8:42 AM
+- 🎭 [JS 多次请求 如何使后者覆盖前者](https://www.v2ex.com/t/873784#reply24) | Thu Aug 18 2022 8:33 AM
+- 🥷 [关于响应式数据库连接](https://www.v2ex.com/t/873780#reply2) | Thu Aug 18 2022 8:23 AM
+- 🐵 [求一个运维 Python 的学习路线](https://www.v2ex.com/t/873777#reply6) | Thu Aug 18 2022 8:17 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
