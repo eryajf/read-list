@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [GCD的dispatch_get_specific与dispatch_queue_set_specific](https://juejin.cn/post/7133204939475517477) | Thu Aug 18 2022 1:18 PM 
+- 🤗 [贝塞尔曲线轨迹运动原理与实战](https://juejin.cn/post/7133216909910736926) | Thu Aug 18 2022 2:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    本次分享大概分为下面几个方面 背景 贝塞尔曲线讲解 实现和探索过程 背景 近期在 X 业务测评报告页有一个需求，用户可以左右拖动滑块来查看各个等级的信息。 在之前的野种中是通过切换图片的方式，会有卡顿 
+    </details> 
+
+- 🎡 [关于github默认分支名改为main后可能的处理【git推送到远程不同的分支、github修改默认分支名】](https://juejin.cn/post/7133215762797297694) | Thu Aug 18 2022 2:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    git如何删除本地分支、删除远程分支，由分支的删除可以实现推送到远程不同的分支。 git不允许推送到远程与本地分支名不同的分支上。 
+    </details> 
+
+- 🕯 [如何使用 JavaScript 在网页上打印单张图片？](https://juejin.cn/post/7133212338877890574) | Thu Aug 18 2022 1:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    在浏览器中，我们可以通过点击菜单打印项来打印整个页面。 或者你可以使用快捷键 Ctrl + P（Command + P） 来打印页面。 在代码中，可以使用 `window.print&lpar;&rpar;` 方法调用页 
+    </details> 
+
+- 🚀 [头脑风暴：最长连续递增序列](https://juejin.cn/post/7133206665255452679) | Thu Aug 18 2022 1:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    题目 给定一个未经排序的整数数组，找到最长且 连续递增的子序列，并返回该序列的长度。 连续递增的子序列 可以由两个下标 l 和 r（l &lt; r）确定，如果对于每个 l &lt;= i &lt; r，都有 nums 
+    </details> 
+
+- 💪 [GCD的dispatch_get_specific与dispatch_queue_set_specific](https://juejin.cn/post/7133204939475517477) | Thu Aug 18 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
     概述 GCD是一个多核编程的解决方案。它主要用于优化应用程序以支持多核处理器。 GCD介绍 要理解GCD的使用就必须先知道GCD中的任务和队列的概念： 任务 任务即执行操作的意思，换句话说就是你在线程 
-    </details> 
-
-- 🎡 [跑马灯简单版](https://juejin.cn/post/7133192438117564447) | Thu Aug 18 2022 12:30 PM 
-    <details><summary>展开描述 ...</summary> 
-    背景 跑马灯对前端来说，再常见不过了，市面上也有很多封装好的插件，但是对于一些简单效果，总觉得是杀鸡用牛刀。项目中正好遇到了，决定自己实现一个简洁版的，先看下效果： 实现原理 主要操作就是：在滚动到最 
-    </details> 
-
-- 🕯 [日新刷题 - 496. 下一个更大元素 I](https://juejin.cn/post/7133191605691006989) | Thu Aug 18 2022 12:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 一、题目描述： 496. 下一个更大元素 I - 力扣（LeetCode） &lpar;leetcode-cn.c 
-    </details> 
-
-- 🚀 [LeakCanary 你真的了解么？看看这些高级用法](https://juejin.cn/post/7133188148728692766) | Thu Aug 18 2022 12:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    “LeakCanary 虽好，但就是太卡。”，“LeakCanary 虽好，但无法线上使用。”，这些是真的么，情况可能并没有你想的那么简单。 
-    </details> 
-
-- 💪 [Android 边播放边缓存视频框架AndroidVideoCache简析](https://juejin.cn/post/7133182104447221791) | Thu Aug 18 2022 11:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、背景 现在的移动应用，视频是一个非常重要的组成部分，好像里面不搞一点视频就不是一个正常的移动App。在视频开发方面，可以分为视频录制和视频播放，视频录制的场景可能还比较少，这方面可以使用Googl 
     </details> 
 <!-- juejin:END -->
 ### 少数派
