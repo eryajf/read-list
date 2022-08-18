@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Apple新闻之 iPhone 年年焕新最低门槛缩短至 3 个月](http://www.mac52ipod.cn/post/apple-iphone-upgrade-program-updated.php) | Tue Aug 16 2022 4:25 AM 
+- 👨‍🏫 [看富士相机拍出的好照片以及拍摄这些照片时的相机参数设置：Fuji X Weekly — Film Recipes](http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-fuji-x-weekly-film-recipes.php) | Thu Aug 18 2022 3:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	富士相机在摄影圈的口碑还不错，大家尤其喜欢它的颜色表现。富士官方做了个 App：Fuji X Weekly — Film Recipes。&lt;/p&gt;&lt;p&gt;一方面它是个相册，晒出用富士相机拍摄的好照片；&lt;/p&gt;&lt;p&gt;另一方面，每张照片点开详情都能看到拍摄者的各个参数设置（曝光补偿、阴影、降噪、锐化、颗粒效果、ISO ……），这样你也可以作为参考，拍出类似效果的照片&lt;/p&gt;&lt;p&gt;Fuji X Weekly — Film Recipes 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/fuji-x-weekly-film-recipes/id1539047257&quot; target=&quot;_blank&quot; title=&quot;Fuji X Weekly — Film Recipes&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/fuji-x-weekly-film-recipes/id1539047257&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2585%25A7%25E7%2589%2587&quot; rel=&quot;tag&quot;&gt;照片&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=fuji&quot; rel=&quot;tag&quot;&gt;fuji&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Apple新闻之 iPhone 年年焕新最低门槛缩短至 3 个月](http://www.mac52ipod.cn/post/apple-iphone-upgrade-program-updated.php) | Tue Aug 16 2022 4:25 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [苹果的一个 Bug：MagSafe 充电线让笔记本变成永动机](http://www.mac52ipod.cn/post/apple-mac-magsafe-usb-c-bug.php) | Sun Aug 14 2022 5:46 AM 
+- 🦏 [苹果的一个 Bug：MagSafe 充电线让笔记本变成永动机](http://www.mac52ipod.cn/post/apple-mac-magsafe-usb-c-bug.php) | Sun Aug 14 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster](http://www.mac52ipod.cn/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php) | Wed Aug 10 2022 4:52 PM 
+- 🚀 [Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster](http://www.mac52ipod.cn/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php) | Wed Aug 10 2022 4:52 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Apple新闻之 Apple Pay 公交支持刷浙江台州公共交通卡了](http://www.mac52ipod.cn/post/apple-pay-transit-card-support-taizhou.php) | Tue Aug 09 2022 5:49 AM 
+- 🏊 [Apple新闻之 Apple Pay 公交支持刷浙江台州公共交通卡了](http://www.mac52ipod.cn/post/apple-pay-transit-card-support-taizhou.php) | Tue Aug 09 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	Apple Pay 公交支持浙江台州公共交通卡了。苹果用户可以在乘坐公交时直接刷手机或手表，Appley Pay 使用的 NFC 方案只需手机往读卡器上一靠，比扫二维码方便得多。&lt;/p&gt;&lt;p&gt;其实，Apple Pay 很久以前就通过互联互通卡支持全国几百个城市的公交卡。但支持本地公交卡有助于用户享受本地公交优惠。而且这次新增的浙江台州公共交通卡也是互联互通卡，到开通一卡通互联的其它 300 多个中国城市也能用。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6705&quot; border=&quot;0&quot; alt=&quot;Apple Pay 公交支持刷浙江台州公共交通卡了&quot; title=&quot;Apple Pay 公交支持刷浙江台州公共交通卡了&quot; /&gt;&lt;/p&gt;&lt;p&gt;iPhone XS、iPhone XS Max、iPhone XR 或更新机型用户，可以将公交卡设为「快捷交通卡」，手机没电自动关机 5 小时内依然可以刷交通卡。所以不用担心「上车后手机没电，没法下车/出站」。注意是自动关机，你长按电源键手动关机就不能刷卡出站了。&lt;/p&gt;&lt;p&gt;更多开卡方式、城市列表、支持设备等信息，看苹果中国官网关于 Apple Pay 公交卡的详细介绍吧 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/apple-pay/transit/&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/apple-pay/transit/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=applepay&quot; rel=&quot;tag&quot;&gt;applepay&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照](http://www.mac52ipod.cn/post/apple-ios-iphone-app-bai-miao-zheng-jian-zhao.php) | Sun Aug 07 2022 2:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	制作简历、网上报名、注册公司账号等等时候可能会用到证件照，如果你没有证件照且对自己抠图水平没信心的话，可以试试「白描证件照」这款 App。支持各种尺寸和证件照背景颜色，还能美颜，比去照相馆方便多了。&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6703&quot; border=&quot;0&quot; alt=&quot;苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照&quot; title=&quot;苹果 iPhone 上快速制作证件照（还能美颜）的 App：白描证件照&quot; /&gt;&lt;/p&gt;&lt;p&gt;开发者写了篇很详细的介绍，甚至教你自拍证件照时的姿势和光线 &lt;u&gt;&lt;a href=&quot;https://xinle.co/2021/01/10/%e5%9c%a8%e6%89%8b%e6%9c%ba%e4%b8%8a%e5%bf%ab%e9%80%9f%e5%9c%b0%e5%88%b6%e4%bd%9c%e4%b8%80%e5%bc%a0%e8%af%81%e4%bb%b6%e7%85%a7%ef%bc%8c%e8%bf%98%e8%83%bd%e7%be%8e%e9%a2%9c/&quot; target=&quot;_blank&quot; title=&quot;在手机上快速地制作一张证件照，还能美颜&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://xinle.co/2021/01/10/在手机上快速地制作一张证件照，还能美颜&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。&lt;/p&gt;&lt;p&gt;白描证件照在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/id1545812838&quot; target=&quot;_blank&quot; title=&quot;白描证件照&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/id1545812838&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;另外，这位开发者做的 OCR 软件&lt;u&gt;&lt;a href=&quot;/post/apple-mac-macos-ocr-app-baimiao.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑上图片转文字、图片转电子表格的 OCR 软件：白描&quot;&gt;&lt;font color=#0000FF&gt;白描&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;也非常赞&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2585%25A7%25E7%2589%2587&quot; rel=&quot;tag&quot;&gt;照片&lt;/a&gt;
 
  
     </details> 
