@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 卡巴斯基实验室开发防黑客手机；微软为 Mac 推出篡改保护](https://www.freebuf.com/news/342222.html) | Wed Aug 17 2022 11:26 AM 
+- 🦄 [攻击者开发BugDrop恶意软件，可绕过安卓安全防护](https://www.freebuf.com/news/342264.html) | Thu Aug 18 2022 3:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    随着BugDrop逐步完善当前存在的各种缺陷，攻击者在与安全团队、银行机构的战争中拥有一种全新的高威力的武器，可击败谷歌目前采用的解决方案。 
+    </details> 
+
+- 🦄 [上海浦东发展银行信用卡中心招聘信息](https://www.freebuf.com/jobs/342253.html) | Thu Aug 18 2022 3:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    上海浦东发展银行信用卡中心成立于2004年1月，是国内最早获得金融许可证的信用卡中心之一。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | 卡巴斯基实验室开发防黑客手机；微软为 Mac 推出篡改保护](https://www.freebuf.com/news/342222.html) | Wed Aug 17 2022 11:26 AM 
     <details><summary>展开描述 ...</summary> 
     据俄罗斯卫星社报道，近期卡巴斯基实验室总裁表示，该实验室正在开发自主品牌手机的防黑客入侵功能。 
     </details> 
 
-- 🦄 [《网络安全标准实践指南——健康码防伪技术指南（征求意见稿）》发布](https://www.freebuf.com/news/342208.html) | Wed Aug 17 2022 8:37 AM 
+- 🪄 [《网络安全标准实践指南——健康码防伪技术指南（征求意见稿）》发布](https://www.freebuf.com/news/342208.html) | Wed Aug 17 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
     《指南》依据有关政策法规要求，做好支撑疫情防控工作，防止健康码伪造安全风险，对健康码防伪提供技术实践参考。 
     </details> 
 
-- 🦅 [一种新型攻击技术出现，可将PLC武器化](https://www.freebuf.com/articles/342185.html) | Wed Aug 17 2022 7:14 AM 
+- 💻 [一种新型攻击技术出现，可将PLC武器化](https://www.freebuf.com/articles/342185.html) | Wed Aug 17 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
     该技术的巧妙之处在于，可将可编程逻辑控制器 &lpar; PLC &rpar; 武器化，以在工程工作站中获得初步立足点，随后入侵运营技术 &lpar;OT&rpar; 网络。 
-    </details> 
-
-- 🪄 [混合钓鱼攻击在第二季度飙升625%](https://www.freebuf.com/news/342151.html) | Wed Aug 17 2022 5:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    混合网络钓鱼威胁是多阶段攻击，与传统网络钓鱼不同。 
-    </details> 
-
-- 💻 [Realtek爆出关键漏洞，影响多款网络设备](https://www.freebuf.com/news/342152.html) | Wed Aug 17 2022 5:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    CVE-2022-27255漏洞影响到数百万台采用 Realtek RTL819x 系统芯片（SoC）的网络设备。 
     </details> 
 <!-- freebuf:END -->
 
