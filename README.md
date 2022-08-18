@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三家最大比特币挖矿公司上季度损失超过10亿美元 正出售挖矿机以维持生计](https://www.cnbeta.com/articles/tech/1306041.htm) | Thu Aug 18 2022 12:31 PM 
+- 🕯 [为避免给猴子带来负面影响 世卫将猴痘病毒重命名](https://www.cnbeta.com/articles/tech/1306053.htm) | Thu Aug 18 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于加密货币价格的暴跌，比特币挖矿的关注点在过去一个季度报告了巨大的损失。一些人正在出售他们的持币量和挖矿机，甚至贷款来支付运营费用和维持生计。根据彭博社的报道，在美国股市交易的三家最大的比特币挖矿公司在第二季度损失超过10亿美元。由于过去几个月加密货币价格的大幅下跌，这些公司不得不减记其持有的价值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月17日消息，8月13日下午世界卫生组织在Twitter公布将monkeypox（猴痘）变体命名为Clades I、IIa 和IIb。并在评论回复称对新发现的病毒、相关疾病和病毒变种进行命名，以避免对任何文化、社会、国家、地区、专业或种族群体造成冒犯，并尽量减少对贸易、旅行、旅游或动物福利的负面影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马斯克抱怨其110亿美元税单 称“民主党应远离人们的钱包”](https://www.cnbeta.com/articles/tech/1306039.htm) | Thu Aug 18 2022 12:23 PM 
+- 💼 [NASA全力以赴为UFO研究做准备](https://www.cnbeta.com/articles/science/1306051.htm) | Thu Aug 18 2022 1:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间周二， 马斯克参加了由众议院少数党领袖凯文·麦卡锡（Kevin McCarthy）主持的共和党聚会，并抱怨了他在2021年出售特斯拉股票后所产生的110亿美元税单。据了解，去年时，马斯克行使了大量特斯拉股票期权，因此他必须为股票行使价格与公平市场价值之间的差额纳税。当时，马斯克称自己“将比历史上任何美国人缴纳的税都多”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国NASA在6月宣布，它将对UFO（&amp;quot;不明飞行物 &amp;quot;的简称）进行科学研究&lt;/strong&gt;，它们最近被重新命名为UAP（&amp;quot;不明空中现象&amp;quot;）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [联想消费生态秋季新品发布 拯救者手机、VR及小新平板等齐亮相](https://www.cnbeta.com/articles/tech/1306037.htm) | Thu Aug 18 2022 12:09 PM 
+- 💂 [为何众多车厂对与华为合作充满了警惕？](https://www.cnbeta.com/articles/tech/1306049.htm) | Thu Aug 18 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年8月18日19时，联想召开“正装野兽，性能觉醒”2022联想消费生态秋季新品发布会。联想携拯救者Y70性能旗舰手机、小新Pad Pro 2022、个人云存储X1s、拯救者VR700等丰富生态新品及全新ZUI 14震撼而来。有别以往，本次发布会创新性采用XR交互技术打造了一场虚实相生的感官盛宴。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近年来，华为在美国的持续加码制裁制裁之下，使得华为的智能手机及电信业务开展受到了较大的影响，特别是原本营收占过半的智能手机业务大幅下滑，华为也被迫在2020年底出售了荣耀。在此背景之下，华为近两年来开始不断加大对于“受禁令影响较小”的汽车领域的投入，希望汽车业务能够成为华为新的增长引擎。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [阵营博弈中 万兆宽带做“接棒”准备](https://www.cnbeta.com/articles/tech/1306035.htm) | Thu Aug 18 2022 11:31 AM 
+- 🚀 [魏牌高管谈辅助驾驶：不能以生命代价挑战花式营销](https://www.cnbeta.com/articles/tech/1306047.htm) | Thu Aug 18 2022 12:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;通信技术发展，一直遵循着“商用一代、规划一代”的规律，如此反复、不断前进。移动通信领域，在5G如火如荼全面商用的同时，产业界针对6G的研究、规划也在加快推进之中，如中国信通院已相继发布了《6G总体愿景与潜在关键技术》《6G典型场景和关键能力》等白皮书。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月18日消息，今日，魏牌CMO乔心昱在微博上讨论了智能辅助驾驶的问题。乔心昱表示，业内都说2022是激光雷达上车元年，我看并不尽然。目前很多智能辅助驾驶并没有配合激光雷达，给大家分享几个小贴士：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [欧洲和美国“芯片法案”相继出台后 全球抢人大战将会愈加激烈](https://www.cnbeta.com/articles/tech/1306033.htm) | Thu Aug 18 2022 11:28 AM 
+- 🎊 [特斯拉自研7nm超级芯片 可取代NVIDIA安培GPU](https://www.cnbeta.com/articles/tech/1306045.htm) | Thu Aug 18 2022 12:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然美国和欧盟最终制定了各自的“芯片法案”，准备投入巨资巩固其半导体生产能力以保障战略供应。如果各国想要确保其投资的有效性，人才短缺将是一个需要解决的关键问题。据DIGITIMES报道，在国际管理发展协会（IMD）发布的2021年世界竞争力排名中，中国台湾地区的每千人研发人力排名世界第一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉的自动驾驶技术开发走在前列，无疑，这背后有一套规模庞大的超级计算机用作开发训练平台。日前，特斯拉工程总经理Tim Zaman分享了特斯拉这套人工智能训练系统的最新规格，一年前配备了5760颗NVIDIA A100 GPU，如今增加了1600颗，达到7360，幅度是28%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
