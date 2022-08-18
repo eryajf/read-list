@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Promise.allSettled 的 Polyfill 处理](https://juejin.cn/post/7133033579210080270) | Thu Aug 18 2022 2:13 AM 
+- 🤗 [TiFlash 源码阅读（六）DeltaTree Index 的设计和实现分析](https://juejin.cn/post/7133048019368280072) | Thu Aug 18 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 如果因为浏览器太过老旧，不支持最新的 Promise.allSettled API，我们可以使用 pol 
+    背景 在前面的源码分析中对 TiFlash 的计算层和存储层都进行了深入的分析，其中 TiFlash DeltaTree 存储引擎设计及实现分析 &lpar;Part 1&rpar; TiFlash DeltaTree  
     </details> 
 
-- 🎡 [ES6+前世今生](https://juejin.cn/post/7133032358223020045) | Thu Aug 18 2022 2:09 AM 
+- 🎡 [社招5年来字节，发现我根本不会用GIT，真的是社死了](https://juejin.cn/post/7133045617877581831) | Thu Aug 18 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 命名 JavaScript标准的官方名称是“ＥＣＭＡＳｃｒｉｐｔ”（简称ＥＳ）。一般情况下是用有序的数字 
+    明明用了5年的git，来了字节之后感觉自己好像没用过git一样。靠，我5年前端开发经验难道是假造的咩~，真的是栓q。什么git rebase;git rebase -i;git cherry-pick 
     </details> 
 
-- 🕯 [Linux网络服务之SSH（远程访问及控制）](https://juejin.cn/post/7132857486066860046) | Wed Aug 17 2022 2:50 PM 
+- 🕯 [立即报名 | 相约 8.27，云原生 Meetup 杭州站火热开启](https://juejin.cn/post/7133043140998463495) | Thu Aug 18 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    SSH远程管理 SSH（Secure Shell）是一种安全通道协议，主要用来实现字符界面的远程登录、远程复制等功能 SSH协议对通信双方的数据传输进行了加密处理，其中包括用户登录时输入的用户口令，因 
+    2022 年，KubeSphere 社区已经分别在长沙、成都和广州组织了线下 Meetup，汇聚当地 
     </details> 
 
-- 🚀 [配置网关服务器搭建DNS分离解析](https://juejin.cn/post/7132854087594278919) | Wed Aug 17 2022 2:37 PM 
+- 🚀 [海边溺水，救援机器人“生死时速”；机器学习论文撰写清单；Kaggle数据科学新手教程；约克大学『计算机视觉』课程资料；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7133042557214261278) | Thu Aug 18 2022 2:48 AM 
     <details><summary>展开描述 ...</summary> 
-    1.为网关服务器配置双网卡 在关机状态下在添加一块网卡，重启系统 查看网卡是否配置成功，并设置网卡 2.安装bind软件包 3.修改主配置文件 4.修改区域配置文件 5.修改区域数据配置文件 外网：  
+    ShowMeAI资讯日报 08-18 期，StemRoller音源分离工具、 Nativefier将网页转换成桌面应用、OpenKS知识学习与计算引擎、论文提交准备的python脚本、前沿论文… 
     </details> 
 
-- 💪 [Spring Boot + Canal 实现数据库实时监控](https://juejin.cn/post/7132843053768769567) | Wed Aug 17 2022 1:54 PM 
+- 💪 [AI 音辨世界：艺术小白的我，靠这个AI模型，速识音乐流派选择音乐](https://juejin.cn/post/7133039684963270692) | Thu Aug 18 2022 2:37 AM 
     <details><summary>展开描述 ...</summary> 
-    早期，阿里巴巴B2B公司因为存在杭州和美国双机房部署，存在跨机房同步的业务需求。不过早期的数据库同步业务，主要是基于trigger的方式获取增量变更，不过从2010年开始，阿里系公司开始逐步的尝试基于 
+    音乐领域，借助于歌曲相关信息，模型可以根据歌曲的音频和歌词特征，将歌曲精准进行流派分类。本文讲解如何基于机器学习完成对音乐的识别分类。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
