@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [打算买个安卓手机，国产安卓机有能支持谷歌全家桶的吗？包括 google wallet &lpar;google pay&rpar;](https://www.v2ex.com/t/873712#reply10) | Thu Aug 18 2022 4:49 AM
-- 🤗 [大家公司的项目代码会写的尽善尽美吗](https://www.v2ex.com/t/873709#reply17) | Thu Aug 18 2022 4:43 AM
+- 🥸 [打算买个安卓手机，国产安卓机有能支持谷歌全家桶的吗？包括 google wallet &lpar;google pay&rpar;](https://www.v2ex.com/t/873712#reply14) | Thu Aug 18 2022 4:49 AM
+- 🤗 [大家公司的项目代码会写的尽善尽美吗](https://www.v2ex.com/t/873709#reply34) | Thu Aug 18 2022 4:43 AM
 - 🎭 [Vue.config.productionTip = false 为什么失效了](https://www.v2ex.com/t/873705#reply0) | Thu Aug 18 2022 4:26 AM
-- 🥷 [不是说 Android 程序都是跑在虚拟机里面的吗，那为什么有时程序一卡，整部手机都跟着卡呢？](https://www.v2ex.com/t/873702#reply6) | Thu Aug 18 2022 4:20 AM
-- 🐵 [“薪资期望 14～ 28k”这个范围是不是有点宽？](https://www.v2ex.com/t/873699#reply6) | Thu Aug 18 2022 4:08 AM<!-- v2ex:END -->
+- 🥷 [不是说 Android 程序都是跑在虚拟机里面的吗，那为什么有时程序一卡，整部手机都跟着卡呢？](https://www.v2ex.com/t/873702#reply10) | Thu Aug 18 2022 4:20 AM
+- 🐵 [“薪资期望 14～ 28k”这个范围是不是有点宽？](https://www.v2ex.com/t/873699#reply19) | Thu Aug 18 2022 4:08 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
