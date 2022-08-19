@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [DVD-Cloner 2022 9.40.731 DVD刻录软件](https://xclient.info/s/dvd-cloner.html) | Wed Aug 17 2022 1:14 AM 
+- 🦏 [SSH Config Editor 2.6-b SSH配置编辑器](https://xclient.info/s/ssh-config-editor.html) | Fri Aug 19 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-    DVD-Cloner 2020 for mac是DVD光盘刻录工具，DVD-Cloner Gold 2020可以轻松刻录光盘以及蓝光光盘，用户可以将任何的文件刻录到DVD光盘中，并可以制作为蓝光光盘，可以很方便地录入视频到光盘中进行保存，刻录好的蓝光光盘，播放的效果非常高清，带给你一种超清的蓝光视频体验。 
+    SSH Config Editor是一款运行在macOS平台上的SSH配置编辑软件，可以帮助用户管理ssh配置文件，如果您的电脑上有ssh配置文件，那么更加需要使用它。 
     </details> 
 
--  [Keep It 2.0.11 内容收藏夹](https://xclient.info/s/keep-it.html) | Wed Aug 17 2022 1:12 AM 
+-  [Perfectly Clear WorkBench 4.1.2.2326 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Fri Aug 19 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Keep It 是Mac平台上的一款保存笔记，保存网页链接，存储文件的效率工具。Keep It 支持icloud同步，用户可以在所有支持icloud的设备上同步自己的数据资料。 
+    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
     </details> 
 
-- ⚗️ [VideoDuke 2.8 视频下载](https://xclient.info/s/videoduke.html) | Wed Aug 17 2022 1:11 AM 
+- ⚗️ [Mitti 2.2.2 专业视频回放解决方案](https://xclient.info/s/mitti.html) | Fri Aug 19 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-    VideoDuke 支持在网站视频下载所有流行格式的视频文件，可以以各种文件格式保存。只需将链接粘贴到应用中即可完成。 
+    Mitti 是一款macOS平台的功能强大且易于使用的专业视频回放解决方案，适用于剧院，视听表演，表演和展览，具有清晰，直观，整洁的用户界面，易于学习和使用的工作流程，在现代的64位低延迟音频之上，以及强大的GPU加速视频播放引擎。 
     </details> 
 
-- 🔥 [WonderPen 2.1.10 优秀的文本写作工具](https://xclient.info/s/wonderpen.html) | Wed Aug 17 2022 1:10 AM 
+- 🔥 [Feeder 4.3.10 创建和发布RSS](https://xclient.info/s/feeder.html) | Fri Aug 19 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-    WonderPen 是一款Mac上优秀的文本写作工具，简单易用的文本编辑器，支持 Markdown 语法。可切换为全屏专注模式，排除干扰，专心写作。 
+    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
     </details> 
 
-- 🌋 [Navicat Premium 16.1.1 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Wed Aug 17 2022 1:07 AM 
+- 🌋 [Downie 4.5.8 视频下载工具](https://xclient.info/s/downie.html) | Fri Aug 19 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
+    简单的拖放链接到Downie，它就会下载该网站上的视频。 
     </details> 
 <!-- xclient:END -->
 
