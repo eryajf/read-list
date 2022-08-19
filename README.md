@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我又写“bug”了，关于go切片的探究](https://juejin.cn/post/7133225962325409822) | Thu Aug 18 2022 2:39 PM 
+- 🤗 [Fiddler&lpar;一&rpar; 基础和协议介绍](https://juejin.cn/post/7133387080738013220) | Fri Aug 19 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 将问题抽象出来 最近在用go写定时任务的时候，采取了切片的方式作为数据的存储载体。但是在编写的过程中遇到 
+    Fiddler 介绍 Fiddler 是位于客户端和服务端之间的 HTTP 代理 目前最常用的 HTTP 抓包工具之一 功能非常强大，是 Web 调试的利器 监控浏览器所有的 HTTP / HTTPS 
     </details> 
 
-- 🎡 [浅谈 Raft 分布式一致性协议｜图解 Raft](https://juejin.cn/post/7133224955541618702) | Thu Aug 18 2022 2:37 PM 
+- 🎡 [TypeScript-起步——TypeScript简介（四）](https://juejin.cn/post/7133324120758059038) | Thu Aug 18 2022 9:22 PM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章将模拟一个KV数据读写服务，从提供单一节点读写服务，到结合分布式一致性协议（Raft）后，逐步扩展为一个分布式的，满足一致性读写需求的读写服务的过程。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 3、tslint 全局安装tslint：npm install tslint -g 在项目中可以初始化t 
     </details> 
 
-- 🕯 [坚叔：让科幻片的概念变成产品丨编程挑战赛 x 嘉宾分享](https://juejin.cn/post/7133223747581902878) | Thu Aug 18 2022 2:31 PM 
+- 🕯 [盘点Vue2和Vue3的10种组件通信方式&lpar;值得收藏&rpar;](https://juejin.cn/post/7133250560441974798) | Thu Aug 18 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
-    实时交互的前景肯定是巨大的，因为以前别说视频，就连看一张图片都非常奢侈，基本上都是依靠文字交互，而且也是通过离线方式，现在听起来可能是天方夜谭，所以信息交互一定是向越来越的高维度发展的。 
+    Vue中组件通信方式有很多，其中Vue2和Vue3实现起来也会有很多差异；本文将通过`选项式API` `组合式API`以及`setup`三种不同实现方式全面介绍Vue2和Vue3的组件通信方式 
     </details> 
 
-- 🚀 [贝塞尔曲线轨迹运动原理与实战](https://juejin.cn/post/7133216909910736926) | Thu Aug 18 2022 2:05 PM 
+- 🚀 [Fiddler添加自定义列：增加IP列](https://juejin.cn/post/7133248060586967047) | Thu Aug 18 2022 4:07 PM 
     <details><summary>展开描述 ...</summary> 
-    本次分享大概分为下面几个方面 背景 贝塞尔曲线讲解 实现和探索过程 背景 近期在 X 业务测评报告页有一个需求，用户可以左右拖动滑块来查看各个等级的信息。 在之前的野种中是通过切换图片的方式，会有卡顿 
+    方式： 1、运行fiddler，菜单，Rules-&gt;Customize Rules，打开“Fiddler ScriptEditor” 2、Ctrl+F查找“static function Main&lpar;&rpar; 
     </details> 
 
-- 💪 [关于github默认分支名改为main后可能的处理【git推送到远程不同的分支、github修改默认分支名】](https://juejin.cn/post/7133215762797297694) | Thu Aug 18 2022 2:00 PM 
+- 💪 [为什么有些蛮厉害的人，后来都不咋样了](https://juejin.cn/post/7133246541623459847) | Thu Aug 18 2022 4:00 PM 
     <details><summary>展开描述 ...</summary> 
-    git如何删除本地分支、删除远程分支，由分支的删除可以实现推送到远程不同的分支。 git不允许推送到远程与本地分支名不同的分支上。 
+    前言 写这篇文章目的是之前在一篇文章中谈到，我实习那会有个老哥很牛皮，业务能力嘎嘎厉害，但是后面发展一般般，这引起我的思考，最近有个同事发了篇腾讯pcg的同学关于review 相关的文章，里面也谈到架 
     </details> 
 <!-- juejin:END -->
 ### 少数派
