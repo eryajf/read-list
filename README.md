@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [关于植物的气孔、光合和蒸腾作用，经典理论或许错了](http://jandan.net/p/111131) | Thu Aug 18 2022 3:46 PM 
+- 🚀 [今日好价 0819](http://jandan.net/p/111172) | Fri Aug 19 2022 3:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    16周年纪念TEE预售中 
+    </details> 
+
+- 🙉 [关于植物的气孔、光合和蒸腾作用，经典理论或许错了](http://jandan.net/p/111131) | Thu Aug 18 2022 3:46 PM 
     <details><summary>展开描述 ...</summary> 
     培育更抗干旱的植物 
     </details> 
 
-- 🙉 [哪种运动可以减肚子？](http://jandan.net/p/111169) | Thu Aug 18 2022 9:11 AM 
+- 🎉 [哪种运动可以减肚子？](http://jandan.net/p/111169) | Thu Aug 18 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
     对于腹部和手臂这样的部位，局部减脂就像痴人说梦 
     </details> 
 
-- 🎉 [震惊全美 备受尊敬的ICU护士在洛杉矶市中心飙速撞飞多车致6人死亡](http://jandan.net/p/111162) | Thu Aug 18 2022 8:53 AM 
+- 🐲 [震惊全美 备受尊敬的ICU护士在洛杉矶市中心飙速撞飞多车致6人死亡](http://jandan.net/p/111162) | Thu Aug 18 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
     “我没有什么要对她说的。我希望她能尝到她给每个人带来的每一点痛苦。” 
     </details> 
 
-- 🐲 [为蛇添足 工程师觉得没有四肢的蛇类很可怜 为它们打造出机器义肢](http://jandan.net/p/111160) | Thu Aug 18 2022 4:46 AM 
+-  [为蛇添足 工程师觉得没有四肢的蛇类很可怜 为它们打造出机器义肢](http://jandan.net/p/111160) | Thu Aug 18 2022 4:46 AM 
     <details><summary>展开描述 ...</summary> 
     迄今为止，我们还没有找到四足蛇的化石 
-    </details> 
-
--  [今日好价 0818](http://jandan.net/p/111165) | Thu Aug 18 2022 4:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
