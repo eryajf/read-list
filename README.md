@@ -378,24 +378,24 @@
     按照当前的掘力值计算，我如果在年内每天去同步 GitHub 上的两篇 readme 或者文档，还是有可能到 lv6 或者 lv7 的，当然也会有很多方式可以绕过审核，因为审核人或者库也没那么多精力或者 
     </details> 
 
-- 🎡 [微服务网关 Kong 科普](https://juejin.cn/post/7133508813977550884) | Fri Aug 19 2022 8:57 AM 
+- 🎡 [vue3-admin 手把手教大家如何搭建后台管理系统（一）](https://juejin.cn/post/7133514600883945485) | Fri Aug 19 2022 9:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    工具准备 vue3文档：创建一个 Vue 应用 | Vue.js vuex文档：Vuex 是什么？ | Vuex vue-router文档：Vue Router 组件库：Arco Design Vue 
+    </details> 
+
+- 🕯 [强强联合：OpenFeign 整合 Sentinel](https://juejin.cn/post/7133509818425278471) | Fri Aug 19 2022 9:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 前言 书接前文： 微服务间的远程接口调用：OpenFeign 的使用 当项目中使用了 OpenFeign 
+    </details> 
+
+- 🚀 [微服务网关 Kong 科普](https://juejin.cn/post/7133508813977550884) | Fri Aug 19 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
     Kong是由Mashape开发的并于2015年开源的一款API网关，Kong可以水平扩展多个Kong Server，通过前置的负载均衡配置把请求均匀地分发到各个Server，来应对大批量的网络请求。 
     </details> 
 
-- 🕯 [【机器学习】-算法分类介绍](https://juejin.cn/post/7133508425102999588) | Fri Aug 19 2022 8:56 AM 
+- 💪 [【机器学习】-算法分类介绍](https://juejin.cn/post/7133508425102999588) | Fri Aug 19 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第20天，点击查看活动详情 1. 监督学习 定义： 输入数据是由输入特征值和目标值所组成 函数的输出可以是一个连续的值（称为回归）  
-    </details> 
-
-- 🚀 [Vue2 到 React 一遍过](https://juejin.cn/post/7133506041391611912) | Fri Aug 19 2022 8:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    很多同学说自己只会 Vue 不会 React，相信我，React 没那么难，只需要花 2 天时间看完这篇对比教程，马上你就能上手开发啦。 
-    </details> 
-
-- 💪 [PowerManagerService之省电模式&lpar;1&rpar;: 初步认识](https://juejin.cn/post/7133505259720163335) | Fri Aug 19 2022 8:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文对省电模式进行初步认识，并且对省电模式的初始化环境的代码进行分析，为后面逐步剖析省电模式的功能打下基础。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
