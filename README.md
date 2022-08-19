@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [45个 GIT 经典操作场景，专治不会合代码](https://juejin.cn/post/7133429337553895438) | Fri Aug 19 2022 3:49 AM 
+- 🤗 [来个面试题，看看你对 kotlin coroutine掌握得如何？](https://juejin.cn/post/7133450291751419941) | Fri Aug 19 2022 5:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    面试必知必会：给出一段 kotlin coroutine 的代码片段，你能说出并分析出它运行的结果吗？ 
+    </details> 
+
+- 🎡 [45个 GIT 经典操作场景，专治不会合代码](https://juejin.cn/post/7133429337553895438) | Fri Aug 19 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是小富~ 传送门：原文地址 git对于大家应该都不太陌生，熟练使用git已经成为程序员的一项基本技能，尽管在工作中有诸如 Sourcetree这样牛X的客户端工具，使得合并代码变的很方便。但 
     </details> 
 
-- 🎡 [当UI走查说页面色值错误时，先别急着检查代码](https://juejin.cn/post/7133427384979554312) | Fri Aug 19 2022 3:41 AM 
+- 🕯 [当UI走查说页面色值错误时，先别急着检查代码](https://juejin.cn/post/7133427384979554312) | Fri Aug 19 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
     颜色一直是UI设计师们非常敏感的问题，我至今仍忘不了那天，一位萌新设计师在走查UI时，给我提了好几个Bug，大多是颜色有差异问题，我当时的第一反应是去检查代码，排查了半天确认自己没有写错色值后，我就在 
     </details> 
 
-- 🕯 [hr套路程序猿的套路你遇到过几个](https://juejin.cn/post/7133425713729765389) | Fri Aug 19 2022 3:35 AM 
+- 🚀 [hr套路程序猿的套路你遇到过几个](https://juejin.cn/post/7133425713729765389) | Fri Aug 19 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
     刷kpi 有的hr有指标，总包vs高base，画大饼日常操作，打工人，打工魂，打工都是人上人，冲兄弟们 
     </details> 
 
-- 🚀 [还在为node版本不兼容而烦恼吗？🍊](https://juejin.cn/post/7133425248514342943) | Fri Aug 19 2022 3:33 AM 
+- 💪 [还在为node版本不兼容而烦恼吗？🍊](https://juejin.cn/post/7133425248514342943) | Fri Aug 19 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
     node 版本管理器 nvm 是一个node环境版本管理工具。主。为了解决node.js各种版本存在不兼容现象可以通过nvm来安装和切换不同版本的node.js 🍉 1. 下载 nvm 可点击下面的链 
-    </details> 
-
-- 💪 [vue 实现滑动块解锁](https://juejin.cn/post/7133423466023223327) | Fri Aug 19 2022 3:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    使用 vue 实现 滑动解锁 从0开始，一步一步教你怎么写一个简洁的登录页面以及附加图片滑动解锁的功能。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
