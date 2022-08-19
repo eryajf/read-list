@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [电动自行车充电费用高 服务费成压死骆驼最后一根稻草](https://www.cnbeta.com/articles/tech/1306415.htm) | Fri Aug 19 2022 9:16 AM 
+- 🕯 [世界最大蚊子工厂每周生产3000万只：为了在蚊群传播一种细菌](https://www.cnbeta.com/articles/science/1306445.htm) | Fri Aug 19 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这段时间一直被一件事情困扰“小区里的电动车充电桩充一次电为什么这么贵？”上网一搜，有这样困惑的不止我一个，许多使用过充电桩的“车主”也都有各种各样的疑问，几毛钱一度电，充一次电却要几块钱，很不合理埃到底是怎么回事呢？今天我也和大家聊聊小区里电动车充电桩那些事儿，大家有同感的可以在评论区吐槽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;蚊子可以说是被人人喊打的一种非常讨厌的动物，但全球却有很多地方都有蚊子工厂，专门生产蚊子，产量巨大。据悉，目前世界上最大的蚊子培育工厂，在哥伦比亚麦德林市的砖楼里，&lt;strong&gt;科学家们每周培育超过3000万只蚊子。&lt;/strong&gt;它们被满足一切需求：合适的温度，被投喂大量的鱼粉和糖，当然还有血液。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新发现的陨石坑表明多颗小行星可能撞击地球 最终导致恐龙灭绝](https://www.cnbeta.com/articles/science/1306413.htm) | Fri Aug 19 2022 9:11 AM 
+- 💼 [自称大卖成定局 恒驰5供应商公布：博世、宁德时代在列](https://www.cnbeta.com/articles/tech/1306443.htm) | Fri Aug 19 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，地球上仍然留有6600万年前一颗巨大小行星撞击留下的痕迹，该撞击导致恐龙灭绝和地球约四分之三的生命消失。但一项新研究表明，那块致命的岩石并不孤单。&lt;strong&gt;科学家们在北大西洋的海底发现了一个新的陨石坑，似乎与同一时间相吻合，这表明灭绝事件可能是由多次撞击引发的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，恒驰汽车宣布恒驰5正式上市，售价17.9万元，全系仅有一款。今日，恒驰官方发布了一段视频，介绍了恒驰5供应商阵容，&lt;strong&gt;其中包括博世IPB智能集成制动系统、爱达克整车开发、宁德时代电池、百度高精地图、东软集团HU娱乐控制器、中汽研整车及零部件试验等200家供应商。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [上海10亿元电子消费券需报名摇号 专家：筛选真正有需求的人](https://www.cnbeta.com/articles/tech/1306411.htm) | Fri Aug 19 2022 9:03 AM 
+- 💂 [消息称11/12.9吋iPad Pro将配全新4针连接器 用途不明](https://www.cnbeta.com/articles/tech/1306441.htm) | Fri Aug 19 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，上海官方宣布将首次发放电子消费券，总规模达到10亿元。&lt;strong&gt;不过这次的发放规则却引发热议，采用了全新的报名摇号模式，消费者需要摇到号才能领取消费券。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;有传言称下一代 iPad Pro 将配备两个全新的连接器，但这些新端口的确切用途尚不清楚。&lt;/strong&gt;日媒 Mac Otakara 报道称，从国内可靠消息源显示即将推出的 11 和 12.9 英寸 iPad Pro 型号都会采用和当前 iPad Pro 相同的外观设计，但设备的顶部和底部有个新型的连接器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [PC Game Pass即将迎来《雷神之锤4》和《德军总部3D》游戏](https://hot.cnbeta.com/articles/game/1306409.htm) | Fri Aug 19 2022 9:01 AM 
+- 🚀 [被DEF CON拉黑的社工专家已向主办方提起名誉侵权诉讼](https://www.cnbeta.com/articles/tech/1306439.htm) | Fri Aug 19 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着 Game Pass 上新，微软再次于 Xbox 游戏社区里引发了轰动。&lt;strong&gt;其中最让玩家们感到欣喜的，莫过于《雷神之锤 4》和《德军总部 3D》这两款第一人称射击（FPS）类游戏&lt;/strong&gt; —— 现均已能够通过 PC Game Pass 获得。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306409.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;社工社区的前组织者 Christopher Hadnagy，已向 DEF CON 提起了诉讼。理由是主办方颁布的禁令，对其声誉造成了“严重且不可逆”的损害。&lt;/strong&gt;据悉，DEF CON 创始人 Jeff Moss 以“违反大会行为准则”为由，无限期禁止了这位社会工程与安全专家参加全球知名的黑客大会。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [暴雪剧透《暗黑破坏神4》付费系统：氪金不会影响平衡](https://hot.cnbeta.com/articles/game/1306407.htm) | Fri Aug 19 2022 9:00 AM 
+- 🎊 [小米第二季度营收701.7亿元 调整后净利润20.8亿元](https://www.cnbeta.com/articles/tech/1306437.htm) | Fri Aug 19 2022 9:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自从《暗黑破坏神：不朽》依靠P2W（付费换取胜利）的模式赚得盆满钵满之后，玩家就对正在开发，并且爆出有氪金内容的《暗黑破坏神4》充满了不安。&lt;strong&gt;现在，暴雪发布了《暗黑破坏神4》的季度更新内容公告，介绍了在正式上线后的相关内容以及玩法等信息，也打消了玩家心中的顾虑。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月19日下午消息，小米集团（HK: 1810）今日发布截至2022年6月30日的第二季度财报。财报显示，小米第二季度营收701.7亿元，同比下滑20.1%，预估698.6亿元；净利润13.9亿元，预估15亿元；调整后净利润20.8亿元，同比下滑67.1%，预估19.9亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
