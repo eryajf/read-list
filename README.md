@@ -364,8 +364,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Motorola 手机及其国际版安卓系统的体验](https://www.v2ex.com/t/874079#reply0) | Fri Aug 19 2022 1:30 PM
-- 🤗 [mac 里怎么写脚本能指定某个文件夹内所有的以及递归的文件夹内的视频文件 处理放到一个新文件夹内](https://www.v2ex.com/t/874071#reply10) | Fri Aug 19 2022 12:12 PM
+- 🥸 [Motorola 手机及其国际版安卓系统的体验](https://www.v2ex.com/t/874079#reply1) | Fri Aug 19 2022 1:30 PM
+- 🤗 [mac 里怎么写脚本能指定某个文件夹内所有的以及递归的文件夹内的视频文件 处理放到一个新文件夹内](https://www.v2ex.com/t/874071#reply12) | Fri Aug 19 2022 12:12 PM
 - 🎭 [在 PostgreSQL 上面有么有类似美团 SQLAdvisor 的工具？](https://www.v2ex.com/t/874067#reply1) | Fri Aug 19 2022 11:54 AM
 - 🥷 [Linux 下有简单办法打印应用程序的 backtrace 吗？](https://www.v2ex.com/t/874064#reply4) | Fri Aug 19 2022 11:37 AM
 - 🐵 [win11 这个对齐方式真的难受](https://www.v2ex.com/t/874063#reply5) | Fri Aug 19 2022 11:22 AM<!-- v2ex:END -->
