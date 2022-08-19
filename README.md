@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [肌肉结节和消除的方法](http://jandan.net/p/111176) | Fri Aug 19 2022 9:58 AM 
+- 🚀 [测试发现，汽车里的物理按钮的优于触摸屏控件](http://jandan.net/p/111164) | Fri Aug 19 2022 1:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    虽然触屏将功能集成在一起，但操作繁琐，需要行驶中的司机低头去看 
+    </details> 
+
+- 🙉 [解放拖拉机！为大型农业设备刷机越狱的拖拉机黑客](http://jandan.net/p/111157) | Fri Aug 19 2022 1:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    需要对电路板进行物理访问 
+    </details> 
+
+- 🎉 [肌肉结节和消除的方法](http://jandan.net/p/111176) | Fri Aug 19 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
     结节会在一到两周内自行消除，也可以通过按摩等方式加速恢复 
     </details> 
 
-- 🙉 [英国超半数小型哺乳动物体内有塑料](http://jandan.net/p/111174) | Fri Aug 19 2022 6:25 AM 
+- 🐲 [英国超半数小型哺乳动物体内有塑料](http://jandan.net/p/111174) | Fri Aug 19 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
     不分城乡，不分食性 
     </details> 
 
-- 🎉 [网游Untamed Isles的开发者拿众筹到的经费投资加密货币，结果加密货币的市值大跌](http://jandan.net/p/111173) | Fri Aug 19 2022 4:26 AM 
+-  [网游Untamed Isles的开发者拿众筹到的经费投资加密货币，结果加密货币的市值大跌](http://jandan.net/p/111173) | Fri Aug 19 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
     我们投资加密货币，本来是想获得更多的开发资金，打造出最棒的作品……没想到呜呜呜 
-    </details> 
-
-- 🐲 [今日好价 0819](http://jandan.net/p/111172) | Fri Aug 19 2022 3:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    16周年纪念TEE预售中 
-    </details> 
-
--  [关于植物的气孔、光合和蒸腾作用，经典理论或许错了](http://jandan.net/p/111131) | Thu Aug 18 2022 3:46 PM 
-    <details><summary>展开描述 ...</summary> 
-    培育更抗干旱的植物 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
