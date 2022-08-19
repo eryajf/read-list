@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [坐标深圳找 Java 开发都那么难的吗](https://www.v2ex.com/t/873991#reply17) | Fri Aug 19 2022 6:38 AM
-- 🤗 [如何统计企业微信群里每个人的发言次数](https://www.v2ex.com/t/873985#reply1) | Fri Aug 19 2022 6:23 AM
-- 🎭 [分享给代码 “下毒” 的 Evil.js](https://www.v2ex.com/t/873983#reply5) | Fri Aug 19 2022 6:18 AM
-- 🥷 [Error adding module to project: null 问题如何解决？](https://www.v2ex.com/t/873978#reply0) | Fri Aug 19 2022 6:10 AM
-- 🐵 [我的一点骑行总结：极致骑行，希望对各位有用，尤其是有 &quot;精神内耗&quot;（心理压力）的](https://www.v2ex.com/t/873974#reply5) | Fri Aug 19 2022 5:59 AM<!-- v2ex:END -->
+- 🥸 [Intel 12 代大小核。4 核有难， 8 和围观！](https://www.v2ex.com/t/874009#reply1) | Fri Aug 19 2022 8:02 AM
+- 🤗 [有没有相对快速的降低 mbp 电池健康度的方法](https://www.v2ex.com/t/874006#reply3) | Fri Aug 19 2022 7:54 AM
+- 🎭 [PostgreSQL 中的 char&lpar;n&rpar;,varchar&lpar;n&rpar;全换 text 有没有必要](https://www.v2ex.com/t/874005#reply3) | Fri Aug 19 2022 7:45 AM
+- 🥷 [为什么 T-mobile 这类网站用 Angular 写百度也能正常收录内页？是用了 SSR 吗？ ASP.NET Core 有实现类似效果的方法吗？](https://www.v2ex.com/t/874000#reply1) | Fri Aug 19 2022 7:22 AM
+- 🐵 [Github Copilot 快要过期了，求一个便宜点的，靠谱的购入渠道。](https://www.v2ex.com/t/873999#reply4) | Fri Aug 19 2022 7:17 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
