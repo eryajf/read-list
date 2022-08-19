@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [摩托罗拉即将发布moto edge 2022 首发联发科天玑1050](https://www.cnbeta.com/articles/tech/1306271.htm) | Fri Aug 19 2022 3:50 AM 
+- 🕯 [三星为4nm工艺追加38亿美元投资 四季度有望月产2万片晶圆](https://www.cnbeta.com/articles/tech/1306287.htm) | Fri Aug 19 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月19日消息，摩托罗拉即将发布moto edge 2022，&lt;strong&gt;该机全球首发联发科天玑1050芯片。&lt;/strong&gt;据悉，联发科天玑1050芯片基于台积电6nm工艺制程打造，定位中端。&lt;strong&gt;这颗芯片由4颗Cortex A78大核和4颗Cortex A55小核组成，与天玑8000的CPU架构一致，像是“天玑8000的青春版”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着台积电预计在下月开始量产 3nm 工艺，三星也在积极通过增加 4nm 芯片产能来追赶竞争对手。&lt;strong&gt;最新消息称，这家韩国制造商正在投资约 38 亿美元，以将四季度晶圆产能提升到每月 20000 片。&lt;/strong&gt;早前，这家韩国电子科技巨头以通过有限的产能，向早期客户供应 3nm 环栅晶体管（GAA）芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [2024款讴歌ZDX将成为该品牌的首款EV](https://www.cnbeta.com/articles/tech/1306269.htm) | Fri Aug 19 2022 3:38 AM 
+- 💼 [腾讯《QQ空间花藤》宣布将于2022年8月18日终止运营](https://www.cnbeta.com/articles/tech/1306285.htm) | Fri Aug 19 2022 4:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;讴歌将于2024年推出其首款全电动汽车，当它到来时它将有一个熟悉的名字：ZDX。讴歌于当地时间周四证实，它将为这款全新的EV重新启用它那款让人爱恨交加的老式SUV的名字，并且这家公司还表示，更高性能的ZDX Type S版本也在计划之中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;腾讯QQ空间花藤应用宣布将于2022年8月18日14:59:59终止运营。这款应用在QQ空间里面，上学的时候都忙着农场种菜、停车位、还有这款花藤养花，每天提醒同学在空间里帮忙浇水，相互比比谁的花更好看，有没有长出来的。从老版到新版、再到QQ花藤手游，到现在也光荣下岗了&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [乐高为电动灯塔积木套装配备了一个菲涅尔透镜](https://hot.cnbeta.com/articles/comic/1306267.htm) | Fri Aug 19 2022 3:36 AM 
+- 💂 [三星将投资约38亿美元扩张4nm产能， 以提升市场份额](https://www.cnbeta.com/articles/tech/1306283.htm) | Fri Aug 19 2022 4:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;1822 年，奥古斯丁·菲涅尔（Augustin Fresnel）发明了一种由环形棱镜制成的透镜，特点是能够比反光镜或巨大的凸面镜更有效地集中光束，所以很适合灯塔使用。&lt;/strong&gt;时至今日，菲涅尔透镜也已被广泛运用于聚光灯和大多数 VR 头显。不过本文要为大家介绍的，则是来自乐高的电动灯塔积木套装。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1306267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;目前采用GAA（Gate-All-Around）架构晶体管技术的3nm代工产品已经发货了，对过去两三年晶圆代工陷入困局的三星来说，多少可以恢复一些信心。据报道，竞争对手台积电（TSMC）的3nm工艺会在9月份正式进入量产阶段，传闻初期良品率比当时5nm工艺还要好，继续对三星形成压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [国产动画电影《深海》“粒子水墨”特辑 年内上映](https://hot.cnbeta.com/articles/comic/1306265.htm) | Fri Aug 19 2022 3:32 AM 
+- 🚀 [新型可穿戴传感器可检测人体汗液中多种化合物](https://www.cnbeta.com/articles/science/1306281.htm) | Fri Aug 19 2022 4:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新浪电影今日（8月19日）消息，国产动画电影《深海》公布“粒子水墨”特辑以及一组信息图，首曝“从0到1”的美学研发历程，尝试为中国动画探索新方向：将中国水墨“三维化”。为此，仅让第一张概念图“动起来”便耗时两年。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1306265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，如果你曾经抽过血，无论是检查你的胆固醇、肾功能、激素指数、血糖，还是作为全面体检的一个环节，你可能不禁会想——为什么一定要抽出血液才能检测相关身体指数？难道没有一种更简单、痛苦更少的方法吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Hori 推出NS新手柄Split Pad Fit 9月日本发售](https://hot.cnbeta.com/articles/game/1306263.htm) | Fri Aug 19 2022 3:31 AM 
+- 🎊 [全球唯一获批的猴痘疫苗生产商找到“代工厂” 在美生产几百万剂疫苗](https://www.cnbeta.com/articles/tech/1306279.htm) | Fri Aug 19 2022 4:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;著名配件厂商Hori推出了新的Switch手柄Split Pad Fit，与上一代产品Split Pad Pro相比本次采用了更流畅的设计，让手小的玩家更加方便握持。Split Pad Fit采用分体设计，有十字键，支持连发和背部自定义按键设定，但依旧没有HD震动和NFC等功能，预计于9月在日本发售，价格约为40美元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;媒体称，丹麦疫苗企业Bavarian Nordic即将和一家美国CDMO签约，达成协议后准备四个月内开始生产猴痘疫苗；为扩大产能，Bavarian Nordic还寻求和美国的医药大企业合作。早盘曾跌超1%的Bavarian Nordic美股盘中飙涨，午盘一度涨逾10%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
