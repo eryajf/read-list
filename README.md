@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大家来看个有趣的事情吧，统一推送联盟疑似凉了](https://www.v2ex.com/t/873940#reply2) | Fri Aug 19 2022 3:46 AM
-- 🤗 [备用几个在线数据库搞测试开发，终归不是什么坏事儿（免费数据库限时领取）](https://www.v2ex.com/t/873938#reply2) | Fri Aug 19 2022 3:44 AM
-- 🎭 [pyspark 的 Python 代码中如何调用 jar 包里面的方法](https://www.v2ex.com/t/873928#reply0) | Fri Aug 19 2022 3:15 AM
-- 🥷 [.NET 反混淆除了 de4dot 还有其他工具吗？](https://www.v2ex.com/t/873926#reply1) | Fri Aug 19 2022 3:10 AM
-- 🐵 [沟通交流下 杭州和上海中小公司， 哪些公司目前在招 35+资深程序员](https://www.v2ex.com/t/873919#reply3) | Fri Aug 19 2022 2:52 AM<!-- v2ex:END -->
+- 🥸 [spring boot 请求一个 url 会自动调用另一个的诡异问题](https://www.v2ex.com/t/873947#reply5) | Fri Aug 19 2022 4:14 AM
+- 🤗 [大家来看个有趣的事情吧，统一推送联盟疑似凉了](https://www.v2ex.com/t/873940#reply22) | Fri Aug 19 2022 3:46 AM
+- 🎭 [备用几个在线数据库搞测试开发，终归不是什么坏事儿（免费数据库限时领取）](https://www.v2ex.com/t/873938#reply4) | Fri Aug 19 2022 3:44 AM
+- 🥷 [pyspark 的 Python 代码中如何调用 jar 包里面的方法](https://www.v2ex.com/t/873928#reply0) | Fri Aug 19 2022 3:15 AM
+- 🐵 [.NET 反混淆除了 de4dot 还有其他工具吗？](https://www.v2ex.com/t/873926#reply1) | Fri Aug 19 2022 3:10 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
