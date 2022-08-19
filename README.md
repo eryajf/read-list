@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [来个面试题，看看你对 kotlin coroutine掌握得如何？](https://juejin.cn/post/7133450291751419941) | Fri Aug 19 2022 5:11 AM 
+- 🤗 [ServiceWorker 缓存与 HTTP 缓存](https://juejin.cn/post/7133490480859480095) | Fri Aug 19 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-    面试必知必会：给出一段 kotlin coroutine 的代码片段，你能说出并分析出它运行的结果吗？ 
+    之前做性能优化分享，提到过缓存是很重要的一环。现在主流的缓存基本都是 HTTP 缓存，像 ServiceWorker 缓存用的少之又少。今天来聊一聊，ServiceWorker 是什么 ？ 与 HTT 
     </details> 
 
-- 🎡 [45个 GIT 经典操作场景，专治不会合代码](https://juejin.cn/post/7133429337553895438) | Fri Aug 19 2022 3:49 AM 
+- 🎡 [[Flutter] Flutter 的 build 系统&lpar;一&rpar;](https://juejin.cn/post/7133488621180420126) | Fri Aug 19 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是小富~ 传送门：原文地址 git对于大家应该都不太陌生，熟练使用git已经成为程序员的一项基本技能，尽管在工作中有诸如 Sourcetree这样牛X的客户端工具，使得合并代码变的很方便。但 
+    在Flutter中，build系统作为我们经常接触的东西，很多人对其并不陌生；不过其是如何运行的，都干了什么，如何实现一个自定义的build_runner，其自定义程度能做到什么程度，就需要分析一下； 
     </details> 
 
-- 🕯 [当UI走查说页面色值错误时，先别急着检查代码](https://juejin.cn/post/7133427384979554312) | Fri Aug 19 2022 3:41 AM 
+- 🕯 [为了降低维护成本（早点下班），我在组件开发中所做的那些优化（偷懒）](https://juejin.cn/post/7133482922933223431) | Fri Aug 19 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-    颜色一直是UI设计师们非常敏感的问题，我至今仍忘不了那天，一位萌新设计师在走查UI时，给我提了好几个Bug，大多是颜色有差异问题，我当时的第一反应是去检查代码，排查了半天确认自己没有写错色值后，我就在 
+    组件开发中为了稳定性、健壮性，经常需要为组件编写测试用例，然后还要为了开发者方便使用编写文档，都是非常耗时间的差事。作为一个独立维护组件库的程序员，为了能够降低组件维护的成本（早点下班），我总结了一下 
     </details> 
 
-- 🚀 [hr套路程序猿的套路你遇到过几个](https://juejin.cn/post/7133425713729765389) | Fri Aug 19 2022 3:35 AM 
+- 🚀 [Camera1 源码解析系列（五）—— Camera1 takePicture&lpar;&rpar; 流程解析](https://juejin.cn/post/7133481430725689375) | Fri Aug 19 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    刷kpi 有的hr有指标，总包vs高base，画大饼日常操作，打工人，打工魂，打工都是人上人，冲兄弟们 
+    前面几篇文章已经把 Camera 控制流的部分梳理得比较清楚了。本篇将数据流与 Camera 的控制流结合起来，从 takePicture&lpar;&rpar; 方法切入，追踪一个比较完整的 Camera 流程。 
     </details> 
 
-- 💪 [还在为node版本不兼容而烦恼吗？🍊](https://juejin.cn/post/7133425248514342943) | Fri Aug 19 2022 3:33 AM 
+- 💪 [Java源码分析 | Object](https://juejin.cn/post/7133480708823056415) | Fri Aug 19 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    node 版本管理器 nvm 是一个node环境版本管理工具。主。为了解决node.js各种版本存在不兼容现象可以通过nvm来安装和切换不同版本的node.js 🍉 1. 下载 nvm 可点击下面的链 
+    Object 定义 Object 类是类层次结构的根。每个类都有 Object 类作为超类。所有对象，包括数组等，都实现了这个类的方法。 静态代码块 在Object类的最开始部分，有如下四行代码： n 
     </details> 
 <!-- juejin:END -->
 ### 少数派
