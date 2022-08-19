@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google 宣布明年8月关闭其IoT Core服务](https://www.cnbeta.com/articles/tech/1306327.htm) | Fri Aug 19 2022 6:21 AM 
+- 🕯 [Google成功挫败一次DDoS攻击 峰值时每秒请求超过4600万次](https://www.cnbeta.com/articles/tech/1306343.htm) | Fri Aug 19 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据外媒报道，Google云（Google Cloud）本周宣布将于2023年8月关闭其&lt;a href=&quot;https://cloud.google.com/iot-core&quot; target=&quot;_blank&quot;&gt;IoT Core&lt;/a&gt;服务，其现有客户将有一年时间转移到其他合作伙伴来管理他们的物联网设备。&lt;/strong&gt;Google Cloud在通知中解释说，该公司向客户充分告知了其停用这项服务的计划，以便他们可以签约其他合作伙伴来管理物联网设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年 6 月，Cloudflare 报告遭遇了有史以来最大规模的 DDoS 网络攻击，峰值每秒请求高达 2600 万次。这刷新了 2021 年 8 月创下的 1720 万次和 2022 年 4 月创下的 1530 万次。不过这个记录在本月再次刷新，&lt;a href=&quot;https://cloud.google.com/blog/products/identity-security/how-google-cloud-blocked-largest-layer-7-ddos-attack-at-46-million-rps&quot; target=&quot;_blank&quot;&gt;Google 表示峰值达到了每秒 4600 万次。&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [扎克伯格的最新VR社交虚拟人自拍被媒体、社区群嘲](https://www.cnbeta.com/articles/tech/1306325.htm) | Fri Aug 19 2022 6:11 AM 
+- 💼 [VinylSonic超声波黑胶唱片清洁机正在众筹 早鸟价149美元](https://hot.cnbeta.com/articles/music/1306341.htm) | Fri Aug 19 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Meta日前正式为欧洲市场带来了旗下元宇宙社交平台Horizon Worlds。作为宣传，团队发布了一张Avatar版马克·扎克伯格与埃菲尔铁塔的图片。&lt;strong&gt;但这一诡异的图片引起了社区的围攻嘲讽，甚至Kotaku，PC Gamer，TechCrunch和福布斯等著名媒体都纷纷吐槽。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;过去几年，黑胶唱片的销量一直在稳步上升。与此同时，大量音乐爱好者也开始重新整理他们的收藏，结果发现清灰是件让人很头疼的事情。&lt;strong&gt;好消息是，一家名叫 VinylSonic 的初创企业，已经倒腾出了一款类似“烤面包机”的超声波唱片清洁装置。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1306341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《暗黑破坏神4》季度更新公告:通行证&amp;商城皮肤不会影响平衡](https://hot.cnbeta.com/articles/game/1306323.htm) | Fri Aug 19 2022 6:01 AM 
+- 💂 [WSA登陆日本：当地Windows 11用户可安装Android应用了](https://www.cnbeta.com/articles/tech/1306339.htm) | Fri Aug 19 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期，暴雪发布了《暗黑破坏神4》的季度更新内容公告，介绍了在正式上线后的相关内容以及玩法等信息。在公告中除了《暗黑破坏神 IV》的完整游戏体验、正式上市时的各种游戏后期玩法，以及延续剧情的常规资料片，游戏将会有其他附加内容，这些是公告内重点内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;兑现今年 5 月做出的承诺，今天&lt;a href=&quot;https://blogs.windows.com/windows-insider/2022/08/18/expanding-android-apps-on-windows-11-to-windows-insiders-in-japan/&quot; target=&quot;_blank&quot;&gt;微软宣布向日本地区开放 Windows Subsystem for Android（WSA）系统&lt;/a&gt;。&lt;/strong&gt;日本地区用户在 Windows 11 系统上通过亚马逊 AppStore 来安装 Android 应用程序。不过前提是要加入 Windows Insider 项目，并将 Microsoft Store 版本号升至 22206.1401.6 或者更高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《中华小子》高清重制版8月25日全平台上线 每周更新](https://hot.cnbeta.com/articles/comic/1306321.htm) | Fri Aug 19 2022 5:56 AM 
+- 🚀 [卫星探测到照亮盐湖城上空的火球 比满月还要亮16倍](https://www.cnbeta.com/articles/science/1306337.htm) | Fri Aug 19 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国产经典武侠动画《中华小子》高清重制版即将于8月25日全平台上线，周一、周四10:00更新，此前《中华小子》高清重制版已首发上线百视通平台。《中华小子》是由法国投资和中国制作的26集系列动画片。是一部结合中国武侠、仙侠的魔幻神话剧，其中包含了一些古代神话人物、神兽和妖魔鬼怪。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1306321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间8月13日上午8点30分，犹他州盐湖城地区的居民在被巨大的轰鸣声吓了一跳。&lt;strong&gt;目击者看到天空中有一个壮观的火球，比满月还要亮16倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马丁谈《龙之家族》第一集 与血色婚礼一样影响深远](https://hot.cnbeta.com/articles/movie/1306319.htm) | Fri Aug 19 2022 5:56 AM 
+- 🎊 [9岁孩子玩使命召唤过于激动 咬麦克风硌掉一颗牙齿](https://hot.cnbeta.com/articles/game/1306335.htm) | Fri Aug 19 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;乔治·R·R·马丁将《龙之家族》第一集与《权力的游戏》中知名的血色婚礼进行了对比。乔治·R·R马丁这么形容《龙之家族》第一集中的那个场景：“那一幕是......你不会想用“愉快”来形容这样的场景，但它十分的宏大，这是我发自内心的想法，它会把你的心脏掏出来扔在地上，它有着和血色婚礼同样深远的影响，这是一个十分美丽的场景，有着一些可怕的事情将发生。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日国外一个9岁小孩在玩《使命召唤：战区》比赛时过于激动，咬到耳机上的麦克风，竟然硌掉了一颗牙齿。&lt;/strong&gt;玩家们经常使用麦克风与队友交流或与对手对骂，这很正常，但也会遇到意外。近日在国外Reddit论坛上，用户&amp;#39;Appropriate_Try_9946&amp;#39;分享了消息截图，称他侄子在玩《使命召唤：战区》时弄伤了牙齿。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
