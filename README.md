@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《权游》衍生剧集“龙之家族”新预告 8月22日播映](https://hot.cnbeta.com/articles/movie/1306531.htm) | Fri Aug 19 2022 6:41 PM 
+- 🕯 [德国暂获喘息之机 莱茵河水位下周将涨至更易通航水平](https://www.cnbeta.com/articles/tech/1306541.htm) | Fri Aug 19 2022 9:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;艾玛·达西、马特·史密斯、瑞斯·伊凡斯、奥利维亚·库克、帕迪·康斯戴恩等主演！首季共10集，北京时间8月22日上线HBO Max！根据乔治马丁的《血与火（Fire &amp;amp; Blood）》小说改编，《龙之家族》设定在《权力的游戏》故事200年之前，将讲述坦格利安家族（House Targaryen）的故事，由艾玛·达西、马特·史密斯、米莉·阿尔柯克等主演。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;德国政府数据显示，德国莱茵河的关键航行河段考布（Kaub）的水位预计将在下周二早上飙升至148厘米，这使得载运重要货物的货船更容易通过这条水道。据悉，该河段目前的水位只有35厘米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马斯克与脑部芯片初创公司synchron接洽](https://www.cnbeta.com/articles/tech/1306529.htm) | Fri Aug 19 2022 6:40 PM 
+- 💼 [研究人员称iOS设备并未让VPN把所有流量导至代理通道](https://www.cnbeta.com/articles/tech/1306539.htm) | Fri Aug 19 2022 8:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月20日凌晨消息，据悉，在埃隆·马斯克的脑机接口公司Neuralink在脑机对接的竞赛中迎头赶上之际，他与大脑芯片植入开发公司Synchron接洽，希望获得一笔潜在投资。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iCloud 专用代理是苹果在推出 iCloud+ 时提供的一项服务，通过VPN来帮助用户防止自己访问的网站和服务获取自己的敏感信息，是一种隐私保护机制。除了这项服务，也有许多用户习惯使用使用其他VPN服务来保护自己的线上隐私。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [一图看懂小米Q2财报：营收701.7亿元 调整后净利润20.8亿元](https://www.cnbeta.com/articles/tech/1306527.htm) | Fri Aug 19 2022 6:33 PM 
+- 💂 [“印度支付宝”上演“逼宫大戏” 公司股价上市以来跌超60%](https://www.cnbeta.com/articles/tech/1306537.htm) | Fri Aug 19 2022 8:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月19日下午消息，小米集团（HK: 1810）今日发布截至2022年6月30日的第二季度财报。财报显示，小米第二季度营收701.7亿元，同比下滑20.1%，预估698.6亿元；净利润13.9亿元，预估15亿元；调整后净利润20.8亿元，同比下滑67.1%，预估19.9亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;印度移动支付平台Paytm创始人或将面临自IPO以来最大的考验——是否留任。Paytm重要股东、印度投资公司IIAS反对其继续“掌舵”，因其无法兑现盈利且薪资过高。当地时间8月19日周五，“印度支付宝”Paytm的创始人或将面临自IPO以来最大的考验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [免征购置税延期一年 新能源车市再放“大礼包”](https://www.cnbeta.com/articles/tech/1306525.htm) | Fri Aug 19 2022 6:31 PM 
+- 🚀 [长征系列运载火箭连续成功发射103次](https://www.cnbeta.com/articles/science/1306535.htm) | Fri Aug 19 2022 8:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新能源汽车免征购置税再延一年，至2023年底。8月19日，据央视新闻联播报道，中共中央政治局常委、国务院总理李克强主持召开国务院常务会议，为扩大消费、培育新增长点和促进新能源汽车消费、相关产业升级，决定将免征车购税政策延续至2023年底，继续予以免征车船税和消费税、路权、牌照等支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天01时37分，我国在西昌卫星发射中心使用长征二号丁运载火箭，成功将遥感三十五号04组卫星发射升空。自2020年5月5日至今，长征火箭创下了103次新的连胜纪录，而完成这一纪录仅历时2年3个月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [河南成为全国第一个40℃大满贯省份：119个县市国家站都超40℃](https://www.cnbeta.com/articles/tech/1306523.htm) | Fri Aug 19 2022 2:47 PM 
+- 🎊 [这张照片凭什么值一百亿？](https://www.cnbeta.com/articles/science/1306533.htm) | Fri Aug 19 2022 8:45 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，&lt;strong&gt;我国正在经历1961年以来的最强高温过程，重庆北碚破纪录成日常最高冲到45℃，&lt;/strong&gt;湖泊、河流水位也都大幅下降。不过值得注意的是，这次并不是大家惯有映像中南方地区高温，两广和海南等地其实相对比较清凉，而偏中部的一些地区则是频繁创下记录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;2022年7月11日，詹姆斯·韦布空间望远镜 &lpar;JWST&rpar; 的第一张彩色图片正式发布&lt;/strong&gt;，它立即就成了世界各地的网友们最熟悉的一张星空照片。不过，问题来了，这张照片为什么看起来这么乱——这里头到底都拍了些啥？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
