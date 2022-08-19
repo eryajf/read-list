@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [世界最大蚊子工厂每周生产3000万只：为了在蚊群传播一种细菌](https://www.cnbeta.com/articles/science/1306445.htm) | Fri Aug 19 2022 10:10 AM 
+- 🕯 [《死亡搁浅》正式登陆微软PC Game Pass 一起踏上新旅程](https://hot.cnbeta.com/articles/game/1306467.htm) | Fri Aug 19 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;蚊子可以说是被人人喊打的一种非常讨厌的动物，但全球却有很多地方都有蚊子工厂，专门生产蚊子，产量巨大。据悉，目前世界上最大的蚊子培育工厂，在哥伦比亚麦德林市的砖楼里，&lt;strong&gt;科学家们每周培育超过3000万只蚊子。&lt;/strong&gt;它们被满足一切需求：合适的温度，被投喂大量的鱼粉和糖，当然还有血液。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;全球发行商505Games与小岛工作室联合宣布，《死亡搁浅》即将于8月23日正式登陆微软的PC 版Game Pass。小岛秀夫先生监制的《死亡搁浅》广受好评，是一部为玩家带来颠覆性玩法的史诗级作品，本次正式登陆微软游戏生态系统，以供订阅了PC版Xbox Game Pass的玩家体验。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [自称大卖成定局 恒驰5供应商公布：博世、宁德时代在列](https://www.cnbeta.com/articles/tech/1306443.htm) | Fri Aug 19 2022 10:09 AM 
+- 💼 [零跑汽车赴港上市获证监会核准](https://www.cnbeta.com/articles/tech/1306465.htm) | Fri Aug 19 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，恒驰汽车宣布恒驰5正式上市，售价17.9万元，全系仅有一款。今日，恒驰官方发布了一段视频，介绍了恒驰5供应商阵容，&lt;strong&gt;其中包括博世IPB智能集成制动系统、爱达克整车开发、宁德时代电池、百度高精地图、东软集团HU娱乐控制器、中汽研整车及零部件试验等200家供应商。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月19日消息，证监会核准浙江零跑科技股份有限公司发行境外上市外资股及境内未上市股份到境外上市。证监会批复称，核准公司发行不超过290,917,000股境外上市外资股，每股面值人民币1元，全部为普通股。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [消息称11/12.9吋iPad Pro将配全新4针连接器 用途不明](https://www.cnbeta.com/articles/tech/1306441.htm) | Fri Aug 19 2022 10:03 AM 
+- 💂 [干旱致洞庭湖面积缩四分之三 网友实拍一个月“沧海变桑田”](https://www.cnbeta.com/articles/tech/1306463.htm) | Fri Aug 19 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;有传言称下一代 iPad Pro 将配备两个全新的连接器，但这些新端口的确切用途尚不清楚。&lt;/strong&gt;日媒 Mac Otakara 报道称，从国内可靠消息源显示即将推出的 11 和 12.9 英寸 iPad Pro 型号都会采用和当前 iPad Pro 相同的外观设计，但设备的顶部和底部有个新型的连接器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月以来，长江流域持续高温少雨，江河来水偏少、水位持续走低，中小型水库蓄水不足，多地土壤缺墒。水利部消息，总体来看，长江流域发生了1961年以来最严重的气象干旱。&lt;strong&gt;而且因为降水历史同期最少，高温少雨日数多等原因，导致江河来水明显偏少，水位持续走低。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [被DEF CON拉黑的社工专家已向主办方提起名誉侵权诉讼](https://www.cnbeta.com/articles/tech/1306439.htm) | Fri Aug 19 2022 9:55 AM 
+- 🚀 [西班牙5000年前巨石阵因干旱重现：全国正经历有史以来最热夏天](https://www.cnbeta.com/articles/science/1306461.htm) | Fri Aug 19 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;社工社区的前组织者 Christopher Hadnagy，已向 DEF CON 提起了诉讼。理由是主办方颁布的禁令，对其声誉造成了“严重且不可逆”的损害。&lt;/strong&gt;据悉，DEF CON 创始人 Jeff Moss 以“违反大会行为准则”为由，无限期禁止了这位社会工程与安全专家参加全球知名的黑客大会。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据路透社8月19日报道，&lt;strong&gt;伴随着非洲气团自5月涌入伊比利亚半岛，西班牙全国经历有史以来最热的夏天，部分地区持续超过40°C。尽管这个夏天给西班牙农村地区造成了破坏，但同时带来了一个意想不到发现，多尔曼巨石阵重见天日。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [小米第二季度营收701.7亿元 调整后净利润20.8亿元](https://www.cnbeta.com/articles/tech/1306437.htm) | Fri Aug 19 2022 9:42 AM 
+- 🎊 [小米回应营收及利润下滑：全球消费市场疲软，创新业务投入达6.11亿元](https://www.cnbeta.com/articles/tech/1306459.htm) | Fri Aug 19 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月19日下午消息，小米集团（HK: 1810）今日发布截至2022年6月30日的第二季度财报。财报显示，小米第二季度营收701.7亿元，同比下滑20.1%，预估698.6亿元；净利润13.9亿元，预估15亿元；调整后净利润20.8亿元，同比下滑67.1%，预估19.9亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;小米公布2022年二季度及上半年业绩。数据显示，小米二季度收入701.7亿元人民币，同比下降20.1％；调整后净利润20.8亿元，同比下降67.1％。在财报电话会上，小米高管对营收、利润下滑的原因进行回应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
