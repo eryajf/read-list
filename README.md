@@ -367,7 +367,7 @@
 - 🥸 [用 Tauri 写了个小工具,打包和分发体验让我崩溃。](https://www.v2ex.com/t/874119#reply1) | Fri Aug 19 2022 6:44 PM
 - 🤗 [网易易盾, 海外服务器证书过期](https://www.v2ex.com/t/874113#reply1) | Fri Aug 19 2022 5:37 PM
 - 🎭 [wps for Linux 不支持 PDF 注释吗？](https://www.v2ex.com/t/874112#reply0) | Fri Aug 19 2022 4:54 PM
-- 🥷 [想注册 100 个微信](https://www.v2ex.com/t/874110#reply15) | Fri Aug 19 2022 4:41 PM
+- 🥷 [想注册 100 个微信](https://www.v2ex.com/t/874110#reply17) | Fri Aug 19 2022 4:41 PM
 - 🐵 [分享最近阅读的书藉清单&lpar;四&rpar;](https://www.v2ex.com/t/874109#reply0) | Fri Aug 19 2022 4:38 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
