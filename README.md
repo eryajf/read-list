@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ServiceWorker 缓存与 HTTP 缓存](https://juejin.cn/post/7133490480859480095) | Fri Aug 19 2022 7:47 AM 
+- 🤗 [闲来无事，聊聊掘金？](https://juejin.cn/post/7133519434408280078) | Fri Aug 19 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
-    之前做性能优化分享，提到过缓存是很重要的一环。现在主流的缓存基本都是 HTTP 缓存，像 ServiceWorker 缓存用的少之又少。今天来聊一聊，ServiceWorker 是什么 ？ 与 HTT 
+    按照当前的掘力值计算，我如果在年内每天去同步 GitHub 上的两篇 readme 或者文档，还是有可能到 lv6 或者 lv7 的，当然也会有很多方式可以绕过审核，因为审核人或者库也没那么多精力或者 
     </details> 
 
-- 🎡 [[Flutter] Flutter 的 build 系统&lpar;一&rpar;](https://juejin.cn/post/7133488621180420126) | Fri Aug 19 2022 7:40 AM 
+- 🎡 [微服务网关 Kong 科普](https://juejin.cn/post/7133508813977550884) | Fri Aug 19 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-    在Flutter中，build系统作为我们经常接触的东西，很多人对其并不陌生；不过其是如何运行的，都干了什么，如何实现一个自定义的build_runner，其自定义程度能做到什么程度，就需要分析一下； 
+    Kong是由Mashape开发的并于2015年开源的一款API网关，Kong可以水平扩展多个Kong Server，通过前置的负载均衡配置把请求均匀地分发到各个Server，来应对大批量的网络请求。 
     </details> 
 
-- 🕯 [为了降低维护成本（早点下班），我在组件开发中所做的那些优化（偷懒）](https://juejin.cn/post/7133482922933223431) | Fri Aug 19 2022 7:17 AM 
+- 🕯 [【机器学习】-算法分类介绍](https://juejin.cn/post/7133508425102999588) | Fri Aug 19 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-    组件开发中为了稳定性、健壮性，经常需要为组件编写测试用例，然后还要为了开发者方便使用编写文档，都是非常耗时间的差事。作为一个独立维护组件库的程序员，为了能够降低组件维护的成本（早点下班），我总结了一下 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第20天，点击查看活动详情 1. 监督学习 定义： 输入数据是由输入特征值和目标值所组成 函数的输出可以是一个连续的值（称为回归）  
     </details> 
 
-- 🚀 [Camera1 源码解析系列（五）—— Camera1 takePicture&lpar;&rpar; 流程解析](https://juejin.cn/post/7133481430725689375) | Fri Aug 19 2022 7:11 AM 
+- 🚀 [Vue2 到 React 一遍过](https://juejin.cn/post/7133506041391611912) | Fri Aug 19 2022 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-    前面几篇文章已经把 Camera 控制流的部分梳理得比较清楚了。本篇将数据流与 Camera 的控制流结合起来，从 takePicture&lpar;&rpar; 方法切入，追踪一个比较完整的 Camera 流程。 
+    很多同学说自己只会 Vue 不会 React，相信我，React 没那么难，只需要花 2 天时间看完这篇对比教程，马上你就能上手开发啦。 
     </details> 
 
-- 💪 [Java源码分析 | Object](https://juejin.cn/post/7133480708823056415) | Fri Aug 19 2022 7:08 AM 
+- 💪 [PowerManagerService之省电模式&lpar;1&rpar;: 初步认识](https://juejin.cn/post/7133505259720163335) | Fri Aug 19 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-    Object 定义 Object 类是类层次结构的根。每个类都有 Object 类作为超类。所有对象，包括数组等，都实现了这个类的方法。 静态代码块 在Object类的最开始部分，有如下四行代码： n 
+    本文对省电模式进行初步认识，并且对省电模式的初始化环境的代码进行分析，为后面逐步剖析省电模式的功能打下基础。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
