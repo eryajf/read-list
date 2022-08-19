@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Fiddler&lpar;一&rpar; 基础和协议介绍](https://juejin.cn/post/7133387080738013220) | Fri Aug 19 2022 1:05 AM 
+- 🤗 [Java多线程工具CompletableFuture](https://juejin.cn/post/7133394175059787790) | Fri Aug 19 2022 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-    Fiddler 介绍 Fiddler 是位于客户端和服务端之间的 HTTP 代理 目前最常用的 HTTP 抓包工具之一 功能非常强大，是 Web 调试的利器 监控浏览器所有的 HTTP / HTTPS 
+    在编写写多线程程序的时候，如果遇到一些复杂问题感觉无从下手，可以试试官方提供的CompletableFuture满足绝大部分多线程场景 
     </details> 
 
-- 🎡 [TypeScript-起步——TypeScript简介（四）](https://juejin.cn/post/7133324120758059038) | Thu Aug 18 2022 9:22 PM 
+- 🎡 [看了这么多关于ES安全认证的文，我决定自己动手写一篇](https://juejin.cn/post/7133194107211644936) | Thu Aug 18 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 3、tslint 全局安装tslint：npm install tslint -g 在项目中可以初始化t 
+    真的是非常用心地在介绍elasticsearch如何增加安全认证的方式了，绝对和网上那些同质化的文章完全不一样 
     </details> 
 
-- 🕯 [盘点Vue2和Vue3的10种组件通信方式&lpar;值得收藏&rpar;](https://juejin.cn/post/7133250560441974798) | Thu Aug 18 2022 4:15 PM 
+- 🕯 [黑马Java笔记第二讲—java基础](https://juejin.cn/post/7133192968676048932) | Thu Aug 18 2022 12:33 PM 
     <details><summary>展开描述 ...</summary> 
-    Vue中组件通信方式有很多，其中Vue2和Vue3实现起来也会有很多差异；本文将通过`选项式API` `组合式API`以及`setup`三种不同实现方式全面介绍Vue2和Vue3的组件通信方式 
+    1. 算数运算符 1.1 算术运算符的（理解） 1.1.1 运算符和表达式 运算符：对常量或者变量... 
     </details> 
 
-- 🚀 [Fiddler添加自定义列：增加IP列](https://juejin.cn/post/7133248060586967047) | Thu Aug 18 2022 4:07 PM 
+- 🚀 [kube-scheduler源码阅读](https://juejin.cn/post/7133192540215312420) | Thu Aug 18 2022 12:30 PM 
     <details><summary>展开描述 ...</summary> 
-    方式： 1、运行fiddler，菜单，Rules-&gt;Customize Rules，打开“Fiddler ScriptEditor” 2、Ctrl+F查找“static function Main&lpar;&rpar; 
+    Scheduler调度器，在k8s的整个代码中处于一个承上启下的作用。了解Scheduler在哪个过程中发挥作用，更能够理解它的重要性。 kube-scheduler v1.21 的调度流程源码分析。 
     </details> 
 
-- 💪 [为什么有些蛮厉害的人，后来都不咋样了](https://juejin.cn/post/7133246541623459847) | Thu Aug 18 2022 4:00 PM 
+- 💪 [SQL索引分类和建索引命令语句](https://juejin.cn/post/7133189407506432036) | Thu Aug 18 2022 12:19 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 写这篇文章目的是之前在一篇文章中谈到，我实习那会有个老哥很牛皮，业务能力嘎嘎厉害，但是后面发展一般般，这引起我的思考，最近有个同事发了篇腾讯pcg的同学关于review 相关的文章，里面也谈到架 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第20天，点击查看活动详情 主键索引：索引值必须是唯一的，且不能为NULL 第一种：CREATE TABLE table_name&lpar; 
     </details> 
 <!-- juejin:END -->
 ### 少数派
