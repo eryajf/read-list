@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [首发3699元 飞利浦推出27寸电竞显示器：支持240Hz高刷](https://www.cnbeta.com/articles/tech/1306291.htm) | Fri Aug 19 2022 4:53 AM 
+- 🕯 [Google 宣布明年8月关闭其IoT Core服务](https://www.cnbeta.com/articles/tech/1306327.htm) | Fri Aug 19 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;飞利浦近日推出了一款27寸电竞显示器——飞利浦27M1F5500P，刷新率高达240Hz，价格为5499元，&lt;strong&gt;首发到手价3699元。&lt;/strong&gt;据介绍，这款显示器采用了一块&lt;strong&gt;2K NanoIPS电竞屏，分辨率为2560*1440&lt;/strong&gt;，灰度响应时间为1ms，亮度高达450nit，通过了DisplayHDR600认证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据外媒报道，Google云（Google Cloud）本周宣布将于2023年8月关闭其&lt;a href=&quot;https://cloud.google.com/iot-core&quot; target=&quot;_blank&quot;&gt;IoT Core&lt;/a&gt;服务，其现有客户将有一年时间转移到其他合作伙伴来管理他们的物联网设备。&lt;/strong&gt;Google Cloud在通知中解释说，该公司向客户充分告知了其停用这项服务的计划，以便他们可以签约其他合作伙伴来管理物联网设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国内首个：广州公交上线数字人民币付款码支付功能](https://www.cnbeta.com/articles/tech/1306289.htm) | Fri Aug 19 2022 4:51 AM 
+- 💼 [扎克伯格的最新VR社交虚拟人自拍被媒体、社区群嘲](https://www.cnbeta.com/articles/tech/1306325.htm) | Fri Aug 19 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月19日消息，@广州交通 官微宣布，今日，&lt;strong&gt;广州市上线数字人民币付款码支付公交乘车费用的试点功能，成为国内同类城市中首个开通该功能的城市。&lt;/strong&gt;乘客通过开通数字人民币建设银行钱包，即可在旅游观光1线等10条公交线路，通过数字人民币App参与数字人民币付款码支付乘车费用的试点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Meta日前正式为欧洲市场带来了旗下元宇宙社交平台Horizon Worlds。作为宣传，团队发布了一张Avatar版马克·扎克伯格与埃菲尔铁塔的图片。&lt;strong&gt;但这一诡异的图片引起了社区的围攻嘲讽，甚至Kotaku，PC Gamer，TechCrunch和福布斯等著名媒体都纷纷吐槽。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [三星为4nm工艺追加38亿美元投资 四季度有望月产2万片晶圆](https://www.cnbeta.com/articles/tech/1306287.htm) | Fri Aug 19 2022 4:48 AM 
+- 💂 [《暗黑破坏神4》季度更新公告:通行证&amp;商城皮肤不会影响平衡](https://hot.cnbeta.com/articles/game/1306323.htm) | Fri Aug 19 2022 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着台积电预计在下月开始量产 3nm 工艺，三星也在积极通过增加 4nm 芯片产能来追赶竞争对手。&lt;strong&gt;最新消息称，这家韩国制造商正在投资约 38 亿美元，以将四季度晶圆产能提升到每月 20000 片。&lt;/strong&gt;早前，这家韩国电子科技巨头以通过有限的产能，向早期客户供应 3nm 环栅晶体管（GAA）芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近期，暴雪发布了《暗黑破坏神4》的季度更新内容公告，介绍了在正式上线后的相关内容以及玩法等信息。在公告中除了《暗黑破坏神 IV》的完整游戏体验、正式上市时的各种游戏后期玩法，以及延续剧情的常规资料片，游戏将会有其他附加内容，这些是公告内重点内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [腾讯《QQ空间花藤》宣布将于2022年8月18日终止运营](https://www.cnbeta.com/articles/tech/1306285.htm) | Fri Aug 19 2022 4:45 AM 
+- 🚀 [《中华小子》高清重制版8月25日全平台上线 每周更新](https://hot.cnbeta.com/articles/comic/1306321.htm) | Fri Aug 19 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;腾讯QQ空间花藤应用宣布将于2022年8月18日14:59:59终止运营。这款应用在QQ空间里面，上学的时候都忙着农场种菜、停车位、还有这款花藤养花，每天提醒同学在空间里帮忙浇水，相互比比谁的花更好看，有没有长出来的。从老版到新版、再到QQ花藤手游，到现在也光荣下岗了&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国产经典武侠动画《中华小子》高清重制版即将于8月25日全平台上线，周一、周四10:00更新，此前《中华小子》高清重制版已首发上线百视通平台。《中华小子》是由法国投资和中国制作的26集系列动画片。是一部结合中国武侠、仙侠的魔幻神话剧，其中包含了一些古代神话人物、神兽和妖魔鬼怪。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1306321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [三星将投资约38亿美元扩张4nm产能， 以提升市场份额](https://www.cnbeta.com/articles/tech/1306283.htm) | Fri Aug 19 2022 4:40 AM 
+- 🎊 [马丁谈《龙之家族》第一集 与血色婚礼一样影响深远](https://hot.cnbeta.com/articles/movie/1306319.htm) | Fri Aug 19 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;目前采用GAA（Gate-All-Around）架构晶体管技术的3nm代工产品已经发货了，对过去两三年晶圆代工陷入困局的三星来说，多少可以恢复一些信心。据报道，竞争对手台积电（TSMC）的3nm工艺会在9月份正式进入量产阶段，传闻初期良品率比当时5nm工艺还要好，继续对三星形成压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;乔治·R·R·马丁将《龙之家族》第一集与《权力的游戏》中知名的血色婚礼进行了对比。乔治·R·R马丁这么形容《龙之家族》第一集中的那个场景：“那一幕是......你不会想用“愉快”来形容这样的场景，但它十分的宏大，这是我发自内心的想法，它会把你的心脏掏出来扔在地上，它有着和血色婚礼同样深远的影响，这是一个十分美丽的场景，有着一些可怕的事情将发生。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
