@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星为4nm工艺追加38亿美元投资 四季度有望月产2万片晶圆](https://www.cnbeta.com/articles/tech/1306287.htm) | Fri Aug 19 2022 4:48 AM 
+- 🕯 [首发3699元 飞利浦推出27寸电竞显示器：支持240Hz高刷](https://www.cnbeta.com/articles/tech/1306291.htm) | Fri Aug 19 2022 4:53 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;飞利浦近日推出了一款27寸电竞显示器——飞利浦27M1F5500P，刷新率高达240Hz，价格为5499元，&lt;strong&gt;首发到手价3699元。&lt;/strong&gt;据介绍，这款显示器采用了一块&lt;strong&gt;2K NanoIPS电竞屏，分辨率为2560*1440&lt;/strong&gt;，灰度响应时间为1ms，亮度高达450nit，通过了DisplayHDR600认证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [国内首个：广州公交上线数字人民币付款码支付功能](https://www.cnbeta.com/articles/tech/1306289.htm) | Fri Aug 19 2022 4:51 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月19日消息，@广州交通 官微宣布，今日，&lt;strong&gt;广州市上线数字人民币付款码支付公交乘车费用的试点功能，成为国内同类城市中首个开通该功能的城市。&lt;/strong&gt;乘客通过开通数字人民币建设银行钱包，即可在旅游观光1线等10条公交线路，通过数字人民币App参与数字人民币付款码支付乘车费用的试点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [三星为4nm工艺追加38亿美元投资 四季度有望月产2万片晶圆](https://www.cnbeta.com/articles/tech/1306287.htm) | Fri Aug 19 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;随着台积电预计在下月开始量产 3nm 工艺，三星也在积极通过增加 4nm 芯片产能来追赶竞争对手。&lt;strong&gt;最新消息称，这家韩国制造商正在投资约 38 亿美元，以将四季度晶圆产能提升到每月 20000 片。&lt;/strong&gt;早前，这家韩国电子科技巨头以通过有限的产能，向早期客户供应 3nm 环栅晶体管（GAA）芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [腾讯《QQ空间花藤》宣布将于2022年8月18日终止运营](https://www.cnbeta.com/articles/tech/1306285.htm) | Fri Aug 19 2022 4:45 AM 
+- 🚀 [腾讯《QQ空间花藤》宣布将于2022年8月18日终止运营](https://www.cnbeta.com/articles/tech/1306285.htm) | Fri Aug 19 2022 4:45 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;腾讯QQ空间花藤应用宣布将于2022年8月18日14:59:59终止运营。这款应用在QQ空间里面，上学的时候都忙着农场种菜、停车位、还有这款花藤养花，每天提醒同学在空间里帮忙浇水，相互比比谁的花更好看，有没有长出来的。从老版到新版、再到QQ花藤手游，到现在也光荣下岗了&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [三星将投资约38亿美元扩张4nm产能， 以提升市场份额](https://www.cnbeta.com/articles/tech/1306283.htm) | Fri Aug 19 2022 4:40 AM 
+- 🎊 [三星将投资约38亿美元扩张4nm产能， 以提升市场份额](https://www.cnbeta.com/articles/tech/1306283.htm) | Fri Aug 19 2022 4:40 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;目前采用GAA（Gate-All-Around）架构晶体管技术的3nm代工产品已经发货了，对过去两三年晶圆代工陷入困局的三星来说，多少可以恢复一些信心。据报道，竞争对手台积电（TSMC）的3nm工艺会在9月份正式进入量产阶段，传闻初期良品率比当时5nm工艺还要好，继续对三星形成压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [新型可穿戴传感器可检测人体汗液中多种化合物](https://www.cnbeta.com/articles/science/1306281.htm) | Fri Aug 19 2022 4:37 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，如果你曾经抽过血，无论是检查你的胆固醇、肾功能、激素指数、血糖，还是作为全面体检的一个环节，你可能不禁会想——为什么一定要抽出血液才能检测相关身体指数？难道没有一种更简单、痛苦更少的方法吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [全球唯一获批的猴痘疫苗生产商找到“代工厂” 在美生产几百万剂疫苗](https://www.cnbeta.com/articles/tech/1306279.htm) | Fri Aug 19 2022 4:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;媒体称，丹麦疫苗企业Bavarian Nordic即将和一家美国CDMO签约，达成协议后准备四个月内开始生产猴痘疫苗；为扩大产能，Bavarian Nordic还寻求和美国的医药大企业合作。早盘曾跌超1%的Bavarian Nordic美股盘中飙涨，午盘一度涨逾10%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
