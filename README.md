@@ -804,7 +804,7 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [测试发现，汽车里的物理按钮的优于触摸屏控件](http://jandan.net/p/111164) | Fri Aug 19 2022 1:28 PM 
+- 🚀 [测试发现，汽车里的物理按钮优于触摸屏控件](http://jandan.net/p/111164) | Fri Aug 19 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
     虽然触屏将功能集成在一起，但操作繁琐，需要行驶中的司机低头去看 
     </details> 
