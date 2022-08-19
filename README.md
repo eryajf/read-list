@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [为保流畅度《斯普拉遁3》使用了AMD的FSR技术](https://hot.cnbeta.com/articles/game/1306111.htm) | Thu Aug 18 2022 11:16 PM 
+- 🕯 [三星预告“终极”SSD：升级PCIe 5.0的990 Pro要来了](https://www.cnbeta.com/articles/tech/1306209.htm) | Fri Aug 19 2022 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为任天堂年度动作射击大作，《斯普拉遁3》在发售之前提供测试活动，并且在近日提供测试客户端的预载。通过对游戏说明书的简单浏览发现，这款Switch游戏使用了AMD的AMD FSR技术。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，&lt;strong&gt;三星半导体官方在社交媒体发布预热消息，宣布“终极”SSD已经在路上了，并放出了产品的剪影图片。&lt;/strong&gt;从产品剪影，以及近一段时间三星的产品节奏来看，&lt;strong&gt;这款被称为“终极SSD”的新品，很可能是已经通过认证的990 Pro。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [SUNSOFT宣布两款经典FC游戏重新复活](https://hot.cnbeta.com/articles/game/1306109.htm) | Thu Aug 18 2022 11:14 PM 
+- 💼 [国产主流手机厂商均接入 统一推送联盟官网域名被出售](https://www.cnbeta.com/articles/tech/1306207.htm) | Fri Aug 19 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本老牌游戏厂商SUNSOFT于今天（8月19日）凌晨进行了“复活直播”，在本次直播上除了带来昨天就公开的Steam游戏《一揆团结》之外，还公布了两款FC时代的游戏复活，他们分别是《吉米克》和《糊涂蛋》。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了解决安卓手机乱推送的问题，&lt;strong&gt;2017年10月，工信部旗下中国信息通信研究院泰尔终端实验室倡导成立了“统一推送联盟”。&lt;/strong&gt;该联盟旨在联合国内多家厂商制定安卓统一推送服务（Unified Push Service，UPS）技术标准，集中整治垃圾信息打扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Snap停止开发Pixy自拍无人机](https://www.cnbeta.com/articles/tech/1306107.htm) | Thu Aug 18 2022 11:08 PM 
+- 💂 [尼尔森：美国流媒体的收视率首次超过了有线电视](https://hot.cnbeta.com/articles/movie/1306205.htm) | Fri Aug 19 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知情人士透露说，Snapchat母公司Snap未来不会再继续开发Pixy自拍无人机。Pixy无人机售价230美元，现有版本仍会继续销售。几个月前Snap刚刚才推出Pixy，它可以飞到用户上方几英尺高的地方，然后自拍照片和视频。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据TechCrunch报道，&lt;strong&gt;尼尔森表示，上个月美国的流媒体收视率达到新高，首次超过有线电视的使用。&lt;/strong&gt;该市场监测和数据分析公司周四发布了7月份的电视和流媒体总&lt;a href=&quot;https://www.nielsen.com/insights/2022/streaming-claims-largest-piece-of-tv-viewing-pie-in-july/&quot; target=&quot;_self&quot;&gt;报告&lt;/a&gt;，指出流媒体占美国电视总收视率的34.8%，与2021年7月相比增加了22.6%。有线电视消费稍稍落后，为34.4%，比上年同期下降了8.9%，与6月相比下降了2%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [利润暴跌56%、9个App关停，腾讯经历了啥？](https://www.cnbeta.com/articles/tech/1306105.htm) | Thu Aug 18 2022 11:06 PM 
+- 🚀 [研究：老年人在嘈杂环境中的聆听能力可能比以前想象的要好](https://www.cnbeta.com/articles/science/1306203.htm) | Fri Aug 19 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近有关注互联网大厂近况的小伙伴们，应该都能感受到大厂们越来越不对劲了。巅峰时期的大厂们，追求的是什么呢？是逐年翻倍的用户数，是不断进击的营收增长，是干翻友商的新生业务。总之在那个形势下，互联网行业下的公司和人，都过得很滋润，前方是海阔天空，目标自然就定得很远。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;来自Baycrest和西部大学的新研究表明，老年人可能比以前认为的更善于在嘈杂的环境中听觉。&lt;/strong&gt;无论是在拥挤的餐厅还是在拥挤的家庭活动中，老年人可能比以前的研究显示更喜欢和处理讨论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美国议员化身黑粉头子？特斯拉这波粉圈大战比内娱还精彩](https://www.cnbeta.com/articles/tech/1306103.htm) | Thu Aug 18 2022 11:05 PM 
+- 🎊 [CrossMark曝光酷睿i5-13600HX移动CPU 规格升至14C/20T](https://www.cnbeta.com/articles/tech/1306201.htm) | Fri Aug 19 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8 月 9 号，一个自称 “ 黎明计划 ” 的团体做了个试验。它们驾驶一辆特斯拉，&lt;strong&gt;开启 FSD&lt;/strong&gt;（ 马斯克称其为完全自动驾驶功能 ）进行测试，结果车辆在多次测试中径直撞上&lt;strong&gt;了前方的儿童假人，并且碾压过去。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;@Momomo_US 刚刚在 Twitter 上分享了一份 CrossMark 基准测试成绩，&lt;strong&gt;揭示了传说中采用 6P+8E（14C / 20T）设计的 Raptor Lake-HX 系列酷睿 i5-13600HX 移动处理器。&lt;/strong&gt;与 12 代 Alder Lake-HX 移动平台相比，13 代升级了 Raptor Cove 高性能 P 核 + 更多的 Gracemont E 核。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
