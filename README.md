@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google成功挫败一次DDoS攻击 峰值时每秒请求超过4600万次](https://www.cnbeta.com/articles/tech/1306343.htm) | Fri Aug 19 2022 7:10 AM 
+- 🕯 [广东一地铁进站对不准车门 来来回回倒车笑倒乘客](https://www.cnbeta.com/articles/tech/1306395.htm) | Fri Aug 19 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年 6 月，Cloudflare 报告遭遇了有史以来最大规模的 DDoS 网络攻击，峰值每秒请求高达 2600 万次。这刷新了 2021 年 8 月创下的 1720 万次和 2022 年 4 月创下的 1530 万次。不过这个记录在本月再次刷新，&lt;a href=&quot;https://cloud.google.com/blog/products/identity-security/how-google-cloud-blocked-largest-layer-7-ddos-attack-at-46-million-rps&quot; target=&quot;_blank&quot;&gt;Google 表示峰值达到了每秒 4600 万次。&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你有没有发现，地铁每次进站几乎都能正对准门，很少出现意外的情况，不少网友怀疑对门刹车这一动作是电脑控制的，其实不全部是，对门的驾驶动作有时也是驾驶员自己操作的，看下面一段视频就能明白了。网友上传视频显示，&lt;strong&gt;近日，广东一地铁进站时，驾驶员操作失误，车辆往前跑多了，车门没有与站台安全门对齐。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [VinylSonic超声波黑胶唱片清洁机正在众筹 早鸟价149美元](https://hot.cnbeta.com/articles/music/1306341.htm) | Fri Aug 19 2022 6:53 AM 
+- 💼 [顾客不停催单导致接电话时摔倒 外卖小哥瞬间崩溃到砸餐](https://www.cnbeta.com/articles/tech/1306393.htm) | Fri Aug 19 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;过去几年，黑胶唱片的销量一直在稳步上升。与此同时，大量音乐爱好者也开始重新整理他们的收藏，结果发现清灰是件让人很头疼的事情。&lt;strong&gt;好消息是，一家名叫 VinylSonic 的初创企业，已经倒腾出了一款类似“烤面包机”的超声波唱片清洁装置。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1306341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月18日，广东一位外卖小哥在马路上崩溃、将外卖砸在地上狂踩的视频引发网友关注。&lt;/strong&gt;据知情人说，外卖小哥在送餐途中，顾客不停地催单，还打电话说2分钟不到就退款，结果接电话的时候小哥摔街，瞬间崩了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [WSA登陆日本：当地Windows 11用户可安装Android应用了](https://www.cnbeta.com/articles/tech/1306339.htm) | Fri Aug 19 2022 6:49 AM 
+- 💂 [东风本田思域e:HEV官图发布 配第四代iMMD混动、百公里油耗不到5](https://www.cnbeta.com/articles/tech/1306391.htm) | Fri Aug 19 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;兑现今年 5 月做出的承诺，今天&lt;a href=&quot;https://blogs.windows.com/windows-insider/2022/08/18/expanding-android-apps-on-windows-11-to-windows-insiders-in-japan/&quot; target=&quot;_blank&quot;&gt;微软宣布向日本地区开放 Windows Subsystem for Android（WSA）系统&lt;/a&gt;。&lt;/strong&gt;日本地区用户在 Windows 11 系统上通过亚马逊 AppStore 来安装 Android 应用程序。不过前提是要加入 Windows Insider 项目，并将 Microsoft Store 版本号升至 22206.1401.6 或者更高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月19日，东风本田发布了全新一代思域混动版官图。据悉，该车将于8月26日开幕的成都车展期间上市，&lt;strong&gt;最大的亮点在于搭载了本田第四代iMMD混动系统&lt;/strong&gt;，其由2.0L自然吸气发动机和前后双电机组成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [卫星探测到照亮盐湖城上空的火球 比满月还要亮16倍](https://www.cnbeta.com/articles/science/1306337.htm) | Fri Aug 19 2022 6:42 AM 
+- 🚀 [澳大利亚暗物质探测器以独特的优势加入寻找行列](https://www.cnbeta.com/articles/science/1306389.htm) | Fri Aug 19 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间8月13日上午8点30分，犹他州盐湖城地区的居民在被巨大的轰鸣声吓了一跳。&lt;strong&gt;目击者看到天空中有一个壮观的火球，比满月还要亮16倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，&lt;strong&gt;南半球的第一个暗物质探测器已经正式启用。斯托尔地下物理实验室（SUPL）建在澳大利亚一个废弃的金矿中&lt;/strong&gt;，其目的是利用其在全球的独特位置，最终从被认为充斥着宇宙的神秘物质中获取信号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [9岁孩子玩使命召唤过于激动 咬麦克风硌掉一颗牙齿](https://hot.cnbeta.com/articles/game/1306335.htm) | Fri Aug 19 2022 6:38 AM 
+- 🎊 [Corsair正式开售Voyager a1600 AMD Advantage Edition游戏本](https://www.cnbeta.com/articles/tech/1306387.htm) | Fri Aug 19 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日国外一个9岁小孩在玩《使命召唤：战区》比赛时过于激动，咬到耳机上的麦克风，竟然硌掉了一颗牙齿。&lt;/strong&gt;玩家们经常使用麦克风与队友交流或与对手对骂，这很正常，但也会遇到意外。近日在国外Reddit论坛上，用户&amp;#39;Appropriate_Try_9946&amp;#39;分享了消息截图，称他侄子在玩《使命召唤：战区》时弄伤了牙齿。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在五月发布后，&lt;strong&gt;美商海盗船（Corsair）终于在本周，将 Voyager a1600 这款带有“AMD Advantage Edition”的游戏本推向了市场。&lt;/strong&gt;即日起，感兴趣的消费者可通过官网商店或全球分销商渠道购买，官方指导价为 2699.99 美元（约合 1.84 万 RMB）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
