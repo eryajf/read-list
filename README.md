@@ -741,27 +741,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [秋日的新生—魅蓝回归首场新品发布会](https://www.photoworld.com.cn/post/162856) | Thu Aug 18 2022 2:59 PM 
+- 🤠 [尼康 Z 9 微单数码相机等 4 款尼康产品荣获 2022-2023 欧洲影音协会（EISA）大奖](https://www.photoworld.com.cn/post/162908) | Fri Aug 19 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [索尼 FX3 获 Netflix 认证，Sony Cinema Line 全员成为奈飞认证电影摄影机](https://www.photoworld.com.cn/post/162822) | Fri Aug 12 2022 7:36 AM 
+- 🎃 [秋日的新生—魅蓝回归首场新品发布会](https://www.photoworld.com.cn/post/162856) | Thu Aug 18 2022 2:59 PM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [索尼微单™ 手机 Xperia PRO-I 固件升级，新增相机监控及直播功能](https://www.photoworld.com.cn/post/162812) | Fri Aug 12 2022 6:54 AM 
+- 👀 [索尼 FX3 获 Netflix 认证，Sony Cinema Line 全员成为奈飞认证电影摄影机](https://www.photoworld.com.cn/post/162822) | Fri Aug 12 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [三星发布 Galaxy Watch5 和 Galaxy Watch5 Pro](https://www.photoworld.com.cn/post/162779) | Thu Aug 11 2022 3:09 AM 
+- 🤔 [索尼微单™ 手机 Xperia PRO-I 固件升级，新增相机监控及直播功能](https://www.photoworld.com.cn/post/162812) | Fri Aug 12 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [多能畅享 焕新未来 | 三星发布 Galaxy Z Flip4 和 Galaxy Z Fold4](https://www.photoworld.com.cn/post/162772) | Thu Aug 11 2022 3:08 AM 
+- 👀 [三星发布 Galaxy Watch5 和 Galaxy Watch5 Pro](https://www.photoworld.com.cn/post/162779) | Thu Aug 11 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
