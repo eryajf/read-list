@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java多线程工具CompletableFuture](https://juejin.cn/post/7133394175059787790) | Fri Aug 19 2022 1:33 AM 
+- 🤗 [你到底懂不懂JavaScript？来做做这12道面试题试试！](https://juejin.cn/post/7133397098719870990) | Fri Aug 19 2022 1:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    检测一个人的技术水平有两个非常简单的办法，看他写的代码，或者让他看别人写的代码。 我总结了一些可以考察对 JavaScript 理解能力的代码题，你可以试着做一下，看看能不能全部答对。全答对了，才算是 
+    </details> 
+
+- 🎡 [性能优化之不可忽视的sourcemap体积](https://juejin.cn/post/7133395389482270756) | Fri Aug 19 2022 1:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    性能优化之不可忽视的sourcemap体积，sourcemap对js包的体积影响非常大，在做性能优化时需注意。如何确定js内是否有sourcemap？webpack默认会加上sourcemap吗？ 
+    </details> 
+
+- 🕯 [如何解决fiddler的响应显示乱码问题](https://juejin.cn/post/7133394445843562532) | Fri Aug 19 2022 1:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    方法1：点击Response Raw上方的&quot;Response is encoded any may need to be decoded before inspection. click here t 
+    </details> 
+
+- 🚀 [Java多线程工具CompletableFuture](https://juejin.cn/post/7133394175059787790) | Fri Aug 19 2022 1:33 AM 
     <details><summary>展开描述 ...</summary> 
     在编写写多线程程序的时候，如果遇到一些复杂问题感觉无从下手，可以试试官方提供的CompletableFuture满足绝大部分多线程场景 
     </details> 
 
-- 🎡 [看了这么多关于ES安全认证的文，我决定自己动手写一篇](https://juejin.cn/post/7133194107211644936) | Thu Aug 18 2022 12:36 PM 
+- 💪 [JAVA之代理模式（二）——动态代理](https://juejin.cn/post/7133214010870071310) | Thu Aug 18 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
-    真的是非常用心地在介绍elasticsearch如何增加安全认证的方式了，绝对和网上那些同质化的文章完全不一样 
-    </details> 
-
-- 🕯 [黑马Java笔记第二讲—java基础](https://juejin.cn/post/7133192968676048932) | Thu Aug 18 2022 12:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    1. 算数运算符 1.1 算术运算符的（理解） 1.1.1 运算符和表达式 运算符：对常量或者变量... 
-    </details> 
-
-- 🚀 [kube-scheduler源码阅读](https://juejin.cn/post/7133192540215312420) | Thu Aug 18 2022 12:30 PM 
-    <details><summary>展开描述 ...</summary> 
-    Scheduler调度器，在k8s的整个代码中处于一个承上启下的作用。了解Scheduler在哪个过程中发挥作用，更能够理解它的重要性。 kube-scheduler v1.21 的调度流程源码分析。 
-    </details> 
-
-- 💪 [SQL索引分类和建索引命令语句](https://juejin.cn/post/7133189407506432036) | Thu Aug 18 2022 12:19 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第20天，点击查看活动详情 主键索引：索引值必须是唯一的，且不能为NULL 第一种：CREATE TABLE table_name&lpar; 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 上一节，我们学习了Java代理相关知识静态代理，这一节我们继续学习动态代理。 一、JDK动态代理 重要的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
