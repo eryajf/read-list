@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Easel - 任何想法的小画布](https://xinquji.com/posts/178879?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:28 AM 
+- 👀 [Ventroduce - 建立一个技术栈来加速你的筹款之旅](https://xinquji.com/posts/178880?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     建立一个技术栈来加速你的筹款之旅  
+    </details> 
+
+- 🥷 [Easel - 任何想法的小画布](https://xinquji.com/posts/178879?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
      任何想法的小画布  
     </details> 
 
-- 🥷 [Email Architect - 用于编写、管理和组织电子邮件营销的多合一系统](https://xinquji.com/posts/178878?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:28 AM 
+- 💼 [Email Architect - 用于编写、管理和组织电子邮件营销的多合一系统](https://xinquji.com/posts/178878?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
      用于编写、管理和组织电子邮件营销的多合一系统  
     </details> 
 
-- 💼 [Bloom Stock Market Game - 开源股市模拟游戏](https://xinquji.com/posts/178877?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:26 AM 
+- 🦅 [Bloom Stock Market Game - 开源股市模拟游戏](https://xinquji.com/posts/178877?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
      开源股市模拟游戏  
     </details> 
 
-- 🦅 [Collab Hub - 与优秀的内容创作者合作，取悦您的客户](https://xinquji.com/posts/178876?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:26 AM 
+- 😺 [Collab Hub - 与优秀的内容创作者合作，取悦您的客户](https://xinquji.com/posts/178876?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
      与优秀的内容创作者合作，取悦您的客户  
-    </details> 
-
-- 😺 [Fart Sounds, Buttons and Game - 带有街机游戏、按钮和偷偷放屁的放屁应用程序](https://xinquji.com/posts/178875?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:24 AM 
-    <details><summary>展开描述 ...</summary> 
-     带有街机游戏、按钮和偷偷放屁的放屁应用程序  
     </details> 
 <!-- xinquji:END -->
