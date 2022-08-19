@@ -353,9 +353,9 @@
     随着BugDrop逐步完善当前存在的各种缺陷，攻击者在与安全团队、银行机构的战争中拥有一种全新的高威力的武器，可击败谷歌目前采用的解决方案。 
     </details> 
 
-- 💻 [上海浦东发展银行信用卡中心招聘信息](https://www.freebuf.com/jobs/342253.html) | Thu Aug 18 2022 3:06 AM 
+- 💻 [如何破局企业数据安全“破局难题” | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/342261.html) | Thu Aug 18 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
-    上海浦东发展银行信用卡中心成立于2004年1月，是国内最早获得金融许可证的信用卡中心之一。 
+    在上有法规约束，下有企业业务保障所需的双重驱动下，应该如何做好数据安全运营？ 
     </details> 
 <!-- freebuf:END -->
 
