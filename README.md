@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果Animoji新专利曝光，可覆盖用户全身创建虚拟化身并与XR环境互动](https://www.cnbeta.com/articles/tech/1306491.htm) | Fri Aug 19 2022 12:25 PM 
+- 🕯 [天马推出OLED屏新技术：功耗立减15%](https://www.cnbeta.com/articles/tech/1306507.htm) | Fri Aug 19 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，美国专利商标局公布了苹果公司的一项专利申请，该专利涉及将用户头部的&amp;quot;虚拟化身&amp;quot;提升到新的水平，以供用户在处于扩展现实（XR）环境中的未来混合现实头显上使用。除了创建用户头部的虚拟化身（Animoji）外，下一代虚拟化身创建将允许用户扫描他们的手和/或全身，以便他们可以在扩展现实（XR）的3D环境中移动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，国产屏幕制造商天马发文介绍了其最新的HTD（Hybrid TFT Display）和MLP（Micro Lens Panel）技术。其中，HTD技术能够智能动态调整屏幕刷新率，&lt;strong&gt;在屏幕显示文字等内容时自动降低刷新率，而在游戏或页面滚动时则自动提高刷新率，该技术能够将屏幕的驱动功耗减少40%以上。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [乘风破浪的国产半导体设备厂商](https://www.cnbeta.com/articles/tech/1306489.htm) | Fri Aug 19 2022 12:22 PM 
+- 💼 [一个iPhone用户可能不注意的功能 其实已经存在20年了](https://www.cnbeta.com/articles/tech/1306505.htm) | Fri Aug 19 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近几年，在我国半导体设备企业的努力下，半导体设备不断通过各大晶圆厂的产线验证，进入了商业化供货阶段。半导体设备国产替代的黄金浪潮已然开启。半导体设备作为是半导体产业梦的基石，加速发展势在必行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月19日消息，苹果旗下音乐识别平台Shazam在今天迎来了自己问世20周年的纪念日，&lt;strong&gt;在过去的20年里，Shazam平台已累计识别了超过700亿次歌曲，如今它已经内置在你的iPhone中，作为音乐识别引擎。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果堆料不白堆 iPhone 14 Pro系列要涨价](https://www.cnbeta.com/articles/tech/1306487.htm) | Fri Aug 19 2022 12:21 PM 
+- 💂 [苹果创熠营微电影展映 五组学生用iPhone镜头讲述现实故事](https://www.cnbeta.com/articles/tech/1306503.htm) | Fri Aug 19 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前就一直有传闻称苹果iPhone 14系列将涨价，也有言论表示受手机市场萎靡影响，iPhone 14系列会保持原价。但最近有分析师表示，与iPhone 13 Pro机型相比，&lt;strong&gt;iPhone 14 Pro系列机型价格“可能”上涨100美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;从2020年开始，每年暑期苹果都会找来学生创作者，使用iPhone拍摄，通过iPad、Mac设备进行后期进行短片创作。今年苹果继续找来5组学生创作者拍摄5部影片，不限定主题，但都是通过iPhone镜头，表达了他们对当下生活的思考与理解。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [又能省钱了 新能源免购置税政策延续至明年底](https://www.cnbeta.com/articles/tech/1306485.htm) | Fri Aug 19 2022 12:20 PM 
+- 🚀 [英国火星原型栖息地探索了殖民火星的想法](https://www.cnbeta.com/articles/science/1306501.htm) | Fri Aug 19 2022 1:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月19日消息，据央视新闻报道，国务院常务会议今日召开，&lt;strong&gt;会上决定延续实施新能源汽车免征购置税等政策&lt;/strong&gt;。延至明年底，继续予以免征车船税和消费税、路权、牌照等支持。建立新能源汽车产业发展协调机制，用市场化办法促进整车企业优胜劣汰和配套产业发展。大力建设充电桩，政策性开发性金融工具予以支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果人类要在火星上殖民，我们就需要有地方让宇航员安全地生活。考虑到这一点，&lt;strong&gt;极地基地专家Hugh Broughton建筑事务所利用其在地球上最恶劣条件下为人类提供庇护的专业知识，为未来火星栖息地的形式提供思考。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [网友建议将省界收费站改造为停车区 交通部：十分赞同](https://www.cnbeta.com/articles/tech/1306483.htm) | Fri Aug 19 2022 12:17 PM 
+- 🎊 [安卓上的山寨iOS启动器下载量突破5000万次](https://www.cnbeta.com/articles/tech/1306499.htm) | Fri Aug 19 2022 12:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月19日消息，日前，中国政府网“互动”栏目刊发了交通运输部答复网民关于“高速公路服务区货车夜间停放车位不够用”留言的相关内容。&lt;strong&gt;针对网友提出将省界收费站改造为停车区的建议，交通运输部在回复中表示“我们十分赞同”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google Play Store上的一款流行的启动器，希望在安卓智能手机上重现iOS的体验，其下载量已超过5000万次，&lt;strong&gt;因为它随着iOS 16的设计而变化和iPhone的功能而更新。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
