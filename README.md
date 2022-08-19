@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [河南成为全国第一个40℃大满贯省份：119个县市国家站都超40℃](https://www.cnbeta.com/articles/tech/1306523.htm) | Fri Aug 19 2022 2:47 PM 
+- 🕯 [《权游》衍生剧集“龙之家族”新预告 8月22日播映](https://hot.cnbeta.com/articles/movie/1306531.htm) | Fri Aug 19 2022 6:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;艾玛·达西、马特·史密斯、瑞斯·伊凡斯、奥利维亚·库克、帕迪·康斯戴恩等主演！首季共10集，北京时间8月22日上线HBO Max！根据乔治马丁的《血与火（Fire &amp;amp; Blood）》小说改编，《龙之家族》设定在《权力的游戏》故事200年之前，将讲述坦格利安家族（House Targaryen）的故事，由艾玛·达西、马特·史密斯、米莉·阿尔柯克等主演。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [马斯克与脑部芯片初创公司synchron接洽](https://www.cnbeta.com/articles/tech/1306529.htm) | Fri Aug 19 2022 6:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;北京时间8月20日凌晨消息，据悉，在埃隆·马斯克的脑机接口公司Neuralink在脑机对接的竞赛中迎头赶上之际，他与大脑芯片植入开发公司Synchron接洽，希望获得一笔潜在投资。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [一图看懂小米Q2财报：营收701.7亿元 调整后净利润20.8亿元](https://www.cnbeta.com/articles/tech/1306527.htm) | Fri Aug 19 2022 6:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月19日下午消息，小米集团（HK: 1810）今日发布截至2022年6月30日的第二季度财报。财报显示，小米第二季度营收701.7亿元，同比下滑20.1%，预估698.6亿元；净利润13.9亿元，预估15亿元；调整后净利润20.8亿元，同比下滑67.1%，预估19.9亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [免征购置税延期一年 新能源车市再放“大礼包”](https://www.cnbeta.com/articles/tech/1306525.htm) | Fri Aug 19 2022 6:31 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;新能源汽车免征购置税再延一年，至2023年底。8月19日，据央视新闻联播报道，中共中央政治局常委、国务院总理李克强主持召开国务院常务会议，为扩大消费、培育新增长点和促进新能源汽车消费、相关产业升级，决定将免征车购税政策延续至2023年底，继续予以免征车船税和消费税、路权、牌照等支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [河南成为全国第一个40℃大满贯省份：119个县市国家站都超40℃](https://www.cnbeta.com/articles/tech/1306523.htm) | Fri Aug 19 2022 2:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，&lt;strong&gt;我国正在经历1961年以来的最强高温过程，重庆北碚破纪录成日常最高冲到45℃，&lt;/strong&gt;湖泊、河流水位也都大幅下降。不过值得注意的是，这次并不是大家惯有映像中南方地区高温，两广和海南等地其实相对比较清凉，而偏中部的一些地区则是频繁创下记录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [格力、美的都没辙：空调销量萎靡，到底怎么了？](https://www.cnbeta.com/articles/tech/1306521.htm) | Fri Aug 19 2022 2:45 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今年上半年，空调市场一片“怨声载道”。&lt;/strong&gt;根据奥维云网的数据显示，“2022年上半年空调全渠道零售量2154万台，同比下滑20.9%，零售额727亿元，同比下降15.3%”。细分到线下、线上两个场景分别出现了10%和20%的跌幅，可谓触目惊心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [通用和LG新能源考虑在美建第四座电池制造厂](https://www.cnbeta.com/articles/tech/1306519.htm) | Fri Aug 19 2022 2:42 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据国外媒体报道，当地时间周四，通用汽车和LG新能源（LG Energy Solution）的合资公司Ultium Cells LLC证实，通用汽车和LG新能源正考虑在印第安纳州新卡莱尔建设第四座美国电池制造厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [雷军演示智能召唤小米汽车：手机一键操作 自动出车库接人](https://www.cnbeta.com/articles/tech/1306517.htm) | Fri Aug 19 2022 2:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，小米在发布会上展示了一段自动驾驶车辆的测试，这是小米汽车自动驾驶技术的首次公开。当时视频显示，&lt;strong&gt;小米汽车的自动驾驶技术储备已经非常完善，支持高级别的自动驾驶、无人驾驶。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [女子开瓶时辣椒酱突然爆炸：堪比案发现场](https://hot.cnbeta.com/articles/funny/1306515.htm) | Fri Aug 19 2022 2:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;辣椒酱还会爆炸？这个竟然真的有。8月18日，贵州都匀，石女士在厨房打开一瓶辣椒酱时，瓶子突然发生爆炸，结果满厨房全是辣酱，场面令人震惊。从视频看，灶台台面、墙面、地面上全都是红色的辣椒酱，尤其是灶台附近非常集中。&lt;strong&gt;石女士表示，打开后，瓶子像发疯了一样，一直转一直炸，不到一分钟就让整个厨房如同案发现场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1306515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
