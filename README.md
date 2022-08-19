@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [脉脉发布AI人才数据图鉴;『李沐·深度学习论文精读』视频合辑；CVPR 2022自动驾驶资源合集；线性代数图绘笔记；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7133452764654501902) | Fri Aug 19 2022 5:20 AM 
+- 🤗 [45个 GIT 经典操作场景，专治不会合代码](https://juejin.cn/post/7133429337553895438) | Fri Aug 19 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 08-19 期，OCR识别/归档/索引和搜索工具、Sunmao UI前端低代码框架、python几何处理工具箱、PyTorch深度学习医学图像处理分析库、前沿论文… 
+    大家好，我是小富~ 传送门：原文地址 git对于大家应该都不太陌生，熟练使用git已经成为程序员的一项基本技能，尽管在工作中有诸如 Sourcetree这样牛X的客户端工具，使得合并代码变的很方便。但 
     </details> 
 
-- 🎡 [Mockito](https://juejin.cn/post/7133439457604141087) | Fri Aug 19 2022 4:28 AM 
+- 🎡 [当UI走查说页面色值错误时，先别急着检查代码](https://juejin.cn/post/7133427384979554312) | Fri Aug 19 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Mockito 中文文档 &lpar; 2.0.26 beta &rpar; 目录 迁移到Mockito 2.0 验证某些行为 如何做一些测试桩 &lpar;Stub&rpar; 参数匹配器 &lpar;matchers&rpar; 验证函数的确切、最少、从未 
+    颜色一直是UI设计师们非常敏感的问题，我至今仍忘不了那天，一位萌新设计师在走查UI时，给我提了好几个Bug，大多是颜色有差异问题，我当时的第一反应是去检查代码，排查了半天确认自己没有写错色值后，我就在 
     </details> 
 
-- 🕯 [快速掌握 TypeScript 新语法：infer extends](https://juejin.cn/post/7133438765317488677) | Fri Aug 19 2022 4:25 AM 
+- 🕯 [hr套路程序猿的套路你遇到过几个](https://juejin.cn/post/7133425713729765389) | Fri Aug 19 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    我们知道，TypeScript 支持 infer 来提取类型的一部分，通过模式匹配的方式。 比如元组类型提取最后一个元素的类型： 比如函数提取返回值类型： 比如字符串提取一部分，然后替换： 模式匹配就 
+    刷kpi 有的hr有指标，总包vs高base，画大饼日常操作，打工人，打工魂，打工都是人上人，冲兄弟们 
     </details> 
 
-- 🚀 [多行文本下的文字渐隐消失术、当一个摆子前端太闲的时候会做什么、Android 13 正式版发布、线程池使用的10个坑 | 酱酱的下午茶第 54 期](https://juejin.cn/post/7133422580614529054) | Fri Aug 19 2022 3:23 AM 
+- 🚀 [还在为node版本不兼容而烦恼吗？🍊](https://juejin.cn/post/7133425248514342943) | Fri Aug 19 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
-    看点: 多行文本下的文字渐隐消失术、当一个摆子前端太闲的时候会做什么、 如何做好分布式任务调度——Scheduler、Android 13 正式版发布、千万不要在方法上打断点！有大坑！ 
+    node 版本管理器 nvm 是一个node环境版本管理工具。主。为了解决node.js各种版本存在不兼容现象可以通过nvm来安装和切换不同版本的node.js 🍉 1. 下载 nvm 可点击下面的链 
     </details> 
 
-- 💪 [20W字《Kafka运维与实战宝典》PDF免费下载了！！](https://juejin.cn/post/7133421013014380557) | Fri Aug 19 2022 3:17 AM 
+- 💪 [vue 实现滑动块解锁](https://juejin.cn/post/7133423466023223327) | Fri Aug 19 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-    20W字《Kafka运维与实战宝典》PDF免费下载了！！20W字《Kafka运维与实战宝典》PDF免费下载了！！ 
+    使用 vue 实现 滑动解锁 从0开始，一步一步教你怎么写一个简洁的登录页面以及附加图片滑动解锁的功能。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
