@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [德国暂获喘息之机 莱茵河水位下周将涨至更易通航水平](https://www.cnbeta.com/articles/tech/1306541.htm) | Fri Aug 19 2022 9:08 PM 
+- 🕯 [美国NPD7月销售数据：PS5销售额第一、NS销量第一](https://hot.cnbeta.com/articles/game/1306559.htm) | Fri Aug 19 2022 10:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;德国政府数据显示，德国莱茵河的关键航行河段考布（Kaub）的水位预计将在下周二早上飙升至148厘米，这使得载运重要货物的货船更容易通过这条水道。据悉，该河段目前的水位只有35厘米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NPD集团执行董事Mat Piscatella公布了美国NPD7月份的销售数据。2022年7月，&lt;strong&gt;美国NPD的消费者在电子游戏硬件、软件以及配件方面的支出与一年前同期相比下降了9%，为41.8亿美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究人员称iOS设备并未让VPN把所有流量导至代理通道](https://www.cnbeta.com/articles/tech/1306539.htm) | Fri Aug 19 2022 8:58 PM 
+- 💼 [苹果 AirPower 无线充电板原型机视频体验](https://www.cnbeta.com/articles/tech/1306557.htm) | Fri Aug 19 2022 10:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iCloud 专用代理是苹果在推出 iCloud+ 时提供的一项服务，通过VPN来帮助用户防止自己访问的网站和服务获取自己的敏感信息，是一种隐私保护机制。除了这项服务，也有许多用户习惯使用使用其他VPN服务来保护自己的线上隐私。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国外 YouTube 频道 Apple Demo 找来一台苹果 AirPower 无线充电板原型机，并分享了体验视频。AirPower 是苹果设计的基于 Qi 无线充电协议的多设备无线充电板，可以同时为 iPhone、Apple Watch 和 AirPods 充电。苹果在 2017 年 9 月发布 iPhone X 时，同步发布了 AirPower。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“印度支付宝”上演“逼宫大戏” 公司股价上市以来跌超60%](https://www.cnbeta.com/articles/tech/1306537.htm) | Fri Aug 19 2022 8:56 PM 
+- 💂 [联发科发布4K 120Hz智能电视芯片Pentonic 700](https://www.cnbeta.com/articles/tech/1306555.htm) | Fri Aug 19 2022 10:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;印度移动支付平台Paytm创始人或将面临自IPO以来最大的考验——是否留任。Paytm重要股东、印度投资公司IIAS反对其继续“掌舵”，因其无法兑现盈利且薪资过高。当地时间8月19日周五，“印度支付宝”Paytm的创始人或将面临自IPO以来最大的考验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;2022年8月19日，MediaTek（联发科）发布智能电视芯片Pentonic 700，&lt;/strong&gt;搭载强劲的AI引擎，赋能新一代高端4K 120Hz 智能电视。Pentonic 700具备AI画质增强技术，支持杜比视界IQ精准细节（Dolby Vision IQ with Precision Detail）功能，集成了4K 120Hz 运动补偿技术（MEMC）、4K 120Hz时序控制器（TCON）和游戏优化技术，助力全球智能电视厂商打造引人入胜的全场景视听体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [长征系列运载火箭连续成功发射103次](https://www.cnbeta.com/articles/science/1306535.htm) | Fri Aug 19 2022 8:51 PM 
+- 🚀 [用5nm假冒4nm？三星、台积电配合客户编造制造工艺的谎言？](https://www.cnbeta.com/articles/tech/1306553.htm) | Fri Aug 19 2022 10:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天01时37分，我国在西昌卫星发射中心使用长征二号丁运载火箭，成功将遥感三十五号04组卫星发射升空。自2020年5月5日至今，长征火箭创下了103次新的连胜纪录，而完成这一纪录仅历时2年3个月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据芯智讯收到的一份据称半导体研究机构TechInsights的报告（我们没有购买TechInsights的会员，因此无法进一步查证）显示，现在的半导体市场就出现了这种“谎报”的行为，&lt;strong&gt;两家领先的代工厂都放任客户声称他们采用了4纳米工艺，而实际使用的却仍是5纳米技术。&lt;/strong&gt;这种情况让双方均形象受损，尤其是代工厂。而这背后，也意味着晶体管微缩技术发展的放缓。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [这张照片凭什么值一百亿？](https://www.cnbeta.com/articles/science/1306533.htm) | Fri Aug 19 2022 8:45 PM 
+- 🎊 [质子新发现要改写教科书了 物理系师生无奈又得重新学一遍](https://www.cnbeta.com/articles/science/1306551.htm) | Fri Aug 19 2022 9:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;2022年7月11日，詹姆斯·韦布空间望远镜 &lpar;JWST&rpar; 的第一张彩色图片正式发布&lt;/strong&gt;，它立即就成了世界各地的网友们最熟悉的一张星空照片。不过，问题来了，这张照片为什么看起来这么乱——这里头到底都拍了些啥？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;用机器学习搞出的新发现，要改写物理教科书了？长久以来，质子内都被认为有3个夸克，具体来说是2个上夸克和1个下夸克。但根据Nature最新一篇论文，以后恐怕要改了：5个。再加上一对粲夸克&amp;nbsp;（Charm Quark）和反粲夸克。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
