@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何统计企业微信群里每个人的发言次数](https://www.v2ex.com/t/873985#reply1) | Fri Aug 19 2022 6:23 AM
-- 🤗 [分享给代码 “下毒” 的 Evil.js](https://www.v2ex.com/t/873983#reply0) | Fri Aug 19 2022 6:18 AM
-- 🎭 [Error adding module to project: null 问题如何解决？](https://www.v2ex.com/t/873978#reply0) | Fri Aug 19 2022 6:10 AM
-- 🥷 [我的一点骑行总结：极致骑行，希望对各位有用，尤其是有 &quot;精神内耗&quot;（心理压力）的](https://www.v2ex.com/t/873974#reply2) | Fri Aug 19 2022 5:59 AM
-- 🐵 [Java on Azure Tooling 的更新 – 2022 年 8 月支持 AKS 支持虚拟机](https://www.v2ex.com/t/873972#reply0) | Fri Aug 19 2022 5:47 AM<!-- v2ex:END -->
+- 🥸 [坐标深圳找 Java 开发都那么难的吗](https://www.v2ex.com/t/873991#reply17) | Fri Aug 19 2022 6:38 AM
+- 🤗 [如何统计企业微信群里每个人的发言次数](https://www.v2ex.com/t/873985#reply1) | Fri Aug 19 2022 6:23 AM
+- 🎭 [分享给代码 “下毒” 的 Evil.js](https://www.v2ex.com/t/873983#reply5) | Fri Aug 19 2022 6:18 AM
+- 🥷 [Error adding module to project: null 问题如何解决？](https://www.v2ex.com/t/873978#reply0) | Fri Aug 19 2022 6:10 AM
+- 🐵 [我的一点骑行总结：极致骑行，希望对各位有用，尤其是有 &quot;精神内耗&quot;（心理压力）的](https://www.v2ex.com/t/873974#reply5) | Fri Aug 19 2022 5:59 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
