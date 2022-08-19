@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星预告“终极”SSD：升级PCIe 5.0的990 Pro要来了](https://www.cnbeta.com/articles/tech/1306209.htm) | Fri Aug 19 2022 1:49 AM 
+- 🕯 [摩托罗拉即将发布moto edge 2022 首发联发科天玑1050](https://www.cnbeta.com/articles/tech/1306271.htm) | Fri Aug 19 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，&lt;strong&gt;三星半导体官方在社交媒体发布预热消息，宣布“终极”SSD已经在路上了，并放出了产品的剪影图片。&lt;/strong&gt;从产品剪影，以及近一段时间三星的产品节奏来看，&lt;strong&gt;这款被称为“终极SSD”的新品，很可能是已经通过认证的990 Pro。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月19日消息，摩托罗拉即将发布moto edge 2022，&lt;strong&gt;该机全球首发联发科天玑1050芯片。&lt;/strong&gt;据悉，联发科天玑1050芯片基于台积电6nm工艺制程打造，定位中端。&lt;strong&gt;这颗芯片由4颗Cortex A78大核和4颗Cortex A55小核组成，与天玑8000的CPU架构一致，像是“天玑8000的青春版”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国产主流手机厂商均接入 统一推送联盟官网域名被出售](https://www.cnbeta.com/articles/tech/1306207.htm) | Fri Aug 19 2022 1:48 AM 
+- 💼 [2024款讴歌ZDX将成为该品牌的首款EV](https://www.cnbeta.com/articles/tech/1306269.htm) | Fri Aug 19 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为了解决安卓手机乱推送的问题，&lt;strong&gt;2017年10月，工信部旗下中国信息通信研究院泰尔终端实验室倡导成立了“统一推送联盟”。&lt;/strong&gt;该联盟旨在联合国内多家厂商制定安卓统一推送服务（Unified Push Service，UPS）技术标准，集中整治垃圾信息打扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;讴歌将于2024年推出其首款全电动汽车，当它到来时它将有一个熟悉的名字：ZDX。讴歌于当地时间周四证实，它将为这款全新的EV重新启用它那款让人爱恨交加的老式SUV的名字，并且这家公司还表示，更高性能的ZDX Type S版本也在计划之中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [尼尔森：美国流媒体的收视率首次超过了有线电视](https://hot.cnbeta.com/articles/movie/1306205.htm) | Fri Aug 19 2022 1:46 AM 
+- 💂 [乐高为电动灯塔积木套装配备了一个菲涅尔透镜](https://hot.cnbeta.com/articles/comic/1306267.htm) | Fri Aug 19 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据TechCrunch报道，&lt;strong&gt;尼尔森表示，上个月美国的流媒体收视率达到新高，首次超过有线电视的使用。&lt;/strong&gt;该市场监测和数据分析公司周四发布了7月份的电视和流媒体总&lt;a href=&quot;https://www.nielsen.com/insights/2022/streaming-claims-largest-piece-of-tv-viewing-pie-in-july/&quot; target=&quot;_self&quot;&gt;报告&lt;/a&gt;，指出流媒体占美国电视总收视率的34.8%，与2021年7月相比增加了22.6%。有线电视消费稍稍落后，为34.4%，比上年同期下降了8.9%，与6月相比下降了2%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;1822 年，奥古斯丁·菲涅尔（Augustin Fresnel）发明了一种由环形棱镜制成的透镜，特点是能够比反光镜或巨大的凸面镜更有效地集中光束，所以很适合灯塔使用。&lt;/strong&gt;时至今日，菲涅尔透镜也已被广泛运用于聚光灯和大多数 VR 头显。不过本文要为大家介绍的，则是来自乐高的电动灯塔积木套装。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1306267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究：老年人在嘈杂环境中的聆听能力可能比以前想象的要好](https://www.cnbeta.com/articles/science/1306203.htm) | Fri Aug 19 2022 1:39 AM 
+- 🚀 [国产动画电影《深海》“粒子水墨”特辑 年内上映](https://hot.cnbeta.com/articles/comic/1306265.htm) | Fri Aug 19 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;来自Baycrest和西部大学的新研究表明，老年人可能比以前认为的更善于在嘈杂的环境中听觉。&lt;/strong&gt;无论是在拥挤的餐厅还是在拥挤的家庭活动中，老年人可能比以前的研究显示更喜欢和处理讨论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新浪电影今日（8月19日）消息，国产动画电影《深海》公布“粒子水墨”特辑以及一组信息图，首曝“从0到1”的美学研发历程，尝试为中国动画探索新方向：将中国水墨“三维化”。为此，仅让第一张概念图“动起来”便耗时两年。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1306265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [CrossMark曝光酷睿i5-13600HX移动CPU 规格升至14C/20T](https://www.cnbeta.com/articles/tech/1306201.htm) | Fri Aug 19 2022 1:39 AM 
+- 🎊 [Hori 推出NS新手柄Split Pad Fit 9月日本发售](https://hot.cnbeta.com/articles/game/1306263.htm) | Fri Aug 19 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;@Momomo_US 刚刚在 Twitter 上分享了一份 CrossMark 基准测试成绩，&lt;strong&gt;揭示了传说中采用 6P+8E（14C / 20T）设计的 Raptor Lake-HX 系列酷睿 i5-13600HX 移动处理器。&lt;/strong&gt;与 12 代 Alder Lake-HX 移动平台相比，13 代升级了 Raptor Cove 高性能 P 核 + 更多的 Gracemont E 核。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;著名配件厂商Hori推出了新的Switch手柄Split Pad Fit，与上一代产品Split Pad Pro相比本次采用了更流畅的设计，让手小的玩家更加方便握持。Split Pad Fit采用分体设计，有十字键，支持连发和背部自定义按键设定，但依旧没有HD震动和NFC等功能，预计于9月在日本发售，价格约为40美元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
