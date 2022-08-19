@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [常用的30+种未授权访问漏洞汇总](https://www.freebuf.com/articles/web/338459.html) | Fri Aug 19 2022 6:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文覆盖了目前网络资讯上公布的30+种常见的未授权访问漏洞。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 2021年，身份欺诈案例创下新记录；宝马遭挖墙脚，黑客光明正大敛钱](https://www.freebuf.com/news/342291.html) | Thu Aug 18 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
     微软的员工已暴露了公司在线基础设施的敏感登录凭据。 
     </details> 
 
-- 🦄 [BlackByte团伙携新勒索手段卷土重来](https://www.freebuf.com/news/342285.html) | Thu Aug 18 2022 6:16 AM 
+- 🦅 [BlackByte团伙携新勒索手段卷土重来](https://www.freebuf.com/news/342285.html) | Thu Aug 18 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
     勒索软件 BlackByte 带着 2.0 版本回归了，并创建了一个新的数据泄露网站 
     </details> 
 
-- 🦅 [聊聊新版风险评估的变化](https://www.freebuf.com/articles/342273.html) | Thu Aug 18 2022 6:00 AM 
+- 🪄 [聊聊新版风险评估的变化](https://www.freebuf.com/articles/342273.html) | Thu Aug 18 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
     新版风评简化了要素关系，只保留了资产、脆弱性、威胁、安全措施和风险要素。 
     </details> 
 
-- 🪄 [攻击者开发BugDrop恶意软件，可绕过安卓安全防护](https://www.freebuf.com/news/342264.html) | Thu Aug 18 2022 3:49 AM 
+- 💻 [如何使用SilentHound枚举活动目录域](https://www.freebuf.com/articles/network/342267.html) | Thu Aug 18 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-    随着BugDrop逐步完善当前存在的各种缺陷，攻击者在与安全团队、银行机构的战争中拥有一种全新的高威力的武器，可击败谷歌目前采用的解决方案。 
-    </details> 
-
-- 💻 [如何破局企业数据安全“破局难题” | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/342261.html) | Thu Aug 18 2022 3:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上有法规约束，下有企业业务保障所需的双重驱动下，应该如何做好数据安全运营？ 
+    SilentHound是一款针对活动目录域安全的检测工具，该工具可以通过LDAP解析用户、管理员和组信息，并以此来在后台悄悄枚举活动目录域。 
     </details> 
 <!-- freebuf:END -->
 
