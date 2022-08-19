@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [天马推出OLED屏新技术：功耗立减15%](https://www.cnbeta.com/articles/tech/1306507.htm) | Fri Aug 19 2022 1:35 PM 
+- 🕯 [河南成为全国第一个40℃大满贯省份：119个县市国家站都超40℃](https://www.cnbeta.com/articles/tech/1306523.htm) | Fri Aug 19 2022 2:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，国产屏幕制造商天马发文介绍了其最新的HTD（Hybrid TFT Display）和MLP（Micro Lens Panel）技术。其中，HTD技术能够智能动态调整屏幕刷新率，&lt;strong&gt;在屏幕显示文字等内容时自动降低刷新率，而在游戏或页面滚动时则自动提高刷新率，该技术能够将屏幕的驱动功耗减少40%以上。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，&lt;strong&gt;我国正在经历1961年以来的最强高温过程，重庆北碚破纪录成日常最高冲到45℃，&lt;/strong&gt;湖泊、河流水位也都大幅下降。不过值得注意的是，这次并不是大家惯有映像中南方地区高温，两广和海南等地其实相对比较清凉，而偏中部的一些地区则是频繁创下记录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [一个iPhone用户可能不注意的功能 其实已经存在20年了](https://www.cnbeta.com/articles/tech/1306505.htm) | Fri Aug 19 2022 1:33 PM 
+- 💼 [格力、美的都没辙：空调销量萎靡，到底怎么了？](https://www.cnbeta.com/articles/tech/1306521.htm) | Fri Aug 19 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月19日消息，苹果旗下音乐识别平台Shazam在今天迎来了自己问世20周年的纪念日，&lt;strong&gt;在过去的20年里，Shazam平台已累计识别了超过700亿次歌曲，如今它已经内置在你的iPhone中，作为音乐识别引擎。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今年上半年，空调市场一片“怨声载道”。&lt;/strong&gt;根据奥维云网的数据显示，“2022年上半年空调全渠道零售量2154万台，同比下滑20.9%，零售额727亿元，同比下降15.3%”。细分到线下、线上两个场景分别出现了10%和20%的跌幅，可谓触目惊心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果创熠营微电影展映 五组学生用iPhone镜头讲述现实故事](https://www.cnbeta.com/articles/tech/1306503.htm) | Fri Aug 19 2022 1:32 PM 
+- 💂 [通用和LG新能源考虑在美建第四座电池制造厂](https://www.cnbeta.com/articles/tech/1306519.htm) | Fri Aug 19 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;从2020年开始，每年暑期苹果都会找来学生创作者，使用iPhone拍摄，通过iPad、Mac设备进行后期进行短片创作。今年苹果继续找来5组学生创作者拍摄5部影片，不限定主题，但都是通过iPhone镜头，表达了他们对当下生活的思考与理解。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据国外媒体报道，当地时间周四，通用汽车和LG新能源（LG Energy Solution）的合资公司Ultium Cells LLC证实，通用汽车和LG新能源正考虑在印第安纳州新卡莱尔建设第四座美国电池制造厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [英国火星原型栖息地探索了殖民火星的想法](https://www.cnbeta.com/articles/science/1306501.htm) | Fri Aug 19 2022 1:02 PM 
+- 🚀 [雷军演示智能召唤小米汽车：手机一键操作 自动出车库接人](https://www.cnbeta.com/articles/tech/1306517.htm) | Fri Aug 19 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如果人类要在火星上殖民，我们就需要有地方让宇航员安全地生活。考虑到这一点，&lt;strong&gt;极地基地专家Hugh Broughton建筑事务所利用其在地球上最恶劣条件下为人类提供庇护的专业知识，为未来火星栖息地的形式提供思考。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久，小米在发布会上展示了一段自动驾驶车辆的测试，这是小米汽车自动驾驶技术的首次公开。当时视频显示，&lt;strong&gt;小米汽车的自动驾驶技术储备已经非常完善，支持高级别的自动驾驶、无人驾驶。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [安卓上的山寨iOS启动器下载量突破5000万次](https://www.cnbeta.com/articles/tech/1306499.htm) | Fri Aug 19 2022 12:56 PM 
+- 🎊 [女子开瓶时辣椒酱突然爆炸：堪比案发现场](https://hot.cnbeta.com/articles/funny/1306515.htm) | Fri Aug 19 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google Play Store上的一款流行的启动器，希望在安卓智能手机上重现iOS的体验，其下载量已超过5000万次，&lt;strong&gt;因为它随着iOS 16的设计而变化和iPhone的功能而更新。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;辣椒酱还会爆炸？这个竟然真的有。8月18日，贵州都匀，石女士在厨房打开一瓶辣椒酱时，瓶子突然发生爆炸，结果满厨房全是辣酱，场面令人震惊。从视频看，灶台台面、墙面、地面上全都是红色的辣椒酱，尤其是灶台附近非常集中。&lt;strong&gt;石女士表示，打开后，瓶子像发疯了一样，一直转一直炸，不到一分钟就让整个厨房如同案发现场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1306515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
