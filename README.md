@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你到底懂不懂JavaScript？来做做这12道面试题试试！](https://juejin.cn/post/7133397098719870990) | Fri Aug 19 2022 1:44 AM 
+- 🤗 [基于RPC接口的业务侧流量回放](https://juejin.cn/post/7133409986406776845) | Fri Aug 19 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    检测一个人的技术水平有两个非常简单的办法，看他写的代码，或者让他看别人写的代码。 我总结了一些可以考察对 JavaScript 理解能力的代码题，你可以试着做一下，看看能不能全部答对。全答对了，才算是 
+    在产品需求迭代过程中，功能测试与回归测试是必不可少的两个环节。对于改动较大的项目，项目中很多逻辑的改动都是在原有功能的基础上进行的，这时候就需要一定的回归测试，一个好的方式就是利用线上流量来验证。 
     </details> 
 
-- 🎡 [性能优化之不可忽视的sourcemap体积](https://juejin.cn/post/7133395389482270756) | Fri Aug 19 2022 1:37 AM 
+- 🎡 [iOS小技能：别名消息推送](https://juejin.cn/post/7133408989961945096) | Fri Aug 19 2022 2:30 AM 
     <details><summary>展开描述 ...</summary> 
-    性能优化之不可忽视的sourcemap体积，sourcemap对js包的体积影响非常大，在做性能优化时需注意。如何确定js内是否有sourcemap？webpack默认会加上sourcemap吗？ 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第24天，点击查看活动详情 前言 需求：账号退出登陆后无法收到推送功能 问题：ios中极光推送退出登陆后还能收到推送的问题 解决方式 
     </details> 
 
-- 🕯 [如何解决fiddler的响应显示乱码问题](https://juejin.cn/post/7133394445843562532) | Fri Aug 19 2022 1:34 AM 
+- 🕯 [【区间求和问题】上下界分析 + 差分应用](https://juejin.cn/post/7133408017290100766) | Fri Aug 19 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
-    方法1：点击Response Raw上方的&quot;Response is encoded any may need to be decoded before inspection. click here t 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第24天，点击查看活动详情 题目描述 这是 LeetCode 上的 798. 得分最高的最小轮调 ，难度为 困难。 Tag : 「区 
     </details> 
 
-- 🚀 [Java多线程工具CompletableFuture](https://juejin.cn/post/7133394175059787790) | Fri Aug 19 2022 1:33 AM 
+- 🚀 [区块链中token和coin的区别](https://juejin.cn/post/7133406887663370270) | Fri Aug 19 2022 2:22 AM 
     <details><summary>展开描述 ...</summary> 
-    在编写写多线程程序的时候，如果遇到一些复杂问题感觉无从下手，可以试试官方提供的CompletableFuture满足绝大部分多线程场景 
+    我们把通过智能合约产生的加密货币叫做token，也叫代币或者通证，它是一种可流通的数字权益证明;一条区块链上的原生加密货币，我们叫做coin 
     </details> 
 
-- 💪 [JAVA之代理模式（二）——动态代理](https://juejin.cn/post/7133214010870071310) | Thu Aug 18 2022 1:54 PM 
+- 💪 [ES6+语法一之块作用域](https://juejin.cn/post/7133405833563471908) | Fri Aug 19 2022 2:18 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第18天，点击查看活动详情 上一节，我们学习了Java代理相关知识静态代理，这一节我们继续学习动态代理。 一、JDK动态代理 重要的 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第24天，点击查看活动详情 随着ES6+很多新语法出现，给开发者带来了更好体验的同时，又遇到了旧浏览器兼容的头疼问题。新语法不仅是对 
     </details> 
 <!-- juejin:END -->
 ### 少数派
