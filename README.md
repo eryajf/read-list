@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Bristle Oral Health Test - 口腔微生物组测试可改善您的口腔健康](https://xinquji.com/posts/178856?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:36 AM 
+- 👀 [Easel - 任何想法的小画布](https://xinquji.com/posts/178879?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     口腔微生物组测试可改善您的口腔健康  
+     任何想法的小画布  
     </details> 
 
-- 🥷 [Closely - 将 LinkedIn 转变为 CRM 并将所有外展活动置于自动驾驶仪上](https://xinquji.com/posts/178855?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:34 AM 
+- 🥷 [Email Architect - 用于编写、管理和组织电子邮件营销的多合一系统](https://xinquji.com/posts/178878?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     将 LinkedIn 转变为 CRM 并将所有外展活动置于自动驾驶仪上  
+     用于编写、管理和组织电子邮件营销的多合一系统  
     </details> 
 
-- 💼 [AdGuard DNS 2.0 - 您自己的隐私保护中心](https://xinquji.com/posts/178854?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:33 AM 
+- 💼 [Bloom Stock Market Game - 开源股市模拟游戏](https://xinquji.com/posts/178877?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     您自己的隐私保护中心  
+     开源股市模拟游戏  
     </details> 
 
-- 🦅 [Jollylook Pinhole - 即时胶片相机 DIY 套件](https://xinquji.com/posts/178853?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:33 AM 
+- 🦅 [Collab Hub - 与优秀的内容创作者合作，取悦您的客户](https://xinquji.com/posts/178876?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     即时胶片相机 DIY 套件  
+     与优秀的内容创作者合作，取悦您的客户  
     </details> 
 
-- 😺 [Artboard Studio - 前所未有的设计和动画](https://xinquji.com/posts/178852?utm_campaign=xinquji-rss) | Fri Aug 19 2022 6:27 AM 
+- 😺 [Fart Sounds, Buttons and Game - 带有街机游戏、按钮和偷偷放屁的放屁应用程序](https://xinquji.com/posts/178875?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     前所未有的设计和动画  
+     带有街机游戏、按钮和偷偷放屁的放屁应用程序  
     </details> 
 <!-- xinquji:END -->
