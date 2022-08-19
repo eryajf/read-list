@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [go 实现的 arcface](https://www.v2ex.com/t/874034#reply0) | Fri Aug 19 2022 8:53 AM
-- 🤗 [.Netcore 可以 热更新嘛](https://www.v2ex.com/t/874033#reply0) | Fri Aug 19 2022 8:49 AM
-- 🎭 [为什么同事没事下班不准时走，要等大家都走了再走](https://www.v2ex.com/t/874028#reply12) | Fri Aug 19 2022 8:37 AM
-- 🥷 [有人知道我 Google 账号的密码？](https://www.v2ex.com/t/874024#reply8) | Fri Aug 19 2022 8:33 AM
-- 🐵 [Jenkins 核心功能或者说作用是什么？](https://www.v2ex.com/t/874023#reply10) | Fri Aug 19 2022 8:32 AM<!-- v2ex:END -->
+- 🥸 [数据库与缓存的一致性问题的两个疑问](https://www.v2ex.com/t/874053#reply1) | Fri Aug 19 2022 9:57 AM
+- 🤗 [怎么保证进程结束时，能关闭掉子进程&lpar;多次监听信号量的问题&rpar;](https://www.v2ex.com/t/874044#reply5) | Fri Aug 19 2022 9:20 AM
+- 🎭 [go 实现的 arcface](https://www.v2ex.com/t/874034#reply0) | Fri Aug 19 2022 8:53 AM
+- 🥷 [.Netcore 可以 热更新嘛](https://www.v2ex.com/t/874033#reply2) | Fri Aug 19 2022 8:49 AM
+- 🐵 [为什么同事没事下班不准时走，要等大家都走了再走](https://www.v2ex.com/t/874028#reply32) | Fri Aug 19 2022 8:37 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
