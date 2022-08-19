@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 2021年，身份欺诈案例创下新记录；宝马遭挖墙脚，黑客光明正大敛钱](https://www.freebuf.com/news/342291.html) | Thu Aug 18 2022 6:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    微软的员工已暴露了公司在线基础设施的敏感登录凭据。 
+    </details> 
+
 - 🦄 [BlackByte团伙携新勒索手段卷土重来](https://www.freebuf.com/news/342285.html) | Thu Aug 18 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
     勒索软件 BlackByte 带着 2.0 版本回归了，并创建了一个新的数据泄露网站 
     </details> 
 
-- 🦄 [聊聊新版风险评估的变化](https://www.freebuf.com/articles/342273.html) | Thu Aug 18 2022 6:00 AM 
+- 🦅 [聊聊新版风险评估的变化](https://www.freebuf.com/articles/342273.html) | Thu Aug 18 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
     新版风评简化了要素关系，只保留了资产、脆弱性、威胁、安全措施和风险要素。 
     </details> 
 
-- 🦅 [攻击者开发BugDrop恶意软件，可绕过安卓安全防护](https://www.freebuf.com/news/342264.html) | Thu Aug 18 2022 3:49 AM 
+- 🪄 [攻击者开发BugDrop恶意软件，可绕过安卓安全防护](https://www.freebuf.com/news/342264.html) | Thu Aug 18 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     随着BugDrop逐步完善当前存在的各种缺陷，攻击者在与安全团队、银行机构的战争中拥有一种全新的高威力的武器，可击败谷歌目前采用的解决方案。 
     </details> 
 
-- 🪄 [上海浦东发展银行信用卡中心招聘信息](https://www.freebuf.com/jobs/342253.html) | Thu Aug 18 2022 3:06 AM 
+- 💻 [上海浦东发展银行信用卡中心招聘信息](https://www.freebuf.com/jobs/342253.html) | Thu Aug 18 2022 3:06 AM 
     <details><summary>展开描述 ...</summary> 
     上海浦东发展银行信用卡中心成立于2004年1月，是国内最早获得金融许可证的信用卡中心之一。 
-    </details> 
-
-- 💻 [2021年，身份欺诈案例创下新记录](https://www.freebuf.com/articles/342245.html) | Thu Aug 18 2022 2:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    谷歌语音诈骗在 2021 年的身份相关欺诈案例中创下新纪录。 
     </details> 
 <!-- freebuf:END -->
 
