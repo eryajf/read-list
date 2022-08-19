@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [弧光未照明路，新衣难解旧愁——评 Arc 浏览器](https://sspai.com/post/75216) | Thu Aug 18 2022 8:52 AM 
+- 👹 [派早报：联想新品发布会、Windows 11 小部件现在可以在任务栏触发通知](https://sspai.com/post/75230) | Fri Aug 19 2022 1:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    海盗船发布 MP700 PCIe 5.0 SSD，UFS 4.0 协议正式公布等&lt;a href=&quot;https://sspai.com/post/75230&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [弧光未照明路，新衣难解旧愁——评 Arc 浏览器](https://sspai.com/post/75216) | Thu Aug 18 2022 8:52 AM 
     <details><summary>展开描述 ...</summary> 
     正文：怎样不用 Arc 而用上 Arc&lt;a href=&quot;https://sspai.com/post/75216&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [让移动游戏越来越「好玩」的秘密：我们与 4 位游戏制作团队聊了聊](https://sspai.com/post/75175) | Thu Aug 18 2022 8:36 AM 
+- 🤭 [让移动游戏越来越「好玩」的秘密：我们与 4 位游戏制作团队聊了聊](https://sspai.com/post/75175) | Thu Aug 18 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
     在最近举行的一场线下活动中，少数派有机会与 4 位游戏制作团队聊了聊，了解他们如何在游戏作品中运用 Apple 技术，以后背后的诸多想法理念。&lt;a href=&quot;https://sspai.com/post/75175&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [城市漫步指南：如果故宫是一座围城](https://sspai.com/post/72464) | Thu Aug 18 2022 7:26 AM 
+- 🥸 [城市漫步指南：如果故宫是一座围城](https://sspai.com/post/72464) | Thu Aug 18 2022 7:26 AM 
     <details><summary>展开描述 ...</summary> 
     无论是在西方还是东方，各个文化在进行文化创作时，总绕不开一些历史相关的题材。而这一类题材中很重要的一类就是还原当时的生活图景拍成剧集，所谓时代剧。时代剧（英语：PeriodDrama、CostumeD ...&lt;a href=&quot;https://sspai.com/post/72464&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [CalDigit TS4 评测：如何用一根雷电 4 线驱动 2 块最高规格的 XDR？](https://sspai.com/post/75166) | Thu Aug 18 2022 6:30 AM 
+- 🙉 [CalDigit TS4 评测：如何用一根雷电 4 线驱动 2 块最高规格的 XDR？](https://sspai.com/post/75166) | Thu Aug 18 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     TS4 的强悍之处，在于它几乎一次性满足了绝大部分专业用户对扩展坞的所有期待，并且完美契合了我基于 14 寸 MacBook Pro 搭建桌面环境的一切需求。&lt;a href=&quot;https://sspai.com/post/75166&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [最好看的 Q1！少数派 Keychron 联名 Q1 键盘体验+改造](https://sspai.com/post/75188) | Thu Aug 18 2022 3:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为一把典型的「量产客制化」键盘，本视频会分享我对于少数派 Keychron 联名 Q1 的简单体验和改造过程。&lt;a href=&quot;https://sspai.com/post/75188&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
