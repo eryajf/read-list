@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Intel 12 代大小核。4 核有难， 8 和围观！](https://www.v2ex.com/t/874009#reply1) | Fri Aug 19 2022 8:02 AM
-- 🤗 [有没有相对快速的降低 mbp 电池健康度的方法](https://www.v2ex.com/t/874006#reply3) | Fri Aug 19 2022 7:54 AM
-- 🎭 [PostgreSQL 中的 char&lpar;n&rpar;,varchar&lpar;n&rpar;全换 text 有没有必要](https://www.v2ex.com/t/874005#reply3) | Fri Aug 19 2022 7:45 AM
-- 🥷 [为什么 T-mobile 这类网站用 Angular 写百度也能正常收录内页？是用了 SSR 吗？ ASP.NET Core 有实现类似效果的方法吗？](https://www.v2ex.com/t/874000#reply1) | Fri Aug 19 2022 7:22 AM
-- 🐵 [Github Copilot 快要过期了，求一个便宜点的，靠谱的购入渠道。](https://www.v2ex.com/t/873999#reply4) | Fri Aug 19 2022 7:17 AM<!-- v2ex:END -->
+- 🥸 [go 实现的 arcface](https://www.v2ex.com/t/874034#reply0) | Fri Aug 19 2022 8:53 AM
+- 🤗 [.Netcore 可以 热更新嘛](https://www.v2ex.com/t/874033#reply0) | Fri Aug 19 2022 8:49 AM
+- 🎭 [为什么同事没事下班不准时走，要等大家都走了再走](https://www.v2ex.com/t/874028#reply12) | Fri Aug 19 2022 8:37 AM
+- 🥷 [有人知道我 Google 账号的密码？](https://www.v2ex.com/t/874024#reply8) | Fri Aug 19 2022 8:33 AM
+- 🐵 [Jenkins 核心功能或者说作用是什么？](https://www.v2ex.com/t/874023#reply10) | Fri Aug 19 2022 8:32 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
