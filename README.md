@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75245) | Fri Aug 19 2022 9:37 AM 
+- 👹 [派周报 | 本周会员内容提要；跑题：小处不可随便](https://sspai.com/prime/story/pi-weekly-005) | Fri Aug 19 2022 11:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    在如今新工具层出不穷、令人眼花缭乱的情况下，一个产品以怎样的方式、态度和水平去设计主页、撰写文档和提供支持，本身就是一个很有效的筛选标准。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-005&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75245) | Fri Aug 19 2022 9:37 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[电影]壮志凌云：独行侠、[美剧]医院五日、[电影]新神榜：杨戬、[综艺]快乐再出发、[日剧]被捡到的男人、[美剧]好想做一次第三季几则精彩预告：TV动画《DoItYour ...&lt;a href=&quot;https://sspai.com/post/75245&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一日一技 | 从这些记忆技巧开始，你也能学会注音输入法](https://sspai.com/post/75244) | Fri Aug 19 2022 9:00 AM 
+- 🤭 [一日一技 | 从这些记忆技巧开始，你也能学会注音输入法](https://sspai.com/post/75244) | Fri Aug 19 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
     如果需要与台湾地区的朋友交流，比如想看懂注音梗与他们采用的缩写，或是想尝试注音输入法，了解注音符号显然有所帮助。&lt;a href=&quot;https://sspai.com/post/75244&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [苹果与游戏开发者之间的黑盒](https://sspai.com/post/75219) | Fri Aug 19 2022 8:05 AM 
+- 🥸 [苹果与游戏开发者之间的黑盒](https://sspai.com/post/75219) | Fri Aug 19 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     未来是不是还有更多的可能性呢，其实我是非常非常期待的。&lt;a href=&quot;https://sspai.com/post/75219&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [游牧教室的数字文具盒：主体为本，舒适第一](https://sspai.com/post/75159) | Fri Aug 19 2022 3:22 AM 
+- 🙉 [游牧教室的数字文具盒：主体为本，舒适第一](https://sspai.com/post/75159) | Fri Aug 19 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75159&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：联想新品发布会、Windows 11 小部件现在可以在任务栏触发通知](https://sspai.com/post/75230) | Fri Aug 19 2022 1:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    海盗船发布 MP700 PCIe 5.0 SSD，UFS 4.0 协议正式公布等&lt;a href=&quot;https://sspai.com/post/75230&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
