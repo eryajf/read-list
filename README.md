@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《死亡搁浅》正式登陆微软PC Game Pass 一起踏上新旅程](https://hot.cnbeta.com/articles/game/1306467.htm) | Fri Aug 19 2022 11:13 AM 
+- 🕯 [苹果Animoji新专利曝光，可覆盖用户全身创建虚拟化身并与XR环境互动](https://www.cnbeta.com/articles/tech/1306491.htm) | Fri Aug 19 2022 12:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球发行商505Games与小岛工作室联合宣布，《死亡搁浅》即将于8月23日正式登陆微软的PC 版Game Pass。小岛秀夫先生监制的《死亡搁浅》广受好评，是一部为玩家带来颠覆性玩法的史诗级作品，本次正式登陆微软游戏生态系统，以供订阅了PC版Xbox Game Pass的玩家体验。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，美国专利商标局公布了苹果公司的一项专利申请，该专利涉及将用户头部的&amp;quot;虚拟化身&amp;quot;提升到新的水平，以供用户在处于扩展现实（XR）环境中的未来混合现实头显上使用。除了创建用户头部的虚拟化身（Animoji）外，下一代虚拟化身创建将允许用户扫描他们的手和/或全身，以便他们可以在扩展现实（XR）的3D环境中移动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [零跑汽车赴港上市获证监会核准](https://www.cnbeta.com/articles/tech/1306465.htm) | Fri Aug 19 2022 11:13 AM 
+- 💼 [乘风破浪的国产半导体设备厂商](https://www.cnbeta.com/articles/tech/1306489.htm) | Fri Aug 19 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月19日消息，证监会核准浙江零跑科技股份有限公司发行境外上市外资股及境内未上市股份到境外上市。证监会批复称，核准公司发行不超过290,917,000股境外上市外资股，每股面值人民币1元，全部为普通股。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近几年，在我国半导体设备企业的努力下，半导体设备不断通过各大晶圆厂的产线验证，进入了商业化供货阶段。半导体设备国产替代的黄金浪潮已然开启。半导体设备作为是半导体产业梦的基石，加速发展势在必行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [干旱致洞庭湖面积缩四分之三 网友实拍一个月“沧海变桑田”](https://www.cnbeta.com/articles/tech/1306463.htm) | Fri Aug 19 2022 11:11 AM 
+- 💂 [苹果堆料不白堆 iPhone 14 Pro系列要涨价](https://www.cnbeta.com/articles/tech/1306487.htm) | Fri Aug 19 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月以来，长江流域持续高温少雨，江河来水偏少、水位持续走低，中小型水库蓄水不足，多地土壤缺墒。水利部消息，总体来看，长江流域发生了1961年以来最严重的气象干旱。&lt;strong&gt;而且因为降水历史同期最少，高温少雨日数多等原因，导致江河来水明显偏少，水位持续走低。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前就一直有传闻称苹果iPhone 14系列将涨价，也有言论表示受手机市场萎靡影响，iPhone 14系列会保持原价。但最近有分析师表示，与iPhone 13 Pro机型相比，&lt;strong&gt;iPhone 14 Pro系列机型价格“可能”上涨100美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [西班牙5000年前巨石阵因干旱重现：全国正经历有史以来最热夏天](https://www.cnbeta.com/articles/science/1306461.htm) | Fri Aug 19 2022 11:10 AM 
+- 🚀 [又能省钱了 新能源免购置税政策延续至明年底](https://www.cnbeta.com/articles/tech/1306485.htm) | Fri Aug 19 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据路透社8月19日报道，&lt;strong&gt;伴随着非洲气团自5月涌入伊比利亚半岛，西班牙全国经历有史以来最热的夏天，部分地区持续超过40°C。尽管这个夏天给西班牙农村地区造成了破坏，但同时带来了一个意想不到发现，多尔曼巨石阵重见天日。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月19日消息，据央视新闻报道，国务院常务会议今日召开，&lt;strong&gt;会上决定延续实施新能源汽车免征购置税等政策&lt;/strong&gt;。延至明年底，继续予以免征车船税和消费税、路权、牌照等支持。建立新能源汽车产业发展协调机制，用市场化办法促进整车企业优胜劣汰和配套产业发展。大力建设充电桩，政策性开发性金融工具予以支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [小米回应营收及利润下滑：全球消费市场疲软，创新业务投入达6.11亿元](https://www.cnbeta.com/articles/tech/1306459.htm) | Fri Aug 19 2022 11:06 AM 
+- 🎊 [网友建议将省界收费站改造为停车区 交通部：十分赞同](https://www.cnbeta.com/articles/tech/1306483.htm) | Fri Aug 19 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;小米公布2022年二季度及上半年业绩。数据显示，小米二季度收入701.7亿元人民币，同比下降20.1％；调整后净利润20.8亿元，同比下降67.1％。在财报电话会上，小米高管对营收、利润下滑的原因进行回应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月19日消息，日前，中国政府网“互动”栏目刊发了交通运输部答复网民关于“高速公路服务区货车夜间停放车位不够用”留言的相关内容。&lt;strong&gt;针对网友提出将省界收费站改造为停车区的建议，交通运输部在回复中表示“我们十分赞同”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
