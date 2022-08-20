@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [《高阶前端指北》之Node爬虫脚手架&lpar;第五弹&rpar;](https://juejin.cn/post/7133869046394519566) | Sat Aug 20 2022 8:16 AM 
+- 🤗 [前端需要去了解的nodejs知识（http）](https://juejin.cn/post/7133882095033647141) | Sat Aug 20 2022 9:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    jia携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 http超文本传输协议，稍微有点网络知识的人都晓得这个名词，那nodejs中的http和他有什么关 
+    </details> 
+
+- 🎡 [六六力扣刷题链表之反转链表 II](https://juejin.cn/post/7133879874489417741) | Sat Aug 20 2022 8:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第4天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两台晒网，刷几天，然后 
+    </details> 
+
+- 🕯 [「MySQL高级篇」MySQL锁机制&amp;事务](https://juejin.cn/post/7133878991072526349) | Sat Aug 20 2022 8:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    ①表级锁：全局锁，元数据锁，意向锁，AUTO-INC锁 ②行级锁：两阶段锁协议，间隙锁，临键锁 ③事务隔离级别，ACID特性 ④死锁 
+    </details> 
+
+- 🚀 [大道如青天,协程来通信,Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang通道channel的使用EP14](https://juejin.cn/post/7133877510517260319) | Sat Aug 20 2022 8:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    众所周知，Go lang的作用域相对严格，数据之间的通信往往要依靠参数的传递，但如果想在多个协程任务中间做数据通信，就需要通道（channel）的参与，我们可以把数据封装成一个对象，然后把这个对象的指 
+    </details> 
+
+- 💪 [《高阶前端指北》之Node爬虫脚手架&lpar;第五弹&rpar;](https://juejin.cn/post/7133869046394519566) | Sat Aug 20 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
     之前几个文章我们逐步学习了Node爬虫的AABBCC，这次为了一劳永逸，我们封装一个脚手架。方便大家低门槛上手，低成本起飞 定位很清晰，让所有了解JS的同学最终都能够通过JS操作JS能实现 
-    </details> 
-
-- 🎡 [Winform控件优化之背景透明那些事2：窗体背景透明、镂空穿透、SetStyle、GDI透明效果等](https://juejin.cn/post/7133864057232162853) | Sat Aug 20 2022 7:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    两行代码就能实现Form窗体的&lpar;背景&rpar;透明效果，它不是Opacity属性的整个窗体透明，`TransparencyKey`实现窗体的透明、窗体中间部分镂空效果... 
-    </details> 
-
-- 🕯 [Cache-Control 作为请求头指令与浏览器强制刷新](https://juejin.cn/post/7133849701249449991) | Sat Aug 20 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    Cache-Control 作为响应头，用以控制缓存策略，这也是前端 HTTP 缓存策略的基础。 但是你知道 Cache-Control 也可以作为请求头吗，以及它作为请求头有何作用？ 以最常见的 n 
-    </details> 
-
-- 🚀 [面试官：如何安全地使用List](https://juejin.cn/post/7133845333859106824) | Sat Aug 20 2022 6:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    JDK中提供了CopyOnWriteArrayList类，简称COW。为了将读取的性能发挥到极致，CopyOnWriteArrayList读取是完全不用加锁的，并且更厉害的是：写入也不会阻塞读取操作。 
-    </details> 
-
-- 💪 [【Nacos源码之配置管理 六】集群模式下服务器之间是如何互相感知的](https://juejin.cn/post/7133845186618064933) | Sat Aug 20 2022 6:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 我们用Nacos当配置中心的时候,上一篇文章中【Nacos源码之配置管理 五】为什么把配置文件Dump到磁盘中 
     </details> 
 <!-- juejin:END -->
 ### 少数派
