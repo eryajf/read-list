@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [神奇 周围有人播放珍妮杰克逊的《节奏国度》，你的笔记本电脑就可能死机](http://jandan.net/p/111177) | Sat Aug 20 2022 5:41 AM 
+- 🚀 [一些地狱笑话&lpar;3&rpar;](http://jandan.net/p/111166) | Sat Aug 20 2022 11:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    周末加班更个新 
+    </details> 
+
+- 🙉 [神奇 周围有人播放珍妮杰克逊的《节奏国度》，你的笔记本电脑就可能死机](http://jandan.net/p/111177) | Sat Aug 20 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
     zsbd 
     </details> 
 
-- 🙉 [用射电望远镜寻找系外行星 难点和可行性各在哪里？](http://jandan.net/p/111158) | Sat Aug 20 2022 4:12 AM 
+- 🎉 [用射电望远镜寻找系外行星 难点和可行性各在哪里？](http://jandan.net/p/111158) | Sat Aug 20 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
     木星本身不会向往辐射无线电，但它在射电望远镜的镜头里是异常明亮的，为什么？ 
     </details> 
 
-- 🎉 [今日好价 0820](http://jandan.net/p/111181) | Sat Aug 20 2022 4:09 AM 
+- 🐲 [今日好价 0820](http://jandan.net/p/111181) | Sat Aug 20 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [测试发现，汽车里的物理按钮优于触摸屏控件](http://jandan.net/p/111164) | Fri Aug 19 2022 1:28 PM 
+-  [测试发现，汽车里的物理按钮优于触摸屏控件](http://jandan.net/p/111164) | Fri Aug 19 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
     虽然触屏将功能集成在一起，但操作繁琐，需要行驶中的司机低头去看 
-    </details> 
-
--  [解放拖拉机！为大型农业设备刷机越狱的拖拉机黑客](http://jandan.net/p/111157) | Fri Aug 19 2022 1:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    需要对电路板进行物理访问 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
