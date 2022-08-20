@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用二进制重排 &amp; Clang插桩技术对iOS冷启动做优化太爽了](https://juejin.cn/post/7133911570945409038) | Sat Aug 20 2022 11:01 AM 
+- 🤗 [2022年8月20日（NC93 设计LRU缓存结构）](https://juejin.cn/post/7133918711500521508) | Sat Aug 20 2022 11:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    还有没做算法题，来牛客网做一个 LRU（最近最少使用）算法题，倒是不难，主要是自己的对 Map 的掌握还不够透彻，倒是花了些时间。 
+    </details> 
+
+- 🎡 [使用二进制重排 &amp; Clang插桩技术对iOS冷启动做优化太爽了](https://juejin.cn/post/7133911570945409038) | Sat Aug 20 2022 11:01 AM 
     <details><summary>展开描述 ...</summary> 
     1.冷启动  1.1 什么是冷启动？ 冷启动是指内存中不包含该应用程序相关的数据，必须要从磁盘载入到内存中的启动过程。 注意：重新打开 APP， 不一定就是冷启动。 当内存不足，APP被系统自动杀死 
     </details> 
 
-- 🎡 [比快更快的 ELK 8 安装使用指南-Elasticsearch，Kibana，Logstash](https://juejin.cn/post/7133907643386560519) | Sat Aug 20 2022 10:46 AM 
+- 🕯 [比快更快的 ELK 8 安装使用指南-Elasticsearch，Kibana，Logstash](https://juejin.cn/post/7133907643386560519) | Sat Aug 20 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 Elasticsearch 8 的新特性 Elastic 8.0 版号称 比快更快 ，其新特性可参考 E 
     </details> 
 
-- 🕯 [初学react写一个可编辑标题的一波多多折](https://juejin.cn/post/7133896956409348132) | Sat Aug 20 2022 10:04 AM 
+- 🚀 [初学react写一个可编辑标题的一波多多折](https://juejin.cn/post/7133896956409348132) | Sat Aug 20 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     初次使用react，实现一个石墨类似的标题编辑效果。中间遇到一些细节问题，一步步查阅资料，解决问题。 
     </details> 
 
-- 🚀 [Spring5源码5-Bean生命周期后置处理器](https://juejin.cn/post/7133888565896806407) | Sat Aug 20 2022 9:32 AM 
+- 💪 [Spring5源码5-Bean生命周期后置处理器](https://juejin.cn/post/7133888565896806407) | Sat Aug 20 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
     Bean生命周期后置处理器的执行时机，BeanFactoryPostProcessor、BeanPostProcessor、InitializingBean 
-    </details> 
-
-- 💪 [【数据可视化】-Matplotlib基本使用](https://juejin.cn/post/7133883746503098399) | Sat Aug 20 2022 9:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 1. Matplotlib 是专门用于开发2D图表（包括3D图表）的第三方库，3D也可以画，只不过不是很 
     </details> 
 <!-- juejin:END -->
 ### 少数派
