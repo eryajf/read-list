@@ -365,9 +365,9 @@
 
 <!-- v2ex:START -->
 - 🥸 [向往的开发环境搭建（一）： RocketMQ Cluster](https://www.v2ex.com/t/874242#reply0) | Sat Aug 20 2022 1:24 PM
-- 🤗 [Windows 环境或配置一致性同步问题！](https://www.v2ex.com/t/874235#reply0) | Sat Aug 20 2022 12:56 PM
-- 🎭 [Shardingsphere 本地 Dao 层查询需要 50 多秒，单表查只需要几十毫秒。](https://www.v2ex.com/t/874234#reply0) | Sat Aug 20 2022 12:56 PM
-- 🥷 [有个 macOS 桌面应用用 js 来同步 iCloud 的问题想请教路过的大佬。](https://www.v2ex.com/t/874229#reply0) | Sat Aug 20 2022 12:19 PM
+- 🤗 [Windows 环境或配置一致性同步问题！](https://www.v2ex.com/t/874235#reply2) | Sat Aug 20 2022 12:56 PM
+- 🎭 [Shardingsphere 本地 Dao 层查询需要 50 多秒，单表查只需要几十毫秒。](https://www.v2ex.com/t/874234#reply1) | Sat Aug 20 2022 12:56 PM
+- 🥷 [有个 macOS 桌面应用用 js 来同步 iCloud 的问题想请教路过的大佬。](https://www.v2ex.com/t/874229#reply2) | Sat Aug 20 2022 12:19 PM
 - 🐵 [当下国际版手机各位通过什么渠道入手？](https://www.v2ex.com/t/874228#reply3) | Sat Aug 20 2022 12:05 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
