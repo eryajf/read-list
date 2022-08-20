@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Spring5源码5-Bean生命周期后置处理器](https://juejin.cn/post/7133888565896806407) | Sat Aug 20 2022 9:32 AM 
+- 🤗 [使用二进制重排 &amp; Clang插桩技术对iOS冷启动做优化太爽了](https://juejin.cn/post/7133911570945409038) | Sat Aug 20 2022 11:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    1.冷启动  1.1 什么是冷启动？ 冷启动是指内存中不包含该应用程序相关的数据，必须要从磁盘载入到内存中的启动过程。 注意：重新打开 APP， 不一定就是冷启动。 当内存不足，APP被系统自动杀死 
+    </details> 
+
+- 🎡 [比快更快的 ELK 8 安装使用指南-Elasticsearch，Kibana，Logstash](https://juejin.cn/post/7133907643386560519) | Sat Aug 20 2022 10:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 Elasticsearch 8 的新特性 Elastic 8.0 版号称 比快更快 ，其新特性可参考 E 
+    </details> 
+
+- 🕯 [初学react写一个可编辑标题的一波多多折](https://juejin.cn/post/7133896956409348132) | Sat Aug 20 2022 10:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    初次使用react，实现一个石墨类似的标题编辑效果。中间遇到一些细节问题，一步步查阅资料，解决问题。 
+    </details> 
+
+- 🚀 [Spring5源码5-Bean生命周期后置处理器](https://juejin.cn/post/7133888565896806407) | Sat Aug 20 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
     Bean生命周期后置处理器的执行时机，BeanFactoryPostProcessor、BeanPostProcessor、InitializingBean 
     </details> 
 
-- 🎡 [【数据可视化】-Matplotlib基本使用](https://juejin.cn/post/7133883746503098399) | Sat Aug 20 2022 9:12 AM 
+- 💪 [【数据可视化】-Matplotlib基本使用](https://juejin.cn/post/7133883746503098399) | Sat Aug 20 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 1. Matplotlib 是专门用于开发2D图表（包括3D图表）的第三方库，3D也可以画，只不过不是很 
-    </details> 
-
-- 🕯 [JS 中 new 一个函数的背后发生了什么？（构造函数、原型与原型链）](https://juejin.cn/post/7133882107234877448) | Sat Aug 20 2022 9:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    打牢 js 基础，是十分必要的。今天我们来看看，当通过 new 去调用一个函数时，背后到底发生了什么？ 
-    </details> 
-
-- 🚀 [B+树索引（5）之索引注意事项](https://juejin.cn/post/7133882164864778254) | Sat Aug 20 2022 9:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 B+树索引（5）之索引注意事项 在前面的文章中我们可以聊了很多索引相关知识，具体内容详情可以参考 B+树 
-    </details> 
-
-- 💪 [前端需要去了解的nodejs知识（http）](https://juejin.cn/post/7133882095033647141) | Sat Aug 20 2022 9:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    jia携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第14天，点击查看活动详情 http超文本传输协议，稍微有点网络知识的人都晓得这个名词，那nodejs中的http和他有什么关 
     </details> 
 <!-- juejin:END -->
 ### 少数派
