@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [横板射击游戏《Jetpack Joyride 2》本周五正式上架Apple Arcade​](https://hot.cnbeta.com/articles/game/1306627.htm) | Sat Aug 20 2022 1:50 AM 
+- 🕯 [特斯拉之外，亿纬锂能（EVE）要向宝马供应4680电池了](https://www.cnbeta.com/articles/tech/1306677.htm) | Sat Aug 20 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;正如本月初所预告的，&lt;a href=&quot;https://apps.apple.com/us/app/jetpack-joyride-2/id1598096399&quot; target=&quot;_blank&quot;&gt;横板射击游戏《Jetpack Joyride 2》于本周五正式上架 Apple Arcade&lt;/a&gt;。如果你是 Apple Arcade 的订阅用户（每月费用为 5 美元），那么无需付费就能在没有广告和内购的情况下畅玩这款游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;向特斯拉供应 4680 电池的中国供应商亿纬锂能（EVE）也要向宝马供应这种电池了。&lt;/strong&gt;在 2020 年，特斯拉引入了全新的 4680（46mm*80mm）的圆柱形电池格式，这当时电动汽车所用电池的体积都要大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家们利用卫星追踪世界各地30年的海平面上升情况](https://www.cnbeta.com/articles/science/1306625.htm) | Sat Aug 20 2022 1:44 AM 
+- 💼 [《黑神话：悟空》官网新截图 展现蜘蛛精关卡环境](https://hot.cnbeta.com/articles/game/1306675.htm) | Sat Aug 20 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三十年前，科学家和工程师们发射了一颗卫星，以研究海水如何随时间的推移而上升和下降，这项工作以前只能在海岸边进行。1992年8月10日，TOPEX/Poseidon发射进入轨道，开始对全球各地的海洋表面高度进行30年的记录。&lt;strong&gt;这些发现验证了科学家们以前从海岸线上看到的情况：海平面正在上升，而且速度正在加快。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（8月20日），ARPG游戏《黑神话：悟空》公布最新过场动画及实机演示，同时《黑神话：悟空》官方网站更新了数张新截图，感兴趣的玩家可以&lt;a href=&quot;https://www.heishenhua.com/&quot; target=&quot;_blank&quot;&gt;点击此处&lt;/a&gt;进入官方页面。官方表示内容行业是个挣扎的行业。因为做内容的人，永远克制不住表达真实的自我。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[图]宇航员捕捉到由太阳风暴引起的壮观极光](https://www.cnbeta.com/articles/science/1306623.htm) | Sat Aug 20 2022 1:41 AM 
+- 💂 [Neptune Linux 7.5发行版今天正式推出](https://www.cnbeta.com/articles/tech/1306673.htm) | Sat Aug 20 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;数日前天文领域的头条新闻，莫过于太阳的日冕物质抛射，它可能会产生太阳风暴。尽管天文学家预测会发生小型（G1）或者中等（G2）的地磁风暴，但本次太阳活动带来了非常壮观的极光。NASA 宇航员 Bob Hines 从国际空间站上观测到了非常壮观的极光，并分享了 4 张拍摄的照片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Neptune Linux 7.5 发行版于今天正式推出。这是 Neptune Linux 7.x 系列的第 2 个重大维护更新，基于 Debian 并搭载 KDE Plasma 桌面环境。Neptune Linux 7.5 代号为“Ada”，基于 Debian 11.4 “Bullseye”系列，并采用了来自 Debian Backports 库的 Linux 5.18.2。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [水冷散热器厂商证实AMD锐龙7000处理器仍将于9月推出](https://www.cnbeta.com/articles/tech/1306621.htm) | Sat Aug 20 2022 1:37 AM 
+- 🚀 [全球最大的海上风电场即将正式启动](https://www.cnbeta.com/articles/tech/1306671.htm) | Sat Aug 20 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管 AMD 已官宣 8 月 29 日直播 Zen 4 锐龙 7000 系列处理器发布会，但此前泄露的照片暗示配套的 600 系列芯片组 / AM5 主板要等到 9 月 15 日才会上市。&lt;strong&gt;然而一份新报告却指出，全新一代 Socket AM5 平台尚未搞定固件方面的问题，因而实际上市日期可能会有所推迟。&lt;/strong&gt;对此，一家散热器厂商给出了不同的意见。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Electrek报道，&lt;strong&gt;英国的Hornsea Two是世界上最大的单一运行的海上风电场，预计将在8月底前全面投入使用。&lt;/strong&gt;1.32 GW的 Hornsea Two 将取代1.2GW的 Hornsea One，成为世界上最大的运行中的海上风电场。它的面积为462平方公里（178平方英里），它将为130多万个家庭供电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [YouTube博主打造了一把精准无比的飞刀枪](https://www.cnbeta.com/articles/tech/1306619.htm) | Sat Aug 20 2022 1:31 AM 
+- 🎊 [坑了软银400亿的他又回来了：用WeWork的老把戏再骗你一次](https://www.cnbeta.com/articles/tech/1306669.htm) | Sat Aug 20 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Techspot报道，扔出一把刀并将其刀刃先插入目标，并不像好莱坞所说的那样容易。 史蒂文·西格尔（Steven Seagal）在电影《 潜龙轰天》（Under Siege）中饰演的海军下士凯西-瑞贝克（Casey Ryback）是一位将刀落在重要位置的专家。但在现实生活中做到这一点需要大量的心智数学，&lt;strong&gt;正如这位YouTube博主用他的最新项目--飞刀枪指出的那样。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;如果要列举全球互联网界臭名昭著的“骗子”，Adam Neumann绝对是佼佼者。&lt;/strong&gt;他创办WeWork，把一个二房东生意硬是靠着造概念和玩营销包装成了高科技公司，最高时估值470亿美元，曾是全世界估值最高的独角兽；在最风光时，软银的孙正义、JP摩根的戴蒙都恨不得变成他的粉丝。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
