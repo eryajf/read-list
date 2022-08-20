@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [遭群嘲后扎克伯格再晒新图 承诺Metaverse不会令人沮丧](https://www.cnbeta.com/articles/tech/1306565.htm) | Fri Aug 19 2022 11:11 PM 
+- 🕯 [横板射击游戏《Jetpack Joyride 2》本周五正式上架Apple Arcade​](https://hot.cnbeta.com/articles/game/1306627.htm) | Sat Aug 20 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为庆祝旗下元宇宙社交平台 Horizon Worlds 进入欧洲市场，马克·扎克伯格（Mark Zuckerberg）发布了一张他站在埃尔菲铁塔前的 Avatar 公仔形象照。但这张照片引起了社区的围攻嘲讽，甚至Kotaku，PC Gamer，TechCrunch和福布斯等著名媒体都纷纷吐槽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;正如本月初所预告的，&lt;a href=&quot;https://apps.apple.com/us/app/jetpack-joyride-2/id1598096399&quot; target=&quot;_blank&quot;&gt;横板射击游戏《Jetpack Joyride 2》于本周五正式上架 Apple Arcade&lt;/a&gt;。如果你是 Apple Arcade 的订阅用户（每月费用为 5 美元），那么无需付费就能在没有广告和内购的情况下畅玩这款游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google Search结果重新回归倒计时和秒表功能](https://www.cnbeta.com/articles/tech/1306563.htm) | Fri Aug 19 2022 10:52 PM 
+- 💼 [科学家们利用卫星追踪世界各地30年的海平面上升情况](https://www.cnbeta.com/articles/science/1306625.htm) | Sat Aug 20 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google Search 中再次回归了实用的倒计时和秒表功能。上述两项功能已经持续数周无法访问，不过 Google 的公共搜索联络官丹尼·沙利文（Danny Sullivan）在本周三的推文中宣布了倒计时功能的回归。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三十年前，科学家和工程师们发射了一颗卫星，以研究海水如何随时间的推移而上升和下降，这项工作以前只能在海岸边进行。1992年8月10日，TOPEX/Poseidon发射进入轨道，开始对全球各地的海洋表面高度进行30年的记录。&lt;strong&gt;这些发现验证了科学家们以前从海岸线上看到的情况：海平面正在上升，而且速度正在加快。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14保护套曝光 透露可能的颜色选项](https://www.cnbeta.com/articles/tech/1306561.htm) | Fri Aug 19 2022 10:42 PM 
+- 💂 [[图]宇航员捕捉到由太阳风暴引起的壮观极光](https://www.cnbeta.com/articles/science/1306623.htm) | Sat Aug 20 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;援引 9to5Mac 报道，此前曾准确爆料 iPhone 保护套的 @MajinBuOfficial 再次分享了 iPhone 14 的保护套。&lt;strong&gt;在推文中表示这些保护套是 iPhone 14 官方保护套的克隆版本，并非出自官方之手。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;数日前天文领域的头条新闻，莫过于太阳的日冕物质抛射，它可能会产生太阳风暴。尽管天文学家预测会发生小型（G1）或者中等（G2）的地磁风暴，但本次太阳活动带来了非常壮观的极光。NASA 宇航员 Bob Hines 从国际空间站上观测到了非常壮观的极光，并分享了 4 张拍摄的照片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国NPD7月销售数据：PS5销售额第一、NS销量第一](https://hot.cnbeta.com/articles/game/1306559.htm) | Fri Aug 19 2022 10:14 PM 
+- 🚀 [水冷散热器厂商证实AMD锐龙7000处理器仍将于9月推出](https://www.cnbeta.com/articles/tech/1306621.htm) | Sat Aug 20 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NPD集团执行董事Mat Piscatella公布了美国NPD7月份的销售数据。2022年7月，&lt;strong&gt;美国NPD的消费者在电子游戏硬件、软件以及配件方面的支出与一年前同期相比下降了9%，为41.8亿美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管 AMD 已官宣 8 月 29 日直播 Zen 4 锐龙 7000 系列处理器发布会，但此前泄露的照片暗示配套的 600 系列芯片组 / AM5 主板要等到 9 月 15 日才会上市。&lt;strong&gt;然而一份新报告却指出，全新一代 Socket AM5 平台尚未搞定固件方面的问题，因而实际上市日期可能会有所推迟。&lt;/strong&gt;对此，一家散热器厂商给出了不同的意见。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果 AirPower 无线充电板原型机视频体验](https://www.cnbeta.com/articles/tech/1306557.htm) | Fri Aug 19 2022 10:10 PM 
+- 🎊 [YouTube博主打造了一把精准无比的飞刀枪](https://www.cnbeta.com/articles/tech/1306619.htm) | Sat Aug 20 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国外 YouTube 频道 Apple Demo 找来一台苹果 AirPower 无线充电板原型机，并分享了体验视频。AirPower 是苹果设计的基于 Qi 无线充电协议的多设备无线充电板，可以同时为 iPhone、Apple Watch 和 AirPods 充电。苹果在 2017 年 9 月发布 iPhone X 时，同步发布了 AirPower。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Techspot报道，扔出一把刀并将其刀刃先插入目标，并不像好莱坞所说的那样容易。 史蒂文·西格尔（Steven Seagal）在电影《 潜龙轰天》（Under Siege）中饰演的海军下士凯西-瑞贝克（Casey Ryback）是一位将刀落在重要位置的专家。但在现实生活中做到这一点需要大量的心智数学，&lt;strong&gt;正如这位YouTube博主用他的最新项目--飞刀枪指出的那样。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
