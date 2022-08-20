@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Cache-Control 作为请求头指令与浏览器强制刷新](https://juejin.cn/post/7133849701249449991) | Sat Aug 20 2022 7:00 AM 
+- 🤗 [《高阶前端指北》之Node爬虫脚手架&lpar;第五弹&rpar;](https://juejin.cn/post/7133869046394519566) | Sat Aug 20 2022 8:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    之前几个文章我们逐步学习了Node爬虫的AABBCC，这次为了一劳永逸，我们封装一个脚手架。方便大家低门槛上手，低成本起飞 定位很清晰，让所有了解JS的同学最终都能够通过JS操作JS能实现 
+    </details> 
+
+- 🎡 [Winform控件优化之背景透明那些事2：窗体背景透明、镂空穿透、SetStyle、GDI透明效果等](https://juejin.cn/post/7133864057232162853) | Sat Aug 20 2022 7:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    两行代码就能实现Form窗体的&lpar;背景&rpar;透明效果，它不是Opacity属性的整个窗体透明，`TransparencyKey`实现窗体的透明、窗体中间部分镂空效果... 
+    </details> 
+
+- 🕯 [Cache-Control 作为请求头指令与浏览器强制刷新](https://juejin.cn/post/7133849701249449991) | Sat Aug 20 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     Cache-Control 作为响应头，用以控制缓存策略，这也是前端 HTTP 缓存策略的基础。 但是你知道 Cache-Control 也可以作为请求头吗，以及它作为请求头有何作用？ 以最常见的 n 
     </details> 
 
-- 🎡 [面试官：如何安全地使用List](https://juejin.cn/post/7133845333859106824) | Sat Aug 20 2022 6:44 AM 
+- 🚀 [面试官：如何安全地使用List](https://juejin.cn/post/7133845333859106824) | Sat Aug 20 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
     JDK中提供了CopyOnWriteArrayList类，简称COW。为了将读取的性能发挥到极致，CopyOnWriteArrayList读取是完全不用加锁的，并且更厉害的是：写入也不会阻塞读取操作。 
     </details> 
 
-- 🕯 [【Nacos源码之配置管理 六】集群模式下服务器之间是如何互相感知的](https://juejin.cn/post/7133845186618064933) | Sat Aug 20 2022 6:43 AM 
+- 💪 [【Nacos源码之配置管理 六】集群模式下服务器之间是如何互相感知的](https://juejin.cn/post/7133845186618064933) | Sat Aug 20 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
     前言 我们用Nacos当配置中心的时候,上一篇文章中【Nacos源码之配置管理 五】为什么把配置文件Dump到磁盘中 
-    </details> 
-
-- 🚀 [【Nacos源码之配置管理 五】为什么把配置文件Dump到磁盘中](https://juejin.cn/post/7133844771511992356) | Sat Aug 20 2022 6:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 上一篇文章 【Nacos源码之配置管理 四】DumpService如何将配置文件全部Dump到磁盘中 分析了Nacos将配置文件Dump的磁盘中,那我为什么要Dump到磁盘中呢？这样做有什么好处 
-    </details> 
-
-- 💪 [TypeScript-起步——TypeScript类型（一）](https://juejin.cn/post/7133844015006351368) | Sat Aug 20 2022 6:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第20天，点击查看活动详情 1、类型 ① JavaScript和TypeScript的数据类型 我们经常说TypeScript是Ja 
     </details> 
 <!-- juejin:END -->
 ### 少数派
