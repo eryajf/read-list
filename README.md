@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [微信公众号开发（一）打通服务器与微信之间的通信](https://juejin.cn/post/7133752659190185997) | Sat Aug 20 2022 12:47 AM 
+- 🤗 [大数据可视化理论与案例分析｜青训营笔记](https://juejin.cn/post/7133792765082599460) | Sat Aug 20 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 说来惭愧PHP做了这么久，好像就没有从头开发过一个微信公众号，这次刚好有机会从头接入开发一个完整的公众号 
+    通过本篇文章，可以帮助读者对数据可视化的概念和原理有一个整体的认知，并且介绍了数据可视化中常见的可视化图表的种类和使用场景。 
     </details> 
 
-- 🎡 [推荐系统！基于tensorflow搭建混合神经网络精准推荐！](https://juejin.cn/post/7133753244417064997) | Sat Aug 20 2022 12:46 AM 
+- 🎡 [求解 RMQ 的几种方式 :「递归分治」&amp;「线段树」&amp;「单调栈」](https://juejin.cn/post/7133790853532745741) | Sat Aug 20 2022 3:13 AM 
     <details><summary>展开描述 ...</summary> 
-    本文从常见的推荐系统方法（基于内容、协同过滤等近邻算法、基于知识等）讲起，一直覆盖到前沿的新式推荐系统，不仅详细讲解原理，还手把手教大家如何用代码实现。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 题目描述 这是 LeetCode 上的 654. 最大二叉树 ，难度为 中等。 Tag : 「二叉树」、 
     </details> 
 
-- 🕯 [「趣学前端」平平无奇的JavaScript函数](https://juejin.cn/post/7133752203566645256) | Sat Aug 20 2022 12:44 AM 
+- 🕯 [远端服务器二三事 | 免密登陆 + vscode图形化管理远端服务器](https://juejin.cn/post/7133787358033346567) | Sat Aug 20 2022 2:59 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情。今天分享JavaScript函数，总结了一些工作上可能用到的知识点，希望从中有新的收获。 
+    前言 最近写一个 puppeteer 爬虫工具，需要经常【ssh 登陆 - 输入密码 -- 执行 shell - 服务器查看日志】，这个简单的动作在重复了无数遍后变得不可忍受，程序员最大的天敌是无意义 
     </details> 
 
-- 🚀 [码上掘金，5 个 NICE 的 JavaScript 代码片段分享](https://juejin.cn/post/7133733538024652830) | Fri Aug 19 2022 11:36 PM 
+- 🚀 [ModuleNotFoundError: No module named ‘werkzeug.contrib‘ 解决方法](https://juejin.cn/post/7133785987141861383) | Sat Aug 20 2022 2:53 AM 
     <details><summary>展开描述 ...</summary> 
-    减轻阅读负担，启发创作心智，轻松学习 JavaScript 技巧，日拱一卒，jym，冲~不知道哥几个在码上掘金都走起来了没，本篇带来 5 个 NICE 的 JavaScript 代码片段分享 
+    发现当前安装的Werkzeug版本为1.0.1，于是翻阅werkzeug的官方文档 首先发现了这段话： Some modules that already issued deprecation war 
     </details> 
 
-- 💪 [【推荐指数★★★★★】这些js功能你一定要学会（持续更新...）](https://juejin.cn/post/7133621528058396679) | Fri Aug 19 2022 4:15 PM 
+- 💪 [Vue 2 阅读理解（十）之 生命周期初始化](https://juejin.cn/post/7133785574062129183) | Sat Aug 20 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
-    1.图片失败，重新加载 参考：https://juejin.cn/post/6969838280251146271 参考：https://juejin.cn/post/6844904066418491 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 initLifecycle 生命周期初始化 在 new Vue 过程 一节中，讲到 Vue 实例在初始化 
     </details> 
 <!-- juejin:END -->
 ### 少数派
