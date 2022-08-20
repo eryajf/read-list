@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [揭露APT组织穆伦鲨&lpar;MurenShark&rpar;， 瞄向土潜艇科研人员](https://www.freebuf.com/articles/network/342426.html) | Fri Aug 19 2022 7:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    经过分析，研究人员确认本轮攻击活动来自一个由伏影实验室于21年4月确认的新型威胁实体Actor210426。 
+    </details> 
+
 - 🦄 [常用的30+种未授权访问漏洞汇总](https://www.freebuf.com/articles/web/338459.html) | Fri Aug 19 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
     本文覆盖了目前网络资讯上公布的30+种常见的未授权访问漏洞。 
     </details> 
 
-- 🦄 [FreeBuf周报 | Gartner发布2022年新兴技术成熟度曲线；两款红米手机存在安全漏洞；Instagram跟踪用户网络活动](https://www.freebuf.com/articles/342403.html) | Fri Aug 19 2022 5:49 AM 
+- 🦅 [FreeBuf周报 | Gartner发布2022年新兴技术成熟度曲线；两款红米手机存在安全漏洞；Instagram跟踪用户网络活动](https://www.freebuf.com/articles/342403.html) | Fri Aug 19 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
     本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🦅 [FreeBuf早报 | 2021年，身份欺诈案例创下新记录；宝马遭挖墙脚，黑客光明正大敛钱](https://www.freebuf.com/news/342291.html) | Thu Aug 18 2022 6:32 AM 
+- 🪄 [FreeBuf早报 | 2021年，身份欺诈案例创下新记录；宝马遭挖墙脚，黑客光明正大敛钱](https://www.freebuf.com/news/342291.html) | Thu Aug 18 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
     微软的员工已暴露了公司在线基础设施的敏感登录凭据。 
     </details> 
 
-- 🪄 [BlackByte团伙携新勒索手段卷土重来](https://www.freebuf.com/news/342285.html) | Thu Aug 18 2022 6:16 AM 
+- 💻 [BlackByte团伙携新勒索手段卷土重来](https://www.freebuf.com/news/342285.html) | Thu Aug 18 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
     勒索软件 BlackByte 带着 2.0 版本回归了，并创建了一个新的数据泄露网站 
-    </details> 
-
-- 💻 [聊聊新版风险评估的变化](https://www.freebuf.com/articles/342273.html) | Thu Aug 18 2022 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    新版风评简化了要素关系，只保留了资产、脆弱性、威胁、安全措施和风险要素。 
     </details> 
 <!-- freebuf:END -->
 
