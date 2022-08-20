@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [用JavaScript来开发一个DrawScript，画一个掘金 Logo，还能这么玩？](https://juejin.cn/post/7133827399665319973) | Sat Aug 20 2022 5:34 AM 
+- 🤗 [Cache-Control 作为请求头指令与浏览器强制刷新](https://juejin.cn/post/7133849701249449991) | Sat Aug 20 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-    最近闲暇之余在教五年级的小玉学习编程，她已经学会了基本的 React，并且模拟了很多网站。现在她似乎已经逐渐对枯燥无味地编程失去了兴趣。为了继续让小玉学下去，我花了一个晚上教了她一些不一样的东西：做 
+    Cache-Control 作为响应头，用以控制缓存策略，这也是前端 HTTP 缓存策略的基础。 但是你知道 Cache-Control 也可以作为请求头吗，以及它作为请求头有何作用？ 以最常见的 n 
     </details> 
 
-- 🎡 [Vue3开发最佳实践和实用技巧（上）](https://juejin.cn/post/7133824197515542541) | Sat Aug 20 2022 5:22 AM 
+- 🎡 [面试官：如何安全地使用List](https://juejin.cn/post/7133845333859106824) | Sat Aug 20 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是云牧，今天带来的是关于 Vue3 开发中实用的技巧，能加深对 Vue3 Composition API 和响应式 API 的理解。 
+    JDK中提供了CopyOnWriteArrayList类，简称COW。为了将读取的性能发挥到极致，CopyOnWriteArrayList读取是完全不用加锁的，并且更厉害的是：写入也不会阻塞读取操作。 
     </details> 
 
-- 🕯 [日新刷题 - 521. 最长特殊序列 Ⅰ](https://juejin.cn/post/7133817779509018660) | Sat Aug 20 2022 4:58 AM 
+- 🕯 [【Nacos源码之配置管理 六】集群模式下服务器之间是如何互相感知的](https://juejin.cn/post/7133845186618064933) | Sat Aug 20 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 一、题目描述： 521. 最长特殊序列 Ⅰ - 力扣（LeetCode） &lpar;leetcode-cn.co 
+    前言 我们用Nacos当配置中心的时候,上一篇文章中【Nacos源码之配置管理 五】为什么把配置文件Dump到磁盘中 
     </details> 
 
-- 🚀 [详解 TS 中的泛型](https://juejin.cn/post/7133810035171262501) | Sat Aug 20 2022 4:26 AM 
+- 🚀 [【Nacos源码之配置管理 五】为什么把配置文件Dump到磁盘中](https://juejin.cn/post/7133844771511992356) | Sat Aug 20 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-    泛型程序设计是一种编程风格或编程范式，它允许在程序中定义形式类型参数，然后在泛型实例化时使用实际类型参数来替换形式类型参数，这一过程有些类似于函数形参在被函数调用时传入的实参替换。 
+    前言 上一篇文章 【Nacos源码之配置管理 四】DumpService如何将配置文件全部Dump到磁盘中 分析了Nacos将配置文件Dump的磁盘中,那我为什么要Dump到磁盘中呢？这样做有什么好处 
     </details> 
 
-- 💪 [文章资源下载小程序的基础配置（以Serverless WordPress为后端）](https://juejin.cn/post/7133805326381350925) | Sat Aug 20 2022 4:08 AM 
+- 💪 [TypeScript-起步——TypeScript类型（一）](https://juejin.cn/post/7133844015006351368) | Sat Aug 20 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 引言 WordPress的配置。 小程序资讯相关类目暂不对个人开放，导致大批个体小程序被暂停服务的解决方 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第20天，点击查看活动详情 1、类型 ① JavaScript和TypeScript的数据类型 我们经常说TypeScript是Ja 
     </details> 
 <!-- juejin:END -->
 ### 少数派
