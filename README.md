@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [用射电望远镜寻找系外行星 难点和可行性各在哪里？](http://jandan.net/p/111158) | Sat Aug 20 2022 4:12 AM 
+- 🚀 [神奇 周围有人播放珍妮杰克逊的《节奏国度》，你的笔记本电脑就可能死机](http://jandan.net/p/111177) | Sat Aug 20 2022 5:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    zsbd 
+    </details> 
+
+- 🙉 [用射电望远镜寻找系外行星 难点和可行性各在哪里？](http://jandan.net/p/111158) | Sat Aug 20 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
     木星本身不会向往辐射无线电，但它在射电望远镜的镜头里是异常明亮的，为什么？ 
     </details> 
 
-- 🙉 [今日好价 0820](http://jandan.net/p/111181) | Sat Aug 20 2022 4:09 AM 
+- 🎉 [今日好价 0820](http://jandan.net/p/111181) | Sat Aug 20 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [测试发现，汽车里的物理按钮优于触摸屏控件](http://jandan.net/p/111164) | Fri Aug 19 2022 1:28 PM 
+- 🐲 [测试发现，汽车里的物理按钮优于触摸屏控件](http://jandan.net/p/111164) | Fri Aug 19 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
     虽然触屏将功能集成在一起，但操作繁琐，需要行驶中的司机低头去看 
     </details> 
 
-- 🐲 [解放拖拉机！为大型农业设备刷机越狱的拖拉机黑客](http://jandan.net/p/111157) | Fri Aug 19 2022 1:27 PM 
+-  [解放拖拉机！为大型农业设备刷机越狱的拖拉机黑客](http://jandan.net/p/111157) | Fri Aug 19 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
     需要对电路板进行物理访问 
-    </details> 
-
--  [肌肉结节和消除的方法](http://jandan.net/p/111176) | Fri Aug 19 2022 9:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    结节会在一到两周内自行消除，也可以通过按摩等方式加速恢复 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
