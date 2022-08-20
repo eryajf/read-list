@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Ventroduce - 建立一个技术栈来加速你的筹款之旅](https://xinquji.com/posts/178880?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:30 AM 
+- 👀 [Auto Swiper - Tinder、Bumble 和其他约会网站的自动刷卡器](https://xinquji.com/posts/178893?utm_campaign=xinquji-rss) | Sun Aug 21 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     建立一个技术栈来加速你的筹款之旅  
+     Tinder、Bumble 和其他约会网站的自动刷卡器  
     </details> 
 
-- 🥷 [Easel - 任何想法的小画布](https://xinquji.com/posts/178879?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:28 AM 
+- 🥷 [Formify - 无需代码即可在静态站点上创建、管理和嵌入表单](https://xinquji.com/posts/178892?utm_campaign=xinquji-rss) | Sun Aug 21 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     任何想法的小画布  
+     无需代码即可在静态站点上创建、管理和嵌入表单  
     </details> 
 
-- 💼 [Email Architect - 用于编写、管理和组织电子邮件营销的多合一系统](https://xinquji.com/posts/178878?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:28 AM 
+- 💼 [ProjectionLab - 您一直在等待的个人理财模拟器](https://xinquji.com/posts/178891?utm_campaign=xinquji-rss) | Sun Aug 21 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     用于编写、管理和组织电子邮件营销的多合一系统  
+     您一直在等待的个人理财模拟器  
     </details> 
 
-- 🦅 [Bloom Stock Market Game - 开源股市模拟游戏](https://xinquji.com/posts/178877?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:26 AM 
+- 🦅 [Getpage - 世界上最好的私人搜索引擎](https://xinquji.com/posts/178890?utm_campaign=xinquji-rss) | Sun Aug 21 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     开源股市模拟游戏  
+     世界上最好的私人搜索引擎  
     </details> 
 
-- 😺 [Collab Hub - 与优秀的内容创作者合作，取悦您的客户](https://xinquji.com/posts/178876?utm_campaign=xinquji-rss) | Sat Aug 20 2022 6:26 AM 
+- 😺 [Vocably - 在网上冲浪时扩展您的词汇量](https://xinquji.com/posts/178889?utm_campaign=xinquji-rss) | Sun Aug 21 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     与优秀的内容创作者合作，取悦您的客户  
+     在网上冲浪时扩展您的词汇量  
     </details> 
 <!-- xinquji:END -->
