@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [男子自制蒸汽动力小火车：可载人运行](https://hot.cnbeta.com/articles/funny/1306775.htm) | Sat Aug 20 2022 2:00 PM 
+- 🕯 [云电脑见多了云手机你玩过吗？移动云手机体验](https://www.cnbeta.com/articles/tech/1306783.htm) | Sat Aug 20 2022 4:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在电脑里有着云电脑，那么在手机里有没有云手机呢？答案是肯定的，这就跟着小编来体验一下中国移动推出的“移动云手机”这个可以让你凭空多出一台手机的云端新体验。要体验移动云手机，你先得在手机里安装一个“移动云手机”APP，目前移动云手机处于免费试用阶段，每个用户都可以申请免费试用，每天提供2小时的试用时间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [三星Galaxy Z Fold4首批售罄：尝鲜价13999元](https://www.cnbeta.com/articles/tech/1306781.htm) | Sat Aug 20 2022 4:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;三星将于8月22日举行Galaxy Z Fold4国行版发布会，目前这款新品已在三星官网接受预定。截至今天，&lt;strong&gt;Galaxy Z Fold4首批货在三星官网被抢购一空，&lt;/strong&gt;现在已经进入排队状态，订单将按照支付顺序发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [SpaceX正在大肆招聘 准备把加州发射火箭的数量增加一倍](https://www.cnbeta.com/articles/tech/1306779.htm) | Sat Aug 20 2022 4:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;SpaceX正计划大幅提高其从美国西海岸发射火箭的频率，这一信息来自于SpaceX的猎鹰9号运营经理为该公司在西海岸发射设施招募新员工的广告。&lt;/strong&gt;SpaceX从三个地点发射任务，其中两个在佛罗里达，一个在加利福尼亚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Intel 14代酷睿实现飞跃：核显也有光追](https://www.cnbeta.com/articles/tech/1306777.htm) | Sat Aug 20 2022 4:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;如今，光线追踪已经成为显卡的标配，NVIDIA、AMD、Intel三家的独立显卡都已进入光追时代，AMD更是率先在集显/核显中加入了光追，就是锐龙6000H/U系列的Radeon 680M/660M。Intel也要跟上了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [男子自制蒸汽动力小火车：可载人运行](https://hot.cnbeta.com/articles/funny/1306775.htm) | Sat Aug 20 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月20日消息，近日有网友发布的试驾自制蒸汽小火车的视频引起关注。据了解，&lt;strong&gt;这个蒸汽小火车是来自黑龙江鹤岗的58岁男子房义君，利用2年多时间制作而成。&lt;/strong&gt;房义君表示，他从小看到火车就挺喜欢，蒸汽火车外观上吞云吐雾，铿锵有力，当时他就梦想做一个蒸汽火车。他还称，现在的电动火车做的再好，都是没有灵魂。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1306775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [空战爽片《壮志凌云2》大卖 票房近百亿 剧情被吐槽](https://www.cnbeta.com/articles/tech/1306773.htm) | Sat Aug 20 2022 1:58 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《壮志凌云》没想到时隔36年推出了续集《独行侠》，并且在北美票房大爆，目前已经力压《奇异博士2》《雷神3》等漫威大片，全球票房近百亿。不仅具有令人眼花缭乱的空战场面，全程怀旧的剧情通俗易懂，且超燃超炫！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [约700座冰川或在未来30年内消失 阿尔卑斯冰川体积已缩减60%](https://www.cnbeta.com/articles/tech/1306771.htm) | Sat Aug 20 2022 1:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年夏季，欧洲多国热浪滚滚，持续的高温干旱进一步加速冰川融化，全球变暖对生态环境造成的严重影响愈发凸显，应对气候变化行动已经迫在眉睫。据“瑞士资讯”网日前报道，&lt;span style=&quot;&quot;&gt;自1850年以来阿尔卑斯冰川的体积大约缩减了60%。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [新东方向所有离开老师发出职位邀请](https://www.cnbeta.com/articles/tech/1306769.htm) | Sat Aug 20 2022 12:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，微博话题“新东方向所有离开老师发出职位邀请”冲上热搜榜。有多名网友在社交平台称，&lt;span style=&quot;&quot;&gt;他们收到新东方总公司面向所有离开的老师发出的职位邀请。&lt;/span&gt;新东方招聘页面显示“好久不见，甚是想念，欢迎回家”，开放的岗位包括主播、销售运营经理等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [英特尔13代酷睿阵容曝光 i5都会配备E-Core](https://www.cnbeta.com/articles/tech/1306767.htm) | Sat Aug 20 2022 12:40 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔今年将发布Raptor Lake，也就是第13代酷睿处理器，以接替目前的Alder Lake。Raptor Lake与Alder Lake有着类似的性能核（Performance Core）和能效核（Efficient Core）设计，前者将由Golden Cove架构改为Raptor Cove架构，不过基本没什么区别，而后者则沿用目前的Gracemont架构，两者采用的都是Intel 7工艺。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
