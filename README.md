@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [大数据可视化理论与案例分析｜青训营笔记](https://juejin.cn/post/7133792765082599460) | Sat Aug 20 2022 3:20 AM 
+- 🤗 [文章资源下载小程序的基础配置（以Serverless WordPress为后端）](https://juejin.cn/post/7133805326381350925) | Sat Aug 20 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
-    通过本篇文章，可以帮助读者对数据可视化的概念和原理有一个整体的认知，并且介绍了数据可视化中常见的可视化图表的种类和使用场景。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 引言 WordPress的配置。 小程序资讯相关类目暂不对个人开放，导致大批个体小程序被暂停服务的解决方 
     </details> 
 
-- 🎡 [求解 RMQ 的几种方式 :「递归分治」&amp;「线段树」&amp;「单调栈」](https://juejin.cn/post/7133790853532745741) | Sat Aug 20 2022 3:13 AM 
+- 🎡 [02 - 线性表](https://juejin.cn/post/7133801546151624711) | Sat Aug 20 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 题目描述 这是 LeetCode 上的 654. 最大二叉树 ，难度为 中等。 Tag : 「二叉树」、 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第24天，点击查看活动详情 主要掌握线性表的存储结构，包括顺序存储结构和链式存储结构，他们二者的区别 介绍 线性表在逻辑上属于线性结 
     </details> 
 
-- 🕯 [远端服务器二三事 | 免密登陆 + vscode图形化管理远端服务器](https://juejin.cn/post/7133787358033346567) | Sat Aug 20 2022 2:59 AM 
+- 🕯 [Android 天气APP（十六）热门城市 - 海外城市](https://juejin.cn/post/7133788834835202079) | Sat Aug 20 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 最近写一个 puppeteer 爬虫工具，需要经常【ssh 登陆 - 输入密码 -- 执行 shell - 服务器查看日志】，这个简单的动作在重复了无数遍后变得不可忍受，程序员最大的天敌是无意义 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 前言 反正国内的天气也做好了，不妨做一下做一下国外的天气，国外的天气数据的展示，我将重新设计一套UI，区 
     </details> 
 
-- 🚀 [ModuleNotFoundError: No module named ‘werkzeug.contrib‘ 解决方法](https://juejin.cn/post/7133785987141861383) | Sat Aug 20 2022 2:53 AM 
+- 🚀 [Android登录拦截的场景-基于协程的实现](https://juejin.cn/post/7133751227736653831) | Sat Aug 20 2022 12:40 AM 
     <details><summary>展开描述 ...</summary> 
-    发现当前安装的Werkzeug版本为1.0.1，于是翻阅werkzeug的官方文档 首先发现了这段话： Some modules that already issued deprecation war 
+    关于App实现登录的拦截再执行逻辑，前文我们讲到过线程池的方案，有同学迫不及待的就提问了，线程都可以协程的怎么不行，这不，协程的方案来了。 
     </details> 
 
-- 💪 [Vue 2 阅读理解（十）之 生命周期初始化](https://juejin.cn/post/7133785574062129183) | Sat Aug 20 2022 2:51 AM 
+- 💪 [【Android爬坑日记一】沉浸式状态栏](https://juejin.cn/post/7133619873376108558) | Fri Aug 19 2022 4:10 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 initLifecycle 生命周期初始化 在 new Vue 过程 一节中，讲到 Vue 实例在初始化 
+    很多APP开发都需要沉浸式状态栏，但是小小沉浸式状态栏也有坑，那么沉浸式状态栏是什么呢？其实呀沉浸式状态栏就是沉浸式状态栏，小编也觉得很奇怪，但是事实就是这样。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
