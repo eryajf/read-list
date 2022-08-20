@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉之外，亿纬锂能（EVE）要向宝马供应4680电池了](https://www.cnbeta.com/articles/tech/1306677.htm) | Sat Aug 20 2022 3:35 AM 
+- 🕯 [大众宣布ID Buzz电动汽车订单量已破万](https://www.cnbeta.com/articles/tech/1306681.htm) | Sat Aug 20 2022 4:14 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;经过多年等待，大众终于在 3 月宣布了 ID Buzz 的量产。&lt;strong&gt;作为该品牌经典小巴的最新版本，其在延续家族式设计风格的同时，以更加豪华的电动面包车的形式与大家见面。&lt;/strong&gt;本周，大众透露其已受到超 10000 份订单，意味着这款电动面包车的年内产能几乎已被排满。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [英伟达RTX 30系列清库存 带动AMD RX 6000显卡大调价](https://www.cnbeta.com/articles/tech/1306679.htm) | Sat Aug 20 2022 3:42 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在币价持续走低的情况下，低迷的加密货币挖矿市场让英伟达 GPU 销售也遇冷。为了赶在 RTX 40 系列发布前清掉 Ampere GPU 库存，绿厂甚至亲自下场督导 AIB 合作伙伴调价。&lt;strong&gt;与此同时，红厂这边的 AMD Radeon RX 6000 系列 RDNA 2 显卡，也正努力赶在 RX 7000 系列 RDNA 3 新品上市前出货。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [特斯拉之外，亿纬锂能（EVE）要向宝马供应4680电池了](https://www.cnbeta.com/articles/tech/1306677.htm) | Sat Aug 20 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;向特斯拉供应 4680 电池的中国供应商亿纬锂能（EVE）也要向宝马供应这种电池了。&lt;/strong&gt;在 2020 年，特斯拉引入了全新的 4680（46mm*80mm）的圆柱形电池格式，这当时电动汽车所用电池的体积都要大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《黑神话：悟空》官网新截图 展现蜘蛛精关卡环境](https://hot.cnbeta.com/articles/game/1306675.htm) | Sat Aug 20 2022 3:27 AM 
+- 🚀 [《黑神话：悟空》官网新截图 展现蜘蛛精关卡环境](https://hot.cnbeta.com/articles/game/1306675.htm) | Sat Aug 20 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日（8月20日），ARPG游戏《黑神话：悟空》公布最新过场动画及实机演示，同时《黑神话：悟空》官方网站更新了数张新截图，感兴趣的玩家可以&lt;a href=&quot;https://www.heishenhua.com/&quot; target=&quot;_blank&quot;&gt;点击此处&lt;/a&gt;进入官方页面。官方表示内容行业是个挣扎的行业。因为做内容的人，永远克制不住表达真实的自我。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Neptune Linux 7.5发行版今天正式推出](https://www.cnbeta.com/articles/tech/1306673.htm) | Sat Aug 20 2022 3:25 AM 
+- 🎊 [Neptune Linux 7.5发行版今天正式推出](https://www.cnbeta.com/articles/tech/1306673.htm) | Sat Aug 20 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Neptune Linux 7.5 发行版于今天正式推出。这是 Neptune Linux 7.x 系列的第 2 个重大维护更新，基于 Debian 并搭载 KDE Plasma 桌面环境。Neptune Linux 7.5 代号为“Ada”，基于 Debian 11.4 “Bullseye”系列，并采用了来自 Debian Backports 库的 Linux 5.18.2。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [全球最大的海上风电场即将正式启动](https://www.cnbeta.com/articles/tech/1306671.htm) | Sat Aug 20 2022 3:21 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Electrek报道，&lt;strong&gt;英国的Hornsea Two是世界上最大的单一运行的海上风电场，预计将在8月底前全面投入使用。&lt;/strong&gt;1.32 GW的 Hornsea Two 将取代1.2GW的 Hornsea One，成为世界上最大的运行中的海上风电场。它的面积为462平方公里（178平方英里），它将为130多万个家庭供电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [坑了软银400亿的他又回来了：用WeWork的老把戏再骗你一次](https://www.cnbeta.com/articles/tech/1306669.htm) | Sat Aug 20 2022 3:18 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;如果要列举全球互联网界臭名昭著的“骗子”，Adam Neumann绝对是佼佼者。&lt;/strong&gt;他创办WeWork，把一个二房东生意硬是靠着造概念和玩营销包装成了高科技公司，最高时估值470亿美元，曾是全世界估值最高的独角兽；在最风光时，软银的孙正义、JP摩根的戴蒙都恨不得变成他的粉丝。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
