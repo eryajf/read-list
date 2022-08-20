@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14或有8种配色：全系标配紫色 远峰蓝要没了](https://www.cnbeta.com/articles/tech/1306709.htm) | Sat Aug 20 2022 6:20 AM 
+- 🕯 [约翰·卡马克旗下通用人工智能公司获两千万美元投资](https://www.cnbeta.com/articles/tech/1306733.htm) | Sat Aug 20 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone 14系列就要在下个月发布了，按照传闻会是9月7日登场。临近发布会之际，供应链上传出的消息也越来越多，越来越真，因为有更多的厂商能拿到准确信息了。最近，一家专门为iPhone制作手机同款配色保护壳的厂家透露，&lt;strong&gt;iPhone 14系列将拥有多达8种配色。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;雷神嘉年华即将于本周末启动，而与id Software颇有渊源的一位大神仍然在科技世界中不断探索。约翰·卡马克最新成立的公司名叫Keen Technologies，这是一家专注于通用人工智能的公司。本周五，卡马克介绍称他的公司已经筹得2000万美元资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [红色预警连发9天：7省市最高气温超40℃](https://www.cnbeta.com/articles/tech/1306707.htm) | Sat Aug 20 2022 6:20 AM 
+- 💼 [业绩不佳，收购又遭马斯克放鸽子 推特员工年终奖或砍50%](https://www.cnbeta.com/articles/tech/1306731.htm) | Sat Aug 20 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中央气象台连续9天发高温红色预警，预计今天白天，陕西、四川、重庆、湖北、湖南等地的部分地区最高气温将超40℃。过去一个月，35℃以上高温天气覆盖了我国450万平方公里的面积，杭州、南昌、上海、重庆、长沙等地高温日数超25天。你那里今天多少度？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国社交巨头推特员工的年终奖金可能将被“砍半”。当地时间8月19日，《纽约时报》报道，推特（Twitter）警告员工，因经济低迷带来的不确定性，员工的年终奖金或将减半。推特员工的年终奖金一半基于公司业绩，一半与个人绩效挂钩。从推特最近一个财季表现来看，该公司的业绩令人失望。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《黑道圣徒：重启版》前39分钟实机 8月23日发售](https://hot.cnbeta.com/articles/game/1306705.htm) | Sat Aug 20 2022 6:18 AM 
+- 💂 [漂亮“女网友”的“裸聊”陷阱，让他被骗30万](https://www.cnbeta.com/articles/tech/1306729.htm) | Sat Aug 20 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（8月20日），游戏《黑道圣徒：重启版》前39分钟实机演示公布，《黑道圣徒：重启版》将于8月21日预载，8月23日发售，登陆PS4、PS5、XboxOne、XSX|S和PC&lpar;Epic&rpar;平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;夏季治安打击整治“百日行动”开展以来，青海省西宁市公安局城中公安分局刑事侦查大队针对夏季刑事犯罪特点，从严从快依法打击各类突出犯罪，全心全力守护群众生命财产安全，于近日成功破获青海省首例敲诈勒索“裸聊”案，带破青海省海西州“裸聊”案件1起、山东电信诈骗案件1起，抓获犯罪嫌疑人1名。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [爆料称《堡垒之夜》未来或将与《命运2》联动](https://hot.cnbeta.com/articles/game/1306703.htm) | Sat Aug 20 2022 6:18 AM 
+- 🚀 [SpaceX再次发射一批共计53颗Starlink卫星](https://www.cnbeta.com/articles/science/1306727.htm) | Sat Aug 20 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《堡垒之夜》目前是市场上最大的现场服务游戏之一，在其五年的历史中发展成为娱乐公司展示其角色的平台。最近的《龙珠》联动受到了玩家们的欢迎，听起来更多的可能即将到来。据数据挖掘者称，最快下周可能会有另一场联动出现在游戏中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;SpaceX当地时间周五从佛罗里达州的卡纳维拉尔角空军基地发射了另一批53颗Starlink互联网卫星。一枚猎鹰9号火箭在美国东部时间下午3:21（格林尼治标准时间1921）升空，将Starlink有效载荷送入轨道，可重复使用的第一级助推器平稳降落在大西洋的一艘无人船上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [莱恩·高斯林或将出演电影《十一罗汉》重启版](https://hot.cnbeta.com/articles/movie/1306701.htm) | Sat Aug 20 2022 6:11 AM 
+- 🎊 [英特尔发布30.0.101.3268 Beta测试版Arc图形驱动更新](https://www.cnbeta.com/articles/tech/1306725.htm) | Sat Aug 20 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据《DEADLINE》报道，著名影星莱恩·高斯林正在就与玛格特·罗比一同参演新的《十一罗汉》重启电影与华纳兄弟进行谈判，该片将由四次艾美奖得主杰伊·罗奇执导。该项目是在高斯林和罗比两人在由格蕾塔·葛韦格拍摄的《芭比》电影中后的又一次合作。《芭比》同样也属于华纳兄弟旗下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本周五，英特尔放出了 30.0.101.3268 Beta 测试版 Arc Graphics Windows DHC 驱动程序更新。&lt;/strong&gt;可知其为《黑道圣徒》和《麦登橄榄球 23》游戏支持做好了准备、为《蜘蛛侠》（PC 重制版）带来了优化，并且修复了与 Arc 控制面板有关的一些问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
