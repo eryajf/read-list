@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《新神榜：杨戬》现已上映 影片手绘海报公布](https://hot.cnbeta.com/articles/movie/1306735.htm) | Sat Aug 20 2022 7:16 AM 
+- 🕯 [世嘉MD2主机宣传片 展示最终新增游戏列表](https://www.cnbeta.com/articles/tech/1306739.htm) | Sat Aug 20 2022 9:26 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;世嘉今日分享最新视频，展示迷你MD2的最终版游戏列表。此次新增的游戏有：《Devi &amp;amp; Pii》、《梦幻地带》、《太空哈利2》（+《太空哈利》）、《Spatter》、《Star Mobile》、《超级蒸汽机车》、《VS噗哟噗哟太阳》、《快打旋风》、《战斧2》、《午夜陷阱》、《怒之铁拳3》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《太鼓达人：咚咚雷音祭》发布游戏模式介绍预告](https://hot.cnbeta.com/articles/game/1306737.htm) | Sat Aug 20 2022 9:25 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;万代南梦宫于今日（8月 20 日）发布了《太鼓达人：咚咚雷音祭》的新预告片，介绍了游戏的模式。与爱好玩乐的导游DON-chan 和Kumo-Kyun 一起游览繁华的大神子市，看看《太鼓达人：咚咚雷音祭》如何让玩家根据自己的心跳来打鼓。访问雷神殿，畅玩原版太鼓模式和全新礼宾模式——改进支持，玩家可以在其中掌握最具挑战性的歌曲部分。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [《新神榜：杨戬》现已上映 影片手绘海报公布](https://hot.cnbeta.com/articles/movie/1306735.htm) | Sat Aug 20 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;追光动画《新神榜：杨戬》官方今日公布了由“新神榜”系列艺术总监龟爷绘制了“大开眼界”手绘海报。电影现已在全国各大影院上映。电影讲述的是封神大战一千五百年后，天庭衰落，蒙冤落魄的杨戬以赏银捕手为业谋生。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [约翰·卡马克旗下通用人工智能公司获两千万美元投资](https://www.cnbeta.com/articles/tech/1306733.htm) | Sat Aug 20 2022 7:15 AM 
+- 🚀 [约翰·卡马克旗下通用人工智能公司获两千万美元投资](https://www.cnbeta.com/articles/tech/1306733.htm) | Sat Aug 20 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;雷神嘉年华即将于本周末启动，而与id Software颇有渊源的一位大神仍然在科技世界中不断探索。约翰·卡马克最新成立的公司名叫Keen Technologies，这是一家专注于通用人工智能的公司。本周五，卡马克介绍称他的公司已经筹得2000万美元资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [业绩不佳，收购又遭马斯克放鸽子 推特员工年终奖或砍50%](https://www.cnbeta.com/articles/tech/1306731.htm) | Sat Aug 20 2022 7:15 AM 
+- 🎊 [业绩不佳，收购又遭马斯克放鸽子 推特员工年终奖或砍50%](https://www.cnbeta.com/articles/tech/1306731.htm) | Sat Aug 20 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国社交巨头推特员工的年终奖金可能将被“砍半”。当地时间8月19日，《纽约时报》报道，推特（Twitter）警告员工，因经济低迷带来的不确定性，员工的年终奖金或将减半。推特员工的年终奖金一半基于公司业绩，一半与个人绩效挂钩。从推特最近一个财季表现来看，该公司的业绩令人失望。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [漂亮“女网友”的“裸聊”陷阱，让他被骗30万](https://www.cnbeta.com/articles/tech/1306729.htm) | Sat Aug 20 2022 7:14 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;夏季治安打击整治“百日行动”开展以来，青海省西宁市公安局城中公安分局刑事侦查大队针对夏季刑事犯罪特点，从严从快依法打击各类突出犯罪，全心全力守护群众生命财产安全，于近日成功破获青海省首例敲诈勒索“裸聊”案，带破青海省海西州“裸聊”案件1起、山东电信诈骗案件1起，抓获犯罪嫌疑人1名。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [SpaceX再次发射一批共计53颗Starlink卫星](https://www.cnbeta.com/articles/science/1306727.htm) | Sat Aug 20 2022 7:13 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;SpaceX当地时间周五从佛罗里达州的卡纳维拉尔角空军基地发射了另一批53颗Starlink互联网卫星。一枚猎鹰9号火箭在美国东部时间下午3:21（格林尼治标准时间1921）升空，将Starlink有效载荷送入轨道，可重复使用的第一级助推器平稳降落在大西洋的一艘无人船上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
