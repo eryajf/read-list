@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [日新刷题 - 521. 最长特殊序列 Ⅰ](https://juejin.cn/post/7133817779509018660) | Sat Aug 20 2022 4:58 AM 
+- 🤗 [用JavaScript来开发一个DrawScript，画一个掘金 Logo，还能这么玩？](https://juejin.cn/post/7133827399665319973) | Sat Aug 20 2022 5:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近闲暇之余在教五年级的小玉学习编程，她已经学会了基本的 React，并且模拟了很多网站。现在她似乎已经逐渐对枯燥无味地编程失去了兴趣。为了继续让小玉学下去，我花了一个晚上教了她一些不一样的东西：做 
+    </details> 
+
+- 🎡 [Vue3开发最佳实践和实用技巧（上）](https://juejin.cn/post/7133824197515542541) | Sat Aug 20 2022 5:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是云牧，今天带来的是关于 Vue3 开发中实用的技巧，能加深对 Vue3 Composition API 和响应式 API 的理解。 
+    </details> 
+
+- 🕯 [日新刷题 - 521. 最长特殊序列 Ⅰ](https://juejin.cn/post/7133817779509018660) | Sat Aug 20 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 一、题目描述： 521. 最长特殊序列 Ⅰ - 力扣（LeetCode） &lpar;leetcode-cn.co 
     </details> 
 
-- 🎡 [详解 TS 中的泛型](https://juejin.cn/post/7133810035171262501) | Sat Aug 20 2022 4:26 AM 
+- 🚀 [详解 TS 中的泛型](https://juejin.cn/post/7133810035171262501) | Sat Aug 20 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
     泛型程序设计是一种编程风格或编程范式，它允许在程序中定义形式类型参数，然后在泛型实例化时使用实际类型参数来替换形式类型参数，这一过程有些类似于函数形参在被函数调用时传入的实参替换。 
     </details> 
 
-- 🕯 [文章资源下载小程序的基础配置（以Serverless WordPress为后端）](https://juejin.cn/post/7133805326381350925) | Sat Aug 20 2022 4:08 AM 
+- 💪 [文章资源下载小程序的基础配置（以Serverless WordPress为后端）](https://juejin.cn/post/7133805326381350925) | Sat Aug 20 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 引言 WordPress的配置。 小程序资讯相关类目暂不对个人开放，导致大批个体小程序被暂停服务的解决方 
-    </details> 
-
-- 🚀 [02 - 线性表](https://juejin.cn/post/7133801546151624711) | Sat Aug 20 2022 3:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第24天，点击查看活动详情 主要掌握线性表的存储结构，包括顺序存储结构和链式存储结构，他们二者的区别 介绍 线性表在逻辑上属于线性结 
-    </details> 
-
-- 💪 [Android 天气APP（十六）热门城市 - 海外城市](https://juejin.cn/post/7133788834835202079) | Sat Aug 20 2022 3:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 前言 反正国内的天气也做好了，不妨做一下做一下国外的天气，国外的天气数据的展示，我将重新设计一套UI，区 
     </details> 
 <!-- juejin:END -->
 ### 少数派
