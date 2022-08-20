@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [世嘉MD2主机宣传片 展示最终新增游戏列表](https://www.cnbeta.com/articles/tech/1306739.htm) | Sat Aug 20 2022 9:26 AM 
+- 🕯 [传台积电计划在美国建第二座新厂 拟切入3纳米制程](https://www.cnbeta.com/articles/tech/1306765.htm) | Sat Aug 20 2022 10:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;世嘉今日分享最新视频，展示迷你MD2的最终版游戏列表。此次新增的游戏有：《Devi &amp;amp; Pii》、《梦幻地带》、《太空哈利2》（+《太空哈利》）、《Spatter》、《Star Mobile》、《超级蒸汽机车》、《VS噗哟噗哟太阳》、《快打旋风》、《战斧2》、《午夜陷阱》、《怒之铁拳3》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据钜亨网消息，台积电近期传出将展开评估在美投资兴建第二座晶圆厂，拟切入 3 纳米制程，建厂时程约 2 年后。对此，台积电8月19日表示，不回应市场传闻。此前，台积电美国亚利桑那州 5 纳米新厂，已于7月底上梁，预计一期于2024年量产，第一期月产能2万片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《太鼓达人：咚咚雷音祭》发布游戏模式介绍预告](https://hot.cnbeta.com/articles/game/1306737.htm) | Sat Aug 20 2022 9:25 AM 
+- 💼 [吉利被曝收购图森无人卡车中国业务](https://www.cnbeta.com/articles/tech/1306763.htm) | Sat Aug 20 2022 10:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;万代南梦宫于今日（8月 20 日）发布了《太鼓达人：咚咚雷音祭》的新预告片，介绍了游戏的模式。与爱好玩乐的导游DON-chan 和Kumo-Kyun 一起游览繁华的大神子市，看看《太鼓达人：咚咚雷音祭》如何让玩家根据自己的心跳来打鼓。访问雷神殿，畅玩原版太鼓模式和全新礼宾模式——改进支持，玩家可以在其中掌握最具挑战性的歌曲部分。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;智能车参考从知情人士处独家获悉，吉利控股集团拟收购图森控股亚太地区业务的全部股份，日前已向图森未来美国总部发出收购要约。但收购价格等细节暂未公布。据上述知情人透露，图森控股此前已打算出售其亚太地区业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《新神榜：杨戬》现已上映 影片手绘海报公布](https://hot.cnbeta.com/articles/movie/1306735.htm) | Sat Aug 20 2022 7:16 AM 
+- 💂 [传AI芯片公司地平线计划融资高达2亿美元 考虑香港IPO上市](https://www.cnbeta.com/articles/tech/1306761.htm) | Sat Aug 20 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;追光动画《新神榜：杨戬》官方今日公布了由“新神榜”系列艺术总监龟爷绘制了“大开眼界”手绘海报。电影现已在全国各大影院上映。电影讲述的是封神大战一千五百年后，天庭衰落，蒙冤落魄的杨戬以赏银捕手为业谋生。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据彭博社8月18日援引知情人士消息报道，中国人工智能芯片新创公司Horizon Robotics（地平线）计划融资1亿至2亿美元资金，并考虑在香港首次公开发行（IPO）的时机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [约翰·卡马克旗下通用人工智能公司获两千万美元投资](https://www.cnbeta.com/articles/tech/1306733.htm) | Sat Aug 20 2022 7:15 AM 
+- 🚀 [科尼赛克CC850首发：配5.0升V8发动机 全球动力最强手动挡量产车](https://www.cnbeta.com/articles/tech/1306759.htm) | Sat Aug 20 2022 10:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;雷神嘉年华即将于本周末启动，而与id Software颇有渊源的一位大神仍然在科技世界中不断探索。约翰·卡马克最新成立的公司名叫Keen Technologies，这是一家专注于通用人工智能的公司。本周五，卡马克介绍称他的公司已经筹得2000万美元资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月20日，科尼赛克CC850在圆石滩车展上正式发布。据了解，这款车是为庆祝公司创始人Christian von Koenigsegg 50岁生日而特别打造，&lt;strong&gt;全球限量50台销售&lt;/strong&gt;。该车定位于双门超跑，前脸可以看出其保留了经典设计风格，例如扁平的发动机舱以及轮拱曲线等等，新车大灯采用全新设计，但是依旧可以看到科尼赛克CCR/CCX的影子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [业绩不佳，收购又遭马斯克放鸽子 推特员工年终奖或砍50%](https://www.cnbeta.com/articles/tech/1306731.htm) | Sat Aug 20 2022 7:15 AM 
+- 🎊 [国产车出海重大突破 奇瑞有望在俄罗斯生产汽车](https://www.cnbeta.com/articles/tech/1306757.htm) | Sat Aug 20 2022 10:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国社交巨头推特员工的年终奖金可能将被“砍半”。当地时间8月19日，《纽约时报》报道，推特（Twitter）警告员工，因经济低迷带来的不确定性，员工的年终奖金或将减半。推特员工的年终奖金一半基于公司业绩，一半与个人绩效挂钩。从推特最近一个财季表现来看，该公司的业绩令人失望。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日消息，据俄罗斯国有通讯社塔斯社（TASS）报道，奇瑞俄罗斯分公司负责人Vladimir Shmakov透露，&lt;strong&gt;奇瑞汽车正与俄罗斯制造商就在俄罗斯工厂生产汽车进行谈判&lt;/strong&gt;。Shmakov表示，“我们计划中的首要任务是在俄罗斯实现生产本地化。”Shmakov还透露，&lt;strong&gt;他希望2022年将奇瑞在俄罗斯的销量提高到8万至10万辆左右&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
