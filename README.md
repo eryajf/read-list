@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [文章资源下载小程序的基础配置（以Serverless WordPress为后端）](https://juejin.cn/post/7133805326381350925) | Sat Aug 20 2022 4:08 AM 
+- 🤗 [日新刷题 - 521. 最长特殊序列 Ⅰ](https://juejin.cn/post/7133817779509018660) | Sat Aug 20 2022 4:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第19天，点击查看活动详情 一、题目描述： 521. 最长特殊序列 Ⅰ - 力扣（LeetCode） &lpar;leetcode-cn.co 
+    </details> 
+
+- 🎡 [详解 TS 中的泛型](https://juejin.cn/post/7133810035171262501) | Sat Aug 20 2022 4:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    泛型程序设计是一种编程风格或编程范式，它允许在程序中定义形式类型参数，然后在泛型实例化时使用实际类型参数来替换形式类型参数，这一过程有些类似于函数形参在被函数调用时传入的实参替换。 
+    </details> 
+
+- 🕯 [文章资源下载小程序的基础配置（以Serverless WordPress为后端）](https://juejin.cn/post/7133805326381350925) | Sat Aug 20 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 引言 WordPress的配置。 小程序资讯相关类目暂不对个人开放，导致大批个体小程序被暂停服务的解决方 
     </details> 
 
-- 🎡 [02 - 线性表](https://juejin.cn/post/7133801546151624711) | Sat Aug 20 2022 3:53 AM 
+- 🚀 [02 - 线性表](https://juejin.cn/post/7133801546151624711) | Sat Aug 20 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第24天，点击查看活动详情 主要掌握线性表的存储结构，包括顺序存储结构和链式存储结构，他们二者的区别 介绍 线性表在逻辑上属于线性结 
     </details> 
 
-- 🕯 [Android 天气APP（十六）热门城市 - 海外城市](https://juejin.cn/post/7133788834835202079) | Sat Aug 20 2022 3:05 AM 
+- 💪 [Android 天气APP（十六）热门城市 - 海外城市](https://juejin.cn/post/7133788834835202079) | Sat Aug 20 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 前言 反正国内的天气也做好了，不妨做一下做一下国外的天气，国外的天气数据的展示，我将重新设计一套UI，区 
-    </details> 
-
-- 🚀 [Android登录拦截的场景-基于协程的实现](https://juejin.cn/post/7133751227736653831) | Sat Aug 20 2022 12:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于App实现登录的拦截再执行逻辑，前文我们讲到过线程池的方案，有同学迫不及待的就提问了，线程都可以协程的怎么不行，这不，协程的方案来了。 
-    </details> 
-
-- 💪 [【Android爬坑日记一】沉浸式状态栏](https://juejin.cn/post/7133619873376108558) | Fri Aug 19 2022 4:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    很多APP开发都需要沉浸式状态栏，但是小小沉浸式状态栏也有坑，那么沉浸式状态栏是什么呢？其实呀沉浸式状态栏就是沉浸式状态栏，小编也觉得很奇怪，但是事实就是这样。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
