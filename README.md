@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新研究称咀嚼可能在人类进化中发挥了重要作用](https://www.cnbeta.com/articles/science/1306787.htm) | Sat Aug 20 2022 4:31 PM 
+- 🕯 [Intel独立显卡驱动已成噩梦 一次评测发现43个Bug](https://www.cnbeta.com/articles/tech/1306789.htm) | Sat Aug 20 2022 9:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当初期望有多高，如今失望就有多大。相信这是很多人对于Intel独立显卡的看法。虽然我们仍然高度期望Intel能继续把独立显卡做下去、做好，形成真正的三足鼎立之势，但不得不承认，Intel眼下很头大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [新研究称咀嚼可能在人类进化中发挥了重要作用](https://www.cnbeta.com/articles/science/1306787.htm) | Sat Aug 20 2022 4:31 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;科学家现在认为，咀嚼的进化可能在人类如何随时间进化中发挥了重要作用。&lt;/strong&gt;研究人员在《科学进展》杂志上发表的一项新研究探讨了咀嚼的现状。该研究认为，人类的牙齿、颌骨和肌肉在进化过程中，在咀嚼时使用的能量较少，使其能够在其他地方消耗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [网友晒乐山大佛照片对比照：时隔2年 水位相差10.53米](https://www.cnbeta.com/articles/tech/1306785.htm) | Sat Aug 20 2022 4:25 PM 
+- 💂 [网友晒乐山大佛照片对比照：时隔2年 水位相差10.53米](https://www.cnbeta.com/articles/tech/1306785.htm) | Sat Aug 20 2022 4:25 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;连日来，川渝地区持续高温、降水偏少，旱情形势日趋严峻。有乐山网友晒出了乐山大佛在2020年8月18日、2022年8月18日的对比照，让人感慨万七千。&lt;strong&gt;2年前，洪水自1949年以来首次淹过乐山大佛脚趾，被网友戏称为大佛“洗脚”了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [云电脑见多了云手机你玩过吗？移动云手机体验](https://www.cnbeta.com/articles/tech/1306783.htm) | Sat Aug 20 2022 4:21 PM 
+- 🚀 [云电脑见多了云手机你玩过吗？移动云手机体验](https://www.cnbeta.com/articles/tech/1306783.htm) | Sat Aug 20 2022 4:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在电脑里有着云电脑，那么在手机里有没有云手机呢？答案是肯定的，这就跟着小编来体验一下中国移动推出的“移动云手机”这个可以让你凭空多出一台手机的云端新体验。要体验移动云手机，你先得在手机里安装一个“移动云手机”APP，目前移动云手机处于免费试用阶段，每个用户都可以申请免费试用，每天提供2小时的试用时间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星Galaxy Z Fold4首批售罄：尝鲜价13999元](https://www.cnbeta.com/articles/tech/1306781.htm) | Sat Aug 20 2022 4:18 PM 
+- 🎊 [三星Galaxy Z Fold4首批售罄：尝鲜价13999元](https://www.cnbeta.com/articles/tech/1306781.htm) | Sat Aug 20 2022 4:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;三星将于8月22日举行Galaxy Z Fold4国行版发布会，目前这款新品已在三星官网接受预定。截至今天，&lt;strong&gt;Galaxy Z Fold4首批货在三星官网被抢购一空，&lt;/strong&gt;现在已经进入排队状态，订单将按照支付顺序发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [SpaceX正在大肆招聘 准备把加州发射火箭的数量增加一倍](https://www.cnbeta.com/articles/tech/1306779.htm) | Sat Aug 20 2022 4:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;SpaceX正计划大幅提高其从美国西海岸发射火箭的频率，这一信息来自于SpaceX的猎鹰9号运营经理为该公司在西海岸发射设施招募新员工的广告。&lt;/strong&gt;SpaceX从三个地点发射任务，其中两个在佛罗里达，一个在加利福尼亚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
