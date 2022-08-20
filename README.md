@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [马斯克发推称：特斯拉将放缓FSD Beta 10.69软件更新的推送节奏](https://www.cnbeta.com/articles/tech/1306683.htm) | Sat Aug 20 2022 4:46 AM 
+- 🕯 [iPhone 14或有8种配色：全系标配紫色 远峰蓝要没了](https://www.cnbeta.com/articles/tech/1306709.htm) | Sat Aug 20 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉 CEO 伊隆·马斯克刚刚表示，&lt;strong&gt;由于“诸多重大代码变更”，特斯拉正放缓其下一个“FSD”测试版软件的推出速度。即便如此，周末还是会有大约 1000 名车主能够抢先体验 10.69 版 FSD Beta 。&lt;/strong&gt;据悉，该软件允许特斯拉电动汽车自动驾驶到导航系统里设置的目的地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iPhone 14系列就要在下个月发布了，按照传闻会是9月7日登场。临近发布会之际，供应链上传出的消息也越来越多，越来越真，因为有更多的厂商能拿到准确信息了。最近，一家专门为iPhone制作手机同款配色保护壳的厂家透露，&lt;strong&gt;iPhone 14系列将拥有多达8种配色。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [大众宣布ID Buzz电动汽车订单量已破万](https://www.cnbeta.com/articles/tech/1306681.htm) | Sat Aug 20 2022 4:14 AM 
+- 💼 [红色预警连发9天：7省市最高气温超40℃](https://www.cnbeta.com/articles/tech/1306707.htm) | Sat Aug 20 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;经过多年等待，大众终于在 3 月宣布了 ID Buzz 的量产。&lt;strong&gt;作为该品牌经典小巴的最新版本，其在延续家族式设计风格的同时，以更加豪华的电动面包车的形式与大家见面。&lt;/strong&gt;本周，大众透露其已受到超 10000 份订单，意味着这款电动面包车的年内产能几乎已被排满。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中央气象台连续9天发高温红色预警，预计今天白天，陕西、四川、重庆、湖北、湖南等地的部分地区最高气温将超40℃。过去一个月，35℃以上高温天气覆盖了我国450万平方公里的面积，杭州、南昌、上海、重庆、长沙等地高温日数超25天。你那里今天多少度？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英伟达RTX 30系列清库存 带动AMD RX 6000显卡大调价](https://www.cnbeta.com/articles/tech/1306679.htm) | Sat Aug 20 2022 3:42 AM 
+- 💂 [《黑道圣徒：重启版》前39分钟实机 8月23日发售](https://hot.cnbeta.com/articles/game/1306705.htm) | Sat Aug 20 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在币价持续走低的情况下，低迷的加密货币挖矿市场让英伟达 GPU 销售也遇冷。为了赶在 RTX 40 系列发布前清掉 Ampere GPU 库存，绿厂甚至亲自下场督导 AIB 合作伙伴调价。&lt;strong&gt;与此同时，红厂这边的 AMD Radeon RX 6000 系列 RDNA 2 显卡，也正努力赶在 RX 7000 系列 RDNA 3 新品上市前出货。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（8月20日），游戏《黑道圣徒：重启版》前39分钟实机演示公布，《黑道圣徒：重启版》将于8月21日预载，8月23日发售，登陆PS4、PS5、XboxOne、XSX|S和PC&lpar;Epic&rpar;平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉之外，亿纬锂能（EVE）要向宝马供应4680电池了](https://www.cnbeta.com/articles/tech/1306677.htm) | Sat Aug 20 2022 3:35 AM 
+- 🚀 [爆料称《堡垒之夜》未来或将与《命运2》联动](https://hot.cnbeta.com/articles/game/1306703.htm) | Sat Aug 20 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;向特斯拉供应 4680 电池的中国供应商亿纬锂能（EVE）也要向宝马供应这种电池了。&lt;/strong&gt;在 2020 年，特斯拉引入了全新的 4680（46mm*80mm）的圆柱形电池格式，这当时电动汽车所用电池的体积都要大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《堡垒之夜》目前是市场上最大的现场服务游戏之一，在其五年的历史中发展成为娱乐公司展示其角色的平台。最近的《龙珠》联动受到了玩家们的欢迎，听起来更多的可能即将到来。据数据挖掘者称，最快下周可能会有另一场联动出现在游戏中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《黑神话：悟空》官网新截图 展现蜘蛛精关卡环境](https://hot.cnbeta.com/articles/game/1306675.htm) | Sat Aug 20 2022 3:27 AM 
+- 🎊 [莱恩·高斯林或将出演电影《十一罗汉》重启版](https://hot.cnbeta.com/articles/movie/1306701.htm) | Sat Aug 20 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（8月20日），ARPG游戏《黑神话：悟空》公布最新过场动画及实机演示，同时《黑神话：悟空》官方网站更新了数张新截图，感兴趣的玩家可以&lt;a href=&quot;https://www.heishenhua.com/&quot; target=&quot;_blank&quot;&gt;点击此处&lt;/a&gt;进入官方页面。官方表示内容行业是个挣扎的行业。因为做内容的人，永远克制不住表达真实的自我。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据《DEADLINE》报道，著名影星莱恩·高斯林正在就与玛格特·罗比一同参演新的《十一罗汉》重启电影与华纳兄弟进行谈判，该片将由四次艾美奖得主杰伊·罗奇执导。该项目是在高斯林和罗比两人在由格蕾塔·葛韦格拍摄的《芭比》电影中后的又一次合作。《芭比》同样也属于华纳兄弟旗下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
