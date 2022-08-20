@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [传台积电计划在美国建第二座新厂 拟切入3纳米制程](https://www.cnbeta.com/articles/tech/1306765.htm) | Sat Aug 20 2022 10:48 AM 
+- 🕯 [约700座冰川或在未来30年内消失 阿尔卑斯冰川体积已缩减60%](https://www.cnbeta.com/articles/tech/1306771.htm) | Sat Aug 20 2022 1:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今年夏季，欧洲多国热浪滚滚，持续的高温干旱进一步加速冰川融化，全球变暖对生态环境造成的严重影响愈发凸显，应对气候变化行动已经迫在眉睫。据“瑞士资讯”网日前报道，&lt;span style=&quot;&quot;&gt;自1850年以来阿尔卑斯冰川的体积大约缩减了60%。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [新东方向所有离开老师发出职位邀请](https://www.cnbeta.com/articles/tech/1306769.htm) | Sat Aug 20 2022 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日消息，微博话题“新东方向所有离开老师发出职位邀请”冲上热搜榜。有多名网友在社交平台称，&lt;span style=&quot;&quot;&gt;他们收到新东方总公司面向所有离开的老师发出的职位邀请。&lt;/span&gt;新东方招聘页面显示“好久不见，甚是想念，欢迎回家”，开放的岗位包括主播、销售运营经理等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [英特尔13代酷睿阵容曝光 i5都会配备E-Core](https://www.cnbeta.com/articles/tech/1306767.htm) | Sat Aug 20 2022 12:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;英特尔今年将发布Raptor Lake，也就是第13代酷睿处理器，以接替目前的Alder Lake。Raptor Lake与Alder Lake有着类似的性能核（Performance Core）和能效核（Efficient Core）设计，前者将由Golden Cove架构改为Raptor Cove架构，不过基本没什么区别，而后者则沿用目前的Gracemont架构，两者采用的都是Intel 7工艺。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [传台积电计划在美国建第二座新厂 拟切入3纳米制程](https://www.cnbeta.com/articles/tech/1306765.htm) | Sat Aug 20 2022 10:48 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据钜亨网消息，台积电近期传出将展开评估在美投资兴建第二座晶圆厂，拟切入 3 纳米制程，建厂时程约 2 年后。对此，台积电8月19日表示，不回应市场传闻。此前，台积电美国亚利桑那州 5 纳米新厂，已于7月底上梁，预计一期于2024年量产，第一期月产能2万片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [吉利被曝收购图森无人卡车中国业务](https://www.cnbeta.com/articles/tech/1306763.htm) | Sat Aug 20 2022 10:48 AM 
+- 🎊 [吉利被曝收购图森无人卡车中国业务](https://www.cnbeta.com/articles/tech/1306763.htm) | Sat Aug 20 2022 10:48 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;智能车参考从知情人士处独家获悉，吉利控股集团拟收购图森控股亚太地区业务的全部股份，日前已向图森未来美国总部发出收购要约。但收购价格等细节暂未公布。据上述知情人透露，图森控股此前已打算出售其亚太地区业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [传AI芯片公司地平线计划融资高达2亿美元 考虑香港IPO上市](https://www.cnbeta.com/articles/tech/1306761.htm) | Sat Aug 20 2022 10:46 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据彭博社8月18日援引知情人士消息报道，中国人工智能芯片新创公司Horizon Robotics（地平线）计划融资1亿至2亿美元资金，并考虑在香港首次公开发行（IPO）的时机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [科尼赛克CC850首发：配5.0升V8发动机 全球动力最强手动挡量产车](https://www.cnbeta.com/articles/tech/1306759.htm) | Sat Aug 20 2022 10:44 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月20日，科尼赛克CC850在圆石滩车展上正式发布。据了解，这款车是为庆祝公司创始人Christian von Koenigsegg 50岁生日而特别打造，&lt;strong&gt;全球限量50台销售&lt;/strong&gt;。该车定位于双门超跑，前脸可以看出其保留了经典设计风格，例如扁平的发动机舱以及轮拱曲线等等，新车大灯采用全新设计，但是依旧可以看到科尼赛克CCR/CCX的影子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [国产车出海重大突破 奇瑞有望在俄罗斯生产汽车](https://www.cnbeta.com/articles/tech/1306757.htm) | Sat Aug 20 2022 10:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日消息，据俄罗斯国有通讯社塔斯社（TASS）报道，奇瑞俄罗斯分公司负责人Vladimir Shmakov透露，&lt;strong&gt;奇瑞汽车正与俄罗斯制造商就在俄罗斯工厂生产汽车进行谈判&lt;/strong&gt;。Shmakov表示，“我们计划中的首要任务是在俄罗斯实现生产本地化。”Shmakov还透露，&lt;strong&gt;他希望2022年将奇瑞在俄罗斯的销量提高到8万至10万辆左右&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
