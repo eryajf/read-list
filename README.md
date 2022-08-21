@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [我们确定了第一种能在火星土壤里生长的地球植物](http://jandan.net/p/111187) | Sun Aug 21 2022 5:22 AM 
+- 🚀 [今日好价 0821](http://jandan.net/p/111190) | Sun Aug 21 2022 6:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    今天colt上线了实名吐槽，大家可以顺便抢注自己的ID 
+    </details> 
+
+- 🙉 [我们确定了第一种能在火星土壤里生长的地球植物](http://jandan.net/p/111187) | Sun Aug 21 2022 5:22 AM 
     <details><summary>展开描述 ...</summary> 
     只要给它淡水 
     </details> 
 
-- 🙉 [脑力小体操  暗黑2 赚2000 或 赔15000 的投掷专精野蛮人](http://jandan.net/p/111185) | Sat Aug 20 2022 2:50 PM 
+- 🎉 [脑力小体操  暗黑2 赚2000 或 赔15000 的投掷专精野蛮人](http://jandan.net/p/111185) | Sat Aug 20 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
     之前打出一个+3毒系技能+20高速施展的NEC蓝权冠；一直不敢去找拉苏克打孔，怕打废了 
     </details> 
 
-- 🎉 [一些地狱笑话&lpar;3&rpar;](http://jandan.net/p/111166) | Sat Aug 20 2022 11:53 AM 
+- 🐲 [一些地狱笑话&lpar;3&rpar;](http://jandan.net/p/111166) | Sat Aug 20 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
     周末加班更个新 
     </details> 
 
-- 🐲 [神奇 周围有人播放珍妮杰克逊的《节奏国度》，你的笔记本电脑就可能死机](http://jandan.net/p/111177) | Sat Aug 20 2022 5:41 AM 
+-  [神奇 周围有人播放珍妮杰克逊的《节奏国度》，你的笔记本电脑就可能死机](http://jandan.net/p/111177) | Sat Aug 20 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
     zsbd 
-    </details> 
-
--  [用射电望远镜寻找系外行星 难点和可行性各在哪里？](http://jandan.net/p/111158) | Sat Aug 20 2022 4:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    木星本身不会向往辐射无线电，但它在射电望远镜的镜头里是异常明亮的，为什么？ 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
