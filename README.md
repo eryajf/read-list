@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [因势而变,因时而动,Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang泛型&lpar;generic&rpar;的使用EP15](https://juejin.cn/post/7134286329516883975) | Sun Aug 21 2022 11:15 AM 
+- 🤗 [【写作能力提升】“5种搭建⽂章架构的⽅法”免费赠送!](https://juejin.cn/post/7134314397203169287) | Sun Aug 21 2022 1:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    5种搭建⽂章架构的⽅法! 大家普遍有一个共同的疑惑---如何写作? 其实是一个很难回答的问题。因为问题比较空泛，好比别人问你怎样赚钱一样难回答 
+    </details> 
+
+- 🎡 [ES6语法三之解构化赋值](https://juejin.cn/post/7134309482678452232) | Sun Aug 21 2022 12:45 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 ES6引入了一个新的语法特性：解构。 看个例子，手动赋值 类似地对象赋值这么做 有了用于数组解构和对象解 
+    </details> 
+
+- 🕯 [因势而变,因时而动,Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang泛型&lpar;generic&rpar;的使用EP15](https://juejin.cn/post/7134286329516883975) | Sun Aug 21 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
     事实上，泛型才是Go lang1.18最具特色的所在，但为什么我们一定要拖到后面才去探讨泛型？类比的话，我们可以想象一下给小学一年级的学生讲王勃的千古名篇《滕王阁序》，小学生有多大的概率可以理解作者的 
     </details> 
 
-- 🎡 [前端好还是后端好，看看7年前端和后端怎么说](https://juejin.cn/post/7134283105627537444) | Sun Aug 21 2022 11:03 AM 
+- 🚀 [前端好还是后端好，看看7年前端和后端怎么说](https://juejin.cn/post/7134283105627537444) | Sun Aug 21 2022 11:03 AM 
     <details><summary>展开描述 ...</summary> 
     有朋友在上一期视频评论区问 “选前端好，还是选后端好”。这个问题我自己也挺好奇，如果我当初选了后端，现在是什么样子？ 回答这个问题最好的方式，就是找两个有比较长工作经验的前端和后端，让他们来讲讲各自的 
     </details> 
 
-- 🕯 [手写简单vue3响应式原理](https://juejin.cn/post/7134281691295645732) | Sun Aug 21 2022 11:00 AM 
+- 💪 [手写简单vue3响应式原理](https://juejin.cn/post/7134281691295645732) | Sun Aug 21 2022 11:00 AM 
     <details><summary>展开描述 ...</summary> 
     在之前的文章里小浪介绍过Vue2的响应式原理，评论中有掘友评论想让我介绍Vue3的响应式原理，那么在这篇文章中小浪来带大家来简单手写一下Vue3中的几个响应式api 
-    </details> 
-
-- 🚀 [MongoDB安装和常用命令一](https://juejin.cn/post/7134282169937526797) | Sun Aug 21 2022 10:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 1.写在前面 在日益扩展的数据中，查询的效率会随着数据量的变得，变得越来越慢。 很多时候，业主方又得要求 
-    </details> 
-
-- 💪 [CompletableFuture 异步编排、案例及应用小案例](https://juejin.cn/post/7134276734915969031) | Sun Aug 21 2022 10:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天的话，就来以一个应用场景来进行一步一步的推导，在实现案例的过程中，将CompletableFuture相关的知识点逐步讲述明白。CompletableFuture 异步编排、案例及应用小案例 
     </details> 
 <!-- juejin:END -->
 ### 少数派
