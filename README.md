@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [MySQL EXPLAIN执行计划详解](https://juejin.cn/post/7134277915046313997) | Sun Aug 21 2022 10:43 AM 
+- 🤗 [LeetCode检查单词是否为句中其他单词的前缀使用JavaScript解题|前端学算法](https://juejin.cn/post/7134350957361496100) | Sun Aug 21 2022 3:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    使用JavaScript解决LeetCode算法题检查单词是否为句中其他单词的前缀，前端学算法，三分钟就搞定一个知识点 
+    </details> 
+
+- 🎡 [MySQL EXPLAIN执行计划详解](https://juejin.cn/post/7134277915046313997) | Sun Aug 21 2022 10:43 AM 
     <details><summary>展开描述 ...</summary> 
     详细介绍了MySQL EXPLAIN执行计划的各个字段的含义以及使用方式。详细介绍了MySQL EXPLAIN执行计划的各个字段的含义以及使用方式。 
     </details> 
 
-- 🎡 [深入理解JavaScript-JavaScript 是什么](https://juejin.cn/post/7134277690227916814) | Sun Aug 21 2022 10:41 AM 
+- 🕯 [深入理解JavaScript-JavaScript 是什么](https://juejin.cn/post/7134277690227916814) | Sun Aug 21 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第0天，点击查看活动详情携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第0天，[点击查看活动详情]&lpar;https 
     </details> 
 
-- 🕯 [Spring Cloud Alibaba 本地调试方案](https://juejin.cn/post/7134275501845119013) | Sun Aug 21 2022 10:32 AM 
+- 🚀 [Spring Cloud Alibaba 本地调试方案](https://juejin.cn/post/7134275501845119013) | Sun Aug 21 2022 10:32 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第0天，点击查看活动详情携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第0天，[点击查看活动详情]&lpar;https 
     </details> 
 
-- 🚀 [Linux C 的多文件编译](https://juejin.cn/post/7134274003983826981) | Sun Aug 21 2022 10:28 AM 
+- 💪 [Linux C 的多文件编译](https://juejin.cn/post/7134274003983826981) | Sun Aug 21 2022 10:28 AM 
     <details><summary>展开描述 ...</summary> 
     1、背景 本内容参照Linux c 软件工程师&lpar;C语言&rpar;实用教程 在设计开发大型程序时，如果把已经编写好的函数分别保存下来，以备应用在其他程序里面，可以提高程序的开发效率。 上面是书上说的话，实际程序 
-    </details> 
-
-- 💪 [分布式系统的磁盘均衡策略](https://juejin.cn/post/7134272522383523848) | Sun Aug 21 2022 10:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第0天，点击查看活动详情携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第0天，[点击查看活动详情]&lpar;https 
     </details> 
 <!-- juejin:END -->
 ### 少数派
