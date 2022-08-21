@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [2022年，短视频用户离不开流水线量产的电影解说视频](https://hot.cnbeta.com/articles/movie/1306967.htm) | Sun Aug 21 2022 7:32 PM 
+- 🕯 [新东方启动归巢行动：不是甄选，而是直播间](https://www.cnbeta.com/articles/tech/1306971.htm) | Sun Aug 21 2022 9:10 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在直播界做得风生水起的新东方，这次将招徕人才的目光放在了曾经数目庞大的新东方员工群体上。8月21日，多个社交平台上传来新东方向所有离开新东方的员工发出职位邀请的传闻，开放岗位包括主播、品牌公关、销售运营等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [今夏极端天气频发 或成全球未来常态](https://www.cnbeta.com/articles/tech/1306969.htm) | Sun Aug 21 2022 9:09 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“往回看，今年夏天太热了；往前看，今年夏天可能会是最凉爽的一个夏天。”8月17日，世界气象组织应用气象服务主管罗伯特·斯特凡斯基（Robert Stefanski）在接受新京报记者专访时发出警示，“如果全世界再不采取紧急行动，类似高温干旱洪水等极端气候事件未来可能成为常态。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [2022年，短视频用户离不开流水线量产的电影解说视频](https://hot.cnbeta.com/articles/movie/1306967.htm) | Sun Aug 21 2022 7:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“注意看，这个女人为了逃命，竟然徒手爬上了万米高的悬崖”“这个男人正准备对女人图谋不轨”“男孩随手扔出一根棍子，没想到竟然直接把同伴砸死了”&lt;strong&gt;不管你平时是不是一位重度的短视频APP用户，如今无论是在通勤时乘坐的地铁车厢，还是每天中午吃饭的小餐馆，甚至是用来上班摸鱼的厕所隔间，你都必然能在周围人的手机外放声中，听到大量以类似文案风格作为开头，由同一个年轻男性声音进行配音的电影解说短视频。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [冰川融化，稀有“宝藏”显现？美国亿万富豪组团去“淘金”？](https://www.cnbeta.com/articles/tech/1306965.htm) | Sun Aug 21 2022 7:28 PM 
+- 🚀 [冰川融化，稀有“宝藏”显现？美国亿万富豪组团去“淘金”？](https://www.cnbeta.com/articles/tech/1306965.htm) | Sun Aug 21 2022 7:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;近年来，全球气候变暖，地处北极圈的格陵兰岛冰川加速融化。格陵兰岛不仅吸引着大批想赶紧去看看冷峻冰川、感受极寒天气的游客，而且还受到不少科学家和生意人的追捧，他们对冰川之下的科学和矿产资源更感兴趣。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马斯克接近投资脑机接口芯片初创公司Synchron](https://www.cnbeta.com/articles/tech/1306963.htm) | Sun Aug 21 2022 7:26 PM 
+- 🎊 [马斯克接近投资脑机接口芯片初创公司Synchron](https://www.cnbeta.com/articles/tech/1306963.htm) | Sun Aug 21 2022 7:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;来自纽约的Synchron公司在获得监管机构批准的将大脑直接连接到机器上这一实验操作领先于马斯克的Neuralink公司。&lt;/strong&gt;据四位知情人士透露，埃隆·马斯克（Elon Musk）已就一项潜在投资与脑芯片植入开发商Synchron Inc．接洽，因为他自己的公司Neuralink在将人脑直接连接到机器的竞赛中显然已经落后。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [南方酷热进入最后疯狂 台风生成在即](https://www.cnbeta.com/articles/tech/1306961.htm) | Sun Aug 21 2022 5:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近一个月来，我国南方遭遇罕见的持续高温干旱天气，高温预警已经连续发布32天 ，最高级别的红色高温预警也已经连续发布10天，同期降水则是少得可怜。什么时候是个头呢？快了快了，这场酷热正进入最后的疯狂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [iOS 16已开发完毕 iPadOS 16和macOS Ventura推迟至10月](https://www.cnbeta.com/articles/tech/1306959.htm) | Sun Aug 21 2022 5:24 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;彭博社 Mark Gurman 在 Power On 频道上表示，上周，苹果工程师们已经完了 iOS 16 正式版的开发，这意味着未来的 iOS 16 测试版不会增加新功能或者进行改变，只会修复各种 bug 并优化性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
