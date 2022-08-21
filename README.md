@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Intel独立显卡驱动已成噩梦 一次评测发现43个Bug](https://www.cnbeta.com/articles/tech/1306789.htm) | Sat Aug 20 2022 9:00 PM 
+- 🕯 [SpaceX“龙飞船”离开空间站并将返回地球](https://www.cnbeta.com/articles/tech/1306841.htm) | Sun Aug 21 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当初期望有多高，如今失望就有多大。相信这是很多人对于Intel独立显卡的看法。虽然我们仍然高度期望Intel能继续把独立显卡做下去、做好，形成真正的三足鼎立之势，但不得不承认，Intel眼下很头大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国东部时间8月19日周五上午11:00，地面上的飞行控制人员发出指令，从国际空间站&lpar;ISS&rpar;和谐号舱的前部端口释放未载人的SpaceX“龙飞船”。&lt;/strong&gt;在上午11点5分释放时，ISS在太平洋上空飞行约259英里。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新研究称咀嚼可能在人类进化中发挥了重要作用](https://www.cnbeta.com/articles/science/1306787.htm) | Sat Aug 20 2022 4:31 PM 
+- 💼 [研究发现彩弹枪的危险性比以前想象的要大](https://www.cnbeta.com/articles/tech/1306839.htm) | Sun Aug 21 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;科学家现在认为，咀嚼的进化可能在人类如何随时间进化中发挥了重要作用。&lt;/strong&gt;研究人员在《科学进展》杂志上发表的一项新研究探讨了咀嚼的现状。该研究认为，人类的牙齿、颌骨和肌肉在进化过程中，在咀嚼时使用的能量较少，使其能够在其他地方消耗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;来自芝加哥大学医学院的研究人员检查了两年来用彩弹枪攻击的数据，结果发现被击中眼睛后出现威胁视力的紧急情况的病人比预期的要多，有些人的眼球破裂甚至永久失明。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [网友晒乐山大佛照片对比照：时隔2年 水位相差10.53米](https://www.cnbeta.com/articles/tech/1306785.htm) | Sat Aug 20 2022 4:25 PM 
+- 💂 [美联邦存款保险公司：加密货币交易所FTX的钱未得到承保](https://www.cnbeta.com/articles/tech/1306837.htm) | Sun Aug 21 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;连日来，川渝地区持续高温、降水偏少，旱情形势日趋严峻。有乐山网友晒出了乐山大佛在2020年8月18日、2022年8月18日的对比照，让人感慨万七千。&lt;strong&gt;2年前，洪水自1949年以来首次淹过乐山大佛脚趾，被网友戏称为大佛“洗脚”了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国联邦存款保险公司&lpar;FDIC&rpar;向Sam Bankman-Fried拥有的加密货币交易所FTX下达了停止令，因为该交易所的虚假和误导性陈述表明其资产是由FDIC承保。&lt;/strong&gt;FDIC不涵盖股票或加密货币，只保障在受保银行账户中的资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [云电脑见多了云手机你玩过吗？移动云手机体验](https://www.cnbeta.com/articles/tech/1306783.htm) | Sat Aug 20 2022 4:21 PM 
+- 🚀 [微软前员工披露Windows 8已被尘封的启动声音](https://www.cnbeta.com/articles/tech/1306835.htm) | Sun Aug 21 2022 1:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在电脑里有着云电脑，那么在手机里有没有云手机呢？答案是肯定的，这就跟着小编来体验一下中国移动推出的“移动云手机”这个可以让你凭空多出一台手机的云端新体验。要体验移动云手机，你先得在手机里安装一个“移动云手机”APP，目前移动云手机处于免费试用阶段，每个用户都可以申请免费试用，每天提供2小时的试用时间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然许多用户喜欢关闭Windows的系统声音，但不可否认的是，其中的声音和曲调构成了整个Windows使用体验的一部分。也许没有什么能像启动声音一样唤起人们的感觉。微软可能也对启动声音有同样的感觉，这就是为什么它在Windows 8之后消失后又被带回了Windows 11。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [三星Galaxy Z Fold4首批售罄：尝鲜价13999元](https://www.cnbeta.com/articles/tech/1306781.htm) | Sat Aug 20 2022 4:18 PM 
+- 🎊 [中华幻想风《后宫之乌》动画正式预告 确定10月1日开播](https://hot.cnbeta.com/articles/comic/1306833.htm) | Sun Aug 21 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星将于8月22日举行Galaxy Z Fold4国行版发布会，目前这款新品已在三星官网接受预定。截至今天，&lt;strong&gt;Galaxy Z Fold4首批货在三星官网被抢购一空，&lt;/strong&gt;现在已经进入排队状态，订单将按照支付顺序发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;改编自白川紺子同名小说作品TV动画《后宫之乌》即将于10月1日起正式开播，日前官方公布了首弹正式预告，一起来先睹为快。&lt;/strong&gt;《后宫之乌》是白川紺子原作的小说，以中国古代宫廷为背景，讲述女主角乌妃•柳寿雪一人寂寞的在深宫之内生活，并不与当时的皇帝夏高峻齐享人伦之乐，柳寿雪以使用不可思议的法术、从咒杀到找寻失物都能办到，某天，因为皇上的造访，让事情有了变化•••&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1306833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
