@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [看富士相机拍出的好照片以及拍摄这些照片时的相机参数设置：Fuji X Weekly — Film Recipes](http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-fuji-x-weekly-film-recipes.php) | Thu Aug 18 2022 3:58 AM 
+- 👨‍🏫 [Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码，节省苹果电脑 CPU 资源耗电发热：Not yet, AV1](http://www.mac52ipod.cn/post/apple-mac-chrome-extension-not-yet-av1.php) | Sun Aug 21 2022 6:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	Apple Silicone 芯片的 GPU 对各种视频编码的硬编码和硬解码支持如下表所示，AV1 是唯一不被苹果硬解码支持的视频编码。如果视频网站传来的视频是 AV1 编码，Mac 就只能用 CPU 软解吗，更费电更发热。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6699&quot; border=&quot;0&quot; alt=&quot;Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码&quot; title=&quot;Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码&quot; /&gt;&lt;/p&gt;&lt;p&gt;看到 &lt;u&gt;&lt;a href=&quot;https://twitter.com/imRhythm/status/1545940124004859905&quot; target=&quot;_blank&quot; title=&quot;tweet&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;@imRhythm&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 分享了这个叫 Not yet, AV1 的 Chrome 浏览器扩展，能强制视频网站播放其它编码的视频，让 Mac 用更省电、发热量更小的硬解码方式渲染视频。据我所知唯一的负面影响是 YouTube 8K 超高清视频是必须用 AV1 编码的 …… 无所谓，反正我没有 8K 显示器&lt;/p&gt;&lt;p&gt;Not yet, AV1 扩展下载 &lt;u&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/not-yet-av1/dcmllfkiihingappljlkffafnlhdpbai&quot; target=&quot;_blank&quot; title=&quot;Not yet, AV1 扩展下载&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://chrome.google.com/webstore/detail/not-yet-av1/dcmllfkiihingappljlkffafnlhdpbai&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=chrome&quot; rel=&quot;tag&quot;&gt;chrome&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8&quot; rel=&quot;tag&quot;&gt;浏览器&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%25A7%2586%25E9%25A2%2591&quot; rel=&quot;tag&quot;&gt;视频&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=av1&quot; rel=&quot;tag&quot;&gt;av1&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [看富士相机拍出的好照片以及拍摄这些照片时的相机参数设置：Fuji X Weekly — Film Recipes](http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-fuji-x-weekly-film-recipes.php) | Thu Aug 18 2022 3:58 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Apple新闻之 iPhone 年年焕新最低门槛缩短至 3 个月](http://www.mac52ipod.cn/post/apple-iphone-upgrade-program-updated.php) | Tue Aug 16 2022 4:25 AM 
+- 🦏 [Apple新闻之 iPhone 年年焕新最低门槛缩短至 3 个月](http://www.mac52ipod.cn/post/apple-iphone-upgrade-program-updated.php) | Tue Aug 16 2022 4:25 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [苹果的一个 Bug：MagSafe 充电线让笔记本变成永动机](http://www.mac52ipod.cn/post/apple-mac-magsafe-usb-c-bug.php) | Sun Aug 14 2022 5:46 AM 
+- 🚀 [苹果的一个 Bug：MagSafe 充电线让笔记本变成永动机](http://www.mac52ipod.cn/post/apple-mac-magsafe-usb-c-bug.php) | Sun Aug 14 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster](http://www.mac52ipod.cn/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php) | Wed Aug 10 2022 4:52 PM 
+- 🏊 [Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster](http://www.mac52ipod.cn/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php) | Wed Aug 10 2022 4:52 PM 
     <details><summary>展开描述 ...</summary> 
     
  
 	上网时经常被网站推到&amp;nbsp;&amp;nbsp;reCAPTCHA 图形验证页面，如下图所示。美其名曰为了验证我是个人还是个恶意攻击网站的程序，但实际上很可能是利用我帮 IT 公司们训练图像识别 AI（我就发现 Google 经常给我弹这个 reCAPTCHA 验证）。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6666&quot; border=&quot;0&quot; alt=&quot;我是人类 reCAPTCHA 图形验证码&quot; title=&quot;我是人类 reCAPTCHA 图形验证码&quot; /&gt;&lt;/p&gt;&lt;p&gt;用魔法才能打败魔法，所以用 AI 才能打败 AI。于是有了 Buster 这个浏览器扩展，用 AI 自动识别 reCAPTCHA 的语音验证，让你不用再点击好几次图片才能通过验证了。支持 Chrome、Firefox、Opera 和 Edge 浏览器。&lt;/p&gt;&lt;p&gt;Buster 主页 &lt;u&gt;&lt;a href=&quot;https://github.com/dessant/buster&quot; target=&quot;_blank&quot; title=&quot;Buster&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://github.com/dessant/buster&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=recaptcha&quot; rel=&quot;tag&quot;&gt;recaptcha&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=ai&quot; rel=&quot;tag&quot;&gt;ai&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Apple新闻之 Apple Pay 公交支持刷浙江台州公共交通卡了](http://www.mac52ipod.cn/post/apple-pay-transit-card-support-taizhou.php) | Tue Aug 09 2022 5:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	Apple Pay 公交支持浙江台州公共交通卡了。苹果用户可以在乘坐公交时直接刷手机或手表，Appley Pay 使用的 NFC 方案只需手机往读卡器上一靠，比扫二维码方便得多。&lt;/p&gt;&lt;p&gt;其实，Apple Pay 很久以前就通过互联互通卡支持全国几百个城市的公交卡。但支持本地公交卡有助于用户享受本地公交优惠。而且这次新增的浙江台州公共交通卡也是互联互通卡，到开通一卡通互联的其它 300 多个中国城市也能用。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6705&quot; border=&quot;0&quot; alt=&quot;Apple Pay 公交支持刷浙江台州公共交通卡了&quot; title=&quot;Apple Pay 公交支持刷浙江台州公共交通卡了&quot; /&gt;&lt;/p&gt;&lt;p&gt;iPhone XS、iPhone XS Max、iPhone XR 或更新机型用户，可以将公交卡设为「快捷交通卡」，手机没电自动关机 5 小时内依然可以刷交通卡。所以不用担心「上车后手机没电，没法下车/出站」。注意是自动关机，你长按电源键手动关机就不能刷卡出站了。&lt;/p&gt;&lt;p&gt;更多开卡方式、城市列表、支持设备等信息，看苹果中国官网关于 Apple Pay 公交卡的详细介绍吧 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/apple-pay/transit/&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/apple-pay/transit/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=applepay&quot; rel=&quot;tag&quot;&gt;applepay&lt;/a&gt;
 
  
     </details> 
