@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [软考高级《系统架构设计师》面向服务的架构（SOA） 笔记](https://juejin.cn/post/7134358022108741662) | Sun Aug 21 2022 3:53 PM 
+- 🤗 [【大厂企业级项目架构】之样式方案](https://juejin.cn/post/7134358535877427231) | Sun Aug 21 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 今天是2022/08/21，距离软考还有 77 天。现在依然没有什么把握能通过软考高级《系统架构设计师》。历年来该考试的通过率都非常低。而且不排除后面工作繁忙，频繁加班。 
+    本篇文章主要讲解vue3 + vite的项目中如何接入原子化css方案和windicss的基本使用，给大家提供一个样式方案的选择参考 
     </details> 
 
-- 🎡 [Swift - LeetCode - 各位相加](https://juejin.cn/post/7134355790994866213) | Sun Aug 21 2022 3:45 PM 
+- 🎡 [使用 channel 控制并发数量](https://juejin.cn/post/7134345224511291429) | Sun Aug 21 2022 3:03 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情  题目 给定一个非负整数 num，反复将各个位上的数字相加，直到结果为一位数。返回这个结果。 示例 1： 
+    协程 goroutine 是轻量级线程，调度由 Go 运行时进行管理的。Go 语言的并发控制主要使用关键字 go 开启协程 goroutine。Go 协程（Goroutine）之间通过信道（chann 
     </details> 
 
-- 🕯 [头脑风暴：最大子序和](https://juejin.cn/post/7134354106210058271) | Sun Aug 21 2022 3:37 PM 
+- 🕯 [SpringBoot中幕——配置文件properties与yml](https://juejin.cn/post/7134342391477207077) | Sun Aug 21 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
-    题目 给定一个整数数组 nums ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。 示例： 输入: [-2,1,-3,4,-1,2,1,-5,4] 输出: 6 解释: 连续子 
+    本篇文章将介绍有关SpringBoot的配置文件，SpringBoot的配置文件格式有两种，一种是项目中默认生成的properties文件，另外一种就是yml格式的配置文件... 
     </details> 
 
-- 🚀 [剑指 Offer 63. 股票的最大利润](https://juejin.cn/post/7134350879825592327) | Sun Aug 21 2022 3:25 PM 
+- 🚀 [【LeetCode】143. 重排链表](https://juejin.cn/post/7134337955748904968) | Sun Aug 21 2022 2:36 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 剑指 Offer 63. 股票的最大利润 假设把某股票的价格按照时间先后顺序存储在数组中，请问买卖该股票 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 前言 为了养成创作习惯，从今天起开始刷力扣了，只刷简单和中等难度的题，分类刷，这个月就先刷链表题，简单的 
     </details> 
 
-- 💪 [解析 Golang 测试（9）- 一篇文章搞懂 testify](https://juejin.cn/post/7134345837940834341) | Sun Aug 21 2022 3:06 PM 
+- 💪 [RocketMQ普通消息实战演练](https://juejin.cn/post/7134336877431586830) | Sun Aug 21 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
-    今天我们的主角是【testify】，相信很多 Gophers 都或多或少用过。个人使用体会上来说，testify 几乎是除了官方的标准库，gomock 之外，使用最多的测试工具库了。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 之前研究了RocketMQ的源码，在这里将各种消息发送与消费的demo进行举例，方便以后使用的时候CV。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
