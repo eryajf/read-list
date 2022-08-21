@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我是如何利用 prefetch 来提升 Vite 开发模式下懒加载的性能](https://juejin.cn/post/7134186850637316103) | Sun Aug 21 2022 4:48 AM 
+- 🤗 [python能否支持函数重载的问题](https://juejin.cn/post/7134170939624783909) | Sun Aug 21 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
-    之前在 为什么有人说 vite 快，有人却说 vite 慢 一文中，我们有提到开发模式下使用 Vite会有首屏和懒加载性能下降的负面效果，并且在文章的结尾提到了可以通 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 大家好,我是芒果,一名非科班的在校大学生。对C/C++、数据结构、Linux及MySql、算法等领域感兴 
     </details> 
 
-- 🎡 [leetcode 2363. Merge Similar Items （python）](https://juejin.cn/post/7134149971406192648) | Sun Aug 21 2022 2:26 AM 
+- 🎡 [Android 天气APP（十七）热门城市 - 国内城市](https://juejin.cn/post/7134128290259796004) | Sun Aug 21 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
-    这是Biweekly Contest 84的第一题，难度 Eazy ，主要考查的是使用字典对值进行统计并排序的操作 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 前言 在上一篇做了国外的热门城市数据的展示，这一篇就简单一些，增加国内的热门城市。 效果图 正文 ① 修 
     </details> 
 
-- 🕯 [命名实体识别（NER）标注神器——Label Studio 简单使用](https://juejin.cn/post/7134144507502985229) | Sun Aug 21 2022 2:05 AM 
+- 🕯 [Android登录拦截的常见-基本的Intent的实现](https://juejin.cn/post/7134126903073439775) | Sun Aug 21 2022 12:58 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 ⭐️前面的话⭐️ 简单记录一下，后续补充完善。 参考： https://blog.csdn.net/qq 
+    关于App实现登录的拦截再执行逻辑，我已经出了几篇方案了，有些同学可能会问，你整的一些花里胡哨的有啥用，原生的Intent就能实现这些功能,我都是这么用的。 
     </details> 
 
-- 🚀 [ArrayList源码深度解析](https://juejin.cn/post/7134142019722543111) | Sun Aug 21 2022 1:55 AM 
+- 🚀 [仿IOS 带字母索引的滑轮控件](https://juejin.cn/post/7134106120196456484) | Sat Aug 20 2022 11:36 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 概述 ArrayList是一个顺序的容器，底层实际上是一个数组，可以动态扩容，所以使用起来非常方便，也是 
+    ​​​携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 &gt;&gt; 效果大概就是这样,右边是字母索引效果 ​ 做开发的时候，经常碰到产品经理设计出来的界面是参考 
     </details> 
 
-- 💪 [重试机制让 Go 代码更可靠](https://juejin.cn/post/7133982021562744840) | Sat Aug 20 2022 3:34 PM 
+- 💪 [hardlockup问题处理](https://juejin.cn/post/7133988850203885598) | Sat Aug 20 2022 4:00 PM 
     <details><summary>展开描述 ...</summary> 
-    场景 服务依赖第三方服务或者其他服务，但有时第三方服务偶发性出现问题并且会快速的恢复，而我们的系统可能因为这些偶发性出现问题。所以无法保证以来服务的可靠性，但是我们可以通过其他的方式来保证我们的服务是 
+    panic时候出现：&quot;Watchdog detected hard LOCKUP on cpu &quot; 内核检测到cpu长时间没有产生中断，触发的报错。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
