@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [资深药企人Derek Lowe抨击AlphaFold：靠结构预测做药“纯属自嗨”](https://www.cnbeta.com/articles/tech/1306953.htm) | Sun Aug 21 2022 2:33 PM 
+- 🕯 [南方酷热进入最后疯狂 台风生成在即](https://www.cnbeta.com/articles/tech/1306961.htm) | Sun Aug 21 2022 5:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近一个月来，我国南方遭遇罕见的持续高温干旱天气，高温预警已经连续发布32天 ，最高级别的红色高温预警也已经连续发布10天，同期降水则是少得可怜。什么时候是个头呢？快了快了，这场酷热正进入最后的疯狂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iOS 16已开发完毕 iPadOS 16和macOS Ventura推迟至10月](https://www.cnbeta.com/articles/tech/1306959.htm) | Sun Aug 21 2022 5:24 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;彭博社 Mark Gurman 在 Power On 频道上表示，上周，苹果工程师们已经完了 iOS 16 正式版的开发，这意味着未来的 iOS 16 测试版不会增加新功能或者进行改变，只会修复各种 bug 并优化性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [RTX 40两个月后降临 RTX 30还值得买吗？](https://www.cnbeta.com/articles/tech/1306957.htm) | Sun Aug 21 2022 5:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;每逢产品更新换代，总让人非常纠结：是买新不买旧，还是抄底？在这两点显卡上，这一点尤为突出。之前的“挖矿”风潮让显卡价格居高不下，如今不断走低，很多玩家就犯了难：是等下一代，还是先上车？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Intel流产的第一代10nm重见天日：特殊样品多了一个小芯片](https://www.cnbeta.com/articles/tech/1306955.htm) | Sun Aug 21 2022 5:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;大家或许还记得，Intel 10nm工艺一度长期难产，最终原本规划的第一代10nm Cannon Lake&lpar;九代酷睿&rpar;直接取消，只是在2018年发布了一款存在感极低、核显都没有的&lt;strong&gt;i3-8121U&lt;/strong&gt;，首发用于Crimson Canyon NUC迷你机，后来出现在了一些低功耗廉价笔记本上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [资深药企人Derek Lowe抨击AlphaFold：靠结构预测做药“纯属自嗨”](https://www.cnbeta.com/articles/tech/1306953.htm) | Sun Aug 21 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;DeepMind近日公布了AlphaFold的最新进展：已预测出超过100万个物种的2.14亿个蛋白质结构，几乎涵盖了地球上所有已知蛋白质，再次刷新了我们对它的期待。AlphaFold 2横空出世时的热烈场景重现，再次在国内外的社交媒体上引发热议。但作为“圈内人”的生命科学领域研究者们，对AlphaFold此次公布的成果却褒贬不一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [高温红色预警已连发10天 成都最高气温再创历史新高](https://www.cnbeta.com/articles/tech/1306951.htm) | Sun Aug 21 2022 2:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月21日06时、18时，中央气象台继续发布高温红色预警，这已经是连续第10天了……预计8月22日白天，甘肃东南部、陕西南部、河南大部、山东西南部、安徽、江苏大部、上海、湖北、湖南、江西、浙江、福建、四川中东部、重庆、贵州东部和北部、云南东北部、广东中北部、广西北部等地有35～39℃高温天气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [沿用S22极简设计：Galaxy S23 Ultra变化将是三星史上最小](https://www.cnbeta.com/articles/tech/1306949.htm) | Sun Aug 21 2022 2:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年年初，三星推出了新一代旗舰手机Galaxy S22，其独特的极简风设计广受用户好评。今天，微博博主@ i冰宇宙 发布独家爆料，放出了三星新一代旗舰Galaxy S23 Ultra的尺寸参数，&lt;strong&gt;并表示它会是三星史上变化最小的旗舰。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Intel NUC迷你机膨胀了 13代居然做这么庞大](https://www.cnbeta.com/articles/tech/1306947.htm) | Sun Aug 21 2022 2:24 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;13代酷睿即将发布，基于新平台的NUC迷你机也将用来更新换代，但这次有点不一样。作为NUC家族的旗舰系列，NUC 13 Extreme&lpar;代号Rapter Canyon&rpar;此前已经出现在路线图上，现在第一次看到了它的设计图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [中国高铁今日装船出海 首次出口国外](https://www.cnbeta.com/articles/tech/1306945.htm) | Sun Aug 21 2022 2:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月21日，我国出口印尼用于雅万高铁的&lt;strong&gt;1组高速动车组和1组综合检测列车在青岛港顺利完成装船&lt;/strong&gt;，通过海运发往印尼。这是雅万高铁首批发运列车，标志着我国首次出口国外的高铁列车正式启运。是中国高铁首次全系统、全要素、全产业链在海外落地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
