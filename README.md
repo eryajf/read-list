@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求教 nginx 配置](https://www.v2ex.com/t/874296#reply0) | Sun Aug 21 2022 1:46 AM
-- 🤗 [Windows 資料夾權限設置](https://www.v2ex.com/t/874292#reply11) | Sun Aug 21 2022 1:15 AM
-- 🎭 [如何防止自己的显示设备被入侵](https://www.v2ex.com/t/874290#reply4) | Sun Aug 21 2022 1:12 AM
-- 🥷 [旧 PC 上的 Linux 系统盘直接插在新 PC 上，新 PC 能正常工作吗？](https://www.v2ex.com/t/874266#reply10) | Sat Aug 20 2022 3:48 PM
-- 🐵 [C++ TinyWebServer 项目在云服务器上运行不了](https://www.v2ex.com/t/874261#reply1) | Sat Aug 20 2022 3:20 PM<!-- v2ex:END -->
+- 🥸 [Chrome OS 或为最大赢家](https://www.v2ex.com/t/874317#reply0) | Sun Aug 21 2022 3:40 AM
+- 🤗 [分布式监控平台 WGCLOUD-v3.4.0 新功能 感谢回馈](https://www.v2ex.com/t/874305#reply0) | Sun Aug 21 2022 2:55 AM
+- 🎭 [android 相册开发问题](https://www.v2ex.com/t/874303#reply3) | Sun Aug 21 2022 2:43 AM
+- 🥷 [求教 nginx 配置](https://www.v2ex.com/t/874296#reply2) | Sun Aug 21 2022 1:46 AM
+- 🐵 [Windows 資料夾權限設置](https://www.v2ex.com/t/874292#reply15) | Sun Aug 21 2022 1:15 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
