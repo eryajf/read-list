@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Auto Swiper - Tinder、Bumble 和其他约会网站的自动刷卡器](https://xinquji.com/posts/178893?utm_campaign=xinquji-rss) | Sun Aug 21 2022 6:16 AM 
+- 👀 [College OS - 在 Notion 中捕获和管理您的课程](https://xinquji.com/posts/178904?utm_campaign=xinquji-rss) | Mon Aug 22 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     Tinder、Bumble 和其他约会网站的自动刷卡器  
+     在 Notion 中捕获和管理您的课程  
     </details> 
 
-- 🥷 [Formify - 无需代码即可在静态站点上创建、管理和嵌入表单](https://xinquji.com/posts/178892?utm_campaign=xinquji-rss) | Sun Aug 21 2022 6:14 AM 
+- 🥷 [Styletyx - 智能购物助手](https://xinquji.com/posts/178903?utm_campaign=xinquji-rss) | Mon Aug 22 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     无需代码即可在静态站点上创建、管理和嵌入表单  
+     智能购物助手  
     </details> 
 
-- 💼 [ProjectionLab - 您一直在等待的个人理财模拟器](https://xinquji.com/posts/178891?utm_campaign=xinquji-rss) | Sun Aug 21 2022 6:14 AM 
+- 💼 [HireSure.ai - 为印度制定基准和沟通补偿铺平道路](https://xinquji.com/posts/178902?utm_campaign=xinquji-rss) | Mon Aug 22 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     您一直在等待的个人理财模拟器  
+     为印度制定基准和沟通补偿铺平道路  
     </details> 
 
-- 🦅 [Getpage - 世界上最好的私人搜索引擎](https://xinquji.com/posts/178890?utm_campaign=xinquji-rss) | Sun Aug 21 2022 6:12 AM 
+- 🦅 [Stylesöm - 创建一个时尚和旅游网站并交易您的旧服装](https://xinquji.com/posts/178901?utm_campaign=xinquji-rss) | Mon Aug 22 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     世界上最好的私人搜索引擎  
+     创建一个时尚和旅游网站并交易您的旧服装  
     </details> 
 
-- 😺 [Vocably - 在网上冲浪时扩展您的词汇量](https://xinquji.com/posts/178889?utm_campaign=xinquji-rss) | Sun Aug 21 2022 6:11 AM 
+- 😺 [Area - 房地产经纪人分享房源的现代方式](https://xinquji.com/posts/178900?utm_campaign=xinquji-rss) | Mon Aug 22 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     在网上冲浪时扩展您的词汇量  
+     房地产经纪人分享房源的现代方式  
     </details> 
 <!-- xinquji:END -->
