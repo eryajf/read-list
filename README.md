@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【写作能力提升】“5种搭建⽂章架构的⽅法”免费赠送!](https://juejin.cn/post/7134314397203169287) | Sun Aug 21 2022 1:04 PM 
+- 🤗 [我开源了一个Go学习仓库｜笔记预览](https://juejin.cn/post/7134337893392187423) | Sun Aug 21 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
-    5种搭建⽂章架构的⽅法! 大家普遍有一个共同的疑惑---如何写作? 其实是一个很难回答的问题。因为问题比较空泛，好比别人问你怎样赚钱一样难回答 
+    《The Go Programing Language》，这是我接触Go以来第一次阅读英文书籍。并且希望将学习的笔记其整理成册。思前想后我决定开设一个Go语言学习的仓库，在其中更新我整理的内容。 
     </details> 
 
-- 🎡 [ES6语法三之解构化赋值](https://juejin.cn/post/7134309482678452232) | Sun Aug 21 2022 12:45 PM 
+- 🎡 [记一次生产环境死锁问题分析](https://juejin.cn/post/7134337623182540831) | Sun Aug 21 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 ES6引入了一个新的语法特性：解构。 看个例子，手动赋值 类似地对象赋值这么做 有了用于数组解构和对象解 
+    记一次生产环境死锁问题分析 一、问题背景 最近在做的项目中生产环境频繁出现数据库死锁的问题，解决一个，又来一个，最后数据库不死锁了，多了个请求文件服务器永久阻塞的问题，也是折腾了许久才解决掉 
     </details> 
 
-- 🕯 [因势而变,因时而动,Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang泛型&lpar;generic&rpar;的使用EP15](https://juejin.cn/post/7134286329516883975) | Sun Aug 21 2022 11:15 AM 
+- 🕯 [502/504 状态码有什么区别](https://juejin.cn/post/7134337659589607438) | Sun Aug 21 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-    事实上，泛型才是Go lang1.18最具特色的所在，但为什么我们一定要拖到后面才去探讨泛型？类比的话，我们可以想象一下给小学一年级的学生讲王勃的千古名篇《滕王阁序》，小学生有多大的概率可以理解作者的 
+    众所周知，50x 都是服务器异常问题。 500: Internal Server Error 502: Bad Gateway 503: Service Unavailable 504: Gatewa 
     </details> 
 
-- 🚀 [前端好还是后端好，看看7年前端和后端怎么说](https://juejin.cn/post/7134283105627537444) | Sun Aug 21 2022 11:03 AM 
+- 🚀 [pycharm code with me 更详尽使用](https://juejin.cn/post/7134334308411506695) | Sun Aug 21 2022 2:21 PM 
     <details><summary>展开描述 ...</summary> 
-    有朋友在上一期视频评论区问 “选前端好，还是选后端好”。这个问题我自己也挺好奇，如果我当初选了后端，现在是什么样子？ 回答这个问题最好的方式，就是找两个有比较长工作经验的前端和后端，让他们来讲讲各自的 
+    前置条件 主机必需：IntelliJ IDEA 2020.2.1及更高版本，已下载并启用Code With Me插件 访客必需：无需下载IDEA，只需要下载一个code with me程序（600kb 
     </details> 
 
-- 💪 [手写简单vue3响应式原理](https://juejin.cn/post/7134281691295645732) | Sun Aug 21 2022 11:00 AM 
+- 💪 [etcd Lease：etcd 如何实现租约？](https://juejin.cn/post/7134333726112088078) | Sun Aug 21 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
-    在之前的文章里小浪介绍过Vue2的响应式原理，评论中有掘友评论想让我介绍Vue3的响应式原理，那么在这篇文章中小浪来带大家来简单手写一下Vue3中的几个响应式api 
+    你好，我是 aoho，今天我和你分享的主题是 etcd Lease：etcd 如何实现租约？ 上一篇文章我们介绍了 etcd Watch 实现的机制，今天我们继续分析 etcd 的另一个重要特性：Le 
     </details> 
 <!-- juejin:END -->
 ### 少数派
