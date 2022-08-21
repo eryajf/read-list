@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [伙计，Go项目怎么使用枚举？](https://juejin.cn/post/7134265331597443080) | Sun Aug 21 2022 9:53 AM 
+- 🤗 [CompletableFuture 异步编排、案例及应用小案例](https://juejin.cn/post/7134276734915969031) | Sun Aug 21 2022 10:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    今天的话，就来以一个应用场景来进行一步一步的推导，在实现案例的过程中，将CompletableFuture相关的知识点逐步讲述明白。CompletableFuture 异步编排、案例及应用小案例 
+    </details> 
+
+- 🎡 [基于Proxy从0到1实现响应式数据](https://juejin.cn/post/7134274995051560997) | Sun Aug 21 2022 10:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    基于Proxy从0到1实现响应式数据，读完本文你会收获： 1. 什么是响应式数据 2. 响应式数据的实现原理 3. 在通过Proxy实现响应式数据时，Proxy中的`get`和`set`都做了什么。 
+    </details> 
+
+- 🕯 [Go 编程 | 连载 14 - 指针 Pointer](https://juejin.cn/post/7134267437796573220) | Sun Aug 21 2022 10:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、指针 指针的概念以及定义 一个变量交换的例子 交换两个变量的值在排序过程中是一个高频操作，交换变量值最直接的方式就是通过一个临时变量来实现交换，在 Go 中可以这么来实现： 执行上述代码，输出结果 
+    </details> 
+
+- 🚀 [JS WeakMap 什么时候用？](https://juejin.cn/post/7134266701754925064) | Sun Aug 21 2022 9:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 减轻阅读负担，启发创作心智，轻松学习 JavaScript 技巧，日拱一卒，jym，冲~ map 大家都 
+    </details> 
+
+- 💪 [伙计，Go项目怎么使用枚举？](https://juejin.cn/post/7134265331597443080) | Sun Aug 21 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
     枚举是一种很重要的数据类型，在`java`、`C`语言等主流编程语言中都支持了枚举类型，但是在Go语言中却没有枚举类型，那有什么替代方案吗？ 本文我们来聊一聊这个事情 
-    </details> 
-
-- 🎡 [六六力扣刷题链表之分隔链表](https://juejin.cn/post/7134264735989497886) | Sun Aug 21 2022 9:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两台晒网，刷几天，然后 
-    </details> 
-
-- 🕯 [几个提升Go语言开发效率的小技巧](https://juejin.cn/post/7134263733261451278) | Sun Aug 21 2022 9:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    每门语言都有自己的语法糖，像`java`的语法糖就有方法变长参数、拆箱与装箱、枚举、`for-each`等等，`Go`语言也不例外，其也有自己的语法糖，掌握这些语法糖可以助我们提高开发的效率。 
-    </details> 
-
-- 🚀 [超全总结：Go语言如何操作文件](https://juejin.cn/post/7134261886983831582) | Sun Aug 21 2022 9:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们都知道在`Unix`中万物都被称为文件，文件处理是一个非常常见的问题，所以本文就总结了`Go`语言操作文件的常见方式，整体思路如下； 
-    </details> 
-
-- 💪 [面试官：哥们Go语言的读写锁了解多少？](https://juejin.cn/post/7134257548504334349) | Sun Aug 21 2022 9:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    互斥锁可以保证多线程在访问同一片内存时不会出现竞争来保证并发安全，因为互斥锁锁定代码临界区，所以当并发量较高的场景下会加剧锁竞争，执行效率就会越来越差；因此就引申出更细粒度的锁：读写锁； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
