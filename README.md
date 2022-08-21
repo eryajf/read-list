@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CompletableFuture 异步编排、案例及应用小案例](https://juejin.cn/post/7134276734915969031) | Sun Aug 21 2022 10:38 AM 
+- 🤗 [因势而变,因时而动,Go lang1.18入门精炼教程，由白丁入鸿儒，Go lang泛型&lpar;generic&rpar;的使用EP15](https://juejin.cn/post/7134286329516883975) | Sun Aug 21 2022 11:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    事实上，泛型才是Go lang1.18最具特色的所在，但为什么我们一定要拖到后面才去探讨泛型？类比的话，我们可以想象一下给小学一年级的学生讲王勃的千古名篇《滕王阁序》，小学生有多大的概率可以理解作者的 
+    </details> 
+
+- 🎡 [前端好还是后端好，看看7年前端和后端怎么说](https://juejin.cn/post/7134283105627537444) | Sun Aug 21 2022 11:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    有朋友在上一期视频评论区问 “选前端好，还是选后端好”。这个问题我自己也挺好奇，如果我当初选了后端，现在是什么样子？ 回答这个问题最好的方式，就是找两个有比较长工作经验的前端和后端，让他们来讲讲各自的 
+    </details> 
+
+- 🕯 [手写简单vue3响应式原理](https://juejin.cn/post/7134281691295645732) | Sun Aug 21 2022 11:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    在之前的文章里小浪介绍过Vue2的响应式原理，评论中有掘友评论想让我介绍Vue3的响应式原理，那么在这篇文章中小浪来带大家来简单手写一下Vue3中的几个响应式api 
+    </details> 
+
+- 🚀 [MongoDB安装和常用命令一](https://juejin.cn/post/7134282169937526797) | Sun Aug 21 2022 10:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 1.写在前面 在日益扩展的数据中，查询的效率会随着数据量的变得，变得越来越慢。 很多时候，业主方又得要求 
+    </details> 
+
+- 💪 [CompletableFuture 异步编排、案例及应用小案例](https://juejin.cn/post/7134276734915969031) | Sun Aug 21 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
     今天的话，就来以一个应用场景来进行一步一步的推导，在实现案例的过程中，将CompletableFuture相关的知识点逐步讲述明白。CompletableFuture 异步编排、案例及应用小案例 
-    </details> 
-
-- 🎡 [基于Proxy从0到1实现响应式数据](https://juejin.cn/post/7134274995051560997) | Sun Aug 21 2022 10:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    基于Proxy从0到1实现响应式数据，读完本文你会收获： 1. 什么是响应式数据 2. 响应式数据的实现原理 3. 在通过Proxy实现响应式数据时，Proxy中的`get`和`set`都做了什么。 
-    </details> 
-
-- 🕯 [Go 编程 | 连载 14 - 指针 Pointer](https://juejin.cn/post/7134267437796573220) | Sun Aug 21 2022 10:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、指针 指针的概念以及定义 一个变量交换的例子 交换两个变量的值在排序过程中是一个高频操作，交换变量值最直接的方式就是通过一个临时变量来实现交换，在 Go 中可以这么来实现： 执行上述代码，输出结果 
-    </details> 
-
-- 🚀 [JS WeakMap 什么时候用？](https://juejin.cn/post/7134266701754925064) | Sun Aug 21 2022 9:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 减轻阅读负担，启发创作心智，轻松学习 JavaScript 技巧，日拱一卒，jym，冲~ map 大家都 
-    </details> 
-
-- 💪 [伙计，Go项目怎么使用枚举？](https://juejin.cn/post/7134265331597443080) | Sun Aug 21 2022 9:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    枚举是一种很重要的数据类型，在`java`、`C`语言等主流编程语言中都支持了枚举类型，但是在Go语言中却没有枚举类型，那有什么替代方案吗？ 本文我们来聊一聊这个事情 
     </details> 
 <!-- juejin:END -->
 ### 少数派
