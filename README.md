@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [Paper2GUI - 开源免费的“AI 黑科技”工具箱！十几款上手即用的人工智能软件合集](https://www.iplaysoft.com/paper2gui.html) | Fri Aug 12 2022 4:15 PM
-- 🧑‍🏫 [Windows 12.1 最新概念演示视频 - UI 界面设计视觉效果惊艳](https://www.iplaysoft.com/news/5752) | Thu Aug 11 2022 12:36 PM
-- 🥰 [Parallels Desktop 18 最新版下载 - Mac 系统最强虚拟机 &lpar;支持M1/Win11/macOS Ventura&rpar;](https://www.iplaysoft.com/parallels-desktop.html) | Tue Aug 09 2022 12:00 PM
-- 💻 [Rufus 中文绿色版 - 简单快速制作 USB 启动盘软件 &lpar;U盘安装 Windows / Linux 系统&rpar;](https://www.iplaysoft.com/rufus.html) | Fri Aug 05 2022 5:15 PM
-- 🎃 [MenubarX Pro - 创意实用的 Mac 菜单栏迷你小窗浏览器 &lpar; “摸鱼+效率”工具&rpar;](https://www.iplaysoft.com/menubarx.html) | Tue Aug 02 2022 6:14 PM<!-- iplaysoft:END -->
+- 🧐 [微软免费极品小工具集 Sysinternals Suite - 70 多款实用绿色 Windows 系统维护软件](https://www.iplaysoft.com/windows-sysinternals-suite.html) | Sat Aug 20 2022 4:11 PM
+- 🧑‍🏫 [买1得12会员！喜马拉雅+腾讯视频+京东Plus+网易云音乐+芒果TV](https://www.iplaysoft.com/p/xmly-vip) | Fri Aug 19 2022 3:04 AM
+- 🥰 [iSlide 插件 &lpar;PPT 增强神器&rpar; 买两年送 180 天！每月不到 6 块钱](https://www.iplaysoft.com/news/5670) | Tue Aug 16 2022 4:30 PM
+- 💻 [思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 &lpar;替代 Notion 印象笔记 / 可离线&rpar;](https://www.iplaysoft.com/siyuan.html) | Tue Aug 16 2022 10:07 AM
+- 🎃 [Paper2GUI - 开源免费的“AI 黑科技”工具箱！十几款上手即用的人工智能软件合集](https://www.iplaysoft.com/paper2gui.html) | Fri Aug 12 2022 4:15 PM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
