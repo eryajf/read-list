@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[GitHub] 介绍一个分析 GitHub 仓库的项目](https://www.v2ex.com/t/874402#reply2) | Sun Aug 21 2022 2:48 PM
-- 🤗 [cache 中 写缓冲器不满的情况分析？](https://www.v2ex.com/t/874396#reply0) | Sun Aug 21 2022 2:08 PM
-- 🎭 [求助 Excel 问题](https://www.v2ex.com/t/874386#reply6) | Sun Aug 21 2022 12:21 PM
-- 🥷 [三个线程交替打印 ABC100 次问题思考](https://www.v2ex.com/t/874385#reply0) | Sun Aug 21 2022 12:20 PM
-- 🐵 [oppo watch3 pro 挺好用的](https://www.v2ex.com/t/874383#reply2) | Sun Aug 21 2022 12:08 PM<!-- v2ex:END -->
+- 🥸 [Windows 下有什么优雅使用 DoQ 的方法吗](https://www.v2ex.com/t/874415#reply1) | Sun Aug 21 2022 3:50 PM
+- 🤗 [jellyfin android app 不如 chrome web app 好用](https://www.v2ex.com/t/874414#reply1) | Sun Aug 21 2022 3:47 PM
+- 🎭 [Android12 不更了吗](https://www.v2ex.com/t/874410#reply1) | Sun Aug 21 2022 3:23 PM
+- 🥷 [[GitHub] 介绍一个分析 GitHub 仓库的项目](https://www.v2ex.com/t/874402#reply2) | Sun Aug 21 2022 2:48 PM
+- 🐵 [cache 中 写缓冲器不满的情况分析？](https://www.v2ex.com/t/874396#reply2) | Sun Aug 21 2022 2:08 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
