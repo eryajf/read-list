@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求 PHP 、js 通用 url 加密](https://www.v2ex.com/t/874324#reply2) | Sun Aug 21 2022 4:21 AM
-- 🤗 [Chrome OS 或为最大赢家](https://www.v2ex.com/t/874317#reply5) | Sun Aug 21 2022 3:40 AM
-- 🎭 [分布式监控平台 WGCLOUD-v3.4.0 新功能 感谢回馈](https://www.v2ex.com/t/874305#reply0) | Sun Aug 21 2022 2:55 AM
-- 🥷 [android 相册开发问题](https://www.v2ex.com/t/874303#reply3) | Sun Aug 21 2022 2:43 AM
-- 🐵 [求教 nginx 配置](https://www.v2ex.com/t/874296#reply5) | Sun Aug 21 2022 1:46 AM<!-- v2ex:END -->
+- 🥸 [关于 ESXI 下想把群晖 6.1 升级到 7.1 的问题。](https://www.v2ex.com/t/874332#reply2) | Sun Aug 21 2022 4:54 AM
+- 🤗 [请教 netty 加路由有啥比较好的实践吗](https://www.v2ex.com/t/874329#reply2) | Sun Aug 21 2022 4:36 AM
+- 🎭 [求 PHP 、js 通用 url 加密](https://www.v2ex.com/t/874324#reply5) | Sun Aug 21 2022 4:21 AM
+- 🥷 [Chrome OS 或为最大赢家](https://www.v2ex.com/t/874317#reply9) | Sun Aug 21 2022 3:40 AM
+- 🐵 [分布式监控平台 WGCLOUD-v3.4.0 新功能 感谢回馈](https://www.v2ex.com/t/874305#reply0) | Sun Aug 21 2022 2:55 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
