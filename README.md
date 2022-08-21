@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [助力创作成长，创作者训练营第六期正式开启](https://juejin.cn/post/7134166674160222221) | Sun Aug 21 2022 3:33 AM 
+- 🤗 [我是如何利用 prefetch 来提升 Vite 开发模式下懒加载的性能](https://juejin.cn/post/7134186850637316103) | Sun Aug 21 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
-    创作者训练营第六期终于和大家见面啦！ 工欲善其事必先利其器，你是否对掘金的创作工具了如指掌呢？你是否了解创作等级和权益是如何对应的？掘金APP包含哪些与创作相关的功能？如何才能提升写作技巧？ 
+    之前在 为什么有人说 vite 快，有人却说 vite 慢 一文中，我们有提到开发模式下使用 Vite会有首屏和懒加载性能下降的负面效果，并且在文章的结尾提到了可以通 
     </details> 
 
-- 🎡 [FastJson时间格式化问题-踩坑集锦 26（一周一更）](https://juejin.cn/post/7134165315386081294) | Sun Aug 21 2022 3:25 AM 
+- 🎡 [leetcode 2363. Merge Similar Items （python）](https://juejin.cn/post/7134149971406192648) | Sun Aug 21 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第3天，点击查看活动详情 问题背景 某一天，我们系统服务的依赖方找到我们，问我们为什么时间类型的字段会有这种数据存在？导致他们解析的 
+    这是Biweekly Contest 84的第一题，难度 Eazy ，主要考查的是使用字典对值进行统计并排序的操作 
     </details> 
 
-- 🕯 [ES6 Generator 函数](https://juejin.cn/post/7134165048653512718) | Sun Aug 21 2022 3:25 AM 
+- 🕯 [命名实体识别（NER）标注神器——Label Studio 简单使用](https://juejin.cn/post/7134144507502985229) | Sun Aug 21 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-    Generator 函数 Generator 函数是 ES6 提供的一种异步编程解决方案，语法行为与传统函数完全不同。本章详细介绍 Generator 函数的语法和 API Generator 函数有 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第10天，点击查看活动详情 ⭐️前面的话⭐️ 简单记录一下，后续补充完善。 参考： https://blog.csdn.net/qq 
     </details> 
 
-- 🚀 [iOS小技能：base64字符串和图片的互转](https://juejin.cn/post/7134155118181613604) | Sun Aug 21 2022 2:45 AM 
+- 🚀 [ArrayList源码深度解析](https://juejin.cn/post/7134142019722543111) | Sun Aug 21 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 背景： initQRCodeForInputByteSize cannot find proper rs block info &lpar;input data too big?&rpar; 之前的同事 误认为二维 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 概述 ArrayList是一个顺序的容器，底层实际上是一个数组，可以动态扩容，所以使用起来非常方便，也是 
     </details> 
 
-- 💪 [Spring5源码6-xxxAware接口回调源码分析](https://juejin.cn/post/7134151216912662541) | Sun Aug 21 2022 2:31 AM 
+- 💪 [重试机制让 Go 代码更可靠](https://juejin.cn/post/7133982021562744840) | Sat Aug 20 2022 3:34 PM 
     <details><summary>展开描述 ...</summary> 
-    Spring提供了一种机制，让bean在实例化的时候，能够感知（获取）容器中的一些组件，即Aware接口回调的方式。 
+    场景 服务依赖第三方服务或者其他服务，但有时第三方服务偶发性出现问题并且会快速的恢复，而我们的系统可能因为这些偶发性出现问题。所以无法保证以来服务的可靠性，但是我们可以通过其他的方式来保证我们的服务是 
     </details> 
 <!-- juejin:END -->
 ### 少数派
