@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [哥伦比亚工程师开发出学会了了解自己而非周围环境的一个机器人](https://www.cnbeta.com/articles/science/1306875.htm) | Sun Aug 21 2022 3:41 AM 
+- 🕯 [索尼谈《死亡搁浅》投奔微软通行证：并未参与此事](https://hot.cnbeta.com/articles/game/1306879.htm) | Sun Aug 21 2022 4:03 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《死亡搁浅》即将登陆微软PC Game Pass服务，有看热闹不嫌事大的媒体向索尼询问此事的具体细节。索尼今日对此发表回应称，“《死亡搁浅》PC版发行事宜由小岛工作室和505 Games全权负责”，而“SIE并未参与此次推广活动”。虽然505 Games拥有《死亡搁浅》的PC版发行权，但这个IP的拥有者其实是索尼，而不是小岛工作室和505。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果被指在iPadOS 16中的Stage Manager采取了“根本性误导”做法](https://www.cnbeta.com/articles/tech/1306877.htm) | Sun Aug 21 2022 3:54 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;iPadOS 16测试版中的Stage Manager正在受到严厉批评，因为它在为iPad体验带来新的多任务处理水平方面存在根本性的误导问题，一些人甚至呼吁苹果因其缺点而完全推迟该功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [哥伦比亚工程师开发出学会了了解自己而非周围环境的一个机器人](https://www.cnbeta.com/articles/science/1306875.htm) | Sun Aug 21 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;我们对自己身体的认知并不总是正确或现实的，任何运动员或追求时尚的人都知道，但这是我们在社会中的行为方式的一个关键因素。在你打球或穿衣服时，你的大脑不断为运动做准备以便你能在不碰撞、不绊倒、不摔倒的情况下移动身体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新研究发现牙龈疾病跟阿尔茨海默病之间的惊人联系](https://www.cnbeta.com/articles/science/1306873.htm) | Sun Aug 21 2022 3:22 AM 
+- 🚀 [新研究发现牙龈疾病跟阿尔茨海默病之间的惊人联系](https://www.cnbeta.com/articles/science/1306873.htm) | Sun Aug 21 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;塔夫茨大学牙医学院的研究人员认为，针对引起牙周病的细菌可以减缓阿尔茨海默氏症的进展。&lt;/strong&gt;核棱杆菌&lpar;Fusobacterium nucleatum&rpar;经常在牙周病中繁殖。它对颌骨和牙龈有影响，如果不加以治疗那么会导致牙齿不稳定和牙齿脱落。近年来，核棱杆菌跟各种疾病有关--包括早产和结肠直肠癌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [越南要求大公司将数据存储和办公室本地化](https://www.cnbeta.com/articles/tech/1306871.htm) | Sun Aug 21 2022 3:13 AM 
+- 🎊 [越南要求大公司将数据存储和办公室本地化](https://www.cnbeta.com/articles/tech/1306871.htm) | Sun Aug 21 2022 3:13 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;越南信息和通信部本周更新了网络安全法，其要求大科技公司和电信公司在当地存储用户数据并由当地实体控制这些数据。&lt;/strong&gt;受影响的数据超出了姓名、电子邮件、信用卡信息、电话号码和IP地址等基本内容并延伸到社会元素--包括用户所加入的团体，或跟他们进行数字互动的朋友。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [保时捷打造唯一联动《赛车总动员》911实车 仅用于慈善拍卖](https://hot.cnbeta.com/articles/game/1306869.htm) | Sun Aug 21 2022 3:08 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;保时捷公司公司日前宣布，联动《赛车总动员》推出世界唯一一台特别版“911莎莉•特别版” （Porsche 911 Sally Special），于当地时间20日开启慈善拍卖。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [CINNO：7月国内液晶面板产线稼动率同比下降21个百分点至73%](https://www.cnbeta.com/articles/tech/1306867.htm) | Sun Aug 21 2022 3:06 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月21日消息，&lt;strong&gt;根据CINNO&amp;nbsp;Research月度面板厂投产调研数据显示，2022年7月，国内液晶面板厂平均稼动率为73.3%，环比6月下滑2.3个百分点，同比2021年7月则下滑近21个百分点。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
