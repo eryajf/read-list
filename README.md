@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [水滴石穿 原来用的是超音速爆炸攻击](https://www.cnbeta.com/articles/science/1306911.htm) | Sun Aug 21 2022 6:11 AM 
+- 🕯 [柯达率先拥抱智能车：掌握核心电池技术 梗王只剩诺基亚了](https://www.cnbeta.com/articles/tech/1306913.htm) | Sun Aug 21 2022 6:26 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;别再拿“柯达诺基亚”类比形容在时代浪潮中转身不及时的公司了。至少柯达，在智能车浪潮中，转身得果断又迅速。昔日影像业巨头，如今开始拥抱智能汽车时代：造电池，而且是新能源汽车动力电池。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [水滴石穿 原来用的是超音速爆炸攻击](https://www.cnbeta.com/articles/science/1306911.htm) | Sun Aug 21 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;水滴石穿，本来寓意是“即使是细微的力量，只要坚持也能成大事”。但最新研究结论却颠覆了固有认知：每一滴下落的水滴都搞出了超音速冲击波，相当于一个小型“炸弹”。如此看来，坚持确实是要坚持，但这力量可一点也不细微。这项研究来自明尼苏达大学华人副教授 Xiang Cheng 团队，论文还发表在 Nature 子刊上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美国密歇根一老哥花98万元自建光纤网络 承包村里70户居民上网](https://www.cnbeta.com/articles/tech/1306909.htm) | Sun Aug 21 2022 6:09 AM 
+- 💂 [美国密歇根一老哥花98万元自建光纤网络 承包村里70户居民上网](https://www.cnbeta.com/articles/tech/1306909.htm) | Sun Aug 21 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;只因运营商提供的网络套餐又慢又贵，一老哥干脆自建了一套光纤网络！而且不只是自己家能用，同镇的 70 户家庭都可以接入，网速可达 100Mbps 或 1Gbps。甚至当地政府都愿意为他提供约 1700 万元的资金帮助，让他的网络能覆盖到周围镇子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [杭州高温天数创纪录 西湖龙井茶树9成被“晒干”](https://www.cnbeta.com/articles/tech/1306907.htm) | Sun Aug 21 2022 6:08 AM 
+- 🚀 [杭州高温天数创纪录 西湖龙井茶树9成被“晒干”](https://www.cnbeta.com/articles/tech/1306907.htm) | Sun Aug 21 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近全国连续的高温，已经刷新了很多人的对“热”的认知，截至8月21日，&lt;strong&gt;杭州主城区35℃以上高温日数已经达52天，40℃以上12天，历史排第一。&lt;/strong&gt;据@央视财经，杭州高温不退，连续的高温少雨让部分西湖龙井茶树伤得不轻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉的销量密码 小鹏学会了](https://www.cnbeta.com/articles/tech/1306905.htm) | Sun Aug 21 2022 5:39 AM 
+- 🎊 [特斯拉的销量密码 小鹏学会了](https://www.cnbeta.com/articles/tech/1306905.htm) | Sun Aug 21 2022 5:39 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;“充电5分钟，通话2小时”&lt;/strong&gt;——智能手机的营销手段，如今智能汽车也学会了。在8月15日，小鹏汽车宣布S4超快充首桩上线运营。在现场直播中，一辆小鹏G9测试车在该型超快充桩上实现了“&lt;strong&gt;充电5分钟，行驶200公里&lt;/strong&gt;”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [哈佛大学研究人员发现全球变暖催生了属于爬行动物的时代](https://www.cnbeta.com/articles/science/1306903.htm) | Sun Aug 21 2022 5:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;哈佛大学研究人员发现爬行动物的快速进化是由近6000万年的全球变暖和气候变化引发的。&lt;/strong&gt;研究人员可以通过研究地质深处的气候变化引起的大规模灭绝来探索环境危机对生物体进化的影响。一个主要的例子是二叠纪-三叠纪的气候危机。这一系列的气候变化是由发生在中二叠纪（2.65亿年前）和中三叠纪（2.3亿年前）之间的全球变暖驱动的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
