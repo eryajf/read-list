@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [一派·Podcast | 老麦——花十年时间，找到自己热爱](https://sspai.com/post/75252) | Sun Aug 21 2022 3:56 AM 
+- 👹 [升级也要图个明白：8000 字详解 Android 13 正式版的 9 个新变化](https://sspai.com/post/75272) | Sun Aug 21 2022 7:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    希望不久后手机厂商基于 Android 13 的定制系统正式推送到你手中的设备时，你能有个对比和参考。&lt;a href=&quot;https://sspai.com/post/75272&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [一派·Podcast | 老麦——花十年时间，找到自己热爱](https://sspai.com/post/75252) | Sun Aug 21 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
     老麦回顾了自己从青涩的毕业生到创立少数派，再到一步步走到今天的创业历程。&lt;a href=&quot;https://sspai.com/post/75252&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [任意键｜蜘蛛侠登陆 PC；141 特遣队再次出击；海绵宝宝多元宇宙及其他](https://sspai.com/post/75257) | Sat Aug 20 2022 7:03 AM 
+- 🤭 [任意键｜蜘蛛侠登陆 PC；141 特遣队再次出击；海绵宝宝多元宇宙及其他](https://sspai.com/post/75257) | Sat Aug 20 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
     周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。🎮玩游戏漫威蜘蛛侠｜《漫威蜘蛛侠重制版》登陆Steam/Epic游 ...&lt;a href=&quot;https://sspai.com/post/75257&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [重新认识拼音与发音：聊聊汉语拼音与注音符号方案的差异](https://sspai.com/post/75248) | Sat Aug 20 2022 3:00 AM 
+- 🥸 [重新认识拼音与发音：聊聊汉语拼音与注音符号方案的差异](https://sspai.com/post/75248) | Sat Aug 20 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     无论是汉语拼音还是注音符号，反映的都是设计之初的社会规范读音。然而符号成为规范，语音的变化仍在继续，随着语言的发展和语言研究的深入，注音体系必然会显露它的局限性。&lt;a href=&quot;https://sspai.com/post/75248&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派周报 | 本周会员内容提要；跑题：小处不可随便](https://sspai.com/prime/story/pi-weekly-005) | Fri Aug 19 2022 11:58 AM 
+- 🙉 [派周报 | 本周会员内容提要；跑题：小处不可随便](https://sspai.com/prime/story/pi-weekly-005) | Fri Aug 19 2022 11:58 AM 
     <details><summary>展开描述 ...</summary> 
     在如今新工具层出不穷、令人眼花缭乱的情况下，一个产品以怎样的方式、态度和水平去设计主页、撰写文档和提供支持，本身就是一个很有效的筛选标准。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-005&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75245) | Fri Aug 19 2022 9:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[电影]壮志凌云：独行侠、[美剧]医院五日、[电影]新神榜：杨戬、[综艺]快乐再出发、[日剧]被捡到的男人、[美剧]好想做一次第三季几则精彩预告：TV动画《DoItYour ...&lt;a href=&quot;https://sspai.com/post/75245&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
