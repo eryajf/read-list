@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我开源了一个Go学习仓库｜笔记预览](https://juejin.cn/post/7134337893392187423) | Sun Aug 21 2022 2:35 PM 
+- 🤗 [软考高级《系统架构设计师》面向服务的架构（SOA） 笔记](https://juejin.cn/post/7134358022108741662) | Sun Aug 21 2022 3:53 PM 
     <details><summary>展开描述 ...</summary> 
-    《The Go Programing Language》，这是我接触Go以来第一次阅读英文书籍。并且希望将学习的笔记其整理成册。思前想后我决定开设一个Go语言学习的仓库，在其中更新我整理的内容。 
+    前言 今天是2022/08/21，距离软考还有 77 天。现在依然没有什么把握能通过软考高级《系统架构设计师》。历年来该考试的通过率都非常低。而且不排除后面工作繁忙，频繁加班。 
     </details> 
 
-- 🎡 [记一次生产环境死锁问题分析](https://juejin.cn/post/7134337623182540831) | Sun Aug 21 2022 2:35 PM 
+- 🎡 [Swift - LeetCode - 各位相加](https://juejin.cn/post/7134355790994866213) | Sun Aug 21 2022 3:45 PM 
     <details><summary>展开描述 ...</summary> 
-    记一次生产环境死锁问题分析 一、问题背景 最近在做的项目中生产环境频繁出现数据库死锁的问题，解决一个，又来一个，最后数据库不死锁了，多了个请求文件服务器永久阻塞的问题，也是折腾了许久才解决掉 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情  题目 给定一个非负整数 num，反复将各个位上的数字相加，直到结果为一位数。返回这个结果。 示例 1： 
     </details> 
 
-- 🕯 [502/504 状态码有什么区别](https://juejin.cn/post/7134337659589607438) | Sun Aug 21 2022 2:34 PM 
+- 🕯 [头脑风暴：最大子序和](https://juejin.cn/post/7134354106210058271) | Sun Aug 21 2022 3:37 PM 
     <details><summary>展开描述 ...</summary> 
-    众所周知，50x 都是服务器异常问题。 500: Internal Server Error 502: Bad Gateway 503: Service Unavailable 504: Gatewa 
+    题目 给定一个整数数组 nums ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。 示例： 输入: [-2,1,-3,4,-1,2,1,-5,4] 输出: 6 解释: 连续子 
     </details> 
 
-- 🚀 [pycharm code with me 更详尽使用](https://juejin.cn/post/7134334308411506695) | Sun Aug 21 2022 2:21 PM 
+- 🚀 [剑指 Offer 63. 股票的最大利润](https://juejin.cn/post/7134350879825592327) | Sun Aug 21 2022 3:25 PM 
     <details><summary>展开描述 ...</summary> 
-    前置条件 主机必需：IntelliJ IDEA 2020.2.1及更高版本，已下载并启用Code With Me插件 访客必需：无需下载IDEA，只需要下载一个code with me程序（600kb 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 剑指 Offer 63. 股票的最大利润 假设把某股票的价格按照时间先后顺序存储在数组中，请问买卖该股票 
     </details> 
 
-- 💪 [etcd Lease：etcd 如何实现租约？](https://juejin.cn/post/7134333726112088078) | Sun Aug 21 2022 2:19 PM 
+- 💪 [解析 Golang 测试（9）- 一篇文章搞懂 testify](https://juejin.cn/post/7134345837940834341) | Sun Aug 21 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    你好，我是 aoho，今天我和你分享的主题是 etcd Lease：etcd 如何实现租约？ 上一篇文章我们介绍了 etcd Watch 实现的机制，今天我们继续分析 etcd 的另一个重要特性：Le 
+    今天我们的主角是【testify】，相信很多 Gophers 都或多或少用过。个人使用体会上来说，testify 几乎是除了官方的标准库，gomock 之外，使用最多的测试工具库了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
