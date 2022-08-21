@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [「趣学前端」综合一波CSS选择器的用法](https://juejin.cn/post/7134129263334129672) | Sun Aug 21 2022 1:06 AM 
+- 🤗 [ES6 Generator 函数](https://juejin.cn/post/7134165048653512718) | Sun Aug 21 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情。通过选择器，可以实现复杂的指定，减少样式的代码书写量。 
+    Generator 函数 Generator 函数是 ES6 提供的一种异步编程解决方案，语法行为与传统函数完全不同。本章详细介绍 Generator 函数的语法和 API Generator 函数有 
     </details> 
 
-- 🎡 [filebeat收集多个域名网站日志并存储到不同的es索引库（五）](https://juejin.cn/post/7134107269293146148) | Sat Aug 20 2022 11:43 PM 
+- 🎡 [iOS小技能：base64字符串和图片的互转](https://juejin.cn/post/7134155118181613604) | Sun Aug 21 2022 2:45 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 filebeat收集多个域名日志并创建不同索引 1.为什么要针对不同的应用系统创建不同的索引 公司生产环 
+    前言 背景： initQRCodeForInputByteSize cannot find proper rs block info &lpar;input data too big?&rpar; 之前的同事 误认为二维 
     </details> 
 
-- 🕯 [花十分钟将vue3前端项目一步一步自动化部署到linux的docker上](https://juejin.cn/post/7134100358644629535) | Sat Aug 20 2022 11:14 PM 
+- 🕯 [Spring5源码6-xxxAware接口回调源码分析](https://juejin.cn/post/7134151216912662541) | Sun Aug 21 2022 2:31 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇文章自己尝试了，一步一步的部署到linux的nginx上，一鼓作气再来尝试一下如何部署到docker。 
+    Spring提供了一种机制，让bean在实例化的时候，能够感知（获取）容器中的一些组件，即Aware接口回调的方式。 
     </details> 
 
-- 🚀 [我的 Python 学习笔记：从杨辉三角开始](https://juejin.cn/post/7134069733183193096) | Sat Aug 20 2022 9:27 PM 
+- 🚀 [1455. 检查单词是否为句中其他单词的前缀 : 简单模拟题](https://juejin.cn/post/7134145291367743496) | Sun Aug 21 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第23天，点击查看活动详情 基于Python3.X版本进行学习，笔记如下： 杨辉三角 名字格式化 迭代器 两个基本的方法：iter&lpar; 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 题目描述 这是 LeetCode 上的 1455. 检查单词是否为句中其他单词的前缀 ，难度为 简单。  
     </details> 
 
-- 💪 [聊聊自动化测试想法](https://juejin.cn/post/7134014923336024094) | Sat Aug 20 2022 5:47 PM 
+- 💪 [如何在 SAP Spartacus 中编写 ASM-Compatible 的代码](https://juejin.cn/post/7134144866564948004) | Sun Aug 21 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 当开发改动相关业务逻辑之后，测试同学需要重新回归测试，有些还得走完整流程，比如说下单，开单，然后财务审核，各种流程去回归测试。无疑加大了测试同学的工作量，有些新接手别人工作的更是一脸闷逼，不知道 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 要编写与 ASM 兼容的代码，开发人员需要使用 UserIdService 中的 takeUserId&lpar; 
     </details> 
 <!-- juejin:END -->
 ### 少数派
