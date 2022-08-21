@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Windows 下有什么优雅使用 DoQ 的方法吗](https://www.v2ex.com/t/874415#reply1) | Sun Aug 21 2022 3:50 PM
-- 🤗 [jellyfin android app 不如 chrome web app 好用](https://www.v2ex.com/t/874414#reply1) | Sun Aug 21 2022 3:47 PM
-- 🎭 [Android12 不更了吗](https://www.v2ex.com/t/874410#reply1) | Sun Aug 21 2022 3:23 PM
-- 🥷 [[GitHub] 介绍一个分析 GitHub 仓库的项目](https://www.v2ex.com/t/874402#reply2) | Sun Aug 21 2022 2:48 PM
-- 🐵 [cache 中 写缓冲器不满的情况分析？](https://www.v2ex.com/t/874396#reply2) | Sun Aug 21 2022 2:08 PM<!-- v2ex:END -->
+- 🥸 [大家还用 rss 订阅器吗？ mac 的 rss 软件有何推荐的？有哪些推荐订阅的 rss ？](https://www.v2ex.com/t/874419#reply4) | Sun Aug 21 2022 4:28 PM
+- 🤗 [Windows 下有什么优雅使用 DoQ 的方法吗](https://www.v2ex.com/t/874415#reply1) | Sun Aug 21 2022 3:50 PM
+- 🎭 [jellyfin android app 不如 chrome web app 好用](https://www.v2ex.com/t/874414#reply1) | Sun Aug 21 2022 3:47 PM
+- 🥷 [Android12 不更了吗](https://www.v2ex.com/t/874410#reply1) | Sun Aug 21 2022 3:23 PM
+- 🐵 [[GitHub] 介绍一个分析 GitHub 仓库的项目](https://www.v2ex.com/t/874402#reply2) | Sun Aug 21 2022 2:48 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
