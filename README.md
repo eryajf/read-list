@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果一系列产品曝出严重安全漏洞 这项更新建议所有人升级](https://www.cnbeta.com/articles/tech/1306887.htm) | Sun Aug 21 2022 5:18 AM 
+- 🕯 [水滴石穿 原来用的是超音速爆炸攻击](https://www.cnbeta.com/articles/science/1306911.htm) | Sun Aug 21 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，“苹果曝出严重安全漏洞”的消息引发网络热议，据央视财经报道，当地时间周三，苹果公司发布两份安全报告，报告披露iPhone、iPad和iMac电脑等产品存在严重安全漏洞，&lt;strong&gt;这些漏洞可能会让黑客入侵用户设备、获得管理权限甚至完全控制设备并运行其中的应用软件。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;水滴石穿，本来寓意是“即使是细微的力量，只要坚持也能成大事”。但最新研究结论却颠覆了固有认知：每一滴下落的水滴都搞出了超音速冲击波，相当于一个小型“炸弹”。如此看来，坚持确实是要坚持，但这力量可一点也不细微。这项研究来自明尼苏达大学华人副教授 Xiang Cheng 团队，论文还发表在 Nature 子刊上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [极星2换电池比新车快贵30万 车主直接走全损报废](https://www.cnbeta.com/articles/tech/1306885.htm) | Sun Aug 21 2022 5:17 AM 
+- 💼 [美国密歇根一老哥花98万元自建光纤网络 承包村里70户居民上网](https://www.cnbeta.com/articles/tech/1306909.htm) | Sun Aug 21 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着电池的涨价，电动车更换电池的成本也水涨船高，甚至出现了电动车坏了修不起的尴尬情况，电动车也就真成了“电动爹”。近日，浙江之声《我们都是汽车人》主持人爆料：一位极星2双电机长续航版车主黄先生表示，自己在驾车发生意外撞山后，导致大灯与底盘件受损，电池板向内凹陷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;只因运营商提供的网络套餐又慢又贵，一老哥干脆自建了一套光纤网络！而且不只是自己家能用，同镇的 70 户家庭都可以接入，网速可达 100Mbps 或 1Gbps。甚至当地政府都愿意为他提供约 1700 万元的资金帮助，让他的网络能覆盖到周围镇子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [一颗三倍于飞机大小的小行星将以64800公里时速掠过地球](https://www.cnbeta.com/articles/science/1306883.htm) | Sun Aug 21 2022 5:16 AM 
+- 💂 [杭州高温天数创纪录 西湖龙井茶树9成被“晒干”](https://www.cnbeta.com/articles/tech/1306907.htm) | Sun Aug 21 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国航天局（NASA）已经确定了一颗92英尺宽（三倍于飞机大小）的&amp;quot;潜在危险&amp;quot;小行星正在向地球附近飞去。该机构声称，这颗名为小行星2020 QW3的小行星将于8月22日上午6点41分从地球旁边经过。它在经过发生时的速度预计为64800公里/小时，小行星2020 QW3与地球之间可能发生碰撞的可能性为零。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近全国连续的高温，已经刷新了很多人的对“热”的认知，截至8月21日，&lt;strong&gt;杭州主城区35℃以上高温日数已经达52天，40℃以上12天，历史排第一。&lt;/strong&gt;据@央视财经，杭州高温不退，连续的高温少雨让部分西湖龙井茶树伤得不轻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《新神榜杨戬》发布洛神飞天舞片段 豆瓣7.1略有上涨](https://hot.cnbeta.com/articles/movie/1306881.htm) | Sun Aug 21 2022 5:13 AM 
+- 🚀 [特斯拉的销量密码 小鹏学会了](https://www.cnbeta.com/articles/tech/1306905.htm) | Sun Aug 21 2022 5:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《新神榜：杨戬》发布瀛洲仙乐坊飞天歌舞片段。花瓣纷飞，婉罗与众仙女们在空中起舞，“翩若惊鸿，婉若游龙“的舞姿，搭配歌手银临婉转优美的吟唱，让主角杨戬也沉醉其中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;“充电5分钟，通话2小时”&lt;/strong&gt;——智能手机的营销手段，如今智能汽车也学会了。在8月15日，小鹏汽车宣布S4超快充首桩上线运营。在现场直播中，一辆小鹏G9测试车在该型超快充桩上实现了“&lt;strong&gt;充电5分钟，行驶200公里&lt;/strong&gt;”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [索尼谈《死亡搁浅》投奔微软通行证：并未参与此事](https://hot.cnbeta.com/articles/game/1306879.htm) | Sun Aug 21 2022 4:03 AM 
+- 🎊 [哈佛大学研究人员发现全球变暖催生了属于爬行动物的时代](https://www.cnbeta.com/articles/science/1306903.htm) | Sun Aug 21 2022 5:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《死亡搁浅》即将登陆微软PC Game Pass服务，有看热闹不嫌事大的媒体向索尼询问此事的具体细节。索尼今日对此发表回应称，“《死亡搁浅》PC版发行事宜由小岛工作室和505 Games全权负责”，而“SIE并未参与此次推广活动”。虽然505 Games拥有《死亡搁浅》的PC版发行权，但这个IP的拥有者其实是索尼，而不是小岛工作室和505。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;哈佛大学研究人员发现爬行动物的快速进化是由近6000万年的全球变暖和气候变化引发的。&lt;/strong&gt;研究人员可以通过研究地质深处的气候变化引起的大规模灭绝来探索环境危机对生物体进化的影响。一个主要的例子是二叠纪-三叠纪的气候危机。这一系列的气候变化是由发生在中二叠纪（2.65亿年前）和中三叠纪（2.3亿年前）之间的全球变暖驱动的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
