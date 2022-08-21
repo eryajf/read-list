@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [索尼谈《死亡搁浅》投奔微软通行证：并未参与此事](https://hot.cnbeta.com/articles/game/1306879.htm) | Sun Aug 21 2022 4:03 AM 
+- 🕯 [苹果一系列产品曝出严重安全漏洞 这项更新建议所有人升级](https://www.cnbeta.com/articles/tech/1306887.htm) | Sun Aug 21 2022 5:18 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;日前，“苹果曝出严重安全漏洞”的消息引发网络热议，据央视财经报道，当地时间周三，苹果公司发布两份安全报告，报告披露iPhone、iPad和iMac电脑等产品存在严重安全漏洞，&lt;strong&gt;这些漏洞可能会让黑客入侵用户设备、获得管理权限甚至完全控制设备并运行其中的应用软件。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [极星2换电池比新车快贵30万 车主直接走全损报废](https://www.cnbeta.com/articles/tech/1306885.htm) | Sun Aug 21 2022 5:17 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;随着电池的涨价，电动车更换电池的成本也水涨船高，甚至出现了电动车坏了修不起的尴尬情况，电动车也就真成了“电动爹”。近日，浙江之声《我们都是汽车人》主持人爆料：一位极星2双电机长续航版车主黄先生表示，自己在驾车发生意外撞山后，导致大灯与底盘件受损，电池板向内凹陷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [一颗三倍于飞机大小的小行星将以64800公里时速掠过地球](https://www.cnbeta.com/articles/science/1306883.htm) | Sun Aug 21 2022 5:16 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国航天局（NASA）已经确定了一颗92英尺宽（三倍于飞机大小）的&amp;quot;潜在危险&amp;quot;小行星正在向地球附近飞去。该机构声称，这颗名为小行星2020 QW3的小行星将于8月22日上午6点41分从地球旁边经过。它在经过发生时的速度预计为64800公里/小时，小行星2020 QW3与地球之间可能发生碰撞的可能性为零。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《新神榜杨戬》发布洛神飞天舞片段 豆瓣7.1略有上涨](https://hot.cnbeta.com/articles/movie/1306881.htm) | Sun Aug 21 2022 5:13 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《新神榜：杨戬》发布瀛洲仙乐坊飞天歌舞片段。花瓣纷飞，婉罗与众仙女们在空中起舞，“翩若惊鸿，婉若游龙“的舞姿，搭配歌手银临婉转优美的吟唱，让主角杨戬也沉醉其中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [索尼谈《死亡搁浅》投奔微软通行证：并未参与此事](https://hot.cnbeta.com/articles/game/1306879.htm) | Sun Aug 21 2022 4:03 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《死亡搁浅》即将登陆微软PC Game Pass服务，有看热闹不嫌事大的媒体向索尼询问此事的具体细节。索尼今日对此发表回应称，“《死亡搁浅》PC版发行事宜由小岛工作室和505 Games全权负责”，而“SIE并未参与此次推广活动”。虽然505 Games拥有《死亡搁浅》的PC版发行权，但这个IP的拥有者其实是索尼，而不是小岛工作室和505。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1306879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [苹果被指在iPadOS 16中的Stage Manager采取了“根本性误导”做法](https://www.cnbeta.com/articles/tech/1306877.htm) | Sun Aug 21 2022 3:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPadOS 16测试版中的Stage Manager正在受到严厉批评，因为它在为iPad体验带来新的多任务处理水平方面存在根本性的误导问题，一些人甚至呼吁苹果因其缺点而完全推迟该功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [哥伦比亚工程师开发出学会了了解自己而非周围环境的一个机器人](https://www.cnbeta.com/articles/science/1306875.htm) | Sun Aug 21 2022 3:41 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们对自己身体的认知并不总是正确或现实的，任何运动员或追求时尚的人都知道，但这是我们在社会中的行为方式的一个关键因素。在你打球或穿衣服时，你的大脑不断为运动做准备以便你能在不碰撞、不绊倒、不摔倒的情况下移动身体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [新研究发现牙龈疾病跟阿尔茨海默病之间的惊人联系](https://www.cnbeta.com/articles/science/1306873.htm) | Sun Aug 21 2022 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;塔夫茨大学牙医学院的研究人员认为，针对引起牙周病的细菌可以减缓阿尔茨海默氏症的进展。&lt;/strong&gt;核棱杆菌&lpar;Fusobacterium nucleatum&rpar;经常在牙周病中繁殖。它对颌骨和牙龈有影响，如果不加以治疗那么会导致牙齿不稳定和牙齿脱落。近年来，核棱杆菌跟各种疾病有关--包括早产和结肠直肠癌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [越南要求大公司将数据存储和办公室本地化](https://www.cnbeta.com/articles/tech/1306871.htm) | Sun Aug 21 2022 3:13 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;越南信息和通信部本周更新了网络安全法，其要求大科技公司和电信公司在当地存储用户数据并由当地实体控制这些数据。&lt;/strong&gt;受影响的数据超出了姓名、电子邮件、信用卡信息、电话号码和IP地址等基本内容并延伸到社会元素--包括用户所加入的团体，或跟他们进行数字互动的朋友。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
