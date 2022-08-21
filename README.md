@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [四川供电紧张：半夜连跑三个充电桩才充上电 新能源车主体会到狼狈](https://www.cnbeta.com/articles/tech/1306915.htm) | Sun Aug 21 2022 7:41 AM 
+- 🕯 [《白蛇》系列团队全新力作 《新神榜：杨戬》上映两天票房破亿](https://hot.cnbeta.com/articles/movie/1306939.htm) | Sun Aug 21 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这个夏天，四川省遭遇60年一遇的大范围、长时间极端高温天气，流域干旱导致水电发电能力大幅下降，而空调降温负荷需求远超预期水平，导致能源保供面临严峻形势。受此影响，&lt;strong&gt;不少新能源换电站与充电桩暂停运营，部分新能源车的车主感受到了前所未有的“充电”压力。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，由上海追光影业出品，《白蛇》系列团队制作的动画电影《新神榜：杨戬》发布第一份战报，宣布影片上映两天后，票房便突破了一亿大关。根据灯塔专业版提供的数据，&lt;strong&gt;截止今天11点55分01秒，《新神榜：杨戬》的票房成绩突破1亿，累积观影人次236万。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [柯达率先拥抱智能车：掌握核心电池技术 梗王只剩诺基亚了](https://www.cnbeta.com/articles/tech/1306913.htm) | Sun Aug 21 2022 6:26 AM 
+- 💼 [插头带圆孔不适合国内用 26年前就已被淘汰](https://www.cnbeta.com/articles/tech/1306937.htm) | Sun Aug 21 2022 11:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;别再拿“柯达诺基亚”类比形容在时代浪潮中转身不及时的公司了。至少柯达，在智能车浪潮中，转身得果断又迅速。昔日影像业巨头，如今开始拥抱智能汽车时代：造电池，而且是新能源汽车动力电池。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你家的电源插头上有圆孔吗？以后别用了。据央视《每周质量报告》报道，很多按摩小家电的供电插头有两个圆孔，在国内使用这种插头有一定的安全隐患。据了解，&lt;strong&gt;这种插头属于出口产品，常见于日本，根据我国相关电器标准，带圆孔的插头在1996年就已经被淘汰。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [水滴石穿 原来用的是超音速爆炸攻击](https://www.cnbeta.com/articles/science/1306911.htm) | Sun Aug 21 2022 6:11 AM 
+- 💂 [中国长征系列火箭创下新纪录：2030年左右载人登月](https://www.cnbeta.com/articles/science/1306935.htm) | Sun Aug 21 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;水滴石穿，本来寓意是“即使是细微的力量，只要坚持也能成大事”。但最新研究结论却颠覆了固有认知：每一滴下落的水滴都搞出了超音速冲击波，相当于一个小型“炸弹”。如此看来，坚持确实是要坚持，但这力量可一点也不细微。这项研究来自明尼苏达大学华人副教授 Xiang Cheng 团队，论文还发表在 Nature 子刊上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月20日，长征二号丁运载火箭以一箭三星的方式成功发射遥感三十五号04组卫星，标志着中国长征系列运载火箭实现连续103次发射成功，打破了此前的102次纪录，而且只用了2年3个月。这是长二丁火箭的第62次飞行，发射成功率100％。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国密歇根一老哥花98万元自建光纤网络 承包村里70户居民上网](https://www.cnbeta.com/articles/tech/1306909.htm) | Sun Aug 21 2022 6:09 AM 
+- 🚀 [高端自行车核心套件受限：变速器长期依赖进口](https://www.cnbeta.com/articles/tech/1306933.htm) | Sun Aug 21 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;只因运营商提供的网络套餐又慢又贵，一老哥干脆自建了一套光纤网络！而且不只是自己家能用，同镇的 70 户家庭都可以接入，网速可达 100Mbps 或 1Gbps。甚至当地政府都愿意为他提供约 1700 万元的资金帮助，让他的网络能覆盖到周围镇子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，骑行运动的火热带动了整个自行车行业的发展，&lt;strong&gt;根据中国自行车协会公布的数据，在2021年上半年，在轻工业的全部19个大行业中，自行车是为数不多的增加值增速超过30%的行业，高于全国工业增速18.4个百分点。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [杭州高温天数创纪录 西湖龙井茶树9成被“晒干”](https://www.cnbeta.com/articles/tech/1306907.htm) | Sun Aug 21 2022 6:08 AM 
+- 🎊 [美国“番茄危机”悄然而至：高温干旱致农作物歉收](https://www.cnbeta.com/articles/tech/1306931.htm) | Sun Aug 21 2022 11:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近全国连续的高温，已经刷新了很多人的对“热”的认知，截至8月21日，&lt;strong&gt;杭州主城区35℃以上高温日数已经达52天，40℃以上12天，历史排第一。&lt;/strong&gt;据@央视财经，杭州高温不退，连续的高温少雨让部分西湖龙井茶树伤得不轻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;遭遇高温干旱天气的并非只有我国的南方地区，事实上，在欧洲、美洲等全球多地，类似的极端天气情况也在上演着。据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/2258727970/M1WcXANyJ&quot; target=&quot;_blank&quot;&gt;央视财经&lt;/a&gt;报道称，多种农产品的收成已受到严重影响，&lt;strong&gt;一场“番茄”危机悄然而至，要知道番茄在美国是仅次于土豆的第二大消费性蔬菜。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
