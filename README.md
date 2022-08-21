@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《白蛇》系列团队全新力作 《新神榜：杨戬》上映两天票房破亿](https://hot.cnbeta.com/articles/movie/1306939.htm) | Sun Aug 21 2022 11:10 AM 
+- 🕯 [资深药企人Derek Lowe抨击AlphaFold：靠结构预测做药“纯属自嗨”](https://www.cnbeta.com/articles/tech/1306953.htm) | Sun Aug 21 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，由上海追光影业出品，《白蛇》系列团队制作的动画电影《新神榜：杨戬》发布第一份战报，宣布影片上映两天后，票房便突破了一亿大关。根据灯塔专业版提供的数据，&lt;strong&gt;截止今天11点55分01秒，《新神榜：杨戬》的票房成绩突破1亿，累积观影人次236万。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1306939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;DeepMind近日公布了AlphaFold的最新进展：已预测出超过100万个物种的2.14亿个蛋白质结构，几乎涵盖了地球上所有已知蛋白质，再次刷新了我们对它的期待。AlphaFold 2横空出世时的热烈场景重现，再次在国内外的社交媒体上引发热议。但作为“圈内人”的生命科学领域研究者们，对AlphaFold此次公布的成果却褒贬不一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [插头带圆孔不适合国内用 26年前就已被淘汰](https://www.cnbeta.com/articles/tech/1306937.htm) | Sun Aug 21 2022 11:09 AM 
+- 💼 [高温红色预警已连发10天 成都最高气温再创历史新高](https://www.cnbeta.com/articles/tech/1306951.htm) | Sun Aug 21 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你家的电源插头上有圆孔吗？以后别用了。据央视《每周质量报告》报道，很多按摩小家电的供电插头有两个圆孔，在国内使用这种插头有一定的安全隐患。据了解，&lt;strong&gt;这种插头属于出口产品，常见于日本，根据我国相关电器标准，带圆孔的插头在1996年就已经被淘汰。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月21日06时、18时，中央气象台继续发布高温红色预警，这已经是连续第10天了……预计8月22日白天，甘肃东南部、陕西南部、河南大部、山东西南部、安徽、江苏大部、上海、湖北、湖南、江西、浙江、福建、四川中东部、重庆、贵州东部和北部、云南东北部、广东中北部、广西北部等地有35～39℃高温天气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国长征系列火箭创下新纪录：2030年左右载人登月](https://www.cnbeta.com/articles/science/1306935.htm) | Sun Aug 21 2022 11:06 AM 
+- 💂 [沿用S22极简设计：Galaxy S23 Ultra变化将是三星史上最小](https://www.cnbeta.com/articles/tech/1306949.htm) | Sun Aug 21 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月20日，长征二号丁运载火箭以一箭三星的方式成功发射遥感三十五号04组卫星，标志着中国长征系列运载火箭实现连续103次发射成功，打破了此前的102次纪录，而且只用了2年3个月。这是长二丁火箭的第62次飞行，发射成功率100％。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1306935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年年初，三星推出了新一代旗舰手机Galaxy S22，其独特的极简风设计广受用户好评。今天，微博博主@ i冰宇宙 发布独家爆料，放出了三星新一代旗舰Galaxy S23 Ultra的尺寸参数，&lt;strong&gt;并表示它会是三星史上变化最小的旗舰。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [高端自行车核心套件受限：变速器长期依赖进口](https://www.cnbeta.com/articles/tech/1306933.htm) | Sun Aug 21 2022 11:05 AM 
+- 🚀 [Intel NUC迷你机膨胀了 13代居然做这么庞大](https://www.cnbeta.com/articles/tech/1306947.htm) | Sun Aug 21 2022 2:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，骑行运动的火热带动了整个自行车行业的发展，&lt;strong&gt;根据中国自行车协会公布的数据，在2021年上半年，在轻工业的全部19个大行业中，自行车是为数不多的增加值增速超过30%的行业，高于全国工业增速18.4个百分点。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;13代酷睿即将发布，基于新平台的NUC迷你机也将用来更新换代，但这次有点不一样。作为NUC家族的旗舰系列，NUC 13 Extreme&lpar;代号Rapter Canyon&rpar;此前已经出现在路线图上，现在第一次看到了它的设计图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美国“番茄危机”悄然而至：高温干旱致农作物歉收](https://www.cnbeta.com/articles/tech/1306931.htm) | Sun Aug 21 2022 11:03 AM 
+- 🎊 [中国高铁今日装船出海 首次出口国外](https://www.cnbeta.com/articles/tech/1306945.htm) | Sun Aug 21 2022 2:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;遭遇高温干旱天气的并非只有我国的南方地区，事实上，在欧洲、美洲等全球多地，类似的极端天气情况也在上演着。据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/2258727970/M1WcXANyJ&quot; target=&quot;_blank&quot;&gt;央视财经&lt;/a&gt;报道称，多种农产品的收成已受到严重影响，&lt;strong&gt;一场“番茄”危机悄然而至，要知道番茄在美国是仅次于土豆的第二大消费性蔬菜。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月21日，我国出口印尼用于雅万高铁的&lt;strong&gt;1组高速动车组和1组综合检测列车在青岛港顺利完成装船&lt;/strong&gt;，通过海运发往印尼。这是雅万高铁首批发运列车，标志着我国首次出口国外的高铁列车正式启运。是中国高铁首次全系统、全要素、全产业链在海外落地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1306945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
