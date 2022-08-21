@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [python能否支持函数重载的问题](https://juejin.cn/post/7134170939624783909) | Sun Aug 21 2022 3:47 AM 
+- 🤗 [前端开发者必不可少的AOT和JIT知识](https://juejin.cn/post/7134209261428539422) | Sun Aug 21 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 大家好,我是芒果,一名非科班的在校大学生。对C/C++、数据结构、Linux及MySql、算法等领域感兴 
+    一、前言 编译 现在已经是我们开发过程中必不可缺少的流程了，做为前端开发者我们接触最多的编译器就是 babel 了，在编译的过程中我们可以做下面这些事： 将框架中描述的 UI 转换成宿主环境可以识别的 
     </details> 
 
-- 🎡 [Android 天气APP（十七）热门城市 - 国内城市](https://juejin.cn/post/7134128290259796004) | Sun Aug 21 2022 1:01 AM 
+- 🎡 [Canvas定制组件——事件线之事件的绘制](https://juejin.cn/post/7134210155910004773) | Sun Aug 21 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第17天，点击查看活动详情 前言 在上一篇做了国外的热门城市数据的展示，这一篇就简单一些，增加国内的热门城市。 效果图 正文 ① 修 
+    截止目前为止，事件线组件已经更新20个版本，被下载了1000多次。秉承着：该组件应该满足更多常见常见业务场景，更新了趋势图双轴，多折线，重构配置项，优化性能等功能，并修改一些样式和bug。 
     </details> 
 
-- 🕯 [Android登录拦截的常见-基本的Intent的实现](https://juejin.cn/post/7134126903073439775) | Sun Aug 21 2022 12:58 AM 
+- 🕯 [Vue的事件处理和修饰符](https://juejin.cn/post/7134208455342030879) | Sun Aug 21 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-    关于App实现登录的拦截再执行逻辑，我已经出了几篇方案了，有些同学可能会问，你整的一些花里胡哨的有啥用，原生的Intent就能实现这些功能,我都是这么用的。 
+    一.Vue的事件处理 使用@xxx或者v:on:xxx来绑定事件，其中xxx是事件名。 事件的回调函数必须写在methods上，并且不要用箭头函数，否则this指向不是Vue实例。 methods中配 
     </details> 
 
-- 🚀 [仿IOS 带字母索引的滑轮控件](https://juejin.cn/post/7134106120196456484) | Sat Aug 20 2022 11:36 PM 
+- 🚀 [实现vue2中组件互相调用实例methods中的方法](https://juejin.cn/post/7134206156917964808) | Sun Aug 21 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    ​​​携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 &gt;&gt; 效果大概就是这样,右边是字母索引效果 ​ 做开发的时候，经常碰到产品经理设计出来的界面是参考 
+    前言： 大家都知道在vue2中相互调用组件的方法是很麻烦的一件事。比如说要调用子孙组件的的方法，需要refs,refs一层一层往下面找；调用上层组件的可以在组件上挂载，一层可以用v-on 和 emit 
     </details> 
 
-- 💪 [hardlockup问题处理](https://juejin.cn/post/7133988850203885598) | Sat Aug 20 2022 4:00 PM 
+- 💪 [Vue实例初始化-为渲染函数设置检查——vue2源码探究&lpar;8&rpar;](https://juejin.cn/post/7134202917849923597) | Sun Aug 21 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
-    panic时候出现：&quot;Watchdog detected hard LOCKUP on cpu &quot; 内核检测到cpu长时间没有产生中断，触发的报错。 
+    值得一提的是，在Vue实例化过程中，如果是生产环境，则会对渲染函数render的执行上下文进行代理，以检查模板中调用的属性是否正确，以便及时弹出错误供调试使用 
     </details> 
 <!-- juejin:END -->
 ### 少数派
