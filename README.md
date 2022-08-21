@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端开发者必不可少的AOT和JIT知识](https://juejin.cn/post/7134209261428539422) | Sun Aug 21 2022 6:20 AM 
+- 🤗 [一个解决WebRTC在iOS模拟器红屏问题的实践](https://juejin.cn/post/7134238062900412453) | Sun Aug 21 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    一、前言 编译 现在已经是我们开发过程中必不可缺少的流程了，做为前端开发者我们接触最多的编译器就是 babel 了，在编译的过程中我们可以做下面这些事： 将框架中描述的 UI 转换成宿主环境可以识别的 
+    笔者在实现点对点视频通信过程中，遇到了 iOS 模拟器红屏问题。本文主要记录如何解决这一问题。主要对 SDP 进行解读，分享在编辑 SDP 过程中遇到的问题。 
     </details> 
 
-- 🎡 [Canvas定制组件——事件线之事件的绘制](https://juejin.cn/post/7134210155910004773) | Sun Aug 21 2022 6:19 AM 
+- 🎡 [【Matplotlib数据可视化】实现基础绘图](https://juejin.cn/post/7134236134086967304) | Sun Aug 21 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-    截止目前为止，事件线组件已经更新20个版本，被下载了1000多次。秉承着：该组件应该满足更多常见常见业务场景，更新了趋势图双轴，多折线，重构配置项，优化性能等功能，并修改一些样式和bug。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 1. 完善原始折线图 为了更好的理解所有基础绘图功能，我们通过天气温度变化的案例绘图来融合Matplot 
     </details> 
 
-- 🕯 [Vue的事件处理和修饰符](https://juejin.cn/post/7134208455342030879) | Sun Aug 21 2022 6:13 AM 
+- 🕯 [C# 使用PdfiumViewer.dll依赖对J将PDF文件保存为图片](https://juejin.cn/post/7134232175171338247) | Sun Aug 21 2022 7:44 AM 
     <details><summary>展开描述 ...</summary> 
-    一.Vue的事件处理 使用@xxx或者v:on:xxx来绑定事件，其中xxx是事件名。 事件的回调函数必须写在methods上，并且不要用箭头函数，否则this指向不是Vue实例。 methods中配 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第21天，点击查看活动详情 前言： 我们在办公生活中经常需要将PDF文件转换为图片，每次都不知道如何去处理这个问题，经常使用的一个办 
     </details> 
 
-- 🚀 [实现vue2中组件互相调用实例methods中的方法](https://juejin.cn/post/7134206156917964808) | Sun Aug 21 2022 6:04 AM 
+- 🚀 [Pandas DateTime 超强总结](https://juejin.cn/post/7134147385106071565) | Sun Aug 21 2022 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    前言： 大家都知道在vue2中相互调用组件的方法是很麻烦的一件事。比如说要调用子孙组件的的方法，需要refs,refs一层一层往下面找；调用上层组件的可以在组件上挂载，一层可以用v-on 和 emit 
+    对于 Pandas 来说，可以处理众多的数据类型，其中最有趣和最重要的数据类型之一就是时间序列数据。 
     </details> 
 
-- 💪 [Vue实例初始化-为渲染函数设置检查——vue2源码探究&lpar;8&rpar;](https://juejin.cn/post/7134202917849923597) | Sun Aug 21 2022 5:52 AM 
+- 💪 [Canal监控MySQL数据到Kafka详细步骤&lpar;jdk+zookeeper+kafka+canal+mysql&rpar;](https://juejin.cn/post/7134144333355155493) | Sun Aug 21 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-    值得一提的是，在Vue实例化过程中，如果是生产环境，则会对渲染函数render的执行上下文进行代理，以检查模板中调用的属性是否正确，以便及时弹出错误供调试使用 
+    以下详细说明了如何通过一台虚拟机搭建的单节点jdk+zookeeper+kafka+canal+mysql集群环境，搭建完成可通过canal监控mysql数据库数据发送到kafka。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
