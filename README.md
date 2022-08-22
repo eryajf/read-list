@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [integrate.ai - 扩展您的产品以在分布式数据上训练 ML 模型](https://xinquji.com/posts/178926?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:24 AM 
+- 👀 [Gravity - Community Growth Edition - 一本关于成功扩展社区的免费杂志](https://xinquji.com/posts/178933?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     扩展您的产品以在分布式数据上训练 ML 模型  
+     一本关于成功扩展社区的免费杂志  
     </details> 
 
-- 🥷 [Namecheap Business Card Maker - 在几分钟内创建和订购名片](https://xinquji.com/posts/178925?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:24 AM 
+- 🥷 [LabelPass - 到处销售，在一个地方完成](https://xinquji.com/posts/178932?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     在几分钟内创建和订购名片  
+     到处销售，在一个地方完成  
     </details> 
 
-- 💼 [Datalogz Power BI Connector - 您的 Power BI 治理和发现平台](https://xinquji.com/posts/178924?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:22 AM 
+- 💼 [Takeout - 只是另一种电子邮件服务，但要好 10 倍](https://xinquji.com/posts/178931?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     您的 Power BI 治理和发现平台  
+     只是另一种电子邮件服务，但要好 10 倍  
     </details> 
 
-- 🦅 [Zencastr 3.0 - 少做多说，最简单的播客方式](https://xinquji.com/posts/178923?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:21 AM 
+- 🦅 [Friendlymoo - 使推荐信的收集和管理变得更加容易](https://xinquji.com/posts/178930?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     少做多说，最简单的播客方式  
+     使推荐信的收集和管理变得更加容易  
     </details> 
 
-- 😺 [UpSavvy - 帮助 K-12 学区解决数字公民问题](https://xinquji.com/posts/178922?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:19 AM 
+- 😺 [Flowjam - 定制产品搜寻发布视频](https://xinquji.com/posts/178929?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     帮助 K-12 学区解决数字公民问题  
+     定制产品搜寻发布视频  
     </details> 
 <!-- xinquji:END -->
