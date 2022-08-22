@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教,用 go 写一个具有特殊功能的端口转发思路](https://www.v2ex.com/t/874430#reply0) | Sun Aug 21 2022 11:10 PM
-- 🤗 [最近想系统的学习并搭建 CI/CD 环境，求推荐学习路线](https://www.v2ex.com/t/874428#reply1) | Sun Aug 21 2022 6:01 PM
-- 🎭 [大家还用 rss 订阅器吗？ mac 的 rss 软件有何推荐的？有哪些推荐订阅的 rss ？](https://www.v2ex.com/t/874419#reply7) | Sun Aug 21 2022 4:28 PM
-- 🥷 [Windows 下有什么优雅使用 DoQ 的方法吗](https://www.v2ex.com/t/874415#reply2) | Sun Aug 21 2022 3:50 PM
-- 🐵 [jellyfin android app 不如 chrome web app 好用](https://www.v2ex.com/t/874414#reply1) | Sun Aug 21 2022 3:47 PM<!-- v2ex:END -->
+- 🥸 [收到 k50 ultra 了，随便说说](https://www.v2ex.com/t/874453#reply0) | Mon Aug 22 2022 1:51 AM
+- 🤗 [smart-doc 发布 2.5.0 版本](https://www.v2ex.com/t/874447#reply0) | Mon Aug 22 2022 1:39 AM
+- 🎭 [求推荐一款好用+耐用的机械键盘](https://www.v2ex.com/t/874446#reply10) | Mon Aug 22 2022 1:37 AM
+- 🥷 [工作一年，发现自己不太想写代码了，有点麻了](https://www.v2ex.com/t/874441#reply17) | Mon Aug 22 2022 1:17 AM
+- 🐵 [Windows 商店里搜索不到 Firefox？](https://www.v2ex.com/t/874436#reply14) | Mon Aug 22 2022 12:40 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
