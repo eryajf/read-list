@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [宇宙中最神秘的类星体：到底是啥？没人知道](https://www.cnbeta.com/articles/science/1307425.htm) | Mon Aug 22 2022 5:20 PM 
+- 🕯 [欧元汇率创二十年新低 华尔街称这不过只是个开始](https://www.cnbeta.com/articles/tech/1307429.htm) | Mon Aug 22 2022 7:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;因美元反弹且欧元区冬季可能处境艰难，欧元汇率跌至二十年新低。策略师们认为，跌势现在只是刚开了个头。&lt;/strong&gt;欧元兑美元周一一度下跌1.1%至0.9928美元，低于7月触及的20年低点0.9952，创2002年以来最低水平。美元即期汇率指数上涨0.7%至7月15日以来最高点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [长租酒店里的年轻人：月租5000以内我会一直住下去](https://www.cnbeta.com/articles/tech/1307427.htm) | Mon Aug 22 2022 7:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在北京天坛东门地铁站附近的这家酒店，散落在15平方米酒店房间的物件如同证据闪烁，映射着26岁女孩周芹的临时生活。卫生间洗漱台上横放着两支开封过的一次性牙刷，壁挂电视下方狭窄的长条桌上，堆砌着印着酒店店名的五个一次性纸杯。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [宇宙中最神秘的类星体：到底是啥？没人知道](https://www.cnbeta.com/articles/science/1307425.htm) | Mon Aug 22 2022 5:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;类星体是20世纪60年代天文学“四大发现”之一。在这之前，天文学家一直在观察夜空中的一些亮点。它们看起来就像一个光点，就像一颗星星，但很多特征又不像是星星，所以它们一开始非常神秘。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14显示屏的生产问题对Max机型的影响最大 对Pro机型的影响最小。](https://www.cnbeta.com/articles/tech/1307423.htm) | Mon Aug 22 2022 5:20 PM 
+- 🚀 [iPhone 14显示屏的生产问题被认为对Max机型的影响更大](https://www.cnbeta.com/articles/tech/1307423.htm) | Mon Aug 22 2022 5:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据显示屏分析师Ross Young今天提供的显示屏面板出货量和产量估计，新的6.7英寸非Pro&amp;quot;iPhone 14 Max&amp;quot;的供应量可能比其他一些iPhone 14型号更短缺。在6月至9月期间，iPhone 14 Pro Max的面板产量份额最高，占出货量的28%。iPhone 14和iPhone 14 Pro紧随其后，各占26%，但iPhone 14 Max落后，占19%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel GPU号称领先NVIDIA 2.5倍？细看尴尬了](https://www.cnbeta.com/articles/tech/1307421.htm) | Mon Aug 22 2022 5:03 PM 
+- 🎊 [Intel GPU号称领先NVIDIA 2.5倍？细看尴尬了](https://www.cnbeta.com/articles/tech/1307421.htm) | Mon Aug 22 2022 5:03 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Hot Chips 34大会史昂，Intel又公布了Ponte Vecchio GPU高性能计算卡的更多细节，包括性能数据。Ponte Vecchio GPU基于全新的Xe HPC高性能计算架构，使用5种不同制造工艺&lpar;Intel 7和台积电N7/N5等&rpar;、多种封装技术，整合了多达47个不同计算模块，晶体管数量超1000亿个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [今年是未来10年最凉爽的一年？中科院大气所回应：曲解论文原意](https://www.cnbeta.com/articles/science/1307419.htm) | Mon Aug 22 2022 5:02 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近这波高温威力着实不小，&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/2015108055/M1qKkBAvg&quot; target=&quot;_blank&quot;&gt;中央气象台&lt;/a&gt;已经表示，根据国家气候中心近日监测评估，综合考虑高温热浪事件的平均强度、影响范围和持续时间，从今年6月13日开始至今的区域性高温事件综合强度已达到1961年有完整气象观测记录以来最强，具有持续时间长、范围广、强度大、极端性强等特点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [富士康将投资3亿美元扩建越南工厂](https://www.cnbeta.com/articles/tech/1307417.htm) | Mon Aug 22 2022 5:02 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果供应链的主要合作伙伴富士康正计划投资3亿美元，扩大其在越南北部的生产设施，以努力提高产量。&lt;/strong&gt;这家苹果供应商与越南开发商Kinh Bac市签署了一份谅解备忘录，以投资该资金并扩大其现有工厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
