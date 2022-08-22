@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [共享充电宝客服回应涨价：年轻人不太在意](https://www.cnbeta.com/articles/tech/1307343.htm) | Mon Aug 22 2022 12:15 PM 
+- 🕯 [《雷神4：爱与雷霆》9月8日上线流媒体](https://hot.cnbeta.com/articles/movie/1307365.htm) | Mon Aug 22 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，一条“共享充电宝涨至4元每小时”的话题冲上热搜，共享充电宝价格由最开始的一元起量，经过多次涨价后成为广大消费者的吐槽点。&lt;strong&gt;充电宝的价格虽然涨了，但是体验却没有跟上，目前的共享充电宝普遍存在充电缓慢、电量不满、归还困难等问题。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;迪士尼+官推宣布《雷神4：爱与雷霆》将于9月8日上线该流媒体频道。当天一同上线的还有幕后纪录片《欧比旺·肯努比：一个绝地的回归》，《女浩克》（第四集），《赛车总动员》衍生动画剧集《赛车总动员：公路旅行》等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [索尼在英国被起诉“欺诈900万用户”要求赔偿50亿英镑](https://www.cnbeta.com/articles/tech/1307341.htm) | Mon Aug 22 2022 12:11 PM 
+- 💼 [滴滴出行、T3出行、曹操出行等11家平台公司被提醒式约谈](https://www.cnbeta.com/articles/tech/1307363.htm) | Mon Aug 22 2022 1:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼在英国被起诉“欺诈900万用户”要求赔偿50亿英镑。索尼 PlayStation 目前在英国被起诉赔偿50亿英镑，集体诉讼中称索尼利用市场地位抬高游戏价格“敲诈”了 900 万消费者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;交通运输部消息，8月22日，交通运输新业态协同监管部际联席会议办公室对滴滴出行、T3出行、高德、曹操出行、首汽约车、美团打车、万顺叫车、享道出行、如祺出行、阳光出行、嘀嗒出行等11家平台公司进行了提醒式约谈。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果新专利显示，其未来HMD或将使用智能指环帮助用户测量3D物体](https://www.cnbeta.com/articles/tech/1307339.htm) | Mon Aug 22 2022 12:09 PM 
+- 💂 [富士通与理研合作开发量子计算机 追赶中美优势企业](https://www.cnbeta.com/articles/tech/1307361.htm) | Mon Aug 22 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在7月中旬，苹果公司获得了他们基于AR的&amp;quot;测量&amp;quot;应用程序的第二个专利。本周，美国专利商标局公布了两项专利（01和02），涉及苹果的AR&amp;quot;测量&amp;quot;应用程序，专利以一种全新的方式测量用户的手腕尺寸，以便那些在线购买Apple Watch的人能够更好地确定他们应该购买的表带尺寸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据日经新闻报道，日本富士通公司与理研（RIKEN）合作，计划在2023财年对外推出量子计算机产品，富士通也将成为日本首家推出量子计算机产品的企业。报道称，富士通于去年4月开始与理研的合作，约有20名研究人员参与该项目，公司预计产品将于2023财年（今年4月起算）推出，首先将在公司内部财务预测以及新材料和药物研发中使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [LG推出全新14/16英寸Ultra PC笔记本电脑](https://www.cnbeta.com/articles/tech/1307337.htm) | Mon Aug 22 2022 12:07 PM 
+- 🚀 [1299元 三星Galaxy Buds2 Pro耳机发布：24-bit高保真音频](https://www.cnbeta.com/articles/tech/1307359.htm) | Mon Aug 22 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;LG宣布，将在欧洲地区推出新款14英寸和16英寸Ultra PC笔记本电脑。Ultra PC系列是围绕AMD硬件构建的，过去曾推出13.3英寸的型号，此次14英寸和16英寸型号将采用AMD代号Barcelo的芯片，Ryzen 5 5625U或Ryzen 7 5825U。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今晚，三星在国内举行了Galaxy新品发布会，除了两款折叠旗舰机，官方带来了三星Galaxy Buds2 Pro无线耳机。据了解，&lt;strong&gt;新款耳机相较上一代体积缩小了15%&lt;/strong&gt; ，还通过巧妙的结构设计兼顾了舒适贴合与耳机防滑，更加适合健身人士。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [吉祥航空母公司被传造车 或命名吉祥汽车](https://www.cnbeta.com/articles/tech/1307335.htm) | Mon Aug 22 2022 12:03 PM 
+- 🎊 [全通道4K+144Hz高刷：TCL T7G系列电视新品3599元起](https://www.cnbeta.com/articles/tech/1307357.htm) | Mon Aug 22 2022 1:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;日前，网上流传了一则关于吉祥航空母公司均瑶集团入局造车的传闻，并且将汽车品牌命名为吉祥汽车。&lt;/strong&gt;均瑶集团将成立新能源汽车产业基金，希望能在新能源汽车行业开创一家面向未来的公司。资料显示，均瑶集团创始于1991年。现已形成航空运输、金融服务、现代消费、教育服务、科技创新五大业务板块。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年5月，TCL推出了号称“第一台不忽悠年轻人的真高刷电视”T7E，凭借出色的配置与性价比获得了一致好评。&lt;strong&gt;今晚，TCL带来了真高刷电视系列的新品：T7G系列电视，在延续了T7E全通道4K+144Hz高刷这一核心优势的同时，进一步提升了产品性能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
