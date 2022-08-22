@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [马斯克回复2018年自己的推文：不可能的白日梦已经实现](https://www.cnbeta.com/articles/tech/1307257.htm) | Mon Aug 22 2022 8:19 AM 
+- 🕯 [充电5分钟续航200公里 明年6月新能源车超级快充标准将发布](https://www.cnbeta.com/articles/tech/1307283.htm) | Mon Aug 22 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月22日消息，&lt;strong&gt;马斯克今日发推文，回复了自己在2018年3月发起的有关Boring公司的投票，认为建造隧道以解决交通拥堵这一“不可能的白日梦”已经实现。&lt;/strong&gt;当时他曾发起投票，询问网友这是“不可能的白日梦”还是“地面上的愚蠢洞”？大部分人对隧道计划持否定意见。4年过去，他打趣回复道：“有趣的是，有很多人同时反应说‘这是不可能的’和‘3000&amp;nbsp;年前就已经完成了’。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;充电五分钟，续航200公里。手机厂商和车企的双向奔赴，已经“卷”到了广告词。8月15日，在小鹏汽车举行的超级补能发布会中，小鹏汽车董事长何小鹏着重介绍了S4超快充桩，其小鹏G9车型充电5分钟，续航便可达到200公里。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [郭明錤：华为Mate 50与iPhone 14谈不上交锋](https://www.cnbeta.com/articles/tech/1307255.htm) | Mon Aug 22 2022 8:17 AM 
+- 💼 [推动规范表达，抖音测试新功能“发文助手”](https://www.cnbeta.com/articles/tech/1307281.htm) | Mon Aug 22 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天上午，华为宣布将于9月6日发布Mate 50系列，恰好比网传的iPhone 14系列发布会提前一天。其实两者发布会撞期的消息，早在半个月前就已经被供应链上曝光，从当时开始就不断有人拿这两款机型对比，甚至称这将是两者的正面对决。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，抖音测试新功能“发文助手”，针对用户发布内容的不规范表达进行提醒。目前，该功能先期开放给粉丝10万以上的创作者测试使用，后续将逐步优化，开放给更多用户。抖音表示，将从源头开始，利用产品能力，切实服务用户使用规范表达。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [桌面RSS体验更新？ChromeOS 106迎来“关注该站点”新选项](https://www.cnbeta.com/articles/tech/1307253.htm) | Mon Aug 22 2022 8:14 AM 
+- 💂 [充电5分钟续航200公里，明年6月新能源车超级快充标准将发布](https://www.cnbeta.com/articles/tech/1307279.htm) | Mon Aug 22 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;上周，About Chromebooks 的 Kevin C. Tofel，在 ChromeOS 侧面板上看到了一个新的“消息流”（Feed）选项。&lt;/strong&gt;作为 Google Reader 的多年老用户，他一度怀疑这款 RSS 阅读器即将回归，但一时缺乏足够的证据。好消息是，在多方打听之后，我们现已非常确信这一点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;充电五分钟，续航200公里。手机厂商和车企的双向奔赴，已经“卷”到了广告词。&lt;/strong&gt;8月15日，在小鹏汽车举行的超级补能发布会中，小鹏汽车董事长何小鹏着重介绍了S4超快充桩，其小鹏G9车型充电5分钟，续航便可达到200公里。从快充到超级快充，在补能这条路上，新能源汽车走着和手机一样的方向，和加油一样的补能效率，将搬走燃油车主心头“最大的一块石头”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NIST团队展示“原子电视”：通过奇怪的原子云传输实时视频](https://www.cnbeta.com/articles/science/1307251.htm) | Mon Aug 22 2022 8:12 AM 
+- 🚀 [车祸已1个月 林志颖近况曝光：进食困难需靠鼻饲](https://www.cnbeta.com/articles/tech/1307277.htm) | Mon Aug 22 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国国家标准与技术研究院（NIST）的研究人员表明，原子云可以作为接收器来接收视频传输。&lt;strong&gt;该研究小组通过将实时视频信号，甚至视频游戏通过原子传输到显示器上，展示了这种 “原子电视”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;林志颖携子驾驶特斯拉遭遇车祸已经一个月了，仍然在艰难恢复中。有曝料称，林志颖在完成面部修复手术之后，&lt;strong&gt;遇到的第一个大问题，就是没法进食，因为整个面部的骨骼都重塑过了，尤其是下颚骨部分，因此无法动弹。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [机构鉴定戚薇直播间卖假货：官方否认售假](https://www.cnbeta.com/articles/tech/1307249.htm) | Mon Aug 22 2022 8:03 AM 
+- 🎊 [全国首个禁油省！海南2030年起禁售燃油汽车](https://www.cnbeta.com/articles/tech/1307275.htm) | Mon Aug 22 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月22日消息，ID名为“琉璃是什么璃”的网友发文称，&lt;strong&gt;今年2月从戚薇直播间购买的白泥面膜经过多次鉴定结果都是假货。&lt;/strong&gt;目前，该网友找到了一家科研鉴定机构，&lt;strong&gt;准确率99%的AI鉴别及5名资深鉴定师均判定其为“不符合正品工艺”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月22日，&lt;strong&gt;海南省人民政府印发《海南省碳达峰实施方案》，方案提出，大力推广新能源车船应用。&lt;/strong&gt;为加快推进社会运营交通领域清洁能源化，以轻型物流配送、城市环卫、租赁车、网约车等领域为重点，推动新能源车替代，鼓励私人用车新能源化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
