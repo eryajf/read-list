@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [去年价值270多万美元的随机生成艺术品 NFT，大家猜猜现在值多少钱了？](http://jandan.net/p/111192) | Sun Aug 21 2022 2:32 PM 
+- 🚀 [今日好价 0822](http://jandan.net/p/111194) | Mon Aug 22 2022 2:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    昨天很多蛋友不明白如何实名注册，简单说一下 
+    </details> 
+
+- 🙉 [去年价值270多万美元的随机生成艺术品 NFT，大家猜猜现在值多少钱了？](http://jandan.net/p/111192) | Sun Aug 21 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
     当时以992.5ETH的价格成交 
     </details> 
 
-- 🙉 [控制詹姆斯·韦布太空望远镜所有动作的程序，是JavaScript脚本](http://jandan.net/p/111178) | Sun Aug 21 2022 9:49 AM 
+- 🎉 [控制詹姆斯·韦布太空望远镜所有动作的程序，是JavaScript脚本](http://jandan.net/p/111178) | Sun Aug 21 2022 9:49 AM 
     <details><summary>展开描述 ...</summary> 
     不过，没有为望远镜安装运行JavaScript的 Web浏览器~ 
     </details> 
 
-- 🎉 [今日好价 0821](http://jandan.net/p/111190) | Sun Aug 21 2022 6:55 AM 
+- 🐲 [今日好价 0821](http://jandan.net/p/111190) | Sun Aug 21 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
     今天colt上线了实名吐槽，大家可以顺便抢注自己的ID 
     </details> 
 
-- 🐲 [我们确定了第一种能在火星土壤里生长的地球植物](http://jandan.net/p/111187) | Sun Aug 21 2022 5:22 AM 
+-  [我们确定了第一种能在火星土壤里生长的地球植物](http://jandan.net/p/111187) | Sun Aug 21 2022 5:22 AM 
     <details><summary>展开描述 ...</summary> 
     只要给它淡水 
-    </details> 
-
--  [脑力小体操  暗黑2 赚2000 或 赔15000 的投掷专精野蛮人](http://jandan.net/p/111185) | Sat Aug 20 2022 2:50 PM 
-    <details><summary>展开描述 ...</summary> 
-    之前打出一个+3毒系技能+20高速施展的NEC蓝权冠；一直不敢去找拉苏克打孔，怕打废了 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
