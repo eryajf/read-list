@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Zen 4锐龙7000好消息：AMD不会对PC处理器涨价](https://www.cnbeta.com/articles/tech/1307311.htm) | Mon Aug 22 2022 10:19 AM 
+- 🕯 [消息称苹果成为LG电子专利授权客户 已支付超过8000亿韩元授权费](https://www.cnbeta.com/articles/tech/1307321.htm) | Mon Aug 22 2022 10:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上一季度交出一份不给力的财报后，Intel也确认此前的传言，会在年底前对部分芯片进行调价，结果就是上涨，外界了解，幅度可能高达20%。那么AMD这边会否跟进呢？&lt;strong&gt;答案是否定的。虽然AMD这边也预计终端需求会有所下滑，但并不打算效仿友商的做法。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据国外媒体报道，今年4月份，LG电子披露他们收到了客户的一次性专利授权费，但他们并未披露具体的客户名称。而韩国媒体最新的消息显示，&lt;strong&gt;一季度向LG电子支付专利授权费的有两家公司，共支付了8900亿韩元，两家公司包括了苹果，并且Apple Pay了其中的绝大部分，超过8000亿韩元，也就是超过了5.6亿美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉德州超级工厂达到新里程碑：一周生产1000辆汽车](https://www.cnbeta.com/articles/tech/1307309.htm) | Mon Aug 22 2022 10:15 AM 
+- 💼 [我国将建造国际月球科研站 重型火箭、可重复火箭都来了](https://www.cnbeta.com/articles/science/1307319.htm) | Mon Aug 22 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据国外媒体报道，特斯拉位于德克萨斯州奥斯汀的超级工厂达到了一周生产1000辆汽车的里程碑。&lt;/strong&gt;德州超级工厂是特斯拉继内华达州超级工厂、纽约超级工厂、上海超级工厂和柏林超级工厂之后的第五家工厂，也是继弗里蒙特工厂、上海工厂和柏林工厂之后的第四家汽车组装工厂，该工厂于2021年底开始限量生产Model Y，并于今年4月份开始交付首批产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月20日，中国长征系列运载火箭迎来创纪录的连续第103次发射成功，与此同时，中国航天科技集团也官方宣布了未来的运载火箭新规划。&lt;strong&gt;长征系列火箭已经发展成为能够适应不同太空轨道发射需求的火箭谱系，能够将导航卫星、通信卫星、遥感卫星、载人飞船、空间探测器等送入太空轨道。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [水滴筹再回应筹款中介抽成高达七成：非平台抽取，坚决打击第三方恶意推广行为](https://www.cnbeta.com/articles/tech/1307307.htm) | Mon Aug 22 2022 10:13 AM 
+- 💂 [张朝阳建议大家少睡觉 科普：为何有时睡8小时还是很困](https://www.cnbeta.com/articles/tech/1307317.htm) | Mon Aug 22 2022 10:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;水滴公司今日在其官方微信号上发布声明称，近日有媒体报道“水滴筹筹款中介抽成最高达70%”。&lt;/strong&gt;事实上，所谓的筹款中介是由部分恶意推广的第三方商业组织运作。为筹款人提供不正当筹款方式的服务，对于此伤害用户和水滴品牌的行为，水滴筹采取零容忍态度，坚决抵制和打击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大佬们的言行总是那么与众不同，8月21日，张朝阳在直播时表示睡觉多了对人是一种伤害，&lt;strong&gt;他建议大家少睡，睡六个小时最好，如果能睡四个小时就很完美&lt;/strong&gt;。但在日常生活中，我们经常听到的是睡觉要睡够8个小时，否则会对身体产生不良影响，这对正在长身体的青少年儿童尤为重要。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [100W高品质充电，数据可兼得，mophie 100W C to C线评测](https://www.cnbeta.com/articles/tech/1307305.htm) | Mon Aug 22 2022 10:11 AM 
+- 🚀 [小米13型号已注册：新一代骁龙8 Gen2加持](https://www.cnbeta.com/articles/tech/1307315.htm) | Mon Aug 22 2022 10:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;mophie与苹果的紧密合作伙伴关系几乎是众所周知，有了解过的粉丝用户想必都知道苹果多对产品的严苛要求近乎于完美；尽管如此，mophie还是做到与苹果的长期合作，并且能在苹果的各大专卖店以及官网商城上架销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年7月，小米发布了小米12S系列。从口碑来看，骁龙8+的改进提升有目共睹。多方消息称，下一代骁龙8处理器（骁龙8 Gen2）同样采用台积电4nm工艺，有了制程的保障，手机厂商们研发的劲头想必十足。经查，在EEC认证数据库中已经出现了对应小米13的注册型号，&lt;strong&gt;包括2210132G、2210133G等，后缀的“G”代表Global，也就是全球版。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [趁核酸采样员小憩偷走扫码手机 男子被警方行拘](https://hot.cnbeta.com/articles/funny/1307303.htm) | Mon Aug 22 2022 10:02 AM 
+- 🎊 [旅游博主重庆雇轿上山遭网暴 被指花钱践踏别人尊严](https://www.cnbeta.com/articles/tech/1307313.htm) | Mon Aug 22 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月21日，记者从上海静安警方获悉，&lt;strong&gt;8月14日，某核酸采样亭工作人员钟女士报警称有人偷走了核酸检测点用于登记扫码的手机。当民警赶到钟女士所在的位置后，发现现场还有另一名男子。&lt;/strong&gt;钟女士说，正是该男子在8月12日凌晨偷走了手机。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1307303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，&lt;strong&gt;一旅游博主在网络上发视频称，自己在重庆武隆天坑游玩时，选择了坐轿子（当地叫滑竿）上山，但让他没有想到的是，居然遭遇网暴。&lt;/strong&gt;有网友指责：“大家都生而为人，你凭什么花钱践踏他的尊严”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
