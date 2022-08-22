@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [欧元汇率创二十年新低 华尔街称这不过只是个开始](https://www.cnbeta.com/articles/tech/1307429.htm) | Mon Aug 22 2022 7:38 PM 
+- 🕯 [TGA 2022举办日期公布 增加最佳改编剧本奖](https://hot.cnbeta.com/articles/game/1307439.htm) | Mon Aug 22 2022 10:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;因美元反弹且欧元区冬季可能处境艰难，欧元汇率跌至二十年新低。策略师们认为，跌势现在只是刚开了个头。&lt;/strong&gt;欧元兑美元周一一度下跌1.1%至0.9928美元，低于7月触及的20年低点0.9952，创2002年以来最低水平。美元即期汇率指数上涨0.7%至7月15日以来最高点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;The Game Awards日前宣布今天的颁奖典礼将于12月8日&lpar;周四&rpar;（北京时间周五）在加州洛杉矶的微软剧院举行。这是TGA的第9届活动，届时在40个数字视频平台上进行直播，包括YouTube、Twitch、Twitter和抖音。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [长租酒店里的年轻人：月租5000以内我会一直住下去](https://www.cnbeta.com/articles/tech/1307427.htm) | Mon Aug 22 2022 7:16 PM 
+- 💼 [AMC院线股价暴跌近42% 竞争对手Cineworld拟申请破产保护](https://hot.cnbeta.com/articles/movie/1307437.htm) | Mon Aug 22 2022 10:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在北京天坛东门地铁站附近的这家酒店，散落在15平方米酒店房间的物件如同证据闪烁，映射着26岁女孩周芹的临时生活。卫生间洗漱台上横放着两支开封过的一次性牙刷，壁挂电视下方狭窄的长条桌上，堆砌着印着酒店店名的五个一次性纸杯。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;由于竞争对手警告潜在的破产可能性和新的优先股类别上市，AMC院线股价周一收盘暴跌近42%。&lt;/strong&gt;AMC院线股价周一收盘暴跌41.95%，报10.46美元，盘中三次出发熔断。竞争对手Cineworld周一表示，作为重组目标的一部分，该公司正在考虑在美国自愿申请破产保护的可能性。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [宇宙中最神秘的类星体：到底是啥？没人知道](https://www.cnbeta.com/articles/science/1307425.htm) | Mon Aug 22 2022 5:20 PM 
+- 💂 [7000工人从哪里找？英特尔打造世界最大芯片厂遭遇劳力短缺](https://www.cnbeta.com/articles/tech/1307435.htm) | Mon Aug 22 2022 10:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;类星体是20世纪60年代天文学“四大发现”之一。在这之前，天文学家一直在观察夜空中的一些亮点。它们看起来就像一个光点，就像一颗星星，但很多特征又不像是星星，所以它们一开始非常神秘。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔公司正在美国俄亥俄州建造号称是“地球上最大的硅芯片制造基地”，将需要7000名工人。然而，影响建筑业的劳动力短缺问题可能会使其难以招募到所需要的工人。同时，行业对工人的竞争可能会放慢该地区住房建设的步伐，这正是英特尔工厂吸引越来越多的劳动力所需要获得的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14显示屏的生产问题被认为对Max机型的影响更大](https://www.cnbeta.com/articles/tech/1307423.htm) | Mon Aug 22 2022 5:20 PM 
+- 🚀 [从“心头好”到“心头痛” 盲盒乱象非治不可](https://www.cnbeta.com/articles/tech/1307433.htm) | Mon Aug 22 2022 10:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据显示屏分析师Ross Young今天提供的显示屏面板出货量和产量估计，新的6.7英寸非Pro&amp;quot;iPhone 14 Max&amp;quot;的供应量可能比其他一些iPhone 14型号更短缺。在6月至9月期间，iPhone 14 Pro Max的面板产量份额最高，占出货量的28%。iPhone 14和iPhone 14 Pro紧随其后，各占26%，但iPhone 14 Max落后，占19%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;未成年人充值消费成为盲盒消费投诉的重灾区之一。一些家长在投诉平台上反映，未成年人通过广告链接下载盲盒App后进行充值消费，少则几十元，多则上千元，家长向平台申请退款，一些平台要求收取支付费用的30%作为服务费，还有一些平台直接置之不理或拒绝退款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Intel GPU号称领先NVIDIA 2.5倍？细看尴尬了](https://www.cnbeta.com/articles/tech/1307421.htm) | Mon Aug 22 2022 5:03 PM 
+- 🎊 [为了打赢官司 马斯克向推特创始人多西索要文件](https://www.cnbeta.com/articles/tech/1307431.htm) | Mon Aug 22 2022 10:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Hot Chips 34大会史昂，Intel又公布了Ponte Vecchio GPU高性能计算卡的更多细节，包括性能数据。Ponte Vecchio GPU基于全新的Xe HPC高性能计算架构，使用5种不同制造工艺&lpar;Intel 7和台积电N7/N5等&rpar;、多种封装技术，整合了多达47个不同计算模块，晶体管数量超1000亿个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;马斯克向推特联合创始人杰克·多西（Jack Dorsey）索要文件，因为马斯克正在与推特打官司，他想废弃推特收购方案。去年11月多西辞去推特CEO职位，5月份离开推特董事会。马斯克曾于4月与推特达成收购协议，马斯克向多西索要与协议及虚假账户有关的文件和通信记录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
