@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [公安部交通管理科研所：不存在“2022年红绿灯新国标”](https://www.cnbeta.com/articles/tech/1307393.htm) | Mon Aug 22 2022 3:10 PM 
+- 🕯 [元宇宙自拍秀太丑遭群嘲 小扎更新照片解释：之前是随手一拍](https://www.cnbeta.com/articles/tech/1307405.htm) | Mon Aug 22 2022 4:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，网传“2022年将实施红绿灯新国标”，引发群众关注。对此，起草单位公安部交通管理科学研究所高度重视，现就有关情况作如下说明：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;小扎再次上传元宇宙虚拟照片，新照的建模更加精致。当地时间8月19日和20日，Meta CEO马克·扎克伯格（Mark Zuckerberg）分别于社交媒体脸书（Facebook）和Instagram上传虚拟形象照片，称上一张照片是“随手拍的”，以回应网友的嘲讽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [12代酷睿PS系列突然杀出：10核心功耗仅仅12W](https://www.cnbeta.com/articles/tech/1307391.htm) | Mon Aug 22 2022 3:08 PM 
+- 💼 [上海：优先支持有驾驶人的智能出租等开展示范运营活动](https://www.cnbeta.com/articles/tech/1307403.htm) | Mon Aug 22 2022 4:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在我们等待13代酷睿的时候，&lt;strong&gt;Intel意外发布了12代酷睿的一个新系列“Alder Lake-PS”，主要面向IoT物联网领域，最大特点就是功耗低。&lt;/strong&gt;Alder Lake-PS系列依然都是Intel 7制造工艺、大小核混合架构、锐炬Xe核芯显卡，内存支持DDR5-4800、DDR4-3200。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月22日，上海市交通委员会发布关于《上海市智能网联汽车示范运营实施细则（试行）（征求意见稿）》（以下简称《细则》）公开征询意见的公告称，上海市智能网联汽车发展已到关键时期，探索商业落地路径、打造闭环应用生态已成为行业共识。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [哈弗宣布2030年停售燃油车](https://www.cnbeta.com/articles/tech/1307389.htm) | Mon Aug 22 2022 3:08 PM 
+- 💂 [苹果广告“二分法”：Facebook不行 自己可以](https://www.cnbeta.com/articles/tech/1307401.htm) | Mon Aug 22 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在今晚的哈弗品牌新能源战略发布会上，哈弗品牌总经理李晓锐表示，计划2025年实现新能源销量占比80%，&lt;strong&gt;2030年，哈弗汽车将正式停售燃油车。&lt;/strong&gt;此前，长城汽车总裁穆峰表示，哈弗品牌全球用户量已经突破750万。自2011年第一代哈弗H6推出后，这款SUV已经在国内市场叱咤风云十余年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;未来，你会在iOS系统里看到越来越多的广告。长期跟踪苹果的彭博社记者马克·古尔曼（Mark Gurman）最近透露，苹果已经在内部测试了地图中的搜索广告。当你搜索商店、餐馆或者附近的其它企业时，地图就会显示推荐信息，就像苹果在App Store里做的那样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [台积电3nm将于9月量产：已锁定7大客户](https://www.cnbeta.com/articles/tech/1307387.htm) | Mon Aug 22 2022 3:06 PM 
+- 🚀 [交通运输新业态协同监管部际联席会议办公室约谈11家网约车平台公司](https://www.cnbeta.com/articles/tech/1307399.htm) | Mon Aug 22 2022 3:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7nm以后的先进节点，目前只有台积电、三星和Intel等厂商在玩了。三星这次非常速度，6月底就投产了3nm芯片，而且还用了理论上更先进的GAA环绕栅极晶体管技术，号称降低45%的功耗，减少16%的面积，同时提升23%的性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月22日消息，交通运输部官方微信公众号发布消息称，今日，交通运输新业态协同监管部际联席会议办公室对滴滴出行、T3出行、高德、曹操出行、首汽约车、美团打车、万顺叫车、享道出行、如祺出行、阳光出行、嘀嗒出行等11家平台公司进行了提醒式约谈。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [12999元 三星Galaxy Z Fold4折叠屏开始预售](https://www.cnbeta.com/articles/tech/1307385.htm) | Mon Aug 22 2022 3:06 PM 
+- 🎊 [报告显示新iPhone发布之前 iPhone 13销售仍然很强劲](https://www.cnbeta.com/articles/tech/1307397.htm) | Mon Aug 22 2022 3:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，三星Galaxy Z Fold4在各大电商平台开启预售，起售价为12999元（12GB+256GB）。与竞品小米MIX Fold 2对比，&lt;strong&gt;三星Galaxy Z Fold4价格更高，它比顶配版MIX Fold 2（12GB+1TB）版贵了1000元，后者价格是11999元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;就在新iPhone上市前几周，运营商的销售数据表明，&lt;strong&gt;与过去的周期相比，越来越少的人在等待苹果9月的活动来更新，而是现在就去购买苹果手机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
