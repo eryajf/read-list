@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英国制定2025年自动驾驶汽车发展路线图](https://www.cnbeta.com/articles/tech/1307159.htm) | Mon Aug 22 2022 3:52 AM 
+- 🕯 [华硕推出ProArt Display PA147CDV 32:9触屏创作显示器](https://www.cnbeta.com/articles/tech/1307177.htm) | Mon Aug 22 2022 5:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英国在8月19日表示，该国希望到2025年在道路上广泛部署自动驾驶汽车，并宣布了制定新法律和准备1亿英镑（约1.1909亿美元）资金的计划。英国政府表示，希望利用好新兴的自动驾驶汽车市场，该国预计自动驾驶汽车市场的规模将达到420亿英镑，并将创造3.8万个新的就业岗位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;华硕刚刚发布了定于 9 月底上市的 ProArt Display PA147CDV 触屏显示器，官方宣称这是一款旨在为创作者赋能、并简化其工作流程的生产力工具。&lt;/strong&gt;规格方面，其采用了 14 英寸 @ 32:9（1920×550 分辨率）的 IPS 面板，支持 10 点触控和微软 2.0 版手写笔协议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新特摄《雷古洛思奥特曼》先行预告 揭开不为人知的过去](https://hot.cnbeta.com/articles/comic/1307157.htm) | Mon Aug 22 2022 3:52 AM 
+- 💼 [《暗黑破坏神2：重制版》PTR服新特性将公布](https://hot.cnbeta.com/articles/game/1307175.htm) | Mon Aug 22 2022 5:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;圆谷公开了新特摄《雷古洛思奥特曼》的先行预告片，充满谜团的奥特英雄雷古洛思奥特曼终于要揭开他不为人知的过去。伴随着主题曲《Fist Of Hope》，一起来看红色斗士雷古洛思的回忆。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1307157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近期《暗黑破坏神3》《暗黑破坏神4》《暗黑破坏神：不朽》都有新消息公布，而《暗黑破坏神2：重制版》却没有动静。《暗黑2》社区经理表示，玩家们不用担心，本周将分享PTR测试服新消息，有重磅新特性将公布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [大众2024年起在挪威将只销售电动汽车](https://www.cnbeta.com/articles/tech/1307155.htm) | Mon Aug 22 2022 3:50 AM 
+- 💂 [威刚推出UE800系列512GB USB 3.2 Gen 2便携式闪存驱动器](https://www.cnbeta.com/articles/tech/1307173.htm) | Mon Aug 22 2022 4:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大众宣布，从2024年起该公司在挪威将只销售电动汽车。在电动汽车市场份额方面，挪威是世界领先的国家。2021年，在该国售出的所有新车中，64.5%为纯电动汽车。尽管挪威是一个主要的石油出口国，但是该国也是全球最可持续发展的国家之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;知名内存模组、存储卡、固态 / 便携式硬盘驱动器、兼游戏外设制造商之一的威刚科技，刚刚推出了 ELITE UE800 系列 USB 闪存驱动器新品。&lt;strong&gt;得益于 USB 3.2 Gen 2 接口，512GB 容量的 UE800 可在 PC、智能手机、平板电脑等兼容设备上，轻松达成 1000 MB/s 的传输速率。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [去年美国薪酬最高CEO：马斯克入账超100亿美元](https://www.cnbeta.com/articles/tech/1307153.htm) | Mon Aug 22 2022 3:50 AM 
+- 🚀 [因大量不当言论 《角斗场霸主》开发者被Steam禁言](https://hot.cnbeta.com/articles/game/1307171.htm) | Mon Aug 22 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据一项最新公布的CEO薪酬调查，特斯拉的埃隆-马斯克去年收入超过100亿美元，成为美国收入最高的CEO，这或许也是明面上能够查到的地表最高工资了。特斯拉竞争对手Rivian的CEO罗伯特-斯卡林格（Robert Scaringe）以仅23亿美元的薪酬获得亚军，而苹果CEO蒂姆-库克以8.53亿美元位居第三。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;角斗士管理模拟游戏《角斗场霸主（Domina）》开发商 Dolphin Barn 一直以来饱受争议。自去年5 月以来，开发者开始在游戏补丁说明和论坛中发表大量针对“软”男人和 LGBTQ 的长篇大论。游戏的官方账号在推特和 Bandcamp 上已经被封禁，而此前开发者曾发表了针对跨性别者的不当言论受到许多批评。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [欧洲极端高温致地中海珊瑚大规模死亡、西班牙葡萄酒产量减少](https://www.cnbeta.com/articles/tech/1307151.htm) | Mon Aug 22 2022 3:47 AM 
+- 🎊 [NASA带你聆听来自黑洞的混音](https://www.cnbeta.com/articles/science/1307169.htm) | Mon Aug 22 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;欧洲多国近期遭受的极端高温，不仅对民众的日常生活造成困扰，还对地中海的海洋生态系统造成严重破坏。&lt;/strong&gt;据美联社报道，高温天气使得地中海水温上升，包括西班牙巴塞罗那、法国里维耶拉等地水域正在经历异常的温度上升，比往年同期的正常温度要高出3到5摄氏度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;早在5月的黑洞周期间，NASA发布了一首混音作品，它将困扰着你，直到你的末日。更确切地说，航天局用了一个巨大的、畸形的黑洞声波制作了一段旋律。据悉，这个黑洞离地球有2亿多光年远。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
