@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [在实验动物脑子里，找到了制造恐惧感的神经元](http://jandan.net/p/111184) | Mon Aug 22 2022 4:45 AM 
+- 🚀 [人人都该练的三个健身项目](http://jandan.net/p/111197) | Mon Aug 22 2022 8:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    课代表：农夫行走、六角杠铃硬拉、深蹲 
+    </details> 
+
+- 🙉 [少算了10℃  当前极端高温高湿已超出了用于计算体感温度的热指数公式的适用范围](http://jandan.net/p/111193) | Mon Aug 22 2022 7:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    热指数是用来表征人体应对高温时的生理状态的指标，也就是所谓的体感温度 
+    </details> 
+
+- 🎉 [在实验动物脑子里，找到了制造恐惧感的神经元](http://jandan.net/p/111184) | Mon Aug 22 2022 4:45 AM 
     <details><summary>展开描述 ...</summary> 
     将所有威胁信号汇总到大脑的一个区域，可以帮助动物快速决策。 
     </details> 
 
-- 🙉 [今日好价 0822](http://jandan.net/p/111194) | Mon Aug 22 2022 2:45 AM 
+- 🐲 [今日好价 0822](http://jandan.net/p/111194) | Mon Aug 22 2022 2:45 AM 
     <details><summary>展开描述 ...</summary> 
     昨天很多蛋友不明白如何实名注册，简单说一下 
     </details> 
 
-- 🎉 [去年价值270多万美元的随机生成艺术品 NFT，大家猜猜现在值多少钱了？](http://jandan.net/p/111192) | Sun Aug 21 2022 2:32 PM 
+-  [去年价值270多万美元的随机生成艺术品 NFT，大家猜猜现在值多少钱了？](http://jandan.net/p/111192) | Sun Aug 21 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
     当时以992.5ETH的价格成交 
-    </details> 
-
-- 🐲 [控制詹姆斯·韦布太空望远镜所有动作的程序，是JavaScript脚本](http://jandan.net/p/111178) | Sun Aug 21 2022 9:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    不过，没有为望远镜安装运行JavaScript的 Web浏览器~ 
-    </details> 
-
--  [今日好价 0821](http://jandan.net/p/111190) | Sun Aug 21 2022 6:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天colt上线了实名吐槽，大家可以顺便抢注自己的ID 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
