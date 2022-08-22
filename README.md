@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [育碧+订阅服务可能很快将登陆Xbox](https://hot.cnbeta.com/articles/game/1307091.htm) | Mon Aug 22 2022 1:53 AM 
+- 🕯 [英国制定2025年自动驾驶汽车发展路线图](https://www.cnbeta.com/articles/tech/1307159.htm) | Mon Aug 22 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;育碧+订阅服务可能很快将登陆Xbox。推主ALumia_Italia在Xbox后端发现了育碧的Logo。今年1月育碧公布了该服务将登陆Xbox的消息，但看起来育碧很快就会把当前仅限PC平台的这一订阅服务带到Xbox。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英国在8月19日表示，该国希望到2025年在道路上广泛部署自动驾驶汽车，并宣布了制定新法律和准备1亿英镑（约1.1909亿美元）资金的计划。英国政府表示，希望利用好新兴的自动驾驶汽车市场，该国预计自动驾驶汽车市场的规模将达到420亿英镑，并将创造3.8万个新的就业岗位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《最后的生还者》HBO剧集官方预告 乔尔教艾莉开枪](https://hot.cnbeta.com/articles/movie/1307089.htm) | Mon Aug 22 2022 1:53 AM 
+- 💼 [新特摄《雷古洛思奥特曼》先行预告 揭开不为人知的过去](https://hot.cnbeta.com/articles/comic/1307157.htm) | Mon Aug 22 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;HBO公布了旗下多个电视剧集的混剪预告视频，其中包括游戏改编的《最后的生还者》剧集，在预告片中可以看到乔尔、艾莉等在内的多个标志性角色。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《最后的生还者》预告（1:43-2:03）：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;圆谷公开了新特摄《雷古洛思奥特曼》的先行预告片，充满谜团的奥特英雄雷古洛思奥特曼终于要揭开他不为人知的过去。伴随着主题曲《Fist Of Hope》，一起来看红色斗士雷古洛思的回忆。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1307157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《往日不再》游戏主创不满真人电影选角](https://hot.cnbeta.com/articles/game/1307087.htm) | Mon Aug 22 2022 1:52 AM 
+- 💂 [大众2024年起在挪威将只销售电动汽车](https://www.cnbeta.com/articles/tech/1307155.htm) | Mon Aug 22 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近Deadline独家报道称索尼打造《往日不再》真人电影，苏格兰演员山姆·修汉饰演男主Deacon St.John。消息曝光后，《往日不再》前主创John Garvin和Jeff Ross公开表达了这一选角的失望。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大众宣布，从2024年起该公司在挪威将只销售电动汽车。在电动汽车市场份额方面，挪威是世界领先的国家。2021年，在该国售出的所有新车中，64.5%为纯电动汽车。尽管挪威是一个主要的石油出口国，但是该国也是全球最可持续发展的国家之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [全美已有超1.4万例猴痘病例 纽约州报告首例未成年病例](https://www.cnbeta.com/articles/tech/1307085.htm) | Mon Aug 22 2022 1:51 AM 
+- 🚀 [去年美国薪酬最高CEO：马斯克入账超100亿美元](https://www.cnbeta.com/articles/tech/1307153.htm) | Mon Aug 22 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国《国会山报》8月21日报道，美国纽约卫生部门报告了首例未成年猴痘病例。据报道，&lt;strong&gt;美国纽约卫生部门更新的每周摘要指出，截至8月17日，在纽约州（不包括纽约市）的192例病例中，有一例为18岁以下的患者。&lt;/strong&gt;近来，美国猴痘病例持续增加。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据一项最新公布的CEO薪酬调查，特斯拉的埃隆-马斯克去年收入超过100亿美元，成为美国收入最高的CEO，这或许也是明面上能够查到的地表最高工资了。特斯拉竞争对手Rivian的CEO罗伯特-斯卡林格（Robert Scaringe）以仅23亿美元的薪酬获得亚军，而苹果CEO蒂姆-库克以8.53亿美元位居第三。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [网传育碧在开发《刀锋战士》游戏 你期待吗？](https://hot.cnbeta.com/articles/game/1307083.htm) | Mon Aug 22 2022 1:51 AM 
+- 🎊 [欧洲极端高温致地中海珊瑚大规模死亡、西班牙葡萄酒产量减少](https://www.cnbeta.com/articles/tech/1307151.htm) | Mon Aug 22 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近年来漫威不断与游戏公司合作开发游戏，比如《漫威蜘蛛侠》、《漫威银河护卫队》和《漫威金刚狼》。近日有传言称，育碧也在与漫威合作开发《刀锋战士》游戏，目前不清楚该游戏是否会与马赫沙拉·阿里饰演的角色相匹配。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;欧洲多国近期遭受的极端高温，不仅对民众的日常生活造成困扰，还对地中海的海洋生态系统造成严重破坏。&lt;/strong&gt;据美联社报道，高温天气使得地中海水温上升，包括西班牙巴塞罗那、法国里维耶拉等地水域正在经历异常的温度上升，比往年同期的正常温度要高出3到5摄氏度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
