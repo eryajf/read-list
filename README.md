@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [git clone 有没有办法在保留全部 git log 的情况下大幅度缩减 clone 的仓库大小](https://www.v2ex.com/t/874541#reply1) | Mon Aug 22 2022 5:27 AM
-- 🤗 [独立产品灵感周刊 DecoHack #027 - 这些开源项目很有用](https://www.v2ex.com/t/874532#reply0) | Mon Aug 22 2022 4:37 AM
-- 🎭 [有没有强迫症所有 err 必须处理的？](https://www.v2ex.com/t/874530#reply7) | Mon Aug 22 2022 4:32 AM
-- 🥷 [win11 一天蓝屏了三次，吃不消了](https://www.v2ex.com/t/874528#reply9) | Mon Aug 22 2022 4:29 AM
-- 🐵 [大家最近有收到各大银行和金融机构的信贷推销电话吗，这又是哪里的信息泄漏？](https://www.v2ex.com/t/874525#reply8) | Mon Aug 22 2022 4:18 AM<!-- v2ex:END -->
+- 🥸 [[提问]哪里有比较全面的 markdown 语法进行学习啊](https://www.v2ex.com/t/874548#reply6) | Mon Aug 22 2022 6:11 AM
+- 🤗 [git clone 有没有办法在保留全部 git log 的情况下大幅度缩减 clone 的仓库大小](https://www.v2ex.com/t/874541#reply4) | Mon Aug 22 2022 5:27 AM
+- 🎭 [独立产品灵感周刊 DecoHack #027 - 这些开源项目很有用](https://www.v2ex.com/t/874532#reply0) | Mon Aug 22 2022 4:37 AM
+- 🥷 [有没有强迫症所有 err 必须处理的？](https://www.v2ex.com/t/874530#reply10) | Mon Aug 22 2022 4:32 AM
+- 🐵 [win11 一天蓝屏了三次，吃不消了](https://www.v2ex.com/t/874528#reply13) | Mon Aug 22 2022 4:29 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
