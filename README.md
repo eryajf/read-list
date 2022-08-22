@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [两行代码搞定LeetCode最后一个单词的长度使用JavaScript解题|前端学算法](https://juejin.cn/post/7134577066925621279) | Mon Aug 22 2022 6:04 AM 
+- 🤗 [垃圾回收与算法](https://juejin.cn/post/7134591361764261918) | Mon Aug 22 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    使用JavaScript解决LeetCode算法题最后一个单词的长度，两行代码搞定；前端学算法每天一个知识点 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第9天，点击查看活动详情 大家好，我是小羽。 在我们平时的编码过程中，基本不会去关心程序中的内存管理情况以及垃圾回收问题，主要原因是 
     </details> 
 
-- 🎡 [Elasticsearch：使用向量搜索来查询及比较文字 - NLP text embedding](https://juejin.cn/post/7134576258733572110) | Mon Aug 22 2022 6:00 AM 
+- 🎡 [一道简单又有点意思的 JavaScript 手写题 —— 异步加法 asyncAdd](https://juejin.cn/post/7134583899597832200) | Mon Aug 22 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-    Elastic Stack 机器学习功能可以生成嵌入（embeddings），你可以使用它在非结构化文本中搜索或比较不同的文本片段。传统上，我们在搜索文本的时候，更加倾向于把文字进行分词，然后再对 t 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情。 前言 在掘金上发现一道既简单但个人觉得还挺有意思的一道题，题目如下： 你可以直接尝试实现下，考察下自己的 
     </details> 
 
-- 🕯 [亚马逊17亿美元收购iRobot；谷歌·Web性能权威指南电子书；宾大·现代统计学习课程资料；轻量化爬虫实现方案；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7134574970478264328) | Mon Aug 22 2022 5:55 AM 
+- 🕯 [iOS 摸鱼周报 #65 | 什么是精准测试](https://juejin.cn/post/7134581784196415501) | Mon Aug 22 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 08-22 期，OFPS通用光流处理库、构建在PyTorch之上的高级进化计算库、NERpy命名实体识别工具、适用于所有Web端站点的采集方案、SQLite资源列表、前沿论文 
+    本期概要 本期话题 整理编辑：zhangferry App Accelerator 近期有两场 Apple 加速器分享： 设计卓越的桌面级 iPad App，8 月 22 号。iPadOS 16 有一 
     </details> 
 
-- 🚀 [655. 输出二叉树 : 常规 DFS 运用题（树的遍历）](https://juejin.cn/post/7134570455142727693) | Mon Aug 22 2022 5:38 AM 
+- 🚀 [iOS 摸鱼周报 #64 | 与 App Store 专家会面交流](https://juejin.cn/post/7134581576251211784) | Mon Aug 22 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 题目描述 这是 LeetCode 上的 655. 输出二叉树 ，难度为 中等。 Tag : 「二叉树」、 
+    本期概要 本期话题 今年 8 月，把握与 App Store 专家会面交流的机会 @师大小海腾：想让你的产品页更加出色？对 TestFlight 或实施订阅有疑问？与 App Store 专家交流探讨 
     </details> 
 
-- 💪 [React团队是如何测试并发特性的](https://juejin.cn/post/7134549949194174471) | Mon Aug 22 2022 4:19 AM 
+- 💪 [iOS 摸鱼周报 #63 | Apple 企业家培训营已开放申请](https://juejin.cn/post/7134581385506848782) | Mon Aug 22 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我卡颂。 React18进入大家视野已经有一段时间了，不知道各位有没有尝试并发特性呢？ 当启用并发特性后，React会从同步更新变为异步、带优先级、可中断的更新。 这也为编写单元测试带来了一些 
+    本期概要 本期话题 Apple Entrepreneur Camp 已开放申请，欢迎女性、黑人和西班牙裔/拉丁裔创业者参加 @远恒之义：Apple Entrepreneur Camp（苹果企业家培训营 
     </details> 
 <!-- juejin:END -->
 ### 少数派
