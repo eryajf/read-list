@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [整了个 Markdown 文件图片处理上传工具，分享给有相同需求的小伙伴](https://www.v2ex.com/t/874683#reply0) | Mon Aug 22 2022 3:37 PM
-- 🤗 [iptables 劫持对外访问](https://www.v2ex.com/t/874673#reply1) | Mon Aug 22 2022 3:02 PM
-- 🎭 [win 下的 Linux 环境选择](https://www.v2ex.com/t/874664#reply13) | Mon Aug 22 2022 1:55 PM
-- 🥷 [业务系统是否真的需要 Elasticsearch?](https://www.v2ex.com/t/874663#reply9) | Mon Aug 22 2022 1:54 PM
-- 🐵 [禁止修改绑定邮箱的合规性疑问](https://www.v2ex.com/t/874661#reply3) | Mon Aug 22 2022 1:32 PM<!-- v2ex:END -->
+- 🥸 [2022 年，各位大佬 safari 跨域数据共享有新方案？](https://www.v2ex.com/t/874686#reply0) | Mon Aug 22 2022 4:41 PM
+- 🤗 [整了个 Markdown 文件图片处理上传工具，分享给有相同需求的小伙伴](https://www.v2ex.com/t/874683#reply0) | Mon Aug 22 2022 3:37 PM
+- 🎭 [iptables 劫持对外访问](https://www.v2ex.com/t/874673#reply2) | Mon Aug 22 2022 3:02 PM
+- 🥷 [win 下的 Linux 环境选择](https://www.v2ex.com/t/874664#reply17) | Mon Aug 22 2022 1:55 PM
+- 🐵 [业务系统是否真的需要 Elasticsearch?](https://www.v2ex.com/t/874663#reply9) | Mon Aug 22 2022 1:54 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
