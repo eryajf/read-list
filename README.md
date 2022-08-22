@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React团队是如何测试并发特性的](https://juejin.cn/post/7134549949194174471) | Mon Aug 22 2022 4:19 AM 
+- 🤗 [两行代码搞定LeetCode最后一个单词的长度使用JavaScript解题|前端学算法](https://juejin.cn/post/7134577066925621279) | Mon Aug 22 2022 6:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    使用JavaScript解决LeetCode算法题最后一个单词的长度，两行代码搞定；前端学算法每天一个知识点 
+    </details> 
+
+- 🎡 [Elasticsearch：使用向量搜索来查询及比较文字 - NLP text embedding](https://juejin.cn/post/7134576258733572110) | Mon Aug 22 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    Elastic Stack 机器学习功能可以生成嵌入（embeddings），你可以使用它在非结构化文本中搜索或比较不同的文本片段。传统上，我们在搜索文本的时候，更加倾向于把文字进行分词，然后再对 t 
+    </details> 
+
+- 🕯 [亚马逊17亿美元收购iRobot；谷歌·Web性能权威指南电子书；宾大·现代统计学习课程资料；轻量化爬虫实现方案；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7134574970478264328) | Mon Aug 22 2022 5:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 08-22 期，OFPS通用光流处理库、构建在PyTorch之上的高级进化计算库、NERpy命名实体识别工具、适用于所有Web端站点的采集方案、SQLite资源列表、前沿论文 
+    </details> 
+
+- 🚀 [655. 输出二叉树 : 常规 DFS 运用题（树的遍历）](https://juejin.cn/post/7134570455142727693) | Mon Aug 22 2022 5:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 题目描述 这是 LeetCode 上的 655. 输出二叉树 ，难度为 中等。 Tag : 「二叉树」、 
+    </details> 
+
+- 💪 [React团队是如何测试并发特性的](https://juejin.cn/post/7134549949194174471) | Mon Aug 22 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我卡颂。 React18进入大家视野已经有一段时间了，不知道各位有没有尝试并发特性呢？ 当启用并发特性后，React会从同步更新变为异步、带优先级、可中断的更新。 这也为编写单元测试带来了一些 
-    </details> 
-
-- 🎡 [MSE 费芮新金融行业标杆案例](https://juejin.cn/post/7134549320476393508) | Mon Aug 22 2022 4:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    费芮互动于2011年创立，目前是电通集团旗下公司。帮助零售客户实现数字化转型及相关解决方案的创新与研发，在中国数字化营销领域处于领先地位。 
-    </details> 
-
-- 🕯 [对于程序员来说，怎样才算是在写有“技术含量”的代码？](https://juejin.cn/post/7134547114725965838) | Mon Aug 22 2022 4:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    你好呀，我是歪歪。 我最近其实在思考一个问题： 为什么会想起思考这个看起来就很厉（装）害（逼）的问题呢？ 因为这就是知乎上的一个问题： 第一次看到这个问题的时候，我很快的就划过去了，完全就没有关注这个 
-    </details> 
-
-- 🚀 [【有奖评测局】阿里云容器镜像 ACR 测评团限时招募中！](https://juejin.cn/post/7134547239564738591) | Mon Aug 22 2022 4:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    为了帮助更多开发者了解容器镜像服务 ACR 的功能、使用方式和产品体验，阿里云容器镜像 ACR 产品测评团正在火热招募中，现在起加入活动，发布关于 ACR 的原创测评内容，即有机会获得多重定制好礼哦 
-    </details> 
-
-- 💪 [Spring Security + Vue + Flowable 怎么玩？](https://juejin.cn/post/7134543267198140452) | Mon Aug 22 2022 3:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    @[toc] 之前松哥发过一篇文章，和小伙伴们分享了 Spring Boot+Vue+Flowable 的具体玩法，传送门： SpringBoot+Vue+Flowable，模拟一个请假审批流程！ 不 
     </details> 
 <!-- juejin:END -->
 ### 少数派
