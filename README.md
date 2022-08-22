@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华硕推出ProArt Display PA147CDV 32:9触屏创作显示器](https://www.cnbeta.com/articles/tech/1307177.htm) | Mon Aug 22 2022 5:38 AM 
+- 🕯 [Geekbench数据库曝光Moto Edge 30 Fusion关键规格](https://www.cnbeta.com/articles/tech/1307209.htm) | Mon Aug 22 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;华硕刚刚发布了定于 9 月底上市的 ProArt Display PA147CDV 触屏显示器，官方宣称这是一款旨在为创作者赋能、并简化其工作流程的生产力工具。&lt;/strong&gt;规格方面，其采用了 14 英寸 @ 32:9（1920×550 分辨率）的 IPS 面板，支持 10 点触控和微软 2.0 版手写笔协议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;赶在传闻已久的 Moto Edge 30 Fusion 新机发布之前，Geekbench 基准测试数据库已抢先曝光了它的一些关键规格。&lt;/strong&gt;早段时间，该机已陆续获得了印度 BIS、TUV 和 FCC 等一系列认证，且最近有爆料称 Edge 30 Fusion 或是 Moto S30 Pro 的一个新马甲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《暗黑破坏神2：重制版》PTR服新特性将公布](https://hot.cnbeta.com/articles/game/1307175.htm) | Mon Aug 22 2022 5:16 AM 
+- 💼 [取消读秒争议最大 多地交管部门回应：未收到新版红绿灯启用通知](https://www.cnbeta.com/articles/tech/1307207.htm) | Mon Aug 22 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期《暗黑破坏神3》《暗黑破坏神4》《暗黑破坏神：不朽》都有新消息公布，而《暗黑破坏神2：重制版》却没有动静。《暗黑2》社区经理表示，玩家们不用担心，本周将分享PTR测试服新消息，有重磅新特性将公布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;九宫格新国标红绿灯取消读秒将推广的消息登上热搜，引发关注。&lt;strong&gt;@红星新闻 记者发现“九宫格”红绿灯的消息2021年就在网络流传。多地交管部门回应红星新闻记者，暂未均未收到更换通知&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [威刚推出UE800系列512GB USB 3.2 Gen 2便携式闪存驱动器](https://www.cnbeta.com/articles/tech/1307173.htm) | Mon Aug 22 2022 4:56 AM 
+- 💂 [石墨烯材料成为从电子垃圾中提取金的新环保方法的关键](https://www.cnbeta.com/articles/science/1307205.htm) | Mon Aug 22 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知名内存模组、存储卡、固态 / 便携式硬盘驱动器、兼游戏外设制造商之一的威刚科技，刚刚推出了 ELITE UE800 系列 USB 闪存驱动器新品。&lt;strong&gt;得益于 USB 3.2 Gen 2 接口，512GB 容量的 UE800 可在 PC、智能手机、平板电脑等兼容设备上，轻松达成 1000 MB/s 的传输速率。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，&lt;strong&gt;研究人员已经开发出一种有效的新方法，利用石墨烯从电子垃圾中回收金资源，而不需要任何其他化学品或能源。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [因大量不当言论 《角斗场霸主》开发者被Steam禁言](https://hot.cnbeta.com/articles/game/1307171.htm) | Mon Aug 22 2022 4:44 AM 
+- 🚀 [共享单车再次涨价 “最后一公里”还骑得起吗？](https://www.cnbeta.com/articles/tech/1307203.htm) | Mon Aug 22 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;角斗士管理模拟游戏《角斗场霸主（Domina）》开发商 Dolphin Barn 一直以来饱受争议。自去年5 月以来，开发者开始在游戏补丁说明和论坛中发表大量针对“软”男人和 LGBTQ 的长篇大论。游戏的官方账号在推特和 Bandcamp 上已经被封禁，而此前开发者曾发表了针对跨性别者的不当言论受到许多批评。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“最后一公里”又变贵了。继年初哈啰单车涨价后，8月，美团单车宣布部分骑行卡涨价，比如7天卡由10元调整为15元，幅度达到50%。这样的涨价幅度让不少用户感叹，仿佛遇到了“共享单车刺客”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NASA带你聆听来自黑洞的混音](https://www.cnbeta.com/articles/science/1307169.htm) | Mon Aug 22 2022 4:24 AM 
+- 🎊 [大厂为何钟爱“造人”？](https://www.cnbeta.com/articles/tech/1307201.htm) | Mon Aug 22 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;早在5月的黑洞周期间，NASA发布了一首混音作品，它将困扰着你，直到你的末日。更确切地说，航天局用了一个巨大的、畸形的黑洞声波制作了一段旋律。据悉，这个黑洞离地球有2亿多光年远。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为元宇宙里世界里的重要角色，虚拟数字人无疑成为了2022年的最大风口。冬奥会期间大概有30个虚拟数字人参与到冬奥会的相关活动。例如，数字记者“小诤”，虚拟偶像“麟犀组合”、谷爱凌数字分身“meetgu”、手语主播“聆语”、冬奥会宣传官“冬冬”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
