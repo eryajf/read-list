@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [育碧官方辟谣 否认在开发《刀锋战士》游戏](https://hot.cnbeta.com/articles/game/1307373.htm) | Mon Aug 22 2022 1:52 PM 
+- 🕯 [公安部交通管理科研所：不存在“2022年红绿灯新国标”](https://www.cnbeta.com/articles/tech/1307393.htm) | Mon Aug 22 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日有传闻称育碧正在开发一款《刀锋战士》游戏，但刚刚育碧官推做出澄清，否认了这一传闻。育碧表示：“很抱歉打破谣言，我们没有在开发《刀锋战士》游戏，但我们很期待看到我们在漫威工作室的朋友们正在为明年的电影所做的准备。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，网传“2022年将实施红绿灯新国标”，引发群众关注。对此，起草单位公安部交通管理科学研究所高度重视，现就有关情况作如下说明：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“卷”翻小达人，抖音的“流量密码”在哪里？](https://www.cnbeta.com/articles/tech/1307371.htm) | Mon Aug 22 2022 1:48 PM 
+- 💼 [12代酷睿PS系列突然杀出：10核心功耗仅仅12W](https://www.cnbeta.com/articles/tech/1307391.htm) | Mon Aug 22 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近一年来，抖音创作者@魔仙岛岛主 所在的本地生活赛道涌进了大量创作者。她感叹：“突然来的几千个小博主，让我觉得压力很大。有了分佣机制以后，更是人均博主，虽然卖出去一单只有几毛钱甚至几分钱，但可以靠量取胜。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;就在我们等待13代酷睿的时候，&lt;strong&gt;Intel意外发布了12代酷睿的一个新系列“Alder Lake-PS”，主要面向IoT物联网领域，最大特点就是功耗低。&lt;/strong&gt;Alder Lake-PS系列依然都是Intel 7制造工艺、大小核混合架构、锐炬Xe核芯显卡，内存支持DDR5-4800、DDR4-3200。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [哈弗宣布：2030年正式停售燃油车](https://www.cnbeta.com/articles/tech/1307369.htm) | Mon Aug 22 2022 1:46 PM 
+- 💂 [哈弗宣布2030年停售燃油车](https://www.cnbeta.com/articles/tech/1307389.htm) | Mon Aug 22 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在今晚的哈弗品牌新能源战略发布会上，哈弗品牌总经理李晓锐表示，计划2025年实现新能源销量占比80%，&lt;strong&gt;2030年，哈弗汽车将正式停售燃油车。&lt;/strong&gt;此前，长城汽车总裁穆峰表示，哈弗品牌全球用户量已经突破750万。自2011年第一代哈弗H6推出后，这款SUV已经在国内市场叱咤风云十余年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在今晚的哈弗品牌新能源战略发布会上，哈弗品牌总经理李晓锐表示，计划2025年实现新能源销量占比80%，&lt;strong&gt;2030年，哈弗汽车将正式停售燃油车。&lt;/strong&gt;此前，长城汽车总裁穆峰表示，哈弗品牌全球用户量已经突破750万。自2011年第一代哈弗H6推出后，这款SUV已经在国内市场叱咤风云十余年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果扩展自助维修项目 现覆盖MacBook Air和MacBook Pro](https://www.cnbeta.com/articles/tech/1307367.htm) | Mon Aug 22 2022 1:44 PM 
+- 🚀 [台积电3nm将于9月量产：已锁定7大客户](https://www.cnbeta.com/articles/tech/1307387.htm) | Mon Aug 22 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 2022 年年初推出适用于 iPhone 的 Self Repair Program 之后，苹果进一步扩展这项自助维修计划。&lt;strong&gt;苹果现在已将 MacBook Air 和 MacBook Pro 添加到符合该计划条件的设备列表中，但不包括配备 M2 处理器的版本。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7nm以后的先进节点，目前只有台积电、三星和Intel等厂商在玩了。三星这次非常速度，6月底就投产了3nm芯片，而且还用了理论上更先进的GAA环绕栅极晶体管技术，号称降低45%的功耗，减少16%的面积，同时提升23%的性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《雷神4：爱与雷霆》9月8日上线流媒体](https://hot.cnbeta.com/articles/movie/1307365.htm) | Mon Aug 22 2022 1:33 PM 
+- 🎊 [12999元 三星Galaxy Z Fold4折叠屏开始预售](https://www.cnbeta.com/articles/tech/1307385.htm) | Mon Aug 22 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;迪士尼+官推宣布《雷神4：爱与雷霆》将于9月8日上线该流媒体频道。当天一同上线的还有幕后纪录片《欧比旺·肯努比：一个绝地的回归》，《女浩克》（第四集），《赛车总动员》衍生动画剧集《赛车总动员：公路旅行》等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，三星Galaxy Z Fold4在各大电商平台开启预售，起售价为12999元（12GB+256GB）。与竞品小米MIX Fold 2对比，&lt;strong&gt;三星Galaxy Z Fold4价格更高，它比顶配版MIX Fold 2（12GB+1TB）版贵了1000元，后者价格是11999元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
