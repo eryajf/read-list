@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Intel GPU号称领先NVIDIA 2.5倍？细看尴尬了](https://www.cnbeta.com/articles/tech/1307421.htm) | Mon Aug 22 2022 5:03 PM 
+- 🕯 [宇宙中最神秘的类星体：到底是啥？没人知道](https://www.cnbeta.com/articles/science/1307425.htm) | Mon Aug 22 2022 5:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;类星体是20世纪60年代天文学“四大发现”之一。在这之前，天文学家一直在观察夜空中的一些亮点。它们看起来就像一个光点，就像一颗星星，但很多特征又不像是星星，所以它们一开始非常神秘。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iPhone 14显示屏的生产问题对Max机型的影响最大 对Pro机型的影响最小。](https://www.cnbeta.com/articles/tech/1307423.htm) | Mon Aug 22 2022 5:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;根据显示屏分析师Ross Young今天提供的显示屏面板出货量和产量估计，新的6.7英寸非Pro&amp;quot;iPhone 14 Max&amp;quot;的供应量可能比其他一些iPhone 14型号更短缺。在6月至9月期间，iPhone 14 Pro Max的面板产量份额最高，占出货量的28%。iPhone 14和iPhone 14 Pro紧随其后，各占26%，但iPhone 14 Max落后，占19%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Intel GPU号称领先NVIDIA 2.5倍？细看尴尬了](https://www.cnbeta.com/articles/tech/1307421.htm) | Mon Aug 22 2022 5:03 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Hot Chips 34大会史昂，Intel又公布了Ponte Vecchio GPU高性能计算卡的更多细节，包括性能数据。Ponte Vecchio GPU基于全新的Xe HPC高性能计算架构，使用5种不同制造工艺&lpar;Intel 7和台积电N7/N5等&rpar;、多种封装技术，整合了多达47个不同计算模块，晶体管数量超1000亿个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [今年是未来10年最凉爽的一年？中科院大气所回应：曲解论文原意](https://www.cnbeta.com/articles/science/1307419.htm) | Mon Aug 22 2022 5:02 PM 
+- 🚀 [今年是未来10年最凉爽的一年？中科院大气所回应：曲解论文原意](https://www.cnbeta.com/articles/science/1307419.htm) | Mon Aug 22 2022 5:02 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近这波高温威力着实不小，&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/2015108055/M1qKkBAvg&quot; target=&quot;_blank&quot;&gt;中央气象台&lt;/a&gt;已经表示，根据国家气候中心近日监测评估，综合考虑高温热浪事件的平均强度、影响范围和持续时间，从今年6月13日开始至今的区域性高温事件综合强度已达到1961年有完整气象观测记录以来最强，具有持续时间长、范围广、强度大、极端性强等特点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [富士康将投资3亿美元扩建越南工厂](https://www.cnbeta.com/articles/tech/1307417.htm) | Mon Aug 22 2022 5:02 PM 
+- 🎊 [富士康将投资3亿美元扩建越南工厂](https://www.cnbeta.com/articles/tech/1307417.htm) | Mon Aug 22 2022 5:02 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;苹果供应链的主要合作伙伴富士康正计划投资3亿美元，扩大其在越南北部的生产设施，以努力提高产量。&lt;/strong&gt;这家苹果供应商与越南开发商Kinh Bac市签署了一份谅解备忘录，以投资该资金并扩大其现有工厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [不止Mate 50 小米12T系列也在9月登场：骁龙8系直屏旗舰](https://www.cnbeta.com/articles/tech/1307415.htm) | Mon Aug 22 2022 5:01 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月份，我们将迎来多款重要机型，&lt;strong&gt;包括iPhone 14系列、华为Mate 50系列。&lt;/strong&gt;现在最新爆料表明，9月份小米也会推出新产品。今日消息，小米12T、小米12T Pro获得马来西亚SIRIM认证，&lt;strong&gt;型号分别是22071212AG、22081212UG。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [ofo小黄车公众号发擦边推文 篇篇10万+](https://www.cnbeta.com/articles/tech/1307413.htm) | Mon Aug 22 2022 4:58 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;ofo小黄车已经死了，但它似乎还没有完全离去……近日有网友发现，&lt;strong&gt;“ofo小黄车”官方公众号依然存在，而且还在持续更新。&lt;/strong&gt;但是，&lt;strong&gt;推送内容和共享单车等正经业务没啥关系，几乎全部都是标题党八卦文章。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
