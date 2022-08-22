@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [皇马中场卡塞米罗正式加盟曼联，他会给曼联带来哪些帮助？](http://daily.zhihu.com/story/9751975) | Sun Aug 21 2022 12:27 AM
-- 🐻 [为了吃掉碗中最后一粒米所消耗的能量和这粒米所能提供的能量哪个多？](http://daily.zhihu.com/story/9751976) | Sun Aug 21 2022 12:27 AM
-- 🌏 [为什么日本海鱼可以做顶级刺身，而中国的海鱼却大多做熟？](http://daily.zhihu.com/story/9751979) | Sun Aug 21 2022 12:27 AM
-- 🕴 [非洲人都吃什么？](http://daily.zhihu.com/story/9751986) | Sun Aug 21 2022 12:27 AM
-- 🌮 [如何在家中通过一些东西增加安全感？](http://daily.zhihu.com/story/9751987) | Sun Aug 21 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9752033) | Mon Aug 22 2022 12:27 AM
+- 🐻 [为什么鼠标放在鼠标垫上会更灵敏？](http://daily.zhihu.com/story/9752000) | Mon Aug 22 2022 12:27 AM
+- 🌏 [长期睡眠不足会不会对智力造成永久性损伤吗？](http://daily.zhihu.com/story/9752004) | Mon Aug 22 2022 12:27 AM
+- 🕴 [中国的芯片工业水平能否在10年内达到世界前列呢？](http://daily.zhihu.com/story/9752010) | Mon Aug 22 2022 12:27 AM
+- 🌮 [猫咪得了抑郁症会有什么症状？](http://daily.zhihu.com/story/9752019) | Mon Aug 22 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
