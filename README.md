@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [SSH Config Editor 2.6-b SSH配置编辑器](https://xclient.info/s/ssh-config-editor.html) | Fri Aug 19 2022 1:45 AM 
+- 🦏 [4K YouTube to MP3 4.6.2 在线视频提取音乐](https://xclient.info/s/4k-youtube-to-mp3.html) | Mon Aug 22 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-    SSH Config Editor是一款运行在macOS平台上的SSH配置编辑软件，可以帮助用户管理ssh配置文件，如果您的电脑上有ssh配置文件，那么更加需要使用它。 
+    4K YouTube to MP3是一款macOS平台中在线音乐下载器，专门创建从YouTube，Vimeo的或Facebook提取音频的软件。它支持从YouTube下载有声电子书，下载完成后可以直接使用软件界面中内嵌的音频播放器收听音频文件。 
     </details> 
 
--  [Perfectly Clear WorkBench 4.1.2.2326 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Fri Aug 19 2022 1:45 AM 
+-  [4K Video Downloader 4.21.2 下载高品质的YouTube视频](https://xclient.info/s/4k-video-downloader.html) | Mon Aug 22 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
+    4K Video Downloader 是“一个视频下载工具，如此简单，就是一个视频下载工具该有的样子”。复制 YouTube 视频链接并点击界面左上角的 “Paste URL”，就能自动识别 4K 甚至是原始分辨率片源。接下来，选择分辨率、格式后就开始下载了。 
     </details> 
 
-- ⚗️ [Mitti 2.2.2 专业视频回放解决方案](https://xclient.info/s/mitti.html) | Fri Aug 19 2022 1:44 AM 
+- ⚗️ [Wondershare UniConverter 14.1.1.1 视频编辑转换工具](https://xclient.info/s/wondershare-uniconverter.html) | Mon Aug 22 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Mitti 是一款macOS平台的功能强大且易于使用的专业视频回放解决方案，适用于剧院，视听表演，表演和展览，具有清晰，直观，整洁的用户界面，易于学习和使用的工作流程，在现代的64位低延迟音频之上，以及强大的GPU加速视频播放引擎。 
+    Wondershare UniConverter 是一款功能强大的视频编辑工具，集视频下载，转换，剪辑，刻录等多功能于一体，能够帮助用户轻松进行视频处理。 
     </details> 
 
-- 🔥 [Feeder 4.3.10 创建和发布RSS](https://xclient.info/s/feeder.html) | Fri Aug 19 2022 1:43 AM 
+- 🔥 [Navicat Premium 16.1.1 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Mon Aug 22 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
+    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
     </details> 
 
-- 🌋 [Downie 4.5.8 视频下载工具](https://xclient.info/s/downie.html) | Fri Aug 19 2022 1:42 AM 
+- 🌋 [Adobe Acrobat Pro DC 22.002.20191 强大的PDF编辑软件](https://xclient.info/s/adobe-acrobat-pro-dc.html) | Mon Aug 22 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    简单的拖放链接到Downie，它就会下载该网站上的视频。 
+    该产品颠覆了当今文件的处理方式，旨在提高文件处理效率！ 
     </details> 
 <!-- xclient:END -->
 
