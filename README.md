@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [字典服务的设计与管理](https://juejin.cn/post/7134691897313853471) | Mon Aug 22 2022 1:29 PM 
+- 🤗 [Redis主从复制搭建](https://juejin.cn/post/7134700401651089444) | Mon Aug 22 2022 2:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第20天，点击查看活动详情 Redis主从复制简介 Redis主从复制指的是一台Redis数据库，后面挂多个从库，我们将从2方便来讲 
+    </details> 
+
+- 🎡 [ECCV 2022 | ScalableViT：重新思考视觉Transformer面向上下文的泛化](https://juejin.cn/post/7134694605659832351) | Mon Aug 22 2022 1:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    论文提出了一种可伸缩自我注意&lpar;Scalable Self-Attention, SSA&rpar;机制，该机制利用两个可伸缩因子来释放查询、键和值矩阵的维度，同时解除它们与输入的绑定。 
+    </details> 
+
+- 🕯 [React17 事件机制](https://juejin.cn/post/7134694516887388191) | Mon Aug 22 2022 1:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 接触过 React 技术栈的同学相信都了解，React 团队在源码中实现了一套事件机制来代替原生浏览器事件，其目的是： 抹平事件对象在不同浏览器上的差异，如不同浏览器下的阻止事件冒泡（Synth 
+    </details> 
+
+- 🚀 [字典服务的设计与管理](https://juejin.cn/post/7134691897313853471) | Mon Aug 22 2022 1:29 PM 
     <details><summary>展开描述 ...</summary> 
     在字典服务中提供的枚举值，根本目的是为了确保数据值的统一性，尽可能的避免同一个信息存在两种方式描述。 
     </details> 
 
-- 🎡 [六六力扣刷题链表之环形链表](https://juejin.cn/post/7134684178436030477) | Mon Aug 22 2022 12:58 PM 
+- 💪 [六六力扣刷题链表之环形链表](https://juejin.cn/post/7134684178436030477) | Mon Aug 22 2022 12:58 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第6天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两台晒网，刷几天，然后 
-    </details> 
-
-- 🕯 [「MySQL高级篇」MySQL之MVCC实现原理&amp;&amp;事务隔离级别的实现](https://juejin.cn/post/7134680595581861919) | Mon Aug 22 2022 12:45 PM 
-    <details><summary>展开描述 ...</summary> 
-    ①MVCC定义，用处，快照读，当前读 ②MVCC实现原理：隐藏字段，readview，undo log ③readview访问规则 ④事务隔离级别的具体实现 
-    </details> 
-
-- 🚀 [C# 提取经纬度文件中的经纬度数据](https://juejin.cn/post/7134679792607035399) | Mon Aug 22 2022 12:42 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第22天，点击查看活动详情 前言： 之前我们使用对List将数据封装进KML经纬度文件中，今天我们来学习一下如何将经纬度文件中的经纬 
-    </details> 
-
-- 💪 [彩虹女神跃长空,Go语言进阶之Go语言高性能Web框架Iris项目实战-用户系统EP03](https://juejin.cn/post/7134675902037753892) | Mon Aug 22 2022 12:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    前文再续，之前一篇我们已经配置好了数据库以及模板引擎，现在可以在逻辑层编写具体业务代码了，博客平台和大多数在线平台一样，都是基于用户账号体系来进行操作，所以我们需要针对用户表完成用户账号的CURD操作 
     </details> 
 <!-- juejin:END -->
 ### 少数派
