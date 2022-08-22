@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《雷神4：爱与雷霆》9月8日上线流媒体](https://hot.cnbeta.com/articles/movie/1307365.htm) | Mon Aug 22 2022 1:33 PM 
+- 🕯 [育碧官方辟谣 否认在开发《刀锋战士》游戏](https://hot.cnbeta.com/articles/game/1307373.htm) | Mon Aug 22 2022 1:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日有传闻称育碧正在开发一款《刀锋战士》游戏，但刚刚育碧官推做出澄清，否认了这一传闻。育碧表示：“很抱歉打破谣言，我们没有在开发《刀锋战士》游戏，但我们很期待看到我们在漫威工作室的朋友们正在为明年的电影所做的准备。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [“卷”翻小达人，抖音的“流量密码”在哪里？](https://www.cnbeta.com/articles/tech/1307371.htm) | Mon Aug 22 2022 1:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近一年来，抖音创作者@魔仙岛岛主 所在的本地生活赛道涌进了大量创作者。她感叹：“突然来的几千个小博主，让我觉得压力很大。有了分佣机制以后，更是人均博主，虽然卖出去一单只有几毛钱甚至几分钱，但可以靠量取胜。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [哈弗宣布：2030年正式停售燃油车](https://www.cnbeta.com/articles/tech/1307369.htm) | Mon Aug 22 2022 1:46 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在今晚的哈弗品牌新能源战略发布会上，哈弗品牌总经理李晓锐表示，计划2025年实现新能源销量占比80%，&lt;strong&gt;2030年，哈弗汽车将正式停售燃油车。&lt;/strong&gt;此前，长城汽车总裁穆峰表示，哈弗品牌全球用户量已经突破750万。自2011年第一代哈弗H6推出后，这款SUV已经在国内市场叱咤风云十余年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [苹果扩展自助维修项目 现覆盖MacBook Air和MacBook Pro](https://www.cnbeta.com/articles/tech/1307367.htm) | Mon Aug 22 2022 1:44 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在 2022 年年初推出适用于 iPhone 的 Self Repair Program 之后，苹果进一步扩展这项自助维修计划。&lt;strong&gt;苹果现在已将 MacBook Air 和 MacBook Pro 添加到符合该计划条件的设备列表中，但不包括配备 M2 处理器的版本。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [《雷神4：爱与雷霆》9月8日上线流媒体](https://hot.cnbeta.com/articles/movie/1307365.htm) | Mon Aug 22 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;迪士尼+官推宣布《雷神4：爱与雷霆》将于9月8日上线该流媒体频道。当天一同上线的还有幕后纪录片《欧比旺·肯努比：一个绝地的回归》，《女浩克》（第四集），《赛车总动员》衍生动画剧集《赛车总动员：公路旅行》等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [滴滴出行、T3出行、曹操出行等11家平台公司被提醒式约谈](https://www.cnbeta.com/articles/tech/1307363.htm) | Mon Aug 22 2022 1:30 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;交通运输部消息，8月22日，交通运输新业态协同监管部际联席会议办公室对滴滴出行、T3出行、高德、曹操出行、首汽约车、美团打车、万顺叫车、享道出行、如祺出行、阳光出行、嘀嗒出行等11家平台公司进行了提醒式约谈。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [富士通与理研合作开发量子计算机 追赶中美优势企业](https://www.cnbeta.com/articles/tech/1307361.htm) | Mon Aug 22 2022 1:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据日经新闻报道，日本富士通公司与理研（RIKEN）合作，计划在2023财年对外推出量子计算机产品，富士通也将成为日本首家推出量子计算机产品的企业。报道称，富士通于去年4月开始与理研的合作，约有20名研究人员参与该项目，公司预计产品将于2023财年（今年4月起算）推出，首先将在公司内部财务预测以及新材料和药物研发中使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [1299元 三星Galaxy Buds2 Pro耳机发布：24-bit高保真音频](https://www.cnbeta.com/articles/tech/1307359.htm) | Mon Aug 22 2022 1:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今晚，三星在国内举行了Galaxy新品发布会，除了两款折叠旗舰机，官方带来了三星Galaxy Buds2 Pro无线耳机。据了解，&lt;strong&gt;新款耳机相较上一代体积缩小了15%&lt;/strong&gt; ，还通过巧妙的结构设计兼顾了舒适贴合与耳机防滑，更加适合健身人士。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [全通道4K+144Hz高刷：TCL T7G系列电视新品3599元起](https://www.cnbeta.com/articles/tech/1307357.htm) | Mon Aug 22 2022 1:24 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年5月，TCL推出了号称“第一台不忽悠年轻人的真高刷电视”T7E，凭借出色的配置与性价比获得了一致好评。&lt;strong&gt;今晚，TCL带来了真高刷电视系列的新品：T7G系列电视，在延续了T7E全通道4K+144Hz高刷这一核心优势的同时，进一步提升了产品性能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
