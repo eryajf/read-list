@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一文搞懂Flink架构与任务编排｜青训营笔记](https://juejin.cn/post/7134612919861870599) | Mon Aug 22 2022 8:22 AM 
+- 🤗 [周一见！距离阿里巴巴开源开放周还有3天](https://juejin.cn/post/7134631504822894623) | Mon Aug 22 2022 9:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    面对快速变化的世界，开源领域涌现了哪些新技术和发展模式？开源社区建设又有哪些新进展和创新实践？下周 8月22日-24日，连续三天，精彩不止。锁定&quot;阿里技术&quot;视频号直播和开发者和开源爱好者一起探索开源领 
+    </details> 
+
+- 🎡 [深入源码彻底搞清vue3中reactive和ref的区别](https://juejin.cn/post/7134631293941186567) | Mon Aug 22 2022 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、前言 在vue3的日常开发中，我发现很多人都是基于自己的习惯reactive或ref一把梭，虽然这样都可以实现需求，既然这样那为什么已经有了reactive还需要再去设计一个ref呢？这两者的实际 
+    </details> 
+
+- 🕯 [Element 2 组件源码剖析之Steps 步骤条&lpar;上&rpar;-组件状态初始化](https://juejin.cn/post/7134625447459241992) | Mon Aug 22 2022 9:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    步骤条组件`Steps`是引导用户按照流程完成任务的分步导航条。当任务复杂或者存在先后关系时，将其分解成一系列步骤，从而简化任务。 
+    </details> 
+
+- 🚀 [一文搞懂Flink架构与任务编排｜青训营笔记](https://juejin.cn/post/7134612919861870599) | Mon Aug 22 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
     本文主要讲述Flink的整体架构，以及流处理任务涉及的各个算子的调度编排机制。为模仿实现一个简易流处理引擎作下铺垫。 
     </details> 
 
-- 🎡 [一文读懂TypeScript类型兼容性](https://juejin.cn/post/7134611530649174023) | Mon Aug 22 2022 8:16 AM 
+- 💪 [一文读懂TypeScript类型兼容性](https://juejin.cn/post/7134611530649174023) | Mon Aug 22 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 8 天，点击查看活动详情 &gt;&gt; JavaScript是一门弱类型语言，它对类型是弱校验，正因为这个特点，所以才有了TypeScr 
-    </details> 
-
-- 🕯 [Strategy Pattern 教你秒变“神枪手”](https://juejin.cn/post/7134610146688401445) | Mon Aug 22 2022 8:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    写代码总是很多 if/else 写不动？吃鸡总是落地成盒玩不动？这篇文章帮你解决这两个问题！将策略模式应用于吃鸡，帮你学习设计模式的同时游戏也能大吉大利，还等什么，快来看看吧～ 
-    </details> 
-
-- 🚀 [微信公众号开发（四）获取用户信息](https://juejin.cn/post/7134607086184300552) | Mon Aug 22 2022 7:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 获取用户信息，微信公众号提供了两种方式： 一、通过全局baiAccess Token获取用户基本信息 1 
-    </details> 
-
-- 💪 [最后一公里：从直播拉流读懂直播链路](https://juejin.cn/post/7134601774266056717) | Mon Aug 22 2022 7:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    直播链路中都有哪些角色？这些角色要解决的是哪些问题？要优化某个环节时需要哪些角色的配合？这些角色优化链路的手段有哪些？本文从直播拉流切入，力求帮助有兴趣的同学简单明了而全面地理解整个直播链路。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
