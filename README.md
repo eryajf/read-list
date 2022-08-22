@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[提问]哪里有比较全面的 markdown 语法进行学习啊](https://www.v2ex.com/t/874548#reply6) | Mon Aug 22 2022 6:11 AM
-- 🤗 [git clone 有没有办法在保留全部 git log 的情况下大幅度缩减 clone 的仓库大小](https://www.v2ex.com/t/874541#reply4) | Mon Aug 22 2022 5:27 AM
-- 🎭 [独立产品灵感周刊 DecoHack #027 - 这些开源项目很有用](https://www.v2ex.com/t/874532#reply0) | Mon Aug 22 2022 4:37 AM
-- 🥷 [有没有强迫症所有 err 必须处理的？](https://www.v2ex.com/t/874530#reply10) | Mon Aug 22 2022 4:32 AM
-- 🐵 [win11 一天蓝屏了三次，吃不消了](https://www.v2ex.com/t/874528#reply13) | Mon Aug 22 2022 4:29 AM<!-- v2ex:END -->
+- 🥸 [centos7.9 装了 3.10-1060 内核后重启到 root 登录后重启，该怎么从日志排查重启原因](https://www.v2ex.com/t/874568#reply0) | Mon Aug 22 2022 7:08 AM
+- 🤗 [有没有哪一种软件，都可以像 Burpsuite 那样,可以对电脑自身发出去的报文一个包，一个包进行分析，审核，篡改？](https://www.v2ex.com/t/874561#reply7) | Mon Aug 22 2022 6:42 AM
+- 🎭 [如何启用 google billing accounts](https://www.v2ex.com/t/874560#reply0) | Mon Aug 22 2022 6:40 AM
+- 🥷 [[提问]哪里有比较全面的 markdown 语法进行学习啊](https://www.v2ex.com/t/874548#reply9) | Mon Aug 22 2022 6:11 AM
+- 🐵 [git clone 有没有办法在保留全部 git log 的情况下大幅度缩减 clone 的仓库大小](https://www.v2ex.com/t/874541#reply4) | Mon Aug 22 2022 5:27 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
