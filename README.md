@@ -368,7 +368,7 @@
 - 🤗 [2022 年，各位大佬 safari 跨域数据共享有新方案？](https://www.v2ex.com/t/874686#reply2) | Mon Aug 22 2022 4:41 PM
 - 🎭 [整了个 Markdown 文件图片处理上传工具，分享给有相同需求的小伙伴](https://www.v2ex.com/t/874683#reply0) | Mon Aug 22 2022 3:37 PM
 - 🥷 [iptables 劫持对外访问](https://www.v2ex.com/t/874673#reply2) | Mon Aug 22 2022 3:02 PM
-- 🐵 [win 下的 Linux 环境选择](https://www.v2ex.com/t/874664#reply18) | Mon Aug 22 2022 1:55 PM<!-- v2ex:END -->
+- 🐵 [win 下的 Linux 环境选择](https://www.v2ex.com/t/874664#reply20) | Mon Aug 22 2022 1:55 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
