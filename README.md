@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [玩家连续8天不间断游戏被封号 起诉运营商被驳回](https://hot.cnbeta.com/articles/game/1307225.htm) | Mon Aug 22 2022 7:13 AM 
+- 🕯 [马斯克回复2018年自己的推文：不可能的白日梦已经实现](https://www.cnbeta.com/articles/tech/1307257.htm) | Mon Aug 22 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如今游戏已成为人们的休闲娱乐方式之一。许多人在学习和工作之余，会玩玩游戏放松下。虽然游戏能带来快乐，但长时间玩会损害玩家的身体。因此不少游戏商制定了一些规则和提示，防止玩家沉迷游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月22日消息，&lt;strong&gt;马斯克今日发推文，回复了自己在2018年3月发起的有关Boring公司的投票，认为建造隧道以解决交通拥堵这一“不可能的白日梦”已经实现。&lt;/strong&gt;当时他曾发起投票，询问网友这是“不可能的白日梦”还是“地面上的愚蠢洞”？大部分人对隧道计划持否定意见。4年过去，他打趣回复道：“有趣的是，有很多人同时反应说‘这是不可能的’和‘3000&amp;nbsp;年前就已经完成了’。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家在柔性热电技术研究中获进展](https://www.cnbeta.com/articles/science/1307223.htm) | Mon Aug 22 2022 7:13 AM 
+- 💼 [郭明錤：华为Mate 50与iPhone 14谈不上交锋](https://www.cnbeta.com/articles/tech/1307255.htm) | Mon Aug 22 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月22日消息，记者从中科院官网了解到，柔性电子被誉为未来革命性的电子技术，有望广泛应用于能源、医疗等领域，但其发展受制于可自供电、易携带、高可靠的超薄柔性电源的缺失。热电转换技术可将人体或环境的热量转换为电能，具有体积小、无传动组件、无噪音、可全天候工作等优点，可为柔性电子提供一种可行的自供电解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天上午，华为宣布将于9月6日发布Mate 50系列，恰好比网传的iPhone 14系列发布会提前一天。其实两者发布会撞期的消息，早在半个月前就已经被供应链上曝光，从当时开始就不断有人拿这两款机型对比，甚至称这将是两者的正面对决。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《最后生还者》剧集与游戏角色对比 乔尔艾莉还原吗？](https://hot.cnbeta.com/articles/game/1307221.htm) | Mon Aug 22 2022 7:13 AM 
+- 💂 [桌面RSS体验更新？ChromeOS 106迎来“关注该站点”新选项](https://www.cnbeta.com/articles/tech/1307253.htm) | Mon Aug 22 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日&lpar;8月22日&rpar;油管主Cycu1发布了《最后的生还者》剧集与原版游戏的对比视频，将场景和角色进行了对比。大家觉得乔尔和艾莉的还原度高吗？值得一提的是，顽皮狗总裁尼尔发推文称：“你们还什么都没看到呢”，预示尼尔对《最后的生还者》剧集很有信心，认为好戏在后面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;上周，About Chromebooks 的 Kevin C. Tofel，在 ChromeOS 侧面板上看到了一个新的“消息流”（Feed）选项。&lt;/strong&gt;作为 Google Reader 的多年老用户，他一度怀疑这款 RSS 阅读器即将回归，但一时缺乏足够的证据。好消息是，在多方打听之后，我们现已非常确信这一点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [全球第二大院线Cineworld确认考虑申请破产](https://hot.cnbeta.com/articles/movie/1307219.htm) | Mon Aug 22 2022 7:10 AM 
+- 🚀 [NIST团队展示“原子电视”：通过奇怪的原子云传输实时视频](https://www.cnbeta.com/articles/science/1307251.htm) | Mon Aug 22 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球第二大连锁影院集团Cineworld Group周一表示，正在考虑根据美国破产法第11章申请破产保护，并在其他地区也申请破产，从而证实了上周末的媒体报道。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国国家标准与技术研究院（NIST）的研究人员表明，原子云可以作为接收器来接收视频传输。&lt;strong&gt;该研究小组通过将实时视频信号，甚至视频游戏通过原子传输到显示器上，展示了这种 “原子电视”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [史上最差IPO之后，“印度支付宝”创始人获准留任CEO](https://www.cnbeta.com/articles/tech/1307217.htm) | Mon Aug 22 2022 7:09 AM 
+- 🎊 [机构鉴定戚薇直播间卖假货：官方否认售假](https://www.cnbeta.com/articles/tech/1307249.htm) | Mon Aug 22 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;“印度版支付宝”Paytm的亿万富翁创始人维贾伊·谢卡·夏尔马（Vijay Shekhar Sharma）在一场投资者信心的关键考验中毫发无损，绝大多数股东投票决定让他继续执掌这家金融科技公司。&lt;/strong&gt;此前该公司的股票上市首日大跌，为印度股市历史上最糟糕的IPO之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月22日消息，ID名为“琉璃是什么璃”的网友发文称，&lt;strong&gt;今年2月从戚薇直播间购买的白泥面膜经过多次鉴定结果都是假货。&lt;/strong&gt;目前，该网友找到了一家科研鉴定机构，&lt;strong&gt;准确率99%的AI鉴别及5名资深鉴定师均判定其为“不符合正品工艺”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
