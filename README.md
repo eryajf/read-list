@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Strategy Pattern 教你秒变“神枪手”](https://juejin.cn/post/7134610146688401445) | Mon Aug 22 2022 8:11 AM 
+- 🤗 [一文搞懂Flink架构与任务编排｜青训营笔记](https://juejin.cn/post/7134612919861870599) | Mon Aug 22 2022 8:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要讲述Flink的整体架构，以及流处理任务涉及的各个算子的调度编排机制。为模仿实现一个简易流处理引擎作下铺垫。 
+    </details> 
+
+- 🎡 [一文读懂TypeScript类型兼容性](https://juejin.cn/post/7134611530649174023) | Mon Aug 22 2022 8:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 8 天，点击查看活动详情 &gt;&gt; JavaScript是一门弱类型语言，它对类型是弱校验，正因为这个特点，所以才有了TypeScr 
+    </details> 
+
+- 🕯 [Strategy Pattern 教你秒变“神枪手”](https://juejin.cn/post/7134610146688401445) | Mon Aug 22 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
     写代码总是很多 if/else 写不动？吃鸡总是落地成盒玩不动？这篇文章帮你解决这两个问题！将策略模式应用于吃鸡，帮你学习设计模式的同时游戏也能大吉大利，还等什么，快来看看吧～ 
     </details> 
 
-- 🎡 [微信公众号开发（四）获取用户信息](https://juejin.cn/post/7134607086184300552) | Mon Aug 22 2022 7:59 AM 
+- 🚀 [微信公众号开发（四）获取用户信息](https://juejin.cn/post/7134607086184300552) | Mon Aug 22 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 获取用户信息，微信公众号提供了两种方式： 一、通过全局baiAccess Token获取用户基本信息 1 
     </details> 
 
-- 🕯 [最后一公里：从直播拉流读懂直播链路](https://juejin.cn/post/7134601774266056717) | Mon Aug 22 2022 7:38 AM 
+- 💪 [最后一公里：从直播拉流读懂直播链路](https://juejin.cn/post/7134601774266056717) | Mon Aug 22 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
     直播链路中都有哪些角色？这些角色要解决的是哪些问题？要优化某个环节时需要哪些角色的配合？这些角色优化链路的手段有哪些？本文从直播拉流切入，力求帮助有兴趣的同学简单明了而全面地理解整个直播链路。 
-    </details> 
-
-- 🚀 [最后一公里：从直播拉流读懂直播链路](https://juejin.cn/post/7134601476650844167) | Mon Aug 22 2022 7:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    直播链路中都有哪些角色？这些角色要解决的是哪些问题？要优化某个环节时需要哪些角色的配合？这些角色优化链路的手段有哪些？本文从直播拉流切入，力求帮助有兴趣的同学简单明了而全面地理解整个直播链路。 
-    </details> 
-
-- 💪 [开源小白到核心开发——我与 sealer 的成长故事](https://juejin.cn/post/7134601733283512357) | Mon Aug 22 2022 7:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    下面将以作者本人与 sealer 的一段成长故事来带领大家体验从小白到核心功能开发者的开源之旅，同时本文也作为一篇引领开源小白入门的文章供大家参考。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
