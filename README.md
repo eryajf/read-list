@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [消息称苹果成为LG电子专利授权客户 已支付超过8000亿韩元授权费](https://www.cnbeta.com/articles/tech/1307321.htm) | Mon Aug 22 2022 10:53 AM 
+- 🕯 [共享充电宝客服回应涨价：年轻人不太在意](https://www.cnbeta.com/articles/tech/1307343.htm) | Mon Aug 22 2022 12:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据国外媒体报道，今年4月份，LG电子披露他们收到了客户的一次性专利授权费，但他们并未披露具体的客户名称。而韩国媒体最新的消息显示，&lt;strong&gt;一季度向LG电子支付专利授权费的有两家公司，共支付了8900亿韩元，两家公司包括了苹果，并且Apple Pay了其中的绝大部分，超过8000亿韩元，也就是超过了5.6亿美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，一条“共享充电宝涨至4元每小时”的话题冲上热搜，共享充电宝价格由最开始的一元起量，经过多次涨价后成为广大消费者的吐槽点。&lt;strong&gt;充电宝的价格虽然涨了，但是体验却没有跟上，目前的共享充电宝普遍存在充电缓慢、电量不满、归还困难等问题。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [我国将建造国际月球科研站 重型火箭、可重复火箭都来了](https://www.cnbeta.com/articles/science/1307319.htm) | Mon Aug 22 2022 10:51 AM 
+- 💼 [索尼在英国被起诉“欺诈900万用户”要求赔偿50亿英镑](https://www.cnbeta.com/articles/tech/1307341.htm) | Mon Aug 22 2022 12:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月20日，中国长征系列运载火箭迎来创纪录的连续第103次发射成功，与此同时，中国航天科技集团也官方宣布了未来的运载火箭新规划。&lt;strong&gt;长征系列火箭已经发展成为能够适应不同太空轨道发射需求的火箭谱系，能够将导航卫星、通信卫星、遥感卫星、载人飞船、空间探测器等送入太空轨道。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼在英国被起诉“欺诈900万用户”要求赔偿50亿英镑。索尼 PlayStation 目前在英国被起诉赔偿50亿英镑，集体诉讼中称索尼利用市场地位抬高游戏价格“敲诈”了 900 万消费者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [张朝阳建议大家少睡觉 科普：为何有时睡8小时还是很困](https://www.cnbeta.com/articles/tech/1307317.htm) | Mon Aug 22 2022 10:49 AM 
+- 💂 [苹果新专利显示，其未来HMD或将使用智能指环帮助用户测量3D物体](https://www.cnbeta.com/articles/tech/1307339.htm) | Mon Aug 22 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大佬们的言行总是那么与众不同，8月21日，张朝阳在直播时表示睡觉多了对人是一种伤害，&lt;strong&gt;他建议大家少睡，睡六个小时最好，如果能睡四个小时就很完美&lt;/strong&gt;。但在日常生活中，我们经常听到的是睡觉要睡够8个小时，否则会对身体产生不良影响，这对正在长身体的青少年儿童尤为重要。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在7月中旬，苹果公司获得了他们基于AR的&amp;quot;测量&amp;quot;应用程序的第二个专利。本周，美国专利商标局公布了两项专利（01和02），涉及苹果的AR&amp;quot;测量&amp;quot;应用程序，专利以一种全新的方式测量用户的手腕尺寸，以便那些在线购买Apple Watch的人能够更好地确定他们应该购买的表带尺寸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小米13型号已注册：新一代骁龙8 Gen2加持](https://www.cnbeta.com/articles/tech/1307315.htm) | Mon Aug 22 2022 10:48 AM 
+- 🚀 [LG推出全新14/16英寸Ultra PC笔记本电脑](https://www.cnbeta.com/articles/tech/1307337.htm) | Mon Aug 22 2022 12:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年7月，小米发布了小米12S系列。从口碑来看，骁龙8+的改进提升有目共睹。多方消息称，下一代骁龙8处理器（骁龙8 Gen2）同样采用台积电4nm工艺，有了制程的保障，手机厂商们研发的劲头想必十足。经查，在EEC认证数据库中已经出现了对应小米13的注册型号，&lt;strong&gt;包括2210132G、2210133G等，后缀的“G”代表Global，也就是全球版。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;LG宣布，将在欧洲地区推出新款14英寸和16英寸Ultra PC笔记本电脑。Ultra PC系列是围绕AMD硬件构建的，过去曾推出13.3英寸的型号，此次14英寸和16英寸型号将采用AMD代号Barcelo的芯片，Ryzen 5 5625U或Ryzen 7 5825U。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [旅游博主重庆雇轿上山遭网暴 被指花钱践踏别人尊严](https://www.cnbeta.com/articles/tech/1307313.htm) | Mon Aug 22 2022 10:21 AM 
+- 🎊 [吉祥航空母公司被传造车 或命名吉祥汽车](https://www.cnbeta.com/articles/tech/1307335.htm) | Mon Aug 22 2022 12:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，&lt;strong&gt;一旅游博主在网络上发视频称，自己在重庆武隆天坑游玩时，选择了坐轿子（当地叫滑竿）上山，但让他没有想到的是，居然遭遇网暴。&lt;/strong&gt;有网友指责：“大家都生而为人，你凭什么花钱践踏他的尊严”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;日前，网上流传了一则关于吉祥航空母公司均瑶集团入局造车的传闻，并且将汽车品牌命名为吉祥汽车。&lt;/strong&gt;均瑶集团将成立新能源汽车产业基金，希望能在新能源汽车行业开创一家面向未来的公司。资料显示，均瑶集团创始于1991年。现已形成航空运输、金融服务、现代消费、教育服务、科技创新五大业务板块。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
