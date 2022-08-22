@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [元宇宙自拍秀太丑遭群嘲 小扎更新照片解释：之前是随手一拍](https://www.cnbeta.com/articles/tech/1307405.htm) | Mon Aug 22 2022 4:18 PM 
+- 🕯 [Intel GPU号称领先NVIDIA 2.5倍？细看尴尬了](https://www.cnbeta.com/articles/tech/1307421.htm) | Mon Aug 22 2022 5:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;小扎再次上传元宇宙虚拟照片，新照的建模更加精致。当地时间8月19日和20日，Meta CEO马克·扎克伯格（Mark Zuckerberg）分别于社交媒体脸书（Facebook）和Instagram上传虚拟形象照片，称上一张照片是“随手拍的”，以回应网友的嘲讽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Hot Chips 34大会史昂，Intel又公布了Ponte Vecchio GPU高性能计算卡的更多细节，包括性能数据。Ponte Vecchio GPU基于全新的Xe HPC高性能计算架构，使用5种不同制造工艺&lpar;Intel 7和台积电N7/N5等&rpar;、多种封装技术，整合了多达47个不同计算模块，晶体管数量超1000亿个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [上海：优先支持有驾驶人的智能出租等开展示范运营活动](https://www.cnbeta.com/articles/tech/1307403.htm) | Mon Aug 22 2022 4:16 PM 
+- 💼 [今年是未来10年最凉爽的一年？中科院大气所回应：曲解论文原意](https://www.cnbeta.com/articles/science/1307419.htm) | Mon Aug 22 2022 5:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月22日，上海市交通委员会发布关于《上海市智能网联汽车示范运营实施细则（试行）（征求意见稿）》（以下简称《细则》）公开征询意见的公告称，上海市智能网联汽车发展已到关键时期，探索商业落地路径、打造闭环应用生态已成为行业共识。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近这波高温威力着实不小，&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/2015108055/M1qKkBAvg&quot; target=&quot;_blank&quot;&gt;中央气象台&lt;/a&gt;已经表示，根据国家气候中心近日监测评估，综合考虑高温热浪事件的平均强度、影响范围和持续时间，从今年6月13日开始至今的区域性高温事件综合强度已达到1961年有完整气象观测记录以来最强，具有持续时间长、范围广、强度大、极端性强等特点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果广告“二分法”：Facebook不行 自己可以](https://www.cnbeta.com/articles/tech/1307401.htm) | Mon Aug 22 2022 4:13 PM 
+- 💂 [富士康将投资3亿美元扩建越南工厂](https://www.cnbeta.com/articles/tech/1307417.htm) | Mon Aug 22 2022 5:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;未来，你会在iOS系统里看到越来越多的广告。长期跟踪苹果的彭博社记者马克·古尔曼（Mark Gurman）最近透露，苹果已经在内部测试了地图中的搜索广告。当你搜索商店、餐馆或者附近的其它企业时，地图就会显示推荐信息，就像苹果在App Store里做的那样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果供应链的主要合作伙伴富士康正计划投资3亿美元，扩大其在越南北部的生产设施，以努力提高产量。&lt;/strong&gt;这家苹果供应商与越南开发商Kinh Bac市签署了一份谅解备忘录，以投资该资金并扩大其现有工厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [交通运输新业态协同监管部际联席会议办公室约谈11家网约车平台公司](https://www.cnbeta.com/articles/tech/1307399.htm) | Mon Aug 22 2022 3:40 PM 
+- 🚀 [不止Mate 50 小米12T系列也在9月登场：骁龙8系直屏旗舰](https://www.cnbeta.com/articles/tech/1307415.htm) | Mon Aug 22 2022 5:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月22日消息，交通运输部官方微信公众号发布消息称，今日，交通运输新业态协同监管部际联席会议办公室对滴滴出行、T3出行、高德、曹操出行、首汽约车、美团打车、万顺叫车、享道出行、如祺出行、阳光出行、嘀嗒出行等11家平台公司进行了提醒式约谈。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月份，我们将迎来多款重要机型，&lt;strong&gt;包括iPhone 14系列、华为Mate 50系列。&lt;/strong&gt;现在最新爆料表明，9月份小米也会推出新产品。今日消息，小米12T、小米12T Pro获得马来西亚SIRIM认证，&lt;strong&gt;型号分别是22071212AG、22081212UG。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [报告显示新iPhone发布之前 iPhone 13销售仍然很强劲](https://www.cnbeta.com/articles/tech/1307397.htm) | Mon Aug 22 2022 3:35 PM 
+- 🎊 [ofo小黄车公众号发擦边推文 篇篇10万+](https://www.cnbeta.com/articles/tech/1307413.htm) | Mon Aug 22 2022 4:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在新iPhone上市前几周，运营商的销售数据表明，&lt;strong&gt;与过去的周期相比，越来越少的人在等待苹果9月的活动来更新，而是现在就去购买苹果手机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;ofo小黄车已经死了，但它似乎还没有完全离去……近日有网友发现，&lt;strong&gt;“ofo小黄车”官方公众号依然存在，而且还在持续更新。&lt;/strong&gt;但是，&lt;strong&gt;推送内容和共享单车等正经业务没啥关系，几乎全部都是标题党八卦文章。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
