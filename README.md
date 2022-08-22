@@ -378,19 +378,19 @@
     如果能够全局改写小程序的Page函数参数里的生命周期方法、wx对象里的函数，那么可以做很多有意思的事情。与其说是改写，不如说是代理或装饰。属于是设计模式中的代理模式或装饰器模式。 
     </details> 
 
-- 🎡 [技术人不应该仅仅盯着技术，还要有业务的深度](https://juejin.cn/post/7134721214869684237) | Mon Aug 22 2022 3:22 PM 
+- 🎡 [头脑风暴：判断子序列](https://juejin.cn/post/7134723678838718495) | Mon Aug 22 2022 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    题目 给定字符串 s 和 t ，判断 s 是否为 t 的子序列。 字符串的一个子序列是原始字符串删除一些（也可以不删除）字符而不改变剩余字符相对位置形成的新字符串。（例如，&quot;ace&quot;是&quot;abcde&quot;的 
+    </details> 
+
+- 🕯 [技术人不应该仅仅盯着技术，还要有业务的深度](https://juejin.cn/post/7134721214869684237) | Mon Aug 22 2022 3:22 PM 
     <details><summary>展开描述 ...</summary> 
     前言 当我做为一个比较大的项目的主程之后，我萌生了一个想法，我要当一个项目的牵头人。为什么会这么想呢？ 从之前的一篇文章中提到，层级。你得清楚在你当前这个层级的上一层是什么样子，它需要什么能力，这个过 
     </details> 
 
-- 🕯 [Go&amp;Java算法之迷你语法分析器](https://juejin.cn/post/7134720988939288612) | Mon Aug 22 2022 3:21 PM 
+- 🚀 [Go&amp;Java算法之迷你语法分析器](https://juejin.cn/post/7134720988939288612) | Mon Aug 22 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 迷你语法分析器 给定一个字符串 s 表示一个整数嵌套列表，实现一个解析它的语法分析器并返回解析的结果 N 
-    </details> 
-
-- 🚀 [如何创建可调整大小的拆分视图，类似 Gitlab Code Review 界面](https://juejin.cn/post/7134720399119482916) | Mon Aug 22 2022 3:19 PM 
-    <details><summary>展开描述 ...</summary> 
-    这篇文章介绍如何创建一个可调整大小的拆分视图，什么意思呢？类似 Gitlab Code Review 界面。 
     </details> 
 
 - 💪 [这样用 lerna 也太爽了吧！](https://juejin.cn/post/7134646424083365924) | Mon Aug 22 2022 10:32 AM 
