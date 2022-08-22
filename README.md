@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [4K YouTube to MP3 4.6.2 在线视频提取音乐](https://xclient.info/s/4k-youtube-to-mp3.html) | Mon Aug 22 2022 1:47 AM 
+- 🦏 [PDF Reader Pro 2.8.15.1 PDF 文档阅读编辑批注](https://xclient.info/s/pdf-reader-pro.html) | Mon Aug 22 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-    4K YouTube to MP3是一款macOS平台中在线音乐下载器，专门创建从YouTube，Vimeo的或Facebook提取音频的软件。它支持从YouTube下载有声电子书，下载完成后可以直接使用软件界面中内嵌的音频播放器收听音频文件。 
+    PDF Reader Pro是一款Mac平台的PDF文档阅读编辑器，除了可以进行 PDF 文档阅读以外，你还可以对文档进行备注、编辑、标注等，还可以添加笔记和书签，如果想要演示的话，还可以配合遥控来进行演示。 
     </details> 
 
--  [4K Video Downloader 4.21.2 下载高品质的YouTube视频](https://xclient.info/s/4k-video-downloader.html) | Mon Aug 22 2022 1:46 AM 
+-  [VideoDuke 2.8.1 视频下载](https://xclient.info/s/videoduke.html) | Mon Aug 22 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    4K Video Downloader 是“一个视频下载工具，如此简单，就是一个视频下载工具该有的样子”。复制 YouTube 视频链接并点击界面左上角的 “Paste URL”，就能自动识别 4K 甚至是原始分辨率片源。接下来，选择分辨率、格式后就开始下载了。 
+    VideoDuke 支持在网站视频下载所有流行格式的视频文件，可以以各种文件格式保存。只需将链接粘贴到应用中即可完成。 
     </details> 
 
-- ⚗️ [Wondershare UniConverter 14.1.1.1 视频编辑转换工具](https://xclient.info/s/wondershare-uniconverter.html) | Mon Aug 22 2022 1:45 AM 
+- ⚗️ [Music Tag Editor 7.2.2 音频文件标签编辑](https://xclient.info/s/music-tag-editor-pro.html) | Mon Aug 22 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-    Wondershare UniConverter 是一款功能强大的视频编辑工具，集视频下载，转换，剪辑，刻录等多功能于一体，能够帮助用户轻松进行视频处理。 
+    Music Tag Editor Pro 能帮你快速高效的编辑不同音乐格式文件的标签信息 
     </details> 
 
-- 🔥 [Navicat Premium 16.1.1 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Mon Aug 22 2022 1:43 AM 
+- 🔥 [PullTube 1.8.4.3 在线视频下载工具](https://xclient.info/s/pulltube.html) | Mon Aug 22 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
+    PullTube 是一款amcOS平台的在线视频下载工具，可以帮助我们下载油管以及Vimeo的在线视频到本地 
     </details> 
 
-- 🌋 [Adobe Acrobat Pro DC 22.002.20191 强大的PDF编辑软件](https://xclient.info/s/adobe-acrobat-pro-dc.html) | Mon Aug 22 2022 1:41 AM 
+- 🌋 [Chronicle Pro 14.0.3 优秀的财务管理工具](https://xclient.info/s/chronicle.html) | Mon Aug 22 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-    该产品颠覆了当今文件的处理方式，旨在提高文件处理效率！ 
+    Chronicle 是一款Mac上优秀的财务管理工具，Chronicle支持自动提醒，不用在担心忘记缴费，如提醒你房租、网费、手机费等，帮助你记住已支付的订单和未支付的开销，支持和iPhone数据同步，非常的不错。 
     </details> 
 <!-- xclient:END -->
 
