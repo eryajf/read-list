@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [收到 k50 ultra 了，随便说说](https://www.v2ex.com/t/874453#reply0) | Mon Aug 22 2022 1:51 AM
-- 🤗 [smart-doc 发布 2.5.0 版本](https://www.v2ex.com/t/874447#reply0) | Mon Aug 22 2022 1:39 AM
-- 🎭 [求推荐一款好用+耐用的机械键盘](https://www.v2ex.com/t/874446#reply10) | Mon Aug 22 2022 1:37 AM
-- 🥷 [工作一年，发现自己不太想写代码了，有点麻了](https://www.v2ex.com/t/874441#reply17) | Mon Aug 22 2022 1:17 AM
-- 🐵 [Windows 商店里搜索不到 Firefox？](https://www.v2ex.com/t/874436#reply14) | Mon Aug 22 2022 12:40 AM<!-- v2ex:END -->
+- 🥸 [Python 如何监听 List 长度](https://www.v2ex.com/t/874515#reply2) | Mon Aug 22 2022 3:54 AM
+- 🤗 [大佬们，能来个静音的 nas 方案吗？预算尽量便宜点的。](https://www.v2ex.com/t/874510#reply10) | Mon Aug 22 2022 3:34 AM
+- 🎭 [关于显示器音频输出](https://www.v2ex.com/t/874505#reply2) | Mon Aug 22 2022 3:22 AM
+- 🥷 [gin 练手项目,新手推荐看看](https://www.v2ex.com/t/874498#reply1) | Mon Aug 22 2022 3:11 AM
+- 🐵 [如何优雅的解这个题？](https://www.v2ex.com/t/874486#reply16) | Mon Aug 22 2022 2:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
