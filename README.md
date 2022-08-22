@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [College OS - 在 Notion 中捕获和管理您的课程](https://xinquji.com/posts/178904?utm_campaign=xinquji-rss) | Mon Aug 22 2022 6:17 AM 
+- 👀 [integrate.ai - 扩展您的产品以在分布式数据上训练 ML 模型](https://xinquji.com/posts/178926?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     在 Notion 中捕获和管理您的课程  
+     扩展您的产品以在分布式数据上训练 ML 模型  
     </details> 
 
-- 🥷 [Styletyx - 智能购物助手](https://xinquji.com/posts/178903?utm_campaign=xinquji-rss) | Mon Aug 22 2022 6:17 AM 
+- 🥷 [Namecheap Business Card Maker - 在几分钟内创建和订购名片](https://xinquji.com/posts/178925?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     智能购物助手  
+     在几分钟内创建和订购名片  
     </details> 
 
-- 💼 [HireSure.ai - 为印度制定基准和沟通补偿铺平道路](https://xinquji.com/posts/178902?utm_campaign=xinquji-rss) | Mon Aug 22 2022 6:15 AM 
+- 💼 [Datalogz Power BI Connector - 您的 Power BI 治理和发现平台](https://xinquji.com/posts/178924?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     为印度制定基准和沟通补偿铺平道路  
+     您的 Power BI 治理和发现平台  
     </details> 
 
-- 🦅 [Stylesöm - 创建一个时尚和旅游网站并交易您的旧服装](https://xinquji.com/posts/178901?utm_campaign=xinquji-rss) | Mon Aug 22 2022 6:15 AM 
+- 🦅 [Zencastr 3.0 - 少做多说，最简单的播客方式](https://xinquji.com/posts/178923?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     创建一个时尚和旅游网站并交易您的旧服装  
+     少做多说，最简单的播客方式  
     </details> 
 
-- 😺 [Area - 房地产经纪人分享房源的现代方式](https://xinquji.com/posts/178900?utm_campaign=xinquji-rss) | Mon Aug 22 2022 6:13 AM 
+- 😺 [UpSavvy - 帮助 K-12 学区解决数字公民问题](https://xinquji.com/posts/178922?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     房地产经纪人分享房源的现代方式  
+     帮助 K-12 学区解决数字公民问题  
     </details> 
 <!-- xinquji:END -->
