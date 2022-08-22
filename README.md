@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [充电5分钟续航200公里 明年6月新能源车超级快充标准将发布](https://www.cnbeta.com/articles/tech/1307283.htm) | Mon Aug 22 2022 9:14 AM 
+- 🕯 [Zen 4锐龙7000好消息：AMD不会对PC处理器涨价](https://www.cnbeta.com/articles/tech/1307311.htm) | Mon Aug 22 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;充电五分钟，续航200公里。手机厂商和车企的双向奔赴，已经“卷”到了广告词。8月15日，在小鹏汽车举行的超级补能发布会中，小鹏汽车董事长何小鹏着重介绍了S4超快充桩，其小鹏G9车型充电5分钟，续航便可达到200公里。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上一季度交出一份不给力的财报后，Intel也确认此前的传言，会在年底前对部分芯片进行调价，结果就是上涨，外界了解，幅度可能高达20%。那么AMD这边会否跟进呢？&lt;strong&gt;答案是否定的。虽然AMD这边也预计终端需求会有所下滑，但并不打算效仿友商的做法。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [推动规范表达，抖音测试新功能“发文助手”](https://www.cnbeta.com/articles/tech/1307281.htm) | Mon Aug 22 2022 9:11 AM 
+- 💼 [特斯拉德州超级工厂达到新里程碑：一周生产1000辆汽车](https://www.cnbeta.com/articles/tech/1307309.htm) | Mon Aug 22 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，抖音测试新功能“发文助手”，针对用户发布内容的不规范表达进行提醒。目前，该功能先期开放给粉丝10万以上的创作者测试使用，后续将逐步优化，开放给更多用户。抖音表示，将从源头开始，利用产品能力，切实服务用户使用规范表达。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据国外媒体报道，特斯拉位于德克萨斯州奥斯汀的超级工厂达到了一周生产1000辆汽车的里程碑。&lt;/strong&gt;德州超级工厂是特斯拉继内华达州超级工厂、纽约超级工厂、上海超级工厂和柏林超级工厂之后的第五家工厂，也是继弗里蒙特工厂、上海工厂和柏林工厂之后的第四家汽车组装工厂，该工厂于2021年底开始限量生产Model Y，并于今年4月份开始交付首批产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [充电5分钟续航200公里，明年6月新能源车超级快充标准将发布](https://www.cnbeta.com/articles/tech/1307279.htm) | Mon Aug 22 2022 9:07 AM 
+- 💂 [水滴筹再回应筹款中介抽成高达七成：非平台抽取，坚决打击第三方恶意推广行为](https://www.cnbeta.com/articles/tech/1307307.htm) | Mon Aug 22 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;充电五分钟，续航200公里。手机厂商和车企的双向奔赴，已经“卷”到了广告词。&lt;/strong&gt;8月15日，在小鹏汽车举行的超级补能发布会中，小鹏汽车董事长何小鹏着重介绍了S4超快充桩，其小鹏G9车型充电5分钟，续航便可达到200公里。从快充到超级快充，在补能这条路上，新能源汽车走着和手机一样的方向，和加油一样的补能效率，将搬走燃油车主心头“最大的一块石头”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;水滴公司今日在其官方微信号上发布声明称，近日有媒体报道“水滴筹筹款中介抽成最高达70%”。&lt;/strong&gt;事实上，所谓的筹款中介是由部分恶意推广的第三方商业组织运作。为筹款人提供不正当筹款方式的服务，对于此伤害用户和水滴品牌的行为，水滴筹采取零容忍态度，坚决抵制和打击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [车祸已1个月 林志颖近况曝光：进食困难需靠鼻饲](https://www.cnbeta.com/articles/tech/1307277.htm) | Mon Aug 22 2022 9:04 AM 
+- 🚀 [100W高品质充电，数据可兼得，mophie 100W C to C线评测](https://www.cnbeta.com/articles/tech/1307305.htm) | Mon Aug 22 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;林志颖携子驾驶特斯拉遭遇车祸已经一个月了，仍然在艰难恢复中。有曝料称，林志颖在完成面部修复手术之后，&lt;strong&gt;遇到的第一个大问题，就是没法进食，因为整个面部的骨骼都重塑过了，尤其是下颚骨部分，因此无法动弹。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;mophie与苹果的紧密合作伙伴关系几乎是众所周知，有了解过的粉丝用户想必都知道苹果多对产品的严苛要求近乎于完美；尽管如此，mophie还是做到与苹果的长期合作，并且能在苹果的各大专卖店以及官网商城上架销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [全国首个禁油省！海南2030年起禁售燃油汽车](https://www.cnbeta.com/articles/tech/1307275.htm) | Mon Aug 22 2022 8:57 AM 
+- 🎊 [趁核酸采样员小憩偷走扫码手机 男子被警方行拘](https://hot.cnbeta.com/articles/funny/1307303.htm) | Mon Aug 22 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月22日，&lt;strong&gt;海南省人民政府印发《海南省碳达峰实施方案》，方案提出，大力推广新能源车船应用。&lt;/strong&gt;为加快推进社会运营交通领域清洁能源化，以轻型物流配送、城市环卫、租赁车、网约车等领域为重点，推动新能源车替代，鼓励私人用车新能源化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月21日，记者从上海静安警方获悉，&lt;strong&gt;8月14日，某核酸采样亭工作人员钟女士报警称有人偷走了核酸检测点用于登记扫码的手机。当民警赶到钟女士所在的位置后，发现现场还有另一名男子。&lt;/strong&gt;钟女士说，正是该男子在8月12日凌晨偷走了手机。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1307303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
