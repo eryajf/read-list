@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [数字文具盒 | 我的知识加工厂——拒绝搬运](https://sspai.com/post/75264) | Mon Aug 22 2022 3:32 AM 
+- 👹 [给你的进度添点态度：如何使用 Notion 的原生进度条？](https://sspai.com/post/75271) | Mon Aug 22 2022 6:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75271&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [数字文具盒 | 我的知识加工厂——拒绝搬运](https://sspai.com/post/75264) | Mon Aug 22 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
     产品的生产制造基本包括——原料的输入、在制品的加工、产品的输出三个过程。知识也是如此，包括输入、加工和输出。结合《卡片笔记写作法》中提到的闪念笔记、文献笔记、永久笔记，在众多的「数字文具」中，选择了 TheBrain、flomo、Logseq 和思源作为我的「知识加工厂」。&lt;a href=&quot;https://sspai.com/post/75264&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：扎克伯格回应受嘲元宇宙自拍；AirPower 操作视频展示原型机细节等](https://sspai.com/post/75274) | Mon Aug 22 2022 12:50 AM 
+- 🤭 [派早报：扎克伯格回应受嘲元宇宙自拍；AirPower 操作视频展示原型机细节等](https://sspai.com/post/75274) | Mon Aug 22 2022 12:50 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事扎克伯格回应受嘲「元宇宙自拍」上周初，为了庆祝元宇宙游戏《地平线世界》（HorizonWorlds）上线，Meta首席执行官扎克伯格上传了自己在游戏场景中站在埃菲尔铁塔前的「自拍照」 ...&lt;a href=&quot;https://sspai.com/post/75274&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [升级也要图个明白：8000 字详解 Android 13 正式版的 9 个新变化](https://sspai.com/post/75272) | Sun Aug 21 2022 7:47 AM 
+- 🥸 [升级也要图个明白：8000 字详解 Android 13 正式版的 9 个新变化](https://sspai.com/post/75272) | Sun Aug 21 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
     希望不久后手机厂商基于 Android 13 的定制系统正式推送到你手中的设备时，你能有个对比和参考。&lt;a href=&quot;https://sspai.com/post/75272&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [一派·Podcast | 老麦——花十年时间，找到自己热爱](https://sspai.com/post/75252) | Sun Aug 21 2022 3:56 AM 
+- 🙉 [一派·Podcast | 老麦——花十年时间，找到自己热爱](https://sspai.com/post/75252) | Sun Aug 21 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
     老麦回顾了自己从青涩的毕业生到创立少数派，再到一步步走到今天的创业历程。&lt;a href=&quot;https://sspai.com/post/75252&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [任意键｜蜘蛛侠登陆 PC；141 特遣队再次出击；海绵宝宝多元宇宙及其他](https://sspai.com/post/75257) | Sat Aug 20 2022 7:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。🎮玩游戏漫威蜘蛛侠｜《漫威蜘蛛侠重制版》登陆Steam/Epic游 ...&lt;a href=&quot;https://sspai.com/post/75257&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
