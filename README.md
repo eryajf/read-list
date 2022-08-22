@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于 NAS 硬盘 可以买 pdd 或者淘宝 1k 左右 16T 的企业盘么？](https://www.v2ex.com/t/874580#reply4) | Mon Aug 22 2022 7:37 AM
-- 🤗 [做 iOS 设备的外设开发和系统编程有什么好点的资料可以参考？](https://www.v2ex.com/t/874579#reply4) | Mon Aug 22 2022 7:34 AM
-- 🎭 [centos7.9 装了 3.10-1060 内核后重启到 root 登录后重启，该怎么从日志排查重启原因](https://www.v2ex.com/t/874568#reply1) | Mon Aug 22 2022 7:08 AM
-- 🥷 [有没有哪一种软件，都可以像 Burpsuite 那样,可以对电脑自身发出去的报文一个包，一个包进行分析，审核，篡改？](https://www.v2ex.com/t/874561#reply7) | Mon Aug 22 2022 6:42 AM
-- 🐵 [如何启用 google billing accounts](https://www.v2ex.com/t/874560#reply0) | Mon Aug 22 2022 6:40 AM<!-- v2ex:END -->
+- 🥸 [go 打印 log 的一个疑问](https://www.v2ex.com/t/874608#reply0) | Mon Aug 22 2022 9:15 AM
+- 🤗 [想买竞价实例的云服务， 求推荐性价比高的，自己开发编译用，不必特别稳定，最好可以关机不收费的](https://www.v2ex.com/t/874599#reply2) | Mon Aug 22 2022 8:36 AM
+- 🎭 [关于 NAS 硬盘 可以买 pdd 或者淘宝 1k 左右 16T 的企业盘么？](https://www.v2ex.com/t/874580#reply9) | Mon Aug 22 2022 7:37 AM
+- 🥷 [做 iOS 设备的外设开发和系统编程有什么好点的资料可以参考？](https://www.v2ex.com/t/874579#reply4) | Mon Aug 22 2022 7:34 AM
+- 🐵 [centos7.9 装了 3.10-1060 内核后重启到 root 登录后重启，该怎么从日志排查重启原因](https://www.v2ex.com/t/874568#reply1) | Mon Aug 22 2022 7:08 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
