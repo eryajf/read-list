@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Element 2 组件源码剖析之Steps 步骤条&lpar;下&rpar;-核心逻辑](https://juejin.cn/post/7134973747982762015) | Tue Aug 23 2022 7:42 AM 
+- 🤗 [通过部署流行 Web 框架掌握 Serverless 技术](https://juejin.cn/post/7134997017788416036) | Tue Aug 23 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-    步骤条组件`Steps`是引导用户按照流程完成任务的分步导航条。当任务复杂或者存在先后关系时，将其分解成一系列步骤，从而简化任务。 
+    本篇我们通过学习部署流行 Web 框架，如 Spring Boot，Express，Web IDE，让你掌握 Serverless 函数计算架构和技术，领略弹性并发、高可用的好处。下面我将从实践介绍， 
     </details> 
 
-- 🎡 [比vuex香的🍍pinia最快速入门指南](https://juejin.cn/post/7134968684342165512) | Tue Aug 23 2022 7:22 AM 
+- 🎡 [玩转 GitHub Actions](https://juejin.cn/post/7134990079407161357) | Tue Aug 23 2022 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-    如果是新项目, 完全基于setup的, 那么建议使用pinia代替vuex, vuex官网有说pinia可以理解为vuex5, vuex不会出5了. 安装 使用 首先在&quot;main.js&quot;中引入&quot;pin 
+    GitHub Actions 是 GitHub 中提供的自动化功能，通过它可以方便的在你提交代码、发送 PR 等各种事件触发时触发一系列自动化操作，完成 CI/CD、辅助机器人等功能，解放双手。 
     </details> 
 
-- 🕯 [浅谈Kotlin编程-Kotlin数据类型转换](https://juejin.cn/post/7134925286063226911) | Tue Aug 23 2022 4:35 AM 
+- 🕯 [彩虹女神跃长空,Go语言进阶之Go语言高性能Web框架Iris项目实战-完善用户管理EP04](https://juejin.cn/post/7134983508392427556) | Tue Aug 23 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 编程语言中，数据类型转换是很常见的，之前学过的C/C++，Java语言都接触过数据类型转换。 
+    书接上回，上一回我们完成了用户管理页面的构建，并且通过前端的Vue.js框架动态地获取表单数据，同时异步请求后端Iris接口进行入库操作，过程中使用函数封装可复用的逻辑。 本回我们将继续完善用户管理 
     </details> 
 
-- 🚀 [LeetCode - #172 阶乘后的零](https://juejin.cn/post/7134915475233832974) | Tue Aug 23 2022 3:57 AM 
+- 🚀 [《高阶前端指北》之Node爬虫脚手架&lpar;第八弹&rpar;](https://juejin.cn/post/7134981826027716615) | Tue Aug 23 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-    我们社区陆续会将顾毅（Netflix 增长黑客，《iOS 面试之道》作者，ACE 职业健身教练。）的 Swift 算法题题解整理为文字版以方便大家学习与阅读。 
+    昨天在梦游时遇到了卷神，给予我一个“装逼的Title”——卷王，我不服，我反驳说：无偿加班，不求回报，压榨技术价值的才叫卷，而我想要获得能力和价值。卷神说：你先带着吧，等你用你的能力收获价值的时候再来 
     </details> 
 
-- 💪 [全方位剖析iOS高级技术问题&lpar;六&rpar;之多线程相关问题](https://juejin.cn/post/7134904109697597471) | Tue Aug 23 2022 3:12 AM 
+- 💪 [App Deploy as Code! SAE &amp; Terraform 实现 IaC 式部署应用](https://juejin.cn/post/7134980929012891662) | Tue Aug 23 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要内容 一.GCD相关 二.NSOperation相关 三.NSThread相关 四.多线程与锁 
+    本文将简单的介绍 IaC 和 SAE 给企业带来的巨大便利，并通过一个使用 Terraform 创建 SAE 应用的例子感受 SAE &amp; Terraform 给传统企业 IT 设施管理带来的降维打击 
     </details> 
 <!-- juejin:END -->
 ### 少数派
