@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [哪里能下载到 Google Voice 的完整号段表吗，需要屏蔽这类虚拟号注册](https://www.v2ex.com/t/874819#reply1) | Tue Aug 23 2022 8:09 AM
-- 🤗 [Ubuntu apt upgrade 如何配置只安装安全更新？](https://www.v2ex.com/t/874811#reply0) | Tue Aug 23 2022 7:47 AM
-- 🎭 [Windows 安装 MySQL 距离完成临门一脚时遇到问题](https://www.v2ex.com/t/874801#reply12) | Tue Aug 23 2022 7:17 AM
-- 🥷 [难道没人喷 WIN 输入法的问题嘛](https://www.v2ex.com/t/874792#reply16) | Tue Aug 23 2022 6:49 AM
-- 🐵 [如何添加一个右键菜单，可以将选中的文件快速带密码压缩](https://www.v2ex.com/t/874788#reply4) | Tue Aug 23 2022 6:39 AM<!-- v2ex:END -->
+- 🥸 [找技术合作](https://www.v2ex.com/t/874839#reply1) | Tue Aug 23 2022 9:06 AM
+- 🤗 [Windows Server 是否适合用 Docker？](https://www.v2ex.com/t/874832#reply11) | Tue Aug 23 2022 8:42 AM
+- 🎭 [哪里能下载到 Google Voice 的完整号段表吗，需要屏蔽这类虚拟号注册](https://www.v2ex.com/t/874819#reply1) | Tue Aug 23 2022 8:09 AM
+- 🥷 [Ubuntu apt upgrade 如何配置只安装安全更新？](https://www.v2ex.com/t/874811#reply2) | Tue Aug 23 2022 7:47 AM
+- 🐵 [Windows 安装 MySQL 距离完成临门一脚时遇到问题](https://www.v2ex.com/t/874801#reply18) | Tue Aug 23 2022 7:17 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
