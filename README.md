@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何清除 npx 缓存](https://juejin.cn/post/7135008998742294541) | Tue Aug 23 2022 9:59 AM 
+- 🤗 [Spring5源码8-FactoryBean介绍](https://juejin.cn/post/7135022080604504100) | Tue Aug 23 2022 10:50 AM 
     <details><summary>展开描述 ...</summary> 
-    维护的库更新了一个大版本，其中的一个功能是用 npx 进行模板拷贝。 在更新大版本后，发现使用 npx 拷贝的代码始终是旧版本。 最终排查，发现 npx 的缓存文件里面的版本号没有随着大版本更新。 
+    FactoryBean的介绍及其用法、源码分析。getObjectForBeanInstance方法及doGetObjectFromFactoryBean方法 
     </details> 
 
-- 🎡 [2022飞天技术峰会：硬之城如何基于 SAE 打造数智化电子工业互联网平台](https://juejin.cn/post/7135003381155921950) | Tue Aug 23 2022 9:37 AM 
+- 🎡 [【SpringBoot实战系列】数据报表统计并定时推送用户的手把手教程](https://juejin.cn/post/7135020861362274312) | Tue Aug 23 2022 10:45 AM 
     <details><summary>展开描述 ...</summary> 
-    云是连接现实与虚拟孪生世界的技术平台，具有广阔的想象空间，作为数字经济的技术方向，云原生技术正在以前所未有的速度成为企业快速发展的关节一环。8月11日，2022 飞天技术峰会在深圳成功举办。硬之城作为 
+    知识点： - 基于 MySql 的每日新增用户报表统计 - 定时执行报表统计任务 - MyBatis + MySql 数据操作 - 邮件发送 - Thymeleaf 引擎实现报表模板渲染 
     </details> 
 
-- 🕯 [前端长列表滚动方案探讨，看完不要再说不知道怎么实现虚拟列表了](https://juejin.cn/post/7134997708598673439) | Tue Aug 23 2022 9:15 AM 
+- 🕯 [秒云获得阿里云首批产品生态集成认证，携手阿里云共建云原生智能运维生态服务](https://juejin.cn/post/7135014826601873438) | Tue Aug 23 2022 10:22 AM 
     <details><summary>展开描述 ...</summary> 
-    前端性能优化系列的文章，综述一下市面上常见的前端长列表滚动性能优化的方案，并提供各个框架的实现策略。 
+    未来世界上的每家企业，都将成为数字化的软件企业。数字化转型或许没有统一路径，但经实践验证，云原生是企业实现数字创新的最短路径。 
     </details> 
 
-- 🚀 [浅谈 React 组件的更新机制](https://juejin.cn/post/7134995266553249799) | Tue Aug 23 2022 9:06 AM 
+- 🚀 [迁移 Nacos 和 ZooKeeper，有了新工具](https://juejin.cn/post/7135013048300863524) | Tue Aug 23 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 前言 我们知道 React 组件是通过 setState&lpar;&rpar; 方法来更新数据的。所以在一个组件中，当我们 
+    注册中心迁移在行业中主要有两个方案，一个是双注册双订阅模式（类似数据库双写），一个是 Sync 模式（类似于数据库 DTS）；MSE 同时支持了两种模式，对于开通 MSE 服务治理客户，MSE 服务治 
     </details> 
 
-- 💪 [js中的promise静态/实例常用方法介绍以及async await应用](https://juejin.cn/post/7134995047455408158) | Tue Aug 23 2022 9:05 AM 
+- 💪 [Vue 2 阅读理解（十二）之 initRender 与 callHook](https://juejin.cn/post/7135007624793161759) | Tue Aug 23 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-    promise官方描述 一个 Promise 对象代表一个在这个 promise 被创建出来时不一定已知值的代理。它让你能够把异步操作最终的成功返回值或者失败原因和相应的处理程序关联起来。这样使... 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 initRender 组件渲染初始化 在 initEvents 事件系统初始化完成之后，紧接着的就是组件 
     </details> 
 <!-- juejin:END -->
 ### 少数派
