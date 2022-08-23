@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [网络犯罪组织 TA558 针对酒店、宾馆和旅游机构展开攻击](https://www.freebuf.com/news/342540.html) | Mon Aug 22 2022 5:32 AM 
+- 🦄 [FreeBuf早报 | 谷歌曝光有史以来最大DDoS攻击；一根USB线就能偷走韩系车](https://www.freebuf.com/news/342571.html) | Mon Aug 22 2022 10:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    近段时间，美国的TikTok和YouTube上兴起了一种所谓的“起亚挑战”，一些现代或起亚的车型只需要一根USB线就可以成功启动。 
+    </details> 
+
+- 🦄 [攻防经验和能力如何沉淀到日常安全防护？| FreeBuf甲方社群直播回顾](https://www.freebuf.com/articles/342569.html) | Mon Aug 22 2022 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    15天的攻防演练落幕，红蓝双方经历一场大考。8月18日，第八期FreeBuf甲方社群直播组织了「攻防复盘，星空夜话」，邀请红蓝方知名专家交流攻防演练实战经验。本期直播由公安部第三研究所研究员樊苑担任主持人，蓝方代表某企业安全架构师李宗晖、某国际自动化厂商网络安全服务团队负责人剑思庭和红方代表斗象科技安服专家张贵卿、黄炜榆，从规则演变、0day利用到能力沉淀等五个角度探讨交流攻防经验。FreeBuf 
+    </details> 
+
+- 🦅 [网络犯罪组织 TA558 针对酒店、宾馆和旅游机构展开攻击](https://www.freebuf.com/news/342540.html) | Mon Aug 22 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员发现一个出于经济动机的网络犯罪集团，与针对拉丁美洲酒店和旅游组织的持续攻击浪潮有关。 
     </details> 
 
-- 🦄 [苹果曝严重安全漏洞，喜提热搜第一](https://www.freebuf.com/news/342532.html) | Mon Aug 22 2022 5:13 AM 
+- 🪄 [苹果曝严重安全漏洞，喜提热搜第一](https://www.freebuf.com/news/342532.html) | Mon Aug 22 2022 5:13 AM 
     <details><summary>展开描述 ...</summary> 
     苹果公司发布了两份安全报告，承认公司的智能手机iPhone、平板电脑iPad和iMac电脑等产品存在严重的安全漏洞。 
     </details> 
 
-- 🦅 [DEF CON大会：白帽黑客演示远程控制退役卫星](https://www.freebuf.com/articles/wireless/342529.html) | Mon Aug 22 2022 3:50 AM 
+- 💻 [DEF CON大会：白帽黑客演示远程控制退役卫星](https://www.freebuf.com/articles/wireless/342529.html) | Mon Aug 22 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     白帽黑客组织Shadytel现场演示远程劫持一颗退役卫星，并利用它来播放著名黑客电影《战争游戏》。 
-    </details> 
-
-- 🪄 [FreeBuf早报 | 核酸结果阳性属于个人敏感信息；iPhone、iMac存在严重安全漏洞](https://www.freebuf.com/articles/342504.html) | Mon Aug 22 2022 12:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    苹果公司当地时间17日发布两份安全报告，两份报告披露，公司旗下智能手机iPhone、平板电脑iPad和iMac电脑等产品存在严重安全漏洞。 
-    </details> 
-
-- 💻 [揭露APT组织穆伦鲨&lpar;MurenShark&rpar;， 瞄向土潜艇科研人员](https://www.freebuf.com/articles/network/342426.html) | Fri Aug 19 2022 7:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    经过分析，研究人员确认本轮攻击活动来自一个由伏影实验室于21年4月确认的新型威胁实体Actor210426。 
     </details> 
 <!-- freebuf:END -->
 
