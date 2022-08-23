@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [分析师认为准备换iPhone 14的用户比往年少：老CPU+价格上涨是主因](https://www.cnbeta.com/articles/tech/1307897.htm) | Tue Aug 23 2022 4:13 PM 
+- 🕯 [推特前安全主管称推特在机器人和安全问题上撒了谎](https://www.cnbeta.com/articles/tech/1307899.htm) | Tue Aug 23 2022 5:55 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;根据Twitter前安全主管、由传奇黑客转为网络安全专家的Peiter Zatko的证词，Twitter隐藏了疏忽的安全做法，在安全方面误导了联邦监管机构，并且未能正确估计其平台上的机器人数量。&lt;/strong&gt;这些爆炸性的指控可能会产生巨大的后果，包括联邦罚款和特斯拉首席执行官埃隆-马斯克&lpar;Elon Musk&rpar;收购Twitter的竞标可能会解体。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [分析师认为准备换iPhone 14的用户比往年少：老CPU+价格上涨是主因](https://www.cnbeta.com/articles/tech/1307897.htm) | Tue Aug 23 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;iPhone 14新系列很可能选择9月7日左右发布，按理说，这个时候，应该是iPhone 13的销售淡季，毕竟用户一边在观望新机，一边也在等老型号降价。可是今年的情况似乎有所不同，&lt;strong&gt;摩根大通的分析师Samik Chatterjee称，这段时间内决定推迟购买iPhone的用户比往年少。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [770亿晶体管的中国第一算力通用GPU芯片 壁仞科技BR100亮相海外](https://www.cnbeta.com/articles/tech/1307895.htm) | Tue Aug 23 2022 4:12 PM 
+- 💂 [770亿晶体管的中国第一算力通用GPU芯片 壁仞科技BR100亮相海外](https://www.cnbeta.com/articles/tech/1307895.htm) | Tue Aug 23 2022 4:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月9日，国内科技创新企业壁仞科技&lpar;Birentech&rpar;正式发布了BR100系列通用计算GPU，号称算力国内第一，多向指标媲美甚至超越国际旗舰产品。当地时间8月22日，第34届Hot Chips芯片大会首日演讲，NVIDIA Hopper、AMD Instinct MI200、Intel Ponte Vecchio三大巨头的通用GPU纷纷秀出肌肉，而与之并肩亮相的，就是壁仞科技BR100。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Razer发布Basilisk&lpar;巴塞利斯蛇&rpar;V3 Pro无线鼠标](https://www.cnbeta.com/articles/tech/1307893.htm) | Tue Aug 23 2022 4:11 PM 
+- 🚀 [Razer发布Basilisk&lpar;巴塞利斯蛇&rpar;V3 Pro无线鼠标](https://www.cnbeta.com/articles/tech/1307893.htm) | Tue Aug 23 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Razer刚刚宣布了其Basilisk游戏鼠标的一个新型号，它被称为Basilisk V3 Pro，V3 Pro的形状和布局与标准V3几乎相同，针对右手手形设计和11个可编程按钮，在标准版Basilisk V3上看到的一些硬件改进，即Razer的新光学微动、RGB底部打灯，以及可根据旋转速度在带段落阻尼和自由旋转模式之间动态转换的滚轮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307893.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NFT正日益成为耐克等企业重要的收入渠道](https://www.cnbeta.com/articles/tech/1307891.htm) | Tue Aug 23 2022 3:58 PM 
+- 🎊 [NFT正日益成为耐克等企业重要的收入渠道](https://www.cnbeta.com/articles/tech/1307891.htm) | Tue Aug 23 2022 3:58 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;像耐克、杜嘉班纳、蒂芙尼、古驰和阿迪达斯这样的企业正在从NFT中获得数百万美元的收益。&lt;/strong&gt;其中，耐克以高达1.85亿美元的NFT销售收入位居榜首。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307891.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [丹麦哥本哈根放弃2025年前实现碳中和目标](https://www.cnbeta.com/articles/tech/1307889.htm) | Tue Aug 23 2022 3:55 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;丹麦首都哥本哈根市市长索菲·安诺生22日说，由于一家环保企业不符合政府碳捕捉方面的资助标准，哥本哈根眼下放弃2025年前实现碳中和的目标。安诺生当天告诉丹麦广播公司：“到2025年我们还做不到（实现碳中和），这令人非常恼火。我实在难过。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307889.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
