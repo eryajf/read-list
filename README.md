@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0823](http://jandan.net/p/111200) | Tue Aug 23 2022 3:42 AM 
+- 🚀 [巴厘岛猴子生活太安逸 石器时代的加点都歪了：没发明石斧，就先搞情趣用品](http://jandan.net/p/111179) | Tue Aug 23 2022 4:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    在巴厘岛的圣猴森林里，食物随处可见，居民手淫猖獗。 
+    </details> 
+
+- 🙉 [今日好价 0823](http://jandan.net/p/111200) | Tue Aug 23 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
     实名注册在吐槽里 
     </details> 
 
-- 🙉 [猫猫为什么会“玩弄”自己的猎物？](http://jandan.net/p/111199) | Tue Aug 23 2022 2:56 AM 
+- 🎉 [猫猫为什么会“玩弄”自己的猎物？](http://jandan.net/p/111199) | Tue Aug 23 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
     从老祖宗那里传下来的本能 
     </details> 
 
-- 🎉 [雷暴天气里可以洗澡和刷碗吗](http://jandan.net/p/111167) | Mon Aug 22 2022 3:23 PM 
+- 🐲 [雷暴天气里可以洗澡和刷碗吗](http://jandan.net/p/111167) | Mon Aug 22 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
     小时候在家里看电视，只要外面一打雷，奶奶就会把电视关了 
     </details> 
 
-- 🐲 [人人都该练的三个健身项目](http://jandan.net/p/111197) | Mon Aug 22 2022 8:19 AM 
+-  [人人都该练的三个健身项目](http://jandan.net/p/111197) | Mon Aug 22 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
     课代表：农夫行走、六角杠铃硬拉、深蹲 
-    </details> 
-
--  [少算了10℃  当前极端高温高湿已超出了用于计算体感温度的热指数公式的适用范围](http://jandan.net/p/111193) | Mon Aug 22 2022 7:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    热指数是用来表征人体应对高温时的生理状态的指标，也就是所谓的体感温度 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
