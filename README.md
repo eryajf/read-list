@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于 go 的 swagger 页面](https://www.v2ex.com/t/874915#reply0) | Tue Aug 23 2022 3:09 PM
-- 🤗 [JMXConnectorFactory.connect 出现“ Java .rmi.ConnectException: Connection refused to host: localhost”](https://www.v2ex.com/t/874899#reply0) | Tue Aug 23 2022 1:41 PM
-- 🎭 [请问如何使用快捷键启动后切换到 Windows Terminal？](https://www.v2ex.com/t/874897#reply7) | Tue Aug 23 2022 1:38 PM
-- 🥷 [群晖 active backup 恢复不了。。。](https://www.v2ex.com/t/874895#reply0) | Tue Aug 23 2022 1:34 PM
-- 🐵 [感觉中文搜索是越来越难用了](https://www.v2ex.com/t/874893#reply9) | Tue Aug 23 2022 1:26 PM<!-- v2ex:END -->
+- 🥸 [求助 SQL 的语法的小疑问](https://www.v2ex.com/t/874923#reply2) | Tue Aug 23 2022 3:39 PM
+- 🤗 [[开源]Goravel，一个功能完备、具有良好扩展能力的 Golang Web 应用程序框架，致敬 Laravel](https://www.v2ex.com/t/874919#reply0) | Tue Aug 23 2022 3:24 PM
+- 🎭 [关于 go 的 swagger 页面](https://www.v2ex.com/t/874915#reply0) | Tue Aug 23 2022 3:09 PM
+- 🥷 [JMXConnectorFactory.connect 出现“ Java .rmi.ConnectException: Connection refused to host: localhost”](https://www.v2ex.com/t/874899#reply0) | Tue Aug 23 2022 1:41 PM
+- 🐵 [请问如何使用快捷键启动后切换到 Windows Terminal？](https://www.v2ex.com/t/874897#reply9) | Tue Aug 23 2022 1:38 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
