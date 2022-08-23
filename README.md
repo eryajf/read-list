@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Scrub Plus - 清理断开连接的号码列表](https://xinquji.com/posts/178955?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:25 AM 
+- 👀 [Colonist.io - 在线玩竞争激烈的卡坦岛定居者](https://xinquji.com/posts/178970?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     清理断开连接的号码列表  
+     在线玩竞争激烈的卡坦岛定居者  
     </details> 
 
-- 🥷 [Super Prompts - DALL·E 2 和 midjourney 提示的市场](https://xinquji.com/posts/178954?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:24 AM 
+- 🥷 [3D Resources - 3D 很难，但有合适的资源也不是不可能](https://xinquji.com/posts/178969?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     DALL·E 2 和 midjourney 提示的市场  
+     3D 很难，但有合适的资源也不是不可能  
     </details> 
 
-- 💼 [WatchData - Web3 项目的 API 服务](https://xinquji.com/posts/178953?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:23 AM 
+- 💼 [eMiner 6.0 - 在社交网络和 G-Maps 上每分钟获得多达 1000 个潜在客户](https://xinquji.com/posts/178968?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     Web3 项目的 API 服务  
+     在社交网络和 G-Maps 上每分钟获得多达 1000 个潜在客户  
     </details> 
 
-- 🦅 [Planndu - 任务管理应用程序旨在提高注意力和生产力](https://xinquji.com/posts/178952?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:22 AM 
+- 🦅 [Ramp Flex - 有史以来最灵活的向供应商付款的方式](https://xinquji.com/posts/178967?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     任务管理应用程序旨在提高注意力和生产力  
+     有史以来最灵活的向供应商付款的方式  
     </details> 
 
-- 😺 [Web3 Daily - Web3 和加密新闻，翻译成简单的英语](https://xinquji.com/posts/178951?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:21 AM 
+- 😺 [LAB22 - 无限可调 iPad 支架](https://xinquji.com/posts/178966?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     Web3 和加密新闻，翻译成简单的英语  
+     无限可调 iPad 支架  
     </details> 
 <!-- xinquji:END -->
