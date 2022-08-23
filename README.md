@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 谷歌曝光有史以来最大DDoS攻击；一根USB线就能偷走韩系车](https://www.freebuf.com/news/342571.html) | Mon Aug 22 2022 10:00 AM 
+- 🦄 [未更新固件，超八万台海康威视摄像机可能被利用](https://www.freebuf.com/news/342613.html) | Tue Aug 23 2022 3:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    安全研究人员发现超过八万台海康威视摄像机尚未更新固件，容易受到关键命令注入漏洞的影响。 
+    </details> 
+
+- 🦄 [黑客利用零日漏洞窃取 General Bytes ATM 机上的加密货币](https://www.freebuf.com/news/342610.html) | Tue Aug 23 2022 3:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    据 The Hacker News 网站披露，比特币 ATM 机制造商 General Bytes 证实其遭到了网络攻击。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | 谷歌曝光有史以来最大DDoS攻击；一根USB线就能偷走韩系车](https://www.freebuf.com/news/342571.html) | Mon Aug 22 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
     近段时间，美国的TikTok和YouTube上兴起了一种所谓的“起亚挑战”，一些现代或起亚的车型只需要一根USB线就可以成功启动。 
     </details> 
 
-- 🦄 [攻防经验和能力如何沉淀到日常安全防护？| FreeBuf甲方社群直播回顾](https://www.freebuf.com/articles/342569.html) | Mon Aug 22 2022 9:33 AM 
+- 🪄 [攻防经验和能力如何沉淀到日常安全防护？| FreeBuf甲方社群直播回顾](https://www.freebuf.com/articles/342569.html) | Mon Aug 22 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    15天的攻防演练落幕，红蓝双方经历一场大考。8月18日，第八期FreeBuf甲方社群直播组织了「攻防复盘，星空夜话」，邀请红蓝方知名专家交流攻防演练实战经验。本期直播由公安部第三研究所研究员樊苑担任主持人，蓝方代表某企业安全架构师李宗晖、某国际自动化厂商网络安全服务团队负责人剑思庭和红方代表斗象科技安服专家张贵卿、黄炜榆，从规则演变、0day利用到能力沉淀等五个角度探讨交流攻防经验。FreeBuf 
+    红蓝方知名专家从规则演变、0day利用到能力沉淀等五个角度探讨交流攻防经验。 
     </details> 
 
-- 🦅 [网络犯罪组织 TA558 针对酒店、宾馆和旅游机构展开攻击](https://www.freebuf.com/news/342540.html) | Mon Aug 22 2022 5:32 AM 
+- 💻 [网络犯罪组织 TA558 针对酒店、宾馆和旅游机构展开攻击](https://www.freebuf.com/news/342540.html) | Mon Aug 22 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员发现一个出于经济动机的网络犯罪集团，与针对拉丁美洲酒店和旅游组织的持续攻击浪潮有关。 
-    </details> 
-
-- 🪄 [苹果曝严重安全漏洞，喜提热搜第一](https://www.freebuf.com/news/342532.html) | Mon Aug 22 2022 5:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    苹果公司发布了两份安全报告，承认公司的智能手机iPhone、平板电脑iPad和iMac电脑等产品存在严重的安全漏洞。 
-    </details> 
-
-- 💻 [DEF CON大会：白帽黑客演示远程控制退役卫星](https://www.freebuf.com/articles/wireless/342529.html) | Mon Aug 22 2022 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    白帽黑客组织Shadytel现场演示远程劫持一颗退役卫星，并利用它来播放著名黑客电影《战争游戏》。 
     </details> 
 <!-- freebuf:END -->
 
