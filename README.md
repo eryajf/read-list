@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [git从配置到工作中的使用（详细）](https://juejin.cn/post/7134952261075075103) | Tue Aug 23 2022 6:19 AM 
+- 🤗 [Element 2 组件源码剖析之Steps 步骤条&lpar;下&rpar;-核心逻辑](https://juejin.cn/post/7134973747982762015) | Tue Aug 23 2022 7:42 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 从本地git账户的配置到GitHub上的配置 2.从工作中基本的使用到增加使用体验的git命令 
+    步骤条组件`Steps`是引导用户按照流程完成任务的分步导航条。当任务复杂或者存在先后关系时，将其分解成一系列步骤，从而简化任务。 
     </details> 
 
-- 🎡 [深入解析Flutter下一代渲染引擎Impeller](https://juejin.cn/post/7134950321595351047) | Tue Aug 23 2022 6:11 AM 
+- 🎡 [比vuex香的🍍pinia最快速入门指南](https://juejin.cn/post/7134968684342165512) | Tue Aug 23 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-    Impeller是Flutter用以替换Skia的下一代渲染方案，Impeller解决了Skia的哪些问题？我们一起去探究矢量渲染器的原理和Impeller背后的技术。 
+    如果是新项目, 完全基于setup的, 那么建议使用pinia代替vuex, vuex官网有说pinia可以理解为vuex5, vuex不会出5了. 安装 使用 首先在&quot;main.js&quot;中引入&quot;pin 
     </details> 
 
-- 🕯 [PM都用什么软件做原型设计](https://juejin.cn/post/7134949498194755597) | Tue Aug 23 2022 6:08 AM 
+- 🕯 [浅谈Kotlin编程-Kotlin数据类型转换](https://juejin.cn/post/7134925286063226911) | Tue Aug 23 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
-    现在的原型设计工具比较多，像Axure、sketch、XD等，PS也可以做。 Sketch画原型是不是比Axure好，这个我不知道，因为我是Windows系统，无法使用Sketch，但是就Window 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 编程语言中，数据类型转换是很常见的，之前学过的C/C++，Java语言都接触过数据类型转换。 
     </details> 
 
-- 🚀 [spring接口多实现类，选择性注入的4种解决方案](https://juejin.cn/post/7134940044179013668) | Tue Aug 23 2022 5:31 AM 
+- 🚀 [LeetCode - #172 阶乘后的零](https://juejin.cn/post/7134915475233832974) | Tue Aug 23 2022 3:57 AM 
     <details><summary>展开描述 ...</summary> 
-    spring 一个接口有多个实现类，选择性依赖注入的4种解决方案。一个接口多个实现类，该依赖注入哪一个作为实例Bean？如何实现是最佳方案？ 
+    我们社区陆续会将顾毅（Netflix 增长黑客，《iOS 面试之道》作者，ACE 职业健身教练。）的 Swift 算法题题解整理为文字版以方便大家学习与阅读。 
     </details> 
 
-- 💪 [前端工资涨不上去？可能是你没掌握构建工具：关于 Webpack、Babel、esbuild、Vite、Rollup、Parcel、SWC......的那些事](https://juejin.cn/post/7134925339502837774) | Tue Aug 23 2022 4:36 AM 
+- 💪 [全方位剖析iOS高级技术问题&lpar;六&rpar;之多线程相关问题](https://juejin.cn/post/7134904109697597471) | Tue Aug 23 2022 3:12 AM 
     <details><summary>展开描述 ...</summary> 
-    前端工程化，是每一个高级前端开发人员都必须要去深入了解的内容，这也是想要拿到高薪不可避免的一个关键因素。 
+    本文主要内容 一.GCD相关 二.NSOperation相关 三.NSThread相关 四.多线程与锁 
     </details> 
 <!-- juejin:END -->
 ### 少数派
