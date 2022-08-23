@@ -401,7 +401,7 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本月玩什么 | 双点校园、灵魂骇客 2、咩咩启示录、酷极轮滑](https://sspai.com/post/75301) | Tue Aug 23 2022 8:00 AM 
+- 👹 [本月玩什么 | 双点校园、灵魂骇客 2、咩咩启示录、酷极轮滑](https://sspai.com/post/75301) | Tue Aug 23 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     本月值得关注的新游汇总。&lt;a href=&quot;https://sspai.com/post/75301&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
