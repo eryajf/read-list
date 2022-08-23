@@ -333,9 +333,9 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [未更新固件，超八万台海康威视摄像机可能被利用](https://www.freebuf.com/news/342613.html) | Tue Aug 23 2022 3:27 AM 
+- 🦄 [因用户未更新固件，超八万台摄像机可能被利用](https://www.freebuf.com/news/342613.html) | Tue Aug 23 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
-    安全研究人员发现超过八万台海康威视摄像机尚未更新固件，容易受到关键命令注入漏洞的影响。 
+    安全研究人员发现超过八万台摄像机尚未更新固件，容易受到关键命令注入漏洞的影响。 
     </details> 
 
 - 🦄 [黑客利用零日漏洞窃取 General Bytes ATM 机上的加密货币](https://www.freebuf.com/news/342610.html) | Tue Aug 23 2022 3:17 AM 
