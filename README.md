@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科隆：开放世界生存网游《沙丘：觉醒》预告片](https://hot.cnbeta.com/articles/game/1307909.htm) | Tue Aug 23 2022 7:28 PM 
+- 🕯 [科隆：《家园3》首个实机预告 2023上半年发售](https://hot.cnbeta.com/articles/game/1307913.htm) | Tue Aug 23 2022 8:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在2022年科隆展开幕之夜直播上，Gearbox发布了《家园3》首个实机预告片，本作将于2023年上半年发售。《家园3》为您提供了一个运筹帷幄、蔚为壮观且绝对独一无二的世界，带您再度领略年度最佳游戏大奖的科幻即时战略系列游戏的魅力。在令人炫目的全 3D 空间中掌控全局，带领舰队作战，并体验浩瀚银河中徐徐展开的荣获大奖的故事剧情。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [据称苹果的内置钱包应用在iOS 16.1中可被删除](https://www.cnbeta.com/articles/tech/1307911.htm) | Tue Aug 23 2022 8:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;根据今天发布的iPadOS 16.1测试版中的代码，内置的iPhone钱包应用将能够在iOS 16.1中由用户选择自行删除。该代码表明，如果钱包应用已经从iPhone上删除，并且持有iPhone的人试图使用Apple Pay等功能，那么钱包应用将可以重新从App Store下载。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [科隆：开放世界生存网游《沙丘：觉醒》预告片](https://hot.cnbeta.com/articles/game/1307909.htm) | Tue Aug 23 2022 7:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在2022年科隆展开幕之夜直播上，Funcom公布了开放世界生存网游《沙丘：觉醒》的预告片。《沙丘：觉醒》于去年首次公布，开发灵感来自于Funcom发行的另外一个游戏——《流放者柯南》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科隆：《霍格沃茨：遗产》“黑魔法”预告](https://hot.cnbeta.com/articles/game/1307907.htm) | Tue Aug 23 2022 7:27 PM 
+- 🚀 [科隆：《霍格沃茨：遗产》“黑魔法”预告](https://hot.cnbeta.com/articles/game/1307907.htm) | Tue Aug 23 2022 7:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在2022年科隆展开幕之夜直播上，华纳兄弟游戏公布了《霍格沃茨：遗产》的新预告——巴斯蒂安·萨洛的黑暗遗产（Sebastian Sallow&amp;#39;s Dark Legacy）。如果你选择和斯莱特林的学生塞巴斯蒂安·萨洛成为朋友，你将面临接受或拒绝黑魔法的决定，因为你将通过他的同伴任务线揭开他家庭的秘密。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新研究：提高大豆光合作用效率可大幅增加产量](https://www.cnbeta.com/articles/science/1307905.htm) | Tue Aug 23 2022 7:24 PM 
+- 🎊 [新研究：提高大豆光合作用效率可大幅增加产量](https://www.cnbeta.com/articles/science/1307905.htm) | Tue Aug 23 2022 7:24 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一项新研究说，通过基因改造可以提高大豆光合作用效率，使大豆在质量不变情况下最多可增产33%。光合作用指植物利用光能，将水和二氧化碳转化为有机物并释放氧气的过程。据介绍，遇到过强光照时，植物出于自我保护会激活叶黄素循环，从而使叶片释放多余能量，免受强光侵害；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [比尔·盖茨等美国富豪 为何纷纷买田种地？](https://www.cnbeta.com/articles/tech/1307903.htm) | Tue Aug 23 2022 7:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;是什么让美国富豪们都沉迷“种地”？&lt;/strong&gt;近几个月来，美国富豪又前往西部置办田产。据报道，近日，美国微软公司创始人比尔·盖茨已获得美国北达科他州司法部门批准，可以购买当地约850公顷农田。此前，他旗下的红河信托基金以1350万美元的价格购买了位于北达科他州东北部的大片农田。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [欧洲近三分之二地区干旱或有干旱风险](https://www.cnbeta.com/articles/tech/1307901.htm) | Tue Aug 23 2022 7:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;欧洲联盟委员会联合研究中心22日发布的一份报告显示，欧洲近三分之二地区发生干旱或面临干旱风险，部分地区旱情自8月以来持续恶化，已影响到内河航运、水力发电和农业收成。该联合研究中心的欧洲干旱观测网站根据降雨量、土壤湿度和植物光合作用吸收光能水平等数据评估干旱程度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
