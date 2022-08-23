@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [PS4/PS5模拟器Kyty新版发布 能在PC上玩几款游戏](https://hot.cnbeta.com/articles/game/1307695.htm) | Tue Aug 23 2022 7:19 AM 
+- 🕯 [三星财险增资获批，腾讯将持股32%成第二大股东](https://www.cnbeta.com/articles/tech/1307739.htm) | Tue Aug 23 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日开发商InoriRus发布了PS4/PS5模拟器Kyty新版0.2.0。InoriRus表示Kyty已能运行一些简单的PS4游戏和PS5的自制程序了，一起来看看模拟器演示视频吧！&lt;/strong&gt;Kyty已可以运行《黑洞》和《百战天虫WMD》这两款PS4游戏，虽然不太流畅，但至少能玩了。Kyty的v0.2.0版压缩包只有15MB，游戏性能表现不太好。与PS3模拟器RPCS3相比，差距太大。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;腾讯入股三星财险终获批。&lt;strong&gt;近日，上海银保监局披露的变更注册资本批复显示，经审核，批准三星财产保险（中国）有限公司增加注册资本金551675676元。增资后，该公司的注册资本金从324000000元变更为875675676元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[图]Porsche Design和AGON by AOC合作推出高端电竞显示器PD27S](https://www.cnbeta.com/articles/tech/1307693.htm) | Tue Aug 23 2022 7:18 AM 
+- 💼 [车载导航提示“路上有枪战” 上海公安辟谣：可能是系统BUG或黑客攻击](https://www.cnbeta.com/articles/tech/1307737.htm) | Tue Aug 23 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Porsche Design 和 AGON by AOC 合作推出了 Porsche Design AOC AGON PRO PD27S，这是一款以保时捷跑车为灵感的 27 英寸高端游戏显示器。&lt;/strong&gt;该显示器的刷新率为 165Hz，不过可以超频到 170Hz，灰阶响应时间为 1ms，获得了 DisplayHDR 400 认证，拥有广色域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你正在开车，突然车机屏幕里跳出一条提示：路上有枪战。你信还是不信？&lt;strong&gt;8月23日，上海辟谣平台官方发布消息称，上海有不少车主遭遇车内显示屏出现“路上有枪战”的交通警告提示。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华擎Arc A380入门独显率先投放美国市场 定价139美元](https://www.cnbeta.com/articles/tech/1307691.htm) | Tue Aug 23 2022 7:14 AM 
+- 💂 [7月新能源车销量同比增长1.2倍：购置税延期至明年年底，全年销量破650万辆稳了？](https://www.cnbeta.com/articles/tech/1307735.htm) | Tue Aug 23 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管仍存在着驱动优化方面的大量问题，&lt;strong&gt;但英特尔合作伙伴之一的华擎（ASRock），终于还是在首发两个多月后，将首款入门级 Arc A380 桌面独显推向了美国市场。&lt;/strong&gt;虽然当地首发只有华擎 Arc A380 挑战者可选，但美国消费者至少有了 AMD Radeon RX 6400 和 GeForce GTX 1650 之外的又一个选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;淡季不淡，是7月新能源车市场的关键词。中汽协数据显示，7月国内新能源汽车销量同比增长1.2倍至59.3万辆，继续保持高速增长势头，市场占有率达到24.5%。1~7月，国内新能源汽车销量为319.4万辆，同比增长1.2倍，市场占有率达到22.1%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Caviar奢华定制版三星Galaxy Z Fold4发布 售价将近8万](https://www.cnbeta.com/articles/tech/1307689.htm) | Tue Aug 23 2022 7:12 AM 
+- 🚀 [电子烟管理办法过渡期即将结束，“风味评审”难倒诸多厂商](https://www.cnbeta.com/articles/tech/1307733.htm) | Tue Aug 23 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，三星发布了旗下新一代折叠屏手机Galaxy Z Fold4，12+256GB的顶配版售价来到了12999元。但今天，&lt;strong&gt;俄罗斯奢侈品品牌Caviar推出了一套定制版的Galaxy Z Fold4，最高售价飙到了11620美元（约合人民币79597元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“目前绝大部分电子烟厂商均在等待产品许可，相关生产工作必须在产品得到许可之后才能进行。根据此前市场反馈，烟草口味仅占销量整体销量的10%。我们预期在10月的过渡期后，市场可能出现断崖式下跌。”深圳电子烟研发负责人张磊对第一财经记者表示电子烟国标法落地后的变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果计划在印度以更短的滞后期生产iPhone 14](https://www.cnbeta.com/articles/tech/1307687.htm) | Tue Aug 23 2022 7:03 AM 
+- 🎊 [小米12T Pro现身：1.5K直屏旗舰 将于下月登场](https://www.cnbeta.com/articles/tech/1307731.htm) | Tue Aug 23 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;获悉，苹果计划开始在印度生产iPhone 14。&lt;/strong&gt;据消息人士透露，该公司一直在跟供应商合作以增加在印度的生产量以及缩短制造新iPhone的滞后期，而此前推出的iPhone通常需要6到9个月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月23日消息，&lt;strong&gt;小米12T Pro现身Google Play Console，该机将在9月份登场。&lt;/strong&gt;Google Play Console现身，&lt;strong&gt;小米12T Pro采用1.5K直屏，&lt;/strong&gt;屏幕与Redmi K50至尊版一致，分辨率为2712×1220，搭载高通骁龙8+旗舰处理器，配备12GB内存，预装Android 12操作系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
