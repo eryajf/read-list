@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [55岁妮可基德曼登杂志封面 健美肌肉依旧火辣](https://hot.cnbeta.com/articles/movie/1307643.htm) | Tue Aug 23 2022 5:47 AM 
+- 🕯 [以太坊PoS转型在即 GPU挖矿或于9月15日迎来大限](https://www.cnbeta.com/articles/tech/1307665.htm) | Tue Aug 23 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日55岁的妮可·基德曼登上《Perfect》杂志封面，身材依旧火辣，这肌肉线条太强了。&lt;/strong&gt;妮可·基德曼是出生于1967年的澳大利亚，身高180CM的她曾被称为“澳大利亚第一美女”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在多次跳票之后，矿工和 PC 用户关注已久的以太坊重大转型事件，有望于 9 月 15 日终结持续多年的 GPU 挖矿热潮。&lt;/strong&gt;TechSpot 指出，通过从工作量（PoW）向权益证明（PoS）转型，此举可极大减少加密挖矿基础设施的碳排放、并让价格高企的显卡市场重回理性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《明日战记》票房终于突破5亿元 官宣密钥延期](https://hot.cnbeta.com/articles/movie/1307641.htm) | Tue Aug 23 2022 5:46 AM 
+- 💼 [车主更换电池组被报54万元“天价”，极星回应称价格不属实](https://www.cnbeta.com/articles/tech/1307663.htm) | Tue Aug 23 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日《明日战记》官方宣布，机甲科幻电影《明日战记》票房突破5亿元，古天乐手写感谢信感谢观众：“逆风迎战，永不止步。感谢万千观众厚爱，承蒙院线同仁支持，《明日战记》将继续奋力振翅高飞，与大家一起昂首共进。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，有媒体在社交平台爆料称，极星2车主黄先生投诉，车辆发生事故后电池受损，更换电池组遭遇54万元“天价”，而车辆实际开票价为24.9万元，不足维修费用的一半。&lt;/strong&gt;针对极星2“天价维修费”事件，极星方面向蓝鲸汽车表示，“54万的价格是不属实的。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [乔治·马丁曾争取把《权游》拍成10季 制作人却不答应](https://hot.cnbeta.com/articles/movie/1307639.htm) | Tue Aug 23 2022 5:43 AM 
+- 💂 [任正非：全球经济长期衰退，华为要把活下来作为主要纲领](https://www.cnbeta.com/articles/tech/1307661.htm) | Tue Aug 23 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《权游》衍生剧《龙之家族》8月21日在HBO Max平台开播，并且创下了HBO剧集的最高开播收视。而距离《权利的游戏》第八季也系列是最后一季结束已经过去了三年多，烂尾仍然是粉丝们议论的焦点。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;23日早间，第一财经记者从多个信源获悉，华为内部论坛22日下午上线了一篇关于《整个公司的经营方针要从追求规模转向追求利润和现金流》的文章。&lt;/strong&gt;华为创始人任正非在文内提到，全球经济将面临着衰退、消费能力下降的情况，华为应改变思路和经营方针，从追求规模转向追求利润和现金流，保证渡过未来三年的危机。“把活下来作为最主要纲领，边缘业务全线收缩和关闭，把寒气传递给每个人。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《风骚律师》大结局创纪录 获全系列最高收视率](https://hot.cnbeta.com/articles/movie/1307637.htm) | Tue Aug 23 2022 5:42 AM 
+- 🚀 [米家空气净化器4 MAX官宣：千分位甲醛数显](https://www.cnbeta.com/articles/tech/1307659.htm) | Tue Aug 23 2022 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《风骚律师》第六季已于8月16日迎来大结局，给这部剧画上了一个完美的句号，《绝命毒师》宇宙也迎来了终结。&lt;strong&gt;该剧也获得了极高的的评价，IGN也给整部剧打出了10分的满分评价。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日小米智能生态官宣，&lt;strong&gt;将于明日预售新品——米家空气净化器4 MAX。&lt;/strong&gt;从海报可以看出，米家空气净化器4 MAX的洁净空气输出比率（CADR）&lt;strong&gt;高达900立方米/h。&lt;/strong&gt;CADR数值是衡量空气净化器净化效率的单位，一般来说，CADR达到800立方米/h的空气净化器可以满足50-100平方米空间的空气洁净需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《利刃出鞘2》定档12月23日网飞开播 全新剧照公开](https://hot.cnbeta.com/articles/movie/1307635.htm) | Tue Aug 23 2022 5:42 AM 
+- 🎊 [反向“折扣”23%：EA《FIFA 23》国区豪华版售价飙至418元](https://hot.cnbeta.com/articles/game/1307657.htm) | Tue Aug 23 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，侦探悬疑片《利刃出鞘2》公布了新的剧照和片场照，定档12月23日在网飞开播，院线上映时间待定&lt;/strong&gt;，但会在将于9月8日—9月18日期间举行的多伦多电影节上进行世界首映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为EA与FIFA合作推出的最后一款足球游戏，《FIFA 23》的象征意义无需多言，但EA最近的一套操作，却让不少玩家开始怀疑EA对待“系列最后一作”的态度。近日，&lt;strong&gt;EA对《FIFA 23》的豪华版售价来了一拨反向”折扣“，将价格从原本的228元涨到了418元，幅度达到了23%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
