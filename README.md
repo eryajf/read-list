@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从《 Extracting Top-K Insights from Multi-dimensional Data 》看前端可视化](https://juejin.cn/post/7134910718737907743) | Tue Aug 23 2022 3:37 AM 
+- 🤗 [微信小程序高级指南-接入网易七鱼SDK](https://juejin.cn/post/7134915924410236965) | Tue Aug 23 2022 3:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    网易七鱼微信小程序访客端SDK插件是一个微信小程序端客服系统访客解决方案，既包含了客服聊天逻辑管理，也提供了聊天界面，开发者可方便的将客服功能集成到自己的 微信小程序 中。 
+    </details> 
+
+- 🎡 [基于 Flink x TiDB，智慧芽打造实时分析新方案](https://juejin.cn/post/7134911474098520078) | Tue Aug 23 2022 3:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文整理自智慧芽数据仓库架构师曲明星在 Flink Forward Asia 2021 实时数仓专场的分享。 
+    </details> 
+
+- 🕯 [基于 Flink 构建大规模实时风控系统在阿里巴巴的落地](https://juejin.cn/post/7134911172792287246) | Tue Aug 23 2022 3:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    阿里云实时计算产品经理李佳林（风元）在 7 月 5 日 Flink 峰会（CSDN 云原生系列）的演讲。 
+    </details> 
+
+- 🚀 [从《 Extracting Top-K Insights from Multi-dimensional Data 》看前端可视化](https://juejin.cn/post/7134910718737907743) | Tue Aug 23 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     讲解论文提出的insight概念，并阐明提取top-k insight的系统架构。insight为前端可视化中自动化这一分支提供了新的解 
     </details> 
 
-- 🎡 [03 开源任务管理系统：创建一个任务](https://juejin.cn/post/7134910004712194056) | Tue Aug 23 2022 3:34 AM 
+- 💪 [百度App 低端机优化-启动性能优化（概述篇）](https://juejin.cn/post/7134904047080865805) | Tue Aug 23 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    虽说是一个任务管理系统，但简单地讲，其实就是任务的增删改查&lpar;CRUD&rpar;。 其中最重要的又当属增，即创建任务，此为数据之源，删改查都依赖于它所产生的数据。 
-    </details> 
-
-- 🕯 [阿里云丁宇：以领先的云原生技术，激活应用构建新范式](https://juejin.cn/post/7134891466517643300) | Tue Aug 23 2022 2:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    8 月 11 日，2022 阿里云飞天技术峰会在深圳举行，会上阿里云提出云原生激活应用构建三大范式，并发布最新的产品与解决方案。 
-    </details> 
-
-- 🚀 [MySQL进阶系列：总结篇](https://juejin.cn/post/7134890534371328014) | Tue Aug 23 2022 2:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    mysql系列写到这基本已经结束了，此篇便是最终篇了，之前的历史文章已经写了19篇，这些内容让你做一个高级开发是够够的了 
-    </details> 
-
-- 💪 [彻底理解JavaScript中的类型转换](https://juejin.cn/post/7134890447964471303) | Tue Aug 23 2022 2:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 9 天，点击查看活动详情 &gt;&gt; 1. 什么是类型转换？ Javascript 是一种弱类型语言，这意味着变量是没有明确类型的，而 
+    本专题以低端机启动性能优化的视角，**覆盖技术架构上的性能设计、性能问题定位、防劣化机制等方面最佳实践，最终形成性能优化闭环**。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
