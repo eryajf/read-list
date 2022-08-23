@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码，节省苹果电脑 CPU 资源耗电发热：Not yet, AV1](http://www.mac52ipod.cn/post/apple-mac-chrome-extension-not-yet-av1.php) | Sun Aug 21 2022 6:50 AM 
+- 👨‍🏫 [Apple新闻之苹果自助维修服务覆盖到 Mac 用户了](http://www.mac52ipod.cn/post/apple-expands-self-service-repair-to-mac-notebooks.php) | Tue Aug 23 2022 3:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果今年 4 月在美国推出了针对 iPhone 用户的自助维修服务，交钱后苹果会寄来一个巨大的工具箱，里面有各种专业设备和维修手册，让用户自己维修 iPhone。修完再把工具箱寄回给苹果。&lt;/p&gt;&lt;p&gt;现在，使用 Apple Silicone 芯片的 MacBook Pro、MacBook Air 用户也能使用自助维修服务了。工具箱租金 49 美元，租期一周。&lt;/p&gt;&lt;p&gt;苹果官网的详细介绍 &lt;u&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/&quot; target=&quot;_blank&quot; title=&quot;Apple expands Self Service Repair to Mac notebooks&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;现在，苹果的自助维修服务还只在美国推出，今年晚些时候会拓展到其它国家。想知道这工具箱里到底有什么，怎么自助维修，可以看这个体验视频 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1CS4y1x7Mq&quot; target=&quot;_blank&quot; title=&quot;【官方双语】苹果的自助维修服务？烂透了#linus谈科技&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1CS4y1x7Mq&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%25BB%25B4%25E4%25BF%25AE&quot; rel=&quot;tag&quot;&gt;维修&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码，节省苹果电脑 CPU 资源耗电发热：Not yet, AV1](http://www.mac52ipod.cn/post/apple-mac-chrome-extension-not-yet-av1.php) | Sun Aug 21 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [看富士相机拍出的好照片以及拍摄这些照片时的相机参数设置：Fuji X Weekly — Film Recipes](http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-fuji-x-weekly-film-recipes.php) | Thu Aug 18 2022 3:58 AM 
+- 🦏 [看富士相机拍出的好照片以及拍摄这些照片时的相机参数设置：Fuji X Weekly — Film Recipes](http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-fuji-x-weekly-film-recipes.php) | Thu Aug 18 2022 3:58 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Apple新闻之 iPhone 年年焕新最低门槛缩短至 3 个月](http://www.mac52ipod.cn/post/apple-iphone-upgrade-program-updated.php) | Tue Aug 16 2022 4:25 AM 
+- 🚀 [Apple新闻之 iPhone 年年焕新最低门槛缩短至 3 个月](http://www.mac52ipod.cn/post/apple-iphone-upgrade-program-updated.php) | Tue Aug 16 2022 4:25 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [苹果的一个 Bug：MagSafe 充电线让笔记本变成永动机](http://www.mac52ipod.cn/post/apple-mac-magsafe-usb-c-bug.php) | Sun Aug 14 2022 5:46 AM 
+- 🏊 [苹果的一个 Bug：MagSafe 充电线让笔记本变成永动机](http://www.mac52ipod.cn/post/apple-mac-magsafe-usb-c-bug.php) | Sun Aug 14 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	MagSafe 充电线的一端插到 Mac 的 USB-C 接口，另一端吸到 MagSafe 充电口 …… 苹果电脑显示自己在充电，变成了一台「永动机」。&lt;/p&gt;&lt;p&gt;下面这个视频来自 @MKBHD，我扒到了 Bilibili &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Jd4y1T7Qp&quot; target=&quot;_blank&quot; title=&quot;Mac 永动机 Bug&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1Jd4y1T7Qp&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=344067125&amp;bvid=BV1Jd4y1T7Qp&amp;cid=790056203&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=magsafe&quot; rel=&quot;tag&quot;&gt;magsafe&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster](http://www.mac52ipod.cn/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php) | Wed Aug 10 2022 4:52 PM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	上网时经常被网站推到&amp;nbsp;&amp;nbsp;reCAPTCHA 图形验证页面，如下图所示。美其名曰为了验证我是个人还是个恶意攻击网站的程序，但实际上很可能是利用我帮 IT 公司们训练图像识别 AI（我就发现 Google 经常给我弹这个 reCAPTCHA 验证）。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6666&quot; border=&quot;0&quot; alt=&quot;我是人类 reCAPTCHA 图形验证码&quot; title=&quot;我是人类 reCAPTCHA 图形验证码&quot; /&gt;&lt;/p&gt;&lt;p&gt;用魔法才能打败魔法，所以用 AI 才能打败 AI。于是有了 Buster 这个浏览器扩展，用 AI 自动识别 reCAPTCHA 的语音验证，让你不用再点击好几次图片才能通过验证了。支持 Chrome、Firefox、Opera 和 Edge 浏览器。&lt;/p&gt;&lt;p&gt;Buster 主页 &lt;u&gt;&lt;a href=&quot;https://github.com/dessant/buster&quot; target=&quot;_blank&quot; title=&quot;Buster&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://github.com/dessant/buster&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=recaptcha&quot; rel=&quot;tag&quot;&gt;recaptcha&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=ai&quot; rel=&quot;tag&quot;&gt;ai&lt;/a&gt;
 
  
     </details> 
