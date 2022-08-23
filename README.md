@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AORUS推出四路PCIe 5.0 M.2 NVMe转接卡 支持16TB和60GB/s传输](https://www.cnbeta.com/articles/tech/1307811.htm) | Tue Aug 23 2022 11:10 AM 
+- 🕯 [宁德时代发布2022半年报：净利润81.68亿元 同比暴增82.17%](https://www.cnbeta.com/articles/tech/1307835.htm) | Tue Aug 23 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Gigabyte 旗下 AORUS 电竞品牌，刚刚推出了一款采用单槽单风扇设计的 PCIe 5.0 扩展卡。&lt;/strong&gt;特点是能够为计算机转换出四个 NVMe M.2 插槽，且最高支持 16 TB 容量。若通过配置 RAID 阵列，还可实现高达 60 GB/s 的极速数据传输。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月23日，宁德时代公布了2022年上半年报告。数据显示，宁德时代上半年营收1129.71亿元，同比增长156.32%；&lt;strong&gt;归母净利润81.68亿元，增长82.17%。&lt;/strong&gt;根据SNE数据，宁德时代上半年全球动力电池市占率34.8%，比去年同期提升6.2个百分点，&lt;strong&gt;稳居第一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“非洲手机之王”传音2022年上半年营收231亿元](https://www.cnbeta.com/articles/tech/1307809.htm) | Tue Aug 23 2022 10:52 AM 
+- 💼 [英特尔联合资管公司推出首个半导体合作投资计划（SCIP）](https://www.cnbeta.com/articles/tech/1307833.htm) | Tue Aug 23 2022 12:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月23日消息，今日，被誉为“非洲手机之王”的传音控股发布2022年上半年业绩，&lt;strong&gt;实现营业收入231.09亿元，同比增长1.12%；归母净利润16.54亿元，同比下降4.53%。&lt;/strong&gt;报告指出，传音控股今年上半年销售费用为15.68亿元，同比减少8.03%，主要由于本期销售费用中的宣传推广费减少所致；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;英特尔公司今天宣布了一项首创的半导体共同投资计划（SCIP），为资本密集型半导体行业引入了一种新的融资模式。&lt;/strong&gt;作为该计划的一部分，英特尔已经与全球最大的另类资产管理公司之一的布鲁克菲尔德资产管理公司的基础设施子公司签署了一份最终协议，该协议将为英特尔提供一个新的、扩大的资本池，用于生产建设。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微信个人二维码能换风格了 10种样式可选](https://www.cnbeta.com/articles/tech/1307807.htm) | Tue Aug 23 2022 10:51 AM 
+- 💂 [Windows 11 build 25182包含隐藏配置选项 可更快地加载任务栏](https://www.cnbeta.com/articles/tech/1307831.htm) | Tue Aug 23 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，微信面向iOS用户推送了8.0.27正式版，虽然更新日志依然是简单几个字“解决了一些已知问题”，但实际上还是有不少变化。而在这些变化中，最惹人关注的就是新版的个人名片二维码，&lt;strong&gt;终于把十年前的背景风格换掉了，现在的样式更简约大气。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软对Windows 11中的任务栏的实验仍在继续。在该公司删除了让人眼前一亮任务栏的任务栏读取动画后，用户发现了一个新的隐藏配置，它可以让系统更快地加载任务栏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [每小时最高5元，共享充电宝又涨价？多家企业这么答复](https://www.cnbeta.com/articles/tech/1307805.htm) | Tue Aug 23 2022 10:43 AM 
+- 🚀 [VESA发布ClearMR认证 为显示器运动模糊清晰度分级](https://www.cnbeta.com/articles/tech/1307829.htm) | Tue Aug 23 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继共享单车行业集体涨价后，共享充电宝也被曝出涨价。近日，“共享充电宝涨至4元每小时”、“共享充电宝客服回应涨价”的话题冲上微博热搜，共享充电宝的价格与服务再被用户“吐槽”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307805.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;视频电子标准协会（VESA）宣布推出ClearMR合规性测试规范，这是新的行业标准和认证计划，为数字显示器中的运动模糊分级提供了新的质量指标。ClearMR适用于显示面板、电视、显示器和带有嵌入式显示器的计算机，包括了一体机、笔记本电脑、笔记本电脑和平板电脑等一系列产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [威刚推出IM2P41B8：旗下首款工业级PCIe 4.0 x4 SSD](https://www.cnbeta.com/articles/tech/1307803.htm) | Tue Aug 23 2022 10:38 AM 
+- 🎊 [前安全主管称推特存在“严重缺陷” 马斯克、特朗普都曾被黑客攻击](https://www.cnbeta.com/articles/tech/1307827.htm) | Tue Aug 23 2022 12:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为业内知名的 DRAM 与 NAND 存储产品制造商之一，威刚科技刚刚推出了旗下首款 PCIe 4.0 x4 工业级 M.2 2280 固态驱动器。&lt;/strong&gt;对于需要处理大量数据负载的应用场景，IM2P41B8 能够提供出色的读写性能，辅以工业级的耐用与安全特性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，推特前安全主管在一份举报信中表示，该公司的高管欺骗了联邦监管机构和公司的董事会，称其在打击垃圾邮件、防范黑客方面存在“严重、令人震惊的缺陷”。据了解，推特的前安全主管名为佩特·扎特科&lpar;Peiter Zatko&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
