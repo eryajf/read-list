@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [共享充电宝价格疯涨，谁才是“罪魁祸首”？](https://www.cnbeta.com/articles/tech/1307619.htm) | Tue Aug 23 2022 4:00 AM 
+- 🕯 [55岁妮可基德曼登杂志封面 健美肌肉依旧火辣](https://hot.cnbeta.com/articles/movie/1307643.htm) | Tue Aug 23 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近除了“火爆全网”的雪糕刺客，“充电宝刺客”也是冲上了风口浪尖。我近期经常在网上看到有人在网络上吐槽自己使用共享充电宝遇到的一些遭遇，首先是疯涨的价格，其次是使用体验上槽点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日55岁的妮可·基德曼登上《Perfect》杂志封面，身材依旧火辣，这肌肉线条太强了。&lt;/strong&gt;妮可·基德曼是出生于1967年的澳大利亚，身高180CM的她曾被称为“澳大利亚第一美女”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Dioseve希望用培育卵细胞的技术来帮助不孕不育患者](https://www.cnbeta.com/articles/science/1307617.htm) | Tue Aug 23 2022 3:54 AM 
+- 💼 [《明日战记》票房终于突破5亿元 官宣密钥延期](https://hot.cnbeta.com/articles/movie/1307641.htm) | Tue Aug 23 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据TechCrunch报道，&lt;strong&gt;总部设在日本的生物技术初创公司&lt;a href=&quot;https://dioseve.com/en/home-en/&quot; target=&quot;_self&quot;&gt;Dioseve&lt;/a&gt;的雄心勃勃的目标是用其他组织培育人类卵细胞或卵子。&lt;/strong&gt;它的目标是帮助与不孕症作斗争的人，最近该公司在新一轮融资中筹集了300万美元。此轮融资由ANRI领投，Coral Capital也参与其中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日《明日战记》官方宣布，机甲科幻电影《明日战记》票房突破5亿元，古天乐手写感谢信感谢观众：“逆风迎战，永不止步。感谢万千观众厚爱，承蒙院线同仁支持，《明日战记》将继续奋力振翅高飞，与大家一起昂首共进。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [代号“Malma” 消息称苹果已启动M3芯片的核心设计](https://www.cnbeta.com/articles/tech/1307615.htm) | Tue Aug 23 2022 3:51 AM 
+- 💂 [乔治·马丁曾争取把《权游》拍成10季 制作人却不答应](https://hot.cnbeta.com/articles/movie/1307639.htm) | Tue Aug 23 2022 5:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为 M2 芯片的直接继任者，最新消息称 M3 芯片的核心设计已经启动。而且这款芯片预估将会在 2023 年下半年发布。&lt;strong&gt;援引 Commercial Times 报道，M3 芯片的内部代号为“Malma”，将会在台积电的 N3E 工艺架构上量产。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《权游》衍生剧《龙之家族》8月21日在HBO Max平台开播，并且创下了HBO剧集的最高开播收视。而距离《权利的游戏》第八季也系列是最后一季结束已经过去了三年多，烂尾仍然是粉丝们议论的焦点。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [名越稔洋谈与网易合作：互相交流 网易很有钱](https://hot.cnbeta.com/articles/game/1307613.htm) | Tue Aug 23 2022 3:51 AM 
+- 🚀 [《风骚律师》大结局创纪录 获全系列最高收视率](https://hot.cnbeta.com/articles/movie/1307637.htm) | Tue Aug 23 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《如龙》制作人名越稔洋于2021年离开世嘉后，在今年初加入网易成立“名越工作室”。近日名越稔洋接受德媒4Players采访，透露了正在开发的新作，他离开世嘉的原因，还有与网易的合作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《风骚律师》第六季已于8月16日迎来大结局，给这部剧画上了一个完美的句号，《绝命毒师》宇宙也迎来了终结。&lt;strong&gt;该剧也获得了极高的的评价，IGN也给整部剧打出了10分的满分评价。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NFT游戏日本玩家半年豪赚3500万 6旬母亲也受熏陶](https://hot.cnbeta.com/articles/game/1307611.htm) | Tue Aug 23 2022 3:50 AM 
+- 🎊 [《利刃出鞘2》定档12月23日网飞开播 全新剧照公开](https://hot.cnbeta.com/articles/movie/1307635.htm) | Tue Aug 23 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然仍然还是很虚幻，新兴区块链经济依然有不少先行者，其中的NFT游戏玩家中也有不少手腕高明者赚得盆满钵满，8月23日日媒采访了一位NFT游戏日本玩家，仅仅半年时间豪赚了3500万日元，其 6旬母亲也受熏陶加入了NFT玩家行列。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，侦探悬疑片《利刃出鞘2》公布了新的剧照和片场照，定档12月23日在网飞开播，院线上映时间待定&lt;/strong&gt;，但会在将于9月8日—9月18日期间举行的多伦多电影节上进行世界首映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1307635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
