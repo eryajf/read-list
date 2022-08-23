@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Gravity - Community Growth Edition - 一本关于成功扩展社区的免费杂志](https://xinquji.com/posts/178933?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:32 AM 
+- 👀 [Scrub Plus - 清理断开连接的号码列表](https://xinquji.com/posts/178955?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     一本关于成功扩展社区的免费杂志  
+     清理断开连接的号码列表  
     </details> 
 
-- 🥷 [LabelPass - 到处销售，在一个地方完成](https://xinquji.com/posts/178932?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:30 AM 
+- 🥷 [Super Prompts - DALL·E 2 和 midjourney 提示的市场](https://xinquji.com/posts/178954?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     到处销售，在一个地方完成  
+     DALL·E 2 和 midjourney 提示的市场  
     </details> 
 
-- 💼 [Takeout - 只是另一种电子邮件服务，但要好 10 倍](https://xinquji.com/posts/178931?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:30 AM 
+- 💼 [WatchData - Web3 项目的 API 服务](https://xinquji.com/posts/178953?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     只是另一种电子邮件服务，但要好 10 倍  
+     Web3 项目的 API 服务  
     </details> 
 
-- 🦅 [Friendlymoo - 使推荐信的收集和管理变得更加容易](https://xinquji.com/posts/178930?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:28 AM 
+- 🦅 [Planndu - 任务管理应用程序旨在提高注意力和生产力](https://xinquji.com/posts/178952?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     使推荐信的收集和管理变得更加容易  
+     任务管理应用程序旨在提高注意力和生产力  
     </details> 
 
-- 😺 [Flowjam - 定制产品搜寻发布视频](https://xinquji.com/posts/178929?utm_campaign=xinquji-rss) | Tue Aug 23 2022 6:28 AM 
+- 😺 [Web3 Daily - Web3 和加密新闻，翻译成简单的英语](https://xinquji.com/posts/178951?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     定制产品搜寻发布视频  
+     Web3 和加密新闻，翻译成简单的英语  
     </details> 
 <!-- xinquji:END -->
