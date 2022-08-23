@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [通过部署流行 Web 框架掌握 Serverless 技术](https://juejin.cn/post/7134997017788416036) | Tue Aug 23 2022 9:12 AM 
+- 🤗 [如何清除 npx 缓存](https://juejin.cn/post/7135008998742294541) | Tue Aug 23 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇我们通过学习部署流行 Web 框架，如 Spring Boot，Express，Web IDE，让你掌握 Serverless 函数计算架构和技术，领略弹性并发、高可用的好处。下面我将从实践介绍， 
+    维护的库更新了一个大版本，其中的一个功能是用 npx 进行模板拷贝。 在更新大版本后，发现使用 npx 拷贝的代码始终是旧版本。 最终排查，发现 npx 的缓存文件里面的版本号没有随着大版本更新。 
     </details> 
 
-- 🎡 [玩转 GitHub Actions](https://juejin.cn/post/7134990079407161357) | Tue Aug 23 2022 8:46 AM 
+- 🎡 [2022飞天技术峰会：硬之城如何基于 SAE 打造数智化电子工业互联网平台](https://juejin.cn/post/7135003381155921950) | Tue Aug 23 2022 9:37 AM 
     <details><summary>展开描述 ...</summary> 
-    GitHub Actions 是 GitHub 中提供的自动化功能，通过它可以方便的在你提交代码、发送 PR 等各种事件触发时触发一系列自动化操作，完成 CI/CD、辅助机器人等功能，解放双手。 
+    云是连接现实与虚拟孪生世界的技术平台，具有广阔的想象空间，作为数字经济的技术方向，云原生技术正在以前所未有的速度成为企业快速发展的关节一环。8月11日，2022 飞天技术峰会在深圳成功举办。硬之城作为 
     </details> 
 
-- 🕯 [彩虹女神跃长空,Go语言进阶之Go语言高性能Web框架Iris项目实战-完善用户管理EP04](https://juejin.cn/post/7134983508392427556) | Tue Aug 23 2022 8:20 AM 
+- 🕯 [前端长列表滚动方案探讨，看完不要再说不知道怎么实现虚拟列表了](https://juejin.cn/post/7134997708598673439) | Tue Aug 23 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    书接上回，上一回我们完成了用户管理页面的构建，并且通过前端的Vue.js框架动态地获取表单数据，同时异步请求后端Iris接口进行入库操作，过程中使用函数封装可复用的逻辑。 本回我们将继续完善用户管理 
+    前端性能优化系列的文章，综述一下市面上常见的前端长列表滚动性能优化的方案，并提供各个框架的实现策略。 
     </details> 
 
-- 🚀 [《高阶前端指北》之Node爬虫脚手架&lpar;第八弹&rpar;](https://juejin.cn/post/7134981826027716615) | Tue Aug 23 2022 8:13 AM 
+- 🚀 [浅谈 React 组件的更新机制](https://juejin.cn/post/7134995266553249799) | Tue Aug 23 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    昨天在梦游时遇到了卷神，给予我一个“装逼的Title”——卷王，我不服，我反驳说：无偿加班，不求回报，压榨技术价值的才叫卷，而我想要获得能力和价值。卷神说：你先带着吧，等你用你的能力收获价值的时候再来 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 前言 我们知道 React 组件是通过 setState&lpar;&rpar; 方法来更新数据的。所以在一个组件中，当我们 
     </details> 
 
-- 💪 [App Deploy as Code! SAE &amp; Terraform 实现 IaC 式部署应用](https://juejin.cn/post/7134980929012891662) | Tue Aug 23 2022 8:10 AM 
+- 💪 [js中的promise静态/实例常用方法介绍以及async await应用](https://juejin.cn/post/7134995047455408158) | Tue Aug 23 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将简单的介绍 IaC 和 SAE 给企业带来的巨大便利，并通过一个使用 Terraform 创建 SAE 应用的例子感受 SAE &amp; Terraform 给传统企业 IT 设施管理带来的降维打击 
+    promise官方描述 一个 Promise 对象代表一个在这个 promise 被创建出来时不一定已知值的代理。它让你能够把异步操作最终的成功返回值或者失败原因和相应的处理程序关联起来。这样使... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
