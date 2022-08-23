@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [PDF Reader Pro 2.8.15.1 PDF 文档阅读编辑批注](https://xclient.info/s/pdf-reader-pro.html) | Mon Aug 22 2022 2:02 AM 
+- 🦏 [Word Counter Pro 3.1&lpar;3.1&rpar; 统计用户每天的码字数量](https://xclient.info/s/word-counter-pro.html) | Tue Aug 23 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-    PDF Reader Pro是一款Mac平台的PDF文档阅读编辑器，除了可以进行 PDF 文档阅读以外，你还可以对文档进行备注、编辑、标注等，还可以添加笔记和书签，如果想要演示的话，还可以配合遥控来进行演示。 
+    Word Counter Pro是一款可以统计用户每天码的字数的软件，非常适合写文的人，并且跨软件。 
     </details> 
 
--  [VideoDuke 2.8.1 视频下载](https://xclient.info/s/videoduke.html) | Mon Aug 22 2022 2:01 AM 
+-  [Yate 6.10.5.3 音频文件标签小工具](https://xclient.info/s/yate.html) | Tue Aug 23 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-    VideoDuke 支持在网站视频下载所有流行格式的视频文件，可以以各种文件格式保存。只需将链接粘贴到应用中即可完成。 
+    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
     </details> 
 
-- ⚗️ [Music Tag Editor 7.2.2 音频文件标签编辑](https://xclient.info/s/music-tag-editor-pro.html) | Mon Aug 22 2022 2:00 AM 
+- ⚗️ [DoubleTake 2.6.9&lpar;1064&rpar; 全景照片拼接](https://xclient.info/s/doubletake.html) | Tue Aug 23 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Music Tag Editor Pro 能帮你快速高效的编辑不同音乐格式文件的标签信息 
+    DoubleTake 是一款Mac平台的照片全景拼图工具，可以直接将图片拖拽到视图中进行编辑图片重叠部分会自动融合最后合并成为一张全景图像，还支持将iphoto 和 Aperture 中的图片进行拖拽。 
     </details> 
 
-- 🔥 [PullTube 1.8.4.3 在线视频下载工具](https://xclient.info/s/pulltube.html) | Mon Aug 22 2022 1:59 AM 
+- 🔥 [Darkroom 6.0.7 照片和视频编辑器](https://xclient.info/s/darkroom.html) | Tue Aug 23 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-    PullTube 是一款amcOS平台的在线视频下载工具，可以帮助我们下载油管以及Vimeo的在线视频到本地 
+    Darkroom 是一款高级照片和视频编辑应用，不仅为普通摄影爱好者提供了易于上手的操作，同时亦为专业摄影师提供了各种强大功能。 
     </details> 
 
-- 🌋 [Chronicle Pro 14.0.3 优秀的财务管理工具](https://xclient.info/s/chronicle.html) | Mon Aug 22 2022 1:57 AM 
+- 🌋 [SQLPro Studio 2022.52 多数据库管理工具](https://xclient.info/s/sqlpro-studio.html) | Tue Aug 23 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Chronicle 是一款Mac上优秀的财务管理工具，Chronicle支持自动提醒，不用在担心忘记缴费，如提醒你房租、网费、手机费等，帮助你记住已支付的订单和未支付的开销，支持和iPhone数据同步，非常的不错。 
+    SQLPro Studio 是一款十分实用的数据库管理软件，该软件能够帮助用户快速智能的管理数据库的各种资料与文件，操作简单，能够更好的帮助用户及时管理数据库，欢迎有需要的用户下载使用。 
     </details> 
 <!-- xclient:END -->
 
