@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端工资涨不上去？可能是你没掌握构建工具：关于 Webpack、Babel、esbuild、Vite、Rollup、Parcel、SWC......的那些事](https://juejin.cn/post/7134925339502837774) | Tue Aug 23 2022 4:36 AM 
+- 🤗 [git从配置到工作中的使用（详细）](https://juejin.cn/post/7134952261075075103) | Tue Aug 23 2022 6:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    1. 从本地git账户的配置到GitHub上的配置 2.从工作中基本的使用到增加使用体验的git命令 
+    </details> 
+
+- 🎡 [深入解析Flutter下一代渲染引擎Impeller](https://juejin.cn/post/7134950321595351047) | Tue Aug 23 2022 6:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    Impeller是Flutter用以替换Skia的下一代渲染方案，Impeller解决了Skia的哪些问题？我们一起去探究矢量渲染器的原理和Impeller背后的技术。 
+    </details> 
+
+- 🕯 [PM都用什么软件做原型设计](https://juejin.cn/post/7134949498194755597) | Tue Aug 23 2022 6:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    现在的原型设计工具比较多，像Axure、sketch、XD等，PS也可以做。 Sketch画原型是不是比Axure好，这个我不知道，因为我是Windows系统，无法使用Sketch，但是就Window 
+    </details> 
+
+- 🚀 [spring接口多实现类，选择性注入的4种解决方案](https://juejin.cn/post/7134940044179013668) | Tue Aug 23 2022 5:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    spring 一个接口有多个实现类，选择性依赖注入的4种解决方案。一个接口多个实现类，该依赖注入哪一个作为实例Bean？如何实现是最佳方案？ 
+    </details> 
+
+- 💪 [前端工资涨不上去？可能是你没掌握构建工具：关于 Webpack、Babel、esbuild、Vite、Rollup、Parcel、SWC......的那些事](https://juejin.cn/post/7134925339502837774) | Tue Aug 23 2022 4:36 AM 
     <details><summary>展开描述 ...</summary> 
     前端工程化，是每一个高级前端开发人员都必须要去深入了解的内容，这也是想要拿到高薪不可避免的一个关键因素。 
-    </details> 
-
-- 🎡 [微信小程序高级指南-接入网易七鱼SDK](https://juejin.cn/post/7134915924410236965) | Tue Aug 23 2022 3:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    网易七鱼微信小程序访客端SDK插件是一个微信小程序端客服系统访客解决方案，既包含了客服聊天逻辑管理，也提供了聊天界面，开发者可方便的将客服功能集成到自己的 微信小程序 中。 
-    </details> 
-
-- 🕯 [基于 Flink x TiDB，智慧芽打造实时分析新方案](https://juejin.cn/post/7134911474098520078) | Tue Aug 23 2022 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文整理自智慧芽数据仓库架构师曲明星在 Flink Forward Asia 2021 实时数仓专场的分享。 
-    </details> 
-
-- 🚀 [基于 Flink 构建大规模实时风控系统在阿里巴巴的落地](https://juejin.cn/post/7134911172792287246) | Tue Aug 23 2022 3:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    阿里云实时计算产品经理李佳林（风元）在 7 月 5 日 Flink 峰会（CSDN 云原生系列）的演讲。 
-    </details> 
-
-- 💪 [百度App 低端机优化-启动性能优化（概述篇）](https://juejin.cn/post/7134904047080865805) | Tue Aug 23 2022 3:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    本专题以低端机启动性能优化的视角，**覆盖技术架构上的性能设计、性能问题定位、防劣化机制等方面最佳实践，最终形成性能优化闭环**。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
