@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Mac上取色不准，所以我给🌈色彩叠加器工具加了计算功能](https://juejin.cn/post/7135083102497406990) | Tue Aug 23 2022 2:47 PM 
+- 🤗 [实战Node.js原理对于阻塞和EventEmitter及其继承的运用心得](https://juejin.cn/post/7135094913405812773) | Tue Aug 23 2022 3:33 PM 
     <details><summary>展开描述 ...</summary> 
-    目前大部分显示器使用sRGB色域，CSS也是用了sRGB色域，但Mac默认采用P3色域，支持的红、绿更广。这导致Mac取色不准，所以我给我的色彩叠加计算器加了计算功能。快来学习一下吧。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 基本概念 简单地说，Node.js是在服务器端运行的JavaScript。 节点。 然而，对于node  
     </details> 
 
-- 🎡 [B+树索引（7）之索引适用场景（上）](https://juejin.cn/post/7135082893201653790) | Tue Aug 23 2022 2:46 PM 
+- 🎡 [【定制Android系统】Android O 一种 Framework 层实现按键长按功能的方法（以长按 CENTER 键实现系统重启为例）](https://juejin.cn/post/7135094307689594910) | Tue Aug 23 2022 3:30 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第24天，点击查看活动详情 B+树索引（7）之索引适用场景（上） 前言 前面索引相关的文章都是侧重讲解索引的结构，索引数据存储方式、 
+    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 原理 在 Framework 层，查找长按电源键关机相关逻辑，可以看到按键经过一堆处理之后会来到 （/frameworks/base/servi 
     </details> 
 
-- 🕯 [Swift基础语法（二十二）常见编程范式认识：面向协议编程](https://juejin.cn/post/7135081678376009764) | Tue Aug 23 2022 2:41 PM 
+- 🕯 [Go&amp;Java算法之字符串中第一个唯一字符](https://juejin.cn/post/7135094094950301733) | Tue Aug 23 2022 3:29 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 本文主要认识面向协议编程和面向对象编程的优缺点，以及如何实现面向协议编程。 1、 认识 面向协议编程（  
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 字符串中第一个唯一字符 给定一个字符串 s ，找到 它的第一个不重复的字符，并返回它的索引 。如果不存在 
     </details> 
 
-- 🚀 [Flutter 系列（二），自动滚动的底部滑动页效果](https://juejin.cn/post/7135081605885853703) | Tue Aug 23 2022 2:40 PM 
+- 🚀 [【定制Android系统】Android O Camera（1）——简单梳理 Camera1 的 setParameters 通路.1](https://juejin.cn/post/7135094068438122503) | Tue Aug 23 2022 3:29 PM 
     <details><summary>展开描述 ...</summary> 
-    本节是在&#39;有固定 header 的底部滑动页效果&#39;功能上的一个小扩展，即当滑动距离超过一半则自动滚至顶部，反之回到底部，来看下效果吧.. 
+    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 封装出自己的 Camera 参数 get/set 接口 一般应用直接调用 Camera.java 相关的接口，即可实现 Camera 的各种功能 
     </details> 
 
-- 💪 [Dygraphs 中调整 x 轴 label 展示](https://juejin.cn/post/7135078257556684837) | Tue Aug 23 2022 2:28 PM 
+- 💪 [Flutter 系列（三），给 NavigationBar 自定义一个横线指示器](https://juejin.cn/post/7135092677611094052) | Tue Aug 23 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
-    在前不久发表的文章 Dygraphs 中 x 轴等间距实现 中，我们介绍了如何在 x 轴等间距地实现图表划线。当间距太小的时候，在 x 轴上展示的 label 文案就会交替重叠，那我们怎么办呢？ 
+    这个需求应该也很少遇到，我就简单记录下，不展开写了。在使用 Material 3 主题的 NavigationBar 时，想在原有效果上，加一条底部横线，是这样的. 
     </details> 
 <!-- juejin:END -->
 ### 少数派
