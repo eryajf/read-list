@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [重返月球 NASA有史以来最强大的火箭8月29日发射](https://www.cnbeta.com/articles/science/1307789.htm) | Tue Aug 23 2022 10:14 AM 
+- 🕯 [AORUS推出四路PCIe 5.0 M.2 NVMe转接卡 支持16TB和60GB/s传输](https://www.cnbeta.com/articles/tech/1307811.htm) | Tue Aug 23 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;1969年-1972年，美国先后登月6次。此后50年，人类便再未踏足月球。现在，美国准备再次出征月球。&lt;strong&gt;美国航空航天局NASA宣布，批准阿尔忒弥斯1号（Artemis 1）任务在下周进行一次无人值守的绕月测试飞行。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Gigabyte 旗下 AORUS 电竞品牌，刚刚推出了一款采用单槽单风扇设计的 PCIe 5.0 扩展卡。&lt;/strong&gt;特点是能够为计算机转换出四个 NVMe M.2 插槽，且最高支持 16 TB 容量。若通过配置 RAID 阵列，还可实现高达 60 GB/s 的极速数据传输。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [1700多趟动车上线新功能：扫一扫扶手就能用 所有信息皆可查](https://www.cnbeta.com/articles/tech/1307787.htm) | Tue Aug 23 2022 10:13 AM 
+- 💼 [“非洲手机之王”传音2022年上半年营收231亿元](https://www.cnbeta.com/articles/tech/1307809.htm) | Tue Aug 23 2022 10:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年5月起，铁路部门先后在成渝高铁、京广高铁推广“铁路畅行”扫码服务，能实现非常全面的铁路服务。据官方消息，&lt;strong&gt;目前全路15个铁路局集团公司担当的1700余趟动车组列车上都已提供此项服务。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月23日消息，今日，被誉为“非洲手机之王”的传音控股发布2022年上半年业绩，&lt;strong&gt;实现营业收入231.09亿元，同比增长1.12%；归母净利润16.54亿元，同比下降4.53%。&lt;/strong&gt;报告指出，传音控股今年上半年销售费用为15.68亿元，同比减少8.03%，主要由于本期销售费用中的宣传推广费减少所致；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Ryse Aerotech放出Recon eVTOL空中载具六月试飞演示视频](https://www.cnbeta.com/articles/tech/1307785.htm) | Tue Aug 23 2022 10:10 AM 
+- 💂 [微信个人二维码能换风格了 10种样式可选](https://www.cnbeta.com/articles/tech/1307807.htm) | Tue Aug 23 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国 Ryse Aerotech 公司刚刚分享了其于 6 月开展的首次载人飞行测试的视频，&lt;strong&gt;而该公司的超轻型 eVTOL 载具，允许农民和牧场主在不考取飞行执照的情况下体验。&lt;/strong&gt;与 Jetson One 类似，Ryse Recon 的结构相当基础 —— 只有六个旋翼加一个座位，铝制框架重 130 公斤（286 磅）、有效载荷 91 公斤（200 磅）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，微信面向iOS用户推送了8.0.27正式版，虽然更新日志依然是简单几个字“解决了一些已知问题”，但实际上还是有不少变化。而在这些变化中，最惹人关注的就是新版的个人名片二维码，&lt;strong&gt;终于把十年前的背景风格换掉了，现在的样式更简约大气。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [无人出租贵过网约车 2000多万网约车司机会被抢生意？](https://www.cnbeta.com/articles/tech/1307783.htm) | Tue Aug 23 2022 9:54 AM 
+- 🚀 [每小时最高5元，共享充电宝又涨价？多家企业这么答复](https://www.cnbeta.com/articles/tech/1307805.htm) | Tue Aug 23 2022 10:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;科幻电影中的场景已经照进现实，目前，我国多地已展开“无人出租”试商用，当地用户可以像平时坐网约车那样，在手机App上召唤一辆无人驾驶网约车。8月8日，百度宣布已获得在重庆和武汉两个城市的开放道路载人运营全自动无人驾驶出租车（Robotaxi）服务许可。完全无人驾驶出租车将可以提供商业化服务并收取费用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;继共享单车行业集体涨价后，共享充电宝也被曝出涨价。近日，“共享充电宝涨至4元每小时”、“共享充电宝客服回应涨价”的话题冲上微博热搜，共享充电宝的价格与服务再被用户“吐槽”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307805.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中期选举临近 美媒批TikTok虚假信息泛滥](https://www.cnbeta.com/articles/tech/1307781.htm) | Tue Aug 23 2022 9:54 AM 
+- 🎊 [威刚推出IM2P41B8：旗下首款工业级PCIe 4.0 x4 SSD](https://www.cnbeta.com/articles/tech/1307803.htm) | Tue Aug 23 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，《纽约时报》在一篇报道中批评，距离2022年美国中期选举不到90天，大量虚假信息在TikTok上泛滥。社交平台是美国大选的重要参与方之一。在第56届总统大选期间，美国前总统奥巴马因善于用脸书宣传，而被称为“首位社交媒体总统”。前总统特朗普也因其在推特上高频次发帖，被调侃为“推特治国”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为业内知名的 DRAM 与 NAND 存储产品制造商之一，威刚科技刚刚推出了旗下首款 PCIe 4.0 x4 工业级 M.2 2280 固态驱动器。&lt;/strong&gt;对于需要处理大量数据负载的应用场景，IM2P41B8 能够提供出色的读写性能，辅以工业级的耐用与安全特性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
