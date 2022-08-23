@@ -439,7 +439,7 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [推特前安全主管称推特在机器人和安全问题上撒了谎](https://www.cnbeta.com/articles/tech/1307899.htm) | Tue Aug 23 2022 5:55 PM 
+- 🕯 [Twitter前安全主管称公司机器人和安全问题上撒了谎](https://www.cnbeta.com/articles/tech/1307899.htm) | Tue Aug 23 2022 5:55 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;根据Twitter前安全主管、由传奇黑客转为网络安全专家的Peiter Zatko的证词，Twitter隐藏了疏忽的安全做法，在安全方面误导了联邦监管机构，并且未能正确估计其平台上的机器人数量。&lt;/strong&gt;这些爆炸性的指控可能会产生巨大的后果，包括联邦罚款和特斯拉首席执行官埃隆-马斯克&lpar;Elon Musk&rpar;收购Twitter的竞标可能会解体。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
