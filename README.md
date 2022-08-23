@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华为代理商：笔记本产业仍在清库存 第4季有望慢慢好转](https://www.cnbeta.com/articles/tech/1307869.htm) | Tue Aug 23 2022 3:16 PM 
+- 🕯 [分析师认为准备换iPhone 14的用户比往年少：老CPU+价格上涨是主因](https://www.cnbeta.com/articles/tech/1307897.htm) | Tue Aug 23 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月23日，华为在中国台湾地区举办智慧办公暨MateBook新品发表会，华为台湾总代理讯崴技术总经理雍海表示，第3季笔电产业仍在清库存，第4季有望慢慢好转。雍海指出，华为今年上半年在中国台湾地区的笔电销售年增133%，中高阶机型销售单价年增62%；去年笔电占华为台湾业绩已经过半，平板计算机业绩占比约20%，其他为穿戴装置等产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iPhone 14新系列很可能选择9月7日左右发布，按理说，这个时候，应该是iPhone 13的销售淡季，毕竟用户一边在观望新机，一边也在等老型号降价。可是今年的情况似乎有所不同，&lt;strong&gt;摩根大通的分析师Samik Chatterjee称，这段时间内决定推迟购买iPhone的用户比往年少。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [前安全总监：Twitter根本不知道机器人账号的真正数量](https://www.cnbeta.com/articles/tech/1307867.htm) | Tue Aug 23 2022 3:15 PM 
+- 💼 [770亿晶体管的中国第一算力通用GPU芯片 壁仞科技BR100亮相海外](https://www.cnbeta.com/articles/tech/1307895.htm) | Tue Aug 23 2022 4:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，Twitter前安全总监佩特·扎特科（Peiter Zatko）表示，Twitter高管没有足够的资源来完全了解其平台上机器人账号的真实数量。扎特科是一位知名的黑客，两年前被任命为Twitter安全总监。今年1月，Twitter宣布扎特科将离职，具体原因未知。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月9日，国内科技创新企业壁仞科技&lpar;Birentech&rpar;正式发布了BR100系列通用计算GPU，号称算力国内第一，多向指标媲美甚至超越国际旗舰产品。当地时间8月22日，第34届Hot Chips芯片大会首日演讲，NVIDIA Hopper、AMD Instinct MI200、Intel Ponte Vecchio三大巨头的通用GPU纷纷秀出肌肉，而与之并肩亮相的，就是壁仞科技BR100。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [野村证券：存储器产业将迎来更严峻的硬着陆](https://www.cnbeta.com/articles/tech/1307865.htm) | Tue Aug 23 2022 3:12 PM 
+- 💂 [Razer发布Basilisk&lpar;巴塞利斯蛇&rpar;V3 Pro无线鼠标](https://www.cnbeta.com/articles/tech/1307893.htm) | Tue Aug 23 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月23日，野村证券（Nomura）发布报告称，随着市场需求疲软，预计近期存储器产业将迎来更严峻的硬着陆，但需求弹性及减产是潜在的正面催化剂。野村证券认为，科技硬件市场已进入严重衰退，且恶化速度快于整体宏观经济，该产业原本受惠于疫情期间的在家上班需求，但随着各国经济活动重新开放，以及俄乌战争推升通膨及财务负担，该产业趋势急转直下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Razer刚刚宣布了其Basilisk游戏鼠标的一个新型号，它被称为Basilisk V3 Pro，V3 Pro的形状和布局与标准V3几乎相同，针对右手手形设计和11个可编程按钮，在标准版Basilisk V3上看到的一些硬件改进，即Razer的新光学微动、RGB底部打灯，以及可根据旋转速度在带段落阻尼和自由旋转模式之间动态转换的滚轮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307893.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [网红手机Nothing Phone 1迟迟不更新Android 13 官方回应令用户失望](https://www.cnbeta.com/articles/tech/1307863.htm) | Tue Aug 23 2022 3:05 PM 
+- 🚀 [NFT正日益成为耐克等企业重要的收入渠道](https://www.cnbeta.com/articles/tech/1307891.htm) | Tue Aug 23 2022 3:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Nothing由前一加联合创始人Carl Pei创办，这家公司在7月份推出了旗下第一款新品Nothing Phone 1。该机在未发布之前就引发极高的关注，&lt;strong&gt;酷安网上Nothing Phone 1热度超过了19万，与iPhone 14 20万的热度较为接近。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;像耐克、杜嘉班纳、蒂芙尼、古驰和阿迪达斯这样的企业正在从NFT中获得数百万美元的收益。&lt;/strong&gt;其中，耐克以高达1.85亿美元的NFT销售收入位居榜首。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307891.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [micro OLED屏幕正在推进：显示精细度暴增 10倍人眼分辨力](https://www.cnbeta.com/articles/tech/1307861.htm) | Tue Aug 23 2022 3:04 PM 
+- 🎊 [丹麦哥本哈根放弃2025年前实现碳中和目标](https://www.cnbeta.com/articles/tech/1307889.htm) | Tue Aug 23 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果提出了Retina分辨率的概念，在iPhone 4发布会上，乔布斯曾表示，在屏幕距离眼睛10到12英寸的范围内，视网膜屏的PPI（像素密度）大概在300左右。如今，市面上绝大部分手机的PPI在300~400左右，残暴如索尼4K手机，PPI不过806。而现在要说的Micro OLED显示屏，起步就是3000 PPI。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;丹麦首都哥本哈根市市长索菲·安诺生22日说，由于一家环保企业不符合政府碳捕捉方面的资助标准，哥本哈根眼下放弃2025年前实现碳中和的目标。安诺生当天告诉丹麦广播公司：“到2025年我们还做不到（实现碳中和），这令人非常恼火。我实在难过。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307889.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
