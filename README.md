@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [短播客是播客的未来吗？](https://sspai.com/post/75269) | Tue Aug 23 2022 3:30 AM 
+- 👹 [微信 8.0.27 更新：视频悬窗、隐私保护，还有 2 个新功能](https://sspai.com/post/75299) | Tue Aug 23 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    距离微信上一次更新已经过去1个月的时间了，昨晚，微信再次「修复了一些已知问题」，带来了8.0.27版本更新。不过，微信「挤牙膏」式的更新依然没能满足大家的期待。尽管如此，我们还是帮你找到了微信8.0. ...&lt;a href=&quot;https://sspai.com/post/75299&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [短播客是播客的未来吗？](https://sspai.com/post/75269) | Tue Aug 23 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     短视频主宰了视频，那么短播客会是播客的未来吗？&lt;a href=&quot;https://sspai.com/post/75269&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：抖音开始测试「发文助手」、沙特批准微软收购动视暴雪等](https://sspai.com/post/75306) | Tue Aug 23 2022 12:57 AM 
+- 🤭 [派早报：抖音开始测试「发文助手」、沙特批准微软收购动视暴雪等](https://sspai.com/post/75306) | Tue Aug 23 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
     微博上线个人主页展示评论功能，中国电信宣布中小微企业宽带和互联网专线降费 10% 等。&lt;a href=&quot;https://sspai.com/post/75306&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/75296) | Mon Aug 22 2022 10:03 AM 
+- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/75296) | Mon Aug 22 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75296&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [药不能停的方法有几种：9 款服药 app 横评](https://sspai.com/post/75293) | Mon Aug 22 2022 9:46 AM 
+- 🙉 [药不能停的方法有几种：9 款服药 app 横评](https://sspai.com/post/75293) | Mon Aug 22 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
     哪个服药提醒软件做得更好？我们帮你横评对比了这 9 款应用。当然在应用之外，现实生活里你还可以试试这些提醒吃药的好办法。&lt;a href=&quot;https://sspai.com/post/75293&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [给你的进度添点态度：如何使用 Notion 的原生进度条？](https://sspai.com/post/75271) | Mon Aug 22 2022 6:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75271&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
