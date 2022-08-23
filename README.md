@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本月玩什么 | 双点校园、灵魂骇客 2、咩咩启示录、酷极轮滑](https://sspai.com/post/75301) | Tue Aug 23 2022 8:00 AM 
+- 👹 [不读可以先收藏 14：本月值得一读的 6 篇好文](https://sspai.com/post/75317) | Tue Aug 23 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    本月最受欢迎的好文包括：色彩管理深度解析、笔记本清理、癌症的治疗与现状、新人律师需要掌握的方法论和技巧、义工旅行能否改变你的人生以及选择 iPhone 13 mini 背后的一点思考。&lt;a href=&quot;https://sspai.com/post/75317&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [本月玩什么 | 双点校园、灵魂骇客 2、咩咩启示录、酷极轮滑](https://sspai.com/post/75301) | Tue Aug 23 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     本月值得关注的新游汇总。&lt;a href=&quot;https://sspai.com/post/75301&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [微信 8.0.27 更新：视频悬窗、隐私保护，还有 2 个新功能](https://sspai.com/post/75299) | Tue Aug 23 2022 6:30 AM 
+- 🤭 [微信 8.0.27 更新：视频悬窗、隐私保护，还有 2 个新功能](https://sspai.com/post/75299) | Tue Aug 23 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     距离微信上一次更新已经过去1个月的时间了，昨晚，微信再次「修复了一些已知问题」，带来了8.0.27版本更新。不过，微信「挤牙膏」式的更新依然没能满足大家的期待。尽管如此，我们还是帮你找到了微信8.0. ...&lt;a href=&quot;https://sspai.com/post/75299&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [短播客是播客的未来吗？](https://sspai.com/post/75269) | Tue Aug 23 2022 3:30 AM 
+- 🥸 [短播客是播客的未来吗？](https://sspai.com/post/75269) | Tue Aug 23 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     短视频主宰了视频，那么短播客会是播客的未来吗？&lt;a href=&quot;https://sspai.com/post/75269&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：抖音开始测试「发文助手」、沙特批准微软收购动视暴雪等](https://sspai.com/post/75306) | Tue Aug 23 2022 12:57 AM 
+- 🙉 [派早报：抖音开始测试「发文助手」、沙特批准微软收购动视暴雪等](https://sspai.com/post/75306) | Tue Aug 23 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
     微博上线个人主页展示评论功能，中国电信宣布中小微企业宽带和互联网专线降费 10% 等。&lt;a href=&quot;https://sspai.com/post/75306&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/75296) | Mon Aug 22 2022 10:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75296&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
