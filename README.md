@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究人员通过DNA分析揭开澳大利亚 “兔瘟”之谜](https://www.cnbeta.com/articles/science/1307527.htm) | Tue Aug 23 2022 1:58 AM 
+- 🕯 [共享充电宝价格疯涨，谁才是“罪魁祸首”？](https://www.cnbeta.com/articles/tech/1307619.htm) | Tue Aug 23 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;兔子是在1788年首次被引入澳大利亚大陆的，当时有五只家兔被第一舰队（First Fleet）带到了悉尼。在1859年之前，至少有90次的后续引进，但这些种群都没有成为入侵者。然而，在50年内，以每年100公里（62英里）的速度，兔子遍布整个大陆。这使得它成为有记录以来引进的哺乳动物中最快的殖民化速度。&lt;strong&gt;那么，1859年之后发生了什么变化，入侵是如何开始的呢？&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近除了“火爆全网”的雪糕刺客，“充电宝刺客”也是冲上了风口浪尖。我近期经常在网上看到有人在网络上吐槽自己使用共享充电宝遇到的一些遭遇，首先是疯涨的价格，其次是使用体验上槽点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google开始为YouTube推出专门的播客版块](https://www.cnbeta.com/articles/tech/1307525.htm) | Tue Aug 23 2022 1:56 AM 
+- 💼 [Dioseve希望用培育卵细胞的技术来帮助不孕不育患者](https://www.cnbeta.com/articles/science/1307617.htm) | Tue Aug 23 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一些YouTube用户发现他们的账户现在带有一个新的播客页面，其支持该页面跟探索&lpar;Explore&rpar;区域顶部的类别部分相邻。据悉，Google早在2022年3月就已经计划在YouTube上添加播客页面并在7月底开始向用户缓慢推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据TechCrunch报道，&lt;strong&gt;总部设在日本的生物技术初创公司&lt;a href=&quot;https://dioseve.com/en/home-en/&quot; target=&quot;_self&quot;&gt;Dioseve&lt;/a&gt;的雄心勃勃的目标是用其他组织培育人类卵细胞或卵子。&lt;/strong&gt;它的目标是帮助与不孕症作斗争的人，最近该公司在新一轮融资中筹集了300万美元。此轮融资由ANRI领投，Coral Capital也参与其中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [即时通讯软件的端到端加密 再次引发有关隐私与安全的巨大争议](https://www.cnbeta.com/articles/tech/1307523.htm) | Tue Aug 23 2022 1:55 AM 
+- 💂 [代号“Malma” 消息称苹果已启动M3芯片的核心设计](https://www.cnbeta.com/articles/tech/1307615.htm) | Tue Aug 23 2022 3:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Facebook 母公司 Meta，正因其在 Messenger 即时通讯平台引入端到端加密（E2EE）的计划，而引发了又一场政治风波。英国内政大臣 Priti Patel 在《每日电讯报》的一篇专栏文章中明确表示 —— &lt;strong&gt;若该公司在引入 E2EE 的同时忽略了儿童安全问题，这将是一场“可笑的被判”（grotesque betrayal）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为 M2 芯片的直接继任者，最新消息称 M3 芯片的核心设计已经启动。而且这款芯片预估将会在 2023 年下半年发布。&lt;strong&gt;援引 Commercial Times 报道，M3 芯片的内部代号为“Malma”，将会在台积电的 N3E 工艺架构上量产。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[图]Xperia 5 IV通过FCC认证：机身更紧凑 新增NFC和无线充电支持](https://www.cnbeta.com/articles/tech/1307521.htm) | Tue Aug 23 2022 1:53 AM 
+- 🚀 [名越稔洋谈与网易合作：互相交流 网易很有钱](https://hot.cnbeta.com/articles/game/1307613.htm) | Tue Aug 23 2022 3:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;疑似索尼 Xperia 5 IV 通过 FCC 认证。根据认证文件显示，该机高度为 155.74mm，宽度为 67.1mm，这比去年推出的 Xperia 5 III（分别为 157mm 和 68mm）更加紧凑。&lt;/strong&gt;示意图显示屏幕对角线长度为 153.5mm（约 6.04 英寸），而 Xperia 5 III 配备了 6.1 英寸屏幕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《如龙》制作人名越稔洋于2021年离开世嘉后，在今年初加入网易成立“名越工作室”。近日名越稔洋接受德媒4Players采访，透露了正在开发的新作，他离开世嘉的原因，还有与网易的合作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [[图]第10代iPad将弃用Home按钮 FaceTime位于横屏右侧边框](https://www.cnbeta.com/articles/tech/1307519.htm) | Tue Aug 23 2022 1:47 AM 
+- 🎊 [NFT游戏日本玩家半年豪赚3500万 6旬母亲也受熏陶](https://hot.cnbeta.com/articles/game/1307611.htm) | Tue Aug 23 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;援引日媒 Mac Otakara 报道，苹果下一代入门 iPad 将会整合带 Touch ID 的电源按钮，并会对 FaceTime 的位置进行重新调整。&lt;/strong&gt;在报道中指出，本月早些时候多个国内渠道流出的第 10 代 iPad 渲染图是不准确的，尤其是设备上 Touch ID 和前置 FaceTime 摄像头的位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然仍然还是很虚幻，新兴区块链经济依然有不少先行者，其中的NFT游戏玩家中也有不少手腕高明者赚得盆满钵满，8月23日日媒采访了一位NFT游戏日本玩家，仅仅半年时间豪赚了3500万日元，其 6旬母亲也受熏陶加入了NFT玩家行列。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
