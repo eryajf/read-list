@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [安卓 deep links 注册失败](https://www.v2ex.com/t/874718#reply2) | Tue Aug 23 2022 1:40 AM
-- 🤗 [怎么防止同事用 Evil.js 的代码投毒](https://www.v2ex.com/t/874717#reply11) | Tue Aug 23 2022 1:40 AM
-- 🎭 [一个新的博客主题，各位大佬给点意见](https://www.v2ex.com/t/874710#reply8) | Tue Aug 23 2022 1:28 AM
-- 🥷 [有没有可以通过 update&lpar;&rpar;+finalize&lpar;&rpar;这种模式使用 AEAD 加密算法的库？](https://www.v2ex.com/t/874700#reply1) | Tue Aug 23 2022 12:16 AM
-- 🐵 [想问个内存写入的问题](https://www.v2ex.com/t/874691#reply10) | Mon Aug 22 2022 6:44 PM<!-- v2ex:END -->
+- 🥸 [pymysql executemany 也是蛮耿直的](https://www.v2ex.com/t/874752#reply1) | Tue Aug 23 2022 3:41 AM
+- 🤗 [哥哥姐姐们，这是一个广告，数字大赛，奖金丰厚](https://www.v2ex.com/t/874734#reply5) | Tue Aug 23 2022 2:47 AM
+- 🎭 [如果你和同事在搜索问题，结果搜到了你的博客，你会点出来这是你的博客吗？](https://www.v2ex.com/t/874729#reply14) | Tue Aug 23 2022 2:33 AM
+- 🥷 [想转驱动开发难不？](https://www.v2ex.com/t/874724#reply30) | Tue Aug 23 2022 2:19 AM
+- 🐵 [安卓 deep links 注册失败](https://www.v2ex.com/t/874718#reply8) | Tue Aug 23 2022 1:40 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
