@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [找技术合作](https://www.v2ex.com/t/874839#reply16) | Tue Aug 23 2022 9:06 AM
-- 🤗 [Windows Server 是否适合用 Docker？](https://www.v2ex.com/t/874832#reply13) | Tue Aug 23 2022 8:42 AM
-- 🎭 [哪里能下载到 Google Voice 的完整号段表吗，需要屏蔽这类虚拟号注册](https://www.v2ex.com/t/874819#reply5) | Tue Aug 23 2022 8:09 AM
-- 🥷 [Ubuntu apt upgrade 如何配置只安装安全更新？](https://www.v2ex.com/t/874811#reply2) | Tue Aug 23 2022 7:47 AM
-- 🐵 [Windows 安装 MySQL 距离完成临门一脚时遇到问题](https://www.v2ex.com/t/874801#reply25) | Tue Aug 23 2022 7:17 AM<!-- v2ex:END -->
+- 🥸 [中文 Bing 搜索也开始搞 Redirect 这一套了么？](https://www.v2ex.com/t/874867#reply0) | Tue Aug 23 2022 11:06 AM
+- 🤗 [Sandboxie Plus 没有使用双授权，也没有说明其它开发者贡献版权归作者，只有纯 GPL 许可证，为什么可以销售商业版本？由其它开发者贡献的 commit 版权算谁的？](https://www.v2ex.com/t/874861#reply5) | Tue Aug 23 2022 10:42 AM
+- 🎭 [只是感慨，现在的后浪怎么都这么强](https://www.v2ex.com/t/874856#reply11) | Tue Aug 23 2022 10:26 AM
+- 🥷 [找技术合作](https://www.v2ex.com/t/874839#reply20) | Tue Aug 23 2022 9:06 AM
+- 🐵 [Windows Server 是否适合用 Docker？](https://www.v2ex.com/t/874832#reply13) | Tue Aug 23 2022 8:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
