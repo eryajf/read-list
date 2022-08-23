@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [微信公众号开发（五）微信扫码登录的两种实现方式](https://juejin.cn/post/7134873737777643528) | Tue Aug 23 2022 1:14 AM 
+- 🤗 [从《 Extracting Top-K Insights from Multi-dimensional Data 》看前端可视化](https://juejin.cn/post/7134910718737907743) | Tue Aug 23 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第28天，点击查看活动详情 官方文档：  https://open.weixin.qq.com/cgi-bin/showdocume 
+    讲解论文提出的insight概念，并阐明提取top-k insight的系统架构。insight为前端可视化中自动化这一分支提供了新的解 
     </details> 
 
-- 🎡 [iOS小技能：NSFileManager的使用&lpar;文件的操作&rpar;](https://juejin.cn/post/7134868726481960973) | Tue Aug 23 2022 12:55 AM 
+- 🎡 [03 开源任务管理系统：创建一个任务](https://juejin.cn/post/7134910004712194056) | Tue Aug 23 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第28天，点击查看活动详情 前言 使用dataWithContentsOfURL进行视频下载，并保存到相册 从沙盒获取信息:NSFi 
+    虽说是一个任务管理系统，但简单地讲，其实就是任务的增删改查&lpar;CRUD&rpar;。 其中最重要的又当属增，即创建任务，此为数据之源，删改查都依赖于它所产生的数据。 
     </details> 
 
-- 🕯 [面试突击76：${} 和 #{} 有什么区别？](https://juejin.cn/post/7134865815001628702) | Tue Aug 23 2022 12:43 AM 
+- 🕯 [阿里云丁宇：以领先的云原生技术，激活应用构建新范式](https://juejin.cn/post/7134891466517643300) | Tue Aug 23 2022 2:23 AM 
     <details><summary>展开描述 ...</summary> 
-    ${} 和 #{} 都是 MyBatis 中用来替换参数的，它们都可以将用户传递过来的参数...... 
+    8 月 11 日，2022 阿里云飞天技术峰会在深圳举行，会上阿里云提出云原生激活应用构建三大范式，并发布最新的产品与解决方案。 
     </details> 
 
-- 🚀 [JavaScript 几个标准阐述](https://juejin.cn/post/7134861725194518535) | Tue Aug 23 2022 12:30 AM 
+- 🚀 [MySQL进阶系列：总结篇](https://juejin.cn/post/7134890534371328014) | Tue Aug 23 2022 2:19 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 ES5于2009年发布；ES6于2015年发布，也称ES2015；ES7于2016年发布。 下面会简述几 
+    mysql系列写到这基本已经结束了，此篇便是最终篇了，之前的历史文章已经写了19篇，这些内容让你做一个高级开发是够够的了 
     </details> 
 
-- 💪 [netty 底层的工作原理](https://juejin.cn/post/7134861478753992740) | Tue Aug 23 2022 12:27 AM 
+- 💪 [彻底理解JavaScript中的类型转换](https://juejin.cn/post/7134890447964471303) | Tue Aug 23 2022 2:19 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是 Netty Netty 是一个高性能的网络通信框架，封装了底层复杂的 socket 编程细节，什么是通信协议、序列化协议、缓冲区、编码、解码、长连接保活、拆包粘包、netty底层如何实现 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 9 天，点击查看活动详情 &gt;&gt; 1. 什么是类型转换？ Javascript 是一种弱类型语言，这意味着变量是没有明确类型的，而 
     </details> 
 <!-- juejin:END -->
 ### 少数派
