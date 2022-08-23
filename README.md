@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家解开了行星尘埃中一氧化碳失踪之谜](https://www.cnbeta.com/articles/science/1307859.htm) | Tue Aug 23 2022 2:12 PM 
+- 🕯 [华为代理商：笔记本产业仍在清库存 第4季有望慢慢好转](https://www.cnbeta.com/articles/tech/1307869.htm) | Tue Aug 23 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;天文学家们经常在行星尘埃中观察一氧化碳（CO）。&lt;/strong&gt;因为这种化合物是超亮的，而且在原行星盘，即年轻恒星周围形成行星的尘埃和气体区域中极为常见，所以它是科学家的首要目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月23日，华为在中国台湾地区举办智慧办公暨MateBook新品发表会，华为台湾总代理讯崴技术总经理雍海表示，第3季笔电产业仍在清库存，第4季有望慢慢好转。雍海指出，华为今年上半年在中国台湾地区的笔电销售年增133%，中高阶机型销售单价年增62%；去年笔电占华为台湾业绩已经过半，平板计算机业绩占比约20%，其他为穿戴装置等产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [风力涡轮机叶片有朝一日可被回收制成小熊软糖](https://www.cnbeta.com/articles/tech/1307857.htm) | Tue Aug 23 2022 2:02 PM 
+- 💼 [前安全总监：Twitter根本不知道机器人账号的真正数量](https://www.cnbeta.com/articles/tech/1307867.htm) | Tue Aug 23 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;回收由玻璃纤维制成的标准风力涡轮机叶片既困难又昂贵，因此退役的设备通常最终会被填埋。&lt;strong&gt;科学家们提议用一种新材料制作风轮机叶片，这种材料可以被回收到无数的普通物品中。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，Twitter前安全总监佩特·扎特科（Peiter Zatko）表示，Twitter高管没有足够的资源来完全了解其平台上机器人账号的真实数量。扎特科是一位知名的黑客，两年前被任命为Twitter安全总监。今年1月，Twitter宣布扎特科将离职，具体原因未知。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [律师解读苹果诉前雇员案：无证据证明小鹏存在责任](https://www.cnbeta.com/articles/tech/1307855.htm) | Tue Aug 23 2022 1:48 PM 
+- 💂 [野村证券：存储器产业将迎来更严峻的硬着陆](https://www.cnbeta.com/articles/tech/1307865.htm) | Tue Aug 23 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国格知律师事务所合伙人、知名律师叶俊，知名IT与知识产权律师赵占领律师均认为，&lt;strong&gt;没有任何证据能证明，张小浪的窃密行为受小鹏汽车指示，或相关机密、技术被小鹏汽车使用。此案件实际是苹果和离职华裔员工个人的之间的纠纷，和小鹏公司无关。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月23日，野村证券（Nomura）发布报告称，随着市场需求疲软，预计近期存储器产业将迎来更严峻的硬着陆，但需求弹性及减产是潜在的正面催化剂。野村证券认为，科技硬件市场已进入严重衰退，且恶化速度快于整体宏观经济，该产业原本受惠于疫情期间的在家上班需求，但随着各国经济活动重新开放，以及俄乌战争推升通膨及财务负担，该产业趋势急转直下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [牛津大学科学家将开展试验评估SIGA的tecovirimat能否有效治疗猴痘](https://www.cnbeta.com/articles/tech/1307853.htm) | Tue Aug 23 2022 1:47 PM 
+- 🚀 [网红手机Nothing Phone 1迟迟不更新Android 13 官方回应令用户失望](https://www.cnbeta.com/articles/tech/1307863.htm) | Tue Aug 23 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英国牛津大学的科学家们周二宣布了一项新的名为PLATINUM的临床研究，以评估SIGA Technologies&lpar;SIGA.US&rpar;开发的抗病毒药物tecovirimat是否对治疗猴痘有效。这些科学家们曾为寻找新冠治疗方法开展了一项被称为RECOVERY的主要试验，并在2020年声名鹊起。该试验最初测试了四种针对新冠的治疗方法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Nothing由前一加联合创始人Carl Pei创办，这家公司在7月份推出了旗下第一款新品Nothing Phone 1。该机在未发布之前就引发极高的关注，&lt;strong&gt;酷安网上Nothing Phone 1热度超过了19万，与iPhone 14 20万的热度较为接近。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [找援兵！为打赢官司马斯克要求推特前CEO提供这三类信息](https://www.cnbeta.com/articles/tech/1307851.htm) | Tue Aug 23 2022 1:44 PM 
+- 🎊 [micro OLED屏幕正在推进：显示精细度暴增 10倍人眼分辨力](https://www.cnbeta.com/articles/tech/1307861.htm) | Tue Aug 23 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为打赢官司，马斯克搬来了大救兵——推特前CEO杰克·多西。当地时间8月22日，据《华尔街日报》，埃隆·马斯克（Elon Musk）的律师团队向自己的好友、社交媒体推特（Twitter）前&amp;nbsp;CEO&amp;nbsp;杰克·多西（Jack Dorsey）发送传票。这意味着在10月17日的庭审中，多西将有可能帮马斯克辩护，与老东家“对打”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果提出了Retina分辨率的概念，在iPhone 4发布会上，乔布斯曾表示，在屏幕距离眼睛10到12英寸的范围内，视网膜屏的PPI（像素密度）大概在300左右。如今，市面上绝大部分手机的PPI在300~400左右，残暴如索尼4K手机，PPI不过806。而现在要说的Micro OLED显示屏，起步就是3000 PPI。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
