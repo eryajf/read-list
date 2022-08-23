@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [人教社教科书插图被拍卖 单幅卖价最高超50万](https://www.cnbeta.com/articles/tech/1307847.htm) | Tue Aug 23 2022 1:12 PM 
+- 🕯 [科学家解开了行星尘埃中一氧化碳失踪之谜](https://www.cnbeta.com/articles/science/1307859.htm) | Tue Aug 23 2022 2:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据扬子晚报报道称，一组由人民教育出版社（以下简称人教社）出版的教科书插图被拍卖。拍卖场次名为“珍贵的教科书——老版教材插图原作”，于8月18日晚上8点开始，现已结拍。全部拍品共70幅，成交价均在万元以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;天文学家们经常在行星尘埃中观察一氧化碳（CO）。&lt;/strong&gt;因为这种化合物是超亮的，而且在原行星盘，即年轻恒星周围形成行星的尘埃和气体区域中极为常见，所以它是科学家的首要目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华为Mate 50 Pro真机谍照曝光：可变光圈摄像头重出江湖](https://www.cnbeta.com/articles/tech/1307845.htm) | Tue Aug 23 2022 12:53 PM 
+- 💼 [风力涡轮机叶片有朝一日可被回收制成小熊软糖](https://www.cnbeta.com/articles/tech/1307857.htm) | Tue Aug 23 2022 2:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;华为Mate 50系列已经确定将于9月6日发布，时隔两年，Mate年度旗舰重磅归来，承载了不少期待。今日晚间（8月23日），华为Mate 50 Pro谍照曝光。手机戴有厚厚的保密防护壳，看来是做足了伪装。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;回收由玻璃纤维制成的标准风力涡轮机叶片既困难又昂贵，因此退役的设备通常最终会被填埋。&lt;strong&gt;科学家们提议用一种新材料制作风轮机叶片，这种材料可以被回收到无数的普通物品中。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新一代传祺M8发布：“灭霸”前脸霸气超越丰田埃尔法](https://www.cnbeta.com/articles/tech/1307843.htm) | Tue Aug 23 2022 12:38 PM 
+- 💂 [律师解读苹果诉前雇员案：无证据证明小鹏存在责任](https://www.cnbeta.com/articles/tech/1307855.htm) | Tue Aug 23 2022 1:48 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月23日消息，广汽传祺发布了新一代M8的官图。据官方消息，新一代M8豪华MPV采用与全新第二代GS8一脉相承的“星钻菱影”设计语言，拥有全新的格栅设计，官方称之为“醒狮”前脸，&lt;strong&gt;纵向分布的饰条可以让车辆有一种更加威严的视觉感受&lt;/strong&gt;，比起丰田埃尔法似乎也不落下风。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国格知律师事务所合伙人、知名律师叶俊，知名IT与知识产权律师赵占领律师均认为，&lt;strong&gt;没有任何证据能证明，张小浪的窃密行为受小鹏汽车指示，或相关机密、技术被小鹏汽车使用。此案件实际是苹果和离职华裔员工个人的之间的纠纷，和小鹏公司无关。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [院方：林志颖术后良好 已返回家中休养](https://www.cnbeta.com/articles/tech/1307841.htm) | Tue Aug 23 2022 12:37 PM 
+- 🚀 [牛津大学科学家将开展试验评估SIGA的tecovirimat能否有效治疗猴痘](https://www.cnbeta.com/articles/tech/1307853.htm) | Tue Aug 23 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月22日，知名艺人林志颖驾车途中意外遭遇车祸，受伤严重，肩部粉碎性骨折，面部骨折，轻微脑震荡，之后进行了一系列手术。日前有消息称，林志颖当前恢复艰难，术后无法进食，只能通过鼻饲管进流食。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英国牛津大学的科学家们周二宣布了一项新的名为PLATINUM的临床研究，以评估SIGA Technologies&lpar;SIGA.US&rpar;开发的抗病毒药物tecovirimat是否对治疗猴痘有效。这些科学家们曾为寻找新冠治疗方法开展了一项被称为RECOVERY的主要试验，并在2020年声名鹊起。该试验最初测试了四种针对新冠的治疗方法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [增程车，越骂越多](https://www.cnbeta.com/articles/tech/1307839.htm) | Tue Aug 23 2022 12:37 PM 
+- 🎊 [找援兵！为打赢官司马斯克要求推特前CEO提供这三类信息](https://www.cnbeta.com/articles/tech/1307851.htm) | Tue Aug 23 2022 1:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有人吐槽增程，有人却喊真香！前不久，华为常务董事、终端 BG CEO、智能汽车解决方案 BU CEO 余承东在接受媒体采访时表示，说增程车不够先进是胡扯。针对这一观点，长城魏牌 CEO 李瑞峰在微博上更是直接跟余承东隔空对话，表示“打铁还需自身硬，增程式混动技术落后是行业共识。”并且这位 CEO 还自购了一辆问界 M5 准备开始测试，火药味十足。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为打赢官司，马斯克搬来了大救兵——推特前CEO杰克·多西。当地时间8月22日，据《华尔街日报》，埃隆·马斯克（Elon Musk）的律师团队向自己的好友、社交媒体推特（Twitter）前&amp;nbsp;CEO&amp;nbsp;杰克·多西（Jack Dorsey）发送传票。这意味着在10月17日的庭审中，多西将有可能帮马斯克辩护，与老东家“对打”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
