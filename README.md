@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [喝雨水安全吗？](http://jandan.net/p/111203) | Tue Aug 23 2022 6:30 AM 
+- 🚀 [英国一餐厅不再接待纯素食者](http://jandan.net/p/111204) | Tue Aug 23 2022 7:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    老板已经受够了纯素者的态度 
+    </details> 
+
+- 🙉 [喝雨水安全吗？](http://jandan.net/p/111203) | Tue Aug 23 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     目前全世界各地的雨水中的PFAS浓度都超标 
     </details> 
 
-- 🙉 [巴厘岛猴子生活太安逸 石器时代的加点都歪了：没发明石斧，就先搞情趣用品](http://jandan.net/p/111179) | Tue Aug 23 2022 4:27 AM 
+- 🎉 [巴厘岛猴子生活太安逸 石器时代的加点都歪了：没发明石斧，就先搞情趣用品](http://jandan.net/p/111179) | Tue Aug 23 2022 4:27 AM 
     <details><summary>展开描述 ...</summary> 
     在巴厘岛的圣猴森林里，食物随处可见，居民手淫猖獗。 
     </details> 
 
-- 🎉 [今日好价 0823](http://jandan.net/p/111200) | Tue Aug 23 2022 3:42 AM 
+- 🐲 [今日好价 0823](http://jandan.net/p/111200) | Tue Aug 23 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
     实名注册在吐槽里 
     </details> 
 
-- 🐲 [猫猫为什么会“玩弄”自己的猎物？](http://jandan.net/p/111199) | Tue Aug 23 2022 2:56 AM 
+-  [猫猫为什么会“玩弄”自己的猎物？](http://jandan.net/p/111199) | Tue Aug 23 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
     从老祖宗那里传下来的本能 
-    </details> 
-
--  [雷暴天气里可以洗澡和刷碗吗](http://jandan.net/p/111167) | Mon Aug 22 2022 3:23 PM 
-    <details><summary>展开描述 ...</summary> 
-    小时候在家里看电视，只要外面一打雷，奶奶就会把电视关了 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
