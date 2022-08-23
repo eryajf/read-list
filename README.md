@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [宁德时代发布2022半年报：净利润81.68亿元 同比暴增82.17%](https://www.cnbeta.com/articles/tech/1307835.htm) | Tue Aug 23 2022 12:34 PM 
+- 🕯 [人教社教科书插图被拍卖 单幅卖价最高超50万](https://www.cnbeta.com/articles/tech/1307847.htm) | Tue Aug 23 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月23日，宁德时代公布了2022年上半年报告。数据显示，宁德时代上半年营收1129.71亿元，同比增长156.32%；&lt;strong&gt;归母净利润81.68亿元，增长82.17%。&lt;/strong&gt;根据SNE数据，宁德时代上半年全球动力电池市占率34.8%，比去年同期提升6.2个百分点，&lt;strong&gt;稳居第一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据扬子晚报报道称，一组由人民教育出版社（以下简称人教社）出版的教科书插图被拍卖。拍卖场次名为“珍贵的教科书——老版教材插图原作”，于8月18日晚上8点开始，现已结拍。全部拍品共70幅，成交价均在万元以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英特尔联合资管公司推出首个半导体合作投资计划（SCIP）](https://www.cnbeta.com/articles/tech/1307833.htm) | Tue Aug 23 2022 12:30 PM 
+- 💼 [华为Mate 50 Pro真机谍照曝光：可变光圈摄像头重出江湖](https://www.cnbeta.com/articles/tech/1307845.htm) | Tue Aug 23 2022 12:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;英特尔公司今天宣布了一项首创的半导体共同投资计划（SCIP），为资本密集型半导体行业引入了一种新的融资模式。&lt;/strong&gt;作为该计划的一部分，英特尔已经与全球最大的另类资产管理公司之一的布鲁克菲尔德资产管理公司的基础设施子公司签署了一份最终协议，该协议将为英特尔提供一个新的、扩大的资本池，用于生产建设。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;华为Mate 50系列已经确定将于9月6日发布，时隔两年，Mate年度旗舰重磅归来，承载了不少期待。今日晚间（8月23日），华为Mate 50 Pro谍照曝光。手机戴有厚厚的保密防护壳，看来是做足了伪装。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Windows 11 build 25182包含隐藏配置选项 可更快地加载任务栏](https://www.cnbeta.com/articles/tech/1307831.htm) | Tue Aug 23 2022 12:26 PM 
+- 💂 [新一代传祺M8发布：“灭霸”前脸霸气超越丰田埃尔法](https://www.cnbeta.com/articles/tech/1307843.htm) | Tue Aug 23 2022 12:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软对Windows 11中的任务栏的实验仍在继续。在该公司删除了让人眼前一亮任务栏的任务栏读取动画后，用户发现了一个新的隐藏配置，它可以让系统更快地加载任务栏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月23日消息，广汽传祺发布了新一代M8的官图。据官方消息，新一代M8豪华MPV采用与全新第二代GS8一脉相承的“星钻菱影”设计语言，拥有全新的格栅设计，官方称之为“醒狮”前脸，&lt;strong&gt;纵向分布的饰条可以让车辆有一种更加威严的视觉感受&lt;/strong&gt;，比起丰田埃尔法似乎也不落下风。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [VESA发布ClearMR认证 为显示器运动模糊清晰度分级](https://www.cnbeta.com/articles/tech/1307829.htm) | Tue Aug 23 2022 12:05 PM 
+- 🚀 [院方：林志颖术后良好 已返回家中休养](https://www.cnbeta.com/articles/tech/1307841.htm) | Tue Aug 23 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;视频电子标准协会（VESA）宣布推出ClearMR合规性测试规范，这是新的行业标准和认证计划，为数字显示器中的运动模糊分级提供了新的质量指标。ClearMR适用于显示面板、电视、显示器和带有嵌入式显示器的计算机，包括了一体机、笔记本电脑、笔记本电脑和平板电脑等一系列产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月22日，知名艺人林志颖驾车途中意外遭遇车祸，受伤严重，肩部粉碎性骨折，面部骨折，轻微脑震荡，之后进行了一系列手术。日前有消息称，林志颖当前恢复艰难，术后无法进食，只能通过鼻饲管进流食。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [前安全主管称推特存在“严重缺陷” 马斯克、特朗普都曾被黑客攻击](https://www.cnbeta.com/articles/tech/1307827.htm) | Tue Aug 23 2022 12:03 PM 
+- 🎊 [增程车，越骂越多](https://www.cnbeta.com/articles/tech/1307839.htm) | Tue Aug 23 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，推特前安全主管在一份举报信中表示，该公司的高管欺骗了联邦监管机构和公司的董事会，称其在打击垃圾邮件、防范黑客方面存在“严重、令人震惊的缺陷”。据了解，推特的前安全主管名为佩特·扎特科&lpar;Peiter Zatko&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;有人吐槽增程，有人却喊真香！前不久，华为常务董事、终端 BG CEO、智能汽车解决方案 BU CEO 余承东在接受媒体采访时表示，说增程车不够先进是胡扯。针对这一观点，长城魏牌 CEO 李瑞峰在微博上更是直接跟余承东隔空对话，表示“打铁还需自身硬，增程式混动技术落后是行业共识。”并且这位 CEO 还自购了一辆问界 M5 准备开始测试，火药味十足。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
