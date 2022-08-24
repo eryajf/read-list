@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [MPAndroidChart绘制原理](https://juejin.cn/post/7135440121695830024) | Wed Aug 24 2022 1:52 PM 
+- 🤗 [头脑风暴：最长回文子序列](https://juejin.cn/post/7135456480735526926) | Wed Aug 24 2022 2:56 PM 
     <details><summary>展开描述 ...</summary> 
-    本文及本系列专题着重剖析MPChart的绘制原理及流程，以及部分自定义的属性、自定义图表，绘制过程中的细节点的介绍 
+    题目 给定一个字符串 s ，找到其中最长的回文子序列，并返回该序列的长度。可以假设 s 的最大长度为 1000 。 示例1： 输入: &quot;bbbab&quot; 输出: 4 一个可能的最长回文子序列为 &quot;bbbb 
     </details> 
 
-- 🎡 [朋友，进来刷点 try-catch 看看你能全对吗（答应我，请务必看到最后 🫣）](https://juejin.cn/post/7135435911692550157) | Wed Aug 24 2022 1:36 PM 
+- 🎡 [Go&amp;Java算法之找不同](https://juejin.cn/post/7135454951706705957) | Wed Aug 24 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
-    随着这几年前端的高速发展，前端逻辑的复杂度越来越高，质量要求越来越高，再加上 async、await 的横行，try-catch 在前端的使用率越来越高。然而 try-catch 中可能隐藏着一些不为 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第28天，点击查看活动详情 找不同 给定两个字符串 s 和 t ，它们只包含小写字母。 字符串 t 由字符串 s 随机重排，然后在随 
     </details> 
 
-- 🕯 [Compose里面如何使用地图，比如高德地图](https://juejin.cn/post/7135435381209579556) | Wed Aug 24 2022 1:34 PM 
+- 🕯 [光会面向对象基础做不了项目，还得掌握这些进阶知识](https://juejin.cn/post/7135454732880969735) | Wed Aug 24 2022 2:49 PM 
     <details><summary>展开描述 ...</summary> 
-    Compose构建高德地图，流畅，代码看着舒服，易用，点赞❤️+关注❤️+收藏❤️，划走可就找不到咯。 
+    上篇文章我们把面向对象的基础知识给大家过了一遍，面向对象的各种思想以及那些概念性的东西都结合示例给大家过了一遍，因为是用 Java 给大家展开的，但是 Java 光会那些东西，貌似还不能写代码，实际开 
     </details> 
 
-- 🚀 [浅析神经网络 Neural Networks](https://juejin.cn/post/7135429542864224293) | Wed Aug 24 2022 1:11 PM 
+- 🚀 [LeetCode多数元素使用JavaScript解题|前端学算法](https://juejin.cn/post/7135453823736217637) | Wed Aug 24 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
-    目录 前情概要 该主题分享的目的是:   不局限于前端，拓展知识学习领域，不设边界。   以下仅代表我个人学习总结，如有问题，虚心请教，并及时修正。 另外本次分享不会有大段大段代码，主要是理解为什么这 
+    前端使用JavaScript解决LeetCode算法多数元素题的解法，前端学习算法，每天三分钟一个知识点 
     </details> 
 
-- 💪 [我是一个垃圾](https://juejin.cn/post/7135429002688200740) | Wed Aug 24 2022 1:09 PM 
+- 💪 [带你玩转消息队列和相关选型！](https://juejin.cn/post/7135453248722305061) | Wed Aug 24 2022 2:43 PM 
     <details><summary>展开描述 ...</summary> 
-    哒哒哒...... 回收者的脚步声越来越清晰，我竭力锁紧身体让自己别那么引人注目，尽管气喘吁吁，但我仍然压抑住自己的呼吸。 终归是藏不住的，但是多活个几毫秒也是好的，我们都这么想。 因为回收者是来杀我 
+    本文主要介绍Kafka、RabbitMQ、Pulsar、RocketMQ相关的基本原理和选型对比，希望对此方向感兴趣的读者提供一定经验和帮助。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
