@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [仙人指路,引而不发,Go lang1.18入门精炼教程,由白丁入鸿儒,Golang中New和Make函数的使用背景和区别EP16](https://juejin.cn/post/7135345726405492744) | Wed Aug 24 2022 7:46 AM 
+- 🤗 [CSDN 报告：阿里云容器服务成为中国开发者首选](https://juejin.cn/post/7135360839364083720) | Wed Aug 24 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-    Golang只有二十五个系统保留关键字，二十几个系统内置函数，加起来只有五十个左右需要记住的关键字，纵观编程宇宙，无人能出其右。其中还有一些保留关键字属于“锦上添花”，什么叫锦上添花？ 
+    最近，国内知名 IT 技术社区 CSDN  重磅发布《2021-2022 中国开发者调查报告》，旨在全面和深入地了解中国开发者群体整体现状、应用开发技术以及开发工具、平台的状况和发展趋势。该报告对近万 
     </details> 
 
-- 🎡 [WWDC22: Improve app size and runtime performance](https://juejin.cn/post/7135344206939160612) | Wed Aug 24 2022 7:40 AM 
+- 🎡 [framework | init进程流程分析](https://juejin.cn/post/7135358027913232421) | Wed Aug 24 2022 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-    本Session讲了为了让你的应用包体积更小，运行更快，启动速度更快，我们对Swift和Objective-C运行时做了怎样的优化。同时通过本Session你将发现如何通过高效的协议检查，更小的消息发 
+    init进程为Android系统用户空间第一个进程，是所有进程父进程，主要作用是属性服务、监听子进程和解析rc文件。 
     </details> 
 
-- 🕯 [不存在“2022年红绿灯新国标”，红灯停，绿灯行，黄灯亮了停一停～](https://juejin.cn/post/7135343601147609119) | Wed Aug 24 2022 7:38 AM 
+- 🕯 [写一个关于minio的吧（后半部分为自建minio）](https://juejin.cn/post/7135357975958896676) | Wed Aug 24 2022 8:33 AM 
     <details><summary>展开描述 ...</summary> 
-    近几天一直闹的沸沸扬扬的“2022年红绿灯新国标”总算被辟谣了，自小我们所接受的教育是“红灯停，绿灯行，黄灯亮了停一停”，要一下子调整到奇奇怪怪的方式，怕是驾照白考，出门6分300....... 
+    minio是什么 MinIO是对象存储服务。它基于Apache License 开源协议，兼容Amazon S3云存储接口。适合存储非结构化数据，如图片，音频，视频，日志等。对象文件最大可以达到5TB 
     </details> 
 
-- 🚀 [不改一行业务代码，飞书 iOS 低端机启动优化实践](https://juejin.cn/post/7135343788653805605) | Wed Aug 24 2022 7:38 AM 
+- 🚀 [监听浏览器切屏功能实现](https://juejin.cn/post/7135355487955976223) | Wed Aug 24 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-    增加并发是否是启动优化的良策？本文将结合飞书 iOS 端启动优化，探索 QoS 对线程调度的影响 。 
+    本文主要根据监听浏览器切屏这一需求，复现了当初实现此需求的思路历程。基于这一需求完成了两种方案，这两种方案各有优劣，欢迎阅读文章做进一步了解 
     </details> 
 
-- 💪 [杰哥的APK瘦身实践之旅——启动篇](https://juejin.cn/post/7135343555664412679) | Wed Aug 24 2022 7:37 AM 
+- 💪 [安装Anaconda并创建python3.8虚拟环境](https://juejin.cn/post/7135354738866028574) | Wed Aug 24 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-    很久之前就想写这个系列了，APK体积优化的文章收集了一大堆，却一直没动手去尝试，手痒得很。文章定位：整合大厂、大佬给出的瘦身方案，结合公司APP实际情况做APK瘦身的实践记录。本节是启动篇。包含： 
+    安装Anaconda并创建python3.8虚拟环境 本文已参与「新人创作礼」活动，一起开启掘金创作之路。 你可能已经安装了 Python，那么为什么还需要 Anaconda？有以下3个原因： 1）A 
     </details> 
 <!-- juejin:END -->
 ### 少数派
