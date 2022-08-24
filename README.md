@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华为余承东：车主说我们的车最大缺点是价格太低](https://www.cnbeta.com/articles/tech/1308223.htm) | Wed Aug 24 2022 9:07 AM 
+- 🕯 [《小美人鱼》真人版女主杂志封面美图 街头范十足](https://hot.cnbeta.com/articles/movie/1308259.htm) | Wed Aug 24 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月24日，问界M7首批车主交付启动仪式举行，赛力斯集团董事长张兴海和华为余承东出席了此次交车仪式。&lt;/strong&gt;在交付活动上，为给问界M7造势，余承东又对外放出了不少豪言。余承东称，有人跟我说我们车有很大的缺点，就是价格太便宜了，能不能买贵一点，因为贵一点能体现到他的身份，他过去都是买一两百万以上的，不会买那么便宜的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日《小美人鱼》真人版女主扮演者哈莉·贝利和姐姐克洛伊·贝利登上了《ESSENCE》杂志封面，真是街头范十足，一起来欣赏下她们的美照吧！之前因为扮演小美人鱼，哈莉·贝利遭到许多网友的谩骂。哈莉认为扮演这个角色，对黑人女孩来说有非凡意义和影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Gogoro宣布旗下电动二轮换电站网络客户已达50万](https://www.cnbeta.com/articles/tech/1308221.htm) | Wed Aug 24 2022 9:04 AM 
+- 💼 [《新蝙蝠侠》导演马特·里夫斯与华纳签订多年新约](https://hot.cnbeta.com/articles/movie/1308257.htm) | Wed Aug 24 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为中国台湾地区的电动自行车换电服务领导者，Gogoro 刚刚宣布已拥有多达 50 万客户。&lt;/strong&gt;除了生产各种款式的电动踏板车，换电站网络也是该公司保障其服务体验的重要一环。此外随着越来越多的其它制造商选用该公司的电池，Gogoro 也成为了当地市场事实上的换电标准制定者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据 DEADLINE 报道，华纳兄弟将对《新蝙蝠侠》导演马特·里夫斯和他的 6th&amp;amp;Idaho 电影制作公司全力投入。自从华纳兄弟影业集团联合主席/首席执行官迈克尔·德卢卡和帕梅拉·阿布迪被华纳兄弟探索部负责人大卫·扎斯拉夫聘用以指导电影部门以来，他已成为第一位获得整体首映电影交易的电影制作人。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [物理学家正在揭开“时间箭头”的谜团](https://www.cnbeta.com/articles/science/1308219.htm) | Wed Aug 24 2022 8:57 AM 
+- 💂 [工程师玩家打造迷你乐高版计算机 精致小巧可玩游戏](https://www.cnbeta.com/articles/tech/1308255.htm) | Wed Aug 24 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;理论物理学家的一项新研究在确定粒子和细胞如何产生大规模动态方面取得了进展，我们将其视为时间的流逝。我们如何体验世界的一个核心特征是时间从过去流向未来。但是，&lt;strong&gt;这个被称为 “时间箭头”（Arrow of time）的现象是如何从粒子和细胞之间的微观互动中产生的，却是一个谜。&lt;/strong&gt;纽约市立大学研究生中心理论科学倡议（ITS）的研究人员在《物理评论快报》杂志上发表了一篇新的论文，正在帮助揭开这个谜团。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;动手高玩的世界总是充满奇趣和妙想，近日一位国外图像工程师玩家用经典乐高组件打造了迷你版计算机，精致小巧还可玩玩小游戏。作者是来自新西兰的詹姆斯•布拉冯，平时就喜欢设计打造一些奇趣物品，这回展示了自己的最新作品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [昔日与阿里齐名如今传出业务关停 慧聪集团内部人士回应](https://www.cnbeta.com/articles/tech/1308217.htm) | Wed Aug 24 2022 8:53 AM 
+- 🚀 [瑞士SPF团队欲采用铝氧化还原储能电池来应对季节性储能需求](https://www.cnbeta.com/articles/science/1308253.htm) | Wed Aug 24 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;产业互联网、芯片等硬科技火热的当下，很多人已然不记得三十年前的B2B企业是什么样子。&lt;strong&gt;1992年，一位名为郭凡生的创业者拿出积攒多年的7.4万元，合伙成立了慧聪公关信息咨询有限公司，注册资金14.8万元。&lt;/strong&gt;当时新浪、搜狐等门户网站的创始人还在读书，马云也未走上创业道路。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为一种在地球上储量丰富的金属元素，拥有巨大能量密度的铝，也有望成为季节性储能的一个廉价解决方案。&lt;/strong&gt;New Atlas 指出 —— 为应对欧洲冬季可能面临的能源危机，瑞士科学家正考虑灵活利用铝的氧化还原反应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [教育部通报人教插图事件 27人被处罚](https://www.cnbeta.com/articles/tech/1308215.htm) | Wed Aug 24 2022 8:53 AM 
+- 🎊 [Facebook出现混乱：时间轴涌入陌生人随机帖子和名人帖子](https://www.cnbeta.com/articles/tech/1308251.htm) | Wed Aug 24 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年5月，人民教育出版社（简称人教社）第十一套小学数学教材插图问题受到社会广泛关注。教育部党组高度重视，成立由党组主要负责同志任组长、2位党组成员任副组长的调查处置工作组，通过约谈相关人员，调阅原始资料，听取数学、思政、美术等方面专家意见，征求一线数学和美术教师意见等方式，进行了认真调查核实。现将有关情况通报如下：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Facebook于当地时间周三表示，它知道一些用户在他们的Feeds上看到了奇怪的帖子，另外它还保证公司正在努力解决这个问题。&lt;/strong&gt;来自全球各地的众多用户抱怨了在他们的时间轴上看到了来自陌生人的随机帖子和名人页面的活动提示。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
