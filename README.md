@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌gmail在法国面临垃圾广告的隐私投诉](https://www.cnbeta.com/articles/tech/1308361.htm) | Wed Aug 24 2022 5:18 PM 
+- 🕯 [Tinder创始人的最新作品：量化心理健康的智能戒指](https://www.cnbeta.com/articles/tech/1308369.htm) | Wed Aug 24 2022 5:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;Tinder创始人Sean Rad旗下的Happy Health公司推出名为Happy Ring的智能戒指&lt;/strong&gt;，这家公司成立于2019年底，目前有40名员工，其中13名员工位于该创业公司总部所在地奥斯汀。该公司还刚刚宣布了6000万美元的A轮融资，由ARCH Venture Partners领投。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《最后的生还者：重制版》中字预告 为次世代而生](https://hot.cnbeta.com/articles/game/1308367.htm) | Wed Aug 24 2022 5:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《最后的生还者：重制版》公开了全新的实机预告，展示了游戏的战斗以及剧情元素，画质提升较为明显，一起欣赏一下。《最后的生还者：重制版》将于9月2日登陆PS5，PC版稍微推出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Fitbit发布新款Sense和Versa智能手表](https://www.cnbeta.com/articles/tech/1308365.htm) | Wed Aug 24 2022 5:29 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;&amp;nbsp;Alphabet旗下的Fitbit公司发布了三款可穿戴设备，包括两款新的智能手表。其中顶级产品是Versa 4和Sense 2。&lt;/strong&gt;价格较高的Sense系列在2020年末首次亮相，建立在流行的Sense设备基础上，为该设备带来了更多的传感器和心智重点。通过尝试解决压力和心理健康问题来超越标准的健身和睡眠感应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Intel发布全新GPU Flex：转码性能5倍于NVIDIA 功耗仅一半](https://www.cnbeta.com/articles/tech/1308363.htm) | Wed Aug 24 2022 5:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Intel独立GPU虽然是后起之秀，但正无处不在！&lt;strong&gt;今天，Intel正式发布了全新的数据中心GPU Flex系列&lpar;曾用代号Arctic Sound-M&rpar;，主要用于视频转码与传输、视觉AI推理、云游戏、桌面虚拟化等领域。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [谷歌Gmail在法国面临垃圾广告的隐私投诉](https://www.cnbeta.com/articles/tech/1308361.htm) | Wed Aug 24 2022 5:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;谷歌在欧洲面临新的隐私投诉，因为它在Gmail电子邮件服务中以电子邮件的名义插入了广告。&lt;/strong&gt;隐私保护组织noyb向法国数据保护监督机构CNIL提出投诉，称这家广告技术巨头违反了欧盟关于直接营销的ePrivacy Directive规则，没有获得Gmail用户的同意，在他们的收件箱中显示广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [SpaceX和T-Mobile将于8月25日举办联合发布会 融合Starlink与运营商业务](https://www.cnbeta.com/articles/tech/1308359.htm) | Wed Aug 24 2022 5:09 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;SpaceX和T-Mobile将于美国东部时间周四晚上8点举办联合活动，宣布&amp;quot;增加连接能力&amp;quot;的计划。SpaceX的&amp;quot;首席工程师&amp;quot;Elon Musk和T-Mobile的首席执行官兼总裁Mike Sievert将在活动中发表讲话。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [三星发布新一代旗舰SSD 990 PRO 系目前最快PCIe 4.0固态盘](https://www.cnbeta.com/articles/tech/1308357.htm) | Wed Aug 24 2022 4:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星今日发布新一代固态盘产品990 PRO，刷新了PCIe 4.0 SSD的性能新高。&lt;strong&gt;官方宣称连续读取速度可达7450MB/s，连续写入速度可达6900MB/s&lt;/strong&gt;，随机读取速度最高1400K IOPS，随机写入最高1550K IOPS，对比980 PRO，990 PRO的随机读写性能提升了55%，更适合游戏和创意生产型任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [苹果官网9月7日发布会页面上线以太空为主题的AR特效彩蛋](https://www.cnbeta.com/articles/tech/1308355.htm) | Wed Aug 24 2022 4:51 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果公司将于9月7日星期三举行其2022年秋季发布会，该活动的举办信息现已在苹果公司的网站上公布。&lt;/strong&gt;与所有苹果发布会一样，如果你用iPhone或iPad访问该页面，你可以看到一个互动的增强现实彩蛋。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [个人碳账户来了，攒多了能卖钱？](https://www.cnbeta.com/articles/tech/1308353.htm) | Wed Aug 24 2022 4:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月刚过没几天，个人碳账户突然热闹了起来。8月10日，在“2022北京绿色生活季”活动上，北京绿色生活碳普惠平台“绿色生活季”小程序暨北京个人碳账本正式上线。伴随着“88购物节”的到来，淘宝也上线了自己的个人碳账户平台“88碳账户”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
