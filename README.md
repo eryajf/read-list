@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0824](http://jandan.net/p/111208) | Wed Aug 24 2022 3:45 AM 
+- 🚀 [日本动物研究员宣称 首次经实验发现 狗狗也会喜极而泣](http://jandan.net/p/111202) | Wed Aug 24 2022 4:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    传统观点认为，没有其他动物会因泛起的情感而流泪。动物流眼泪单纯出于物理上的刺激 
+    </details> 
+
+- 🙉 [威尔士以及全英国 流媒体正在拉大不同年龄层级观众的电视代沟](http://jandan.net/p/111168) | Wed Aug 24 2022 4:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    平均而言，青少年现在每天会看1小时电视，而55岁及以上的人群要看6个小时 
+    </details> 
+
+- 🎉 [今日好价 0824](http://jandan.net/p/111208) | Wed Aug 24 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🙉 [美国 两个热爱生物学的高中生识别出两个新物种](http://jandan.net/p/111183) | Tue Aug 23 2022 12:00 PM 
+- 🐲 [美国 两个热爱生物学的高中生识别出两个新物种](http://jandan.net/p/111183) | Tue Aug 23 2022 12:00 PM 
     <details><summary>展开描述 ...</summary> 
     除了性体验，提早走进科学，也对青少年的成长有益哦 
     </details> 
 
-- 🎉 [青少年时期的禁欲教育从长远来看可能对年轻人的性健康有害](http://jandan.net/p/111142) | Tue Aug 23 2022 11:58 AM 
+-  [青少年时期的禁欲教育从长远来看可能对年轻人的性健康有害](http://jandan.net/p/111142) | Tue Aug 23 2022 11:58 AM 
     <details><summary>展开描述 ...</summary> 
     除实质性交之外还包括其他重要的第一次——第一次接触、第一次刺激和第一次高潮，太晚体验或会导致功能障碍 
-    </details> 
-
-- 🐲 [英国一餐厅不再接待纯素食者](http://jandan.net/p/111204) | Tue Aug 23 2022 7:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    老板已经受够了纯素者的态度 
-    </details> 
-
--  [喝雨水安全吗？](http://jandan.net/p/111203) | Tue Aug 23 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    目前全世界各地的雨水中的PFAS浓度都超标 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
