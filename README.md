@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉敦促法官驳回加州种族歧视案](https://www.cnbeta.com/articles/tech/1308345.htm) | Wed Aug 24 2022 4:23 PM 
+- 🕯 [谷歌gmail在法国面临垃圾广告的隐私投诉](https://www.cnbeta.com/articles/tech/1308361.htm) | Wed Aug 24 2022 5:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，特斯拉的律师今日将敦促加州法官驳回该州民权机构提起的一起诉讼。该诉讼指控特斯拉加州工厂存在广泛的种族歧视行为。今年2月，加州民权部（DCR）起诉特斯拉，称特斯拉在加州弗里蒙特（Fremont）的旗舰工厂是一个种族歧视的工作场所，黑人员工在工作分配、纪律和薪酬方面受到骚扰和歧视。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;谷歌在欧洲面临新的隐私投诉，因为它在Gmail电子邮件服务中以电子邮件的名义插入了广告。&lt;/strong&gt;隐私保护组织noyb向法国数据保护监督机构CNIL提出投诉，称这家广告技术巨头违反了欧盟关于直接营销的ePrivacy Directive规则，没有获得Gmail用户的同意，在他们的收件箱中显示广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [RTX 4090已经投产 24GB海量显存坐实](https://www.cnbeta.com/articles/tech/1308343.htm) | Wed Aug 24 2022 4:20 PM 
+- 💼 [SpaceX和T-Mobile将于8月25日举办联合发布会 融合Starlink与运营商业务](https://www.cnbeta.com/articles/tech/1308359.htm) | Wed Aug 24 2022 5:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然还不能完全确定RTX 40系列显卡长什么样子，规格如何，但是有迹象表明，生产工作已经开始了。曝料显示，&lt;strong&gt;RTX 4090已经于8月16日投产&lt;/strong&gt;，而且应该有两个不同版本，只是具体区别被打了码，估计大概率是标准版和超频版。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;SpaceX和T-Mobile将于美国东部时间周四晚上8点举办联合活动，宣布&amp;quot;增加连接能力&amp;quot;的计划。SpaceX的&amp;quot;首席工程师&amp;quot;Elon Musk和T-Mobile的首席执行官兼总裁Mike Sievert将在活动中发表讲话。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果宣布9月7日举办发布会 以iPhone 14、Apple Watch Series 8为重点](https://www.cnbeta.com/articles/tech/1308341.htm) | Wed Aug 24 2022 4:14 PM 
+- 💂 [三星发布新一代旗舰SSD 990 PRO 系目前最快PCIe 4.0固态盘](https://www.cnbeta.com/articles/tech/1308357.htm) | Wed Aug 24 2022 4:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天宣布，它将于太平洋时间9月7日星期三上午10点（北京时间9月8日凌晨1点）举行一次特别活动。该活动将在加利福尼亚州库比蒂诺的苹果园园区的史蒂夫-乔布斯剧院举行，与上一次发布会一样，总部将有一个亲临现场的环节，媒体成员将被邀请到苹果的园区。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星今日发布新一代固态盘产品990 PRO，刷新了PCIe 4.0 SSD的性能新高。&lt;strong&gt;官方宣称连续读取速度可达7450MB/s，连续写入速度可达6900MB/s&lt;/strong&gt;，随机读取速度最高1400K IOPS，随机写入最高1550K IOPS，对比980 PRO，990 PRO的随机读写性能提升了55%，更适合游戏和创意生产型任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NVIDIA Grace处理器详情公布：功耗500W、性能不及Zen2](https://www.cnbeta.com/articles/tech/1308339.htm) | Wed Aug 24 2022 4:10 PM 
+- 🚀 [苹果官网9月7日发布会页面上线以太空为主题的AR特效彩蛋](https://www.cnbeta.com/articles/tech/1308355.htm) | Wed Aug 24 2022 4:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA设计CPU产品已经有段时间了，不过Tegra从手机、平板到盒子折腾一番后，最终发现自己的归宿在汽车自动驾驶以及任天堂Switch游戏机上。抛开Tegra，NVIDIA在今年的GTC 2022上还公布了名为Grace的处理器，主要用于服务器、高性能计算等领域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果公司将于9月7日星期三举行其2022年秋季发布会，该活动的举办信息现已在苹果公司的网站上公布。&lt;/strong&gt;与所有苹果发布会一样，如果你用iPhone或iPad访问该页面，你可以看到一个互动的增强现实彩蛋。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [科学家发现一种被认为已经灭绝的巨龟还活着](https://www.cnbeta.com/articles/science/1308337.htm) | Wed Aug 24 2022 4:10 PM 
+- 🎊 [个人碳账户来了，攒多了能卖钱？](https://www.cnbeta.com/articles/tech/1308353.htm) | Wed Aug 24 2022 4:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一只长期被认为已经灭绝的加拉帕戈斯乌龟被发现活着。&lt;/strong&gt;这只龟是一个多世纪以来首次发现的同类龟，并以它在费尔南迪纳岛的家为名被命名为费尔南达。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月刚过没几天，个人碳账户突然热闹了起来。8月10日，在“2022北京绿色生活季”活动上，北京绿色生活碳普惠平台“绿色生活季”小程序暨北京个人碳账本正式上线。伴随着“88购物节”的到来，淘宝也上线了自己的个人碳账户平台“88碳账户”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
