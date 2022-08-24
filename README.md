@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iFixit称苹果的DIY维修计划反而使MacBook看起来不那么好修](https://www.cnbeta.com/articles/tech/1308333.htm) | Wed Aug 24 2022 2:12 PM 
+- 🕯 [特斯拉敦促法官驳回加州种族歧视案](https://www.cnbeta.com/articles/tech/1308345.htm) | Wed Aug 24 2022 4:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司本周将其自助维修计划扩大到配备M1系列芯片的MacBook Air和MacBook Pro机型，为美国的客户提供选择零件、手册和工具来维修笔记本。虽然该计划的扩大对维修权运动是个好消息，但维修指南网站iFixit对该计划的实施并不完全满意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，特斯拉的律师今日将敦促加州法官驳回该州民权机构提起的一起诉讼。该诉讼指控特斯拉加州工厂存在广泛的种族歧视行为。今年2月，加州民权部（DCR）起诉特斯拉，称特斯拉在加州弗里蒙特（Fremont）的旗舰工厂是一个种族歧视的工作场所，黑人员工在工作分配、纪律和薪酬方面受到骚扰和歧视。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [李小龙女儿起诉真功夫快餐一案将开庭：索赔2.1亿](https://www.cnbeta.com/articles/tech/1308331.htm) | Wed Aug 24 2022 2:11 PM 
+- 💼 [RTX 4090已经投产 24GB海量显存坐实](https://www.cnbeta.com/articles/tech/1308343.htm) | Wed Aug 24 2022 4:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据上海市高级人民法院官网，快餐连锁品牌真功夫和李小龙女儿一方的诉讼案件，将于明天（8月25日）上午9时开庭审理，案由为一般人格权纠纷。原告李小龙有限责任公司注册地在美国加利福尼亚州，创始人、法定代表人为李小龙的女儿Shannon Lee，中文名李香凝。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然还不能完全确定RTX 40系列显卡长什么样子，规格如何，但是有迹象表明，生产工作已经开始了。曝料显示，&lt;strong&gt;RTX 4090已经于8月16日投产&lt;/strong&gt;，而且应该有两个不同版本，只是具体区别被打了码，估计大概率是标准版和超频版。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [去年越南市场的iPhone销量增加了一倍多](https://www.cnbeta.com/articles/tech/1308329.htm) | Wed Aug 24 2022 2:07 PM 
+- 💂 [苹果宣布9月7日举办发布会 以iPhone 14、Apple Watch Series 8为重点](https://www.cnbeta.com/articles/tech/1308341.htm) | Wed Aug 24 2022 4:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年第二季度，越南苹果公司的iPhone出货量明显增加，原因是消费者对高端手机的情绪转变，以及苹果零售渠道的扩张。经济型智能手机的出货量基本持平，同比下降1%至320万部。然而，被归类为400美元以上的高端智能手机，同比增长75%。为游戏设计的智能手机也出现了高增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司今天宣布，它将于太平洋时间9月7日星期三上午10点（北京时间9月8日凌晨1点）举行一次特别活动。该活动将在加利福尼亚州库比蒂诺的苹果园园区的史蒂夫-乔布斯剧院举行，与上一次发布会一样，总部将有一个亲临现场的环节，媒体成员将被邀请到苹果的园区。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [不再担心余额不足 数字人民币App上新“随用随充”功能](https://www.cnbeta.com/articles/tech/1308327.htm) | Wed Aug 24 2022 2:01 PM 
+- 🚀 [NVIDIA Grace处理器详情公布：功耗500W、性能不及Zen2](https://www.cnbeta.com/articles/tech/1308339.htm) | Wed Aug 24 2022 4:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不再担心“数字钱包”余额不足！数字人民币App上新“随用随充”功能。8月23日，数字人民币（试点版）App上新“随用随充”功能，即银行卡账户资金与数字人民币钱包之间的自动充钱功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA设计CPU产品已经有段时间了，不过Tegra从手机、平板到盒子折腾一番后，最终发现自己的归宿在汽车自动驾驶以及任天堂Switch游戏机上。抛开Tegra，NVIDIA在今年的GTC 2022上还公布了名为Grace的处理器，主要用于服务器、高性能计算等领域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [互联网健身平台Peloton宣布在亚马逊上销售健身器材和服装](https://www.cnbeta.com/articles/tech/1308325.htm) | Wed Aug 24 2022 1:54 PM 
+- 🎊 [科学家发现一种被认为已经灭绝的巨龟还活着](https://www.cnbeta.com/articles/science/1308337.htm) | Wed Aug 24 2022 4:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国互联网健身平台、运动器材制造商Peloton今日宣布，已与亚马逊建立合作伙伴关系，在亚马逊上销售其健身器材和服装。Peloton此举旨在拓宽其用户群，销售出更多产品，并赢回投资者的信心。与疫情期间的高增长相比，Peloton近期的营收涨幅大幅放缓，并导致股价暴跌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一只长期被认为已经灭绝的加拉帕戈斯乌龟被发现活着。&lt;/strong&gt;这只龟是一个多世纪以来首次发现的同类龟，并以它在费尔南迪纳岛的家为名被命名为费尔南达。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
