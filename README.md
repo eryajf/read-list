@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [实战Node.js原理对于阻塞和EventEmitter及其继承的运用心得](https://juejin.cn/post/7135094913405812773) | Tue Aug 23 2022 3:33 PM 
+- 🤗 [数据科学手把手：碳中和下的二氧化碳排放分析 ⛵](https://juejin.cn/post/7135245609400795173) | Wed Aug 24 2022 1:17 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 基本概念 简单地说，Node.js是在服务器端运行的JavaScript。 节点。 然而，对于node  
+    气候是全球性的话题，本文基于owid co2数据集，分析了世界各地的二氧化碳排放量，并将二氧化碳排放的主要国家以及二氧化碳排放来源进行了可视化。 
     </details> 
 
-- 🎡 [【定制Android系统】Android O 一种 Framework 层实现按键长按功能的方法（以长按 CENTER 键实现系统重启为例）](https://juejin.cn/post/7135094307689594910) | Tue Aug 23 2022 3:30 PM 
+- 🎡 [实测：游戏情景中，远控软件实力如何？一篇告诉你ToDesk的强大之处](https://juejin.cn/post/7135244937523642398) | Wed Aug 24 2022 1:15 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 原理 在 Framework 层，查找长按电源键关机相关逻辑，可以看到按键经过一堆处理之后会来到 （/frameworks/base/servi 
+    远程桌面是我们日常生活中经常会用到的情况，特别是最近两年这项功能被运用的场景越来越多。 包括居家远程办公，给同事远程解决问题，办公摸鱼玩游戏等等都会用到。 那么如何选择一个好用的远程软件就成为 
     </details> 
 
-- 🕯 [Go&amp;Java算法之字符串中第一个唯一字符](https://juejin.cn/post/7135094094950301733) | Tue Aug 23 2022 3:29 PM 
+- 🕯 [全面敏捷模式下的微服务方案——设计篇](https://juejin.cn/post/7135243534906916878) | Wed Aug 24 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 字符串中第一个唯一字符 给定一个字符串 s ，找到 它的第一个不重复的字符，并返回它的索引 。如果不存在 
+    本文只涉及到 module-federation 微前端方案的设计层面分享，关于具体实现，可以参考写的简单例子；所有的设计图自取，如果对你有一些启发，欢迎点赞围观~ 
     </details> 
 
-- 🚀 [【定制Android系统】Android O Camera（1）——简单梳理 Camera1 的 setParameters 通路.1](https://juejin.cn/post/7135094068438122503) | Tue Aug 23 2022 3:29 PM 
+- 🚀 [filebeat收集java程序多行报错（八）](https://juejin.cn/post/7135242577552343076) | Wed Aug 24 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 封装出自己的 Camera 参数 get/set 接口 一般应用直接调用 Camera.java 相关的接口，即可实现 Camera 的各种功能 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第24天，点击查看活动详情 filebeat收集java程序多行报错（八） 
     </details> 
 
-- 💪 [Flutter 系列（三），给 NavigationBar 自定义一个横线指示器](https://juejin.cn/post/7135092677611094052) | Tue Aug 23 2022 3:23 PM 
+- 💪 [微信公众号开发（六）微信支付（发红包、企业支付到零钱）需要证书请求示例](https://juejin.cn/post/7135236934636404744) | Wed Aug 24 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-    这个需求应该也很少遇到，我就简单记录下，不展开写了。在使用 Material 3 主题的 NavigationBar 时，想在原有效果上，加一条底部横线，是这样的. 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第29天，点击查看活动详情 微信支付，发现金红包及企业支付到零钱这两个操作请求是需要携带证书的。 证书如何下载，如何配置，我这里就不 
     </details> 
 <!-- juejin:END -->
 ### 少数派
