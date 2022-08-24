@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《小美人鱼》真人版女主杂志封面美图 街头范十足](https://hot.cnbeta.com/articles/movie/1308259.htm) | Wed Aug 24 2022 10:11 AM 
+- 🕯 [中国最北高铁站开工：2万平方米 “林海雪原”为主题](https://www.cnbeta.com/articles/tech/1308273.htm) | Wed Aug 24 2022 10:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日《小美人鱼》真人版女主扮演者哈莉·贝利和姐姐克洛伊·贝利登上了《ESSENCE》杂志封面，真是街头范十足，一起来欣赏下她们的美照吧！之前因为扮演小美人鱼，哈莉·贝利遭到许多网友的谩骂。哈莉认为扮演这个角色，对黑人女孩来说有非凡意义和影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月24日上午，&lt;strong&gt;我国最北端高铁站——伊春西站正式开工&lt;/strong&gt;，首根桩基顺利开钻。&lt;strong&gt;伊春西站是哈尔滨至伊春高铁铁力至伊春段规模最大的车站，也是我国目前在建高速铁路网的最北端。&lt;/strong&gt;是我国目前在建纬度最高、所处地区全年温差最大、首个在高寒地区多年冻土层施工的高铁站房。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《新蝙蝠侠》导演马特·里夫斯与华纳签订多年新约](https://hot.cnbeta.com/articles/movie/1308257.htm) | Wed Aug 24 2022 10:10 AM 
+- 💼 [张朝阳建议大家少睡觉 年轻人真做到：戒不掉报复性熬夜](https://www.cnbeta.com/articles/tech/1308271.htm) | Wed Aug 24 2022 10:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据 DEADLINE 报道，华纳兄弟将对《新蝙蝠侠》导演马特·里夫斯和他的 6th&amp;amp;Idaho 电影制作公司全力投入。自从华纳兄弟影业集团联合主席/首席执行官迈克尔·德卢卡和帕梅拉·阿布迪被华纳兄弟探索部负责人大卫·扎斯拉夫聘用以指导电影部门以来，他已成为第一位获得整体首映电影交易的电影制作人。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日张朝阳在直播中表示，睡觉的前两个小时是深度睡眠，三个小时之后，人的大脑就开始做各种噩梦。“噩梦的过程中人是没有理智来控制的，所以说为什么我们经常睡不好觉，是因为我们在噩梦中度过。”张朝阳指出，睡觉多了对人是一种伤害，建议大家少睡，睡六个小时最好，如果能睡四个小时就很完美。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [工程师玩家打造迷你乐高版计算机 精致小巧可玩游戏](https://www.cnbeta.com/articles/tech/1308255.htm) | Wed Aug 24 2022 10:09 AM 
+- 💂 [鼎桥P50将于8月28日发布 整体配置参考华为但支持5G](https://www.cnbeta.com/articles/tech/1308269.htm) | Wed Aug 24 2022 10:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;动手高玩的世界总是充满奇趣和妙想，近日一位国外图像工程师玩家用经典乐高组件打造了迷你版计算机，精致小巧还可玩玩小游戏。作者是来自新西兰的詹姆斯•布拉冯，平时就喜欢设计打造一些奇趣物品，这回展示了自己的最新作品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年6月曝光的鼎桥P50终于要来了。今日，数码博主“厂长是关同学”透露，&lt;strong&gt;鼎桥P50将在8月28日发布，整体配置参考华为P50，不过前者支持5G，&lt;/strong&gt;至于系统什么的，部分功能也都一样，包括超级终端等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [瑞士SPF团队欲采用铝氧化还原储能电池来应对季节性储能需求](https://www.cnbeta.com/articles/science/1308253.htm) | Wed Aug 24 2022 9:57 AM 
+- 🚀 [TCL华星展示AMOLED透明屏新突破：已产出刚性与柔性双型号](https://www.cnbeta.com/articles/tech/1308267.htm) | Wed Aug 24 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为一种在地球上储量丰富的金属元素，拥有巨大能量密度的铝，也有望成为季节性储能的一个廉价解决方案。&lt;/strong&gt;New Atlas 指出 —— 为应对欧洲冬季可能面临的能源危机，瑞士科学家正考虑灵活利用铝的氧化还原反应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，&lt;strong&gt;TCL华星官微发文，展示了其在透明AMOLED屏幕方面的全新突破。&lt;/strong&gt;据介绍，&lt;strong&gt;TCL目前在顺利产出刚性透明屏幕的同时，也生产出了技术更为复杂，难度更高的柔性透明屏。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Facebook出现混乱：时间轴涌入陌生人随机帖子和名人帖子](https://www.cnbeta.com/articles/tech/1308251.htm) | Wed Aug 24 2022 9:48 AM 
+- 🎊 [43.9度！四川高温再次刷新纪录：热到新房玻璃开裂](https://www.cnbeta.com/articles/tech/1308265.htm) | Wed Aug 24 2022 10:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Facebook于当地时间周三表示，它知道一些用户在他们的Feeds上看到了奇怪的帖子，另外它还保证公司正在努力解决这个问题。&lt;/strong&gt;来自全球各地的众多用户抱怨了在他们的时间轴上看到了来自陌生人的随机帖子和名人页面的活动提示。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月24日下午，四川气象发布消息称，截止当天16时，达州渠县最高气温达到44℃，又双叒叕次打破了四川省国家气象站的最高纪录 （最高气温发生时间：15时02分） 。这也是达州渠县今天之内第二次刷新四川高温纪录，&lt;strong&gt;就在今天14时58分，达州渠县达到43.9℃，打破了四川省国家气象站的最高纪录&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
