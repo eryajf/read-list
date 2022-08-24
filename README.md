@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国最北高铁站开工：2万平方米 “林海雪原”为主题](https://www.cnbeta.com/articles/tech/1308273.htm) | Wed Aug 24 2022 10:50 AM 
+- 🕯 [单价最高9.1亿元 南航公告确认购买96架空客飞机](https://www.cnbeta.com/articles/tech/1308305.htm) | Wed Aug 24 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月24日上午，&lt;strong&gt;我国最北端高铁站——伊春西站正式开工&lt;/strong&gt;，首根桩基顺利开钻。&lt;strong&gt;伊春西站是哈尔滨至伊春高铁铁力至伊春段规模最大的车站，也是我国目前在建高速铁路网的最北端。&lt;/strong&gt;是我国目前在建纬度最高、所处地区全年温差最大、首个在高寒地区多年冻土层施工的高铁站房。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7月初国内三大航空公司——国航、东航、南航分别发布公告称采购空客A320Neo飞机，总价值高达2500亿元，是空客近年来最大的订单。今晚南航再次发布公告，确认了这次的交易，表示公司同意收购空中客车公司96架A320NEO系列飞机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [张朝阳建议大家少睡觉 年轻人真做到：戒不掉报复性熬夜](https://www.cnbeta.com/articles/tech/1308271.htm) | Wed Aug 24 2022 10:49 AM 
+- 💼 [爵士人生来了！华为Mate十年系列主题上线：支持鸿蒙OS 2机型](https://www.cnbeta.com/articles/tech/1308303.htm) | Wed Aug 24 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日张朝阳在直播中表示，睡觉的前两个小时是深度睡眠，三个小时之后，人的大脑就开始做各种噩梦。“噩梦的过程中人是没有理智来控制的，所以说为什么我们经常睡不好觉，是因为我们在噩梦中度过。”张朝阳指出，睡觉多了对人是一种伤害，建议大家少睡，睡六个小时最好，如果能睡四个小时就很完美。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;时隔两年，华为Mate 50系列终于要在9月6日这天发布，巧合的是，今年也是华为Mate系列诞生的十年。为了纪念这一里程碑的时刻，华为日前在主题商店中上线了“Mate十年”系列装扮，与用户一起重温经典。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [鼎桥P50将于8月28日发布 整体配置参考华为但支持5G](https://www.cnbeta.com/articles/tech/1308269.htm) | Wed Aug 24 2022 10:47 AM 
+- 💂 [微信已支持一次发99张图片：不能滑动选取 要一张一张点](https://www.cnbeta.com/articles/tech/1308301.htm) | Wed Aug 24 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年6月曝光的鼎桥P50终于要来了。今日，数码博主“厂长是关同学”透露，&lt;strong&gt;鼎桥P50将在8月28日发布，整体配置参考华为P50，不过前者支持5G，&lt;/strong&gt;至于系统什么的，部分功能也都一样，包括超级终端等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这两天，微信不断的带来了很多新功能，包括新的二维码名片等等。&lt;strong&gt;现在，又一项重磅功能来了，这次是有用的！微信在灰度测试一次发送99张图片，当时只有很少一部分用户能用，但今天下午已经有大量网友反馈自己已经可以用了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [TCL华星展示AMOLED透明屏新突破：已产出刚性与柔性双型号](https://www.cnbeta.com/articles/tech/1308267.htm) | Wed Aug 24 2022 10:46 AM 
+- 🚀 [调查显示：近8成群众反对米勒主演的《闪电侠》发行](https://hot.cnbeta.com/articles/movie/1308299.htm) | Wed Aug 24 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，&lt;strong&gt;TCL华星官微发文，展示了其在透明AMOLED屏幕方面的全新突破。&lt;/strong&gt;据介绍，&lt;strong&gt;TCL目前在顺利产出刚性透明屏幕的同时，也生产出了技术更为复杂，难度更高的柔性透明屏。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;DC超英电影《闪电侠》主演埃兹拉·米勒近期丑闻不断，且在本月早些时间还被指控犯有入室盗窃重罪，这毫无疑问对华纳兄弟公司和这部电影本身都有巨大影响。&lt;/strong&gt;根据近期来自Morning Consult调查问卷显示，近八成参与调查的群众反对埃兹拉·米勒主演的电影发行——42%认为完全取消电影发行；33%认为推迟并更换主演。只有14%的人认为应该按原计划发布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [43.9度！四川高温再次刷新纪录：热到新房玻璃开裂](https://www.cnbeta.com/articles/tech/1308265.htm) | Wed Aug 24 2022 10:25 AM 
+- 🎊 [华为推送HarmonyOS基线版本：不满足基础要求也能升](https://www.cnbeta.com/articles/tech/1308297.htm) | Wed Aug 24 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月24日下午，四川气象发布消息称，截止当天16时，达州渠县最高气温达到44℃，又双叒叕次打破了四川省国家气象站的最高纪录 （最高气温发生时间：15时02分） 。这也是达州渠县今天之内第二次刷新四川高温纪录，&lt;strong&gt;就在今天14时58分，达州渠县达到43.9℃，打破了四川省国家气象站的最高纪录&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年7月，华为正式发布了HarmonyOS 3操作系统，在HarmonyOS 2的基础上带来了大量功能上的升级。但同时，却有一些机型，现在依旧没能升级到HarmonyOS 2，还停留在EMUI时代，&lt;strong&gt;这部分设备的基础版本没有达到HarmonyOS 2的升级基础，导致无法进行升级。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
