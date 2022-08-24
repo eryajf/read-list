@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅析神经网络 Neural Networks](https://juejin.cn/post/7135429542864224293) | Wed Aug 24 2022 1:11 PM 
+- 🤗 [MPAndroidChart绘制原理](https://juejin.cn/post/7135440121695830024) | Wed Aug 24 2022 1:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文及本系列专题着重剖析MPChart的绘制原理及流程，以及部分自定义的属性、自定义图表，绘制过程中的细节点的介绍 
+    </details> 
+
+- 🎡 [朋友，进来刷点 try-catch 看看你能全对吗（答应我，请务必看到最后 🫣）](https://juejin.cn/post/7135435911692550157) | Wed Aug 24 2022 1:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    随着这几年前端的高速发展，前端逻辑的复杂度越来越高，质量要求越来越高，再加上 async、await 的横行，try-catch 在前端的使用率越来越高。然而 try-catch 中可能隐藏着一些不为 
+    </details> 
+
+- 🕯 [Compose里面如何使用地图，比如高德地图](https://juejin.cn/post/7135435381209579556) | Wed Aug 24 2022 1:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    Compose构建高德地图，流畅，代码看着舒服，易用，点赞❤️+关注❤️+收藏❤️，划走可就找不到咯。 
+    </details> 
+
+- 🚀 [浅析神经网络 Neural Networks](https://juejin.cn/post/7135429542864224293) | Wed Aug 24 2022 1:11 PM 
     <details><summary>展开描述 ...</summary> 
     目录 前情概要 该主题分享的目的是:   不局限于前端，拓展知识学习领域，不设边界。   以下仅代表我个人学习总结，如有问题，虚心请教，并及时修正。 另外本次分享不会有大段大段代码，主要是理解为什么这 
     </details> 
 
-- 🎡 [我是一个垃圾](https://juejin.cn/post/7135429002688200740) | Wed Aug 24 2022 1:09 PM 
+- 💪 [我是一个垃圾](https://juejin.cn/post/7135429002688200740) | Wed Aug 24 2022 1:09 PM 
     <details><summary>展开描述 ...</summary> 
     哒哒哒...... 回收者的脚步声越来越清晰，我竭力锁紧身体让自己别那么引人注目，尽管气喘吁吁，但我仍然压抑住自己的呼吸。 终归是藏不住的，但是多活个几毫秒也是好的，我们都这么想。 因为回收者是来杀我 
-    </details> 
-
-- 🕯 [夯实基础，不能忽视的“数据库”](https://juejin.cn/post/7135422350006321166) | Wed Aug 24 2022 12:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第24天，点击查看活动详情 如果我们把数据比作“米”，数据库就是“米仓”。没错，从标准定义来讲，数据库就是按照数据结构来组织，存储和 
-    </details> 
-
-- 🚀 [Swift - LeetCode - 第一个错误的版本](https://juejin.cn/post/7135418979492839461) | Wed Aug 24 2022 12:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第29天，点击查看活动详情  题目 假如你是产品经理，目前正在带领一个团队开发新的产品。不幸的是，你的产品的最新版本没有通过质量检测 
-    </details> 
-
-- 💪 [程序员成长第十八篇：项目上线](https://juejin.cn/post/7135415179919130661) | Wed Aug 24 2022 12:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    项目测试达标后，就需要启动上线了。项目上线过程中有几点需要注意。一、制定上线清单，先上测试环境清单的要素包括：什么人，在什么时间，需要准备什么资料，做什么事。其中，要明确先后顺序 
     </details> 
 <!-- juejin:END -->
 ### 少数派
