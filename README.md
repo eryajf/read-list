@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [韩国刷新世界最低生育率纪录 预计到本世纪末该国人口将减半](https://www.cnbeta.com/articles/tech/1308321.htm) | Wed Aug 24 2022 1:19 PM 
+- 🕯 [iFixit称苹果的DIY维修计划使MacBook反而看起来不那么好修](https://www.cnbeta.com/articles/tech/1308333.htm) | Wed Aug 24 2022 2:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;晚婚晚育已经成为大势所趋，但25至35岁女性的生育率下降，导致韩国生育率整体下滑。受适龄女性生育率下降影响，韩国2021年生育率及新生儿数量均创历史新低。&lt;/strong&gt;韩国统计厅数据显示，2021年韩国总和生育率同比减少3.4%，为0.81，是有相关统计以来的最低值。新生儿数量同比减少4.3%，为26.06万名，同样刷新历史新低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司本周将其自助维修计划扩大到配备M1系列芯片的MacBook Air和MacBook Pro机型，为美国的客户提供选择零件、手册和工具来维修笔记本。虽然该计划的扩大对维修权运动是个好消息，但维修指南网站iFixit对该计划的实施并不完全满意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [因天气预报出错致国庆日烟花秀推迟 匈牙利气象局局长遭解职](https://www.cnbeta.com/articles/tech/1308319.htm) | Wed Aug 24 2022 1:11 PM 
+- 💼 [李小龙女儿起诉真功夫快餐一案将开庭：索赔2.1亿](https://www.cnbeta.com/articles/tech/1308331.htm) | Wed Aug 24 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英国广播公司网站22日报道，匈牙利两位顶尖的气象专家因天气预报出错并引发政治骚动而被解职。据报道，为了庆祝国庆日，匈牙利原本打算在20日晚组织一场“欧洲最大的烟火表演”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据上海市高级人民法院官网，快餐连锁品牌真功夫和李小龙女儿一方的诉讼案件，将于明天（8月25日）上午9时开庭审理，案由为一般人格权纠纷。原告李小龙有限责任公司注册地在美国加利福尼亚州，创始人、法定代表人为李小龙的女儿Shannon Lee，中文名李香凝。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Denuvo将推出针对任天堂Switch游戏机模拟器反盗版软件](https://hot.cnbeta.com/articles/game/1308317.htm) | Wed Aug 24 2022 1:07 PM 
+- 💂 [去年越南市场的iPhone销量增加了一倍多](https://www.cnbeta.com/articles/tech/1308329.htm) | Wed Aug 24 2022 2:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，Irdeto宣布了由其Denuvo部门设计的一个新的任天堂Switch模拟器保护软件。简而言之，它旨在阻止PC上的任天堂Switch模拟器运行新发布的游戏。任天堂游戏机长期以来一直受到盗版问题的困扰，Switch也不例外。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年第二季度，越南苹果公司的iPhone出货量明显增加，原因是消费者对高端手机的情绪转变，以及苹果零售渠道的扩张。经济型智能手机的出货量基本持平，同比下降1%至320万部。然而，被归类为400美元以上的高端智能手机，同比增长75%。为游戏设计的智能手机也出现了高增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果iPhone已在中国手机市场占主导地位 三星跌出第二位](https://www.cnbeta.com/articles/tech/1308315.htm) | Wed Aug 24 2022 1:00 PM 
+- 🚀 [不再担心余额不足 数字人民币App上新“随用随充”功能](https://www.cnbeta.com/articles/tech/1308327.htm) | Wed Aug 24 2022 2:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年第二季度的新销售数据显示，苹果的iPhone仍然是中国最畅销的智能手机，而本地竞争对手vivo已经超过三星，位居第二。iPhone一直是中国最受欢迎的智能手机，6.18节期间售出的所有智能手机中有一半是苹果的。现在Counterpoint Research称，苹果一直保持着这种强大的领先优势，但本地对手正在使前十名的厂商名单发生变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不再担心“数字钱包”余额不足！数字人民币App上新“随用随充”功能。8月23日，数字人民币（试点版）App上新“随用随充”功能，即银行卡账户资金与数字人民币钱包之间的自动充钱功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [概念设计：巨大的圆形建筑环抱着世界最高的摩天大楼](https://www.cnbeta.com/articles/tech/1308313.htm) | Wed Aug 24 2022 12:58 PM 
+- 🎊 [互联网健身平台Peloton宣布在亚马逊上销售健身器材和服装](https://www.cnbeta.com/articles/tech/1308325.htm) | Wed Aug 24 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;迪拜并不缺乏引人注目的建筑，但如果实现的话，ZNera Space的概念性项目即使在那里也一定会引起人们的注意。&lt;strong&gt;该公司设想在世界最高建筑哈里发塔周围建造一个巨大的圆形混合用途建筑，名为&amp;quot;市中心环&amp;quot;（Downtown Circle），它的构想是在550米（约1800英尺）的高度上创造一个新的空中社区。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国互联网健身平台、运动器材制造商Peloton今日宣布，已与亚马逊建立合作伙伴关系，在亚马逊上销售其健身器材和服装。Peloton此举旨在拓宽其用户群，销售出更多产品，并赢回投资者的信心。与疫情期间的高增长相比，Peloton近期的营收涨幅大幅放缓，并导致股价暴跌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
