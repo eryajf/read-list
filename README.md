@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [为什么女性对抑郁症治疗的反应与男性不同？](https://www.cnbeta.com/articles/science/1308009.htm) | Wed Aug 24 2022 1:55 AM 
+- 🕯 [Google TAG发现一款工具 可下载Gmail等平台的完整收件箱内容](https://www.cnbeta.com/articles/tech/1308101.htm) | Wed Aug 24 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;研究人员已经确定了一种可能的解释，即为什么女性对抑郁症治疗的反应可能与男性不一样。&lt;/strong&gt;尽管有治疗抑郁症的方法，但许多人发现这些治疗方法有时是无益的。此外，女性的抑郁症发病率比男性高，但这种差异的原因尚不清楚，这使得她们的疾病有时在治疗上更加复杂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Google 威胁分析小组（TAG）设法获得了一款工具，可用于下载 Gmail、Microsoft Outlook、Yahoo 等主流电子邮件平台的完整收件箱&lt;/strong&gt;内容。该工具叫做 HYPERSCAPE，已经有证据表明用于对未知目标发起攻击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [天文摄影师带来壮观月球细节照](https://www.cnbeta.com/articles/science/1308007.htm) | Wed Aug 24 2022 1:53 AM 
+- 💼 [PS5 DualSense Edge手柄亮相：丰富个性化选项 可换摇杆等配件](https://hot.cnbeta.com/articles/game/1308099.htm) | Wed Aug 24 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天文摄影师Andrew McCarthy（Instagram名@cosmic_background）继续在为人们带来一些壮观的恒星天体照。现在，这双眼睛又一次得到了回报，其可能拍摄了人们所见过的最详细的月球照片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近几周，有传闻称索尼正在秘密打造对标微软 Xbox Elite 的新款无线手柄。&lt;strong&gt;好消息是，索尼终于在 Gamscom 开幕当晚的直播活动期间，官宣了 PS5 DualSense Edge 的存在。&lt;/strong&gt;在一众新特性中，最让玩家们感到欣喜的，莫过于能够拆卸更换摇杆、后拨片、以及保存多个手柄配置文件的能力。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Luminovo致力通过新一轮融资推动并减少电子制造过程中的浪费](https://www.cnbeta.com/articles/tech/1308005.htm) | Wed Aug 24 2022 1:45 AM 
+- 💂 [《蝙蝠女》素材被华纳清空 导演称什么都没留下](https://hot.cnbeta.com/articles/movie/1308097.htm) | Wed Aug 24 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;总部位于慕尼黑的电子制造商 Luminovo 刚刚提出了一套 SaaS 解决方案，旨在更好地整合完整生产材料和成本核算流程。&lt;/strong&gt;据悉，尽管电子行业的市场规模高达 5 万亿，但从业者也长期深陷泥潭。好消息是，借助自动化工具来替换流程中的人工部分，它将能够使研发制造人员更专注于其擅长的事务，而不是运行一套容易出错、且无休止的电子文档。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据外媒报道，本月初华纳兄弟决定取消电影《蝙蝠女》的所有上映计划。传言这部电影已经完成了90%，并将于今年晚些时候上线HBO Max平台。近日电影导演和制作人比拉勒·法拉赫想要试图从HBO Max的服务器中“挽救”一些拍摄素材，但是发现，影片的素材已经在服务器上清空了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究称酒精对男性和女性大脑活动的改变可能是不同的](https://www.cnbeta.com/articles/science/1308003.htm) | Wed Aug 24 2022 1:44 AM 
+- 🚀 [迪士尼+计划打造全新《金刚》影视系列 温子仁担任总监制](https://hot.cnbeta.com/articles/movie/1308095.htm) | Wed Aug 24 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据最近发表在《&lt;a href=&quot;https://www.eneuro.org/content/9/4/ENEURO.0010-22.2022&quot; target=&quot;_self&quot;&gt;eNeuro&lt;/a&gt;》杂志上的一项研究，&lt;strong&gt;酒精改变了小鼠杏仁核的同步大脑活动，但雄性和雌性小鼠的情况不同。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前据外媒报道，&lt;strong&gt;迪士尼透露了全新《金刚》影视系列制作计划，预定在旗下迪士尼+流媒体平台发布，目前已经确定了邀请著名导演温子仁担任总监制，&lt;/strong&gt;敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《龙之家族》主创谈铁王座为何看起来跟《权游》里的不一样](https://hot.cnbeta.com/articles/movie/1308001.htm) | Wed Aug 24 2022 1:36 AM 
+- 🎊 [NASA Artemis I月球火箭发射直播观看攻略](https://www.cnbeta.com/articles/science/1308093.htm) | Wed Aug 24 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;从巨大的龙到掌权的白发家族，周日的《龙之家族》首映呈现了一个不同于观众可能记得的《权力的游戏》中的君临城的版本。在这座城市的新鲜元素中，铁王座是《权力的游戏》中的一个主要元素，现在看起来更宏伟，对占领者来说更危险。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在结束阿波罗任务的50年后，NASA准备重返月球。当地时间周一，该机构雄心勃勃、昂贵但令人振奋的Artemis计划将开始实施。最后，Artemis I可能会前往月球。明确地说，这次升空不会有宇航员上船 -- 但它的成功会对接下来的太空任务产生巨大影响，包括在不久的将来某个时候让人登陆月球的前景。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
