@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [vscode 里面怎么才能像 idea 里面一样方便地全局搜索某个函数/文件然后立马跳转到对应位置](https://www.v2ex.com/t/875193#reply1) | Wed Aug 24 2022 3:49 PM
-- 🤗 [有兄弟买过 tb 上的 copilot 账号吗？ 靠谱吗](https://www.v2ex.com/t/875192#reply5) | Wed Aug 24 2022 3:44 PM
-- 🎭 [记一次 PostgreSQL 事故处理](https://www.v2ex.com/t/875189#reply3) | Wed Aug 24 2022 3:10 PM
-- 🥷 [PowerShell 配错参数求救](https://www.v2ex.com/t/875182#reply2) | Wed Aug 24 2022 2:21 PM
-- 🐵 [解决 hugo 博客累计布局偏移&lpar;CLS&rpar;问题的一种思路](https://www.v2ex.com/t/875180#reply1) | Wed Aug 24 2022 1:48 PM<!-- v2ex:END -->
+- 🥸 [最近在 b 站做视频，大家可以支持一下吗？](https://www.v2ex.com/t/875199#reply0) | Wed Aug 24 2022 4:36 PM
+- 🤗 [vscode 里面怎么才能像 idea 里面一样方便地全局搜索某个函数/文件然后立马跳转到对应位置](https://www.v2ex.com/t/875193#reply3) | Wed Aug 24 2022 3:49 PM
+- 🎭 [有兄弟买过 tb 上的 copilot 账号吗？ 靠谱吗](https://www.v2ex.com/t/875192#reply6) | Wed Aug 24 2022 3:44 PM
+- 🥷 [记一次 PostgreSQL 事故处理](https://www.v2ex.com/t/875189#reply4) | Wed Aug 24 2022 3:10 PM
+- 🐵 [PowerShell 配错参数求救](https://www.v2ex.com/t/875182#reply2) | Wed Aug 24 2022 2:21 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
