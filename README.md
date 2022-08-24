@@ -365,10 +365,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [历时 2 月，动态线程池框架 DynamicTp 发布里程碑版本 V1.0.8！](https://www.v2ex.com/t/875050#reply1) | Wed Aug 24 2022 6:22 AM
-- 🤗 [程序调用 kernel32.dll 来判断 Windows 版本，有哪些方法可以绕过？](https://www.v2ex.com/t/875026#reply16) | Wed Aug 24 2022 4:07 AM
-- 🎭 [求 Golang 官方包使用及源码解读相关的一些学习资料](https://www.v2ex.com/t/875016#reply6) | Wed Aug 24 2022 3:31 AM
-- 🥷 [zenfone9 上手](https://www.v2ex.com/t/875010#reply6) | Wed Aug 24 2022 3:08 AM
-- 🐵 [想买个主动降噪耳机，但是没得选](https://www.v2ex.com/t/875009#reply31) | Wed Aug 24 2022 3:08 AM<!-- v2ex:END -->
+- 🤗 [程序调用 kernel32.dll 来判断 Windows 版本，有哪些方法可以绕过？](https://www.v2ex.com/t/875026#reply18) | Wed Aug 24 2022 4:07 AM
+- 🎭 [求 Golang 官方包使用及源码解读相关的一些学习资料](https://www.v2ex.com/t/875016#reply8) | Wed Aug 24 2022 3:31 AM
+- 🥷 [zenfone9 上手](https://www.v2ex.com/t/875010#reply9) | Wed Aug 24 2022 3:08 AM
+- 🐵 [想买个主动降噪耳机，但是没得选](https://www.v2ex.com/t/875009#reply40) | Wed Aug 24 2022 3:08 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
