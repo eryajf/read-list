@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Maven 没有 weblogic 依赖吗？](https://www.v2ex.com/t/875125#reply0) | Wed Aug 24 2022 10:13 AM
-- 🤗 [请教怎么能找到 Java 的 native 原生实现代码？](https://www.v2ex.com/t/875114#reply3) | Wed Aug 24 2022 9:31 AM
-- 🎭 [Linux 内核的 x86 启动代码中的 trampoline 是什么意思？](https://www.v2ex.com/t/875110#reply1) | Wed Aug 24 2022 9:15 AM
-- 🥷 [挂了代理， clone 速度很快，但是 ping 不通](https://www.v2ex.com/t/875109#reply13) | Wed Aug 24 2022 9:13 AM
-- 🐵 [请教如何为 shell 脚本传入长参数？](https://www.v2ex.com/t/875104#reply0) | Wed Aug 24 2022 8:58 AM<!-- v2ex:END -->
+- 🥸 [经过几番折腾， GitHub 终于把我学生资格转回来了](https://www.v2ex.com/t/875138#reply0) | Wed Aug 24 2022 11:04 AM
+- 🤗 [在 virtualbox 中如何使两台电脑间用同一份 windows 虚拟机?](https://www.v2ex.com/t/875130#reply1) | Wed Aug 24 2022 10:31 AM
+- 🎭 [怎么区分自己写的软件是否是公司财产](https://www.v2ex.com/t/875128#reply7) | Wed Aug 24 2022 10:27 AM
+- 🥷 [Maven 没有 weblogic 依赖吗？](https://www.v2ex.com/t/875125#reply1) | Wed Aug 24 2022 10:13 AM
+- 🐵 [请教怎么能找到 Java 的 native 原生实现代码？](https://www.v2ex.com/t/875114#reply6) | Wed Aug 24 2022 9:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
