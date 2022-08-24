@@ -741,27 +741,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [索尼发布新一代 8K 旗舰数字电影摄影机 CineAltaV 2 Ver.1.10 新固件](https://www.photoworld.com.cn/post/163125) | Tue Aug 23 2022 8:32 AM 
+- 🤠 [“我和天安门的故事” 主题征集活动](https://www.photoworld.com.cn/post/163168) | Wed Aug 24 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [三星 Galaxy 折叠屏系列及生态新品国内发布](https://www.photoworld.com.cn/post/163092) | Tue Aug 23 2022 12:51 AM 
+- 🎃 [索尼发布新一代 8K 旗舰数字电影摄影机 CineAltaV 2 Ver.1.10 新固件](https://www.photoworld.com.cn/post/163125) | Tue Aug 23 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [处暑 | 快乐康养尽悠闲，暑去秋来皆圆满](https://www.photoworld.com.cn/post/163083) | Mon Aug 22 2022 11:00 PM 
+- 👀 [三星 Galaxy 折叠屏系列及生态新品国内发布](https://www.photoworld.com.cn/post/163092) | Tue Aug 23 2022 12:51 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [获奖公布 | 第四届中国浙江（宋韵文化）国际摄影大赛评选揭晓](https://www.photoworld.com.cn/post/163019) | Mon Aug 22 2022 9:03 AM 
+- 🤔 [处暑 | 快乐康养尽悠闲，暑去秋来皆圆满](https://www.photoworld.com.cn/post/163083) | Mon Aug 22 2022 11:00 PM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [富士玛格南冯立合作展及何伊宁策展项目亮相北京 798](https://www.photoworld.com.cn/post/163009) | Mon Aug 22 2022 5:15 AM 
+- 👀 [获奖公布 | 第四届中国浙江（宋韵文化）国际摄影大赛评选揭晓](https://www.photoworld.com.cn/post/163019) | Mon Aug 22 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
