@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [印度拟建两座核电站 莫迪计划10年内核电站数量增加两倍](https://www.cnbeta.com/articles/tech/1308133.htm) | Wed Aug 24 2022 6:24 AM 
+- 🕯 [声学杂志研究辟谣：土星五号火箭有够响 但发射时没能融化混凝土](https://www.cnbeta.com/articles/science/1308167.htm) | Wed Aug 24 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;印度最大电力生产商在首次官宣建核电站的几周后，正寻求开发另一个大型核项目，这表明印度总理莫迪向核能领域扩张的势头正在增强。媒体周三援引知情人士的消息称，印度国家电力集团（NTPC）和印度核能公司（Nuclear Power Corp． of India Ltd）的一家合资企业，正与印度政府进行深入谈判，计划在中央邦（Madhya）新建两座700兆瓦的反应堆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在 2022 年 8 月 23 日发表于《美国声学学会杂志》上的一篇文章中，一支研究团队严肃驳斥了与“土星五号火箭”有关的网络传闻。&lt;/strong&gt;杨百翰大学合著者 Kent L. Gee 在一份声明中称，Saturn-V 并没有如传闻中那么大的威力，所谓“将混凝土都融化了”的讲述都不现实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [传慧聪网即日起停止运营，16年前曾被张向东评论不看好其未来](https://www.cnbeta.com/articles/tech/1308131.htm) | Wed Aug 24 2022 6:21 AM 
+- 💼 [道格推出S89坚固型手机：12000mAh电池+65W快充+RGB灯效](https://www.cnbeta.com/articles/tech/1308165.htm) | Wed Aug 24 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月24日，有消息称慧聪网即日起停止运营。CTO宣布全员回家待岗，薪资已经欠了三个月，社保没交，后续如何没有任何确认消息。&lt;/strong&gt;截至发稿，慧聪网官方没有相关公告。不过财视传媒登录慧聪网网站发现，在点进去首页中的产品品类之后，页面显示“该网页无法正常运作”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;道格（Doogee）近日推出了全新的 S89 系列，并已经在 &lt;a href=&quot;https://www.aliexpress.com/item/3256804339920793.html&quot; target=&quot;_blank&quot;&gt;AliExpress&lt;/a&gt; 和 Doogeemall 商城开售。这款坚固型手机配备了 12000mAh 容量电池，搭配了 65W 的快充适配器。在常规使用状态下，这款手机的续航可以达到 3 天时间。公司表示在完整充电后持续游戏时间可以达到 16 个小时，持续视频播放时间可以达到 18 个小时。充满电只需要 2 个小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉将于9月30日在加州帕罗奥图举办2022 AI DAY](https://www.cnbeta.com/articles/tech/1308129.htm) | Wed Aug 24 2022 6:20 AM 
+- 💂 [世界上最深的固桩式海上风电场Seagreen首次发电](https://www.cnbeta.com/articles/tech/1308163.htm) | Wed Aug 24 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据特斯拉官方微博8月24日发布消息，特斯拉将于北美时间9月30日在加州帕罗奥图举行2022 AI DAY。据上游新闻报道，今年1月份，马斯克在财报电话会上表示，开发擎天柱是特斯拉今年最重要的工作，未来它将比特斯拉的汽车业务更重要、更值钱。4月份，马斯克重申了对机器人业务的重视，并且透露最早在2023年就要开始生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Electrek报道，&lt;strong&gt;距离苏格兰东部安格斯海岸16.7英里（27公里）的Seagreen海上风电场，已经产生了第一批电力。&lt;/strong&gt;这个30亿英镑的项目将是苏格兰最大的海上风电场。它也将是世界上最深的固桩式海上风电场，因为它的选址在水深达194英尺（59米）的地方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [网红轻食，我yue了](https://www.cnbeta.com/articles/tech/1308127.htm) | Wed Aug 24 2022 6:19 AM 
+- 🚀 [[图]三星发布Galaxy A04：6.5吋屏幕+5000万像素主摄](https://www.cnbeta.com/articles/tech/1308161.htm) | Wed Aug 24 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;轻食餐，中看不中吃，懂的都懂。夏天正是都市人瘦身高峰期，轻食、健身餐这类概念早已见怪不怪地在都市流行。在朋友圈，总有一些都市上班族会晒出自己的轻食餐，颜值又高，看起来又健康，但底下配的文案总有淡淡的忧伤——&lt;span style=&quot;&quot;&gt;“今天又吃草了&lt;/span&gt;”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星于去年 11 月宣布推出了 Galaxy A03，时隔 9 个月该公司悄然推出了该机的继任者--Galaxy A04。该机在外观上和前代基本相同，采用了 Infinity-V 屏幕，机身背面拥有 2 个摄像头，不过 LED 闪光灯并未放在两个摄像头的中间，而是放置在右侧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [淘宝上线订单号码保护功能 订单不会再显示收货人真实号码](https://www.cnbeta.com/articles/tech/1308125.htm) | Wed Aug 24 2022 6:18 AM 
+- 🎊 [天文学家拍摄到已知最大质量恒星的最清晰图像 揭示其真实大小](https://www.cnbeta.com/articles/science/1308157.htm) | Wed Aug 24 2022 6:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月24日下午消息，手机淘宝正式上线订单号码保护功能。用户开通虚拟号码保护功能后，订单全流程不会再出现收货人的真实手机号码，而是以自动生成的虚拟号码代替。此举可最大程度保护用户隐私信息安全，同时避免不必要的电话短信打扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，&lt;strong&gt;天文学家拍摄到了已知宇宙中质量最大的恒星的最清晰的图像。有了这些新的图像，科学家们就能够确定这颗恒星到底有多&lt;/strong&gt;大，并在这个过程中修正我们对恒星有可能变得多大的想法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
