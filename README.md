@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Focus浏览器 - 支持油猴脚本、视频投屏和看小说的浏览器](https://xinquji.com/posts/178934?utm_campaign=xinquji-rss) | Wed Aug 24 2022 9:46 AM 
+- 👀 [Neeva Search for Android - 获得诚实的结果，不受公司偏见和跟踪器的影响](https://xinquji.com/posts/178993?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     支持油猴脚本、视频投屏和看小说的浏览器  
+     获得诚实的结果，不受公司偏见和跟踪器的影响  
     </details> 
 
-- 🥷 [Colonist.io - 在线玩竞争激烈的卡坦岛定居者](https://xinquji.com/posts/178970?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:42 AM 
+- 🥷 [Weekrise - 为您的任务提供整洁的每周日历](https://xinquji.com/posts/178992?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     在线玩竞争激烈的卡坦岛定居者  
+     为您的任务提供整洁的每周日历  
     </details> 
 
-- 💼 [3D Resources - 3D 很难，但有合适的资源也不是不可能](https://xinquji.com/posts/178969?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:40 AM 
+- 💼 [Tether - 免费的最终用户反馈小部件](https://xinquji.com/posts/178991?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     3D 很难，但有合适的资源也不是不可能  
+     免费的最终用户反馈小部件  
     </details> 
 
-- 🦅 [eMiner 6.0 - 在社交网络和 G-Maps 上每分钟获得多达 1000 个潜在客户](https://xinquji.com/posts/178968?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:39 AM 
+- 🦅 [TweetMarks - 轻松管理您的 Twitter 书签](https://xinquji.com/posts/178990?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     在社交网络和 G-Maps 上每分钟获得多达 1000 个潜在客户  
+     轻松管理您的 Twitter 书签  
     </details> 
 
-- 😺 [Ramp Flex - 有史以来最灵活的向供应商付款的方式](https://xinquji.com/posts/178967?utm_campaign=xinquji-rss) | Wed Aug 24 2022 6:38 AM 
+- 😺 [Happy Ring - 第一款适合您的可穿戴设备。](https://xinquji.com/posts/178989?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     有史以来最灵活的向供应商付款的方式  
+     第一款适合您的可穿戴设备。  
     </details> 
 <!-- xinquji:END -->
