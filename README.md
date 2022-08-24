@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端好书推荐--Vue.js 3应用开发与核心源码解析](https://juejin.cn/post/7135278969758318605) | Wed Aug 24 2022 3:26 AM 
+- 🤗 [1 分钟在 Serverless 上部署现代化 Deno Web 应用](https://juejin.cn/post/7135287521402945566) | Wed Aug 24 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
-    酝酿已久的新书终于出版啦，这本书综合了笔者多年来的项目开发经验和对Vue.js 3的框架理解，最终沉淀而成，希望可以对读者提供帮助。 
+    利用 Serverless 的水平扩展与按量付费优势, 结合自定义运行时, 实现 Web 应用的快速迁移。而 Deno 运行时是新一代的 JS 运行时, 使用阿里云 Serverless + Deno 
     </details> 
 
-- 🎡 [1460. 通过翻转子数组使两个数组相等 : 简单计数模拟题](https://juejin.cn/post/7135265435993243678) | Wed Aug 24 2022 2:34 AM 
+- 🎡 [Kruise Rollout v0.2.0 版本发布：支持 Gateway API、StatefulSet 分批发布等能力](https://juejin.cn/post/7135284918845702157) | Wed Aug 24 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第29天，点击查看活动详情 题目描述 这是 LeetCode 上的 1460. 通过翻转子数组使两个数组相等 ，难度为 简单。 Ta 
+    Kruise Rollout 作为一种旁路式的渐进式交付框架，能够非常方便的与社区内优秀的应用交付平台集成。用户基本上不需要做额外的改动，只需要一份 Kruise Rollout CRD 定义即可。 
     </details> 
 
-- 🕯 [现场拆题+直通面试 | 美团技术校招直播来了！](https://juejin.cn/post/7135263370944446495) | Wed Aug 24 2022 2:26 AM 
+- 🕯 [C#或Winform中的消息通知之自定义优雅漂亮的通知效果](https://juejin.cn/post/7135284656752033828) | Wed Aug 24 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-    美团技术团队有8大「通道」，大家是否偶尔疑惑，各个通道有着怎样不同的职场发展和个人成长路线？想要向学弟学妹安利美团技术团队，又该如何介绍它们之间的区别呢？8小时超长直播，将为大家解疑答惑。 
+    Custom Notification自定义通知提示，一款非常优雅漂亮的自定义通知效果，主要介绍其实现思路、调整和优化... 
     </details> 
 
-- 🚀 [【Git】 什么！？都快2023年了还搞不清楚 git rebase 与 git merge！？😮](https://juejin.cn/post/7135261815935598600) | Wed Aug 24 2022 2:20 AM 
+- 🚀 [千万用户3毫秒内抽奖100名如何实现？支付宝精细化调度的技术演进、手写简单vue3响应式原理 | 酱酱的下午茶第57期](https://juejin.cn/post/7135284486614286343) | Wed Aug 24 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-    读完本篇文章，你将获得以下收获：1. 了解git rebase 与 git merge的用法；2. 了解git rebase 与 git merge的区别；3.了解git rebase 与 git.. 
+    千万用户3毫秒内抽奖100名如何实现？ 给蚂蚁金服antv提个PR, 以为是改个错别字, 未曾想背后的原因竟如此复杂! 手写简单vue3响应式原理 MySQL的RR级别解决幻读问题了吗 ScrollP 
     </details> 
 
-- 💪 [历时2月，动态线程池 DynamicTp 发布里程碑版本 V1.0.8](https://juejin.cn/post/7135259085880393765) | Wed Aug 24 2022 2:09 AM 
+- 💪 [KusionStack 在蚂蚁集团的探索实践 &lpar;上&rpar;](https://juejin.cn/post/7135284593241882661) | Wed Aug 24 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-    关于 DynamicTp DynamicTp 是一个基于配置中心实现的轻量级动态线程池管理工具，主要功能可以总结为动态调参、通知报警、运行监控、三方包线程池管理等几大类。 经过多个版本迭代，目前最新版 
+    听说有同学想知道KusionStack在蚂蚁集团是如何实践的？快来看蚂蚁集团多云配置管理系统技术负责人怎么说 
     </details> 
 <!-- juejin:END -->
 ### 少数派
