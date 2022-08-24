@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [解决 hugo 博客累计布局偏移&lpar;CLS&rpar;问题的一种思路](https://www.v2ex.com/t/875180#reply0) | Wed Aug 24 2022 1:48 PM
-- 🤗 [请教下有没人知道 go 语言把国外的域名解析成 IP](https://www.v2ex.com/t/875167#reply5) | Wed Aug 24 2022 1:19 PM
-- 🎭 [写了个支持链式代理的隧道工具](https://www.v2ex.com/t/875158#reply0) | Wed Aug 24 2022 12:37 PM
-- 🥷 [Chrome 控制台这里是 bug 吗](https://www.v2ex.com/t/875152#reply1) | Wed Aug 24 2022 11:51 AM
-- 🐵 [版本特性 | Cloudpods v3.9 重点功能介绍](https://www.v2ex.com/t/875146#reply0) | Wed Aug 24 2022 11:32 AM<!-- v2ex:END -->
+- 🥸 [记一次 PostgreSQL 事故处理](https://www.v2ex.com/t/875189#reply0) | Wed Aug 24 2022 3:10 PM
+- 🤗 [PowerShell 配错参数求救](https://www.v2ex.com/t/875182#reply1) | Wed Aug 24 2022 2:21 PM
+- 🎭 [解决 hugo 博客累计布局偏移&lpar;CLS&rpar;问题的一种思路](https://www.v2ex.com/t/875180#reply1) | Wed Aug 24 2022 1:48 PM
+- 🥷 [请教下有没人知道 go 语言把国外的域名解析成 IP](https://www.v2ex.com/t/875167#reply10) | Wed Aug 24 2022 1:19 PM
+- 🐵 [写了个支持链式代理的隧道工具](https://www.v2ex.com/t/875158#reply0) | Wed Aug 24 2022 12:37 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
