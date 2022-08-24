@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [美国 两个热爱生物学的高中生识别出两个新物种](http://jandan.net/p/111183) | Tue Aug 23 2022 12:00 PM 
+- 🚀 [今日好价 0824](http://jandan.net/p/111208) | Wed Aug 24 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-    除了性体验，提早接触科学，也对青少年的成长有益哦 
+    ZSBD 
     </details> 
 
-- 🙉 [青少年时期的禁欲教育从长远来看可能对年轻人的性健康有害](http://jandan.net/p/111142) | Tue Aug 23 2022 11:58 AM 
+- 🙉 [美国 两个热爱生物学的高中生识别出两个新物种](http://jandan.net/p/111183) | Tue Aug 23 2022 12:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    除了性体验，提早走进科学，也对青少年的成长有益哦 
+    </details> 
+
+- 🎉 [青少年时期的禁欲教育从长远来看可能对年轻人的性健康有害](http://jandan.net/p/111142) | Tue Aug 23 2022 11:58 AM 
     <details><summary>展开描述 ...</summary> 
     除实质性交之外还包括其他重要的第一次——第一次接触、第一次刺激和第一次高潮，太晚体验或会导致功能障碍 
     </details> 
 
-- 🎉 [英国一餐厅不再接待纯素食者](http://jandan.net/p/111204) | Tue Aug 23 2022 7:35 AM 
+- 🐲 [英国一餐厅不再接待纯素食者](http://jandan.net/p/111204) | Tue Aug 23 2022 7:35 AM 
     <details><summary>展开描述 ...</summary> 
     老板已经受够了纯素者的态度 
     </details> 
 
-- 🐲 [喝雨水安全吗？](http://jandan.net/p/111203) | Tue Aug 23 2022 6:30 AM 
+-  [喝雨水安全吗？](http://jandan.net/p/111203) | Tue Aug 23 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     目前全世界各地的雨水中的PFAS浓度都超标 
-    </details> 
-
--  [巴厘岛猴子生活太安逸 石器时代的加点都歪了：没发明石斧，就先搞情趣用品](http://jandan.net/p/111179) | Tue Aug 23 2022 4:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    在巴厘岛的圣猴森林里，食物随处可见，居民手淫猖獗。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
