@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Tinder创始人的最新作品：量化心理健康的智能戒指](https://www.cnbeta.com/articles/tech/1308369.htm) | Wed Aug 24 2022 5:49 PM 
+- 🕯 [测试信用卡取现 支付宝、微信助贷之外的算盘](https://www.cnbeta.com/articles/tech/1308371.htm) | Wed Aug 24 2022 7:06 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;信用卡取现有了更多渠道。8月24日，支付宝“借呗”板块新增信用卡取现入口一事引发热议。通过支付宝与银行的合作，用户可以直接在支付宝页面进行名下信用卡的取现操作。除了支付宝外，微信也面向用户展示了部分银行的取现入口，在信用卡还款操作页面，即可查看并进行取现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Tinder创始人的最新作品：量化心理健康的智能戒指](https://www.cnbeta.com/articles/tech/1308369.htm) | Wed Aug 24 2022 5:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Tinder创始人Sean Rad旗下的Happy Health公司推出名为Happy Ring的智能戒指&lt;/strong&gt;，这家公司成立于2019年底，目前有40名员工，其中13名员工位于该创业公司总部所在地奥斯汀。该公司还刚刚宣布了6000万美元的A轮融资，由ARCH Venture Partners领投。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《最后的生还者：重制版》中字预告 为次世代而生](https://hot.cnbeta.com/articles/game/1308367.htm) | Wed Aug 24 2022 5:49 PM 
+- 💂 [《最后的生还者：重制版》中字预告 为次世代而生](https://hot.cnbeta.com/articles/game/1308367.htm) | Wed Aug 24 2022 5:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《最后的生还者：重制版》公开了全新的实机预告，展示了游戏的战斗以及剧情元素，画质提升较为明显，一起欣赏一下。《最后的生还者：重制版》将于9月2日登陆PS5，PC版稍微推出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Fitbit发布新款Sense和Versa智能手表](https://www.cnbeta.com/articles/tech/1308365.htm) | Wed Aug 24 2022 5:29 PM 
+- 🚀 [Fitbit发布新款Sense和Versa智能手表](https://www.cnbeta.com/articles/tech/1308365.htm) | Wed Aug 24 2022 5:29 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;&amp;nbsp;Alphabet旗下的Fitbit公司发布了三款可穿戴设备，包括两款新的智能手表。其中顶级产品是Versa 4和Sense 2。&lt;/strong&gt;价格较高的Sense系列在2020年末首次亮相，建立在流行的Sense设备基础上，为该设备带来了更多的传感器和心智重点。通过尝试解决压力和心理健康问题来超越标准的健身和睡眠感应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Intel发布全新GPU Flex：转码性能5倍于NVIDIA 功耗仅一半](https://www.cnbeta.com/articles/tech/1308363.htm) | Wed Aug 24 2022 5:28 PM 
+- 🎊 [Intel发布全新GPU Flex：转码性能5倍于NVIDIA 功耗仅一半](https://www.cnbeta.com/articles/tech/1308363.htm) | Wed Aug 24 2022 5:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Intel独立GPU虽然是后起之秀，但正无处不在！&lt;strong&gt;今天，Intel正式发布了全新的数据中心GPU Flex系列&lpar;曾用代号Arctic Sound-M&rpar;，主要用于视频转码与传输、视觉AI推理、云游戏、桌面虚拟化等领域。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [谷歌Gmail在法国面临垃圾广告的隐私投诉](https://www.cnbeta.com/articles/tech/1308361.htm) | Wed Aug 24 2022 5:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;谷歌在欧洲面临新的隐私投诉，因为它在Gmail电子邮件服务中以电子邮件的名义插入了广告。&lt;/strong&gt;隐私保护组织noyb向法国数据保护监督机构CNIL提出投诉，称这家广告技术巨头违反了欧盟关于直接营销的ePrivacy Directive规则，没有获得Gmail用户的同意，在他们的收件箱中显示广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
