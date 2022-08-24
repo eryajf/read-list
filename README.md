@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [测试信用卡取现 支付宝、微信助贷之外的算盘](https://www.cnbeta.com/articles/tech/1308371.htm) | Wed Aug 24 2022 7:06 PM 
+- 🕯 [拥抱理想的任正非，可以比谁都现实](https://www.cnbeta.com/articles/tech/1308375.htm) | Wed Aug 24 2022 7:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月23日，据第一财经报道，任正非于22日在内部论坛上签发了一篇关于《整个公司的经营方针要从追求规模转向追求利润和现金流》的文章。简明扼要的标题道出了华为眼下最需要关注的重点：盈利能力。前不久华为公布的经营业绩显示，今年上半年，华为实现销售收入3016亿元，净利润率5.0%，差不多是去年同期的一半。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [长江全流域遭遇61年最严重干旱 吉林一号卫星拍下惊人对比图像](https://www.cnbeta.com/articles/tech/1308373.htm) | Wed Aug 24 2022 7:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据国家水利部近日给出的数据，&lt;strong&gt;7月以来，长江流域降雨量较常年同期偏少四成半，为1961年以来历史同期最少，正在遭遇61年以来最严重的气象干旱，出现罕见的“主汛期反枯”。&lt;/strong&gt;同时，长江干支流来水量较常年同期偏少二至八成，上中游来水量为1949年以来同期最少，长江三峡、汉江丹江口重点水库来水分别偏少四成多、近七成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [测试信用卡取现 支付宝、微信助贷之外的算盘](https://www.cnbeta.com/articles/tech/1308371.htm) | Wed Aug 24 2022 7:06 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;信用卡取现有了更多渠道。8月24日，支付宝“借呗”板块新增信用卡取现入口一事引发热议。通过支付宝与银行的合作，用户可以直接在支付宝页面进行名下信用卡的取现操作。除了支付宝外，微信也面向用户展示了部分银行的取现入口，在信用卡还款操作页面，即可查看并进行取现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Tinder创始人的最新作品：量化心理健康的智能戒指](https://www.cnbeta.com/articles/tech/1308369.htm) | Wed Aug 24 2022 5:49 PM 
+- 🚀 [Tinder创始人的最新作品：量化心理健康的智能戒指](https://www.cnbeta.com/articles/tech/1308369.htm) | Wed Aug 24 2022 5:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Tinder创始人Sean Rad旗下的Happy Health公司推出名为Happy Ring的智能戒指&lt;/strong&gt;，这家公司成立于2019年底，目前有40名员工，其中13名员工位于该创业公司总部所在地奥斯汀。该公司还刚刚宣布了6000万美元的A轮融资，由ARCH Venture Partners领投。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《最后的生还者：重制版》中字预告 为次世代而生](https://hot.cnbeta.com/articles/game/1308367.htm) | Wed Aug 24 2022 5:49 PM 
+- 🎊 [《最后的生还者：重制版》中字预告 为次世代而生](https://hot.cnbeta.com/articles/game/1308367.htm) | Wed Aug 24 2022 5:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《最后的生还者：重制版》公开了全新的实机预告，展示了游戏的战斗以及剧情元素，画质提升较为明显，一起欣赏一下。《最后的生还者：重制版》将于9月2日登陆PS5，PC版稍微推出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Fitbit发布新款Sense和Versa智能手表](https://www.cnbeta.com/articles/tech/1308365.htm) | Wed Aug 24 2022 5:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;&amp;nbsp;Alphabet旗下的Fitbit公司发布了三款可穿戴设备，包括两款新的智能手表。其中顶级产品是Versa 4和Sense 2。&lt;/strong&gt;价格较高的Sense系列在2020年末首次亮相，建立在流行的Sense设备基础上，为该设备带来了更多的传感器和心智重点。通过尝试解决压力和心理健康问题来超越标准的健身和睡眠感应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Intel发布全新GPU Flex：转码性能5倍于NVIDIA 功耗仅一半](https://www.cnbeta.com/articles/tech/1308363.htm) | Wed Aug 24 2022 5:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel独立GPU虽然是后起之秀，但正无处不在！&lt;strong&gt;今天，Intel正式发布了全新的数据中心GPU Flex系列&lpar;曾用代号Arctic Sound-M&rpar;，主要用于视频转码与传输、视觉AI推理、云游戏、桌面虚拟化等领域。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
