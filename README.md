@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：Nreal 中国推出两款 AR 眼镜、Apple 自助维修计划拓展至笔记本电脑等](https://sspai.com/post/75326) | Wed Aug 24 2022 12:42 AM 
+- 👹 [抛弃知识管理软件的尝试：把博客变为知识库](https://sspai.com/post/75329) | Wed Aug 24 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    知识管理/笔记软件越来越多，我总在不同应用间徘徊。直到有次忽然醒悟，知识管理软件不是管理知识，而是管理笔记。笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的知识。&lt;a href=&quot;https://sspai.com/post/75329&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：Nreal 中国推出两款 AR 眼镜、Apple 自助维修计划拓展至笔记本电脑等](https://sspai.com/post/75326) | Wed Aug 24 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
     微软将在移动版 Outlook 中投放更多广告，VESA 发布 ClearMR 认证标准等。&lt;a href=&quot;https://sspai.com/post/75326&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [不读可以先收藏 14：本月值得一读的 6 篇好文](https://sspai.com/post/75317) | Tue Aug 23 2022 9:30 AM 
+- 🤭 [不读可以先收藏 14：本月值得一读的 6 篇好文](https://sspai.com/post/75317) | Tue Aug 23 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     本月最受欢迎的好文包括：色彩管理深度解析、笔记本清理、癌症的治疗与现状、新人律师需要掌握的方法论和技巧、义工旅行能否改变你的人生以及选择 iPhone 13 mini 背后的一点思考。&lt;a href=&quot;https://sspai.com/post/75317&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本月玩什么 | 双点校园、灵魂骇客 2、咩咩启示录、酷极轮滑](https://sspai.com/post/75301) | Tue Aug 23 2022 8:00 AM 
+- 🥸 [本月玩什么 | 双点校园、灵魂骇客 2、咩咩启示录、酷极轮滑](https://sspai.com/post/75301) | Tue Aug 23 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     本月值得关注的新游汇总。&lt;a href=&quot;https://sspai.com/post/75301&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [微信 8.0.27 更新：视频悬窗、隐私保护，还有 2 个新功能](https://sspai.com/post/75299) | Tue Aug 23 2022 6:30 AM 
+- 🙉 [微信 8.0.27 更新：视频悬窗、隐私保护，还有 2 个新功能](https://sspai.com/post/75299) | Tue Aug 23 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     距离微信上一次更新已经过去1个月的时间了，昨晚，微信再次「修复了一些已知问题」，带来了8.0.27版本更新。不过，微信「挤牙膏」式的更新依然没能满足大家的期待。尽管如此，我们还是帮你找到了微信8.0. ...&lt;a href=&quot;https://sspai.com/post/75299&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [短播客是播客的未来吗？](https://sspai.com/post/75269) | Tue Aug 23 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    短视频主宰了视频，那么短播客会是播客的未来吗？&lt;a href=&quot;https://sspai.com/post/75269&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
