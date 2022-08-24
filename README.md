@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [单价最高9.1亿元 南航公告确认购买96架空客飞机](https://www.cnbeta.com/articles/tech/1308305.htm) | Wed Aug 24 2022 12:32 PM 
+- 🕯 [韩国刷新世界最低生育率纪录 预计到本世纪末该国人口将减半](https://www.cnbeta.com/articles/tech/1308321.htm) | Wed Aug 24 2022 1:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月初国内三大航空公司——国航、东航、南航分别发布公告称采购空客A320Neo飞机，总价值高达2500亿元，是空客近年来最大的订单。今晚南航再次发布公告，确认了这次的交易，表示公司同意收购空中客车公司96架A320NEO系列飞机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;晚婚晚育已经成为大势所趋，但25至35岁女性的生育率下降，导致韩国生育率整体下滑。受适龄女性生育率下降影响，韩国2021年生育率及新生儿数量均创历史新低。&lt;/strong&gt;韩国统计厅数据显示，2021年韩国总和生育率同比减少3.4%，为0.81，是有相关统计以来的最低值。新生儿数量同比减少4.3%，为26.06万名，同样刷新历史新低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [爵士人生来了！华为Mate十年系列主题上线：支持鸿蒙OS 2机型](https://www.cnbeta.com/articles/tech/1308303.htm) | Wed Aug 24 2022 12:29 PM 
+- 💼 [因天气预报出错致国庆日烟花秀推迟 匈牙利气象局局长遭解职](https://www.cnbeta.com/articles/tech/1308319.htm) | Wed Aug 24 2022 1:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;时隔两年，华为Mate 50系列终于要在9月6日这天发布，巧合的是，今年也是华为Mate系列诞生的十年。为了纪念这一里程碑的时刻，华为日前在主题商店中上线了“Mate十年”系列装扮，与用户一起重温经典。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英国广播公司网站22日报道，匈牙利两位顶尖的气象专家因天气预报出错并引发政治骚动而被解职。据报道，为了庆祝国庆日，匈牙利原本打算在20日晚组织一场“欧洲最大的烟火表演”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微信已支持一次发99张图片：不能滑动选取 要一张一张点](https://www.cnbeta.com/articles/tech/1308301.htm) | Wed Aug 24 2022 12:27 PM 
+- 💂 [Denuvo将推出针对任天堂Switch游戏机模拟器反盗版软件](https://hot.cnbeta.com/articles/game/1308317.htm) | Wed Aug 24 2022 1:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这两天，微信不断的带来了很多新功能，包括新的二维码名片等等。&lt;strong&gt;现在，又一项重磅功能来了，这次是有用的！微信在灰度测试一次发送99张图片，当时只有很少一部分用户能用，但今天下午已经有大量网友反馈自己已经可以用了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，Irdeto宣布了由其Denuvo部门设计的一个新的任天堂Switch模拟器保护软件。简而言之，它旨在阻止PC上的任天堂Switch模拟器运行新发布的游戏。任天堂游戏机长期以来一直受到盗版问题的困扰，Switch也不例外。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [调查显示：近8成群众反对米勒主演的《闪电侠》发行](https://hot.cnbeta.com/articles/movie/1308299.htm) | Wed Aug 24 2022 12:26 PM 
+- 🚀 [苹果iPhone已在中国手机市场占主导地位 三星跌出第二位](https://www.cnbeta.com/articles/tech/1308315.htm) | Wed Aug 24 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;DC超英电影《闪电侠》主演埃兹拉·米勒近期丑闻不断，且在本月早些时间还被指控犯有入室盗窃重罪，这毫无疑问对华纳兄弟公司和这部电影本身都有巨大影响。&lt;/strong&gt;根据近期来自Morning Consult调查问卷显示，近八成参与调查的群众反对埃兹拉·米勒主演的电影发行——42%认为完全取消电影发行；33%认为推迟并更换主演。只有14%的人认为应该按原计划发布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年第二季度的新销售数据显示，苹果的iPhone仍然是中国最畅销的智能手机，而本地竞争对手vivo已经超过三星，位居第二。iPhone一直是中国最受欢迎的智能手机，6.18节期间售出的所有智能手机中有一半是苹果的。现在Counterpoint Research称，苹果一直保持着这种强大的领先优势，但本地对手正在使前十名的厂商名单发生变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [华为推送HarmonyOS基线版本：不满足基础要求也能升](https://www.cnbeta.com/articles/tech/1308297.htm) | Wed Aug 24 2022 12:26 PM 
+- 🎊 [概念设计：巨大的圆形建筑环抱着世界最高的摩天大楼](https://www.cnbeta.com/articles/tech/1308313.htm) | Wed Aug 24 2022 12:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年7月，华为正式发布了HarmonyOS 3操作系统，在HarmonyOS 2的基础上带来了大量功能上的升级。但同时，却有一些机型，现在依旧没能升级到HarmonyOS 2，还停留在EMUI时代，&lt;strong&gt;这部分设备的基础版本没有达到HarmonyOS 2的升级基础，导致无法进行升级。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;迪拜并不缺乏引人注目的建筑，但如果实现的话，ZNera Space的概念性项目即使在那里也一定会引起人们的注意。&lt;strong&gt;该公司设想在世界最高建筑哈里发塔周围建造一个巨大的圆形混合用途建筑，名为&amp;quot;市中心环&amp;quot;（Downtown Circle），它的构想是在550米（约1800英尺）的高度上创造一个新的空中社区。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
