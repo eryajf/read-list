@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [声学杂志研究辟谣：土星五号火箭有够响 但发射时没能融化混凝土](https://www.cnbeta.com/articles/science/1308167.htm) | Wed Aug 24 2022 7:10 AM 
+- 🕯 [美国干旱致1亿多年前恐龙足迹重见天日：推测身高为4.6米](https://www.cnbeta.com/articles/science/1308207.htm) | Wed Aug 24 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在 2022 年 8 月 23 日发表于《美国声学学会杂志》上的一篇文章中，一支研究团队严肃驳斥了与“土星五号火箭”有关的网络传闻。&lt;/strong&gt;杨百翰大学合著者 Kent L. Gee 在一份声明中称，Saturn-V 并没有如传闻中那么大的威力，所谓“将混凝土都融化了”的讲述都不现实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近期北半球干旱来袭，欧亚北美等地区均出现了较为严重的灾情，严重的甚至出现了河流、水库干涸的情况，也因此出现了很多此前不为人知的隐秘情况。8月24日，据美国有线电视新闻网报道，&lt;strong&gt;受高温天气影响，美国得克萨斯州恐龙谷州立公园内的一条河流干涸，大量恐龙足迹化石重见天日，其中最古老的可以追溯到1.13亿年前。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [道格推出S89坚固型手机：12000mAh电池+65W快充+RGB灯效](https://www.cnbeta.com/articles/tech/1308165.htm) | Wed Aug 24 2022 7:07 AM 
+- 💼 [ROG推出旗下首款Mesh路由Rapture GT6 无线速率可达10000Mbps](https://www.cnbeta.com/articles/tech/1308205.htm) | Wed Aug 24 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;道格（Doogee）近日推出了全新的 S89 系列，并已经在 &lt;a href=&quot;https://www.aliexpress.com/item/3256804339920793.html&quot; target=&quot;_blank&quot;&gt;AliExpress&lt;/a&gt; 和 Doogeemall 商城开售。这款坚固型手机配备了 12000mAh 容量电池，搭配了 65W 的快充适配器。在常规使用状态下，这款手机的续航可以达到 3 天时间。公司表示在完整充电后持续游戏时间可以达到 16 个小时，持续视频播放时间可以达到 18 个小时。充满电只需要 2 个小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今天，ROG在海外发布了旗下首款Mesh路由器Rapture GT6&lt;/strong&gt;，在外观设计与实际性能上都有不错的表现。据悉，&lt;strong&gt;Rapture GT6在设计时就专门针对玩家进行了优化，拥有两个4804Mbps的5GHz频段和一个574Mbps的2.4GHz频段，无线速率最高可达10000Mbps。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [世界上最深的固桩式海上风电场Seagreen首次发电](https://www.cnbeta.com/articles/tech/1308163.htm) | Wed Aug 24 2022 7:06 AM 
+- 💂 [商用可控核聚变堆实现在即，还是在陕西？](https://www.cnbeta.com/articles/tech/1308203.htm) | Wed Aug 24 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Electrek报道，&lt;strong&gt;距离苏格兰东部安格斯海岸16.7英里（27公里）的Seagreen海上风电场，已经产生了第一批电力。&lt;/strong&gt;这个30亿英镑的项目将是苏格兰最大的海上风电场。它也将是世界上最深的固桩式海上风电场，因为它的选址在水深达194英尺（59米）的地方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国内首个商用可控核聚变堆将建成，还是在陕西？？？一觉醒来，可控核聚变要商用的消息就刷了屏，不少网友已经在脑补“是不是能用上可控核聚变发的电了”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[图]三星发布Galaxy A04：6.5吋屏幕+5000万像素主摄](https://www.cnbeta.com/articles/tech/1308161.htm) | Wed Aug 24 2022 6:54 AM 
+- 🚀 [苹果MacBook自助维修计划不允许用户升级到更高的主板配置](https://www.cnbeta.com/articles/tech/1308201.htm) | Wed Aug 24 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星于去年 11 月宣布推出了 Galaxy A03，时隔 9 个月该公司悄然推出了该机的继任者--Galaxy A04。该机在外观上和前代基本相同，采用了 Infinity-V 屏幕，机身背面拥有 2 个摄像头，不过 LED 闪光灯并未放在两个摄像头的中间，而是放置在右侧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9to5Mac 报道称，苹果刚刚扩展了自助维修计划，并将 M1 MacBook Air / MacBook Pro 都包含了在内。&lt;strong&gt;然而尽管用户可申请获得包括屏幕、电池、甚至逻辑板在内的替换组件，该公司还是封堵了手动升级到更高配的选项。&lt;/strong&gt;换言之，你只能通过官方渠道申领到与原配置完全相同的主板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [天文学家拍摄到已知最大质量恒星的最清晰图像 揭示其真实大小](https://www.cnbeta.com/articles/science/1308157.htm) | Wed Aug 24 2022 6:52 AM 
+- 🎊 [传苹果已开始研发iPhone 15：采用USB-C接口 Lightning时代终结](https://www.cnbeta.com/articles/tech/1308199.htm) | Wed Aug 24 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，&lt;strong&gt;天文学家拍摄到了已知宇宙中质量最大的恒星的最清晰的图像。有了这些新的图像，科学家们就能够确定这颗恒星到底有多&lt;/strong&gt;大，并在这个过程中修正我们对恒星有可能变得多大的想法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月24日消息，据HT Tech报道，&lt;strong&gt;苹果已开始研发iPhone 15系列，新品将会在2024年下半年登场。&lt;/strong&gt;对于iPhone 15系列，&lt;strong&gt;它最大的变化是取消Lightning接口，转而使用USB-C接口。&lt;/strong&gt;因为欧盟已经规定，2024年所有手机都必须使用USB-C接口，因此2024年登场的iPhone 15系列将会标配USB-C。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
