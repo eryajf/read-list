@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [GitLab修复了CEEE版本中一个远程代码执行漏洞](https://www.freebuf.com/news/342725.html) | Wed Aug 24 2022 5:00 AM 
+- 🦄 [推特前安全主管控诉存在 &amp;quot;令人震惊的 &amp;quot;的安全漏洞](https://www.freebuf.com/news/342774.html) | Wed Aug 24 2022 7:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    Zatko控诉推特在安全实践中存在“令人震惊的”漏洞，在安全、隐私和内容审核方面存在“严重缺陷”。 
+    </details> 
+
+- 🦄 [GitLab修复了CE、EE版本中一个远程代码执行漏洞](https://www.freebuf.com/news/342725.html) | Wed Aug 24 2022 5:00 AM 
     <details><summary>展开描述 ...</summary> 
     DevOps 平台 GitLab 修复了其社区版（CE）和企业版（EE）中出现的一个关键远程代码执行漏洞。 
     </details> 
 
-- 🦄 [研究显示，滥用SaaS平台的网络钓鱼攻击大幅增长 1100%](https://www.freebuf.com/news/342743.html) | Wed Aug 24 2022 4:46 AM 
+- 🦅 [研究显示，滥用SaaS平台的网络钓鱼攻击大幅增长 1100%](https://www.freebuf.com/news/342743.html) | Wed Aug 24 2022 4:46 AM 
     <details><summary>展开描述 ...</summary> 
     数据显示，从 2021 年 6 月到 2022 年 6 月，这种滥用行为大幅增加了 1100%。 
     </details> 
 
-- 🦅 [因用户未更新固件，超八万台摄像机可能被利用](https://www.freebuf.com/news/342613.html) | Tue Aug 23 2022 3:27 AM 
+- 🪄 [peetch：一个针对eBPF的安全实践研究平台](https://www.freebuf.com/articles/security-management/342625.html) | Tue Aug 23 2022 5:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    peetch平台由多种工具组成，旨在帮助广大研究人员通过各种方式绕过TLS协议保护功能，并以此来研究和分析eBPF的安全性。 
+    </details> 
+
+- 💻 [因用户未更新固件，超八万台摄像机可能被利用](https://www.freebuf.com/news/342613.html) | Tue Aug 23 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
     安全研究人员发现超过八万台摄像机尚未更新固件，容易受到关键命令注入漏洞的影响。 
-    </details> 
-
-- 🪄 [黑客利用零日漏洞窃取 General Bytes ATM 机上的加密货币](https://www.freebuf.com/news/342610.html) | Tue Aug 23 2022 3:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    据 The Hacker News 网站披露，比特币 ATM 机制造商 General Bytes 证实其遭到了网络攻击。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 黑客针对比特币的 ATM 制造商; 汽车经销商遭受重大勒索软件攻击](https://www.freebuf.com/news/342595.html) | Tue Aug 23 2022 2:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    被称为“神秘团队”的威胁参与者使用 Raven Storm 工具对多个目标进行分布式拒绝服务 &lpar;DDoS&rpar; 攻击。 
     </details> 
 <!-- freebuf:END -->
 
