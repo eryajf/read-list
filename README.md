@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Neeva Search for Android - 获得诚实的结果，不受公司偏见和跟踪器的影响](https://xinquji.com/posts/178993?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:27 AM 
+- 👀 [Curatora - 轻松查找和分享社交媒体的高度相关内容](https://xinquji.com/posts/179002?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     获得诚实的结果，不受公司偏见和跟踪器的影响  
+     轻松查找和分享社交媒体的高度相关内容  
     </details> 
 
-- 🥷 [Weekrise - 为您的任务提供整洁的每周日历](https://xinquji.com/posts/178992?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:26 AM 
+- 🥷 [The Startup Help Desk Podcast - 播客了解如何创办和建立公司](https://xinquji.com/posts/179001?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     为您的任务提供整洁的每周日历  
+     播客了解如何创办和建立公司  
     </details> 
 
-- 💼 [Tether - 免费的最终用户反馈小部件](https://xinquji.com/posts/178991?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:25 AM 
+- 💼 [Artes Union - 以平等的方式谈论皮肤癌、黑色素瘤](https://xinquji.com/posts/179000?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     免费的最终用户反馈小部件  
+     以平等的方式谈论皮肤癌、黑色素瘤  
     </details> 
 
-- 🦅 [TweetMarks - 轻松管理您的 Twitter 书签](https://xinquji.com/posts/178990?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:23 AM 
+- 🦅 [Caravan Social Manager - 授权您的团队在 Twitter 上进行内部互动](https://xinquji.com/posts/178999?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     轻松管理您的 Twitter 书签  
+     授权您的团队在 Twitter 上进行内部互动  
     </details> 
 
-- 😺 [Happy Ring - 第一款适合您的可穿戴设备。](https://xinquji.com/posts/178989?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:23 AM 
+- 😺 [BingeBooks - 寻找下一个精彩阅读的书籍狂欢网站](https://xinquji.com/posts/178998?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     第一款适合您的可穿戴设备。  
+     寻找下一个精彩阅读的书籍狂欢网站  
     </details> 
 <!-- xinquji:END -->
