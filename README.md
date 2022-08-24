@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [尬住了！小扎被自家产品爆黑料；酷炫清晰的『技术学习路线图』大合辑；Markdown引用块的N种样式；地形设计工具；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7135317865992814629) | Wed Aug 24 2022 5:58 AM 
+- 🤗 [B+树索引（8）之索引适用场景（下）](https://juejin.cn/post/7135321072366256159) | Wed Aug 24 2022 6:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 B+树索引（8）之索引适用场景（下） 前言 在上篇文章中提到了索引适用场景的一部分包括全值匹配原则、最左 
+    </details> 
+
+- 🎡 [iOS小技能：保存图片到相册&lpar; 监听用户的相册授权动作）](https://juejin.cn/post/7135319132765880350) | Wed Aug 24 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第29天，点击查看活动详情 引言 iOS 保存图片到相册的需求：二维码界面，新增一个“保存到相册”按钮，点击完成将核心视图信息保存到 
+    </details> 
+
+- 🕯 [尬住了！小扎被自家产品爆黑料；酷炫清晰的『技术学习路线图』大合辑；Markdown引用块的N种样式；地形设计工具；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7135317865992814629) | Wed Aug 24 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
     ShowMeAI资讯日报 08-24 期，轻量级地形设计工具、Charabia用于标记查询&amp;文档的库、ZigZag 识别时序峰值和谷值的库、ProxSuite 高级近似优化工具包、深度学习3D重建资源 
     </details> 
 
-- 🎡 [b站老杜数据库学习的总结](https://juejin.cn/post/7135313694031872031) | Wed Aug 24 2022 5:41 AM 
+- 🚀 [b站老杜数据库学习的总结](https://juejin.cn/post/7135313694031872031) | Wed Aug 24 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
     数据库 mysql启动关闭 登陆退出 SQL：结构化查询语言 关于SQL语句的分类 MySQL常用命令 数据库表 查询：select 简单查询 条件查询 条件查询：不是将表中所有数据都查出来。是查询出 
     </details> 
 
-- 🕯 [你应该知道webpack的这13个常用优化技巧](https://juejin.cn/post/7135297659354480653) | Wed Aug 24 2022 4:40 AM 
+- 💪 [深度学习时代的开端AlexNet详解](https://juejin.cn/post/7135301970532761614) | Wed Aug 24 2022 4:57 AM 
     <details><summary>展开描述 ...</summary> 
-    无论是自己的日常开发，还是准备面试，都应该掌握一些关于 Webpack 的优化技巧。这篇文章将介绍13个常用的优化技巧，请码住收藏！ 
-    </details> 
-
-- 🚀 [将 SAP Spartacus 作为 feature module 进行 Lazy Load 延迟加载时遇到的注入错误分析](https://juejin.cn/post/7135293722334593032) | Wed Aug 24 2022 4:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第29天，点击查看活动详情 将 SAP Spartacus 作为 feature module 进行 Lazy Load 延迟加载时 
-    </details> 
-
-- 💪 [1 分钟在 Serverless 上部署现代化 Deno Web 应用](https://juejin.cn/post/7135287521402945566) | Wed Aug 24 2022 4:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    利用 Serverless 的水平扩展与按量付费优势, 结合自定义运行时, 实现 Web 应用的快速迁移。而 Deno 运行时是新一代的 JS 运行时, 使用阿里云 Serverless + Deno 
+    2012年，Alex Krizhevsky（1作，当时是硕士）、Ilya Sutskever和Geoff Hinton提出了一种新的卷积神经网络结构AlexNet。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
