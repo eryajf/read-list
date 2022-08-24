@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌研究院的NeRF项目 向我们揭示了AI影像降噪技术的未来](https://www.cnbeta.com/articles/tech/1308107.htm) | Wed Aug 24 2022 5:34 AM 
+- 🕯 [印度拟建两座核电站 莫迪计划10年内核电站数量增加两倍](https://www.cnbeta.com/articles/tech/1308133.htm) | Wed Aug 24 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;都说“摄影是用光的艺术”，这意味着在光照条件良好的情况下，就算是普通的相机、也能够拍出相当有意境的照片。而在光线不足的情况下，拍月亮都需要强大的算法作为支撑。&lt;strong&gt;更何况受限于智能机影像传感器的体积制约，静态图像的数字降噪技术，一直是个难以攻克的难题。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;印度最大电力生产商在首次官宣建核电站的几周后，正寻求开发另一个大型核项目，这表明印度总理莫迪向核能领域扩张的势头正在增强。媒体周三援引知情人士的消息称，印度国家电力集团（NTPC）和印度核能公司（Nuclear Power Corp． of India Ltd）的一家合资企业，正与印度政府进行深入谈判，计划在中央邦（Madhya）新建两座700兆瓦的反应堆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [EeroQ押注氦上电子量子芯片设计 B Capital领投种子轮融资](https://www.cnbeta.com/articles/science/1308105.htm) | Wed Aug 24 2022 5:14 AM 
+- 💼 [传慧聪网即日起停止运营，16年前曾被张向东评论不看好其未来](https://www.cnbeta.com/articles/tech/1308131.htm) | Wed Aug 24 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管量子计算仍处于早期阶段，但该领域的底层软硬件正在迅速发展。&lt;strong&gt;与经典计算机的早期历程类似，不同硬件团队都在发挥天马行空的想象来打造量子计算机。&lt;/strong&gt;比如 IonQ 选择了离子俘获（trapped ion）、D-Wave 采用了量子退火（quantum annealing），而 IBM 和 Rigetti 等公司则押注超导门模型（superconducting gate model）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月24日，有消息称慧聪网即日起停止运营。CTO宣布全员回家待岗，薪资已经欠了三个月，社保没交，后续如何没有任何确认消息。&lt;/strong&gt;截至发稿，慧聪网官方没有相关公告。不过财视传媒登录慧聪网网站发现，在点进去首页中的产品品类之后，页面显示“该网页无法正常运作”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [CodeWeaver推出基于Wine打造的CrossOver 22版本更新](https://www.cnbeta.com/articles/tech/1308103.htm) | Wed Aug 24 2022 4:22 AM 
+- 💂 [特斯拉将于9月30日在加州帕罗奥图举办2022 AI DAY](https://www.cnbeta.com/articles/tech/1308129.htm) | Wed Aug 24 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;CodeWeavers 刚刚发布了基于 Wine 的 CrossOver 22 软件，希望能够帮助广大用户在 Linux、ChromeOS 和 macOS 上体验 Windows 游戏和应用程序。&lt;/strong&gt;作为 Wine 商业下游的一次重大更新，CodeWeavers 继续对 CrossOver 22 加以微调、积极向上游提交贡献，并有根据与 Valve 的合作协议而开展 Wine / Proton 方面的工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据特斯拉官方微博8月24日发布消息，特斯拉将于北美时间9月30日在加州帕罗奥图举行2022 AI DAY。据上游新闻报道，今年1月份，马斯克在财报电话会上表示，开发擎天柱是特斯拉今年最重要的工作，未来它将比特斯拉的汽车业务更重要、更值钱。4月份，马斯克重申了对机器人业务的重视，并且透露最早在2023年就要开始生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google TAG发现一款工具 可下载Gmail等平台的完整收件箱内容](https://www.cnbeta.com/articles/tech/1308101.htm) | Wed Aug 24 2022 4:04 AM 
+- 🚀 [网红轻食，我yue了](https://www.cnbeta.com/articles/tech/1308127.htm) | Wed Aug 24 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Google 威胁分析小组（TAG）设法获得了一款工具，可用于下载 Gmail、Microsoft Outlook、Yahoo 等主流电子邮件平台的完整收件箱&lt;/strong&gt;内容。该工具叫做 HYPERSCAPE，已经有证据表明用于对未知目标发起攻击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;轻食餐，中看不中吃，懂的都懂。夏天正是都市人瘦身高峰期，轻食、健身餐这类概念早已见怪不怪地在都市流行。在朋友圈，总有一些都市上班族会晒出自己的轻食餐，颜值又高，看起来又健康，但底下配的文案总有淡淡的忧伤——&lt;span style=&quot;&quot;&gt;“今天又吃草了&lt;/span&gt;”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [PS5 DualSense Edge手柄亮相：丰富个性化选项 可换摇杆等配件](https://hot.cnbeta.com/articles/game/1308099.htm) | Wed Aug 24 2022 3:54 AM 
+- 🎊 [淘宝上线订单号码保护功能 订单不会再显示收货人真实号码](https://www.cnbeta.com/articles/tech/1308125.htm) | Wed Aug 24 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近几周，有传闻称索尼正在秘密打造对标微软 Xbox Elite 的新款无线手柄。&lt;strong&gt;好消息是，索尼终于在 Gamscom 开幕当晚的直播活动期间，官宣了 PS5 DualSense Edge 的存在。&lt;/strong&gt;在一众新特性中，最让玩家们感到欣喜的，莫过于能够拆卸更换摇杆、后拨片、以及保存多个手柄配置文件的能力。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月24日下午消息，手机淘宝正式上线订单号码保护功能。用户开通虚拟号码保护功能后，订单全流程不会再出现收货人的真实手机号码，而是以自动生成的虚拟号码代替。此举可最大程度保护用户隐私信息安全，同时避免不必要的电话短信打扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
