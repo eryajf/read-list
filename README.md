@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [一款脑洞大开的「神作」，我的 2021 年度游戏：脑航员 2](https://sspai.com/post/75331) | Wed Aug 24 2022 8:00 AM 
+- 👹 [付费栏目开学季促销开启: 重磅上新，限时折扣，还有免费加更](https://sspai.com/post/75334) | Wed Aug 24 2022 10:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    ⏰活动时间：8月24日~9月4日🎁活动内容限时折扣：12个付费栏目参与本次活动，最低6折起，少数派会员可使用麦亏券享受折上折；新系列开启：《经验卷轴：如何上手学术论文写作》上架优惠中；加量不加价：《1 ...&lt;a href=&quot;https://sspai.com/post/75334&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [经验就是力量，用二十余年的科研经验带你入门学术写作](https://sspai.com/post/75332) | Wed Aug 24 2022 10:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    作为「经验卷轴」系列的第一款栏目，我们对王树义老师（玉树芝兰）主理的《科研新手全面入坑指南》进行了全面内容更新，并加入工具分享、答疑直播等活动，让王老师用自己二十余年的学术生涯经验，带你入门学术写作。&lt;a href=&quot;https://sspai.com/post/75332&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🤭 [一款脑洞大开的「神作」，我的 2021 年度游戏：脑航员 2](https://sspai.com/post/75331) | Wed Aug 24 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     16 年磨一剑，它说不定会成为 Xbox 的又一个核心 IP。&lt;a href=&quot;https://sspai.com/post/75331&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [记派友的一次求婚](https://sspai.com/prime/story/witnessing-a-proposal) | Wed Aug 24 2022 6:39 AM 
+- 🥸 [记派友的一次求婚](https://sspai.com/prime/story/witnessing-a-proposal) | Wed Aug 24 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     本文记录了派友的一场求婚从会员社群里的一条支招帖、到最终顺利完成的过程。我们非常高兴看到派友通过少数派的社区分享和沟通多彩的话题，也非常荣幸见证和参与到派友们这样的重要人生场合。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/witnessing-a-proposal&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [抛弃知识管理软件的尝试：把博客变为知识库](https://sspai.com/post/75329) | Wed Aug 24 2022 3:30 AM 
+- 🙉 [抛弃知识管理软件的尝试：把博客变为知识库](https://sspai.com/post/75329) | Wed Aug 24 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     知识管理/笔记软件越来越多，我总在不同应用间徘徊。直到有次忽然醒悟，知识管理软件不是管理知识，而是管理笔记。笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的知识。&lt;a href=&quot;https://sspai.com/post/75329&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [派早报：Nreal 中国推出两款 AR 眼镜、Apple 自助维修计划拓展至笔记本电脑等](https://sspai.com/post/75326) | Wed Aug 24 2022 12:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    微软将在移动版 Outlook 中投放更多广告，VESA 发布 ClearMR 认证标准等。&lt;a href=&quot;https://sspai.com/post/75326&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [不读可以先收藏 14：本月值得一读的 6 篇好文](https://sspai.com/post/75317) | Tue Aug 23 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    本月最受欢迎的好文包括：色彩管理深度解析、笔记本清理、癌症的治疗与现状、新人律师需要掌握的方法论和技巧、义工旅行能否改变你的人生以及选择 iPhone 13 mini 背后的一点思考。&lt;a href=&quot;https://sspai.com/post/75317&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
