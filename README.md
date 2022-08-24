@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国干旱致1亿多年前恐龙足迹重见天日：推测身高为4.6米](https://www.cnbeta.com/articles/science/1308207.htm) | Wed Aug 24 2022 8:12 AM 
+- 🕯 [华为余承东：车主说我们的车最大缺点是价格太低](https://www.cnbeta.com/articles/tech/1308223.htm) | Wed Aug 24 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期北半球干旱来袭，欧亚北美等地区均出现了较为严重的灾情，严重的甚至出现了河流、水库干涸的情况，也因此出现了很多此前不为人知的隐秘情况。8月24日，据美国有线电视新闻网报道，&lt;strong&gt;受高温天气影响，美国得克萨斯州恐龙谷州立公园内的一条河流干涸，大量恐龙足迹化石重见天日，其中最古老的可以追溯到1.13亿年前。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月24日，问界M7首批车主交付启动仪式举行，赛力斯集团董事长张兴海和华为余承东出席了此次交车仪式。&lt;/strong&gt;在交付活动上，为给问界M7造势，余承东又对外放出了不少豪言。余承东称，有人跟我说我们车有很大的缺点，就是价格太便宜了，能不能买贵一点，因为贵一点能体现到他的身份，他过去都是买一两百万以上的，不会买那么便宜的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [ROG推出旗下首款Mesh路由Rapture GT6 无线速率可达10000Mbps](https://www.cnbeta.com/articles/tech/1308205.htm) | Wed Aug 24 2022 8:11 AM 
+- 💼 [Gogoro宣布旗下电动二轮换电站网络客户已达50万](https://www.cnbeta.com/articles/tech/1308221.htm) | Wed Aug 24 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今天，ROG在海外发布了旗下首款Mesh路由器Rapture GT6&lt;/strong&gt;，在外观设计与实际性能上都有不错的表现。据悉，&lt;strong&gt;Rapture GT6在设计时就专门针对玩家进行了优化，拥有两个4804Mbps的5GHz频段和一个574Mbps的2.4GHz频段，无线速率最高可达10000Mbps。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为中国台湾地区的电动自行车换电服务领导者，Gogoro 刚刚宣布已拥有多达 50 万客户。&lt;/strong&gt;除了生产各种款式的电动踏板车，换电站网络也是该公司保障其服务体验的重要一环。此外随着越来越多的其它制造商选用该公司的电池，Gogoro 也成为了当地市场事实上的换电标准制定者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [商用可控核聚变堆实现在即，还是在陕西？](https://www.cnbeta.com/articles/tech/1308203.htm) | Wed Aug 24 2022 8:09 AM 
+- 💂 [物理学家正在揭开“时间箭头”的谜团](https://www.cnbeta.com/articles/science/1308219.htm) | Wed Aug 24 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国内首个商用可控核聚变堆将建成，还是在陕西？？？一觉醒来，可控核聚变要商用的消息就刷了屏，不少网友已经在脑补“是不是能用上可控核聚变发的电了”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;理论物理学家的一项新研究在确定粒子和细胞如何产生大规模动态方面取得了进展，我们将其视为时间的流逝。我们如何体验世界的一个核心特征是时间从过去流向未来。但是，&lt;strong&gt;这个被称为 “时间箭头”（Arrow of time）的现象是如何从粒子和细胞之间的微观互动中产生的，却是一个谜。&lt;/strong&gt;纽约市立大学研究生中心理论科学倡议（ITS）的研究人员在《物理评论快报》杂志上发表了一篇新的论文，正在帮助揭开这个谜团。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果MacBook自助维修计划不允许用户升级到更高的主板配置](https://www.cnbeta.com/articles/tech/1308201.htm) | Wed Aug 24 2022 8:01 AM 
+- 🚀 [昔日与阿里齐名如今传出业务关停 慧聪集团内部人士回应](https://www.cnbeta.com/articles/tech/1308217.htm) | Wed Aug 24 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9to5Mac 报道称，苹果刚刚扩展了自助维修计划，并将 M1 MacBook Air / MacBook Pro 都包含了在内。&lt;strong&gt;然而尽管用户可申请获得包括屏幕、电池、甚至逻辑板在内的替换组件，该公司还是封堵了手动升级到更高配的选项。&lt;/strong&gt;换言之，你只能通过官方渠道申领到与原配置完全相同的主板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;产业互联网、芯片等硬科技火热的当下，很多人已然不记得三十年前的B2B企业是什么样子。&lt;strong&gt;1992年，一位名为郭凡生的创业者拿出积攒多年的7.4万元，合伙成立了慧聪公关信息咨询有限公司，注册资金14.8万元。&lt;/strong&gt;当时新浪、搜狐等门户网站的创始人还在读书，马云也未走上创业道路。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [传苹果已开始研发iPhone 15：采用USB-C接口 Lightning时代终结](https://www.cnbeta.com/articles/tech/1308199.htm) | Wed Aug 24 2022 7:56 AM 
+- 🎊 [教育部通报人教插图事件 27人被处罚](https://www.cnbeta.com/articles/tech/1308215.htm) | Wed Aug 24 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月24日消息，据HT Tech报道，&lt;strong&gt;苹果已开始研发iPhone 15系列，新品将会在2024年下半年登场。&lt;/strong&gt;对于iPhone 15系列，&lt;strong&gt;它最大的变化是取消Lightning接口，转而使用USB-C接口。&lt;/strong&gt;因为欧盟已经规定，2024年所有手机都必须使用USB-C接口，因此2024年登场的iPhone 15系列将会标配USB-C。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年5月，人民教育出版社（简称人教社）第十一套小学数学教材插图问题受到社会广泛关注。教育部党组高度重视，成立由党组主要负责同志任组长、2位党组成员任副组长的调查处置工作组，通过约谈相关人员，调阅原始资料，听取数学、思政、美术等方面专家意见，征求一线数学和美术教师意见等方式，进行了认真调查核实。现将有关情况通报如下：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
