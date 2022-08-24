@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google TAG发现一款工具 可下载Gmail等平台的完整收件箱内容](https://www.cnbeta.com/articles/tech/1308101.htm) | Wed Aug 24 2022 4:04 AM 
+- 🕯 [谷歌研究院的NeRF项目 向我们揭示了AI影像降噪技术的未来](https://www.cnbeta.com/articles/tech/1308107.htm) | Wed Aug 24 2022 5:34 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;都说“摄影是用光的艺术”，这意味着在光照条件良好的情况下，就算是普通的相机、也能够拍出相当有意境的照片。而在光线不足的情况下，拍月亮都需要强大的算法作为支撑。&lt;strong&gt;更何况受限于智能机影像传感器的体积制约，静态图像的数字降噪技术，一直是个难以攻克的难题。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [EeroQ押注氦上电子量子芯片设计 B Capital领投种子轮融资](https://www.cnbeta.com/articles/science/1308105.htm) | Wed Aug 24 2022 5:14 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;尽管量子计算仍处于早期阶段，但该领域的底层软硬件正在迅速发展。&lt;strong&gt;与经典计算机的早期历程类似，不同硬件团队都在发挥天马行空的想象来打造量子计算机。&lt;/strong&gt;比如 IonQ 选择了离子俘获（trapped ion）、D-Wave 采用了量子退火（quantum annealing），而 IBM 和 Rigetti 等公司则押注超导门模型（superconducting gate model）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [CodeWeaver推出基于Wine打造的CrossOver 22版本更新](https://www.cnbeta.com/articles/tech/1308103.htm) | Wed Aug 24 2022 4:22 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;CodeWeavers 刚刚发布了基于 Wine 的 CrossOver 22 软件，希望能够帮助广大用户在 Linux、ChromeOS 和 macOS 上体验 Windows 游戏和应用程序。&lt;/strong&gt;作为 Wine 商业下游的一次重大更新，CodeWeavers 继续对 CrossOver 22 加以微调、积极向上游提交贡献，并有根据与 Valve 的合作协议而开展 Wine / Proton 方面的工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Google TAG发现一款工具 可下载Gmail等平台的完整收件箱内容](https://www.cnbeta.com/articles/tech/1308101.htm) | Wed Aug 24 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Google 威胁分析小组（TAG）设法获得了一款工具，可用于下载 Gmail、Microsoft Outlook、Yahoo 等主流电子邮件平台的完整收件箱&lt;/strong&gt;内容。该工具叫做 HYPERSCAPE，已经有证据表明用于对未知目标发起攻击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [PS5 DualSense Edge手柄亮相：丰富个性化选项 可换摇杆等配件](https://hot.cnbeta.com/articles/game/1308099.htm) | Wed Aug 24 2022 3:54 AM 
+- 🎊 [PS5 DualSense Edge手柄亮相：丰富个性化选项 可换摇杆等配件](https://hot.cnbeta.com/articles/game/1308099.htm) | Wed Aug 24 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近几周，有传闻称索尼正在秘密打造对标微软 Xbox Elite 的新款无线手柄。&lt;strong&gt;好消息是，索尼终于在 Gamscom 开幕当晚的直播活动期间，官宣了 PS5 DualSense Edge 的存在。&lt;/strong&gt;在一众新特性中，最让玩家们感到欣喜的，莫过于能够拆卸更换摇杆、后拨片、以及保存多个手柄配置文件的能力。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [《蝙蝠女》素材被华纳清空 导演称什么都没留下](https://hot.cnbeta.com/articles/movie/1308097.htm) | Wed Aug 24 2022 3:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据外媒报道，本月初华纳兄弟决定取消电影《蝙蝠女》的所有上映计划。传言这部电影已经完成了90%，并将于今年晚些时候上线HBO Max平台。近日电影导演和制作人比拉勒·法拉赫想要试图从HBO Max的服务器中“挽救”一些拍摄素材，但是发现，影片的素材已经在服务器上清空了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [迪士尼+计划打造全新《金刚》影视系列 温子仁担任总监制](https://hot.cnbeta.com/articles/movie/1308095.htm) | Wed Aug 24 2022 3:52 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前据外媒报道，&lt;strong&gt;迪士尼透露了全新《金刚》影视系列制作计划，预定在旗下迪士尼+流媒体平台发布，目前已经确定了邀请著名导演温子仁担任总监制，&lt;/strong&gt;敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [NASA Artemis I月球火箭发射直播观看攻略](https://www.cnbeta.com/articles/science/1308093.htm) | Wed Aug 24 2022 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在结束阿波罗任务的50年后，NASA准备重返月球。当地时间周一，该机构雄心勃勃、昂贵但令人振奋的Artemis计划将开始实施。最后，Artemis I可能会前往月球。明确地说，这次升空不会有宇航员上船 -- 但它的成功会对接下来的太空任务产生巨大影响，包括在不久的将来某个时候让人登陆月球的前景。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
