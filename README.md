@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [经过几番折腾， GitHub 终于把我学生资格转回来了](https://www.v2ex.com/t/875138#reply0) | Wed Aug 24 2022 11:04 AM
-- 🤗 [在 virtualbox 中如何使两台电脑间用同一份 windows 虚拟机?](https://www.v2ex.com/t/875130#reply1) | Wed Aug 24 2022 10:31 AM
-- 🎭 [怎么区分自己写的软件是否是公司财产](https://www.v2ex.com/t/875128#reply7) | Wed Aug 24 2022 10:27 AM
-- 🥷 [Maven 没有 weblogic 依赖吗？](https://www.v2ex.com/t/875125#reply1) | Wed Aug 24 2022 10:13 AM
-- 🐵 [请教怎么能找到 Java 的 native 原生实现代码？](https://www.v2ex.com/t/875114#reply6) | Wed Aug 24 2022 9:31 AM<!-- v2ex:END -->
+- 🥸 [Chrome 控制台这里是 bug 吗](https://www.v2ex.com/t/875152#reply1) | Wed Aug 24 2022 11:51 AM
+- 🤗 [版本特性 | Cloudpods v3.9 重点功能介绍](https://www.v2ex.com/t/875146#reply0) | Wed Aug 24 2022 11:32 AM
+- 🎭 [经过几番折腾， GitHub 终于把我学生资格转回来了](https://www.v2ex.com/t/875138#reply1) | Wed Aug 24 2022 11:04 AM
+- 🥷 [在 virtualbox 中如何使两台电脑间用同一份 windows 虚拟机?](https://www.v2ex.com/t/875130#reply2) | Wed Aug 24 2022 10:31 AM
+- 🐵 [怎么区分自己写的软件是否是公司财产](https://www.v2ex.com/t/875128#reply14) | Wed Aug 24 2022 10:27 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
