@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科隆：《家园3》首个实机预告 2023上半年发售](https://hot.cnbeta.com/articles/game/1307913.htm) | Tue Aug 23 2022 8:54 PM 
+- 🕯 [为什么女性对抑郁症治疗的反应与男性不同？](https://www.cnbeta.com/articles/science/1308009.htm) | Wed Aug 24 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在2022年科隆展开幕之夜直播上，Gearbox发布了《家园3》首个实机预告片，本作将于2023年上半年发售。《家园3》为您提供了一个运筹帷幄、蔚为壮观且绝对独一无二的世界，带您再度领略年度最佳游戏大奖的科幻即时战略系列游戏的魅力。在令人炫目的全 3D 空间中掌控全局，带领舰队作战，并体验浩瀚银河中徐徐展开的荣获大奖的故事剧情。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;研究人员已经确定了一种可能的解释，即为什么女性对抑郁症治疗的反应可能与男性不一样。&lt;/strong&gt;尽管有治疗抑郁症的方法，但许多人发现这些治疗方法有时是无益的。此外，女性的抑郁症发病率比男性高，但这种差异的原因尚不清楚，这使得她们的疾病有时在治疗上更加复杂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [据称苹果的内置钱包应用在iOS 16.1中可被删除](https://www.cnbeta.com/articles/tech/1307911.htm) | Tue Aug 23 2022 8:52 PM 
+- 💼 [天文摄影师带来壮观月球细节照](https://www.cnbeta.com/articles/science/1308007.htm) | Wed Aug 24 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据今天发布的iPadOS 16.1测试版中的代码，内置的iPhone钱包应用将能够在iOS 16.1中由用户选择自行删除。该代码表明，如果钱包应用已经从iPhone上删除，并且持有iPhone的人试图使用Apple Pay等功能，那么钱包应用将可以重新从App Store下载。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1307911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;天文摄影师Andrew McCarthy（Instagram名@cosmic_background）继续在为人们带来一些壮观的恒星天体照。现在，这双眼睛又一次得到了回报，其可能拍摄了人们所见过的最详细的月球照片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科隆：开放世界生存网游《沙丘：觉醒》预告片](https://hot.cnbeta.com/articles/game/1307909.htm) | Tue Aug 23 2022 7:28 PM 
+- 💂 [Luminovo致力通过新一轮融资推动并减少电子制造过程中的浪费](https://www.cnbeta.com/articles/tech/1308005.htm) | Wed Aug 24 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在2022年科隆展开幕之夜直播上，Funcom公布了开放世界生存网游《沙丘：觉醒》的预告片。《沙丘：觉醒》于去年首次公布，开发灵感来自于Funcom发行的另外一个游戏——《流放者柯南》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;总部位于慕尼黑的电子制造商 Luminovo 刚刚提出了一套 SaaS 解决方案，旨在更好地整合完整生产材料和成本核算流程。&lt;/strong&gt;据悉，尽管电子行业的市场规模高达 5 万亿，但从业者也长期深陷泥潭。好消息是，借助自动化工具来替换流程中的人工部分，它将能够使研发制造人员更专注于其擅长的事务，而不是运行一套容易出错、且无休止的电子文档。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [科隆：《霍格沃茨：遗产》“黑魔法”预告](https://hot.cnbeta.com/articles/game/1307907.htm) | Tue Aug 23 2022 7:27 PM 
+- 🚀 [研究称酒精对男性和女性大脑活动的改变可能是不同的](https://www.cnbeta.com/articles/science/1308003.htm) | Wed Aug 24 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在2022年科隆展开幕之夜直播上，华纳兄弟游戏公布了《霍格沃茨：遗产》的新预告——巴斯蒂安·萨洛的黑暗遗产（Sebastian Sallow&amp;#39;s Dark Legacy）。如果你选择和斯莱特林的学生塞巴斯蒂安·萨洛成为朋友，你将面临接受或拒绝黑魔法的决定，因为你将通过他的同伴任务线揭开他家庭的秘密。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1307907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据最近发表在《&lt;a href=&quot;https://www.eneuro.org/content/9/4/ENEURO.0010-22.2022&quot; target=&quot;_self&quot;&gt;eNeuro&lt;/a&gt;》杂志上的一项研究，&lt;strong&gt;酒精改变了小鼠杏仁核的同步大脑活动，但雄性和雌性小鼠的情况不同。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [新研究：提高大豆光合作用效率可大幅增加产量](https://www.cnbeta.com/articles/science/1307905.htm) | Tue Aug 23 2022 7:24 PM 
+- 🎊 [《龙之家族》主创谈铁王座为何看起来跟《权游》里的不一样](https://hot.cnbeta.com/articles/movie/1308001.htm) | Wed Aug 24 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项新研究说，通过基因改造可以提高大豆光合作用效率，使大豆在质量不变情况下最多可增产33%。光合作用指植物利用光能，将水和二氧化碳转化为有机物并释放氧气的过程。据介绍，遇到过强光照时，植物出于自我保护会激活叶黄素循环，从而使叶片释放多余能量，免受强光侵害；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1307905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;从巨大的龙到掌权的白发家族，周日的《龙之家族》首映呈现了一个不同于观众可能记得的《权力的游戏》中的君临城的版本。在这座城市的新鲜元素中，铁王座是《权力的游戏》中的一个主要元素，现在看起来更宏伟，对占领者来说更危险。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
