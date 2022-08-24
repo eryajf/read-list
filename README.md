@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [因用户未更新固件，超八万台摄像机可能被利用](https://www.freebuf.com/news/342613.html) | Tue Aug 23 2022 3:27 AM 
+- 🦄 [GitLab修复了CEEE版本中一个远程代码执行漏洞](https://www.freebuf.com/news/342725.html) | Wed Aug 24 2022 5:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    DevOps 平台 GitLab 修复了其社区版（CE）和企业版（EE）中出现的一个关键远程代码执行漏洞。 
+    </details> 
+
+- 🦄 [研究显示，滥用SaaS平台的网络钓鱼攻击大幅增长 1100%](https://www.freebuf.com/news/342743.html) | Wed Aug 24 2022 4:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    数据显示，从 2021 年 6 月到 2022 年 6 月，这种滥用行为大幅增加了 1100%。 
+    </details> 
+
+- 🦅 [因用户未更新固件，超八万台摄像机可能被利用](https://www.freebuf.com/news/342613.html) | Tue Aug 23 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
     安全研究人员发现超过八万台摄像机尚未更新固件，容易受到关键命令注入漏洞的影响。 
     </details> 
 
-- 🦄 [黑客利用零日漏洞窃取 General Bytes ATM 机上的加密货币](https://www.freebuf.com/news/342610.html) | Tue Aug 23 2022 3:17 AM 
+- 🪄 [黑客利用零日漏洞窃取 General Bytes ATM 机上的加密货币](https://www.freebuf.com/news/342610.html) | Tue Aug 23 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
     据 The Hacker News 网站披露，比特币 ATM 机制造商 General Bytes 证实其遭到了网络攻击。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 黑客针对比特币的 ATM 制造商; 汽车经销商遭受重大勒索软件攻击](https://www.freebuf.com/news/342595.html) | Tue Aug 23 2022 2:29 AM 
+- 💻 [FreeBuf早报 | 黑客针对比特币的 ATM 制造商; 汽车经销商遭受重大勒索软件攻击](https://www.freebuf.com/news/342595.html) | Tue Aug 23 2022 2:29 AM 
     <details><summary>展开描述 ...</summary> 
     被称为“神秘团队”的威胁参与者使用 Raven Storm 工具对多个目标进行分布式拒绝服务 &lpar;DDoS&rpar; 攻击。 
-    </details> 
-
-- 🪄 [BlackStone：一款功能强大的渗透测试报告工具](https://www.freebuf.com/articles/web/342585.html) | Tue Aug 23 2022 1:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    该工具允许我们在数据库中提交和存储渗透测试过程中发现的漏洞，并通过内部和外部审计来对漏洞进行分类。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 谷歌曝光有史以来最大DDoS攻击；一根USB线就能偷走韩系车](https://www.freebuf.com/news/342571.html) | Mon Aug 22 2022 10:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    近段时间，美国的TikTok和YouTube上兴起了一种所谓的“起亚挑战”，一些现代或起亚的车型只需要一根USB线就可以成功启动。 
     </details> 
 <!-- freebuf:END -->
 
