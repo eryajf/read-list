@@ -439,7 +439,7 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iFixit称苹果的DIY维修计划使MacBook反而看起来不那么好修](https://www.cnbeta.com/articles/tech/1308333.htm) | Wed Aug 24 2022 2:12 PM 
+- 🕯 [iFixit称苹果的DIY维修计划反而使MacBook看起来不那么好修](https://www.cnbeta.com/articles/tech/1308333.htm) | Wed Aug 24 2022 2:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果公司本周将其自助维修计划扩大到配备M1系列芯片的MacBook Air和MacBook Pro机型，为美国的客户提供选择零件、手册和工具来维修笔记本。虽然该计划的扩大对维修权运动是个好消息，但维修指南网站iFixit对该计划的实施并不完全满意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
