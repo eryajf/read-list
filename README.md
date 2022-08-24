@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Word Counter Pro 3.1&lpar;3.1&rpar; 统计用户每天的码字数量](https://xclient.info/s/word-counter-pro.html) | Tue Aug 23 2022 1:43 AM 
+- 🦏 [Sublime Merge 2.0 Build 2077 Git客户端](https://xclient.info/s/sublime-merge.html) | Wed Aug 24 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    Word Counter Pro是一款可以统计用户每天码的字数的软件，非常适合写文的人，并且跨软件。 
+    Sublime Merge 是Sublime Text制作者开发的一款Git客户端。 
     </details> 
 
--  [Yate 6.10.5.3 音频文件标签小工具](https://xclient.info/s/yate.html) | Tue Aug 23 2022 1:42 AM 
+-  [PDF Reader Pro 2.8.16 PDF 文档阅读编辑批注](https://xclient.info/s/pdf-reader-pro.html) | Wed Aug 24 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
+    PDF Reader Pro是一款Mac平台的PDF文档阅读编辑器，除了可以进行 PDF 文档阅读以外，你还可以对文档进行备注、编辑、标注等，还可以添加笔记和书签，如果想要演示的话，还可以配合遥控来进行演示。 
     </details> 
 
-- ⚗️ [DoubleTake 2.6.9&lpar;1064&rpar; 全景照片拼接](https://xclient.info/s/doubletake.html) | Tue Aug 23 2022 1:41 AM 
+- ⚗️ [NoteList 4.3.3 基于文档的数据存储工具](https://xclient.info/s/notelist.html) | Wed Aug 24 2022 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-    DoubleTake 是一款Mac平台的照片全景拼图工具，可以直接将图片拖拽到视图中进行编辑图片重叠部分会自动融合最后合并成为一张全景图像，还支持将iphoto 和 Aperture 中的图片进行拖拽。 
+    NoteList是一个存储数据的应用程序，可以使用自由格式的文本和全文字处理能力的图片。 
     </details> 
 
-- 🔥 [Darkroom 6.0.7 照片和视频编辑器](https://xclient.info/s/darkroom.html) | Tue Aug 23 2022 1:40 AM 
+- 🔥 [Sketch 92 轻量易用的矢量设计工具](https://xclient.info/s/sketch.html) | Wed Aug 24 2022 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-    Darkroom 是一款高级照片和视频编辑应用，不仅为普通摄影爱好者提供了易于上手的操作，同时亦为专业摄影师提供了各种强大功能。 
+    Sketch（App Store 精华） 是最强大的移动应用矢量绘图设计工具，对于网页设计和移动设计者来说，比PhotoShop好用N倍！尤其是在移动应用设计方面，Sketch 3 的优点在于使用简单，学习曲线低，并且功能更加强大易用。能够大大节省设计师的时间和工作量，非常适合进行网站设计、移动应用设计、图标设计等 
     </details> 
 
-- 🌋 [SQLPro Studio 2022.52 多数据库管理工具](https://xclient.info/s/sqlpro-studio.html) | Tue Aug 23 2022 1:28 AM 
+- 🌋 [IconJar 2.11.1 图标素材管理工具](https://xclient.info/s/iconjar.html) | Wed Aug 24 2022 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-    SQLPro Studio 是一款十分实用的数据库管理软件，该软件能够帮助用户快速智能的管理数据库的各种资料与文件，操作简单，能够更好的帮助用户及时管理数据库，欢迎有需要的用户下载使用。 
+    IconJar 是一个可以帮助设计师搜索、收集、管理的素材工具，可以极大的提高设计师们的素材库使用效率，减少寻找有效素材的时间，提高工作效率 
     </details> 
 <!-- xclient:END -->
 
