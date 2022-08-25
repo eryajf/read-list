@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [读写速度过万兆 PCIe5.0固态的时代到来了吗？](https://www.cnbeta.com/articles/tech/1308593.htm) | Thu Aug 25 2022 6:33 AM 
+- 🕯 [特斯拉Dojo超算细节大公开：涉及指令集结构、数据格式等](https://www.cnbeta.com/articles/tech/1308609.htm) | Thu Aug 25 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔发布酷睿12的时候，也捎带手正式的把PCIe5.0带到了PC上。然而这一高速的接口，目前还比较尴尬，那就是设备极少，包括现在都主流显卡，还都是PCIe4.0的……最有希望率先大规模应用的NVme固态硬盘也迟迟没有太多声音，好在现在终于有了产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉备受关注的Dojo超算指令集结构细节史上首次大公开！而且还大秀了一把Dojo的数据格式、系统网络，以及软件系统绕行死节点的能力。关于特斯拉自研的AI芯片D1，更多细节也被披露。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [成都限电 蔚来车主满电换回没电电池“小赚”一笔](https://www.cnbeta.com/articles/tech/1308591.htm) | Thu Aug 25 2022 6:32 AM 
+- 💼 [黄仁勋疯狂暗示RTX 40显卡下月发 是否涨价成谜](https://www.cnbeta.com/articles/tech/1308607.htm) | Thu Aug 25 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近段时间，受近日高温天气影响，四川、重庆等地电力供需紧张，两地先后发布了限电措施以保障正常生活。为响应政府有序用电号召，多家车企位于川渝的工厂相继停产。除整车制造外，地区内汽车产业链企业及新能源充电桩服务也受到影响，特斯拉、小鹏、蔚来等车企的部分充电设施暂停服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA今天发布了23财年Q2季度财报，游戏业务下滑了33%，是什么原因导致的大家也都狠清楚，接下来RTX 30系列依然会有清库存的压力，不过RTX 40系显卡今年还是要发的。在电话会议上，NVIDIA CEO黄仁勋几乎明确了新一代架构显卡下个月发布的消息，&lt;strong&gt;因为9月20日有NVIDIA的GTC大会，他会在这次大会上公布RTX显卡重塑3D图形及游戏的最新进展。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [17岁少年获最年轻独自环球飞行认证 飞过五大洲52个国家](https://www.cnbeta.com/articles/tech/1308589.htm) | Thu Aug 25 2022 6:21 AM 
+- 💂 [15年前经典国漫！《中华小子》高清重置版全平台上线](https://hot.cnbeta.com/articles/comic/1308605.htm) | Thu Aug 25 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;年仅17岁的保加利亚少年Mack Rutherford,本周三驾驶着一架轻型飞机降落在保加利亚首都索菲亚一个机场，标志着始于今年3月23日的独自环飞全球的行程顺利结束。此次航行结束，他将创造两项吉尼斯世界纪录，&lt;strong&gt;包括最年轻独自驾机环游全球以及最年轻独自驾驶超轻型飞机环球纪录。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月25日消息，今日，&lt;strong&gt;国产古风武侠系列《中华小子》高清重置版正式在全平台上线，每周一、周四早10点更新。&lt;/strong&gt;据介绍，这部经典国漫于2007年登陆央视，在15周年之际，高清重置版强势回归。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1308605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [5G低时延对手机用户影响甚微 优质4G也能实现良好体验](https://www.cnbeta.com/articles/tech/1308587.htm) | Thu Aug 25 2022 6:18 AM 
+- 🚀 [Starlink大幅下调了部分市场区域的卫星互联网服务月费](https://www.cnbeta.com/articles/tech/1308603.htm) | Thu Aug 25 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“高速率、低时延、广连接”在5G商用初期一直被用作宣传口号，只要稍有科技常识，就能明了其中的含义。当年，甚至有FCC委员表示可以把5G网络的广告词设计为“吃鸡网络”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;赶在与 T-Mobile 合办一场活动之前，SpaceX 宣布了将下调星链（Starlink）卫星互联网接入月费的喜讯。&lt;/strong&gt;根据不同的市场区域，本次调价的幅度也不尽相同。比如在荷兰地区，原先 124 欧元的移动版（Starlink RV）月费，已从本周三起下调至 105 欧元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [英媒：远程办公并未让职场欺凌走开 职业欺凌也走向远程](https://www.cnbeta.com/articles/tech/1308585.htm) | Thu Aug 25 2022 6:15 AM 
+- 🎊 [Astrobotic的CubeRover将尝试在极寒且漫长的月夜中生存](https://www.cnbeta.com/articles/science/1308601.htm) | Thu Aug 25 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英国广播公司（BBC）8月22日文章，原题：职场欺凌如何走向远程 起初，乔伊斯并未察觉到工作场所的欺凌。多年来，公司基本上都是远程办公，她没有感觉到来自同事的人身威胁。这位住在英格兰东部的通信工作者说：“我印象中的欺凌是传统的那种，即有人当面惹事。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;总部位于匹兹堡的 Astrobotic，将在美国宇航局的帮助下把名为 CubeRover 的平台送上月球，以测试在月球表面的远距通信技术。&lt;/strong&gt;另一方面，月夜相当漫长且寒冷 —— 一次长达 14 天，且温度会骤降到 -200℉ 以下 —— 所以 CubeRover 必须证明其在严酷环境下的生存能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
