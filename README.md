@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [BOSE即将发布QuietComfort Earbuds II真无线降噪耳塞](https://www.cnbeta.com/articles/tech/1308729.htm) | Thu Aug 25 2022 3:16 PM 
+- 🕯 [谷歌可折叠手机专利曝光 类似Galaxy Fold设计有边框摄像头](https://www.cnbeta.com/articles/tech/1308751.htm) | Thu Aug 25 2022 4:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;时隔两年时间，“降噪之王”BOSE的新款入耳式真无线消噪耳机QuietComfort Earbuds II终于要来了。爆料显示，新耳机的体积明显小了一圈，不再像上一代那样特别突兀。颜色有黑色和白色款，带有无线充电盒，USB-C接口充电等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;谷歌一款可折叠手机出现在一份专利申请中，其设计与三星Galaxy Fold相似。&lt;/strong&gt;该专利是在WIPO（世界知识产权组织）提交的。它是在2021年6月提交的，今天早些时候被公布。谷歌可折叠手机预计将在今年晚些时候推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [画面表现超越国际水平：《新神榜：杨戬》票房破2亿](https://hot.cnbeta.com/articles/movie/1308727.htm) | Thu Aug 25 2022 3:15 PM 
+- 💼 [iPhone 14 Pro的紫色和深蓝色机壳出现在模型上](https://www.cnbeta.com/articles/tech/1308749.htm) | Thu Aug 25 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，&lt;strong&gt;《新神榜：杨戬》官方宣布，影片的票房突破2亿。&lt;/strong&gt;根据灯塔专业版提供的数据，&lt;strong&gt;截止今天12点42分32秒，《新神榜：杨戬》的累积票房达到2亿，累积观影人数则达到了475万。&lt;/strong&gt;虽然比起此前2天突破1亿票房的表现已经有所放缓，但上映7天就达到2亿票房依旧是相当罕见的壮举。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在苹果公司9月7日的发布会上公布iPhone 14阵容之前，来自亚洲的一波模型声称展示了iPhone 14 Pro的颜色选择，包含新的蓝色和紫色表面的机身。&lt;/strong&gt;iPhone 14 Pro模型的图片今天早些时候首先在微博上分享，显示了近几年类似的金色、石墨色和银色的颜色选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [分析师：PS5涨价对销量的影响微乎其微](https://hot.cnbeta.com/articles/game/1308725.htm) | Thu Aug 25 2022 3:04 PM 
+- 💂 [iPhone 14 Pro显示屏打孔和状态栏图标现身](https://www.cnbeta.com/articles/tech/1308747.htm) | Thu Aug 25 2022 3:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;数据和分析公司Ampere Analysis预测，新公布的PS5涨价对销量的影响“微乎其乎”。本周四，索尼以“富有挑战性的全球经济环境”为由，表示已“做出了艰难的决定”，在欧洲、日本和北美部分地区（不含美国）上调PS5的价格。该决定立即生效。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在苹果宣布将于9月7日星期三举行发布会活动后，从亚洲传出的几个据称是泄露的信息展示了iPhone 14 Pro的显示屏打孔和状态栏项目。&lt;strong&gt;Twitter用户&amp;quot;DuanRui&amp;quot;今天分享了来自中国社交媒体网站微博的几张图片，其中一张似乎显示了iPhone 14 Pro的&amp;quot;药丸和打孔&amp;quot;TrueDepth相机模组打孔的特写图，这些切口有望取代iPhone屏幕上方现有沿用多年的刘海。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《微软飞行模拟40周年版》公布 今年双11发售](https://hot.cnbeta.com/articles/game/1308723.htm) | Thu Aug 25 2022 3:04 PM 
+- 🚀 [Apple Watch继续统领不断增长的全球智能手表市场](https://www.cnbeta.com/articles/tech/1308745.htm) | Thu Aug 25 2022 3:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;正在直播的Xbox科隆发布会上，微软公布了《微软飞行模拟40周年版》，支持免费更新，将于2022年11月11日发售。40周年版更新将带来12架新飞机，12个直升机机场，12个滑翔机机场，6个经典商业机场和20个历史系列任务，首发登陆Xbox Game Pass。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在不断增长的全球智能手表市场中，Apple Watch继续占据主导地位，其市场份额是其最接近的竞争对手三星的三倍以上。新的研究称，与2021年同期相比，2022年第二季度全球智能手表的销售量增长了13%，2022年第一季度的销售额同样同比增长13%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [海盗船公布45寸OLED显示器 可调屏幕曲率](https://www.cnbeta.com/articles/tech/1308721.htm) | Thu Aug 25 2022 3:04 PM 
+- 🎊 [RTX 40马上发布 黄仁勋：将与供应商一起调整价格全力清库存](https://www.cnbeta.com/articles/tech/1308743.htm) | Thu Aug 25 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美商海盗船（Corsair）宣布，推出XENEON FLEX 45WQHD240 OLED游戏显示器。美商海盗船表示，这是一款与LG密切合作打造的曲面游戏显示器，采用了最新的W-OLED技术，提供出色的图像质量和响应时间，最具革命性的一点是：玩家可自行手动调整显示器的曲率，范围从平面到800R曲率之间，几秒钟内就能完成操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;下降的业绩与游戏业务收入疲软有关。&lt;strong&gt;根据财报，二季度NV游戏营收为20.4亿美元，同比下降33%，降幅超过公司自身预期。游戏业务营收大幅下滑是因为游戏产品销量下降，这些产品主要是用于电脑的显卡。&lt;/strong&gt;面对上述情况，NV表示，除了减少销售外，公司还实施了渠道定价计划，将与供应商一起调整价格，以应对该行业的“具有挑战性的市场环境”，预计将持续到第三季度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
