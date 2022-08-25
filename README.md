@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SpringBoot Actuator未授权访问漏洞修复](https://juejin.cn/post/7135671896468619278) | Thu Aug 25 2022 4:53 AM 
+- 🤗 [第一弹 多分辨率知识蒸馏的异常检测](https://juejin.cn/post/7135697866902732808) | Thu Aug 25 2022 6:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    作者：陈亦新（欢迎交流共同进步） 联系方式：微信cyx645016617 Multiresolution Knowledge Distillation for Anomaly Detection [T 
+    </details> 
+
+- 🎡 [构建webpack5.x 知识体系：6、升级5.x遇到坑总结](https://juejin.cn/post/7135693176878628894) | Thu Aug 25 2022 6:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇主要是webpack4.x升级到5.x会遇到的坑的总结~~其实在前面系列的分享中，都分享到过，在此篇呢，主要总结一下，对于如果是项目中遇到问题了，哎，直接来着查查看，是什么问题就知道怎么改了~ \ 
+    </details> 
+
+- 🕯 [Swift - LeetCode - 移动零](https://juejin.cn/post/7135687849487597598) | Thu Aug 25 2022 5:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情  题目 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序。  
+    </details> 
+
+- 🚀 [使用 Elastic 8.4 搜索、解决问题并取得成功](https://juejin.cn/post/7135685509275189279) | Thu Aug 25 2022 5:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    作者：Dan Courcy 今天，我们很高兴地宣布推出全球领先的搜索驱动解决方案平台的最新版本，并全面推出 Elastic 8.4。 Elastic 8.4 为 Elastic Search Plat 
+    </details> 
+
+- 💪 [SpringBoot Actuator未授权访问漏洞修复](https://juejin.cn/post/7135671896468619278) | Thu Aug 25 2022 4:53 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 1.写在前面 目前SpringBoot得框架，越来越广泛，大多数中小型企业，在开发新项目得时候。后端语言 
-    </details> 
-
-- 🎡 [鲜为人知但很有用的 HTML 属性](https://juejin.cn/post/7135671832564203533) | Thu Aug 25 2022 4:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 11 天，点击查看活动详情 &gt;&gt; HTML 是 Web 开发的基石，下面来分享一些鲜为人知但很有用的 HTML 属性！ 1. i 
-    </details> 
-
-- 🕯 [一文彻底理解Go语言栈内存/堆内存](https://juejin.cn/post/7135670650353483783) | Thu Aug 25 2022 4:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将从如下6个方向层层递进，帮助大家彻底理解Go语言的栈内存和堆内存。 - 计算机为什么需要内存？ - 为什么需要栈内存？ - 为什么需要堆内存？ - Go语言分配的是虚拟内存 - Go语言栈内存 
-    </details> 
-
-- 🚀 [Rust 入门实战系列（6）- 函数和注释](https://juejin.cn/post/7135669447053803527) | Thu Aug 25 2022 4:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天我们来学习 Rust 中的函数，最后会捎带介绍一下如何在 Rust 中写注释。也是比较轻量级的一节，大家快速过一下即可。 
-    </details> 
-
-- 💪 [软考高级《系统架构设计师》-- 系统架构师及其能力素养  笔记](https://juejin.cn/post/7135667139587309604) | Thu Aug 25 2022 4:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 一个程序猿，绝不会因为看了几本架构的书，或者参加并通过一个架构师的考试，就成为一个合格的架构师。 但是在此之前，我们可以先了解架构师相关概念和具备的基本素质，以此来激励以后的学习。并给以后的学习 
     </details> 
 <!-- juejin:END -->
 ### 少数派
