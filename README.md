@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [推特泄密者，帮了马斯克一把](https://www.cnbeta.com/articles/tech/1308703.htm) | Thu Aug 25 2022 2:06 PM 
+- 🕯 [BOSE即将发布QuietComfort Earbuds II真无线降噪耳塞](https://www.cnbeta.com/articles/tech/1308729.htm) | Thu Aug 25 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;马斯克想要睡觉，有人递上了枕头。对这位世界首富而言，皮特·扎克特（Peiter Zakto）的举报是让他从诉讼战中脱身的一个有利信号。此前，他试图以440亿美元收购推特，却又在3个月的时间内后悔了自己所做的决定，理由是推特上的机器人帐户不够透明。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;时隔两年时间，“降噪之王”BOSE的新款入耳式真无线消噪耳机QuietComfort Earbuds II终于要来了。爆料显示，新耳机的体积明显小了一圈，不再像上一代那样特别突兀。颜色有黑色和白色款，带有无线充电盒，USB-C接口充电等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [以太坊“合并”9月6日启动 完成后将告别工作量证明挖矿](https://www.cnbeta.com/articles/tech/1308701.htm) | Thu Aug 25 2022 2:04 PM 
+- 💼 [画面表现超越国际水平：《新神榜：杨戬》票房破2亿](https://hot.cnbeta.com/articles/movie/1308727.htm) | Thu Aug 25 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;世界第二大加密货币以太币&lpar;ETH&rpar;背后的区块链网络以太坊，将在9月6日开始正式“合并”。当地时间8月24日，以太坊基金会发布博客称：“经过多年的努力，以太坊的权益证明（PoS）升级终于来了！所有公共测试网的成功升级现已完成，以太坊主网的合并已在安排。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，&lt;strong&gt;《新神榜：杨戬》官方宣布，影片的票房突破2亿。&lt;/strong&gt;根据灯塔专业版提供的数据，&lt;strong&gt;截止今天12点42分32秒，《新神榜：杨戬》的累积票房达到2亿，累积观影人数则达到了475万。&lt;/strong&gt;虽然比起此前2天突破1亿票房的表现已经有所放缓，但上映7天就达到2亿票房依旧是相当罕见的壮举。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [DuckDuckGo的@duck.com隐私保护电子邮件地址全面开放注册](https://www.cnbeta.com/articles/tech/1308699.htm) | Thu Aug 25 2022 12:07 PM 
+- 💂 [分析师：PS5涨价对销量的影响微乎其微](https://hot.cnbeta.com/articles/game/1308725.htm) | Thu Aug 25 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在去年推出私人测试版的电子邮件保护服务后，DuckDuckGo宣布它终于向所有用户开放了。DuckDuckGo电子邮件保护是一项转发服务，它为你分配一个免费的&amp;quot;@duck.com&amp;quot;电子邮件地址，并在电子邮件进入你的个人收件箱之前拦截跟踪者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;数据和分析公司Ampere Analysis预测，新公布的PS5涨价对销量的影响“微乎其乎”。本周四，索尼以“富有挑战性的全球经济环境”为由，表示已“做出了艰难的决定”，在欧洲、日本和北美部分地区（不含美国）上调PS5的价格。该决定立即生效。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Twitter吹哨人扎特科将在国会就令人震惊的安全事件作证](https://www.cnbeta.com/articles/tech/1308697.htm) | Thu Aug 25 2022 11:59 AM 
+- 🚀 [《微软飞行模拟40周年版》公布 今年双11发售](https://hot.cnbeta.com/articles/game/1308723.htm) | Thu Aug 25 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据《华盛顿邮报》报道，Twitter的前安全主管扎特科（Peiter&amp;quot;Mudge&amp;quot;Zatko）将于下个月在国会作证，此前他公开了对这家社交媒体公司的安全行为和试图误导监管机构的严厉指控。扎特科将在9月13日的听证会上发言，预计将讨论他在申诉中提出的隐私和国家安全问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;正在直播的Xbox科隆发布会上，微软公布了《微软飞行模拟40周年版》，支持免费更新，将于2022年11月11日发售。40周年版更新将带来12架新飞机，12个直升机机场，12个滑翔机机场，6个经典商业机场和20个历史系列任务，首发登陆Xbox Game Pass。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究发现补充维生素D可以降低深色皮肤人群的心脏病风险](https://www.cnbeta.com/articles/science/1308695.htm) | Thu Aug 25 2022 11:46 AM 
+- 🎊 [海盗船公布45寸OLED显示器 可调屏幕曲率](https://www.cnbeta.com/articles/tech/1308721.htm) | Thu Aug 25 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据新的研究，一个简单的步骤可以帮助数百万人降低他们患心脏病的风险：那就是确保获得足够的维生素D。结合以前的研究证据，新研究表明，维生素D的缺乏可能导致非裔美国人的高心脏病率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美商海盗船（Corsair）宣布，推出XENEON FLEX 45WQHD240 OLED游戏显示器。美商海盗船表示，这是一款与LG密切合作打造的曲面游戏显示器，采用了最新的W-OLED技术，提供出色的图像质量和响应时间，最具革命性的一点是：玩家可自行手动调整显示器的曲率，范围从平面到800R曲率之间，几秒钟内就能完成操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
