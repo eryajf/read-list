@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Android Automotive 13发布：优化后台性能](https://www.cnbeta.com/articles/tech/1308655.htm) | Thu Aug 25 2022 9:18 AM 
+- 🕯 [领先台积电也没戏 三星3nm工艺遭遇尴尬：大客户都没用](https://www.cnbeta.com/articles/tech/1308675.htm) | Thu Aug 25 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本月早些时候，Google 开始为符合条件的 Pixel 设备推广 Android 13 系统，现在该公司再次推出 Android Automotive 13。和 Android 13 不同，Android Automotive 13 的更新幅度并不是很大，主要集中在后台性能的优化和 BUG 的修复上面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在先进工艺竞争上，三星跟台积电一直是领先的两家，而且这两家公司可谓一时瑜亮，三星最近10年被台积电各种压制，直到6月底的3nm工艺上三星终于搬回了一局，抢先量产3nm，而且是GAA晶体管技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [技巧：如何启用Windows 11设置应用新动画特效](https://www.cnbeta.com/articles/tech/1308653.htm) | Thu Aug 25 2022 9:09 AM 
+- 💼 [索尼Xperia全球发布会定档9月1日 Xperia 5 Ⅳ即将亮相](https://www.cnbeta.com/articles/tech/1308673.htm) | Thu Aug 25 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在今天发布的 Windows 11 Build 25188 预览版更新中，虽然缺乏新的功能，但在细节方面引入了令人愉快的 UI 改进。根据拉斐尔·里维拉（Rafael Rivera）网友爆料，微软正在设置应用中测试图标动画。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今天，索尼官方宣布，将在北京时间9月1日15:00举行Xperia全球发布会&lt;/strong&gt;，Slogan为“灵感随身，精巧随行”。不出意外，&lt;strong&gt;Xperia 5 Ⅳ等新品将在发布会上亮相。&lt;/strong&gt;目前，索尼Xperia 5 Ⅳ已经通过了FCC认证，从信息来看，这款产品长155.74mm，哭咽67.1mm，与此前的Xperia 5 III相比，要更短更窄一些。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NASA科学家探测暗能量--是时候重写爱因斯坦的引力理论了？](https://www.cnbeta.com/articles/science/1308651.htm) | Thu Aug 25 2022 9:08 AM 
+- 💂 [中国首位数字人CEO诞生 唐钰轮值网龙公司CEO](https://www.cnbeta.com/articles/tech/1308671.htm) | Thu Aug 25 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;天体物理学中最大的谜题之一可以通过重写爱因斯坦的引力理论来解决吗？根据美国宇航局（NASA）科学家共同撰写的一项新研究，现在还不行。&lt;/strong&gt;宇宙正在加速膨胀，而物理学家不知道为什么。这一现象似乎与科学家们所了解的关于引力对宇宙的影响的一切相矛盾：这就像你把一个苹果扔到空中，它没有回落，而是继续向上，速度越来越快。宇宙加速的原因，被称为暗能量，仍然是一个谜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天下午，主打游戏的网龙网络公司发布了一份特殊的CEO任命，&lt;strong&gt;AI机器人唐钰成为了该公司的轮值CEO，这也是已知的中国首位数字人CEO。&lt;/strong&gt;根据官方公告，经公司研究决定，现任命唐钰担任网龙轮值CEO，负责组织管理事务及战略执行，通过构建元宇宙组织，持续优化组织模式、提升管理效率、深化人才策略。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [权游衍生剧《龙之家族》豆瓣8.7：演员颜值是扣分项](https://hot.cnbeta.com/articles/movie/1308649.htm) | Thu Aug 25 2022 9:06 AM 
+- 🚀 [技术图表发出不利信号 比特币恐将迎来又一波跌势](https://www.cnbeta.com/articles/tech/1308669.htm) | Thu Aug 25 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;权游衍生剧《龙之家族》已于本月21日开播，目前该剧在豆瓣的评分已解禁，为8.7分。从观众的评价来看，目前首播集的质量不亚于《权利的游戏》，剧情、特效、美术水平都堪称顶级，且非常“写实”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果一系列技术指标发出的信号正确，那么全球最大加密货币可能将迎来又一波跌势。比特币年初以来已回撤超过50%，最近受货币政策趋紧的大环境影响，一直在19000-25000美元左右的区间内波动。周四伦敦时间06：51，比特币变动不大，报21566美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [AMD Zen 4锐龙性能跑分抢先看：这成绩对比13代酷睿让人不淡定](https://www.cnbeta.com/articles/tech/1308647.htm) | Thu Aug 25 2022 9:03 AM 
+- 🎊 [不再有针头：可吸入的COVID-19疫苗显示出良好的前景](https://www.cnbeta.com/articles/science/1308667.htm) | Thu Aug 25 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;下周，AMD就将正式发布Zen 4锐龙7000处理器。看起来这次保密工作不错，至今也没有很多ES/QS散片流出。不过，B站Up主EP极致玩家堂分享了手头一颗神秘Zen4芯片的跑分成绩，测试软件是Cinebench R20，识别为锐龙7 7700X，8核16线程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北卡罗来纳州立大学的研究人员已经创造了一种可吸入的COVID-19疫苗，可由患者自己使用吸入器进行接种，并可在室温下保持稳定，最长可达3个月。这种疫苗的递送机制被称为LSC-Exo的肺源性外泌体，被证明比目前利用的基于脂质的纳米颗粒更成功地避开了肺部粘膜，并能与基于蛋白质的疫苗有效配合。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
