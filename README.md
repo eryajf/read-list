@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [从WPS到百度网盘，我们真的“活在监控之下”？](https://www.freebuf.com/news/342875.html) | Thu Aug 25 2022 5:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    两次事件再次勾起了网友那些埋藏深底的，对个人隐私安全深深的忧虑，内容安全和隐私保护的边界又在哪里? 
+    </details> 
+
 - 🦄 [谷歌发现伊朗黑客新工具，可窃取Gmail、雅虎、Outlook等电子邮件账户](https://www.freebuf.com/news/342863.html) | Thu Aug 25 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
     Charming Kitten在其恶意软件库中增加了一个新工具，可以从Gmail、雅虎和微软Outlook账户中检索用户数据。 
     </details> 
 
-- 🦄 [多米尼加共和国政府机构遭受勒索软件攻击](https://www.freebuf.com/news/342859.html) | Thu Aug 25 2022 3:46 AM 
+- 🦅 [多米尼加共和国政府机构遭受勒索软件攻击](https://www.freebuf.com/news/342859.html) | Thu Aug 25 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
     多米尼加共和国的多米尼加农业研究所（Instituto Agrario Dominicano）遭到了 Quantum 勒索软件的疯狂攻击。 
     </details> 
 
-- 🦅 [恶意程序正潜入盗版3DMark等软件进行传播](https://www.freebuf.com/news/342855.html) | Thu Aug 25 2022 3:19 AM 
+- 🪄 [恶意程序正潜入盗版3DMark等软件进行传播](https://www.freebuf.com/news/342855.html) | Thu Aug 25 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     这些恶意盗版软件网站在Google上还有着十分靠前的搜索排名。 
     </details> 
 
-- 🪄 [如何使用MrKaplan在红队活动中隐藏和清理代码执行痕迹](https://www.freebuf.com/articles/system/342833.html) | Thu Aug 25 2022 12:12 AM 
+- 💻 [如何使用MrKaplan在红队活动中隐藏和清理代码执行痕迹](https://www.freebuf.com/articles/system/342833.html) | Thu Aug 25 2022 12:12 AM 
     <details><summary>展开描述 ...</summary> 
     MrKaplan可以帮助广大红队研究人员清理和隐藏活动中的代码执行痕迹。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 美国拟立法禁止采购有漏洞软件；微软披露ChromeOS 漏洞细节](https://www.freebuf.com/articles/342801.html) | Wed Aug 24 2022 10:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    软件供应商应保证“提交软件物料清单中列出的所有项目，均不存在影响最终产品或服务安全性的已知漏洞或缺陷，并给出证明。 
     </details> 
 <!-- freebuf:END -->
 
