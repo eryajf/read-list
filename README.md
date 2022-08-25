@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [一日一技 | WSA 定制安装，找回你需要的 Google 服务和 Magisk](https://sspai.com/post/75351) | Thu Aug 25 2022 6:30 AM 
+- 👹 [甜味剂解密 2：关于代糖的几点迷思](https://sspai.com/post/75350) | Thu Aug 25 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    代糖是什么？我们是怎么吃出来甜味的？无糖可乐为什么味道不大一样？这篇文章告诉你。&lt;a href=&quot;https://sspai.com/post/75350&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [一日一技 | WSA 定制安装，找回你需要的 Google 服务和 Magisk](https://sspai.com/post/75351) | Thu Aug 25 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     让 Magisk 和 Google 服务继续跑在 Windows 的 Android 系统上。&lt;a href=&quot;https://sspai.com/post/75351&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [Matrix Talk | 咖啡馆 or 自己家，你会选择在哪里写作](https://sspai.com/post/75328) | Thu Aug 25 2022 3:30 AM 
+- 🤭 [Matrix Talk | 咖啡馆 or 自己家，你会选择在哪里写作](https://sspai.com/post/75328) | Thu Aug 25 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     你每天看到的少数派文章都是在哪诞生的&lt;a href=&quot;https://sspai.com/post/75328&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：Apple 或将直接推出 iPadOS 16.1、索尼发布新款游戏手柄等](https://sspai.com/post/75347) | Thu Aug 25 2022 12:38 AM 
+- 🥸 [派早报：Apple 或将直接推出 iPadOS 16.1、索尼发布新款游戏手柄等](https://sspai.com/post/75347) | Thu Aug 25 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
     Fitbit 推出多款可穿戴新品、Aqara 推出妙控开关 S1E、淘宝 PC 版迎来更新等。&lt;a href=&quot;https://sspai.com/post/75347&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [付费栏目开学季促销开启: 重磅上新，限时折扣，还有免费加更](https://sspai.com/post/75334) | Wed Aug 24 2022 10:39 AM 
+- 🙉 [付费栏目开学季促销开启: 重磅上新，限时折扣，还有免费加更](https://sspai.com/post/75334) | Wed Aug 24 2022 10:39 AM 
     <details><summary>展开描述 ...</summary> 
     ⏰活动时间：8月24日~9月4日🎁活动内容限时折扣：12个付费栏目参与本次活动，最低6折起，少数派会员可使用麦亏券享受折上折；新系列开启：《经验卷轴：如何上手学术论文写作》上架优惠中；加量不加价：《1 ...&lt;a href=&quot;https://sspai.com/post/75334&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [经验就是力量，用二十余年的科研经验带你入门学术写作](https://sspai.com/post/75332) | Wed Aug 24 2022 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为「经验卷轴」系列的第一款栏目，我们对王树义老师（玉树芝兰）主理的《科研新手全面入坑指南》进行了全面内容更新，并加入工具分享、答疑直播等活动，让王老师用自己二十余年的学术生涯经验，带你入门学术写作。&lt;a href=&quot;https://sspai.com/post/75332&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
