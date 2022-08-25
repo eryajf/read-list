@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [领先台积电也没戏 三星3nm工艺遭遇尴尬：大客户都没用](https://www.cnbeta.com/articles/tech/1308675.htm) | Thu Aug 25 2022 10:10 AM 
+- 🕯 [调查称七成观众愿接受付费直播大结局](https://hot.cnbeta.com/articles/movie/1308681.htm) | Thu Aug 25 2022 11:15 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;还记得去年引发热议的超前点播吗？它可能又要回来了。日前，中国消费者报发布《2022长视频平台用户满意度报告》。&lt;strong&gt;其中显示七成以上消费者愿意为优质内容买单，更倾向于开通半年以上时长的会员。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [3万元检测33款酸奶：哪些低糖、营养又美味？](https://www.cnbeta.com/articles/tech/1308679.htm) | Thu Aug 25 2022 11:14 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;这个夏天，说“雪糕刺客”的人很多，但不知道你有没有发现，酸奶也&lt;strong&gt;越来越贵&lt;/strong&gt;了。一盒“普通酸奶”标 价五六块 ，只属于稀松平常，贵的酸奶和便宜的酸奶，价差可以高达&lt;strong&gt;20倍&lt;/strong&gt;。与雪糕不同，酸奶在很多家庭里，都属于 离不开的营养品。而 他们选择这些售价更高的酸奶的原因，主要是：“没有花里胡哨的添加剂”“觉得营养会更好”“更健康，当做&lt;strong&gt;减肥食品&lt;/strong&gt;买的”……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [川渝电动车充电难，虚拟电厂能解限电之急吗？](https://www.cnbeta.com/articles/tech/1308677.htm) | Thu Aug 25 2022 11:09 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“没有电，充不了，都充不了。”几辆车正稀疏地停放在成都市某新能源汽车充电站里，一位司机走下车，对刚进来的司机摆了摆手：“这充不了，我的车已经一点电都没了，只有停到这，到处都找不到有电的。”两位司机靠在车旁，默不作声地思考着下一站去哪里找电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [领先台积电也没戏 三星3nm工艺遭遇尴尬：大客户都没用](https://www.cnbeta.com/articles/tech/1308675.htm) | Thu Aug 25 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在先进工艺竞争上，三星跟台积电一直是领先的两家，而且这两家公司可谓一时瑜亮，三星最近10年被台积电各种压制，直到6月底的3nm工艺上三星终于搬回了一局，抢先量产3nm，而且是GAA晶体管技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [索尼Xperia全球发布会定档9月1日 Xperia 5 Ⅳ即将亮相](https://www.cnbeta.com/articles/tech/1308673.htm) | Thu Aug 25 2022 10:09 AM 
+- 🎊 [索尼Xperia全球发布会定档9月1日 Xperia 5 Ⅳ即将亮相](https://www.cnbeta.com/articles/tech/1308673.htm) | Thu Aug 25 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;今天，索尼官方宣布，将在北京时间9月1日15:00举行Xperia全球发布会&lt;/strong&gt;，Slogan为“灵感随身，精巧随行”。不出意外，&lt;strong&gt;Xperia 5 Ⅳ等新品将在发布会上亮相。&lt;/strong&gt;目前，索尼Xperia 5 Ⅳ已经通过了FCC认证，从信息来看，这款产品长155.74mm，哭咽67.1mm，与此前的Xperia 5 III相比，要更短更窄一些。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [中国首位数字人CEO诞生 唐钰轮值网龙公司CEO](https://www.cnbeta.com/articles/tech/1308671.htm) | Thu Aug 25 2022 10:07 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天下午，主打游戏的网龙网络公司发布了一份特殊的CEO任命，&lt;strong&gt;AI机器人唐钰成为了该公司的轮值CEO，这也是已知的中国首位数字人CEO。&lt;/strong&gt;根据官方公告，经公司研究决定，现任命唐钰担任网龙轮值CEO，负责组织管理事务及战略执行，通过构建元宇宙组织，持续优化组织模式、提升管理效率、深化人才策略。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [技术图表发出不利信号 比特币恐将迎来又一波跌势](https://www.cnbeta.com/articles/tech/1308669.htm) | Thu Aug 25 2022 10:06 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如果一系列技术指标发出的信号正确，那么全球最大加密货币可能将迎来又一波跌势。比特币年初以来已回撤超过50%，最近受货币政策趋紧的大环境影响，一直在19000-25000美元左右的区间内波动。周四伦敦时间06：51，比特币变动不大，报21566美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [不再有针头：可吸入的COVID-19疫苗显示出良好的前景](https://www.cnbeta.com/articles/science/1308667.htm) | Thu Aug 25 2022 9:53 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北卡罗来纳州立大学的研究人员已经创造了一种可吸入的COVID-19疫苗，可由患者自己使用吸入器进行接种，并可在室温下保持稳定，最长可达3个月。这种疫苗的递送机制被称为LSC-Exo的肺源性外泌体，被证明比目前利用的基于脂质的纳米颗粒更成功地避开了肺部粘膜，并能与基于蛋白质的疫苗有效配合。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
