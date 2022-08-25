@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [用的同样的面粉，为什么店里卖的馒头特别白，自家做的就黄乎乎的？](http://daily.zhihu.com/story/9752086) | Wed Aug 24 2022 12:27 AM
-- 🐻 [大多绿色水果为什么总给人一种很酸的感觉？](http://daily.zhihu.com/story/9752077) | Wed Aug 24 2022 12:27 AM
-- 🌏 [水能否烧到一千摄氏度？](http://daily.zhihu.com/story/9752075) | Wed Aug 24 2022 12:27 AM
-- 🕴 [蚊子很多的时候开电扇有用么?](http://daily.zhihu.com/story/9752073) | Wed Aug 24 2022 12:27 AM
-- 🌮 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9752066) | Tue Aug 23 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9752133) | Thu Aug 25 2022 12:27 AM
+- 🐻 [《红楼梦》中贾府的生活方式能算顶端的贵族生活吗？](http://daily.zhihu.com/story/9752123) | Thu Aug 25 2022 12:27 AM
+- 🌏 [用极端落后技术（至少落后两代）造先进武器会造出什么奇葩来？](http://daily.zhihu.com/story/9752114) | Thu Aug 25 2022 12:27 AM
+- 🕴 [西餐有哪些菜和中餐几乎完全一致的原料和做法？](http://daily.zhihu.com/story/9752105) | Thu Aug 25 2022 12:27 AM
+- 🌮 [中国最后一位女酋长去世，是茅盾文学奖《额尔古纳河右岸》主人公原型，中国独有的驯鹿文化该如何继续传承？](http://daily.zhihu.com/story/9752096) | Thu Aug 25 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
