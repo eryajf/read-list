@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [软考高级《系统架构设计师》--企业集成架构设计 复习 笔记](https://juejin.cn/post/7135773073285840910) | Thu Aug 25 2022 11:24 AM 
+- 🤗 [程序员成长第十九篇：要不要转管理岗？](https://juejin.cn/post/7135792984527749134) | Thu Aug 25 2022 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    一般复杂问题是没有统一标准答案的，毕竟每个人情况不一样。要不要转管理岗？要回答这个问题，我们需要先达成一个共识。什么样岗位是管理岗？我理解的管理岗是手下有人，且有部分工作时间是放在人和项目上 
+    </details> 
+
+- 🎡 [水波涟漪，使用SwiftUI做一个仿iPhone隔空投送动画~](https://juejin.cn/post/7135792175144517645) | Thu Aug 25 2022 12:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    使用iPhone以来，最好用的莫过于隔空投送了，只要在同一个局域网下，公司里使用iPhone的童鞋都可以互相快速的分享照片、文件。而且iPhone接收到的文件，也能快速地投送到MacBook中.... 
+    </details> 
+
+- 🕯 [软考高级《系统架构设计师》--企业集成架构设计 复习 笔记](https://juejin.cn/post/7135773073285840910) | Thu Aug 25 2022 11:24 AM 
     <details><summary>展开描述 ...</summary> 
     企业集成平台的概念 企业信息集成是解决“孤岛“问题的需要，技术发展的同时也推动了集成架构等相关的研究。 企业集成平台的核心是企业集成架构，包括：信息、过程、应用集成的架构。 企业集成平台是一种今年来用 
     </details> 
 
-- 🎡 [网易严选多端组件库OSSA正式开源](https://juejin.cn/post/7135767618790621192) | Thu Aug 25 2022 11:02 AM 
+- 🚀 [网易严选多端组件库OSSA正式开源](https://juejin.cn/post/7135767618790621192) | Thu Aug 25 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
     摘要 经过三年的积累和沉淀，网易严选多端组件库 —— OSSA，正式开源啦～。诚挚邀请对多端有诉求的团队进行试用和交流，同时热烈欢迎对开源、多端、组件库任意之一感兴趣的同学参与到OSSA组件库的建设中 
     </details> 
 
-- 🕯 [TPAMI2022 | Dual ViT！京东（梅涛）提出双路径ViT结构，大大降低计算开销！](https://juejin.cn/post/7135763037893427214) | Thu Aug 25 2022 10:45 AM 
+- 💪 [TPAMI2022 | Dual ViT！京东（梅涛）提出双路径ViT结构，大大降低计算开销！](https://juejin.cn/post/7135763037893427214) | Thu Aug 25 2022 10:45 AM 
     <details><summary>展开描述 ...</summary> 
     【写在前面】 以前的工作已经提出了几种降低自注意力机制计算成本的策略。其中许多工作考虑将自注意力过程 
-    </details> 
-
-- 🚀 [【Arthas】初识Arthas,安装使用](https://juejin.cn/post/7135762650687864839) | Thu Aug 25 2022 10:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    Arthas&lpar;读:阿尔萨斯&rpar; 是什么 Arthas能干什么 当你遇到以下类似问题而束手无策时，Arthas可以帮助你解 
-    </details> 
-
-- 💪 [【Arthas】命令之ognl使用姿势](https://juejin.cn/post/7135762406688423944) | Thu Aug 25 2022 10:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    还不了解Arthas怎么安装启动的可以翻阅 【Arthas】初始Arthas,安装使用 本文所有的执行命令,可以把项目 
     </details> 
 <!-- juejin:END -->
 ### 少数派
