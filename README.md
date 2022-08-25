@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Webacy - 为每个人提供更安全的 web3](https://xinquji.com/posts/179024?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:25 AM 
+- 👀 [Contribute - 人先任务后](https://xinquji.com/posts/179040?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     为每个人提供更安全的 web3  
+     人先任务后  
     </details> 
 
-- 🥷 [Dafatcat - 基于区块链的储蓄彩票服务](https://xinquji.com/posts/179023?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:25 AM 
+- 🥷 [Upword - 将任何内容转化为您的知识](https://xinquji.com/posts/179039?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-     基于区块链的储蓄彩票服务  
+     将任何内容转化为您的知识  
     </details> 
 
-- 💼 [NCS - 介绍净置信度分数](https://xinquji.com/posts/179022?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:23 AM 
+- 💼 [HelpKit Knowledge Base - 使用 Notion 构建专业的帮助中心或文档站点](https://xinquji.com/posts/179038?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     介绍净置信度分数  
+     使用 Notion 构建专业的帮助中心或文档站点  
     </details> 
 
-- 🦅 [Site Speed Chrome Extension - 快速测试站点速度并查看观察到的 Lighthouse 数据](https://xinquji.com/posts/179021?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:22 AM 
+- 🦅 [Luna - Your AI Sales Assistant - 不费吹灰之力就获得更多关于冷外展的回复](https://xinquji.com/posts/179037?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     快速测试站点速度并查看观察到的 Lighthouse 数据  
+     不费吹灰之力就获得更多关于冷外展的回复  
     </details> 
 
-- 😺 [Grizzly.Fi - 使用您的加密货币赚取可预测的收入](https://xinquji.com/posts/179020?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:21 AM 
+- 😺 [VIDMO Design System - 为您的下一个 Figma 项目提供完美的产品设计基础](https://xinquji.com/posts/179036?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     使用您的加密货币赚取可预测的收入  
+     为您的下一个 Figma 项目提供完美的产品设计基础  
     </details> 
 <!-- xinquji:END -->
