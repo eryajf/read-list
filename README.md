@@ -348,14 +348,14 @@
     这些恶意盗版软件网站在Google上还有着十分靠前的搜索排名。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 美国拟立法禁止采购有漏洞软件；微软披露ChromeOS 漏洞细节](https://www.freebuf.com/articles/342801.html) | Wed Aug 24 2022 10:51 AM 
+- 🪄 [如何使用MrKaplan在红队活动中隐藏和清理代码执行痕迹](https://www.freebuf.com/articles/system/342833.html) | Thu Aug 25 2022 12:12 AM 
     <details><summary>展开描述 ...</summary> 
-    软件供应商应保证“提交软件物料清单中列出的所有项目，均不存在影响最终产品或服务安全性的已知漏洞或缺陷，并给出证明。 
+    MrKaplan可以帮助广大红队研究人员清理和隐藏活动中的代码执行痕迹。 
     </details> 
 
-- 💻 [2022CCS大会议题前瞻 | CCS&amp;斗象科技 - 金融安全分论坛](https://www.freebuf.com/fevents/342785.html) | Wed Aug 24 2022 8:25 AM 
+- 💻 [FreeBuf早报 | 美国拟立法禁止采购有漏洞软件；微软披露ChromeOS 漏洞细节](https://www.freebuf.com/articles/342801.html) | Wed Aug 24 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-    斗象科技与无糖信息承办CCS大会的重磅分论坛之一【金融安全分论坛】，为大家带来了6个金融安全议题。金融科技，安全赋能！ 
+    软件供应商应保证“提交软件物料清单中列出的所有项目，均不存在影响最终产品或服务安全性的已知漏洞或缺陷，并给出证明。 
     </details> 
 <!-- freebuf:END -->
 
