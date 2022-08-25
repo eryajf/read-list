@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [拥抱理想的任正非，可以比谁都现实](https://www.cnbeta.com/articles/tech/1308375.htm) | Wed Aug 24 2022 7:33 PM 
+- 🕯 [华纳再次调整旗下两部漫改大片的公映日期 《海王2》继续延期](https://hot.cnbeta.com/articles/movie/1308471.htm) | Thu Aug 25 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月23日，据第一财经报道，任正非于22日在内部论坛上签发了一篇关于《整个公司的经营方针要从追求规模转向追求利润和现金流》的文章。简明扼要的标题道出了华为眼下最需要关注的重点：盈利能力。前不久华为公布的经营业绩显示，今年上半年，华为实现销售收入3016亿元，净利润率5.0%，差不多是去年同期的一半。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;华纳再次调整旗下两部漫改大片的公映日期，杰森·莫玛的《海王2》由明年3月延至明年12月25号，紧跟迪斯尼的星战衍生片《侠盗中队》，后者由《神奇女侠》导演派蒂·杰金斯执导，定档2023年12月23号。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [长江全流域遭遇61年最严重干旱 吉林一号卫星拍下惊人对比图像](https://www.cnbeta.com/articles/tech/1308373.htm) | Wed Aug 24 2022 7:33 PM 
+- 💼 [美国政府：要警惕量子计算机带来的安全问题 不要等到对手攻击才采取行动](https://www.cnbeta.com/articles/tech/1308469.htm) | Thu Aug 25 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据国家水利部近日给出的数据，&lt;strong&gt;7月以来，长江流域降雨量较常年同期偏少四成半，为1961年以来历史同期最少，正在遭遇61年以来最严重的气象干旱，出现罕见的“主汛期反枯”。&lt;/strong&gt;同时，长江干支流来水量较常年同期偏少二至八成，上中游来水量为1949年以来同期最少，长江三峡、汉江丹江口重点水库来水分别偏少四成多、近七成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果你想要知道你的公司何时应该开始认真对待量子计算机带来的安全问题，那么美国政府的答案是“现在”。&lt;strong&gt;在本周三发布的一份指南中，美国网络安全和基础设施安全局表示：“不要等到我们的对手使用量子计算机时才采取行动。一旦后量子密码学标准落地，那么前期准备工作可以确保顺利迁移”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [测试信用卡取现 支付宝、微信助贷之外的算盘](https://www.cnbeta.com/articles/tech/1308371.htm) | Wed Aug 24 2022 7:06 PM 
+- 💂 [Galaxy Z Flip 4拆解：整体布局和Z Flip3类似](https://www.cnbeta.com/articles/tech/1308467.htm) | Thu Aug 25 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;信用卡取现有了更多渠道。8月24日，支付宝“借呗”板块新增信用卡取现入口一事引发热议。通过支付宝与银行的合作，用户可以直接在支付宝页面进行名下信用卡的取现操作。除了支付宝外，微信也面向用户展示了部分银行的取现入口，在信用卡还款操作页面，即可查看并进行取现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日油管频道 PBKreviews 对 Galaxy Z Flip 4 进行了拆解。首先还是常规操作：加热外部面板，从而进入到内部。在拆开之后，该频道认为虽然 Galaxy Z Flip 4 在电缆和天线上存在一些差异，但是整体布局和 Galaxy Z Flip 3 非常相似。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Tinder创始人的最新作品：量化心理健康的智能戒指](https://www.cnbeta.com/articles/tech/1308369.htm) | Wed Aug 24 2022 5:49 PM 
+- 🚀 [印度中央银行宣布解除对美国运通的禁令](https://www.cnbeta.com/articles/tech/1308465.htm) | Thu Aug 25 2022 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Tinder创始人Sean Rad旗下的Happy Health公司推出名为Happy Ring的智能戒指&lt;/strong&gt;，这家公司成立于2019年底，目前有40名员工，其中13名员工位于该创业公司总部所在地奥斯汀。该公司还刚刚宣布了6000万美元的A轮融资，由ARCH Venture Partners领投。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;印度中央银行周三表示，印度已经取消了对美国运通的业务限制，这是在该公司证明遵守当地的数据存储规则之后再次被允许在南亚市场招收新客户。&lt;/strong&gt;在去年的一系列行动中，印度储备银行&lpar;Reserve Bank of India&rpar;无限期地禁止Matercard、美国运通和Diners Club向客户发行新的借记卡、信用卡或预付卡，因为它们不符合当地的数据存储规则。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《最后的生还者：重制版》中字预告 为次世代而生](https://hot.cnbeta.com/articles/game/1308367.htm) | Wed Aug 24 2022 5:49 PM 
+- 🎊 [研究发现每天吃牛油果可以帮助降低胆固醇](https://www.cnbeta.com/articles/science/1308463.htm) | Thu Aug 25 2022 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《最后的生还者：重制版》公开了全新的实机预告，展示了游戏的战斗以及剧情元素，画质提升较为明显，一起欣赏一下。《最后的生还者：重制版》将于9月2日登陆PS5，PC版稍微推出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据最近的一项研究，&lt;strong&gt;连续六个月每天吃一个牛油果对超重或肥胖者的腰围、腹部脂肪或肝脏脂肪没有影响。然而，它确实导致不健康的胆固醇水平略有下降。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
