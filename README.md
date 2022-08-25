@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么 Macos 明明还有很多内存没用（我 32G 内存），却动不动提示软件内存不足呢？](https://www.v2ex.com/t/875424#reply1) | Thu Aug 25 2022 12:24 PM
-- 🤗 [有破解数据算法的高手吗.有偿求助](https://www.v2ex.com/t/875420#reply4) | Thu Aug 25 2022 12:05 PM
-- 🎭 [毛里求斯 ICTA 允许使用 5945-6425 MHz 频段](https://www.v2ex.com/t/875407#reply0) | Thu Aug 25 2022 11:20 AM
-- 🥷 [数据库中间件那点事](https://www.v2ex.com/t/875404#reply0) | Thu Aug 25 2022 11:13 AM
-- 🐵 [Python 有什么开发比较顺手的](https://www.v2ex.com/t/875403#reply3) | Thu Aug 25 2022 11:09 AM<!-- v2ex:END -->
+- 🥸 [哪里可以找到技术牛逼的老外开发，想花钱办点事，国内的牛逼的也行](https://www.v2ex.com/t/875432#reply3) | Thu Aug 25 2022 1:02 PM
+- 🤗 [为什么 Macos 明明还有很多内存没用（我 32G 内存），却动不动提示软件内存不足呢？](https://www.v2ex.com/t/875424#reply9) | Thu Aug 25 2022 12:24 PM
+- 🎭 [有破解数据算法的高手吗.有偿求助](https://www.v2ex.com/t/875420#reply6) | Thu Aug 25 2022 12:05 PM
+- 🥷 [毛里求斯 ICTA 允许使用 5945-6425 MHz 频段](https://www.v2ex.com/t/875407#reply0) | Thu Aug 25 2022 11:20 AM
+- 🐵 [数据库中间件那点事](https://www.v2ex.com/t/875404#reply0) | Thu Aug 25 2022 11:13 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
