@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Sublime Merge 2.0 Build 2077 Git客户端](https://xclient.info/s/sublime-merge.html) | Wed Aug 24 2022 1:35 AM 
+- 🦏 [GIF Brewery 3.9.5 功能强大的动图制作工具](https://xclient.info/s/gif-brewery.html) | Thu Aug 25 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Sublime Merge 是Sublime Text制作者开发的一款Git客户端。 
+    GIF Brewery，该款软件除了能够将视频文件自动转换为GIF动画文件，还支持在转换前剪切大小、调整帧数、添加标题等功能，是一款十分优秀的软件。 
     </details> 
 
--  [PDF Reader Pro 2.8.16 PDF 文档阅读编辑批注](https://xclient.info/s/pdf-reader-pro.html) | Wed Aug 24 2022 1:34 AM 
+-  [Wattagio 1.13 电池检测工具](https://xclient.info/s/wattagio.html) | Thu Aug 25 2022 2:27 AM 
     <details><summary>展开描述 ...</summary> 
-    PDF Reader Pro是一款Mac平台的PDF文档阅读编辑器，除了可以进行 PDF 文档阅读以外，你还可以对文档进行备注、编辑、标注等，还可以添加笔记和书签，如果想要演示的话，还可以配合遥控来进行演示。 
+    Wattagio是一个Mac上的电池检测工具，通知您当前的电池使用状况，并有助于降低用电量。 
     </details> 
 
-- ⚗️ [NoteList 4.3.3 基于文档的数据存储工具](https://xclient.info/s/notelist.html) | Wed Aug 24 2022 1:33 AM 
+- ⚗️ [Permute 3.9.9 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Thu Aug 25 2022 2:25 AM 
     <details><summary>展开描述 ...</summary> 
-    NoteList是一个存储数据的应用程序，可以使用自由格式的文本和全文字处理能力的图片。 
+    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
     </details> 
 
-- 🔥 [Sketch 92 轻量易用的矢量设计工具](https://xclient.info/s/sketch.html) | Wed Aug 24 2022 1:32 AM 
+- 🔥 [GrandTotal 7.3.5.18 一款非常实用的发票设计工具](https://xclient.info/s/grandtotal.html) | Thu Aug 25 2022 2:23 AM 
     <details><summary>展开描述 ...</summary> 
-    Sketch（App Store 精华） 是最强大的移动应用矢量绘图设计工具，对于网页设计和移动设计者来说，比PhotoShop好用N倍！尤其是在移动应用设计方面，Sketch 3 的优点在于使用简单，学习曲线低，并且功能更加强大易用。能够大大节省设计师的时间和工作量，非常适合进行网站设计、移动应用设计、图标设计等 
+    GrandTotal 是Mac OS X 上的一款非常实用的发票设计工具，可以根据一个内置的模板编辑器来重新调整布局，创建属于自己的发票模版，适合企业和个人来进行形象设计。 
     </details> 
 
-- 🌋 [IconJar 2.11.1 图标素材管理工具](https://xclient.info/s/iconjar.html) | Wed Aug 24 2022 1:32 AM 
+- 🌋 [Smart Converter Pro 3.1.2.1 智能高效的多媒体文件转换工具](https://xclient.info/s/smart-converter-pro.html) | Thu Aug 25 2022 2:22 AM 
     <details><summary>展开描述 ...</summary> 
-    IconJar 是一个可以帮助设计师搜索、收集、管理的素材工具，可以极大的提高设计师们的素材库使用效率，减少寻找有效素材的时间，提高工作效率 
+    Smart Converter Pro 堪称当前最智能,简易,和高效的转换工具,比其他转换器提供更快速和高质的转换服务。 
     </details> 
 <!-- xclient:END -->
 
