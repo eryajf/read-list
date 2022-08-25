@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [换配件动辄过万 伤不起的新能源车](https://www.cnbeta.com/articles/tech/1308761.htm) | Thu Aug 25 2022 6:42 PM 
+- 🕯 [拆卡直播间：收割年轻人的新项目来了？](https://www.cnbeta.com/articles/tech/1308773.htm) | Thu Aug 25 2022 11:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;保有量迈过千万辆关口、补能费用低、智能化、免征购置税……新能源车头顶光环蒙眼狂奔。然而，对于身处汽车产业转型链上的各车企及消费者来说，被定义为“新物种”的新能源车也不断颠覆和刷新着各种传统认知，比如维修和保险。“燃油车没见过如此高的维修费”“修车费用比新车售价还高”“一年没出险，次年保费为什么还涨？”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“谁能告诉我这是在干啥？”如果你对拆卡一无所知，大概率会在进入拆卡直播间后产生同样的疑问。一张桌子，搭配一个透明亚克力板材质的置物架，再加上主播的一双手以及他拿着的一叠花花绿绿的纸卡，成了诸多拆卡直播间的“标配”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新发现西非海底陨石坑或表明不止一颗小行星撞地灭绝了恐龙](https://www.cnbeta.com/articles/science/1308759.htm) | Thu Aug 25 2022 4:46 PM 
+- 💼 [慧聪网“断臂求生”最新进展：已有员工陆续离职](https://www.cnbeta.com/articles/tech/1308771.htm) | Thu Aug 25 2022 11:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一个国际科研团队在西非海岸海平面下1公里处，发现了一个8.5公里宽的陨石坑，并将其命名为“纳迪尔”。研究团队估计，该陨石坑撞击地球的时间与被认为导致恐龙灭绝的奇克苏卢布小行星撞击地球的时间相同。研究人员近日在《科学进展》杂志上表示，如果这一时间点得到证实，意味着杀死恐龙的“凶手”或非一颗而是两颗小行星。&lt;strong&gt;撞击地球的时间相同。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在市场进入寒冬之际，慧聪网选择砍掉传统电话销售（下称电销）业务，断臂求生。&lt;strong&gt;8月24日，一则流传的截图揭开了慧聪网部分业务的生存现状。图中，北京慧聪叁陆零科技有限公司（下称慧聪科技）发布《停工待岗通知》称，因公司经营遇到困难，经公司讨论决定，于2022年8月25日起，停止经营，全员停工待岗，办公区关闭。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美国白宫发布行政命令加速芯片资金到位速度 创新项目开始全面运作](https://www.cnbeta.com/articles/tech/1308757.htm) | Thu Aug 25 2022 4:43 PM 
+- 💂 [SpaceX获亿万富豪投资1亿美元：能挑战特斯拉的只有SpaceX](https://www.cnbeta.com/articles/tech/1308769.htm) | Thu Aug 25 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国总统乔-拜登总统在签署法案后没有浪费任何时间来施行2800亿美元的法律，以促进国内半导体制造。周四，拜登签署了一项行政命令，让资金流快速向英特尔等希望在美国建立制造基地的公司。拜登在两周前正式签署了《CHIPS和科学法案》，但周四的命令使这个全面的美国创新项目开始运作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月26日消息，巴伦基金创始人兼首席执行官、亿万富翁罗恩·巴伦（Ron Baron）在过去几个月里向SpaceX投资了1亿美元。当地时间周四巴伦在接受采访时表示，自己持有的特斯拉股票在未来10年将获得3到5倍的回报。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google旗下导航服务Waze正在关闭其拼车业务](https://www.cnbeta.com/articles/tech/1308755.htm) | Thu Aug 25 2022 4:40 PM 
+- 🚀 [《生化奇兵》电影将由《我是传奇》的导演执导](https://hot.cnbeta.com/articles/movie/1308767.htm) | Thu Aug 25 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google旗下的导航服务Waze正在关闭其已有六年历史的拼车服务，理由是由于COVID-19大流行病导致通勤模式的改变。从9月开始，该公司将开始逐步关闭其拼车服务，该服务曾在美国、巴西和以色列提供过。Waze表示，它将探索其他方式以帮助服务全球1.5亿使用其导航应用程序的客户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Netflix公布了正在制作的《生化奇兵》改编电影的导演和编剧。在Netflix官方账号的一条推特上，这家流媒体巨头宣布，《我是传奇》和《饥饿游戏2：星火燎原》的导演弗朗西斯·劳伦斯将执导这部电影。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [大科技公司实习生在经济不景气情况下仍然充满希望](https://www.cnbeta.com/articles/tech/1308753.htm) | Thu Aug 25 2022 4:29 PM 
+- 🎊 [《泡泡龙：一起泡泡战》首次支持四人一起玩故事模式](https://hot.cnbeta.com/articles/game/1308765.htm) | Thu Aug 25 2022 11:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;蒂姆-库克表示，苹果公司计划在2023年对公司某些领域内的招聘工作进行更深思熟虑，但暑期实习生对他们在苹果和其他地方的前景感到乐观&lt;/strong&gt;。经过两年的混乱和目标变化，大型科技公司并没有放慢招聘实习生的速度。周四的一份报告揭示了一些实习生、offer以及他们被录用所要经历的事情。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;德国科隆展期间，游戏开发商Taito和发行商INN正式公布了泡泡龙系列最新作《泡泡龙：一起泡泡战（Puzzle Bobble Everybubble）》，本作预计在2023年发售，由任天堂Switch平台独占。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《泡泡龙：一起泡泡战》预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
