@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 美国拟立法禁止采购有漏洞软件；微软披露ChromeOS 漏洞细节](https://www.freebuf.com/articles/342801.html) | Wed Aug 24 2022 10:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    拟议的《2023财年国防授权法案》要求，对于新签和现有政府合同，软件供应商应保证“提交软件物料清单中列出的所有项目，均不存在影响最终产品或服务安全性的已知漏洞或缺陷。 
+    </details> 
+
 - 🦄 [2022CCS大会议题前瞻 | CCS&amp;斗象科技 - 金融安全分论坛](https://www.freebuf.com/fevents/342785.html) | Wed Aug 24 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
     斗象科技与无糖信息承办CCS大会的重磅分论坛之一【金融安全分论坛】，为大家带来了6个金融安全议题。金融科技，安全赋能！ 
     </details> 
 
-- 🦄 [推特前安全主管控诉存在 &amp;quot;令人震惊&amp;quot;的安全漏洞](https://www.freebuf.com/news/342774.html) | Wed Aug 24 2022 7:06 AM 
+- 🦅 [推特前安全主管控诉存在 &amp;quot;令人震惊&amp;quot;的安全漏洞](https://www.freebuf.com/news/342774.html) | Wed Aug 24 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
     Zatko控诉推特在安全实践中存在“令人震惊的”漏洞，在安全、隐私和内容审核方面存在“严重缺陷”。 
     </details> 
 
-- 🦅 [GitLab修复了CE、EE版本中一个远程代码执行漏洞](https://www.freebuf.com/news/342725.html) | Wed Aug 24 2022 5:00 AM 
+- 🪄 [GitLab修复了CE、EE版本中一个远程代码执行漏洞](https://www.freebuf.com/news/342725.html) | Wed Aug 24 2022 5:00 AM 
     <details><summary>展开描述 ...</summary> 
     DevOps 平台 GitLab 修复了其社区版（CE）和企业版（EE）中出现的一个关键远程代码执行漏洞。 
     </details> 
 
-- 🪄 [滥用SaaS平台的网络钓鱼攻击暴涨11倍](https://www.freebuf.com/news/342743.html) | Wed Aug 24 2022 4:46 AM 
+- 💻 [滥用SaaS平台的网络钓鱼攻击暴涨11倍](https://www.freebuf.com/news/342743.html) | Wed Aug 24 2022 4:46 AM 
     <details><summary>展开描述 ...</summary> 
     数据显示，从 2021 年 6 月到 2022 年 6 月，这种滥用行为大幅增加了 1100%。 
-    </details> 
-
-- 💻 [peetch：一个针对eBPF的安全实践研究平台](https://www.freebuf.com/articles/security-management/342625.html) | Tue Aug 23 2022 5:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    peetch平台由多种工具组成，旨在帮助广大研究人员通过各种方式绕过TLS协议保护功能，并以此来研究和分析eBPF的安全性。 
     </details> 
 <!-- freebuf:END -->
 
