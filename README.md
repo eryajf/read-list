@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Winform控件优化之圆角按钮【各种实现中的推荐做法】（上）](https://juejin.cn/post/7135840346012909598) | Thu Aug 25 2022 3:45 PM 
+- 🤗 [开发个「英雄杀记牌器」](https://juejin.cn/post/7135843844922441741) | Thu Aug 25 2022 3:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    以前很喜欢玩英雄杀，普通人玩的时候不记牌，但高手一定要记牌，一般的高手会记某某装备牌出现过没有、杀闪药还有几张，顶级高手会记剩下的牌是黑桃A杀、红桃Q药……太牛逼了。 
+    </details> 
+
+- 🎡 [Winform控件优化之圆角按钮【各种实现中的推荐做法】（上）](https://juejin.cn/post/7135840346012909598) | Thu Aug 25 2022 3:45 PM 
     <details><summary>展开描述 ...</summary> 
     Windows 11下所有控件已经默认采用圆角，其效果更好、相对有着更好的优化...尝试介绍很常见的圆角效果，通过重写控件的OnPaint方法实现绘制，并在后面进一步探索对应的优化和可能的问题 
     </details> 
 
-- 🎡 [Redis 布隆过滤器的相关命令的使用](https://juejin.cn/post/7135840044547309598) | Thu Aug 25 2022 3:45 PM 
+- 🕯 [Redis 布隆过滤器的相关命令的使用](https://juejin.cn/post/7135840044547309598) | Thu Aug 25 2022 3:45 PM 
     <details><summary>展开描述 ...</summary> 
     Redis 布隆过滤器的相关命令的使用，Docker 安装 Redis 布隆过滤器，再介绍了Redis布隆过滤器使用的各种命令，希望对大家有所帮助啦~ 
     </details> 
 
-- 🕯 [AWS | IAM | 获取与用户或角色关联的策略](https://juejin.cn/post/7135834020163780644) | Thu Aug 25 2022 3:20 PM 
+- 🚀 [AWS | IAM | 获取与用户或角色关联的策略](https://juejin.cn/post/7135834020163780644) | Thu Aug 25 2022 3:20 PM 
     <details><summary>展开描述 ...</summary> 
     &gt; 内联策略是嵌入在 IAM 身份（用户、组或角色）中的策略;托管策略 是由 AWS 创建和管理的独立策略;两者最大的区别是后者有独立的Resource Arn，两者合在一起才是IAM 身份完整的 
     </details> 
 
-- 🚀 [【Matplotlib数据可视化】绘制数学图像](https://juejin.cn/post/7135830573871792136) | Thu Aug 25 2022 3:07 PM 
+- 💪 [【Matplotlib数据可视化】绘制数学图像](https://juejin.cn/post/7135830573871792136) | Thu Aug 25 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 1. 折线图的应用场景 折线图以折线的上升或下降来表示统计数量的增减变化的统计图。 折线图可以反应某一变 
-    </details> 
-
-- 💪 [JavaScript 实现点击/关闭全屏](https://juejin.cn/post/7135830434528624654) | Thu Aug 25 2022 3:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    当点击图片的时候，我们需要其全屏展示，当我们再次点击的时候，图片退出全屏播放。在文末，我会将问题升级，留一个题目给读者思考... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
