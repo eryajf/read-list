@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华纳再次调整旗下两部漫改大片的公映日期 《海王2》继续延期](https://hot.cnbeta.com/articles/movie/1308471.htm) | Thu Aug 25 2022 1:54 AM 
+- 🕯 [港台韩泰澳市场迎来Google Play Game for Windows公测](https://hot.cnbeta.com/articles/game/1308551.htm) | Thu Aug 25 2022 4:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;华纳再次调整旗下两部漫改大片的公映日期，杰森·莫玛的《海王2》由明年3月延至明年12月25号，紧跟迪斯尼的星战衍生片《侠盗中队》，后者由《神奇女侠》导演派蒂·杰金斯执导，定档2023年12月23号。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;谷歌周三宣布了 PlayGames for Windows 的最新扩展，将这项 PC 游戏服务推广到了中国香港 / 台湾地区，以及韩国、泰国和澳大利亚等新市场。&lt;/strong&gt;尽管仍停留于 Beta 测试阶段，但上述地区的玩家们已经能够在 Chromebook / Android 之外的 Windows PC 上获得原生体验。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美国政府：要警惕量子计算机带来的安全问题 不要等到对手攻击才采取行动](https://www.cnbeta.com/articles/tech/1308469.htm) | Thu Aug 25 2022 1:50 AM 
+- 💼 [由铝、硫磺和盐制成的新电池被证明是快速、安全和低成本的](https://www.cnbeta.com/articles/science/1308549.htm) | Thu Aug 25 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如果你想要知道你的公司何时应该开始认真对待量子计算机带来的安全问题，那么美国政府的答案是“现在”。&lt;strong&gt;在本周三发布的一份指南中，美国网络安全和基础设施安全局表示：“不要等到我们的对手使用量子计算机时才采取行动。一旦后量子密码学标准落地，那么前期准备工作可以确保顺利迁移”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;麻省理工学院&lpar;MIT&rpar;的工程师们利用普通材料&lpar;铝、硫磺和盐&rpar;开发了一种新的电池设计。&lt;/strong&gt;这种电池不仅成本低，而且能耐火和耐故障，充电速度非常快，这可能使它在为家庭供电或为电动汽车充电时发挥作用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Galaxy Z Flip 4拆解：整体布局和Z Flip3类似](https://www.cnbeta.com/articles/tech/1308467.htm) | Thu Aug 25 2022 1:38 AM 
+- 💂 [Lexar推出NM800PRO系列PCIe 4.0 M.2 NVMe SSD新品](https://www.cnbeta.com/articles/tech/1308547.htm) | Thu Aug 25 2022 4:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日油管频道 PBKreviews 对 Galaxy Z Flip 4 进行了拆解。首先还是常规操作：加热外部面板，从而进入到内部。在拆开之后，该频道认为虽然 Galaxy Z Flip 4 在电缆和天线上存在一些差异，但是整体布局和 Galaxy Z Flip 3 非常相似。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;雷克沙刚刚发布了 Lexar Professional NM800PRO，&lt;strong&gt;作为一款采用 M.2 2280 标准外形的 PCIe 4.0 x4 NVMe SSD，其专为需要高性能计算的铁杆游戏玩家、专业人士和创作者们而设计。&lt;/strong&gt;此外为了确保长时间高速稳定运行，Lexar 还为 NM800PRO 提供了原厂散热片选项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [印度中央银行宣布解除对美国运通的禁令](https://www.cnbeta.com/articles/tech/1308465.htm) | Thu Aug 25 2022 1:33 AM 
+- 🚀 [巨型捕食者：古生物学家发现6600万年前统治海洋的巨型海怪化石](https://www.cnbeta.com/articles/science/1308545.htm) | Thu Aug 25 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;印度中央银行周三表示，印度已经取消了对美国运通的业务限制，这是在该公司证明遵守当地的数据存储规则之后再次被允许在南亚市场招收新客户。&lt;/strong&gt;在去年的一系列行动中，印度储备银行&lpar;Reserve Bank of India&rpar;无限期地禁止Matercard、美国运通和Diners Club向客户发行新的借记卡、信用卡或预付卡，因为它们不符合当地的数据存储规则。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;古生物学家在摩洛哥发现了一种新的巨型沧龙，名为Thalassotitan atrox，它填补了顶级捕食者的生态位。&lt;/strong&gt;Thalassotitan拥有巨大的下颚和像虎鲸一样的牙齿，它猎杀其他海洋爬行动物，例如蛇颈龙、海龟和其他沧龙等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究发现每天吃牛油果可以帮助降低胆固醇](https://www.cnbeta.com/articles/science/1308463.htm) | Thu Aug 25 2022 1:33 AM 
+- 🎊 [高德地图上线防晒导航功能：计算建筑物投射阴影规划“楼阴路段”](https://www.cnbeta.com/articles/tech/1308543.htm) | Thu Aug 25 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据最近的一项研究，&lt;strong&gt;连续六个月每天吃一个牛油果对超重或肥胖者的腰围、腹部脂肪或肝脏脂肪没有影响。然而，它确实导致不健康的胆固醇水平略有下降。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;炎炎夏日出门，需要勇气，更需要规划好路线。近日，全国多地持续高温，为方便出行，高德地图上线了防晒导航功能。启用该功能后，&lt;strong&gt;导航软件通过实时计算建筑物投射到路面的阴影面积寻找“楼阴路段”，同时还可智能识别出有树荫覆盖的“林荫路段”，两者结合就能为用户推荐一条阴影最多的路线，从而最大程度躲避太阳直射。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
