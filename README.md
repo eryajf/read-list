@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌可折叠手机专利曝光 类似Galaxy Fold设计有边框摄像头](https://www.cnbeta.com/articles/tech/1308751.htm) | Thu Aug 25 2022 4:16 PM 
+- 🕯 [新发现西非海底陨石坑或表明不止一颗小行星撞地灭绝了恐龙](https://www.cnbeta.com/articles/science/1308759.htm) | Thu Aug 25 2022 4:46 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一个国际科研团队在西非海岸海平面下1公里处，发现了一个8.5公里宽的陨石坑，并将其命名为“纳迪尔”。研究团队估计，该陨石坑撞击地球的时间与被认为导致恐龙灭绝的奇克苏卢布小行星撞击地球的时间相同。研究人员近日在《科学进展》杂志上表示，如果这一时间点得到证实，意味着杀死恐龙的“凶手”或非一颗而是两颗小行星。&lt;strong&gt;撞击地球的时间相同。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [美国白宫发布行政命令加速芯片资金到位速度 创新项目开始全面运作](https://www.cnbeta.com/articles/tech/1308757.htm) | Thu Aug 25 2022 4:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国总统乔-拜登总统在签署法案后没有浪费任何时间来施行2800亿美元的法律，以促进国内半导体制造。周四，拜登签署了一项行政命令，让资金流快速向英特尔等希望在美国建立制造基地的公司。拜登在两周前正式签署了《CHIPS和科学法案》，但周四的命令使这个全面的美国创新项目开始运作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Google旗下导航服务Waze正在关闭其拼车业务](https://www.cnbeta.com/articles/tech/1308755.htm) | Thu Aug 25 2022 4:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Google旗下的导航服务Waze正在关闭其已有六年历史的拼车服务，理由是由于COVID-19大流行病导致通勤模式的改变。从9月开始，该公司将开始逐步关闭其拼车服务，该服务曾在美国、巴西和以色列提供过。Waze表示，它将探索其他方式以帮助服务全球1.5亿使用其导航应用程序的客户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [大科技公司实习生在经济不景气情况下仍然充满希望](https://www.cnbeta.com/articles/tech/1308753.htm) | Thu Aug 25 2022 4:29 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;蒂姆-库克表示，苹果公司计划在2023年对公司某些领域内的招聘工作进行更深思熟虑，但暑期实习生对他们在苹果和其他地方的前景感到乐观&lt;/strong&gt;。经过两年的混乱和目标变化，大型科技公司并没有放慢招聘实习生的速度。周四的一份报告揭示了一些实习生、offer以及他们被录用所要经历的事情。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [谷歌可折叠手机专利曝光 类似Galaxy Fold设计有边框摄像头](https://www.cnbeta.com/articles/tech/1308751.htm) | Thu Aug 25 2022 4:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;谷歌一款可折叠手机出现在一份专利申请中，其设计与三星Galaxy Fold相似。&lt;/strong&gt;该专利是在WIPO（世界知识产权组织）提交的。它是在2021年6月提交的，今天早些时候被公布。谷歌可折叠手机预计将在今年晚些时候推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [iPhone 14 Pro的紫色和深蓝色机壳出现在模型上](https://www.cnbeta.com/articles/tech/1308749.htm) | Thu Aug 25 2022 3:55 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在苹果公司9月7日的发布会上公布iPhone 14阵容之前，来自亚洲的一波模型声称展示了iPhone 14 Pro的颜色选择，包含新的蓝色和紫色表面的机身。&lt;/strong&gt;iPhone 14 Pro模型的图片今天早些时候首先在微博上分享，显示了近几年类似的金色、石墨色和银色的颜色选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [iPhone 14 Pro显示屏打孔和状态栏图标现身](https://www.cnbeta.com/articles/tech/1308747.htm) | Thu Aug 25 2022 3:44 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在苹果宣布将于9月7日星期三举行发布会活动后，从亚洲传出的几个据称是泄露的信息展示了iPhone 14 Pro的显示屏打孔和状态栏项目。&lt;strong&gt;Twitter用户&amp;quot;DuanRui&amp;quot;今天分享了来自中国社交媒体网站微博的几张图片，其中一张似乎显示了iPhone 14 Pro的&amp;quot;药丸和打孔&amp;quot;TrueDepth相机模组打孔的特写图，这些切口有望取代iPhone屏幕上方现有沿用多年的刘海。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Apple Watch继续统领不断增长的全球智能手表市场](https://www.cnbeta.com/articles/tech/1308745.htm) | Thu Aug 25 2022 3:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在不断增长的全球智能手表市场中，Apple Watch继续占据主导地位，其市场份额是其最接近的竞争对手三星的三倍以上。新的研究称，与2021年同期相比，2022年第二季度全球智能手表的销售量增长了13%，2022年第一季度的销售额同样同比增长13%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [RTX 40马上发布 黄仁勋：将与供应商一起调整价格全力清库存](https://www.cnbeta.com/articles/tech/1308743.htm) | Thu Aug 25 2022 3:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;下降的业绩与游戏业务收入疲软有关。&lt;strong&gt;根据财报，二季度NV游戏营收为20.4亿美元，同比下降33%，降幅超过公司自身预期。游戏业务营收大幅下滑是因为游戏产品销量下降，这些产品主要是用于电脑的显卡。&lt;/strong&gt;面对上述情况，NV表示，除了减少销售外，公司还实施了渠道定价计划，将与供应商一起调整价格，以应对该行业的“具有挑战性的市场环境”，预计将持续到第三季度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
