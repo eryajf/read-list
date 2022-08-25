@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [最近在 b 站做视频，大家可以支持一下吗？](https://www.v2ex.com/t/875199#reply0) | Wed Aug 24 2022 4:36 PM
-- 🤗 [vscode 里面怎么才能像 idea 里面一样方便地全局搜索某个函数/文件然后立马跳转到对应位置](https://www.v2ex.com/t/875193#reply3) | Wed Aug 24 2022 3:49 PM
-- 🎭 [有兄弟买过 tb 上的 copilot 账号吗？ 靠谱吗](https://www.v2ex.com/t/875192#reply7) | Wed Aug 24 2022 3:44 PM
-- 🥷 [记一次 PostgreSQL 事故处理](https://www.v2ex.com/t/875189#reply5) | Wed Aug 24 2022 3:10 PM
-- 🐵 [PowerShell 配错参数求救](https://www.v2ex.com/t/875182#reply2) | Wed Aug 24 2022 2:21 PM<!-- v2ex:END -->
+- 🥸 [问问各位关于测试的本职工作问题](https://www.v2ex.com/t/875233#reply0) | Thu Aug 25 2022 1:59 AM
+- 🤗 [vue3 jsx 和 template 哪个性能好](https://www.v2ex.com/t/875228#reply2) | Thu Aug 25 2022 1:41 AM
+- 🎭 [nodejs 测试框架](https://www.v2ex.com/t/875224#reply2) | Thu Aug 25 2022 1:28 AM
+- 🥷 [有没有好部署的 web ide 可以推荐下](https://www.v2ex.com/t/875223#reply11) | Thu Aug 25 2022 1:27 AM
+- 🐵 [thinkbook14+想装回 win10](https://www.v2ex.com/t/875215#reply4) | Thu Aug 25 2022 12:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
