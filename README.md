@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Symbol 详解](https://juejin.cn/post/7135747173135679518) | Thu Aug 25 2022 9:43 AM 
+- 🤗 [软考高级《系统架构设计师》--企业集成架构设计 复习 笔记](https://juejin.cn/post/7135773073285840910) | Thu Aug 25 2022 11:24 AM 
     <details><summary>展开描述 ...</summary> 
-    ES6 之前，js 中的基本数据类型一共有 String、Number、Boolean、Null 和 Undefined 5种， ES6 新增了一种基本数据类型 —— Symbol。 
+    企业集成平台的概念 企业信息集成是解决“孤岛“问题的需要，技术发展的同时也推动了集成架构等相关的研究。 企业集成平台的核心是企业集成架构，包括：信息、过程、应用集成的架构。 企业集成平台是一种今年来用 
     </details> 
 
-- 🎡 [Element 2 组件源码剖析之Input输入框](https://juejin.cn/post/7135739302151421965) | Thu Aug 25 2022 9:13 AM 
+- 🎡 [网易严选多端组件库OSSA正式开源](https://juejin.cn/post/7135767618790621192) | Thu Aug 25 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
-    输入框组件 `Input` 通过鼠标或键盘输入表单域内容，提供复合型型输入框，带搜索的输入框，还可以进行大小选择。 本文将分析其源码实现，耐心读完，相信会对您有所帮助。 
+    摘要 经过三年的积累和沉淀，网易严选多端组件库 —— OSSA，正式开源啦～。诚挚邀请对多端有诉求的团队进行试用和交流，同时热烈欢迎对开源、多端、组件库任意之一感兴趣的同学参与到OSSA组件库的建设中 
     </details> 
 
-- 🕯 [如何批量生成虚拟快递地址？](https://juejin.cn/post/7135727998716051469) | Thu Aug 25 2022 8:29 AM 
+- 🕯 [TPAMI2022 | Dual ViT！京东（梅涛）提出双路径ViT结构，大大降低计算开销！](https://juejin.cn/post/7135763037893427214) | Thu Aug 25 2022 10:45 AM 
     <details><summary>展开描述 ...</summary> 
-    如何批量生成虚拟快递地址？其实这个思路很简单，要想生成快递地址，我们首先要知道全国各地小区的地址。有了小区地址，我们再随机生成户号、姓名和手机号，就能组成一个快递地址了。 
+    【写在前面】 以前的工作已经提出了几种降低自注意力机制计算成本的策略。其中许多工作考虑将自注意力过程 
     </details> 
 
-- 🚀 [promise函数自定义封装详解（二）](https://juejin.cn/post/7135653151679447048) | Thu Aug 25 2022 3:38 AM 
+- 🚀 [【Arthas】初识Arthas,安装使用](https://juejin.cn/post/7135762650687864839) | Thu Aug 25 2022 10:45 AM 
     <details><summary>展开描述 ...</summary> 
-    promise函数自定义封装详解（二） 大家好，在上一篇文章当中我们基本完成了promise构造函数的声明和内部代码的实现，以及promise函数then方法的分析，编写与调用。但代码总体上来说尚待完 
+    Arthas&lpar;读:阿尔萨斯&rpar; 是什么 Arthas能干什么 当你遇到以下类似问题而束手无策时，Arthas可以帮助你解 
     </details> 
 
-- 💪 [[陈同学 i 前端] 前端监控 | 微信小程序](https://juejin.cn/post/7135643010217279518) | Thu Aug 25 2022 2:59 AM 
+- 💪 [【Arthas】命令之ognl使用姿势](https://juejin.cn/post/7135762406688423944) | Thu Aug 25 2022 10:43 AM 
     <details><summary>展开描述 ...</summary> 
-    小程序作为前端应用也必然需要对项目进行生产环境运行时监控，本文就来聊聊关于小程序监控的那些事，将常用的web监控在小程序平台上进行实现 
+    还不了解Arthas怎么安装启动的可以翻阅 【Arthas】初始Arthas,安装使用 本文所有的执行命令,可以把项目 
     </details> 
 <!-- juejin:END -->
 ### 少数派
