@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [WHY 鼩鼱每天吃掉体重3倍的食物，而鲸鱼每天则只需相当于体重 30%的磷虾](http://jandan.net/p/111182) | Thu Aug 25 2022 5:29 AM 
+- 🚀 [「标准哨音」法 不但能够计算哈勃常数，还能揭示宇宙青春期时的面貌](http://jandan.net/p/111154) | Thu Aug 25 2022 6:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以使用宇宙微波背景来回溯宇宙的最早期，可以环顾周围的星系以研究宇宙最近的历史。但中间时期更难达到，这是具有特殊科学意义的领域。 
+    </details> 
+
+- 🙉 [对上了年纪的人 跑步最能降低癌症死亡风险 球拍运动最能降低早夭风险](http://jandan.net/p/111213) | Thu Aug 25 2022 5:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    运动越多越好，少量活动也比完全不活动要好。 
+    </details> 
+
+- 🎉 [WHY 鼩鼱每天吃掉体重3倍的食物，而鲸鱼每天则只需相当于体重 30%的磷虾](http://jandan.net/p/111182) | Thu Aug 25 2022 5:29 AM 
     <details><summary>展开描述 ...</summary> 
     不用物理用进化来揭示异速生长 
     </details> 
 
-- 🙉 [今日好价 0825](http://jandan.net/p/111212) | Thu Aug 25 2022 3:05 AM 
+- 🐲 [今日好价 0825](http://jandan.net/p/111212) | Thu Aug 25 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [发霉啦：为了缓解离婚后的资金压力，我打算尽快把房子出掉](http://jandan.net/p/111210) | Wed Aug 24 2022 8:38 AM 
+-  [发霉啦：为了缓解离婚后的资金压力，我打算尽快把房子出掉](http://jandan.net/p/111210) | Wed Aug 24 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
     一周的分水岭到了 
-    </details> 
-
-- 🐲 [密歇根大学图书馆镇馆之宝——伽利略手稿被证明是赝品](http://jandan.net/p/111207) | Wed Aug 24 2022 5:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    上面有伽利略用望远镜发现木星四颗卫星的最早记录 
-    </details> 
-
--  [日本动物研究员宣称 首次经实验发现 狗狗也会喜极而泣](http://jandan.net/p/111202) | Wed Aug 24 2022 4:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    传统观点认为，没有其他动物会因泛起的情感而流泪。动物流眼泪单纯出于物理上的刺激 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
