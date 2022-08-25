@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉Dojo超算细节大公开：涉及指令集结构、数据格式等](https://www.cnbeta.com/articles/tech/1308609.htm) | Thu Aug 25 2022 7:22 AM 
+- 🕯 [别听张朝阳的 研究称睡眠不足会让人更自私](https://www.cnbeta.com/articles/science/1308639.htm) | Thu Aug 25 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉备受关注的Dojo超算指令集结构细节史上首次大公开！而且还大秀了一把Dojo的数据格式、系统网络，以及软件系统绕行死节点的能力。关于特斯拉自研的AI芯片D1，更多细节也被披露。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日搜狐创始人张朝阳又上了热搜，他在直播中表示称，睡觉多了对人是一种伤害，建议大家少睡，睡六个小时最好，如果能睡四个小时就很完美。但是睡觉少真的好吗？每天睡四小时真的适合普通人吗？据英国《泰晤士报》24日报道，&lt;strong&gt;一项发布在期刊《PLOS Biology》上的研究称，当人们睡眠不足、身体疲倦时，会变得更自私。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [黄仁勋疯狂暗示RTX 40显卡下月发 是否涨价成谜](https://www.cnbeta.com/articles/tech/1308607.htm) | Thu Aug 25 2022 7:19 AM 
+- 💼 [迎来新发布会 苹果为#AppleEvent这个hashtag启用新图标](https://www.cnbeta.com/articles/tech/1308637.htm) | Thu Aug 25 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA今天发布了23财年Q2季度财报，游戏业务下滑了33%，是什么原因导致的大家也都狠清楚，接下来RTX 30系列依然会有清库存的压力，不过RTX 40系显卡今年还是要发的。在电话会议上，NVIDIA CEO黄仁勋几乎明确了新一代架构显卡下个月发布的消息，&lt;strong&gt;因为9月20日有NVIDIA的GTC大会，他会在这次大会上公布RTX显卡重塑3D图形及游戏的最新进展。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果今天宣布 iPhone 14 秋季新品发布会将于 9 月 8 日凌晨 1 点召开，官方宣传主题为“Far out”。&lt;strong&gt;和往届苹果活动一样，现在当 Twitter 用户使用 #AppleEvent 这个 hashtag 的时候会看到一个全新的图标。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [15年前经典国漫！《中华小子》高清重置版全平台上线](https://hot.cnbeta.com/articles/comic/1308605.htm) | Thu Aug 25 2022 7:18 AM 
+- 💂 [消息称NAND闪存价格下半年将进一步下滑 供应商清库存压力持续上升](https://www.cnbeta.com/articles/tech/1308635.htm) | Thu Aug 25 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月25日消息，今日，&lt;strong&gt;国产古风武侠系列《中华小子》高清重置版正式在全平台上线，每周一、周四早10点更新。&lt;/strong&gt;据介绍，这部经典国漫于2007年登陆央视，在15周年之际，高清重置版强势回归。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1308605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据国外媒体报道，本月初曾有报道称，存储芯片价格在加速下跌，三季度预计会下跌超过5%，存储芯片厂商的业绩将不会乐观。最新的报道也显示，产业链的消息称NAND闪存的价格，在下半年将继续下跌，供应商面临的清库存压力在持续上升。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Starlink大幅下调了部分市场区域的卫星互联网服务月费](https://www.cnbeta.com/articles/tech/1308603.htm) | Thu Aug 25 2022 7:08 AM 
+- 🚀 [索尼互娱宣布PS5涨价 国行光驱版上涨至4299元](https://www.cnbeta.com/articles/tech/1308633.htm) | Thu Aug 25 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;赶在与 T-Mobile 合办一场活动之前，SpaceX 宣布了将下调星链（Starlink）卫星互联网接入月费的喜讯。&lt;/strong&gt;根据不同的市场区域，本次调价的幅度也不尽相同。比如在荷兰地区，原先 124 欧元的移动版（Starlink RV）月费，已从本周三起下调至 105 欧元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼互动娱乐今日宣布将在欧洲、英国、日本、中国、澳大利亚、墨西哥和加拿大等国家和地区上调PlayStation 5的价格。其中国行版本上调400元，调整后光驱版售价4299元人民币，数字版售价3499元人民币。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Astrobotic的CubeRover将尝试在极寒且漫长的月夜中生存](https://www.cnbeta.com/articles/science/1308601.htm) | Thu Aug 25 2022 6:51 AM 
+- 🎊 [Microsoft Store已开测广告 让用户更容易发掘喜欢的应用/游戏](https://www.cnbeta.com/articles/tech/1308629.htm) | Thu Aug 25 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;总部位于匹兹堡的 Astrobotic，将在美国宇航局的帮助下把名为 CubeRover 的平台送上月球，以测试在月球表面的远距通信技术。&lt;/strong&gt;另一方面，月夜相当漫长且寒冷 —— 一次长达 14 天，且温度会骤降到 -200℉ 以下 —— 所以 CubeRover 必须证明其在严酷环境下的生存能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年 3 月，微软宣布将会对 Microsoft Store 进行多项改进，其中就包括 Microsoft Store Ads 项目。&lt;strong&gt;经过数月的等待，微软已经开始在该应用商城测试广告。&lt;/strong&gt;Microsoft Store Ads 项目的运行方式与苹果、Google 相同。就是在用户搜索某个关键词之后，就是会为该用户提供个性化的广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
