@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ES6 Module 的使用](https://juejin.cn/post/7135469249509720072) | Wed Aug 24 2022 3:45 PM 
+- 🤗 [20 行代码！带你快速构建基础文本搜索引擎 ⛵](https://juejin.cn/post/7135612027162083336) | Thu Aug 25 2022 12:59 AM 
     <details><summary>展开描述 ...</summary> 
-    Module 的语法 ES6 模块的设计思想是尽量的静态化，使得编译时就能确定模块的依赖关系，以及输入和输出的变量。CommonJS 和 AMD 模块，都只能在运行时确定这些东西。比如，CommonJ 
+    本文使用tf-idf（词频-逆文件频率）、lsi（潜在语义索引）和 doc2vec&lpar;文档向量化嵌入&rpar;这3种最基础的NLP文档嵌入技术，对文本进行嵌入操作并完成比对检索，构建一个基础版文本搜索引擎。 
     </details> 
 
-- 🎡 [自定义 angular-datetime-picker 格式](https://juejin.cn/post/7135461053466411038) | Wed Aug 24 2022 3:13 PM 
+- 🎡 [前端可以了解一下：最基础的八个linux命令](https://juejin.cn/post/7135601725330685983) | Thu Aug 25 2022 12:19 AM 
     <details><summary>展开描述 ...</summary> 
-    最近一直都在使用 Angular 进行开发，维护项目。遇到了日期的问题，同事采用的是 @danielmoncada/angular-datetime-picker，那么，我们怎么修改以满足我们的需求呢 
+    前端跟linux打交道少吗？前端使用过docker吗？前端使用过nginx吗？前端使用过jenkins吗？前端写过脚本吗？不妨从最基础的linux指令开始。 
     </details> 
 
-- 🕯 [来开源吧！发布开源组件到 MavenCentral 仓库超详细攻略](https://juejin.cn/post/7135457823055413278) | Wed Aug 24 2022 3:01 PM 
+- 🕯 [你不应该依赖CSS 100vh，这就是原因!](https://juejin.cn/post/7135600743095992327) | Thu Aug 25 2022 12:17 AM 
     <details><summary>展开描述 ...</summary> 
-    当一个开发者的水平提升到一定程度时，会有由内向外输出价值的需求，包括发布开源项目。在这篇文章里，我将手把手带你发布组件到 MavenCentral 中央仓库。 
+    如果有一个文本和一个按钮，我们想让文本粘在上面，而按钮粘在下面！使用CSS Flex 似乎很容易做到。 在真机检查一下效果： 酷! Git add, git commit, git push, oh  
     </details> 
 
-- 🚀 [头脑风暴：最长回文子序列](https://juejin.cn/post/7135456480735526926) | Wed Aug 24 2022 2:56 PM 
+- 🚀 [Javascript 设计模式：Revealing Module 揭示模式 | 单例模式](https://juejin.cn/post/7135591851502862366) | Wed Aug 24 2022 11:41 PM 
     <details><summary>展开描述 ...</summary> 
-    题目 给定一个字符串 s ，找到其中最长的回文子序列，并返回该序列的长度。可以假设 s 的最大长度为 1000 。 示例1： 输入: &quot;bbbab&quot; 输出: 4 一个可能的最长回文子序列为 &quot;bbbb 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 1. Revealing Module 揭示模式 示例： 优点: 该模式很容易之处哪些函数和变量可被公开 
     </details> 
 
-- 💪 [Go&amp;Java算法之找不同](https://juejin.cn/post/7135454951706705957) | Wed Aug 24 2022 2:50 PM 
+- 💪 [「趣学前端」模块，代码规划大师](https://juejin.cn/post/7135589734109151240) | Wed Aug 24 2022 11:34 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第28天，点击查看活动详情 找不同 给定两个字符串 s 和 t ，它们只包含小写字母。 字符串 t 由字符串 s 随机重排，然后在随 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情。今天分享模块化编程，其中实现隐藏细节的功能十分实用。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
