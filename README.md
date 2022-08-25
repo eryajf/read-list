@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [港台韩泰澳市场迎来Google Play Game for Windows公测](https://hot.cnbeta.com/articles/game/1308551.htm) | Thu Aug 25 2022 4:36 AM 
+- 🕯 [Gamescom 2022：CHERRY推出延迟低至1ms的新款无线键盘](https://www.cnbeta.com/articles/tech/1308559.htm) | Thu Aug 25 2022 5:43 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;作为一家老牌的德国计算机外设制造商，CHERRY 刚刚在 Gamescom 2022 上推出了一款延迟低至 1-ms 的新款无线键盘。&lt;/strong&gt;据悉，本届科隆游戏展定于 8 月 23-28 日在该市举办，并且难得地吸引了来自世界各地的玩家们在线下展会上碰头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [沃尔沃在美加州完成电动卡车试点项目：将有助于重型EV推广](https://www.cnbeta.com/articles/tech/1308557.htm) | Thu Aug 25 2022 5:25 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在经过三年的成功项目，沃尔沃卡车公司&lpar;Volvo Trucks&rpar;正在结束其LIGHTS项目。该试点项目从2019年持续到2022年，研究在美国最大的货运门户之一的加利福尼亚州南海岸空气盆地行驶的8级沃尔沃VNR电动卡车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [CXL联盟与JEDEC签署谅解备忘录 共促DRAM与持久内存技术发展](https://www.cnbeta.com/articles/tech/1308555.htm) | Thu Aug 25 2022 5:20 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;TechPowerUp 报道称，&lt;strong&gt;JEDEC 固态技术协会刚刚和 Compute Express Link 联盟宣布签署了一份谅解备忘录（MOU），正式确定了两个组织之间的深入合作。&lt;/strong&gt;协议概述了双方将成立一个联合工作组，通过促进论坛上的信息、要求、建议与请求的交流和共享，此举有望让两个组织在标准制定等工作上相互增强。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Valve开测新版Steam移动App 大幅改进陈旧的用户界面设计](https://hot.cnbeta.com/articles/game/1308553.htm) | Thu Aug 25 2022 4:57 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在入手 Steam Deck 掌机之后，TheVerge 的 Jay Peters 一直在通过 iOS 版 Steam 移动 App 打配合。然而每次打开老版 Steam 应用时，总给人以一种“软件设计与时代脱节了”的感觉。&lt;strong&gt;好消息是，Valve 似乎也意识到了这点，并且正在对 UI 大修后的 Steam 移动 App 展开 Beta 测试。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [港台韩泰澳市场迎来Google Play Game for Windows公测](https://hot.cnbeta.com/articles/game/1308551.htm) | Thu Aug 25 2022 4:36 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;谷歌周三宣布了 PlayGames for Windows 的最新扩展，将这项 PC 游戏服务推广到了中国香港 / 台湾地区，以及韩国、泰国和澳大利亚等新市场。&lt;/strong&gt;尽管仍停留于 Beta 测试阶段，但上述地区的玩家们已经能够在 Chromebook / Android 之外的 Windows PC 上获得原生体验。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [由铝、硫磺和盐制成的新电池被证明是快速、安全和低成本的](https://www.cnbeta.com/articles/science/1308549.htm) | Thu Aug 25 2022 4:09 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;麻省理工学院&lpar;MIT&rpar;的工程师们利用普通材料&lpar;铝、硫磺和盐&rpar;开发了一种新的电池设计。&lt;/strong&gt;这种电池不仅成本低，而且能耐火和耐故障，充电速度非常快，这可能使它在为家庭供电或为电动汽车充电时发挥作用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Lexar推出NM800PRO系列PCIe 4.0 M.2 NVMe SSD新品](https://www.cnbeta.com/articles/tech/1308547.htm) | Thu Aug 25 2022 4:07 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;雷克沙刚刚发布了 Lexar Professional NM800PRO，&lt;strong&gt;作为一款采用 M.2 2280 标准外形的 PCIe 4.0 x4 NVMe SSD，其专为需要高性能计算的铁杆游戏玩家、专业人士和创作者们而设计。&lt;/strong&gt;此外为了确保长时间高速稳定运行，Lexar 还为 NM800PRO 提供了原厂散热片选项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [巨型捕食者：古生物学家发现6600万年前统治海洋的巨型海怪化石](https://www.cnbeta.com/articles/science/1308545.htm) | Thu Aug 25 2022 3:47 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;古生物学家在摩洛哥发现了一种新的巨型沧龙，名为Thalassotitan atrox，它填补了顶级捕食者的生态位。&lt;/strong&gt;Thalassotitan拥有巨大的下颚和像虎鲸一样的牙齿，它猎杀其他海洋爬行动物，例如蛇颈龙、海龟和其他沧龙等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [高德地图上线防晒导航功能：计算建筑物投射阴影规划“楼阴路段”](https://www.cnbeta.com/articles/tech/1308543.htm) | Thu Aug 25 2022 3:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;炎炎夏日出门，需要勇气，更需要规划好路线。近日，全国多地持续高温，为方便出行，高德地图上线了防晒导航功能。启用该功能后，&lt;strong&gt;导航软件通过实时计算建筑物投射到路面的阴影面积寻找“楼阴路段”，同时还可智能识别出有树荫覆盖的“林荫路段”，两者结合就能为用户推荐一条阴影最多的路线，从而最大程度躲避太阳直射。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
