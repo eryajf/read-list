@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新发现西非海底陨石坑或表明不止一颗小行星撞地灭绝了恐龙](https://www.cnbeta.com/articles/science/1308759.htm) | Thu Aug 25 2022 4:46 PM 
+- 🕯 [换配件动辄过万 伤不起的新能源车](https://www.cnbeta.com/articles/tech/1308761.htm) | Thu Aug 25 2022 6:42 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;保有量迈过千万辆关口、补能费用低、智能化、免征购置税……新能源车头顶光环蒙眼狂奔。然而，对于身处汽车产业转型链上的各车企及消费者来说，被定义为“新物种”的新能源车也不断颠覆和刷新着各种传统认知，比如维修和保险。“燃油车没见过如此高的维修费”“修车费用比新车售价还高”“一年没出险，次年保费为什么还涨？”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [新发现西非海底陨石坑或表明不止一颗小行星撞地灭绝了恐龙](https://www.cnbeta.com/articles/science/1308759.htm) | Thu Aug 25 2022 4:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一个国际科研团队在西非海岸海平面下1公里处，发现了一个8.5公里宽的陨石坑，并将其命名为“纳迪尔”。研究团队估计，该陨石坑撞击地球的时间与被认为导致恐龙灭绝的奇克苏卢布小行星撞击地球的时间相同。研究人员近日在《科学进展》杂志上表示，如果这一时间点得到证实，意味着杀死恐龙的“凶手”或非一颗而是两颗小行星。&lt;strong&gt;撞击地球的时间相同。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美国白宫发布行政命令加速芯片资金到位速度 创新项目开始全面运作](https://www.cnbeta.com/articles/tech/1308757.htm) | Thu Aug 25 2022 4:43 PM 
+- 💂 [美国白宫发布行政命令加速芯片资金到位速度 创新项目开始全面运作](https://www.cnbeta.com/articles/tech/1308757.htm) | Thu Aug 25 2022 4:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国总统乔-拜登总统在签署法案后没有浪费任何时间来施行2800亿美元的法律，以促进国内半导体制造。周四，拜登签署了一项行政命令，让资金流快速向英特尔等希望在美国建立制造基地的公司。拜登在两周前正式签署了《CHIPS和科学法案》，但周四的命令使这个全面的美国创新项目开始运作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Google旗下导航服务Waze正在关闭其拼车业务](https://www.cnbeta.com/articles/tech/1308755.htm) | Thu Aug 25 2022 4:40 PM 
+- 🚀 [Google旗下导航服务Waze正在关闭其拼车业务](https://www.cnbeta.com/articles/tech/1308755.htm) | Thu Aug 25 2022 4:40 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Google旗下的导航服务Waze正在关闭其已有六年历史的拼车服务，理由是由于COVID-19大流行病导致通勤模式的改变。从9月开始，该公司将开始逐步关闭其拼车服务，该服务曾在美国、巴西和以色列提供过。Waze表示，它将探索其他方式以帮助服务全球1.5亿使用其导航应用程序的客户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [大科技公司实习生在经济不景气情况下仍然充满希望](https://www.cnbeta.com/articles/tech/1308753.htm) | Thu Aug 25 2022 4:29 PM 
+- 🎊 [大科技公司实习生在经济不景气情况下仍然充满希望](https://www.cnbeta.com/articles/tech/1308753.htm) | Thu Aug 25 2022 4:29 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;蒂姆-库克表示，苹果公司计划在2023年对公司某些领域内的招聘工作进行更深思熟虑，但暑期实习生对他们在苹果和其他地方的前景感到乐观&lt;/strong&gt;。经过两年的混乱和目标变化，大型科技公司并没有放慢招聘实习生的速度。周四的一份报告揭示了一些实习生、offer以及他们被录用所要经历的事情。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [谷歌可折叠手机专利曝光 类似Galaxy Fold设计有边框摄像头](https://www.cnbeta.com/articles/tech/1308751.htm) | Thu Aug 25 2022 4:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;谷歌一款可折叠手机出现在一份专利申请中，其设计与三星Galaxy Fold相似。&lt;/strong&gt;该专利是在WIPO（世界知识产权组织）提交的。它是在2021年6月提交的，今天早些时候被公布。谷歌可折叠手机预计将在今年晚些时候推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
