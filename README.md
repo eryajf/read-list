@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Contribute - 人先任务后](https://xinquji.com/posts/179040?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:46 AM 
+- 👀 [粤小词 - 学习广东‪话‬](https://xinquji.com/posts/178935?utm_campaign=xinquji-rss) | Fri Aug 26 2022 10:52 AM 
+    <details><summary>展开描述 ...</summary> 
+     学习广东‪话‬  
+    </details> 
+
+- 🥷 [Contribute - 人先任务后](https://xinquji.com/posts/179040?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
      人先任务后  
     </details> 
 
-- 🥷 [Upword - 将任何内容转化为您的知识](https://xinquji.com/posts/179039?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:44 AM 
+- 💼 [Upword - 将任何内容转化为您的知识](https://xinquji.com/posts/179039?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
      将任何内容转化为您的知识  
     </details> 
 
-- 💼 [HelpKit Knowledge Base - 使用 Notion 构建专业的帮助中心或文档站点](https://xinquji.com/posts/179038?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:42 AM 
+- 🦅 [HelpKit Knowledge Base - 使用 Notion 构建专业的帮助中心或文档站点](https://xinquji.com/posts/179038?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
      使用 Notion 构建专业的帮助中心或文档站点  
     </details> 
 
-- 🦅 [Luna - Your AI Sales Assistant - 不费吹灰之力就获得更多关于冷外展的回复](https://xinquji.com/posts/179037?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:40 AM 
+- 😺 [Luna - Your AI Sales Assistant - 不费吹灰之力就获得更多关于冷外展的回复](https://xinquji.com/posts/179037?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
      不费吹灰之力就获得更多关于冷外展的回复  
-    </details> 
-
-- 😺 [VIDMO Design System - 为您的下一个 Figma 项目提供完美的产品设计基础](https://xinquji.com/posts/179036?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:39 AM 
-    <details><summary>展开描述 ...</summary> 
-     为您的下一个 Figma 项目提供完美的产品设计基础  
     </details> 
 <!-- xinquji:END -->
