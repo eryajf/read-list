@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何批量生成虚拟快递地址？](https://juejin.cn/post/7135727998716051469) | Thu Aug 25 2022 8:29 AM 
+- 🤗 [Symbol 详解](https://juejin.cn/post/7135747173135679518) | Thu Aug 25 2022 9:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    ES6 之前，js 中的基本数据类型一共有 String、Number、Boolean、Null 和 Undefined 5种， ES6 新增了一种基本数据类型 —— Symbol。 
+    </details> 
+
+- 🎡 [Element 2 组件源码剖析之Input输入框](https://juejin.cn/post/7135739302151421965) | Thu Aug 25 2022 9:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    输入框组件 `Input` 通过鼠标或键盘输入表单域内容，提供复合型型输入框，带搜索的输入框，还可以进行大小选择。 本文将分析其源码实现，耐心读完，相信会对您有所帮助。 
+    </details> 
+
+- 🕯 [如何批量生成虚拟快递地址？](https://juejin.cn/post/7135727998716051469) | Thu Aug 25 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
     如何批量生成虚拟快递地址？其实这个思路很简单，要想生成快递地址，我们首先要知道全国各地小区的地址。有了小区地址，我们再随机生成户号、姓名和手机号，就能组成一个快递地址了。 
     </details> 
 
-- 🎡 [KubeVela Maintainer 徐佳航：什么样的开源项目将具有可延续的生命力？](https://juejin.cn/post/7135724959241863176) | Thu Aug 25 2022 8:17 AM 
+- 🚀 [promise函数自定义封装详解（二）](https://juejin.cn/post/7135653151679447048) | Thu Aug 25 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-    云原生的技术价值喻示着它就是未来，加入到一个具有可延续性生命力的开源社区，可以帮助我们更快地到达那里。——徐佳航，KubeVela Maintainer，来自招商银行基础设施研发中心云平台及运维平台开 
+    promise函数自定义封装详解（二） 大家好，在上一篇文章当中我们基本完成了promise构造函数的声明和内部代码的实现，以及promise函数then方法的分析，编写与调用。但代码总体上来说尚待完 
     </details> 
 
-- 🕯 [golang 基础-深入理解 map](https://juejin.cn/post/7135614421891563556) | Thu Aug 25 2022 1:09 AM 
+- 💪 [[陈同学 i 前端] 前端监控 | 微信小程序](https://juejin.cn/post/7135643010217279518) | Thu Aug 25 2022 2:59 AM 
     <details><summary>展开描述 ...</summary> 
-    哈希表是通过键直接访问值的数据结构，这种结构在查询、添加、删除元素中的时间复杂度是 O&lpar;1&rpar;，而在 golang 中，map 就是实现哈希表的一种类型；同时 map 也是日常开发中使用频率较高的一种类 
-    </details> 
-
-- 🚀 [Redisson 主从一致性问题](https://juejin.cn/post/7135613701951848461) | Thu Aug 25 2022 1:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    Redisson 主从一致性 我们先来说一下 Redis 的主从模式，Redis Master（主节点）中处理所有发向 Redis 的写操作（增删改），Redis Slave （从节点）只负责处理读操 
-    </details> 
-
-- 💪 [Go语言同步等待组sync.WaitGroup 结构体对象](https://juejin.cn/post/7135606607391981582) | Thu Aug 25 2022 12:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，WaitGroup是go并发中最常用的工具，通过WaitGroup表达任务是否完成，已决定是否继续往往下走，或取任务结果； 
+    小程序作为前端应用也必然需要对项目进行生产环境运行时监控，本文就来聊聊关于小程序监控的那些事，将常用的web监控在小程序平台上进行实现 
     </details> 
 <!-- juejin:END -->
 ### 少数派
