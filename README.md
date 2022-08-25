@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Gamescom 2022：CHERRY推出延迟低至1ms的新款无线键盘](https://www.cnbeta.com/articles/tech/1308559.htm) | Thu Aug 25 2022 5:43 AM 
+- 🕯 [读写速度过万兆 PCIe5.0固态的时代到来了吗？](https://www.cnbeta.com/articles/tech/1308593.htm) | Thu Aug 25 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为一家老牌的德国计算机外设制造商，CHERRY 刚刚在 Gamescom 2022 上推出了一款延迟低至 1-ms 的新款无线键盘。&lt;/strong&gt;据悉，本届科隆游戏展定于 8 月 23-28 日在该市举办，并且难得地吸引了来自世界各地的玩家们在线下展会上碰头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔发布酷睿12的时候，也捎带手正式的把PCIe5.0带到了PC上。然而这一高速的接口，目前还比较尴尬，那就是设备极少，包括现在都主流显卡，还都是PCIe4.0的……最有希望率先大规模应用的NVme固态硬盘也迟迟没有太多声音，好在现在终于有了产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [沃尔沃在美加州完成电动卡车试点项目：将有助于重型EV推广](https://www.cnbeta.com/articles/tech/1308557.htm) | Thu Aug 25 2022 5:25 AM 
+- 💼 [成都限电 蔚来车主满电换回没电电池“小赚”一笔](https://www.cnbeta.com/articles/tech/1308591.htm) | Thu Aug 25 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在经过三年的成功项目，沃尔沃卡车公司&lpar;Volvo Trucks&rpar;正在结束其LIGHTS项目。该试点项目从2019年持续到2022年，研究在美国最大的货运门户之一的加利福尼亚州南海岸空气盆地行驶的8级沃尔沃VNR电动卡车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近段时间，受近日高温天气影响，四川、重庆等地电力供需紧张，两地先后发布了限电措施以保障正常生活。为响应政府有序用电号召，多家车企位于川渝的工厂相继停产。除整车制造外，地区内汽车产业链企业及新能源充电桩服务也受到影响，特斯拉、小鹏、蔚来等车企的部分充电设施暂停服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [CXL联盟与JEDEC签署谅解备忘录 共促DRAM与持久内存技术发展](https://www.cnbeta.com/articles/tech/1308555.htm) | Thu Aug 25 2022 5:20 AM 
+- 💂 [17岁少年获最年轻独自环球飞行认证 飞过五大洲52个国家](https://www.cnbeta.com/articles/tech/1308589.htm) | Thu Aug 25 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;TechPowerUp 报道称，&lt;strong&gt;JEDEC 固态技术协会刚刚和 Compute Express Link 联盟宣布签署了一份谅解备忘录（MOU），正式确定了两个组织之间的深入合作。&lt;/strong&gt;协议概述了双方将成立一个联合工作组，通过促进论坛上的信息、要求、建议与请求的交流和共享，此举有望让两个组织在标准制定等工作上相互增强。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;年仅17岁的保加利亚少年Mack Rutherford,本周三驾驶着一架轻型飞机降落在保加利亚首都索菲亚一个机场，标志着始于今年3月23日的独自环飞全球的行程顺利结束。此次航行结束，他将创造两项吉尼斯世界纪录，&lt;strong&gt;包括最年轻独自驾机环游全球以及最年轻独自驾驶超轻型飞机环球纪录。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Valve开测新版Steam移动App 大幅改进陈旧的用户界面设计](https://hot.cnbeta.com/articles/game/1308553.htm) | Thu Aug 25 2022 4:57 AM 
+- 🚀 [5G低时延对手机用户影响甚微 优质4G也能实现良好体验](https://www.cnbeta.com/articles/tech/1308587.htm) | Thu Aug 25 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在入手 Steam Deck 掌机之后，TheVerge 的 Jay Peters 一直在通过 iOS 版 Steam 移动 App 打配合。然而每次打开老版 Steam 应用时，总给人以一种“软件设计与时代脱节了”的感觉。&lt;strong&gt;好消息是，Valve 似乎也意识到了这点，并且正在对 UI 大修后的 Steam 移动 App 展开 Beta 测试。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“高速率、低时延、广连接”在5G商用初期一直被用作宣传口号，只要稍有科技常识，就能明了其中的含义。当年，甚至有FCC委员表示可以把5G网络的广告词设计为“吃鸡网络”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [港台韩泰澳市场迎来Google Play Game for Windows公测](https://hot.cnbeta.com/articles/game/1308551.htm) | Thu Aug 25 2022 4:36 AM 
+- 🎊 [英媒：远程办公并未让职场欺凌走开 职业欺凌也走向远程](https://www.cnbeta.com/articles/tech/1308585.htm) | Thu Aug 25 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;谷歌周三宣布了 PlayGames for Windows 的最新扩展，将这项 PC 游戏服务推广到了中国香港 / 台湾地区，以及韩国、泰国和澳大利亚等新市场。&lt;/strong&gt;尽管仍停留于 Beta 测试阶段，但上述地区的玩家们已经能够在 Chromebook / Android 之外的 Windows PC 上获得原生体验。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英国广播公司（BBC）8月22日文章，原题：职场欺凌如何走向远程 起初，乔伊斯并未察觉到工作场所的欺凌。多年来，公司基本上都是远程办公，她没有感觉到来自同事的人身威胁。这位住在英格兰东部的通信工作者说：“我印象中的欺凌是传统的那种，即有人当面惹事。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
