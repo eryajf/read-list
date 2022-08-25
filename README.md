@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Curatora - 轻松查找和分享社交媒体的高度相关内容](https://xinquji.com/posts/179002?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:38 AM 
+- 👀 [Webacy - 为每个人提供更安全的 web3](https://xinquji.com/posts/179024?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     轻松查找和分享社交媒体的高度相关内容  
+     为每个人提供更安全的 web3  
     </details> 
 
-- 🥷 [The Startup Help Desk Podcast - 播客了解如何创办和建立公司](https://xinquji.com/posts/179001?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:36 AM 
+- 🥷 [Dafatcat - 基于区块链的储蓄彩票服务](https://xinquji.com/posts/179023?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     播客了解如何创办和建立公司  
+     基于区块链的储蓄彩票服务  
     </details> 
 
-- 💼 [Artes Union - 以平等的方式谈论皮肤癌、黑色素瘤](https://xinquji.com/posts/179000?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:34 AM 
+- 💼 [NCS - 介绍净置信度分数](https://xinquji.com/posts/179022?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     以平等的方式谈论皮肤癌、黑色素瘤  
+     介绍净置信度分数  
     </details> 
 
-- 🦅 [Caravan Social Manager - 授权您的团队在 Twitter 上进行内部互动](https://xinquji.com/posts/178999?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:34 AM 
+- 🦅 [Site Speed Chrome Extension - 快速测试站点速度并查看观察到的 Lighthouse 数据](https://xinquji.com/posts/179021?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     授权您的团队在 Twitter 上进行内部互动  
+     快速测试站点速度并查看观察到的 Lighthouse 数据  
     </details> 
 
-- 😺 [BingeBooks - 寻找下一个精彩阅读的书籍狂欢网站](https://xinquji.com/posts/178998?utm_campaign=xinquji-rss) | Thu Aug 25 2022 6:32 AM 
+- 😺 [Grizzly.Fi - 使用您的加密货币赚取可预测的收入](https://xinquji.com/posts/179020?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     寻找下一个精彩阅读的书籍狂欢网站  
+     使用您的加密货币赚取可预测的收入  
     </details> 
 <!-- xinquji:END -->
