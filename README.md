@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [彩虹女神跃长空,Go语言进阶之Go语言高性能Web框架Iris项目实战-项目结构优化EP05](https://juejin.cn/post/7135720208991256584) | Thu Aug 25 2022 7:59 AM 
+- 🤗 [如何批量生成虚拟快递地址？](https://juejin.cn/post/7135727998716051469) | Thu Aug 25 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
-    前文再续，上一回我们完成了用户管理模块的CURD&lpar;增删改查&rpar;功能，功能层面，无甚大观，但有一个结构性的缺陷显而易见，那就是项目结构过度耦合，项目的耦合性&lpar;Coupling&rpar;，也叫耦合度，进而言之 
+    如何批量生成虚拟快递地址？其实这个思路很简单，要想生成快递地址，我们首先要知道全国各地小区的地址。有了小区地址，我们再随机生成户号、姓名和手机号，就能组成一个快递地址了。 
     </details> 
 
-- 🎡 [BigDecimal详解和精度问题](https://juejin.cn/post/7135718299953791013) | Thu Aug 25 2022 7:52 AM 
+- 🎡 [KubeVela Maintainer 徐佳航：什么样的开源项目将具有可延续的生命力？](https://juejin.cn/post/7135724959241863176) | Thu Aug 25 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-    BigDecimal 是大厂 Java 面试常问的一个知识点。 《阿里巴巴 Java 开发手册》中提到：“为了避免精度丢失，可以使用 BigDecimal 来进行浮点数的运算”。 浮点数的运算竟然还会 
+    云原生的技术价值喻示着它就是未来，加入到一个具有可延续性生命力的开源社区，可以帮助我们更快地到达那里。——徐佳航，KubeVela Maintainer，来自招商银行基础设施研发中心云平台及运维平台开 
     </details> 
 
-- 🕯 [又不是程序员，凭什么要求产品经理懂技术？](https://juejin.cn/post/7135715208831434789) | Thu Aug 25 2022 7:39 AM 
+- 🕯 [golang 基础-深入理解 map](https://juejin.cn/post/7135614421891563556) | Thu Aug 25 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    “产品经理需要懂技术吗？”这个话题每年都会被圈子内的人翻出来讨论一次。 在我看来，行业的细分必然是有道理的，产品经理将核心内容力掌握好，才是王道。所以，懂技术的产品经理是加分项，并不是必须项。 当下社 
+    哈希表是通过键直接访问值的数据结构，这种结构在查询、添加、删除元素中的时间复杂度是 O&lpar;1&rpar;，而在 golang 中，map 就是实现哈希表的一种类型；同时 map 也是日常开发中使用频率较高的一种类 
     </details> 
 
-- 🚀 [Python 教程之 Numpy（3）—— 数组创建](https://juejin.cn/post/7135710602713890852) | Thu Aug 25 2022 7:21 AM 
+- 🚀 [Redisson 主从一致性问题](https://juejin.cn/post/7135613701951848461) | Thu Aug 25 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 28 天，点击查看活动详情 使用 List 创建数组： 数组用于在一个变量中存储多个值。Python 没有对数组的内置支持，但可 
+    Redisson 主从一致性 我们先来说一下 Redis 的主从模式，Redis Master（主节点）中处理所有发向 Redis 的写操作（增删改），Redis Slave （从节点）只负责处理读操 
     </details> 
 
-- 💪 [Flutter Engine 的启动简析](https://juejin.cn/post/7135653677066354702) | Thu Aug 25 2022 3:42 AM 
+- 💪 [Go语言同步等待组sync.WaitGroup 结构体对象](https://juejin.cn/post/7135606607391981582) | Thu Aug 25 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    起因于自己想研究一下 game-engine，但是主流的 ue 什么的太过庞大了（庞大也是必然），于是想到了比较亲切的 Flutter Engine（其实也蛮复杂的），于是想梳理一下其 启动 和 绘制 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，WaitGroup是go并发中最常用的工具，通过WaitGroup表达任务是否完成，已决定是否继续往往下走，或取任务结果； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
