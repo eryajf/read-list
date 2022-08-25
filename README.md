@@ -373,24 +373,24 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [又不是程序员，凭什么要求产品经理懂技术？](https://juejin.cn/post/7135715208831434789) | Thu Aug 25 2022 7:39 AM 
+- 🤗 [彩虹女神跃长空,Go语言进阶之Go语言高性能Web框架Iris项目实战-项目结构优化EP05](https://juejin.cn/post/7135720208991256584) | Thu Aug 25 2022 7:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    前文再续，上一回我们完成了用户管理模块的CURD&lpar;增删改查&rpar;功能，功能层面，无甚大观，但有一个结构性的缺陷显而易见，那就是项目结构过度耦合，项目的耦合性&lpar;Coupling&rpar;，也叫耦合度，进而言之 
+    </details> 
+
+- 🎡 [BigDecimal详解和精度问题](https://juejin.cn/post/7135718299953791013) | Thu Aug 25 2022 7:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    BigDecimal 是大厂 Java 面试常问的一个知识点。 《阿里巴巴 Java 开发手册》中提到：“为了避免精度丢失，可以使用 BigDecimal 来进行浮点数的运算”。 浮点数的运算竟然还会 
+    </details> 
+
+- 🕯 [又不是程序员，凭什么要求产品经理懂技术？](https://juejin.cn/post/7135715208831434789) | Thu Aug 25 2022 7:39 AM 
     <details><summary>展开描述 ...</summary> 
     “产品经理需要懂技术吗？”这个话题每年都会被圈子内的人翻出来讨论一次。 在我看来，行业的细分必然是有道理的，产品经理将核心内容力掌握好，才是王道。所以，懂技术的产品经理是加分项，并不是必须项。 当下社 
     </details> 
 
-- 🎡 [第四弹 mixup增强！超越经验风险最小化的手段](https://juejin.cn/post/7135712841700474910) | Thu Aug 25 2022 7:30 AM 
+- 🚀 [Python 教程之 Numpy（3）—— 数组创建](https://juejin.cn/post/7135710602713890852) | Thu Aug 25 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-    作者：陈亦新（欢迎交流共同进步） 联系方式：微信cyx645016617 论文名称：mixup：beyond empirical risk minimization 综述 论文链接：https://a 
-    </details> 
-
-- 🕯 [Python 教程之 Numpy（2）—— 数组](https://juejin.cn/post/7135688832124452894) | Thu Aug 25 2022 5:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 28 天，点击查看活动详情 Numpy中的N维数组（ndarray） Numpy 中的数组是一个元素表（通常是数字），所有元素类 
-    </details> 
-
-- 🚀 [HashMap与HashSet的底层实现原理](https://juejin.cn/post/7135661292668321822) | Thu Aug 25 2022 4:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章将介绍Java中HashMap的底层实现原理，有关HashMap为数组开辟内存的时期，默认的容量，默认负载因子，树化的条件，HashMap的扩容机制，put方法的过程以及HashMap中的哈希 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 28 天，点击查看活动详情 使用 List 创建数组： 数组用于在一个变量中存储多个值。Python 没有对数组的内置支持，但可 
     </details> 
 
 - 💪 [Flutter Engine 的启动简析](https://juejin.cn/post/7135653677066354702) | Thu Aug 25 2022 3:42 AM 
