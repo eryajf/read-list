@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [别听张朝阳的 研究称睡眠不足会让人更自私](https://www.cnbeta.com/articles/science/1308639.htm) | Thu Aug 25 2022 8:23 AM 
+- 🕯 [Android Automotive 13发布：优化后台性能](https://www.cnbeta.com/articles/tech/1308655.htm) | Thu Aug 25 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日搜狐创始人张朝阳又上了热搜，他在直播中表示称，睡觉多了对人是一种伤害，建议大家少睡，睡六个小时最好，如果能睡四个小时就很完美。但是睡觉少真的好吗？每天睡四小时真的适合普通人吗？据英国《泰晤士报》24日报道，&lt;strong&gt;一项发布在期刊《PLOS Biology》上的研究称，当人们睡眠不足、身体疲倦时，会变得更自私。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本月早些时候，Google 开始为符合条件的 Pixel 设备推广 Android 13 系统，现在该公司再次推出 Android Automotive 13。和 Android 13 不同，Android Automotive 13 的更新幅度并不是很大，主要集中在后台性能的优化和 BUG 的修复上面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [迎来新发布会 苹果为#AppleEvent这个hashtag启用新图标](https://www.cnbeta.com/articles/tech/1308637.htm) | Thu Aug 25 2022 8:20 AM 
+- 💼 [技巧：如何启用Windows 11设置应用新动画特效](https://www.cnbeta.com/articles/tech/1308653.htm) | Thu Aug 25 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果今天宣布 iPhone 14 秋季新品发布会将于 9 月 8 日凌晨 1 点召开，官方宣传主题为“Far out”。&lt;strong&gt;和往届苹果活动一样，现在当 Twitter 用户使用 #AppleEvent 这个 hashtag 的时候会看到一个全新的图标。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在今天发布的 Windows 11 Build 25188 预览版更新中，虽然缺乏新的功能，但在细节方面引入了令人愉快的 UI 改进。根据拉斐尔·里维拉（Rafael Rivera）网友爆料，微软正在设置应用中测试图标动画。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [消息称NAND闪存价格下半年将进一步下滑 供应商清库存压力持续上升](https://www.cnbeta.com/articles/tech/1308635.htm) | Thu Aug 25 2022 8:14 AM 
+- 💂 [NASA科学家探测暗能量--是时候重写爱因斯坦的引力理论了？](https://www.cnbeta.com/articles/science/1308651.htm) | Thu Aug 25 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据国外媒体报道，本月初曾有报道称，存储芯片价格在加速下跌，三季度预计会下跌超过5%，存储芯片厂商的业绩将不会乐观。最新的报道也显示，产业链的消息称NAND闪存的价格，在下半年将继续下跌，供应商面临的清库存压力在持续上升。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;天体物理学中最大的谜题之一可以通过重写爱因斯坦的引力理论来解决吗？根据美国宇航局（NASA）科学家共同撰写的一项新研究，现在还不行。&lt;/strong&gt;宇宙正在加速膨胀，而物理学家不知道为什么。这一现象似乎与科学家们所了解的关于引力对宇宙的影响的一切相矛盾：这就像你把一个苹果扔到空中，它没有回落，而是继续向上，速度越来越快。宇宙加速的原因，被称为暗能量，仍然是一个谜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1308651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [索尼互娱宣布PS5涨价 国行光驱版上涨至4299元](https://www.cnbeta.com/articles/tech/1308633.htm) | Thu Aug 25 2022 8:11 AM 
+- 🚀 [权游衍生剧《龙之家族》豆瓣8.7：演员颜值是扣分项](https://hot.cnbeta.com/articles/movie/1308649.htm) | Thu Aug 25 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼互动娱乐今日宣布将在欧洲、英国、日本、中国、澳大利亚、墨西哥和加拿大等国家和地区上调PlayStation 5的价格。其中国行版本上调400元，调整后光驱版售价4299元人民币，数字版售价3499元人民币。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;权游衍生剧《龙之家族》已于本月21日开播，目前该剧在豆瓣的评分已解禁，为8.7分。从观众的评价来看，目前首播集的质量不亚于《权利的游戏》，剧情、特效、美术水平都堪称顶级，且非常“写实”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Microsoft Store已开测广告 让用户更容易发掘喜欢的应用/游戏](https://www.cnbeta.com/articles/tech/1308629.htm) | Thu Aug 25 2022 8:03 AM 
+- 🎊 [AMD Zen 4锐龙性能跑分抢先看：这成绩对比13代酷睿让人不淡定](https://www.cnbeta.com/articles/tech/1308647.htm) | Thu Aug 25 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年 3 月，微软宣布将会对 Microsoft Store 进行多项改进，其中就包括 Microsoft Store Ads 项目。&lt;strong&gt;经过数月的等待，微软已经开始在该应用商城测试广告。&lt;/strong&gt;Microsoft Store Ads 项目的运行方式与苹果、Google 相同。就是在用户搜索某个关键词之后，就是会为该用户提供个性化的广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;下周，AMD就将正式发布Zen 4锐龙7000处理器。看起来这次保密工作不错，至今也没有很多ES/QS散片流出。不过，B站Up主EP极致玩家堂分享了手头一颗神秘Zen4芯片的跑分成绩，测试软件是Cinebench R20，识别为锐龙7 7700X，8核16线程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
