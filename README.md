@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [WFH.FM - Turntable FM 遇见 Poolside FM 遇见你](https://xinquji.com/posts/179061?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:26 AM 
+- 👀 [Another Round - UNO，Skyjo 的点跟踪器](https://xinquji.com/posts/179066?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     Turntable FM 遇见 Poolside FM 遇见你  
+     UNO，Skyjo 的点跟踪器  
     </details> 
 
-- 🥷 [Business Deal - 一款快节奏的纸牌交易游戏，灵感来自 Monopoly Deal](https://xinquji.com/posts/179060?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:25 AM 
+- 🥷 [Jumpspeak™ Bites - 聊天机器人 3 分钟教你西班牙语](https://xinquji.com/posts/179065?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     一款快节奏的纸牌交易游戏，灵感来自 Monopoly Deal  
+     聊天机器人 3 分钟教你西班牙语  
     </details> 
 
-- 💼 [Mood Surf - 从技术 Twitter 中发现专家见解](https://xinquji.com/posts/179059?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:24 AM 
+- 💼 [The Toolbox - 您的一站式商店可找到满足您需求的完美工具](https://xinquji.com/posts/179064?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     从技术 Twitter 中发现专家见解  
+     您的一站式商店可找到满足您需求的完美工具  
     </details> 
 
-- 🦅 [Pointer Dev Blog - 快速阅读以了解现代网络技术](https://xinquji.com/posts/179058?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:23 AM 
+- 🦅 [Orbital 2.0 - 多合一的交流空间建设者](https://xinquji.com/posts/179063?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     快速阅读以了解现代网络技术  
+     多合一的交流空间建设者  
     </details> 
 
-- 😺 [NameGrab.io - 每天交付的精选品牌域名](https://xinquji.com/posts/179057?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:22 AM 
+- 😺 [GTD Dashboard 2.0 - 在 Notion 中捕获和组织您的待办事项](https://xinquji.com/posts/179062?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     每天交付的精选品牌域名  
+     在 Notion 中捕获和组织您的待办事项  
     </details> 
 <!-- xinquji:END -->
