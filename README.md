@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Swift基础语法（二十三）常见编程范式认识（三）：响应式编程RxSwift](https://juejin.cn/post/7136033401496141831) | Fri Aug 26 2022 4:15 AM 
+- 🤗 [Rust 入门实战系列（7）- 控制流](https://juejin.cn/post/7136035834259570695) | Fri Aug 26 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 本文主要认识RxSwift的原理，以及简单使用，实现监听响应操作 1、 响应式编程 响应式编程（Reac 
+    控制流程是所有编程语言的基础，今天我们继续 Rust 初学者实战系列，看看在 Rust 中条件语句，循环语句怎么使用。 
     </details> 
 
-- 🎡 [Android Gradle插件工具实战：检测三方库权限so适配及压缩图片](https://juejin.cn/post/7136019884391006216) | Fri Aug 26 2022 3:21 AM 
+- 🎡 [字节跳动开源自研 Shuffle 框架——Cloud Shuffle Service](https://juejin.cn/post/7136032877715652644) | Fri Aug 26 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 平时开发遇到一些问题，比如 怎么确认引入的第三方so是否适配32/64位 怎么知道第三方库申请了那些权限 每次开发引入的图片怎么一键压缩并自动引入项目内，并且每次使用不会重复压缩 每次写项目都会 
+    字节跳动自研了 Cloud Shuffle Service，提供比大数据计算引擎常用的 Pull-Based Sort Shuffle 方案稳定性更好、性能更高、更弹性的数据 Shuffle 能力。 
     </details> 
 
-- 🕯 [filebeat使用module收集mysql慢查询日志（十一）](https://juejin.cn/post/7136015424465928222) | Fri Aug 26 2022 3:04 AM 
+- 🕯 [开放下载 | 飞天技术峰会-云原生加速应用构建分论坛资料开放下载](https://juejin.cn/post/7136032380715958279) | Fri Aug 26 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 filebeat使用module收集mysql慢查询日志（十一） 
+    下午【云原生加速应用构建】分论坛，聚焦：FinOps、可观测与SRE、云原生 AI、Serverless、云原生技术中台等热点话题展开讨论。目前峰会分论坛资料已开放下载，关注阿里云云原生公众号，后台回 
     </details> 
 
-- 🚀 [特斯拉人形机器人『擎天柱』将亮相AI DAY；Go语言绝美图文教程；正则表达式的救星网站；食品Logo检测数据集；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7136014569046016036) | Fri Aug 26 2022 3:01 AM 
+- 🚀 [【剑指 Offer 精选】剑指 Offer II 008. 和大于等于 target 的最短子数组](https://juejin.cn/post/7136031122508480520) | Fri Aug 26 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 08-26 期，mRMR 高效特征选择算法、对CT图像中104种解剖结构进行分割、设置Matplotlib可视化风格、论文插图绘制软件、飞桨深度学习3D感知套件、数据集论文集 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 题目描述 这是 LeetCode 上的 剑指 Offer II 008. 和大于等于 target 的最 
     </details> 
 
-- 💪 [小白如何申请5G消息开发者账号](https://juejin.cn/post/7136014199880155150) | Fri Aug 26 2022 3:00 AM 
+- 💪 [延宕执行,妙用无穷,Go lang1.18入门精炼教程,由白丁入鸿儒,Golang中defer关键字延迟调用机制使用EP17](https://juejin.cn/post/7136030683692007460) | Fri Aug 26 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
-    关于5G消息 5G消息作为一种新的短信方式，逐渐出现在人们的视野之中。和大部分人一样，第一次看到5G消息，一直不了解它是一个什么样的展示形式，它该怎么应用于现实的生活场景之中，以及我们开发者该怎么进行 
+    先行定义，延后执行。不得不佩服Go lang设计者天才的设计，事实上，defer关键字就相当于Python中的try{ ...}except{ ...}finally{...}结构设计中的finall 
     </details> 
 <!-- juejin:END -->
 ### 少数派
