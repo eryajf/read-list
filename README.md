@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [C# Chart滚动条的样式设置](https://juejin.cn/post/7136167994777927688) | Fri Aug 26 2022 12:56 PM 
+- 🤗 [程序员成长第二十篇：刚晋升管理者，有哪些方面要注意？](https://juejin.cn/post/7136179480334336008) | Fri Aug 26 2022 1:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    随着公司发展，业务需要扩展，我当时负责的是Android、J2ME、window mobile三个产品线，一个人忙不过来。需要招聘，所以自然就晋升为公司小组长了。当时最开始带2个人，后面慢慢增加到5个 
+    </details> 
+
+- 🎡 [C# Chart滚动条的样式设置](https://juejin.cn/post/7136167994777927688) | Fri Aug 26 2022 12:56 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第25天，点击查看活动详情 前言 前面我们对Chart的界面的时间轴做了一个设计，不知道的同学可以看我之前的文章，今天这篇文章是对上 
     </details> 
 
-- 🎡 [软考高级《系统架构设计师》--软件开发模型 复习笔记](https://juejin.cn/post/7136160551834484743) | Fri Aug 26 2022 12:28 PM 
+- 🕯 [软考高级《系统架构设计师》--软件开发模型 复习笔记](https://juejin.cn/post/7136160551834484743) | Fri Aug 26 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
     前言 今天是2022年8月26日，距离软考高级《系统架构设计师》考试还有72天。继续加油。 今天复习的内容是软件开模型 依次来说明每个软件开发模型的特点以及使用场景。 瀑布模型 瀑布模型就如同瀑布一样 
     </details> 
 
-- 🕯 [Azure | AZ-204 认证之旅-风起](https://juejin.cn/post/7136152827591655460) | Fri Aug 26 2022 12:00 PM 
+- 🚀 [Azure | AZ-204 认证之旅-风起](https://juejin.cn/post/7136152827591655460) | Fri Aug 26 2022 12:00 PM 
     <details><summary>展开描述 ...</summary> 
     在工作中，时常感觉云计算的业务能力不够，所以下定决心拿下Azure、Azure、GCP 相应的认证，不为别的，只为学习成体系的知识。此系列文章记录一系列考证之旅。 
     </details> 
 
-- 🚀 [MPAndroidChart自定义图表](https://juejin.cn/post/7136150356676837413) | Fri Aug 26 2022 11:48 AM 
+- 💪 [MPAndroidChart自定义图表](https://juejin.cn/post/7136150356676837413) | Fri Aug 26 2022 11:48 AM 
     <details><summary>展开描述 ...</summary> 
     MPAndroidChart自定义图表 声明：本文MPChart 代表的就是 MPAndroidChart。 1. 自定义Chart的Attribute 我们回忆一下自定义View的过程里，通常我们会 
-    </details> 
-
-- 💪 [【Mybatis】如何继承Mybatis中的Mapper.xml文件](https://juejin.cn/post/7136144554872274981) | Fri Aug 26 2022 11:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近在写一个 Mybatis 代码自动生成插件，用的是Mybatis来扩展，其中有一个需求就是 生成javaMappe 
     </details> 
 <!-- juejin:END -->
 ### 少数派
