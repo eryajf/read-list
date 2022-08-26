@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [彻底搞懂 Webpack 的 sourcemap 配置原理](https://juejin.cn/post/7136049758837145630) | Fri Aug 26 2022 5:18 AM 
+- 🤗 [提升Java代码简洁度的小技巧](https://juejin.cn/post/7136084634776895502) | Fri Aug 26 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
-    用过 webpack 的都知道，webpack 的 sourcemap 配置是比较麻烦的，比如这两个配置的区别： eval-nosources-cheap-module-source-map hidd 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 使用Google Guava依赖 创建一个list集合并赋值 最原始的办法： 简单改造： 终极改造： 去 
     </details> 
 
-- 🎡 [Rust 入门实战系列（7）- 控制流](https://juejin.cn/post/7136035834259570695) | Fri Aug 26 2022 4:24 AM 
+- 🎡 [手写axios的拦截器实现原理](https://juejin.cn/post/7136065256941420552) | Fri Aug 26 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-    控制流程是所有编程语言的基础，今天我们继续 Rust 初学者实战系列，看看在 Rust 中条件语句，循环语句怎么使用。 
+    axios拦截器本质上就是在请求前后对config和response对象进行修改，那就要求有一个任务链来收集用户定义的拦截器，然后链式调用，这里采用Promise来完成了链式调用。 
     </details> 
 
-- 🕯 [字节跳动开源自研 Shuffle 框架——Cloud Shuffle Service](https://juejin.cn/post/7136032877715652644) | Fri Aug 26 2022 4:13 AM 
+- 🕯 [性能优化|记一次线上OOM问题处理](https://juejin.cn/post/7136063993537363975) | Fri Aug 26 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-    字节跳动自研了 Cloud Shuffle Service，提供比大数据计算引擎常用的 Pull-Based Sort Shuffle 方案稳定性更好、性能更高、更弹性的数据 Shuffle 能力。 
+    概述 最近线上监控发现 OOM 涨幅较大，因此去尝试定位和修复这个问题，在修复了一些内存泄漏和大对象占用问题后, OOM 依旧未达到正常标准，在这些新上报的 hprof 文件中，发现几乎所有 case 
     </details> 
 
-- 🚀 [开放下载 | 飞天技术峰会-云原生加速应用构建分论坛资料开放下载](https://juejin.cn/post/7136032380715958279) | Fri Aug 26 2022 4:11 AM 
+- 🚀 [Dubbo 3 易用性升级之 Dubbo 官网大改版](https://juejin.cn/post/7136061781453045791) | Fri Aug 26 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    下午【云原生加速应用构建】分论坛，聚焦：FinOps、可观测与SRE、云原生 AI、Serverless、云原生技术中台等热点话题展开讨论。目前峰会分论坛资料已开放下载，关注阿里云云原生公众号，后台回 
+    本次文档的优化只是 Dubbo 在易用性体验优化上的一个开端，由于 Dubbo 官方文档的数量众多，难免存在疏漏的地方，我们欢迎大家持续对包括 Dubbo 官方文档在内的 Dubbo 易用性体验提出问 
     </details> 
 
-- 💪 [【剑指 Offer 精选】剑指 Offer II 008. 和大于等于 target 的最短子数组](https://juejin.cn/post/7136031122508480520) | Fri Aug 26 2022 4:05 AM 
+- 💪 [Vue 2 阅读理解（十四）之响应式系统（一）](https://juejin.cn/post/7136060980609417246) | Fri Aug 26 2022 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 题目描述 这是 LeetCode 上的 剑指 Offer II 008. 和大于等于 target 的最 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 响应式系统（一） 在 Vue 2 的官方文档 - 深入响应式原理 中介绍了 Vue 最独特的特性就是 非 
     </details> 
 <!-- juejin:END -->
 ### 少数派
