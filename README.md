@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [提升Java代码简洁度的小技巧](https://juejin.cn/post/7136084634776895502) | Fri Aug 26 2022 7:33 AM 
+- 🤗 [极简 Java 工作流概念入门](https://juejin.cn/post/7136085418054778893) | Fri Aug 26 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 使用Google Guava依赖 创建一个list集合并赋值 最原始的办法： 简单改造： 终极改造： 去 
+    关于 Flowable 松哥已经更新了好几篇文章了，不过考虑到有的小伙伴可能还从来没接触过流程引擎，因此有一些基础的内容我再来和小伙伴们梳理一下。 1. 为什么需要工作流 松哥将之前的文章转发到朋友圈 
     </details> 
 
-- 🎡 [手写axios的拦截器实现原理](https://juejin.cn/post/7136065256941420552) | Fri Aug 26 2022 6:18 AM 
+- 🎡 [[Flutter] Flutter 的 build 系统&lpar;番外篇&rpar;--build.yaml里面的参数都是啥？我用这些来干啥的？](https://juejin.cn/post/7136082099454836773) | Fri Aug 26 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-    axios拦截器本质上就是在请求前后对config和response对象进行修改，那就要求有一个任务链来收集用户定义的拦截器，然后链式调用，这里采用Promise来完成了链式调用。 
+    这次是对Flutter的build系统的build_config写法功能做个总结分析；权当分析整理吧； 
     </details> 
 
-- 🕯 [性能优化|记一次线上OOM问题处理](https://juejin.cn/post/7136063993537363975) | Fri Aug 26 2022 6:13 AM 
+- 🕯 [RxSwift概览&amp;&amp;核心Observable](https://juejin.cn/post/7136079583287672846) | Fri Aug 26 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 最近线上监控发现 OOM 涨幅较大，因此去尝试定位和修复这个问题，在修复了一些内存泄漏和大对象占用问题后, OOM 依旧未达到正常标准，在这些新上报的 hprof 文件中，发现几乎所有 case 
+    Observable 简介 Observable也是一个序列，其核心就是异步操作 Observable的生命周期: Observable发射包含元素的事件 它可以一直发射事件直到终止事件发生，比如发射 
     </details> 
 
-- 🚀 [Dubbo 3 易用性升级之 Dubbo 官网大改版](https://juejin.cn/post/7136061781453045791) | Fri Aug 26 2022 6:04 AM 
+- 🚀 [携手共建云原生生态 阿里云云原生加速器第二次集结圆满结营](https://juejin.cn/post/7136078255055962125) | Fri Aug 26 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    本次文档的优化只是 Dubbo 在易用性体验优化上的一个开端，由于 Dubbo 官方文档的数量众多，难免存在疏漏的地方，我们欢迎大家持续对包括 Dubbo 官方文档在内的 Dubbo 易用性体验提出问 
+    阿里云云原生加速器是阿里云加速器在云原生领域的重要投入，期望以此赋能创业企业，携手共建云原生行业新生态。作为国内规模较大、产业资源丰富、加速高效的赋能组织，在过去几年中，阿里云加速器深入多个垂直赛道， 
     </details> 
 
-- 💪 [Vue 2 阅读理解（十四）之响应式系统（一）](https://juejin.cn/post/7136060980609417246) | Fri Aug 26 2022 6:01 AM 
+- 💪 [总结｜8月日更挑战 - YOUR LIFE MATTERS](https://juejin.cn/post/7136074494170365982) | Fri Aug 26 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第26天，点击查看活动详情 响应式系统（一） 在 Vue 2 的官方文档 - 深入响应式原理 中介绍了 Vue 最独特的特性就是 非 
+    时光荏苒，已经连续不间断的 31 天更文了。今天笔者思考🤔着，我做这些东西的意义何在，是拿一些礼品，或者给一些不知道是谁的人评比一些奖给笔者？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
