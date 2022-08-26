@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone真不行 四款主流手机游戏信号测试](https://www.cnbeta.com/articles/tech/1309043.htm) | Fri Aug 26 2022 7:21 AM 
+- 🕯 [从事电信网络诈骗犯罪及关联犯罪或将记入信用记录](https://www.cnbeta.com/articles/tech/1309083.htm) | Fri Aug 26 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近和同事讨论起了关于主流手机打游戏是否因为网络问题而导致体验不佳的情况，同事们的意见也是众说纷纭。有同事表示都什么年代了，手机信号如果仅用于体验的话，应该都不会太差，但有的同事就认为，iPhone的信号有祖传的缺陷，信号不好的区域肯定会影响游戏体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;记者26日从全国人大常委会法制工作委员会发言人记者会获悉，即将提请全国人大常委会会议审议的反电信网络诈骗法草案三次审议稿拟规定，对从事电信网络诈骗犯罪及关联犯罪的人员，可以按照国家有关规定记入信用记录，并采取相应的惩戒措施。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [因连续十年财务造假 乐视网2.4亿罚款被强执](https://www.cnbeta.com/articles/tech/1309041.htm) | Fri Aug 26 2022 7:19 AM 
+- 💼 [有种电池，能让你的手机100年都不断电](https://www.cnbeta.com/articles/science/1309081.htm) | Fri Aug 26 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据天眼查App显示，近日，中国证券监督管理委员会与乐视网信息技术（北京）股份有限公司相关非诉行政行为申请执行审查文书公开。&lt;/strong&gt;文书显示，2021年3月，证监会作出行政处罚决定，查明乐视网存在2007年至2016年财务造假、未按规定披露关联交易等情况，同时乐视网2016年非公开发行股票行为构成欺诈发行，对乐视网处以2.4亿元罚款。因乐视网未缴纳罚款，故证监会向法院提出非诉行政行为申请执行审查。今年5月，法院对该强制执行申请予以准许。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你是否也在为手机频繁充电而头疼？你是否也为心脏起搏器定期手术更换电池而烦恼？你是否知道深海探测无人潜水器要如何才能更长久地工作？你知道火星车为了延长续航使用了一种特殊的电池吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [又一时速350高铁开建：全长482公里 贵阳至南宁从5小时缩短至2小时](https://www.cnbeta.com/articles/tech/1309039.htm) | Fri Aug 26 2022 7:18 AM 
+- 💂 [“富坚义博原画展- PUZZLE-”官方宣传PV 10月28日开幕](https://hot.cnbeta.com/articles/comic/1309079.htm) | Fri Aug 26 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月26日，贵南高铁（贵阳至南宁）正式进入全线铺轨阶段，&lt;strong&gt;全线预计2023年底开通运营，届时南宁至贵阳通行时间将从目前5个多小时缩短至2小时左右。&lt;/strong&gt;据了解，贵南高铁贯穿贵州省东南部和广西壮族自治区西北部，贵南高铁是我国“八纵八横”高速铁路网中包头至海口通道的重要组成部分，&lt;strong&gt;全长482公里，设计时速350公里。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（8月26日），“富坚义博原画展- PUZZLE-”公布官方宣传PV，画展将于2022年10月28日至2023年1月9日在日本东京举行，此外，还会在大阪和福冈进行巡回展出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1309079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Duolingo推出数学应用](https://www.cnbeta.com/articles/tech/1309037.htm) | Fri Aug 26 2022 7:17 AM 
+- 🚀 [28岁小伙久坐直播：结果患上肺栓塞](https://www.cnbeta.com/articles/tech/1309077.htm) | Fri Aug 26 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;是的，你没看错这个标题。Duolingo，这个语言学习应用现在有了一个配套的应用来教用户数学。据悉，这个新推出的应用叫Duolingo Math，不过应有的卡通形象--猫头鹰似乎已经被压缩成了一个立方体的样子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月26日消息，据央视网综合频道报道，今年28岁的网络主播小韩，常常坐在电脑前熬夜直播，前段时间他突发胸痛、呼吸困难，经检查被确诊为肺栓塞，所幸抢救及时，才捡回了一条命。医生介绍，&lt;strong&gt;他的肺栓塞正是久坐导致的。肺栓塞全称为“肺动脉栓塞”，通俗地说，就是肺动脉被栓子堵塞了，血栓是最常见的肺栓子。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [TP-Link推出Deco XE75 Pro AXE5400 全新三频Mesh Wi-Fi 6E系统](https://www.cnbeta.com/articles/tech/1309035.htm) | Fri Aug 26 2022 7:16 AM 
+- 🎊 [82.98万元起 全新一汽奥迪A8L正式上市](https://www.cnbeta.com/articles/tech/1309075.htm) | Fri Aug 26 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;TP-Link宣布，推出全新Deco XE75 Pro AXE5400三频Mesh Wi-Fi 6E系统。其具有Wi-Fi 6E、三频无线网络和多千兆连接功能，可连接多达200台设备，为更多Wi-Fi设备带来无拥堵的连接速度，让客户真正拥有千兆+高性能Wi-Fi+全家无缝漫游的Wi-Fi体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月26日消息，在成都车展期间，全新一汽奥迪A8L、S8L正式上市。其中A8L家族共提供5种车型&lt;strong&gt;，售价82.98~195.48万元，S8L售价207.68万元。&lt;/strong&gt;一汽奥迪给A8L的定位是豪华D级智慧旗舰座驾，严格来说它是2018年底盘代号D5车型的中期改款，外观进行了巨大改变。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
