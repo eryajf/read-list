@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [亚马逊杰夫贝佐斯的空间站比你想象的更接近现实](https://www.cnbeta.com/articles/tech/1309191.htm) | Fri Aug 26 2022 4:24 PM 
+- 🕯 [美司法部正起草针对苹果的反垄断诉讼 目前处于早期阶段](https://www.cnbeta.com/articles/tech/1309193.htm) | Fri Aug 26 2022 7:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;媒体援引知情人士周五报道，美国司法部的律师正处于起草针对苹果公司的潜在反垄断诉讼的早期阶段。这表明一项长期调查可能已接近决定点，诉讼可能很快就会到来。知情人士称，美国司法部内部的各个检察官小组正在为可能的诉讼进行整合，反垄断部门希望在今年年底前提起诉讼。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [亚马逊杰夫贝佐斯的空间站比你想象的更接近现实](https://www.cnbeta.com/articles/tech/1309191.htm) | Fri Aug 26 2022 4:24 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;杰夫-贝索斯的空间站可能看起来过于雄心勃勃，但现在它正在取得进展&lt;/strong&gt;，它开始变得不仅仅是一个空想。航空航天公司蓝色起源的CEO已经涉足商业化太空旅行有一段时间了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [安全研究人员发现一场巨大的网络钓鱼活动 针对超过130家公司](https://www.cnbeta.com/articles/tech/1309189.htm) | Fri Aug 26 2022 4:09 PM 
+- 💂 [安全研究人员发现一场巨大的网络钓鱼活动 针对超过130家公司](https://www.cnbeta.com/articles/tech/1309189.htm) | Fri Aug 26 2022 4:09 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;安全研究人员发现，&lt;strong&gt;超过130个组织，包括Twilio、DoorDash和Signal，都有可能被黑客入侵&lt;/strong&gt;，这是被安全研究人员称为 &amp;quot;0ktapus&amp;quot;的长达数月的网络钓鱼活动一部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新App使用人工智能对皮肤状况进行分类并且进行准确诊断](https://www.cnbeta.com/articles/tech/1309187.htm) | Fri Aug 26 2022 3:21 PM 
+- 🚀 [新App使用人工智能对皮肤状况进行分类并且进行准确诊断](https://www.cnbeta.com/articles/tech/1309187.htm) | Fri Aug 26 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;由Susan Conover创办的Piction Health公司利用机器学习来帮助医生识别和管理皮肤病&lt;/strong&gt;。Piction Health最初是一个移动应用程序，使用人工智能从图像中识别黑色素瘤。然而，随着时间的推移，Conover意识到其他皮肤病构成了医生和皮肤科医生看到的绝大多数病例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [四川仁寿黑龙滩水库露出明代佛像：高温干旱致水位下降所致](https://www.cnbeta.com/articles/tech/1309185.htm) | Fri Aug 26 2022 3:15 PM 
+- 🎊 [四川仁寿黑龙滩水库露出明代佛像：高温干旱致水位下降所致](https://www.cnbeta.com/articles/tech/1309185.htm) | Fri Aug 26 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;因为高温干旱导致的水位下降，又一处古遗迹得以“重见天日”。据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/6105713761/M2QfSn1ei&quot; target=&quot;_blank&quot;&gt;红星视频&lt;/a&gt;，四川眉山市仁寿县黑龙滩一尊以前深藏于水下的坐佛，因水位下降，露出了大半个身体。眉山文物部门介绍，这尊坐佛名叫四新村千佛岩摩崖造像，它是明代坐佛，为弥勒像，座高16米，肩宽7.2米，高浮雕，宽衣博带，右手执念珠搁膝，善跏趺坐于素面台基。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [美国政府将使其资助的所有研究在发表时开放访问](https://www.cnbeta.com/articles/science/1309183.htm) | Fri Aug 26 2022 3:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在周四，白宫科技政策办公室（OSTP）抛出了一个似乎让所有人都感到意外的决定。&lt;strong&gt;从2026年开始，任何接受联邦资助的科学出版物都需要在其出版之日公开访问。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
