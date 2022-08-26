@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有关 Visual Studio Code Java 的 8 月更新](https://www.v2ex.com/t/875590#reply0) | Fri Aug 26 2022 6:28 AM
-- 🤗 [国内云服务器厂商，弱弱的问一句，你们出了问题，为啥我们付费用户来买单？亿点点的补救补偿都没有？这就是信仰？割韭菜割的自己不知道是谁了吧?](https://www.v2ex.com/t/875588#reply4) | Fri Aug 26 2022 6:20 AM
-- 🎭 [MacOS 下 qq.db 的数据库密码是啥？](https://www.v2ex.com/t/875582#reply2) | Fri Aug 26 2022 6:05 AM
-- 🥷 [Java on Visual Studio Code 的更新 – 2022 年 8 月](https://www.v2ex.com/t/875578#reply0) | Fri Aug 26 2022 5:52 AM
-- 🐵 [感觉元宇宙是骗局概念的，招聘也避开北京的这些公司，但怎么越来越热烧到硬件厂商了啊？？](https://www.v2ex.com/t/875575#reply16) | Fri Aug 26 2022 5:43 AM<!-- v2ex:END -->
+- 🥸 [escape 单词翻译](https://www.v2ex.com/t/875604#reply3) | Fri Aug 26 2022 7:09 AM
+- 🤗 [有关 Visual Studio Code Java 的 8 月更新](https://www.v2ex.com/t/875590#reply0) | Fri Aug 26 2022 6:28 AM
+- 🎭 [国内云服务器厂商，弱弱的问一句，你们出了问题，为啥我们付费用户来买单？亿点点的补救补偿都没有？这就是信仰？割韭菜割的自己不知道是谁了吧?](https://www.v2ex.com/t/875588#reply6) | Fri Aug 26 2022 6:20 AM
+- 🥷 [MacOS 下 qq.db 的数据库密码是啥？](https://www.v2ex.com/t/875582#reply4) | Fri Aug 26 2022 6:05 AM
+- 🐵 [Java on Visual Studio Code 的更新 – 2022 年 8 月](https://www.v2ex.com/t/875578#reply0) | Fri Aug 26 2022 5:52 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
