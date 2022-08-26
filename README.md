@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [黑客正使用AiTM攻击监控企业高管的 Microsoft 365 帐户](https://www.freebuf.com/news/342973.html) | Fri Aug 26 2022 5:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是一种典型的商业电子邮件泄露攻击，目的很可能是将大笔资金交易转移到攻击者控制的银行账户中。 
+    </details> 
+
 - 🦄 [疑因泄露受害者数据，LockBit团伙遭受DDoS攻击](https://www.freebuf.com/news/342968.html) | Fri Aug 26 2022 5:31 AM 
     <details><summary>展开描述 ...</summary> 
     此次 DDoS 攻击似乎是对其曝光安全公司 Entrust 被盗数据的报复。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 斥巨资拍下豪车，因黑客攻击无法提车；俄恶意软件颠覆AD FS身份验证](https://www.freebuf.com/news/342923.html) | Thu Aug 25 2022 11:25 AM 
+- 🦅 [FreeBuf早报 | 斥巨资拍下豪车，因黑客攻击无法提车；俄恶意软件颠覆AD FS身份验证](https://www.freebuf.com/news/342923.html) | Thu Aug 25 2022 11:25 AM 
     <details><summary>展开描述 ...</summary> 
     一名男子在拍卖平台花2200万拍下一辆柯尼塞格Regera超跑，提车时拍卖平台告知，因为受到黑客攻击，导致拍卖结果有误。 
     </details> 
 
-- 🦅 [从WPS到百度网盘，我们真的“活在监控之下”？](https://www.freebuf.com/news/342875.html) | Thu Aug 25 2022 5:44 AM 
+- 🪄 [从WPS到百度网盘，我们真的“活在监控之下”？](https://www.freebuf.com/news/342875.html) | Thu Aug 25 2022 5:44 AM 
     <details><summary>展开描述 ...</summary> 
     两次事件再次勾起了网友那些埋藏深底的，对个人隐私安全深深的忧虑，内容安全和隐私保护的边界又在哪里? 
     </details> 
 
-- 🪄 [谷歌发现伊朗黑客新工具，可窃取Gmail、雅虎、Outlook等电子邮件账户](https://www.freebuf.com/news/342863.html) | Thu Aug 25 2022 4:11 AM 
+- 💻 [谷歌发现伊朗黑客新工具，可窃取Gmail、雅虎、Outlook等电子邮件账户](https://www.freebuf.com/news/342863.html) | Thu Aug 25 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
     Charming Kitten在其恶意软件库中增加了一个新工具，可以从Gmail、雅虎和微软Outlook账户中检索用户数据。 
-    </details> 
-
-- 💻 [多米尼加共和国政府机构遭受勒索软件攻击](https://www.freebuf.com/news/342859.html) | Thu Aug 25 2022 3:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    多米尼加共和国的多米尼加农业研究所（Instituto Agrario Dominicano）遭到了 Quantum 勒索软件的疯狂攻击。 
     </details> 
 <!-- freebuf:END -->
 
