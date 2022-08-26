@@ -353,7 +353,7 @@
     此次 DDoS 攻击似乎是对其曝光安全公司 Entrust 被盗数据的报复。 
     </details> 
 
-- 💻 [实战复盘：内网环境入侵ms-SQL数据库](https://www.freebuf.com/articles/network/342945.html) | Thu Aug 25 2022 11:41 PM 
+- 💻 [实战复盘：内网环境渗透ms-SQL数据库](https://www.freebuf.com/articles/network/342945.html) | Thu Aug 25 2022 11:41 PM 
     <details><summary>展开描述 ...</summary> 
     web服务器、ms-SQL服务器、PC客户端在同一个网络中，是一种危险的网络结构，入侵ms-SQL服务器，非常容易。 
     </details> 
