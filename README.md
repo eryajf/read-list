@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [拆卡直播间：收割年轻人的新项目来了？](https://www.cnbeta.com/articles/tech/1308773.htm) | Thu Aug 25 2022 11:28 PM 
+- 🕯 [科隆开幕夜24小时后观看最多的游戏预告：原神第一](https://hot.cnbeta.com/articles/game/1308899.htm) | Fri Aug 26 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“谁能告诉我这是在干啥？”如果你对拆卡一无所知，大概率会在进入拆卡直播间后产生同样的疑问。一张桌子，搭配一个透明亚克力板材质的置物架，再加上主播的一双手以及他拿着的一叠花花绿绿的纸卡，成了诸多拆卡直播间的“标配”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日分析师Benji Sales在Twitter上分享了一份2022年科隆游戏展开幕夜直播24小时后，在油管上观看次数最多的七款游戏预告，一起来看看吧&lt;/strong&gt;！Benji Sales统计的是官方在油管上发布的，观看次数超过5万次的原创预告，不包括反应或评论视频。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [慧聪网“断臂求生”最新进展：已有员工陆续离职](https://www.cnbeta.com/articles/tech/1308771.htm) | Thu Aug 25 2022 11:21 PM 
+- 💼 [O.MG Elite破解工具演示：外观似Lightning线 但可入侵iPhone和Mac设备](https://www.cnbeta.com/articles/tech/1308897.htm) | Fri Aug 26 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在市场进入寒冬之际，慧聪网选择砍掉传统电话销售（下称电销）业务，断臂求生。&lt;strong&gt;8月24日，一则流传的截图揭开了慧聪网部分业务的生存现状。图中，北京慧聪叁陆零科技有限公司（下称慧聪科技）发布《停工待岗通知》称，因公司经营遇到困难，经公司讨论决定，于2022年8月25日起，停止经营，全员停工待岗，办公区关闭。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在拉斯维加斯召开的 DEFCON 大会上，MG 展示了全新的 O.MG Elite 工具。&lt;/strong&gt;MG 推出的最新破解工具在外观上看起来就像是一根 Lightning 充电线缆，但它可以破解各种设备，注入命令、记录键盘敲击等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [SpaceX获亿万富豪投资1亿美元：能挑战特斯拉的只有SpaceX](https://www.cnbeta.com/articles/tech/1308769.htm) | Thu Aug 25 2022 11:14 PM 
+- 💂 [华谊公布重点影片上映计划：《流浪地球2》、《美人鱼2》已进入后期制作阶段](https://hot.cnbeta.com/articles/movie/1308895.htm) | Fri Aug 26 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月26日消息，巴伦基金创始人兼首席执行官、亿万富翁罗恩·巴伦（Ron Baron）在过去几个月里向SpaceX投资了1亿美元。当地时间周四巴伦在接受采访时表示，自己持有的特斯拉股票在未来10年将获得3到5倍的回报。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你期待的将上映国产大片有哪些？《流浪地球2》、周星驰的《美人鱼2》都包含其中吧....现在，华谊兄弟发布2022年半年度报告，并公布几部下半年重点影片的进度和上映计划。&lt;strong&gt;半年度报告显示电影《狗阵》《流浪地球2》《749 局》《美人鱼2》《爱很美味》均已进入后期制作阶段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《生化奇兵》电影将由《我是传奇》的导演执导](https://hot.cnbeta.com/articles/movie/1308767.htm) | Thu Aug 25 2022 11:11 PM 
+- 🚀 [中国最北高铁站正式开工建设：再次刷新建设纬度](https://www.cnbeta.com/articles/tech/1308893.htm) | Fri Aug 26 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Netflix公布了正在制作的《生化奇兵》改编电影的导演和编剧。在Netflix官方账号的一条推特上，这家流媒体巨头宣布，《我是传奇》和《饥饿游戏2：星火燎原》的导演弗朗西斯·劳伦斯将执导这部电影。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中国铁建官方消息，8月24日，&lt;strong&gt;由中铁建设承建的哈伊高铁铁伊铁路伊春西站开始桩基础施工&lt;/strong&gt;，这标志着我国最北高铁站房正式开工建设。据了解，哈伊高铁铁伊段位于黑龙江省中部，是我国目前在建的最北端高速铁路，线路起自铁力市，终至伊春市，&lt;strong&gt;全长111.3公里，线路设计时速250公里&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308893.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《泡泡龙：一起泡泡战》首次支持四人一起玩故事模式](https://hot.cnbeta.com/articles/game/1308765.htm) | Thu Aug 25 2022 11:10 PM 
+- 🎊 [日本尼康研发3D ArF光刻机 预计未来销量翻倍](https://www.cnbeta.com/articles/tech/1308891.htm) | Fri Aug 26 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;德国科隆展期间，游戏开发商Taito和发行商INN正式公布了泡泡龙系列最新作《泡泡龙：一起泡泡战（Puzzle Bobble Everybubble）》，本作预计在2023年发售，由任天堂Switch平台独占。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《泡泡龙：一起泡泡战》预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在光刻机市场上，最近十多年来荷兰ASML公司一家独大，EUV光刻机中更是独一份，10亿一台的价格都供不应求，而传统的光刻机大厂日本佳能、尼康已经被甩开，不过尼康已经制定策略，重点放在3D光刻机上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308891.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
