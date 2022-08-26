@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9752133) | Thu Aug 25 2022 12:27 AM
-- 🐻 [《红楼梦》中贾府的生活方式能算顶端的贵族生活吗？](http://daily.zhihu.com/story/9752123) | Thu Aug 25 2022 12:27 AM
-- 🌏 [用极端落后技术（至少落后两代）造先进武器会造出什么奇葩来？](http://daily.zhihu.com/story/9752114) | Thu Aug 25 2022 12:27 AM
-- 🕴 [西餐有哪些菜和中餐几乎完全一致的原料和做法？](http://daily.zhihu.com/story/9752105) | Thu Aug 25 2022 12:27 AM
-- 🌮 [中国最后一位女酋长去世，是茅盾文学奖《额尔古纳河右岸》主人公原型，中国独有的驯鹿文化该如何继续传承？](http://daily.zhihu.com/story/9752096) | Thu Aug 25 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9752162) | Fri Aug 26 2022 12:27 AM
+- 🐻 [联邦学习是一个伪需求吗？](http://daily.zhihu.com/story/9752140) | Fri Aug 26 2022 12:27 AM
+- 🌏 [多地推出与景区实景结合剧本杀项目，该模式是昙花一现还是未来可期？](http://daily.zhihu.com/story/9752144) | Fri Aug 26 2022 12:27 AM
+- 🕴 [小朋友第一次去幼儿园，怎样让他能够比较容易接受幼儿园的环境？](http://daily.zhihu.com/story/9752153) | Fri Aug 26 2022 12:27 AM
+- 🌮 [为什么南方的老鼠蟑螂蚊子等昆虫体型较大，而人类个体体型却低于北方？](http://daily.zhihu.com/story/9752157) | Fri Aug 26 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
