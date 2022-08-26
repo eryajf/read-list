@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [第三代香山RISC-V开源处理器核研发启动](https://www.cnbeta.com/articles/tech/1309127.htm) | Fri Aug 26 2022 10:29 AM 
+- 🕯 [NASA巨型月球火箭发射准备工作仍在进行中 天气状况70%有利](https://www.cnbeta.com/articles/science/1309153.htm) | Fri Aug 26 2022 12:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月26日消息，日前，第二届RISC-V中国峰会北京会场系列活动“首届北京开源芯片生态产业论坛”正式举行。据中科院计算所副所长包云岗介绍，香山开源高性能RISC-V处理器核发展历程迎来又一里程碑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;工程团队继续为美国宇航局的巨型月球火箭、猎户座飞船和地面系统进行准备，以便实施Artemis I发射工作。两个小时的发射窗口在美国东部时间8月29日星期一上午8点33分（太平洋时间5点33分）开启。这将是该机构的太空发射系统（SLS）火箭和完整的猎户座航天器的首次飞行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [能源初创企业Lunar Energy将推出对标特斯拉Powerwall的家用储能产品](https://www.cnbeta.com/articles/tech/1309125.htm) | Fri Aug 26 2022 10:20 AM 
+- 💼 [比亚迪加速出海进军欧洲市场 首批车今年第四季度交付](https://www.cnbeta.com/articles/tech/1309151.htm) | Fri Aug 26 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;特斯拉前能源产品负责人、化学工程师 Kunal Girotra 刚刚成立了一家新的初创企业，致力于为用户提供对标 Powerwall 的家庭储能解决方案。&lt;/strong&gt;在特斯拉任职的五年时间里，他曾领导包括 Powerwall、太阳能电池板、以及光伏屋顶在内的能源产品开发。2018 年的时候，Girotra 升任特斯拉能源公司负责人，直到 2020 年离职。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月26日消息，据比亚迪汽车官微，&lt;strong&gt;近日比亚迪宣布于今年秋季面向欧洲市场推出多款新能源车型，&lt;/strong&gt;车型包括比亚迪唐、汉、以及元PLUS（当地命名为BYD ATTO 3），并将在今年十月亮相巴黎车展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [蔚来公布灰熊做空报告内部调查结果 相关指控无事实依据](https://www.cnbeta.com/articles/tech/1309123.htm) | Fri Aug 26 2022 10:00 AM 
+- 💂 [把屁憋回去之后它去哪里了？史上最臭科普来了](https://www.cnbeta.com/articles/tech/1309149.htm) | Fri Aug 26 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月26日消息，蔚来发布公告，发布了对做空机构灰熊（Grizzly Research LLC）做空报告独立内部调查结果。独立调查委员会表示，做空报告均无事实依据。今年6月28日做空机构灰熊发表报告，称蔚来效仿Valeant式的会计游戏，通过夸大收入和提高净利润率来达到目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;可能有不少人都会有过在公共场合放屁的尴尬瞬间，为了避免这种尴尬，很多人都会选择尽量轻一点，至少不出声……还会有一些人，为了避免尴尬，强行把屁给憋回去……其实放屁是一种正常的生理现象，正常情况下人一天会放屁10-15次，约排出500毫升左右的气体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [库克：苹果的目标是不再消耗地球上的任何资源](https://www.cnbeta.com/articles/tech/1309121.htm) | Fri Aug 26 2022 9:54 AM 
+- 🚀 [DXOMARK有没有卖分？CEO亲自回应](https://www.cnbeta.com/articles/tech/1309147.htm) | Fri Aug 26 2022 12:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，&lt;strong&gt;苹果现任CEO库克在接受媒体采访时提到，苹果的长期目标是不用地球上的任何资源来制造产品。&lt;/strong&gt;为此，现阶段类似Mac、iPhone等产品中部分的铝和稀土等都是回收再利用的，且苹果也在通过机器人把旧iPhone上的东西换到新iPhone的核心部件上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久，&lt;strong&gt;雷军宣布小米12S Ultra不会送测DXOMARK引发热议。&lt;/strong&gt;随后，DXOMARK官方发声称，自己始终坚持专业、可观的标准，并且会自费购买小米12S Ultra来进行测试，再度引爆网友讨论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [10年造假被罚2.4亿 乐视总债达124.4亿 官方回应：债要一点一点还](https://hot.cnbeta.com/articles/movie/1309119.htm) | Fri Aug 26 2022 9:51 AM 
+- 🎊 [AMD、NVIDIA显卡8月跌价6%：再忍忍 大的在后面](https://www.cnbeta.com/articles/tech/1309145.htm) | Fri Aug 26 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，北京金融法院裁定&lt;strong&gt;准予强制执行证监会针对被执行人乐视网2.4亿元罚款的行政处罚。&lt;/strong&gt;裁定书显示，2021年3月证监会查明乐视网从2007年至2016年财务造假，其报送、披露的申请首次公开发行股票并上市相关文件及2010年至2016年年报存在虚假记载。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA前几天发布的23财年Q2季度财报中，承认了之前预告的游戏业务全面下滑的情况，营收跌了33%，季度盈利更是暴跌72%，而且库存高达数百亿元，Q3季度的情况还会恶化一些。NVIDIA CEO黄仁勋表示，&lt;strong&gt;他们会跟零售商一起合作调整价格，以应对市场挑战，换言之RTX 30系列显卡还要继续降价。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
