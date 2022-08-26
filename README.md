@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [GIF Brewery 3.9.5 功能强大的动图制作工具](https://xclient.info/s/gif-brewery.html) | Thu Aug 25 2022 3:39 AM 
+- 🦏 [DreamPlan Plus 7.57 房屋设计](https://xclient.info/s/dreamplan-plus.html) | Fri Aug 26 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    GIF Brewery，该款软件除了能够将视频文件自动转换为GIF动画文件，还支持在转换前剪切大小、调整帧数、添加标题等功能，是一款十分优秀的软件。 
+    DreamPlan是一款Mac上的房屋设计软件，为您提供创建逼真的3D房子模型和计划整修项目的工具，包括花园空间彻底规划您的房屋改造项目，并使用模拟软件预览您想要做的更改可以为您节省许多时间。 
     </details> 
 
--  [Wattagio 1.13 电池检测工具](https://xclient.info/s/wattagio.html) | Thu Aug 25 2022 2:27 AM 
+-  [Keep It 2.0.12 内容收藏夹](https://xclient.info/s/keep-it.html) | Fri Aug 26 2022 1:21 AM 
     <details><summary>展开描述 ...</summary> 
-    Wattagio是一个Mac上的电池检测工具，通知您当前的电池使用状况，并有助于降低用电量。 
+    Keep It 是Mac平台上的一款保存笔记，保存网页链接，存储文件的效率工具。Keep It 支持icloud同步，用户可以在所有支持icloud的设备上同步自己的数据资料。 
     </details> 
 
-- ⚗️ [Permute 3.9.9 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Thu Aug 25 2022 2:25 AM 
+- ⚗️ [Alfred 5.0.2&lpar;2072&rpar; 效率神器](https://xclient.info/s/alfred.html) | Fri Aug 26 2022 1:21 AM 
     <details><summary>展开描述 ...</summary> 
-    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
+    Alfred 这是一款被称之为Mac效率神器的App，有了Alfred 你甚至无需鼠标就可以实现各种操作，包括出发各种文件、网络操作，其UI界面使用方便，而且不是通过命令来实现，是开发者们和键盘刘童鞋们的神器，比之此前类似的软件——Pack和Power来说完全是秒杀的节奏。 
     </details> 
 
-- 🔥 [GrandTotal 7.3.5.18 一款非常实用的发票设计工具](https://xclient.info/s/grandtotal.html) | Thu Aug 25 2022 2:23 AM 
+- 🔥 [Synalyze It! Pro 1.26 二进制编辑器](https://xclient.info/s/synalyze-it-pro.html) | Fri Aug 26 2022 1:20 AM 
     <details><summary>展开描述 ...</summary> 
-    GrandTotal 是Mac OS X 上的一款非常实用的发票设计工具，可以根据一个内置的模板编辑器来重新调整布局，创建属于自己的发票模版，适合企业和个人来进行形象设计。 
+    Synalyze It! Pro 是一款Mac平台的二进制编辑器，让你轻松地编辑和分析任何大小的二进制文件。支持多种字符编码，它将允许您以交互方式定义为各种格式的文件的语法。是完美的编辑保存的游戏或其他未知的二进制文件格式，并支持反向工程。 
     </details> 
 
-- 🌋 [Smart Converter Pro 3.1.2.1 智能高效的多媒体文件转换工具](https://xclient.info/s/smart-converter-pro.html) | Thu Aug 25 2022 2:22 AM 
+- 🌋 [Mellel 5.1.3 一款强大的国际论文写作工具](https://xclient.info/s/mellel.html) | Fri Aug 26 2022 1:19 AM 
     <details><summary>展开描述 ...</summary> 
-    Smart Converter Pro 堪称当前最智能,简易,和高效的转换工具,比其他转换器提供更快速和高质的转换服务。 
+    Mellel是一款强大的写作工具，严格意义上讲属于文本编辑器。 
     </details> 
 <!-- xclient:END -->
 
