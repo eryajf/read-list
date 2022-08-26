@@ -809,7 +809,7 @@
     不放心去查查吧 
     </details> 
 
-- 🙉 [马萨诸塞的计算机科学教授认为 GitHub Copilot 会让该专业的学生作弊成风](http://jandan.net/p/111196) | Fri Aug 26 2022 4:34 AM 
+- 🙉 [马萨诸塞的计算机教授认为 GitHub Copilot 会让该专业的学生作弊成风](http://jandan.net/p/111196) | Fri Aug 26 2022 4:34 AM 
     <details><summary>展开描述 ...</summary> 
     GitHub Copilot是微软的 代码建议专家系统  
     </details> 
