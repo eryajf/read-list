@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [粤小词 - 学习广东‪话‬](https://xinquji.com/posts/178935?utm_campaign=xinquji-rss) | Fri Aug 26 2022 10:52 AM 
+- 👀 [WFH.FM - Turntable FM 遇见 Poolside FM 遇见你](https://xinquji.com/posts/179061?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     学习广东‪话‬  
+     Turntable FM 遇见 Poolside FM 遇见你  
     </details> 
 
-- 🥷 [Contribute - 人先任务后](https://xinquji.com/posts/179040?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:46 AM 
+- 🥷 [Business Deal - 一款快节奏的纸牌交易游戏，灵感来自 Monopoly Deal](https://xinquji.com/posts/179060?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     人先任务后  
+     一款快节奏的纸牌交易游戏，灵感来自 Monopoly Deal  
     </details> 
 
-- 💼 [Upword - 将任何内容转化为您的知识](https://xinquji.com/posts/179039?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:44 AM 
+- 💼 [Mood Surf - 从技术 Twitter 中发现专家见解](https://xinquji.com/posts/179059?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     将任何内容转化为您的知识  
+     从技术 Twitter 中发现专家见解  
     </details> 
 
-- 🦅 [HelpKit Knowledge Base - 使用 Notion 构建专业的帮助中心或文档站点](https://xinquji.com/posts/179038?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:42 AM 
+- 🦅 [Pointer Dev Blog - 快速阅读以了解现代网络技术](https://xinquji.com/posts/179058?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 Notion 构建专业的帮助中心或文档站点  
+     快速阅读以了解现代网络技术  
     </details> 
 
-- 😺 [Luna - Your AI Sales Assistant - 不费吹灰之力就获得更多关于冷外展的回复](https://xinquji.com/posts/179037?utm_campaign=xinquji-rss) | Fri Aug 26 2022 6:40 AM 
+- 😺 [NameGrab.io - 每天交付的精选品牌域名](https://xinquji.com/posts/179057?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     不费吹灰之力就获得更多关于冷外展的回复  
+     每天交付的精选品牌域名  
     </details> 
 <!-- xinquji:END -->
