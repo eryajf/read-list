@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [一派·Podcast | 一场设计梦，做了十余年](https://sspai.com/post/75359) | Fri Aug 26 2022 6:31 AM 
+- 👹 [找出歌名，让歌出名：来头不小的 Shazam 是怎么来的？](https://sspai.com/post/75362) | Fri Aug 26 2022 8:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    「Shazam 一下」代表的是一种发自内心的认可和鼓励，而不在乎一个人是否名满天下，也无所谓一首歌是否脍炙人口；但它也确实让很多人因此名满天下，让很多歌因此脍炙人口。&lt;a href=&quot;https://sspai.com/post/75362&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [一派·Podcast | 一场设计梦，做了十余年](https://sspai.com/post/75359) | Fri Aug 26 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
     听听少数派新同事对设计的看法，并请他回顾自己过去十年间与设计的故事。&lt;a href=&quot;https://sspai.com/post/75359&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一日一技 | 没有满意的 Obsidian 外观？不如自己动手做一个](https://sspai.com/post/75363) | Fri Aug 26 2022 3:29 AM 
+- 🤭 [一日一技 | 没有满意的 Obsidian 外观？不如自己动手做一个](https://sspai.com/post/75363) | Fri Aug 26 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     Obsidian 有许多优点，其中一个就是自带社区主题库，用户可以随意更换样式，不再天天看千篇一律的外观。然而，尽管社区主题库里有很多主题样式，说实话，没有一个能百分之百令我满意的。&lt;a href=&quot;https://sspai.com/post/75363&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：iQOO 发布 Z6 系列手机、大疆发布无人机新品 DJI Avata](https://sspai.com/post/75369) | Fri Aug 26 2022 1:01 AM 
+- 🥸 [派早报：iQOO 发布 Z6 系列手机、大疆发布无人机新品 DJI Avata](https://sspai.com/post/75369) | Fri Aug 26 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
     三星发布 990 Pro 固态硬盘，索尼宣布调整上调 PS5 价格等&lt;a href=&quot;https://sspai.com/post/75369&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [新玩意 117｜少数派的编辑们最近买了啥？](https://sspai.com/post/75357) | Thu Aug 25 2022 9:33 AM 
+- 🙉 [新玩意 117｜少数派的编辑们最近买了啥？](https://sspai.com/post/75357) | Thu Aug 25 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     不嫌事大，battle 一下。&lt;a href=&quot;https://sspai.com/post/75357&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [甜味剂解密 2：关于代糖的几点迷思](https://sspai.com/post/75350) | Thu Aug 25 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    代糖是什么？我们是怎么吃出来甜味的？无糖可乐为什么味道不大一样？这篇文章告诉你。&lt;a href=&quot;https://sspai.com/post/75350&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
