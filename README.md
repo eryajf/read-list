@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科隆开幕夜24小时后观看最多的游戏预告：原神第一](https://hot.cnbeta.com/articles/game/1308899.htm) | Fri Aug 26 2022 2:02 AM 
+- 🕯 [特斯拉分享 Dojo 定制 AI 超级计算机更多信息](https://www.cnbeta.com/articles/tech/1308967.htm) | Fri Aug 26 2022 4:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日分析师Benji Sales在Twitter上分享了一份2022年科隆游戏展开幕夜直播24小时后，在油管上观看次数最多的七款游戏预告，一起来看看吧&lt;/strong&gt;！Benji Sales统计的是官方在油管上发布的，观看次数超过5万次的原创预告，不包括反应或评论视频。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉在今年召开的 Hot Chips 34 上公布了最新 Dojo 微架构，现在该公司分享了更多的细节。该公司希望创建一台人工智能超级计算机来辅助其车辆行使的视频数据。&lt;a href=&quot;https://www.servethehome.com/tesla-dojo-custom-ai-supercomputer-at-hc34/&quot; target=&quot;_blank&quot;&gt;Serve The Home&lt;/a&gt; 网站获取了许多幻灯片，并对这款定制的 AI 超级计算机进行了深入分析。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [O.MG Elite破解工具演示：外观似Lightning线 但可入侵iPhone和Mac设备](https://www.cnbeta.com/articles/tech/1308897.htm) | Fri Aug 26 2022 2:01 AM 
+- 💼 [前迪士尼和EA开发者公开新环保主题工作室](https://hot.cnbeta.com/articles/game/1308965.htm) | Fri Aug 26 2022 4:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在拉斯维加斯召开的 DEFCON 大会上，MG 展示了全新的 O.MG Elite 工具。&lt;/strong&gt;MG 推出的最新破解工具在外观上看起来就像是一根 Lightning 充电线缆，但它可以破解各种设备，注入命令、记录键盘敲击等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;迪士尼、EA 和 Kabam 的前员工正式公布了一家新的游戏公司，旨在“利用游戏、人员和技术的力量应对气候变化”。该工作室名为Carbon Counts（碳计数），成立于2020 年 11 月，但在开发其首个手机游戏 《EverForest》时一直在秘密运营。随着玩家在《EverForest》故事中的进展，该工作室表示将种植真正的树木作为回报。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华谊公布重点影片上映计划：《流浪地球2》、《美人鱼2》已进入后期制作阶段](https://hot.cnbeta.com/articles/movie/1308895.htm) | Fri Aug 26 2022 1:59 AM 
+- 💂 [Xbox首席产品经理：电视是云游戏主流化的关键](https://hot.cnbeta.com/articles/game/1308963.htm) | Fri Aug 26 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你期待的将上映国产大片有哪些？《流浪地球2》、周星驰的《美人鱼2》都包含其中吧....现在，华谊兄弟发布2022年半年度报告，并公布几部下半年重点影片的进度和上映计划。&lt;strong&gt;半年度报告显示电影《狗阵》《流浪地球2》《749 局》《美人鱼2》《爱很美味》均已进入后期制作阶段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1308895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在科隆国际游戏展上接受 GI.biz 采访时，Xbox首席产品经理 Harrison Hoffman 表示，虽然将微软的巨型游戏库带到移动设备上仍然是云游戏的主要吸引力这一，但在电视上玩游戏仍然是云游戏服务的关键。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国最北高铁站正式开工建设：再次刷新建设纬度](https://www.cnbeta.com/articles/tech/1308893.htm) | Fri Aug 26 2022 1:58 AM 
+- 🚀 [Nreal Air AR眼镜评测：“视觉放大器” 轻松实现巨幕体验](https://www.cnbeta.com/articles/tech/1308961.htm) | Fri Aug 26 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中国铁建官方消息，8月24日，&lt;strong&gt;由中铁建设承建的哈伊高铁铁伊铁路伊春西站开始桩基础施工&lt;/strong&gt;，这标志着我国最北高铁站房正式开工建设。据了解，哈伊高铁铁伊段位于黑龙江省中部，是我国目前在建的最北端高速铁路，线路起自铁力市，终至伊春市，&lt;strong&gt;全长111.3公里，线路设计时速250公里&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308893.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在体验 Nreal Air 的一周多时间里，最吸引我的并不是重量、造型带来的舒适佩戴体验，不是新一代索尼 Micro OLED、130 英寸空中投屏带来的震撼视觉刺激，也不是 Nreal 3D 空间交互系统带来的丰富信息呈现，而是在娱乐、办公、社交和运动等领域的积极探索，为我们开启空间巨幕化潮流生活。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [日本尼康研发3D ArF光刻机 预计未来销量翻倍](https://www.cnbeta.com/articles/tech/1308891.htm) | Fri Aug 26 2022 1:57 AM 
+- 🎊 [童年经典回归 《仙剑4》重制版正式宣布立项](https://hot.cnbeta.com/articles/game/1308959.htm) | Fri Aug 26 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在光刻机市场上，最近十多年来荷兰ASML公司一家独大，EUV光刻机中更是独一份，10亿一台的价格都供不应求，而传统的光刻机大厂日本佳能、尼康已经被甩开，不过尼康已经制定策略，重点放在3D光刻机上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1308891.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去年下旬，中手游以6.4亿港币的价格收过了北京软星，并揽下了《仙剑奇侠装》系列的大陆IP。在此次收购后，《仙剑》IP的发展与运营力度获得了显著提升，除了系列正作《仙剑奇侠传七》外，其他周边衍生作与多媒体企划也都陆续上线。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1308959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
