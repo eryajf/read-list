@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Embracer现已完成了对SE西方工作室的收购](https://hot.cnbeta.com/articles/game/1309167.htm) | Fri Aug 26 2022 2:15 PM 
+- 🕯 [四川仁寿黑龙滩水库露出明代佛像：高温干旱致水位下降所致](https://www.cnbeta.com/articles/tech/1309185.htm) | Fri Aug 26 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Embracer Group现已完成了对SE西方工作室的收购，也就是水晶动力、Eidos蒙特利尔和SE蒙特利尔工作室。今年5月时，SE将其西方工作室和游戏IP仅仅以3亿美元的价格卖给了Embracer。现在，3个月之后，这比交易正式完成。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;因为高温干旱导致的水位下降，又一处古遗迹得以“重见天日”。据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/6105713761/M2QfSn1ei&quot; target=&quot;_blank&quot;&gt;红星视频&lt;/a&gt;，四川眉山市仁寿县黑龙滩一尊以前深藏于水下的坐佛，因水位下降，露出了大半个身体。眉山文物部门介绍，这尊坐佛名叫四新村千佛岩摩崖造像，它是明代坐佛，为弥勒像，座高16米，肩宽7.2米，高浮雕，宽衣博带，右手执念珠搁膝，善跏趺坐于素面台基。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [全球新冠疫苗市场超5000亿 阿斯利康为什么会退出？](https://www.cnbeta.com/articles/tech/1309165.htm) | Fri Aug 26 2022 2:15 PM 
+- 💼 [美国政府将使其资助的所有研究在发表时开放访问](https://www.cnbeta.com/articles/science/1309183.htm) | Fri Aug 26 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新冠疫苗大军在“减员”。根据财新网、界面新闻等媒体消息，针对新冠疫苗业务发展问题，阿斯利康CEO苏博科8月23日接受路透社采访时表示，“不确定我们是否还会在那里”，也不确定是否会继续扩大其他传染病疫苗业务，“公司正在评估该事项”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在周四，白宫科技政策办公室（OSTP）抛出了一个似乎让所有人都感到意外的决定。&lt;strong&gt;从2026年开始，任何接受联邦资助的科学出版物都需要在其出版之日公开访问。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [韩国韭菜自我修养：卖房炒股特斯拉 加仓100倍成第七大股东](https://www.cnbeta.com/articles/tech/1309163.htm) | Fri Aug 26 2022 2:13 PM 
+- 💂 [索尼PS5涨价后：任天堂重申Switch不会涨价](https://hot.cnbeta.com/articles/game/1309181.htm) | Fri Aug 26 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;韩国股民面对特斯拉，“杀红眼”了。韩国中央证券托管机构的最新数据显示，截至8月17日，韩国散户投资者累计持有1.6%的特斯拉股权，达到150亿美元。这是什么概念？目前韩国散户持有特斯拉股价总市值，超过了甲骨文创始人拉里·埃里森（Larry Ellison）和美国资产管理公司普信集团，成为特斯拉“第七大股东”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，索尼宣布PS5主机在部分市场涨价，其中，国区价格上涨400元，涨价后，光驱版官方售价4299元、数字版为3499元。&lt;strong&gt;对此，微软今天一早就做出明确回复，表示不会调高Xbox的价格，且无论货币价格如何变化，建议零售价都不会改变。而任天堂也在今天接受媒体采访时，重申了自己不会涨价的立场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中芯国际拟投建12英寸晶圆代工生产线项目 产能结构性紧缺持续](https://www.cnbeta.com/articles/tech/1309161.htm) | Fri Aug 26 2022 2:00 PM 
+- 🚀 [一条就能吃掉整湖鱼 多家电商平台下架“水中杀手”鳄雀鳝](https://www.cnbeta.com/articles/tech/1309179.htm) | Fri Aug 26 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中芯国际8月26日晚间发布半年度报告，根据报告，中芯国际2022年半年度实现营业收入为245.92亿元，同比增长52.80%；归母净利润62.52亿元，同比增长19.30%；基本每股收益0.79元。其中，晶圆代工业务营收为 22,685.0 百万元，同比增长 56.4%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，&lt;strong&gt;河南省平顶山市汝州市抽干湖水围捕“水中怪鱼”引起网络关注&lt;/strong&gt;，相关直播画面显示，超三千万网友在线围观。这条“怪鱼”体长在七八十厘米。开始大家还以为是青鱼或巨鲶，后来专家根据其特征判断，高度疑似高危外来生物鳄雀鳝。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [新东方在线2022财年营收8.985亿元 亏损收窄72%](https://www.cnbeta.com/articles/tech/1309159.htm) | Fri Aug 26 2022 1:58 PM 
+- 🎊 [中国移动自研办公App上线统信应用商店](https://www.cnbeta.com/articles/tech/1309177.htm) | Fri Aug 26 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月26日晚间消息，新东方在线科技控股有限公司（以下简称“新东方在线”或“公司”，连同其附属公司，统称为“集团”）公布截至2022年5月31日为止的财年（“报告期间”）业绩。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月26日消息，统信软件官方今日宣布，&lt;strong&gt;中国移动自主研发的移动办公App已正式上线统信应用商店，这也是移动办公App首次在自主操作系统平台发布。&lt;/strong&gt;据了解，移动办公App是中国移动为满足5G背景下一体化产品通信需求，打造的行政办公、团队管理、通信协作、权益活动功能于一体的一站式办公解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
