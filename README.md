@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Apple新闻之苹果自助维修服务覆盖到 Mac 用户了](http://www.mac52ipod.cn/post/apple-expands-self-service-repair-to-mac-notebooks.php) | Tue Aug 23 2022 3:09 AM 
+- 👨‍🏫 [识别你做了投篮动作，并在手表发出篮球入网音效的 Apple Watch App：空气投篮](http://www.mac52ipod.cn/post/apple-watch-app-airshot-auditoryar.php) | Fri Aug 26 2022 3:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	这是个挺有意思的 App，能根据 Apple Watch 传来的加速度数据识别到你对着空气做出了投篮动作，模拟空心入网或者砸到篮框的声音。开发商还说今后会加入对着空气开枪和甩鞭子的效果识别。&lt;/p&gt;&lt;p&gt;唯一的问题是：大部分人会把手表戴在左腕，投篮动作要用右手。。。&lt;/p&gt;&lt;p&gt;空气投篮在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/airshot-auditoryar/id1625289361?platform=appleWatch&quot; target=&quot;_blank&quot; title=&quot;空气投篮在苹果 App Store 应用商店的下载地址&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/airshot-auditoryar/id1625289361?platform=appleWatch&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%25AF%25AE%25E7%2590%2583&quot; rel=&quot;tag&quot;&gt;篮球&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Apple新闻之苹果自助维修服务覆盖到 Mac 用户了](http://www.mac52ipod.cn/post/apple-expands-self-service-repair-to-mac-notebooks.php) | Tue Aug 23 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码，节省苹果电脑 CPU 资源耗电发热：Not yet, AV1](http://www.mac52ipod.cn/post/apple-mac-chrome-extension-not-yet-av1.php) | Sun Aug 21 2022 6:50 AM 
+- 🦏 [Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码，节省苹果电脑 CPU 资源耗电发热：Not yet, AV1](http://www.mac52ipod.cn/post/apple-mac-chrome-extension-not-yet-av1.php) | Sun Aug 21 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [看富士相机拍出的好照片以及拍摄这些照片时的相机参数设置：Fuji X Weekly — Film Recipes](http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-fuji-x-weekly-film-recipes.php) | Thu Aug 18 2022 3:58 AM 
+- 🚀 [看富士相机拍出的好照片以及拍摄这些照片时的相机参数设置：Fuji X Weekly — Film Recipes](http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-fuji-x-weekly-film-recipes.php) | Thu Aug 18 2022 3:58 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Apple新闻之 iPhone 年年焕新最低门槛缩短至 3 个月](http://www.mac52ipod.cn/post/apple-iphone-upgrade-program-updated.php) | Tue Aug 16 2022 4:25 AM 
+- 🏊 [Apple新闻之 iPhone 年年焕新最低门槛缩短至 3 个月](http://www.mac52ipod.cn/post/apple-iphone-upgrade-program-updated.php) | Tue Aug 16 2022 4:25 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	苹果的「iPhone 年年焕新计划」让用户每年都能用上一代旧手机抵扣 50% 的价格换新手机，此前的限制是手机买来第 10-13 个月可以拿去换新手机，今年放宽到了第 3-13 个月 …… 哪怕你刚买了 iPhone 13，也能在 iPhone 14 发售后用抵扣价换新机。另外：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;在线或到店换机都行，最高可以 24 期免息分期&lt;/li&gt;&lt;li&gt;你必须加购 AppleCare+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果中国官网的详细说明 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/shop/iphone/iphone-upgrade-program&quot; target=&quot;_blank&quot; title=&quot;iPhone 年年焕新计划” rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/shop/iphone/iphone-upgrade-program&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [苹果的一个 Bug：MagSafe 充电线让笔记本变成永动机](http://www.mac52ipod.cn/post/apple-mac-magsafe-usb-c-bug.php) | Sun Aug 14 2022 5:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	MagSafe 充电线的一端插到 Mac 的 USB-C 接口，另一端吸到 MagSafe 充电口 …… 苹果电脑显示自己在充电，变成了一台「永动机」。&lt;/p&gt;&lt;p&gt;下面这个视频来自 @MKBHD，我扒到了 Bilibili &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Jd4y1T7Qp&quot; target=&quot;_blank&quot; title=&quot;Mac 永动机 Bug&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1Jd4y1T7Qp&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=344067125&amp;bvid=BV1Jd4y1T7Qp&amp;cid=790056203&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=magsafe&quot; rel=&quot;tag&quot;&gt;magsafe&lt;/a&gt;
 
  
     </details> 
