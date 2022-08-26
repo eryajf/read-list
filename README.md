@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[请教]Vue3+Vite 跨域问题，自己找不出原因](https://www.v2ex.com/t/875475#reply4) | Thu Aug 25 2022 5:43 PM
-- 🤗 [分享一个 Go 写的 VPN](https://www.v2ex.com/t/875459#reply5) | Thu Aug 25 2022 3:10 PM
-- 🎭 [求问： Linux 怎么检测从接口中获取的 ipv6 地址是不是临时地址](https://www.v2ex.com/t/875457#reply0) | Thu Aug 25 2022 2:48 PM
-- 🥷 [qq for mac 本地的聊天记录有什么好的方法查看或者提取吗？现在 qq 无法登录了，想找到某个聊天记录](https://www.v2ex.com/t/875444#reply0) | Thu Aug 25 2022 1:58 PM
-- 🐵 [为什么 Macos 明明还有很多内存没用（我 32G 内存），却动不动提示软件内存不足呢？](https://www.v2ex.com/t/875424#reply30) | Thu Aug 25 2022 12:24 PM<!-- v2ex:END -->
+- 🥸 [请教一个可能是 ssl 证书的相关问题，但更像是网络基础的问题](https://www.v2ex.com/t/875510#reply0) | Fri Aug 26 2022 1:59 AM
+- 🤗 [吐槽一下 gitee 的实名认证](https://www.v2ex.com/t/875503#reply9) | Fri Aug 26 2022 1:44 AM
+- 🎭 [一加 ColorOS 12 值得更新吗，目前用的是 11 。](https://www.v2ex.com/t/875502#reply6) | Fri Aug 26 2022 1:37 AM
+- 🥷 [每天上班第一件事是打开 V2EX？](https://www.v2ex.com/t/875501#reply43) | Fri Aug 26 2022 1:37 AM
+- 🐵 [非特别缺钱绝不要接外包](https://www.v2ex.com/t/875500#reply3) | Fri Aug 26 2022 1:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
