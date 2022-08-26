@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [慢性炎症总不好？你可能缺乏维生素D](http://jandan.net/p/111216) | Fri Aug 26 2022 4:40 AM 
+- 🚀 [过去两年酒类产品税收入暴跌 日本国税局拟请营销高手为酒精饮料制作创意广告](http://jandan.net/p/111180) | Fri Aug 26 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    不放心去查查吧 
+    日本的酒吧和居酒屋等营业场所遭受严重打击 
     </details> 
 
-- 🙉 [马萨诸塞的计算机教授认为 GitHub Copilot 会让该专业的学生作弊成风](http://jandan.net/p/111196) | Fri Aug 26 2022 4:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    GitHub Copilot是微软的 代码建议专家系统  
-    </details> 
-
-- 🎉 [今日好价 0826](http://jandan.net/p/111215) | Fri Aug 26 2022 2:33 AM 
+- 🙉 [半夜凉飕飕：福井的古老旅馆](http://jandan.net/p/111217) | Fri Aug 26 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [健身训练前应该吃什么？](http://jandan.net/p/111214) | Thu Aug 25 2022 8:29 AM 
+- 🎉 [慢性炎症总不好？你可能缺乏维生素D](http://jandan.net/p/111216) | Fri Aug 26 2022 4:40 AM 
     <details><summary>展开描述 ...</summary> 
-    短时间训练吃快碳，长时间训练吃慢碳 
+    不放心去查查吧 
     </details> 
 
--  [「标准哨音」法 不但能够计算哈勃常数，还能揭示宇宙青春期时的面貌](http://jandan.net/p/111154) | Thu Aug 25 2022 6:05 AM 
+- 🐲 [马萨诸塞的计算机教授认为 GitHub Copilot 会让该专业的学生作弊成风](http://jandan.net/p/111196) | Fri Aug 26 2022 4:34 AM 
     <details><summary>展开描述 ...</summary> 
-    可以使用宇宙微波背景来回溯宇宙的最早期，可以环顾周围的星系以研究宇宙最近的历史。但中间时期更难达到，这是具有特殊科学意义的领域。 
+    GitHub Copilot是微软的 代码建议专家系统  
+    </details> 
+
+-  [今日好价 0826](http://jandan.net/p/111215) | Fri Aug 26 2022 2:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
