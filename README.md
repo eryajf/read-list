@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [北汽蓝谷回应小米与北汽联合造车传闻：还未接到相关确切消息](https://www.cnbeta.com/articles/tech/1309013.htm) | Fri Aug 26 2022 6:42 AM 
+- 🕯 [iPhone真不行 四款主流手机游戏信号测试](https://www.cnbeta.com/articles/tech/1309043.htm) | Fri Aug 26 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，雷军在一场发布会上展示了小米汽车自动驾驶技术的测试视频，可以看到小米在软件、算法方面已经进展迅速。但在硬件方面，小米造车却一直没有实质性的重磅消息传出。今天中午，有消息人士透露，小米正在与北汽集团商谈制造电动汽车事宜。&lt;strong&gt;受此消息影响，港股小米集团拉升涨超2%，港股北京汽车直线拉升涨超25%，A股北汽蓝谷涨停。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近和同事讨论起了关于主流手机打游戏是否因为网络问题而导致体验不佳的情况，同事们的意见也是众说纷纭。有同事表示都什么年代了，手机信号如果仅用于体验的话，应该都不会太差，但有的同事就认为，iPhone的信号有祖传的缺陷，信号不好的区域肯定会影响游戏体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星堆青铜神树上有只壁虎 密封展柜咋出现的？网友惊叹 官方回应](https://www.cnbeta.com/articles/tech/1309011.htm) | Fri Aug 26 2022 6:36 AM 
+- 💼 [因连续十年财务造假 乐视网2.4亿罚款被强执](https://www.cnbeta.com/articles/tech/1309041.htm) | Fri Aug 26 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月26日，四川德阳一网友发视频称三星堆青铜神树上爬有壁虎。对此三星堆博物馆工作人员回应，&lt;strong&gt;确有此事，壁虎已经处理掉了，青铜神树是真的文物不是仿制品，展柜是密封的但留有工作人员进出的门，壁虎应该是从缝隙中爬进去的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据天眼查App显示，近日，中国证券监督管理委员会与乐视网信息技术（北京）股份有限公司相关非诉行政行为申请执行审查文书公开。&lt;/strong&gt;文书显示，2021年3月，证监会作出行政处罚决定，查明乐视网存在2007年至2016年财务造假、未按规定披露关联交易等情况，同时乐视网2016年非公开发行股票行为构成欺诈发行，对乐视网处以2.4亿元罚款。因乐视网未缴纳罚款，故证监会向法院提出非诉行政行为申请执行审查。今年5月，法院对该强制执行申请予以准许。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [小米北汽正洽谈合作造车？两企业2017年已宣布战略合作](https://www.cnbeta.com/articles/tech/1309009.htm) | Fri Aug 26 2022 6:33 AM 
+- 💂 [又一时速350高铁开建：全长482公里 贵阳至南宁从5小时缩短至2小时](https://www.cnbeta.com/articles/tech/1309039.htm) | Fri Aug 26 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有消息称，小米科技与北汽集团正在洽谈合作制造电动汽车事宜。消息传出后，午后北京汽车股价最高涨25%、小米集团一度涨超3%，A股北汽蓝谷涨超近10%。据报道，两家企业2017年就已宣布战略合作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月26日，贵南高铁（贵阳至南宁）正式进入全线铺轨阶段，&lt;strong&gt;全线预计2023年底开通运营，届时南宁至贵阳通行时间将从目前5个多小时缩短至2小时左右。&lt;/strong&gt;据了解，贵南高铁贯穿贵州省东南部和广西壮族自治区西北部，贵南高铁是我国“八纵八横”高速铁路网中包头至海口通道的重要组成部分，&lt;strong&gt;全长482公里，设计时速350公里。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [保罗·艾伦价值10亿美元的艺术收藏将被拍卖](https://www.cnbeta.com/articles/tech/1309007.htm) | Fri Aug 26 2022 6:31 AM 
+- 🚀 [Duolingo推出数学应用](https://www.cnbeta.com/articles/tech/1309037.htm) | Fri Aug 26 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;佳士得拍卖行周四表示，它将负责出售微软公司已故联合创始人保罗·艾伦的艺术收藏品，该收藏品价值超10亿美元&lt;/strong&gt;，其中包括雷诺阿和罗伊·利希滕斯坦的杰作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;是的，你没看错这个标题。Duolingo，这个语言学习应用现在有了一个配套的应用来教用户数学。据悉，这个新推出的应用叫Duolingo Math，不过应有的卡通形象--猫头鹰似乎已经被压缩成了一个立方体的样子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [AMD发布新版驱动 正式支持Windows 11 22H2](https://www.cnbeta.com/articles/tech/1309005.htm) | Fri Aug 26 2022 6:31 AM 
+- 🎊 [TP-Link推出Deco XE75 Pro AXE5400 全新三频Mesh Wi-Fi 6E系统](https://www.cnbeta.com/articles/tech/1309035.htm) | Fri Aug 26 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;虽然 Windows 11 22H2（或者叫 Windows 11 2022 Update）尚未发布，但是 AMD 最新发布的 Radeon Software 驱动已经为该新本提供支持。&lt;/strong&gt;AMD 官方已经放出了 4.08.09.2337 更新的下载链接，对 Windows 11 22H2 提供了官方支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;TP-Link宣布，推出全新Deco XE75 Pro AXE5400三频Mesh Wi-Fi 6E系统。其具有Wi-Fi 6E、三频无线网络和多千兆连接功能，可连接多达200台设备，为更多Wi-Fi设备带来无拥堵的连接速度，让客户真正拥有千兆+高性能Wi-Fi+全家无缝漫游的Wi-Fi体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
