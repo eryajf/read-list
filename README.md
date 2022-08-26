@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [彻底搞懂 CSS 伪类和伪元素](https://juejin.cn/post/7136087057542086693) | Fri Aug 26 2022 7:43 AM 
+- 🤗 [阿里云实时计算 Flink 版 x Hologres: 构建企业级一站式实时数仓](https://juejin.cn/post/7136121778643927077) | Fri Aug 26 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-    前端开发肯定都接触过伪类（pseudo class） 和伪元素（pseudo element） ，但是这两个概念特别容易搞混，不要怕，今天就带领大家攻克这个技术难点。 
+    阿里云 Flink、阿里云 Hologres 构建实时数仓上所具备的核心能力以及二者结合的最佳解决方案。 
     </details> 
 
-- 🎡 [Node.js扩展开发入门](https://juejin.cn/post/7136085565136928799) | Fri Aug 26 2022 7:36 AM 
+- 🎡 [MySQL | 事务隔离级别详解](https://juejin.cn/post/7136112451959848991) | Fri Aug 26 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    Node.js已经足够强大，不过其实他还给开发者留了通过C++/Rust等预研开发原生扩展的口子，从这篇文章来初窥门径吧 
+    MySQL 事务隔离级别 SQL:1992 标准定义了四种事务隔离级别，分别是读未提交（Read Uncommitted）、读已提交（Read Committed）、可重复读（Repeatable R 
     </details> 
 
-- 🕯 [如何在Angular中写单元测试](https://juejin.cn/post/7136082364601630734) | Fri Aug 26 2022 7:24 AM 
+- 🕯 [《高阶前端指北》之Node爬虫脚手架&lpar;第十弹收尾&rpar;](https://juejin.cn/post/7136110898858426381) | Fri Aug 26 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 Angular其实有自己推荐的单元测试的工具：Karma + Jasmine，当创建Angular应用后，在package.json文件中已经添加了Karma和Jasmine的依赖性，同时Ang 
+    卷神说：低垂果实的时代已经结束，技术是唯一能够帮助人类爬到树梢采取果实的梯子。所以，你能做的不是摸鱼，不是卷别人，而是卷自己，投资自己。 随着，十期的课程，我们终于把node-pachong这个项目 
     </details> 
 
-- 🚀 [项目沟通管理](https://juejin.cn/post/7135840668907208735) | Thu Aug 25 2022 3:47 PM 
+- 🚀 [Python 教程之 Numpy（4）—— 数据类型对象](https://juejin.cn/post/7136106405836095525) | Fri Aug 26 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-    在实际的项目开展过程中，大多数的冲突和工效低都是由于沟通问题导致的。沟通最重要的不是你表达了什么，而是对方接受并理解了什么。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 29 天，点击查看活动详情 每个 ndarray 都有一个关联的数据类型 &lpar;dtype&rpar; 对象。这个数据类型对象（dtype）告 
     </details> 
 
-- 💪 [解析 Golang 经典校验库 validator 用法](https://juejin.cn/post/7135803728916905997) | Thu Aug 25 2022 1:24 PM 
+- 💪 [MyBatis-缓存模块](https://juejin.cn/post/7136093048290672647) | Fri Aug 26 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    今天继续我们的 Golang 经典开源库学习之旅，这篇文章的主角是 validator，Golang 中经典的校验库，它可以让开发者可以很便捷地通过 tag 来控制对结构体字段的校验，使用面非常广泛。 
+    缓存模块 MyBatis作为一个强大的持久层框架，缓存是其必不可少的功能之一，Mybatis中的缓存分为一级缓存和二级缓存。但本质上是一样的，都是使用Cache接口实现的。缓存位于 org.apach 
     </details> 
 <!-- juejin:END -->
 ### 少数派
