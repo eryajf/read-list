@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [蔚来公布灰熊做空报告内部调查结果 相关指控无事实依据](https://www.cnbeta.com/articles/tech/1309123.htm) | Fri Aug 26 2022 10:00 AM 
+- 🕯 [第三代香山RISC-V开源处理器核研发启动](https://www.cnbeta.com/articles/tech/1309127.htm) | Fri Aug 26 2022 10:29 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月26日消息，日前，第二届RISC-V中国峰会北京会场系列活动“首届北京开源芯片生态产业论坛”正式举行。据中科院计算所副所长包云岗介绍，香山开源高性能RISC-V处理器核发展历程迎来又一里程碑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [能源初创企业Lunar Energy将推出对标特斯拉Powerwall的家用储能产品](https://www.cnbeta.com/articles/tech/1309125.htm) | Fri Aug 26 2022 10:20 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;特斯拉前能源产品负责人、化学工程师 Kunal Girotra 刚刚成立了一家新的初创企业，致力于为用户提供对标 Powerwall 的家庭储能解决方案。&lt;/strong&gt;在特斯拉任职的五年时间里，他曾领导包括 Powerwall、太阳能电池板、以及光伏屋顶在内的能源产品开发。2018 年的时候，Girotra 升任特斯拉能源公司负责人，直到 2020 年离职。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [蔚来公布灰熊做空报告内部调查结果 相关指控无事实依据](https://www.cnbeta.com/articles/tech/1309123.htm) | Fri Aug 26 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月26日消息，蔚来发布公告，发布了对做空机构灰熊（Grizzly Research LLC）做空报告独立内部调查结果。独立调查委员会表示，做空报告均无事实依据。今年6月28日做空机构灰熊发表报告，称蔚来效仿Valeant式的会计游戏，通过夸大收入和提高净利润率来达到目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [库克：苹果的目标是不再消耗地球上的任何资源](https://www.cnbeta.com/articles/tech/1309121.htm) | Fri Aug 26 2022 9:54 AM 
+- 🚀 [库克：苹果的目标是不再消耗地球上的任何资源](https://www.cnbeta.com/articles/tech/1309121.htm) | Fri Aug 26 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天，&lt;strong&gt;苹果现任CEO库克在接受媒体采访时提到，苹果的长期目标是不用地球上的任何资源来制造产品。&lt;/strong&gt;为此，现阶段类似Mac、iPhone等产品中部分的铝和稀土等都是回收再利用的，且苹果也在通过机器人把旧iPhone上的东西换到新iPhone的核心部件上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [10年造假被罚2.4亿 乐视总债达124.4亿 官方回应：债要一点一点还](https://hot.cnbeta.com/articles/movie/1309119.htm) | Fri Aug 26 2022 9:51 AM 
+- 🎊 [10年造假被罚2.4亿 乐视总债达124.4亿 官方回应：债要一点一点还](https://hot.cnbeta.com/articles/movie/1309119.htm) | Fri Aug 26 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，北京金融法院裁定&lt;strong&gt;准予强制执行证监会针对被执行人乐视网2.4亿元罚款的行政处罚。&lt;/strong&gt;裁定书显示，2021年3月证监会查明乐视网从2007年至2016年财务造假，其报送、披露的申请首次公开发行股票并上市相关文件及2010年至2016年年报存在虚假记载。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [2022年中秋假期火车票明天开售：买票日期收好](https://www.cnbeta.com/articles/tech/1309117.htm) | Fri Aug 26 2022 9:50 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据《关于2022年部分节假日安排的通知》，2022年中秋节放假时间为9月10日（星期六）至12日（星期一）放假，共3天。&lt;strong&gt;明天（8月27日），2022年中秋假期首日的火车票将正式开售&lt;/strong&gt;：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [中国移动NZONE 50 Pro官宣：其实就是华为畅享50 Pro](https://www.cnbeta.com/articles/tech/1309115.htm) | Fri Aug 26 2022 9:45 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国移动今天官宣，旗下NZONE 50 Pro新机将在8月29日14:08发布，&lt;strong&gt;该机主打6.7英寸居中打孔无界全视屏。&lt;/strong&gt;从海报来看，&lt;strong&gt;NZONE 50 Pro的上边框和左右边框十分的窄&lt;/strong&gt;，与前代手机相比颜值提升不少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
