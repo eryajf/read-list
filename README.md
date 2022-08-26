@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [极简 Java 工作流概念入门](https://juejin.cn/post/7136085418054778893) | Fri Aug 26 2022 7:36 AM 
+- 🤗 [彻底搞懂 CSS 伪类和伪元素](https://juejin.cn/post/7136087057542086693) | Fri Aug 26 2022 7:43 AM 
     <details><summary>展开描述 ...</summary> 
-    关于 Flowable 松哥已经更新了好几篇文章了，不过考虑到有的小伙伴可能还从来没接触过流程引擎，因此有一些基础的内容我再来和小伙伴们梳理一下。 1. 为什么需要工作流 松哥将之前的文章转发到朋友圈 
+    前端开发肯定都接触过伪类（pseudo class） 和伪元素（pseudo element） ，但是这两个概念特别容易搞混，不要怕，今天就带领大家攻克这个技术难点。 
     </details> 
 
-- 🎡 [[Flutter] Flutter 的 build 系统&lpar;番外篇&rpar;--build.yaml里面的参数都是啥？我用这些来干啥的？](https://juejin.cn/post/7136082099454836773) | Fri Aug 26 2022 7:23 AM 
+- 🎡 [Node.js扩展开发入门](https://juejin.cn/post/7136085565136928799) | Fri Aug 26 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
-    这次是对Flutter的build系统的build_config写法功能做个总结分析；权当分析整理吧； 
+    Node.js已经足够强大，不过其实他还给开发者留了通过C++/Rust等预研开发原生扩展的口子，从这篇文章来初窥门径吧 
     </details> 
 
-- 🕯 [RxSwift概览&amp;&amp;核心Observable](https://juejin.cn/post/7136079583287672846) | Fri Aug 26 2022 7:13 AM 
+- 🕯 [如何在Angular中写单元测试](https://juejin.cn/post/7136082364601630734) | Fri Aug 26 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-    Observable 简介 Observable也是一个序列，其核心就是异步操作 Observable的生命周期: Observable发射包含元素的事件 它可以一直发射事件直到终止事件发生，比如发射 
+    前言 Angular其实有自己推荐的单元测试的工具：Karma + Jasmine，当创建Angular应用后，在package.json文件中已经添加了Karma和Jasmine的依赖性，同时Ang 
     </details> 
 
-- 🚀 [携手共建云原生生态 阿里云云原生加速器第二次集结圆满结营](https://juejin.cn/post/7136078255055962125) | Fri Aug 26 2022 7:08 AM 
+- 🚀 [项目沟通管理](https://juejin.cn/post/7135840668907208735) | Thu Aug 25 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-    阿里云云原生加速器是阿里云加速器在云原生领域的重要投入，期望以此赋能创业企业，携手共建云原生行业新生态。作为国内规模较大、产业资源丰富、加速高效的赋能组织，在过去几年中，阿里云加速器深入多个垂直赛道， 
+    在实际的项目开展过程中，大多数的冲突和工效低都是由于沟通问题导致的。沟通最重要的不是你表达了什么，而是对方接受并理解了什么。 
     </details> 
 
-- 💪 [总结｜8月日更挑战 - YOUR LIFE MATTERS](https://juejin.cn/post/7136074494170365982) | Fri Aug 26 2022 6:53 AM 
+- 💪 [解析 Golang 经典校验库 validator 用法](https://juejin.cn/post/7135803728916905997) | Thu Aug 25 2022 1:24 PM 
     <details><summary>展开描述 ...</summary> 
-    时光荏苒，已经连续不间断的 31 天更文了。今天笔者思考🤔着，我做这些东西的意义何在，是拿一些礼品，或者给一些不知道是谁的人评比一些奖给笔者？ 
+    今天继续我们的 Golang 经典开源库学习之旅，这篇文章的主角是 validator，Golang 中经典的校验库，它可以让开发者可以很便捷地通过 tag 来控制对结构体字段的校验，使用面非常广泛。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
