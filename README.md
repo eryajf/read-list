@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [斗象科技2022新品发布会「漏洞情报产品」亮相](https://www.freebuf.com/news/342992.html) | Fri Aug 26 2022 7:03 AM 
+- 🦄 [曾攻击过云通讯巨头Twilio的黑客，在数月内连续攻击130多个组织](https://www.freebuf.com/articles/es/342997.html) | Fri Aug 26 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
-    斗象♥漏洞的八年长跑 
+    在8月初接连攻击云通讯巨头Twilio和云服务商Cloudflare后，攻击者逐渐浮出水面。 
     </details> 
 
-- 🦄 [黑客正使用AiTM攻击监控企业高管的 Microsoft 365 帐户](https://www.freebuf.com/news/342973.html) | Fri Aug 26 2022 5:50 AM 
+- 🦄 [斗象科技2022新品发布会「漏洞情报产品」亮相](https://www.freebuf.com/news/342992.html) | Fri Aug 26 2022 7:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022-8-27 10:00:00|2022-8-27 23:59:59 
+    </details> 
+
+- 🦅 [黑客正使用AiTM攻击监控企业高管的 Microsoft 365 帐户](https://www.freebuf.com/news/342973.html) | Fri Aug 26 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
     这是一种典型的商业电子邮件泄露攻击，目的很可能是将大笔资金交易转移到攻击者控制的银行账户中。 
     </details> 
 
-- 🦅 [疑因泄露受害者数据，LockBit团伙遭受DDoS攻击](https://www.freebuf.com/news/342968.html) | Fri Aug 26 2022 5:31 AM 
+- 🪄 [疑因泄露受害者数据，LockBit团伙遭受DDoS攻击](https://www.freebuf.com/news/342968.html) | Fri Aug 26 2022 5:31 AM 
     <details><summary>展开描述 ...</summary> 
     此次 DDoS 攻击似乎是对其曝光安全公司 Entrust 被盗数据的报复。 
     </details> 
 
-- 🪄 [实战复盘：内网环境入侵ms-SQL数据库](https://www.freebuf.com/articles/network/342945.html) | Thu Aug 25 2022 11:41 PM 
+- 💻 [实战复盘：内网环境入侵ms-SQL数据库](https://www.freebuf.com/articles/network/342945.html) | Thu Aug 25 2022 11:41 PM 
     <details><summary>展开描述 ...</summary> 
     web服务器、ms-SQL服务器、PC客户端在同一个网络中，是一种危险的网络结构，入侵ms-SQL服务器，非常容易。 
-    </details> 
-
-- 💻 [拒绝面子工程，提升安全可视化实用性 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/342934.html) | Thu Aug 25 2022 12:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    安全可视化近些年被行业寄予厚望，但在实际运用中是否真如大家所愿，如何避免沦为一块徒有其表的面子工程？ 
     </details> 
 <!-- freebuf:END -->
 
