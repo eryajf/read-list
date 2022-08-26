@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [阿里云实时计算 Flink 版 x Hologres: 构建企业级一站式实时数仓](https://juejin.cn/post/7136121778643927077) | Fri Aug 26 2022 9:57 AM 
+- 🤗 [软考高级《系统架构设计师》--软件开发模型 复习笔记](https://juejin.cn/post/7136160551834484743) | Fri Aug 26 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-    阿里云 Flink、阿里云 Hologres 构建实时数仓上所具备的核心能力以及二者结合的最佳解决方案。 
+    前言 今天是2022年8月26日，距离软考高级《系统架构设计师》考试还有72天。继续加油。 今天复习的内容是软件开模型 依次来说明每个软件开发模型的特点以及使用场景。 瀑布模型 瀑布模型就如同瀑布一样 
     </details> 
 
-- 🎡 [MySQL | 事务隔离级别详解](https://juejin.cn/post/7136112451959848991) | Fri Aug 26 2022 9:21 AM 
+- 🎡 [Azure | AZ-204 认证之旅-风起](https://juejin.cn/post/7136152827591655460) | Fri Aug 26 2022 12:00 PM 
     <details><summary>展开描述 ...</summary> 
-    MySQL 事务隔离级别 SQL:1992 标准定义了四种事务隔离级别，分别是读未提交（Read Uncommitted）、读已提交（Read Committed）、可重复读（Repeatable R 
+    在工作中，时常感觉云计算的业务能力不够，所以下定决心拿下Azure、Azure、GCP 相应的认证，不为别的，只为学习成体系的知识。此系列文章记录一系列考证之旅。 
     </details> 
 
-- 🕯 [《高阶前端指北》之Node爬虫脚手架&lpar;第十弹收尾&rpar;](https://juejin.cn/post/7136110898858426381) | Fri Aug 26 2022 9:15 AM 
+- 🕯 [MPAndroidChart自定义图表](https://juejin.cn/post/7136150356676837413) | Fri Aug 26 2022 11:48 AM 
     <details><summary>展开描述 ...</summary> 
-    卷神说：低垂果实的时代已经结束，技术是唯一能够帮助人类爬到树梢采取果实的梯子。所以，你能做的不是摸鱼，不是卷别人，而是卷自己，投资自己。 随着，十期的课程，我们终于把node-pachong这个项目 
+    MPAndroidChart自定义图表 声明：本文MPChart 代表的就是 MPAndroidChart。 1. 自定义Chart的Attribute 我们回忆一下自定义View的过程里，通常我们会 
     </details> 
 
-- 🚀 [Python 教程之 Numpy（4）—— 数据类型对象](https://juejin.cn/post/7136106405836095525) | Fri Aug 26 2022 8:57 AM 
+- 🚀 [【Mybatis】如何继承Mybatis中的Mapper.xml文件](https://juejin.cn/post/7136144554872274981) | Fri Aug 26 2022 11:27 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 29 天，点击查看活动详情 每个 ndarray 都有一个关联的数据类型 &lpar;dtype&rpar; 对象。这个数据类型对象（dtype）告 
+    最近在写一个 Mybatis 代码自动生成插件，用的是Mybatis来扩展，其中有一个需求就是 生成javaMappe 
     </details> 
 
-- 💪 [MyBatis-缓存模块](https://juejin.cn/post/7136093048290672647) | Fri Aug 26 2022 8:05 AM 
+- 💪 [再谈回声消除测评丨Dev for Dev 专栏](https://juejin.cn/post/7136143682712895496) | Fri Aug 26 2022 11:23 AM 
     <details><summary>展开描述 ...</summary> 
-    缓存模块 MyBatis作为一个强大的持久层框架，缓存是其必不可少的功能之一，Mybatis中的缓存分为一级缓存和二级缓存。但本质上是一样的，都是使用Cache接口实现的。缓存位于 org.apach 
+    音频质量的优化是一个复杂的系统工程，回声消除是其中一个老生常谈的话题，一般来说，回声消除的效果受设备本身的声学设计、声学环境、以及软件系统等诸多因素的影响。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
