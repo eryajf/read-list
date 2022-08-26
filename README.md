@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [斗象科技2022新品发布会「漏洞情报产品」亮相](https://www.freebuf.com/news/342992.html) | Fri Aug 26 2022 7:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    斗象♥漏洞的八年长跑 
+    </details> 
+
 - 🦄 [黑客正使用AiTM攻击监控企业高管的 Microsoft 365 帐户](https://www.freebuf.com/news/342973.html) | Fri Aug 26 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
     这是一种典型的商业电子邮件泄露攻击，目的很可能是将大笔资金交易转移到攻击者控制的银行账户中。 
     </details> 
 
-- 🦄 [疑因泄露受害者数据，LockBit团伙遭受DDoS攻击](https://www.freebuf.com/news/342968.html) | Fri Aug 26 2022 5:31 AM 
+- 🦅 [疑因泄露受害者数据，LockBit团伙遭受DDoS攻击](https://www.freebuf.com/news/342968.html) | Fri Aug 26 2022 5:31 AM 
     <details><summary>展开描述 ...</summary> 
     此次 DDoS 攻击似乎是对其曝光安全公司 Entrust 被盗数据的报复。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 斥巨资拍下豪车，因黑客攻击无法提车；俄恶意软件颠覆AD FS身份验证](https://www.freebuf.com/news/342923.html) | Thu Aug 25 2022 11:25 AM 
+- 🪄 [实战复盘：内网环境入侵ms-SQL数据库](https://www.freebuf.com/articles/network/342945.html) | Thu Aug 25 2022 11:41 PM 
     <details><summary>展开描述 ...</summary> 
-    一名男子在拍卖平台花2200万拍下一辆柯尼塞格Regera超跑，提车时拍卖平台告知，因为受到黑客攻击，导致拍卖结果有误。 
+    web服务器、ms-SQL服务器、PC客户端在同一个网络中，是一种危险的网络结构，入侵ms-SQL服务器，非常容易。 
     </details> 
 
-- 🪄 [从WPS到百度网盘，我们真的“活在监控之下”？](https://www.freebuf.com/news/342875.html) | Thu Aug 25 2022 5:44 AM 
+- 💻 [拒绝面子工程，提升安全可视化实用性 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/342934.html) | Thu Aug 25 2022 12:35 PM 
     <details><summary>展开描述 ...</summary> 
-    两次事件再次勾起了网友那些埋藏深底的，对个人隐私安全深深的忧虑，内容安全和隐私保护的边界又在哪里? 
-    </details> 
-
-- 💻 [谷歌发现伊朗黑客新工具，可窃取Gmail、雅虎、Outlook等电子邮件账户](https://www.freebuf.com/news/342863.html) | Thu Aug 25 2022 4:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    Charming Kitten在其恶意软件库中增加了一个新工具，可以从Gmail、雅虎和微软Outlook账户中检索用户数据。 
+    安全可视化近些年被行业寄予厚望，但在实际运用中是否真如大家所愿，如何避免沦为一块徒有其表的面子工程？ 
     </details> 
 <!-- freebuf:END -->
 
