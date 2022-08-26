@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NASA巨型月球火箭发射准备工作仍在进行中 天气状况70%有利](https://www.cnbeta.com/articles/science/1309153.htm) | Fri Aug 26 2022 12:25 PM 
+- 🕯 [Embracer现已完成了对SE西方工作室的收购](https://hot.cnbeta.com/articles/game/1309167.htm) | Fri Aug 26 2022 2:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;工程团队继续为美国宇航局的巨型月球火箭、猎户座飞船和地面系统进行准备，以便实施Artemis I发射工作。两个小时的发射窗口在美国东部时间8月29日星期一上午8点33分（太平洋时间5点33分）开启。这将是该机构的太空发射系统（SLS）火箭和完整的猎户座航天器的首次飞行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Embracer Group现已完成了对SE西方工作室的收购，也就是水晶动力、Eidos蒙特利尔和SE蒙特利尔工作室。今年5月时，SE将其西方工作室和游戏IP仅仅以3亿美元的价格卖给了Embracer。现在，3个月之后，这比交易正式完成。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [比亚迪加速出海进军欧洲市场 首批车今年第四季度交付](https://www.cnbeta.com/articles/tech/1309151.htm) | Fri Aug 26 2022 12:21 PM 
+- 💼 [全球新冠疫苗市场超5000亿 阿斯利康为什么会退出？](https://www.cnbeta.com/articles/tech/1309165.htm) | Fri Aug 26 2022 2:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月26日消息，据比亚迪汽车官微，&lt;strong&gt;近日比亚迪宣布于今年秋季面向欧洲市场推出多款新能源车型，&lt;/strong&gt;车型包括比亚迪唐、汉、以及元PLUS（当地命名为BYD ATTO 3），并将在今年十月亮相巴黎车展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新冠疫苗大军在“减员”。根据财新网、界面新闻等媒体消息，针对新冠疫苗业务发展问题，阿斯利康CEO苏博科8月23日接受路透社采访时表示，“不确定我们是否还会在那里”，也不确定是否会继续扩大其他传染病疫苗业务，“公司正在评估该事项”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [把屁憋回去之后它去哪里了？史上最臭科普来了](https://www.cnbeta.com/articles/tech/1309149.htm) | Fri Aug 26 2022 12:20 PM 
+- 💂 [韩国韭菜自我修养：卖房炒股特斯拉 加仓100倍成第七大股东](https://www.cnbeta.com/articles/tech/1309163.htm) | Fri Aug 26 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;可能有不少人都会有过在公共场合放屁的尴尬瞬间，为了避免这种尴尬，很多人都会选择尽量轻一点，至少不出声……还会有一些人，为了避免尴尬，强行把屁给憋回去……其实放屁是一种正常的生理现象，正常情况下人一天会放屁10-15次，约排出500毫升左右的气体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;韩国股民面对特斯拉，“杀红眼”了。韩国中央证券托管机构的最新数据显示，截至8月17日，韩国散户投资者累计持有1.6%的特斯拉股权，达到150亿美元。这是什么概念？目前韩国散户持有特斯拉股价总市值，超过了甲骨文创始人拉里·埃里森（Larry Ellison）和美国资产管理公司普信集团，成为特斯拉“第七大股东”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [DXOMARK有没有卖分？CEO亲自回应](https://www.cnbeta.com/articles/tech/1309147.htm) | Fri Aug 26 2022 12:19 PM 
+- 🚀 [中芯国际拟投建12英寸晶圆代工生产线项目 产能结构性紧缺持续](https://www.cnbeta.com/articles/tech/1309161.htm) | Fri Aug 26 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，&lt;strong&gt;雷军宣布小米12S Ultra不会送测DXOMARK引发热议。&lt;/strong&gt;随后，DXOMARK官方发声称，自己始终坚持专业、可观的标准，并且会自费购买小米12S Ultra来进行测试，再度引爆网友讨论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中芯国际8月26日晚间发布半年度报告，根据报告，中芯国际2022年半年度实现营业收入为245.92亿元，同比增长52.80%；归母净利润62.52亿元，同比增长19.30%；基本每股收益0.79元。其中，晶圆代工业务营收为 22,685.0 百万元，同比增长 56.4%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [AMD、NVIDIA显卡8月跌价6%：再忍忍 大的在后面](https://www.cnbeta.com/articles/tech/1309145.htm) | Fri Aug 26 2022 12:16 PM 
+- 🎊 [新东方在线2022财年营收8.985亿元 亏损收窄72%](https://www.cnbeta.com/articles/tech/1309159.htm) | Fri Aug 26 2022 1:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA前几天发布的23财年Q2季度财报中，承认了之前预告的游戏业务全面下滑的情况，营收跌了33%，季度盈利更是暴跌72%，而且库存高达数百亿元，Q3季度的情况还会恶化一些。NVIDIA CEO黄仁勋表示，&lt;strong&gt;他们会跟零售商一起合作调整价格，以应对市场挑战，换言之RTX 30系列显卡还要继续降价。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月26日晚间消息，新东方在线科技控股有限公司（以下简称“新东方在线”或“公司”，连同其附属公司，统称为“集团”）公布截至2022年5月31日为止的财年（“报告期间”）业绩。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
