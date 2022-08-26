@@ -66,29 +66,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解](https://wiki.eryajf.net/pages/c2262c/) | Thu Aug 25 2022 9:04 AM 
+- 🫶 [学习周刊-总第68期-2022年第33周](https://wiki.eryajf.net/pages/73eb3e/) | Fri Aug 26 2022 9:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第 68 期-程序员如何优雅地挣零花钱 
+    </details> 
+
+- 🧰 [Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解](https://wiki.eryajf.net/pages/c2262c/) | Thu Aug 25 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
     前一阵儿赋闲在家的时候，试水过一次直播，当时没有注意到一个问题，那就是讲课时实时划线批注的问题，当我们对着文档讲解的时候，观看直播的同学不能及时跟着主播的进度走，思路就很容易掉队，效果也就出不来。于是，我开始了解Mac上有没有优秀的划线批注软件，经过一番搜索与体验，最终我锁定了：ScreenBrush。 
     </details> 
 
-- 🧰 [学习周刊-总第67期-2022年第32周](https://wiki.eryajf.net/pages/c5dd7c/) | Fri Aug 19 2022 7:10 AM 
+- 🌏 [学习周刊-总第67期-2022年第32周](https://wiki.eryajf.net/pages/c5dd7c/) | Fri Aug 19 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第67期-2022年第32周,几个Redis管理平台与B站加强脚本 
     </details> 
 
-- 🌏 [学习周刊-总第66期-2022年第31周](https://wiki.eryajf.net/pages/66c212/) | Fri Aug 12 2022 8:42 AM 
+- 😎 [学习周刊-总第66期-2022年第31周](https://wiki.eryajf.net/pages/66c212/) | Fri Aug 12 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第66期-2022年第31周 
     </details> 
 
-- 😎 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/) | Mon Aug 08 2022 3:47 PM 
+- 💂 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/) | Mon Aug 08 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
     我维护的开源项目 https://github.com/eryajf/Thanks-Mirror 整理记录了各个包管理器，系统镜像，以及常用软件的好用镜像，随着项目越来越完善，到今天，已经累计整理链接 1091 个，随着时间推移，一些国内镜像可能会停止维护，如何自定感知那些已经失效的链接，就是一个需要考虑的事情了。本文就介绍一个有意思的小动作，它的主要功能是可以自动扫描仓库内的链接，然后对链接进行请求，根据自定义的规则，自动抛出异常的链接，然后将这些链接创建到issue当中。 
-    </details> 
-
-- 💂 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) | Fri Aug 05 2022 7:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第65期-2022年第30周 
     </details> 
 <!-- eryajf:END -->
 
