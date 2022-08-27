@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软和TikTok母公司字节跳动合作开展AI项目](https://www.cnbeta.com/articles/tech/1309201.htm) | Fri Aug 26 2022 7:51 PM 
+- 🕯 [扎克伯格和桑德伯格不会因剑桥分析公司的丑闻而被罢免](https://www.cnbeta.com/articles/tech/1309297.htm) | Sat Aug 27 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据CNBC的报道，微软和字节跳动已经走到一起，合作开展一个被称为KubeRay的人工智能项目，该项目旨在帮助企业更有效地管理和运行人工智能应用程序。担任微软首席软件工程师的阿里-堪索和字节跳动的软件工程师Jiaxin Shan都出席了本周早些时候举行的Ray峰会，他们在会上谈到了该项目和它的实际情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;马克·扎克伯格和谢丽尔·桑德伯格曾排队进行数小时的取证以回应有关Facebook和剑桥分析公司数据隐私丑闻的诉讼，但现在这不会发生--该公司已经跟原告达成了和解协议。一份法庭文件显示，双方已达成原则性协议并要求暂停60天以最终确定其书面协议。如果没有和解和暂停，那么他们将在9月20日之前被传唤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新款MacBook Pro和iPad Pro将在今年进入量产阶段](https://www.cnbeta.com/articles/tech/1309199.htm) | Fri Aug 26 2022 7:38 PM 
+- 💼 [CEERS项目允许人们以前所未有的方式观看韦伯的最耀眼照片](https://www.cnbeta.com/articles/science/1309295.htm) | Sat Aug 27 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果产业链分析师郭明錤表示，供应商将在2022年第四季度开始大规模生产新的14英寸MacBook Pro、16英寸MacBook Pro和iPad Pro机型，而且所有设备都可能继续配备5纳米制程芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据BGR报道，&lt;strong&gt;本月早些时候，詹姆斯·韦伯太空望远镜团队发布了一些迄今为止最耀眼的照片。&lt;/strong&gt;不仅如此，美国宇航局（NASA）还分享了韦伯迄今为止拍摄的最大图像。这张图片被分解成四个板块，是韦伯放大的星系和天体的拼接图。更令人震惊的是，詹姆斯·韦伯和宇宙演化早期发布科学调查&lpar;CEERS&rpar;项目团队终于给人们提供了一个自己放大图像的方法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马丽主演电影票房破150亿 华语影史首位获此成就女演员](https://hot.cnbeta.com/articles/movie/1309197.htm) | Fri Aug 26 2022 7:29 PM 
+- 💂 [摩尔定律放缓 迫使谷歌为YouTube转码基础设施打造定制芯片](https://www.cnbeta.com/articles/tech/1309293.htm) | Sat Aug 27 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月27日消息，日前，据灯塔专业版实时数据显示，&lt;strong&gt;演员马丽主演电影内地累计票房突破150亿，成为华语影史上首位票房达到150亿的女演员。&lt;/strong&gt;而这150亿票房中的大部分贡献来源为开心麻花系列喜剧，包括《独行月球》《这个杀手不太冷静》《羞羞的铁拳》《夏洛特烦恼》等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大约七年前，谷歌工程副总裁 Partha Ranganathan 就已意识到摩尔定律的衰落 —— 此前大约每隔 18 个月，芯片性能都都有望迎来翻番，而不会大幅增加成本。考虑到谷歌拥有的巨大用户体量和基础设施，预算的超支迟早会成为一个沉重的负担。&lt;strong&gt;在审视了整体状况后，Ranganathan 与同事们意识到转码（以 YouTube 为例）在其数据中心中消耗了很大一部分计算周期。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果本周末将举行2019年以来首次全公司零售会议](https://www.cnbeta.com/articles/tech/1309195.htm) | Fri Aug 26 2022 7:28 PM 
+- 🚀 [抽湖水近一个月 千万网友围观的河南汝州一对鳄雀鳝已被捕获](https://www.cnbeta.com/articles/tech/1309291.htm) | Sat Aug 27 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;消息人士透露，苹果将在本周末举行罕见的全公司零售会议，这是全球疫情开始以来三年中的第一次。零售会议时间距离苹果 iPhone 14 发布会不到 2 周时间。这些会议计划在美国和欧洲的 Apple Store 举行，是 2019 年以来全球疫情中首次举行的此类会议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据央视新闻报道称，&lt;strong&gt;8月27日，记者从河南省汝州市中央公园管理方获悉，云禅湖出现的“怪鱼”已被捕获，确认为一雌一雄共两条外来生物鳄雀鳝，系工作人员连夜在涵洞中找到，两条鱼体长约为70厘米和90厘米&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美司法部正起草针对苹果的反垄断诉讼 目前处于早期阶段](https://www.cnbeta.com/articles/tech/1309193.htm) | Fri Aug 26 2022 7:13 PM 
+- 🎊 [iPhone 14 Pro五种配色对比：你最喜欢哪一款？](https://www.cnbeta.com/articles/tech/1309289.htm) | Sat Aug 27 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;媒体援引知情人士周五报道，美国司法部的律师正处于起草针对苹果公司的潜在反垄断诉讼的早期阶段。这表明一项长期调查可能已接近决定点，诉讼可能很快就会到来。知情人士称，美国司法部内部的各个检察官小组正在为可能的诉讼进行整合，反垄断部门希望在今年年底前提起诉讼。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;距离iPhone 14系列的发布会还有不到两周的时间，这次无疑是升级了挖孔屏的iPhone 14 Pro最受欢迎。综合目前多方爆料，这次iPhone 14 Pro不仅正面有所变动，&lt;strong&gt;背壳的配色也罕见的直接就推出五种配色，大家在首发时的选择更多了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
