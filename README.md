@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Another Round - UNO，Skyjo 的点跟踪器](https://xinquji.com/posts/179066?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:32 AM 
+- 👀 [Argonaut - 在几分钟内将应用程序和基础设施部署到您的云中](https://xinquji.com/posts/179080?utm_campaign=xinquji-rss) | Sun Aug 28 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     UNO，Skyjo 的点跟踪器  
+     在几分钟内将应用程序和基础设施部署到您的云中  
     </details> 
 
-- 🥷 [Jumpspeak™ Bites - 聊天机器人 3 分钟教你西班牙语](https://xinquji.com/posts/179065?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:31 AM 
+- 🥷 [Jetpack Joyride 2 - 巴里在疯狂的冒险中回归！](https://xinquji.com/posts/179079?utm_campaign=xinquji-rss) | Sun Aug 28 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     聊天机器人 3 分钟教你西班牙语  
+     巴里在疯狂的冒险中回归！  
     </details> 
 
-- 💼 [The Toolbox - 您的一站式商店可找到满足您需求的完美工具](https://xinquji.com/posts/179064?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:30 AM 
+- 💼 [Senior Match: Mature Dating - 适合寻求关系的高级单身人士的聚会约会应用程序](https://xinquji.com/posts/179078?utm_campaign=xinquji-rss) | Sun Aug 28 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     您的一站式商店可找到满足您需求的完美工具  
+     适合寻求关系的高级单身人士的聚会约会应用程序  
     </details> 
 
-- 🦅 [Orbital 2.0 - 多合一的交流空间建设者](https://xinquji.com/posts/179063?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:28 AM 
+- 🦅 [Coolors - 超快速的配色方案生成器，适合酷酷的设计师](https://xinquji.com/posts/179077?utm_campaign=xinquji-rss) | Sun Aug 28 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     多合一的交流空间建设者  
+     超快速的配色方案生成器，适合酷酷的设计师  
     </details> 
 
-- 😺 [GTD Dashboard 2.0 - 在 Notion 中捕获和组织您的待办事项](https://xinquji.com/posts/179062?utm_campaign=xinquji-rss) | Sat Aug 27 2022 6:28 AM 
+- 😺 [Aviyel Readme Generator - 快速启动您的自述文件](https://xinquji.com/posts/179076?utm_campaign=xinquji-rss) | Sun Aug 28 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     在 Notion 中捕获和组织您的待办事项  
+     快速启动您的自述文件  
     </details> 
 <!-- xinquji:END -->
