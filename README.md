@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [程序员成长第二十一篇：做任务分配时，要考虑员工的成长。](https://juejin.cn/post/7136360400320692254) | Sat Aug 27 2022 1:23 AM 
+- 🤗 [过分！虾皮被曝大范围毁约；深度学习技巧全辑；MongoDB开源替代 4.7K★；剑指Offer解题代码；大数据算法笔记汇总；前沿论文 |ShowMeAI资讯日报](https://juejin.cn/post/7136392946613485576) | Sat Aug 27 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    我刚晋升小组长那会，其实并不会做管理。无非就是把任务做一下分配。自己做最难的任务，保证项目能够按时完成。结果因为事情过多，自己忙的要死。 
+    ShowMeAI资讯日报 08-27 期，检查和调整基于transformer的语言模型、camviz对单目深度估计结果进行可视化、检视PyTorch模型中间层、FerretDB完美替代MongoDB 
     </details> 
 
-- 🎡 [Kibana 中的巨大控制台改进](https://juejin.cn/post/7136358694408683533) | Sat Aug 27 2022 1:17 AM 
+- 🎡 [Spring5源码12-监听器原理](https://juejin.cn/post/7136390498377269256) | Sat Aug 27 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-    作者：CJ Cenizal 在过去的 9 个月里，我们的一位工程师 Muhammad Ibragimov 一直在悄悄地构建新功能、修复错误，并全面完善 Kibana Console。 从性能改进到在请 
+    Spring监听器 源码分析，自定义监听事件，自定义监听器，核心方法initApplicationEventMulticaster&lpar;&rpar; 
     </details> 
 
-- 🕯 [区块链,中心去,何曾着眼看君王?用Go语言实现区块链技术,通过Golang秒懂区块链](https://juejin.cn/post/7136358314020864014) | Sat Aug 27 2022 1:15 AM 
+- 🕯 [每次都要写一堆样式代码？试试ViewModifier建立统一的样式规范吧](https://juejin.cn/post/7136389554965053470) | Sat Aug 27 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-    区块链技术并不是什么高级概念，它并不比量子力学、泡利不相容原则、哥德巴赫猜想更难以理解，但却也不是什么类似“时间就是金钱”这种妇孺皆知的浅显道理。区块链其实是一套统筹组织记录的方法论，或者说的更准确 
+    有一天UI跑过来指着App页面说：你看两个同样的按钮，这一个按钮线段和第二个按钮线段为什么会不一样？翻查代码后才看到，原来复制样式代码的时候少复制了一行，有点尴尬。经过这次事情我假装反思了一下.... 
     </details> 
 
-- 🚀 [centos编译安装nginx](https://juejin.cn/post/7136347486775410702) | Sat Aug 27 2022 12:33 AM 
+- 🚀 [【剑指 Offer 精选】剑指 Offer II 007. 数组中和为 0 的三个数](https://juejin.cn/post/7136378900388511781) | Sat Aug 27 2022 2:35 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第32天，点击查看活动详情 编译安装nginx** 1：下载nginx源码包   2：解压文件   3：进入解压后的目录，编译 编译 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 题目描述 这是 LeetCode 上的 剑指 Offer II 007. 数组中和为 0 的三个数 ，难 
     </details> 
 
-- 💪 [Azure | AZ-204 认证之旅-应用服务（一）](https://juejin.cn/post/7136341883764080648) | Sat Aug 27 2022 12:13 AM 
+- 💪 [662. 二叉树最大宽度 : 简单 DFS 运用题](https://juejin.cn/post/7136377595343405086) | Sat Aug 27 2022 2:30 AM 
     <details><summary>展开描述 ...</summary> 
-    对于IaaS、PaaS、SaaS 这三架马上，许多云从业者以及使用云的用户已经相当熟悉其各自承担的职能，长时间来，企业基于IaaS的虚拟机上，构建自己的应用架构服务，相较于本地部署 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 题目描述 这是 LeetCode 上的 662. 二叉树最大宽度 ，难度为 中等。 Tag : 「二叉树 
     </details> 
 <!-- juejin:END -->
 ### 少数派
