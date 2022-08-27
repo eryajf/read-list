@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入浅出 Eslint，告别 Lint 恐惧症](https://juejin.cn/post/7136458949322080292) | Sat Aug 27 2022 7:47 AM 
+- 🤗 [解析 Golang 测试（10）- 什么是好的单测](https://juejin.cn/post/7136476505148194830) | Sat Aug 27 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，相信大多数同学在日常项目中对于 Eslint 配置都会感觉到痛苦。今天就来和大家聊聊如何利用 EsLint 中各个配置来更好的辅助我们的工程。 
+    这次我们从方法，思路方面聊聊怎样写好单测，什么是好的单测，以及覆盖率这件事为什么没有意义。好的单测 &gt;没有单测 &gt;虚假繁荣的单测。 
     </details> 
 
-- 🎡 [kafka 数据持久化、高性能、读写原理、高可用、扩缩容总结](https://juejin.cn/post/7136458681499320350) | Sat Aug 27 2022 7:45 AM 
+- 🎡 [iOS工程05组件二进制续](https://juejin.cn/post/7136473638265421832) | Sat Aug 27 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 此文对 kafka 的工作原理做一个高度的抽象总结，便于回顾，不适合用来入门 数据持久化 元数据持久化 Kafka 中的元数据需要保存到 zookeeper 中，如topic 和 partiti 
+    上一章Xcode组件二进制。 一、Xcode组件二进制续 1、hook 1.cocoapods_plugin的作用加载cocoapods插件gems： 安装插件到本地： 运行调试： 这个plugin无 
     </details> 
 
-- 🕯 [神奇的Compose- 开篇](https://juejin.cn/post/7136444742610452493) | Sat Aug 27 2022 6:50 AM 
+- 🕯 [RT-Thread记录（三、RT-Thread 线程操作函数及线程管理与FreeRTOS的比较）](https://juejin.cn/post/7136447000693702686) | Sat Aug 27 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇是神奇的compose第一篇架构片，让我们了解compose的今生前世，同时也了解compose给android开发带来的变化 
+    前2课讲完了RT-Thread开发环境，启动流程，启动以后当然是开始跑线程了， 那么自然我们得学会如何创建线程以及线程的有关操作。 
     </details> 
 
-- 🚀 [iPad 编程生产力](https://juejin.cn/post/7136441746820431880) | Sat Aug 27 2022 6:39 AM 
+- 🚀 [STM32CubeMX学习笔记（40）——LVGL嵌入式图形库使用](https://juejin.cn/post/7136395095107960862) | Sat Aug 27 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 iPad 有个口号，就是“买前生产力，买后爱奇艺”，使用 iPad，配合 Procreate 来作画体验还可以， 如果你想让你的 iPad 可以编程，你却不得不为之花费时间和精力。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 一、LVGL简介 LVGL官网：https://lvgl.io 官方文档：https://docs.lv 
     </details> 
 
-- 💪 [Electron 小白入门手册——跨端桌面应用开发的前世今生简史](https://juejin.cn/post/7136367341536804871) | Sat Aug 27 2022 1:51 AM 
+- 💪 [NLP实战高手课学习笔记（3）：NLP基本任务及研究方向](https://juejin.cn/post/7136393118877745189) | Sat Aug 27 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    今天我们就从原生桌面开发、QT、NW、Electron、Tauri、Flutter 聊聊跨端桌面应用开发的前世今生 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 说明 本系列博客将记录自己学习的课程：NLP实战高手课，链接为：time.geekbang.org/co 
     </details> 
 <!-- juejin:END -->
 ### 少数派
