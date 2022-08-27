@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [&quot;翼龙&quot;成功实施四川高温抗旱人工影响天气作业](https://www.cnbeta.com/articles/tech/1309443.htm) | Sat Aug 27 2022 12:17 PM 
+- 🕯 [研究发现体重指数（BMI）低的人并不更加活跃](https://www.cnbeta.com/articles/science/1309445.htm) | Sat Aug 27 2022 12:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;迄今为止，大多数肥胖症研究都集中在研究高体重指数（BMI）的人，但中国的一个研究小组正在使用一种不同的策略。在发表在《细胞代谢》杂志上的一项研究中，研究人员专注于那些体重指数很低的人。&lt;strong&gt;与认为他们的新陈代谢使他们天生更活跃的观点相反，研究数据显示，这些人确实比那些体重指数在通常范围内的人活跃得多。他们消耗的食物也比体重指数正常的人少。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [&quot;翼龙&quot;成功实施四川高温抗旱人工影响天气作业](https://www.cnbeta.com/articles/tech/1309443.htm) | Sat Aug 27 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年7月以来，四川省遭遇持续高温少雨天气，部分地区出现特旱，森林草原火险等级较高。8月25日，记者从中国航空工业集团有限公司（以下简称航空工业）获悉，为缓解当地旱情，当天航空工业自主研制的翼龙-2H无人机成功参与实施由中国气象局人工影响天气中心联合四川省气象局等单位组织开展的大型无人机人工增雨作业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [合资MPV王者 新一代别克GL8申报](https://www.cnbeta.com/articles/tech/1309441.htm) | Sat Aug 27 2022 12:16 PM 
+- 💂 [合资MPV王者 新一代别克GL8申报](https://www.cnbeta.com/articles/tech/1309441.htm) | Sat Aug 27 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在最新一批的工信部申报信息中，出现了新一代别克GL8的身影。新车被命名为别克GL8世纪CENTURY，并换装了全新样式的Logo，从此次申报的图片来看，&lt;strong&gt;其基本上延续了概念车的设计风格，采用了大尺寸的中网、“7”字造型的前大灯&lt;/strong&gt;，视觉效果十分新颖，此外还可选装上下双色车身。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [2022年中秋假期火车票今日开售：放假3天不调休](https://www.cnbeta.com/articles/tech/1309439.htm) | Sat Aug 27 2022 12:16 PM 
+- 🚀 [2022年中秋假期火车票今日开售：放假3天不调休](https://www.cnbeta.com/articles/tech/1309439.htm) | Sat Aug 27 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月27日，2022年中秋假期首日的火车票将正式开售，&lt;strong&gt;8月27日可买9月10日车票；8月28日可买9月11日车票；8月29日可买9月12日车票。&lt;/strong&gt;车票预售、列车开行等服务资讯，请以铁路12306网站、铁路12306APP或车站公告为准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [69岁大爷携13万跨省寻女主播 幸好民警成功拦截](https://hot.cnbeta.com/articles/funny/1309437.htm) | Sat Aug 27 2022 12:15 PM 
+- 🎊 [69岁大爷携13万跨省寻女主播 幸好民警成功拦截](https://hot.cnbeta.com/articles/funny/1309437.htm) | Sat Aug 27 2022 12:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日浙江绍兴69岁的王大爷提着行李刚到苏州汽车南站就被请进了派出所。当天6时55分，绍兴柯桥兰亭派出所接到金女士报警，称其父王大爷携带13万元银行存单失踪了，警方立即调取监控，及时与大巴司机和车站派出所联系，成功拦截王大爷。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《极品飞车》新作或将延期一个月 实机视频泄露](https://hot.cnbeta.com/articles/game/1309435.htm) | Sat Aug 27 2022 10:55 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据称，EA 的新《极品飞车》游戏将延期一个月公布。同时，游戏的首个实机画面已经泄露。Giant Bomb的编辑 Jeff Grubb 表示：““他们把它推迟到 12 月，一个月。他们将在展示之前多花几周时间。似乎Criterion 因为《战地（2042）》开发而产生了连锁反应，导致了这次延迟。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
