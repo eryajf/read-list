@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [被Intel 12代酷睿封杀 AVX512成AMD锐龙7000杀手锏：跑分软件已支持](https://www.cnbeta.com/articles/tech/1309449.htm) | Sat Aug 27 2022 2:15 PM 
+- 🕯 [《疯狂的麦克斯：弗瑞奥萨》曝片场照 “锤哥” 新车造型酷炫](https://hot.cnbeta.com/articles/movie/1309457.htm) | Sat Aug 27 2022 2:29 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;日前，电影《疯狂的麦克斯：弗瑞奥萨》曝光一组片场照，克里斯·海姆斯沃斯、汤姆·伯克等演员现身。影片依然由乔治·米勒执导，《后翼弃兵》女星安雅·泰勒-乔伊扮演年轻版弗瑞奥萨，也就是《疯狂的麦克斯：狂暴之路》中查理兹·塞隆扮演的角色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [微软为何收购动视暴雪？主要看中手游和PC业务](https://hot.cnbeta.com/articles/game/1309455.htm) | Sat Aug 27 2022 2:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据Xbox主管Phil Spencer，微软计划收购动视暴雪背后的主要考量是看中了动视暴雪的手机和PC游戏雄心。当被彭博社问到这笔价值高达687亿美元的交易如何产生时，Spencer表示微软的动机是希望在非主机平台，尤其是移动平台上增强创意能力。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [传言称Apple Watch Pro将带来一些iPhone 13的设计元素](https://www.cnbeta.com/articles/tech/1309453.htm) | Sat Aug 27 2022 2:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;人们普遍预计，苹果公司对Apple Watch 8系列的更新将包括一个新的Apple Watch Pro型号，新的传言称它将有一个平面屏幕和一个更新的外观设计。&lt;/strong&gt;众多报道宣称今年秋天会有新的Apple Watch型号出现，Apple Watch Pro会加入Apple Watch Series 8的更新阵容。据信新的型号是Apple Watch Pro，预计将比其他型号更大、更坚固，而且是为身体更活跃的用户准备的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Xbox Game Pass的朋友与家庭订阅计划的品牌已经泄露](https://hot.cnbeta.com/articles/game/1309451.htm) | Sat Aug 27 2022 2:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;本月早些时候，微软开始测试其受欢迎的Xbox Game Pass服务的家庭计划。新的级别允许多达五个成员通过他们的个人微软账户充分享受Xbox Game Pass Ultimate。对于有多个使用Xbox作为主要平台的游戏玩家的家庭来说，这可能是一个非常诱人的套餐。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [被Intel 12代酷睿封杀 AVX512成AMD锐龙7000杀手锏：跑分软件已支持](https://www.cnbeta.com/articles/tech/1309449.htm) | Sat Aug 27 2022 2:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;AVX512本来是Intel针对高性能计算推出一套指令集，至强处理器上很常见，在消费级的酷睿上就不确定了，12代酷睿因为小核不支持的缘故还把大核支持的AVX512指令集封杀，但是随着锐龙7000的到来，这个可能会变成AMD跑分的一个优势。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [分析、AI和机器人技术帮助MLB球队距离完美投球机又近了一步](https://www.cnbeta.com/articles/tech/1309447.htm) | Sat Aug 27 2022 2:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;第一台棒球投球机可以追溯到100多年前。很明显，自从那台以火药为燃料的机器在普林斯顿大学首次亮相后，事情已经有了长足的发展，但大多数现代系统或多或少都是如此。一个球被手动或机械地扔进一个或多个旋转的轮子里，轮子将它高速地推向打手。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [研究发现体重指数（BMI）低的人并不更加活跃](https://www.cnbeta.com/articles/science/1309445.htm) | Sat Aug 27 2022 12:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;迄今为止，大多数肥胖症研究都集中在研究高体重指数（BMI）的人，但中国的一个研究小组正在使用一种不同的策略。在发表在《细胞代谢》杂志上的一项研究中，研究人员专注于那些体重指数很低的人。&lt;strong&gt;与认为他们的新陈代谢使他们天生更活跃的观点相反，研究数据显示，这些人确实比那些体重指数在通常范围内的人活跃得多。他们消耗的食物也比体重指数正常的人少。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [&quot;翼龙&quot;成功实施四川高温抗旱人工影响天气作业](https://www.cnbeta.com/articles/tech/1309443.htm) | Sat Aug 27 2022 12:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年7月以来，四川省遭遇持续高温少雨天气，部分地区出现特旱，森林草原火险等级较高。8月25日，记者从中国航空工业集团有限公司（以下简称航空工业）获悉，为缓解当地旱情，当天航空工业自主研制的翼龙-2H无人机成功参与实施由中国气象局人工影响天气中心联合四川省气象局等单位组织开展的大型无人机人工增雨作业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [合资MPV王者 新一代别克GL8申报](https://www.cnbeta.com/articles/tech/1309441.htm) | Sat Aug 27 2022 12:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在最新一批的工信部申报信息中，出现了新一代别克GL8的身影。新车被命名为别克GL8世纪CENTURY，并换装了全新样式的Logo，从此次申报的图片来看，&lt;strong&gt;其基本上延续了概念车的设计风格，采用了大尺寸的中网、“7”字造型的前大灯&lt;/strong&gt;，视觉效果十分新颖，此外还可选装上下双色车身。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
