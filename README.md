@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [抖音平台多产物代码隔离技术的实践与探索](https://juejin.cn/post/7136420214547152932) | Sat Aug 27 2022 5:15 AM 
+- 🤗 [【Mybatis】Mybatis generator如何修改Mapper.java文件](https://juejin.cn/post/7136429709952286727) | Sat Aug 27 2022 5:53 AM 
     <details><summary>展开描述 ...</summary> 
-    本文综合各个维度深入浅出的介绍抖音 iOS 目前高效、通用、便捷的一套多产物代码隔离框架规范。方案目前在多个 App 落地推广，希望对架构方向的同学有一定启发。 
+    我写的代码生成插件Gitee地址 同样是在扩展 Mybatis generator插件的时候，有这样一个需求是需要在生 
     </details> 
 
-- 🎡 [pnpm、npm、yarn 包管理器大PK](https://juejin.cn/post/7136411184235806756) | Sat Aug 27 2022 4:45 AM 
+- 🎡 [【Mybatis】Mybatis generator自动生成插件如何修改Mapper.xml 的命名空间namespace](https://juejin.cn/post/7136429319189954596) | Sat Aug 27 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-    pnpm、npm、yarn 包管理器大PK 本文对pnpm、npm、yarn 包管理器的前世今生进行了较为详细的梳理和比较，相信你看完会对整个包管理器的原理和异同有更加清晰地认识！ 
+    这也是在扩展 Mybatis generator 的时候遇到的问题，记录一下； 在上一篇文章 如何继承Mybatis中 
     </details> 
 
-- 🕯 [5 个你可能不知道的 JavaScript DOM 方法](https://juejin.cn/post/7136409933938950152) | Sat Aug 27 2022 4:37 AM 
+- 🕯 [手写async await核心原理，再也不怕面试官问我async await原理](https://juejin.cn/post/7136424542238408718) | Sat Aug 27 2022 5:33 AM 
     <details><summary>展开描述 ...</summary> 
-    如果你从事 Web 开发，那么精通 JavaScript 的一部分就是了解一些方便的 DOM 方法 - 所以这里有 5 个你可能不知道的！ 1. closest&lpar;&rpar; Element.closest&lpar;&rpar; 
+    前言 async await 语法是 ES7出现的，是基于ES6的 promise和generator实现的 generator函数 在之前我专门讲个generator的使用与原理实现，大家没了解过的 
     </details> 
 
-- 🚀 [学会用Vue.js 自己手写一个快捷键的功能](https://juejin.cn/post/7136398730059579429) | Sat Aug 27 2022 3:53 AM 
+- 🚀 [分布式系统链路监控实践](https://juejin.cn/post/7136423390398644231) | Sat Aug 27 2022 5:28 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 大家好，我是小张同学，今天是周六，又不知不觉的摸鱼了五天，时间可真快，下个星期咱继续摸鱼，哈哈哈，今天给大家分享的是，自己手写一个快捷键的功能，例如 ctrl+C（复制文本） , ctrl+S（ 
+    随着分布式与微服务的发展，系统复杂度指数式上升，对服务的鲁棒性要求也日渐增高。本文采取自研（代码可控，符合需求的情况下）的方式，探究分布式服务监控中的链路监控，并介绍相关开源产品。 文章第一部分介绍目 
     </details> 
 
-- 💪 [在屏幕的任意位置拖拽，控制精灵移动](https://juejin.cn/post/7136390824232747016) | Sat Aug 27 2022 3:21 AM 
+- 💪 [Spring核心API介绍-AOP](https://juejin.cn/post/7136423245590298637) | Sat Aug 27 2022 5:27 AM 
     <details><summary>展开描述 ...</summary> 
-    在屏幕的任意位置按住拖拽，控制屏幕中指定的精灵移动，并且还不能让精灵移除屏幕，这篇文章详细的讲了其中的原理和实现。 
+    AOP Pointcut 它是Spring AOP对切点的一个顶层抽象 Advisor是Spring AOP的顶层抽象 
     </details> 
 <!-- juejin:END -->
 ### 少数派
