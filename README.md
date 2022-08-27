@@ -343,19 +343,19 @@
     2022-8-27 10:00:00|2022-8-27 23:59:59 
     </details> 
 
-- 🦅 [黑客正使用AiTM攻击监控企业高管的 Microsoft 365 帐户](https://www.freebuf.com/news/342973.html) | Fri Aug 26 2022 5:50 AM 
+- 🦅 [FreeBuf周报 | 苹果曝严重安全漏洞喜提热搜第一；LockBit 团伙遭受 DDoS 攻击](https://www.freebuf.com/news/342984.html) | Fri Aug 26 2022 6:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
+    </details> 
+
+- 🪄 [黑客正使用AiTM攻击监控企业高管的 Microsoft 365 帐户](https://www.freebuf.com/news/342973.html) | Fri Aug 26 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
     这是一种典型的商业电子邮件泄露攻击，目的很可能是将大笔资金交易转移到攻击者控制的银行账户中。 
     </details> 
 
-- 🪄 [疑因泄露受害者数据，LockBit团伙遭受DDoS攻击](https://www.freebuf.com/news/342968.html) | Fri Aug 26 2022 5:31 AM 
+- 💻 [疑因泄露受害者数据，LockBit团伙遭受DDoS攻击](https://www.freebuf.com/news/342968.html) | Fri Aug 26 2022 5:31 AM 
     <details><summary>展开描述 ...</summary> 
     此次 DDoS 攻击似乎是对其曝光安全公司 Entrust 被盗数据的报复。 
-    </details> 
-
-- 💻 [实战复盘：内网环境渗透ms-SQL数据库](https://www.freebuf.com/articles/network/342945.html) | Thu Aug 25 2022 11:41 PM 
-    <details><summary>展开描述 ...</summary> 
-    web服务器、ms-SQL服务器、PC客户端在同一个网络中，是一种危险的网络结构，入侵ms-SQL服务器，非常容易。 
     </details> 
 <!-- freebuf:END -->
 
