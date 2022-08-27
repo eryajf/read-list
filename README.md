@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [第三方Android启动器让Galaxy Z Fold4变身Windows Phone智能机](https://www.cnbeta.com/articles/tech/1309355.htm) | Sat Aug 27 2022 5:29 AM 
+- 🕯 [传OneUI 5.0正式版十月到来 Galaxy S22获首批更新推送资格](https://www.cnbeta.com/articles/tech/1309357.htm) | Sat Aug 27 2022 5:45 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;经过几周测试，三星刚刚将 One UI 5.0 的版本号从 Beta 1 提升到了 Beta 2 。&lt;strong&gt;虽然目前仅有 Galaxy S22 系列智能机可以尝鲜，但一则新传闻已暗示 One UI 5.0 有望于今年 10 月正式到来。&lt;/strong&gt;几个月前，SamMobile 曾独家披露这个发布窗口期，并于近日得到了韩国爆料人 @RoderSuper 的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [第三方Android启动器让Galaxy Z Fold4变身Windows Phone智能机](https://www.cnbeta.com/articles/tech/1309355.htm) | Sat Aug 27 2022 5:29 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;三星 Galaxy Z Fold4 折叠屏新机已于 8 月 26（本周五）开售，&lt;strong&gt;但若你不太喜欢预装的 Android 12L / OneUI 4.1.1，其实也可在第三方软件的帮助下，让它变身为经典的 Windows Phone 界面。&lt;/strong&gt;在最新的一支油管视频中，Mark Spurell 大方地展示了这一创意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星本月向数亿部Galaxy旧手机推送了固件更新](https://www.cnbeta.com/articles/tech/1309353.htm) | Sat Aug 27 2022 5:09 AM 
+- 💂 [三星本月向数亿部Galaxy旧手机推送了固件更新](https://www.cnbeta.com/articles/tech/1309353.htm) | Sat Aug 27 2022 5:09 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;尽管早已超出了官方的最初承诺，本周还是有数亿旧 Galaxy 设备用户收到了三星推送的一个固件更新。&lt;/strong&gt;TechSpot 指出，本轮更新的文件包相当紧凑、描述中也没有提到多少内容，但它还是让大约发布于 2014~2018 年间的旧手机焕发了生机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [KDE本周更新：支持重映射额外的鼠标按键 持续改进Discover使用体验](https://www.cnbeta.com/articles/tech/1309351.htm) | Sat Aug 27 2022 4:49 AM 
+- 🚀 [KDE本周更新：支持重映射额外的鼠标按键 持续改进Discover使用体验](https://www.cnbeta.com/articles/tech/1309351.htm) | Sat Aug 27 2022 4:49 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;每周，开发者 Nate Graham 都会在个人博客上分享 KDE 的开发总结。&lt;strong&gt;本周，这款知名的开源桌面环境迎来了一项重要改进 —— 支持重新映射额外的鼠标按键、以及对 Discover 的大量持续工作。&lt;/strong&gt;首先，KDE 现可重新绑定多键鼠标上的按钮。从 Plasma 5.26 开始，用户可分配任意按键组合与合成触发事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《街头霸王6》韩蛛俐金佰莉主题曲 明年正式发售](https://hot.cnbeta.com/articles/game/1309349.htm) | Sat Aug 27 2022 4:36 AM 
+- 🎊 [《街头霸王6》韩蛛俐金佰莉主题曲 明年正式发售](https://hot.cnbeta.com/articles/game/1309349.htm) | Sat Aug 27 2022 4:36 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日（8月27日），《街头霸王6》公布角色韩蛛俐以及金佰莉主题曲，《街头霸王6》预计在2023年发售，登陆PS4/5，XboxSeries X/S和PC。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;韩蛛俐主题曲：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [马斯克与“下属女友”关系曝光：没有恋爱，纯粹为了生孩子？](https://www.cnbeta.com/articles/tech/1309347.htm) | Sat Aug 27 2022 4:35 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月27日消息，今年7月，法庭文件曝光了特斯拉公司CEO埃隆·马斯克&lpar;Elon Musk&rpar;的两个新孩子。他在去年11月与其脑机接口公司Neuralink的高管希冯·齐里斯&lpar;Shivon Zilis&rpar;悄悄生了一对双胞胎，使得自己的孩子数量达到了9个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
