@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [土豪级客户苹果都用不起 消息称台积电放弃初代3nm工艺 等待发展N3E](https://www.cnbeta.com/articles/tech/1309403.htm) | Sat Aug 27 2022 8:38 AM 
+- 🕯 [微信发力更新 三大系统更新内容集锦](https://www.cnbeta.com/articles/tech/1309407.htm) | Sat Aug 27 2022 9:58 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最新微信开始发力了，更新了几个比较实用的新功能，咱这就来看看安卓、iOS以及PC段的微信都有哪些新功能吧，一次全了解，不用到处找。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [华为Mate50 Pro真机效果图、售价齐曝光](https://www.cnbeta.com/articles/tech/1309405.htm) | Sat Aug 27 2022 9:58 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;随着Mate 50发布时间的临近，有关它的爆料信息越来越多，对于这款新机你有买的打算吗？现在，有网友就放出了所谓Mate 50 Pro的真机效果图，整体感觉和之前曝光的渲染图差不多，依旧采用星环镜头模组设计，不过周围加入了一圈金圈，搭配素皮机身看起来还是挺高级的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [土豪级客户苹果都用不起 消息称台积电放弃初代3nm工艺 等待发展N3E](https://www.cnbeta.com/articles/tech/1309403.htm) | Sat Aug 27 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在3nm工艺节点上，三星抢先台积电在6月底完成了量产，实现了超越台积电的夙愿，然而三星的3nm主要问题是没什么客户，这方面台积电的3nm更占优，苹果、Intel、AMD、NVIDIA等公司接下来会使用台积电代工。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NASA宣传片：Artemis I - 我们已经准备好启动人类重返月球的计划](https://www.cnbeta.com/articles/science/1309401.htm) | Sat Aug 27 2022 8:37 AM 
+- 🚀 [NASA宣传片：Artemis I - 我们已经准备好启动人类重返月球的计划](https://www.cnbeta.com/articles/science/1309401.htm) | Sat Aug 27 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Artemis I的第一次飞行，距离长达50万英里的旅程即将开始。随着美国宇航局强大的新太空发射系统&lpar;SLS&rpar;火箭和猎户座航天器雷鸣般的升空，无人驾驶的美国宇航局Artemis I任务将启动人类重返月球的进程。这次关键的飞行测试将把猎户座送得比以往任何人类等级的航天器都要远，同时对新的系统和程序进行测试，它将为未来的乘员任务照亮道路。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [闻泰科技昆明工厂大举招工将代工苹果MacBook？内部人士预计下个月做电脑](https://www.cnbeta.com/articles/tech/1309399.htm) | Sat Aug 27 2022 8:32 AM 
+- 🎊 [闻泰科技昆明工厂大举招工将代工苹果MacBook？内部人士预计下个月做电脑](https://www.cnbeta.com/articles/tech/1309399.htm) | Sat Aug 27 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，多家数码媒体报道称，闻泰科技（SH600745，收盘价62.51元，市值779亿元）昆明工厂将代工苹果MacBook，引发市场关注。《每日经济新闻》记者今日（8月27日）曾联系公司相关招聘人员，对方表示昆明闻泰通讯有限公司（以下简称昆明闻泰）的确在招工做苹果产品，但目前主要组装蓝牙耳机等，电脑产线还在架线。记者也联系了闻泰科技方面，公司内部人士表示，目前没有相关信息可以透露。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [长安董事长：中国汽车产业已初具停售燃油车基本条件](https://www.cnbeta.com/articles/tech/1309397.htm) | Sat Aug 27 2022 8:16 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新能源车大势所趋，传统的燃油车面临压力，最近几年有不少车企已经决定停售燃油车，全面转向新能源技术，国外也有部分国家提出了2035年禁售燃油车的时间表，现在长安汽车董事长表示国内停售燃油车也初具条件，建议国家有关部门研究。据财联社报道，8月27日，2022世界新能源汽车大会开幕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [首搭宁德时代麒麟电池：纯电续航超1000公里的极氪001来了](https://www.cnbeta.com/articles/tech/1309395.htm) | Sat Aug 27 2022 8:16 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月27日，极氪官方发布消息称，极氪与宁德时代官宣合作，&lt;strong&gt;极氪成为麒麟电池全球量产首发品牌&lt;/strong&gt;。极氪旗下ZEEKR 009成为麒麟电池全球量产首发车型，ZEEKR 001成为了全球首款搭载麒麟电池，纯电续航里程突破1000km的量产车型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
