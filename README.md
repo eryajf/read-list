@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [专职搞在线 TS 全栈开发培训还是继续全职远程工作，一个不安分的人该如何抉择？](https://www.v2ex.com/t/875918#reply0) | Sat Aug 27 2022 9:40 PM
+- 🥸 [专职搞在线 TS 全栈开发培训还是继续全职远程工作，一个不安分的人该如何抉择？](https://www.v2ex.com/t/875918#reply1) | Sat Aug 27 2022 9:40 PM
 - 🤗 [友盟应用统计收费了，你们现在用什么？](https://www.v2ex.com/t/875916#reply1) | Sat Aug 27 2022 8:53 PM
 - 🎭 [Vue 有没有这样的 ui 框架？](https://www.v2ex.com/t/875915#reply0) | Sat Aug 27 2022 7:18 PM
 - 🥷 [4000 元以内有能同时满足以下 3 个条件的手机吗？](https://www.v2ex.com/t/875914#reply4) | Sat Aug 27 2022 6:20 PM
-- 🐵 [Windows 的鼠标图标在有些状态下会很模糊](https://www.v2ex.com/t/875911#reply0) | Sat Aug 27 2022 5:30 PM<!-- v2ex:END -->
+- 🐵 [《流浪地球 2》预告片里，李雪健老师的配音，是不是可以用 AI 合成他自己的？](https://www.v2ex.com/t/875913#reply4) | Sat Aug 27 2022 6:02 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
