@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9752162) | Fri Aug 26 2022 12:27 AM
-- 🐻 [联邦学习是一个伪需求吗？](http://daily.zhihu.com/story/9752140) | Fri Aug 26 2022 12:27 AM
-- 🌏 [多地推出与景区实景结合剧本杀项目，该模式是昙花一现还是未来可期？](http://daily.zhihu.com/story/9752144) | Fri Aug 26 2022 12:27 AM
-- 🕴 [小朋友第一次去幼儿园，怎样让他能够比较容易接受幼儿园的环境？](http://daily.zhihu.com/story/9752153) | Fri Aug 26 2022 12:27 AM
-- 🌮 [为什么南方的老鼠蟑螂蚊子等昆虫体型较大，而人类个体体型却低于北方？](http://daily.zhihu.com/story/9752157) | Fri Aug 26 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [英雄联盟背景故事里有哪些伏笔还没被使用？](http://daily.zhihu.com/story/9752166) | Sat Aug 27 2022 12:27 AM
+- 🐻 [灼热干燥的天气是地震的前兆是真的吗？](http://daily.zhihu.com/story/9752174) | Sat Aug 27 2022 12:27 AM
+- 🌏 [想给孩子自己小时候夏天的感觉，体验一下「很久以前」的童年，可以怎样做？](http://daily.zhihu.com/story/9752176) | Sat Aug 27 2022 12:27 AM
+- 🕴 [DSGE 模型的思想和方法是什么？该如何应用？](http://daily.zhihu.com/story/9752179) | Sat Aug 27 2022 12:27 AM
+- 🌮 [有哪些好吃到爆的面条做法？](http://daily.zhihu.com/story/9752184) | Sat Aug 27 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
