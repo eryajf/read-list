@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [过分！虾皮被曝大范围毁约；深度学习技巧全辑；MongoDB开源替代 4.7K★；剑指Offer解题代码；大数据算法笔记汇总；前沿论文 |ShowMeAI资讯日报](https://juejin.cn/post/7136392946613485576) | Sat Aug 27 2022 3:30 AM 
+- 🤗 [抖音平台多产物代码隔离技术的实践与探索](https://juejin.cn/post/7136420214547152932) | Sat Aug 27 2022 5:15 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 08-27 期，检查和调整基于transformer的语言模型、camviz对单目深度估计结果进行可视化、检视PyTorch模型中间层、FerretDB完美替代MongoDB 
+    本文综合各个维度深入浅出的介绍抖音 iOS 目前高效、通用、便捷的一套多产物代码隔离框架规范。方案目前在多个 App 落地推广，希望对架构方向的同学有一定启发。 
     </details> 
 
-- 🎡 [Spring5源码12-监听器原理](https://juejin.cn/post/7136390498377269256) | Sat Aug 27 2022 3:20 AM 
+- 🎡 [pnpm、npm、yarn 包管理器大PK](https://juejin.cn/post/7136411184235806756) | Sat Aug 27 2022 4:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring监听器 源码分析，自定义监听事件，自定义监听器，核心方法initApplicationEventMulticaster&lpar;&rpar; 
+    pnpm、npm、yarn 包管理器大PK 本文对pnpm、npm、yarn 包管理器的前世今生进行了较为详细的梳理和比较，相信你看完会对整个包管理器的原理和异同有更加清晰地认识！ 
     </details> 
 
-- 🕯 [每次都要写一堆样式代码？试试ViewModifier建立统一的样式规范吧](https://juejin.cn/post/7136389554965053470) | Sat Aug 27 2022 3:16 AM 
+- 🕯 [5 个你可能不知道的 JavaScript DOM 方法](https://juejin.cn/post/7136409933938950152) | Sat Aug 27 2022 4:37 AM 
     <details><summary>展开描述 ...</summary> 
-    有一天UI跑过来指着App页面说：你看两个同样的按钮，这一个按钮线段和第二个按钮线段为什么会不一样？翻查代码后才看到，原来复制样式代码的时候少复制了一行，有点尴尬。经过这次事情我假装反思了一下.... 
+    如果你从事 Web 开发，那么精通 JavaScript 的一部分就是了解一些方便的 DOM 方法 - 所以这里有 5 个你可能不知道的！ 1. closest&lpar;&rpar; Element.closest&lpar;&rpar; 
     </details> 
 
-- 🚀 [【剑指 Offer 精选】剑指 Offer II 007. 数组中和为 0 的三个数](https://juejin.cn/post/7136378900388511781) | Sat Aug 27 2022 2:35 AM 
+- 🚀 [学会用Vue.js 自己手写一个快捷键的功能](https://juejin.cn/post/7136398730059579429) | Sat Aug 27 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 题目描述 这是 LeetCode 上的 剑指 Offer II 007. 数组中和为 0 的三个数 ，难 
+    前言 大家好，我是小张同学，今天是周六，又不知不觉的摸鱼了五天，时间可真快，下个星期咱继续摸鱼，哈哈哈，今天给大家分享的是，自己手写一个快捷键的功能，例如 ctrl+C（复制文本） , ctrl+S（ 
     </details> 
 
-- 💪 [662. 二叉树最大宽度 : 简单 DFS 运用题](https://juejin.cn/post/7136377595343405086) | Sat Aug 27 2022 2:30 AM 
+- 💪 [在屏幕的任意位置拖拽，控制精灵移动](https://juejin.cn/post/7136390824232747016) | Sat Aug 27 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 题目描述 这是 LeetCode 上的 662. 二叉树最大宽度 ，难度为 中等。 Tag : 「二叉树 
+    在屏幕的任意位置按住拖拽，控制屏幕中指定的精灵移动，并且还不能让精灵移除屏幕，这篇文章详细的讲了其中的原理和实现。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
