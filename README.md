@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Mybatis】Mybatis generator如何修改Mapper.java文件](https://juejin.cn/post/7136429709952286727) | Sat Aug 27 2022 5:53 AM 
+- 🤗 [iPad 编程生产力](https://juejin.cn/post/7136441746820431880) | Sat Aug 27 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-    我写的代码生成插件Gitee地址 同样是在扩展 Mybatis generator插件的时候，有这样一个需求是需要在生 
+    前言 iPad 有个口号，就是“买前生产力，买后爱奇艺”，使用 iPad，配合 Procreate 来作画体验还可以， 如果你想让你的 iPad 可以编程，你却不得不为之花费时间和精力。 
     </details> 
 
-- 🎡 [【Mybatis】Mybatis generator自动生成插件如何修改Mapper.xml 的命名空间namespace](https://juejin.cn/post/7136429319189954596) | Sat Aug 27 2022 5:51 AM 
+- 🎡 [造轮子：基于TS从零构建axios（二）](https://juejin.cn/post/7136241404153430047) | Fri Aug 26 2022 5:42 PM 
     <details><summary>展开描述 ...</summary> 
-    这也是在扩展 Mybatis generator 的时候遇到的问题，记录一下； 在上一篇文章 如何继承Mybatis中 
+    上一篇我们实现了一个简单的请求发送，并编写了相关的 demo。但是现在存在一些问题:我们传入的 `params` 数据并没有用，也没有拼接到 `url` 上；我们对 request body 的数据格 
     </details> 
 
-- 🕯 [手写async await核心原理，再也不怕面试官问我async await原理](https://juejin.cn/post/7136424542238408718) | Sat Aug 27 2022 5:33 AM 
+- 🕯 [了解js执行机制以及服务器express框架](https://juejin.cn/post/7136221995720507406) | Fri Aug 26 2022 4:28 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 async await 语法是 ES7出现的，是基于ES6的 promise和generator实现的 generator函数 在之前我专门讲个generator的使用与原理实现，大家没了解过的 
+    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 JS任务和事件循环 JS是单线程的 那么js为什么要设计为单线程呢? 同步和异步 为什么任务要分为同步任务和异步任务? 所以，又引入了异步任务。 
     </details> 
 
-- 🚀 [分布式系统链路监控实践](https://juejin.cn/post/7136423390398644231) | Sat Aug 27 2022 5:28 AM 
+- 🚀 [React17系列&lpar;3&rpar;-初识Fiber与RIC](https://juejin.cn/post/7136215878429278216) | Fri Aug 26 2022 4:05 PM 
     <details><summary>展开描述 ...</summary> 
-    随着分布式与微服务的发展，系统复杂度指数式上升，对服务的鲁棒性要求也日渐增高。本文采取自研（代码可控，符合需求的情况下）的方式，探究分布式服务监控中的链路监控，并介绍相关开源产品。 文章第一部分介绍目 
+    初识Fiber，浏览器一帧内做了什么，RequestIdelCallback怎么用，部分fiber的类型定义 
     </details> 
 
-- 💪 [Spring核心API介绍-AOP](https://juejin.cn/post/7136423245590298637) | Sat Aug 27 2022 5:27 AM 
+- 💪 [使用 Webpack 构建 JavaScript 工具库](https://juejin.cn/post/7136211598795866119) | Fri Aug 26 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-    AOP Pointcut 它是Spring AOP对切点的一个顶层抽象 Advisor是Spring AOP的顶层抽象 
+    本文将基于 Webpack 一步一步完成一个 JavaScript 工具库的搭建、开发、调试、打包与发布的基本流程，同时提供相关示例代码：https://github.com/hwjfqr/javas 
     </details> 
 <!-- juejin:END -->
 ### 少数派
