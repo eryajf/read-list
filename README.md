@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派周报 | 本周会员内容提要；跑题：啁啾哨音](https://sspai.com/prime/story/pi-weekly-006) | Fri Aug 26 2022 12:51 PM 
+- 👹 [我是如何在 Notion 中运用 PARA 模型来整理第二大脑](https://sspai.com/post/74753) | Sat Aug 27 2022 3:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74753&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派周报 | 本周会员内容提要；跑题：啁啾哨音](https://sspai.com/prime/story/pi-weekly-006) | Fri Aug 26 2022 12:51 PM 
     <details><summary>展开描述 ...</summary> 
     Mudge 的哨声已经引发了回响，但会带来多少实际后果，还要等待听证、审判结束后才能下结论。但只有一点是不用预测的，那就是不管谁赢，用户已经输了。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-006&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/75382) | Fri Aug 26 2022 9:52 AM 
+- 🤭 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/75382) | Fri Aug 26 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     冰与火之歌，原来从一开始就是传说。&lt;a href=&quot;https://sspai.com/post/75382&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [找出歌名，让歌出名：来头不小的 Shazam 是怎么来的？](https://sspai.com/post/75362) | Fri Aug 26 2022 8:30 AM 
+- 🥸 [找出歌名，让歌出名：来头不小的 Shazam 是怎么来的？](https://sspai.com/post/75362) | Fri Aug 26 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
     「Shazam 一下」代表的是一种发自内心的认可和鼓励，而不在乎一个人是否名满天下，也无所谓一首歌是否脍炙人口；但它也确实让很多人因此名满天下，让很多歌因此脍炙人口。&lt;a href=&quot;https://sspai.com/post/75362&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [一派·Podcast | 一场设计梦，做了十余年](https://sspai.com/post/75359) | Fri Aug 26 2022 6:31 AM 
+- 🙉 [一派·Podcast | 一场设计梦，做了十余年](https://sspai.com/post/75359) | Fri Aug 26 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
     听听少数派新同事对设计的看法，并请他回顾自己过去十年间与设计的故事。&lt;a href=&quot;https://sspai.com/post/75359&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [一日一技 | 没有满意的 Obsidian 外观？不如自己动手做一个](https://sspai.com/post/75363) | Fri Aug 26 2022 3:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    Obsidian 有许多优点，其中一个就是自带社区主题库，用户可以随意更换样式，不再天天看千篇一律的外观。然而，尽管社区主题库里有很多主题样式，说实话，没有一个能百分之百令我满意的。&lt;a href=&quot;https://sspai.com/post/75363&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
