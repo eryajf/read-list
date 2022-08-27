@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [卡巴斯基撰文解释&quot;Kimsuky&quot;黑客如何确保其恶意软件精准到达有效目标](https://www.cnbeta.com/articles/tech/1309377.htm) | Sat Aug 27 2022 7:07 AM 
+- 🕯 [长安董事长：中国汽车产业已初具停售燃油车基本条件](https://www.cnbeta.com/articles/tech/1309397.htm) | Sat Aug 27 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;朝鲜&amp;#39;Kimsuky&amp;#39;威胁行为者正在不遗余力地确保他们的恶意有效载荷只被有效目标下载，而不是在安全研究人员的系统上。&lt;strong&gt;根据卡巴斯基今天发布的一份报告，自2022年开始，该威胁组织一直在采用新技术来过滤无效的下载请求，当时该组织针对朝鲜半岛的各种目标发起了新的活动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新能源车大势所趋，传统的燃油车面临压力，最近几年有不少车企已经决定停售燃油车，全面转向新能源技术，国外也有部分国家提出了2035年禁售燃油车的时间表，现在长安汽车董事长表示国内停售燃油车也初具条件，建议国家有关部门研究。据财联社报道，8月27日，2022世界新能源汽车大会开幕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [骁龙6 Gen 1 SoC完整规格表泄露：4纳米、5G支持等](https://www.cnbeta.com/articles/tech/1309375.htm) | Sat Aug 27 2022 7:03 AM 
+- 💼 [首搭宁德时代麒麟电池：纯电续航超1000公里的极氪001来了](https://www.cnbeta.com/articles/tech/1309395.htm) | Sat Aug 27 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年，高通公司推出了骁龙8 Gen 1芯片组和骁龙7 Gen 1 SoC。这些都是该公司基于尖端的4纳米节点的最新产品，分别用于高级和中级智能手机。现在，该公司似乎正在开发一款新的基于4纳米的低端芯片组，将接替骁龙600系列芯片组。&lt;strong&gt;消息人士Evan Blass分享了即将推出的骁龙6 Gen 1移动平台的完整规格和功能，该平台可能将接替骁龙695芯片组。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月27日，极氪官方发布消息称，极氪与宁德时代官宣合作，&lt;strong&gt;极氪成为麒麟电池全球量产首发品牌&lt;/strong&gt;。极氪旗下ZEEKR 009成为麒麟电池全球量产首发车型，ZEEKR 001成为了全球首款搭载麒麟电池，纯电续航里程突破1000km的量产车型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [谷歌用新AI超越自己：让Imagen能够指定生成对象 风格随意转换](https://www.cnbeta.com/articles/tech/1309373.htm) | Sat Aug 27 2022 6:57 AM 
+- 💂 [iPad 10外观效果图出炉：苹果最后的实体Home键](https://www.cnbeta.com/articles/tech/1309393.htm) | Sat Aug 27 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;给Imagen加上“指哪打哪”的能力，会变得有多强？只需上传3-5张 &lt;strong&gt;指定物体&lt;/strong&gt;的照片，再用文字描述想要生成的背景、动作或表情，就能让指定物体“闪现”到你想要的场景中，动作表情也都栩栩如生。不止是动物，其他物体像墨镜、书包、花瓶，也都能做出几乎以假乱真的成品：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久，有消息称iPadOS 16将延期到10月份登场，这也就意味着iPad系列新品不会在9月8日与iPhone 14同台登场。这也算是苹果近年的惯例，&lt;strong&gt;会在10月份专门安排一场特殊活动，揭晓新品iPad。&lt;/strong&gt;这次入门版的iPad将更新第10代，终于在外观上迎来了变化，海外爆料者也提前放出了外观图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [华为Mate 50 Pro将采用1.5K刘海曲面屏：支持人脸识别](https://www.cnbeta.com/articles/tech/1309371.htm) | Sat Aug 27 2022 6:56 AM 
+- 🚀 [中芯国际公布核心技术家底：最新55nm已研发成功](https://www.cnbeta.com/articles/tech/1309391.htm) | Sat Aug 27 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;数码博主数码闲聊站今日透露，&lt;strong&gt;华为Mate 50 Pro将采用一块尺寸1.5K分辨率的刘海曲面屏。&lt;/strong&gt;博主介绍新机的刘海面积明显大过前代，接近Mate 20 Pro的刘海大小。&lt;strong&gt;他还称华为Mate 50 Pro是一款功能驱动型产品，将支持人脸识别和姿态监测新功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中芯国际昨晚发布了2022半年报，上半年营业收入245.92亿元，同比增长52.80%，归母净利润62.52亿元，同比增长19.30%。除了财务信息之外，中芯国际也公布了公司的核心技术情况，称中芯国际拥有全面一体的集成电路晶圆代工核心技术体系，可以有效地帮助客户降低成本，缩短产品上市时间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [宁德时代麒麟电池官宣：ATIO问界首发搭载](https://www.cnbeta.com/articles/tech/1309369.htm) | Sat Aug 27 2022 6:54 AM 
+- 🎊 [《使命召唤19》“高塔”预告公布 10月28日发售](https://hot.cnbeta.com/articles/game/1309389.htm) | Sat Aug 27 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月27日消息，据第一财经报道，宁德时代麒麟电池第一批落地品牌确认，&lt;strong&gt;为问界与极氪&lt;/strong&gt;。宁德时代官方发布消息称：8月27日，宁德时代新能源科技股份有限公司与赛力斯集团股份有限公司共同宣布宁&lt;strong&gt;德时代麒麟电池将落地AITO问界系列新车型&lt;/strong&gt;，双方已签署五年长期战略合作协议，AITO问界车型全面搭载宁德时代动力电池。（目前该条微博已被删除，疑似偷跑）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（8月27日），使命召唤官方公布《使命召唤19：现代战争2》最新预告高塔，《使命召唤19》将于10月28日发售，登陆Xbox，PS以及PC（战网、Steam）等平台，预购数字版的玩家可以在10月20日游玩战役。&lt;strong&gt;宣传片：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
