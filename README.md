@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [传OneUI 5.0正式版十月到来 Galaxy S22获首批更新推送资格](https://www.cnbeta.com/articles/tech/1309357.htm) | Sat Aug 27 2022 5:45 AM 
+- 🕯 [卡巴斯基撰文解释&quot;Kimsuky&quot;黑客如何确保其恶意软件精准到达有效目标](https://www.cnbeta.com/articles/tech/1309377.htm) | Sat Aug 27 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;经过几周测试，三星刚刚将 One UI 5.0 的版本号从 Beta 1 提升到了 Beta 2 。&lt;strong&gt;虽然目前仅有 Galaxy S22 系列智能机可以尝鲜，但一则新传闻已暗示 One UI 5.0 有望于今年 10 月正式到来。&lt;/strong&gt;几个月前，SamMobile 曾独家披露这个发布窗口期，并于近日得到了韩国爆料人 @RoderSuper 的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;朝鲜&amp;#39;Kimsuky&amp;#39;威胁行为者正在不遗余力地确保他们的恶意有效载荷只被有效目标下载，而不是在安全研究人员的系统上。&lt;strong&gt;根据卡巴斯基今天发布的一份报告，自2022年开始，该威胁组织一直在采用新技术来过滤无效的下载请求，当时该组织针对朝鲜半岛的各种目标发起了新的活动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [第三方Android启动器让Galaxy Z Fold4变身Windows Phone智能机](https://www.cnbeta.com/articles/tech/1309355.htm) | Sat Aug 27 2022 5:29 AM 
+- 💼 [骁龙6 Gen 1 SoC完整规格表泄露：4纳米、5G支持等](https://www.cnbeta.com/articles/tech/1309375.htm) | Sat Aug 27 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星 Galaxy Z Fold4 折叠屏新机已于 8 月 26（本周五）开售，&lt;strong&gt;但若你不太喜欢预装的 Android 12L / OneUI 4.1.1，其实也可在第三方软件的帮助下，让它变身为经典的 Windows Phone 界面。&lt;/strong&gt;在最新的一支油管视频中，Mark Spurell 大方地展示了这一创意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去年，高通公司推出了骁龙8 Gen 1芯片组和骁龙7 Gen 1 SoC。这些都是该公司基于尖端的4纳米节点的最新产品，分别用于高级和中级智能手机。现在，该公司似乎正在开发一款新的基于4纳米的低端芯片组，将接替骁龙600系列芯片组。&lt;strong&gt;消息人士Evan Blass分享了即将推出的骁龙6 Gen 1移动平台的完整规格和功能，该平台可能将接替骁龙695芯片组。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [三星本月向数亿部Galaxy旧手机推送了固件更新](https://www.cnbeta.com/articles/tech/1309353.htm) | Sat Aug 27 2022 5:09 AM 
+- 💂 [谷歌用新AI超越自己：让Imagen能够指定生成对象 风格随意转换](https://www.cnbeta.com/articles/tech/1309373.htm) | Sat Aug 27 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;尽管早已超出了官方的最初承诺，本周还是有数亿旧 Galaxy 设备用户收到了三星推送的一个固件更新。&lt;/strong&gt;TechSpot 指出，本轮更新的文件包相当紧凑、描述中也没有提到多少内容，但它还是让大约发布于 2014~2018 年间的旧手机焕发了生机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;给Imagen加上“指哪打哪”的能力，会变得有多强？只需上传3-5张 &lt;strong&gt;指定物体&lt;/strong&gt;的照片，再用文字描述想要生成的背景、动作或表情，就能让指定物体“闪现”到你想要的场景中，动作表情也都栩栩如生。不止是动物，其他物体像墨镜、书包、花瓶，也都能做出几乎以假乱真的成品：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [KDE本周更新：支持重映射额外的鼠标按键 持续改进Discover使用体验](https://www.cnbeta.com/articles/tech/1309351.htm) | Sat Aug 27 2022 4:49 AM 
+- 🚀 [华为Mate 50 Pro将采用1.5K刘海曲面屏：支持人脸识别](https://www.cnbeta.com/articles/tech/1309371.htm) | Sat Aug 27 2022 6:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;每周，开发者 Nate Graham 都会在个人博客上分享 KDE 的开发总结。&lt;strong&gt;本周，这款知名的开源桌面环境迎来了一项重要改进 —— 支持重新映射额外的鼠标按键、以及对 Discover 的大量持续工作。&lt;/strong&gt;首先，KDE 现可重新绑定多键鼠标上的按钮。从 Plasma 5.26 开始，用户可分配任意按键组合与合成触发事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;数码博主数码闲聊站今日透露，&lt;strong&gt;华为Mate 50 Pro将采用一块尺寸1.5K分辨率的刘海曲面屏。&lt;/strong&gt;博主介绍新机的刘海面积明显大过前代，接近Mate 20 Pro的刘海大小。&lt;strong&gt;他还称华为Mate 50 Pro是一款功能驱动型产品，将支持人脸识别和姿态监测新功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《街头霸王6》韩蛛俐金佰莉主题曲 明年正式发售](https://hot.cnbeta.com/articles/game/1309349.htm) | Sat Aug 27 2022 4:36 AM 
+- 🎊 [宁德时代麒麟电池官宣：ATIO问界首发搭载](https://www.cnbeta.com/articles/tech/1309369.htm) | Sat Aug 27 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（8月27日），《街头霸王6》公布角色韩蛛俐以及金佰莉主题曲，《街头霸王6》预计在2023年发售，登陆PS4/5，XboxSeries X/S和PC。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;韩蛛俐主题曲：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月27日消息，据第一财经报道，宁德时代麒麟电池第一批落地品牌确认，&lt;strong&gt;为问界与极氪&lt;/strong&gt;。宁德时代官方发布消息称：8月27日，宁德时代新能源科技股份有限公司与赛力斯集团股份有限公司共同宣布宁&lt;strong&gt;德时代麒麟电池将落地AITO问界系列新车型&lt;/strong&gt;，双方已签署五年长期战略合作协议，AITO问界车型全面搭载宁德时代动力电池。（目前该条微博已被删除，疑似偷跑）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
