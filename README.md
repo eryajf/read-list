@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [白宫：最晚2025年末，全体公众可免费获取美国政府资助的研究论文](http://jandan.net/p/111219) | Sat Aug 27 2022 7:44 AM 
+- 🚀 [乘车旅行时小孩子为什么会焦躁不安，不停问”还有多久”？](http://jandan.net/p/111222) | Sat Aug 27 2022 1:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    7岁，一年是你一生的14.30%； 70 岁时，一年只占你生命的1.43%。 
+    </details> 
+
+- 🙉 [白宫：最晚2025年末，全体公众可免费获取美国政府资助的研究论文](http://jandan.net/p/111219) | Sat Aug 27 2022 7:44 AM 
     <details><summary>展开描述 ...</summary> 
     纳税人赞助完成的研究，不能一出了成果就放到付费墙的后面 
     </details> 
 
-- 🙉 [凝百万年进化历程于一天 中科院编辑出融合了两条染色体的老鼠](http://jandan.net/p/111220) | Sat Aug 27 2022 2:56 AM 
+- 🎉 [凝百万年进化历程于一天 中科院编辑出融合了两条染色体的老鼠](http://jandan.net/p/111220) | Sat Aug 27 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
     正常40条染色体，现在为38条；一组实验白鼠可以生育后代 
     </details> 
 
-- 🎉 [今日好价 0827](http://jandan.net/p/111221) | Sat Aug 27 2022 2:46 AM 
+- 🐲 [今日好价 0827](http://jandan.net/p/111221) | Sat Aug 27 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [从下到上 原来我们的大脑更喜欢竖直排列的数字信息](http://jandan.net/p/111218) | Fri Aug 26 2022 3:31 PM 
+-  [从下到上 原来我们的大脑更喜欢竖直排列的数字信息](http://jandan.net/p/111218) | Fri Aug 26 2022 3:31 PM 
     <details><summary>展开描述 ...</summary> 
     心理数字线 
-    </details> 
-
--  [过去两年酒类产品税收入暴跌 日本国税局拟请营销高手为酒精饮料制作创意广告](http://jandan.net/p/111180) | Fri Aug 26 2022 8:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    日本的酒吧和居酒屋等营业场所遭受严重打击 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
