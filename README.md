@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [iPad 编程生产力](https://juejin.cn/post/7136441746820431880) | Sat Aug 27 2022 6:39 AM 
+- 🤗 [深入浅出 Eslint，告别 Lint 恐惧症](https://juejin.cn/post/7136458949322080292) | Sat Aug 27 2022 7:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，相信大多数同学在日常项目中对于 Eslint 配置都会感觉到痛苦。今天就来和大家聊聊如何利用 EsLint 中各个配置来更好的辅助我们的工程。 
+    </details> 
+
+- 🎡 [kafka 数据持久化、高性能、读写原理、高可用、扩缩容总结](https://juejin.cn/post/7136458681499320350) | Sat Aug 27 2022 7:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 此文对 kafka 的工作原理做一个高度的抽象总结，便于回顾，不适合用来入门 数据持久化 元数据持久化 Kafka 中的元数据需要保存到 zookeeper 中，如topic 和 partiti 
+    </details> 
+
+- 🕯 [神奇的Compose- 开篇](https://juejin.cn/post/7136444742610452493) | Sat Aug 27 2022 6:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    这篇是神奇的compose第一篇架构片，让我们了解compose的今生前世，同时也了解compose给android开发带来的变化 
+    </details> 
+
+- 🚀 [iPad 编程生产力](https://juejin.cn/post/7136441746820431880) | Sat Aug 27 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     前言 iPad 有个口号，就是“买前生产力，买后爱奇艺”，使用 iPad，配合 Procreate 来作画体验还可以， 如果你想让你的 iPad 可以编程，你却不得不为之花费时间和精力。 
     </details> 
 
-- 🎡 [造轮子：基于TS从零构建axios（二）](https://juejin.cn/post/7136241404153430047) | Fri Aug 26 2022 5:42 PM 
+- 💪 [Electron 小白入门手册——跨端桌面应用开发的前世今生简史](https://juejin.cn/post/7136367341536804871) | Sat Aug 27 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇我们实现了一个简单的请求发送，并编写了相关的 demo。但是现在存在一些问题:我们传入的 `params` 数据并没有用，也没有拼接到 `url` 上；我们对 request body 的数据格 
-    </details> 
-
-- 🕯 [了解js执行机制以及服务器express框架](https://juejin.cn/post/7136221995720507406) | Fri Aug 26 2022 4:28 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 JS任务和事件循环 JS是单线程的 那么js为什么要设计为单线程呢? 同步和异步 为什么任务要分为同步任务和异步任务? 所以，又引入了异步任务。 
-    </details> 
-
-- 🚀 [React17系列&lpar;3&rpar;-初识Fiber与RIC](https://juejin.cn/post/7136215878429278216) | Fri Aug 26 2022 4:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    初识Fiber，浏览器一帧内做了什么，RequestIdelCallback怎么用，部分fiber的类型定义 
-    </details> 
-
-- 💪 [使用 Webpack 构建 JavaScript 工具库](https://juejin.cn/post/7136211598795866119) | Fri Aug 26 2022 3:47 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文将基于 Webpack 一步一步完成一个 JavaScript 工具库的搭建、开发、调试、打包与发布的基本流程，同时提供相关示例代码：https://github.com/hwjfqr/javas 
+    今天我们就从原生桌面开发、QT、NW、Electron、Tauri、Flutter 聊聊跨端桌面应用开发的前世今生 
     </details> 
 <!-- juejin:END -->
 ### 少数派
