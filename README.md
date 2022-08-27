@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微信发力更新 三大系统更新内容集锦](https://www.cnbeta.com/articles/tech/1309407.htm) | Sat Aug 27 2022 9:58 AM 
+- 🕯 [《极品飞车》新作或将延期一个月 实机视频泄露](https://hot.cnbeta.com/articles/game/1309435.htm) | Sat Aug 27 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最新微信开始发力了，更新了几个比较实用的新功能，咱这就来看看安卓、iOS以及PC段的微信都有哪些新功能吧，一次全了解，不用到处找。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据称，EA 的新《极品飞车》游戏将延期一个月公布。同时，游戏的首个实机画面已经泄露。Giant Bomb的编辑 Jeff Grubb 表示：““他们把它推迟到 12 月，一个月。他们将在展示之前多花几周时间。似乎Criterion 因为《战地（2042）》开发而产生了连锁反应，导致了这次延迟。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华为Mate50 Pro真机效果图、售价齐曝光](https://www.cnbeta.com/articles/tech/1309405.htm) | Sat Aug 27 2022 9:58 AM 
+- 💼 [证监会、财政部与美国监管机构签署审计监管合作协议](https://www.cnbeta.com/articles/tech/1309433.htm) | Sat Aug 27 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着Mate 50发布时间的临近，有关它的爆料信息越来越多，对于这款新机你有买的打算吗？现在，有网友就放出了所谓Mate 50 Pro的真机效果图，整体感觉和之前曝光的渲染图差不多，依旧采用星环镜头模组设计，不过周围加入了一圈金圈，搭配素皮机身看起来还是挺高级的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月27日消息，中国证券监督管理委员会发布消息称，中国证券监督管理委员会、中华人民共和国财政部于2022年8月26日与美国公众公司会计监督委员会（PCAOB）签署审计监管合作协议，将于近期启动相关合作。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [土豪级客户苹果都用不起 消息称台积电放弃初代3nm工艺 等待发展N3E](https://www.cnbeta.com/articles/tech/1309403.htm) | Sat Aug 27 2022 8:38 AM 
+- 💂 [速度与激情拍摄地居民抗议 电影助长非法赛车活动](https://hot.cnbeta.com/articles/movie/1309431.htm) | Sat Aug 27 2022 10:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在3nm工艺节点上，三星抢先台积电在6月底完成了量产，实现了超越台积电的夙愿，然而三星的3nm主要问题是没什么客户，这方面台积电的3nm更占优，苹果、Intel、AMD、NVIDIA等公司接下来会使用台积电代工。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Deadline报道，《速度与激情10》拍摄地洛杉矶安吉利诺高地当地的居民正组织抗议活动，称电影助长了非法街头赛车活动的风气，对当地居民的生命安全和生活质量造成了严重影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NASA宣传片：Artemis I - 我们已经准备好启动人类重返月球的计划](https://www.cnbeta.com/articles/science/1309401.htm) | Sat Aug 27 2022 8:37 AM 
+- 🚀 [9年CEO离职、亏损超30亿：金山落败云之战](https://www.cnbeta.com/articles/tech/1309429.htm) | Sat Aug 27 2022 10:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Artemis I的第一次飞行，距离长达50万英里的旅程即将开始。随着美国宇航局强大的新太空发射系统&lpar;SLS&rpar;火箭和猎户座航天器雷鸣般的升空，无人驾驶的美国宇航局Artemis I任务将启动人类重返月球的进程。这次关键的飞行测试将把猎户座送得比以往任何人类等级的航天器都要远，同时对新的系统和程序进行测试，它将为未来的乘员任务照亮道路。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，国内云计算厂商之间的战争越来越激烈。先是百度明确智能云、智能驾驶为公司中长期增长曲线；然后华为在全球智慧金融峰会2022，将华为云项目重点推荐；紧接着字节跳动发布“云上增长新动力”，作为火山引擎新Slogan……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [闻泰科技昆明工厂大举招工将代工苹果MacBook？内部人士预计下个月做电脑](https://www.cnbeta.com/articles/tech/1309399.htm) | Sat Aug 27 2022 8:32 AM 
+- 🎊 [芯片降价了吗？车用芯片价格稍有回落 但供给依然紧张](https://www.cnbeta.com/articles/tech/1309427.htm) | Sat Aug 27 2022 10:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，多家数码媒体报道称，闻泰科技（SH600745，收盘价62.51元，市值779亿元）昆明工厂将代工苹果MacBook，引发市场关注。《每日经济新闻》记者今日（8月27日）曾联系公司相关招聘人员，对方表示昆明闻泰通讯有限公司（以下简称昆明闻泰）的确在招工做苹果产品，但目前主要组装蓝牙耳机等，电脑产线还在架线。记者也联系了闻泰科技方面，公司内部人士表示，目前没有相关信息可以透露。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;缺芯问题或仍将在一定程度上困扰车企。8月26日，第四届世界新能源汽车大会上，车规芯片企业芯驰科技联合创始人、董事长张强在接受澎湃新闻采访时表示，近日部分车用芯片价格确实有一定回落，但也只是“从非常不理性的价格回归至稍理性的价格区间”。同时他认为，车企仍将面临较长时间的芯片供应问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
