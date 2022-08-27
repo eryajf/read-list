@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [《流浪地球 2》预告片里，李雪健老师的配音，是不是可以用 AI 合成他自己的？](https://www.v2ex.com/t/875913#reply0) | Sat Aug 27 2022 6:02 PM
-- 🤗 [Windows 的鼠标图标在有些状态下会很模糊](https://www.v2ex.com/t/875911#reply0) | Sat Aug 27 2022 5:30 PM
-- 🎭 [腾讯云 .cn 域名已不再提供隐私保护](https://www.v2ex.com/t/875910#reply1) | Sat Aug 27 2022 5:19 PM
-- 🥷 [phpStorm 特别卡，还老是自动换背景色，求帮助](https://www.v2ex.com/t/875897#reply4) | Sat Aug 27 2022 3:22 PM
-- 🐵 [甲骨文信用卡环节验证一直不过，遂想收台甲骨文，最好注册的时间久一点。](https://www.v2ex.com/t/875894#reply6) | Sat Aug 27 2022 3:13 PM<!-- v2ex:END -->
+- 🥸 [4000 元以内有能同时满足以下 3 个条件的手机吗？](https://www.v2ex.com/t/875914#reply2) | Sat Aug 27 2022 6:20 PM
+- 🤗 [《流浪地球 2》预告片里，李雪健老师的配音，是不是可以用 AI 合成他自己的？](https://www.v2ex.com/t/875913#reply1) | Sat Aug 27 2022 6:02 PM
+- 🎭 [Windows 的鼠标图标在有些状态下会很模糊](https://www.v2ex.com/t/875911#reply0) | Sat Aug 27 2022 5:30 PM
+- 🥷 [腾讯云 .cn 域名已不再提供隐私保护](https://www.v2ex.com/t/875910#reply2) | Sat Aug 27 2022 5:19 PM
+- 🐵 [phpStorm 特别卡，还老是自动换背景色，求帮助](https://www.v2ex.com/t/875897#reply4) | Sat Aug 27 2022 3:22 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
