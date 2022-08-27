@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [九价、三针、二十六岁：被“HPV焦虑”围猎的女孩们](https://www.cnbeta.com/articles/tech/1309339.htm) | Sat Aug 27 2022 3:46 AM 
+- 🕯 [第三方Android启动器让Galaxy Z Fold4变身Windows Phone智能机](https://www.cnbeta.com/articles/tech/1309355.htm) | Sat Aug 27 2022 5:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;九价难求。在小红书上，成功预约并注射HPV九价疫苗的女性，会自称“上岸”。一款针对人乳头瘤病毒的疫苗，成为房子、车子、编制之后的又一个新型奢侈品。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;HPV，正在成为年轻人的新型人生之痒。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星 Galaxy Z Fold4 折叠屏新机已于 8 月 26（本周五）开售，&lt;strong&gt;但若你不太喜欢预装的 Android 12L / OneUI 4.1.1，其实也可在第三方软件的帮助下，让它变身为经典的 Windows Phone 界面。&lt;/strong&gt;在最新的一支油管视频中，Mark Spurell 大方地展示了这一创意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《吃豆人：吃遍世界》新预告公布 全平台上线](https://hot.cnbeta.com/articles/game/1309337.htm) | Sat Aug 27 2022 3:26 AM 
+- 💼 [三星本月向数亿部Galaxy旧手机推送了固件更新](https://www.cnbeta.com/articles/tech/1309353.htm) | Sat Aug 27 2022 5:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今日（8月27日），万代南梦宫官方公布《吃豆人：吃遍世界》发售预告公布，该作现已登陆PC, PS5, XBOX ONE, Nintendo Switch, PS4以及XBOXSeries X/S平台。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;尽管早已超出了官方的最初承诺，本周还是有数亿旧 Galaxy 设备用户收到了三星推送的一个固件更新。&lt;/strong&gt;TechSpot 指出，本轮更新的文件包相当紧凑、描述中也没有提到多少内容，但它还是让大约发布于 2014~2018 年间的旧手机焕发了生机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《斯普拉遁3》限定版NS OLED主机上架美国亚马逊](https://hot.cnbeta.com/articles/game/1309335.htm) | Sat Aug 27 2022 3:25 AM 
+- 💂 [KDE本周更新：支持重映射额外的鼠标按键 持续改进Discover使用体验](https://www.cnbeta.com/articles/tech/1309351.htm) | Sat Aug 27 2022 4:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;任天堂《斯普拉遁3》限定版NS OLED主机现已上架美国亚马逊等多家零售商，售价359.99美元，比常规版NS OLED主机售价高10美元，色彩相当鲜明。&lt;/strong&gt;主机座呈白色，然后会有一坨《斯普拉遁》游戏里标志性的颜料溅在上面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;每周，开发者 Nate Graham 都会在个人博客上分享 KDE 的开发总结。&lt;strong&gt;本周，这款知名的开源桌面环境迎来了一项重要改进 —— 支持重新映射额外的鼠标按键、以及对 Discover 的大量持续工作。&lt;/strong&gt;首先，KDE 现可重新绑定多键鼠标上的按钮。从 Plasma 5.26 开始，用户可分配任意按键组合与合成触发事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [分析师：2022款MacBook Pro无法及时用上台积电3nm芯片](https://www.cnbeta.com/articles/tech/1309333.htm) | Sat Aug 27 2022 3:22 AM 
+- 🚀 [《街头霸王6》韩蛛俐金佰莉主题曲 明年正式发售](https://hot.cnbeta.com/articles/game/1309349.htm) | Sat Aug 27 2022 4:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在周五的一系列推文中，人脉深厚的苹果分析师郭明錤表示，即将推出的 2022 款 MacBook Pro，或无法及时用上台积电 3nm 芯片。&lt;/strong&gt;本周早些时候，他曾提到搭载 5nm 新处理器的 14 / 16 英寸 MacBook Pro 将于 2022 年 4 季度转入量产，而 3nm 芯片将于 2023 上半年为台积电贡献可观的营收。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（8月27日），《街头霸王6》公布角色韩蛛俐以及金佰莉主题曲，《街头霸王6》预计在2023年发售，登陆PS4/5，XboxSeries X/S和PC。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;韩蛛俐主题曲：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《闪电侠》主演会见华纳高层 以应对电影被取消传闻](https://www.cnbeta.com/articles/tech/1309331.htm) | Sat Aug 27 2022 3:16 AM 
+- 🎊 [马斯克与“下属女友”关系曝光：没有恋爱，纯粹为了生孩子？](https://www.cnbeta.com/articles/tech/1309347.htm) | Sat Aug 27 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;将于2023年6月推出的DC超英电影《闪电侠》主演埃兹拉·米勒最近被指控犯有入室盗窃重罪，加上一系列的丑闻，对华纳华纳兄弟公司和这部电影都产生了严重影响，调查显示，近8成美国群众反对其主演的《闪电侠》发行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月27日消息，今年7月，法庭文件曝光了特斯拉公司CEO埃隆·马斯克&lpar;Elon Musk&rpar;的两个新孩子。他在去年11月与其脑机接口公司Neuralink的高管希冯·齐里斯&lpar;Shivon Zilis&rpar;悄悄生了一对双胞胎，使得自己的孩子数量达到了9个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
