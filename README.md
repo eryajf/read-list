@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [甲骨文信用卡环节验证一直不过，遂想收台甲骨文，最好注册的时间久一点。](https://www.v2ex.com/t/875894#reply0) | Sat Aug 27 2022 3:13 PM
-- 🤗 [[2017 年的拙文分享] 五个月后，你将成为一条好汉](https://www.v2ex.com/t/875891#reply1) | Sat Aug 27 2022 2:47 PM
-- 🎭 [安装监控摄像头，求推荐性价比高的电钻/冲击钻？](https://www.v2ex.com/t/875889#reply5) | Sat Aug 27 2022 2:39 PM
-- 🥷 [安卓可以清除 nfc 数据吗？](https://www.v2ex.com/t/875881#reply0) | Sat Aug 27 2022 2:04 PM
-- 🐵 [都 2022 年了， coloros 后台还是只能允许 5 个 app 自启动](https://www.v2ex.com/t/875879#reply0) | Sat Aug 27 2022 1:53 PM<!-- v2ex:END -->
+- 🥸 [phpStorm 特别卡，还老是自动换背景色，求帮助](https://www.v2ex.com/t/875897#reply4) | Sat Aug 27 2022 3:22 PM
+- 🤗 [甲骨文信用卡环节验证一直不过，遂想收台甲骨文，最好注册的时间久一点。](https://www.v2ex.com/t/875894#reply5) | Sat Aug 27 2022 3:13 PM
+- 🎭 [[2017 年的拙文分享] 五个月后，你将成为一条好汉](https://www.v2ex.com/t/875891#reply4) | Sat Aug 27 2022 2:47 PM
+- 🥷 [安装监控摄像头，求推荐性价比高的电钻/冲击钻？](https://www.v2ex.com/t/875889#reply10) | Sat Aug 27 2022 2:39 PM
+- 🐵 [安卓可以清除 nfc 数据吗？](https://www.v2ex.com/t/875881#reply0) | Sat Aug 27 2022 2:04 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
