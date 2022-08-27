@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [解析 Golang 测试（10）- 什么是好的单测](https://juejin.cn/post/7136476505148194830) | Sat Aug 27 2022 8:56 AM 
+- 🤗 [Vue 2 阅读理解（十五）之响应式系统（二）](https://juejin.cn/post/7136509987953573895) | Sat Aug 27 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-    这次我们从方法，思路方面聊聊怎样写好单测，什么是好的单测，以及覆盖率这件事为什么没有意义。好的单测 &gt;没有单测 &gt;虚假繁荣的单测。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 响应式系统（二） 在上一节 响应式系统（一） 中，对 Vue 的数据响应式处理做了一点点介绍。整个数据的 
     </details> 
 
-- 🎡 [一篇文章带你搞定Java封装](https://juejin.cn/post/7136460801514143780) | Sat Aug 27 2022 7:53 AM 
+- 🎡 [【SSR】漫谈服务端渲染](https://juejin.cn/post/7136485850988150821) | Sat Aug 27 2022 9:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    SSR（服务端渲染，Server Side Render），顾名思义就是在服务端渲染出页面。与之相对应的是CSR（客户端渲染，Client Side Render），即在浏览器上渲染完整的页面. 
+    </details> 
+
+- 🕯 [10行Python代码能做出哪些有趣的事情？](https://juejin.cn/post/7136484136373452807) | Sat Aug 27 2022 9:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    Python 凭借语法的易学性，代码的简洁性以及类库的丰富性，赢得了众多开发者的喜爱。下面我们来看看 
+    </details> 
+
+- 🚀 [一篇文章带你搞定Java封装](https://juejin.cn/post/7136460801514143780) | Sat Aug 27 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
     本篇博客主要给大家介绍以下内容：大一狗学不过来了，大家多多支持呀~ 1.🐧封装的概念 面对对象程序有三大特性：封装、继承、多态。而类和对象阶段，主 
     </details> 
 
-- 🕯 [Javaの对象的构造及初始化](https://juejin.cn/post/7136460457166143502) | Sat Aug 27 2022 7:52 AM 
+- 💪 [Javaの对象的构造及初始化](https://juejin.cn/post/7136460457166143502) | Sat Aug 27 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
     如何初始化对象 我们知道再Java方法内部定义一个局部变量的时候，必须要初始化，否则就会编译失败要让这串代码通过编译，很简单，只需要在正式使用 
-    </details> 
-
-- 🚀 [『译』window.close 限制](https://juejin.cn/post/7136460540959784990) | Sat Aug 27 2022 7:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    有时候，前端开发者会非常惊奇地发现 `window.close&lpar;&rpar;` API 并不能每次都成功关闭浏览器窗口。、 
-    </details> 
-
-- 💪 [从零开始实现一个koa-starter（二）](https://juejin.cn/post/7136456810814570504) | Sat Aug 27 2022 7:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    从零开始实现一个koa-starter（二） 本节目标 本节目标是实现一个简单的路由自动装载服务端， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
