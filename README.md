@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《极品飞车》新作或将延期一个月 实机视频泄露](https://hot.cnbeta.com/articles/game/1309435.htm) | Sat Aug 27 2022 10:55 AM 
+- 🕯 [&quot;翼龙&quot;成功实施四川高温抗旱人工影响天气作业](https://www.cnbeta.com/articles/tech/1309443.htm) | Sat Aug 27 2022 12:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今年7月以来，四川省遭遇持续高温少雨天气，部分地区出现特旱，森林草原火险等级较高。8月25日，记者从中国航空工业集团有限公司（以下简称航空工业）获悉，为缓解当地旱情，当天航空工业自主研制的翼龙-2H无人机成功参与实施由中国气象局人工影响天气中心联合四川省气象局等单位组织开展的大型无人机人工增雨作业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [合资MPV王者 新一代别克GL8申报](https://www.cnbeta.com/articles/tech/1309441.htm) | Sat Aug 27 2022 12:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在最新一批的工信部申报信息中，出现了新一代别克GL8的身影。新车被命名为别克GL8世纪CENTURY，并换装了全新样式的Logo，从此次申报的图片来看，&lt;strong&gt;其基本上延续了概念车的设计风格，采用了大尺寸的中网、“7”字造型的前大灯&lt;/strong&gt;，视觉效果十分新颖，此外还可选装上下双色车身。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [2022年中秋假期火车票今日开售：放假3天不调休](https://www.cnbeta.com/articles/tech/1309439.htm) | Sat Aug 27 2022 12:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月27日，2022年中秋假期首日的火车票将正式开售，&lt;strong&gt;8月27日可买9月10日车票；8月28日可买9月11日车票；8月29日可买9月12日车票。&lt;/strong&gt;车票预售、列车开行等服务资讯，请以铁路12306网站、铁路12306APP或车站公告为准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [69岁大爷携13万跨省寻女主播 幸好民警成功拦截](https://hot.cnbeta.com/articles/funny/1309437.htm) | Sat Aug 27 2022 12:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日浙江绍兴69岁的王大爷提着行李刚到苏州汽车南站就被请进了派出所。当天6时55分，绍兴柯桥兰亭派出所接到金女士报警，称其父王大爷携带13万元银行存单失踪了，警方立即调取监控，及时与大巴司机和车站派出所联系，成功拦截王大爷。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [《极品飞车》新作或将延期一个月 实机视频泄露](https://hot.cnbeta.com/articles/game/1309435.htm) | Sat Aug 27 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据称，EA 的新《极品飞车》游戏将延期一个月公布。同时，游戏的首个实机画面已经泄露。Giant Bomb的编辑 Jeff Grubb 表示：““他们把它推迟到 12 月，一个月。他们将在展示之前多花几周时间。似乎Criterion 因为《战地（2042）》开发而产生了连锁反应，导致了这次延迟。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [证监会、财政部与美国监管机构签署审计监管合作协议](https://www.cnbeta.com/articles/tech/1309433.htm) | Sat Aug 27 2022 10:55 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月27日消息，中国证券监督管理委员会发布消息称，中国证券监督管理委员会、中华人民共和国财政部于2022年8月26日与美国公众公司会计监督委员会（PCAOB）签署审计监管合作协议，将于近期启动相关合作。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [速度与激情拍摄地居民抗议 电影助长非法赛车活动](https://hot.cnbeta.com/articles/movie/1309431.htm) | Sat Aug 27 2022 10:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Deadline报道，《速度与激情10》拍摄地洛杉矶安吉利诺高地当地的居民正组织抗议活动，称电影助长了非法街头赛车活动的风气，对当地居民的生命安全和生活质量造成了严重影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [9年CEO离职、亏损超30亿：金山落败云之战](https://www.cnbeta.com/articles/tech/1309429.htm) | Sat Aug 27 2022 10:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，国内云计算厂商之间的战争越来越激烈。先是百度明确智能云、智能驾驶为公司中长期增长曲线；然后华为在全球智慧金融峰会2022，将华为云项目重点推荐；紧接着字节跳动发布“云上增长新动力”，作为火山引擎新Slogan……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [芯片降价了吗？车用芯片价格稍有回落 但供给依然紧张](https://www.cnbeta.com/articles/tech/1309427.htm) | Sat Aug 27 2022 10:53 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;缺芯问题或仍将在一定程度上困扰车企。8月26日，第四届世界新能源汽车大会上，车规芯片企业芯驰科技联合创始人、董事长张强在接受澎湃新闻采访时表示，近日部分车用芯片价格确实有一定回落，但也只是“从非常不理性的价格回归至稍理性的价格区间”。同时他认为，车企仍将面临较长时间的芯片供应问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
