@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [从下到上 原来我们的大脑更喜欢竖直排列的数字信息](http://jandan.net/p/111218) | Fri Aug 26 2022 3:31 PM 
+- 🚀 [凝百万年进化历程于一天 中科院编辑出融合了两条染色体的老鼠](http://jandan.net/p/111220) | Sat Aug 27 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-    心理数字线 
+    正常40条染色体，现在为38条；一组实验白鼠可以生育后代 
     </details> 
 
-- 🙉 [过去两年酒类产品税收入暴跌 日本国税局拟请营销高手为酒精饮料制作创意广告](http://jandan.net/p/111180) | Fri Aug 26 2022 8:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    日本的酒吧和居酒屋等营业场所遭受严重打击 
-    </details> 
-
-- 🎉 [半夜凉飕飕：福井的古老旅馆](http://jandan.net/p/111217) | Fri Aug 26 2022 7:49 AM 
+- 🙉 [今日好价 0827](http://jandan.net/p/111221) | Sat Aug 27 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [慢性炎症总不好？你可能缺乏维生素D](http://jandan.net/p/111216) | Fri Aug 26 2022 4:40 AM 
+- 🎉 [从下到上 原来我们的大脑更喜欢竖直排列的数字信息](http://jandan.net/p/111218) | Fri Aug 26 2022 3:31 PM 
     <details><summary>展开描述 ...</summary> 
-    不放心去查查吧 
+    心理数字线 
     </details> 
 
--  [马萨诸塞的计算机教授认为 GitHub Copilot 会让该专业的学生作弊成风](http://jandan.net/p/111196) | Fri Aug 26 2022 4:34 AM 
+- 🐲 [过去两年酒类产品税收入暴跌 日本国税局拟请营销高手为酒精饮料制作创意广告](http://jandan.net/p/111180) | Fri Aug 26 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    GitHub Copilot是微软的 代码建议专家系统  
+    日本的酒吧和居酒屋等营业场所遭受严重打击 
+    </details> 
+
+-  [半夜凉飕飕：福井的古老旅馆](http://jandan.net/p/111217) | Fri Aug 26 2022 7:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
