@@ -378,24 +378,24 @@
     这次我们从方法，思路方面聊聊怎样写好单测，什么是好的单测，以及覆盖率这件事为什么没有意义。好的单测 &gt;没有单测 &gt;虚假繁荣的单测。 
     </details> 
 
-- 🎡 [iOS工程05组件二进制续](https://juejin.cn/post/7136473638265421832) | Sat Aug 27 2022 8:44 AM 
+- 🎡 [一篇文章带你搞定Java封装](https://juejin.cn/post/7136460801514143780) | Sat Aug 27 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-    上一章Xcode组件二进制。 一、Xcode组件二进制续 1、hook 1.cocoapods_plugin的作用加载cocoapods插件gems： 安装插件到本地： 运行调试： 这个plugin无 
+    本篇博客主要给大家介绍以下内容：大一狗学不过来了，大家多多支持呀~ 1.🐧封装的概念 面对对象程序有三大特性：封装、继承、多态。而类和对象阶段，主 
     </details> 
 
-- 🕯 [RT-Thread记录（三、RT-Thread 线程操作函数及线程管理与FreeRTOS的比较）](https://juejin.cn/post/7136447000693702686) | Sat Aug 27 2022 7:00 AM 
+- 🕯 [Javaの对象的构造及初始化](https://juejin.cn/post/7136460457166143502) | Sat Aug 27 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-    前2课讲完了RT-Thread开发环境，启动流程，启动以后当然是开始跑线程了， 那么自然我们得学会如何创建线程以及线程的有关操作。 
+    如何初始化对象 我们知道再Java方法内部定义一个局部变量的时候，必须要初始化，否则就会编译失败要让这串代码通过编译，很简单，只需要在正式使用 
     </details> 
 
-- 🚀 [STM32CubeMX学习笔记（40）——LVGL嵌入式图形库使用](https://juejin.cn/post/7136395095107960862) | Sat Aug 27 2022 3:38 AM 
+- 🚀 [『译』window.close 限制](https://juejin.cn/post/7136460540959784990) | Sat Aug 27 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 一、LVGL简介 LVGL官网：https://lvgl.io 官方文档：https://docs.lv 
+    有时候，前端开发者会非常惊奇地发现 `window.close&lpar;&rpar;` API 并不能每次都成功关闭浏览器窗口。、 
     </details> 
 
-- 💪 [NLP实战高手课学习笔记（3）：NLP基本任务及研究方向](https://juejin.cn/post/7136393118877745189) | Sat Aug 27 2022 3:30 AM 
+- 💪 [从零开始实现一个koa-starter（二）](https://juejin.cn/post/7136456810814570504) | Sat Aug 27 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第27天，点击查看活动详情 说明 本系列博客将记录自己学习的课程：NLP实战高手课，链接为：time.geekbang.org/co 
+    从零开始实现一个koa-starter（二） 本节目标 本节目标是实现一个简单的路由自动装载服务端， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
