@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [当下互联网创作者生存现状](https://juejin.cn/post/7136897073273634823) | Sun Aug 28 2022 12:07 PM 
+- 🤗 [小程序安全指南：如何禁止外部直接跳转到小程序某页面](https://juejin.cn/post/7136910011132805128) | Sun Aug 28 2022 12:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    小程序也需要注意安全性。例如某些页面是业务流程中的第二步、第三步，而非第一步。如果外部小程序直接跳转到了我们小程序的第二步、第三步，可能有超出预期的事情发生。本文介绍一种优雅的方式，拦截非法外部跳转。 
+    </details> 
+
+- 🎡 [日拱算法，水果成篮问题](https://juejin.cn/post/7136903298891644935) | Sun Aug 28 2022 12:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    如果面试中遇到这题不熟悉肯定很难读懂题意，转换理解为处理 包含两种元素的最长连续子序列 就好理解多了，什么水果成篮，感觉有点把实际想问的问题复杂化了。不过算法解题中，读题真的也很关键。 
+    </details> 
+
+- 🕯 [AcWing：第66场周赛](https://juejin.cn/post/7136900421896896520) | Sun Aug 28 2022 12:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 AcWing：第66场周赛 4606. 奇偶判断 问题解析 虽然是16进制，但是题目让我们看的是转成10 
+    </details> 
+
+- 🚀 [当下互联网创作者生存现状](https://juejin.cn/post/7136897073273634823) | Sun Aug 28 2022 12:07 PM 
     <details><summary>展开描述 ...</summary> 
     希望一切都能实事求是交流，而非动辄上纲上线。欣赏一切优雅的理论模型，但也扎根现实，寻求当下条件最优解。 
     </details> 
 
-- 🎡 [只想做开源项目、技术项目，不想做业务，有办法吗？](https://juejin.cn/post/7136893477681381407) | Sun Aug 28 2022 11:53 AM 
+- 💪 [只想做开源项目、技术项目，不想做业务，有办法吗？](https://juejin.cn/post/7136893477681381407) | Sun Aug 28 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
     连续两期视频都有朋友问类似问题：“我只对开源项目、技术项目感兴趣，不想做业务，怎么办”。 这种工作可能是所有人梦寐以求的，又能提升自己前端技术，又能提升社区知名度，还不用被业务左右。这么好的工作怎么找 
-    </details> 
-
-- 🕯 [【kafka源码】kafka分区副本的分配规则](https://juejin.cn/post/7136874534832963614) | Sun Aug 28 2022 10:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    Hello~~ 大家好,我是石臻臻~~~~ 源码分析 创建Topic的源码入口 AdminManager.create 
-    </details> 
-
-- 🚀 [Chrome加载已解压的扩展程序-清单文件缺失或不可读取 无法加载清单](https://juejin.cn/post/7136869239637409828) | Sun Aug 28 2022 10:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    在Github下载一个Chrome插件，解压后在Chrome浏览器“加载已解压的扩展程序”总是报错如图 其实很简单，只不过在当前文件夹下没有manifest.json文件，加载包含manifest.j 
-    </details> 
-
-- 💪 [[&#39;1&#39;, &#39;7&#39;, &#39;11&#39;].map&lpar;parseInt&rpar; 会输出什么](https://juejin.cn/post/7136867225252102175) | Sun Aug 28 2022 10:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    parseInt 接受两个参数，因此第三个参数会被忽略。 parseInt&lpar;&#39;1&#39;, 0&rpar;0进制parseInt&lpar;&#39;7&#39;, 1&rpar;1进制parseInt&lpar;&#39;11&#39;, 2&rpar; 答案为 3 ，因为以 2 为 
     </details> 
 <!-- juejin:END -->
 ### 少数派
