@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [真是多少台显示器，都不嫌多。。](https://www.v2ex.com/t/875998#reply17) | Sun Aug 28 2022 10:13 AM
-- 🤗 [网上找了一个任务悬赏类的源码，想学习下，请教下怎么部署](https://www.v2ex.com/t/875997#reply4) | Sun Aug 28 2022 10:11 AM
-- 🎭 [Linux 修改键位映射](https://www.v2ex.com/t/875994#reply6) | Sun Aug 28 2022 9:44 AM
-- 🥷 [瑞昱（小螃蟹）的硬件驱动程序去哪里下载？](https://www.v2ex.com/t/875993#reply2) | Sun Aug 28 2022 9:38 AM
-- 🐵 [请教下各位大佬一个数据上链的问题](https://www.v2ex.com/t/875985#reply5) | Sun Aug 28 2022 8:51 AM<!-- v2ex:END -->
+- 🥸 [《DDIA 逐章精读》小册和逐章分享](https://www.v2ex.com/t/876038#reply0) | Sun Aug 28 2022 2:15 PM
+- 🤗 [Safari 禁止了跨域追踪，为什么登录 Google 还是能同步登录不同域名下的 YouTube？用了什么黑科技？](https://www.v2ex.com/t/876032#reply0) | Sun Aug 28 2022 2:03 PM
+- 🎭 [问个数据库设计问题，比如课程有单课程和组合课程（每个组合课程有多个单课程组成，单课程有交叉）](https://www.v2ex.com/t/876030#reply2) | Sun Aug 28 2022 1:51 PM
+- 🥷 [真是多少台显示器，都不嫌多。。](https://www.v2ex.com/t/875998#reply28) | Sun Aug 28 2022 10:13 AM
+- 🐵 [网上找了一个任务悬赏类的源码，想学习下，请教下怎么部署](https://www.v2ex.com/t/875997#reply5) | Sun Aug 28 2022 10:11 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
