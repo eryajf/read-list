@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [最详细的 lerna 中文手册](https://juejin.cn/post/7136925215388499998) | Sun Aug 28 2022 1:55 PM 
+- 🤗 [JavaScript 命令模式和状态模式](https://juejin.cn/post/7136940345413074981) | Sun Aug 28 2022 2:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    命令模式 命令模式介绍 命令模式&lpar;Command&rpar;的定义是：用于将一个请求封装成一个对象，从而使你可用不同的请求对客户进行参数化；对请求排队或者记录请求日志，以及执行可撤销的操作。也就是说改模式旨在将 
+    </details> 
+
+- 🎡 [PriorityQueue详解](https://juejin.cn/post/7136936945321508878) | Sun Aug 28 2022 2:40 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 概述 PriorityQueue这个队列不知道大家使用过吗，反正我从来没有用过，主要对它不是很了解，今天 
+    </details> 
+
+- 🕯 [你可能不知道的一些 CSS 基本知识](https://juejin.cn/post/7136930217293004831) | Sun Aug 28 2022 2:15 PM 
+    <details><summary>展开描述 ...</summary> 
+    很多前端开发同学好像都不太关心 CSS，但其实 CSS 能帮助我们简化许多开发。 了解 CSS 的一些特性和浏览器处理 CSS 的流程，也可以帮助我们让页面拥有更好的性能。 
+    </details> 
+
+- 🚀 [详述HTTP版本之间的区别](https://juejin.cn/post/7136927294739709966) | Sun Aug 28 2022 2:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、HTTP1.0 HTTP协议的第二个版本，第一个在通讯中指定版本号的HTTP协议版本 HTTP 1.0 浏览器与服务器只保持短暂的连接，每次请求都需要与服务器建立一个TCP连接 服务器完成请求处理 
+    </details> 
+
+- 💪 [最详细的 lerna 中文手册](https://juejin.cn/post/7136925215388499998) | Sun Aug 28 2022 1:55 PM 
     <details><summary>展开描述 ...</summary> 
     lerna 官方文档&lpar;[lerna 中文文档]&lpar;https://www.lernajs.cn/&rpar;&rpar;不齐全，学习成本甚高，本文欲打造一个最详细的 lerna 手册，帮助查阅指令，熟悉 lerna。 
-    </details> 
-
-- 🎡 [项目中使用svgIcon图标](https://juejin.cn/post/7136918959353397278) | Sun Aug 28 2022 1:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    svgIcon图标的使用，从图标库配置到项目配置，简单使用，文章也很短，几十秒就看完了，就看你想不想看了 
-    </details> 
-
-- 🕯 [提升云计算安全的五个策略](https://juejin.cn/post/7136915755492343821) | Sun Aug 28 2022 1:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    如果你使用多个云的可用性，你需要确保你在所有的云中使用相同的安全设置。你可以使用自动化工具来同步供应商之间的策略和设置。这些工具应该根据适用于所有提供商的通用定义来创建安全策略。 
-    </details> 
-
-- 🚀 [ArrayDeque深度解析](https://juejin.cn/post/7136915645370728479) | Sun Aug 28 2022 1:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 概述 ArrayDeque这个容器不知道大家在平时的工作中使用的多吗？它是一个非常强大的容器，既可以作为 
-    </details> 
-
-- 💪 [一次SSL握手异常，我发现JDK还有发行版区别](https://juejin.cn/post/7136914506063544327) | Sun Aug 28 2022 1:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    简介 最近，我们一个多机房部署的服务，调用方反馈有问题，在调用新加坡机房时正常，而调用印度机房则报SSL握手异常。 排查花了一些时间，同时也积累了一些经验，故记录一下。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
