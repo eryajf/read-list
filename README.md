@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [从「整理」来讲日式美学及生活之道](https://sspai.com/post/74764) | Sun Aug 28 2022 3:12 AM 
+- 👹 [[送码] 更完善的中文拼音搜索体验：效率启动器 HapiGO 带来多项更新](https://sspai.com/post/75346) | Sun Aug 28 2022 8:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    继推出 2.0 大版本之后，HapiGo 又陆续带来了多项新的功能和体验优化，向最好用的中文搜索启动器工具更进一步。&lt;a href=&quot;https://sspai.com/post/75346&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [从「整理」来讲日式美学及生活之道](https://sspai.com/post/74764) | Sun Aug 28 2022 3:12 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74764&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [忏悔 24 小时——关于微信被封禁，我想告诉你这些](https://sspai.com/post/75353) | Sat Aug 27 2022 8:17 AM 
+- 🤭 [忏悔 24 小时——关于微信被封禁，我想告诉你这些](https://sspai.com/post/75353) | Sat Aug 27 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
     写在前面据腾讯2022第二季度业绩显示，微信及WeChat月活跃用户数已达12.99亿，社交、工作甚至出行、支付等场景也都有微信的影子。很难想象，如果在今天，突然失去微信或者其中的一部分，生活会发生怎 ...&lt;a href=&quot;https://sspai.com/post/75353&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [我是如何在 Notion 中运用 PARA 模型来整理第二大脑](https://sspai.com/post/74753) | Sat Aug 27 2022 3:38 AM 
+- 🥸 [我是如何在 Notion 中运用 PARA 模型来整理第二大脑](https://sspai.com/post/74753) | Sat Aug 27 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74753&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派周报 | 本周会员内容提要；跑题：啁啾哨音](https://sspai.com/prime/story/pi-weekly-006) | Fri Aug 26 2022 12:51 PM 
+- 🙉 [派周报 | 本周会员内容提要；跑题：啁啾哨音](https://sspai.com/prime/story/pi-weekly-006) | Fri Aug 26 2022 12:51 PM 
     <details><summary>展开描述 ...</summary> 
     Mudge 的哨声已经引发了回响，但会带来多少实际后果，还要等待听证、审判结束后才能下结论。但只有一点是不用预测的，那就是不管谁赢，用户已经输了。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-006&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/75382) | Fri Aug 26 2022 9:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    冰与火之歌，原来从一开始就是传说。&lt;a href=&quot;https://sspai.com/post/75382&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
