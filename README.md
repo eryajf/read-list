@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [曾毓群：全球每三辆新能源车就有一辆用宁德时代电池](https://www.cnbeta.com/articles/tech/1309593.htm) | Sun Aug 28 2022 7:09 AM 
+- 🕯 [中国移动NZONE 50 Pro明天发布 后壳酷似华为 支持5G](https://www.cnbeta.com/articles/tech/1309595.htm) | Sun Aug 28 2022 7:33 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;明天（8月29日）下午14:08，中国移动将召开新品发布会，带来NZONE 50 Pro新品手机。与此同时，中国移动还卖了关子：明日动感地带神秘嘉宾登场，开启数字新生活！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [曾毓群：全球每三辆新能源车就有一辆用宁德时代电池](https://www.cnbeta.com/articles/tech/1309593.htm) | Sun Aug 28 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月28日消息，日前，宁德时代董事长曾毓群在2022世界新能源汽车大会上发言表示，目前为止，我们的电池已经卖到了全球56个国家和地区，&lt;strong&gt;累计装车超过500万辆，全球每新增3辆新能源汽车就有一辆装载宁德时代电池。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [30多万买的小鹏P7漏水又黑屏 副驾乘客拉着车门开车](https://www.cnbeta.com/articles/tech/1309591.htm) | Sun Aug 28 2022 7:08 AM 
+- 💂 [30多万买的小鹏P7漏水又黑屏 副驾乘客拉着车门开车](https://www.cnbeta.com/articles/tech/1309591.htm) | Sun Aug 28 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;30多万买的小鹏P7轿车，才两年左右时间，就出现了车内漏雨、屏幕黑屏等质量问题，车主对此很难接受，要求换车处理。8月28日消息，据“1818黄金眼”报道，2020年8、9月份，浙江嘉兴的邱女士花费30多万元，购买了这辆小鹏P7，可是在去年用车过程中，车辆多次出现了车顶漏雨的情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Oracle VirtualBox带来对Windows 11、macOS Big Sur、Monterey等的支持](https://www.cnbeta.com/articles/tech/1309589.htm) | Sun Aug 28 2022 7:05 AM 
+- 🚀 [Oracle VirtualBox带来对Windows 11、macOS Big Sur、Monterey等的支持](https://www.cnbeta.com/articles/tech/1309589.htm) | Sun Aug 28 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;甲骨文公司的VirtualBox 7.0.0 Beta 1版本在主机操作系统支持方面带来了几个重大变化。该虚拟化软件终于获得了将Windows 11作为主机操作系统运行的能力。&lt;/strong&gt;上一个VirtualBox版本，即6.1.36版不支持Windows 11主机，尽管从6.1.28版开始就支持Windows 11作为客户机，然而，计划中的TPM直通在6.1.28中也没有出现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [2022年第二季度印度智能手表市场规模首次超过中国夺得全球第二](https://www.cnbeta.com/articles/tech/1309587.htm) | Sun Aug 28 2022 7:00 AM 
+- 🎊 [2022年第二季度印度智能手表市场规模首次超过中国夺得全球第二](https://www.cnbeta.com/articles/tech/1309587.htm) | Sun Aug 28 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据Counterpoint Research最近发布的全球智能手表型号追踪报告，在通货膨胀和地缘政治冲突等宏观不确定性中，2022年第二季度全球智能手表市场的出货量同比增长13%。&lt;strong&gt;特别是，印度的智能手表市场同比增长超过300%，超过中国位居第二。印度的OEM厂商，如Fire-Boltt和Noise更是在全球市场份额中占据前列。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [相控阵雷达防治野猪引热议：仅重15kg，可同时监控100个目标](https://www.cnbeta.com/articles/tech/1309585.htm) | Sun Aug 28 2022 6:55 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;没想到，用在航母军舰上的相控阵雷达，现在被拿来防野猪了？？？还能配合着大疆无人机一起用。雷达一发现野猪，无人机就去驱离。&lt;strong&gt;覆盖范围从半径 5 公里到 10 公里不等，可同时监控 100 个目标&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
