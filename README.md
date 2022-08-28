@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【LeetCode】382. 链表随机节点](https://juejin.cn/post/7136790169880887303) | Sun Aug 28 2022 5:12 AM 
+- 🤗 [npm基本配置](https://juejin.cn/post/7136799183108833310) | Sun Aug 28 2022 5:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    一，下载及安装 http://nodejs.cn/ 在这里直接使zip的方式，下载解压即可使用 二，检查是否安装成功 cmd 键入node -v和npm -v 三，自定义node配置文件夹 在node 
+    </details> 
+
+- 🎡 [【LeetCode】382. 链表随机节点](https://juejin.cn/post/7136790169880887303) | Sun Aug 28 2022 5:12 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第29天，点击查看活动详情 前言 为了养成创作习惯，从今天起开始刷力扣了，只刷简单和中等难度的题，分类刷，这个月就先刷链表题，简单的 
     </details> 
 
-- 🎡 [模仿 mapstruct 实现一个微服务编排框架（上）](https://juejin.cn/post/7136787304681177095) | Sun Aug 28 2022 5:00 AM 
+- 🕯 [模仿 mapstruct 实现一个微服务编排框架（上）](https://juejin.cn/post/7136787304681177095) | Sun Aug 28 2022 5:00 AM 
     <details><summary>展开描述 ...</summary> 
     我正在参与掘金创作者训练营第6期，点击了解活动详情 序 起始原因 是 我们公司 分布式事务 使用的是 seate 分布式事务框架，现在只在一些小部分使用，因为考虑到seate 对性能 TCP的影响，对 
     </details> 
 
-- 🕯 [【CSS 教程系列第 8 篇】什么是 CSS 中的后代选择器](https://juejin.cn/post/7136781176550735908) | Sun Aug 28 2022 4:38 AM 
+- 🚀 [【CSS 教程系列第 8 篇】什么是 CSS 中的后代选择器](https://juejin.cn/post/7136781176550735908) | Sun Aug 28 2022 4:38 AM 
     <details><summary>展开描述 ...</summary> 
     什么是 CSS 中的后代选择器。 后代选择器，用来选择元素或元素组的所有后代元素。 后代选择器的写法就是把外层标签写在前面，内层标签写在后面，中间用空格分隔。 
     </details> 
 
-- 🚀 [vue-router4 |name的作用|query传参|parmas传参|动态路由参数|命名视图|别名alias|前置路由守卫|路由过渡效果|滚动行为](https://juejin.cn/post/7136770273746878471) | Sun Aug 28 2022 3:55 AM 
+- 💪 [vue-router4 |name的作用|query传参|parmas传参|动态路由参数|命名视图|别名alias|前置路由守卫|路由过渡效果|滚动行为](https://juejin.cn/post/7136770273746878471) | Sun Aug 28 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
     vue-router4 出现 No match found for location with path &quot;/&quot; 出现问题的原因 vue-router中的name有什么作用呢？ a标签的跳转与 rou 
-    </details> 
-
-- 💪 [Nuxt2 项目根据接口传值设置主题](https://juejin.cn/post/7136768698303381511) | Sun Aug 28 2022 3:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文介绍了如何在使用了 elementUI 的 nuxt2 项目根据接口传值，设置主题的方法。不足之处，还望各位大佬斧正~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
