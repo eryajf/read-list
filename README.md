@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [31. CSS渐变色（颜色渐变）](https://juejin.cn/post/7136847626804133924) | Sun Aug 28 2022 8:54 AM 
+- 🤗 [优化logstash从redis中读取日志的配置（下）](https://juejin.cn/post/7136856884874575886) | Sun Aug 28 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-    CSS 中的渐变指的是两种或多种颜色之间的平滑过渡，以前我们必须使用事先定义好的图像来实现渐变效果，CSS3 为实现渐变效果提供了一种灵活的解决方案。 通过 CSS3 您可以定义三种类型的渐变，分别为 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第29天，点击查看活动详情 优化logstash从redis中读取日志的配置（下） 
     </details> 
 
-- 🎡 [chrome调试webview](https://juejin.cn/post/7136845711517155342) | Sun Aug 28 2022 8:47 AM 
+- 🎡 [IC 上的移动开发 | TinTinLand &amp; DFINITY DTalk#5](https://juejin.cn/post/7136856805929386021) | Sun Aug 28 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    当H5游戏或者页面运行在安卓webview的时候，经常会遇到兼容性问题，而打日志很难满足我们的调试需求，因此如何在PC浏览器上远程调试安卓webview，是很多开发者迫切想知道。这里以chrome为例 
+    开发基于 IC 的跨平台基础设施及应用。文章为直播演讲的文字稿，若想观看直播回放可访问B站：Dtalk#5 | 圆桌讨论：高校开发者们的逐梦 Web3。 
     </details> 
 
-- 🕯 [Android重学系列（一）：setContentView](https://juejin.cn/post/7136844346665467918) | Sun Aug 28 2022 8:42 AM 
+- 🕯 [浅谈 React 函数组件性能优化手段](https://juejin.cn/post/7136853917832642597) | Sun Aug 28 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-    从AppCompatActivity、Activity探索setContentView背后的流程逻辑 
+    React.memo、useMemo、useCallback 浅谈 React 函数组件性能优化手段。前段时间看到卡颂的一篇关于「React 组件到底什么时候 render」 的探讨文章 
     </details> 
 
-- 🚀 [使用 Containerlab  +  Kind 快速部署 Cilium BGP 环境](https://juejin.cn/post/7136844038468010015) | Sun Aug 28 2022 8:40 AM 
+- 🚀 [32. CSS阴影效果（2种方法）](https://juejin.cn/post/7136853549689864223) | Sun Aug 28 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-    ## 1 前置知识 ### 1.1 Cilium 介绍 Cilium 是一款基于 eBPF 技术的 Kubernetes CNI 插件，Cilium 在其官网上对产品的定位为 **“eBPF-bas 
+    在网页设计中常常要使用到阴影效果，通过阴影效果可以很好的突出一个元素，在 CSS3 出现之前，我们想要为文本或者元素添加阴影效果需要借助图像才能实现，很不方便。而 CSS3 出现之后，我们通过 tex 
     </details> 
 
-- 💪 [使用 Containerlab  +  Kind 快速部署 Cilium BGP 环境](https://juejin.cn/post/7136843291043037198) | Sun Aug 28 2022 8:38 AM 
+- 💪 [从 eureka 看看如何设计一个注册中心](https://juejin.cn/post/7136853128107786270) | Sun Aug 28 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-    ## 1 前置知识 ### 1.1 Cilium 介绍 Cilium 是一款基于 eBPF 技术的 Kubernetes CNI 插件，Cilium 在其官网上对产品的定位为 **“eBPF-bas 
+    前言 一个注册中心的核心功能非常简单，启动的服务需要注册上来，宕机下线的服务要及时通知客户端，同时需要保证注册中心的高性能、高可用 我们从以下几个方面来看看 eureka 是如何实现的 （1）网络通信 
     </details> 
 <!-- juejin:END -->
 ### 少数派
