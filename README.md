@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [推特惊现泄密者，撒谎实锤了？马斯克却异常沉默](https://www.cnbeta.com/articles/tech/1309563.htm) | Sun Aug 28 2022 3:23 AM 
+- 🕯 [曾毓群：全球每三辆新能源车就有一辆用宁德时代电池](https://www.cnbeta.com/articles/tech/1309593.htm) | Sun Aug 28 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月28日消息，本周有报道称社交媒体平台推特前安全负责人佩特·扎特科&lpar;Peiter Zatko&rpar;举报推特在用户隐私、网络安全和平台内容审核方面存在极其严重的问题。最近几天时间里，推特不得不面对股价下挫以及美国国会议员们的新一轮审查等问题，公司与亿万富翁埃隆·马斯克&lpar;Elon Musk&rpar;之间的法律诉讼就此也增加了更多不确定性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月28日消息，日前，宁德时代董事长曾毓群在2022世界新能源汽车大会上发言表示，目前为止，我们的电池已经卖到了全球56个国家和地区，&lt;strong&gt;累计装车超过500万辆，全球每新增3辆新能源汽车就有一辆装载宁德时代电池。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [IMF：加密货币与亚洲股市相关性日益增强 对金融稳定构成风险](https://www.cnbeta.com/articles/tech/1309561.htm) | Sun Aug 28 2022 3:22 AM 
+- 💼 [30多万买的小鹏P7漏水又黑屏 副驾乘客拉着车门开车](https://www.cnbeta.com/articles/tech/1309591.htm) | Sun Aug 28 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;国际货币基金组织（IMF）近日发布文章称，自2020年3月新冠疫情爆发以来，比特币和以太坊等加密货币已越来越多地融入亚洲金融体系，这凸显了加强监管的必要性&lt;/strong&gt;。在新冠疫情爆发之前，加密货币和亚洲股市之间的回报和波动率相关性很低，但自2020年以来，相关性显著上升，这是因为人们可以通过低利率和政府刺激支付轻松获得廉价贷款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;30多万买的小鹏P7轿车，才两年左右时间，就出现了车内漏雨、屏幕黑屏等质量问题，车主对此很难接受，要求换车处理。8月28日消息，据“1818黄金眼”报道，2020年8、9月份，浙江嘉兴的邱女士花费30多万元，购买了这辆小鹏P7，可是在去年用车过程中，车辆多次出现了车顶漏雨的情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [GUCCI对日本商标CUGGL提出异议，被日方以“相似度较低”为由驳回](https://www.cnbeta.com/articles/tech/1309559.htm) | Sun Aug 28 2022 3:20 AM 
+- 💂 [Oracle VirtualBox带来对Windows 11、macOS Big Sur、Monterey等的支持](https://www.cnbeta.com/articles/tech/1309589.htm) | Sun Aug 28 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;综合英国《金融时报》和美国商业媒体“Fast Company”报道，近日，意大利奢侈品牌GUCCI（古驰）对日本商标“CUGGL” （读作“kyuguru”）发起的商标异议请求被日本特许厅驳回一事在社交媒体引发关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;甲骨文公司的VirtualBox 7.0.0 Beta 1版本在主机操作系统支持方面带来了几个重大变化。该虚拟化软件终于获得了将Windows 11作为主机操作系统运行的能力。&lt;/strong&gt;上一个VirtualBox版本，即6.1.36版不支持Windows 11主机，尽管从6.1.28版开始就支持Windows 11作为客户机，然而，计划中的TPM直通在6.1.28中也没有出现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[图]戴尔宣布8月中旬关闭在俄办事处 并停止所有业务](https://www.cnbeta.com/articles/tech/1309557.htm) | Sun Aug 28 2022 3:19 AM 
+- 🚀 [2022年第二季度印度智能手表市场规模首次超过中国夺得全球第二](https://www.cnbeta.com/articles/tech/1309587.htm) | Sun Aug 28 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周六，戴尔科技公司（Dell Technologies Inc.）成为离开俄罗斯的又一个西方公司。&lt;strong&gt;该公司宣布在 8 月中旬关闭其设立在俄罗斯的办事处后，将会停止所有在俄罗斯境内的运营。&lt;/strong&gt;戴尔是俄罗斯重要的服务器供应商，自今年 2 月 24 日俄乌冲突之后，该公司就参与了制裁行动。戴尔在 2 月份暂停了在乌克兰和俄罗斯的销售，称将监控情况以确定下一步行动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据Counterpoint Research最近发布的全球智能手表型号追踪报告，在通货膨胀和地缘政治冲突等宏观不确定性中，2022年第二季度全球智能手表市场的出货量同比增长13%。&lt;strong&gt;特别是，印度的智能手表市场同比增长超过300%，超过中国位居第二。印度的OEM厂商，如Fire-Boltt和Noise更是在全球市场份额中占据前列。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [戴安娜王妃去世25周年 生前爱车拍出65万英镑天价](https://www.cnbeta.com/articles/tech/1309555.htm) | Sun Aug 28 2022 3:17 AM 
+- 🎊 [相控阵雷达防治野猪引热议：仅重15kg，可同时监控100个目标](https://www.cnbeta.com/articles/tech/1309585.htm) | Sun Aug 28 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;1997年的8月31日，英国戴安娜王妃因车祸去世引发世界话题，时至今日即将迎来25周年，戴安娜王妃生前喜爱的uiliang福特汽车近期拍出65万英镑天价。这辆黑色福特艾斯科特汽车是80年代戴安娜王妃非常喜爱的一辆车，至今依然保存完好如新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;没想到，用在航母军舰上的相控阵雷达，现在被拿来防野猪了？？？还能配合着大疆无人机一起用。雷达一发现野猪，无人机就去驱离。&lt;strong&gt;覆盖范围从半径 5 公里到 10 公里不等，可同时监控 100 个目标&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
