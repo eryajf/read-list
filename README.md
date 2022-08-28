@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [《DDIA 逐章精读》小册和逐章分享](https://www.v2ex.com/t/876038#reply0) | Sun Aug 28 2022 2:15 PM
-- 🤗 [Safari 禁止了跨域追踪，为什么登录 Google 还是能同步登录不同域名下的 YouTube？用了什么黑科技？](https://www.v2ex.com/t/876032#reply0) | Sun Aug 28 2022 2:03 PM
-- 🎭 [问个数据库设计问题，比如课程有单课程和组合课程（每个组合课程有多个单课程组成，单课程有交叉）](https://www.v2ex.com/t/876030#reply2) | Sun Aug 28 2022 1:51 PM
-- 🥷 [真是多少台显示器，都不嫌多。。](https://www.v2ex.com/t/875998#reply28) | Sun Aug 28 2022 10:13 AM
-- 🐵 [网上找了一个任务悬赏类的源码，想学习下，请教下怎么部署](https://www.v2ex.com/t/875997#reply5) | Sun Aug 28 2022 10:11 AM<!-- v2ex:END -->
+- 🥸 [manjaro-kde 颠覆了我的认知， kde5 内存消耗居然和 xfce4 持平](https://www.v2ex.com/t/876048#reply0) | Sun Aug 28 2022 3:17 PM
+- 🤗 [构建一个漂亮的跨平台登录 / 注册能有多难？](https://www.v2ex.com/t/876047#reply0) | Sun Aug 28 2022 3:06 PM
+- 🎭 [现在有什么便宜点的 香港或者海外服务器没有 ，测试学习下网站](https://www.v2ex.com/t/876046#reply1) | Sun Aug 28 2022 2:51 PM
+- 🥷 [《DDIA 逐章精读》小册和逐章分享](https://www.v2ex.com/t/876038#reply5) | Sun Aug 28 2022 2:15 PM
+- 🐵 [Safari 禁止了跨域追踪，为什么登录 Google 还是能同步登录不同域名下的 YouTube？用了什么黑科技？](https://www.v2ex.com/t/876032#reply4) | Sun Aug 28 2022 2:03 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
