@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NASA宣传片3：有史以来最强大的火箭阿特米斯一号通往发射台的道路](https://www.cnbeta.com/articles/science/1309665.htm) | Sun Aug 28 2022 7:50 PM 
+- 🕯 [两名法航飞行员因飞行途中在驾驶舱内打架斗殴被停飞](https://www.cnbeta.com/articles/tech/1309679.htm) | Sun Aug 28 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你是否曾想过要如何组装美国宇航局所制造的最强大的火箭？观看美国国家航空航天局的太空发射系统（SLS）火箭转变为超过300英尺高的运载火箭的纪录片，它将使人类重返月球。&lt;strong&gt;从制造开始，到NASA肯尼迪航天中心的运载火箭装配大楼内的堆放作业，这只是SLS通往发射台之路的开始。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久，埃塞俄比亚航空公司一客机因两名飞行员在飞行途中打瞌睡而一度“失联”一事，引发了外界对航空安全问题的关注。据8月28日最新报道，又有两名法国航空的飞行员因飞行途中在驾驶舱内打架斗殴被停飞。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [几十万美国人还在用2G网 有人自己建宽带救了N条命](https://www.cnbeta.com/articles/tech/1309663.htm) | Sun Aug 28 2022 7:04 PM 
+- 💼 [商标申请表明苹果可能会为AR/VR头盔争取“Reality”名称](https://www.cnbeta.com/articles/tech/1309677.htm) | Sun Aug 28 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在敲下这段文字的时候，办公室里第 N 次响起对于网管的质问：“ 我的网呢？！”或许大家不知道，我们办公室的网每天都会定时下岗。不知道大家有没有体验过，一张图传十分钟的感觉。有时候，写完的文章因为没网保存不上，设计们没有网找素材。久而久之，暴打网管都成为了办公室的每日保留节目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;span style=&quot;&quot;&gt;商标申请表明，苹果公司可能会为其备受期待的混合现实头戴设备争取潜在名称，这是这家科技巨头多年来推动其首个新产品类别的一部分。 &lt;/span&gt;据悉，&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;在美国、欧盟、英国、加拿大、澳大利亚、新西兰、沙特阿拉伯、哥斯达黎加和乌拉圭提交了“Reality One”“Reality Pro”和“Reality Processor”名称的申请。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [频率大战再度打响 AMD Zen4加速频率可达5.85GHz](https://www.cnbeta.com/articles/tech/1309661.htm) | Sun Aug 28 2022 7:02 PM 
+- 💂 [成本高企不愿给“宁王”打工 广汽斥资百亿元造磷酸铁锂电池](https://www.cnbeta.com/articles/tech/1309675.htm) | Sun Aug 28 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;经历过多年的“核心大战”，Intel、AMD似乎要回归“频率大战”。根据曝料，13代酷睿旗舰i9-13900K的加速频率可以达到惊人的5.8GHz，AMD Zen4旗舰锐龙9 7950X也能冲到5.7GHz。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;先是董事长公开表态拒绝为电池厂打工，自己的电池要自己造；后是旗下新能源品牌广汽埃安融资金额创行业新高。作为一家市值1500亿元的头部车企，广汽集团最近动作频频。8月26日，广汽埃安A轮引进战略投资者在广东联合产权交易中心正式挂牌。同时，广汽埃安股份制改造工作正式启动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [贾浅浅是不是诗人我不知道，但网友们一定是](https://hot.cnbeta.com/articles/funny/1309659.htm) | Sun Aug 28 2022 4:11 PM 
+- 🚀 [美媒：特朗普的社交媒体“真相社交”面临财务危机](https://www.cnbeta.com/articles/tech/1309673.htm) | Sun Aug 28 2022 11:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;很多年前，还是个初中生的我，抱着欣赏文学名著的心态，翻开了贾平凹的《废都》。这本书给我当时幼小的心灵带来了巨大的冲击，虽然我已经不记得这本书的情节，但我仍然能记得书里男主角和女伴在屋子里追求生命大和谐，因为过于激烈而把沙发顶到了房门上，然后把墙上的字画震下来的画面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国前总统特朗普去年1月被推特拉入黑名单后，随后高调推出一款名为“真相社交”的社交平台。然而，美国《华盛顿邮报》27日报道称，由于支付纠纷和受众减少，该平台正面临财务危机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [开学前录取通知书被狗狗咬碎 网友：带它去学校](https://hot.cnbeta.com/articles/funny/1309657.htm) | Sun Aug 28 2022 3:34 PM 
+- 🎊 [氢燃料电池汽车“未来已来”？ 业内：要先把成本降下来](https://www.cnbeta.com/articles/tech/1309671.htm) | Sun Aug 28 2022 11:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;马上就要开学了，又一批大学生即将开启新的人生，但在云南，一位女生却遇到了极为尴尬的情况。&lt;strong&gt;就在开学的前一天，女生在家中收拾东西的时候，才发现自己的大学录取通知书被自家的狗狗给咬碎了，已然面目全非，当场崩溃，手足无措，到处询问是否影响入学。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为一种来源丰富、绿色低碳、应用广泛的二次能源，氢能正逐步成为全球能源转型的重要载体之一。在此背景下，我国的燃料电池产业化也在提速。&lt;/strong&gt;“氢能产业是这几年刚发展起来的，当前各个企业都在做。”8月27日上午，在“国家燃料电池技术创新中心”挂牌仪式上，该中心运营主体山东国创燃料电池技术创新中心有限公司（以下简称国创公司）董事长孙少军向《每日经济新闻》记者表示。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
