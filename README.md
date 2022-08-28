@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TypeScript Monorepo 最佳实践](https://juejin.cn/post/7136832425807577124) | Sun Aug 28 2022 7:55 AM 
+- 🤗 [31. CSS渐变色（颜色渐变）](https://juejin.cn/post/7136847626804133924) | Sun Aug 28 2022 8:54 AM 
     <details><summary>展开描述 ...</summary> 
-    随着 JS 项目的逐渐复杂，诞生了很多工程化利器，比如 TypeScript 和 Monorepo。本文详细介绍了 TypeScript 和 Monorepo 两者结合的最佳实践，帮助你更好的管理你的 
+    CSS 中的渐变指的是两种或多种颜色之间的平滑过渡，以前我们必须使用事先定义好的图像来实现渐变效果，CSS3 为实现渐变效果提供了一种灵活的解决方案。 通过 CSS3 您可以定义三种类型的渐变，分别为 
     </details> 
 
-- 🎡 [iOS内功心法之“Runtime”原理篇](https://juejin.cn/post/7136829050143637511) | Sun Aug 28 2022 7:43 AM 
+- 🎡 [chrome调试webview](https://juejin.cn/post/7136845711517155342) | Sun Aug 28 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
-    一、Runtime  1、概念： 概念：Runtime是Objective-c语言动态的核心，即运行时。在面向对象的基础上增加了动态运行，达到很多在编译时确定方法推迟到了运行时，从而达到动态修改 
+    当H5游戏或者页面运行在安卓webview的时候，经常会遇到兼容性问题，而打日志很难满足我们的调试需求，因此如何在PC浏览器上远程调试安卓webview，是很多开发者迫切想知道。这里以chrome为例 
     </details> 
 
-- 🕯 [vscode在控制台输出乱码](https://juejin.cn/post/7136828249329385508) | Sun Aug 28 2022 7:38 AM 
+- 🕯 [Android重学系列（一）：setContentView](https://juejin.cn/post/7136844346665467918) | Sun Aug 28 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
-    在vscode上运行node环境，安装runcode插件是一种非常简便的方式。但是初试者常常碰到输出乱码及其他问题。如图所示 通过参考网上的方法结合实践，终于找到的解决问题的方法。如下， 一、依次点击 
+    从AppCompatActivity、Activity探索setContentView背后的流程逻辑 
     </details> 
 
-- 🚀 [SpringBoot 原生实现第三方登录 | 不借助第三方依赖包](https://juejin.cn/post/7136826448576249886) | Sun Aug 28 2022 7:33 AM 
+- 🚀 [使用 Containerlab  +  Kind 快速部署 Cilium BGP 环境](https://juejin.cn/post/7136844038468010015) | Sun Aug 28 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
-    SpringBoot 原生实现第三方登录 | 不借助第三方依赖包,，这次想要自己来手写一下这个流程，其实它也没有想象的那么困难~ 
+    ## 1 前置知识 ### 1.1 Cilium 介绍 Cilium 是一款基于 eBPF 技术的 Kubernetes CNI 插件，Cilium 在其官网上对产品的定位为 **“eBPF-bas 
     </details> 
 
-- 💪 [Vue SSR 性能优化实践](https://juejin.cn/post/7136797786112000031) | Sun Aug 28 2022 5:42 AM 
+- 💪 [使用 Containerlab  +  Kind 快速部署 Cilium BGP 环境](https://juejin.cn/post/7136843291043037198) | Sun Aug 28 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第5天，点击查看活动详情 &gt;&gt; 实践有深有浅，下面介绍的时候会存在比较大的侧重。当然，篇幅不代表难易程度，考虑到不少信息已经有非常棒 
+    ## 1 前置知识 ### 1.1 Cilium 介绍 Cilium 是一款基于 eBPF 技术的 Kubernetes CNI 插件，Cilium 在其官网上对产品的定位为 **“eBPF-bas 
     </details> 
 <!-- juejin:END -->
 ### 少数派
