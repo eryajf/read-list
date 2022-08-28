@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [贾浅浅是不是诗人我不知道，但网友们一定是](https://hot.cnbeta.com/articles/funny/1309659.htm) | Sun Aug 28 2022 4:11 PM 
+- 🕯 [几十万美国人还在用2G网 有人自己建宽带救了N条命](https://www.cnbeta.com/articles/tech/1309663.htm) | Sun Aug 28 2022 7:04 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在敲下这段文字的时候，办公室里第 N 次响起对于网管的质问：“ 我的网呢？！”或许大家不知道，我们办公室的网每天都会定时下岗。不知道大家有没有体验过，一张图传十分钟的感觉。有时候，写完的文章因为没网保存不上，设计们没有网找素材。久而久之，暴打网管都成为了办公室的每日保留节目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [频率大战再度打响 AMD Zen4加速频率可达5.85GHz](https://www.cnbeta.com/articles/tech/1309661.htm) | Sun Aug 28 2022 7:02 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;经历过多年的“核心大战”，Intel、AMD似乎要回归“频率大战”。根据曝料，13代酷睿旗舰i9-13900K的加速频率可以达到惊人的5.8GHz，AMD Zen4旗舰锐龙9 7950X也能冲到5.7GHz。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [贾浅浅是不是诗人我不知道，但网友们一定是](https://hot.cnbeta.com/articles/funny/1309659.htm) | Sun Aug 28 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;很多年前，还是个初中生的我，抱着欣赏文学名著的心态，翻开了贾平凹的《废都》。这本书给我当时幼小的心灵带来了巨大的冲击，虽然我已经不记得这本书的情节，但我仍然能记得书里男主角和女伴在屋子里追求生命大和谐，因为过于激烈而把沙发顶到了房门上，然后把墙上的字画震下来的画面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [开学前录取通知书被狗狗咬碎 网友：带它去学校](https://hot.cnbeta.com/articles/funny/1309657.htm) | Sun Aug 28 2022 3:34 PM 
+- 🚀 [开学前录取通知书被狗狗咬碎 网友：带它去学校](https://hot.cnbeta.com/articles/funny/1309657.htm) | Sun Aug 28 2022 3:34 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;马上就要开学了，又一批大学生即将开启新的人生，但在云南，一位女生却遇到了极为尴尬的情况。&lt;strong&gt;就在开学的前一天，女生在家中收拾东西的时候，才发现自己的大学录取通知书被自家的狗狗给咬碎了，已然面目全非，当场崩溃，手足无措，到处询问是否影响入学。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [采用M2 Pro和M2 Max芯片的新MacBook Pro&quot;已进入开发阶段&quot;](https://www.cnbeta.com/articles/tech/1309655.htm) | Sun Aug 28 2022 2:52 PM 
+- 🎊 [采用M2 Pro和M2 Max芯片的新MacBook Pro&quot;已进入开发阶段&quot;](https://www.cnbeta.com/articles/tech/1309655.htm) | Sun Aug 28 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据彭博社记者Mark Gurman报道，苹果公司采用M2 Pro和M2 Max芯片的下一代14英寸和16英寸MacBook Pro机型&amp;quot;已进入开发和测试阶段&amp;quot;，这些笔记本仍有可能在今年晚些时候发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [特斯拉提车当天就要换“驱动电机” 女车主换车要再等半年](https://www.cnbeta.com/articles/tech/1309653.htm) | Sun Aug 28 2022 2:43 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为当前国内的销量最高的高端电动车，特斯拉如今是一车难求，订车起步等2个月算是常规操作。但是新车刚提就要更换驱动电机，换车再等半年的话，女车主也实在忍不了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Intel显卡的终极杀手锏：XeSS细节首次公布](https://www.cnbeta.com/articles/tech/1309651.htm) | Sun Aug 28 2022 2:42 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于光线追踪非常消耗资源，开启后游戏帧率会大幅降低，NVIDIA最先提出了DLSS超分辨率技术，保证兼具画质、性能，AMD也打造了FSR，Intel则提出了XeSS。Intel XeSS原计划今年夏初落地，但时至今日依然是空中楼阁。在沉默一个多月后，Intel终于分享了XeSS的更多细节，包括模式、性能、游戏支持，只是依然没有时间表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
