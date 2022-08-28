@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Argonaut - 在几分钟内将应用程序和基础设施部署到您的云中](https://xinquji.com/posts/179080?utm_campaign=xinquji-rss) | Sun Aug 28 2022 6:15 AM 
+- 👀 [Rive - 类似于 Credit-on-UPI 的支付应用程序](https://xinquji.com/posts/179093?utm_campaign=xinquji-rss) | Mon Aug 29 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     在几分钟内将应用程序和基础设施部署到您的云中  
+     类似于 Credit-on-UPI 的支付应用程序  
     </details> 
 
-- 🥷 [Jetpack Joyride 2 - 巴里在疯狂的冒险中回归！](https://xinquji.com/posts/179079?utm_campaign=xinquji-rss) | Sun Aug 28 2022 6:14 AM 
+- 🥷 [Leverage IELTS - 一个全面的雅思备考应用程序](https://xinquji.com/posts/179092?utm_campaign=xinquji-rss) | Mon Aug 29 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     巴里在疯狂的冒险中回归！  
+     一个全面的雅思备考应用程序  
     </details> 
 
-- 💼 [Senior Match: Mature Dating - 适合寻求关系的高级单身人士的聚会约会应用程序](https://xinquji.com/posts/179078?utm_campaign=xinquji-rss) | Sun Aug 28 2022 6:13 AM 
+- 💼 [Quiz Hut - 有一些有趣的益智游戏的问答游戏](https://xinquji.com/posts/179091?utm_campaign=xinquji-rss) | Mon Aug 29 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     适合寻求关系的高级单身人士的聚会约会应用程序  
+     有一些有趣的益智游戏的问答游戏  
     </details> 
 
-- 🦅 [Coolors - 超快速的配色方案生成器，适合酷酷的设计师](https://xinquji.com/posts/179077?utm_campaign=xinquji-rss) | Sun Aug 28 2022 6:12 AM 
+- 🦅 [Abstract 3d illustrations - 用于设计项目的高质量 3D 图形](https://xinquji.com/posts/179090?utm_campaign=xinquji-rss) | Mon Aug 29 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     超快速的配色方案生成器，适合酷酷的设计师  
+     用于设计项目的高质量 3D 图形  
     </details> 
 
-- 😺 [Aviyel Readme Generator - 快速启动您的自述文件](https://xinquji.com/posts/179076?utm_campaign=xinquji-rss) | Sun Aug 28 2022 6:11 AM 
+- 😺 [YAKUCAP - 简单且隐私友好的 Cloudflare 替代方案](https://xinquji.com/posts/179089?utm_campaign=xinquji-rss) | Mon Aug 29 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     快速启动您的自述文件  
+     简单且隐私友好的 Cloudflare 替代方案  
     </details> 
 <!-- xinquji:END -->
