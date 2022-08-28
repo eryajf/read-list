@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Ubuntu 有办法在 root 被挂载前进入 Shell 吗？](https://www.v2ex.com/t/876061#reply0) | Sun Aug 28 2022 7:24 PM
+- 🥸 [Ubuntu 有办法在 root 被挂载前进入 Shell 吗？](https://www.v2ex.com/t/876061#reply1) | Sun Aug 28 2022 7:24 PM
 - 🤗 [菜鸡初学者对 Hadoop 云端架构的一些疑惑](https://www.v2ex.com/t/876050#reply2) | Sun Aug 28 2022 3:21 PM
 - 🎭 [manjaro-kde 颠覆了我的认知， kde5 内存消耗居然和 xfce4 持平](https://www.v2ex.com/t/876048#reply2) | Sun Aug 28 2022 3:17 PM
 - 🥷 [构建一个漂亮的跨平台登录 / 注册能有多难？](https://www.v2ex.com/t/876047#reply2) | Sun Aug 28 2022 3:06 PM
