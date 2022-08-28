@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [我国通信领域著名专家李少谦逝世 享年65岁](https://www.cnbeta.com/articles/tech/1309521.htm) | Sun Aug 28 2022 2:09 AM 
+- 🕯 [推特惊现泄密者，撒谎实锤了？马斯克却异常沉默](https://www.cnbeta.com/articles/tech/1309563.htm) | Sun Aug 28 2022 3:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月28日消息，据@电子科技大学 官微，电子科技大学通信抗干扰技术国家级重点实验室主任、教授、博士生导师、通信领域国际著名专家李少谦，&lt;strong&gt;8月27日在主持学术会议时突发疾病，经抢救无效，于27日上午11时30分不幸逝世，享年65岁。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月28日消息，本周有报道称社交媒体平台推特前安全负责人佩特·扎特科&lpar;Peiter Zatko&rpar;举报推特在用户隐私、网络安全和平台内容审核方面存在极其严重的问题。最近几天时间里，推特不得不面对股价下挫以及美国国会议员们的新一轮审查等问题，公司与亿万富翁埃隆·马斯克&lpar;Elon Musk&rpar;之间的法律诉讼就此也增加了更多不确定性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NASA分享绝美猎户座日出图：太空探索新时代的黎明](https://www.cnbeta.com/articles/science/1309519.htm) | Sun Aug 28 2022 2:03 AM 
+- 💼 [IMF：加密货币与亚洲股市相关性日益增强 对金融稳定构成风险](https://www.cnbeta.com/articles/tech/1309561.htm) | Sun Aug 28 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;带有集成欧洲服务模块的猎户座宇宙飞船已在太空发射系统上成功架设。这张引人注目的照片是在日出时分在美国佛罗里达州 NASA 肯尼迪航天中心历史悠久的 Launchpad 39B 上拍摄的。Flight Readiness Review 已宣布三人太空小组，开启了太空探索新时代的曙光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;国际货币基金组织（IMF）近日发布文章称，自2020年3月新冠疫情爆发以来，比特币和以太坊等加密货币已越来越多地融入亚洲金融体系，这凸显了加强监管的必要性&lt;/strong&gt;。在新冠疫情爆发之前，加密货币和亚洲股市之间的回报和波动率相关性很低，但自2020年以来，相关性显著上升，这是因为人们可以通过低利率和政府刺激支付轻松获得廉价贷款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉被导演拍进美剧：自动驾驶大显神威救下男孩](https://hot.cnbeta.com/articles/movie/1309517.htm) | Sun Aug 28 2022 1:52 AM 
+- 💂 [GUCCI对日本商标CUGGL提出异议，被日方以“相似度较低”为由驳回](https://www.cnbeta.com/articles/tech/1309559.htm) | Sun Aug 28 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉也开始打广告了？最新美剧《Big Sky》中，出现了特斯拉的身影，并且自动驾驶大发神威救下了男孩。电影追逐画面中，一名男孩被劫持在了特斯拉车内，美国警察在车后驾车追赶，她们想要截停这辆特斯拉，但是因为有男孩人质在车内，扎胎、撞停、开枪击毙驾驶员等方案均被一一否决。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;综合英国《金融时报》和美国商业媒体“Fast Company”报道，近日，意大利奢侈品牌GUCCI（古驰）对日本商标“CUGGL” （读作“kyuguru”）发起的商标异议请求被日本特许厅驳回一事在社交媒体引发关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [增程器供应延迟 理想L9延期交付：补偿1000元油卡](https://www.cnbeta.com/articles/tech/1309515.htm) | Sun Aug 28 2022 1:51 AM 
+- 🚀 [[图]戴尔宣布8月中旬关闭在俄办事处 并停止所有业务](https://www.cnbeta.com/articles/tech/1309557.htm) | Sun Aug 28 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月28日消息，前不久，理想L9在理想汽车常州基地正式下线，即将开启全国交付。官方计划理想L9 9月交付超过10000辆。今日，有博主晒出了“理想L9交付时间延期公告”，公告称，由于近期四川地区限电，&lt;strong&gt;理想汽车在四川绵阳的增程器工厂供应延迟，导致理想L9开启交付的时间延期。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周六，戴尔科技公司（Dell Technologies Inc.）成为离开俄罗斯的又一个西方公司。&lt;strong&gt;该公司宣布在 8 月中旬关闭其设立在俄罗斯的办事处后，将会停止所有在俄罗斯境内的运营。&lt;/strong&gt;戴尔是俄罗斯重要的服务器供应商，自今年 2 月 24 日俄乌冲突之后，该公司就参与了制裁行动。戴尔在 2 月份暂停了在乌克兰和俄罗斯的销售，称将监控情况以确定下一步行动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《壮志凌云2》片方因剧情授权纠纷遭遇侵权诉讼](https://www.cnbeta.com/articles/science/1309513.htm) | Sun Aug 28 2022 1:51 AM 
+- 🎊 [戴安娜王妃去世25周年 生前爱车拍出65万英镑天价](https://www.cnbeta.com/articles/tech/1309555.htm) | Sun Aug 28 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;86年上映的《壮志凌云》改编自一篇杂志文章，文章作者于2012年去世后，其遗孀及儿子于2018年收回了该文的授权。根据当地版权法的规定，作者可在35年后终止授权，照此推算，授权行为不应晚于1983年，即《壮志凌云》上映前三年。派拉蒙拍摄《壮志凌云2》时并未理会这对孤儿寡母，也许公司认为这是一则全新故事，与文章内容关系不大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;1997年的8月31日，英国戴安娜王妃因车祸去世引发世界话题，时至今日即将迎来25周年，戴安娜王妃生前喜爱的uiliang福特汽车近期拍出65万英镑天价。这辆黑色福特艾斯科特汽车是80年代戴安娜王妃非常喜爱的一辆车，至今依然保存完好如新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
