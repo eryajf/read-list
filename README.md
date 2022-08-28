@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华纳兄弟：不会出售游戏工作室 游戏部门盈利](https://hot.cnbeta.com/articles/game/1309641.htm) | Sun Aug 28 2022 1:41 PM 
+- 🕯 [采用M2 Pro和M2 Max芯片的新MacBook Pro&quot;已进入开发阶段&quot;](https://www.cnbeta.com/articles/tech/1309655.htm) | Sun Aug 28 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;华纳兄弟最近完成了和探索频道的合并，成为了一家媒体巨头。在合并后，CEO David Zaslav砍掉了一些影视内容。那么游戏部门是否会受到影响?华纳兄弟探索频道是否会把华纳游戏卖给索尼或微软?对于这个话题，母公司AT&amp;amp;T在财报中几乎没有提到华纳游戏，而华纳自己也对这个问题很谨慎。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据彭博社记者Mark Gurman报道，苹果公司采用M2 Pro和M2 Max芯片的下一代14英寸和16英寸MacBook Pro机型&amp;quot;已进入开发和测试阶段&amp;quot;，这些笔记本仍有可能在今年晚些时候发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《哥斯拉大战金刚》续集曝片场视频 巨兽怒吼穿透屏幕](https://hot.cnbeta.com/articles/movie/1309639.htm) | Sun Aug 28 2022 11:25 AM 
+- 💼 [特斯拉提车当天就要换“驱动电机” 女车主换车要再等半年](https://www.cnbeta.com/articles/tech/1309653.htm) | Sun Aug 28 2022 2:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《哥斯拉大战金刚》未定名续集近期开机，导演亚当·温加德片场直击正在候场的两大明星哥斯拉和金刚。目前，该片已宣布丹·史蒂文斯、陈法拉、亚历克斯·费恩斯、瑞秋·豪斯等新演员加盟，演员丽贝卡·豪尔、布莱恩·泰里·亨利、凯莉·霍特尔回归，影片计划于2024年3月15日北美上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为当前国内的销量最高的高端电动车，特斯拉如今是一车难求，订车起步等2个月算是常规操作。但是新车刚提就要更换驱动电机，换车再等半年的话，女车主也实在忍不了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软为Xbox云游戏服务准备“XCloud”商标 但不确定是否换标](https://hot.cnbeta.com/articles/game/1309637.htm) | Sun Aug 28 2022 11:22 AM 
+- 💂 [Intel显卡的终极杀手锏：XeSS细节首次公布](https://www.cnbeta.com/articles/tech/1309651.htm) | Sun Aug 28 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当微软首次展示其等待已久的Xbox云流媒体平台时，它的项目代号是XCloud，听上去简洁而又很有冲击力，令人难忘。然而，从那时起，官方名称却被改成Xbox Cloud Gaming，更加突出了其游戏机和服务品牌的元素。Xbox Cloud Gaming是微软在Xbox Game Pass Ultimate中嵌入的类似Netflix的视频游戏流服务。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由于光线追踪非常消耗资源，开启后游戏帧率会大幅降低，NVIDIA最先提出了DLSS超分辨率技术，保证兼具画质、性能，AMD也打造了FSR，Intel则提出了XeSS。Intel XeSS原计划今年夏初落地，但时至今日依然是空中楼阁。在沉默一个多月后，Intel终于分享了XeSS的更多细节，包括模式、性能、游戏支持，只是依然没有时间表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [RTX 4060、4060 Ti性能首曝 超过了当代RTX 3080的表现](https://www.cnbeta.com/articles/tech/1309635.htm) | Sun Aug 28 2022 11:12 AM 
+- 🚀 [女子玩密室逃脱被吓晕 醒来看到NPC再次被吓晕](https://www.cnbeta.com/articles/tech/1309649.htm) | Sun Aug 28 2022 2:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;按照以往惯例和当前形势，RTX 40系列今年推出的必然是一两款高端型号，主流型号怎么也得明年开春甚至初夏了。但是现在，RTX 4060、RTX 4060 Ti的成绩第一次曝光了！按照推特博主QbitLeaks的说法，&lt;strong&gt;RTX 4060 Ti 3D Mark Time Spy Extreme测试中加速频率可以超过2.6GHz，图形成绩为大约8600分，这已经超过了当代高端RTX 3080的表现！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;从古墓科考到蛮荒探险，从窃取密电到逃脱监笼，密室逃脱给了玩家沉浸式的感官刺激，加上NPC卖力表演，虽然知道是假的，但恐怖感依然十足。8月23日，黑龙江七台河。一女子玩密室逃脱被吓晕的视频逗乐了众多网友。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [游戏收入暴跌 40%，但英伟达其实没那么糟糕](https://www.cnbeta.com/articles/tech/1309633.htm) | Sun Aug 28 2022 11:12 AM 
+- 🎊 [Intel 13代酷睿通吃DDR5/DDR4内存：频率可达6800MHz](https://www.cnbeta.com/articles/tech/1309647.htm) | Sun Aug 28 2022 2:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英伟达糟糕的业绩，其实是被“库存”闪了腰。尽管早有预期，但英伟达糟糕的业绩表现，依然给寒冬中的半导体市场泼了一大盆冰水。美东时间 8 月 24 日盘后，英伟达正式发布截至 2022 年 7 月 31 日的 2Q23 财报。与两周前英伟达公布的财务预警信息一致，营收、毛利、净利均大幅下滑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管Intel 13代酷睿大概要比AMD Zen 4晚一个月左右的时间才能问世，但“好饭不怕晚”。从泄露的跑分来看，这次13代酷睿机智升级到24核32线程后，各种基准跑分非常可观。对比Zen 4，13代酷睿还有个优势那就是兼容DDR4/DDR5内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
