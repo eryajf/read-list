@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一份中世纪地图可能揭示了失落的亚特兰蒂斯城](https://www.cnbeta.com/articles/science/1309481.htm) | Sat Aug 27 2022 11:08 PM 
+- 🕯 [我国通信领域著名专家李少谦逝世 享年65岁](https://www.cnbeta.com/articles/tech/1309521.htm) | Sun Aug 28 2022 2:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;长期以来，历史学家一直希望能通往亚特兰蒂斯的地图。目前业内大多数专家的共识是，这座神秘的城市在数千年前就已被大海淹没&lt;strong&gt;。现在，&lt;a href=&quot;https://journals.lib.unb.ca/index.php/ag/article/view/32596&quot; target=&quot;_blank&quot;&gt;一项新的研究&lt;/a&gt;或许可以证明亚特兰蒂斯的存在，只是它可能不像某些人之前想象的那么神秘。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月28日消息，据@电子科技大学 官微，电子科技大学通信抗干扰技术国家级重点实验室主任、教授、博士生导师、通信领域国际著名专家李少谦，&lt;strong&gt;8月27日在主持学术会议时突发疾病，经抢救无效，于27日上午11时30分不幸逝世，享年65岁。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Valve新宣传手册透露下一代Steam Deck将更加强大](https://hot.cnbeta.com/articles/game/1309479.htm) | Sat Aug 27 2022 10:48 PM 
+- 💼 [NASA分享绝美猎户座日出图：太空探索新时代的黎明](https://www.cnbeta.com/articles/science/1309519.htm) | Sun Aug 28 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在初代 Steam Deck 出货量得到明显改善，部分原本第 4 季度的订单可以在第 3 季度完成发货之后，Valve 开始透露继任型号的计划，希望为其装备更多的功能。Valve 确认正开辟亚洲市场之外，&lt;strong&gt;还通过一本 Steam Deck 宣传手册进行了细致的介绍。&lt;/strong&gt;该宣传手册深入介绍了某些信息，例如 SteamOS 将获得一个通用安装程序，这样任意用户将 Steam Deck 连接 PC 之后就可以安装最新的 SteamOS。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;带有集成欧洲服务模块的猎户座宇宙飞船已在太空发射系统上成功架设。这张引人注目的照片是在日出时分在美国佛罗里达州 NASA 肯尼迪航天中心历史悠久的 Launchpad 39B 上拍摄的。Flight Readiness Review 已宣布三人太空小组，开启了太空探索新时代的曙光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[图]新研究发现园艺可以改善你的精神健康](https://www.cnbeta.com/articles/science/1309477.htm) | Sat Aug 27 2022 10:38 PM 
+- 💂 [特斯拉被导演拍进美剧：自动驾驶大显神威救下男孩](https://hot.cnbeta.com/articles/movie/1309517.htm) | Sun Aug 28 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一项新的研究发现园艺可以改善你的精神健康。&lt;/strong&gt;很多资深的园丁都会告诉你花园是其快乐的源泉。根据一项最新研究，很多人都可以从园艺中获得好处，即便是此前从未展开过园艺活动。佛罗里达大学的研究人员发现，园艺活动减轻了健康女性（每周参加两次园艺课程）的压力、焦虑和悲伤。该研究发表在 PLoS ONE 杂志上。此前并没有关于园艺对精神方面的此类研究。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉也开始打广告了？最新美剧《Big Sky》中，出现了特斯拉的身影，并且自动驾驶大发神威救下了男孩。电影追逐画面中，一名男孩被劫持在了特斯拉车内，美国警察在车后驾车追赶，她们想要截停这辆特斯拉，但是因为有男孩人质在车内，扎胎、撞停、开枪击毙驾驶员等方案均被一一否决。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [FCC: 美国大多数顶级移动运营商对客户地理位置数据保留两年](https://www.cnbeta.com/articles/tech/1309475.htm) | Sat Aug 27 2022 6:18 PM 
+- 🚀 [增程器供应延迟 理想L9延期交付：补偿1000元油卡](https://www.cnbeta.com/articles/tech/1309515.htm) | Sun Aug 28 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据美国联邦通信委员会FCC周四公布的电信公司信息，&lt;strong&gt;15大移动运营商中有10家收集地理位置数据，并且没有提供消费者选择退出的方式。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月28日消息，前不久，理想L9在理想汽车常州基地正式下线，即将开启全国交付。官方计划理想L9 9月交付超过10000辆。今日，有博主晒出了“理想L9交付时间延期公告”，公告称，由于近期四川地区限电，&lt;strong&gt;理想汽车在四川绵阳的增程器工厂供应延迟，导致理想L9开启交付的时间延期。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究发现吸烟对心脏损害比想象的更大](https://www.cnbeta.com/articles/science/1309473.htm) | Sat Aug 27 2022 5:56 PM 
+- 🎊 [《壮志凌云2》片方因剧情授权纠纷遭遇侵权诉讼](https://www.cnbeta.com/articles/science/1309513.htm) | Sun Aug 28 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;新的研究发现，吸烟者的心脏比不吸烟者弱，而且吸烟者越多，他们的心脏功能就越差。&lt;/strong&gt;研究发现，人们吸烟越多，其心脏功能就越差。幸运的是，当人们戒掉这个习惯时，一些功能得到了恢复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;86年上映的《壮志凌云》改编自一篇杂志文章，文章作者于2012年去世后，其遗孀及儿子于2018年收回了该文的授权。根据当地版权法的规定，作者可在35年后终止授权，照此推算，授权行为不应晚于1983年，即《壮志凌云》上映前三年。派拉蒙拍摄《壮志凌云2》时并未理会这对孤儿寡母，也许公司认为这是一则全新故事，与文章内容关系不大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
