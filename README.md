@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《哥斯拉大战金刚》续集曝片场视频 巨兽怒吼穿透屏幕](https://hot.cnbeta.com/articles/movie/1309639.htm) | Sun Aug 28 2022 11:25 AM 
+- 🕯 [华纳兄弟：不会出售游戏工作室 游戏部门盈利](https://hot.cnbeta.com/articles/game/1309641.htm) | Sun Aug 28 2022 1:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;华纳兄弟最近完成了和探索频道的合并，成为了一家媒体巨头。在合并后，CEO David Zaslav砍掉了一些影视内容。那么游戏部门是否会受到影响?华纳兄弟探索频道是否会把华纳游戏卖给索尼或微软?对于这个话题，母公司AT&amp;amp;T在财报中几乎没有提到华纳游戏，而华纳自己也对这个问题很谨慎。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《哥斯拉大战金刚》续集曝片场视频 巨兽怒吼穿透屏幕](https://hot.cnbeta.com/articles/movie/1309639.htm) | Sun Aug 28 2022 11:25 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《哥斯拉大战金刚》未定名续集近期开机，导演亚当·温加德片场直击正在候场的两大明星哥斯拉和金刚。目前，该片已宣布丹·史蒂文斯、陈法拉、亚历克斯·费恩斯、瑞秋·豪斯等新演员加盟，演员丽贝卡·豪尔、布莱恩·泰里·亨利、凯莉·霍特尔回归，影片计划于2024年3月15日北美上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软为Xbox云游戏服务准备“XCloud”商标 但不确定是否换标](https://hot.cnbeta.com/articles/game/1309637.htm) | Sun Aug 28 2022 11:22 AM 
+- 💂 [微软为Xbox云游戏服务准备“XCloud”商标 但不确定是否换标](https://hot.cnbeta.com/articles/game/1309637.htm) | Sun Aug 28 2022 11:22 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当微软首次展示其等待已久的Xbox云流媒体平台时，它的项目代号是XCloud，听上去简洁而又很有冲击力，令人难忘。然而，从那时起，官方名称却被改成Xbox Cloud Gaming，更加突出了其游戏机和服务品牌的元素。Xbox Cloud Gaming是微软在Xbox Game Pass Ultimate中嵌入的类似Netflix的视频游戏流服务。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [RTX 4060、4060 Ti性能首曝 超过了当代RTX 3080的表现](https://www.cnbeta.com/articles/tech/1309635.htm) | Sun Aug 28 2022 11:12 AM 
+- 🚀 [RTX 4060、4060 Ti性能首曝 超过了当代RTX 3080的表现](https://www.cnbeta.com/articles/tech/1309635.htm) | Sun Aug 28 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;按照以往惯例和当前形势，RTX 40系列今年推出的必然是一两款高端型号，主流型号怎么也得明年开春甚至初夏了。但是现在，RTX 4060、RTX 4060 Ti的成绩第一次曝光了！按照推特博主QbitLeaks的说法，&lt;strong&gt;RTX 4060 Ti 3D Mark Time Spy Extreme测试中加速频率可以超过2.6GHz，图形成绩为大约8600分，这已经超过了当代高端RTX 3080的表现！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [游戏收入暴跌 40%，但英伟达其实没那么糟糕](https://www.cnbeta.com/articles/tech/1309633.htm) | Sun Aug 28 2022 11:12 AM 
+- 🎊 [游戏收入暴跌 40%，但英伟达其实没那么糟糕](https://www.cnbeta.com/articles/tech/1309633.htm) | Sun Aug 28 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;英伟达糟糕的业绩，其实是被“库存”闪了腰。尽管早有预期，但英伟达糟糕的业绩表现，依然给寒冬中的半导体市场泼了一大盆冰水。美东时间 8 月 24 日盘后，英伟达正式发布截至 2022 年 7 月 31 日的 2Q23 财报。与两周前英伟达公布的财务预警信息一致，营收、毛利、净利均大幅下滑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Apple Watch Series 3或将停产：Watch SE 2成“接班人”](https://www.cnbeta.com/articles/tech/1309631.htm) | Sun Aug 28 2022 11:11 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2017年，苹果推出了Apple Watch Series 3，作为系列的第三代作品，它拥有比前辈更窄的边框，以及更久的续航，成为了不少用户的“入坑作”。近日，有消息称，&lt;strong&gt;苹果计划在9月停产Watch Series 3这款经典的产品，且不为它推送最新的WatchOS 9系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
