@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国移动NZONE 50 Pro明天发布 后壳酷似华为 支持5G](https://www.cnbeta.com/articles/tech/1309595.htm) | Sun Aug 28 2022 7:33 AM 
+- 🕯 [有UP主把《红楼梦》“编”的菜谱都复刻出来了](https://hot.cnbeta.com/articles/funny/1309617.htm) | Sun Aug 28 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;明天（8月29日）下午14:08，中国移动将召开新品发布会，带来NZONE 50 Pro新品手机。与此同时，中国移动还卖了关子：明日动感地带神秘嘉宾登场，开启数字新生活！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;现如今，教人做菜的短视频已经不流行了，越来越多美食博主开始另辟蹊径，不约而同地做起了同一件事：复刻美食。如果说看人吃播会饿，看人探店会想打卡，那么这可能是唯一一类你看过之后不会产生任何想尝试冲动的美食类视频。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [曾毓群：全球每三辆新能源车就有一辆用宁德时代电池](https://www.cnbeta.com/articles/tech/1309593.htm) | Sun Aug 28 2022 7:09 AM 
+- 💼 [用虚幻引擎5重制《GTA 4》的效果是这样的](https://hot.cnbeta.com/articles/game/1309615.htm) | Sun Aug 28 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月28日消息，日前，宁德时代董事长曾毓群在2022世界新能源汽车大会上发言表示，目前为止，我们的电池已经卖到了全球56个国家和地区，&lt;strong&gt;累计装车超过500万辆，全球每新增3辆新能源汽车就有一辆装载宁德时代电池。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;TeaserPlay近日分享一段新视频，展示了用虚幻引擎5重制《GTA 4》的效果。在这段视频中，TeaserPlay将自由城中多个地点用虚幻引擎5重制，而且还为主角尼克使用了高精度3D模型。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [30多万买的小鹏P7漏水又黑屏 副驾乘客拉着车门开车](https://www.cnbeta.com/articles/tech/1309591.htm) | Sun Aug 28 2022 7:08 AM 
+- 💂 [美国宾州州立大学创建会“思考”的柔性导电聚合物材料](https://www.cnbeta.com/articles/science/1309613.htm) | Sun Aug 28 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;30多万买的小鹏P7轿车，才两年左右时间，就出现了车内漏雨、屏幕黑屏等质量问题，车主对此很难接受，要求换车处理。8月28日消息，据“1818黄金眼”报道，2020年8、9月份，浙江嘉兴的邱女士花费30多万元，购买了这辆小鹏P7，可是在去年用车过程中，车辆多次出现了车顶漏雨的情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国宾夕法尼亚州立大学和美国空军研究人员创建了会“思考”的柔性导电聚合物材料。集成电路通常由封装在单一半导体材料（通常是硅）上的多个电子元件组成。根据研究人员的说法，集成电路是信号和信息可扩展计算所需的核心组件，但以前科学家从未在硅半导体以外的任何组件中实现过。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Oracle VirtualBox带来对Windows 11、macOS Big Sur、Monterey等的支持](https://www.cnbeta.com/articles/tech/1309589.htm) | Sun Aug 28 2022 7:05 AM 
+- 🚀 [扎克伯格公开暗示帮助掩盖拜登家族丑闻？各方紧急回应](https://www.cnbeta.com/articles/tech/1309611.htm) | Sun Aug 28 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;甲骨文公司的VirtualBox 7.0.0 Beta 1版本在主机操作系统支持方面带来了几个重大变化。该虚拟化软件终于获得了将Windows 11作为主机操作系统运行的能力。&lt;/strong&gt;上一个VirtualBox版本，即6.1.36版不支持Windows 11主机，尽管从6.1.28版开始就支持Windows 11作为客户机，然而，计划中的TPM直通在6.1.28中也没有出现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着美国中期选举进入倒计时，一切与两党对立有关的消息都能掀起比往日更高的波浪，本周社交媒体集团Meta Platform首席执行官扎克伯格就因为几句话卷入了一场风波。&lt;strong&gt;在本周五播出的Joe Rogan播客中，扎克伯格暗示公司旗下社交媒体Facebook在2020年美国大选前，通过调整算法主动降低了拜登儿子亨特“笔记本门”事件的传播，这一举措据称受到了FBI向公司提供“抵御俄罗斯操纵美国大选建议”的影响。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [2022年第二季度印度智能手表市场规模首次超过中国夺得全球第二](https://www.cnbeta.com/articles/tech/1309587.htm) | Sun Aug 28 2022 7:00 AM 
+- 🎊 [国家燃料电池技术创新中心正式挂牌：全球最大氢燃料电池发动机研发基地](https://www.cnbeta.com/articles/tech/1309609.htm) | Sun Aug 28 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据Counterpoint Research最近发布的全球智能手表型号追踪报告，在通货膨胀和地缘政治冲突等宏观不确定性中，2022年第二季度全球智能手表市场的出货量同比增长13%。&lt;strong&gt;特别是，印度的智能手表市场同比增长超过300%，超过中国位居第二。印度的OEM厂商，如Fire-Boltt和Noise更是在全球市场份额中占据前列。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月27日，&lt;strong&gt;国家燃料电池技术创新中心正式在山东潍坊挂牌&lt;/strong&gt;，这是我国在燃料电池技术创新平台建设、氢能大规模示范应用领域，取得的又一突破性进展。据了解，国家燃料电池技术创新中心以潍才动力为主体，联合清华大学、中科院大化所、中国重汽、陕西重汽、山东国惠、中通客车、林德叉车等产业链领军企业、高校、科研院所等，打造产学研用技术创新体系。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
