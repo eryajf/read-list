@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [采用M2 Pro和M2 Max芯片的新MacBook Pro&quot;已进入开发阶段&quot;](https://www.cnbeta.com/articles/tech/1309655.htm) | Sun Aug 28 2022 2:52 PM 
+- 🕯 [贾浅浅是不是诗人我不知道，但网友们一定是](https://hot.cnbeta.com/articles/funny/1309659.htm) | Sun Aug 28 2022 4:11 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;很多年前，还是个初中生的我，抱着欣赏文学名著的心态，翻开了贾平凹的《废都》。这本书给我当时幼小的心灵带来了巨大的冲击，虽然我已经不记得这本书的情节，但我仍然能记得书里男主角和女伴在屋子里追求生命大和谐，因为过于激烈而把沙发顶到了房门上，然后把墙上的字画震下来的画面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [开学前录取通知书被狗狗咬碎 网友：带它去学校](https://hot.cnbeta.com/articles/funny/1309657.htm) | Sun Aug 28 2022 3:34 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;马上就要开学了，又一批大学生即将开启新的人生，但在云南，一位女生却遇到了极为尴尬的情况。&lt;strong&gt;就在开学的前一天，女生在家中收拾东西的时候，才发现自己的大学录取通知书被自家的狗狗给咬碎了，已然面目全非，当场崩溃，手足无措，到处询问是否影响入学。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [采用M2 Pro和M2 Max芯片的新MacBook Pro&quot;已进入开发阶段&quot;](https://www.cnbeta.com/articles/tech/1309655.htm) | Sun Aug 28 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据彭博社记者Mark Gurman报道，苹果公司采用M2 Pro和M2 Max芯片的下一代14英寸和16英寸MacBook Pro机型&amp;quot;已进入开发和测试阶段&amp;quot;，这些笔记本仍有可能在今年晚些时候发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉提车当天就要换“驱动电机” 女车主换车要再等半年](https://www.cnbeta.com/articles/tech/1309653.htm) | Sun Aug 28 2022 2:43 PM 
+- 🚀 [特斯拉提车当天就要换“驱动电机” 女车主换车要再等半年](https://www.cnbeta.com/articles/tech/1309653.htm) | Sun Aug 28 2022 2:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;作为当前国内的销量最高的高端电动车，特斯拉如今是一车难求，订车起步等2个月算是常规操作。但是新车刚提就要更换驱动电机，换车再等半年的话，女车主也实在忍不了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel显卡的终极杀手锏：XeSS细节首次公布](https://www.cnbeta.com/articles/tech/1309651.htm) | Sun Aug 28 2022 2:42 PM 
+- 🎊 [Intel显卡的终极杀手锏：XeSS细节首次公布](https://www.cnbeta.com/articles/tech/1309651.htm) | Sun Aug 28 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;由于光线追踪非常消耗资源，开启后游戏帧率会大幅降低，NVIDIA最先提出了DLSS超分辨率技术，保证兼具画质、性能，AMD也打造了FSR，Intel则提出了XeSS。Intel XeSS原计划今年夏初落地，但时至今日依然是空中楼阁。在沉默一个多月后，Intel终于分享了XeSS的更多细节，包括模式、性能、游戏支持，只是依然没有时间表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [女子玩密室逃脱被吓晕 醒来看到NPC再次被吓晕](https://www.cnbeta.com/articles/tech/1309649.htm) | Sun Aug 28 2022 2:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;从古墓科考到蛮荒探险，从窃取密电到逃脱监笼，密室逃脱给了玩家沉浸式的感官刺激，加上NPC卖力表演，虽然知道是假的，但恐怖感依然十足。8月23日，黑龙江七台河。一女子玩密室逃脱被吓晕的视频逗乐了众多网友。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Intel 13代酷睿通吃DDR5/DDR4内存：频率可达6800MHz](https://www.cnbeta.com/articles/tech/1309647.htm) | Sun Aug 28 2022 2:40 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管Intel 13代酷睿大概要比AMD Zen 4晚一个月左右的时间才能问世，但“好饭不怕晚”。从泄露的跑分来看，这次13代酷睿机智升级到24核32线程后，各种基准跑分非常可观。对比Zen 4，13代酷睿还有个优势那就是兼容DDR4/DDR5内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
