@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [有UP主把《红楼梦》“编”的菜谱都复刻出来了](https://hot.cnbeta.com/articles/funny/1309617.htm) | Sun Aug 28 2022 9:14 AM 
+- 🕯 [RTX 4060、4060 Ti性能首曝 超过了当代RTX 3080的表现](https://www.cnbeta.com/articles/tech/1309635.htm) | Sun Aug 28 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;现如今，教人做菜的短视频已经不流行了，越来越多美食博主开始另辟蹊径，不约而同地做起了同一件事：复刻美食。如果说看人吃播会饿，看人探店会想打卡，那么这可能是唯一一类你看过之后不会产生任何想尝试冲动的美食类视频。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;按照以往惯例和当前形势，RTX 40系列今年推出的必然是一两款高端型号，主流型号怎么也得明年开春甚至初夏了。但是现在，RTX 4060、RTX 4060 Ti的成绩第一次曝光了！按照推特博主QbitLeaks的说法，&lt;strong&gt;RTX 4060 Ti 3D Mark Time Spy Extreme测试中加速频率可以超过2.6GHz，图形成绩为大约8600分，这已经超过了当代高端RTX 3080的表现！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [用虚幻引擎5重制《GTA 4》的效果是这样的](https://hot.cnbeta.com/articles/game/1309615.htm) | Sun Aug 28 2022 9:13 AM 
+- 💼 [游戏收入暴跌 40%，但英伟达其实没那么糟糕](https://www.cnbeta.com/articles/tech/1309633.htm) | Sun Aug 28 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;TeaserPlay近日分享一段新视频，展示了用虚幻引擎5重制《GTA 4》的效果。在这段视频中，TeaserPlay将自由城中多个地点用虚幻引擎5重制，而且还为主角尼克使用了高精度3D模型。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英伟达糟糕的业绩，其实是被“库存”闪了腰。尽管早有预期，但英伟达糟糕的业绩表现，依然给寒冬中的半导体市场泼了一大盆冰水。美东时间 8 月 24 日盘后，英伟达正式发布截至 2022 年 7 月 31 日的 2Q23 财报。与两周前英伟达公布的财务预警信息一致，营收、毛利、净利均大幅下滑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美国宾州州立大学创建会“思考”的柔性导电聚合物材料](https://www.cnbeta.com/articles/science/1309613.htm) | Sun Aug 28 2022 9:13 AM 
+- 💂 [Apple Watch Series 3或将停产：Watch SE 2成“接班人”](https://www.cnbeta.com/articles/tech/1309631.htm) | Sun Aug 28 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国宾夕法尼亚州立大学和美国空军研究人员创建了会“思考”的柔性导电聚合物材料。集成电路通常由封装在单一半导体材料（通常是硅）上的多个电子元件组成。根据研究人员的说法，集成电路是信号和信息可扩展计算所需的核心组件，但以前科学家从未在硅半导体以外的任何组件中实现过。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2017年，苹果推出了Apple Watch Series 3，作为系列的第三代作品，它拥有比前辈更窄的边框，以及更久的续航，成为了不少用户的“入坑作”。近日，有消息称，&lt;strong&gt;苹果计划在9月停产Watch Series 3这款经典的产品，且不为它推送最新的WatchOS 9系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [扎克伯格公开暗示帮助掩盖拜登家族丑闻？各方紧急回应](https://www.cnbeta.com/articles/tech/1309611.htm) | Sun Aug 28 2022 9:11 AM 
+- 🚀 [“蝶中皇后”成功育出昆虫界的“大熊猫”](https://www.cnbeta.com/articles/tech/1309629.htm) | Sun Aug 28 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着美国中期选举进入倒计时，一切与两党对立有关的消息都能掀起比往日更高的波浪，本周社交媒体集团Meta Platform首席执行官扎克伯格就因为几句话卷入了一场风波。&lt;strong&gt;在本周五播出的Joe Rogan播客中，扎克伯格暗示公司旗下社交媒体Facebook在2020年美国大选前，通过调整算法主动降低了拜登儿子亨特“笔记本门”事件的传播，这一举措据称受到了FBI向公司提供“抵御俄罗斯操纵美国大选建议”的影响。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据央视新闻报道，8月27日，井冈山国家级自然保护区传出喜讯：&lt;strong&gt;成功羽化出了2只金斑喙凤蝶，其中1只为雌蝶。&lt;/strong&gt;这次利用人工技术成功保育出金斑喙凤蝶雌蝶，在国内尚属首次。据了解，&lt;strong&gt;金斑喙凤蝶被誉为昆虫界的“大熊猫”，排在世界八大名贵蝴蝶之首&lt;/strong&gt;，其姿态优美，有“梦幻蝴蝶”“蝶中皇后”和“世界动物活化石”之美誉。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国家燃料电池技术创新中心正式挂牌：全球最大氢燃料电池发动机研发基地](https://www.cnbeta.com/articles/tech/1309609.htm) | Sun Aug 28 2022 9:09 AM 
+- 🎊 [AMD Zen4 16核锐龙9 7950X出现 支持AVX-512](https://www.cnbeta.com/articles/tech/1309627.htm) | Sun Aug 28 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月27日，&lt;strong&gt;国家燃料电池技术创新中心正式在山东潍坊挂牌&lt;/strong&gt;，这是我国在燃料电池技术创新平台建设、氢能大规模示范应用领域，取得的又一突破性进展。据了解，国家燃料电池技术创新中心以潍才动力为主体，联合清华大学、中科院大化所、中国重汽、陕西重汽、山东国惠、中通客车、林德叉车等产业链领军企业、高校、科研院所等，打造产学研用技术创新体系。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;发布在即，&lt;strong&gt;CPU基准测试工具y-cruncher确认了AMD Zen4家族旗舰型号锐龙9 7950X，证实它和锐龙9 5950X一样，还是16核心32线程的规格。&lt;/strong&gt;同时可以证实的是，&lt;strong&gt;锐龙7000系列支持Intel AVX-512指令集&lt;/strong&gt;，但让人哭笑不得的是，引入了混合架构的Intel 12/13代酷睿，因为小核心不支持AVX-512，不得不直接屏蔽，失去了这个独门武器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
