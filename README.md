@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [识别你做了投篮动作，并在手表发出篮球入网音效的 Apple Watch App：空气投篮](http://www.mac52ipod.cn/post/apple-watch-app-airshot-auditoryar.php) | Fri Aug 26 2022 3:02 AM 
+- 👨‍🏫 [苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变](http://www.mac52ipod.cn/post/apple-mac-os-x-macos-trash-can-icon-design-1984-up-to-2022.php) | Sun Aug 28 2022 3:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	看到 &lt;u&gt;&lt;a href=&quot;https://twitter.com/MartinNobel_/status/1551885038286946305&quot; target=&quot;_blank&quot; title=&quot;原帖出处&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;@MartinNobel_ 发的这张图&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变。有意思的是，以前苹果用的是户外那种垃圾桶，2001 年以后换成了废纸篓。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6709&quot; border=&quot;0&quot; alt=&quot;苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变&quot; title=&quot;苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变&quot; /&gt;&lt;/p&gt;&lt;p&gt;另附各代 Windows 系统的回收站图标&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6710&quot; border=&quot;0&quot; alt=&quot;各代 Windows 系统的回收站图标演变&quot; title=&quot;各代 Windows 系统的回收站图标演变&quot; /&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%258B%25B9%25E6%259E%259C%25E5%258E%2586%25E5%258F%25B2&quot; rel=&quot;tag&quot;&gt;苹果历史&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [识别你做了投篮动作，并在手表发出篮球入网音效的 Apple Watch App：空气投篮](http://www.mac52ipod.cn/post/apple-watch-app-airshot-auditoryar.php) | Fri Aug 26 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Apple新闻之苹果自助维修服务覆盖到 Mac 用户了](http://www.mac52ipod.cn/post/apple-expands-self-service-repair-to-mac-notebooks.php) | Tue Aug 23 2022 3:09 AM 
+- 🦏 [Apple新闻之苹果自助维修服务覆盖到 Mac 用户了](http://www.mac52ipod.cn/post/apple-expands-self-service-repair-to-mac-notebooks.php) | Tue Aug 23 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码，节省苹果电脑 CPU 资源耗电发热：Not yet, AV1](http://www.mac52ipod.cn/post/apple-mac-chrome-extension-not-yet-av1.php) | Sun Aug 21 2022 6:50 AM 
+- 🚀 [Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码，节省苹果电脑 CPU 资源耗电发热：Not yet, AV1](http://www.mac52ipod.cn/post/apple-mac-chrome-extension-not-yet-av1.php) | Sun Aug 21 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [看富士相机拍出的好照片以及拍摄这些照片时的相机参数设置：Fuji X Weekly — Film Recipes](http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-fuji-x-weekly-film-recipes.php) | Thu Aug 18 2022 3:58 AM 
+- 🏊 [看富士相机拍出的好照片以及拍摄这些照片时的相机参数设置：Fuji X Weekly — Film Recipes](http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-fuji-x-weekly-film-recipes.php) | Thu Aug 18 2022 3:58 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	富士相机在摄影圈的口碑还不错，大家尤其喜欢它的颜色表现。富士官方做了个 App：Fuji X Weekly — Film Recipes。&lt;/p&gt;&lt;p&gt;一方面它是个相册，晒出用富士相机拍摄的好照片；&lt;/p&gt;&lt;p&gt;另一方面，每张照片点开详情都能看到拍摄者的各个参数设置（曝光补偿、阴影、降噪、锐化、颗粒效果、ISO ……），这样你也可以作为参考，拍出类似效果的照片&lt;/p&gt;&lt;p&gt;Fuji X Weekly — Film Recipes 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/fuji-x-weekly-film-recipes/id1539047257&quot; target=&quot;_blank&quot; title=&quot;Fuji X Weekly — Film Recipes&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/fuji-x-weekly-film-recipes/id1539047257&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2585%25A7%25E7%2589%2587&quot; rel=&quot;tag&quot;&gt;照片&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=fuji&quot; rel=&quot;tag&quot;&gt;fuji&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Apple新闻之 iPhone 年年焕新最低门槛缩短至 3 个月](http://www.mac52ipod.cn/post/apple-iphone-upgrade-program-updated.php) | Tue Aug 16 2022 4:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果的「iPhone 年年焕新计划」让用户每年都能用上一代旧手机抵扣 50% 的价格换新手机，此前的限制是手机买来第 10-13 个月可以拿去换新手机，今年放宽到了第 3-13 个月 …… 哪怕你刚买了 iPhone 13，也能在 iPhone 14 发售后用抵扣价换新机。另外：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;在线或到店换机都行，最高可以 24 期免息分期&lt;/li&gt;&lt;li&gt;你必须加购 AppleCare+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果中国官网的详细说明 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/shop/iphone/iphone-upgrade-program&quot; target=&quot;_blank&quot; title=&quot;iPhone 年年焕新计划” rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/shop/iphone/iphone-upgrade-program&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
 
  
     </details> 
