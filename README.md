@@ -502,10 +502,10 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [历史低价！2T 西数 SN850 游戏专用 M2 固态硬盘 &lpar;电脑/PS5&rpar; 速度惊人！](https://www.iplaysoft.com/p/wd-black-sn850) | Thu Aug 25 2022 8:00 AM
-- 🧑‍🏫 [BgSub - 完全免费的 AI 自动抠图工具 &lpar;本地离线处理/无需上传图片/去除背景比 PS 更快&rpar;](https://www.iplaysoft.com/bgsub.html) | Tue Aug 23 2022 5:38 PM
-- 🥰 [微软免费极品小工具集 Sysinternals Suite - 70 多款实用绿色 Windows 系统维护软件](https://www.iplaysoft.com/windows-sysinternals-suite.html) | Sat Aug 20 2022 4:11 PM
-- 💻 [买1得12会员！喜马拉雅+腾讯视频+京东Plus+网易云音乐+芒果TV](https://www.iplaysoft.com/p/xmly-vip) | Fri Aug 19 2022 3:04 AM
+- 🧐 [买1得12会员！喜马拉雅+腾讯视频+京东Plus+网易云音乐+芒果TV](https://www.iplaysoft.com/p/xmly-vip) | Sun Aug 28 2022 8:04 AM
+- 🧑‍🏫 [历史低价！2T 西数 SN850 游戏专用 M2 固态硬盘 &lpar;电脑/PS5&rpar; 速度惊人！](https://www.iplaysoft.com/p/wd-black-sn850) | Thu Aug 25 2022 8:00 AM
+- 🥰 [BgSub - 完全免费的 AI 自动抠图工具 &lpar;本地离线处理/无需上传图片/去除背景比 PS 更快&rpar;](https://www.iplaysoft.com/bgsub.html) | Tue Aug 23 2022 5:38 PM
+- 💻 [微软免费极品小工具集 Sysinternals Suite - 70 多款实用绿色 Windows 系统维护软件](https://www.iplaysoft.com/windows-sysinternals-suite.html) | Sat Aug 20 2022 4:11 PM
 - 🎃 [iSlide 插件 &lpar;PPT 增强神器&rpar; 买两年送 180 天！每月不到 6 块钱](https://www.iplaysoft.com/news/5670) | Tue Aug 16 2022 4:30 PM<!-- iplaysoft:END -->
 
 ### 苹果fans
