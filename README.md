@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [HashMap使用详解，你可能不知道的API](https://juejin.cn/post/7137190784754778142) | Mon Aug 29 2022 7:05 AM 
+- 🤗 [实现一个简单的长轮询](https://juejin.cn/post/7137124336783065125) | Mon Aug 29 2022 2:48 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第32天，点击查看活动详情 概述 HashMap作为一个使用频率非常高的key-value容器，在我们的项目中经常用到，而且，面试官 
+    现在各大中间件都使用了长轮询的数据交互方式，目前比较流行的例如Nacos的配置中心，RocketMQ Pull&lpar;拉模式&rpar;消息等，它们都是采用了长轮询方的式实现。就例如Nacos的配置中心，如何做到服务 
     </details> 
 
-- 🎡 [二维空间下的向量旋转在前端中应用](https://juejin.cn/post/7137186953459400735) | Mon Aug 29 2022 6:50 AM 
+- 🎡 [理解SpringBoot的自动装配](https://juejin.cn/post/7137095650160115743) | Mon Aug 29 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
-    二维空间下的向量旋转 向量运算是计算机图形学的数学基础，而向量的旋转是向量的一种常见操作，本文将详细讲解向量在二维空间下的旋转原理。 
+    围绕SpringBoot的核心功能讲解 SpringBoot自动配置的原理以及自动配置核心组件的运作过程。 
     </details> 
 
-- 🕯 [【面试必备】我跟面试官聊了一个小时线程池！](https://juejin.cn/post/7137186083074703391) | Mon Aug 29 2022 6:47 AM 
+- 🕯 [commonJS模块，简单实现一个require](https://juejin.cn/post/7137095160151670820) | Mon Aug 29 2022 12:54 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，这篇文章主要跟大家聊下 Java 线程池面试中可能会问到的一些问题。 全程干货，耐心看完，你能轻松应对各种线程池面试。 相信各位 Javaer 在面试中或多或少肯定被问到过线程池相关问题吧，线 
+    CommonJS模块是Node.js打包JavaScript代码的原始方式。 在Node.js中，每个文件都被视为一个单独的模块。 
     </details> 
 
-- 🚀 [一文搞懂前端存储](https://juejin.cn/post/7137185592424529934) | Mon Aug 29 2022 6:45 AM 
+- 🚀 [从零打造基于vue3+ts+tsx+vite的antdv中后台管理系统&lpar;一&rpar;项目总览和环境搭建](https://juejin.cn/post/7137093609915940878) | Mon Aug 29 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
-    前端存储就是通过前端技术来存储一段信息，然后在同源下的不同页面中都可以获取到已存储信息的一种策略 。 
+    &lt;a href=&quot;https://github.com/fhtwl/vue3-ts-antd-admin&quot; &gt;vue3-ts-antd-admin&lt;/a&gt;是基于 vue3、ts、tsx、vite 开发 
     </details> 
 
-- 💪 [厚积薄发--一文带您了解阿里云 RocketMQ 轻量版消息队列（MNS）](https://juejin.cn/post/7137185090420883493) | Mon Aug 29 2022 6:44 AM 
+- 💪 [Bert不完全手册6. Bert在中文领域的尝试 Bert-WWM &amp; MacBert &amp; ChineseBert](https://juejin.cn/post/7137091704301027341) | Mon Aug 29 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    MNS 重点聚焦在基准消息队列的核心能力建设，MNS 经过多年迭代与打磨，尽管内部极为复杂，但一直努力保持其在客户端的简单易用，围绕轻量和集成两个命题，着力建设更易用的消息队列产品。 
+    这一章我们来聊聊在中文领域都有哪些预训练模型的改良方案。Bert-WWM，MacBert，ChineseBert分别从3个方向在预训练中补充中文文本的信息：词粒度信息，中文笔画信息，拼音信息 
     </details> 
 <!-- juejin:END -->
 ### 少数派
