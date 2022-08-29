@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [零跑汽车通过港交所聆讯 三年烧光44亿，卖一辆亏6万](https://www.cnbeta.com/articles/tech/1309851.htm) | Mon Aug 29 2022 6:00 AM 
+- 🕯 [索尼Xperia 5 IV跑分出炉：没能用上骁龙8+](https://www.cnbeta.com/articles/tech/1309887.htm) | Mon Aug 29 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据港交所29日披露，浙江零跑科技股份有限公司&lpar;下简称“零跑汽车”&rpar;通过港交所上市聆讯。&lt;/strong&gt;公开资料显示，零跑汽车成立于2015年末，是一家智能电动汽车企业，业务范围涵盖智能电动汽车整车设计、研发制造、智能驾驶、电机电控、电池系统开发以及基于云计算的车联网解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，索尼官方尼发布预告片，宣布Xperia新品发布会将在北京时间9月1日15：00举行，并为新旗舰Xperia 5 IV预热。而目前，Xperia 5 IV的跑分成绩也出现在了Geekbench中，&lt;strong&gt;但从其大核3.0GHz、中核2.5GHz、小核1.79GHz的参数来看，它并没有使用新的骁龙8+处理器，而是依旧在使用骁龙8。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NASA Artemis I火箭的发射：目前知道的关于此次月球之旅的一切](https://www.cnbeta.com/articles/science/1309847.htm) | Mon Aug 29 2022 4:43 AM 
+- 💼 [Group-IB：0ktapus网络钓鱼攻击导致Twilio等130个组织的上万凭据被窃取](https://www.cnbeta.com/articles/tech/1309883.htm) | Mon Aug 29 2022 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据CNET报道，在美国宇航局（NASA）肯尼迪航天中心的发射台上，现在有一枚32层楼高的火箭被安装在上面。周一，它计划将一个航天器推向月球。&lt;strong&gt;经过多年的推迟和大量的额外资金， Artemis I月球任务终于将在美国东部时间8月29日升空。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;两周前，Twilio 和 Cloudflare 披露了一场精心策划的网络钓鱼攻击，导致两家公司员工的账户凭据被泄露。其中 Twilio 的两步验证（2FA）系统被攻破，导致攻击者能够访问其内部系统。&lt;strong&gt;现在，安全研究人员已找到这轮大规模网络钓鱼攻击的幕后黑手，可知 130 个组织近 10000 个账户凭据受到了被窃取。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [DART确认目标小行星Dimorphos的轨道](https://www.cnbeta.com/articles/science/1309845.htm) | Mon Aug 29 2022 4:18 AM 
+- 💂 [为庆祝美国全国电影日 全美各地影院将于9月3日提供3美元的电影票](https://hot.cnbeta.com/articles/movie/1309881.htm) | Mon Aug 29 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;DART调查小组利用世界上一些最强大的望远镜在上月完成了一个为期六天的观测活动，从而确认了先前对Dimorphos--DART目标小行星的轨道的计算结果。Dimorphos在其较大的母小行星Didymos周围的轨道上。这些观测结果确认了小行星在撞击时的预期位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Hypebeast报道，随着夏季的结束，&lt;strong&gt;美国的全国电影日（National Cinema Day）即将到来，美国各地的影院希望给电影爱好者一个机会，以更实惠的价格欣赏本季最令人期待的一些大片。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1309881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [MTV VMAs：阿姆和史努比·狗狗在元宇宙中奉上“无聊猿猴”表演](https://hot.cnbeta.com/articles/music/1309843.htm) | Mon Aug 29 2022 4:10 AM 
+- 🚀 [浙江投运巨型“充电宝” 最高可存储10万度电](https://www.cnbeta.com/articles/tech/1309879.htm) | Mon Aug 29 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;无聊猿猴游艇俱乐部&lpar;Bored Ape Yacht Club&rpar;已经进入了约十几位名人的Twitter账号，从《Tonight Show with Jimmy Fallon》中的一个怪异场景到MTV VMAs。&lt;strong&gt;本周日，阿姆&lpar;Eminem&rpar;和史努比·狗狗&lpar;Snoop Dogg&rpar;--两位知名的无聊猿猴游艇俱乐部NFT持有者--唱了他们的最新歌曲，简直就是他们在无聊猿猴游艇俱乐部的另一个自我。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1309843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天（29日）上午8点58分，&lt;strong&gt;浙江省首个大型电网侧独立储能示范项目在通过72小时全容量试运行后，在浙能集团所属萧山电厂投入运行。&lt;/strong&gt;该项目第一阶段配置储能容量为50兆瓦/100兆瓦时，最高可存储10万度电，其参与电网AGC频率调节能力相当于2台60万级燃煤机组，是一座集中布置、集中调控、独立统调的大型电化学储能示范电站。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [5nm锐龙7000全押DDR5内存 AMD：性能、能效都是优势](https://www.cnbeta.com/articles/tech/1309839.htm) | Mon Aug 29 2022 3:52 AM 
+- 🎊 [游族网络：《三体》游戏正在开发中 预计3-5年上市](https://hot.cnbeta.com/articles/game/1309877.htm) | Mon Aug 29 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel去年底在12代酷睿上首发DDR5内存的同时也保留了DDR4兼容，今年的13代酷睿也会如此，然而AMD今年在5nm Zen4架构锐龙7000上要激进很多，押注DDR5内存，放弃了DDR4兼容。此前有传闻称AMD会在AM4平台推出一个兼容DDR4的Zen4处理器，但是目前还不能100%确认，反正现在的消息来看AMD是铁了心在AM5上推动DDR5内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月29日，游族网络发布2022年半年度报告，报告显示，游族网络上半年营收10.24亿元，同比下滑42.07%；归属于上市公司股东的净利润为7094万元，同比下降73.02%。报告中称，&lt;strong&gt;《三体》系列IP游戏正在开发中，预计将于未来3-5年陆续推向市场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
