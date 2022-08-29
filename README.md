@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [两名法航飞行员因飞行途中在驾驶舱内打架斗殴被停飞](https://www.cnbeta.com/articles/tech/1309679.htm) | Sun Aug 28 2022 11:14 PM 
+- 🕯 [《富坚义博展》最新概念原画公开 10月28日开幕](https://hot.cnbeta.com/articles/comic/1309759.htm) | Mon Aug 29 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，埃塞俄比亚航空公司一客机因两名飞行员在飞行途中打瞌睡而一度“失联”一事，引发了外界对航空安全问题的关注。据8月28日最新报道，又有两名法国航空的飞行员因飞行途中在驾驶舱内打架斗殴被停飞。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《富坚义博展-PUZZLE-》即将于10月28日～2023年1月9日期间开幕，日前官方再次公开了部分展会新情报，包括概念设计图以及部分精彩预定参展原画，一起来欣赏下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1309759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [商标申请表明苹果可能会为AR/VR头盔争取“Reality”名称](https://www.cnbeta.com/articles/tech/1309677.htm) | Sun Aug 28 2022 11:13 PM 
+- 💼 [华为Mate 50 RS保时捷设计版公布 全新拼色设计](https://www.cnbeta.com/articles/tech/1309757.htm) | Mon Aug 29 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;span style=&quot;&quot;&gt;商标申请表明，苹果公司可能会为其备受期待的混合现实头戴设备争取潜在名称，这是这家科技巨头多年来推动其首个新产品类别的一部分。 &lt;/span&gt;据悉，&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;在美国、欧盟、英国、加拿大、澳大利亚、新西兰、沙特阿拉伯、哥斯达黎加和乌拉圭提交了“Reality One”“Reality Pro”和“Reality Processor”名称的申请。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在官宣华为Mate 50系列9月6日发布后，华为官方终于在今天开启了新一轮预热。今日，华为手机官微晒出预热海报，&lt;strong&gt;从海报中“汽车”和“&lt;/strong&gt;&lt;strong&gt;激光镭雕工艺赛道线&lt;/strong&gt;&lt;strong&gt;”两个关键信息来看，正是此前传闻的华为Mate 50 RS保时捷设计版。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [成本高企不愿给“宁王”打工 广汽斥资百亿元造磷酸铁锂电池](https://www.cnbeta.com/articles/tech/1309675.htm) | Sun Aug 28 2022 11:11 PM 
+- 💂 [“三桶油”上半年日赚超10亿 中石油业绩创历年最佳](https://www.cnbeta.com/articles/tech/1309755.htm) | Mon Aug 29 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;先是董事长公开表态拒绝为电池厂打工，自己的电池要自己造；后是旗下新能源品牌广汽埃安融资金额创行业新高。作为一家市值1500亿元的头部车企，广汽集团最近动作频频。8月26日，广汽埃安A轮引进战略投资者在广东联合产权交易中心正式挂牌。同时，广汽埃安股份制改造工作正式启动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，中国石油、中国海油和中国石化半年报已相继披露完毕，在上半年国际油价大幅上涨背景下，“三桶油”经营业绩也实现了正增长。本周四晚间，中国石油、中国海油率先公布半年报，中国石油上半年实现营业收入1.61万亿元，比上年同期增长34.9%；归属于母公司股东净利润823.91亿元，比上年同期增长55.3%。值得一提的是，中国石油今年上半年的业绩创下了历年同期最好水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美媒：特朗普的社交媒体“真相社交”面临财务危机](https://www.cnbeta.com/articles/tech/1309673.htm) | Sun Aug 28 2022 11:10 PM 
+- 🚀 [华为Mate 50预约数已超百万：下周正式登场](https://www.cnbeta.com/articles/tech/1309753.htm) | Mon Aug 29 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国前总统特朗普去年1月被推特拉入黑名单后，随后高调推出一款名为“真相社交”的社交平台。然而，美国《华盛顿邮报》27日报道称，由于支付纠纷和受众减少，该平台正面临财务危机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周，华为已经正式宣布，将于9月6日召开新品发布会，正式推出阔别两年的Mate 50系列旗舰。同时官网也开启了新机的预约活动，根据官方数据显示，&lt;strong&gt;目前Mate 50系列的预约数已经突破了百万，截至发稿前停留在114万人。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [氢燃料电池汽车“未来已来”？ 业内：要先把成本降下来](https://www.cnbeta.com/articles/tech/1309671.htm) | Sun Aug 28 2022 11:08 PM 
+- 🎊 [发射台遭3次雷击影响轻微 美国新一代登月火箭按原计划发射](https://www.cnbeta.com/articles/science/1309751.htm) | Mon Aug 29 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为一种来源丰富、绿色低碳、应用广泛的二次能源，氢能正逐步成为全球能源转型的重要载体之一。在此背景下，我国的燃料电池产业化也在提速。&lt;/strong&gt;“氢能产业是这几年刚发展起来的，当前各个企业都在做。”8月27日上午，在“国家燃料电池技术创新中心”挂牌仪式上，该中心运营主体山东国创燃料电池技术创新中心有限公司（以下简称国创公司）董事长孙少军向《每日经济新闻》记者表示。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月29日消息，当地时间8月27日，&lt;strong&gt;美国新一代登月火箭“太空发射系统”所在的肯定尼迪航天中心39B发射台避雷装置3次遭雷击。&lt;/strong&gt;太空发射系统拟于29日8时33分至10时33分发射升空，雷击发生时已进入48小时倒计时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
