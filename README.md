@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [apache 基金会是怎么一回事](https://www.v2ex.com/t/876200#reply0) | Mon Aug 29 2022 7:13 AM
-- 🤗 [NTFS 原来那么强，可以把 12G 的文件，变成 140M。](https://www.v2ex.com/t/876196#reply15) | Mon Aug 29 2022 6:48 AM
-- 🎭 [是不是现在程序员门槛降低了？](https://www.v2ex.com/t/876178#reply56) | Mon Aug 29 2022 5:34 AM
-- 🥷 [独立产品灵感周刊 DecoHack #028 - 如何给你的项目取一个好名字](https://www.v2ex.com/t/876174#reply1) | Mon Aug 29 2022 5:27 AM
-- 🐵 [京东云无线宝与群晖联名的 NAS 怎么样](https://www.v2ex.com/t/876170#reply3) | Mon Aug 29 2022 5:05 AM<!-- v2ex:END -->
+- 🥸 [8 月份全球 Wi-Fi6 技术标准更新](https://www.v2ex.com/t/876231#reply0) | Mon Aug 29 2022 8:21 AM
+- 🤗 [Django 怎么做同一个 url，对应不同的 view 函数？](https://www.v2ex.com/t/876228#reply1) | Mon Aug 29 2022 8:16 AM
+- 🎭 [土区 google 账户被封（全家桶被封），求教各位大佬](https://www.v2ex.com/t/876226#reply0) | Mon Aug 29 2022 8:14 AM
+- 🥷 [[面试必备] 我跟面试官聊了一个小时线程池！](https://www.v2ex.com/t/876224#reply0) | Mon Aug 29 2022 8:10 AM
+- 🐵 [现在写几个简单文本带输入框的页面用什么前端技术](https://www.v2ex.com/t/876213#reply6) | Mon Aug 29 2022 7:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
