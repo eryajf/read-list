@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [DART确认目标小行星Dimorphos的轨道](https://www.cnbeta.com/articles/science/1309845.htm) | Mon Aug 29 2022 4:18 AM 
+- 🕯 [零跑汽车通过港交所聆讯 三年烧光44亿，卖一辆亏6万](https://www.cnbeta.com/articles/tech/1309851.htm) | Mon Aug 29 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;据港交所29日披露，浙江零跑科技股份有限公司&lpar;下简称“零跑汽车”&rpar;通过港交所上市聆讯。&lt;/strong&gt;公开资料显示，零跑汽车成立于2015年末，是一家智能电动汽车企业，业务范围涵盖智能电动汽车整车设计、研发制造、智能驾驶、电机电控、电池系统开发以及基于云计算的车联网解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [NASA Artemis I火箭的发射：目前知道的关于此次月球之旅的一切](https://www.cnbeta.com/articles/science/1309847.htm) | Mon Aug 29 2022 4:43 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据CNET报道，在美国宇航局（NASA）肯尼迪航天中心的发射台上，现在有一枚32层楼高的火箭被安装在上面。周一，它计划将一个航天器推向月球。&lt;strong&gt;经过多年的推迟和大量的额外资金， Artemis I月球任务终于将在美国东部时间8月29日升空。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [DART确认目标小行星Dimorphos的轨道](https://www.cnbeta.com/articles/science/1309845.htm) | Mon Aug 29 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;DART调查小组利用世界上一些最强大的望远镜在上月完成了一个为期六天的观测活动，从而确认了先前对Dimorphos--DART目标小行星的轨道的计算结果。Dimorphos在其较大的母小行星Didymos周围的轨道上。这些观测结果确认了小行星在撞击时的预期位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [MTV VMAs：阿姆和史努比·狗狗在元宇宙中奉上“无聊猿猴”表演](https://hot.cnbeta.com/articles/music/1309843.htm) | Mon Aug 29 2022 4:10 AM 
+- 🚀 [MTV VMAs：阿姆和史努比·狗狗在元宇宙中奉上“无聊猿猴”表演](https://hot.cnbeta.com/articles/music/1309843.htm) | Mon Aug 29 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;无聊猿猴游艇俱乐部&lpar;Bored Ape Yacht Club&rpar;已经进入了约十几位名人的Twitter账号，从《Tonight Show with Jimmy Fallon》中的一个怪异场景到MTV VMAs。&lt;strong&gt;本周日，阿姆&lpar;Eminem&rpar;和史努比·狗狗&lpar;Snoop Dogg&rpar;--两位知名的无聊猿猴游艇俱乐部NFT持有者--唱了他们的最新歌曲，简直就是他们在无聊猿猴游艇俱乐部的另一个自我。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1309843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [5nm锐龙7000全押DDR5内存 AMD：性能、能效都是优势](https://www.cnbeta.com/articles/tech/1309839.htm) | Mon Aug 29 2022 3:52 AM 
+- 🎊 [5nm锐龙7000全押DDR5内存 AMD：性能、能效都是优势](https://www.cnbeta.com/articles/tech/1309839.htm) | Mon Aug 29 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Intel去年底在12代酷睿上首发DDR5内存的同时也保留了DDR4兼容，今年的13代酷睿也会如此，然而AMD今年在5nm Zen4架构锐龙7000上要激进很多，押注DDR5内存，放弃了DDR4兼容。此前有传闻称AMD会在AM4平台推出一个兼容DDR4的Zen4处理器，但是目前还不能100%确认，反正现在的消息来看AMD是铁了心在AM5上推动DDR5内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [几个月下跌超80％，虚拟房产需警惕](https://www.cnbeta.com/articles/tech/1309837.htm) | Mon Aug 29 2022 3:44 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去元宇宙买一块地皮、购一套房子，将现实生活里无法安放的灵魂寄托在虚拟世界中，一度成为潮流。今年年初，“炒房热”刮进了元宇宙，虚拟地产、虚拟房产频频刷出价格新高，最火时，国外一块不足5平方米的虚拟土地卖出逾400万美元的天价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [传保时捷9月宣布IPO计划，估值最高达850亿美元](https://www.cnbeta.com/articles/tech/1309835.htm) | Mon Aug 29 2022 3:42 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据 知情人士透露，保时捷已吸引了投资者对其首次公开募股（IPO）的兴趣，估值最高可达850亿美元，成为欧洲有史以来规模最大的IPO之一。这表明尽管市场面临阻力，但保时捷的IPO仍将继续进行。知情人士表示，保时捷已获得600亿至850亿欧元（合850亿美元）的发行股份预订单。如果市场没有遭遇意外的震荡，保时捷计划在获得监事会批准后，于9月第一周宣布在法兰克福上市的计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
