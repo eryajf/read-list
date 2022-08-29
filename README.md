@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter 动态化 | Flutter + Dart 三端一体化动态化平台实践](https://juejin.cn/post/7137203251560054791) | Mon Aug 29 2022 7:54 AM 
+- 🤗 [架构图分类详解](https://juejin.cn/post/7137250779928199181) | Mon Aug 29 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
-    导读 FairPushy 是基于Flutter+Dart三端一体化打造的动态更新平台主要由Web + Server + Native全部使用Flutter+Dart编写，为Flutter动态化场景提供 
+    架构图是程序员工作中必不可少的技能，好的架构图能言简意赅的传递关键的业务和技术信息。本文对家沟通种类、流派进行整体介绍分享。 
     </details> 
 
-- 🎡 [实现一个Promise队列小工具](https://juejin.cn/post/7137192169109979149) | Mon Aug 29 2022 7:11 AM 
+- 🎡 [架构图分类详解](https://juejin.cn/post/7137250515074678821) | Mon Aug 29 2022 10:57 AM 
     <details><summary>展开描述 ...</summary> 
-    在前端不同的业务场景中，由于一次性发起的异步请求过多，并且这些服务位于不同组件或者不同兄弟功能之间，我们无法直接对这些方法进行同步，所以需要引入队列的概念，对这些并发性的问题进行顺序处理。 
+    架构图是程序员工作中必不可少的技能，好的架构图能言简意赅的传递关键的业务和技术信息。本文对家沟通种类、流派进行整体介绍分享。 
     </details> 
 
-- 🕯 [一套完整的web与app交互解决方案](https://juejin.cn/post/7137191730138316813) | Mon Aug 29 2022 7:09 AM 
+- 🕯 [搞清楚 Go Mod的版本和伪版本，下次别乱用了](https://juejin.cn/post/7137238803005538334) | Mon Aug 29 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
-    在我前面的文章中曾提到过微信唤醒、网页唤醒等各种方案，但随着业务需求的发展，项目中衍生出了更多需求场景。 比如活动页面，既可以在app内嵌打开也可以分享到网页引流，所以在同一个页面上需要根据环境处理很 
+    关于 Go 项目的依赖管理的日常使用以及遇到的问题怎么解决，俺已经写过两篇文章了。 项目使用GoModules管理依赖的方法和经验总结 Go Modules怎么管理私有依赖 今天再跟大家唠一下 Go  
     </details> 
 
-- 🚀 [yum与nfs共享储存服务](https://juejin.cn/post/7137191177547153444) | Mon Aug 29 2022 7:07 AM 
+- 🚀 [小册上新｜技术面试，逃不掉分布式服务原理这一关](https://juejin.cn/post/7137238332227977229) | Mon Aug 29 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-    yum概述 基于rpm包构建的软件更新机制 可以自动解决依赖关系 所有软件包有集中的yum软件仓库提供 安装软件 命令：yum install [选项] 软件名 选项： -y （提示信息默认yes）  
+    资深技术专家天涯兰，通过“技术原理剖析+面试技巧演练”，带你攻克分布式面试核心考点，轻松拿下大厂高薪 Offer！ 
     </details> 
 
-- 💪 [杂交水稻？PHP+Vue+Antd+Jquery](https://juejin.cn/post/7137186683048427557) | Mon Aug 29 2022 6:49 AM 
+- 💪 [阿里云金融创新峰会云原生分论坛圆满举办，加速金融行业落地云原生](https://juejin.cn/post/7137235484572385288) | Mon Aug 29 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-    如何种一个杂交水稻? 啊不不不，是如何在PHP使用Vue+Jquery+antdUI组件 
+    2022 年 8 月 25 日，阿里云金融创新峰会-云原生，端到端技术创新引擎分论坛在阿里巴巴西溪园区圆满举办，多位技术大咖分享在金融行业落地云原生的相关议题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
