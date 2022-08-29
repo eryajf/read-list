@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国银行停止ATM机扫码存款业务](https://www.cnbeta.com/articles/tech/1310085.htm) | Mon Aug 29 2022 4:17 PM 
+- 🕯 [大众为何抛弃了赫伯特·迪斯？](https://www.cnbeta.com/articles/tech/1310089.htm) | Mon Aug 29 2022 5:42 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;再过3天，赫伯特·迪斯将正式离开大众集团CEO的宝座，而此时距离他原本合同到期还有3年。&lt;/strong&gt;以宝马CEO竞争失败者的身份出走，迪斯从德国南部一路往北，2015年加盟大众集团担任大众品牌CEO。在“柴油门”连续终结两任大众集团CEO后，来自慕尼黑的“外人”迪斯成为大众集团的CEO。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [成都限电下的纯电网约车：通宵排队充电 每天都在“祈雨”](https://www.cnbeta.com/articles/tech/1310087.htm) | Mon Aug 29 2022 5:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月26日下午4时许，成都市龙泉驿区某公共充电站早已排满等候充电的网约车和出租车。由于极端高温天气，川渝电力供需紧张，先后发布了有序用电政策。为响应政策要求，此时该充电站实际上还未开放充电。这些等候充电的司机要等到当天晚上十一点多才能充上电，排队靠前的司机或许可以在凌晨时分载满电回家休息，但等待时长在4~5个小时甚至通宵排队的也大有人在。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [中国银行停止ATM机扫码存款业务](https://www.cnbeta.com/articles/tech/1310085.htm) | Mon Aug 29 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月26日，中国银行发布《关于调整ATM二维码存款业务的公告》。公告称，&lt;strong&gt;将于8月29日起，调整ATM二维码存款服务。调整后，ATM无卡扫码存款功能将停止，用户仍可持该行银行卡办理ATM存款或前往该行营业网点办理存款业务。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果已完成iPhone 14卫星连接的硬件测试 但能否推出取决于合作伙伴](https://www.cnbeta.com/articles/tech/1310083.htm) | Mon Aug 29 2022 4:12 PM 
+- 🚀 [苹果已完成iPhone 14卫星连接的硬件测试 但能否推出取决于合作伙伴](https://www.cnbeta.com/articles/tech/1310083.htm) | Mon Aug 29 2022 4:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据苹果产业链分析师郭明錤称，苹果公司确实在为iPhone 14进行卫星连接方面的研发，并在量产前完成了该功能的硬件测试。郭明錤说，苹果现在已经有了有卫星连接的硬件支持，但iPhone 14是否会支持卫星通信取决于&amp;quot;苹果和运营商是否能解决其商业模式&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [我朋友的19万存款一夜没了 但收获了1万个套路](https://www.cnbeta.com/articles/tech/1310081.htm) | Mon Aug 29 2022 4:11 PM 
+- 🎊 [我朋友的19万存款一夜没了 但收获了1万个套路](https://www.cnbeta.com/articles/tech/1310081.htm) | Mon Aug 29 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;前几天，有条&amp;nbsp;“&amp;nbsp;十万块钱一夕消失&amp;nbsp;”&amp;nbsp;的微博非常火。这位博主在 P2P 最火时投了 10&amp;nbsp;万元进去，P2P 平台爆雷后钱拿不出来了。前几天她打开平台发现，这十万元变成了某野鸡网上商城的十万积分，商城中以高于市场价的价格售卖日常用品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《风骚律师》：如何成为美剧天花板](https://hot.cnbeta.com/articles/movie/1310079.htm) | Mon Aug 29 2022 4:10 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;14年，125集。《绝命毒师》与《风骚律师》共同搭建的文斯·吉里根元宇宙（Gillaverse Mega Timeline ），从2008年1月开始，到2022年8月最后一集播出，如今正式画上句号。对于“绝命”系列的忠诚观众来说，它已经不再是虚构的传奇故事，而是陪伴自己十多年的平行空间。在美国新墨西哥州的阿尔伯克基市（Albuquerque），有人死在了最心爱的实验室，有人开着车一路向北逃亡，有人接受了86年刑期的牢狱人生。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1310079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [索尼PS5涨价后新版正式发售：变化喜人](https://www.cnbeta.com/articles/tech/1310077.htm) | Mon Aug 29 2022 3:57 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天早些时候有日本零售商泄露了关于PS5新型号的消息。但据报道，这些新型号的PS5已在澳大利亚发布，而且此版本的主机重量更轻。据悉，这款新型号比老款PS5要轻，新款数字版PS5（CFI-1200B）重3.4公斤，比初版轻500g。光驱版&lpar;CFI-1200A&rpar; 重3.9公斤，比初版轻600克左右。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
