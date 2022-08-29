@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [DreamPlan Plus 7.57 房屋设计](https://xclient.info/s/dreamplan-plus.html) | Fri Aug 26 2022 1:23 AM 
+- 🦏 [Contexts 3.9.0 窗口快速切换工具](https://xclient.info/s/contexts.html) | Mon Aug 29 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    DreamPlan是一款Mac上的房屋设计软件，为您提供创建逼真的3D房子模型和计划整修项目的工具，包括花园空间彻底规划您的房屋改造项目，并使用模拟软件预览您想要做的更改可以为您节省许多时间。 
+    Contexts是 Mac os X 上的一款非常方便便捷的Mac窗口管理工具，可以通过一次单击任何窗口切换：自动隐藏侧边栏显示您的Windows组组织。切换到窗口，单击其标题列表中。切换非常的方便简单不影响其他操作。 
     </details> 
 
--  [Keep It 2.0.12 内容收藏夹](https://xclient.info/s/keep-it.html) | Fri Aug 26 2022 1:21 AM 
+-  [Default Folder X 5.7b3 文件快捷访问工具](https://xclient.info/s/default-folder-x.html) | Mon Aug 29 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-    Keep It 是Mac平台上的一款保存笔记，保存网页链接，存储文件的效率工具。Keep It 支持icloud同步，用户可以在所有支持icloud的设备上同步自己的数据资料。 
+    在系统存取窗口附设一个工具栏，让你在使用Mac原生软件时，快速访问各种各样的文件夹，显示收藏页和最近被使用的文件夹 
     </details> 
 
-- ⚗️ [Alfred 5.0.2&lpar;2072&rpar; 效率神器](https://xclient.info/s/alfred.html) | Fri Aug 26 2022 1:21 AM 
+- ⚗️ [BBEdit 14.5.2 代码编辑器](https://xclient.info/s/bbedit.html) | Mon Aug 29 2022 1:17 AM 
     <details><summary>展开描述 ...</summary> 
-    Alfred 这是一款被称之为Mac效率神器的App，有了Alfred 你甚至无需鼠标就可以实现各种操作，包括出发各种文件、网络操作，其UI界面使用方便，而且不是通过命令来实现，是开发者们和键盘刘童鞋们的神器，比之此前类似的软件——Pack和Power来说完全是秒杀的节奏。 
+    BBEdit 是一款著名代码编辑器。BBEdit适用于Mac OS平台版本, 用于编辑HTML文件, 文本文件及程序源代码 
     </details> 
 
-- 🔥 [Synalyze It! Pro 1.26 二进制编辑器](https://xclient.info/s/synalyze-it-pro.html) | Fri Aug 26 2022 1:20 AM 
+- 🔥 [Wondershare Filmora X 11.6.0 优秀的视频编辑工具](https://xclient.info/s/filmora.html) | Mon Aug 29 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    Synalyze It! Pro 是一款Mac平台的二进制编辑器，让你轻松地编辑和分析任何大小的二进制文件。支持多种字符编码，它将允许您以交互方式定义为各种格式的文件的语法。是完美的编辑保存的游戏或其他未知的二进制文件格式，并支持反向工程。 
+    Wondershare Filmora是一款由Wondershare出品的优秀的视频编辑工具，简单易用。 
     </details> 
 
-- 🌋 [Mellel 5.1.3 一款强大的国际论文写作工具](https://xclient.info/s/mellel.html) | Fri Aug 26 2022 1:19 AM 
+- 🌋 [Wondershare PDFelement Pro 9.0.8 OCR 强大的PDF编辑工具](https://xclient.info/s/wondershare-pdf-element.html) | Mon Aug 29 2022 1:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Mellel是一款强大的写作工具，严格意义上讲属于文本编辑器。 
+    PDFelement可是能为你提供强大的编辑功能滴，支持OCR光学识别引擎，有效的提升文字的识别效率，另外PDFelement支持PDF转换等功能，在保证原有完整文档的基础上，提供了多样的风格和样式。 
     </details> 
 <!-- xclient:END -->
 
