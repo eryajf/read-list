@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Contexts 3.9.0 窗口快速切换工具](https://xclient.info/s/contexts.html) | Mon Aug 29 2022 2:07 AM 
+- 🦏 [Scrutiny 12.4.1 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Mon Aug 29 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
-    Contexts是 Mac os X 上的一款非常方便便捷的Mac窗口管理工具，可以通过一次单击任何窗口切换：自动隐藏侧边栏显示您的Windows组组织。切换到窗口，单击其标题列表中。切换非常的方便简单不影响其他操作。 
+    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
     </details> 
 
--  [Default Folder X 5.7b3 文件快捷访问工具](https://xclient.info/s/default-folder-x.html) | Mon Aug 29 2022 2:06 AM 
+-  [New File Menu 1.6 Finder右键创建文档利器](https://xclient.info/s/new-file-menu.html) | Mon Aug 29 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
-    在系统存取窗口附设一个工具栏，让你在使用Mac原生软件时，快速访问各种各样的文件夹，显示收藏页和最近被使用的文件夹 
+    新建文件菜单（New File Menu）允许你从 Finder 右键菜单中快速创建各种文件。 
     </details> 
 
-- ⚗️ [BBEdit 14.5.2 代码编辑器](https://xclient.info/s/bbedit.html) | Mon Aug 29 2022 1:17 AM 
+- ⚗️ [Icon Plus 1.4 图标制作软件](https://xclient.info/s/icon-plus.html) | Mon Aug 29 2022 2:25 AM 
     <details><summary>展开描述 ...</summary> 
-    BBEdit 是一款著名代码编辑器。BBEdit适用于Mac OS平台版本, 用于编辑HTML文件, 文本文件及程序源代码 
+    Icon Plus 是一个免费的图标、Logo 设计工具，可以让你将一张照片转变为一个图标或者 Logo。 
     </details> 
 
-- 🔥 [Wondershare Filmora X 11.6.0 优秀的视频编辑工具](https://xclient.info/s/filmora.html) | Mon Aug 29 2022 1:16 AM 
+- 🔥 [Meta 2.1.5 音频元数据音乐标签信息编辑器](https://xclient.info/s/meta.html) | Mon Aug 29 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
-    Wondershare Filmora是一款由Wondershare出品的优秀的视频编辑工具，简单易用。 
+    Meta将帮助您管理不断增长的数字音乐收藏。它支持大多数音频格式的编辑，如MP3，MP4，M4A，FLAC，OGG，OGA，SPX，WAV等等。 AIFF和各种元数据格式，包括ID3v1，ID3v2.3，ID3v2.4，ITunes MP4，Vorbis注释和APE标签。 
     </details> 
 
-- 🌋 [Wondershare PDFelement Pro 9.0.8 OCR 强大的PDF编辑工具](https://xclient.info/s/wondershare-pdf-element.html) | Mon Aug 29 2022 1:14 AM 
+- 🌋 [CheckBook Pro 2.7.9 个人理财工具](https://xclient.info/s/checkbook-pro.html) | Mon Aug 29 2022 2:23 AM 
     <details><summary>展开描述 ...</summary> 
-    PDFelement可是能为你提供强大的编辑功能滴，支持OCR光学识别引擎，有效的提升文字的识别效率，另外PDFelement支持PDF转换等功能，在保证原有完整文档的基础上，提供了多样的风格和样式。 
+    CheckBook Pro 是一个Mac平台的个人理财工具，界面友好，轻松管理我们的财务信息，支持所有功能，在支票簿，我们有力的简单的个人财务管理。 
     </details> 
 <!-- xclient:END -->
 
