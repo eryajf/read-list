@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【资讯】微软宣布 TypeScript 4.8 正式发布](https://juejin.cn/post/7137300011247337509) | Mon Aug 29 2022 2:10 PM 
+- 🤗 [Vue 入口与 initGlobalAPI](https://juejin.cn/post/7137312453435588644) | Mon Aug 29 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
-    就在上周微软发布了 TypeScript 4.8 新版本，一起来看看都有哪些新的功能： 改进的交叉类型、联合兼容性和类型收窄 改进了对infer模板字符串类型中的类型的推理 
+    Vue 的入口 在上面的scripts/alias文件中可以分析出入口是src/platforms/web/entry-runtime-with-compiler.js 在这个入口 JS 的上方我们可 
     </details> 
 
-- 🎡 [LeetCode重新排列数组使用JavaScript解题|前端学算法](https://juejin.cn/post/7137298789659836429) | Mon Aug 29 2022 2:05 PM 
+- 🎡 [Vue 源码设计与构建](https://juejin.cn/post/7137311868598616077) | Mon Aug 29 2022 2:56 PM 
     <details><summary>展开描述 ...</summary> 
-    前端使用JavaScript解决leetcode算法重新排列数组的问题，前端学习算法，每天三分钟一个知识点 
+    Vue源码设计与构建 源码设计 Vue.js 的源码都在 src 目录下，其目录结构如下。 从 Vue.js 的目录设计可以看到，作者把功能模块拆分的非常清楚，相关的逻辑放在一个独立的目录下维护，并且 
     </details> 
 
-- 🕯 [日拱算法，按字典序排在最后的子串](https://juejin.cn/post/7137298502404538398) | Mon Aug 29 2022 2:03 PM 
+- 🕯 [灵感宝盒新增「线上云展会」产品，「直播观赏联动」等你共建丨RTE NG-Lab 双周报](https://juejin.cn/post/7137311443459768334) | Mon Aug 29 2022 2:53 PM 
     <details><summary>展开描述 ...</summary> 
-    这题题干很简洁，比什么兔子问题、果篮问题好理解很多。看题之后，很明显的一个概念需要清楚，那就是：字典序排列！ 
+    直播观赏联动灵感，支持多屏联动观看，观众可以同步观看多房间内容，观众在进入 A 主播房间后，自动开启上帝视角，可以观看所有此局游戏中所有已开播玩家的视频流。 
     </details> 
 
-- 🚀 [纯js实现多个关键词同时高亮](https://juejin.cn/post/7137296058719141919) | Mon Aug 29 2022 1:54 PM 
+- 🚀 [技术碎周报第 1 期 &lpar;2022.08.30&rpar;](https://juejin.cn/post/7137307436536299527) | Mon Aug 29 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
-    日常需求开发中常见需要高亮的场景，本文主要记录字符串渲染时多个关键词同时高亮的实现方法。 - 多个关键词`同时高亮` - 关键词支持`正则匹配` 
+    最近想着如何把一些小的技术知识和细节整理起来。参考别人的博客，我给这类文章起了一个名字叫“技术碎周报”。主要用来整理和分享日常开发中遇到的小的知识点和感悟。 
     </details> 
 
-- 💪 [力扣：第 308 场周赛](https://juejin.cn/post/7137295617348337700) | Mon Aug 29 2022 1:52 PM 
+- 💪 [C# DataSet类的简单学习](https://juejin.cn/post/7137306008535171109) | Mon Aug 29 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 力扣：第 308 场周赛 2389. 和有限的最长子序列 问题解析 对nums升序排序后计算前缀和数组s 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第29天，点击查看活动详情 前言 今天我们一起学习一下DataSet类，DataSet类官方的表示是这样的：&quot;表示数据的内存中缓存&quot; 
     </details> 
 <!-- juejin:END -->
 ### 少数派
