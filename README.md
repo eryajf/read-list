@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 上半年DDoS攻击暴增203%；工信部通报47款侵害用户权益App和SDK](https://www.freebuf.com/news/343040.html) | Fri Aug 26 2022 10:25 AM 
+- 🦄 [Atlassian Bitbucket 服务器和数据中心出现漏洞](https://www.freebuf.com/news/343151.html) | Mon Aug 29 2022 3:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    漏洞可能允许攻击者执行恶意代码，Atlassian 目前已经推出了漏洞修复方案。 
+    </details> 
+
+- 🦄 [借助DDoS，LockBit勒索软件正变得更加凶险](https://www.freebuf.com/news/343132.html) | Mon Aug 29 2022 3:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    LockBit表示正着手改进对DDoS攻击的防御，以应对来自安全机构的攻击，并借此来大力提高自身勒索能力。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | 上半年DDoS攻击暴增203%；工信部通报47款侵害用户权益App和SDK](https://www.freebuf.com/news/343040.html) | Fri Aug 26 2022 10:25 AM 
     <details><summary>展开描述 ...</summary> 
     工信部通报存在问题的 App（SDK）名单显示， 神州专车、网鱼、虎扑、零跑、宝沃汽车、奔腾 YOMI 等应用在列 。 
     </details> 
 
-- 🦄 [曾攻击过云通讯巨头Twilio的黑客，在数月内连续攻击130多个组织](https://www.freebuf.com/articles/es/342997.html) | Fri Aug 26 2022 7:29 AM 
+- 🪄 [曾攻击过云通讯巨头Twilio的黑客，在数月内连续攻击130多个组织](https://www.freebuf.com/articles/es/342997.html) | Fri Aug 26 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
     在8月初接连攻击云通讯巨头Twilio和云服务商Cloudflare后，攻击者逐渐浮出水面。 
     </details> 
 
-- 🦅 [斗象科技2022新品发布会「漏洞情报产品」亮相](https://www.freebuf.com/news/342992.html) | Fri Aug 26 2022 7:03 AM 
+- 💻 [斗象科技2022新品发布会「漏洞情报产品」亮相](https://www.freebuf.com/news/342992.html) | Fri Aug 26 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
     2022-8-27 10:00:00|2022-8-27 23:59:59 
-    </details> 
-
-- 🪄 [FreeBuf周报 | 苹果曝严重安全漏洞喜提热搜第一；LockBit 团伙遭受 DDoS 攻击](https://www.freebuf.com/news/342984.html) | Fri Aug 26 2022 6:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
-    </details> 
-
-- 💻 [黑客正使用AiTM攻击监控企业高管的 Microsoft 365 帐户](https://www.freebuf.com/news/342973.html) | Fri Aug 26 2022 5:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是一种典型的商业电子邮件泄露攻击，目的很可能是将大笔资金交易转移到攻击者控制的银行账户中。 
     </details> 
 <!-- freebuf:END -->
 
