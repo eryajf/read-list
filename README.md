@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [因国会不批准额外资金 美国本周五将停止发放免费新冠检测盒](https://www.cnbeta.com/articles/tech/1310039.htm) | Mon Aug 29 2022 1:39 PM 
+- 🕯 [索尼组建PlayStation工作室移动团队 独立运作为手机制作衍生游戏](https://hot.cnbeta.com/articles/game/1310047.htm) | Mon Aug 29 2022 2:03 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;作为索尼推动移动游戏的一部分，该公司已经成立了一个PlayStation工作室移动部门，将与PS主机游戏业务分开运作。&lt;/strong&gt;根据一份新闻稿，这个新团队将用&amp;quot;新的和现有的PlayStation IP&amp;quot;创造移动游戏。索尼组建移动游戏部门的举动与该公司将其IP扩展到PC和移动游戏，以及电视剧和电影的总体目标相一致。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1310047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [AMD Zen4锐龙7000开卖时间确定 但主板得多等12天](https://www.cnbeta.com/articles/tech/1310045.htm) | Mon Aug 29 2022 1:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;明天早上，AMD就要正式发布5nm工艺、Zen4架构的锐龙7000系列处理器了，还有配套的600系列主板，预计这次会全方位公布型号、规格、价格，但不会涉及架构细节。那么，什么时候能买到呢？有传闻说9月中，也有说推迟到9月底的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [《阿凡达》重映版官方中字预告 9月23日上映](https://hot.cnbeta.com/articles/movie/1310043.htm) | Mon Aug 29 2022 1:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;《阿凡达》曝光4K HDR重映版官方中字预告片，将于9月23日以3D以及IMAX版本上映。&lt;/strong&gt;金奖票房大导詹姆斯卡麦隆的影史票房冠军科幻史诗经典《阿凡达》即将重返大银幕，透过4K HDR顶尖技术，全面升级3D视效以及震撼音效的影音效果，令影迷以前所未有的全新体验，回归2154年潘朵拉星球的史诗起源。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1310043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [马斯克称自己成功掉称18斤：少吃多动](https://www.cnbeta.com/articles/tech/1310041.htm) | Mon Aug 29 2022 1:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;北京时间8月29日消息，当地时间周日，埃隆·马斯克（Elon Musk）在Twitter上发文称，自己已经成功减重20多磅（18斤），并表示他根据一位好朋友的建议，尝试了“间歇性禁食”的减肥方式，目前感觉自己的身体更健康了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [因国会不批准额外资金 美国本周五将停止发放免费新冠检测盒](https://www.cnbeta.com/articles/tech/1310039.htm) | Mon Aug 29 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国政府的“一站式”新冠服务网站COVID.gov显示，本周五（9月2日）将停止向美国家庭提供免费的新冠病毒检测盒。网站称，暂停发放的原因是由于美国国会没有为该计划提供额外的资金来补充检测盒的库存。综合多家美国媒体报道，9月2日后新冠病毒检测盒的费用将转而让保险机构和民众承担。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [AMD Ryzen 7000 “Zen 4” 台式机CPU价格曝光](https://www.cnbeta.com/articles/tech/1310037.htm) | Mon Aug 29 2022 1:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;我们已经设法获得了AMD Ryzen 7000”Zen 4”桌面CPU的价格，包括Ryzen 9 7950X、Ryzen 9 7900X、Ryzen 7700X和Ryzen 5 7600X。&lt;/strong&gt;请注意，这些价格是由我们的消息来源提供给我们的，并可能在最后一分钟由AMD改变。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [iPhone 14可能获得30W快速充电功率](https://www.cnbeta.com/articles/tech/1310035.htm) | Mon Aug 29 2022 1:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新泄露的消息表明，iPhone 14系列可能会获得30W的快速充电能力，比iPhone 13系列使用的18W额定值有较大提升。据称一个不知名的充电器品牌正在向媒体发送30W的iPhone 14适配器，供其提前评测。这家公司显然认为苹果将把30W充电作为iPhone 14系列的一个亮点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [5nm Zen 4明天发 AMD锐龙7000售价一分没涨](https://www.cnbeta.com/articles/tech/1310033.htm) | Mon Aug 29 2022 1:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;赶在北京时间明晚（8月30日）发布前，AMD Zen4锐龙7000系列处理器的确切价格提前偷跑了。废话少说，一图看懂，内容如下：换言之，AMD真的如之前爆料所言，一分钱没涨。可供参考的是，&lt;strong&gt;5950X发售价是国行6049元（海外799美元），5900X是4099元（549美元），锐龙5 5600X是2129元（299美元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [美国宇航局因氢气泄露问题取消了Artemis I计划于今日的发射尝试](https://www.cnbeta.com/articles/science/1310031.htm) | Mon Aug 29 2022 1:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;经过大张旗鼓的宣传，包括一众名人的亮相和副总统卡马拉-哈里斯的到来，但阿特米斯一号今日的发射尝试敌不过技术问题的发现，美国宇航局表示，由于技术问题，今天的巨型月球火箭的首次发射尝试被取消。因为该机构迫切需要解决火箭引擎的一个问题。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
