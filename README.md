@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vue3.0新特性，编译原理](https://juejin.cn/post/7137107907937566727) | Mon Aug 29 2022 1:43 AM 
+- 🤗 [【剑指 Offer 精选】剑指 Offer II 003. 前 n 个数字二进制中 1 的个数](https://juejin.cn/post/7137134975731630093) | Mon Aug 29 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue3.0性能提升，在compiler原理上的优化案例。以及，Composition API的优势。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第33天，点击查看活动详情 题目描述 这是 LeetCode 上的 剑指 Offer II 003. 前 n 个数字二进制中 1 的 
     </details> 
 
-- 🎡 [『互联网架构』ELK集群的搭建](https://juejin.cn/post/7137104883584335879) | Mon Aug 29 2022 1:32 AM 
+- 🎡 [1470. 重新排列数组 : 简单模拟题](https://juejin.cn/post/7137133717117468708) | Mon Aug 29 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-    （一）如何快速搭建一套稳定的ELK环境 elasticsearch 5.6.4 + kibana5.2.0 + logstash5.6.3 JDK1.8安装 ES logstash 安装 kibana 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第33天，点击查看活动详情 题目描述 这是 LeetCode 上的 1470. 重新排列数组 ，难度为 简单。 Tag : 「模拟」 
     </details> 
 
-- 🕯 [如果我要用Python偷表情包](https://juejin.cn/post/7137104032359219208) | Mon Aug 29 2022 1:28 AM 
+- 🕯 [【RMQ 专题】关于 RMQ 的若干解法](https://juejin.cn/post/7137130317395165198) | Mon Aug 29 2022 3:12 AM 
     <details><summary>展开描述 ...</summary> 
-    爬取表情包，用到的关键代码和知识点拿出来简单说一下。毕竟，我对Python也不是很熟，用到什么就马克记录一下下。 
+    题目描述 这是 LeetCode 上的 239. 滑动窗口最大值 ，难度为 困难。 Tag : 「优先队列（堆）」、「线段树」、「分块」、「单调队列」、「RMQ」 给你一个整数数组 nums，有一个大 
     </details> 
 
-- 🚀 [精读《SolidJS》](https://juejin.cn/post/7137100589208436743) | Mon Aug 29 2022 1:15 AM 
+- 🚀 [通过 demo 了解 Vue3 新特性](https://juejin.cn/post/7137130257206738980) | Mon Aug 29 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    SolidJS 是一个语法像 React Function Component，内核像 Vue 的前端框架，本周我们通过阅读 Introduction to SolidJS 这篇文章来理解核心概念。 
+    我们了解锤子的方式不是盯着它看，而是拿起来用。通过vue-cli脚手架创建一个Vue3.0的项目，做一个简单的demo对比一下Vue2 和 Vue3 的语法。 
     </details> 
 
-- 💪 [AI带你省钱旅游！精准预测民宿房源价格！ ⛵](https://juejin.cn/post/7137098907485470750) | Mon Aug 29 2022 1:09 AM 
+- 💪 [CI/CD系列 | 我们在交付什么？](https://juejin.cn/post/7137124685623328805) | Mon Aug 29 2022 2:49 AM 
     <details><summary>展开描述 ...</summary> 
-    本文基于Airbnb在大曼彻斯特地区的房源数据，构建机器学习模型，进行数据分析与挖掘建模，预测民宿房源的价格走势。当然，同样的方法模式也可以应用在国内平台。 
+    本文希望通过目前常见的服务部署方式，让大家对自己项目的交付物形态有所了解。并引出容器化部署逐渐普通的环境下，Docker镜像制作的重要性。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
