@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [装了个 rime 输入法，只有 xterm 里能输出中文](https://www.v2ex.com/t/876313#reply0) | Mon Aug 29 2022 1:40 PM
-- 🤗 [求 mysql 查询 sql](https://www.v2ex.com/t/876301#reply2) | Mon Aug 29 2022 12:38 PM
-- 🎭 [vscode + golang hover documentation 中变量类型不可点击的问题](https://www.v2ex.com/t/876292#reply1) | Mon Aug 29 2022 12:02 PM
-- 🥷 [炸裂安全厂商号称安全一哥的 qax 官网被改挂不良信息。。。](https://www.v2ex.com/t/876285#reply0) | Mon Aug 29 2022 11:31 AM
-- 🐵 [有没有开发过浏览器插件的大佬，样式被覆盖有什么方案解决？](https://www.v2ex.com/t/876276#reply12) | Mon Aug 29 2022 10:32 AM<!-- v2ex:END -->
+- 🥸 [显示器挂灯求推荐](https://www.v2ex.com/t/876329#reply0) | Mon Aug 29 2022 3:08 PM
+- 🤗 [[cpu]双核 cpu 限制最高利用率 48%的时候,是双核轮流工作还是固定一个核.如果是固定核心的话,重启后每次会随机指定核心么?](https://www.v2ex.com/t/876326#reply2) | Mon Aug 29 2022 2:48 PM
+- 🎭 [装了个 rime 输入法，只有 xterm 里能输出中文](https://www.v2ex.com/t/876313#reply1) | Mon Aug 29 2022 1:40 PM
+- 🥷 [求 mysql 查询 sql](https://www.v2ex.com/t/876301#reply2) | Mon Aug 29 2022 12:38 PM
+- 🐵 [vscode + golang hover documentation 中变量类型不可点击的问题](https://www.v2ex.com/t/876292#reply1) | Mon Aug 29 2022 12:02 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
