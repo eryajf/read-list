@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么是快应用？与原生APP相比优势在哪里？](https://juejin.cn/post/7137222956324765709) | Mon Aug 29 2022 9:10 AM 
+- 🤗 [Flutter 动态化 | Flutter + Dart 三端一体化动态化平台实践](https://juejin.cn/post/7137203251560054791) | Mon Aug 29 2022 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-    快速了解一下快应用 快应用是基于手机硬件平台的新型应用生态。 有很多运营者对快应用还比较陌生，因为到目前阶段，真正参与快应用生态建设的基本上都是头部互联网公司，很多应用企业还没有参与快应用生态的共建。 
+    导读 FairPushy 是基于Flutter+Dart三端一体化打造的动态更新平台主要由Web + Server + Native全部使用Flutter+Dart编写，为Flutter动态化场景提供 
     </details> 
 
-- 🎡 [导航定位组件简介](https://juejin.cn/post/7137220988290367501) | Mon Aug 29 2022 9:02 AM 
+- 🎡 [实现一个Promise队列小工具](https://juejin.cn/post/7137192169109979149) | Mon Aug 29 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    最近整理项目中用到的组件时，开发了导航定位的组件。当我们页面模块过多时，通过导航可以快速的定位到指定模块，提高用户体验。该组件基于vue3开发，使用IntersectionObserver，scrol 
+    在前端不同的业务场景中，由于一次性发起的异步请求过多，并且这些服务位于不同组件或者不同兄弟功能之间，我们无法直接对这些方法进行同步，所以需要引入队列的概念，对这些并发性的问题进行顺序处理。 
     </details> 
 
-- 🕯 [彩虹女神跃长空,Go语言进阶之Go语言高性能Web框架Iris项目实战-登录与图形验证码&lpar;captcha&rpar;EP06](https://juejin.cn/post/7137217712266149901) | Mon Aug 29 2022 8:50 AM 
+- 🕯 [一套完整的web与app交互解决方案](https://juejin.cn/post/7137191730138316813) | Mon Aug 29 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-    书接上回，上一回我们按照“低耦合高内聚”的组织架构方针对项目的整体结构进行了优化，本回将会继续编写业务，那就是用户的登录逻辑，将之前用户管理模块中添加的用户账号进行账号和密码的校验，校验通过后留存 
+    在我前面的文章中曾提到过微信唤醒、网页唤醒等各种方案，但随着业务需求的发展，项目中衍生出了更多需求场景。 比如活动页面，既可以在app内嵌打开也可以分享到网页引流，所以在同一个页面上需要根据环境处理很 
     </details> 
 
-- 🚀 [Dubbo 3.1.0 正式发布，数据面原生接入 Service Mesh](https://juejin.cn/post/7137208653211238431) | Mon Aug 29 2022 8:15 AM 
+- 🚀 [yum与nfs共享储存服务](https://juejin.cn/post/7137191177547153444) | Mon Aug 29 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-    Apache Dubbo 3.1.0 作为 Dubbo 规划中的一个重要里程碑版本，标记着 Dubbo 在数据面上全面拥抱 Service Mesh 的工作模式，原生支持接入到 Service Mes 
+    yum概述 基于rpm包构建的软件更新机制 可以自动解决依赖关系 所有软件包有集中的yum软件仓库提供 安装软件 命令：yum install [选项] 软件名 选项： -y （提示信息默认yes）  
     </details> 
 
-- 💪 [Android重学系列（三）：LiveData你应该要知道的那些事儿](https://juejin.cn/post/7137205629772693518) | Mon Aug 29 2022 8:03 AM 
+- 💪 [杂交水稻？PHP+Vue+Antd+Jquery](https://juejin.cn/post/7137186683048427557) | Mon Aug 29 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-    普及我们开发中使用LiveData容易忽视的几个小细节，如数据什么时候更新？如何理解status和action，LiveData的一些封装，以及LiveData的防倒灌和防丢失问题 
+    如何种一个杂交水稻? 啊不不不，是如何在PHP使用Vue+Jquery+antdUI组件 
     </details> 
 <!-- juejin:END -->
 ### 少数派
