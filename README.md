@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [8 月份全球 Wi-Fi6 技术标准更新](https://www.v2ex.com/t/876231#reply0) | Mon Aug 29 2022 8:21 AM
-- 🤗 [Django 怎么做同一个 url，对应不同的 view 函数？](https://www.v2ex.com/t/876228#reply1) | Mon Aug 29 2022 8:16 AM
-- 🎭 [土区 google 账户被封（全家桶被封），求教各位大佬](https://www.v2ex.com/t/876226#reply0) | Mon Aug 29 2022 8:14 AM
-- 🥷 [[面试必备] 我跟面试官聊了一个小时线程池！](https://www.v2ex.com/t/876224#reply0) | Mon Aug 29 2022 8:10 AM
-- 🐵 [现在写几个简单文本带输入框的页面用什么前端技术](https://www.v2ex.com/t/876213#reply6) | Mon Aug 29 2022 7:42 AM<!-- v2ex:END -->
+- 🥸 [crwebview : 支持运行 chrome extension 的 android webview](https://www.v2ex.com/t/876242#reply0) | Mon Aug 29 2022 8:45 AM
+- 🤗 [github 相关的 push pull clone 都很慢，挂代理了 clone 也只有 100kb/s 的速度,有什么解决办法么](https://www.v2ex.com/t/876241#reply12) | Mon Aug 29 2022 8:40 AM
+- 🎭 [买控件遇到问题，啥是 1 Developer And 1 Deployment Location ？](https://www.v2ex.com/t/876234#reply0) | Mon Aug 29 2022 8:32 AM
+- 🥷 [8 月份全球 Wi-Fi6 技术标准更新](https://www.v2ex.com/t/876231#reply0) | Mon Aug 29 2022 8:21 AM
+- 🐵 [Django 怎么做同一个 url，对应不同的 view 函数？](https://www.v2ex.com/t/876228#reply6) | Mon Aug 29 2022 8:16 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
