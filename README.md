@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Python 实现 Windows 微信消息通知（可显示发送人和消息内容）](https://www.v2ex.com/t/876098#reply0) | Mon Aug 29 2022 2:06 AM
-- 🤗 [你永远可以相信微软的本地化](https://www.v2ex.com/t/876092#reply7) | Mon Aug 29 2022 1:53 AM
-- 🎭 [开源 k8s 的教程，全实战引导！顺带问各位大佬一个问题～](https://www.v2ex.com/t/876087#reply4) | Mon Aug 29 2022 1:36 AM
-- 🥷 [分享文章： TCP 粘包？ TCP 警察什么梗](https://www.v2ex.com/t/876066#reply34) | Mon Aug 29 2022 12:02 AM
-- 🐵 [Ubuntu 有办法在 root 被挂载前进入 Shell 吗？](https://www.v2ex.com/t/876061#reply3) | Sun Aug 28 2022 7:24 PM<!-- v2ex:END -->
+- 🥸 [The next-gen knowledge base to replace Notion &amp; Miro, Open-source, Privacy first, local-host.](https://www.v2ex.com/t/876164#reply0) | Mon Aug 29 2022 4:39 AM
+- 🤗 [您如何看待开源和开源协议？](https://www.v2ex.com/t/876158#reply2) | Mon Aug 29 2022 4:23 AM
+- 🎭 [有没有拼团学习中文 google analytics 课程的人吗？包含 GA4 网站,APP 分析方法。上车每人 200 元/300 天。](https://www.v2ex.com/t/876151#reply1) | Mon Aug 29 2022 4:01 AM
+- 🥷 [周末发现 vercel.app 被墙了](https://www.v2ex.com/t/876139#reply6) | Mon Aug 29 2022 3:27 AM
+- 🐵 [请问快速熟悉别人的前端项目各位有什么技巧嘛？](https://www.v2ex.com/t/876119#reply12) | Mon Aug 29 2022 2:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
