@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0829](http://jandan.net/p/111229) | Mon Aug 29 2022 3:00 AM 
+- 🚀 [脑半球切除术并未影响患者成年后的面部和文字识别能力](http://jandan.net/p/111170) | Mon Aug 29 2022 5:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    我记得全球第一例脑半球切除手术是在美国，半年多以后，上海就成功完成了第二例 
+    </details> 
+
+- 🙉 [今日好价 0829](http://jandan.net/p/111229) | Mon Aug 29 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🙉 [地球的身板有可能支撑多个月亮绕自己转，还不翻车吗](http://jandan.net/p/111171) | Sun Aug 28 2022 3:51 PM 
+- 🎉 [地球的身板有可能支撑多个月亮绕自己转，还不翻车吗](http://jandan.net/p/111171) | Sun Aug 28 2022 3:51 PM 
     <details><summary>展开描述 ...</summary> 
     如果看到天上有好几轮月亮，那说明你已经穿越了 
     </details> 
 
-- 🎉 [牙齿或许进化自嘴边的鳞片](http://jandan.net/p/111227) | Sun Aug 28 2022 8:25 AM 
+- 🐲 [牙齿或许进化自嘴边的鳞片](http://jandan.net/p/111227) | Sun Aug 28 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
     有牙齿的脊椎动物应该有个共同祖先 
     </details> 
 
-- 🐲 [世界上另一个你 没有血缘关系但是长相近似的人，在身高体重和习惯上也相似](http://jandan.net/p/111206) | Sun Aug 28 2022 3:49 AM 
+-  [世界上另一个你 没有血缘关系但是长相近似的人，在身高体重和习惯上也相似](http://jandan.net/p/111206) | Sun Aug 28 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     人类的相似之处不仅仅是停留在肤浅的层面。 
-    </details> 
-
--  [今日好价 0828](http://jandan.net/p/111225) | Sun Aug 28 2022 2:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
