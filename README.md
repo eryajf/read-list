@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Rive - 类似于 Credit-on-UPI 的支付应用程序](https://xinquji.com/posts/179093?utm_campaign=xinquji-rss) | Mon Aug 29 2022 6:20 AM 
+- 👀 [SuprSend - 所有渠道的产品通知基础设施](https://xinquji.com/posts/179113?utm_campaign=xinquji-rss) | Tue Aug 30 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     类似于 Credit-on-UPI 的支付应用程序  
+     所有渠道的产品通知基础设施  
     </details> 
 
-- 🥷 [Leverage IELTS - 一个全面的雅思备考应用程序](https://xinquji.com/posts/179092?utm_campaign=xinquji-rss) | Mon Aug 29 2022 6:17 AM 
+- 🥷 [Poised 2.0 - 用于在线会议的人工智能沟通教练](https://xinquji.com/posts/179112?utm_campaign=xinquji-rss) | Tue Aug 30 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     一个全面的雅思备考应用程序  
+     用于在线会议的人工智能沟通教练  
     </details> 
 
-- 💼 [Quiz Hut - 有一些有趣的益智游戏的问答游戏](https://xinquji.com/posts/179091?utm_campaign=xinquji-rss) | Mon Aug 29 2022 6:15 AM 
+- 💼 [MakerBox Roasting - 在 48 小时内烤好您的着陆页](https://xinquji.com/posts/179111?utm_campaign=xinquji-rss) | Tue Aug 30 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     有一些有趣的益智游戏的问答游戏  
+     在 48 小时内烤好您的着陆页  
     </details> 
 
-- 🦅 [Abstract 3d illustrations - 用于设计项目的高质量 3D 图形](https://xinquji.com/posts/179090?utm_campaign=xinquji-rss) | Mon Aug 29 2022 6:13 AM 
+- 🦅 [Cirka - 您的个人预算，自动洞察](https://xinquji.com/posts/179110?utm_campaign=xinquji-rss) | Tue Aug 30 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     用于设计项目的高质量 3D 图形  
+     您的个人预算，自动洞察  
     </details> 
 
-- 😺 [YAKUCAP - 简单且隐私友好的 Cloudflare 替代方案](https://xinquji.com/posts/179089?utm_campaign=xinquji-rss) | Mon Aug 29 2022 6:13 AM 
+- 😺 [ProjectsForSale - 出售优质副项目](https://xinquji.com/posts/179109?utm_campaign=xinquji-rss) | Tue Aug 30 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     简单且隐私友好的 Cloudflare 替代方案  
+     出售优质副项目  
     </details> 
 <!-- xinquji:END -->
