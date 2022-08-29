@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [实现一个简单的长轮询](https://juejin.cn/post/7137124336783065125) | Mon Aug 29 2022 2:48 AM 
+- 🤗 [什么是快应用？与原生APP相比优势在哪里？](https://juejin.cn/post/7137222956324765709) | Mon Aug 29 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    现在各大中间件都使用了长轮询的数据交互方式，目前比较流行的例如Nacos的配置中心，RocketMQ Pull&lpar;拉模式&rpar;消息等，它们都是采用了长轮询方的式实现。就例如Nacos的配置中心，如何做到服务 
+    快速了解一下快应用 快应用是基于手机硬件平台的新型应用生态。 有很多运营者对快应用还比较陌生，因为到目前阶段，真正参与快应用生态建设的基本上都是头部互联网公司，很多应用企业还没有参与快应用生态的共建。 
     </details> 
 
-- 🎡 [理解SpringBoot的自动装配](https://juejin.cn/post/7137095650160115743) | Mon Aug 29 2022 12:57 AM 
+- 🎡 [导航定位组件简介](https://juejin.cn/post/7137220988290367501) | Mon Aug 29 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    围绕SpringBoot的核心功能讲解 SpringBoot自动配置的原理以及自动配置核心组件的运作过程。 
+    最近整理项目中用到的组件时，开发了导航定位的组件。当我们页面模块过多时，通过导航可以快速的定位到指定模块，提高用户体验。该组件基于vue3开发，使用IntersectionObserver，scrol 
     </details> 
 
-- 🕯 [commonJS模块，简单实现一个require](https://juejin.cn/post/7137095160151670820) | Mon Aug 29 2022 12:54 AM 
+- 🕯 [彩虹女神跃长空,Go语言进阶之Go语言高性能Web框架Iris项目实战-登录与图形验证码&lpar;captcha&rpar;EP06](https://juejin.cn/post/7137217712266149901) | Mon Aug 29 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    CommonJS模块是Node.js打包JavaScript代码的原始方式。 在Node.js中，每个文件都被视为一个单独的模块。 
+    书接上回，上一回我们按照“低耦合高内聚”的组织架构方针对项目的整体结构进行了优化，本回将会继续编写业务，那就是用户的登录逻辑，将之前用户管理模块中添加的用户账号进行账号和密码的校验，校验通过后留存 
     </details> 
 
-- 🚀 [从零打造基于vue3+ts+tsx+vite的antdv中后台管理系统&lpar;一&rpar;项目总览和环境搭建](https://juejin.cn/post/7137093609915940878) | Mon Aug 29 2022 12:49 AM 
+- 🚀 [Dubbo 3.1.0 正式发布，数据面原生接入 Service Mesh](https://juejin.cn/post/7137208653211238431) | Mon Aug 29 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-    &lt;a href=&quot;https://github.com/fhtwl/vue3-ts-antd-admin&quot; &gt;vue3-ts-antd-admin&lt;/a&gt;是基于 vue3、ts、tsx、vite 开发 
+    Apache Dubbo 3.1.0 作为 Dubbo 规划中的一个重要里程碑版本，标记着 Dubbo 在数据面上全面拥抱 Service Mesh 的工作模式，原生支持接入到 Service Mes 
     </details> 
 
-- 💪 [Bert不完全手册6. Bert在中文领域的尝试 Bert-WWM &amp; MacBert &amp; ChineseBert](https://juejin.cn/post/7137091704301027341) | Mon Aug 29 2022 12:42 AM 
+- 💪 [Android重学系列（三）：LiveData你应该要知道的那些事儿](https://juejin.cn/post/7137205629772693518) | Mon Aug 29 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-    这一章我们来聊聊在中文领域都有哪些预训练模型的改良方案。Bert-WWM，MacBert，ChineseBert分别从3个方向在预训练中补充中文文本的信息：词粒度信息，中文笔画信息，拼音信息 
+    普及我们开发中使用LiveData容易忽视的几个小细节，如数据什么时候更新？如何理解status和action，LiveData的一些封装，以及LiveData的防倒灌和防丢失问题 
     </details> 
 <!-- juejin:END -->
 ### 少数派
