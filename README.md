@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [是不是现在程序员门槛降低了？](https://www.v2ex.com/t/876178#reply22) | Mon Aug 29 2022 5:34 AM
-- 🤗 [独立产品灵感周刊 DecoHack #028 - 如何给你的项目取一个好名字](https://www.v2ex.com/t/876174#reply1) | Mon Aug 29 2022 5:27 AM
-- 🎭 [京东云无线宝与群晖联名的 NAS 怎么样](https://www.v2ex.com/t/876170#reply2) | Mon Aug 29 2022 5:05 AM
-- 🥷 [The next-gen knowledge base to replace Notion &amp; Miro, Open-source, Privacy first, local-host.](https://www.v2ex.com/t/876164#reply0) | Mon Aug 29 2022 4:39 AM
-- 🐵 [您如何看待开源和开源协议？](https://www.v2ex.com/t/876158#reply2) | Mon Aug 29 2022 4:23 AM<!-- v2ex:END -->
+- 🥸 [apache 基金会是怎么一回事](https://www.v2ex.com/t/876200#reply0) | Mon Aug 29 2022 7:13 AM
+- 🤗 [NTFS 原来那么强，可以把 12G 的文件，变成 140M。](https://www.v2ex.com/t/876196#reply15) | Mon Aug 29 2022 6:48 AM
+- 🎭 [是不是现在程序员门槛降低了？](https://www.v2ex.com/t/876178#reply56) | Mon Aug 29 2022 5:34 AM
+- 🥷 [独立产品灵感周刊 DecoHack #028 - 如何给你的项目取一个好名字](https://www.v2ex.com/t/876174#reply1) | Mon Aug 29 2022 5:27 AM
+- 🐵 [京东云无线宝与群晖联名的 NAS 怎么样](https://www.v2ex.com/t/876170#reply3) | Mon Aug 29 2022 5:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
