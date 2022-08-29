@@ -353,9 +353,9 @@
     LockBit表示正着手改进对DDoS攻击的防御，以应对来自安全机构的攻击，并借此来大力提高自身勒索能力。 
     </details> 
 
-- 💻 [FreeBuf早报 | 上半年DDoS攻击暴增203%；工信部通报47款侵害用户权益App和SDK](https://www.freebuf.com/news/343040.html) | Fri Aug 26 2022 10:25 AM 
+- 💻 [Java 内存马与 JSP 不得不说的那些事儿](https://www.freebuf.com/articles/web/343095.html) | Sat Aug 27 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-    工信部通报存在问题的 App（SDK）名单显示， 神州专车、网鱼、虎扑、零跑、宝沃汽车、奔腾 YOMI 等应用在列 。 
+    同样是内存马的基础，我是非常反对一开始上来就去直接看内存马的，看内存马之前起码要先搞清楚普通马是什么，不做脚本小子。 
     </details> 
 <!-- freebuf:END -->
 
