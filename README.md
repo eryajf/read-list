@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [共享充电宝价格暴涨400% 钱到底被谁赚了？](https://www.cnbeta.com/articles/tech/1310091.htm) | Mon Aug 29 2022 6:55 PM 
+- 🕯 [特斯拉在日本悄然建立了一个虚拟发电厂](https://www.cnbeta.com/articles/tech/1310105.htm) | Mon Aug 29 2022 11:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，“共享充电宝涨至4元/小时”“共享充电宝客服回应涨价”的话题冲上热搜。到底谁在推动价格上涨？对此，上游新闻记者近日对重庆市场进行了调查。“好贵啊！”近日，市民夏先生在重庆国博中心租用了街电共享充电宝，3小时不到就花了15元，让他直呼“用不起”。其他网友也纷纷称“充电宝刺客”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉的最新虚拟发电厂设在了日本。&lt;strong&gt;该公司逾周五宣布，自2021年以来，它一直悄悄地在宫古岛的家庭中安装其Powerwall电池，现在已经安装了300多个。&lt;/strong&gt;根据该声明，这是日本最大的商业虚拟发电厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [大众为何抛弃了赫伯特·迪斯？](https://www.cnbeta.com/articles/tech/1310089.htm) | Mon Aug 29 2022 5:42 PM 
+- 💼 [新Apple Watch研究正在努力减少房颤患者的血液稀释剂使用量](https://www.cnbeta.com/articles/tech/1310103.htm) | Mon Aug 29 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;再过3天，赫伯特·迪斯将正式离开大众集团CEO的宝座，而此时距离他原本合同到期还有3年。&lt;/strong&gt;以宝马CEO竞争失败者的身份出走，迪斯从德国南部一路往北，2015年加盟大众集团担任大众品牌CEO。在“柴油门”连续终结两任大众集团CEO后，来自慕尼黑的“外人”迪斯成为大众集团的CEO。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Apple Watch正在被用作一项研究的一部分以确定是否有可能减少用于预防中风和心房颤动的昂贵血液稀释剂的使用。&lt;/strong&gt;这项为期七年的研究从美国心肺和血液研究所获得了3700万美元的资金，旨在解决血液稀释剂的使用问题，这是一种通常用于预防心房颤动&lpar;AFib&rpar;的药物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [成都限电下的纯电网约车：通宵排队充电 每天都在“祈雨”](https://www.cnbeta.com/articles/tech/1310087.htm) | Mon Aug 29 2022 5:41 PM 
+- 💂 [安全功能成可怕噩梦 特斯拉因幽灵刹车被提起集体诉讼](https://www.cnbeta.com/articles/tech/1310101.htm) | Mon Aug 29 2022 11:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月26日下午4时许，成都市龙泉驿区某公共充电站早已排满等候充电的网约车和出租车。由于极端高温天气，川渝电力供需紧张，先后发布了有序用电政策。为响应政策要求，此时该充电站实际上还未开放充电。这些等候充电的司机要等到当天晚上十一点多才能充上电，排队靠前的司机或许可以在凌晨时分载满电回家休息，但等待时长在4~5个小时甚至通宵排队的也大有人在。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;诉讼文件显示，一名特斯拉Model 3的加州车主在一桩拟议的集体诉讼中起诉了特斯拉，原因是汽车为了不存在的障碍物而突然停下来，并称这是一场“可怕而危险的噩梦”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国银行停止ATM机扫码存款业务](https://www.cnbeta.com/articles/tech/1310085.htm) | Mon Aug 29 2022 4:17 PM 
+- 🚀 [华为首款NAS“华为家庭存储”即将到来 支持手机、PC扩容](https://www.cnbeta.com/articles/tech/1310099.htm) | Mon Aug 29 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月26日，中国银行发布《关于调整ATM二维码存款业务的公告》。公告称，&lt;strong&gt;将于8月29日起，调整ATM二维码存款服务。调整后，ATM无卡扫码存款功能将停止，用户仍可持该行银行卡办理ATM存款或前往该行营业网点办理存款业务。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月6日，华为将举行Mate 50系列及全场景新品秋季发布会，随着发布会临近，关于这场新品发布会的“猛料”也越来越多。除华为Mate 50系列外，华为首款NAS产品也有望在发布会上登场。日前，有博主晒出了一款名为“华为家庭存储”的包装盒，并称是9月6日发布会上其中一款新品，从包装盒来看，&lt;strong&gt;这款产品支持手机、PC扩容，金融级隐私保护、图片搜索秒级呈现等特性。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果已完成iPhone 14卫星连接的硬件测试 但能否推出取决于合作伙伴](https://www.cnbeta.com/articles/tech/1310083.htm) | Mon Aug 29 2022 4:12 PM 
+- 🎊 [iPhone 14系列屏幕由三家供应商提供：三星占大头](https://www.cnbeta.com/articles/tech/1310097.htm) | Mon Aug 29 2022 11:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据苹果产业链分析师郭明錤称，苹果公司确实在为iPhone 14进行卫星连接方面的研发，并在量产前完成了该功能的硬件测试。郭明錤说，苹果现在已经有了有卫星连接的硬件支持，但iPhone 14是否会支持卫星通信取决于&amp;quot;苹果和运营商是否能解决其商业模式&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月30日消息，业内人士Ross Young透露，iPhone 14系列面板供应商有三家，分别是三星、京东方和LG Display。在6月到9月这3个月时间里，iPhone 14系列有82%的面板由三星提供，去年同期三星面板在iPhone 13系列份额中占到了83%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
