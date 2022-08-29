@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [送老赖“社死”体验：抖音精准弹窗 整条街、整个村都知道了](https://www.cnbeta.com/articles/tech/1309975.htm) | Mon Aug 29 2022 10:02 AM 
+- 🕯 [NASA SLS重型火箭因燃料泄漏推迟至9月2日发射](https://www.cnbeta.com/articles/science/1309993.htm) | Mon Aug 29 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;抖音突然弹出同一个街道、同一个村的人，还曝光ta是老赖，相信每个人都会避而远之。这种让老赖彻底“社死”的弹窗在抖音实现了。据“杭州中院”消息，上周，杭州市富阳区富春街道、常安镇沧州村、万市镇新民村的“抖音”用户都会收到类似这样一条失信曝光弹窗消息：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;按照此前计划，8月29日晚间20:33分，美国宇航局&lpar;NASA&rpar;将执行“阿耳忒弥斯1号”任务，试射“太空发射系统”&lpar;SLS&rpar;运载火箭，开启重返月球的第一步。但此次备受关注的火箭发射任务，今晚将不能如期上演了。8月29日，据报道，&lt;strong&gt;NASA “太空发射系统” 重型火箭因燃料泄漏推迟发射，下一次发射时间最早为当地时间9月2日。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [太空种菜成了：中国空间站的水稻、拟南芥长势喜人](https://www.cnbeta.com/articles/science/1309973.htm) | Mon Aug 29 2022 10:02 AM 
+- 💼 [NVIDIA再次强调：我们真不知道矿卡影响有多大](https://www.cnbeta.com/articles/tech/1309991.htm) | Mon Aug 29 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着问天实验舱上行、在中国空间站内进行的高等植物培养实验，已经取得阶段性进展，拟南芥和水稻种子样品的生长状态良好。&lt;/strong&gt;7月28日，载有实验样品拟南芥种子和水稻种子的实验单元，由航天员安装至问天实验舱的生命生态通用实验模块中，并于7月29日启动实验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久NVIDIA发布了23财年Q2季度财报，一如之前预计的那样，游戏业务跌了33%，显卡价格大幅下滑，而且现在还是库存积压严重，CEO黄仁勋表示会跟显卡厂商合作调整价格，预计9月份显卡价格还会接着跌。AMD那边的情况也差不多，&lt;strong&gt;RX 6000系列跟RTX 30系列一样都面临库存调整的问题，继续降价也没跑。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [索尼收购手游开发商Savage Game Studios：PlayStation大家庭新增一员](https://hot.cnbeta.com/articles/game/1309971.htm) | Mon Aug 29 2022 9:57 AM 
+- 💂 [MPQ团队利用单个铷原子产生了数量破纪录的量子纠缠光子簇](https://www.cnbeta.com/articles/science/1309989.htm) | Mon Aug 29 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼 PlayStation 部门刚刚宣布了对 Savage Game Studios 的收购。&lt;strong&gt;作为一家扎根德国（柏林）与芬兰（赫尔辛基）的游戏开发团队，其专注于为移动平台开发动作类游戏。&lt;/strong&gt;公司Savage Game Studios 首席执行官兼联合创始人 Michail Katkoff 向 PlayStation 玩家介绍道，他与 Nadjim Adjir 和 Michael McManus 携手，于 2020 年成立了该工作室。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在 2022 年 8 月 24 日发表于《自然》杂志上的一篇文章中，&lt;strong&gt;来自马克斯·普朗克量子光学研究所（MPQ）的一支团队，详细介绍了一种高效驱动光量子纠缠的新方法。&lt;/strong&gt;虽然听起来有些违反直觉，但数十年来的量子实验已经充分证明 —— 无论相距多远，改变其中一个结对粒子的状态、就会同步改变另一粒子的状态。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软Windows 11预览版开始启用Terminal为默认命令行工具](https://www.cnbeta.com/articles/tech/1309969.htm) | Mon Aug 29 2022 9:56 AM 
+- 🚀 [加州正式提案延长核电厂寿命 为能源转型过渡期提供弹性](https://www.cnbeta.com/articles/tech/1309987.htm) | Mon Aug 29 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如今的Windows系统都是图形化界面，绝大多数人已经不会使用命令行了，只有个别老鸟还会在系统有问题时调用CMD来调试、检查，不过在最新版Win11系统上，CMD命令行要退休了，默认启用的是新一代的Windows Terminal软件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;当地时间上周日（8月28日），美国加利福尼亚州政府提出一项法案，要求延长该州最后一座核电厂的使用期限，以帮助从化石燃料转向可再生能源的平滑过渡。&lt;/strong&gt;这项法案由民主党籍加州州长加文·纽瑟姆（Gavin Newsom）提出，他希望能在8月31日结束的立法会会期之内通过。不过，这项法案受到了环保组织激烈反对，将面临来自党内州议员的不小压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“年薪1.2亿博士研发能用2.8万年的电池”系自媒体炒作旧闻 纯属无稽之谈](https://www.cnbeta.com/articles/tech/1309967.htm) | Mon Aug 29 2022 9:56 AM 
+- 🎊 [欧盟法院驳回对高通约10亿美元罚款后 传欧盟反垄断机构不会对该裁决提出上诉](https://www.cnbeta.com/articles/tech/1309985.htm) | Mon Aug 29 2022 11:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，&lt;strong&gt;博士刘本良曾经在国内求职5000月薪未果，转身投奔美国搞出充一次电能用2.8万年的电池，年薪1.2亿美刀的消息热传。&lt;/strong&gt;据报道，在求职节目《非你莫属》中，35岁的科研型博士刘本良前来求职，自称在香港大学攻读博士，研究的方向是金属材料学，读博期间他对能源方向产生兴趣，转攻冷聚变方向。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据知情人士透露，欧盟反垄断监管机构将不会对欧洲第二高等法院驳回其对高通9.97亿欧元（约合9.91亿美元）罚款的裁决提出上诉。据悉，在6月中旬时，欧洲第二高等法院撤销了欧盟委员会在2018年对美国芯片制造商高通开出的约10亿美元的反垄断罚单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
