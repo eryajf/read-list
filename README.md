@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《富坚义博展》最新概念原画公开 10月28日开幕](https://hot.cnbeta.com/articles/comic/1309759.htm) | Mon Aug 29 2022 2:06 AM 
+- 🕯 [DART确认目标小行星Dimorphos的轨道](https://www.cnbeta.com/articles/science/1309845.htm) | Mon Aug 29 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《富坚义博展-PUZZLE-》即将于10月28日～2023年1月9日期间开幕，日前官方再次公开了部分展会新情报，包括概念设计图以及部分精彩预定参展原画，一起来欣赏下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1309759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;DART调查小组利用世界上一些最强大的望远镜在上月完成了一个为期六天的观测活动，从而确认了先前对Dimorphos--DART目标小行星的轨道的计算结果。Dimorphos在其较大的母小行星Didymos周围的轨道上。这些观测结果确认了小行星在撞击时的预期位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华为Mate 50 RS保时捷设计版公布 全新拼色设计](https://www.cnbeta.com/articles/tech/1309757.htm) | Mon Aug 29 2022 1:52 AM 
+- 💼 [MTV VMAs：阿姆和史努比·狗狗在元宇宙中奉上“无聊猿猴”表演](https://hot.cnbeta.com/articles/music/1309843.htm) | Mon Aug 29 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在官宣华为Mate 50系列9月6日发布后，华为官方终于在今天开启了新一轮预热。今日，华为手机官微晒出预热海报，&lt;strong&gt;从海报中“汽车”和“&lt;/strong&gt;&lt;strong&gt;激光镭雕工艺赛道线&lt;/strong&gt;&lt;strong&gt;”两个关键信息来看，正是此前传闻的华为Mate 50 RS保时捷设计版。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;无聊猿猴游艇俱乐部&lpar;Bored Ape Yacht Club&rpar;已经进入了约十几位名人的Twitter账号，从《Tonight Show with Jimmy Fallon》中的一个怪异场景到MTV VMAs。&lt;strong&gt;本周日，阿姆&lpar;Eminem&rpar;和史努比·狗狗&lpar;Snoop Dogg&rpar;--两位知名的无聊猿猴游艇俱乐部NFT持有者--唱了他们的最新歌曲，简直就是他们在无聊猿猴游艇俱乐部的另一个自我。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1309843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“三桶油”上半年日赚超10亿 中石油业绩创历年最佳](https://www.cnbeta.com/articles/tech/1309755.htm) | Mon Aug 29 2022 1:51 AM 
+- 💂 [5nm锐龙7000全押DDR5内存 AMD：性能、能效都是优势](https://www.cnbeta.com/articles/tech/1309839.htm) | Mon Aug 29 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，中国石油、中国海油和中国石化半年报已相继披露完毕，在上半年国际油价大幅上涨背景下，“三桶油”经营业绩也实现了正增长。本周四晚间，中国石油、中国海油率先公布半年报，中国石油上半年实现营业收入1.61万亿元，比上年同期增长34.9%；归属于母公司股东净利润823.91亿元，比上年同期增长55.3%。值得一提的是，中国石油今年上半年的业绩创下了历年同期最好水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel去年底在12代酷睿上首发DDR5内存的同时也保留了DDR4兼容，今年的13代酷睿也会如此，然而AMD今年在5nm Zen4架构锐龙7000上要激进很多，押注DDR5内存，放弃了DDR4兼容。此前有传闻称AMD会在AM4平台推出一个兼容DDR4的Zen4处理器，但是目前还不能100%确认，反正现在的消息来看AMD是铁了心在AM5上推动DDR5内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [华为Mate 50预约数已超百万：下周正式登场](https://www.cnbeta.com/articles/tech/1309753.htm) | Mon Aug 29 2022 1:51 AM 
+- 🚀 [几个月下跌超80％，虚拟房产需警惕](https://www.cnbeta.com/articles/tech/1309837.htm) | Mon Aug 29 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周，华为已经正式宣布，将于9月6日召开新品发布会，正式推出阔别两年的Mate 50系列旗舰。同时官网也开启了新机的预约活动，根据官方数据显示，&lt;strong&gt;目前Mate 50系列的预约数已经突破了百万，截至发稿前停留在114万人。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去元宇宙买一块地皮、购一套房子，将现实生活里无法安放的灵魂寄托在虚拟世界中，一度成为潮流。今年年初，“炒房热”刮进了元宇宙，虚拟地产、虚拟房产频频刷出价格新高，最火时，国外一块不足5平方米的虚拟土地卖出逾400万美元的天价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [发射台遭3次雷击影响轻微 美国新一代登月火箭按原计划发射](https://www.cnbeta.com/articles/science/1309751.htm) | Mon Aug 29 2022 1:50 AM 
+- 🎊 [传保时捷9月宣布IPO计划，估值最高达850亿美元](https://www.cnbeta.com/articles/tech/1309835.htm) | Mon Aug 29 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月29日消息，当地时间8月27日，&lt;strong&gt;美国新一代登月火箭“太空发射系统”所在的肯定尼迪航天中心39B发射台避雷装置3次遭雷击。&lt;/strong&gt;太空发射系统拟于29日8时33分至10时33分发射升空，雷击发生时已进入48小时倒计时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据 知情人士透露，保时捷已吸引了投资者对其首次公开募股（IPO）的兴趣，估值最高可达850亿美元，成为欧洲有史以来规模最大的IPO之一。这表明尽管市场面临阻力，但保时捷的IPO仍将继续进行。知情人士表示，保时捷已获得600亿至850亿欧元（合850亿美元）的发行股份预订单。如果市场没有遭遇意外的震荡，保时捷计划在获得监事会批准后，于9月第一周宣布在法兰克福上市的计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
