@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [架构图分类详解](https://juejin.cn/post/7137250779928199181) | Mon Aug 29 2022 10:58 AM 
+- 🤗 [微信小程序配置自动化部署](https://juejin.cn/post/7137263339318542344) | Mon Aug 29 2022 11:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    方式一：命令行V2 方式二：CI（推荐） 首先需要在小程序配置并下载密钥，参考https://developers.weixin.qq.com/miniprogram/dev/devtools/ci. 
+    </details> 
+
+- 🎡 [2022前端面试经历（郑州）](https://juejin.cn/post/7137261512296497182) | Mon Aug 29 2022 11:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    中国电信集成（过了） vue生命周期 webpack打包机制 v-if v-show 如何实现一个深拷贝 敏捷开发的思维模式 牧原股份一面（（过了，主动放弃二面） 讲一下react hooks内部实现 
+    </details> 
+
+- 🕯 [架构图分类详解](https://juejin.cn/post/7137250779928199181) | Mon Aug 29 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
     架构图是程序员工作中必不可少的技能，好的架构图能言简意赅的传递关键的业务和技术信息。本文对家沟通种类、流派进行整体介绍分享。 
     </details> 
 
-- 🎡 [架构图分类详解](https://juejin.cn/post/7137250515074678821) | Mon Aug 29 2022 10:57 AM 
+- 🚀 [架构图分类详解](https://juejin.cn/post/7137250515074678821) | Mon Aug 29 2022 10:57 AM 
     <details><summary>展开描述 ...</summary> 
     架构图是程序员工作中必不可少的技能，好的架构图能言简意赅的传递关键的业务和技术信息。本文对家沟通种类、流派进行整体介绍分享。 
     </details> 
 
-- 🕯 [搞清楚 Go Mod的版本和伪版本，下次别乱用了](https://juejin.cn/post/7137238803005538334) | Mon Aug 29 2022 10:12 AM 
+- 💪 [Spring源码分析&lpar;二&rpar;Spring怎么扩展解析xml接口的](https://juejin.cn/post/7137246441814097951) | Mon Aug 29 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
-    关于 Go 项目的依赖管理的日常使用以及遇到的问题怎么解决，俺已经写过两篇文章了。 项目使用GoModules管理依赖的方法和经验总结 Go Modules怎么管理私有依赖 今天再跟大家唠一下 Go  
-    </details> 
-
-- 🚀 [小册上新｜技术面试，逃不掉分布式服务原理这一关](https://juejin.cn/post/7137238332227977229) | Mon Aug 29 2022 10:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    资深技术专家天涯兰，通过“技术原理剖析+面试技巧演练”，带你攻克分布式面试核心考点，轻松拿下大厂高薪 Offer！ 
-    </details> 
-
-- 💪 [阿里云金融创新峰会云原生分论坛圆满举办，加速金融行业落地云原生](https://juejin.cn/post/7137235484572385288) | Mon Aug 29 2022 9:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    2022 年 8 月 25 日，阿里云金融创新峰会-云原生，端到端技术创新引擎分论坛在阿里巴巴西溪园区圆满举办，多位技术大咖分享在金融行业落地云原生的相关议题。 
+    自定义Spring配置 https://blog.csdn.net/bingduanlbd/article/details/38770685 BeanDefinitionParserDelegate 
     </details> 
 <!-- juejin:END -->
 ### 少数派
