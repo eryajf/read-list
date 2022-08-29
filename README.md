@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [神经科学家解释了饮食如何影响情绪、行为和其他方面](https://www.cnbeta.com/articles/science/1309947.htm) | Mon Aug 29 2022 9:08 AM 
+- 🕯 [送老赖“社死”体验：抖音精准弹窗 整条街、整个村都知道了](https://www.cnbeta.com/articles/tech/1309975.htm) | Mon Aug 29 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在15和16世纪漫长的航海旅行中，即所谓的 “地理大发现”，水手们经历了对美味的食物和青翠的田野的幻想。在海上航行数月后，他们发现这些只不过是幻觉，这让人非常痛苦。一些水手因渴望而哭泣，另一些则投海自尽。人们怀疑治疗这些令人痛苦的“海市蜃楼”的方法将是一种复杂的化学物质的混合物。然而，事实证明，解药非常简单：柠檬汁。&lt;strong&gt;这些水手患有坏血病，这是一种由维生素C缺乏引起的疾病，维生素C是一种重要的微量营养素，人们通过吃水果和蔬菜获得。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;抖音突然弹出同一个街道、同一个村的人，还曝光ta是老赖，相信每个人都会避而远之。这种让老赖彻底“社死”的弹窗在抖音实现了。据“杭州中院”消息，上周，杭州市富阳区富春街道、常安镇沧州村、万市镇新民村的“抖音”用户都会收到类似这样一条失信曝光弹窗消息：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [机构：欧洲在量子计算领域的领先地位将会被中美超越](https://www.cnbeta.com/articles/science/1309945.htm) | Mon Aug 29 2022 8:59 AM 
+- 💼 [太空种菜成了：中国空间站的水稻、拟南芥长势喜人](https://www.cnbeta.com/articles/science/1309973.htm) | Mon Aug 29 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;波士顿咨询集团（BCG）最近发布了一份报告，认为欧洲可能在未来将失去在量子计算领域的良好地位。&lt;/strong&gt;报告显示，未来15到30年，量子计算可能产生4500亿至8500亿美元的价值。报告认为，在对该行业的全面考察中，欧洲在基础研究和公共支持方面是领先者之一，但它面临着缺乏内部协调、私人资本投资、培养有才华和训练有素的劳动力的渠道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;随着问天实验舱上行、在中国空间站内进行的高等植物培养实验，已经取得阶段性进展，拟南芥和水稻种子样品的生长状态良好。&lt;/strong&gt;7月28日，载有实验样品拟南芥种子和水稻种子的实验单元，由航天员安装至问天实验舱的生命生态通用实验模块中，并于7月29日启动实验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Debian社区将决定是否把Non-Free Firmware存档添加进官方安装包](https://www.cnbeta.com/articles/tech/1309943.htm) | Mon Aug 29 2022 8:59 AM 
+- 💂 [索尼收购手游开发商Savage Game Studios：PlayStation大家庭新增一员](https://hot.cnbeta.com/articles/game/1309971.htm) | Mon Aug 29 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Phoronix 报道称：现阶段，Debian 默认不会在系统上加载非自由固件。&lt;strong&gt;但在年初讨论了立场调整之后，官方正希望通过一项旨在改变 Non-Free Firmware 应对政策的通用决议。&lt;/strong&gt;在九月投票之前，Debian 社区正在积极探讨这一提案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼 PlayStation 部门刚刚宣布了对 Savage Game Studios 的收购。&lt;strong&gt;作为一家扎根德国（柏林）与芬兰（赫尔辛基）的游戏开发团队，其专注于为移动平台开发动作类游戏。&lt;/strong&gt;公司Savage Game Studios 首席执行官兼联合创始人 Michail Katkoff 向 PlayStation 玩家介绍道，他与 Nadjim Adjir 和 Michael McManus 携手，于 2020 年成立了该工作室。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1309971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [0镍0钴成本骤降 中创新航行业首发OS高锰铁锂电池](https://www.cnbeta.com/articles/tech/1309941.htm) | Mon Aug 29 2022 8:50 AM 
+- 🚀 [微软Windows 11预览版开始启用Terminal为默认命令行工具](https://www.cnbeta.com/articles/tech/1309969.htm) | Mon Aug 29 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中创新航官方消息，8月28日，中创新航副总裁谢秋在2022世界新能源汽车大会&lpar;WNEVC&rpar;上发表关于《OS高锰铁锂电池》的主题演讲，并宣布业内首发OS高锰铁锂电池。谢秋称，在去年海南的世界新能源汽车大会上发布OS的电池平台技术，&lt;strong&gt;经过一年多时间的努力，已经完成了中试，目前正在相关配套车型进行可靠性试验。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如今的Windows系统都是图形化界面，绝大多数人已经不会使用命令行了，只有个别老鸟还会在系统有问题时调用CMD来调试、检查，不过在最新版Win11系统上，CMD命令行要退休了，默认启用的是新一代的Windows Terminal软件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [科学家展示锂金属电池设计：在空心多孔碳结构中储存离子以实现快速充电](https://www.cnbeta.com/articles/science/1309939.htm) | Mon Aug 29 2022 8:50 AM 
+- 🎊 [“年薪1.2亿博士研发能用2.8万年的电池”系自媒体炒作旧闻 纯属无稽之谈](https://www.cnbeta.com/articles/tech/1309967.htm) | Mon Aug 29 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，&lt;strong&gt;韩国国家科技研究委员会的科学家们展示了一种很有前景的新电池结构，这种结构可以大大改善容量和充电时间。&lt;/strong&gt;这一突破源于高密度锂金属电池的新设计，该设计仔细控制有问题的离子生长，使其能够在数百次循环中保持功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，&lt;strong&gt;博士刘本良曾经在国内求职5000月薪未果，转身投奔美国搞出充一次电能用2.8万年的电池，年薪1.2亿美刀的消息热传。&lt;/strong&gt;据报道，在求职节目《非你莫属》中，35岁的科研型博士刘本良前来求职，自称在香港大学攻读博士，研究的方向是金属材料学，读博期间他对能源方向产生兴趣，转攻冷聚变方向。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
