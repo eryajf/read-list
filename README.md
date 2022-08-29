@@ -364,8 +364,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [国内的安卓手机在国内不用梯子的情况下能接收来自 fcm 的推送吗](https://www.v2ex.com/t/876355#reply0) | Mon Aug 29 2022 6:53 PM
-- 🤗 [新人想问下怎么称呼老员工，王工，刘工，这样吗？](https://www.v2ex.com/t/876341#reply20) | Mon Aug 29 2022 4:12 PM
+- 🥸 [国内的安卓手机在国内不用梯子的情况下能接收来自 fcm 的推送吗](https://www.v2ex.com/t/876355#reply2) | Mon Aug 29 2022 6:53 PM
+- 🤗 [新人想问下怎么称呼老员工，王工，刘工，这样吗？](https://www.v2ex.com/t/876341#reply22) | Mon Aug 29 2022 4:12 PM
 - 🎭 [Python 如何入门面向对象呢](https://www.v2ex.com/t/876332#reply6) | Mon Aug 29 2022 3:33 PM
 - 🥷 [显示器挂灯求推荐](https://www.v2ex.com/t/876329#reply0) | Mon Aug 29 2022 3:08 PM
 - 🐵 [[cpu]双核 cpu 限制最高利用率 48%的时候,是双核轮流工作还是固定一个核.如果是固定核心的话,重启后每次会随机指定核心么?](https://www.v2ex.com/t/876326#reply3) | Mon Aug 29 2022 2:48 PM<!-- v2ex:END -->
