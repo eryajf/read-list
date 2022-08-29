@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NASA SLS重型火箭因燃料泄漏推迟至9月2日发射](https://www.cnbeta.com/articles/science/1309993.htm) | Mon Aug 29 2022 11:14 AM 
+- 🕯 [分析认为市场对iPhone 14的需求将明显偏向于Pro机型](https://www.cnbeta.com/articles/tech/1310017.htm) | Mon Aug 29 2022 12:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;按照此前计划，8月29日晚间20:33分，美国宇航局&lpar;NASA&rpar;将执行“阿耳忒弥斯1号”任务，试射“太空发射系统”&lpar;SLS&rpar;运载火箭，开启重返月球的第一步。但此次备受关注的火箭发射任务，今晚将不能如期上演了。8月29日，据报道，&lt;strong&gt;NASA “太空发射系统” 重型火箭因燃料泄漏推迟发射，下一次发射时间最早为当地时间9月2日。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Wedbush分析师认为，苹果的供应链对iPhone 14的推出处于有利地位，通过消费者转向Pro机型，预计平均销售价格会提高。&lt;/strong&gt;Wedbush分析师Daniel Ives和John Katsingris在一份说明中称，预计在9月7日的活动中推出的iPhone 14将是苹果及其管理层的一个&amp;quot;巨大成就&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NVIDIA再次强调：我们真不知道矿卡影响有多大](https://www.cnbeta.com/articles/tech/1309991.htm) | Mon Aug 29 2022 11:10 AM 
+- 💼 [NFT热潮遭遇急刹车 OpenSea在90天内录得99%的交易量下降](https://www.cnbeta.com/articles/science/1310015.htm) | Mon Aug 29 2022 12:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久NVIDIA发布了23财年Q2季度财报，一如之前预计的那样，游戏业务跌了33%，显卡价格大幅下滑，而且现在还是库存积压严重，CEO黄仁勋表示会跟显卡厂商合作调整价格，预计9月份显卡价格还会接着跌。AMD那边的情况也差不多，&lt;strong&gt;RX 6000系列跟RTX 30系列一样都面临库存调整的问题，继续降价也没跑。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;OpenSea，加密货币世界中最广泛认可的NFT市场之一，高速发展的它近期就像是撞上了一堵厚厚的墙。&lt;/strong&gt;交易量的缺失是最大的变化：这个分散的市场在短短90天内，NFT交易量下降了99%。从5月1日的4.0575亿美元的高点，非Fungible代币的交易量在整个8月份已经逐渐减少到只有500万美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [MPQ团队利用单个铷原子产生了数量破纪录的量子纠缠光子簇](https://www.cnbeta.com/articles/science/1309989.htm) | Mon Aug 29 2022 11:06 AM 
+- 💂 [博主展示华为HarmonyOS新版负一屏：Mate 50系列首发用上](https://www.cnbeta.com/articles/tech/1310013.htm) | Mon Aug 29 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 2022 年 8 月 24 日发表于《自然》杂志上的一篇文章中，&lt;strong&gt;来自马克斯·普朗克量子光学研究所（MPQ）的一支团队，详细介绍了一种高效驱动光量子纠缠的新方法。&lt;/strong&gt;虽然听起来有些违反直觉，但数十年来的量子实验已经充分证明 —— 无论相距多远，改变其中一个结对粒子的状态、就会同步改变另一粒子的状态。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，微博博主厂长是关同学放出了华为负一屏“智慧助手·今天”的新版界面，并展示了其更新内容。从更新要求来看，&lt;strong&gt;这套全新的负一屏将在Mate 50系列身上首次亮相，后续再逐步推送给其他机型。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [加州正式提案延长核电厂寿命 为能源转型过渡期提供弹性](https://www.cnbeta.com/articles/tech/1309987.htm) | Mon Aug 29 2022 11:05 AM 
+- 🚀 [SWEL宣称Waveline Magnet“乘浪”发电机可带来成本超低的清洁能源](https://www.cnbeta.com/articles/tech/1310011.htm) | Mon Aug 29 2022 11:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;当地时间上周日（8月28日），美国加利福尼亚州政府提出一项法案，要求延长该州最后一座核电厂的使用期限，以帮助从化石燃料转向可再生能源的平滑过渡。&lt;/strong&gt;这项法案由民主党籍加州州长加文·纽瑟姆（Gavin Newsom）提出，他希望能在8月31日结束的立法会会期之内通过。不过，这项法案受到了环保组织激烈反对，将面临来自党内州议员的不小压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;十多年来，SeaWave Energy Ltd（以下简称 SWEL）一直致力于开发一种被称作“Waveline Magnet”的浮动式波浪能设备。&lt;/strong&gt;该公司声称，其在海面上的原型测试表明，这套方案兼具“超低成本”和“超高产出”。换言之，这种“乘浪发电机”（wave-riding generators）有望带来更加实惠的清洁能源。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [欧盟法院驳回对高通约10亿美元罚款后 传欧盟反垄断机构不会对该裁决提出上诉](https://www.cnbeta.com/articles/tech/1309985.htm) | Mon Aug 29 2022 11:00 AM 
+- 🎊 [消息称欧盟放弃上诉：高通最终赢得10亿美元反垄断上诉案](https://www.cnbeta.com/articles/tech/1310009.htm) | Mon Aug 29 2022 11:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据知情人士透露，欧盟反垄断监管机构将不会对欧洲第二高等法院驳回其对高通9.97亿欧元（约合9.91亿美元）罚款的裁决提出上诉。据悉，在6月中旬时，欧洲第二高等法院撤销了欧盟委员会在2018年对美国芯片制造商高通开出的约10亿美元的反垄断罚单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，知情人士今日称，欧盟反垄断监管机构“欧盟委员会”将不会对高通10亿美元的反垄断案提起上诉，因为很难说服欧盟最高法院做出有利于自己的裁决。这起案件始于2018年，当时，欧盟委员会曾宣布对高通处以9.97亿欧元（约合9.91亿美元）的反垄断罚款。原因是高通向苹果公司支付了巨额费用，要求苹果只使用其芯片，从而将英特尔等竞争对手拒之门外。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
