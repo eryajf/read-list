@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Moto Edge 30 Neo新渲染图曝光 即将登陆北美市场](https://www.cnbeta.com/articles/tech/1309921.htm) | Mon Aug 29 2022 8:16 AM 
+- 🕯 [神经科学家解释了饮食如何影响情绪、行为和其他方面](https://www.cnbeta.com/articles/science/1309947.htm) | Mon Aug 29 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然名字没有 Edge 30 / 30 Pro / Ulra / Lite 那样熟悉，&lt;strong&gt;但 91Mobiles 还是晒出了即将登陆北美市场的 Moto Edge 30 Neo 新机的规格和最新渲染图。&lt;/strong&gt;可知代号为“Miami”的该机采用了高通骁龙 695 芯片组，辅以 8GB RAM + 256GB ROM 存储组合、120Hz POLED 高刷屏、以及 4020 mAh 的电池。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在15和16世纪漫长的航海旅行中，即所谓的 “地理大发现”，水手们经历了对美味的食物和青翠的田野的幻想。在海上航行数月后，他们发现这些只不过是幻觉，这让人非常痛苦。一些水手因渴望而哭泣，另一些则投海自尽。人们怀疑治疗这些令人痛苦的“海市蜃楼”的方法将是一种复杂的化学物质的混合物。然而，事实证明，解药非常简单：柠檬汁。&lt;strong&gt;这些水手患有坏血病，这是一种由维生素C缺乏引起的疾病，维生素C是一种重要的微量营养素，人们通过吃水果和蔬菜获得。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14 Pro Max或9999元起 存储空间翻一倍](https://www.cnbeta.com/articles/tech/1309919.htm) | Mon Aug 29 2022 8:15 AM 
+- 💼 [机构：欧洲在量子计算领域的领先地位将会被中美超越](https://www.cnbeta.com/articles/science/1309945.htm) | Mon Aug 29 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone 14系列将在9月8日发布，也就是下周四的凌晨，届时四款新机将联袂登场。在临近发布会之际，有博主提前曝光了iPhone 14 Pro系列的售价，&lt;strong&gt;其中显示iPhone 14 Pro Max机型的起售价达到了9999元起售。&lt;/strong&gt;而去年的iPhone 13 Pro Max，起售价只有8999元，两者对比贵了1000元人民币，很多网友直呼苹果黑心。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;波士顿咨询集团（BCG）最近发布了一份报告，认为欧洲可能在未来将失去在量子计算领域的良好地位。&lt;/strong&gt;报告显示，未来15到30年，量子计算可能产生4500亿至8500亿美元的价值。报告认为，在对该行业的全面考察中，欧洲在基础研究和公共支持方面是领先者之一，但它面临着缺乏内部协调、私人资本投资、培养有才华和训练有素的劳动力的渠道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [奇瑞营销总裁：混动是当下新能源汽车的最优解](https://www.cnbeta.com/articles/tech/1309917.htm) | Mon Aug 29 2022 8:15 AM 
+- 💂 [Debian社区将决定是否把Non-Free Firmware存档添加进官方安装包](https://www.cnbeta.com/articles/tech/1309943.htm) | Mon Aug 29 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，成都车展仍在举办当中，奇瑞汽车在此次车展上带来了多款燃油与混动车型，除不久前上市的瑞虎8PRO、欧萌达，另有艾瑞泽8也在车展上开启预售。此外，奇瑞还全球首发奇瑞新能源混动技术品牌——“DP-i智能混动架构”，&lt;strong&gt;它由i-HEC智效、i-BMS智电、i-DHT 智芯三大系统组成。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Phoronix 报道称：现阶段，Debian 默认不会在系统上加载非自由固件。&lt;strong&gt;但在年初讨论了立场调整之后，官方正希望通过一项旨在改变 Non-Free Firmware 应对政策的通用决议。&lt;/strong&gt;在九月投票之前，Debian 社区正在积极探讨这一提案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [00后牧羊女孩走红：8分钟宰一只羊 与清秀外表反差大](https://hot.cnbeta.com/articles/funny/1309915.htm) | Mon Aug 29 2022 8:14 AM 
+- 🚀 [0镍0钴成本骤降 中创新航行业首发OS高锰铁锂电池](https://www.cnbeta.com/articles/tech/1309941.htm) | Mon Aug 29 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;短视频的兴起，除了让平凡人多了一种记录生活的方式，也因为互联网的传播便利，让更多人分享快乐。在抖音上，ID“灰太狼的羊”拥有近500万粉丝，视频获赞超3200万。据天山网报道，&lt;strong&gt;这背后的Up主实际上是来自新疆巴音郭楞蒙古自治州尉犁县的一位00后（2001年出生）姑娘惠然。和清秀文静外表不相符的是，女孩可以8分钟宰杀一只羊，网友还隐私调侃送她外号“荒漠屠夫”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1309915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中创新航官方消息，8月28日，中创新航副总裁谢秋在2022世界新能源汽车大会&lpar;WNEVC&rpar;上发表关于《OS高锰铁锂电池》的主题演讲，并宣布业内首发OS高锰铁锂电池。谢秋称，在去年海南的世界新能源汽车大会上发布OS的电池平台技术，&lt;strong&gt;经过一年多时间的努力，已经完成了中试，目前正在相关配套车型进行可靠性试验。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [PC版WPS“搬上”平板：华为PC应用引擎开启尝鲜](https://www.cnbeta.com/articles/tech/1309913.htm) | Mon Aug 29 2022 8:13 AM 
+- 🎊 [科学家展示锂金属电池设计：在空心多孔碳结构中储存离子以实现快速充电](https://www.cnbeta.com/articles/science/1309939.htm) | Mon Aug 29 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;早些时候，华为推出MatePad Pro 11时，曾打出了“是平板，也是电脑”的标语，&lt;strong&gt;并展示了在平板上使用PC版软件的“华为PC应用引擎”功能。&lt;/strong&gt;现在，&lt;strong&gt;该功能终于开启了尝鲜招募，拥有华为MatePad Pro11英寸版的用户可以报名申请。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1309913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，&lt;strong&gt;韩国国家科技研究委员会的科学家们展示了一种很有前景的新电池结构，这种结构可以大大改善容量和充电时间。&lt;/strong&gt;这一突破源于高密度锂金属电池的新设计，该设计仔细控制有问题的离子生长，使其能够在数百次循环中保持功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1309939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
