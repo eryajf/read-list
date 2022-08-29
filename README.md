@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [微信小程序配置自动化部署](https://juejin.cn/post/7137263339318542344) | Mon Aug 29 2022 11:47 AM 
+- 🤗 [SPA的弊端都知道，但是优化的这几种常见方案你都会不](https://juejin.cn/post/7137286604636291102) | Mon Aug 29 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
-    方式一：命令行V2 方式二：CI（推荐） 首先需要在小程序配置并下载密钥，参考https://developers.weixin.qq.com/miniprogram/dev/devtools/ci. 
+    一、什么是首屏加载 首屏时间（First Contentful Paint），指的是浏览器从响应用户输入网址地址，到首屏内容渲染完成的时间，此时整个网页不一定要全部渲染完成，但需要展示当前视窗需要的内 
     </details> 
 
-- 🎡 [2022前端面试经历（郑州）](https://juejin.cn/post/7137261512296497182) | Mon Aug 29 2022 11:40 AM 
+- 🎡 [Swift - LeetCode - 3 的幂](https://juejin.cn/post/7137277273236832263) | Mon Aug 29 2022 12:41 PM 
     <details><summary>展开描述 ...</summary> 
-    中国电信集成（过了） vue生命周期 webpack打包机制 v-if v-show 如何实现一个深拷贝 敏捷开发的思维模式 牧原股份一面（（过了，主动放弃二面） 讲一下react hooks内部实现 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第34天，点击查看活动详情  题目 给定一个整数，写一个函数来判断它是否是 $3$ 的幂次方。如果是，返回 $true$；否则，返回 
     </details> 
 
-- 🕯 [架构图分类详解](https://juejin.cn/post/7137250779928199181) | Mon Aug 29 2022 10:58 AM 
+- 🕯 [Google  |GCP  基础（一）](https://juejin.cn/post/7137274275441934373) | Mon Aug 29 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-    架构图是程序员工作中必不可少的技能，好的架构图能言简意赅的传递关键的业务和技术信息。本文对家沟通种类、流派进行整体介绍分享。 
+    对于大型企业或经验丰富的 Google Cloud 用户，拥有数十个乃至数千个 Google Cloud 项目的情况很常见。不同的单位使用 Google Cloud 的方式不尽相同 
     </details> 
 
-- 🚀 [架构图分类详解](https://juejin.cn/post/7137250515074678821) | Mon Aug 29 2022 10:57 AM 
+- 🚀 [程序员成长第二十三篇：如何带团队？](https://juejin.cn/post/7137273722754301965) | Mon Aug 29 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-    架构图是程序员工作中必不可少的技能，好的架构图能言简意赅的传递关键的业务和技术信息。本文对家沟通种类、流派进行整体介绍分享。 
+    如何带团队？简单讲就是言传身教。刚刚出生的婴儿就是通过模仿来学习的。你希望员工怎么做，你就怎么做。你自己都不愿意做的事情，就不要强加给员工去做。 
     </details> 
 
-- 💪 [Spring源码分析&lpar;二&rpar;Spring怎么扩展解析xml接口的](https://juejin.cn/post/7137246441814097951) | Mon Aug 29 2022 10:41 AM 
+- 💪 [深入理解计算机系统（2.5）------C语言中的有符号数和无符号数以及扩展和截断数字](https://juejin.cn/post/7137273338191151141) | Mon Aug 29 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-    自定义Spring配置 https://blog.csdn.net/bingduanlbd/article/details/38770685 BeanDefinitionParserDelegate 
+    上一篇博客我们讲解了计算机中整数的表示，包括无符号编码和补码编码，以及它们之间的互相转换，个人觉得那是非常重要的知识要点。这篇博客我们将介绍C语言中的有符号数和无符号数以及扩展和截断数字。 尽管 C 语言标准没有指定有符号数要采用某种编码表示，但是几乎所有的机器都使用补码。通常… 
     </details> 
 <!-- juejin:END -->
 ### 少数派
