@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [分析认为市场对iPhone 14的需求将明显偏向于Pro机型](https://www.cnbeta.com/articles/tech/1310017.htm) | Mon Aug 29 2022 12:06 PM 
+- 🕯 [因国会不批准额外资金 美国本周五将停止发放免费新冠检测盒](https://www.cnbeta.com/articles/tech/1310039.htm) | Mon Aug 29 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Wedbush分析师认为，苹果的供应链对iPhone 14的推出处于有利地位，通过消费者转向Pro机型，预计平均销售价格会提高。&lt;/strong&gt;Wedbush分析师Daniel Ives和John Katsingris在一份说明中称，预计在9月7日的活动中推出的iPhone 14将是苹果及其管理层的一个&amp;quot;巨大成就&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国政府的“一站式”新冠服务网站COVID.gov显示，本周五（9月2日）将停止向美国家庭提供免费的新冠病毒检测盒。网站称，暂停发放的原因是由于美国国会没有为该计划提供额外的资金来补充检测盒的库存。综合多家美国媒体报道，9月2日后新冠病毒检测盒的费用将转而让保险机构和民众承担。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NFT热潮遭遇急刹车 OpenSea在90天内录得99%的交易量下降](https://www.cnbeta.com/articles/science/1310015.htm) | Mon Aug 29 2022 12:03 PM 
+- 💼 [AMD Ryzen 7000 “Zen 4” 台式机CPU价格曝光](https://www.cnbeta.com/articles/tech/1310037.htm) | Mon Aug 29 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;OpenSea，加密货币世界中最广泛认可的NFT市场之一，高速发展的它近期就像是撞上了一堵厚厚的墙。&lt;/strong&gt;交易量的缺失是最大的变化：这个分散的市场在短短90天内，NFT交易量下降了99%。从5月1日的4.0575亿美元的高点，非Fungible代币的交易量在整个8月份已经逐渐减少到只有500万美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;我们已经设法获得了AMD Ryzen 7000”Zen 4”桌面CPU的价格，包括Ryzen 9 7950X、Ryzen 9 7900X、Ryzen 7700X和Ryzen 5 7600X。&lt;/strong&gt;请注意，这些价格是由我们的消息来源提供给我们的，并可能在最后一分钟由AMD改变。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [博主展示华为HarmonyOS新版负一屏：Mate 50系列首发用上](https://www.cnbeta.com/articles/tech/1310013.htm) | Mon Aug 29 2022 11:53 AM 
+- 💂 [iPhone 14可能获得30W快速充电功率](https://www.cnbeta.com/articles/tech/1310035.htm) | Mon Aug 29 2022 1:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，微博博主厂长是关同学放出了华为负一屏“智慧助手·今天”的新版界面，并展示了其更新内容。从更新要求来看，&lt;strong&gt;这套全新的负一屏将在Mate 50系列身上首次亮相，后续再逐步推送给其他机型。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新泄露的消息表明，iPhone 14系列可能会获得30W的快速充电能力，比iPhone 13系列使用的18W额定值有较大提升。据称一个不知名的充电器品牌正在向媒体发送30W的iPhone 14适配器，供其提前评测。这家公司显然认为苹果将把30W充电作为iPhone 14系列的一个亮点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [SWEL宣称Waveline Magnet“乘浪”发电机可带来成本超低的清洁能源](https://www.cnbeta.com/articles/tech/1310011.htm) | Mon Aug 29 2022 11:47 AM 
+- 🚀 [5nm Zen 4明天发 AMD锐龙7000售价一分没涨](https://www.cnbeta.com/articles/tech/1310033.htm) | Mon Aug 29 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;十多年来，SeaWave Energy Ltd（以下简称 SWEL）一直致力于开发一种被称作“Waveline Magnet”的浮动式波浪能设备。&lt;/strong&gt;该公司声称，其在海面上的原型测试表明，这套方案兼具“超低成本”和“超高产出”。换言之，这种“乘浪发电机”（wave-riding generators）有望带来更加实惠的清洁能源。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;赶在北京时间明晚（8月30日）发布前，AMD Zen4锐龙7000系列处理器的确切价格提前偷跑了。废话少说，一图看懂，内容如下：换言之，AMD真的如之前爆料所言，一分钱没涨。可供参考的是，&lt;strong&gt;5950X发售价是国行6049元（海外799美元），5900X是4099元（549美元），锐龙5 5600X是2129元（299美元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [消息称欧盟放弃上诉：高通最终赢得10亿美元反垄断上诉案](https://www.cnbeta.com/articles/tech/1310009.htm) | Mon Aug 29 2022 11:46 AM 
+- 🎊 [美国宇航局因氢气泄露问题取消了Artemis I计划于今日的发射尝试](https://www.cnbeta.com/articles/science/1310031.htm) | Mon Aug 29 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，知情人士今日称，欧盟反垄断监管机构“欧盟委员会”将不会对高通10亿美元的反垄断案提起上诉，因为很难说服欧盟最高法院做出有利于自己的裁决。这起案件始于2018年，当时，欧盟委员会曾宣布对高通处以9.97亿欧元（约合9.91亿美元）的反垄断罚款。原因是高通向苹果公司支付了巨额费用，要求苹果只使用其芯片，从而将英特尔等竞争对手拒之门外。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;经过大张旗鼓的宣传，包括一众名人的亮相和副总统卡马拉-哈里斯的到来，但阿特米斯一号今日的发射尝试敌不过技术问题的发现，美国宇航局表示，由于技术问题，今天的巨型月球火箭的首次发射尝试被取消。因为该机构迫切需要解决火箭引擎的一个问题。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
