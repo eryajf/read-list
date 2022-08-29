@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [The next-gen knowledge base to replace Notion &amp; Miro, Open-source, Privacy first, local-host.](https://www.v2ex.com/t/876164#reply0) | Mon Aug 29 2022 4:39 AM
-- 🤗 [您如何看待开源和开源协议？](https://www.v2ex.com/t/876158#reply2) | Mon Aug 29 2022 4:23 AM
-- 🎭 [有没有拼团学习中文 google analytics 课程的人吗？包含 GA4 网站,APP 分析方法。上车每人 200 元/300 天。](https://www.v2ex.com/t/876151#reply1) | Mon Aug 29 2022 4:01 AM
-- 🥷 [周末发现 vercel.app 被墙了](https://www.v2ex.com/t/876139#reply6) | Mon Aug 29 2022 3:27 AM
-- 🐵 [请问快速熟悉别人的前端项目各位有什么技巧嘛？](https://www.v2ex.com/t/876119#reply12) | Mon Aug 29 2022 2:36 AM<!-- v2ex:END -->
+- 🥸 [是不是现在程序员门槛降低了？](https://www.v2ex.com/t/876178#reply22) | Mon Aug 29 2022 5:34 AM
+- 🤗 [独立产品灵感周刊 DecoHack #028 - 如何给你的项目取一个好名字](https://www.v2ex.com/t/876174#reply1) | Mon Aug 29 2022 5:27 AM
+- 🎭 [京东云无线宝与群晖联名的 NAS 怎么样](https://www.v2ex.com/t/876170#reply2) | Mon Aug 29 2022 5:05 AM
+- 🥷 [The next-gen knowledge base to replace Notion &amp; Miro, Open-source, Privacy first, local-host.](https://www.v2ex.com/t/876164#reply0) | Mon Aug 29 2022 4:39 AM
+- 🐵 [您如何看待开源和开源协议？](https://www.v2ex.com/t/876158#reply2) | Mon Aug 29 2022 4:23 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
