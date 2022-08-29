@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [挑台二手机，体验原生味：银河系 Google Pixel 漫游指南](https://sspai.com/post/75385) | Mon Aug 29 2022 6:42 AM 
+- 👹 [给更年期的妈妈多一点爱：我们该懂什么、能做什么](https://sspai.com/post/75419) | Mon Aug 29 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    当它突然出现在生命里时，你就知道了该如何面对；当它出现在身边人身上，你也知道该如何帮助她们步入这个全新的人生阶段。&lt;a href=&quot;https://sspai.com/post/75419&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [挑台二手机，体验原生味：银河系 Google Pixel 漫游指南](https://sspai.com/post/75385) | Mon Aug 29 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
     「好」的路有许多条， Pixel 独特且让人难以割舍的系统体验，正是卷得你死我活的手机市场里，对「好手机」的另一种回答。&lt;a href=&quot;https://sspai.com/post/75385&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [我与 Flomo 的半年：不徐不疾，爱上记录](https://sspai.com/post/74904) | Mon Aug 29 2022 3:28 AM 
+- 🤭 [我与 Flomo 的半年：不徐不疾，爱上记录](https://sspai.com/post/74904) | Mon Aug 29 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     2022年2月7日，我由于一些契机接触到了少数派。一个月的时间，我阅读了很多大家写的文章，当时的感受是少数派作者输出的内容比较「真诚」，每一篇文章的背后都是一段实实在在的亲身实践。对于我而言，虽然自己 ...&lt;a href=&quot;https://sspai.com/post/74904&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：SpaceX 合作提供手机卫星连接服务，LastPass 承认源码被窃等](https://sspai.com/post/75400) | Mon Aug 29 2022 12:45 AM 
+- 🥸 [派早报：SpaceX 合作提供手机卫星连接服务，LastPass 承认源码被窃等](https://sspai.com/post/75400) | Mon Aug 29 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事T-Mobile与SpaceX合作提供手机卫星连接服务8月26日，在ElonMusk和T-Mobile首席执行官MikeSievert共同主持的一场活动上，SpaceX和T-Mobi ...&lt;a href=&quot;https://sspai.com/post/75400&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [[送码] 更完善的中文拼音搜索体验：效率启动器 HapiGO 带来多项更新](https://sspai.com/post/75346) | Sun Aug 28 2022 8:51 AM 
+- 🙉 [[送码] 更完善的中文拼音搜索体验：效率启动器 HapiGO 带来多项更新](https://sspai.com/post/75346) | Sun Aug 28 2022 8:51 AM 
     <details><summary>展开描述 ...</summary> 
     继推出 2.0 大版本之后，HapiGo 又陆续带来了多项新的功能和体验优化，向最好用的中文搜索启动器工具更进一步。&lt;a href=&quot;https://sspai.com/post/75346&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [从「整理」来讲日式美学及生活之道](https://sspai.com/post/74764) | Sun Aug 28 2022 3:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74764&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
