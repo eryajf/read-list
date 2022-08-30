@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Scrutiny 12.4.1 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Mon Aug 29 2022 2:26 AM 
+- 🦏 [SiteSucker 5.0.3 扒站神器](https://xclient.info/s/sitesucker.html) | Tue Aug 30 2022 7:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    SiteSucker是一款Mac OS X上的整站下载的利器，可以将整个网站所有资源下载到本地硬盘。 
+    </details> 
+
+-  [Viper FTP 6.2.3 FTP客户端](https://xclient.info/s/viper-ftp.html) | Tue Aug 30 2022 7:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    Viper FTP是一款非常实用的FTP客户端，使用方便，容量小，不会占用你Mac系统的过多资源，简单操作让你快速上手，允许用户通过键入名称来定位文件！ 
+    </details> 
+
+- ⚗️ [Dropzone 4.4.7 一款提高电脑操作效率的工具](https://xclient.info/s/dropzone.html) | Tue Aug 30 2022 7:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    Dropzone 是一款基于 Mac OS X 的主屏的文件快速调用/同步工具，可以根据开放API自定义动作 
+    </details> 
+
+- 🔥 [MediaHuman Youtube Downloader 3.9.9.74 视频下载](https://xclient.info/s/mediahuman-youtube-downloader.html) | Tue Aug 30 2022 7:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    MediaHuman Youtube Downloader是一个简单的OSX实用程序，它可以帮助您以一种高效的方式处理任务：可以同时处理多个视频，只能提取音频，并且可以将歌曲发送到iTunes库。可用于多个视频共享平台的下载工具。 
+    </details> 
+
+- 🌋 [Scrutiny 12.4.1 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Mon Aug 29 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
     Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
-    </details> 
-
--  [New File Menu 1.6 Finder右键创建文档利器](https://xclient.info/s/new-file-menu.html) | Mon Aug 29 2022 2:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    新建文件菜单（New File Menu）允许你从 Finder 右键菜单中快速创建各种文件。 
-    </details> 
-
-- ⚗️ [Icon Plus 1.4 图标制作软件](https://xclient.info/s/icon-plus.html) | Mon Aug 29 2022 2:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    Icon Plus 是一个免费的图标、Logo 设计工具，可以让你将一张照片转变为一个图标或者 Logo。 
-    </details> 
-
-- 🔥 [Meta 2.1.5 音频元数据音乐标签信息编辑器](https://xclient.info/s/meta.html) | Mon Aug 29 2022 2:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    Meta将帮助您管理不断增长的数字音乐收藏。它支持大多数音频格式的编辑，如MP3，MP4，M4A，FLAC，OGG，OGA，SPX，WAV等等。 AIFF和各种元数据格式，包括ID3v1，ID3v2.3，ID3v2.4，ITunes MP4，Vorbis注释和APE标签。 
-    </details> 
-
-- 🌋 [CheckBook Pro 2.7.9 个人理财工具](https://xclient.info/s/checkbook-pro.html) | Mon Aug 29 2022 2:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    CheckBook Pro 是一个Mac平台的个人理财工具，界面友好，轻松管理我们的财务信息，支持所有功能，在支票簿，我们有力的简单的个人财务管理。 
     </details> 
 <!-- xclient:END -->
 
