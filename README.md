@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [理想L9今日开始交付 售价45.98万元](https://www.cnbeta.com/articles/tech/1310339.htm) | Tue Aug 30 2022 6:11 AM 
+- 🕯 [《最后的生还者：重制版》“忠于原作”预告 9月2日发售](https://hot.cnbeta.com/articles/game/1310389.htm) | Tue Aug 30 2022 7:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月30日消息，&lt;strong&gt;理想汽车官方今日宣布，正式开启理想L9用户交付，&lt;/strong&gt;同时，全国首家全新理想汽车空间设计2.0的交付中心，杭州交付中心今天迎来正式开业，并且今年内，全国将有超20个城市的理想汽车交付中心完成升级。官方表示，自7月15日开启试驾以来，全国已有超过12万用户体验理想L9。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今日（8月30日），《最后的生存者：重制版》公布“忠于原作”预告，《最后的生还者：重制版》将于9月2日登陆PS5。&lt;/strong&gt;《最后的生还者：重制版》是2013年发售的《最后的生还者》完全重制版，采用更现代的画面技术，全面提升画质，带来更逼真效果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1310389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [台积电魏哲家：保证2025年量产2nm工艺](https://www.cnbeta.com/articles/tech/1310337.htm) | Tue Aug 30 2022 6:09 AM 
+- 💼 [马斯克警告：恐龙灭绝式的事件会再次发生，只是时间问题](https://www.cnbeta.com/articles/tech/1310387.htm) | Tue Aug 30 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，台积电总裁魏哲家现身2022台积电技术论坛，透露了公司对于3nm架构和2nm架构的相关计划。魏哲家表示，台积电3nm制程工艺将沿用FF架构，并即将量产；&lt;strong&gt;而至于万众瞩目的2nm制程工艺，则保证能够在2025年量产，并会是最领先的技术。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;当地时间周一，特斯拉CEO埃隆·马斯克在推特上发表了一个不祥的警告，提到了导致白垩纪结束的大规模灭绝事件。&lt;/strong&gt;马斯克认为，加速恐龙灭绝、导致哺乳动物在这个行星上大量繁殖的事情可能会再次发生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [被打怕了？克里斯·洛克拒绝主持下一届奥斯卡](https://hot.cnbeta.com/articles/movie/1310335.htm) | Tue Aug 30 2022 6:09 AM 
+- 💂 [Lucid推出Sapphire 高性能子品牌，对标宝马奔驰特斯拉](https://www.cnbeta.com/articles/tech/1310385.htm) | Tue Aug 30 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据 DEADLINE 报道，好莱坞影星和喜剧明星克里斯·洛克本周公开证实，在威尔·史密斯著名的耳光之后，他拒绝了学院提出的举办明年奥斯卡颁奖典礼的提议。目前学院没有回应置评请求。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1310335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Lucid Motors将继续向高端市场进军，该公司的Air电动轿车将推出一个名为Sapphire的高性能版本，利用自己的技术在高端市场上与特斯拉、奔驰和宝马等车企竞争。&lt;/strong&gt;Lucid营销副总裁Jeff Curry表示：“从价格和定位的角度来看，我们肯定会将该品牌进一步推向高端市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国人的种菜天赋有多强？太空也能种水稻](https://www.cnbeta.com/articles/science/1310333.htm) | Tue Aug 30 2022 6:08 AM 
+- 🚀 [即使NFT市场遇冷 Meta还是打通了FB与Instagram数字藏品帖子的链接](https://www.cnbeta.com/articles/tech/1310383.htm) | Tue Aug 30 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年7月24日下午，“问天”实验舱升空。实验舱里装载了生命生态实验柜，航天员们把“农场”开进了太空，在太空中种起了水稻。什么样的水稻种子才能成为“天选之种”进入太空？在太空种水稻是一种什么体验？经过太空旅行的种子又需要经过哪些步骤，才有可能进入田间地头、超市和我们的餐桌？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管受加密货币大盘持续走跌的影响，以 OpenSea 为代表的非同质化代币（NFT）市场的交易量也在几个月内暴降 99%，但更名 Meta 的社交巨头还是没有轻易放弃这方面的努力。&lt;strong&gt;据悉，自今年 5 月以来，Meta 旗下 Instagram 图片分享平台 Instagram 一直有在测试为帖子引入对 NFT“数字收藏品”的支持。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国际最新研究：即使全球升温控制在2摄氏度 未来热浪频率或仍增加](https://www.cnbeta.com/articles/science/1310331.htm) | Tue Aug 30 2022 6:07 AM 
+- 🎊 [法治日报：游戏防沉迷需严厉打击租售号等黑产](https://www.cnbeta.com/articles/tech/1310381.htm) | Tue Aug 30 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;施普林格·自然旗下专业学术期刊《通讯-地球与环境》最新发表一篇气候变化研究论文指出，&lt;strong&gt;到2100年，热带地区可能大部分时间里都会暴露在危险的高温水平中，而中纬度地区预计每年都会出现致命热浪。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;2022年8月30日，是“史上最严游戏防沉迷新规”出台一周年。过去一年，防沉迷成效显著，但也出现了诸如租售号黑产虽然屡禁不止、孩子冒用家长游戏账号等问题，需进一步重视和解决。&lt;/strong&gt;根据新规，所有网络游戏企业仅可在周五、周六、周日和法定节假日每日20时至21时向未成年人提供1小时服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
