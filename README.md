@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Next.js Runtime by Netlify - Next.js 更好的运行时](https://xinquji.com/posts/179136?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:28 AM 
+- 👀 [UUKI Community Platform - 社区概念](https://xinquji.com/posts/179144?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     Next.js 更好的运行时  
+     社区概念  
     </details> 
 
-- 🥷 [Burnout Index 2.0 - 免费检查您的倦怠风险和工作投入水平](https://xinquji.com/posts/179135?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:28 AM 
+- 🥷 [Fleksy Developer Platform - 构建功能强大的软件键盘的最快方法](https://xinquji.com/posts/179143?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     免费检查您的倦怠风险和工作投入水平  
+     构建功能强大的软件键盘的最快方法  
     </details> 
 
-- 💼 [Ultimate Brain for Notion - 任务、笔记、项目和 PARA 组织都在 Notion 中](https://xinquji.com/posts/179134?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:26 AM 
+- 💼 [Minkedu - 为家长和老师提供的在线课程和活动](https://xinquji.com/posts/179142?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     任务、笔记、项目和 PARA 组织都在 Notion 中  
+     为家长和老师提供的在线课程和活动  
     </details> 
 
-- 🦅 [Tails V2 - 顺风网站创建者、设计工具和组件库](https://xinquji.com/posts/179133?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:25 AM 
+- 🦅 [Notly - Notion 全球最先进的 AI 写作助手](https://xinquji.com/posts/179141?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     顺风网站创建者、设计工具和组件库  
+     Notion 全球最先进的 AI 写作助手  
     </details> 
 
-- 😺 [Content Creator - 管理您的内容创作之旅的最简单方法](https://xinquji.com/posts/179132?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:24 AM 
+- 😺 [Shopify Plus Calculator - 了解何时升级到 Shopify Plus](https://xinquji.com/posts/179140?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     管理您的内容创作之旅的最简单方法  
+     了解何时升级到 Shopify Plus  
     </details> 
 <!-- xinquji:END -->
