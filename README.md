@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [微信视频的时候，录屏没声音，这事有解吗？](https://www.v2ex.com/t/876557#reply0) | Tue Aug 30 2022 12:39 PM
-- 🤗 [懵了兄弟们， Python 中的空列表到底是个什么玩意](https://www.v2ex.com/t/876553#reply2) | Tue Aug 30 2022 12:11 PM
-- 🎭 [有办法让 X86 PC 从 UEFI 启动 Android GSI 吗？](https://www.v2ex.com/t/876551#reply0) | Tue Aug 30 2022 11:38 AM
-- 🥷 [为什么你应该学习多种语言和哪里可以学到他们](https://www.v2ex.com/t/876542#reply0) | Tue Aug 30 2022 10:44 AM
-- 🐵 [有对 jenkins 比较了解的吗，问个问题](https://www.v2ex.com/t/876538#reply3) | Tue Aug 30 2022 10:13 AM<!-- v2ex:END -->
+- 🥸 [在学习 Go 的泛型，写了个模拟 async/await 的小工具，写的过程中发现个问题](https://www.v2ex.com/t/876569#reply0) | Tue Aug 30 2022 1:23 PM
+- 🤗 [windows 快捷键怎么删除当前行的光标前的所有字符](https://www.v2ex.com/t/876568#reply1) | Tue Aug 30 2022 1:18 PM
+- 🎭 [微信视频的时候，录屏没声音，这事有解吗？](https://www.v2ex.com/t/876557#reply0) | Tue Aug 30 2022 12:39 PM
+- 🥷 [懵了兄弟们， Python 中的空列表到底是个什么玩意](https://www.v2ex.com/t/876553#reply6) | Tue Aug 30 2022 12:11 PM
+- 🐵 [有办法让 X86 PC 从 UEFI 启动 Android GSI 吗？](https://www.v2ex.com/t/876551#reply0) | Tue Aug 30 2022 11:38 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
