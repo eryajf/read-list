@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端高级炫酷动画特效，瞬间提升网站等级！附全源码以及示例图](https://juejin.cn/post/7137517363246661662) | Tue Aug 30 2022 4:17 AM 
+- 🤗 [Kaggle官方·数据科学比赛经验集；百度开源·飞桨图像数据标注高效工具；C++并发编程实践第2版·笔记；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7137554549828485133) | Tue Aug 30 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-    写在前面 预览图皆为动图，文件体积略大，请大家耐心等待 🌸🌸🌸 本文包含了众多的 html + css + canvas + js 实现的前端动画，为了以免大家复制代码出错，故提供了完整的网盘下载路径 
+    ShowMeAI资讯日报 08-30 期，Surge 化学结构生成器；MARLlib 强化学习通用平台；PaddleLabel 飞桨图像数据标注工具；db2es 同步数据库到数据ES；少样本学习资源集 
     </details> 
 
-- 🎡 [【使用篇】WebView 实现嵌套滑动，丝滑般实现吸顶效果，完美兼容 X5 webview](https://juejin.cn/post/7137514464680607774) | Tue Aug 30 2022 4:02 AM 
+- 🎡 [金九银十送你一份前端超详细知识手册，看完一定会有收获！](https://juejin.cn/post/7137549438423138341) | Tue Aug 30 2022 6:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    花了大量时间整理的前端知识手册，内容由浅到深，主要是笔者对前端知识的复盘合集，干货满满，分享出来希望能一起交流进步，同样适合各个阶段的前端人学习和巩固，面试备战。另个人知识水平有限，如有纰漏，望不吝指 
+    </details> 
+
+- 🕯 [特效侧用户体验优化实战 —— 包体积篇](https://juejin.cn/post/7137544737023590437) | Tue Aug 30 2022 5:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要讲述特效作为抖音中台之一，如何从代码优化、资源优化、编译优化方向精简包体积，支撑特效能力；如何通过工具实时监控包体积大小，定位包体积增长原因，拦截异常增长，提升开发效率，推动业务优化。 
+    </details> 
+
+- 🚀 [【使用篇】WebView 实现嵌套滑动，丝滑般实现吸顶效果，完美兼容 X5 webview](https://juejin.cn/post/7137514464680607774) | Tue Aug 30 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
     WebView 实现嵌套滑动，丝滑般实现吸顶效果，完美兼容 X5 webview，有兴趣的可以看一下。 
     </details> 
 
-- 🕯 [Audio Unit框架（四）构建APP](https://juejin.cn/post/7137512099407724551) | Tue Aug 30 2022 3:54 AM 
+- 💪 [Audio Unit框架（四）构建APP](https://juejin.cn/post/7137512099407724551) | Tue Aug 30 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第32天，[点击查看活动详情]&lpar;https://juejin.cn/post/7123120819437322247 &quot;https: 
-    </details> 
-
-- 🚀 [彻底解决 qiankun 找不到入口的问题](https://juejin.cn/post/7137511561161080845) | Tue Aug 30 2022 3:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 嗨害嗨，好久不见，我是海怪。 有一阵子没写文章了，今天来更一期关于 qiankun 找不到生命周期的问题。 刚开始给项目接入 qiankun 的时候，时不时就会报 Application die 
-    </details> 
-
-- 💪 [代码层走进“百万级”分布式ID设计](https://juejin.cn/post/7137507417364906020) | Tue Aug 30 2022 3:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    面对互联网系统的三高（高可用，高性能，高并发），数据库方面我们多会采用分库分表策略，如此必然会面临另一个问题，分库分表策略下如何生成数据库主键？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
