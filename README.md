@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [羡慕实时数据看板？来看看Python的交互数据分析可视化工具！ ⛵](https://juejin.cn/post/7137479326823350302) | Tue Aug 30 2022 1:45 AM 
+- 🤗 [前端高级炫酷动画特效，瞬间提升网站等级！附全源码以及示例图](https://juejin.cn/post/7137517363246661662) | Tue Aug 30 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
-    Altair是Python统计可视化库，提供了强大而简洁的可视化语法，产出漂亮的数据可视化结果，并支持交互式操作和勾选局部数据深入分析。本文以实例讲解Altair数据分析过程，以及交互文档报告的生成。 
+    写在前面 预览图皆为动图，文件体积略大，请大家耐心等待 🌸🌸🌸 本文包含了众多的 html + css + canvas + js 实现的前端动画，为了以免大家复制代码出错，故提供了完整的网盘下载路径 
     </details> 
 
-- 🎡 [vivo前端智能化实践：机器学习在自动网页布局中的应用](https://juejin.cn/post/7137473471650463774) | Tue Aug 30 2022 1:22 AM 
+- 🎡 [代码层走进“百万级”分布式ID设计](https://juejin.cn/post/7137507417364906020) | Tue Aug 30 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-    在设计稿转网页中运用基于self-attention机制设计的机器学习模型进行设计稿的布局，能够结合dom节点的上下文得出合理的方案。 
+    面对互联网系统的三高（高可用，高性能，高并发），数据库方面我们多会采用分库分表策略，如此必然会面临另一个问题，分库分表策略下如何生成数据库主键？ 
     </details> 
 
-- 🕯 [列存数据仓库怎样做才能更高效](https://juejin.cn/post/7137473440629391391) | Tue Aug 30 2022 1:22 AM 
+- 🕯 [密码学之DH秘钥交换协议](https://juejin.cn/post/7137497455418933262) | Tue Aug 30 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    很多数据仓库产品都采用了列式存储。如果数据表的总列数很多而计算涉及的列很少，采用列存就只读取需要的列即可，能够减少硬盘访问量，提高性能。特别是数据量非常大时，硬盘扫描和读取的时间占比很大，这时候列存的 
+    密码学之DH秘钥交换协议 DH秘钥交换协议简介 普遍大家都认为公钥密码体制是迪菲&lpar;W.Diffie&rpar;和赫尔曼&lpar;E.Hellman&rpar;发明的！ Diffie-Hellman:一种确保共享KEY安全穿越不安 
     </details> 
 
-- 🚀 [jQuery DOM 属性（下）](https://juejin.cn/post/7137468544190529572) | Tue Aug 30 2022 1:03 AM 
+- 🚀 [Ripple水波纹组件实现原理、钉钉打卡通知工具、D3.js可视化库之力导向图原理与实现、react组件库构建与发布的实践指南 | 酱酱的下午茶第 61期](https://juejin.cn/post/7137497083627438087) | Tue Aug 30 2022 2:54 AM 
     <details><summary>展开描述 ...</summary> 
-    DOM属性&lpar;下&rpar; .html&lpar;&rpar; 获取集合中第一个匹配元素的HTML内容 在一个 HTML 文档中, 我们可以使用 .html&lpar;&rpar; 方法来获取任意一个元素的内容。 如果选择器匹配多个元素，那么只有第一 
+    本期下午茶看点：Ripple水波纹组件实现原理、钉钉打卡通知工具、D3.js可视化库之力导向图原理与实现、react组件库构建与发布的实践指南... 
     </details> 
 
-- 💪 [jQuery DOM 属性（上）](https://juejin.cn/post/7137467921327980551) | Tue Aug 30 2022 1:02 AM 
+- 💪 [给ShardingSphere提了个PR，不知道是不是嫌弃我](https://juejin.cn/post/7137496862679892004) | Tue Aug 30 2022 2:54 AM 
     <details><summary>展开描述 ...</summary> 
-    DOM属性&lpar;上&rpar; .addClass&lpar;&rpar; 为每个匹配的元素添加指定的样式类名 值得注意的是这个方法不会替换一个样式类名。它只是简单的添加一个样式类名到元素上。 对所有匹配的元素可以一次添加多个用空格隔 
+    说来惭愧，干了 10 来年程序员，还没有给开源做过任何贡献，以前只知道嘎嘎写，出了问题嘎嘎改，从来没想过提个 PR 去修复他，最近碰到个问题，发现挺简单的，就随手提了个 PR 过去。 问题 问题挺简单 
     </details> 
 <!-- juejin:END -->
 ### 少数派
