@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [推特在全球推出仅供亲密朋友观看的圈子功能](https://www.cnbeta.com/articles/tech/1310537.htm) | Tue Aug 30 2022 3:46 PM 
+- 🕯 [从太空看中国第一个被证实的陨石撞击坑](https://www.cnbeta.com/articles/science/1310539.htm) | Tue Aug 30 2022 5:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;陨石撞击坑，大家可能都有所耳闻，但是你知道中国境内第一个被证实的陨石撞击坑在哪里吗？它就是岫岩坑，位于辽宁省鞍山市岫岩满族自治县苏子沟镇古龙村，处于低山丘陵当中，邻近哨子河畔。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [推特在全球推出仅供亲密朋友观看的圈子功能](https://www.cnbeta.com/articles/tech/1310537.htm) | Tue Aug 30 2022 3:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Twitter正在全球范围内推出其”圈子”功能，它可以让你向一组选定的人发布推文。&lt;/strong&gt;该公司于5月开始测试这项类似于Instagram”亲密朋友”的功能，现在它将向所有用户开放。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [明星云集的数字头像创业公司Genies推出NFT时尚市场](https://www.cnbeta.com/articles/tech/1310535.htm) | Tue Aug 30 2022 3:39 PM 
+- 💂 [明星云集的数字头像创业公司Genies推出NFT时尚市场](https://www.cnbeta.com/articles/tech/1310535.htm) | Tue Aug 30 2022 3:39 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;数字化身创业公司Genies因与贾斯汀-比伯（Justin Bieber）、米戈斯（Migos）和卡迪-B等名人的高调合作而闻名，它刚刚发布了期待已久的NFT店面 &amp;quot;The Warehouse&amp;quot;。&lt;/strong&gt;Genies在最近一次融资中从银湖&lpar;Silver Lake&rpar;和玛丽-米克&lpar;Mary Meeker&rpar;的邦德资本&lpar;Bond Capital&rpar;等重量级科技投资者那里获得了10亿美元的估值，4月份宣布的C轮融资为1.5亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [联想2022款ThinkPad X1 Fold 16英寸可折叠笔记本电脑曝光](https://www.cnbeta.com/articles/tech/1310533.htm) | Tue Aug 30 2022 3:27 PM 
+- 🚀 [联想2022款ThinkPad X1 Fold 16英寸可折叠笔记本电脑曝光](https://www.cnbeta.com/articles/tech/1310533.htm) | Tue Aug 30 2022 3:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据泄漏的消息，&lt;strong&gt;联想显然很快就会推出16英寸的ThinkPad X1 Fold&lt;/strong&gt;，这是华硕ZenBook 17 Fold OLED的完美替代品。联想新的可折叠笔记本电脑，它将再次被称为&lt;a data-link=&quot;1&quot; href=&quot;https://c.duomai.com/track.php?site_id=242986&amp;euid=&amp;t=https://thinkpad.jd.com/&quot; target=&quot;_blank&quot;&gt;ThinkPad&lt;/a&gt; X1 Fold，但现在是16英寸，具体来说是16.3英寸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [学术圈也能“子承父业”？近 1/4 终身教授的父母是博士，名校概率翻倍](https://www.cnbeta.com/articles/science/1310531.htm) | Tue Aug 30 2022 3:19 PM 
+- 🎊 [学术圈也能“子承父业”？近 1/4 终身教授的父母是博士，名校概率翻倍](https://www.cnbeta.com/articles/science/1310531.htm) | Tue Aug 30 2022 3:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“一项惊人的发现暴露了学术界持续存在的不平等。”这话出自 Nature 子刊的副主编 Arunas Radzvilavicius 之口。让他感到震惊的是一篇最新论文揭示的美国学术圈现象：近四分之一终身教授的父母拥有博士学位，这个比例是普通人口的 25 倍。而在名校，这一数据还要再翻一倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [iPhone 14 各种新传言：无远峰蓝、MagSafe 磁铁吸力更强](https://www.cnbeta.com/articles/tech/1310529.htm) | Tue Aug 30 2022 3:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;距离苹果 9 月 8 日发布会越来越近，有关于 iPhone 14 和 iPhone 14 Pro 的相关细节开始大量出现。韩国博客 Naver 上的用户 yeux1122 ，给出了 iPhone 14 颜色、性能、功能等各种预测。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
