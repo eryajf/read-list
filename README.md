@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vite+vue3项目批量注册自定义组件的方法](https://juejin.cn/post/7137562715676999710) | Tue Aug 30 2022 7:09 AM 
+- 🤗 [优化scss代码](https://juejin.cn/post/7137573351358693407) | Tue Aug 30 2022 7:50 AM 
     <details><summary>展开描述 ...</summary> 
-    vue2中全局注册自定义组件的方法一般都是使用webpack提供的require.context，那么vue3中如何全局批量注册自定义组件呢？通过阅读本文一起揭晓答案吧~ 
+    1. 背景 有个scss文件，行数达到了10000多，这里记录下寻找规律、提取函数的过程。 2. 优化 2.1. 提取公共样式 公共样式的提取能用 extend 的话就不要用 mixin，extend 
     </details> 
 
-- 🎡 [聊聊那个逐渐淡出大家视野的 React 替代品：Preact](https://juejin.cn/post/7137559254440869896) | Tue Aug 30 2022 6:55 AM 
+- 🎡 [Kotlin Sealed Class 太香了，Java 8 也想用怎么办？](https://juejin.cn/post/7137571636781252622) | Tue Aug 30 2022 7:44 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是 React 的替代品呢？ 就是在语法和操作上都类似于 React 的框架或库，但它们可能具有 React 没有的某些功能。 
+    Kotlin 下使用 Sealed Class 做分流，只需短短几行代码， Java 8 想要实现同等效果，样板代码瞬间飚出许多。如想在代码安全和简便之间取得平衡，该怎么办。 
     </details> 
 
-- 🕯 [微模块-前端业务模块化探索&lpar;中&rpar;-落地与实例](https://juejin.cn/post/7137490422355476488) | Tue Aug 30 2022 2:28 AM 
+- 🕯 [彩虹女神跃长空,Go语言进阶之Go语言高性能Web框架Iris项目实战-JWT和中间件&lpar;Middleware&rpar;的使用EP07](https://juejin.cn/post/7137571444279476232) | Tue Aug 30 2022 7:43 AM 
     <details><summary>展开描述 ...</summary> 
-    前端微模块是DDD领域驱动在前端开发中的一种简化版落地方案，笔者在上文【微模块-前端业务模块化探索，拆解巨石应用的又一利器】中抛出了前端微模块的来由、定义、结构等基本概念，也阐述了为什么前端需要微模块 
+    前文再续，上一回我们完成了用户的登录逻辑，将之前用户管理模块中添加的用户账号进行账号和密码的校验，使用图形验证码强制进行人机交互，防止账号的密码被暴力破解。本回我们需要为登录成功的用户生成token 
     </details> 
 
-- 🚀 [『 干货』实现数组扁平化的 6 种方式](https://juejin.cn/post/7137308369886380040) | Mon Aug 29 2022 2:42 PM 
+- 🚀 [分布式定时任务-任务调度](https://juejin.cn/post/7137569623385325599) | Tue Aug 30 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
-    在日常的开发中，我们最常用的数据结构就是数组，而数组一般又分为一维数组和多维数组。在开发中，当我们遇到多维数组时，操作较为复杂，因此我们需要将多维数组转换为一维数组，那么我们该如何转换呢？快来看一下吧 
+    1 漫谈任务调度 1.1 什么时候需要任务调度？ 1.1.1 任务调度的背景 在业务系统中有很多这样的场景： 1、账单日或者还款日上午 10 点，给每个信用卡客户发送账单通知，还款通知。如 何判断客户 
     </details> 
 
-- 💪 [lodash里的内部方法getFuncName和setToString](https://juejin.cn/post/7137308226554429470) | Mon Aug 29 2022 2:41 PM 
+- 💪 [【C语言基础】Chap. 5. 语句基础](https://juejin.cn/post/7137501907194478600) | Tue Aug 30 2022 3:13 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第32天，点击查看活动详情 前言 本篇章我们主要是通过了解lodash里的两个内部方法getFuncName方法和setToStri 
+    本章记录的是C语言的语句基础知识，主要包括分支语句、循环语句和跳转语句，这三者由于其功能的强大而在C语言代码中大量出现，是必须掌握的知识点。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
