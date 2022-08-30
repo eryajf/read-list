@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [电商助力西昌阳光玫瑰卖遍全国 种植农户年入三十万](https://www.cnbeta.com/articles/tech/1310469.htm) | Tue Aug 30 2022 10:44 AM 
+- 🕯 [买“数字藏品”的年轻人：有人赚10万 有人被套牢](https://www.cnbeta.com/articles/tech/1310497.htm) | Tue Aug 30 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;沿着京昆高速一路南行，在接近西昌出口的地界，一排排风力发电机的叶轮随风转动，仿若赛博朋克科幻小说中的超级机器，道路两旁的薄膜大棚一路蜿蜒出去十几公里，在阳光下反射出银色光芒，让人印象深刻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;几十万买个数字头像，国外的无聊猿掀起的NFT热潮刮向国内。在风口上，短短一年时间，大厂纷纷入局，小平台野蛮生长。但最近，腾讯旗下幻核“退场”似乎意味着国内数藏行业进入冷静期。对玩家来说，一夜暴富的梦想，还能实现吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [日本：“嗯？漫画文化是韩国的了？”](https://hot.cnbeta.com/articles/comic/1310467.htm) | Tue Aug 30 2022 10:43 AM 
+- 💼 [李彦宏发内部信：在困难时期要有理性的信心](https://www.cnbeta.com/articles/tech/1310495.htm) | Tue Aug 30 2022 12:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;讨厌韩国的日本人，最近在看家本领上，被韩国人偷了家。&lt;/strong&gt;说出来你可能不信，现在在日本，卖得最好的是韩国漫画。咖啡厅里，社畜看着韩国漫画快乐摸鱼。学校里，中二学生用韩国漫画台词当锁屏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1310467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月30日消息，百度发布了第二季度财务报告，实现营收296.47亿元。财报发布后，百度董事长兼CEO李彦宏发布内部信表示，“要充分认知困难，并在每个工作决策中充分考虑这个前提。”李彦宏强调，“在困难时期，也要有理性的信心。这么多年来，百度一直试图用技术改变世界、用科技让复杂的世界更简单。技术给人们的生活、社会生产效率带来的价值是确定的。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马斯克正式通知终止收购推特 推特股价下挫](https://www.cnbeta.com/articles/tech/1310465.htm) | Tue Aug 30 2022 10:41 AM 
+- 💂 [90岁的稻盛和夫走了  留下《活法》](https://www.cnbeta.com/articles/tech/1310493.htm) | Tue Aug 30 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据报道，Twitter今日提交给美国证券交易委员会（SEC）的Schedule 13D补充文件显示，特斯拉CEO埃隆·马斯克（Elon Musk）已正式通知Twitter，终止双方之前达成的收购协议。&lt;/strong&gt;该文件显示，当地时间2022年8月29日，马斯克的顾问向Twitter发送了一封信函，正式通知Twitter，马斯克将终止双方之前达成的收购协议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;稻盛和夫的经营哲学像一股清流，滋润着经营者的心灵，让他们回归内心的清澈与安宁，尊重本心、利他之心，勤勉踏实，造福社会。8月30日传来消息，教导企业进行“阿米巴”（小微组织）经营的日本知名企业家稻盛和夫走了，享年90岁，他把《活法》留给了世界。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [劫匪突袭德州苹果伍德兰兹店 偷走近500部iPhone、AirPods和Apple Watch](https://www.cnbeta.com/articles/tech/1310463.htm) | Tue Aug 30 2022 10:31 AM 
+- 🚀 [网友曝停电致电脑损坏：国家电网上门抱走电脑 修好送回](https://www.cnbeta.com/articles/tech/1310491.htm) | Tue Aug 30 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月29日星期一，四名蒙面人闯入德克萨斯州的苹果伍德兰兹店，带走了数十万美元的全新商品。与最近发生在伦敦科文特花园的苹果公司抢劫案不同，德克萨斯州的袭击发生在营业时间之前。&lt;/strong&gt;据当地新闻频道ABC 13报道，蒙哥马利县警长办公室在当地时间上午8点左右向伍德兰兹购物中心内的商店派出了警力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;电网停电导致台式机损坏，国家电网竟然给免费修好了，这样的经历估计不少朋友都没有遇到过。日前，有网友爆料称，其本人是在四川某三线城市，&lt;strong&gt;前段时间因为高温限电经常停电，一天网上他正在电脑上玩LOL，结果突然停电。&lt;/strong&gt;等到再次来电后就发现电脑开不开机了，自己的电脑本来好好的，因为停电导致损坏，如果自费维修的话不就成了冤大头了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [埃隆·马斯克致信Twitter 补充终止并购协议的理由](https://www.cnbeta.com/articles/tech/1310461.htm) | Tue Aug 30 2022 10:29 AM 
+- 🎊 [Starlink卫星互联网短暂遭遇全球宕机事故 并引发服务降速](https://www.cnbeta.com/articles/tech/1310489.htm) | Tue Aug 30 2022 12:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据彭博新闻社报道，埃隆-马斯克的顾问团队已向Twitter发函，强调了终止合并协议的额外理由。&lt;/strong&gt;信中援引一名“吹哨人”最近的爆料和指责，作为终止对该社交媒体平台440亿美元收购的新理由。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;世界各地的Starlink用户周二抱怨说，埃隆·马斯克旗下SpaceX的太空互联网服务Starlink出现故障。有荷兰用户报告说Starlink RV服务中断了大约30分钟。根据Starlink应用程序的报告提示说目前处于&amp;quot;降级服务&amp;quot;状态，SpaceX公司正在对这一事故进行调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
