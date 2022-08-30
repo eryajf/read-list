@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [如何使用jwtXploiter测试JSON Web令牌的安全性](https://www.freebuf.com/articles/web/288278.html) | Mon Aug 29 2022 7:20 AM 
+- 🦄 [暗网上正在出售COVID-19患者数据](https://www.freebuf.com/news/343260.html) | Tue Aug 30 2022 3:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    研究人员发现了从泰国医学科学部泄漏的患者个人身份信息（PII），其中包含部分 COVID-19患者的数据信息。 
+    </details> 
+
+- 🦄 [损失不可估计！网传用友等头部软件厂商遭勒索攻击](https://www.freebuf.com/news/343248.html) | Tue Aug 30 2022 1:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    有安全厂商表示，该勒索攻击事件有可能是黑客通过供应链污染或漏洞的方式进行投毒。 
+    </details> 
+
+- 🦅 [Sliver取代Cobalt Strike成黑客渗透工具“新宠”](https://www.freebuf.com/sectool/343235.html) | Mon Aug 29 2022 12:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    开源跨平台工具Sliver正取代Brute Ratel成为受攻击者青睐的武器。 
+    </details> 
+
+- 🪄 [如何使用jwtXploiter测试JSON Web令牌的安全性](https://www.freebuf.com/articles/web/288278.html) | Mon Aug 29 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
     jwtXploiter可以帮助广大研究测试JSON Web令牌的安全性，并且能够识别所有针对JSON Web令牌的已知CVE漏洞。 
     </details> 
 
-- 🦄 [密码管理巨头LastPass遭遇网络攻击，源代码已泄露](https://www.freebuf.com/news/343183.html) | Mon Aug 29 2022 6:43 AM 
+- 💻 [密码管理巨头LastPass遭遇网络攻击，源代码已泄露](https://www.freebuf.com/news/343183.html) | Mon Aug 29 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
     密码管理巨头 LastPass 两周前遭到黑客攻击，可窃取该公司的源代码和专有技术信息。 
-    </details> 
-
-- 🦅 [Atlassian Bitbucket 服务器和数据中心出现漏洞](https://www.freebuf.com/news/343151.html) | Mon Aug 29 2022 3:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    漏洞可能允许攻击者执行恶意代码，Atlassian 目前已经推出了漏洞修复方案。 
-    </details> 
-
-- 🪄 [借助DDoS，LockBit勒索软件正变得更加凶险](https://www.freebuf.com/news/343132.html) | Mon Aug 29 2022 3:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    LockBit表示正着手改进对DDoS攻击的防御，以应对来自安全机构的攻击，并借此来大力提高自身勒索能力。 
-    </details> 
-
-- 💻 [Java 内存马与 JSP 不得不说的那些事儿](https://www.freebuf.com/articles/web/343095.html) | Sat Aug 27 2022 3:50 PM 
-    <details><summary>展开描述 ...</summary> 
-    同样是内存马的基础，我是非常反对一开始上来就去直接看内存马的，看内存马之前起码要先搞清楚普通马是什么，不做脚本小子。 
     </details> 
 <!-- freebuf:END -->
 
