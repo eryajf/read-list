@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [增收不增利 张小泉“快刀断财路”](https://www.cnbeta.com/articles/tech/1310317.htm) | Tue Aug 30 2022 4:38 AM 
+- 🕯 [理想L9今日开始交付 售价45.98万元](https://www.cnbeta.com/articles/tech/1310339.htm) | Tue Aug 30 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月28日，张小泉发布了2022年上半年的业绩：营收增长超3成，但净利润下滑达22.52%。从财报中看，上半年张小泉加大生产产能、线上线下的渠道、品牌形象等各方面的投入，各种成本和费用均大幅增加，明显是牺牲利润保证销售规模和影响力的做法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月30日消息，&lt;strong&gt;理想汽车官方今日宣布，正式开启理想L9用户交付，&lt;/strong&gt;同时，全国首家全新理想汽车空间设计2.0的交付中心，杭州交付中心今天迎来正式开业，并且今年内，全国将有超20个城市的理想汽车交付中心完成升级。官方表示，自7月15日开启试驾以来，全国已有超过12万用户体验理想L9。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [爱立信、诺基亚将在年底前逐步关闭俄罗斯业务](https://www.cnbeta.com/articles/tech/1310315.htm) | Tue Aug 30 2022 4:24 AM 
+- 💼 [台积电魏哲家：保证2025年量产2nm工艺](https://www.cnbeta.com/articles/tech/1310337.htm) | Tue Aug 30 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;爱立信于当地时间周一表示，它将在未来几个月内逐步结束在俄罗斯的业务活动，而其芬兰竞争对手诺基亚也表示，它也计划在今年年底前关闭大部分俄罗斯业务。&lt;/strong&gt;爱立信在4月无限期暂停了在俄罗斯的业务，而诺基亚则更进一步，称其将完全退出俄罗斯。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，台积电总裁魏哲家现身2022台积电技术论坛，透露了公司对于3nm架构和2nm架构的相关计划。魏哲家表示，台积电3nm制程工艺将沿用FF架构，并即将量产；&lt;strong&gt;而至于万众瞩目的2nm制程工艺，则保证能够在2025年量产，并会是最领先的技术。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [澳大利亚：若美科技巨头不披露删除虐待儿童材料措施 日均罚款55.5万澳元](https://www.cnbeta.com/articles/tech/1310313.htm) | Tue Aug 30 2022 4:24 AM 
+- 💂 [被打怕了？克里斯·洛克拒绝主持下一届奥斯卡](https://hot.cnbeta.com/articles/movie/1310335.htm) | Tue Aug 30 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;澳大利亚监管机构向Facebook母公司Meta、苹果公司和微软公司发出法律信函，&lt;strong&gt;要求其分享平台打击虐待儿童材料的策略，否则将面临巨额罚款&lt;/strong&gt;。监管机构利用1月生效的法律，迫使科技巨头们披露他们在28天内采取的检测和删除虐待儿童材料的措施。&lt;strong&gt;如若不然，将面临每天555000澳元（约合人民币265万元）的罚款&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据 DEADLINE 报道，好莱坞影星和喜剧明星克里斯·洛克本周公开证实，在威尔·史密斯著名的耳光之后，他拒绝了学院提出的举办明年奥斯卡颁奖典礼的提议。目前学院没有回应置评请求。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1310335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《龙之家族》大受欢迎 现已播出两集](https://hot.cnbeta.com/articles/movie/1310311.htm) | Tue Aug 30 2022 4:16 AM 
+- 🚀 [中国人的种菜天赋有多强？太空也能种水稻](https://www.cnbeta.com/articles/science/1310333.htm) | Tue Aug 30 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在8月28日周日播出的HBO的《龙之家族》第二集之前，该电视台周五宣布了一个感觉像是已成定局的消息--这部《权力的游戏》前传的第二季肯定会到来。在宣布这一消息的同时，HBO还补充称，《龙之家族》还是HBO历史上原创剧集中观众最多的一次亮相。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1310311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年7月24日下午，“问天”实验舱升空。实验舱里装载了生命生态实验柜，航天员们把“农场”开进了太空，在太空中种起了水稻。什么样的水稻种子才能成为“天选之种”进入太空？在太空种水稻是一种什么体验？经过太空旅行的种子又需要经过哪些步骤，才有可能进入田间地头、超市和我们的餐桌？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [壮观的“幽灵星系”图像展示了韦伯望远镜的强大力量](https://www.cnbeta.com/articles/science/1310309.htm) | Tue Aug 30 2022 3:58 AM 
+- 🎊 [国际最新研究：即使全球升温控制在2摄氏度 未来热浪频率或仍增加](https://www.cnbeta.com/articles/science/1310331.htm) | Tue Aug 30 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;壮观的幽灵星系&lpar;Phantom Galaxy&rpar;M74的新图像展示了空间观测站在多种波长下共同工作的力量。在这种情况下，来自詹姆斯-韦伯太空望远镜和哈勃太空望远镜的数据相互补充，进而提供了该星系的全面视图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;施普林格·自然旗下专业学术期刊《通讯-地球与环境》最新发表一篇气候变化研究论文指出，&lt;strong&gt;到2100年，热带地区可能大部分时间里都会暴露在危险的高温水平中，而中纬度地区预计每年都会出现致命热浪。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
