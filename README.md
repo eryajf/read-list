@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [监听属性watch](https://juejin.cn/post/7137657307428716557) | Tue Aug 30 2022 1:17 PM 
+- 🤗 [Golang  基于 flag 库实现一个命令行工具](https://juejin.cn/post/7137669791879266335) | Tue Aug 30 2022 2:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    Golang 中的 flag 库提供了解析命令行选项的能力，我们可以基于此来开发命令行工具。假设我们想做一个命令行工具，我们通过参数提供【城市】，它自动能够返回当前这个【城市】的天气状况。看看怎么实现 
+    </details> 
+
+- 🎡 [日拱算法，滑动窗口的最大值](https://juejin.cn/post/7137665757575381023) | Tue Aug 30 2022 1:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    除了以上两种解法，还有其它思路，不得不说这题还是很有学问的。在处理滑动窗口问题中，经常会遇到要构造一个单调队列，得着重记笔记记笔记。 
+    </details> 
+
+- 🕯 [学做产品数据分析，站在领导的角度思考问题——企业战略应用工具：波士顿矩阵](https://juejin.cn/post/7137665634422226974) | Tue Aug 30 2022 1:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    技术只是工具，业务才是内驱。——懂技术，更要懂业务。我曾经所在的公司是一家传统的制造型企业，主要业务由生产和销售产品为主。 
+    </details> 
+
+- 🚀 [监听属性watch](https://juejin.cn/post/7137657307428716557) | Tue Aug 30 2022 1:17 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 之前我们介绍了computed是计算属性，今天是一个全新的内容监视属性，也可以叫做监听属性。 修改天气案 
     </details> 
 
-- 🎡 [如何使用 React Hooks 重构类组件？](https://juejin.cn/post/7137655467697766436) | Tue Aug 30 2022 1:09 PM 
+- 💪 [如何使用 React Hooks 重构类组件？](https://juejin.cn/post/7137655467697766436) | Tue Aug 30 2022 1:09 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 13 天，点击查看活动详情 &gt;&gt; 最初，在 React 中可以使用 createClass 来创建组件，后来被类组件所取代。在  
-    </details> 
-
-- 🕯 [C# 自定义控件（控件库篇）](https://juejin.cn/post/7137652591860645919) | Tue Aug 30 2022 12:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 前言： 今天这篇文章是对之前的一篇自定义控件的文章的扩展，之前我们学习了使用在本项目里面去创建自定义控件 
-    </details> 
-
-- 🚀 [grep 实战用法](https://juejin.cn/post/7137649557747597348) | Tue Aug 30 2022 12:48 PM 
-    <details><summary>展开描述 ...</summary> 
-    我们继续 Linux 常见命令系列，回顾一下 grep 的常见用法。grep 在 Linux 诸多命令行工具中可以说是最强大，最经常使用的。我们可以用 grep 来找到需要的文本信息。 
-    </details> 
-
-- 💪 [抓 https 加密数据，偷偷摸摸爽得很！](https://juejin.cn/post/7137650081401929759) | Tue Aug 30 2022 12:47 PM 
-    <details><summary>展开描述 ...</summary> 
-    HTTPS是安全通道。如果浏览器导航栏前面有一个绿如A股的小锁，那么感觉就会非常的放心。 把自己见不得人的小心思和污言秽语，统统用这个小锁锁起来，为所欲为，想想就让人激动。 但是等等，Charles为 
     </details> 
 <!-- juejin:END -->
 ### 少数派
