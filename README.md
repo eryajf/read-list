@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Kaggle官方·数据科学比赛经验集；百度开源·飞桨图像数据标注高效工具；C++并发编程实践第2版·笔记；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7137554549828485133) | Tue Aug 30 2022 6:37 AM 
+- 🤗 [vite+vue3项目批量注册自定义组件的方法](https://juejin.cn/post/7137562715676999710) | Tue Aug 30 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 08-30 期，Surge 化学结构生成器；MARLlib 强化学习通用平台；PaddleLabel 飞桨图像数据标注工具；db2es 同步数据库到数据ES；少样本学习资源集 
+    vue2中全局注册自定义组件的方法一般都是使用webpack提供的require.context，那么vue3中如何全局批量注册自定义组件呢？通过阅读本文一起揭晓答案吧~ 
     </details> 
 
-- 🎡 [金九银十送你一份前端超详细知识手册，看完一定会有收获！](https://juejin.cn/post/7137549438423138341) | Tue Aug 30 2022 6:17 AM 
+- 🎡 [聊聊那个逐渐淡出大家视野的 React 替代品：Preact](https://juejin.cn/post/7137559254440869896) | Tue Aug 30 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-    花了大量时间整理的前端知识手册，内容由浅到深，主要是笔者对前端知识的复盘合集，干货满满，分享出来希望能一起交流进步，同样适合各个阶段的前端人学习和巩固，面试备战。另个人知识水平有限，如有纰漏，望不吝指 
+    什么是 React 的替代品呢？ 就是在语法和操作上都类似于 React 的框架或库，但它们可能具有 React 没有的某些功能。 
     </details> 
 
-- 🕯 [特效侧用户体验优化实战 —— 包体积篇](https://juejin.cn/post/7137544737023590437) | Tue Aug 30 2022 5:59 AM 
+- 🕯 [微模块-前端业务模块化探索&lpar;中&rpar;-落地与实例](https://juejin.cn/post/7137490422355476488) | Tue Aug 30 2022 2:28 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要讲述特效作为抖音中台之一，如何从代码优化、资源优化、编译优化方向精简包体积，支撑特效能力；如何通过工具实时监控包体积大小，定位包体积增长原因，拦截异常增长，提升开发效率，推动业务优化。 
+    前端微模块是DDD领域驱动在前端开发中的一种简化版落地方案，笔者在上文【微模块-前端业务模块化探索，拆解巨石应用的又一利器】中抛出了前端微模块的来由、定义、结构等基本概念，也阐述了为什么前端需要微模块 
     </details> 
 
-- 🚀 [【使用篇】WebView 实现嵌套滑动，丝滑般实现吸顶效果，完美兼容 X5 webview](https://juejin.cn/post/7137514464680607774) | Tue Aug 30 2022 4:02 AM 
+- 🚀 [『 干货』实现数组扁平化的 6 种方式](https://juejin.cn/post/7137308369886380040) | Mon Aug 29 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
-    WebView 实现嵌套滑动，丝滑般实现吸顶效果，完美兼容 X5 webview，有兴趣的可以看一下。 
+    在日常的开发中，我们最常用的数据结构就是数组，而数组一般又分为一维数组和多维数组。在开发中，当我们遇到多维数组时，操作较为复杂，因此我们需要将多维数组转换为一维数组，那么我们该如何转换呢？快来看一下吧 
     </details> 
 
-- 💪 [Audio Unit框架（四）构建APP](https://juejin.cn/post/7137512099407724551) | Tue Aug 30 2022 3:54 AM 
+- 💪 [lodash里的内部方法getFuncName和setToString](https://juejin.cn/post/7137308226554429470) | Mon Aug 29 2022 2:41 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第32天，[点击查看活动详情]&lpar;https://juejin.cn/post/7123120819437322247 &quot;https: 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第32天，点击查看活动详情 前言 本篇章我们主要是通过了解lodash里的两个内部方法getFuncName方法和setToStri 
     </details> 
 <!-- juejin:END -->
 ### 少数派
