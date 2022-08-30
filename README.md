@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[开学必备]推荐6个超高效学霸专属精美App 改变你的新学期](https://www.cnbeta.com/articles/tech/1310541.htm) | Tue Aug 30 2022 7:40 PM 
+- 🕯 [小米12S Ultra DXOMARK影像成绩公布](https://www.cnbeta.com/articles/tech/1310547.htm) | Tue Aug 30 2022 11:10 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;小米CEO雷军此前表示，&lt;strong&gt;小米12S Ultra不会送测DXOMARK，&lt;/strong&gt;不过，DXOMARK这次还是对这款旗舰新机的影像能力进行了测试。日前，DXOMARK公布了小米12S Ultra影像测试结果，DXOMARK表示，通过数百小时的专业测试和科学分析，&lt;strong&gt;小米12S Ultra在DXOMARK影像测试当中获得138分的总分，进入DXOMARK全球影像排行榜前五名。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [对话特斯拉超级充电负责人：正在与第三方适配 将适时开放超充站](https://www.cnbeta.com/articles/tech/1310545.htm) | Tue Aug 30 2022 11:09 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;昨天下午，特斯拉宣布在北京落地了第100座超级充电站，总计有890个超级充电桩。在活动现场，特斯拉超级充电开发和运营高级经理也接受了车东西等媒体的采访，就今年的发展规划、特斯拉的建站逻辑等问题进行了回答。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [美加州通过法案，要求在网上设置“护栏”来保护儿童](https://www.cnbeta.com/articles/tech/1310543.htm) | Tue Aug 30 2022 11:04 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;加利福尼亚州已经通过了一项儿童网络安全法案，如果该法案成为法律那么App Store应用将有义务提供针对年轻用户的安全功能。&lt;/strong&gt;随着澳大利亚政府要求提供有关儿童安全的细节及苹果提出保障措施的不可避免，加州一直在辩论一项新法案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [[开学必备]推荐6个超高效学霸专属精美App 改变你的新学期](https://www.cnbeta.com/articles/tech/1310541.htm) | Tue Aug 30 2022 7:40 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;金秋九月，各地学校陆续开学，来自四叶新媒体的提高学习效率的六款必备学霸应用系列又为你准备好迎战新的学年，&lt;/strong&gt;工欲善其事，必先利其器。好的学习 App 改变你的人生，follow 学霸们的 App 选择，助攻你升入市重点、985、211、雅思7分、考研成功、公考上岸！~&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [从太空看中国第一个被证实的陨石撞击坑](https://www.cnbeta.com/articles/science/1310539.htm) | Tue Aug 30 2022 5:00 PM 
+- 🎊 [从太空看中国第一个被证实的陨石撞击坑](https://www.cnbeta.com/articles/science/1310539.htm) | Tue Aug 30 2022 5:00 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;陨石撞击坑，大家可能都有所耳闻，但是你知道中国境内第一个被证实的陨石撞击坑在哪里吗？它就是岫岩坑，位于辽宁省鞍山市岫岩满族自治县苏子沟镇古龙村，处于低山丘陵当中，邻近哨子河畔。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [推特在全球推出仅供亲密朋友观看的圈子功能](https://www.cnbeta.com/articles/tech/1310537.htm) | Tue Aug 30 2022 3:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Twitter正在全球范围内推出其”圈子”功能，它可以让你向一组选定的人发布推文。&lt;/strong&gt;该公司于5月开始测试这项类似于Instagram”亲密朋友”的功能，现在它将向所有用户开放。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [明星云集的数字头像创业公司Genies推出NFT时尚市场](https://www.cnbeta.com/articles/tech/1310535.htm) | Tue Aug 30 2022 3:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;数字化身创业公司Genies因与贾斯汀-比伯（Justin Bieber）、米戈斯（Migos）和卡迪-B等名人的高调合作而闻名，它刚刚发布了期待已久的NFT店面 &amp;quot;The Warehouse&amp;quot;。&lt;/strong&gt;Genies在最近一次融资中从银湖&lpar;Silver Lake&rpar;和玛丽-米克&lpar;Mary Meeker&rpar;的邦德资本&lpar;Bond Capital&rpar;等重量级科技投资者那里获得了10亿美元的估值，4月份宣布的C轮融资为1.5亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [联想2022款ThinkPad X1 Fold 16英寸可折叠笔记本电脑曝光](https://www.cnbeta.com/articles/tech/1310533.htm) | Tue Aug 30 2022 3:27 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据泄漏的消息，&lt;strong&gt;联想显然很快就会推出16英寸的ThinkPad X1 Fold&lt;/strong&gt;，这是华硕ZenBook 17 Fold OLED的完美替代品。联想新的可折叠笔记本电脑，它将再次被称为&lt;a data-link=&quot;1&quot; href=&quot;https://c.duomai.com/track.php?site_id=242986&amp;euid=&amp;t=https://thinkpad.jd.com/&quot; target=&quot;_blank&quot;&gt;ThinkPad&lt;/a&gt; X1 Fold，但现在是16英寸，具体来说是16.3英寸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
