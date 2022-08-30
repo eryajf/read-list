@@ -403,7 +403,7 @@
 <!-- sspai:START -->
 - 👹 [小米 12S Ultra 摄影体验：好照片本不该被「权威」裹挟](https://sspai.com/post/75417) | Tue Aug 30 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-    本文使用的设备为少数派自购，文章内容仅代表作者的主观体验。就在曾经和我一块玩摄影的朋友们相继为这台Xiaomi12SUltra拍摄官方样张、或出镜「摄影师手记」的VCR广告后，碌碌无为的我也终于收到一 ...&lt;a href=&quot;https://sspai.com/post/75417&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    当你忘却联名带来的各种节外生枝，回归一种最简单的使用照相机的方式，Xiaomi 12S Ultra 的影像表现力确实配得上「卓越」一词。&lt;a href=&quot;https://sspai.com/post/75417&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
 - 🐘 [咖啡地图 | 2022 年，是时候重新认识云南咖啡了](https://sspai.com/post/75308) | Tue Aug 30 2022 7:54 AM 
