@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现特定蛋白质GLI1如何导致致命的癌症](https://www.cnbeta.com/articles/science/1310499.htm) | Tue Aug 30 2022 1:17 PM 
+- 🕯 [赴美国卖车，蔚来自动驾驶发展的“救命良药”？](https://www.cnbeta.com/articles/tech/1310519.htm) | Tue Aug 30 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;加州大学欧文分校的研究人员对某种蛋白质如何在肿瘤细胞中被激活的发现可能会带来对一些最致命的癌症类型的更有效的诊断和治疗。这一发现由生物科学学院的科学家领导，可以带来对特别危险的黑色素瘤和胰腺癌，以及最常见的儿童脑癌和成人皮肤癌的治疗方案。该研究发表在《生命科学联盟》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近的半个月，李斌有点忙。一周前，有外媒报道，蔚来CEO李斌和多位高管到访北美总部，了解蔚来在美国的自动驾驶与充换电业务筹备情况，并与蔚来美国房地产负责人Scott Lifschultz一起参观美国第一座NIO House的建设现场。蔚来此前曾官宣，计划于2025年进入美国市场，并于今年11月在该国部署第一个电池交换站。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [买“数字藏品”的年轻人：有人赚10万 有人被套牢](https://www.cnbeta.com/articles/tech/1310497.htm) | Tue Aug 30 2022 12:32 PM 
+- 💼 [与中国厂商竞争 马斯克的“大胆目标”能成吗？](https://www.cnbeta.com/articles/tech/1310517.htm) | Tue Aug 30 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;几十万买个数字头像，国外的无聊猿掀起的NFT热潮刮向国内。在风口上，短短一年时间，大厂纷纷入局，小平台野蛮生长。但最近，腾讯旗下幻核“退场”似乎意味着国内数藏行业进入冷静期。对玩家来说，一夜暴富的梦想，还能实现吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间8月30日消息，特斯拉公司CEO埃隆·马斯克&lpar;Elon Musk&rpar;正带领他的这家年轻公司走上一条其他汽车公司高管从未梦想过的激进扩张之路，但是这条路到处是坑洼和路障，可能会让这趟旅途陷入停滞或偏离正轨。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [李彦宏发内部信：在困难时期要有理性的信心](https://www.cnbeta.com/articles/tech/1310495.htm) | Tue Aug 30 2022 12:30 PM 
+- 💂 [新冠疫苗巨头康希诺业绩下滑近99% 2000亿市值变320亿](https://www.cnbeta.com/articles/tech/1310515.htm) | Tue Aug 30 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月30日消息，百度发布了第二季度财务报告，实现营收296.47亿元。财报发布后，百度董事长兼CEO李彦宏发布内部信表示，“要充分认知困难，并在每个工作决策中充分考虑这个前提。”李彦宏强调，“在困难时期，也要有理性的信心。这么多年来，百度一直试图用技术改变世界、用科技让复杂的世界更简单。技术给人们的生活、社会生产效率带来的价值是确定的。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据最新财报，&lt;strong&gt;康希诺公司2022年上半年营业收入6.3亿元，同比下降69.45％；归母净利润1223.8万元，同比下降98.69％；扣非净利润亏损5676.9万元，由盈转亏；基本每股收益0.0495元，同比减少98.69％。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [90岁的稻盛和夫走了  留下《活法》](https://www.cnbeta.com/articles/tech/1310493.htm) | Tue Aug 30 2022 12:29 PM 
+- 🚀 [Mozilla Firefox 104.0.1发布 修复观看YouTube时卡死问题](https://www.cnbeta.com/articles/tech/1310513.htm) | Tue Aug 30 2022 2:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;稻盛和夫的经营哲学像一股清流，滋润着经营者的心灵，让他们回归内心的清澈与安宁，尊重本心、利他之心，勤勉踏实，造福社会。8月30日传来消息，教导企业进行“阿米巴”（小微组织）经营的日本知名企业家稻盛和夫走了，享年90岁，他把《活法》留给了世界。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;对于在升级到104版本后遭受恼人的错误导致YouTube视频播放时浏览器卡死的Firefox用户来说，这里有一些好消息：Mozilla已经发布了104.0.1版本来解决这个问题。&lt;/strong&gt;Mozilla Firefox 104.0.1现在可以在支持的平台上使用，更新日志中只有一个修正：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [网友曝停电致电脑损坏：国家电网上门抱走电脑 修好送回](https://www.cnbeta.com/articles/tech/1310491.htm) | Tue Aug 30 2022 12:23 PM 
+- 🎊 [据传下一代Apple Watch将拥有新的&lpar;PRODUCT&rpar;RED红色机型 备货充足](https://www.cnbeta.com/articles/tech/1310511.htm) | Tue Aug 30 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;电网停电导致台式机损坏，国家电网竟然给免费修好了，这样的经历估计不少朋友都没有遇到过。日前，有网友爆料称，其本人是在四川某三线城市，&lt;strong&gt;前段时间因为高温限电经常停电，一天网上他正在电脑上玩LOL，结果突然停电。&lt;/strong&gt;等到再次来电后就发现电脑开不开机了，自己的电脑本来好好的，因为停电导致损坏，如果自费维修的话不就成了冤大头了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据被称为&amp;quot;ShrimpApplePro&amp;quot;的泄密者称，Apple Watch Series 8将带来&amp;quot;新的红色&amp;quot;即可，且预计不会出现延迟上市的情况。在今天早些时候的一条推文中，ShrimpApplePro表示，Apple Watch Series 8将继续提供41毫米和45毫米的外壳尺寸，就像Apple Watch Series 7一样。&lt;strong&gt;在补充之前关于Apple Watch Series 8颜色选择的报道时，这位泄密者说，该设备的&lpar;PRODUCT&rpar;RED选项将是&amp;quot;新的红色&amp;quot;。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
