@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [尽管苹果提出隐私担忧 Google Chrome 105今天仍会发布](https://www.cnbeta.com/articles/tech/1310439.htm) | Tue Aug 30 2022 9:15 AM 
+- 🕯 [Google Pixel Watch细节曝光：售价399美元 将与Pixel 7系列一起推出](https://www.cnbeta.com/articles/tech/1310457.htm) | Tue Aug 30 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本月早些时候，Google Chrome 104来到稳定通道，更新了网络蓝牙API，由于暴露了可用于侵犯用户隐私的访问指纹，Google面临苹果和Mozilla的一致批评。今天，Chrome 105还是会照常发布，虽然它不像以前的版本那样有争议，但苹果对这个版本还是有一些担忧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近几个月来，Pixel Watch的几个关键信息都以泄露的形式为我们所知，现在我们听到了Google将在今年秋天推出的这款可穿戴设备的定价。&lt;/strong&gt;Pixel Watch采用圆形表盘设计，宽约40毫米，厚约14毫米，官方尚未透露显示屏的分辨率，但根据早期的测量，仅计算屏幕的宽度约为30毫米。3点钟位置有一个表冠，可以旋转并按下，而在它的正上方有一个单一按钮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英特尔发布新版Wi-Fi驱动 已添加Windows 11 22H2支持](https://www.cnbeta.com/articles/tech/1310437.htm) | Tue Aug 30 2022 9:12 AM 
+- 💼 [海外Steam鉴赏家骗取游戏Key倒卖牟利 独立开发者机智反击](https://hot.cnbeta.com/articles/game/1310455.htm) | Tue Aug 30 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔近日为多款无线适配器发布了全新的驱动。本次驱动更新最值得关注的改进是，增加对即将到来的 Windows 11 22H2（官方可能叫做 Windows 11 2022 Update）的支持，并修复了几个已知问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，由COWCAT开发的冒险题材游戏《鳄鱼侦探布罗格》在Steam平台正式发售，售价70元，支持中文。该作在发售后获得了玩家们的一致好评，Steam测评为“特别好评”（100%好评），但奇怪的是，许多Steam鉴赏家却为该作打出了不推荐的评价，这与玩家的反馈截然相反。随后，游戏开发商COWCAT发文表示，他们知道这是为什么。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1310455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [怒喵发布TWS耳机CYBERBLADE 售价2200元](https://www.cnbeta.com/articles/tech/1310435.htm) | Tue Aug 30 2022 9:03 AM 
+- 💂 [百度Q2财报出炉：百度APP终于打败腾讯QQ](https://www.cnbeta.com/articles/tech/1310453.htm) | Tue Aug 30 2022 10:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月30日，怒喵科技首款TWS耳机CYBERBLADE正式发布，怒喵科技CEO李楠表示，TWS市场“病了”，怒喵试图着手解决AirPods为这个市场带来的问题。&lt;/strong&gt;李楠表示，AirPods系列在TWS市场地位独一无二，其带来的两个问题是： 首先AirPods实际上在低延迟优化部分的表现并不尽人意，即使是即将发布的第二代AirPods Pro，实际延迟也不会低于100毫秒，这对于桌面有游戏需求的用户非常不可接受，不适用于对游戏有更高追求的玩家；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月30日，百度发布2022年Q2财报，该季度百度营收296亿元，净利润55亿元，同比增长3%，环比增长43%，超市场预期。值得一提的是，&lt;strong&gt;6月，百度APP的月活跃用户数达到6.28亿，同比增长8%&lt;/strong&gt;，日登录用户占比84%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [ColorOS 13正式发布：全新“水生万物”理念 开启全面流畅和智慧互融新体验](https://www.cnbeta.com/articles/tech/1310433.htm) | Tue Aug 30 2022 8:46 AM 
+- 🚀 [微软推出基于Ampere Altra处理器的ARM架构Azure虚拟机](https://www.cnbeta.com/articles/tech/1310451.htm) | Tue Aug 30 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022OPPO开发者大会（ODC22）上，全新一代ColorOS 13操作系统与“潘塔纳尔”智慧跨端系统正式发布。全面升级的ColorOS 13以“水生万物”为理念，从生命之源中汲取灵感，为系统注入生命的张力，关注每个人细微的需求，致力于为用户带来活力、流畅、智慧、可靠的美好数字生活体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软宣布全面推出采用基于Arm架构的Ampere Altra处理器的Azure虚拟机。从2022年9月1日起，Azure客户可以在10个服务区域启动这些虚拟机（VM），并将其纳入用Azure Kubernetes服务管理的Kubernetes集群。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [科学家展示可按需生物降解和可回收的印刷电路](https://www.cnbeta.com/articles/science/1310431.htm) | Tue Aug 30 2022 8:45 AM 
+- 🎊 [日本“元祖歌姬”中森明菜宣布复出 现年57岁](https://hot.cnbeta.com/articles/music/1310449.htm) | Tue Aug 30 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，旧的电子产品很难回收，这意味着它们堵塞了垃圾填埋场，同时也锁住了有价值的金属。现在，&lt;strong&gt;科学家们已经展示了可按需降解的印刷电路，使其材料恢复到可再利用的形式。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天（8月30日），日本著名女歌手中森明菜突然开设推特账号，宣布身体状况有所好转，将重启演艺活动，并成立新的个人事务所，准备出道40周年纪念活动。她还将一张设为头像，照片中她留着长发，笑容灿烂。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1310449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
