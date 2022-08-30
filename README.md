@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [《高阶前端指北》之Web人脸识别技术实现](https://juejin.cn/post/7137596077603028999) | Tue Aug 30 2022 9:18 AM 
+- 🤗 [体验 Scala 的 Play Web 框架](https://juejin.cn/post/7137618844268363783) | Tue Aug 30 2022 10:48 AM 
     <details><summary>展开描述 ...</summary> 
-    `WebRTC`，是一项实时通讯技术，它允许网络应用或者站点，在不借助中间媒介的情况下，建立浏览器之间点对点（Peer-to-Peer）的连接，实现视频流和（或）音频流或者其他任意数据的传输。WebR 
+    在本文中将介绍 Scala 的 Play Web 开发框架。我们将会学习如何创建一个 Play 项目，使用开发工具生成我们的第一个项目以及实现自定义的功能，另外还将体验一下 Play 框架的 
     </details> 
 
-- 🎡 [字节跳动端智能工程链路 Pitaya 的架构设计](https://juejin.cn/post/7137595264428146719) | Tue Aug 30 2022 9:15 AM 
+- 🎡 [简单手写实现React的createElement和render](https://juejin.cn/post/7137603546819592229) | Tue Aug 30 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
-    Pitaya是由字节跳动的Client AI 团队与 MLX 团队共同构建的一套端智能工程链路，为端智能应用提供从开发到部署的全链路支持。 
+    今天开始正式，学习写源码系列，本系列是学习系列。 本文的目标是，手写实现createElement和render。总体简单，可以跟练 
     </details> 
 
-- 🕯 [浏览器控制台如何去掉Vue warn警告](https://juejin.cn/post/7137592333364625444) | Tue Aug 30 2022 9:03 AM 
+- 🕯 [美团组件化事件总线方案改进：ModularEventBus](https://juejin.cn/post/7137602073188630535) | Tue Aug 30 2022 9:42 AM 
     <details><summary>展开描述 ...</summary> 
-    浏览器控制台如果告警日志太多，页面可能会卡死，vue配置的时候可以吧告警日志关掉 过滤告警日志前 过滤告警日志后 如何处理? 
+    2 年前，我们收集过各大厂的组件化方案。其中，有美团收银团队分享的组件化总线框架 modular-event 让我们印象深刻。在学习和借鉴美团方案中很多优秀的设计思想后，我亦发现方案中依然不足。 
     </details> 
 
-- 🚀 [基于KubeEdge的边缘节点分组管理设计与实现](https://juejin.cn/post/7137592050760810526) | Tue Aug 30 2022 9:02 AM 
+- 🚀 [axios取消功能的设计与实现](https://juejin.cn/post/7137600734060609567) | Tue Aug 30 2022 9:36 AM 
     <details><summary>展开描述 ...</summary> 
-    KubeEdge 1.11版本提供了“边缘节点分组管理”新特性，抽象出了跨地域的应用部署模型。该模型将边缘节点按地区划分为节点组，降低了边缘应用生命周期管理的复杂度，有效减少运维成本。 
+    现在有一个需求，可以让用户来定义异步任务的执行状态，axios就给我们演示了如何让用户决定异步任务的执行状态。重点是把reslove函数传递到外部，方法是通过一个函数包裹然后扔给外部变量。 
     </details> 
 
-- 💪 [微信公众号内H5调用扫码](https://juejin.cn/post/7137577449957228558) | Tue Aug 30 2022 8:06 AM 
+- 💪 [某车联网App 通讯协议加密分析](https://juejin.cn/post/7137600704146833421) | Tue Aug 30 2022 9:36 AM 
     <details><summary>展开描述 ...</summary> 
-    本文用于个人记录，技术积累；微信公众号H5调用扫码功能，便于用户进行表单的填写；通过wx-js-sdk进行功能实现 
+    一、目标 李老板：最近刚买了辆新车，他带的App挺有意思，要不要盘一盘？ 奋飞: 我去，加壳了，还挺有意思，搞一搞。 v6.1.0 二、步骤 抓包 我的抓包环境是 Mac 10.14.6 + http 
     </details> 
 <!-- juejin:END -->
 ### 少数派
