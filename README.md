@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [SuprSend - 所有渠道的产品通知基础设施](https://xinquji.com/posts/179113?utm_campaign=xinquji-rss) | Tue Aug 30 2022 6:26 AM 
+- 👀 [Next.js Runtime by Netlify - Next.js 更好的运行时](https://xinquji.com/posts/179136?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     所有渠道的产品通知基础设施  
+     Next.js 更好的运行时  
     </details> 
 
-- 🥷 [Poised 2.0 - 用于在线会议的人工智能沟通教练](https://xinquji.com/posts/179112?utm_campaign=xinquji-rss) | Tue Aug 30 2022 6:24 AM 
+- 🥷 [Burnout Index 2.0 - 免费检查您的倦怠风险和工作投入水平](https://xinquji.com/posts/179135?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     用于在线会议的人工智能沟通教练  
+     免费检查您的倦怠风险和工作投入水平  
     </details> 
 
-- 💼 [MakerBox Roasting - 在 48 小时内烤好您的着陆页](https://xinquji.com/posts/179111?utm_campaign=xinquji-rss) | Tue Aug 30 2022 6:24 AM 
+- 💼 [Ultimate Brain for Notion - 任务、笔记、项目和 PARA 组织都在 Notion 中](https://xinquji.com/posts/179134?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     在 48 小时内烤好您的着陆页  
+     任务、笔记、项目和 PARA 组织都在 Notion 中  
     </details> 
 
-- 🦅 [Cirka - 您的个人预算，自动洞察](https://xinquji.com/posts/179110?utm_campaign=xinquji-rss) | Tue Aug 30 2022 6:22 AM 
+- 🦅 [Tails V2 - 顺风网站创建者、设计工具和组件库](https://xinquji.com/posts/179133?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     您的个人预算，自动洞察  
+     顺风网站创建者、设计工具和组件库  
     </details> 
 
-- 😺 [ProjectsForSale - 出售优质副项目](https://xinquji.com/posts/179109?utm_campaign=xinquji-rss) | Tue Aug 30 2022 6:22 AM 
+- 😺 [Content Creator - 管理您的内容创作之旅的最简单方法](https://xinquji.com/posts/179132?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     出售优质副项目  
+     管理您的内容创作之旅的最简单方法  
     </details> 
 <!-- xinquji:END -->
