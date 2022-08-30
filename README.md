@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vue 函数柯里化](https://juejin.cn/post/7137333642157621285) | Mon Aug 29 2022 4:22 PM 
+- 🤗 [羡慕实时数据看板？来看看Python的交互数据分析可视化工具！ ⛵](https://juejin.cn/post/7137479326823350302) | Tue Aug 30 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-    函数柯里化 什么是函数柯里化 维基百科上说道：柯里化，英语：Currying&lpar;果然是满满的英译中的既视感&rpar;，是把接受多个参数的函数变换成接受一个单一参数（最初函数的第一个参数）的函数，并且返回接受余下 
+    Altair是Python统计可视化库，提供了强大而简洁的可视化语法，产出漂亮的数据可视化结果，并支持交互式操作和勾选局部数据深入分析。本文以实例讲解Altair数据分析过程，以及交互文档报告的生成。 
     </details> 
 
-- 🎡 [B+树索引（12）之索引前缀](https://juejin.cn/post/7137326245011783693) | Mon Aug 29 2022 3:51 PM 
+- 🎡 [vivo前端智能化实践：机器学习在自动网页布局中的应用](https://juejin.cn/post/7137473471650463774) | Tue Aug 30 2022 1:22 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第29天，点击查看活动详情 B+树索引（12）之索引前缀 前言 我们知道无论是主键索引（聚簇索引）或者是二级索引都是将指定列信息完整 
+    在设计稿转网页中运用基于self-attention机制设计的机器学习模型进行设计稿的布局，能够结合dom节点的上下文得出合理的方案。 
     </details> 
 
-- 🕯 [聊聊 input file 之文件上传](https://juejin.cn/post/7137325808208576520) | Mon Aug 29 2022 3:50 PM 
+- 🕯 [列存数据仓库怎样做才能更高效](https://juejin.cn/post/7137473440629391391) | Tue Aug 30 2022 1:22 AM 
     <details><summary>展开描述 ...</summary> 
-    近期移动端项目用到了图片上传的功能，之前一直没有接触过，不知道原来在不需要后端的情况下前端就能够做那么多事情，再次感叹 HTML5 的强大。 
+    很多数据仓库产品都采用了列式存储。如果数据表的总列数很多而计算涉及的列很少，采用列存就只读取需要的列即可，能够减少硬盘访问量，提高性能。特别是数据量非常大时，硬盘扫描和读取的时间占比很大，这时候列存的 
     </details> 
 
-- 🚀 [Jira 任务管理系统项目总结](https://juejin.cn/post/7137325435956199455) | Mon Aug 29 2022 3:49 PM 
+- 🚀 [jQuery DOM 属性（下）](https://juejin.cn/post/7137468544190529572) | Tue Aug 30 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
-    前段时间做了一个任务管理系统的项目，不仅巩固了自己的 React 和 TS 知识，同时也学到了很多性能优化、性能追踪等新知识，希望自己可以凭借新的项目和自己的理解慢慢在前端领域有自己的见解~ 
+    DOM属性&lpar;下&rpar; .html&lpar;&rpar; 获取集合中第一个匹配元素的HTML内容 在一个 HTML 文档中, 我们可以使用 .html&lpar;&rpar; 方法来获取任意一个元素的内容。 如果选择器匹配多个元素，那么只有第一 
     </details> 
 
-- 💪 [SAP UI5 里的 Busy Indicator 控件使用概述](https://juejin.cn/post/7137324373676916773) | Mon Aug 29 2022 3:44 PM 
+- 💪 [jQuery DOM 属性（上）](https://juejin.cn/post/7137467921327980551) | Tue Aug 30 2022 1:02 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第34天，点击查看活动详情 这个 SAP UI5 控件的命名控件：sap.m.BusyIndicator Busy Indicato 
+    DOM属性&lpar;上&rpar; .addClass&lpar;&rpar; 为每个匹配的元素添加指定的样式类名 值得注意的是这个方法不会替换一个样式类名。它只是简单的添加一个样式类名到元素上。 对所有匹配的元素可以一次添加多个用空格隔 
     </details> 
 <!-- juejin:END -->
 ### 少数派
