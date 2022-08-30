@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [赴美国卖车，蔚来自动驾驶发展的“救命良药”？](https://www.cnbeta.com/articles/tech/1310519.htm) | Tue Aug 30 2022 2:18 PM 
+- 🕯 [学术圈也能“子承父业”？近 1/4 终身教授的父母是博士，名校概率翻倍](https://www.cnbeta.com/articles/science/1310531.htm) | Tue Aug 30 2022 3:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近的半个月，李斌有点忙。一周前，有外媒报道，蔚来CEO李斌和多位高管到访北美总部，了解蔚来在美国的自动驾驶与充换电业务筹备情况，并与蔚来美国房地产负责人Scott Lifschultz一起参观美国第一座NIO House的建设现场。蔚来此前曾官宣，计划于2025年进入美国市场，并于今年11月在该国部署第一个电池交换站。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“一项惊人的发现暴露了学术界持续存在的不平等。”这话出自 Nature 子刊的副主编 Arunas Radzvilavicius 之口。让他感到震惊的是一篇最新论文揭示的美国学术圈现象：近四分之一终身教授的父母拥有博士学位，这个比例是普通人口的 25 倍。而在名校，这一数据还要再翻一倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [与中国厂商竞争 马斯克的“大胆目标”能成吗？](https://www.cnbeta.com/articles/tech/1310517.htm) | Tue Aug 30 2022 2:13 PM 
+- 💼 [iPhone 14 各种新传言：无远峰蓝、MagSafe 磁铁吸力更强](https://www.cnbeta.com/articles/tech/1310529.htm) | Tue Aug 30 2022 3:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间8月30日消息，特斯拉公司CEO埃隆·马斯克&lpar;Elon Musk&rpar;正带领他的这家年轻公司走上一条其他汽车公司高管从未梦想过的激进扩张之路，但是这条路到处是坑洼和路障，可能会让这趟旅途陷入停滞或偏离正轨。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;距离苹果 9 月 8 日发布会越来越近，有关于 iPhone 14 和 iPhone 14 Pro 的相关细节开始大量出现。韩国博客 Naver 上的用户 yeux1122 ，给出了 iPhone 14 颜色、性能、功能等各种预测。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新冠疫苗巨头康希诺业绩下滑近99% 2000亿市值变320亿](https://www.cnbeta.com/articles/tech/1310515.htm) | Tue Aug 30 2022 2:10 PM 
+- 💂 [中国女性福音：九价HPV疫苗扩龄至9-45岁](https://www.cnbeta.com/articles/tech/1310527.htm) | Tue Aug 30 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据最新财报，&lt;strong&gt;康希诺公司2022年上半年营业收入6.3亿元，同比下降69.45％；归母净利润1223.8万元，同比下降98.69％；扣非净利润亏损5676.9万元，由盈转亏；基本每股收益0.0495元，同比减少98.69％。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月30日，&lt;strong&gt;默沙东公司宣布，其九价人乳头瘤病毒疫苗&lpar;酿酒酵母&rpar; ，也就是九价HPV疫苗，新适应证已获得中国国家药品监督管理局批准，适用人群拓展至9-45岁适龄女性。&lt;/strong&gt;默沙东还有四价HPV疫苗，已经适用于9-45岁女性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Mozilla Firefox 104.0.1发布 修复观看YouTube时卡死问题](https://www.cnbeta.com/articles/tech/1310513.htm) | Tue Aug 30 2022 2:06 PM 
+- 🚀 [CPU-Z 2.02发布：正式支持AMD Zen4 还有三个迟到](https://www.cnbeta.com/articles/soft/1310525.htm) | Tue Aug 30 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;对于在升级到104版本后遭受恼人的错误导致YouTube视频播放时浏览器卡死的Firefox用户来说，这里有一些好消息：Mozilla已经发布了104.0.1版本来解决这个问题。&lt;/strong&gt;Mozilla Firefox 104.0.1现在可以在支持的平台上使用，更新日志中只有一个修正：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD刚刚发布5nm工艺、Zen4架构的锐龙7000系列处理器，CPU-Z 2.02版本就发布了，加入了正式支持，&lt;strong&gt;包括锐龙9 7950X、锐龙9 7900X、锐龙7 7700X、锐龙5 7600X全部四款型号。&lt;/strong&gt;同时，&lt;strong&gt;AMD EXPO DDR5内存超频技术，X670E/B650主板，也都得到了支持&lt;/strong&gt;，但更新日志未提及X670、B650E，理论上也会支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1310525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [据传下一代Apple Watch将拥有新的&lpar;PRODUCT&rpar;RED红色机型 备货充足](https://www.cnbeta.com/articles/tech/1310511.htm) | Tue Aug 30 2022 2:03 PM 
+- 🎊 [辛巴发长文爆料刘畊宏夫妇卖假货](https://www.cnbeta.com/articles/tech/1310523.htm) | Tue Aug 30 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据被称为&amp;quot;ShrimpApplePro&amp;quot;的泄密者称，Apple Watch Series 8将带来&amp;quot;新的红色&amp;quot;即可，且预计不会出现延迟上市的情况。在今天早些时候的一条推文中，ShrimpApplePro表示，Apple Watch Series 8将继续提供41毫米和45毫米的外壳尺寸，就像Apple Watch Series 7一样。&lt;strong&gt;在补充之前关于Apple Watch Series 8颜色选择的报道时，这位泄密者说，该设备的&lpar;PRODUCT&rpar;RED选项将是&amp;quot;新的红色&amp;quot;。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;直播带货 “一哥”辛巴今日在某直播平台发长文，再次详细讲述了之前引起争议的卖假燕窝事件。他透露，很多网红明星都曾卖过同款燕窝，其中还包括现在正当红的刘畊宏。他也为给消费者带来了不好的消费体验而再次道歉。据悉，此前辛巴曾因为售卖假燕窝一事备受外界非议，辛巴向消费者承诺退一赔三，进行了赔付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
