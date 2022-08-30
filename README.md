@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [现实的伤，在游戏里得到治愈——谈谈《光遇》玩家现状](https://sspai.com/post/75397) | Tue Aug 30 2022 3:16 AM 
+- 👹 [一日一技 | 给 Windows 换个「大房子」：不用第三方工具如何迁移系统](https://sspai.com/post/75399) | Tue Aug 30 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    除了使用第三方工具，使用 Windows 内置的工具我们也可以将原先旧硬盘的系统盘「克隆」到新硬盘中。&lt;a href=&quot;https://sspai.com/post/75399&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [现实的伤，在游戏里得到治愈——谈谈《光遇》玩家现状](https://sspai.com/post/75397) | Tue Aug 30 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     没有哪个游戏能一直陪伴着人们，《光遇》就像一位朋友，陪我们走过一段路，温暖了我们一段时光，待我们重新拾起上路的勇气后，就和他挥手告别继续前行。&lt;a href=&quot;https://sspai.com/post/75397&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [周边新品 | 我们做了一款能玩又能用的「赛獭」野餐垫](https://sspai.com/post/75425) | Tue Aug 30 2022 3:02 AM 
+- 🤭 [周边新品 | 我们做了一款能玩又能用的「赛獭」野餐垫](https://sspai.com/post/75425) | Tue Aug 30 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     野餐垫作为基础功能性产品，「能用」本身实在没什么好讲的，于是我们将它变成了一款「能玩」的产品。&lt;a href=&quot;https://sspai.com/post/75425&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：AMD 举办 7000 系处理器发布会，《冒险岛 2》将停服](https://sspai.com/post/75431) | Tue Aug 30 2022 1:01 AM 
+- 🥸 [派早报：AMD 举办 7000 系处理器发布会，《冒险岛 2》将停服](https://sspai.com/post/75431) | Tue Aug 30 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
     索尼互动娱乐宣布收购 Savage Game Studios，三星 Bixby 推出「嗨，三星小贝」唤醒词等。&lt;a href=&quot;https://sspai.com/post/75431&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/75429) | Mon Aug 29 2022 9:20 AM 
+- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/75429) | Mon Aug 29 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75429&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [给更年期的妈妈多一点爱：我们该懂什么、能做什么](https://sspai.com/post/75419) | Mon Aug 29 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    当它突然出现在生命里时，你就知道了该如何面对；当它出现在身边人身上，你也知道该如何帮助她们步入这个全新的人生阶段。&lt;a href=&quot;https://sspai.com/post/75419&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
