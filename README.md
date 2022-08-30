@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [雅马哈升级版无人驾驶直升机最大可承载50公斤的有效载荷](https://www.cnbeta.com/articles/tech/1310421.htm) | Tue Aug 30 2022 8:19 AM 
+- 🕯 [尽管苹果提出隐私担忧 Google Chrome 105今天仍会发布](https://www.cnbeta.com/articles/tech/1310439.htm) | Tue Aug 30 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;雅马哈推出了升级版Fazer R G2 无人驾驶直升机，为其配备了更大的推力和更大的有效载荷能力。&lt;/strong&gt;这应该使它更适合进行空中交付，该公司预计这将有助于降低劳动力成本和施工时间，以及其他用途。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本月早些时候，Google Chrome 104来到稳定通道，更新了网络蓝牙API，由于暴露了可用于侵犯用户隐私的访问指纹，Google面临苹果和Mozilla的一致批评。今天，Chrome 105还是会照常发布，虽然它不像以前的版本那样有争议，但苹果对这个版本还是有一些担忧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中国石化首座社区超级充电站投用：25分钟即可充满一辆车](https://www.cnbeta.com/articles/tech/1310419.htm) | Tue Aug 30 2022 8:14 AM 
+- 💼 [英特尔发布新版Wi-Fi驱动 已添加Windows 11 22H2支持](https://www.cnbeta.com/articles/tech/1310437.htm) | Tue Aug 30 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中国石化官方消息，近日中国石化全国首座社区超级充电站——莲花超级充电站在福建省龙岩市建成投用。该项目规划面积约4800平方米，同时可为24辆车充电，集加油、充电、光伏、休憩等为一体，&lt;strong&gt;最快25分钟可充满约400公里续航能力的普通家用轿车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔近日为多款无线适配器发布了全新的驱动。本次驱动更新最值得关注的改进是，增加对即将到来的 Windows 11 22H2（官方可能叫做 Windows 11 2022 Update）的支持，并修复了几个已知问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [神奇：一条铁路上的两座车站 直线距离不到1公里 走路都比坐车快](https://www.cnbeta.com/articles/tech/1310417.htm) | Tue Aug 30 2022 8:09 AM 
+- 💂 [怒喵发布TWS耳机CYBERBLADE 售价2200元](https://www.cnbeta.com/articles/tech/1310435.htm) | Tue Aug 30 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;云贵高原乌蒙山深处，六盘水市营盘苗族彝族白族乡，位于水红铁路沿线，拥有3座车站——茅草坪、渡船寨、三家寨。有意思的是，&lt;strong&gt;茅草坪站到渡船寨站的直线距离为950米，渡船寨站到三家寨站的直线距离为1000米。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月30日，怒喵科技首款TWS耳机CYBERBLADE正式发布，怒喵科技CEO李楠表示，TWS市场“病了”，怒喵试图着手解决AirPods为这个市场带来的问题。&lt;/strong&gt;李楠表示，AirPods系列在TWS市场地位独一无二，其带来的两个问题是： 首先AirPods实际上在低延迟优化部分的表现并不尽人意，即使是即将发布的第二代AirPods Pro，实际延迟也不会低于100毫秒，这对于桌面有游戏需求的用户非常不可接受，不适用于对游戏有更高追求的玩家；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NASA工程师开始评估Artemis I发射取消背后的数据](https://www.cnbeta.com/articles/science/1310415.htm) | Tue Aug 30 2022 7:57 AM 
+- 🚀 [ColorOS 13正式发布：全新“水生万物”理念 开启全面流畅和智慧互融新体验](https://www.cnbeta.com/articles/tech/1310433.htm) | Tue Aug 30 2022 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;工程师们正在评估8月29日周一Artemis I发射尝试中收集的数据，该尝试在美东部时间上午8点34分左右被发射主管叫停。&lt;/strong&gt;由于团队无法使火箭引擎达到升空时启动引擎所需的适当温度范围并在两小时的发射窗口中耗尽了继续发射的时间，因此该次发射被终止。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022OPPO开发者大会（ODC22）上，全新一代ColorOS 13操作系统与“潘塔纳尔”智慧跨端系统正式发布。全面升级的ColorOS 13以“水生万物”为理念，从生命之源中汲取灵感，为系统注入生命的张力，关注每个人细微的需求，致力于为用户带来活力、流畅、智慧、可靠的美好数字生活体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [前微软设计师吐槽Windows 11开始菜单广告太丑：文本错误 背景老式](https://www.cnbeta.com/articles/tech/1310413.htm) | Tue Aug 30 2022 7:56 AM 
+- 🎊 [科学家展示可按需生物降解和可回收的印刷电路](https://www.cnbeta.com/articles/science/1310431.htm) | Tue Aug 30 2022 8:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;同 Windows 8 一样，Windows 11 系统也对开始菜单进行了非常大的变动。全新的开始菜单不再支持动态磁贴，虽然改为静态图标，但是不再支持自定义。新版开始菜单在推出后褒贬不一，而其中最令人诟病的一点就是内置广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，旧的电子产品很难回收，这意味着它们堵塞了垃圾填埋场，同时也锁住了有价值的金属。现在，&lt;strong&gt;科学家们已经展示了可按需降解的印刷电路，使其材料恢复到可再利用的形式。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
