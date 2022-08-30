@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [罗马尼亚挖掘出一座青铜时代的古墓，属于6500年前“极其富有”的某女性](http://jandan.net/p/111232) | Tue Aug 30 2022 6:44 AM 
+- 🚀 [一种全新肉味调料闪亮登场，要感谢糖——以及面包虫](http://jandan.net/p/111243) | Tue Aug 30 2022 12:45 PM 
+    <details><summary>展开描述 ...</summary> 
+    一种成功的昆虫食品将对同类食品产生雪球效应。 
+    </details> 
+
+- 🙉 [罗马尼亚挖掘出一座青铜时代的古墓，属于6500年前“极其富有”的某女性](http://jandan.net/p/111232) | Tue Aug 30 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
     古墓中的宝藏包括 169个金环、800颗骨珠和一个华丽的螺旋铜手镯 
     </details> 
 
-- 🙉 [今日好价 0830 [更新]](http://jandan.net/p/111239) | Tue Aug 30 2022 4:08 AM 
+- 🎉 [今日好价 0830 [更新]](http://jandan.net/p/111239) | Tue Aug 30 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
     万默咖啡新赠品：“去远方”咖啡杯 
     </details> 
 
-- 🎉 [鱼吃多了容易得黑色素瘤？](http://jandan.net/p/111238) | Tue Aug 30 2022 3:55 AM 
+- 🐲 [鱼吃多了容易得黑色素瘤？](http://jandan.net/p/111238) | Tue Aug 30 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
     以为吃得健康？别忘了污染问题 
     </details> 
 
-- 🐲 [在学校操场周边种上植物 可以大大减少儿童在空气污染中的暴露程度](http://jandan.net/p/111223) | Tue Aug 30 2022 3:47 AM 
+-  [在学校操场周边种上植物 可以大大减少儿童在空气污染中的暴露程度](http://jandan.net/p/111223) | Tue Aug 30 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
     不仅限于学校，精心挑选和管理的树堑也可用于城市的其他地区，以减少交通污染对健康的影响。 
-    </details> 
-
--  [为何蚊子如此善于捕捉你的气味](http://jandan.net/p/111234) | Mon Aug 29 2022 3:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    人类要想在这种昆虫面前隐藏气味比研究者们想的复杂得多 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
