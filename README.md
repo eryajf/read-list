@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉在日本悄然建立了一个虚拟发电厂](https://www.cnbeta.com/articles/tech/1310105.htm) | Mon Aug 29 2022 11:18 PM 
+- 🕯 [增收不增利 张小泉“快刀断财路”](https://www.cnbeta.com/articles/tech/1310317.htm) | Tue Aug 30 2022 4:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉的最新虚拟发电厂设在了日本。&lt;strong&gt;该公司逾周五宣布，自2021年以来，它一直悄悄地在宫古岛的家庭中安装其Powerwall电池，现在已经安装了300多个。&lt;/strong&gt;根据该声明，这是日本最大的商业虚拟发电厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月28日，张小泉发布了2022年上半年的业绩：营收增长超3成，但净利润下滑达22.52%。从财报中看，上半年张小泉加大生产产能、线上线下的渠道、品牌形象等各方面的投入，各种成本和费用均大幅增加，明显是牺牲利润保证销售规模和影响力的做法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新Apple Watch研究正在努力减少房颤患者的血液稀释剂使用量](https://www.cnbeta.com/articles/tech/1310103.htm) | Mon Aug 29 2022 11:13 PM 
+- 💼 [爱立信、诺基亚将在年底前逐步关闭俄罗斯业务](https://www.cnbeta.com/articles/tech/1310315.htm) | Tue Aug 30 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Apple Watch正在被用作一项研究的一部分以确定是否有可能减少用于预防中风和心房颤动的昂贵血液稀释剂的使用。&lt;/strong&gt;这项为期七年的研究从美国心肺和血液研究所获得了3700万美元的资金，旨在解决血液稀释剂的使用问题，这是一种通常用于预防心房颤动&lpar;AFib&rpar;的药物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;爱立信于当地时间周一表示，它将在未来几个月内逐步结束在俄罗斯的业务活动，而其芬兰竞争对手诺基亚也表示，它也计划在今年年底前关闭大部分俄罗斯业务。&lt;/strong&gt;爱立信在4月无限期暂停了在俄罗斯的业务，而诺基亚则更进一步，称其将完全退出俄罗斯。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [安全功能成可怕噩梦 特斯拉因幽灵刹车被提起集体诉讼](https://www.cnbeta.com/articles/tech/1310101.htm) | Mon Aug 29 2022 11:12 PM 
+- 💂 [澳大利亚：若美科技巨头不披露删除虐待儿童材料措施 日均罚款55.5万澳元](https://www.cnbeta.com/articles/tech/1310313.htm) | Tue Aug 30 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;诉讼文件显示，一名特斯拉Model 3的加州车主在一桩拟议的集体诉讼中起诉了特斯拉，原因是汽车为了不存在的障碍物而突然停下来，并称这是一场“可怕而危险的噩梦”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;澳大利亚监管机构向Facebook母公司Meta、苹果公司和微软公司发出法律信函，&lt;strong&gt;要求其分享平台打击虐待儿童材料的策略，否则将面临巨额罚款&lt;/strong&gt;。监管机构利用1月生效的法律，迫使科技巨头们披露他们在28天内采取的检测和删除虐待儿童材料的措施。&lt;strong&gt;如若不然，将面临每天555000澳元（约合人民币265万元）的罚款&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [华为首款NAS“华为家庭存储”即将到来 支持手机、PC扩容](https://www.cnbeta.com/articles/tech/1310099.htm) | Mon Aug 29 2022 11:11 PM 
+- 🚀 [《龙之家族》大受欢迎 现已播出两集](https://hot.cnbeta.com/articles/movie/1310311.htm) | Tue Aug 30 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月6日，华为将举行Mate 50系列及全场景新品秋季发布会，随着发布会临近，关于这场新品发布会的“猛料”也越来越多。除华为Mate 50系列外，华为首款NAS产品也有望在发布会上登场。日前，有博主晒出了一款名为“华为家庭存储”的包装盒，并称是9月6日发布会上其中一款新品，从包装盒来看，&lt;strong&gt;这款产品支持手机、PC扩容，金融级隐私保护、图片搜索秒级呈现等特性。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;就在8月28日周日播出的HBO的《龙之家族》第二集之前，该电视台周五宣布了一个感觉像是已成定局的消息--这部《权力的游戏》前传的第二季肯定会到来。在宣布这一消息的同时，HBO还补充称，《龙之家族》还是HBO历史上原创剧集中观众最多的一次亮相。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1310311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [iPhone 14系列屏幕由三家供应商提供：三星占大头](https://www.cnbeta.com/articles/tech/1310097.htm) | Mon Aug 29 2022 11:10 PM 
+- 🎊 [壮观的“幽灵星系”图像展示了韦伯望远镜的强大力量](https://www.cnbeta.com/articles/science/1310309.htm) | Tue Aug 30 2022 3:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月30日消息，业内人士Ross Young透露，iPhone 14系列面板供应商有三家，分别是三星、京东方和LG Display。在6月到9月这3个月时间里，iPhone 14系列有82%的面板由三星提供，去年同期三星面板在iPhone 13系列份额中占到了83%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;壮观的幽灵星系&lpar;Phantom Galaxy&rpar;M74的新图像展示了空间观测站在多种波长下共同工作的力量。在这种情况下，来自詹姆斯-韦伯太空望远镜和哈勃太空望远镜的数据相互补充，进而提供了该星系的全面视图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
