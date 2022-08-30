@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [rss 阅读器大家喜欢什么样的阅读布局](https://www.v2ex.com/t/876461#reply0) | Tue Aug 30 2022 5:52 AM
-- 🤗 [自己的开源项目终于成了最流行的 Node.js Redis 库...](https://www.v2ex.com/t/876453#reply23) | Tue Aug 30 2022 5:07 AM
-- 🎭 [写了个备忘录工具](https://www.v2ex.com/t/876441#reply2) | Tue Aug 30 2022 4:16 AM
-- 🥷 [Wireguard 路由问题](https://www.v2ex.com/t/876434#reply6) | Tue Aug 30 2022 3:52 AM
-- 🐵 [一个大的 Target 包含多个不同厂商的 so，导致名字冲突的问题？](https://www.v2ex.com/t/876432#reply0) | Tue Aug 30 2022 3:46 AM<!-- v2ex:END -->
+- 🥸 [Go 可以运行， vscode 语法检查提示找不到包](https://www.v2ex.com/t/876475#reply2) | Tue Aug 30 2022 6:36 AM
+- 🤗 [微软通过升级 UEFI 强制报废了我的丐版 Surface Go](https://www.v2ex.com/t/876470#reply2) | Tue Aug 30 2022 6:22 AM
+- 🎭 [rss 阅读器大家喜欢什么样的阅读布局](https://www.v2ex.com/t/876461#reply0) | Tue Aug 30 2022 5:52 AM
+- 🥷 [自己的开源项目终于成了最流行的 Node.js Redis 库...](https://www.v2ex.com/t/876453#reply41) | Tue Aug 30 2022 5:07 AM
+- 🐵 [写了个备忘录工具](https://www.v2ex.com/t/876441#reply2) | Tue Aug 30 2022 4:16 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
