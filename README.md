@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [让一起看视频变得更简单一些的尝试](https://www.v2ex.com/t/876581#reply0) | Tue Aug 30 2022 2:16 PM
-- 🤗 [PowerShell 这种强大的命令行工具，为什么使用的人很少？](https://www.v2ex.com/t/876580#reply0) | Tue Aug 30 2022 2:15 PM
-- 🎭 [在学习 Go 的泛型，写了个模拟 async/await 的小工具，写的过程中发现个问题](https://www.v2ex.com/t/876569#reply0) | Tue Aug 30 2022 1:23 PM
-- 🥷 [windows 快捷键怎么删除当前行的光标前的所有字符](https://www.v2ex.com/t/876568#reply2) | Tue Aug 30 2022 1:18 PM
-- 🐵 [微信视频的时候，录屏没声音，这事有解吗？](https://www.v2ex.com/t/876557#reply0) | Tue Aug 30 2022 12:39 PM<!-- v2ex:END -->
+- 🥸 [vim 正则=~含义？](https://www.v2ex.com/t/876586#reply3) | Tue Aug 30 2022 2:53 PM
+- 🤗 [让一起看视频变得更简单一些的尝试](https://www.v2ex.com/t/876581#reply0) | Tue Aug 30 2022 2:16 PM
+- 🎭 [PowerShell 这种强大的命令行工具，为什么使用的人很少？](https://www.v2ex.com/t/876580#reply18) | Tue Aug 30 2022 2:15 PM
+- 🥷 [在学习 Go 的泛型，写了个模拟 async/await 的小工具，写的过程中发现个问题](https://www.v2ex.com/t/876569#reply0) | Tue Aug 30 2022 1:23 PM
+- 🐵 [windows 快捷键怎么删除当前行的光标前的所有字符](https://www.v2ex.com/t/876568#reply8) | Tue Aug 30 2022 1:18 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
