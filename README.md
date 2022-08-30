@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [暗网上正在出售COVID-19患者数据](https://www.freebuf.com/news/343260.html) | Tue Aug 30 2022 3:37 AM 
+- 🦄 [国家卫健委等三部门发布《医疗卫生机构网络安全管理办法》](https://www.freebuf.com/news/343278.html) | Tue Aug 30 2022 6:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    《办法》共5章三十四条，分为总则、网络安全管理、数据安全管理、监督管理、管理保障五个大章节，适用于医疗卫生机构运营网络的安全管理。 
+    </details> 
+
+- 🦄 [美国联邦贸易委员会起诉数据中间商Kochava，涉及售卖上亿手机敏感位置数据](https://www.freebuf.com/articles/mobile/343277.html) | Tue Aug 30 2022 6:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    该诉讼旨在阻止Kochava收集涉及敏感地理位置的数据，并要求该公司删除已经收集的数据。 
+    </details> 
+
+- 🦅 [暗网上正在出售COVID-19患者数据](https://www.freebuf.com/news/343260.html) | Tue Aug 30 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员发现了从泰国医学科学部泄漏的患者个人身份信息（PII），其中包含部分 COVID-19患者的数据信息。 
     </details> 
 
-- 🦄 [损失不可估计！网传用友等头部软件厂商遭勒索攻击](https://www.freebuf.com/news/343248.html) | Tue Aug 30 2022 1:25 AM 
+- 🪄 [损失不可估计！网传用友等头部软件厂商遭勒索攻击](https://www.freebuf.com/news/343248.html) | Tue Aug 30 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
     有安全厂商表示，该勒索攻击事件有可能是黑客通过供应链污染或漏洞的方式进行投毒。 
     </details> 
 
-- 🦅 [Sliver取代Cobalt Strike成黑客渗透工具“新宠”](https://www.freebuf.com/sectool/343235.html) | Mon Aug 29 2022 12:24 PM 
+- 💻 [Sliver取代Cobalt Strike成黑客渗透工具“新宠”](https://www.freebuf.com/sectool/343235.html) | Mon Aug 29 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
     开源跨平台工具Sliver正取代Brute Ratel成为受攻击者青睐的武器。 
-    </details> 
-
-- 🪄 [如何使用jwtXploiter测试JSON Web令牌的安全性](https://www.freebuf.com/articles/web/288278.html) | Mon Aug 29 2022 7:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    jwtXploiter可以帮助广大研究测试JSON Web令牌的安全性，并且能够识别所有针对JSON Web令牌的已知CVE漏洞。 
-    </details> 
-
-- 💻 [密码管理巨头LastPass遭遇网络攻击，源代码已泄露](https://www.freebuf.com/news/343183.html) | Mon Aug 29 2022 6:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    密码管理巨头 LastPass 两周前遭到黑客攻击，可窃取该公司的源代码和专有技术信息。 
     </details> 
 <!-- freebuf:END -->
 
