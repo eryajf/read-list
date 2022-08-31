@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端主题切换方案、动态线程池的9个场景｜掘金一周 08.31](https://juejin.cn/post/7137927984786194445) | Wed Aug 31 2022 6:46 AM 
+- 🤗 [818 3D 跑酷开发总结](https://juejin.cn/post/7137933784275484679) | Wed Aug 31 2022 7:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    跑酷游戏是余额宝七周年 &lpar;2020年&rpar; 的主玩法，在今年的 818 大促中，我们依然选择跑酷游戏作为主玩法，结合 Oasis 最新版本的引擎，给用户带来更好的游戏体验～ 
+    </details> 
+
+- 🎡 [单测增量代码覆盖率统计方案](https://juejin.cn/post/7137929594144817182) | Wed Aug 31 2022 6:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    转转增量代码扫描数据作为上线准入的重要依据，目前所有测试环境执行的测试均有覆盖率统计，但是部分需求或服务更加适合使用单测进行验证, 因此，我们将单测的增量代码覆盖率融合至测试环境覆盖率中。 
+    </details> 
+
+- 🕯 [钱扣了，订单还是未支付，用户炸了！——聊聊如何防止支付掉单！](https://juejin.cn/post/7137928448672006180) | Wed Aug 31 2022 6:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是老三，之前在 如何防止订单重复支付 里和大家聊过掉单导致的重复支付，这篇文章，我们来聊聊，如何防止掉单。 
+    </details> 
+
+- 🚀 [前端主题切换方案、动态线程池的9个场景｜掘金一周 08.31](https://juejin.cn/post/7137927984786194445) | Wed Aug 31 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
     【掘金一周08.31】本期看点：怎样才算是在写有“技术含量”的代码、谈一谈在两个商业项目中使用MVI架构后的感悟... 
     </details> 
 
-- 🎡 [协程是怎么切换线程的](https://juejin.cn/post/7137927889835524126) | Wed Aug 31 2022 6:45 AM 
+- 💪 [人人都能看懂的JavaScript单线程的那点事](https://juejin.cn/post/7137927952737992712) | Wed Aug 31 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-    本文我们来聊聊协程是如何实现切换线程的。要搞清楚这个问题，我觉得需要搞懂这几个知识点： Continuation，简单讲可以把它看成是Callback，回调。当协程调用suspend函数，协程会被挂起 
-    </details> 
-
-- 🕯 [Vben Admin 源码学习:状态管理-多标签页](https://juejin.cn/post/7137921724527427614) | Wed Aug 31 2022 6:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将对 Vue-Vben-Admin 的状态管理实现源码进行分析解读，耐心读完，相信您一定会有所收获! 
-    </details> 
-
-- 🚀 [春节活动 - 高峰值奖励发放技术方案](https://juejin.cn/post/7137917540805640229) | Wed Aug 31 2022 6:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    文本介绍了2022年抖音春节活动中，支持海量用户超高峰值的奖励发放技术方案。在活动期间整个系统完成了几十亿笔奖励的正确发放。针对现金类奖励的多重在线和离线对账中未检测到任何差帐，做到了100%的正确性 
-    </details> 
-
-- 💪 [分布式定时任务-Quartz](https://juejin.cn/post/7137915404634030117) | Wed Aug 31 2022 5:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    1 Quartz 基本介绍 官网：http://www.quartz-scheduler.org/ Quartz 的意思是石英，像石英表一样精确。 Quartz is a richly feature 
+    如果你已经对 Javascript 很熟悉了，那么相信你一定知道它是一门“单线程”语言的短语。 那你知道单线程意味着什么吗？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
