@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Swift底层探索（二）Swift类和对象的底层分析](https://juejin.cn/post/7138028713316188167) | Wed Aug 31 2022 1:17 PM 
+- 🤗 [沟通模型：沟通视窗](https://juejin.cn/post/7138038543401615373) | Wed Aug 31 2022 1:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    前面我讲了三个值得管理者注意的沟通场景，但并没有给出具体的解决方案。今天就给大家分享一个沟通模型：沟通视窗。学通了的话，能解决大部分沟通问题。 沟通视窗，也叫乔哈里视窗，是一种关于沟通的技巧和理论。  
+    </details> 
+
+- 🎡 [前端需要去了解的nodejs知识（全局变量）](https://juejin.cn/post/7138038454390587400) | Wed Aug 31 2022 1:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 千里之行始于足下，九层之台起于累土。一门技术语言的学习过程也是如此，从基础开始一步步深入，每门语言的全局 
+    </details> 
+
+- 🕯 [Swift底层探索（二）Swift类和对象的底层分析](https://juejin.cn/post/7138028713316188167) | Wed Aug 31 2022 1:17 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第33天，点击查看活动详情 在上文已经了解了SIL，接下来主要通过Swift源码和SIL剖析底层。本文主要通过底层源码探索类和对象在 
     </details> 
 
-- 🎡 [怎样写 commit message](https://juejin.cn/post/7138027830512173069) | Wed Aug 31 2022 1:15 PM 
+- 🚀 [怎样写 commit message](https://juejin.cn/post/7138027830512173069) | Wed Aug 31 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
     commit message 在工程开发中有很重要的作用。一个好的 message 不仅仅能够降低 reviewer 的心智负担，也能够方便日后追踪问题。 
     </details> 
 
-- 🕯 [Python虚拟环境指南2022版本](https://juejin.cn/post/7138022736256843784) | Wed Aug 31 2022 12:55 PM 
+- 💪 [Python虚拟环境指南2022版本](https://juejin.cn/post/7138022736256843784) | Wed Aug 31 2022 12:55 PM 
     <details><summary>展开描述 ...</summary> 
     2022最新的python, go和rust三种语言的开发环境设置，版本升级，以及依赖包管理器的使用示例。 
-    </details> 
-
-- 🚀 [Google  | GCP  基础（二）](https://juejin.cn/post/7138020437820669989) | Wed Aug 31 2022 12:45 PM 
-    <details><summary>展开描述 ...</summary> 
-    Google Cloud API 是 Google Cloud 的重要组成部分。Google Cloud 提供 200 多个 API，涉及从工商管理到机器学习等众多领域； 
-    </details> 
-
-- 💪 [TypeScript-起步——TypeScript类、接口（一）](https://juejin.cn/post/7138019097777799181) | Wed Aug 31 2022 12:40 PM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 1、类 ① 认识类的使用 在早期的JavaScript开发中（ES5）我们需要通过函数和原型链来实现类和 
     </details> 
 <!-- juejin:END -->
 ### 少数派
