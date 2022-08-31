@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [涨价不涨服务，共享经济“退化”了吗？](https://www.cnbeta.com/articles/tech/1310929.htm) | Wed Aug 31 2022 1:37 PM 
+- 🕯 [Bang &amp; Olufsen推出全新音条产品 价格近8000美元](https://www.cnbeta.com/articles/tech/1310937.htm) | Wed Aug 31 2022 2:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天在IFA 2022上，&lt;strong&gt;Bang &amp;amp; Olufsen推出了Beosound Theatre Dolby Atmos音条&lt;/strong&gt;，它既是一个时尚的扬声器，又是一个电动电视架。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iPhone 14 Pro再次传出发售时自256GB存储空间起跳的消息](https://www.cnbeta.com/articles/tech/1310935.htm) | Wed Aug 31 2022 2:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;根据TrendForce的最新预测，iPhone 14 Pro和iPhone 14 Pro Max开始销售时可能会直接从256GB的存储空间起跳，而不是之前的128GB起步选项。根据天风证券分析师郭明錤之前的预计，iPhone 14系列将比iPhone 13系列的平均售价贵15%左右，但Pro机型的起始存储选项较高，可能会抵消客户的价格上涨。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [针对Omicron变种的COVID-19加强针获得美国食品和药物管理局的批准](https://www.cnbeta.com/articles/tech/1310933.htm) | Wed Aug 31 2022 2:09 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;旨在针对Omicron变种的COVID-19疫苗刚刚获得了美国食品和药物管理局的授权。&lt;/strong&gt;辉瑞公司/BioNTech公司和Moderna公司都得到了美国食品和药物管理局对其重新配制的增强针的批准。这是COVID-19疫苗自发明以来在美国获得授权的首次更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [黑山出现持续的勒索软件威胁 美国大使馆罕见发出网络安全警报](https://www.cnbeta.com/articles/tech/1310931.htm) | Wed Aug 31 2022 2:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;美国驻黑山大使馆警告居留当地的美国人，该国正在进行的勒索软件攻击可能会对该国关键的公共服务和政府服务造成广泛的破坏。&lt;/strong&gt;黑山国家安全局（ANB）上周首次证实了这一勒索软件攻击，其目标是政府系统和其他关键的基础设施和公用事业，包括电力、水系统和交通系统。在撰写本报告时，黑山政府的官方网站无法使用，由于攻击，甚至数个发电厂都已经转为手动操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [涨价不涨服务，共享经济“退化”了吗？](https://www.cnbeta.com/articles/tech/1310929.htm) | Wed Aug 31 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“我准备买一辆自行车放在地铁口”，曾经的共享单车拥趸朱琪告诉贝壳财经记者，他家离北京朝阳公园地铁站约两公里，以前都是骑共享单车去坐地铁。“算了一笔账，骑一年共享单车基本可以买一辆自行车还有富余。”此前共享单车再次上调价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [欧洲8国和欧盟决定2030年波罗的海风电产能增6倍](https://www.cnbeta.com/articles/tech/1310927.htm) | Wed Aug 31 2022 1:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;欧洲8国的国家元首或政府首脑及欧盟领导人，30日在丹麦首相官邸马林堡召开波罗的海能源峰会并签署“马林堡宣言”，同意加强能源安全和海上风电合作，计划在2030年将由其掌控的波罗的海地区海上风电装机容量从目前的2.8吉瓦提高至19.6吉瓦（1吉瓦等于100万千瓦）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [客货并举开新篇 山航首架B737-800货机交付](https://www.cnbeta.com/articles/tech/1310925.htm) | Wed Aug 31 2022 1:30 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月31日上午，山航首架B737-800货机交付仪式在山东太古飞机工程有限公司（以下简称“山东太古”）举行。山航集团党委书记、董事长、总裁徐传钰在仪式上表示，首架B737-800货机的交付，标志着山航在航空货运发展方面迈出新步伐，山航客货并举发展战略翻开新的篇章。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [世界气象组织：拉尼娜将持续到年底 美国西部野火或增多、中部农业将受损](https://www.cnbeta.com/articles/tech/1310923.htm) | Wed Aug 31 2022 12:40 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;世界气象组织（WMO）预测，拉尼娜现象将持续到今年年底，这将是本世纪第一次出现“三重”拉尼娜现象，即连续三年出现拉尼娜。&lt;/strong&gt;世界气象组织周三表示，最近几周，随着信风的增加，拉尼娜现象在赤道太平洋东部和中部地区加强。据悉，拉尼娜是指赤道太平洋东部和中部海表温度大范围持续异常变冷的现象，也称为反厄尔尼诺。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [日企开发出不易晕车座椅 可将不适症状时间推迟3倍](https://www.cnbeta.com/articles/tech/1310921.htm) | Wed Aug 31 2022 12:31 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据日经中文网报道，&lt;strong&gt;日本企业“日本发条”最近开发了一款不易晕车座椅&lt;/strong&gt;，着眼于自动驾驶的普及，该公司力争让这种座椅配备到新一代的汽车上。这款新座椅在头枕部分新增了支撑后脑的结构，从左右两侧支撑耳后的后头骨，&lt;strong&gt;减轻由加减速引起的头部前后晃动和弯道引起的横向晃动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
