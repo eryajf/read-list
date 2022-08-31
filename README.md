@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [日企开发出不易晕车座椅 可将不适症状时间推迟3倍](https://www.cnbeta.com/articles/tech/1310921.htm) | Wed Aug 31 2022 12:31 PM 
+- 🕯 [涨价不涨服务，共享经济“退化”了吗？](https://www.cnbeta.com/articles/tech/1310929.htm) | Wed Aug 31 2022 1:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“我准备买一辆自行车放在地铁口”，曾经的共享单车拥趸朱琪告诉贝壳财经记者，他家离北京朝阳公园地铁站约两公里，以前都是骑共享单车去坐地铁。“算了一笔账，骑一年共享单车基本可以买一辆自行车还有富余。”此前共享单车再次上调价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [欧洲8国和欧盟决定2030年波罗的海风电产能增6倍](https://www.cnbeta.com/articles/tech/1310927.htm) | Wed Aug 31 2022 1:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;欧洲8国的国家元首或政府首脑及欧盟领导人，30日在丹麦首相官邸马林堡召开波罗的海能源峰会并签署“马林堡宣言”，同意加强能源安全和海上风电合作，计划在2030年将由其掌控的波罗的海地区海上风电装机容量从目前的2.8吉瓦提高至19.6吉瓦（1吉瓦等于100万千瓦）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [客货并举开新篇 山航首架B737-800货机交付](https://www.cnbeta.com/articles/tech/1310925.htm) | Wed Aug 31 2022 1:30 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月31日上午，山航首架B737-800货机交付仪式在山东太古飞机工程有限公司（以下简称“山东太古”）举行。山航集团党委书记、董事长、总裁徐传钰在仪式上表示，首架B737-800货机的交付，标志着山航在航空货运发展方面迈出新步伐，山航客货并举发展战略翻开新的篇章。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [世界气象组织：拉尼娜将持续到年底 美国西部野火或增多、中部农业将受损](https://www.cnbeta.com/articles/tech/1310923.htm) | Wed Aug 31 2022 12:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;世界气象组织（WMO）预测，拉尼娜现象将持续到今年年底，这将是本世纪第一次出现“三重”拉尼娜现象，即连续三年出现拉尼娜。&lt;/strong&gt;世界气象组织周三表示，最近几周，随着信风的增加，拉尼娜现象在赤道太平洋东部和中部地区加强。据悉，拉尼娜是指赤道太平洋东部和中部海表温度大范围持续异常变冷的现象，也称为反厄尔尼诺。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [日企开发出不易晕车座椅 可将不适症状时间推迟3倍](https://www.cnbeta.com/articles/tech/1310921.htm) | Wed Aug 31 2022 12:31 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据日经中文网报道，&lt;strong&gt;日本企业“日本发条”最近开发了一款不易晕车座椅&lt;/strong&gt;，着眼于自动驾驶的普及，该公司力争让这种座椅配备到新一代的汽车上。这款新座椅在头枕部分新增了支撑后脑的结构，从左右两侧支撑耳后的后头骨，&lt;strong&gt;减轻由加减速引起的头部前后晃动和弯道引起的横向晃动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [重启登月屡遭挫败 美国登月技术失传了吗？](https://www.cnbeta.com/articles/science/1310919.htm) | Wed Aug 31 2022 12:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;众所周知，&lt;strong&gt;1969年7月阿波罗11号任务成功，载有人类的航天器首次在月球着陆&lt;/strong&gt;，而美国的宇航员阿姆斯特朗成为了第一个在月球上行走的人类。在接下来的5年时间里，美国又陆续执行了6次载人登陆月球的任务，直到1972年12月的阿波罗17号任务为止，这一系列任务才结束。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [科学家们增强基于蛋白质的COVID-19疫苗的效果 将免疫反应提高25倍](https://www.cnbeta.com/articles/science/1310917.htm) | Wed Aug 31 2022 12:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;具有讽刺意味的是，一些疫苗需要自己的&amp;quot;助推器&amp;quot;。一种被称为佐剂的成分被添加到疫苗中，以帮助引起更强大的免疫反应，更好地训练身体来对抗病原体。科学家们报告说，与单独注射疫苗相比，一种物质能将小鼠对实验性COVID-19疫苗的免疫反应提高25倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [研究人员发现植物如何重新规划其细胞以对抗入侵者](https://www.cnbeta.com/articles/science/1310915.htm) | Wed Aug 31 2022 12:00 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在战争时期，工厂可以重新调整以支持战斗的需要。装配线改变路线，从制造汽车零件到制造机枪，或从生产洗衣机到生产飞机引擎。&lt;strong&gt;现在杜克大学研究人员发现，植物也可以从和平时期转向战时生产。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [戴尔与英伟达达成合作 为零信任安全和AI提供数据中心解决方案](https://www.cnbeta.com/articles/tech/1310913.htm) | Wed Aug 31 2022 11:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在周二的一篇官方新闻稿中，英伟达宣布了与戴尔达成的一项新合作，致力于为零信任安全和人工智能时代打造全新的数据中心解决方案。&lt;/strong&gt;通过结合戴尔的 PowerEdge 服务器、英伟达的 BlueField DPU / GPU / AI Enterprise 软件、以及针对 VMware vSphere 8 虚拟化平台的负载优化，其希望为全球企业客户带来先进的 AI 训练、推理、数据处理、数据科学，以及零安全信任等特性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
