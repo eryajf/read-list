@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Mac 下中英文混输的最佳实践？](https://www.v2ex.com/t/876736#reply5) | Wed Aug 31 2022 7:17 AM
-- 🤗 [一个 Linux 问题请教](https://www.v2ex.com/t/876731#reply2) | Wed Aug 31 2022 6:59 AM
-- 🎭 [分享个 k8s 工具 - 自动收集 Pod 重启时相关信息, 帮助快速 debug 问题： k8s-pod-restart-info-collector](https://www.v2ex.com/t/876717#reply0) | Wed Aug 31 2022 6:22 AM
-- 🥷 [Chromebook 怎么样？介绍这款机器的视频好少](https://www.v2ex.com/t/876700#reply19) | Wed Aug 31 2022 5:28 AM
-- 🐵 [gookit/config - Go 应用配置管理，支持多种格式，多文件加载，数据合并，解析环境变量名等](https://www.v2ex.com/t/876699#reply0) | Wed Aug 31 2022 5:27 AM<!-- v2ex:END -->
+- 🥸 [Cesium 为什么会导致整个程序都是卡的， animate 卡加载图片卡，连请求接口都卡，造孽啊~~](https://www.v2ex.com/t/876760#reply0) | Wed Aug 31 2022 8:08 AM
+- 🤗 [Mac 下中英文混输的最佳实践？](https://www.v2ex.com/t/876736#reply9) | Wed Aug 31 2022 7:17 AM
+- 🎭 [一个 Linux 问题请教](https://www.v2ex.com/t/876731#reply2) | Wed Aug 31 2022 6:59 AM
+- 🥷 [分享个 k8s 工具 - 自动收集 Pod 重启时相关信息, 帮助快速 debug 问题： k8s-pod-restart-info-collector](https://www.v2ex.com/t/876717#reply0) | Wed Aug 31 2022 6:22 AM
+- 🐵 [Chromebook 怎么样？介绍这款机器的视频好少](https://www.v2ex.com/t/876700#reply24) | Wed Aug 31 2022 5:28 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
