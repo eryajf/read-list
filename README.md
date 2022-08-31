@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [脑力小体操 物理常识之你知道潮汐的真正意思吗](http://jandan.net/p/111240) | Tue Aug 30 2022 3:59 PM 
+- 🚀 [猫的啃咬增强了猫薄荷的驱虫力](http://jandan.net/p/111248) | Wed Aug 31 2022 4:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    猫薄荷被揉碎时会释放20倍以上的驱虫物质 
+    </details> 
+
+- 🙉 [OPPO快充部门的经理预言 未来可以1秒钟充满手机电量](http://jandan.net/p/111244) | Wed Aug 31 2022 3:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    他们在世界移动通信大会上展示了10分钟充满的原型机 
+    </details> 
+
+- 🎉 [今日好价 0831](http://jandan.net/p/111246) | Wed Aug 31 2022 3:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    16周年纪念款蛋TEE发货了 
+    </details> 
+
+- 🐲 [脑力小体操 物理常识之你知道潮汐的真正意思吗](http://jandan.net/p/111240) | Tue Aug 30 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
     发生在早晨的*潮叫潮，发生在晚上的*潮叫汐；换句话说，24小时海水会涨潮两次，但WHY？ 
     </details> 
 
-- 🙉 [一种全新肉味调料闪亮登场，要感谢糖——以及面包虫](http://jandan.net/p/111243) | Tue Aug 30 2022 12:45 PM 
+-  [一种全新肉味调料闪亮登场，要感谢糖——以及面包虫](http://jandan.net/p/111243) | Tue Aug 30 2022 12:45 PM 
     <details><summary>展开描述 ...</summary> 
     一种成功的昆虫食品将对同类食品产生雪球效应。 
-    </details> 
-
-- 🎉 [罗马尼亚挖掘出一座青铜时代的古墓，属于6500年前“极其富有”的某女性](http://jandan.net/p/111232) | Tue Aug 30 2022 6:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    古墓中的宝藏包括 169个金环、800颗骨珠和一个华丽的螺旋铜手镯 
-    </details> 
-
-- 🐲 [今日好价 0830 [更新]](http://jandan.net/p/111239) | Tue Aug 30 2022 4:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    万默咖啡新赠品：“去远方”咖啡杯 
-    </details> 
-
--  [鱼吃多了容易得黑色素瘤？](http://jandan.net/p/111238) | Tue Aug 30 2022 3:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    以为吃得健康？别忘了污染问题 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
