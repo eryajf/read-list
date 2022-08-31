@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [传Zen 4锐龙R9-7950X3D/7900X3D和R7-7800X3D将于CES 2023上亮相](https://www.cnbeta.com/articles/tech/1310875.htm) | Wed Aug 31 2022 10:16 AM 
+- 🕯 [男孩脚疼上网自查要截肢被吓哭](https://hot.cnbeta.com/articles/funny/1310889.htm) | Wed Aug 31 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;@Greymon55 今日在 Twitter 上爆料称，&lt;strong&gt;AMD 或于明年初的 CES 2023 消费电子展期间，推出 3D V-Cache 加持的三款 Zen 4 锐龙台式处理器 —— 分别是 R9-7950X3D、R7-7900X3D、以及 R7-7800X3D 。&lt;/strong&gt;若真如此，那 Zen 4 X3D 将先瞄准高端市场，而主流 Zen 4 V-Cache 部件要往后稍稍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不知道大家有没有在网上“看过病”，就是针对身体的某种症状，去搜索相关的信息。据泾渭视频报道，近日在福建福州，一名10岁男孩脚疼了好几天，就自己上网搜索病因，&lt;strong&gt;结果查到网上说是肿瘤，需要截肢&lt;/strong&gt;，吓得他瞬间破防，流泪不止。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1310889.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Apache OpenOffice下载量超过3.33亿次](https://www.cnbeta.com/articles/tech/1310873.htm) | Wed Aug 31 2022 10:11 AM 
+- 💼 [升级12代酷睿移动处理器：壹号本正在为Onemix 4S新机招募测试者](https://www.cnbeta.com/articles/tech/1310887.htm) | Wed Aug 31 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然Apache OpenOffice开源办公套件的发展相当停滞不前，许多原来的OpenOffice.org的开发者很早就离开了，他们大多去了LibreOffice，而且LibreOffice一直在提供更现代的特性和功能，有趣的是，人们仍然在继续下载和使用OpenOffice。&lt;strong&gt;本周，Apache软件基金会庆祝OpenOffice办公套件的下载量超过了3.33亿。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;以迷你笔记本电脑和 OnexPlayer 游戏子品牌而被大家所熟知的壹号本（One-Netbook），&lt;strong&gt;刚刚介绍了 Onemix 4 家族的新成员 —— 它就是升级了 12 代 Alder Lake 移动处理器的 Onemix 4S 。&lt;/strong&gt;早些时候，该公司已宣布过内部 beta 测试人员的招募。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [引进稳了？中影将和《阿凡达：水之道》进行独家放映合作](https://hot.cnbeta.com/articles/movie/1310871.htm) | Wed Aug 31 2022 9:32 AM 
+- 💂 [壹号本推出A1 Pro七英寸袖珍PC 升级11代酷睿i5-1130G7移动处理器](https://www.cnbeta.com/articles/tech/1310885.htm) | Wed Aug 31 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，《阿凡达：水之道》CINITY技术演示研讨会在京举行，4K3D高帧率CINITY版本的《阿凡达：水之道》演示片段在中影CINITY实验室进行放映，并且在结束后播放了导演詹姆斯·卡梅隆为此次研讨会录制的致辞视频。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1310871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为一款紧凑型笔记本电脑，&lt;strong&gt;One-Netbook 刚刚刷新了 2020 年的 A1 产品线，并带来了升级英特尔 11 代酷睿 i5-1130G7 移动处理器的 A1 Pro 。&lt;/strong&gt;得益于七英寸的袖珍外形，其能够在满足特定性能需求的基础上，为忙碌的 IT 工程师们带来更便携的选项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软展示Xbox Series S吃豆人限定主机 全球仅有一台](https://hot.cnbeta.com/articles/game/1310869.htm) | Wed Aug 31 2022 9:16 AM 
+- 🚀 [锐龙7000+D5性价比不高：12代酷睿i5+D4还能省下显卡钱](https://www.cnbeta.com/articles/tech/1310883.htm) | Wed Aug 31 2022 10:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，&lt;strong&gt;微软再次为Xbox Series S推出了一款联名定制主机，这次的联名对象是刚刚发售不久的《吃豆人：吃遍世界》。&lt;/strong&gt;在外观设计上，定制版XSS很巧妙的将圆形的散热格栅与吃豆人的形象结合起来，并搭配了吃豆人经典的迷宫地图与“鬼”的形象。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1310869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD的锐龙7000处理器下个月就要上市了，锐龙5 7600X起步要299美元，16核锐龙9 7950X要699美元，比上代降价100美元，AMD还是很有诚意的。相信下个月会有很多玩家考虑装机升级，不过有个问题要考虑下，&lt;strong&gt;AMD的锐龙7000不仅要换U，还要换主板和DDR5内存，这样一套下来是不是还有性价比？&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [加密货币平台误发千万美元：收款人据为己有，现被告上法庭](https://www.cnbeta.com/articles/tech/1310867.htm) | Wed Aug 31 2022 9:14 AM 
+- 🎊 [中国铁路上半年净亏损804亿元 旅客量同比下降42.8%](https://www.cnbeta.com/articles/tech/1310881.htm) | Wed Aug 31 2022 10:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，&lt;strong&gt;一名女性在一次意外的交易中从加密货币平台Crypto.com获得了1050万美元--然后据称她将这笔钱花在了豪宅上。&lt;/strong&gt;据7NEWS周二报道，澳大利亚墨尔本的两姐妹在用这笔现金疯狂消费后现正被法院追捕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月31日，中国国家铁路集团有限公司（以下简称国铁集团）披露了2022年上半年财务决算。财报显示，&lt;strong&gt;上半年，国铁集团实现营业总收入4857亿元，同比减少271亿元，净利润亏损804亿元&lt;/strong&gt;，亏损的主要原因是多点散发疫情，给铁路运输经营带来较大影响，客运和多元经营尤其严重。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
