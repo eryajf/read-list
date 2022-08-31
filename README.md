@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软展示Xbox Series S吃豆人限定主机 全球仅有一台](https://hot.cnbeta.com/articles/game/1310869.htm) | Wed Aug 31 2022 9:16 AM 
+- 🕯 [传Zen 4锐龙R9-7950X3D/7900X3D和R7-7800X3D将于CES 2023上亮相](https://www.cnbeta.com/articles/tech/1310875.htm) | Wed Aug 31 2022 10:16 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;@Greymon55 今日在 Twitter 上爆料称，&lt;strong&gt;AMD 或于明年初的 CES 2023 消费电子展期间，推出 3D V-Cache 加持的三款 Zen 4 锐龙台式处理器 —— 分别是 R9-7950X3D、R7-7900X3D、以及 R7-7800X3D 。&lt;/strong&gt;若真如此，那 Zen 4 X3D 将先瞄准高端市场，而主流 Zen 4 V-Cache 部件要往后稍稍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Apache OpenOffice下载量超过3.33亿次](https://www.cnbeta.com/articles/tech/1310873.htm) | Wed Aug 31 2022 10:11 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;虽然Apache OpenOffice开源办公套件的发展相当停滞不前，许多原来的OpenOffice.org的开发者很早就离开了，他们大多去了LibreOffice，而且LibreOffice一直在提供更现代的特性和功能，有趣的是，人们仍然在继续下载和使用OpenOffice。&lt;strong&gt;本周，Apache软件基金会庆祝OpenOffice办公套件的下载量超过了3.33亿。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [引进稳了？中影将和《阿凡达：水之道》进行独家放映合作](https://hot.cnbeta.com/articles/movie/1310871.htm) | Wed Aug 31 2022 9:32 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;日前，《阿凡达：水之道》CINITY技术演示研讨会在京举行，4K3D高帧率CINITY版本的《阿凡达：水之道》演示片段在中影CINITY实验室进行放映，并且在结束后播放了导演詹姆斯·卡梅隆为此次研讨会录制的致辞视频。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1310871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [微软展示Xbox Series S吃豆人限定主机 全球仅有一台](https://hot.cnbeta.com/articles/game/1310869.htm) | Wed Aug 31 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，&lt;strong&gt;微软再次为Xbox Series S推出了一款联名定制主机，这次的联名对象是刚刚发售不久的《吃豆人：吃遍世界》。&lt;/strong&gt;在外观设计上，定制版XSS很巧妙的将圆形的散热格栅与吃豆人的形象结合起来，并搭配了吃豆人经典的迷宫地图与“鬼”的形象。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1310869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [加密货币平台误发千万美元：收款人据为己有，现被告上法庭](https://www.cnbeta.com/articles/tech/1310867.htm) | Wed Aug 31 2022 9:14 AM 
+- 🎊 [加密货币平台误发千万美元：收款人据为己有，现被告上法庭](https://www.cnbeta.com/articles/tech/1310867.htm) | Wed Aug 31 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，&lt;strong&gt;一名女性在一次意外的交易中从加密货币平台Crypto.com获得了1050万美元--然后据称她将这笔钱花在了豪宅上。&lt;/strong&gt;据7NEWS周二报道，澳大利亚墨尔本的两姐妹在用这笔现金疯狂消费后现正被法院追捕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [内测玩家可以直接从Xbox游戏手柄快速启动云上流媒体游戏](https://hot.cnbeta.com/articles/game/1310865.htm) | Wed Aug 31 2022 9:12 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Windows Insider Program今天通过YouTube直播宣布了对Windows 11中的Xbox Game Bar整合的更新。该更新使用户能够直接从游戏手柄启动云流媒体游戏，这可以跳过其他菜单选项并简化流程。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1310865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [科学家开发新水凝胶玻璃：阻挡太阳热量的同时允许可见光通过](https://www.cnbeta.com/articles/science/1310863.htm) | Wed Aug 31 2022 9:10 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年夏天，世界上很多地方都是闷热的，很多人都在考虑用更好的方法来冷却建筑物。&lt;strong&gt;中国的研究人员现在用水凝胶玻璃来装饰窗户，这种材料可以有选择地阻挡来自太阳的热量而不阻挡其光线。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [丰田汽车将在美国与日本投资高达56亿美元 以生产电动车电池](https://www.cnbeta.com/articles/tech/1310861.htm) | Wed Aug 31 2022 9:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;因为全球消费者对更清洁交通工具的需求正在上升，丰田汽车承诺在日本和美国投资高达7300亿日元（约合56亿美元），以促进电动汽车电池生产。&lt;strong&gt;这家全球最大的汽车制造商周三在一份声明中表示，电池生产预计将在2024年至2026年之间开始。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
