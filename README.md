@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [基于 Serverless+OSS 分分钟实现图片秒变素描](https://juejin.cn/post/7137971941897895966) | Wed Aug 31 2022 9:37 AM 
+- 🤗 [深入理解计算机系统（3.1）------汇编语言和机器语言](https://juejin.cn/post/7138015252393754631) | Wed Aug 31 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-    在阿里云 Serverless 函数计算服务中部署普通图片转素描图的函数服务，实现批量上传到指定 OSS 桶内的图片自动转换为素描图并保存到另一个 OSS 桶内。 
+    《深入理解计算机系统》第三章——程序的机器级表示。作者首先讲解了汇编代码和机器代码的关系，阐述了汇编承上启下的作用；接着从机器语言IA32着手，分别讲述了如何存储数据、如何访问数据、如何完成运算以及如何进行跳转。通过这些步骤，又告诉了我们分支语句、循环语句是怎么完成的，函数调用… 
     </details> 
 
-- 🎡 [基于LinkedHashMap实现LRU缓存](https://juejin.cn/post/7137970667693031432) | Wed Aug 31 2022 9:31 AM 
+- 🎡 [集合List容器不一般面试题](https://juejin.cn/post/7138012455698956325) | Wed Aug 31 2022 12:15 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第34天，点击查看活动详情 概述 LinkedHashMap是Java集合中一个常用的容器，它继承了HashMap, 是一个有序的H 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第34天，点击查看活动详情 概述 本篇文章主要汇总了继承Collection相关的面试题，这部分面试题也是我面试别人经常会问的一些题 
     </details> 
 
-- 🕯 [浅学JAVA枚举三：枚举的使用场景及进阶用法](https://juejin.cn/post/7137970299265351694) | Wed Aug 31 2022 9:30 AM 
+- 🕯 [被一位读者赶超，手摸手 Docker 部署 ELK Stack](https://juejin.cn/post/7138003983636889608) | Wed Aug 31 2022 11:42 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 前言： 一丶什么场景下用枚举？ 我们先看java文档中对什么时候使用枚举的建议 在需要表示一组固定的常量时 
+     # 被一位读者赶超，容器化部署 ELK Stack 你好，我是悟空。 ## 被奇幻“催更” 最近有个读者，他叫“老王“，外号“茴香豆泡酒”，找我崔更 ELK 的文章。 因之前我用的是软件安 
     </details> 
 
-- 🚀 [SpringIOC 和SpringAop的入门和实战](https://juejin.cn/post/7137968321386774558) | Wed Aug 31 2022 9:23 AM 
+- 🚀 [Swift - LeetCode - 反转字符串](https://juejin.cn/post/7137987125210775559) | Wed Aug 31 2022 10:36 AM 
     <details><summary>展开描述 ...</summary> 
-    SpringIOC 和SpringAop的入门和实战 SpringIOC的解释 IOC&lpar;控制反转&rpar;就是依赖倒置原则的一种代码设计思路，就是把原先在代码里面需要实现的对象创建、对象之间的依赖、反转给容器 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第36天，点击查看活动详情  题目 编写一个函数，其作用是将输入的字符串反转过来。输入字符串以字符数组 s 的形式给出。 不要给另外 
     </details> 
 
-- 💪 [【Spring源码】22. factory-method创建对象关键函数详解：instantiateUsingFactoryMethod&lpar;&rpar;](https://juejin.cn/post/7137968310464823326) | Wed Aug 31 2022 9:23 AM 
+- 💪 [我在 vue3 开发中的踩的坑](https://juejin.cn/post/7137967499202527239) | Wed Aug 31 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第33天，点击查看活动详情 今天是instantiateUsingFactoryMethod&lpar;&rpar;的主场，这是createBeanIn 
+    vue3和vue2的不同，vue3前期准备和组件相关。vue3数据响应式，开发踩坑和vite配置,浏览器兼容。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
