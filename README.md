@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022淘宝造物节3D直播虚拟营地技术亮点揭秘](https://juejin.cn/post/7137969033781411847) | Wed Aug 31 2022 9:26 AM 
+- 🤗 [基于 Serverless+OSS 分分钟实现图片秒变素描](https://juejin.cn/post/7137971941897895966) | Wed Aug 31 2022 9:37 AM 
     <details><summary>展开描述 ...</summary> 
-    2022年8月24日，淘宝造物节全新亮相！本次造物节，首次上线可万人同时在线的虚拟互动空间“3D疯狂城-造物节虚拟营地”。 
+    在阿里云 Serverless 函数计算服务中部署普通图片转素描图的函数服务，实现批量上传到指定 OSS 桶内的图片自动转换为素描图并保存到另一个 OSS 桶内。 
     </details> 
 
-- 🎡 [你不知道的 JavaScript — call 和 apply 到底哪个更快？](https://juejin.cn/post/7137959904135872549) | Wed Aug 31 2022 8:50 AM 
+- 🎡 [基于LinkedHashMap实现LRU缓存](https://juejin.cn/post/7137970667693031432) | Wed Aug 31 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-    我们都知道 call&lpar;&rpar; 和 apply&lpar;&rpar; 是用来改变函数中 this 指向的，它们的共同点是都会立即执行，而如果问到它们之间有什么区别时，我们都会想到一个「传参不同」 以上就是一直以来我对两者的全 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第34天，点击查看活动详情 概述 LinkedHashMap是Java集合中一个常用的容器，它继承了HashMap, 是一个有序的H 
     </details> 
 
-- 🕯 [D3 从入门到实战 - 6](https://juejin.cn/post/7137951443822051364) | Wed Aug 31 2022 8:17 AM 
+- 🕯 [浅学JAVA枚举三：枚举的使用场景及进阶用法](https://juejin.cn/post/7137970299265351694) | Wed Aug 31 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 36 天，点击查看活动详情 前因 在前一节中，我们通过一个散点图的案例加强了对 D3 中 Data - Join 的学习和理解。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第7天，点击查看活动详情 前言： 一丶什么场景下用枚举？ 我们先看java文档中对什么时候使用枚举的建议 在需要表示一组固定的常量时 
     </details> 
 
-- 🚀 [PC端微博Vue-Recyclerview组件的分析与数据采集](https://juejin.cn/post/7137931080983642119) | Wed Aug 31 2022 6:58 AM 
+- 🚀 [SpringIOC 和SpringAop的入门和实战](https://juejin.cn/post/7137968321386774558) | Wed Aug 31 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
-    一般情况下，我们想采集微博的数据可以直接抓取wap端微博网页即可，网页结构非常简单，爬取代码也非常简单。 如果我们直接对PC端的微博网页下手就会发生，接口参数非常复杂，改用selenium结果发现顺序 
+    SpringIOC 和SpringAop的入门和实战 SpringIOC的解释 IOC&lpar;控制反转&rpar;就是依赖倒置原则的一种代码设计思路，就是把原先在代码里面需要实现的对象创建、对象之间的依赖、反转给容器 
     </details> 
 
-- 💪 [分布式基础理论 CAP &amp; BASE](https://juejin.cn/post/7137930583140892680) | Wed Aug 31 2022 6:56 AM 
+- 💪 [【Spring源码】22. factory-method创建对象关键函数详解：instantiateUsingFactoryMethod&lpar;&rpar;](https://juejin.cn/post/7137968310464823326) | Wed Aug 31 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
-    CAP和BASE理论可以说是分布式系统的基础理论了，只要面试的时候遇到分布式的问题，基本上都会问到这两个理论。但是好多没毕业的同学，或者参加工作时间不长的同学，可能没有在实际开发中接触过分布式系 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第33天，点击查看活动详情 今天是instantiateUsingFactoryMethod&lpar;&rpar;的主场，这是createBeanIn 
     </details> 
 <!-- juejin:END -->
 ### 少数派
