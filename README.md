@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [SiteSucker 5.0.3 扒站神器](https://xclient.info/s/sitesucker.html) | Tue Aug 30 2022 7:16 AM 
+- 🦏 [SiteSucker Pro 5.0.3 扒站神器](https://xclient.info/s/sitesucker.html) | Wed Aug 31 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
     SiteSucker是一款Mac OS X上的整站下载的利器，可以将整个网站所有资源下载到本地硬盘。 
     </details> 
 
--  [Viper FTP 6.2.3 FTP客户端](https://xclient.info/s/viper-ftp.html) | Tue Aug 30 2022 7:15 AM 
+-  [System Toolkit 5.6.1 系统工具包](https://xclient.info/s/system-toolkit.html) | Wed Aug 31 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-    Viper FTP是一款非常实用的FTP客户端，使用方便，容量小，不会占用你Mac系统的过多资源，简单操作让你快速上手，允许用户通过键入名称来定位文件！ 
+    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
     </details> 
 
-- ⚗️ [Dropzone 4.4.7 一款提高电脑操作效率的工具](https://xclient.info/s/dropzone.html) | Tue Aug 30 2022 7:14 AM 
+- ⚗️ [WiFi Explorer Pro 3.5 强大的WiFi无线扫描和管理工具](https://xclient.info/s/wifi-explorer-pro.html) | Wed Aug 31 2022 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-    Dropzone 是一款基于 Mac OS X 的主屏的文件快速调用/同步工具，可以根据开放API自定义动作 
+    WiFi Explorer Pro是一款运行在Mac平台上的WiFi资源管理器专业版，可以帮助用户监控和排除无线网络故障，还具备信息元素解码、注释和自定义颜色、频谱分析整合、增强过滤等实用的功能。 
     </details> 
 
-- 🔥 [MediaHuman Youtube Downloader 3.9.9.74 视频下载](https://xclient.info/s/mediahuman-youtube-downloader.html) | Tue Aug 30 2022 7:14 AM 
+- 🔥 [TeaCode 1.1_43 代码快速编写辅助工具](https://xclient.info/s/teacode.html) | Wed Aug 31 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-    MediaHuman Youtube Downloader是一个简单的OSX实用程序，它可以帮助您以一种高效的方式处理任务：可以同时处理多个视频，只能提取音频，并且可以将歌曲发送到iTunes库。可用于多个视频共享平台的下载工具。 
+    TeaCode是一款强大的基于变量的代码加速编写工具。它几乎适用于任何编辑器。无论我们使用什么编程语言，TeaCode和你一起写，很快。 
     </details> 
 
-- 🌋 [Scrutiny 12.4.1 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Mon Aug 29 2022 2:26 AM 
+- 🌋 [ScreenFocus 1.1_23 效率专注及护眼工具](https://xclient.info/s/screenfocus.html) | Wed Aug 31 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
+    ScreenFocus是一款屏幕保护程序，也是一个护眼软件。在多个屏幕上工作？侧视监视器让您的周边视觉中的某处变得更加分散注意力 
     </details> 
 <!-- xclient:END -->
 
