@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [模仿外形起谐音艺名引流变现 专家：山寨艺人过度模仿涉嫌侵权](https://www.cnbeta.com/articles/tech/1310817.htm) | Wed Aug 31 2022 7:37 AM 
+- 🕯 [吉尔莫·德尔·托罗《匹诺曹》定档 12月9日Netflix上线](https://hot.cnbeta.com/articles/movie/1310835.htm) | Wed Aug 31 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“鹿哈”“易烊干洗”“黄子诚”……这些与当红明星相近的名字最近频繁出现在热搜上。在某短视频平台上，一个以模仿韩国偶像男团EXO组合“出道”的山寨明星组合ESO迅速走红，其成员包括但不限于鹿哈、黄子诚、权酷龙、王俊卡、王二博、林俊绝等人，他们从组合名称、成员名称、造型妆容等都模仿了鹿晗、黄子韬、林俊杰等当红艺人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新浪电影今日消息，&lt;strong&gt;吉尔莫·德尔·托罗执导的定格动画版电影《匹诺曹》定档12月9日，将在网飞上线&lt;/strong&gt;，凯特·布兰切特、菲恩·伍法德、伊万·麦克格雷格、蒂尔达·斯文顿、朗·普尔曼、克里斯托弗·瓦尔兹、蒂姆·布雷克·尼尔森、大卫·布莱德利等参与配音。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1310835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [法先生小程序盗取全国律师信息 曾发起上千个维权诉讼](https://www.cnbeta.com/articles/tech/1310815.htm) | Wed Aug 31 2022 7:34 AM 
+- 💼 [河北一影城回应将70-85年人划分为老人：有调侃之意 已修改](https://www.cnbeta.com/articles/tech/1310833.htm) | Wed Aug 31 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月31日消息，&lt;strong&gt;近日有律师发文表示，自己的信息被“法先生”小程序盗取并用于接单，随后相继有数位律师发现自己的信息被盗用。&lt;/strong&gt;此外，“法先生”显示的“帮助客户与该律师达成合作共计X次”被质疑虚假宣传。对此，北京律协表示，从未授权“法先生”发布上述信息，将向有关部门反映。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月30日晚，河北一影城公众号发布的观影信息中，&lt;strong&gt;将1970年到1985年出生的人称为老年人，转发朋友圈就能带这个年龄段的老人观影，网友质疑年龄划分不合理。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [人气锅底被曝系粉料冲泡 海底捞回应：系事先做好](https://www.cnbeta.com/articles/tech/1310813.htm) | Wed Aug 31 2022 7:31 AM 
+- 💂 [丹麦最大银行免除9万客户欠款，因收债系统出错](https://www.cnbeta.com/articles/tech/1310831.htm) | Wed Aug 31 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;海底捞店内动辄大几十元的锅底，竟然是料包冲泡而成，着你能想得到吗？据报道，近日，&lt;strong&gt;有网友发文称，自己在海底捞吃猪肚鸡火锅时，因锅底口味淡让服务员加料，服务员拿来粉料包进行添加，料包上写着“风味固体饮料”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;丹麦丹斯克银行周三表示，将免除9万名丹麦客户的欠款，因为发现该行的收债系统存在错误。&lt;/strong&gt;这家丹麦最大银行在2019年意识到其债务催收系统存在系统性错误，并一直在努力纠正过去的错误，并补偿受影响的客户，但随着补救措施的进展，新的问题出现了，解决问题的时间可能会延长到2024年以后。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [海外电商平台第三方商户被曝销售假冒伪劣的30TB移动固态硬盘](https://www.cnbeta.com/articles/tech/1310811.htm) | Wed Aug 31 2022 7:27 AM 
+- 🚀 [蜘蛛侠IP联动：希捷推出漫威特别版FireCuda移动硬盘 可选三种外观](https://www.cnbeta.com/articles/tech/1310829.htm) | Wed Aug 31 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在购买移动存储的时候，缺乏经验又图便宜的消费者，很容易落入所谓“扩容盘”的欺诈陷阱。&lt;strong&gt;比如近日，一些试图通过沃尔玛线上第三方商户购买所谓“30TB M.2 移动固态硬盘”的买家，就花了大约 18 美元“买了个教训”。&lt;/strong&gt;事实上，就算不带外置硬盘盒，一块主流正品 500GB / 1TB SSD 的售价，普遍也在 50~100 美元左右。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为与漫威（Marvel）《蜘蛛侠》IP 的最新联动项目，希捷（Seagate）刚刚推出了一批极具收藏价值的特别款 FireCuda 移动硬盘。&lt;/strong&gt;粉丝们有望将三个款式的驱动器收入囊中，包括迈尔斯·莫拉雷斯（Miles Morales）、格温（Gwen Stacy）—— 又名“幽灵蜘蛛”（Ghost Spider）—— 以及经典红衣小虫（Spider-Man Drive）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [外媒称谷歌第三代Tensor处理器将由三星代工 采用3nm制程工艺](https://www.cnbeta.com/articles/tech/1310809.htm) | Wed Aug 31 2022 7:13 AM 
+- 🎊 [移动用户预存1000元话费才能过户？营业厅：公司规定](https://www.cnbeta.com/articles/tech/1310827.htm) | Wed Aug 31 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据国外媒体报道，Google已决定将用于下一代智能手机Pixel 8的Tensor应用处理器，交由三星电子采用3nm制程工艺代工，预计在明年下半年推出。&lt;/strong&gt;从外媒的报道来看，交由三星电子代工，也将继续加强两家公司在智能手机应用处理器上的合作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年8月30日，广州市民刘先生向广东民声热线记者反映，他前往移动营业厅办理手机号过户时，被告知需要预存1000元话费才能办理。当时，刘先生因为着急过户不得已选择充值1000元，但事后他感觉不对劲，于是向《广东民声热线》投诉。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
