@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [发霉啦：今天，表哥想要跟我调情](http://jandan.net/p/111254) | Wed Aug 31 2022 8:57 AM 
+- 🚀 [让孩子少吃零食的新思路](http://jandan.net/p/111255) | Wed Aug 31 2022 12:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    利用从众心理 
+    </details> 
+
+- 🙉 [发霉啦：今天，表哥想要跟我调情](http://jandan.net/p/111254) | Wed Aug 31 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
     8月份的尾巴，你是…… 
     </details> 
 
-- 🙉 [惠更斯的赌徒破产定理 暨 脑力小体操之暗黑对赌问题的答案](http://jandan.net/p/111224) | Wed Aug 31 2022 6:24 AM 
+- 🎉 [惠更斯的赌徒破产定理 暨 脑力小体操之暗黑对赌问题的答案](http://jandan.net/p/111224) | Wed Aug 31 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
     用了这个暨（ji）字，感觉标题高大上了不少 
     </details> 
 
-- 🎉 [一个人的死去，整个部落的消失 巴西塔纳鲁土著领地上的最后成员离世](http://jandan.net/p/111249) | Wed Aug 31 2022 5:22 AM 
+- 🐲 [一个人的死去，整个部落的消失 巴西塔纳鲁土著领地上的最后成员离世](http://jandan.net/p/111249) | Wed Aug 31 2022 5:22 AM 
     <details><summary>展开描述 ...</summary> 
     26年，近9500个日日夜夜，这个无名之人没有与任何人说过话，也没有接触过任何其他人。 
     </details> 
 
-- 🐲 [猫的啃咬增强了猫薄荷的驱虫力](http://jandan.net/p/111248) | Wed Aug 31 2022 4:12 AM 
+-  [猫的啃咬增强了猫薄荷的驱虫力](http://jandan.net/p/111248) | Wed Aug 31 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
     猫薄荷被揉碎时会释放20倍以上的驱虫物质 
-    </details> 
-
--  [OPPO快充部门的经理预言 未来可以1秒钟充满手机电量](http://jandan.net/p/111244) | Wed Aug 31 2022 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    他们在世界移动通信大会上展示了10分钟充满的原型机 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
