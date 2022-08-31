@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Real DOM和 Virtual DOM 的区别](https://juejin.cn/post/7138050193160667144) | Wed Aug 31 2022 2:42 PM 
+- 🤗 [Code Review](https://juejin.cn/post/7138067998329274376) | Wed Aug 31 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-    一、是什么 Real DOM，真实DOM， 意思为文档对象模型，是一个结构化文本的抽象，在页面渲染出的每一个结点都是一个真实DOM结构，如下： Virtual Dom，本质上是以 JavaScript 
+    前言 其实从我毕业到前不久，整个项目流程很少有code review,所以今天来好好讲讲code review是什么东西。 比如说第一家公司的时候，是产品带团队，关注的是结果，关注的是运营数据，至于项 
     </details> 
 
-- 🎡 [《‘狂’人日记》---Docker从入门到进阶之进阶操作&lpar;六&rpar;](https://juejin.cn/post/7138047596949405732) | Wed Aug 31 2022 2:31 PM 
+- 🎡 [redis 的精要设计](https://juejin.cn/post/7138062440708702222) | Wed Aug 31 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 上一章节讲了使用docker来做nginx的负载均衡，这一章节讲【在docker上运行gitlab】 在 
+    数据存储设计 整个 redis 就是一个全局 hash 表，键与值都是一个 redisObject Map&lt;redisObject, redisObject&gt; 每个 redisObject 具有 3  
     </details> 
 
-- 🕯 [沟通模型：沟通视窗](https://juejin.cn/post/7138038543401615373) | Wed Aug 31 2022 1:56 PM 
+- 🕯 [Winform控件优化之实现无锯齿的圆角窗体（或任意图形的无锯齿丝滑的窗体或控件）【借助LayeredWindow】](https://juejin.cn/post/7138060957980295175) | Wed Aug 31 2022 3:22 PM 
     <details><summary>展开描述 ...</summary> 
-    前面我讲了三个值得管理者注意的沟通场景，但并没有给出具体的解决方案。今天就给大家分享一个沟通模型：沟通视窗。学通了的话，能解决大部分沟通问题。 沟通视窗，也叫乔哈里视窗，是一种关于沟通的技巧和理论。  
+    在一般能搜到的所有实现圆角窗体的示例中，都有着惨不忍睹的锯齿...而借助于Layered Windows，是可以实现丝滑无锯齿效果的Form窗体的，其具体原理就是分层窗体.... 
     </details> 
 
-- 🚀 [前端需要去了解的nodejs知识（全局变量）](https://juejin.cn/post/7138038454390587400) | Wed Aug 31 2022 1:55 PM 
+- 🚀 [小程序如何统计来源信息？](https://juejin.cn/post/7138059253704572958) | Wed Aug 31 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 千里之行始于足下，九层之台起于累土。一门技术语言的学习过程也是如此，从基础开始一步步深入，每门语言的全局 
+    统计小程序来源信息并不容易，为什么？小程序有热启动和冷启动机制。冷启动时，并不会调用onLaunch这一生命周期，所以不能依赖onLaunch。而页面onLoad的执行无法区分内部跳转和外部跳转…… 
     </details> 
 
-- 💪 [Swift底层探索（二）Swift类和对象的底层分析](https://juejin.cn/post/7138028713316188167) | Wed Aug 31 2022 1:17 PM 
+- 💪 [Redis RESP协议实现起来到底有多简单](https://juejin.cn/post/7138058006482124837) | Wed Aug 31 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第33天，点击查看活动详情 在上文已经了解了SIL，接下来主要通过Swift源码和SIL剖析底层。本文主要通过底层源码探索类和对象在 
+    我们之前已经学习了`RESP`协议的内容，且已经完成了一个最简单的`Redis`读写分离中间件，我们来看拆解下该`demo`, 看看`Redis RESP`协议实现起来到底有多简单。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
