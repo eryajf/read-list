@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Kotlin协程之再次读懂协程工作原理](https://juejin.cn/post/7137905800504148004) | Wed Aug 31 2022 5:20 AM 
+- 🤗 [前端主题切换方案、动态线程池的9个场景｜掘金一周 08.31](https://juejin.cn/post/7137927984786194445) | Wed Aug 31 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 关于协程的创建，以及挂起和恢复，之前有写过一篇文章 Kotlin协程之深入理解协程工作原理 整理这个流程，最近再看这篇文章的时候，感觉看起来比较费劲，不是说写得有问题，只是看起来比较臃肿。如果想 
+    【掘金一周08.31】本期看点：怎样才算是在写有“技术含量”的代码、谈一谈在两个商业项目中使用MVI架构后的感悟... 
     </details> 
 
-- 🎡 [陌生的 react hooks &lpar;useImperativeHandle&rpar; ：父组件如何获得子组件函数组件的状态和方法](https://juejin.cn/post/7137904325845581860) | Wed Aug 31 2022 5:14 AM 
+- 🎡 [协程是怎么切换线程的](https://juejin.cn/post/7137927889835524126) | Wed Aug 31 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-    类组件中常见的父组件获取子组件状态和方法的 ref 组件传值逻辑，如果改为使用函数组件，你知道使用哪个 react hooks 吗？ 
+    本文我们来聊聊协程是如何实现切换线程的。要搞清楚这个问题，我觉得需要搞懂这几个知识点： Continuation，简单讲可以把它看成是Callback，回调。当协程调用suspend函数，协程会被挂起 
     </details> 
 
-- 🕯 [LinkedHashMap深度解析](https://juejin.cn/post/7137902597377097742) | Wed Aug 31 2022 5:08 AM 
+- 🕯 [Vben Admin 源码学习:状态管理-多标签页](https://juejin.cn/post/7137921724527427614) | Wed Aug 31 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第34天，点击查看活动详情 概述 在平时开发的过程中，大部分都是使用HashMap存储key value结构的数据，但是它是没有顺序 
+    本文将对 Vue-Vben-Admin 的状态管理实现源码进行分析解读，耐心读完，相信您一定会有所收获! 
     </details> 
 
-- 🚀 [Ubuntu 22.04.1 LTS Desktop 生产力环境搭建](https://juejin.cn/post/7137891969585381390) | Wed Aug 31 2022 4:27 AM 
+- 🚀 [春节活动 - 高峰值奖励发放技术方案](https://juejin.cn/post/7137917540805640229) | Wed Aug 31 2022 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-    一次意外搞挂了Ubuntu20.04LTS，不得不从头安装Ubuntu22.04。顺便重新梳理适合开发者的系统搭建、配置和工具。 
+    文本介绍了2022年抖音春节活动中，支持海量用户超高峰值的奖励发放技术方案。在活动期间整个系统完成了几十亿笔奖励的正确发放。针对现金类奖励的多重在线和离线对账中未检测到任何差帐，做到了100%的正确性 
     </details> 
 
-- 💪 [Macbook Pro M1芯片使用Pytorch进行深度学习小试](https://juejin.cn/post/7137891506777489416) | Wed Aug 31 2022 4:27 AM 
+- 💪 [分布式定时任务-Quartz](https://juejin.cn/post/7137915404634030117) | Wed Aug 31 2022 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 导语 实验室去年为大家配新电脑，选配了一台最新的MacBook Pro，搭载了M1芯片。最近我也听说Py 
+    1 Quartz 基本介绍 官网：http://www.quartz-scheduler.org/ Quartz 的意思是石英，像石英表一样精确。 Quartz is a richly feature 
     </details> 
 <!-- juejin:END -->
 ### 少数派
