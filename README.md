@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [马斯克传票席卷硅谷](https://www.cnbeta.com/articles/tech/1310781.htm) | Wed Aug 31 2022 6:23 AM 
+- 🕯 [模仿外形起谐音艺名引流变现 专家：山寨艺人过度模仿涉嫌侵权](https://www.cnbeta.com/articles/tech/1310817.htm) | Wed Aug 31 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;埃隆·马斯克和推特的“连续剧”又更新了。8月30日，周二，马斯克的律师团队再次向推特发送终止收购函，以“其他理由”终止440亿美元的收购协议。契机是推特前安全主管佩特·扎特科（Peiter Zatko）的举报。扎特科向美国多个监管机构举报，称这家社交媒体公司在隐私、安全和内容审核方面存在“极端、严重的缺陷”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“鹿哈”“易烊干洗”“黄子诚”……这些与当红明星相近的名字最近频繁出现在热搜上。在某短视频平台上，一个以模仿韩国偶像男团EXO组合“出道”的山寨明星组合ESO迅速走红，其成员包括但不限于鹿哈、黄子诚、权酷龙、王俊卡、王二博、林俊绝等人，他们从组合名称、成员名称、造型妆容等都模仿了鹿晗、黄子韬、林俊杰等当红艺人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [途虎养车再递表港交所：前三年亏损超130亿元，腾讯持股近20%](https://www.cnbeta.com/articles/tech/1310779.htm) | Wed Aug 31 2022 6:23 AM 
+- 💼 [法先生小程序盗取全国律师信息 曾发起上千个维权诉讼](https://www.cnbeta.com/articles/tech/1310815.htm) | Wed Aug 31 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月29日，港交所网站显示，途虎养车递交招股书，联席保荐人为高盛、中金公司、美银证券、瑞银集团。这是途虎养车第二次递表港交所。&lt;/strong&gt;早在今年1月24日，途虎养车就在港交所提交了上市申请，但由于未能在6个月内通过聆讯，其招股书转为“失效”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月31日消息，&lt;strong&gt;近日有律师发文表示，自己的信息被“法先生”小程序盗取并用于接单，随后相继有数位律师发现自己的信息被盗用。&lt;/strong&gt;此外，“法先生”显示的“帮助客户与该律师达成合作共计X次”被质疑虚假宣传。对此，北京律协表示，从未授权“法先生”发布上述信息，将向有关部门反映。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [纪念日转正 李在镕将就任三星电子会长 宣布未来愿景](https://www.cnbeta.com/articles/tech/1310777.htm) | Wed Aug 31 2022 6:21 AM 
+- 💂 [人气锅底被曝系粉料冲泡 海底捞回应：系事先做好](https://www.cnbeta.com/articles/tech/1310813.htm) | Wed Aug 31 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8月31日消息，知情人士称，三星电子副会长李在镕将在11月1日公司成立纪念日之际就任会长。&lt;/strong&gt;据悉，李在镕将于11月1日上任并宣布其管理愿景，包括半导体领域的未来发展战略和生物业务的大规模投资计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;海底捞店内动辄大几十元的锅底，竟然是料包冲泡而成，着你能想得到吗？据报道，近日，&lt;strong&gt;有网友发文称，自己在海底捞吃猪肚鸡火锅时，因锅底口味淡让服务员加料，服务员拿来粉料包进行添加，料包上写着“风味固体饮料”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [石家庄一小区发现“怪鱼”鳄雀鳝：为何突然这么多？](https://www.cnbeta.com/articles/tech/1310775.htm) | Wed Aug 31 2022 6:20 AM 
+- 🚀 [海外电商平台第三方商户被曝销售假冒伪劣的30TB移动固态硬盘](https://www.cnbeta.com/articles/tech/1310811.htm) | Wed Aug 31 2022 7:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，全国多地相继发现鳄雀鳝，遍布河南、北京、湖南、广西、山东、云南、浙江、江苏等省份。&lt;strong&gt;8月30日，河北石家庄，一小区的人工湖里里也出现了一条鳄雀鳝，小区居民和物业经过一番努力将其捕获，并进行了无害化处理。&lt;/strong&gt;据小区业主称，当时用吊钩把鱼弄住了，把嘴拴住进行了处理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在购买移动存储的时候，缺乏经验又图便宜的消费者，很容易落入所谓“扩容盘”的欺诈陷阱。&lt;strong&gt;比如近日，一些试图通过沃尔玛线上第三方商户购买所谓“30TB M.2 移动固态硬盘”的买家，就花了大约 18 美元“买了个教训”。&lt;/strong&gt;事实上，就算不带外置硬盘盒，一块主流正品 500GB / 1TB SSD 的售价，普遍也在 50~100 美元左右。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国产造车新势力“远航汽车”登场：首发四车 性能比肩超跑](https://www.cnbeta.com/articles/tech/1310773.htm) | Wed Aug 31 2022 6:20 AM 
+- 🎊 [外媒称谷歌第三代Tensor处理器将由三星代工 采用3nm制程工艺](https://www.cnbeta.com/articles/tech/1310809.htm) | Wed Aug 31 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，成都车展期间，车展现场，大运集团举办“智赢未来，远航汽车”品牌发布会，发布旗下高端新能源汽车品牌——远航汽车。发布会上，&lt;strong&gt;远航汽车全球首发远航Y6、远航Y7两款豪华轿车，与远航H8、远航H9两款豪华SUV，以及高端豪华纯电平台“B.H.D平台”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据国外媒体报道，Google已决定将用于下一代智能手机Pixel 8的Tensor应用处理器，交由三星电子采用3nm制程工艺代工，预计在明年下半年推出。&lt;/strong&gt;从外媒的报道来看，交由三星电子代工，也将继续加强两家公司在智能手机应用处理器上的合作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
