@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Bang &amp; Olufsen推出全新音条产品 价格近8000美元](https://www.cnbeta.com/articles/tech/1310937.htm) | Wed Aug 31 2022 2:16 PM 
+- 🕯 [分析机构认为苹果公司iPhone 14系列将涨价 但幅度不大](https://www.cnbeta.com/articles/tech/1310939.htm) | Wed Aug 31 2022 2:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;外界认为苹果公司iPhone 14系列将出现提价，但提价幅度没有先前估计的那么大&lt;/strong&gt;。全球通货膨胀的困境增加了零部件的成本，苹果将没有什么选择，只能将这些增加的成本转嫁到定于9月宣布的iPhone 14系列上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Bang &amp; Olufsen推出全新音条产品 价格近8000美元](https://www.cnbeta.com/articles/tech/1310937.htm) | Wed Aug 31 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天在IFA 2022上，&lt;strong&gt;Bang &amp;amp; Olufsen推出了Beosound Theatre Dolby Atmos音条&lt;/strong&gt;，它既是一个时尚的扬声器，又是一个电动电视架。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14 Pro再次传出发售时自256GB存储空间起跳的消息](https://www.cnbeta.com/articles/tech/1310935.htm) | Wed Aug 31 2022 2:14 PM 
+- 💂 [iPhone 14 Pro再次传出发售时自256GB存储空间起跳的消息](https://www.cnbeta.com/articles/tech/1310935.htm) | Wed Aug 31 2022 2:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据TrendForce的最新预测，iPhone 14 Pro和iPhone 14 Pro Max开始销售时可能会直接从256GB的存储空间起跳，而不是之前的128GB起步选项。根据天风证券分析师郭明錤之前的预计，iPhone 14系列将比iPhone 13系列的平均售价贵15%左右，但Pro机型的起始存储选项较高，可能会抵消客户的价格上涨。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [针对Omicron变种的COVID-19加强针获得美国食品和药物管理局的批准](https://www.cnbeta.com/articles/tech/1310933.htm) | Wed Aug 31 2022 2:09 PM 
+- 🚀 [针对Omicron变种的COVID-19加强针获得美国食品和药物管理局的批准](https://www.cnbeta.com/articles/tech/1310933.htm) | Wed Aug 31 2022 2:09 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;旨在针对Omicron变种的COVID-19疫苗刚刚获得了美国食品和药物管理局的授权。&lt;/strong&gt;辉瑞公司/BioNTech公司和Moderna公司都得到了美国食品和药物管理局对其重新配制的增强针的批准。这是COVID-19疫苗自发明以来在美国获得授权的首次更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [黑山出现持续的勒索软件威胁 美国大使馆罕见发出网络安全警报](https://www.cnbeta.com/articles/tech/1310931.htm) | Wed Aug 31 2022 2:00 PM 
+- 🎊 [黑山出现持续的勒索软件威胁 美国大使馆罕见发出网络安全警报](https://www.cnbeta.com/articles/tech/1310931.htm) | Wed Aug 31 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;美国驻黑山大使馆警告居留当地的美国人，该国正在进行的勒索软件攻击可能会对该国关键的公共服务和政府服务造成广泛的破坏。&lt;/strong&gt;黑山国家安全局（ANB）上周首次证实了这一勒索软件攻击，其目标是政府系统和其他关键的基础设施和公用事业，包括电力、水系统和交通系统。在撰写本报告时，黑山政府的官方网站无法使用，由于攻击，甚至数个发电厂都已经转为手动操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [涨价不涨服务，共享经济“退化”了吗？](https://www.cnbeta.com/articles/tech/1310929.htm) | Wed Aug 31 2022 1:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“我准备买一辆自行车放在地铁口”，曾经的共享单车拥趸朱琪告诉贝壳财经记者，他家离北京朝阳公园地铁站约两公里，以前都是骑共享单车去坐地铁。“算了一笔账，骑一年共享单车基本可以买一辆自行车还有富余。”此前共享单车再次上调价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
