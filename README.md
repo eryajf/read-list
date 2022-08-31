@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [沟通模型：沟通视窗](https://juejin.cn/post/7138038543401615373) | Wed Aug 31 2022 1:56 PM 
+- 🤗 [Real DOM和 Virtual DOM 的区别](https://juejin.cn/post/7138050193160667144) | Wed Aug 31 2022 2:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、是什么 Real DOM，真实DOM， 意思为文档对象模型，是一个结构化文本的抽象，在页面渲染出的每一个结点都是一个真实DOM结构，如下： Virtual Dom，本质上是以 JavaScript 
+    </details> 
+
+- 🎡 [《‘狂’人日记》---Docker从入门到进阶之进阶操作&lpar;六&rpar;](https://juejin.cn/post/7138047596949405732) | Wed Aug 31 2022 2:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第31天，点击查看活动详情 上一章节讲了使用docker来做nginx的负载均衡，这一章节讲【在docker上运行gitlab】 在 
+    </details> 
+
+- 🕯 [沟通模型：沟通视窗](https://juejin.cn/post/7138038543401615373) | Wed Aug 31 2022 1:56 PM 
     <details><summary>展开描述 ...</summary> 
     前面我讲了三个值得管理者注意的沟通场景，但并没有给出具体的解决方案。今天就给大家分享一个沟通模型：沟通视窗。学通了的话，能解决大部分沟通问题。 沟通视窗，也叫乔哈里视窗，是一种关于沟通的技巧和理论。  
     </details> 
 
-- 🎡 [前端需要去了解的nodejs知识（全局变量）](https://juejin.cn/post/7138038454390587400) | Wed Aug 31 2022 1:55 PM 
+- 🚀 [前端需要去了解的nodejs知识（全局变量）](https://juejin.cn/post/7138038454390587400) | Wed Aug 31 2022 1:55 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第16天，点击查看活动详情 千里之行始于足下，九层之台起于累土。一门技术语言的学习过程也是如此，从基础开始一步步深入，每门语言的全局 
     </details> 
 
-- 🕯 [Swift底层探索（二）Swift类和对象的底层分析](https://juejin.cn/post/7138028713316188167) | Wed Aug 31 2022 1:17 PM 
+- 💪 [Swift底层探索（二）Swift类和对象的底层分析](https://juejin.cn/post/7138028713316188167) | Wed Aug 31 2022 1:17 PM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第33天，点击查看活动详情 在上文已经了解了SIL，接下来主要通过Swift源码和SIL剖析底层。本文主要通过底层源码探索类和对象在 
-    </details> 
-
-- 🚀 [怎样写 commit message](https://juejin.cn/post/7138027830512173069) | Wed Aug 31 2022 1:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    commit message 在工程开发中有很重要的作用。一个好的 message 不仅仅能够降低 reviewer 的心智负担，也能够方便日后追踪问题。 
-    </details> 
-
-- 💪 [Python虚拟环境指南2022版本](https://juejin.cn/post/7138022736256843784) | Wed Aug 31 2022 12:55 PM 
-    <details><summary>展开描述 ...</summary> 
-    2022最新的python, go和rust三种语言的开发环境设置，版本升级，以及依赖包管理器的使用示例。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
