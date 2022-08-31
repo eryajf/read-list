@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [底大一级，词堆一沓：手机相机传感器术语解惑](https://sspai.com/post/75454) | Wed Aug 31 2022 8:00 AM 
+- 👹 [苹果发布会超前瞻：常规新品之外，或许还有惊喜「One More Thing」？](https://sspai.com/post/75457) | Wed Aug 31 2022 9:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    根据最近一段时间国内外的各种爆料，我整理了传闻中发布会上可能会出现的新产品和新特性，带大家一起看看今年可能会有哪些亮点。&lt;a href=&quot;https://sspai.com/post/75457&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [底大一级，词堆一沓：手机相机传感器术语解惑](https://sspai.com/post/75454) | Wed Aug 31 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     相机传感器介绍中每个字都认识但是连在一起就读不懂的名词到底是什么。&lt;a href=&quot;https://sspai.com/post/75454&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [吃代餐，是一种行之有效的减肥手段吗？](https://sspai.com/post/75414) | Wed Aug 31 2022 6:34 AM 
+- 🤭 [吃代餐，是一种行之有效的减肥手段吗？](https://sspai.com/post/75414) | Wed Aug 31 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75414&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [我开发了一款轻量的数字白板——PegBoard](https://sspai.com/post/75384) | Wed Aug 31 2022 3:16 AM 
+- 🥸 [我开发了一款轻量的数字白板——PegBoard](https://sspai.com/post/75384) | Wed Aug 31 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     十分轻量、无需联网注册、开箱即用，希望它可以成为你整理信息，梳理思绪时的好助手。&lt;a href=&quot;https://sspai.com/post/75384&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：OPPO 发布 ColorOS 13 和潘塔纳尔跨端系统、怒喵科技发布 CYBERBLADE 耳机等](https://sspai.com/post/75452) | Wed Aug 31 2022 1:06 AM 
+- 🙉 [派早报：OPPO 发布 ColorOS 13 和潘塔纳尔跨端系统、怒喵科技发布 CYBERBLADE 耳机等](https://sspai.com/post/75452) | Wed Aug 31 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
     UEFI 2.10 和 ACPI 6.5 规范发布，马斯克向 Twitter 发送终止收购函等。&lt;a href=&quot;https://sspai.com/post/75452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [小米 12S Ultra 摄影体验：好照片本不该被「权威」裹挟](https://sspai.com/post/75417) | Tue Aug 30 2022 9:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    当你忘却联名带来的各种节外生枝，回归一种最简单的使用照相机的方式，Xiaomi 12S Ultra 的影像表现力确实配得上「卓越」一词。&lt;a href=&quot;https://sspai.com/post/75417&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
