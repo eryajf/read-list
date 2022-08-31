@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入理解计算机系统（3.1）------汇编语言和机器语言](https://juejin.cn/post/7138015252393754631) | Wed Aug 31 2022 12:26 PM 
+- 🤗 [Swift底层探索（二）Swift类和对象的底层分析](https://juejin.cn/post/7138028713316188167) | Wed Aug 31 2022 1:17 PM 
     <details><summary>展开描述 ...</summary> 
-    《深入理解计算机系统》第三章——程序的机器级表示。作者首先讲解了汇编代码和机器代码的关系，阐述了汇编承上启下的作用；接着从机器语言IA32着手，分别讲述了如何存储数据、如何访问数据、如何完成运算以及如何进行跳转。通过这些步骤，又告诉了我们分支语句、循环语句是怎么完成的，函数调用… 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第33天，点击查看活动详情 在上文已经了解了SIL，接下来主要通过Swift源码和SIL剖析底层。本文主要通过底层源码探索类和对象在 
     </details> 
 
-- 🎡 [集合List容器不一般面试题](https://juejin.cn/post/7138012455698956325) | Wed Aug 31 2022 12:15 PM 
+- 🎡 [怎样写 commit message](https://juejin.cn/post/7138027830512173069) | Wed Aug 31 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第34天，点击查看活动详情 概述 本篇文章主要汇总了继承Collection相关的面试题，这部分面试题也是我面试别人经常会问的一些题 
+    commit message 在工程开发中有很重要的作用。一个好的 message 不仅仅能够降低 reviewer 的心智负担，也能够方便日后追踪问题。 
     </details> 
 
-- 🕯 [被一位读者赶超，手摸手 Docker 部署 ELK Stack](https://juejin.cn/post/7138003983636889608) | Wed Aug 31 2022 11:42 AM 
+- 🕯 [Python虚拟环境指南2022版本](https://juejin.cn/post/7138022736256843784) | Wed Aug 31 2022 12:55 PM 
     <details><summary>展开描述 ...</summary> 
-     # 被一位读者赶超，容器化部署 ELK Stack 你好，我是悟空。 ## 被奇幻“催更” 最近有个读者，他叫“老王“，外号“茴香豆泡酒”，找我崔更 ELK 的文章。 因之前我用的是软件安 
+    2022最新的python, go和rust三种语言的开发环境设置，版本升级，以及依赖包管理器的使用示例。 
     </details> 
 
-- 🚀 [Swift - LeetCode - 反转字符串](https://juejin.cn/post/7137987125210775559) | Wed Aug 31 2022 10:36 AM 
+- 🚀 [Google  | GCP  基础（二）](https://juejin.cn/post/7138020437820669989) | Wed Aug 31 2022 12:45 PM 
     <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第36天，点击查看活动详情  题目 编写一个函数，其作用是将输入的字符串反转过来。输入字符串以字符数组 s 的形式给出。 不要给另外 
+    Google Cloud API 是 Google Cloud 的重要组成部分。Google Cloud 提供 200 多个 API，涉及从工商管理到机器学习等众多领域； 
     </details> 
 
-- 💪 [我在 vue3 开发中的踩的坑](https://juejin.cn/post/7137967499202527239) | Wed Aug 31 2022 9:19 AM 
+- 💪 [TypeScript-起步——TypeScript类、接口（一）](https://juejin.cn/post/7138019097777799181) | Wed Aug 31 2022 12:40 PM 
     <details><summary>展开描述 ...</summary> 
-    vue3和vue2的不同，vue3前期准备和组件相关。vue3数据响应式，开发踩坑和vite配置,浏览器兼容。 
+    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第30天，点击查看活动详情 1、类 ① 认识类的使用 在早期的JavaScript开发中（ES5）我们需要通过函数和原型链来实现类和 
     </details> 
 <!-- juejin:END -->
 ### 少数派
