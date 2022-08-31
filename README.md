@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：OPPO 发布 ColorOS 13 和潘塔纳尔跨端系统、怒喵科技发布 CYBERBLADE 耳机等](https://sspai.com/post/75452) | Wed Aug 31 2022 1:06 AM 
+- 👹 [我开发了一款轻量的数字白板——PegBoard](https://sspai.com/post/75384) | Wed Aug 31 2022 3:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    十分轻量、无需联网注册、开箱即用，希望它可以成为你整理信息，梳理思绪时的好助手。&lt;a href=&quot;https://sspai.com/post/75384&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：OPPO 发布 ColorOS 13 和潘塔纳尔跨端系统、怒喵科技发布 CYBERBLADE 耳机等](https://sspai.com/post/75452) | Wed Aug 31 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
     UEFI 2.10 和 ACPI 6.5 规范发布，马斯克向 Twitter 发送终止收购函等。&lt;a href=&quot;https://sspai.com/post/75452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [小米 12S Ultra 摄影体验：好照片本不该被「权威」裹挟](https://sspai.com/post/75417) | Tue Aug 30 2022 9:29 AM 
+- 🤭 [小米 12S Ultra 摄影体验：好照片本不该被「权威」裹挟](https://sspai.com/post/75417) | Tue Aug 30 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
     当你忘却联名带来的各种节外生枝，回归一种最简单的使用照相机的方式，Xiaomi 12S Ultra 的影像表现力确实配得上「卓越」一词。&lt;a href=&quot;https://sspai.com/post/75417&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [咖啡地图 | 2022 年，是时候重新认识云南咖啡了](https://sspai.com/post/75308) | Tue Aug 30 2022 7:54 AM 
+- 🥸 [咖啡地图 | 2022 年，是时候重新认识云南咖啡了](https://sspai.com/post/75308) | Tue Aug 30 2022 7:54 AM 
     <details><summary>展开描述 ...</summary> 
     云南作为我们中国唯一成规模，有较长发展历史的咖啡产地，一直是我关注的目标。不光关注，每年也在不断去尝试云南咖啡的新工艺，跟进云南咖啡的产业发展。虽然发展的情况逐步明朗，但对于务实的中国人来说，对待国内 ...&lt;a href=&quot;https://sspai.com/post/75308&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [一日一技 | 给 Windows 换个「大房子」：不用第三方工具如何迁移系统](https://sspai.com/post/75399) | Tue Aug 30 2022 6:30 AM 
+- 🙉 [一日一技 | 给 Windows 换个「大房子」：不用第三方工具如何迁移系统](https://sspai.com/post/75399) | Tue Aug 30 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     除了使用第三方工具，使用 Windows 内置的工具我们也可以将原先旧硬盘的系统盘「克隆」到新硬盘中。&lt;a href=&quot;https://sspai.com/post/75399&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [现实的伤，在游戏里得到治愈——谈谈《光遇》玩家现状](https://sspai.com/post/75397) | Tue Aug 30 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    没有哪个游戏能一直陪伴着人们，《光遇》就像一位朋友，陪我们走过一段路，温暖了我们一段时光，待我们重新拾起上路的勇气后，就和他挥手告别继续前行。&lt;a href=&quot;https://sspai.com/post/75397&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
