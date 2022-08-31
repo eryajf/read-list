@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [为啥有的爆米花是球形，有的是蝶形？](http://daily.zhihu.com/story/9752284) | Tue Aug 30 2022 2:27 AM
-- 🐻 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9752321) | Tue Aug 30 2022 12:27 AM
-- 🌏 [猫对主人真的有感情吗？](http://daily.zhihu.com/story/9752307) | Tue Aug 30 2022 12:27 AM
-- 🕴 [什么时候你第一次读懂了「云技术」？](http://daily.zhihu.com/story/9752308) | Tue Aug 30 2022 12:27 AM
-- 🌮 [为什么麦乐鸡要做成不同的形状？](http://daily.zhihu.com/story/9752314) | Tue Aug 30 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9752329) | Wed Aug 31 2022 12:27 AM
+- 🐻 [航空发动机容易把飞鸟吸进去，酿成事故，为什么不在进气口加装过滤网？](http://daily.zhihu.com/story/9752385) | Wed Aug 31 2022 12:27 AM
+- 🌏 [如何欣赏跳水比赛？](http://daily.zhihu.com/story/9752391) | Wed Aug 31 2022 12:27 AM
+- 🕴 [如果能牺牲掉中国足球的未来，换成让中国随机拥有50名22岁以下职业球员，并拥有顶级天赋，你愿意吗？](http://daily.zhihu.com/story/9752397) | Wed Aug 31 2022 12:27 AM
+- 🌮 [美国前财长称，全球经济或将迎来日本式停滞，如何解读其发言？](http://daily.zhihu.com/story/9752375) | Wed Aug 31 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
