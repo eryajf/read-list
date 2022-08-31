@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [RustDesk 跻身 Rust 开源项目 Top 10 第九名](https://www.v2ex.com/t/876667#reply0) | Wed Aug 31 2022 3:22 AM
-- 🤗 [[问答]软件离线授权比较稳妥的方案](https://www.v2ex.com/t/876663#reply1) | Wed Aug 31 2022 3:12 AM
-- 🎭 [软著对大学生来说，有什么用吗？](https://www.v2ex.com/t/876662#reply32) | Wed Aug 31 2022 3:12 AM
-- 🥷 [Kotlin Sealed Class 太香了， Java 8 也想用怎么办？](https://www.v2ex.com/t/876655#reply6) | Wed Aug 31 2022 2:50 AM
-- 🐵 [企业级应用下用户设置存储方案那个好？](https://www.v2ex.com/t/876635#reply2) | Wed Aug 31 2022 1:50 AM<!-- v2ex:END -->
+- 🥸 [分享个 k8s 工具 - 自动收集 Pod 重启时相关信息, 帮助快速 debug 问题： k8s-pod-restart-info-collector](https://www.v2ex.com/t/876717#reply0) | Wed Aug 31 2022 6:22 AM
+- 🤗 [Chromebook 怎么样？介绍这款机器的视频好少](https://www.v2ex.com/t/876700#reply8) | Wed Aug 31 2022 5:28 AM
+- 🎭 [gookit/config - Go 应用配置管理，支持多种格式，多文件加载，数据合并，解析环境变量名等](https://www.v2ex.com/t/876699#reply0) | Wed Aug 31 2022 5:27 AM
+- 🥷 [RustDesk 跻身 Rust 开源项目 Top 10 第九名](https://www.v2ex.com/t/876667#reply3) | Wed Aug 31 2022 3:22 AM
+- 🐵 [[问答]软件离线授权比较稳妥的方案](https://www.v2ex.com/t/876663#reply6) | Wed Aug 31 2022 3:12 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
