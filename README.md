@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [UUKI Community Platform - 社区概念](https://xinquji.com/posts/179144?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:39 AM 
+- 👀 [Suntime - 不要错过另一个日落](https://xinquji.com/posts/179166?utm_campaign=xinquji-rss) | Thu Sep 01 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     社区概念  
+     不要错过另一个日落  
     </details> 
 
-- 🥷 [Fleksy Developer Platform - 构建功能强大的软件键盘的最快方法](https://xinquji.com/posts/179143?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:37 AM 
+- 🥷 [Bonjoro Testimonials - 将客户的喜爱变成您最强大的增长渠道](https://xinquji.com/posts/179165?utm_campaign=xinquji-rss) | Thu Sep 01 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     构建功能强大的软件键盘的最快方法  
+     将客户的喜爱变成您最强大的增长渠道  
     </details> 
 
-- 💼 [Minkedu - 为家长和老师提供的在线课程和活动](https://xinquji.com/posts/179142?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:35 AM 
+- 💼 [Conversion Pattern - 防止误报的网站标签管理器](https://xinquji.com/posts/179164?utm_campaign=xinquji-rss) | Thu Sep 01 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     为家长和老师提供的在线课程和活动  
+     防止误报的网站标签管理器  
     </details> 
 
-- 🦅 [Notly - Notion 全球最先进的 AI 写作助手](https://xinquji.com/posts/179141?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:34 AM 
+- 🦅 [Motionity - 适合所有人的基于 Web 的动态图形编辑器](https://xinquji.com/posts/179163?utm_campaign=xinquji-rss) | Thu Sep 01 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     Notion 全球最先进的 AI 写作助手  
+     适合所有人的基于 Web 的动态图形编辑器  
     </details> 
 
-- 😺 [Shopify Plus Calculator - 了解何时升级到 Shopify Plus](https://xinquji.com/posts/179140?utm_campaign=xinquji-rss) | Wed Aug 31 2022 6:33 AM 
+- 😺 [Morgen - 适合您工作、生活和忙碌的时间管理中心](https://xinquji.com/posts/179162?utm_campaign=xinquji-rss) | Thu Sep 01 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     了解何时升级到 Shopify Plus  
+     适合您工作、生活和忙碌的时间管理中心  
     </details> 
 <!-- xinquji:END -->
