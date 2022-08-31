@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现热浪加空气污染可能是一个致命组合](https://www.cnbeta.com/articles/science/1310945.htm) | Wed Aug 31 2022 3:52 PM 
+- 🕯 [巴基斯坦遭遇历史性的洪水袭击 三分之一国土被淹没](https://www.cnbeta.com/articles/tech/1310957.htm) | Wed Aug 31 2022 5:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;高温和空气污染对人类健康都是有问题的，特别是对老年人等弱势人群。&lt;strong&gt;但是当它们同时发生时，会发生什么？&lt;/strong&gt;南加州大学的科学家们研究了2014年至2020年在加州登记的150多万例死亡案例以找出答案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如今这个地球，极端天气是越来越频繁，哪里都跑不掉，近期，巴基斯坦就陷入了空前的洪灾。&lt;strong&gt;受季风降雨影响，巴基斯坦多个省份近期遭遇历史性的洪水袭击，已有3300多万人受灾&lpar;全国人口的1/7&rpar;、1136人丧生。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [台积电美国工厂主要设施已建成：将为苹果代工5nm芯片](https://www.cnbeta.com/articles/tech/1310943.htm) | Wed Aug 31 2022 3:28 PM 
+- 💼 [山寨版安卓iPhone 14 Pro Max出炉：叹号屏不服不行](https://www.cnbeta.com/articles/tech/1310955.htm) | Wed Aug 31 2022 5:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2020年，台积电宣布斥资120亿美元在美国亚利桑那州建一座5nm芯片厂（Fab 21）。今年7月，台积电美国亚利桑那州Fab 21工厂举行了上梁典礼。据媒体报道，美国当地州府官员透露，该工厂的主要建设工作已经完成。实际上，早先上梁典礼的举办就意味着工厂的基础设施差不多完工，后面就是要安装设备、调试了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;赶在苹果9月8日凌晨的发布会前，山寨版iPhone 14 Pro Max已经在国内抢先出炉。无论是机器本体还是外包装，显然是铁了心的山寨克隆正版的既视感。仔细看正面的话，&lt;strong&gt;桌面采用的是高仿iOS主题，叹号屏双挖孔的实现也是借助OLED屏蔽像素实现。原型机实际是常见的中央开孔，并不支持Face ID功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [传iPhone 14 Pro显示屏打孔在亮屏时可能显示为单一药丸形状](https://www.cnbeta.com/articles/tech/1310941.htm) | Wed Aug 31 2022 3:24 PM 
+- 💂 [超强台风“轩岚诺”向东海快速逼近：风力高达17级](https://www.cnbeta.com/articles/tech/1310953.htm) | Wed Aug 31 2022 5:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自从传言首次提出苹果即将推出的iPhone 14 Pro机型将在显示屏顶部同时采用打孔和药丸状的切口以来已经过去了将近12个月。虽然这一设计细节已经被受人尊敬的分析师所证实，但仍不太清楚的是，当iPhone显示屏处于活动状态时，苹果的软件将如何适应这些切口。今天，我们很可能已经得到了另一块拼图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中央气象台，今年第11号台风“轩岚诺”&lpar;HINNAMNOR&rpar;正以超强台风的等级向我国东海快速逼近，预计9月3日夜间进入东海东南部海域，并长时间维持超强台风级别，东海、黄海、渤海海域和沿海地区都将迎来较重的风雨影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [分析机构认为苹果公司iPhone 14系列将涨价 但幅度不大](https://www.cnbeta.com/articles/tech/1310939.htm) | Wed Aug 31 2022 2:26 PM 
+- 🚀 [65W下性能堪称井喷 AMD Zen 4移动版处理器细节流出](https://www.cnbeta.com/articles/tech/1310951.htm) | Wed Aug 31 2022 4:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;外界认为苹果公司iPhone 14系列将出现提价，但提价幅度没有先前估计的那么大&lt;/strong&gt;。全球通货膨胀的困境增加了零部件的成本，苹果将没有什么选择，只能将这些增加的成本转嫁到定于9月宣布的iPhone 14系列上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;已经正式发布的Zen 4处理器仅限四款桌面型号，按照官方路线图，未来还有3D VCache、移动版、APU等，做到全覆盖。虽然移动笔记本产品还没什么信儿，但已经有细心人士注意到AMD PPT上暗示的细节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Bang &amp; Olufsen推出全新音条产品 价格近8000美元](https://www.cnbeta.com/articles/tech/1310937.htm) | Wed Aug 31 2022 2:16 PM 
+- 🎊 [华裔女孩Michelle Liu 因独特拍照角度丑成网红](https://hot.cnbeta.com/articles/funny/1310949.htm) | Wed Aug 31 2022 4:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天在IFA 2022上，&lt;strong&gt;Bang &amp;amp; Olufsen推出了Beosound Theatre Dolby Atmos音条&lt;/strong&gt;，它既是一个时尚的扬声器，又是一个电动电视架。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-align: left;&quot;&gt;是不是看网红脸看烦了？一般被叫网红的女孩，通常都靓丽外表和曼妙的身材，然而以下这位爆红成为人称网红的女孩，竟然是因为拍照角度丑出特色&lt;strong&gt;。&lt;/strong&gt;来自波士顿的华裔女孩子MichelleLiu（@chinventures），拍照的姿势跟其他女孩子不同，非常喜欢压出双下巴的表情跟旅游景点拍照，形成独有特色的打卡照～&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1310949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
