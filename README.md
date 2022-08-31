@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf甲方社群直播大放送](https://www.freebuf.com/articles/343288.html) | Wed Aug 31 2022 3:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    FreeBuf甲方社群 | 社群直播系列回顾【持续更新中】 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 美国陆军招募“国家黑客”；特斯拉因幽灵刹车被提起集体诉讼](https://www.freebuf.com/news/343320.html) | Tue Aug 30 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
     美国陆军本周宣布对外招募网络战部队，防御国外政府发动的网络攻击以及防御工作。 
     </details> 
 
-- 🦄 [国家卫健委等三部门发布《医疗卫生机构网络安全管理办法》](https://www.freebuf.com/news/343278.html) | Tue Aug 30 2022 6:40 AM 
+- 🦅 [国家卫健委等三部门发布《医疗卫生机构网络安全管理办法》](https://www.freebuf.com/news/343278.html) | Tue Aug 30 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
     《办法》共5章三十四条，分为总则、网络安全管理、数据安全管理、监督管理、管理保障五个大章节，适用于医疗卫生机构运营网络的安全管理。 
     </details> 
 
-- 🦅 [美国联邦贸易委员会起诉数据中间商Kochava，涉及售卖上亿手机敏感位置数据](https://www.freebuf.com/articles/mobile/343277.html) | Tue Aug 30 2022 6:36 AM 
+- 🪄 [美国联邦贸易委员会起诉数据中间商Kochava，涉及售卖上亿手机敏感位置数据](https://www.freebuf.com/articles/mobile/343277.html) | Tue Aug 30 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     该诉讼旨在阻止Kochava收集涉及敏感地理位置的数据，并要求该公司删除已经收集的数据。 
     </details> 
 
-- 🪄 [暗网上正在出售COVID-19患者数据](https://www.freebuf.com/news/343260.html) | Tue Aug 30 2022 3:37 AM 
+- 💻 [暗网上正在出售COVID-19患者数据](https://www.freebuf.com/news/343260.html) | Tue Aug 30 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员发现了从泰国医学科学部泄漏的患者个人身份信息（PII），其中包含部分 COVID-19患者的数据信息。 
-    </details> 
-
-- 💻 [损失不可估计！网传用友等头部软件厂商遭勒索攻击](https://www.freebuf.com/news/343248.html) | Tue Aug 30 2022 1:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    有安全厂商表示，该勒索攻击事件有可能是黑客通过供应链污染或漏洞的方式进行投毒。 
     </details> 
 <!-- freebuf:END -->
 
