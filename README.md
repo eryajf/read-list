@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变](http://www.mac52ipod.cn/post/apple-mac-os-x-macos-trash-can-icon-design-1984-up-to-2022.php) | Sun Aug 28 2022 3:14 PM 
+- 👨‍🏫 [Mac技巧之一个国内个人开发者制作的翻译软件：Bob - 翻译和 OCR 工具](http://www.mac52ipod.cn/post/apple-mac-macos-translation-app-bob.php) | Wed Aug 31 2022 3:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	我在苹果电脑 macOS 上一直使用 &lt;u&gt;&lt;a href=&quot;/post/apple-mac-macos-translation-app-deepl.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑上的翻译软件：DeepL&quot;&gt;&lt;font color=#0000FF&gt;DeepL&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 和系统自带的词典这俩翻译工具，前几天看到有位中国的开发者制作了个不错的翻译软件：Bob - 翻译和 OCR 工具，帮他推荐一下吧。&lt;/p&gt;&lt;p&gt;Bob 支持直接查询、划词翻译（选中文字后按 option D ）、OCR 识别和识别后翻译。能同时调用 Google、腾讯、百度、有道、阿里、彩云等多个翻译引擎&lt;/p&gt;&lt;p&gt;Bob 在苹果 Mac App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/id1630034110&quot; target=&quot;_blank&quot; title=&quot;Bob - 翻译和 OCR 工具&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/id1630034110&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%25BF%25BB%25E8%25AF%2591&quot; rel=&quot;tag&quot;&gt;翻译&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A4%2596%25E8%25AF%25AD&quot; rel=&quot;tag&quot;&gt;外语&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变](http://www.mac52ipod.cn/post/apple-mac-os-x-macos-trash-can-icon-design-1984-up-to-2022.php) | Sun Aug 28 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [识别你做了投篮动作，并在手表发出篮球入网音效的 Apple Watch App：空气投篮](http://www.mac52ipod.cn/post/apple-watch-app-airshot-auditoryar.php) | Fri Aug 26 2022 3:02 AM 
+- 🦏 [识别你做了投篮动作，并在手表发出篮球入网音效的 Apple Watch App：空气投篮](http://www.mac52ipod.cn/post/apple-watch-app-airshot-auditoryar.php) | Fri Aug 26 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Apple新闻之苹果自助维修服务覆盖到 Mac 用户了](http://www.mac52ipod.cn/post/apple-expands-self-service-repair-to-mac-notebooks.php) | Tue Aug 23 2022 3:09 AM 
+- 🚀 [Apple新闻之苹果自助维修服务覆盖到 Mac 用户了](http://www.mac52ipod.cn/post/apple-expands-self-service-repair-to-mac-notebooks.php) | Tue Aug 23 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码，节省苹果电脑 CPU 资源耗电发热：Not yet, AV1](http://www.mac52ipod.cn/post/apple-mac-chrome-extension-not-yet-av1.php) | Sun Aug 21 2022 6:50 AM 
+- 🏊 [Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码，节省苹果电脑 CPU 资源耗电发热：Not yet, AV1](http://www.mac52ipod.cn/post/apple-mac-chrome-extension-not-yet-av1.php) | Sun Aug 21 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	Apple Silicone 芯片的 GPU 对各种视频编码的硬编码和硬解码支持如下表所示，AV1 是唯一不被苹果硬解码支持的视频编码。如果视频网站传来的视频是 AV1 编码，Mac 就只能用 CPU 软解吗，更费电更发热。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6699&quot; border=&quot;0&quot; alt=&quot;Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码&quot; title=&quot;Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码&quot; /&gt;&lt;/p&gt;&lt;p&gt;看到 &lt;u&gt;&lt;a href=&quot;https://twitter.com/imRhythm/status/1545940124004859905&quot; target=&quot;_blank&quot; title=&quot;tweet&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;@imRhythm&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 分享了这个叫 Not yet, AV1 的 Chrome 浏览器扩展，能强制视频网站播放其它编码的视频，让 Mac 用更省电、发热量更小的硬解码方式渲染视频。据我所知唯一的负面影响是 YouTube 8K 超高清视频是必须用 AV1 编码的 …… 无所谓，反正我没有 8K 显示器&lt;/p&gt;&lt;p&gt;Not yet, AV1 扩展下载 &lt;u&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/not-yet-av1/dcmllfkiihingappljlkffafnlhdpbai&quot; target=&quot;_blank&quot; title=&quot;Not yet, AV1 扩展下载&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://chrome.google.com/webstore/detail/not-yet-av1/dcmllfkiihingappljlkffafnlhdpbai&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=chrome&quot; rel=&quot;tag&quot;&gt;chrome&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8&quot; rel=&quot;tag&quot;&gt;浏览器&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%25A7%2586%25E9%25A2%2591&quot; rel=&quot;tag&quot;&gt;视频&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=av1&quot; rel=&quot;tag&quot;&gt;av1&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [看富士相机拍出的好照片以及拍摄这些照片时的相机参数设置：Fuji X Weekly — Film Recipes](http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-fuji-x-weekly-film-recipes.php) | Thu Aug 18 2022 3:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	富士相机在摄影圈的口碑还不错，大家尤其喜欢它的颜色表现。富士官方做了个 App：Fuji X Weekly — Film Recipes。&lt;/p&gt;&lt;p&gt;一方面它是个相册，晒出用富士相机拍摄的好照片；&lt;/p&gt;&lt;p&gt;另一方面，每张照片点开详情都能看到拍摄者的各个参数设置（曝光补偿、阴影、降噪、锐化、颗粒效果、ISO ……），这样你也可以作为参考，拍出类似效果的照片&lt;/p&gt;&lt;p&gt;Fuji X Weekly — Film Recipes 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/fuji-x-weekly-film-recipes/id1539047257&quot; target=&quot;_blank&quot; title=&quot;Fuji X Weekly — Film Recipes&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/fuji-x-weekly-film-recipes/id1539047257&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2585%25A7%25E7%2589%2587&quot; rel=&quot;tag&quot;&gt;照片&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=fuji&quot; rel=&quot;tag&quot;&gt;fuji&lt;/a&gt;
 
  
     </details> 
