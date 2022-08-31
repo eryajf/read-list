@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教下各位 Gunicorn 启动时 Python 进程池](https://www.v2ex.com/t/876794#reply1) | Wed Aug 31 2022 10:13 AM
-- 🤗 [如何在 Ubuntu 上编译出 macOS 上可以执行的 aapt2](https://www.v2ex.com/t/876792#reply0) | Wed Aug 31 2022 10:05 AM
-- 🎭 [Javalin - 发现 Java 的可爱之处](https://www.v2ex.com/t/876788#reply1) | Wed Aug 31 2022 9:58 AM
-- 🥷 [B 站大 UP 何同学《我做了一个自己打字的键盘》秀 C 语言代码大家觉得怎么样？](https://www.v2ex.com/t/876784#reply8) | Wed Aug 31 2022 9:47 AM
-- 🐵 [[方法封装] 提前报错 or 返回空 List](https://www.v2ex.com/t/876782#reply7) | Wed Aug 31 2022 9:37 AM<!-- v2ex:END -->
+- 🥸 [陈大好：持续创造小而美的产品丨独立开发者 x 开放麦](https://www.v2ex.com/t/876802#reply0) | Wed Aug 31 2022 10:55 AM
+- 🤗 [[今晚直播] Homebrew 作者 Max Howell：如何打造杰出的开发者工具（中英字幕）](https://www.v2ex.com/t/876797#reply1) | Wed Aug 31 2022 10:23 AM
+- 🎭 [吐槽，心累，写各种兼容代码](https://www.v2ex.com/t/876796#reply4) | Wed Aug 31 2022 10:21 AM
+- 🥷 [请教下各位 Gunicorn 启动时 Python 进程池](https://www.v2ex.com/t/876794#reply4) | Wed Aug 31 2022 10:13 AM
+- 🐵 [如何在 Ubuntu 上编译出 macOS 上可以执行的 aapt2](https://www.v2ex.com/t/876792#reply1) | Wed Aug 31 2022 10:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
