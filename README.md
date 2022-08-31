@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [戴尔证实部分批次的XPS 13 Plus OLED机型存在屏幕粘胶不牢的问题](https://www.cnbeta.com/articles/tech/1310735.htm) | Wed Aug 31 2022 4:35 AM 
+- 🕯 [马斯克传票席卷硅谷](https://www.cnbeta.com/articles/tech/1310781.htm) | Wed Aug 31 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日有报道称，部分戴尔 XPS 13 Plus 笔记本电脑的屏幕存在固定不良的问题。&lt;strong&gt;起初有人推测，问题可能出在意外松动的固定螺丝上，但后续报道已更正为粘胶问题。&lt;/strong&gt;戴尔向 TheVerge 证实，其已知晓部分 OLED 屏存在相关问题。目前该公司正积极向受影响的客户取得联系，并且似乎正在召回一些产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;埃隆·马斯克和推特的“连续剧”又更新了。8月30日，周二，马斯克的律师团队再次向推特发送终止收购函，以“其他理由”终止440亿美元的收购协议。契机是推特前安全主管佩特·扎特科（Peiter Zatko）的举报。扎特科向美国多个监管机构举报，称这家社交媒体公司在隐私、安全和内容审核方面存在“极端、严重的缺陷”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《名侦探柯南 犯人犯泽先生》正式PV公开 10月3日播出](https://hot.cnbeta.com/articles/comic/1310733.htm) | Wed Aug 31 2022 4:00 AM 
+- 💼 [途虎养车再递表港交所：前三年亏损超130亿元，腾讯持股近20%](https://www.cnbeta.com/articles/tech/1310779.htm) | Wed Aug 31 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（8月31日），TV动画《名侦探柯南：犯人犯泽先生》正式预告公布，本作是经典动漫《名侦探柯南》的系列外传，苍井翔太将担任主角犯泽先生的声优，TV动画将于10月3日在网飞独家播出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1310733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月29日，港交所网站显示，途虎养车递交招股书，联席保荐人为高盛、中金公司、美银证券、瑞银集团。这是途虎养车第二次递表港交所。&lt;/strong&gt;早在今年1月24日，途虎养车就在港交所提交了上市申请，但由于未能在6个月内通过聆讯，其招股书转为“失效”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《街头霸王》35周年纪念网站上线 更多内容即将推出](https://hot.cnbeta.com/articles/game/1310731.htm) | Wed Aug 31 2022 3:59 AM 
+- 💂 [纪念日转正 李在镕将就任三星电子会长 宣布未来愿景](https://www.cnbeta.com/articles/tech/1310777.htm) | Wed Aug 31 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月30日是《街头霸王》系列35周年的纪念日，卡普空准备了一个充满插图的&lt;a href=&quot;https://www.streetfighter.com/en/35th/index.html&quot; target=&quot;_blank&quot;&gt;纪念网站&lt;/a&gt;，该网站收录了《街头霸王》系列的历史，以及来自开发团队的问候。他们表示，最近推出的《卡普空对战格斗合集》是35周年纪念的一部分，未来还将会有更多内容推出，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1310731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8月31日消息，知情人士称，三星电子副会长李在镕将在11月1日公司成立纪念日之际就任会长。&lt;/strong&gt;据悉，李在镕将于11月1日上任并宣布其管理愿景，包括半导体领域的未来发展战略和生物业务的大规模投资计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [罗技和腾讯合作开发的掌机规格曝光：骁龙720+4GB内存](https://www.cnbeta.com/articles/tech/1310729.htm) | Wed Aug 31 2022 3:58 AM 
+- 🚀 [石家庄一小区发现“怪鱼”鳄雀鳝：为何突然这么多？](https://www.cnbeta.com/articles/tech/1310775.htm) | Wed Aug 31 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年早些时候，罗技宣布和腾讯合作推出一款手持游戏设备，内置支持 NVIDIA GeForce Now 和 Xbox Game Pass。只是当时没有后续新闻了，&lt;strong&gt;在昨天这款掌机的高清渲染图曝光之后，现在德国科技媒体 WinFuture.de 分享了该掌机的更多信息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，全国多地相继发现鳄雀鳝，遍布河南、北京、湖南、广西、山东、云南、浙江、江苏等省份。&lt;strong&gt;8月30日，河北石家庄，一小区的人工湖里里也出现了一条鳄雀鳝，小区居民和物业经过一番努力将其捕获，并进行了无害化处理。&lt;/strong&gt;据小区业主称，当时用吊钩把鱼弄住了，把嘴拴住进行了处理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [新发现揭示了糖是如何破坏肠道细菌进而导致肥胖问题](https://www.cnbeta.com/articles/science/1310727.htm) | Wed Aug 31 2022 3:48 AM 
+- 🎊 [国产造车新势力“远航汽车”登场：首发四车 性能比肩超跑](https://www.cnbeta.com/articles/tech/1310773.htm) | Wed Aug 31 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一项新动物研究表明，糖可以通过引起肠道微生物组的破坏而导致代谢性疾病如糖尿病的产生。&lt;/strong&gt;这项新研究结果准确地说明了某些肠道细菌如何保护人们免受高脂肪饮食的有害影响，以及饮食中的糖如何破坏这些保护机制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1310727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，成都车展期间，车展现场，大运集团举办“智赢未来，远航汽车”品牌发布会，发布旗下高端新能源汽车品牌——远航汽车。发布会上，&lt;strong&gt;远航汽车全球首发远航Y6、远航Y7两款豪华轿车，与远航H8、远航H9两款豪华SUV，以及高端豪华纯电平台“B.H.D平台”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1310773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
