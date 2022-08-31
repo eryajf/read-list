@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [D3 从入门到实战 - 6](https://juejin.cn/post/7137951443822051364) | Wed Aug 31 2022 8:17 AM 
+- 🤗 [2022淘宝造物节3D直播虚拟营地技术亮点揭秘](https://juejin.cn/post/7137969033781411847) | Wed Aug 31 2022 9:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022年8月24日，淘宝造物节全新亮相！本次造物节，首次上线可万人同时在线的虚拟互动空间“3D疯狂城-造物节虚拟营地”。 
+    </details> 
+
+- 🎡 [你不知道的 JavaScript — call 和 apply 到底哪个更快？](https://juejin.cn/post/7137959904135872549) | Wed Aug 31 2022 8:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们都知道 call&lpar;&rpar; 和 apply&lpar;&rpar; 是用来改变函数中 this 指向的，它们的共同点是都会立即执行，而如果问到它们之间有什么区别时，我们都会想到一个「传参不同」 以上就是一直以来我对两者的全 
+    </details> 
+
+- 🕯 [D3 从入门到实战 - 6](https://juejin.cn/post/7137951443822051364) | Wed Aug 31 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
     携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第 36 天，点击查看活动详情 前因 在前一节中，我们通过一个散点图的案例加强了对 D3 中 Data - Join 的学习和理解。 
     </details> 
 
-- 🎡 [PC 端网页特效（上）](https://juejin.cn/post/7137946107803336734) | Wed Aug 31 2022 7:56 AM 
+- 🚀 [PC端微博Vue-Recyclerview组件的分析与数据采集](https://juejin.cn/post/7137931080983642119) | Wed Aug 31 2022 6:58 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 元素偏移量 offset 系列 2. 元素可视区 client 系列 3.元素滚动 scroll 系列 4. 三大系列的对比 5. mouseenter 和 mouseover 的区别 
+    一般情况下，我们想采集微博的数据可以直接抓取wap端微博网页即可，网页结构非常简单，爬取代码也非常简单。 如果我们直接对PC端的微博网页下手就会发生，接口参数非常复杂，改用selenium结果发现顺序 
     </details> 
 
-- 🕯 [听了大佬们的直播，我决定卷掘金小册了。| Flag永不倒](https://juejin.cn/post/7137945412618420238) | Wed Aug 31 2022 7:53 AM 
+- 💪 [分布式基础理论 CAP &amp; BASE](https://juejin.cn/post/7137930583140892680) | Wed Aug 31 2022 6:56 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么决定写小册？ 昨晚看了掘金大佬们的直播：输出与输入--技术写作与个人成长，深受启发。 先给自己立下flag，向大佬们学习，不断积累，不断输出，卷起来。倒逼自己一下，要卷咱们就卷小册吧~ 很早之前 
-    </details> 
-
-- 🚀 [使用 http-proxy 对网络请求进行代理](https://juejin.cn/post/7137945194028072991) | Wed Aug 31 2022 7:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    携手创作，共同成长！这是我参与「掘金日新计划 · 8 月更文挑战」的第36天，点击查看活动详情 使用下面这段简单的代码对网络请求进行代理： 这段代码的语义是，创建一个代理 HTTP 服务器，监听在端口 
-    </details> 
-
-- 💪 [阿里云基于全新 RocketMQ 5.0 内核的落地实践](https://juejin.cn/post/7137945122670870558) | Wed Aug 31 2022 7:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章的核心就消息架构以及产品能力的云原生化，介绍了阿里云是如何基于全新的 RocketMQ 5.0 内核做出自己的判断和演进，以及如何适配越来越多的企业客户在技术和能力方面的诉求。 
+    CAP和BASE理论可以说是分布式系统的基础理论了，只要面试的时候遇到分布式的问题，基本上都会问到这两个理论。但是好多没毕业的同学，或者参加工作时间不长的同学，可能没有在实际开发中接触过分布式系 
     </details> 
 <!-- juejin:END -->
 ### 少数派
