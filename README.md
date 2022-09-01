@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [苹果发布会超前瞻：常规新品之外，或许还有惊喜「One More Thing」？](https://sspai.com/post/75457) | Wed Aug 31 2022 9:47 AM 
+- 👹 [送码 | 用 59 分钟，让阅读成为有用功](https://sspai.com/post/75473) | Thu Sep 01 2022 9:39 AM 
     <details><summary>展开描述 ...</summary> 
-    根据最近一段时间国内外的各种爆料，我整理了传闻中发布会上可能会出现的新产品和新特性，带大家一起看看今年可能会有哪些亮点。&lt;a href=&quot;https://sspai.com/post/75457&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    《59 分钟就上手简悦 2.0》帮你将简悦看似繁重的功能拆分成多个板块，细致地分析它的具体用法和实际效果，降低上手门槛，让你的简悦也能像一盒炸鸡那样「开盒即食」。&lt;a href=&quot;https://sspai.com/post/75473&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [底大一级，词堆一沓：手机相机传感器术语解惑](https://sspai.com/post/75454) | Wed Aug 31 2022 8:00 AM 
+- 🐘 [新玩意 118｜少数派的作者们最近买了啥？](https://sspai.com/post/75481) | Thu Sep 01 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-    相机传感器介绍中每个字都认识但是连在一起就读不懂的名词到底是什么。&lt;a href=&quot;https://sspai.com/post/75454&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/75481&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [吃代餐，是一种行之有效的减肥手段吗？](https://sspai.com/post/75414) | Wed Aug 31 2022 6:34 AM 
+- 🤭 [石在盆底埋，花在盆中泣：为什么垫碎石可能对植物有害无益](https://sspai.com/post/75472) | Thu Sep 01 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75414&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    排水透气，越排越气？&lt;a href=&quot;https://sspai.com/post/75472&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [我开发了一款轻量的数字白板——PegBoard](https://sspai.com/post/75384) | Wed Aug 31 2022 3:16 AM 
+- 🥸 [为了让自己早睡一小时，我花六个月做了一个 App](https://sspai.com/post/75467) | Thu Sep 01 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    十分轻量、无需联网注册、开箱即用，希望它可以成为你整理信息，梳理思绪时的好助手。&lt;a href=&quot;https://sspai.com/post/75384&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    在我看来，代码的意义有两种，一种是帮助人们探索更多领域的未知，另一种是帮助人们改善他们的生活。&lt;a href=&quot;https://sspai.com/post/75467&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🙉 [派早报：OPPO 发布 ColorOS 13 和潘塔纳尔跨端系统、怒喵科技发布 CYBERBLADE 耳机等](https://sspai.com/post/75452) | Wed Aug 31 2022 1:06 AM 
+- 🙉 [派早报：LG 发布新款 OLED Flex 电视、游戏领域发生多笔重磅收购等](https://sspai.com/post/75471) | Thu Sep 01 2022 12:35 AM 
     <details><summary>展开描述 ...</summary> 
-    UEFI 2.10 和 ACPI 6.5 规范发布，马斯克向 Twitter 发送终止收购函等。&lt;a href=&quot;https://sspai.com/post/75452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    罗技推出 G502 X 系列游戏鼠标、希捷推出漫威蜘蛛侠主题移动硬盘等。&lt;a href=&quot;https://sspai.com/post/75471&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
