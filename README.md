@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [Draw.io - 吊打付费！开源免费的跨平台流程图绘图制图工具 &lpar;替代 Visio / ProcessOn&rpar;](https://www.iplaysoft.com/drawio.html) | Mon Aug 29 2022 1:29 PM
-- 🧑‍🏫 [买1得12会员！喜马拉雅+腾讯视频+京东Plus+网易云音乐+芒果TV](https://www.iplaysoft.com/p/xmly-vip) | Mon Aug 29 2022 8:04 AM
-- 🥰 [Fences 4 - 高效实用的桌面图标分类整理美化工具神器 &lpar;桌面图标再多也不会乱&rpar;](https://www.iplaysoft.com/fences.html) | Mon Aug 29 2022 5:08 AM
-- 💻 [历史低价！2T 西数 SN850 游戏专用 M2 固态硬盘 &lpar;电脑/PS5&rpar; 速度惊人！](https://www.iplaysoft.com/p/wd-black-sn850) | Thu Aug 25 2022 8:00 AM
-- 🎃 [BgSub - 完全免费的 AI 自动抠图工具 &lpar;本地离线处理/无需上传图片/去除背景比 PS 更快&rpar;](https://www.iplaysoft.com/bgsub.html) | Tue Aug 23 2022 5:38 PM<!-- iplaysoft:END -->
+- 🧐 [《古墓丽影 : 暗影 终极版》限免领取！劳拉重启三部曲最后必玩大作 &lpar;包含全部 DLC&rpar;](https://www.iplaysoft.com/shadow-of-the-tomb-raider.html) | Thu Sep 01 2022 3:24 PM
+- 🧑‍🏫 [Draw.io - 吊打付费！开源免费的跨平台流程图绘图制图工具 &lpar;替代 Visio / ProcessOn&rpar;](https://www.iplaysoft.com/drawio.html) | Mon Aug 29 2022 1:29 PM
+- 🥰 [买1得12会员！喜马拉雅+腾讯视频+京东Plus+网易云音乐+芒果TV](https://www.iplaysoft.com/p/xmly-vip) | Mon Aug 29 2022 8:04 AM
+- 💻 [Fences 4 - 高效实用的桌面图标分类整理美化工具神器 &lpar;桌面图标再多也不会乱&rpar;](https://www.iplaysoft.com/fences.html) | Mon Aug 29 2022 5:08 AM
+- 🎃 [历史低价！2T 西数 SN850 游戏专用 M2 固态硬盘 &lpar;电脑/PS5&rpar; 速度惊人！](https://www.iplaysoft.com/p/wd-black-sn850) | Thu Aug 25 2022 8:00 AM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
