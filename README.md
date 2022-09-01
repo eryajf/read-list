@@ -152,9 +152,9 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 27 期）: BgSub, Txtmoji, Slickr, Moodly, Windy, 一起听播客, 图形方格纸](https://discuss-cn.bestxtools.com/d/71/1) | Thu Aug 25 2022 8:35 AM
-- 🦩 [好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh &lpar;能不能好好说话&rpar;](https://discuss-cn.bestxtools.com/d/70/1) | Thu Aug 18 2022 7:56 AM
-- 🙉 [好工具周刊（第 25 期）: QuickRef, Dillinger, Tomodoro, Line Graph Maker, Gofile, ...](https://discuss-cn.bestxtools.com/d/65/1) | Wed Aug 10 2022 4:32 PM<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, ...](https://discuss-cn.bestxtools.com/d/76/1) | Thu Sep 01 2022 6:51 AM
+- 🦩 [好工具周刊（第 27 期）: BgSub, Txtmoji, Slickr, Moodly, Windy, 一起听播客, 图形方格纸](https://discuss-cn.bestxtools.com/d/71/1) | Thu Aug 25 2022 8:35 AM
+- 🙉 [好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh &lpar;能不能好好说话&rpar;](https://discuss-cn.bestxtools.com/d/70/1) | Thu Aug 18 2022 7:56 AM<!-- bestxtools:END -->
 
 ### 王登科-DK博客
 
