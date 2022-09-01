@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [CodeSee 2.0 - 用于您的代码工作流程的 Google 地图](https://xinquji.com/posts/179167?utm_campaign=xinquji-rss) | Thu Sep 01 2022 6:29 AM 
+- 👀 [BikeList - 在线买卖自行车和零件的更好方式](https://xinquji.com/posts/179195?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     用于您的代码工作流程的 Google 地图  
+     在线买卖自行车和零件的更好方式  
     </details> 
 
-- 🥷 [Suntime - 不要错过另一个日落](https://xinquji.com/posts/179166?utm_campaign=xinquji-rss) | Thu Sep 01 2022 6:27 AM 
+- 🥷 [PlayBackk - 发声的平台](https://xinquji.com/posts/179194?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     不要错过另一个日落  
+     发声的平台  
     </details> 
 
-- 💼 [Bonjoro Testimonials - 将客户的喜爱变成您最强大的增长渠道](https://xinquji.com/posts/179165?utm_campaign=xinquji-rss) | Thu Sep 01 2022 6:26 AM 
+- 💼 [Weperson - 初创企业的 HR SaaS 和分析](https://xinquji.com/posts/179193?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     将客户的喜爱变成您最强大的增长渠道  
+     初创企业的 HR SaaS 和分析  
     </details> 
 
-- 🦅 [Conversion Pattern - 防止误报的网站标签管理器](https://xinquji.com/posts/179164?utm_campaign=xinquji-rss) | Thu Sep 01 2022 6:24 AM 
+- 🦅 [AI2sql Chrome Extension - 借助 AI 直接在浏览器中生成 SQL](https://xinquji.com/posts/179192?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     防止误报的网站标签管理器  
+     借助 AI 直接在浏览器中生成 SQL  
     </details> 
 
-- 😺 [Motionity - 适合所有人的基于 Web 的动态图形编辑器](https://xinquji.com/posts/179163?utm_campaign=xinquji-rss) | Thu Sep 01 2022 6:24 AM 
+- 😺 [CoGit - 面向初创公司的开源联合创始人平台](https://xinquji.com/posts/179191?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     适合所有人的基于 Web 的动态图形编辑器  
+     面向初创公司的开源联合创始人平台  
     </details> 
 <!-- xinquji:END -->
