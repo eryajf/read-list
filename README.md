@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [BikeList - 在线买卖自行车和零件的更好方式](https://xinquji.com/posts/179195?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:26 AM 
+- 👀 [Ito - 儿童优先任务列表，立即创建您的帐户](https://xinquji.com/posts/179205?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     在线买卖自行车和零件的更好方式  
+     儿童优先任务列表，立即创建您的帐户  
     </details> 
 
-- 🥷 [PlayBackk - 发声的平台](https://xinquji.com/posts/179194?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:26 AM 
+- 🥷 [Dinesurf - 非洲餐厅预订平台](https://xinquji.com/posts/179204?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     发声的平台  
+     非洲餐厅预订平台  
     </details> 
 
-- 💼 [Weperson - 初创企业的 HR SaaS 和分析](https://xinquji.com/posts/179193?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:23 AM 
+- 💼 [TimeOwl - 时间发生的时间跟踪 - 在您的日历中](https://xinquji.com/posts/179203?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     初创企业的 HR SaaS 和分析  
+     时间发生的时间跟踪 - 在您的日历中  
     </details> 
 
-- 🦅 [AI2sql Chrome Extension - 借助 AI 直接在浏览器中生成 SQL](https://xinquji.com/posts/179192?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:22 AM 
+- 🦅 [iDreamers - 帮助梦想家成为实干家](https://xinquji.com/posts/179202?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     借助 AI 直接在浏览器中生成 SQL  
+     帮助梦想家成为实干家  
     </details> 
 
-- 😺 [CoGit - 面向初创公司的开源联合创始人平台](https://xinquji.com/posts/179191?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:21 AM 
+- 😺 [University Hub - 在一个地方管理您的大学生活并取得成功](https://xinquji.com/posts/179201?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     面向初创公司的开源联合创始人平台  
+     在一个地方管理您的大学生活并取得成功  
     </details> 
 <!-- xinquji:END -->
