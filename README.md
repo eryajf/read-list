@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9752329) | Wed Aug 31 2022 12:27 AM
-- 🐻 [航空发动机容易把飞鸟吸进去，酿成事故，为什么不在进气口加装过滤网？](http://daily.zhihu.com/story/9752385) | Wed Aug 31 2022 12:27 AM
-- 🌏 [如何欣赏跳水比赛？](http://daily.zhihu.com/story/9752391) | Wed Aug 31 2022 12:27 AM
-- 🕴 [如果能牺牲掉中国足球的未来，换成让中国随机拥有50名22岁以下职业球员，并拥有顶级天赋，你愿意吗？](http://daily.zhihu.com/story/9752397) | Wed Aug 31 2022 12:27 AM
-- 🌮 [美国前财长称，全球经济或将迎来日本式停滞，如何解读其发言？](http://daily.zhihu.com/story/9752375) | Wed Aug 31 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯·如何正确地吐槽](http://daily.zhihu.com/story/9752406) | Thu Sep 01 2022 12:27 AM
+- 🐻 [未来 50 年，《哆啦 A 梦》中的哪些技术可能可以实现？](http://daily.zhihu.com/story/9752440) | Thu Sep 01 2022 12:27 AM
+- 🌏 [北极熊喜欢吃企鹅吗？](http://daily.zhihu.com/story/9752437) | Thu Sep 01 2022 12:27 AM
+- 🕴 [江苏发现 2 例全球罕见黄金血型，全球不足 50 例，这一血型有何特殊性？为何如此罕见？](http://daily.zhihu.com/story/9752427) | Thu Sep 01 2022 12:27 AM
+- 🌮 [假如我是昆虫，被蜘蛛网黏住了，我应该怎么逃生？](http://daily.zhihu.com/story/9752420) | Thu Sep 01 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
