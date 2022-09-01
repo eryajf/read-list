@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [因种族歧视而起义的黑人油管博主 最终败倒在油管公关之下](https://www.cnbeta.com/articles/tech/1311433.htm) | Thu Sep 01 2022 4:05 PM 
+- 🕯 [劳动课正式升级为中小学独立课程：煮饭、修家电都得会](https://www.cnbeta.com/articles/tech/1311441.htm) | Thu Sep 01 2022 4:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今年4月，国家教育部印发《义务教育课程方案》并发布《义务教育劳动课程标准（2022年版）》。&lt;strong&gt;今秋开学起，劳动课将正式成为中小学的一门独立课程。&lt;/strong&gt;根据标准，义务教育劳动课程以丰富开放的劳动项目为载体，重点是有目的、有计划地组织学生参加日常生活劳动、生产劳动和服务性劳动，让学生动手实践、出力流汗，接受锻炼、磨炼意志，培养学生正确的劳动价值观和良好的劳动品质。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [闪存库存堆积如山 机构预期SSD价格大跌35%](https://www.cnbeta.com/articles/tech/1311439.htm) | Thu Sep 01 2022 4:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;SSD的价格很可能要失守了。来自调研机构TrendForce（集邦咨询）的最新调查指出，进入第三季度下旬，结果旺季不旺，沉重的库存压力下，&lt;strong&gt;NAND Flash市场交易十分消极，合约价预估跌幅从原先的15~20%，扩大到惊人的30~35%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [好几年前就被锤了的节电器 现在竟然还能月销10万+](https://www.cnbeta.com/articles/tech/1311437.htm) | Thu Sep 01 2022 4:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今年这个夏天，一共用了多少电？编辑部有同事一个月交了近千块电费，早早进入第三档电费标准的他最近在各种研究怎么省电。相信有类似念头的差友肯定不在少数。前两天，就有差友在后台问了我们个问题：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [iPhone 14 Pro的药丸形打孔上的隐私指示器将比显示屏的其他部分更亮](https://www.cnbeta.com/articles/tech/1311435.htm) | Thu Sep 01 2022 4:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;产品发布前夕的传言表明，iPhone 14 Pro上预计会出现的两个打孔将显示为一个长长的药丸状打孔，苹果还将其中的空间用于绿色和橙色的摄像头和麦克风隐私指示灯。&lt;/strong&gt;隐私指示器的信息来自MacRumors论坛上的一个消息来源，他似乎对显示屏的外观有所了解。该消息来源提供了更多关于指示灯将是什么样子的细节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [因种族歧视而起义的黑人油管博主 最终败倒在油管公关之下](https://www.cnbeta.com/articles/tech/1311433.htm) | Thu Sep 01 2022 4:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;油管正在面临有史以来最大规模的“逼宫”。这场由拥有着三千万粉丝的油管超级大博主——Markiplier，所发起的“不要被挂年龄限制挑战”（Try not to get age restricted Challenge），已经吸引了至少数十名千万粉丝级别的油管博主参与其中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [USB4 v2.0标准官宣：80Gbps速度一举超越雷电4](https://www.cnbeta.com/articles/tech/1311431.htm) | Thu Sep 01 2022 4:00 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周，USB推广组宣布将正式推出USB4 v2.0标准，这是对USB4的一次大升级。之前，&lt;strong&gt;USB4被认为是雷电4的“小弟”，这次v2.0标准直接翻身了，传输速率加倍到80Gbps&lt;/strong&gt;，符合了此前一贯的传统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [微软收购动视暴雪进度喜人：《守望先锋》等三部游戏加入XGP](https://hot.cnbeta.com/articles/game/1311429.htm) | Thu Sep 01 2022 2:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，微软Xbox主管菲尔·斯宾塞在微软官方博客撰文表示，英国竞争和市场管理局（CMA）认为微软收购动视暴雪的交易有必要进入第二阶段审查。这意味着，&lt;strong&gt;这一游戏史上最大的收购案，将取得相当喜人的进度。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1311429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [三星打包了577件LCD专利转让给华星光电](https://www.cnbeta.com/articles/tech/1311427.htm) | Thu Sep 01 2022 2:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星已经停产LCD显示屏，而现在，连技术专利也放弃了。据报道，三星将其在美有关LCD液晶显示屏的转让给了华星光电，时间是今年6月份。报道称，&lt;strong&gt;此次三星打包了577件专利，而华星光电和三星之间的渊源还在于，2020年买下了三星苏州LCD工厂，三星还是华星光电的股东。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [地铁里藏百元大钞？“地铁寻宝”游戏走红 多地紧急提醒](https://www.cnbeta.com/articles/tech/1311425.htm) | Thu Sep 01 2022 2:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，全国多地有网友玩起了寻宝游戏，&lt;strong&gt;他们将一些小物品藏匿在地铁的多个角落，再通过社交平台，发布视频及文字线索，其他网友就可以根据线索进行“寻宝”。&lt;/strong&gt;这些物件包括一些玩具、饰品，甚至是百元大钞等，吸引了不少网友“寻宝”，在北京、上海、广东等地十分走红。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
