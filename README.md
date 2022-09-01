@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [严控信用卡套现 支付宝、财付通等机构加码](https://www.cnbeta.com/articles/tech/1311443.htm) | Thu Sep 01 2022 5:34 PM 
+- 🕯 [通用汽车在发生车祸后召回并更新80组Cruise自动驾驶出租车软件](https://www.cnbeta.com/articles/tech/1311449.htm) | Thu Sep 01 2022 8:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;通用汽车旗下的自动驾驶汽车部门Cruise报告说，在6月发生车祸后，对其80辆自动驾驶出租车进行了软件召回和更新。这起事故导致两名乘客受轻伤，受到了全美的关注，因为它就发生在Cruise从加州监管机构获得其无人驾驶机器人出租车服务商业化最后许可的第二天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Ubuntu 20.04.5 LTS发布 拥有更新的硬件启用堆栈](https://www.cnbeta.com/articles/tech/1311447.htm) | Thu Sep 01 2022 7:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;对于那些打算在转向较新的Ubuntu 22.04 LTS系列之前仍坚持使用Ubuntu 20.04&amp;quot;Focal Fossa&amp;quot;长期支持系列（LTS）的用户来说，Ubuntu 20.04.5 LTS作为该旧系列的最新版本今天已经发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [泄密者坚持认为泄露的NVIDIA RTX 4080照片是真实的](https://www.cnbeta.com/articles/tech/1311445.htm) | Thu Sep 01 2022 7:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;NVIDIA和AMD都正在准备即将推出的下一代GPU。AMD最近证实，其RX 7000系列GPU将很快公布，而NVIDIA更新其RTX 4000系列也应该不会太远了。&lt;strong&gt;到目前为止，我们已经有了与旗舰产品RTX 4090有关的泄露，显然现在产品已经开始生产（还伴随着痛苦的清库存过程），这意味着产品发布会也即将来临。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [严控信用卡套现 支付宝、财付通等机构加码](https://www.cnbeta.com/articles/tech/1311443.htm) | Thu Sep 01 2022 5:34 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近期，多银行“出手”严控资金流向，数家支付机构也加码围堵信用卡套现行为。9月1日，北京商报记者多方采访了解到，包括财付通、支付宝、中金支付、嘉联支付、富友支付等在内的多家支付公司正在进一步严控信用卡资金流向，一方面事前严格落实商户的实名制管理，事中实现交易风险的实时监测、识别和拦截，事后也会对套现高风险商户采取零容忍处置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [劳动课正式升级为中小学独立课程：煮饭、修家电都得会](https://www.cnbeta.com/articles/tech/1311441.htm) | Thu Sep 01 2022 4:41 PM 
+- 🎊 [劳动课正式升级为中小学独立课程：煮饭、修家电都得会](https://www.cnbeta.com/articles/tech/1311441.htm) | Thu Sep 01 2022 4:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年4月，国家教育部印发《义务教育课程方案》并发布《义务教育劳动课程标准（2022年版）》。&lt;strong&gt;今秋开学起，劳动课将正式成为中小学的一门独立课程。&lt;/strong&gt;根据标准，义务教育劳动课程以丰富开放的劳动项目为载体，重点是有目的、有计划地组织学生参加日常生活劳动、生产劳动和服务性劳动，让学生动手实践、出力流汗，接受锻炼、磨炼意志，培养学生正确的劳动价值观和良好的劳动品质。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [闪存库存堆积如山 机构预期SSD价格大跌35%](https://www.cnbeta.com/articles/tech/1311439.htm) | Thu Sep 01 2022 4:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;SSD的价格很可能要失守了。来自调研机构TrendForce（集邦咨询）的最新调查指出，进入第三季度下旬，结果旺季不旺，沉重的库存压力下，&lt;strong&gt;NAND Flash市场交易十分消极，合约价预估跌幅从原先的15~20%，扩大到惊人的30~35%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [好几年前就被锤了的节电器 现在竟然还能月销10万+](https://www.cnbeta.com/articles/tech/1311437.htm) | Thu Sep 01 2022 4:40 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年这个夏天，一共用了多少电？编辑部有同事一个月交了近千块电费，早早进入第三档电费标准的他最近在各种研究怎么省电。相信有类似念头的差友肯定不在少数。前两天，就有差友在后台问了我们个问题：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [iPhone 14 Pro的药丸形打孔上的隐私指示器将比显示屏的其他部分更亮](https://www.cnbeta.com/articles/tech/1311435.htm) | Thu Sep 01 2022 4:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;产品发布前夕的传言表明，iPhone 14 Pro上预计会出现的两个打孔将显示为一个长长的药丸状打孔，苹果还将其中的空间用于绿色和橙色的摄像头和麦克风隐私指示灯。&lt;/strong&gt;隐私指示器的信息来自MacRumors论坛上的一个消息来源，他似乎对显示屏的外观有所了解。该消息来源提供了更多关于指示灯将是什么样子的细节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
