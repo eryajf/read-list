@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [让孩子少吃零食的新思路](http://jandan.net/p/111255) | Wed Aug 31 2022 12:33 PM 
+- 🚀 [艺术家提交AI的画参加美术竞赛，夺冠](http://jandan.net/p/111262) | Thu Sep 01 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
-    利用从众心理 
+    上周在twitter、Reddit 上引发剧烈争论：这是艺术吗？ 
     </details> 
 
-- 🙉 [发霉啦：今天，表哥想要跟我调情](http://jandan.net/p/111254) | Wed Aug 31 2022 8:57 AM 
+- 🙉 [人类与黏液不得不说的故事](http://jandan.net/p/111260) | Thu Sep 01 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-    8月份的尾巴，你是…… 
+    有黏液才有你，让我们谢谢黏液 
     </details> 
 
-- 🎉 [惠更斯的赌徒破产定理 暨 脑力小体操之暗黑对赌问题的答案](http://jandan.net/p/111224) | Wed Aug 31 2022 6:24 AM 
+- 🎉 [NASA发布了韦伯太空望远镜的幻影星系图像](http://jandan.net/p/111259) | Thu Sep 01 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    用了这个暨（ji）字，感觉标题高大上了不少 
+    该星系距离地球约 3200 万光年，位于双鱼座。 
     </details> 
 
-- 🐲 [一个人的死去，整个部落的消失 巴西塔纳鲁土著领地上的最后成员离世](http://jandan.net/p/111249) | Wed Aug 31 2022 5:22 AM 
+- 🐲 [巴基斯坦大洪水已淹没该国1/3的土地](http://jandan.net/p/111241) | Thu Sep 01 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-    26年，近9500个日日夜夜，这个无名之人没有与任何人说过话，也没有接触过任何其他人。 
+    不搜索的话，大家知道巴基斯坦大概的人口数吗 
     </details> 
 
--  [猫的啃咬增强了猫薄荷的驱虫力](http://jandan.net/p/111248) | Wed Aug 31 2022 4:12 AM 
+-  [无厘头研究：行李箱中尸体的腐败进程](http://jandan.net/p/111257) | Thu Sep 01 2022 5:25 AM 
     <details><summary>展开描述 ...</summary> 
-    猫薄荷被揉碎时会释放20倍以上的驱虫物质 
+    这项研究提供的数据将助力全球范围内此类刑事案件的调查。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
