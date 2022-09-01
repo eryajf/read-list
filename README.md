@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软收购动视暴雪进度喜人：《守望先锋》等三部游戏加入XGP](https://hot.cnbeta.com/articles/game/1311429.htm) | Thu Sep 01 2022 2:35 PM 
+- 🕯 [因种族歧视而起义的黑人油管博主 最终败倒在油管公关之下](https://www.cnbeta.com/articles/tech/1311433.htm) | Thu Sep 01 2022 4:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;油管正在面临有史以来最大规模的“逼宫”。这场由拥有着三千万粉丝的油管超级大博主——Markiplier，所发起的“不要被挂年龄限制挑战”（Try not to get age restricted Challenge），已经吸引了至少数十名千万粉丝级别的油管博主参与其中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [USB4 v2.0标准官宣：80Gbps速度一举超越雷电4](https://www.cnbeta.com/articles/tech/1311431.htm) | Thu Sep 01 2022 4:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;本周，USB推广组宣布将正式推出USB4 v2.0标准，这是对USB4的一次大升级。之前，&lt;strong&gt;USB4被认为是雷电4的“小弟”，这次v2.0标准直接翻身了，传输速率加倍到80Gbps&lt;/strong&gt;，符合了此前一贯的传统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [微软收购动视暴雪进度喜人：《守望先锋》等三部游戏加入XGP](https://hot.cnbeta.com/articles/game/1311429.htm) | Thu Sep 01 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天，微软Xbox主管菲尔·斯宾塞在微软官方博客撰文表示，英国竞争和市场管理局（CMA）认为微软收购动视暴雪的交易有必要进入第二阶段审查。这意味着，&lt;strong&gt;这一游戏史上最大的收购案，将取得相当喜人的进度。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1311429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星打包了577件LCD专利转让给华星光电](https://www.cnbeta.com/articles/tech/1311427.htm) | Thu Sep 01 2022 2:35 PM 
+- 🚀 [三星打包了577件LCD专利转让给华星光电](https://www.cnbeta.com/articles/tech/1311427.htm) | Thu Sep 01 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;三星已经停产LCD显示屏，而现在，连技术专利也放弃了。据报道，三星将其在美有关LCD液晶显示屏的转让给了华星光电，时间是今年6月份。报道称，&lt;strong&gt;此次三星打包了577件专利，而华星光电和三星之间的渊源还在于，2020年买下了三星苏州LCD工厂，三星还是华星光电的股东。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [地铁里藏百元大钞？“地铁寻宝”游戏走红 多地紧急提醒](https://www.cnbeta.com/articles/tech/1311425.htm) | Thu Sep 01 2022 2:34 PM 
+- 🎊 [地铁里藏百元大钞？“地铁寻宝”游戏走红 多地紧急提醒](https://www.cnbeta.com/articles/tech/1311425.htm) | Thu Sep 01 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近，全国多地有网友玩起了寻宝游戏，&lt;strong&gt;他们将一些小物品藏匿在地铁的多个角落，再通过社交平台，发布视频及文字线索，其他网友就可以根据线索进行“寻宝”。&lt;/strong&gt;这些物件包括一些玩具、饰品，甚至是百元大钞等，吸引了不少网友“寻宝”，在北京、上海、广东等地十分走红。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [美国亚马逊因一连串仓库员工和死亡事件而受到调查](https://www.cnbeta.com/articles/tech/1311423.htm) | Thu Sep 01 2022 2:02 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在不到四周的时间里，有四名亚马逊仓库工人在不同的事件中死亡。&lt;/strong&gt;虽然每起死亡事件的细节还未公布，但这些死亡事件使人们更加关注员工对亚马逊的普遍抱怨：它需要残酷的工作节奏，使员工面临受伤和过热的风险。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [V社谈新一代Steam Deck：续航将优先改进](https://hot.cnbeta.com/articles/game/1311421.htm) | Thu Sep 01 2022 1:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最新一期Famitsu杂志采访了V社多个开发者，以庆祝Steam Deck现在可以被亚洲玩家预定。采访期间，设计师Greg Coomer表示除非发生重大变化，否则未来将有新一代的Steam Deck硬件。主题、大小和形状会改变，甚至可能有一个串流机器。Steam Deck的开发工作将继续。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1311421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
