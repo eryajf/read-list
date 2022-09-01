@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [SiteSucker Pro 5.0.3 扒站神器](https://xclient.info/s/sitesucker.html) | Wed Aug 31 2022 1:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    SiteSucker是一款Mac OS X上的整站下载的利器，可以将整个网站所有资源下载到本地硬盘。 
-    </details> 
-
--  [System Toolkit 5.6.1 系统工具包](https://xclient.info/s/system-toolkit.html) | Wed Aug 31 2022 1:51 AM 
+- 🦏 [System Toolkit 5.6.2 系统工具包](https://xclient.info/s/system-toolkit.html) | Thu Sep 01 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
     System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
     </details> 
 
-- ⚗️ [WiFi Explorer Pro 3.5 强大的WiFi无线扫描和管理工具](https://xclient.info/s/wifi-explorer-pro.html) | Wed Aug 31 2022 1:49 AM 
+-  [Transmit 5.8.9 一款功能齐全的FTP客户端](https://xclient.info/s/transmit.html) | Thu Sep 01 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-    WiFi Explorer Pro是一款运行在Mac平台上的WiFi资源管理器专业版，可以帮助用户监控和排除无线网络故障，还具备信息元素解码、注释和自定义颜色、频谱分析整合、增强过滤等实用的功能。 
+    Transmit是一款功能齐全的FTP客户端。兼容FTP，SFTP和TLS/SSL协议，提供比Finder更加迅速的iDisk账户接入。与此同时，用户还可以通过Transmit在任意应用程序中无须下载即可实时编辑文档，方便简洁，一步到位。 
     </details> 
 
-- 🔥 [TeaCode 1.1_43 代码快速编写辅助工具](https://xclient.info/s/teacode.html) | Wed Aug 31 2022 1:48 AM 
+- ⚗️ [Softorino YouTube Converter 5.0.87 又一款 Youtube 视频下载工具](https://xclient.info/s/softorino-youtube-converter.html) | Thu Sep 01 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    TeaCode是一款强大的基于变量的代码加速编写工具。它几乎适用于任何编辑器。无论我们使用什么编程语言，TeaCode和你一起写，很快。 
+    一款好用的 Youtube 视频一键下载工具 
     </details> 
 
-- 🌋 [ScreenFocus 1.1_23 效率专注及护眼工具](https://xclient.info/s/screenfocus.html) | Wed Aug 31 2022 1:47 AM 
+- 🔥 [QLab Pro 5.0 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Thu Sep 01 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-    ScreenFocus是一款屏幕保护程序，也是一个护眼软件。在多个屏幕上工作？侧视监视器让您的周边视觉中的某处变得更加分散注意力 
+    QLab 是一款专为现场表演而设计的多媒体制作工具，能够让你的Mac掌控整个表演现场。包含戏剧，舞蹈，组合，安装，和更多的风格功能。只需从一个单一的工作区就能播放MIDI和音视频。 
+    </details> 
+
+- 🌋 [One Switch 1.26.1 一键切换系统各项功能](https://xclient.info/s/one-switch.html) | Thu Sep 01 2022 1:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    One Switch 是Mac平台上的一款集合一键切换系统各项功能的工具。One Switch Mac版是一款小巧的应用程序，旨在通过快速访问一些重要的交换机来提高您的效率。它可以从菜单栏打开，只需点击几下即可切换某些系统功能。 
     </details> 
 <!-- xclient:END -->
 
