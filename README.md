@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [通用汽车在发生车祸后召回并更新80组Cruise自动驾驶出租车软件](https://www.cnbeta.com/articles/tech/1311449.htm) | Thu Sep 01 2022 8:05 PM 
+- 🕯 [日元对美元汇率创24年来新低](https://www.cnbeta.com/articles/tech/1311461.htm) | Thu Sep 01 2022 11:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;通用汽车旗下的自动驾驶汽车部门Cruise报告说，在6月发生车祸后，对其80辆自动驾驶出租车进行了软件召回和更新。这起事故导致两名乘客受轻伤，受到了全美的关注，因为它就发生在Cruise从加州监管机构获得其无人驾驶机器人出租车服务商业化最后许可的第二天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月1日，日元汇率一度跌至1美元兑换139.59日元，创1998年9月以来新低。&lt;/strong&gt;市场人士担忧，随着与美国利差可能进一步扩大，日元的跌势将对经济造成负面冲击。共同社报道指出，美联储明确表示将致力于抑制通胀，而日本央行为了支撑经济将维持超低利率政策。日美货币政策的差异再次凸显，出售不利于资产运用的日元的势头增强。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Ubuntu 20.04.5 LTS发布 拥有更新的硬件启用堆栈](https://www.cnbeta.com/articles/tech/1311447.htm) | Thu Sep 01 2022 7:53 PM 
+- 💼 [LG MoodUP冰箱配备蓝牙音箱并可与音乐同步变色面板](https://www.cnbeta.com/articles/tech/1311459.htm) | Thu Sep 01 2022 11:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于那些打算在转向较新的Ubuntu 22.04 LTS系列之前仍坚持使用Ubuntu 20.04&amp;quot;Focal Fossa&amp;quot;长期支持系列（LTS）的用户来说，Ubuntu 20.04.5 LTS作为该旧系列的最新版本今天已经发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一年一度的IFA技术贸易展明天在柏林拉开帷幕，尽管有些公司喜欢提前公布其产品。其中之一就是LG，该公司推出的冰箱绝对可以说是独一无二的。冰箱除了保持食物和饮料的温度之外没有其他作用的日子已经一去不复返了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [泄密者坚持认为泄露的NVIDIA RTX 4080照片是真实的](https://www.cnbeta.com/articles/tech/1311445.htm) | Thu Sep 01 2022 7:49 PM 
+- 💂 [我国航天员从问天实验舱气闸舱出舱 圆满完成既定任务](https://www.cnbeta.com/articles/science/1311457.htm) | Thu Sep 01 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA和AMD都正在准备即将推出的下一代GPU。AMD最近证实，其RX 7000系列GPU将很快公布，而NVIDIA更新其RTX 4000系列也应该不会太远了。&lt;strong&gt;到目前为止，我们已经有了与旗舰产品RTX 4090有关的泄露，显然现在产品已经开始生产（还伴随着痛苦的清库存过程），这意味着产品发布会也即将来临。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中国载人航天工程办公室消息，2022年9月1日18时26分，航天员陈冬成功开启问天实验舱气闸舱出舱舱门。至19时09分，航天员陈冬、刘洋成功出舱。9月2日0时33分，经过约6小时的出舱活动，航天员陈冬、刘洋、蔡旭哲密切协同，完成出舱活动期间全部既定任务，陈冬、刘洋已安全返回问天实验舱，出舱活动取得圆满成功。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [严控信用卡套现 支付宝、财付通等机构加码](https://www.cnbeta.com/articles/tech/1311443.htm) | Thu Sep 01 2022 5:34 PM 
+- 🚀 [星巴克任命Narasimhan为新CEO 明年4月就任](https://www.cnbeta.com/articles/tech/1311455.htm) | Thu Sep 01 2022 11:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期，多银行“出手”严控资金流向，数家支付机构也加码围堵信用卡套现行为。9月1日，北京商报记者多方采访了解到，包括财付通、支付宝、中金支付、嘉联支付、富友支付等在内的多家支付公司正在进一步严控信用卡资金流向，一方面事前严格落实商户的实名制管理，事中实现交易风险的实时监测、识别和拦截，事后也会对套现高风险商户采取零容忍处置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;星巴克公司当地时间周四宣布，任命拉克斯曼·纳拉西姆汉（Laxman Narasimhan）为下一任CEO。美国企业界又增加了一位印裔CEO。&lt;/strong&gt;纳拉西姆汉此前担任英国消费品巨头利洁时的CEO。该公司昨日刚刚宣布， 纳拉西姆汉将于9月30日离职，赴美国寻求发展，但未透露他的具体去向。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [劳动课正式升级为中小学独立课程：煮饭、修家电都得会](https://www.cnbeta.com/articles/tech/1311441.htm) | Thu Sep 01 2022 4:41 PM 
+- 🎊 [航天员出舱影像为啥背景一片漆黑？](https://www.cnbeta.com/articles/science/1311453.htm) | Thu Sep 01 2022 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年4月，国家教育部印发《义务教育课程方案》并发布《义务教育劳动课程标准（2022年版）》。&lt;strong&gt;今秋开学起，劳动课将正式成为中小学的一门独立课程。&lt;/strong&gt;根据标准，义务教育劳动课程以丰富开放的劳动项目为载体，重点是有目的、有计划地组织学生参加日常生活劳动、生产劳动和服务性劳动，让学生动手实践、出力流汗，接受锻炼、磨炼意志，培养学生正确的劳动价值观和良好的劳动品质。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月1日，我国神舟十四号航天员陈冬、刘洋顺利走出舱门，这是中国航天员首次从空间站出舱主通道——问天实验舱气闸舱迈入太空。然而细心的小伙伴们会发现，历次航天员出舱画面中，航天员身后的星空背景居然一片漆黑，浩瀚星空中的星星都去哪儿了？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
