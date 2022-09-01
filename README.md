@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [影响750万用户，俄流媒体平台“START”已公开承认](https://www.freebuf.com/news/343388.html) | Wed Aug 31 2022 6:11 AM 
+- 🦄 [TikTok曝高危漏洞允许一键式帐户劫持，回应称已修复](https://www.freebuf.com/articles/343500.html) | Thu Sep 01 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-    START平台的管理员称，黑客从公司系统中窃取了2021 年的数据库，目前正在在线分发样本。 
+    TikTok安卓版存在一个高危漏洞，攻击者可能借此实现一键式账户劫持，影响数亿用户。 
     </details> 
 
-- 🦄 [黑客利用天文望远镜拍摄的图像传播恶意软件](https://www.freebuf.com/news/343382.html) | Wed Aug 31 2022 3:54 AM 
+- 🦄 [意大利石油巨头 ENI 遭受网络攻击](https://www.freebuf.com/articles/343495.html) | Thu Sep 01 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-    该恶意软件由 Golang 编写，利用詹姆斯韦伯望远镜的空间图像来传播恶意软件。 
+    意大利石油巨头ENI 遭受网络攻击，攻击者破坏了其计算机网络，但该公司称，攻击并未产生很恶劣的影响。 
     </details> 
 
-- 🦅 [FreeBuf甲方社群直播大放送](https://www.freebuf.com/articles/343288.html) | Wed Aug 31 2022 3:19 AM 
+- 🦅 [探寻安全新发展，IDC 2022 CSO全球网络安全峰会成功举办](https://www.freebuf.com/articles/database/343486.html) | Thu Sep 01 2022 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-    FreeBuf甲方社群 | 社群直播系列回顾【持续更新中】 
+    本次峰会以“聚力数据安全 赋能企业现代化”为主题，吸引了超过650位CIO、CSO以及CISO通过线上线下的形式参会。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 美国陆军招募“国家黑客”；特斯拉因幽灵刹车被提起集体诉讼](https://www.freebuf.com/news/343320.html) | Tue Aug 30 2022 9:48 AM 
+- 🪄 [最高超过20万，谷歌发布开源漏洞奖励计划](https://www.freebuf.com/news/343478.html) | Thu Sep 01 2022 3:51 AM 
     <details><summary>展开描述 ...</summary> 
-    美国陆军本周宣布对外招募网络战部队，防御国外政府发动的网络攻击以及防御工作。 
+    8月29日，谷歌推出了开源软件漏洞奖励计划 &lpar;OSS VRP&rpar;，是首批特定于开源的漏洞计划之一。 
     </details> 
 
-- 💻 [国家卫健委等三部门发布《医疗卫生机构网络安全管理办法》](https://www.freebuf.com/news/343278.html) | Tue Aug 30 2022 6:40 AM 
+- 💻 [全网首篇 | 深入解读《医疗卫生机构网络安全管理办法》](https://www.freebuf.com/articles/343453.html) | Thu Sep 01 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    《办法》共5章三十四条，分为总则、网络安全管理、数据安全管理、监督管理、管理保障五个大章节，适用于医疗卫生机构运营网络的安全管理。 
+    网络安全是医疗数字化的底座，网络安全基础未能夯实，医疗数字化就无法实现真正的腾飞。 
     </details> 
 <!-- freebuf:END -->
 
