@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如果 tmux 也有类似 vim tabpage-variable 的机制就好了](https://www.v2ex.com/t/877135#reply3) | Thu Sep 01 2022 4:32 PM
+- 🥸 [如果 tmux 也有类似 vim tabpage-variable 的机制就好了](https://www.v2ex.com/t/877135#reply5) | Thu Sep 01 2022 4:32 PM
 - 🤗 [一个《纯文字挂机类上班养成型游戏》想法梳理](https://www.v2ex.com/t/877134#reply0) | Thu Sep 01 2022 4:14 PM
 - 🎭 [nginx 反代 https 源站，为啥 upstream 源站变成 https://ip/XXX](https://www.v2ex.com/t/877124#reply13) | Thu Sep 01 2022 3:02 PM
 - 🥷 [请教如何转发 VPN 到内网另一台机器](https://www.v2ex.com/t/877112#reply8) | Thu Sep 01 2022 1:51 PM
