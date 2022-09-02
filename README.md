@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [WhatsApp在印度封掉240万个账号以符合该国数字法律](https://www.cnbeta.com/articles/tech/1311699.htm) | Fri Sep 02 2022 7:22 AM 
+- 🕯 [[图]Windows 11 build 25193重新上线平板UI](https://www.cnbeta.com/articles/tech/1311721.htm) | Fri Sep 02 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Meta旗下的WhatsApp在其月度报告中透露，它在印度禁掉了239多万个账号。&lt;/strong&gt;这些封号源于印度严格的IT法律，那里的法律要求数字平台每月公布合规报告。据悉，在这239万个账户中，有142万个是被WahtsApp在用户提出任何报告之前主动封掉。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;微软似乎要重新上架平板模式。&lt;/strong&gt;今年早些时候，微软引入了全新的平板 UI，提供更简洁的交互体验，任务栏上没有应用图标整体体验接近于手机。不过随后微软放弃了这种模式，声称它需要根据反馈进行更多改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [手机防窥膜伤眼睛引热议 你身边有人在用吗？](https://www.cnbeta.com/articles/tech/1311697.htm) | Fri Sep 02 2022 7:16 AM 
+- 💼 [USB4 2.0新标准已发布：有源速率翻倍至80Gbps](https://www.cnbeta.com/articles/tech/1311719.htm) | Fri Sep 02 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你或者身边人用过防窥膜吗？今天防窥膜的话题在微博等平台引发热议，甚至冲上了热搜第一，大量网友参与讨论。起因是一位网友发帖表示，&lt;strong&gt;自己大概用了2-3个月防窥膜，开始出现眼睛问题，看什么都有黑影，眼球也经常布满血丝，感觉“要瞎了”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;USB 推广组织刚刚给命名凌乱的“通用串行总线”大家庭带来了一位新成员，它就是将速率从提升到了 80 Gbps 的 USB4 2.0 。&lt;/strong&gt;此前得益于雷电 3 的整合，USB4（1.0）标准已能够通过 Type-C 接口实现 40 Gbps 的传输速率。不过 USB 2.0 新标准的出现，依然保留了优秀的向后兼容性 —— 即便 USB-IF 的命名方式一直充满槽点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [加州新法禁止特斯拉辅助驾驶系统广告中称“自动驾驶”](https://www.cnbeta.com/articles/tech/1311695.htm) | Fri Sep 02 2022 7:03 AM 
+- 💂 [欧洲药管局推荐批准两款改进版新冠疫苗](https://www.cnbeta.com/articles/science/1311717.htm) | Fri Sep 02 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月2日消息，美国当地时间周二，加州议员在参议院通过了一项新法案，其中禁止特斯拉在司机辅助驾驶系统广告中包含“自动驾驶”等字眼儿。&lt;/strong&gt;这项立法由加州参议院交通委员会主席莉娜·冈萨雷斯（Lena Gonzalez）发起，现在需要州长加文·纽瑟姆（Gavin Newsom）签字成为正式法律。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;欧洲药品管理局9月1日推荐批准两款针对变异新冠病毒奥密克戎毒株BA.1的改进版疫苗，&lt;/strong&gt;称其可作为加强针用于已完成初始疫苗接种的12岁及以上人群。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [何小鹏：小鹏汽车已将未来几年芯片提前买了](https://www.cnbeta.com/articles/tech/1311693.htm) | Fri Sep 02 2022 7:01 AM 
+- 🚀 [Counterpoint：苹果在1000美元以上价位手机中占比达到78%](https://www.cnbeta.com/articles/tech/1311715.htm) | Fri Sep 02 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，美国两大芯片制造巨头被要求停止向国内出口，用于人工智能最先进芯片一事引起关注。&lt;/strong&gt;对于国内智能汽车的自动驾驶发展而言，高性能AI芯片被断供，势必会带来一些影响，而小鹏汽车则通过提前采购的方式，保证了未来一段时间的芯片需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;a href=&quot;https://www.counterpointresearch.com/premium-smartphone-asp-reaches-record-q2-high/&quot; target=&quot;_blank&quot;&gt;根据 Counterpoint 公布的最新统计数据&lt;/a&gt;，在高端智能手机市场中苹果的市场份额高达 57%，而三星位居第二，为 19%。也就是说苹果的市场份额几乎是三星的 3 倍。&lt;strong&gt;该公司高级分析师瓦伦·米什拉（Varun Mishra）还表示苹果在顶级（1000 美元以上）手机中占比达到了 78%，销售额同比增长 114%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [索尼称PSVR2将支持开发者更容易的移植游戏](https://www.cnbeta.com/articles/tech/1311691.htm) | Fri Sep 02 2022 7:01 AM 
+- 🎊 [AMD Ryzen 9 7950X跑分曝光：单核比5950X高34%多核高23%](https://www.cnbeta.com/articles/tech/1311713.htm) | Fri Sep 02 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼互动娱乐公司的两位高级主管 Yasuo Takahashi 和 Kenjo Akiyama 在2022 年计算机娱乐开发者大会&lpar;CEDEC&rpar; 期间的一次活动中表示，PlayStationVR2 将支持开发者更容易的移植游戏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD Ryzen 9 7950X 16-Core 旗舰 CPU 的 Cinebench R23 跑分已经曝光。该 CPU 是 Zen 4 阵容的旗舰型号，零售价为 699 美元，主要对标英特尔的第 12 代酷睿 i9-12900K 和即将发布的酷睿 i9-13900K。这款 CPU 的跑分目前已经在国内百度贴吧上曝光（目前该帖子已经删除）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
