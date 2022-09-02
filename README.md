@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [go语言 nil 避坑指南](https://juejin.cn/post/7138437284155621413) | Thu Sep 01 2022 3:42 PM 
+- 🤗 [Elastic：你的开发人员可以运用云部署得到的 4 个令人惊讶的好处](https://juejin.cn/post/7138582095923773447) | Fri Sep 02 2022 1:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    作者：Susanna Camp 云已成为关键任务——开发人员喜欢它。 没有理由回避将你最重要的数据放在云上 - 随着技术赶上任务需求，有充分的理由这样做。 将你的任务关键型数据迁移到云端不是一个小决定 
+    </details> 
+
+- 🎡 [深入理解计算机系统（3.5）------特殊的算术操作指令](https://juejin.cn/post/7138561945757548581) | Thu Sep 01 2022 11:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    如上图，上面的几个指令支持有符号和无符号的全64位乘积以及整数除法，但是需要注意的是，存储结果的寄存器固定死了，是一对寄存器%edx（高32位）和%eax（低32位）组成的 64 位的四字。 对于 imull 指令，上一章我们在讲算术和逻辑操作指令的时候，讲过这个指令，这是一个… 
+    </details> 
+
+- 🕯 [今天跟蚂蚁金服安全同学聊聊WAF](https://juejin.cn/post/7138460816629563428) | Thu Sep 01 2022 5:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 今天有点开心，下午就收到了两个平台的礼物，分别是掘金还有csdn的礼物，十分感谢，这是一份荣誉吧，也是自己一直努力写文章的嘉奖，值得庆祝下🎉 回归到正题，在很早面阿里的时候，被问到了一个，风控是 
+    </details> 
+
+- 🚀 [HAVE FUN | SOFA 飞船——Layotto 星球登陆计划](https://juejin.cn/post/7138458590712430605) | Thu Sep 01 2022 5:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    这次 SOFAStack 开源社区启动 SOFA 飞船，踏上充满挑战的星球登陆之旅，旅途第一站来到了 Layotto 星球。 
+    </details> 
+
+- 💪 [go语言 nil 避坑指南](https://juejin.cn/post/7138437284155621413) | Thu Sep 01 2022 3:42 PM 
     <details><summary>展开描述 ...</summary> 
     笔试题遇到 `var x string = nil` ，问这个定义是否正确？答案：`cannot use nil as string value in variable declaration` 
-    </details> 
-
-- 🎡 [最通俗的threejs原理介绍](https://juejin.cn/post/7138427458541322253) | Thu Sep 01 2022 3:07 PM 
-    <details><summary>展开描述 ...</summary> 
-    threejs原理介绍 我在这篇文章threejs开发入门介绍中介绍了threejs开发入门，不过大部分人还是对实战更感兴趣，都希望能对着文章直接撸出一个3D的小项目出来。 
-    </details> 
-
-- 🕯 [都说HOOKS好，那到底好在哪儿呢](https://juejin.cn/post/7138420432222289928) | Thu Sep 01 2022 2:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、是什么 Hook 是 React 16.8 的新增特性。它可以让你在不编写 class 的情况下使用 state 以及其他的 React 特性 至于为什么引入hook，官方给出的动机是解决长时间使 
-    </details> 
-
-- 🚀 [字节微服务HTTP框架Hertz使用与源码分析｜拥抱开源](https://juejin.cn/post/7138416105583804430) | Thu Sep 01 2022 2:22 PM 
-    <details><summary>展开描述 ...</summary> 
-    Hertz是一个 Golang 微服务 HTTP 框架，在设计之初参考了其他开源框架 fasthttp、gin、echo 的优势， 并结合字节跳动内部的需求，使其具有高易用性、高性能等特点。 
-    </details> 
-
-- 💪 [Single Source of Truth：XCode + SwiftUI 的界面编辑的设计理念](https://juejin.cn/post/7138407126556229646) | Thu Sep 01 2022 1:46 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文为来自飞书 aPaaS Growth 研发团队成员的文章，已授权 ELab 发布。 背景 1：Define SSOT Q: What is the meaning of Single Source 
     </details> 
 <!-- juejin:END -->
 ### 少数派
