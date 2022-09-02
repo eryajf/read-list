@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Car电动汽车尚未发布 就有26%的消费者考虑购买](https://www.cnbeta.com/articles/tech/1311817.htm) | Fri Sep 02 2022 2:46 PM 
+- 🕯 [iPhone 14发布在即 机构投资者看空苹果](https://www.cnbeta.com/articles/tech/1311823.htm) | Fri Sep 02 2022 4:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;摩根士丹利指出，在苹果&lpar;AAPL.US&rpar;新款iPhone即将在下周发布之前，投资者对苹果公司的“看好程度略高于”其最近财报发布前夕的水平，但机构投资者仍对这家科技巨头持负面看法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《英雄联盟》女子战队G2 HEL成立：中单小姐姐高颜值](https://hot.cnbeta.com/articles/game/1311821.htm) | Fri Sep 02 2022 3:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;本周，来自《英雄联盟》欧洲赛区的G2俱乐部宣布成立旗下首支女子战队HEL。HEL是北欧神话中的一位女神，冥界女王，寓意死亡，掌握着衰老。据悉，G2俱乐部此前已经在另一款电子竞技游戏《Valorant》中成立女子战队Gozen。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1311821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Intel 15款独立显卡全线列队：混进个神秘的家伙](https://www.cnbeta.com/articles/tech/1311819.htm) | Fri Sep 02 2022 3:34 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Intel Arc独立显卡还在艰难地推进着，但仍然有很多型号迟迟没有登场，驱动优化也是个漫长的工作，好在Intel并没有轻言放弃，已经同步投入第二代、第三代的研发工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Apple Car电动汽车尚未发布 就有26%的消费者考虑购买](https://www.cnbeta.com/articles/tech/1311817.htm) | Fri Sep 02 2022 2:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，咨询服务公司Strategic Vision最新公布的一项调查报告显示，尽管苹果公司尚未发布传闻中的Apple Car电动汽车，但已经有26%的消费者考虑购买。如果说半导体短缺、经济衰退风险，以及向电动汽车过渡，让传统汽车厂商的高管们彻夜难眠。那如今他们又有了一个新的失眠理由：消费者甚至在Apple Car出现之前，就已经热衷于购买。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [这种随处可见的元素 差点让全人类变成“傻子”](https://www.cnbeta.com/articles/science/1311815.htm) | Fri Sep 02 2022 2:44 PM 
+- 🎊 [这种随处可见的元素 差点让全人类变成“傻子”](https://www.cnbeta.com/articles/science/1311815.htm) | Fri Sep 02 2022 2:44 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年 3 月，一项发表在权威杂志《美国科学院院刊》的研究指出，含铅汽油曾经的广泛使用，让全美超过一半人口的智力水平受到负面影响，平均每人的智商指数 IQ ，下降了 2.6 分。今天，我们就聊聊“铅”的故事。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [神舟十四号航天员首次出舱看点解析](https://www.cnbeta.com/articles/science/1311813.htm) | Fri Sep 02 2022 2:43 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月2日，神舟十四号乘组完成首次出舱活动。本次出舱与神舟十二号、神舟十三号乘组出舱时有何不同？又有哪些新的航天技术让航天员出舱更加舒适、便捷、安全？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [渝厦高铁益阳-长沙段马上开通 长度63公里 时速310公里](https://www.cnbeta.com/articles/tech/1311811.htm) | Fri Sep 02 2022 2:42 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据国铁集团，渝厦高铁益长段&lpar;益阳-长沙&rpar;将于9月6日正式开通运营。渝厦高铁&lpar;重庆-厦门&rpar;益长段位于湖南省西北部，&lt;strong&gt;全长63公里，经长沙西站接入长株潭城际铁路，按上限标准时速350公里设计，常态化按时速310公里达标运营。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [AMD Zen4手动降压后神奇一幕发生：5GHz频率下温度暴减37℃](https://www.cnbeta.com/articles/tech/1311809.htm) | Fri Sep 02 2022 2:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨日有爆料人称，AMD Zen4的QS/ES测试片存在积热现象，在默认设定下，170W TDP的版本很容易触及230W的峰值功耗（PPT），此时温度达到95℃左右，接着处理器就开始降频保护。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
