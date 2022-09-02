@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Mac技巧之一个国内个人开发者制作的翻译软件：Bob - 翻译和 OCR 工具](http://www.mac52ipod.cn/post/apple-mac-macos-translation-app-bob.php) | Wed Aug 31 2022 3:56 AM 
+- 👨‍🏫 [Apple新闻之腾讯打算重构Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	今天看到很多人在转发这个帖子 &lt;u&gt;&lt;a href=&quot;https://v2ex.com/t/876823&quot; target=&quot;_blank&quot; title=&quot;腾讯内测新版 QQ mac 客户端，似乎是基于 Electron 开发&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://v2ex.com/t/876823&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，好消息是腾讯打算重构 Mac QQ（屎山挖不动了吧），坏消息是不用 Native App 而是基于 Electron 开发。&lt;/p&gt;&lt;p&gt;新版 Mac QQ 已经进入内测阶段，想看截屏的直接去上面链接说的那个帖子吧。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=qq&quot; rel=&quot;tag&quot;&gt;qq&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Mac技巧之一个国内个人开发者制作的翻译软件：Bob - 翻译和 OCR 工具](http://www.mac52ipod.cn/post/apple-mac-macos-translation-app-bob.php) | Wed Aug 31 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变](http://www.mac52ipod.cn/post/apple-mac-os-x-macos-trash-can-icon-design-1984-up-to-2022.php) | Sun Aug 28 2022 3:14 PM 
+- 🦏 [苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变](http://www.mac52ipod.cn/post/apple-mac-os-x-macos-trash-can-icon-design-1984-up-to-2022.php) | Sun Aug 28 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [识别你做了投篮动作，并在手表发出篮球入网音效的 Apple Watch App：空气投篮](http://www.mac52ipod.cn/post/apple-watch-app-airshot-auditoryar.php) | Fri Aug 26 2022 3:02 AM 
+- 🚀 [识别你做了投篮动作，并在手表发出篮球入网音效的 Apple Watch App：空气投篮](http://www.mac52ipod.cn/post/apple-watch-app-airshot-auditoryar.php) | Fri Aug 26 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Apple新闻之苹果自助维修服务覆盖到 Mac 用户了](http://www.mac52ipod.cn/post/apple-expands-self-service-repair-to-mac-notebooks.php) | Tue Aug 23 2022 3:09 AM 
+- 🏊 [Apple新闻之苹果自助维修服务覆盖到 Mac 用户了](http://www.mac52ipod.cn/post/apple-expands-self-service-repair-to-mac-notebooks.php) | Tue Aug 23 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	苹果今年 4 月在美国推出了针对 iPhone 用户的自助维修服务，交钱后苹果会寄来一个巨大的工具箱，里面有各种专业设备和维修手册，让用户自己维修 iPhone。修完再把工具箱寄回给苹果。&lt;/p&gt;&lt;p&gt;现在，使用 Apple Silicone 芯片的 MacBook Pro、MacBook Air 用户也能使用自助维修服务了。工具箱租金 49 美元，租期一周。&lt;/p&gt;&lt;p&gt;苹果官网的详细介绍 &lt;u&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/&quot; target=&quot;_blank&quot; title=&quot;Apple expands Self Service Repair to Mac notebooks&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;现在，苹果的自助维修服务还只在美国推出，今年晚些时候会拓展到其它国家。想知道这工具箱里到底有什么，怎么自助维修，可以看这个体验视频 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1CS4y1x7Mq&quot; target=&quot;_blank&quot; title=&quot;【官方双语】苹果的自助维修服务？烂透了#linus谈科技&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1CS4y1x7Mq&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%25BB%25B4%25E4%25BF%25AE&quot; rel=&quot;tag&quot;&gt;维修&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码，节省苹果电脑 CPU 资源耗电发热：Not yet, AV1](http://www.mac52ipod.cn/post/apple-mac-chrome-extension-not-yet-av1.php) | Sun Aug 21 2022 6:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	Apple Silicone 芯片的 GPU 对各种视频编码的硬编码和硬解码支持如下表所示，AV1 是唯一不被苹果硬解码支持的视频编码。如果视频网站传来的视频是 AV1 编码，Mac 就只能用 CPU 软解吗，更费电更发热。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6699&quot; border=&quot;0&quot; alt=&quot;Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码&quot; title=&quot;Mac技巧之让视频网站不用苹果无法硬解码的 AV1 视频编码&quot; /&gt;&lt;/p&gt;&lt;p&gt;看到 &lt;u&gt;&lt;a href=&quot;https://twitter.com/imRhythm/status/1545940124004859905&quot; target=&quot;_blank&quot; title=&quot;tweet&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;@imRhythm&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 分享了这个叫 Not yet, AV1 的 Chrome 浏览器扩展，能强制视频网站播放其它编码的视频，让 Mac 用更省电、发热量更小的硬解码方式渲染视频。据我所知唯一的负面影响是 YouTube 8K 超高清视频是必须用 AV1 编码的 …… 无所谓，反正我没有 8K 显示器&lt;/p&gt;&lt;p&gt;Not yet, AV1 扩展下载 &lt;u&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/not-yet-av1/dcmllfkiihingappljlkffafnlhdpbai&quot; target=&quot;_blank&quot; title=&quot;Not yet, AV1 扩展下载&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://chrome.google.com/webstore/detail/not-yet-av1/dcmllfkiihingappljlkffafnlhdpbai&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=chrome&quot; rel=&quot;tag&quot;&gt;chrome&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8&quot; rel=&quot;tag&quot;&gt;浏览器&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%25A7%2586%25E9%25A2%2591&quot; rel=&quot;tag&quot;&gt;视频&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=av1&quot; rel=&quot;tag&quot;&gt;av1&lt;/a&gt;
 
  
     </details> 
