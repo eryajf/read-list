@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Android studio 指定.gradle 路径还是固定入口生效？](https://www.v2ex.com/t/877143#reply0) | Thu Sep 01 2022 7:37 PM
-- 🤗 [如果 tmux 也有类似 vim tabpage-variable 的机制就好了](https://www.v2ex.com/t/877135#reply5) | Thu Sep 01 2022 4:32 PM
-- 🎭 [一个《纯文字挂机类上班养成型游戏》想法梳理](https://www.v2ex.com/t/877134#reply0) | Thu Sep 01 2022 4:14 PM
-- 🥷 [nginx 反代 https 源站，为啥 upstream 源站变成 https://ip/XXX](https://www.v2ex.com/t/877124#reply13) | Thu Sep 01 2022 3:02 PM
-- 🐵 [请教如何转发 VPN 到内网另一台机器](https://www.v2ex.com/t/877112#reply9) | Thu Sep 01 2022 1:51 PM<!-- v2ex:END -->
+- 🥸 [小米、荣耀、OV 哪家系统维护时间长？](https://www.v2ex.com/t/877179#reply2) | Fri Sep 02 2022 1:57 AM
+- 🤗 [求教一个 Java 线程池的问题](https://www.v2ex.com/t/877178#reply0) | Fri Sep 02 2022 1:56 AM
+- 🎭 [关于 time/rate 中取消返回 token 的问题（bug？）](https://www.v2ex.com/t/877175#reply0) | Fri Sep 02 2022 1:46 AM
+- 🥷 [独立开发变现周刊（第 70 期）：一年内将 NotionForm 的月收入从 0 到 1 万美元](https://www.v2ex.com/t/877174#reply0) | Fri Sep 02 2022 1:41 AM
+- 🐵 [笔记本屏幕可以很薄，为什么台式显示器都那么厚重](https://www.v2ex.com/t/877167#reply9) | Fri Sep 02 2022 1:33 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
