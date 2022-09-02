@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [“嫌贵就回家”，移动公厕一次收费10元还倒计时](https://www.cnbeta.com/articles/tech/1311747.htm) | Fri Sep 02 2022 9:14 AM 
+- 🕯 [高通回应卫星通信连接功能：骁龙基带手机将支持](https://www.cnbeta.com/articles/tech/1311767.htm) | Fri Sep 02 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，有网友曝出在福州一移动公厕如厕时，10元一次，还有时间限制。视频发布后，引网友热议。&lt;/strong&gt;据极目新闻，9月2日上午，该公厕经营者告诉记者，为了不让厕所使用过度，将价格调从6元到了10元，倒计时只是起到提醒作用，实际使用并没有时间限制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;没想到，卫星连接功能成了巨头们角力的新战场。华为已经证实定于9月6日发布的Mate 50系列将支持卫星通信功能，余承东更是形容它是“捅破天”的技术。谷歌方面也确认，Android 14将开始支持卫星连接，而多方爆料称，9月8日发布的iPhone 14系列同样也有份。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [IFA 2022：Jabra推出Elite 5真无线ANC降噪耳机 售150美元](https://www.cnbeta.com/articles/tech/1311745.htm) | Fri Sep 02 2022 9:04 AM 
+- 💼 [比亚迪回应巴菲特再减持：公司销量屡创新高 经营情况健康](https://www.cnbeta.com/articles/tech/1311765.htm) | Fri Sep 02 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在近日举办的柏林消费电子展（IFA 2022）上，Jabra 推出了售价 150 美元的 Elite 5 真无线耳机。&lt;/strong&gt;作为一款中端音频产品，它延续了 Elite 75t 的设计风格。在主动式降噪（ANC）功能开启后，Elite 5 还具有长达 7 小时的电池续航。此外这款蓝牙耳机支持多点连接、IP55 防水防尘，并且支持 aptX、AAC 和 SBC 等编解码器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月30日，持有比亚迪股票14年的巴菲特首次减持，引发了业内大震动。结果没过两天，巴菲特又再度减持，而且比上一次的量级更大。港交所公布的文件显示，&lt;strong&gt;伯克希尔哈撒韦公司这次减持171.6万股比亚迪股份H股，持股比例从19.02%下调至18.87%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [俄航天集团：俄计划与中国在月球和深空领域合作](https://www.cnbeta.com/articles/science/1311741.htm) | Fri Sep 02 2022 9:00 AM 
+- 💂 [孟晚舟回母校演讲：读书万卷，咖啡千杯](https://www.cnbeta.com/articles/tech/1311763.htm) | Fri Sep 02 2022 10:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;俄罗斯国家航天集团总经理尤里·鲍里索夫在“知识”大型教育节目中说，俄罗斯正在寻找与中国合作探索月球和深空的途径。&lt;/strong&gt;鲍里索夫说：“我们正在寻找与最亲密的同行合作的途径，首先是中国，以整合我们探索月球和未来探索深空的努力。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月2日消息，今日，华为副董事长、轮值董事长、CFO孟晚舟来到贵州都匀市，与母校都匀一中和都匀三小的师生共上开学一堂课，发表了“读书万卷，咖啡千杯”的主题演讲。孟晚舟讲到，“人生处处是课堂，人人皆可为吾师，人生处处是考场”。她勉励青年学子要拥有开放的心态、保持对未知的好奇，不断学习，在解题与破题的过程中，收获不一样的精彩。以下为孟晚舟演讲稿精选：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google用户选择支付项目拓展至多个国家 允许使用第三方支付系统](https://www.cnbeta.com/articles/tech/1311739.htm) | Fri Sep 02 2022 8:59 AM 
+- 🚀 [固特异推出ElectricDrive电动汽车四季胎 GT系列迎来两款新尺寸](https://www.cnbeta.com/articles/tech/1311761.htm) | Fri Sep 02 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Google 宣布适用于 Play Store 的&lt;a href=&quot;https://support.google.com/googleplay/android-developer/answer/12570971?hl=zh-Hans&quot; target=&quot;_blank&quot;&gt;用户选择支付项目&lt;/a&gt;（允许用户在应用内购买选择替代支付系统）扩展至印度、澳大利亚、印度尼西亚、日本和欧洲经济区（EEA）。&lt;/strong&gt;该公司正在呼吁全球所有非游戏开发商申请该计划，只要符合条件他们可以在上述地区使用第三方支付系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着汽车行业向全力向电气化转型，轮胎制造商也被电动汽车厂商绑到了同一架战车上。&lt;strong&gt;与传统燃油车相比，EV 车型的瞬时扭矩要夸张得多，所以老牌轮胎制造商也必须顺应新时代的发展。&lt;/strong&gt;以拥有 120 多年历史的固特异（Goodyear）为例，该公司就深知电动汽车会让普通轮胎的磨损速度提升 30% 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [电动卡车即将交付 特斯拉正在为“Semi服务项目”加大招聘力度](https://www.cnbeta.com/articles/tech/1311737.htm) | Fri Sep 02 2022 8:57 AM 
+- 🎊 [巴菲特再次减持比亚迪H股 持股比例降至18.87%](https://www.cnbeta.com/articles/tech/1311759.htm) | Fri Sep 02 2022 9:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉正在加紧为其“Semi服务计划”招聘人员以便在首批客户交付之前为其即将到来的特斯拉Semi电动卡车提供服务。经过多年的拖延，埃隆·马斯克终于确认，具有500英里续航能力的特斯拉Semi电动卡车将在今年年底前向客户发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月1日，港交所公布文件显示，股神巴菲特旗下的伯克希尔哈撒韦公司，&lt;strong&gt;减持171.6万股比亚迪股份H股，其持股比例从19.02%下调至18.87%。&lt;/strong&gt;这距巴菲特上次坚持比亚迪，还不足一周。8月30日，港交所文件显示，巴菲特旗下的伯克希尔哈撒韦在8月24日出售了133万股比亚迪H股，平均价格277.1016港元/股，以此计算这笔减持套现近3.69亿港元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
