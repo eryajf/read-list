@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌为ChromeOS用户推出游戏控件 通过按键玩触控游戏](https://www.cnbeta.com/articles/tech/1311825.htm) | Fri Sep 02 2022 4:35 PM 
+- 🕯 [RTX 40系显卡再次遭遇变数 4090/4090 Ti可能要延后发售](https://www.cnbeta.com/articles/tech/1311831.htm) | Fri Sep 02 2022 5:50 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;老黄已经基本确认，将在9月20日的GTC大会上发布新一代RTX显卡。按理说，从纸面发布到最终上市，最多一个月时间过渡，可现在又出现变数。爆料大神harukaze5719称，&lt;strong&gt;NVIDIA考虑将上市时间推迟到11月，也就是万圣节（11月1日）之后。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [20年前的厂商曾开发出自毁式光盘Flexplay 遇氧逐渐失效](https://hot.cnbeta.com/articles/movie/1311829.htm) | Fri Sep 02 2022 5:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;尽管流媒体服务日益崛起，可光盘尤其是4K蓝光在欧美市场依然风生水起。之前一份数据显示，今年二季度，在包括所有实体媒体介质如DVD、标准蓝光、4K蓝光等在内的光盘销量数据中，4K蓝光碟狂卖出超2亿张，占比达到11.6%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1311829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [抖音：打击虚假探店、以差评勒索吃霸王餐](https://hot.cnbeta.com/articles/movie/1311827.htm) | Fri Sep 02 2022 5:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，抖音展探店专项治理行动，&lt;strong&gt;从严整治虚假宣传、以差评勒索吃霸王餐、不正当竞争、虚假探店等违规行为。&lt;/strong&gt;抖音表示，将根据实际行为的严重程度、主观恶意程度以及造成的影响，予以内容不推荐、停播、封禁投稿权限、回收直播权限、账号永久封禁等处罚，并进行公示通报。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1311827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [谷歌为ChromeOS用户推出游戏控件 通过按键玩触控游戏](https://www.cnbeta.com/articles/tech/1311825.htm) | Fri Sep 02 2022 4:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在Chromebook获得安卓应用和游戏的权限多年后，谷歌表示，&lt;strong&gt;ChromeOS用户将获得为某些纯触摸屏游戏优化的 &amp;quot;早期阿尔法 &amp;quot;游戏控件&lt;/strong&gt;，这一举措感觉有点晚。手机游戏显然是为在带触摸屏的手机上使用而制作的，而许多电脑没有这种功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14发布在即 机构投资者看空苹果](https://www.cnbeta.com/articles/tech/1311823.htm) | Fri Sep 02 2022 4:12 PM 
+- 🎊 [iPhone 14发布在即 机构投资者看空苹果](https://www.cnbeta.com/articles/tech/1311823.htm) | Fri Sep 02 2022 4:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;摩根士丹利指出，在苹果&lpar;AAPL.US&rpar;新款iPhone即将在下周发布之前，投资者对苹果公司的“看好程度略高于”其最近财报发布前夕的水平，但机构投资者仍对这家科技巨头持负面看法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [《英雄联盟》女子战队G2 HEL成立：中单小姐姐高颜值](https://hot.cnbeta.com/articles/game/1311821.htm) | Fri Sep 02 2022 3:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周，来自《英雄联盟》欧洲赛区的G2俱乐部宣布成立旗下首支女子战队HEL。HEL是北欧神话中的一位女神，冥界女王，寓意死亡，掌握着衰老。据悉，G2俱乐部此前已经在另一款电子竞技游戏《Valorant》中成立女子战队Gozen。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1311821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Intel 15款独立显卡全线列队：混进个神秘的家伙](https://www.cnbeta.com/articles/tech/1311819.htm) | Fri Sep 02 2022 3:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel Arc独立显卡还在艰难地推进着，但仍然有很多型号迟迟没有登场，驱动优化也是个漫长的工作，好在Intel并没有轻言放弃，已经同步投入第二代、第三代的研发工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Apple Car电动汽车尚未发布 就有26%的消费者考虑购买](https://www.cnbeta.com/articles/tech/1311817.htm) | Fri Sep 02 2022 2:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，咨询服务公司Strategic Vision最新公布的一项调查报告显示，尽管苹果公司尚未发布传闻中的Apple Car电动汽车，但已经有26%的消费者考虑购买。如果说半导体短缺、经济衰退风险，以及向电动汽车过渡，让传统汽车厂商的高管们彻夜难眠。那如今他们又有了一个新的失眠理由：消费者甚至在Apple Car出现之前，就已经热衷于购买。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
