@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [🎁 中奖公示-第四届青训营笔记创作活动](https://juejin.cn/post/7138674597087903775) | Fri Sep 02 2022 7:04 AM 
+- 🤗 [SwiftUI 中的List 在MacOS 中的性能优化。](https://juejin.cn/post/7138687207426457630) | Fri Sep 02 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-    hello，各位青训营的同学， 第四届笔记创作活动的获奖名单来啦！大家看看自己有没有获奖呢！！！！！ 
+    List在iOS中有懒加载的特性，但是在MacOS中会一次性加载完List中的所有的数据。并没有懒加载的特性。 所以在MacOS的List中当数据量巨大时，会存在巨大的性能瓶颈。 
     </details> 
 
-- 🎡 [飞书 Android 升级 JDK 11 引发的 CI 构建性能问题](https://juejin.cn/post/7138670703682781214) | Fri Sep 02 2022 6:48 AM 
+- 🎡 [【建议收藏】小滴课堂后端面试题（8）下~持续更新中](https://juejin.cn/post/7138687344063807525) | Fri Sep 02 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-    本文深挖 JVM 和 Gradle 的源码实现，介绍了分析过程和修复方法，供其他升级 JDK 的团队参考。 
+    题⽬ 说下分布式缓存必考题之缓存击穿-穿透-雪崩区别+解决⽅案 回答 - 缓存击穿 &lpar;某个热点key缓存失效了&rpar; 缓存中没有但数据库中有的数据，假如是热点数据，那key在 缓存过期的⼀刻，同时有⼤量的 
     </details> 
 
-- 🕯 [UI自动化助力业务效率提升](https://juejin.cn/post/7138666568170995749) | Fri Sep 02 2022 6:33 AM 
+- 🕯 [2022 云原生编程挑战赛启动！看导师如何拆解边缘容器赛题？](https://juejin.cn/post/7138681505512947725) | Fri Sep 02 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-    UI自动化是业内常用的一种测试手段，在回归测试，兼容性测试、线上功能监控、冒烟测试等测试场景中都有较多的应用，不仅如此，UI自动化还可以帮助业务减少人力成本、提升效率的～ 
+    本届大赛将继续深度探索服务网格、边缘容器、Serverless 三大热门技术领域，为热爱技术的年轻人提供一个挑战世界级技术问题的舞台，希望用技术为全社会创造更大价值。大家赶快报名参赛吧！ 
     </details> 
 
-- 🚀 [巧用NodeJs帮老板解决个人需求！老板娘直呼：&quot;牛！niu！🐂！&quot;](https://juejin.cn/post/7138656718694645767) | Fri Sep 02 2022 5:54 AM 
+- 🚀 [Gradle 插件本地化及发布命令](https://juejin.cn/post/7138680829181427725) | Fri Sep 02 2022 7:28 AM 
     <details><summary>展开描述 ...</summary> 
-    “多久没休息了，帮我把这个弄好了，休休年假？旅旅游？陪陪弟妹？” “哎呀，说这干啥，都是兄弟，而且是嫂子有需要，顺手的事儿。话说......” 
+    插件的本地化 插件的发布上传命令。插件的本地化 插件的发布上传命令。插件的本地化 插件的发布上传命令 
     </details> 
 
-- 💪 [JAVA轻量级错误码设计最佳实践](https://juejin.cn/post/7138648965041356830) | Fri Sep 02 2022 5:25 AM 
+- 💪 [Failure [INSTALL_FAILED_INVALID_APK: Failed to extract native libraries, res=-2]](https://juejin.cn/post/7138680524544933919) | Fri Sep 02 2022 7:26 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 目前公司团队项目中返回异常都没有错误码，如果遇到错误提示只会返回一个错误信息。随着微服务组件越来越多，这样给不同团队之间沟通交流、排查错误带来了极大的困难。于是在网上搜索了一番以后，决心要重新设 
+    项目场景： 在自己用androidkiller 回编译一个app，然后用adb 命令安装出现了该错误。这个问题说不能提取原生库。 原因分析： 谷歌在Android6.0以后引进extractNativ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
