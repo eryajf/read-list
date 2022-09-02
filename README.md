@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华为合作经销商：一台问界M5毛利相当于60台华为手机](https://www.cnbeta.com/articles/tech/1311793.htm) | Fri Sep 02 2022 12:12 PM 
+- 🕯 [印度审批政策变动 国产手机巨头有望获益](https://www.cnbeta.com/articles/tech/1311801.htm) | Fri Sep 02 2022 1:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;北京时间9月2日消息，据行业组织透露，印度将尝试平行测试的策略，以加快新电子设备的安全审批，原先所需的审批时间将从16至21周缩短到5至8周。&lt;strong&gt;小米、三星和苹果等科技公司可能会从中获益&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [联想首次公布“远程替身”机器人S1：系自主研发 用于远程巡视](https://www.cnbeta.com/articles/tech/1311797.htm) | Fri Sep 02 2022 1:09 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在2022年中国国际服务贸易交易会上，联想集团首次公布了自主研发的“远程替身”机器人——联想晨星机器人S1。据介绍，联想晨星机器人S1是工业4.0时代下制造业数字转型的产品。当戴上晨星AR眼镜后，晨星机器人S1所采集的画面直接浮现在了眼前。这也是联想晨星机器人S1独特的“远程临场”功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [周鸿祎：数字化是一把双刃剑 数字化发展水平越高安全挑战就越大](https://www.cnbeta.com/articles/tech/1311795.htm) | Fri Sep 02 2022 1:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月2日晚间消息，在2022世界数字经济大会上，360集团创始人周鸿祎在演讲中称，数字化是一把双刃剑，数字化发展水平越高，安全挑战就越大。周鸿祎表示，数字化是国家和各行各业发展的主旋律，未来所有的经济都会是数字经济，所有的企业也都是数字化企业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [华为合作经销商：一台问界M5毛利相当于60台华为手机](https://www.cnbeta.com/articles/tech/1311793.htm) | Fri Sep 02 2022 12:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;华为手机业务因为受到制裁，出货量大跌，就连此前的华为经销商也受到牵连，纷纷关店转型。但在华为开始与赛力斯合作卖车后，一些华为合作经销商，又找到了新的方向。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD锐龙7000官方精美图赏：张牙舞爪的“八爪鱼”](https://www.cnbeta.com/articles/tech/1311791.htm) | Fri Sep 02 2022 12:11 PM 
+- 🎊 [AMD锐龙7000官方精美图赏：张牙舞爪的“八爪鱼”](https://www.cnbeta.com/articles/tech/1311791.htm) | Fri Sep 02 2022 12:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，AMD正式发布了5nm工艺、Zen4架构的锐龙7000系列处理器，并将在9月底性能解禁、上市开卖。除了底层工艺架构、规格参数的变化，锐龙7000系列还作别了沿用多年的AM4封装接口，&lt;strong&gt;升级为全新的AM5，从针脚式改为触点式&lt;/strong&gt;，不会再出现针脚弯折的尴尬场面&lpar;由主板承接了&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311791.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [研究人员发现引发COVID-19的冠状病毒的关键&quot;弱点&quot;](https://www.cnbeta.com/articles/science/1311789.htm) | Fri Sep 02 2022 12:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英属哥伦比亚大学的研究人员发现了SARS-CoV-2病毒的所有主要变体的一个关键漏洞，包括新发现的BA.1和BA.2 Omicron亚变体。中和抗体可以针对这一弱点，有可能为对各种变体普遍有效的治疗打开大门。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [危害比有糖饮料更大？代糖是否被过度抨击了？](https://www.cnbeta.com/articles/tech/1311787.htm) | Fri Sep 02 2022 11:58 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月2日，在养生逐渐年轻化的今天，更健康的生活成为当代年轻人的追求，对吃的追求也从过往的吃得饱、吃得美味，到现在吃得健康。因此，对于一些影响健康的话题往往会在短时间内引来社会的关注，尤其是“新生”产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [飞利浦将支付2400万美元 以了结医疗设备虚假索赔诉讼](https://www.cnbeta.com/articles/tech/1311785.htm) | Fri Sep 02 2022 11:57 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国司法部称，飞利浦旗下子公司Philips RS North America将支付2400万美元，以解决有关其通过向耐用医疗设备 （DME） 供应商支付回扣来误导联邦医疗保健计划的指控。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
