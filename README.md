@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [687. 最长同值路径 : 简单递归运用题](https://juejin.cn/post/7138614364608659469) | Fri Sep 02 2022 3:09 AM 
+- 🤗 [JAVA轻量级错误码设计最佳实践](https://juejin.cn/post/7138648965041356830) | Fri Sep 02 2022 5:25 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 687. 最长同值路径 ，难度为 中等。 Tag : 「二叉树」、「DFS」、「递归」 给定一个二叉树的 root，返回 最长的路径的长度 ，这个路径中的 每个 
+    概述 目前公司团队项目中返回异常都没有错误码，如果遇到错误提示只会返回一个错误信息。随着微服务组件越来越多，这样给不同团队之间沟通交流、排查错误带来了极大的困难。于是在网上搜索了一番以后，决心要重新设 
     </details> 
 
-- 🎡 [2022年最新将Go打包成wasm体验](https://juejin.cn/post/7138611512339333128) | Fri Sep 02 2022 3:00 AM 
+- 🎡 [巧用transition实现短视频 APP 点赞动画、浅析前端登录鉴权流程、国内首个基于Rust语言的RPC框架 — Volo正式开源！| 酱酱的下午茶第64期](https://juejin.cn/post/7138639734770761741) | Fri Sep 02 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
-    网上看了很多将go打包成wasm，但是很多都讲得不是很清楚，不知道是不是东抄抄西抄抄的，步骤缺这儿缺那儿。我找了很多答案之后，才找到将go打包成wasm的方法。 文章参考：https://juejin 
+    本期看点：巧用transition实现短视频 APP 点赞动画、浅析前端登录鉴权流程、国内首个基于Rust语言的RPC框架 — Volo正式开源！.... 
     </details> 
 
-- 🕯 [元宇宙未来篇（1）](https://juejin.cn/post/7138609060298883109) | Fri Sep 02 2022 2:49 AM 
+- 🕯 [金石计划一期 ｜ 参与挑战 10万现金等你来瓜分！](https://juejin.cn/post/7138637426922094605) | Fri Sep 02 2022 4:42 AM 
     <details><summary>展开描述 ...</summary> 
-    1、目的 搜集 元宇宙相关内容，尝试构建元宇宙未来体系，试图找到更多机会 2、元宇宙结构支撑 3、AR VR 区别 这两个是 元宇宙重要的表现形式 4、企业表现 5、智能手机/通讯技术 进化 6、重要 
+    金石计划是针对掘金社区所有的原创作者发起的奖金瓜分活动，根据要求完成挑战，即可瓜分现金奖池！心动不如行动，从这里开启通往技术大牛之路的第一步吧！ 
     </details> 
 
-- 🚀 [ECCV 2022 | MVDG:一种用于域泛化的统一多视图框架](https://juejin.cn/post/7138606848873070600) | Fri Sep 02 2022 2:40 AM 
+- 🚀 [大厂B端登录页，让我打开新思路了](https://juejin.cn/post/7138631923068305422) | Fri Sep 02 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
-    论文提出了一种新的多视图分布式目标框架，以有效地减少训练和测试阶段的过拟合。在三个基准数据集上的大量实验验证了本文方法可以找到一个平坦的最小值来增强泛化，并优于几种SOTA的方法。 
+    登录页这个东西，因为感觉很简单，所以经常不被重视。 但是登录页作为一个产品的门面，直接影响用户第一印象，又是非常重要的存在。 最近研究了一下我电脑上那一堆桌面端的登录页，还真发现了一些之前没想清楚的门 
     </details> 
 
-- 💪 [Dubbo 3 StateRouter：下一代微服务高效流量路由](https://juejin.cn/post/7138605184178978847) | Fri Sep 02 2022 2:34 AM 
+- 💪 [CLIP！文本与图像多模态预训练模型](https://juejin.cn/post/7138630353123541028) | Fri Sep 02 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
-    目前 MSE 服务治理的 离群实例摘除、标签路由、金丝雀发布、全链路灰度等功能已经使用该路由方案，经过我们的压测与演练，在 CPU、RT 等方面均有不少提升，以 Demo 应用为例 &lpar;服务调用的跳数为 
+    论文标题：Learning Transferable Visual Models From Natural Language Supervision 论文链接：http://proceedings.m 
     </details> 
 <!-- juejin:END -->
 ### 少数派
