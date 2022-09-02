@@ -348,14 +348,14 @@
     今年中秋，“共建者”探险小分队，让知识变得更有趣。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 英国发布最严电信运营商安全规定；美民主党推动Meta分享堕胎数据](https://www.freebuf.com/news/343564.html) | Thu Sep 01 2022 11:28 AM 
+- 🪄 [应对勒索攻击如何做好数据备份？| FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/343568.html) | Thu Sep 01 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
-    英国电信行业的新安全框架将于 10 月生效，使英国的电信安全法规成为世界上最严格的法规之一。 
+    不同企业对数据备份采取的措施参差不齐，这其中有哪些特殊性？该如何为应对勒索攻击做好数据备份？ 
     </details> 
 
-- 💻 [TikTok曝高危漏洞允许一键式帐户劫持，回应称已修复](https://www.freebuf.com/articles/343500.html) | Thu Sep 01 2022 7:04 AM 
+- 💻 [FreeBuf早报 | 英国发布最严电信运营商安全规定；美民主党推动Meta分享堕胎数据](https://www.freebuf.com/news/343564.html) | Thu Sep 01 2022 11:28 AM 
     <details><summary>展开描述 ...</summary> 
-    TikTok安卓版存在一个高危漏洞，攻击者可能借此实现一键式账户劫持，影响数亿用户。 
+    英国电信行业的新安全框架将于 10 月生效，使英国的电信安全法规成为世界上最严格的法规之一。 
     </details> 
 <!-- freebuf:END -->
 
