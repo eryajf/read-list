@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [制片人称《瑞克和莫蒂》将每年出一季](https://hot.cnbeta.com/articles/comic/1311645.htm) | Fri Sep 02 2022 5:57 AM 
+- 🕯 [WhatsApp在印度封掉240万个账号以符合该国数字法律](https://www.cnbeta.com/articles/tech/1311699.htm) | Fri Sep 02 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;制片人Scott Marder在接受外媒采访时表示，《瑞克和莫蒂》将以每年一季的速度更新。&lt;/strong&gt;而《瑞克和莫蒂》的第六季将于当地时间9月4日正式上线。而这也将完成他们在2018年所签下的70集订单中的30集大关。按照目前的更新速度来看，这部剧将至少持续到2026年播出第10季。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1311645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Meta旗下的WhatsApp在其月度报告中透露，它在印度禁掉了239多万个账号。&lt;/strong&gt;这些封号源于印度严格的IT法律，那里的法律要求数字平台每月公布合规报告。据悉，在这239万个账户中，有142万个是被WahtsApp在用户提出任何报告之前主动封掉。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [消息称Pixel 7组装将转移至越南 但可折叠设备仍在国内完成](https://www.cnbeta.com/articles/tech/1311643.htm) | Fri Sep 02 2022 5:56 AM 
+- 💼 [手机防窥膜伤眼睛引热议 你身边有人在用吗？](https://www.cnbeta.com/articles/tech/1311697.htm) | Fri Sep 02 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;援引纽约时报报道，内部知情人士透露 Google 计划将最新款 Pixel 设备的组装工作挪到越南完成&lt;strong&gt;。Google 计划将其 Pixel 手机的组装从位于中国南部的富士康工厂转移到越南，并将在那里开始生产 Pixel 7。报告指出明年超过一半的高端 Pixel 设备都在越南量产。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你或者身边人用过防窥膜吗？今天防窥膜的话题在微博等平台引发热议，甚至冲上了热搜第一，大量网友参与讨论。起因是一位网友发帖表示，&lt;strong&gt;自己大概用了2-3个月防窥膜，开始出现眼睛问题，看什么都有黑影，眼球也经常布满血丝，感觉“要瞎了”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [怎样从零开始训练一个AI车手？](https://www.cnbeta.com/articles/tech/1311641.htm) | Fri Sep 02 2022 5:44 AM 
+- 💂 [加州新法禁止特斯拉辅助驾驶系统广告中称“自动驾驶”](https://www.cnbeta.com/articles/tech/1311695.htm) | Fri Sep 02 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如何快速理解强化学习的概念？驯只猫就行。比如下面这位爷，巨皮。整天就是跑酷、尿炕、抓沙发，搞到人头皮发麻、心态爆炸。直到你忍不了了，决定对它进行残酷的猫德教育。方案是：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月2日消息，美国当地时间周二，加州议员在参议院通过了一项新法案，其中禁止特斯拉在司机辅助驾驶系统广告中包含“自动驾驶”等字眼儿。&lt;/strong&gt;这项立法由加州参议院交通委员会主席莉娜·冈萨雷斯（Lena Gonzalez）发起，现在需要州长加文·纽瑟姆（Gavin Newsom）签字成为正式法律。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [比苹果更环保？索尼Xperia 5 IV不标配充电器和数据线](https://www.cnbeta.com/articles/tech/1311639.htm) | Fri Sep 02 2022 5:40 AM 
+- 🚀 [何小鹏：小鹏汽车已将未来几年芯片提前买了](https://www.cnbeta.com/articles/tech/1311693.htm) | Fri Sep 02 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼即将于10月份发售Xperia 5 IV，国行版售价尚未公布。从索尼Xperia官方微博预热信息来看，&lt;strong&gt;Xperia 5 IV专属充电器和数据线会单独出售，不是手机标配。&lt;/strong&gt;此前在Xperia 1 IV上，索尼就没有为其标配充电器和数据线，官方表示，&lt;strong&gt;索尼出于节能减排环保考虑，包装盒中不会附赠充电器和USB数据线。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，美国两大芯片制造巨头被要求停止向国内出口，用于人工智能最先进芯片一事引起关注。&lt;/strong&gt;对于国内智能汽车的自动驾驶发展而言，高性能AI芯片被断供，势必会带来一些影响，而小鹏汽车则通过提前采购的方式，保证了未来一段时间的芯片需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中国软件：麒麟操作系统的生态适配数已超70万款](https://www.cnbeta.com/articles/tech/1311637.htm) | Fri Sep 02 2022 5:38 AM 
+- 🎊 [索尼称PSVR2将支持开发者更容易的移植游戏](https://www.cnbeta.com/articles/tech/1311691.htm) | Fri Sep 02 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月2日，中国软件在业绩说明会上指出，公司不在美国的半导体法案针对范围，公司目前无再融资计划。&lt;/strong&gt;财务总监何文哲表示，公司计划2022年实现营业收入120亿元，成本费用占收入的比例控制在合理范围内。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼互动娱乐公司的两位高级主管 Yasuo Takahashi 和 Kenjo Akiyama 在2022 年计算机娱乐开发者大会&lpar;CEDEC&rpar; 期间的一次活动中表示，PlayStationVR2 将支持开发者更容易的移植游戏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
