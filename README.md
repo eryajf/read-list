@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Ito - 儿童优先任务列表，立即创建您的帐户](https://xinquji.com/posts/179205?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:39 AM 
+- 👀 [Excelformulabot.com - 通过 AI 将您的文本指令转换为 Excel 公式](https://xinquji.com/posts/179226?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     儿童优先任务列表，立即创建您的帐户  
+     通过 AI 将您的文本指令转换为 Excel 公式  
     </details> 
 
-- 🥷 [Dinesurf - 非洲餐厅预订平台](https://xinquji.com/posts/179204?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:37 AM 
+- 🥷 [GoToMax - 台湾社区没有 AI 算法](https://xinquji.com/posts/179225?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     非洲餐厅预订平台  
+     台湾社区没有 AI 算法  
     </details> 
 
-- 💼 [TimeOwl - 时间发生的时间跟踪 - 在您的日历中](https://xinquji.com/posts/179203?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:35 AM 
+- 💼 [twimbit - 面向高管和团队的行业情报](https://xinquji.com/posts/179224?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     时间发生的时间跟踪 - 在您的日历中  
+     面向高管和团队的行业情报  
     </details> 
 
-- 🦅 [iDreamers - 帮助梦想家成为实干家](https://xinquji.com/posts/179202?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:34 AM 
+- 🦅 [SEEMAP - 使用单个 HTML 文件轻松嵌入地图](https://xinquji.com/posts/179223?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     帮助梦想家成为实干家  
+     使用单个 HTML 文件轻松嵌入地图  
     </details> 
 
-- 😺 [University Hub - 在一个地方管理您的大学生活并取得成功](https://xinquji.com/posts/179201?utm_campaign=xinquji-rss) | Fri Sep 02 2022 6:32 AM 
+- 😺 [Ethermail - 重新构想 web3 的电子邮件](https://xinquji.com/posts/179222?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     在一个地方管理您的大学生活并取得成功  
+     重新构想 web3 的电子邮件  
     </details> 
 <!-- xinquji:END -->
