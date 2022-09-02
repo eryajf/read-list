@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [技术周报·TypeScript 4.8 版本发布](https://juejin.cn/post/7138731358209179662) | Fri Sep 02 2022 10:44 AM 
+- 🤗 [从源码角度理解 React.Context](https://juejin.cn/post/7138744777641574407) | Fri Sep 02 2022 11:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    从源码角度理解 React.Context。 React「数据管理」机制：React.context，使用、原理分析。 
+    </details> 
+
+- 🎡 [技术周报·TypeScript 4.8 版本发布](https://juejin.cn/post/7138731358209179662) | Fri Sep 02 2022 10:44 AM 
     <details><summary>展开描述 ...</summary> 
     编辑推荐：Announcing TypeScript 4.8；从零开发一款图片编辑器 Mitu-Dooring；从零开始搭建一个属于你自己的组件库等 
     </details> 
 
-- 🎡 [如何通过 JavaScript 运行用 Go 编写的 WebAssembly 模块？](https://juejin.cn/post/7138727012721492004) | Fri Sep 02 2022 10:27 AM 
+- 🕯 [如何通过 JavaScript 运行用 Go 编写的 WebAssembly 模块？](https://juejin.cn/post/7138727012721492004) | Fri Sep 02 2022 10:27 AM 
     <details><summary>展开描述 ...</summary> 
     最近在着手重构 presence.js 2.0，其中编解码模块通过 WebAssembly 实现。但代码是一年多之前写的，期间一直没有碰过，现在已经比较陌生了，借着这次机会，我打算重新梳理一下相关的知 
     </details> 
 
-- 🕯 [「技术人生」第9篇：如何设定业务目标](https://juejin.cn/post/7138725642253631496) | Fri Sep 02 2022 10:21 AM 
+- 🚀 [「技术人生」第9篇：如何设定业务目标](https://juejin.cn/post/7138725642253631496) | Fri Sep 02 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
     本文将讲述如何设定业务目标的所有步骤和关键信息，很多点没有展开论述，读者可以结合个人实际工作情况进行进一步的深入思考。 
     </details> 
 
-- 🚀 [Vue中常见的组件间通信方案及典型应用场景](https://juejin.cn/post/7138709654464364581) | Fri Sep 02 2022 9:20 AM 
+- 💪 [Vue中常见的组件间通信方案及典型应用场景](https://juejin.cn/post/7138709654464364581) | Fri Sep 02 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
     什么是组件通信 所谓组件通信，就是组件之间的数据交互，也就是把一个组件A里面的数据传递到另一个组件B，并能够让组件B根据这个数据更新界面。 在 Vue中，可用的通信方案有很多，下面给大家描述几个常用的 
-    </details> 
-
-- 💪 [关于我在字节跳动青训营做了个抖音这件事](https://juejin.cn/post/7138700045624279077) | Fri Sep 02 2022 8:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、实践介绍 1.1项目核心信息 本项目实现了影视综艺榜单及其历史数据查询，实现个人页面展示、个人页面粉丝和关注列表、个人页面已发布视频列表及其详情页 1.2项目服务地址 https://github 
     </details> 
 <!-- juejin:END -->
 ### 少数派
