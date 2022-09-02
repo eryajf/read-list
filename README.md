@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [日元对美元汇率创24年来新低](https://www.cnbeta.com/articles/tech/1311461.htm) | Thu Sep 01 2022 11:18 PM 
+- 🕯 [Rocket Lab点燃其首个回收引擎 有望实现助推器的完全重复使用](https://www.cnbeta.com/articles/science/1311551.htm) | Fri Sep 02 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月1日，日元汇率一度跌至1美元兑换139.59日元，创1998年9月以来新低。&lt;/strong&gt;市场人士担忧，随着与美国利差可能进一步扩大，日元的跌势将对经济造成负面冲击。共同社报道指出，美联储明确表示将致力于抑制通胀，而日本央行为了支撑经济将维持超低利率政策。日美货币政策的差异再次凸显，出售不利于资产运用的日元的势头增强。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据TechCrunch报道，在完成从空中捕捉到一个下降的火箭级的壮举四个月后，&lt;strong&gt;Rocket Lab重新点燃了该助推器上的一个引擎--这是他们实现完全可重复使用火箭的路线图上的重要一步。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [LG MoodUP冰箱配备蓝牙音箱并可与音乐同步变色面板](https://www.cnbeta.com/articles/tech/1311459.htm) | Thu Sep 01 2022 11:17 PM 
+- 💼 [研究人员用螃蟹制出更环保电池](https://www.cnbeta.com/articles/tech/1311549.htm) | Fri Sep 02 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一年一度的IFA技术贸易展明天在柏林拉开帷幕，尽管有些公司喜欢提前公布其产品。其中之一就是LG，该公司推出的冰箱绝对可以说是独一无二的。冰箱除了保持食物和饮料的温度之外没有其他作用的日子已经一去不复返了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当谈到应对气候危机时，我们看到最近对电动汽车的推动是有希望的。跟标准汽车--它们向大气层排放化石燃料废气从而污染我们星球的防护罩并导致全球变暖--不同的是，电动汽车依靠电池供电，其不会吐出过多的污染。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [我国航天员从问天实验舱气闸舱出舱 圆满完成既定任务](https://www.cnbeta.com/articles/science/1311457.htm) | Thu Sep 01 2022 11:11 PM 
+- 💂 [森海塞尔推出Ambeo Soundbar Plus条形音响  售价1499.95美元](https://www.cnbeta.com/articles/tech/1311547.htm) | Fri Sep 02 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中国载人航天工程办公室消息，2022年9月1日18时26分，航天员陈冬成功开启问天实验舱气闸舱出舱舱门。至19时09分，航天员陈冬、刘洋成功出舱。9月2日0时33分，经过约6小时的出舱活动，航天员陈冬、刘洋、蔡旭哲密切协同，完成出舱活动期间全部既定任务，陈冬、刘洋已安全返回问天实验舱，出舱活动取得圆满成功。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;谈及独立条形音响所带来的沉浸音频体验，不容忽视的一款型号就是森海塞尔的 Ambeo。考虑到该设备 2500 美元的高价，应该可以为你能够提供卓越的家庭影院体验。&lt;strong&gt;在 IFA 2022 上，森海塞尔推出新的 Ambeo Soundbar Plus。虽然价格略低（1499.95 美元），但可能仍会让许多消费者望而却步。这款条形音响于今天开始接受预订。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [星巴克任命Narasimhan为新CEO 明年4月就任](https://www.cnbeta.com/articles/tech/1311455.htm) | Thu Sep 01 2022 11:09 PM 
+- 🚀 [美光拟10年投资150亿美元 在美国新建内存芯片工厂](https://www.cnbeta.com/articles/tech/1311545.htm) | Fri Sep 02 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;星巴克公司当地时间周四宣布，任命拉克斯曼·纳拉西姆汉（Laxman Narasimhan）为下一任CEO。美国企业界又增加了一位印裔CEO。&lt;/strong&gt;纳拉西姆汉此前担任英国消费品巨头利洁时的CEO。该公司昨日刚刚宣布， 纳拉西姆汉将于9月30日离职，赴美国寻求发展，但未透露他的具体去向。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国当地时间周四，美光宣布将在未来10年投资约150亿美元，在爱达荷州博伊西新建一家内存芯片制造工厂。&lt;strong&gt;美光表示，这将是20年来在美国本土新建的首家内存芯片制造厂，也是爱达荷州有史以来最大的私人投资项目。&lt;/strong&gt;该公司预计，这项投资计划将在2030年前总共创造1.7万个就业机会，其中该公司将直接创造2000个岗位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [航天员出舱影像为啥背景一片漆黑？](https://www.cnbeta.com/articles/science/1311453.htm) | Thu Sep 01 2022 11:07 PM 
+- 🎊 [天文学家认为外星技术可能藏在海底](https://www.cnbeta.com/articles/science/1311543.htm) | Fri Sep 02 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月1日，我国神舟十四号航天员陈冬、刘洋顺利走出舱门，这是中国航天员首次从空间站出舱主通道——问天实验舱气闸舱迈入太空。然而细心的小伙伴们会发现，历次航天员出舱画面中，航天员身后的星空背景居然一片漆黑，浩瀚星空中的星星都去哪儿了？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据BGR报道，一些天文学家似乎认为外星技术可能已经出现在地球上了。八年前，一颗天文学家认为大约有两英尺长的流星撞上了地球。这颗流星爆炸成微小的陨石，然后落入南太平洋。现在&lt;strong&gt;，一位名叫Avi Loeb的天文学家似乎认为，这颗陨石可能是外星技术。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
