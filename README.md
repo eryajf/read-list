@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Elastic：你的开发人员可以运用云部署得到的 4 个令人惊讶的好处](https://juejin.cn/post/7138582095923773447) | Fri Sep 02 2022 1:04 AM 
+- 🤗 [687. 最长同值路径 : 简单递归运用题](https://juejin.cn/post/7138614364608659469) | Fri Sep 02 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-    作者：Susanna Camp 云已成为关键任务——开发人员喜欢它。 没有理由回避将你最重要的数据放在云上 - 随着技术赶上任务需求，有充分的理由这样做。 将你的任务关键型数据迁移到云端不是一个小决定 
+    题目描述 这是 LeetCode 上的 687. 最长同值路径 ，难度为 中等。 Tag : 「二叉树」、「DFS」、「递归」 给定一个二叉树的 root，返回 最长的路径的长度 ，这个路径中的 每个 
     </details> 
 
-- 🎡 [深入理解计算机系统（3.5）------特殊的算术操作指令](https://juejin.cn/post/7138561945757548581) | Thu Sep 01 2022 11:48 PM 
+- 🎡 [2022年最新将Go打包成wasm体验](https://juejin.cn/post/7138611512339333128) | Fri Sep 02 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    如上图，上面的几个指令支持有符号和无符号的全64位乘积以及整数除法，但是需要注意的是，存储结果的寄存器固定死了，是一对寄存器%edx（高32位）和%eax（低32位）组成的 64 位的四字。 对于 imull 指令，上一章我们在讲算术和逻辑操作指令的时候，讲过这个指令，这是一个… 
+    网上看了很多将go打包成wasm，但是很多都讲得不是很清楚，不知道是不是东抄抄西抄抄的，步骤缺这儿缺那儿。我找了很多答案之后，才找到将go打包成wasm的方法。 文章参考：https://juejin 
     </details> 
 
-- 🕯 [今天跟蚂蚁金服安全同学聊聊WAF](https://juejin.cn/post/7138460816629563428) | Thu Sep 01 2022 5:20 PM 
+- 🕯 [元宇宙未来篇（1）](https://juejin.cn/post/7138609060298883109) | Fri Sep 02 2022 2:49 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 今天有点开心，下午就收到了两个平台的礼物，分别是掘金还有csdn的礼物，十分感谢，这是一份荣誉吧，也是自己一直努力写文章的嘉奖，值得庆祝下🎉 回归到正题，在很早面阿里的时候，被问到了一个，风控是 
+    1、目的 搜集 元宇宙相关内容，尝试构建元宇宙未来体系，试图找到更多机会 2、元宇宙结构支撑 3、AR VR 区别 这两个是 元宇宙重要的表现形式 4、企业表现 5、智能手机/通讯技术 进化 6、重要 
     </details> 
 
-- 🚀 [HAVE FUN | SOFA 飞船——Layotto 星球登陆计划](https://juejin.cn/post/7138458590712430605) | Thu Sep 01 2022 5:06 PM 
+- 🚀 [ECCV 2022 | MVDG:一种用于域泛化的统一多视图框架](https://juejin.cn/post/7138606848873070600) | Fri Sep 02 2022 2:40 AM 
     <details><summary>展开描述 ...</summary> 
-    这次 SOFAStack 开源社区启动 SOFA 飞船，踏上充满挑战的星球登陆之旅，旅途第一站来到了 Layotto 星球。 
+    论文提出了一种新的多视图分布式目标框架，以有效地减少训练和测试阶段的过拟合。在三个基准数据集上的大量实验验证了本文方法可以找到一个平坦的最小值来增强泛化，并优于几种SOTA的方法。 
     </details> 
 
-- 💪 [go语言 nil 避坑指南](https://juejin.cn/post/7138437284155621413) | Thu Sep 01 2022 3:42 PM 
+- 💪 [Dubbo 3 StateRouter：下一代微服务高效流量路由](https://juejin.cn/post/7138605184178978847) | Fri Sep 02 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    笔试题遇到 `var x string = nil` ，问这个定义是否正确？答案：`cannot use nil as string value in variable declaration` 
+    目前 MSE 服务治理的 离群实例摘除、标签路由、金丝雀发布、全链路灰度等功能已经使用该路由方案，经过我们的压测与演练，在 CPU、RT 等方面均有不少提升，以 Demo 应用为例 &lpar;服务调用的跳数为 
     </details> 
 <!-- juejin:END -->
 ### 少数派
