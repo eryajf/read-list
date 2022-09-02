@@ -367,7 +367,7 @@
 - 🥸 [看到 PyPI 的供应链攻击，继续来讨论 Chrome 的密码保存](https://www.v2ex.com/t/877361#reply0) | Fri Sep 02 2022 2:48 PM
 - 🤗 [vue2 项目，本地 dev 模式正常， build 后网页稳定崩溃可能的原因是什么？](https://www.v2ex.com/t/877357#reply3) | Fri Sep 02 2022 2:41 PM
 - 🎭 [不同的 vscode 项目能否在配置文件中指定自己的 node 版本？](https://www.v2ex.com/t/877353#reply1) | Fri Sep 02 2022 2:24 PM
-- 🥷 [Android 和 iOS 双持，谈谈开放的 Android 不如封闭的 iOS 的一个地方](https://www.v2ex.com/t/877351#reply11) | Fri Sep 02 2022 2:20 PM
+- 🥷 [Android 和 iOS 双持，谈谈开放的 Android 不如封闭的 iOS 的一个地方](https://www.v2ex.com/t/877351#reply12) | Fri Sep 02 2022 2:20 PM
 - 🐵 [cacheline 填充的意义](https://www.v2ex.com/t/877343#reply2) | Fri Sep 02 2022 1:20 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
