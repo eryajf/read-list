@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [具透 | 功能小更新，体验大升级：iOS 16 的新版专注模式有何变化](https://sspai.com/post/75499) | Fri Sep 02 2022 6:30 AM 
+- 👹 [如果你也想购买一台问界，我想和你分享这些](https://sspai.com/post/75504) | Fri Sep 02 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75504&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [具透 | 功能小更新，体验大升级：iOS 16 的新版专注模式有何变化](https://sspai.com/post/75499) | Fri Sep 02 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     iOS 16 希望更多人学会善用专注模式，能在生活中少一些手机焦虑。&lt;a href=&quot;https://sspai.com/post/75499&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一派·PowerUp 06 | 活用简悦，让阅读成为有用功](https://sspai.com/post/75495) | Fri Sep 02 2022 3:00 AM 
+- 🤭 [一派·PowerUp 06 | 活用简悦，让阅读成为有用功](https://sspai.com/post/75495) | Fri Sep 02 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     如果你对简悦和知识管理的话题感兴趣，欢迎参加今晚 20 点举办的「一派·PowerUp」直播活动，和我们一起来学习如何活用简悦，让阅读成为有用功。&lt;a href=&quot;https://sspai.com/post/75495&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：联想发布眼镜显示器、折叠屏笔记本电脑以及华硕折叠屏电脑等](https://sspai.com/post/75497) | Fri Sep 02 2022 1:00 AM 
+- 🥸 [派早报：联想发布眼镜显示器、折叠屏笔记本电脑以及华硕折叠屏电脑等](https://sspai.com/post/75497) | Fri Sep 02 2022 1:00 AM 
     <details><summary>展开描述 ...</summary> 
     USB4 ver2.0 标准正式公布，联发科成功完成 5G NTN 卫星手机实验室连线测试等&lt;a href=&quot;https://sspai.com/post/75497&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [送码 | 用 59 分钟，让阅读成为有用功](https://sspai.com/post/75473) | Thu Sep 01 2022 9:39 AM 
+- 🙉 [送码 | 用 59 分钟，让阅读成为有用功](https://sspai.com/post/75473) | Thu Sep 01 2022 9:39 AM 
     <details><summary>展开描述 ...</summary> 
     《59 分钟就上手简悦 2.0》帮你将简悦看似繁重的功能拆分成多个板块，细致地分析它的具体用法和实际效果，降低上手门槛，让你的简悦也能像一盒炸鸡那样「开盒即食」。&lt;a href=&quot;https://sspai.com/post/75473&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [新玩意 118｜少数派的作者们最近买了啥？](https://sspai.com/post/75481) | Thu Sep 01 2022 7:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/75481&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
