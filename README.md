@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[图]Windows 11 build 25193重新上线平板UI](https://www.cnbeta.com/articles/tech/1311721.htm) | Fri Sep 02 2022 8:22 AM 
+- 🕯 [“嫌贵就回家”，移动公厕一次收费10元还倒计时](https://www.cnbeta.com/articles/tech/1311747.htm) | Fri Sep 02 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;微软似乎要重新上架平板模式。&lt;/strong&gt;今年早些时候，微软引入了全新的平板 UI，提供更简洁的交互体验，任务栏上没有应用图标整体体验接近于手机。不过随后微软放弃了这种模式，声称它需要根据反馈进行更多改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，有网友曝出在福州一移动公厕如厕时，10元一次，还有时间限制。视频发布后，引网友热议。&lt;/strong&gt;据极目新闻，9月2日上午，该公厕经营者告诉记者，为了不让厕所使用过度，将价格调从6元到了10元，倒计时只是起到提醒作用，实际使用并没有时间限制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [USB4 2.0新标准已发布：有源速率翻倍至80Gbps](https://www.cnbeta.com/articles/tech/1311719.htm) | Fri Sep 02 2022 8:22 AM 
+- 💼 [IFA 2022：Jabra推出Elite 5真无线ANC降噪耳机 售150美元](https://www.cnbeta.com/articles/tech/1311745.htm) | Fri Sep 02 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;USB 推广组织刚刚给命名凌乱的“通用串行总线”大家庭带来了一位新成员，它就是将速率从提升到了 80 Gbps 的 USB4 2.0 。&lt;/strong&gt;此前得益于雷电 3 的整合，USB4（1.0）标准已能够通过 Type-C 接口实现 40 Gbps 的传输速率。不过 USB 2.0 新标准的出现，依然保留了优秀的向后兼容性 —— 即便 USB-IF 的命名方式一直充满槽点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在近日举办的柏林消费电子展（IFA 2022）上，Jabra 推出了售价 150 美元的 Elite 5 真无线耳机。&lt;/strong&gt;作为一款中端音频产品，它延续了 Elite 75t 的设计风格。在主动式降噪（ANC）功能开启后，Elite 5 还具有长达 7 小时的电池续航。此外这款蓝牙耳机支持多点连接、IP55 防水防尘，并且支持 aptX、AAC 和 SBC 等编解码器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [欧洲药管局推荐批准两款改进版新冠疫苗](https://www.cnbeta.com/articles/science/1311717.htm) | Fri Sep 02 2022 8:18 AM 
+- 💂 [俄航天集团：俄计划与中国在月球和深空领域合作](https://www.cnbeta.com/articles/science/1311741.htm) | Fri Sep 02 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;欧洲药品管理局9月1日推荐批准两款针对变异新冠病毒奥密克戎毒株BA.1的改进版疫苗，&lt;/strong&gt;称其可作为加强针用于已完成初始疫苗接种的12岁及以上人群。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;俄罗斯国家航天集团总经理尤里·鲍里索夫在“知识”大型教育节目中说，俄罗斯正在寻找与中国合作探索月球和深空的途径。&lt;/strong&gt;鲍里索夫说：“我们正在寻找与最亲密的同行合作的途径，首先是中国，以整合我们探索月球和未来探索深空的努力。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Counterpoint：苹果在1000美元以上价位手机中占比达到78%](https://www.cnbeta.com/articles/tech/1311715.htm) | Fri Sep 02 2022 8:16 AM 
+- 🚀 [Google用户选择支付项目拓展至多个国家 允许使用第三方支付系统](https://www.cnbeta.com/articles/tech/1311739.htm) | Fri Sep 02 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;a href=&quot;https://www.counterpointresearch.com/premium-smartphone-asp-reaches-record-q2-high/&quot; target=&quot;_blank&quot;&gt;根据 Counterpoint 公布的最新统计数据&lt;/a&gt;，在高端智能手机市场中苹果的市场份额高达 57%，而三星位居第二，为 19%。也就是说苹果的市场份额几乎是三星的 3 倍。&lt;strong&gt;该公司高级分析师瓦伦·米什拉（Varun Mishra）还表示苹果在顶级（1000 美元以上）手机中占比达到了 78%，销售额同比增长 114%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Google 宣布适用于 Play Store 的&lt;a href=&quot;https://support.google.com/googleplay/android-developer/answer/12570971?hl=zh-Hans&quot; target=&quot;_blank&quot;&gt;用户选择支付项目&lt;/a&gt;（允许用户在应用内购买选择替代支付系统）扩展至印度、澳大利亚、印度尼西亚、日本和欧洲经济区（EEA）。&lt;/strong&gt;该公司正在呼吁全球所有非游戏开发商申请该计划，只要符合条件他们可以在上述地区使用第三方支付系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [AMD Ryzen 9 7950X跑分曝光：单核比5950X高34%多核高23%](https://www.cnbeta.com/articles/tech/1311713.htm) | Fri Sep 02 2022 8:02 AM 
+- 🎊 [电动卡车即将交付 特斯拉正在为“Semi服务项目”加大招聘力度](https://www.cnbeta.com/articles/tech/1311737.htm) | Fri Sep 02 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD Ryzen 9 7950X 16-Core 旗舰 CPU 的 Cinebench R23 跑分已经曝光。该 CPU 是 Zen 4 阵容的旗舰型号，零售价为 699 美元，主要对标英特尔的第 12 代酷睿 i9-12900K 和即将发布的酷睿 i9-13900K。这款 CPU 的跑分目前已经在国内百度贴吧上曝光（目前该帖子已经删除）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉正在加紧为其“Semi服务计划”招聘人员以便在首批客户交付之前为其即将到来的特斯拉Semi电动卡车提供服务。经过多年的拖延，埃隆·马斯克终于确认，具有500英里续航能力的特斯拉Semi电动卡车将在今年年底前向客户发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
