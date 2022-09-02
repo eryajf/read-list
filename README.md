@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [首部！《反电信网络诈骗法》通过，12月1日起施行](https://www.freebuf.com/news/343637.html) | Fri Sep 02 2022 6:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    我国首部《反电信网络诈骗法》（以下简称《反诈骗法》）已于9月2日表决通过，12月1日起正式施行。 
+    </details> 
+
 - 🦄 [黑山遭遇勒索软件攻击，黑客索要1000万美元](https://www.freebuf.com/news/343620.html) | Fri Sep 02 2022 5:17 AM 
     <details><summary>展开描述 ...</summary> 
     黑山政府的关键基础设施遭到了勒索软件攻击，黑客索要 1000 万美元巨款。 
     </details> 
 
-- 🦄 [月圆「识」好礼，惊喜词条彩蛋上线！](https://www.freebuf.com/fevents/343604.html) | Fri Sep 02 2022 2:46 AM 
+- 🦅 [月圆「识」好礼，惊喜词条彩蛋上线！](https://www.freebuf.com/fevents/343604.html) | Fri Sep 02 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
     今年中秋，“共建者”探险小分队，让知识变得更有趣。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 英国发布最严电信运营商安全规定；美民主党推动Meta分享堕胎数据](https://www.freebuf.com/news/343564.html) | Thu Sep 01 2022 11:28 AM 
+- 🪄 [FreeBuf早报 | 英国发布最严电信运营商安全规定；美民主党推动Meta分享堕胎数据](https://www.freebuf.com/news/343564.html) | Thu Sep 01 2022 11:28 AM 
     <details><summary>展开描述 ...</summary> 
     英国电信行业的新安全框架将于 10 月生效，使英国的电信安全法规成为世界上最严格的法规之一。 
     </details> 
 
-- 🪄 [TikTok曝高危漏洞允许一键式帐户劫持，回应称已修复](https://www.freebuf.com/articles/343500.html) | Thu Sep 01 2022 7:04 AM 
+- 💻 [TikTok曝高危漏洞允许一键式帐户劫持，回应称已修复](https://www.freebuf.com/articles/343500.html) | Thu Sep 01 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
     TikTok安卓版存在一个高危漏洞，攻击者可能借此实现一键式账户劫持，影响数亿用户。 
-    </details> 
-
-- 💻 [意大利石油巨头 ENI 遭受网络攻击](https://www.freebuf.com/articles/343495.html) | Thu Sep 01 2022 6:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    意大利石油巨头ENI 遭受网络攻击，攻击者破坏了其计算机网络，但该公司称，攻击并未产生很恶劣的影响。 
     </details> 
 <!-- freebuf:END -->
 
