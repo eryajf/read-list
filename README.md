@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入理解 Mocha 测试框架：从零实现一个 Mocha](https://juejin.cn/post/7138781839720153096) | Fri Sep 02 2022 2:00 PM 
+- 🤗 [顺时针打印矩阵](https://juejin.cn/post/7138795873730985992) | Fri Sep 02 2022 2:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    有一个矩阵，如何按照从外向里以顺时针的顺序依次打印出每一个元素？本文将跟大家分享下这个算法，欢迎各位感兴趣的开发者阅读本文。 
+    </details> 
+
+- 🎡 [hel-micro 模块联邦新革命](https://juejin.cn/post/7138792768234586148) | Fri Sep 02 2022 2:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要阐述模块联邦sdk化的深远意义和其核心实现原理，并介绍hel-micro在司内的围绕平台、生态和相关实践的各种建设，帮助更多同事以极低的代价跨入模块联邦时代。 
+    </details> 
+
+- 🕯 [哈夫曼编码原理及其在HTTP2中的使用](https://juejin.cn/post/7138792545567866916) | Fri Sep 02 2022 2:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    哈夫曼编码就是基于哈夫曼树，这是一个经典的压缩算法，可以根据权重给某个值分配一个01串，用这个较短的01串表达这个较长的值，权重越高的值的01串会越短，从而提高压缩率。 
+    </details> 
+
+- 🚀 [深入理解 Mocha 测试框架：从零实现一个 Mocha](https://juejin.cn/post/7138781839720153096) | Fri Sep 02 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
     本文为来自飞书 aPaaS Growth 研发团队成员的文章。 前言 什么是自动化测试   自动化测试在很多团队中都是Devops环节中很难执行起来的一个环节，主要原因在于测试代码的编写工作很难抽象， 
     </details> 
 
-- 🎡 [这一次，来聊聊响应式设计吧](https://juejin.cn/post/7138775208449703972) | Fri Sep 02 2022 1:34 PM 
+- 💪 [这一次，来聊聊响应式设计吧](https://juejin.cn/post/7138775208449703972) | Fri Sep 02 2022 1:34 PM 
     <details><summary>展开描述 ...</summary> 
     一、是什么 响应式网站设计（Responsive Web design）是一种网络页面设计布局，页面的设计与开发应当根据用户行为以及设备环境&lpar;系统平台、屏幕尺寸、屏幕定向等&rpar;进行相应的响应和调整 描述 
-    </details> 
-
-- 🕯 [深入理解计算机系统（3.6）------汇编的流程控制](https://juejin.cn/post/7138769867250860062) | Fri Sep 02 2022 1:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    前面我们所讲的所有指令，代码执行顺序都是一条接着一条顺序的执行。但是实际上在编码过程中，会有某些结构，比如条件语句（if-else），循环语句（for,do-while）和分支语句（switch）等等，都要求有条件的执行，根据数据测试的结果来决定操作执行的顺序。 在机器代码中，… 
-    </details> 
-
-- 🚀 [从源码角度理解 React.Context](https://juejin.cn/post/7138744777641574407) | Fri Sep 02 2022 11:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    从源码角度理解 React.Context。 React「数据管理」机制：React.context，使用、原理分析。 
-    </details> 
-
-- 💪 [技术周报·TypeScript 4.8 版本发布](https://juejin.cn/post/7138731358209179662) | Fri Sep 02 2022 10:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    编辑推荐：Announcing TypeScript 4.8；从零开发一款图片编辑器 Mitu-Dooring；从零开始搭建一个属于你自己的组件库等 
     </details> 
 <!-- juejin:END -->
 ### 少数派
