@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入理解计算机系统（3.6）------汇编的流程控制](https://juejin.cn/post/7138769867250860062) | Fri Sep 02 2022 1:20 PM 
+- 🤗 [深入理解 Mocha 测试框架：从零实现一个 Mocha](https://juejin.cn/post/7138781839720153096) | Fri Sep 02 2022 2:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文为来自飞书 aPaaS Growth 研发团队成员的文章。 前言 什么是自动化测试   自动化测试在很多团队中都是Devops环节中很难执行起来的一个环节，主要原因在于测试代码的编写工作很难抽象， 
+    </details> 
+
+- 🎡 [这一次，来聊聊响应式设计吧](https://juejin.cn/post/7138775208449703972) | Fri Sep 02 2022 1:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、是什么 响应式网站设计（Responsive Web design）是一种网络页面设计布局，页面的设计与开发应当根据用户行为以及设备环境&lpar;系统平台、屏幕尺寸、屏幕定向等&rpar;进行相应的响应和调整 描述 
+    </details> 
+
+- 🕯 [深入理解计算机系统（3.6）------汇编的流程控制](https://juejin.cn/post/7138769867250860062) | Fri Sep 02 2022 1:20 PM 
     <details><summary>展开描述 ...</summary> 
     前面我们所讲的所有指令，代码执行顺序都是一条接着一条顺序的执行。但是实际上在编码过程中，会有某些结构，比如条件语句（if-else），循环语句（for,do-while）和分支语句（switch）等等，都要求有条件的执行，根据数据测试的结果来决定操作执行的顺序。 在机器代码中，… 
     </details> 
 
-- 🎡 [从源码角度理解 React.Context](https://juejin.cn/post/7138744777641574407) | Fri Sep 02 2022 11:38 AM 
+- 🚀 [从源码角度理解 React.Context](https://juejin.cn/post/7138744777641574407) | Fri Sep 02 2022 11:38 AM 
     <details><summary>展开描述 ...</summary> 
     从源码角度理解 React.Context。 React「数据管理」机制：React.context，使用、原理分析。 
     </details> 
 
-- 🕯 [技术周报·TypeScript 4.8 版本发布](https://juejin.cn/post/7138731358209179662) | Fri Sep 02 2022 10:44 AM 
+- 💪 [技术周报·TypeScript 4.8 版本发布](https://juejin.cn/post/7138731358209179662) | Fri Sep 02 2022 10:44 AM 
     <details><summary>展开描述 ...</summary> 
     编辑推荐：Announcing TypeScript 4.8；从零开发一款图片编辑器 Mitu-Dooring；从零开始搭建一个属于你自己的组件库等 
-    </details> 
-
-- 🚀 [如何通过 JavaScript 运行用 Go 编写的 WebAssembly 模块？](https://juejin.cn/post/7138727012721492004) | Fri Sep 02 2022 10:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近在着手重构 presence.js 2.0，其中编解码模块通过 WebAssembly 实现。但代码是一年多之前写的，期间一直没有碰过，现在已经比较陌生了，借着这次机会，我打算重新梳理一下相关的知 
-    </details> 
-
-- 💪 [「技术人生」第9篇：如何设定业务目标](https://juejin.cn/post/7138725642253631496) | Fri Sep 02 2022 10:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将讲述如何设定业务目标的所有步骤和关键信息，很多点没有展开论述，读者可以结合个人实际工作情况进行进一步的深入思考。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
