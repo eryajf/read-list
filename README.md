@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [cacheline 填充的意义](https://www.v2ex.com/t/877343#reply0) | Fri Sep 02 2022 1:20 PM
-- 🤗 [有用过 HP-Socket 的 V 友吗，谁知道获取读取结束的状态？](https://www.v2ex.com/t/877342#reply1) | Fri Sep 02 2022 1:19 PM
-- 🎭 [国外手机系统哪个好？](https://www.v2ex.com/t/877338#reply2) | Fri Sep 02 2022 1:00 PM
-- 🥷 [咨询个 QT 的问题](https://www.v2ex.com/t/877330#reply1) | Fri Sep 02 2022 11:55 AM
-- 🐵 [分享一个命令行下载轻小说的工具](https://www.v2ex.com/t/877327#reply4) | Fri Sep 02 2022 11:27 AM<!-- v2ex:END -->
+- 🥸 [看到 PyPI 的供应链攻击，继续来讨论 Chrome 的密码保存](https://www.v2ex.com/t/877361#reply0) | Fri Sep 02 2022 2:48 PM
+- 🤗 [vue2 项目，本地 dev 模式正常， build 后网页稳定崩溃可能的原因是什么？](https://www.v2ex.com/t/877357#reply0) | Fri Sep 02 2022 2:41 PM
+- 🎭 [不同的 vscode 项目能否在配置文件中指定自己的 node 版本？](https://www.v2ex.com/t/877353#reply1) | Fri Sep 02 2022 2:24 PM
+- 🥷 [Android 和 iOS 双持，谈谈开放的 Android 不如封闭的 iOS 的一个地方](https://www.v2ex.com/t/877351#reply6) | Fri Sep 02 2022 2:20 PM
+- 🐵 [cacheline 填充的意义](https://www.v2ex.com/t/877343#reply0) | Fri Sep 02 2022 1:20 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
