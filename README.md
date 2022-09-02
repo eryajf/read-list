@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [System Toolkit 5.6.2 系统工具包](https://xclient.info/s/system-toolkit.html) | Thu Sep 01 2022 1:43 AM 
+- 🦏 [Scrutiny 12.4.2 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Fri Sep 02 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
-    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
+    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
     </details> 
 
--  [Transmit 5.8.9 一款功能齐全的FTP客户端](https://xclient.info/s/transmit.html) | Thu Sep 01 2022 1:42 AM 
+-  [Cisdem Duplicate Finder 6.0.0 重复文件清理应用](https://xclient.info/s/cisdem-duplicate-finder.html) | Fri Sep 02 2022 12:48 AM 
     <details><summary>展开描述 ...</summary> 
-    Transmit是一款功能齐全的FTP客户端。兼容FTP，SFTP和TLS/SSL协议，提供比Finder更加迅速的iDisk账户接入。与此同时，用户还可以通过Transmit在任意应用程序中无须下载即可实时编辑文档，方便简洁，一步到位。 
+    Cisdem DuplicateFinder是一款MacOS平台上清理重复文件的工具，提供了智能扫描算法，找到并删除所有重复的文件。有了这个工具，你可以同时扫描计算机驱动器和位于外部设备的文件夹，像的iPhoto，iTunes和邮件Apple应用程序。该程序可以找到并进行批量删除重复的文件，节省硬盘空间。 
     </details> 
 
-- ⚗️ [Softorino YouTube Converter 5.0.87 又一款 Youtube 视频下载工具](https://xclient.info/s/softorino-youtube-converter.html) | Thu Sep 01 2022 1:41 AM 
+- ⚗️ [EaseUS Data Recovery Wizard 13.7 数据恢复工具](https://xclient.info/s/easeus-data-recovery-wizard.html) | Fri Sep 02 2022 12:47 AM 
     <details><summary>展开描述 ...</summary> 
-    一款好用的 Youtube 视频一键下载工具 
+    EaseUS Data Recovery Wizard是一款数据恢复软件，能够为你恢复由于各种不同原因导致被删除或者被格式化的文件，它有 4 种恢复模式，能够有效的为你节省时间，提高数据恢复的成功率。 
     </details> 
 
-- 🔥 [QLab Pro 5.0 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Thu Sep 01 2022 1:40 AM 
+- 🔥 [Navicat Premium 16.1.2 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Fri Sep 02 2022 12:46 AM 
     <details><summary>展开描述 ...</summary> 
-    QLab 是一款专为现场表演而设计的多媒体制作工具，能够让你的Mac掌控整个表演现场。包含戏剧，舞蹈，组合，安装，和更多的风格功能。只需从一个单一的工作区就能播放MIDI和音视频。 
+    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
     </details> 
 
-- 🌋 [One Switch 1.26.1 一键切换系统各项功能](https://xclient.info/s/one-switch.html) | Thu Sep 01 2022 1:39 AM 
+- 🌋 [Typora 1.4.2 极简Markdown编辑器](https://xclient.info/s/typora.html) | Fri Sep 02 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
-    One Switch 是Mac平台上的一款集合一键切换系统各项功能的工具。One Switch Mac版是一款小巧的应用程序，旨在通过快速访问一些重要的交换机来提高您的效率。它可以从菜单栏打开，只需点击几下即可切换某些系统功能。 
+    Typora是一个功能强大的Markdown编辑器,使用GFM风格&lpar;即大名鼎鼎的githubflavoredmarkdown&rpar; 
     </details> 
 <!-- xclient:END -->
 
