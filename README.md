@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JAVA轻量级错误码设计最佳实践](https://juejin.cn/post/7138648965041356830) | Fri Sep 02 2022 5:25 AM 
+- 🤗 [🎁 中奖公示-第四届青训营笔记创作活动](https://juejin.cn/post/7138674597087903775) | Fri Sep 02 2022 7:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    hello，各位青训营的同学， 第四届笔记创作活动的获奖名单来啦！大家看看自己有没有获奖呢！！！！！ 
+    </details> 
+
+- 🎡 [飞书 Android 升级 JDK 11 引发的 CI 构建性能问题](https://juejin.cn/post/7138670703682781214) | Fri Sep 02 2022 6:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文深挖 JVM 和 Gradle 的源码实现，介绍了分析过程和修复方法，供其他升级 JDK 的团队参考。 
+    </details> 
+
+- 🕯 [UI自动化助力业务效率提升](https://juejin.cn/post/7138666568170995749) | Fri Sep 02 2022 6:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    UI自动化是业内常用的一种测试手段，在回归测试，兼容性测试、线上功能监控、冒烟测试等测试场景中都有较多的应用，不仅如此，UI自动化还可以帮助业务减少人力成本、提升效率的～ 
+    </details> 
+
+- 🚀 [巧用NodeJs帮老板解决个人需求！老板娘直呼：&quot;牛！niu！🐂！&quot;](https://juejin.cn/post/7138656718694645767) | Fri Sep 02 2022 5:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    “多久没休息了，帮我把这个弄好了，休休年假？旅旅游？陪陪弟妹？” “哎呀，说这干啥，都是兄弟，而且是嫂子有需要，顺手的事儿。话说......” 
+    </details> 
+
+- 💪 [JAVA轻量级错误码设计最佳实践](https://juejin.cn/post/7138648965041356830) | Fri Sep 02 2022 5:25 AM 
     <details><summary>展开描述 ...</summary> 
     概述 目前公司团队项目中返回异常都没有错误码，如果遇到错误提示只会返回一个错误信息。随着微服务组件越来越多，这样给不同团队之间沟通交流、排查错误带来了极大的困难。于是在网上搜索了一番以后，决心要重新设 
-    </details> 
-
-- 🎡 [巧用transition实现短视频 APP 点赞动画、浅析前端登录鉴权流程、国内首个基于Rust语言的RPC框架 — Volo正式开源！| 酱酱的下午茶第64期](https://juejin.cn/post/7138639734770761741) | Fri Sep 02 2022 4:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    本期看点：巧用transition实现短视频 APP 点赞动画、浅析前端登录鉴权流程、国内首个基于Rust语言的RPC框架 — Volo正式开源！.... 
-    </details> 
-
-- 🕯 [金石计划一期 ｜ 参与挑战 10万现金等你来瓜分！](https://juejin.cn/post/7138637426922094605) | Fri Sep 02 2022 4:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    金石计划是针对掘金社区所有的原创作者发起的奖金瓜分活动，根据要求完成挑战，即可瓜分现金奖池！心动不如行动，从这里开启通往技术大牛之路的第一步吧！ 
-    </details> 
-
-- 🚀 [大厂B端登录页，让我打开新思路了](https://juejin.cn/post/7138631923068305422) | Fri Sep 02 2022 4:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    登录页这个东西，因为感觉很简单，所以经常不被重视。 但是登录页作为一个产品的门面，直接影响用户第一印象，又是非常重要的存在。 最近研究了一下我电脑上那一堆桌面端的登录页，还真发现了一些之前没想清楚的门 
-    </details> 
-
-- 💪 [CLIP！文本与图像多模态预训练模型](https://juejin.cn/post/7138630353123541028) | Fri Sep 02 2022 4:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    论文标题：Learning Transferable Visual Models From Natural Language Supervision 论文链接：http://proceedings.m 
     </details> 
 <!-- juejin:END -->
 ### 少数派
