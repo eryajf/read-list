@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Excelformulabot.com - 通过 AI 将您的文本指令转换为 Excel 公式](https://xinquji.com/posts/179226?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:26 AM 
+- 👀 [nēdl - 人工智能驱动的实时音频流搜索](https://xinquji.com/posts/179231?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     通过 AI 将您的文本指令转换为 Excel 公式  
+     人工智能驱动的实时音频流搜索  
     </details> 
 
-- 🥷 [GoToMax - 台湾社区没有 AI 算法](https://xinquji.com/posts/179225?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:26 AM 
+- 🥷 [Muslim Tab - 您打开的每个新标签上都有伊斯兰提醒](https://xinquji.com/posts/179230?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     台湾社区没有 AI 算法  
+     您打开的每个新标签上都有伊斯兰提醒  
     </details> 
 
-- 💼 [twimbit - 面向高管和团队的行业情报](https://xinquji.com/posts/179224?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:24 AM 
+- 💼 [Linksnap - 面向开发人员的 Linktr.ee](https://xinquji.com/posts/179229?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     面向高管和团队的行业情报  
+     面向开发人员的 Linktr.ee  
     </details> 
 
-- 🦅 [SEEMAP - 使用单个 HTML 文件轻松嵌入地图](https://xinquji.com/posts/179223?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:23 AM 
+- 🦅 [Corridor - 设计更好的员工入职体验](https://xinquji.com/posts/179228?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     使用单个 HTML 文件轻松嵌入地图  
+     设计更好的员工入职体验  
     </details> 
 
-- 😺 [Ethermail - 重新构想 web3 的电子邮件](https://xinquji.com/posts/179222?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:22 AM 
+- 😺 [One Submit - 终极音乐提交平台](https://xinquji.com/posts/179227?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     重新构想 web3 的电子邮件  
+     终极音乐提交平台  
     </details> 
 <!-- xinquji:END -->
