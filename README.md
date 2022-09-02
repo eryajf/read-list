@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [脂肪感：原来，我们的大脑真的存在 身内·第七感](http://jandan.net/p/111261) | Thu Sep 01 2022 4:54 PM 
+- 🚀 [浓缩、过滤、柱塞、摩卡、速溶和冷萃，咖啡怎么冲最…给力？](http://jandan.net/p/111226) | Fri Sep 02 2022 4:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    给力，有点年代感的词 
+    </details> 
+
+- 🙉 [今日好价 0902](http://jandan.net/p/111270) | Fri Sep 02 2022 3:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    十六年过去，弹指一挥间。 
+    </details> 
+
+- 🎉 [脂肪感：原来，我们的大脑真的存在 身内·第七感](http://jandan.net/p/111261) | Thu Sep 01 2022 4:54 PM 
     <details><summary>展开描述 ...</summary> 
     研究人员找到了一套之前未知的、完整的通信系统，专门用于从脂肪组织传递信息给大脑。 
     </details> 
 
-- 🙉 [艺术家提交AI的画参加美术竞赛，夺冠](http://jandan.net/p/111262) | Thu Sep 01 2022 1:35 PM 
+- 🐲 [艺术家提交AI的画参加美术竞赛，夺冠](http://jandan.net/p/111262) | Thu Sep 01 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
     上周在twitter、Reddit 上引发剧烈争论：这是艺术吗？ 
     </details> 
 
-- 🎉 [人类与黏液不得不说的故事](http://jandan.net/p/111260) | Thu Sep 01 2022 8:03 AM 
+-  [人类与黏液不得不说的故事](http://jandan.net/p/111260) | Thu Sep 01 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
     有黏液才有你，让我们谢谢黏液 
-    </details> 
-
-- 🐲 [NASA发布了韦伯太空望远镜的幻影星系图像](http://jandan.net/p/111259) | Thu Sep 01 2022 7:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    该星系距离地球约 3200 万光年，位于双鱼座。 
-    </details> 
-
--  [巴基斯坦大洪水已淹没该国1/3的土地](http://jandan.net/p/111241) | Thu Sep 01 2022 6:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    不搜索的话，大家知道巴基斯坦大概的人口数吗 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
