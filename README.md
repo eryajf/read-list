@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [高通回应卫星通信连接功能：骁龙基带手机将支持](https://www.cnbeta.com/articles/tech/1311767.htm) | Fri Sep 02 2022 10:08 AM 
+- 🕯 [英国CMA批准NortonLifeLock和Avast价值81亿美元的合并案](https://www.cnbeta.com/articles/tech/1311773.htm) | Fri Sep 02 2022 11:16 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;英国竞争和市场管理局（CMA）已经正式批准了网络安全巨头NortonLifeLock和Avast之间81亿美元的合并提议，这是在暂时为该交易开绿灯一个月之后的又一进展。自去年8月首次披露计划以来，这项合并一直悬而未决。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [科学家成功利用共振超表面产生了复杂量子态](https://www.cnbeta.com/articles/science/1311771.htm) | Fri Sep 02 2022 10:55 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在 2022 年 8 月 25 日发表于《科学》期刊上的一篇文章中，&lt;strong&gt;来自马克斯·普朗克光科学研究所、弗里德里希-亚历山大-埃尔兰根-纽伦堡大学、以及桑迪亚国家实验室的科学家们，详细介绍了他们是如何“使用共振超表面来产生复杂量子态”的。&lt;/strong&gt;据悉，通过让泵浦光子穿过共振超表面，研究团队已成功地创造了几个不同频率（波长）的纠缠光子对。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [越南小伙自制“布加迪”超跑：用泥造成 以假乱真](https://hot.cnbeta.com/articles/funny/1311769.htm) | Fri Sep 02 2022 10:51 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;没钱买布加迪超跑怎么办？自己动手做一辆呗！近期，三名越南小伙在NHET TV Youtube频道上，发布了一台他们自己动手制作“布加迪”超级跑车的视频，而最让人称奇的是，&lt;strong&gt;这台跑车的外壳竟然使用泥巴制成！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1311769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [高通回应卫星通信连接功能：骁龙基带手机将支持](https://www.cnbeta.com/articles/tech/1311767.htm) | Fri Sep 02 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;没想到，卫星连接功能成了巨头们角力的新战场。华为已经证实定于9月6日发布的Mate 50系列将支持卫星通信功能，余承东更是形容它是“捅破天”的技术。谷歌方面也确认，Android 14将开始支持卫星连接，而多方爆料称，9月8日发布的iPhone 14系列同样也有份。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [比亚迪回应巴菲特再减持：公司销量屡创新高 经营情况健康](https://www.cnbeta.com/articles/tech/1311765.htm) | Fri Sep 02 2022 10:07 AM 
+- 🎊 [比亚迪回应巴菲特再减持：公司销量屡创新高 经营情况健康](https://www.cnbeta.com/articles/tech/1311765.htm) | Fri Sep 02 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月30日，持有比亚迪股票14年的巴菲特首次减持，引发了业内大震动。结果没过两天，巴菲特又再度减持，而且比上一次的量级更大。港交所公布的文件显示，&lt;strong&gt;伯克希尔哈撒韦公司这次减持171.6万股比亚迪股份H股，持股比例从19.02%下调至18.87%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [孟晚舟回母校演讲：读书万卷，咖啡千杯](https://www.cnbeta.com/articles/tech/1311763.htm) | Fri Sep 02 2022 10:05 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月2日消息，今日，华为副董事长、轮值董事长、CFO孟晚舟来到贵州都匀市，与母校都匀一中和都匀三小的师生共上开学一堂课，发表了“读书万卷，咖啡千杯”的主题演讲。孟晚舟讲到，“人生处处是课堂，人人皆可为吾师，人生处处是考场”。她勉励青年学子要拥有开放的心态、保持对未知的好奇，不断学习，在解题与破题的过程中，收获不一样的精彩。以下为孟晚舟演讲稿精选：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [固特异推出ElectricDrive电动汽车四季胎 GT系列迎来两款新尺寸](https://www.cnbeta.com/articles/tech/1311761.htm) | Fri Sep 02 2022 10:04 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着汽车行业向全力向电气化转型，轮胎制造商也被电动汽车厂商绑到了同一架战车上。&lt;strong&gt;与传统燃油车相比，EV 车型的瞬时扭矩要夸张得多，所以老牌轮胎制造商也必须顺应新时代的发展。&lt;/strong&gt;以拥有 120 多年历史的固特异（Goodyear）为例，该公司就深知电动汽车会让普通轮胎的磨损速度提升 30% 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [巴菲特再次减持比亚迪H股 持股比例降至18.87%](https://www.cnbeta.com/articles/tech/1311759.htm) | Fri Sep 02 2022 9:37 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月1日，港交所公布文件显示，股神巴菲特旗下的伯克希尔哈撒韦公司，&lt;strong&gt;减持171.6万股比亚迪股份H股，其持股比例从19.02%下调至18.87%。&lt;/strong&gt;这距巴菲特上次坚持比亚迪，还不足一周。8月30日，港交所文件显示，巴菲特旗下的伯克希尔哈撒韦在8月24日出售了133万股比亚迪H股，平均价格277.1016港元/股，以此计算这笔减持套现近3.69亿港元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
