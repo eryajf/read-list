@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [吸引或排斥 超冷水的分子形成了在拓扑结构上截然不同的两种长链](http://jandan.net/p/111198) | Fri Sep 02 2022 5:29 AM 
+- 🚀 [一些地狱笑话&lpar;4&rpar;](http://jandan.net/p/111275) | Fri Sep 02 2022 8:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    经过精心挑选和净化 
+    </details> 
+
+- 🙉 [吸引或排斥 超冷水的分子形成了在拓扑结构上截然不同的两种长链](http://jandan.net/p/111198) | Fri Sep 02 2022 5:29 AM 
     <details><summary>展开描述 ...</summary> 
     新模型 提出了基于网络纠缠态的液-液相变观点 
     </details> 
 
-- 🙉 [葡萄牙挖出了欧洲有记录以来最大的恐龙化石](http://jandan.net/p/111236) | Fri Sep 02 2022 5:14 AM 
+- 🎉 [葡萄牙挖出了欧洲有记录以来最大的恐龙化石](http://jandan.net/p/111236) | Fri Sep 02 2022 5:14 AM 
     <details><summary>展开描述 ...</summary> 
     5年前，一位业主正在挖开他的花园为扩建打下地基……地下源源不断化石碎片一直挖到了今年8月，新房遥遥无期 
     </details> 
 
-- 🎉 [今日好价 0902](http://jandan.net/p/111270) | Fri Sep 02 2022 3:54 AM 
+- 🐲 [今日好价 0902](http://jandan.net/p/111270) | Fri Sep 02 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
     十六年过去，弹指一挥间。 
     </details> 
 
-- 🐲 [脂肪感：原来，我们的大脑真的存在 身内·第七感](http://jandan.net/p/111261) | Thu Sep 01 2022 4:54 PM 
+-  [脂肪感：原来，我们的大脑真的存在 身内·第七感](http://jandan.net/p/111261) | Thu Sep 01 2022 4:54 PM 
     <details><summary>展开描述 ...</summary> 
     研究人员找到了一套之前未知的、完整的通信系统，专门用于从脂肪组织传递信息给大脑。 
-    </details> 
-
--  [艺术家提交AI的画参加美术竞赛，夺冠](http://jandan.net/p/111262) | Thu Sep 01 2022 1:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    上周在twitter、Reddit 上引发剧烈争论：这是艺术吗？ 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
