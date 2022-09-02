@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [顺时针打印矩阵](https://juejin.cn/post/7138795873730985992) | Fri Sep 02 2022 2:55 PM 
+- 🤗 [第118期：机电工程常见工程设备](https://juejin.cn/post/7138801922055602190) | Fri Sep 02 2022 3:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    通用机械设备简介 泵 （1）泵的分类： 按泵作用于液体的原理可以将泵分为：叶片式 和 容积式两大类。 叶片式泵是由泵内的叶片在旋转时产生的离心力作用将液体吸入和压出。 容积式泵式由泵的活塞或转子在往复 
+    </details> 
+
+- 🎡 [顺时针打印矩阵](https://juejin.cn/post/7138795873730985992) | Fri Sep 02 2022 2:55 PM 
     <details><summary>展开描述 ...</summary> 
     有一个矩阵，如何按照从外向里以顺时针的顺序依次打印出每一个元素？本文将跟大家分享下这个算法，欢迎各位感兴趣的开发者阅读本文。 
     </details> 
 
-- 🎡 [hel-micro 模块联邦新革命](https://juejin.cn/post/7138792768234586148) | Fri Sep 02 2022 2:42 PM 
+- 🕯 [hel-micro 模块联邦新革命](https://juejin.cn/post/7138792768234586148) | Fri Sep 02 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
     本文主要阐述模块联邦sdk化的深远意义和其核心实现原理，并介绍hel-micro在司内的围绕平台、生态和相关实践的各种建设，帮助更多同事以极低的代价跨入模块联邦时代。 
     </details> 
 
-- 🕯 [哈夫曼编码原理及其在HTTP2中的使用](https://juejin.cn/post/7138792545567866916) | Fri Sep 02 2022 2:41 PM 
+- 🚀 [哈夫曼编码原理及其在HTTP2中的使用](https://juejin.cn/post/7138792545567866916) | Fri Sep 02 2022 2:41 PM 
     <details><summary>展开描述 ...</summary> 
     哈夫曼编码就是基于哈夫曼树，这是一个经典的压缩算法，可以根据权重给某个值分配一个01串，用这个较短的01串表达这个较长的值，权重越高的值的01串会越短，从而提高压缩率。 
     </details> 
 
-- 🚀 [深入理解 Mocha 测试框架：从零实现一个 Mocha](https://juejin.cn/post/7138781839720153096) | Fri Sep 02 2022 2:00 PM 
+- 💪 [深入理解 Mocha 测试框架：从零实现一个 Mocha](https://juejin.cn/post/7138781839720153096) | Fri Sep 02 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
     本文为来自飞书 aPaaS Growth 研发团队成员的文章。 前言 什么是自动化测试   自动化测试在很多团队中都是Devops环节中很难执行起来的一个环节，主要原因在于测试代码的编写工作很难抽象， 
-    </details> 
-
-- 💪 [这一次，来聊聊响应式设计吧](https://juejin.cn/post/7138775208449703972) | Fri Sep 02 2022 1:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、是什么 响应式网站设计（Responsive Web design）是一种网络页面设计布局，页面的设计与开发应当根据用户行为以及设备环境&lpar;系统平台、屏幕尺寸、屏幕定向等&rpar;进行相应的响应和调整 描述 
     </details> 
 <!-- juejin:END -->
 ### 少数派
