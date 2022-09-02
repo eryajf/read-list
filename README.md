@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [月圆「识」好礼，惊喜词条彩蛋上线！](https://www.freebuf.com/fevents/343604.html) | Fri Sep 02 2022 2:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    今年中秋，“共建者”探险小分队，让知识变得更有趣。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 英国发布最严电信运营商安全规定；美民主党推动Meta分享堕胎数据](https://www.freebuf.com/news/343564.html) | Thu Sep 01 2022 11:28 AM 
     <details><summary>展开描述 ...</summary> 
     英国电信行业的新安全框架将于 10 月生效，使英国的电信安全法规成为世界上最严格的法规之一。 
     </details> 
 
-- 🦄 [TikTok曝高危漏洞允许一键式帐户劫持，回应称已修复](https://www.freebuf.com/articles/343500.html) | Thu Sep 01 2022 7:04 AM 
+- 🦅 [TikTok曝高危漏洞允许一键式帐户劫持，回应称已修复](https://www.freebuf.com/articles/343500.html) | Thu Sep 01 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
     TikTok安卓版存在一个高危漏洞，攻击者可能借此实现一键式账户劫持，影响数亿用户。 
     </details> 
 
-- 🦅 [意大利石油巨头 ENI 遭受网络攻击](https://www.freebuf.com/articles/343495.html) | Thu Sep 01 2022 6:39 AM 
+- 🪄 [意大利石油巨头 ENI 遭受网络攻击](https://www.freebuf.com/articles/343495.html) | Thu Sep 01 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     意大利石油巨头ENI 遭受网络攻击，攻击者破坏了其计算机网络，但该公司称，攻击并未产生很恶劣的影响。 
     </details> 
 
-- 🪄 [探寻安全新发展，IDC 2022 CSO全球网络安全峰会成功举办](https://www.freebuf.com/articles/database/343486.html) | Thu Sep 01 2022 5:57 AM 
+- 💻 [探寻安全新发展，IDC 2022 CSO全球网络安全峰会成功举办](https://www.freebuf.com/articles/database/343486.html) | Thu Sep 01 2022 5:57 AM 
     <details><summary>展开描述 ...</summary> 
     本次峰会以“聚力数据安全 赋能企业现代化”为主题，吸引了超过650位CIO、CSO以及CISO通过线上线下的形式参会。 
-    </details> 
-
-- 💻 [最高超过20万，谷歌发布开源漏洞奖励计划](https://www.freebuf.com/news/343478.html) | Thu Sep 01 2022 3:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    8月29日，谷歌推出了开源软件漏洞奖励计划 &lpar;OSS VRP&rpar;，是首批特定于开源的漏洞计划之一。 
     </details> 
 <!-- freebuf:END -->
 
