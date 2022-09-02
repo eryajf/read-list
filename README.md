@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [如果你也想购买一台问界，我想和你分享这些](https://sspai.com/post/75504) | Fri Sep 02 2022 8:00 AM 
+- 👹 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75511) | Fri Sep 02 2022 10:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[美剧]指环王：力量之戒第一季、[动画]JOJO的奇妙冒险石之海第二部分、[电影]DC萌宠特遣队、[英剧]真相捕捉第二季、[印度]德里罪案第二季、[电影]阿尔卡拉斯几则精彩 ...&lt;a href=&quot;https://sspai.com/post/75511&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派周报：十年 Medium 途](https://sspai.com/prime/story/pi-weekly-007) | Fri Sep 02 2022 9:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-007&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🤭 [如果你也想购买一台问界，我想和你分享这些](https://sspai.com/post/75504) | Fri Sep 02 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75504&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [具透 | 功能小更新，体验大升级：iOS 16 的新版专注模式有何变化](https://sspai.com/post/75499) | Fri Sep 02 2022 6:30 AM 
+- 🥸 [具透 | 功能小更新，体验大升级：iOS 16 的新版专注模式有何变化](https://sspai.com/post/75499) | Fri Sep 02 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     iOS 16 希望更多人学会善用专注模式，能在生活中少一些手机焦虑。&lt;a href=&quot;https://sspai.com/post/75499&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [一派·PowerUp 06 | 活用简悦，让阅读成为有用功](https://sspai.com/post/75495) | Fri Sep 02 2022 3:00 AM 
+- 🙉 [一派·PowerUp 06 | 活用简悦，让阅读成为有用功](https://sspai.com/post/75495) | Fri Sep 02 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     如果你对简悦和知识管理的话题感兴趣，欢迎参加今晚 20 点举办的「一派·PowerUp」直播活动，和我们一起来学习如何活用简悦，让阅读成为有用功。&lt;a href=&quot;https://sspai.com/post/75495&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [派早报：联想发布眼镜显示器、折叠屏笔记本电脑以及华硕折叠屏电脑等](https://sspai.com/post/75497) | Fri Sep 02 2022 1:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    USB4 ver2.0 标准正式公布，联发科成功完成 5G NTN 卫星手机实验室连线测试等&lt;a href=&quot;https://sspai.com/post/75497&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [送码 | 用 59 分钟，让阅读成为有用功](https://sspai.com/post/75473) | Thu Sep 01 2022 9:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    《59 分钟就上手简悦 2.0》帮你将简悦看似繁重的功能拆分成多个板块，细致地分析它的具体用法和实际效果，降低上手门槛，让你的简悦也能像一盒炸鸡那样「开盒即食」。&lt;a href=&quot;https://sspai.com/post/75473&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
