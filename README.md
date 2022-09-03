@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星证实七月网络安全事件泄露了部分美国客户的姓名和生日等敏感信息](https://www.cnbeta.com/articles/tech/1311913.htm) | Sat Sep 03 2022 2:00 AM 
+- 🕯 [中广核浙江三澳核电项目2号机组常规岛主体工程开工](https://www.cnbeta.com/articles/tech/1311963.htm) | Sat Sep 03 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星于本周五发布的一份安全公告中称，&lt;strong&gt;针对 7 月发生的网络安全事件，调查发现有“未经授权的第三方”从该公司的系统中获取了一些信息。&lt;/strong&gt;而在被泄露的数据中，包括了部分美国客户的姓名、生日、联系方式、以及产品注册等信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月2日，中广核浙江三澳核电项目2号机组完成汽机筏基混凝土浇筑，历时44小时共浇筑混凝土5172立方，标志着该机组常规岛主体工程开工，常规岛土建全面具备施工条件，保证了汽机基座与厂房框架双主线同步推进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [盘点基于科学的5种营养最丰富的蔬菜](https://www.cnbeta.com/articles/science/1311911.htm) | Sat Sep 03 2022 1:56 AM 
+- 💼 [理想和小鹏 被自家新车坑惨了](https://www.cnbeta.com/articles/tech/1311961.htm) | Sat Sep 03 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;各种颜色的蔬菜都含有维生素、矿物质、纤维素和植物营养素。在你的餐盘中加入更多色彩鲜艳的农产品是不会出错的。&lt;strong&gt;然而，有一些蔬菜的营养成分相对于它们的热量更高，使它们对控制体重和健康特别有帮助。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;刚刚过去的8月，大家都在往前奔跑，却只有理想和小鹏突然摔倒。&lt;/strong&gt;9月1日，造车新势力相继交出8月的交付量成绩单。主打中低端市场的哪吒汽车和零跑汽车，毫无悬念地继续坐在了冠亚军的位置上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[图]硅胶如何涂抹散热效果最佳？GPU芯片实测“香肠式”温度最低](https://www.cnbeta.com/articles/tech/1311909.htm) | Sat Sep 03 2022 1:45 AM 
+- 💂 [《机场模拟》发布“游戏模式”预告和全新截图](https://hot.cnbeta.com/articles/game/1311959.htm) | Sat Sep 03 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 PC 领域有个争论点：如何涂抹硅胶散热效果最好？单点、多点、交叉式、黄油式？&lt;strong&gt;近日国外科技媒体 &lt;a href=&quot;https://www.igorslab.de/en/blob-or-full-flat-heat-conducting-paste-on-the-gpu-correctly-applied/&quot; target=&quot;_blank&quot;&gt;Igor&amp;#39;s Lab&lt;/a&gt; 对不同的硅胶涂抹方式进行了比较，不过本次比较仅限于 GPU，但应该也适用于 CPU。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;发行商和开发商MS GAMES 以及合作开发商MK STUDIOS 发布了模拟游戏《机场模拟》的新预告片和屏幕截图，&lt;strong&gt;介绍了其三种游戏模式：“自由漫游”、“场景模式”和“挑战模式”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1311959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究：单个细胞比科学家们以前认为的更聪明](https://www.cnbeta.com/articles/science/1311907.htm) | Sat Sep 03 2022 1:31 AM 
+- 🚀 [俄罗斯叫车服务Yandex Taxi遭恶意下单 导致交通严重拥堵](https://www.cnbeta.com/articles/tech/1311957.htm) | Sat Sep 03 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;每天，人类都在为自己做出选择。为了确保做出的决定适合当时的情况，这些决定往往需要结合一系列的环境线索。我们的感官为我们提供了做决定所需的大量知识。它们收集了我们周围环境的某些细节，如视觉和听觉信息，我们的大脑将其结合起来，建立一个整体的感知。这被称为多感官或多模态感知。在这方面，单个细胞与人类没有什么不同。它们不断地做出关键的决定，例如是否分裂。因此，&lt;strong&gt;苏黎世大学（UZH）的&lt;a href=&quot;https://www.science.org/doi/10.1126/science.abf4062&quot; target=&quot;_self&quot;&gt;研究人员&lt;/a&gt;将在人类中发现的情境、多模态感知的概念扩展到单个细胞。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本周四，黑客通过叫车应用 Yandex Taxi 下单，让数十辆的士同时前往相同地点，意图造成莫斯科交通拥堵。&lt;/strong&gt;这是首次发现攻击者利用基于应用的出租车公司在道路上制造混乱的方式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [至强铂金8468 ES芯片Cinebench与V-Ray跑分曝光 比肩64核EPYC Milan](https://www.cnbeta.com/articles/tech/1311905.htm) | Sat Sep 03 2022 1:30 AM 
+- 🎊 [[图]这张壁纸能让你提前感受下iPhone 14 Pro系列的“感叹号”设计](https://www.cnbeta.com/articles/tech/1311955.htm) | Sat Sep 03 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;昨晚 HXL（@9550pro）在 Twitter 上分享了一组图片，揭示了一枚英特尔至强铂金 8468（ES 版）处理器的新跑分成绩。&lt;/strong&gt;测试项目分别为 Cinebench R23 和 V-Ray，可知这枚 48C / 96T 的“Sapphire Rapids”CPU 的表现，与 64C / 128T 的 AMD EPYC 7763 服务器处理器处于同一条线上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;基于目前掌握的信息，即将于本月登场的 iPhone 14 Pro 系列将会采用全新的外观设计，最大的调整就是此前的刘海改为“感叹号”打孔设计。&lt;strong&gt;通过下面这张壁纸，你可以提前感受下 iPhone 14 Pro 系列的外观。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
