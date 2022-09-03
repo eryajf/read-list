@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [2022杜塞尔多夫房车展：大众ID.Buzz迷你电动露营车亮相](https://www.cnbeta.com/articles/tech/1311967.htm) | Sat Sep 03 2022 5:16 AM 
+- 🕯 [48小时内心脏停跳138次：Apple Watch帮助英国一54岁男子检出罕见病](https://www.cnbeta.com/articles/tech/1311971.htm) | Sat Sep 03 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据英国《独立报》报道：今年早些时候，来自诺福克郡的 David Last，收到了妻子的赠送的一块 Apple Watch 。&lt;strong&gt;作为一个生日礼物，当 54 岁的他开始佩戴上这款智能手表时，一度怀疑产品出现了故障 —— 因为 Apple Watch 开始向他发出异常低心率警告。&lt;/strong&gt;与健康人群的数据相比，手表记录下了近 3000 次的 30 bpm 心跳异常。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [美右翼社交应用Parler终于重返谷歌Play商店](https://www.cnbeta.com/articles/tech/1311969.htm) | Sat Sep 03 2022 5:38 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在 2021 年 1 月 6 日发生了国会山冲击事件之后，美国右翼社交媒体应用 Parler，已被 Google Play 应用商店下架相当长的一段时间。当时 Google 声称，Parler 缺乏应有的内容审核、放任了煽动暴力冲突内容的发展。&lt;strong&gt;不过现在，这家科技巨头表示 Parler 已得到充分改进，所以决定让它重返 Play 商店。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [2022杜塞尔多夫房车展：大众ID.Buzz迷你电动露营车亮相](https://www.cnbeta.com/articles/tech/1311967.htm) | Sat Sep 03 2022 5:16 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;自概念车于 2017 年首次亮相以来，大众的 ID. Buzz 一直在努力完成原型测试。有趣的是，&lt;strong&gt;在近日举办的德国杜塞尔多夫房车展（2022 Caravan Salon）上，我们欣喜地发现 —— 大众又为原始概念加入了一些对露营更友好的特性。&lt;/strong&gt;通过与 Ququq 合作，大众 ID. Buzz 不负众望地从“厢货”华丽转型为一辆露营车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家通过外尔反铁磁体研究揭开了“霍尔效应”的物理学之谜](https://www.cnbeta.com/articles/science/1311965.htm) | Sat Sep 03 2022 4:23 AM 
+- 🚀 [科学家通过外尔反铁磁体研究揭开了“霍尔效应”的物理学之谜](https://www.cnbeta.com/articles/science/1311965.htm) | Sat Sep 03 2022 4:23 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;在 2022 年 8 月 18 日发表于《自然·物理学》期刊上的一篇文章中，一支跨国研究团队详细介绍了在存储设备中使用“反铁磁”材料的最新进展。&lt;/strong&gt;据悉，antiferromagnets 特指具有“由电子自旋引起内部磁场、但又没有外部（远距）磁场”的一种特殊材料。得益于此，数据存储单元（比特位）有望在材料内部实现更致密的封装。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1311965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中广核浙江三澳核电项目2号机组常规岛主体工程开工](https://www.cnbeta.com/articles/tech/1311963.htm) | Sat Sep 03 2022 3:50 AM 
+- 🎊 [中广核浙江三澳核电项目2号机组常规岛主体工程开工](https://www.cnbeta.com/articles/tech/1311963.htm) | Sat Sep 03 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月2日，中广核浙江三澳核电项目2号机组完成汽机筏基混凝土浇筑，历时44小时共浇筑混凝土5172立方，标志着该机组常规岛主体工程开工，常规岛土建全面具备施工条件，保证了汽机基座与厂房框架双主线同步推进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [理想和小鹏 被自家新车坑惨了](https://www.cnbeta.com/articles/tech/1311961.htm) | Sat Sep 03 2022 3:49 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;刚刚过去的8月，大家都在往前奔跑，却只有理想和小鹏突然摔倒。&lt;/strong&gt;9月1日，造车新势力相继交出8月的交付量成绩单。主打中低端市场的哪吒汽车和零跑汽车，毫无悬念地继续坐在了冠亚军的位置上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1311961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《机场模拟》发布“游戏模式”预告和全新截图](https://hot.cnbeta.com/articles/game/1311959.htm) | Sat Sep 03 2022 3:48 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;发行商和开发商MS GAMES 以及合作开发商MK STUDIOS 发布了模拟游戏《机场模拟》的新预告片和屏幕截图，&lt;strong&gt;介绍了其三种游戏模式：“自由漫游”、“场景模式”和“挑战模式”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1311959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
