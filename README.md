@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [nēdl - 人工智能驱动的实时音频流搜索](https://xinquji.com/posts/179231?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:32 AM 
+- 👀 [TribuCode - 创建和管理您的亲人纪念馆](https://xinquji.com/posts/179244?utm_campaign=xinquji-rss) | Sun Sep 04 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     人工智能驱动的实时音频流搜索  
+     创建和管理您的亲人纪念馆  
     </details> 
 
-- 🥷 [Muslim Tab - 您打开的每个新标签上都有伊斯兰提醒](https://xinquji.com/posts/179230?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:31 AM 
+- 🥷 [Roast My Speech - 让我们烘烤并显着改善您的演讲](https://xinquji.com/posts/179243?utm_campaign=xinquji-rss) | Sun Sep 04 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     您打开的每个新标签上都有伊斯兰提醒  
+     让我们烘烤并显着改善您的演讲  
     </details> 
 
-- 💼 [Linksnap - 面向开发人员的 Linktr.ee](https://xinquji.com/posts/179229?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:30 AM 
+- 💼 [McBuild - 在您的 Minecraft 地图上在线安装建筑物](https://xinquji.com/posts/179242?utm_campaign=xinquji-rss) | Sun Sep 04 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     面向开发人员的 Linktr.ee  
+     在您的 Minecraft 地图上在线安装建筑物  
     </details> 
 
-- 🦅 [Corridor - 设计更好的员工入职体验](https://xinquji.com/posts/179228?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:29 AM 
+- 🦅 [docsie - 为您的企业创建更好的产品文档](https://xinquji.com/posts/179241?utm_campaign=xinquji-rss) | Sun Sep 04 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     设计更好的员工入职体验  
+     为您的企业创建更好的产品文档  
     </details> 
 
-- 😺 [One Submit - 终极音乐提交平台](https://xinquji.com/posts/179227?utm_campaign=xinquji-rss) | Sat Sep 03 2022 6:28 AM 
+- 😺 [California Smoke Spotter 2.0 - 为您附近的烟雾做好准备](https://xinquji.com/posts/179240?utm_campaign=xinquji-rss) | Sun Sep 04 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     终极音乐提交平台  
+     为您附近的烟雾做好准备  
     </details> 
 <!-- xinquji:END -->
