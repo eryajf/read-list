@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家发现太阳钟可提前几年预测危险的太阳耀斑](https://www.cnbeta.com/articles/science/1312075.htm) | Sat Sep 03 2022 1:06 PM 
+- 🕯 [V社正在开发多个游戏 很多员工参与其中](https://hot.cnbeta.com/articles/game/1312087.htm) | Sat Sep 03 2022 1:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自从人类在大约400年前第一次注意到太阳黑子以来，我们一直试图用太阳黑子来定义太阳周期。太阳活动，包括太阳黑子和太阳耀斑，大约每11年起伏一次，改变地球的天气模式，有时对通信构成危害。&lt;strong&gt;如果能准确预测这些变化，从农民到军队都会受益。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;V社开发者最近确认该公司正在开发多个游戏，而且有很多员工在参与开发新作。最近日本游戏杂志Famitsu采访了V社设计师Greg Coomer，他表示：“我们根本没有停止开发游戏。Valve目前正在开发很多游戏。我们会继续推出新的游戏。游戏开发对Valve很重要，我不知道具体的数字，但参与制作游戏的员工百分比真的很高。很多人参与其中。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [SpaceX在德克萨斯州投资4300万美元建设新厂房](https://www.cnbeta.com/articles/tech/1312073.htm) | Sat Sep 03 2022 12:56 PM 
+- 💼 [英特尔第13代酷睿&quot;猛禽湖&quot;CPU最终阵容、规格和销售日期确定](https://www.cnbeta.com/articles/tech/1312085.htm) | Sat Sep 03 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;太空探索技术公司（SpaceX）正计划在德克萨斯州建立一个大型设施&lt;/strong&gt;，因为它在该州加大了对星际飞船下一代运载火箭平台的测试力度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔即将推出的第13代CPU阵容今日可以确定细节，英特尔将于9月27日宣布猛禽湖，销售禁令将于10月20日解除。虽然日期可能会根据英特尔的意愿而有所变动，但规格基本已经确定（可能有略微的时钟频率变化）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [剧集《指环王：力量之戒》开播 观众口碑血崩](https://hot.cnbeta.com/articles/movie/1312071.htm) | Sat Sep 03 2022 12:48 PM 
+- 💂 [自动驾驶寒气逼人：Aurora 降薪又裁员 连员工餐都要停了](https://www.cnbeta.com/articles/tech/1312083.htm) | Sat Sep 03 2022 1:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊斥巨资打造的《指环王》剧版《指环王：力量之戒》第一季9月2日正式开播，已放出前两集，观众评分也开了。目前，该剧前两集IMDb均分分别为7.2和6.9，烂番茄新鲜度84%，但爆米花指数仅有34%，MTC用户均分仅2.1分，观众口碑极差。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自动驾驶行业又迎寒冬，美股明星上市公司 Aurora 也顶不住了。据外媒报道，Aurora 的 CEO Chris Urmson （前谷歌 Waymo CTO）日前在内部文件中透露&lt;strong&gt;公司正遭遇严重的危机&lt;/strong&gt;，公司&lt;strong&gt;将通过裁员、高管降薪、出售资产、减少福利等方式节省开支&lt;/strong&gt;，甚至还考虑将公司出售给苹果、微软等现金充足的科技巨头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [因对SETI贡献而闻名的天文学家弗兰克德雷克去世](https://www.cnbeta.com/articles/science/1312069.htm) | Sat Sep 03 2022 12:40 PM 
+- 🚀 [林志颖后援会送救命恩人礼物被曝光 本人晒体重照让人担忧](https://www.cnbeta.com/articles/tech/1312081.htm) | Sat Sep 03 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;周五，天文学家弗兰克-德雷克的家人宣布，他在加州的家中安然离世，享年92岁&lt;/strong&gt;，离他在加州大学圣克鲁兹分校的最后学术职位所在地很近。德雷克对射电天文学做出了许多贡献，包括担任阿雷西博射电望远镜设施的主任。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;林志颖后援会日前晒出感谢桃园捷运工程团队（现场施救的工地工人）的礼物，众人经过4天讨论和集资，从7月26日开始送出21箱饮料及24杯奶茶给这些英雄们，感谢他们不顾一切救出林志颖。&lt;/strong&gt;身体初愈的他立即发文报平安，时隔5天之后又在社交平台上晒出一张体重照。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [死亡谷气温高达52.7度 创造了地球九月份单日最热新纪录](https://www.cnbeta.com/articles/tech/1312067.htm) | Sat Sep 03 2022 12:16 PM 
+- 🎊 [苍蝇为什么总喜欢&quot;搓手&quot; 还会把头拧下来玩？](https://www.cnbeta.com/articles/science/1312079.htm) | Sat Sep 03 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;整个洛杉矶地区都很热，但以热而得名的死亡谷又有多热呢？这个以地球上最热的地方之一而闻名的国家公园在星期四又创造了地球上九月份单日最热气温新纪录，局部地区气温达到127华氏度&lpar;52.77摄氏度&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一说到苍蝇，绝大多数人的第一反应就是脏、不卫生、害虫……虽然苍蝇“人人喊打”，但它也有有趣的一面：有时候苍蝇会把自己的脑袋扯下来玩；苍蝇经常会飞着飞着，然后停下来，开始搓手；看到这里，大家都有一个这样的疑问：为什么苍蝇会有这些奇怪的行为？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
