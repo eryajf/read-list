@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [三种获取URL参数值的方法](https://juejin.cn/post/7139169269941534733) | Sat Sep 03 2022 3:03 PM 
+- 🤗 [分布式id生成器&amp;分布式锁介绍](https://juejin.cn/post/7139176675140435998) | Sat Sep 03 2022 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    分布式 id 生成器 在分布式场景中，唯一 id 的生成算比较重要。 而通常在高并发场景中，需要类似 MySQL 自增 id 一样不断增长且又不会重复的 id，即 MySql 的主键 id 
+    </details> 
+
+- 🎡 [如何开好每日晨会？](https://juejin.cn/post/7139174606379679781) | Sat Sep 03 2022 3:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    很多人说早上开晨会没有用，是管理者没有其他办法，只能通过会议来推进工作的一种表现。我倒不觉得，晨会只是一个小小行为，但是每个人心里都想着这个事的时候，自然会把当下的工作进行推进。我推荐一个开晨会的方法 
+    </details> 
+
+- 🕯 [三种获取URL参数值的方法](https://juejin.cn/post/7139169269941534733) | Sat Sep 03 2022 3:03 PM 
     <details><summary>展开描述 ...</summary> 
     在 URL 中，查询参数字符串值通常提供有关请求的信息，例如搜索参数或正在使用的对象的 ID。如果在前端处理任何业务或请求逻辑，了解如何从 URL 中检索查询字符串值非常重要。本文分享三种从 URL  
     </details> 
 
-- 🎡 [CMU 15-445 Lecture 1 关系模型和关系代数运算](https://juejin.cn/post/7139163956848885796) | Sat Sep 03 2022 2:42 PM 
+- 🚀 [CMU 15-445 Lecture 1 关系模型和关系代数运算](https://juejin.cn/post/7139163956848885796) | Sat Sep 03 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
     2022 的 15-445 开始了，利用周末的时间学习一下，本专栏应该是 lecture、project、homework 都会记录，希望一年内能把整个课程做完。 
     </details> 
 
-- 🕯 [React Hook + Typescript 实现一个类型提示完整的高阶组件（HOC）](https://juejin.cn/post/7139157115666432037) | Sat Sep 03 2022 2:16 PM 
+- 💪 [React Hook + Typescript 实现一个类型提示完整的高阶组件（HOC）](https://juejin.cn/post/7139157115666432037) | Sat Sep 03 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
     最近在对项目内的表单组件进行的优化，在实现高阶组件的过程中发现目前关于 react 高阶组件的文章都比较旧了，很多都是以类组件的形式去实现，与 Typescript 的结合使用也比较难找到示例。 
-    </details> 
-
-- 🚀 [如何实现简单的文件上传呢](https://juejin.cn/post/7139152657842700318) | Sat Sep 03 2022 1:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、文件上传是什么 文件上传在日常开发中应用很广泛，我们发微博、发微信朋友圈都会用到了图片上传功能 因为浏览器限制，浏览器不能直接操作文件系统的，需要通过浏览器所暴露出来的统一接口，由用户主动授权发起 
-    </details> 
-
-- 💪 [Java枚举你真的会用吗](https://juejin.cn/post/7139141170743607326) | Sat Sep 03 2022 1:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情” 概述 Java中枚举，大家在项目中经常使用吧，主要用来定义一些固定值，在一个有限的集合内，比如在表示一周的某一天 
     </details> 
 <!-- juejin:END -->
 ### 少数派
