@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [卧槽！GitHub排行榜即将下线；酷炫的Python热重载工具；开发者体验·电子书；C++最佳实践合辑；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7139023534449229855) | Sat Sep 03 2022 5:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 09-03 期，三维人体参数模型库、Lhotse下一代Kaldi语音处理库、Zed 更简单的数据操作方式、TorToiSe 文本转语音程序、前沿论文… 
-    </details> 
-
-- 🎡 [646. 最长数对链 : 常规贪心 DP 运用题](https://juejin.cn/post/7139022695752007694) | Sat Sep 03 2022 5:38 AM 
+- 🤗 [646. 最长数对链 : 常规贪心 DP 运用题](https://juejin.cn/post/7139022695752007694) | Sat Sep 03 2022 5:38 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 646. 最长数对链 ，难度为 中等。 Tag : 「贪心」、「排序」、「二分」、「序列 DP」、「LIS」 给出 n 个数对。 在每一个数对中，第一个数字总是 
     </details> 
 
-- 🕯 [记一个“奇葩”需求的实现](https://juejin.cn/post/7139013517130088484) | Sat Sep 03 2022 4:59 AM 
+- 🎡 [Vue2 组件二次封装 Element UI Table](https://juejin.cn/post/7138993619955908638) | Sat Sep 03 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    本文记录一下魔改 &#39;element-ui&#39; 导航菜单的经历，抓住UI框架组件设计的三要素：属性、事件、方法，了解框架组件背后的工作原理，轻松实现UI想要的界面交互。 
+    本文基于早先写的 《Vue3 组件二次封装 Element Plus El-Table》。再用 Vue 2 + Element UI 重新实现一遍。实现思路不变，主要针对 Vue 2 缺少的特性和坑进 
     </details> 
 
-- 🚀 [微服务框架 go-zero 快速实战](https://juejin.cn/post/7138960256054345741) | Sat Sep 03 2022 1:34 AM 
+- 🕯 [37 如何使用缓存提高系统性能？](https://juejin.cn/post/7138991937909948447) | Sat Sep 03 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情 对于咱们快速了解和将 go-zero 使用起来，我们需要具备如下能力： 基本的环境安装和看文档的能力 Golang 
+    大家好，我是小水珠。 缓存是我们提高系统性能的一项必不可少的技术，无论是前端、还是后端，都应用到了缓存技术。前端使用缓存，可以降低多次请求服务的压力；后端使用缓存，可以降低数据库操作的压力，提升读取数 
     </details> 
 
-- 💪 [MySQL的常用优化方案](https://juejin.cn/post/7138954497555955748) | Sat Sep 03 2022 1:10 AM 
+- 🚀 [「TypeScript实用篇」配置了拦截器但axios返回值提示却没变？](https://juejin.cn/post/7138991235661824014) | Sat Sep 03 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-    概述： 我们知道， MySQL DB 的数据是存放在磁盘上的，其读写速度无法和存放在内存中的 redis 相比，当 MySQL 记录数过大时，增删改查时系统的吞吐量会非常的大，数据增删改查的性能会急剧 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情” 本文知识点 全局类型声明和模块 现实场景 在使用axios的时候，我们总会对其进行一些封装或者配置以更简单地用于 
+    </details> 
+
+- 💪 [Vue3项目实践jest，学会了升职加薪（上篇）](https://juejin.cn/post/7138990991058403336) | Sat Sep 03 2022 3:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    jest是什么？ Jest是 Facebook 的一套开源的 JavaScript 测试框架， 它自动集成了断言、JSDom、覆盖率报告等开发者所需要的所有测试工具，是一款几乎零配置的测试框架。它能支 
     </details> 
 <!-- juejin:END -->
 ### 少数派
