@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Apple新闻之腾讯打算重构Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
+- 👨‍🏫 [苹果 iPhone、iPad、Apple Watch、Mac 上规划旅行路线和日程的 App：Tripsy](http://www.mac52ipod.cn/post/apple-ios-macos-iphone-ipad-mac-apple-watch-app-tripsy-travel-p.php) | Sat Sep 03 2022 4:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	最近发现的旅行路线和日程规划 App：Tripsy，自动导入酒店和航班信息、整理旅行日程、自动提醒、可视化行程地图、信息分享、查看景点推荐、旅行途中记录照片和文字生成旅行日记 …… 功能很全而且设计感很好。而且 iPhone、iPad、Apple Watch、Mac 上都有客户端，信息可以多端同步（比如提前在 Mac 或 iPad 上做规划，旅途中用 iPhone 和 Apple Watch 上查看和记录）&lt;/p&gt;&lt;p&gt;Tripsy 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/tripsy-travel-planner/id1429967544&quot; target=&quot;_blank&quot; title=&quot;Tripsy 规划您的行程, 与朋友分享您的旅程&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/tripsy-travel-planner/id1429967544&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2597%2585%25E8%25A1%258C&quot; rel=&quot;tag&quot;&gt;旅行&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2597%2585%25E6%25B8%25B8&quot; rel=&quot;tag&quot;&gt;旅游&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Apple新闻之腾讯打算重构Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Mac技巧之一个国内个人开发者制作的翻译软件：Bob - 翻译和 OCR 工具](http://www.mac52ipod.cn/post/apple-mac-macos-translation-app-bob.php) | Wed Aug 31 2022 3:56 AM 
+- 🦏 [Mac技巧之一个国内个人开发者制作的翻译软件：Bob - 翻译和 OCR 工具](http://www.mac52ipod.cn/post/apple-mac-macos-translation-app-bob.php) | Wed Aug 31 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变](http://www.mac52ipod.cn/post/apple-mac-os-x-macos-trash-can-icon-design-1984-up-to-2022.php) | Sun Aug 28 2022 3:14 PM 
+- 🚀 [苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变](http://www.mac52ipod.cn/post/apple-mac-os-x-macos-trash-can-icon-design-1984-up-to-2022.php) | Sun Aug 28 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [识别你做了投篮动作，并在手表发出篮球入网音效的 Apple Watch App：空气投篮](http://www.mac52ipod.cn/post/apple-watch-app-airshot-auditoryar.php) | Fri Aug 26 2022 3:02 AM 
+- 🏊 [识别你做了投篮动作，并在手表发出篮球入网音效的 Apple Watch App：空气投篮](http://www.mac52ipod.cn/post/apple-watch-app-airshot-auditoryar.php) | Fri Aug 26 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	这是个挺有意思的 App，能根据 Apple Watch 传来的加速度数据识别到你对着空气做出了投篮动作，模拟空心入网或者砸到篮框的声音。开发商还说今后会加入对着空气开枪和甩鞭子的效果识别。&lt;/p&gt;&lt;p&gt;唯一的问题是：大部分人会把手表戴在左腕，投篮动作要用右手。。。&lt;/p&gt;&lt;p&gt;空气投篮在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/airshot-auditoryar/id1625289361?platform=appleWatch&quot; target=&quot;_blank&quot; title=&quot;空气投篮在苹果 App Store 应用商店的下载地址&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/airshot-auditoryar/id1625289361?platform=appleWatch&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%25AF%25AE%25E7%2590%2583&quot; rel=&quot;tag&quot;&gt;篮球&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Apple新闻之苹果自助维修服务覆盖到 Mac 用户了](http://www.mac52ipod.cn/post/apple-expands-self-service-repair-to-mac-notebooks.php) | Tue Aug 23 2022 3:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果今年 4 月在美国推出了针对 iPhone 用户的自助维修服务，交钱后苹果会寄来一个巨大的工具箱，里面有各种专业设备和维修手册，让用户自己维修 iPhone。修完再把工具箱寄回给苹果。&lt;/p&gt;&lt;p&gt;现在，使用 Apple Silicone 芯片的 MacBook Pro、MacBook Air 用户也能使用自助维修服务了。工具箱租金 49 美元，租期一周。&lt;/p&gt;&lt;p&gt;苹果官网的详细介绍 &lt;u&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/&quot; target=&quot;_blank&quot; title=&quot;Apple expands Self Service Repair to Mac notebooks&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;现在，苹果的自助维修服务还只在美国推出，今年晚些时候会拓展到其它国家。想知道这工具箱里到底有什么，怎么自助维修，可以看这个体验视频 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1CS4y1x7Mq&quot; target=&quot;_blank&quot; title=&quot;【官方双语】苹果的自助维修服务？烂透了#linus谈科技&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1CS4y1x7Mq&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%25BB%25B4%25E4%25BF%25AE&quot; rel=&quot;tag&quot;&gt;维修&lt;/a&gt;
 
  
     </details> 
