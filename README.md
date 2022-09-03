@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [看到 PyPI 的供应链攻击，继续来讨论 Chrome 的密码保存](https://www.v2ex.com/t/877361#reply0) | Fri Sep 02 2022 2:48 PM
-- 🤗 [vue2 项目，本地 dev 模式正常， build 后网页稳定崩溃可能的原因是什么？](https://www.v2ex.com/t/877357#reply3) | Fri Sep 02 2022 2:41 PM
-- 🎭 [不同的 vscode 项目能否在配置文件中指定自己的 node 版本？](https://www.v2ex.com/t/877353#reply2) | Fri Sep 02 2022 2:24 PM
-- 🥷 [Android 和 iOS 双持，谈谈开放的 Android 不如封闭的 iOS 的一个地方](https://www.v2ex.com/t/877351#reply12) | Fri Sep 02 2022 2:20 PM
-- 🐵 [cacheline 填充的意义](https://www.v2ex.com/t/877343#reply2) | Fri Sep 02 2022 1:20 PM<!-- v2ex:END -->
+- 🥸 [当我更换 mac m2 芯片 无法使用使用 mysql2 报错 symbol not found in flat namespace &lpar;_mysql_affected_rows&rpar;](https://www.v2ex.com/t/877398#reply0) | Sat Sep 03 2022 2:02 AM
+- 🤗 [腾讯 QQ 强制人脸识别，搜集的海量用户人脸录像是存在腾讯 ，还是只是验证一下 ？](https://www.v2ex.com/t/877394#reply9) | Sat Sep 03 2022 1:38 AM
+- 🎭 [golang 中如何正确统一整合 log？](https://www.v2ex.com/t/877393#reply2) | Sat Sep 03 2022 1:13 AM
+- 🥷 [关于弃用 Github Trending 社区讨论官方的回复](https://www.v2ex.com/t/877391#reply0) | Sat Sep 03 2022 12:58 AM
+- 🐵 [看到 PyPI 的供应链攻击，继续来讨论 Chrome 的密码保存](https://www.v2ex.com/t/877361#reply1) | Fri Sep 02 2022 2:48 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
