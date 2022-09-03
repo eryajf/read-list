@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google Chrome 106 Beta推送中 增加顶层弹出式API](https://www.cnbeta.com/articles/tech/1312055.htm) | Sat Sep 03 2022 10:57 AM 
+- 🕯 [死亡谷气温高达52.7度 创造了地球九月份单日最热新纪录](https://www.cnbeta.com/articles/tech/1312067.htm) | Sat Sep 03 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;继本周发布Chrome 105之后，Google已将Chrome 106推广到Beta频道。与Chrome 105相比，Chrome 106测试版带来了许多增量改进，包括如下变化：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为一个原点试验，一个弹出式API被引入，用于构建瞬时的用户界面元素，显示在其他网络应用程序界面元素之上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;整个洛杉矶地区都很热，但以热而得名的死亡谷又有多热呢？这个以地球上最热的地方之一而闻名的国家公园在星期四又创造了地球上九月份单日最热气温新纪录，局部地区气温达到127华氏度&lpar;52.77摄氏度&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [出租车短缺 俄罗斯巨头求助北汽、奇瑞等中国车企](https://www.cnbeta.com/articles/tech/1312053.htm) | Sat Sep 03 2022 10:51 AM 
+- 💼 [只靠太阳就能飞 我国“启明星50”临近空间长航时大型无人机首飞成功](https://www.cnbeta.com/articles/tech/1312065.htm) | Sat Sep 03 2022 12:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月3日消息，据俄罗斯卫星通讯社，俄罗斯Yandex公司请求中国汽车制造商&lt;strong&gt;北汽集团和奇瑞&lt;/strong&gt;以及俄罗斯本土车企伏尔加、白俄罗斯车企Unison为与Yandex.Taxi合作的租赁公司提供车辆，租约完成后，出租车公司将接收汽车变为自家资产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据航空工业官微消息，“启明星50”大型太阳能无人机于今日17时50分起飞，空中飞行26分钟，于18时16分平稳着陆，顺利完成首飞任务，飞机状态良好，各系统运行正常，首飞圆满成功！该机是航空工业研制的首款超大展弦比高空低速无人机，首次采用“双机身”布局的大型无人机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AMD锐龙7000全力押注 DDR5内存价格明年降至DDR4水平](https://www.cnbeta.com/articles/tech/1312051.htm) | Sat Sep 03 2022 10:50 AM 
+- 💂 [华为Mate50系列爆料汇总 硬刚苹果是真有实力还是口嗨？](https://www.cnbeta.com/articles/tech/1312063.htm) | Sat Sep 03 2022 12:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年Intel的12代酷睿首发了DDR5内存支持，但同时也兼容DDR4内存，很快还会有13代酷睿上市，前不久AMD发布的锐龙7000也加入了DDR5阵营，坚决地放弃了DDR4内存，两家的新品会陆续在9月到10月上市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为手机圈的两大顶流，华为将在9月6月举行Mate50系列及全场景新品秋季发布会，而在9月8日苹果举办秋季发布会，带来全新的iPhone14系列。两家发布时间非常微妙，大有一较高下的意思，不得不说在华为制裁后，没有5G的情况下，还敢与苹果硬碰硬，除了华为也没有其他厂商敢这么硬刚了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [一图看懂USB 3.X、USB4与雷电4区别](https://www.cnbeta.com/articles/tech/1312049.htm) | Sat Sep 03 2022 9:51 AM 
+- 🚀 [剧版《指环王》开播 “审美降级”一词冲上热搜](https://hot.cnbeta.com/articles/movie/1312061.htm) | Sat Sep 03 2022 12:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前几天USB-IF组织又宣布推出了USB4 2.0规范，这是USB4规范的升级版，主要是新增了80Gbps的有源线缆标准，速度翻倍，是当前接口最快的标准了。算上USB4 2.0，再加上已有的USB 1.1到USB4，还有雷电接口，目前大家能看到的USB类型的接口至少有六七种了，每个标准的速度及物理接口都是不一样的，该如何区分？这让很多人都头痛。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《指环王：力量之戒》已于今日开播，目前该剧烂番茄新鲜指数为84%，MC为71分，但似乎是因为角色颜值问题，关于该剧的话题“审美降级”登上了微博热搜。网友表示这都不只是审美降级了，直接是没有审美；好似和半兽人混血了；还有人表示身姿、体型就比不上电影版角色。各位看过的朋友觉得该剧的选角如何呢？&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312061.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [利用谣言进行恶意营销炒作的账号主体将被纳入黑名单管理](https://www.cnbeta.com/articles/tech/1312047.htm) | Sat Sep 03 2022 9:50 AM 
+- 🎊 [四川瓦屋山现“功夫熊猫”：倒立“方便”被逮个正着](https://www.cnbeta.com/articles/tech/1312059.htm) | Sat Sep 03 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月3日消息，昨日，中央网信办下发通知，即日起在全国范围内启动为期3个月的“清朗·打击网络谣言和虚假信息”专项行动，明确对首发恶劣谣言、多次传播谣言、利用谣言进行恶意营销炒作的账号主体纳入黑名单管理，情节特别严重的全网禁止注册新账号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;记者日前从眉山市洪雅县委宣传部获悉，大熊猫国家公园眉山片区天空地一体化监测平台管理员，收到一条实时传输回来的野生大熊猫“倒立撒尿”的视频。视频中，这只大熊猫倒立着在树干上撒尿，像极了“功夫熊猫”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
