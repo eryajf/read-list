@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [何小鹏称已提前购买未来几年芯片 百度副总裁称其格局太小](https://www.cnbeta.com/articles/tech/1312017.htm) | Sat Sep 03 2022 8:21 AM 
+- 🕯 [Mesa3D正在为LLVMpipe启用对AMD Zen 4 CPU的AVX-512支持](https://www.cnbeta.com/articles/tech/1312021.htm) | Sat Sep 03 2022 8:50 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;作为 Mesa3D 图形项目的独立贡献者，Yonggang Luo 已开始着手为 LLVMpipe 启用 AVX-512 支持。&lt;/strong&gt;至于这么做的原因，主要是 AMD 在 Zen 4 锐龙 7000 系列台式处理器上引入了 AVX-512 指令集。通过驱动方面的优化，Luo 希望为 R9-7950X 等 CPU 带来最佳性能增益。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [“中国龙形”无人机 - 最狂的无人机](https://www.cnbeta.com/articles/tech/1312019.htm) | Sat Sep 03 2022 8:23 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;神龙出世！这是由无人机组成的一条龙，你敢信吗？最近，日本东京大学JSK实验室制作出来了一个龙机器人“Dragon”，最新一篇论文已经发表在《国际机器人研究杂志》上。用“无人机”做成的龙，仔细看其实很像个飞行的机械臂，还很灵活的样子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [何小鹏称已提前购买未来几年芯片 百度副总裁称其格局太小](https://www.cnbeta.com/articles/tech/1312017.htm) | Sat Sep 03 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日消息，美国两大芯片制造巨头，被要求&lt;strong&gt;停止向中国出口用于人工智能最先进芯片&lt;/strong&gt;一事引起关注。对于国内智能汽车的自动驾驶发展而言，高性能AI芯片被断供，势必会带来一些影响，而小鹏汽车则通过提前采购的方式，保证了未来一段时间的芯片需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Canonical宣布接纳Unity为Ubuntu 22.10的官方风味](https://www.cnbeta.com/articles/tech/1312015.htm) | Sat Sep 03 2022 8:05 AM 
+- 🚀 [Canonical宣布接纳Unity为Ubuntu 22.10的官方风味](https://www.cnbeta.com/articles/tech/1312015.htm) | Sat Sep 03 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在 Unity7 桌面环境发展了两年多后，Ubuntu Unity 维护者 Rudra Sarawat 终于在本周早些时候宣布了转正 —— &lt;strong&gt;从 Ubuntu 22.10（Kinetic Kudu）开始，Canonical 将正式接纳 Ubuntu Unity 并作为一种官方风味。&lt;/strong&gt;9to5Linux 指出，Ubuntu Unity 前身为 Ubuntu Unity Remix，此前曾作为 Ubuntu 20.04 LTS（Focal Fossa）长期支持版本的一部分而出现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科技行业女性权益组织与军火商合作引抨击](https://hot.cnbeta.com/articles/game/1312013.htm) | Sat Sep 03 2022 7:43 AM 
+- 🎊 [科技行业女性权益组织与军火商合作引抨击](https://hot.cnbeta.com/articles/game/1312013.htm) | Sat Sep 03 2022 7:43 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据Motherboard报道， 支持女性在包括游戏行业在内的科技行业从事职业的非营利组织 Girls Who Code正在与Raytheon Technologies 一起参与一项新的学生指导计划。Raytheon（雷神）军工公司是一家武器制造商，其向海外出售的武器曾因一些事件引发国际社会对该公司的强烈批评。据 Open Secrets 称，该公司 2021 年光是为了游说美国就花费了 1539 万美元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [热浪之下：加州电网运营商呼吁EV车主错峰充电](https://www.cnbeta.com/articles/tech/1312011.htm) | Sat Sep 03 2022 7:36 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国劳工节（9 月 5 号）前夕，一场热浪席卷了西部地区，导致当地电网因制冷需求而遭遇极端的调峰压力。&lt;strong&gt;为了缓和对电网的冲击，加州电网更是向电动汽车车主发出了强烈的呼吁 —— 希望他们能够尽量避免在高峰时段充电。&lt;/strong&gt;周五的时候，加州独立电网系统运营商 CAISO 向居民提议，希望他们在 14-19 点期间将恒温器设置到 78℉（26℃）及以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [深莞两家老牌电子大厂停业解散 传统制造业转型之痛何解？](https://www.cnbeta.com/articles/tech/1312009.htm) | Sat Sep 03 2022 7:32 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“你别看他们（工人）都在开玩笑，其实心里都不好受。”在深圳市宝安区威利马厂区门口，这位隔壁工厂的姜先生，站在自己招聘牌子一侧，对记者说道。另一面，他时刻关注着每位从厂里出来的即将“失业”的工人，随时准备给他们介绍自己厂里的招工岗位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
