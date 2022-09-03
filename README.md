@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [V社正在开发多个游戏 很多员工参与其中](https://hot.cnbeta.com/articles/game/1312087.htm) | Sat Sep 03 2022 1:44 PM 
+- 🕯 [华为Mate 50系列搭载“捅破天的新技术”：或支持短报文功能](https://www.cnbeta.com/articles/tech/1312097.htm) | Sat Sep 03 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;V社开发者最近确认该公司正在开发多个游戏，而且有很多员工在参与开发新作。最近日本游戏杂志Famitsu采访了V社设计师Greg Coomer，他表示：“我们根本没有停止开发游戏。Valve目前正在开发很多游戏。我们会继续推出新的游戏。游戏开发对Valve很重要，我不知道具体的数字，但参与制作游戏的员工百分比真的很高。很多人参与其中。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月3日消息，&lt;strong&gt;央视新闻频道介绍了短报文通信功能，称“年底部分手机或支持短报文通信功能”。&lt;/strong&gt;对此，有网友猜测，&lt;strong&gt;支持短报文通信功能的手机可能是华为Mate 50系列。&lt;/strong&gt;之前余承东在预热视频中直言，Mate 50系列将带来通信技术的新突破，号称是向上捅破天的技术，&lt;strong&gt;这项捅破天的技术应该就是“短报文通信功能”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英特尔第13代酷睿&quot;猛禽湖&quot;CPU最终阵容、规格和销售日期确定](https://www.cnbeta.com/articles/tech/1312085.htm) | Sat Sep 03 2022 1:42 PM 
+- 💼 [有视频显示iPhone 14 Pro的屏幕打孔形态可手动调整](https://www.cnbeta.com/articles/tech/1312095.htm) | Sat Sep 03 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔即将推出的第13代CPU阵容今日可以确定细节，英特尔将于9月27日宣布猛禽湖，销售禁令将于10月20日解除。虽然日期可能会根据英特尔的意愿而有所变动，但规格基本已经确定（可能有略微的时钟频率变化）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;下周，苹果就应该带来他们的新一代iPhone手机了，相比iPhone 14来说，大家更期待的还是升级更大的14 Pro系列了，毕竟用上了全新的屏幕。&lt;strong&gt;现在，社交网络上出现了所谓iPhone 14 Pro的新屏幕谍照，感叹号变胶囊，虽然不确定到底是不是真的（苹果会设置一个刘海调控选项？），但从实际效果看有模有样。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [自动驾驶寒气逼人：Aurora 降薪又裁员 连员工餐都要停了](https://www.cnbeta.com/articles/tech/1312083.htm) | Sat Sep 03 2022 1:34 PM 
+- 💂 [研究称睡得好可延长寿命8.7年：预防帕金森等疾病](https://www.cnbeta.com/articles/tech/1312093.htm) | Sat Sep 03 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自动驾驶行业又迎寒冬，美股明星上市公司 Aurora 也顶不住了。据外媒报道，Aurora 的 CEO Chris Urmson （前谷歌 Waymo CTO）日前在内部文件中透露&lt;strong&gt;公司正遭遇严重的危机&lt;/strong&gt;，公司&lt;strong&gt;将通过裁员、高管降薪、出售资产、减少福利等方式节省开支&lt;/strong&gt;，甚至还考虑将公司出售给苹果、微软等现金充足的科技巨头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月3日消息，斯坦福大学和丹麦睡眠医学中心的一个联合研究小组发现，&lt;strong&gt;睡眠年龄10年的变化可以延长或减少一个人8.7年左右的寿命。&lt;/strong&gt;通过减少干扰的次数、&lt;strong&gt;提高休息质量和每晚获得充足的睡眠时间来降低睡眠年龄，可以帮助预防帕金森病等疾病、延长寿命。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [林志颖后援会送救命恩人礼物被曝光 本人晒体重照让人担忧](https://www.cnbeta.com/articles/tech/1312081.htm) | Sat Sep 03 2022 1:33 PM 
+- 🚀 [超跑加入游戏 《绝地求生》和迈凯伦联动](https://hot.cnbeta.com/articles/game/1312091.htm) | Sat Sep 03 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;林志颖后援会日前晒出感谢桃园捷运工程团队（现场施救的工地工人）的礼物，众人经过4天讨论和集资，从7月26日开始送出21箱饮料及24杯奶茶给这些英雄们，感谢他们不顾一切救出林志颖。&lt;/strong&gt;身体初愈的他立即发文报平安，时隔5天之后又在社交平台上晒出一张体重照。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Krafton和英国汽车厂商迈凯伦展开合作，将迈凯伦GT带到《绝地求生》游戏中以及时赶上19.2更新。除了新的汽车皮肤外，19.2更新将还将为游戏带来新内容，包括Deston的新天气系统，新的载具等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苍蝇为什么总喜欢&quot;搓手&quot; 还会把头拧下来玩？](https://www.cnbeta.com/articles/science/1312079.htm) | Sat Sep 03 2022 1:33 PM 
+- 🎊 [大众汽车将于周一举行会议 拟讨论保时捷的IPO计划](https://www.cnbeta.com/articles/tech/1312089.htm) | Sat Sep 03 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一说到苍蝇，绝大多数人的第一反应就是脏、不卫生、害虫……虽然苍蝇“人人喊打”，但它也有有趣的一面：有时候苍蝇会把自己的脑袋扯下来玩；苍蝇经常会飞着飞着，然后停下来，开始搓手；看到这里，大家都有一个这样的疑问：为什么苍蝇会有这些奇怪的行为？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大众汽车周六表示，公司领导层将在周一召开会议，探讨旗下保时捷品牌计划中的公开上市。该公司在公告中称，已进行了IPO的可行性研究，管理委员会和监事会将在周一的多个会议上讨论是否应该“在2022年9月底/10月初寻求”IPO。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
