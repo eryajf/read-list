@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [死亡谷气温高达52.7度 创造了地球九月份单日最热新纪录](https://www.cnbeta.com/articles/tech/1312067.htm) | Sat Sep 03 2022 12:16 PM 
+- 🕯 [科学家发现太阳钟可提前几年预测危险的太阳耀斑](https://www.cnbeta.com/articles/science/1312075.htm) | Sat Sep 03 2022 1:06 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;自从人类在大约400年前第一次注意到太阳黑子以来，我们一直试图用太阳黑子来定义太阳周期。太阳活动，包括太阳黑子和太阳耀斑，大约每11年起伏一次，改变地球的天气模式，有时对通信构成危害。&lt;strong&gt;如果能准确预测这些变化，从农民到军队都会受益。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [SpaceX在德克萨斯州投资4300万美元建设新厂房](https://www.cnbeta.com/articles/tech/1312073.htm) | Sat Sep 03 2022 12:56 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;太空探索技术公司（SpaceX）正计划在德克萨斯州建立一个大型设施&lt;/strong&gt;，因为它在该州加大了对星际飞船下一代运载火箭平台的测试力度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [剧集《指环王：力量之戒》开播 观众口碑血崩](https://hot.cnbeta.com/articles/movie/1312071.htm) | Sat Sep 03 2022 12:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;亚马逊斥巨资打造的《指环王》剧版《指环王：力量之戒》第一季9月2日正式开播，已放出前两集，观众评分也开了。目前，该剧前两集IMDb均分分别为7.2和6.9，烂番茄新鲜度84%，但爆米花指数仅有34%，MTC用户均分仅2.1分，观众口碑极差。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [因对SETI贡献而闻名的天文学家弗兰克德雷克去世](https://www.cnbeta.com/articles/science/1312069.htm) | Sat Sep 03 2022 12:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;周五，天文学家弗兰克-德雷克的家人宣布，他在加州的家中安然离世，享年92岁&lt;/strong&gt;，离他在加州大学圣克鲁兹分校的最后学术职位所在地很近。德雷克对射电天文学做出了许多贡献，包括担任阿雷西博射电望远镜设施的主任。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [死亡谷气温高达52.7度 创造了地球九月份单日最热新纪录](https://www.cnbeta.com/articles/tech/1312067.htm) | Sat Sep 03 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;整个洛杉矶地区都很热，但以热而得名的死亡谷又有多热呢？这个以地球上最热的地方之一而闻名的国家公园在星期四又创造了地球上九月份单日最热气温新纪录，局部地区气温达到127华氏度&lpar;52.77摄氏度&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [只靠太阳就能飞 我国“启明星50”临近空间长航时大型无人机首飞成功](https://www.cnbeta.com/articles/tech/1312065.htm) | Sat Sep 03 2022 12:08 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据航空工业官微消息，“启明星50”大型太阳能无人机于今日17时50分起飞，空中飞行26分钟，于18时16分平稳着陆，顺利完成首飞任务，飞机状态良好，各系统运行正常，首飞圆满成功！该机是航空工业研制的首款超大展弦比高空低速无人机，首次采用“双机身”布局的大型无人机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [华为Mate50系列爆料汇总 硬刚苹果是真有实力还是口嗨？](https://www.cnbeta.com/articles/tech/1312063.htm) | Sat Sep 03 2022 12:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为手机圈的两大顶流，华为将在9月6月举行Mate50系列及全场景新品秋季发布会，而在9月8日苹果举办秋季发布会，带来全新的iPhone14系列。两家发布时间非常微妙，大有一较高下的意思，不得不说在华为制裁后，没有5G的情况下，还敢与苹果硬碰硬，除了华为也没有其他厂商敢这么硬刚了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [剧版《指环王》开播 “审美降级”一词冲上热搜](https://hot.cnbeta.com/articles/movie/1312061.htm) | Sat Sep 03 2022 12:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《指环王：力量之戒》已于今日开播，目前该剧烂番茄新鲜指数为84%，MC为71分，但似乎是因为角色颜值问题，关于该剧的话题“审美降级”登上了微博热搜。网友表示这都不只是审美降级了，直接是没有审美；好似和半兽人混血了；还有人表示身姿、体型就比不上电影版角色。各位看过的朋友觉得该剧的选角如何呢？&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312061.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [四川瓦屋山现“功夫熊猫”：倒立“方便”被逮个正着](https://www.cnbeta.com/articles/tech/1312059.htm) | Sat Sep 03 2022 12:05 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;记者日前从眉山市洪雅县委宣传部获悉，大熊猫国家公园眉山片区天空地一体化监测平台管理员，收到一条实时传输回来的野生大熊猫“倒立撒尿”的视频。视频中，这只大熊猫倒立着在树干上撒尿，像极了“功夫熊猫”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
