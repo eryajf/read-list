@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [浓缩、过滤、柱塞、摩卡、速溶和冷萃，咖啡怎么冲最…给力？](http://jandan.net/p/111226) | Fri Sep 02 2022 4:13 PM 
+- 🚀 [性满意度和哪些要素相关？宗教，学历……英国第三次全国性态度和生活方式调查](http://jandan.net/p/111252) | Sat Sep 03 2022 3:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    受过高等教育的人报告说性生活频率较低，性生活满意度也较低。 
+    </details> 
+
+- 🙉 [相对高16%：A型血的人在60岁之前遭遇中风的可能性高于其它血型](http://jandan.net/p/111280) | Sat Sep 03 2022 2:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    因为早发性中风的发病率本身就很小，所以A型血人群中风的额外风险整体仍很小，不需要额外筛查 
+    </details> 
+
+- 🎉 [今日好价 0903](http://jandan.net/p/111281) | Sat Sep 03 2022 2:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
+    </details> 
+
+- 🐲 [浓缩、过滤、柱塞、摩卡、速溶和冷萃，咖啡怎么冲最…给力？](http://jandan.net/p/111226) | Fri Sep 02 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
     给力，有点年代感的词 
     </details> 
 
-- 🙉 [一些地狱笑话&lpar;4&rpar;](http://jandan.net/p/111275) | Fri Sep 02 2022 8:19 AM 
+-  [一些地狱笑话&lpar;4&rpar;](http://jandan.net/p/111275) | Fri Sep 02 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
     经过精心挑选和净化 
-    </details> 
-
-- 🎉 [吸引或排斥 超冷水的分子形成了在拓扑结构上截然不同的两种长链](http://jandan.net/p/111198) | Fri Sep 02 2022 5:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    新模型 提出了基于网络纠缠态的液-液相变观点 
-    </details> 
-
-- 🐲 [葡萄牙挖出了欧洲有记录以来最大的恐龙化石](http://jandan.net/p/111236) | Fri Sep 02 2022 5:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    5年前，一位业主正在挖开他的花园为扩建打下地基……地下源源不断化石碎片一直挖到了今年8月，新房遥遥无期 
-    </details> 
-
--  [今日好价 0902](http://jandan.net/p/111270) | Fri Sep 02 2022 3:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    十六年过去，弹指一挥间。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
