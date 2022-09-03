@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [物理学上的突破可以引领到更新更高效的量子计算机](http://jandan.net/p/111285) | Sat Sep 03 2022 12:29 PM 
+- 🚀 [让智能手机在水下通信 以声音为信道传输文字短信的APP](http://jandan.net/p/111284) | Sat Sep 03 2022 12:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    潜水爱好者的福音？ 
+    </details> 
+
+- 🙉 [意大利和德国的研究人员发表了将神经形态学应用到机器人上的方法](http://jandan.net/p/111286) | Sat Sep 03 2022 12:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    英特尔&lpar;Intel&rpar;的Loihi芯片能驱动更聪明的机器人 
+    </details> 
+
+- 🎉 [物理学上的突破可以引领到更新更高效的量子计算机](http://jandan.net/p/111285) | Sat Sep 03 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
     每次以一个光子，就能解决科学，技术，工程和数学上最困难的问题 
     </details> 
 
-- 🙉 [性满意度和哪些要素相关？宗教，学历……英国第三次全国性态度和生活方式调查](http://jandan.net/p/111252) | Sat Sep 03 2022 3:39 AM 
+- 🐲 [性满意度和哪些要素相关？宗教，学历……英国第三次全国性态度和生活方式调查](http://jandan.net/p/111252) | Sat Sep 03 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
     受过高等教育的人报告说性生活频率较低，性生活满意度也较低。 
     </details> 
 
-- 🎉 [相对高16%：A型血的人在60岁之前遭遇中风的可能性高于其它血型](http://jandan.net/p/111280) | Sat Sep 03 2022 2:43 AM 
+-  [相对高16%：A型血的人在60岁之前遭遇中风的可能性高于其它血型](http://jandan.net/p/111280) | Sat Sep 03 2022 2:43 AM 
     <details><summary>展开描述 ...</summary> 
     因为早发性中风的发病率本身就很小，所以A型血人群中风的额外风险整体仍很小，不需要额外筛查 
-    </details> 
-
-- 🐲 [今日好价 0903](http://jandan.net/p/111281) | Sat Sep 03 2022 2:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
-    </details> 
-
--  [浓缩、过滤、柱塞、摩卡、速溶和冷萃，咖啡怎么冲最…给力？](http://jandan.net/p/111226) | Fri Sep 02 2022 4:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    给力，有点年代感的词 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
