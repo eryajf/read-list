@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一图看懂USB 3.X、USB4与雷电4区别](https://www.cnbeta.com/articles/tech/1312049.htm) | Sat Sep 03 2022 9:51 AM 
+- 🕯 [Google Chrome 106 Beta推送中 增加顶层弹出式API](https://www.cnbeta.com/articles/tech/1312055.htm) | Sat Sep 03 2022 10:57 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;继本周发布Chrome 105之后，Google已将Chrome 106推广到Beta频道。与Chrome 105相比，Chrome 106测试版带来了许多增量改进，包括如下变化：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为一个原点试验，一个弹出式API被引入，用于构建瞬时的用户界面元素，显示在其他网络应用程序界面元素之上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [出租车短缺 俄罗斯巨头求助北汽、奇瑞等中国车企](https://www.cnbeta.com/articles/tech/1312053.htm) | Sat Sep 03 2022 10:51 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月3日消息，据俄罗斯卫星通讯社，俄罗斯Yandex公司请求中国汽车制造商&lt;strong&gt;北汽集团和奇瑞&lt;/strong&gt;以及俄罗斯本土车企伏尔加、白俄罗斯车企Unison为与Yandex.Taxi合作的租赁公司提供车辆，租约完成后，出租车公司将接收汽车变为自家资产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [AMD锐龙7000全力押注 DDR5内存价格明年降至DDR4水平](https://www.cnbeta.com/articles/tech/1312051.htm) | Sat Sep 03 2022 10:50 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;去年Intel的12代酷睿首发了DDR5内存支持，但同时也兼容DDR4内存，很快还会有13代酷睿上市，前不久AMD发布的锐龙7000也加入了DDR5阵营，坚决地放弃了DDR4内存，两家的新品会陆续在9月到10月上市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [一图看懂USB 3.X、USB4与雷电4区别](https://www.cnbeta.com/articles/tech/1312049.htm) | Sat Sep 03 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;前几天USB-IF组织又宣布推出了USB4 2.0规范，这是USB4规范的升级版，主要是新增了80Gbps的有源线缆标准，速度翻倍，是当前接口最快的标准了。算上USB4 2.0，再加上已有的USB 1.1到USB4，还有雷电接口，目前大家能看到的USB类型的接口至少有六七种了，每个标准的速度及物理接口都是不一样的，该如何区分？这让很多人都头痛。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [利用谣言进行恶意营销炒作的账号主体将被纳入黑名单管理](https://www.cnbeta.com/articles/tech/1312047.htm) | Sat Sep 03 2022 9:50 AM 
+- 🎊 [利用谣言进行恶意营销炒作的账号主体将被纳入黑名单管理](https://www.cnbeta.com/articles/tech/1312047.htm) | Sat Sep 03 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月3日消息，昨日，中央网信办下发通知，即日起在全国范围内启动为期3个月的“清朗·打击网络谣言和虚假信息”专项行动，明确对首发恶劣谣言、多次传播谣言、利用谣言进行恶意营销炒作的账号主体纳入黑名单管理，情节特别严重的全网禁止注册新账号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [河北一学校门口开设“免费碎手机”摊位 称家长已同意](https://hot.cnbeta.com/articles/funny/1312045.htm) | Sat Sep 03 2022 9:50 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;学生在学校上课应不应该带手机?学生的手机如何处理?河北秦皇岛一学校的做法引发了网络热议，该校在校门口摆桌子“免费碎手机”。据巨浪视频报道，9月3日，河北秦皇岛。一学校在门口摆桌子贴“免费碎手机”标识，并在桌子上放锤子，引发网友争议。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1312045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Xbox工作室总监：《极限竞速8》将重设赛车模拟高标准](https://hot.cnbeta.com/articles/game/1312043.htm) | Sat Sep 03 2022 9:49 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Xbox 游戏工作室负责人Matt Booty 在近日上线的 Xbox 官方播客的一集中对《极限竞速8》高度赞扬。他说道：“我们刚刚对《极限竞速8》进行了非常全面的审查。它实在太棒了。它将再次为模拟和竞技赛车游戏重新设立高标准。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [爆料称任天堂正在开发2D《超级马里奥》新作](https://hot.cnbeta.com/articles/game/1312041.htm) | Sat Sep 03 2022 9:48 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2D马里奥游戏已经很久没出新作了，除非把《超级马里奥制造》算上。上次任天堂推出2D正统马里奥游戏还是2012年的《新超级马里奥兄弟U》。现在十年过去了，喜欢2D马里奥的玩家都想知道任天堂对这方面究竟有没有计划，而现在看来，答案很可能就要有了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
