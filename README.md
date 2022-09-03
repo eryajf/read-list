@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [皮蛋漫游播客 | Tesla vs 问界，和少数派老麦换车开一周](https://sspai.com/post/75508) | Sat Sep 03 2022 2:31 AM 
+- 👹 [无缝播放：被数字音乐「弄丢」的专辑之美](https://sspai.com/post/75517) | Sat Sep 03 2022 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    无缝播放不是不被需要，而是在这样完整听过一张专辑之前，你都没有意识到你需要。&lt;a href=&quot;https://sspai.com/post/75517&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [皮蛋漫游播客 | Tesla vs 问界，和少数派老麦换车开一周](https://sspai.com/post/75508) | Sat Sep 03 2022 2:31 AM 
     <details><summary>展开描述 ...</summary> 
     好好聊聊新手司机从选车、用车到换车的全方位感受。&lt;a href=&quot;https://sspai.com/post/75508&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75511) | Fri Sep 02 2022 10:15 AM 
+- 🤭 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75511) | Fri Sep 02 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[美剧]指环王：力量之戒第一季、[动画]JOJO的奇妙冒险石之海第二部分、[电影]DC萌宠特遣队、[英剧]真相捕捉第二季、[印度]德里罪案第二季、[电影]阿尔卡拉斯几则精彩 ...&lt;a href=&quot;https://sspai.com/post/75511&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派周报：十年 Medium 途](https://sspai.com/prime/story/pi-weekly-007) | Fri Sep 02 2022 9:29 AM 
+- 🥸 [派周报：十年 Medium 途](https://sspai.com/prime/story/pi-weekly-007) | Fri Sep 02 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
     &lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-007&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [如果你也想购买一台问界，我想和你分享这些](https://sspai.com/post/75504) | Fri Sep 02 2022 8:00 AM 
+- 🙉 [如果你也想购买一台问界，我想和你分享这些](https://sspai.com/post/75504) | Fri Sep 02 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75504&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [具透 | 功能小更新，体验大升级：iOS 16 的新版专注模式有何变化](https://sspai.com/post/75499) | Fri Sep 02 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    iOS 16 希望更多人学会善用专注模式，能在生活中少一些手机焦虑。&lt;a href=&quot;https://sspai.com/post/75499&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
