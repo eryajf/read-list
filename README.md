@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [数据分析大作战，SQL V.S. Python，来看看这些考题你都会吗 ⛵](https://juejin.cn/post/7138982248564391950) | Sat Sep 03 2022 3:00 AM 
+- 🤗 [记一个“奇葩”需求的实现](https://juejin.cn/post/7139013517130088484) | Sat Sep 03 2022 4:59 AM 
     <details><summary>展开描述 ...</summary> 
-    SQL与Pandas都可以完成大部分数据分析需求。本文用SQL与Pands逐一实现10类核心数据分析需求，轻松进行对比学习：数据选择、限制、统计计数、排序、新字段生成、数据选择、数据分组、统计均值等 
+    本文记录一下魔改 &#39;element-ui&#39; 导航菜单的经历，抓住UI框架组件设计的三要素：属性、事件、方法，了解框架组件背后的工作原理，轻松实现UI想要的界面交互。 
     </details> 
 
-- 🎡 [云原生架构之Spring Cloud+Kubernetes配置中心方案](https://juejin.cn/post/7138981045130493966) | Sat Sep 03 2022 2:53 AM 
+- 🎡 [【vue3】使用自定义指令，实现el-dialog的拖拽功能。](https://juejin.cn/post/7139005328724590600) | Sat Sep 03 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
-    利用Kubernetes原生configmap/secret 资源作为配置中心，不用关注服务可用性，即网络问题，同时也不用引入新的组建，造成运维成本。 
+    实现el-dialog的拖拽功能，我知道可以通过设置属性的方式实现。只是我一开始用的使用没有哇，写了又不想放弃，然后还的跟着维护和升级。。。 
     </details> 
 
-- 🕯 [云原生架构之配置中心-总述](https://juejin.cn/post/7138979347817299975) | Sat Sep 03 2022 2:46 AM 
+- 🕯 [软件复杂性的来源与应对](https://juejin.cn/post/7139004026246889486) | Sat Sep 03 2022 4:22 AM 
     <details><summary>展开描述 ...</summary> 
-    传统的静态配置方式要想修改某个配置只能修改之后重新发布应用，要实现动态性，可以选择使用数据库，通过定时轮询访问数据库来感知配置的变化。轮询频率低感知配置变化的延时就长，轮询频率高，感知配置变化的延时就 
+    架构并非镜花水月或阳春白雪，有系统的地方就需要架构，大到航空飞机，小到一个电商系统里面的一个功能组件，都需要设计和架构。 
     </details> 
 
-- 🚀 [云原生架构之Springboot Gateway+K8s 服务注册发现方案&lpar;南北流量&rpar;](https://juejin.cn/post/7138977379229106190) | Sat Sep 03 2022 2:38 AM 
+- 🚀 [如何在 JavaScript 中更好的使用条件判断？](https://juejin.cn/post/7138991223323164708) | Sat Sep 03 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-    springboot gateway 服务利用spring cloud kubernetes进行调用K8s API获取service服务发现，进行路由转发。 
+    本文花费很短的时间来介绍一下在 JavaScript 中如何编写更简单的条件判断，帮助你编写更简洁的代码和可读性更高的代码。 
     </details> 
 
-- 💪 [云原生架构之SpringCloudKubernetes 服务注册发现方案&lpar;东西流量&rpar;](https://juejin.cn/post/7138976400794943501) | Sat Sep 03 2022 2:34 AM 
+- 💪 [【Java面试】并发编程实战（线程控制操作详解）](https://juejin.cn/post/7138815129382027301) | Fri Sep 02 2022 4:10 PM 
     <details><summary>展开描述 ...</summary> 
-    通常将spring cloud应用上K8s集群，使用spring cloud kubernetes，服务注册依旧为使用k8s服务注册，服务发现利用其discover可以通过K8s api发现一个服务后 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。​ 前言 在使用Java实际编程中，多线程可以说是无所不在，凡是需要并发执行的都可以用到它，一个应用程序中不用多线程将会是很糟糕的事情，所以掌握线程 
     </details> 
 <!-- juejin:END -->
 ### 少数派
