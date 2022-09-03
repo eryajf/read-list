@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么是SVG？——SVG快速入门](https://juejin.cn/post/7139099067023360037) | Sat Sep 03 2022 10:32 AM 
+- 🤗 [Java枚举你真的会用吗](https://juejin.cn/post/7139141170743607326) | Sat Sep 03 2022 1:15 PM 
+    <details><summary>展开描述 ...</summary> 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情” 概述 Java中枚举，大家在项目中经常使用吧，主要用来定义一些固定值，在一个有限的集合内，比如在表示一周的某一天 
+    </details> 
+
+- 🎡 [ECCV 2022 | k-means Mask Transformer](https://juejin.cn/post/7139133545796075550) | Sat Sep 03 2022 12:46 PM 
+    <details><summary>展开描述 ...</summary> 
+    在本文中，作者重新思考像素和对象查询之间的关系，并提出将交叉注意学习重新定义为一个聚类过程。受传统k-means聚类算法的启发，开发了一种用于分割任务的k-means Mask Xformer。 
+    </details> 
+
+- 🕯 [软考高级《系统架构设计师》-- 刷题-01](https://juejin.cn/post/7139133200768434190) | Sat Sep 03 2022 12:43 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 今天是 2022年9月2日，距离软考高级的时间很近了。浙江省的报名时间是9月5日-9月9日。 且今年报名浙江省的考点，可能需要本省份的社保相关证明。 这就意味着，疫情防控下，尽量控制考生流动。  
+    </details> 
+
+- 🚀 [什么是SVG？——SVG快速入门](https://juejin.cn/post/7139099067023360037) | Sat Sep 03 2022 10:32 AM 
     <details><summary>展开描述 ...</summary> 
     本文是SVG的快速入门，介绍了如何在HTML中使用以及绘制形状和文本的标签，看完就能在页面上画图形啦~ 
     </details> 
 
-- 🎡 [【Electron】vue+electron实现无边框窗口](https://juejin.cn/post/7139096841257222181) | Sat Sep 03 2022 10:23 AM 
+- 💪 [【Electron】vue+electron实现无边框窗口](https://juejin.cn/post/7139096841257222181) | Sat Sep 03 2022 10:23 AM 
     <details><summary>展开描述 ...</summary> 
     我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情 一、前言 无边框窗口是不带外壳（包括窗口边框、工具栏等），只含有网页内容的窗口。对于一个产品来讲，桌面应用带边框的很 
-    </details> 
-
-- 🕯 [第119期：机电工程测量](https://juejin.cn/post/7139092482486173703) | Sat Sep 03 2022 10:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    这里记录工作中遇到的技术点，以及自己对生活的一些思考，周三或周五发布。 封面图 机电工程常用测量仪器 水准仪 水准仪是主要测量标高和高程的仪器。 按结构可分为：微倾水准仪，自动安平水准仪，激光水准仪， 
-    </details> 
-
-- 🚀 [9、Dubbo源码系列-集群容错策略](https://juejin.cn/post/7139091378801213476) | Sat Sep 03 2022 10:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    读书求学不宜懒，天地日月比人忙。周末了，大家在放松的时候，如果还有精力的话，不妨和我一起学习下Dubbo源码，本文就带着大家一起看下Dubbo的集群容错模式 
-    </details> 
-
-- 💪 [KeepAlive在路由中的应用——保存页面状态](https://juejin.cn/post/7139090134695149604) | Sat Sep 03 2022 9:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    折返时需还原页面状态，你还在通过手动方式控制吗？大可不必，通过VueRouter与KeepAlive的巧妙结合，我们可以快速实现页面缓存功能而几乎不用更改原有代码，开发体验用户体验均有不错表现。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
