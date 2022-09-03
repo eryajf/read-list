@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [记一个“奇葩”需求的实现](https://juejin.cn/post/7139013517130088484) | Sat Sep 03 2022 4:59 AM 
+- 🤗 [卧槽！GitHub排行榜即将下线；酷炫的Python热重载工具；开发者体验·电子书；C++最佳实践合辑；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7139023534449229855) | Sat Sep 03 2022 5:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    ShowMeAI资讯日报 09-03 期，三维人体参数模型库、Lhotse下一代Kaldi语音处理库、Zed 更简单的数据操作方式、TorToiSe 文本转语音程序、前沿论文… 
+    </details> 
+
+- 🎡 [646. 最长数对链 : 常规贪心 DP 运用题](https://juejin.cn/post/7139022695752007694) | Sat Sep 03 2022 5:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 646. 最长数对链 ，难度为 中等。 Tag : 「贪心」、「排序」、「二分」、「序列 DP」、「LIS」 给出 n 个数对。 在每一个数对中，第一个数字总是 
+    </details> 
+
+- 🕯 [记一个“奇葩”需求的实现](https://juejin.cn/post/7139013517130088484) | Sat Sep 03 2022 4:59 AM 
     <details><summary>展开描述 ...</summary> 
     本文记录一下魔改 &#39;element-ui&#39; 导航菜单的经历，抓住UI框架组件设计的三要素：属性、事件、方法，了解框架组件背后的工作原理，轻松实现UI想要的界面交互。 
     </details> 
 
-- 🎡 [【vue3】使用自定义指令，实现el-dialog的拖拽功能。](https://juejin.cn/post/7139005328724590600) | Sat Sep 03 2022 4:28 AM 
+- 🚀 [微服务框架 go-zero 快速实战](https://juejin.cn/post/7138960256054345741) | Sat Sep 03 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-    实现el-dialog的拖拽功能，我知道可以通过设置属性的方式实现。只是我一开始用的使用没有哇，写了又不想放弃，然后还的跟着维护和升级。。。 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情 对于咱们快速了解和将 go-zero 使用起来，我们需要具备如下能力： 基本的环境安装和看文档的能力 Golang 
     </details> 
 
-- 🕯 [软件复杂性的来源与应对](https://juejin.cn/post/7139004026246889486) | Sat Sep 03 2022 4:22 AM 
+- 💪 [MySQL的常用优化方案](https://juejin.cn/post/7138954497555955748) | Sat Sep 03 2022 1:10 AM 
     <details><summary>展开描述 ...</summary> 
-    架构并非镜花水月或阳春白雪，有系统的地方就需要架构，大到航空飞机，小到一个电商系统里面的一个功能组件，都需要设计和架构。 
-    </details> 
-
-- 🚀 [如何在 JavaScript 中更好的使用条件判断？](https://juejin.cn/post/7138991223323164708) | Sat Sep 03 2022 3:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文花费很短的时间来介绍一下在 JavaScript 中如何编写更简单的条件判断，帮助你编写更简洁的代码和可读性更高的代码。 
-    </details> 
-
-- 💪 [【Java面试】并发编程实战（线程控制操作详解）](https://juejin.cn/post/7138815129382027301) | Fri Sep 02 2022 4:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。​ 前言 在使用Java实际编程中，多线程可以说是无所不在，凡是需要并发执行的都可以用到它，一个应用程序中不用多线程将会是很糟糕的事情，所以掌握线程 
+    概述： 我们知道， MySQL DB 的数据是存放在磁盘上的，其读写速度无法和存放在内存中的 redis 相比，当 MySQL 记录数过大时，增删改查时系统的吞吐量会非常的大，数据增删改查的性能会急剧 
     </details> 
 <!-- juejin:END -->
 ### 少数派
