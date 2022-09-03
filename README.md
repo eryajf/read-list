@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [云原生架构之服务发现与注册-总述](https://juejin.cn/post/7138963377896587301) | Sat Sep 03 2022 1:44 AM 
+- 🤗 [数据分析大作战，SQL V.S. Python，来看看这些考题你都会吗 ⛵](https://juejin.cn/post/7138982248564391950) | Sat Sep 03 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情” 一 服务注册与发现 1.1 服务发现概述 在微服务架构中，由于服务众多且单个服务具有多个实例，同时部署在Kube 
+    SQL与Pandas都可以完成大部分数据分析需求。本文用SQL与Pands逐一实现10类核心数据分析需求，轻松进行对比学习：数据选择、限制、统计计数、排序、新字段生成、数据选择、数据分组、统计均值等 
     </details> 
 
-- 🎡 [Three.js 这样写就有阴影效果啦](https://juejin.cn/post/7138818407666810888) | Fri Sep 02 2022 4:23 PM 
+- 🎡 [云原生架构之Spring Cloud+Kubernetes配置中心方案](https://juejin.cn/post/7138981045130493966) | Sat Sep 03 2022 2:53 AM 
     <details><summary>展开描述 ...</summary> 
-    渲染阴影效果需要消耗一定的资源，所以 Three.js 默认是关闭阴影效果的。 想要在 Three.js 中实现阴影效果，只需记住本文要讲的几个点即可。 
+    利用Kubernetes原生configmap/secret 资源作为配置中心，不用关注服务可用性，即网络问题，同时也不用引入新的组建，造成运维成本。 
     </details> 
 
-- 🕯 [第118期：机电工程常见工程设备](https://juejin.cn/post/7138801922055602190) | Fri Sep 02 2022 3:19 PM 
+- 🕯 [云原生架构之配置中心-总述](https://juejin.cn/post/7138979347817299975) | Sat Sep 03 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
-    通用机械设备简介 泵 （1）泵的分类： 按泵作用于液体的原理可以将泵分为：叶片式 和 容积式两大类。 叶片式泵是由泵内的叶片在旋转时产生的离心力作用将液体吸入和压出。 容积式泵式由泵的活塞或转子在往复 
+    传统的静态配置方式要想修改某个配置只能修改之后重新发布应用，要实现动态性，可以选择使用数据库，通过定时轮询访问数据库来感知配置的变化。轮询频率低感知配置变化的延时就长，轮询频率高，感知配置变化的延时就 
     </details> 
 
-- 🚀 [顺时针打印矩阵](https://juejin.cn/post/7138795873730985992) | Fri Sep 02 2022 2:55 PM 
+- 🚀 [云原生架构之Springboot Gateway+K8s 服务注册发现方案&lpar;南北流量&rpar;](https://juejin.cn/post/7138977379229106190) | Sat Sep 03 2022 2:38 AM 
     <details><summary>展开描述 ...</summary> 
-    有一个矩阵，如何按照从外向里以顺时针的顺序依次打印出每一个元素？本文将跟大家分享下这个算法，欢迎各位感兴趣的开发者阅读本文。 
+    springboot gateway 服务利用spring cloud kubernetes进行调用K8s API获取service服务发现，进行路由转发。 
     </details> 
 
-- 💪 [hel-micro 模块联邦新革命](https://juejin.cn/post/7138792768234586148) | Fri Sep 02 2022 2:42 PM 
+- 💪 [云原生架构之SpringCloudKubernetes 服务注册发现方案&lpar;东西流量&rpar;](https://juejin.cn/post/7138976400794943501) | Sat Sep 03 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要阐述模块联邦sdk化的深远意义和其核心实现原理，并介绍hel-micro在司内的围绕平台、生态和相关实践的各种建设，帮助更多同事以极低的代价跨入模块联邦时代。 
+    通常将spring cloud应用上K8s集群，使用spring cloud kubernetes，服务注册依旧为使用k8s服务注册，服务发现利用其discover可以通过K8s api发现一个服务后 
     </details> 
 <!-- juejin:END -->
 ### 少数派
