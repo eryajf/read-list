@@ -365,7 +365,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [Authy 定期验证密码,导致 Bitwarden 无法登录（已邮箱找回）](https://www.v2ex.com/t/877545#reply0) | Sat Sep 03 2022 5:17 PM
-- 🤗 [如何对 GOPRIVATE 私有仓库使用代理的问题](https://www.v2ex.com/t/877543#reply0) | Sat Sep 03 2022 3:59 PM
+- 🤗 [如何对 GOPRIVATE 私有仓库使用代理的问题](https://www.v2ex.com/t/877543#reply1) | Sat Sep 03 2022 3:59 PM
 - 🎭 [Redis 事务是不是没什么用？如果在生产环境中用到了，请举例说明场景。](https://www.v2ex.com/t/877542#reply4) | Sat Sep 03 2022 3:54 PM
 - 🥷 [Google 搜索开始放弃分页展示了](https://www.v2ex.com/t/877528#reply8) | Sat Sep 03 2022 1:54 PM
 - 🐵 [自动化抓取 stackoverflow 问题列表](https://www.v2ex.com/t/877526#reply8) | Sat Sep 03 2022 1:50 PM<!-- v2ex:END -->
