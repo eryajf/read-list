@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vue、uni-app（H5、App）引入Jquery配置教程](https://juejin.cn/post/7139082121645129741) | Sat Sep 03 2022 9:26 AM 
+- 🤗 [什么是SVG？——SVG快速入门](https://juejin.cn/post/7139099067023360037) | Sat Sep 03 2022 10:32 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue配置Jquery 安装Jquery main.js中引入jquery，供全局使用 在页面中使用，运行如下代码 ，在控制台就可以查看引入结果 uni-app配置Jquery h5模式 uni-ap 
+    本文是SVG的快速入门，介绍了如何在HTML中使用以及绘制形状和文本的标签，看完就能在页面上画图形啦~ 
     </details> 
 
-- 🎡 [组装个支持记笔记的CodePen](https://juejin.cn/post/7139078328597610509) | Sat Sep 03 2022 9:11 AM 
+- 🎡 [【Electron】vue+electron实现无边框窗口](https://juejin.cn/post/7139096841257222181) | Sat Sep 03 2022 10:23 AM 
     <details><summary>展开描述 ...</summary> 
-    大部分朋友都用过在线编码平台，高级一点的CodeSandbox、stackblitz，简洁点的如CodePen，码上掘金。但这些都只包含了写代码部分，缺少记笔记的面板，本文就组装个支持记笔记的。 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情 一、前言 无边框窗口是不带外壳（包括窗口边框、工具栏等），只含有网页内容的窗口。对于一个产品来讲，桌面应用带边框的很 
     </details> 
 
-- 🕯 [css 的content是什么，有什么作用？](https://juejin.cn/post/7139053612033900552) | Sat Sep 03 2022 7:34 AM 
+- 🕯 [第119期：机电工程测量](https://juejin.cn/post/7139092482486173703) | Sat Sep 03 2022 10:05 AM 
     <details><summary>展开描述 ...</summary> 
-    1.content是什么？ 定义：content属性早在CSS2.1的时候就被引入了,可以使用:before以及:after伪元素生成内容。此特性目前已被所有主流浏览器支持。在CSS 3 Genera 
+    这里记录工作中遇到的技术点，以及自己对生活的一些思考，周三或周五发布。 封面图 机电工程常用测量仪器 水准仪 水准仪是主要测量标高和高程的仪器。 按结构可分为：微倾水准仪，自动安平水准仪，激光水准仪， 
     </details> 
 
-- 🚀 [升级到 React Router6 看这一篇就够了](https://juejin.cn/post/7139053246730993701) | Sat Sep 03 2022 7:34 AM 
+- 🚀 [9、Dubbo源码系列-集群容错策略](https://juejin.cn/post/7139091378801213476) | Sat Sep 03 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
-    React Router 是当前位置或 URL 的状态容器。它跟踪位置并在其更改时呈现不同的 。看了好多写的升级文章要么不全，要么是原文直译过来的，拗口不易理解，难受的不行，于是决定自己写。 一 
+    读书求学不宜懒，天地日月比人忙。周末了，大家在放松的时候，如果还有精力的话，不妨和我一起学习下Dubbo源码，本文就带着大家一起看下Dubbo的集群容错模式 
     </details> 
 
-- 💪 [就这一篇！mybatis原理及整合spring原理](https://juejin.cn/post/7139052076599869448) | Sat Sep 03 2022 7:29 AM 
+- 💪 [KeepAlive在路由中的应用——保存页面状态](https://juejin.cn/post/7139090134695149604) | Sat Sep 03 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    从mybatis原理到整合sping原理 简单易懂 整合spring那部分需要一点spring的基础 水平有限 有错误欢迎指出 
+    折返时需还原页面状态，你还在通过手动方式控制吗？大可不必，通过VueRouter与KeepAlive的巧妙结合，我们可以快速实现页面缓存功能而几乎不用更改原有代码，开发体验用户体验均有不错表现。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
