@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [1582. 二进制矩阵中的特殊位置 : 简单模拟题](https://juejin.cn/post/7139332331692621861) | Sun Sep 04 2022 1:36 AM 
+- 🤗 [what???日本大蒜销量激增；剑桥大学『机器学习与贝叶斯推理』最新课程；黑客工具速查清单；图片隐形水印添加工具；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7139370055262814245) | Sun Sep 04 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 1582. 二进制矩阵中的特殊位置 ，难度为 简单。 Tag : 「模拟」 给你一个大小为 rows x cols 的矩阵 mat，其中 mat[i][j] 是 
+    ShowMeAI资讯日报09-04期，为图片添加隐形水印的Python库、对非结构化数据进行分析的ML平台、帮助计算机理解单词含义的语义网络、超快的神经搜索引擎、跨平台网络下载/上传管理器、联邦学习… 
     </details> 
 
-- 🎡 [Spring源码分析&lpar;七&rpar;扩展接口BeanPostProcessors源码分析](https://juejin.cn/post/7139331530265985038) | Sun Sep 04 2022 1:33 AM 
+- 🎡 [深入理解计算机系统（3.8）------数组分配和访问](https://juejin.cn/post/7139357072893689864) | Sun Sep 04 2022 3:12 AM 
     <details><summary>展开描述 ...</summary> 
-    BeanPostProcessors在spring中是一个非常重要的扩展接口，它使得我们可以在创建bean实例的 
+    上一篇博客我们讲解了汇编语言中过程（函数）的调用实现。理解数据如何在调用者和被调用者之间传递，以及在被调用者当中局部变量内存的分配以及释放是最重要的。那么这篇博客我们将讲解数组的分配和访问。 1、数组 
     </details> 
 
-- 🕯 [Spring源码14-DispatcherServlet初始化](https://juejin.cn/post/7139330939489878029) | Sun Sep 04 2022 1:30 AM 
+- 🕯 [docker 搭建ELK Stack](https://juejin.cn/post/7139169392301965349) | Sat Sep 03 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
-    DispatcherServlet继承图，以及初始化init方法，九大核心组件的初始化&lpar;默认组件初始化路径&rpar; 
+    公司日志一直都散落在各个服务器中，随着微服务慢慢铺开，业务日志的追踪成了一个很大的问题。发生错误时，还是采用最原始的方式去服务器上看日志，效率低下。定位问题很慢，采用统一日志搜集平台进行分析 
     </details> 
 
-- 🚀 [神奇的Compose - 性能监控篇](https://juejin.cn/post/7139328582836289566) | Sun Sep 04 2022 1:23 AM 
+- 🚀 [iOS探索RxSwift核心续](https://juejin.cn/post/7139166554926628878) | Sat Sep 03 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
-    compiler-metrics，属于compose的专属监控！怎么判断你的composable函数写的好不好，用它就对了 
+    一、RxSwift核心 1、observable订阅流程 RxObservable继承链： Producer:Observable &gt; subscribe &gt; currentThreadSchedul 
     </details> 
 
-- 💪 [mysql查询 limit 1000,10 和limit 10 速度一样快吗？如果我要分页，我该怎么办？](https://juejin.cn/post/7139327346846203917) | Sun Sep 04 2022 1:19 AM 
+- 💪 [范文杰大佬对我的1V1应届生前端就业指导](https://juejin.cn/post/7139158428785737758) | Sat Sep 03 2022 2:21 PM 
     <details><summary>展开描述 ...</summary> 
-    刷网站的时候，我们经常会遇到需要分页查询的场景。 比如下图红框里的翻页功能。 我们很容易能联想到可以用mysql实现。 
+    掘金会员商城 -&gt;兑换 1v1求职辅导😍 作为一名大四应届生，在今年难求职的一个大环境下，与范老师一对一交流，针对我的个人问题的一次 NICE 的就业指导！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
