@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [分布式id生成器&amp;分布式锁介绍](https://juejin.cn/post/7139176675140435998) | Sat Sep 03 2022 3:32 PM 
+- 🤗 [1582. 二进制矩阵中的特殊位置 : 简单模拟题](https://juejin.cn/post/7139332331692621861) | Sun Sep 04 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-    分布式 id 生成器 在分布式场景中，唯一 id 的生成算比较重要。 而通常在高并发场景中，需要类似 MySQL 自增 id 一样不断增长且又不会重复的 id，即 MySql 的主键 id 
+    题目描述 这是 LeetCode 上的 1582. 二进制矩阵中的特殊位置 ，难度为 简单。 Tag : 「模拟」 给你一个大小为 rows x cols 的矩阵 mat，其中 mat[i][j] 是 
     </details> 
 
-- 🎡 [如何开好每日晨会？](https://juejin.cn/post/7139174606379679781) | Sat Sep 03 2022 3:25 PM 
+- 🎡 [Spring源码分析&lpar;七&rpar;扩展接口BeanPostProcessors源码分析](https://juejin.cn/post/7139331530265985038) | Sun Sep 04 2022 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-    很多人说早上开晨会没有用，是管理者没有其他办法，只能通过会议来推进工作的一种表现。我倒不觉得，晨会只是一个小小行为，但是每个人心里都想着这个事的时候，自然会把当下的工作进行推进。我推荐一个开晨会的方法 
+    BeanPostProcessors在spring中是一个非常重要的扩展接口，它使得我们可以在创建bean实例的 
     </details> 
 
-- 🕯 [三种获取URL参数值的方法](https://juejin.cn/post/7139169269941534733) | Sat Sep 03 2022 3:03 PM 
+- 🕯 [Spring源码14-DispatcherServlet初始化](https://juejin.cn/post/7139330939489878029) | Sun Sep 04 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
-    在 URL 中，查询参数字符串值通常提供有关请求的信息，例如搜索参数或正在使用的对象的 ID。如果在前端处理任何业务或请求逻辑，了解如何从 URL 中检索查询字符串值非常重要。本文分享三种从 URL  
+    DispatcherServlet继承图，以及初始化init方法，九大核心组件的初始化&lpar;默认组件初始化路径&rpar; 
     </details> 
 
-- 🚀 [CMU 15-445 Lecture 1 关系模型和关系代数运算](https://juejin.cn/post/7139163956848885796) | Sat Sep 03 2022 2:42 PM 
+- 🚀 [神奇的Compose - 性能监控篇](https://juejin.cn/post/7139328582836289566) | Sun Sep 04 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    2022 的 15-445 开始了，利用周末的时间学习一下，本专栏应该是 lecture、project、homework 都会记录，希望一年内能把整个课程做完。 
+    compiler-metrics，属于compose的专属监控！怎么判断你的composable函数写的好不好，用它就对了 
     </details> 
 
-- 💪 [React Hook + Typescript 实现一个类型提示完整的高阶组件（HOC）](https://juejin.cn/post/7139157115666432037) | Sat Sep 03 2022 2:16 PM 
+- 💪 [mysql查询 limit 1000,10 和limit 10 速度一样快吗？如果我要分页，我该怎么办？](https://juejin.cn/post/7139327346846203917) | Sun Sep 04 2022 1:19 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在对项目内的表单组件进行的优化，在实现高阶组件的过程中发现目前关于 react 高阶组件的文章都比较旧了，很多都是以类组件的形式去实现，与 Typescript 的结合使用也比较难找到示例。 
+    刷网站的时候，我们经常会遇到需要分页查询的场景。 比如下图红框里的翻页功能。 我们很容易能联想到可以用mysql实现。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
