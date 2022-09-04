@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新发现的浏览器漏洞允许覆盖剪贴板内容 可能严重影响加密货币安全](https://www.cnbeta.com/articles/tech/1312115.htm) | Sat Sep 03 2022 7:37 PM 
+- 🕯 [美CDC建议更新COVID加强针政策以针对奥密克戎毒株](https://www.cnbeta.com/articles/tech/1312151.htm) | Sun Sep 04 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一个影响Chrome、Firefox和Safari的浏览器漏洞在最近的Chrome软件发布后被发现。Google开发人员发现了这个基于剪贴板的攻击，当用户访问一个被攻击的网页时，恶意网站可以覆盖用户的剪贴板内容。该漏洞也影响到所有基于Chromium的浏览器，但似乎在Chrome浏览器中最为普遍，目前用于复制内容的用户手势被列为了问题报告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国疾病控制和预防中心&lpar;CDC&rpar;日前建议为青少年注射更新的加强针以对抗最近的奥密克戎变种激增问题。&lt;/strong&gt;一天前，美国食品和药物管理局&lpar;FDA&rpar;还授权使用由Moderna和Pfizer-BioNTech生产的COVID-19加强针疫苗剂量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [安全研究人员成功劫持了Windows 11的Power Automate工具](https://www.cnbeta.com/articles/tech/1312113.htm) | Sat Sep 03 2022 7:33 PM 
+- 💼 [“迷你鲨鱼”等足目动物正在入侵美加州并在咬人的脚](https://www.cnbeta.com/articles/science/1312149.htm) | Sun Sep 04 2022 1:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Windows 11包括一个自动执行重复性任务的工具Power Automate，为用户节省了大量的时间。然而，一位安全研究人员说，这也能为黑客节省大量时间，他质疑其自动化工具的脆弱性，但正如关于网络安全的惯例，人类的自满可能是最薄弱的环节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在南加州已经出现了关于微小和攻击性等足目动物的报告。据报道，这种“迷你鲨鱼”等足目动物官方名字叫Excirolana chiltoni或水线等足目动物，其被指一直在攻击Mission Bay海滩游客的脚。该地区的市民称，当他们把脚放进水中时，这些小虫子一样的生物蜂拥而至并咬住他们的脚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AirPods Pro 2充电盒的三个新功能在泄露的效果图中显示出来](https://www.cnbeta.com/articles/tech/1312111.htm) | Sat Sep 03 2022 7:23 PM 
+- 💂 [天文学家首次制出双星-行星系统的完整3D视图](https://www.cnbeta.com/articles/science/1312147.htm) | Sun Sep 04 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Andrew O&amp;#39;Hara在Twitter上分享的据称CAD渲染图，即将推出的第二代AirPods Pro的新充电盒可能有扬声器孔、麦克风和一个挂绳连接的开口。O&amp;#39;Hara说，他无法核实这些渲染图的准确性，但它们确实与之前关于下一个AirPods Pro充电盒的传言一致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;天文学家通过精确追踪一颗恒星在空间运动中微小、几乎难以察觉的摆动发现了一颗围绕附近恒星运行的类似木星的行星，这颗恒星是一对双星中的一颗。他们的工作有史以来第一次确定了一对双星的轨道的完整的三维结构，及围绕其中之一的行星的轨道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星Galaxy Z Fold4/Flip4开局良好 出货量相比前代翻番](https://www.cnbeta.com/articles/tech/1312109.htm) | Sat Sep 03 2022 7:20 PM 
+- 🚀 [黑客对Yandex Taxi发起网络攻击：在莫斯科造成大规模交通拥堵](https://www.cnbeta.com/articles/tech/1312145.htm) | Sun Sep 04 2022 12:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月3日消息，据GSMArena报道，三星凭借Galaxy Z Fold4和Galaxy Z Flip4两款折叠屏手机，在欧洲36个国家和地区取得了相当大的成功。三星欧洲首席营销官Benjamin Braun对外表示，&lt;strong&gt;Galaxy Z Fold4和Galaxy Z Flip4在欧洲出货量翻了一番。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;黑客利用俄罗斯叫车软件Yandex Taxi在莫斯科造成了严重的交通堵塞，据悉，网络攻击导致几十辆出租车在同一时间被召唤。&lt;/strong&gt;这次攻击发生在9月1日，导致前往Kutuzovsky Prospect的车辆停滞不前，而这条大街本来就非常繁忙。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [刘德华“把我唱给你听”线上演唱会超3亿人观看](https://hot.cnbeta.com/articles/music/1312107.htm) | Sat Sep 03 2022 7:20 PM 
+- 🎊 [看Apple Watch Series 8的体温功能将如何工作](https://www.cnbeta.com/articles/tech/1312143.htm) | Sun Sep 04 2022 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今晚（3日），刘德华“把我唱给你听”线上演唱会连唱两个多小时后圆满落幕，最终观看人次超过3.5亿。晚可谓是刘德华的经典作品大集合，有网友开玩笑表示，也许是“俗烂歌曲”大集合，毕竟在《笨小孩》之外，刘德华现场演唱了《冰雨》《男人哭吧不是罪》《爱你一万年》等歌曲。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1312107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;体温感应技术被认为是Apple Watch Series 8在下周苹果“Far out”活动中首次亮相时提供的头条升级。由于来自可靠来源的各种报告，人体对体温健康功能预计如何运作有了相当好的了解。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
