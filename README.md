@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [网传理想One将停产并降价2万元 客服回应：L8将完成替代](https://www.cnbeta.com/articles/tech/1312263.htm) | Sun Sep 04 2022 9:35 AM 
+- 🕯 [特朗普演讲称“扎克伯格上周在白宫整晚拍我马屁”](https://hot.cnbeta.com/articles/funny/1312281.htm) | Sun Sep 04 2022 10:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;理想L9最近已经开始交付，网络消息称理想One将降价2万元，下个月还会停产，引发理想One车主不满，理想客服表示理想L9会是替代品。据中新经纬报道，针对网传理想ONE降价2万元销售且下个月将停产一事，&lt;strong&gt;理想汽车客服表示，“因为理想L8是理想ONE的一个替代品，换代完成后，理想ONE将不会再生产。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“尽管已卸任一年半，唐纳德·特朗普说‘怪人’马克·扎克伯格‘上周’和他一起在白宫共进晚餐。”美国“商业内幕”网站以此为题注意到美国前总统特朗普当地时间9月3日在宾夕法尼亚州一场集会上的表态。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1312281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Troy Teslike：特斯拉中国预计将在9月份交付超过10万辆电动汽车](https://www.cnbeta.com/articles/tech/1312261.htm) | Sun Sep 04 2022 9:34 AM 
+- 💼 [研究人员解释为什么Omicron比其他COVID-19变种更具感染性](https://www.cnbeta.com/articles/tech/1312279.htm) | Sun Sep 04 2022 10:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间周五，专注追踪特斯拉交付等数据分析的知名推特用户Troy Teslike发布推文称，特斯拉中国预计将在9月份交付超过10万辆电动汽车，这将是一个新的记录。目前，特斯拉在上海拥有一家超级工厂，该工厂在7月份进行了为期两周的生产线优化升级，从而导致生产一度中断。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年早些时候SARS-CoV-2的Omicron变种迅速在全世界蔓延，来自Gladstone研究所、加州大学伯克利分校和创新基因组学研究所的研究人员利用病毒样颗粒来确定该病毒的哪些元素负责其高度的感染性和传播。此外，他们还证明，尽管针对早期病毒变种产生的抗体对Omicron的有效性大大降低，但那些最近打过加强针的人拥有更高水平的有效抗体。这项研究最近发表在《美国国家科学院院刊》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [30系库存积压严重？二季度N卡出货量暴跌25.7%](https://www.cnbeta.com/articles/tech/1312259.htm) | Sun Sep 04 2022 9:33 AM 
+- 💂 [北大数学天才柳智宇下山还俗后开始卖课：最高4980元](https://www.cnbeta.com/articles/tech/1312277.htm) | Sun Sep 04 2022 10:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;30系显卡发售后，新一轮矿潮便拉开了序幕。在短短的四个月内，主流游戏显卡的平均涨幅便已经超过了80%。在国发委下达整治“挖矿”的通知以及忍受了高价显卡许久的DIY玩家与普通消费者开始反抗之下，长达1年之久的矿潮逐渐褪去，不过由于30系显卡诞生于矿潮时期，且不少矿老板大量使用30系显卡，所以市面上存在不少的矿卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久，曾经的北大数学天才柳智宇出家12年后还俗下山，在一家心理咨询公司任职，主动将月薪从3万多元降到2万元，现在该公司推出了以他为核心卖点的网络直播课程，最高价格达到了4980元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《木卫四协议》开发商公开宣传“996”赶工：CEO发推公开道歉](https://hot.cnbeta.com/articles/game/1312257.htm) | Sun Sep 04 2022 9:32 AM 
+- 🚀 [一次买票能坐20次：高铁“公交化”成为可能](https://www.cnbeta.com/articles/tech/1312275.htm) | Sun Sep 04 2022 10:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于玩家来说，希望自己等待的游戏能够不跳票，按时发售理所应当，但近日，却有游戏开发商因为宣称自己要确保游戏按时发售而遭到了抨击。近日，游戏《木卫四协议》的开发商Striking Distance Studios的CEO Glen Schofield在社交媒体发布消息，&lt;strong&gt;称公司员工为了游戏按时发售，每天工作12到15个小时，一周工作6到7天，且没有受到强迫。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，根据中国铁路发布消息，为了进一步推进城际高铁的“公交化”运营，将在呼和浩特与包头两地间，推出90天内20次计次票。据介绍，&lt;strong&gt;该计次票适用于呼和浩特、呼和浩特东、包头与包头东四个车站之间开行的，所有“C”“D”“G”字头动车组列车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微软Edge 105升级Bug导致浏览器无法启动 遇到问题的您需要这样修复](https://www.cnbeta.com/articles/tech/1312255.htm) | Sun Sep 04 2022 9:31 AM 
+- 🎊 [街边2块钱一根的烤肠究竟是什么肉 能不能吃？](https://www.cnbeta.com/articles/tech/1312273.htm) | Sun Sep 04 2022 10:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;几天前，微软发布了新版本的Edge浏览器，带来了各种改进和变化。但是，许多更新到微软Edge 105的人遇到了一个相当严重的问题--浏览器彻底罢工，无法启动。&lt;strong&gt;这是一个已经被广泛报道的问题，虽然微软对这个问题公开说了很多，但Edge开发团队的一名成员现在才站出来提出了解决方案。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;有多少人看到街边 2 块钱一根的烤肠，都是逢见必买的。滋啦滋啦地在烤架上一烤，很是美味。但吃是吃过瘾了，很多人也会担心 2 块钱一根的烤肠到底能不能吃？啥肉做的啊？是否对身体有害？今天我们就来说一说。01街边 2 块钱的烤肠是什么肉做的？火腿肠、烤肠等速食肉类制品，是人类早期为最大利用食物资源为目的制作的原始灌肠类肉制品演变而来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
