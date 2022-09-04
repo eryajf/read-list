@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [消息称&quot;Apple Reality Pro&quot;将成为苹果三款AR/VR头显设备中的第一款](https://www.cnbeta.com/articles/tech/1312307.htm) | Sun Sep 04 2022 2:35 PM 
+- 🕯 [塔塔集团前董事长遭遇车祸身亡 莫迪：工商业的一大损失](https://www.cnbeta.com/articles/tech/1312311.htm) | Sun Sep 04 2022 3:36 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当地时间周日（9月4日），印度警方表示，印度塔塔集团前董事长赛勒斯·米斯特里在金融中心孟买附近遭遇交通事故，不幸死亡，享年54岁。孟买警方的一名高级官员证实，当天下午2点30分左右，米斯特里乘坐的汽车撞上了一座桥上的隔离带，碰撞发生后当场身亡；车里还有另一名乘客死亡，另外两名伤者已被送往医院。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [2022全球总决赛LPL赛区四支参赛队伍全部出炉](https://hot.cnbeta.com/articles/game/1312309.htm) | Sun Sep 04 2022 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据《英雄联盟》官方消息，经过激烈角逐，随着资格赛落幕，代表LPL出征2022全球总决赛的四支战队现已全部确定，一号种子JDG、二号种子TES、三号种子EDG、四号种子RNG，他们即将前往世界舞台开辟新的战场，捍卫荣耀再创辉煌，LPL，此志无双 ！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [消息称&quot;Apple Reality Pro&quot;将成为苹果三款AR/VR头显设备中的第一款](https://www.cnbeta.com/articles/tech/1312307.htm) | Sun Sep 04 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据彭博社记者马克·古尔曼报道，苹果公司正在开发至少三款增强现实和虚拟现实头显设备，其中第一款可能会以&amp;quot;Apple Reality Pro&amp;quot;的名称推出。在最新一期的&amp;quot;Power On&amp;quot;通讯中，古尔曼解释说，据他所知，至少有三款苹果耳机在开发中，代号为&amp;quot;N301&amp;quot;、&amp;quot;N602&amp;quot;和&amp;quot;N421&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [据传新款Apple Watch SE将出现在即将举办的苹果发布会上](https://www.cnbeta.com/articles/tech/1312305.htm) | Sun Sep 04 2022 2:32 PM 
+- 🚀 [据传新款Apple Watch SE将出现在即将举办的苹果发布会上](https://www.cnbeta.com/articles/tech/1312305.htm) | Sun Sep 04 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;据传，苹果公司将在周三举行的活动中推出更新的Apple Watch SE，以及Apple Watch Pro和Apple Watch Series 8，这看起来越来越像一场范围广泛的活动。&lt;/strong&gt;预计新的Apple Watch SE的最大变化是，从原来的Apple Watch SE S5转向Apple S8处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新款AirPods Pro将在iPhone 14苹果发布会上亮相](https://www.cnbeta.com/articles/tech/1312303.htm) | Sun Sep 04 2022 2:28 PM 
+- 🎊 [新款AirPods Pro将在iPhone 14苹果发布会上亮相](https://www.cnbeta.com/articles/tech/1312303.htm) | Sun Sep 04 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一份报告称，苹果将利用其9月7日的特别活动，在iPhone 14的同时推出第二代AirPods Pro。苹果公司9月份的特别活动通常重点主要集中在年度iPhone更新上，但其他产品也会在同一时间推出。虽然AirPods被认为是在同一事件中推出的良好候选产品，但一份报告坚持认为，苹果这次将推出新的AirPods Pro。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [iPhone 14 Pro预计将内置更大的电池 同时配备常亮显示屏](https://www.cnbeta.com/articles/tech/1312301.htm) | Sun Sep 04 2022 2:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据彭博社记者马克·古尔曼称，iPhone 14 Pro和iPhone 14 Pro Max将采用物理上更大的电池，可能是为了弥补常亮显示屏所增加的功耗。&lt;/strong&gt;古尔曼在其最新的Power On通讯中说，他预计新的iPhone 14 Pro和iPhone 14 Pro Max将采用更大的电池，因此，这些设备将显得&amp;quot;总体上略大&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [国外网友指责《原神》新角色“太白” 不尊重玩家](https://www.cnbeta.com/articles/tech/1312299.htm) | Sun Sep 04 2022 2:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据外媒报道，《原神》于上月底新推出的角色坎蒂丝被外国玩家指责“太白”，不像是一个符合其文化背景的角色。虽然当时大部分玩家都对该角色的推出很感兴趣，尤其是对她的背景故事、个性和能力。但仍有相当一部分人对其肤色感到困惑，他们认为该角色看起来太白了，根本不像是须弥地区的角色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
