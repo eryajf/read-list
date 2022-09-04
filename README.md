@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究：随着阿尔茨海默病的发展，大脑中调节DNA折叠的酶的水平出现下降](https://www.cnbeta.com/articles/science/1312195.htm) | Sun Sep 04 2022 4:11 AM 
+- 🕯 [科罗拉多州2.2万个智能恒温器因“能源紧急情况”被锁引发众怒](https://www.cnbeta.com/articles/tech/1312201.htm) | Sun Sep 04 2022 4:44 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最近几天，科罗拉多州传来消息--“老大哥在控制你的恒温器”。据悉，约22,000个智能恒温器在温度接近90度的一天被“锁定”后，一个右翼头条新闻尖叫起来。原因是什么？这些公用事业公司的客户无法调整他们的自动调温器，因为他们被告知这是一个“能源紧急情况”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [美F-22采用第三方应用和新开放式软件架构进行飞行](https://www.cnbeta.com/articles/tech/1312199.htm) | Sun Sep 04 2022 4:29 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;加利福尼亚州爱德华兹空军基地的F-22战斗机在8月24日的试飞中运行了第三方软件，这是空军第五代战斗机的第一次也是该部队寻求获得和快速部署尖端技术的一个关键里程碑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [科学家们离发现月球的起源又近了一步](https://www.cnbeta.com/articles/science/1312197.htm) | Sun Sep 04 2022 4:24 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;月球一直是人类感兴趣的一个话题。但直到伽利略时代，研究人员才开始认真研究它。在近五百年的时间里，研究人员对月球是如何形成的提出了各种各样、极具争议的观点。&lt;strong&gt;苏黎世联邦理工学院的地球化学家、宇宙化学家和岩石学家现在则对月球的起源故事有了新的认识。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [研究：随着阿尔茨海默病的发展，大脑中调节DNA折叠的酶的水平出现下降](https://www.cnbeta.com/articles/science/1312195.htm) | Sun Sep 04 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;来自匹兹堡大学、麦吉尔大学和哈佛大学的研究人员发现，与早期的研究相反，随着阿尔茨海默病的恶化，大脑中控制DNA折叠的酶的水平发生下降。他们的研究结果于最近发表在《Nature Communications》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NASA称SLS今日燃料泄漏超火灾危险限度的两到三倍](https://www.cnbeta.com/articles/science/1312193.htm) | Sun Sep 04 2022 3:42 AM 
+- 🎊 [NASA称SLS今日燃料泄漏超火灾危险限度的两到三倍](https://www.cnbeta.com/articles/science/1312193.htm) | Sun Sep 04 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;在与迫使其停止太空发射系统&lpar;SLS&rpar;火箭第二次发射尝试的氢气泄漏斗争数小时后，NASA的官员决定将火箭退回到飞行器组装大楼。&lt;/strong&gt;NASA的第二次发射尝试原定于东部时间今天下午打开的窗口，但在发射前两个半小时，发射主管Charlie Blackwell-Thompson在其团队建议她不要执行任务后同意取消这次任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [打包敷衍了事 多位玩家收到《最后的生还者：重制版》萤火虫版后发现包装破损](https://hot.cnbeta.com/articles/game/1312191.htm) | Sun Sep 04 2022 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;订购《最后的生还者：重制版》萤火虫版的国外玩家已经陆续收到自己的商品，但他们当中的很多人完全高兴不起来。近日有多位玩家在推特上分享自己收到的游戏在运送过程中遭遇破损和挤压变形的经历，而且遭遇这种情况的玩家并不在少数。而这些玩家都是在唯一官方渠道PlayStation Direct购买的，他们在推特上表达了自己对这种敷衍塞责行为的极度不满。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [阿根廷查明此前多例不明原因肺炎系军团菌感染](https://www.cnbeta.com/articles/tech/1312189.htm) | Sun Sep 04 2022 3:39 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月4日消息，今日，据央视新闻报道，当地时间9月3日，阿根廷前图库曼省公共卫生局局长巴勃罗·耶德林表示，根据实验室数据，&lt;strong&gt;近日在图库曼省鲁兹医院发现的不明原因肺炎的致病原因是军团菌。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [能高空连续飞行的“伪卫星”：国产大型太阳能无人机“启明星50”首飞成功](https://www.cnbeta.com/articles/tech/1312187.htm) | Sun Sep 04 2022 3:36 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微信公众号“航空工业”消息，9月3日，由航空工业一飞院研制的“启明星50”大型太阳能无人机在陕西榆林首飞成功。“启明星50”大型太阳能无人机于17时50分起飞，空中飞行26分钟，于18时16分平稳着陆，顺利完成首飞任务，飞机状态良好，各系统运行正常，首飞圆满成功。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
