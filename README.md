@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [边骂边看：《指环王：力量之戒》美剧同时观看人数2500万 创下纪录](https://hot.cnbeta.com/articles/movie/1312247.htm) | Sun Sep 04 2022 7:35 AM 
+- 🕯 [刘德华抖音演唱会观看人次超3.5亿 “情怀流量”还能被消费多久？](https://hot.cnbeta.com/articles/music/1312253.htm) | Sun Sep 04 2022 8:44 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“哎哟向着天空拜一拜呀，别想不开，老天自有安排，老天爱笨小孩。”9月3日晚20时，伴随着《笨小孩》熟悉的旋律响起，刘德华“把我唱给你听”线上演唱会在抖音直播间正式开播，在背后霓虹舞台中，瞬间将观众拉进怀旧氛围，演唱会在线观看人次最终人次达3.5亿。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1312253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [男子悬崖边拍照突然抽筋坠崖被困12小时后获救 官方科普登山安全事项](https://www.cnbeta.com/articles/tech/1312251.htm) | Sun Sep 04 2022 8:42 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;登山拍照，有些朋友喜欢找一些刁钻的角度，可这也暗藏着危险。据中国消防微博，近日在广东东莞，一名男子沉醉于眼前美景，站在悬崖边拍照腿部突然抽筋坠崖，身体受伤动弹不了，被困在半山腰12小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [百度贴吧出镜率最高的男人 居然是个受欢迎的反派？](https://www.cnbeta.com/articles/tech/1312249.htm) | Sun Sep 04 2022 8:42 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当年混贴吧的人，肯定都见过下面这张动图：一个身穿盔甲的人半蹲于雪原之上，用手抹开了身前的雪花，露出了 “ LZSB ” 四个字母。这张动图曾经是整个百度贴吧最受欢迎的签名档，应该没有之一。如果说要在中国互联网历史上选出一个&amp;nbsp;“ 顶流中文社区 ”榜单，我想百度贴吧一定榜上有名。巅峰时期，百度贴吧拥有 3 亿用户，不知道有多少流行的梗和名言，都是从这里流传开来的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [边骂边看：《指环王：力量之戒》美剧同时观看人数2500万 创下纪录](https://hot.cnbeta.com/articles/movie/1312247.htm) | Sun Sep 04 2022 7:35 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;亚马逊斥巨资打造的《指环王》剧版《指环王：力量之戒》第一季于当地时间9月2日正式开播，官方宣布，最新统计在首播24小时内同时观看人数最高超过2500万，创下亚马逊史上新纪录。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [买到就被跌到 NVIDIA RTX 30系显卡价格再创历史新低](https://www.cnbeta.com/articles/tech/1312245.htm) | Sun Sep 04 2022 7:32 AM 
+- 🎊 [买到就被跌到 NVIDIA RTX 30系显卡价格再创历史新低](https://www.cnbeta.com/articles/tech/1312245.htm) | Sun Sep 04 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p style=&quot;text-align: left;&quot;&gt;想要抄底RTX 30系显卡，可面对的真实局面实际是深不见底……进入9月份，RTX 30系显卡的跌价还在继续中，RTX 3090/3090 Ti更是双双在国内外创下新的最低价。以国内市场为例，细心的卡吧网友整理的数据显示，&lt;strong&gt;RTX 30全系跌破建议零售价，其中RTX 3090做到了6999元的历史新低，3090 Ti则是7799元，和当年的发售价相比，几乎是双双腰斩。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [SK Siltron晶圆厂在密歇根贝城开工 州长亲临现场](https://www.cnbeta.com/articles/tech/1312243.htm) | Sun Sep 04 2022 7:31 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;周四，密歇根州州长Gretchen Whitmer和其他数百人一起参加了贝城（Bay City）SK Siltron CSS半导体晶圆厂的开业仪式。2022年9月1日，美国密歇根州第5选区议员Dan Kildee（左中）、SK Siltron CSS首席执行官Jianwei Dong（右中）和密歇根州州长Gretchen Whitmer在Bay县为SK Siltron CSS新工厂剪彩。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [起亚纯电xEV在美国市场八月的销量暴增151% 创历史最好表现](https://www.cnbeta.com/articles/tech/1312241.htm) | Sun Sep 04 2022 7:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;起亚美国公司报告说，8月份的汽车销量为66089辆，比一年前增加了22%，这也是有史以来最好的8月份。看来该公司终于找到了改善业绩的方法，尽管年初至今的结果为461878辆，仍比2021年低8%。起亚传来的另一个积极消息是，其电气化汽车的销售--xEVs（BEVs、PHEVs、HEVs）--同比增长了151%，但新闻稿中没有列出准确数字。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [摩托罗拉Edge 30 Ultra的设计和主要规格在泄露的官方视频中曝光](https://www.cnbeta.com/articles/tech/1312239.htm) | Sun Sep 04 2022 7:23 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;摩托罗拉已安排在9月8日举行发布会，公布新的Edge系列智能手机，但暂时还没有透露这些智能手机的名称，其中一款预计是Edge 30 Ultra，它已经出现在可靠泄密者Evan Blass泄露的官方视频中，主要揭示了Edge 30 Ultra的设计和主要规格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
