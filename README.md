@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果公司正考虑取消部分iPhone 14型号的SIM卡插槽](https://www.cnbeta.com/articles/tech/1312327.htm) | Sun Sep 04 2022 7:08 PM 
+- 🕯 [一代“神车”理想ONE被曝将停产 官方承诺质保售后不影响](https://www.cnbeta.com/articles/tech/1312337.htm) | Sun Sep 04 2022 11:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据彭博社记者Mark Gurman报道，苹果公司已经在内部讨论了到明年推出一些没有SIM卡插槽的iPhone机型的想法。在他最新的Power On通讯中，Gurman说此举将是苹果推动eSIM普及行动的一部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2019年4月理想ONE上市，补贴后售价32.8万元，定位中大型SUV，截至8月1日，&lt;strong&gt;理想ONE累计交付量已达194913辆。&lt;/strong&gt;理想汽车凭借一款理想ONE打下新能源汽车市场的辉煌战绩，独撑了理想三年的产品线，堪称一代“神车”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Apple Watch Series 3在停产前宣告售罄](https://www.cnbeta.com/articles/tech/1312325.htm) | Sun Sep 04 2022 7:05 PM 
+- 💼 [配置表显示iPhone 14 Pro Max比上一代更重 突破半斤](https://www.cnbeta.com/articles/tech/1312335.htm) | Sun Sep 04 2022 11:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在该系列预计停产的前几天，Apple Watch Series 3型号在全球的苹果在线商店终于卖完了。在苹果网站上列出的四种Series 3配置中，有三种目前在英国和澳大利亚缺货，一种系列机型在美国商店无法购买。其他国家的供应情况有所不同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，一张iPhone 14系列四款机型参数信息在社交平台上曝光。相关信息显示，&lt;strong&gt;iPhone 14系列四款机型分别命名为iPhone 14、iPhone 14 Plus、iPhone 14 Pro和iPhone 14 Pro Max。&lt;/strong&gt;其中&lt;strong&gt;iPhone 14 Pro Max重量达到了255g，堪称“果半斤”，它比iPhone 13 Pro Max重17g，后者重量是238g。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [由于销售增长放缓 亚马逊取消新建数十个仓库的计划并裁员数百人](https://www.cnbeta.com/articles/tech/1312323.htm) | Sun Sep 04 2022 6:28 PM 
+- 💂 [Windows 11&quot;Moment 1&quot;、&quot;Moment 2&quot;是包含新功能的下一批重大更新](https://www.cnbeta.com/articles/tech/1312333.htm) | Sun Sep 04 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;由于销售增长放缓，亚马逊取消了在美国各地新建立数十个仓库设施的扩张计划，并计划裁员数百人以控制成本。今年稍早时候，亚马逊公布了20年来最慢的销售增长率。&lt;/strong&gt;咨询公司MWPVL表示，这家在线零售巨头要么关闭，要么将放弃在全国新增开设42家仓库的计划，总可用空间近2500万平方英尺。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软尚未正式确认Windows 11 22H2的发布日期，但我们听说推广工作将在几周内开始，可能是在9月20日或前后。RTM构建是Build 22621，它将搭载任务栏的拖放、更好的开始菜单定制选项、新的任务管理器等功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [HPV九价疫苗扩龄，是默沙东的一步什么棋](https://www.cnbeta.com/articles/tech/1312321.htm) | Sun Sep 04 2022 5:22 PM 
+- 🚀 [RTX 30系显卡持续降价屡创新低 RTX 40系上市时间可能推迟到11月](https://www.cnbeta.com/articles/tech/1312331.htm) | Sun Sep 04 2022 11:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月30日，国家药监局宣布，默沙东的HPV九价疫苗（全称：九价人乳头瘤病毒疫苗）适用年龄，从原来的16至26岁扩大到9至45岁。这个消息迅速在各大社交平台刷屏。至少表面上看，临近26岁还没“上岸”（指已完成全程接种）的女孩们，可以稍微松一口气了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;虽然老黄已经基本确认将在9月20日的GTC大会上发布新一代RTX显卡，且RTX 40显卡真身也已经曝光，但国外爆料大神表示，NVIDIA考虑将上市时间推迟到11月，也就是万圣节（11月1日）之后。&lt;/strong&gt;正常来说，新显卡从纸面发布到最终上市，最多一个月时间过渡，可现在又出现变数。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [应对超强台风轩岚诺：东航在虹桥、浦东机场绑飞机](https://www.cnbeta.com/articles/tech/1312319.htm) | Sun Sep 04 2022 5:20 PM 
+- 🎊 [iPhone 14“黄牛价”偷跑：四款机型 6699元起加价卖](https://www.cnbeta.com/articles/tech/1312329.htm) | Sun Sep 04 2022 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着超强台风“轩岚诺”在我国东部海域强势前进，各方面正在加强应对。9月4日下午开始，在上海虹桥机场，东方航空公司虹桥维修基地根据技术公司相关要求，&lt;strong&gt;对虹桥机场内停场的波音737飞机，实施系留措施，同时对机坪上部分设施采取了固定措施。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月8日凌晨1点，苹果将举行2022秋季新品发布会，正式推出iPhone 14系列。发布会Slogan是“Far Out（超前瞻）”，毋庸置疑，此次大会主角将是iPhone 14系列手机。发布会前夕，一些博主放出了一张线下门店的iPhone 14系列预售活动海报，不出意外，&lt;strong&gt;该价格为前期的黄牛价，基本上都是加价卖，&lt;/strong&gt;同时还出现了一款名为iPhone 14 Plus的新型号，而不是传闻中的Max。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
