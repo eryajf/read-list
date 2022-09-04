@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [台风轩岚诺逼近 台州海岸边掀10米巨浪 网友拍下震撼画面](https://www.cnbeta.com/articles/tech/1312295.htm) | Sun Sep 04 2022 2:15 PM 
+- 🕯 [消息称&quot;Apple Reality Pro&quot;将成为苹果三款AR/VR头显设备中的第一款](https://www.cnbeta.com/articles/tech/1312307.htm) | Sun Sep 04 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“轩岚诺”是今年第11号台风，今天上午已经加强为超强台风级别，截至4日17时，“轩岚诺”位于距离浙江省朱家尖岛东南方向约340公里处。受此影响，浙江发布海浪红色警报，&lt;strong&gt;浙江近海将有8到10米狂浪狂涛，温岭市石塘镇金沙滩海域掀起十米多高的惊涛巨浪。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据彭博社记者马克·古尔曼报道，苹果公司正在开发至少三款增强现实和虚拟现实头显设备，其中第一款可能会以&amp;quot;Apple Reality Pro&amp;quot;的名称推出。在最新一期的&amp;quot;Power On&amp;quot;通讯中，古尔曼解释说，据他所知，至少有三款苹果耳机在开发中，代号为&amp;quot;N301&amp;quot;、&amp;quot;N602&amp;quot;和&amp;quot;N421&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [日本多家车企宣布涨价 车辆暂停订购](https://www.cnbeta.com/articles/tech/1312293.htm) | Sun Sep 04 2022 2:12 PM 
+- 💼 [据传新款Apple Watch SE将出现在即将举办的苹果发布会上](https://www.cnbeta.com/articles/tech/1312305.htm) | Sun Sep 04 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着全球供应链紧张、原材料及物流费用上涨，汽车行业也面临着越来越大的成本压力。&lt;span style=&quot;&quot;&gt;最近，多家日本车企相继宣布提高多款汽车售价&lt;/span&gt; 。涨价的具体情况如何？记者来到日产汽车位于东京市内的一处销售门店前。尽管是周日，由于近期出现交货延迟、暂停订货的现象，几乎没有什么客人来咨询购车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据传，苹果公司将在周三举行的活动中推出更新的Apple Watch SE，以及Apple Watch Pro和Apple Watch Series 8，这看起来越来越像一场范围广泛的活动。&lt;/strong&gt;预计新的Apple Watch SE的最大变化是，从原来的Apple Watch SE S5转向Apple S8处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [康希诺国产吸入式新冠疫苗获批紧急使用：全球首款不用打针](https://www.cnbeta.com/articles/tech/1312291.htm) | Sun Sep 04 2022 12:16 PM 
+- 💂 [新款AirPods Pro将在iPhone 14苹果发布会上亮相](https://www.cnbeta.com/articles/tech/1312303.htm) | Sun Sep 04 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月4日，康希诺公司发布公告称，公司研发的吸入用重组新型冠状病毒疫苗&lpar;5型腺病毒载体&rpar;，经国家卫生健康委提出建议，国家药品监督管理局组织论证同意作为加强针纳入紧急使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一份报告称，苹果将利用其9月7日的特别活动，在iPhone 14的同时推出第二代AirPods Pro。苹果公司9月份的特别活动通常重点主要集中在年度iPhone更新上，但其他产品也会在同一时间推出。虽然AirPods被认为是在同一事件中推出的良好候选产品，但一份报告坚持认为，苹果这次将推出新的AirPods Pro。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果华为“捅破天”的技术 要带起6万亿市场](https://www.cnbeta.com/articles/tech/1312289.htm) | Sun Sep 04 2022 11:35 AM 
+- 🚀 [iPhone 14 Pro预计将内置更大的电池 同时配备常亮显示屏](https://www.cnbeta.com/articles/tech/1312301.htm) | Sun Sep 04 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果今年秋季发布会邀请函的“太空”主题，让不少业内人士猜测，&lt;strong&gt;苹果iPhone 14系列将会支持传言已久的“卫星通信（satellite communication）”功能。&lt;/strong&gt;就在本周，知名苹果分析师郭明錤公布了他对于苹果卫星通信功能的最新研究，他认为，&lt;strong&gt;iPhone支持卫星通信已是必然，但该功能是否会在iPhone 14中落地，仍不能完全确定。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据彭博社记者马克·古尔曼称，iPhone 14 Pro和iPhone 14 Pro Max将采用物理上更大的电池，可能是为了弥补常亮显示屏所增加的功耗。&lt;/strong&gt;古尔曼在其最新的Power On通讯中说，他预计新的iPhone 14 Pro和iPhone 14 Pro Max将采用更大的电池，因此，这些设备将显得&amp;quot;总体上略大&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马王、龙妈续前缘？艾米莉亚·克拉克现身《海王2》演员表](https://hot.cnbeta.com/articles/movie/1312287.htm) | Sun Sep 04 2022 11:35 AM 
+- 🎊 [国外网友指责《原神》新角色“太白” 不尊重玩家](https://www.cnbeta.com/articles/tech/1312299.htm) | Sun Sep 04 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，有网友通过谷歌搜索发现，“龙妈”艾米莉亚·克拉克的名字出现了《海王2》的演员表中。影迷纷纷猜测她将替代艾梅伯·希尔德出演海后一角。由于深陷与德普的官司丑闻，外网发起请愿要求将艾梅伯·希尔德从《海王2》中剔除。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据外媒报道，《原神》于上月底新推出的角色坎蒂丝被外国玩家指责“太白”，不像是一个符合其文化背景的角色。虽然当时大部分玩家都对该角色的推出很感兴趣，尤其是对她的背景故事、个性和能力。但仍有相当一部分人对其肤色感到困惑，他们认为该角色看起来太白了，根本不像是须弥地区的角色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
