@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [塔塔集团前董事长遭遇车祸身亡 莫迪：工商业的一大损失](https://www.cnbeta.com/articles/tech/1312311.htm) | Sun Sep 04 2022 3:36 PM 
+- 🕯 [燕子年年都要飞往南方越冬：南方到底在哪儿？](https://www.cnbeta.com/articles/science/1312315.htm) | Sun Sep 04 2022 5:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;天气逐渐转凉，许多鸟类都已经飞向南方准备过冬了。大部分人都知道一些鸟类在冬天时会飞往更加温暖的南方，但估计很少有人知道这个南方到底是哪里，它到底有多南。鸟类迁徙的南方到底在哪里？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [AMD突然为USB4造势：锐龙7000要满血解锁？](https://www.cnbeta.com/articles/tech/1312313.htm) | Sun Sep 04 2022 5:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;前几天USB组织发布了新一代的USB4 2.0规范，新增了80Gbps的有源标准，速率是目前最快的，比雷电4还要翻倍，只不过这个接口普及还要很久很久。趁着这个热度，AMD今晚也突然在官推上给USB4接口造势了，发了个简单的视频介绍USB4的优势，&lt;strong&gt;总结起来就是——一口御众口，一个USB4接口就可以完成数据、视频、供电的需要。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [塔塔集团前董事长遭遇车祸身亡 莫迪：工商业的一大损失](https://www.cnbeta.com/articles/tech/1312311.htm) | Sun Sep 04 2022 3:36 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当地时间周日（9月4日），印度警方表示，印度塔塔集团前董事长赛勒斯·米斯特里在金融中心孟买附近遭遇交通事故，不幸死亡，享年54岁。孟买警方的一名高级官员证实，当天下午2点30分左右，米斯特里乘坐的汽车撞上了一座桥上的隔离带，碰撞发生后当场身亡；车里还有另一名乘客死亡，另外两名伤者已被送往医院。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [2022全球总决赛LPL赛区四支参赛队伍全部出炉](https://hot.cnbeta.com/articles/game/1312309.htm) | Sun Sep 04 2022 3:32 PM 
+- 🚀 [2022全球总决赛LPL赛区四支参赛队伍全部出炉](https://hot.cnbeta.com/articles/game/1312309.htm) | Sun Sep 04 2022 3:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据《英雄联盟》官方消息，经过激烈角逐，随着资格赛落幕，代表LPL出征2022全球总决赛的四支战队现已全部确定，一号种子JDG、二号种子TES、三号种子EDG、四号种子RNG，他们即将前往世界舞台开辟新的战场，捍卫荣耀再创辉煌，LPL，此志无双 ！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [消息称&quot;Apple Reality Pro&quot;将成为苹果三款AR/VR头显设备中的第一款](https://www.cnbeta.com/articles/tech/1312307.htm) | Sun Sep 04 2022 2:35 PM 
+- 🎊 [消息称&quot;Apple Reality Pro&quot;将成为苹果三款AR/VR头显设备中的第一款](https://www.cnbeta.com/articles/tech/1312307.htm) | Sun Sep 04 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据彭博社记者马克·古尔曼报道，苹果公司正在开发至少三款增强现实和虚拟现实头显设备，其中第一款可能会以&amp;quot;Apple Reality Pro&amp;quot;的名称推出。在最新一期的&amp;quot;Power On&amp;quot;通讯中，古尔曼解释说，据他所知，至少有三款苹果耳机在开发中，代号为&amp;quot;N301&amp;quot;、&amp;quot;N602&amp;quot;和&amp;quot;N421&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [据传新款Apple Watch SE将出现在即将举办的苹果发布会上](https://www.cnbeta.com/articles/tech/1312305.htm) | Sun Sep 04 2022 2:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据传，苹果公司将在周三举行的活动中推出更新的Apple Watch SE，以及Apple Watch Pro和Apple Watch Series 8，这看起来越来越像一场范围广泛的活动。&lt;/strong&gt;预计新的Apple Watch SE的最大变化是，从原来的Apple Watch SE S5转向Apple S8处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [新款AirPods Pro将在iPhone 14苹果发布会上亮相](https://www.cnbeta.com/articles/tech/1312303.htm) | Sun Sep 04 2022 2:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一份报告称，苹果将利用其9月7日的特别活动，在iPhone 14的同时推出第二代AirPods Pro。苹果公司9月份的特别活动通常重点主要集中在年度iPhone更新上，但其他产品也会在同一时间推出。虽然AirPods被认为是在同一事件中推出的良好候选产品，但一份报告坚持认为，苹果这次将推出新的AirPods Pro。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
