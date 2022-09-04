@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [HPV九价疫苗扩龄，是默沙东的一步什么棋](https://www.cnbeta.com/articles/tech/1312321.htm) | Sun Sep 04 2022 5:22 PM 
+- 🕯 [苹果公司正考虑取消部分iPhone 14型号的SIM卡插槽](https://www.cnbeta.com/articles/tech/1312327.htm) | Sun Sep 04 2022 7:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据彭博社记者Mark Gurman报道，苹果公司已经在内部讨论了到明年推出一些没有SIM卡插槽的iPhone机型的想法。在他最新的Power On通讯中，Gurman说此举将是苹果推动eSIM普及行动的一部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Apple Watch Series 3在停产前宣告售罄](https://www.cnbeta.com/articles/tech/1312325.htm) | Sun Sep 04 2022 7:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;就在该系列预计停产的前几天，Apple Watch Series 3型号在全球的苹果在线商店终于卖完了。在苹果网站上列出的四种Series 3配置中，有三种目前在英国和澳大利亚缺货，一种系列机型在美国商店无法购买。其他国家的供应情况有所不同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [由于销售增长放缓 亚马逊取消新建数十个仓库的计划并裁员数百人](https://www.cnbeta.com/articles/tech/1312323.htm) | Sun Sep 04 2022 6:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;由于销售增长放缓，亚马逊取消了在美国各地新建立数十个仓库设施的扩张计划，并计划裁员数百人以控制成本。今年稍早时候，亚马逊公布了20年来最慢的销售增长率。&lt;/strong&gt;咨询公司MWPVL表示，这家在线零售巨头要么关闭，要么将放弃在全国新增开设42家仓库的计划，总可用空间近2500万平方英尺。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [HPV九价疫苗扩龄，是默沙东的一步什么棋](https://www.cnbeta.com/articles/tech/1312321.htm) | Sun Sep 04 2022 5:22 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;8月30日，国家药监局宣布，默沙东的HPV九价疫苗（全称：九价人乳头瘤病毒疫苗）适用年龄，从原来的16至26岁扩大到9至45岁。这个消息迅速在各大社交平台刷屏。至少表面上看，临近26岁还没“上岸”（指已完成全程接种）的女孩们，可以稍微松一口气了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [应对超强台风轩岚诺：东航在虹桥、浦东机场绑飞机](https://www.cnbeta.com/articles/tech/1312319.htm) | Sun Sep 04 2022 5:20 PM 
+- 🎊 [应对超强台风轩岚诺：东航在虹桥、浦东机场绑飞机](https://www.cnbeta.com/articles/tech/1312319.htm) | Sun Sep 04 2022 5:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;随着超强台风“轩岚诺”在我国东部海域强势前进，各方面正在加强应对。9月4日下午开始，在上海虹桥机场，东方航空公司虹桥维修基地根据技术公司相关要求，&lt;strong&gt;对虹桥机场内停场的波音737飞机，实施系留措施，同时对机坪上部分设施采取了固定措施。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [台积电2nm工艺2025年量产 将使用美国EDA技术](https://www.cnbeta.com/articles/tech/1312317.htm) | Sun Sep 04 2022 5:20 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;台积电9月份将量产3nm工艺，这一代还会继续使用FinFET晶体管，2025年量产的全新一代2nm工艺才会用上GAA晶体管技术，他们也会使用美国厂商的EDA技术，而且依赖性很高。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [燕子年年都要飞往南方越冬：南方到底在哪儿？](https://www.cnbeta.com/articles/science/1312315.htm) | Sun Sep 04 2022 5:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天气逐渐转凉，许多鸟类都已经飞向南方准备过冬了。大部分人都知道一些鸟类在冬天时会飞往更加温暖的南方，但估计很少有人知道这个南方到底是哪里，它到底有多南。鸟类迁徙的南方到底在哪里？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [AMD突然为USB4造势：锐龙7000要满血解锁？](https://www.cnbeta.com/articles/tech/1312313.htm) | Sun Sep 04 2022 5:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前几天USB组织发布了新一代的USB4 2.0规范，新增了80Gbps的有源标准，速率是目前最快的，比雷电4还要翻倍，只不过这个接口普及还要很久很久。趁着这个热度，AMD今晚也突然在官推上给USB4接口造势了，发了个简单的视频介绍USB4的优势，&lt;strong&gt;总结起来就是——一口御众口，一个USB4接口就可以完成数据、视频、供电的需要。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
