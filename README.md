@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特朗普演讲称“扎克伯格上周在白宫整晚拍我马屁”](https://hot.cnbeta.com/articles/funny/1312281.htm) | Sun Sep 04 2022 10:34 AM 
+- 🕯 [康希诺国产吸入式新冠疫苗获批紧急使用：全球首款不用打针](https://www.cnbeta.com/articles/tech/1312291.htm) | Sun Sep 04 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“尽管已卸任一年半，唐纳德·特朗普说‘怪人’马克·扎克伯格‘上周’和他一起在白宫共进晚餐。”美国“商业内幕”网站以此为题注意到美国前总统特朗普当地时间9月3日在宾夕法尼亚州一场集会上的表态。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1312281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月4日，康希诺公司发布公告称，公司研发的吸入用重组新型冠状病毒疫苗&lpar;5型腺病毒载体&rpar;，经国家卫生健康委提出建议，国家药品监督管理局组织论证同意作为加强针纳入紧急使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究人员解释为什么Omicron比其他COVID-19变种更具感染性](https://www.cnbeta.com/articles/tech/1312279.htm) | Sun Sep 04 2022 10:32 AM 
+- 💼 [苹果华为“捅破天”的技术 要带起6万亿市场](https://www.cnbeta.com/articles/tech/1312289.htm) | Sun Sep 04 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年早些时候SARS-CoV-2的Omicron变种迅速在全世界蔓延，来自Gladstone研究所、加州大学伯克利分校和创新基因组学研究所的研究人员利用病毒样颗粒来确定该病毒的哪些元素负责其高度的感染性和传播。此外，他们还证明，尽管针对早期病毒变种产生的抗体对Omicron的有效性大大降低，但那些最近打过加强针的人拥有更高水平的有效抗体。这项研究最近发表在《美国国家科学院院刊》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果今年秋季发布会邀请函的“太空”主题，让不少业内人士猜测，&lt;strong&gt;苹果iPhone 14系列将会支持传言已久的“卫星通信（satellite communication）”功能。&lt;/strong&gt;就在本周，知名苹果分析师郭明錤公布了他对于苹果卫星通信功能的最新研究，他认为，&lt;strong&gt;iPhone支持卫星通信已是必然，但该功能是否会在iPhone 14中落地，仍不能完全确定。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [北大数学天才柳智宇下山还俗后开始卖课：最高4980元](https://www.cnbeta.com/articles/tech/1312277.htm) | Sun Sep 04 2022 10:27 AM 
+- 💂 [马王、龙妈续前缘？艾米莉亚·克拉克现身《海王2》演员表](https://hot.cnbeta.com/articles/movie/1312287.htm) | Sun Sep 04 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，曾经的北大数学天才柳智宇出家12年后还俗下山，在一家心理咨询公司任职，主动将月薪从3万多元降到2万元，现在该公司推出了以他为核心卖点的网络直播课程，最高价格达到了4980元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，有网友通过谷歌搜索发现，“龙妈”艾米莉亚·克拉克的名字出现了《海王2》的演员表中。影迷纷纷猜测她将替代艾梅伯·希尔德出演海后一角。由于深陷与德普的官司丑闻，外网发起请愿要求将艾梅伯·希尔德从《海王2》中剔除。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [一次买票能坐20次：高铁“公交化”成为可能](https://www.cnbeta.com/articles/tech/1312275.htm) | Sun Sep 04 2022 10:26 AM 
+- 🚀 [在抖音发视频被要求提供诺贝尔奖证书 博主无奈PS了一张](https://hot.cnbeta.com/articles/funny/1312285.htm) | Sun Sep 04 2022 11:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，根据中国铁路发布消息，为了进一步推进城际高铁的“公交化”运营，将在呼和浩特与包头两地间，推出90天内20次计次票。据介绍，&lt;strong&gt;该计次票适用于呼和浩特、呼和浩特东、包头与包头东四个车站之间开行的，所有“C”“D”“G”字头动车组列车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天下午，微博46万粉丝博主“范筒”公布了一个让他笑出眼泪的事件。据该博主透露，&lt;strong&gt;他做了个视频推广《鲍勃·迪伦诗歌集》，其中一句文案是“鲍勃·迪伦还拿到过诺贝尔文学奖”。&lt;/strong&gt;视频发布后想买个抖加，结果审核失败。&lt;strong&gt;客服说：需要提供鲍勃·迪伦的诺奖获奖证书才行。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1312285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [街边2块钱一根的烤肠究竟是什么肉 能不能吃？](https://www.cnbeta.com/articles/tech/1312273.htm) | Sun Sep 04 2022 10:26 AM 
+- 🎊 [微软视频管理软件Stream“卷土重来”：Android/iOS端测试版上线](https://www.cnbeta.com/articles/tech/1312283.htm) | Sun Sep 04 2022 11:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有多少人看到街边 2 块钱一根的烤肠，都是逢见必买的。滋啦滋啦地在烤架上一烤，很是美味。但吃是吃过瘾了，很多人也会担心 2 块钱一根的烤肠到底能不能吃？啥肉做的啊？是否对身体有害？今天我们就来说一说。01街边 2 块钱的烤肠是什么肉做的？火腿肠、烤肠等速食肉类制品，是人类早期为最大利用食物资源为目的制作的原始灌肠类肉制品演变而来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2017年，微软曾推出了面向企业市场的视频管理工具Stream，但配套的应用程序却存在着不少问题。近日，&lt;strong&gt;微软终于宣布，将重头开始重构Stream的应用程序，并已经上线了安卓与iOS端的Beta测试版。&lt;/strong&gt;在新的Stream中，微软带来了新的设计改造，包括重新设计的主页、无缝访问经典和SharePoint版本的Stream，以及观看视频时更丰富的体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
