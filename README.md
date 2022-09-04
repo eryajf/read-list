@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [刘德华抖音演唱会观看人次超3.5亿 “情怀流量”还能被消费多久？](https://hot.cnbeta.com/articles/music/1312253.htm) | Sun Sep 04 2022 8:44 AM 
+- 🕯 [网传理想One将停产并降价2万元 客服回应：L8将完成替代](https://www.cnbeta.com/articles/tech/1312263.htm) | Sun Sep 04 2022 9:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“哎哟向着天空拜一拜呀，别想不开，老天自有安排，老天爱笨小孩。”9月3日晚20时，伴随着《笨小孩》熟悉的旋律响起，刘德华“把我唱给你听”线上演唱会在抖音直播间正式开播，在背后霓虹舞台中，瞬间将观众拉进怀旧氛围，演唱会在线观看人次最终人次达3.5亿。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1312253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;理想L9最近已经开始交付，网络消息称理想One将降价2万元，下个月还会停产，引发理想One车主不满，理想客服表示理想L9会是替代品。据中新经纬报道，针对网传理想ONE降价2万元销售且下个月将停产一事，&lt;strong&gt;理想汽车客服表示，“因为理想L8是理想ONE的一个替代品，换代完成后，理想ONE将不会再生产。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [男子悬崖边拍照突然抽筋坠崖被困12小时后获救 官方科普登山安全事项](https://www.cnbeta.com/articles/tech/1312251.htm) | Sun Sep 04 2022 8:42 AM 
+- 💼 [Troy Teslike：特斯拉中国预计将在9月份交付超过10万辆电动汽车](https://www.cnbeta.com/articles/tech/1312261.htm) | Sun Sep 04 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;登山拍照，有些朋友喜欢找一些刁钻的角度，可这也暗藏着危险。据中国消防微博，近日在广东东莞，一名男子沉醉于眼前美景，站在悬崖边拍照腿部突然抽筋坠崖，身体受伤动弹不了，被困在半山腰12小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间周五，专注追踪特斯拉交付等数据分析的知名推特用户Troy Teslike发布推文称，特斯拉中国预计将在9月份交付超过10万辆电动汽车，这将是一个新的记录。目前，特斯拉在上海拥有一家超级工厂，该工厂在7月份进行了为期两周的生产线优化升级，从而导致生产一度中断。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [百度贴吧出镜率最高的男人 居然是个受欢迎的反派？](https://www.cnbeta.com/articles/tech/1312249.htm) | Sun Sep 04 2022 8:42 AM 
+- 💂 [30系库存积压严重？二季度N卡出货量暴跌25.7%](https://www.cnbeta.com/articles/tech/1312259.htm) | Sun Sep 04 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当年混贴吧的人，肯定都见过下面这张动图：一个身穿盔甲的人半蹲于雪原之上，用手抹开了身前的雪花，露出了 “ LZSB ” 四个字母。这张动图曾经是整个百度贴吧最受欢迎的签名档，应该没有之一。如果说要在中国互联网历史上选出一个&amp;nbsp;“ 顶流中文社区 ”榜单，我想百度贴吧一定榜上有名。巅峰时期，百度贴吧拥有 3 亿用户，不知道有多少流行的梗和名言，都是从这里流传开来的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;30系显卡发售后，新一轮矿潮便拉开了序幕。在短短的四个月内，主流游戏显卡的平均涨幅便已经超过了80%。在国发委下达整治“挖矿”的通知以及忍受了高价显卡许久的DIY玩家与普通消费者开始反抗之下，长达1年之久的矿潮逐渐褪去，不过由于30系显卡诞生于矿潮时期，且不少矿老板大量使用30系显卡，所以市面上存在不少的矿卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [边骂边看：《指环王：力量之戒》美剧同时观看人数2500万 创下纪录](https://hot.cnbeta.com/articles/movie/1312247.htm) | Sun Sep 04 2022 7:35 AM 
+- 🚀 [《木卫四协议》开发商公开宣传“996”赶工：CEO发推公开道歉](https://hot.cnbeta.com/articles/game/1312257.htm) | Sun Sep 04 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊斥巨资打造的《指环王》剧版《指环王：力量之戒》第一季于当地时间9月2日正式开播，官方宣布，最新统计在首播24小时内同时观看人数最高超过2500万，创下亚马逊史上新纪录。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于玩家来说，希望自己等待的游戏能够不跳票，按时发售理所应当，但近日，却有游戏开发商因为宣称自己要确保游戏按时发售而遭到了抨击。近日，游戏《木卫四协议》的开发商Striking Distance Studios的CEO Glen Schofield在社交媒体发布消息，&lt;strong&gt;称公司员工为了游戏按时发售，每天工作12到15个小时，一周工作6到7天，且没有受到强迫。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [买到就被跌到 NVIDIA RTX 30系显卡价格再创历史新低](https://www.cnbeta.com/articles/tech/1312245.htm) | Sun Sep 04 2022 7:32 AM 
+- 🎊 [微软Edge 105升级Bug导致浏览器无法启动 遇到问题的您需要这样修复](https://www.cnbeta.com/articles/tech/1312255.htm) | Sun Sep 04 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p style=&quot;text-align: left;&quot;&gt;想要抄底RTX 30系显卡，可面对的真实局面实际是深不见底……进入9月份，RTX 30系显卡的跌价还在继续中，RTX 3090/3090 Ti更是双双在国内外创下新的最低价。以国内市场为例，细心的卡吧网友整理的数据显示，&lt;strong&gt;RTX 30全系跌破建议零售价，其中RTX 3090做到了6999元的历史新低，3090 Ti则是7799元，和当年的发售价相比，几乎是双双腰斩。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;几天前，微软发布了新版本的Edge浏览器，带来了各种改进和变化。但是，许多更新到微软Edge 105的人遇到了一个相当严重的问题--浏览器彻底罢工，无法启动。&lt;strong&gt;这是一个已经被广泛报道的问题，虽然微软对这个问题公开说了很多，但Edge开发团队的一名成员现在才站出来提出了解决方案。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
