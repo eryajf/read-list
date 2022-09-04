@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [TribuCode - 创建和管理您的亲人纪念馆](https://xinquji.com/posts/179244?utm_campaign=xinquji-rss) | Sun Sep 04 2022 6:15 AM 
+- 👀 [HyreSnap - 在 10 分钟内为您的下一份工作获取完美的简历](https://xinquji.com/posts/179251?utm_campaign=xinquji-rss) | Mon Sep 05 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     创建和管理您的亲人纪念馆  
+     在 10 分钟内为您的下一份工作获取完美的简历  
     </details> 
 
-- 🥷 [Roast My Speech - 让我们烘烤并显着改善您的演讲](https://xinquji.com/posts/179243?utm_campaign=xinquji-rss) | Sun Sep 04 2022 6:13 AM 
+- 🥷 [420+ Marketing Resources - 营销资源集合，一站式服务](https://xinquji.com/posts/179250?utm_campaign=xinquji-rss) | Mon Sep 05 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     让我们烘烤并显着改善您的演讲  
+     营销资源集合，一站式服务  
     </details> 
 
-- 💼 [McBuild - 在您的 Minecraft 地图上在线安装建筑物](https://xinquji.com/posts/179242?utm_campaign=xinquji-rss) | Sun Sep 04 2022 6:13 AM 
+- 💼 [Product Manager MBA - 您需要开始使用产品的唯一课程](https://xinquji.com/posts/179249?utm_campaign=xinquji-rss) | Mon Sep 05 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     在您的 Minecraft 地图上在线安装建筑物  
+     您需要开始使用产品的唯一课程  
     </details> 
 
-- 🦅 [docsie - 为您的企业创建更好的产品文档](https://xinquji.com/posts/179241?utm_campaign=xinquji-rss) | Sun Sep 04 2022 6:11 AM 
+- 🦅 [Recession Preparedness Calculator - 对于紧张的首席财务官削减预算，您准备好了吗？](https://xinquji.com/posts/179248?utm_campaign=xinquji-rss) | Mon Sep 05 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     为您的企业创建更好的产品文档  
+     对于紧张的首席财务官削减预算，您准备好了吗？  
     </details> 
 
-- 😺 [California Smoke Spotter 2.0 - 为您附近的烟雾做好准备](https://xinquji.com/posts/179240?utm_campaign=xinquji-rss) | Sun Sep 04 2022 6:10 AM 
+- 😺 [Billfish - 国产的免费灵感采集和素材管理神器](https://xinquji.com/posts/179168?utm_campaign=xinquji-rss) | Mon Sep 05 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     为您附近的烟雾做好准备  
+     国产的免费灵感采集和素材管理神器  
     </details> 
 <!-- xinquji:END -->
