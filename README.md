@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Zoom 和 OBS 回音的疑问](https://www.v2ex.com/t/877665#reply0) | Sun Sep 04 2022 12:34 PM
-- 🤗 [双系统启动问题](https://www.v2ex.com/t/877659#reply1) | Sun Sep 04 2022 12:04 PM
-- 🎭 [[mysql 字段] not null 还是 null default](https://www.v2ex.com/t/877652#reply8) | Sun Sep 04 2022 10:52 AM
-- 🥷 [canvas 绘图字体问题。](https://www.v2ex.com/t/877637#reply6) | Sun Sep 04 2022 9:40 AM
-- 🐵 [我 fork 的 110+star 的 newbee-mall 商城 V2.2.0 发布啦](https://www.v2ex.com/t/877635#reply1) | Sun Sep 04 2022 9:36 AM<!-- v2ex:END -->
+- 🥸 [为什么游戏玩家少了就要关服？](https://www.v2ex.com/t/877671#reply9) | Sun Sep 04 2022 12:50 PM
+- 🤗 [Zoom 和 OBS 回音的疑问](https://www.v2ex.com/t/877665#reply1) | Sun Sep 04 2022 12:34 PM
+- 🎭 [双系统启动问题](https://www.v2ex.com/t/877659#reply3) | Sun Sep 04 2022 12:04 PM
+- 🥷 [[mysql 字段] not null 还是 null default](https://www.v2ex.com/t/877652#reply9) | Sun Sep 04 2022 10:52 AM
+- 🐵 [canvas 绘图字体问题。](https://www.v2ex.com/t/877637#reply6) | Sun Sep 04 2022 9:40 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
