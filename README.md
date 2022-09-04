@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [自制臭豆腐吃进ICU？这种“致命毒素” 很多人家里就有](https://www.cnbeta.com/articles/tech/1312235.htm) | Sun Sep 04 2022 7:13 AM 
+- 🕯 [边骂边看：《指环王：力量之戒》美剧同时观看人数2500万 创下纪录](https://hot.cnbeta.com/articles/movie/1312247.htm) | Sun Sep 04 2022 7:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;提到肉毒杆菌，很多人可能会把它和美容整形联系起来，很多女性朋友都把肉毒杆菌当做抗皱纹神器，靠它来改善鱼尾纹“抚平脸上岁月的痕迹”。其实它不仅和美容有关，肉毒杆菌与饮食安全也密切相关。今年，河南郑州的吴女士因食用了自制臭豆腐而中毒，不仅有不适症状，甚至还出现了呼吸衰竭。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊斥巨资打造的《指环王》剧版《指环王：力量之戒》第一季于当地时间9月2日正式开播，官方宣布，最新统计在首播24小时内同时观看人数最高超过2500万，创下亚马逊史上新纪录。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华为“花瓣翻译官”运营不到一年宣告退场](https://www.cnbeta.com/articles/tech/1312233.htm) | Sun Sep 04 2022 7:12 AM 
+- 💼 [买到就被跌到 NVIDIA RTX 30系显卡价格再创历史新低](https://www.cnbeta.com/articles/tech/1312245.htm) | Sun Sep 04 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2021年11月，华为推出了智能翻译软件“花瓣翻译官”，支持语音、文字、智能识别等翻译功能。但在不到一年后的现在，花瓣翻译官却悄然退场，&lt;strong&gt;在8月30日已经正式宣布停止运营与服务。&lt;/strong&gt;目前，花瓣翻译官已经从各大应用市场下架，即便通过已有安装包安装软件，也无法进行翻译等需要联网的操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-align: left;&quot;&gt;想要抄底RTX 30系显卡，可面对的真实局面实际是深不见底……进入9月份，RTX 30系显卡的跌价还在继续中，RTX 3090/3090 Ti更是双双在国内外创下新的最低价。以国内市场为例，细心的卡吧网友整理的数据显示，&lt;strong&gt;RTX 30全系跌破建议零售价，其中RTX 3090做到了6999元的历史新低，3090 Ti则是7799元，和当年的发售价相比，几乎是双双腰斩。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [五菱联手日企“仿造”K-car物流车 进军日本市场销售](https://www.cnbeta.com/articles/tech/1312231.htm) | Sun Sep 04 2022 7:08 AM 
+- 💂 [SK Siltron晶圆厂在密歇根贝城开工 州长亲临现场](https://www.cnbeta.com/articles/tech/1312243.htm) | Sun Sep 04 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月4日，据广西汽车集团消息，五菱新能源与日本ASF株式会社举行G050项目量产合同签约暨OTA样车交付仪式。根据协议，双方合作开发一款纯电动物流车，&lt;strong&gt;由日方支付研发费用，委托五菱新能源生产制造，共同推动广西新能源汽车首次进入日本市场销售。&lt;/strong&gt;预计明年4月底量产上市，并向5年10万辆的目标迈进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;周四，密歇根州州长Gretchen Whitmer和其他数百人一起参加了贝城（Bay City）SK Siltron CSS半导体晶圆厂的开业仪式。2022年9月1日，美国密歇根州第5选区议员Dan Kildee（左中）、SK Siltron CSS首席执行官Jianwei Dong（右中）和密歇根州州长Gretchen Whitmer在Bay县为SK Siltron CSS新工厂剪彩。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [华为Mate 50系列发布会官宣：9月6日14:30见](https://www.cnbeta.com/articles/tech/1312229.htm) | Sun Sep 04 2022 7:07 AM 
+- 🚀 [起亚纯电xEV在美国市场八月的销量暴增151% 创历史最好表现](https://www.cnbeta.com/articles/tech/1312241.htm) | Sun Sep 04 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今日，华为Mate 50系列新品发布会正式官宣，发布会将于9月6日（下周二）14:30举行，届时，除“我的华为”“华为商城”“花粉俱乐部”“华为消费者业务官网”等官方渠道。&lt;/strong&gt;此次全场景新品秋季发布会，华为除了将带来Mate 50系列外，还将推出首款搭载HarmonyOS的家庭数据中心“华为家庭存储”、华为MateBook E Go、华为智能门锁SE猫眼版等新品，同时，AITO首款纯电车型问界M5 EV也将同台亮相。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;起亚美国公司报告说，8月份的汽车销量为66089辆，比一年前增加了22%，这也是有史以来最好的8月份。看来该公司终于找到了改善业绩的方法，尽管年初至今的结果为461878辆，仍比2021年低8%。起亚传来的另一个积极消息是，其电气化汽车的销售--xEVs（BEVs、PHEVs、HEVs）--同比增长了151%，但新闻稿中没有列出准确数字。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“轩岚诺”增强为超强台风级 浙江、上海暴雨来袭](https://www.cnbeta.com/articles/tech/1312227.htm) | Sun Sep 04 2022 7:02 AM 
+- 🎊 [摩托罗拉Edge 30 Ultra的设计和主要规格在泄露的官方视频中曝光](https://www.cnbeta.com/articles/tech/1312239.htm) | Sun Sep 04 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月4日消息，据中央气象台，今天上午11时，今年第11号台风“轩岚诺”的中心位于浙江省朱家尖岛南偏东方向约460公里的海面上，&lt;strong&gt;中心附近最大风力16级，增强为超强台风级。&lt;/strong&gt;预计，“轩岚诺”将以每小时15-20公里左右的速度向偏北方向移动，逐渐向浙江东北部近海靠近，今天夜间到5日早晨将在浙江近海海面北上，5日上午开始转向东北方向移动，趋向朝鲜半岛南部到朝鲜海峡一带。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;摩托罗拉已安排在9月8日举行发布会，公布新的Edge系列智能手机，但暂时还没有透露这些智能手机的名称，其中一款预计是Edge 30 Ultra，它已经出现在可靠泄密者Evan Blass泄露的官方视频中，主要揭示了Edge 30 Ultra的设计和主要规格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
