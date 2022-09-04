@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [美国 有人偷了一架飞机宣称要撞当地的沃尔玛超市](http://jandan.net/p/111288) | Sat Sep 03 2022 4:00 PM 
+- 🚀 [新的GnRH激素疗法有望提升唐氏患者的生活质量](http://jandan.net/p/111278) | Sun Sep 04 2022 4:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    唐氏患者的黎明 
+    </details> 
+
+- 🙉 [雄海马是如何生孩子的？](http://jandan.net/p/111289) | Sun Sep 04 2022 4:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    和雌性动物不太一样 
+    </details> 
+
+- 🎉 [让智能手机在水下通信 以声音为信道传输文字短信的APP](http://jandan.net/p/111284) | Sun Sep 04 2022 4:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    潜水爱好者的福音？ 
+    </details> 
+
+- 🐲 [今日好价 0904](http://jandan.net/p/111291) | Sun Sep 04 2022 3:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
+    </details> 
+
+-  [美国 有人偷了一架飞机宣称要撞当地的沃尔玛超市](http://jandan.net/p/111288) | Sat Sep 03 2022 4:00 PM 
     <details><summary>展开描述 ...</summary> 
     图珀洛像过年一样，当地人既紧张又亢奋。被疏散了也不用上班，全都开起了直播。 
-    </details> 
-
-- 🙉 [无盐饮食对心衰患者并不好](http://jandan.net/p/111287) | Sat Sep 03 2022 2:40 PM 
-    <details><summary>展开描述 ...</summary> 
-    普通人仍要注意控制 
-    </details> 
-
-- 🎉 [意大利和德国的研究人员发表了将神经形态学应用到机器人上的方法](http://jandan.net/p/111286) | Sat Sep 03 2022 12:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    英特尔&lpar;Intel&rpar;的Loihi芯片能驱动更聪明的机器人 
-    </details> 
-
-- 🐲 [物理学上的突破可以引领到更新更高效的量子计算机](http://jandan.net/p/111285) | Sat Sep 03 2022 12:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    每次以一个光子，就能解决科学，技术，工程和数学上最困难的问题 
-    </details> 
-
--  [性满意度和哪些要素相关？宗教，学历……英国第三次全国性态度和生活方式调查](http://jandan.net/p/111252) | Sat Sep 03 2022 3:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    受过高等教育的人报告说性生活频率较低，性生活满意度也较低。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
