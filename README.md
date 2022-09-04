@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么游戏玩家少了就要关服？](https://www.v2ex.com/t/877671#reply13) | Sun Sep 04 2022 12:50 PM
-- 🤗 [Zoom 和 OBS 回音的疑问](https://www.v2ex.com/t/877665#reply2) | Sun Sep 04 2022 12:34 PM
-- 🎭 [双系统启动问题](https://www.v2ex.com/t/877659#reply5) | Sun Sep 04 2022 12:04 PM
-- 🥷 [[mysql 字段] not null 还是 null default](https://www.v2ex.com/t/877652#reply11) | Sun Sep 04 2022 10:52 AM
-- 🐵 [canvas 绘图字体问题。](https://www.v2ex.com/t/877637#reply6) | Sun Sep 04 2022 9:40 AM<!-- v2ex:END -->
+- 🥸 [如何用 shell 脚本优雅的遍历文件夹内所有文件名的中文字符并替换？](https://www.v2ex.com/t/877692#reply6) | Sun Sep 04 2022 3:04 PM
+- 🤗 [Edge 的 PDF 滚动拖影什么时候能改](https://www.v2ex.com/t/877686#reply1) | Sun Sep 04 2022 2:19 PM
+- 🎭 [为什么游戏玩家少了就要关服？](https://www.v2ex.com/t/877671#reply18) | Sun Sep 04 2022 12:50 PM
+- 🥷 [Zoom 和 OBS 回音的疑问](https://www.v2ex.com/t/877665#reply4) | Sun Sep 04 2022 12:34 PM
+- 🐵 [双系统启动问题](https://www.v2ex.com/t/877659#reply5) | Sun Sep 04 2022 12:04 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
