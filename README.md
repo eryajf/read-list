@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 Mypy 检查 30 万行 Python 代码，总结出 3 大痛点与 6 个技巧！](https://juejin.cn/post/7139884539584708615) | Mon Sep 05 2022 1:20 PM 
+- 🤗 [发布一款Gradle插件需要经历些什么](https://juejin.cn/post/7139898562812313631) | Mon Sep 05 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
-    大型项目使用 mypy 检查静态类型，真香！使用 Mypy 检查 30 万行 Python 代码，总结出 3 大痛点与 6 个技巧！使用 Mypy 检查 30 万行 Python 代码，总结出 3 大 
+    熟悉开源库发布的朋友应该都体验过 Maven Central 发布的繁琐&amp;严格，对于第一次发布的开发者而言肯定费时费力。一方面，对于国内而言这块教程文章相对来说比较少，但是很多都是“年久失修” 
     </details> 
 
-- 🎡 [【说透Redis】 如何用Redis实现分布式锁？](https://juejin.cn/post/7139879580109635597) | Mon Sep 05 2022 12:59 PM 
+- 🎡 [管理者如何才能不亲力亲为？](https://juejin.cn/post/7139894939768324127) | Mon Sep 05 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情” 1. 什么是分布式锁 当我们在编写多线程代码的时候，不同的线程可能会发生资源的争夺，为了避免资源争夺造成的错误， 
+    管理者如何才能不亲力亲为？前段时间和朋友聊天，突然聊到这个话题。作为管理者，他觉得什么事都需要自己做，试过把事情交给下属做，但是经常出问题。我说：“出了问题不可怕，就怕你不知道为什么会出问题。” 
     </details> 
 
-- 🕯 [面试突击80：说一下 Spring 中 Bean 的生命周期？](https://juejin.cn/post/7139876540741287950) | Mon Sep 05 2022 12:49 PM 
+- 🕯 [uniapp - 接入科大讯飞语音评测](https://juejin.cn/post/7139894621571645454) | Mon Sep 05 2022 1:58 PM 
     <details><summary>展开描述 ...</summary> 
-    Java 中的公共类称之为 Bean 或 Java Bean，而 Spring 中的 Bean 指的是将对象的生命周期，交个 Spring IoC 容器来管理的对象。 
+    一、简介 科大讯飞语音评测可以对字、词、句、篇章等题型进行多维度评分（准确度、流畅度、完整度、声韵调型等），支持中文和英文。最新的流式版使用 webSocket 调用接口，开发者可以边录音边上边音频数 
     </details> 
 
-- 🚀 [在linux上使用jupyter](https://juejin.cn/post/7139873278004297741) | Mon Sep 05 2022 12:36 PM 
+- 🚀 [MPAndroidChart 自定义图表II](https://juejin.cn/post/7139891650028912671) | Mon Sep 05 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-    利用jupyter notebook自带的远程访问功能 官方指南在此：官方指南 生成默认配置文件 修改./jupyter/jupyter_notebook_config.py中对应行如下 在服务器上启 
+    声明：文中的MPChart代指MPAndroidChart. 本文主要讲解LineChart中的三个变种Chart，第一个是渐变的LineGradientChart, 第二个是频率散点图，游泳阶梯图。 
     </details> 
 
-- 💪 [Spring5源码14-SpringMVC-DispatcherServlet处理请求核心逻辑](https://juejin.cn/post/7139861715650347016) | Mon Sep 05 2022 11:54 AM 
+- 💪 [🤷‍♂️ 怒砸 30w+ 矿石抽礼盒后，我通透了...【掘金 · 幸运大转盘Vue3版】](https://juejin.cn/post/7139891698246615076) | Mon Sep 05 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
-    SpringMVC的工作流程，DispatcherServlet继承关系图，以及核心处理流程，对核心方法进行说明 
+    中秋节快到了，掘金社区一如既往的在这种节日推出了社区周边的礼盒，像之前的端午粽子礼盒，这次推出了中秋月饼礼盒，满打满算，从今年的端午礼盒到现在的中秋礼盒，我最起码攒了有30w+的矿石了...... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
