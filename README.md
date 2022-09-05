@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国产无人机“翼龙”抵达地震灾区](https://www.cnbeta.com/articles/tech/1312725.htm) | Mon Sep 05 2022 7:14 PM 
+- 🕯 [“被取消学籍者90%因为游戏”的沉重警示](https://hot.cnbeta.com/articles/game/1312727.htm) | Mon Sep 05 2022 7:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，中国计量大学校长徐江荣在该校2022级新生开学典礼上致辞中表示，有一些大学生认为“上了大学就轻松了”，这是对大学学习的一个严重误判。徐江荣分别向老师、同学和家长提出忠告，给同学的忠告是：网络游戏是最大的校园毒品，每年被取消学籍的同学90%因为游戏，100%不值得同情。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [国产无人机“翼龙”抵达地震灾区](https://www.cnbeta.com/articles/tech/1312725.htm) | Mon Sep 05 2022 7:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月5日12时52分，四川甘孜藏族自治州泸定县发生6.8级地震。15时57分，“翼龙”-2H应急救灾型无人机紧急起飞赴四川甘孜藏族自治州泸定县执行任务。18时44分，无人机进入任务区，随即进行勘查，实行应急通信保障。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [疯魔的韩国人：卖房、借钱、节衣缩食 只为买一点特斯拉股票](https://www.cnbeta.com/articles/tech/1312723.htm) | Mon Sep 05 2022 5:07 PM 
+- 💂 [疯魔的韩国人：卖房、借钱、节衣缩食 只为买一点特斯拉股票](https://www.cnbeta.com/articles/tech/1312723.htm) | Mon Sep 05 2022 5:07 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;韩国股民们为了炒股，彻底疯球了……最近承载他们梦想的，是特斯拉。别以为这只是口嗨，新冠疫情期间，韩国散户买入了 150 亿美元特斯拉股票，成为了特斯拉第七大股东，排在他们前面的是华尔街。持股比例达到 1.6%。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [2.3亿年前 地球下了200万年的大雨？真的吗？](https://www.cnbeta.com/articles/science/1312721.htm) | Mon Sep 05 2022 5:06 PM 
+- 🚀 [2.3亿年前 地球下了200万年的大雨？真的吗？](https://www.cnbeta.com/articles/science/1312721.htm) | Mon Sep 05 2022 5:06 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;我们经常可以看到一些文章指出，地球曾经下过一场持续几百万年的大雨，很多人甚至认为恐龙的进化就是这场持续百万年的雨造就的。简单查了下，连自然网站上也有类似的标题，以及讲述一个恐龙的崛起故事。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [USB v2.0解锁隐藏属性：速度飙升到120Gbps 1个顶3个雷电4](https://www.cnbeta.com/articles/tech/1312719.htm) | Mon Sep 05 2022 5:05 PM 
+- 🎊 [USB v2.0解锁隐藏属性：速度飙升到120Gbps 1个顶3个雷电4](https://www.cnbeta.com/articles/tech/1312719.htm) | Mon Sep 05 2022 5:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;上周，UBS推广组官宣了USB v2.0标准，披露的峰值速率可达80Gbps，是雷电4的两倍。实际上，在USB v1.0中，只要达到20Gbps就可以，40Gbps仅仅是可选，从这个角度来看，v2.0的提升着实不小。而惊喜不止于此。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [小心儿童电话手表暗藏的攀比与社交圈子](https://www.cnbeta.com/articles/tech/1312717.htm) | Mon Sep 05 2022 4:53 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;唱着《孤勇者》，去玩具店买套正版卡牌或文具盲盒，用小天才电话手表发个朋友圈……这些片段已是多少小朋友的生活日常。这些不仅仅是他们的社交话题，甚至有的已经成为儿童的社交货币。而随着商家的营销手段升级，儿童社交门槛也水涨船高。新学期伊始，本报欲借此系列报道，引发社会各界关注，倡导更为健康的儿童消费风气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
