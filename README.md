@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [再被拒，就不礼貌了：《非正式面试》第一期上线！陪你度过秋招季](https://juejin.cn/post/7139820388212539428) | Mon Sep 05 2022 9:10 AM 
+- 🤗 [MSE 支持 Apache Shenyu 网关实现全链路灰度](https://juejin.cn/post/7139825158772457480) | Mon Sep 05 2022 9:28 AM 
     <details><summary>展开描述 ...</summary> 
-    《非正式面试》是一档面向研发求职者的短视频节目，每周我们会邀请一位富有经验的研发面试官，或者一位成功求职上岸的新人码农，分享自己的面试经验，传递有效的面试技巧。 
+    我们希望可以对这些服务的新版本同时进行小流量灰度验证，这就是微服务架构中特有的全链路灰度场景，通过构建从网关到整个后端服务的环境隔离来对多个不同版本的服务进行灰度验证。 
     </details> 
 
-- 🎡 [Jetpack结合MVVM可以开发出一个多优秀的APP？](https://juejin.cn/post/7139818996672495630) | Mon Sep 05 2022 9:05 AM 
+- 🎡 [菜鸟学Vue源码之defineProperty响应式数据原理实现](https://juejin.cn/post/7139824954237059109) | Mon Sep 05 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在脉脉上看到了一篇有趣的帖子： 是的 Android 没有前几年火热了，现在已经过了那个会四大组件就能找到高薪职位的时代了。这只能说明 Android 中级以下的岗位饱和了，现在高级工程师还是非常 
+    这篇主要是手写实现Object.defineProperty&lpar;&rpar;响应式数据原理，以及对象属性劫持和深度属性劫持 
     </details> 
 
-- 🕯 [CPU流水线与指令乱序执行](https://juejin.cn/post/7139818718619500581) | Mon Sep 05 2022 9:03 AM 
+- 🕯 [AOP / 面向切面编程 / 字节码插桩 / ASM / 解读版](https://juejin.cn/post/7139822034300698654) | Mon Sep 05 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-    这个小故事属实反映了我最近的心态：越学越不会了。。。 我把最近学习过程中自己抛出来的问题解决掉，把所有知识穿成一条线。这条线的线头就从指令的乱序执行开始了。 
+    AOP / 面向切面编程 / 字节码插桩 / ASM / 解读版， 了解 JVM 栈/栈帧/局部变量表/操作数栈，分析 TransformClassesWithAsmTask 源码 
     </details> 
 
-- 🚀 [十问 RocketMQ：十年再出发，到底有何不同？](https://juejin.cn/post/7139811537786994725) | Mon Sep 05 2022 8:36 AM 
+- 🚀 [HelloElectron——引入NaiveUI、Pinia简单美化（四）](https://juejin.cn/post/7139821651683704869) | Mon Sep 05 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-    云原生时代，RocketMQ 全新升级背后的原因是什么？我们选取了十大问题，抛给阿里云 RocketMQ 团队，听听他们对于产品发展与决策的思考。 
+    Github：Jakentop/plantuml-editor: 基于electron+vue+vite实现的plantuml桌面编辑器 &lpar;github.com&rpar; Github提交标签：e88e02d 
     </details> 
 
-- 💪 [如何从零开始解读什么叫产品经理](https://juejin.cn/post/7139811363337011236) | Mon Sep 05 2022 8:34 AM 
+- 💪 [vue3 源码学习（2）—— reactive](https://juejin.cn/post/7139821460024983560) | Mon Sep 05 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-    ####（一）什么是产品经理 ① 身边常发生的事情 ② 什么是产品经理 ③ 定位 1.PM 2.PD ④ 公司的模式 这一类的公司比如：阿里、苏宁、国美、京东、饿了么、携程、平安好医生、支付宝 在这样 
+    本篇文章，目的是搞懂 reactive 的实现原理。因此，关于其代码的细节部分，不会过多研究，仅以其核心代码为主。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
