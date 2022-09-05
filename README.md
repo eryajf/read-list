@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Scrutiny 12.4.2 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Fri Sep 02 2022 12:49 AM 
+- 🦏 [RAR Extractor Max – unzip 10.5.0 解压缩神器](https://xclient.info/s/rar-extractor-unzip.html) | Mon Sep 05 2022 12:36 AM 
     <details><summary>展开描述 ...</summary> 
-    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
+    RAR Extractor - Unzip是一款功能强大的解压缩软件，支持几乎所有的压缩格式，比如RAR, ZIP, 7z, tbz, sti, tar, xar等等，用起来非常的方便。 
     </details> 
 
--  [Cisdem Duplicate Finder 6.0.0 重复文件清理应用](https://xclient.info/s/cisdem-duplicate-finder.html) | Fri Sep 02 2022 12:48 AM 
+-  [Home Inventory 4.7.0 固定资产管理工具](https://xclient.info/s/home-inventory.html) | Mon Sep 05 2022 12:35 AM 
     <details><summary>展开描述 ...</summary> 
-    Cisdem DuplicateFinder是一款MacOS平台上清理重复文件的工具，提供了智能扫描算法，找到并删除所有重复的文件。有了这个工具，你可以同时扫描计算机驱动器和位于外部设备的文件夹，像的iPhoto，iTunes和邮件Apple应用程序。该程序可以找到并进行批量删除重复的文件，节省硬盘空间。 
+    Home Inventory是Mac os平台上的一款Mac固定资产管理软件，可以帮助用户把自己的私人物品自己命名，效果和作用都非常的不错，速度是非常重要的，建立一个完整的目录和存储您的贵重物品的重要细节。 
     </details> 
 
-- ⚗️ [EaseUS Data Recovery Wizard 13.7 数据恢复工具](https://xclient.info/s/easeus-data-recovery-wizard.html) | Fri Sep 02 2022 12:47 AM 
+- ⚗️ [GrandTotal 7.3.6.8 一款非常实用的发票设计工具](https://xclient.info/s/grandtotal.html) | Mon Sep 05 2022 12:34 AM 
     <details><summary>展开描述 ...</summary> 
-    EaseUS Data Recovery Wizard是一款数据恢复软件，能够为你恢复由于各种不同原因导致被删除或者被格式化的文件，它有 4 种恢复模式，能够有效的为你节省时间，提高数据恢复的成功率。 
+    GrandTotal 是Mac OS X 上的一款非常实用的发票设计工具，可以根据一个内置的模板编辑器来重新调整布局，创建属于自己的发票模版，适合企业和个人来进行形象设计。 
     </details> 
 
-- 🔥 [Navicat Premium 16.1.2 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Fri Sep 02 2022 12:46 AM 
+- 🔥 [Nisus Writer Pro 3.3 全功能文字编辑器](https://xclient.info/s/nisus-writer-pro.html) | Mon Sep 05 2022 12:33 AM 
     <details><summary>展开描述 ...</summary> 
-    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
+    Nisus Writer Pro 是一个全功能的文字编辑器，专业版提供了一个显著量的改进和新功能，使得它值得关注。 
     </details> 
 
-- 🌋 [Typora 1.4.2 极简Markdown编辑器](https://xclient.info/s/typora.html) | Fri Sep 02 2022 12:45 AM 
+- 🌋 [4K Video Downloader 4.21.3 下载高品质的YouTube视频](https://xclient.info/s/4k-video-downloader.html) | Mon Sep 05 2022 12:31 AM 
     <details><summary>展开描述 ...</summary> 
-    Typora是一个功能强大的Markdown编辑器,使用GFM风格&lpar;即大名鼎鼎的githubflavoredmarkdown&rpar; 
+    4K Video Downloader 是“一个视频下载工具，如此简单，就是一个视频下载工具该有的样子”。复制 YouTube 视频链接并点击界面左上角的 “Paste URL”，就能自动识别 4K 甚至是原始分辨率片源。接下来，选择分辨率、格式后就开始下载了。 
     </details> 
 <!-- xclient:END -->
 
