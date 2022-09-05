@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Spring5源码14-SpringMVC-DispatcherServlet处理请求核心逻辑](https://juejin.cn/post/7139861715650347016) | Mon Sep 05 2022 11:54 AM 
+- 🤗 [使用 Mypy 检查 30 万行 Python 代码，总结出 3 大痛点与 6 个技巧！](https://juejin.cn/post/7139884539584708615) | Mon Sep 05 2022 1:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    大型项目使用 mypy 检查静态类型，真香！使用 Mypy 检查 30 万行 Python 代码，总结出 3 大痛点与 6 个技巧！使用 Mypy 检查 30 万行 Python 代码，总结出 3 大 
+    </details> 
+
+- 🎡 [【说透Redis】 如何用Redis实现分布式锁？](https://juejin.cn/post/7139879580109635597) | Mon Sep 05 2022 12:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情” 1. 什么是分布式锁 当我们在编写多线程代码的时候，不同的线程可能会发生资源的争夺，为了避免资源争夺造成的错误， 
+    </details> 
+
+- 🕯 [面试突击80：说一下 Spring 中 Bean 的生命周期？](https://juejin.cn/post/7139876540741287950) | Mon Sep 05 2022 12:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    Java 中的公共类称之为 Bean 或 Java Bean，而 Spring 中的 Bean 指的是将对象的生命周期，交个 Spring IoC 容器来管理的对象。 
+    </details> 
+
+- 🚀 [在linux上使用jupyter](https://juejin.cn/post/7139873278004297741) | Mon Sep 05 2022 12:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    利用jupyter notebook自带的远程访问功能 官方指南在此：官方指南 生成默认配置文件 修改./jupyter/jupyter_notebook_config.py中对应行如下 在服务器上启 
+    </details> 
+
+- 💪 [Spring5源码14-SpringMVC-DispatcherServlet处理请求核心逻辑](https://juejin.cn/post/7139861715650347016) | Mon Sep 05 2022 11:54 AM 
     <details><summary>展开描述 ...</summary> 
     SpringMVC的工作流程，DispatcherServlet继承关系图，以及核心处理流程，对核心方法进行说明 
-    </details> 
-
-- 🎡 [前端 i18n 最佳实践：在 React 中使用 i18next](https://juejin.cn/post/7139855730105942030) | Mon Sep 05 2022 11:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将会介绍 i18n 的业界最佳实践。 并介绍了实施 i18n 要解决哪些问题，并使用 react 和 i18next 完成了一个小案例。 
-    </details> 
-
-- 🕯 [yargs 简易指南：撸一个CLI](https://juejin.cn/post/7139844050449858573) | Mon Sep 05 2022 10:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 最近在写一个覆盖公司产品全站页面性能测试的项目，随着代码量逐渐上升，单纯的脚本执行的姿势，使维护成本上去了，代码散落各地，调用要打一大串。所以直接搞成CLI改善使用体验和降低维护成本。 这篇文章 
-    </details> 
-
-- 🚀 [NLP-统计语言模型的平滑处理方法](https://juejin.cn/post/7139843467760369677) | Mon Sep 05 2022 10:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    在NLP-统计语言模型中简要介绍了统计语言模型的原理和实现方法，以bigram为例，计算了 的概率，这是比较理想的情况，而现实与理想的差 
-    </details> 
-
-- 💪 [你会用RxJS吗？【细说 RxJS中的 Operators】](https://juejin.cn/post/7139830060378226719) | Mon Sep 05 2022 9:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    Pipeable Operator 是一个将 Observable 作为其输入并返回另一个 Observable 的函数。这是一个纯粹的操作：之前的 Observable 保持不变。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
