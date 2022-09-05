@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一代“神车”理想ONE被曝将停产 官方承诺质保售后不影响](https://www.cnbeta.com/articles/tech/1312337.htm) | Sun Sep 04 2022 11:17 PM 
+- 🕯 [新研究发现空气污染和新生儿肠道微生物群发育之间存在关联](https://www.cnbeta.com/articles/science/1312421.htm) | Mon Sep 05 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2019年4月理想ONE上市，补贴后售价32.8万元，定位中大型SUV，截至8月1日，&lt;strong&gt;理想ONE累计交付量已达194913辆。&lt;/strong&gt;理想汽车凭借一款理想ONE打下新能源汽车市场的辉煌战绩，独撑了理想三年的产品线，堪称一代“神车”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日发表在《&lt;a href=&quot;https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2105096&quot; target=&quot;_blank&quot;&gt;Gut Microbes&lt;/a&gt;》（肠道微生物）期刊上的论文中，首次研究了空气污染和婴儿肠道微生物群发育之间的关系。&lt;/strong&gt;研究发现，在出生后的前六个月空气污染与肠道微生物组存在关联，这些微生物组与过敏和炎症性疾病有关。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [配置表显示iPhone 14 Pro Max比上一代更重 突破半斤](https://www.cnbeta.com/articles/tech/1312335.htm) | Sun Sep 04 2022 11:15 PM 
+- 💼 [科学家发现新型非阿片类止痛药 其副作用少于现有止痛片](https://www.cnbeta.com/articles/science/1312419.htm) | Mon Sep 05 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，一张iPhone 14系列四款机型参数信息在社交平台上曝光。相关信息显示，&lt;strong&gt;iPhone 14系列四款机型分别命名为iPhone 14、iPhone 14 Plus、iPhone 14 Pro和iPhone 14 Pro Max。&lt;/strong&gt;其中&lt;strong&gt;iPhone 14 Pro Max重量达到了255g，堪称“果半斤”，它比iPhone 13 Pro Max重17g，后者重量是238g。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-022-31652-2&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;科学家已经发现了一种有前途的新型非阿片类止痛药（镇痛剂）&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;，其副作用可能比其他强效止痛药更少&lt;/strong&gt;。由华威大学生命科学学院的科学家领导的一组研究人员分析了一种称为 BnOCPA（苄氧基-环戊基腺苷）的化合物，发现该化合物是一种强大的镇痛剂，在测试模型系统中不会上瘾。 BnOCPA 还具有独特的作用方式，可为镇痛药物的创制提供新的途径。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Windows 11&quot;Moment 1&quot;、&quot;Moment 2&quot;是包含新功能的下一批重大更新](https://www.cnbeta.com/articles/tech/1312333.htm) | Sun Sep 04 2022 11:13 PM 
+- 💂 [NASA更新“太阳系之眼”3D可视化工具 涵盖126艘航天器的任务路线](https://www.cnbeta.com/articles/science/1312417.htm) | Mon Sep 05 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软尚未正式确认Windows 11 22H2的发布日期，但我们听说推广工作将在几周内开始，可能是在9月20日或前后。RTM构建是Build 22621，它将搭载任务栏的拖放、更好的开始菜单定制选项、新的任务管理器等功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国宇航局刚刚更新了“太阳系之眼”（Eyes on the Solar System），以便感兴趣的人们通过这款 3D 可视化工具，了解该机构的 126 艘航天器的渲染图。&lt;/strong&gt;尽管 Artemis I 探月发射任务已因储氢罐泄露而推迟，但你至少可以借助该工具来预先了解它的行进路线、以及其它新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [RTX 30系显卡持续降价屡创新低 RTX 40系上市时间可能推迟到11月](https://www.cnbeta.com/articles/tech/1312331.htm) | Sun Sep 04 2022 11:09 PM 
+- 🚀 [马斯克：穆迪给特斯拉的垃圾评级无关紧要](https://www.cnbeta.com/articles/tech/1312415.htm) | Mon Sep 05 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;虽然老黄已经基本确认将在9月20日的GTC大会上发布新一代RTX显卡，且RTX 40显卡真身也已经曝光，但国外爆料大神表示，NVIDIA考虑将上市时间推迟到11月，也就是万圣节（11月1日）之后。&lt;/strong&gt;正常来说，新显卡从纸面发布到最终上市，最多一个月时间过渡，可现在又出现变数。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一些特斯拉投资者最近对评级机构将他们最喜欢的公司的信用评级定为垃圾级表达不满，马斯克对此回应称，评级机构的看法对他和特斯拉来说无关紧要。目前标普对特斯拉的评级为BB+，比投资级低一级。穆迪今年1月将特斯拉的评级上调了两档，但仍为Ba1，是垃圾级中最高的。穆迪暗示，最早将于明年年初将该公司的信用评级上调至投资级。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [iPhone 14“黄牛价”偷跑：四款机型 6699元起加价卖](https://www.cnbeta.com/articles/tech/1312329.htm) | Sun Sep 04 2022 11:06 PM 
+- 🎊 [搭载比亚迪DM-i超混技术 创维HT-i今日上市：一箱油能跑1267公里](https://www.cnbeta.com/articles/tech/1312413.htm) | Mon Sep 05 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月8日凌晨1点，苹果将举行2022秋季新品发布会，正式推出iPhone 14系列。发布会Slogan是“Far Out（超前瞻）”，毋庸置疑，此次大会主角将是iPhone 14系列手机。发布会前夕，一些博主放出了一张线下门店的iPhone 14系列预售活动海报，不出意外，&lt;strong&gt;该价格为前期的黄牛价，基本上都是加价卖，&lt;/strong&gt;同时还出现了一款名为iPhone 14 Plus的新型号，而不是传闻中的Max。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;创维旗下全新HT-i车型将于今晚上市，该车定位于入门级中型SUV，&lt;strong&gt;最大的亮点在于使用了比亚迪的DM-i插混动力系统&lt;/strong&gt;，日前已开启预售，价格区间为14.98-19.98万元。作为创维EV6的兄弟车型，HT-i延续了EV6的设计风格，但前脸使用了经过重新设计的进气格栅，创维汽车称之为引力波美学概念。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
