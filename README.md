@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [MSE 支持 Apache Shenyu 网关实现全链路灰度](https://juejin.cn/post/7139825158772457480) | Mon Sep 05 2022 9:28 AM 
+- 🤗 [yargs 简易指南：撸一个CLI](https://juejin.cn/post/7139844050449858573) | Mon Sep 05 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
-    我们希望可以对这些服务的新版本同时进行小流量灰度验证，这就是微服务架构中特有的全链路灰度场景，通过构建从网关到整个后端服务的环境隔离来对多个不同版本的服务进行灰度验证。 
+    前言 最近在写一个覆盖公司产品全站页面性能测试的项目，随着代码量逐渐上升，单纯的脚本执行的姿势，使维护成本上去了，代码散落各地，调用要打一大串。所以直接搞成CLI改善使用体验和降低维护成本。 这篇文章 
     </details> 
 
-- 🎡 [菜鸟学Vue源码之defineProperty响应式数据原理实现](https://juejin.cn/post/7139824954237059109) | Mon Sep 05 2022 9:27 AM 
+- 🎡 [NLP-统计语言模型的平滑处理方法](https://juejin.cn/post/7139843467760369677) | Mon Sep 05 2022 10:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    在NLP-统计语言模型中简要介绍了统计语言模型的原理和实现方法，以bigram为例，计算了 的概率，这是比较理想的情况，而现实与理想的差 
+    </details> 
+
+- 🕯 [你会用RxJS吗？【细说 RxJS中的 Operators】](https://juejin.cn/post/7139830060378226719) | Mon Sep 05 2022 9:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    Pipeable Operator 是一个将 Observable 作为其输入并返回另一个 Observable 的函数。这是一个纯粹的操作：之前的 Observable 保持不变。 
+    </details> 
+
+- 🚀 [《如何避免技术写作过于枯燥乏味》观后所想](https://juejin.cn/post/7139829802764238861) | Mon Sep 05 2022 9:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    我正在参与掘金创作者训练营第6期， 点击了解活动详情 本次我选择的方向是: 观看训练营直播课程之后的所思所想所感所悟（适合新手） 前言 坐在沙发上面对笔记本电脑,回想我过去24年的生活,我不是一个善于 
+    </details> 
+
+- 💪 [菜鸟学Vue源码之defineProperty响应式数据原理实现](https://juejin.cn/post/7139824954237059109) | Mon Sep 05 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
     这篇主要是手写实现Object.defineProperty&lpar;&rpar;响应式数据原理，以及对象属性劫持和深度属性劫持 
-    </details> 
-
-- 🕯 [AOP / 面向切面编程 / 字节码插桩 / ASM / 解读版](https://juejin.cn/post/7139822034300698654) | Mon Sep 05 2022 9:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    AOP / 面向切面编程 / 字节码插桩 / ASM / 解读版， 了解 JVM 栈/栈帧/局部变量表/操作数栈，分析 TransformClassesWithAsmTask 源码 
-    </details> 
-
-- 🚀 [HelloElectron——引入NaiveUI、Pinia简单美化（四）](https://juejin.cn/post/7139821651683704869) | Mon Sep 05 2022 9:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    Github：Jakentop/plantuml-editor: 基于electron+vue+vite实现的plantuml桌面编辑器 &lpar;github.com&rpar; Github提交标签：e88e02d 
-    </details> 
-
-- 💪 [vue3 源码学习（2）—— reactive](https://juejin.cn/post/7139821460024983560) | Mon Sep 05 2022 9:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章，目的是搞懂 reactive 的实现原理。因此，关于其代码的细节部分，不会过多研究，仅以其核心代码为主。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
