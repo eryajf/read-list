@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [苹果 iPhone、iPad、Apple Watch、Mac 上规划旅行路线和日程的 App：Tripsy](http://www.mac52ipod.cn/post/apple-ios-macos-iphone-ipad-mac-apple-watch-app-tripsy-travel-p.php) | Sat Sep 03 2022 4:16 AM 
+- 👨‍🏫 [抖音出了 macOS 客户端](http://www.mac52ipod.cn/post/douyin-for-mac.php) | Mon Sep 05 2022 4:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	如果你想在更大屏幕刷抖音，而且不想用网页版的话，可以试试抖音新推出的 Mac 客户端。&lt;/p&gt;&lt;p&gt;下载地址 &lt;u&gt;&lt;a href=&quot;https://www.douyin.com/downloadpage&quot; target=&quot;_blank&quot; title=&quot;抖音电脑版下载&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.douyin.com/downloadpage&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=douyin&quot; rel=&quot;tag&quot;&gt;douyin&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%258A%2596%25E9%259F%25B3&quot; rel=&quot;tag&quot;&gt;抖音&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [苹果 iPhone、iPad、Apple Watch、Mac 上规划旅行路线和日程的 App：Tripsy](http://www.mac52ipod.cn/post/apple-ios-macos-iphone-ipad-mac-apple-watch-app-tripsy-travel-p.php) | Sat Sep 03 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Apple新闻之腾讯打算重构Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
+- 🦏 [Apple新闻之腾讯打算重构Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Mac技巧之一个国内个人开发者制作的翻译软件：Bob - 翻译和 OCR 工具](http://www.mac52ipod.cn/post/apple-mac-macos-translation-app-bob.php) | Wed Aug 31 2022 3:56 AM 
+- 🚀 [Mac技巧之一个国内个人开发者制作的翻译软件：Bob - 翻译和 OCR 工具](http://www.mac52ipod.cn/post/apple-mac-macos-translation-app-bob.php) | Wed Aug 31 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变](http://www.mac52ipod.cn/post/apple-mac-os-x-macos-trash-can-icon-design-1984-up-to-2022.php) | Sun Aug 28 2022 3:14 PM 
+- 🏊 [苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变](http://www.mac52ipod.cn/post/apple-mac-os-x-macos-trash-can-icon-design-1984-up-to-2022.php) | Sun Aug 28 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
     
  
 	看到 &lt;u&gt;&lt;a href=&quot;https://twitter.com/MartinNobel_/status/1551885038286946305&quot; target=&quot;_blank&quot; title=&quot;原帖出处&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;@MartinNobel_ 发的这张图&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变。有意思的是，以前苹果用的是户外那种垃圾桶，2001 年以后换成了废纸篓。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6709&quot; border=&quot;0&quot; alt=&quot;苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变&quot; title=&quot;苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变&quot; /&gt;&lt;/p&gt;&lt;p&gt;另附各代 Windows 系统的回收站图标&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6710&quot; border=&quot;0&quot; alt=&quot;各代 Windows 系统的回收站图标演变&quot; title=&quot;各代 Windows 系统的回收站图标演变&quot; /&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%258B%25B9%25E6%259E%259C%25E5%258E%2586%25E5%258F%25B2&quot; rel=&quot;tag&quot;&gt;苹果历史&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [识别你做了投篮动作，并在手表发出篮球入网音效的 Apple Watch App：空气投篮](http://www.mac52ipod.cn/post/apple-watch-app-airshot-auditoryar.php) | Fri Aug 26 2022 3:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	这是个挺有意思的 App，能根据 Apple Watch 传来的加速度数据识别到你对着空气做出了投篮动作，模拟空心入网或者砸到篮框的声音。开发商还说今后会加入对着空气开枪和甩鞭子的效果识别。&lt;/p&gt;&lt;p&gt;唯一的问题是：大部分人会把手表戴在左腕，投篮动作要用右手。。。&lt;/p&gt;&lt;p&gt;空气投篮在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/airshot-auditoryar/id1625289361?platform=appleWatch&quot; target=&quot;_blank&quot; title=&quot;空气投篮在苹果 App Store 应用商店的下载地址&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/airshot-auditoryar/id1625289361?platform=appleWatch&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%25AF%25AE%25E7%2590%2583&quot; rel=&quot;tag&quot;&gt;篮球&lt;/a&gt;
 
  
     </details> 
