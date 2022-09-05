@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你听过这个Mobile/PC跨端开发方案嘛？](https://juejin.cn/post/7139741519174434846) | Mon Sep 05 2022 4:04 AM 
+- 🤗 [金九银十Go面试题进阶知识点：select和channel](https://juejin.cn/post/7139768397423706126) | Mon Sep 05 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-    事情是这样的，有个前端同学啊峰准备开发一个中后台管理Web端，涉及到驾驶舱dashboard面板的开发。产品经理提了一个需求：“你能不能让中后台系统兼容移动端？” 后来得知这个需求是老板提的，因为老板 
+    金九银十面试季到了（PS：貌似今年一年都是面试季），就业环境很差，导致从业人员不得不卷。我整理的面试题专栏收到了大家的好评，再接再厉，继续输出，欢迎阅读，看看对你有没有帮助。 
     </details> 
 
-- 🎡 [主流定时任务解决方案全横评](https://juejin.cn/post/7139741516972425247) | Mon Sep 05 2022 4:03 AM 
+- 🎡 [Serverless 架构下的 AI 应用开发：入门、实战与性能优化](https://juejin.cn/post/7139766690212446216) | Mon Sep 05 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将就当前主流定时任务解决方案进行介绍和分析，期望可以在企业技术选型和项目架构重构时作为参考。。。 
+    本章通过对 Serverless 架构概念的探索，对 Serverless 架构的优势与价值、挑战与困境进行分析，以及 Serverless 架构应用场景的分享，为读者介绍 Serverless 架构 
     </details> 
 
-- 🕯 [没有二十年功力，写不出Thread.sleep&lpar;0&rpar;这一行“看似无用”的代码！](https://juejin.cn/post/7139741080597037063) | Mon Sep 05 2022 4:03 AM 
+- 🕯 [打车程序致莫斯科交通堵塞 @滴滴；JavaScript热门面试问题集锦；升职加薪的10个诀窍；提升图像分辨率的工具；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7139760682878107685) | Mon Sep 05 2022 5:19 AM 
     <details><summary>展开描述 ...</summary> 
-    你好呀，我是喜提七天居家隔离的歪歪。 这篇文章要从一个奇怪的注释说起，就是下面这张图： 我们可以不用管具体的代码 
+    ShowMeAI资讯日报 09-05 期，创建交互式独立网络、YOLOv7 物体跟踪工具、机器学习&lpar;数据&rpar;漂移检测库、神经网络模型压缩工具、贝叶斯非线性统计反问题·课程讲义、3D数据集和建模资源清单… 
     </details> 
 
-- 🚀 [时隔一年多 jQuery 再度发布 3.6.1 新版本，你还在用JQ吗？](https://juejin.cn/post/7139739843776806942) | Mon Sep 05 2022 3:57 AM 
+- 🚀 [TensorFlow深度学习！构建神经网络预测股票价格！](https://juejin.cn/post/7139760491705925645) | Mon Sep 05 2022 5:18 AM 
     <details><summary>展开描述 ...</summary> 
-    在上周&lpar;2022-08-26&rpar; jQuery 刚更新了一个 3.6.1 维护版本，距离上一个版本发布时间已过去一年零五个月之久，其维护者表示接下来主要考虑修复聚焦与失焦&lpar;focus &amp; blur&rpar;的问 
+    股票价格数据是一个时间序列形态的数据。所以，我们使用『循环神经网络&lpar;RNN&rpar;』对这种时序相关的数据进行建模，并将其应用在股票数据上进行预测。 
     </details> 
 
-- 💪 [Maven编译提效技巧](https://juejin.cn/post/7139737423365275684) | Mon Sep 05 2022 3:47 AM 
+- 💪 [小程序的宿主环境](https://juejin.cn/post/7139744480638763015) | Mon Sep 05 2022 4:15 AM 
     <details><summary>展开描述 ...</summary> 
-    随着应用代码越来越多，maven构建时间也越来越长，单次构建从1分钟..2分钟..3分钟，效率越来越低，如何提高构建速度，提升效率，成了众多程序员们心里的痛点…… 
+    宿主环境指的是程序运行所必须的依赖环境。例如安卓版的微信的宿主环境就是Android系统，安卓版的微信APP是不能在IOS系统下运行的。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
