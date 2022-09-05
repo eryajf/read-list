@@ -590,29 +590,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2022 年 9 月每日分享](https://iui.su/3838/) | Mon Sep 05 2022 6:13 AM 
+- 🌊 [全网免费音乐搜索汇总](https://iui.su/2217/) | Mon Sep 05 2022 8:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    免费音乐搜索下载网站，这里分享的网站均来源网友推荐及搜索引擎免费音乐下载大全搜索歌曲，支持下载 无损/320k/192khttps://thewind.xyz直接搜索歌曲，sq为flac hd为... 
+    </details> 
+
+- 🫣 [2022 年 9 月每日分享](https://iui.su/3838/) | Mon Sep 05 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月5日摸瓜安卓APK反编... 
     </details> 
 
-- 🫣 [TVBox安卓盒子app](https://iui.su/175/) | Sat Sep 03 2022 5:14 AM 
+- 🌜 [TVBox安卓盒子app](https://iui.su/175/) | Sat Sep 03 2022 5:14 AM 
     <details><summary>展开描述 ...</summary> 
     之前推荐过的猫影视TV已经宣布停止维护，可用TVBox替代，TVBox集成了猫影视TV的大部分优点，原猫影视TV接口设置可无痛转移TVBoxTVBox下载下载该app更新比较勤，如无重大更新可不... 
     </details> 
 
-- 🌜 [cococut浏览器嗅探神器](https://iui.su/3687/) | Sat Sep 03 2022 4:26 AM 
+- 🏊 [cococut浏览器嗅探神器](https://iui.su/3687/) | Sat Sep 03 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
     cococut是一款很强大的浏览器嗅探器，可以很轻松的嗅探出当前页面正在播放的音乐/视频，使用也十分简单，点击播放音乐或视频，然后点击浏览器右上角的cococut logo 就会嗅探出下载的链接... 
     </details> 
 
-- 🏊 [网页在线工具汇总](https://iui.su/1492/) | Thu Sep 01 2022 4:06 AM 
+- 🚦 [网页在线工具汇总](https://iui.su/1492/) | Thu Sep 01 2022 4:06 AM 
     <details><summary>展开描述 ...</summary> 
     常用在线工具文件传输在线听歌crx扩展今日热榜音乐下载免费图床看期刊note.ms匿名分享文本转音频PDF压缩高清壁纸链接提取图片转文字在线抠图加密解密快速搜索视频创作在线笔记缩短网址短视频解析... 
-    </details> 
-
-- 🚦 [简单好用的在线万能图片编辑器 | 改图神器](https://iui.su/3837/) | Wed Aug 31 2022 4:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    在日常生活中，我们偶尔会遇到一些图片处理的小需求。比如修改图片尺寸，压缩图片，临时要抠图去背景，有时候又是添加水印。面对这些完全不同的图片处理需求，那么有没有一款全能型的图片处理聚合类工具，像瑞... 
     </details> 
 <!-- iui:END -->
 
