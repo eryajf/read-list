@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [辉瑞/BioNTech二价新冠疫苗获英国政府批准](https://www.cnbeta.com/articles/tech/1312681.htm) | Mon Sep 05 2022 2:19 PM 
+- 🕯 [印度批准支付平台PayU以47亿美元收购BillDesk](https://www.cnbeta.com/articles/tech/1312701.htm) | Mon Sep 05 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;当地时间9月3日，英国药品和保健产品监管局&lpar;MHRA&rpar;批准辉瑞&lpar;PFE.US&rpar;/BioNTech&lpar;BNTX.US&rpar;针对奥密克戎变异病毒的二价新冠疫苗作为新冠疫苗加强剂，适用于12岁以及以上的群体。&lt;/strong&gt;这是继此前8月15日Moderna&lpar;MRNA.US&rpar;针对奥密克戎的二价加强剂获得批准之后，英国政府批准的第二种二价新冠疫苗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;印度的反垄断监督机构已经批准了PayU对支付网关BillDesk的拟议收购，这是南亚市场消费互联网领域的第二大并购交易，距离两家公司宣布合并计划已有一年多时间。&lt;/strong&gt;印度竞争委员会在一条推文中说，该交易已被批准，但没有详细说明。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [波兰计划建设首座核电站 或与美国等国达成合作](https://www.cnbeta.com/articles/tech/1312679.htm) | Mon Sep 05 2022 2:17 PM 
+- 💼 [徕卡与海信合作出 4K 超短距投影仪](https://www.cnbeta.com/articles/tech/1312699.htm) | Mon Sep 05 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;波兰可能会与来自多个国家的合作伙伴共同建设其第一座核电站，目前该国正在考虑来自法国、韩国和美国的公司提供的技术。波兰是欧盟东部最大经济体，也是该地区唯一一个没有核电站的国家，该国历史上主要依靠煤炭进行发电。作为摆脱污染燃料计划的一部分，该国计划在2040年初达到6到9吉瓦的核电容量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;徕卡（Leica）在本届 IFA 上宣布与海信（Hisense）合作，带来一款挂着其经典红标的 Cine 1 超短距投影仪。这款设备分为 80 吋和 100 吋两个版本，解析度均为 4K，但最短投射距离也有所不同：一个约 150mm 另一个一个约 300mm。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [伊朗当局计划使用面部识别技术来打击妇女着装问题](https://www.cnbeta.com/articles/tech/1312677.htm) | Mon Sep 05 2022 2:02 PM 
+- 💂 [Google涂鸦在美国劳动节向工人“伸出双手”](https://www.cnbeta.com/articles/tech/1312697.htm) | Mon Sep 05 2022 2:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;伊朗政府正计划在公共交通工具上使用面部识别技术，以识别那些不遵守严格戴头巾新法律的妇女&lt;/strong&gt;，因为该政权继续对妇女的着装偏好进行越来越严厉的打击。伊朗促进美德和防止罪恶总部的秘书穆罕默德-萨利赫-哈希米-戈尔帕耶加尼在最近的一次采访中宣布，在该国强硬派总统易卜拉欣-拉伊西签署关于限制妇女着装的新法令后，政府正计划在公共场所使用监控技术对付妇女。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本周一是美国的劳动节，这个节日通常以在后院烧烤、海滩或山区度假的聚会为标志，但它也是美国人向全国劳动者的贡献致敬的日子。&lt;/strong&gt;每年9月的第一个星期一，劳动节是一个全国性的节日，以表彰美国工人的社会和经济成就。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [GeForce RTX 4090 Ti显卡曝光 采用巨大的三风扇散热器](https://www.cnbeta.com/articles/tech/1312675.htm) | Mon Sep 05 2022 1:49 PM 
+- 🚀 [百度家的量产车曝光 逐帧解析10大关键点](https://www.cnbeta.com/articles/tech/1312695.htm) | Mon Sep 05 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据称，Greymon55泄露了NVIDIA GeForce RTX 4090 Ti显卡的图片&lt;/strong&gt;，该显卡采用&amp;quot;Full-Fat AD102&amp;quot; GPU，搭配巨大的三风扇散热器，显卡功耗600瓦。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;百度造的车，终于现真身了！不是概念车，也不是元宇宙，真是量产车。今天上午，有网友在北京顺义某街道上拍到了一台披着伪装的测试车，从轮廓、大灯等细节可以判断出这是集度汽车的首款车型ROBO-01的量产版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [CIQ迎来由Linux和开源资深人士共同组建的超豪华领导人团队](https://www.cnbeta.com/articles/tech/1312673.htm) | Mon Sep 05 2022 1:13 PM 
+- 🎊 [揭秘Chiplet技术：摩尔定律拯救者 两大阵营、六个核心玩家](https://www.cnbeta.com/articles/tech/1312693.htm) | Mon Sep 05 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;CIQ 官网在 8 月末的一篇新闻稿中称：在 5 月那一轮成功融资、以及 7 月与 Google Cloud 达成合作后，&lt;strong&gt;现又有九位云计算与 Linux 开源资深人士刚刚签约组建了 CIQ 领导团队，以推动基于 Rocky Linux 构建的下一代应用。&lt;/strong&gt;目前该公司正在为这款企业 Linux 发行版，打造运行密集型工作负载的下一代软件基础架构。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Chiplet 技术的出现是产业链在生产效率优化需求下的必然选择，其技术核心在于实现芯片间的高速互联，因此 UCIe&amp;nbsp;在具体的封装方式上未对成员做出严格限制，产业内也分化出了两个阵营。晶圆厂阵营以大面积硅中介层实现互联为主，可提供更高速的连接和更好的拓展性；而封装厂阵营则努力减少硅片加工需求，提出更有廉价、更有性价比的方案；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
