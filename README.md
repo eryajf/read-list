@@ -530,7 +530,7 @@
  
     </details> 
 
-- 🦏 [Apple新闻之腾讯打算重构Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
+- 🦏 [Apple新闻之腾讯打算重构 Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
     
  
