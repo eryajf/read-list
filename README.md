@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [HyreSnap - 在 10 分钟内为您的下一份工作获取完美的简历](https://xinquji.com/posts/179251?utm_campaign=xinquji-rss) | Mon Sep 05 2022 6:14 AM 
+- 👀 [Sellix - 通过接受加密货币轻松进行数字销售](https://xinquji.com/posts/179263?utm_campaign=xinquji-rss) | Tue Sep 06 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     在 10 分钟内为您的下一份工作获取完美的简历  
+     通过接受加密货币轻松进行数字销售  
     </details> 
 
-- 🥷 [420+ Marketing Resources - 营销资源集合，一站式服务](https://xinquji.com/posts/179250?utm_campaign=xinquji-rss) | Mon Sep 05 2022 6:12 AM 
+- 🥷 [Briefly - 修复营销预算中的黑洞](https://xinquji.com/posts/179262?utm_campaign=xinquji-rss) | Tue Sep 06 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     营销资源集合，一站式服务  
+     修复营销预算中的黑洞  
     </details> 
 
-- 💼 [Product Manager MBA - 您需要开始使用产品的唯一课程](https://xinquji.com/posts/179249?utm_campaign=xinquji-rss) | Mon Sep 05 2022 6:11 AM 
+- 💼 [Pomo.DO - 更好地计划，更好地工作](https://xinquji.com/posts/179261?utm_campaign=xinquji-rss) | Tue Sep 06 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     您需要开始使用产品的唯一课程  
+     更好地计划，更好地工作  
     </details> 
 
-- 🦅 [Recession Preparedness Calculator - 对于紧张的首席财务官削减预算，您准备好了吗？](https://xinquji.com/posts/179248?utm_campaign=xinquji-rss) | Mon Sep 05 2022 6:10 AM 
+- 🦅 [66transfer - 自托管、功能丰富且隐私友好的文件传输](https://xinquji.com/posts/179260?utm_campaign=xinquji-rss) | Tue Sep 06 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     对于紧张的首席财务官削减预算，您准备好了吗？  
+     自托管、功能丰富且隐私友好的文件传输  
     </details> 
 
-- 😺 [Billfish - 国产的免费灵感采集和素材管理神器](https://xinquji.com/posts/179168?utm_campaign=xinquji-rss) | Mon Sep 05 2022 6:09 AM 
+- 😺 [TimelinesAI WA Pipedrive Integration - 自动将 Whatsapp 消息同步到 Pipedrive 交易中](https://xinquji.com/posts/179259?utm_campaign=xinquji-rss) | Tue Sep 06 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     国产的免费灵感采集和素材管理神器  
+     自动将 Whatsapp 消息同步到 Pipedrive 交易中  
     </details> 
 <!-- xinquji:END -->
