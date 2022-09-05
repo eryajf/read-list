@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [俄罗斯 Yandex  被黑，造成莫斯科交通堵塞](https://www.freebuf.com/news/343776.html) | Mon Sep 05 2022 6:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    俄罗斯打车应用程序 Yandex 遭到黑客攻击，数百名司机被“送到”莫斯科地区同一个上车点，造成了大面积交通堵塞。 
+    </details> 
+
 - 🦄 [攻击源头系美国国家安全局，西北工业大学遭网络攻击事件报告发布](https://www.freebuf.com/news/343770.html) | Mon Sep 05 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
     西北工业大学遭网络攻击事件系美国国家安全局（NSA）所为。在针对该校的网络攻击中，NSA使用了40余种专属网络攻击武器。 
     </details> 
 
-- 🦄 [美国国税局意外泄露了 12 万纳税人机密信息](https://www.freebuf.com/news/343749.html) | Mon Sep 05 2022 2:39 AM 
+- 🦅 [美国国税局意外泄露了 12 万纳税人机密信息](https://www.freebuf.com/news/343749.html) | Mon Sep 05 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
     泄露的信息源自一种名为990-T的表格，该表格主要用于非营利组织（慈善机构）或 IRA（个人退休账户） 及 SEP 账户。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 反电信网络诈骗法表决通过；主要 VPN 服务商关闭印度服务器](https://www.freebuf.com/news/343657.html) | Fri Sep 02 2022 6:36 AM 
+- 🪄 [FreeBuf早报 | 反电信网络诈骗法表决通过；主要 VPN 服务商关闭印度服务器](https://www.freebuf.com/news/343657.html) | Fri Sep 02 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     十三届全国人大常委会第三十六次会议 9 月 2 日表决通过反电信网络诈骗法，该法将于 2022 年 12 月 1 日起施行。 
     </details> 
 
-- 🪄 [FreeBuf周报 | 谷歌发布开源漏洞奖励计划；网传用友等头部软件厂商遭勒索攻击](https://www.freebuf.com/news/343638.html) | Fri Sep 02 2022 6:07 AM 
+- 💻 [FreeBuf周报 | 谷歌发布开源漏洞奖励计划；网传用友等头部软件厂商遭勒索攻击](https://www.freebuf.com/news/343638.html) | Fri Sep 02 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
     各位Buffer周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！热点资讯1、DEF CON 大会：白帽黑客演示远程控制退役卫星8 月 20 日的 DEF CON 黑客大会上，白帽黑客组织 Shadyte l现场演示远程劫持一颗退役卫星，并利用它来播放电影。2、苹果曝严重安全漏洞，喜提热搜第一据媒体报道，苹果公司在 
-    </details> 
-
-- 💻 [首部！《反电信网络诈骗法》通过，12月1日起施行](https://www.freebuf.com/news/343637.html) | Fri Sep 02 2022 6:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    我国首部《反电信网络诈骗法》（以下简称《反诈骗法》）已于9月2日表决通过，12月1日起正式施行。 
     </details> 
 <!-- freebuf:END -->
 
