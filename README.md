@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软尝试对Windows 11的任务栏托盘区进行二次现代化改造](https://www.cnbeta.com/articles/tech/1312729.htm) | Mon Sep 05 2022 8:20 PM 
+- 🕯 [TikTok否认关于其数据被盗的报道](https://www.cnbeta.com/articles/tech/1312739.htm) | Mon Sep 05 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Windows 11发布时，对任务栏的功能做了很多改变，但很显然这些改变在用户中并不受欢迎。这包括取消拖放功能，缺少完整的右键设定上下文菜单，无法取消应用图标分组，以及剥离日历画面。虽然任务栏已经被重新设计，但系统托盘（右下角）仍在使用底层的遗留组件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在一个黑客组织发布了他们声称是TikTok数据库的图片后，TikTok否认了关于它被入侵的报道。&lt;/strong&gt;据悉，该数据库包含了该平台的源代码和用户信息。在回应这些指控时，TikTok表示其团队没有发现安全漏洞的证据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“被取消学籍者90%因为游戏”的沉重警示](https://hot.cnbeta.com/articles/game/1312727.htm) | Mon Sep 05 2022 7:25 PM 
+- 💼 [数字藏品正在告别“野蛮生长”](https://www.cnbeta.com/articles/tech/1312737.htm) | Mon Sep 05 2022 11:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，中国计量大学校长徐江荣在该校2022级新生开学典礼上致辞中表示，有一些大学生认为“上了大学就轻松了”，这是对大学学习的一个严重误判。徐江荣分别向老师、同学和家长提出忠告，给同学的忠告是：网络游戏是最大的校园毒品，每年被取消学籍的同学90%因为游戏，100%不值得同情。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;数字藏品市场将迎来一个“冷静期”，但这并不意味着数字藏品市场的“凛冬将至”，而是一个新拐点正在到来，这个市场将逐渐走上规范化的轨道。“起飞”的数字藏品市场正在逐渐告别“野蛮生长”的时代。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国产无人机“翼龙”抵达地震灾区](https://www.cnbeta.com/articles/tech/1312725.htm) | Mon Sep 05 2022 7:14 PM 
+- 💂 [Meta因Instagram违反欧盟一般数据保护法规被罚逾4亿美元](https://www.cnbeta.com/articles/tech/1312735.htm) | Mon Sep 05 2022 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月5日12时52分，四川甘孜藏族自治州泸定县发生6.8级地震。15时57分，“翼龙”-2H应急救灾型无人机紧急起飞赴四川甘孜藏族自治州泸定县执行任务。18时44分，无人机进入任务区，随即进行勘查，实行应急通信保障。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;图片分享社交应用Instagram母公司Meta已被爱尔兰数据监管机构处以4.05亿欧元（约合4.03亿美元）罚款，原因是该公司允许青少年开设账号，并公开显示其电话号码和电子邮件地址。在对Instagram可能违反欧盟一般数据保护法规（以下简称“GDPR”）的行为进行了为期两年的调查之后，爱尔兰数据保护委员会确认了上述处罚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [疯魔的韩国人：卖房、借钱、节衣缩食 只为买一点特斯拉股票](https://www.cnbeta.com/articles/tech/1312723.htm) | Mon Sep 05 2022 5:07 PM 
+- 🚀 [USB4 v2.0规范发布 USB-IF似乎又让命名复杂起来了](https://www.cnbeta.com/articles/tech/1312733.htm) | Mon Sep 05 2022 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;韩国股民们为了炒股，彻底疯球了……最近承载他们梦想的，是特斯拉。别以为这只是口嗨，新冠疫情期间，韩国散户买入了 150 亿美元特斯拉股票，成为了特斯拉第七大股东，排在他们前面的是华尔街。持股比例达到 1.6%。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;USB推广组织USB-IF在9月1日公布，计划在11月举办的USB DecDays上发布USB4 2.0新规范，同时预告USB4 2.0的部分功能特性，包括带宽翻倍至80Gbps、更高的充电功率、更新的DisplayPort协议等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [2.3亿年前 地球下了200万年的大雨？真的吗？](https://www.cnbeta.com/articles/science/1312721.htm) | Mon Sep 05 2022 5:06 PM 
+- 🎊 [华为抢先苹果支持卫星通信 首颗北斗短报文SoC芯片进入量产](https://www.cnbeta.com/articles/tech/1312731.htm) | Mon Sep 05 2022 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们经常可以看到一些文章指出，地球曾经下过一场持续几百万年的大雨，很多人甚至认为恐龙的进化就是这场持续百万年的雨造就的。简单查了下，连自然网站上也有类似的标题，以及讲述一个恐龙的崛起故事。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在华为和苹果的带动下，“卫星通信”成为最近热议的话题之一，业内猜测，华为将携手北斗三号系统实现手机卫星通信技术的大众化应用。日前，国内独立第三方集成电路测试技术服务商利扬芯片发布公告称，&lt;strong&gt;公司近期已完成全球首颗北斗短报文SoC芯片的测试方案开发并进入量产阶段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
