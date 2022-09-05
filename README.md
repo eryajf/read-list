@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [把 AI 作画引擎搬进家用电脑：Stable Diffusion 配置与使用指南](https://sspai.com/post/75544) | Mon Sep 05 2022 8:04 AM 
+- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/75553) | Mon Sep 05 2022 10:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75553&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [把 AI 作画引擎搬进家用电脑：Stable Diffusion 配置与使用指南](https://sspai.com/post/75544) | Mon Sep 05 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
     Stable Diffusion 还不能作为生产力工具，但它让设计变得简单，也让更多普通人打开了 AI 绘画的可能性。&lt;a href=&quot;https://sspai.com/post/75544&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一日一技 | 如何给自制电子书添加脚注](https://sspai.com/post/75170) | Mon Sep 05 2022 6:30 AM 
+- 🤭 [一日一技 | 如何给自制电子书添加脚注](https://sspai.com/post/75170) | Mon Sep 05 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     因为有在 Kindle 里看网络小说的习惯，但是通过脚本下载的文档通常都是将其放在章节末尾，阅读时需要反复查阅，配合上墨水屏缓慢的反应速度，阅读体验实在称不上好。于是就萌生了「把注释加进正文」的想法。既然 Kindle 商店里的正规出版物都有这样的功能，那用电子书编辑器是不是也能做到？&lt;a href=&quot;https://sspai.com/post/75170&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [拿什么装你的一机 N 镜？谈谈我的摄影包折腾经历和推荐](https://sspai.com/post/75524) | Mon Sep 05 2022 3:48 AM 
+- 🥸 [拿什么装你的一机 N 镜？谈谈我的摄影包折腾经历和推荐](https://sspai.com/post/75524) | Mon Sep 05 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
     希望大家能一次就找到自己心仪的器材，摄影背包也一样。&lt;a href=&quot;https://sspai.com/post/75524&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：Cloudflare 封锁 Kiwifarms；拼多多在美低调上线 Temu 等](https://sspai.com/post/75526) | Mon Sep 05 2022 12:42 AM 
+- 🙉 [派早报：Cloudflare 封锁 Kiwifarms；拼多多在美低调上线 Temu 等](https://sspai.com/post/75526) | Mon Sep 05 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事Cloudflare封锁Kiwifarms9月4日，大型网络服务提供商Cloudflare在愈发高涨的公众压力下，宣布将停止为受争议的美国论坛Kiwifarms提供DDoS防御服务。 ...&lt;a href=&quot;https://sspai.com/post/75526&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [App+1 | 此处插入评价：微信输入法测试版上手体验](https://sspai.com/post/75527) | Sun Sep 04 2022 7:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    它基本功能完备，联网后更是微信的好伙伴——但你最好还是断网体验。&lt;a href=&quot;https://sspai.com/post/75527&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
