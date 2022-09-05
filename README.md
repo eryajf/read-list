@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [App+1 | 此处插入评价：微信输入法测试版上手体验](https://sspai.com/post/75527) | Sun Sep 04 2022 7:47 AM 
+- 👹 [派早报：Cloudflare 封锁 Kiwifarms；拼多多在美低调上线 Temu 等](https://sspai.com/post/75526) | Mon Sep 05 2022 12:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可能错过的新鲜事Cloudflare封锁Kiwifarms9月4日，大型网络服务提供商Cloudflare在愈发高涨的公众压力下，宣布将停止为受争议的美国论坛Kiwifarms提供DDoS防御服务。 ...&lt;a href=&quot;https://sspai.com/post/75526&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [App+1 | 此处插入评价：微信输入法测试版上手体验](https://sspai.com/post/75527) | Sun Sep 04 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
     它基本功能完备，联网后更是微信的好伙伴——但你最好还是断网体验。&lt;a href=&quot;https://sspai.com/post/75527&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [任意键｜最后生还者回归；高达站立于大地；索尼独占喜减一及其他](https://sspai.com/post/75523) | Sun Sep 04 2022 2:57 AM 
+- 🤭 [任意键｜最后生还者回归；高达站立于大地；索尼独占喜减一及其他](https://sspai.com/post/75523) | Sun Sep 04 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
     周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。🎮玩游戏顽皮狗｜《最后生还者重制版》已发售《最后生还者》是由顽皮狗 ...&lt;a href=&quot;https://sspai.com/post/75523&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [无缝播放：被数字音乐「弄丢」的专辑之美](https://sspai.com/post/75517) | Sat Sep 03 2022 7:00 AM 
+- 🥸 [无缝播放：被数字音乐「弄丢」的专辑之美](https://sspai.com/post/75517) | Sat Sep 03 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     无缝播放不是不被需要，而是在这样完整听过一张专辑之前，你都没有意识到你需要。&lt;a href=&quot;https://sspai.com/post/75517&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [皮蛋漫游播客 | Tesla vs 问界，和少数派老麦换车开一周](https://sspai.com/post/75508) | Sat Sep 03 2022 2:31 AM 
+- 🙉 [皮蛋漫游播客 | Tesla vs 问界，和少数派老麦换车开一周](https://sspai.com/post/75508) | Sat Sep 03 2022 2:31 AM 
     <details><summary>展开描述 ...</summary> 
     好好聊聊新手司机从选车、用车到换车的全方位感受。&lt;a href=&quot;https://sspai.com/post/75508&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75511) | Fri Sep 02 2022 10:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[美剧]指环王：力量之戒第一季、[动画]JOJO的奇妙冒险石之海第二部分、[电影]DC萌宠特遣队、[英剧]真相捕捉第二季、[印度]德里罪案第二季、[电影]阿尔卡拉斯几则精彩 ...&lt;a href=&quot;https://sspai.com/post/75511&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
