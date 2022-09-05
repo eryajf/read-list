@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Windows 11 22H2功能更新正在为即将到来的发布日做准备](https://www.cnbeta.com/articles/tech/1312713.htm) | Mon Sep 05 2022 3:53 PM 
+- 🕯 [疯魔的韩国人：卖房、借钱、节衣缩食 只为买一点特斯拉股票](https://www.cnbeta.com/articles/tech/1312723.htm) | Mon Sep 05 2022 5:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据熟悉该公司计划的消息人士透露，Windows 11自10月推出以来的第一个大更新现在正在为即将推出做准备，升级工作预计将在两周内开始。据报道，该公司已将此次升级命名为&amp;quot;Windows 11 2022更新&amp;quot;，但该名称可能会改变。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;韩国股民们为了炒股，彻底疯球了……最近承载他们梦想的，是特斯拉。别以为这只是口嗨，新冠疫情期间，韩国散户买入了 150 亿美元特斯拉股票，成为了特斯拉第七大股东，排在他们前面的是华尔街。持股比例达到 1.6%。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [首个海底云水下数据中心将于今年开放营业](https://www.cnbeta.com/articles/tech/1312711.htm) | Mon Sep 05 2022 3:49 PM 
+- 💼 [2.3亿年前 地球下了200万年的大雨？真的吗？](https://www.cnbeta.com/articles/science/1312721.htm) | Mon Sep 05 2022 5:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一家名为 &amp;quot;海底云&amp;quot;的公司计划在2022年底前在美国海岸建立一个商业化的海底数据中心&lt;/strong&gt;，并计划在墨西哥湾和北海部署其他设施。Subsea公司称，它已经与&amp;quot;一个友好的政府派别&amp;quot;部署了其技术，计划在今年年底前将其第一个商业吊舱放入华盛顿州安吉利斯港附近的水中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们经常可以看到一些文章指出，地球曾经下过一场持续几百万年的大雨，很多人甚至认为恐龙的进化就是这场持续百万年的雨造就的。简单查了下，连自然网站上也有类似的标题，以及讲述一个恐龙的崛起故事。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [四川泸定6.8级地震亲历者：路面波浪形抖动 腿都吓软了](https://www.cnbeta.com/articles/tech/1312709.htm) | Mon Sep 05 2022 3:32 PM 
+- 💂 [USB v2.0解锁隐藏属性：速度飙升到120Gbps 1个顶3个雷电4](https://www.cnbeta.com/articles/tech/1312719.htm) | Mon Sep 05 2022 5:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月5月12点52分18秒，四川省甘孜州泸定县发生6.8级地震，随后在12点56分34秒，临近的雅安市石棉县发生4.2级地震。截止9月5日晚21点，后续发生2.8级及以上余震共十次，最大震级3.6级。本次地震，成都震感明显，甘孜、阿坝、凉山、雅安等地有感，省外诸多地区也有震感。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周，UBS推广组官宣了USB v2.0标准，披露的峰值速率可达80Gbps，是雷电4的两倍。实际上，在USB v1.0中，只要达到20Gbps就可以，40Gbps仅仅是可选，从这个角度来看，v2.0的提升着实不小。而惊喜不止于此。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [华为Mate 50 Pro现身GeekBench 处理器或为台积电代工骁龙8+](https://www.cnbeta.com/articles/tech/1312707.htm) | Mon Sep 05 2022 3:23 PM 
+- 🚀 [小心儿童电话手表暗藏的攀比与社交圈子](https://www.cnbeta.com/articles/tech/1312717.htm) | Mon Sep 05 2022 4:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月5日晚间消息，赶在明天（9月6日）下午的华为发布会前，Mate 50 Pro首个跑分曝光。测试软件为GeekBench 5，单核1266分，多核3938分。机型识别为华为DCO-AL00，频率信息为1*3.19GHz X2+3*2.75GHz A710+4*2.02GHz A510，Adreno730 GPU。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;唱着《孤勇者》，去玩具店买套正版卡牌或文具盲盒，用小天才电话手表发个朋友圈……这些片段已是多少小朋友的生活日常。这些不仅仅是他们的社交话题，甚至有的已经成为儿童的社交货币。而随着商家的营销手段升级，儿童社交门槛也水涨船高。新学期伊始，本报欲借此系列报道，引发社会各界关注，倡导更为健康的儿童消费风气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Intel 13代酷睿核显变强了：看齐AMD Vega10](https://www.cnbeta.com/articles/tech/1312705.htm) | Mon Sep 05 2022 3:23 PM 
+- 🎊 [育碧9月11日3点举行发布会 《刺客信条》特别节目等](https://hot.cnbeta.com/articles/game/1312715.htm) | Mon Sep 05 2022 4:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在AMD Zen4锐龙7000上，AMD只是象征性地配置了2CU规模的GPU显示单元，主要是亮机使用，中高度负载就甭想了。作为主要对手的Intel 13代酷睿并没有因此放松警惕，而且从抢跑的测试分数来看，核显单元这次进一步增强了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;育碧在今日凌晨宣布将于北京时间9月11日3点举行一场游戏发布会，发布会上将带来《碧海黑帆》，《马力欧＋疯狂兔子：星耀之愿》，甚至还有《刺客信条》的特别节目...敬请期待！&lt;/p&gt;&lt;p&gt;&lt;strong&gt;育碧游戏发布会前瞻：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
