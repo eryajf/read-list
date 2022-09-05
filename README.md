@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [腾讯QQ上线“一键查Q龄”功能](https://www.cnbeta.com/articles/tech/1312671.htm) | Mon Sep 05 2022 12:34 PM 
+- 🕯 [CIQ迎来由Linux和开源资深人士共同组建的超豪华领导人团队](https://www.cnbeta.com/articles/tech/1312673.htm) | Mon Sep 05 2022 1:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;CIQ 官网在 8 月末的一篇新闻稿中称：在 5 月那一轮成功融资、以及 7 月与 Google Cloud 达成合作后，&lt;strong&gt;现又有九位云计算与 Linux 开源资深人士刚刚签约组建了 CIQ 领导团队，以推动基于 Rocky Linux 构建的下一代应用。&lt;/strong&gt;目前该公司正在为这款企业 Linux 发行版，打造运行密集型工作负载的下一代软件基础架构。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [腾讯QQ上线“一键查Q龄”功能](https://www.cnbeta.com/articles/tech/1312671.htm) | Mon Sep 05 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;腾讯QQ已经23岁了，你知道自己注册QQ多少年了吗？据腾讯QQ官微消息，在开学之际，QQ上线了“QQ 学生卡”，可一键查看你的Q龄。操作方面也非常简单，&lt;strong&gt;只需在手机QQ上搜索“QQ学生卡”，即可领取，同时查看你的Q龄，注册了QQ多少天。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [小鹏最新SUV曝光 采用溜背造型设计 搭载电子后视镜](https://www.cnbeta.com/articles/tech/1312669.htm) | Mon Sep 05 2022 12:27 PM 
+- 💂 [小鹏最新SUV曝光 采用溜背造型设计 搭载电子后视镜](https://www.cnbeta.com/articles/tech/1312669.htm) | Mon Sep 05 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据智车派了解，9月5日在微博上有博主分享了一组关于小鹏汽车最新SUV的谍照。据悉，新车并不是小鹏旗下将要发布的小鹏G9，而是比它更新的一款车型。照片显示，由于新车包裹得非常严实，使得许多细节处都看不到，但是仔细观察能够发现，新车没有使用物理后视镜，而是采用了电子后视镜的设计，但可能尚处于研发阶段，所以看上与整车搭配起来并不协调。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [图形工程师：AMD Zen 4 CPU的AVX-512特性对模拟器大有裨益](https://www.cnbeta.com/articles/tech/1312667.htm) | Mon Sep 05 2022 12:27 PM 
+- 🚀 [图形工程师：AMD Zen 4 CPU的AVX-512特性对模拟器大有裨益](https://www.cnbeta.com/articles/tech/1312667.htm) | Mon Sep 05 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Riot Games 图形工程师 Joey（@Wunkolo）刚刚在 Twitter 上透露，AMD Zen 4 CPU 引入的 AVX-512 特性，可为 Yuzu 等模拟器带来巨大的优势。&lt;/strong&gt;Wunkolo 表示，自己多年来一直尝试为模拟器测试 AVX-512 加速功能。而他的最新工作，正好可以极大地受益于 AMD 即将推出的锐龙 7000 系列 AM5 台式处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [什么？两个鼻孔竟然不能同时呼吸？](https://www.cnbeta.com/articles/tech/1312665.htm) | Mon Sep 05 2022 11:53 AM 
+- 🎊 [什么？两个鼻孔竟然不能同时呼吸？](https://www.cnbeta.com/articles/tech/1312665.htm) | Mon Sep 05 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;做一个小实验，当你用手指堵住自己的其中一个鼻孔，很好，呼吸非常顺畅；再换着堵住另外一只鼻孔……诶怎么回事？怎么鼻子不通气了？为什么会感觉呼吸不畅？这个时候再来想一想，感冒的时候，我们的鼻子除了不停流鼻涕，更让人难以忍受的是会发生鼻塞。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [浙江移动用户星级客户话费透支服务将取消](https://www.cnbeta.com/articles/tech/1312663.htm) | Mon Sep 05 2022 11:52 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于移动用户来说，星级客户的“话费信用透支服务”已经是相当习以为常的一件事。根据用户号码使用时间的长短、往期消费信用等信息，移动会将用户划分为不同信用星级，&lt;strong&gt;每个星级都有自己的话费透支限额，如四星客户就拥有50元的透支额度。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
