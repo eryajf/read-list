@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [cimi——一款全自动发布NPM包的工具](https://juejin.cn/post/7139899195745370143) | Mon Sep 05 2022 2:17 PM 
+- 🤗 [什么，api竟然有版本](https://juejin.cn/post/7139912433421778975) | Mon Sep 05 2022 3:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第n篇文章，点击查看活动详情” 前言 第一次接触接口版本的时候，应该是dubbo，就是它在配置服务端和客户端的时候需要写上对应的版本号，这也是我 
+    </details> 
+
+- 🎡 [对k8s控制器DaemonSet的理解](https://juejin.cn/post/7139909452815138853) | Mon Sep 05 2022 2:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    DaemonSet是一种面向特定应用场景的Pod控制器，尽管它也可以管理Pod的多个副本，但它主要用于保证一个Node上只运行一个Pod的场景。 
+    </details> 
+
+- 🕯 [LeetCode合并两个有序数组使用JavaScript解题|前端学算法](https://juejin.cn/post/7139906306797731854) | Mon Sep 05 2022 2:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    前端使用JavaScript解决LeetCode算法题合并两个有序数组，前端学习算法，每天三分钟搞懂一个知识点 
+    </details> 
+
+- 🚀 [cimi——一款全自动发布NPM包的工具](https://juejin.cn/post/7139899195745370143) | Mon Sep 05 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
     前言 博主最近的时间一直投入concis组件库的开发工作，每次改完bug或者是新增完一些组件功能后都需要去发包、更新线上文档，这样一步步下来其实是比较麻烦的。 发一个新的NPM包你可能需要这些步骤：  
     </details> 
 
-- 🎡 [发布一款Gradle插件需要经历些什么](https://juejin.cn/post/7139898562812313631) | Mon Sep 05 2022 2:13 PM 
+- 💪 [发布一款Gradle插件需要经历些什么](https://juejin.cn/post/7139898562812313631) | Mon Sep 05 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
     熟悉开源库发布的朋友应该都体验过 Maven Central 发布的繁琐&amp;严格，对于第一次发布的开发者而言肯定费时费力。一方面，对于国内而言这块教程文章相对来说比较少，但是很多都是“年久失修” 
-    </details> 
-
-- 🕯 [管理者如何才能不亲力亲为？](https://juejin.cn/post/7139894939768324127) | Mon Sep 05 2022 2:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    管理者如何才能不亲力亲为？前段时间和朋友聊天，突然聊到这个话题。作为管理者，他觉得什么事都需要自己做，试过把事情交给下属做，但是经常出问题。我说：“出了问题不可怕，就怕你不知道为什么会出问题。” 
-    </details> 
-
-- 🚀 [uniapp - 接入科大讯飞语音评测](https://juejin.cn/post/7139894621571645454) | Mon Sep 05 2022 1:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、简介 科大讯飞语音评测可以对字、词、句、篇章等题型进行多维度评分（准确度、流畅度、完整度、声韵调型等），支持中文和英文。最新的流式版使用 webSocket 调用接口，开发者可以边录音边上边音频数 
-    </details> 
-
-- 💪 [MPAndroidChart 自定义图表II](https://juejin.cn/post/7139891650028912671) | Mon Sep 05 2022 1:47 PM 
-    <details><summary>展开描述 ...</summary> 
-    声明：文中的MPChart代指MPAndroidChart. 本文主要讲解LineChart中的三个变种Chart，第一个是渐变的LineGradientChart, 第二个是频率散点图，游泳阶梯图。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
