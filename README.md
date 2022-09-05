@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新的Moto Edge 30 Neo渲染图确认了名称以及醒目的年度潘通色](https://www.cnbeta.com/articles/tech/1312635.htm) | Mon Sep 05 2022 11:15 AM 
+- 🕯 [腾讯QQ上线“一键查Q龄”功能](https://www.cnbeta.com/articles/tech/1312671.htm) | Mon Sep 05 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;摩托罗拉正在为其Edge 30系列准备一款轻型手机，有传言说它将被称为Edge 30 Neo，有不少于四种颜色可供选择。今天，@rquandt在Twitter上确认了这个名字，并分享了一张与2022年潘通色相匹配的英雄画作Very Peri的图片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;腾讯QQ已经23岁了，你知道自己注册QQ多少年了吗？据腾讯QQ官微消息，在开学之际，QQ上线了“QQ 学生卡”，可一键查看你的Q龄。操作方面也非常简单，&lt;strong&gt;只需在手机QQ上搜索“QQ学生卡”，即可领取，同时查看你的Q龄，注册了QQ多少天。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [雅马哈推出2023款E-Vino电动滑板车：参数升级 新配色亮相](https://www.cnbeta.com/articles/tech/1312633.htm) | Mon Sep 05 2022 11:10 AM 
+- 💼 [小鹏最新SUV曝光 采用溜背造型设计 搭载电子后视镜](https://www.cnbeta.com/articles/tech/1312669.htm) | Mon Sep 05 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;雅马哈（Yamaha）刚刚推出了 2023 款 E-Vino，带来了多项功能参数升级和新的颜色选项。&lt;strong&gt;由于价钱实惠且易于使用，具有复古外观的该系列电动踏板车，在日本本土市场有一大票忠实的追随者（可惜不对外销售）。&lt;/strong&gt;新型号保留了前代强大的实用特性，但宽度略有增加。整车重量仅 68 公斤，且 32 英里的续航里程很适合日常通勤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据智车派了解，9月5日在微博上有博主分享了一组关于小鹏汽车最新SUV的谍照。据悉，新车并不是小鹏旗下将要发布的小鹏G9，而是比它更新的一款车型。照片显示，由于新车包裹得非常严实，使得许多细节处都看不到，但是仔细观察能够发现，新车没有使用物理后视镜，而是采用了电子后视镜的设计，但可能尚处于研发阶段，所以看上与整车搭配起来并不协调。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Apple Watch Pro的CAD渲染图出现 揭示了新的外壳设计和更大的显示屏](https://www.cnbeta.com/articles/tech/1312631.htm) | Mon Sep 05 2022 10:58 AM 
+- 💂 [图形工程师：AMD Zen 4 CPU的AVX-512特性对模拟器大有裨益](https://www.cnbeta.com/articles/tech/1312667.htm) | Mon Sep 05 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司的秋季发布会活动定于9月7日星期三举行，届时该公司将发布iPhone 14系列、新的iPad、AirPods Pro 2，甚至可能还有Mac Pro。除了这些，预计Apple Watch Series 8也将推出。更重要的是，我们会看到一款新的名为Apple Watch Pro的高端智能手表型号出现。现在，91mobiles通过CAD渲染图独家带来了Apple Watch Pro的第一印象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Riot Games 图形工程师 Joey（@Wunkolo）刚刚在 Twitter 上透露，AMD Zen 4 CPU 引入的 AVX-512 特性，可为 Yuzu 等模拟器带来巨大的优势。&lt;/strong&gt;Wunkolo 表示，自己多年来一直尝试为模拟器测试 AVX-512 加速功能。而他的最新工作，正好可以极大地受益于 AMD 即将推出的锐龙 7000 系列 AM5 台式处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [比亚迪7月全球电动车电池销量超越LG升至第二 紧追宁德时代](https://www.cnbeta.com/articles/tech/1312629.htm) | Mon Sep 05 2022 10:53 AM 
+- 🚀 [什么？两个鼻孔竟然不能同时呼吸？](https://www.cnbeta.com/articles/tech/1312665.htm) | Mon Sep 05 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着电动车的销量增长，同步带动了电池装机量倍增，据市场研究机构SNE Research数据显示，随着中国对新能源汽车需求激增，&lt;strong&gt;比亚迪今年7月在全球电动汽车电池市场销量排名跃升至第二位，超过韩国LG。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;做一个小实验，当你用手指堵住自己的其中一个鼻孔，很好，呼吸非常顺畅；再换着堵住另外一只鼻孔……诶怎么回事？怎么鼻子不通气了？为什么会感觉呼吸不畅？这个时候再来想一想，感冒的时候，我们的鼻子除了不停流鼻涕，更让人难以忍受的是会发生鼻塞。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [暴雪回应《守望先锋》“归来”新英雄泄露：太假了](https://hot.cnbeta.com/articles/game/1312627.htm) | Mon Sep 05 2022 10:52 AM 
+- 🎊 [浙江移动用户星级客户话费透支服务将取消](https://www.cnbeta.com/articles/tech/1312663.htm) | Mon Sep 05 2022 11:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，有论坛曾泄露了一张据称是《守望先锋》归来第三位新英雄的屏摄图，现在暴雪已经对该传言作出了正面回应——确认为假。根据之前的泄露，该英雄名叫“Kimiko”，辅助位，可为队友提供治疗和加速增益。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于移动用户来说，星级客户的“话费信用透支服务”已经是相当习以为常的一件事。根据用户号码使用时间的长短、往期消费信用等信息，移动会将用户划分为不同信用星级，&lt;strong&gt;每个星级都有自己的话费透支限额，如四星客户就拥有50元的透支额度。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
