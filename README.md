@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [日本科学家创造出遥控半机械蟑螂](https://www.cnbeta.com/articles/science/1312593.htm) | Mon Sep 05 2022 9:13 AM 
+- 🕯 [小岛秀夫晒与《攻壳机动队》导演押井守合照 并对其进行3D扫描](https://hot.cnbeta.com/articles/game/1312623.htm) | Mon Sep 05 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;日本研究人员近日设计了一个用于制造遥控半机械蟑螂的系统，该系统配备了一个微型无线控制模块，该模块由连接到太阳能电池的可充电电池供电。&lt;/strong&gt;尽管有机械装置，但超薄的电子器件和柔性材料使昆虫能够自由移动。这些成就将有助于使半机械昆虫的使用成为实际的现实。由日本理化学研究所（RIKEN）先锋研究集群（CPR）的研究人员领导的一个国际团队9月5日在科学杂志《npj-柔性电子》上报告了这项成果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日本游戏制作人小岛秀夫今天（9月5日）在自己的推特上晒出了一张与导演的合照。拍摄地点是小岛秀夫的KOJIMA制作公司（KOJIPRO）的办公室。照片中，小岛秀夫和押井守分别坐在工作室吉祥物“Ludens”手办的两侧。并且，小岛秀夫之后发文称，工作室正在对押井守导演进行3D扫描。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Sonnet推出RackMac Studio和xMac Studio机架式机箱配件](https://www.cnbeta.com/articles/tech/1312591.htm) | Mon Sep 05 2022 9:08 AM 
+- 💼 [马里奥大电影名称确定？正式名称毫无意外](https://hot.cnbeta.com/articles/game/1312621.htm) | Mon Sep 05 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管苹果已经将 Mac Studio 打造得相当紧凑，但并不是所有客户都需要将它摆放到桌面上去使用。&lt;strong&gt;为了让这款高性能设备在机架上更好地发挥，Sonnet 刚刚推出了 Rack Mac Studio 和 xMac Studio 机箱配件。&lt;/strong&gt;前者是一款 3U 机箱，可将两台 Mac Studio 工作站固定在一个机架上。用户能够轻松访问前置 C 口与读卡器，辅以相当清爽的理线设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由任天堂与动画公司Illumination联合制作，根据最具知名度的游戏角色之一——马里奥改编的动画电影将于2023年上映，最近该片的正式名称很可能已经确定，而名称和上世纪的初代游戏一样是《超级马里奥兄弟》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [巴菲特抛售或达50亿港元 比亚迪跌破H股增发价](https://www.cnbeta.com/articles/tech/1312589.htm) | Mon Sep 05 2022 9:03 AM 
+- 💂 [《原神》新角色被老外指责肤色太白 不符合文化背景](https://hot.cnbeta.com/articles/game/1312619.htm) | Mon Sep 05 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“股神”巴菲特投资比亚迪（002594.SZ，01211.HK）的成功早已传为佳话，14年时间实现了大约40倍的收益。但是，随着巴菲特一个月内大举抛售近1800万股，套现约50亿港元，比亚迪股价也出现了深度调整，彻底跌破了2021年两次H股融资的增发价。第一财经记者梳理公开信息发现，上述两次H股融资都是在市场正狂热的时候，两次增发价分别为225港元和276港元。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;之前《原神》官方官宣了3.1版三个新角色，分别是赛诺、妮露和坎蒂丝。而坎蒂丝被老外玩家指责肤色太白，完全不符合历史文化的背景，不尊重玩家。虽然大部分国外玩家对坎蒂丝很感兴趣，特别是她的背景故事、个性和能力。一些玩家却开始声讨坎蒂丝的肤色问题，他们认为坎蒂丝太白了，不是须弥角色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [本周中秋假期 网易/B站等游戏限玩通知：未成年每天最多1小时](https://hot.cnbeta.com/articles/game/1312587.htm) | Mon Sep 05 2022 8:59 AM 
+- 🚀 [中国重型火箭25吨级氢氧发动机整机试车成功](https://www.cnbeta.com/articles/science/1312617.htm) | Mon Sep 05 2022 10:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周五我们将迎来愉快的中秋假期，这次三天假不调休，可以完美的享受三天小长假。不过，未成年人可不能放肆的玩游戏。今天上午，腾讯作为国内游戏大厂，已经率先发布了未成年人假期游戏限玩通知，&lt;strong&gt;从周五开始每天只能玩1个小时。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;未来用于登月的中国重型火箭试验又取得一个重要进展。9月5日，据航天科技集团消息，&lt;strong&gt;六院25吨级闭式膨胀循环氢氧发动机首次整机热试车圆满成功，这是世界上最大规模的闭式膨胀循环发动机试车，&lt;/strong&gt;标志着重型运载火箭关键技术之一的闭式膨胀循环氢氧发动机研制取得重大突破。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [RTX 4070、4080都有两张“脸”](https://www.cnbeta.com/articles/tech/1312585.htm) | Mon Sep 05 2022 8:59 AM 
+- 🎊 [美国宇航局&quot;朱诺&quot;号飞船发回的惊人图像揭示了木星表面的复杂颜色](https://www.cnbeta.com/articles/science/1312615.htm) | Mon Sep 05 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;之前有说法称，RTX 4070的规格还没有最终敲定，正在两种方案之间纠结。没想到，RTX 4080也是同样的情况！RTX 4070的一种方案是满血AD104核心，7680个CUDA核心，192-bit 12GB 21GHz GDDR6X显存，285W功耗，3DMark TSE成绩约1.1万分，基本类似RTX 3090 Ti。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年7月5日，美国宇航局的朱诺号航天器在完成对这颗巨行星的第43次近距离飞掠时，观察到了木星云层的复杂颜色和结构。来自冰岛的公民科学家Björn Jónsson利用航天器上的JunoCam仪器的原始数据制作了这两张图片。拍摄原始图像时，朱诺号在木星云顶上方约3,300英里（5,300公里）处，纬度约为50度，北方位于图像上方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
