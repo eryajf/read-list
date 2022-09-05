@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [小岛秀夫晒与《攻壳机动队》导演押井守合照 并对其进行3D扫描](https://hot.cnbeta.com/articles/game/1312623.htm) | Mon Sep 05 2022 10:08 AM 
+- 🕯 [新的Moto Edge 30 Neo渲染图确认了名称以及醒目的年度潘通色](https://www.cnbeta.com/articles/tech/1312635.htm) | Mon Sep 05 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本游戏制作人小岛秀夫今天（9月5日）在自己的推特上晒出了一张与导演的合照。拍摄地点是小岛秀夫的KOJIMA制作公司（KOJIPRO）的办公室。照片中，小岛秀夫和押井守分别坐在工作室吉祥物“Ludens”手办的两侧。并且，小岛秀夫之后发文称，工作室正在对押井守导演进行3D扫描。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;摩托罗拉正在为其Edge 30系列准备一款轻型手机，有传言说它将被称为Edge 30 Neo，有不少于四种颜色可供选择。今天，@rquandt在Twitter上确认了这个名字，并分享了一张与2022年潘通色相匹配的英雄画作Very Peri的图片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马里奥大电影名称确定？正式名称毫无意外](https://hot.cnbeta.com/articles/game/1312621.htm) | Mon Sep 05 2022 10:07 AM 
+- 💼 [雅马哈推出2023款E-Vino电动滑板车：参数升级 新配色亮相](https://www.cnbeta.com/articles/tech/1312633.htm) | Mon Sep 05 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由任天堂与动画公司Illumination联合制作，根据最具知名度的游戏角色之一——马里奥改编的动画电影将于2023年上映，最近该片的正式名称很可能已经确定，而名称和上世纪的初代游戏一样是《超级马里奥兄弟》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;雅马哈（Yamaha）刚刚推出了 2023 款 E-Vino，带来了多项功能参数升级和新的颜色选项。&lt;strong&gt;由于价钱实惠且易于使用，具有复古外观的该系列电动踏板车，在日本本土市场有一大票忠实的追随者（可惜不对外销售）。&lt;/strong&gt;新型号保留了前代强大的实用特性，但宽度略有增加。整车重量仅 68 公斤，且 32 英里的续航里程很适合日常通勤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《原神》新角色被老外指责肤色太白 不符合文化背景](https://hot.cnbeta.com/articles/game/1312619.htm) | Mon Sep 05 2022 10:07 AM 
+- 💂 [Apple Watch Pro的CAD渲染图出现 揭示了新的外壳设计和更大的显示屏](https://www.cnbeta.com/articles/tech/1312631.htm) | Mon Sep 05 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;之前《原神》官方官宣了3.1版三个新角色，分别是赛诺、妮露和坎蒂丝。而坎蒂丝被老外玩家指责肤色太白，完全不符合历史文化的背景，不尊重玩家。虽然大部分国外玩家对坎蒂丝很感兴趣，特别是她的背景故事、个性和能力。一些玩家却开始声讨坎蒂丝的肤色问题，他们认为坎蒂丝太白了，不是须弥角色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司的秋季发布会活动定于9月7日星期三举行，届时该公司将发布iPhone 14系列、新的iPad、AirPods Pro 2，甚至可能还有Mac Pro。除了这些，预计Apple Watch Series 8也将推出。更重要的是，我们会看到一款新的名为Apple Watch Pro的高端智能手表型号出现。现在，91mobiles通过CAD渲染图独家带来了Apple Watch Pro的第一印象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国重型火箭25吨级氢氧发动机整机试车成功](https://www.cnbeta.com/articles/science/1312617.htm) | Mon Sep 05 2022 10:05 AM 
+- 🚀 [比亚迪7月全球电动车电池销量超越LG升至第二 紧追宁德时代](https://www.cnbeta.com/articles/tech/1312629.htm) | Mon Sep 05 2022 10:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;未来用于登月的中国重型火箭试验又取得一个重要进展。9月5日，据航天科技集团消息，&lt;strong&gt;六院25吨级闭式膨胀循环氢氧发动机首次整机热试车圆满成功，这是世界上最大规模的闭式膨胀循环发动机试车，&lt;/strong&gt;标志着重型运载火箭关键技术之一的闭式膨胀循环氢氧发动机研制取得重大突破。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着电动车的销量增长，同步带动了电池装机量倍增，据市场研究机构SNE Research数据显示，随着中国对新能源汽车需求激增，&lt;strong&gt;比亚迪今年7月在全球电动汽车电池市场销量排名跃升至第二位，超过韩国LG。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美国宇航局&quot;朱诺&quot;号飞船发回的惊人图像揭示了木星表面的复杂颜色](https://www.cnbeta.com/articles/science/1312615.htm) | Mon Sep 05 2022 10:04 AM 
+- 🎊 [暴雪回应《守望先锋》“归来”新英雄泄露：太假了](https://hot.cnbeta.com/articles/game/1312627.htm) | Mon Sep 05 2022 10:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年7月5日，美国宇航局的朱诺号航天器在完成对这颗巨行星的第43次近距离飞掠时，观察到了木星云层的复杂颜色和结构。来自冰岛的公民科学家Björn Jónsson利用航天器上的JunoCam仪器的原始数据制作了这两张图片。拍摄原始图像时，朱诺号在木星云顶上方约3,300英里（5,300公里）处，纬度约为50度，北方位于图像上方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，有论坛曾泄露了一张据称是《守望先锋》归来第三位新英雄的屏摄图，现在暴雪已经对该传言作出了正面回应——确认为假。根据之前的泄露，该英雄名叫“Kimiko”，辅助位，可为队友提供治疗和加速增益。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
