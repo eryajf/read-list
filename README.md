@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [四川当地手机、电视提前收到地震预警：一文看懂如何开启](https://www.cnbeta.com/articles/tech/1312551.htm) | Mon Sep 05 2022 7:29 AM 
+- 🕯 [光伏电池大突破：新型铁电无铅材料有望使制造更简便、成本更低](https://www.cnbeta.com/articles/science/1312569.htm) | Mon Sep 05 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据据中国地震台网正式测定：09月05日12时52分，&lt;strong&gt;在四川甘孜州泸定县（北纬29.59度，东经102.08度）发生6.8级地震，震源深度16千米；&lt;/strong&gt;仅仅4分钟后，09月05日12时56分，在附近的四川雅安市石棉县（北纬29.40度，东经102.17度）发生4.2级地震，震源深度15千米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国能源部劳伦斯伯克利国家实验室（Lawrence Berkeley National Laboratory）的科学家开发了一种钙钛矿结构的铁电化合物，它可能适合于生产无铅钙钛矿光伏电池。据悉，这种材料是一种晶体太阳能材料，具有内置电场，也称为“铁电性”。由于这一发现，制造太阳能电池设备将会变得更简单、也更便宜，而且效率也会更高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312569.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [爆料称RTX 4080有16/12GB两档显存容量 RTX 4090 PCB细节也揭晓](https://www.cnbeta.com/articles/tech/1312549.htm) | Mon Sep 05 2022 7:28 AM 
+- 💼 [塔塔集团前董事长车祸身亡，印警方公布初步调查结果](https://www.cnbeta.com/articles/tech/1312567.htm) | Mon Sep 05 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;MEGAsizeGPU（@Zed_Wang）刚刚在 Twitter 上爆料称 —— &lt;strong&gt;英伟达或为 GeForce RTX 4080 提供 12 / 10 层设计的两款 PCB，以分别对应 16 / 12GB 的显存容量。&lt;/strong&gt;而公版和 AIC 合作伙伴的 RTX 4090 显卡将用上多达 14 层的一款 PCB，辅以 24GB GDDR6X 显存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据印度电视新闻网站（Indiatvnews）9月5日报道，9月4日下午3点15分左右，赛勒斯·米斯特里从印度艾哈迈达巴德市乘车前往孟买途中，在马哈拉施特拉邦的一座桥上撞上了隔离带，车上共有四人，&lt;strong&gt;塞勒斯·米斯特里和另一名乘客因伤势过重死亡，另外两人受伤被送往医院抢救。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312567.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国计量大学校长：90%学生被取消学籍是因为游戏](https://hot.cnbeta.com/articles/game/1312547.htm) | Mon Sep 05 2022 7:26 AM 
+- 💂 [半年报揭秘：比亚迪单车毛利超3万，但依旧是上游的“打工仔”？](https://www.cnbeta.com/articles/tech/1312565.htm) | Mon Sep 05 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，在中国计量大学的2022级开学典礼上，校长徐江荣发表了以《立大德、善学习、强特色，开启“量大盲盒”》为题的开学典礼致辞，他为同学们提出了三个忠告，其中一个为：&lt;strong&gt;网络游戏是最大的校园毒品，每年被取消学籍的同学90%因为游戏，100%不值得同情。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年上半年，在疫情反复、国际形势复杂的大环境下，我国汽车行业面临着供给冲击、需求收缩、预期转弱三重压力，整体销量同比下滑了6.6%。&lt;strong&gt;但新能源汽车依旧高歌猛进，产销均同比增长1.2倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [丰田日本发动机工厂将被改造为电池工厂](https://www.cnbeta.com/articles/tech/1312545.htm) | Mon Sep 05 2022 7:25 AM 
+- 🚀 [50年前老红旗车惊现二手网站：售价310万 可正常过户上路](https://www.cnbeta.com/articles/tech/1312563.htm) | Mon Sep 05 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;日本汽车制造商丰田正在加速从内燃机汽车向电动汽车过渡，该公司将把位于日本的两座动力系统工厂改造为电池生产基地。&lt;/strong&gt;工厂改造是丰田在上周宣布的56亿美元投资计划的一部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为国产豪华汽车的“大哥”，红旗发展史本身就是中国汽车工业发展壮大的缩影，而4、50年前的老红旗，也有着独特的时代和纪念意义，如果现在还能买到一台可合法上路的车，你会考虑吗？近日，在二手交易平台上，出现了一台国产老红旗CA770，据卖家介绍，该车可以正常上路，过户手续齐全，且车况和品相都保养的极为不错。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [携程去哪儿等多平台发布四川地震后退改政策，酒店均可免费取消](https://www.cnbeta.com/articles/tech/1312543.htm) | Mon Sep 05 2022 7:23 AM 
+- 🎊 [四川泸定发生6.8级地震：网友家中火锅告诉你成都震感有多凶](https://www.cnbeta.com/articles/tech/1312561.htm) | Mon Sep 05 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月5日下午消息，&lt;strong&gt;针对四川泸定地震所造成的出行订单影响，携程称多业务已启动重大灾害用户保障系统，协助用户退改并提供转运方案，用户可在携程平台自主申请免费退订。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月5日，四川泸定、雅安等地相继发生地震，&lt;strong&gt;一小时内2.8级以上就有七次。&lt;/strong&gt;其中，&lt;strong&gt;12时52分在四川甘孜州泸定县（北纬29.59度，东经102.08度）发生6.8级地震，震源深度16千米；12时56分在四川雅安市石棉县（北纬29.40度，东经102.17度）发生4.2级地震，震源深度15千米。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
