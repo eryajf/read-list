@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [相隔14000公里的座头鲸唱着同一首“网红”歌](http://jandan.net/p/111304) | Mon Sep 05 2022 4:18 AM 
+- 🚀 [哑铃力量训练 规律性比持续时间更重要](http://jandan.net/p/111159) | Mon Sep 05 2022 9:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    肌肉需要休息以提高力量和肌肉质量，但肌肉似乎又喜欢更频繁地受到刺激。 
+    </details> 
+
+- 🙉 [相隔14000公里的座头鲸唱着同一首“网红”歌](http://jandan.net/p/111304) | Mon Sep 05 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
     吃着鱼儿唱着歌 
     </details> 
 
-- 🙉 [今日好价 0905](http://jandan.net/p/111303) | Mon Sep 05 2022 2:39 AM 
+- 🎉 [今日好价 0905](http://jandan.net/p/111303) | Mon Sep 05 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [科学家突破性地将塑料变成钻石](http://jandan.net/p/111302) | Mon Sep 05 2022 1:28 AM 
+- 🐲 [科学家突破性地将塑料变成钻石](http://jandan.net/p/111302) | Mon Sep 05 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
     这同时暗示可能存在下钻石雨的系外行星。 
     </details> 
 
-- 🐲 [实验员的性别会影响氯胺酮对小鼠的抗抑郁效果](http://jandan.net/p/111297) | Mon Sep 05 2022 12:00 AM 
+-  [实验员的性别会影响氯胺酮对小鼠的抗抑郁效果](http://jandan.net/p/111297) | Mon Sep 05 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     男性带给小鼠更多压力，但压力有时也不是坏事。 
-    </details> 
-
--  [哪些动物最能适应气候变化？](http://jandan.net/p/111294) | Sun Sep 04 2022 2:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    极端天气频发，小动物可能要搬家 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
