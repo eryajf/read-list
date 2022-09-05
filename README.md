@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《全境封锁 中心地带》短暂上线育碧商城 现已被删除](https://hot.cnbeta.com/articles/game/1312479.htm) | Mon Sep 05 2022 4:12 AM 
+- 🕯 [俄媒：全球最大粒子加速器因欧洲能源危机面临关闭](https://www.cnbeta.com/articles/science/1312511.htm) | Mon Sep 05 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据网友Unknown1Z1称，育碧商城近日上线了《全境封锁 中心地带》的页面，游戏在页面中显示为“即将推出”，但目前该页面已被删除。据之前消息称，《全境封锁中心地带》将是一款《全境封锁》世界观下的独立作品，背景设定在美国中部小镇。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据今日俄罗斯电视台网站4日报道，欧洲核子研究中心（CERN）能源管理小组负责人谢尔盖克·克洛代承认，&lt;strong&gt;欧洲能源危机可能对全球最大粒子加速器——大型强子对撞机（LHC）造成影响。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [山东济南山区现海市蜃楼奇观：天空中悬浮一片山峰 像仙境](https://www.cnbeta.com/articles/tech/1312477.htm) | Mon Sep 05 2022 3:42 AM 
+- 💼 [欧元20年来首次跌破99美分水平](https://www.cnbeta.com/articles/tech/1312509.htm) | Mon Sep 05 2022 5:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据济南日报消息，9月4日济南南部山区惊现海市蜃楼奇观。从网友晒出的视频画面显示，&lt;strong&gt;在当地山区的空中突然出现一排山峰，藏在远处的云层之中若隐若现，看起来就像是仙境一般。&lt;/strong&gt;网友也不禁感叹壮观称，古人文字中描写的天宫也不过如此。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;欧元兑美元跌破前低0.9898，续创2002年12月以来新低。&lt;/strong&gt;欧洲能源危机给欧元带来巨大下行压力。虽然欧洲央行周四可能加息75个基点以抗击通胀，但欧洲能源危机对欧元汇率造成的影响可能更甚于此。在俄罗斯关闭北溪天然气管道后，欧洲日益加剧的能源危机给欧元带来了进一步压力，企业和家庭可能将面临一个严寒而又艰难的冬季。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [巴菲特减持比亚迪 知名经济学家任泽平：股神可能错了](https://www.cnbeta.com/articles/tech/1312475.htm) | Mon Sep 05 2022 3:42 AM 
+- 💂 [Solo Stove推出可爱多彩的Mesa火炉 将无烟设计缩减到桌面解决方案](https://www.cnbeta.com/articles/tech/1312507.htm) | Mon Sep 05 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，“股神”巴菲特减持比亚迪一事，引起网友热议。港交所披露文件显示，此前8月24日-9月1日，巴菲特旗下的伯克希尔公司，共减持1157.9万股比亚迪H股，价值约30亿港元，持股从8月24日的19.92％下降至18.87％。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，&lt;strong&gt;Solo Stove在其产品目录中又增加了一个优雅的火炉，这次是将其标志性的无烟设计缩减到一个桌面解决方案上，它被称为Mesa。&lt;/strong&gt;这个可爱的小火炉有一系列的颜色选择，占地面积小，为狭窄的空间甚至是背包旅行带来新的温暖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [理想ONE突然降价遭众怒 老车主车身拉横幅街头维权](https://www.cnbeta.com/articles/tech/1312473.htm) | Mon Sep 05 2022 3:41 AM 
+- 🚀 [理想ONE降价销售遭近千人投诉 官方称不会影响售后](https://www.cnbeta.com/articles/tech/1312505.htm) | Mon Sep 05 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不少想买理想ONE的朋友，近期也发现理想ONE开始大降价促销了，一些门店的现金优惠叠加礼品、保险减免之后，额度甚至能达2、3万元。并且，理想方面确认理想ONE将于10月份停产，同时切换换代车型L8接棒理想ONE；这也让不少刚提理想ONE的老车主不满了，他们觉得受到了理想的欺骗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，理想ONE被曝降价2万元销售，并于11月份将发布换代车型——理想L8，理想ONE后续将停产停售，此举引发众多新老车主不满，在线上线下进行维权。蓝鲸汽车从黑猫投诉网了解到，大量理想ONE车主在网站上投诉理想汽车存在欺诈销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [台风“轩岚诺”来袭 上海中心1000吨阻尼器摆动肉眼可见](https://www.cnbeta.com/articles/tech/1312471.htm) | Mon Sep 05 2022 3:40 AM 
+- 🎊 [药丸屏，紫色回归，息屏显示，卫星通信？苹果新机温和升级大猜想](https://www.cnbeta.com/articles/tech/1312503.htm) | Mon Sep 05 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月5日消息，据上海中心气象台，&lt;strong&gt;“轩岚诺”（超强台风级）中心今天8时位于距离上海浦东南汇嘴东南方向约306公里的海面上，&lt;/strong&gt;中心附近最大风力有16级（55米／秒），中心最低气压为930百帕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果年度最重磅的产品——iPhone 14将在北京时间9月8日凌晨揭晓。当地时间9月4日，彭博社记者Mark Gurman称，iPhone 14在功能上没有突破大众想象，正如iPhone 13相较于iPhone 12的升级程度，苹果将连续第二年采用温和，而非激进式升级。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
