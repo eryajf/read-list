@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [光伏电池大突破：新型铁电无铅材料有望使制造更简便、成本更低](https://www.cnbeta.com/articles/science/1312569.htm) | Mon Sep 05 2022 8:16 AM 
+- 🕯 [日本科学家创造出遥控半机械蟑螂](https://www.cnbeta.com/articles/science/1312593.htm) | Mon Sep 05 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国能源部劳伦斯伯克利国家实验室（Lawrence Berkeley National Laboratory）的科学家开发了一种钙钛矿结构的铁电化合物，它可能适合于生产无铅钙钛矿光伏电池。据悉，这种材料是一种晶体太阳能材料，具有内置电场，也称为“铁电性”。由于这一发现，制造太阳能电池设备将会变得更简单、也更便宜，而且效率也会更高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312569.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;日本研究人员近日设计了一个用于制造遥控半机械蟑螂的系统，该系统配备了一个微型无线控制模块，该模块由连接到太阳能电池的可充电电池供电。&lt;/strong&gt;尽管有机械装置，但超薄的电子器件和柔性材料使昆虫能够自由移动。这些成就将有助于使半机械昆虫的使用成为实际的现实。由日本理化学研究所（RIKEN）先锋研究集群（CPR）的研究人员领导的一个国际团队9月5日在科学杂志《npj-柔性电子》上报告了这项成果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [塔塔集团前董事长车祸身亡，印警方公布初步调查结果](https://www.cnbeta.com/articles/tech/1312567.htm) | Mon Sep 05 2022 8:16 AM 
+- 💼 [Sonnet推出RackMac Studio和xMac Studio机架式机箱配件](https://www.cnbeta.com/articles/tech/1312591.htm) | Mon Sep 05 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据印度电视新闻网站（Indiatvnews）9月5日报道，9月4日下午3点15分左右，赛勒斯·米斯特里从印度艾哈迈达巴德市乘车前往孟买途中，在马哈拉施特拉邦的一座桥上撞上了隔离带，车上共有四人，&lt;strong&gt;塞勒斯·米斯特里和另一名乘客因伤势过重死亡，另外两人受伤被送往医院抢救。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312567.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管苹果已经将 Mac Studio 打造得相当紧凑，但并不是所有客户都需要将它摆放到桌面上去使用。&lt;strong&gt;为了让这款高性能设备在机架上更好地发挥，Sonnet 刚刚推出了 Rack Mac Studio 和 xMac Studio 机箱配件。&lt;/strong&gt;前者是一款 3U 机箱，可将两台 Mac Studio 工作站固定在一个机架上。用户能够轻松访问前置 C 口与读卡器，辅以相当清爽的理线设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [半年报揭秘：比亚迪单车毛利超3万，但依旧是上游的“打工仔”？](https://www.cnbeta.com/articles/tech/1312565.htm) | Mon Sep 05 2022 8:14 AM 
+- 💂 [巴菲特抛售或达50亿港元 比亚迪跌破H股增发价](https://www.cnbeta.com/articles/tech/1312589.htm) | Mon Sep 05 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年上半年，在疫情反复、国际形势复杂的大环境下，我国汽车行业面临着供给冲击、需求收缩、预期转弱三重压力，整体销量同比下滑了6.6%。&lt;strong&gt;但新能源汽车依旧高歌猛进，产销均同比增长1.2倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“股神”巴菲特投资比亚迪（002594.SZ，01211.HK）的成功早已传为佳话，14年时间实现了大约40倍的收益。但是，随着巴菲特一个月内大举抛售近1800万股，套现约50亿港元，比亚迪股价也出现了深度调整，彻底跌破了2021年两次H股融资的增发价。第一财经记者梳理公开信息发现，上述两次H股融资都是在市场正狂热的时候，两次增发价分别为225港元和276港元。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [50年前老红旗车惊现二手网站：售价310万 可正常过户上路](https://www.cnbeta.com/articles/tech/1312563.htm) | Mon Sep 05 2022 8:02 AM 
+- 🚀 [本周中秋假期 网易/B站等游戏限玩通知：未成年每天最多1小时](https://hot.cnbeta.com/articles/game/1312587.htm) | Mon Sep 05 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为国产豪华汽车的“大哥”，红旗发展史本身就是中国汽车工业发展壮大的缩影，而4、50年前的老红旗，也有着独特的时代和纪念意义，如果现在还能买到一台可合法上路的车，你会考虑吗？近日，在二手交易平台上，出现了一台国产老红旗CA770，据卖家介绍，该车可以正常上路，过户手续齐全，且车况和品相都保养的极为不错。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周五我们将迎来愉快的中秋假期，这次三天假不调休，可以完美的享受三天小长假。不过，未成年人可不能放肆的玩游戏。今天上午，腾讯作为国内游戏大厂，已经率先发布了未成年人假期游戏限玩通知，&lt;strong&gt;从周五开始每天只能玩1个小时。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [四川泸定发生6.8级地震：网友家中火锅告诉你成都震感有多凶](https://www.cnbeta.com/articles/tech/1312561.htm) | Mon Sep 05 2022 7:56 AM 
+- 🎊 [RTX 4070、4080都有两张“脸”](https://www.cnbeta.com/articles/tech/1312585.htm) | Mon Sep 05 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月5日，四川泸定、雅安等地相继发生地震，&lt;strong&gt;一小时内2.8级以上就有七次。&lt;/strong&gt;其中，&lt;strong&gt;12时52分在四川甘孜州泸定县（北纬29.59度，东经102.08度）发生6.8级地震，震源深度16千米；12时56分在四川雅安市石棉县（北纬29.40度，东经102.17度）发生4.2级地震，震源深度15千米。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;之前有说法称，RTX 4070的规格还没有最终敲定，正在两种方案之间纠结。没想到，RTX 4080也是同样的情况！RTX 4070的一种方案是满血AD104核心，7680个CUDA核心，192-bit 12GB 21GHz GDDR6X显存，285W功耗，3DMark TSE成绩约1.1万分，基本类似RTX 3090 Ti。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
