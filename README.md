@@ -113,11 +113,11 @@
 ### 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🦣 [独立产品灵感周刊 DecoHack #028 – 如何给你的项目取一个好名字](https://www.decohack.com/Post/980) | Mon Aug 29 2022 5:32 AM
-- 👺 [独立产品灵感周刊 DecoHack #027 – 今天的天气适合穿短裤](https://www.decohack.com/Post/959) | Mon Aug 22 2022 4:42 AM
--  [独立产品灵感周刊 DecoHack #026 – 在哪里推广你的新产品](https://www.decohack.com/Post/863) | Mon Aug 15 2022 3:18 AM
-- 🐲 [独立产品灵感周刊 DecoHack #025 – 如何找到一个新爱好](https://www.decohack.com/Post/840) | Mon Aug 08 2022 3:00 AM
-- 🦅 [独立产品灵感周刊 DecoHack #024 – 90年代的网站设计](https://www.decohack.com/Post/819) | Mon Aug 01 2022 3:20 AM<!-- DecoHack:END -->
+- 🦣 [独立产品灵感周刊 DecoHack #029 – 随便逛逛谷歌街景](https://www.decohack.com/Post/1004) | Mon Sep 05 2022 5:50 AM
+- 👺 [独立产品灵感周刊 DecoHack #028 – 如何给你的项目取一个好名字](https://www.decohack.com/Post/980) | Mon Aug 29 2022 5:32 AM
+-  [独立产品灵感周刊 DecoHack #027 – 今天的天气适合穿短裤](https://www.decohack.com/Post/959) | Mon Aug 22 2022 4:42 AM
+- 🐲 [独立产品灵感周刊 DecoHack #026 – 在哪里推广你的新产品](https://www.decohack.com/Post/863) | Mon Aug 15 2022 3:18 AM
+- 🦅 [独立产品灵感周刊 DecoHack #025 – 如何找到一个新爱好](https://www.decohack.com/Post/840) | Mon Aug 08 2022 3:00 AM<!-- DecoHack:END -->
 
 ### 独立开发变现周刊
 
