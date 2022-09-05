@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [科学家突破性地将塑料变成钻石](http://jandan.net/p/111302) | Mon Sep 05 2022 1:28 AM 
+- 🚀 [相隔14000公里的座头鲸唱着同一首“网红”歌](http://jandan.net/p/111304) | Mon Sep 05 2022 4:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    吃着鱼儿唱着歌 
+    </details> 
+
+- 🙉 [今日好价 0905](http://jandan.net/p/111303) | Mon Sep 05 2022 2:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
+    </details> 
+
+- 🎉 [科学家突破性地将塑料变成钻石](http://jandan.net/p/111302) | Mon Sep 05 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
     这同时暗示可能存在下钻石雨的系外行星。 
     </details> 
 
-- 🙉 [实验员的性别会影响氯胺酮对小鼠的抗抑郁效果](http://jandan.net/p/111297) | Mon Sep 05 2022 12:00 AM 
+- 🐲 [实验员的性别会影响氯胺酮对小鼠的抗抑郁效果](http://jandan.net/p/111297) | Mon Sep 05 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     男性带给小鼠更多压力，但压力有时也不是坏事。 
     </details> 
 
-- 🎉 [哪些动物最能适应气候变化？](http://jandan.net/p/111294) | Sun Sep 04 2022 2:03 PM 
+-  [哪些动物最能适应气候变化？](http://jandan.net/p/111294) | Sun Sep 04 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
     极端天气频发，小动物可能要搬家 
-    </details> 
-
-- 🐲 [室温下无需能量输入，纳米粒子让水源源不断地分解出氢](http://jandan.net/p/111250) | Sun Sep 04 2022 8:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    “我们不需要任何能量输入，它会像疯了似的冒出氢气。我从来没有见过这样的事。” 
-    </details> 
-
--  [新的GnRH激素疗法有望提升唐氏患者的生活质量](http://jandan.net/p/111278) | Sun Sep 04 2022 4:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    唐氏患者的黎明 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
