@@ -333,7 +333,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [俄罗斯 Yandex  被黑，造成莫斯科交通堵塞](https://www.freebuf.com/news/343776.html) | Mon Sep 05 2022 6:25 AM 
+- 🦄 [俄罗斯打车软件 Yandex  被黑，造成莫斯科交通堵塞](https://www.freebuf.com/news/343776.html) | Mon Sep 05 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
     俄罗斯打车应用程序 Yandex 遭到黑客攻击，数百名司机被“送到”莫斯科地区同一个上车点，造成了大面积交通堵塞。 
     </details> 
