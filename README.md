@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新研究发现空气污染和新生儿肠道微生物群发育之间存在关联](https://www.cnbeta.com/articles/science/1312421.htm) | Mon Sep 05 2022 1:59 AM 
+- 🕯 [《全境封锁 中心地带》短暂上线育碧商城 现已被删除](https://hot.cnbeta.com/articles/game/1312479.htm) | Mon Sep 05 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日发表在《&lt;a href=&quot;https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2105096&quot; target=&quot;_blank&quot;&gt;Gut Microbes&lt;/a&gt;》（肠道微生物）期刊上的论文中，首次研究了空气污染和婴儿肠道微生物群发育之间的关系。&lt;/strong&gt;研究发现，在出生后的前六个月空气污染与肠道微生物组存在关联，这些微生物组与过敏和炎症性疾病有关。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据网友Unknown1Z1称，育碧商城近日上线了《全境封锁 中心地带》的页面，游戏在页面中显示为“即将推出”，但目前该页面已被删除。据之前消息称，《全境封锁中心地带》将是一款《全境封锁》世界观下的独立作品，背景设定在美国中部小镇。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家发现新型非阿片类止痛药 其副作用少于现有止痛片](https://www.cnbeta.com/articles/science/1312419.htm) | Mon Sep 05 2022 1:39 AM 
+- 💼 [山东济南山区现海市蜃楼奇观：天空中悬浮一片山峰 像仙境](https://www.cnbeta.com/articles/tech/1312477.htm) | Mon Sep 05 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-022-31652-2&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;科学家已经发现了一种有前途的新型非阿片类止痛药（镇痛剂）&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;，其副作用可能比其他强效止痛药更少&lt;/strong&gt;。由华威大学生命科学学院的科学家领导的一组研究人员分析了一种称为 BnOCPA（苄氧基-环戊基腺苷）的化合物，发现该化合物是一种强大的镇痛剂，在测试模型系统中不会上瘾。 BnOCPA 还具有独特的作用方式，可为镇痛药物的创制提供新的途径。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据济南日报消息，9月4日济南南部山区惊现海市蜃楼奇观。从网友晒出的视频画面显示，&lt;strong&gt;在当地山区的空中突然出现一排山峰，藏在远处的云层之中若隐若现，看起来就像是仙境一般。&lt;/strong&gt;网友也不禁感叹壮观称，古人文字中描写的天宫也不过如此。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NASA更新“太阳系之眼”3D可视化工具 涵盖126艘航天器的任务路线](https://www.cnbeta.com/articles/science/1312417.htm) | Mon Sep 05 2022 1:37 AM 
+- 💂 [巴菲特减持比亚迪 知名经济学家任泽平：股神可能错了](https://www.cnbeta.com/articles/tech/1312475.htm) | Mon Sep 05 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国宇航局刚刚更新了“太阳系之眼”（Eyes on the Solar System），以便感兴趣的人们通过这款 3D 可视化工具，了解该机构的 126 艘航天器的渲染图。&lt;/strong&gt;尽管 Artemis I 探月发射任务已因储氢罐泄露而推迟，但你至少可以借助该工具来预先了解它的行进路线、以及其它新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，“股神”巴菲特减持比亚迪一事，引起网友热议。港交所披露文件显示，此前8月24日-9月1日，巴菲特旗下的伯克希尔公司，共减持1157.9万股比亚迪H股，价值约30亿港元，持股从8月24日的19.92％下降至18.87％。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [马斯克：穆迪给特斯拉的垃圾评级无关紧要](https://www.cnbeta.com/articles/tech/1312415.htm) | Mon Sep 05 2022 1:36 AM 
+- 🚀 [理想ONE突然降价遭众怒 老车主车身拉横幅街头维权](https://www.cnbeta.com/articles/tech/1312473.htm) | Mon Sep 05 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一些特斯拉投资者最近对评级机构将他们最喜欢的公司的信用评级定为垃圾级表达不满，马斯克对此回应称，评级机构的看法对他和特斯拉来说无关紧要。目前标普对特斯拉的评级为BB+，比投资级低一级。穆迪今年1月将特斯拉的评级上调了两档，但仍为Ba1，是垃圾级中最高的。穆迪暗示，最早将于明年年初将该公司的信用评级上调至投资级。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不少想买理想ONE的朋友，近期也发现理想ONE开始大降价促销了，一些门店的现金优惠叠加礼品、保险减免之后，额度甚至能达2、3万元。并且，理想方面确认理想ONE将于10月份停产，同时切换换代车型L8接棒理想ONE；这也让不少刚提理想ONE的老车主不满了，他们觉得受到了理想的欺骗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [搭载比亚迪DM-i超混技术 创维HT-i今日上市：一箱油能跑1267公里](https://www.cnbeta.com/articles/tech/1312413.htm) | Mon Sep 05 2022 1:31 AM 
+- 🎊 [台风“轩岚诺”来袭 上海中心1000吨阻尼器摆动肉眼可见](https://www.cnbeta.com/articles/tech/1312471.htm) | Mon Sep 05 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;创维旗下全新HT-i车型将于今晚上市，该车定位于入门级中型SUV，&lt;strong&gt;最大的亮点在于使用了比亚迪的DM-i插混动力系统&lt;/strong&gt;，日前已开启预售，价格区间为14.98-19.98万元。作为创维EV6的兄弟车型，HT-i延续了EV6的设计风格，但前脸使用了经过重新设计的进气格栅，创维汽车称之为引力波美学概念。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月5日消息，据上海中心气象台，&lt;strong&gt;“轩岚诺”（超强台风级）中心今天8时位于距离上海浦东南汇嘴东南方向约306公里的海面上，&lt;/strong&gt;中心附近最大风力有16级（55米／秒），中心最低气压为930百帕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
