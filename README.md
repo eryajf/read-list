@@ -741,27 +741,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [9 月 7 日 21:00｜哈苏新品发布](https://www.photoworld.com.cn/post/163536) | Thu Sep 01 2022 1:19 PM 
+- 🤠 [8K 拍摄，是手机的上限么？](https://www.photoworld.com.cn/post/163700) | Mon Sep 05 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [新华社中国图片社 “亿级像素 影像数字化解决方案” 亮相第九届 “博博会”](https://www.photoworld.com.cn/post/163522) | Thu Sep 01 2022 7:22 AM 
+- 🎃 [9 月 7 日 21:00｜哈苏新品发布](https://www.photoworld.com.cn/post/163536) | Thu Sep 01 2022 1:19 PM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [寻一抹秋礼｜尼康促销活动即将惊喜开启](https://www.photoworld.com.cn/post/163532) | Mon Aug 29 2022 10:21 AM 
+- 👀 [新华社中国图片社 “亿级像素 影像数字化解决方案” 亮相第九届 “博博会”](https://www.photoworld.com.cn/post/163522) | Thu Sep 01 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [关于第 24 届 CHINA P&amp;E 博览会延期举办的通知](https://www.photoworld.com.cn/post/163208) | Thu Aug 25 2022 8:11 AM 
+- 🤔 [寻一抹秋礼｜尼康促销活动即将惊喜开启](https://www.photoworld.com.cn/post/163532) | Mon Aug 29 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [“我和天安门的故事” 主题征集活动](https://www.photoworld.com.cn/post/163168) | Wed Aug 24 2022 1:29 AM 
+- 👀 [关于第 24 届 CHINA P&amp;E 博览会延期举办的通知](https://www.photoworld.com.cn/post/163208) | Thu Aug 25 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
