@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [拿什么装你的一机 N 镜？谈谈我的摄影包折腾经历和推荐](https://sspai.com/post/75524) | Mon Sep 05 2022 3:48 AM 
+- 👹 [一日一技 | 如何给 Kindle 电子书添加注释](https://sspai.com/post/75170) | Mon Sep 05 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    因为有在 Kindle 里看网络小说的习惯，但是通过脚本下载的文档通常都是将其放在章节末尾，阅读时需要反复查阅，配合上墨水屏缓慢的反应速度，阅读体验实在称不上好。于是就萌生了「把注释加进正文」的想法。既然 Kindle 商店里的正规出版物都有这样的功能，那用电子书编辑器是不是也能做到？&lt;a href=&quot;https://sspai.com/post/75170&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [拿什么装你的一机 N 镜？谈谈我的摄影包折腾经历和推荐](https://sspai.com/post/75524) | Mon Sep 05 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
     希望大家能一次就找到自己心仪的器材，摄影背包也一样。&lt;a href=&quot;https://sspai.com/post/75524&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：Cloudflare 封锁 Kiwifarms；拼多多在美低调上线 Temu 等](https://sspai.com/post/75526) | Mon Sep 05 2022 12:42 AM 
+- 🤭 [派早报：Cloudflare 封锁 Kiwifarms；拼多多在美低调上线 Temu 等](https://sspai.com/post/75526) | Mon Sep 05 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事Cloudflare封锁Kiwifarms9月4日，大型网络服务提供商Cloudflare在愈发高涨的公众压力下，宣布将停止为受争议的美国论坛Kiwifarms提供DDoS防御服务。 ...&lt;a href=&quot;https://sspai.com/post/75526&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [App+1 | 此处插入评价：微信输入法测试版上手体验](https://sspai.com/post/75527) | Sun Sep 04 2022 7:47 AM 
+- 🥸 [App+1 | 此处插入评价：微信输入法测试版上手体验](https://sspai.com/post/75527) | Sun Sep 04 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
     它基本功能完备，联网后更是微信的好伙伴——但你最好还是断网体验。&lt;a href=&quot;https://sspai.com/post/75527&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [任意键｜最后生还者回归；高达站立于大地；索尼独占喜减一及其他](https://sspai.com/post/75523) | Sun Sep 04 2022 2:57 AM 
+- 🙉 [任意键｜最后生还者回归；高达站立于大地；索尼独占喜减一及其他](https://sspai.com/post/75523) | Sun Sep 04 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
     周末愉快！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。🎮玩游戏顽皮狗｜《最后生还者重制版》已发售《最后生还者》是由顽皮狗 ...&lt;a href=&quot;https://sspai.com/post/75523&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [无缝播放：被数字音乐「弄丢」的专辑之美](https://sspai.com/post/75517) | Sat Sep 03 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    无缝播放不是不被需要，而是在这样完整听过一张专辑之前，你都没有意识到你需要。&lt;a href=&quot;https://sspai.com/post/75517&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
