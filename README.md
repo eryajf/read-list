@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 反电信网络诈骗法表决通过；主要 VPN 服务商关闭印度服务器](https://www.freebuf.com/news/343657.html) | Fri Sep 02 2022 6:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    十三届全国人大常委会第三十六次会议 9 月 2 日表决通过反电信网络诈骗法，该法将于 2022 年 12 月 1 日起施行。 
+    </details> 
+
 - 🦄 [FreeBuf周报 | 谷歌发布开源漏洞奖励计划；网传用友等头部软件厂商遭勒索攻击](https://www.freebuf.com/news/343638.html) | Fri Sep 02 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
     各位Buffer周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！热点资讯1、DEF CON 大会：白帽黑客演示远程控制退役卫星8 月 20 日的 DEF CON 黑客大会上，白帽黑客组织 Shadyte l现场演示远程劫持一颗退役卫星，并利用它来播放电影。2、苹果曝严重安全漏洞，喜提热搜第一据媒体报道，苹果公司在 
     </details> 
 
-- 🦄 [首部！《反电信网络诈骗法》通过，12月1日起施行](https://www.freebuf.com/news/343637.html) | Fri Sep 02 2022 6:06 AM 
+- 🦅 [首部！《反电信网络诈骗法》通过，12月1日起施行](https://www.freebuf.com/news/343637.html) | Fri Sep 02 2022 6:06 AM 
     <details><summary>展开描述 ...</summary> 
     我国首部《反电信网络诈骗法》（以下简称《反诈骗法》）已于9月2日表决通过，12月1日起正式施行。 
     </details> 
 
-- 🦅 [黑山遭遇勒索软件攻击，黑客索要1000万美元](https://www.freebuf.com/news/343620.html) | Fri Sep 02 2022 5:17 AM 
+- 🪄 [黑山遭遇勒索软件攻击，黑客索要1000万美元](https://www.freebuf.com/news/343620.html) | Fri Sep 02 2022 5:17 AM 
     <details><summary>展开描述 ...</summary> 
     黑山政府的关键基础设施遭到了勒索软件攻击，黑客索要 1000 万美元巨款。 
     </details> 
 
-- 🪄 [月圆「识」好礼，惊喜词条彩蛋上线！](https://www.freebuf.com/fevents/343604.html) | Fri Sep 02 2022 2:46 AM 
+- 💻 [月圆「识」好礼，惊喜词条彩蛋上线！](https://www.freebuf.com/fevents/343604.html) | Fri Sep 02 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
     今年中秋，“共建者”探险小分队，让知识变得更有趣。 
-    </details> 
-
-- 💻 [应对勒索攻击如何做好数据备份？| FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/343568.html) | Thu Sep 01 2022 12:09 PM 
-    <details><summary>展开描述 ...</summary> 
-    不同企业对数据备份采取的措施参差不齐，这其中有哪些特殊性？该如何为应对勒索攻击做好数据备份？ 
     </details> 
 <!-- freebuf:END -->
 
