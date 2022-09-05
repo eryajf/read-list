@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [印度批准支付平台PayU以47亿美元收购BillDesk](https://www.cnbeta.com/articles/tech/1312701.htm) | Mon Sep 05 2022 2:42 PM 
+- 🕯 [Windows 11 22H2功能更新正在为即将到来的发布日做准备](https://www.cnbeta.com/articles/tech/1312713.htm) | Mon Sep 05 2022 3:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;印度的反垄断监督机构已经批准了PayU对支付网关BillDesk的拟议收购，这是南亚市场消费互联网领域的第二大并购交易，距离两家公司宣布合并计划已有一年多时间。&lt;/strong&gt;印度竞争委员会在一条推文中说，该交易已被批准，但没有详细说明。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据熟悉该公司计划的消息人士透露，Windows 11自10月推出以来的第一个大更新现在正在为即将推出做准备，升级工作预计将在两周内开始。据报道，该公司已将此次升级命名为&amp;quot;Windows 11 2022更新&amp;quot;，但该名称可能会改变。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [徕卡与海信合作出 4K 超短距投影仪](https://www.cnbeta.com/articles/tech/1312699.htm) | Mon Sep 05 2022 2:38 PM 
+- 💼 [首个海底云水下数据中心将于今年开放营业](https://www.cnbeta.com/articles/tech/1312711.htm) | Mon Sep 05 2022 3:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;徕卡（Leica）在本届 IFA 上宣布与海信（Hisense）合作，带来一款挂着其经典红标的 Cine 1 超短距投影仪。这款设备分为 80 吋和 100 吋两个版本，解析度均为 4K，但最短投射距离也有所不同：一个约 150mm 另一个一个约 300mm。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一家名为 &amp;quot;海底云&amp;quot;的公司计划在2022年底前在美国海岸建立一个商业化的海底数据中心&lt;/strong&gt;，并计划在墨西哥湾和北海部署其他设施。Subsea公司称，它已经与&amp;quot;一个友好的政府派别&amp;quot;部署了其技术，计划在今年年底前将其第一个商业吊舱放入华盛顿州安吉利斯港附近的水中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Google涂鸦在美国劳动节向工人“伸出双手”](https://www.cnbeta.com/articles/tech/1312697.htm) | Mon Sep 05 2022 2:37 PM 
+- 💂 [四川泸定6.8级地震亲历者：路面波浪形抖动 腿都吓软了](https://www.cnbeta.com/articles/tech/1312709.htm) | Mon Sep 05 2022 3:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;本周一是美国的劳动节，这个节日通常以在后院烧烤、海滩或山区度假的聚会为标志，但它也是美国人向全国劳动者的贡献致敬的日子。&lt;/strong&gt;每年9月的第一个星期一，劳动节是一个全国性的节日，以表彰美国工人的社会和经济成就。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月5月12点52分18秒，四川省甘孜州泸定县发生6.8级地震，随后在12点56分34秒，临近的雅安市石棉县发生4.2级地震。截止9月5日晚21点，后续发生2.8级及以上余震共十次，最大震级3.6级。本次地震，成都震感明显，甘孜、阿坝、凉山、雅安等地有感，省外诸多地区也有震感。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [百度家的量产车曝光 逐帧解析10大关键点](https://www.cnbeta.com/articles/tech/1312695.htm) | Mon Sep 05 2022 2:33 PM 
+- 🚀 [华为Mate 50 Pro现身GeekBench 处理器或为台积电代工骁龙8+](https://www.cnbeta.com/articles/tech/1312707.htm) | Mon Sep 05 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;百度造的车，终于现真身了！不是概念车，也不是元宇宙，真是量产车。今天上午，有网友在北京顺义某街道上拍到了一台披着伪装的测试车，从轮廓、大灯等细节可以判断出这是集度汽车的首款车型ROBO-01的量产版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月5日晚间消息，赶在明天（9月6日）下午的华为发布会前，Mate 50 Pro首个跑分曝光。测试软件为GeekBench 5，单核1266分，多核3938分。机型识别为华为DCO-AL00，频率信息为1*3.19GHz X2+3*2.75GHz A710+4*2.02GHz A510，Adreno730 GPU。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [揭秘Chiplet技术：摩尔定律拯救者 两大阵营、六个核心玩家](https://www.cnbeta.com/articles/tech/1312693.htm) | Mon Sep 05 2022 2:31 PM 
+- 🎊 [Intel 13代酷睿核显变强了：看齐AMD Vega10](https://www.cnbeta.com/articles/tech/1312705.htm) | Mon Sep 05 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Chiplet 技术的出现是产业链在生产效率优化需求下的必然选择，其技术核心在于实现芯片间的高速互联，因此 UCIe&amp;nbsp;在具体的封装方式上未对成员做出严格限制，产业内也分化出了两个阵营。晶圆厂阵营以大面积硅中介层实现互联为主，可提供更高速的连接和更好的拓展性；而封装厂阵营则努力减少硅片加工需求，提出更有廉价、更有性价比的方案；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在AMD Zen4锐龙7000上，AMD只是象征性地配置了2CU规模的GPU显示单元，主要是亮机使用，中高度负载就甭想了。作为主要对手的Intel 13代酷睿并没有因此放松警惕，而且从抢跑的测试分数来看，核显单元这次进一步增强了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
