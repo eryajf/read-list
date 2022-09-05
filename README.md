@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [哑铃力量训练 规律性比持续时间更重要](http://jandan.net/p/111159) | Mon Sep 05 2022 9:59 AM 
+- 🚀 [灾难期间的社会人口流动模型](http://jandan.net/p/111245) | Mon Sep 05 2022 12:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    结论非常合乎直觉：低收入人群即便在共危机事件中，也要每日大量的奔波 
+    </details> 
+
+- 🙉 [哑铃力量训练 规律性比持续时间更重要](http://jandan.net/p/111159) | Mon Sep 05 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
     肌肉需要休息以提高力量和肌肉质量，但肌肉似乎又喜欢更频繁地受到刺激。 
     </details> 
 
-- 🙉 [相隔14000公里的座头鲸唱着同一首“网红”歌](http://jandan.net/p/111304) | Mon Sep 05 2022 4:18 AM 
+- 🎉 [相隔14000公里的座头鲸唱着同一首“网红”歌](http://jandan.net/p/111304) | Mon Sep 05 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
     吃着鱼儿唱着歌 
     </details> 
 
-- 🎉 [今日好价 0905](http://jandan.net/p/111303) | Mon Sep 05 2022 2:39 AM 
+- 🐲 [今日好价 0905](http://jandan.net/p/111303) | Mon Sep 05 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [科学家突破性地将塑料变成钻石](http://jandan.net/p/111302) | Mon Sep 05 2022 1:28 AM 
+-  [科学家突破性地将塑料变成钻石](http://jandan.net/p/111302) | Mon Sep 05 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
     这同时暗示可能存在下钻石雨的系外行星。 
-    </details> 
-
--  [实验员的性别会影响氯胺酮对小鼠的抗抑郁效果](http://jandan.net/p/111297) | Mon Sep 05 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    男性带给小鼠更多压力，但压力有时也不是坏事。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
