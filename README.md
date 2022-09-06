@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Feedback Farm - 使用简单的小部件收集反馈](https://xinquji.com/posts/179289?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:27 AM 
+- 👀 [360configurator - 加速所有 Window 公司的销售流程](https://xinquji.com/posts/179299?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     使用简单的小部件收集反馈  
+     加速所有 Window 公司的销售流程  
     </details> 
 
-- 🥷 [Vtiger CRM for Microsoft Teams - 将您的 CRM 与 MS Teams 集成以简化沟通](https://xinquji.com/posts/179288?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:26 AM 
+- 🥷 [Hackrate Ethical Hacking Platform - 公司比以往任何时候都更需要道德黑客](https://xinquji.com/posts/179298?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     将您的 CRM 与 MS Teams 集成以简化沟通  
+     公司比以往任何时候都更需要道德黑客  
     </details> 
 
-- 💼 [Go in One Evening - 在几个小时内学习 Go 编程要点](https://xinquji.com/posts/179287?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:25 AM 
+- 💼 [Someka Trading Journal - 强大且易于使用的日志来跟踪您的日间交易](https://xinquji.com/posts/179297?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     在几个小时内学习 Go 编程要点  
+     强大且易于使用的日志来跟踪您的日间交易  
     </details> 
 
-- 🦅 [matcha - 全新的社区体验，从 URL 流向 IRL](https://xinquji.com/posts/179286?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:24 AM 
+- 🦅 [Trader Business Dashboard Pro - 终极仪表板、规划器、剧本、研究模板](https://xinquji.com/posts/179296?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     全新的社区体验，从 URL 流向 IRL  
+     终极仪表板、规划器、剧本、研究模板  
     </details> 
 
-- 😺 [LazyCast - 将手机屏幕投射到电脑上](https://xinquji.com/posts/179285?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:23 AM 
+- 😺 [Coindexfinance - 带有 DEX/DeFi 聚合器的加密钱包，价格最优惠](https://xinquji.com/posts/179295?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     将手机屏幕投射到电脑上  
+     带有 DEX/DeFi 聚合器的加密钱包，价格最优惠  
     </details> 
 <!-- xinquji:END -->
