@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [电子烟生产商Juul Labs同意支付4.385亿美元成和解](https://www.cnbeta.com/articles/tech/1313227.htm) | Tue Sep 06 2022 8:05 PM 
+- 🕯 [美“全国电影日”售出810万张票，创2022年观影纪录](https://hot.cnbeta.com/articles/movie/1313233.htm) | Tue Sep 06 2022 11:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据悉，美国周六估计有810万名观众在他们当地的影院观看了电影，组成了该国有史以来第一个国家电影日的一部分。3000多家影院在参加了这为期一天的活动，它们在30,000多块屏幕上提供了电影，电影票价则只需要3美元。一些影院还提供了优惠折扣以配合廉价票。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果不服巴西禁售无充电器iPhone：是为了环保](https://www.cnbeta.com/articles/tech/1313231.htm) | Tue Sep 06 2022 11:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司计划就巴西禁止销售不带充电器的iPhone的举措提起上诉，&lt;strong&gt;并辩称该公司在销售新手机时不送充电器的做法有助于减少环境垃圾。&lt;/strong&gt;巴西政府周二命令苹果停止在该国销售没有充电器的iPhone手机，称苹果向消费者提供的产品不够完整。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [HBO在YouTube上线《龙之家族》第一集：观众可免费观看](https://hot.cnbeta.com/articles/movie/1313229.htm) | Tue Sep 06 2022 11:07 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《龙之家族》第一季由10集组成，它将一直播放到10月底。&lt;strong&gt;日前，HBO已经在YouTube上发布了该剧的第一集，这让粉丝们有机会在没有经济承诺的情况下观看该剧的内容。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [电子烟生产商Juul Labs同意支付4.385亿美元成和解](https://www.cnbeta.com/articles/tech/1313227.htm) | Tue Sep 06 2022 8:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Juul Labs公司周二同意支付4.385亿美元的跨州和解协议，对这家电子烟制造商影响青少年的营销和销售行为进行为期两年的两党调查。&lt;/strong&gt;Juul在一份声明中说，这项和解是“我们解决过去问题的持续承诺的重要组成部分。我们最近根据科学和证据向美国食品和药物管理局证明其对我们产品的营销拒绝令（MDO）在实质上和程序上存在缺陷，应该撤销。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [育碧前瞻会刺客信条特别演示内容预告片公布](https://hot.cnbeta.com/articles/game/1313225.htm) | Tue Sep 06 2022 8:03 PM 
+- 🎊 [育碧前瞻会刺客信条特别演示内容预告片公布](https://hot.cnbeta.com/articles/game/1313225.htm) | Tue Sep 06 2022 8:03 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;育碧已经为9月11日凌晨3点的新一期前瞻会做足了预热工作。重头戏自然是《刺客信条》新作《刺客信条：幻景》，官方也分享了全新的预告片。当然除此之外，还有其他正在开发中的《刺客信条》作品信息也将公布。虽然最初被报道为《刺客信条：无限》的两个独立内容部分，但内部人士Tom Henderson称这是两款游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [鄱阳湖进入极枯水期 水位低于8米创下73年来新纪录](https://www.cnbeta.com/articles/tech/1313223.htm) | Tue Sep 06 2022 6:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据央视报道，来自江西省水文监测中心的消息显示，&lt;strong&gt;9月6日8时，我国第一大淡水湖鄱阳湖代表站星子站的水位退至7.99米，为1951年有记录以来历史同期最低水位。&lt;/strong&gt;至此，鄱阳湖正式进入极枯水位&lpar;低于8米&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Google的下一次Pixel硬件发布会活动定于10月6日举办](https://www.cnbeta.com/articles/tech/1313221.htm) | Tue Sep 06 2022 4:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当我们在为苹果的大秀做准备时，Google提前发出了下一个大型Pixel活动的邀请函，公司今年下半年的发布会将于10月6日在布鲁克林举行，当地时间上午10点开始。我们可以在本次发布会期待什么呢？首先，该公司在春季发布Pixel 6a时已经向我们预告了第七代机型。虽然Google近年来在该领域取得了一些巨大的进步（Pixel 6比5有了很大的飞跃），但最大的新闻几乎肯定是Pixel Watch。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [8月安卓手机好评榜：K50至尊版冲上前三](https://www.cnbeta.com/articles/tech/1313219.htm) | Tue Sep 06 2022 4:31 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;安卓性能和性价比榜单之后，就是最后的好评榜了，好评榜每次的变化不如前两份榜单那样，每次都能“天翻地覆”，主要好评率是得靠累积才能引起质变上榜，所以会有两种情况，一旦上榜了就下不来，或者一旦下榜了，就再也没机会上去。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
