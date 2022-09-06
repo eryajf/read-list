@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [360configurator - 加速所有 Window 公司的销售流程](https://xinquji.com/posts/179299?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:38 AM 
+- 👀 [兆懿/卓懿 - 一个可以让所有安卓APP在Windows/Linux上用的软件](https://xinquji.com/posts/179146?utm_campaign=xinquji-rss) | Wed Sep 07 2022 9:41 AM 
+    <details><summary>展开描述 ...</summary> 
+     一个可以让所有安卓APP在Windows/Linux上用的软件  
+    </details> 
+
+- 🥷 [网费很贵 - 网费很贵是一款用于上网时间统计的浏览器插件，你可以在 Firefox，Chrome 和 Edge 中安装并使用它。](https://xinquji.com/posts/179264?utm_campaign=xinquji-rss) | Wed Sep 07 2022 9:41 AM 
+    <details><summary>展开描述 ...</summary> 
+     网费很贵是一款用于上网时间统计的浏览器插件，你可以在 Firefox，Chrome 和 Edge 中安装并使用它。  
+    </details> 
+
+- 💼 [360configurator - 加速所有 Window 公司的销售流程](https://xinquji.com/posts/179299?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
      加速所有 Window 公司的销售流程  
     </details> 
 
-- 🥷 [Hackrate Ethical Hacking Platform - 公司比以往任何时候都更需要道德黑客](https://xinquji.com/posts/179298?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:37 AM 
+- 🦅 [Hackrate Ethical Hacking Platform - 公司比以往任何时候都更需要道德黑客](https://xinquji.com/posts/179298?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
      公司比以往任何时候都更需要道德黑客  
     </details> 
 
-- 💼 [Someka Trading Journal - 强大且易于使用的日志来跟踪您的日间交易](https://xinquji.com/posts/179297?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:36 AM 
+- 😺 [Someka Trading Journal - 强大且易于使用的日志来跟踪您的日间交易](https://xinquji.com/posts/179297?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
      强大且易于使用的日志来跟踪您的日间交易  
-    </details> 
-
-- 🦅 [Trader Business Dashboard Pro - 终极仪表板、规划器、剧本、研究模板](https://xinquji.com/posts/179296?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:35 AM 
-    <details><summary>展开描述 ...</summary> 
-     终极仪表板、规划器、剧本、研究模板  
-    </details> 
-
-- 😺 [Coindexfinance - 带有 DEX/DeFi 聚合器的加密钱包，价格最优惠](https://xinquji.com/posts/179295?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:34 AM 
-    <details><summary>展开描述 ...</summary> 
-     带有 DEX/DeFi 聚合器的加密钱包，价格最优惠  
     </details> 
 <!-- xinquji:END -->
