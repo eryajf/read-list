@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [域名： it.icu 搞挨踢的和 ICU](https://www.v2ex.com/t/878101#reply0) | Tue Sep 06 2022 8:02 AM
-- 🤗 [有快团团的技术吗?我调用 pc 端接口，然后的账号异常了[/捂脸]](https://www.v2ex.com/t/878094#reply15) | Tue Sep 06 2022 7:42 AM
-- 🎭 [[ Java ]Springboot mybatis 配置问题](https://www.v2ex.com/t/878092#reply0) | Tue Sep 06 2022 7:38 AM
-- 🥷 [PHP 有办法实现调用客户摄像头进行扫码吗？](https://www.v2ex.com/t/878090#reply4) | Tue Sep 06 2022 7:25 AM
-- 🐵 [我想折腾个 nas 玩玩，查了些资料有几个问题想请教一下 v 友](https://www.v2ex.com/t/878078#reply16) | Tue Sep 06 2022 6:47 AM<!-- v2ex:END -->
+- 🥸 [怎样通过可以用 JSON 表示的数据结构来存储本地化内容的语言回退状态](https://www.v2ex.com/t/878119#reply1) | Tue Sep 06 2022 9:04 AM
+- 🤗 [mysql 怎么保证每次查出来的排名是一致的](https://www.v2ex.com/t/878109#reply4) | Tue Sep 06 2022 8:39 AM
+- 🎭 [域名： it.icu 搞挨踢的和 ICU](https://www.v2ex.com/t/878101#reply4) | Tue Sep 06 2022 8:02 AM
+- 🥷 [[ Java ]Springboot mybatis 配置问题](https://www.v2ex.com/t/878092#reply1) | Tue Sep 06 2022 7:38 AM
+- 🐵 [PHP 有办法实现调用客户摄像头进行扫码吗？](https://www.v2ex.com/t/878090#reply9) | Tue Sep 06 2022 7:25 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
