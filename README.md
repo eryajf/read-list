@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Python 程序后台运行，如何写在控制台与他交互啊。怎么自定义命令](https://www.v2ex.com/t/878224#reply0) | Tue Sep 06 2022 5:49 PM
+- 🥸 [Python 程序后台运行，如何写在控制台与他交互啊。怎么自定义命令](https://www.v2ex.com/t/878224#reply1) | Tue Sep 06 2022 5:49 PM
 - 🤗 [你们公司一般是怎么审查使用的开源库的安全性的？有没有自动化的工具？](https://www.v2ex.com/t/878222#reply1) | Tue Sep 06 2022 5:30 PM
 - 🎭 [求助最近使用 Redission 分布式锁遇到的坑](https://www.v2ex.com/t/878212#reply1) | Tue Sep 06 2022 3:54 PM
 - 🥷 [无法进入默认 server，默认 server 不生效怎么破](https://www.v2ex.com/t/878210#reply1) | Tue Sep 06 2022 3:47 PM
