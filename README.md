@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何激励员工？](https://juejin.cn/post/7140213874913411109) | Tue Sep 06 2022 10:37 AM 
+- 🤗 [Spring5源码14-SpringMVC-HandlerMapping](https://juejin.cn/post/7140236556769427487) | Tue Sep 06 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
-    如何激励员工？激励就是发现员工的需求，并满足它。今天想给大家介绍下“马斯洛需求理论”，毕竟想要更好的激励下属创造价值，你首先需要了解他想要什么。对吧。 
+    SpringMVC的核心处理类，三种HandlerMapper的处理，重点为RequestMappingHandlerMapping 
     </details> 
 
-- 🎡 [Vue内置指令大全](https://juejin.cn/post/7140210358455566349) | Tue Sep 06 2022 10:24 AM 
+- 🎡 [网关 Zuul 科普](https://juejin.cn/post/7140223037646831647) | Tue Sep 06 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 大家好，我是CoderBin 前言 太久没碰 Vue 了，搞的连一些最基本的指令写法都有点模糊了，所以这一次就对Vue所有的内置指令进行回顾总结， 
+    Zuul是Netflix开源的一个API网关，本质上是一个Web Servlet应用。Zuul也是Spring Cloud全家桶中一员，可以和Eureka、Ribbon、Hystrix等组件配合使用。 
     </details> 
 
-- 🕯 [Flutter 3.3 之 SelectionArea 好不好用？用 “Bug” 带你全面了解它](https://juejin.cn/post/7140209973786574856) | Tue Sep 06 2022 10:21 AM 
+- 🕯 [网关 Zuul 科普](https://juejin.cn/post/7140222974325424142) | Tue Sep 06 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-    随着 Flutter 3.3 正式版发布，Global Selection 终于有了官方的正式支持，该功能补全了 Flutter 长时间存在 Selection 异常等问题，特别是在 Flutter  
+    Zuul是Netflix开源的一个API网关，本质上是一个Web Servlet应用。Zuul也是Spring Cloud全家桶中一员，可以和Eureka、Ribbon、Hystrix等组件配合使用。 
     </details> 
 
-- 🚀 [Dubbo Mesh：从服务框架到统一服务控制平台](https://juejin.cn/post/7140208056784125959) | Tue Sep 06 2022 10:16 AM 
+- 🚀 [选择 Go 还是 Rust？CloudWeGo-Volo 基于 Rust 语言的探索实践](https://juejin.cn/post/7140217577539633188) | Tue Sep 06 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-    Apache Dubbo 是一款 RPC 服务开发框架，用于解决微服务架构下的服务治理与通信问题，官方提供了 Java、Golang 等多语言 SDK 实现。 
+    本文整理自 CloudWeGo 开源一周年技术沙龙活动中吴迪的演讲分享。从三个方面介绍 CloudWeGo 开源的国内首个 Rust RPC 框架 Volo。 
     </details> 
 
-- 💪 [解决跨域之—— JSONP](https://juejin.cn/post/7140207571616890911) | Tue Sep 06 2022 10:12 AM 
+- 💪 [前端食堂技术周刊第 51 期：pnpm v7.10.0、8 月登陆网络平台的新内容、重新思考流行的 Node.js 模式和工具、打包 JavaScript 库的](https://juejin.cn/post/7140216695834017822) | Tue Sep 06 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-    跨域 跨域，被称为面试官100%、10000%会问的问题 解决跨域的方法有很多，这里详细讲下JSONP，其他方法后续可能也会写文章， 首先 JSONP和 JSON 没有任何关系，就像 Java 与 J 
+    - pnpm v7.10.0 - 8 月登陆网络平台的新内容 - 重新思考流行的 Node.js 模式和工具 - 打包 JavaScript 库的现代化指南 - Chrome DevTools 
     </details> 
 <!-- juejin:END -->
 ### 少数派
