@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [格力河北新授权公司全面接管当地售后服务网络](https://www.cnbeta.com/articles/tech/1313161.htm) | Tue Sep 06 2022 12:30 PM 
+- 🕯 [Google Pixel平板可能与Pixel 6系列配置类似 产品定位面向家庭](https://www.cnbeta.com/articles/tech/1313173.htm) | Tue Sep 06 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月6日有消息称，格力原河北总代“河北格力”的售后服务平台突遭关闭。第一财经记者独家获悉，格力电器（000651.SZ）在河北新授权公司珠海桓格数字科技有限公司（下称桓格）从9月1日开始与当地服务网点换签，并于9月6日前完成换签、全面接手售后服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google在2022年GoogleI/O大会上宣布了Pixel平板电脑，虽然这次活动主要是关于介绍Google Pixel 7系列以及Pixel手表，可以说我们对Pixel平板电脑了解甚少。&lt;strong&gt;然而，我们现在有一些关于即将推出的Android平板电脑的新信息，尽管它可能会让一些人失望。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [顺丰航空第75架全货机投入运行](https://www.cnbeta.com/articles/tech/1313159.htm) | Tue Sep 06 2022 11:58 AM 
+- 💼 [巴西命令苹果公司暂停销售不带充电头的iPhone并开出罚单](https://www.cnbeta.com/articles/tech/1313171.htm) | Tue Sep 06 2022 1:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年9月6日晨，顺丰航空第75架全货机（B767-300）正式投入商业运行，这是顺丰航空今年投运的第7架新运力。中秋、国庆双节临近，为保障双节期间的航空物流服务品质，顺丰航空优化航班生产保障方案，新增一架宽体全货机运力投入深圳至北京的航线，助力提升华南往来华北之间的快件空运时效与品质。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;巴西政府周二下令苹果公司停止在该国销售没有充电头的iPhone，称该公司向消费者提供了不完整的产品。&lt;/strong&gt;司法部对苹果公司处以1227.5万雷亚尔（238万美元）的罚款，并下令取消iPhone 12和更新机型的销售，此外还要求暂停销售任何不附带电源充电器的iPhone机型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华为Mate50“没电也能打电话”？博主实测1%电量应急模式](https://www.cnbeta.com/articles/tech/1313157.htm) | Tue Sep 06 2022 11:47 AM 
+- 💂 [活在航天飞机时代 美国登月火箭“过时了”？](https://www.cnbeta.com/articles/science/1313169.htm) | Tue Sep 06 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;除了支持发送北斗卫星短报文信息，华为Mate50系列上这次让人眼前一亮的新功能点还有低电量应急模式。官方介绍，手机在1%低电量时会智能启动聚能泵，&lt;strong&gt;该模式下仍能支持通话12分钟、扫码4次或亮码10次，关键时刻非常方便。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周末，美国宇航局&lpar;NASA&rpar;的登月火箭再次推迟发射，&lt;strong&gt;问题出在了一种被私营航天公司淘汰的燃料：液态氢&lt;/strong&gt;。SpaceX等部分航天公司在为自己的大型火箭开发新发动机时，已经弃用液氢燃料。NASA表示，氢的重量轻，燃烧温度极高，是一种高效的推进剂，可用于火箭发射的不同阶段。但是，工程师们也指出，氢的密度极低，很容易逃脱控制，而且它需要一个巨大燃料罐来储存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [开源密码管理器Bitwarden融资1亿美元](https://www.cnbeta.com/articles/tech/1313155.htm) | Tue Sep 06 2022 11:47 AM 
+- 🚀 [Google Chrome将在工具栏上提供“节电模式”指示器](https://www.cnbeta.com/articles/tech/1313167.htm) | Tue Sep 06 2022 1:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;面向企业和消费者的开源密码管理器Bitwarden在一轮融资中筹集了1亿美元，该轮融资由PSG牵头，Battery Ventures跟投。&lt;/strong&gt;总部位于加州圣巴巴拉的Bitwarden最初成立于2015年，这一领域的其他成员包括许多令人耳熟能详的现有公司，包括1Password（最近在6.2亿美元的融资后达到68亿美元的估值）和Lastpass（最近在落入私募股权公司手中两年后再次作为独立公司被剥离出来）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google正在开发几个新功能，以使浏览体验更加高效。作为使Chrome浏览器更可靠、更节能的努力的一部分，Google将很快在浏览器的设置页面中增加一个&amp;quot;性能&amp;quot;部分。这将可以让用户配置一个&amp;quot;效率模式&amp;quot;和一个&amp;quot;节电模式&amp;quot;。但这两个功能可能不容易在设置页面上寻找到，因此Google正在努力做到这一点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [顺丰寄丢1万多的iPhone 13 Pro Max 客服只赔1000元 当事人无法接受](https://www.cnbeta.com/articles/tech/1313153.htm) | Tue Sep 06 2022 11:43 AM 
+- 🎊 [华为Mate 50北斗卫星消息只能发不能收 和想象的不太一样？](https://www.cnbeta.com/articles/tech/1313165.htm) | Tue Sep 06 2022 1:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月6日消息，据报道，近日&lt;strong&gt;广东深圳的夏女士称自己3月份花费11000元买了一部全新未拆封的iPhone13 Pro Max，从深圳寄给江苏的家人。&lt;/strong&gt;后面家人迟迟未收到货，向顺丰询问时被告知快件丢了，只能走理赔，根据保价赔偿1000元。夏女士表示，下单时未注意到保价金额，不接受此赔偿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;华为Mate 50系列支持北斗卫星消息的话题最近频频冲上热搜，成为很多人对新品的最大期待，结果却和想象的不太一样。据了解，北斗卫星信息可以发送19个字符，其中包含发出者所在的地理位置坐标，点击位置链接，就可以在地图上查看相应的位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
