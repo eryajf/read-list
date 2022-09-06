@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [又见天价罚单，Meta违反GDPR被罚4亿美元](https://www.freebuf.com/articles/neopoints/343874.html) | Tue Sep 06 2022 8:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    9月6日，Meta违反了GDPR被罚款约4亿美元的新闻迅速引爆了科技圈。 
+    </details> 
+
 - 🦄 [人人皆是黑客？EvilProxy推出一键反向代理服务](https://www.freebuf.com/news/343843.html) | Tue Sep 06 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
     一旦EvilProxy宣传的功能成为现实，那么人人皆可成为黑客，企业安全将面临巨大的网络钓鱼攻击威胁。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 三星承认泄露美国客户信息；苹果零日漏洞利用市售800万欧元](https://www.freebuf.com/articles/343804.html) | Mon Sep 05 2022 12:02 PM 
+- 🦅 [FreeBuf早报 | 三星承认泄露美国客户信息；苹果零日漏洞利用市售800万欧元](https://www.freebuf.com/articles/343804.html) | Mon Sep 05 2022 12:02 PM 
     <details><summary>展开描述 ...</summary> 
     三星表示其经历了一起攻击，渗透使黑客能够访问某些数据，例如部分美国用户的姓名，联系人和人口统计信息，出生日期以及产品注册详细信息。 
     </details> 
 
-- 🦅 [WINGFUZZ SaaS：在线智能模糊测试](https://www.freebuf.com/news/343802.html) | Mon Sep 05 2022 11:00 AM 
+- 🪄 [WINGFUZZ SaaS：在线智能模糊测试平台](https://www.freebuf.com/news/343802.html) | Mon Sep 05 2022 11:00 AM 
     <details><summary>展开描述 ...</summary> 
     作为国内首个模糊测试SaaS服务平台，当前已开放beta版免费注册使用。 
     </details> 
 
-- 🪄 [俄罗斯打车软件 Yandex  被黑，造成莫斯科交通堵塞](https://www.freebuf.com/news/343776.html) | Mon Sep 05 2022 6:25 AM 
+- 💻 [俄罗斯打车软件 Yandex  被黑，造成莫斯科交通堵塞](https://www.freebuf.com/news/343776.html) | Mon Sep 05 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
     俄罗斯打车应用程序 Yandex 遭到黑客攻击，数百名司机被“送到”莫斯科地区同一个上车点，造成了大面积交通堵塞。 
-    </details> 
-
-- 💻 [攻击源头系美国国家安全局，西北工业大学遭网络攻击事件报告发布](https://www.freebuf.com/news/343770.html) | Mon Sep 05 2022 5:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    西北工业大学遭网络攻击事件系美国国家安全局（NSA）所为。在针对该校的网络攻击中，NSA使用了40余种专属网络攻击武器。 
     </details> 
 <!-- freebuf:END -->
 
