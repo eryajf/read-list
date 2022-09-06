@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [RAR Extractor Max – unzip 10.5.0 解压缩神器](https://xclient.info/s/rar-extractor-unzip.html) | Mon Sep 05 2022 12:36 AM 
+- 🦏 [System Toolkit 5.7.0 系统工具包](https://xclient.info/s/system-toolkit.html) | Tue Sep 06 2022 1:17 AM 
     <details><summary>展开描述 ...</summary> 
-    RAR Extractor - Unzip是一款功能强大的解压缩软件，支持几乎所有的压缩格式，比如RAR, ZIP, 7z, tbz, sti, tar, xar等等，用起来非常的方便。 
+    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
     </details> 
 
--  [Home Inventory 4.7.0 固定资产管理工具](https://xclient.info/s/home-inventory.html) | Mon Sep 05 2022 12:35 AM 
+-  [SyncTime 4.1 文件同步工具](https://xclient.info/s/synctime.html) | Tue Sep 06 2022 1:17 AM 
     <details><summary>展开描述 ...</summary> 
-    Home Inventory是Mac os平台上的一款Mac固定资产管理软件，可以帮助用户把自己的私人物品自己命名，效果和作用都非常的不错，速度是非常重要的，建立一个完整的目录和存储您的贵重物品的重要细节。 
+    SyncTime是一款Mac上的文件同步软件，SyncTime是同步文件的最简单的解决方案，您可以通过SyncTime轻松地保持最新的所有备份副本，分布在许多设备上。 
     </details> 
 
-- ⚗️ [GrandTotal 7.3.6.8 一款非常实用的发票设计工具](https://xclient.info/s/grandtotal.html) | Mon Sep 05 2022 12:34 AM 
+- ⚗️ [Omni Recover 3.4.1 iPhone数据恢复软件](https://xclient.info/s/omni-recover.html) | Tue Sep 06 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    GrandTotal 是Mac OS X 上的一款非常实用的发票设计工具，可以根据一个内置的模板编辑器来重新调整布局，创建属于自己的发票模版，适合企业和个人来进行形象设计。 
+    Omni Recover是一款恢复iPhone数据恢复最好的软件。它可以与您所有的苹果设备，iOS和iTunes版本无缝地配合使用。 
     </details> 
 
-- 🔥 [Nisus Writer Pro 3.3 全功能文字编辑器](https://xclient.info/s/nisus-writer-pro.html) | Mon Sep 05 2022 12:33 AM 
+- 🔥 [Typora 1.4.4 极简Markdown编辑器](https://xclient.info/s/typora.html) | Tue Sep 06 2022 1:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Nisus Writer Pro 是一个全功能的文字编辑器，专业版提供了一个显著量的改进和新功能，使得它值得关注。 
+    Typora是一个功能强大的Markdown编辑器,使用GFM风格&lpar;即大名鼎鼎的githubflavoredmarkdown&rpar; 
     </details> 
 
-- 🌋 [4K Video Downloader 4.21.3 下载高品质的YouTube视频](https://xclient.info/s/4k-video-downloader.html) | Mon Sep 05 2022 12:31 AM 
+- 🌋 [Things 3.15.20 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Tue Sep 06 2022 1:13 AM 
     <details><summary>展开描述 ...</summary> 
-    4K Video Downloader 是“一个视频下载工具，如此简单，就是一个视频下载工具该有的样子”。复制 YouTube 视频链接并点击界面左上角的 “Paste URL”，就能自动识别 4K 甚至是原始分辨率片源。接下来，选择分辨率、格式后就开始下载了。 
+    Things 是 Mac OS X 上的一款优秀的GTD任务管理工具，是一款非常值得尝试的任务管理及日程管理程序，并且支持同步到iPhone中。 
     </details> 
 <!-- xclient:END -->
 
