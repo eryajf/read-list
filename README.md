@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [曝顽皮狗在《最后生还者：第一部》藏彩蛋 留下新作线索](https://hot.cnbeta.com/articles/game/1312943.htm) | Tue Sep 06 2022 4:34 AM 
+- 🕯 [昨日西安一湖内惊现“鲤鱼跃龙门”引围观：当天四川地震 两者有关？](https://www.cnbeta.com/articles/tech/1312983.htm) | Tue Sep 06 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《最后生还者：第一部》为玩家带来了一个完全重制、高清化的末世景象，当然很多铁粉也不会放过这片土地上的每一寸细节。随着一个关于墙壁海报的新发现，一场关于顽皮狗新IP的讨论逐渐展开。从顽皮狗资讯博主@NaughtyNDC贴出的这几张照片可以看出，海报中的元素有飞天的骏马、龙和女战士的形象。网友纷纷在评论区表达了自己的期许，希望顽皮狗会有一款类似《巫师》的奇幻世界IP。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月5日，西安的张女士看到大唐芙蓉园湖里很多鱼儿跳出水面跃龙门，这一幕也是引起了当地人的围观。张女士称，&lt;strong&gt;四川泸定地震后，不少市民反映西安雁塔区有震感，不知是否与地震有关。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [小岛秀夫表示曾为在《合金装备》中插入历史影像大费周章](https://hot.cnbeta.com/articles/game/1312941.htm) | Tue Sep 06 2022 4:28 AM 
+- 💼 [《汽车总动员：公路旅行》片段曝光 9月8日开播](https://hot.cnbeta.com/articles/comic/1312981.htm) | Tue Sep 06 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;小岛秀夫最近表示，对于他曾经的团队，在《合金装备》中插入现实历史片段是非常困难的。在上个周末，小岛在推特上分享了关于原版《合金装备》的新细节。根据 SiliconEra 报道，小岛透露称将历史影像加入游戏中是一件非常难的事，主要是当时他还没有什么关系来让获得必要授权的谈判变得更简单。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，迪士尼公布动画剧集《汽车总动员：公路旅行》最新片段，闪电麦昆和板牙开启新的公路旅行了，9月8日流媒体Disney+开播。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1312981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [阿汤哥“挂机”录《碟中谍7》片场花絮](https://hot.cnbeta.com/articles/movie/1312939.htm) | Tue Sep 06 2022 4:04 AM 
+- 💂 [是错觉吗？为什么现在的菜没以前好吃了？](https://www.cnbeta.com/articles/science/1312979.htm) | Tue Sep 06 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今日（9月6日），据守望好莱坞消息，一段汤姆·克鲁斯在《碟中谍7》片场录制的花絮近日曝光，相当惊险壮观。&lt;/strong&gt;该视频是几个月前在电影产业大会Cinemacon现场播放的，但当时没在网络发布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在过去食物资源匮乏的时期，解决温饱是一大难题，更别提如何吃的营养均衡。正因为食物短缺，古代时期就涌现出了颇多抒发温饱问题的诗词歌赋。“但愿苍生俱饱暖，不辞辛苦出山林。”“但得众生皆得饱，不辞羸病卧残阳”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《龙之家族》最新一集修正了马丁对《权游》国王狩猎场景的质疑](https://hot.cnbeta.com/articles/movie/1312937.htm) | Tue Sep 06 2022 4:01 AM 
+- 🚀 [AMD锐龙5000系列降价力度空前 部分型号已腰斩](https://www.cnbeta.com/articles/tech/1312977.htm) | Tue Sep 06 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;HBO前传系列剧《龙之家族》历时数百年之久干净利落地回到了维斯特洛的复杂历史中。它巧妙地刻画了一直在变化莫测的人物动机。另外，它还在设法解决作者乔治·R-R·马丁对2019年播出的《权力的游戏》系列的不满。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着新一代锐龙7000系列将在本月底解禁上市，锐龙5000系列也开启了最后的疯狂，到处降价。&lt;strong&gt;在美国大本营，16核心的旗舰锐龙9 5950X现在只要500美元，相比800美元的首发价跌了几乎四成&lt;/strong&gt;，12核心的锐龙9 5900X也来到了350美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究揭示南极洲“末日冰川”迅速退缩的危险状态](https://www.cnbeta.com/articles/science/1312935.htm) | Tue Sep 06 2022 3:52 AM 
+- 🎊 [理想ONE停产、降价促销 理想回应：属实 部分车主可获3千油卡](https://www.cnbeta.com/articles/tech/1312975.htm) | Tue Sep 06 2022 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;科学家们已经部署了一艘先进的机器人潜艇，以获得对南极洲西部思韦茨冰川&lpar;Thwaites Glacier&rpar;的新视角，这些突破性的海底图像以新的细节突出了其危险的状态。&lt;/strong&gt;该研究显示，该冰川在过去经历了快速退缩，科学家们现在预计在未来会再次看到，这可能会对全球海平面产生重要影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;理想ONE近期被曝大降价促销，一些门店的现金优惠叠加礼品、保险减免之后，额度甚至能达2、3万元。并且，理想方面确认理想ONE将于10月份停产，同时切换换代车型L8接棒理想ONE；这也让不少刚提理想ONE的老车主不满了，他们觉得受到了理想的欺骗。一些车主在车上拉横幅，或者在投诉网站进行投诉。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
