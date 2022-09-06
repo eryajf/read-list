@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [中秋团圆，与女朋友一起去看星座吧💗～](https://juejin.cn/post/7140073939325157412) | Tue Sep 06 2022 1:34 AM 
+- 🤗 [基于AI算法的数据库异常监测系统的设计与实现](https://juejin.cn/post/7140103242028941320) | Tue Sep 06 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是小杜杜，最近团了两张星空馆的门票，想和女神小姐姐一起去看看，说不定就能脱单了，于是我鼓足了勇气询问小姐姐，希望能得到小姐姐的芳心～ 
+    美团数据库平台研发组，面临日益急迫的数据库异常发现需求，为了更加快速、智能地发现、定位和止损，我们开发了基于AI算法的数据库异常检测服务。本文从特征分析、算法选型、模型训练与实时检测等维度介绍了我们的 
     </details> 
 
-- 🎡 [要许愿吗？这里有龙珠的七种绘制方案](https://juejin.cn/post/7140071557782568968) | Tue Sep 06 2022 1:25 AM 
+- 🎡 [JAVA泛型和通配符，再也不用每次百度了](https://juejin.cn/post/7140099537703534600) | Tue Sep 06 2022 3:13 AM 
     <details><summary>展开描述 ...</summary> 
-    本期就给大家带来龙珠的七种绘制的方案（其实是里面的小五角星啦），里面涉及到css，svg和canvas，希望借此让你的基本功更加精进。 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第2篇文章，点击查看活动详情” 概述 泛型机制在项目中一直都在使用，比如在集合中ArrayList&lt;String, String&gt;, Map&lt;S 
     </details> 
 
-- 🕯 [Spring源码解析&lpar;十一&rpar;Spring扩展接口InstantiationAwareBeanPostProcessor解析](https://juejin.cn/post/7140071424865091592) | Tue Sep 06 2022 1:24 AM 
+- 🕯 [TiFlash 源码解读（八）TiFlash 表达式的实现与设计](https://juejin.cn/post/7140098732648824840) | Tue Sep 06 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
-    之前我们有分析BeanPostProcessor接口,今天要分析的InstantiationAwareBeanP 
+    表达式概要 表达式是承载 SQL 大部分逻辑的一个重要部分。SQL 中的表达式和编程语言中的表达式并没有差异。表达式可以大致分为函数、常量、列引用。如 select a + 1 from table  
     </details> 
 
-- 🚀 [ZooKeeper系列：ZAB协议和选举](https://juejin.cn/post/7140069549096828965) | Tue Sep 06 2022 1:16 AM 
+- 🚀 [从头训练一个神经网络！教它学会莫奈风格作画！](https://juejin.cn/post/7140098713355026446) | Tue Sep 06 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-    ZooKeper实现数据一致性主要就是依赖其ZAB协议，ZAB协议就是借鉴了Paxos算法 ZAB协议包含两种，分别是原子广播和**崩溃恢复 
+    本文使用 GAN&lpar;生成对抗网络&rpar;进行AI绘画。torchgan是基于PyTorch的一个GAN工具库，本文讲解搭建DCGAN神经网络，并应用于『莫奈』风格绘画的全过程。 
     </details> 
 
-- 💪 [技术团队如何高效落地代码CR](https://juejin.cn/post/7140067295082053645) | Tue Sep 06 2022 1:08 AM 
+- 💪 [得物App订单配置类文案测试右移实践](https://juejin.cn/post/7140097383597080589) | Tue Sep 06 2022 3:04 AM 
     <details><summary>展开描述 ...</summary> 
-    代码CR（Code Review）是软件研发活动中保障平台产品质量的重要环节，相信很多技术团队平常都会进行代码CR。 
+    基于交易侧业务的广度和复杂度，仅仅靠人还是有一定的局限性，当面对此类业务特性时，功能为主+技术辅助的方式也更多的被应用，对于此次的需求，得物小伙伴们也尝试使用更多的方式尽可能保障线上质量，接下来就介绍 
     </details> 
 <!-- juejin:END -->
 ### 少数派
