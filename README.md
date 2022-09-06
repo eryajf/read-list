@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么，api竟然有版本](https://juejin.cn/post/7139912433421778975) | Mon Sep 05 2022 3:08 PM 
+- 🤗 [中秋团圆，与女朋友一起去看星座吧💗～](https://juejin.cn/post/7140073939325157412) | Tue Sep 06 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第n篇文章，点击查看活动详情” 前言 第一次接触接口版本的时候，应该是dubbo，就是它在配置服务端和客户端的时候需要写上对应的版本号，这也是我 
+    大家好，我是小杜杜，最近团了两张星空馆的门票，想和女神小姐姐一起去看看，说不定就能脱单了，于是我鼓足了勇气询问小姐姐，希望能得到小姐姐的芳心～ 
     </details> 
 
-- 🎡 [对k8s控制器DaemonSet的理解](https://juejin.cn/post/7139909452815138853) | Mon Sep 05 2022 2:56 PM 
+- 🎡 [要许愿吗？这里有龙珠的七种绘制方案](https://juejin.cn/post/7140071557782568968) | Tue Sep 06 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-    DaemonSet是一种面向特定应用场景的Pod控制器，尽管它也可以管理Pod的多个副本，但它主要用于保证一个Node上只运行一个Pod的场景。 
+    本期就给大家带来龙珠的七种绘制的方案（其实是里面的小五角星啦），里面涉及到css，svg和canvas，希望借此让你的基本功更加精进。 
     </details> 
 
-- 🕯 [LeetCode合并两个有序数组使用JavaScript解题|前端学算法](https://juejin.cn/post/7139906306797731854) | Mon Sep 05 2022 2:44 PM 
+- 🕯 [Spring源码解析&lpar;十一&rpar;Spring扩展接口InstantiationAwareBeanPostProcessor解析](https://juejin.cn/post/7140071424865091592) | Tue Sep 06 2022 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-    前端使用JavaScript解决LeetCode算法题合并两个有序数组，前端学习算法，每天三分钟搞懂一个知识点 
+    之前我们有分析BeanPostProcessor接口,今天要分析的InstantiationAwareBeanP 
     </details> 
 
-- 🚀 [cimi——一款全自动发布NPM包的工具](https://juejin.cn/post/7139899195745370143) | Mon Sep 05 2022 2:17 PM 
+- 🚀 [ZooKeeper系列：ZAB协议和选举](https://juejin.cn/post/7140069549096828965) | Tue Sep 06 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 博主最近的时间一直投入concis组件库的开发工作，每次改完bug或者是新增完一些组件功能后都需要去发包、更新线上文档，这样一步步下来其实是比较麻烦的。 发一个新的NPM包你可能需要这些步骤：  
+    ZooKeper实现数据一致性主要就是依赖其ZAB协议，ZAB协议就是借鉴了Paxos算法 ZAB协议包含两种，分别是原子广播和**崩溃恢复 
     </details> 
 
-- 💪 [发布一款Gradle插件需要经历些什么](https://juejin.cn/post/7139898562812313631) | Mon Sep 05 2022 2:13 PM 
+- 💪 [技术团队如何高效落地代码CR](https://juejin.cn/post/7140067295082053645) | Tue Sep 06 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    熟悉开源库发布的朋友应该都体验过 Maven Central 发布的繁琐&amp;严格，对于第一次发布的开发者而言肯定费时费力。一方面，对于国内而言这块教程文章相对来说比较少，但是很多都是“年久失修” 
+    代码CR（Code Review）是软件研发活动中保障平台产品质量的重要环节，相信很多技术团队平常都会进行代码CR。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
