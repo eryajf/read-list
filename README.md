@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java&amp;C++题解与拓展——leetcode828.统计子串中的唯一字符【乘法原理】](https://juejin.cn/post/7140264367676719117) | Tue Sep 06 2022 1:54 PM 
+- 🤗 [LeetCode存在重复元素使用JavaScript解题|前端学算法](https://juejin.cn/post/7140280746379313183) | Tue Sep 06 2022 2:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    前端使用JavaScript解决LeetCode算法存在重复元素的问题，前端学算法，每天三分钟学到一个知识点 
+    </details> 
+
+- 🎡 [浅谈this对象，你都还记得吗](https://juejin.cn/post/7140273781230010404) | Tue Sep 06 2022 2:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、定义 函数的 this 关键字在 JavaScript 中的表现略有不同，此外，在严格模式和非严格模式之间也会有一些差别 在绝大多数情况下，函数的调用方式决定了 this 的值（运行时绑定） th 
+    </details> 
+
+- 🕯 [提升 React 应用的安全性：从这几点入手](https://juejin.cn/post/7140273112741838861) | Tue Sep 06 2022 2:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第2篇文章，点击查看活动详情 React 的安全漏洞 目前的网络环境，共享的数据要比以往任何时候都多，对于用户而言，必须注意在使用应用程序中可能遇 
+    </details> 
+
+- 🚀 [固定元素宽度根据文本的长度缩小字号，超出缩小字号](https://juejin.cn/post/7140273000120909838) | Tue Sep 06 2022 2:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    文本超出宽度，最好的解决方式：固定元素宽度根据文本的长度缩小字号，超出缩小字号；前端从零拆解功能动效 
+    </details> 
+
+- 💪 [Java&amp;C++题解与拓展——leetcode828.统计子串中的唯一字符【乘法原理】](https://juejin.cn/post/7140264367676719117) | Tue Sep 06 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
     leetcode828.统计子串中的唯一字符解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
-    </details> 
-
-- 🎡 [DDD领域驱动设计](https://juejin.cn/post/7140257706354409509) | Tue Sep 06 2022 1:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    领域驱动设计的战略核心即是将问题域与应用架构相剥离，将业务语义显现化，把原先晦涩难懂的业务算法逻辑，通过领域对象（Domain Object），统一语言（Ubiquitous Language）转化为 
-    </details> 
-
-- 🕯 [KML 轨迹导出](https://juejin.cn/post/7140256208753000462) | Tue Sep 06 2022 1:23 PM 
-    <details><summary>展开描述 ...</summary> 
-    KML文件导出工具生成 gps点的工具，生成文件在Mac的Google 地球上展示， 可以做运动数据迁移，从APP share到 另一个APP 
-    </details> 
-
-- 🚀 [一颗红心,三手准备,分别基于图片&lpar;img&rpar;/CSS&lpar;样式&rpar;/SVG动画实现动态拉轰的点赞按钮特效](https://juejin.cn/post/7140255991538384932) | Tue Sep 06 2022 1:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    华丽炫酷的动画特效总能够让人心旷神怡，不能自已。艳羡之余，如果还能够探究其华丽外表下的实现逻辑，那就是百尺竿头，更上一步了。本次我们使用图片、CSS样式以及SVG动画来实现“点赞”按钮的动画特效 
-    </details> 
-
-- 💪 [Spring5源码14-SpringMVC-HandlerMapping](https://juejin.cn/post/7140236556769427487) | Tue Sep 06 2022 12:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    SpringMVC的核心处理类，三种HandlerMapper的处理，重点为RequestMappingHandlerMapping 
     </details> 
 <!-- juejin:END -->
 ### 少数派
