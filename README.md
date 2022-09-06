@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [828. 统计子串中的唯一字符 : 常规乘法原理运用题](https://juejin.cn/post/7140135665349427236) | Tue Sep 06 2022 5:33 AM 
+- 🤗 [探索编译软件栈新范式；高端GPU禁售的影响｜AI系统前沿动态](https://juejin.cn/post/7140154286402437127) | Tue Sep 06 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 828. 统计子串中的唯一字符 ，难度为 困难。 Tag : 「模拟」、「数学」 我们定义了一个函数 countUniqueChars&lpar;s&rpar; 来统计字符串 s  
+    高端GPU禁售传闻声起，BAT们遭遇紧张时刻 互联网企业成为此次制裁波及的主要对象。行业人士指出，互联网厂商出于对性能等因素考虑，对国产CPU、GPU普遍接纳度不高，此次事件应为互联网厂商预警…… 
     </details> 
 
-- 🎡 [真的？听声音就能识别新冠患者？DeepMind海龟面部识别AI实践；数据建模与数据库最新课程；推荐系统快速实现框架；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7140134849544716324) | Tue Sep 06 2022 5:30 AM 
+- 🎡 [封装好用的后台组件（1）](https://juejin.cn/post/7140154133591359496) | Tue Sep 06 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 09-06 期，快速实现推荐系统的框架、LightGBM 特征转换库、处理大规模空间数据的集群计算系统、在完整数据集中生成缺失值、大规模模型优化框架、新兴编译器与架构资源… 
+    1、目的 为啥 需要将这边拿出来？ 做个记录 帮助其他人 更多的学习思路 ps: 基于 element ui&lpar;需在项目中引入&rpar; 注意 更多 展示 思路， 非直接 拷过去使用 ， 非完美版本 ， 还有很 
     </details> 
 
-- 🕯 [OneFlow源码解析：Tensor类型体系与Local Tensor](https://juejin.cn/post/7140120202020126756) | Tue Sep 06 2022 4:36 AM 
+- 🕯 [没错，TheRouter 是我写的](https://juejin.cn/post/7140153936295493668) | Tue Sep 06 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-    tensor和op是神经网络模型最基本的组件：op是模型的节点，tensor是连接节点的边。然而，构建一个tensor并不仅仅是构造一个对象那么简单，至少要考虑以下问题…… 
+    没错，货拉拉开源的路由库 —— TheRouter 是我写的 大约在17年底到18年初的时候，我经常会讲一些当时做模块化开发的心得和踩坑历程。比如这几篇都是那时候写的：《Android 模块化平台设计 
     </details> 
 
-- 🚀 [微服务治理热门技术揭秘：动态读写分离](https://juejin.cn/post/7140116278278094855) | Tue Sep 06 2022 4:18 AM 
+- 🚀 [Elasticsearch：从零开始创建一个 REST handler 插件](https://juejin.cn/post/7140153468697706527) | Tue Sep 06 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-    我们从应用的视角出发整理抽象了我们在访问、使用数据库时场景的一些稳定性治理、性能优化、提效等方面的实战经验，对于每一个后端应用来说，数据库无疑是重中之重，我们希望通过我们的数据库治理能力， 
+    在 Kibana 的 console 中，我们可以使用一些命令对 Elasticsearch 进行交互。那么我们是否可以扩展我们需要的一些命令呢？比如： 在上面，我们打入 GET _cat/examp 
     </details> 
 
-- 💪 [深入理解计算机系统（4.2）------逻辑设计和硬件控制语言HCL](https://juejin.cn/post/7140114465768341511) | Tue Sep 06 2022 4:13 AM 
+- 💪 [Node.js的多版本管理工具之nvm](https://juejin.cn/post/7140151675926347789) | Tue Sep 06 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇博客我们简单介绍了Y86指令集体系，而这篇博客我们将介绍指令集体系的逻辑设计和硬件控制语言HCL，为后面去实现Y86打下基础。 　　在硬件设计中，用电子电路来计算对位进行运算的函数，以及在各种存 
+    nvm是Node.js版本管理的实用程序，通常有些项目必须依赖不同版的 NodeJS 运行环境，此时nvm应运而生，用于管理node的版本以及能很方便的进行node版本的切换。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
