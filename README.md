@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [包含min函数的栈](https://juejin.cn/post/7140288856393744391) | Tue Sep 06 2022 3:28 PM 
+- 🤗 [软件离线许可（License）实现原理](https://juejin.cn/post/7140328102709690398) | Tue Sep 06 2022 6:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    我们经常使用各种收费开发软件，一般是我们需要去购买一个许可，然后输入这个许可到软件里就能够使用软件。于是小伙伴就开始好奇这个许可是怎么实现的，特别是在离线情况下它是怎么给软件授权，同时又能避免被破解。 
+    </details> 
+
+- 🎡 [包含min函数的栈](https://juejin.cn/post/7140288856393744391) | Tue Sep 06 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
     基于数据结构: “栈”，实现一个min函数，调用此函数即可获取栈中的最小元素。在该栈中，调用min、push、pop的时间复杂度都是O&lpar;1&rpar;。 本文就跟大家分享下这个算法，欢迎各位感兴趣的开发者.. 
     </details> 
 
-- 🎡 [还记得2048怎么玩吗？快来玩会儿&lpar;摸鱼&rpar;吧！](https://juejin.cn/post/7140287401380806664) | Tue Sep 06 2022 3:21 PM 
+- 🕯 [还记得2048怎么玩吗？快来玩会儿&lpar;摸鱼&rpar;吧！](https://juejin.cn/post/7140287401380806664) | Tue Sep 06 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     你知道如何开发一个 2048 小游戏吗？你知道 canvas 中这些相关的 API 吗？canvas 的好玩之处有很多，如果你还不知道如何使用 canvas 开发相关的内容，那就快来跟我一起学习吧！ 
     </details> 
 
-- 🕯 [LeetCode存在重复元素使用JavaScript解题|前端学算法](https://juejin.cn/post/7140280746379313183) | Tue Sep 06 2022 2:57 PM 
+- 🚀 [LeetCode存在重复元素使用JavaScript解题|前端学算法](https://juejin.cn/post/7140280746379313183) | Tue Sep 06 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
     前端使用JavaScript解决LeetCode算法存在重复元素的问题，前端学算法，每天三分钟学到一个知识点 
     </details> 
 
-- 🚀 [浅谈this对象，你都还记得吗](https://juejin.cn/post/7140273781230010404) | Tue Sep 06 2022 2:29 PM 
+- 💪 [浅谈this对象，你都还记得吗](https://juejin.cn/post/7140273781230010404) | Tue Sep 06 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
     一、定义 函数的 this 关键字在 JavaScript 中的表现略有不同，此外，在严格模式和非严格模式之间也会有一些差别 在绝大多数情况下，函数的调用方式决定了 this 的值（运行时绑定） th 
-    </details> 
-
-- 💪 [提升 React 应用的安全性：从这几点入手](https://juejin.cn/post/7140273112741838861) | Tue Sep 06 2022 2:28 PM 
-    <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第2篇文章，点击查看活动详情 React 的安全漏洞 目前的网络环境，共享的数据要比以往任何时候都多，对于用户而言，必须注意在使用应用程序中可能遇 
     </details> 
 <!-- juejin:END -->
 ### 少数派
