@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [白鲟、儒艮之后，我国两种长臂猿野外灭绝](https://www.cnbeta.com/articles/science/1313195.htm) | Tue Sep 06 2022 2:45 PM 
+- 🕯 [育碧董事会授权腾讯将持股比例翻倍至9.99%](https://hot.cnbeta.com/articles/game/1313207.htm) | Tue Sep 06 2022 4:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月6日，在国家濒危物种科学委员会成立40周年暨2021年度工作会议上，《中国灵长类动物濒危状况评估报告2022》发布。报告显示，在过去的几十年中，中国分布的白掌长臂猿、北白颊长臂猿在野外均没有被监测到，符合野外灭绝的标准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;北京时间9月6日晚间消息，育碧董事会授权腾讯将直接持股比例翻倍至9.99%。腾讯将向育碧的控股公司Guillemot Brothers Ltd。&lt;/strong&gt;投资3亿欧元（含2亿欧元股票购买和1亿欧元增资），意味着对育碧的估值为每股80欧元（9月6日收报43.50欧元）。腾讯将收购Guillemot 49.9%的股权。育碧欧股盘后飙涨15%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [疑似Action 3的大疆新品9月14日发布 含神秘竖屏与发光按钮](https://www.cnbeta.com/articles/tech/1313193.htm) | Tue Sep 06 2022 2:44 PM 
+- 💼 [显卡滞销帮帮NV RTX 30突然雪崩式官降：自刀6500块](https://www.cnbeta.com/articles/tech/1313205.htm) | Tue Sep 06 2022 4:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月6日晚，大疆发布预热海报，宣布将于9月14日发布新品。&lt;strong&gt;从海报来看，新品采用长方体造型，有一块竖屏，一侧还有个圆形的发光按钮。&lt;/strong&gt;与此同时，官方放出了预热视频，有骑摩托、滑雪、潜水等极限运动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;显卡滞销，帮帮NV？在NVIDIA德国官网直卖的RTX 3090 Ti、RTX 3090和RTX 3080 Ti Founders Edition公版卡，均被下调了官方零售价，其中3090 Ti依然降幅最猛，从2249欧元缩水至1329欧元，等于打6折直接省去920欧元，约合6568元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Aaron Greenberg晋升为微软Xbox游戏营销副总裁](https://hot.cnbeta.com/articles/game/1313191.htm) | Tue Sep 06 2022 2:42 PM 
+- 💂 [《赛博朋克2077》首款DLC往日之影公布 明年上市](https://hot.cnbeta.com/articles/game/1313203.htm) | Tue Sep 06 2022 4:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;直到最近还担任Xbox游戏营销团队总经理的亚伦-格林伯格（Aaron Greenberg）现在已被提升为副总裁。&lt;/strong&gt;今天，格林伯格改变了他在Twitter上的简历，并确认了公司对他的最新任命。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;CDPR于今日正式公布了《赛博朋克2077》首款DLC“往日之影”，该资料片将于2023年登陆PC, PlayStation 5, Xbox Series X|S,以及Stadia平台。&lt;strong&gt;《赛博朋克2077：往日之影》中字预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Richard Stallman发布GNU C语言参考手册](https://www.cnbeta.com/articles/tech/1313189.htm) | Tue Sep 06 2022 2:29 PM 
+- 🚀 [索尼PS5“深灰迷彩”外设公布 外壳、手柄10.14日上市](https://hot.cnbeta.com/articles/game/1313201.htm) | Tue Sep 06 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;GNU创始人Richard Stallman最近一直致力于精心编写GNU C语言介绍和参考手册，今天他宣布了GNU C语言介绍和参考手册，以涵盖GNU对C编程语言的扩展。&lt;/strong&gt;该手册以Texi文件的形式编写，在GNU自由文档许可证v1.3+下发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼今日发布了PS5“深灰迷彩”外设，包括DualSense无线控制器和PS5主机外壳和Pulse 3D无线耳机。其中，DualSense无线控制器和PS5主机外壳将于10月14日发售，无线耳机将于12月上市，9月15日开始预售。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Mate系列回归 华为手机还有多少家底？](https://www.cnbeta.com/articles/tech/1313187.htm) | Tue Sep 06 2022 2:20 PM 
+- 🎊 [跌破142！日元续创1998年以来新低](https://www.cnbeta.com/articles/tech/1313199.htm) | Tue Sep 06 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在众多用户的翘首期盼中，9月6日下午，Mate 50系列时隔两年后正式回归。由于众所周知的原因，华为成为唯一一家在2022年发布4G旗舰手机的厂商，但这丝毫不影响业界对于这款手机的关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;都跌破142了，145还远吗？9月6日周二晚间，日元兑美元汇率一度跌至142.02日元，续刷1998年以来最低纪录。今年以来，日元兑美元汇率累计跌幅已超过23%。日元下跌反映了美日之间持续扩大的货币政策分歧：美联储一直在强调抗通胀的决心，而日本央行一直维持宽松政策以支持经济。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
