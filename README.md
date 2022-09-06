@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [TikTok否认关于其数据被盗的报道](https://www.cnbeta.com/articles/tech/1312739.htm) | Mon Sep 05 2022 11:11 PM 
+- 🕯 [波音太空座位费比SpaceX高1倍，NASA将为此买单](https://www.cnbeta.com/articles/science/1312849.htm) | Tue Sep 06 2022 2:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在一个黑客组织发布了他们声称是TikTok数据库的图片后，TikTok否认了关于它被入侵的报道。&lt;/strong&gt;据悉，该数据库包含了该平台的源代码和用户信息。在回应这些指控时，TikTok表示其团队没有发现安全漏洞的证据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，近日，美国宇航局证实称，现与SpaceX公司签订五次额外的太空载人任务，由“龙”飞船携载宇航员抵达国际空间站，这意味SpaceX与美国宇航局签订载人太空飞行任务达到14次。&lt;strong&gt;虽然SpaceX与美国宇航局签订的商业太空任务较多，但是该公司提供的“太空座位费”比波音公司便宜一倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [数字藏品正在告别“野蛮生长”](https://www.cnbeta.com/articles/tech/1312737.htm) | Mon Sep 05 2022 11:10 PM 
+- 💼 [Binance宣布将把USDC、USDP和TUSD都转至BUSD稳定币](https://www.cnbeta.com/articles/tech/1312847.htm) | Tue Sep 06 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;数字藏品市场将迎来一个“冷静期”，但这并不意味着数字藏品市场的“凛冬将至”，而是一个新拐点正在到来，这个市场将逐渐走上规范化的轨道。“起飞”的数字藏品市场正在逐渐告别“野蛮生长”的时代。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为全球第三大稳定币发行商，Binance 周一宣布：&lt;strong&gt;为了“提升流动性和资本效率”，该平台将于 9 月 29 日那天，把客户持有的三款竞争代币，都转换为自家的 BUSD 稳定币。&lt;/strong&gt;尽管这个理由让不少币圈人士都感到有些困惑，但 Binance 在一篇博客文章中表示，这不会影响用户的提款选择 —— 大家仍可从 BUSD 计价的账户余额中，1:1 提取 USD Coin（USDC）、Pax Dollar（USDP）或 Ture USD（TUSD）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Meta因Instagram违反欧盟一般数据保护法规被罚逾4亿美元](https://www.cnbeta.com/articles/tech/1312735.htm) | Mon Sep 05 2022 11:06 PM 
+- 💂 [《大白鲨》在首次上映47年后在美再次成为票房冠军](https://hot.cnbeta.com/articles/movie/1312845.htm) | Tue Sep 06 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;图片分享社交应用Instagram母公司Meta已被爱尔兰数据监管机构处以4.05亿欧元（约合4.03亿美元）罚款，原因是该公司允许青少年开设账号，并公开显示其电话号码和电子邮件地址。在对Instagram可能违反欧盟一般数据保护法规（以下简称“GDPR”）的行为进行了为期两年的调查之后，爱尔兰数据保护委员会确认了上述处罚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周六被称为“全国电影日”，美国各地的影院将其票价降至3美元以努力使人们回到电影院。Variety发现，周六有超810万人去看电影，而前一天还只有100万人后一天有170万人。“全国电影日”为美国影院带来了2022年任何一天的最大人群，这产生了一个不可避免的结论：当电影只需三块钱时人们会去看电影。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [USB4 v2.0规范发布 USB-IF似乎又让命名复杂起来了](https://www.cnbeta.com/articles/tech/1312733.htm) | Mon Sep 05 2022 11:04 PM 
+- 🚀 [经典星环设计 荣耀X40新机官宣](https://www.cnbeta.com/articles/tech/1312843.htm) | Tue Sep 06 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;USB推广组织USB-IF在9月1日公布，计划在11月举办的USB DecDays上发布USB4 2.0新规范，同时预告USB4 2.0的部分功能特性，包括带宽翻倍至80Gbps、更高的充电功率、更新的DisplayPort协议等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;荣耀手机今日官宣，&lt;strong&gt;将于9月15日为大家带来新机——荣耀X40，号称“全新越级标杆”&lt;/strong&gt;，并且是荣耀X系列手机九年里程碑之作。从海报可以看出荣耀X40将会&lt;strong&gt;沿用“星环”设计，并且看起来十分通透，背景是迷人的粉色晚霞，可能与新机的配色有联系。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [华为抢先苹果支持卫星通信 首颗北斗短报文SoC芯片进入量产](https://www.cnbeta.com/articles/tech/1312731.htm) | Mon Sep 05 2022 11:04 PM 
+- 🎊 [红旗三款新能源概念车Sedan EV、SUV EV和E-LS发布](https://www.cnbeta.com/articles/tech/1312841.htm) | Tue Sep 06 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在华为和苹果的带动下，“卫星通信”成为最近热议的话题之一，业内猜测，华为将携手北斗三号系统实现手机卫星通信技术的大众化应用。日前，国内独立第三方集成电路测试技术服务商利扬芯片发布公告称，&lt;strong&gt;公司近期已完成全球首颗北斗短报文SoC芯片的测试方案开发并进入量产阶段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月5日，红旗品牌元宇宙盛典线上开启，中国一汽董事长、党委书记徐留平以虚拟人物的形象出现在元宇宙中，通过虚拟声音为大家介绍了红旗新能源战略、超级电动智能平台和三款新能源概念车，&lt;strong&gt;它们分别是新红旗Sedan EV、新红旗SUV EV和新红旗E-LS&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
