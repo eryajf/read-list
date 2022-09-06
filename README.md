@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [参与GTC有望获得黄仁勋签名版RTX 3090显卡](https://www.cnbeta.com/articles/tech/1313119.htm) | Tue Sep 06 2022 9:50 AM 
+- 🕯 [理想全新SUV曝光：或搭载麒麟电池 续航破1000公里](https://www.cnbeta.com/articles/tech/1313141.htm) | Tue Sep 06 2022 11:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，NVIDIA官方宣布，&lt;strong&gt;将为即将召开的GTC 2022准备一批独特的礼物，这其中就包含了一款NVIDIA CEO黄仁勋签名版的RTX 3090公版显卡。&lt;/strong&gt;据悉，&lt;strong&gt;官方会从报名者中抽选幸运参与者，送出签名版显卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;目前，理想汽车已发布理想ONE和理想L9两款车型，L8被曝将于11月发布，而理想还有一款全新车型正在路上。日前，据“网上车市”报道，根据规划，&lt;strong&gt;理想汽车将于2023年推出一款纯电中大型6座SUV（内部代号S01）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [西欧国家在宽带速度排行榜中占主导地位](https://www.cnbeta.com/articles/tech/1313117.htm) | Tue Sep 06 2022 9:49 AM 
+- 💼 [卫星图像带你看加州“Geysers”：世界上最大的地热捕获发电厂群](https://www.cnbeta.com/articles/science/1313139.htm) | Tue Sep 06 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;西欧国家占据了世界上宽带速度最快的前十名中的七个，澳门地区、台湾地区和日本是其他地方唯一进入世界最快前十名的地方。世界上互联网速度最快的五个区域是：澳门地区（262.74Mbps）、泽西岛海峡（256.59Mbps）、冰岛（216.56Mbps）、列支敦士登（166.22Mbps）和直布罗陀（159.90Mbps）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;温泉和熔岩点缀着这个名不副实的地热田“Geysers”（字面意思间歇泉），它是世界上最大的捕捉地下热量的发电厂群。&lt;/strong&gt;大约130万年前，一大团富含二氧化硅的岩浆强行穿过加州北部海岸山脉下面的地壳。今天，这个浅层岩体仍在冒着热气，它上面45平方英里（120平方公里）的区域被称为间歇泉，这是世界上最大的地热能源生产地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究人员利用钻石量子传感器延长了EV续航里程](https://www.cnbeta.com/articles/tech/1313115.htm) | Tue Sep 06 2022 9:39 AM 
+- 💂 [总经销“叛逃”后 河北格力售后服务平台突遭关闭 无法维修](https://www.cnbeta.com/articles/tech/1313137.htm) | Tue Sep 06 2022 10:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;电动汽车&lpar;EV&rpar;作为传统汽油内燃机汽车的环保替代品，其受欢迎程度一直在上升。这就引发了针对开发高效EV电池的主要研究工作。然而电动汽车的一个重要低效率则是由对电池电量的不准确估计造成。通过测量电池的电流输出以评估电动车电池的充电状态这种方法被用来计算车辆的剩余驾驶里程的估计值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;格力河北总经销商倒戈后，又有新动态了，售后平台直接停掉。&lt;/strong&gt;据财联社报道，今日有一份网传文件，其中显示标题为《河北2300万格力消费者告知书》。内容提到，河北格力公司在未接到任何形式的提前沟通、无任何书面通知且毫不知情的情况下，&lt;strong&gt;2022年9月5日晚8点，售后服务平台突遭关闭，已无法接到派工信息，无法再进行上门维修。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [历时1730天 油管博主手动挖空《我的世界》中全部方块](https://hot.cnbeta.com/articles/game/1313113.htm) | Tue Sep 06 2022 9:34 AM 
+- 🚀 [《火影忍者》动画20周年纪念展公开 主艺图先行公开](https://hot.cnbeta.com/articles/comic/1313135.htm) | Tue Sep 06 2022 10:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，油管博主Minthical在历时1730天后，手动挖空了《我的世界》游戏世界中全部的方块，共挖了大约4700万个方块，可谓游戏界的“愚公”，这也让他成为这项挑战成功的第一人。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不知不觉，经典漫画《火影忍者》的动画版距离首播已经过去了20年，9月6日今天官方宣布将举行20周年纪念展《动画火影20周年纪念 NARUTOTHE GALLERY》，部分周边以及概念图主艺图同时公开，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1313135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Epic回怼中量大学校长游戏毒品论](https://hot.cnbeta.com/articles/game/1313111.htm) | Tue Sep 06 2022 9:34 AM 
+- 🎊 [2023款AION V Plus上市：最高702km续航 20万级唯一纯电7座](https://www.cnbeta.com/articles/tech/1313133.htm) | Tue Sep 06 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们此前曾报道中国计量大学校长徐江荣于8月29日2022级新生开学典演讲中游戏毒品论的新闻，校长徐江荣在演讲中提到网络游戏是最大的校园毒品，每年被取消学籍的同学90%因为游戏，100%不值得同情。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月6日消息，日前广汽埃安2023款AION V Plus正式上市，新车共推出10款车型，&lt;strong&gt;补贴后售价区间18.98万元-26.98万元，新车首次推出7座版本，成为“20万级唯一智能纯电7座”。&lt;/strong&gt;外观方面，新车延续了现款车型的外观设计，在细节处进行了调整，新增源于“青花瓷”的烟雨青车身色与本草纲目内饰主题，车辆长宽高分别为4650/1920/1720毫米，轴距为2830毫米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
