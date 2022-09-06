@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Sellix - 通过接受加密货币轻松进行数字销售](https://xinquji.com/posts/179263?utm_campaign=xinquji-rss) | Tue Sep 06 2022 6:17 AM 
+- 👀 [Feedback Farm - 使用简单的小部件收集反馈](https://xinquji.com/posts/179289?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     通过接受加密货币轻松进行数字销售  
+     使用简单的小部件收集反馈  
     </details> 
 
-- 🥷 [Briefly - 修复营销预算中的黑洞](https://xinquji.com/posts/179262?utm_campaign=xinquji-rss) | Tue Sep 06 2022 6:15 AM 
+- 🥷 [Vtiger CRM for Microsoft Teams - 将您的 CRM 与 MS Teams 集成以简化沟通](https://xinquji.com/posts/179288?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     修复营销预算中的黑洞  
+     将您的 CRM 与 MS Teams 集成以简化沟通  
     </details> 
 
-- 💼 [Pomo.DO - 更好地计划，更好地工作](https://xinquji.com/posts/179261?utm_campaign=xinquji-rss) | Tue Sep 06 2022 6:13 AM 
+- 💼 [Go in One Evening - 在几个小时内学习 Go 编程要点](https://xinquji.com/posts/179287?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     更好地计划，更好地工作  
+     在几个小时内学习 Go 编程要点  
     </details> 
 
-- 🦅 [66transfer - 自托管、功能丰富且隐私友好的文件传输](https://xinquji.com/posts/179260?utm_campaign=xinquji-rss) | Tue Sep 06 2022 6:11 AM 
+- 🦅 [matcha - 全新的社区体验，从 URL 流向 IRL](https://xinquji.com/posts/179286?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     自托管、功能丰富且隐私友好的文件传输  
+     全新的社区体验，从 URL 流向 IRL  
     </details> 
 
-- 😺 [TimelinesAI WA Pipedrive Integration - 自动将 Whatsapp 消息同步到 Pipedrive 交易中](https://xinquji.com/posts/179259?utm_campaign=xinquji-rss) | Tue Sep 06 2022 6:10 AM 
+- 😺 [LazyCast - 将手机屏幕投射到电脑上](https://xinquji.com/posts/179285?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     自动将 Whatsapp 消息同步到 Pipedrive 交易中  
+     将手机屏幕投射到电脑上  
     </details> 
 <!-- xinquji:END -->
