@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [育碧董事会授权腾讯将持股比例翻倍至9.99%](https://hot.cnbeta.com/articles/game/1313207.htm) | Tue Sep 06 2022 4:18 PM 
+- 🕯 [Google的下一次Pixel硬件发布会活动定于10月6日举办](https://www.cnbeta.com/articles/tech/1313221.htm) | Tue Sep 06 2022 4:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;北京时间9月6日晚间消息，育碧董事会授权腾讯将直接持股比例翻倍至9.99%。腾讯将向育碧的控股公司Guillemot Brothers Ltd。&lt;/strong&gt;投资3亿欧元（含2亿欧元股票购买和1亿欧元增资），意味着对育碧的估值为每股80欧元（9月6日收报43.50欧元）。腾讯将收购Guillemot 49.9%的股权。育碧欧股盘后飙涨15%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当我们在为苹果的大秀做准备时，Google提前发出了下一个大型Pixel活动的邀请函，公司今年下半年的发布会将于10月6日在布鲁克林举行，当地时间上午10点开始。我们可以在本次发布会期待什么呢？首先，该公司在春季发布Pixel 6a时已经向我们预告了第七代机型。虽然Google近年来在该领域取得了一些巨大的进步（Pixel 6比5有了很大的飞跃），但最大的新闻几乎肯定是Pixel Watch。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [显卡滞销帮帮NV RTX 30突然雪崩式官降：自刀6500块](https://www.cnbeta.com/articles/tech/1313205.htm) | Tue Sep 06 2022 4:18 PM 
+- 💼 [8月安卓手机好评榜：K50至尊版冲上前三](https://www.cnbeta.com/articles/tech/1313219.htm) | Tue Sep 06 2022 4:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;显卡滞销，帮帮NV？在NVIDIA德国官网直卖的RTX 3090 Ti、RTX 3090和RTX 3080 Ti Founders Edition公版卡，均被下调了官方零售价，其中3090 Ti依然降幅最猛，从2249欧元缩水至1329欧元，等于打6折直接省去920欧元，约合6568元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;安卓性能和性价比榜单之后，就是最后的好评榜了，好评榜每次的变化不如前两份榜单那样，每次都能“天翻地覆”，主要好评率是得靠累积才能引起质变上榜，所以会有两种情况，一旦上榜了就下不来，或者一旦下榜了，就再也没机会上去。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《赛博朋克2077》首款DLC往日之影公布 明年上市](https://hot.cnbeta.com/articles/game/1313203.htm) | Tue Sep 06 2022 4:12 PM 
+- 💂 [2022中国企业500强排名发布：论赚钱腾讯第4、华为第7](https://www.cnbeta.com/articles/tech/1313217.htm) | Tue Sep 06 2022 4:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;CDPR于今日正式公布了《赛博朋克2077》首款DLC“往日之影”，该资料片将于2023年登陆PC, PlayStation 5, Xbox Series X|S,以及Stadia平台。&lt;strong&gt;《赛博朋克2077：往日之影》中字预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月6日，中国企业联合会发布了“2022中国企业500强”榜单，总收入首次突破百万亿元，已经与美国500强基本相当。&lt;strong&gt;本届500强营业收入总额102.48万亿元&lpar;相当于美国500强的97.74％&rpar;&lt;/strong&gt;，比上年增加12.65万亿元，增幅为14.08％，其中入门门槛446.25亿元，比上年提高53.89亿元，增幅13.74％。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [索尼PS5“深灰迷彩”外设公布 外壳、手柄10.14日上市](https://hot.cnbeta.com/articles/game/1313201.htm) | Tue Sep 06 2022 4:11 PM 
+- 🚀 [香港现首例猴痘输入病例 经检测确认属于输入性个案](https://www.cnbeta.com/articles/tech/1313215.htm) | Tue Sep 06 2022 4:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼今日发布了PS5“深灰迷彩”外设，包括DualSense无线控制器和PS5主机外壳和Pulse 3D无线耳机。其中，DualSense无线控制器和PS5主机外壳将于10月14日发售，无线耳机将于12月上市，9月15日开始预售。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据央视总台大湾区之声报道，9月6日，香港特区政府卫生署卫生防护中心宣布，&lt;strong&gt;9月5日，香港发现1例怀疑输入性猴痘个案，9月6日经检测确认为猴痘确诊个案。该病例未进入社区，属于输入性个案。&lt;/strong&gt;根据通报，病例为30岁男性，9月5日从菲律宾经香港国际机场抵港，在隔离酒店检疫期间出现皮疹等猴痘相关病征，经过复检核实后确诊，现已被送往香港玛丽医院就诊。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [跌破142！日元续创1998年以来新低](https://www.cnbeta.com/articles/tech/1313199.htm) | Tue Sep 06 2022 3:55 PM 
+- 🎊 [高通公司宣布推出骁龙6代Gen 1和骁龙4代Gen 1芯片](https://www.cnbeta.com/articles/tech/1313213.htm) | Tue Sep 06 2022 4:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;都跌破142了，145还远吗？9月6日周二晚间，日元兑美元汇率一度跌至142.02日元，续刷1998年以来最低纪录。今年以来，日元兑美元汇率累计跌幅已超过23%。日元下跌反映了美日之间持续扩大的货币政策分歧：美联储一直在强调抗通胀的决心，而日本央行一直维持宽松政策以支持经济。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今天，高通公司宣布了其面向中端市场的骁龙6代Gen1和入门级的骁龙4代Gen1芯片。&lt;/strong&gt;6代Gen 1采用4纳米制造工艺，而更实惠的SD 4代Gen 1则保持在6纳米节点上。首批搭载SD 6 Gen 1的终端预计将在2023年第一季度面世，而SD 4 Gen 1将在本季度首次亮相。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
