@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《壮志凌云2》幕后拍摄花絮 航母起降拍摄完整版](https://hot.cnbeta.com/articles/movie/1313185.htm) | Tue Sep 06 2022 2:16 PM 
+- 🕯 [白鲟、儒艮之后，我国两种长臂猿野外灭绝](https://www.cnbeta.com/articles/science/1313195.htm) | Tue Sep 06 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《壮志凌云2》现正在北美热映中，今日派拉蒙影业官方频道发布了“航母起降幕后拍摄花絮完整版”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;惊喜首发！【壮志凌云2】 航空母舰起降幕后拍摄完整版大公开! 登上航母拍摄战机弹射起飞究竟有多震撼?现在就一睹影史上空前未有的创举!&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月6日，在国家濒危物种科学委员会成立40周年暨2021年度工作会议上，《中国灵长类动物濒危状况评估报告2022》发布。报告显示，在过去的几十年中，中国分布的白掌长臂猿、北白颊长臂猿在野外均没有被监测到，符合野外灭绝的标准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果秋季发布会举办在即 分析师泼冷水](https://www.cnbeta.com/articles/tech/1313183.htm) | Tue Sep 06 2022 2:13 PM 
+- 💼 [疑似Action 3的大疆新品9月14日发布 含神秘竖屏与发光按钮](https://www.cnbeta.com/articles/tech/1313193.htm) | Tue Sep 06 2022 2:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间 9 月 8 日凌晨 1:00，苹果&lpar;AAPL.US&rpar;将举办今年的秋季发布会，市场预计这家科技巨头将推出一系列产品，包括其最受欢迎的新款iPhone、Apple Watch以及AirPods Pro三条产品线的更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月6日晚，大疆发布预热海报，宣布将于9月14日发布新品。&lt;strong&gt;从海报来看，新品采用长方体造型，有一块竖屏，一侧还有个圆形的发光按钮。&lt;/strong&gt;与此同时，官方放出了预热视频，有骑摩托、滑雪、潜水等极限运动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特朗普旗下Truth Social借壳上市受阻 Digital盘前一度暴跌超30%](https://www.cnbeta.com/articles/tech/1313181.htm) | Tue Sep 06 2022 2:12 PM 
+- 💂 [Aaron Greenberg晋升为微软Xbox游戏营销副总裁](https://hot.cnbeta.com/articles/game/1313191.htm) | Tue Sep 06 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;SPAC公司Digital World Acquisition Corp&lpar;DWAC.US&rpar;股价盘前一度暴跌超33%，此前有报道称，该公司未能获得足够的支持来延长交易期限以完成合并交易。特朗普旗下的社交媒体平台Truth Social之前曾与这家SPAC公司达成借壳上市交易，后者提议推迟一年完成该交易，但如今这项提案未能获得足够的股东支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;直到最近还担任Xbox游戏营销团队总经理的亚伦-格林伯格（Aaron Greenberg）现在已被提升为副总裁。&lt;/strong&gt;今天，格林伯格改变了他在Twitter上的简历，并确认了公司对他的最新任命。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国商务部披露500亿美元芯片法案战略文件 企业最快明年春天拿钱](https://www.cnbeta.com/articles/tech/1313179.htm) | Tue Sep 06 2022 2:10 PM 
+- 🚀 [Richard Stallman发布GNU C语言参考手册](https://www.cnbeta.com/articles/tech/1313189.htm) | Tue Sep 06 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间周二早晨，美国商务部在官网披露了实施500亿美元芯片法案的战略文件。其中最为重要的一点是，对这笔钱已经念叨很久了的半导体巨头，最快能在明年初拿到美国政府印出来的现金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;GNU创始人Richard Stallman最近一直致力于精心编写GNU C语言介绍和参考手册，今天他宣布了GNU C语言介绍和参考手册，以涵盖GNU对C编程语言的扩展。&lt;/strong&gt;该手册以Texi文件的形式编写，在GNU自由文档许可证v1.3+下发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [华为“截胡”苹果发布卫星通信功能 业内称每条信息1元才不亏本](https://www.cnbeta.com/articles/tech/1313177.htm) | Tue Sep 06 2022 2:10 PM 
+- 🎊 [Mate系列回归 华为手机还有多少家底？](https://www.cnbeta.com/articles/tech/1313187.htm) | Tue Sep 06 2022 2:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国内沉寂已久的智能手机市场因九月的两场发布会而重新热闹了起来。9月6日下午，在苹果发布会前夕，华为在线上发布了其首款支持北斗卫星通信消息的大众智能手机华为Mate 50系列，这也是时隔两年，Mate系列手机重回市场。此前，天风国际分析师郭明錤曾表示，苹果iPhone 14系列也将支持卫星通信功能，并赶在发布会之前完成该功能的硬件测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在众多用户的翘首期盼中，9月6日下午，Mate 50系列时隔两年后正式回归。由于众所周知的原因，华为成为唯一一家在2022年发布4G旗舰手机的厂商，但这丝毫不影响业界对于这款手机的关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
