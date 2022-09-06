@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [理想全新SUV曝光：或搭载麒麟电池 续航破1000公里](https://www.cnbeta.com/articles/tech/1313141.htm) | Tue Sep 06 2022 11:16 AM 
+- 🕯 [格力河北新授权公司全面接管当地售后服务网络](https://www.cnbeta.com/articles/tech/1313161.htm) | Tue Sep 06 2022 12:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;目前，理想汽车已发布理想ONE和理想L9两款车型，L8被曝将于11月发布，而理想还有一款全新车型正在路上。日前，据“网上车市”报道，根据规划，&lt;strong&gt;理想汽车将于2023年推出一款纯电中大型6座SUV（内部代号S01）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月6日有消息称，格力原河北总代“河北格力”的售后服务平台突遭关闭。第一财经记者独家获悉，格力电器（000651.SZ）在河北新授权公司珠海桓格数字科技有限公司（下称桓格）从9月1日开始与当地服务网点换签，并于9月6日前完成换签、全面接手售后服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [卫星图像带你看加州“Geysers”：世界上最大的地热捕获发电厂群](https://www.cnbeta.com/articles/science/1313139.htm) | Tue Sep 06 2022 11:13 AM 
+- 💼 [顺丰航空第75架全货机投入运行](https://www.cnbeta.com/articles/tech/1313159.htm) | Tue Sep 06 2022 11:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;温泉和熔岩点缀着这个名不副实的地热田“Geysers”（字面意思间歇泉），它是世界上最大的捕捉地下热量的发电厂群。&lt;/strong&gt;大约130万年前，一大团富含二氧化硅的岩浆强行穿过加州北部海岸山脉下面的地壳。今天，这个浅层岩体仍在冒着热气，它上面45平方英里（120平方公里）的区域被称为间歇泉，这是世界上最大的地热能源生产地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年9月6日晨，顺丰航空第75架全货机（B767-300）正式投入商业运行，这是顺丰航空今年投运的第7架新运力。中秋、国庆双节临近，为保障双节期间的航空物流服务品质，顺丰航空优化航班生产保障方案，新增一架宽体全货机运力投入深圳至北京的航线，助力提升华南往来华北之间的快件空运时效与品质。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [总经销“叛逃”后 河北格力售后服务平台突遭关闭 无法维修](https://www.cnbeta.com/articles/tech/1313137.htm) | Tue Sep 06 2022 10:59 AM 
+- 💂 [华为Mate50“没电也能打电话”？博主实测1%电量应急模式](https://www.cnbeta.com/articles/tech/1313157.htm) | Tue Sep 06 2022 11:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;格力河北总经销商倒戈后，又有新动态了，售后平台直接停掉。&lt;/strong&gt;据财联社报道，今日有一份网传文件，其中显示标题为《河北2300万格力消费者告知书》。内容提到，河北格力公司在未接到任何形式的提前沟通、无任何书面通知且毫不知情的情况下，&lt;strong&gt;2022年9月5日晚8点，售后服务平台突遭关闭，已无法接到派工信息，无法再进行上门维修。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;除了支持发送北斗卫星短报文信息，华为Mate50系列上这次让人眼前一亮的新功能点还有低电量应急模式。官方介绍，手机在1%低电量时会智能启动聚能泵，&lt;strong&gt;该模式下仍能支持通话12分钟、扫码4次或亮码10次，关键时刻非常方便。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《火影忍者》动画20周年纪念展公开 主艺图先行公开](https://hot.cnbeta.com/articles/comic/1313135.htm) | Tue Sep 06 2022 10:57 AM 
+- 🚀 [开源密码管理器Bitwarden融资1亿美元](https://www.cnbeta.com/articles/tech/1313155.htm) | Tue Sep 06 2022 11:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不知不觉，经典漫画《火影忍者》的动画版距离首播已经过去了20年，9月6日今天官方宣布将举行20周年纪念展《动画火影20周年纪念 NARUTOTHE GALLERY》，部分周边以及概念图主艺图同时公开，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1313135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;面向企业和消费者的开源密码管理器Bitwarden在一轮融资中筹集了1亿美元，该轮融资由PSG牵头，Battery Ventures跟投。&lt;/strong&gt;总部位于加州圣巴巴拉的Bitwarden最初成立于2015年，这一领域的其他成员包括许多令人耳熟能详的现有公司，包括1Password（最近在6.2亿美元的融资后达到68亿美元的估值）和Lastpass（最近在落入私募股权公司手中两年后再次作为独立公司被剥离出来）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [2023款AION V Plus上市：最高702km续航 20万级唯一纯电7座](https://www.cnbeta.com/articles/tech/1313133.htm) | Tue Sep 06 2022 10:55 AM 
+- 🎊 [顺丰寄丢1万多的iPhone 13 Pro Max 客服只赔1000元 当事人无法接受](https://www.cnbeta.com/articles/tech/1313153.htm) | Tue Sep 06 2022 11:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月6日消息，日前广汽埃安2023款AION V Plus正式上市，新车共推出10款车型，&lt;strong&gt;补贴后售价区间18.98万元-26.98万元，新车首次推出7座版本，成为“20万级唯一智能纯电7座”。&lt;/strong&gt;外观方面，新车延续了现款车型的外观设计，在细节处进行了调整，新增源于“青花瓷”的烟雨青车身色与本草纲目内饰主题，车辆长宽高分别为4650/1920/1720毫米，轴距为2830毫米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月6日消息，据报道，近日&lt;strong&gt;广东深圳的夏女士称自己3月份花费11000元买了一部全新未拆封的iPhone13 Pro Max，从深圳寄给江苏的家人。&lt;/strong&gt;后面家人迟迟未收到货，向顺丰询问时被告知快件丢了，只能走理赔，根据保价赔偿1000元。夏女士表示，下单时未注意到保价金额，不接受此赔偿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
