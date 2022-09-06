@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google Pixel平板可能与Pixel 6系列配置类似 产品定位面向家庭](https://www.cnbeta.com/articles/tech/1313173.htm) | Tue Sep 06 2022 1:35 PM 
+- 🕯 [《壮志凌云2》幕后拍摄花絮 航母起降拍摄完整版](https://hot.cnbeta.com/articles/movie/1313185.htm) | Tue Sep 06 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google在2022年GoogleI/O大会上宣布了Pixel平板电脑，虽然这次活动主要是关于介绍Google Pixel 7系列以及Pixel手表，可以说我们对Pixel平板电脑了解甚少。&lt;strong&gt;然而，我们现在有一些关于即将推出的Android平板电脑的新信息，尽管它可能会让一些人失望。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《壮志凌云2》现正在北美热映中，今日派拉蒙影业官方频道发布了“航母起降幕后拍摄花絮完整版”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;惊喜首发！【壮志凌云2】 航空母舰起降幕后拍摄完整版大公开! 登上航母拍摄战机弹射起飞究竟有多震撼?现在就一睹影史上空前未有的创举!&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [巴西命令苹果公司暂停销售不带充电头的iPhone并开出罚单](https://www.cnbeta.com/articles/tech/1313171.htm) | Tue Sep 06 2022 1:14 PM 
+- 💼 [苹果秋季发布会举办在即 分析师泼冷水](https://www.cnbeta.com/articles/tech/1313183.htm) | Tue Sep 06 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;巴西政府周二下令苹果公司停止在该国销售没有充电头的iPhone，称该公司向消费者提供了不完整的产品。&lt;/strong&gt;司法部对苹果公司处以1227.5万雷亚尔（238万美元）的罚款，并下令取消iPhone 12和更新机型的销售，此外还要求暂停销售任何不附带电源充电器的iPhone机型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间 9 月 8 日凌晨 1:00，苹果&lpar;AAPL.US&rpar;将举办今年的秋季发布会，市场预计这家科技巨头将推出一系列产品，包括其最受欢迎的新款iPhone、Apple Watch以及AirPods Pro三条产品线的更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [活在航天飞机时代 美国登月火箭“过时了”？](https://www.cnbeta.com/articles/science/1313169.htm) | Tue Sep 06 2022 1:10 PM 
+- 💂 [特朗普旗下Truth Social借壳上市受阻 Digital盘前一度暴跌超30%](https://www.cnbeta.com/articles/tech/1313181.htm) | Tue Sep 06 2022 2:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周末，美国宇航局&lpar;NASA&rpar;的登月火箭再次推迟发射，&lt;strong&gt;问题出在了一种被私营航天公司淘汰的燃料：液态氢&lt;/strong&gt;。SpaceX等部分航天公司在为自己的大型火箭开发新发动机时，已经弃用液氢燃料。NASA表示，氢的重量轻，燃烧温度极高，是一种高效的推进剂，可用于火箭发射的不同阶段。但是，工程师们也指出，氢的密度极低，很容易逃脱控制，而且它需要一个巨大燃料罐来储存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;SPAC公司Digital World Acquisition Corp&lpar;DWAC.US&rpar;股价盘前一度暴跌超33%，此前有报道称，该公司未能获得足够的支持来延长交易期限以完成合并交易。特朗普旗下的社交媒体平台Truth Social之前曾与这家SPAC公司达成借壳上市交易，后者提议推迟一年完成该交易，但如今这项提案未能获得足够的股东支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google Chrome将在工具栏上提供“节电模式”指示器](https://www.cnbeta.com/articles/tech/1313167.htm) | Tue Sep 06 2022 1:07 PM 
+- 🚀 [美国商务部披露500亿美元芯片法案战略文件 企业最快明年春天拿钱](https://www.cnbeta.com/articles/tech/1313179.htm) | Tue Sep 06 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google正在开发几个新功能，以使浏览体验更加高效。作为使Chrome浏览器更可靠、更节能的努力的一部分，Google将很快在浏览器的设置页面中增加一个&amp;quot;性能&amp;quot;部分。这将可以让用户配置一个&amp;quot;效率模式&amp;quot;和一个&amp;quot;节电模式&amp;quot;。但这两个功能可能不容易在设置页面上寻找到，因此Google正在努力做到这一点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间周二早晨，美国商务部在官网披露了实施500亿美元芯片法案的战略文件。其中最为重要的一点是，对这笔钱已经念叨很久了的半导体巨头，最快能在明年初拿到美国政府印出来的现金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [华为Mate 50北斗卫星消息只能发不能收 和想象的不太一样？](https://www.cnbeta.com/articles/tech/1313165.htm) | Tue Sep 06 2022 1:02 PM 
+- 🎊 [华为“截胡”苹果发布卫星通信功能 业内称每条信息1元才不亏本](https://www.cnbeta.com/articles/tech/1313177.htm) | Tue Sep 06 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;华为Mate 50系列支持北斗卫星消息的话题最近频频冲上热搜，成为很多人对新品的最大期待，结果却和想象的不太一样。据了解，北斗卫星信息可以发送19个字符，其中包含发出者所在的地理位置坐标，点击位置链接，就可以在地图上查看相应的位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国内沉寂已久的智能手机市场因九月的两场发布会而重新热闹了起来。9月6日下午，在苹果发布会前夕，华为在线上发布了其首款支持北斗卫星通信消息的大众智能手机华为Mate 50系列，这也是时隔两年，Mate系列手机重回市场。此前，天风国际分析师郭明錤曾表示，苹果iPhone 14系列也将支持卫星通信功能，并赶在发布会之前完成该功能的硬件测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
