@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [波音太空座位费比SpaceX高1倍，NASA将为此买单](https://www.cnbeta.com/articles/science/1312849.htm) | Tue Sep 06 2022 2:09 AM 
+- 🕯 [曝顽皮狗在《最后生还者：第一部》藏彩蛋 留下新作线索](https://hot.cnbeta.com/articles/game/1312943.htm) | Tue Sep 06 2022 4:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，近日，美国宇航局证实称，现与SpaceX公司签订五次额外的太空载人任务，由“龙”飞船携载宇航员抵达国际空间站，这意味SpaceX与美国宇航局签订载人太空飞行任务达到14次。&lt;strong&gt;虽然SpaceX与美国宇航局签订的商业太空任务较多，但是该公司提供的“太空座位费”比波音公司便宜一倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《最后生还者：第一部》为玩家带来了一个完全重制、高清化的末世景象，当然很多铁粉也不会放过这片土地上的每一寸细节。随着一个关于墙壁海报的新发现，一场关于顽皮狗新IP的讨论逐渐展开。从顽皮狗资讯博主@NaughtyNDC贴出的这几张照片可以看出，海报中的元素有飞天的骏马、龙和女战士的形象。网友纷纷在评论区表达了自己的期许，希望顽皮狗会有一款类似《巫师》的奇幻世界IP。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Binance宣布将把USDC、USDP和TUSD都转至BUSD稳定币](https://www.cnbeta.com/articles/tech/1312847.htm) | Tue Sep 06 2022 2:08 AM 
+- 💼 [小岛秀夫表示曾为在《合金装备》中插入历史影像大费周章](https://hot.cnbeta.com/articles/game/1312941.htm) | Tue Sep 06 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为全球第三大稳定币发行商，Binance 周一宣布：&lt;strong&gt;为了“提升流动性和资本效率”，该平台将于 9 月 29 日那天，把客户持有的三款竞争代币，都转换为自家的 BUSD 稳定币。&lt;/strong&gt;尽管这个理由让不少币圈人士都感到有些困惑，但 Binance 在一篇博客文章中表示，这不会影响用户的提款选择 —— 大家仍可从 BUSD 计价的账户余额中，1:1 提取 USD Coin（USDC）、Pax Dollar（USDP）或 Ture USD（TUSD）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;小岛秀夫最近表示，对于他曾经的团队，在《合金装备》中插入现实历史片段是非常困难的。在上个周末，小岛在推特上分享了关于原版《合金装备》的新细节。根据 SiliconEra 报道，小岛透露称将历史影像加入游戏中是一件非常难的事，主要是当时他还没有什么关系来让获得必要授权的谈判变得更简单。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1312941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《大白鲨》在首次上映47年后在美再次成为票房冠军](https://hot.cnbeta.com/articles/movie/1312845.htm) | Tue Sep 06 2022 2:08 AM 
+- 💂 [阿汤哥“挂机”录《碟中谍7》片场花絮](https://hot.cnbeta.com/articles/movie/1312939.htm) | Tue Sep 06 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周六被称为“全国电影日”，美国各地的影院将其票价降至3美元以努力使人们回到电影院。Variety发现，周六有超810万人去看电影，而前一天还只有100万人后一天有170万人。“全国电影日”为美国影院带来了2022年任何一天的最大人群，这产生了一个不可避免的结论：当电影只需三块钱时人们会去看电影。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今日（9月6日），据守望好莱坞消息，一段汤姆·克鲁斯在《碟中谍7》片场录制的花絮近日曝光，相当惊险壮观。&lt;/strong&gt;该视频是几个月前在电影产业大会Cinemacon现场播放的，但当时没在网络发布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [经典星环设计 荣耀X40新机官宣](https://www.cnbeta.com/articles/tech/1312843.htm) | Tue Sep 06 2022 2:04 AM 
+- 🚀 [《龙之家族》最新一集修正了马丁对《权游》国王狩猎场景的质疑](https://hot.cnbeta.com/articles/movie/1312937.htm) | Tue Sep 06 2022 4:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;荣耀手机今日官宣，&lt;strong&gt;将于9月15日为大家带来新机——荣耀X40，号称“全新越级标杆”&lt;/strong&gt;，并且是荣耀X系列手机九年里程碑之作。从海报可以看出荣耀X40将会&lt;strong&gt;沿用“星环”设计，并且看起来十分通透，背景是迷人的粉色晚霞，可能与新机的配色有联系。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;HBO前传系列剧《龙之家族》历时数百年之久干净利落地回到了维斯特洛的复杂历史中。它巧妙地刻画了一直在变化莫测的人物动机。另外，它还在设法解决作者乔治·R-R·马丁对2019年播出的《权力的游戏》系列的不满。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1312937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [红旗三款新能源概念车Sedan EV、SUV EV和E-LS发布](https://www.cnbeta.com/articles/tech/1312841.htm) | Tue Sep 06 2022 2:04 AM 
+- 🎊 [研究揭示南极洲“末日冰川”迅速退缩的危险状态](https://www.cnbeta.com/articles/science/1312935.htm) | Tue Sep 06 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月5日，红旗品牌元宇宙盛典线上开启，中国一汽董事长、党委书记徐留平以虚拟人物的形象出现在元宇宙中，通过虚拟声音为大家介绍了红旗新能源战略、超级电动智能平台和三款新能源概念车，&lt;strong&gt;它们分别是新红旗Sedan EV、新红旗SUV EV和新红旗E-LS&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1312841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;科学家们已经部署了一艘先进的机器人潜艇，以获得对南极洲西部思韦茨冰川&lpar;Thwaites Glacier&rpar;的新视角，这些突破性的海底图像以新的细节突出了其危险的状态。&lt;/strong&gt;该研究显示，该冰川在过去经历了快速退缩，科学家们现在预计在未来会再次看到，这可能会对全球海平面产生重要影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1312935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
