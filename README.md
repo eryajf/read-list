@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google的下一次Pixel硬件发布会活动定于10月6日举办](https://www.cnbeta.com/articles/tech/1313221.htm) | Tue Sep 06 2022 4:37 PM 
+- 🕯 [鄱阳湖进入极枯水期 水位低于8米创下73年来新纪录](https://www.cnbeta.com/articles/tech/1313223.htm) | Tue Sep 06 2022 6:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据央视报道，来自江西省水文监测中心的消息显示，&lt;strong&gt;9月6日8时，我国第一大淡水湖鄱阳湖代表站星子站的水位退至7.99米，为1951年有记录以来历史同期最低水位。&lt;/strong&gt;至此，鄱阳湖正式进入极枯水位&lpar;低于8米&rpar;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Google的下一次Pixel硬件发布会活动定于10月6日举办](https://www.cnbeta.com/articles/tech/1313221.htm) | Tue Sep 06 2022 4:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当我们在为苹果的大秀做准备时，Google提前发出了下一个大型Pixel活动的邀请函，公司今年下半年的发布会将于10月6日在布鲁克林举行，当地时间上午10点开始。我们可以在本次发布会期待什么呢？首先，该公司在春季发布Pixel 6a时已经向我们预告了第七代机型。虽然Google近年来在该领域取得了一些巨大的进步（Pixel 6比5有了很大的飞跃），但最大的新闻几乎肯定是Pixel Watch。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [8月安卓手机好评榜：K50至尊版冲上前三](https://www.cnbeta.com/articles/tech/1313219.htm) | Tue Sep 06 2022 4:31 PM 
+- 💂 [8月安卓手机好评榜：K50至尊版冲上前三](https://www.cnbeta.com/articles/tech/1313219.htm) | Tue Sep 06 2022 4:31 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;安卓性能和性价比榜单之后，就是最后的好评榜了，好评榜每次的变化不如前两份榜单那样，每次都能“天翻地覆”，主要好评率是得靠累积才能引起质变上榜，所以会有两种情况，一旦上榜了就下不来，或者一旦下榜了，就再也没机会上去。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [2022中国企业500强排名发布：论赚钱腾讯第4、华为第7](https://www.cnbeta.com/articles/tech/1313217.htm) | Tue Sep 06 2022 4:31 PM 
+- 🚀 [2022中国企业500强排名发布：论赚钱腾讯第4、华为第7](https://www.cnbeta.com/articles/tech/1313217.htm) | Tue Sep 06 2022 4:31 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月6日，中国企业联合会发布了“2022中国企业500强”榜单，总收入首次突破百万亿元，已经与美国500强基本相当。&lt;strong&gt;本届500强营业收入总额102.48万亿元&lpar;相当于美国500强的97.74％&rpar;&lt;/strong&gt;，比上年增加12.65万亿元，增幅为14.08％，其中入门门槛446.25亿元，比上年提高53.89亿元，增幅13.74％。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [香港现首例猴痘输入病例 经检测确认属于输入性个案](https://www.cnbeta.com/articles/tech/1313215.htm) | Tue Sep 06 2022 4:30 PM 
+- 🎊 [香港现首例猴痘输入病例 经检测确认属于输入性个案](https://www.cnbeta.com/articles/tech/1313215.htm) | Tue Sep 06 2022 4:30 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据央视总台大湾区之声报道，9月6日，香港特区政府卫生署卫生防护中心宣布，&lt;strong&gt;9月5日，香港发现1例怀疑输入性猴痘个案，9月6日经检测确认为猴痘确诊个案。该病例未进入社区，属于输入性个案。&lt;/strong&gt;根据通报，病例为30岁男性，9月5日从菲律宾经香港国际机场抵港，在隔离酒店检疫期间出现皮疹等猴痘相关病征，经过复检核实后确诊，现已被送往香港玛丽医院就诊。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [高通公司宣布推出骁龙6代Gen 1和骁龙4代Gen 1芯片](https://www.cnbeta.com/articles/tech/1313213.htm) | Tue Sep 06 2022 4:30 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今天，高通公司宣布了其面向中端市场的骁龙6代Gen1和入门级的骁龙4代Gen1芯片。&lt;/strong&gt;6代Gen 1采用4纳米制造工艺，而更实惠的SD 4代Gen 1则保持在6纳米节点上。首批搭载SD 6 Gen 1的终端预计将在2023年第一季度面世，而SD 4 Gen 1将在本季度首次亮相。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
