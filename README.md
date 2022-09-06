@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [探索编译软件栈新范式；高端GPU禁售的影响｜AI系统前沿动态](https://juejin.cn/post/7140154286402437127) | Tue Sep 06 2022 6:45 AM 
+- 🤗 [在Chrome浏览器中最快速实现吸色器（颜色吸管）的方法](https://juejin.cn/post/7140172562314559502) | Tue Sep 06 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-    高端GPU禁售传闻声起，BAT们遭遇紧张时刻 互联网企业成为此次制裁波及的主要对象。行业人士指出，互联网厂商出于对性能等因素考虑，对国产CPU、GPU普遍接纳度不高，此次事件应为互联网厂商预警…… 
+    说到网页拾色器（颜色吸管工具）在前端的实现方法，通常我们会想到先进行网页截图，然后通过Canvas绘制截图，此时利用Canvas所提供的的API即可解析出图片每个像素点颜色，最后通过获取鼠标定位，得到 
     </details> 
 
-- 🎡 [封装好用的后台组件（1）](https://juejin.cn/post/7140154133591359496) | Tue Sep 06 2022 6:44 AM 
+- 🎡 [Go WASM：如何在 Go 中访问 DOM API？](https://juejin.cn/post/7140170612562984968) | Tue Sep 06 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-    1、目的 为啥 需要将这边拿出来？ 做个记录 帮助其他人 更多的学习思路 ps: 基于 element ui&lpar;需在项目中引入&rpar; 注意 更多 展示 思路， 非直接 拷过去使用 ， 非完美版本 ， 还有很 
+    在上一篇文章中，我们讲解了如何通过 JavaScript 调用 Go 编写的函数。 这一篇文章主要介绍如何在 Go 中访问 DOM API。 
     </details> 
 
-- 🕯 [没错，TheRouter 是我写的](https://juejin.cn/post/7140153936295493668) | Tue Sep 06 2022 6:44 AM 
+- 🕯 [阿里云丁宇：以领先的云原生技术，激活应用构建新范式](https://juejin.cn/post/7140169886084366366) | Tue Sep 06 2022 7:46 AM 
     <details><summary>展开描述 ...</summary> 
-    没错，货拉拉开源的路由库 —— TheRouter 是我写的 大约在17年底到18年初的时候，我经常会讲一些当时做模块化开发的心得和踩坑历程。比如这几篇都是那时候写的：《Android 模块化平台设计 
+    未来，希望更多企业通过云原生产品技术，激活企业应用构建范式，全面释放生产力，实现数字化创新升级。。。 
     </details> 
 
-- 🚀 [Elasticsearch：从零开始创建一个 REST handler 插件](https://juejin.cn/post/7140153468697706527) | Tue Sep 06 2022 6:43 AM 
+- 🚀 [优化实战 第47期 - 基于密码学的安全知识](https://juejin.cn/post/7140165746696388644) | Tue Sep 06 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-    在 Kibana 的 console 中，我们可以使用一些命令对 Elasticsearch 进行交互。那么我们是否可以扩展我们需要的一些命令呢？比如： 在上面，我们打入 GET _cat/examp 
+    密码学是各种安全应用程序所必须的，现代密码学旨在创建通过应用数学原理和计算机科学来保护信息的机制。但相比之下，密码分析旨在解密此类机制，以便获得对信息的非法访问 
     </details> 
 
-- 💪 [Node.js的多版本管理工具之nvm](https://juejin.cn/post/7140151675926347789) | Tue Sep 06 2022 6:35 AM 
+- 💪 [推荐一款前端神器-UI稿可以智能生成前端代码](https://juejin.cn/post/7140165144008458254) | Tue Sep 06 2022 7:28 AM 
     <details><summary>展开描述 ...</summary> 
-    nvm是Node.js版本管理的实用程序，通常有些项目必须依赖不同版的 NodeJS 运行环境，此时nvm应运而生，用于管理node的版本以及能很方便的进行node版本的切换。 
+    每年的双十一、双十二购物狂欢节，我们都可以在各大电商平台看到漂亮且内容丰富的活动页面，而这些页面大部分也都是静态页面，只为商品提供一个购买的入口，前端程序员拿到设计稿后，便开始无聊繁琐的&quot;切图&quot;工作。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
