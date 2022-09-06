@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AAEON推出板载英特尔Alder Lake CPU的GENE-ADP6单板计算机](https://www.cnbeta.com/articles/tech/1313105.htm) | Tue Sep 06 2022 9:17 AM 
+- 🕯 [参与GTC有望获得黄仁勋签名版RTX 3090显卡](https://www.cnbeta.com/articles/tech/1313119.htm) | Tue Sep 06 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AAEON发布的新GENE-ADP6单板计算机功能得到全面增强，为边缘计算、数字标牌和机器视觉应用打开了大门，通过英特尔第12代酷睿/赛扬CPU（原Alder Lake-P）提供了15%的CPU性能提升，其特点是混合平台处理器架构，最多有12个内核和16个线程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，NVIDIA官方宣布，&lt;strong&gt;将为即将召开的GTC 2022准备一批独特的礼物，这其中就包含了一款NVIDIA CEO黄仁勋签名版的RTX 3090公版显卡。&lt;/strong&gt;据悉，&lt;strong&gt;官方会从报名者中抽选幸运参与者，送出签名版显卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华为发布问界M5 EV：续航最高620公里 28.86万起](https://www.cnbeta.com/articles/tech/1313103.htm) | Tue Sep 06 2022 9:12 AM 
+- 💼 [西欧国家在宽带速度排行榜中占主导地位](https://www.cnbeta.com/articles/tech/1313117.htm) | Tue Sep 06 2022 9:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月26日，华为正式发布AITO问界M5 EV，该车是华为AITO品牌首款纯电动车型。&lt;strong&gt;问界M5 EV共推出两款车型，标准版（后驱）28.86万元、性能版（四驱）31.98元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;西欧国家占据了世界上宽带速度最快的前十名中的七个，澳门地区、台湾地区和日本是其他地方唯一进入世界最快前十名的地方。世界上互联网速度最快的五个区域是：澳门地区（262.74Mbps）、泽西岛海峡（256.59Mbps）、冰岛（216.56Mbps）、列支敦士登（166.22Mbps）和直布罗陀（159.90Mbps）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [诺贝尔奖得主Gregg Semenza撤回四篇论文](https://www.cnbeta.com/articles/science/1313101.htm) | Tue Sep 06 2022 9:10 AM 
+- 💂 [研究人员利用钻石量子传感器延长了EV续航里程](https://www.cnbeta.com/articles/tech/1313115.htm) | Tue Sep 06 2022 9:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一位共享了2019年诺贝尔医学或生理学奖的约翰-霍普金斯大学研究人员从《美国国家科学院院刊&lpar;PNAS&rpar;》上撤回了四篇论文&lt;/strong&gt;，原因是对文章中的图像感到担忧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;电动汽车&lpar;EV&rpar;作为传统汽油内燃机汽车的环保替代品，其受欢迎程度一直在上升。这就引发了针对开发高效EV电池的主要研究工作。然而电动汽车的一个重要低效率则是由对电池电量的不准确估计造成。通过测量电池的电流输出以评估电动车电池的充电状态这种方法被用来计算车辆的剩余驾驶里程的估计值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究：大声打鼾可能会增加患癌症的风险并导致精神处理能力下降](https://www.cnbeta.com/articles/science/1313099.htm) | Tue Sep 06 2022 9:00 AM 
+- 🚀 [历时1730天 油管博主手动挖空《我的世界》中全部方块](https://hot.cnbeta.com/articles/game/1313113.htm) | Tue Sep 06 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据9月5日在西班牙巴塞罗那举行的欧洲呼吸学会（ERS）国际会议上公布的一项大型研究，&lt;strong&gt;患有阻塞性睡眠呼吸暂停（OSA）的人患癌症的风险增加。&lt;/strong&gt; 虽然不是每个打鼾的人都患有阻塞性睡眠呼吸暂停，但大声打鼾是这种情况的一个常见症状。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，油管博主Minthical在历时1730天后，手动挖空了《我的世界》游戏世界中全部的方块，共挖了大约4700万个方块，可谓游戏界的“愚公”，这也让他成为这项挑战成功的第一人。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [字节跳动缩减上海和杭州游戏业务 裁员上百](https://hot.cnbeta.com/articles/game/1313097.htm) | Tue Sep 06 2022 8:55 AM 
+- 🎊 [Epic回怼中量大学校长游戏毒品论](https://hot.cnbeta.com/articles/game/1313111.htm) | Tue Sep 06 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据《南华早报》报道，经营着热门抖音 App 的公司字节跳动目前正在“积极缩减”其游戏业务。&lt;/strong&gt;该媒体引用消息人士称，此次裁员人数多达上百名。据称，字节跳动已经从其位于上海的开发商无双工作室解雇了大部分员工，要么通过裁员，要么将员工转移到公司的其他部门。消息人士还表示，总部位于杭州的开发商江南工作室同样正在裁员。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们此前曾报道中国计量大学校长徐江荣于8月29日2022级新生开学典演讲中游戏毒品论的新闻，校长徐江荣在演讲中提到网络游戏是最大的校园毒品，每年被取消学籍的同学90%因为游戏，100%不值得同情。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
