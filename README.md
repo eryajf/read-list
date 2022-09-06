@@ -401,7 +401,7 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [App+1 | 为笔记本 CPU 减负，让 Windows 11 的续航加分：Energy Star X](https://sspai.com/post/75565) | Tue Sep 06 2022 7:00 AM 
+- 👹 [App+1 | 为笔记本 CPU 减负，让 Windows 11 的续航加分：能源之星 X](https://sspai.com/post/75565) | Tue Sep 06 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     让 Windows 11 的任务管理器飘满文明的「小绿叶」。&lt;a href=&quot;https://sspai.com/post/75565&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
