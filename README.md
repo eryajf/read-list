@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从底座重建OS内核理论和架构：分布式内核](https://juejin.cn/post/7140189095141212197) | Tue Sep 06 2022 9:01 AM 
+- 🤗 [Koordinator 0.6：企业级容器调度系统解决方案，引入 CPU 精细编排、资源预留与全新的重调度框架](https://juejin.cn/post/7140198049741013000) | Tue Sep 06 2022 9:36 AM 
     <details><summary>展开描述 ...</summary> 
-    我为什么要设计分布式内核OS？ 设计分布式内核OS的初衷，希望从最底层重建操作系统内核理论和架构，为内核的发展出一份来自中国的力量！ 
+    经过社区多位成员的贡献，Koordinator 0.6 版本正式发布。相较于上一个版本 0.5，新版本进一步完善了 CPU 精细化编排能力，更好的兼容原生用法；支持了资源预留的能力（Reservati 
     </details> 
 
-- 🎡 [观察者模式：包工头的救赎](https://juejin.cn/post/7140187988826259463) | Tue Sep 06 2022 8:56 AM 
+- 🎡 [使用verdaccio+docker搭建npm私有仓库以及使用](https://juejin.cn/post/7140193996147523621) | Tue Sep 06 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-    观察者模式：定义对象间的一种一对多的依赖关系，使得每当一个对象改变状态，则所有依赖于它的对象都会得到通知并被自动更新。 
+    前置条件 一台电脑 可以联网 一、安装docker 使用的windows版本的 docker Desktop, 可以直接去 docker Desktop 官方网站去下载，下载完成后正常安装就可以了。  
     </details> 
 
-- 🕯 [验证一个小小的问题](https://juejin.cn/post/7140187597803880455) | Tue Sep 06 2022 8:54 AM 
+- 🕯 [React Native 0.70 版本发布，Hermes 成为默认引擎](https://juejin.cn/post/7140193508916199454) | Tue Sep 06 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-    在之前的文章提到过一个问题，而且网上很多文章也是这么说的，前几天有人对这个问题提出了一点不同的意见，抱着谨慎的态度做了一个测试。 问题是这样的：COMPACT格式下，NULL值列表是否一定会占用一个字 
+    经过近两个月的优化后，React Native发布了0.70版本，主要带来了如下的一些功能： 新架构涉及的文档的更新； Hermes 作为默认引擎 Codegen 新的统一配置 Android 库自动 
     </details> 
 
-- 🚀 [前端优化性能 —— 用 preload 和 prefetch 预加载脚本](https://juejin.cn/post/7140186469687099428) | Tue Sep 06 2022 8:50 AM 
+- 🚀 [分享 11 张巨好看的PC端界面！！！](https://juejin.cn/post/7140193310966022175) | Tue Sep 06 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-    preload 和 prefetch 是使用 &lt;link&gt; 进行 js 预加载的两种方式。这两种方式有什么不一样？他们会不会阻塞 DOM 就绪和 load？让我们一起来尝试。 
+    今天给大家带来了11张我觉得不论从视觉效果还是页面布局的维度都特别nice的11个pc偏管理端的界面，希望大家可以在平时开发没有灵感时用来做参考。 
     </details> 
 
-- 💪 [谈谈前端性能优化的常见手段及知识原理](https://juejin.cn/post/7140185024653066271) | Tue Sep 06 2022 8:45 AM 
+- 💪 [从Vuex到Pinia](https://juejin.cn/post/7140192034647703583) | Tue Sep 06 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-    在前端发展日新月异的今天，我们前端能做的事情越来越多，但随之而来的是我们的项目越来越大，功能越来越复杂，这个时候前端性能优化避免不了的话题。本文将带大家一起学学前端的性能优化手段以及原理 
+    在开发Vue项目时，我们一般使用Vuex来进行状态管理，但是在使用Vuex时始终伴随着一些痛点。比如：需要使用Provide/Inject来定义类型化的Inject...... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
