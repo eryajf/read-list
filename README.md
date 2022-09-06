@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [集成百家所长的 Matter，也是智能家居的未来（系列文章之一）](https://sspai.com/prime/story/matter-explained-01) | Tue Sep 06 2022 2:58 AM 
+- 👹 [App+1 | 为笔记本 CPU 减负，让 Windows 11 的续航加分：Energy Star X](https://sspai.com/post/75565) | Tue Sep 06 2022 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    让 Windows 11 的任务管理器飘满文明的「小绿叶」。&lt;a href=&quot;https://sspai.com/post/75565&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [集成百家所长的 Matter，也是智能家居的未来（系列文章之一）](https://sspai.com/prime/story/matter-explained-01) | Tue Sep 06 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
     在这组新的连载文章中，我们将会与大家一起探究 matter 这个协议的前世今生以及其核心的技术优势，希望帮助大家更好地认识这个协议、更有针对性地选购智能家居产品。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/matter-explained-01&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [派早报：LG 推出新款 XBOOM 360 / Go 蓝牙音箱、NIO Air AR Glasses 正式发布等](https://sspai.com/post/75558) | Tue Sep 06 2022 12:52 AM 
+- 🤭 [派早报：LG 推出新款 XBOOM 360 / Go 蓝牙音箱、NIO Air AR Glasses 正式发布等](https://sspai.com/post/75558) | Tue Sep 06 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
     小米米家户外电源 1000 Pro 开启预售，中国卫通 SatZone 服务平台已开通试运行等&lt;a href=&quot;https://sspai.com/post/75558&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/75553) | Mon Sep 05 2022 10:22 AM 
+- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/75553) | Mon Sep 05 2022 10:22 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75553&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [把 AI 作画引擎搬进家用电脑：Stable Diffusion 配置与使用指南](https://sspai.com/post/75544) | Mon Sep 05 2022 8:04 AM 
+- 🙉 [把 AI 作画引擎搬进家用电脑：Stable Diffusion 配置与使用指南](https://sspai.com/post/75544) | Mon Sep 05 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
     Stable Diffusion 还不能作为生产力工具，但它让设计变得简单，也让更多普通人打开了 AI 绘画的可能性。&lt;a href=&quot;https://sspai.com/post/75544&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [一日一技 | 如何给自制电子书添加脚注](https://sspai.com/post/75170) | Mon Sep 05 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    因为有在 Kindle 里看网络小说的习惯，但是通过脚本下载的文档通常都是将其放在章节末尾，阅读时需要反复查阅，配合上墨水屏缓慢的反应速度，阅读体验实在称不上好。于是就萌生了「把注释加进正文」的想法。既然 Kindle 商店里的正规出版物都有这样的功能，那用电子书编辑器是不是也能做到？&lt;a href=&quot;https://sspai.com/post/75170&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
