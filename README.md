@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [已经失传的神秘语言 神秘的线性埃拉姆语&lpar;Linear Elamite&rpar;接近被破译](http://jandan.net/p/111247) | Mon Sep 05 2022 3:59 PM 
+- 🚀 [明天 比特币最大的对手以太坊将正式淘汰工作量证明模型，从此再无以太坊矿工](http://jandan.net/p/111308) | Tue Sep 06 2022 4:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    加密货币领域将经历自诞生以来最大的变革。 
+    </details> 
+
+- 🙉 [吸一下就能获得对新冠病毒的抵抗力 国内批准了全球首款无针雾化疫苗作为加强“针”](http://jandan.net/p/111306) | Tue Sep 06 2022 3:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    就是第三针或第四针 
+    </details> 
+
+- 🎉 [今日好价 0906](http://jandan.net/p/111307) | Tue Sep 06 2022 3:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
+    </details> 
+
+- 🐲 [已经失传的神秘语言 线性埃拉姆语&lpar;Linear Elamite&rpar;接近被破译](http://jandan.net/p/111247) | Mon Sep 05 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
     一些专家对此持怀疑态度 
     </details> 
 
-- 🙉 [灾难期间的社会人口流动模型](http://jandan.net/p/111245) | Mon Sep 05 2022 12:01 PM 
+-  [灾难期间的社会人口流动模型](http://jandan.net/p/111245) | Mon Sep 05 2022 12:01 PM 
     <details><summary>展开描述 ...</summary> 
     结论非常合乎直觉：低收入人群即便在共危机事件中，也要每日大量的奔波 
-    </details> 
-
-- 🎉 [哑铃力量训练 规律性比持续时间更重要](http://jandan.net/p/111159) | Mon Sep 05 2022 9:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    肌肉需要休息以提高力量和肌肉质量，但肌肉似乎又喜欢更频繁地受到刺激。 
-    </details> 
-
-- 🐲 [相隔14000公里的座头鲸唱着同一首“网红”歌](http://jandan.net/p/111304) | Mon Sep 05 2022 4:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    吃着鱼儿唱着歌 
-    </details> 
-
--  [今日好价 0905](http://jandan.net/p/111303) | Mon Sep 05 2022 2:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
