@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [索尼互娱向USC黑人土著学生基金捐赠3百万美元](https://hot.cnbeta.com/articles/game/1313427.htm) | Wed Sep 07 2022 4:42 AM 
+- 🕯 [iPhone 14四款新机售价抢先曝光](https://www.cnbeta.com/articles/tech/1313451.htm) | Wed Sep 07 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，USCGames（南加州大学游戏）宣布索尼互动娱乐公司向其Gerald A. Lawson 捐赠基金捐赠了300 万美元。该捐赠基金是与Take-Two 合作建立的，于2021 年启动，旨在增加黑人和原住民在游戏和科技行业的代表性。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月8日凌晨1点，苹果要举行新品发布会，而主角当然是iPhone 14，而从之前曝光的细节看，这也是四款机型，售价依然是大家最关心。&lt;strong&gt;据9to5Mac报道，现在供应链再次给出了即将发布的iPhone 14的价格信息，基本上跟之前曝光的一样，无锁版的机器是749美元起，而对应的首批发售的国行应该价格是5999元，而Pro对应的是8999元起步。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [经典《凡尔赛玫瑰》确定制作全新动画电影 先导预告公开](https://hot.cnbeta.com/articles/comic/1313425.htm) | Wed Sep 07 2022 4:34 AM 
+- 💼 [华为Mate 50系列备件价格出炉：RS版单主板能买一台iPhone 13](https://www.cnbeta.com/articles/tech/1313449.htm) | Wed Sep 07 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;2022年是日本经典少女漫画《凡尔赛玫瑰》诞生50周年，官方宣布确定制作全新动画电影，上映日期未定，同时最新海报以及先导预告公开，一起来先睹为快。&lt;/strong&gt;《凡尔赛玫瑰》是池田理代子于1972年开始在周刊《玛格丽特》上连载以法国大革命为背景的浪漫历史剧，作品获得巨大成功并被改编为TV动画、真人电影以及舞台剧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1313425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在华为秋季新品发布会上，华为Mate 50系列发布，这是Mate系列迄今最强悍的机型。华为公布了Mate 50系列备件官方维修价格，不同机型价格也不同。作为最高端的机型，&lt;strong&gt;Mate 50 RS保时捷设计的一块主板就要6499元，这个价格足以买一部全新的iPhone 13（128GB）了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《英雄联盟：双城之战》荣获艾美杰出动画节目奖](https://hot.cnbeta.com/articles/comic/1313423.htm) | Wed Sep 07 2022 4:22 AM 
+- 💂 [《睡魔》作者反呛马斯克：他不会找我商量如何把收购推特搞砸](https://www.cnbeta.com/articles/tech/1313447.htm) | Wed Sep 07 2022 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日动画制作公司 FortcheProduction 宣布，他们所制作的基于拳头《英雄联盟》系列游戏改编的动画剧集《双城之战》赢得了艾美杰出动画节目奖。据 Eurogamer 报道，这是第一个在该类别中获胜的流媒体平台动画剧集。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1313423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;托尔金死硬分子对亚马逊的《指环王：力量之戒》并不满意，试图以差评拉低该剧评分，马斯克不失时机地煽风点火：“托尔金的棺材板盖不住了，剧中男性角色不是胆小鬼就是蠢货，唯独凯兰崔尔有勇有谋，秀外慧中。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《索尼克：未知边境》公开片尾曲Vandalize试听MV](https://hot.cnbeta.com/articles/music/1313421.htm) | Wed Sep 07 2022 4:12 AM 
+- 🚀 [美国计划将COVID疫苗转变为类似于流感疫苗的年度疫苗](https://www.cnbeta.com/articles/science/1313445.htm) | Wed Sep 07 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天（9月7日）一早，SEGA官方频道公开了开放世界动作游戏《索尼克：未知边境》的游戏片尾曲Vandalize，一起来试听一下吧。游戏片尾曲Vandalize由日本组合“ONE OK ROCK”制作，是一首具有速度感，与索尼克角色酷帅形象非常吻合的曲子。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1313421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国卫生官员于当地时间周二表示，美国可能开始会每年推荐COVID-19疫苗，因为旨在对抗目前流行的新冠病毒变种的新加强针已经推出。&lt;/strong&gt;美国卫生部长Xavier Becerra在白宫的一次简报会上表示，到本周末，90%的美国人将生活在5英里（8公里）以内有更新疫苗的地点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NASA韦伯太空望远镜捕捉到宇宙“蜘蛛”的图像](https://www.cnbeta.com/articles/science/1313419.htm) | Wed Sep 07 2022 4:09 AM 
+- 🎊 [本田中国/东风/广汽联合成立新公司 统一采购宁德时代电池](https://www.cnbeta.com/articles/tech/1313443.htm) | Wed Sep 07 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国宇航局（NASA）的詹姆斯-韦伯太空望远镜在一个名为剑鱼座30（30 Doradus）的恒星“苗圃”中发现了数千颗从未见过的年轻恒星。由于在以前的望远镜图像中出现了尘埃状的细丝，&lt;strong&gt;该星云被昵称为“蜘蛛星云”&lpar;Tarantula Nebula&rpar;，长期以来一直是研究恒星形成的天文学家的最爱。&lt;/strong&gt;除了年轻的恒星，韦伯还揭示了遥远的背景星系，以及星云的气体和尘埃的详细结构和组成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新能源是汽车行业炙手可热的明星，而以宁德时代为首的动力电池企业也从中获益良多。目前，大部分传统车企都在向电气化转型，因此与动力电池企业构建良好的供应关系是非常有必要的，本田便想到了这一点，也开始了行动。&lt;strong&gt;据了解，本田中国、东风、广汽将联合成立电池采购公司，与宁德时代确立长期采购体制。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
