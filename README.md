@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Watch Edition高端产品线停更 被爱马仕合作款取代](https://www.cnbeta.com/articles/tech/1313723.htm) | Wed Sep 07 2022 8:42 PM 
+- 🕯 [强势美元波及数字货币 比特币再跌破19000美元引发10亿大爆仓](https://www.cnbeta.com/articles/tech/1313737.htm) | Wed Sep 07 2022 11:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在推出Apple Watch八年后，苹果公司今天停产了该系列的高端产品线Edition系列。&lt;/strong&gt;这一变化发生在今天，Apple Watch Series 8和Apple Watch Ultra发布后，Apple Watch Series 7 Edition不再售卖，也没有Apple Watch Series 8 Edition。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;数字货币周三盘中再度大跌，比特币今天一度跌超5%，以太币跌幅一度超10%。随着爆仓数量骤增，世界最大的比特币矿池之一Poolin近日发表声明称，由于遇到流动性问题，已暂停提款、闪电交易和内部转账。美元走强不仅令非美货币持续走低，就连数字货币市场也难逃池鱼之灾。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果本季度的最便宜新品：一根挂绳 售价98元](https://www.cnbeta.com/articles/tech/1313721.htm) | Wed Sep 07 2022 8:40 PM 
+- 💼 [亚马逊CEO称目前没有强制要求工人返回办公室办公的计划](https://www.cnbeta.com/articles/tech/1313735.htm) | Wed Sep 07 2022 11:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天苹果举办的新品发布会上，共带来了共计8款新品：包括四款手机、三款手表、一款耳机。手机从5999元到13499元不等，手表从1999元到6299元不等，耳机（AirPods Pro 2）售价1899元。&lt;strong&gt;其中与AirPods Pro 2一同发布的，还有一根挂绳，售价98元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;亚马逊CEO Andy Jassy表示，该公司不打算命令企业员工返回办公室。&lt;/strong&gt;“我们没有计划要求人们回来。我们现在不会要求。但我们会在学习中适应性地进行，”他在洛杉矶的Code大会的舞台上说道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14美版干掉实体SIM卡转用eSIM 国行依然标配双卡](https://www.cnbeta.com/articles/tech/1313719.htm) | Wed Sep 07 2022 8:39 PM 
+- 💂 [DC发布电影《黑亚当》角色海报 明日公布全新预告](https://hot.cnbeta.com/articles/movie/1313733.htm) | Wed Sep 07 2022 11:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;eSIM虚拟卡已经提出很多年，但因为种种原因，一直没有普及开来。今天，苹果迈出了一大步，美版的iPhone 14将全系标配eSIM，彻底取消实体SIM卡槽。那么，国行呢？根据苹果官网信息，&lt;strong&gt;国行版的iPhone 14将全部配备两个nanoSIM卡槽，继续使用实体SIM卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;DC今天（9月8日）凌晨发布了电影《黑亚当》的角色海报，其中包括：黑亚当、鹰侠、命运博士、旋风、原子侠。另外，DC还透露该片的最新预告将于明天对外公开。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14发布会后 iPhone 12/13官方价格调降](https://www.cnbeta.com/articles/tech/1313717.htm) | Wed Sep 07 2022 8:39 PM 
+- 🚀 [iPhone 14 Pro还有个岛？一文看尽苹果2022秋季发布会](https://www.cnbeta.com/articles/tech/1313731.htm) | Wed Sep 07 2022 11:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着iPhone 14系列的发布，苹果也调整了在售手机产品线，简单来说，iPhone 13 Pro/Pro Max、iPhone 12 mini、iPhone 11这四款机型从官网下架。同时，&lt;strong&gt;iPhone 12（64GB）、iPhone 13 mini（128GB）的起步价调整为599美元，国行对应4699元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月8日凌晨，苹果召开2022秋季新品发布会，备受期待的iPhone 14系列、Apple Watch Series 8以及AirPods Pro第二代悉数发布，同时还有Apple Watch Ultra这样的全新产品序列登场。颇感意外的是，发布会之前备受“吐槽”的iPhone 14 Pro叹号屏，被苹果引入了全新的灵动岛交互，反而成为本次发布会的最大亮点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果iPhone 14 Pro暗紫新配色抢先上手](https://www.cnbeta.com/articles/tech/1313715.htm) | Wed Sep 07 2022 8:38 PM 
+- 🎊 [苹果公布iPhone重磅卫星功能 合作伙伴却经历大起大落](https://www.cnbeta.com/articles/tech/1313729.htm) | Wed Sep 07 2022 11:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果刚刚发布了iPhone 14 Pro和iPhone 14 Pro Max。它们是对去年的iPhone 13 Pro系列手机的重大升级。新品具有常亮屏幕、支持动画的灵动岛、更快的A16仿生芯片，甚至是升级4800万像素摄像头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司周三宣布为iPhone 14推出卫星通信功能，由卫星通信公司全球星&lpar;Globalstar&rpar;提供这项紧急服务。&lt;strong&gt;正是这条消息让全球星的股价经历了一次过山车。&lt;/strong&gt;一年多来，业界一直在传全球星将为苹果的iPhone卫星服务提供支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
