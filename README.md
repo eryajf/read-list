@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [给 Spotify 换个好看的皮肤：Spicetify 配置说明](https://sspai.com/post/75576) | Wed Sep 07 2022 3:16 AM 
+- 👹 [找到适合自己的「浏览器门面」，7 款启动页插件横评](https://sspai.com/post/75591) | Wed Sep 07 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    世上远不止这七个启动页插件，你在用哪款标签页插件呢？&lt;a href=&quot;https://sspai.com/post/75591&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [99 划算节，派商店又为你准备了这些周边和产品](https://sspai.com/post/75577) | Wed Sep 07 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    派商店叕打折了，99 划算节为你准备了这些周边和产品。&lt;a href=&quot;https://sspai.com/post/75577&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🤭 [给 Spotify 换个好看的皮肤：Spicetify 配置说明](https://sspai.com/post/75576) | Wed Sep 07 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     Spicetify 美观简洁，插件丰富，是 Spotify 用户的不错选择。&lt;a href=&quot;https://sspai.com/post/75576&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：华为发布多款新品、索尼将为 PS5 带来新配色等](https://sspai.com/post/75590) | Wed Sep 07 2022 1:03 AM 
+- 🥸 [派早报：华为发布多款新品、索尼将为 PS5 带来新配色等](https://sspai.com/post/75590) | Wed Sep 07 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
     星纪时代将推出消费级直连低轨卫星手机，Google 将 10 月 6 日举行秋季新品发布会等。&lt;a href=&quot;https://sspai.com/post/75590&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [开学季 | 少数派正版软件商城专属特惠活动，助你新学期有新气象](https://sspai.com/post/75561) | Tue Sep 06 2022 10:50 AM 
+- 🙉 [开学季 | 少数派正版软件商城专属特惠活动，助你新学期有新气象](https://sspai.com/post/75561) | Tue Sep 06 2022 10:50 AM 
     <details><summary>展开描述 ...</summary> 
     正值开学季，少数派软件商城为大家又特约了多款口碑、质量都非常优秀的相关应用的优惠活动，希望能够帮大家提升学习、工作的效率。&lt;a href=&quot;https://sspai.com/post/75561&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [App+1 | 为笔记本 CPU 减负，让 Windows 11 的续航加分：能源之星 X](https://sspai.com/post/75565) | Tue Sep 06 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    让 Windows 11 的任务管理器飘满文明的「小绿叶」。&lt;a href=&quot;https://sspai.com/post/75565&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [集成百家所长的 Matter，也是智能家居的未来（系列文章之一）](https://sspai.com/prime/story/matter-explained-01) | Tue Sep 06 2022 2:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    在这组新的连载文章中，我们将会与大家一起探究 matter 这个协议的前世今生以及其核心的技术优势，希望帮助大家更好地认识这个协议、更有针对性地选购智能家居产品。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/matter-explained-01&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
