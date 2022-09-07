@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [核灾难威胁是否夸大？IAEA公布扎波罗热核电站考察报告](https://www.cnbeta.com/articles/tech/1313523.htm) | Wed Sep 07 2022 7:39 AM 
+- 🕯 [撕掉三星Galaxy Z Fold4贴膜后折痕更不明显了 但官方不建议这么做](https://www.cnbeta.com/articles/tech/1313543.htm) | Wed Sep 07 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为近期俄乌冲突的一大焦点，欧洲最大核电站——扎波罗热核电站可谓牵动着全球的目光。&lt;/strong&gt;乌克兰总统泽连斯基日前曾警告，人们已处于距离核辐射灾难仅一步之遥的境地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，博主i冰宇宙实测，撕掉Galaxy Z Fold4屏幕保护膜之后，折痕看起来更不明显了。不过三星不建议这么操作，&lt;strong&gt;因为Galaxy Z Fold4的保护膜是三星从韩国光学膜材料厂商Segyung Hitech采购的一种特殊保护膜。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [拆解报告：Razer雷蛇灵刃280W氮化镓电源适配器RC30-042](https://www.cnbeta.com/articles/tech/1313521.htm) | Wed Sep 07 2022 7:36 AM 
+- 💼 [谷神星一号火箭转运发射车顺利完成验收交付](https://www.cnbeta.com/articles/science/1313541.htm) | Wed Sep 07 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Razer雷蛇是知名的游戏硬件厂商，旗下产品包括高性能游戏外设和Razer Blade灵刃系列笔记本电脑。本次拆解的产品是雷蛇灵刃系列笔记本的一款电源适配器，内置GaN Systems氮化镓器件，体积得到了很好的控制，相比传统的电源体积更小。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，星河动力航天公司顺利组织完成了谷神星一号商业火箭转运发射车验收试验，发射车各项指标满足要求，已具备出厂交付条件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英雄联盟首部宇宙设定小说将出版 简中版9月底开启预售](https://hot.cnbeta.com/articles/game/1313519.htm) | Wed Sep 07 2022 7:36 AM 
+- 💂 [马斯克：特斯拉尽力在年底前提升Powerwall储能系统的可用性](https://www.cnbeta.com/articles/tech/1313539.htm) | Wed Sep 07 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今日（9月7日），英雄联盟官方宣布英雄联盟首部宇宙设定小说《破败之咒》即将出版&lt;/strong&gt;，《破败之咒》的小说由拳头游戏首席编剧 Anthony Reynolds 创作，讲述了佛耶戈国王麾下的将军卡莉丝塔为了找到挽救伊苏尔德王后的办法，前去搜寻传说中古老魔法之地的故事。《破败之咒》简体中文版预计9月底开启预售。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;尽管美国和澳大利亚等市场的需求增长一直很强劲，但特斯拉 Powerwall 家庭储能系统的产量，仍然存在着相当大的缺口。&lt;/strong&gt;正如此前报道的那样，该公司用了大约 5 年时间，才完成了前十万套 Powerwall 系统的部署。但仅仅在 2020 年，该公司又部署了十万套以上的 Powerwall 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [贝索斯儿子曾警告父亲《力量之戒》口碑问题](https://hot.cnbeta.com/articles/movie/1313517.htm) | Wed Sep 07 2022 7:35 AM 
+- 🚀 [日本汉堡王与《暗黑不朽》联动推汉堡 美味体验](https://hot.cnbeta.com/articles/game/1313537.htm) | Wed Sep 07 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据 GameRant 报道，此前在《指环王：力量之戒》首映式上，杰夫·贝索斯曾分享他儿子对这部剧的建议：“别搞砸了。”&lt;/strong&gt;据Deadline报道，亚马逊创始人兼执行董事长出现在伦敦莱斯特广场的剧集首映式上。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日日本汉堡王宣布将与暴雪《暗黑破坏神：不朽》联动，推出“蒜味双层起士汉堡” 。这款汉堡将于2022年9月9日至9月29日发售。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [省流：价格超标，赶紧划走，苹果近年来的“新款”充电器](https://www.cnbeta.com/articles/tech/1313515.htm) | Wed Sep 07 2022 7:34 AM 
+- 🎊 [iPhone 14提前投产后 今年印度所产iPhone有望达到1200万部](https://www.cnbeta.com/articles/tech/1313535.htm) | Wed Sep 07 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果宣称为了减少全球碳排放量，从2020年10月起，所有在售iPhone均不再包含充电器和Lightning接头EarPods耳机。iPhone 12、iPhone 13系列自然皆在其中，为了给今年的iPhone 14系列让道，各大电商平台同样也是调整价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据国外媒体报道，上月底曾有消息人士透露，苹果今年将推出的iPhone 14，首发两个月后就计划开始在印度生产，较此前6-9个月的延迟时间将大幅缩短。&lt;/strong&gt;而iPhone 14在印度生产的时间提前，也有利于提升今年iPhone在印度的产量，更好的满足印度市场的需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
