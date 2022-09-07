@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何优雅地中断 Promise？来试试 AbortController 吧！](https://juejin.cn/post/7140558929750130719) | Wed Sep 07 2022 8:55 AM 
+- 🤗 [💯💯💯 原来 Base64 如此简单！！！](https://juejin.cn/post/7140571085610680334) | Wed Sep 07 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-    跟大家一起探索如何通过 AbortController 和 AbortSignal 从取消单个请求到取消多个请求；甚至是自己实现一个简单的可以取消的 Promise。感兴趣的同学快来看看呀~ 
+    作为前端开发者，我们在很多场景中会使用到 Base64，但很惭愧，笔者对其原理并不熟悉，导致在遇到实际问题时耗费了很多时间去 📌 定位问题。这篇文章，将对Base64 进行刨根问底，一探究竟。 
     </details> 
 
-- 🎡 [肝完这篇TCP/UDP八股文的你，哇！面试通过率真的很高！](https://juejin.cn/post/7140556561247633421) | Wed Sep 07 2022 8:46 AM 
+- 🎡 [提升 React 应用的安全性：从这几点入手](https://juejin.cn/post/7140273112741838861) | Tue Sep 06 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
-    TCP 是一个可靠数据传输的服务，它能确保接收端接收的网络包是无损坏、无间隔、非冗余和按序的。 TCP 状态位： 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第2篇文章，点击查看活动详情 React 的安全漏洞 目前的网络环境，共享的数据要比以往任何时候都多，对于用户而言，必须注意在使用应用程序中可能遇 
     </details> 
 
-- 🕯 [一个Behance被封，还有无数国内网站给我灵感](https://juejin.cn/post/7140552380474458148) | Wed Sep 07 2022 8:30 AM 
+- 🕯 [一颗红心,三手准备,分别基于图片&lpar;img&rpar;/CSS&lpar;样式&rpar;/SVG动画实现动态拉轰的点赞按钮特效](https://juejin.cn/post/7140255991538384932) | Tue Sep 06 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-    观前方星象，最近的设计圈并不太平，前有Figma封禁大疆设计团队账号，后有Behance封禁注册地在中国的个人设计账号。 说下Behance封号这事，真的可大可小。 2012年Behance被Adob 
+    华丽炫酷的动画特效总能够让人心旷神怡，不能自已。艳羡之余，如果还能够探究其华丽外表下的实现逻辑，那就是百尺竿头，更上一步了。本次我们使用图片、CSS样式以及SVG动画来实现“点赞”按钮的动画特效 
     </details> 
 
-- 🚀 [2022 年构建 React Monorepo 的最佳实践](https://juejin.cn/post/7140551971022307365) | Wed Sep 07 2022 8:29 AM 
+- 🚀 [选择 Go 还是 Rust？CloudWeGo-Volo 基于 Rust 语言的探索实践](https://juejin.cn/post/7140217577539633188) | Tue Sep 06 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-    什么才是构建生产级 React Monorepo 的最佳工具？ 我认为需要满足三个目标或者说解决三个问题： 1. 快速构建 2. 代码共享 3. 依赖关系 
+    本文整理自 CloudWeGo 开源一周年技术沙龙活动中吴迪的演讲分享。从三个方面介绍 CloudWeGo 开源的国内首个 Rust RPC 框架 Volo。 
     </details> 
 
-- 💪 [关于我抽不到月饼礼盒于是用代码做了一个（纯代码文本）](https://juejin.cn/post/7140471685525798926) | Wed Sep 07 2022 3:17 AM 
+- 💪 [网页视频autoplay兼容及解决方案](https://juejin.cn/post/7140192861873504287) | Tue Sep 06 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    简单介绍 事情起因大概是一星期前我看到掘金的抽奖活动里突然有了月饼和榨汁机这几个东西，我看到月饼礼盒的那一刻可谓一见钟情，迅速把攒下来的20几万矿石全部氪进去了，当我信心满满的去开奖的时候结果：花擦！ 
+    网页视频自动播放的局限 自动播放是指无需经过用户的同意就可以开始播放视频。非常遗憾的是，各个浏览器都为多媒体的自动播放设置了不尽相同的限制策略，也就意味着目前想要实现有良好兼容性的自动播放，是很难办到 
     </details> 
 <!-- juejin:END -->
 ### 少数派
