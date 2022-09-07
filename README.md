@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [ActionsHub - GitHub Actions - 管理您的 GitHub 操作](https://xinquji.com/posts/179322?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:27 AM 
+- 👀 [Convolo Power Dialer - B2B 电源拨号器将您的销售代表的结果提高 10 倍](https://xinquji.com/posts/179334?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     管理您的 GitHub 操作  
+     B2B 电源拨号器将您的销售代表的结果提高 10 倍  
     </details> 
 
-- 🥷 [Gratitude Forest - 感恩日记，但又可爱又有趣](https://xinquji.com/posts/179321?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:26 AM 
+- 🥷 [Landa - 为真实的人投资房地产](https://xinquji.com/posts/179333?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     感恩日记，但又可爱又有趣  
+     为真实的人投资房地产  
     </details> 
 
-- 💼 [ThreadMagic - 可能是在 LinkedIn 上流行的最简单方法](https://xinquji.com/posts/179320?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:25 AM 
+- 💼 [FANCYMMS - 为您的下一个 SMS 活动快速创建动画 MMS GIF](https://xinquji.com/posts/179332?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     可能是在 LinkedIn 上流行的最简单方法  
+     为您的下一个 SMS 活动快速创建动画 MMS GIF  
     </details> 
 
-- 🦅 [ClipDrop Relight - 使用 AI 在几秒钟内为您的照片添加壮观的灯光](https://xinquji.com/posts/179319?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:24 AM 
+- 🦅 [104 Ecommerce Newsletter Campaign Ideas - 包含 500 多个示例的 ecomm 活动创意集合](https://xinquji.com/posts/179331?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 AI 在几秒钟内为您的照片添加壮观的灯光  
+     包含 500 多个示例的 ecomm 活动创意集合  
     </details> 
 
-- 😺 [Horizon UI TypeScript - React 最流行的免费 TypeScript 管理模板](https://xinquji.com/posts/179318?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:23 AM 
+- 😺 [Unvalidated Ideas - 每周在您的收件箱中提供新的创业 /SaaS 创意](https://xinquji.com/posts/179330?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     React 最流行的免费 TypeScript 管理模板  
+     每周在您的收件箱中提供新的创业 /SaaS 创意  
     </details> 
 <!-- xinquji:END -->
