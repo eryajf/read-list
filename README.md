@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《斯普拉遁3》媒体评分解禁 M站均分84](https://hot.cnbeta.com/articles/game/1313657.htm) | Wed Sep 07 2022 2:45 PM 
+- 🕯 [Zen3不死！锐龙9 PRO 5945低调发布：12核心功耗仅65W](https://www.cnbeta.com/articles/tech/1313669.htm) | Wed Sep 07 2022 4:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《斯普拉遁3》即将在9月9日正式登陆Switch，有关该作的评分也已经解禁。截止发稿时，M站共有24家媒体评分，均分为84分。&lt;strong&gt;&lt;br/&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;部分媒体评测：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD官网低调上线了一款新U，型号锐龙9 PRO 5945，从名字就可以看出是面向商用整机领域，不会零售，这也是锐龙PRO 5000系列的第一款锐龙9。规格上，&lt;strong&gt;锐龙9 PRO 5945依然基于Zen3架构，12核心24线程，二级缓存6MB，三级缓存64MB，基准频率3.0GHz，最高加速频率4.7GHz，热设计功耗65W。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [游戏业务面临下滑压力 腾讯海外谋局增持法国老牌游戏商育碧](https://hot.cnbeta.com/articles/game/1313655.htm) | Wed Sep 07 2022 2:21 PM 
+- 💼 [Twitter正在扩大其实验性的社区管理制度“Birdwatch”](https://www.cnbeta.com/articles/tech/1313667.htm) | Wed Sep 07 2022 4:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继上周投资日本游戏公司 FromSoftware ，成为其第二大股东后，腾讯这周又出手投资了法国老牌游戏商育碧（Ubisoft），扩大其在海外游戏市场的布局。9月6日，育碧发表声明称，腾讯现以3亿欧元收购其最大股东Guillemot Brothers多达 49.9%的股份，获得5%的投票权，该公司由育碧联合创始人Yves Guillemot经营。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Twitter正在扩大其社区驱动的内容审核计划--Birdwatch，周三将覆盖面扩大到所有美国用户的一半。Twitter去年首次推出Birdwatch，目的是让用户为可能产生误导的推文提供额外的背景。该计划的成员被要求为帖子写上背景说明，或提供出现在用户反馈中的相关信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果发布会在即 库克晒“彩虹”照片 iPhone 14 Pro拍的？](https://www.cnbeta.com/articles/tech/1313653.htm) | Wed Sep 07 2022 2:20 PM 
+- 💂 [都2022了 日本还在用软盘？](https://www.cnbeta.com/articles/tech/1313665.htm) | Wed Sep 07 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月8日凌晨1点，苹果秋季新品发布会就要开始了，众所期待的iPhone 14系列将正式登场。赶在发布会前，&lt;strong&gt;苹果CEO库克晒出了一张照片，内容是一道彩虹风景照，并配文：“早上好，期待精彩的苹果大事。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日本要向软盘宣战了？该国数字大臣河野太郎在Twitter上公开表示：日本政府有太多业务都需要人们通过软盘、CD等老设备来提交表格和申请了，数量高达1900个！现在，他们要更改规定，弃用软盘，让大家进行在线提交！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Xbox Elite 2手柄将于今年晚些时候支持在Xbox设计实验室进行定制](https://hot.cnbeta.com/articles/game/1313651.htm) | Wed Sep 07 2022 2:09 PM 
+- 🚀 [哈苏X2D 100C中画幅相机发布：1亿像素+1TB存储 售价5.49万元](https://www.cnbeta.com/articles/tech/1313663.htm) | Wed Sep 07 2022 3:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软将在今年晚些时候把Xbox Elite 2手柄带到该公司的Xbox设计实验室，这意味着Xbox用户将能够以目前对现有Xbox系列S/X手柄的相同方式订购Xbox Elite 2的定制颜色版本。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月7日晚，哈苏正式发布中画幅相机X2D 100C&lt;/strong&gt;，具备1亿像素、5轴7档防抖、PDAF相位对焦、1TB内置SSD等卖点，售价54900元。&lt;strong&gt;这款相机搭载1亿像素背照式中画幅传感器&lt;/strong&gt;，原生ISO感光度低至64，16位色深可呈现约281万亿种色彩，15级动态范围保留丰富的明暗细节，实现平滑自然的过渡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微软发布新款Xbox Elite 2&quot;Core&quot;手柄 价格129.99美元更实惠](https://www.cnbeta.com/articles/tech/1313649.htm) | Wed Sep 07 2022 2:04 PM 
+- 🎊 [报道称基于M2 Pro/Max处理器的MacBook Pro的生产遭遇砍单](https://www.cnbeta.com/articles/tech/1313661.htm) | Wed Sep 07 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软今天宣布推出新的Xbox Elite 2 Core手柄，它的价格比现有的Xbox Elite 2低50美元。Xbox Elite Wireless Controller Series 2 - Core（是的，这是它的全名！）今天可以预购，价格为129.99美元，但它不包括上一代自带的可更换组件，因此必须单独购买这些组件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;天风证券分析师郭明錤认为，在生产开始之前，苹果已经将M2 Pro和M2 Max MacBook Pro订单与之前的预测相比减少了20%至30%。&lt;/strong&gt;这位经验丰富的行业分析师说，他对供应链成员的最新调查显示，苹果已经减少了第四季度的14英寸MacBook Pro和16英寸MacBook Pro订单。这些将是在2023年春季推出的新机型，预测将采用新的M2处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
