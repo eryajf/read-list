@@ -364,8 +364,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何将 vuetify 里的 progresslinear 进度条组件跟 axios 的请求请求拦截器，响应拦截器结合起来呢](https://www.v2ex.com/t/878497#reply0) | Wed Sep 07 2022 6:54 PM
-- 🤗 [所以，苹果最终还是自己打了自己 Human Interface Guidelines 的脸…](https://www.v2ex.com/t/878488#reply30) | Wed Sep 07 2022 6:16 PM
+- 🥸 [如何将 vuetify 里的 progresslinear 进度条组件跟 axios 的请求请求拦截器，响应拦截器结合起来呢](https://www.v2ex.com/t/878497#reply3) | Wed Sep 07 2022 6:54 PM
+- 🤗 [所以，苹果最终还是自己打了自己 Human Interface Guidelines 的脸…](https://www.v2ex.com/t/878488#reply38) | Wed Sep 07 2022 6:16 PM
 - 🎭 [nginx 的 proxy_pass 后端一个 upstream 多个动态 IP 怎么破？](https://www.v2ex.com/t/878478#reply1) | Wed Sep 07 2022 4:14 PM
 - 🥷 [9 月 14 的谷歌开发者线下大会在上海举办，有同学收到邀请函了吗？](https://www.v2ex.com/t/878473#reply0) | Wed Sep 07 2022 3:22 PM
 - 🐵 [expo 如何设置 web 的端口？](https://www.v2ex.com/t/878472#reply0) | Wed Sep 07 2022 3:18 PM<!-- v2ex:END -->
