@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [兆懿/卓懿 - 一个可以让所有安卓APP在Windows/Linux上用的软件](https://xinquji.com/posts/179146?utm_campaign=xinquji-rss) | Wed Sep 07 2022 9:41 AM 
+- 👀 [ActionsHub - GitHub Actions - 管理您的 GitHub 操作](https://xinquji.com/posts/179322?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     一个可以让所有安卓APP在Windows/Linux上用的软件  
+     管理您的 GitHub 操作  
     </details> 
 
-- 🥷 [网费很贵 - 网费很贵是一款用于上网时间统计的浏览器插件，你可以在 Firefox，Chrome 和 Edge 中安装并使用它。](https://xinquji.com/posts/179264?utm_campaign=xinquji-rss) | Wed Sep 07 2022 9:41 AM 
+- 🥷 [Gratitude Forest - 感恩日记，但又可爱又有趣](https://xinquji.com/posts/179321?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     网费很贵是一款用于上网时间统计的浏览器插件，你可以在 Firefox，Chrome 和 Edge 中安装并使用它。  
+     感恩日记，但又可爱又有趣  
     </details> 
 
-- 💼 [360configurator - 加速所有 Window 公司的销售流程](https://xinquji.com/posts/179299?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:38 AM 
+- 💼 [ThreadMagic - 可能是在 LinkedIn 上流行的最简单方法](https://xinquji.com/posts/179320?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     加速所有 Window 公司的销售流程  
+     可能是在 LinkedIn 上流行的最简单方法  
     </details> 
 
-- 🦅 [Hackrate Ethical Hacking Platform - 公司比以往任何时候都更需要道德黑客](https://xinquji.com/posts/179298?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:37 AM 
+- 🦅 [ClipDrop Relight - 使用 AI 在几秒钟内为您的照片添加壮观的灯光](https://xinquji.com/posts/179319?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     公司比以往任何时候都更需要道德黑客  
+     使用 AI 在几秒钟内为您的照片添加壮观的灯光  
     </details> 
 
-- 😺 [Someka Trading Journal - 强大且易于使用的日志来跟踪您的日间交易](https://xinquji.com/posts/179297?utm_campaign=xinquji-rss) | Wed Sep 07 2022 6:36 AM 
+- 😺 [Horizon UI TypeScript - React 最流行的免费 TypeScript 管理模板](https://xinquji.com/posts/179318?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     强大且易于使用的日志来跟踪您的日间交易  
+     React 最流行的免费 TypeScript 管理模板  
     </details> 
 <!-- xinquji:END -->
