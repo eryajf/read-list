@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0907](http://jandan.net/p/111310) | Wed Sep 07 2022 1:14 AM 
+- 🚀 [WHY  明明属于同一物种，山脉西部的老鼠整体上比东部的个体更大？](http://jandan.net/p/111265) | Wed Sep 07 2022 2:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    听说过雨影效应吗 
+    </details> 
+
+- 🙉 [今日好价 0907](http://jandan.net/p/111310) | Wed Sep 07 2022 1:14 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🙉 [研究者从维京人粪便化石中寻找寄生虫完成测序](http://jandan.net/p/111309) | Wed Sep 07 2022 12:00 AM 
+- 🎉 [研究者从维京人粪便化石中寻找寄生虫完成测序](http://jandan.net/p/111309) | Wed Sep 07 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     助力驱虫药开发 
     </details> 
 
-- 🎉 [隔壁装修或开趴体，狗狗没有发言权，但会承担后果。](http://jandan.net/p/111201) | Tue Sep 06 2022 11:57 AM 
+- 🐲 [隔壁装修或开趴体，狗狗没有发言权，但会承担后果。](http://jandan.net/p/111201) | Tue Sep 06 2022 11:57 AM 
     <details><summary>展开描述 ...</summary> 
     噪音对动物，包括宠物和农场动物的影响，研究得远远不够。 
     </details> 
 
-- 🐲 [明天 比特币最大的对手以太坊将正式淘汰工作量证明模型，从此再无以太坊矿工](http://jandan.net/p/111308) | Tue Sep 06 2022 4:20 AM 
+-  [明天 比特币最大的对手以太坊将正式淘汰工作量证明模型，从此再无以太坊矿工](http://jandan.net/p/111308) | Tue Sep 06 2022 4:20 AM 
     <details><summary>展开描述 ...</summary> 
     加密货币领域将经历自诞生以来最大的变革。 
-    </details> 
-
--  [吸一下就能获得对新冠病毒的抵抗力 国内批准了全球首款无针雾化疫苗作为加强“针”](http://jandan.net/p/111306) | Tue Sep 06 2022 3:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    就是第三针或第四针 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
