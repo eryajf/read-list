@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [从研判山体滑坡到预测地震 卫星技术距离突破还差几步？](https://www.cnbeta.com/articles/tech/1313623.htm) | Wed Sep 07 2022 12:36 PM 
+- 🕯 [理想ONE突然宣布降价停产，车主不答应](https://www.cnbeta.com/articles/tech/1313643.htm) | Wed Sep 07 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;连续三天，俞雷团队都在重复着相同的工作：获取卫星影像，通过自有遥感信息综合处理应用平台，对影像进行导入、滤波和增强等处理，对泸定地震灾区进行受灾情况遥感分析与评估，将评估结果递交政府相关部门……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“这么快就被割了韭菜！”一位刚刚提车两个月的理想ONE车主在车主群内吐槽：“我的诉求是退两万差价或者置换L8。”这位车主的诉求在群内引起共鸣，很快，超过百位车主参与了群内接龙。“退差价”、“置换新车”、“退车”……理想车主又一次自发组织起集体维权。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [西湖大学抗新冠病毒口服药获批进入临床试验](https://www.cnbeta.com/articles/science/1313621.htm) | Wed Sep 07 2022 12:24 PM 
+- 💼 [8月新能源乘用车批发量同比翻倍：新车型密集上市 车企开足马力赶订单](https://www.cnbeta.com/articles/tech/1313641.htm) | Wed Sep 07 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新冠疫情持续时间之长、波及面之广，超过了绝大多数人的想象。面对不断变异的毒株，亟需开发对冠状病毒具有广谱抑制作用的药物。近日，西湖大学生命科学学院院长、西湖实验室主任于洪涛领衔的攻关团队取得重大突破。经过两年多的努力，他们成功研发出一种小分子非共价抑制剂WPV01（艾普司韦），抑制新冠病毒的药效显著且安全性高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月7日，乘联会发布数据显示，初步统计，8月乘用车市场零售187.9万辆，同比增长29%，较上月增长3%。其中，新能源乘用车批发量同比增长100%。乘联会表示，目前政策提振汽车消费信心效果很好，因此车市零售同比实现较高增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [最后的清仓：RTX 30竟然还有三款“新品”](https://www.cnbeta.com/articles/tech/1313619.htm) | Wed Sep 07 2022 12:22 PM 
+- 💂 [AMD锐龙移动版全新命名规则公布](https://www.cnbeta.com/articles/tech/1313639.htm) | Wed Sep 07 2022 1:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;RTX 40系列马上就要来了，但万万没想到的是，RTX 30系列竟然还有新品，而且一下子就是三款！这个时候发布这些微调的新品，用意不言自明，就是为了尽快清理手头的库存，因此这些新品都不会有高调的发布，必然直接出现在市场上，购买的时候可要分清了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD今天公布了2023年移动平台锐龙处理器的全新命名规则，从中可以一眼看出产品型号对应的系列、架构、定位、性能等级等信息，即便是小白也能一目了然。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国劳工组织和投资者指控苹果言行不一：要求对员工权利问题进行审查](https://www.cnbeta.com/articles/tech/1313617.htm) | Wed Sep 07 2022 12:19 PM 
+- 🚀 [经典FPS游戏《雷神之锤》被移植到Apple Watch上](https://hot.cnbeta.com/articles/game/1313637.htm) | Wed Sep 07 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，美国劳工组织和投资者已提交了一份股东提案，要求苹果公司审查“其如何对待员工的权利”问题。该提案由工会养老基金顾问机构SOC Investment Group和“服务雇员国际工会）（SEIU）的一个分支机构等团体提交，指控苹果在结社自由等方面的公开承诺，与其实际行动（如试图阻止成立工会）之间存在明显的不一致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一位程序员成功地让原始的&amp;quot;Quake&amp;quot;（《雷神之锤》）游戏在Apple Watch上以60fps的帧速运行，并可用陀螺仪控制，可播放声音。Tomas Vyzmazal使用&amp;quot;Quake&amp;quot;渲染引擎映射到WatchKit的表盘，使该端口以640p乘480p的分辨率运行，速度为60fps。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国产大飞机C919首次试飞合肥新桥机场 今年底交付1架](https://www.cnbeta.com/articles/tech/1313615.htm) | Wed Sep 07 2022 12:15 PM 
+- 🎊 [Ring终于为其视频门铃带来端对端加密功能](https://www.cnbeta.com/articles/tech/1313635.htm) | Wed Sep 07 2022 1:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月7日上午，国产大飞机C919首次在合肥新桥机场试飞。&lt;strong&gt;执行本次试飞任务的C919飞机编号为B-001G，10点15从上海浦东机场起飞，11点24分顺利抵达合肥新桥机场，停靠22机位。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在为其硬接线和插入式设备增加了端对端加密选项一年多后，&lt;strong&gt;Ring现在为其电池供电的视频门铃和安全摄像机提供了端对端加密。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
