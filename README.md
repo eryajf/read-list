@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Zen3不死！锐龙9 PRO 5945低调发布：12核心功耗仅65W](https://www.cnbeta.com/articles/tech/1313669.htm) | Wed Sep 07 2022 4:09 PM 
+- 🕯 [苹果发布Apple Watch SE：249美元起 以更实惠的价格享有核心体验](https://www.cnbeta.com/articles/tech/1313677.htm) | Wed Sep 07 2022 5:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;苹果公司今天发布了第二代Apple Watch SE，这与2020年9月发布的第一代SE机型间隔了足足三年时间。&lt;/strong&gt;新款智能手表设备配备了S8芯片、与Series 8机型一样加入碰撞检测功能和新的颜色选择。第二代Apple Watch SE以更实惠的价格提供了Apple Watch的核心体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [儿童节目《天线宝宝》在网飞重启：11月14日开播](https://hot.cnbeta.com/articles/comic/1313675.htm) | Wed Sep 07 2022 5:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;网飞于今日宣布，将重启知名儿童节目《天线宝宝》系列，该重启系列将于11月14日上线。同时，该重启节目将由美国黑人演员提图斯·博格斯担任旁白主持人。《天线宝宝》是英国广播公司（BBC）与Rag Doll公司制作的幼儿节目，发行于1997年到2001年，主要观众对象是一到四岁的儿童。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1313675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果发布Apple Watch Series 8 可监测女性排卵与交通事故](https://www.cnbeta.com/articles/tech/1313673.htm) | Wed Sep 07 2022 5:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;苹果公司今天在其 &amp;quot;Far out &amp;quot;活动中宣布了更新的Apple Watch Series 8，它包括与Series 7类似的外形设计，但包括一个更大的显示屏，带来了健康、安全、连接等方面的更新。&lt;/strong&gt;全新的Apple&amp;nbsp;Watch&amp;nbsp;8 Series拥有更大的屏幕、相同的基础设计、全新的手表界面、更加明亮的屏幕从而使其在手腕向下时更容易阅读。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [首批“持证”电子竞技员诞生 他们咋拿的证？](https://hot.cnbeta.com/articles/game/1313671.htm) | Wed Sep 07 2022 4:59 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“拿到证书之后，我跟家里人说了。他们挺高兴，说我现在是‘持证上岗’了。”朱伯丞是和平精英职业联赛上海NV-腾讯视频战队的选手，游戏ID为paraboy（伞兵）。他所说的证书，是指电子竞技员职业技能等级证书。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [Zen3不死！锐龙9 PRO 5945低调发布：12核心功耗仅65W](https://www.cnbeta.com/articles/tech/1313669.htm) | Wed Sep 07 2022 4:09 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;AMD官网低调上线了一款新U，型号锐龙9 PRO 5945，从名字就可以看出是面向商用整机领域，不会零售，这也是锐龙PRO 5000系列的第一款锐龙9。规格上，&lt;strong&gt;锐龙9 PRO 5945依然基于Zen3架构，12核心24线程，二级缓存6MB，三级缓存64MB，基准频率3.0GHz，最高加速频率4.7GHz，热设计功耗65W。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [Twitter正在扩大其实验性的社区管理制度“Birdwatch”](https://www.cnbeta.com/articles/tech/1313667.htm) | Wed Sep 07 2022 4:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Twitter正在扩大其社区驱动的内容审核计划--Birdwatch，周三将覆盖面扩大到所有美国用户的一半。Twitter去年首次推出Birdwatch，目的是让用户为可能产生误导的推文提供额外的背景。该计划的成员被要求为帖子写上背景说明，或提供出现在用户反馈中的相关信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [都2022了 日本还在用软盘？](https://www.cnbeta.com/articles/tech/1313665.htm) | Wed Sep 07 2022 4:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本要向软盘宣战了？该国数字大臣河野太郎在Twitter上公开表示：日本政府有太多业务都需要人们通过软盘、CD等老设备来提交表格和申请了，数量高达1900个！现在，他们要更改规定，弃用软盘，让大家进行在线提交！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [哈苏X2D 100C中画幅相机发布：1亿像素+1TB存储 售价5.49万元](https://www.cnbeta.com/articles/tech/1313663.htm) | Wed Sep 07 2022 3:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月7日晚，哈苏正式发布中画幅相机X2D 100C&lt;/strong&gt;，具备1亿像素、5轴7档防抖、PDAF相位对焦、1TB内置SSD等卖点，售价54900元。&lt;strong&gt;这款相机搭载1亿像素背照式中画幅传感器&lt;/strong&gt;，原生ISO感光度低至64，16位色深可呈现约281万亿种色彩，15级动态范围保留丰富的明暗细节，实现平滑自然的过渡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [报道称基于M2 Pro/Max处理器的MacBook Pro的生产遭遇砍单](https://www.cnbeta.com/articles/tech/1313661.htm) | Wed Sep 07 2022 3:38 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;天风证券分析师郭明錤认为，在生产开始之前，苹果已经将M2 Pro和M2 Max MacBook Pro订单与之前的预测相比减少了20%至30%。&lt;/strong&gt;这位经验丰富的行业分析师说，他对供应链成员的最新调查显示，苹果已经减少了第四季度的14英寸MacBook Pro和16英寸MacBook Pro订单。这些将是在2023年春季推出的新机型，预测将采用新的M2处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
