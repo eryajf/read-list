@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [切实有需求的点子](https://www.v2ex.com/t/878375#reply1) | Wed Sep 07 2022 7:51 AM
-- 🤗 [如何优雅的跨平台插入和显示图片](https://www.v2ex.com/t/878373#reply3) | Wed Sep 07 2022 7:44 AM
-- 🎭 [Bitwarden 融资一亿美元](https://www.v2ex.com/t/878372#reply1) | Wed Sep 07 2022 7:42 AM
-- 🥷 [写了一个 SSH 会话批量生成工具，支持 xshell、MobaXterm、SecureCRT](https://www.v2ex.com/t/878364#reply4) | Wed Sep 07 2022 7:01 AM
-- 🐵 [vue3+vite 动态引入 SVG ICON 的问题](https://www.v2ex.com/t/878355#reply5) | Wed Sep 07 2022 6:34 AM<!-- v2ex:END -->
+- 🥸 [在纠结手机 120W 快充功能要不要开启，对电池寿命有影响么](https://www.v2ex.com/t/878387#reply5) | Wed Sep 07 2022 8:35 AM
+- 🤗 [请问用 Python 做数据集管理有没有可供参考的项目，或者怎么学习这方面](https://www.v2ex.com/t/878385#reply0) | Wed Sep 07 2022 8:28 AM
+- 🎭 [切实有需求的点子](https://www.v2ex.com/t/878375#reply1) | Wed Sep 07 2022 7:51 AM
+- 🥷 [如何优雅的跨平台插入和显示图片](https://www.v2ex.com/t/878373#reply5) | Wed Sep 07 2022 7:44 AM
+- 🐵 [Bitwarden 融资一亿美元](https://www.v2ex.com/t/878372#reply2) | Wed Sep 07 2022 7:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
