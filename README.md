@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [撕掉三星Galaxy Z Fold4贴膜后折痕更不明显了 但官方不建议这么做](https://www.cnbeta.com/articles/tech/1313543.htm) | Wed Sep 07 2022 8:25 AM 
+- 🕯 [福岛核污水排海用隧道已挖掘80米 预计明年春季排放](https://www.cnbeta.com/articles/tech/1313561.htm) | Wed Sep 07 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，博主i冰宇宙实测，撕掉Galaxy Z Fold4屏幕保护膜之后，折痕看起来更不明显了。不过三星不建议这么操作，&lt;strong&gt;因为Galaxy Z Fold4的保护膜是三星从韩国光学膜材料厂商Segyung Hitech采购的一种特殊保护膜。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;综合日媒报道，&lt;strong&gt;日本东京电力公司6日公开福岛第一核电站核污水排放入海使用的海底隧道挖掘作业现场。&lt;/strong&gt;据悉，该隧道8月4日正式开工，全长约1公里，现已挖掘约80米。力争明年春季前后开始排放。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [谷神星一号火箭转运发射车顺利完成验收交付](https://www.cnbeta.com/articles/science/1313541.htm) | Wed Sep 07 2022 8:24 AM 
+- 💼 [索尼新出货的PS5游戏机修订版内部设计大改 耗电更少](https://www.cnbeta.com/articles/tech/1313559.htm) | Wed Sep 07 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，星河动力航天公司顺利组织完成了谷神星一号商业火箭转运发射车验收试验，发射车各项指标满足要求，已具备出厂交付条件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼已经完全改造了其最新的PS5型号的内部设计。上个月，修订后的PS5型号开始在澳大利亚出现，&lt;strong&gt;YouTuber Austin Evans拿到这台新机后在其中发现了很多变化。索尼正在为PS5使用一个新的、更小的主板，更换了冷却方式，甚至改变了SSD的外壳。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马斯克：特斯拉尽力在年底前提升Powerwall储能系统的可用性](https://www.cnbeta.com/articles/tech/1313539.htm) | Wed Sep 07 2022 8:12 AM 
+- 💂 [耶鲁大学科学家们发现光加速了自然界“电网 ”的传导性](https://www.cnbeta.com/articles/science/1313557.htm) | Wed Sep 07 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;尽管美国和澳大利亚等市场的需求增长一直很强劲，但特斯拉 Powerwall 家庭储能系统的产量，仍然存在着相当大的缺口。&lt;/strong&gt;正如此前报道的那样，该公司用了大约 5 年时间，才完成了前十万套 Powerwall 系统的部署。但仅仅在 2020 年，该公司又部署了十万套以上的 Powerwall 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在土壤和海洋中存在着一个由微小细菌产生、纳米线组成的全球网络，它们通过呼出多余的电子来“呼吸”，为自然界构成了一个内在的电网络。&lt;strong&gt;在一项新研究中，耶鲁大学的科学家们发现，在促进生物膜细菌的这种电子活动方面，光是一位令人惊讶的盟友。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [日本汉堡王与《暗黑不朽》联动推汉堡 美味体验](https://hot.cnbeta.com/articles/game/1313537.htm) | Wed Sep 07 2022 8:02 AM 
+- 🚀 [研究：“末日冰川”岌岌可危  迅速退缩可能使海平面上升10英尺](https://www.cnbeta.com/articles/science/1313555.htm) | Wed Sep 07 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日日本汉堡王宣布将与暴雪《暗黑破坏神：不朽》联动，推出“蒜味双层起士汉堡” 。这款汉堡将于2022年9月9日至9月29日发售。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据南佛罗里达大学的海洋地球物理学家领导的一项新研究，&lt;strong&gt;新的海底图像--在南极洲西部冰原上拍摄的分辨率最高的图像--颠覆了人们对思韦茨冰川&lpar;Thwaites Glacier&rpar;退缩的认识。&lt;/strong&gt;思韦茨冰川也被称为 “末日冰川”，对于试图进行全球海平面上升预测的科学家来说，这一直是个棘手问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [iPhone 14提前投产后 今年印度所产iPhone有望达到1200万部](https://www.cnbeta.com/articles/tech/1313535.htm) | Wed Sep 07 2022 8:01 AM 
+- 🎊 [以太坊合并有望将区块链能耗锐减99%](https://www.cnbeta.com/articles/tech/1313553.htm) | Wed Sep 07 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据国外媒体报道，上月底曾有消息人士透露，苹果今年将推出的iPhone 14，首发两个月后就计划开始在印度生产，较此前6-9个月的延迟时间将大幅缩短。&lt;/strong&gt;而iPhone 14在印度生产的时间提前，也有利于提升今年iPhone在印度的产量，更好的满足印度市场的需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;随着以太坊开始启动从 PoW 向 PoS 机制的合并转型，有数据称此举会让该区块链网络的能耗暴降 99.95% 。&lt;/strong&gt;据悉，作为加密货币领域的第二大币种，过高的能耗，势必伴随着加剧气候变化的碳排放。而在上周，ETH 加密货币网络的年度能耗，还与孟加拉一国相当。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
