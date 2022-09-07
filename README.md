@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [抖音出了 macOS 客户端](http://www.mac52ipod.cn/post/douyin-for-mac.php) | Mon Sep 05 2022 4:16 AM 
+- 👨‍🏫 [苹果 iPhone 14、新 Apple Watch、新 AirPods 发布会五分钟无废话版简介](http://www.mac52ipod.cn/post/apple-2022-iphone-14-event-5-min-briefintroduction.php) | Wed Sep 07 2022 6:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	今天凌晨，苹果发布了iPhone 14、新 Apple Watch、新 AirPods 。今天一上网被铺天盖地的媒体报道和专家分析烦得不得了是吧？苹果fans 博客照例只写一篇 5 分钟无废话版简介。&lt;/p&gt;&lt;p&gt;&lt;h2&gt;Apple Watch 8 / SE 4 &lt;/h2&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;增加了温度传感器检测体温变化，好处比如能让经期追踪功能增强，通过体温趋势预测排卵期和经期变动&lt;/li&gt;&lt;li&gt;车祸检测功能：新增了高过载传感器，综合各个传感器传来的信息判断你出车祸的话，自动激活手表呼救&lt;/li&gt;&lt;li&gt;低功耗模式：关闭一些功能，带来 36 小时续航&lt;/li&gt;&lt;li&gt;更便宜的 Apple Watch SE 也更新到第 4 代： 屏幕变大 30%，速度变快 20%，也支持 Apple Watch 8&amp;nbsp;&amp;nbsp;新增的车祸检测&lt;/li&gt;&lt;p&gt;苹果官网详细介绍 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/apple-watch-series-8/&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/apple-watch-series-8/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;h2&gt;Apple Watch Ultra&lt;/h2&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;看名字就知道这是「超强款」，更适合专业运动员和户外活动人士&lt;/li&gt;&lt;li&gt;钛合金外壳 + 蓝宝石玻璃，超坚固&lt;/li&gt;&lt;li&gt;增加一个实体按钮，让手表的功能更多 &amp; 更适合戴手套时操作&lt;/li&gt;&lt;li&gt;屏幕亮度更高、通话音效更好，更适合户外使用&lt;/li&gt;&lt;li&gt;超长续航，正常使用 36 小时，低功耗模式 60 小时&lt;/li&gt;&lt;li&gt;GPS 效果更强&lt;/li&gt;&lt;li&gt;防水性更强，可以戴着它潜水，还有对应的潜水 App&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果官网详细介绍 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/apple-watch-ultra/&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/apple-watch-ultra/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;h2&gt;iPhone 14、14 Plus&lt;/h2&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;二者屏幕尺寸分别为 6.1 寸、6.7 寸&lt;/li&gt;&lt;li&gt;外形和 iPhone 13 区别不大（刘海大小、摄像头布局等）&lt;/li&gt;&lt;li&gt;和上一代 iPhone 一样使用 A15 芯片&lt;/li&gt;&lt;li&gt;（每一代一定会有的）拍照效果提升和电池续航提升&lt;/li&gt;&lt;li&gt;eSIM，美版砍掉了实体 SIM 卡槽，不知道国行版怎么样&lt;/li&gt;&lt;li&gt;加上了和上文 Apple Watch 类似的车祸检测功能&lt;/li&gt;&lt;li&gt;可以连接通信卫星发短信呼救（初期仅限北美地区使用）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果官网详细介绍 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/iphone-14/&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/iphone-14/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;h2&gt;iPhone 14 Pro、Pro Max&lt;/h2&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;二者屏幕尺寸分别为 6.1 寸、6.7 寸&lt;/li&gt;&lt;li&gt;刘海小多了，摄像头布局没变化&lt;/li&gt;&lt;li&gt;新一代 A16 芯片：4纳米制程、6 核 CPU（4大2小）、5 核 GPU&lt;/li&gt;&lt;li&gt;（每一代一定会有的）屏幕效果提升、拍照效果提升和电池续航提升&lt;/li&gt;&lt;li&gt;息屏后仍然持续显示信息&lt;/li&gt;&lt;li&gt;和 iPhone 14 一样加上了车祸检测功能和卫星呼救功能&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果官网详细介绍 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/iphone-14-pro/&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/iphone-14-pro/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;h2&gt;AirPods Pro 2&lt;/h2&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;H2 芯片让耳机的音质更好 &amp; 降噪能力更强 &amp; 续航更长&lt;/li&gt;&lt;li&gt;自适应通透模式，既能让你听到正常的周围声音，又能过滤鸣笛、电钻之类的高强噪音&lt;/li&gt;&lt;li&gt;充电盒加了个小喇叭，发出操作提示音 &amp; 方便寻找&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果官网详细介绍 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/airpods-pro/&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/airpods-pro/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;h2&gt;题外话&lt;/h2&gt;&lt;/p&gt;&lt;p&gt;Tim Cook 是不是腿部受伤了，或者得了腿部疾病？发布会上的站姿很奇怪。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;本次发布会视频回看 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/apple-events/&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/apple-events/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E4%25BA%2594%25E5%2588%2586%25E9%2592%259F%25E6%2597%25A0%25E5%25BA%259F%25E8%25AF%259D&quot; rel=&quot;tag&quot;&gt;五分钟无废话&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [抖音出了 macOS 客户端](http://www.mac52ipod.cn/post/douyin-for-mac.php) | Mon Sep 05 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [苹果 iPhone、iPad、Apple Watch、Mac 上规划旅行路线和日程的 App：Tripsy](http://www.mac52ipod.cn/post/apple-ios-macos-iphone-ipad-mac-apple-watch-app-tripsy-travel-p.php) | Sat Sep 03 2022 4:16 AM 
+- 🦏 [苹果 iPhone、iPad、Apple Watch、Mac 上规划旅行路线和日程的 App：Tripsy](http://www.mac52ipod.cn/post/apple-ios-macos-iphone-ipad-mac-apple-watch-app-tripsy-travel-p.php) | Sat Sep 03 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Apple新闻之腾讯打算重构 Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
+- 🚀 [Apple新闻之腾讯打算重构 Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Mac技巧之一个国内个人开发者制作的翻译软件：Bob - 翻译和 OCR 工具](http://www.mac52ipod.cn/post/apple-mac-macos-translation-app-bob.php) | Wed Aug 31 2022 3:56 AM 
+- 🏊 [Mac技巧之一个国内个人开发者制作的翻译软件：Bob - 翻译和 OCR 工具](http://www.mac52ipod.cn/post/apple-mac-macos-translation-app-bob.php) | Wed Aug 31 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	我在苹果电脑 macOS 上一直使用 &lt;u&gt;&lt;a href=&quot;/post/apple-mac-macos-translation-app-deepl.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑上的翻译软件：DeepL&quot;&gt;&lt;font color=#0000FF&gt;DeepL&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 和系统自带的词典这俩翻译工具，前几天看到有位中国的开发者制作了个不错的翻译软件：Bob - 翻译和 OCR 工具，帮他推荐一下吧。&lt;/p&gt;&lt;p&gt;Bob 支持直接查询、划词翻译（选中文字后按 option D ）、OCR 识别和识别后翻译。能同时调用 Google、腾讯、百度、有道、阿里、彩云等多个翻译引擎&lt;/p&gt;&lt;p&gt;Bob 在苹果 Mac App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/id1630034110&quot; target=&quot;_blank&quot; title=&quot;Bob - 翻译和 OCR 工具&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/id1630034110&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%25BF%25BB%25E8%25AF%2591&quot; rel=&quot;tag&quot;&gt;翻译&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A4%2596%25E8%25AF%25AD&quot; rel=&quot;tag&quot;&gt;外语&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变](http://www.mac52ipod.cn/post/apple-mac-os-x-macos-trash-can-icon-design-1984-up-to-2022.php) | Sun Aug 28 2022 3:14 PM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	看到 &lt;u&gt;&lt;a href=&quot;https://twitter.com/MartinNobel_/status/1551885038286946305&quot; target=&quot;_blank&quot; title=&quot;原帖出处&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;@MartinNobel_ 发的这张图&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变。有意思的是，以前苹果用的是户外那种垃圾桶，2001 年以后换成了废纸篓。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6709&quot; border=&quot;0&quot; alt=&quot;苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变&quot; title=&quot;苹果电脑各代 Mac OS X 和 macOS 系统的废纸篓图标演变&quot; /&gt;&lt;/p&gt;&lt;p&gt;另附各代 Windows 系统的回收站图标&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6710&quot; border=&quot;0&quot; alt=&quot;各代 Windows 系统的回收站图标演变&quot; title=&quot;各代 Windows 系统的回收站图标演变&quot; /&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%258B%25B9%25E6%259E%259C%25E5%258E%2586%25E5%258F%25B2&quot; rel=&quot;tag&quot;&gt;苹果历史&lt;/a&gt;
 
  
     </details> 
