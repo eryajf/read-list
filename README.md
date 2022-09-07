@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [开学季 | 少数派正版软件商城专属特惠活动，助你新学期有新气象](https://sspai.com/post/75561) | Tue Sep 06 2022 10:50 AM 
+- 👹 [派早报：华为发布多款新品、索尼将为 PS5 带来新配色等](https://sspai.com/post/75590) | Wed Sep 07 2022 1:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    星纪时代将推出消费级直连低轨卫星手机，Google 将 10 月 6 日举行秋季新品发布会等。&lt;a href=&quot;https://sspai.com/post/75590&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [开学季 | 少数派正版软件商城专属特惠活动，助你新学期有新气象](https://sspai.com/post/75561) | Tue Sep 06 2022 10:50 AM 
     <details><summary>展开描述 ...</summary> 
     正值开学季，少数派软件商城为大家又特约了多款口碑、质量都非常优秀的相关应用的优惠活动，希望能够帮大家提升学习、工作的效率。&lt;a href=&quot;https://sspai.com/post/75561&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [App+1 | 为笔记本 CPU 减负，让 Windows 11 的续航加分：能源之星 X](https://sspai.com/post/75565) | Tue Sep 06 2022 7:00 AM 
+- 🤭 [App+1 | 为笔记本 CPU 减负，让 Windows 11 的续航加分：能源之星 X](https://sspai.com/post/75565) | Tue Sep 06 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     让 Windows 11 的任务管理器飘满文明的「小绿叶」。&lt;a href=&quot;https://sspai.com/post/75565&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [集成百家所长的 Matter，也是智能家居的未来（系列文章之一）](https://sspai.com/prime/story/matter-explained-01) | Tue Sep 06 2022 2:58 AM 
+- 🥸 [集成百家所长的 Matter，也是智能家居的未来（系列文章之一）](https://sspai.com/prime/story/matter-explained-01) | Tue Sep 06 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
     在这组新的连载文章中，我们将会与大家一起探究 matter 这个协议的前世今生以及其核心的技术优势，希望帮助大家更好地认识这个协议、更有针对性地选购智能家居产品。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/matter-explained-01&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [派早报：LG 推出新款 XBOOM 360 / Go 蓝牙音箱、NIO Air AR Glasses 正式发布等](https://sspai.com/post/75558) | Tue Sep 06 2022 12:52 AM 
+- 🙉 [派早报：LG 推出新款 XBOOM 360 / Go 蓝牙音箱、NIO Air AR Glasses 正式发布等](https://sspai.com/post/75558) | Tue Sep 06 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
     小米米家户外电源 1000 Pro 开启预售，中国卫通 SatZone 服务平台已开通试运行等&lt;a href=&quot;https://sspai.com/post/75558&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/75553) | Mon Sep 05 2022 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75553&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
