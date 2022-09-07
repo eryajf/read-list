@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [手机充满电后充电器还插着对电池有影响么？](https://www.v2ex.com/t/878367#reply2) | Wed Sep 07 2022 7:15 AM
-- 🤗 [写了一个 SSH 会话批量生成工具，支持 xshell、MobaXterm、SecureCRT](https://www.v2ex.com/t/878364#reply1) | Wed Sep 07 2022 7:01 AM
-- 🎭 [vue3+vite 动态引入 SVG ICON 的问题](https://www.v2ex.com/t/878355#reply4) | Wed Sep 07 2022 6:34 AM
-- 🥷 [如何用 ADB 安装手机 SD 卡里的 apk 文件](https://www.v2ex.com/t/878344#reply6) | Wed Sep 07 2022 5:59 AM
-- 🐵 [被 GoFrame 的快速开始给劝退了](https://www.v2ex.com/t/878341#reply10) | Wed Sep 07 2022 5:46 AM<!-- v2ex:END -->
+- 🥸 [切实有需求的点子](https://www.v2ex.com/t/878375#reply1) | Wed Sep 07 2022 7:51 AM
+- 🤗 [如何优雅的跨平台插入和显示图片](https://www.v2ex.com/t/878373#reply3) | Wed Sep 07 2022 7:44 AM
+- 🎭 [Bitwarden 融资一亿美元](https://www.v2ex.com/t/878372#reply1) | Wed Sep 07 2022 7:42 AM
+- 🥷 [写了一个 SSH 会话批量生成工具，支持 xshell、MobaXterm、SecureCRT](https://www.v2ex.com/t/878364#reply4) | Wed Sep 07 2022 7:01 AM
+- 🐵 [vue3+vite 动态引入 SVG ICON 的问题](https://www.v2ex.com/t/878355#reply5) | Wed Sep 07 2022 6:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
