@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [找到适合自己的「浏览器门面」，7 款启动页插件横评](https://sspai.com/post/75591) | Wed Sep 07 2022 6:30 AM 
+- 👹 [首发特惠 | 拿下这本蓝皮书，你就是朋友圈里最懂 iOS 的人](https://sspai.com/post/75603) | Wed Sep 07 2022 8:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    即日起至 9 月 18 日，购买《iOS 蓝皮书》与《iOS 16 速通攻略》将享受七折首发特惠。&lt;a href=&quot;https://sspai.com/post/75603&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [找到适合自己的「浏览器门面」，7 款启动页插件横评](https://sspai.com/post/75591) | Wed Sep 07 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     世上远不止这七个启动页插件，你在用哪款标签页插件呢？&lt;a href=&quot;https://sspai.com/post/75591&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [99 划算节，派商店又为你准备了这些周边和产品](https://sspai.com/post/75577) | Wed Sep 07 2022 6:02 AM 
+- 🤭 [99 划算节，派商店又为你准备了这些周边和产品](https://sspai.com/post/75577) | Wed Sep 07 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
     派商店叕打折了，99 划算节为你准备了这些周边和产品。&lt;a href=&quot;https://sspai.com/post/75577&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [给 Spotify 换个好看的皮肤：Spicetify 配置说明](https://sspai.com/post/75576) | Wed Sep 07 2022 3:16 AM 
+- 🥸 [给 Spotify 换个好看的皮肤：Spicetify 配置说明](https://sspai.com/post/75576) | Wed Sep 07 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     Spicetify 美观简洁，插件丰富，是 Spotify 用户的不错选择。&lt;a href=&quot;https://sspai.com/post/75576&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：华为发布多款新品、索尼将为 PS5 带来新配色等](https://sspai.com/post/75590) | Wed Sep 07 2022 1:03 AM 
+- 🙉 [派早报：华为发布多款新品、索尼将为 PS5 带来新配色等](https://sspai.com/post/75590) | Wed Sep 07 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
     星纪时代将推出消费级直连低轨卫星手机，Google 将 10 月 6 日举行秋季新品发布会等。&lt;a href=&quot;https://sspai.com/post/75590&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [开学季 | 少数派正版软件商城专属特惠活动，助你新学期有新气象](https://sspai.com/post/75561) | Tue Sep 06 2022 10:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    正值开学季，少数派软件商城为大家又特约了多款口碑、质量都非常优秀的相关应用的优惠活动，希望能够帮大家提升学习、工作的效率。&lt;a href=&quot;https://sspai.com/post/75561&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
