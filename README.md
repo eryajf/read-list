@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [又见天价罚单，Meta违反GDPR被罚4亿美元](https://www.freebuf.com/articles/neopoints/343874.html) | Tue Sep 06 2022 8:59 AM 
+- 🦄 [疯狂的SOVA：Android银行木马“新标杆”](https://www.freebuf.com/sectool/343921.html) | Tue Sep 06 2022 11:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    安全研究人员还发现SOVA还增加了一个令人意想不到的新功能——可对手机等移动端进行数据加密和勒索攻击。 
+    </details> 
+
+- 🦄 [FreeBuf早报 | TikTok否认用户数据源代码泄露；Ins因侵犯儿童隐私被罚4亿欧元](https://www.freebuf.com/news/343895.html) | Tue Sep 06 2022 10:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    爱尔兰监管机构以侵犯儿童隐私对Instagram罚款 4.05 亿欧元 ，Meta 表示将会提起上诉。 
+    </details> 
+
+- 🦅 [又见天价罚单，Meta违反GDPR被罚4亿美元](https://www.freebuf.com/articles/neopoints/343874.html) | Tue Sep 06 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
     9月6日，Meta违反了GDPR被罚款约4亿美元的新闻迅速引爆了科技圈。 
     </details> 
 
-- 🦄 [人人皆是黑客？EvilProxy推出一键反向代理服务](https://www.freebuf.com/news/343843.html) | Tue Sep 06 2022 3:39 AM 
+- 🪄 [人人皆是黑客？EvilProxy推出一键反向代理服务](https://www.freebuf.com/news/343843.html) | Tue Sep 06 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
     一旦EvilProxy宣传的功能成为现实，那么人人皆可成为黑客，企业安全将面临巨大的网络钓鱼攻击威胁。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 三星承认泄露美国客户信息；苹果零日漏洞利用市售800万欧元](https://www.freebuf.com/articles/343804.html) | Mon Sep 05 2022 12:02 PM 
+- 💻 [CICD管道中的代码注入漏洞影响Google、Apache开源GitHub项目](https://www.freebuf.com/news/343842.html) | Tue Sep 06 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-    三星表示其经历了一起攻击，渗透使黑客能够访问某些数据，例如部分美国用户的姓名，联系人和人口统计信息，出生日期以及产品注册详细信息。 
-    </details> 
-
-- 🪄 [WINGFUZZ SaaS：在线智能模糊测试平台](https://www.freebuf.com/news/343802.html) | Mon Sep 05 2022 11:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为国内首个模糊测试SaaS服务平台，当前已开放beta版免费注册使用。 
-    </details> 
-
-- 💻 [俄罗斯打车软件 Yandex  被黑，造成莫斯科交通堵塞](https://www.freebuf.com/news/343776.html) | Mon Sep 05 2022 6:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    俄罗斯打车应用程序 Yandex 遭到黑客攻击，数百名司机被“送到”莫斯科地区同一个上车点，造成了大面积交通堵塞。 
+    CI/CD管道中存在安全漏洞，攻击者可以利用这些漏洞来破坏开发过程并在部署时推出恶意代码。近日，研究人员在Apache和Google的两个非常流行的开源项目的GitHub环境中发现了一对安全漏洞，可用于秘密修改项目源代码、窃取机密并在组织内部横向移动。据Legit Security的研究人员称，这些问题是持续集成/持续交付（CI/CD）缺陷，可能威胁到全球更多的开源项目，目前主要影响Google  
     </details> 
 <!-- freebuf:END -->
 
