@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [能源危机下电动车也难幸免？马斯克或许已有预感……](https://www.cnbeta.com/articles/tech/1313591.htm) | Wed Sep 07 2022 11:14 AM 
+- 🕯 [从研判山体滑坡到预测地震 卫星技术距离突破还差几步？](https://www.cnbeta.com/articles/tech/1313623.htm) | Wed Sep 07 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一周前，特斯拉CEO马斯克在挪威一场能源会议期间意外表态，世界必须继续开采石油和天然气，引起外界不少关注。作为全球新能源汽车界的领头羊，马斯克却出乎意料地为传统能源“站台”，究竟背后有何深意呢？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;连续三天，俞雷团队都在重复着相同的工作：获取卫星影像，通过自有遥感信息综合处理应用平台，对影像进行导入、滤波和增强等处理，对泸定地震灾区进行受灾情况遥感分析与评估，将评估结果递交政府相关部门……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [宁德时代麒麟电池量产出货时间将提前至今年年底](https://www.cnbeta.com/articles/tech/1313589.htm) | Wed Sep 07 2022 11:12 AM 
+- 💼 [西湖大学抗新冠病毒口服药获批进入临床试验](https://www.cnbeta.com/articles/science/1313621.htm) | Wed Sep 07 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球动力电池龙头企业宁德时代的麒麟电池量产进度比此前预计的更快。近日，澎湃新闻记者从知情人士处独家获悉：宁德时代新能源科技股份有限公司（以下简称“宁德时代”，300750.SZ&rpar;第三代CTP——麒麟电池将在今年年底就实现量产出货，而不是此前一度宣布的2023年。首批量产电池将于明年第一季度装载于吉利汽车旗下的纯电豪华MPV极氪009系列上市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新冠疫情持续时间之长、波及面之广，超过了绝大多数人的想象。面对不断变异的毒株，亟需开发对冠状病毒具有广谱抑制作用的药物。近日，西湖大学生命科学学院院长、西湖实验室主任于洪涛领衔的攻关团队取得重大突破。经过两年多的努力，他们成功研发出一种小分子非共价抑制剂WPV01（艾普司韦），抑制新冠病毒的药效显著且安全性高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [三星发布悲观预期：芯片销售大幅下滑态势将延续至明年](https://www.cnbeta.com/articles/tech/1313587.htm) | Wed Sep 07 2022 11:12 AM 
+- 💂 [最后的清仓：RTX 30竟然还有三款“新品”](https://www.cnbeta.com/articles/tech/1313619.htm) | Wed Sep 07 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;韩国三星电子预计，芯片销售大幅下滑的态势将持续到明年，这是唱衰半导体行业的最新观点。个人电脑、智能手机和数据服务器销售大幅回落拖累了半导体行业，也推动相关股票大幅下跌。&lt;/strong&gt;当地时间周三&lpar;9月7日&rpar;，三星半导体部门负责人Kyung Kye-hyun在新闻发布会上表示，今年下半年看起来很糟糕，目前看来，明年似乎也没有显示出明显改善的势头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;RTX 40系列马上就要来了，但万万没想到的是，RTX 30系列竟然还有新品，而且一下子就是三款！这个时候发布这些微调的新品，用意不言自明，就是为了尽快清理手头的库存，因此这些新品都不会有高调的发布，必然直接出现在市场上，购买的时候可要分清了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [权游、指环王前传剧集上线 流媒体平台借奇幻IP对决](https://hot.cnbeta.com/articles/movie/1313585.htm) | Wed Sep 07 2022 11:09 AM 
+- 🚀 [美国劳工组织和投资者指控苹果言行不一：要求对员工权利问题进行审查](https://www.cnbeta.com/articles/tech/1313617.htm) | Wed Sep 07 2022 12:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，《龙之家族》和《指环王：力量之戒》（下称《力量之戒》）先后上线。同为顶级奇幻IP，均号称史诗级巨制，两者不可避免地在流媒体平台直面对决。《权力的游戏》第八季烂尾后，制作费用高达2亿美元、被剧粉寄予厚望的衍生剧《龙之家族》于8月21日上线HBO Max。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，美国劳工组织和投资者已提交了一份股东提案，要求苹果公司审查“其如何对待员工的权利”问题。该提案由工会养老基金顾问机构SOC Investment Group和“服务雇员国际工会）（SEIU）的一个分支机构等团体提交，指控苹果在结社自由等方面的公开承诺，与其实际行动（如试图阻止成立工会）之间存在明显的不一致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [专家警告欧盟人工智能监管法案或严重打击开源工作的积极性](https://www.cnbeta.com/articles/tech/1313583.htm) | Wed Sep 07 2022 10:46 AM 
+- 🎊 [国产大飞机C919首次试飞合肥新桥机场 今年底交付1架](https://www.cnbeta.com/articles/tech/1313615.htm) | Wed Sep 07 2022 12:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;针对欧盟拟议的开源人工智能监管新政，无党派智囊团 Brookings 已于近日表达了明确的反对意见。&lt;strong&gt;其在文章中指出 —— 新规强加给通用人工智能系统的法律责任，也将对该领域的技术发展造成严重的破坏。&lt;/strong&gt;根据欧盟的“人工智能法案”草案，开源开发者也必须遵守风险管理、数据治理、技术文档和透明度、以及准确性和网络安全标准等方面的指导方针。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月7日上午，国产大飞机C919首次在合肥新桥机场试飞。&lt;strong&gt;执行本次试飞任务的C919飞机编号为B-001G，10点15从上海浦东机场起飞，11点24分顺利抵达合肥新桥机场，停靠22机位。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
