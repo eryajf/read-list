@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [理想ONE突然宣布降价停产，车主不答应](https://www.cnbeta.com/articles/tech/1313643.htm) | Wed Sep 07 2022 1:43 PM 
+- 🕯 [游戏业务面临下滑压力 腾讯海外谋局增持法国老牌游戏商育碧](https://hot.cnbeta.com/articles/game/1313655.htm) | Wed Sep 07 2022 2:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“这么快就被割了韭菜！”一位刚刚提车两个月的理想ONE车主在车主群内吐槽：“我的诉求是退两万差价或者置换L8。”这位车主的诉求在群内引起共鸣，很快，超过百位车主参与了群内接龙。“退差价”、“置换新车”、“退车”……理想车主又一次自发组织起集体维权。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;继上周投资日本游戏公司 FromSoftware ，成为其第二大股东后，腾讯这周又出手投资了法国老牌游戏商育碧（Ubisoft），扩大其在海外游戏市场的布局。9月6日，育碧发表声明称，腾讯现以3亿欧元收购其最大股东Guillemot Brothers多达 49.9%的股份，获得5%的投票权，该公司由育碧联合创始人Yves Guillemot经营。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [8月新能源乘用车批发量同比翻倍：新车型密集上市 车企开足马力赶订单](https://www.cnbeta.com/articles/tech/1313641.htm) | Wed Sep 07 2022 1:43 PM 
+- 💼 [苹果发布会在即 库克晒“彩虹”照片 iPhone 14 Pro拍的？](https://www.cnbeta.com/articles/tech/1313653.htm) | Wed Sep 07 2022 2:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月7日，乘联会发布数据显示，初步统计，8月乘用车市场零售187.9万辆，同比增长29%，较上月增长3%。其中，新能源乘用车批发量同比增长100%。乘联会表示，目前政策提振汽车消费信心效果很好，因此车市零售同比实现较高增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月8日凌晨1点，苹果秋季新品发布会就要开始了，众所期待的iPhone 14系列将正式登场。赶在发布会前，&lt;strong&gt;苹果CEO库克晒出了一张照片，内容是一道彩虹风景照，并配文：“早上好，期待精彩的苹果大事。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AMD锐龙移动版全新命名规则公布](https://www.cnbeta.com/articles/tech/1313639.htm) | Wed Sep 07 2022 1:40 PM 
+- 💂 [Xbox Elite 2手柄将于今年晚些时候支持在Xbox设计实验室进行定制](https://hot.cnbeta.com/articles/game/1313651.htm) | Wed Sep 07 2022 2:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD今天公布了2023年移动平台锐龙处理器的全新命名规则，从中可以一眼看出产品型号对应的系列、架构、定位、性能等级等信息，即便是小白也能一目了然。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软将在今年晚些时候把Xbox Elite 2手柄带到该公司的Xbox设计实验室，这意味着Xbox用户将能够以目前对现有Xbox系列S/X手柄的相同方式订购Xbox Elite 2的定制颜色版本。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [经典FPS游戏《雷神之锤》被移植到Apple Watch上](https://hot.cnbeta.com/articles/game/1313637.htm) | Wed Sep 07 2022 1:37 PM 
+- 🚀 [微软发布新款Xbox Elite 2&quot;Core&quot;手柄 价格129.99美元更实惠](https://www.cnbeta.com/articles/tech/1313649.htm) | Wed Sep 07 2022 2:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一位程序员成功地让原始的&amp;quot;Quake&amp;quot;（《雷神之锤》）游戏在Apple Watch上以60fps的帧速运行，并可用陀螺仪控制，可播放声音。Tomas Vyzmazal使用&amp;quot;Quake&amp;quot;渲染引擎映射到WatchKit的表盘，使该端口以640p乘480p的分辨率运行，速度为60fps。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软今天宣布推出新的Xbox Elite 2 Core手柄，它的价格比现有的Xbox Elite 2低50美元。Xbox Elite Wireless Controller Series 2 - Core（是的，这是它的全名！）今天可以预购，价格为129.99美元，但它不包括上一代自带的可更换组件，因此必须单独购买这些组件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Ring终于为其视频门铃带来端对端加密功能](https://www.cnbeta.com/articles/tech/1313635.htm) | Wed Sep 07 2022 1:31 PM 
+- 🎊 [法官拒绝了埃隆·马斯克推迟Twitter收购案判决的企图](https://www.cnbeta.com/articles/tech/1313647.htm) | Wed Sep 07 2022 1:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在为其硬接线和插入式设备增加了端对端加密选项一年多后，&lt;strong&gt;Ring现在为其电池供电的视频门铃和安全摄像机提供了端对端加密。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特拉华州一家法院拒绝了亿万富翁埃隆-马斯克关于推迟10月对其收购Twitter案判决的企图，但同意他可以将Twitter前安全主管Peiter&amp;quot;Mudge&amp;quot;Zatko的主张纳入其案件。法庭的这一决定是在昨天下午的听证会上作出的，当时马斯克的律师主张在10月17日开庭前有几周时间来审查新的信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
