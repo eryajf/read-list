@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果发布Apple Watch SE：249美元起 以更实惠的价格享有核心体验](https://www.cnbeta.com/articles/tech/1313677.htm) | Wed Sep 07 2022 5:28 PM 
+- 🕯 [特斯拉Model Y获得欧洲安全机构五星级评价](https://www.cnbeta.com/articles/tech/1313689.htm) | Wed Sep 07 2022 6:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果公司今天发布了第二代Apple Watch SE，这与2020年9月发布的第一代SE机型间隔了足足三年时间。&lt;/strong&gt;新款智能手表设备配备了S8芯片、与Series 8机型一样加入碰撞检测功能和新的颜色选择。第二代Apple Watch SE以更实惠的价格提供了Apple Watch的核心体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;特斯拉公司宣布，其Model Y在欧洲延续了五星评级的记录。&lt;/strong&gt;这款电动越野车在欧洲新车评估计划（Euro NCAP）进行的安全测试中获得了最高分，在该机构更严格的测试协议下测试的所有车辆中获得了最高总分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [儿童节目《天线宝宝》在网飞重启：11月14日开播](https://hot.cnbeta.com/articles/comic/1313675.htm) | Wed Sep 07 2022 5:23 PM 
+- 💼 [苹果发布iPhone 14与iPhone 14 Plus：全面拥抱eSIM 支持卫星紧急求救](https://www.cnbeta.com/articles/tech/1313687.htm) | Wed Sep 07 2022 6:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;网飞于今日宣布，将重启知名儿童节目《天线宝宝》系列，该重启系列将于11月14日上线。同时，该重启节目将由美国黑人演员提图斯·博格斯担任旁白主持人。《天线宝宝》是英国广播公司（BBC）与Rag Doll公司制作的幼儿节目，发行于1997年到2001年，主要观众对象是一到四岁的儿童。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1313675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果公司在本周三的特别活动发布了iPhone 14和iPhone 14 Plus，这是对其主流智能手机型号的更新，取消了mini型号，而全面拥抱更大的机身尺寸。&lt;/strong&gt;与6.1英寸的iPhone 14一起的是iPhone 14 Plus，这是Plus后缀多年后重新出现，它是一款拥有6.7英寸显示屏的智能手机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果发布Apple Watch Series 8 可监测女性排卵与交通事故](https://www.cnbeta.com/articles/tech/1313673.htm) | Wed Sep 07 2022 5:20 PM 
+- 💂 [iOS 16将于9月12日发布 重新设计锁屏、iMessage取消发送和编辑等功能](https://www.cnbeta.com/articles/tech/1313685.htm) | Wed Sep 07 2022 5:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果公司今天在其 &amp;quot;Far out &amp;quot;活动中宣布了更新的Apple Watch Series 8，它包括与Series 7类似的外形设计，但包括一个更大的显示屏，带来了健康、安全、连接等方面的更新。&lt;/strong&gt;全新的Apple&amp;nbsp;Watch&amp;nbsp;8 Series拥有更大的屏幕、相同的基础设计、全新的手表界面、更加明亮的屏幕从而使其在手腕向下时更容易阅读。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果公司今天宣布，最新版本的iOS，即iOS 16，将于9月12日（星期一）向所有兼容的iPhone的用户推出，具有完全重新设计和可定制的锁屏，iMessage中的主要新功能，以及更多。&lt;/strong&gt;苹果在6月首次预览了iOS 16，在过去几个月里，它一直在接受应用开发者和公共项目成员的测试。iOS 16是一个重要的版本，为核心iOS应用和整体iOS体验带来了主要的新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [首批“持证”电子竞技员诞生 他们咋拿的证？](https://hot.cnbeta.com/articles/game/1313671.htm) | Wed Sep 07 2022 4:59 PM 
+- 🚀 [苹果发布新一代AirPods Pro真无线耳机：内置H2芯片 消噪能力加倍](https://www.cnbeta.com/articles/tech/1313683.htm) | Wed Sep 07 2022 5:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“拿到证书之后，我跟家里人说了。他们挺高兴，说我现在是‘持证上岗’了。”朱伯丞是和平精英职业联赛上海NV-腾讯视频战队的选手，游戏ID为paraboy（伞兵）。他所说的证书，是指电子竞技员职业技能等级证书。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果在今天凌晨举办的“Far out”发布会上发布了新一代AirPods Pro真无线耳机，其配备了更加先进的功能特性。新加入的H2芯片支持高带宽连接，可实现“卓越音质”，Spatial&amp;nbsp;Audio&amp;nbsp;空间音频功能得到了进一步拓展，发声单元方面，新的驱动器带来更多的细节和更分明的三频。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Zen3不死！锐龙9 PRO 5945低调发布：12核心功耗仅65W](https://www.cnbeta.com/articles/tech/1313669.htm) | Wed Sep 07 2022 4:09 PM 
+- 🎊 [watchOS 9在Apple Watch Series 4及以后版本上引入低功耗模式](https://www.cnbeta.com/articles/tech/1313681.htm) | Wed Sep 07 2022 5:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD官网低调上线了一款新U，型号锐龙9 PRO 5945，从名字就可以看出是面向商用整机领域，不会零售，这也是锐龙PRO 5000系列的第一款锐龙9。规格上，&lt;strong&gt;锐龙9 PRO 5945依然基于Zen3架构，12核心24线程，二级缓存6MB，三级缓存64MB，基准频率3.0GHz，最高加速频率4.7GHz，热设计功耗65W。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果公司今天宣布，watchOS 9将在Apple Watch Series 4及以后的产品上采用新的低功耗模式。启用低功耗模式后，Apple Watch每次充电将能获得长达36小时的电池续航。&lt;/strong&gt;当Apple Watch处于低功耗模式时，许多核心功能仍然可用，包括活动追踪和跌倒检测，但一些功能，如常亮显示屏和锻炼检测将被禁用，以减少功耗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
