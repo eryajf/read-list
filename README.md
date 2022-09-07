@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NASA宇航员不愿入住马斯克的火星基地：“最初环境万分艰难”](https://www.cnbeta.com/articles/science/1313351.htm) | Wed Sep 07 2022 2:07 AM 
+- 🕯 [索尼互娱向USC黑人土著学生基金捐赠3百万美元](https://hot.cnbeta.com/articles/game/1313427.htm) | Wed Sep 07 2022 4:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月7日消息，埃隆·马斯克（Elon Musk）希望在火星上建立能够容纳上百万人的永久基地，但&lt;strong&gt;美国宇航局（NASA）宇航员斯坦利·洛夫（Stanley Love）却不愿入住其中，并称最初的生活环境将万分艰难。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，USCGames（南加州大学游戏）宣布索尼互动娱乐公司向其Gerald A. Lawson 捐赠基金捐赠了300 万美元。该捐赠基金是与Take-Two 合作建立的，于2021 年启动，旨在增加黑人和原住民在游戏和科技行业的代表性。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [金士顿2021年占有78.70%的DRAM市场份额 连续19年位居榜首](https://www.cnbeta.com/articles/tech/1313349.htm) | Wed Sep 07 2022 2:05 AM 
+- 💼 [经典《凡尔赛玫瑰》确定制作全新动画电影 先导预告公开](https://hot.cnbeta.com/articles/comic/1313425.htm) | Wed Sep 07 2022 4:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;a href=&quot;https://www.kingston.com/cn/company/marketshare&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;金士顿今天宣布&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;，基于 TrendForce 集邦咨询（此前称之为 DRAMeXchange）公布的最新营收排行，该公司依然是 2021 年全球最大的第三方 DRAM 模组供应商。金士顿以 142 亿美元的营收位居排行榜第一。&lt;/strong&gt;TrendForce 表示，金士顿收入同比增长 8%，这是金士顿连续第 19 年位居榜首。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;2022年是日本经典少女漫画《凡尔赛玫瑰》诞生50周年，官方宣布确定制作全新动画电影，上映日期未定，同时最新海报以及先导预告公开，一起来先睹为快。&lt;/strong&gt;《凡尔赛玫瑰》是池田理代子于1972年开始在周刊《玛格丽特》上连载以法国大革命为背景的浪漫历史剧，作品获得巨大成功并被改编为TV动画、真人电影以及舞台剧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1313425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美国反垄断法案濒临失败 科技巨头斥资近1亿美元阻挠或成功？](https://www.cnbeta.com/articles/tech/1313347.htm) | Wed Sep 07 2022 2:05 AM 
+- 💂 [《英雄联盟：双城之战》荣获艾美杰出动画节目奖](https://hot.cnbeta.com/articles/comic/1313423.htm) | Wed Sep 07 2022 4:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着美国中期选举的临近，美国国会为遏制大型互联网公司而高调推动的措施可能因为时间窗口的渐渐关闭而面临失败。自2021年以来，Alphabet旗下的谷歌、苹果、亚马逊和Meta Platforms及其所在的行业组织投入近9500万美元用于游说，希望阻挠《美国在线创新和选择法案》（American Innovation and Choice Online Act）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日动画制作公司 FortcheProduction 宣布，他们所制作的基于拳头《英雄联盟》系列游戏改编的动画剧集《双城之战》赢得了艾美杰出动画节目奖。据 Eurogamer 报道，这是第一个在该类别中获胜的流媒体平台动画剧集。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1313423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [马斯克短信曝光：称搁置Twitter收购交易是担忧“第三次世界大战”](https://www.cnbeta.com/articles/tech/1313345.htm) | Wed Sep 07 2022 1:58 AM 
+- 🚀 [《索尼克：未知边境》公开片尾曲Vandalize试听MV](https://hot.cnbeta.com/articles/music/1313421.htm) | Wed Sep 07 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据NYMag报道，亿万富翁埃隆·马斯克正在试图退出以440亿美元收购Twitter公司的交易。但是，马斯克现在正处于他职业生涯中围绕这种买方反悔而进行的风险最大的诉讼中，这一案件可能危及他2400亿美元左右的巨额财富，&lt;strong&gt;而这一诉讼的核心是挖掘他的短信和电子邮件，以了解这个人的真实想法。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天（9月7日）一早，SEGA官方频道公开了开放世界动作游戏《索尼克：未知边境》的游戏片尾曲Vandalize，一起来试听一下吧。游戏片尾曲Vandalize由日本组合“ONE OK ROCK”制作，是一首具有速度感，与索尼克角色酷帅形象非常吻合的曲子。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1313421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [华为Mate 50 Pro 10倍抗摔的昆仑玻璃 让网友想到了7年前的moto手机](https://www.cnbeta.com/articles/tech/1313343.htm) | Wed Sep 07 2022 1:57 AM 
+- 🎊 [NASA韦伯太空望远镜捕捉到宇宙“蜘蛛”的图像](https://www.cnbeta.com/articles/science/1313419.htm) | Wed Sep 07 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨天，华为Mate 50 Pro正式发布，该机首发昆仑玻璃。官方称“华为昆仑玻璃材质经过24小时高温纳米晶体生长、108道微晶原材及面板加工工序、1600度铂贵金属熔炼工艺的打造，在抗冲击方面可以做到坚若磐石”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国宇航局（NASA）的詹姆斯-韦伯太空望远镜在一个名为剑鱼座30（30 Doradus）的恒星“苗圃”中发现了数千颗从未见过的年轻恒星。由于在以前的望远镜图像中出现了尘埃状的细丝，&lt;strong&gt;该星云被昵称为“蜘蛛星云”&lpar;Tarantula Nebula&rpar;，长期以来一直是研究恒星形成的天文学家的最爱。&lt;/strong&gt;除了年轻的恒星，韦伯还揭示了遥远的背景星系，以及星云的气体和尘埃的详细结构和组成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
