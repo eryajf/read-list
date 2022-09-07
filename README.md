@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [“为你读书”公益行动走进河南上蔡 为高李村小学送来1000余册图书](https://www.cnbeta.com/articles/tech/1313577.htm) | Wed Sep 07 2022 10:18 AM 
+- 🕯 [能源危机下电动车也难幸免？马斯克或许已有预感……](https://www.cnbeta.com/articles/tech/1313591.htm) | Wed Sep 07 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;进入9月，新的一学年即将开启。身为学生，如何快速融入集体，进入到理想的学习状态？读书，在打开了解外界大门的同时，也能让学生真正沉下心，习得新知识，与好友共享书中“黄金屋”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一周前，特斯拉CEO马斯克在挪威一场能源会议期间意外表态，世界必须继续开采石油和天然气，引起外界不少关注。作为全球新能源汽车界的领头羊，马斯克却出乎意料地为传统能源“站台”，究竟背后有何深意呢？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家为6000年前西瓜籽测序 迄今最古老植物基因组破译](https://www.cnbeta.com/articles/science/1313575.htm) | Wed Sep 07 2022 9:41 AM 
+- 💼 [宁德时代麒麟电池量产出货时间将提前至今年年底](https://www.cnbeta.com/articles/tech/1313589.htm) | Wed Sep 07 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一个国际科研团队对在利比亚撒哈拉沙漠考古遗址收集的新石器时代的西瓜种子进行测序，破译了迄今最古老的植物基因组。&lt;/strong&gt;对6000年前的西瓜种子进行测序，为西瓜的驯化提供了新线索，有助研究如何增强西瓜的抗旱、抗病虫害能力。相关论文发表于最近的《分子生物学与进化》杂志。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313575.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;全球动力电池龙头企业宁德时代的麒麟电池量产进度比此前预计的更快。近日，澎湃新闻记者从知情人士处独家获悉：宁德时代新能源科技股份有限公司（以下简称“宁德时代”，300750.SZ&rpar;第三代CTP——麒麟电池将在今年年底就实现量产出货，而不是此前一度宣布的2023年。首批量产电池将于明年第一季度装载于吉利汽车旗下的纯电豪华MPV极氪009系列上市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英国“第一猫”现身约翰逊演讲现场：我看看他走了没有](https://hot.cnbeta.com/articles/funny/1313573.htm) | Wed Sep 07 2022 9:39 AM 
+- 💂 [三星发布悲观预期：芯片销售大幅下滑态势将延续至明年](https://www.cnbeta.com/articles/tech/1313587.htm) | Wed Sep 07 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间9月6日上午，&lt;strong&gt;约翰逊在唐宁街10号发表了他作为英国首相的最后一次演讲，英国广播公司&lpar;BBC&rpar;的直播中出现了英国“第一猫”、首席捕鼠官拉里&lpar;Larry&rpar;的身影。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1313573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;韩国三星电子预计，芯片销售大幅下滑的态势将持续到明年，这是唱衰半导体行业的最新观点。个人电脑、智能手机和数据服务器销售大幅回落拖累了半导体行业，也推动相关股票大幅下跌。&lt;/strong&gt;当地时间周三&lpar;9月7日&rpar;，三星半导体部门负责人Kyung Kye-hyun在新闻发布会上表示，今年下半年看起来很糟糕，目前看来，明年似乎也没有显示出明显改善的势头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [一加11年底登场：骁龙8 Gen2加持](https://www.cnbeta.com/articles/tech/1313571.htm) | Wed Sep 07 2022 9:39 AM 
+- 🚀 [权游、指环王前传剧集上线 流媒体平台借奇幻IP对决](https://hot.cnbeta.com/articles/movie/1313585.htm) | Wed Sep 07 2022 11:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天下午，博主数码闲聊站爆料，一加年底将会发布骁龙8 Gen2旗舰，按照一加的命名规则，&lt;strong&gt;下一代旗舰应该是一加11，这款新机主打质感和性能。&lt;/strong&gt;目前一加最强悍的性能旗舰是一加Ace Pro，海外版本命名为一加10T，该机搭载骁龙8+芯片，最高配备16GB内存，安兔兔跑分突破了110万分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313571.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，《龙之家族》和《指环王：力量之戒》（下称《力量之戒》）先后上线。同为顶级奇幻IP，均号称史诗级巨制，两者不可避免地在流媒体平台直面对决。《权力的游戏》第八季烂尾后，制作费用高达2亿美元、被剧粉寄予厚望的衍生剧《龙之家族》于8月21日上线HBO Max。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NFT专家“宏大”设想：未来穷人可以在游戏中当NPC](https://www.cnbeta.com/articles/tech/1313569.htm) | Wed Sep 07 2022 9:38 AM 
+- 🎊 [专家警告欧盟人工智能监管法案或严重打击开源工作的积极性](https://www.cnbeta.com/articles/tech/1313583.htm) | Wed Sep 07 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;将 NFT 加入游戏中受到了游戏玩家和粉丝的集体反感，而许多 NFT 游戏基本上都没有获得成功。根据 PC Gamer 总结，原因基本上可以归于两点：首先，NFT没有为游戏添加任何新的价值；其次，玩家拥有的 NFT 资产随时都有可能被盗。一旦和现实资产挂钩，就会出现许多麻烦。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313569.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;针对欧盟拟议的开源人工智能监管新政，无党派智囊团 Brookings 已于近日表达了明确的反对意见。&lt;strong&gt;其在文章中指出 —— 新规强加给通用人工智能系统的法律责任，也将对该领域的技术发展造成严重的破坏。&lt;/strong&gt;根据欧盟的“人工智能法案”草案，开源开发者也必须遵守风险管理、数据治理、技术文档和透明度、以及准确性和网络安全标准等方面的指导方针。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
