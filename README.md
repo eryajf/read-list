@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果已经淘汰所有非5G iPhone手机 旧款均已不再在官网销售](https://www.cnbeta.com/articles/tech/1313697.htm) | Wed Sep 07 2022 6:53 PM 
+- 🕯 [AppleCare+更新至涵盖&quot;无限制维修&quot;](https://www.cnbeta.com/articles/tech/1313705.htm) | Wed Sep 07 2022 7:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在发布iPhone 14和iPhone 14 Pro的同时，苹果公司今天更新了AppleCare+，引入了对&amp;quot;无限维修&amp;quot;的支持，而不是每年两次维修。苹果公司表示，iPhone的AppleCare+&amp;quot;包括无限次的意外损坏保护&amp;quot;虽然可以无限次提供服务，但每次都要收取服务费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iPhone 14系列4款机型视频播放续航数据对比：Pro Max最强 14垫底](https://www.cnbeta.com/articles/tech/1313703.htm) | Wed Sep 07 2022 7:46 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日消息，苹果官网显示，iPhone 14、iPhone 14 Plus、iPhone 14 Pro和iPhone 14 Pro Max四款机型中，&lt;strong&gt;Pro Max版本视频播放时长最长，达到了29小时，比上一代13 Pro Max还多1小时。其次是iPhone 14 Plus，视频播放最长可达26小时，然后是iPhone 14 Pro，续航播放时长是23小时，最差的是iPhone 14标准版，续航播放时长仅为20小时。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [iPhone 14 Pro Max重量公布：240g接近半斤 相比前代再厚0.2mm](https://www.cnbeta.com/articles/tech/1313701.htm) | Wed Sep 07 2022 7:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天，苹果iPhone 14系列正式发布，现在苹果官网公布了iPhone 14系列详细规格。其中&lt;strong&gt;iPhone 14 Pro Max重量达到了240g，比iPhone 13 Pro Max重2g，&lt;/strong&gt;厚度为7.85mm，比iPhone 13 Pro Max厚0.2mm。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [[图]国行iPhone 14系列、新款Apple Watch和AirPods Pro 2售价公开](https://www.cnbeta.com/articles/tech/1313699.htm) | Wed Sep 07 2022 7:22 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在刚刚结束的“超前瞻”秋季新品发布会上，苹果推出了包括 iPhone 14 系列、Apple Watch Series 8 系列、Apple Watch SE、Apple Watch Ultra 等新品。在发布会结束之后，苹果中国区官网更新了上述新品的国行价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [苹果已经淘汰所有非5G iPhone手机 旧款均已不再在官网销售](https://www.cnbeta.com/articles/tech/1313697.htm) | Wed Sep 07 2022 6:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果公司9月7日的&amp;quot;Far Out&amp;quot;活动为我们带来了新的iPhone 14，但它也意味着一些早期机型的结束。&lt;strong&gt;从现在起，苹果公司官网将只销售支持5G的手机：iPhone 14、iPhone 14 Plus、14 Pro和14 Pro Max、iPhone 13和iPhone 13 Mini、iPhone 12和第二代iPhone SE（2022年）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [苹果公司正式停产并下架Apple Watch 3智能手表产品](https://www.cnbeta.com/articles/tech/1313695.htm) | Wed Sep 07 2022 6:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着新的Apple Watch Series 8型号和更新的Apple Watch SE的推出，苹果公司正式停产了过时的Apple Watch Series 3，该产品曾被作为199美元的低价选择出售。&lt;/strong&gt;自2015年以来，Apple Watch Series 3的设计与初代Apple Watch型号相同，没有采用苹果公司从Series 4型号开始推出的更大的外壳，它也是第一款推出时提供蜂窝网络连接的Apple Watch。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [苹果全面开启Apple Watch Series 8、第二代SE和Ultra的预购](https://www.cnbeta.com/articles/tech/1313693.htm) | Wed Sep 07 2022 6:44 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司全新的Apple Watch Series 8、Apple Watch SE和Apple Watch Ultra现在都可以在苹果公司的网上商店进行预购。今天完成预购后，Series 8和SE将于9月16日出货，而最高端的Ultra则要等到9月23日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [iPhone 14 Pro/14 Pro Plus登场：刘海变身“灵动岛”动态展示各种场景](https://www.cnbeta.com/articles/tech/1313691.htm) | Wed Sep 07 2022 6:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司推出了高端的iPhone 14 Pro机型，每个机型都获得了A16处理器以及改进后摄像头，&lt;strong&gt;沿用多年的刘海终于有了重大变化，变成了一个名为灵动岛&lpar;Dynamic Island&rpar;的药丸形状的黑色区域，但这里却大有玄机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [特斯拉Model Y获得欧洲安全机构五星级评价](https://www.cnbeta.com/articles/tech/1313689.htm) | Wed Sep 07 2022 6:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;特斯拉公司宣布，其Model Y在欧洲延续了五星评级的记录。&lt;/strong&gt;这款电动越野车在欧洲新车评估计划（Euro NCAP）进行的安全测试中获得了最高分，在该机构更严格的测试协议下测试的所有车辆中获得了最高总分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
