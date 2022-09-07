@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉Model Y获得欧洲安全机构五星级评价](https://www.cnbeta.com/articles/tech/1313689.htm) | Wed Sep 07 2022 6:04 PM 
+- 🕯 [苹果已经淘汰所有非5G iPhone手机 旧款均已不再在官网销售](https://www.cnbeta.com/articles/tech/1313697.htm) | Wed Sep 07 2022 6:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司9月7日的&amp;quot;Far Out&amp;quot;活动为我们带来了新的iPhone 14，但它也意味着一些早期机型的结束。&lt;strong&gt;从现在起，苹果公司官网将只销售支持5G的手机：iPhone 14、iPhone 14 Plus、14 Pro和14 Pro Max、iPhone 13和iPhone 13 Mini、iPhone 12和第二代iPhone SE（2022年）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果公司正式停产并下架Apple Watch 3智能手表产品](https://www.cnbeta.com/articles/tech/1313695.htm) | Wed Sep 07 2022 6:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;随着新的Apple Watch Series 8型号和更新的Apple Watch SE的推出，苹果公司正式停产了过时的Apple Watch Series 3，该产品曾被作为199美元的低价选择出售。&lt;/strong&gt;自2015年以来，Apple Watch Series 3的设计与初代Apple Watch型号相同，没有采用苹果公司从Series 4型号开始推出的更大的外壳，它也是第一款推出时提供蜂窝网络连接的Apple Watch。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果全面开启Apple Watch Series 8、第二代SE和Ultra的预购](https://www.cnbeta.com/articles/tech/1313693.htm) | Wed Sep 07 2022 6:44 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司全新的Apple Watch Series 8、Apple Watch SE和Apple Watch Ultra现在都可以在苹果公司的网上商店进行预购。今天完成预购后，Series 8和SE将于9月16日出货，而最高端的Ultra则要等到9月23日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [iPhone 14 Pro/14 Pro Plus登场：刘海变身“灵动岛”动态展示各种场景](https://www.cnbeta.com/articles/tech/1313691.htm) | Wed Sep 07 2022 6:29 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司推出了高端的iPhone 14 Pro机型，每个机型都获得了A16处理器以及改进后摄像头，&lt;strong&gt;沿用多年的刘海终于有了重大变化，变成了一个名为灵动岛&lpar;Dynamic Island&rpar;的药丸形状的黑色区域，但这里却大有玄机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [特斯拉Model Y获得欧洲安全机构五星级评价](https://www.cnbeta.com/articles/tech/1313689.htm) | Wed Sep 07 2022 6:04 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;特斯拉公司宣布，其Model Y在欧洲延续了五星评级的记录。&lt;/strong&gt;这款电动越野车在欧洲新车评估计划（Euro NCAP）进行的安全测试中获得了最高分，在该机构更严格的测试协议下测试的所有车辆中获得了最高总分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [苹果发布iPhone 14与iPhone 14 Plus：全面拥抱eSIM 支持卫星紧急求救](https://www.cnbeta.com/articles/tech/1313687.htm) | Wed Sep 07 2022 6:02 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果公司在本周三的特别活动发布了iPhone 14和iPhone 14 Plus，这是对其主流智能手机型号的更新，取消了mini型号，而全面拥抱更大的机身尺寸。&lt;/strong&gt;与6.1英寸的iPhone 14一起的是iPhone 14 Plus，这是Plus后缀多年后重新出现，它是一款拥有6.7英寸显示屏的智能手机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [iOS 16将于9月12日发布 重新设计锁屏、iMessage取消发送和编辑等功能](https://www.cnbeta.com/articles/tech/1313685.htm) | Wed Sep 07 2022 5:54 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果公司今天宣布，最新版本的iOS，即iOS 16，将于9月12日（星期一）向所有兼容的iPhone的用户推出，具有完全重新设计和可定制的锁屏，iMessage中的主要新功能，以及更多。&lt;/strong&gt;苹果在6月首次预览了iOS 16，在过去几个月里，它一直在接受应用开发者和公共项目成员的测试。iOS 16是一个重要的版本，为核心iOS应用和整体iOS体验带来了主要的新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [苹果发布新一代AirPods Pro真无线耳机：内置H2芯片 消噪能力加倍](https://www.cnbeta.com/articles/tech/1313683.htm) | Wed Sep 07 2022 5:49 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果在今天凌晨举办的“Far out”发布会上发布了新一代AirPods Pro真无线耳机，其配备了更加先进的功能特性。新加入的H2芯片支持高带宽连接，可实现“卓越音质”，Spatial&amp;nbsp;Audio&amp;nbsp;空间音频功能得到了进一步拓展，发声单元方面，新的驱动器带来更多的细节和更分明的三频。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [watchOS 9在Apple Watch Series 4及以后版本上引入低功耗模式](https://www.cnbeta.com/articles/tech/1313681.htm) | Wed Sep 07 2022 5:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果公司今天宣布，watchOS 9将在Apple Watch Series 4及以后的产品上采用新的低功耗模式。启用低功耗模式后，Apple Watch每次充电将能获得长达36小时的电池续航。&lt;/strong&gt;当Apple Watch处于低功耗模式时，许多核心功能仍然可用，包括活动追踪和跌倒检测，但一些功能，如常亮显示屏和锻炼检测将被禁用，以减少功耗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
