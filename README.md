@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从零开始 - Vue实现无限级树形选择器（无第三方依赖）](https://juejin.cn/post/7140586249001107470) | Wed Sep 07 2022 10:42 AM 
+- 🤗 [软考高级《系统架构设计师》案例分析-考试大纲及复习计划](https://juejin.cn/post/7140604378259554334) | Wed Sep 07 2022 11:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    复习初步计划 案例分析有点头疼，很多知识点，如果你不太了解，估计一个字都写不出来。 所以必须要有针对性的进行一些总结和分析了。 作为一个程序员，首先要用理性思维去分析问题。 首先，在网上找到了考试大纲 
+    </details> 
+
+- 🎡 [etcd v3版本生产级集群搭建以及实现一键启动脚本](https://juejin.cn/post/7140600906571071495) | Wed Sep 07 2022 11:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    etcd除了搭配k8s进行使用，还有很多其他的应用场景，比如：分布式锁、配置变更通知、分布式系统多节点的leader选举等。所以此文为大家介绍的etcd集群安装脱离k8s搭建集群 
+    </details> 
+
+- 🕯 [一起玩转！SOFA 飞船 Layotto 星球登陆计划](https://juejin.cn/post/7140596846283456520) | Wed Sep 07 2022 11:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    SOFA 飞船即将出发踏上充满挑战的星球登陆之旅，第一站将来到 Layotto 星球。星球登陆任务已被打包放在守护星球的各个空间站中。想要成为开源先锋的小伙伴快来参与探索，做进击的开源人吧！ 
+    </details> 
+
+- 🚀 [Vue实现无限级树形选择器（无第三方依赖）](https://juejin.cn/post/7140586249001107470) | Wed Sep 07 2022 10:42 AM 
     <details><summary>展开描述 ...</summary> 
     想要在 Vue 中实现一个这样的无限级树形选择器其实并不难，关键点在于利用 递归组件 和 高阶事件监听，下面我们就一步步来实现它。 
     </details> 
 
-- 🎡 [初探Flutter跨端游戏开发](https://juejin.cn/post/7140583175331250213) | Wed Sep 07 2022 10:30 AM 
+- 💪 [初探Flutter跨端游戏开发](https://juejin.cn/post/7140583175331250213) | Wed Sep 07 2022 10:30 AM 
     <details><summary>展开描述 ...</summary> 
     笔者在公司前前后后做了有小一年Flutter 开发，从入门到后面业务方变动，到暂时放弃Flutter。对于Flutter争议不提，我们得承认Flutter 是一款很优秀的跨端解决方案，到前段时间 
-    </details> 
-
-- 🕯 [Dragonfly 基于 P2P 的文件和镜像分发系统](https://juejin.cn/post/7140582228890746917) | Wed Sep 07 2022 10:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    Dragonfly 是一款基于 P2P 的智能镜像和文件分发工具。它旨在提高大规模文件传输的效率和速率，最大限度地利用网络带宽。在应用分发、缓存分发、日志分发和镜像分发等领域被大规模使用。 
-    </details> 
-
-- 🚀 [Object.defineProperty 与 Proxy 有什么区别？](https://juejin.cn/post/7140573063380205598) | Wed Sep 07 2022 9:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是前端西瓜哥，今天来看看 Object.defineProperty 和 Proxy 的区别。 我们先简单看看 Object.defineProperty 和 Proxy 的用法。 Obje 
-    </details> 
-
-- 💪 [LiveData 源码解析](https://juejin.cn/post/7140553557664596004) | Wed Sep 07 2022 8:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    LiveData 是一种可观察的数据存储器类。与常规的可观察类不同，LiveData 具有生命周期感知能力，意指它遵循其他应用组件（如 activity、fragment）的生命周期 
     </details> 
 <!-- juejin:END -->
 ### 少数派
