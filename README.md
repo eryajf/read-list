@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [WxDatViewer - 微信聊天记录图片批量清理/查看/导出/删除工具 &lpar;解密读取电脑版 dat 文件&rpar;](https://www.iplaysoft.com/wxdatviewer.html) | Mon Sep 05 2022 2:21 PM
-- 🧑‍🏫 [iSlide 插件 &lpar;PPT 增强神器&rpar; 买两年送 360 天！每月不到 5 块钱](https://www.iplaysoft.com/news/5670) | Thu Sep 01 2022 4:30 PM
-- 🥰 [《古墓丽影 : 暗影 终极版》限免领取！劳拉重启三部曲最后必玩大作 &lpar;包含全部 DLC&rpar;](https://www.iplaysoft.com/shadow-of-the-tomb-raider.html) | Thu Sep 01 2022 3:24 PM
-- 💻 [Draw.io - 吊打付费！开源免费的跨平台流程图绘图制图工具 &lpar;替代 Visio / ProcessOn&rpar;](https://www.iplaysoft.com/drawio.html) | Mon Aug 29 2022 1:29 PM
-- 🎃 [买1得12会员！喜马拉雅+腾讯视频+京东Plus+网易云音乐+芒果TV](https://www.iplaysoft.com/p/xmly-vip) | Mon Aug 29 2022 8:04 AM<!-- iplaysoft:END -->
+- 🧐 [万彩特效大师 &lpar;限时送会员&rpar; - 零基础轻松剪辑合成特效动画视频 / 替代 AE 制作特效大片](https://www.iplaysoft.com/wctxds.html) | Tue Sep 06 2022 7:52 PM
+- 🧑‍🏫 [WxDatViewer - 微信聊天记录图片批量清理/查看/导出/删除工具 &lpar;解密读取电脑版 dat 文件&rpar;](https://www.iplaysoft.com/wxdatviewer.html) | Mon Sep 05 2022 2:21 PM
+- 🥰 [iSlide 插件 &lpar;PPT 增强神器&rpar; 买两年送 360 天！每月不到 5 块钱](https://www.iplaysoft.com/news/5670) | Thu Sep 01 2022 4:30 PM
+- 💻 [《古墓丽影 : 暗影 终极版》限免领取！劳拉重启三部曲最后必玩大作 &lpar;包含全部 DLC&rpar;](https://www.iplaysoft.com/shadow-of-the-tomb-raider.html) | Thu Sep 01 2022 3:24 PM
+- 🎃 [Draw.io - 吊打付费！开源免费的跨平台流程图绘图制图工具 &lpar;替代 Visio / ProcessOn&rpar;](https://www.iplaysoft.com/drawio.html) | Mon Aug 29 2022 1:29 PM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
