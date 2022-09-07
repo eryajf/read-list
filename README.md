@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AppleCare+更新至涵盖&quot;无限制维修&quot;](https://www.cnbeta.com/articles/tech/1313705.htm) | Wed Sep 07 2022 7:51 PM 
+- 🕯 [Apple Watch Edition高端产品线停更 被爱马仕合作款取代](https://www.cnbeta.com/articles/tech/1313723.htm) | Wed Sep 07 2022 8:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在发布iPhone 14和iPhone 14 Pro的同时，苹果公司今天更新了AppleCare+，引入了对&amp;quot;无限维修&amp;quot;的支持，而不是每年两次维修。苹果公司表示，iPhone的AppleCare+&amp;quot;包括无限次的意外损坏保护&amp;quot;虽然可以无限次提供服务，但每次都要收取服务费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在推出Apple Watch八年后，苹果公司今天停产了该系列的高端产品线Edition系列。&lt;/strong&gt;这一变化发生在今天，Apple Watch Series 8和Apple Watch Ultra发布后，Apple Watch Series 7 Edition不再售卖，也没有Apple Watch Series 8 Edition。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14系列4款机型视频播放续航数据对比：Pro Max最强 14垫底](https://www.cnbeta.com/articles/tech/1313703.htm) | Wed Sep 07 2022 7:46 PM 
+- 💼 [苹果本季度的最便宜新品：一根挂绳 售价98元](https://www.cnbeta.com/articles/tech/1313721.htm) | Wed Sep 07 2022 8:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，苹果官网显示，iPhone 14、iPhone 14 Plus、iPhone 14 Pro和iPhone 14 Pro Max四款机型中，&lt;strong&gt;Pro Max版本视频播放时长最长，达到了29小时，比上一代13 Pro Max还多1小时。其次是iPhone 14 Plus，视频播放最长可达26小时，然后是iPhone 14 Pro，续航播放时长是23小时，最差的是iPhone 14标准版，续航播放时长仅为20小时。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天苹果举办的新品发布会上，共带来了共计8款新品：包括四款手机、三款手表、一款耳机。手机从5999元到13499元不等，手表从1999元到6299元不等，耳机（AirPods Pro 2）售价1899元。&lt;strong&gt;其中与AirPods Pro 2一同发布的，还有一根挂绳，售价98元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14 Pro Max重量公布：240g接近半斤 相比前代再厚0.2mm](https://www.cnbeta.com/articles/tech/1313701.htm) | Wed Sep 07 2022 7:45 PM 
+- 💂 [iPhone 14美版干掉实体SIM卡转用eSIM 国行依然标配双卡](https://www.cnbeta.com/articles/tech/1313719.htm) | Wed Sep 07 2022 8:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，苹果iPhone 14系列正式发布，现在苹果官网公布了iPhone 14系列详细规格。其中&lt;strong&gt;iPhone 14 Pro Max重量达到了240g，比iPhone 13 Pro Max重2g，&lt;/strong&gt;厚度为7.85mm，比iPhone 13 Pro Max厚0.2mm。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;eSIM虚拟卡已经提出很多年，但因为种种原因，一直没有普及开来。今天，苹果迈出了一大步，美版的iPhone 14将全系标配eSIM，彻底取消实体SIM卡槽。那么，国行呢？根据苹果官网信息，&lt;strong&gt;国行版的iPhone 14将全部配备两个nanoSIM卡槽，继续使用实体SIM卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[图]国行iPhone 14系列、新款Apple Watch和AirPods Pro 2售价公开](https://www.cnbeta.com/articles/tech/1313699.htm) | Wed Sep 07 2022 7:22 PM 
+- 🚀 [iPhone 14发布会后 iPhone 12/13官方价格调降](https://www.cnbeta.com/articles/tech/1313717.htm) | Wed Sep 07 2022 8:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在刚刚结束的“超前瞻”秋季新品发布会上，苹果推出了包括 iPhone 14 系列、Apple Watch Series 8 系列、Apple Watch SE、Apple Watch Ultra 等新品。在发布会结束之后，苹果中国区官网更新了上述新品的国行价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着iPhone 14系列的发布，苹果也调整了在售手机产品线，简单来说，iPhone 13 Pro/Pro Max、iPhone 12 mini、iPhone 11这四款机型从官网下架。同时，&lt;strong&gt;iPhone 12（64GB）、iPhone 13 mini（128GB）的起步价调整为599美元，国行对应4699元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果已经淘汰所有非5G iPhone手机 旧款均已不再在官网销售](https://www.cnbeta.com/articles/tech/1313697.htm) | Wed Sep 07 2022 6:53 PM 
+- 🎊 [苹果iPhone 14 Pro暗紫新配色抢先上手](https://www.cnbeta.com/articles/tech/1313715.htm) | Wed Sep 07 2022 8:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司9月7日的&amp;quot;Far Out&amp;quot;活动为我们带来了新的iPhone 14，但它也意味着一些早期机型的结束。&lt;strong&gt;从现在起，苹果公司官网将只销售支持5G的手机：iPhone 14、iPhone 14 Plus、14 Pro和14 Pro Max、iPhone 13和iPhone 13 Mini、iPhone 12和第二代iPhone SE（2022年）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果刚刚发布了iPhone 14 Pro和iPhone 14 Pro Max。它们是对去年的iPhone 13 Pro系列手机的重大升级。新品具有常亮屏幕、支持动画的灵动岛、更快的A16仿生芯片，甚至是升级4800万像素摄像头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
