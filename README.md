@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [漫步 Vite 插件](https://juejin.cn/post/7140630760402190343) | Wed Sep 07 2022 1:36 PM 
+- 🤗 [Vue3响应式进阶API](https://juejin.cn/post/7140635861003010084) | Wed Sep 07 2022 1:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    shallowRef是一种浅层形式的ref，浅层式的API创建的状态只在其顶层是响应式的，也就是说它只对.value的访问是响应式的，不会对内部值进行深层递归的响应式转换。 
+    </details> 
+
+- 🎡 [你真的懂反馈吗？](https://juejin.cn/post/7140635303630340104) | Wed Sep 07 2022 1:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    有沟通就有反馈，在职场里如果我们需要为某件事达成一致，那么反馈必不可少。但并不是每个人都知道如何反馈才能更高效。为了更好的使用反馈，我们需要了解两个概念：反馈效应和反馈回路。 
+    </details> 
+
+- 🕯 [uni-app h5、app模式下集成turn.js 翻书动画](https://juejin.cn/post/7140634804495581215) | Wed Sep 07 2022 1:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    uni-app 集成turnjs 翻书动画 h5 页面 引入JQuery、turn.js 工具类文件，注意引入的顺序 关于uni-app 引入JQuery 可以查看 Vue、uni-app（H5、Ap 
+    </details> 
+
+- 🚀 [漫步 Vite 插件](https://juejin.cn/post/7140630760402190343) | Wed Sep 07 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
     关于 Vite 插件的讲解将分为两篇文章，本篇侧重应用，包括 Vite 和 Rollup 对比， Vite 插件实操、钩子源码解读等。 
     </details> 
 
-- 🎡 [如何让百度搜索结果显示网站 logo](https://juejin.cn/post/7140630309468864542) | Wed Sep 07 2022 1:36 PM 
+- 💪 [如何让百度搜索结果显示网站 logo](https://juejin.cn/post/7140630309468864542) | Wed Sep 07 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
     很多人都有用百度搜索自己想要的东西，例如想做软件的人会在百度上搜索“源字节科技有限公司”，从而获得符合自己需要的内容。 
-    </details> 
-
-- 🕯 [webpack output.library 的 16 种取值](https://juejin.cn/post/7140619769853509640) | Wed Sep 07 2022 12:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    一直以来对 output.library 配置项都是不求甚解，只知道将代码打包成 npm 库的时候要配置它，这段时间又要开发组件库，借助这次机会对 output.library 求甚解。 
-    </details> 
-
-- 🚀 [面试突击81：什么是跨域问题？如何解决？](https://juejin.cn/post/7140618562351136804) | Wed Sep 07 2022 12:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    跨域问题指的是不同站点之间，使用 ajax 无法相互调用的问题。跨域问题本质是浏览器的一种保护机制，它的初衷是为了保证用户的安全，防止恶意网站窃取数据。 
-    </details> 
-
-- 💪 [用go写一个简单的Redis客户端框架](https://juejin.cn/post/7140612873403203620) | Wed Sep 07 2022 12:28 PM 
-    <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情 本篇文章，我们将用go写一个Redis的客户端，其实主要还是探究RESP协议，如果你是第一次看本专栏文章，建议先看【 
     </details> 
 <!-- juejin:END -->
 ### 少数派
