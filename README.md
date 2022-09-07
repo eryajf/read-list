@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [System Toolkit 5.7.0 系统工具包](https://xclient.info/s/system-toolkit.html) | Tue Sep 06 2022 1:17 AM 
+- 🦏 [VideoDuke 2.8.2 视频下载](https://xclient.info/s/videoduke.html) | Wed Sep 07 2022 12:55 AM 
     <details><summary>展开描述 ...</summary> 
-    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
+    VideoDuke 支持在网站视频下载所有流行格式的视频文件，可以以各种文件格式保存。只需将链接粘贴到应用中即可完成。 
     </details> 
 
--  [SyncTime 4.1 文件同步工具](https://xclient.info/s/synctime.html) | Tue Sep 06 2022 1:17 AM 
+-  [Kite Composer 2.1.1 一款MacOS和iOS动效软件](https://xclient.info/s/kite.html) | Wed Sep 07 2022 12:54 AM 
     <details><summary>展开描述 ...</summary> 
-    SyncTime是一款Mac上的文件同步软件，SyncTime是同步文件的最简单的解决方案，您可以通过SyncTime轻松地保持最新的所有备份副本，分布在许多设备上。 
+    Kite Compositor不光可以完美的构建MacOS和iOS动画和原型，也直观地拖放图层来创建复杂的界面所见即所得的画布。 
     </details> 
 
-- ⚗️ [Omni Recover 3.4.1 iPhone数据恢复软件](https://xclient.info/s/omni-recover.html) | Tue Sep 06 2022 1:16 AM 
+- ⚗️ [Keyboard Maestro 10.2 键盘增强](https://xclient.info/s/keyboard-maestro.html) | Wed Sep 07 2022 12:53 AM 
     <details><summary>展开描述 ...</summary> 
-    Omni Recover是一款恢复iPhone数据恢复最好的软件。它可以与您所有的苹果设备，iOS和iTunes版本无缝地配合使用。 
+    Keyboard Maestro 能将你的keyboard的作用发挥到极致，她能提供的服务不只是基础的Hot Keys，像应用程序快速操作菜单（Palette），程序切换窗口，宏命令同步，脚本执行，剪切板切换窗口这些功能才是人家的看家本领。 
     </details> 
 
-- 🔥 [Typora 1.4.4 极简Markdown编辑器](https://xclient.info/s/typora.html) | Tue Sep 06 2022 1:14 AM 
+- 🔥 [A Better Finder Attributes 7.22 文件属性批量修改工具](https://xclient.info/s/a-better-finder-attributes.html) | Wed Sep 07 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
-    Typora是一个功能强大的Markdown编辑器,使用GFM风格&lpar;即大名鼎鼎的githubflavoredmarkdown&rpar; 
+    A Better Finder Attributes 是一款Mac上实用的文件和目录属性批量修改工具，可以快速修改文件或目录的各种属性，比如创建时间、修改时间、EXIF信息等等。 
     </details> 
 
-- 🌋 [Things 3.15.20 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Tue Sep 06 2022 1:13 AM 
+- 🌋 [Downie 4.5.10 视频下载工具](https://xclient.info/s/downie.html) | Wed Sep 07 2022 12:51 AM 
     <details><summary>展开描述 ...</summary> 
-    Things 是 Mac OS X 上的一款优秀的GTD任务管理工具，是一款非常值得尝试的任务管理及日程管理程序，并且支持同步到iPhone中。 
+    简单的拖放链接到Downie，它就会下载该网站上的视频。 
     </details> 
 <!-- xclient:END -->
 
