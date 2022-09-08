@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [LCRI获以太坊创始人1500万美元投资 用于研究和治疗Long COVID](https://www.cnbeta.com/articles/tech/1313983.htm) | Thu Sep 08 2022 8:19 AM 
+- 🕯 [17时59分最圆时刻 2022全国中秋赏月地图来了](https://www.cnbeta.com/articles/science/1314019.htm) | Thu Sep 08 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一家非营利“初创企业” LCRI 近日从以太坊联合创始人维塔利克·布特林（Vitalik Buterin）处获得了 1500 万美元的融资，主要用于研究和治疗 Long COVID。&lt;/strong&gt;虽然已经有不少人认为新冠疫情的影响已经明显减弱，但全球仍有数百万人正在遭受 COVID-19 的长期影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;明晚下班，大家就要开启愉快的中秋假期了。这次假期第一天就是中秋节，也就是后天，而且这次是十五的月亮十五圆，大家可欣赏到农历八月最圆月，&lt;strong&gt;预计最圆时刻将出现在17时59分左右。&lt;/strong&gt;不过，想要轻松欣赏明月还需要好的天气赏脸，&lt;strong&gt;中国天气今天特别发布了全国中秋赏月指数地图，快来看看你家能不能欣赏吧。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果正式宣布：手机厂下一个内卷方向是“上天”](https://www.cnbeta.com/articles/tech/1313981.htm) | Thu Sep 08 2022 8:06 AM 
+- 💼 [国务院办公厅印发《关于进一步加强商品过度包装治理的通知》](https://www.cnbeta.com/articles/tech/1314017.htm) | Thu Sep 08 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;手机+卫星，开启一个新想象。“三秒之后，索然无味。”北京时间 8 日凌晨，一年一度的苹果秋季新品发布，AKA“科技春晚”准时开幕。没人想到的是，发布会的新品里，最大的亮点是两款“Pro”版本的 iPhone 14 的“药丸屏”——一个“灵动岛”（Dynamic Island）的 UI 创新，挽救了整场发布会。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国务院办公厅日前印发《关于进一步加强商品过度包装治理的通知》（以下简称《通知》）。《通知》指出，要以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平生态文明思想，认真落实党中央、国务院决策部署，立足新发展阶段，完整、准确、全面贯彻新发展理念，构建新发展格局，推动高质量发展，充分认识进一步加强商品过度包装治理的重要性和紧迫性，在生产、销售、交付、回收等各环节明确工作要求，坚决遏制商品过度包装现象，为促进生产生活方式绿色转型、加强生态文明建设提供有力支撑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [锐龙R7-7770X零售八核处理器CPU-Z与Geekbench 5跑分曝光](https://www.cnbeta.com/articles/tech/1313979.htm) | Thu Sep 08 2022 8:04 AM 
+- 💂 [13代酷睿台式处理器发布会PPT曝光：i9、i7、i5六款SKU不出所料](https://www.cnbeta.com/articles/tech/1314015.htm) | Thu Sep 08 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;结合 @TUM_APISAK、@Harukaze5719 和 @BenchLeaks 的推特爆料，我们对 AMD 锐龙 R7-7700X 的基准性能也有了明确的了解。&lt;/strong&gt;可知作为一枚 8C / 16T 的 Zen 4 AM5 台式处理器，其跑分不仅拳打自家上一代 R7-5800X（8C / 16T）、还脚踢采用 8P+4E（12C / 20T）设计的英特尔 12 代 Alder Lake 酷睿 i7-12700K 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Igor&amp;#39;s Lab 刚刚泄露了英特尔 13 代 Raptor Lake 酷睿桌面处理器的发布会 PPT，&lt;strong&gt;可知其中包括了 i9-13900K（KF）、i7-13700K（KF）和 i5-13600K（KF）这六款 SKU、强调了它们相较于 12 代 Alder Lake 的主要区别，&lt;/strong&gt;并且详细介绍了 Z790 芯片组的特性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[图]乔布斯家人和好友共建Steve Jobs Archive档案网站](https://www.cnbeta.com/articles/tech/1313977.htm) | Thu Sep 08 2022 7:56 AM 
+- 🚀 [我国开展时速200公里级高速公路测试 实车极速跑到230km/h](https://www.cnbeta.com/articles/tech/1314013.htm) | Thu Sep 08 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;乔布斯的好友和家人近日联合成立了 Steve Jobs Archive，该机构主要收藏这位科技大佬的存档内容。感兴趣的用户可以前往 &lt;a href=&quot;https://stevejobsarchive.com/&quot; target=&quot;_blank&quot;&gt;stevejobsarchive.com&lt;/a&gt; 网站了解更多的信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国内的高速公路限速120km/h，不过今后，随着技术的进步，国内高速有望进一步提速。据报道，9月6日，&lt;strong&gt;我国时速200公里级高速公路技术，在江苏高宣高速公路上进行现场测试，取得阶段性成果，为我国既有高速公路提速提供技术支撑。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [起亚和encore DB在欧洲展开合作：利用回收电池创建储能系统](https://www.cnbeta.com/articles/tech/1313975.htm) | Thu Sep 08 2022 7:48 AM 
+- 🎊 [AMD锐龙7 7700X正式版测试偷跑：多核性能超越i9-12900K](https://www.cnbeta.com/articles/tech/1314011.htm) | Thu Sep 08 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;起亚欧洲（Kia Europe）宣布和 Encore Deutsche Bahn（encore DB）建立新的合作伙伴关系，重新利用回收的电动汽车电池来创建可扩展的储能系统。&lt;/strong&gt;该系统原型已经在起亚 Soul EV 电池上部署，标志着该汽车制造商已开始在欧洲范围内推进该计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD锐龙7000系列将在本月底解禁上市，但似乎已经有人拿到了一颗锐龙7 7700X的正式版本，还跑了分。CPU-Z跑分很快被撤除，但眼尖手快的网友无处不在，留下了完整的证据。搭配DDR5-6400 CL30高频低时序内存，&lt;strong&gt;锐龙7 7700X CPU-Z单核跑分774、多核跑分8381。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
