@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Convolo Power Dialer - B2B 电源拨号器将您的销售代表的结果提高 10 倍](https://xinquji.com/posts/179334?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:40 AM 
+- 👀 [Vizician - 拖放数据以进行即时可视化数据探索](https://xinquji.com/posts/179362?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     B2B 电源拨号器将您的销售代表的结果提高 10 倍  
+     拖放数据以进行即时可视化数据探索  
     </details> 
 
-- 🥷 [Landa - 为真实的人投资房地产](https://xinquji.com/posts/179333?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:39 AM 
+- 🥷 [Session Rewind - 会话重播比 FullStory 便宜 90%](https://xinquji.com/posts/179361?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     为真实的人投资房地产  
+     会话重播比 FullStory 便宜 90%  
     </details> 
 
-- 💼 [FANCYMMS - 为您的下一个 SMS 活动快速创建动画 MMS GIF](https://xinquji.com/posts/179332?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:38 AM 
+- 💼 [Mentalio AI Mood Journal - 手机中的智能心理支持和情绪追踪器](https://xinquji.com/posts/179360?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     为您的下一个 SMS 活动快速创建动画 MMS GIF  
+     手机中的智能心理支持和情绪追踪器  
     </details> 
 
-- 🦅 [104 Ecommerce Newsletter Campaign Ideas - 包含 500 多个示例的 ecomm 活动创意集合](https://xinquji.com/posts/179331?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:37 AM 
+- 🦅 [Clarity - 自由合同生成器](https://xinquji.com/posts/179359?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     包含 500 多个示例的 ecomm 活动创意集合  
+     自由合同生成器  
     </details> 
 
-- 😺 [Unvalidated Ideas - 每周在您的收件箱中提供新的创业 /SaaS 创意](https://xinquji.com/posts/179330?utm_campaign=xinquji-rss) | Thu Sep 08 2022 6:36 AM 
+- 😺 [HyperComply - 发送和回复安全调查问卷的最佳方式](https://xinquji.com/posts/179358?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     每周在您的收件箱中提供新的创业 /SaaS 创意  
+     发送和回复安全调查问卷的最佳方式  
     </details> 
 <!-- xinquji:END -->
