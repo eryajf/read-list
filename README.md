@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [GOODRAM推出IRDM Ultimate PCIe Gen 5 M.2 SSD 传输速度10000MB/s](https://www.cnbeta.com/articles/tech/1314077.htm) | Thu Sep 08 2022 12:33 PM 
+- 🕯 [谷歌计划在印度试点放开拉米牌和Fantasy Sports类型的应用限制](https://www.cnbeta.com/articles/tech/1314083.htm) | Thu Sep 08 2022 1:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;为迎合全球第二大移动市场的社区需求，Google 已表示将于 9 月 28 日起开展为期一年的试点工作，&lt;strong&gt;以在印度区 Play 商店上架近期爆红的“每日幻想运动”（Daily Fantasy Sports）和“拉米牌”（Rummy）游戏。&lt;/strong&gt;Google 在支持页面上写道，其希望参与试点的印度注册企业积极提交申请表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [日产向聆风车主提供首款V2G适配器：支持反向输送 助力电网调峰](https://www.cnbeta.com/articles/tech/1314081.htm) | Thu Sep 08 2022 12:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;尽管今夏多地呼吁 EV 车主们不要在高峰期充电，以缓和电网供电压力。&lt;strong&gt;但随着电动汽车的日渐普及，未来我们或许还可畅想由 EV 反向输送能源，以帮助电网轻松调峰。&lt;/strong&gt;本文要为大家介绍的，就是日产（Nissan）向聆风车主提供的首款 Vehicle-to-Grid 适配器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [印度政府正在寻求对在线游戏行业的赢利进行征税](https://hot.cnbeta.com/articles/game/1314079.htm) | Thu Sep 08 2022 12:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;随着在线游戏行业的普及，印度政府正在寻求对该行业的赢利进行征税。&lt;/strong&gt;据《印度快报》今天（9月5日）报道，直接税官员正在审查过去三年在一个在线游戏平台上高达58000亿卢比盈利（72亿美元）的数据。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [GOODRAM推出IRDM Ultimate PCIe Gen 5 M.2 SSD 传输速度10000MB/s](https://www.cnbeta.com/articles/tech/1314077.htm) | Thu Sep 08 2022 12:33 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;本月早些时候，波兰公司GOODRAM在IFA 2022上披露了新的IRDM Ultimate SSD的原型，这是该公司的首款PCIe Gen 5 M.2 SSD。GOODRAM的新PCIe Gen 5接口是在制造商采用新标准以确保固态硬盘能达到高达14GB/s的读取速度时出现的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [合成DNA初创公司Catalog与希捷合作推出基于DNA的数据存储平台](https://www.cnbeta.com/articles/tech/1314075.htm) | Thu Sep 08 2022 12:17 PM 
+- 🎊 [合成DNA初创公司Catalog与希捷合作推出基于DNA的数据存储平台](https://www.cnbeta.com/articles/tech/1314075.htm) | Thu Sep 08 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;数据需要被储存在某个地方。然而，数据存储成本不断增长，而人们不断生产和消费的数据却无法跟上可用的存储。根据互联网数据中心（IDC）的数据，全球数据预计在2025年将从2018年的33兆字节增加到175兆字节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [《福星小子》新篇动画新角色公开 水树奈奈出演克拉玛公主](https://hot.cnbeta.com/articles/comic/1314073.htm) | Thu Sep 08 2022 12:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;高桥留美子经典名作《福星小子》全新TV动画即将于10月开播，9月8日今天官方公布了新角色声优，克拉玛星乌鸦天狗一族的女王克拉玛公主将由水树奈奈饰演，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1314073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [欧菲光发布华为同款可变光圈摄像头模组](https://www.cnbeta.com/articles/tech/1314071.htm) | Thu Sep 08 2022 12:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，华为在Mate 50系列上采用了可变光圈摄像头，在手机上实现了真实的变焦虚化效果，有效提升了用户的摄影体验。今天，原苹果供应链厂商欧菲光，发布了与华为采用同一原理的可变光圈摄像模组，&lt;strong&gt;通过在Lens前端增加可变光圈马达的方式，实现了单镜头从F1.4到F4.0四级光圈可调。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [液氮压制 13代酷睿终于冲上8GHz](https://www.cnbeta.com/articles/tech/1314069.htm) | Thu Sep 08 2022 12:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;极限超频虽然没什么实际意义，但也是产品实力、玩家能力的另一种体现，甚至可以说代表着人类对极限的不断诉求。&lt;strong&gt;近期，一位超频玩家利用液氮，在某Z490主板上将一颗i9-13900K超频到了惊人的8GHz。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;数据需要被储存在某个地方。然而，数据存储成本不断增长，而人们不断生产和消费的数据却无法跟上可用的存储。根据互联网数据中心（IDC）的数据，全球数据预计在2025年将从2018年的33ZB增加到175ZB。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
