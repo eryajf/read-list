@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [官方回应放生矿泉水不属于放生：大爷大妈行为荒诞 还怼劝阻者影响自己诚心](https://www.cnbeta.com/articles/tech/1313907.htm) | Thu Sep 08 2022 6:01 AM 
+- 🕯 [宇航员未来或能用钛和火星岩石3D打印工具和零件](https://www.cnbeta.com/articles/science/1313965.htm) | Thu Sep 08 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，广东一网友偶遇一群人在河边，身边一箱箱地堆满了矿泉水。起初网友还没看懂这是什么操作，但看了一会儿就惊呆了，一群人竟然往河里“放生”矿泉水，路人好心上前提醒，却被怼影响了她们诚心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;将材料送入太空的成本是非常昂贵的，所以宇航员能在现场制作的东西越多越好。&lt;strong&gt;华盛顿州立大学（WSU）的工程师现在展示了如何将少量的模拟碎火星岩石与钛合金混合在一起，制成可3D打印的建筑材料。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NASA DART航天器带来第一张Didymos图像](https://www.cnbeta.com/articles/science/1313905.htm) | Thu Sep 08 2022 5:55 AM 
+- 💼 [[下载]GPU-Z 2.48.0更新阻止了英伟达工程样品GPU的泄露](https://www.cnbeta.com/articles/soft/1313963.htm) | Thu Sep 08 2022 7:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NASA的双小行星重定向测试&lpar;DART&rpar;航天器最近获得了Didymos的第一张图像，该双小行星系统包括其目标Dimorphos。 DART将在9月26日故意砸向Didymos的小行星卫星Dimorphos。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;VideoCardz 报道称：&lt;strong&gt;在现有和即将推出的众多工具软件更新中，TechPowerUp 旗下的 GPU-Z，将尝试限制英伟达工厂样品 GPU 的泄露。&lt;/strong&gt;其实比之 GPU-Z，该网站还是以 CPU-Z 被更多人所熟知，毕竟包括华硕在内的主板大厂都与之有合作。但为了防止在相关硬件在产品合作开发与现场测试阶段被泄露，绿厂还是给业界施加了更大的压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1313963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [乐视将发布中高端手机：2K屏+6400万像素主摄 高过iPhone 14 Pro](https://www.cnbeta.com/articles/tech/1313903.htm) | Thu Sep 08 2022 5:51 AM 
+- 💂 [《利刃出鞘2》发布先导预告 正式定名《玻璃洋葱：利刃出鞘疑案》](https://hot.cnbeta.com/articles/movie/1313961.htm) | Thu Sep 08 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天除了苹果发布了iPhone 14系列手机之外，乐视也发布了自己的新品手机，推出了三款低端入门产品。&lt;strong&gt;同时，乐视还预告下一款手机将主打中高端市场，这也将是乐视手机回归以后第一款主流配置手机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（9月8日），大热侦探悬疑片《利刃出鞘2》发布先导预告，正式定名为《玻璃洋葱：利刃出鞘疑案》&lpar;《Glass Onion: A Knives Out Mystery》&rpar;，一起来看看吧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [今年中秋“十五的月亮十五圆” 最圆时刻为17:59](https://www.cnbeta.com/articles/tech/1313901.htm) | Thu Sep 08 2022 5:50 AM 
+- 🚀 [科学家开发新的人工智能算法 可能导致癫痫的治愈](https://www.cnbeta.com/articles/science/1313959.htm) | Thu Sep 08 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“但愿人长久，千里共婵娟”，9月10日将迎来一年一度的中秋节，天文科普专家介绍，&lt;strong&gt;今年中秋是“十五的月亮十五圆”，中秋满月最圆时刻为9月10日17时59分。&lt;/strong&gt;中秋节的起源和月亮密不可分，据报道，中科院紫金山天文台科普部主任张旸介绍，依据月球绕地球公转而确定的“月”有多种定义，其中一种根据盈亏周期而定的月叫“朔望月”，是农历确定月份的依据，其平均长度约为29.53天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在伦敦大学学院（UCL）科学家们指导下工作的一个国际研究团队创建了一种人工智能（AI）算法，可以识别导致癫痫发作的细微大脑异常&lt;/strong&gt;。为了创建该算法，揭示局灶性脑皮质发育不良&lpar;FCD&rpar;--癫痫的一个主要原因--的实例中出现异常的地方，多中心癫痫病变检测项目（MELD）分析了来自22个国际癫痫中心的1000多名患者的MRI图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [海太长江隧道正式开工建设：全长39.07公里 被誉为“万里长江第一隧”](https://www.cnbeta.com/articles/tech/1313899.htm) | Thu Sep 08 2022 5:45 AM 
+- 🎊 [[图]NVIDIA预告Project Beyond项目：疑似为RTX 40系列预热](https://www.cnbeta.com/articles/tech/1313957.htm) | Thu Sep 08 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据南通发布最新报道，&lt;strong&gt;被誉为“万里长江第一隧”的海太长江隧道项目9月7日上午正式开工建设。&lt;/strong&gt;据了解，海太过江通道是我国2025年前重点建设的公铁复合过江通道，是通常高速、如通苏湖铁路的重要组成部分，也是南通“八龙过江”格局中落地实施的第五条通道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA 于今早发布了一条神秘推文，预告了“Project Beyond”项目，但是并没有提供任何其他额外信息。它带有一个动画，显示一束向外投射的绿色光线。对此，国外科技媒体 TechPowerUp 倾向于认为 Project Beyond 是一项旨在推出下一代 GeForce RTX 40 系列“Ada”显卡的营销活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
