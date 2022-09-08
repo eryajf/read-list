@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [强势美元波及数字货币 比特币再跌破19000美元引发10亿大爆仓](https://www.cnbeta.com/articles/tech/1313737.htm) | Wed Sep 07 2022 11:21 PM 
+- 🕯 [研究发现在自然界散步跟减压之间存在因果关系](https://www.cnbeta.com/articles/science/1313821.htm) | Thu Sep 08 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;数字货币周三盘中再度大跌，比特币今天一度跌超5%，以太币跌幅一度超10%。随着爆仓数量骤增，世界最大的比特币矿池之一Poolin近日发表声明称，由于遇到流动性问题，已暂停提款、闪电交易和内部转账。美元走强不仅令非美货币持续走低，就连数字货币市场也难逃池鱼之灾。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们都知道，在大自然中长时间地散步可以让人放松。&lt;strong&gt;现在，来自马克斯-普朗克人类发展研究所的研究人员进行的一项具有里程碑意义的新研究提供了一些最早的因果证据，其确切地表明在森林中散步一小时如何减少负责处理压力的大脑区域的活动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [亚马逊CEO称目前没有强制要求工人返回办公室办公的计划](https://www.cnbeta.com/articles/tech/1313735.htm) | Wed Sep 07 2022 11:19 PM 
+- 💼 [部分Apple Watch Ultra型号发货周期为6-7周](https://www.cnbeta.com/articles/tech/1313819.htm) | Thu Sep 08 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;亚马逊CEO Andy Jassy表示，该公司不打算命令企业员工返回办公室。&lt;/strong&gt;“我们没有计划要求人们回来。我们现在不会要求。但我们会在学习中适应性地进行，”他在洛杉矶的Code大会的舞台上说道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Apple Watch Ultra 将于 9 月 9 日早上 8 点接受预购，9 月 23 日发售，售价为 6299 元。目前苹果中国官网显示发货日期为“所有机型将在获得批准后发售”，&lt;strong&gt;不过苹果美国官网已经罗列了详细的发货周期，部分型号的发货日期为 6-7 周。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [DC发布电影《黑亚当》角色海报 明日公布全新预告](https://hot.cnbeta.com/articles/movie/1313733.htm) | Wed Sep 07 2022 11:18 PM 
+- 💂 [众外媒评析苹果2022秋季新品发布会：说服客户升级iPhone至关重要](https://www.cnbeta.com/articles/tech/1313817.htm) | Thu Sep 08 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;DC今天（9月8日）凌晨发布了电影《黑亚当》的角色海报，其中包括：黑亚当、鹰侠、命运博士、旋风、原子侠。另外，DC还透露该片的最新预告将于明天对外公开。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月8日消息，美国当地时间周三，苹果在其加州总部举行了2022年秋季新品发布会。在今年的盛会中，苹果发布了iPhone 14系列手机、三款智能手表以及耳机等，同时介绍了诸多改进和新功能。随后，多家外媒就苹果发布会进行了评论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14 Pro还有个岛？一文看尽苹果2022秋季发布会](https://www.cnbeta.com/articles/tech/1313731.htm) | Wed Sep 07 2022 11:16 PM 
+- 🚀 [索尼开始向全球PlayStation 5推送1440p支持等功能更新](https://hot.cnbeta.com/articles/game/1313815.htm) | Thu Sep 08 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月8日凌晨，苹果召开2022秋季新品发布会，备受期待的iPhone 14系列、Apple Watch Series 8以及AirPods Pro第二代悉数发布，同时还有Apple Watch Ultra这样的全新产品序列登场。颇感意外的是，发布会之前备受“吐槽”的iPhone 14 Pro叹号屏，被苹果引入了全新的灵动岛交互，反而成为本次发布会的最大亮点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;周三的时候，索尼在一篇 PlayStation 博客文章中宣布了将向全球推送 1440p 软件更新的消息。&lt;/strong&gt;经过一段时间的测试，这项功能使得玩家能够体验 2K @ 60 / 120 Hz 的显示输出。略为遗憾的是，该模式下无法启用 VRR 可变刷新率功能（仅限 1080p 或 2160p）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果公布iPhone重磅卫星功能 合作伙伴却经历大起大落](https://www.cnbeta.com/articles/tech/1313729.htm) | Wed Sep 07 2022 11:16 PM 
+- 🎊 [迪士尼前CEO伊格尔：电影业再也回不到疫情前了](https://hot.cnbeta.com/articles/movie/1313813.htm) | Thu Sep 08 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司周三宣布为iPhone 14推出卫星通信功能，由卫星通信公司全球星&lpar;Globalstar&rpar;提供这项紧急服务。&lt;strong&gt;正是这条消息让全球星的股价经历了一次过山车。&lt;/strong&gt;一年多来，业界一直在传全球星将为苹果的iPhone卫星服务提供支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;迪士尼前CEO鲍勃-伊格尔表示，新冠大流行给电影院业务留下了“永久的伤疤”，观影人数再也不可能恢复至疫情前的水平了。&lt;/strong&gt;“就观影人数而言，我认为电影永远不会回到疫情前的水平，”这位资深媒体高管周三在加州比弗利山庄举行的Code 伊格尔伊格尔于2020年2月辞去了迪士尼CEO，将大权交给了时任主题公园负责人的鲍勃·查帕克。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
