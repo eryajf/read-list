@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [乐视未死：乐融致新正计划独立寻求融资 债务仍属乐视网](https://www.cnbeta.com/articles/tech/1314033.htm) | Thu Sep 08 2022 10:12 AM 
+- 🕯 [互联网档案馆从时间机器备份中排除了臭名昭著的Kiwi Farms 网站](https://www.cnbeta.com/articles/tech/1314035.htm) | Thu Sep 08 2022 11:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在离线数日后，Kiwi Farms 各大网络平台正在陆续清理该论坛的痕迹 —— 早前 Twitch 上的 Clara“Keffals”Sorrenti 发起了一项针锋相对的运动。&lt;strong&gt;最新消息是，互联网档案馆（Internet Archive）也已不再托管 Kiwi Farms 的备份。&lt;/strong&gt;此外另一条推文指出，一个单独的备份站点也已被删除 —— 搜索任何内容都会得到“此 URL 已从时间机器中被排除”的回应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [乐视未死：乐融致新正计划独立寻求融资 债务仍属乐视网](https://www.cnbeta.com/articles/tech/1314033.htm) | Thu Sep 08 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;乐视超级电视的运营主体乐融致新（改名前为乐视致新）正计划独立寻求融资。在今天的乐视发布会上，乐融致新智能生态副总裁李晓伟透露，乐视超级电视当前的保有量为1200万台。新浪科技向知情人士进行求证并对这一数字进行了确认，“确实有过千万台的保有量。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Apple Watch Series 8、SE和Ultra同时上手 三款差异有多大？](https://www.cnbeta.com/articles/tech/1314031.htm) | Thu Sep 08 2022 10:10 AM 
+- 💂 [Apple Watch Series 8、SE和Ultra同时上手 三款差异有多大？](https://www.cnbeta.com/articles/tech/1314031.htm) | Thu Sep 08 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天是苹果可穿戴设备系列产品的一个大日子，苹果不仅宣布了主流型号Series 8，而且还更新了入门款SE，并推出了面向运动人士的坚固耐用的Apple Watch Ultra。换句话说，我们已经有了一个全新的Apple Watch阵容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14系列全球售价一览：美版、港版对比国行各有优劣](https://www.cnbeta.com/articles/tech/1314029.htm) | Thu Sep 08 2022 9:59 AM 
+- 🚀 [iPhone 14系列全球售价一览：美版、港版对比国行各有优劣](https://www.cnbeta.com/articles/tech/1314029.htm) | Thu Sep 08 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天凌晨，四款iPhone 14系列机型正式发布。一如往常，苹果很快公布了iPhone 14系列在全球主要市场的售价，不同版本之间的价格差异也显现出来。根据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/ttarticle/p/show?id=2309404811465487155583&quot; target=&quot;_blank&quot;&gt;红星资本局&lt;/a&gt;整理的表格，简单来说，按照汇率折算，&lt;strong&gt;美版iPhone 14系列最具竞争力，形成鲜明对比的法国版，即便是最入门的iPhone 14 128GB版本，就要折合7087元，比国行足足高出1000多元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [针对COVID-19的科学突破：分离出的抗体可避免让人群重复接种加强针](https://www.cnbeta.com/articles/science/1314025.htm) | Thu Sep 08 2022 9:43 AM 
+- 🎊 [针对COVID-19的科学突破：分离出的抗体可避免让人群重复接种加强针](https://www.cnbeta.com/articles/science/1314025.htm) | Thu Sep 08 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;特拉维夫大学实现了一项针对COVID-19的科学突破。该大学的一个科学家小组已经证明，从已康复的COVID-19患者的免疫系统中分离出来的抗体能够有效中和所有已知的病毒株。这包括Delta和Omicron变种。研究人员表示，这一发现可能可以消除反复强化接种的需要，并加强高危人群的免疫系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [电竞功能饮料G Fuel公司员工因投诉CEO粗口被解雇](https://hot.cnbeta.com/articles/game/1314023.htm) | Thu Sep 08 2022 9:29 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国功能饮料公司 G Fuel 旗下产品是声称能够提高玩家注意力和缩短反应时间的功能性运动饮料，长期以来涉足电竞项目，并赞助大量游戏主播。近日 Digiday 报道称，&lt;strong&gt;该公司员工在向 HR 举报公司创始人兼 CEO Cliff Morgan 在工作会议上大爆粗口后，公司一天解雇了 5 名人才经理。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
