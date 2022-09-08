@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14基本不涨价 4.5亿美元投资紧急卫星服务](https://www.cnbeta.com/articles/tech/1314129.htm) | Thu Sep 08 2022 7:17 PM 
+- 🕯 [收益率破1.4% 余额宝不香了？](https://www.cnbeta.com/articles/tech/1314131.htm) | Thu Sep 08 2022 7:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月8日，天弘余额宝货币市场基金7日年化收益率报1.3920%，短暂反弹之后再度跌破1.4%。以余额宝为代表的货币基金收益持续下滑，投资者选择“割肉”还是继续持有呢？进入8月份以来，天弘余额宝7日年化收益率持续走低，8月23日，天弘余额宝7日年化收益率报1.3690%，逐渐逼近2020年6月9日创下的历史低点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iPhone 14基本不涨价 4.5亿美元投资紧急卫星服务](https://www.cnbeta.com/articles/tech/1314129.htm) | Thu Sep 08 2022 7:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果公司9月7日发布了支持紧急卫星服务连接功能的iPhone 14系列智能手机和新系列智能手表等新品。在通胀压力下，iPhone 14的价格基本没有上涨。苹果在一场“Far Out”的新品发布活动中表示，最新款iPhone起售价格为799美元，将于本月晚些时候上市。苹果公司当天股价上涨近1%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [埃隆·马斯克：已经与苹果公司就Starlink连接问题进行了“有希望的对话”](https://www.cnbeta.com/articles/tech/1314127.htm) | Thu Sep 08 2022 7:14 PM 
+- 💂 [埃隆·马斯克：已经与苹果公司就Starlink连接问题进行了“有希望的对话”](https://www.cnbeta.com/articles/tech/1314127.htm) | Thu Sep 08 2022 7:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;随着昨天iPhone 14机型的推出，苹果公司推出了一项新的通过卫星进行紧急求救的功能，旨在让iPhone用户在没有手机或Wi-Fi连接的情况下也能获得紧急帮助。苹果目前正在使用Globalstar卫星进行这项工作，但SpaceX和特斯拉首席执行官埃隆·马斯克今天声称，他的公司已经与苹果就Starlink连接进行了&amp;quot;一些有希望的对话&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“先方后药” 网售处方药监管趋严](https://www.cnbeta.com/articles/tech/1314125.htm) | Thu Sep 08 2022 5:54 PM 
+- 🚀 [“先方后药” 网售处方药监管趋严](https://www.cnbeta.com/articles/tech/1314125.htm) | Thu Sep 08 2022 5:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;国家市场监督管理总局发布的《药品网络销售监督管理办法》（以下简称《办法》）将于2022年12月1日起施行。《办法》对药品网络销售管理、平台责任履行、监督检查措施及法律责任作出了规定。文件明确，七类药品不得网售，且网售处方药实行实名制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [英国女王伊丽莎白二世去世 享年96岁 在位70年](https://www.cnbeta.com/articles/tech/1314123.htm) | Thu Sep 08 2022 5:51 PM 
+- 🎊 [英国女王伊丽莎白二世去世 享年96岁 在位70年](https://www.cnbeta.com/articles/tech/1314123.htm) | Thu Sep 08 2022 5:51 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;英国在位时间最长的君主伊丽莎白二世在巴尔莫勒尔去世，享年96岁，在位70年。&lt;/strong&gt;她的家人在周四早些时候对她的健康状况表示担忧后，聚集在她的苏格兰庄园。女王于1952年登上王位，见证了巨大的社会变革。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [EA成立新工作室 开发以《战地》为背景的叙事战役](https://hot.cnbeta.com/articles/game/1314121.htm) | Thu Sep 08 2022 5:40 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;EA日前宣布成立RidgelineGames工作室，该工作室位于华盛顿柯克兰，由《光环》系列联合创始人Marcus Lehto领导，由行业资深人士组成，专注于开发以《战地》宇宙为背景的叙事战役游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
