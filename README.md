@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [腾讯遭大股东减持111.5万股，持股比例降至27.99%](https://www.cnbeta.com/articles/tech/1314119.htm) | Thu Sep 08 2022 5:12 PM 
+- 🕯 [“先方后药” 网售处方药监管趋严](https://www.cnbeta.com/articles/tech/1314125.htm) | Thu Sep 08 2022 5:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;国家市场监督管理总局发布的《药品网络销售监督管理办法》（以下简称《办法》）将于2022年12月1日起施行。《办法》对药品网络销售管理、平台责任履行、监督检查措施及法律责任作出了规定。文件明确，七类药品不得网售，且网售处方药实行实名制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [英国女王伊丽莎白二世去世 享年96岁 在位70年](https://www.cnbeta.com/articles/tech/1314123.htm) | Thu Sep 08 2022 5:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;英国在位时间最长的君主伊丽莎白二世在巴尔莫勒尔去世，享年96岁，在位70年。&lt;/strong&gt;她的家人在周四早些时候对她的健康状况表示担忧后，聚集在她的苏格兰庄园。女王于1952年登上王位，见证了巨大的社会变革。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [EA成立新工作室 开发以《战地》为背景的叙事战役](https://hot.cnbeta.com/articles/game/1314121.htm) | Thu Sep 08 2022 5:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;EA日前宣布成立RidgelineGames工作室，该工作室位于华盛顿柯克兰，由《光环》系列联合创始人Marcus Lehto领导，由行业资深人士组成，专注于开发以《战地》宇宙为背景的叙事战役游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [腾讯遭大股东减持111.5万股，持股比例降至27.99%](https://www.cnbeta.com/articles/tech/1314119.htm) | Thu Sep 08 2022 5:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;腾讯大股东再减持。9月8日，腾讯控股（00700.HK）主要股东Prosus宣布出售111.5万股腾讯股份，持股比例降至27.99%。Prosus在公告中表示，作为回购计划继续实施的一部分，公司已采取措施，将其持有的额外1.92亿股腾讯股票以凭证形式存入香港中央结算及交收系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [专克量子计算机的超级密码 被10年前的老爷机干碎了](https://www.cnbeta.com/articles/tech/1314117.htm) | Thu Sep 08 2022 4:39 PM 
+- 🎊 [专克量子计算机的超级密码 被10年前的老爷机干碎了](https://www.cnbeta.com/articles/tech/1314117.htm) | Thu Sep 08 2022 4:39 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近美国科研圈估计很头大。就在上个月美国国家标准与技术研究所（&amp;nbsp;NIST&amp;nbsp;）结束了一项为期 6 年的国际竞赛，目的是寻找对抗量子计算机的加密算法。之所以，有这么个竞赛，实在是加密专业的人的活的太惨，堪比国内的土木专业。自从量子计算机出现，各个学科都赢麻了，唯独搞密码学的崩溃了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [乘联会：开燃油车的高成本主要是税 车主以实际行动促消费](https://www.cnbeta.com/articles/tech/1314115.htm) | Thu Sep 08 2022 4:38 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月8日，乘联会发布《&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s/WRwGLp0LsA7-UGApPO0IaQ&quot; target=&quot;_blank&quot;&gt;2022年8月份全国乘用车市场分析&lt;/a&gt;》，报告指出，2022年8月乘用车市场零售达到187.1万辆，同比增长28.9%，是以往10年的最高增速。其中，8月新能源乘用车零售销量达到52.9万辆，渗透率28.3%。也就是说，国内每卖出10辆车，新能源车不到3辆，纯燃油车仍是主流。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《独行月球》票房破29.5亿 片方起诉三名网友要求道歉加赔偿](https://hot.cnbeta.com/articles/movie/1314113.htm) | Thu Sep 08 2022 4:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日晚间，电影《独行月球》官方晒出&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/7530772333/M4QiM9XDi&quot; target=&quot;_blank&quot;&gt;民事起诉状&lt;/a&gt;，称 针对“《独行月球》偷票房”的恶意诽谤言论，现正式对三名造谣者提起诉讼。官微称，创作不易，任何组织或者个人不应以侮辱、诽谤等方式侵害他人的名誉权，良好的电影市场环境需要大家共同建设。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [科学家发现一颗比地球大40%的系外行星 可能适合生命存在](https://www.cnbeta.com/articles/science/1314111.htm) | Thu Sep 08 2022 3:57 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一个国际科学家小组说，他们在大约100光年外发现了两颗新的 &amp;quot;超级地球&amp;quot;类型的行星，其中一颗可能适合生命的存在。&lt;/strong&gt;与我们太阳系中的任何行星不同，近1600颗已知的超级地球比地球大，但比天王星和海王星等冰冻行星轻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
