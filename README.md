@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [17时59分最圆时刻 2022全国中秋赏月地图来了](https://www.cnbeta.com/articles/science/1314019.htm) | Thu Sep 08 2022 9:17 AM 
+- 🕯 [乐视未死：乐融致新正计划独立寻求融资 债务仍属乐视网](https://www.cnbeta.com/articles/tech/1314033.htm) | Thu Sep 08 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;明晚下班，大家就要开启愉快的中秋假期了。这次假期第一天就是中秋节，也就是后天，而且这次是十五的月亮十五圆，大家可欣赏到农历八月最圆月，&lt;strong&gt;预计最圆时刻将出现在17时59分左右。&lt;/strong&gt;不过，想要轻松欣赏明月还需要好的天气赏脸，&lt;strong&gt;中国天气今天特别发布了全国中秋赏月指数地图，快来看看你家能不能欣赏吧。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;乐视超级电视的运营主体乐融致新（改名前为乐视致新）正计划独立寻求融资。在今天的乐视发布会上，乐融致新智能生态副总裁李晓伟透露，乐视超级电视当前的保有量为1200万台。新浪科技向知情人士进行求证并对这一数字进行了确认，“确实有过千万台的保有量。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国务院办公厅印发《关于进一步加强商品过度包装治理的通知》](https://www.cnbeta.com/articles/tech/1314017.htm) | Thu Sep 08 2022 9:14 AM 
+- 💼 [Apple Watch Series 8、SE和Ultra同时上手 三款差异有多大？](https://www.cnbeta.com/articles/tech/1314031.htm) | Thu Sep 08 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国务院办公厅日前印发《关于进一步加强商品过度包装治理的通知》（以下简称《通知》）。《通知》指出，要以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平生态文明思想，认真落实党中央、国务院决策部署，立足新发展阶段，完整、准确、全面贯彻新发展理念，构建新发展格局，推动高质量发展，充分认识进一步加强商品过度包装治理的重要性和紧迫性，在生产、销售、交付、回收等各环节明确工作要求，坚决遏制商品过度包装现象，为促进生产生活方式绿色转型、加强生态文明建设提供有力支撑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天是苹果可穿戴设备系列产品的一个大日子，苹果不仅宣布了主流型号Series 8，而且还更新了入门款SE，并推出了面向运动人士的坚固耐用的Apple Watch Ultra。换句话说，我们已经有了一个全新的Apple Watch阵容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [13代酷睿台式处理器发布会PPT曝光：i9、i7、i5六款SKU不出所料](https://www.cnbeta.com/articles/tech/1314015.htm) | Thu Sep 08 2022 9:04 AM 
+- 💂 [iPhone 14系列全球售价一览：美版、港版对比国行各有优劣](https://www.cnbeta.com/articles/tech/1314029.htm) | Thu Sep 08 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Igor&amp;#39;s Lab 刚刚泄露了英特尔 13 代 Raptor Lake 酷睿桌面处理器的发布会 PPT，&lt;strong&gt;可知其中包括了 i9-13900K（KF）、i7-13700K（KF）和 i5-13600K（KF）这六款 SKU、强调了它们相较于 12 代 Alder Lake 的主要区别，&lt;/strong&gt;并且详细介绍了 Z790 芯片组的特性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天凌晨，四款iPhone 14系列机型正式发布。一如往常，苹果很快公布了iPhone 14系列在全球主要市场的售价，不同版本之间的价格差异也显现出来。根据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/ttarticle/p/show?id=2309404811465487155583&quot; target=&quot;_blank&quot;&gt;红星资本局&lt;/a&gt;整理的表格，简单来说，按照汇率折算，&lt;strong&gt;美版iPhone 14系列最具竞争力，形成鲜明对比的法国版，即便是最入门的iPhone 14 128GB版本，就要折合7087元，比国行足足高出1000多元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [我国开展时速200公里级高速公路测试 实车极速跑到230km/h](https://www.cnbeta.com/articles/tech/1314013.htm) | Thu Sep 08 2022 8:59 AM 
+- 🚀 [针对COVID-19的科学突破：分离出的抗体可避免让人群重复接种加强针](https://www.cnbeta.com/articles/science/1314025.htm) | Thu Sep 08 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国内的高速公路限速120km/h，不过今后，随着技术的进步，国内高速有望进一步提速。据报道，9月6日，&lt;strong&gt;我国时速200公里级高速公路技术，在江苏高宣高速公路上进行现场测试，取得阶段性成果，为我国既有高速公路提速提供技术支撑。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特拉维夫大学实现了一项针对COVID-19的科学突破。该大学的一个科学家小组已经证明，从已康复的COVID-19患者的免疫系统中分离出来的抗体能够有效中和所有已知的病毒株。这包括Delta和Omicron变种。研究人员表示，这一发现可能可以消除反复强化接种的需要，并加强高危人群的免疫系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [AMD锐龙7 7700X正式版测试偷跑：多核性能超越i9-12900K](https://www.cnbeta.com/articles/tech/1314011.htm) | Thu Sep 08 2022 8:58 AM 
+- 🎊 [电竞功能饮料G Fuel公司员工因投诉CEO粗口被解雇](https://hot.cnbeta.com/articles/game/1314023.htm) | Thu Sep 08 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD锐龙7000系列将在本月底解禁上市，但似乎已经有人拿到了一颗锐龙7 7700X的正式版本，还跑了分。CPU-Z跑分很快被撤除，但眼尖手快的网友无处不在，留下了完整的证据。搭配DDR5-6400 CL30高频低时序内存，&lt;strong&gt;锐龙7 7700X CPU-Z单核跑分774、多核跑分8381。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国功能饮料公司 G Fuel 旗下产品是声称能够提高玩家注意力和缩短反应时间的功能性运动饮料，长期以来涉足电竞项目，并赞助大量游戏主播。近日 Digiday 报道称，&lt;strong&gt;该公司员工在向 HR 举报公司创始人兼 CEO Cliff Morgan 在工作会议上大爆粗口后，公司一天解雇了 5 名人才经理。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
