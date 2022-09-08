@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：Apple 召开秋季新品发布会、哈苏推出新款相机等](https://sspai.com/post/75625) | Wed Sep 07 2022 10:09 PM 
+- 👹 [生活不止眼前的苟且，还有眼下的厕纸：关于卫生纸你应该知道的](https://sspai.com/post/75552) | Thu Sep 08 2022 6:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言前段时间跟长辈聊天，我向他们问了一个我好奇已久的问题——他们小时候擦屁股用的是什么？他们的答案各不相同，令我有些意外，他们都没法用到如今我们习以为常的卫生纸，而是因地制宜，选择了不同的材料。我的舅 ...&lt;a href=&quot;https://sspai.com/post/75552&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：Apple 召开秋季新品发布会、哈苏推出新款相机等](https://sspai.com/post/75625) | Wed Sep 07 2022 10:09 PM 
     <details><summary>展开描述 ...</summary> 
     vivo 推出 Y75s 5G 版手机、微软推出 Xbox Elite 2 Core 手柄、索尼发布 PS5 固件更新等。&lt;a href=&quot;https://sspai.com/post/75625&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一图流 | Apple 秋季新品发布会回顾](https://sspai.com/post/75627) | Wed Sep 07 2022 10:06 PM 
+- 🤭 [一图流 | Apple 秋季新品发布会回顾](https://sspai.com/post/75627) | Wed Sep 07 2022 10:06 PM 
     <details><summary>展开描述 ...</summary> 
     2022 年 Apple 秋季新品发布会的一图流回顾来啦。&lt;a href=&quot;https://sspai.com/post/75627&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [常规之外也有惊喜，iPhone 迎来全新交互方式：Apple 发布会回顾](https://sspai.com/post/75626) | Wed Sep 07 2022 9:36 PM 
+- 🥸 [常规之外也有惊喜，iPhone 迎来全新交互方式：Apple 发布会回顾](https://sspai.com/post/75626) | Wed Sep 07 2022 9:36 PM 
     <details><summary>展开描述 ...</summary> 
     Apple 推出新一代 iPhone、Apple Watch、AirPods Pro。其中，iPhone 14 Pro 迎来全新交互设计，Apple Watch 家族再添新成员，AirPods Pro 终于迎来更新。&lt;a href=&quot;https://sspai.com/post/75626&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [佳作频出，后生可畏：与葛越聊「移动应用创新赛」](https://sspai.com/post/75611) | Wed Sep 07 2022 9:30 AM 
+- 🙉 [佳作频出，后生可畏：与葛越聊「移动应用创新赛」](https://sspai.com/post/75611) | Wed Sep 07 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     在本届移动应用创新赛中，我们与 Apple 副总裁及大中华区董事总经理葛越女士、Apple 大中华区开发者关系负责人谢恩伟先生聊了聊，聆听了他们对于教育、编程乃至移动应用创新赛的观点与评价，以及 Apple 在其中发挥的重要作用。&lt;a href=&quot;https://sspai.com/post/75611&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [首发特惠 | 拿下这本蓝皮书，你就是朋友圈里最懂 iOS 的人](https://sspai.com/post/75603) | Wed Sep 07 2022 8:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    即日起至 9 月 18 日，购买《iOS 蓝皮书》与《iOS 16 速通攻略》将享受七折首发特惠。&lt;a href=&quot;https://sspai.com/post/75603&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
