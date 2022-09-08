@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入理解Go语言中的闭包](https://juejin.cn/post/7140664403996868615) | Wed Sep 07 2022 3:47 PM 
+- 🤗 [Java&amp;C++题解与拓展——leetcode1582.二进制矩阵中的特殊位置【么的新知识】](https://juejin.cn/post/7140820256984924197) | Thu Sep 08 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍 Go 语言中闭包的定义，并且将探索闭包的几种不同的现实用例，以便您更好地了解闭包何时使用。 
+    leetcode1582.二进制矩阵中的特殊位置解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
     </details> 
 
-- 🎡 [UIStackView之一问一答](https://juejin.cn/post/7140663405639106590) | Wed Sep 07 2022 3:42 PM 
+- 🎡 [Fabric.js 修改画布交互方式到底有什么用？](https://juejin.cn/post/7140812541197811726) | Thu Sep 08 2022 1:19 AM 
     <details><summary>展开描述 ...</summary> 
-    此篇文章作为在使用UIStackView前的一些答疑。同时欢迎小伙伴通过评论区讲讲在使用UIStackView过程中遇到一些问题。 
+    😡 fabric.js 为我们提供了很多厉害的方法。今天要搞明白的一个东西是 canvas.interactive 
     </details> 
 
-- 🕯 [纠删码在实时视频流中的应用丨Dev for Dev 专栏](https://juejin.cn/post/7140663009680031781) | Wed Sep 07 2022 3:41 PM 
+- 🕯 [SQL 嵌套 N 层太长太难写怎么办？](https://juejin.cn/post/7140809375672696862) | Thu Sep 08 2022 1:07 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么视频对丢包更敏感呢？通常来说，音频的原始码率相对视频来说比较小，因此音频编码器的压缩率比视频编码器要小很多。 
+    我们工作中写SQL处理数据是家常便饭，不管是应用内数据处理还是临时查询分析都可以用SQL完成，相对其他技术（如Java等高级语言）也更简单。不过，SQL的简单只限于简单需求，有些复杂计算场景SQL写起 
     </details> 
 
-- 🚀 [如何设计一个消息中心](https://juejin.cn/post/7140651064725864485) | Wed Sep 07 2022 2:54 PM 
+- 🚀 [Java借助百度云人脸识别实现人脸注册、登录功能的完整示例](https://juejin.cn/post/7140809324749651975) | Thu Sep 08 2022 1:07 AM 
     <details><summary>展开描述 ...</summary> 
-    如今的内容型产品，不管提供的是什么类型的内容，在其主功能之外，不可避免的会有另一个十分重要的功能——消息中心。 而无论是信息流、论坛、信箱，还是私聊、群聊、通知，推拉模型是内容型（包括：社交型）产品架 
+    介绍百度云人工智能模块下关于人脸识别的一些API使用示例。以及使用Spring Boot集成百度云人脸识别，搭建后端服务。前端使用Vue构建，利用H5新媒体接口调用摄像头实现与后端服务接口对接。 
     </details> 
 
-- 💪 [Flowable 79 张表都是干嘛的？](https://juejin.cn/post/7140644820883603486) | Wed Sep 07 2022 2:30 PM 
+- 💪 [JAVA中让Swagger产出更加符合我们诉求的描述文档，按需决定显示或者隐藏指定内容](https://juejin.cn/post/7140808845495894052) | Thu Sep 08 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    @[toc] 当我们使用 Flowable 流程引擎的时候，虽然我们使用的是各种 API，但是小伙伴们都知道，这些 API 本质上操作的都是底层的数据表，Flowable 默认一共生成了 79 张数据 
+    swagger作为一个被广泛使用的在线接口文档辅助工具，上手会用很容易，但想用好却还是需要一定功夫的。所以呢，本篇文档就和大家一起来聊一聊如何用好swagger，让其真正的成为项目中的神兵利器。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
