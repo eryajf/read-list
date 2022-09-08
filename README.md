@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java&amp;C++题解与拓展——leetcode1582.二进制矩阵中的特殊位置【么的新知识】](https://juejin.cn/post/7140820256984924197) | Thu Sep 08 2022 1:50 AM 
+- 🤗 [云对象 - 重新定义前后端交互](https://juejin.cn/post/7140841434977927175) | Thu Sep 08 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode1582.二进制矩阵中的特殊位置解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    很多人都在讨论全栈。全栈就是使用一种语言js吗？不止。 语言的统一是第一步，下一步是协作的改善。这样才能让语言统一发挥更大的价值。 
     </details> 
 
-- 🎡 [Fabric.js 修改画布交互方式到底有什么用？](https://juejin.cn/post/7140812541197811726) | Thu Sep 08 2022 1:19 AM 
+- 🎡 [告别BeanUtils，Mapstruct从入门到精通、你想知道的前后端协作规范都在这了 | 酱酱的下午茶第68期](https://juejin.cn/post/7140841154425126925) | Thu Sep 08 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    😡 fabric.js 为我们提供了很多厉害的方法。今天要搞明白的一个东西是 canvas.interactive 
+    今日看点： 1、前端人必须掌握的抓包技能 2、肝不完这份HTTP八股文的你，再强大也是假的 3、深入剖析浏览器滚动条 4、你想知道的前后端协作规范都在这了 5、提升前端开发质量的十点经验沉淀 .... 
     </details> 
 
-- 🕯 [SQL 嵌套 N 层太长太难写怎么办？](https://juejin.cn/post/7140809375672696862) | Thu Sep 08 2022 1:07 AM 
+- 🕯 [得物云原生全链路追踪Trace2.0架构实践](https://juejin.cn/post/7140840556162351140) | Thu Sep 08 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-    我们工作中写SQL处理数据是家常便饭，不管是应用内数据处理还是临时查询分析都可以用SQL完成，相对其他技术（如Java等高级语言）也更简单。不过，SQL的简单只限于简单需求，有些复杂计算场景SQL写起 
+    得物全链路追踪&lpar;简称Trace2.0&rpar;基于OpenTelemetry提供的可观测标准方案实现新一代的一站式全链路观测诊断平台，并通过全量采集Trace帮助业务提高故障诊断、性能优化、架构治理的效率。 
     </details> 
 
-- 🚀 [Java借助百度云人脸识别实现人脸注册、登录功能的完整示例](https://juejin.cn/post/7140809324749651975) | Thu Sep 08 2022 1:07 AM 
+- 🚀 [Java&amp;C++题解与拓展——leetcode667.优美的排列 II【++在java和C++中的差异】](https://juejin.cn/post/7140837583998844941) | Thu Sep 08 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍百度云人工智能模块下关于人脸识别的一些API使用示例。以及使用Spring Boot集成百度云人脸识别，搭建后端服务。前端使用Vue构建，利用H5新媒体接口调用摄像头实现与后端服务接口对接。 
+    leetcode667.优美的排列 II解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
     </details> 
 
-- 💪 [JAVA中让Swagger产出更加符合我们诉求的描述文档，按需决定显示或者隐藏指定内容](https://juejin.cn/post/7140808845495894052) | Thu Sep 08 2022 1:05 AM 
+- 💪 [问题整理](https://juejin.cn/post/7140836446058840077) | Thu Sep 08 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
-    swagger作为一个被广泛使用的在线接口文档辅助工具，上手会用很容易，但想用好却还是需要一定功夫的。所以呢，本篇文档就和大家一起来聊一聊如何用好swagger，让其真正的成为项目中的神兵利器。 
+    类全局对象utBeanAssemble 现在问题点在于类全局对象utBeanAssemble 现在问题点在于类全局对象utBeanAssemble 现在问题点在于类全局对象utBeanAssemble 
     </details> 
 <!-- juejin:END -->
 ### 少数派
