@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [慕课网视频-助你平步青云](https://juejin.cn/post/7141026420335050760) | Thu Sep 08 2022 3:11 PM 
+- 🤗 [码上掘金不仅可以写 PPT，还可以录视频](https://juejin.cn/post/7141040719275229192) | Thu Sep 08 2022 4:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文基于我之前写的一篇文章《Markdown 写 PPT 是如何实现的？》，我们要在此之上实现视频录制的功能。 
+    </details> 
+
+- 🎡 [慕课网视频-助你平步青云](https://juejin.cn/post/7141026420335050760) | Thu Sep 08 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
     需要学习资料的可以加我，wx&lpar;itit2022&rpar;，助你平步青云，扫除一切障碍！！！ 提升自己的能力 体系课（这里只是一部分） ●完结 [【慕课】前端工程师-] ●完结 [【慕课】Java工程师2022 
     </details> 
 
-- 🎡 [如何应对核心员工提离职？](https://juejin.cn/post/7141021800624095246) | Thu Sep 08 2022 2:52 PM 
+- 🕯 [如何应对核心员工提离职？](https://juejin.cn/post/7141021800624095246) | Thu Sep 08 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
     最近一年互联网行情不好，很多大厂都在裁员，但裁员并不是不要人做事了。原来你这个岗位10个人做，企业有钱赚养得起，现在企业不怎么赚钱了，只能养4个人了。那么会有六个被裁掉。 
     </details> 
 
-- 🕯 [UDP vs TCP](https://juejin.cn/post/7141012828697133092) | Thu Sep 08 2022 2:17 PM 
+- 🚀 [UDP vs TCP](https://juejin.cn/post/7141012828697133092) | Thu Sep 08 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
     一、UDP UDP（User Datagram Protocol），用户数据包协议，是一个简单的面向数据报的通信协议，即对应用层交下来的报文，不合并，不拆分，只是在其上面加上首部后就交给了下面的网络层 
     </details> 
 
-- 🚀 [tomcat 集群监控与弹性伸缩](https://juejin.cn/post/7141011630300594207) | Thu Sep 08 2022 2:16 PM 
+- 💪 [tomcat 集群监控与弹性伸缩](https://juejin.cn/post/7141011630300594207) | Thu Sep 08 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
     如何给 tomcat 配置合适的线程池 任务分为 CPU 密集型和 IO 密集型 对于 CPU 密集型的应用来说，需要大量 CPU 计算速度很快，线程池如果过多，则保存和切换上下文开销过高反而会影响性 
-    </details> 
-
-- 💪 [都2022年了，你还不知道什么叫单调栈与单调队列吗？（上）](https://juejin.cn/post/7141006074961723429) | Thu Sep 08 2022 1:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    所谓的单调栈和单调队列又是什么意思呢？从字面意思上来看，所谓的“单调”就是指单调递增或者单调递减，没错，正如字面意思一般，单调栈及单调队列就是指的是栈/队列内元素单调递增或单调递减。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
