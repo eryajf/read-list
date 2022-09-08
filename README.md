@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《独行月球》票房破29.5亿 片方起诉三名网友要求道歉加赔偿](https://hot.cnbeta.com/articles/movie/1314113.htm) | Thu Sep 08 2022 4:12 PM 
+- 🕯 [腾讯遭大股东减持111.5万股，持股比例降至27.99%](https://www.cnbeta.com/articles/tech/1314119.htm) | Thu Sep 08 2022 5:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;腾讯大股东再减持。9月8日，腾讯控股（00700.HK）主要股东Prosus宣布出售111.5万股腾讯股份，持股比例降至27.99%。Prosus在公告中表示，作为回购计划继续实施的一部分，公司已采取措施，将其持有的额外1.92亿股腾讯股票以凭证形式存入香港中央结算及交收系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [专克量子计算机的超级密码 被10年前的老爷机干碎了](https://www.cnbeta.com/articles/tech/1314117.htm) | Thu Sep 08 2022 4:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最近美国科研圈估计很头大。就在上个月美国国家标准与技术研究所（&amp;nbsp;NIST&amp;nbsp;）结束了一项为期 6 年的国际竞赛，目的是寻找对抗量子计算机的加密算法。之所以，有这么个竞赛，实在是加密专业的人的活的太惨，堪比国内的土木专业。自从量子计算机出现，各个学科都赢麻了，唯独搞密码学的崩溃了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [乘联会：开燃油车的高成本主要是税 车主以实际行动促消费](https://www.cnbeta.com/articles/tech/1314115.htm) | Thu Sep 08 2022 4:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月8日，乘联会发布《&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s/WRwGLp0LsA7-UGApPO0IaQ&quot; target=&quot;_blank&quot;&gt;2022年8月份全国乘用车市场分析&lt;/a&gt;》，报告指出，2022年8月乘用车市场零售达到187.1万辆，同比增长28.9%，是以往10年的最高增速。其中，8月新能源乘用车零售销量达到52.9万辆，渗透率28.3%。也就是说，国内每卖出10辆车，新能源车不到3辆，纯燃油车仍是主流。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《独行月球》票房破29.5亿 片方起诉三名网友要求道歉加赔偿](https://hot.cnbeta.com/articles/movie/1314113.htm) | Thu Sep 08 2022 4:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日晚间，电影《独行月球》官方晒出&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/7530772333/M4QiM9XDi&quot; target=&quot;_blank&quot;&gt;民事起诉状&lt;/a&gt;，称 针对“《独行月球》偷票房”的恶意诽谤言论，现正式对三名造谣者提起诉讼。官微称，创作不易，任何组织或者个人不应以侮辱、诽谤等方式侵害他人的名誉权，良好的电影市场环境需要大家共同建设。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家发现一颗比地球大40%的系外行星 可能适合生命存在](https://www.cnbeta.com/articles/science/1314111.htm) | Thu Sep 08 2022 3:57 PM 
+- 🎊 [科学家发现一颗比地球大40%的系外行星 可能适合生命存在](https://www.cnbeta.com/articles/science/1314111.htm) | Thu Sep 08 2022 3:57 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;一个国际科学家小组说，他们在大约100光年外发现了两颗新的 &amp;quot;超级地球&amp;quot;类型的行星，其中一颗可能适合生命的存在。&lt;/strong&gt;与我们太阳系中的任何行星不同，近1600颗已知的超级地球比地球大，但比天王星和海王星等冰冻行星轻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [乔布斯女儿吐槽iPhone 14没新意 像是换一件新一点的衣服](https://www.cnbeta.com/articles/tech/1314109.htm) | Thu Sep 08 2022 3:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果创始人史蒂夫?乔布斯的女儿Eve在自己的Instagram吐槽称，iPhone 14手机毫无新意，虽然我换新机跟换衣服一样容易，但我依然没兴趣。&lt;/strong&gt;Eve的配图也是讽刺意味十足，一名男子拿着一件和他目前穿在身上相同的一件新衬衫，那感慨就是我有换的必要吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [从iPhone 14到iPhone 8 细数21款苹果手机快充功率变迁](https://www.cnbeta.com/articles/tech/1314107.htm) | Thu Sep 08 2022 3:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果2022年秋季新品发布会比往年提早了一个星期，但依旧是凌晨1点准时进行，此次发布会带来了全新iPhone 14系列，重塑的AirPods Pro以及三款新Apple Watch。&lt;/strong&gt;耳机、手表就不细说了，主要还是来聊聊最新的iPhone 14系列，全系新机依旧采用Lightning接口坐实了此前的相关爆料，并未受欧盟即将到来的强制设备使用USB-C接口政策的影响，对于想要早点获得该体验用户来说，只能是化身等等党了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [飞利浦呼吸机致癌？监管机构对其展开调查](https://www.cnbeta.com/articles/tech/1314105.htm) | Thu Sep 08 2022 3:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月8日消息，荷兰医疗设备公司飞利浦此前表示，由于呼吸机的泡沫部件可能会降解并变得有毒，从而导致癌症，因此召回了一些机器。当地时间周四（9月8日）巴黎检察官办公室已经对荷兰医疗器械制造商飞利浦召回的呼吸器械展开初步调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
