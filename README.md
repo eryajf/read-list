@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [花 2 分钟在 Web3 的世界中写下第一行 HelloWorld](https://juejin.cn/post/7140947933910237197) | Thu Sep 08 2022 10:06 AM 
+- 🤗 [测试一下](https://juejin.cn/post/7140983658411720712) | Thu Sep 08 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-    要说如今互联网中最大的变数，毫无疑问就是 Web3。 不管是互联网大厂，还是互联网独角兽，都在 Web3 的市场存在大量空缺。 
+    水滴石穿，金石可镂，坚持发文就一定会有收获~ 金石计划是针对掘金社区所有的原创作者发起的奖金瓜分活动，根据要求完成挑战，即可瓜分现金奖池！心动不如行动，从这里开启通往技术大牛之路的第一步吧！ 活动时间 
     </details> 
 
-- 🎡 [Smack入门与实战:仿写微光同步看电影聊天室](https://juejin.cn/post/7140933882223788045) | Thu Sep 08 2022 9:11 AM 
+- 🎡 [Hybrid app本地开发如何调用JSBridge](https://juejin.cn/post/7140975402339532831) | Thu Sep 08 2022 11:55 AM 
     <details><summary>展开描述 ...</summary> 
-    首先说下本课程要仿写的App吧，微光，这个我应该不用介绍了吧， 如您不了解，也没关系，我这里并不是给它做推广，因为我目前也在运营一款类似的App，我个人当然不会给我的竞争对手做广告，但是毕竟人家做的比 
+    前天同事问我公司内部的小程序怎么对接的，我回忆了一下，简单记录了一下前端同学需要注意的点。 背后还有小程序架构、网络策略等等 
     </details> 
 
-- 🕯 [Python ＜算法思想集结＞之抽丝剥茧聊动态规划](https://juejin.cn/post/7140911593616834574) | Thu Sep 08 2022 7:44 AM 
+- 🕯 [基于SpringDataElasticsearch+SpEL表达式实现ES动态索引](https://juejin.cn/post/7140975221963505672) | Thu Sep 08 2022 11:51 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 概述 动态规划算法应用非常之广泛。 对于算法学习者而言，不跨过动态规划这道门，不算真正了解算法。 初接触动态规划者，理解其思想精髓会存在一定的难度，本文将通过一个案例，抽丝剥茧般和大家聊聊动态规 
+    假如我们现在处于一个多租户系统中，每个租户都有自己所对应的用户数据，而这些用户数据都会被导入到ES中，那怎么实现各个租户的用户数据索引隔离呢？ 
     </details> 
 
-- 🚀 [超级详细的微信小程序登录基于SpringBoot](https://juejin.cn/post/7140907364966170631) | Thu Sep 08 2022 7:28 AM 
+- 🚀 [iTerm2中，Macbook触控栏在Git环境下的妙用](https://juejin.cn/post/7140968147187662885) | Thu Sep 08 2022 11:25 AM 
     <details><summary>展开描述 ...</summary> 
-    基于SpringBoot的微信小程序登录前后端完整详解 @TOC 前言 基于小程序库2.10.4版本之前： 此篇文章，针对的是很多看不懂微信官方文档，或者是刚入门小程序和java开发的开发者，教程也会 
+    如何在touch bar中使用git status, git add ., git commit -m &quot;&quot;等快捷键？ 
     </details> 
 
-- 💪 [最佳实践| 一文读懂《MongoDB 使用规范及最佳实践》原理](https://juejin.cn/post/7140904960908066823) | Thu Sep 08 2022 7:18 AM 
+- 💪 [一文了解数据库迁移工具—Flyway](https://juejin.cn/post/7140915466729422862) | Thu Sep 08 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-    一、MongoDB 使用规范与限制 MongoDB 灵活文档的优势 灵活库/集合命名及字段增减 同一字段可存储不同类型数据 Json 文档可多层次嵌套文档 对于开发而言最自然的表达 MongoDB 灵 
+    Flyway是一个数据库版本管理工具，可以非常简单的将数据库的schema从一个版本迁移到另外一个版本，并且支持MySql,Oracle,Postgre等多种关系型数据库 
     </details> 
 <!-- juejin:END -->
 ### 少数派
