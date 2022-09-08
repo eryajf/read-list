@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [所有的iPhone 14和iPhone 14 Pro型号都内置6GB的内存](https://www.cnbeta.com/articles/tech/1314091.htm) | Thu Sep 08 2022 2:08 PM 
+- 🕯 [从iPhone 14到iPhone 8 细数21款苹果手机快充功率变迁](https://www.cnbeta.com/articles/tech/1314107.htm) | Thu Sep 08 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管在处理器、存储、相机等方面存在差异，但每款iPhone 14和iPhone 14 Pro机型都有相同的6GB内存。&lt;strong&gt;2022年7月，有传言称iPhone 14将使用6GB LPDDR4X内存，而iPhone 14 Pro机型将配备更新更快的6GB LPDDR5内存，事实证明，至少目前已知关于RAM容量的传言是真的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果2022年秋季新品发布会比往年提早了一个星期，但依旧是凌晨1点准时进行，此次发布会带来了全新iPhone 14系列，重塑的AirPods Pro以及三款新Apple Watch。&lt;/strong&gt;耳机、手表就不细说了，主要还是来聊聊最新的iPhone 14系列，全系新机依旧采用Lightning接口坐实了此前的相关爆料，并未受欧盟即将到来的强制设备使用USB-C接口政策的影响，对于想要早点获得该体验用户来说，只能是化身等等党了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Rivian和梅赛德斯-奔驰合作开发电动货车 基于各自平台分别设计车型](https://www.cnbeta.com/articles/tech/1314089.htm) | Thu Sep 08 2022 1:59 PM 
+- 💼 [飞利浦呼吸机致癌？监管机构对其展开调查](https://www.cnbeta.com/articles/tech/1314105.htm) | Thu Sep 08 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;梅赛德斯-奔驰汽车集团和Rivian公司建立了一个新的合资企业，合作为两家汽车制造商建造商用电动货车。两家公司在一份声明中说，他们计划在中欧或东欧的一个现有的梅赛德斯-奔驰工厂所在地建立一个新的纯电动生产设施，并在 &amp;quot;几年内&amp;quot;开始生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月8日消息，荷兰医疗设备公司飞利浦此前表示，由于呼吸机的泡沫部件可能会降解并变得有毒，从而导致癌症，因此召回了一些机器。当地时间周四（9月8日）巴黎检察官办公室已经对荷兰医疗器械制造商飞利浦召回的呼吸器械展开初步调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [韩国KSTAR聚变研究装置已实现30秒1亿℃条件维持](https://www.cnbeta.com/articles/science/1314087.htm) | Thu Sep 08 2022 1:54 PM 
+- 💂 [水晶动力现已从SE手里接管了《古墓丽影》系列](https://hot.cnbeta.com/articles/game/1314103.htm) | Thu Sep 08 2022 3:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 2022 年 9 月 7 日发表于《自然》杂志上的一篇文章中，&lt;strong&gt;韩国首尔国立大学的 Yong-Su Na 团队，详细介绍了他们是如何让核聚变反应堆维持 30 秒的 1 亿摄氏度极端高温的。&lt;/strong&gt;虽然当前实验装置的规模相对有限，但不断刷新的研究成果，正在让我们逐渐接近未来可用的商业聚变反应堆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;水晶动力和Eidos蒙特利尔正式宣布，他们从前任母公司SE手里分别接管了《古墓丽影》和《杀出重围》系列。水晶动力表示他们从SE那里接管了多个游戏系列，包括《古墓丽影》和《凯恩的遗产》，现在水晶动力是这些游戏的所有人，同时也是玩法和相关个人数据的操控者。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Uber Eats和Nuro签署10年协议 在加州和德州提供机器人送餐服务](https://www.cnbeta.com/articles/tech/1314085.htm) | Thu Sep 08 2022 1:53 PM 
+- 🚀 [亚马逊游戏总裁解释为什么取消《指环王》网游](https://hot.cnbeta.com/articles/game/1314101.htm) | Thu Sep 08 2022 3:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Uber Eats公司与自动驾驶初创公司Nuro签署了一项为期10年的协议后，加州和德克萨斯州的客户可能很快就会由无人驾驶的送餐车送达他们的外卖。今天的声明是两家公司之间持续四年多反复谈判的结果。早在2019年，Uber就想使用Nuro的车辆在休斯顿送货，但这些计划从未实现。现在，两家公司已经达成了一项长达十年的协议，将机器人送货服务扩展到更多的客户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊游戏总裁解释了公司为什么在开发多年后又取消《指环王》网游。2021年4月，亚马逊确认和Athlon Games（乐游科技美国子公司）联合开发的这款免费主机/PC游戏被砍掉。当时据彭博社报道，该作的取消是因为亚马逊和中国科技巨头腾讯之间的争议，腾讯曾于2020年12月收购了乐游科技。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [谷歌计划在印度试点放开拉米牌和Fantasy Sports类型的应用限制](https://www.cnbeta.com/articles/tech/1314083.htm) | Thu Sep 08 2022 1:20 PM 
+- 🎊 [Gartner公布2022年亚太区供应链10强：联想第1，阿里第2](https://www.cnbeta.com/articles/tech/1314099.htm) | Thu Sep 08 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为迎合全球第二大移动市场的社区需求，Google 已表示将于 9 月 28 日起开展为期一年的试点工作，&lt;strong&gt;以在印度区 Play 商店上架近期爆红的“每日幻想运动”（Daily Fantasy Sports）和“拉米牌”（Rummy）游戏。&lt;/strong&gt;Google 在支持页面上写道，其希望参与试点的印度注册企业积极提交申请表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月8日消息，数据研究机构Gartner日前公布了2022年亚太区供应链10强榜单排名，其中，联想集团成为排名最高的企业，阿里排名第二，台积电排名第三。此外，上榜的企业还包括LG电子、索尼、三星电子和京东等公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
