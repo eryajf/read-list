@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Vizician - 拖放数据以进行即时可视化数据探索](https://xinquji.com/posts/179362?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:28 AM 
+- 👀 [Gwaber - 轻松找到远程工作](https://xinquji.com/posts/179372?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-     拖放数据以进行即时可视化数据探索  
+     轻松找到远程工作  
     </details> 
 
-- 🥷 [Session Rewind - 会话重播比 FullStory 便宜 90%](https://xinquji.com/posts/179361?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:28 AM 
+- 🥷 [Creator.co - 对于现代品牌和有影响力的创作者](https://xinquji.com/posts/179371?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     会话重播比 FullStory 便宜 90%  
+     对于现代品牌和有影响力的创作者  
     </details> 
 
-- 💼 [Mentalio AI Mood Journal - 手机中的智能心理支持和情绪追踪器](https://xinquji.com/posts/179360?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:26 AM 
+- 💼 [Sahha - 用于被动和安全地分析用户心理健康的 API](https://xinquji.com/posts/179370?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     手机中的智能心理支持和情绪追踪器  
+     用于被动和安全地分析用户心理健康的 API  
     </details> 
 
-- 🦅 [Clarity - 自由合同生成器](https://xinquji.com/posts/179359?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:25 AM 
+- 🦅 [OwnID - 为您的网站提供简单安全的无密码插件](https://xinquji.com/posts/179369?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     自由合同生成器  
+     为您的网站提供简单安全的无密码插件  
     </details> 
 
-- 😺 [HyperComply - 发送和回复安全调查问卷的最佳方式](https://xinquji.com/posts/179358?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:24 AM 
+- 😺 [Is it down? - 监控您的网站和 API](https://xinquji.com/posts/179368?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     发送和回复安全调查问卷的最佳方式  
+     监控您的网站和 API  
     </details> 
 <!-- xinquji:END -->
