@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [零基础使用 FPGA 开发板实现一个四口千兆以太网交换机有多难？](https://www.v2ex.com/t/878653#reply5) | Thu Sep 08 2022 7:51 AM
-- 🤗 [Sqlalchemy 如何实现 case + subquery 嵌套 subquery](https://www.v2ex.com/t/878651#reply0) | Thu Sep 08 2022 7:47 AM
-- 🎭 [请教一个 ESLint 的报错信息问题](https://www.v2ex.com/t/878643#reply0) | Thu Sep 08 2022 7:23 AM
-- 🥷 [google repo 命令有办法像 git log 那样浏览我最近在多个 git 仓库的提交吗？](https://www.v2ex.com/t/878638#reply1) | Thu Sep 08 2022 7:02 AM
-- 🐵 [有什么方法能够实现： Linux 监控日志文件，若出现关键词就发消息提醒？](https://www.v2ex.com/t/878614#reply16) | Thu Sep 08 2022 5:32 AM<!-- v2ex:END -->
+- 🥸 [React 如何使用外部 JS 文件&lpar;CDN 文件&rpar;，并使用其中的对象？](https://www.v2ex.com/t/878680#reply1) | Thu Sep 08 2022 9:06 AM
+- 🤗 [简单分享下我对 MVI 的理解](https://www.v2ex.com/t/878671#reply1) | Thu Sep 08 2022 8:41 AM
+- 🎭 [零基础使用 FPGA 开发板实现一个四口千兆以太网交换机有多难？](https://www.v2ex.com/t/878653#reply10) | Thu Sep 08 2022 7:51 AM
+- 🥷 [Sqlalchemy 如何实现 case + subquery 嵌套 subquery](https://www.v2ex.com/t/878651#reply0) | Thu Sep 08 2022 7:47 AM
+- 🐵 [请教一个 ESLint 的报错信息问题](https://www.v2ex.com/t/878643#reply0) | Thu Sep 08 2022 7:23 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
