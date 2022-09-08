@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [发霉啦：今天，我下班到家后发现老公的东西全都不见了](http://jandan.net/p/111320) | Thu Sep 08 2022 8:58 AM 
+- 🚀 [质子还可以包含一个粲夸克，后者质量原本是质子的 1.5 倍](http://jandan.net/p/111188) | Thu Sep 08 2022 3:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    更奇怪的是，当质子确实包含粲夸克时，后者仍然只携带大约一半的质子质量 
+    </details> 
+
+- 🙉 [发霉啦：今天，我下班到家后发现老公的东西全都不见了](http://jandan.net/p/111320) | Thu Sep 08 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
     今天更新，是为了用打赏在明天买手机 
     </details> 
 
-- 🙉 [日本的数字部长向软盘和传真机宣战](http://jandan.net/p/111266) | Thu Sep 08 2022 3:57 AM 
+- 🎉 [日本的数字部长向软盘和传真机宣战](http://jandan.net/p/111266) | Thu Sep 08 2022 3:57 AM 
     <details><summary>展开描述 ...</summary> 
     因循守旧的官僚主义导致政府系统还在使用本应被淘汰的技术 
     </details> 
 
-- 🎉 [在西班牙的古罗马遗址里 发现了迄今最大的罗马阴茎雕塑](http://jandan.net/p/111317) | Thu Sep 08 2022 3:53 AM 
+- 🐲 [在西班牙的古罗马遗址里 发现了迄今最大的罗马阴茎雕塑](http://jandan.net/p/111317) | Thu Sep 08 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
     阴茎形象对罗马人很重要，因为它们被认为具有抵御邪恶之眼的能力 
     </details> 
 
-- 🐲 [今日好价 0908](http://jandan.net/p/111318) | Thu Sep 08 2022 3:29 AM 
+-  [今日好价 0908](http://jandan.net/p/111318) | Thu Sep 08 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
-    </details> 
-
--  [两种药物的组合，在动物实验里有效阻止了致命的小细胞肺癌的发展](http://jandan.net/p/111313) | Wed Sep 07 2022 8:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    1期临床试验已经提上了日程 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
