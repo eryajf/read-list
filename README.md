@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | Apache IoTDB 模块存在安全漏洞；洛杉矶联合学区遭勒索软件攻击](https://www.freebuf.com/news/344014.html) | Wed Sep 07 2022 10:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    开源项目Apache IoTDB grafana-connector 模块存在未授权漏洞，攻击者可通过web服务可能会获取数据库的内部结构。 
+    </details> 
+
 - 🦄 [Moobot 僵尸网络“盯上了”D-Link 路由器](https://www.freebuf.com/news/343953.html) | Wed Sep 07 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
      MooBot 僵尸网络以易受攻击的 D-Link 路由器为目标，混合使用新旧漏洞，展开网络攻击。 
     </details> 
 
-- 🦄 [250万学生贷款记录因违规泄露](https://www.freebuf.com/news/343949.html) | Wed Sep 07 2022 3:31 AM 
+- 🦅 [250万学生贷款记录因违规泄露](https://www.freebuf.com/news/343949.html) | Wed Sep 07 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     这些泄露的个人信息，未来很有可能被攻击者在社会工程或网络钓鱼攻击活动中利用。 
     </details> 
 
-- 🦅 [疯狂的SOVA：Android银行木马“新标杆”](https://www.freebuf.com/sectool/343921.html) | Tue Sep 06 2022 11:25 AM 
+- 🪄 [疯狂的SOVA：Android银行木马“新标杆”](https://www.freebuf.com/sectool/343921.html) | Tue Sep 06 2022 11:25 AM 
     <details><summary>展开描述 ...</summary> 
     安全研究人员还发现SOVA还增加了一个令人意想不到的新功能——可对手机等移动端进行数据加密和勒索攻击。 
     </details> 
 
-- 🪄 [FreeBuf早报 | TikTok否认用户数据源代码泄露；Ins因侵犯儿童隐私被罚4亿欧元](https://www.freebuf.com/news/343895.html) | Tue Sep 06 2022 10:35 AM 
+- 💻 [FreeBuf早报 | TikTok否认用户数据源代码泄露；Ins因侵犯儿童隐私被罚4亿欧元](https://www.freebuf.com/news/343895.html) | Tue Sep 06 2022 10:35 AM 
     <details><summary>展开描述 ...</summary> 
     爱尔兰监管机构以侵犯儿童隐私对Instagram罚款 4.05 亿欧元 ，Meta 表示将会提起上诉。 
-    </details> 
-
-- 💻 [又见天价罚单，Meta违反GDPR被罚4亿美元](https://www.freebuf.com/articles/neopoints/343874.html) | Tue Sep 06 2022 8:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    9月6日，Meta违反了GDPR被罚款约4亿美元的新闻迅速引爆了科技圈。 
     </details> 
 <!-- freebuf:END -->
 
