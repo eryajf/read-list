@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现在自然界散步跟减压之间存在因果关系](https://www.cnbeta.com/articles/science/1313821.htm) | Thu Sep 08 2022 1:59 AM 
+- 🕯 [《巫师3》次世代版仍计划在今年Q4发售 CDPR已在构思多个新作](https://hot.cnbeta.com/articles/game/1313891.htm) | Thu Sep 08 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们都知道，在大自然中长时间地散步可以让人放松。&lt;strong&gt;现在，来自马克斯-普朗克人类发展研究所的研究人员进行的一项具有里程碑意义的新研究提供了一些最早的因果证据，其确切地表明在森林中散步一小时如何减少负责处理压力的大脑区域的活动。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《巫师3》原计划今年早些时候登陆PS5和Xbox Series X/S，但后来CDPR宣布开发工作由外包转为内部负责，因此新主机版本被延期。最近CDPR确认《巫师3》仍然计划在2022年第四季度发售，登陆PS5和Xbox Series。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313891.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [部分Apple Watch Ultra型号发货周期为6-7周](https://www.cnbeta.com/articles/tech/1313819.htm) | Thu Sep 08 2022 1:55 AM 
+- 💼 [麦格纳将在美国生产数以千计的Cartken全自主送货机器人](https://www.cnbeta.com/articles/tech/1313889.htm) | Thu Sep 08 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Apple Watch Ultra 将于 9 月 9 日早上 8 点接受预购，9 月 23 日发售，售价为 6299 元。目前苹果中国官网显示发货日期为“所有机型将在获得批准后发售”，&lt;strong&gt;不过苹果美国官网已经罗列了详细的发货周期，部分型号的发货日期为 6-7 周。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;全球最多元化的汽车配件供应商&lt;strong&gt;麦格纳国际集团已同意为总部位于硅谷的机器人公司Cartken生产和扩展一支自主送货机器人车队。&lt;/strong&gt;这些机器人正在密歇根州的麦格纳工厂制造，很快将为世界各地的企业提供最后一英里的自主送货服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313889.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [众外媒评析苹果2022秋季新品发布会：说服客户升级iPhone至关重要](https://www.cnbeta.com/articles/tech/1313817.htm) | Thu Sep 08 2022 1:51 AM 
+- 💂 [世界首个“太空王国”阿斯伽迪亚可能很快就会坠落回地球](https://www.cnbeta.com/articles/tech/1313887.htm) | Thu Sep 08 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月8日消息，美国当地时间周三，苹果在其加州总部举行了2022年秋季新品发布会。在今年的盛会中，苹果发布了iPhone 14系列手机、三款智能手表以及耳机等，同时介绍了诸多改进和新功能。随后，多家外媒就苹果发布会进行了评论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据CNET报道，&lt;strong&gt;人类的第一个“太空国家”阿斯伽迪亚&lpar;Asgardia&rpar;即将失去它在太空中唯一的一块自我宣布的主权领土。&lt;/strong&gt;根据美国空军和其他来源的跟踪数据，Asgardia-1卫星预计最快将于周日重新进入地球大气层并烧毁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [索尼开始向全球PlayStation 5推送1440p支持等功能更新](https://hot.cnbeta.com/articles/game/1313815.htm) | Thu Sep 08 2022 1:46 AM 
+- 🚀 [[图]Apple Watch表带上新：多种颜色多种款式供你选择](https://www.cnbeta.com/articles/tech/1313885.htm) | Thu Sep 08 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;周三的时候，索尼在一篇 PlayStation 博客文章中宣布了将向全球推送 1440p 软件更新的消息。&lt;/strong&gt;经过一段时间的测试，这项功能使得玩家能够体验 2K @ 60 / 120 Hz 的显示输出。略为遗憾的是，该模式下无法启用 VRR 可变刷新率功能（仅限 1080p 或 2160p）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“超前瞻”秋季新品发布会已经结束，苹果在推出 Apple Watch Ultra、Apple Watch Series 8、Apple Watch SE 三款智能手表之外，还推出了适用于这些智能手表的丰富表带。购买地址：&lt;a href=&quot;https://apple.pvxt.net/VrnjJ&quot; target=&quot;_blank&quot;&gt;苹果配件&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [迪士尼前CEO伊格尔：电影业再也回不到疫情前了](https://hot.cnbeta.com/articles/movie/1313813.htm) | Thu Sep 08 2022 1:43 AM 
+- 🎊 [法国首个海上风电场安装最后一台涡轮机，马克龙大力推动可再生能源的发展](https://www.cnbeta.com/articles/tech/1313883.htm) | Thu Sep 08 2022 3:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;迪士尼前CEO鲍勃-伊格尔表示，新冠大流行给电影院业务留下了“永久的伤疤”，观影人数再也不可能恢复至疫情前的水平了。&lt;/strong&gt;“就观影人数而言，我认为电影永远不会回到疫情前的水平，”这位资深媒体高管周三在加州比弗利山庄举行的Code 伊格尔伊格尔于2020年2月辞去了迪士尼CEO，将大权交给了时任主题公园负责人的鲍勃·查帕克。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Electrek报道，&lt;strong&gt;法国西海岸所有80个海上风力涡轮机的安装已经完成，法国的第一个海上风电场计划在今年年底前启动和运行。&lt;/strong&gt;圣纳泽尔基地生产的电力将足以满足大西洋卢瓦尔省地区总电力消耗的20%，即大约70万人的需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
