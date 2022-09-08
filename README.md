@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [两种药物的组合，在动物实验里有效阻止了致命的小细胞肺癌的发展](http://jandan.net/p/111313) | Wed Sep 07 2022 8:13 AM 
+- 🚀 [日本的数字部长向软盘和传真机宣战](http://jandan.net/p/111266) | Thu Sep 08 2022 3:57 AM 
     <details><summary>展开描述 ...</summary> 
-    1期临床试验已经提上了日程 
+    因循守旧的官僚主义导致政府系统还在使用本应被淘汰的技术 
     </details> 
 
-- 🙉 [这么好的水果为啥无人问津呢？澳大利亚要振兴菠萝蜜产业](http://jandan.net/p/111311) | Wed Sep 07 2022 7:51 AM 
+- 🙉 [在西班牙的古罗马遗址里 发现了迄今最大的罗马阴茎雕塑](http://jandan.net/p/111317) | Thu Sep 08 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-    大家吃过菠萝蜜么 
+    阴茎形象对罗马人很重要，因为它们被认为具有抵御邪恶之眼的能力 
     </details> 
 
-- 🎉 [WHY  明明属于同一物种，山脉西部的老鼠整体上比东部的个体更大？](http://jandan.net/p/111265) | Wed Sep 07 2022 2:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    听说过雨影效应吗 
-    </details> 
-
-- 🐲 [今日好价 0907](http://jandan.net/p/111310) | Wed Sep 07 2022 1:14 AM 
+- 🎉 [今日好价 0908](http://jandan.net/p/111318) | Thu Sep 08 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
--  [研究者从维京人粪便化石中寻找寄生虫完成测序](http://jandan.net/p/111309) | Wed Sep 07 2022 12:00 AM 
+- 🐲 [两种药物的组合，在动物实验里有效阻止了致命的小细胞肺癌的发展](http://jandan.net/p/111313) | Wed Sep 07 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-    助力驱虫药开发 
+    1期临床试验已经提上了日程 
+    </details> 
+
+-  [这么好的水果为啥无人问津呢？澳大利亚要振兴菠萝蜜产业](http://jandan.net/p/111311) | Wed Sep 07 2022 7:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家吃过菠萝蜜么 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
