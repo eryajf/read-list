@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌计划在印度试点放开拉米牌和Fantasy Sports类型的应用限制](https://www.cnbeta.com/articles/tech/1314083.htm) | Thu Sep 08 2022 1:20 PM 
+- 🕯 [所有的iPhone 14和iPhone 14 Pro型号都内置6GB的内存](https://www.cnbeta.com/articles/tech/1314091.htm) | Thu Sep 08 2022 2:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;尽管在处理器、存储、相机等方面存在差异，但每款iPhone 14和iPhone 14 Pro机型都有相同的6GB内存。&lt;strong&gt;2022年7月，有传言称iPhone 14将使用6GB LPDDR4X内存，而iPhone 14 Pro机型将配备更新更快的6GB LPDDR5内存，事实证明，至少目前已知关于RAM容量的传言是真的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Rivian和梅赛德斯-奔驰合作开发电动货车 基于各自平台分别设计车型](https://www.cnbeta.com/articles/tech/1314089.htm) | Thu Sep 08 2022 1:59 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;梅赛德斯-奔驰汽车集团和Rivian公司建立了一个新的合资企业，合作为两家汽车制造商建造商用电动货车。两家公司在一份声明中说，他们计划在中欧或东欧的一个现有的梅赛德斯-奔驰工厂所在地建立一个新的纯电动生产设施，并在 &amp;quot;几年内&amp;quot;开始生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [韩国KSTAR聚变研究装置已实现30秒1亿℃条件维持](https://www.cnbeta.com/articles/science/1314087.htm) | Thu Sep 08 2022 1:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在 2022 年 9 月 7 日发表于《自然》杂志上的一篇文章中，&lt;strong&gt;韩国首尔国立大学的 Yong-Su Na 团队，详细介绍了他们是如何让核聚变反应堆维持 30 秒的 1 亿摄氏度极端高温的。&lt;/strong&gt;虽然当前实验装置的规模相对有限，但不断刷新的研究成果，正在让我们逐渐接近未来可用的商业聚变反应堆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Uber Eats和Nuro签署10年协议 在加州和德州提供机器人送餐服务](https://www.cnbeta.com/articles/tech/1314085.htm) | Thu Sep 08 2022 1:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Uber Eats公司与自动驾驶初创公司Nuro签署了一项为期10年的协议后，加州和德克萨斯州的客户可能很快就会由无人驾驶的送餐车送达他们的外卖。今天的声明是两家公司之间持续四年多反复谈判的结果。早在2019年，Uber就想使用Nuro的车辆在休斯顿送货，但这些计划从未实现。现在，两家公司已经达成了一项长达十年的协议，将机器人送货服务扩展到更多的客户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [谷歌计划在印度试点放开拉米牌和Fantasy Sports类型的应用限制](https://www.cnbeta.com/articles/tech/1314083.htm) | Thu Sep 08 2022 1:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;为迎合全球第二大移动市场的社区需求，Google 已表示将于 9 月 28 日起开展为期一年的试点工作，&lt;strong&gt;以在印度区 Play 商店上架近期爆红的“每日幻想运动”（Daily Fantasy Sports）和“拉米牌”（Rummy）游戏。&lt;/strong&gt;Google 在支持页面上写道，其希望参与试点的印度注册企业积极提交申请表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [日产向聆风车主提供首款V2G适配器：支持反向输送 助力电网调峰](https://www.cnbeta.com/articles/tech/1314081.htm) | Thu Sep 08 2022 12:49 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管今夏多地呼吁 EV 车主们不要在高峰期充电，以缓和电网供电压力。&lt;strong&gt;但随着电动汽车的日渐普及，未来我们或许还可畅想由 EV 反向输送能源，以帮助电网轻松调峰。&lt;/strong&gt;本文要为大家介绍的，就是日产（Nissan）向聆风车主提供的首款 Vehicle-to-Grid 适配器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [印度政府正在寻求对在线游戏行业的赢利进行征税](https://hot.cnbeta.com/articles/game/1314079.htm) | Thu Sep 08 2022 12:43 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着在线游戏行业的普及，印度政府正在寻求对该行业的赢利进行征税。&lt;/strong&gt;据《印度快报》今天（9月5日）报道，直接税官员正在审查过去三年在一个在线游戏平台上高达58000亿卢比盈利（72亿美元）的数据。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [GOODRAM推出IRDM Ultimate PCIe Gen 5 M.2 SSD 传输速度10000MB/s](https://www.cnbeta.com/articles/tech/1314077.htm) | Thu Sep 08 2022 12:33 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本月早些时候，波兰公司GOODRAM在IFA 2022上披露了新的IRDM Ultimate SSD的原型，这是该公司的首款PCIe Gen 5 M.2 SSD。GOODRAM的新PCIe Gen 5接口是在制造商采用新标准以确保固态硬盘能达到高达14GB/s的读取速度时出现的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [合成DNA初创公司Catalog与希捷合作推出基于DNA的数据存储平台](https://www.cnbeta.com/articles/tech/1314075.htm) | Thu Sep 08 2022 12:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;数据需要被储存在某个地方。然而，数据存储成本不断增长，而人们不断生产和消费的数据却无法跟上可用的存储。根据互联网数据中心（IDC）的数据，全球数据预计在2025年将从2018年的33ZB增加到175ZB。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
