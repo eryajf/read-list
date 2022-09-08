@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深圳再当特区，引爆AI万亿市场；阿里·TTS语音合成模型；美团·AI数据库异常监测系统；面向后端开发者的CS课程；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7140870670883225613) | Thu Sep 08 2022 5:05 AM 
+- 🤗 [业务开发所需的 TypeScript 常用技巧](https://juejin.cn/post/7140895820232163341) | Thu Sep 08 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-    ShowMeAI资讯日报 09-08 期，视觉手部动作捕捉库、深度学习单细胞基因表达分析库、SurrealDB图数据库、kawipiko超快静态HTTP服务器、生物信息学培训材料、推荐系统对抗性学习… 
+    业务开发实践中常用的 TypeScript 技巧，React、类型收窄、多参数类型约束以及常用工具泛型。 
     </details> 
 
-- 🎡 [Elasticsearch：从零开始创建一个 ingest pipeline 处理器](https://juejin.cn/post/7140857590862807047) | Thu Sep 08 2022 4:14 AM 
+- 🎡 [为什么每个程序员都必须写博客🚀](https://juejin.cn/post/7140895046781370375) | Thu Sep 08 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-    实际上在我之前的文章： Elasticsearch：创建属于自己的 Ingest processor Elasticsearch：创建一个 Elasticsearch Ingest 插件 我已经详述了 
+    工作了好几年了，一直没写过技术类的博客，最近才开始尝试写一些技术类的博客。通过写博客的这段时间发现，写博客能够帮助我们快速成长已经提高我们学习的积极性，本文将和大家说说程序员写博客的好处。 
     </details> 
 
-- 🕯 [中小企业如何有效应对计算资源的弹性变化需求？](https://juejin.cn/post/7140855411619397668) | Thu Sep 08 2022 4:08 AM 
+- 🕯 [Java注解详细](https://juejin.cn/post/7140893695087214600) | Thu Sep 08 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-    经过本文的讲述可以发现，Serverless 函数计算作为一种新形式的计算方式，可以更好的应对计算资源弹性变化的场景。 
+    因为平常开发少见，相信有不少的人员会认为注解的地位不高。其实同 classs 和 interface 一样，注解也属于一种类型。它是在 Java SE 5.0 版本中开始引入的概念。 
     </details> 
 
-- 🚀 [【k哥爬虫普法】Python程序员爬取视频资源13万部，一分钱没挣，获刑2年！](https://juejin.cn/post/7140850165761441828) | Thu Sep 08 2022 3:45 AM 
+- 🚀 [Spring源码解析&lpar;十二&rpar;Spring扩展接口SmartInstantiationAwareBeanPostProcessor解析](https://juejin.cn/post/7140892971074846734) | Thu Sep 08 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-    ![]&lpar;https://s2.loli.net/2022/08/01/H1gpdeOUlEuZ3bo.png&rpar; &gt; 我国目前并未出台专门针对网络爬虫技术的法律规范，但在司法实践中，相关判决已屡见不 
+    之前我们分析了 InstantiationAwareBeanPostProcessor、BeanPostProc 
     </details> 
 
-- 💪 [React状态管理器Rematch的使用](https://juejin.cn/post/7140846955088838664) | Thu Sep 08 2022 3:33 AM 
+- 💪 [你真的会使用Git吗](https://juejin.cn/post/7140887739704016910) | Thu Sep 08 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-    Rematch使用 1. Rematch介绍 Rematch是没有样板文件的Redux的最佳实践，没有action types、 action creators, 状态转换或thunks。 2. Re 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情” 前言 我相信大家对Git都不陌生，因为这个玩意作为开发的我们，基本上我们每天都会和它打交道，但是其实我们用的时候 
     </details> 
 <!-- juejin:END -->
 ### 少数派
