@@ -365,10 +365,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [有偿求一个熟悉 cordova 产出 ipa 的大佬](https://www.v2ex.com/t/878762#reply0) | Thu Sep 08 2022 3:56 PM
-- 🤗 [动画渲染选择 svg/canvas？](https://www.v2ex.com/t/878759#reply6) | Thu Sep 08 2022 3:24 PM
+- 🤗 [动画渲染选择 svg/canvas？](https://www.v2ex.com/t/878759#reply7) | Thu Sep 08 2022 3:24 PM
 - 🎭 [微软符号服务器有没有国内镜像加速?Rider 里看源码实在是太慢了](https://www.v2ex.com/t/878756#reply0) | Thu Sep 08 2022 3:20 PM
 - 🥷 [请教一个 Springboot bean 注入的问题？](https://www.v2ex.com/t/878749#reply7) | Thu Sep 08 2022 2:34 PM
-- 🐵 [google voice 谷歌语音 保号短信互发群组 大家互发下了](https://www.v2ex.com/t/878741#reply6) | Thu Sep 08 2022 1:45 PM<!-- v2ex:END -->
+- 🐵 [google voice 谷歌语音 保号短信互发群组 大家互发下了](https://www.v2ex.com/t/878741#reply10) | Thu Sep 08 2022 1:45 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
