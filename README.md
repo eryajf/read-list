@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《巫师3》次世代版仍计划在今年Q4发售 CDPR已在构思多个新作](https://hot.cnbeta.com/articles/game/1313891.htm) | Thu Sep 08 2022 4:18 AM 
+- 🕯 [官方回应放生矿泉水不属于放生：大爷大妈行为荒诞 还怼劝阻者影响自己诚心](https://www.cnbeta.com/articles/tech/1313907.htm) | Thu Sep 08 2022 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《巫师3》原计划今年早些时候登陆PS5和Xbox Series X/S，但后来CDPR宣布开发工作由外包转为内部负责，因此新主机版本被延期。最近CDPR确认《巫师3》仍然计划在2022年第四季度发售，登陆PS5和Xbox Series。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1313891.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，广东一网友偶遇一群人在河边，身边一箱箱地堆满了矿泉水。起初网友还没看懂这是什么操作，但看了一会儿就惊呆了，一群人竟然往河里“放生”矿泉水，路人好心上前提醒，却被怼影响了她们诚心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [麦格纳将在美国生产数以千计的Cartken全自主送货机器人](https://www.cnbeta.com/articles/tech/1313889.htm) | Thu Sep 08 2022 4:09 AM 
+- 💼 [NASA DART航天器带来第一张Didymos图像](https://www.cnbeta.com/articles/science/1313905.htm) | Thu Sep 08 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球最多元化的汽车配件供应商&lt;strong&gt;麦格纳国际集团已同意为总部位于硅谷的机器人公司Cartken生产和扩展一支自主送货机器人车队。&lt;/strong&gt;这些机器人正在密歇根州的麦格纳工厂制造，很快将为世界各地的企业提供最后一英里的自主送货服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313889.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NASA的双小行星重定向测试&lpar;DART&rpar;航天器最近获得了Didymos的第一张图像，该双小行星系统包括其目标Dimorphos。 DART将在9月26日故意砸向Didymos的小行星卫星Dimorphos。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [世界首个“太空王国”阿斯伽迪亚可能很快就会坠落回地球](https://www.cnbeta.com/articles/tech/1313887.htm) | Thu Sep 08 2022 4:00 AM 
+- 💂 [乐视将发布中高端手机：2K屏+6400万像素主摄 高过iPhone 14 Pro](https://www.cnbeta.com/articles/tech/1313903.htm) | Thu Sep 08 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据CNET报道，&lt;strong&gt;人类的第一个“太空国家”阿斯伽迪亚&lpar;Asgardia&rpar;即将失去它在太空中唯一的一块自我宣布的主权领土。&lt;/strong&gt;根据美国空军和其他来源的跟踪数据，Asgardia-1卫星预计最快将于周日重新进入地球大气层并烧毁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天除了苹果发布了iPhone 14系列手机之外，乐视也发布了自己的新品手机，推出了三款低端入门产品。&lt;strong&gt;同时，乐视还预告下一款手机将主打中高端市场，这也将是乐视手机回归以后第一款主流配置手机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[图]Apple Watch表带上新：多种颜色多种款式供你选择](https://www.cnbeta.com/articles/tech/1313885.htm) | Thu Sep 08 2022 3:54 AM 
+- 🚀 [今年中秋“十五的月亮十五圆” 最圆时刻为17:59](https://www.cnbeta.com/articles/tech/1313901.htm) | Thu Sep 08 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“超前瞻”秋季新品发布会已经结束，苹果在推出 Apple Watch Ultra、Apple Watch Series 8、Apple Watch SE 三款智能手表之外，还推出了适用于这些智能手表的丰富表带。购买地址：&lt;a href=&quot;https://apple.pvxt.net/VrnjJ&quot; target=&quot;_blank&quot;&gt;苹果配件&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“但愿人长久，千里共婵娟”，9月10日将迎来一年一度的中秋节，天文科普专家介绍，&lt;strong&gt;今年中秋是“十五的月亮十五圆”，中秋满月最圆时刻为9月10日17时59分。&lt;/strong&gt;中秋节的起源和月亮密不可分，据报道，中科院紫金山天文台科普部主任张旸介绍，依据月球绕地球公转而确定的“月”有多种定义，其中一种根据盈亏周期而定的月叫“朔望月”，是农历确定月份的依据，其平均长度约为29.53天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [法国首个海上风电场安装最后一台涡轮机，马克龙大力推动可再生能源的发展](https://www.cnbeta.com/articles/tech/1313883.htm) | Thu Sep 08 2022 3:51 AM 
+- 🎊 [海太长江隧道正式开工建设：全长39.07公里 被誉为“万里长江第一隧”](https://www.cnbeta.com/articles/tech/1313899.htm) | Thu Sep 08 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Electrek报道，&lt;strong&gt;法国西海岸所有80个海上风力涡轮机的安装已经完成，法国的第一个海上风电场计划在今年年底前启动和运行。&lt;/strong&gt;圣纳泽尔基地生产的电力将足以满足大西洋卢瓦尔省地区总电力消耗的20%，即大约70万人的需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据南通发布最新报道，&lt;strong&gt;被誉为“万里长江第一隧”的海太长江隧道项目9月7日上午正式开工建设。&lt;/strong&gt;据了解，海太过江通道是我国2025年前重点建设的公铁复合过江通道，是通常高速、如通苏湖铁路的重要组成部分，也是南通“八龙过江”格局中落地实施的第五条通道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
