@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [宇航员未来或能用钛和火星岩石3D打印工具和零件](https://www.cnbeta.com/articles/science/1313965.htm) | Thu Sep 08 2022 7:30 AM 
+- 🕯 [LCRI获以太坊创始人1500万美元投资 用于研究和治疗Long COVID](https://www.cnbeta.com/articles/tech/1313983.htm) | Thu Sep 08 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;将材料送入太空的成本是非常昂贵的，所以宇航员能在现场制作的东西越多越好。&lt;strong&gt;华盛顿州立大学（WSU）的工程师现在展示了如何将少量的模拟碎火星岩石与钛合金混合在一起，制成可3D打印的建筑材料。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一家非营利“初创企业” LCRI 近日从以太坊联合创始人维塔利克·布特林（Vitalik Buterin）处获得了 1500 万美元的融资，主要用于研究和治疗 Long COVID。&lt;/strong&gt;虽然已经有不少人认为新冠疫情的影响已经明显减弱，但全球仍有数百万人正在遭受 COVID-19 的长期影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[下载]GPU-Z 2.48.0更新阻止了英伟达工程样品GPU的泄露](https://www.cnbeta.com/articles/soft/1313963.htm) | Thu Sep 08 2022 7:28 AM 
+- 💼 [苹果正式宣布：手机厂下一个内卷方向是“上天”](https://www.cnbeta.com/articles/tech/1313981.htm) | Thu Sep 08 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;VideoCardz 报道称：&lt;strong&gt;在现有和即将推出的众多工具软件更新中，TechPowerUp 旗下的 GPU-Z，将尝试限制英伟达工厂样品 GPU 的泄露。&lt;/strong&gt;其实比之 GPU-Z，该网站还是以 CPU-Z 被更多人所熟知，毕竟包括华硕在内的主板大厂都与之有合作。但为了防止在相关硬件在产品合作开发与现场测试阶段被泄露，绿厂还是给业界施加了更大的压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1313963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;手机+卫星，开启一个新想象。“三秒之后，索然无味。”北京时间 8 日凌晨，一年一度的苹果秋季新品发布，AKA“科技春晚”准时开幕。没人想到的是，发布会的新品里，最大的亮点是两款“Pro”版本的 iPhone 14 的“药丸屏”——一个“灵动岛”（Dynamic Island）的 UI 创新，挽救了整场发布会。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《利刃出鞘2》发布先导预告 正式定名《玻璃洋葱：利刃出鞘疑案》](https://hot.cnbeta.com/articles/movie/1313961.htm) | Thu Sep 08 2022 7:20 AM 
+- 💂 [锐龙R7-7770X零售八核处理器CPU-Z与Geekbench 5跑分曝光](https://www.cnbeta.com/articles/tech/1313979.htm) | Thu Sep 08 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（9月8日），大热侦探悬疑片《利刃出鞘2》发布先导预告，正式定名为《玻璃洋葱：利刃出鞘疑案》&lpar;《Glass Onion: A Knives Out Mystery》&rpar;，一起来看看吧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1313961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;结合 @TUM_APISAK、@Harukaze5719 和 @BenchLeaks 的推特爆料，我们对 AMD 锐龙 R7-7700X 的基准性能也有了明确的了解。&lt;/strong&gt;可知作为一枚 8C / 16T 的 Zen 4 AM5 台式处理器，其跑分不仅拳打自家上一代 R7-5800X（8C / 16T）、还脚踢采用 8P+4E（12C / 20T）设计的英特尔 12 代 Alder Lake 酷睿 i7-12700K 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [科学家开发新的人工智能算法 可能导致癫痫的治愈](https://www.cnbeta.com/articles/science/1313959.htm) | Thu Sep 08 2022 7:17 AM 
+- 🚀 [[图]乔布斯家人和好友共建Steve Jobs Archive档案网站](https://www.cnbeta.com/articles/tech/1313977.htm) | Thu Sep 08 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在伦敦大学学院（UCL）科学家们指导下工作的一个国际研究团队创建了一种人工智能（AI）算法，可以识别导致癫痫发作的细微大脑异常&lt;/strong&gt;。为了创建该算法，揭示局灶性脑皮质发育不良&lpar;FCD&rpar;--癫痫的一个主要原因--的实例中出现异常的地方，多中心癫痫病变检测项目（MELD）分析了来自22个国际癫痫中心的1000多名患者的MRI图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1313959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;乔布斯的好友和家人近日联合成立了 Steve Jobs Archive，该机构主要收藏这位科技大佬的存档内容。感兴趣的用户可以前往 &lt;a href=&quot;https://stevejobsarchive.com/&quot; target=&quot;_blank&quot;&gt;stevejobsarchive.com&lt;/a&gt; 网站了解更多的信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [[图]NVIDIA预告Project Beyond项目：疑似为RTX 40系列预热](https://www.cnbeta.com/articles/tech/1313957.htm) | Thu Sep 08 2022 7:16 AM 
+- 🎊 [起亚和encore DB在欧洲展开合作：利用回收电池创建储能系统](https://www.cnbeta.com/articles/tech/1313975.htm) | Thu Sep 08 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA 于今早发布了一条神秘推文，预告了“Project Beyond”项目，但是并没有提供任何其他额外信息。它带有一个动画，显示一束向外投射的绿色光线。对此，国外科技媒体 TechPowerUp 倾向于认为 Project Beyond 是一项旨在推出下一代 GeForce RTX 40 系列“Ada”显卡的营销活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;起亚欧洲（Kia Europe）宣布和 Encore Deutsche Bahn（encore DB）建立新的合作伙伴关系，重新利用回收的电动汽车电池来创建可扩展的储能系统。&lt;/strong&gt;该系统原型已经在起亚 Soul EV 电池上部署，标志着该汽车制造商已开始在欧洲范围内推进该计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1313975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
