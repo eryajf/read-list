@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [VideoDuke 2.8.2 视频下载](https://xclient.info/s/videoduke.html) | Wed Sep 07 2022 12:55 AM 
+- 🦏 [RAR Extractor Max – unzip 10.6.0 解压缩神器](https://xclient.info/s/rar-extractor-unzip.html) | Thu Sep 08 2022 1:26 AM 
     <details><summary>展开描述 ...</summary> 
-    VideoDuke 支持在网站视频下载所有流行格式的视频文件，可以以各种文件格式保存。只需将链接粘贴到应用中即可完成。 
+    RAR Extractor - Unzip是一款功能强大的解压缩软件，支持几乎所有的压缩格式，比如RAR, ZIP, 7z, tbz, sti, tar, xar等等，用起来非常的方便。 
     </details> 
 
--  [Kite Composer 2.1.1 一款MacOS和iOS动效软件](https://xclient.info/s/kite.html) | Wed Sep 07 2022 12:54 AM 
+-  [Mitti 2.2.3 专业视频回放解决方案](https://xclient.info/s/mitti.html) | Thu Sep 08 2022 1:20 AM 
     <details><summary>展开描述 ...</summary> 
-    Kite Compositor不光可以完美的构建MacOS和iOS动画和原型，也直观地拖放图层来创建复杂的界面所见即所得的画布。 
+    Mitti 是一款macOS平台的功能强大且易于使用的专业视频回放解决方案，适用于剧院，视听表演，表演和展览，具有清晰，直观，整洁的用户界面，易于学习和使用的工作流程，在现代的64位低延迟音频之上，以及强大的GPU加速视频播放引擎。 
     </details> 
 
-- ⚗️ [Keyboard Maestro 10.2 键盘增强](https://xclient.info/s/keyboard-maestro.html) | Wed Sep 07 2022 12:53 AM 
+- ⚗️ [Vellum 3.3.4 电子书制作工具](https://xclient.info/s/vellum.html) | Thu Sep 08 2022 1:19 AM 
     <details><summary>展开描述 ...</summary> 
-    Keyboard Maestro 能将你的keyboard的作用发挥到极致，她能提供的服务不只是基础的Hot Keys，像应用程序快速操作菜单（Palette），程序切换窗口，宏命令同步，脚本执行，剪切板切换窗口这些功能才是人家的看家本领。 
+    Vellum 是一款Mac上优秀的电子书制作工具，把文本生成为图文格式的电子书，如iBooks, Kindle， Nook等，简单易用。 
     </details> 
 
-- 🔥 [A Better Finder Attributes 7.22 文件属性批量修改工具](https://xclient.info/s/a-better-finder-attributes.html) | Wed Sep 07 2022 12:52 AM 
+- 🔥 [Color Wheel 7.3 数字色轮](https://xclient.info/s/color-wheel.html) | Thu Sep 08 2022 1:18 AM 
     <details><summary>展开描述 ...</summary> 
-    A Better Finder Attributes 是一款Mac上实用的文件和目录属性批量修改工具，可以快速修改文件或目录的各种属性，比如创建时间、修改时间、EXIF信息等等。 
+    Color Wheel 是一款强大的数字色轮工具，可以帮助您快速的找到最匹配的颜色组合，设计师必备的工具之一！ 
     </details> 
 
-- 🌋 [Downie 4.5.10 视频下载工具](https://xclient.info/s/downie.html) | Wed Sep 07 2022 12:51 AM 
+- 🌋 [CameraBag Pro 2022.3.0 图像处理和修饰](https://xclient.info/s/camerabag-pro.html) | Thu Sep 08 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    简单的拖放链接到Downie，它就会下载该网站上的视频。 
+    CameraBag Pro 是Mac电脑上的一款图像处理和修饰应用。通过专为人像设计的预置，不同的风景场景，过去模拟胶片的忠实模拟，流行的现代照片风格，以及更多滤镜为你的图片修饰。 
     </details> 
 <!-- xclient:END -->
 
