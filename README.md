@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [转转商业化OCPC产品的护航之旅](https://juejin.cn/post/7140995036799303717) | Thu Sep 08 2022 1:07 PM 
+- 🤗 [tomcat 集群监控与弹性伸缩](https://juejin.cn/post/7141011630300594207) | Thu Sep 08 2022 2:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    如何给 tomcat 配置合适的线程池 任务分为 CPU 密集型和 IO 密集型 对于 CPU 密集型的应用来说，需要大量 CPU 计算速度很快，线程池如果过多，则保存和切换上下文开销过高反而会影响性 
+    </details> 
+
+- 🎡 [都2022年了，你还不知道什么叫单调栈与单调队列吗？（上）](https://juejin.cn/post/7141006074961723429) | Thu Sep 08 2022 1:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    所谓的单调栈和单调队列又是什么意思呢？从字面意思上来看，所谓的“单调”就是指单调递增或者单调递减，没错，正如字面意思一般，单调栈及单调队列就是指的是栈/队列内元素单调递增或单调递减。 
+    </details> 
+
+- 🕯 [产品经理：你这个效果不行，我想要一个五彩斑斓的黑！我：。。。](https://juejin.cn/post/7141005249711439908) | Thu Sep 08 2022 1:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 前因 有一天，产品经理跟我说，咱们这个网站的效果太单调了，我想要一个看起来炫酷一些的加载效果。我听后哐哧哐哧就写了一个加载效果，效果如下图所 
+    </details> 
+
+- 🚀 [Golang 常量声明还能这么用？](https://juejin.cn/post/7141002554728513549) | Thu Sep 08 2022 1:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    今天在写 bug 的时候发现公司群里有同事问了这么个问题： 这个程序的运行结果很奇怪： 为啥常量定义还能这么用。 
+    </details> 
+
+- 💪 [转转商业化OCPC产品的护航之旅](https://juejin.cn/post/7140995036799303717) | Thu Sep 08 2022 1:07 PM 
     <details><summary>展开描述 ...</summary> 
     本文聚焦二手平台蓝海品类，围绕流量充足物料不够的诸多情况，设计了OCPC产品方案用以商家拉新促活，并详尽地梳理了机制策略模块的研究进展，充分调研了不同的技术选型，最终落地并取得收益！ 
-    </details> 
-
-- 🎡 [另辟蹊径的生成算法！DDPM的铺垫知识](https://juejin.cn/post/7140992919325900830) | Thu Sep 08 2022 1:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    0 概述 我本来应该在学习Stable Diffusion的代码。但是因为其很大程度是依赖于DDPM的研究，所以现在沿着这棵树往上爬，必须要先干掉DDPM。 DDPM其中包含了很多的背景知识，比方说扩 
-    </details> 
-
-- 🕯 [Dart 2.18 正式发布](https://juejin.cn/post/7140984827448131598) | Thu Sep 08 2022 12:30 PM 
-    <details><summary>展开描述 ...</summary> 
-    互操作性增强、平台特定的网络组件、优化类型推断，以及空安全语言里程碑的近期更新 文/ Michael Thomsen, Google Flutter &amp; Dart 产品经理 Dart 2.18 稳定版 
-    </details> 
-
-- 🚀 [测试一下](https://juejin.cn/post/7140983658411720712) | Thu Sep 08 2022 12:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    水滴石穿，金石可镂，坚持发文就一定会有收获~ 金石计划是针对掘金社区所有的原创作者发起的奖金瓜分活动，根据要求完成挑战，即可瓜分现金奖池！心动不如行动，从这里开启通往技术大牛之路的第一步吧！ 活动时间 
-    </details> 
-
-- 💪 [Hybrid app本地开发如何调用JSBridge](https://juejin.cn/post/7140975402339532831) | Thu Sep 08 2022 11:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    前天同事问我公司内部的小程序怎么对接的，我回忆了一下，简单记录了一下前端同学需要注意的点。 背后还有小程序架构、网络策略等等 
     </details> 
 <!-- juejin:END -->
 ### 少数派
