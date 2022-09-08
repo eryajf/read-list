@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [从iPhone 14到iPhone 8 细数21款苹果手机快充功率变迁](https://www.cnbeta.com/articles/tech/1314107.htm) | Thu Sep 08 2022 3:16 PM 
+- 🕯 [《独行月球》票房破29.5亿 片方起诉三名网友要求道歉加赔偿](https://hot.cnbeta.com/articles/movie/1314113.htm) | Thu Sep 08 2022 4:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日晚间，电影《独行月球》官方晒出&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/7530772333/M4QiM9XDi&quot; target=&quot;_blank&quot;&gt;民事起诉状&lt;/a&gt;，称 针对“《独行月球》偷票房”的恶意诽谤言论，现正式对三名造谣者提起诉讼。官微称，创作不易，任何组织或者个人不应以侮辱、诽谤等方式侵害他人的名誉权，良好的电影市场环境需要大家共同建设。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [科学家发现一颗比地球大40%的系外行星 可能适合生命存在](https://www.cnbeta.com/articles/science/1314111.htm) | Thu Sep 08 2022 3:57 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;一个国际科学家小组说，他们在大约100光年外发现了两颗新的 &amp;quot;超级地球&amp;quot;类型的行星，其中一颗可能适合生命的存在。&lt;/strong&gt;与我们太阳系中的任何行星不同，近1600颗已知的超级地球比地球大，但比天王星和海王星等冰冻行星轻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [乔布斯女儿吐槽iPhone 14没新意 像是换一件新一点的衣服](https://www.cnbeta.com/articles/tech/1314109.htm) | Thu Sep 08 2022 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;苹果创始人史蒂夫?乔布斯的女儿Eve在自己的Instagram吐槽称，iPhone 14手机毫无新意，虽然我换新机跟换衣服一样容易，但我依然没兴趣。&lt;/strong&gt;Eve的配图也是讽刺意味十足，一名男子拿着一件和他目前穿在身上相同的一件新衬衫，那感慨就是我有换的必要吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [从iPhone 14到iPhone 8 细数21款苹果手机快充功率变迁](https://www.cnbeta.com/articles/tech/1314107.htm) | Thu Sep 08 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;苹果2022年秋季新品发布会比往年提早了一个星期，但依旧是凌晨1点准时进行，此次发布会带来了全新iPhone 14系列，重塑的AirPods Pro以及三款新Apple Watch。&lt;/strong&gt;耳机、手表就不细说了，主要还是来聊聊最新的iPhone 14系列，全系新机依旧采用Lightning接口坐实了此前的相关爆料，并未受欧盟即将到来的强制设备使用USB-C接口政策的影响，对于想要早点获得该体验用户来说，只能是化身等等党了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [飞利浦呼吸机致癌？监管机构对其展开调查](https://www.cnbeta.com/articles/tech/1314105.htm) | Thu Sep 08 2022 3:14 PM 
+- 🎊 [飞利浦呼吸机致癌？监管机构对其展开调查](https://www.cnbeta.com/articles/tech/1314105.htm) | Thu Sep 08 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;北京时间9月8日消息，荷兰医疗设备公司飞利浦此前表示，由于呼吸机的泡沫部件可能会降解并变得有毒，从而导致癌症，因此召回了一些机器。当地时间周四（9月8日）巴黎检察官办公室已经对荷兰医疗器械制造商飞利浦召回的呼吸器械展开初步调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [水晶动力现已从SE手里接管了《古墓丽影》系列](https://hot.cnbeta.com/articles/game/1314103.htm) | Thu Sep 08 2022 3:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;水晶动力和Eidos蒙特利尔正式宣布，他们从前任母公司SE手里分别接管了《古墓丽影》和《杀出重围》系列。水晶动力表示他们从SE那里接管了多个游戏系列，包括《古墓丽影》和《凯恩的遗产》，现在水晶动力是这些游戏的所有人，同时也是玩法和相关个人数据的操控者。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [亚马逊游戏总裁解释为什么取消《指环王》网游](https://hot.cnbeta.com/articles/game/1314101.htm) | Thu Sep 08 2022 3:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊游戏总裁解释了公司为什么在开发多年后又取消《指环王》网游。2021年4月，亚马逊确认和Athlon Games（乐游科技美国子公司）联合开发的这款免费主机/PC游戏被砍掉。当时据彭博社报道，该作的取消是因为亚马逊和中国科技巨头腾讯之间的争议，腾讯曾于2020年12月收购了乐游科技。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Gartner公布2022年亚太区供应链10强：联想第1，阿里第2](https://www.cnbeta.com/articles/tech/1314099.htm) | Thu Sep 08 2022 3:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月8日消息，数据研究机构Gartner日前公布了2022年亚太区供应链10强榜单排名，其中，联想集团成为排名最高的企业，阿里排名第二，台积电排名第三。此外，上榜的企业还包括LG电子、索尼、三星电子和京东等公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
