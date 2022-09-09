@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国弗吉尼亚州数据中心容量超过欧洲或中国](https://www.cnbeta.com/articles/tech/1314511.htm) | Fri Sep 09 2022 1:40 PM 
+- 🕯 [越南零售商开始技嘉RTX 4090显卡预购](https://www.cnbeta.com/articles/tech/1314517.htm) | Fri Sep 09 2022 2:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;随着NVIDIA GeForce RTX 4090显卡上市的时间日益临近，越南的一家零售商已经列出了该显卡的定制型号。&lt;strong&gt;越南零售店Kccshop列出了技嘉即将推出的三款显卡，它们是NVIDIA即将推出的GeForce RTX 4090定制设计。这些型号包括两个标准的技嘉产品（Windforce和Gaming）和一个AORUS（Master）版本。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [亚马逊正在收购Cloostermans以加强其机器人业务](https://www.cnbeta.com/articles/tech/1314515.htm) | Fri Sep 09 2022 2:09 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;多年来，亚马逊进行了一连串的创业公司收购，以建立其机器人业务。现在，这个电子商务巨头在扩大其工业仓储能力的同时，在这一战略上也出现了有趣的转变。&lt;strong&gt;亚马逊正在收购比利时的Cloostermans公司，该公司是机电一体化方面的专家。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [SiFive RISC-V处理器将为NASA未来太空任务提供动力](https://www.cnbeta.com/articles/tech/1314513.htm) | Fri Sep 09 2022 1:58 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;NASA不久将对其航天计算机中采用的系统进行重大升级，采用在开源许可下开发和提供的RISC-V架构。&lt;/strong&gt;NASA选择SiFive提供CPU内核，这是一个恰当的选择，因为这家总部位于加利福尼亚州圣马特奥的公司成立于7年前，致力于开发基于RISC-V的硬件（其中&amp;quot;V&amp;quot;表示这是第五代RISC指令集）并将兼容的处理器推向市场。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [美国弗吉尼亚州数据中心容量超过欧洲或中国](https://www.cnbeta.com/articles/tech/1314511.htm) | Fri Sep 09 2022 1:40 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;弗吉尼亚州拥有美国三分之一以上的超大规模数据中心容量，这比中国或整个欧洲的全部容量都要多&lt;/strong&gt;，这凸显了所谓的数据中心大道上集中了多少基础设施。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [数学家丘成桐可以复制吗？](https://www.cnbeta.com/articles/tech/1314509.htm) | Fri Sep 09 2022 1:24 PM 
+- 🎊 [数学家丘成桐可以复制吗？](https://www.cnbeta.com/articles/tech/1314509.htm) | Fri Sep 09 2022 1:24 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;几位拥有国际影响力的中国数学家的存在，常常令公众产生一种错觉，即中国的数学水平在世界仍居前列。这种普遍印象既来自于华罗庚、陈景润等数学名家事迹的广为流传，又来自于公众对前沿数学领域的不甚了解。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [三月股价跌近30% “假洋牌”慕思割不动了？](https://www.cnbeta.com/articles/tech/1314507.htm) | Fri Sep 09 2022 1:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当代年轻人的快节奏生活，让熬夜晚睡成为了一种常态。他们一边纵享着入夜以后的自由时光，一边又在睡眠这件事上一掷千金，买更亲肤的睡衣、更助眠的枕头，以及更昂贵的床垫，试图从另一个方面来补回晚睡的遗憾。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [国内两大动力电池巨头拿下宝马集团巨额大单](https://www.cnbeta.com/articles/tech/1314505.htm) | Fri Sep 09 2022 1:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国内两大动力电池巨头拿下宝马集团巨额大单。9月9日，宝马集团宣布将从2025年起率先在“新世代”车型中使用圆柱动力电池，宣布向国内两大动力电池巨头宁德时代（300750）与亿纬锂能（300014）授予价值超百亿欧元（约700亿元）的电芯生产需求合同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [苹果官网iPhone 14 Pro Max的到货时间已经开始推后](https://www.cnbeta.com/articles/tech/1314503.htm) | Fri Sep 09 2022 1:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在iPhone 14开始预购的几分钟内，Apple Store被全球蜂拥而入的顾客挤瘫，而到网站恢复工作的时候，还没有买到iPhone 14 Pro Max的客户发现这款产品的现货库存已经售罄，这意味着发货日期已经推后。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
