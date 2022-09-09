@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [第一位高科技女王去世：伊丽莎白二世曾是二战机械手、狂飙路虎的女司机](https://www.cnbeta.com/articles/tech/1314553.htm) | Fri Sep 09 2022 4:17 PM 
+- 🕯 [Intel 96核战平AMD 128核 坐等120核大战192核](https://www.cnbeta.com/articles/tech/1314561.htm) | Fri Sep 09 2022 4:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在数据中心平台，Intel Sapphire Rapids、AMD Genoa两大下一代新品已经多次曝光，型号、规格什么的都七七八八了，跑分也不断出现。GeekBench 5里又出现了&lt;strong&gt;至强铂金8468，48核心96线程&lt;/strong&gt;，它有两种版本：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Android 13上调最低内存要求 不到2GB RAM装不了GMS](https://www.cnbeta.com/articles/tech/1314559.htm) | Fri Sep 09 2022 4:30 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;和去年的Windows 11类似，谷歌日前也对Android 13的最低硬件要求做出上调，意在提高门槛。简单来说，&lt;strong&gt;RAM现在最低2GB，ROM最低得是16GB。&lt;/strong&gt;当然，谷歌的前提条件是，预装GMS的Android 13设备，理论上说，如果不打算支持GMS，那么低于这个标准应该也是可行的，不过着尚待验证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [寺庙放生池现1.2米鳄雀鳝 重50斤 快把观赏鱼吃没了](https://www.cnbeta.com/articles/tech/1314557.htm) | Fri Sep 09 2022 4:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近期全国多地都出现了鳄雀鳝，涉及河南、北京、湖南、广西、山东、云南、江苏等地，有的在小区水系，有的在公园湖泊。而现在，鳄雀鳝居然出现在寺庙的放生池了。网友吐槽：这不是放生，是造孽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [赏月最佳时刻与地图出炉 中东部大部晴朗少雨](https://www.cnbeta.com/articles/tech/1314555.htm) | Fri Sep 09 2022 4:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;明天（9月10日）就是中秋节了，一个适合团聚、赏月的日子，那么你所在的地方或者要前往的目的地，天气状况如何呢？对此，中国天气发布全国中秋天气地图，简单来说就是中东部大部晴朗少雨宜出行，西南地区雨水相伴。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [第一位高科技女王去世：伊丽莎白二世曾是二战机械手、狂飙路虎的女司机](https://www.cnbeta.com/articles/tech/1314553.htm) | Fri Sep 09 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;英国女王伊丽莎白二世去世，标志着一个时代的落幕。9月8日（当地时间），英国白金汉宫公布了一个沉痛的消息：英国女王在巴尔莫勒堡（Balmoral）安祥地去世，享年96岁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [传闻任天堂直面会下周仍会举行](https://hot.cnbeta.com/articles/game/1314551.htm) | Fri Sep 09 2022 4:11 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，由于英国女王伊丽莎白二世的离世，任天堂推迟了直面会的举行，但据Jeff Grubb在推文上表示，展会仍会进行。Jeff Grubb在推特上表示，似乎展会还会正常进行，如果被调整，那也是一个微小的调整，预计会在下周举行。内部人士Nathehate也在推特上表示，该发布会会在9月12日宣布。一切消息请以官方为准。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [新冠预防药研发取得新进展 国内团队提交临床前数据](https://www.cnbeta.com/articles/tech/1314549.htm) | Fri Sep 09 2022 3:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国内新冠中和抗体药物研发又有新进展。第一财经记者日前从重庆医科大学方面获悉，重庆医科大学校长黄爱龙教授以及金艾顺教授团队牵头研制的一款对新冠奥密克戎变异株具有强效中和活性的抗体58G6已完成全部临床前研究，相关论文近日发表于期刊《信号转导与靶向治疗》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [女子求职被告知有男朋友一律不招 CEO：因为我没有女朋友](https://www.cnbeta.com/articles/tech/1314547.htm) | Fri Sep 09 2022 3:08 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近被曝光的奇葩招聘似乎特别多，什么只要“清朝人”，什么不要手机倒数第五位是5的，什么不要河南人的……有的来自HR，有的来自公司奇葩规定。据极目新闻，9月8日，浙江温州的王女士（化姓）在找工作时，竟被告知有男朋友的一律不招，即便拉黑对方依然被骚扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [iPhone 14系列首销火爆 黄牛加千元收购](https://www.cnbeta.com/articles/tech/1314545.htm) | Fri Sep 09 2022 3:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今晚20点，iPhone 14系列四款新机正式开放预订，正如此前预期，两款Pro非常火爆，新出的暗紫色和通常都很好卖的银色比较紧俏，尤其是大容量版本。截稿前，中国官网的发货时间已经推迟到了10月份，想在国庆节前用上很难了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
