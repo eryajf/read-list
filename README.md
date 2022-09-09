@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Facebook已解散Responsible Innovation团队](https://www.cnbeta.com/articles/tech/1314245.htm) | Fri Sep 09 2022 2:04 AM 
+- 🕯 [国产特斯拉8月份出口超过4.2万辆 是7月份两倍多也高于去年同期](https://www.cnbeta.com/articles/tech/1314323.htm) | Fri Sep 09 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Facebook已经解散了其Responsible Innovation团队。&lt;/strong&gt;该小组的任务是发现Facebook开发和发布的产品的潜在弊端。社交媒体平台的母公司Meta保证，其产品仍将保持安全和道德。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一期二期相继投产后的特斯拉上海超级工厂，已成为特斯拉的重要出口基地，所生产的Model 3和Model Y电动汽车，已大量出口欧洲等市场。而乘联会等所公布的数据显示，8月份特斯拉上海超级工厂的出口量，较7月份大幅增加，也高于去年同期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Windows Server Build 25197预览版发布](https://www.cnbeta.com/articles/tech/1314243.htm) | Fri Sep 09 2022 2:00 AM 
+- 💼 [跟易理包说拜拜：CoffeB带来一款更实惠、环保的单杯咖啡球](https://www.cnbeta.com/articles/tech/1314321.htm) | Fri Sep 09 2022 4:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;微软今天发布了 Windows Server Build 25197 预览版。&lt;/strong&gt;有需求的用户可以前往 Windows Server Insider 官网进行下载，官方提供 ISO 和 VHDX 两种格式。虽然该预览版使用和 Windows 11 Dev 版本相同的内核，但和以往一样微软并未公布更新日志，因此并不清楚有哪些新增内容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一家名为CoffeeB的公司创造了一个创新的可堆肥咖啡球系统，它可以让你享受咖啡而无需等上几个月让塑料分解。&lt;/strong&gt;据了解，这款产品的零售价约为5美元，并且还将配备自己的机器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究：类风湿性关节炎蛋白的发现指向潜在的新疗法](https://www.cnbeta.com/articles/science/1314241.htm) | Fri Sep 09 2022 1:55 AM 
+- 💂 [三部门联合发布《互联网弹窗信息推送服务管理规定》](https://www.cnbeta.com/articles/tech/1314319.htm) | Fri Sep 09 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国的一个研究小组发现了一种新的机制，其中一种关键蛋白驱动与类风湿性关节炎有关的炎症损害。&lt;/strong&gt;这一基础性发现希望能将研究引向全新的途径，以治疗这种影响数百万人的自身免疫性疾病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，国家互联网信息办公室、工业和信息化部、国家市场监督管理总局联合发布《互联网弹窗信息推送服务管理规定》（以下简称《规定》），自2022年9月30日起施行。国家互联网信息办公室有关负责人表示，《规定》旨在加强对弹窗信息推送服务的规范管理，维护国家安全和社会公共利益，保护公民、法人和其他组织的合法权益，促进互联网信息服务健康有序发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [AirPods Pro 2新增第三种充电方式：兼容Apple Watch充电器](https://www.cnbeta.com/articles/tech/1314239.htm) | Fri Sep 09 2022 1:55 AM 
+- 🚀 [韩民众在汉江拍到“水怪”：长10米、游得非常快](https://www.cnbeta.com/articles/tech/1314317.htm) | Fri Sep 09 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国外科技媒体 Wccfetch 注意到一个细节：AirPods Pro 2 可以使用 Apple Watch 的适配器进行充电。初代 AirPods Pro 支持两种充电方式，要么通过 Lightning，要么通过 MagSafe 进行无线充电。而现在，AirPods Pro 2 再新增了一种充电方式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;相信不少人都看过一部来自韩国的惊悚电影《汉江怪物》，没想到多年之后，竟然真的有人在汉江边拍到了一条“水怪”。&lt;/strong&gt;据海客新闻援引韩国JTBC电视台报道，当地时间9月6日下午，有韩国民众在首尔盘浦大桥附近的汉江江面上，拍下一不明生物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Talos警告Lazarus黑客正利用Log4j漏洞入侵美国能源公司](https://www.cnbeta.com/articles/tech/1314237.htm) | Fri Sep 09 2022 1:54 AM 
+- 🎊 [NASA哈勃太空望远镜发现早期宇宙的“窗口”](https://www.cnbeta.com/articles/science/1314315.htm) | Fri Sep 09 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;威胁情报研究机构 Cisco Talos 周四表示，&lt;strong&gt;其观察到 APT38（又名 Lazarus）在今年 2-7 月期间，针对美国、加拿大和日本的未具名能源供应商发起了攻击。&lt;/strong&gt;研究发现，黑客利用了在 Log4j 中存在一年之久的漏洞（即 Log4Shell），来破坏暴露在互联网上的 VMware Horizon 服务器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据两项新研究，&lt;strong&gt;天文学家发现螺旋形的恒星可能在附近的恒星“育儿室”中为恒星的形成提供能量。&lt;/strong&gt;恒星是“雕琢宇宙的机器”，然而研究人员仍然不完全了解它们是如何形成的。科学家们转向了小麦哲伦星系，以了解在宇宙历史早期发生的疯狂的“婴儿潮”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
