@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [毕业留港找工作，这些建议请笑纳](https://sspai.com/post/75323) | Fri Sep 09 2022 3:28 AM 
+- 👹 [今晚下单新品前，先来看看外媒真机上手体验](https://sspai.com/post/75651) | Fri Sep 09 2022 6:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文对部分外媒的新产品上手体验视频进行了汇总，希望能帮你对新设备更多一点了解，更好地作出购买决定。&lt;a href=&quot;https://sspai.com/post/75651&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [毕业留港找工作，这些建议请笑纳](https://sspai.com/post/75323) | Fri Sep 09 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75323&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：Tim Cook 透露 Apple 暂无计划支持 RCS 等](https://sspai.com/post/75644) | Fri Sep 09 2022 12:49 AM 
+- 🤭 [派早报：Tim Cook 透露 Apple 暂无计划支持 RCS 等](https://sspai.com/post/75644) | Fri Sep 09 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
     影石 Insta360 X3 发布，Bose QuietComfort Earbuds II 耳机发布等。&lt;a href=&quot;https://sspai.com/post/75644&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新玩意 119｜少数派的编辑们最近买了啥？](https://sspai.com/post/75633) | Thu Sep 08 2022 9:20 AM 
+- 🥸 [新玩意 119｜少数派的编辑们最近买了啥？](https://sspai.com/post/75633) | Thu Sep 08 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/75633&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [生活不止眼前的苟且，还有眼下的厕纸：关于卫生纸你应该知道的](https://sspai.com/post/75552) | Thu Sep 08 2022 6:33 AM 
+- 🙉 [生活不止眼前的苟且，还有眼下的厕纸：关于卫生纸你应该知道的](https://sspai.com/post/75552) | Thu Sep 08 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
     前言前段时间跟长辈聊天，我向他们问了一个我好奇已久的问题——他们小时候擦屁股用的是什么？他们的答案各不相同，令我有些意外，他们都没法用到如今我们习以为常的卫生纸，而是因地制宜，选择了不同的材料。我的舅 ...&lt;a href=&quot;https://sspai.com/post/75552&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：Apple 召开秋季新品发布会、哈苏推出新款相机等](https://sspai.com/post/75625) | Wed Sep 07 2022 10:09 PM 
-    <details><summary>展开描述 ...</summary> 
-    vivo 推出 Y75s 5G 版手机、微软推出 Xbox Elite 2 Core 手柄、索尼发布 PS5 固件更新等。&lt;a href=&quot;https://sspai.com/post/75625&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
