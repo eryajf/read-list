@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [收益率破1.4% 余额宝不香了？](https://www.cnbeta.com/articles/tech/1314131.htm) | Thu Sep 08 2022 7:20 PM 
+- 🕯 [Facebook已解散Responsible Innovation团队](https://www.cnbeta.com/articles/tech/1314245.htm) | Fri Sep 09 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月8日，天弘余额宝货币市场基金7日年化收益率报1.3920%，短暂反弹之后再度跌破1.4%。以余额宝为代表的货币基金收益持续下滑，投资者选择“割肉”还是继续持有呢？进入8月份以来，天弘余额宝7日年化收益率持续走低，8月23日，天弘余额宝7日年化收益率报1.3690%，逐渐逼近2020年6月9日创下的历史低点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Facebook已经解散了其Responsible Innovation团队。&lt;/strong&gt;该小组的任务是发现Facebook开发和发布的产品的潜在弊端。社交媒体平台的母公司Meta保证，其产品仍将保持安全和道德。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14基本不涨价 4.5亿美元投资紧急卫星服务](https://www.cnbeta.com/articles/tech/1314129.htm) | Thu Sep 08 2022 7:17 PM 
+- 💼 [Windows Server Build 25197预览版发布](https://www.cnbeta.com/articles/tech/1314243.htm) | Fri Sep 09 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司9月7日发布了支持紧急卫星服务连接功能的iPhone 14系列智能手机和新系列智能手表等新品。在通胀压力下，iPhone 14的价格基本没有上涨。苹果在一场“Far Out”的新品发布活动中表示，最新款iPhone起售价格为799美元，将于本月晚些时候上市。苹果公司当天股价上涨近1%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;微软今天发布了 Windows Server Build 25197 预览版。&lt;/strong&gt;有需求的用户可以前往 Windows Server Insider 官网进行下载，官方提供 ISO 和 VHDX 两种格式。虽然该预览版使用和 Windows 11 Dev 版本相同的内核，但和以往一样微软并未公布更新日志，因此并不清楚有哪些新增内容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [埃隆·马斯克：已经与苹果公司就Starlink连接问题进行了“有希望的对话”](https://www.cnbeta.com/articles/tech/1314127.htm) | Thu Sep 08 2022 7:14 PM 
+- 💂 [研究：类风湿性关节炎蛋白的发现指向潜在的新疗法](https://www.cnbeta.com/articles/science/1314241.htm) | Fri Sep 09 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着昨天iPhone 14机型的推出，苹果公司推出了一项新的通过卫星进行紧急求救的功能，旨在让iPhone用户在没有手机或Wi-Fi连接的情况下也能获得紧急帮助。苹果目前正在使用Globalstar卫星进行这项工作，但SpaceX和特斯拉首席执行官埃隆·马斯克今天声称，他的公司已经与苹果就Starlink连接进行了&amp;quot;一些有希望的对话&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国的一个研究小组发现了一种新的机制，其中一种关键蛋白驱动与类风湿性关节炎有关的炎症损害。&lt;/strong&gt;这一基础性发现希望能将研究引向全新的途径，以治疗这种影响数百万人的自身免疫性疾病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [“先方后药” 网售处方药监管趋严](https://www.cnbeta.com/articles/tech/1314125.htm) | Thu Sep 08 2022 5:54 PM 
+- 🚀 [AirPods Pro 2新增第三种充电方式：兼容Apple Watch充电器](https://www.cnbeta.com/articles/tech/1314239.htm) | Fri Sep 09 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国家市场监督管理总局发布的《药品网络销售监督管理办法》（以下简称《办法》）将于2022年12月1日起施行。《办法》对药品网络销售管理、平台责任履行、监督检查措施及法律责任作出了规定。文件明确，七类药品不得网售，且网售处方药实行实名制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国外科技媒体 Wccfetch 注意到一个细节：AirPods Pro 2 可以使用 Apple Watch 的适配器进行充电。初代 AirPods Pro 支持两种充电方式，要么通过 Lightning，要么通过 MagSafe 进行无线充电。而现在，AirPods Pro 2 再新增了一种充电方式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [英国女王伊丽莎白二世去世 享年96岁 在位70年](https://www.cnbeta.com/articles/tech/1314123.htm) | Thu Sep 08 2022 5:51 PM 
+- 🎊 [Talos警告Lazarus黑客正利用Log4j漏洞入侵美国能源公司](https://www.cnbeta.com/articles/tech/1314237.htm) | Fri Sep 09 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;英国在位时间最长的君主伊丽莎白二世在巴尔莫勒尔去世，享年96岁，在位70年。&lt;/strong&gt;她的家人在周四早些时候对她的健康状况表示担忧后，聚集在她的苏格兰庄园。女王于1952年登上王位，见证了巨大的社会变革。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;威胁情报研究机构 Cisco Talos 周四表示，&lt;strong&gt;其观察到 APT38（又名 Lazarus）在今年 2-7 月期间，针对美国、加拿大和日本的未具名能源供应商发起了攻击。&lt;/strong&gt;研究发现，黑客利用了在 Log4j 中存在一年之久的漏洞（即 Log4Shell），来破坏暴露在互联网上的 VMware Horizon 服务器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
