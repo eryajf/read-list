@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [全面系统的 Web3 学习路线，助你成为 Web3 开发专家](https://juejin.cn/post/7141217595264335903) | Fri Sep 09 2022 3:32 AM 
+- 🤗 [前端小册《Vue3从入门到就业》](https://juejin.cn/post/7141225619475398663) | Fri Sep 09 2022 4:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    一. 作者简介 🔸 从接触前端开始，每一步都举步维艰，每一行代码都在寻找最优的标准写法 🔹 从接触前端以后，你就应该懂得，学习就应该是一辈子的事情 📝 二. 为什么要写小册 🕰️ 时代潮流 🕛 从 W 
+    </details> 
+
+- 🎡 [如何优雅的解决 Qiankun 下 Sentry 异常上报无法自动区分项目的问题 ?](https://juejin.cn/post/7141222298622623775) | Fri Sep 09 2022 3:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文使用「署名 4.0 国际 &lpar;CC BY 4.0&rpar;」 许可协议，欢迎转载、或重新修改使用，但需要注明来源。 最近项目组决定将前端异常监控由 Fundebug 切换为 Sentry。整个切换过程可以说 
+    </details> 
+
+- 🕯 [全面系统的 Web3 学习路线，助你成为 Web3 开发专家](https://juejin.cn/post/7141217595264335903) | Fri Sep 09 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
     今天学习 Web3 和区块链开发就像昨天以 10 美元购买比特币一样。 区块链行业的薪水是非常可观的，全球范围内从事 Web3 的程序员平均年薪约为 14 万美元，当然国内可能会比这个平均年薪低一些， 
     </details> 
 
-- 🎡 [Android 闪屏页适配](https://juejin.cn/post/7141215994197835789) | Fri Sep 09 2022 3:25 AM 
+- 🚀 [Android 闪屏页适配](https://juejin.cn/post/7141215994197835789) | Fri Sep 09 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
     如果您之前在 Android 11 或更低版本中实现了自定义初始屏幕，则需要将您的应用迁移到 SplashScreenAPI 以确保它在 Android 12 及更高版本中正确显示。 
     </details> 
 
-- 🕯 [手写Promise太难？那是你不会拆分需求！](https://juejin.cn/post/7141214657989050375) | Fri Sep 09 2022 3:20 AM 
+- 💪 [手写Promise太难？那是你不会拆分需求！](https://juejin.cn/post/7141214657989050375) | Fri Sep 09 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
     现在面试也越来越内卷了，动不动就手写各种源码。很多人一听到手写Promise就头大，毫无思路，其实我们把功能需求拆封一下，分步骤实现；写起来就相对简单了，并且易于理解。 
-    </details> 
-
-- 🚀 [Java&amp;C++题解与拓展——leetcode1598.文件夹操作日志搜集器【么的新知识】](https://juejin.cn/post/7141212571088420901) | Fri Sep 09 2022 3:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    leetcode1598.文件夹操作日志搜集器解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
-    </details> 
-
-- 💪 [为何我司的业务模块都在往小程序化发展、选择 Go 还是 Rust？ 2021 年的 SwiftUI: 优势、劣势和缺陷 | 酱酱的下午茶第 69 期](https://juejin.cn/post/7141207661311164452) | Fri Sep 09 2022 2:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    看点: 为何我司的业务模块都在往小程序化发展、那就用Three.js自己制作一个月饼、用 Rust 开发跨平台 App 探索和实践、选择 Go 还是 Rust？SwiftUI: 优势、劣势和缺陷 
     </details> 
 <!-- juejin:END -->
 ### 少数派
