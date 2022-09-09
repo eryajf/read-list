@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [RAR Extractor Max – unzip 10.6.0 解压缩神器](https://xclient.info/s/rar-extractor-unzip.html) | Thu Sep 08 2022 1:26 AM 
+- 🦏 [Softorino YouTube Converter 5.0.88 又一款 Youtube 视频下载工具](https://xclient.info/s/softorino-youtube-converter.html) | Fri Sep 09 2022 12:43 AM 
     <details><summary>展开描述 ...</summary> 
-    RAR Extractor - Unzip是一款功能强大的解压缩软件，支持几乎所有的压缩格式，比如RAR, ZIP, 7z, tbz, sti, tar, xar等等，用起来非常的方便。 
+    一款好用的 Youtube 视频一键下载工具 
     </details> 
 
--  [Mitti 2.2.3 专业视频回放解决方案](https://xclient.info/s/mitti.html) | Thu Sep 08 2022 1:20 AM 
+-  [SiteSucker Pro 5.0.4 扒站神器](https://xclient.info/s/sitesucker.html) | Fri Sep 09 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    Mitti 是一款macOS平台的功能强大且易于使用的专业视频回放解决方案，适用于剧院，视听表演，表演和展览，具有清晰，直观，整洁的用户界面，易于学习和使用的工作流程，在现代的64位低延迟音频之上，以及强大的GPU加速视频播放引擎。 
+    SiteSucker是一款Mac OS X上的整站下载的利器，可以将整个网站所有资源下载到本地硬盘。 
     </details> 
 
-- ⚗️ [Vellum 3.3.4 电子书制作工具](https://xclient.info/s/vellum.html) | Thu Sep 08 2022 1:19 AM 
+- ⚗️ [SyncTime 4.1.1 文件同步工具](https://xclient.info/s/synctime.html) | Fri Sep 09 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    Vellum 是一款Mac上优秀的电子书制作工具，把文本生成为图文格式的电子书，如iBooks, Kindle， Nook等，简单易用。 
+    SyncTime是一款Mac上的文件同步软件，SyncTime是同步文件的最简单的解决方案，您可以通过SyncTime轻松地保持最新的所有备份副本，分布在许多设备上。 
     </details> 
 
-- 🔥 [Color Wheel 7.3 数字色轮](https://xclient.info/s/color-wheel.html) | Thu Sep 08 2022 1:18 AM 
+- 🔥 [SimpleMind 1.32.0 小巧的思维导图工具](https://xclient.info/s/simplemind.html) | Fri Sep 09 2022 12:40 AM 
     <details><summary>展开描述 ...</summary> 
-    Color Wheel 是一款强大的数字色轮工具，可以帮助您快速的找到最匹配的颜色组合，设计师必备的工具之一！ 
+    SimpleMind是Mac OS X上一款思维导图工具，这款工具非常小巧，完全可以取代笨重的MindManager，对Mac开发者来说称得上是一大福音了。 
     </details> 
 
-- 🌋 [CameraBag Pro 2022.3.0 图像处理和修饰](https://xclient.info/s/camerabag-pro.html) | Thu Sep 08 2022 1:16 AM 
+- 🌋 [Script Debugger 8.0.5 优秀的AppleScript调试工具](https://xclient.info/s/script-debugger.html) | Fri Sep 09 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    CameraBag Pro 是Mac电脑上的一款图像处理和修饰应用。通过专为人像设计的预置，不同的风景场景，过去模拟胶片的忠实模拟，流行的现代照片风格，以及更多滤镜为你的图片修饰。 
+    Script Debugger 是能够帮助开发者快速的调试AppleScript。 
     </details> 
 <!-- xclient:END -->
 
