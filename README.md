@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【andriod】设备APP开发之前端实战操作代码【转载】](https://juejin.cn/post/7141295838835736606) | Fri Sep 09 2022 8:35 AM 
+- 🤗 [Java&amp;C++题解与拓展——leetcode652.寻找重复的子树【么的新知识】](https://juejin.cn/post/7141302732945621028) | Fri Sep 09 2022 9:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    leetcode652.寻找重复的子树解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    </details> 
+
+- 🎡 [一类有趣的无限缓存OOM现象](https://juejin.cn/post/7141301214523686926) | Fri Sep 09 2022 8:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    一般的线程池调度任务是啥场景？有个 Queue，来了任务先入队，有个 ThreadPool ，线程空闲了，从 Queue 取任务。 那么，当入队数据结构占内存太大，且单个任务处理速度小于入队速度呢？ 
+    </details> 
+
+- 🕯 [【andriod】设备APP开发之前端实战操作代码【转载】](https://juejin.cn/post/7141295838835736606) | Fri Sep 09 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
     文章目录 前言 一、Andriodmanifest.xml 1、解锁安卓系统前端读写权限代码 2、APP启动首页入口配置代码 3、APP获取andriod系统开机启动前端代码 4、授权中转页面和取得M 
     </details> 
 
-- 🎡 [js中的 ? 操作符](https://juejin.cn/post/7141289383046414366) | Fri Sep 09 2022 8:10 AM 
+- 🚀 [使用正则/g引发的线上问题](https://juejin.cn/post/7141290987275419684) | Fri Sep 09 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-    三目运算符 ? 非常简单也非常的常见，如果你还不知道，该赶紧补习一下啦； 可选链操作符 ?. 当我们在执行上面的代码时，因为obj对象上并不存在nickName属性，所以当读取obj.nickName 
+    问题出现 某个周末正吃着火锅唱着歌，接到了领导的电话。 “快看一下投放到xx客户端的页面，怎么没有头（导航栏）了？” 立即打开app查看发现果真只剩秃秃的页面直通手机顶部，便立即放心手中的碗筷跑回了家 
     </details> 
 
-- 🕯 [100万条数据查找指定元素性能对比](https://juejin.cn/post/7141288736632864798) | Fri Sep 09 2022 8:07 AM 
+- 💪 [try-catch引起的野指针问题排查](https://juejin.cn/post/7141289369688047653) | Fri Sep 09 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-    大家有想过includes，for循环，Arry.indexOf等查找方法究竟那个查找的更快吗？本文将通过模拟100万条数据去和大家一步步探讨结果。 
-    </details> 
-
-- 🚀 [探秘AutoreleasePool实现原理](https://juejin.cn/post/7141285896250195982) | Fri Sep 09 2022 7:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    AutoreleasePool主要应用在大量创建临时对象的场景，通过AutoreleasePool控制内存峰值，是一个很好的选择. 
-    </details> 
-
-- 💪 [diffusion Model原理之扩散过程与逆扩散过程](https://juejin.cn/post/7141285352509505567) | Fri Sep 09 2022 7:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    前面推导了一些铺垫知识，现在正式来看diffusion Model。 3 diffusion models 我们说的扩散过程，就是从$x_0$到$x_T$的过程，也就是墒增的过程，从有序到无序。反过来 
+    1、野指针问题 【EXC_BAD_ACCESS &lpar;SIGSEGV&rpar; / KERN_INVALID_ADDRESS] Possible zombie in call: Function: objc_re 
     </details> 
 <!-- juejin:END -->
 ### 少数派
