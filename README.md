@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [在 Debian 下如何固定网卡名称？](https://www.v2ex.com/t/879045#reply0) | Fri Sep 09 2022 8:12 PM
+- 🥸 [在 Debian 下如何固定网卡名称？](https://www.v2ex.com/t/879045#reply2) | Fri Sep 09 2022 8:12 PM
 - 🤗 [关于消息队列的延迟消息](https://www.v2ex.com/t/879036#reply5) | Fri Sep 09 2022 4:07 PM
 - 🎭 [各位老哥，群晖怎么选。新出的 1522+帖子很少](https://www.v2ex.com/t/879035#reply4) | Fri Sep 09 2022 3:50 PM
 - 🥷 [hadoop zookeeper](https://www.v2ex.com/t/879031#reply0) | Fri Sep 09 2022 3:15 PM
