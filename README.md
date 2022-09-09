@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国产特斯拉8月份出口超过4.2万辆 是7月份两倍多也高于去年同期](https://www.cnbeta.com/articles/tech/1314323.htm) | Fri Sep 09 2022 4:08 AM 
+- 🕯 [爆料称英特尔13代非-K酷睿i5产品线是12代Alder Lake换皮](https://www.cnbeta.com/articles/tech/1314359.htm) | Fri Sep 09 2022 5:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一期二期相继投产后的特斯拉上海超级工厂，已成为特斯拉的重要出口基地，所生产的Model 3和Model Y电动汽车，已大量出口欧洲等市场。而乘联会等所公布的数据显示，8月份特斯拉上海超级工厂的出口量，较7月份大幅增加，也高于去年同期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨日外媒分享了 Igor&amp;#39;s Lab 泄露的英特尔 13 代 Raptor Lake 酷睿桌面处理器的发布会 PPT 。但除了 i9-13900K（KF）、i7-13700K（KF）和 i5-13600K（KF）这六款 SKU 之外 —— &lt;strong&gt;3DCenter.org 又指出了一系列披着 12 代 Alder Lake 马甲的 i5-13xxx 非 -K 型号，让本就难记的 P+E 核心设计在中端产品线上变得更加混乱。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [跟易理包说拜拜：CoffeB带来一款更实惠、环保的单杯咖啡球](https://www.cnbeta.com/articles/tech/1314321.htm) | Fri Sep 09 2022 4:07 AM 
+- 💼 [iPhone 14系列今晚预售 Pro版预约超110万人 Plus版遇冷](https://www.cnbeta.com/articles/tech/1314357.htm) | Fri Sep 09 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一家名为CoffeeB的公司创造了一个创新的可堆肥咖啡球系统，它可以让你享受咖啡而无需等上几个月让塑料分解。&lt;/strong&gt;据了解，这款产品的零售价约为5美元，并且还将配备自己的机器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今晚20:00，iPhone 14系列将在苹果官网、合作电商平台开启预售，包括iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max四款机型，&lt;strong&gt;起售价分别为5999元、6999元、7999元、8999元。&lt;/strong&gt;你考虑好购买哪一款机型了吗？如果还没想好，不妨看看大家最热衷哪个版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [三部门联合发布《互联网弹窗信息推送服务管理规定》](https://www.cnbeta.com/articles/tech/1314319.htm) | Fri Sep 09 2022 3:55 AM 
+- 💂 [松下发布LUMIX S 18mm F1.8广角镜头：重量轻，灵活性好](https://www.cnbeta.com/articles/tech/1314355.htm) | Fri Sep 09 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，国家互联网信息办公室、工业和信息化部、国家市场监督管理总局联合发布《互联网弹窗信息推送服务管理规定》（以下简称《规定》），自2022年9月30日起施行。国家互联网信息办公室有关负责人表示，《规定》旨在加强对弹窗信息推送服务的规范管理，维护国家安全和社会公共利益，保护公民、法人和其他组织的合法权益，促进互联网信息服务健康有序发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;昨天，松下发布L卡口LUMIX S 18mm F1.8大光圈超广角定焦镜头。&lt;/strong&gt;LUMIX S 18mm F1.8镜头由12组13片组成，其中包括3片非球面镜片、3片ED（低色散）镜片、1片UED（超低色散）镜片和1片UHR（超高折射率）镜片。3片非球面镜片的使用，实现了高画质和美丽的虚化，这是该系列F1.8镜头的共同优点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [韩民众在汉江拍到“水怪”：长10米、游得非常快](https://www.cnbeta.com/articles/tech/1314317.htm) | Fri Sep 09 2022 3:54 AM 
+- 🚀 [AMD、NVIDIA降价幅度依然保守 2年前显卡至今才恢复“原价”](https://www.cnbeta.com/articles/tech/1314353.htm) | Fri Sep 09 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;相信不少人都看过一部来自韩国的惊悚电影《汉江怪物》，没想到多年之后，竟然真的有人在汉江边拍到了一条“水怪”。&lt;/strong&gt;据海客新闻援引韩国JTBC电视台报道，当地时间9月6日下午，有韩国民众在首尔盘浦大桥附近的汉江江面上，拍下一不明生物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于想要购买显卡的用户来说，其实不少还是在官网，因为在大家看来，促销力度还是不够狠。那么现在的显卡价格到底是在什么位置呢？3DCenter统计数据表明，2年时间后，NVIDIA和AMD当时推出的显卡才回到原价和以下，不过这还只是开头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NASA哈勃太空望远镜发现早期宇宙的“窗口”](https://www.cnbeta.com/articles/science/1314315.htm) | Fri Sep 09 2022 3:45 AM 
+- 🎊 [孚能科技发布SPS软包动力电池系统 充电10分钟补能400公里](https://www.cnbeta.com/articles/tech/1314351.htm) | Fri Sep 09 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据两项新研究，&lt;strong&gt;天文学家发现螺旋形的恒星可能在附近的恒星“育儿室”中为恒星的形成提供能量。&lt;/strong&gt;恒星是“雕琢宇宙的机器”，然而研究人员仍然不完全了解它们是如何形成的。科学家们转向了小麦哲伦星系，以了解在宇宙历史早期发生的疯狂的“婴儿潮”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月9日消息，孚能科技推出了全新的SPS软包动力电池系统，新电池能量密度达到330Wh/kg，支持800V、4C快充，&lt;strong&gt;充电10分钟可以获得400公里的续航里程&lt;/strong&gt;。孚能科技是国内软包电池领域的头部企业，面对用户的里程焦虑和充电焦虑，以及软包电池自身固有的优缺点，从电芯到结构再到工艺进行了全面革新，推出了全新的软包动力电池系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
