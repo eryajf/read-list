@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 数万人被虚假的苹果发布会直播欺骗；TikTok否认黑客窃取其数据](https://www.freebuf.com/news/344108.html) | Thu Sep 08 2022 9:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    TikTok否认用户数据和源代码被窃，并称黑客论坛分享的源代码根本不是其平台的后台源代码，并从未与微信数据合并。 
+    </details> 
+
 - 🦄 [正式开源！无恒实验室推出appshark自动化漏洞及隐私合规检测工具](https://www.freebuf.com/articles/mobile/344074.html) | Thu Sep 08 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     无恒实验室自主研发了appshark引擎，用于漏洞及隐私合规风险的自动化检测。 
     </details> 
 
-- 🦄 [网信办发布《网信部门行政执法程序规定（征求意见稿）》](https://www.freebuf.com/news/344065.html) | Thu Sep 08 2022 5:45 AM 
+- 🦅 [网信办发布《网信部门行政执法程序规定（征求意见稿）》](https://www.freebuf.com/news/344065.html) | Thu Sep 08 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
     《规定》共五章五十六条，对于网信部门制度建设、管辖范围、适用细则、执法措施、行政处罚的普通程序、执行与结案等方面皆有相应的规范和要求。 
     </details> 
 
-- 🦅 [Gartner发布2022云Web应用程序和API保护魔力象限](https://www.freebuf.com/articles/network/344060.html) | Thu Sep 08 2022 5:39 AM 
+- 🪄 [Gartner发布2022云Web应用程序和API保护魔力象限](https://www.freebuf.com/articles/network/344060.html) | Thu Sep 08 2022 5:39 AM 
     <details><summary>展开描述 ...</summary> 
     当前，云Web应用程序和API保护市场迅速增长。 
     </details> 
 
-- 🪄 [新型隐形恶意软件Shikitega正针对Linux系统](https://www.freebuf.com/news/344056.html) | Thu Sep 08 2022 4:44 AM 
+- 💻 [新型隐形恶意软件Shikitega正针对Linux系统](https://www.freebuf.com/news/344056.html) | Thu Sep 08 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
     该恶意软件可利用多阶段感染链来针对端点和物联网设备。 
-    </details> 
-
-- 💻 [FreeBuf早报 | Apache IoTDB 模块存在安全漏洞；洛杉矶联合学区遭勒索软件攻击](https://www.freebuf.com/news/344014.html) | Wed Sep 07 2022 10:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    开源项目Apache IoTDB grafana-connector 模块存在未授权漏洞，攻击者可通过web服务可能会获取数据库的内部结构。 
     </details> 
 <!-- freebuf:END -->
 
