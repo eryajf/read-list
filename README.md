@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[图]A16 Bionic跑分再曝光：较A15 Bionic有明显提升](https://www.cnbeta.com/articles/tech/1314443.htm) | Fri Sep 09 2022 9:17 AM 
+- 🕯 [互联网员工被裁半年后：有的仍未找到工作 有的签约MCN做职场博主](https://www.cnbeta.com/articles/tech/1314453.htm) | Fri Sep 09 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据昨日曝光的跑分成绩，A16 Bionic 在性能方面甚至不如 A15 Bionic。根据 GeekBench 跑分成绩，A16 Bionic 只是在单核上比 A15 更强，但是在多核成绩上甚至低于 A15。不过根据最新跑分结果，&lt;strong&gt;A16 Bionic 终于显现出真正的实力，性能要比 Android 旗舰要更快。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近两年，一些互联网公司裁员。很多大厂还把裁员玩出了新花样，三言财经此前曾在《互联网裁员丧事喜办》一文中盘点过一些大厂对于裁员的“骚操作”。那么，那些被裁的互联网员工现在都怎么样了？换了什么工作了？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [现代人和尼安德特人的大脑之间的关键差异被揭示出来](https://www.cnbeta.com/articles/science/1314439.htm) | Fri Sep 09 2022 9:03 AM 
+- 💼 [30年老牌GPU厂商官宣杀回 国产显卡就用它](https://www.cnbeta.com/articles/tech/1314451.htm) | Fri Sep 09 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;是什么让现代人变得独一无二？这个问题长期以来一直是研究人员的一个动力。因此，通过与我们的近亲尼安德特人的比较，可以揭示出令人着迷的见解。在大脑发育过程中，大脑大小的增加和神经元产量的增加被认为是人类进化过程中出现的认知能力提高的主要因素。然而，&lt;strong&gt;虽然尼安德特人和现代人开发的大脑大小相似，但对现代人和尼安德特人的大脑在开发过程中是否可能在神经元的产生方面存在差异知之甚少。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;1992年，Imagination公司推出了全新的PowerVR GPU架构，在桌面、移动、游戏等各领域都有深远的影响力，并一直延续至今。不过，PowerVR早已离开桌面领域，如今主要活跃在汽车、移动领域，市场份额分别超过50％、35％，支持游戏超过100万款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [影驰预告HOF Extreme 50 NVMe SSD 采用群联E26 PCIe 5.0主控方案](https://www.cnbeta.com/articles/tech/1314437.htm) | Fri Sep 09 2022 8:50 AM 
+- 💂 [3GHz主频：谍照曝光RTX 4090 3DMark TSE成绩较RTX 3090翻番](https://www.cnbeta.com/articles/tech/1314449.htm) | Fri Sep 09 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;影驰（GALAX）正在准备推出下一代名人堂（HOF）Extreme 50 系列固态硬盘新品，特点是采用了群联（Phison）E26 主控。&lt;/strong&gt;除了完全符合 PCIe 5.0 NVMe M.2 的要求、它还配备了主动式的散热解决方案，能够确保长时间高负载使用状况下的速度与稳定性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管应 Nvidia 的要求，TechPowerUp 在新版 CPU-Z 工具软件中引入了防止工程样品 GPU 偷跑的设计。但根据 @烟花易凉 在芯域（Chiphell）论坛上曝光的 3DMark《Time Spy》截图，&lt;strong&gt;我们还是见到了主频飙至 3 GHz、且尚未正式发布的 GeForce RTX 4090 旗舰游戏显卡的身影。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [五氧化二铌电极材料可在使用过程中发生变化以加速充电](https://www.cnbeta.com/articles/science/1314435.htm) | Fri Sep 09 2022 8:34 AM 
+- 🚀 [iPhone 14 Pro拍摄的照片占用空间几乎是13 Pro的三倍](https://www.cnbeta.com/articles/tech/1314447.htm) | Fri Sep 09 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 2022 年 5 月 2 日发表于《自然材料》期刊上的一篇文章中，&lt;strong&gt;博伊西州立大学（Boise State University）与加州大学圣迭戈分校（UCSD）的科学家们，展示了一种新颖且独特的电极材料。&lt;/strong&gt;通过一种非同寻常的形成方式，它能够促进锂电池更快地充电 —— 在充电过程中运用原子的最佳配置，从而更顺畅地传输锂离子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果你打算充分利用iPhone 14 Pro和iPhone 14 Pro Max的摄像头系统并使用全4800万像素的主摄像头传感器，那么请做好准备--因为照片将消耗大量的存储空间。根据MacRumors撰稿人Steve Moser在本周发布的iOS 16候选版本中发现的代码，&lt;strong&gt;用主摄像头拍摄的4800万像素ProRAW照片大小约为75MB，这比iPhone 13 Pro和iPhone 14 Pro上用1200万像素传感器拍摄的照片大两倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [大幅简化电路设计，四家芯片原厂量产65W合封氮化镓芯片](https://www.cnbeta.com/articles/tech/1314433.htm) | Fri Sep 09 2022 8:27 AM 
+- 🎊 [韩国开发“动态难度模型” 根据玩家情绪调整游戏难度](https://hot.cnbeta.com/articles/game/1314445.htm) | Fri Sep 09 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在氮化镓快充市场不断拓展的过程中，电源技术水平也在不断提升，起初的氮化镓快充电源一般需要采用控制器+驱动+氮化镓功率器件组合设计，不仅电路布局较为复杂，产品开发难度相对较大，而且成本也比较高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;玩家在玩游戏时经常会陷入生气和烦躁等情绪中，想让玩家体验和游戏难度取得平衡，一直是开发者的重点，找到一个适中的强度才能让玩家享受到最佳体验。虽然有些游戏可以通过手动调整难度，但现在有一个更创新的方法。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
