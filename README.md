@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [为什么要招聘有经验的人？](https://juejin.cn/post/7141361769770909710) | Fri Sep 09 2022 12:57 PM 
+- 🤗 [闲着没事，来研究下Immutable](https://juejin.cn/post/7141375516732293150) | Fri Sep 09 2022 1:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、是什么 Immutable，不可改变的，在计算机中，即指一旦创建，就不能再被更改的数据 对 Immutable对象的任何修改或添加删除操作都会返回一个新的 Immutable对象 Immutabl 
+    </details> 
+
+- 🎡 [记一次服务日志乱码异常的排查过程](https://juejin.cn/post/7141374842019774495) | Fri Sep 09 2022 1:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    记一次服务日志乱码异常的排查过程， 某天工作中，突然接收到了用户对于内部测试环境上java进程服务日志乱码异常的反馈，经过查看相关文件，发现中文字体无法正常显示，严重影响到了用户的日常工作。 
+    </details> 
+
+- 🕯 [为什么要招聘有经验的人？](https://juejin.cn/post/7141361769770909710) | Fri Sep 09 2022 12:57 PM 
     <details><summary>展开描述 ...</summary> 
     周末带娃出去玩，回来的时候路过一家新开的水果店买东西，因为是新店，所以店里在搞促销活动。进去后发现一个很糟糕的问题。店员对收银系统不熟悉，排队的人要好几分钟才能结算一个，很多人等着不耐烦就走了。 
     </details> 
 
-- 🎡 [学完框架后的反思—为什么要使用框架？](https://juejin.cn/post/7141354088909766693) | Fri Sep 09 2022 12:23 PM 
+- 🚀 [学完框架后的反思—为什么要使用框架？](https://juejin.cn/post/7141354088909766693) | Fri Sep 09 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
     学习前端也有一定的时间了，最近在网上看到了一个问题让我反思了很久——为什么要使用前端框架？ 我发现自己当初学习框架时并没有想那么多，只是看中了其在业界企业的应用，大部分公司开发页面基本上都是使用框架进 
     </details> 
 
-- 🕯 [Android开发基础知识](https://juejin.cn/post/7141333670945619998) | Fri Sep 09 2022 11:02 AM 
+- 💪 [Android开发基础知识](https://juejin.cn/post/7141333670945619998) | Fri Sep 09 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
     应用基础知识 介绍 您可以使用 Kotlin、Java 和 C++ 语言编写 Android 应用。Android SDK 工具会将您的代码连同任何数据和资源文件编译成一个 APK 
-    </details> 
-
-- 🚀 [HiveServer2 内存泄漏问题定位与优化方案](https://juejin.cn/post/7141331245627080735) | Fri Sep 09 2022 10:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    HiveServer2 发生内存泄漏的原理分析。火山引擎增长分析DataFinder 基于 ClickHouse来进行行为日志的分析。 
-    </details> 
-
-- 💪 [【中秋特辑】嫦娥妹妹，你别着急～](https://juejin.cn/post/7141322073166577694) | Fri Sep 09 2022 10:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天为大家带来一个小故事，是关于嫦娥和吴刚的爱情故事，想知道吴刚是怎样将情愫传递给嫦娥的吗？让我们一起一探究竟吧～ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
