@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉考虑建设北美“同类首家”锂精炼厂并向德州申请税收减免](https://www.cnbeta.com/articles/tech/1314565.htm) | Fri Sep 09 2022 6:19 PM 
+- 🕯 [微软在Dev通道发布Windows 11 build 25197的ISO文件](https://www.cnbeta.com/articles/tech/1314569.htm) | Fri Sep 09 2022 7:10 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;微软昨天在Insider计划的Dev频道发布了Windows 11 build 25197供成员测试，它包括一个新的面向平板模式优化的任务栏，使任务栏在该模式下成为一个可触控的大小，还有一个隐藏的Spotlight UI功能，如果你不在A/B测试池中，可以通过ViveTool启用，此外还有一些之前报告的Bug修复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314569.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [在基准测试中iPhone 14 Pro的A16比iPhone 13 Pro的A15快17%](https://www.cnbeta.com/articles/tech/1314567.htm) | Fri Sep 09 2022 7:02 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;iPhone 14 Pro和Pro Max中的A16芯片的早期基准测试表明，此次升级仅有小幅度的速度改进，但今天上传到Geekbench的一个额外分数表明，与A15芯片相比，还是有两位数的性能提升的。接受基准测试的iPhone 14 Pro中的A16芯片获得了1887的单核分数，比iPhone 13 Pro中的A15获得的1707分数提高了10.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314567.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [特斯拉考虑建设北美“同类首家”锂精炼厂并向德州申请税收减免](https://www.cnbeta.com/articles/tech/1314565.htm) | Fri Sep 09 2022 6:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;特斯拉正考虑在德克萨斯州墨西哥湾沿岸建设一家锂冶炼厂，加强该公司的电池生产努力，并进一步扩大其在德州的业务存在。根据最近向德克萨斯州主计长办公室提交的税收减免公开申请文件，该公司表示考虑在努埃塞斯县建设一家“电池级氢氧化锂精炼工厂”。特斯拉宣称，这将是“北美同类首家”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [育碧《刺客信条：幻景》全新艺术图泄露](https://hot.cnbeta.com/articles/game/1314563.htm) | Fri Sep 09 2022 6:16 PM 
+- 🚀 [育碧《刺客信条：幻景》全新艺术图泄露](https://hot.cnbeta.com/articles/game/1314563.htm) | Fri Sep 09 2022 6:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;又有《刺客信条：幻景》的新内容在网上泄露。这次的新图展示了刺客信条新作的主角，并暗示了不久前泄露的游戏玩法功能（投掷飞刀的能力）。育碧将于明天正式发布《刺客信条：幻景》。根据最新的消息，这款新的刺客信条游戏将是一款跨世代游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel 96核战平AMD 128核 坐等120核大战192核](https://www.cnbeta.com/articles/tech/1314561.htm) | Fri Sep 09 2022 4:33 PM 
+- 🎊 [Intel 96核战平AMD 128核 坐等120核大战192核](https://www.cnbeta.com/articles/tech/1314561.htm) | Fri Sep 09 2022 4:33 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在数据中心平台，Intel Sapphire Rapids、AMD Genoa两大下一代新品已经多次曝光，型号、规格什么的都七七八八了，跑分也不断出现。GeekBench 5里又出现了&lt;strong&gt;至强铂金8468，48核心96线程&lt;/strong&gt;，它有两种版本：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Android 13上调最低内存要求 不到2GB RAM装不了GMS](https://www.cnbeta.com/articles/tech/1314559.htm) | Fri Sep 09 2022 4:30 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;和去年的Windows 11类似，谷歌日前也对Android 13的最低硬件要求做出上调，意在提高门槛。简单来说，&lt;strong&gt;RAM现在最低2GB，ROM最低得是16GB。&lt;/strong&gt;当然，谷歌的前提条件是，预装GMS的Android 13设备，理论上说，如果不打算支持GMS，那么低于这个标准应该也是可行的，不过着尚待验证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [寺庙放生池现1.2米鳄雀鳝 重50斤 快把观赏鱼吃没了](https://www.cnbeta.com/articles/tech/1314557.htm) | Fri Sep 09 2022 4:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期全国多地都出现了鳄雀鳝，涉及河南、北京、湖南、广西、山东、云南、江苏等地，有的在小区水系，有的在公园湖泊。而现在，鳄雀鳝居然出现在寺庙的放生池了。网友吐槽：这不是放生，是造孽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
