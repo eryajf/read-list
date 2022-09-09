@@ -343,19 +343,19 @@
     葡萄牙武装部队总参谋部（EMGFA）遭到网络攻击，黑客窃取了大量北约机密文件。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 数万人被虚假的苹果发布会直播欺骗；东京和大阪地铁网站瘫痪](https://www.freebuf.com/news/344108.html) | Thu Sep 08 2022 9:31 AM 
+- 🦅 [如何应对堡垒机安全风险？| FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/344172.html) | Fri Sep 09 2022 3:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    堡垒机作为服务器和网络安全控制的系统，包含了用户管理、资源管理、策略、审核等功能，为企业安全提供了有力保障。但越是复杂的系统，可能遭遇的漏洞与威胁也越大，因此，堡垒机自身的安全性自然不言而喻。本期话题，我们就聚焦于堡垒机安全，看看大家在遇到有关风险时如何“排忧解难”。单点故障和绕过访问是堡垒机比较容易遇到的安全风险，对此大家的解决办法是什么？除此以外还遇到过哪些其他安全威胁？都是如何解决的？A1： 
+    </details> 
+
+- 🪄 [FreeBuf早报 | 数万人被虚假的苹果发布会直播欺骗；东京和大阪地铁网站瘫痪](https://www.freebuf.com/news/344108.html) | Thu Sep 08 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
     TikTok否认用户数据和源代码被窃，并称黑客论坛分享的源代码根本不是其平台的后台源代码，并从未与微信数据合并。 
     </details> 
 
-- 🪄 [正式开源！无恒实验室推出appshark自动化漏洞及隐私合规检测工具](https://www.freebuf.com/vuls/344074.html) | Thu Sep 08 2022 6:39 AM 
+- 💻 [正式开源！无恒实验室推出appshark自动化漏洞及隐私合规检测工具](https://www.freebuf.com/vuls/344074.html) | Thu Sep 08 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     无恒实验室自主研发了appshark引擎，用于漏洞及隐私合规风险的自动化检测。 
-    </details> 
-
-- 💻 [网信办发布《网信部门行政执法程序规定（征求意见稿）》](https://www.freebuf.com/news/344065.html) | Thu Sep 08 2022 5:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    《规定》共五章五十六条，对于网信部门制度建设、管辖范围、适用细则、执法措施、行政处罚的普通程序、执行与结案等方面皆有相应的规范和要求。 
     </details> 
 <!-- freebuf:END -->
 
