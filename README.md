@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [头脑特工队将拍续集 详情D23漫展公布](https://hot.cnbeta.com/articles/comic/1314431.htm) | Fri Sep 09 2022 8:27 AM 
+- 🕯 [[图]A16 Bionic跑分再曝光：较A15 Bionic有明显提升](https://www.cnbeta.com/articles/tech/1314443.htm) | Fri Sep 09 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新浪电影今日（9月9日）消息，据PuckNews报道，&lt;strong&gt;皮克斯热门动画电影《头脑特工队》将拍续集，详细信息本届D23漫展正式宣布。&lt;/strong&gt;《头脑特工队》于2015年上映，讲述小女孩莱莉出生在明尼苏达州一个平凡的家庭中，从小她在父母的呵护下长大，脑海中保存着无数美好甜蜜的回忆。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1314431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据昨日曝光的跑分成绩，A16 Bionic 在性能方面甚至不如 A15 Bionic。根据 GeekBench 跑分成绩，A16 Bionic 只是在单核上比 A15 更强，但是在多核成绩上甚至低于 A15。不过根据最新跑分结果，&lt;strong&gt;A16 Bionic 终于显现出真正的实力，性能要比 Android 旗舰要更快。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [雷军否认小米“造车”错过窗口，未来两年不再披露造车进展](https://www.cnbeta.com/articles/tech/1314429.htm) | Fri Sep 09 2022 8:25 AM 
+- 💼 [现代人和尼安德特人的大脑之间的关键差异被揭示出来](https://www.cnbeta.com/articles/science/1314439.htm) | Fri Sep 09 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月9日，&lt;strong&gt;小米集团创始人雷军在社交媒体Twitter上发文表示：“特斯拉比小米提前十多年进入电动汽车行业，有些人认为小米已经错过了进入电动汽车行业的时间窗口。对此，我不同意，比赛才刚刚开始，我认为小米还有很多机会。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;是什么让现代人变得独一无二？这个问题长期以来一直是研究人员的一个动力。因此，通过与我们的近亲尼安德特人的比较，可以揭示出令人着迷的见解。在大脑发育过程中，大脑大小的增加和神经元产量的增加被认为是人类进化过程中出现的认知能力提高的主要因素。然而，&lt;strong&gt;虽然尼安德特人和现代人开发的大脑大小相似，但对现代人和尼安德特人的大脑在开发过程中是否可能在神经元的产生方面存在差异知之甚少。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [男子直播间抽中苹果手机收到空包裹 模型机都懒得发了](https://www.cnbeta.com/articles/tech/1314427.htm) | Fri Sep 09 2022 8:23 AM 
+- 💂 [影驰预告HOF Extreme 50 NVMe SSD 采用群联E26 PCIe 5.0主控方案](https://www.cnbeta.com/articles/tech/1314437.htm) | Fri Sep 09 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着短视频平台的兴起，通过短视频平台带货成了不少中小商家推广自己产品的方式之一，为了提升直播间流量，大多数带货主播都会选择直播抽奖的方式来吸引用户。据媒体报道，近日，&lt;strong&gt;山西太原一男子在直播间抽中苹果手机福袋等待近1个月收到1个快递空盒子，甚至连模型机都没给。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;影驰（GALAX）正在准备推出下一代名人堂（HOF）Extreme 50 系列固态硬盘新品，特点是采用了群联（Phison）E26 主控。&lt;/strong&gt;除了完全符合 PCIe 5.0 NVMe M.2 的要求、它还配备了主动式的散热解决方案，能够确保长时间高负载使用状况下的速度与稳定性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [手工耿自制洗剪吹机械手臂：气势不输灭霸 中指还能修鼻毛](https://hot.cnbeta.com/articles/funny/1314425.htm) | Fri Sep 09 2022 8:22 AM 
+- 🚀 [五氧化二铌电极材料可在使用过程中发生变化以加速充电](https://www.cnbeta.com/articles/science/1314435.htm) | Fri Sep 09 2022 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月9日，手工耿带来了新作品——洗剪吹机械手臂，号称把发廊戴在手上。只见，这把钢铁手臂非常硕大，跟灭霸的手套有一拼，手工耿在演示过程中还配上《复仇者联盟》的BGM，真有那味了！作为“洗剪吹机械手臂”，&lt;strong&gt;它集成了梳子、剪刀、喷水装置、吹风装置，理发的所有装备一套配齐。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1314425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在 2022 年 5 月 2 日发表于《自然材料》期刊上的一篇文章中，&lt;strong&gt;博伊西州立大学（Boise State University）与加州大学圣迭戈分校（UCSD）的科学家们，展示了一种新颖且独特的电极材料。&lt;/strong&gt;通过一种非同寻常的形成方式，它能够促进锂电池更快地充电 —— 在充电过程中运用原子的最佳配置，从而更顺畅地传输锂离子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [车主买二手新能源汽车：表显8万公里 4S店一查34万多](https://www.cnbeta.com/articles/tech/1314423.htm) | Fri Sep 09 2022 8:01 AM 
+- 🎊 [大幅简化电路设计，四家芯片原厂量产65W合封氮化镓芯片](https://www.cnbeta.com/articles/tech/1314433.htm) | Fri Sep 09 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;现在二手交易平台上，出现有不少二手新能源汽车，价格看上去也很便宜，但是在购买的时候，一定要擦亮眼睛。如果买到营运二手新能源车，里程数动辄2、30万公里，且调表后一般消费者很难看出来，可能花高价买了个大里程数的车，自身权益很难得到保障。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在氮化镓快充市场不断拓展的过程中，电源技术水平也在不断提升，起初的氮化镓快充电源一般需要采用控制器+驱动+氮化镓功率器件组合设计，不仅电路布局较为复杂，产品开发难度相对较大，而且成本也比较高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
