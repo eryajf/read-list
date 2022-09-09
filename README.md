@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Jetpack compose 仿QQ音乐实现下拉刷新上拉加载更多](https://juejin.cn/post/7141312829042688008) | Fri Sep 09 2022 9:41 AM 
+- 🤗 [Android开发基础知识](https://juejin.cn/post/7141333670945619998) | Fri Sep 09 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 看了官方的NestedScrollConnectionSample，研究了NestedScrollConnection，再加上看了SwipeRefreshLayout的源码后 
+    应用基础知识 介绍 您可以使用 Kotlin、Java 和 C++ 语言编写 Android 应用。Android SDK 工具会将您的代码连同任何数据和资源文件编译成一个 APK 
     </details> 
 
-- 🎡 [初识 WebSocket 以及 Golang 实现](https://juejin.cn/post/7141311208451211278) | Fri Sep 09 2022 9:35 AM 
+- 🎡 [HiveServer2 内存泄漏问题定位与优化方案](https://juejin.cn/post/7141331245627080735) | Fri Sep 09 2022 10:53 AM 
     <details><summary>展开描述 ...</summary> 
-    一、 WebSocket 介绍 1.1 WebSocket 的诞生背景 在网络冲浪中，我们接触到最多的协议必定是 HTTP/HTTPS 协议，这两种协议的工作原理可简述为：客户端通过浏览器发送一个请求 
+    HiveServer2 发生内存泄漏的原理分析。火山引擎增长分析DataFinder 基于 ClickHouse来进行行为日志的分析。 
     </details> 
 
-- 🕯 [揭秘前端眼中的Rust！](https://juejin.cn/post/7141308565410545671) | Fri Sep 09 2022 9:24 AM 
+- 🕯 [【中秋特辑】嫦娥妹妹，你别着急～](https://juejin.cn/post/7141322073166577694) | Fri Sep 09 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
-    引言：本文推选自腾讯云开发者社区「技思广益 · 腾讯技术人原创集」专栏。该专栏是腾讯云开发者社区为腾讯技术人与广泛开发者打造的分享交流窗口。栏目邀约腾讯技术人分享原创的技术积淀，与广泛开发者互启迪共成 
+    今天为大家带来一个小故事，是关于嫦娥和吴刚的爱情故事，想知道吴刚是怎样将情愫传递给嫦娥的吗？让我们一起一探究竟吧～ 
     </details> 
 
-- 🚀 [ECCV 2022 | ProbEn：基于概率融合的多模态目标检测](https://juejin.cn/post/7141308151731027975) | Fri Sep 09 2022 9:23 AM 
+- 🚀 [百度工程师教你玩转设计模式（工厂模式）](https://juejin.cn/post/7141320406954147877) | Fri Sep 09 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-    本文研究了使用RGB和热敏相机的多模态目标检测，提出了一种融合不同模态信息的策略——概率融合技术ProbEn，融合来自多模态的检测。 
+    想要写好代码，设计模式（Design Pattern）是必不可少的基本功，设计模式是对面向对象设计（Object Oriented Design）中反复出现的问题的解决方案，本篇介绍工厂模式（Fact 
     </details> 
 
-- 💪 [保姆级教程: 前端本地开发指定域名以及 HTTPS 配置方案](https://juejin.cn/post/7141308011921801223) | Fri Sep 09 2022 9:22 AM 
+- 💪 [技术周报·A/B实验背后的秘密：样本量计算](https://juejin.cn/post/7141319925766815758) | Fri Sep 09 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-    看完本篇文章你会掌握前端本地开发配置 Hosts 以及本地开发如何配置 HTTPS 的保姆级别的教程。 
+    编辑推荐：干货 | A/B实验背后的秘密：样本量计算、React 老矣，我建议大家用用别的框架、TS 中的增量编译等 
     </details> 
 <!-- juejin:END -->
 ### 少数派
