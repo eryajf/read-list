@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Gwaber - 轻松找到远程工作](https://xinquji.com/posts/179372?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:43 AM 
+- 👀 [SoundMind - 为您的心理健康需求创建视听疗法](https://xinquji.com/posts/179393?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     轻松找到远程工作  
+     为您的心理健康需求创建视听疗法  
     </details> 
 
-- 🥷 [Creator.co - 对于现代品牌和有影响力的创作者](https://xinquji.com/posts/179371?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:41 AM 
+- 🥷 [WorkHub - 参与度、效率和连通性的混合工作场所](https://xinquji.com/posts/179392?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     对于现代品牌和有影响力的创作者  
+     参与度、效率和连通性的混合工作场所  
     </details> 
 
-- 💼 [Sahha - 用于被动和安全地分析用户心理健康的 API](https://xinquji.com/posts/179370?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:39 AM 
+- 💼 [Stoic Mornings - 基于斯多葛主义原则的早晨例行公事以抓住这一天](https://xinquji.com/posts/179391?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     用于被动和安全地分析用户心理健康的 API  
+     基于斯多葛主义原则的早晨例行公事以抓住这一天  
     </details> 
 
-- 🦅 [OwnID - 为您的网站提供简单安全的无密码插件](https://xinquji.com/posts/179369?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:37 AM 
+- 🦅 [Diabetic Diary - 跟踪胰岛素剂量和血糖水平](https://xinquji.com/posts/179390?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     为您的网站提供简单安全的无密码插件  
+     跟踪胰岛素剂量和血糖水平  
     </details> 
 
-- 😺 [Is it down? - 监控您的网站和 API](https://xinquji.com/posts/179368?utm_campaign=xinquji-rss) | Fri Sep 09 2022 6:35 AM 
+- 😺 [TattoosAI - 人工智能纹身设计师](https://xinquji.com/posts/179389?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     监控您的网站和 API  
+     人工智能纹身设计师  
     </details> 
 <!-- xinquji:END -->
