@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Windows 有可能做到像 iOS 一样的有进程读取剪贴板的时候弹窗吗？](https://www.v2ex.com/t/879010#reply2) | Fri Sep 09 2022 1:42 PM
-- 🤗 [求教 Android 有办法修改 charge full design 这个值吗？](https://www.v2ex.com/t/878991#reply2) | Fri Sep 09 2022 12:46 PM
-- 🎭 [windows 10 下如何升级 Python 3.9.14](https://www.v2ex.com/t/878986#reply7) | Fri Sep 09 2022 12:14 PM
-- 🥷 [有没有可扩展的路径语言？](https://www.v2ex.com/t/878979#reply0) | Fri Sep 09 2022 11:20 AM
-- 🐵 [请教如何在多个规律表名的表查询某个 id 最大值，并确认是哪个表](https://www.v2ex.com/t/878970#reply3) | Fri Sep 09 2022 10:11 AM<!-- v2ex:END -->
+- 🥸 [hadoop zookeeper](https://www.v2ex.com/t/879031#reply0) | Fri Sep 09 2022 3:15 PM
+- 🤗 [求推荐 nas](https://www.v2ex.com/t/879021#reply0) | Fri Sep 09 2022 2:38 PM
+- 🎭 [华为荣耀 ov 有什么 pd 充电快一点的机器吗](https://www.v2ex.com/t/879020#reply0) | Fri Sep 09 2022 2:33 PM
+- 🥷 [Windows 有可能做到像 iOS 一样的有进程读取剪贴板的时候弹窗吗？](https://www.v2ex.com/t/879010#reply4) | Fri Sep 09 2022 1:42 PM
+- 🐵 [求教 Android 有办法修改 charge full design 这个值吗？](https://www.v2ex.com/t/878991#reply4) | Fri Sep 09 2022 12:46 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
