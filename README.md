@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [爆料称英特尔13代非-K酷睿i5产品线是12代Alder Lake换皮](https://www.cnbeta.com/articles/tech/1314359.htm) | Fri Sep 09 2022 5:53 AM 
+- 🕯 [Corsair推超薄机械键盘K100 AIR 最薄处仅有11毫米](https://www.cnbeta.com/articles/tech/1314375.htm) | Fri Sep 09 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨日外媒分享了 Igor&amp;#39;s Lab 泄露的英特尔 13 代 Raptor Lake 酷睿桌面处理器的发布会 PPT 。但除了 i9-13900K（KF）、i7-13700K（KF）和 i5-13600K（KF）这六款 SKU 之外 —— &lt;strong&gt;3DCenter.org 又指出了一系列披着 12 代 Alder Lake 马甲的 i5-13xxx 非 -K 型号，让本就难记的 P+E 核心设计在中端产品线上变得更加混乱。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;海盗船（Corsair）近日宣布了高端机械键盘--超轻的 K100 AIR。Corsair 将 K100 AIR 吹捧为有史以来最薄的高性能键盘，最薄处仅为 11 毫米。&lt;/strong&gt;为了实现这点，海盗船采用了在拉丝铝合金框架中使用了 Cherry 的 MX Ultra Low Profile。K100 AIR 还提供了 RGB 背光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14系列今晚预售 Pro版预约超110万人 Plus版遇冷](https://www.cnbeta.com/articles/tech/1314357.htm) | Fri Sep 09 2022 5:52 AM 
+- 💼 [微软再次给Windows 11 Insider测试版引入平板友好型任务栏](https://www.cnbeta.com/articles/tech/1314373.htm) | Fri Sep 09 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今晚20:00，iPhone 14系列将在苹果官网、合作电商平台开启预售，包括iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max四款机型，&lt;strong&gt;起售价分别为5999元、6999元、7999元、8999元。&lt;/strong&gt;你考虑好购买哪一款机型了吗？如果还没想好，不妨看看大家最热衷哪个版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在周四的一篇 Windows Insider 博客文章中，微软介绍了 Windows 11 Build 25197 预览版本中重新引入的“平板友好型”任务栏。&lt;/strong&gt;这一设计最初于今年 2 月引入，并与其它新功能一起出现在了正式更新中，然而后续又因更多内部开发需求而被撤下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [松下发布LUMIX S 18mm F1.8广角镜头：重量轻，灵活性好](https://www.cnbeta.com/articles/tech/1314355.htm) | Fri Sep 09 2022 5:51 AM 
+- 💂 [华纳CFO：《蝙蝠女》被取消的报道被夸大了](https://hot.cnbeta.com/articles/movie/1314371.htm) | Fri Sep 09 2022 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;昨天，松下发布L卡口LUMIX S 18mm F1.8大光圈超广角定焦镜头。&lt;/strong&gt;LUMIX S 18mm F1.8镜头由12组13片组成，其中包括3片非球面镜片、3片ED（低色散）镜片、1片UED（超低色散）镜片和1片UHR（超高折射率）镜片。3片非球面镜片的使用，实现了高画质和美丽的虚化，这是该系列F1.8镜头的共同优点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;华纳兄弟探索公司于 8 月突然宣布将取消已经进入后期制作并即将上映的《蝙蝠女》电影。在消息被报道了一个月以后，华纳兄弟的首席财务官（CFO）Gunnar Wiedenfels 表示，由此产生的媒体报道“被夸大了”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [AMD、NVIDIA降价幅度依然保守 2年前显卡至今才恢复“原价”](https://www.cnbeta.com/articles/tech/1314353.htm) | Fri Sep 09 2022 5:51 AM 
+- 🚀 [科学家发现有助于卵子吸引精子的蛋白质 可能为新的生育疗法铺平道路](https://www.cnbeta.com/articles/science/1314369.htm) | Fri Sep 09 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于想要购买显卡的用户来说，其实不少还是在官网，因为在大家看来，促销力度还是不够狠。那么现在的显卡价格到底是在什么位置呢？3DCenter统计数据表明，2年时间后，NVIDIA和AMD当时推出的显卡才回到原价和以下，不过这还只是开头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，&lt;strong&gt;科学家们已经发现了一种有助于卵子吸引精子的新蛋白质，这有一天可能会带来新的生育治疗和避孕药。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [孚能科技发布SPS软包动力电池系统 充电10分钟补能400公里](https://www.cnbeta.com/articles/tech/1314351.htm) | Fri Sep 09 2022 5:50 AM 
+- 🎊 [白宫披露针对大科技公司改革而制作的计划](https://www.cnbeta.com/articles/tech/1314367.htm) | Fri Sep 09 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月9日消息，孚能科技推出了全新的SPS软包动力电池系统，新电池能量密度达到330Wh/kg，支持800V、4C快充，&lt;strong&gt;充电10分钟可以获得400公里的续航里程&lt;/strong&gt;。孚能科技是国内软包电池领域的头部企业，面对用户的里程焦虑和充电焦虑，以及软包电池自身固有的优缺点，从电芯到结构再到工艺进行了全面革新，推出了全新的软包动力电池系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;拜登政府最近会见了大科技公司和社交媒体领域的一些主题专家以制定一些需要进一步立法的挑战性重点领域。参加会议的有美国总统乔·拜登的内阁成员及一些科技公司如Sonos和Mozilla的高管。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
