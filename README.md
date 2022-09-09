@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Corsair推超薄机械键盘K100 AIR 最薄处仅有11毫米](https://www.cnbeta.com/articles/tech/1314375.htm) | Fri Sep 09 2022 6:34 AM 
+- 🕯 [美财政部或向政府提出发行CBDC数字美元的建议 前提是符合国家利益](https://www.cnbeta.com/articles/tech/1314403.htm) | Fri Sep 09 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;海盗船（Corsair）近日宣布了高端机械键盘--超轻的 K100 AIR。Corsair 将 K100 AIR 吹捧为有史以来最薄的高性能键盘，最薄处仅为 11 毫米。&lt;/strong&gt;为了实现这点，海盗船采用了在拉丝铝合金框架中使用了 Cherry 的 MX Ultra Low Profile。K100 AIR 还提供了 RGB 背光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;早前有报道称，美国财政部会向政府建议实施严格的加密货币监管新规。现又有消息人士透露：&lt;strong&gt;该部门将建议联邦政府推进“数字美元”的发型工作 —— 前提是这么做符合美国的“国家利益”。&lt;/strong&gt;据悉，所谓的国家利益问题，将取决于拜登政府的进一步批准、以及国会可能采取的行动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软再次给Windows 11 Insider测试版引入平板友好型任务栏](https://www.cnbeta.com/articles/tech/1314373.htm) | Fri Sep 09 2022 6:26 AM 
+- 💼 [高层换血、新设产量目标……特斯拉内华达州超级工厂雄心满满](https://www.cnbeta.com/articles/tech/1314401.htm) | Fri Sep 09 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在周四的一篇 Windows Insider 博客文章中，微软介绍了 Windows 11 Build 25197 预览版本中重新引入的“平板友好型”任务栏。&lt;/strong&gt;这一设计最初于今年 2 月引入，并与其它新功能一起出现在了正式更新中，然而后续又因更多内部开发需求而被撤下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉（TSLA.US）已经改组了位于内华达州里诺市外的大型电池工厂Gigafactory的领导层，并为该工厂设定了新的目标。根据周四的会议音频和工厂工作人员分享的文件，Gigafactory运营副总裁Chris Lister已经离职，而Hrushikesh Sagar被提升为超级工厂的主管。Sagar直接向首席执行官埃隆·马斯克汇报工作，同时还将监督特斯拉位于加州弗里蒙特的汽车装配厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华纳CFO：《蝙蝠女》被取消的报道被夸大了](https://hot.cnbeta.com/articles/movie/1314371.htm) | Fri Sep 09 2022 6:06 AM 
+- 💂 [Shopee关闭墨西哥、哥伦比亚和智利本地业务 退出阿根廷](https://www.cnbeta.com/articles/tech/1314399.htm) | Fri Sep 09 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;华纳兄弟探索公司于 8 月突然宣布将取消已经进入后期制作并即将上映的《蝙蝠女》电影。在消息被报道了一个月以后，华纳兄弟的首席财务官（CFO）Gunnar Wiedenfels 表示，由此产生的媒体报道“被夸大了”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月9日下午消息，据报道，&lt;strong&gt;东南亚互联网巨头Sea旗下电商部门Shopee已告知员工，将关闭其在智利、哥伦比亚和墨西哥的当地业务，并完全退出阿根廷市场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [科学家发现有助于卵子吸引精子的蛋白质 可能为新的生育疗法铺平道路](https://www.cnbeta.com/articles/science/1314369.htm) | Fri Sep 09 2022 6:04 AM 
+- 🚀 [8月全球芯片交付时间再缩短，连续三月收窄](https://www.cnbeta.com/articles/tech/1314397.htm) | Fri Sep 09 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，&lt;strong&gt;科学家们已经发现了一种有助于卵子吸引精子的新蛋白质，这有一天可能会带来新的生育治疗和避孕药。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Susquehanna Financial Group最新的研究显示，&lt;strong&gt;8月全球芯片平均交付周期（芯片从订购到交付的时间）为26.8周，连续第三个月收窄，表明全球芯片短缺正在进一步缓解，但许多类型的芯片仍然短缺。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [白宫披露针对大科技公司改革而制作的计划](https://www.cnbeta.com/articles/tech/1314367.htm) | Fri Sep 09 2022 6:04 AM 
+- 🎊 [乐视要做下一个新东方？不依赖版权和收租，要推新机还考虑带货直播](https://www.cnbeta.com/articles/tech/1314395.htm) | Fri Sep 09 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;拜登政府最近会见了大科技公司和社交媒体领域的一些主题专家以制定一些需要进一步立法的挑战性重点领域。参加会议的有美国总统乔·拜登的内阁成员及一些科技公司如Sonos和Mozilla的高管。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;新东方直播爆红之后，乐视也想进军直播领域了。&lt;/strong&gt;“员工可以为自己公司代言，乐视为什么不可以？”9月8日，乐视负责人品牌夏晓艳在媒体沟通会上表示，乐视的员工正在做带货直播，努力成为下一个新东方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
