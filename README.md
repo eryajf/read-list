@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美财政部或向政府提出发行CBDC数字美元的建议 前提是符合国家利益](https://www.cnbeta.com/articles/tech/1314403.htm) | Fri Sep 09 2022 7:19 AM 
+- 🕯 [头脑特工队将拍续集 详情D23漫展公布](https://hot.cnbeta.com/articles/comic/1314431.htm) | Fri Sep 09 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;早前有报道称，美国财政部会向政府建议实施严格的加密货币监管新规。现又有消息人士透露：&lt;strong&gt;该部门将建议联邦政府推进“数字美元”的发型工作 —— 前提是这么做符合美国的“国家利益”。&lt;/strong&gt;据悉，所谓的国家利益问题，将取决于拜登政府的进一步批准、以及国会可能采取的行动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新浪电影今日（9月9日）消息，据PuckNews报道，&lt;strong&gt;皮克斯热门动画电影《头脑特工队》将拍续集，详细信息本届D23漫展正式宣布。&lt;/strong&gt;《头脑特工队》于2015年上映，讲述小女孩莱莉出生在明尼苏达州一个平凡的家庭中，从小她在父母的呵护下长大，脑海中保存着无数美好甜蜜的回忆。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1314431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [高层换血、新设产量目标……特斯拉内华达州超级工厂雄心满满](https://www.cnbeta.com/articles/tech/1314401.htm) | Fri Sep 09 2022 7:19 AM 
+- 💼 [雷军否认小米“造车”错过窗口，未来两年不再披露造车进展](https://www.cnbeta.com/articles/tech/1314429.htm) | Fri Sep 09 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉（TSLA.US）已经改组了位于内华达州里诺市外的大型电池工厂Gigafactory的领导层，并为该工厂设定了新的目标。根据周四的会议音频和工厂工作人员分享的文件，Gigafactory运营副总裁Chris Lister已经离职，而Hrushikesh Sagar被提升为超级工厂的主管。Sagar直接向首席执行官埃隆·马斯克汇报工作，同时还将监督特斯拉位于加州弗里蒙特的汽车装配厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月9日，&lt;strong&gt;小米集团创始人雷军在社交媒体Twitter上发文表示：“特斯拉比小米提前十多年进入电动汽车行业，有些人认为小米已经错过了进入电动汽车行业的时间窗口。对此，我不同意，比赛才刚刚开始，我认为小米还有很多机会。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Shopee关闭墨西哥、哥伦比亚和智利本地业务 退出阿根廷](https://www.cnbeta.com/articles/tech/1314399.htm) | Fri Sep 09 2022 7:19 AM 
+- 💂 [男子直播间抽中苹果手机收到空包裹 模型机都懒得发了](https://www.cnbeta.com/articles/tech/1314427.htm) | Fri Sep 09 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月9日下午消息，据报道，&lt;strong&gt;东南亚互联网巨头Sea旗下电商部门Shopee已告知员工，将关闭其在智利、哥伦比亚和墨西哥的当地业务，并完全退出阿根廷市场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着短视频平台的兴起，通过短视频平台带货成了不少中小商家推广自己产品的方式之一，为了提升直播间流量，大多数带货主播都会选择直播抽奖的方式来吸引用户。据媒体报道，近日，&lt;strong&gt;山西太原一男子在直播间抽中苹果手机福袋等待近1个月收到1个快递空盒子，甚至连模型机都没给。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [8月全球芯片交付时间再缩短，连续三月收窄](https://www.cnbeta.com/articles/tech/1314397.htm) | Fri Sep 09 2022 7:10 AM 
+- 🚀 [手工耿自制洗剪吹机械手臂：气势不输灭霸 中指还能修鼻毛](https://hot.cnbeta.com/articles/funny/1314425.htm) | Fri Sep 09 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Susquehanna Financial Group最新的研究显示，&lt;strong&gt;8月全球芯片平均交付周期（芯片从订购到交付的时间）为26.8周，连续第三个月收窄，表明全球芯片短缺正在进一步缓解，但许多类型的芯片仍然短缺。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月9日，手工耿带来了新作品——洗剪吹机械手臂，号称把发廊戴在手上。只见，这把钢铁手臂非常硕大，跟灭霸的手套有一拼，手工耿在演示过程中还配上《复仇者联盟》的BGM，真有那味了！作为“洗剪吹机械手臂”，&lt;strong&gt;它集成了梳子、剪刀、喷水装置、吹风装置，理发的所有装备一套配齐。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1314425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [乐视要做下一个新东方？不依赖版权和收租，要推新机还考虑带货直播](https://www.cnbeta.com/articles/tech/1314395.htm) | Fri Sep 09 2022 7:08 AM 
+- 🎊 [车主买二手新能源汽车：表显8万公里 4S店一查34万多](https://www.cnbeta.com/articles/tech/1314423.htm) | Fri Sep 09 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;新东方直播爆红之后，乐视也想进军直播领域了。&lt;/strong&gt;“员工可以为自己公司代言，乐视为什么不可以？”9月8日，乐视负责人品牌夏晓艳在媒体沟通会上表示，乐视的员工正在做带货直播，努力成为下一个新东方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;现在二手交易平台上，出现有不少二手新能源汽车，价格看上去也很便宜，但是在购买的时候，一定要擦亮眼睛。如果买到营运二手新能源车，里程数动辄2、30万公里，且调表后一般消费者很难看出来，可能花高价买了个大里程数的车，自身权益很难得到保障。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
