@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国和韩国在探讨电动汽车补贴分歧解决方案 外媒称有望解决](https://www.cnbeta.com/articles/tech/1314461.htm) | Fri Sep 09 2022 10:38 AM 
+- 🕯 [Apple Store官网与App在iPhone 14新品预购开启后不久就被塞爆](https://www.cnbeta.com/articles/tech/1314499.htm) | Fri Sep 09 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于美国新出台的电动汽车补贴方案，限制到了仅在美国生产的电动汽车，这也就意味着现代汽车集团旗下现代和起亚这两大品牌的电动汽车，无法在美国获得补贴。从外媒的报道来看，针对电动汽车补贴方案方面的分歧，美国和韩国在探讨解决方案，外媒称有望得到解决。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在iPhone 14和iPhone 14 Pro开始接受预购后，客户在苹果的网上商店和通过Apple Store的应用程序的访问面临许多问题，问题主要出现在弹窗报错，无法确认购买等等，这一问题在全球范围内都有用户报告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [吉利车载无人机专利公布 可根据车速配置飞行方式](https://www.cnbeta.com/articles/tech/1314459.htm) | Fri Sep 09 2022 10:35 AM 
+- 💼 [疑似第二款Google Pixel可折叠手机的相机细节浮出水面](https://www.cnbeta.com/articles/tech/1314497.htm) | Fri Sep 09 2022 12:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月9日消息，据天眼查App显示，9月9日，浙江吉利控股集团有限公司、宁波吉利汽车研究开发有限公司申请的“被配置成能够相对于陆地车辆进行操作的无人驾驶飞行器”专利公布。该车载无人机可根据车速配置飞行方式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;早在7月，一位开发者挖掘了Google的代码，揭示了一些关于Google Pixel 7、Pixel 7 Pro、Pixel平板电脑和Pixel可折叠智能手机的摄像头细节。同一位开发者翻阅了Android13季度平台第1版的代码，发现了关于可能是第二款Pixel可折叠手机的相机细节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“蔚小理”二季度亏60亿元 三季度交付预期平淡，瓶颈何解](https://www.cnbeta.com/articles/tech/1314457.htm) | Fri Sep 09 2022 10:30 AM 
+- 💂 [能链集团猎头称不要河南户籍员工 客服回应称将严肃处理](https://www.cnbeta.com/articles/tech/1314495.htm) | Fri Sep 09 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;造车新势力们还在亏钱造车。9月7日，蔚来汽车&lpar;NIO.US；09866.HK&rpar;发布第二季度财报。至此，蔚来、小鹏（XPEV.US；9868.HK）、理想（LI.US；02015.HK）三家头部新势力企业的第二季度成绩单悉数出炉，三家企业的亏损仍有一定程度的扩大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据央视报道，近日，&lt;strong&gt;河南一名男子在招聘软件上通过猎头公司向能链集团投递简历时，遭到回绝，对方给出的理由竟然是——企业不要河南户籍的员工。&lt;/strong&gt;此事被曝光后，迅速成为热搜话题，不少网友对这种地域歧视行为予以怒斥，希望能够严惩。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [开启CPB可让锐龙R5-7600X的Cinebench R23跑分提升14%](https://www.cnbeta.com/articles/tech/1314455.htm) | Fri Sep 09 2022 10:21 AM 
+- 🚀 [iPhone 14、14 Plus、14 Pro、14 Pro Max和AirPods Pro 2现在开始接受订单](https://www.cnbeta.com/articles/tech/1314493.htm) | Fri Sep 09 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;VideoCardz 刚刚分享了主频达到 5.45 GHz 的 AMD Zen 4 锐龙 R5-7600X 的一组跑分数据。&lt;/strong&gt;可知作为一枚 6C / 12T 的 AM5 台式处理器，其具有 4.7 GHz 基础频率 / 单核加速可达 5.3 GHz 。默认热设计功耗（TDP 105）/ 封装功耗（PPT）142W —— 远高于上代的 65W，但额外的功耗也换来了更高的时钟速率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司现在接受iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max和AirPods Pro 2的预购，通过在线商店和Apple Store应用程序都可以接受订单。Apple Store应用程序通常是获得预购的最快方式，因为它通常比网站上货的时间早。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [互联网员工被裁半年后：有的仍未找到工作 有的签约MCN做职场博主](https://www.cnbeta.com/articles/tech/1314453.htm) | Fri Sep 09 2022 9:57 AM 
+- 🎊 [NVIDIA 4nm GPU性能首秀：最大4.5倍提升](https://www.cnbeta.com/articles/tech/1314491.htm) | Fri Sep 09 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近两年，一些互联网公司裁员。很多大厂还把裁员玩出了新花样，三言财经此前曾在《互联网裁员丧事喜办》一文中盘点过一些大厂对于裁员的“骚操作”。那么，那些被裁的互联网员工现在都怎么样了？换了什么工作了？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月9日，MLCommons社区发布了最新的MLPerf 2.1基准测试结果，新一轮基准测试拥有近5300个性能结果和2400个功耗测量结果，分别比上一轮提升了1.37倍和1.09倍，MLPerf的适用范围进一步扩大。&lt;strong&gt;阿里巴巴、华硕、Azure、壁仞科技、戴尔、富士通、技嘉、H3C、HPE、浪潮、Intel、Krai、联想、Moffett、Nettrix、Neural Magic、NVIDIA、OctoML、高通、SAPEON 和 Supermicro 均是本轮测试的贡献者。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
