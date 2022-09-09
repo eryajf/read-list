@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Store官网与App在iPhone 14新品预购开启后不久就被塞爆](https://www.cnbeta.com/articles/tech/1314499.htm) | Fri Sep 09 2022 12:36 PM 
+- 🕯 [美国弗吉尼亚州数据中心容量超过欧洲或中国](https://www.cnbeta.com/articles/tech/1314511.htm) | Fri Sep 09 2022 1:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在iPhone 14和iPhone 14 Pro开始接受预购后，客户在苹果的网上商店和通过Apple Store的应用程序的访问面临许多问题，问题主要出现在弹窗报错，无法确认购买等等，这一问题在全球范围内都有用户报告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;弗吉尼亚州拥有美国三分之一以上的超大规模数据中心容量，这比中国或整个欧洲的全部容量都要多&lt;/strong&gt;，这凸显了所谓的数据中心大道上集中了多少基础设施。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [疑似第二款Google Pixel可折叠手机的相机细节浮出水面](https://www.cnbeta.com/articles/tech/1314497.htm) | Fri Sep 09 2022 12:33 PM 
+- 💼 [数学家丘成桐可以复制吗？](https://www.cnbeta.com/articles/tech/1314509.htm) | Fri Sep 09 2022 1:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;早在7月，一位开发者挖掘了Google的代码，揭示了一些关于Google Pixel 7、Pixel 7 Pro、Pixel平板电脑和Pixel可折叠智能手机的摄像头细节。同一位开发者翻阅了Android13季度平台第1版的代码，发现了关于可能是第二款Pixel可折叠手机的相机细节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;几位拥有国际影响力的中国数学家的存在，常常令公众产生一种错觉，即中国的数学水平在世界仍居前列。这种普遍印象既来自于华罗庚、陈景润等数学名家事迹的广为流传，又来自于公众对前沿数学领域的不甚了解。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [能链集团猎头称不要河南户籍员工 客服回应称将严肃处理](https://www.cnbeta.com/articles/tech/1314495.htm) | Fri Sep 09 2022 12:29 PM 
+- 💂 [三月股价跌近30% “假洋牌”慕思割不动了？](https://www.cnbeta.com/articles/tech/1314507.htm) | Fri Sep 09 2022 1:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据央视报道，近日，&lt;strong&gt;河南一名男子在招聘软件上通过猎头公司向能链集团投递简历时，遭到回绝，对方给出的理由竟然是——企业不要河南户籍的员工。&lt;/strong&gt;此事被曝光后，迅速成为热搜话题，不少网友对这种地域歧视行为予以怒斥，希望能够严惩。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当代年轻人的快节奏生活，让熬夜晚睡成为了一种常态。他们一边纵享着入夜以后的自由时光，一边又在睡眠这件事上一掷千金，买更亲肤的睡衣、更助眠的枕头，以及更昂贵的床垫，试图从另一个方面来补回晚睡的遗憾。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14、14 Plus、14 Pro、14 Pro Max和AirPods Pro 2现在开始接受订单](https://www.cnbeta.com/articles/tech/1314493.htm) | Fri Sep 09 2022 12:26 PM 
+- 🚀 [国内两大动力电池巨头拿下宝马集团巨额大单](https://www.cnbeta.com/articles/tech/1314505.htm) | Fri Sep 09 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司现在接受iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max和AirPods Pro 2的预购，通过在线商店和Apple Store应用程序都可以接受订单。Apple Store应用程序通常是获得预购的最快方式，因为它通常比网站上货的时间早。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国内两大动力电池巨头拿下宝马集团巨额大单。9月9日，宝马集团宣布将从2025年起率先在“新世代”车型中使用圆柱动力电池，宣布向国内两大动力电池巨头宁德时代（300750）与亿纬锂能（300014）授予价值超百亿欧元（约700亿元）的电芯生产需求合同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NVIDIA 4nm GPU性能首秀：最大4.5倍提升](https://www.cnbeta.com/articles/tech/1314491.htm) | Fri Sep 09 2022 12:20 PM 
+- 🎊 [苹果官网iPhone 14 Pro Max的到货时间已经开始推后](https://www.cnbeta.com/articles/tech/1314503.htm) | Fri Sep 09 2022 1:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月9日，MLCommons社区发布了最新的MLPerf 2.1基准测试结果，新一轮基准测试拥有近5300个性能结果和2400个功耗测量结果，分别比上一轮提升了1.37倍和1.09倍，MLPerf的适用范围进一步扩大。&lt;strong&gt;阿里巴巴、华硕、Azure、壁仞科技、戴尔、富士通、技嘉、H3C、HPE、浪潮、Intel、Krai、联想、Moffett、Nettrix、Neural Magic、NVIDIA、OctoML、高通、SAPEON 和 Supermicro 均是本轮测试的贡献者。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在iPhone 14开始预购的几分钟内，Apple Store被全球蜂拥而入的顾客挤瘫，而到网站恢复工作的时候，还没有买到iPhone 14 Pro Max的客户发现这款产品的现货库存已经售罄，这意味着发货日期已经推后。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
