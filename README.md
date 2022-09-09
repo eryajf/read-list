@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android开发基础知识](https://juejin.cn/post/7141333670945619998) | Fri Sep 09 2022 11:02 AM 
+- 🤗 [为什么要招聘有经验的人？](https://juejin.cn/post/7141361769770909710) | Fri Sep 09 2022 12:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    周末带娃出去玩，回来的时候路过一家新开的水果店买东西，因为是新店，所以店里在搞促销活动。进去后发现一个很糟糕的问题。店员对收银系统不熟悉，排队的人要好几分钟才能结算一个，很多人等着不耐烦就走了。 
+    </details> 
+
+- 🎡 [学完框架后的反思—为什么要使用框架？](https://juejin.cn/post/7141354088909766693) | Fri Sep 09 2022 12:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习前端也有一定的时间了，最近在网上看到了一个问题让我反思了很久——为什么要使用前端框架？ 我发现自己当初学习框架时并没有想那么多，只是看中了其在业界企业的应用，大部分公司开发页面基本上都是使用框架进 
+    </details> 
+
+- 🕯 [Android开发基础知识](https://juejin.cn/post/7141333670945619998) | Fri Sep 09 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
     应用基础知识 介绍 您可以使用 Kotlin、Java 和 C++ 语言编写 Android 应用。Android SDK 工具会将您的代码连同任何数据和资源文件编译成一个 APK 
     </details> 
 
-- 🎡 [HiveServer2 内存泄漏问题定位与优化方案](https://juejin.cn/post/7141331245627080735) | Fri Sep 09 2022 10:53 AM 
+- 🚀 [HiveServer2 内存泄漏问题定位与优化方案](https://juejin.cn/post/7141331245627080735) | Fri Sep 09 2022 10:53 AM 
     <details><summary>展开描述 ...</summary> 
     HiveServer2 发生内存泄漏的原理分析。火山引擎增长分析DataFinder 基于 ClickHouse来进行行为日志的分析。 
     </details> 
 
-- 🕯 [【中秋特辑】嫦娥妹妹，你别着急～](https://juejin.cn/post/7141322073166577694) | Fri Sep 09 2022 10:19 AM 
+- 💪 [【中秋特辑】嫦娥妹妹，你别着急～](https://juejin.cn/post/7141322073166577694) | Fri Sep 09 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
     今天为大家带来一个小故事，是关于嫦娥和吴刚的爱情故事，想知道吴刚是怎样将情愫传递给嫦娥的吗？让我们一起一探究竟吧～ 
-    </details> 
-
-- 🚀 [百度工程师教你玩转设计模式（工厂模式）](https://juejin.cn/post/7141320406954147877) | Fri Sep 09 2022 10:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    想要写好代码，设计模式（Design Pattern）是必不可少的基本功，设计模式是对面向对象设计（Object Oriented Design）中反复出现的问题的解决方案，本篇介绍工厂模式（Fact 
-    </details> 
-
-- 💪 [技术周报·A/B实验背后的秘密：样本量计算](https://juejin.cn/post/7141319925766815758) | Fri Sep 09 2022 10:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    编辑推荐：干货 | A/B实验背后的秘密：样本量计算、React 老矣，我建议大家用用别的框架、TS 中的增量编译等 
     </details> 
 <!-- juejin:END -->
 ### 少数派
