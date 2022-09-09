@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [SoundMind - 为您的心理健康需求创建视听疗法](https://xinquji.com/posts/179393?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:28 AM 
+- 👀 [Combiien - 跟踪您的习惯、日常活动、目标、费用等](https://xinquji.com/posts/179395?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     跟踪您的习惯、日常活动、目标、费用等  
+    </details> 
+
+- 🥷 [Superlines - 自动测试和编写 Google 广告](https://xinquji.com/posts/179394?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:29 AM 
+    <details><summary>展开描述 ...</summary> 
+     自动测试和编写 Google 广告  
+    </details> 
+
+- 💼 [SoundMind - 为您的心理健康需求创建视听疗法](https://xinquji.com/posts/179393?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
      为您的心理健康需求创建视听疗法  
     </details> 
 
-- 🥷 [WorkHub - 参与度、效率和连通性的混合工作场所](https://xinquji.com/posts/179392?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:27 AM 
+- 🦅 [WorkHub - 参与度、效率和连通性的混合工作场所](https://xinquji.com/posts/179392?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
      参与度、效率和连通性的混合工作场所  
     </details> 
 
-- 💼 [Stoic Mornings - 基于斯多葛主义原则的早晨例行公事以抓住这一天](https://xinquji.com/posts/179391?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:25 AM 
+- 😺 [Stoic Mornings - 基于斯多葛主义原则的早晨例行公事以抓住这一天](https://xinquji.com/posts/179391?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
      基于斯多葛主义原则的早晨例行公事以抓住这一天  
-    </details> 
-
-- 🦅 [Diabetic Diary - 跟踪胰岛素剂量和血糖水平](https://xinquji.com/posts/179390?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:24 AM 
-    <details><summary>展开描述 ...</summary> 
-     跟踪胰岛素剂量和血糖水平  
-    </details> 
-
-- 😺 [TattoosAI - 人工智能纹身设计师](https://xinquji.com/posts/179389?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:23 AM 
-    <details><summary>展开描述 ...</summary> 
-     人工智能纹身设计师  
     </details> 
 <!-- xinquji:END -->
