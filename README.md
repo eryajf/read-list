@@ -741,27 +741,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [哈苏推出一亿像素中画幅旗舰相机 X2D 100C](https://www.photoworld.com.cn/post/163870) | Thu Sep 08 2022 12:40 AM 
+- 🤠 [富士龙镜头 GF20-35mmF4 R WR 隆重发布](https://www.photoworld.com.cn/post/164005) | Fri Sep 09 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [在成都｜使用尼康 Z 30 拍摄](https://www.photoworld.com.cn/post/163840) | Wed Sep 07 2022 9:11 AM 
+- 🎃 [富士龙镜头 XF56mmF1.2 R WR 闪亮登场](https://www.photoworld.com.cn/post/163995) | Fri Sep 09 2022 7:54 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [索尼首款全画幅可换镜头遥控云台电影机 ILME-FR7 发布](https://www.photoworld.com.cn/post/163758) | Wed Sep 07 2022 1:15 AM 
+- 👀 [富士无反数码相机 “FUJIFILM X-H2” 全新发布](https://www.photoworld.com.cn/post/163982) | Fri Sep 09 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [白露 | 一缕青羌秋色，十里槽渔风光](https://www.photoworld.com.cn/post/163728) | Wed Sep 07 2022 12:00 AM 
+- 🤔 [哈苏推出一亿像素中画幅旗舰相机 X2D 100C](https://www.photoworld.com.cn/post/163870) | Thu Sep 08 2022 12:40 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [华为 Mate50 系列正式发布，超光变 XMAGE 影像开启移动影像新时代](https://www.photoworld.com.cn/post/163736) | Tue Sep 06 2022 9:00 AM 
+- 👀 [在成都｜使用尼康 Z 30 拍摄](https://www.photoworld.com.cn/post/163840) | Wed Sep 07 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
