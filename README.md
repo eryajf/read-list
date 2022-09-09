@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [越南零售商开始技嘉RTX 4090显卡预购](https://www.cnbeta.com/articles/tech/1314517.htm) | Fri Sep 09 2022 2:20 PM 
+- 🕯 [新冠预防药研发取得新进展 国内团队提交临床前数据](https://www.cnbeta.com/articles/tech/1314549.htm) | Fri Sep 09 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着NVIDIA GeForce RTX 4090显卡上市的时间日益临近，越南的一家零售商已经列出了该显卡的定制型号。&lt;strong&gt;越南零售店Kccshop列出了技嘉即将推出的三款显卡，它们是NVIDIA即将推出的GeForce RTX 4090定制设计。这些型号包括两个标准的技嘉产品（Windforce和Gaming）和一个AORUS（Master）版本。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国内新冠中和抗体药物研发又有新进展。第一财经记者日前从重庆医科大学方面获悉，重庆医科大学校长黄爱龙教授以及金艾顺教授团队牵头研制的一款对新冠奥密克戎变异株具有强效中和活性的抗体58G6已完成全部临床前研究，相关论文近日发表于期刊《信号转导与靶向治疗》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [亚马逊正在收购Cloostermans以加强其机器人业务](https://www.cnbeta.com/articles/tech/1314515.htm) | Fri Sep 09 2022 2:09 PM 
+- 💼 [女子求职被告知有男朋友一律不招 CEO：因为我没有女朋友](https://www.cnbeta.com/articles/tech/1314547.htm) | Fri Sep 09 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;多年来，亚马逊进行了一连串的创业公司收购，以建立其机器人业务。现在，这个电子商务巨头在扩大其工业仓储能力的同时，在这一战略上也出现了有趣的转变。&lt;strong&gt;亚马逊正在收购比利时的Cloostermans公司，该公司是机电一体化方面的专家。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近被曝光的奇葩招聘似乎特别多，什么只要“清朝人”，什么不要手机倒数第五位是5的，什么不要河南人的……有的来自HR，有的来自公司奇葩规定。据极目新闻，9月8日，浙江温州的王女士（化姓）在找工作时，竟被告知有男朋友的一律不招，即便拉黑对方依然被骚扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [SiFive RISC-V处理器将为NASA未来太空任务提供动力](https://www.cnbeta.com/articles/tech/1314513.htm) | Fri Sep 09 2022 1:58 PM 
+- 💂 [iPhone 14系列首销火爆 黄牛加千元收购](https://www.cnbeta.com/articles/tech/1314545.htm) | Fri Sep 09 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;NASA不久将对其航天计算机中采用的系统进行重大升级，采用在开源许可下开发和提供的RISC-V架构。&lt;/strong&gt;NASA选择SiFive提供CPU内核，这是一个恰当的选择，因为这家总部位于加利福尼亚州圣马特奥的公司成立于7年前，致力于开发基于RISC-V的硬件（其中&amp;quot;V&amp;quot;表示这是第五代RISC指令集）并将兼容的处理器推向市场。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今晚20点，iPhone 14系列四款新机正式开放预订，正如此前预期，两款Pro非常火爆，新出的暗紫色和通常都很好卖的银色比较紧俏，尤其是大容量版本。截稿前，中国官网的发货时间已经推迟到了10月份，想在国庆节前用上很难了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国弗吉尼亚州数据中心容量超过欧洲或中国](https://www.cnbeta.com/articles/tech/1314511.htm) | Fri Sep 09 2022 1:40 PM 
+- 🚀 [虞书欣新剧《两个人的小森林》被吐槽：拿放大镜烧蚂蚁？](https://hot.cnbeta.com/articles/movie/1314543.htm) | Fri Sep 09 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;弗吉尼亚州拥有美国三分之一以上的超大规模数据中心容量，这比中国或整个欧洲的全部容量都要多&lt;/strong&gt;，这凸显了所谓的数据中心大道上集中了多少基础设施。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，微博百万粉科普博主“顾有容”质疑未开播原创恋爱剧集《两个人的小森林》的剧照，认为剧集的服装、剧情处理不合理。植物学家顾有容认为，&lt;strong&gt;真正的研究人员在野外一般不穿正装，另外出野外一般携带便携的手镜而非放大镜。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [数学家丘成桐可以复制吗？](https://www.cnbeta.com/articles/tech/1314509.htm) | Fri Sep 09 2022 1:24 PM 
+- 🎊 [iPhone 14 Pro的显示屏在户外阳光下亮度可提高2倍](https://www.cnbeta.com/articles/tech/1314541.htm) | Fri Sep 09 2022 3:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;几位拥有国际影响力的中国数学家的存在，常常令公众产生一种错觉，即中国的数学水平在世界仍居前列。这种普遍印象既来自于华罗庚、陈景润等数学名家事迹的广为流传，又来自于公众对前沿数学领域的不甚了解。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你是否曾经在户外发现自己无法使用你的iPhone，因为它在刺眼的阳光下太暗了？&lt;strong&gt;对于那些买到苹果最新高端Pro机型的人来说，iPhone 14 Pro和iPhone 14 Pro Max在户外阳光下使用时，由于采用了更先进的显示屏，能够明显变得更亮。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
