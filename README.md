@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新冠预防药研发取得新进展 国内团队提交临床前数据](https://www.cnbeta.com/articles/tech/1314549.htm) | Fri Sep 09 2022 3:15 PM 
+- 🕯 [第一位高科技女王去世：伊丽莎白二世曾是二战机械手、狂飙路虎的女司机](https://www.cnbeta.com/articles/tech/1314553.htm) | Fri Sep 09 2022 4:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;英国女王伊丽莎白二世去世，标志着一个时代的落幕。9月8日（当地时间），英国白金汉宫公布了一个沉痛的消息：英国女王在巴尔莫勒堡（Balmoral）安祥地去世，享年96岁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [传闻任天堂直面会下周仍会举行](https://hot.cnbeta.com/articles/game/1314551.htm) | Fri Sep 09 2022 4:11 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据报道，由于英国女王伊丽莎白二世的离世，任天堂推迟了直面会的举行，但据Jeff Grubb在推文上表示，展会仍会进行。Jeff Grubb在推特上表示，似乎展会还会正常进行，如果被调整，那也是一个微小的调整，预计会在下周举行。内部人士Nathehate也在推特上表示，该发布会会在9月12日宣布。一切消息请以官方为准。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [新冠预防药研发取得新进展 国内团队提交临床前数据](https://www.cnbeta.com/articles/tech/1314549.htm) | Fri Sep 09 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;国内新冠中和抗体药物研发又有新进展。第一财经记者日前从重庆医科大学方面获悉，重庆医科大学校长黄爱龙教授以及金艾顺教授团队牵头研制的一款对新冠奥密克戎变异株具有强效中和活性的抗体58G6已完成全部临床前研究，相关论文近日发表于期刊《信号转导与靶向治疗》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [女子求职被告知有男朋友一律不招 CEO：因为我没有女朋友](https://www.cnbeta.com/articles/tech/1314547.htm) | Fri Sep 09 2022 3:08 PM 
+- 🚀 [女子求职被告知有男朋友一律不招 CEO：因为我没有女朋友](https://www.cnbeta.com/articles/tech/1314547.htm) | Fri Sep 09 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近被曝光的奇葩招聘似乎特别多，什么只要“清朝人”，什么不要手机倒数第五位是5的，什么不要河南人的……有的来自HR，有的来自公司奇葩规定。据极目新闻，9月8日，浙江温州的王女士（化姓）在找工作时，竟被告知有男朋友的一律不招，即便拉黑对方依然被骚扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14系列首销火爆 黄牛加千元收购](https://www.cnbeta.com/articles/tech/1314545.htm) | Fri Sep 09 2022 3:07 PM 
+- 🎊 [iPhone 14系列首销火爆 黄牛加千元收购](https://www.cnbeta.com/articles/tech/1314545.htm) | Fri Sep 09 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今晚20点，iPhone 14系列四款新机正式开放预订，正如此前预期，两款Pro非常火爆，新出的暗紫色和通常都很好卖的银色比较紧俏，尤其是大容量版本。截稿前，中国官网的发货时间已经推迟到了10月份，想在国庆节前用上很难了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [虞书欣新剧《两个人的小森林》被吐槽：拿放大镜烧蚂蚁？](https://hot.cnbeta.com/articles/movie/1314543.htm) | Fri Sep 09 2022 3:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，微博百万粉科普博主“顾有容”质疑未开播原创恋爱剧集《两个人的小森林》的剧照，认为剧集的服装、剧情处理不合理。植物学家顾有容认为，&lt;strong&gt;真正的研究人员在野外一般不穿正装，另外出野外一般携带便携的手镜而非放大镜。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [iPhone 14 Pro的显示屏在户外阳光下亮度可提高2倍](https://www.cnbeta.com/articles/tech/1314541.htm) | Fri Sep 09 2022 3:03 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你是否曾经在户外发现自己无法使用你的iPhone，因为它在刺眼的阳光下太暗了？&lt;strong&gt;对于那些买到苹果最新高端Pro机型的人来说，iPhone 14 Pro和iPhone 14 Pro Max在户外阳光下使用时，由于采用了更先进的显示屏，能够明显变得更亮。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
