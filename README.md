@@ -338,7 +338,7 @@
     TikTok否认用户数据和源代码被窃，并称黑客论坛分享的源代码根本不是其平台的后台源代码，并从未与微信数据合并。 
     </details> 
 
-- 🦄 [正式开源！无恒实验室推出appshark自动化漏洞及隐私合规检测工具](https://www.freebuf.com/articles/mobile/344074.html) | Thu Sep 08 2022 6:39 AM 
+- 🦄 [正式开源！无恒实验室推出appshark自动化漏洞及隐私合规检测工具](https://www.freebuf.com/vuls/344074.html) | Thu Sep 08 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     无恒实验室自主研发了appshark引擎，用于漏洞及隐私合规风险的自动化检测。 
     </details> 
