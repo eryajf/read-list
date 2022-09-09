@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于消息队列的延迟消息](https://www.v2ex.com/t/879036#reply5) | Fri Sep 09 2022 4:07 PM
-- 🤗 [各位老哥，群晖怎么选。新出的 1522+帖子很少](https://www.v2ex.com/t/879035#reply4) | Fri Sep 09 2022 3:50 PM
-- 🎭 [hadoop zookeeper](https://www.v2ex.com/t/879031#reply0) | Fri Sep 09 2022 3:15 PM
-- 🥷 [求推荐 nas](https://www.v2ex.com/t/879021#reply6) | Fri Sep 09 2022 2:38 PM
-- 🐵 [华为荣耀 ov 有什么 pd 充电快一点的机器吗](https://www.v2ex.com/t/879020#reply0) | Fri Sep 09 2022 2:33 PM<!-- v2ex:END -->
+- 🥸 [在 Debian 下如何固定网卡名称？](https://www.v2ex.com/t/879045#reply0) | Fri Sep 09 2022 8:12 PM
+- 🤗 [关于消息队列的延迟消息](https://www.v2ex.com/t/879036#reply5) | Fri Sep 09 2022 4:07 PM
+- 🎭 [各位老哥，群晖怎么选。新出的 1522+帖子很少](https://www.v2ex.com/t/879035#reply4) | Fri Sep 09 2022 3:50 PM
+- 🥷 [hadoop zookeeper](https://www.v2ex.com/t/879031#reply0) | Fri Sep 09 2022 3:15 PM
+- 🐵 [求推荐 nas](https://www.v2ex.com/t/879021#reply7) | Fri Sep 09 2022 2:38 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
