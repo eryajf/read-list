@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [互联网员工被裁半年后：有的仍未找到工作 有的签约MCN做职场博主](https://www.cnbeta.com/articles/tech/1314453.htm) | Fri Sep 09 2022 9:57 AM 
+- 🕯 [美国和韩国在探讨电动汽车补贴分歧解决方案 外媒称有望解决](https://www.cnbeta.com/articles/tech/1314461.htm) | Fri Sep 09 2022 10:38 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;由于美国新出台的电动汽车补贴方案，限制到了仅在美国生产的电动汽车，这也就意味着现代汽车集团旗下现代和起亚这两大品牌的电动汽车，无法在美国获得补贴。从外媒的报道来看，针对电动汽车补贴方案方面的分歧，美国和韩国在探讨解决方案，外媒称有望得到解决。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [吉利车载无人机专利公布 可根据车速配置飞行方式](https://www.cnbeta.com/articles/tech/1314459.htm) | Fri Sep 09 2022 10:35 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月9日消息，据天眼查App显示，9月9日，浙江吉利控股集团有限公司、宁波吉利汽车研究开发有限公司申请的“被配置成能够相对于陆地车辆进行操作的无人驾驶飞行器”专利公布。该车载无人机可根据车速配置飞行方式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [“蔚小理”二季度亏60亿元 三季度交付预期平淡，瓶颈何解](https://www.cnbeta.com/articles/tech/1314457.htm) | Fri Sep 09 2022 10:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;造车新势力们还在亏钱造车。9月7日，蔚来汽车&lpar;NIO.US；09866.HK&rpar;发布第二季度财报。至此，蔚来、小鹏（XPEV.US；9868.HK）、理想（LI.US；02015.HK）三家头部新势力企业的第二季度成绩单悉数出炉，三家企业的亏损仍有一定程度的扩大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [开启CPB可让锐龙R5-7600X的Cinebench R23跑分提升14%](https://www.cnbeta.com/articles/tech/1314455.htm) | Fri Sep 09 2022 10:21 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;VideoCardz 刚刚分享了主频达到 5.45 GHz 的 AMD Zen 4 锐龙 R5-7600X 的一组跑分数据。&lt;/strong&gt;可知作为一枚 6C / 12T 的 AM5 台式处理器，其具有 4.7 GHz 基础频率 / 单核加速可达 5.3 GHz 。默认热设计功耗（TDP 105）/ 封装功耗（PPT）142W —— 远高于上代的 65W，但额外的功耗也换来了更高的时钟速率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [互联网员工被裁半年后：有的仍未找到工作 有的签约MCN做职场博主](https://www.cnbeta.com/articles/tech/1314453.htm) | Fri Sep 09 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近两年，一些互联网公司裁员。很多大厂还把裁员玩出了新花样，三言财经此前曾在《互联网裁员丧事喜办》一文中盘点过一些大厂对于裁员的“骚操作”。那么，那些被裁的互联网员工现在都怎么样了？换了什么工作了？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [30年老牌GPU厂商官宣杀回 国产显卡就用它](https://www.cnbeta.com/articles/tech/1314451.htm) | Fri Sep 09 2022 9:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;1992年，Imagination公司推出了全新的PowerVR GPU架构，在桌面、移动、游戏等各领域都有深远的影响力，并一直延续至今。不过，PowerVR早已离开桌面领域，如今主要活跃在汽车、移动领域，市场份额分别超过50％、35％，支持游戏超过100万款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [3GHz主频：谍照曝光RTX 4090 3DMark TSE成绩较RTX 3090翻番](https://www.cnbeta.com/articles/tech/1314449.htm) | Fri Sep 09 2022 9:48 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管应 Nvidia 的要求，TechPowerUp 在新版 CPU-Z 工具软件中引入了防止工程样品 GPU 偷跑的设计。但根据 @烟花易凉 在芯域（Chiphell）论坛上曝光的 3DMark《Time Spy》截图，&lt;strong&gt;我们还是见到了主频飙至 3 GHz、且尚未正式发布的 GeForce RTX 4090 旗舰游戏显卡的身影。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [iPhone 14 Pro拍摄的照片占用空间几乎是13 Pro的三倍](https://www.cnbeta.com/articles/tech/1314447.htm) | Fri Sep 09 2022 9:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如果你打算充分利用iPhone 14 Pro和iPhone 14 Pro Max的摄像头系统并使用全4800万像素的主摄像头传感器，那么请做好准备--因为照片将消耗大量的存储空间。根据MacRumors撰稿人Steve Moser在本周发布的iOS 16候选版本中发现的代码，&lt;strong&gt;用主摄像头拍摄的4800万像素ProRAW照片大小约为75MB，这比iPhone 13 Pro和iPhone 14 Pro上用1200万像素传感器拍摄的照片大两倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [韩国开发“动态难度模型” 根据玩家情绪调整游戏难度](https://hot.cnbeta.com/articles/game/1314445.htm) | Fri Sep 09 2022 9:34 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;玩家在玩游戏时经常会陷入生气和烦躁等情绪中，想让玩家体验和游戏难度取得平衡，一直是开发者的重点，找到一个适中的强度才能让玩家享受到最佳体验。虽然有些游戏可以通过手动调整难度，但现在有一个更创新的方法。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
