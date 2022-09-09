@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java&amp;C++题解与拓展——leetcode652.寻找重复的子树【么的新知识】](https://juejin.cn/post/7141302732945621028) | Fri Sep 09 2022 9:02 AM 
+- 🤗 [Jetpack compose 仿QQ音乐实现下拉刷新上拉加载更多](https://juejin.cn/post/7141312829042688008) | Fri Sep 09 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode652.寻找重复的子树解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    前言 看了官方的NestedScrollConnectionSample，研究了NestedScrollConnection，再加上看了SwipeRefreshLayout的源码后 
     </details> 
 
-- 🎡 [一类有趣的无限缓存OOM现象](https://juejin.cn/post/7141301214523686926) | Fri Sep 09 2022 8:56 AM 
+- 🎡 [初识 WebSocket 以及 Golang 实现](https://juejin.cn/post/7141311208451211278) | Fri Sep 09 2022 9:35 AM 
     <details><summary>展开描述 ...</summary> 
-    一般的线程池调度任务是啥场景？有个 Queue，来了任务先入队，有个 ThreadPool ，线程空闲了，从 Queue 取任务。 那么，当入队数据结构占内存太大，且单个任务处理速度小于入队速度呢？ 
+    一、 WebSocket 介绍 1.1 WebSocket 的诞生背景 在网络冲浪中，我们接触到最多的协议必定是 HTTP/HTTPS 协议，这两种协议的工作原理可简述为：客户端通过浏览器发送一个请求 
     </details> 
 
-- 🕯 [【andriod】设备APP开发之前端实战操作代码【转载】](https://juejin.cn/post/7141295838835736606) | Fri Sep 09 2022 8:35 AM 
+- 🕯 [揭秘前端眼中的Rust！](https://juejin.cn/post/7141308565410545671) | Fri Sep 09 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
-    文章目录 前言 一、Andriodmanifest.xml 1、解锁安卓系统前端读写权限代码 2、APP启动首页入口配置代码 3、APP获取andriod系统开机启动前端代码 4、授权中转页面和取得M 
+    引言：本文推选自腾讯云开发者社区「技思广益 · 腾讯技术人原创集」专栏。该专栏是腾讯云开发者社区为腾讯技术人与广泛开发者打造的分享交流窗口。栏目邀约腾讯技术人分享原创的技术积淀，与广泛开发者互启迪共成 
     </details> 
 
-- 🚀 [使用正则/g引发的线上问题](https://juejin.cn/post/7141290987275419684) | Fri Sep 09 2022 8:16 AM 
+- 🚀 [ECCV 2022 | ProbEn：基于概率融合的多模态目标检测](https://juejin.cn/post/7141308151731027975) | Fri Sep 09 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
-    问题出现 某个周末正吃着火锅唱着歌，接到了领导的电话。 “快看一下投放到xx客户端的页面，怎么没有头（导航栏）了？” 立即打开app查看发现果真只剩秃秃的页面直通手机顶部，便立即放心手中的碗筷跑回了家 
+    本文研究了使用RGB和热敏相机的多模态目标检测，提出了一种融合不同模态信息的策略——概率融合技术ProbEn，融合来自多模态的检测。 
     </details> 
 
-- 💪 [try-catch引起的野指针问题排查](https://juejin.cn/post/7141289369688047653) | Fri Sep 09 2022 8:11 AM 
+- 💪 [保姆级教程: 前端本地开发指定域名以及 HTTPS 配置方案](https://juejin.cn/post/7141308011921801223) | Fri Sep 09 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
-    1、野指针问题 【EXC_BAD_ACCESS &lpar;SIGSEGV&rpar; / KERN_INVALID_ADDRESS] Possible zombie in call: Function: objc_re 
+    看完本篇文章你会掌握前端本地开发配置 Hosts 以及本地开发如何配置 HTTPS 的保姆级别的教程。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
