@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [🐵 原生模态对话框了解一下？](https://juejin.cn/post/7141271149559676942) | Fri Sep 09 2022 6:59 AM 
+- 🤗 [探秘AutoreleasePool实现原理](https://juejin.cn/post/7141285896250195982) | Fri Sep 09 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-    在业务开发中，模态对话框（Modal Dialog）是常用的组件，主要用途是在用户处理重要事务/操作时，进行信息展示/二次确认⚠️等。你是否知道 HTML 其实自带了支持 dialog 元素呢? 
+    AutoreleasePool主要应用在大量创建临时对象的场景，通过AutoreleasePool控制内存峰值，是一个很好的选择. 
     </details> 
 
-- 🎡 [使用Docker部署ElasticSearch与kibana](https://juejin.cn/post/7141271047562592264) | Fri Sep 09 2022 6:59 AM 
+- 🎡 [diffusion Model原理之扩散过程与逆扩散过程](https://juejin.cn/post/7141285352509505567) | Fri Sep 09 2022 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-    使用Docker部署分布式搜索、分析引擎ElasticSearch以及开源分析、可视化平台kibana。 
+    前面推导了一些铺垫知识，现在正式来看diffusion Model。 3 diffusion models 我们说的扩散过程，就是从$x_0$到$x_T$的过程，也就是墒增的过程，从有序到无序。反过来 
     </details> 
 
-- 🕯 [关于 UI设计 切图，我们应该如何给开发人员](https://juejin.cn/post/7141270303535005726) | Fri Sep 09 2022 6:56 AM 
+- 🕯 [ts 进阶版实战教程](https://juejin.cn/post/7141281196813582367) | Fri Sep 09 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
-    每个 UI 设计到了尾声，不可避免的会遇到一些切图上的问题，下面我就跟大家分享几个我遇到过的切图问题，希望能帮你避开一些坑，减少重复切图，减少沟通成本！ 01 代码更容易实现线性渐变、径向渐变、角度渐 
+    鉴于很多小伙伴说前段时间出的 ts 教程太过基础了，让我再出一期比较复杂的数据类型。今天就以我们平时开发过程中可能会遇到的类型简单讲解一下。 本期重点在后面的泛型，前面也是比较基础的。 
     </details> 
 
-- 🚀 [HTML+CSS+JS实现好看的风车屋](https://juejin.cn/post/7141262174206296095) | Fri Sep 09 2022 6:25 AM 
+- 🚀 [使用 Docker 搭建本地开发环境！](https://juejin.cn/post/7141278426857472013) | Fri Sep 09 2022 7:27 AM 
     <details><summary>展开描述 ...</summary> 
-    一个漂亮的css动画实现的风车，天空流星划过的时候，记得许愿哦，明天就是2022年的中秋，祝大家节日快乐~ 
+    使用 Docker 搭建本地开发环境！ 本地开发之痛苦 在开发之前，首先你需要安装各种开发工具和服务支持到你的开发环境当中，可能会出依赖问题，环境变量问题，端口冲突，经编译库问题等等。 开发途中，可能 
     </details> 
 
-- 💪 [纯 css 实现 &quot;打糍耙&quot;](https://juejin.cn/post/7141258878481596452) | Fri Sep 09 2022 6:11 AM 
+- 💪 [虚拟机类加载机制](https://juejin.cn/post/7141274031579201550) | Fri Sep 09 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-    正想着这周六日 去哪里过 中秋！突然回想起来上周五晚上去吃的 酸菜鱼，那个时候点的一份 &quot;红糖糍耙&quot; ，很软很好吃，但是这周六日肯定不去。所以画出来一个糍耙，纪念下！定位，伪元素，动画等效果 
+    类的生命周期 加载 -&gt; 验证 -&gt; 准备 -&gt; 解析 -&gt; 初始化 -&gt; 使用 -&gt; 卸载 Java代码虚拟机中的形态 类加载器 
     </details> 
 <!-- juejin:END -->
 ### 少数派
