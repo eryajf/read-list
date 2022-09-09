@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [App+1 | 人人可用、不取分文，Android 平台习惯养成应用首选：Loop](https://sspai.com/post/75650) | Fri Sep 09 2022 8:13 AM 
+- 👹 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75654) | Fri Sep 09 2022 10:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[美剧]红粉联盟、[电影]十三条命、[日剧]量产型璃子-模型女子的人生组装记-、[动画]瑞克和莫蒂第六季、[韩剧]小小姐们、[电影]恋之光几则精彩预告：《机动战士高达水星的 ...&lt;a href=&quot;https://sspai.com/post/75654&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [App+1 | 人人可用、不取分文，Android 平台习惯养成应用首选：Loop](https://sspai.com/post/75650) | Fri Sep 09 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
     没有精巧的界面，也没有让人拍手称奇的动画设计，但它却是一款堪称典范的工具类开源应用。&lt;a href=&quot;https://sspai.com/post/75650&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [今晚下单新品前，先来看看外媒真机上手体验](https://sspai.com/post/75651) | Fri Sep 09 2022 6:46 AM 
+- 🤭 [今晚下单新品前，先来看看外媒真机上手体验](https://sspai.com/post/75651) | Fri Sep 09 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
     本文对部分外媒的新产品上手体验视频进行了汇总，希望能帮你对新设备更多一点了解，更好地作出购买决定。&lt;a href=&quot;https://sspai.com/post/75651&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [毕业留港找工作，这些建议请笑纳](https://sspai.com/post/75323) | Fri Sep 09 2022 3:28 AM 
+- 🥸 [毕业留港找工作，这些建议请笑纳](https://sspai.com/post/75323) | Fri Sep 09 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75323&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：Tim Cook 透露 Apple 暂无计划支持 RCS 等](https://sspai.com/post/75644) | Fri Sep 09 2022 12:49 AM 
+- 🙉 [派早报：Tim Cook 透露 Apple 暂无计划支持 RCS 等](https://sspai.com/post/75644) | Fri Sep 09 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
     影石 Insta360 X3 发布，Bose QuietComfort Earbuds II 耳机发布等。&lt;a href=&quot;https://sspai.com/post/75644&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [新玩意 119｜少数派的编辑们最近买了啥？](https://sspai.com/post/75633) | Thu Sep 08 2022 9:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/75633&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
