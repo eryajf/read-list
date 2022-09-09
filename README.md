@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [原来用户隐私是这样被泄露：超八成搜索网站将信息出售](https://www.freebuf.com/news/344198.html) | Fri Sep 09 2022 7:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    虽然“隐私”在数字化的世界已经无处安放，但我们却很少去认真思考，隐私究竟是怎样被泄露的？ 
+    </details> 
+
 - 🦄 [葡萄牙武装总参谋部遭网络攻击，数百份北约机密文件泄露](https://www.freebuf.com/news/344183.html) | Fri Sep 09 2022 5:40 AM 
     <details><summary>展开描述 ...</summary> 
     葡萄牙武装部队总参谋部（EMGFA）遭到网络攻击，黑客窃取了大量北约机密文件。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 数万人被虚假的苹果发布会直播欺骗；TikTok否认黑客窃取其数据](https://www.freebuf.com/news/344108.html) | Thu Sep 08 2022 9:31 AM 
+- 🦅 [FreeBuf早报 | 数万人被虚假的苹果发布会直播欺骗；东京和大阪地铁网站瘫痪](https://www.freebuf.com/news/344108.html) | Thu Sep 08 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
     TikTok否认用户数据和源代码被窃，并称黑客论坛分享的源代码根本不是其平台的后台源代码，并从未与微信数据合并。 
     </details> 
 
-- 🦅 [正式开源！无恒实验室推出appshark自动化漏洞及隐私合规检测工具](https://www.freebuf.com/vuls/344074.html) | Thu Sep 08 2022 6:39 AM 
+- 🪄 [正式开源！无恒实验室推出appshark自动化漏洞及隐私合规检测工具](https://www.freebuf.com/vuls/344074.html) | Thu Sep 08 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     无恒实验室自主研发了appshark引擎，用于漏洞及隐私合规风险的自动化检测。 
     </details> 
 
-- 🪄 [网信办发布《网信部门行政执法程序规定（征求意见稿）》](https://www.freebuf.com/news/344065.html) | Thu Sep 08 2022 5:45 AM 
+- 💻 [网信办发布《网信部门行政执法程序规定（征求意见稿）》](https://www.freebuf.com/news/344065.html) | Thu Sep 08 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
     《规定》共五章五十六条，对于网信部门制度建设、管辖范围、适用细则、执法措施、行政处罚的普通程序、执行与结案等方面皆有相应的规范和要求。 
-    </details> 
-
-- 💻 [Gartner发布2022云Web应用程序和API保护魔力象限](https://www.freebuf.com/articles/network/344060.html) | Thu Sep 08 2022 5:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    当前，云Web应用程序和API保护市场迅速增长。 
     </details> 
 <!-- freebuf:END -->
 
