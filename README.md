@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [神舟十四号航天员在太空吃莲蓉馅月饼过中秋](https://www.cnbeta.com/articles/science/1314785.htm) | Sat Sep 10 2022 1:27 PM 
+- 🕯 [Disney+打造《美生中国人》 吴彦祖演美猴王、杨紫琼演观音](https://hot.cnbeta.com/articles/movie/1314789.htm) | Sat Sep 10 2022 1:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Disney+打造华裔主题剧集《美生中国人》（American Born Chinese），首曝迪士尼D23展会会场海报——吴彦祖扮演的美猴王、杨紫琼扮演的观音、本·王扮演的王谨，以及刘敬扮演的交换生魏琛率先亮相。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [一场科目三考试，怎么就成了B站鬼畜区的狂欢？](https://hot.cnbeta.com/articles/funny/1314787.htm) | Sat Sep 10 2022 1:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;请听题。假如你是李强，今天是你的大日子。三个月前，在充完“驾考app”刷题会员后，你四平八稳地通过了“科目一”，又在几次倒车入库失败后，勉勉强强地补考通过了“科目二”。现在，你距离成为一名“文明、安全、高素质”的机动车驾驶员，只剩下最后一道测试。那也将是你人生的一次重大考验——在碳基教练和硅基教练的联合监考下，进行人生第一次合法的“无证驾驶”，通过“科目三”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1314787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [神舟十四号航天员在太空吃莲蓉馅月饼过中秋](https://www.cnbeta.com/articles/science/1314785.htm) | Sat Sep 10 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;这个中秋节，你是怎么过的？吃月饼没，赏月了吗？在节前，载人航天小喇叭发出问答，希望大家猜猜神州十四号乘组在太空中过中秋，会吃什么馅的月饼？给出的两个答案分别是豆沙和莲蓉，尽管多数网友投给了豆沙，但最终揭晓的答案其实是莲蓉馅，官方还晒出了太空月饼的开袋视频，网友们纷纷表示很想尝尝看。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [今天是《战地》系列20周年 首款作品2002年问世](https://hot.cnbeta.com/articles/game/1314783.htm) | Sat Sep 10 2022 1:27 PM 
+- 🚀 [今天是《战地》系列20周年 首款作品2002年问世](https://hot.cnbeta.com/articles/game/1314783.htm) | Sat Sep 10 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《战地》系列第一款游戏《战地1942》于2002年9月10日在北美正式推出，今天也是整个《战地》系列20周年纪念日。《战地1942》是一款背景在第二次世界大战的第一人称射击游戏，由瑞典开发商Digital Illusions CE开发，并由美国艺电于2002年发布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国产掌机AYANEO GEEK官宣：采用锐龙7 6800U 售价4399元](https://www.cnbeta.com/articles/tech/1314781.htm) | Sat Sep 10 2022 1:26 PM 
+- 🎊 [国产掌机AYANEO GEEK官宣：采用锐龙7 6800U 售价4399元](https://www.cnbeta.com/articles/tech/1314781.htm) | Sat Sep 10 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;作为AMD新一代低功耗移动平台的旗舰，锐龙7 6800U意外成了游戏掌机的新宠，AYANEO 2、AOKZOE K1、GPD WIN Max 2三款国产掌机不约而同地都用了它。现在，AYANEO又宣布了一款同样基于锐龙7 6800U的全新掌机产品，命名为“AYANEO GEEK”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [iPhone 13 Pro系列停产 业内人士：聪明的生命周期管理方式](https://www.cnbeta.com/articles/tech/1314779.htm) | Sat Sep 10 2022 1:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月10日消息，据Tom&amp;#39;s Guide报道，随着iPhone 14系列发布，苹果正按预期缩减产品线，&lt;strong&gt;已不再提供iPhone 11、iPhone 12 mini、iPhone 13 Pro和iPhone 13 Pro Max。&lt;/strong&gt;上述型号iPhone均已正式停产，但还会继续销售到缺货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [为了保密iPhone 14 Pro的灵动岛 苹果注册商标专程去往牙买加](https://www.cnbeta.com/articles/tech/1314777.htm) | Sat Sep 10 2022 1:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;刚刚发布的iPhone 14系列中，Pro机型的“灵动岛”设计惊艳了四方，这一全新的软硬件交互体验，无疑让人眼前一亮。而且，苹果也通过“灵动岛（Dynamic Island）”这样悦耳的名字取代了大家习惯的“药丸屏”，颇有创意。在发布前，“灵动岛”完全一点风声也没有，不得不佩服苹果的保密工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
