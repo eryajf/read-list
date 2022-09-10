@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [在 Debian 下如何固定网卡名称？](https://www.v2ex.com/t/879045#reply3) | Fri Sep 09 2022 8:12 PM
-- 🤗 [关于消息队列的延迟消息](https://www.v2ex.com/t/879036#reply5) | Fri Sep 09 2022 4:07 PM
-- 🎭 [各位老哥，群晖怎么选。新出的 1522+帖子很少](https://www.v2ex.com/t/879035#reply4) | Fri Sep 09 2022 3:50 PM
-- 🥷 [hadoop zookeeper](https://www.v2ex.com/t/879031#reply0) | Fri Sep 09 2022 3:15 PM
-- 🐵 [求推荐 nas](https://www.v2ex.com/t/879021#reply7) | Fri Sep 09 2022 2:38 PM<!-- v2ex:END -->
+- 🥸 [sequelize 中如何对一对多，多对多模型进行增删改的操作？](https://www.v2ex.com/t/879068#reply0) | Sat Sep 10 2022 1:59 AM
+- 🤗 [在 Debian 下如何固定网卡名称？](https://www.v2ex.com/t/879045#reply4) | Fri Sep 09 2022 8:12 PM
+- 🎭 [关于消息队列的延迟消息](https://www.v2ex.com/t/879036#reply6) | Fri Sep 09 2022 4:07 PM
+- 🥷 [各位老哥，群晖怎么选。新出的 1522+帖子很少](https://www.v2ex.com/t/879035#reply6) | Fri Sep 09 2022 3:50 PM
+- 🐵 [hadoop zookeeper](https://www.v2ex.com/t/879031#reply0) | Fri Sep 09 2022 3:15 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
