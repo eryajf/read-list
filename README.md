@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果因App Store收费问题面临墨西哥反垄断调查](https://www.cnbeta.com/articles/tech/1314807.htm) | Sat Sep 10 2022 8:15 PM 
+- 🕯 [NASA小行星撞击航天器DART首次拍摄到其目标](https://www.cnbeta.com/articles/science/1314809.htm) | Sat Sep 10 2022 8:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;小卫星Dimorphos正与其较大的小行星同伴Didymos一起在太空中漫步，对即将发生的事情浑然不知。与此同时，NASA的DART航天器正像一只蹲下准备扑击的猫一样盯着Dimorphos。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果因App Store收费问题面临墨西哥反垄断调查](https://www.cnbeta.com/articles/tech/1314807.htm) | Sat Sep 10 2022 8:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在一位前电信主管周五对科技巨头提出投诉后，苹果和Google可能面临墨西哥监管机构的又一次反垄断调查。Mony de Swaan Addati周四向墨西哥电信监管机构提交了一份投诉，指责苹果和Google&amp;quot;滥用其应用商店的垄断地位，强迫使用自己的支付服务进行应用内支付，从而完全抑制了竞争。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [迪士尼分享《艾瓦由》与《奇异世界》动画背景设定](https://hot.cnbeta.com/articles/comic/1314805.htm) | Sat Sep 10 2022 6:17 PM 
+- 💂 [迪士尼分享《艾瓦由》与《奇异世界》动画背景设定](https://hot.cnbeta.com/articles/comic/1314805.htm) | Sat Sep 10 2022 6:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在加州阿纳海姆举办的 D23 博览会期间，迪士尼不仅分享了系列作品的新预告，还介绍了又一部具有奇异世界观设定的新动画，并将之命名为《艾瓦由》（Iwájú）。看到《艾瓦由》的第一眼，你或许马上就被这个充满鲜艳色彩、飞行汽车、以及迷人的另类生物的世界所吸引。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1314805.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14 Pro型号支持改进的L1、L5双频GPS定位精度](https://www.cnbeta.com/articles/tech/1314803.htm) | Sat Sep 10 2022 4:24 PM 
+- 🚀 [iPhone 14 Pro型号支持改进的L1、L5双频GPS定位精度](https://www.cnbeta.com/articles/tech/1314803.htm) | Sat Sep 10 2022 4:24 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据苹果公司为这些设备提供的技术规格，新的iPhone 14 Pro和iPhone 14 Pro Max具有双频GPS支持，可以进行更准确的位置跟踪，值得一提的是，新的Apple Watch Ultra也支持该功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [同时治疗癌症和心脏疾病：癌症转移的关键分子被发现](https://www.cnbeta.com/articles/science/1314801.htm) | Sat Sep 10 2022 4:23 PM 
+- 🎊 [同时治疗癌症和心脏疾病：癌症转移的关键分子被发现](https://www.cnbeta.com/articles/science/1314801.htm) | Sat Sep 10 2022 4:23 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一项新的研究发现了动脉粥样硬化和癌症转移的一个共同机制。癌症转移的一个关键分子已被确定为同时参与心血管疾病的分子，这表明同时治疗这两种疾病是可行的治疗策略。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [跟随Landsat 8观察中国最大的淡水湖：鄱阳湖的低水位](https://www.cnbeta.com/articles/science/1314799.htm) | Sat Sep 10 2022 4:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国最大的淡水湖正因长时间的高温和干旱而干涸。在冬季和夏季之间，中国江西省的鄱阳湖在湖面面积规模上经常出现波动。在冬季，湖的水位通常很低。然后，夏季的雨水导致这个中国最大的淡水湖随着长江水的流入而膨胀。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
