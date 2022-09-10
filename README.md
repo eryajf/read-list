@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [都知道白噪声，现在TikTok上很火的褐噪声，又是什么东西](http://jandan.net/p/111283) | Sat Sep 10 2022 3:11 AM 
+- 🚀 [人类也可以变成三体人？水熊虫的脱水保命蛋白可在人体细胞中部分表达](http://jandan.net/p/111271) | Sat Sep 10 2022 7:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    富含细胞质的热可溶性 &lpar;CAHS&rpar; 蛋白负责保护它们的细胞免因脱水而死。 
+    </details> 
+
+- 🙉 [都知道白噪声，现在TikTok上很火的褐噪声，又是什么东西](http://jandan.net/p/111283) | Sat Sep 10 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     今天是中秋节，给刚打开电梯的朋友拜个早年 
     </details> 
 
-- 🙉 [今日好价 0910](http://jandan.net/p/111327) | Sat Sep 10 2022 3:11 AM 
+- 🎉 [今日好价 0910](http://jandan.net/p/111327) | Sat Sep 10 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     22高清大头 
     </details> 
 
-- 🎉 [31000年前的遗骸，最古老的截肢手术](http://jandan.net/p/111316) | Fri Sep 09 2022 1:42 PM 
+- 🐲 [31000年前的遗骸，最古老的截肢手术](http://jandan.net/p/111316) | Fri Sep 09 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
     值得注意的是，那里愈合得很好，足以让遗骨的主人再活六到九年。 
     </details> 
 
-- 🐲 [为什么卡西尼号土星探测器能拍到木星轨道上的瑰丽风光？](http://jandan.net/p/111305) | Fri Sep 09 2022 12:21 PM 
+-  [为什么卡西尼号土星探测器能拍到木星轨道上的瑰丽风光？](http://jandan.net/p/111305) | Fri Sep 09 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
     zsbd 
-    </details> 
-
--  [新冠病毒在变弱吗？科学家不这么认为](http://jandan.net/p/111324) | Fri Sep 09 2022 9:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    有专家认为新冠会伴随我们一辈子 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
