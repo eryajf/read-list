@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《迪士尼梦幻星谷》DLC“玩具总动员”金秋相会](https://hot.cnbeta.com/articles/game/1314651.htm) | Sat Sep 10 2022 2:05 AM 
+- 🕯 [《迪士尼速度风暴》公布新角色 怪兽电力公司加盟](https://hot.cnbeta.com/articles/game/1314693.htm) | Sat Sep 10 2022 4:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;迪士尼在今天的迪士尼漫威游戏发布会上公布了《迪士尼梦幻星谷》的全新DLC内容“玩具总动员”。拥有这款DLC之后，玩家可以通过一扇门进入“玩具总动员”国度，与同名电影中的角色进行交流。在“玩具总动员”国度中，玩家的角色将会置身于安迪的房间里，可以遇到胡迪和巴斯光年。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;免费游戏《迪士尼速度风暴》的角色和赛道逐渐公布。在D23的迪士尼漫威游戏发布会上，我们看到这款游戏中的“怪兽电力公司”角色和主题赛道。可惜的是，本作仍然没有公布正式上市日期，目前仍然是“即将上市”的状态。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [传2024年《使命召唤》将有伊拉克战争和反恐战争](https://hot.cnbeta.com/articles/game/1314649.htm) | Sat Sep 10 2022 2:04 AM 
+- 💼 [直播间“收割”中东土豪](https://www.cnbeta.com/articles/tech/1314691.htm) | Sat Sep 10 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《使命召唤》系列在过去一直在玩弄争议，触及实际的地缘政治事件和残酷的战争现实，但看起来下一款大型《使命召唤》游戏可能会更进一步。&lt;strong&gt;几周前，有传言称2024年的《使命召唤》&lpar;由Treyarch开发，很可能是《黑色行动》系列）将专注于1991年的美伊海湾战争，而根据新的传闻，这只是一个开始。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;晚上七点，叙利亚首都大马士革天还未黑，但27岁的Syriana已经画上精致妆容，准备开始今晚的直播。作为一名有两个年幼孩子的单亲妈妈，Syriana早已习惯做主播的日子。而就在两年前，她还像一些叙利亚人一样，生活在贫困中，营养不良长期折磨着她和两个不到五岁的孩子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [真人电影《小美人鱼》公布首支预告 黑人人鱼倾情献唱](https://hot.cnbeta.com/articles/movie/1314647.htm) | Sat Sep 10 2022 2:03 AM 
+- 💂 [iPhone 14标准版跑分出炉：确认全系6GB内存](https://www.cnbeta.com/articles/tech/1314689.htm) | Sat Sep 10 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在迪士尼D23博览会上，我们看到了由哈雷·贝利主演的全新真人电影《小美人鱼》的最新预告。这段预告展示了小美人鱼爱丽儿居住的水下国度的场景，更重要的是，在预告片中我们可以看到哈雷·贝利演唱经典歌曲《Part of Your World》的片段。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在iPhone 14发布当天，iPhone 14 Pro的跑分就已经被海外大神曝光，可以看到A16其实就是一款“挤牙膏”芯片，对比老款提升非常有限。不过，大家一直非常期待iPhone 14标准版两款新机的跑分信息，并不是想要看A15成绩，而是想确认内存大小。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国航天员“天宫对话”非洲青少年 中非航天合作成果丰硕](https://www.cnbeta.com/articles/science/1314645.htm) | Sat Sep 10 2022 2:03 AM 
+- 🚀 [iPhone 14系列预售火爆 业内人士称不是苹果太强而是安卓太弱](https://www.cnbeta.com/articles/tech/1314687.htm) | Sat Sep 10 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据香港《南华早报》网站9月8日报道，随着中国渴望成为太空领域的重要参与者，非洲的太空雄心将得到中国的进一步推动。报道称，最近在中国航天员与非洲八国青少年进行的“天宫对话”活动上，中方官员表示，愿意支持非盟的太空计划，并加强双方在这方面的合作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨晚（9月9日），iPhone 14系列新机在各大渠道正式开启预订。正如此前所预想的那样，包括中国官网在内，预订导致APP崩溃、结算错误、网页挤爆等情况再度出现，可见这次iPhone 14系列热度依然不减。其中iPhone 14 Pro/Pro Max最为火爆，目前下单送货时间已经排到10月中下旬。9月16日的第一批现货，黄牛们更是加价到千元不等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [又鸽了的苹果AR眼镜，到底卡在哪里？](https://www.cnbeta.com/articles/tech/1314643.htm) | Sat Sep 10 2022 2:02 AM 
+- 🎊 [《使命召唤19：现代战争2》新预告 再秀战役模式画质](https://hot.cnbeta.com/articles/game/1314685.htm) | Sat Sep 10 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;意料之中，苹果又鸽掉了AR眼镜。尽管此前苹果分析师郭明錤就曾预测苹果AR/MR头显将于2023年1月发布，但是在发布会之前，苹果留下了一个“One More Thing”的悬念，吊足了人们对于苹果AR头显的猜测。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;《使命召唤》官方频道今日公布《使命召唤19：现代战争2》的超短战役模式预告片。这是动视公布的第二段《使命召唤19：现代战争2》战役抢先体验预告片。&lt;/strong&gt;这段视频展示了部分CG画面和震撼实机视效，展示了新作的武装直升机和空袭场景。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
