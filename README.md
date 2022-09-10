@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14 Pro到货已排到10月下旬 iPhone 13 Pro系列开始停产](https://www.cnbeta.com/articles/tech/1314763.htm) | Sat Sep 10 2022 9:52 AM 
+- 🕯 [2022中秋档总票房破亿：三部国产影片领跑](https://hot.cnbeta.com/articles/movie/1314767.htm) | Sat Sep 10 2022 11:08 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;这个中秋节，你是怎么过的呢？9月10日下午消息，据灯塔专业版，截至9月10日17时，2022中秋节单日票房突破1亿。&lt;strong&gt;影片方面，《哥，你好》、《新神榜：杨戬》、《世间有她》分列中秋节票房榜前三位。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Fedora Linux 37 Beta将于下周准时发布 ISO镜像已经上传](https://www.cnbeta.com/articles/tech/1314765.htm) | Sat Sep 10 2022 10:59 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;无论是开发/Beta快照还是稳定版，Fedora Linux的发布都以经常出现延误而闻名。Fedora的目标是要提供一个前沿但可靠的Linux发行版，所以经常会因为阻挡性错误而延迟，因此在这里或那里延迟一两个星期并不是什么稀罕事。&lt;strong&gt;虽然他们一直在提供比过去更及时的发布，但对于Fedora Linux 37 Beta，他们已经实现了准时发布的“壮举&lt;strong&gt;”&lt;/strong&gt;。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [iPhone 14 Pro到货已排到10月下旬 iPhone 13 Pro系列开始停产](https://www.cnbeta.com/articles/tech/1314763.htm) | Sat Sep 10 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;日前，iPhone 14系列新机已经正式开启预定了，&lt;strong&gt;Pro系列市场火爆，开售火速全平台售罄，目前官网下单已经排到十月下旬发货了。&lt;/strong&gt;而标准版却鲜有人问津，销售情况与Pro版差距巨大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [15亿美元收购Wyre的交易不幸夭折 Bolt将与之维持独立合作](https://www.cnbeta.com/articles/tech/1314761.htm) | Sat Sep 10 2022 9:52 AM 
+- 🚀 [15亿美元收购Wyre的交易不幸夭折 Bolt将与之维持独立合作](https://www.cnbeta.com/articles/tech/1314761.htm) | Sat Sep 10 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;尽管 4 月份统一以约 15 亿美元收购加密支付公司 Wyre，但一键结账公司 Bolt 还是未能顺利完成这笔交易。&lt;/strong&gt;当时这项公告被视作加密行业的最大一笔非“SPAC”收购，可惜在潮水退去、泡沫散尽之后，许多人才想到这笔交易可能被高估了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [迪士尼分享《艾瓦由》与《奇异世界》动画的背景设定](https://hot.cnbeta.com/articles/comic/1314759.htm) | Sat Sep 10 2022 9:35 AM 
+- 🎊 [迪士尼分享《艾瓦由》与《奇异世界》动画的背景设定](https://hot.cnbeta.com/articles/comic/1314759.htm) | Sat Sep 10 2022 9:35 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在加州阿纳海姆举办的 D23 博览会期间，&lt;strong&gt;迪士尼不仅分享了系列作品的新预告，还介绍了又一部具有奇异世界观设定的新动画，并将之命名为《艾瓦由》&lt;/strong&gt;。看到《Iwájú》的第一眼，你或许马上就被这个充满鲜艳色彩、飞行汽车、以及迷人的另类生物的世界所吸引。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1314759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [暴力测试：JerryRigEverything又对三星Galaxy Z Flip4下手了](https://www.cnbeta.com/articles/tech/1314757.htm) | Sat Sep 10 2022 9:18 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在上月对 Galaxy Z Fold4 折叠屏新机展开了暴力测试之后，&lt;strong&gt;JerryRigEverything 现又分享了针对采用翻盖式设计的 Galaxy Z Flip4 折叠屏新机的刮擦、烧烤与弯折测试。&lt;/strong&gt;此前 Galaxy Z Fold4 算是通过了该频道的“耐用性测试”考验，即便它没能完全维持在最佳状态。而“小老弟”Galaxy Z Flip4 的表现虽然略逊一筹，但也没有过于脆弱。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [迪士尼在D23博览会上分享《狮子王：木法沙》等诸多新作爆料](https://hot.cnbeta.com/articles/comic/1314755.htm) | Sat Sep 10 2022 8:42 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在周五下午于加利福尼亚州阿纳海姆举办的 D23 博览会期间，迪士尼披露了即将上映的《狮子王：木法沙》动画电影。&lt;/strong&gt; 此外该巨头还分享了《魔法奇缘 2：解除魔法》（Disenchanted）的一支预告片，以及《彼得·潘与温蒂》（Peter Pan &amp;amp; Wendy）等迪士尼或皮克斯工作室的新作里的主角。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1314755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
