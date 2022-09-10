@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Disney+打造《美生中国人》 吴彦祖演美猴王、杨紫琼演观音](https://hot.cnbeta.com/articles/movie/1314789.htm) | Sat Sep 10 2022 1:54 PM 
+- 🕯 [iPhone 14 Pro型号支持改进的L1、L5双频GPS定位精度](https://www.cnbeta.com/articles/tech/1314803.htm) | Sat Sep 10 2022 4:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Disney+打造华裔主题剧集《美生中国人》（American Born Chinese），首曝迪士尼D23展会会场海报——吴彦祖扮演的美猴王、杨紫琼扮演的观音、本·王扮演的王谨，以及刘敬扮演的交换生魏琛率先亮相。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据苹果公司为这些设备提供的技术规格，新的iPhone 14 Pro和iPhone 14 Pro Max具有双频GPS支持，可以进行更准确的位置跟踪，值得一提的是，新的Apple Watch Ultra也支持该功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [一场科目三考试，怎么就成了B站鬼畜区的狂欢？](https://hot.cnbeta.com/articles/funny/1314787.htm) | Sat Sep 10 2022 1:54 PM 
+- 💼 [同时治疗癌症和心脏疾病：癌症转移的关键分子被发现](https://www.cnbeta.com/articles/science/1314801.htm) | Sat Sep 10 2022 4:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;请听题。假如你是李强，今天是你的大日子。三个月前，在充完“驾考app”刷题会员后，你四平八稳地通过了“科目一”，又在几次倒车入库失败后，勉勉强强地补考通过了“科目二”。现在，你距离成为一名“文明、安全、高素质”的机动车驾驶员，只剩下最后一道测试。那也将是你人生的一次重大考验——在碳基教练和硅基教练的联合监考下，进行人生第一次合法的“无证驾驶”，通过“科目三”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1314787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项新的研究发现了动脉粥样硬化和癌症转移的一个共同机制。癌症转移的一个关键分子已被确定为同时参与心血管疾病的分子，这表明同时治疗这两种疾病是可行的治疗策略。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [神舟十四号航天员在太空吃莲蓉馅月饼过中秋](https://www.cnbeta.com/articles/science/1314785.htm) | Sat Sep 10 2022 1:27 PM 
+- 💂 [跟随Landsat 8观察中国最大的淡水湖：鄱阳湖的低水位](https://www.cnbeta.com/articles/science/1314799.htm) | Sat Sep 10 2022 4:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这个中秋节，你是怎么过的？吃月饼没，赏月了吗？在节前，载人航天小喇叭发出问答，希望大家猜猜神州十四号乘组在太空中过中秋，会吃什么馅的月饼？给出的两个答案分别是豆沙和莲蓉，尽管多数网友投给了豆沙，但最终揭晓的答案其实是莲蓉馅，官方还晒出了太空月饼的开袋视频，网友们纷纷表示很想尝尝看。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国最大的淡水湖正因长时间的高温和干旱而干涸。在冬季和夏季之间，中国江西省的鄱阳湖在湖面面积规模上经常出现波动。在冬季，湖的水位通常很低。然后，夏季的雨水导致这个中国最大的淡水湖随着长江水的流入而膨胀。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [今天是《战地》系列20周年 首款作品2002年问世](https://hot.cnbeta.com/articles/game/1314783.htm) | Sat Sep 10 2022 1:27 PM 
+- 🚀 [直播间中6888元手机收到模型：商家称是盲盒 不一定有真手机](https://www.cnbeta.com/articles/tech/1314797.htm) | Sat Sep 10 2022 4:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《战地》系列第一款游戏《战地1942》于2002年9月10日在北美正式推出，今天也是整个《战地》系列20周年纪念日。《战地1942》是一款背景在第二次世界大战的第一人称射击游戏，由瑞典开发商Digital Illusions CE开发，并由美国艺电于2002年发布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;短视频平台直播购物早已不是一件新鲜事，一些商家为了吸引观众、留住用户，会推出各种活动，比如“秒杀商品”“福袋免费抽手机”等等。近日，&lt;strong&gt;山西晋中的刘先生收到了自己在直播间抽中的手机福袋，结果发现是模型机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国产掌机AYANEO GEEK官宣：采用锐龙7 6800U 售价4399元](https://www.cnbeta.com/articles/tech/1314781.htm) | Sat Sep 10 2022 1:26 PM 
+- 🎊 [40秒看中秋明月升起全程 明晚上演木星合月天象](https://www.cnbeta.com/articles/tech/1314795.htm) | Sat Sep 10 2022 4:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为AMD新一代低功耗移动平台的旗舰，锐龙7 6800U意外成了游戏掌机的新宠，AYANEO 2、AOKZOE K1、GPD WIN Max 2三款国产掌机不约而同地都用了它。现在，AYANEO又宣布了一款同样基于锐龙7 6800U的全新掌机产品，命名为“AYANEO GEEK”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;天涯共此时。千里共婵媛。2022年9月10日晚，中秋限量满月上线，各地纷纷上演皓月美景。&lt;strong&gt;今年恰逢“十五的月亮十五圆”，亮度又是8年来最高，只要天气晴朗，即可欣赏到这轮又圆又亮的中秋满月。&lt;/strong&gt;在山城重庆，有摄影师用延时摄影拍下了一轮圆月冉冉升起，浓缩在40秒内，一起来欣赏！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
