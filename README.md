@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [米老鼠唐老鸭再度携手 《迪士尼：幻影岛》公布](https://hot.cnbeta.com/articles/comic/1314753.htm) | Sat Sep 10 2022 8:23 AM 
+- 🕯 [迪士尼在D23博览会上分享《狮子王：木法沙》等诸多新作爆料](https://hot.cnbeta.com/articles/comic/1314755.htm) | Sat Sep 10 2022 8:42 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;在周五下午于加利福尼亚州阿纳海姆举办的 D23 博览会期间，迪士尼披露了即将上映的《狮子王：木法沙》动画电影。&lt;/strong&gt; 此外该巨头还分享了《魔法奇缘 2：解除魔法》（Disenchanted）的一支预告片，以及《彼得·潘与温蒂》（Peter Pan &amp;amp; Wendy）等迪士尼或皮克斯工作室的新作里的主角。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1314755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [米老鼠唐老鸭再度携手 《迪士尼：幻影岛》公布](https://hot.cnbeta.com/articles/comic/1314753.htm) | Sat Sep 10 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在迪士尼D23博览会期间，厂商正式公布由Dlala工作室开发的NS独占新作《迪士尼：幻影岛》（Disney: Illusion Island）。在这款游戏中，米老鼠和他的朋友们即将回归游戏世界。Dlala工作室是2020年《忍者蛙》的开发商。《迪士尼：幻影岛》虽然没有公布正式发售日期，但预计将在2023年内发售。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1314753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [大批网友反映索尼PS5服务器今日崩溃：所有游戏都进不去](https://hot.cnbeta.com/articles/game/1314751.htm) | Sat Sep 10 2022 8:22 AM 
+- 💂 [大批网友反映索尼PS5服务器今日崩溃：所有游戏都进不去](https://hot.cnbeta.com/articles/game/1314751.htm) | Sat Sep 10 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天中午开始，大量网友在微博、贴吧等平台反映，自己的索尼PS5无法进入游戏，疑似服务器崩了。&lt;strong&gt;几乎所有人都会弹出提示称：“无法使用此内容，无法连接到服务器以确认授权”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Android 13 QPR1代码揭示了Pixel 6 Pro上的面容解锁功能](https://www.cnbeta.com/articles/tech/1314749.htm) | Sat Sep 10 2022 7:52 AM 
+- 🚀 [Android 13 QPR1代码揭示了Pixel 6 Pro上的面容解锁功能](https://www.cnbeta.com/articles/tech/1314749.htm) | Sat Sep 10 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;早在 4 月，9to5Google 就报道过 Pixel 6 Pro 或迎来面容解锁功能，并对该功能的持续开发做了详细报道。&lt;strong&gt;现在，Android 13 QPR1 终于揭示了 Pixel Face Unlock 最终体验的神秘面纱。&lt;/strong&gt;不过需要指出的是，即使通过对 Google 上传到 Play 商店的新版 App 进行了反编译，也不意味着相关功能就一定、或很快在正式版本中提供。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [民调显示韩国儿童智能手机成瘾问题严重](https://www.cnbeta.com/articles/tech/1314747.htm) | Sat Sep 10 2022 7:50 AM 
+- 🎊 [民调显示韩国儿童智能手机成瘾问题严重](https://www.cnbeta.com/articles/tech/1314747.htm) | Sat Sep 10 2022 7:50 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;韩国儿童保育与教育研究所10日发布的民意调查结果显示，韩国多数父母在家中照顾子女时，让子女严重依赖智能手机或平板电脑。据韩联社报道，这项调查去年8月启动，针对1500名1岁至7岁儿童的父母。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [学华为，理想被IPD送进ICU？](https://www.cnbeta.com/articles/tech/1314745.htm) | Sat Sep 10 2022 7:46 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;风水轮流转，理想的好日子似乎要暂告一段落了。&lt;/strong&gt;2019年年底，蔚来创始人李斌去香港出差，恰好小鹏汽车董事长何小鹏也在香港，两个掉进造车大坑的男人相约在海边，一直聊到凌晨。期间李斌说缺钱啊，融不到钱，蔚来像是躺在ICU里，随时可能挂掉。何小鹏说兄弟你别急，我就在ICU门口坐着，说不定下一个挂的就是我。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
