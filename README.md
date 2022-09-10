@@ -590,29 +590,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2022 年 9 月每日分享](https://iui.su/3838/) | Sat Sep 10 2022 8:26 AM 
+- 🌊 [兆懿移动应用运行平台](https://iui.su/3023/) | Sat Sep 10 2022 8:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    视频来源 兆懿官网 兆懿移动应用平台是一个可以让安卓应用运行在Windows 10、Windows 11上的软件，采取开创性的自由拉伸方式，实现应用窗口的非等比例拉伸，弥补传统等比例拉伸存在的画... 
+    </details> 
+
+- 🫣 [2022 年 9 月每日分享](https://iui.su/3838/) | Sat Sep 10 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月10日中高风险疫情查询... 
     </details> 
 
-- 🫣 [中秋+教师节快乐](https://iui.su/3686/) | Fri Sep 09 2022 10:38 AM 
+- 🌜 [中秋+教师节快乐](https://iui.su/3686/) | Fri Sep 09 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
     中秋+教师节快乐 
     </details> 
 
-- 🌜 [Z-Library电子书下载](https://iui.su/380/) | Thu Sep 08 2022 6:27 AM 
+- 🏊 [Z-Library电子书下载](https://iui.su/380/) | Thu Sep 08 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
     Z-Library 是世界上最大的免费在线图书馆，它拥有近亿的电子书和文章。由于版权问题和某些关系，域名国内无法访问，下方是一些可以正确打开Z-Library的方法。Z-Library最新域名自... 
     </details> 
 
-- 🏊 [全网免费音乐搜索汇总](https://iui.su/2217/) | Mon Sep 05 2022 8:06 AM 
+- 🚦 [全网免费音乐搜索汇总](https://iui.su/2217/) | Mon Sep 05 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
     免费音乐搜索下载网站，这里分享的网站均来源网友推荐及搜索引擎免费音乐下载大全搜索歌曲，支持下载 无损/320k/192khttps://thewind.xyz直接搜索歌曲，sq为flac hd为... 
-    </details> 
-
-- 🚦 [TVBox安卓盒子app](https://iui.su/175/) | Sat Sep 03 2022 5:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    之前推荐过的猫影视TV已经宣布停止维护，可用TVBox替代，TVBox集成了猫影视TV的大部分优点，原猫影视TV接口设置可无痛转移TVBoxTVBox下载下载该app更新比较勤，如无重大更新可不... 
     </details> 
 <!-- iui:END -->
 
