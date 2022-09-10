@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NASA小行星撞击航天器DART首次拍摄到其目标](https://www.cnbeta.com/articles/science/1314809.htm) | Sat Sep 10 2022 8:53 PM 
+- 🕯 [英特尔公开Arc独显细节：旗舰A750/A770即将到来](https://www.cnbeta.com/articles/tech/1314817.htm) | Sat Sep 10 2022 11:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;英特尔宣布了适用于桌面电脑的 Arc 独显细节。其中包括 A750 和 A770 型号，这两款型号已经测试数月时间。A750 和 A770 均属于 Arc 7 系列，定位是比 Arc 3 和 Arc 5 更高端的旗舰型号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [PCI-SIG发出警告：12VHPWR接口存在发热起火风险](https://www.cnbeta.com/articles/tech/1314815.htm) | Sat Sep 10 2022 11:04 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;外围组件互连特殊兴趣小组（PCI-SIG），是编写包括 PCIe 在内主要系统互联规范的标准机构。去年，该机构制定批准了一项新标准，旨在预测高性能 GPU 未来功耗：适用于 PCIe 5.0 设备的 12VHPWR 接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [[图]新发现表明鲸鲨成为全球最大的杂食动物](https://www.cnbeta.com/articles/science/1314813.htm) | Sat Sep 10 2022 10:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;海洋生物学家发现，鲸鲨也能以植物为食，这意味着这个著名物种成为世界上最大的杂食动物。&lt;/strong&gt;鲸鲨是滤食性动物，在西澳大利亚的宁格鲁礁，人们早就看到它们食用磷虾。不过，科学家在分析其活体样本时发现鲸鲨啃食了大量的植物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [SpaceX上诉：不能仅因Ookla测速不达标就否定Starlink能力](https://www.cnbeta.com/articles/tech/1314811.htm) | Sat Sep 10 2022 10:31 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;在美国联邦通信委员会（FCC）拒绝向 SpaceX 支付 8.85 亿美元的偏远地区网络补助款之后，后者于本周五宣布提起上诉。&lt;/strong&gt;在申请中，SpaceX 概述了委员会的有线竞争局&lpar;Wireline Competition Bureau，WCB&rpar;忽略了事实，并依靠不正确的互联网速度测试来确定 Starlink 申请的优点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [NASA小行星撞击航天器DART首次拍摄到其目标](https://www.cnbeta.com/articles/science/1314809.htm) | Sat Sep 10 2022 8:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;小卫星Dimorphos正与其较大的小行星同伴Didymos一起在太空中漫步，对即将发生的事情浑然不知。与此同时，NASA的DART航天器正像一只蹲下准备扑击的猫一样盯着Dimorphos。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [苹果因App Store收费问题面临墨西哥反垄断调查](https://www.cnbeta.com/articles/tech/1314807.htm) | Sat Sep 10 2022 8:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在一位前电信主管周五对科技巨头提出投诉后，苹果和Google可能面临墨西哥监管机构的又一次反垄断调查。Mony de Swaan Addati周四向墨西哥电信监管机构提交了一份投诉，指责苹果和Google&amp;quot;滥用其应用商店的垄断地位，强迫使用自己的支付服务进行应用内支付，从而完全抑制了竞争。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [迪士尼分享《艾瓦由》与《奇异世界》动画背景设定](https://hot.cnbeta.com/articles/comic/1314805.htm) | Sat Sep 10 2022 6:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在加州阿纳海姆举办的 D23 博览会期间，迪士尼不仅分享了系列作品的新预告，还介绍了又一部具有奇异世界观设定的新动画，并将之命名为《艾瓦由》（Iwájú）。看到《艾瓦由》的第一眼，你或许马上就被这个充满鲜艳色彩、飞行汽车、以及迷人的另类生物的世界所吸引。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1314805.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [iPhone 14 Pro型号支持改进的L1、L5双频GPS定位精度](https://www.cnbeta.com/articles/tech/1314803.htm) | Sat Sep 10 2022 4:24 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据苹果公司为这些设备提供的技术规格，新的iPhone 14 Pro和iPhone 14 Pro Max具有双频GPS支持，可以进行更准确的位置跟踪，值得一提的是，新的Apple Watch Ultra也支持该功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [同时治疗癌症和心脏疾病：癌症转移的关键分子被发现](https://www.cnbeta.com/articles/science/1314801.htm) | Sat Sep 10 2022 4:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项新的研究发现了动脉粥样硬化和癌症转移的一个共同机制。癌症转移的一个关键分子已被确定为同时参与心血管疾病的分子，这表明同时治疗这两种疾病是可行的治疗策略。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
