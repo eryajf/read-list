@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [2022中秋档总票房破亿：三部国产影片领跑](https://hot.cnbeta.com/articles/movie/1314767.htm) | Sat Sep 10 2022 11:08 AM 
+- 🕯 [剧版《国家宝藏》发海报与剧照 第一季10集](https://hot.cnbeta.com/articles/movie/1314775.htm) | Sat Sep 10 2022 11:28 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;剧版《国家宝藏》在D23发布海报和剧照，该剧即将在Disney+上线，全名为《国家宝藏：历史边缘》，是电影系列的扩展，由原影版制片人杰瑞·布鲁克海默和编剧打造，米拉·奈尔&lpar;《名利场》&rpar;执导，第一季10集。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [NASA团队更换SLS登月火箭的密封圈 准备进行燃料箱测试](https://www.cnbeta.com/articles/science/1314773.htm) | Sat Sep 10 2022 11:26 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在首先断开液态氢燃料供给管线的地面和火箭侧接口板（称为快速断开）之后，NASA团队已经更换了太空发射系统（SLS）火箭核心级上与9月3日阿特米斯一号发射尝试中检测到的液态氢泄漏有关的密封件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [“随机噪声”能发掘学习潜力？](https://www.cnbeta.com/articles/science/1314771.htm) | Sat Sep 10 2022 11:23 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据美国《科学日报》网站9月5日报道，尽管许多人可能会设法去一个安静的场所学习，但“噪声”可能在帮助一些人提高学习潜能方面发挥着关键作用。澳大利亚伊迪斯考恩大学的研究人员研究了“经颅随机噪声刺激”（tRNS）在各种环境下的效果，发现该技术可能有许多用途。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [韩媒：美国力推Chip 4联盟实为削弱三星、台积电对英特尔威胁](https://www.cnbeta.com/articles/tech/1314769.htm) | Sat Sep 10 2022 11:21 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;韩媒《韩国时报》日前分析称，美国力推的Chip 4联盟表面目的是阻碍中国大陆半导体产业发展，但更深层意图则是保护其本国巨头英特尔。该报指出，英特尔目前正大力布局芯片代工业务，该领域台积电与三星处于领先梯队，英特尔所能提供的代工工艺平台远远落后于前两者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [2022中秋档总票房破亿：三部国产影片领跑](https://hot.cnbeta.com/articles/movie/1314767.htm) | Sat Sep 10 2022 11:08 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;这个中秋节，你是怎么过的呢？9月10日下午消息，据灯塔专业版，截至9月10日17时，2022中秋节单日票房突破1亿。&lt;strong&gt;影片方面，《哥，你好》、《新神榜：杨戬》、《世间有她》分列中秋节票房榜前三位。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [Fedora Linux 37 Beta将于下周准时发布 ISO镜像已经上传](https://www.cnbeta.com/articles/tech/1314765.htm) | Sat Sep 10 2022 10:59 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;无论是开发/Beta快照还是稳定版，Fedora Linux的发布都以经常出现延误而闻名。Fedora的目标是要提供一个前沿但可靠的Linux发行版，所以经常会因为阻挡性错误而延迟，因此在这里或那里延迟一两个星期并不是什么稀罕事。&lt;strong&gt;虽然他们一直在提供比过去更及时的发布，但对于Fedora Linux 37 Beta，他们已经实现了准时发布的“壮举&lt;strong&gt;”&lt;/strong&gt;。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [iPhone 14 Pro到货已排到10月下旬 iPhone 13 Pro系列开始停产](https://www.cnbeta.com/articles/tech/1314763.htm) | Sat Sep 10 2022 9:52 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，iPhone 14系列新机已经正式开启预定了，&lt;strong&gt;Pro系列市场火爆，开售火速全平台售罄，目前官网下单已经排到十月下旬发货了。&lt;/strong&gt;而标准版却鲜有人问津，销售情况与Pro版差距巨大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [15亿美元收购Wyre的交易不幸夭折 Bolt将与之维持独立合作](https://www.cnbeta.com/articles/tech/1314761.htm) | Sat Sep 10 2022 9:52 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;尽管 4 月份统一以约 15 亿美元收购加密支付公司 Wyre，但一键结账公司 Bolt 还是未能顺利完成这笔交易。&lt;/strong&gt;当时这项公告被视作加密行业的最大一笔非“SPAC”收购，可惜在潮水退去、泡沫散尽之后，许多人才想到这笔交易可能被高估了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [迪士尼分享《艾瓦由》与《奇异世界》动画的背景设定](https://hot.cnbeta.com/articles/comic/1314759.htm) | Sat Sep 10 2022 9:35 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在加州阿纳海姆举办的 D23 博览会期间，&lt;strong&gt;迪士尼不仅分享了系列作品的新预告，还介绍了又一部具有奇异世界观设定的新动画，并将之命名为《艾瓦由》&lt;/strong&gt;。看到《Iwájú》的第一眼，你或许马上就被这个充满鲜艳色彩、飞行汽车、以及迷人的另类生物的世界所吸引。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1314759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
