@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [31000年前的遗骸，最古老的截肢手术](http://jandan.net/p/111316) | Fri Sep 09 2022 1:42 PM 
+- 🚀 [都知道白噪声，现在TikTok上很火的褐噪声，又是什么东西](http://jandan.net/p/111283) | Sat Sep 10 2022 3:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    今天是中秋节，给刚打开电梯的朋友拜个早年 
+    </details> 
+
+- 🙉 [今日好价 0910](http://jandan.net/p/111327) | Sat Sep 10 2022 3:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    22高清大头 
+    </details> 
+
+- 🎉 [31000年前的遗骸，最古老的截肢手术](http://jandan.net/p/111316) | Fri Sep 09 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
     值得注意的是，那里愈合得很好，足以让遗骨的主人再活六到九年。 
     </details> 
 
-- 🙉 [为什么卡西尼号土星探测器能拍到木星轨道上的瑰丽风光？](http://jandan.net/p/111305) | Fri Sep 09 2022 12:21 PM 
+- 🐲 [为什么卡西尼号土星探测器能拍到木星轨道上的瑰丽风光？](http://jandan.net/p/111305) | Fri Sep 09 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
     zsbd 
     </details> 
 
-- 🎉 [新冠病毒在变弱吗？科学家不这么认为](http://jandan.net/p/111324) | Fri Sep 09 2022 9:00 AM 
+-  [新冠病毒在变弱吗？科学家不这么认为](http://jandan.net/p/111324) | Fri Sep 09 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
     有专家认为新冠会伴随我们一辈子 
-    </details> 
-
-- 🐲 [亲爱的欧盟政策制定者, 请睁开双眼看一下自由职业者们](http://jandan.net/p/111323) | Fri Sep 09 2022 7:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    某项新规程的提议带来了危险的交易 
-    </details> 
-
--  [法国税务机关做梦都会笑：引进AI试点运行就发现了20000 多未申报私人泳池](http://jandan.net/p/111242) | Fri Sep 09 2022 3:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    那些业主少报了大约 1000 万欧元&lpar;850 万英镑&rpar;的收入 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
