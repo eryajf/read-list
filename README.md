@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [闲着没事，来研究下Immutable](https://juejin.cn/post/7141375516732293150) | Fri Sep 09 2022 1:47 PM 
+- 🤗 [前端修罗场，祝您中秋快乐](https://juejin.cn/post/7141560071565082632) | Sat Sep 10 2022 1:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    前端修罗场，祝您中秋节快乐！ 借此机会，前端修罗场要感谢一直支持我们的朋友，伙伴，还有与前端修罗场相遇的大家。 从 2022.5 月开始，前端修罗场正式创立，我们根据当下的趋势和社会环境，目标发展成为 
+    </details> 
+
+- 🎡 [Fabric.js 使用纯色遮挡画布（前景色）](https://juejin.cn/post/7141548864573538318) | Sat Sep 10 2022 12:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    🥇 如果你的项目使用到 fabric.js ，可以直接使用 fabric.js 提供的方法去遮盖画布，用法非常简单。 
+    </details> 
+
+- 🕯 [中秋快乐，快来摇一摇，摇出你的本命月饼吧](https://juejin.cn/post/7141431816321237023) | Fri Sep 09 2022 5:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    中秋节到了，吃月饼必不可少，为了让大家能够更愉快的过中秋，我花了一晚的功夫开发了一个摇一摇的页面，通过页面摇一摇，可以摇出各种各样的月饼，快来试试你的本命月饼是什么吧。 
+    </details> 
+
+- 🚀 [SVG奇淫巧技&lpar;五&rpar;：你只管绘制图案，其余交给&lt;marker&gt;就好](https://juejin.cn/post/7141376633465733150) | Fri Sep 09 2022 1:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    很早之前做过一个项目，是用SVG去实现节点之间的关系，并且连线上要有箭头表示数据的走向，当时对于箭头的坐标计算着实费了一番功夫。 
+    </details> 
+
+- 💪 [闲着没事，来研究下Immutable](https://juejin.cn/post/7141375516732293150) | Fri Sep 09 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
     一、是什么 Immutable，不可改变的，在计算机中，即指一旦创建，就不能再被更改的数据 对 Immutable对象的任何修改或添加删除操作都会返回一个新的 Immutable对象 Immutabl 
-    </details> 
-
-- 🎡 [记一次服务日志乱码异常的排查过程](https://juejin.cn/post/7141374842019774495) | Fri Sep 09 2022 1:42 PM 
-    <details><summary>展开描述 ...</summary> 
-    记一次服务日志乱码异常的排查过程， 某天工作中，突然接收到了用户对于内部测试环境上java进程服务日志乱码异常的反馈，经过查看相关文件，发现中文字体无法正常显示，严重影响到了用户的日常工作。 
-    </details> 
-
-- 🕯 [为什么要招聘有经验的人？](https://juejin.cn/post/7141361769770909710) | Fri Sep 09 2022 12:57 PM 
-    <details><summary>展开描述 ...</summary> 
-    周末带娃出去玩，回来的时候路过一家新开的水果店买东西，因为是新店，所以店里在搞促销活动。进去后发现一个很糟糕的问题。店员对收银系统不熟悉，排队的人要好几分钟才能结算一个，很多人等着不耐烦就走了。 
-    </details> 
-
-- 🚀 [学完框架后的反思—为什么要使用框架？](https://juejin.cn/post/7141354088909766693) | Fri Sep 09 2022 12:23 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习前端也有一定的时间了，最近在网上看到了一个问题让我反思了很久——为什么要使用前端框架？ 我发现自己当初学习框架时并没有想那么多，只是看中了其在业界企业的应用，大部分公司开发页面基本上都是使用框架进 
-    </details> 
-
-- 💪 [Android开发基础知识](https://juejin.cn/post/7141333670945619998) | Fri Sep 09 2022 11:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    应用基础知识 介绍 您可以使用 Kotlin、Java 和 C++ 语言编写 Android 应用。Android SDK 工具会将您的代码连同任何数据和资源文件编译成一个 APK 
     </details> 
 <!-- juejin:END -->
 ### 少数派
