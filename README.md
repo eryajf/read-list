@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《迪士尼速度风暴》公布新角色 怪兽电力公司加盟](https://hot.cnbeta.com/articles/game/1314693.htm) | Sat Sep 10 2022 4:38 AM 
+- 🕯 [拜登出席英特尔在俄亥俄州的200亿美元半导体工厂动工仪式](https://www.cnbeta.com/articles/tech/1314699.htm) | Sat Sep 10 2022 5:11 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;针对美国通过的《芯片与科学法案》，以英特尔为代表的本土企业已用实际行动表达了支持。&lt;strong&gt;而在英特尔 200 亿美元的半导体工厂的奠基仪式上，现总统也发表了一番讲话。&lt;/strong&gt;据悉，拜登一行于本周五抵达了俄亥俄州。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《宝可梦GO》开发商AR新作《漫威英雄世界》公布](https://hot.cnbeta.com/articles/game/1314697.htm) | Sat Sep 10 2022 5:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《精灵宝可梦GO》开发商Niantic再度推出重磅品牌游戏《漫威英雄世界》（Marvel World of Heroes）。在官方预告片中，厂商介绍称：“《漫威英雄世界》是Niantic最新AR游戏作品，将把经典的漫威宇宙带入现实世界。”但在预告片中，关于游戏机制的介绍很少，而且展示部分也带有“并非实际游戏内容”的澄清说明，所以这款游戏显然不能给玩家提供超能力。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [三星连发多条推文 调侃苹果iPhone 14“创新乏力”](https://www.cnbeta.com/articles/tech/1314695.htm) | Sat Sep 10 2022 4:40 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;北京时间 9 月 8 日凌晨召开的苹果秋季新品发布会，让不少人对“创新乏力”的 iPhone 14 系列智能机感到有些失望。&lt;strong&gt;作为这家库比蒂诺科技巨头的老牌竞争对手、兼 Android 阵营的领军厂商，三星显然也不会轻易放过这难得的嘲讽时机。&lt;/strong&gt;在今日的一系列推文中，Samsung Mobiles US 官方 Twitter 账号，就连发了多条充满调侃意味的推文。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《迪士尼速度风暴》公布新角色 怪兽电力公司加盟](https://hot.cnbeta.com/articles/game/1314693.htm) | Sat Sep 10 2022 4:38 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;免费游戏《迪士尼速度风暴》的角色和赛道逐渐公布。在D23的迪士尼漫威游戏发布会上，我们看到这款游戏中的“怪兽电力公司”角色和主题赛道。可惜的是，本作仍然没有公布正式上市日期，目前仍然是“即将上市”的状态。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [直播间“收割”中东土豪](https://www.cnbeta.com/articles/tech/1314691.htm) | Sat Sep 10 2022 4:13 AM 
+- 🎊 [直播间“收割”中东土豪](https://www.cnbeta.com/articles/tech/1314691.htm) | Sat Sep 10 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;晚上七点，叙利亚首都大马士革天还未黑，但27岁的Syriana已经画上精致妆容，准备开始今晚的直播。作为一名有两个年幼孩子的单亲妈妈，Syriana早已习惯做主播的日子。而就在两年前，她还像一些叙利亚人一样，生活在贫困中，营养不良长期折磨着她和两个不到五岁的孩子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [iPhone 14标准版跑分出炉：确认全系6GB内存](https://www.cnbeta.com/articles/tech/1314689.htm) | Sat Sep 10 2022 4:13 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在iPhone 14发布当天，iPhone 14 Pro的跑分就已经被海外大神曝光，可以看到A16其实就是一款“挤牙膏”芯片，对比老款提升非常有限。不过，大家一直非常期待iPhone 14标准版两款新机的跑分信息，并不是想要看A15成绩，而是想确认内存大小。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [iPhone 14系列预售火爆 业内人士称不是苹果太强而是安卓太弱](https://www.cnbeta.com/articles/tech/1314687.htm) | Sat Sep 10 2022 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨晚（9月9日），iPhone 14系列新机在各大渠道正式开启预订。正如此前所预想的那样，包括中国官网在内，预订导致APP崩溃、结算错误、网页挤爆等情况再度出现，可见这次iPhone 14系列热度依然不减。其中iPhone 14 Pro/Pro Max最为火爆，目前下单送货时间已经排到10月中下旬。9月16日的第一批现货，黄牛们更是加价到千元不等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《使命召唤19：现代战争2》新预告 再秀战役模式画质](https://hot.cnbeta.com/articles/game/1314685.htm) | Sat Sep 10 2022 3:37 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;《使命召唤》官方频道今日公布《使命召唤19：现代战争2》的超短战役模式预告片。这是动视公布的第二段《使命召唤19：现代战争2》战役抢先体验预告片。&lt;/strong&gt;这段视频展示了部分CG画面和震撼实机视效，展示了新作的武装直升机和空袭场景。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
