@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [剧版《国家宝藏》发海报与剧照 第一季10集](https://hot.cnbeta.com/articles/movie/1314775.htm) | Sat Sep 10 2022 11:28 AM 
+- 🕯 [神舟十四号航天员在太空吃莲蓉馅月饼过中秋](https://www.cnbeta.com/articles/science/1314785.htm) | Sat Sep 10 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;剧版《国家宝藏》在D23发布海报和剧照，该剧即将在Disney+上线，全名为《国家宝藏：历史边缘》，是电影系列的扩展，由原影版制片人杰瑞·布鲁克海默和编剧打造，米拉·奈尔&lpar;《名利场》&rpar;执导，第一季10集。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这个中秋节，你是怎么过的？吃月饼没，赏月了吗？在节前，载人航天小喇叭发出问答，希望大家猜猜神州十四号乘组在太空中过中秋，会吃什么馅的月饼？给出的两个答案分别是豆沙和莲蓉，尽管多数网友投给了豆沙，但最终揭晓的答案其实是莲蓉馅，官方还晒出了太空月饼的开袋视频，网友们纷纷表示很想尝尝看。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NASA团队更换SLS登月火箭的密封圈 准备进行燃料箱测试](https://www.cnbeta.com/articles/science/1314773.htm) | Sat Sep 10 2022 11:26 AM 
+- 💼 [今天是《战地》系列20周年 首款作品2002年问世](https://hot.cnbeta.com/articles/game/1314783.htm) | Sat Sep 10 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在首先断开液态氢燃料供给管线的地面和火箭侧接口板（称为快速断开）之后，NASA团队已经更换了太空发射系统（SLS）火箭核心级上与9月3日阿特米斯一号发射尝试中检测到的液态氢泄漏有关的密封件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《战地》系列第一款游戏《战地1942》于2002年9月10日在北美正式推出，今天也是整个《战地》系列20周年纪念日。《战地1942》是一款背景在第二次世界大战的第一人称射击游戏，由瑞典开发商Digital Illusions CE开发，并由美国艺电于2002年发布。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“随机噪声”能发掘学习潜力？](https://www.cnbeta.com/articles/science/1314771.htm) | Sat Sep 10 2022 11:23 AM 
+- 💂 [国产掌机AYANEO GEEK官宣：采用锐龙7 6800U 售价4399元](https://www.cnbeta.com/articles/tech/1314781.htm) | Sat Sep 10 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国《科学日报》网站9月5日报道，尽管许多人可能会设法去一个安静的场所学习，但“噪声”可能在帮助一些人提高学习潜能方面发挥着关键作用。澳大利亚伊迪斯考恩大学的研究人员研究了“经颅随机噪声刺激”（tRNS）在各种环境下的效果，发现该技术可能有许多用途。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为AMD新一代低功耗移动平台的旗舰，锐龙7 6800U意外成了游戏掌机的新宠，AYANEO 2、AOKZOE K1、GPD WIN Max 2三款国产掌机不约而同地都用了它。现在，AYANEO又宣布了一款同样基于锐龙7 6800U的全新掌机产品，命名为“AYANEO GEEK”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [韩媒：美国力推Chip 4联盟实为削弱三星、台积电对英特尔威胁](https://www.cnbeta.com/articles/tech/1314769.htm) | Sat Sep 10 2022 11:21 AM 
+- 🚀 [iPhone 13 Pro系列停产 业内人士：聪明的生命周期管理方式](https://www.cnbeta.com/articles/tech/1314779.htm) | Sat Sep 10 2022 1:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;韩媒《韩国时报》日前分析称，美国力推的Chip 4联盟表面目的是阻碍中国大陆半导体产业发展，但更深层意图则是保护其本国巨头英特尔。该报指出，英特尔目前正大力布局芯片代工业务，该领域台积电与三星处于领先梯队，英特尔所能提供的代工工艺平台远远落后于前两者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月10日消息，据Tom&amp;#39;s Guide报道，随着iPhone 14系列发布，苹果正按预期缩减产品线，&lt;strong&gt;已不再提供iPhone 11、iPhone 12 mini、iPhone 13 Pro和iPhone 13 Pro Max。&lt;/strong&gt;上述型号iPhone均已正式停产，但还会继续销售到缺货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [2022中秋档总票房破亿：三部国产影片领跑](https://hot.cnbeta.com/articles/movie/1314767.htm) | Sat Sep 10 2022 11:08 AM 
+- 🎊 [为了保密iPhone 14 Pro的灵动岛 苹果注册商标专程去往牙买加](https://www.cnbeta.com/articles/tech/1314777.htm) | Sat Sep 10 2022 1:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这个中秋节，你是怎么过的呢？9月10日下午消息，据灯塔专业版，截至9月10日17时，2022中秋节单日票房突破1亿。&lt;strong&gt;影片方面，《哥，你好》、《新神榜：杨戬》、《世间有她》分列中秋节票房榜前三位。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;刚刚发布的iPhone 14系列中，Pro机型的“灵动岛”设计惊艳了四方，这一全新的软硬件交互体验，无疑让人眼前一亮。而且，苹果也通过“灵动岛（Dynamic Island）”这样悦耳的名字取代了大家习惯的“药丸屏”，颇有创意。在发布前，“灵动岛”完全一点风声也没有，不得不佩服苹果的保密工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
