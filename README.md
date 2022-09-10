@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Combiien - 跟踪您的习惯、日常活动、目标、费用等](https://xinquji.com/posts/179395?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:30 AM 
+- 👀 [CodeLet - 快速创建引人注目的代码片段图像](https://xinquji.com/posts/179412?utm_campaign=xinquji-rss) | Sun Sep 11 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     跟踪您的习惯、日常活动、目标、费用等  
+     快速创建引人注目的代码片段图像  
     </details> 
 
-- 🥷 [Superlines - 自动测试和编写 Google 广告](https://xinquji.com/posts/179394?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:29 AM 
+- 🥷 [Synapse - 区块链图集](https://xinquji.com/posts/179411?utm_campaign=xinquji-rss) | Sun Sep 11 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     自动测试和编写 Google 广告  
+     区块链图集  
     </details> 
 
-- 💼 [SoundMind - 为您的心理健康需求创建视听疗法](https://xinquji.com/posts/179393?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:28 AM 
+- 💼 [Smart Pill ID - 用相机识别药丸](https://xinquji.com/posts/179410?utm_campaign=xinquji-rss) | Sun Sep 11 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     为您的心理健康需求创建视听疗法  
+     用相机识别药丸  
     </details> 
 
-- 🦅 [WorkHub - 参与度、效率和连通性的混合工作场所](https://xinquji.com/posts/179392?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:27 AM 
+- 🦅 [InSave - 用于下载 Instagram 图像的 Chrome 扩展按钮](https://xinquji.com/posts/179409?utm_campaign=xinquji-rss) | Sun Sep 11 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     参与度、效率和连通性的混合工作场所  
+     用于下载 Instagram 图像的 Chrome 扩展按钮  
     </details> 
 
-- 😺 [Stoic Mornings - 基于斯多葛主义原则的早晨例行公事以抓住这一天](https://xinquji.com/posts/179391?utm_campaign=xinquji-rss) | Sat Sep 10 2022 6:25 AM 
+- 😺 [GitMails - 重要 GitHub 组织事件的即时通知](https://xinquji.com/posts/179408?utm_campaign=xinquji-rss) | Sun Sep 11 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     基于斯多葛主义原则的早晨例行公事以抓住这一天  
+     重要 GitHub 组织事件的即时通知  
     </details> 
 <!-- xinquji:END -->
