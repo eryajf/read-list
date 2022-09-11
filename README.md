@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [苹果 iPhone 14、新 Apple Watch、新 AirPods 发布会五分钟无废话版简介](http://www.mac52ipod.cn/post/apple-2022-iphone-14-event-5-min-briefintroduction.php) | Wed Sep 07 2022 6:50 PM 
+- 👨‍🏫 [苹果 iPhone、iPad 复制、剪切、粘贴的操作手势](http://www.mac52ipod.cn/post/apple-ipad-iphone-copy-cut-paste-gesture.php) | Sun Sep 11 2022 4:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果在 iOS 13 和 iPadOS 13 里引入了这三套手势，选中文字后：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;三指捏合=复制&lt;/li&gt;&lt;li&gt;三指捏合两次=剪切&lt;/li&gt;&lt;li&gt;三指张开=粘贴&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6603&quot; border=&quot;0&quot; alt=&quot;苹果 iPhone、iPad 复制、剪切、粘贴的操作手势&quot; title=&quot;苹果 iPhone、iPad 复制、剪切、粘贴的操作手势&quot; /&gt;&lt;/p&gt;&lt;p&gt;演示效果如上图所示。感觉在 iPad 上面更有用，iPhone 屏幕太小了。我也是平时很少用 iPad，才拖到最近发现这个技巧。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2589%258B%25E5%258A%25BF&quot; rel=&quot;tag&quot;&gt;手势&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [苹果 iPhone 14、新 Apple Watch、新 AirPods 发布会五分钟无废话版简介](http://www.mac52ipod.cn/post/apple-2022-iphone-14-event-5-min-briefintroduction.php) | Wed Sep 07 2022 6:50 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [抖音出了 macOS 客户端](http://www.mac52ipod.cn/post/douyin-for-mac.php) | Mon Sep 05 2022 4:16 AM 
+- 🦏 [抖音出了 macOS 客户端](http://www.mac52ipod.cn/post/douyin-for-mac.php) | Mon Sep 05 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [苹果 iPhone、iPad、Apple Watch、Mac 上规划旅行路线和日程的 App：Tripsy](http://www.mac52ipod.cn/post/apple-ios-macos-iphone-ipad-mac-apple-watch-app-tripsy-travel-p.php) | Sat Sep 03 2022 4:16 AM 
+- 🚀 [苹果 iPhone、iPad、Apple Watch、Mac 上规划旅行路线和日程的 App：Tripsy](http://www.mac52ipod.cn/post/apple-ios-macos-iphone-ipad-mac-apple-watch-app-tripsy-travel-p.php) | Sat Sep 03 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Apple新闻之腾讯打算重构 Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
+- 🏊 [Apple新闻之腾讯打算重构 Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	今天看到很多人在转发这个帖子 &lt;u&gt;&lt;a href=&quot;https://v2ex.com/t/876823&quot; target=&quot;_blank&quot; title=&quot;腾讯内测新版 QQ mac 客户端，似乎是基于 Electron 开发&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://v2ex.com/t/876823&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，好消息是腾讯打算重构 Mac QQ（屎山挖不动了吧），坏消息是不用 Native App 而是基于 Electron 开发。&lt;/p&gt;&lt;p&gt;新版 Mac QQ 已经进入内测阶段，想看截屏的直接去上面链接说的那个帖子吧。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=qq&quot; rel=&quot;tag&quot;&gt;qq&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Mac技巧之一个国内个人开发者制作的翻译软件：Bob - 翻译和 OCR 工具](http://www.mac52ipod.cn/post/apple-mac-macos-translation-app-bob.php) | Wed Aug 31 2022 3:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	我在苹果电脑 macOS 上一直使用 &lt;u&gt;&lt;a href=&quot;/post/apple-mac-macos-translation-app-deepl.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑上的翻译软件：DeepL&quot;&gt;&lt;font color=#0000FF&gt;DeepL&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 和系统自带的词典这俩翻译工具，前几天看到有位中国的开发者制作了个不错的翻译软件：Bob - 翻译和 OCR 工具，帮他推荐一下吧。&lt;/p&gt;&lt;p&gt;Bob 支持直接查询、划词翻译（选中文字后按 option D ）、OCR 识别和识别后翻译。能同时调用 Google、腾讯、百度、有道、阿里、彩云等多个翻译引擎&lt;/p&gt;&lt;p&gt;Bob 在苹果 Mac App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/id1630034110&quot; target=&quot;_blank&quot; title=&quot;Bob - 翻译和 OCR 工具&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/id1630034110&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%25BF%25BB%25E8%25AF%2591&quot; rel=&quot;tag&quot;&gt;翻译&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A4%2596%25E8%25AF%25AD&quot; rel=&quot;tag&quot;&gt;外语&lt;/a&gt;
 
  
     </details> 
