@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [斯皮尔伯格自传式新片《造梦之家》首曝预告 11月23日上映](https://hot.cnbeta.com/articles/movie/1315003.htm) | Sun Sep 11 2022 4:25 PM 
+- 🕯 [测试人员在Windows 11中发现了Windows 10风格搜索框的痕迹](https://www.cnbeta.com/articles/tech/1315011.htm) | Sun Sep 11 2022 4:58 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;微软针对Windows的Insider构建版本往往可以揭示出有趣的即将到来的功能。&lt;strong&gt;最新的Windows 11开发频道Build 25197已经收到了一些新的功能，如平板电脑优化的任务栏，尽管该公司已经承认它目前有点错误。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [科学家发现一个控制寿命的分子开关CHIP](https://www.cnbeta.com/articles/science/1315009.htm) | Sun Sep 11 2022 4:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一个单一的蛋白质可以比在一个群体中更有效地控制衰老信号。根据最近的研究，蛋白质CHIP在单独行动时能比在成对状态下更有效地控制胰岛素受体。在细胞应激情况下，CHIP经常以同源二聚体的形式出现--两个相同的蛋白质的联合体--主要功能是破坏错误折叠的和有缺陷的蛋白质。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [研究发现医疗网络攻击导致病人护理水平下降 死亡率上升](https://www.cnbeta.com/articles/tech/1315007.htm) | Sun Sep 11 2022 4:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;根据Ponemon研究所和Proofpoint今天发布的一项研究，近四分之一遭受勒索软件攻击的医疗机构的病人死亡率上升。这份题为&amp;quot;医疗行业的网络安全问题。对641名医疗IT和安全从业人员进行了调查，发现网络攻击最常见的后果是程序和测试的延迟，导致57%的医疗机构的病人结果不佳，其次是医疗程序的并发症增加。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [NVIDIA GeForce NOW云服务新增6款游戏：阵容达到1400款里程碑](https://www.cnbeta.com/articles/tech/1315005.htm) | Sun Sep 11 2022 4:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天，NVIDIA正式宣布，&lt;strong&gt;旗下的GeForce NOW云游戏服务再次新增6款新游戏的支持，成功达到了1400款游戏的里程碑记录。本次GeForce NOW加入的游戏如下：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [斯皮尔伯格自传式新片《造梦之家》首曝预告 11月23日上映](https://hot.cnbeta.com/articles/movie/1315003.htm) | Sun Sep 11 2022 4:25 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;名导史蒂文·斯皮尔伯格最新冲奥力作！被誉为斯皮尔伯格150分钟的自画像，米歇尔·威廉姆斯、保罗·达诺、塞斯·罗根、加布·拉贝尔、大卫·林奇、珍妮·柏林、茱莉亚·巴特斯、罗宾·巴特利特、姬莉·卡斯滕主演，11月11日北美部分城市上映，11月23日感恩节正式上映！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [美国海军称所有UFO相关视频都是保密的 公开&quot;会损害国家安全&quot;](https://www.cnbeta.com/articles/tech/1315001.htm) | Sun Sep 11 2022 3:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国海军表示，发布任何额外的UFO视频都会&amp;quot;损害国家安全&amp;quot;，并在一个政府透明度网站表示，政府掌握的所有UFO视频都是机密信息。&lt;/strong&gt;在一份《信息自由法》请求的答复中，海军告诉政府透明度网站The Black Vault，任何公开传播新的UFO视频&amp;quot;将损害国家安全，因为它可能为对手提供关于国防部/海军行动、漏洞和/或能力的宝贵信息。这些视频的任何部分都不能被发布。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [一台微波炉，成2纳米芯片制造关键](https://www.cnbeta.com/articles/science/1314999.htm) | Sun Sep 11 2022 3:20 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一个由科学家改装的家用微波炉，正在帮助制造下一代手机、电脑和其他电子产品。这项发明被证明克服了半导体行业面临的一个重大挑战。相关研究结果以“Efficient and stable activation by microwave annealing of nanosheet silicon doped with phosphorus above its solubility limit”为题，发表在科学期刊《应用物理学快报》（Applied Physics Letters）上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [苹果公司的iPhone硬件与服务订阅服务可能仍会在2022年到来](https://www.cnbeta.com/articles/tech/1314997.htm) | Sun Sep 11 2022 3:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果iPhone包月套餐仍在路上，据传结合硬件和服务的Apple One等套餐仍将很快到来。&lt;/strong&gt;硬件订阅将允许客户以月费的方式从苹果公司获得iPhone和其他商品，这在传言中已经持续了一段时间但还没有成为现实。一份报告称，虽然苹果没有在其iPhone 14发布会上介绍这种服务，但它仍可能在未来几周内出现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [广受好评 《利刃出鞘2》首批媒体评分出炉](https://hot.cnbeta.com/articles/movie/1314995.htm) | Sun Sep 11 2022 3:08 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;广受好评！《利刃出鞘2：抽丝剥茧》多伦多电影节首映后收获首批媒体评价：烂番茄开局新鲜度100%，MetaCritic综合评分85分。影评人称赞观感非常欢乐愉悦，和第一部一样有意思，真的就像片名一样“抽丝剥茧”地让剧情层层反转，Rian Johnson以惊人的速度揭晓令人震惊又笑翻的真相。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
