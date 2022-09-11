@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用pnpm搭建monorepo](https://juejin.cn/post/7142046428733374501) | Sun Sep 11 2022 9:10 AM 
+- 🤗 [JavaScript 条件判断使用技巧](https://juejin.cn/post/7142084632312283150) | Sun Sep 11 2022 11:40 AM 
     <details><summary>展开描述 ...</summary> 
-    使用pnpm搭建monorepo，monorepo过程中vetur识别vue项目问题，以及postcss.config.js在monorepo中的问题 
+    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 本文来介绍一下在 JavaScript 中如何编写更简单的条件判断，助你编写更简洁的代码。 
     </details> 
 
-- 🎡 [分享一个简单的GIF图制作方法](https://juejin.cn/post/7142045037952663565) | Sun Sep 11 2022 9:07 AM 
+- 🎡 [BlenderJoy —— Python 常用基础知识](https://juejin.cn/post/7142085193078145060) | Sun Sep 11 2022 11:38 AM 
     <details><summary>展开描述 ...</summary> 
-    前言：   之前写文字一直不会录制gif图，因为前端的一些效果静态图片是无法很好的展示的，但是找了半天，在Mac上一些好的GIF图制作工具竟然还是收费的，真的是让我很头疼。不过偶然在评论区发现一位小伙 
+    使用 Python 编写 Blender 脚本代码需要对 bpy 有一定的基础了解 选定 网格 坐标 命名 修改器 材质 .blend 文件 得到当前版本的 Blender 文件夹路径 遍历列表选中物 
     </details> 
 
-- 🕯 [PS插件图层遍历性能优化](https://juejin.cn/post/7142043438085570573) | Sun Sep 11 2022 8:58 AM 
+- 🕯 [【分享】MySQL安装、配置环境、创建数据库的方法](https://juejin.cn/post/7142084805268602916) | Sun Sep 11 2022 11:38 AM 
     <details><summary>展开描述 ...</summary> 
-    Photoshop 中的 ExtendScript 和浏览器环境下 JavaScript 一样存在 DOM API 用于访问 PS 中的各种对象。图层类似 Web 中的 Element 是最基本的操作 
+    MYSQL版本 MySQL Community Server 社区版本，开源免费，自由下载，但不提供官方技术支持，适用于大多数普通用户。 MySQL Enterprise Edition 企业版本，需 
     </details> 
 
-- 🚀 [盘点一个Pandas处理的基础题目](https://juejin.cn/post/7142039720728625182) | Sun Sep 11 2022 8:42 AM 
+- 🚀 [MySQL 中的权限管理](https://juejin.cn/post/7142083742092230692) | Sun Sep 11 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是皮皮。 一、前言 前几天在Python星耀交流群【dcpeng】问了一个Pandas基础的问题，提问截图如下： 原始代码如下： 这个题目还是有点难度的，感兴趣的话，大家也可以尝试下。 二、 
+    某天，女朋友突然问你：“还有多少私房钱？”这个时候惊恐的你该怎么办呢？直接把余额给她看？显然很不符合我们的性格；如果这个时候能有一个临时的支付宝账号，让她看不到真实的余额该有多好啊! 
     </details> 
 
-- 💪 [Kotlin中 Flow、SharedFlow与StateFlow区别](https://juejin.cn/post/7142038525997744141) | Sun Sep 11 2022 8:37 AM 
+- 💪 [Pytorch自动求导机制](https://juejin.cn/post/7142079042677243912) | Sun Sep 11 2022 11:18 AM 
     <details><summary>展开描述 ...</summary> 
-    kotlin中协程冷热流的区别，以及SharedFlow与StateFlow当中参数各自的使用分析简介。 
+    对pytorch中的自动求导机制自学理解，自动求导机制是pytorch中的核心功能，其原理是利用的链式法则。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
