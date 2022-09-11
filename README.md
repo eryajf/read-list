@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [播主让M1芯片iPad Pro运行Windows 10：性能可达原生90%水平](https://www.cnbeta.com/articles/tech/1314885.htm) | Sun Sep 11 2022 2:04 AM 
+- 🕯 [限时直降200+6期免息 moto X30 Pro优惠热销中](https://www.cnbeta.com/articles/tech/1314915.htm) | Sun Sep 11 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，有博主展示了自己在M1芯片的iPad Pro上，运行Win10系统的成果。在成功运行的同时，该博主还通过Geekbench进行了跑分测试，&lt;strong&gt;得分显示在Win10下iPad Pro的成绩为单核1522分，多核5073分，基本已经能够达到M1 iPad Pro的90%/70%，足以称得上是“全速运行”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为目前颇具性价比的骁龙8+旗舰手机，moto X30 Pro在开学+中秋销售节点，在官方渠道又开启了从9.1~9.15的限时特价，全系直降200元+6期免息，晒单还送4000京豆，限时促销价3499元起&lt;/strong&gt;，是个不错的入手时机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《碧海黑帆》世界背景及实机预告公布 11月8日发售](https://hot.cnbeta.com/articles/game/1314883.htm) | Sun Sep 11 2022 1:47 AM 
+- 💼 [科学发现红景天根可以帮助控制 2 型糖尿病](https://www.cnbeta.com/articles/science/1314913.htm) | Sun Sep 11 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（9月11日），育碧前瞻会公布《碧海黑帆》世界背景及“海上堡垒”实机预告，本作支持4K HDR、光线追踪、不限帧率等，《碧海黑帆》将于11月8日发售，登陆PC（Epic/育碧商城）、PS5，XboxSeries X|S，亚马逊Luna和谷歌Stadia。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;根据加州大学欧文分校的一项研究，红景天（Rhodiola rosea，中药名）的根部可以帮助控制 2 型糖尿病。&lt;/strong&gt;研究发现从红景天根部提取的物质，有望成为帮助控制 2 型糖尿病的一种安全有效选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [漫威谍战片《秘密入侵》发预告 2023年春季播出](https://hot.cnbeta.com/articles/movie/1314881.htm) | Sun Sep 11 2022 1:46 AM 
+- 💂 [祖龙开发MMO手游 《阿凡达：清算》公布开发者预告](https://hot.cnbeta.com/articles/game/1314911.htm) | Sun Sep 11 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;漫威新剧《秘密入侵》发布预告，气氛紧张，暗流涌动，大玩惊悚谍战风。“神盾局长”尼克·弗瑞回到了地球，现在他必须在塔罗斯、玛丽亚·希尔和其他老朋友的帮助下应对斯库鲁人的入侵。剧集将在2023年春季在Disney+首播！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（9月11日），迪士尼漫威发布会公布MMO射击手游《阿凡达：清算》开发者预告，该作由祖龙娱乐开发，腾讯LevelInfinite全球发行，《阿凡达：清算》是一款以阿凡达世界为背景的大型多人角色扮演手机游戏，玩家将可透过随所未有的视角来探索潘朵拉的世界。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《全境封锁》免费游戏与手游新细节公布](https://hot.cnbeta.com/articles/game/1314879.htm) | Sun Sep 11 2022 1:42 AM 
+- 🚀 [《曼达洛人》第三季预告公布 2023年迪士尼+开播](https://hot.cnbeta.com/articles/movie/1314909.htm) | Sun Sep 11 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;育碧今日公布了《全境封锁：腹地》和《全境封锁：曙光》的最新细节。首先，《全境封锁：腹地》是一款生存向游戏，采用的仍然是传统《全境封锁》模式。我们将再次扮演《全境封锁》中的一位探员，但这次我们将要前往一座中西部小镇，保护当地民众免受不断入侵的威胁。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（9月11日），《曼达洛人》剧集第三季最新预告公布，剧集将于 2023 年独家登陆 Disney+，目前《曼达洛人》第四季已确定制作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [育碧与Netflix展开合作 推出《勇敢的心2》和刺客手游](https://hot.cnbeta.com/articles/game/1314877.htm) | Sun Sep 11 2022 1:41 AM 
+- 🎊 [苹果发布会最便宜新品 98元的挂绳缺货了](https://www.cnbeta.com/articles/tech/1314907.htm) | Sun Sep 11 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;育碧今日宣布，将以三款游戏与Netflix展开合作。在今天的发布会上，育碧宣布他们将通过Netflix的服务让三款全新游戏登陆新设备。&lt;/strong&gt;这三款游戏分别是《城堡抢翻天2》、《勇敢的心2》和新《刺客信条》手游。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周的苹果秋季发布会上，苹果发布的一堆新品都不便宜，iPhone 14 Pro系列都奔着万元去了，最便宜的产品是Incase挂绳，售价98元，没想到它都缺货了，现在下单需要等4-6周才能发货。&lt;strong&gt;这根挂绳长23.5厘米，重4.54克，适用于AirPods Pro 2。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
