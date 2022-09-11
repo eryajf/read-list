@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [365天深度学习训练营 | 第8周：猫狗识别](https://juejin.cn/post/7142027350832578597) | Sun Sep 11 2022 7:57 AM 
+- 🤗 [😈换一种方式对工程中的Api进行封装吧（fashion-axios）](https://juejin.cn/post/7142033641747513380) | Sun Sep 11 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-    🏡 我的环境： 语言环境：Python3.6.5 编译器：jupyter lab 深度学习环境：TensorFlow2.4.1 数据集：参加训练营可获取 这篇文章中我放弃了以往的model.fit&lpar;&rpar; 
+    概要 基于axios实现一个可以使用装饰器的网络请求库。 设计动机 像 Angular、Nest 等不论前端框架还是Node.js服务端框架中都是装饰器的重度使用者，尤其是 Nest 中的 Reque 
     </details> 
 
-- 🎡 [Line, Google, Facebook &lpar;Flutter &amp; iOS&rpar; 第三方登录](https://juejin.cn/post/7142017687898554405) | Sun Sep 11 2022 7:17 AM 
+- 🎡 [依赖注入（六）—— Dagger中依赖项在Component间的复用](https://juejin.cn/post/7142031695598845983) | Sun Sep 11 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Line, Google, Facebook &lpar;Flutter &amp; iOS&rpar; 第三方登录接入细节介绍... 
+    Dagger提供了SubComponent与Component依赖两种方式来实现低层模块的Component可以直接复用上层模块的Component中的依赖项。 
     </details> 
 
-- 🕯 [Redis之RedisTemplate的序列化方式深入解读](https://juejin.cn/post/7142017316211916814) | Sun Sep 11 2022 7:16 AM 
+- 🕯 [浅谈策略模式在消息转发场景下的应用](https://juejin.cn/post/7142031522281816077) | Sun Sep 11 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 RedisTemplate 可以看到4个序列化相关的属性 ，主要是用于KEY和VALUE的序列化，比如说我们经常会将POJO对象存储到Redis中，一般情况下会使用JSON方式序列化成字符串存储 
+    背景 在上一篇文章中，我们介绍了如何设计一个消息中心，传送门 👉《如何设计一个消息中心》 有了承载这些消息的地方后，接下来的问题便是，这些消息从哪里来？ 通常对于一个内容型产品来说，在其互动体系中，为 
     </details> 
 
-- 🚀 [图解Kafka的服务端的网络通信模型](https://juejin.cn/post/7142016614882852894) | Sun Sep 11 2022 7:13 AM 
+- 🚀 [环绕倒影加载特效](https://juejin.cn/post/7142030996978794527) | Sun Sep 11 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    Kafka网络模型使用的是什么线程模型？ 什么是ControllerPlane&lpar;控制器面板&rpar;，什么是DataPl 
+    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ html+css实现环绕倒影加载特效 码上掘金展示 https://code.juejin.cn/pen/71420229806404403 
     </details> 
 
-- 💪 [JavaScript一种新的数据结构类型Map](https://juejin.cn/post/7142011944617115679) | Sun Sep 11 2022 6:55 AM 
+- 💪 [记一次文件fd耗尽排查过程](https://juejin.cn/post/7142030971225767949) | Sun Sep 11 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是map 场景描述 [项目中可以使用] 如何快速获取后端返回来的某值 创建Map以及Map的常见方法 获取map对象中所有的key值，并且把它转为为一个数组 Map 结构原生提供三个遍历器生成函数 
+    最近在排查项目中文件fd泄漏经历了非常曲折的过程，并且没有查到与我们业务遇到问题相关的文章，故记录下给后来者遇到类似问题提供一种思路。 1. 问题表现 首先最初看到这个下图这个堆栈以为是内存不够用了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
