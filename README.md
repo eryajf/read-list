@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [😈换一种方式对工程中的Api进行封装吧（fashion-axios）](https://juejin.cn/post/7142033641747513380) | Sun Sep 11 2022 8:18 AM 
+- 🤗 [使用pnpm搭建monorepo](https://juejin.cn/post/7142046428733374501) | Sun Sep 11 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    概要 基于axios实现一个可以使用装饰器的网络请求库。 设计动机 像 Angular、Nest 等不论前端框架还是Node.js服务端框架中都是装饰器的重度使用者，尤其是 Nest 中的 Reque 
+    使用pnpm搭建monorepo，monorepo过程中vetur识别vue项目问题，以及postcss.config.js在monorepo中的问题 
     </details> 
 
-- 🎡 [依赖注入（六）—— Dagger中依赖项在Component间的复用](https://juejin.cn/post/7142031695598845983) | Sun Sep 11 2022 8:14 AM 
+- 🎡 [分享一个简单的GIF图制作方法](https://juejin.cn/post/7142045037952663565) | Sun Sep 11 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    Dagger提供了SubComponent与Component依赖两种方式来实现低层模块的Component可以直接复用上层模块的Component中的依赖项。 
+    前言：   之前写文字一直不会录制gif图，因为前端的一些效果静态图片是无法很好的展示的，但是找了半天，在Mac上一些好的GIF图制作工具竟然还是收费的，真的是让我很头疼。不过偶然在评论区发现一位小伙 
     </details> 
 
-- 🕯 [浅谈策略模式在消息转发场景下的应用](https://juejin.cn/post/7142031522281816077) | Sun Sep 11 2022 8:10 AM 
+- 🕯 [PS插件图层遍历性能优化](https://juejin.cn/post/7142043438085570573) | Sun Sep 11 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 在上一篇文章中，我们介绍了如何设计一个消息中心，传送门 👉《如何设计一个消息中心》 有了承载这些消息的地方后，接下来的问题便是，这些消息从哪里来？ 通常对于一个内容型产品来说，在其互动体系中，为 
+    Photoshop 中的 ExtendScript 和浏览器环境下 JavaScript 一样存在 DOM API 用于访问 PS 中的各种对象。图层类似 Web 中的 Element 是最基本的操作 
     </details> 
 
-- 🚀 [环绕倒影加载特效](https://juejin.cn/post/7142030996978794527) | Sun Sep 11 2022 8:10 AM 
+- 🚀 [盘点一个Pandas处理的基础题目](https://juejin.cn/post/7142039720728625182) | Sun Sep 11 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ html+css实现环绕倒影加载特效 码上掘金展示 https://code.juejin.cn/pen/71420229806404403 
+    大家好，我是皮皮。 一、前言 前几天在Python星耀交流群【dcpeng】问了一个Pandas基础的问题，提问截图如下： 原始代码如下： 这个题目还是有点难度的，感兴趣的话，大家也可以尝试下。 二、 
     </details> 
 
-- 💪 [记一次文件fd耗尽排查过程](https://juejin.cn/post/7142030971225767949) | Sun Sep 11 2022 8:09 AM 
+- 💪 [Kotlin中 Flow、SharedFlow与StateFlow区别](https://juejin.cn/post/7142038525997744141) | Sun Sep 11 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在排查项目中文件fd泄漏经历了非常曲折的过程，并且没有查到与我们业务遇到问题相关的文章，故记录下给后来者遇到类似问题提供一种思路。 1. 问题表现 首先最初看到这个下图这个堆栈以为是内存不够用了。 
+    kotlin中协程冷热流的区别，以及SharedFlow与StateFlow当中参数各自的使用分析简介。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
