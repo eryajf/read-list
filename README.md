@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [剧透警告 数段《暗黑破坏神4》过场泄露](https://hot.cnbeta.com/articles/game/1314951.htm) | Sun Sep 11 2022 7:10 AM 
+- 🕯 [研究发现大气压冷等离子体能抑制冠状病毒侵入细胞 为研发药物打下基础](https://www.cnbeta.com/articles/science/1314955.htm) | Sun Sep 11 2022 7:32 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据新华社悉尼9月11日电 中澳两国研究人员共同参与的一项新研究发现，大气压冷等离子体能够抑制冠状病毒侵入人体细胞，为研发可预防新冠病毒的鼻喷剂等药物打下基础。这一研究由澳大利亚昆士兰理工大学、格里菲斯大学以及中国厦门大学、江南大学、南方医科大学等两国多所科研机构参与，相关论文近日已发表在澳大利亚《诊断治疗学》期刊上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [SpaceX发射有史以来最大的商业通信阵列BlueWalker 3 创下多项纪录](https://www.cnbeta.com/articles/science/1314953.htm) | Sun Sep 11 2022 7:29 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;SpaceX周六晚些时候将一颗新颖的也是巨大的商业通信卫星送入轨道，同时继续为其猎鹰9号火箭创造新的发射记录。猎鹰9号从佛罗里达州肯尼迪航天中心的39A装置发射入轨，搭载了SpaceX的34颗Starlink互联网卫星和BlueWalker 3，这是AST SpaceMobile公司建造的一颗原型卫星，被称为有史以来在太空飞行的最大商业通信阵列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [剧透警告 数段《暗黑破坏神4》过场泄露](https://hot.cnbeta.com/articles/game/1314951.htm) | Sun Sep 11 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日（9月11日），俄语论坛泄露数段《暗黑破坏神4》过场画面，该作将于2023年正式发售，据此前报道，《暗黑破坏神4》PS4/PS5测试版已添加到PlayStation数据库中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《艾尔登法环》幕后配乐宣传片 布达佩斯电影管弦乐队演奏](https://hot.cnbeta.com/articles/movie/1314949.htm) | Sun Sep 11 2022 7:09 AM 
+- 🚀 [《艾尔登法环》幕后配乐宣传片 布达佩斯电影管弦乐队演奏](https://hot.cnbeta.com/articles/movie/1314949.htm) | Sun Sep 11 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，万代公布《艾尔登法环》幕后配乐表演，相关乐曲由布达佩斯电影管弦乐队负责演奏，据悉，《艾尔登法环》官方原声带现已登陆音乐流媒体，感兴趣的玩家可以&lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU02TmhLU2F1Ym1rdjJ4VGtjNFZ0bGYwRjBLUXxBQ3Jtc0tsRjNiYUFnT0dPTU5DNjRxVGNWREYyNVBwSUxKa1Z1T21LV2NfLWxzcnNmOTl4M0JGaFMwSFJLQ0V6RFQ0aHlkU3BmdS1xWXhwUlVQTWJtb0laQzc4cGkzWGdlVExiOXg5UV9uVHdicEF6RnA0TzVDVQ&amp;q=http%3A%2F%2Fspr.ly%2F6058M3VsK&amp;v=S4ZQ-CrnT_k&quot; target=&quot;_blank&quot;&gt;点击此处&lt;/a&gt;进入相关页面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [回顾过去展望未来 《刺客信条》十五周年纪录片发布](https://hot.cnbeta.com/articles/game/1314947.htm) | Sun Sep 11 2022 7:08 AM 
+- 🎊 [回顾过去展望未来 《刺客信条》十五周年纪录片发布](https://hot.cnbeta.com/articles/game/1314947.htm) | Sun Sep 11 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;育碧今日在官方频道发布《刺客信条》“Beyond The Creed”纪录片，以庆祝该系列15周年纪念。在纪录片中，玩家可以看到系列多位开发者出镜，同时还能看到系列中让人耳熟能详的角色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [抖音盒子出师未捷 为什么字节跳动做不好电商？](https://www.cnbeta.com/articles/tech/1314945.htm) | Sun Sep 11 2022 7:07 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;抖音之后，字节跳动再没能造出下一个爆款。9月初，据36氪等多家媒体报道，抖音电商旗下独立潮流电商APP抖音盒子即将停止运营。据知情人士透露，字节内部已经在酝酿大变动，负责抖音盒子的员工将通过活水制度内部转岗至其他项目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [迪士尼CEO拒绝了维权人士勒布关于剥离ESPN的呼吁](https://www.cnbeta.com/articles/tech/1314943.htm) | Sun Sep 11 2022 7:06 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;华特-迪士尼公司首席执行官鲍伯·查佩克（Bob Chapek）表示，他拒绝了维权投资者丹•勒布（Dan Loeb）关于出售或分拆ESPN体育网络的建议。查佩克表示，公司对ESPN的兴趣“说明了它具备的一些潜力”，他相信这基于“在迪士尼公司内部”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
