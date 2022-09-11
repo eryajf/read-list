@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JavaScript一种新的数据结构类型Map](https://juejin.cn/post/7142011944617115679) | Sun Sep 11 2022 6:55 AM 
+- 🤗 [365天深度学习训练营 | 第8周：猫狗识别](https://juejin.cn/post/7142027350832578597) | Sun Sep 11 2022 7:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    🏡 我的环境： 语言环境：Python3.6.5 编译器：jupyter lab 深度学习环境：TensorFlow2.4.1 数据集：参加训练营可获取 这篇文章中我放弃了以往的model.fit&lpar;&rpar; 
+    </details> 
+
+- 🎡 [Line, Google, Facebook &lpar;Flutter &amp; iOS&rpar; 第三方登录](https://juejin.cn/post/7142017687898554405) | Sun Sep 11 2022 7:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    Line, Google, Facebook &lpar;Flutter &amp; iOS&rpar; 第三方登录接入细节介绍... 
+    </details> 
+
+- 🕯 [Redis之RedisTemplate的序列化方式深入解读](https://juejin.cn/post/7142017316211916814) | Sun Sep 11 2022 7:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    概述 RedisTemplate 可以看到4个序列化相关的属性 ，主要是用于KEY和VALUE的序列化，比如说我们经常会将POJO对象存储到Redis中，一般情况下会使用JSON方式序列化成字符串存储 
+    </details> 
+
+- 🚀 [图解Kafka的服务端的网络通信模型](https://juejin.cn/post/7142016614882852894) | Sun Sep 11 2022 7:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    Kafka网络模型使用的是什么线程模型？ 什么是ControllerPlane&lpar;控制器面板&rpar;，什么是DataPl 
+    </details> 
+
+- 💪 [JavaScript一种新的数据结构类型Map](https://juejin.cn/post/7142011944617115679) | Sun Sep 11 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
     什么是map 场景描述 [项目中可以使用] 如何快速获取后端返回来的某值 创建Map以及Map的常见方法 获取map对象中所有的key值，并且把它转为为一个数组 Map 结构原生提供三个遍历器生成函数 
-    </details> 
-
-- 🎡 [「CSS畅想」摆件第二弹~送给我嫣的生日礼物🎁](https://juejin.cn/post/7142011326041161736) | Sun Sep 11 2022 6:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 我通过读书圈认识了嫣嫣，志同道合，灵魂伴侣。嫣嫣生日，我给她准备了一份礼物🎁。纯CSS绘制的摆件，包含蛋糕、祝福、礼物三个不同的图案。 
-    </details> 
-
-- 🕯 [仅使用HTML打开用户的相机，被忽略的Capture属性](https://juejin.cn/post/7142007723255660575) | Sun Sep 11 2022 6:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    在文件输入类型中有一个 capture 的可选属性，它可以设置应该使用哪个设备来捕获该accept属性定义的类型的新媒体。值包括user和environment。 捕获属性的有趣之处在于用户通过移动设 
-    </details> 
-
-- 🚀 [你的终端工具iTerm2美化了吗？](https://juejin.cn/post/7142006108163407885) | Sun Sep 11 2022 6:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    拿到新电脑最痛苦的事情就是要配置一大堆的东西，安装一堆的软件，之前踩的坑没记录，还要再踩一遍，这次对打造iTerm2终端界面做了一个详细的记录，主题搭配zsh，功能简直不要太强大 
-    </details> 
-
-- 💪 [你还在划水？ 用vue做一个人生计时器吧](https://juejin.cn/post/7142000748476235813) | Sun Sep 11 2022 6:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    时光荏苒，仿佛10年前就在昨天，但是我们却已经不再年轻，你知道你的人生进度条过了多少了么？ 我们来用vue写一个吧。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
