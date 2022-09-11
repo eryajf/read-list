@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [育碧谈公司的“毒性”工作文化：我们从中吸取了教训](https://hot.cnbeta.com/articles/game/1314993.htm) | Sun Sep 11 2022 12:57 PM 
+- 🕯 [一台微波炉，成2纳米芯片制造关键](https://www.cnbeta.com/articles/science/1314999.htm) | Sun Sep 11 2022 3:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一个由科学家改装的家用微波炉，正在帮助制造下一代手机、电脑和其他电子产品。这项发明被证明克服了半导体行业面临的一个重大挑战。相关研究结果以“Efficient and stable activation by microwave annealing of nanosheet silicon doped with phosphorus above its solubility limit”为题，发表在科学期刊《应用物理学快报》（Applied Physics Letters）上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果公司的iPhone硬件与服务订阅服务可能仍会在2022年到来](https://www.cnbeta.com/articles/tech/1314997.htm) | Sun Sep 11 2022 3:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;苹果iPhone包月套餐仍在路上，据传结合硬件和服务的Apple One等套餐仍将很快到来。&lt;/strong&gt;硬件订阅将允许客户以月费的方式从苹果公司获得iPhone和其他商品，这在传言中已经持续了一段时间但还没有成为现实。一份报告称，虽然苹果没有在其iPhone 14发布会上介绍这种服务，但它仍可能在未来几周内出现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [广受好评 《利刃出鞘2》首批媒体评分出炉](https://hot.cnbeta.com/articles/movie/1314995.htm) | Sun Sep 11 2022 3:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;广受好评！《利刃出鞘2：抽丝剥茧》多伦多电影节首映后收获首批媒体评价：烂番茄开局新鲜度100%，MetaCritic综合评分85分。影评人称赞观感非常欢乐愉悦，和第一部一样有意思，真的就像片名一样“抽丝剥茧”地让剧情层层反转，Rian Johnson以惊人的速度揭晓令人震惊又笑翻的真相。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [育碧谈公司的“毒性”工作文化：我们从中吸取了教训](https://hot.cnbeta.com/articles/game/1314993.htm) | Sun Sep 11 2022 12:57 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在近期的发布会上，育碧老板Yves Guillemot谈到了公司始于2020年的职场丑闻，并将其描述为吸取经验教训的“绊脚石”。“我们的目标是为员工提供最好的工作环境，让他们茁壮成长并充分发挥他们的潜力。我们希望建立一个独特的员工价值观，并在需要时带来改变。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [手游《阿凡达：清算》新预告公布 腾讯负责全球发行](https://hot.cnbeta.com/articles/game/1314991.htm) | Sun Sep 11 2022 12:56 PM 
+- 🎊 [手游《阿凡达：清算》新预告公布 腾讯负责全球发行](https://hot.cnbeta.com/articles/game/1314991.htm) | Sun Sep 11 2022 12:56 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天的迪士尼游戏展示会上，《阿凡达》IP的衍生手游《阿凡达：清算》正式公布了新的实机演示预告片，展示了游戏GamePlay方面的大量新内容。这支新的实机演示，&lt;strong&gt;展示了游戏的剧情过场，捏脸系统，枪械自定义以及战斗系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Ubuntu峰会将于今年11月回归 举办地点捷克布拉格](https://www.cnbeta.com/articles/tech/1314989.htm) | Sun Sep 11 2022 12:54 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Canonical曾经在每个Ubuntu Linux开发周期中举办精彩的现场活动，即Ubuntu开发者峰会，但那是十几年前的事了，后来它在很大程度上变成了一个虚拟活动，然后逐渐消失，转而变成支持Canonical的内部路线图规划和其他员工之间的开发者冲刺的活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [FLAC 1.4相隔近十年发布新版 包含AArch64优化及更快的x86_64 FMA](https://hot.cnbeta.com/articles/music/1314987.htm) | Sun Sep 11 2022 12:51 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;FLAC 1.4于周五发布，作为&amp;quot;自由无损音频编解码器&amp;quot;，它以其强大可靠而无成本的数字音频无损压缩而闻名。自FLAC 1.3（2013年5月）发布以来已经有近十年的时间，周五带来的FLAC 1.4系列的发布引入了一系列改进。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1314987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [8月轿车销量：轩逸朗逸黯然神伤、比亚迪海豚暴增数百倍](https://www.cnbeta.com/articles/tech/1314985.htm) | Sun Sep 11 2022 12:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;刚刚过去的8月，国内狭义乘用车市场销量达187.1万辆，同比增长28.8%，环比7月的181.8万辆增长2.9%。其中，轿车细分市场8月销量为90.3万辆，同比增长24.8%，环比7月的98.7万辆下降8.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
