@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现大气压冷等离子体能抑制冠状病毒侵入细胞 为研发药物打下基础](https://www.cnbeta.com/articles/science/1314955.htm) | Sun Sep 11 2022 7:32 AM 
+- 🕯 [《阿凡达4》正式开拍：《阿凡达2》12月16日北美上映 中国影迷拿12年前电影票坐等](https://hot.cnbeta.com/articles/movie/1314979.htm) | Sun Sep 11 2022 12:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据新华社悉尼9月11日电 中澳两国研究人员共同参与的一项新研究发现，大气压冷等离子体能够抑制冠状病毒侵入人体细胞，为研发可预防新冠病毒的鼻喷剂等药物打下基础。这一研究由澳大利亚昆士兰理工大学、格里菲斯大学以及中国厦门大学、江南大学、南方医科大学等两国多所科研机构参与，相关论文近日已发表在澳大利亚《诊断治疗学》期刊上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《阿凡达2》还没上映，《阿凡达4》已经正式开拍了。今日，&lt;strong&gt;在迪士尼D23全球粉丝大会上，导演詹姆斯·卡梅隆宣布《阿凡达4》正式开拍。&lt;/strong&gt;据悉，《阿凡达2》剧组亮相D23大会，&lt;strong&gt;詹姆斯·卡梅隆远程与现场连线时，宣布《阿凡达4》已经正式开拍。该片已定档2026年12月18日上映&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [SpaceX发射有史以来最大的商业通信阵列BlueWalker 3 创下多项纪录](https://www.cnbeta.com/articles/science/1314953.htm) | Sun Sep 11 2022 7:29 AM 
+- 💼 [《使命召唤19》“AI系统”预告公布 10月28日发售](https://www.cnbeta.com/articles/tech/1314977.htm) | Sun Sep 11 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;SpaceX周六晚些时候将一颗新颖的也是巨大的商业通信卫星送入轨道，同时继续为其猎鹰9号火箭创造新的发射记录。猎鹰9号从佛罗里达州肯尼迪航天中心的39A装置发射入轨，搭载了SpaceX的34颗Starlink互联网卫星和BlueWalker 3，这是AST SpaceMobile公司建造的一颗原型卫星，被称为有史以来在太空飞行的最大商业通信阵列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（9月11日），Infinity Ward工作室公布《使命召唤19：现代战争2》最新预告，介绍本作中AI系统，“AI技术将使命召唤系列带入一个新时代”。《使命召唤19：现代战争2》将于10月28日发售，登陆PC、PS4、PS5、Xbox One和XboxSeries X|S平台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [剧透警告 数段《暗黑破坏神4》过场泄露](https://hot.cnbeta.com/articles/game/1314951.htm) | Sun Sep 11 2022 7:10 AM 
+- 💂 [美行水货已死？美版iPhone 14实拍：没有实体SIM卡插槽](https://www.cnbeta.com/articles/tech/1314975.htm) | Sun Sep 11 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（9月11日），俄语论坛泄露数段《暗黑破坏神4》过场画面，该作将于2023年正式发售，据此前报道，《暗黑破坏神4》PS4/PS5测试版已添加到PlayStation数据库中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据 The Verge 报道，新的 iPhone 14 系列智能手机的美版将不具备实体 SIM 卡插槽。它们将能够使用 eSIM （电子 SIM 卡）实现双卡双待，同时储存更多 eSIM。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《艾尔登法环》幕后配乐宣传片 布达佩斯电影管弦乐队演奏](https://hot.cnbeta.com/articles/movie/1314949.htm) | Sun Sep 11 2022 7:09 AM 
+- 🚀 [《阿凡达2》曝全新概念图 《阿凡达4》已经开始拍摄](https://hot.cnbeta.com/articles/movie/1314973.htm) | Sun Sep 11 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，万代公布《艾尔登法环》幕后配乐表演，相关乐曲由布达佩斯电影管弦乐队负责演奏，据悉，《艾尔登法环》官方原声带现已登陆音乐流媒体，感兴趣的玩家可以&lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU02TmhLU2F1Ym1rdjJ4VGtjNFZ0bGYwRjBLUXxBQ3Jtc0tsRjNiYUFnT0dPTU5DNjRxVGNWREYyNVBwSUxKa1Z1T21LV2NfLWxzcnNmOTl4M0JGaFMwSFJLQ0V6RFQ0aHlkU3BmdS1xWXhwUlVQTWJtb0laQzc4cGkzWGdlVExiOXg5UV9uVHdicEF6RnA0TzVDVQ&amp;q=http%3A%2F%2Fspr.ly%2F6058M3VsK&amp;v=S4ZQ-CrnT_k&quot; target=&quot;_blank&quot;&gt;点击此处&lt;/a&gt;进入相关页面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《阿凡达2：水之道》发布新概念艺术图，影片将于12月16日北美上映。在迪士尼D23展会上，詹姆斯·卡梅隆远程宣布《阿凡达4》已经开拍。《阿凡达2》故事聚焦萨利一家，杰克和奈蒂莉现在为人父母了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [回顾过去展望未来 《刺客信条》十五周年纪录片发布](https://hot.cnbeta.com/articles/game/1314947.htm) | Sun Sep 11 2022 7:08 AM 
+- 🎊 [气候变暖成人畜共患病传染主因？病毒学家认为应重视监测](https://www.cnbeta.com/articles/tech/1314971.htm) | Sun Sep 11 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;育碧今日在官方频道发布《刺客信条》“Beyond The Creed”纪录片，以庆祝该系列15周年纪念。在纪录片中，玩家可以看到系列多位开发者出镜，同时还能看到系列中让人耳熟能详的角色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;有研究表明，全球气候变暖正在成为人畜共患病传播主要原因之一。“每次疫情发现，都是生态系统共同作用的结果。当前，气候变化正在灾难性地摧毁生物多样性，并使得携带病毒的动物活动范围增加，为疾病传播打开入口。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
