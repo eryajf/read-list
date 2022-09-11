@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [软考高级《系统架构设计师》知识产权与标准化 总结](https://juejin.cn/post/7142122434685042725) | Sun Sep 11 2022 2:05 PM 
+- 🤗 [公司要求单测覆盖率达到90%？](https://juejin.cn/post/7142130031878209566) | Sun Sep 11 2022 2:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    当业务快速发展的时候，技术追求的是效率，先把功能堆上去就完事； 当业务已经稳定，产品功能基本完善的，技术上要求质量，质量有多个方面来把控；对技术来说其中最重要的一个一般是单元测试... 
+    </details> 
+
+- 🎡 [软考高级《系统架构设计师》知识产权与标准化 总结](https://juejin.cn/post/7142122434685042725) | Sun Sep 11 2022 2:05 PM 
     <details><summary>展开描述 ...</summary> 
     知识产权与标准化 系统架构设计师考试中，关于知识产权和标准化的内容，每年基本稳定在3分左右。 今天天这篇文章的目的，就是直接拿到《系统架构师》考试中的三分。 保护期限 这里我们讨论的对象包括：作品、软 
     </details> 
 
-- 🎡 [简单分享一下，https比http安全的原因，https到底安全在哪儿呢](https://juejin.cn/post/7142122224211656717) | Sun Sep 11 2022 2:04 PM 
+- 🕯 [简单分享一下，https比http安全的原因，https到底安全在哪儿呢](https://juejin.cn/post/7142122224211656717) | Sun Sep 11 2022 2:04 PM 
     <details><summary>展开描述 ...</summary> 
     一、安全特性 在上篇文章中，我们了解到HTTP在通信过程中，存在以下问题： 通信使用明文（不加密），内容可能被窃听 不验证通信方的身份，因此有可能遭遇伪装 而HTTPS的出现正是解决这些问题，HTTP 
     </details> 
 
-- 🕯 [JavaScript 条件判断使用技巧](https://juejin.cn/post/7142084632312283150) | Sun Sep 11 2022 11:40 AM 
+- 🚀 [JavaScript 条件判断使用技巧](https://juejin.cn/post/7142084632312283150) | Sun Sep 11 2022 11:40 AM 
     <details><summary>展开描述 ...</summary> 
     我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 本文来介绍一下在 JavaScript 中如何编写更简单的条件判断，助你编写更简洁的代码。 
     </details> 
 
-- 🚀 [BlenderJoy —— Python 常用基础知识](https://juejin.cn/post/7142085193078145060) | Sun Sep 11 2022 11:38 AM 
+- 💪 [BlenderJoy —— Python 常用基础知识](https://juejin.cn/post/7142085193078145060) | Sun Sep 11 2022 11:38 AM 
     <details><summary>展开描述 ...</summary> 
     使用 Python 编写 Blender 脚本代码需要对 bpy 有一定的基础了解 选定 网格 坐标 命名 修改器 材质 .blend 文件 得到当前版本的 Blender 文件夹路径 遍历列表选中物 
-    </details> 
-
-- 💪 [【分享】MySQL安装、配置环境、创建数据库的方法](https://juejin.cn/post/7142084805268602916) | Sun Sep 11 2022 11:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    MYSQL版本 MySQL Community Server 社区版本，开源免费，自由下载，但不提供官方技术支持，适用于大多数普通用户。 MySQL Enterprise Edition 企业版本，需 
     </details> 
 <!-- juejin:END -->
 ### 少数派
