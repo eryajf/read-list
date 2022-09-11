@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔公开Arc独显细节：旗舰A750/A770即将到来](https://www.cnbeta.com/articles/tech/1314817.htm) | Sat Sep 10 2022 11:18 PM 
+- 🕯 [播主让M1芯片iPad Pro运行Windows 10：性能可达原生90%水平](https://www.cnbeta.com/articles/tech/1314885.htm) | Sun Sep 11 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔宣布了适用于桌面电脑的 Arc 独显细节。其中包括 A750 和 A770 型号，这两款型号已经测试数月时间。A750 和 A770 均属于 Arc 7 系列，定位是比 Arc 3 和 Arc 5 更高端的旗舰型号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，有博主展示了自己在M1芯片的iPad Pro上，运行Win10系统的成果。在成功运行的同时，该博主还通过Geekbench进行了跑分测试，&lt;strong&gt;得分显示在Win10下iPad Pro的成绩为单核1522分，多核5073分，基本已经能够达到M1 iPad Pro的90%/70%，足以称得上是“全速运行”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [PCI-SIG发出警告：12VHPWR接口存在发热起火风险](https://www.cnbeta.com/articles/tech/1314815.htm) | Sat Sep 10 2022 11:04 PM 
+- 💼 [《碧海黑帆》世界背景及实机预告公布 11月8日发售](https://hot.cnbeta.com/articles/game/1314883.htm) | Sun Sep 11 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;外围组件互连特殊兴趣小组（PCI-SIG），是编写包括 PCIe 在内主要系统互联规范的标准机构。去年，该机构制定批准了一项新标准，旨在预测高性能 GPU 未来功耗：适用于 PCIe 5.0 设备的 12VHPWR 接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（9月11日），育碧前瞻会公布《碧海黑帆》世界背景及“海上堡垒”实机预告，本作支持4K HDR、光线追踪、不限帧率等，《碧海黑帆》将于11月8日发售，登陆PC（Epic/育碧商城）、PS5，XboxSeries X|S，亚马逊Luna和谷歌Stadia。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[图]新发现表明鲸鲨成为全球最大的杂食动物](https://www.cnbeta.com/articles/science/1314813.htm) | Sat Sep 10 2022 10:54 PM 
+- 💂 [漫威谍战片《秘密入侵》发预告 2023年春季播出](https://hot.cnbeta.com/articles/movie/1314881.htm) | Sun Sep 11 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;海洋生物学家发现，鲸鲨也能以植物为食，这意味着这个著名物种成为世界上最大的杂食动物。&lt;/strong&gt;鲸鲨是滤食性动物，在西澳大利亚的宁格鲁礁，人们早就看到它们食用磷虾。不过，科学家在分析其活体样本时发现鲸鲨啃食了大量的植物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;漫威新剧《秘密入侵》发布预告，气氛紧张，暗流涌动，大玩惊悚谍战风。“神盾局长”尼克·弗瑞回到了地球，现在他必须在塔罗斯、玛丽亚·希尔和其他老朋友的帮助下应对斯库鲁人的入侵。剧集将在2023年春季在Disney+首播！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [SpaceX上诉：不能仅因Ookla测速不达标就否定Starlink能力](https://www.cnbeta.com/articles/tech/1314811.htm) | Sat Sep 10 2022 10:31 PM 
+- 🚀 [《全境封锁》免费游戏与手游新细节公布](https://hot.cnbeta.com/articles/game/1314879.htm) | Sun Sep 11 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在美国联邦通信委员会（FCC）拒绝向 SpaceX 支付 8.85 亿美元的偏远地区网络补助款之后，后者于本周五宣布提起上诉。&lt;/strong&gt;在申请中，SpaceX 概述了委员会的有线竞争局&lpar;Wireline Competition Bureau，WCB&rpar;忽略了事实，并依靠不正确的互联网速度测试来确定 Starlink 申请的优点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314811.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;育碧今日公布了《全境封锁：腹地》和《全境封锁：曙光》的最新细节。首先，《全境封锁：腹地》是一款生存向游戏，采用的仍然是传统《全境封锁》模式。我们将再次扮演《全境封锁》中的一位探员，但这次我们将要前往一座中西部小镇，保护当地民众免受不断入侵的威胁。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NASA小行星撞击航天器DART首次拍摄到其目标](https://www.cnbeta.com/articles/science/1314809.htm) | Sat Sep 10 2022 8:53 PM 
+- 🎊 [育碧与Netflix展开合作 推出《勇敢的心2》和刺客手游](https://hot.cnbeta.com/articles/game/1314877.htm) | Sun Sep 11 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;小卫星Dimorphos正与其较大的小行星同伴Didymos一起在太空中漫步，对即将发生的事情浑然不知。与此同时，NASA的DART航天器正像一只蹲下准备扑击的猫一样盯着Dimorphos。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;育碧今日宣布，将以三款游戏与Netflix展开合作。在今天的发布会上，育碧宣布他们将通过Netflix的服务让三款全新游戏登陆新设备。&lt;/strong&gt;这三款游戏分别是《城堡抢翻天2》、《勇敢的心2》和新《刺客信条》手游。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
