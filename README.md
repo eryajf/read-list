@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [被忽视的精度范围：考察生物多样性，需要考虑采样区域的分块大小](http://jandan.net/p/111264) | Sun Sep 11 2022 3:10 AM 
+- 🚀 [为什么空气污染会引发肺癌？答案竟是炎症？！](http://jandan.net/p/111292) | Sun Sep 11 2022 7:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    “脏东西进入肺部，就引发了肺癌”这种解释无疑过于粗放 
+    </details> 
+
+- 🙉 [被忽视的精度范围：考察生物多样性，需要考虑采样区域的分块大小](http://jandan.net/p/111264) | Sun Sep 11 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
     当域范围细化到几平方米时，我们发现，东欧大草原拥有与亚马逊热带雨林数量相似的植物物种 
     </details> 
 
-- 🙉 [今日好价 0911](http://jandan.net/p/111331) | Sun Sep 11 2022 2:53 AM 
+- 🎉 [今日好价 0911](http://jandan.net/p/111331) | Sun Sep 11 2022 2:53 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [著名的直布罗陀大力神石柱上，形成了令人叹为观止的旗云](http://jandan.net/p/111328) | Sat Sep 10 2022 12:00 PM 
+- 🐲 [著名的直布罗陀大力神石柱上，形成了令人叹为观止的旗云](http://jandan.net/p/111328) | Sat Sep 10 2022 12:00 PM 
     <details><summary>展开描述 ...</summary> 
     zsbd 
     </details> 
 
-- 🐲 [人类也可以变成三体人？水熊虫的脱水保命蛋白可在人体细胞中部分表达](http://jandan.net/p/111271) | Sat Sep 10 2022 7:19 AM 
+-  [人类也可以变成三体人？水熊虫的脱水保命蛋白可在人体细胞中部分表达](http://jandan.net/p/111271) | Sat Sep 10 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
     富含细胞质的热可溶性 &lpar;CAHS&rpar; 蛋白负责保护它们的细胞免因脱水而死。 
-    </details> 
-
--  [都知道白噪声，现在TikTok上很火的褐噪声，又是什么东西](http://jandan.net/p/111283) | Sat Sep 10 2022 3:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天是中秋节，给刚打开电梯的朋友拜个早年 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
