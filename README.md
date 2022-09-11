@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [任意键｜乌贼娘大战章鱼哥；守望先锋闪电般归来；大名鼎鼎的 V 及其他](https://sspai.com/post/75669) | Sun Sep 11 2022 3:03 AM 
+- 👹 [Apple 新品发布会上没告诉你的那些事](https://sspai.com/post/75672) | Sun Sep 11 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    除了发布会上介绍过的新特性，其中还不乏一些发布会上并没有提及、但仍然值得我们关注的细节，少数派为你整理了其中一部分，让我们一起来看一下。&lt;a href=&quot;https://sspai.com/post/75672&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [任意键｜乌贼娘大战章鱼哥；守望先锋闪电般归来；大名鼎鼎的 V 及其他](https://sspai.com/post/75669) | Sun Sep 11 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
     中秋快乐！「任意键」是少数派新试点的游戏周报栏目，我派编辑部的整活担当Kiririn将在此为各位读者盘点和锐评本周值得关注的游戏新闻。🎮玩游戏任天堂｜《斯普拉遁3》现已发售，首次支持简体中文万众期待的 ...&lt;a href=&quot;https://sspai.com/post/75669&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [从选购到使用，让 3D 打印机打开新世界的大门](https://sspai.com/post/75665) | Sat Sep 10 2022 7:30 AM 
+- 🤭 [从选购到使用，让 3D 打印机打开新世界的大门](https://sspai.com/post/75665) | Sat Sep 10 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
     3D 打印机虽然看上去没什么用，但当你获得了可以加工各种形状零件能力的时候，你的想法可能就不太一样了。&lt;a href=&quot;https://sspai.com/post/75665&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [大厂出品不等于又大又慢，这 6 个小应用值得一试](https://sspai.com/post/75275) | Sat Sep 10 2022 3:00 AM 
+- 🥸 [大厂出品不等于又大又慢，这 6 个小应用值得一试](https://sspai.com/post/75275) | Sat Sep 10 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     不过大厂也并非所有产品都如此不堪，总有一些优质应用，因为顶着「大厂」的帽子让用户望而却步。&lt;a href=&quot;https://sspai.com/post/75275&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75654) | Fri Sep 09 2022 10:11 AM 
+- 🙉 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75654) | Fri Sep 09 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[美剧]红粉联盟、[电影]十三条命、[日剧]量产型璃子-模型女子的人生组装记-、[动画]瑞克和莫蒂第六季、[韩剧]小小姐们、[电影]恋之光几则精彩预告：《机动战士高达水星的 ...&lt;a href=&quot;https://sspai.com/post/75654&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [App+1 | 人人可用、不取分文，Android 平台习惯养成应用首选：Loop](https://sspai.com/post/75650) | Fri Sep 09 2022 8:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    没有精巧的界面，也没有让人拍手称奇的动画设计，但它却是一款堪称典范的工具类开源应用。&lt;a href=&quot;https://sspai.com/post/75650&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
