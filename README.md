@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [测试人员在Windows 11中发现了Windows 10风格搜索框的痕迹](https://www.cnbeta.com/articles/tech/1315011.htm) | Sun Sep 11 2022 4:58 PM 
+- 🕯 [GeForce RTX 3060 8 GB与3060 Ti GDDR6X显卡将于10月底推出](https://www.cnbeta.com/articles/tech/1315017.htm) | Sun Sep 11 2022 7:36 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据Videocardz报道，NVIDIA似乎已经计划在10月下旬推出其GeForce RTX 3060 8 GB和RTX 3060 Ti GDDR6X显卡。&lt;strong&gt;本周早些时候，有报道称英伟达正在开发三款GeForce RTX 30系列显卡，主要用于主流领域。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [三星为&quot;Flex G&quot;双折叠智能手机-平板电脑混合体注册商标](https://www.cnbeta.com/articles/tech/1315015.htm) | Sun Sep 11 2022 7:30 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;你可能记得也可能不记得三星在2022年CES上展示的Flex G和Flex S概念可折叠设备，但你可以在下面刷新你的记忆。&lt;strong&gt;简而言之，Flex S和Flex G是三星显示器设计的双折叠手机-平板电脑混合概念，以展示除翻盖式Galaxy Z Flip和书本式Galaxy Z Fold之外的其他可折叠技术可实现的外形因素。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [亚马逊被控在收购交易中涉嫌不当竞争和商业垄断](https://www.cnbeta.com/articles/tech/1315013.htm) | Sun Sep 11 2022 7:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在给联邦反垄断委员会的一封信中，20个组织警告说亚马逊收购iRobot的交易将会形成行业垄断并将损害消费者利益。一个由大约20个商业组织组成的临时游说团体正敦促美国反垄断委员会阻止亚马逊收购扫地机器人制造商iRobot公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [测试人员在Windows 11中发现了Windows 10风格搜索框的痕迹](https://www.cnbeta.com/articles/tech/1315011.htm) | Sun Sep 11 2022 4:58 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;微软针对Windows的Insider构建版本往往可以揭示出有趣的即将到来的功能。&lt;strong&gt;最新的Windows 11开发频道Build 25197已经收到了一些新的功能，如平板电脑优化的任务栏，尽管该公司已经承认它目前有点错误。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家发现一个控制寿命的分子开关CHIP](https://www.cnbeta.com/articles/science/1315009.htm) | Sun Sep 11 2022 4:54 PM 
+- 🎊 [科学家发现一个控制寿命的分子开关CHIP](https://www.cnbeta.com/articles/science/1315009.htm) | Sun Sep 11 2022 4:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一个单一的蛋白质可以比在一个群体中更有效地控制衰老信号。根据最近的研究，蛋白质CHIP在单独行动时能比在成对状态下更有效地控制胰岛素受体。在细胞应激情况下，CHIP经常以同源二聚体的形式出现--两个相同的蛋白质的联合体--主要功能是破坏错误折叠的和有缺陷的蛋白质。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [研究发现医疗网络攻击导致病人护理水平下降 死亡率上升](https://www.cnbeta.com/articles/tech/1315007.htm) | Sun Sep 11 2022 4:51 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据Ponemon研究所和Proofpoint今天发布的一项研究，近四分之一遭受勒索软件攻击的医疗机构的病人死亡率上升。这份题为&amp;quot;医疗行业的网络安全问题。对641名医疗IT和安全从业人员进行了调查，发现网络攻击最常见的后果是程序和测试的延迟，导致57%的医疗机构的病人结果不佳，其次是医疗程序的并发症增加。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [NVIDIA GeForce NOW云服务新增6款游戏：阵容达到1400款里程碑](https://www.cnbeta.com/articles/tech/1315005.htm) | Sun Sep 11 2022 4:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，NVIDIA正式宣布，&lt;strong&gt;旗下的GeForce NOW云游戏服务再次新增6款新游戏的支持，成功达到了1400款游戏的里程碑记录。本次GeForce NOW加入的游戏如下：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [斯皮尔伯格自传式新片《造梦之家》首曝预告 11月23日上映](https://hot.cnbeta.com/articles/movie/1315003.htm) | Sun Sep 11 2022 4:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;名导史蒂文·斯皮尔伯格最新冲奥力作！被誉为斯皮尔伯格150分钟的自画像，米歇尔·威廉姆斯、保罗·达诺、塞斯·罗根、加布·拉贝尔、大卫·林奇、珍妮·柏林、茱莉亚·巴特斯、罗宾·巴特利特、姬莉·卡斯滕主演，11月11日北美部分城市上映，11月23日感恩节正式上映！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
