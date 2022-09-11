@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [限时直降200+6期免息 moto X30 Pro优惠热销中](https://www.cnbeta.com/articles/tech/1314915.htm) | Sun Sep 11 2022 3:46 AM 
+- 🕯 [美国证监会将为加密货币领域的信息申报设立新的办公室](https://www.cnbeta.com/articles/tech/1314917.htm) | Sun Sep 11 2022 6:23 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;美国证券监管机构周五表示，该机构将设立两个新的办公室，处理与加密资产和生命科学领域有关的备案。&lt;/strong&gt;&amp;quot;加密资产办公室&amp;quot;和&amp;quot;工业应用和服务办公室&amp;quot;将加入证券交易委员会（SEC）下属的七个现有办公室，负责处理企业信息披露的备案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [限时直降200+6期免息 moto X30 Pro优惠热销中](https://www.cnbeta.com/articles/tech/1314915.htm) | Sun Sep 11 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;作为目前颇具性价比的骁龙8+旗舰手机，moto X30 Pro在开学+中秋销售节点，在官方渠道又开启了从9.1~9.15的限时特价，全系直降200元+6期免息，晒单还送4000京豆，限时促销价3499元起&lt;/strong&gt;，是个不错的入手时机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学发现红景天根可以帮助控制 2 型糖尿病](https://www.cnbeta.com/articles/science/1314913.htm) | Sun Sep 11 2022 3:37 AM 
+- 💂 [科学发现红景天根可以帮助控制 2 型糖尿病](https://www.cnbeta.com/articles/science/1314913.htm) | Sun Sep 11 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;根据加州大学欧文分校的一项研究，红景天（Rhodiola rosea，中药名）的根部可以帮助控制 2 型糖尿病。&lt;/strong&gt;研究发现从红景天根部提取的物质，有望成为帮助控制 2 型糖尿病的一种安全有效选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [祖龙开发MMO手游 《阿凡达：清算》公布开发者预告](https://hot.cnbeta.com/articles/game/1314911.htm) | Sun Sep 11 2022 3:28 AM 
+- 🚀 [祖龙开发MMO手游 《阿凡达：清算》公布开发者预告](https://hot.cnbeta.com/articles/game/1314911.htm) | Sun Sep 11 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日（9月11日），迪士尼漫威发布会公布MMO射击手游《阿凡达：清算》开发者预告，该作由祖龙娱乐开发，腾讯LevelInfinite全球发行，《阿凡达：清算》是一款以阿凡达世界为背景的大型多人角色扮演手机游戏，玩家将可透过随所未有的视角来探索潘朵拉的世界。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《曼达洛人》第三季预告公布 2023年迪士尼+开播](https://hot.cnbeta.com/articles/movie/1314909.htm) | Sun Sep 11 2022 3:25 AM 
+- 🎊 [《曼达洛人》第三季预告公布 2023年迪士尼+开播](https://hot.cnbeta.com/articles/movie/1314909.htm) | Sun Sep 11 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日（9月11日），《曼达洛人》剧集第三季最新预告公布，剧集将于 2023 年独家登陆 Disney+，目前《曼达洛人》第四季已确定制作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [苹果发布会最便宜新品 98元的挂绳缺货了](https://www.cnbeta.com/articles/tech/1314907.htm) | Sun Sep 11 2022 3:17 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周的苹果秋季发布会上，苹果发布的一堆新品都不便宜，iPhone 14 Pro系列都奔着万元去了，最便宜的产品是Incase挂绳，售价98元，没想到它都缺货了，现在下单需要等4-6周才能发货。&lt;strong&gt;这根挂绳长23.5厘米，重4.54克，适用于AirPods Pro 2。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
