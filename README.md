@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国证监会将为加密货币领域的信息申报设立新的办公室](https://www.cnbeta.com/articles/tech/1314917.htm) | Sun Sep 11 2022 6:23 AM 
+- 🕯 [剧透警告 数段《暗黑破坏神4》过场泄露](https://hot.cnbeta.com/articles/game/1314951.htm) | Sun Sep 11 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国证券监管机构周五表示，该机构将设立两个新的办公室，处理与加密资产和生命科学领域有关的备案。&lt;/strong&gt;&amp;quot;加密资产办公室&amp;quot;和&amp;quot;工业应用和服务办公室&amp;quot;将加入证券交易委员会（SEC）下属的七个现有办公室，负责处理企业信息披露的备案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（9月11日），俄语论坛泄露数段《暗黑破坏神4》过场画面，该作将于2023年正式发售，据此前报道，《暗黑破坏神4》PS4/PS5测试版已添加到PlayStation数据库中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [限时直降200+6期免息 moto X30 Pro优惠热销中](https://www.cnbeta.com/articles/tech/1314915.htm) | Sun Sep 11 2022 3:46 AM 
+- 💼 [《艾尔登法环》幕后配乐宣传片 布达佩斯电影管弦乐队演奏](https://hot.cnbeta.com/articles/movie/1314949.htm) | Sun Sep 11 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为目前颇具性价比的骁龙8+旗舰手机，moto X30 Pro在开学+中秋销售节点，在官方渠道又开启了从9.1~9.15的限时特价，全系直降200元+6期免息，晒单还送4000京豆，限时促销价3499元起&lt;/strong&gt;，是个不错的入手时机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，万代公布《艾尔登法环》幕后配乐表演，相关乐曲由布达佩斯电影管弦乐队负责演奏，据悉，《艾尔登法环》官方原声带现已登陆音乐流媒体，感兴趣的玩家可以&lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU02TmhLU2F1Ym1rdjJ4VGtjNFZ0bGYwRjBLUXxBQ3Jtc0tsRjNiYUFnT0dPTU5DNjRxVGNWREYyNVBwSUxKa1Z1T21LV2NfLWxzcnNmOTl4M0JGaFMwSFJLQ0V6RFQ0aHlkU3BmdS1xWXhwUlVQTWJtb0laQzc4cGkzWGdlVExiOXg5UV9uVHdicEF6RnA0TzVDVQ&amp;q=http%3A%2F%2Fspr.ly%2F6058M3VsK&amp;v=S4ZQ-CrnT_k&quot; target=&quot;_blank&quot;&gt;点击此处&lt;/a&gt;进入相关页面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科学发现红景天根可以帮助控制 2 型糖尿病](https://www.cnbeta.com/articles/science/1314913.htm) | Sun Sep 11 2022 3:37 AM 
+- 💂 [回顾过去展望未来 《刺客信条》十五周年纪录片发布](https://hot.cnbeta.com/articles/game/1314947.htm) | Sun Sep 11 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据加州大学欧文分校的一项研究，红景天（Rhodiola rosea，中药名）的根部可以帮助控制 2 型糖尿病。&lt;/strong&gt;研究发现从红景天根部提取的物质，有望成为帮助控制 2 型糖尿病的一种安全有效选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1314913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;育碧今日在官方频道发布《刺客信条》“Beyond The Creed”纪录片，以庆祝该系列15周年纪念。在纪录片中，玩家可以看到系列多位开发者出镜，同时还能看到系列中让人耳熟能详的角色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [祖龙开发MMO手游 《阿凡达：清算》公布开发者预告](https://hot.cnbeta.com/articles/game/1314911.htm) | Sun Sep 11 2022 3:28 AM 
+- 🚀 [抖音盒子出师未捷 为什么字节跳动做不好电商？](https://www.cnbeta.com/articles/tech/1314945.htm) | Sun Sep 11 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（9月11日），迪士尼漫威发布会公布MMO射击手游《阿凡达：清算》开发者预告，该作由祖龙娱乐开发，腾讯LevelInfinite全球发行，《阿凡达：清算》是一款以阿凡达世界为背景的大型多人角色扮演手机游戏，玩家将可透过随所未有的视角来探索潘朵拉的世界。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;抖音之后，字节跳动再没能造出下一个爆款。9月初，据36氪等多家媒体报道，抖音电商旗下独立潮流电商APP抖音盒子即将停止运营。据知情人士透露，字节内部已经在酝酿大变动，负责抖音盒子的员工将通过活水制度内部转岗至其他项目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《曼达洛人》第三季预告公布 2023年迪士尼+开播](https://hot.cnbeta.com/articles/movie/1314909.htm) | Sun Sep 11 2022 3:25 AM 
+- 🎊 [迪士尼CEO拒绝了维权人士勒布关于剥离ESPN的呼吁](https://www.cnbeta.com/articles/tech/1314943.htm) | Sun Sep 11 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（9月11日），《曼达洛人》剧集第三季最新预告公布，剧集将于 2023 年独家登陆 Disney+，目前《曼达洛人》第四季已确定制作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;华特-迪士尼公司首席执行官鲍伯·查佩克（Bob Chapek）表示，他拒绝了维权投资者丹•勒布（Dan Loeb）关于出售或分拆ESPN体育网络的建议。查佩克表示，公司对ESPN的兴趣“说明了它具备的一些潜力”，他相信这基于“在迪士尼公司内部”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
