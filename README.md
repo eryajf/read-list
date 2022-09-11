@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《阿凡达4》正式开拍：《阿凡达2》12月16日北美上映 中国影迷拿12年前电影票坐等](https://hot.cnbeta.com/articles/movie/1314979.htm) | Sun Sep 11 2022 12:33 PM 
+- 🕯 [育碧谈公司的“毒性”工作文化：我们从中吸取了教训](https://hot.cnbeta.com/articles/game/1314993.htm) | Sun Sep 11 2022 12:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《阿凡达2》还没上映，《阿凡达4》已经正式开拍了。今日，&lt;strong&gt;在迪士尼D23全球粉丝大会上，导演詹姆斯·卡梅隆宣布《阿凡达4》正式开拍。&lt;/strong&gt;据悉，《阿凡达2》剧组亮相D23大会，&lt;strong&gt;詹姆斯·卡梅隆远程与现场连线时，宣布《阿凡达4》已经正式开拍。该片已定档2026年12月18日上映&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在近期的发布会上，育碧老板Yves Guillemot谈到了公司始于2020年的职场丑闻，并将其描述为吸取经验教训的“绊脚石”。“我们的目标是为员工提供最好的工作环境，让他们茁壮成长并充分发挥他们的潜力。我们希望建立一个独特的员工价值观，并在需要时带来改变。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《使命召唤19》“AI系统”预告公布 10月28日发售](https://www.cnbeta.com/articles/tech/1314977.htm) | Sun Sep 11 2022 12:29 PM 
+- 💼 [手游《阿凡达：清算》新预告公布 腾讯负责全球发行](https://hot.cnbeta.com/articles/game/1314991.htm) | Sun Sep 11 2022 12:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（9月11日），Infinity Ward工作室公布《使命召唤19：现代战争2》最新预告，介绍本作中AI系统，“AI技术将使命召唤系列带入一个新时代”。《使命召唤19：现代战争2》将于10月28日发售，登陆PC、PS4、PS5、Xbox One和XboxSeries X|S平台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天的迪士尼游戏展示会上，《阿凡达》IP的衍生手游《阿凡达：清算》正式公布了新的实机演示预告片，展示了游戏GamePlay方面的大量新内容。这支新的实机演示，&lt;strong&gt;展示了游戏的剧情过场，捏脸系统，枪械自定义以及战斗系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1314991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美行水货已死？美版iPhone 14实拍：没有实体SIM卡插槽](https://www.cnbeta.com/articles/tech/1314975.htm) | Sun Sep 11 2022 12:28 PM 
+- 💂 [Ubuntu峰会将于今年11月回归 举办地点捷克布拉格](https://www.cnbeta.com/articles/tech/1314989.htm) | Sun Sep 11 2022 12:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据 The Verge 报道，新的 iPhone 14 系列智能手机的美版将不具备实体 SIM 卡插槽。它们将能够使用 eSIM （电子 SIM 卡）实现双卡双待，同时储存更多 eSIM。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Canonical曾经在每个Ubuntu Linux开发周期中举办精彩的现场活动，即Ubuntu开发者峰会，但那是十几年前的事了，后来它在很大程度上变成了一个虚拟活动，然后逐渐消失，转而变成支持Canonical的内部路线图规划和其他员工之间的开发者冲刺的活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《阿凡达2》曝全新概念图 《阿凡达4》已经开始拍摄](https://hot.cnbeta.com/articles/movie/1314973.htm) | Sun Sep 11 2022 12:27 PM 
+- 🚀 [FLAC 1.4相隔近十年发布新版 包含AArch64优化及更快的x86_64 FMA](https://hot.cnbeta.com/articles/music/1314987.htm) | Sun Sep 11 2022 12:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《阿凡达2：水之道》发布新概念艺术图，影片将于12月16日北美上映。在迪士尼D23展会上，詹姆斯·卡梅隆远程宣布《阿凡达4》已经开拍。《阿凡达2》故事聚焦萨利一家，杰克和奈蒂莉现在为人父母了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1314973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;FLAC 1.4于周五发布，作为&amp;quot;自由无损音频编解码器&amp;quot;，它以其强大可靠而无成本的数字音频无损压缩而闻名。自FLAC 1.3（2013年5月）发布以来已经有近十年的时间，周五带来的FLAC 1.4系列的发布引入了一系列改进。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1314987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [气候变暖成人畜共患病传染主因？病毒学家认为应重视监测](https://www.cnbeta.com/articles/tech/1314971.htm) | Sun Sep 11 2022 12:26 PM 
+- 🎊 [8月轿车销量：轩逸朗逸黯然神伤、比亚迪海豚暴增数百倍](https://www.cnbeta.com/articles/tech/1314985.htm) | Sun Sep 11 2022 12:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有研究表明，全球气候变暖正在成为人畜共患病传播主要原因之一。“每次疫情发现，都是生态系统共同作用的结果。当前，气候变化正在灾难性地摧毁生物多样性，并使得携带病毒的动物活动范围增加，为疾病传播打开入口。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;刚刚过去的8月，国内狭义乘用车市场销量达187.1万辆，同比增长28.8%，环比7月的181.8万辆增长2.9%。其中，轿车细分市场8月销量为90.3万辆，同比增长24.8%，环比7月的98.7万辆下降8.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1314985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
