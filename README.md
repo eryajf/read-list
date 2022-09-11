@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [CodeLet - 快速创建引人注目的代码片段图像](https://xinquji.com/posts/179412?utm_campaign=xinquji-rss) | Sun Sep 11 2022 6:23 AM 
+- 👀 [Growthling Kit - 来自企业家和制造商的 100 多个营销建议和技巧](https://xinquji.com/posts/179423?utm_campaign=xinquji-rss) | Mon Sep 12 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     快速创建引人注目的代码片段图像  
+     来自企业家和制造商的 100 多个营销建议和技巧  
     </details> 
 
-- 🥷 [Synapse - 区块链图集](https://xinquji.com/posts/179411?utm_campaign=xinquji-rss) | Sun Sep 11 2022 6:21 AM 
+- 🥷 [Emailgurus - Open Source - 让您的 Gmail 收件箱专注于您认识的人](https://xinquji.com/posts/179422?utm_campaign=xinquji-rss) | Mon Sep 12 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     区块链图集  
+     让您的 Gmail 收件箱专注于您认识的人  
     </details> 
 
-- 💼 [Smart Pill ID - 用相机识别药丸](https://xinquji.com/posts/179410?utm_campaign=xinquji-rss) | Sun Sep 11 2022 6:18 AM 
+- 💼 [Spam Checker by Mailmeteor - 检测并删除电子邮件中的垃圾邮件](https://xinquji.com/posts/179421?utm_campaign=xinquji-rss) | Mon Sep 12 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     用相机识别药丸  
+     检测并删除电子邮件中的垃圾邮件  
     </details> 
 
-- 🦅 [InSave - 用于下载 Instagram 图像的 Chrome 扩展按钮](https://xinquji.com/posts/179409?utm_campaign=xinquji-rss) | Sun Sep 11 2022 6:16 AM 
+- 🦅 [Startup Launch Videos - 最好的启动启动视频的集合](https://xinquji.com/posts/179420?utm_campaign=xinquji-rss) | Mon Sep 12 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     用于下载 Instagram 图像的 Chrome 扩展按钮  
+     最好的启动启动视频的集合  
     </details> 
 
-- 😺 [GitMails - 重要 GitHub 组织事件的即时通知](https://xinquji.com/posts/179408?utm_campaign=xinquji-rss) | Sun Sep 11 2022 6:14 AM 
+- 😺 [Luma Language - 以 10 倍的速度学习一种语言的前 1,000 个单词](https://xinquji.com/posts/179419?utm_campaign=xinquji-rss) | Mon Sep 12 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     重要 GitHub 组织事件的即时通知  
+     以 10 倍的速度学习一种语言的前 1,000 个单词  
     </details> 
 <!-- xinquji:END -->
