@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Stack Reviews - 让开发者社区更紧密地联系在一起](https://xinquji.com/posts/179448?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:30 AM 
+- 👀 [到期清单 - 管理倒数日/会员管理/纪念‪日‬/食品药品化妆品的有效期](https://xinquji.com/posts/179335?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:50 AM 
+    <details><summary>展开描述 ...</summary> 
+     管理倒数日/会员管理/纪念‪日‬/食品药品化妆品的有效期  
+    </details> 
+
+- 🥷 [Plasma Wallet - 适用于您的加密、DeFi 和 NFT 的多合一移动应用程序](https://xinquji.com/posts/179449?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:32 AM 
+    <details><summary>展开描述 ...</summary> 
+     适用于您的加密、DeFi 和 NFT 的多合一移动应用程序  
+    </details> 
+
+- 💼 [Stack Reviews - 让开发者社区更紧密地联系在一起](https://xinquji.com/posts/179448?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
      让开发者社区更紧密地联系在一起  
     </details> 
 
-- 🥷 [Keyframes Studio - 在您的屏幕上创建 TikTok 视频](https://xinquji.com/posts/179447?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:30 AM 
+- 🦅 [Keyframes Studio - 在您的屏幕上创建 TikTok 视频](https://xinquji.com/posts/179447?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
      在您的屏幕上创建 TikTok 视频  
     </details> 
 
-- 💼 [Transcriberz - 将 WhatsApp 语音笔记转换为文本](https://xinquji.com/posts/179446?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:28 AM 
+- 😺 [Transcriberz - 将 WhatsApp 语音笔记转换为文本](https://xinquji.com/posts/179446?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
      将 WhatsApp 语音笔记转换为文本  
-    </details> 
-
-- 🦅 [EARLY ONES - 通过提供有关新 Web3 产品的反馈来赚取加密货币](https://xinquji.com/posts/179445?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:27 AM 
-    <details><summary>展开描述 ...</summary> 
-     通过提供有关新 Web3 产品的反馈来赚取加密货币  
-    </details> 
-
-- 😺 [Hopscotch - 寻找您在纽约的社区](https://xinquji.com/posts/179444?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:26 AM 
-    <details><summary>展开描述 ...</summary> 
-     寻找您在纽约的社区  
     </details> 
 <!-- xinquji:END -->
