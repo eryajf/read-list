@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [哈勃太空望远镜发回球状星团Terzan 4的壮观图像](https://www.cnbeta.com/articles/science/1315139.htm) | Mon Sep 12 2022 4:20 AM 
+- 🕯 [英特尔，三年后重返巅峰？](https://www.cnbeta.com/articles/tech/1315151.htm) | Mon Sep 12 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在哈勃太空望远镜拍摄的这张照片中，球状星团Terzan 4中闪闪发光的众多恒星充满了整个画面。球状星团是由相互间的引力结合在一起的恒星集合体，可以包含数百万颗单独的恒星。正如这张图片所显示的那样，像Terzan 4这样的球状星团的中心是一个密集的、拥挤的星域--这使得图片非常壮观。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据tomshardware报道，在日前参加 Evercore ISI TMT 会议的时候，Pat Gelsinger表示，至少在2023年之前，公司预计还将继续失去数据中心的市场份额，按照他的说法，这主要是因为“竞争对手势头太猛，但英特尔执行的不够好。因此我们确实预计会继续丢去份额，我们也跟不上总体 TAM 增长”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中国古动物馆鳄雀鳝咬伤游客 专家呼吁停止售卖、放生](https://www.cnbeta.com/articles/tech/1315137.htm) | Mon Sep 12 2022 3:59 AM 
+- 💼 [拜登亲自站台2纳米 200亿美元地球最大硅制造基地启动](https://www.cnbeta.com/articles/tech/1315149.htm) | Mon Sep 12 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/ttarticle/p/show?id=2309404812643038004016&quot; target=&quot;_blank&quot;&gt;新京报&lt;/a&gt;报道称，9月11日下午2点30分左右，一名游客在中国古动物馆游览时被鱼缸里的鳄雀鳝咬伤。据目击者称，该游客手指被咬，“目测伤口有5厘米至8厘米。”中国古动物馆工作人员表示，该鳄雀鳝早在2013年前后就已入住馆内，其间尚未发生过类似事件。后续将对鱼缸采取上锁等加固措施，确保游客安全。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔200亿美元晶圆厂终于正式开工，拜登亲自出席道贺。面对三星和台积电的制程优势，英特尔真能“弯道超车”吗？在美国2800亿美元的“芯片与科学法案”通过一个多月之后，英特尔计划已久的俄亥俄州200亿美元的芯片工厂终于正式破土动工。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [日本电信运营商再次发生通信故障 波及16个都道县](https://www.cnbeta.com/articles/tech/1315135.htm) | Mon Sep 12 2022 3:58 AM 
+- 💂 [微软邀请教育工作者参与其识字工具技能挑战赛](https://www.cnbeta.com/articles/tech/1315147.htm) | Mon Sep 12 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本电信运营商KDDI（au）公司当地时间11日发布消息称，当晚约10时30分起，日本东部16个都道县发生通信故障。故障在当晚10时42分修复。包括119等紧急电话在内的语音通话和短信服务（SMS）一时难以使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月8日，微软推出了&amp;quot;识字技能挑战&amp;quot;，正如其描述的那样，这是一个&amp;quot;游戏化的学习挑战&amp;quot;，将帮助教育工作者和学校领导熟悉其识字工具，以培养学习者的识字技能。&lt;/strong&gt;微软教育集团首席产品经理Mike Tholfsen邀请教育专业人员参加游戏，在撰写本报告时，有618名参与者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [罗布乐思宣布加入元宇宙事业 目标革新3D广告项目](https://hot.cnbeta.com/articles/game/1315133.htm) | Mon Sep 12 2022 3:58 AM 
+- 🚀 [网红吹头发视频被下架后起诉平台 法院判其败诉](https://hot.cnbeta.com/articles/movie/1315145.htm) | Mon Sep 12 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;目前世界最大的多人在线创作游戏分享平台罗布乐思于美国当地时间9月9日举行的开发者会议上宣布，罗布乐思加入元宇宙事业，目标是 推出革新性的3D投入感类型广告项目，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，网红林某分享了一则在淋浴间吹头发的视频，不久被平台判定涉及低俗而下架。林某反复申诉未果后，将短视频平台告上了法庭。该案已经在北京市第四中级人民法院二审审结，法院认为视频内容易使大众产生不适，下架并无不当，最终驳回了林某的全部请求。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果售后大加强 648元就能无限换新机？](https://www.cnbeta.com/articles/tech/1315131.htm) | Mon Sep 12 2022 3:57 AM 
+- 🎊 [iPhone 14系列换电池苹果也涨价 全系四款都是748元](https://www.cnbeta.com/articles/tech/1315143.htm) | Mon Sep 12 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;可能很多用户在苹果官网下单产品时都会遇到一个艰难的抉择：到底要不要给这个产品买Apple Care+呢？买吧，又要多出几百到几千块，不买吧，万一屏幕碎了，进水主板烧了就得花更多的钱去维修。&lt;strong&gt;我也经常会收到来自朋友们的疑问，我到底有没有必要多花这点钱去买个“保险”呢？它真的值得吗？&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;每一代iPhone的电池容量都被用户很关心，毕竟苹果手机的续航太不能打了。据&lt;strong&gt;MacRumors发现的信息，iPhone 14电池容量3279mAh、iPhone 14 Plus电池容量4325mAh、iPhone 14 Pro电池容量3200mAh、iPhone 14 Pro Max电池容量4323mAh。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
