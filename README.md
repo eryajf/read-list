@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端小白的几个坏习惯](https://juejin.cn/post/7142368724144619556) | Mon Sep 12 2022 5:59 AM 
+- 🤗 [从拜占庭将军问题到分布式系统的一致性](https://juejin.cn/post/7142379224278499359) | Mon Sep 12 2022 6:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇我们会以拜占庭问题为引，来谈论一下关于分布式系统中一致性的问题。拜占庭问题（Byzantine failures）也叫拜占庭将军问题，是由莱斯利·兰伯特提出的点对点通信中的基本问题。 
+    </details> 
+
+- 🎡 [DevOps系列-01：CI、CD 与 DevOps 是什么？](https://juejin.cn/post/7142377932000854046) | Mon Sep 12 2022 6:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇我们来介绍一下，CI、CD以及DevOps的基本概念和范畴。CI、CD都是衡量成功实践 DevOps 的主要方法，我们也会讨论一下它们是如何让 DevOps 实践起来更轻松的。 
+    </details> 
+
+- 🕯 [前端小白的几个坏习惯](https://juejin.cn/post/7142368724144619556) | Mon Sep 12 2022 5:59 AM 
     <details><summary>展开描述 ...</summary> 
     最近在教授前端小白学员编写一些简单的网页。在这个过程中发现了小白们比较容易遇到的一些问题或者坏习惯，在这里对它们进行一一解释。 文件名命名 有些学员的文件命名是这样的： 除了网页的内容外，所有的东西都 
     </details> 
 
-- 🎡 [2022 年 App 上架审核问题集锦，全面踩坑上线不迷路](https://juejin.cn/post/7142363251911688222) | Mon Sep 12 2022 5:41 AM 
+- 🚀 [2022 年 App 上架审核问题集锦，全面踩坑上线不迷路](https://juejin.cn/post/7142363251911688222) | Mon Sep 12 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
     相信这几年负责过上架应用市场的 App 开发，或多或少都躺过上线审核的坑，经历过的各种问题也是千奇百怪，今天就给大家做个汇总，希望可以帮助大家少走弯路，争取做一个“优雅”的客户端开发。 首先，近年来为 
     </details> 
 
-- 🕯 [房贷30年和100年谁更划算，写个vue实例告诉你](https://juejin.cn/post/7142350896611983396) | Mon Sep 12 2022 4:55 AM 
+- 💪 [房贷30年和100年谁更划算，写个vue实例告诉你](https://juejin.cn/post/7142350896611983396) | Mon Sep 12 2022 4:55 AM 
     <details><summary>展开描述 ...</summary> 
     各位大佬准备买房了么？ 你知道贷款30年和贷款100年，首月还款额会降低多少么？ 让我们用vue写个房贷计算器来告诉你吧。 
-    </details> 
-
-- 🚀 [升级 React Router v6 指南](https://juejin.cn/post/7142340968065761311) | Mon Sep 12 2022 4:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    近期完成了公司新项目的开发，相关的技术栈都用到了最新版本，react router 也使用了 v6 的版本，所以借这个机会自己再梳理下 react router v5 与 v6 的区别 
-    </details> 
-
-- 💪 [day05 第4章 响应系统的作用与实现](https://juejin.cn/post/7142339734793093150) | Mon Sep 12 2022 4:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、前言 响应系统是Vue.js的重要组成部分，一起来研究下 讨论什么是响应式数据和副作用函数，然后尝试实现一个相对完善的响应系统。 可能遇到的问题： 如何避免无限递归？ 为什么需要嵌套的副作用函数？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
