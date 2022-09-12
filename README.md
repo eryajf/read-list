@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Growthling Kit - 来自企业家和制造商的 100 多个营销建议和技巧](https://xinquji.com/posts/179423?utm_campaign=xinquji-rss) | Mon Sep 12 2022 6:18 AM 
+- 👀 [Stack Reviews - 让开发者社区更紧密地联系在一起](https://xinquji.com/posts/179448?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     来自企业家和制造商的 100 多个营销建议和技巧  
+     让开发者社区更紧密地联系在一起  
     </details> 
 
-- 🥷 [Emailgurus - Open Source - 让您的 Gmail 收件箱专注于您认识的人](https://xinquji.com/posts/179422?utm_campaign=xinquji-rss) | Mon Sep 12 2022 6:16 AM 
+- 🥷 [Keyframes Studio - 在您的屏幕上创建 TikTok 视频](https://xinquji.com/posts/179447?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     让您的 Gmail 收件箱专注于您认识的人  
+     在您的屏幕上创建 TikTok 视频  
     </details> 
 
-- 💼 [Spam Checker by Mailmeteor - 检测并删除电子邮件中的垃圾邮件](https://xinquji.com/posts/179421?utm_campaign=xinquji-rss) | Mon Sep 12 2022 6:14 AM 
+- 💼 [Transcriberz - 将 WhatsApp 语音笔记转换为文本](https://xinquji.com/posts/179446?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     检测并删除电子邮件中的垃圾邮件  
+     将 WhatsApp 语音笔记转换为文本  
     </details> 
 
-- 🦅 [Startup Launch Videos - 最好的启动启动视频的集合](https://xinquji.com/posts/179420?utm_campaign=xinquji-rss) | Mon Sep 12 2022 6:14 AM 
+- 🦅 [EARLY ONES - 通过提供有关新 Web3 产品的反馈来赚取加密货币](https://xinquji.com/posts/179445?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     最好的启动启动视频的集合  
+     通过提供有关新 Web3 产品的反馈来赚取加密货币  
     </details> 
 
-- 😺 [Luma Language - 以 10 倍的速度学习一种语言的前 1,000 个单词](https://xinquji.com/posts/179419?utm_campaign=xinquji-rss) | Mon Sep 12 2022 6:12 AM 
+- 😺 [Hopscotch - 寻找您在纽约的社区](https://xinquji.com/posts/179444?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     以 10 倍的速度学习一种语言的前 1,000 个单词  
+     寻找您在纽约的社区  
     </details> 
 <!-- xinquji:END -->
