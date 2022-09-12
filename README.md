@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [微软 PowerToys 小工具合集 - 免费给 Win11/10 加装各种增强新功能的效率利器](https://www.iplaysoft.com/powertoys.html) | Sun Sep 11 2022 4:15 PM
-- 🧑‍🏫 [万彩特效大师 &lpar;限时送会员&rpar; - 零基础轻松剪辑合成特效动画视频 / 替代 AE 制作特效大片](https://www.iplaysoft.com/wctxds.html) | Tue Sep 06 2022 7:52 PM
-- 🥰 [WxDatViewer - 微信聊天记录图片批量清理/查看/导出/删除工具 &lpar;解密读取电脑版 dat 文件&rpar;](https://www.iplaysoft.com/wxdatviewer.html) | Mon Sep 05 2022 2:21 PM
-- 💻 [iSlide 插件 &lpar;PPT 增强神器&rpar; 买两年送 360 天！每月不到 5 块钱](https://www.iplaysoft.com/news/5670) | Thu Sep 01 2022 4:30 PM
-- 🎃 [《古墓丽影 : 暗影 终极版》限免领取！劳拉重启三部曲最后必玩大作 &lpar;包含全部 DLC&rpar;](https://www.iplaysoft.com/shadow-of-the-tomb-raider.html) | Thu Sep 01 2022 3:24 PM<!-- iplaysoft:END -->
+- 🧐 [经典神器复活！WinAMP - 本地音乐播放器昔日王者更新 &lpar;支持 Win11&rpar;](https://www.iplaysoft.com/p/winamp) | Mon Sep 12 2022 11:49 AM
+- 🧑‍🏫 [微软 PowerToys 小工具合集 - 免费给 Win11/10 加装各种增强新功能的效率利器](https://www.iplaysoft.com/powertoys.html) | Sun Sep 11 2022 4:15 PM
+- 🥰 [万彩特效大师 &lpar;限时送会员&rpar; - 零基础轻松剪辑合成特效动画视频 / 替代 AE 制作特效大片](https://www.iplaysoft.com/wctxds.html) | Tue Sep 06 2022 7:52 PM
+- 💻 [WxDatViewer - 微信聊天记录图片批量清理/查看/导出/删除工具 &lpar;解密读取电脑版 dat 文件&rpar;](https://www.iplaysoft.com/wxdatviewer.html) | Mon Sep 05 2022 2:21 PM
+- 🎃 [iSlide 插件 &lpar;PPT 增强神器&rpar; 买两年送 360 天！每月不到 5 块钱](https://www.iplaysoft.com/news/5670) | Thu Sep 01 2022 4:30 PM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
