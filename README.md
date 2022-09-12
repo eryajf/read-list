@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [毕业5年了还不知道热修复？](https://juejin.cn/post/7142481619604111390) | Mon Sep 12 2022 1:19 PM 
+- 🤗 [你还不知道vue3中依赖收集和派发更新的实现逻辑吗？那你就out啦~还不快来看！](https://juejin.cn/post/7142506464752435231) | Mon Sep 12 2022 2:54 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 热修复到现在2022年已经不是一个新名词，但是作为Android开发核心技术栈的一部分，我这里还得来一次冷饭热炒。 随着移动端业务复杂程度的增加，传统的版本更新流程显然无法满足业务和开发者的需求 
+    在阅读本文前不知道你是否已经明白`依赖收集`以及`派发更新`的具体作用。当然不明白也没关系，本文会先语义话的讲一讲这两者的概念，这样能有一个基本的理解。接着我们在深入源码去看一看这两者的具体实现。 
     </details> 
 
-- 🎡 [JS继承是啥，你还清楚吗](https://juejin.cn/post/7142481366948610062) | Mon Sep 12 2022 1:16 PM 
+- 🎡 [如何给技术部员工做考核？](https://juejin.cn/post/7142505498070220814) | Mon Sep 12 2022 2:53 PM 
     <details><summary>展开描述 ...</summary> 
-    一、是什么 继承（inheritance）是面向对象软件技术当中的一个概念。 如果一个类别B“继承自”另一个类别A，就把这个B称为“A的子类”，而把A称为“B的父类别”也可以称“A是B的超类” 继承的 
+    那考核的目的是什么呢？我能想到的考核目的有3个： 1. 让付出和回报尽可能公平。 2. 打造高绩效团队，淘汰那些不合格的员工。 3. 确保员工的个人目标与企业目标相一致，并能通过绩效考核机 
     </details> 
 
-- 🕯 [面试突击82：SpringBoot 中如何操作事务？](https://juejin.cn/post/7142477197666680869) | Mon Sep 12 2022 12:59 PM 
+- 🕯 [Node 环境调通 Jira rest api 要踩多少坑](https://juejin.cn/post/7142502102206513183) | Mon Sep 12 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
-    在 Spring Boot 中操作事务有两种方式：编程式事务或声明式事务，接下来我们一起来看二者的具体实现。 
+    我司是使用 Jira 管理项目的 tasks、subtasks、issues。近期我要做一个 cli 工具，需要调用 jira rest api 获取某个 task 以及它下面的 subtasks 信 
     </details> 
 
-- 🚀 [保熟的UnoCSS使用指北，优雅使用antfu大佬的原子化CSS](https://juejin.cn/post/7142466784971456548) | Mon Sep 12 2022 12:21 PM 
+- 🚀 [质量问题不是不爆，时候未到](https://juejin.cn/post/7142497070669103140) | Mon Sep 12 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
-    什么是原子化CSS，UnoCSS又是什么，对此有疑问的推荐看下antfu的这篇文章——重新构想原子化 CSS &lpar;antfu.me&rpar; 相信看完这篇文章的你也会跟我一样热衷于UnoCSS 准备 首先，使用 
+    很认同的一个观念是：把事情一次性做好，就是最低的成本和最高的效率；所以需求再多，也要质量为王；如果因为产品的体验差影响业务，那么用户、平台、研发谁才是真正的大冤种？ 
     </details> 
 
-- 💪 [Vue自定义指令：实现元素滑动](https://juejin.cn/post/7142456939757338632) | Mon Sep 12 2022 11:41 AM 
+- 💪 [ufw的基本使用](https://juejin.cn/post/7142496543923257357) | Mon Sep 12 2022 2:15 PM 
     <details><summary>展开描述 ...</summary> 
-    后端码农写的前端博客：本文介绍使用Vue的自定义指令实现鼠标拖动元素的效果以及解决移动端适配的问题。 
+    ufw作为ubuntu20.04的默认防火墙，刚好最近需要用到防火墙，所以研究了ufw的基本用法。 ufw的下载 ufw是ubuntu20.04上的防火墙配置工具，一般是默认安装的，如果你没有安装，则 
     </details> 
 <!-- juejin:END -->
 ### 少数派
