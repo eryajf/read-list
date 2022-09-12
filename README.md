@@ -365,8 +365,8 @@
 
 <!-- v2ex:START -->
 - 🥸 [花了好长时间，重新设计了 SDB 的存储模型](https://www.v2ex.com/t/879553#reply0) | Mon Sep 12 2022 4:03 PM
-- 🤗 [小米设备 magisk root 后如何才能使第三方应用市场后台静默安装](https://www.v2ex.com/t/879551#reply0) | Mon Sep 12 2022 3:57 PM
-- 🎭 [PVE 7.x 是不是一堆坑？](https://www.v2ex.com/t/879533#reply15) | Mon Sep 12 2022 2:30 PM
+- 🤗 [小米设备 magisk root 后如何才能使第三方应用市场后台静默安装](https://www.v2ex.com/t/879551#reply2) | Mon Sep 12 2022 3:57 PM
+- 🎭 [PVE 7.x 是不是一堆坑？](https://www.v2ex.com/t/879533#reply20) | Mon Sep 12 2022 2:30 PM
 - 🥷 [分享一个 gin 搭建的纯模版开发的社区](https://www.v2ex.com/t/879514#reply0) | Mon Sep 12 2022 1:10 PM
 - 🐵 [我做过的一些 DDD 建模案例](https://www.v2ex.com/t/879512#reply0) | Mon Sep 12 2022 1:04 PM<!-- v2ex:END -->
 
