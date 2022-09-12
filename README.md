@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从拜占庭将军问题到分布式系统的一致性](https://juejin.cn/post/7142379224278499359) | Mon Sep 12 2022 6:40 AM 
+- 🤗 [阅读React源码初尝试（1）](https://juejin.cn/post/7142397447095091213) | Mon Sep 12 2022 7:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    1、目的 PS: 这句话必须要写，读了一些源码我发现，他们也只是普通的代码，不过他们考虑到性能/扩展/维护/可读/间接/优秀的逻辑和设计模式，我们应学习这些，当然也不要怕他们是洪水猛兽 之前好像写给如 
+    </details> 
+
+- 🎡 [从拜占庭将军问题到分布式系统的一致性](https://juejin.cn/post/7142379224278499359) | Mon Sep 12 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
     本篇我们会以拜占庭问题为引，来谈论一下关于分布式系统中一致性的问题。拜占庭问题（Byzantine failures）也叫拜占庭将军问题，是由莱斯利·兰伯特提出的点对点通信中的基本问题。 
     </details> 
 
-- 🎡 [DevOps系列-01：CI、CD 与 DevOps 是什么？](https://juejin.cn/post/7142377932000854046) | Mon Sep 12 2022 6:34 AM 
+- 🕯 [DevOps系列-01：CI、CD 与 DevOps 是什么？](https://juejin.cn/post/7142377932000854046) | Mon Sep 12 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
     本篇我们来介绍一下，CI、CD以及DevOps的基本概念和范畴。CI、CD都是衡量成功实践 DevOps 的主要方法，我们也会讨论一下它们是如何让 DevOps 实践起来更轻松的。 
     </details> 
 
-- 🕯 [前端小白的几个坏习惯](https://juejin.cn/post/7142368724144619556) | Mon Sep 12 2022 5:59 AM 
+- 🚀 [前端小白的几个坏习惯](https://juejin.cn/post/7142368724144619556) | Mon Sep 12 2022 5:59 AM 
     <details><summary>展开描述 ...</summary> 
     最近在教授前端小白学员编写一些简单的网页。在这个过程中发现了小白们比较容易遇到的一些问题或者坏习惯，在这里对它们进行一一解释。 文件名命名 有些学员的文件命名是这样的： 除了网页的内容外，所有的东西都 
     </details> 
 
-- 🚀 [2022 年 App 上架审核问题集锦，全面踩坑上线不迷路](https://juejin.cn/post/7142363251911688222) | Mon Sep 12 2022 5:41 AM 
+- 💪 [2022 年 App 上架审核问题集锦，全面踩坑上线不迷路](https://juejin.cn/post/7142363251911688222) | Mon Sep 12 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
     相信这几年负责过上架应用市场的 App 开发，或多或少都躺过上线审核的坑，经历过的各种问题也是千奇百怪，今天就给大家做个汇总，希望可以帮助大家少走弯路，争取做一个“优雅”的客户端开发。 首先，近年来为 
-    </details> 
-
-- 💪 [房贷30年和100年谁更划算，写个vue实例告诉你](https://juejin.cn/post/7142350896611983396) | Mon Sep 12 2022 4:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    各位大佬准备买房了么？ 你知道贷款30年和贷款100年，首月还款额会降低多少么？ 让我们用vue写个房贷计算器来告诉你吧。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
