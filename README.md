@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [ZOTAC GeForce RTX 4090 AMP Extreme定制显卡泄露 巨大的四插槽怪物](https://www.cnbeta.com/articles/tech/1315231.htm) | Mon Sep 12 2022 12:40 PM 
+- 🕯 [索尼Xperia 1 IV Gaming Edition发布：8500元 比iPhone 13 Pro更贵](https://www.cnbeta.com/articles/tech/1315241.htm) | Mon Sep 12 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;ZOTAC的下一代NVIDIA GeForce RTX 4090 AMP Extreme显卡已经泄露出来，采用了巨大的占用四个插槽的散热器的未来主义设计。&lt;/strong&gt;这些显卡似乎是从一个显卡生产厂出来的，看起来ZOTAC GeForce RTX 4090 AMP Extreme尤其显眼，绝对是一头大野兽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，&lt;strong&gt;索尼Xperia 1 IV Gaming Edition正式发布，售价175000日元（约合人民币8500元）。&lt;/strong&gt;和竞品iPhone 14 Pro相比，索尼Xperia 1 IV Gaming Edition售价更高，&lt;strong&gt;前者在日本起售价是149800日元（128GB，约合人民币7300元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [凯迪拉克CT4原神版申报图亮相](https://www.cnbeta.com/articles/tech/1315229.htm) | Mon Sep 12 2022 12:19 PM 
+- 💼 [《美国队长4》宣布新老卡司 新任猎鹰登场](https://hot.cnbeta.com/articles/movie/1315239.htm) | Mon Sep 12 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于追求个性的车主来说，车身改色和车膜贴图算是性价比较高的改车方案之一，不过，一些贴图改色，往往因为面积、尺寸等不符合规定要求，上路容易被管理部门查处。而官方改装则完全规避了此类风险，日前，凯迪拉克CT4和XT4的原神痛车申报图曝光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;安东尼·麦凯携《美国队长4》亮相，现场宣布《猎鹰与冬兵》中的Joaquin Torres——新任猎鹰（丹尼·拉米雷斯饰），以及老年改造士兵Isaiah Bradley（卡尔·鲁伯利饰）将亮相该片。蒂姆·布雷克·尼尔森回归饰演“领导者”，《离经叛道》女主茜拉·哈斯新加盟。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [星巴克展示基于区块链的忠诚度平台和NFT社区：Starbucks Odyssey](https://www.cnbeta.com/articles/tech/1315227.htm) | Mon Sep 12 2022 12:11 PM 
+- 💂 [美国提出全球最高普遍宽带服务要求](https://www.cnbeta.com/articles/tech/1315237.htm) | Mon Sep 12 2022 1:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;星巴克今天正式推出Starbucks Odyssey，今年晚些时候推出--这是咖啡连锁店首次尝试使用web3技术进行建设。新的体验将公司成功的星巴克奖励忠诚度计划与NFT平台相结合，允许其客户赚取和购买数字资产，解锁独家体验和奖励。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年7月15日，美国联邦通信委员会（FCC）发布了“调查通知”，建议将最低宽带速度的国家标准提高到100Mbps（下行）和20Mbps（上行）。传统上，大多数国家的普遍服务义务（USO）集中在固话能力和纯实用性互联网连接上，通常只是拨号速度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [一加OnePlus 11 Pro渲染图流出：重新设计相机模块、通知滑块依然存在](https://www.cnbeta.com/articles/tech/1315225.htm) | Mon Sep 12 2022 11:55 AM 
+- 🚀 [微软正测试Edge的“钱包”功能 可帮助更好管理数字资产](https://www.cnbeta.com/articles/tech/1315235.htm) | Mon Sep 12 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近一段时间，OnePlus连续推出智能手机度过了忙碌的一年，该品牌以OnePlus 10 Pro旗舰机拉开了今年的序幕，接着又推出了OnePlus 10R、OnePlus 10T和更多Nord品牌的产品，此前我们听到有传言说OnePlus 10T可能是该品牌今年的最后一款旗舰手机。&lt;strong&gt;在这种情况下，我们现在看到了一些OnePlus 11 Pro的渲染图，由SmartPrix和Steve Hemmerstoffer提供。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软Edge正在开发一项新功能&amp;quot;钱包&amp;quot;，该功能的到位是为了帮助用户管理Windows 10和Windows 11上的数字资产和储蓄。有了这个工具，用户现在将能够通过浏览器更安全地进行在线交易。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [郭明錤：产品策略失败 iPhone 14 Plus预售情况比iPhone 13 Mini更差](https://www.cnbeta.com/articles/tech/1315223.htm) | Mon Sep 12 2022 11:52 AM 
+- 🎊 [一场脱口秀带火“600759”股票 股民坐等周一开盘](https://hot.cnbeta.com/articles/funny/1315233.htm) | Mon Sep 12 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果产业链分析师郭明錤表示，iPhone 14和iPhone 14 Plus的预购结果&amp;quot;糟糕&amp;quot;，表明苹果对这两款新标准机型的定位可能已经失败。郭明錤在Medium上的最新文章中解释说，与iPhone 13 Pro和iPhone 13 Pro Max相比，iPhone 14 Pro和iPhone 14 Pro Max的预购结果&amp;quot;中性&amp;quot;和&amp;quot;良好&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;A股散户的创造力强大到不可想象，“脱口秀概念股”从一档脱口秀节目中横空出世，持股的股民坐等周一开盘“捡钱”。据悉，中秋节假期播出的一场脱口秀节目直接带火了“600759”，12日一早，该股在热搜榜上飙升至第一，在其它证券软件上人气也居高不下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1315233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
