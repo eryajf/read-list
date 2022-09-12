@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [更多NVIDIA GeForce RTX 4090技嘉定制款显卡已泄露](https://www.cnbeta.com/articles/tech/1315177.htm) | Mon Sep 12 2022 9:09 AM 
+- 🕯 [相连2000多年 阿尔卑斯山两片冰川或在本月彻底断开](https://www.cnbeta.com/articles/tech/1315195.htm) | Mon Sep 12 2022 10:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有硬件玩家在EEC网站上发现了技嘉公司的另一份NVIDIA GeForce RTX 4090定制显卡的清单。虽然之前基于零售商的列表只让我们看到了三个型号，但EEC（欧亚经济委员会）的最新列表泄露了更多。技嘉RTX 4090阵容预计将包括至少五个AORUS和六个标准变体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;受全球变暖的影响，全球多处的冰盖、冰川面积锐减。欧洲地区今年夏天遭受热浪袭击，进一步加快冰川融化速度。近日，在瑞士西部一家叫“冰川3000”的滑雪胜地表示，今年夏天这里的冰川融化量约为过去10年里平均水平的三倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [高铁行驶途中李易峰广告被紧急撤换 此前该品牌已终止合作](https://hot.cnbeta.com/articles/movie/1315175.htm) | Mon Sep 12 2022 9:04 AM 
+- 💼 [英特尔低功耗35W i7-13700T CPU在泄露的基准测试数据中进步明显](https://www.cnbeta.com/articles/tech/1315193.htm) | Mon Sep 12 2022 10:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月12日下午，话题#高铁行驶途中李易峰广告被紧急撤换#登上热搜。视频内容显示，在某班次高铁上，座椅头巾广告被乘务员统统摘掉，网友表示：“都等不及到站。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔酷睿i7-13700T（35W Raptor LakeCPU）的新基准测试已经泄露出来，显示出令人印象深刻的性能数据，它在泄露的基准测试中比105W的Ryzen 7 5800X和125W的酷睿i5-12600K更快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔酷睿i9-13900KS可能是全球首款频率突破6GHz的PC处理器](https://www.cnbeta.com/articles/tech/1315173.htm) | Mon Sep 12 2022 8:38 AM 
+- 💂 [马斯克称2022年能实现全自动驾驶，他在做梦吗？](https://www.cnbeta.com/articles/tech/1315191.htm) | Mon Sep 12 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着英特尔第13代酷睿&amp;quot;猛禽湖&amp;quot;面临来自AMD的Ryzen 7000系列的激烈竞争，以及&amp;quot;Zen 4&amp;quot;系列将在2023年初增加7000X3D系列，英特尔将推出可能的&amp;quot;酷睿i9-13900KS&amp;quot;SKU已成为定局，它即将成为世界上第一个可以提升到6.00GHz大关的桌面处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自动驾驶汽车创业公司都许下了一个美好的承诺，那就是开发出真正的自动驾驶汽车，并因此筹集到了数百亿美元。但是，行业高管和专家表示，汽车制造商可能永远都需要远程人类监督员，以帮助陷入困境的机器人司机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国移动推NFC电子学生证：带屏幕 支持行程码展示](https://www.cnbeta.com/articles/tech/1315171.htm) | Mon Sep 12 2022 8:30 AM 
+- 🚀 [《美国队长：新世界秩序》反派“大头目”确认 蒂姆布雷克尼尔森出演](https://hot.cnbeta.com/articles/movie/1315189.htm) | Mon Sep 12 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在山西运城，为助力校园做好疫情防控工作，满足学生校园生活需求，中国移动山西公司创新性推出NFC（近场通信）有屏电子学生证产品。在接打电话、一键报警、电子围栏、安全定位、轨迹回放的功能基础上，&lt;strong&gt;新增了限额支付功能、行程码展示以及“和教育”平台“一户三码”的报表统计功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在近日举办的D23博览会上漫，威粉丝们获得了许多关于漫威工作室即将推出的项目的最新消息，其中就包括粉丝们期待已久的《美国队长：新世界秩序》。&lt;/strong&gt;在周六的漫威发布会上，这部电影的演员阵容已经公布，包括安东尼·麦凯回归饰演山姆·威尔逊（美国队长），丹尼·拉米雷饰演华金·托雷斯，还有消息称茜拉·哈斯将在漫威电影宇宙出演以色列超级英雄萨布拉。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Chromecast HD廉价版将发布：运行Google TV 12 降级CPU](https://www.cnbeta.com/articles/tech/1315169.htm) | Mon Sep 12 2022 7:30 AM 
+- 🎊 [NAND闪存将成为PCIe Gen 5.0固态硬盘的瓶颈 需要更多层工艺才能满足](https://www.cnbeta.com/articles/tech/1315187.htm) | Mon Sep 12 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们已经听说了几个月关于带有Google电视的廉价版Chromecast的消息，现在一个新的泄漏揭示了新的软件细节、规格，甚至是明显的&amp;quot;Chromecast HD&amp;quot;品牌标识。Kuba Wojciechowski，一个在Twitter上有挖掘Google软件历史的开发者，声称已经获得了Google新Chromecast的完整软件，其中揭示了关于该设备的几个细节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;基于Phison E26控制器的固态硬盘可以利用PCIe Gen 5.0标准，一些设备在过去几个月中已经公布。虽然该控制器可以达到13GB/的速度，但大多数固态硬盘的最大读取速度为10GB/s。&lt;/strong&gt;最近Phison公司的PS5026-E26控制器提供了八个NAND通道，帮助不同的传输数据速率，但需要一个具有2400MT/s接口的3D NAND存储器来满足较新的PCIe 5.0 x4接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
