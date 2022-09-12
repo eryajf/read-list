@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [索尼Xperia 1 IV Gaming Edition发布：8500元 比iPhone 13 Pro更贵](https://www.cnbeta.com/articles/tech/1315241.htm) | Mon Sep 12 2022 1:43 PM 
+- 🕯 [金士顿发布基于硬件加密的IronKey Keypad 200 USB闪存驱动器](https://www.cnbeta.com/articles/tech/1315253.htm) | Mon Sep 12 2022 2:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，&lt;strong&gt;索尼Xperia 1 IV Gaming Edition正式发布，售价175000日元（约合人民币8500元）。&lt;/strong&gt;和竞品iPhone 14 Pro相比，索尼Xperia 1 IV Gaming Edition售价更高，&lt;strong&gt;前者在日本起售价是149800日元（128GB，约合人民币7300元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;全球领先的内存产品和技术解决方案提供商金士顿科技公司的闪存子公司金士顿数码公司今天宣布推出IronKey Keypad 200（KP200），这是业界首款为您的数据提供最新FIPS 140-3级安全保护的存储设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《美国队长4》宣布新老卡司 新任猎鹰登场](https://hot.cnbeta.com/articles/movie/1315239.htm) | Mon Sep 12 2022 1:41 PM 
+- 💼 [高校食堂做黑暗料理西红柿炒月饼引热议 卖1元被抢空](https://hot.cnbeta.com/articles/funny/1315251.htm) | Mon Sep 12 2022 2:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;安东尼·麦凯携《美国队长4》亮相，现场宣布《猎鹰与冬兵》中的Joaquin Torres——新任猎鹰（丹尼·拉米雷斯饰），以及老年改造士兵Isaiah Bradley（卡尔·鲁伯利饰）将亮相该片。蒂姆·布雷克·尼尔森回归饰演“领导者”，《离经叛道》女主茜拉·哈斯新加盟。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中秋节某高校食堂，推出“黑暗料理”西红柿炒月饼引发网友热议，视频中月饼被切两半和西红柿混在一起。视频发布者表示：朋友圈都被这道菜刷屏了，这道菜当天就被一抢而空。对此网友调侃：这是什么黑暗料理，喜欢月饼和不喜欢月饼的都惊呆了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1315251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美国提出全球最高普遍宽带服务要求](https://www.cnbeta.com/articles/tech/1315237.htm) | Mon Sep 12 2022 1:40 PM 
+- 💂 [史上最贵手机号？15666666666联通号上线拍卖 1366万起拍](https://www.cnbeta.com/articles/tech/1315249.htm) | Mon Sep 12 2022 2:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年7月15日，美国联邦通信委员会（FCC）发布了“调查通知”，建议将最低宽带速度的国家标准提高到100Mbps（下行）和20Mbps（上行）。传统上，大多数国家的普遍服务义务（USO）集中在固话能力和纯实用性互联网连接上，通常只是拨号速度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;相比于普通号码，手机靓号因其稀缺性而被赋予了不同的意义，使用“靓号”的用户，一般都是“非富即贵”。而手机靓号除了直接在运营商购买之外，司法拍卖途径也由来已久。近日，阿里资产拍卖平台上线了一个“顶级靓号”，&lt;strong&gt;联通手机号码15666666666，起拍价1366万元，保证金68.8万元。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软正测试Edge的“钱包”功能 可帮助更好管理数字资产](https://www.cnbeta.com/articles/tech/1315235.htm) | Mon Sep 12 2022 1:13 PM 
+- 🚀 [Google完成价值54亿美元的Mandiant网络安全公司收购案](https://www.cnbeta.com/articles/tech/1315247.htm) | Mon Sep 12 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软Edge正在开发一项新功能&amp;quot;钱包&amp;quot;，该功能的到位是为了帮助用户管理Windows 10和Windows 11上的数字资产和储蓄。有了这个工具，用户现在将能够通过浏览器更安全地进行在线交易。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Google宣布，其提议的价值54亿美元的收购网络安全公司Mandiant的交易现在已经完成。&lt;/strong&gt;这家互联网巨头早在3月份就首次透露了收购上市公司Mandiant的计划，在Mandiant从其前任所有者FireEye剥离后不到一年的时间里，作为与私募股权公司Symphony Technology Group的12亿美元交易的一部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [一场脱口秀带火“600759”股票 股民坐等周一开盘](https://hot.cnbeta.com/articles/funny/1315233.htm) | Mon Sep 12 2022 1:06 PM 
+- 🎊 [报道称Google考虑在印度生产Pixel智能手机](https://www.cnbeta.com/articles/tech/1315245.htm) | Mon Sep 12 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;A股散户的创造力强大到不可想象，“脱口秀概念股”从一档脱口秀节目中横空出世，持股的股民坐等周一开盘“捡钱”。据悉，中秋节假期播出的一场脱口秀节目直接带火了“600759”，12日一早，该股在热搜榜上飙升至第一，在其它证券软件上人气也居高不下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1315233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据一份报告称，Google正在考虑将其Pixel智能手机系列的部分生产转移到印度，这是一系列雄心勃勃的手机制造商在世界第二大市场本地组装手机的最新行动。据The Information周一报道，这家Android制造商已经向制造商招标，以组装50万至100万部Pixel智能手机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
