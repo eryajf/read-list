@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [阅读React源码初尝试（1）](https://juejin.cn/post/7142397447095091213) | Mon Sep 12 2022 7:50 AM 
+- 🤗 [使用CSS3+JS，实现简版的iphone14 Pro “灵动岛” 动画](https://juejin.cn/post/7142412129520812046) | Mon Sep 12 2022 8:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    首先，苹果的“灵动岛”设计确实巧妙。作为曾经的一个数码产品爱好者，最近几年确实很少在UI交互上看到这样令人眼前一亮的创新。这让笔者想起大学时期酷爱的那部魅族mx2，当年的“小圆圈”设计也很精巧。 
+    </details> 
+
+- 🎡 [React 开发总结](https://juejin.cn/post/7142404503868801054) | Mon Sep 12 2022 8:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    使用 React 开发的一些总结 渲染 同时改变 props &amp; state，会触发几次渲染? 比如：在 handleClick 中调用函数改变 props 同时 setState，只会触发一次渲染  
+    </details> 
+
+- 🕯 [阅读React源码初尝试（1）](https://juejin.cn/post/7142397447095091213) | Mon Sep 12 2022 7:50 AM 
     <details><summary>展开描述 ...</summary> 
     1、目的 PS: 这句话必须要写，读了一些源码我发现，他们也只是普通的代码，不过他们考虑到性能/扩展/维护/可读/间接/优秀的逻辑和设计模式，我们应学习这些，当然也不要怕他们是洪水猛兽 之前好像写给如 
     </details> 
 
-- 🎡 [从拜占庭将军问题到分布式系统的一致性](https://juejin.cn/post/7142379224278499359) | Mon Sep 12 2022 6:40 AM 
+- 🚀 [从拜占庭将军问题到分布式系统的一致性](https://juejin.cn/post/7142379224278499359) | Mon Sep 12 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
     本篇我们会以拜占庭问题为引，来谈论一下关于分布式系统中一致性的问题。拜占庭问题（Byzantine failures）也叫拜占庭将军问题，是由莱斯利·兰伯特提出的点对点通信中的基本问题。 
     </details> 
 
-- 🕯 [DevOps系列-01：CI、CD 与 DevOps 是什么？](https://juejin.cn/post/7142377932000854046) | Mon Sep 12 2022 6:34 AM 
+- 💪 [自动化构建工具之grunt与gulp](https://juejin.cn/post/7142377982596743182) | Mon Sep 12 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇我们来介绍一下，CI、CD以及DevOps的基本概念和范畴。CI、CD都是衡量成功实践 DevOps 的主要方法，我们也会讨论一下它们是如何让 DevOps 实践起来更轻松的。 
-    </details> 
-
-- 🚀 [前端小白的几个坏习惯](https://juejin.cn/post/7142368724144619556) | Mon Sep 12 2022 5:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近在教授前端小白学员编写一些简单的网页。在这个过程中发现了小白们比较容易遇到的一些问题或者坏习惯，在这里对它们进行一一解释。 文件名命名 有些学员的文件命名是这样的： 除了网页的内容外，所有的东西都 
-    </details> 
-
-- 💪 [2022 年 App 上架审核问题集锦，全面踩坑上线不迷路](https://juejin.cn/post/7142363251911688222) | Mon Sep 12 2022 5:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    相信这几年负责过上架应用市场的 App 开发，或多或少都躺过上线审核的坑，经历过的各种问题也是千奇百怪，今天就给大家做个汇总，希望可以帮助大家少走弯路，争取做一个“优雅”的客户端开发。 首先，近年来为 
+    自动化构建介绍 自动化构建在前端有着重要的地位。把重复的工作使用机器来代替，从源代码到生产环境可运行的程序，这一整个流程。使得项目整个构建效率，发布流程大大提高。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
