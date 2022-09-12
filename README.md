@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Chromecast HD廉价版将发布：运行Google TV 12 降级CPU](https://www.cnbeta.com/articles/tech/1315169.htm) | Mon Sep 12 2022 7:30 AM 
+- 🕯 [更多NVIDIA GeForce RTX 4090技嘉定制款显卡已泄露](https://www.cnbeta.com/articles/tech/1315177.htm) | Mon Sep 12 2022 9:09 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;有硬件玩家在EEC网站上发现了技嘉公司的另一份NVIDIA GeForce RTX 4090定制显卡的清单。虽然之前基于零售商的列表只让我们看到了三个型号，但EEC（欧亚经济委员会）的最新列表泄露了更多。技嘉RTX 4090阵容预计将包括至少五个AORUS和六个标准变体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [高铁行驶途中李易峰广告被紧急撤换 此前该品牌已终止合作](https://hot.cnbeta.com/articles/movie/1315175.htm) | Mon Sep 12 2022 9:04 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月12日下午，话题#高铁行驶途中李易峰广告被紧急撤换#登上热搜。视频内容显示，在某班次高铁上，座椅头巾广告被乘务员统统摘掉，网友表示：“都等不及到站。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [英特尔酷睿i9-13900KS可能是全球首款频率突破6GHz的PC处理器](https://www.cnbeta.com/articles/tech/1315173.htm) | Mon Sep 12 2022 8:38 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;随着英特尔第13代酷睿&amp;quot;猛禽湖&amp;quot;面临来自AMD的Ryzen 7000系列的激烈竞争，以及&amp;quot;Zen 4&amp;quot;系列将在2023年初增加7000X3D系列，英特尔将推出可能的&amp;quot;酷睿i9-13900KS&amp;quot;SKU已成为定局，它即将成为世界上第一个可以提升到6.00GHz大关的桌面处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [中国移动推NFC电子学生证：带屏幕 支持行程码展示](https://www.cnbeta.com/articles/tech/1315171.htm) | Mon Sep 12 2022 8:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在山西运城，为助力校园做好疫情防控工作，满足学生校园生活需求，中国移动山西公司创新性推出NFC（近场通信）有屏电子学生证产品。在接打电话、一键报警、电子围栏、安全定位、轨迹回放的功能基础上，&lt;strong&gt;新增了限额支付功能、行程码展示以及“和教育”平台“一户三码”的报表统计功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [Chromecast HD廉价版将发布：运行Google TV 12 降级CPU](https://www.cnbeta.com/articles/tech/1315169.htm) | Mon Sep 12 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;我们已经听说了几个月关于带有Google电视的廉价版Chromecast的消息，现在一个新的泄漏揭示了新的软件细节、规格，甚至是明显的&amp;quot;Chromecast HD&amp;quot;品牌标识。Kuba Wojciechowski，一个在Twitter上有挖掘Google软件历史的开发者，声称已经获得了Google新Chromecast的完整软件，其中揭示了关于该设备的几个细节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [Shiftall 将于今年晚些时候推出其隔音麦克风 mutalk](https://www.cnbeta.com/articles/tech/1315167.htm) | Mon Sep 12 2022 7:21 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，松下子公司&amp;nbsp;Shiftall&amp;nbsp;宣布其蓝牙麦克风 Mutalk&amp;nbsp;开放预订，预计将于 2022 年 11 月至 2022 年 12 月之间开始发货。据了解，Mutalk 是一款外观奇特的蓝牙麦克风，可让用户在 VR 中私下聊天。设备内部的麦克风捕捉并放大佩戴者的声音，而隔音材料吸音材料可防止附近的人窃听用户的谈话。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Google为即将到来的以太坊合并增加了一个倒计时器](https://www.cnbeta.com/articles/tech/1315165.htm) | Mon Sep 12 2022 7:18 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在接下来的几天里，预计以太坊将在其信标链与主网合并后转为股权证明模式。这一事件被称为&amp;quot;合并&amp;quot;，它在加密领域产生了相当大的影响，&lt;strong&gt;为了帮助人们跟踪合并发生的时间，Google在其搜索结果中添加了一个动态计时器。只需在Google搜索&amp;quot;合并&amp;quot;或&amp;quot;以太坊合并&amp;quot;就可以调出倒计时钟。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《真人快打》制作人下一款游戏要做“漫威大战DC”？](https://hot.cnbeta.com/articles/game/1315163.htm) | Mon Sep 12 2022 6:37 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Ed Boon近日在推特上又吊起了玩家的胃口，发起投票询问玩家最想要看到《真人快打》开发商NetherRealm工作室接下来推出的游戏作品。Ed Boon给出了四个选项，分别是《不义联盟3》、漫威游戏、漫威大战DC和《真人快打》新作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [飞盘带火的瑜伽裤 电商占比超过耐克阿迪](https://www.cnbeta.com/articles/tech/1315161.htm) | Mon Sep 12 2022 6:36 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着飞盘、桨板和腰旗橄榄球的火爆，“lululemon”也越来越频繁地出现在社交平台上。运动场上，女孩穿上这个品牌的瑜伽裤，展示着自己姣好的身材，并且开始穿着瑜伽裤出街，为它赋予了更多的时尚属性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
