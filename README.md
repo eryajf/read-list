@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [金士顿发布基于硬件加密的IronKey Keypad 200 USB闪存驱动器](https://www.cnbeta.com/articles/tech/1315253.htm) | Mon Sep 12 2022 2:23 PM 
+- 🕯 [国产折叠屏堆料王 vivo X Fold+入网：双屏幕指纹加持](https://www.cnbeta.com/articles/tech/1315265.htm) | Mon Sep 12 2022 3:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球领先的内存产品和技术解决方案提供商金士顿科技公司的闪存子公司金士顿数码公司今天宣布推出IronKey Keypad 200（KP200），这是业界首款为您的数据提供最新FIPS 140-3级安全保护的存储设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，vivo下一代折叠屏X Fold+（型号为V2229A）已获得入网许可，这将是国产折叠屏手机中堆料最多的机型。首先，vivo X Fold+搭载&lt;strong&gt;双屏幕指纹识别，采用的是超声波方案。&lt;/strong&gt;相比之下，&lt;strong&gt;三星Galaxy Z Fold4等竞品骁龙8+折叠屏采用的是侧边指纹方案，与电源键合二为一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [高校食堂做黑暗料理西红柿炒月饼引热议 卖1元被抢空](https://hot.cnbeta.com/articles/funny/1315251.htm) | Mon Sep 12 2022 2:20 PM 
+- 💼 [蓝色起源第23次新谢泼德火箭任务飞行中途出现异常后中止发射](https://www.cnbeta.com/articles/science/1315263.htm) | Mon Sep 12 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中秋节某高校食堂，推出“黑暗料理”西红柿炒月饼引发网友热议，视频中月饼被切两半和西红柿混在一起。视频发布者表示：朋友圈都被这道菜刷屏了，这道菜当天就被一抢而空。对此网友调侃：这是什么黑暗料理，喜欢月饼和不喜欢月饼的都惊呆了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1315251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;蓝色起源公司今天上午发射了第23次新谢泼德火箭任务，它被设计为用于运送科学实验有效载荷。&lt;strong&gt;然而，这次任务升空不久就提前宣告结束，火箭的第一个上升阶段就被下令中止，促使预设的中止程序接管并启动了太空舱上的降落伞，太空舱在起飞后不久就缓慢落回了地球。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [史上最贵手机号？15666666666联通号上线拍卖 1366万起拍](https://www.cnbeta.com/articles/tech/1315249.htm) | Mon Sep 12 2022 2:20 PM 
+- 💂 [Apple Watch内置的S8芯片已被证实采用与S6和S7相同的CPU](https://www.cnbeta.com/articles/tech/1315261.htm) | Mon Sep 12 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;相比于普通号码，手机靓号因其稀缺性而被赋予了不同的意义，使用“靓号”的用户，一般都是“非富即贵”。而手机靓号除了直接在运营商购买之外，司法拍卖途径也由来已久。近日，阿里资产拍卖平台上线了一个“顶级靓号”，&lt;strong&gt;联通手机号码15666666666，起拍价1366万元，保证金68.8万元。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据识别码，Apple Watch Series 8、Apple Watch Ultra和第二代Apple Watch SE的S8芯片具有与S6和S7芯片相同的CPU。&lt;strong&gt;苹果S8 SiP内的CPU与在Apple Watch Series 6和Apple Watch Series 7中首次亮相的S6和S7芯片的CPU带有相同的T8301识别码，这解释了为什么苹果近年来只将其S系列芯片与S5芯片或更早的芯片进行比较。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google完成价值54亿美元的Mandiant网络安全公司收购案](https://www.cnbeta.com/articles/tech/1315247.htm) | Mon Sep 12 2022 2:18 PM 
+- 🚀 [中秋节高速服务区充电“一桩难求” 车主等一个半小时才能走](https://www.cnbeta.com/articles/tech/1315259.htm) | Mon Sep 12 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Google宣布，其提议的价值54亿美元的收购网络安全公司Mandiant的交易现在已经完成。&lt;/strong&gt;这家互联网巨头早在3月份就首次透露了收购上市公司Mandiant的计划，在Mandiant从其前任所有者FireEye剥离后不到一年的时间里，作为与私募股权公司Symphony Technology Group的12亿美元交易的一部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去年国庆假期期间，不少电动车车主在高速服务区等待充电的时候，充分意识到了什么是“电动爹”，&lt;strong&gt;半天的路程，却在服务区花了1天时间等待充电。&lt;/strong&gt;而在今年中秋假期期间，又出现了同样的“场景”，中秋节不少朋友都会选择自己驾车出行，随着新能源汽车续航里程的增加，现在跨市、跨省出游的，除了我们的燃油车的车主，也多了不少新能源车的车主。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [报道称Google考虑在印度生产Pixel智能手机](https://www.cnbeta.com/articles/tech/1315245.htm) | Mon Sep 12 2022 2:13 PM 
+- 🎊 [微软Surface Pro 9即将登场：搭载骁龙8cx Gen3 跑分比肩酷睿i7](https://www.cnbeta.com/articles/tech/1315257.htm) | Mon Sep 12 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据一份报告称，Google正在考虑将其Pixel智能手机系列的部分生产转移到印度，这是一系列雄心勃勃的手机制造商在世界第二大市场本地组装手机的最新行动。据The Information周一报道，这家Android制造商已经向制造商招标，以组装50万至100万部Pixel智能手机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日晚间，爆料人Roland Quandt透露，&lt;strong&gt;微软Surface Pro 9搭载高通骁龙8cx Gen3旗舰处理器，这是高通针对PC平台打造的5G芯片。&lt;/strong&gt;这颗芯片由5nm工艺制程打造，是Windows平台第一颗5nm芯片，它采用Armv8架构，CPU性能提高85%，GPU性能提升60%，单线程性能提高40%，芯片的人工智能AI运算速度超过29TOPs，GPU部分能效提升40%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
