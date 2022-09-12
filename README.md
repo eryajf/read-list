@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国三大信用卡公司承诺采用ISO制定的枪支零售商商户代码](https://www.cnbeta.com/articles/tech/1315019.htm) | Sun Sep 11 2022 11:15 PM 
+- 🕯 [研究发现迷幻药或能减少对死亡的恐惧](https://www.cnbeta.com/articles/science/1315081.htm) | Mon Sep 12 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间9月10日，美国信用卡公司维萨（Visa Inc.）公司表示，将采用国际标准化组织（ISO）为枪支零售商创建的新商户代码，以帮助执法部门更好地追踪可疑的枪支销售激增，减少大规模枪击事件的发生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;来自约翰-霍普金斯医学院的研究人员在对3000多人的调查研究中将迷幻药体验跟非药物相关的濒死体验进行了比较，结果发现人们对死亡的看法有着惊人的相似之处。&lt;/strong&gt;两组调查对象都称，由于体验的结果他们对死亡的恐惧减少了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [GeForce RTX 3060 8 GB与3060 Ti GDDR6X显卡将于10月底推出](https://www.cnbeta.com/articles/tech/1315017.htm) | Sun Sep 11 2022 7:36 PM 
+- 💼 [研究：蓝光照射带来的危害会随着年龄的增长而上升](https://www.cnbeta.com/articles/science/1315079.htm) | Mon Sep 12 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Videocardz报道，NVIDIA似乎已经计划在10月下旬推出其GeForce RTX 3060 8 GB和RTX 3060 Ti GDDR6X显卡。&lt;strong&gt;本周早些时候，有报道称英伟达正在开发三款GeForce RTX 30系列显卡，主要用于主流领域。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;根据俄勒冈州立大学&lpar;OSU&rpar;的一项最新研究，随着年龄的增长，每天、一生暴露在电话、电脑和家庭照明发出的蓝光下的有害后果会变得更严重。&lt;/strong&gt;该研究使用了常见的果蝇--Drosophila melanogaster，该研究最近发表在《Nature Partner Journals Aging》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [三星为&quot;Flex G&quot;双折叠智能手机-平板电脑混合体注册商标](https://www.cnbeta.com/articles/tech/1315015.htm) | Sun Sep 11 2022 7:30 PM 
+- 💂 [NASA选择Axiom Space为Artemis III任务提供月球漫步系统](https://www.cnbeta.com/articles/science/1315077.htm) | Mon Sep 12 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你可能记得也可能不记得三星在2022年CES上展示的Flex G和Flex S概念可折叠设备，但你可以在下面刷新你的记忆。&lt;strong&gt;简而言之，Flex S和Flex G是三星显示器设计的双折叠手机-平板电脑混合概念，以展示除翻盖式Galaxy Z Flip和书本式Galaxy Z Fold之外的其他可折叠技术可实现的外形因素。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NASA已经选择了Axiom Space为Artemis III任务提供月球漫步系统。这项任务将使美国人在50多年来首次登上月球表面。这次授权--竞争性宇航服合同下的第一个授权--是一个任务订单，它将用于开发下一代Artemis宇航服和支持系统并在Artemis III期间在月球表面演示其使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [亚马逊被控在收购交易中涉嫌不当竞争和商业垄断](https://www.cnbeta.com/articles/tech/1315013.htm) | Sun Sep 11 2022 7:16 PM 
+- 🚀 [研究：虚拟博物馆之旅可以改善身心和社会健康](https://www.cnbeta.com/articles/tech/1315075.htm) | Mon Sep 12 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在给联邦反垄断委员会的一封信中，20个组织警告说亚马逊收购iRobot的交易将会形成行业垄断并将损害消费者利益。一个由大约20个商业组织组成的临时游说团体正敦促美国反垄断委员会阻止亚马逊收购扫地机器人制造商iRobot公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;科学家们早就知道，社交隔离跟各种健康问题如心脏病和中风的风险增加及精神恶化甚至早期死亡有关。由于这样子做更容易让人在社会上有孤立和孤独的感觉，所以老年人特别容易受到伤害。新冠大流行要求保持社交距离，特别是为了维护世界老年人口的健康，这使情况更加恶化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [测试人员在Windows 11中发现了Windows 10风格搜索框的痕迹](https://www.cnbeta.com/articles/tech/1315011.htm) | Sun Sep 11 2022 4:58 PM 
+- 🎊 [《狮子王》真人版电影前传公布 2024年上映](https://hot.cnbeta.com/articles/movie/1315073.htm) | Mon Sep 12 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软针对Windows的Insider构建版本往往可以揭示出有趣的即将到来的功能。&lt;strong&gt;最新的Windows 11开发频道Build 25197已经收到了一些新的功能，如平板电脑优化的任务栏，尽管该公司已经承认它目前有点错误。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在D23上，迪士尼公布了2019年《狮子王》“真人版”电影的前传《狮子王：木法沙》，由Barry Jenkins执导，讲述辛巴的父亲木法沙如何从卑微的起点成为整个Pridelands的统治者。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
