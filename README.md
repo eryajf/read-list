@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [传欧盟拟强制削减电力需求 并对化石燃料公司征税](https://www.cnbeta.com/articles/tech/1315283.htm) | Mon Sep 12 2022 5:26 PM 
+- 🕯 [《光环》系列开发商343工业创建者邦妮罗斯离职](https://hot.cnbeta.com/articles/game/1315285.htm) | Mon Sep 12 2022 6:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;343 Industries创始人兼工作室负责人邦妮·罗斯宣布，她已离开工作室，去处理家庭医疗问题。根据Windows Central的报告，343 Industries制作主管Pierre Hintze将立即成为工作室的负责人，同时高级领导团队将扩展新位置，包括Bryan Koski担任IP总经理，ElizabethVan Wyck担任业务和运营主管。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [传欧盟拟强制削减电力需求 并对化石燃料公司征税](https://www.cnbeta.com/articles/tech/1315283.htm) | Mon Sep 12 2022 5:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;欧盟将提出一项强制性目标，以减少电力使用，并通过征税，将能源公司的利润输送给陷入困境的消费者。报道指出，欧盟执行机构欧盟委员会将于本周提出这些措施，但仍需得到成员国的批准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [日本政府批准辉瑞和Moderna针对奥密克戎的加强剂](https://www.cnbeta.com/articles/tech/1315281.htm) | Mon Sep 12 2022 5:25 PM 
+- 💂 [日本政府批准辉瑞和Moderna针对奥密克戎的加强剂](https://www.cnbeta.com/articles/tech/1315281.htm) | Mon Sep 12 2022 5:25 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;周一晚些时候，辉瑞&lpar;PFE.US&rpar;和Moderna&lpar;MRNA.US&rpar;针对奥密克戎&lpar;Omicron&rpar;变异病毒的新冠疫苗加强剂获得了日本厚生劳动省批准，为它们在世界第三大医疗市场的推广铺平了道路。在一个专家小组建议部署加强剂后不久，日本政府部门就批准了加强剂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iOS/iPadOS 15.7和macOS 12.6发布 可用于旧设备](https://www.cnbeta.com/articles/tech/1315279.htm) | Mon Sep 12 2022 5:20 PM 
+- 🚀 [iOS/iPadOS 15.7和macOS 12.6发布 可用于旧设备](https://www.cnbeta.com/articles/tech/1315279.htm) | Mon Sep 12 2022 5:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;苹果公司发布了一整套横跨iOS、iPadOS和macOS的更新，以确保用户可以在不升级到iOS 16或购买较新的支持产品的情况下保持最新系统健康状态。&lt;/strong&gt;在周一发布iOS 16的过程，苹果还发布了2021年版本的关键操作系统更新。这些更新有双重目的--为无法更新到最新操作系统的设备提供补丁，并为用户提供所需的更新，而不要求他们转到新的操作系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果公司发布针对Apple Watch的watchOS 9更新](https://www.cnbeta.com/articles/tech/1315277.htm) | Mon Sep 12 2022 5:14 PM 
+- 🎊 [苹果公司发布针对Apple Watch的watchOS 9更新](https://www.cnbeta.com/articles/tech/1315277.htm) | Mon Sep 12 2022 5:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;苹果公司向公众发布了watchOS 9，为苹果公司的旗舰可穿戴设备带来了新的功能，如新的用药追踪器、新的手表表盘以及更多的健身选择。&lt;/strong&gt;watchOS 9是在2022年WWDC上宣布的，现在已经向公众开放。用户可以通过访问iOS手表应用程序并导航到“通用”页，然后是软件更新来更新到watchOS 9。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [iOS 16 正式版已经开始推送 带来全新自定义锁屏界面](https://www.cnbeta.com/articles/tech/1315275.htm) | Mon Sep 12 2022 5:02 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;iOS 16最终版本现在可以供iPhone用户下载。相信你已经等待这一天很久了，特别是如果你没有尝试过iOS 16的测试版或公开测试版的前提下，会有一大堆新功能可以尝试，最大的亮点自然是全新的锁屏。&lt;/strong&gt;苹果在6月首次预览了iOS 16，在过去几个月里，它一直在接受应用开发者和公共项目成员的测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
