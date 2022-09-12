@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔下调对其自动驾驶公司Mobileye的预期 目标是300亿美元的IPO](https://www.cnbeta.com/articles/tech/1315287.htm) | Mon Sep 12 2022 7:44 PM 
+- 🕯 [负责处理德克萨斯州反垄断诉讼的律师事务分析Google反竞争行为](https://www.cnbeta.com/articles/tech/1315291.htm) | Mon Sep 12 2022 11:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;上周，据报道，美司法部的一项诉讼认为，Google一直在向Apple Pay数十亿美元以成为iPhone的默认搜索引擎，在科技领域，这是一个众所周知的事情。然而随着诉讼的进展，人们可能发现更多关于Google如何保持其在移动和桌面搜索领域的据点的信息及之前试图控制该公司庞大的存在的尝试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [微软在美推出让选举变更容易的新工具](https://www.cnbeta.com/articles/tech/1315289.htm) | Mon Sep 12 2022 11:10 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;说到旨在使选举过程更安全的工具，微软并不陌生。这家科技巨头的ElectionGuard投票系统已经实施了几年，这是一种作为展示选举中投票过程的安全性和可负担性的方式。与此同时，AccountGuard--一种保护政党等数字安全的产品--去年也被扩展到了美国以外的许多其他国家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [英特尔下调对其自动驾驶公司Mobileye的预期 目标是300亿美元的IPO](https://www.cnbeta.com/articles/tech/1315287.htm) | Mon Sep 12 2022 7:44 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;面对股市下跌，英特尔正在下调其对Mobileye&amp;nbsp;IPO规模的预期；如果情况没有改善，则可能把IPO推迟到明年。&lt;/strong&gt;据不愿具名的知情人士称，英特尔预计IPO对这个自动驾驶技术业务的估值最高为300亿美元，低于最初希望的水平。最初的计划是在2022年年中左右发行股票，潜在估值超过500亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《光环》系列开发商343工业创建者邦妮罗斯离职](https://hot.cnbeta.com/articles/game/1315285.htm) | Mon Sep 12 2022 6:13 PM 
+- 🚀 [《光环》系列开发商343工业创建者邦妮罗斯离职](https://hot.cnbeta.com/articles/game/1315285.htm) | Mon Sep 12 2022 6:13 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;343 Industries创始人兼工作室负责人邦妮·罗斯宣布，她已离开工作室，去处理家庭医疗问题。根据Windows Central的报告，343 Industries制作主管Pierre Hintze将立即成为工作室的负责人，同时高级领导团队将扩展新位置，包括Bryan Koski担任IP总经理，ElizabethVan Wyck担任业务和运营主管。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [传欧盟拟强制削减电力需求 并对化石燃料公司征税](https://www.cnbeta.com/articles/tech/1315283.htm) | Mon Sep 12 2022 5:26 PM 
+- 🎊 [传欧盟拟强制削减电力需求 并对化石燃料公司征税](https://www.cnbeta.com/articles/tech/1315283.htm) | Mon Sep 12 2022 5:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;欧盟将提出一项强制性目标，以减少电力使用，并通过征税，将能源公司的利润输送给陷入困境的消费者。报道指出，欧盟执行机构欧盟委员会将于本周提出这些措施，但仍需得到成员国的批准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [日本政府批准辉瑞和Moderna针对奥密克戎的加强剂](https://www.cnbeta.com/articles/tech/1315281.htm) | Mon Sep 12 2022 5:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;周一晚些时候，辉瑞&lpar;PFE.US&rpar;和Moderna&lpar;MRNA.US&rpar;针对奥密克戎&lpar;Omicron&rpar;变异病毒的新冠疫苗加强剂获得了日本厚生劳动省批准，为它们在世界第三大医疗市场的推广铺平了道路。在一个专家小组建议部署加强剂后不久，日本政府部门就批准了加强剂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [iOS/iPadOS 15.7和macOS 12.6发布 可用于旧设备](https://www.cnbeta.com/articles/tech/1315279.htm) | Mon Sep 12 2022 5:20 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果公司发布了一整套横跨iOS、iPadOS和macOS的更新，以确保用户可以在不升级到iOS 16或购买较新的支持产品的情况下保持最新系统健康状态。&lt;/strong&gt;在周一发布iOS 16的过程，苹果还发布了2021年版本的关键操作系统更新。这些更新有双重目的--为无法更新到最新操作系统的设备提供补丁，并为用户提供所需的更新，而不要求他们转到新的操作系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
