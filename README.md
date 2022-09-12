@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JS继承是啥，你还清楚吗](https://juejin.cn/post/7142481366948610062) | Mon Sep 12 2022 1:16 PM 
+- 🤗 [毕业5年了还不知道热修复？](https://juejin.cn/post/7142481619604111390) | Mon Sep 12 2022 1:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 热修复到现在2022年已经不是一个新名词，但是作为Android开发核心技术栈的一部分，我这里还得来一次冷饭热炒。 随着移动端业务复杂程度的增加，传统的版本更新流程显然无法满足业务和开发者的需求 
+    </details> 
+
+- 🎡 [JS继承是啥，你还清楚吗](https://juejin.cn/post/7142481366948610062) | Mon Sep 12 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
     一、是什么 继承（inheritance）是面向对象软件技术当中的一个概念。 如果一个类别B“继承自”另一个类别A，就把这个B称为“A的子类”，而把A称为“B的父类别”也可以称“A是B的超类” 继承的 
     </details> 
 
-- 🎡 [面试突击82：SpringBoot 中如何操作事务？](https://juejin.cn/post/7142477197666680869) | Mon Sep 12 2022 12:59 PM 
+- 🕯 [面试突击82：SpringBoot 中如何操作事务？](https://juejin.cn/post/7142477197666680869) | Mon Sep 12 2022 12:59 PM 
     <details><summary>展开描述 ...</summary> 
     在 Spring Boot 中操作事务有两种方式：编程式事务或声明式事务，接下来我们一起来看二者的具体实现。 
     </details> 
 
-- 🕯 [保熟的UnoCSS使用指北，优雅使用antfu大佬的原子化CSS](https://juejin.cn/post/7142466784971456548) | Mon Sep 12 2022 12:21 PM 
+- 🚀 [保熟的UnoCSS使用指北，优雅使用antfu大佬的原子化CSS](https://juejin.cn/post/7142466784971456548) | Mon Sep 12 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
     什么是原子化CSS，UnoCSS又是什么，对此有疑问的推荐看下antfu的这篇文章——重新构想原子化 CSS &lpar;antfu.me&rpar; 相信看完这篇文章的你也会跟我一样热衷于UnoCSS 准备 首先，使用 
     </details> 
 
-- 🚀 [Vue自定义指令：实现元素滑动](https://juejin.cn/post/7142456939757338632) | Mon Sep 12 2022 11:41 AM 
+- 💪 [Vue自定义指令：实现元素滑动](https://juejin.cn/post/7142456939757338632) | Mon Sep 12 2022 11:41 AM 
     <details><summary>展开描述 ...</summary> 
     后端码农写的前端博客：本文介绍使用Vue的自定义指令实现鼠标拖动元素的效果以及解决移动端适配的问题。 
-    </details> 
-
-- 💪 [程序员如何实现财富自由](https://juejin.cn/post/7142455046599344164) | Mon Sep 12 2022 11:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    程序员如何实现财富自由？今天我想和大家聊聊这个事情。 财富自由应该是所有人的终极目标，但实现财富自由似乎是一件不太可能的事情，即使程序员的平均工资已经非常高了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
