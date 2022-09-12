@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [相连2000多年 阿尔卑斯山两片冰川或在本月彻底断开](https://www.cnbeta.com/articles/tech/1315195.htm) | Mon Sep 12 2022 10:18 AM 
+- 🕯 [ZOTAC GeForce RTX 4090 AMP Extreme定制显卡泄露 巨大的四插槽怪物](https://www.cnbeta.com/articles/tech/1315231.htm) | Mon Sep 12 2022 12:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;受全球变暖的影响，全球多处的冰盖、冰川面积锐减。欧洲地区今年夏天遭受热浪袭击，进一步加快冰川融化速度。近日，在瑞士西部一家叫“冰川3000”的滑雪胜地表示，今年夏天这里的冰川融化量约为过去10年里平均水平的三倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;ZOTAC的下一代NVIDIA GeForce RTX 4090 AMP Extreme显卡已经泄露出来，采用了巨大的占用四个插槽的散热器的未来主义设计。&lt;/strong&gt;这些显卡似乎是从一个显卡生产厂出来的，看起来ZOTAC GeForce RTX 4090 AMP Extreme尤其显眼，绝对是一头大野兽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英特尔低功耗35W i7-13700T CPU在泄露的基准测试数据中进步明显](https://www.cnbeta.com/articles/tech/1315193.htm) | Mon Sep 12 2022 10:18 AM 
+- 💼 [凯迪拉克CT4原神版申报图亮相](https://www.cnbeta.com/articles/tech/1315229.htm) | Mon Sep 12 2022 12:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔酷睿i7-13700T（35W Raptor LakeCPU）的新基准测试已经泄露出来，显示出令人印象深刻的性能数据，它在泄露的基准测试中比105W的Ryzen 7 5800X和125W的酷睿i5-12600K更快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于追求个性的车主来说，车身改色和车膜贴图算是性价比较高的改车方案之一，不过，一些贴图改色，往往因为面积、尺寸等不符合规定要求，上路容易被管理部门查处。而官方改装则完全规避了此类风险，日前，凯迪拉克CT4和XT4的原神痛车申报图曝光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马斯克称2022年能实现全自动驾驶，他在做梦吗？](https://www.cnbeta.com/articles/tech/1315191.htm) | Mon Sep 12 2022 10:14 AM 
+- 💂 [星巴克展示基于区块链的忠诚度平台和NFT社区：Starbucks Odyssey](https://www.cnbeta.com/articles/tech/1315227.htm) | Mon Sep 12 2022 12:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自动驾驶汽车创业公司都许下了一个美好的承诺，那就是开发出真正的自动驾驶汽车，并因此筹集到了数百亿美元。但是，行业高管和专家表示，汽车制造商可能永远都需要远程人类监督员，以帮助陷入困境的机器人司机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;星巴克今天正式推出Starbucks Odyssey，今年晚些时候推出--这是咖啡连锁店首次尝试使用web3技术进行建设。新的体验将公司成功的星巴克奖励忠诚度计划与NFT平台相结合，允许其客户赚取和购买数字资产，解锁独家体验和奖励。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《美国队长：新世界秩序》反派“大头目”确认 蒂姆布雷克尼尔森出演](https://hot.cnbeta.com/articles/movie/1315189.htm) | Mon Sep 12 2022 9:59 AM 
+- 🚀 [一加OnePlus 11 Pro渲染图流出：重新设计相机模块、通知滑块依然存在](https://www.cnbeta.com/articles/tech/1315225.htm) | Mon Sep 12 2022 11:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在近日举办的D23博览会上漫，威粉丝们获得了许多关于漫威工作室即将推出的项目的最新消息，其中就包括粉丝们期待已久的《美国队长：新世界秩序》。&lt;/strong&gt;在周六的漫威发布会上，这部电影的演员阵容已经公布，包括安东尼·麦凯回归饰演山姆·威尔逊（美国队长），丹尼·拉米雷饰演华金·托雷斯，还有消息称茜拉·哈斯将在漫威电影宇宙出演以色列超级英雄萨布拉。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近一段时间，OnePlus连续推出智能手机度过了忙碌的一年，该品牌以OnePlus 10 Pro旗舰机拉开了今年的序幕，接着又推出了OnePlus 10R、OnePlus 10T和更多Nord品牌的产品，此前我们听到有传言说OnePlus 10T可能是该品牌今年的最后一款旗舰手机。&lt;strong&gt;在这种情况下，我们现在看到了一些OnePlus 11 Pro的渲染图，由SmartPrix和Steve Hemmerstoffer提供。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NAND闪存将成为PCIe Gen 5.0固态硬盘的瓶颈 需要更多层工艺才能满足](https://www.cnbeta.com/articles/tech/1315187.htm) | Mon Sep 12 2022 9:56 AM 
+- 🎊 [郭明錤：产品策略失败 iPhone 14 Plus预售情况比iPhone 13 Mini更差](https://www.cnbeta.com/articles/tech/1315223.htm) | Mon Sep 12 2022 11:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;基于Phison E26控制器的固态硬盘可以利用PCIe Gen 5.0标准，一些设备在过去几个月中已经公布。虽然该控制器可以达到13GB/的速度，但大多数固态硬盘的最大读取速度为10GB/s。&lt;/strong&gt;最近Phison公司的PS5026-E26控制器提供了八个NAND通道，帮助不同的传输数据速率，但需要一个具有2400MT/s接口的3D NAND存储器来满足较新的PCIe 5.0 x4接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果产业链分析师郭明錤表示，iPhone 14和iPhone 14 Plus的预购结果&amp;quot;糟糕&amp;quot;，表明苹果对这两款新标准机型的定位可能已经失败。郭明錤在Medium上的最新文章中解释说，与iPhone 13 Pro和iPhone 13 Pro Max相比，iPhone 14 Pro和iPhone 14 Pro Max的预购结果&amp;quot;中性&amp;quot;和&amp;quot;良好&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
