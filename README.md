@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么我的小米手机访问不了本地服务（抓包遇到的问题，配置了代理显示没有网络）](https://www.v2ex.com/t/879462#reply0) | Mon Sep 12 2022 8:23 AM
-- 🤗 [只写代码不打游戏，需要独显，这种需求怎么配 itx](https://www.v2ex.com/t/879458#reply2) | Mon Sep 12 2022 7:59 AM
-- 🎭 [分享个打卡神器](https://www.v2ex.com/t/879453#reply1) | Mon Sep 12 2022 7:49 AM
-- 🥷 [JavaScript 防抖函数,绑定事件后事件对象传参问题](https://www.v2ex.com/t/879440#reply3) | Mon Sep 12 2022 6:48 AM
-- 🐵 [Python 爬虫返回加密数据\x](https://www.v2ex.com/t/879435#reply4) | Mon Sep 12 2022 6:27 AM<!-- v2ex:END -->
+- 🥸 [Xcode 14 中模拟器导致的异常发热和电池问题](https://www.v2ex.com/t/879472#reply0) | Mon Sep 12 2022 9:14 AM
+- 🤗 [无聊撸了点检测代理的代码，主要是通过握手时间判断的，来试试?](https://www.v2ex.com/t/879471#reply4) | Mon Sep 12 2022 9:13 AM
+- 🎭 [为什么我的小米手机访问不了本地服务（抓包遇到的问题，配置了代理显示没有网络）](https://www.v2ex.com/t/879462#reply2) | Mon Sep 12 2022 8:23 AM
+- 🥷 [只写代码不打游戏，需要独显，这种需求怎么配 itx](https://www.v2ex.com/t/879458#reply7) | Mon Sep 12 2022 7:59 AM
+- 🐵 [分享个打卡神器](https://www.v2ex.com/t/879453#reply1) | Mon Sep 12 2022 7:49 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
