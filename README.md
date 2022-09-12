@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你还不知道vue3中依赖收集和派发更新的实现逻辑吗？那你就out啦~还不快来看！](https://juejin.cn/post/7142506464752435231) | Mon Sep 12 2022 2:54 PM 
+- 🤗 [re.findall&lpar;&rpar;用法详解](https://juejin.cn/post/7142524361998598157) | Mon Sep 12 2022 4:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    re.findall&lpar;&rpar;： 函数返回包含所有匹配项的列表。返回string中所有与pattern相匹配的全部字串，返回形式为数组。 示例代码1：【打印所有的匹配项】 运行结果： 示例代码2：【如果未找 
+    </details> 
+
+- 🎡 [Java&amp;C++题解与拓展——leetcode1608.特殊数组的特征值【么的新知识】](https://juejin.cn/post/7142521741795917854) | Mon Sep 12 2022 3:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    leetcode1608.特殊数组的特征值解题思路，用Java和C++两种语言分别编写，并对所使用类和方法进行学习记录。 
+    </details> 
+
+- 🕯 [你还不知道vue3中依赖收集和派发更新的实现逻辑吗？那你就out啦~还不快来看！](https://juejin.cn/post/7142506464752435231) | Mon Sep 12 2022 2:54 PM 
     <details><summary>展开描述 ...</summary> 
     在阅读本文前不知道你是否已经明白`依赖收集`以及`派发更新`的具体作用。当然不明白也没关系，本文会先语义话的讲一讲这两者的概念，这样能有一个基本的理解。接着我们在深入源码去看一看这两者的具体实现。 
     </details> 
 
-- 🎡 [如何给技术部员工做考核？](https://juejin.cn/post/7142505498070220814) | Mon Sep 12 2022 2:53 PM 
+- 🚀 [如何给技术部员工做考核？](https://juejin.cn/post/7142505498070220814) | Mon Sep 12 2022 2:53 PM 
     <details><summary>展开描述 ...</summary> 
     那考核的目的是什么呢？我能想到的考核目的有3个： 1. 让付出和回报尽可能公平。 2. 打造高绩效团队，淘汰那些不合格的员工。 3. 确保员工的个人目标与企业目标相一致，并能通过绩效考核机 
     </details> 
 
-- 🕯 [Node 环境调通 Jira rest api 要踩多少坑](https://juejin.cn/post/7142502102206513183) | Mon Sep 12 2022 2:38 PM 
+- 💪 [Node 环境调通 Jira rest api 要踩多少坑](https://juejin.cn/post/7142502102206513183) | Mon Sep 12 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
     我司是使用 Jira 管理项目的 tasks、subtasks、issues。近期我要做一个 cli 工具，需要调用 jira rest api 获取某个 task 以及它下面的 subtasks 信 
-    </details> 
-
-- 🚀 [质量问题不是不爆，时候未到](https://juejin.cn/post/7142497070669103140) | Mon Sep 12 2022 2:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    很认同的一个观念是：把事情一次性做好，就是最低的成本和最高的效率；所以需求再多，也要质量为王；如果因为产品的体验差影响业务，那么用户、平台、研发谁才是真正的大冤种？ 
-    </details> 
-
-- 💪 [ufw的基本使用](https://juejin.cn/post/7142496543923257357) | Mon Sep 12 2022 2:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    ufw作为ubuntu20.04的默认防火墙，刚好最近需要用到防火墙，所以研究了ufw的基本用法。 ufw的下载 ufw是ubuntu20.04上的防火墙配置工具，一般是默认安装的，如果你没有安装，则 
     </details> 
 <!-- juejin:END -->
 ### 少数派
