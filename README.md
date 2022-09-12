@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔，三年后重返巅峰？](https://www.cnbeta.com/articles/tech/1315151.htm) | Mon Sep 12 2022 5:47 AM 
+- 🕯 [Chromecast HD廉价版将发布：运行Google TV 12 降级CPU](https://www.cnbeta.com/articles/tech/1315169.htm) | Mon Sep 12 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据tomshardware报道，在日前参加 Evercore ISI TMT 会议的时候，Pat Gelsinger表示，至少在2023年之前，公司预计还将继续失去数据中心的市场份额，按照他的说法，这主要是因为“竞争对手势头太猛，但英特尔执行的不够好。因此我们确实预计会继续丢去份额，我们也跟不上总体 TAM 增长”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们已经听说了几个月关于带有Google电视的廉价版Chromecast的消息，现在一个新的泄漏揭示了新的软件细节、规格，甚至是明显的&amp;quot;Chromecast HD&amp;quot;品牌标识。Kuba Wojciechowski，一个在Twitter上有挖掘Google软件历史的开发者，声称已经获得了Google新Chromecast的完整软件，其中揭示了关于该设备的几个细节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [拜登亲自站台2纳米 200亿美元地球最大硅制造基地启动](https://www.cnbeta.com/articles/tech/1315149.htm) | Mon Sep 12 2022 5:47 AM 
+- 💼 [Shiftall 将于今年晚些时候推出其隔音麦克风 mutalk](https://www.cnbeta.com/articles/tech/1315167.htm) | Mon Sep 12 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔200亿美元晶圆厂终于正式开工，拜登亲自出席道贺。面对三星和台积电的制程优势，英特尔真能“弯道超车”吗？在美国2800亿美元的“芯片与科学法案”通过一个多月之后，英特尔计划已久的俄亥俄州200亿美元的芯片工厂终于正式破土动工。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，松下子公司&amp;nbsp;Shiftall&amp;nbsp;宣布其蓝牙麦克风 Mutalk&amp;nbsp;开放预订，预计将于 2022 年 11 月至 2022 年 12 月之间开始发货。据了解，Mutalk 是一款外观奇特的蓝牙麦克风，可让用户在 VR 中私下聊天。设备内部的麦克风捕捉并放大佩戴者的声音，而隔音材料吸音材料可防止附近的人窃听用户的谈话。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软邀请教育工作者参与其识字工具技能挑战赛](https://www.cnbeta.com/articles/tech/1315147.htm) | Mon Sep 12 2022 5:41 AM 
+- 💂 [Google为即将到来的以太坊合并增加了一个倒计时器](https://www.cnbeta.com/articles/tech/1315165.htm) | Mon Sep 12 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月8日，微软推出了&amp;quot;识字技能挑战&amp;quot;，正如其描述的那样，这是一个&amp;quot;游戏化的学习挑战&amp;quot;，将帮助教育工作者和学校领导熟悉其识字工具，以培养学习者的识字技能。&lt;/strong&gt;微软教育集团首席产品经理Mike Tholfsen邀请教育专业人员参加游戏，在撰写本报告时，有618名参与者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在接下来的几天里，预计以太坊将在其信标链与主网合并后转为股权证明模式。这一事件被称为&amp;quot;合并&amp;quot;，它在加密领域产生了相当大的影响，&lt;strong&gt;为了帮助人们跟踪合并发生的时间，Google在其搜索结果中添加了一个动态计时器。只需在Google搜索&amp;quot;合并&amp;quot;或&amp;quot;以太坊合并&amp;quot;就可以调出倒计时钟。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [网红吹头发视频被下架后起诉平台 法院判其败诉](https://hot.cnbeta.com/articles/movie/1315145.htm) | Mon Sep 12 2022 5:36 AM 
+- 🚀 [《真人快打》制作人下一款游戏要做“漫威大战DC”？](https://hot.cnbeta.com/articles/game/1315163.htm) | Mon Sep 12 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，网红林某分享了一则在淋浴间吹头发的视频，不久被平台判定涉及低俗而下架。林某反复申诉未果后，将短视频平台告上了法庭。该案已经在北京市第四中级人民法院二审审结，法院认为视频内容易使大众产生不适，下架并无不当，最终驳回了林某的全部请求。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Ed Boon近日在推特上又吊起了玩家的胃口，发起投票询问玩家最想要看到《真人快打》开发商NetherRealm工作室接下来推出的游戏作品。Ed Boon给出了四个选项，分别是《不义联盟3》、漫威游戏、漫威大战DC和《真人快打》新作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [iPhone 14系列换电池苹果也涨价 全系四款都是748元](https://www.cnbeta.com/articles/tech/1315143.htm) | Mon Sep 12 2022 5:36 AM 
+- 🎊 [飞盘带火的瑜伽裤 电商占比超过耐克阿迪](https://www.cnbeta.com/articles/tech/1315161.htm) | Mon Sep 12 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;每一代iPhone的电池容量都被用户很关心，毕竟苹果手机的续航太不能打了。据&lt;strong&gt;MacRumors发现的信息，iPhone 14电池容量3279mAh、iPhone 14 Plus电池容量4325mAh、iPhone 14 Pro电池容量3200mAh、iPhone 14 Pro Max电池容量4323mAh。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着飞盘、桨板和腰旗橄榄球的火爆，“lululemon”也越来越频繁地出现在社交平台上。运动场上，女孩穿上这个品牌的瑜伽裤，展示着自己姣好的身材，并且开始穿着瑜伽裤出街，为它赋予了更多的时尚属性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
