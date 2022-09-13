@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [负责处理德克萨斯州反垄断诉讼的律师事务分析Google反竞争行为](https://www.cnbeta.com/articles/tech/1315291.htm) | Mon Sep 12 2022 11:21 PM 
+- 🕯 [天文学家发现一颗可能能够支持生命的行星](https://www.cnbeta.com/articles/science/1315401.htm) | Tue Sep 13 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周，据报道，美司法部的一项诉讼认为，Google一直在向Apple Pay数十亿美元以成为iPhone的默认搜索引擎，在科技领域，这是一个众所周知的事情。然而随着诉讼的进展，人们可能发现更多关于Google如何保持其在移动和桌面搜索领域的据点的信息及之前试图控制该公司庞大的存在的尝试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据BGR报道，&lt;strong&gt;天文学家已经发现了可能是一颗宜居的系外行星。这颗行星是今年早些时候发现的，距离地球大约100光年。&lt;/strong&gt;科学家认为这颗行星可能支持生命，它位于其起始的宜居区内。这个区域在每颗恒星周围都可以找到，它决定了液态水是否可以存在于这个星球上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软在美推出让选举变更容易的新工具](https://www.cnbeta.com/articles/tech/1315289.htm) | Mon Sep 12 2022 11:10 PM 
+- 💼 [爆料称英伟达将于未来两月陆续推出RTX 4090和RTX 4080](https://www.cnbeta.com/articles/tech/1315399.htm) | Tue Sep 13 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;说到旨在使选举过程更安全的工具，微软并不陌生。这家科技巨头的ElectionGuard投票系统已经实施了几年，这是一种作为展示选举中投票过程的安全性和可负担性的方式。与此同时，AccountGuard--一种保护政党等数字安全的产品--去年也被扩展到了美国以外的许多其他国家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;针对英伟达即将推出的 GeForce RTX 40 系列 Ada Lovelace 显卡，&lt;strong&gt;芯域（Chiphell）站长 nApoleon 在周末的时候放出了最新爆料，暗示绿厂会在未来俩月陆续推出 RTX 4090 和 RTX 4080 。&lt;/strong&gt;其中 RTX 4090 旗舰显卡会在 10 月份率先到来，而 RTX 4080 会在 11 月到来 —— 并且包含了 16GB / 12GB 两档显存版本（功耗分别为 340W / 285W）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔下调对其自动驾驶公司Mobileye的预期 目标是300亿美元的IPO](https://www.cnbeta.com/articles/tech/1315287.htm) | Mon Sep 12 2022 7:44 PM 
+- 💂 [台风“梅花”或登陆浙江沿海 多地将现狂风暴雨](https://www.cnbeta.com/articles/tech/1315397.htm) | Tue Sep 13 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;面对股市下跌，英特尔正在下调其对Mobileye&amp;nbsp;IPO规模的预期；如果情况没有改善，则可能把IPO推迟到明年。&lt;/strong&gt;据不愿具名的知情人士称，英特尔预计IPO对这个自动驾驶技术业务的估值最高为300亿美元，低于最初希望的水平。最初的计划是在2022年年中左右发行股票，潜在估值超过500亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中央气象台消息，&lt;strong&gt;今晨5时，今年第12号台风“梅花”加强为强台风级，&lt;/strong&gt;其中心位于浙江省象山县南偏东方向大约490公里的海面上，中心附近最大风力有14级（42米/秒）。预计，“梅花”将以每小时10-15公里的速度向偏北转西北方向移动，强度还将有所加强，逐渐向浙江温岭到舟山一带沿海靠近，&lt;strong&gt;并将于14日下午至夜间在上述沿海地区登陆（台风级或强台风级，38-45米/秒，13-14级）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《光环》系列开发商343工业创建者邦妮罗斯离职](https://hot.cnbeta.com/articles/game/1315285.htm) | Mon Sep 12 2022 6:13 PM 
+- 🚀 [特斯拉Model Y首次交付日本市场：产自上海、比中国便宜1万多](https://www.cnbeta.com/articles/tech/1315395.htm) | Tue Sep 13 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;343 Industries创始人兼工作室负责人邦妮·罗斯宣布，她已离开工作室，去处理家庭医疗问题。根据Windows Central的报告，343 Industries制作主管Pierre Hintze将立即成为工作室的负责人，同时高级领导团队将扩展新位置，包括Bryan Koski担任IP总经理，ElizabethVan Wyck担任业务和运营主管。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据日媒报道，&lt;strong&gt;特斯拉Model Y首次在日本进行了交付&lt;/strong&gt;。今年6月份，日本市场就已支持预订Model Y，目前在售的有两个版本，它们分别为后驱和性能，起售价分别为6190000日元（约30.08万元人民币）和8090000日元（约39.32万元人民币）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [传欧盟拟强制削减电力需求 并对化石燃料公司征税](https://www.cnbeta.com/articles/tech/1315283.htm) | Mon Sep 12 2022 5:26 PM 
+- 🎊 [iPhone 14系列官方维修价公布：玻璃背壳最贵的3998元](https://www.cnbeta.com/articles/tech/1315393.htm) | Tue Sep 13 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;欧盟将提出一项强制性目标，以减少电力使用，并通过征税，将能源公司的利润输送给陷入困境的消费者。报道指出，欧盟执行机构欧盟委员会将于本周提出这些措施，但仍需得到成员国的批准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;相较于iPhone 13，iPhone 14此次全面涨价，不少网友嘴上喊着不再买iPhone手机，但身体却比谁都诚实，iPhone 14的官网，一度被抢购网友挤崩了。并且，作为高端机的代表品牌，iPhone 14不仅卖的贵，修起来价格也是不菲。目前在苹果官网上，&lt;strong&gt;iPhone 14的相关维修价格已出炉，具体价格如下：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
