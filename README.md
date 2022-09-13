@@ -208,7 +208,12 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [基于AI算法的数据库异常监测系统的设计与实现](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html) | Thu Sep 01 2022 12:00 AM 
+- 🕯 [图技术在美团外卖下的场景化应用及探索](https://tech.meituan.com/2022/09/08/gnn-scenariomodeling-subgraphextend-jointtraining.html) | Thu Sep 08 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    在外卖广告CTR预估建模中，我们依托图技术在场景化上进行了一系列探索。本文首先介绍了使用图网络技术的出发点，然后从特征层面的抽象图关系到子图扩展以及场景感知子图，逐步介绍如何使用图技术建模业务问题，并针对联合训练的线上服务细节及效果进行解释和分析，希望能给从事相关工作的同学带来一些帮助或启发。 
+    </details> 
+
+- 🤠 [基于AI算法的数据库异常监测系统的设计与实现](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html) | Thu Sep 01 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     美团数据库平台研发组，面临日益急迫的数据库异常发现需求，为了更加快速、智能地发现、定位和止损，我们开发了基于AI算法的数据库异常检测服务。本文从特征分析、算法选型、模型训练与实时检测等维度介绍了我们的一些实践和思考，希望为从事相关工作的同学带来一些启发或者帮助。 
     </details> 
@@ -218,19 +223,14 @@
     分布式系统设计是一项十分复杂且具有挑战性的事情。其中，数据复制与一致性更是其中十分重要的一环。数据复制领域概念庞杂、理论性强，如果对应的算法没有理论验证大概率会出错。如果在设计过程中，不了解对应理论所解决的问题以及不同理论之间的联系，势必无法设计出一个合理的分布式系统。 
     </details> 
 
-- 🤠 [Replication（下）：事务，一致性与共识](https://tech.meituan.com/2022/08/25/replication-in-meituan-02.html) | Thu Aug 25 2022 12:00 AM 
+- 🚀 [Replication（下）：事务，一致性与共识](https://tech.meituan.com/2022/08/25/replication-in-meituan-02.html) | Thu Aug 25 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     本文主要介绍事务、一致性以及共识，首先会介绍它们怎么在分布式系统中起作用，然后将尝试描述它们之间的内在联系，让大家了解，在设计分布式系统时也是有一定的“套路”可寻。最后将介绍业界验证分布式算法的一些工具和框架。希望能够对大家有所帮助或者启发。 
     </details> 
 
-- 🚀 [KDD 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/08/18/acm-sigkdd-2022.html) | Thu Aug 18 2022 12:00 AM 
+- ⚗️ [KDD 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/08/18/acm-sigkdd-2022.html) | Thu Aug 18 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     今年，美团技术团队有多篇论文被KDD 2022收录，这些论文涵盖了图谱预训练、选择算法、意图自动发现、效果建模、策略学习、概率预测、奖励框架等多个技术领域。本文精选了7篇论文做简要介绍（附下载链接），希望能对从事相关研究方向的同学有所帮助或启发。 
-    </details> 
-
-- ⚗️ [提升资源利用率与保障服务质量，鱼与熊掌不可兼得？](https://tech.meituan.com/2022/08/11/load-auto-regulator.html) | Thu Aug 11 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    美团Hulk调度系统团队在集群服务质量与资源利用率运营的长期落地实践中，基于业务实际场景，自主设计研发了集群负载自动调控系统（LAR）以及配套的运营体系，在提升集群整体资源利用率的同时保障了业务服务质量。本文介绍了LAR的设计理念、基本框架以及核心设计，并结合在线和混部场景应用展开思考，并展示了部分落地成果。希望能为从事相关工作的同学带来一些启发或者帮助。 
     </details> 
 <!-- meituan:END -->
 
