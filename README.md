@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React 组件性能优化最佳实践](https://juejin.cn/post/7142880902551437342) | Tue Sep 13 2022 3:06 PM 
+- 🤗 [一文带你深入理解Hashtable](https://juejin.cn/post/7142889493576548365) | Tue Sep 13 2022 3:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第5篇文章，点击查看活动详情” 概述 HashTable是jdk 1.0中引入的产物，基本上现在很少使用了，但是会在面试中经常被问到，你都知道吗 
+    </details> 
+
+- 🎡 [Android 官方模块化方案解读](https://juejin.cn/post/7142884855091560479) | Tue Sep 13 2022 3:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    快速了解 Android 官方模块化方案。还有一些你可能不知道的实用小技巧。还有官方模板快速搭建模块化项目。 
+    </details> 
+
+- 🕯 [【云原生】Kubernetes CRD 详解（Custom Resource Definition）](https://juejin.cn/post/7142884515814309924) | Tue Sep 13 2022 3:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、概述 CRD 是 v1.7 + 新增的无需改变代码 就可以扩展 Kubernetes API 的机制，用来管理自定义对象。它实际上是ThirdPartyResources（TPR） 的升级版本，而 
+    </details> 
+
+- 🚀 [React 组件性能优化最佳实践](https://juejin.cn/post/7142880902551437342) | Tue Sep 13 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
     React 组件性能优化最佳实践 React 组件性能优化的核心是减少渲染真实 DOM 节点的频率，减少 Virtual DOM 比对的频率。如果子组件未发生数据改变不渲染子组件。 
     </details> 
 
-- 🎡 [rollback-only异常令我对事务有了新的认识](https://juejin.cn/post/7142880731792932900) | Tue Sep 13 2022 3:05 PM 
+- 💪 [rollback-only异常令我对事务有了新的认识](https://juejin.cn/post/7142880731792932900) | Tue Sep 13 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
     深入分析为何会产生rollback-only异常，以及对应的解决方法，顺带了解了同类自调用导致事务失效的原因和解决方法。 
-    </details> 
-
-- 🕯 [Vite入门从手写一个乞丐版的Vite开始（上）](https://juejin.cn/post/7142878515380092959) | Tue Sep 13 2022 2:57 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文会通过手写一个非常简单的乞丐版`Vite`来了解一下`Vite`的基本实现原理。分为上下两篇，上篇主要讨论如何成功运行项目，下篇主要讨论热更新。 
-    </details> 
-
-- 🚀 [这么炫酷的 3D 菜单效果，真的不来看看？](https://juejin.cn/post/7142876546489909285) | Tue Sep 13 2022 2:50 PM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 最近在研究 CSS3 中关于 3D 方面的属性，越发的觉得 CSS3 是真的好玩，虽然目前主要的工作是 2B 的业务，但是却并不妨碍我有一颗 
-    </details> 
-
-- 💪 [Java&amp;C++题解与拓展——leetcode670.最大交换【么的新知识】](https://juejin.cn/post/7142875009252818975) | Tue Sep 13 2022 2:44 PM 
-    <details><summary>展开描述 ...</summary> 
-    leetcode670.最大交换解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
