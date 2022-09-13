@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [DolphinScheduler&amp;RocketMQ 联合 Meetup 即将重磅开启，集中展示任务调度与消息队列能力！](https://juejin.cn/post/7142799688717369381) | Tue Sep 13 2022 9:51 AM 
+- 🤗 [前端工程化之Webpack优化](https://juejin.cn/post/7142802292436598820) | Tue Sep 13 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-    作为消息队列和工作流任务调度的领先者，以及 Apache 基金会孵化器毕业的中国优秀项目，RocketMQ 和 DolphinScheduler 强强联手，邀请来自互联网企业大数据专家与社区核心开发者 
+    大家好，我是柒八九。 好久没更文了，其实这段时间，一直没闲着。在准备一些比较重要的东西。忙着跑步，忙着学习，忙着xx 
     </details> 
 
-- 🎡 [jym，你有没有见过一招关于Vue3的从天降落满天心的技法](https://juejin.cn/post/7142783819220221960) | Tue Sep 13 2022 8:50 AM 
+- 🎡 [AB实验人群定向HTE模型1 -  Causal Tree](https://juejin.cn/post/7142800655369895973) | Tue Sep 13 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 很久没有输出文章了， 趁着活动，水一篇吧，整点劲大的，毕竟大力出奇迹 近来，在研究在线IDE颇有收获，打算写个专栏文章， 手摸手打造类码上掘金在线IDE ,有兴趣的jym 可以关注动态，后续会有 
+    这篇是treatment effect估计相关的论文系列第一篇所以会啰嗦一点多给出点背景。 其他相关模型详见AB实验的高端玩法系列1 - 人群定向/HTE/Uplift 论文github收藏 
     </details> 
 
-- 🕯 [IDEA打开项目中所有文件都报错，甚至String都报错](https://juejin.cn/post/7142779287240704037) | Tue Sep 13 2022 8:32 AM 
+- 🕯 [协商缓存相关头部 Last-Modified 与 ETag 生成算法](https://juejin.cn/post/7142800682909696031) | Tue Sep 13 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    【问题现象】 idea打开项目后所有的文件都在报错，甚至String都在报错。尝试删除 .idea 文件，重新加载项目modules 设置jdk环境，更改maven配置重新刷新依赖，甚至清除 IDEA 
+    Last-Modified 针对静态资源而言，一般会选择文件的 mtime 元属性作为上次修改时间，该元属性表示文件内容的修改时间。 nginx 也是这样处理的，源码见: ngx_http_stati 
     </details> 
 
-- 🚀 [vscode终端无法识别yarn,npm等指令](https://juejin.cn/post/7142777982539530254) | Tue Sep 13 2022 8:27 AM 
+- 🚀 [扫盲篇-理解微服务中的服务注册与发现](https://juejin.cn/post/7142800484758192165) | Tue Sep 13 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    问题 已经全局安装了yarn和npm，但是在vscode终端输入yarn，npm报错 原因 vsCode的powershell自身设限问题，或是签名问题。 解决办法 重新以管理员权限打开vscode  
+    服务注册是指服务实例启动时将自身信息注册到服务注册与发现中心，并在运行时通过心跳等方式向服务注册与发现中心汇报自身服务状态；服务发现是指服务实例向服务注册与发现中心获取其他服务实例信息，用于进行后续 
     </details> 
 
-- 💪 [【日积月累计划】JavaScript： 0.1 + 0.2 != 0.3 这锅我不背！！🤚](https://juejin.cn/post/7142776505288884260) | Tue Sep 13 2022 8:21 AM 
+- 💪 [Groq：从头设计一个张量流式处理器架构](https://juejin.cn/post/7142799821236076557) | Tue Sep 13 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是HoMeTown。 面试的时候，经常会问到这个问题“0.1 + 0.2 等于 0.3吗？”，看似不起眼的一个问题，其实可以准确得到面试者的计算机功底如何，这里盘点一下... 
+    近期，Groq首席架构师Dennis Abts完整介绍了Grop公司研发的软件定义横向扩展的张量流式多处理器架构，主要包括搭建TSP架构的背景及构成，并说明了TSP的工作负载性能。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
