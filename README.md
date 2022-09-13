@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [到期清单 - 管理倒数日/会员管理/纪念‪日‬/食品药品化妆品的有效期](https://xinquji.com/posts/179335?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:50 AM 
+- 👀 [CompaniesLogo - 数据库包含超过 7,000 个公司徽标和 API](https://xinquji.com/posts/179470?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     管理倒数日/会员管理/纪念‪日‬/食品药品化妆品的有效期  
+     数据库包含超过 7,000 个公司徽标和 API  
     </details> 
 
-- 🥷 [Plasma Wallet - 适用于您的加密、DeFi 和 NFT 的多合一移动应用程序](https://xinquji.com/posts/179449?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:32 AM 
+- 🥷 [Correlated&amp;#039;s PQL Scoring - 通过一个平台加速您的产品主导战略](https://xinquji.com/posts/179469?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     适用于您的加密、DeFi 和 NFT 的多合一移动应用程序  
+     通过一个平台加速您的产品主导战略  
     </details> 
 
-- 💼 [Stack Reviews - 让开发者社区更紧密地联系在一起](https://xinquji.com/posts/179448?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:30 AM 
+- 💼 [Indicator Dash - 排名和比较以减轻加密市场的不确定性](https://xinquji.com/posts/179468?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     让开发者社区更紧密地联系在一起  
+     排名和比较以减轻加密市场的不确定性  
     </details> 
 
-- 🦅 [Keyframes Studio - 在您的屏幕上创建 TikTok 视频](https://xinquji.com/posts/179447?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:30 AM 
+- 🦅 [Kinopio 3.0 - 新思想和难题的空间思维](https://xinquji.com/posts/179467?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     在您的屏幕上创建 TikTok 视频  
+     新思想和难题的空间思维  
     </details> 
 
-- 😺 [Transcriberz - 将 WhatsApp 语音笔记转换为文本](https://xinquji.com/posts/179446?utm_campaign=xinquji-rss) | Tue Sep 13 2022 6:28 AM 
+- 😺 [The Money Quiz - 你需要多少钱才能...](https://xinquji.com/posts/179466?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     将 WhatsApp 语音笔记转换为文本  
+     你需要多少钱才能...  
     </details> 
 <!-- xinquji:END -->
