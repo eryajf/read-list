@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [换用骁龙778G 华为P50 Pocket New售价4999元起](https://www.cnbeta.com/articles/tech/1315687.htm) | Tue Sep 13 2022 12:24 PM 
+- 🕯 [亚马逊的基本款Kindle迎来USB-C接口 改进的显示屏和蓝色机身](https://www.cnbeta.com/articles/tech/1315715.htm) | Tue Sep 13 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有消息称，华为翻盖折叠屏P50 Pocket将会推出新版本，确切地说是个减配的“青春版”，&lt;strong&gt;处理器由骁龙888换为骁龙778G，不支持5G。&lt;/strong&gt;现在，数码博主“旺仔百事通”放出了一张疑似华为P50 Pocket New的海报，给出了价格：&lt;strong&gt;256GB版本售价4999元，512GB版本售价6999元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;亚马逊刚刚对其基本版Kindle进行了更新，使这一流行的电子阅读器的部分产品特征与其他产品同步。&lt;/strong&gt;该产品的新版本起价为100美元，将167 ppi的显示屏提升到300，存储空间翻倍到16GB，并将用户诟病已久的microUSB改为USB-C。最后一项肯定会让用户和监管机构满意，因为最近Paperwhite也有类似的更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Linux基金会宣布成立OpenWallet基金会 开发可互操作的数字钱包](https://www.cnbeta.com/articles/tech/1315685.htm) | Tue Sep 13 2022 12:23 PM 
+- 💼 [Fedora 37 Beta测试版现在可供下载](https://www.cnbeta.com/articles/tech/1315713.htm) | Tue Sep 13 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Linux基金会已经宣布了一项新的合作计划，旨在支持建立在开源基础上的数字钱包的互操作性。&lt;/strong&gt;OpenWallet基金会（OWF），作为新的努力，是开放银行创业公司Yes.com的首席执行官Daniel Goldscheider的创意，今天的消息显示其接受了来自多个行业参与者的广泛支持，包括Okta、Ping Identity、Accenture、CVS Health、OpenID基金会以及其他一些公共和私人机构。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在下个月计划的稳定版发布之前，Fedora 37 Beta测试版已经成功地按时发布，作为开发者和有兴趣评估新版系统的测试版。&lt;/strong&gt;Fedora 37 带来了许多变化，包括最新的 GNOME 43 桌面，更新的编译器工具链组件，ARMv7结束支持，新的 Anaconda - 基于网络的安装程序预览，对 Raspberry Pi 4 的官方支持，以及更多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iOS 16中最近删除和隐藏的相册现在默认是锁定保护的](https://www.cnbeta.com/articles/tech/1315683.htm) | Tue Sep 13 2022 12:21 PM 
+- 💂 [Apple Watch Ultra体验如何？资深潜水员称“愿意托付生命”](https://www.cnbeta.com/articles/tech/1315711.htm) | Tue Sep 13 2022 1:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如果你已经安装了iOS 16，你会注意到你的最近删除和隐藏相册被锁定而保护起来，这一点你非常棒。这部分相册在默认情况下被锁定，但一旦你提供必要的Face ID、Touch ID或密码认证，就可以访问它们。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;就在上周，苹果的新品发布会上重磅发布了一款主打专业运动和极限户外场景的超大号手表 Apple Watch Ultra。这款手表也是苹果首次推出智能手表的 Ultra 版本，不同于旗舰系列，为了满足专业运动人士的需求，Apple Watch Ultra 的极限模式续航最长能够达到 60 小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Apple Watch Ultra的电池容量比Series 8大76%](https://www.cnbeta.com/articles/tech/1315681.htm) | Tue Sep 13 2022 12:18 PM 
+- 🚀 [开源驱动更新：AMD显卡在Linux下也有光追了](https://www.cnbeta.com/articles/tech/1315709.htm) | Tue Sep 13 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据中国认证数据库中新发现的规格，Apple Watch Ultra的电池容量比45毫米的Series 8大76%。由MySmartPrice发现的该认证显示，Apple Watch Ultra的电池容量为542mAh。&lt;/strong&gt;45毫米的Apple Watch Series 8的电池容量为308mAh，与之前最大的Apple Watch相比，Apple Watch Ultra的电池容量增加了76%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果你是Linux系统、AMD RX 6000系列显卡的用户，现在可以享受光追了。&lt;strong&gt;AMD的开源版Vulkan显卡驱动“AMDVLK”，已经发布了最新版本Release v-2022.Q3.4，终于加入了对64-bit Vulkan RT实时光线追踪的支持。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NASA为阿特米斯一号低温示范测试和发射工作设定了新的日期](https://www.cnbeta.com/articles/science/1315679.htm) | Tue Sep 13 2022 12:14 PM 
+- 🎊 [9月版号公布：PS4国行游戏《暗夜长梦》过审](https://hot.cnbeta.com/articles/game/1315707.htm) | Tue Sep 13 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国宇航局已经调整了阿特米斯一号低温演示测试的目标日期和下一次发射机会。这次任务是太空发射系统火箭和猎户座飞船在月球以外的首次综合飞行测试。NASA将不早于9月21日星期三进行示范测试，并更新了9月27日的发射申请，此外，还有一个潜在的10月2日的备份发射时间窗口正在审查中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国家新闻出版署今日公布了2022年9月国产网络游戏版号名单，本次共73款游戏获得版号。PS4游戏《暗夜长梦》，客户端游戏《模拟江湖》《霸剑霄云录》《钻头派对》，其余均为移动端游戏，网易《全明星街球派对》等游戏获得版号。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
