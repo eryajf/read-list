@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [对于Fiber，你真的了解吗](https://juejin.cn/post/7142855288448614430) | Tue Sep 13 2022 1:27 PM 
+- 🤗 [React 组件性能优化最佳实践](https://juejin.cn/post/7142880902551437342) | Tue Sep 13 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    一、问题 JavaScript引擎和页面渲染引擎两个线程是互斥的，当其中一个线程执行时，另一个线程只能挂起等待 如果 JavaScript 线程长时间地占用了主线程，那么渲染层面的更新就不得不长时间地 
+    React 组件性能优化最佳实践 React 组件性能优化的核心是减少渲染真实 DOM 节点的频率，减少 Virtual DOM 比对的频率。如果子组件未发生数据改变不渲染子组件。 
     </details> 
 
-- 🎡 [SpringMVC : 常用注解载入的方式和处理的方式](https://juejin.cn/post/7142853505920237599) | Tue Sep 13 2022 1:19 PM 
+- 🎡 [rollback-only异常令我对事务有了新的认识](https://juejin.cn/post/7142880731792932900) | Tue Sep 13 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
-    一 . 前言 这一篇来看一下SpringMVC 中各个注解载入的方式和处理的时机 二 . RestController 部分 RestController 注解主要的作用是Bean的加载 , 值得关注 
+    深入分析为何会产生rollback-only异常，以及对应的解决方法，顺带了解了同类自调用导致事务失效的原因和解决方法。 
     </details> 
 
-- 🕯 [前端监控实战之 sentry](https://juejin.cn/post/7142845386065969166) | Tue Sep 13 2022 12:49 PM 
+- 🕯 [Vite入门从手写一个乞丐版的Vite开始（上）](https://juejin.cn/post/7142878515380092959) | Tue Sep 13 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
-    1、目的 前端监控是非常有必要的内容，当项目中出现问题，可迅速找到问题根源，并且快速解决问题，非常重要，尤其是项目越来越大时 sentry 要做的就是这个事情 就是将错误找到 帮助我们解决问题 非常  
+    本文会通过手写一个非常简单的乞丐版`Vite`来了解一下`Vite`的基本实现原理。分为上下两篇，上篇主要讨论如何成功运行项目，下篇主要讨论热更新。 
     </details> 
 
-- 🚀 [在循环 for、for-in、forEach、for-of 、map中改变item的值，会发生什么？](https://juejin.cn/post/7142828378255523877) | Tue Sep 13 2022 11:43 AM 
+- 🚀 [这么炫酷的 3D 菜单效果，真的不来看看？](https://juejin.cn/post/7142876546489909285) | Tue Sep 13 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
-    听说你精通循环，我不信 真正开始写业务逻辑，就离不开循环。而循环一直是编程中基础的基础。但是作为一个工作多年的前端程序员，一定还有人不了解循环的基础知识。 
+    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 最近在研究 CSS3 中关于 3D 方面的属性，越发的觉得 CSS3 是真的好玩，虽然目前主要的工作是 2B 的业务，但是却并不妨碍我有一颗 
     </details> 
 
-- 💪 [【Log日志】打印mybatis中sql日志并存放到指定文件中](https://juejin.cn/post/7142827386428456974) | Tue Sep 13 2022 11:38 AM 
+- 💪 [Java&amp;C++题解与拓展——leetcode670.最大交换【么的新知识】](https://juejin.cn/post/7142875009252818975) | Tue Sep 13 2022 2:44 PM 
     <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第8篇文章，点击查看活动详情” 打印mybatis中sql日志并存放到指定文件中 logback-spring.xml &lpar;如果是logbackx 
+    leetcode670.最大交换解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
