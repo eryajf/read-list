@@ -590,29 +590,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [Ant Design Landing](https://iui.su/3000/) | Mon Sep 12 2022 7:52 AM 
+- 🌊 [TVBox安卓盒子app](https://iui.su/175/) | Tue Sep 13 2022 7:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    之前推荐过的猫影视TV已经宣布停止维护，可用TVBox替代，TVBox集成了猫影视TV的大部分优点，原猫影视TV接口设置可无痛转移TVBox9月13日 增加了小苹果版，该版本内置资源更傻瓜化。9... 
+    </details> 
+
+- 🫣 [2022 年 9 月每日分享](https://iui.su/3838/) | Tue Sep 13 2022 6:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月13日奇迹秀工具箱、l... 
+    </details> 
+
+- 🌜 [Ant Design Landing](https://iui.su/3000/) | Mon Sep 12 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
     Ant Design Landing是一个基于Ant Design的开源的免费网页制作平台。Landing 运用 Ant Motion 动效组件来搭建完成的页面模板，拥有丰富的各类首页模板，下载... 
     </details> 
 
-- 🫣 [2022 年 9 月每日分享](https://iui.su/3838/) | Mon Sep 12 2022 7:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月12日说的道理一个人人... 
-    </details> 
-
-- 🌜 [兆懿移动应用运行平台](https://iui.su/3023/) | Sat Sep 10 2022 8:27 AM 
+- 🏊 [兆懿移动应用运行平台](https://iui.su/3023/) | Sat Sep 10 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
     视频来源 兆懿官网 兆懿移动应用平台是一个可以让安卓应用运行在Windows 10、Windows 11上的软件，采取开创性的自由拉伸方式，实现应用窗口的非等比例拉伸，弥补传统等比例拉伸存在的画... 
     </details> 
 
-- 🏊 [中秋+教师节快乐](https://iui.su/3686/) | Fri Sep 09 2022 10:38 AM 
+- 🚦 [中秋+教师节快乐](https://iui.su/3686/) | Fri Sep 09 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
     中秋+教师节快乐 
-    </details> 
-
-- 🚦 [Z-Library电子书下载](https://iui.su/380/) | Thu Sep 08 2022 6:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    Z-Library 是世界上最大的免费在线图书馆，它拥有近亿的电子书和文章。由于版权问题和某些关系，域名国内无法访问，下方是一些可以正确打开Z-Library的方法。Z-Library最新域名自... 
     </details> 
 <!-- iui:END -->
 
