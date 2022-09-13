@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [在循环 for、for-in、forEach、for-of 、map中改变item的值，会发生什么？](https://juejin.cn/post/7142828378255523877) | Tue Sep 13 2022 11:43 AM 
+- 🤗 [对于Fiber，你真的了解吗](https://juejin.cn/post/7142855288448614430) | Tue Sep 13 2022 1:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、问题 JavaScript引擎和页面渲染引擎两个线程是互斥的，当其中一个线程执行时，另一个线程只能挂起等待 如果 JavaScript 线程长时间地占用了主线程，那么渲染层面的更新就不得不长时间地 
+    </details> 
+
+- 🎡 [SpringMVC : 常用注解载入的方式和处理的方式](https://juejin.cn/post/7142853505920237599) | Tue Sep 13 2022 1:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    一 . 前言 这一篇来看一下SpringMVC 中各个注解载入的方式和处理的时机 二 . RestController 部分 RestController 注解主要的作用是Bean的加载 , 值得关注 
+    </details> 
+
+- 🕯 [前端监控实战之 sentry](https://juejin.cn/post/7142845386065969166) | Tue Sep 13 2022 12:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    1、目的 前端监控是非常有必要的内容，当项目中出现问题，可迅速找到问题根源，并且快速解决问题，非常重要，尤其是项目越来越大时 sentry 要做的就是这个事情 就是将错误找到 帮助我们解决问题 非常  
+    </details> 
+
+- 🚀 [在循环 for、for-in、forEach、for-of 、map中改变item的值，会发生什么？](https://juejin.cn/post/7142828378255523877) | Tue Sep 13 2022 11:43 AM 
     <details><summary>展开描述 ...</summary> 
     听说你精通循环，我不信 真正开始写业务逻辑，就离不开循环。而循环一直是编程中基础的基础。但是作为一个工作多年的前端程序员，一定还有人不了解循环的基础知识。 
     </details> 
 
-- 🎡 [【Log日志】打印mybatis中sql日志并存放到指定文件中](https://juejin.cn/post/7142827386428456974) | Tue Sep 13 2022 11:38 AM 
+- 💪 [【Log日志】打印mybatis中sql日志并存放到指定文件中](https://juejin.cn/post/7142827386428456974) | Tue Sep 13 2022 11:38 AM 
     <details><summary>展开描述 ...</summary> 
     “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第8篇文章，点击查看活动详情” 打印mybatis中sql日志并存放到指定文件中 logback-spring.xml &lpar;如果是logbackx 
-    </details> 
-
-- 🕯 [基于 React Native 的动态列表方案探索](https://juejin.cn/post/7142819695840722975) | Tue Sep 13 2022 11:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    针对动态列表问题我们使用RN进行了一下探索尝试， 利用云音乐已经相对完善的RN基建，结合客户端列表能力低成本的实现了一套的动态化能力，同时兼顾一定的性能体验。 
-    </details> 
-
-- 🚀 [公历生日和农历生日，合二为一，一生有几次？[含推算器]](https://juejin.cn/post/7142817957171691527) | Tue Sep 13 2022 11:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    据历法专家估算，如果人们活到76岁以上，大约有80%的人一生中能有2到3次公历与农历生日重合的机会；大约3%的人可能一辈子都赶不上一次，还有约6%的人一生只有1次。 
-    </details> 
-
-- 💪 [为什么说 90% 的情况下，immer 能完胜 immutable？](https://juejin.cn/post/7142814989307346981) | Tue Sep 13 2022 10:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    假设 React 组件有这样一个状态： 我们这样修改了它的状态： 你觉得组件会重新渲染么？ 我们先在 class 组件里试一下： 渲染 state.a.b 的值，两秒以后修改 state。 你发现它重 
     </details> 
 <!-- juejin:END -->
 ### 少数派
