@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [神舟十四号乘组在轨100天 太空“出差三人组”准备第二次出舱](https://www.cnbeta.com/articles/science/1315645.htm) | Tue Sep 13 2022 10:09 AM 
+- 🕯 [8月电动车销量榜：30万的特斯拉和3万块的五菱杀疯了](https://www.cnbeta.com/articles/tech/1315659.htm) | Tue Sep 13 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;6月5日10时44分，神舟十四号载人飞船乘坐长征二号F遥十四运载火箭在酒泉成功发射，约7小时后成功对接天和核心舱，&lt;strong&gt;太空“出差三人组”陈冬、刘洋、蔡旭哲进入天和核心舱，开启为期6个月的在轨驻留。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，乘联会公布数据显示，8月新能源乘用车零售销量达到52.9万辆，同比增长111.2%，环比增8.8%，国内的新能源汽车出现井喷式增长。而在纯电动阵营中，也出现了爆发式增长，除了30万的特斯拉Model Y和3万块的五菱宏光MINI EV持续爆单，大杀四方之外，其余国产自主品牌也在持续发力，单车月销量向万辆大关突进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中国液氧煤油火箭发动机复用进入实战 突破五大难题](https://www.cnbeta.com/articles/science/1315643.htm) | Tue Sep 13 2022 9:59 AM 
+- 💼 [《巴比伦陷落》陷落了：官方宣布明年2月28日终止运营](https://hot.cnbeta.com/articles/game/1315657.htm) | Tue Sep 13 2022 10:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据西安航天动力研究所官方消息，近日，该所自主研制的某型液氧煤油发动机首次实现重复飞行试验验证。据悉，&lt;strong&gt;该型发动机作为某飞行器主动力装置参加首飞试验后，经检测维护，再次装配，并顺利完成了重复飞行试验，在国内首次实现了液体火箭动力的重复使用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《巴比伦陷落》官方于推特宣布，将于2023年2月28日正式终止游戏的运营。官方称将取消其计划的大规模更新，游戏的第二赛季将运行至2022年11月29日。另外，官方表示如果时间表计划有所更改，将不会再另行通知。服务终止后，游戏服务器上的所有数据都将删除。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [隐私团体敦促国会尽快对《美国创新和在线选择法案》进行投票](https://www.cnbeta.com/articles/tech/1315641.htm) | Tue Sep 13 2022 9:56 AM 
+- 💂 [月壤中的水和地球上的水有何不同？前者肉眼看不到](https://www.cnbeta.com/articles/science/1315655.htm) | Tue Sep 13 2022 10:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;关注隐私的公司团体，如DuckDuckGo、Brave和Mozilla周二致函国会议员，敦促他们尽快对《美国创新和在线选择法案》进行投票。该法案将禁止公司在自身平台上推广其产品而排挤竞争对手。这意味着如果法案获得通过，当用户在亚马逊上搜索一个产品时，排名靠前的结果不一定是亚马逊自营的产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，据央视网报道，&lt;strong&gt;中国科学家对月壤的研究更进一步：月球上不仅有水，而且存在高含量水。&lt;/strong&gt;中国科学院地球化学研究所科研团队对嫦娥五号月壤样品开展研究，&lt;strong&gt;通过红外光谱和纳米离子探针分析，发现嫦娥五号矿物表层中存在大量的太阳风成因水。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [眼花缭乱：Gigabyte英特尔700与AMD 600全系主板阵容曝光](https://www.cnbeta.com/articles/tech/1315639.htm) | Tue Sep 13 2022 9:54 AM 
+- 🚀 [日本东芝一芯片工厂突发停电 被迫停产5天](https://www.cnbeta.com/articles/tech/1315653.htm) | Tue Sep 13 2022 10:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;@Harukaze5719 刚刚披露了欧亚经济委员会（EEC）上公布的 Gigabyte 新主板阵容，除了 AMD 的 600 系列芯片组、我们还看到了英特尔 700 系列的庞大 SKU 。&lt;/strong&gt;相较于仅支持 DDR5 内存的 AM5 平台（22 款），适用于英特尔 13 代酷睿的 LGA 1700 平台（多达 69 款）还兼容 DDR4 内存，因此我们对其中繁杂的 SKU 也并不感到意外。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日本半导体工厂又遭遇停电导致停产的意外了，这次中招的是东芝旗下的芯片工厂，公司表示事故是在设备检修时发生的，停电导致部分正在生产的芯片受影响，预计9月17日恢复生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [宝马X5八月卖出8000多台 吊打奔驰、奥迪、沃尔沃三家](https://www.cnbeta.com/articles/tech/1315637.htm) | Tue Sep 13 2022 9:51 AM 
+- 🎊 [苹果历代所有iPhone重量变化介绍](https://www.cnbeta.com/articles/tech/1315651.htm) | Tue Sep 13 2022 10:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年4月份，国产宝马X5L正式上市，其共推出四款车型，&lt;strong&gt;售价区间为60.50-77.50万元&lt;/strong&gt;，相比于进口版，起售价便宜了将近10万元。而据宝马官方消息，从9月份生产月开始，国产宝马X5将取消智能触控钥匙，并对涉及的部分车型进行价格下调3000元，&lt;strong&gt;价格调整后为60.50-77.2万元&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自2007 年，第一代iPhone 发布至今的15年多时间里，苹果一共发布了34款iPhone；上期，充电头网介绍到，从2009年6月发布的 iPhone 3GS 伊始，至iPhone 11型号（除Pro、Pro Max款）全部附赠经典款 5W充电器，感兴趣的小伙伴可以去查阅一下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
