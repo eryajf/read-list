@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [经典神器复活！WinAMP - 本地音乐播放器昔日王者更新 &lpar;支持 Win11&rpar;](https://www.iplaysoft.com/p/winamp) | Mon Sep 12 2022 11:49 AM
-- 🧑‍🏫 [微软 PowerToys 小工具合集 - 免费给 Win11/10 加装各种增强新功能的效率利器](https://www.iplaysoft.com/powertoys.html) | Sun Sep 11 2022 4:15 PM
-- 🥰 [万彩特效大师 &lpar;限时送会员&rpar; - 零基础轻松剪辑合成特效动画视频 / 替代 AE 制作特效大片](https://www.iplaysoft.com/wctxds.html) | Tue Sep 06 2022 7:52 PM
-- 💻 [WxDatViewer - 微信聊天记录图片批量清理/查看/导出/删除工具 &lpar;解密读取电脑版 dat 文件&rpar;](https://www.iplaysoft.com/wxdatviewer.html) | Mon Sep 05 2022 2:21 PM
-- 🎃 [iSlide 插件 &lpar;PPT 增强神器&rpar; 买两年送 360 天！每月不到 5 块钱](https://www.iplaysoft.com/news/5670) | Thu Sep 01 2022 4:30 PM<!-- iplaysoft:END -->
+- 🧐 [iOS 16 正式版新功能汇总 - 这次有哪些值得升级的点？](https://www.iplaysoft.com/p/ios16-features) | Tue Sep 13 2022 5:26 AM
+- 🧑‍🏫 [苹果最新 iOS 16 正式版 / iPadOS 固件 IPSW 全套官方下载地址 &lpar;升级 iPhone iPad 系统&rpar;](https://www.iplaysoft.com/ios.html) | Tue Sep 13 2022 5:03 AM
+- 🥰 [经典神器复活！WinAMP - 本地音乐播放器昔日王者更新 &lpar;支持 Win11&rpar;](https://www.iplaysoft.com/p/winamp) | Mon Sep 12 2022 11:49 AM
+- 💻 [微软 PowerToys 小工具合集 - 免费给 Win11/10 加装各种增强新功能的效率利器](https://www.iplaysoft.com/powertoys.html) | Sun Sep 11 2022 4:15 PM
+- 🎃 [万彩特效大师 &lpar;限时送会员&rpar; - 零基础轻松剪辑合成特效动画视频 / 替代 AE 制作特效大片](https://www.iplaysoft.com/wctxds.html) | Tue Sep 06 2022 7:52 PM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
