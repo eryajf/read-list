@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [苹果 iPhone、iPad 复制、剪切、粘贴的操作手势](http://www.mac52ipod.cn/post/apple-ipad-iphone-copy-cut-paste-gesture.php) | Sun Sep 11 2022 4:48 AM 
+- 👨‍🏫 [Mac技巧之用苹果归档格式压缩文件的方法](http://www.mac52ipod.cn/post/apple-mac-macos-archive-utility-tip.php) | Tue Sep 13 2022 4:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果电脑 macOS 系统自带的文件压缩/解压缩工具 Archive Utility（归档实用工具）可以设置压缩方式。command 空格调出 Spotlight 搜索，搜 归档实用工具 或者 Archive Utility（你从 Finder 里找这工具的话会很麻烦，藏得很深）。然后如下图所示，在软件设置里把归档格式改成「Apple归档」即可。压缩率更高，也能更高效得使用 Apple Silicone 芯片的算力。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6696&quot; border=&quot;0&quot; alt=&quot;Mac技巧之用苹果归档格式压缩文件的方法&quot; title=&quot;Mac技巧之用苹果归档格式压缩文件的方法&quot; /&gt;&lt;/p&gt;&lt;p&gt;题外话，如果你要和 Windows 用户交换文件，最好还是保持压缩方式别折腾了。免得对方打不开压缩包（猜的。我同事全员 Mac，不知道 PC 那边会不会出问题）&lt;/p&gt;&lt;p&gt;题外话2，我更多会用 &lt;u&gt;&lt;a href=&quot;/post/mac-os-x-decompress-compress-rar-free-software-keka.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑 Mac OS X 系统下支持密码加密和 RAR 格式的压缩/解压缩免费软件推荐：Keka &quot;&gt;&lt;font color=#0000FF&gt;Keka&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 来压缩和解压缩文件&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%258E%258B%25E7%25BC%25A9&quot; rel=&quot;tag&quot;&gt;压缩&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [苹果 iPhone、iPad 复制、剪切、粘贴的操作手势](http://www.mac52ipod.cn/post/apple-ipad-iphone-copy-cut-paste-gesture.php) | Sun Sep 11 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [苹果 iPhone 14、新 Apple Watch、新 AirPods 发布会五分钟无废话版简介](http://www.mac52ipod.cn/post/apple-2022-iphone-14-event-5-min-briefintroduction.php) | Wed Sep 07 2022 6:50 PM 
+- 🦏 [苹果 iPhone 14、新 Apple Watch、新 AirPods 发布会五分钟无废话版简介](http://www.mac52ipod.cn/post/apple-2022-iphone-14-event-5-min-briefintroduction.php) | Wed Sep 07 2022 6:50 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [抖音出了 macOS 客户端](http://www.mac52ipod.cn/post/douyin-for-mac.php) | Mon Sep 05 2022 4:16 AM 
+- 🚀 [抖音出了 macOS 客户端](http://www.mac52ipod.cn/post/douyin-for-mac.php) | Mon Sep 05 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [苹果 iPhone、iPad、Apple Watch、Mac 上规划旅行路线和日程的 App：Tripsy](http://www.mac52ipod.cn/post/apple-ios-macos-iphone-ipad-mac-apple-watch-app-tripsy-travel-p.php) | Sat Sep 03 2022 4:16 AM 
+- 🏊 [苹果 iPhone、iPad、Apple Watch、Mac 上规划旅行路线和日程的 App：Tripsy](http://www.mac52ipod.cn/post/apple-ios-macos-iphone-ipad-mac-apple-watch-app-tripsy-travel-p.php) | Sat Sep 03 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	最近发现的旅行路线和日程规划 App：Tripsy，自动导入酒店和航班信息、整理旅行日程、自动提醒、可视化行程地图、信息分享、查看景点推荐、旅行途中记录照片和文字生成旅行日记 …… 功能很全而且设计感很好。而且 iPhone、iPad、Apple Watch、Mac 上都有客户端，信息可以多端同步（比如提前在 Mac 或 iPad 上做规划，旅途中用 iPhone 和 Apple Watch 上查看和记录）&lt;/p&gt;&lt;p&gt;Tripsy 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/tripsy-travel-planner/id1429967544&quot; target=&quot;_blank&quot; title=&quot;Tripsy 规划您的行程, 与朋友分享您的旅程&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/tripsy-travel-planner/id1429967544&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2597%2585%25E8%25A1%258C&quot; rel=&quot;tag&quot;&gt;旅行&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2597%2585%25E6%25B8%25B8&quot; rel=&quot;tag&quot;&gt;旅游&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Apple新闻之腾讯打算重构 Mac QQ 了](http://www.mac52ipod.cn/post/tecnent-rebuild-mac-qq-electron.php) | Fri Sep 02 2022 4:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	今天看到很多人在转发这个帖子 &lt;u&gt;&lt;a href=&quot;https://v2ex.com/t/876823&quot; target=&quot;_blank&quot; title=&quot;腾讯内测新版 QQ mac 客户端，似乎是基于 Electron 开发&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://v2ex.com/t/876823&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，好消息是腾讯打算重构 Mac QQ（屎山挖不动了吧），坏消息是不用 Native App 而是基于 Electron 开发。&lt;/p&gt;&lt;p&gt;新版 Mac QQ 已经进入内测阶段，想看截屏的直接去上面链接说的那个帖子吧。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=qq&quot; rel=&quot;tag&quot;&gt;qq&lt;/a&gt;
 
  
     </details> 
