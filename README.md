@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [推特股东同意接受马斯克440亿美元的收购要约](https://www.cnbeta.com/articles/tech/1315763.htm) | Tue Sep 13 2022 7:03 PM 
+- 🕯 [苹果考虑年底前为App Store增加新广告位](https://www.cnbeta.com/articles/tech/1315781.htm) | Tue Sep 13 2022 11:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;推特股东批准了亿万富翁马斯克提出的440亿美元的收购计划，为下个月有关该收购交易的诉讼铺平了道路。&lt;/strong&gt;大多数推特股东投票赞成接受马斯克提出的每股54.20美元的收购要约，马斯克在4月提出了该收购建议，但后来又想反悔。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;很快美国就会迎来年底购物旺季，苹果准备在App Store内增加新广告位让开发者购买，也就是说年底前可能就会增加新广告位。周二时，苹果向开发者发送消息，邀请他们参加线上会议，鼓励他们购买广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [不用同一个牌子就没法交朋友？这样的事恐怕会越来越多](https://hot.cnbeta.com/articles/comic/1315761.htm) | Tue Sep 13 2022 5:23 PM 
+- 💼 [直播荐股产业链调查：“假股神”是如何精准收割“真粉丝”的？](https://www.cnbeta.com/articles/tech/1315779.htm) | Tue Sep 13 2022 11:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这两年混科技圈啊，难免会听到厂商们宣传什么 &lt;strong&gt;互联啊&lt;/strong&gt;&lt;strong&gt;、智慧啊&lt;/strong&gt;&lt;strong&gt;、 物联啊、协同啊、生态啊、跨端啊、&lt;/strong&gt;之类的词儿。虽然这不像正儿八经的互联网黑话味儿这么冲吧，但听多了挺糊脑袋。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1315761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;知名游资“溧阳路孙哥”（注：假冒）在直播间卖力吆喝，鼓动用户加入粉丝团，并保证付费成为VIP会员就送牛股；依靠“打首板”策略名声大噪的游资“北京炒家”（注：假冒）主动给粉丝发私信，承诺“带你炒股带你飞”；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [手机3年一换和1年一换成本相当？](https://www.cnbeta.com/articles/tech/1315759.htm) | Tue Sep 13 2022 5:20 PM 
+- 💂 [国内游戏公司借收购布局海外市场](https://hot.cnbeta.com/articles/game/1315777.htm) | Tue Sep 13 2022 11:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期，苹果与华为分别发布了iPhone14和Mate50系列，就在大家纠结是不是应该换机时，有网友在小红书平台发帖声称，3年换一次手机其实和每年都换机的成本相差无几。此贴一出，并未打消大家换机前的犹豫，反而引发1500多位网友的热议。手机3年一换和1年一换的成本哪个更贵呢？一起跟着玩机达人算算账吧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;13日晚间，9月国产网络游戏版号审批信息发布。网易游戏再次榜上有名，腾讯旗下子公司的游戏也位列其中。上海证券报记者关注到，近期，头部游戏厂商腾讯与网易在海外动作频频，这在“降本增效”大趋势中尤为引人注目。今年以来，全球游戏行业风云乍起，微软欲鲸吞老牌游戏公司动视暴雪，拉开了全球游戏领域新一轮洗牌的大幕。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14 Pro包装盒提前看：纸质撕拉无塑封 提前激活每台罚款20万](https://www.cnbeta.com/articles/tech/1315757.htm) | Tue Sep 13 2022 4:24 PM 
+- 🚀 [富士X-H2发布：突破4000万像素 实拍样片太绝了](https://www.cnbeta.com/articles/tech/1315775.htm) | Tue Sep 13 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月16日，iPhone 14和iPhone 14 Pro系列将正式发售，而iPhone 14 Plus则需等到10月7日才开始卖。在此之前，已有不少经销商拿到了新机，从曝光的图片来看，&lt;strong&gt;苹果今年规定“严禁在9月16日早8点前开机激活（iPhone 14系列），提前激活每台罚款20万元。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，&lt;strong&gt;富士正式发布了X系列的最新旗舰级无反相机X-H2，成为全球首款突破4000万像素的APS-C画幅数码相机。&lt;/strong&gt;该相机配备全新背照式4020万像素X-Trans CMOS 5 HR传感器和高速X-Processor 5处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果15年发布38款iPhone 重量分别是多少？](https://www.cnbeta.com/articles/tech/1315755.htm) | Tue Sep 13 2022 4:23 PM 
+- 🎊 [NASA修复Artemis I泄漏问题，预计9月27日展开下一次发射尝试](https://www.cnbeta.com/articles/science/1315773.htm) | Tue Sep 13 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着电池容量、镜头模组、屏幕的增大，使得手机的整体重量也顺势增长，体重超过200g的机型早已司空见惯。在苹果刚刚发布的iPhone 14系列中，&lt;strong&gt;iPhone 14 Pro Max重量达到了240g，成为目前史上最重iPhone。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;如果一切顺利，NASA的新太空发射系统&lpar;SLS&rpar;将可以在9月27日周五从佛罗里达州的肯尼迪航天中心首次发射。&lt;/strong&gt;据悉，该航天局已经修复了导致9月3日发射失败的泄漏，现在正努力在9月21日前进行推进剂装载演示以测试问题是否得到解决，进而为27日的发射尝试做好准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
