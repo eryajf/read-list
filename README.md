@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [每日优鲜App清空所有商品信息，用户余额显示为0](https://www.cnbeta.com/articles/tech/1315615.htm) | Tue Sep 13 2022 9:04 AM 
+- 🕯 [神舟十四号乘组在轨100天 太空“出差三人组”准备第二次出舱](https://www.cnbeta.com/articles/science/1315645.htm) | Tue Sep 13 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;新浪科技发现每日优鲜App已清空所有商品信息，且用户余额也显示为0。&lt;/strong&gt;此前，7月28日晚，每日优鲜暴雷后App已无法下单，用户储值无法退款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;6月5日10时44分，神舟十四号载人飞船乘坐长征二号F遥十四运载火箭在酒泉成功发射，约7小时后成功对接天和核心舱，&lt;strong&gt;太空“出差三人组”陈冬、刘洋、蔡旭哲进入天和核心舱，开启为期6个月的在轨驻留。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [谷歌广告业务遭出版商起诉，索赔254亿美元](https://www.cnbeta.com/articles/tech/1315613.htm) | Tue Sep 13 2022 9:02 AM 
+- 💼 [中国液氧煤油火箭发动机复用进入实战 突破五大难题](https://www.cnbeta.com/articles/science/1315643.htm) | Tue Sep 13 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，Google今日遭遇两起诉讼，被指其数字广告业务损害了出版商的利益，索赔高达250亿欧元（约合254亿美元）。当地时间周二，代表出版商利益的Geradin Partners律师事务所，在英国和荷兰法院对Google提起了这两起诉讼诉讼，称其数字广告业务行为损害了出版商利益。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据西安航天动力研究所官方消息，近日，该所自主研制的某型液氧煤油发动机首次实现重复飞行试验验证。据悉，&lt;strong&gt;该型发动机作为某飞行器主动力装置参加首飞试验后，经检测维护，再次装配，并顺利完成了重复飞行试验，在国内首次实现了液体火箭动力的重复使用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国网络文学作品首次入藏大英图书馆 包括《赘婿》等16部](https://www.cnbeta.com/articles/tech/1315611.htm) | Tue Sep 13 2022 8:58 AM 
+- 💂 [隐私团体敦促国会尽快对《美国创新和在线选择法案》进行投票](https://www.cnbeta.com/articles/tech/1315641.htm) | Tue Sep 13 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;中国网络文学作品首次被收录至大英图书馆的中文馆藏书目中。&lt;/strong&gt;被收录的网络文学共计16部，分别是《赘婿》《赤心巡天》《地球纪元》《第一序列》《大国重工》《大医凌然》《画春光》《大宋的智慧》《贞观大闲人》《神藏》《复兴之路》《纣临》《魔术江湖》《穹顶之上》《大讼师》《掌欢》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;关注隐私的公司团体，如DuckDuckGo、Brave和Mozilla周二致函国会议员，敦促他们尽快对《美国创新和在线选择法案》进行投票。该法案将禁止公司在自身平台上推广其产品而排挤竞争对手。这意味着如果法案获得通过，当用户在亚马逊上搜索一个产品时，排名靠前的结果不一定是亚马逊自营的产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [​Instagram正在内部测试“礼物” 为创作者提供新的货币化功能](https://www.cnbeta.com/articles/tech/1315609.htm) | Tue Sep 13 2022 8:51 AM 
+- 🚀 [眼花缭乱：Gigabyte英特尔700与AMD 600全系主板阵容曝光](https://www.cnbeta.com/articles/tech/1315639.htm) | Tue Sep 13 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Wccftech报道，我们都经历过这样的情况：我们想给我们喜欢的创作者一些比浏览或点赞更多的东西，一些平台实际上已经为你创造了一种方式，通过小费或捐赠系统来实现。虽然早期有一些传言说Instagram也在开发类似的功能，&lt;strong&gt;但Meta现在已经正式确认，他们确实在开发这样的功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;@Harukaze5719 刚刚披露了欧亚经济委员会（EEC）上公布的 Gigabyte 新主板阵容，除了 AMD 的 600 系列芯片组、我们还看到了英特尔 700 系列的庞大 SKU 。&lt;/strong&gt;相较于仅支持 DDR5 内存的 AM5 平台（22 款），适用于英特尔 13 代酷睿的 LGA 1700 平台（多达 69 款）还兼容 DDR4 内存，因此我们对其中繁杂的 SKU 也并不感到意外。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [IOActive警告：中继攻击手段可在数秒内解锁并开走特斯拉电动汽车](https://www.cnbeta.com/articles/tech/1315607.htm) | Tue Sep 13 2022 8:49 AM 
+- 🎊 [宝马X5八月卖出8000多台 吊打奔驰、奥迪、沃尔沃三家](https://www.cnbeta.com/articles/tech/1315637.htm) | Tue Sep 13 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管特斯拉已经在网络安全保障上付出了相当大的心力，但其精心设计的系统，还是难以应付层出不穷的攻击类型。&lt;strong&gt;比如近日，IOActive 首席安全顾问 Josep Pi Rodriguez 就发现了所谓的“NFC 中继攻击”。&lt;/strong&gt;尽管需要团伙中的两个人协作，但只需几秒钟就能窃取权限的这一手段，还是给特斯拉和 Model Y 的车主们敲响了警钟。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年4月份，国产宝马X5L正式上市，其共推出四款车型，&lt;strong&gt;售价区间为60.50-77.50万元&lt;/strong&gt;，相比于进口版，起售价便宜了将近10万元。而据宝马官方消息，从9月份生产月开始，国产宝马X5将取消智能触控钥匙，并对涉及的部分车型进行价格下调3000元，&lt;strong&gt;价格调整后为60.50-77.2万元&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
