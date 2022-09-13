@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [台积电称2纳米生产将在2025年开始 先进高NA光刻机将于2024年到货](https://www.cnbeta.com/articles/tech/1315735.htm) | Tue Sep 13 2022 3:13 PM 
+- 🕯 [iPhone 14 Pro包装盒提前看：纸质撕拉无塑封 提前激活每台罚款20万](https://www.cnbeta.com/articles/tech/1315757.htm) | Tue Sep 13 2022 4:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据台湾媒体的报道，台湾半导体制造公司（TSMC）的目标是在2025年量产其2纳米（nm）半导体制造工艺。台积电目前正准备加大其3纳米节点的生产，这被认为是世界上最先进的芯片制造技术之一，公司代表向台湾媒体表示，它将继续通过下一代技术引领全球半导体行业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月16日，iPhone 14和iPhone 14 Pro系列将正式发售，而iPhone 14 Plus则需等到10月7日才开始卖。在此之前，已有不少经销商拿到了新机，从曝光的图片来看，&lt;strong&gt;苹果今年规定“严禁在9月16日早8点前开机激活（iPhone 14系列），提前激活每台罚款20万元。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果退出小屏旗舰市场后谷歌完成候补 新品代号neila](https://www.cnbeta.com/articles/tech/1315733.htm) | Tue Sep 13 2022 3:04 PM 
+- 💼 [苹果15年发布38款iPhone 重量分别是多少？](https://www.cnbeta.com/articles/tech/1315755.htm) | Tue Sep 13 2022 4:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着iPhone 14系列的发布，mini机型正式推出历史舞台，&lt;strong&gt;这意味着苹果正式放弃了小屏旗舰市场。&lt;/strong&gt;苹果的退出源于销量没有达到预期，以iPhone 12 mini为例，&lt;strong&gt;在2020年10月和2020年11月，iPhone 12 mini在美国的销量仅占iPhone 12销量的6%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着电池容量、镜头模组、屏幕的增大，使得手机的整体重量也顺势增长，体重超过200g的机型早已司空见惯。在苹果刚刚发布的iPhone 14系列中，&lt;strong&gt;iPhone 14 Pro Max重量达到了240g，成为目前史上最重iPhone。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [LG 65英寸可卷曲OLED电视限量开售 售价777777元](https://www.cnbeta.com/articles/tech/1315731.htm) | Tue Sep 13 2022 3:04 PM 
+- 💂 [法国大导演戈达尔选择安乐死离世](https://hot.cnbeta.com/articles/movie/1315753.htm) | Tue Sep 13 2022 4:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月13日消息，今晚20:00，全球首款可卷曲OLED电视——&lt;strong&gt;LG 65英寸OLED R正式限量开售，售价高达777777元。LG 65英寸OLED R拥有3840*2160分辨率与16:9屏幕比例&lt;/strong&gt;，支持120Hz刷屏率、1ms响应时间与300-500尼特亮度，拥有98.5%&amp;nbsp;DCI-P3色域覆盖，支持HDR，适合日常观影或游戏需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;法国媒体报道，著名导演让-吕克·戈达尔&lpar;Jean-Luc Godard&rpar;已经离世，享年91岁。&lt;strong&gt;戈达尔并非死于疾病，而是选择了安乐死，因为他觉得已经觉得精疲力尽，遂决定“求助于自杀”。&lt;/strong&gt;不知道是否天意，戈达尔执导个人第一部电影，名字就叫《精疲力尽》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [我国成功发射“中星1E”卫星](https://www.cnbeta.com/articles/tech/1315729.htm) | Tue Sep 13 2022 3:03 PM 
+- 🚀 [任天堂《塞尔达传说：旷野之息》续作：《王国之泪》官宣](https://hot.cnbeta.com/articles/game/1315751.htm) | Tue Sep 13 2022 4:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月13日21时18分，我国在文昌航天发射场使用长征七号改运载火箭，成功将“中星1E”卫星发射升空。卫星顺利进入预定轨道，发射任务获得圆满成功。该卫星主要用于为用户提供高质量的话音、数据、广播电视传输服务。此次任务是长征系列运载火箭第437次飞行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为任天堂第一方游戏大作，《塞尔达传说：旷野之息》可谓无人不知无人不晓，&lt;strong&gt;自从2017年随Switch发布后，这款游戏就被众多玩家评为新一代“神作”，&lt;/strong&gt;甚至不少消费者为了《塞尔达传说：旷野之息》才购买了Switch。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Bose QuietComfort SE降噪耳机悄然上市 规格与QC 45相似](https://www.cnbeta.com/articles/tech/1315727.htm) | Tue Sep 13 2022 2:51 PM 
+- 🎊 [研究发现全球生物多样性存在危机 食物网正在崩溃](https://www.cnbeta.com/articles/science/1315749.htm) | Tue Sep 13 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当Bose QuietComfort 35 II去年被QuietComfort 45取代时，人们发现这已经是一款岁数非常大的产品，而现在它似乎又有续命的迹象：又一个SE型号发布，这似乎是45的一次重塑，有趣的是，对于官方而言这是一次无声的发布，产品本身已经在几个美国商店上市了（而且应该很快就会进入欧洲）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;最近发表在《科学》杂志上的一项研究，提供了迄今为止最清晰的陆地哺乳动物减少对食物网的长期影响。&lt;/strong&gt;研究者表示，虽然大约6%的陆地哺乳动物在这段时间内灭绝了，但现在科学家估计超过50%的哺乳动物食物网已经消失了。而最有可能衰退的哺乳动物，无论是在过去还是现在，都是哺乳动物食物链复杂性的关键。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
