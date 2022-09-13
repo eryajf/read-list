@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端工程化之Webpack优化](https://juejin.cn/post/7142802292436598820) | Tue Sep 13 2022 10:03 AM 
+- 🤗 [在循环 for、for-in、forEach、for-of 、map中改变item的值，会发生什么？](https://juejin.cn/post/7142828378255523877) | Tue Sep 13 2022 11:43 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是柒八九。 好久没更文了，其实这段时间，一直没闲着。在准备一些比较重要的东西。忙着跑步，忙着学习，忙着xx 
+    听说你精通循环，我不信 真正开始写业务逻辑，就离不开循环。而循环一直是编程中基础的基础。但是作为一个工作多年的前端程序员，一定还有人不了解循环的基础知识。 
     </details> 
 
-- 🎡 [AB实验人群定向HTE模型1 -  Causal Tree](https://juejin.cn/post/7142800655369895973) | Tue Sep 13 2022 9:55 AM 
+- 🎡 [【Log日志】打印mybatis中sql日志并存放到指定文件中](https://juejin.cn/post/7142827386428456974) | Tue Sep 13 2022 11:38 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇是treatment effect估计相关的论文系列第一篇所以会啰嗦一点多给出点背景。 其他相关模型详见AB实验的高端玩法系列1 - 人群定向/HTE/Uplift 论文github收藏 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第8篇文章，点击查看活动详情” 打印mybatis中sql日志并存放到指定文件中 logback-spring.xml &lpar;如果是logbackx 
     </details> 
 
-- 🕯 [协商缓存相关头部 Last-Modified 与 ETag 生成算法](https://juejin.cn/post/7142800682909696031) | Tue Sep 13 2022 9:54 AM 
+- 🕯 [基于 React Native 的动态列表方案探索](https://juejin.cn/post/7142819695840722975) | Tue Sep 13 2022 11:09 AM 
     <details><summary>展开描述 ...</summary> 
-    Last-Modified 针对静态资源而言，一般会选择文件的 mtime 元属性作为上次修改时间，该元属性表示文件内容的修改时间。 nginx 也是这样处理的，源码见: ngx_http_stati 
+    针对动态列表问题我们使用RN进行了一下探索尝试， 利用云音乐已经相对完善的RN基建，结合客户端列表能力低成本的实现了一套的动态化能力，同时兼顾一定的性能体验。 
     </details> 
 
-- 🚀 [扫盲篇-理解微服务中的服务注册与发现](https://juejin.cn/post/7142800484758192165) | Tue Sep 13 2022 9:54 AM 
+- 🚀 [公历生日和农历生日，合二为一，一生有几次？[含推算器]](https://juejin.cn/post/7142817957171691527) | Tue Sep 13 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
-    服务注册是指服务实例启动时将自身信息注册到服务注册与发现中心，并在运行时通过心跳等方式向服务注册与发现中心汇报自身服务状态；服务发现是指服务实例向服务注册与发现中心获取其他服务实例信息，用于进行后续 
+    据历法专家估算，如果人们活到76岁以上，大约有80%的人一生中能有2到3次公历与农历生日重合的机会；大约3%的人可能一辈子都赶不上一次，还有约6%的人一生只有1次。 
     </details> 
 
-- 💪 [Groq：从头设计一个张量流式处理器架构](https://juejin.cn/post/7142799821236076557) | Tue Sep 13 2022 9:51 AM 
+- 💪 [为什么说 90% 的情况下，immer 能完胜 immutable？](https://juejin.cn/post/7142814989307346981) | Tue Sep 13 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-    近期，Groq首席架构师Dennis Abts完整介绍了Grop公司研发的软件定义横向扩展的张量流式多处理器架构，主要包括搭建TSP架构的背景及构成，并说明了TSP的工作负载性能。 
+    假设 React 组件有这样一个状态： 我们这样修改了它的状态： 你觉得组件会重新渲染么？ 我们先在 class 组件里试一下： 渲染 state.a.b 的值，两秒以后修改 state。 你发现它重 
     </details> 
 <!-- juejin:END -->
 ### 少数派
