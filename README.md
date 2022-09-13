@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14 Pro包装盒提前看：纸质撕拉无塑封 提前激活每台罚款20万](https://www.cnbeta.com/articles/tech/1315757.htm) | Tue Sep 13 2022 4:24 PM 
+- 🕯 [不用同一个牌子就没法交朋友？这样的事恐怕会越来越多](https://hot.cnbeta.com/articles/comic/1315761.htm) | Tue Sep 13 2022 5:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;这两年混科技圈啊，难免会听到厂商们宣传什么 &lt;strong&gt;互联啊&lt;/strong&gt;&lt;strong&gt;、智慧啊&lt;/strong&gt;&lt;strong&gt;、 物联啊、协同啊、生态啊、跨端啊、&lt;/strong&gt;之类的词儿。虽然这不像正儿八经的互联网黑话味儿这么冲吧，但听多了挺糊脑袋。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1315761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [手机3年一换和1年一换成本相当？](https://www.cnbeta.com/articles/tech/1315759.htm) | Tue Sep 13 2022 5:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近期，苹果与华为分别发布了iPhone14和Mate50系列，就在大家纠结是不是应该换机时，有网友在小红书平台发帖声称，3年换一次手机其实和每年都换机的成本相差无几。此贴一出，并未打消大家换机前的犹豫，反而引发1500多位网友的热议。手机3年一换和1年一换的成本哪个更贵呢？一起跟着玩机达人算算账吧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [iPhone 14 Pro包装盒提前看：纸质撕拉无塑封 提前激活每台罚款20万](https://www.cnbeta.com/articles/tech/1315757.htm) | Tue Sep 13 2022 4:24 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月16日，iPhone 14和iPhone 14 Pro系列将正式发售，而iPhone 14 Plus则需等到10月7日才开始卖。在此之前，已有不少经销商拿到了新机，从曝光的图片来看，&lt;strong&gt;苹果今年规定“严禁在9月16日早8点前开机激活（iPhone 14系列），提前激活每台罚款20万元。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果15年发布38款iPhone 重量分别是多少？](https://www.cnbeta.com/articles/tech/1315755.htm) | Tue Sep 13 2022 4:23 PM 
+- 🚀 [苹果15年发布38款iPhone 重量分别是多少？](https://www.cnbeta.com/articles/tech/1315755.htm) | Tue Sep 13 2022 4:23 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;随着电池容量、镜头模组、屏幕的增大，使得手机的整体重量也顺势增长，体重超过200g的机型早已司空见惯。在苹果刚刚发布的iPhone 14系列中，&lt;strong&gt;iPhone 14 Pro Max重量达到了240g，成为目前史上最重iPhone。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [法国大导演戈达尔选择安乐死离世](https://hot.cnbeta.com/articles/movie/1315753.htm) | Tue Sep 13 2022 4:22 PM 
+- 🎊 [法国大导演戈达尔选择安乐死离世](https://hot.cnbeta.com/articles/movie/1315753.htm) | Tue Sep 13 2022 4:22 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;法国媒体报道，著名导演让-吕克·戈达尔&lpar;Jean-Luc Godard&rpar;已经离世，享年91岁。&lt;strong&gt;戈达尔并非死于疾病，而是选择了安乐死，因为他觉得已经觉得精疲力尽，遂决定“求助于自杀”。&lt;/strong&gt;不知道是否天意，戈达尔执导个人第一部电影，名字就叫《精疲力尽》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [任天堂《塞尔达传说：旷野之息》续作：《王国之泪》官宣](https://hot.cnbeta.com/articles/game/1315751.htm) | Tue Sep 13 2022 4:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为任天堂第一方游戏大作，《塞尔达传说：旷野之息》可谓无人不知无人不晓，&lt;strong&gt;自从2017年随Switch发布后，这款游戏就被众多玩家评为新一代“神作”，&lt;/strong&gt;甚至不少消费者为了《塞尔达传说：旷野之息》才购买了Switch。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [研究发现全球生物多样性存在危机 食物网正在崩溃](https://www.cnbeta.com/articles/science/1315749.htm) | Tue Sep 13 2022 4:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;最近发表在《科学》杂志上的一项研究，提供了迄今为止最清晰的陆地哺乳动物减少对食物网的长期影响。&lt;/strong&gt;研究者表示，虽然大约6%的陆地哺乳动物在这段时间内灭绝了，但现在科学家估计超过50%的哺乳动物食物网已经消失了。而最有可能衰退的哺乳动物，无论是在过去还是现在，都是哺乳动物食物链复杂性的关键。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
