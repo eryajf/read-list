@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [canvas 花字编辑器](https://juejin.cn/post/7142723794019778568) | Tue Sep 13 2022 4:57 AM 
+- 🤗 [SpringBoot 开发实战 - 集成Graphql Query](https://juejin.cn/post/7142760722533974047) | Tue Sep 13 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
-    我们可以用 canvas 在图片上添加花字效果，可以用 node-canvas 导出有花字的图片。但这只适用于几个花字模版，也不适合后期修改。如果要批量化生成花字并且达到修改的效果和生产出花字的效果一 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第5篇文章，点击查看活动详情 概述 REST作为一种现代网络应用非常流行的软件架构风格受到广大WEB开发者的喜爱，在目前软件架构设计模式中随处可见 
     </details> 
 
-- 🎡 [【React Scheduler源码第五篇】Scheduler延迟任务原理及源码手写](https://juejin.cn/post/7142716871270203423) | Tue Sep 13 2022 4:32 AM 
+- 🎡 [如何优雅的实现分布式锁?](https://juejin.cn/post/7142760272804413477) | Tue Sep 13 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-    在 scheduler 中，延迟任务到期后会被添加到 taskQueue 中按过期时间重新排序处理。 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第4篇文章，点击查看活动详情 概述 提到分布式锁大家都会想到如下两种： 基于Redisson组件，使用redlock算法实现 基于Apache C 
     </details> 
 
-- 🕯 [Cube 渲染设计的前世今生 | Cube 技术解读](https://juejin.cn/post/7142708114599444488) | Tue Sep 13 2022 3:55 AM 
+- 🕯 [【微服务专题】深入理解与实践微服务架构&lpar;八&rpar;之整合Ribbon负载均衡器](https://juejin.cn/post/7142759305237217310) | Tue Sep 13 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-    本文为《Cube 技术解读》系列第四篇文章，作者是蚂蚁集团客户端工程师潇珺，主要讨论 Cube 的渲染设计，帮助大家了解 Cube 卡片渲染技术的前世今生，欢迎查阅～ 
+    Ribbon 是 Netflix 发布的开源项目，主要功能是提供客户端的复杂 `均衡算法` 和 `服务调用` 。Ribbon 客户端组件提供一系列完善的配置项如`超时`、`重试`等。 
     </details> 
 
-- 🚀 [【开发小记】vue项目优化](https://juejin.cn/post/7142706774427041805) | Tue Sep 13 2022 3:51 AM 
+- 🚀 [面试官：我们简单聊一下kafka的一些东西吧。](https://juejin.cn/post/7142685653174583332) | Tue Sep 13 2022 2:29 AM 
     <details><summary>展开描述 ...</summary> 
-    今天从多个方面来记录一下自己项目中考虑过的优化方案### 一、代码层面 首先从基本的代码层面来看，举个例子，比如我拿到了一个数组，需要对这个数组的内容做一些处理（比如需要对数组的内容遍历然后做一些处理 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1文章，点击查看活动详情 Kafka 前几天聊完绩效的时候问了下今年还有没有涨薪，组长的原话是&quot;很难。。。我尽量帮大家争取。。。&quot;，我刚听完脑海 
     </details> 
 
-- 💪 [TS 面向对象详解](https://juejin.cn/post/7142706603337187365) | Tue Sep 13 2022 3:50 AM 
+- 💪 [源码级别+操作系统级别解密RocketMQ 存储原理](https://juejin.cn/post/7142669810470486030) | Tue Sep 13 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-    此文章作为 TS 对 JS 知识点的补充，详细的可以参报考【js 面向对象详解】，以 abstract 开头的类就是抽象类。接口可以在定义类的时候去限制类的结构。在定义函数或是类时，如果遇到类型不明确 
+    RocketMq 是国内使用最广泛的MQ之一，但凡你要面试，就逃离不开RocketMq.本文将带你从源码+操作系统的角度去手撕RocketMq的存储原理 
     </details> 
 <!-- juejin:END -->
 ### 少数派
