@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [天文学家发现一颗可能能够支持生命的行星](https://www.cnbeta.com/articles/science/1315401.htm) | Tue Sep 13 2022 2:04 AM 
+- 🕯 [[下载]iPhone 14 Pro型号独占新壁纸](https://www.cnbeta.com/articles/tech/1315469.htm) | Tue Sep 13 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据BGR报道，&lt;strong&gt;天文学家已经发现了可能是一颗宜居的系外行星。这颗行星是今年早些时候发现的，距离地球大约100光年。&lt;/strong&gt;科学家认为这颗行星可能支持生命，它位于其起始的宜居区内。这个区域在每颗恒星周围都可以找到，它决定了液态水是否可以存在于这个星球上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iOS 16 于今天正式发布，引入了新的壁纸合集。不过苹果也推出了仅适用于 iPhone 14 Pro 和 iPhone 14 Pro Max 两款型号的壁纸。如果你不想要购买新设备就获得这些新壁纸，那么可以&lt;a href=&quot;https://9to5mac.com/2022/09/12/download-iphone-14-14-pro-wallpapers/&quot; target=&quot;_blank&quot;&gt;跳转该链接&lt;/a&gt;进行下载。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [爆料称英伟达将于未来两月陆续推出RTX 4090和RTX 4080](https://www.cnbeta.com/articles/tech/1315399.htm) | Tue Sep 13 2022 1:58 AM 
+- 💼 [苹果发布车祸检测功能介绍视频 官网支持页面有详解](https://www.cnbeta.com/articles/tech/1315467.htm) | Tue Sep 13 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;针对英伟达即将推出的 GeForce RTX 40 系列 Ada Lovelace 显卡，&lt;strong&gt;芯域（Chiphell）站长 nApoleon 在周末的时候放出了最新爆料，暗示绿厂会在未来俩月陆续推出 RTX 4090 和 RTX 4080 。&lt;/strong&gt;其中 RTX 4090 旗舰显卡会在 10 月份率先到来，而 RTX 4080 会在 11 月到来 —— 并且包含了 16GB / 12GB 两档显存版本（功耗分别为 340W / 285W）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在今日分享的一段视频中，Apple Support 解释了“车祸检测”功能是如何运作的。&lt;/strong&gt;在上周的秋季新品发布会上，这家库比蒂诺科技巨头隆重宣布了适用于 iPhone 14 系列智能机、Apple Watch Series 8 / Ultra / 第二代 SE 智能手表上默认启用的该功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [台风“梅花”或登陆浙江沿海 多地将现狂风暴雨](https://www.cnbeta.com/articles/tech/1315397.htm) | Tue Sep 13 2022 1:57 AM 
+- 💂 [新的DNA证据改写了早期美国的历史](https://www.cnbeta.com/articles/science/1315465.htm) | Tue Sep 13 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中央气象台消息，&lt;strong&gt;今晨5时，今年第12号台风“梅花”加强为强台风级，&lt;/strong&gt;其中心位于浙江省象山县南偏东方向大约490公里的海面上，中心附近最大风力有14级（42米/秒）。预计，“梅花”将以每小时10-15公里的速度向偏北转西北方向移动，强度还将有所加强，逐渐向浙江温岭到舟山一带沿海靠近，&lt;strong&gt;并将于14日下午至夜间在上述沿海地区登陆（台风级或强台风级，38-45米/秒，13-14级）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;几个世纪后发现的一个被遗弃的加勒比海殖民地和考古记录中的一个错误身份，共同改写了弗吉尼亚州和马里兰州海岸边的一个障壁岛的历史。&lt;/strong&gt;当佛罗里达州自然历史博物馆的博士后研究员Nicolas Delsol着手分析从考古遗址中发现的牛骨中提取的古代DNA时，这些看似不相关的线索被联系在一起。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉Model Y首次交付日本市场：产自上海、比中国便宜1万多](https://www.cnbeta.com/articles/tech/1315395.htm) | Tue Sep 13 2022 1:57 AM 
+- 🚀 [当我们的脸成为护照时会发生什么？](https://www.cnbeta.com/articles/tech/1315463.htm) | Tue Sep 13 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据日媒报道，&lt;strong&gt;特斯拉Model Y首次在日本进行了交付&lt;/strong&gt;。今年6月份，日本市场就已支持预订Model Y，目前在售的有两个版本，它们分别为后驱和性能，起售价分别为6190000日元（约30.08万元人民币）和8090000日元（约39.32万元人民币）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们是否在不知不觉中通过了一个隐私的里程碑？计算机科学教授Ken Perlin在他的博客上写道：“最近，我正在进行国际旅行。我有全球旅行者&lpar;Global Traveller&rpar;选择 ，所以我可以直接到一台机器前放入我的护照，将我的脸对准摄像头，然后拿到一张纸递给移民官员。但我在飞行中真的非常累。所以我忘了把我的护照放进槽里--只是对着相机摆了个姿势。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [iPhone 14系列官方维修价公布：玻璃背壳最贵的3998元](https://www.cnbeta.com/articles/tech/1315393.htm) | Tue Sep 13 2022 1:57 AM 
+- 🎊 [宇宙中“水世界”比以前想象的更普遍 而且不少可能“宜居”](https://www.cnbeta.com/articles/science/1315461.htm) | Tue Sep 13 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;相较于iPhone 13，iPhone 14此次全面涨价，不少网友嘴上喊着不再买iPhone手机，但身体却比谁都诚实，iPhone 14的官网，一度被抢购网友挤崩了。并且，作为高端机的代表品牌，iPhone 14不仅卖的贵，修起来价格也是不菲。目前在苹果官网上，&lt;strong&gt;iPhone 14的相关维修价格已出炉，具体价格如下：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;水是地球上所有生命都需要的物质，而美国芝加哥大学的科学家最新研究发现，围绕M 型矮星的行星比先前预计的要多，这些行星一半是水，一半是岩石，这一发现对寻找宜居行星有巨大影响。最新研究发现，围绕M 型矮星的行星比先前预计的要多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
