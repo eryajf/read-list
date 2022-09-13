@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [8月电动车销量榜：30万的特斯拉和3万块的五菱杀疯了](https://www.cnbeta.com/articles/tech/1315659.htm) | Tue Sep 13 2022 10:46 AM 
+- 🕯 [换用骁龙778G 华为P50 Pocket New售价4999元起](https://www.cnbeta.com/articles/tech/1315687.htm) | Tue Sep 13 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，乘联会公布数据显示，8月新能源乘用车零售销量达到52.9万辆，同比增长111.2%，环比增8.8%，国内的新能源汽车出现井喷式增长。而在纯电动阵营中，也出现了爆发式增长，除了30万的特斯拉Model Y和3万块的五菱宏光MINI EV持续爆单，大杀四方之外，其余国产自主品牌也在持续发力，单车月销量向万辆大关突进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;有消息称，华为翻盖折叠屏P50 Pocket将会推出新版本，确切地说是个减配的“青春版”，&lt;strong&gt;处理器由骁龙888换为骁龙778G，不支持5G。&lt;/strong&gt;现在，数码博主“旺仔百事通”放出了一张疑似华为P50 Pocket New的海报，给出了价格：&lt;strong&gt;256GB版本售价4999元，512GB版本售价6999元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《巴比伦陷落》陷落了：官方宣布明年2月28日终止运营](https://hot.cnbeta.com/articles/game/1315657.htm) | Tue Sep 13 2022 10:44 AM 
+- 💼 [Linux基金会宣布成立OpenWallet基金会 开发可互操作的数字钱包](https://www.cnbeta.com/articles/tech/1315685.htm) | Tue Sep 13 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《巴比伦陷落》官方于推特宣布，将于2023年2月28日正式终止游戏的运营。官方称将取消其计划的大规模更新，游戏的第二赛季将运行至2022年11月29日。另外，官方表示如果时间表计划有所更改，将不会再另行通知。服务终止后，游戏服务器上的所有数据都将删除。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Linux基金会已经宣布了一项新的合作计划，旨在支持建立在开源基础上的数字钱包的互操作性。&lt;/strong&gt;OpenWallet基金会（OWF），作为新的努力，是开放银行创业公司Yes.com的首席执行官Daniel Goldscheider的创意，今天的消息显示其接受了来自多个行业参与者的广泛支持，包括Okta、Ping Identity、Accenture、CVS Health、OpenID基金会以及其他一些公共和私人机构。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [月壤中的水和地球上的水有何不同？前者肉眼看不到](https://www.cnbeta.com/articles/science/1315655.htm) | Tue Sep 13 2022 10:43 AM 
+- 💂 [iOS 16中最近删除和隐藏的相册现在默认是锁定保护的](https://www.cnbeta.com/articles/tech/1315683.htm) | Tue Sep 13 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，据央视网报道，&lt;strong&gt;中国科学家对月壤的研究更进一步：月球上不仅有水，而且存在高含量水。&lt;/strong&gt;中国科学院地球化学研究所科研团队对嫦娥五号月壤样品开展研究，&lt;strong&gt;通过红外光谱和纳米离子探针分析，发现嫦娥五号矿物表层中存在大量的太阳风成因水。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果你已经安装了iOS 16，你会注意到你的最近删除和隐藏相册被锁定而保护起来，这一点你非常棒。这部分相册在默认情况下被锁定，但一旦你提供必要的Face ID、Touch ID或密码认证，就可以访问它们。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [日本东芝一芯片工厂突发停电 被迫停产5天](https://www.cnbeta.com/articles/tech/1315653.htm) | Tue Sep 13 2022 10:43 AM 
+- 🚀 [Apple Watch Ultra的电池容量比Series 8大76%](https://www.cnbeta.com/articles/tech/1315681.htm) | Tue Sep 13 2022 12:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本半导体工厂又遭遇停电导致停产的意外了，这次中招的是东芝旗下的芯片工厂，公司表示事故是在设备检修时发生的，停电导致部分正在生产的芯片受影响，预计9月17日恢复生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;根据中国认证数据库中新发现的规格，Apple Watch Ultra的电池容量比45毫米的Series 8大76%。由MySmartPrice发现的该认证显示，Apple Watch Ultra的电池容量为542mAh。&lt;/strong&gt;45毫米的Apple Watch Series 8的电池容量为308mAh，与之前最大的Apple Watch相比，Apple Watch Ultra的电池容量增加了76%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果历代所有iPhone重量变化介绍](https://www.cnbeta.com/articles/tech/1315651.htm) | Tue Sep 13 2022 10:40 AM 
+- 🎊 [NASA为阿特米斯一号低温示范测试和发射工作设定了新的日期](https://www.cnbeta.com/articles/science/1315679.htm) | Tue Sep 13 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自2007 年，第一代iPhone 发布至今的15年多时间里，苹果一共发布了34款iPhone；上期，充电头网介绍到，从2009年6月发布的 iPhone 3GS 伊始，至iPhone 11型号（除Pro、Pro Max款）全部附赠经典款 5W充电器，感兴趣的小伙伴可以去查阅一下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国宇航局已经调整了阿特米斯一号低温演示测试的目标日期和下一次发射机会。这次任务是太空发射系统火箭和猎户座飞船在月球以外的首次综合飞行测试。NASA将不早于9月21日星期三进行示范测试，并更新了9月27日的发射申请，此外，还有一个潜在的10月2日的备份发射时间窗口正在审查中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
