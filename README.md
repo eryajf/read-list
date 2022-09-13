@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iOS 16锁屏小组件迎来8个效率应用：倒数日、艺术日历、背单词、养成好习惯……](https://www.cnbeta.com/articles/tech/1315587.htm) | Tue Sep 13 2022 8:20 AM 
+- 🕯 [每日优鲜App清空所有商品信息，用户余额显示为0](https://www.cnbeta.com/articles/tech/1315615.htm) | Tue Sep 13 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果 iOS 16 系统从9月13日开始正式推送升级，大家都开始跃跃欲试，这次升级最大的新亮点莫过于“锁屏小组件”功能，&lt;strong&gt;下面就为你带来8个来自iDaily效率应用系列为你带来的一系列锁屏小组件功能，它们可以在弹指之间将你的生活学习管理得井井有条，一起试试吧：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;新浪科技发现每日优鲜App已清空所有商品信息，且用户余额也显示为0。&lt;/strong&gt;此前，7月28日晚，每日优鲜暴雷后App已无法下单，用户储值无法退款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google日本举办抽奖活动：2000名幸运儿可获Pixel 7主题薯片](https://www.cnbeta.com/articles/tech/1315585.htm) | Tue Sep 13 2022 8:14 AM 
+- 💼 [谷歌广告业务遭出版商起诉，索赔254亿美元](https://www.cnbeta.com/articles/tech/1315613.htm) | Tue Sep 13 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 10 月 6 日硬件发布会召开之前，Google 决定分享更多关于 Pixel 7 和 Pixel 7 Pro 的细节。目前已经确认的细节包括第二代 Tensor 芯片以及多种配色。&lt;strong&gt;现在，&lt;a href=&quot;https://store.google.com/intl/ja/chips/&quot; target=&quot;_blank&quot;&gt;Google 还宣布为日本地区的 Pixel 粉丝提供了一项专属福利，&lt;/a&gt;为 2000 名幸运用户提供 Pixel 7 主题的薯片。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，Google今日遭遇两起诉讼，被指其数字广告业务损害了出版商的利益，索赔高达250亿欧元（约合254亿美元）。当地时间周二，代表出版商利益的Geradin Partners律师事务所，在英国和荷兰法院对Google提起了这两起诉讼诉讼，称其数字广告业务行为损害了出版商利益。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果官网大乌龙：所有iPhone 777777美元/月](https://www.cnbeta.com/articles/tech/1315583.htm) | Tue Sep 13 2022 8:00 AM 
+- 💂 [中国网络文学作品首次入藏大英图书馆 包括《赘婿》等16部](https://www.cnbeta.com/articles/tech/1315611.htm) | Tue Sep 13 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果官方网站今天闹了一次尴尬的乌龙事件，包括所有iPhone在内的大量产品，被错误地标价为77777美元/月。&lt;strong&gt;受影响的产品包括全部在售iPhone手机，以及新发布的Apple Watch Series 8、Apple Watch Ultra、AirPods Pro 2，商品介绍页面全部显示77777美元/月，约合人民币53.9万元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;中国网络文学作品首次被收录至大英图书馆的中文馆藏书目中。&lt;/strong&gt;被收录的网络文学共计16部，分别是《赘婿》《赤心巡天》《地球纪元》《第一序列》《大国重工》《大医凌然》《画春光》《大宋的智慧》《贞观大闲人》《神藏》《复兴之路》《纣临》《魔术江湖》《穹顶之上》《大讼师》《掌欢》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14 Pro零售版到货 提前激活罚款20万/台](https://www.cnbeta.com/articles/tech/1315581.htm) | Tue Sep 13 2022 7:59 AM 
+- 🚀 [​Instagram正在内部测试“礼物” 为创作者提供新的货币化功能](https://www.cnbeta.com/articles/tech/1315609.htm) | Tue Sep 13 2022 8:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;赶在16号的iPhone 14系列正式发售和首批发货前，一些线下经销商已经晒出了iPhone 14 Pro/Pro Max的零售版。可以看到，盒子采用白色的简版包装。因为相关规定，醒目位置有告示“&lt;strong&gt;严禁在16日上午8点前开机激活，提前激活罚款20万/台”&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Wccftech报道，我们都经历过这样的情况：我们想给我们喜欢的创作者一些比浏览或点赞更多的东西，一些平台实际上已经为你创造了一种方式，通过小费或捐赠系统来实现。虽然早期有一些传言说Instagram也在开发类似的功能，&lt;strong&gt;但Meta现在已经正式确认，他们确实在开发这样的功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《刺客信条：起源》出现贴图Bug：育碧与NVIDIA互相甩锅](https://hot.cnbeta.com/articles/game/1315579.htm) | Tue Sep 13 2022 7:53 AM 
+- 🎊 [IOActive警告：中继攻击手段可在数秒内解锁并开走特斯拉电动汽车](https://www.cnbeta.com/articles/tech/1315607.htm) | Tue Sep 13 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为一家以旗下游戏Bug众多而闻名的开发商，育碧游戏出现各种各样的Bug已经是一件司空见惯的事情，但近日，《刺客信条：起源》的一个贴图Bug却引起了不少“吃瓜群众”的关注。&lt;strong&gt;具体来说，近日一些使用NVIDIA显卡的玩家，在游玩《刺客信条：起源》的时候，遇到了明显的贴图错误、纹理闪烁、伪影等问题。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管特斯拉已经在网络安全保障上付出了相当大的心力，但其精心设计的系统，还是难以应付层出不穷的攻击类型。&lt;strong&gt;比如近日，IOActive 首席安全顾问 Josep Pi Rodriguez 就发现了所谓的“NFC 中继攻击”。&lt;/strong&gt;尽管需要团伙中的两个人协作，但只需几秒钟就能窃取权限的这一手段，还是给特斯拉和 Model Y 的车主们敲响了警钟。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
