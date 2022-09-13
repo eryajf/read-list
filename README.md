@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 三星因数据泄露面临集体诉讼；中科大超3000名师生中招钓鱼邮件](https://www.freebuf.com/news/344330.html) | Mon Sep 12 2022 1:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    三星允许未经授权的第三方设法从该公司的美国系统访问和窃取了客户信息，包括姓名、生日、联系信息和产品注册信息等。 
+    </details> 
+
 - 🦄 [WordPress插件曝出零日漏洞，已被积极在野利用](https://www.freebuf.com/news/344225.html) | Fri Sep 09 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
     一个名为BackupBuddy的WordPress插件存在一个零日漏洞，正被积极利用。 
     </details> 
 
-- 🦄 [《互联网弹窗信息推送服务管理规定》发布，弹窗一键搞定](https://www.freebuf.com/news/344218.html) | Fri Sep 09 2022 8:04 AM 
+- 🦅 [《互联网弹窗信息推送服务管理规定》发布，弹窗一键搞定](https://www.freebuf.com/news/344218.html) | Fri Sep 09 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
     随着互联网的飞速发展和移动应用程序的广泛应用，弹窗信息推送服务不断出现新情况新问题，需适应形势予以规范。 
     </details> 
 
-- 🦅 [原来用户隐私是这样被泄露：超八成搜索网站将信息出售](https://www.freebuf.com/news/344198.html) | Fri Sep 09 2022 7:09 AM 
+- 🪄 [原来用户隐私是这样被泄露：超八成搜索网站将信息出售](https://www.freebuf.com/news/344198.html) | Fri Sep 09 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
     虽然“隐私”在数字化的世界已经无处安放，但我们却很少去认真思考，隐私究竟是怎样被泄露的？ 
     </details> 
 
-- 🪄 [葡萄牙武装总参谋部遭网络攻击，数百份北约机密文件泄露](https://www.freebuf.com/news/344183.html) | Fri Sep 09 2022 5:40 AM 
+- 💻 [葡萄牙武装总参谋部遭网络攻击，数百份北约机密文件泄露](https://www.freebuf.com/news/344183.html) | Fri Sep 09 2022 5:40 AM 
     <details><summary>展开描述 ...</summary> 
     葡萄牙武装部队总参谋部（EMGFA）遭到网络攻击，黑客窃取了大量北约机密文件。 
-    </details> 
-
-- 💻 [如何应对堡垒机安全风险？| FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/344172.html) | Fri Sep 09 2022 3:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    堡垒机作为服务器和网络安全控制的系统，当其遇到安全风险，大家该如何”排忧解难“？ 
     </details> 
 <!-- freebuf:END -->
 
