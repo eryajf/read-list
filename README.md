@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《利刃出鞘2》先期口碑大爆 获IGN 9分好评](https://hot.cnbeta.com/articles/movie/1315565.htm) | Tue Sep 13 2022 7:36 AM 
+- 🕯 [iOS 16锁屏小组件迎来8个效率应用：倒数日、艺术日历、背单词、养成好习惯……](https://www.cnbeta.com/articles/tech/1315587.htm) | Tue Sep 13 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;《利刃出鞘2》媒体口碑解禁，该作获得IGN 9分超高评价。&lt;/strong&gt;IGN表示《利刃出鞘2》是一个更宏大、更大胆、更有意思和更愤怒的续集，几乎在前作的每一个层面都有提高。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果 iOS 16 系统从9月13日开始正式推送升级，大家都开始跃跃欲试，这次升级最大的新亮点莫过于“锁屏小组件”功能，&lt;strong&gt;下面就为你带来8个来自iDaily效率应用系列为你带来的一系列锁屏小组件功能，它们可以在弹指之间将你的生活学习管理得井井有条，一起试试吧：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [加速项目发展：Meta宣布将PyTorch框架移交给基金会去管理](https://www.cnbeta.com/articles/tech/1315563.htm) | Tue Sep 13 2022 7:34 AM 
+- 💼 [Google日本举办抽奖活动：2000名幸运儿可获Pixel 7主题薯片](https://www.cnbeta.com/articles/tech/1315585.htm) | Tue Sep 13 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;经过六年的持续开发，Meta 刚刚宣布，该公司将把 PyTorch 框架交给基金会去管理，且后者也将成为 Linux 基金会的一部分。&lt;/strong&gt;据悉，PyTorch 基金会将由一个管理机构领导 —— 可知其中汇集了来自 AMD、亚马逊 AWS、Google Cloud、Meta、微软 Azure、以及英伟达的代表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在 10 月 6 日硬件发布会召开之前，Google 决定分享更多关于 Pixel 7 和 Pixel 7 Pro 的细节。目前已经确认的细节包括第二代 Tensor 芯片以及多种配色。&lt;strong&gt;现在，&lt;a href=&quot;https://store.google.com/intl/ja/chips/&quot; target=&quot;_blank&quot;&gt;Google 还宣布为日本地区的 Pixel 粉丝提供了一项专属福利，&lt;/a&gt;为 2000 名幸运用户提供 Pixel 7 主题的薯片。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [网飞《猎魔人》第三季现已杀青 播出时间尚未确定](https://hot.cnbeta.com/articles/movie/1315559.htm) | Tue Sep 13 2022 7:31 AM 
+- 💂 [苹果官网大乌龙：所有iPhone 777777美元/月](https://www.cnbeta.com/articles/tech/1315583.htm) | Tue Sep 13 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;网飞《猎魔人》真人剧集第三季现已杀青，具体上线时间尚未确定。主演亨利·卡维尔在拍摄最后一天和演员、剧组分享了这一特别消息。他说：“这真是一个惊人的第三季。我只是想感谢你们所有人在艰难的拍摄过程中表现出的决心和献身，希望你们都能好好休息一下。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1315559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果官方网站今天闹了一次尴尬的乌龙事件，包括所有iPhone在内的大量产品，被错误地标价为77777美元/月。&lt;strong&gt;受影响的产品包括全部在售iPhone手机，以及新发布的Apple Watch Series 8、Apple Watch Ultra、AirPods Pro 2，商品介绍页面全部显示77777美元/月，约合人民币53.9万元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [1兆瓦浮动垂直轴风力涡轮机将在挪威沿海部署](https://www.cnbeta.com/articles/tech/1315557.htm) | Tue Sep 13 2022 7:28 AM 
+- 🚀 [iPhone 14 Pro零售版到货 提前激活罚款20万/台](https://www.cnbeta.com/articles/tech/1315581.htm) | Tue Sep 13 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期，瑞典公司SeaTwirl称它的浮动垂直轴风力涡轮机可以大大降低深海风能的成本，它已经跟Westcon签署了一项协议以在挪威建造和部署一个商业规模的1兆瓦涡轮机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;赶在16号的iPhone 14系列正式发售和首批发货前，一些线下经销商已经晒出了iPhone 14 Pro/Pro Max的零售版。可以看到，盒子采用白色的简版包装。因为相关规定，醒目位置有告示“&lt;strong&gt;严禁在16日上午8点前开机激活，提前激活罚款20万/台”&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [真·女舞神：女主播用跳舞毯击败《艾尔登法环》女武神](https://hot.cnbeta.com/articles/game/1315555.htm) | Tue Sep 13 2022 7:22 AM 
+- 🎊 [《刺客信条：起源》出现贴图Bug：育碧与NVIDIA互相甩锅](https://hot.cnbeta.com/articles/game/1315579.htm) | Tue Sep 13 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《艾尔登法环》女武神玛莲妮亚是最令玩家头疼的Boss之一。其动作快、攻击范围大，攻击还会吸血回血，导致许多人受苦。近日女主播MissMikkaa在推特上分享视频，展示了她使用跳舞毯击败女武神的画面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为一家以旗下游戏Bug众多而闻名的开发商，育碧游戏出现各种各样的Bug已经是一件司空见惯的事情，但近日，《刺客信条：起源》的一个贴图Bug却引起了不少“吃瓜群众”的关注。&lt;strong&gt;具体来说，近日一些使用NVIDIA显卡的玩家，在游玩《刺客信条：起源》的时候，遇到了明显的贴图错误、纹理闪烁、伪影等问题。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
