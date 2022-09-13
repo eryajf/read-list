@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [日照量的变化与精神健康 我们第一次从细胞水平为两者建立了联系](http://jandan.net/p/111335) | Tue Sep 13 2022 4:57 AM 
+- 🚀 [一万年前，智人祖先的皮肤还不怕阳光晒伤](http://jandan.net/p/111314) | Tue Sep 13 2022 8:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    没有健康的晒黑——晒黑并不能保护您免受进一步的晒伤，它本身就是损伤的标志。 
+    </details> 
+
+- 🙉 [日照量的变化与精神健康 我们第一次从细胞水平为两者建立了联系](http://jandan.net/p/111335) | Tue Sep 13 2022 4:57 AM 
     <details><summary>展开描述 ...</summary> 
     中午出去晒晒太阳？ 
     </details> 
 
-- 🙉 [今日好价 0913](http://jandan.net/p/111334) | Tue Sep 13 2022 2:23 AM 
+- 🎉 [今日好价 0913](http://jandan.net/p/111334) | Tue Sep 13 2022 2:23 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [全赖木星 如果木星轨道更扁点 地球就会更加宜居](http://jandan.net/p/111330) | Mon Sep 12 2022 1:14 PM 
+- 🐲 [全赖木星 如果木星轨道更扁点 地球就会更加宜居](http://jandan.net/p/111330) | Mon Sep 12 2022 1:14 PM 
     <details><summary>展开描述 ...</summary> 
     新模型有助于我们筛选出人类能够居住的系外行星 
     </details> 
 
-- 🐲 [在你行走时，用红外激光为你的手机充电](http://jandan.net/p/111272) | Mon Sep 12 2022 11:46 AM 
+-  [在你行走时，用红外激光为你的手机充电](http://jandan.net/p/111272) | Mon Sep 12 2022 11:46 AM 
     <details><summary>展开描述 ...</summary> 
     真无线无接触充电 
-    </details> 
-
--  [早吃好晚吃少  有助于减肥吗](http://jandan.net/p/111332) | Mon Sep 12 2022 6:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家中午吃了没有 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
