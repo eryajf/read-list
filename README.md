@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [加州极端高温使Twitter失去了一个关键数据中心](https://www.cnbeta.com/articles/tech/1315719.htm) | Tue Sep 13 2022 2:14 PM 
+- 🕯 [台积电称2纳米生产将在2025年开始 先进高NA光刻机将于2024年到货](https://www.cnbeta.com/articles/tech/1315735.htm) | Tue Sep 13 2022 3:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一位公司高管在CNN获得的一份内部备忘录中警告说，&lt;strong&gt;加州极端高温使Twitter失去了一个关键数据中心&lt;/strong&gt;，，其他地方的另一次故障可能导致部分用户服务进入黑暗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据台湾媒体的报道，台湾半导体制造公司（TSMC）的目标是在2025年量产其2纳米（nm）半导体制造工艺。台积电目前正准备加大其3纳米节点的生产，这被认为是世界上最先进的芯片制造技术之一，公司代表向台湾媒体表示，它将继续通过下一代技术引领全球半导体行业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果智能手套让用户在iPad屏幕上打字变得更容易更舒适](https://www.cnbeta.com/articles/tech/1315717.htm) | Tue Sep 13 2022 1:54 PM 
+- 💼 [苹果退出小屏旗舰市场后谷歌完成候补 新品代号neila](https://www.cnbeta.com/articles/tech/1315733.htm) | Tue Sep 13 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在触摸屏上打字已经成为现代计算的一种常见固定方式。虽然每个人都习惯于在一个坚实的平面上敲打，&lt;strong&gt;但使用带有机械键普通键盘的触觉优势显然在基于软件的键盘上缺失。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着iPhone 14系列的发布，mini机型正式推出历史舞台，&lt;strong&gt;这意味着苹果正式放弃了小屏旗舰市场。&lt;/strong&gt;苹果的退出源于销量没有达到预期，以iPhone 12 mini为例，&lt;strong&gt;在2020年10月和2020年11月，iPhone 12 mini在美国的销量仅占iPhone 12销量的6%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [亚马逊的基本款Kindle迎来USB-C接口 改进的显示屏和蓝色机身](https://www.cnbeta.com/articles/tech/1315715.htm) | Tue Sep 13 2022 1:42 PM 
+- 💂 [LG 65英寸可卷曲OLED电视限量开售 售价777777元](https://www.cnbeta.com/articles/tech/1315731.htm) | Tue Sep 13 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;亚马逊刚刚对其基本版Kindle进行了更新，使这一流行的电子阅读器的部分产品特征与其他产品同步。&lt;/strong&gt;该产品的新版本起价为100美元，将167 ppi的显示屏提升到300，存储空间翻倍到16GB，并将用户诟病已久的microUSB改为USB-C。最后一项肯定会让用户和监管机构满意，因为最近Paperwhite也有类似的更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月13日消息，今晚20:00，全球首款可卷曲OLED电视——&lt;strong&gt;LG 65英寸OLED R正式限量开售，售价高达777777元。LG 65英寸OLED R拥有3840*2160分辨率与16:9屏幕比例&lt;/strong&gt;，支持120Hz刷屏率、1ms响应时间与300-500尼特亮度，拥有98.5%&amp;nbsp;DCI-P3色域覆盖，支持HDR，适合日常观影或游戏需求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Fedora 37 Beta测试版现在可供下载](https://www.cnbeta.com/articles/tech/1315713.htm) | Tue Sep 13 2022 1:35 PM 
+- 🚀 [我国成功发射“中星1E”卫星](https://www.cnbeta.com/articles/tech/1315729.htm) | Tue Sep 13 2022 3:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在下个月计划的稳定版发布之前，Fedora 37 Beta测试版已经成功地按时发布，作为开发者和有兴趣评估新版系统的测试版。&lt;/strong&gt;Fedora 37 带来了许多变化，包括最新的 GNOME 43 桌面，更新的编译器工具链组件，ARMv7结束支持，新的 Anaconda - 基于网络的安装程序预览，对 Raspberry Pi 4 的官方支持，以及更多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月13日21时18分，我国在文昌航天发射场使用长征七号改运载火箭，成功将“中星1E”卫星发射升空。卫星顺利进入预定轨道，发射任务获得圆满成功。该卫星主要用于为用户提供高质量的话音、数据、广播电视传输服务。此次任务是长征系列运载火箭第437次飞行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Apple Watch Ultra体验如何？资深潜水员称“愿意托付生命”](https://www.cnbeta.com/articles/tech/1315711.htm) | Tue Sep 13 2022 1:23 PM 
+- 🎊 [Bose QuietComfort SE降噪耳机悄然上市 规格与QC 45相似](https://www.cnbeta.com/articles/tech/1315727.htm) | Tue Sep 13 2022 2:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在上周，苹果的新品发布会上重磅发布了一款主打专业运动和极限户外场景的超大号手表 Apple Watch Ultra。这款手表也是苹果首次推出智能手表的 Ultra 版本，不同于旗舰系列，为了满足专业运动人士的需求，Apple Watch Ultra 的极限模式续航最长能够达到 60 小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当Bose QuietComfort 35 II去年被QuietComfort 45取代时，人们发现这已经是一款岁数非常大的产品，而现在它似乎又有续命的迹象：又一个SE型号发布，这似乎是45的一次重塑，有趣的是，对于官方而言这是一次无声的发布，产品本身已经在几个美国商店上市了（而且应该很快就会进入欧洲）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
