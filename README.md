@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Softorino YouTube Converter 5.0.88 又一款 Youtube 视频下载工具](https://xclient.info/s/softorino-youtube-converter.html) | Fri Sep 09 2022 12:43 AM 
+- 🦏 [即刻转换 — 格式转换软件](https://xclient.info/s/6fe40750-ce6f-4090-2cfa-6595c0b89ff8.html) | Tue Sep 13 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    一款好用的 Youtube 视频一键下载工具 
+    即刻转换是一款功能全面的格式转换软件，支持转换几乎所有主流的多媒体文件格式 
     </details> 
 
--  [SiteSucker Pro 5.0.4 扒站神器](https://xclient.info/s/sitesucker.html) | Fri Sep 09 2022 12:42 AM 
+-  [System Toolkit 5.8.1 系统工具包](https://xclient.info/s/system-toolkit.html) | Tue Sep 13 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-    SiteSucker是一款Mac OS X上的整站下载的利器，可以将整个网站所有资源下载到本地硬盘。 
+    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
     </details> 
 
-- ⚗️ [SyncTime 4.1.1 文件同步工具](https://xclient.info/s/synctime.html) | Fri Sep 09 2022 12:42 AM 
+- ⚗️ [Squeezer 2.5.1 图片压缩工具](https://xclient.info/s/squeezer.html) | Tue Sep 13 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-    SyncTime是一款Mac上的文件同步软件，SyncTime是同步文件的最简单的解决方案，您可以通过SyncTime轻松地保持最新的所有备份副本，分布在许多设备上。 
+    Squeezer是Mac平台上的一款多功能压缩工具。 
     </details> 
 
-- 🔥 [SimpleMind 1.32.0 小巧的思维导图工具](https://xclient.info/s/simplemind.html) | Fri Sep 09 2022 12:40 AM 
+- 🔥 [SpeakMe 2.0 文字转音频](https://xclient.info/s/speakme.html) | Tue Sep 13 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-    SimpleMind是Mac OS X上一款思维导图工具，这款工具非常小巧，完全可以取代笨重的MindManager，对Mac开发者来说称得上是一大福音了。 
+    SpeakMe 是一款一键文字转音频工具，可以将任何语言的文本转换成音频。它还可以调节语速导出音频，一键操作非常方便。 
     </details> 
 
-- 🌋 [Script Debugger 8.0.5 优秀的AppleScript调试工具](https://xclient.info/s/script-debugger.html) | Fri Sep 09 2022 12:38 AM 
+- 🌋 [Rectangle Pro 2.5.2 窗口管理](https://xclient.info/s/rectangle-pro.html) | Tue Sep 13 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
-    Script Debugger 是能够帮助开发者快速的调试AppleScript。 
+    Rectangle是Mac平台上的一款窗口管理应用，可以使用键盘快捷键移动和调整macOS中的窗口大小。 
     </details> 
 <!-- xclient:END -->
 
