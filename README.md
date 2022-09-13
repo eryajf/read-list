@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [CompaniesLogo - 数据库包含超过 7,000 个公司徽标和 API](https://xinquji.com/posts/179470?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:27 AM 
+- 👀 [exping v1.2.3 - 全新Emoji，更多Emoji - 标记你的品味地‪图‬](https://xinquji.com/posts/179424?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-     数据库包含超过 7,000 个公司徽标和 API  
+     全新Emoji，更多Emoji - 标记你的品味地‪图‬  
     </details> 
 
-- 🥷 [Correlated&amp;#039;s PQL Scoring - 通过一个平台加速您的产品主导战略](https://xinquji.com/posts/179469?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:27 AM 
+- 🥷 [Lunchbox Open - 开放式集成网络以扩展餐厅运营](https://xinquji.com/posts/179481?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     通过一个平台加速您的产品主导战略  
+     开放式集成网络以扩展餐厅运营  
     </details> 
 
-- 💼 [Indicator Dash - 排名和比较以减轻加密市场的不确定性](https://xinquji.com/posts/179468?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:25 AM 
+- 💼 [Edge Flags by DevCycle - 边缘驱动的功能标志在全球范围内即时交付](https://xinquji.com/posts/179480?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     排名和比较以减轻加密市场的不确定性  
+     边缘驱动的功能标志在全球范围内即时交付  
     </details> 
 
-- 🦅 [Kinopio 3.0 - 新思想和难题的空间思维](https://xinquji.com/posts/179467?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:25 AM 
+- 🦅 [HeyDays - 一次播放 1-5 分钟的直播](https://xinquji.com/posts/179479?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     新思想和难题的空间思维  
+     一次播放 1-5 分钟的直播  
     </details> 
 
-- 😺 [The Money Quiz - 你需要多少钱才能...](https://xinquji.com/posts/179466?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:23 AM 
+- 😺 [Maya AI - 从非结构化数据中创造机会](https://xinquji.com/posts/179478?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     你需要多少钱才能...  
+     从非结构化数据中创造机会  
     </details> 
 <!-- xinquji:END -->
