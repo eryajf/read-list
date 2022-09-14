@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Astrobotic通过收购Masten实现了空间技术与相关业务的拓展](https://www.cnbeta.com/articles/science/1316007.htm) | Wed Sep 14 2022 6:05 AM 
+- 🕯 [LPC 2022：MGLRU页面回收改进有望并入Linux 6.1内核主线](https://www.cnbeta.com/articles/tech/1316063.htm) | Wed Sep 14 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;总部位于匹兹堡的 Astrobotic，刚刚宣布接手在 7 月底申请破产保护的 Masten Space Systems 。&lt;strong&gt;本月早些时候，Astrobotic 在特拉华州破产法庭以 450 万美元成功收购了其资产&lt;/strong&gt; —— 涵盖了 Masten 的大量空间技术组合，比如垂直起降火箭和推进测试中心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在爱尔兰都柏林举办的 LPC 2022 活动期间，我们看到了有望在 Linux 6.1 中并入主流的 Multi-Gen LRU 项目的最新进展。&lt;/strong&gt;作为当前 Linux 内核页面回收代码的一个更好替代方案，如果 MGLRU 能够在 2022 的最后一个完整内核周期内登陆 Linux 6.1，那它也将成为年内最激动人心的创新之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Meta日本办公室内部公开 最新媒体探馆多图来袭](https://www.cnbeta.com/articles/tech/1316005.htm) | Wed Sep 14 2022 6:02 AM 
+- 💼 [法国创企Yubo使用面部年龄估计技术验证其所有用户的年龄](https://www.cnbeta.com/articles/tech/1316061.htm) | Wed Sep 14 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;原脸书的Meta公司近期刚刚开放其新的日本办公室内部，有外媒记者火速探馆，一起来开开眼吧。Meta公司日本分部刚刚于2021年秋天搬进了新区，员工陆续进驻，如今刚刚一年时间官方宣布对外开放内部情景，一起跟随外媒记者的镜头感受下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据TechCrunch报道，法国创业公司Yubo推出的社交应用在25岁以下的年轻人中特别受欢迎，这些人希望认识新朋友，一起玩游戏，一起在视频聊天室里玩耍。该公司已经成功吸引了6000万用户，这意味着在安全方面的风险相当高。&lt;strong&gt;而该公司几乎已经完成了使用年龄估计技术对其100%的用户群的年龄进行验证。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316061.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [一个非正常的大西洋飓风季节](https://www.cnbeta.com/articles/science/1316003.htm) | Wed Sep 14 2022 5:54 AM 
+- 💂 [超级终端技术加持 新款华为MateStation S开卖](https://www.cnbeta.com/articles/tech/1316057.htm) | Wed Sep 14 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;从专门研究天气、海洋和大气的美国机构--国家海洋和大气管理局&lpar;NOAA&rpar;到最受推崇的飓风专业人士都预测这个季节的活动会高于正常或远高于正常。&lt;/strong&gt;像NOAA对2022年大西洋飓风季节（从6月1日到11月30日）的展望，预测有65%的机会会高于正常的季节，25%的机会是接近正常的季节，10%的机会是低于正常的季节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;华为新款台式机——华为MateStation S 12代酷睿版，今日正式开卖，售价4399元起。这款台式机最大的亮点就是&lt;strong&gt;支持华为超级终端功能，可实现手机、平板、显示器及智慧屏与台式机互联互通。&lt;/strong&gt;数据、文档及图像、视频资料无缝共享，还可以多屏显示输出，视频会议也可以无缝流转。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14/14 Plus过时？苹果代码承认是上一代产品](https://www.cnbeta.com/articles/tech/1316001.htm) | Wed Sep 14 2022 5:54 AM 
+- 🚀 [在Intel最先进的芯片工厂当打工人需要什么？副学士水平就行](https://www.cnbeta.com/articles/tech/1316055.htm) | Wed Sep 14 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;和以往不同，今年iPhone 14系列迎来了巨大的改变。Pro系列万年不变的刘海屏变为了挖孔屏设计，并玩出了“灵动岛”花样，祖传的1200万像素也升级为了4800万。新机变革可谓是“史诗级”的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周Intel宣布在美国俄亥俄州投资200亿美元建2座大型晶圆厂，这是一年来Intel在美国投资的第二个晶圆制造基地了，2025年投产时会量产2nm、1.8nm级别的工艺，可以说是全球最先进的芯片厂了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [加密货币寒冬里，多家金融巨头成立交易所EDX Markets](https://www.cnbeta.com/articles/tech/1315999.htm) | Wed Sep 14 2022 5:49 AM 
+- 🎊 [博主直播激活苹果iPhone 14被封禁后：最新视频暗示今晚还拆新机](https://www.cnbeta.com/articles/tech/1316053.htm) | Wed Sep 14 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;包括 Charles Schwab &lpar;SCHW&rpar;、Citadel Securities 和 Fidelity Digital Assets 在内的金融巨头宣布启动加密货币交易所 EDX Markets&lt;/strong&gt;，这是华尔街在加密货币寒冬仍在推进数字资产的最新证据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大家都知道，苹果每年在iPhone正式发售之前，对新机的保密措施非常严格。日前大批iPhone 14系列一偶偶经送到了经销商处，&lt;strong&gt;并标注禁止在9月16日早上8点前激活，否则每台罚款20万。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
