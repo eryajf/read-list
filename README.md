@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《索尼克：未知边境》全新预告 11月8日登陆全平台](https://hot.cnbeta.com/articles/game/1316237.htm) | Wed Sep 14 2022 3:02 PM 
+- 🕯 [两个核电项目正式获核准：总投资或达800亿元](https://www.cnbeta.com/articles/tech/1316239.htm) | Wed Sep 14 2022 3:34 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月13日，&lt;strong&gt;已经列入规划、条件成熟的福建漳州二期、广东廉江一期两个核电项目，正式获得国家核准。&lt;/strong&gt;据悉，福建漳州二期属于中核集团，两台机组，采用“华龙一号”三代核电技术。广东廉江一期属于国家电投集团，也是两台机组，采用CAP1000三代核电技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《索尼克：未知边境》全新预告 11月8日登陆全平台](https://hot.cnbeta.com/articles/game/1316237.htm) | Wed Sep 14 2022 3:02 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;世嘉《索尼克：未知边境》公布了全新的预告，该作预计在11月8日正式发售，登陆Xbox Series X|S、Xbox One、PS5、PS4、Switch和PC。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《索尼克：未知边境》全新预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [多家对冲基金预测马斯克将输掉官司 将以略低的价格收购推特](https://www.cnbeta.com/articles/tech/1316235.htm) | Wed Sep 14 2022 2:59 PM 
+- 💂 [多家对冲基金预测马斯克将输掉官司 将以略低的价格收购推特](https://www.cnbeta.com/articles/tech/1316235.htm) | Wed Sep 14 2022 2:59 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;虽然Twitter“吹哨人”的爆料为特斯拉CEO埃隆·马斯克（Elon Musk）放弃收购Twitter增加了筹码，但包括Greenlight Capita和Pentwater Capital Management在内的多家对冲基金都认为，马斯克最终不会如愿以偿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉柏林超级工厂扩建计划的投票被无限期推迟](https://www.cnbeta.com/articles/tech/1316233.htm) | Wed Sep 14 2022 2:58 PM 
+- 🚀 [特斯拉柏林超级工厂扩建计划的投票被无限期推迟](https://www.cnbeta.com/articles/tech/1316233.htm) | Wed Sep 14 2022 2:58 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，针对特斯拉在柏林附近扩建工厂的计划，德国地方当局已无限期推迟了投票。德国格林海德市（Gruenheide）市长阿恩·克里斯蒂安尼（Arne Christiani）向媒体表示，格伦海德市议会在本月的会议上将不会讨论该计划。特斯拉德国工厂位于格伦海德市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [EA确认《模拟人生4》10月18日起变免费游戏](https://hot.cnbeta.com/articles/game/1316231.htm) | Wed Sep 14 2022 2:58 PM 
+- 🎊 [EA确认《模拟人生4》10月18日起变免费游戏](https://hot.cnbeta.com/articles/game/1316231.htm) | Wed Sep 14 2022 2:58 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;游戏零售网站Instant Gaming爆料，据EA内部人士透露，&lt;strong&gt;《模拟人生4》将于10月8日起成为免费游戏，官方将于明日5点宣布这一消息。&lt;strong&gt;EA Origin商店现已确认该作将于10月18日免费提供！&lt;/strong&gt;感兴趣的玩家届时可以前往领取。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [真机实测：A16 GPU性能提升很小 iPhone 13 Pro还能再战](https://www.cnbeta.com/articles/tech/1316229.htm) | Wed Sep 14 2022 2:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天晚上，iPhone 14系列评测解禁，从小白测评的实测数据来看，&lt;strong&gt;A16 GPU性能提升有限，有点“挤牙膏”的味道了。&lt;/strong&gt;具体来说，在GFXBench 1080P曼哈顿和1440P阿兹特克测试中，&lt;strong&gt;搭载A16的iPhone 14 Pro成绩分别是196和53FPS，搭载A15的iPhone 13 Pro Max成绩分别是184和54FPS，二者相差不大。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
