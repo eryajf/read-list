@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问最佳的爬虫语言是什么](https://www.v2ex.com/t/880119#reply0) | Wed Sep 14 2022 6:27 PM
-- 🤗 [为什么 Angular 的一些组件仍在使用 Promise？](https://www.v2ex.com/t/880118#reply0) | Wed Sep 14 2022 6:20 PM
-- 🎭 [心累， ssh 自定义文件名之后到底应该做什么](https://www.v2ex.com/t/880114#reply4) | Wed Sep 14 2022 4:31 PM
-- 🥷 [在人生中你有没有遇到过这样一种情况，在某个时间节点，你赌一把，会得到巨大的回报，但风险也是巨大的。不赌可以得到完全 0 风险的低收益。你会怎么选择？](https://www.v2ex.com/t/880113#reply10) | Wed Sep 14 2022 4:16 PM
-- 🐵 [互联网中的一些风险](https://www.v2ex.com/t/880112#reply4) | Wed Sep 14 2022 4:11 PM<!-- v2ex:END -->
+- 🥸 [火绒剑 成功把 迈克菲 删掉了](https://www.v2ex.com/t/880124#reply1) | Wed Sep 14 2022 7:55 PM
+- 🤗 [请问最佳的爬虫语言是什么](https://www.v2ex.com/t/880119#reply0) | Wed Sep 14 2022 6:27 PM
+- 🎭 [为什么 Angular 的一些组件仍在使用 Promise？](https://www.v2ex.com/t/880118#reply0) | Wed Sep 14 2022 6:20 PM
+- 🥷 [心累， ssh 自定义文件名之后到底应该做什么](https://www.v2ex.com/t/880114#reply4) | Wed Sep 14 2022 4:31 PM
+- 🐵 [在人生中你有没有遇到过这样一种情况，在某个时间节点，你赌一把，会得到巨大的回报，但风险也是巨大的。不赌可以得到完全 0 风险的低收益。你会怎么选择？](https://www.v2ex.com/t/880113#reply11) | Wed Sep 14 2022 4:16 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
