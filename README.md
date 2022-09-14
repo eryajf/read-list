@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [小米手机启用热点后的通知如何消除](https://www.v2ex.com/t/879947#reply2) | Wed Sep 14 2022 5:15 AM
-- 🤗 [oracle cloud 注册不成功是怎么回事](https://www.v2ex.com/t/879946#reply14) | Wed Sep 14 2022 5:11 AM
-- 🎭 [怎样在 C++里用 C-style 按行读取文件并不分配 heap 内存？](https://www.v2ex.com/t/879945#reply1) | Wed Sep 14 2022 5:09 AM
-- 🥷 [各位有没有自己写的，或者开源的 Python 商城相关代码？基于非 django 的最好，想学习一下](https://www.v2ex.com/t/879942#reply3) | Wed Sep 14 2022 4:50 AM
-- 🐵 [代码生成 UML](https://www.v2ex.com/t/879941#reply1) | Wed Sep 14 2022 4:49 AM<!-- v2ex:END -->
+- 🥸 [没事发错了](https://www.v2ex.com/t/879977#reply1) | Wed Sep 14 2022 7:00 AM
+- 🤗 [2 个 4T 硬盘组了 raid1 有必要降级回去 basic 吗？](https://www.v2ex.com/t/879965#reply6) | Wed Sep 14 2022 6:14 AM
+- 🎭 [[求助] Goland 下使用 vim 插件， visual 模式导致删除](https://www.v2ex.com/t/879957#reply0) | Wed Sep 14 2022 6:06 AM
+- 🥷 [小米手机启用热点后的通知如何消除](https://www.v2ex.com/t/879947#reply4) | Wed Sep 14 2022 5:15 AM
+- 🐵 [oracle cloud 注册不成功是怎么回事](https://www.v2ex.com/t/879946#reply23) | Wed Sep 14 2022 5:11 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
