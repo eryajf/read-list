@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [小岛秀夫测试KJP VR 东京电玩展揭晓](https://hot.cnbeta.com/articles/game/1316085.htm) | Wed Sep 14 2022 8:20 AM 
+- 🕯 [中国首次实现液体火箭动力的重复使用](https://www.cnbeta.com/articles/tech/1316117.htm) | Wed Sep 14 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（9月14日），著名游戏制作人小岛秀夫发推宣布正在测试东京电玩展上公布的Kojima Productions VR，同时公布了小岛秀夫本人试玩照片。部分粉丝推测本次展示的应该不是VR游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;记者14日从中国航天科技集团六院西安航天动力研究所获悉，由该所自主研制的某型液氧煤油发动机实现重复飞行试验验证，此举首次实现了中国液体火箭动力的重复使用。&lt;/strong&gt;液体火箭发动机作为航天运载器的主要动力装置，具有性能高、任务适应强、技术难度大、研制周期长等特点，也是航天运载器最复杂的产品之一，因此其可重复使用成为实现航天运载器重复使用必须突破的关键技术之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软向Windows 11 UWP应用推送WebView2支持](https://www.cnbeta.com/articles/tech/1316083.htm) | Wed Sep 14 2022 8:18 AM 
+- 💼 [研究人员展示了可按需生长造血干细胞的人工胚胎心脏系统](https://www.cnbeta.com/articles/science/1316115.htm) | Wed Sep 14 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在 6 月向 Windows 10 平台推送 Microsoft Edge WebView2 运行时后，微软现又为 Windows 11 平台带来了 UWP 应用体验的大更新。&lt;/strong&gt;今年早些时候，微软已经向开发者提供了 WinUI 2.8 。而 WebView2 的到来，又将现代网络体验带入了更广泛的应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;造血干细胞捐赠是一项重要的医疗程序，但它却受到持续短缺的影响。&lt;strong&gt;新南威尔士大学&lpar;UNSW&rpar;的研究人员现在展示了一种模仿胚胎心脏的微流控设备是如何产生造血干细胞前体的，而这可以让造血干细胞按需生产。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [明年苹果M3和A17 Bionic或采用台积电N3E工艺， 性能更优且更省电](https://www.cnbeta.com/articles/tech/1316081.htm) | Wed Sep 14 2022 8:08 AM 
+- 💂 [报道称LGES已取消棱柱形电池的开发](https://www.cnbeta.com/articles/tech/1316113.htm) | Wed Sep 14 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果的芯片正准备迈向3nm制程节点，不过苹果在具体工艺的选择上仍有待商榷。虽然台积电（TSMC）计划在今年下半年量产第一代N3工艺，同时英特尔因Meteor Lake延期空出产能，不过苹果似乎有所保留，并没有选择大规模下单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年早些时候，LG 能源解决方案公司开始审查“棱柱形电池”（prismatic batteries）是否可行。&lt;strong&gt;遗憾的是，LGES 刚刚得出了一个结论，即这条技术路线在商业方面不可行。&lt;/strong&gt;The Elec 报道称，该公司原计划将棱柱形材料放入电池壳体内，以作为传统圆柱形电芯的替代解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软UWP应用加入WebView2支持 基于谷歌Chromium](https://www.cnbeta.com/articles/tech/1316079.htm) | Wed Sep 14 2022 8:05 AM 
+- 🚀 [广湛高铁海底隧道顺利穿越：195米 设计时速350km/h](https://www.cnbeta.com/articles/tech/1316111.htm) | Wed Sep 14 2022 8:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;早在Windows 10推出时，微软就带来了新的浏览器内核“EdgeHTML”，这一内核的产物除了老版Edge浏览器外，还有UWP应用的WebView2支持。&lt;strong&gt;近日，微软宣布UWP应用加入了WebView2支持，但却并非基于EdgeHTML内核，而是和浏览器一样，基于Google的Chromium内核。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，9月13日，中铁十四局集团承建的广湛高铁湛江湾海底隧道“永兴号 ” 盾构机顺利穿越湛江湾主航道，期间对湛江湾主航道未造成任何影响，标志着湛江湾海底隧道成功攻克了新的技术难关，取得进展性突破。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [价值5500万美元，贝索斯前妻捐赠两套豪宅，筹资建保障房](https://www.cnbeta.com/articles/tech/1316077.htm) | Wed Sep 14 2022 7:55 AM 
+- 🎊 [酷睿i5-13600K/13500/13400 CPU跑分曝光 较上代更具性价比](https://www.cnbeta.com/articles/tech/1316109.htm) | Wed Sep 14 2022 8:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月14日消息，亚马逊创始人杰夫·贝索斯（Jeff Bezos）前妻麦肯齐·斯科特（Mackenzie Scott）刚刚捐赠了位于加州洛杉矶富人区的两栋豪宅。&lt;/strong&gt;这两栋住宅总价值约为5500万美元，它们将被出售以帮助当地建设保障性住房筹集资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;@TUM_APISAK 刚刚在 Twitter 上分享了酷睿 i5-13600K / 13500 / 13400 三款台式处理器的基准测试成绩。&lt;/strong&gt;有趣的是，这批芯片的步进分别为 Raptor Lake B0 和 Alder Lake C0 —— 前者采用了 13 代新架构，而后者延续了当前 12 代产品阵容的缓存结构设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
