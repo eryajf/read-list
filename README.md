@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一个不用写代码的案例，来看看Flowable到底给我们提供了哪些功能？](https://juejin.cn/post/7143086941704028168) | Wed Sep 14 2022 4:26 AM 
+- 🤗 [UMD 被淘汰了吗？不考虑的 UMD 的库如何在纯 UMD 前端项目中运行？](https://juejin.cn/post/7143114340386734116) | Wed Sep 14 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-    @[toc] 其实松哥之前已经写过文章和大家介绍了 flowable-ui 的玩法了，这是官方提供的一个工具，这个工具不仅可以用来绘制流程图，还可以用来部署一个流程应用，通过这个流程应用我们可以体验一 
+    最近团队在参加一场国际 Hackathon 活动，虽然名义上我也是项目的成员，但我不是主要参加者，主要负责人是一位架构师大佬。 经过讨论后，我需要帮助大佬完成一些他不太擅长的前端工作。 这个项目模 
     </details> 
 
-- 🎡 [星巴克推出Web3平台；天啦噜，AI绘画能007了；『决策算法』电子书；合成人脸数据集；面向数据的版本控制；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7143083623741308941) | Wed Sep 14 2022 4:14 AM 
+- 🎡 [字节B端设计规范ArcoDesign和AntDesign有何不同？](https://juejin.cn/post/7143106629314019365) | Wed Sep 14 2022 5:44 AM 
     <details><summary>展开描述 ...</summary> 
-    van blog 高性能个人博客系统、基于PaddlePaddle的科学计算SDK和库、OpenCV高级图形界面、Dolt 面向数据的版本控制、『表格数据深度学习』资料清单、协同感知文献列表… 
+    以下文章来源公众号体验进阶，作者 设计师ZoeYZ 之前很长一段时间，国内B端设计规范都是蚂蚁集团的 Ant Design 独霸天下。 但是自从去年字节 10 月推出 Arco Design 后，让一 
     </details> 
 
-- 🕯 [HTTP 中的头部规则](https://juejin.cn/post/7143082173967368200) | Wed Sep 14 2022 4:07 AM 
+- 🕯 [typescript中的声明合并](https://juejin.cn/post/7143096757524643877) | Wed Sep 14 2022 5:03 AM 
     <details><summary>展开描述 ...</summary> 
-    HTTP 中的 Header 虽然接触很多，但是一些规则容易忽略： HTTP Header 名称不区分大小写。因此 Content-Type 与 content-type 并无差别 HTTP Head 
+    声明合并 类型合并表明编译器将合并两个分开的并且名称相同的声明，合并之后的声明拥有两个声明的特点，任意数量的声明可以被合并，不仅限两个。 合并Interface 1.interface的非函数成员应该 
     </details> 
 
-- 🚀 [分页 + 模糊查询 有坑！](https://juejin.cn/post/7143077564810592287) | Wed Sep 14 2022 3:49 AM 
+- 🚀 [前端食堂技术周刊第 52 期：Babel 7.19.0、Fresh 1.1、React Native 0.70、新的 Web 性能指标 INP](https://juejin.cn/post/7143094170108821540) | Wed Sep 14 2022 4:54 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 不知道你有没有使用过Mysql的like语句，进行模糊查询？ 不知道你有没有将查询结果，进行分页处理？ 模糊查询，加上分页处理，会有意想不到的坑，不信我们继续往下看。 我之前提供过一个品牌查询接 
+    - Babel 7.19.0 - Fresh 1.1 - React Native 0.70 - Node.js 工作原理解析 - JSON Crack - 新的 Web 性能指标 INP 
     </details> 
 
-- 💪 [AI医疗高精尖！基于AI的新药研发！](https://juejin.cn/post/7143063834557677605) | Wed Sep 14 2022 2:56 AM 
+- 💪 [高德地图API 使用Threejs加载GLTF模型并设置模型朝向角](https://juejin.cn/post/7143083085968441380) | Wed Sep 14 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
-    『人工智能+新药研发』已经成为国内外医药企业的发展新模式！本文讲解 AI 在新药研发领域的诸多应用方向与 MolSearch 工具库的应用实践——药物晶型预测、靶点选择、患者招募、虚拟药物筛选…… 
+    高德地图通过GLCustomLayer加载Threejs，加载Gltf模型，根据三角函数Math.atan2动态设置模型朝向角度 
     </details> 
 <!-- juejin:END -->
 ### 少数派
