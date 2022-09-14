@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [colorSS - 生成随机 CSS 调色板并获得灵感](https://xinquji.com/posts/179504?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:29 AM 
+- 👀 [Batch Editor by Pixlr - 立即轻松地一次编辑](https://xinquji.com/posts/179516?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-     生成随机 CSS 调色板并获得灵感  
+     立即轻松地一次编辑  
     </details> 
 
-- 🥷 [Makers Support Makers - 承诺支持以获得支持](https://xinquji.com/posts/179503?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:29 AM 
+- 🥷 [Softorino YouTube Converter PRO - 将 YouTube MP4 和 MP3 下载到 Mac 或 iPhone 的最安全方式](https://xinquji.com/posts/179515?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     承诺支持以获得支持  
+     将 YouTube MP4 和 MP3 下载到 Mac 或 iPhone 的最安全方式  
     </details> 
 
-- 💼 [Vidu Personalized Video - 自动生成超个性化的销售视频](https://xinquji.com/posts/179502?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:27 AM 
+- 💼 [Crypto and FinTech API by Front - 金融科技的实时数据聚合和资产转移](https://xinquji.com/posts/179514?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     自动生成超个性化的销售视频  
+     金融科技的实时数据聚合和资产转移  
     </details> 
 
-- 🦅 [Notes app with keyboard for Fitbit OS - 适用于 Fitbit Versa + Sense 手表的带键盘笔记应用程序](https://xinquji.com/posts/179501?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:27 AM 
+- 🦅 [Beautiful.ai PowerPoint Add-In - 在 PowerPoint 中以 10 倍的速度创建精美的幻灯片](https://xinquji.com/posts/179513?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     适用于 Fitbit Versa + Sense 手表的带键盘笔记应用程序  
+     在 PowerPoint 中以 10 倍的速度创建精美的幻灯片  
     </details> 
 
-- 😺 [Kona with HRIS - 使用 HRIS 数据提升团队幸福感](https://xinquji.com/posts/179500?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:25 AM 
+- 😺 [Learn.fm - 在线员工培训平台](https://xinquji.com/posts/179512?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 HRIS 数据提升团队幸福感  
+     在线员工培训平台  
     </details> 
 <!-- xinquji:END -->
