@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【七剑合璧】  |  《Flutter 梦始之地》上架](https://juejin.cn/post/7143149508329734180) | Wed Sep 14 2022 8:28 AM 
+- 🤗 [为了让用户买买买，小红书做对了哪些事？](https://juejin.cn/post/7143151739724627975) | Wed Sep 14 2022 8:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    在网络购物发达的互联网时代，大部分年轻人（包括小摹）在购买商品前都会在各种平台上找测评贴，其中小红书就是代表平台之一。 小红书入驻了许多博主，从明星到素人，他们经常发布笔记帮大家种草或者拔草，UGC+ 
+    </details> 
+
+- 🎡 [【七剑合璧】  |  《Flutter 梦始之地》上架](https://juejin.cn/post/7143149508329734180) | Wed Sep 14 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
     1. 七剑合璧，我们相知相遇 从 2020年11月11日 发布的第一本 《妙笔生花》，到今天 2022年09月14日 发布的第七本 《梦始之地》 。耗时近两年的时光，总算迎来了七剑合璧的时刻。这份对  
     </details> 
 
-- 🎡 [基于ubuntu部署前端项目到docker容器](https://juejin.cn/post/7143148167125532680) | Wed Sep 14 2022 8:23 AM 
+- 🕯 [基于ubuntu部署前端项目到docker容器](https://juejin.cn/post/7143148167125532680) | Wed Sep 14 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
     由于不同的机器有不同的操作系统、库和组件等，在将一个应用部署到多台机器上时需要进行大量的环境配置操作。 Docker 主要用来解决环境配置问题 
     </details> 
 
-- 🕯 [Vue项目处理错误上报原来如此简单](https://juejin.cn/post/7143144999515865118) | Wed Sep 14 2022 8:11 AM 
+- 🚀 [Vue项目处理错误上报原来如此简单](https://juejin.cn/post/7143144999515865118) | Wed Sep 14 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
     随着网页项目越来越复杂，许多异常报错很难在开发和测试阶段被发现，尽管你可能避开了语法等常规错误，但不可避免的是代码在运行时的错误你仍旧无法准确预料，假设现在有如下一段 Vue 代码，它 
     </details> 
 
-- 🚀 [推荐16个前端必备的实用工具与网站✨](https://juejin.cn/post/7143142671920398373) | Wed Sep 14 2022 8:01 AM 
+- 💪 [推荐16个前端必备的实用工具与网站✨](https://juejin.cn/post/7143142671920398373) | Wed Sep 14 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
     推荐16个前端必备的实用工具与网站。一些日常工作中比较实用的软件和网站，这些网站你平时工作中大概率是会用到的，感觉不错的话可以点赞收藏🤪🤪 
-    </details> 
-
-- 💪 [借助飞书捷径，我快速完成了 Sentry 上报异常的自动推送，点赞！](https://juejin.cn/post/7143142055294795807) | Wed Sep 14 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近小编在做关于 Sentry 上报异常自动推送给工作群的功能。一开始想的技术方案非常普遍，就是实现一个 node 服务，暴露一个接口给 Sentry 应用的 webhook。这样，Sentry 上报 
     </details> 
 <!-- juejin:END -->
 ### 少数派
