@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [AI医疗高精尖！基于AI的新药研发！](https://juejin.cn/post/7143063834557677605) | Wed Sep 14 2022 2:56 AM 
+- 🤗 [一个不用写代码的案例，来看看Flowable到底给我们提供了哪些功能？](https://juejin.cn/post/7143086941704028168) | Wed Sep 14 2022 4:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    @[toc] 其实松哥之前已经写过文章和大家介绍了 flowable-ui 的玩法了，这是官方提供的一个工具，这个工具不仅可以用来绘制流程图，还可以用来部署一个流程应用，通过这个流程应用我们可以体验一 
+    </details> 
+
+- 🎡 [星巴克推出Web3平台；天啦噜，AI绘画能007了；『决策算法』电子书；合成人脸数据集；面向数据的版本控制；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7143083623741308941) | Wed Sep 14 2022 4:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    van blog 高性能个人博客系统、基于PaddlePaddle的科学计算SDK和库、OpenCV高级图形界面、Dolt 面向数据的版本控制、『表格数据深度学习』资料清单、协同感知文献列表… 
+    </details> 
+
+- 🕯 [HTTP 中的头部规则](https://juejin.cn/post/7143082173967368200) | Wed Sep 14 2022 4:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    HTTP 中的 Header 虽然接触很多，但是一些规则容易忽略： HTTP Header 名称不区分大小写。因此 Content-Type 与 content-type 并无差别 HTTP Head 
+    </details> 
+
+- 🚀 [分页 + 模糊查询 有坑！](https://juejin.cn/post/7143077564810592287) | Wed Sep 14 2022 3:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 不知道你有没有使用过Mysql的like语句，进行模糊查询？ 不知道你有没有将查询结果，进行分页处理？ 模糊查询，加上分页处理，会有意想不到的坑，不信我们继续往下看。 我之前提供过一个品牌查询接 
+    </details> 
+
+- 💪 [AI医疗高精尖！基于AI的新药研发！](https://juejin.cn/post/7143063834557677605) | Wed Sep 14 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
     『人工智能+新药研发』已经成为国内外医药企业的发展新模式！本文讲解 AI 在新药研发领域的诸多应用方向与 MolSearch 工具库的应用实践——药物晶型预测、靶点选择、患者招募、虚拟药物筛选…… 
-    </details> 
-
-- 🎡 [Fabric.js 拖拽平移画布](https://juejin.cn/post/7143062674954256391) | Wed Sep 14 2022 2:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    🐸 使用 fabric.js 创建出来的画布默认是不能拖拽移动的，不过我们可以利用一些小技巧让画布具有被拖拽的能力。 
-    </details> 
-
-- 🕯 [你不知道的前端新特性](https://juejin.cn/entry/7143051568089153543) | Wed Sep 14 2022 2:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    有些你不知道是正常的……因为他们基本都没怎么被浏览器实现 🥶 CSS Toggles 纯 CSS 实现状态切换一般使用 Checkbox 或者 Radio 配合选择器来实现。实现起来麻烦不说，而且  
-    </details> 
-
-- 🚀 [基于自建 VTree 的全链路埋点方案](https://juejin.cn/post/7143051318997827591) | Wed Sep 14 2022 2:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    在当前移动互联网时代，一个产品想快速、准确的抢占市场，无疑是需要产品快速迭代更新，如何协助产品经理对产品当前的数据做出最优判断是关键。 
-    </details> 
-
-- 💪 [URP教务系统自动登录脚本编写过程及心得体会](https://juejin.cn/post/7142856596350042119) | Tue Sep 13 2022 1:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    这篇博客是我对 hack 进学校教务系统的一个过程总结，详细代码已经放在GitHub上，需要的自取。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
