@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [当年人人都嫌的中国键盘 怎么就逆袭了国际大厂？](https://www.cnbeta.com/articles/tech/1316255.htm) | Wed Sep 14 2022 4:57 PM 
+- 🕯 [蓝戟上新Intel Arc A380显卡：功耗骤降、便宜100元](https://www.cnbeta.com/articles/tech/1316261.htm) | Wed Sep 14 2022 5:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Intel首款桌面独立显卡Arc A380目前只有蓝戟、华擎、微星三家品牌的产品。现在，曾经首发的蓝戟带来了第二款，频率和功耗都低了，价格也低了。蓝戟的第一款Arc A380 Photon版本核心频率2450MHz，功耗92W，单个8针辅助供电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [AMD Zen4锐龙9 7950X真可以飙到5.85GHz 只要满足一个条件](https://www.cnbeta.com/articles/tech/1316259.htm) | Wed Sep 14 2022 5:42 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;曾经有传闻称，AMD Zen4旗舰型号锐龙9 7950X可以跑到最高5.85GHz的加速频率，但最终官方公布规格只有5.7GHz。难道，传闻错了？非也。正常情况下，锐龙9 7950X的单核加速最高频率确实是5.7GHz，最高允许温度是95℃。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Starlink卫星互联网服务开始服务南极洲 试点激光网络通信](https://www.cnbeta.com/articles/tech/1316257.htm) | Wed Sep 14 2022 5:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;SpaceX公司的Starlink卫星互联网服务终于抵达南极洲海岸的McMurdo站，这意味着它现在可以在所有七大洲使用--至少是名义上的。&lt;/strong&gt;美国国家科学基金会（资助McMurdo站和其他地方的美国南极项目）在Twitter上宣布了这一消息，称&amp;quot;美国国家科学基金会支持的#南极洲的美国南极项目科学家们高兴极了！Starlink正在用麦克默多站新部署的用户终端测试极地服务，为科学支持增加带宽和连接。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [当年人人都嫌的中国键盘 怎么就逆袭了国际大厂？](https://www.cnbeta.com/articles/tech/1316255.htm) | Wed Sep 14 2022 4:57 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;知乎大V @Domino 清楚记得，2020 年双十一前后，向他咨询键盘的人兴趣风向明显变了。在这之前，@Domino 如果说了一个非 Cherry 轴的机械键盘，咨询者会问&amp;nbsp;“&amp;nbsp;能不能给我推荐 Cherry 轴的 ”？&lt;strong&gt;如今很多咨询者会说： “ 听说某某国产轴很火，这个怎么样？” &lt;/strong&gt;类似的认可，互联网上比比皆是。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14系列明天发售：经销商证实Pro版最高溢价千元](https://www.cnbeta.com/articles/tech/1316253.htm) | Wed Sep 14 2022 4:55 PM 
+- 🎊 [iPhone 14系列明天发售：经销商证实Pro版最高溢价千元](https://www.cnbeta.com/articles/tech/1316253.htm) | Wed Sep 14 2022 4:55 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日消息，iPhone 14系列将于9月16日正式发售。本次发售三款机型，&lt;strong&gt;分别是iPhone 14、iPhone 14 Pro和iPhone 14 Pro Max，起售价分别是5999元、7999元和8999元。而iPhone 14 Plus会在10月7日发售，起售价6999元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [首发卫星通信 华为李小龙：Mate 50使用北斗GEO卫星](https://www.cnbeta.com/articles/tech/1316251.htm) | Wed Sep 14 2022 4:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在Mate 50系列发布会上，华为“捅破天”技术正式亮相：&lt;strong&gt;华为Mate 50系列首发支持北斗卫星消息硬件能力。&lt;/strong&gt;不过Mate 50只能支持单向的卫星通信，也就是说只能发不能收。近日，有网友咨询华为手机产品线副总裁李小龙：请问华为的信息接收用的是北斗的GEO还是IGSO卫星？北斗的GEO负责短报文，IGSO负责SAR下行链路，走的是两套不同的系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [台风“梅花”登陆我国：狂风大作 暴雨横飞](https://www.cnbeta.com/articles/tech/1316249.htm) | Wed Sep 14 2022 4:51 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年第12号台风“梅花”（强台风级）的中心今天（14日）晚上8点30分前后在浙江省舟山普陀沿海登陆，登陆时中心附近最大风力有14级（42米/秒），中心最低气压为960百帕。。从现场拍摄的视频看，&lt;strong&gt;台风带来狂风大作，路灯剧烈摇晃，暴雨在镜头前横飞，不少树木被刮断、广告牌被刮飞，积水淹过大腿。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [提前激活iPhone 14每台罚款20万 A16现场跑分展示](https://www.cnbeta.com/articles/tech/1316247.htm) | Wed Sep 14 2022 4:50 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨晚有网友在抖音上晒出了iPhone 14 Pro Max 1TB暗紫色版本的真机，随后这位网友直播了激活这台手机的过程，并且进行了安兔兔跑分，跑分仅为97万。&lt;strong&gt;随后有网友表示，这A16跑分远没有预期的强，这个不上百万的分数也是差点意思。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
