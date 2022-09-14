@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [UMD 被淘汰了吗？不考虑的 UMD 的库如何在纯 UMD 前端项目中运行？](https://juejin.cn/post/7143114340386734116) | Wed Sep 14 2022 6:12 AM 
+- 🤗 [杰夫 · 迪恩：《深度学习的黄金十年：计算系统与应用》](https://juejin.cn/post/7143133463741202445) | Wed Sep 14 2022 7:28 AM 
     <details><summary>展开描述 ...</summary> 
-    最近团队在参加一场国际 Hackathon 活动，虽然名义上我也是项目的成员，但我不是主要参加者，主要负责人是一位架构师大佬。 经过讨论后，我需要帮助大佬完成一些他不太擅长的前端工作。 这个项目模 
+    过去十年是人工智能快速发展的十年，也是从实验室走向工业界的十年。我们用有道神经网络翻译引擎（YNMT）将全文做了翻译，以飨读者。 
     </details> 
 
-- 🎡 [字节B端设计规范ArcoDesign和AntDesign有何不同？](https://juejin.cn/post/7143106629314019365) | Wed Sep 14 2022 5:44 AM 
+- 🎡 [青训营-快乐出发｜100天打卡活动](https://juejin.cn/post/7143130623840878605) | Wed Sep 14 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-    以下文章来源公众号体验进阶，作者 设计师ZoeYZ 之前很长一段时间，国内B端设计规范都是蚂蚁集团的 Ant Design 独霸天下。 但是自从去年字节 10 月推出 Arco Design 后，让一 
+    最初接触青训营是今年上半年的第三届青训后端场，后来又参加了暑期的第四届青训营大数据场。希望可以借助这次100天打卡活动的机会，和大家分享自己学习的历程，彼此监督，共同进步。 
     </details> 
 
-- 🕯 [typescript中的声明合并](https://juejin.cn/post/7143096757524643877) | Wed Sep 14 2022 5:03 AM 
+- 🕯 [基于图数据库、图算法、图神经网络的 ID Resolution/ID Mapping 大数据分析方法与代码示例](https://juejin.cn/post/7143128882923700260) | Wed Sep 14 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    声明合并 类型合并表明编译器将合并两个分开的并且名称相同的声明，合并之后的声明拥有两个声明的特点，任意数量的声明可以被合并，不仅限两个。 合并Interface 1.interface的非函数成员应该 
+    用户 ID 识别是一个很常见的图技术应用场景，解决的问题是找出相同的用户在同一个系统或者不同系统中的不同账号。除了基本方法思想的介绍之外，我还给大家弄了可以跑的 Playground。 
     </details> 
 
-- 🚀 [前端食堂技术周刊第 52 期：Babel 7.19.0、Fresh 1.1、React Native 0.70、新的 Web 性能指标 INP](https://juejin.cn/post/7143094170108821540) | Wed Sep 14 2022 4:54 AM 
+- 🚀 [字节跳动Dev Better技术沙龙来啦！参与活动赢好礼，限时免费报名中！](https://juejin.cn/post/7143128016062054436) | Wed Sep 14 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-    - Babel 7.19.0 - Fresh 1.1 - React Native 0.70 - Node.js 工作原理解析 - JSON Crack - 新的 Web 性能指标 INP 
+    为助力前端开发者的成长、为所有前端爱好者提供交流的机会，9月17日，字节跳动Dev Infra团队邀您参加Dev Better系列技术沙龙活动——《前端性能及新技术实践》！ 
     </details> 
 
-- 💪 [高德地图API 使用Threejs加载GLTF模型并设置模型朝向角](https://juejin.cn/post/7143083085968441380) | Wed Sep 14 2022 4:10 AM 
+- 💪 [解决CocoaAsyncSocket在iOS16系统上的崩溃问题](https://juejin.cn/post/7143124820811579423) | Wed Sep 14 2022 6:52 AM 
     <details><summary>展开描述 ...</summary> 
-    高德地图通过GLCustomLayer加载Threejs，加载Gltf模型，根据三角函数Math.atan2动态设置模型朝向角度 
+    本篇文章，主要记录了我处理CocoaAsyncSocket在iOS16系统上的崩溃问题，通过Xcode以及Github中的PR与issues，一步步接近真相。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
