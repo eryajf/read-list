@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家建议人类多吃养殖贝类及鱼类：营养又环保 好处真不少](https://www.cnbeta.com/articles/science/1316151.htm) | Wed Sep 14 2022 10:38 AM 
+- 🕯 [定制款NVIDIA RTX 4090散热器拥有惊人的13根6mm铜热管](https://www.cnbeta.com/articles/tech/1316197.htm) | Wed Sep 14 2022 12:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为生态链的顶级存在，人类在吃肉方面比动物幸福多了，然而现在的吃肉自由也不仅仅是个经济问题，还要涉及环保问题，《自然》杂志日前刊文谈到了人类吃海鲜的问题，提倡蓝色饮食，多吃海鲜产品，营养丰富不少，碳排放还更低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;常规TGP高达450W，功率限制为600W，即将到来的NVIDIA GeForce RTX 4090如果没有冷却得非常好的话将会是一个噩梦。预计双槽风冷的RTX 4090不会再有，甚至加宽到3槽也可能接近参考值，4槽将成为标准（至少我们遇到的每个定制RTX 4090泄漏都指向4槽设计）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [敦煌考古编制岗位无人问津：必须双一流、八大美院硕士](https://www.cnbeta.com/articles/science/1316147.htm) | Wed Sep 14 2022 10:21 AM 
+- 💼 [Nothing Phone 1在印度销售的第一个月销量达到了六位数](https://www.cnbeta.com/articles/tech/1316195.htm) | Wed Sep 14 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;教育部数据显示，今年国考报名人数突破200万，报名比例达到68:1，也就是平均每个岗位有68名考生在竞争，热门岗位甚至有上千人报名。但是与此同时，也有一些冷门岗位招不到人。据猛犸新闻报道，&lt;strong&gt;敦煌研究院考古研究所就很难招人，近几年来招聘岗位不减反增，但是鲜有人问津，岗位也总是空缺，对此也是无可奈何。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然只销售了不到两个月，但Nothing已经透露了Phone 1在印度的一些早期销售数据，这款机型于7月21日发布。Nothing的副总裁兼印度总经理Manu Sharma在接受GSMArena采访时说，该公司通过零售商Flipkart（其独家销售伙伴）在印度销售的20天里已经售出了超过10万部Phone 1，而且超过1000万用户已经注册邮件列表，以便在手机上市时得到通知。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14 Pro灵动岛被“玩坏” 已被用来开发小游戏](https://www.cnbeta.com/articles/tech/1316145.htm) | Wed Sep 14 2022 10:21 AM 
+- 💂 [耐用+长续航 大疆发布Osmo Action 3运动相机](https://www.cnbeta.com/articles/tech/1316193.htm) | Wed Sep 14 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone一直以来在很多体验上碾压安卓，最重要的原因就是生态环境更强，&lt;strong&gt;有任何新的变化都会有无数开发者第一时间适配，帮助苹果的系统更完善。&lt;/strong&gt;近日，iPhone 14才刚刚发布还未上市，iOS 16正式版也才只是推送了一天时间，已经有不少优秀的开发者针对性的适配，推出了很多好用的新功能。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大疆以其四旋翼无人机而闻名，但在过去几年中，该公司一直在与邻近市场的老牌企业进行一些有趣的竞争。今天，大疆发布了其Osmo系列动作相机的第三个迭代产品，Osmo 3。新相机的电池容量大幅提升，并使相机比以往更适合创作者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [果蝇研究告诉你：为什么热会使人困倦？](https://www.cnbeta.com/articles/science/1316143.htm) | Wed Sep 14 2022 10:16 AM 
+- 🚀 [研究发现每日服用多种维生素可延缓老年人的认知衰退](https://www.cnbeta.com/articles/science/1316191.htm) | Wed Sep 14 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项关于果蝇的研究揭示了一种促进在热天中午打盹的脑回路。你可能会发现自己在最热的夏日里在中午时分不知不觉睡着了。在世界的一些地方，在一天中最热的时候安排&amp;quot;午睡&amp;quot;和关闭商店是一种习惯。事实上，生物学--不仅仅是文化--可能是造成这种情况的原因。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项新的长期大规模研究发现，每天服用多种维生素补充剂可能会减缓老年人的认知因老化而衰退。2022年9月14日，《Alzheimer&amp;#39;s &amp;amp; Dementia: 阿尔茨海默氏症协会杂志》将发表&amp;quot;可可提取物和多种维生素对认知功能的影响：一项随机临床试验&amp;quot;一文。&lt;strong&gt;根据对2200多名老年人进行的为期三年的跟踪研究，每天补充多种维生素和矿物质会带来统计学上的重大认知益处。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [LG成功完成发射和接收6G THz数据的试验](https://www.cnbeta.com/articles/tech/1316141.htm) | Wed Sep 14 2022 10:11 AM 
+- 🎊 [直击台风“梅花”正面来袭 舟山现场画面：狂风暴雨叠加巨浪](https://www.cnbeta.com/articles/tech/1316189.htm) | Wed Sep 14 2022 12:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;LG在德国柏林的弗劳恩霍夫海因里希-赫兹研究所（HHI）成功测试了6G太赫兹（THz）数据的传输和接收，在户外环境中的距离为320米。&lt;/strong&gt;该测试是在9月7日进行的，频率范围为155-175GHz，这是在城市地区6G网络商业化方面的一大进步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中秋假期刚过，今年第12号台风“梅花”就开始发威，直冲我国登陆而来。&lt;strong&gt;据预计，今天下午至夜里“梅花”将在三门到舟山一带沿海登陆，它导致的风雨影响时间长、范围大、与天文大潮叠加潮位高，威力不容小觑，是今年对我国影响最大的台风。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
