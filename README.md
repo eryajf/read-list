@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [敦煌考古编制岗位无人问津：必须双一流、八大美院硕士](https://www.cnbeta.com/articles/science/1316147.htm) | Wed Sep 14 2022 10:21 AM 
+- 🕯 [科学家建议人类多吃养殖贝类及鱼类：营养又环保 好处真不少](https://www.cnbeta.com/articles/science/1316151.htm) | Wed Sep 14 2022 10:38 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;作为生态链的顶级存在，人类在吃肉方面比动物幸福多了，然而现在的吃肉自由也不仅仅是个经济问题，还要涉及环保问题，《自然》杂志日前刊文谈到了人类吃海鲜的问题，提倡蓝色饮食，多吃海鲜产品，营养丰富不少，碳排放还更低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [敦煌考古编制岗位无人问津：必须双一流、八大美院硕士](https://www.cnbeta.com/articles/science/1316147.htm) | Wed Sep 14 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;教育部数据显示，今年国考报名人数突破200万，报名比例达到68:1，也就是平均每个岗位有68名考生在竞争，热门岗位甚至有上千人报名。但是与此同时，也有一些冷门岗位招不到人。据猛犸新闻报道，&lt;strong&gt;敦煌研究院考古研究所就很难招人，近几年来招聘岗位不减反增，但是鲜有人问津，岗位也总是空缺，对此也是无可奈何。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14 Pro灵动岛被“玩坏” 已被用来开发小游戏](https://www.cnbeta.com/articles/tech/1316145.htm) | Wed Sep 14 2022 10:21 AM 
+- 💂 [iPhone 14 Pro灵动岛被“玩坏” 已被用来开发小游戏](https://www.cnbeta.com/articles/tech/1316145.htm) | Wed Sep 14 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;iPhone一直以来在很多体验上碾压安卓，最重要的原因就是生态环境更强，&lt;strong&gt;有任何新的变化都会有无数开发者第一时间适配，帮助苹果的系统更完善。&lt;/strong&gt;近日，iPhone 14才刚刚发布还未上市，iOS 16正式版也才只是推送了一天时间，已经有不少优秀的开发者针对性的适配，推出了很多好用的新功能。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [果蝇研究告诉你：为什么热会使人困倦？](https://www.cnbeta.com/articles/science/1316143.htm) | Wed Sep 14 2022 10:16 AM 
+- 🚀 [果蝇研究告诉你：为什么热会使人困倦？](https://www.cnbeta.com/articles/science/1316143.htm) | Wed Sep 14 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一项关于果蝇的研究揭示了一种促进在热天中午打盹的脑回路。你可能会发现自己在最热的夏日里在中午时分不知不觉睡着了。在世界的一些地方，在一天中最热的时候安排&amp;quot;午睡&amp;quot;和关闭商店是一种习惯。事实上，生物学--不仅仅是文化--可能是造成这种情况的原因。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [LG成功完成发射和接收6G THz数据的试验](https://www.cnbeta.com/articles/tech/1316141.htm) | Wed Sep 14 2022 10:11 AM 
+- 🎊 [LG成功完成发射和接收6G THz数据的试验](https://www.cnbeta.com/articles/tech/1316141.htm) | Wed Sep 14 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;LG在德国柏林的弗劳恩霍夫海因里希-赫兹研究所（HHI）成功测试了6G太赫兹（THz）数据的传输和接收，在户外环境中的距离为320米。&lt;/strong&gt;该测试是在9月7日进行的，频率范围为155-175GHz，这是在城市地区6G网络商业化方面的一大进步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [环境中无处不在的化学品与塑料可能与肥胖越来越普遍有关](https://www.cnbeta.com/articles/tech/1316139.htm) | Wed Sep 14 2022 10:09 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;科学家们警告说，日常用品中存在的塑料可能是导致肥胖的一个因素。&lt;/strong&gt;全球的肥胖流行病越来越严重，特别是在儿童中，在过去十年中肥胖率不断上升，并随着时间波及到更早的年龄。在美国，今天大约有40%的高中生在开始上高中时就已经超重。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
