@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [定制款NVIDIA RTX 4090散热器拥有惊人的13根6mm铜热管](https://www.cnbeta.com/articles/tech/1316197.htm) | Wed Sep 14 2022 12:39 PM 
+- 🕯 [美光投资150亿美元的美国芯片工厂破土动工](https://www.cnbeta.com/articles/tech/1316217.htm) | Wed Sep 14 2022 1:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;常规TGP高达450W，功率限制为600W，即将到来的NVIDIA GeForce RTX 4090如果没有冷却得非常好的话将会是一个噩梦。预计双槽风冷的RTX 4090不会再有，甚至加宽到3槽也可能接近参考值，4槽将成为标准（至少我们遇到的每个定制RTX 4090泄漏都指向4槽设计）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，美国存储芯片公司美光科技在爱达荷州博伊西市的一座价值150亿美元的工厂周一破土动工。另外，公司还宣布另一家在美国的新工厂也即将开工，具体的将在未来几周宣布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Nothing Phone 1在印度销售的第一个月销量达到了六位数](https://www.cnbeta.com/articles/tech/1316195.htm) | Wed Sep 14 2022 12:37 PM 
+- 💼 [过去一个世纪海草减少了将近92% 恢复海地草甸刻不容缓](https://www.cnbeta.com/articles/science/1316215.htm) | Wed Sep 14 2022 12:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然只销售了不到两个月，但Nothing已经透露了Phone 1在印度的一些早期销售数据，这款机型于7月21日发布。Nothing的副总裁兼印度总经理Manu Sharma在接受GSMArena采访时说，该公司通过零售商Flipkart（其独家销售伙伴）在印度销售的20天里已经售出了超过10万部Phone 1，而且超过1000万用户已经注册邮件列表，以便在手机上市时得到通知。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据英国《新科学家》网站报道，海草被誉为自然保护的“神奇植物”和“丑小鸭”。自1980年以来，由于污染、疾病和人类干扰，世界正以每小时约14000平方米的速度失去这种海洋植物；在英国，过去一个世纪海草减少了将近92%。但海草是一种栖息地，埋碳的速度比热带雨林快35倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [耐用+长续航 大疆发布Osmo Action 3运动相机](https://www.cnbeta.com/articles/tech/1316193.htm) | Wed Sep 14 2022 12:29 PM 
+- 💂 [“风险大过小行星撞地球” 外媒：化解火山威胁任重道远](https://www.cnbeta.com/articles/science/1316213.htm) | Wed Sep 14 2022 12:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大疆以其四旋翼无人机而闻名，但在过去几年中，该公司一直在与邻近市场的老牌企业进行一些有趣的竞争。今天，大疆发布了其Osmo系列动作相机的第三个迭代产品，Osmo 3。新相机的电池容量大幅提升，并使相机比以往更适合创作者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据美国《大众科学》月刊网站近日报道，地质学家称，我们还没为火山做好准备。报道称，几百年来，人类一直惊叹于火山的巨大威力。本月早些时候，游客们蜂拥至冰岛，观看雷克雅内斯半岛裂缝喷发的熔岩。在2020年埃亚菲亚德拉冰盖火山喷发后，这个“冰火交织的国家”的旅游业出现了巨大的增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究发现每日服用多种维生素可延缓老年人的认知衰退](https://www.cnbeta.com/articles/science/1316191.htm) | Wed Sep 14 2022 12:23 PM 
+- 🚀 [柯伊伯带揭示太阳系演化历程](https://www.cnbeta.com/articles/science/1316211.htm) | Wed Sep 14 2022 12:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项新的长期大规模研究发现，每天服用多种维生素补充剂可能会减缓老年人的认知因老化而衰退。2022年9月14日，《Alzheimer&amp;#39;s &amp;amp; Dementia: 阿尔茨海默氏症协会杂志》将发表&amp;quot;可可提取物和多种维生素对认知功能的影响：一项随机临床试验&amp;quot;一文。&lt;strong&gt;根据对2200多名老年人进行的为期三年的跟踪研究，每天补充多种维生素和矿物质会带来统计学上的重大认知益处。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据美国《科学新闻》双周刊网站近日报道，1992年夏天，在夏威夷的一个山顶上观测星空的两位科学家发现，一个小光点正在缓慢穿过双鱼座。这个不起眼的天体———位于海王星之外10亿多公里处———将改写我们对太阳系的认识。在已知行星的轨道之外，不是一片虚空。实际上，那里潜伏着许多东西。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [直击台风“梅花”正面来袭 舟山现场画面：狂风暴雨叠加巨浪](https://www.cnbeta.com/articles/tech/1316189.htm) | Wed Sep 14 2022 12:18 PM 
+- 🎊 [韩美本周将就韩产电动汽车歧视问题展开谈判](https://www.cnbeta.com/articles/tech/1316209.htm) | Wed Sep 14 2022 12:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中秋假期刚过，今年第12号台风“梅花”就开始发威，直冲我国登陆而来。&lt;strong&gt;据预计，今天下午至夜里“梅花”将在三门到舟山一带沿海登陆，它导致的风雨影响时间长、范围大、与天文大潮叠加潮位高，威力不容小觑，是今年对我国影响最大的台风。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;韩国方面表示，韩国与美国正在加紧努力解决美国《通胀削减法案》给予韩产电动汽车歧视性待遇的问题，目的是消除双方在亚太供应链方面加强合作的任何障碍。韩国产业通商资源部通商交涉本部长安德根&lpar;Ahn Duk-geun&rpar;周三表示，韩美双方将于周五开始谈判，这是双方本月早些时候在华盛顿商定建立协商机制的一部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
