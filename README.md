@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [蓝戟上新Intel Arc A380显卡：功耗骤降、便宜100元](https://www.cnbeta.com/articles/tech/1316261.htm) | Wed Sep 14 2022 5:43 PM 
+- 🕯 [iOS 16.1为iPhone 13 mini、12 mini、XR和11状态栏添加电池百分比](https://www.cnbeta.com/articles/tech/1316267.htm) | Wed Sep 14 2022 7:04 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;苹果在iOS 16中更新了带有Face ID的iPhone的电池图标，以显示具体的电池百分比，而不仅仅是电池水平的视觉表现。&lt;/strong&gt;在推出时，这项功能不支持iPhone 13 mini、iPhone 12 mini、iPhone XR或iPhone 11机型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [洋码头欠款2亿撑不住了 跨境电商平台咋过冬？](https://www.cnbeta.com/articles/tech/1316265.htm) | Wed Sep 14 2022 6:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;又一家跨境电商平台撑不住了。日前，多位商家买手表示，货款遭到洋码头平台长期拖欠支付，数额从数万至数十万不等。创立于2010年的洋码头进行过7次融资，总金额达10.8亿元。巅峰时期，曾拥有超8万名认证买手，覆盖全球83个国家，每日可供购买的商品数量超过80万件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [世卫组织：敦促各国抓住难得的机会 结束新冠大流行](https://www.cnbeta.com/articles/tech/1316263.htm) | Wed Sep 14 2022 6:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当地时间周三&lpar;9月14日&rpar;，世卫组织&lpar;WHO&rpar;表示，全球新增新冠病例出现明显下滑，敦促各国抓住机会结束这场大流行。世卫组织总干事谭德塞在新闻发布会上称，上周新增感染病例已降至2020年3月以来的最低水平。谭德塞指出：“我们在结束大流行方面处于前所未有的有利地位。虽然我们还没有走到那一步，但看到了结束的希望。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [蓝戟上新Intel Arc A380显卡：功耗骤降、便宜100元](https://www.cnbeta.com/articles/tech/1316261.htm) | Wed Sep 14 2022 5:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Intel首款桌面独立显卡Arc A380目前只有蓝戟、华擎、微星三家品牌的产品。现在，曾经首发的蓝戟带来了第二款，频率和功耗都低了，价格也低了。蓝戟的第一款Arc A380 Photon版本核心频率2450MHz，功耗92W，单个8针辅助供电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD Zen4锐龙9 7950X真可以飙到5.85GHz 只要满足一个条件](https://www.cnbeta.com/articles/tech/1316259.htm) | Wed Sep 14 2022 5:42 PM 
+- 🎊 [AMD Zen4锐龙9 7950X真可以飙到5.85GHz 只要满足一个条件](https://www.cnbeta.com/articles/tech/1316259.htm) | Wed Sep 14 2022 5:42 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;曾经有传闻称，AMD Zen4旗舰型号锐龙9 7950X可以跑到最高5.85GHz的加速频率，但最终官方公布规格只有5.7GHz。难道，传闻错了？非也。正常情况下，锐龙9 7950X的单核加速最高频率确实是5.7GHz，最高允许温度是95℃。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Starlink卫星互联网服务开始服务南极洲 试点激光网络通信](https://www.cnbeta.com/articles/tech/1316257.htm) | Wed Sep 14 2022 5:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;SpaceX公司的Starlink卫星互联网服务终于抵达南极洲海岸的McMurdo站，这意味着它现在可以在所有七大洲使用--至少是名义上的。&lt;/strong&gt;美国国家科学基金会（资助McMurdo站和其他地方的美国南极项目）在Twitter上宣布了这一消息，称&amp;quot;美国国家科学基金会支持的#南极洲的美国南极项目科学家们高兴极了！Starlink正在用麦克默多站新部署的用户终端测试极地服务，为科学支持增加带宽和连接。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [当年人人都嫌的中国键盘 怎么就逆袭了国际大厂？](https://www.cnbeta.com/articles/tech/1316255.htm) | Wed Sep 14 2022 4:57 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知乎大V @Domino 清楚记得，2020 年双十一前后，向他咨询键盘的人兴趣风向明显变了。在这之前，@Domino 如果说了一个非 Cherry 轴的机械键盘，咨询者会问&amp;nbsp;“&amp;nbsp;能不能给我推荐 Cherry 轴的 ”？&lt;strong&gt;如今很多咨询者会说： “ 听说某某国产轴很火，这个怎么样？” &lt;/strong&gt;类似的认可，互联网上比比皆是。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [iPhone 14系列明天发售：经销商证实Pro版最高溢价千元](https://www.cnbeta.com/articles/tech/1316253.htm) | Wed Sep 14 2022 4:55 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，iPhone 14系列将于9月16日正式发售。本次发售三款机型，&lt;strong&gt;分别是iPhone 14、iPhone 14 Pro和iPhone 14 Pro Max，起售价分别是5999元、7999元和8999元。而iPhone 14 Plus会在10月7日发售，起售价6999元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
