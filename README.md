@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [常问的Framework的几个问题，看看你都答得上来吗？](https://juejin.cn/post/7143229806400765989) | Wed Sep 14 2022 1:41 PM 
+- 🤗 [前端二维数组生成树形结构](https://juejin.cn/post/7143236810859085860) | Wed Sep 14 2022 2:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    问题描述 前端在构建国家的省市区结构时，接口返回的不是树形结构，这个时候就需要我们进行转化。本文提供了一种实现思路，希望能给各位一个参考。 
+    </details> 
+
+- 🎡 [Navigation重建Fragment问题分析及解决【转载】](https://juejin.cn/post/7143232985012600840) | Wed Sep 14 2022 1:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近项目中使用到了BottomNavigationView结合Navigation实现底部导航栏切换页面业务。 结果发现每次点击底部导航栏切换的时候都会重建Fragment，于是分析了源码，并研究了解 
+    </details> 
+
+- 🕯 [常问的Framework的几个问题，看看你都答得上来吗？](https://juejin.cn/post/7143229806400765989) | Wed Sep 14 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
     某一天你接到一个公司的面试邀请，去参加面试。 面试官问你： handler的阻塞为什么不会导致app ANR 子线程如何创建handler handler如何发送延迟消息 享元设计模式的价值是什么？  
     </details> 
 
-- 🎡 [教你写一个入门级别的五子棋AI](https://juejin.cn/post/7143227745164591118) | Wed Sep 14 2022 1:32 PM 
+- 🚀 [教你写一个入门级别的五子棋AI](https://juejin.cn/post/7143227745164591118) | Wed Sep 14 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
     五子棋 AI 的实现并不难，只需要解决一个问题就行： 怎么确定AI的最佳落子位置？ 一般情况下，五子棋棋盘是由15条横线和15条纵线组合而成的，15x15 的棋盘共有 225 个交叉点，也就是说 
     </details> 
 
-- 🕯 [CDN是个什么玩意呢，来瞧瞧吧](https://juejin.cn/post/7143226420490141732) | Wed Sep 14 2022 1:28 PM 
+- 💪 [CDN是个什么玩意呢，来瞧瞧吧](https://juejin.cn/post/7143226420490141732) | Wed Sep 14 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
     一、是什么 CDN &lpar;全称 Content Delivery Network&rpar;，即内容分发网络 构建在现有网络基础之上的智能虚拟网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度 
-    </details> 
-
-- 🚀 [图系列算法在转转推荐算法召回及粗排的实践](https://juejin.cn/post/7143225495302340616) | Wed Sep 14 2022 1:25 PM 
-    <details><summary>展开描述 ...</summary> 
-    推荐系统帮助人们更高效地建立与信息的连接，节约信息筛选的时间，为用户匹配、探索兴趣，也让平台的高效分发成为可能。对于转转来说，推荐系统承担了为用户推荐商品与内容的重要角色，一方面链接了用户与商品的关系 
-    </details> 
-
-- 💪 [如何管理职场新人？](https://juejin.cn/post/7143219923530022948) | Wed Sep 14 2022 1:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    对新人来说，早期多学到点东西，比多一点工资重要得多。我带过很多新人，他们在工作中确实出现了很多低级错误，人为提醒或者帮助其改正效果并不好。最后我总结了一套通用流程来管理。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
