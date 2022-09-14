@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [垃圾箱争夺战 澳洲葵花凤头鹦鹉与人类开启“创新军备竞赛”](http://jandan.net/p/111336) | Wed Sep 14 2022 5:04 AM 
+- 🚀 [发霉啦：今天，是我和搭档合伙开店的第四天](http://jandan.net/p/111342) | Wed Sep 14 2022 6:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    要是每周都是四天班该多好啊 
+    </details> 
+
+- 🙉 [垃圾箱争夺战 澳洲葵花凤头鹦鹉与人类开启“创新军备竞赛”](http://jandan.net/p/111336) | Wed Sep 14 2022 5:04 AM 
     <details><summary>展开描述 ...</summary> 
     “我认为最终胜利的将是人类，” 
     </details> 
 
-- 🙉 [今日好价 0914](http://jandan.net/p/111339) | Wed Sep 14 2022 3:42 AM 
+- 🎉 [今日好价 0914](http://jandan.net/p/111339) | Wed Sep 14 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🎉 [Img2img 图像合成算法AI把老游戏的图形优化成细节丰富的样子](http://jandan.net/p/111282) | Tue Sep 13 2022 3:02 PM 
+- 🐲 [Img2img 图像合成算法AI把老游戏的图形优化成细节丰富的样子](http://jandan.net/p/111282) | Tue Sep 13 2022 3:02 PM 
     <details><summary>展开描述 ...</summary> 
     分享一个AI资源 
     </details> 
 
-- 🐲 [一万年前，智人祖先的皮肤还不怕阳光晒伤](http://jandan.net/p/111314) | Tue Sep 13 2022 8:57 AM 
+-  [一万年前，智人祖先的皮肤还不怕阳光晒伤](http://jandan.net/p/111314) | Tue Sep 13 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
     没有健康的晒黑——晒黑并不能保护您免受进一步的晒伤，它本身就是损伤的标志。 
-    </details> 
-
--  [日照量的变化与精神健康 我们第一次从细胞水平为两者建立了联系](http://jandan.net/p/111335) | Tue Sep 13 2022 4:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    中午出去晒晒太阳？ 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
