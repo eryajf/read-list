@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [工控攻击！黑客组织GhostSec 称入侵以色列55 家Berghof PLC](https://www.freebuf.com/articles/ics-articles/344476.html) | Wed Sep 14 2022 3:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    该网络攻击行为被视为“解放巴勒斯坦”运动的组成部分。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 谷歌花54亿美元收购Mandiant；黑客企图入侵韩国政府56万次](https://www.freebuf.com/news/344393.html) | Tue Sep 13 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
     Google 提议 54 亿美元收购网络安全公司 Mandiant 的交易现在已经完成 
     </details> 
 
-- 🦄 [思科确认 Yanluowang 勒索软件团伙泄露了公司数据](https://www.freebuf.com/news/344378.html) | Tue Sep 13 2022 5:21 AM 
+- 🦅 [思科确认 Yanluowang 勒索软件团伙泄露了公司数据](https://www.freebuf.com/news/344378.html) | Tue Sep 13 2022 5:21 AM 
     <details><summary>展开描述 ...</summary> 
     思科公司已经确认 Yanluowang 勒索软件团伙泄露的数据是黑客在5月份一次网络攻击中从该公司网络中窃取的。 
     </details> 
 
-- 🦅 [大事件！乌方：网络攻击已瘫痪俄罗斯2400个网站](https://www.freebuf.com/articles/344375.html) | Tue Sep 13 2022 5:11 AM 
+- 🪄 [大事件！乌方：网络攻击已瘫痪俄罗斯2400个网站](https://www.freebuf.com/articles/344375.html) | Tue Sep 13 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     乌克兰IT军队在8月29日至9月11日的两周内，攻击了2400多个俄罗斯网站，其中包括俄罗斯联邦最大银行。 
     </details> 
 
-- 🪄 [健康医疗数据跨境流动合规分析](https://www.freebuf.com/articles/neopoints/344369.html) | Tue Sep 13 2022 3:05 AM 
+- 💻 [健康医疗数据跨境流动合规分析](https://www.freebuf.com/articles/neopoints/344369.html) | Tue Sep 13 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
     医疗健康数据不仅事关患者生命安全、个人信息权益，还关乎社会公共利益和国家安全。 
-    </details> 
-
-- 💻 [黑客利用伪造的弹出登录窗口窃取Steam帐户](https://www.freebuf.com/news/344356.html) | Tue Sep 13 2022 2:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是一种正逐步流行的攻击手法，主要是在活动窗口中创建伪造的登录页面，通常为用户所要登录服务的弹出页。 
     </details> 
 <!-- freebuf:END -->
 
