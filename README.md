@@ -832,7 +832,7 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [exping v1.2.3 - 全新Emoji，更多Emoji - 标记你的品味地‪图‬](https://xinquji.com/posts/179424?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:50 AM 
+- 👀 [exping v1.2.2 - 全新Emoji，更多Emoji - 标记你的品味地‪图‬](https://xinquji.com/posts/179424?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
      全新Emoji，更多Emoji - 标记你的品味地‪图‬  
     </details> 
