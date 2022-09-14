@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [LPC 2022：MGLRU页面回收改进有望并入Linux 6.1内核主线](https://www.cnbeta.com/articles/tech/1316063.htm) | Wed Sep 14 2022 7:24 AM 
+- 🕯 [小岛秀夫测试KJP VR 东京电玩展揭晓](https://hot.cnbeta.com/articles/game/1316085.htm) | Wed Sep 14 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在爱尔兰都柏林举办的 LPC 2022 活动期间，我们看到了有望在 Linux 6.1 中并入主流的 Multi-Gen LRU 项目的最新进展。&lt;/strong&gt;作为当前 Linux 内核页面回收代码的一个更好替代方案，如果 MGLRU 能够在 2022 的最后一个完整内核周期内登陆 Linux 6.1，那它也将成为年内最激动人心的创新之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（9月14日），著名游戏制作人小岛秀夫发推宣布正在测试东京电玩展上公布的Kojima Productions VR，同时公布了小岛秀夫本人试玩照片。部分粉丝推测本次展示的应该不是VR游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [法国创企Yubo使用面部年龄估计技术验证其所有用户的年龄](https://www.cnbeta.com/articles/tech/1316061.htm) | Wed Sep 14 2022 7:13 AM 
+- 💼 [微软向Windows 11 UWP应用推送WebView2支持](https://www.cnbeta.com/articles/tech/1316083.htm) | Wed Sep 14 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据TechCrunch报道，法国创业公司Yubo推出的社交应用在25岁以下的年轻人中特别受欢迎，这些人希望认识新朋友，一起玩游戏，一起在视频聊天室里玩耍。该公司已经成功吸引了6000万用户，这意味着在安全方面的风险相当高。&lt;strong&gt;而该公司几乎已经完成了使用年龄估计技术对其100%的用户群的年龄进行验证。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316061.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在 6 月向 Windows 10 平台推送 Microsoft Edge WebView2 运行时后，微软现又为 Windows 11 平台带来了 UWP 应用体验的大更新。&lt;/strong&gt;今年早些时候，微软已经向开发者提供了 WinUI 2.8 。而 WebView2 的到来，又将现代网络体验带入了更广泛的应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [超级终端技术加持 新款华为MateStation S开卖](https://www.cnbeta.com/articles/tech/1316057.htm) | Wed Sep 14 2022 7:08 AM 
+- 💂 [明年苹果M3和A17 Bionic或采用台积电N3E工艺， 性能更优且更省电](https://www.cnbeta.com/articles/tech/1316081.htm) | Wed Sep 14 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;华为新款台式机——华为MateStation S 12代酷睿版，今日正式开卖，售价4399元起。这款台式机最大的亮点就是&lt;strong&gt;支持华为超级终端功能，可实现手机、平板、显示器及智慧屏与台式机互联互通。&lt;/strong&gt;数据、文档及图像、视频资料无缝共享，还可以多屏显示输出，视频会议也可以无缝流转。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果的芯片正准备迈向3nm制程节点，不过苹果在具体工艺的选择上仍有待商榷。虽然台积电（TSMC）计划在今年下半年量产第一代N3工艺，同时英特尔因Meteor Lake延期空出产能，不过苹果似乎有所保留，并没有选择大规模下单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [在Intel最先进的芯片工厂当打工人需要什么？副学士水平就行](https://www.cnbeta.com/articles/tech/1316055.htm) | Wed Sep 14 2022 7:07 AM 
+- 🚀 [微软UWP应用加入WebView2支持 基于谷歌Chromium](https://www.cnbeta.com/articles/tech/1316079.htm) | Wed Sep 14 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周Intel宣布在美国俄亥俄州投资200亿美元建2座大型晶圆厂，这是一年来Intel在美国投资的第二个晶圆制造基地了，2025年投产时会量产2nm、1.8nm级别的工艺，可以说是全球最先进的芯片厂了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;早在Windows 10推出时，微软就带来了新的浏览器内核“EdgeHTML”，这一内核的产物除了老版Edge浏览器外，还有UWP应用的WebView2支持。&lt;strong&gt;近日，微软宣布UWP应用加入了WebView2支持，但却并非基于EdgeHTML内核，而是和浏览器一样，基于Google的Chromium内核。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [博主直播激活苹果iPhone 14被封禁后：最新视频暗示今晚还拆新机](https://www.cnbeta.com/articles/tech/1316053.htm) | Wed Sep 14 2022 7:06 AM 
+- 🎊 [价值5500万美元，贝索斯前妻捐赠两套豪宅，筹资建保障房](https://www.cnbeta.com/articles/tech/1316077.htm) | Wed Sep 14 2022 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大家都知道，苹果每年在iPhone正式发售之前，对新机的保密措施非常严格。日前大批iPhone 14系列一偶偶经送到了经销商处，&lt;strong&gt;并标注禁止在9月16日早上8点前激活，否则每台罚款20万。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月14日消息，亚马逊创始人杰夫·贝索斯（Jeff Bezos）前妻麦肯齐·斯科特（Mackenzie Scott）刚刚捐赠了位于加州洛杉矶富人区的两栋豪宅。&lt;/strong&gt;这两栋住宅总价值约为5500万美元，它们将被出售以帮助当地建设保障性住房筹集资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
