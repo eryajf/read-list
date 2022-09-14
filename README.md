@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [从软硬协同到「不思进取」的资本：iPhone 14 Pro 对「高端产品」的启示](https://sspai.com/post/75630) | Wed Sep 14 2022 2:31 AM 
+- 👹 [Android 设备省电与流畅的「临界点」：uperf 如何让你的电量都花在刀刃上](https://sspai.com/post/75695) | Wed Sep 14 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    为自己的 Android 设备芯片量身定制一套更加符合自己使用习惯和实际需求的「游戏规则」。&lt;a href=&quot;https://sspai.com/post/75695&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [用 Tasker 实现一键分享保存哔哩哔哩视频封面](https://sspai.com/prime/story/tasker-bilibili-cover-image) | Wed Sep 14 2022 7:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文介绍了如何使用 Android 平台的自动化工具 Tasker 一键保存哔哩哔哩视频封面图，并简单解析了原理配置以及拓展玩法。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/tasker-bilibili-cover-image&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🤭 [从软硬协同到「不思进取」的资本：iPhone 14 Pro 对「高端产品」的启示](https://sspai.com/post/75630) | Wed Sep 14 2022 2:31 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75630&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [獭可派 | 你应该拥有一个更先进的充电头](https://sspai.com/post/75453) | Wed Sep 14 2022 2:06 AM 
+- 🥸 [獭可派 | 你应该拥有一个更先进的充电头](https://sspai.com/post/75453) | Wed Sep 14 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
     少数派PRIME订阅会员特惠价：¥209，下单时自动减免。少数派PRIME订阅会员特惠价：¥369，下单时自动减免。少数派PRIME订阅会员特惠价：¥139，下单时自动减免。少数派PRIME订阅会员特 ...&lt;a href=&quot;https://sspai.com/post/75453&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：Sonos 推出 Sub Mini 无线音箱、Apple 将对未认证 AirPods 进行弹窗提醒等](https://sspai.com/post/75714) | Wed Sep 14 2022 12:57 AM 
+- 🙉 [派早报：Sonos 推出 Sub Mini 无线音箱、Apple 将对未认证 AirPods 进行弹窗提醒等](https://sspai.com/post/75714) | Wed Sep 14 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
     Google 取消 Pixelbook 项目并解散开发团队，微信发布倡议抵制「无底线追星」等。&lt;a href=&quot;https://sspai.com/post/75714&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [再犹豫，到年底：iPhone 14 系列选购指南](https://sspai.com/post/75686) | Tue Sep 13 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    如果你还在犹豫是否要入手新款 iPhone，或在四款机型之间犹豫不决，那么这篇 iPhone 14 系列选购指南就是专门为你而来的。&lt;a href=&quot;https://sspai.com/post/75686&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [新赛季小组赛已经开打，我们来谈谈即将到来的欧冠改制](https://sspai.com/post/75671) | Tue Sep 13 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    深夜里开一罐啤酒，享受只有绿茵场上才能迸发的荷尔蒙。&lt;a href=&quot;https://sspai.com/post/75671&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
