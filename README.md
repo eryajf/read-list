@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美光投资150亿美元的美国芯片工厂破土动工](https://www.cnbeta.com/articles/tech/1316217.htm) | Wed Sep 14 2022 1:08 PM 
+- 🕯 [美国总统拜登将宣布投入9亿美元建设电动汽车充电站](https://www.cnbeta.com/articles/tech/1316223.htm) | Wed Sep 14 2022 2:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;白宫表示，总统乔·拜登周三将出席底特律车展，并宣布作为1万亿美元基础设施法案的一部分，批准首批9亿美元的资金用于在35个州建设电动汽车充电站。国会已拨出约50亿美元，在未来五年内发放给各州，用于在全国建立电动汽车充电网络。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [美国东北大学VR实验室成为邮件炸弹袭击的目标](https://www.cnbeta.com/articles/tech/1316221.htm) | Wed Sep 14 2022 2:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;执法官员正在调查一起针对美国东北大学虚拟现实中心的邮件炸弹袭击事件，此前一名收发室员工在周二晚上的爆炸中受伤。当局称，包裹被装在一个硬塑料箱中，打开后就被触发而引爆。&lt;/strong&gt;据CNN报道，这次袭击似乎是罪犯出于对VR技术恐惧的政治动机，因为包裹里有一张胡言乱语的纸条，攻击Meta公司首席执行官马克-扎克伯格和更广泛的增强现实设备的学术研究。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [思科前CEO钱伯斯组建创业公司Nile对前东家发起挑战](https://www.cnbeta.com/articles/tech/1316219.htm) | Wed Sep 14 2022 2:09 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在经营思科的20年里，约翰-钱伯斯将一个计算机网络新贵变成了世界上最有统治力的科技公司之一，年收入接近500亿美元，客户遍布全球。&lt;strong&gt;现在，在离开销售交换机和路由器七年之后，钱伯斯正在用一家周三将走出隐身模式的创业公司挑战他的前雇主。&lt;/strong&gt;73岁的钱伯斯与前思科开发主管潘卡伊-帕特尔（Pankaj Patel）合作创建了一家名为Nile的公司，该公司有望颠覆企业Wi-Fi的世界。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [美光投资150亿美元的美国芯片工厂破土动工](https://www.cnbeta.com/articles/tech/1316217.htm) | Wed Sep 14 2022 1:08 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，美国存储芯片公司美光科技在爱达荷州博伊西市的一座价值150亿美元的工厂周一破土动工。另外，公司还宣布另一家在美国的新工厂也即将开工，具体的将在未来几周宣布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [过去一个世纪海草减少了将近92% 恢复海地草甸刻不容缓](https://www.cnbeta.com/articles/science/1316215.htm) | Wed Sep 14 2022 12:59 PM 
+- 🎊 [过去一个世纪海草减少了将近92% 恢复海地草甸刻不容缓](https://www.cnbeta.com/articles/science/1316215.htm) | Wed Sep 14 2022 12:59 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据英国《新科学家》网站报道，海草被誉为自然保护的“神奇植物”和“丑小鸭”。自1980年以来，由于污染、疾病和人类干扰，世界正以每小时约14000平方米的速度失去这种海洋植物；在英国，过去一个世纪海草减少了将近92%。但海草是一种栖息地，埋碳的速度比热带雨林快35倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [“风险大过小行星撞地球” 外媒：化解火山威胁任重道远](https://www.cnbeta.com/articles/science/1316213.htm) | Wed Sep 14 2022 12:57 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国《大众科学》月刊网站近日报道，地质学家称，我们还没为火山做好准备。报道称，几百年来，人类一直惊叹于火山的巨大威力。本月早些时候，游客们蜂拥至冰岛，观看雷克雅内斯半岛裂缝喷发的熔岩。在2020年埃亚菲亚德拉冰盖火山喷发后，这个“冰火交织的国家”的旅游业出现了巨大的增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [柯伊伯带揭示太阳系演化历程](https://www.cnbeta.com/articles/science/1316211.htm) | Wed Sep 14 2022 12:54 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国《科学新闻》双周刊网站近日报道，1992年夏天，在夏威夷的一个山顶上观测星空的两位科学家发现，一个小光点正在缓慢穿过双鱼座。这个不起眼的天体———位于海王星之外10亿多公里处———将改写我们对太阳系的认识。在已知行星的轨道之外，不是一片虚空。实际上，那里潜伏着许多东西。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [韩美本周将就韩产电动汽车歧视问题展开谈判](https://www.cnbeta.com/articles/tech/1316209.htm) | Wed Sep 14 2022 12:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;韩国方面表示，韩国与美国正在加紧努力解决美国《通胀削减法案》给予韩产电动汽车歧视性待遇的问题，目的是消除双方在亚太供应链方面加强合作的任何障碍。韩国产业通商资源部通商交涉本部长安德根&lpar;Ahn Duk-geun&rpar;周三表示，韩美双方将于周五开始谈判，这是双方本月早些时候在华盛顿商定建立协商机制的一部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
