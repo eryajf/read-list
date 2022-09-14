@@ -590,19 +590,19 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [麦克房子-苹果Mac软件精品下载网站](https://iui.su/3839/) | Tue Sep 13 2022 12:19 PM 
+- 🌊 [2022 年 9 月每日分享](https://iui.su/3838/) | Wed Sep 14 2022 8:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月14日𝙒𝙋𝙎 𝙊𝙛𝙛𝙞... 
+    </details> 
+
+- 🫣 [麦克房子-苹果Mac软件精品下载网站](https://iui.su/3839/) | Tue Sep 13 2022 12:19 PM 
     <details><summary>展开描述 ...</summary> 
     「麦克房子」macfz 是一个 mac软件「免费」精品下载站，网站无套路、无广告、永久免费下载。资源分享方式为百度网盘 + 蓝奏网盘 +天翼云盘 ，简单就可以「高速」下载 mac 各类软件。网站... 
     </details> 
 
-- 🫣 [TVBox安卓盒子app](https://iui.su/175/) | Tue Sep 13 2022 7:01 AM 
+- 🌜 [TVBox安卓盒子app](https://iui.su/175/) | Tue Sep 13 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
     之前推荐过的猫影视TV已经宣布停止维护，可用TVBox替代，TVBox集成了猫影视TV的大部分优点，原猫影视TV接口设置可无痛转移TVBox9月13日 增加了小苹果版，该版本内置资源更傻瓜化。9... 
-    </details> 
-
-- 🌜 [2022 年 9 月每日分享](https://iui.su/3838/) | Tue Sep 13 2022 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月13日奇迹秀工具箱、l... 
     </details> 
 
 - 🏊 [Ant Design Landing](https://iui.su/3000/) | Mon Sep 12 2022 7:52 AM 
