@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：Sonos 推出 Sub Mini 无线音箱、Apple 将对未认证 AirPods 进行弹窗提醒等](https://sspai.com/post/75714) | Wed Sep 14 2022 12:57 AM 
+- 👹 [从软硬协同到「不思进取」的资本：iPhone 14 Pro 对「高端产品」的启示](https://sspai.com/post/75630) | Wed Sep 14 2022 2:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75630&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [獭可派 | 你应该拥有一个更先进的充电头](https://sspai.com/post/75453) | Wed Sep 14 2022 2:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    少数派PRIME订阅会员特惠价：¥209，下单时自动减免。少数派PRIME订阅会员特惠价：¥369，下单时自动减免。少数派PRIME订阅会员特惠价：¥139，下单时自动减免。少数派PRIME订阅会员特 ...&lt;a href=&quot;https://sspai.com/post/75453&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🤭 [派早报：Sonos 推出 Sub Mini 无线音箱、Apple 将对未认证 AirPods 进行弹窗提醒等](https://sspai.com/post/75714) | Wed Sep 14 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
     Google 取消 Pixelbook 项目并解散开发团队，微信发布倡议抵制「无底线追星」等。&lt;a href=&quot;https://sspai.com/post/75714&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [再犹豫，到年底：iPhone 14 系列选购指南](https://sspai.com/post/75686) | Tue Sep 13 2022 9:30 AM 
+- 🥸 [再犹豫，到年底：iPhone 14 系列选购指南](https://sspai.com/post/75686) | Tue Sep 13 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     如果你还在犹豫是否要入手新款 iPhone，或在四款机型之间犹豫不决，那么这篇 iPhone 14 系列选购指南就是专门为你而来的。&lt;a href=&quot;https://sspai.com/post/75686&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新赛季小组赛已经开打，我们来谈谈即将到来的欧冠改制](https://sspai.com/post/75671) | Tue Sep 13 2022 8:00 AM 
+- 🙉 [新赛季小组赛已经开打，我们来谈谈即将到来的欧冠改制](https://sspai.com/post/75671) | Tue Sep 13 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     深夜里开一罐啤酒，享受只有绿茵场上才能迸发的荷尔蒙。&lt;a href=&quot;https://sspai.com/post/75671&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [谈不上多有用，但就是喜欢：从实用主义走向恋物情结](https://sspai.com/post/75666) | Tue Sep 13 2022 6:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75666&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [iOS 16 正式版来了，升级后先试试这些新功能](https://sspai.com/post/75688) | Tue Sep 13 2022 3:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    少数派为你整理了新版系统中值得关注的新功能和新特性，如果你升级新系统之后想了解有哪些新功能，这篇文章能够帮助到你。&lt;a href=&quot;https://sspai.com/post/75688&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
