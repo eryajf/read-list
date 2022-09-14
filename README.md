@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [两个核电项目正式获核准：总投资或达800亿元](https://www.cnbeta.com/articles/tech/1316239.htm) | Wed Sep 14 2022 3:34 PM 
+- 🕯 [当年人人都嫌的中国键盘 怎么就逆袭了国际大厂？](https://www.cnbeta.com/articles/tech/1316255.htm) | Wed Sep 14 2022 4:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月13日，&lt;strong&gt;已经列入规划、条件成熟的福建漳州二期、广东廉江一期两个核电项目，正式获得国家核准。&lt;/strong&gt;据悉，福建漳州二期属于中核集团，两台机组，采用“华龙一号”三代核电技术。广东廉江一期属于国家电投集团，也是两台机组，采用CAP1000三代核电技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;知乎大V @Domino 清楚记得，2020 年双十一前后，向他咨询键盘的人兴趣风向明显变了。在这之前，@Domino 如果说了一个非 Cherry 轴的机械键盘，咨询者会问&amp;nbsp;“&amp;nbsp;能不能给我推荐 Cherry 轴的 ”？&lt;strong&gt;如今很多咨询者会说： “ 听说某某国产轴很火，这个怎么样？” &lt;/strong&gt;类似的认可，互联网上比比皆是。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《索尼克：未知边境》全新预告 11月8日登陆全平台](https://hot.cnbeta.com/articles/game/1316237.htm) | Wed Sep 14 2022 3:02 PM 
+- 💼 [iPhone 14系列明天发售：经销商证实Pro版最高溢价千元](https://www.cnbeta.com/articles/tech/1316253.htm) | Wed Sep 14 2022 4:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;世嘉《索尼克：未知边境》公布了全新的预告，该作预计在11月8日正式发售，登陆Xbox Series X|S、Xbox One、PS5、PS4、Switch和PC。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《索尼克：未知边境》全新预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，iPhone 14系列将于9月16日正式发售。本次发售三款机型，&lt;strong&gt;分别是iPhone 14、iPhone 14 Pro和iPhone 14 Pro Max，起售价分别是5999元、7999元和8999元。而iPhone 14 Plus会在10月7日发售，起售价6999元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [多家对冲基金预测马斯克将输掉官司 将以略低的价格收购推特](https://www.cnbeta.com/articles/tech/1316235.htm) | Wed Sep 14 2022 2:59 PM 
+- 💂 [首发卫星通信 华为李小龙：Mate 50使用北斗GEO卫星](https://www.cnbeta.com/articles/tech/1316251.htm) | Wed Sep 14 2022 4:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然Twitter“吹哨人”的爆料为特斯拉CEO埃隆·马斯克（Elon Musk）放弃收购Twitter增加了筹码，但包括Greenlight Capita和Pentwater Capital Management在内的多家对冲基金都认为，马斯克最终不会如愿以偿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在Mate 50系列发布会上，华为“捅破天”技术正式亮相：&lt;strong&gt;华为Mate 50系列首发支持北斗卫星消息硬件能力。&lt;/strong&gt;不过Mate 50只能支持单向的卫星通信，也就是说只能发不能收。近日，有网友咨询华为手机产品线副总裁李小龙：请问华为的信息接收用的是北斗的GEO还是IGSO卫星？北斗的GEO负责短报文，IGSO负责SAR下行链路，走的是两套不同的系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉柏林超级工厂扩建计划的投票被无限期推迟](https://www.cnbeta.com/articles/tech/1316233.htm) | Wed Sep 14 2022 2:58 PM 
+- 🚀 [台风“梅花”登陆我国：狂风大作 暴雨横飞](https://www.cnbeta.com/articles/tech/1316249.htm) | Wed Sep 14 2022 4:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，针对特斯拉在柏林附近扩建工厂的计划，德国地方当局已无限期推迟了投票。德国格林海德市（Gruenheide）市长阿恩·克里斯蒂安尼（Arne Christiani）向媒体表示，格伦海德市议会在本月的会议上将不会讨论该计划。特斯拉德国工厂位于格伦海德市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年第12号台风“梅花”（强台风级）的中心今天（14日）晚上8点30分前后在浙江省舟山普陀沿海登陆，登陆时中心附近最大风力有14级（42米/秒），中心最低气压为960百帕。。从现场拍摄的视频看，&lt;strong&gt;台风带来狂风大作，路灯剧烈摇晃，暴雨在镜头前横飞，不少树木被刮断、广告牌被刮飞，积水淹过大腿。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [EA确认《模拟人生4》10月18日起变免费游戏](https://hot.cnbeta.com/articles/game/1316231.htm) | Wed Sep 14 2022 2:58 PM 
+- 🎊 [提前激活iPhone 14每台罚款20万 A16现场跑分展示](https://www.cnbeta.com/articles/tech/1316247.htm) | Wed Sep 14 2022 4:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;游戏零售网站Instant Gaming爆料，据EA内部人士透露，&lt;strong&gt;《模拟人生4》将于10月8日起成为免费游戏，官方将于明日5点宣布这一消息。&lt;strong&gt;EA Origin商店现已确认该作将于10月18日免费提供！&lt;/strong&gt;感兴趣的玩家届时可以前往领取。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨晚有网友在抖音上晒出了iPhone 14 Pro Max 1TB暗紫色版本的真机，随后这位网友直播了激活这台手机的过程，并且进行了安兔兔跑分，跑分仅为97万。&lt;strong&gt;随后有网友表示，这A16跑分远没有预期的强，这个不上百万的分数也是差点意思。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
