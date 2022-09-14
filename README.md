@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [消息称腾讯音乐计划最早下周在香港上市](https://www.cnbeta.com/articles/tech/1315977.htm) | Wed Sep 14 2022 4:41 AM 
+- 🕯 [Astrobotic通过收购Masten实现了空间技术与相关业务的拓展](https://www.cnbeta.com/articles/science/1316007.htm) | Wed Sep 14 2022 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据报道，知情人士透露，腾讯音乐最快将在下周启动在港交所二次上市。&lt;/strong&gt;知情人士表示，腾讯音乐正在与顾问合作筹备其第二次上市事宜，相关活动最早可能在未来几天开始。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;总部位于匹兹堡的 Astrobotic，刚刚宣布接手在 7 月底申请破产保护的 Masten Space Systems 。&lt;strong&gt;本月早些时候，Astrobotic 在特拉华州破产法庭以 450 万美元成功收购了其资产&lt;/strong&gt; —— 涵盖了 Masten 的大量空间技术组合，比如垂直起降火箭和推进测试中心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [广西一水库被放生有害鱼种清道夫：原产南美、国内几乎无天敌](https://www.cnbeta.com/articles/tech/1315975.htm) | Wed Sep 14 2022 4:40 AM 
+- 💼 [Meta日本办公室内部公开 最新媒体探馆多图来袭](https://www.cnbeta.com/articles/tech/1316005.htm) | Wed Sep 14 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;又有人放生外来物种了，而且是在国内几乎没有天敌的那种。据极目新闻报道，9月10日中秋节，有多人带着“清道夫”鱼在广西百色市澄碧湖水库放生。网传视频显示，&lt;strong&gt;有人乘船在水中放生数条“清道夫”，边放生边说“见者都有福气”&lt;/strong&gt;，目前，百色市公安部门已介入调查，案件正在处理当中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;原脸书的Meta公司近期刚刚开放其新的日本办公室内部，有外媒记者火速探馆，一起来开开眼吧。Meta公司日本分部刚刚于2021年秋天搬进了新区，员工陆续进驻，如今刚刚一年时间官方宣布对外开放内部情景，一起跟随外媒记者的镜头感受下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华为Mate50 Pro首发昆仑玻璃 实测砸核桃：一口气三个 结果完好无损](https://www.cnbeta.com/articles/tech/1315973.htm) | Wed Sep 14 2022 4:39 AM 
+- 💂 [一个非正常的大西洋飓风季节](https://www.cnbeta.com/articles/science/1316003.htm) | Wed Sep 14 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在Mate50发布会上，华为推出了昆仑玻璃，除了是Mate 50 Pro昆仑破晓、昆仑霞光两款素皮版的正面标配，华为还推出了Mate系列/P系列的旧手机更换昆仑玻璃服务。那么在“实战”中，这款玻璃的素质究竟如何。&lt;strong&gt;继整机摔落后，有测试者挑战昆仑玻璃砸核桃，结果连砸三颗，手机屏幕完好无损，经受住了考验。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;从专门研究天气、海洋和大气的美国机构--国家海洋和大气管理局&lpar;NOAA&rpar;到最受推崇的飓风专业人士都预测这个季节的活动会高于正常或远高于正常。&lt;/strong&gt;像NOAA对2022年大西洋飓风季节（从6月1日到11月30日）的展望，预测有65%的机会会高于正常的季节，25%的机会是接近正常的季节，10%的机会是低于正常的季节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [TechTour 2022：英特尔披露VPU时间表 13代芯片首试 14代全面集成](https://www.cnbeta.com/articles/tech/1315971.htm) | Wed Sep 14 2022 4:29 AM 
+- 🚀 [iPhone 14/14 Plus过时？苹果代码承认是上一代产品](https://www.cnbeta.com/articles/tech/1316001.htm) | Wed Sep 14 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由 TECHnalysis 的 @bobodtech 在 Twitter 上分享的内容可知：&lt;strong&gt;英特尔即将在 13 代 Raptor Lake 移动芯片上引入一项全新的 AI Boost 技术，并且计划在 14 代 Meteor Lake CPU 上全面集成。&lt;/strong&gt;此前，我们已得知该公司在 14 代芯片上配备适用于各种 AI 任务的多功能处理单元。但在 TechTour 2022 活动期间，英特尔证实了该技术将在 13 代芯片上首次亮相。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;和以往不同，今年iPhone 14系列迎来了巨大的改变。Pro系列万年不变的刘海屏变为了挖孔屏设计，并玩出了“灵动岛”花样，祖传的1200万像素也升级为了4800万。新机变革可谓是“史诗级”的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [我科研团队开发隔离锚定策略原位合成铁单原子催化剂](https://www.cnbeta.com/articles/science/1315969.htm) | Wed Sep 14 2022 4:26 AM 
+- 🎊 [加密货币寒冬里，多家金融巨头成立交易所EDX Markets](https://www.cnbeta.com/articles/tech/1315999.htm) | Wed Sep 14 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月14日，记者从中国科学院生物能源与过程研究所获悉，该研究所梁汉璞研究员带领的能源材料与纳米催化研究组通过一种简单的隔离锚定策略，制备了多孔氮掺杂碳负载的铁单原子催化剂，相关研究成果近期发表在《碳》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;包括 Charles Schwab &lpar;SCHW&rpar;、Citadel Securities 和 Fidelity Digital Assets 在内的金融巨头宣布启动加密货币交易所 EDX Markets&lt;/strong&gt;，这是华尔街在加密货币寒冬仍在推进数字资产的最新证据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
