@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一文带你深入理解Hashtable](https://juejin.cn/post/7142889493576548365) | Tue Sep 13 2022 3:41 PM 
+- 🤗 [【笔记】尝试使用代码偏做沙盒逃逸分析](https://juejin.cn/post/7143050391591223332) | Wed Sep 14 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第5篇文章，点击查看活动详情” 概述 HashTable是jdk 1.0中引入的产物，基本上现在很少使用了，但是会在面试中经常被问到，你都知道吗 
+    代码片段 沙盒环境代码逃逸分析，https://code.juejin.cn/pen/7143047784923398184 
     </details> 
 
-- 🎡 [Android 官方模块化方案解读](https://juejin.cn/post/7142884855091560479) | Tue Sep 13 2022 3:24 PM 
+- 🎡 [活动回顾 | 基于英特尔技术的端到端音视频优化](https://juejin.cn/post/7143038949135482916) | Wed Sep 14 2022 1:19 AM 
     <details><summary>展开描述 ...</summary> 
-    快速了解 Android 官方模块化方案。还有一些你可能不知道的实用小技巧。还有官方模板快速搭建模块化项目。 
+    2022网易音视频技术大会回顾，英特尔技术专家张立宇分享的《基于英特尔技术的端到端音视频优化》，了解英特尔在音视频领域的实践。 
     </details> 
 
-- 🕯 [【云原生】Kubernetes CRD 详解（Custom Resource Definition）](https://juejin.cn/post/7142884515814309924) | Tue Sep 13 2022 3:20 PM 
+- 🕯 [基于 iframe 的微前端框架 —— 擎天](https://juejin.cn/post/7143038795816910878) | Wed Sep 14 2022 1:18 AM 
     <details><summary>展开描述 ...</summary> 
-    一、概述 CRD 是 v1.7 + 新增的无需改变代码 就可以扩展 Kubernetes API 的机制，用来管理自定义对象。它实际上是ThirdPartyResources（TPR） 的升级版本，而 
+    基于全屏iframe的微前端框架--擎天，解决了iframe UI不同步、URL不同步、数据不共享的难题，并充分发挥了iframe作为页面容器的优势，实现了父子应用异步加载、子应用瞬间切换的能力，从而 
     </details> 
 
-- 🚀 [React 组件性能优化最佳实践](https://juejin.cn/post/7142880902551437342) | Tue Sep 13 2022 3:06 PM 
+- 🚀 [云原生下微前端如何做灰度发布](https://juejin.cn/post/7143032174600519710) | Wed Sep 14 2022 12:54 AM 
     <details><summary>展开描述 ...</summary> 
-    React 组件性能优化最佳实践 React 组件性能优化的核心是减少渲染真实 DOM 节点的频率，减少 Virtual DOM 比对的频率。如果子组件未发生数据改变不渲染子组件。 
+    为什么做灰度发布：在不影响用户正常使用工作的前提下，引入小部分的用户来使用新版本，帮助我们测试用户对于新版本的接受程度；避免决策失误所产生的问题影响到大部分甚至全量用户，保证了产品平滑过渡。 
     </details> 
 
-- 💪 [rollback-only异常令我对事务有了新的认识](https://juejin.cn/post/7142880731792932900) | Tue Sep 13 2022 3:05 PM 
+- 💪 [规范升级 NPM 包](https://juejin.cn/post/7143025612267978760) | Wed Sep 14 2022 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    深入分析为何会产生rollback-only异常，以及对应的解决方法，顺带了解了同类自调用导致事务失效的原因和解决方法。 
+    在日常工作中，当组件跨项目使用时，我们往往会选择把组件抽成 npm 包。那么在 npm 开发以及发布的过程中有什么需要注意的事项吗？本文将从我自己的角度，来为大家介绍一下我认为的一些需要大家注意 
     </details> 
 <!-- juejin:END -->
 ### 少数派
