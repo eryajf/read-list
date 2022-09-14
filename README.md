@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [在人生中你有没有遇到过这样一种情况，在某个时间节点，你赌一把，会得到巨大的回报，但风险也是巨大的。不赌可以得到完全 0 风险的低收益。你会怎么选择？](https://www.v2ex.com/t/880113#reply1) | Wed Sep 14 2022 4:16 PM
-- 🤗 [互联网中的一些风险](https://www.v2ex.com/t/880112#reply1) | Wed Sep 14 2022 4:11 PM
-- 🎭 [想要充值信仰，国内买 Pixel 有什么需要注意的吗？](https://www.v2ex.com/t/880090#reply4) | Wed Sep 14 2022 2:18 PM
-- 🥷 [从安卓 app 界面取列表值，有什么好的工具？](https://www.v2ex.com/t/880088#reply0) | Wed Sep 14 2022 2:11 PM
-- 🐵 [苏宁要开始 996 了，凛冬将至](https://www.v2ex.com/t/880086#reply22) | Wed Sep 14 2022 2:00 PM<!-- v2ex:END -->
+- 🥸 [心累， ssh 自定义文件名之后到底应该做什么](https://www.v2ex.com/t/880114#reply3) | Wed Sep 14 2022 4:31 PM
+- 🤗 [在人生中你有没有遇到过这样一种情况，在某个时间节点，你赌一把，会得到巨大的回报，但风险也是巨大的。不赌可以得到完全 0 风险的低收益。你会怎么选择？](https://www.v2ex.com/t/880113#reply8) | Wed Sep 14 2022 4:16 PM
+- 🎭 [互联网中的一些风险](https://www.v2ex.com/t/880112#reply3) | Wed Sep 14 2022 4:11 PM
+- 🥷 [想要充值信仰，国内买 Pixel 有什么需要注意的吗？](https://www.v2ex.com/t/880090#reply5) | Wed Sep 14 2022 2:18 PM
+- 🐵 [从安卓 app 界面取列表值，有什么好的工具？](https://www.v2ex.com/t/880088#reply0) | Wed Sep 14 2022 2:11 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
