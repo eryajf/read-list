@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [exping v1.2.2 - 全新Emoji，更多Emoji - 标记你的品味地‪图‬](https://xinquji.com/posts/179424?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:50 AM 
+- 👀 [colorSS - 生成随机 CSS 调色板并获得灵感](https://xinquji.com/posts/179504?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     全新Emoji，更多Emoji - 标记你的品味地‪图‬  
+     生成随机 CSS 调色板并获得灵感  
     </details> 
 
-- 🥷 [Lunchbox Open - 开放式集成网络以扩展餐厅运营](https://xinquji.com/posts/179481?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:40 AM 
+- 🥷 [Makers Support Makers - 承诺支持以获得支持](https://xinquji.com/posts/179503?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     开放式集成网络以扩展餐厅运营  
+     承诺支持以获得支持  
     </details> 
 
-- 💼 [Edge Flags by DevCycle - 边缘驱动的功能标志在全球范围内即时交付](https://xinquji.com/posts/179480?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:38 AM 
+- 💼 [Vidu Personalized Video - 自动生成超个性化的销售视频](https://xinquji.com/posts/179502?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     边缘驱动的功能标志在全球范围内即时交付  
+     自动生成超个性化的销售视频  
     </details> 
 
-- 🦅 [HeyDays - 一次播放 1-5 分钟的直播](https://xinquji.com/posts/179479?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:38 AM 
+- 🦅 [Notes app with keyboard for Fitbit OS - 适用于 Fitbit Versa + Sense 手表的带键盘笔记应用程序](https://xinquji.com/posts/179501?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     一次播放 1-5 分钟的直播  
+     适用于 Fitbit Versa + Sense 手表的带键盘笔记应用程序  
     </details> 
 
-- 😺 [Maya AI - 从非结构化数据中创造机会](https://xinquji.com/posts/179478?utm_campaign=xinquji-rss) | Wed Sep 14 2022 6:36 AM 
+- 😺 [Kona with HRIS - 使用 HRIS 数据提升团队幸福感](https://xinquji.com/posts/179500?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     从非结构化数据中创造机会  
+     使用 HRIS 数据提升团队幸福感  
     </details> 
 <!-- xinquji:END -->
