@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [即刻转换 — 格式转换软件](https://xclient.info/s/6fe40750-ce6f-4090-2cfa-6595c0b89ff8.html) | Tue Sep 13 2022 2:01 AM 
+- 🦏 [TextMan 1.9 OCR文字识别](https://xclient.info/s/textman.html) | Wed Sep 14 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
-    即刻转换是一款功能全面的格式转换软件，支持转换几乎所有主流的多媒体文件格式 
+    TextMan是Mac电脑上的一款OCR文字识别软件。再也不用为网站、PDF、图片或系统用户界面上无法选择的文字而烦恼了。 
     </details> 
 
--  [System Toolkit 5.8.1 系统工具包](https://xclient.info/s/system-toolkit.html) | Tue Sep 13 2022 1:39 AM 
+-  [zFuse Pro 1.6.128 视频播放器](https://xclient.info/s/zfuse.html) | Wed Sep 14 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
-    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
+    zFuse Pro 是Mac电脑上的一款简单而强大的视频播放器。 
     </details> 
 
-- ⚗️ [Squeezer 2.5.1 图片压缩工具](https://xclient.info/s/squeezer.html) | Tue Sep 13 2022 1:37 AM 
+- ⚗️ [TinkerTool System 7.9.220913 系统深度设置维护工具](https://xclient.info/s/tinkertool-system.html) | Wed Sep 14 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
-    Squeezer是Mac平台上的一款多功能压缩工具。 
+    TinkerTool System 是一款Mac平台的系统深度设置维护工具，以帮助你修改一些系统隐藏的属性,包括系统界面字体,是否不显示隐藏文件等 
     </details> 
 
-- 🔥 [SpeakMe 2.0 文字转音频](https://xclient.info/s/speakme.html) | Tue Sep 13 2022 1:37 AM 
+- 🔥 [iShowU Instant 1.4.12 实时屏幕录制软件](https://xclient.info/s/ishowu-instant.html) | Wed Sep 14 2022 12:51 AM 
     <details><summary>展开描述 ...</summary> 
-    SpeakMe 是一款一键文字转音频工具，可以将任何语言的文本转换成音频。它还可以调节语速导出音频，一键操作非常方便。 
+    iShowU Instant是一款macOS平台的功能强大的屏幕录像软件，可以帮助我们在mac电脑上实现多种录像需求，支持游戏录制、屏幕录制、摄像头录制，还可以帮助用户对视频进行编辑。 
     </details> 
 
-- 🌋 [Rectangle Pro 2.5.2 窗口管理](https://xclient.info/s/rectangle-pro.html) | Tue Sep 13 2022 1:30 AM 
+- 🌋 [QuartzCode 1.67.1 动画制作开发工具](https://xclient.info/s/quartzcode.html) | Wed Sep 14 2022 12:50 AM 
     <details><summary>展开描述 ...</summary> 
-    Rectangle是Mac平台上的一款窗口管理应用，可以使用键盘快捷键移动和调整macOS中的窗口大小。 
+    可以将制作的动画生成为Objective-C以及Swift code代码 
     </details> 
 <!-- xclient:END -->
 
