@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果考虑年底前为App Store增加新广告位](https://www.cnbeta.com/articles/tech/1315781.htm) | Tue Sep 13 2022 11:21 PM 
+- 🕯 [苹果将为iPhone 14带来首日iOS 16 Bug修复更新](https://www.cnbeta.com/articles/tech/1315901.htm) | Wed Sep 14 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;很快美国就会迎来年底购物旺季，苹果准备在App Store内增加新广告位让开发者购买，也就是说年底前可能就会增加新广告位。周二时，苹果向开发者发送消息，邀请他们参加线上会议，鼓励他们购买广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据 @AppleSWUpdates 推特所述：&lt;strong&gt;苹果公司将于本周五的首发交付日，为 iPhone 14 / 14 Pro 用户带来包含 bug 修复的 iOS 16 软件更新。&lt;/strong&gt;截图文字显示：“此更新旨在修复 iPhone 上的错误，包括在 iPhone 14 Pro Max 上横向放大时，可能导致某些照片变得柔化的问题”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [直播荐股产业链调查：“假股神”是如何精准收割“真粉丝”的？](https://www.cnbeta.com/articles/tech/1315779.htm) | Tue Sep 13 2022 11:20 PM 
+- 💼 [科幻作家韩松自称得了老年痴呆症：每天靠吃十几种药撑着 常识都要百度](https://www.cnbeta.com/articles/tech/1315899.htm) | Wed Sep 14 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知名游资“溧阳路孙哥”（注：假冒）在直播间卖力吆喝，鼓动用户加入粉丝团，并保证付费成为VIP会员就送牛股；依靠“打首板”策略名声大噪的游资“北京炒家”（注：假冒）主动给粉丝发私信，承诺“带你炒股带你飞”；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月13日晚上，科幻作家韩松称自己得了老年痴呆症，每天靠吃十几种药撑着，也辞去了中国科普作协科幻专业委员会主任的职务。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国内游戏公司借收购布局海外市场](https://hot.cnbeta.com/articles/game/1315777.htm) | Tue Sep 13 2022 11:18 PM 
+- 💂 [台风“梅花”来袭 上海虹桥、浦东两机场“绑飞机”](https://www.cnbeta.com/articles/tech/1315897.htm) | Wed Sep 14 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;13日晚间，9月国产网络游戏版号审批信息发布。网易游戏再次榜上有名，腾讯旗下子公司的游戏也位列其中。上海证券报记者关注到，近期，头部游戏厂商腾讯与网易在海外动作频频，这在“降本增效”大趋势中尤为引人注目。今年以来，全球游戏行业风云乍起，微软欲鲸吞老牌游戏公司动视暴雪，拉开了全球游戏领域新一轮洗牌的大幕。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1315777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月13日，台风“梅花”逼近，影响华东地区航班运行。截至19时，东航取消13日至15日虹桥等进出港482个航段。&lt;strong&gt;为确保飞机系留及转场工作，东航安排137架飞机在外避台风，13日宁波、台州、舟山、温州机场不安排过夜及停场飞机。14日，浦东、虹桥两机场将系留115架飞机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [富士X-H2发布：突破4000万像素 实拍样片太绝了](https://www.cnbeta.com/articles/tech/1315775.htm) | Tue Sep 13 2022 11:13 PM 
+- 🚀 [NASA局长：SpaceX曾被嗤之以鼻 却比波音“取得更多成就”](https://www.cnbeta.com/articles/tech/1315895.htm) | Wed Sep 14 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，&lt;strong&gt;富士正式发布了X系列的最新旗舰级无反相机X-H2，成为全球首款突破4000万像素的APS-C画幅数码相机。&lt;/strong&gt;该相机配备全新背照式4020万像素X-Trans CMOS 5 HR传感器和高速X-Processor 5处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国宇航局局长比尔·尼尔森近日接受采访表示，&lt;strong&gt;当埃隆·马斯克领导的SpaceX公司与波音公司对抗时，批评者对它不屑一顾，但实际上SpaceX取得了更多成就。&lt;/strong&gt;“每个人都对SpaceX嗤之以鼻，还说‘哦，波音是一家传统公司’，好吧，猜猜谁将在第一次试飞后进行第六次飞行，猜猜谁还停在地面上？”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NASA修复Artemis I泄漏问题，预计9月27日展开下一次发射尝试](https://www.cnbeta.com/articles/science/1315773.htm) | Tue Sep 13 2022 11:13 PM 
+- 🎊 [美国科技从业者抱怨薪资跟不上通胀涨幅：未来六个月不涨薪就跳槽](https://www.cnbeta.com/articles/tech/1315893.htm) | Wed Sep 14 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;如果一切顺利，NASA的新太空发射系统&lpar;SLS&rpar;将可以在9月27日周五从佛罗里达州的肯尼迪航天中心首次发射。&lt;/strong&gt;据悉，该航天局已经修复了导致9月3日发射失败的泄漏，现在正努力在9月21日前进行推进剂装载演示以测试问题是否得到解决，进而为27日的发射尝试做好准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1315773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月14日早间消息，据报道，&lt;strong&gt;美国和全球通货膨胀居高不下，许多科技业从业者抱怨称，他们的薪资已经跟不上通货膨胀的涨幅。&lt;/strong&gt;美国科技公司面临来自员工的新压力，那就是批准员工们居家办公，降低生活成本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1315893.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
