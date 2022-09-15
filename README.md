@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google Photos重新设计Memories功能：优化交互 引入新功能](https://www.cnbeta.com/articles/tech/1316411.htm) | Thu Sep 15 2022 2:15 AM 
+- 🕯 [Intel XeSS实测结果出色：《古墓丽影：暗影》帧率提升88%](https://www.cnbeta.com/articles/tech/1316475.htm) | Thu Sep 15 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google Photos 正在重新设计其 Memories 功能，以便于更好地显示你的珍贵瞬间，并提供全新的交互体验、引入新的照片类型、优化分享体验。一些创意更新还引入了新的拼贴编辑器和样式功能，以帮助您管理您的图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着游戏画质和对硬件要求的不断上升，NVIDIA和AMD都推出了自己的超采样技术，而开始涉足独立显卡领域的Intel也拿出了自己的XeSS技术。今天，&lt;strong&gt;XeSS的首个技术测试结果终于公布，该技术在测试中取得了不错的成果。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英特尔ARM英伟达力推规范草案，想统一AI数据交换格式](https://www.cnbeta.com/articles/tech/1316409.htm) | Thu Sep 15 2022 2:09 AM 
+- 💼 [苹果超越特斯拉成头号做空目标 为疫情爆发以来首次](https://www.cnbeta.com/articles/tech/1316473.htm) | Thu Sep 15 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间周三，&lt;strong&gt;芯片公司英特尔、ARM和英伟达共同发布了一项所谓人工智能通用交换格式的规范草案，目的是使机器处理人工智能的过程速度更快、更高效。&lt;/strong&gt;英特尔、ARM和英伟达在草案中推荐人工智能系统使用8位的FP8浮点处理格式。他们表示，FP8浮点处理格式有可能优化硬件内存使用率，从而加速人工智能的发展。这种格式同时适用于人工智能训练和推理，有助于开发速度更快、更高效的人工智能系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316409.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据金融分析公司S3 Partners的数据，苹果现在成为华尔街空头们的头号目标，自新冠疫情爆发以来首次超过特斯拉。截至周三，苹果的未平仓空头头寸为184亿美元，而特斯拉的空头头寸为174亿美元。S3 Partners的报告称，自2020年4月以来，特斯拉已连续864天是头号做空目标，直到被苹果取代。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14 Pro &amp; Pro Max评测：灵动岛就是下一个潮流？](https://www.cnbeta.com/articles/tech/1316407.htm) | Thu Sep 15 2022 2:07 AM 
+- 💂 [“瘦身”的微信键盘：界面简洁无广告 隐私保护藏深意](https://www.cnbeta.com/articles/tech/1316471.htm) | Thu Sep 15 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;依旧是手术级不锈钢边框，依旧是磨砂玻璃+经典的三摄造型，从iPhone 12 Pro系列看到现在已经非常熟悉，只不过当你点亮屏幕，会收获一丝额外的&lt;strong&gt;灵动&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，腾讯更新了独立的“微信键盘”Beta 0.9.1测试版App，这是微信官方开发的中文输入法，目前只开放Android测试版本。记者发现与月初上线的0.9.0版本相比，0.9.1测试版安装包进行了瘦身，安装包大小由之前155.5MB减至118.7MB，减少了近37MB。这让其之前备受诟病的占用空间过大问题得到了一定解决，但作为小版本的更新并未加入新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [显卡暴跌还是卖不动 电商开始买一张送一台显示器](https://www.cnbeta.com/articles/tech/1316405.htm) | Thu Sep 15 2022 2:05 AM 
+- 🚀 [iPhone 14 Pro息屏还能显示地图导航等 耗电极低](https://www.cnbeta.com/articles/tech/1316469.htm) | Thu Sep 15 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA和AMD不少显卡的价格已经破发，尤其是相对高端的型号。然而，即便如此，销售情况似乎并不理想。北美电商新蛋挠头想出了新办法，&lt;strong&gt;现在下单购买RTX 3060和RTX 3070显卡，将免费送一台显示器，分别是24英寸1080P和27英寸2K。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于iPhone 14 Pro新机，大家最关心的主要就是三个方面：全天候显示、灵动岛、4800万像素。目前全网评测解禁后，大家主要测试的也就是这三点。其中有海外博主针对全天候显示进行了全方位的测试，&lt;strong&gt;发现iPhone 14 Pro可能是手机上最强的息屏显示功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究详细介绍父母安抚哭泣婴儿的最佳方式](https://www.cnbeta.com/articles/science/1316403.htm) | Thu Sep 15 2022 2:04 AM 
+- 🎊 [苹果官网长时间出现版式错乱以及403错误](https://www.cnbeta.com/articles/tech/1316467.htm) | Thu Sep 15 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;试图让哭闹的婴儿安静下来并入睡，这可能会让人感到压力和疲惫。&lt;strong&gt;一项新研究表明，为了获得最佳的成功机会，父母应该把婴儿抱起来走动5分钟。&lt;/strong&gt;在这项研究中，日本理化学研究所脑科学中心的科学家们使用了一台婴儿规模的心电图机和录像机来监测总共21名婴儿的心率和行为变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;明天就是iPhone 14系列正式发售的日子了，抢了首批的朋友们即将用上新机。&lt;strong&gt;然而就在上市的前一天，苹果官网出现故障。&lt;/strong&gt;&lt;/strong&gt;目前所有网络所有设备下，打开苹果官网都显示错误，或者提示403代码，基本所有页面都打不开。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
