@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [KubeSphere 社区双周报 | 2022-07-22](https://juejin.cn/post/7143444388306223141) | Thu Sep 15 2022 3:32 AM 
+- 🤗 [Apache HTTP server benchmarking tool](https://juejin.cn/post/7143447860536115213) | Thu Sep 15 2022 3:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    Apache Benchmark Tool ab 是 apache http server 基准测试工具，它可以帮助我们去了解当前服务的表现，如每秒请求数等。下面是 ab 对应的所有 options  
+    </details> 
+
+- 🎡 [KubeSphere 社区双周报 | 2022-08-19](https://juejin.cn/post/7143447102905909285) | Thu Sep 15 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
     KubeSphere 从诞生的第一天起便秉持着开源、开放的理念，并且以社区的方式成长，如今 KubeSphere 已经成为全球最受欢迎的开源容器平台之一。这些都离不开社区小伙伴的共同努力，你们为 K 
     </details> 
 
-- 🎡 [php 调用grpc的安装过程](https://juejin.cn/post/7143433324457902116) | Thu Sep 15 2022 2:49 AM 
+- 🕯 [ECMAScript 2023将新增这9个数组方法](https://juejin.cn/post/7143445585784209445) | Thu Sep 15 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-    最近几天在搞golang的grpc，跑通之后想用php作为客户端调用一下grpc服务，结果拉了，一个php的grpc服务安装，搞了好几天，总算搞定了。对了，搞定的是linux下的，自己本地是M1 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第9篇文章，点击查看活动详情” 大家好，我是 CUGGZ。 ECMAScript 规范每年都会更新一次，正式标准化 JavaScript 语言的 
     </details> 
 
-- 🕯 [深入理解web安全攻防策略、基于 React Native 的动态列表方案探索、vivo 全球商城：电商平台通用取货码设计 | 酱酱的下午茶第 72 期](https://juejin.cn/post/7143432251085160478) | Thu Sep 15 2022 2:46 AM 
+- 🚀 [KubeSphere 社区双周报 | 2022-08-09](https://juejin.cn/post/7143445049693437959) | Thu Sep 15 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    看点: 月影谈：如何做技术管理？跳槽看钱还是成长？程序员如何做副业？；深入理解web安全攻防策略；vivo 全球商城：电商平台通用取货码设计；基于React Native的动态列表方案探索 
+    KubeSphere 从诞生的第一天起便秉持着开源、开放的理念，并且以社区的方式成长，如今 KubeSphere 已经成为全球最受欢迎的开源容器平台之一。这些都离不开社区小伙伴的共同努力，你们为 K 
     </details> 
 
-- 🚀 [人生不止技术之我的“转行”经历](https://juejin.cn/post/7143429195866046477) | Thu Sep 15 2022 2:34 AM 
+- 💪 [后端程序员也可以做出来的中秋节代码，快送女朋友](https://juejin.cn/post/7143443769948373005) | Thu Sep 15 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    先把这句写在最前面，告诉大家你总是会有选择权的，你想做什么岗位，你就能做什么岗位 虎牙直播、光电工程师、电子工程师、硬件工程师、产品经理、游戏策划、销售代表、项目实施工程师、测试工程师、Java后端开 
-    </details> 
-
-- 💪 [CopyOnWriteArrayList是如何保证线程安全的？](https://juejin.cn/post/7143428003777740814) | Thu Sep 15 2022 2:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    一：前言 在我们需要保证线程安全的时候，如果使用到Map，那么我们可以使用线程安全的ConcurrentHashMap，ConcurrentHashMap不仅可以保证线程安全，而且效率也非常不错，那有 
+    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 前言 事情的经过是这样的，媳妇中秋发了一盒月饼，里面还有一个小蓝牙音响，她说如果这个音响是个月饼造型之类的是不是更能体现出中秋的气氛。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
