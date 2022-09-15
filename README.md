@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [windows 为什么无法访问 Ubuntu 初始化的机械硬盘](https://www.v2ex.com/t/880417#reply1) | Thu Sep 15 2022 9:33 PM
-- 🤗 [MinIO 搭建的 S3 对象存储，使用 rclone 上传的文件和文件夹在网页端面板看全变成了 0B 的空文件，但桶大小却能统计进去。用 rclone 的列目录命令也看不到这些文件。请问是什么原因？在网页端直接上传正常。](https://www.v2ex.com/t/880414#reply0) | Thu Sep 15 2022 7:04 PM
-- 🎭 [关于列表数据删除时前端展示那些事](https://www.v2ex.com/t/880409#reply7) | Thu Sep 15 2022 4:41 PM
-- 🥷 [golang 中 struct{} 一个奇怪的行为](https://www.v2ex.com/t/880402#reply5) | Thu Sep 15 2022 4:06 PM
-- 🐵 [Android 怎么获取 Activity 横竖屏?我暂没找到靠谱 api](https://www.v2ex.com/t/880399#reply1) | Thu Sep 15 2022 3:53 PM<!-- v2ex:END -->
+- 🥸 [老哥们，请问这个 Model 在 Django 里面怎么建比较好](https://www.v2ex.com/t/880418#reply0) | Thu Sep 15 2022 11:01 PM
+- 🤗 [windows 为什么无法访问 Ubuntu 初始化的机械硬盘](https://www.v2ex.com/t/880417#reply1) | Thu Sep 15 2022 9:33 PM
+- 🎭 [MinIO 搭建的 S3 对象存储，使用 rclone 上传的文件和文件夹在网页端面板看全变成了 0B 的空文件，但桶大小却能统计进去。用 rclone 的列目录命令也看不到这些文件。请问是什么原因？在网页端直接上传正常。](https://www.v2ex.com/t/880414#reply0) | Thu Sep 15 2022 7:04 PM
+- 🥷 [关于列表数据删除时前端展示那些事](https://www.v2ex.com/t/880409#reply8) | Thu Sep 15 2022 4:41 PM
+- 🐵 [golang 中 struct{} 一个奇怪的行为](https://www.v2ex.com/t/880402#reply6) | Thu Sep 15 2022 4:06 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
