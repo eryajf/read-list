@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [民族主义与 Steam 被封杀](https://www.v2ex.com/t/880132#reply1) | Wed Sep 14 2022 11:10 PM
-- 🤗 [在云上做了一次 ops，感觉像是在烂泥里爬行](https://www.v2ex.com/t/880128#reply6) | Wed Sep 14 2022 9:17 PM
-- 🎭 [火绒剑 成功把 迈克菲 删掉了](https://www.v2ex.com/t/880124#reply6) | Wed Sep 14 2022 7:55 PM
-- 🥷 [请问最佳的爬虫语言是什么](https://www.v2ex.com/t/880119#reply3) | Wed Sep 14 2022 6:27 PM
-- 🐵 [为什么 Angular 的一些组件仍在使用 Promise？](https://www.v2ex.com/t/880118#reply2) | Wed Sep 14 2022 6:20 PM<!-- v2ex:END -->
+- 🥸 [20 个节点服务器的虚拟化管理，比较靠谱的集群方案有哪些？求教](https://www.v2ex.com/t/880173#reply0) | Thu Sep 15 2022 2:12 AM
+- 🤗 [请教一个 nestjs 创建 updateDto 的问题](https://www.v2ex.com/t/880161#reply0) | Thu Sep 15 2022 1:54 AM
+- 🎭 [Python 每日一练： Excel 文件处理](https://www.v2ex.com/t/880144#reply3) | Thu Sep 15 2022 1:06 AM
+- 🥷 [godaddy 买的域名被 serverhold 了](https://www.v2ex.com/t/880143#reply1) | Thu Sep 15 2022 1:05 AM
+- 🐵 [OneDriver 同步 iPhone 照片不完整，求方案](https://www.v2ex.com/t/880139#reply11) | Thu Sep 15 2022 12:37 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
