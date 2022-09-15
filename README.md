@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [前女友拍卖马斯克老物件落槌：成交总价超16万美元](https://www.cnbeta.com/articles/tech/1316749.htm) | Thu Sep 15 2022 8:01 PM 
+- 🕯 [马斯克称自动驾驶汽车是未来 但美国人不太相信它](https://www.cnbeta.com/articles/tech/1316761.htm) | Thu Sep 15 2022 11:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;波士顿RR拍卖行宣布，马斯克前女友Jennifer Gwynne拍卖的“老照片和老物件”总共卖出近16.5万美元。根据RR拍卖行官网，这次拍卖包含数十张拍摄于1994年和1995年的照片，成交价格在数千至数万美元不等。其中大都是马斯克学生时期的时而青涩、时而搞怪的照片。这些照片总共拍出近10万美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;埃隆·马斯克&lpar;Elon Musk&rpar;等科技行业企业家认为，&lt;strong&gt;自动驾驶汽车将会淘汰常规汽车，但大多数美国人对此持谨慎态度&lt;/strong&gt;。保险平台Policygenius进行的一项最新调查发现，&lt;strong&gt;四分之三的美国人觉得驾驶或乘坐具有自动驾驶功能的汽车不安全&lt;/strong&gt;。同样地，&lt;strong&gt;73%的受访者在得知其他人驾驶的是自动驾驶汽车时也感到不安全&lt;/strong&gt;。Policygenius此次调查针对的是大约1500名18岁以上的美国居民。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [为直播间里的投资人充值 靠谱吗？](https://www.cnbeta.com/articles/tech/1316747.htm) | Thu Sep 15 2022 6:41 PM 
+- 💼 [《电子烟强制性国家标准》即将实施 水果味品类将全部下架](https://www.cnbeta.com/articles/tech/1316759.htm) | Thu Sep 15 2022 11:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2021年底，艾媒咨询CEO张毅发现，身边投资者朋友开始在抖音直播卖课。当时，张毅还打趣：“投资者现在没啥事做了”。今年年初，张毅略有些惊讶地发现，没想到，投资者上抖音直播卖课成了主流，“没啥事做”竟然成了这一两年投资者的真实处境。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《电子烟强制性国家标准》将于今年10月1日起实施。近期，符合国标要求的电子烟产品陆续在各地上市销售。这意味着电子烟产业法治化、规范化发展步入新阶段。在深圳福田区的一家电子烟零售门店，店长告诉记者，今年六月他们已经申请到了电子烟零售许可证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“史诗级归零”：从韩国马斯克到韩国“庞氏”](https://www.cnbeta.com/articles/tech/1316745.htm) | Thu Sep 15 2022 5:17 PM 
+- 💂 [网红产品卖得贵 背后是代工厂的泪](https://www.cnbeta.com/articles/tech/1316757.htm) | Thu Sep 15 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年5月，币圈第三大稳定币UST和LUNA币雪崩，几百亿美元的资产灰飞烟灭。如今，这一切的“始作俑者”——LUNA币创始人、Terraform&amp;nbsp;Labs联合创始人权道亨（Do&amp;nbsp;Kwon）被韩国法院批准逮捕。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;同一款产品，价格相差14倍？近日，有关“代工厂产品被网红品牌卖出高价”的话题登上微博热搜。有人认为，代工厂相同，不代表产品原料、品质就一样，但近年来由网红产品引发的价格虚高，仍然成为外界关注的焦点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [订单排到11月 iPhone 14/Pro系列今日开售：5999元起](https://www.cnbeta.com/articles/tech/1316743.htm) | Thu Sep 15 2022 4:54 PM 
+- 🚀 [Uber豪华电动汽车服务现已在北美的25个城市推出](https://www.cnbeta.com/articles/tech/1316755.htm) | Thu Sep 15 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;经过一周预售，&lt;strong&gt;全新iPhone 14、iPhone 14 Pro、iPhone 14 Pro Max今日正式开售，售价5999元起，&lt;/strong&gt;iPhone 14 Plus则需等到10月7日开卖。除苹果官网外，合作电商平台也将同步开售，其中Apple产品京东自营旗舰店显示，iPhone 14系列将于今早8点发售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Uber正在将其高档电动汽车服务带到更多城市，其宣布在北美另外14座城市推出舒适电动车功能从而使市场总数达到25个。&lt;/strong&gt;今年5月，Uber在少数几个城市推出了Comfort Electric，此后这个名单一直在稳步增长。只有高级EV像特斯拉、Polestar和福特Mustang Mach-E才有资格享受这一服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NVIDIA官方确认：RTX 40的三个秘密提前揭晓](https://www.cnbeta.com/articles/tech/1316741.htm) | Thu Sep 15 2022 4:54 PM 
+- 🎊 [爱奇艺好剧加持难留会员 明星“黑天鹅”频出如何风控？](https://hot.cnbeta.com/articles/movie/1316753.htm) | Thu Sep 15 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA此前已经宣布，将在北京时间&lt;strong&gt;9月20日晚23点&lt;/strong&gt;的GTC图形技术大会期间，举办名为Project Beyond的主题活动，主角是GeForce RTX显卡。显然，等待太久的RTX 40系列显卡终于要来了！当然，这应该是一次预热，而不是正式发布，预计会给出一些架构、核心方面的信息点，但不会有具体产品型号、规格、价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;得益于有效的成本控制，爱奇艺有限公司（以下简称爱奇艺，IQ.O）在今年第二季度延续了第一季度Non-GAAP（非美国会计准则）的盈利势头。8月30日，爱奇艺发布2022年第二季度财报，第二季度公司营收67亿元，同比下降13%；归母净利润亏损2.1亿元，相比2021年同期的净亏损14亿元，情况有所好转。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1316753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
