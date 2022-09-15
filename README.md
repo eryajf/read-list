@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [PC级生产力体验 华为MatePad Pro系列PC应用引擎黑科技功能将公测](https://www.cnbeta.com/articles/tech/1316621.htm) | Thu Sep 15 2022 11:13 AM 
+- 🕯 [员工自曝品牌方要求降低汽车零部件质量标准交付 官方声明否认](https://www.cnbeta.com/articles/tech/1316677.htm) | Thu Sep 15 2022 12:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在9月6日的发布会上，新一代华为MatePad Pro 12.6英寸正式发布，其拥有2K 120Hz高色准屏幕，HarmonyOS 3系统和诸多“黑科技”，可谓是目前顶级的鸿蒙生产力设备。&lt;/strong&gt;特别是在发布会上重点介绍的“PC应用引擎”功能，可以在平板上使用PC版的WPS Office功能，生产力再上一个台阶。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于汽车零部件供应来说，高标准质量交付，除了成本更高之外，交付效率也会同步降低，而汽车厂商出于不同的考量，可能会选择降标交付。日前，有疑似汽车零部件供应商身份的网友发文称：今天品牌方突然通知，质检标准下降了。&lt;strong&gt;原来要求，铣削面不得有穿孔沙眼、削多了的情况出现，现在，有孔、有洞、缺料通通可以用，沙眼也OK，至于是啥玩意儿也不说了，静待市场洗牌。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [UNSW团队打造新型IPMSM高速电机：机械结构大增强 原型转速达十万](https://www.cnbeta.com/articles/science/1316619.htm) | Thu Sep 15 2022 9:57 AM 
+- 💼 [我国亚轨道运输新技术立项：未来可一小时内到达全球各地](https://www.cnbeta.com/articles/tech/1316675.htm) | Thu Sep 15 2022 12:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;韩国最长的铁路桥的形状，让澳大利亚新南威尔士大学（UNSW）的工程师受到了启发，最终设计出了一种新颖的高速电机。&lt;strong&gt;CleanTechnica 报道称，这款内置永磁同步电机（IPMSM）原型已达成 10 万 RPM 的转速，创下了新的世界纪录。&lt;/strong&gt;此外对于电动汽车行业来说，这类新电机有望成为其牵引驱动的新选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中国运载火箭技术研究院官方公众号消息，近日，国家自然科学基金委员会官网发布了《关于2022年国家自然科学基金集中接收项目评审结果的通告》。&lt;strong&gt;由火箭院研究发展部牵头申报的“亚轨道远程空天运输系统总体设计与控制技术”项目顺利通过评审，获得立项支撑。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14机身结构变了：从后盖拆机](https://www.cnbeta.com/articles/tech/1316617.htm) | Thu Sep 15 2022 9:54 AM 
+- 💂 [iPhone 14 Plus在开启预购近一周后仍未面临出货推迟的情况](https://www.cnbeta.com/articles/tech/1316673.htm) | Thu Sep 15 2022 12:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;明天，iPhone 14系列就要正式上市了，目前大部分经销商已经收到了iPhone 14系列的机器。虽然现在激活要面临20万每台的巨额罚款，但不开机一样能窥探到很多秘密——直接拆机。抖音博主杨长顺就晒出了自己对iPhone 14的拆机画面，&lt;strong&gt;可以发现这一代的手机回归了当年iPhone 4三明治时代的拆机方式，整机是从后盖位置开启。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司的6.7英寸非Pro版iPhone 14 Plus在开启预购近一周后没有面临交货延迟，这表明新机型的需求可能超出想象地低。iPhone 14系列所有机型的预购于上周五开启，除iPhone 14 Plus外，所有机型的交货期从明天开始。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [张朝阳出物理题考网友仅一人答出 奖励一台iPhone 14](https://hot.cnbeta.com/articles/funny/1316615.htm) | Thu Sep 15 2022 9:53 AM 
+- 🚀 [Adobe宣布以约200亿美元收购在线设计初创公司Figma](https://www.cnbeta.com/articles/tech/1316671.htm) | Thu Sep 15 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;读书真的有用，知识可以赚钱！据@荔枝新闻报道，近日张朝阳在直播讲物理题时，提出一个普遍计算匀速运动电荷的势场题目让网友解答，&lt;strong&gt;以一台iPhone14作为解答者奖品&lt;/strong&gt;。最终这道颇具难度的物理题被一位来自&lt;strong&gt;江苏的女大学生解出&lt;/strong&gt;，该同学表示最近在准备考研，会抽空看物理课，觉得很有意思于是尝试解答。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1316615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，Adobe今日宣布，已与初创公司Figma签署最终的收购协议，将以约200亿美元的现金和股票收购Figma，后者是一家开发“在线设计协作工具”的初创企业。Adobe在一份声明中称：“Adobe的使命是通过数字体验改变世界。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美团王兴三次抛售理想汽车股票 累计套现约1.7亿元](https://www.cnbeta.com/articles/tech/1316613.htm) | Thu Sep 15 2022 9:52 AM 
+- 🎊 [斯宾塞：亚洲地区Xbox Series S主机玩家增长大部分来自首次使用者](https://hot.cnbeta.com/articles/game/1316669.htm) | Thu Sep 15 2022 12:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月15日消息，理想汽车提交给港交所的文件显示，理想汽车的投资人之一，美团董事长王兴于今年第一季度减持理想汽车。分别是在3月29日减持40万股理想汽车股份，均价27.3美元/股，3月30日又先后减持40.49万股和37.6万股，均价分别为107.85港元/股和27.81美元/股。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软Xbox业务主管菲尔-斯宾塞拉开了Xbox东京游戏展的序幕，他有一些关于Xbox品牌在亚洲的有趣细节可以分享。据斯宾塞说，在过去的一年里，Xbox在亚洲得到了极大的发展，团队在日本和亚洲欢迎比以往更多的玩家加入Xbox社区。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
