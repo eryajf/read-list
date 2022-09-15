@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [握好手柄，看住钱包：任天堂、索尼 9 月发布会资讯汇总](https://sspai.com/post/75727) | Thu Sep 15 2022 3:30 AM 
+- 👹 [我相信这是它一开始就想到达的地方——文石 Tab8 上手体验](https://sspai.com/post/75710) | Thu Sep 15 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    感谢文石，我期待着文石将更好的芯片和算法用在更大尺寸的设备上，让 Tab8 的体验可以蔓延到所有尺寸。&lt;a href=&quot;https://sspai.com/post/75710&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [握好手柄，看住钱包：任天堂、索尼 9 月发布会资讯汇总](https://sspai.com/post/75727) | Thu Sep 15 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     从《旷野之息》续作到《人中之龙》系列三连发，汇总近期任天堂、索尼发布会中那些「高光时刻」。&lt;a href=&quot;https://sspai.com/post/75727&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：GoPro 推出 GoPro Hero 11 系列运动相机、大疆发布 Osmo Action 3 运动相机等](https://sspai.com/post/75728) | Thu Sep 15 2022 12:52 AM 
+- 🤭 [派早报：GoPro 推出 GoPro Hero 11 系列运动相机、大疆发布 Osmo Action 3 运动相机等](https://sspai.com/post/75728) | Thu Sep 15 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
     Google 艺术与文化「观妙悦色」小程序上线，Unicode 15.0 标准发布等。&lt;a href=&quot;https://sspai.com/post/75728&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [Apple 秋季发布会线上回顾：一起聊聊新品和新系统体验](https://sspai.com/post/75681) | Wed Sep 14 2022 9:22 AM 
+- 🥸 [Apple 秋季发布会线上回顾：一起聊聊新品和新系统体验](https://sspai.com/post/75681) | Wed Sep 14 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
     一起谈谈对 Apple 新品发布会的感受。&lt;a href=&quot;https://sspai.com/post/75681&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [Android 设备省电与流畅的「临界点」：uperf 如何让你的电量都花在刀刃上](https://sspai.com/post/75695) | Wed Sep 14 2022 8:00 AM 
+- 🙉 [Android 设备省电与流畅的「临界点」：uperf 如何让你的电量都花在刀刃上](https://sspai.com/post/75695) | Wed Sep 14 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     为自己的 Android 设备芯片量身定制一套更加符合自己使用习惯和实际需求的「游戏规则」。&lt;a href=&quot;https://sspai.com/post/75695&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [用 Tasker 实现一键分享保存哔哩哔哩视频封面](https://sspai.com/prime/story/tasker-bilibili-cover-image) | Wed Sep 14 2022 7:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文介绍了如何使用 Android 平台的自动化工具 Tasker 一键保存哔哩哔哩视频封面图，并简单解析了原理配置以及拓展玩法。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/tasker-bilibili-cover-image&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
