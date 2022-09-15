@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [OKR之剑（理念篇）01—— OKR带给我们的改变](https://juejin.cn/post/7143405454482210852) | Thu Sep 15 2022 1:02 AM 
+- 🤗 [KubeSphere 社区双周报 | 2022-07-22](https://juejin.cn/post/7143444388306223141) | Thu Sep 15 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要讲述vivo互联网平台产品研发团队对于OKR的理解以及引入OKR之后带来的改变，把我们认为好的东西与大家一起分享。 
+    KubeSphere 从诞生的第一天起便秉持着开源、开放的理念，并且以社区的方式成长，如今 KubeSphere 已经成为全球最受欢迎的开源容器平台之一。这些都离不开社区小伙伴的共同努力，你们为 K 
     </details> 
 
-- 🎡 [Fabric.js 元素被遮挡的部分也可以操作~](https://juejin.cn/post/7143401584494542879) | Thu Sep 15 2022 12:47 AM 
+- 🎡 [php 调用grpc的安装过程](https://juejin.cn/post/7143433324457902116) | Thu Sep 15 2022 2:49 AM 
     <details><summary>展开描述 ...</summary> 
-    🍟当两个元素有部分重叠时，选中底层元素后，想通过被盖住的部分移动元素，该如何实现？实 Fabric.js 已经提供了相应的 API 去完成上面的需求了 
+    最近几天在搞golang的grpc，跑通之后想用php作为客户端调用一下grpc服务，结果拉了，一个php的grpc服务安装，搞了好几天，总算搞定了。对了，搞定的是linux下的，自己本地是M1 
     </details> 
 
-- 🕯 [可靠的自托管「GitHub 热点速览 v.22.37」](https://juejin.cn/post/7143400877125500936) | Thu Sep 15 2022 12:45 AM 
+- 🕯 [深入理解web安全攻防策略、基于 React Native 的动态列表方案探索、vivo 全球商城：电商平台通用取货码设计 | 酱酱的下午茶第 72 期](https://juejin.cn/post/7143432251085160478) | Thu Sep 15 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
-    自托管&lpar;Self-Hosted&rpar; 是很多开源项目主打的亮点：数据在手，安全我有。本周 GitHub 热点榜单上有多款自托管的项目，当中自然不能少了之前 HG 小伙伴 @makes world simp 
+    看点: 月影谈：如何做技术管理？跳槽看钱还是成长？程序员如何做副业？；深入理解web安全攻防策略；vivo 全球商城：电商平台通用取货码设计；基于React Native的动态列表方案探索 
     </details> 
 
-- 🚀 [「多图预警」完美实现一个@功能](https://juejin.cn/post/7143397823432622093) | Thu Sep 15 2022 12:33 AM 
+- 🚀 [人生不止技术之我的“转行”经历](https://juejin.cn/post/7143429195866046477) | Thu Sep 15 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 一天产品大大向 boss 汇报完研发成果和产品业绩产出，若有所思的走出来，劲直向我走过来，嘴角微微上扬。 产品大大：boss 对我们的研发成果挺满意的，balabala...（内心 OS：不听， 
+    先把这句写在最前面，告诉大家你总是会有选择权的，你想做什么岗位，你就能做什么岗位 虎牙直播、光电工程师、电子工程师、硬件工程师、产品经理、游戏策划、销售代表、项目实施工程师、测试工程师、Java后端开 
     </details> 
 
-- 💪 [为什么说：JavaScript 模块中的默认导出很糟糕](https://juejin.cn/post/7143396454366314527) | Thu Sep 15 2022 12:28 AM 
+- 💪 [CopyOnWriteArrayList是如何保证线程安全的？](https://juejin.cn/post/7143428003777740814) | Thu Sep 15 2022 2:29 AM 
     <details><summary>展开描述 ...</summary> 
-    我们知道，JavaScript 模块有两种方法来定义导出：默认导出和命名导出。在本节中，我们来看下为什么默认导出是一种糟糕的做法，会导致不好的开发体验。 下面，我们看下例子，假设，我们有一个模块，它同 
+    一：前言 在我们需要保证线程安全的时候，如果使用到Map，那么我们可以使用线程安全的ConcurrentHashMap，ConcurrentHashMap不仅可以保证线程安全，而且效率也非常不错，那有 
     </details> 
 <!-- juejin:END -->
 ### 少数派
