@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [员工自曝品牌方要求降低汽车零部件质量标准交付 官方声明否认](https://www.cnbeta.com/articles/tech/1316677.htm) | Thu Sep 15 2022 12:43 PM 
+- 🕯 [英国宣布对微软收购动视暴雪交易展开深入调查](https://www.cnbeta.com/articles/tech/1316693.htm) | Thu Sep 15 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于汽车零部件供应来说，高标准质量交付，除了成本更高之外，交付效率也会同步降低，而汽车厂商出于不同的考量，可能会选择降标交付。日前，有疑似汽车零部件供应商身份的网友发文称：今天品牌方突然通知，质检标准下降了。&lt;strong&gt;原来要求，铣削面不得有穿孔沙眼、削多了的情况出现，现在，有孔、有洞、缺料通通可以用，沙眼也OK，至于是啥玩意儿也不说了，静待市场洗牌。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，英国反垄断监管机构“竞争与市场管理局”（CMA）今日宣布，由于微软拒绝妥协，现决定对微软收购动视暴雪交易展开深入地反垄断调查。今年1月，微软宣布将以每股95美元的现金，收购游戏开发和互动娱乐内容发行商动视暴雪，交易总金额约为690亿美元。交易完成后，微软将成为世界上营收第三高的游戏公司，仅次于腾讯和索尼。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [我国亚轨道运输新技术立项：未来可一小时内到达全球各地](https://www.cnbeta.com/articles/tech/1316675.htm) | Thu Sep 15 2022 12:42 PM 
+- 💼 [广汽埃安发布Hyper SSR超跑：零百加速1.9秒 128.6万起](https://www.cnbeta.com/articles/tech/1316691.htm) | Thu Sep 15 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中国运载火箭技术研究院官方公众号消息，近日，国家自然科学基金委员会官网发布了《关于2022年国家自然科学基金集中接收项目评审结果的通告》。&lt;strong&gt;由火箭院研究发展部牵头申报的“亚轨道远程空天运输系统总体设计与控制技术”项目顺利通过评审，获得立项支撑。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月15日晚间，埃安在广州举办埃安品牌发布会，埃安品牌的全新LOGO正式公布并开始启用。埃安同时发布全新高端产品系列，首款新车为一台超跑，命名为Hyper SSR，该车也标志着国产车迈入“百万超跑”阵营。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14 Plus在开启预购近一周后仍未面临出货推迟的情况](https://www.cnbeta.com/articles/tech/1316673.htm) | Thu Sep 15 2022 12:39 PM 
+- 💂 [未来iPhone可以在你不注意的时候停止播放音乐和视频](https://www.cnbeta.com/articles/tech/1316689.htm) | Thu Sep 15 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司的6.7英寸非Pro版iPhone 14 Plus在开启预购近一周后没有面临交货延迟，这表明新机型的需求可能超出想象地低。iPhone 14系列所有机型的预购于上周五开启，除iPhone 14 Plus外，所有机型的交货期从明天开始。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;几乎所有的苹果设备，包括苹果铅笔，都可以播放音乐或某种音频，而且大多数都有麦克风。&lt;strong&gt;苹果希望利用这些麦克风和许多其他传感器来确定你是否在注意，如果你不注意媒体的时候自动暂停播放，从而节省电力。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Adobe宣布以约200亿美元收购在线设计初创公司Figma](https://www.cnbeta.com/articles/tech/1316671.htm) | Thu Sep 15 2022 12:36 PM 
+- 🚀 [惠普在一项关于墨盒DRM的和解中约定赔款](https://www.cnbeta.com/articles/tech/1316687.htm) | Thu Sep 15 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，Adobe今日宣布，已与初创公司Figma签署最终的收购协议，将以约200亿美元的现金和股票收购Figma，后者是一家开发“在线设计协作工具”的初创企业。Adobe在一份声明中称：“Adobe的使命是通过数字体验改变世界。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;打印机墨盒长期以来一直是出了名的昂贵，而打印机制造商使用DRM来阻止用户购买更便宜的第三方型号也是家常便饭。惠普公司仍在就其多年前部署DRM的方式向客户支付赔偿金，但这种做法没有迹象表明很快会结束。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [斯宾塞：亚洲地区Xbox Series S主机玩家增长大部分来自首次使用者](https://hot.cnbeta.com/articles/game/1316669.htm) | Thu Sep 15 2022 12:31 PM 
+- 🎊 [iPhone 14系列明日正式发售 线下店已摆出展示机](https://www.cnbeta.com/articles/tech/1316685.htm) | Thu Sep 15 2022 1:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软Xbox业务主管菲尔-斯宾塞拉开了Xbox东京游戏展的序幕，他有一些关于Xbox品牌在亚洲的有趣细节可以分享。据斯宾塞说，在过去的一年里，Xbox在亚洲得到了极大的发展，团队在日本和亚洲欢迎比以往更多的玩家加入Xbox社区。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iPhone 14系列将于明日（9月16日）开始正式发售，第一批零售机届时也将抵达用户手中。据数码博主&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/2038462575/M5TOS5uSt&quot; target=&quot;_blank&quot;&gt;鲁卡利欧Luka&lt;/a&gt;晒出的照片，&lt;strong&gt;有线下授权店已经在今日闭店后开始装扮一新，有关iPhone 14系列的海报甚至展示机悄然摆出，只待明日开门迎客。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
