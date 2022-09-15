@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [我相信这是它一开始就想到达的地方——文石 Tab8 上手体验](https://sspai.com/post/75710) | Thu Sep 15 2022 6:30 AM 
+- 👹 [城市收藏夹 | 北京精酿啤酒不完全赏味指南](https://sspai.com/post/68914) | Thu Sep 15 2022 8:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    一个城市的魅力不全是它的历史、文化或自然风光，也有不少惊喜往往来自那些只有当地人才知晓的隐蔽深巷。而「城市收藏夹」是我们征集来自世界各地Matrix社区作者共同维护的一个长期话题，我们会邀请大家分享自 ...&lt;a href=&quot;https://sspai.com/post/68914&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [我相信这是它一开始就想到达的地方——文石 Tab8 上手体验](https://sspai.com/post/75710) | Thu Sep 15 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     感谢文石，我期待着文石将更好的芯片和算法用在更大尺寸的设备上，让 Tab8 的体验可以蔓延到所有尺寸。&lt;a href=&quot;https://sspai.com/post/75710&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [握好手柄，看住钱包：任天堂、索尼 9 月发布会资讯汇总](https://sspai.com/post/75727) | Thu Sep 15 2022 3:30 AM 
+- 🤭 [握好手柄，看住钱包：任天堂、索尼 9 月发布会资讯汇总](https://sspai.com/post/75727) | Thu Sep 15 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     从《旷野之息》续作到《人中之龙》系列三连发，汇总近期任天堂、索尼发布会中那些「高光时刻」。&lt;a href=&quot;https://sspai.com/post/75727&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：GoPro 推出 GoPro Hero 11 系列运动相机、大疆发布 Osmo Action 3 运动相机等](https://sspai.com/post/75728) | Thu Sep 15 2022 12:52 AM 
+- 🥸 [派早报：GoPro 推出 GoPro Hero 11 系列运动相机、大疆发布 Osmo Action 3 运动相机等](https://sspai.com/post/75728) | Thu Sep 15 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
     Google 艺术与文化「观妙悦色」小程序上线，Unicode 15.0 标准发布等。&lt;a href=&quot;https://sspai.com/post/75728&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [Apple 秋季发布会线上回顾：一起聊聊新品和新系统体验](https://sspai.com/post/75681) | Wed Sep 14 2022 9:22 AM 
+- 🙉 [Apple 秋季发布会线上回顾：一起聊聊新品和新系统体验](https://sspai.com/post/75681) | Wed Sep 14 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
     一起谈谈对 Apple 新品发布会的感受。&lt;a href=&quot;https://sspai.com/post/75681&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [Android 设备省电与流畅的「临界点」：uperf 如何让你的电量都花在刀刃上](https://sspai.com/post/75695) | Wed Sep 14 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    为自己的 Android 设备芯片量身定制一套更加符合自己使用习惯和实际需求的「游戏规则」。&lt;a href=&quot;https://sspai.com/post/75695&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
