@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [TikTok Now - 每日照片和视频体验](https://xinquji.com/posts/179540?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:29 AM 
+- 👀 [Onduis Analytics - 谷歌分析，但有隐私](https://xinquji.com/posts/179566?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-     每日照片和视频体验  
+     谷歌分析，但有隐私  
     </details> 
 
-- 🥷 [TrustGem - 领先的值得信赖评论的 web3 社区](https://xinquji.com/posts/179539?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:28 AM 
+- 🥷 [Solutions: The Game - 一款为气候带来希望和行动的游戏](https://xinquji.com/posts/179565?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-     领先的值得信赖评论的 web3 社区  
+     一款为气候带来希望和行动的游戏  
     </details> 
 
-- 💼 [Papyr - 推特阅读](https://xinquji.com/posts/179538?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:27 AM 
+- 💼 [Accountit 2.1 - 使用 Accountit 跟踪您的交易，因为每一分钱都很重要](https://xinquji.com/posts/179564?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-     推特阅读  
+     使用 Accountit 跟踪您的交易，因为每一分钱都很重要  
     </details> 
 
-- 🦅 [Startup Timer - 测量 Windows 启动时间](https://xinquji.com/posts/179537?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:26 AM 
+- 🦅 [My Tabata - 使用 My Tabata 锻炼身体 - 间隔计时器](https://xinquji.com/posts/179563?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-     测量 Windows 启动时间  
+     使用 My Tabata 锻炼身体 - 间隔计时器  
     </details> 
 
-- 😺 [Hypotenuse AI - 使用 AI 创建独特的文案和视觉内容](https://xinquji.com/posts/179536?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:24 AM 
+- 😺 [BrewMyMac - 安装应用程序和自定义 Mac 的最酷方式](https://xinquji.com/posts/179562?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 AI 创建独特的文案和视觉内容  
+     安装应用程序和自定义 Mac 的最酷方式  
     </details> 
 <!-- xinquji:END -->
