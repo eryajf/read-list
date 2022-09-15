@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [女子倒车不当悬空压在路边车顶上 操作让人惊叹：本人称太紧张所致](https://www.cnbeta.com/articles/tech/1316583.htm) | Thu Sep 15 2022 8:26 AM 
+- 🕯 [总投近万亿 总统拜登：美国公路将完全电气化](https://www.cnbeta.com/articles/tech/1316607.htm) | Thu Sep 15 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月14日，河南郑州网传一车辆疑因操作不当，悬空压于其他轿车之上，被压车辆车顶损毁严重。据目击者称：”是司机给倒上去的，她在上面充电，充完电之后可能挂错档了，油门当刹车用了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;北京时间9月15日消息，在底特律车展上拜登总统宣布批准资助35个州开始建设由50万个充电站组成的全国网络。&lt;/strong&gt;并发推文称，“我的《美国救援计划》、《两党基础设施法》、《降低通胀法案》以及《芯片与科学法案》共投资超过1350亿美元，以推进美国电动汽车的未来，目标是让充电就像找加油站一样容易。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [以太坊PoS合并上演在即 仍有头铁矿工想要硬分叉至EthereumPoW](https://www.cnbeta.com/articles/tech/1316581.htm) | Thu Sep 15 2022 8:22 AM 
+- 💼 [英特尔详细介绍了FFmpeg中的oneVPL CPU和GPU加速特性](https://www.cnbeta.com/articles/tech/1316605.htm) | Thu Sep 15 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着加密货币挖矿热度的逐渐减退，苦 GPU 挖矿久矣的 PC 游戏玩家们，开始将目光瞄向市场体量第二大的以太坊的 2.0 转型。&lt;/strong&gt;几个小时内，ETH 就从 1.0 版本的“工作量证明”（PoW）交易认证机制、变成了基于“权益证明”（PoS）的新框架。之后验证者需要将特定数量的加密资产质押在以太坊网络的专用节点，以便相互竞争、验证交易、并将新块引入链中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔介绍了该公司包含在FFmpeg oneAPI工具包中的视频处理和加速库的oneVPL支持。oneVPL视频处理库有助于在处理器和公司内部的GPU加速中调用最新的12代酷睿Alder Lake和Intel Xe硬件。加速的重点是英特尔Arc Graphics和DG2硬件，指导媒体SDK支持前几代显卡，能够适应其他潜在的CPU和GPU后端。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AMD锐龙7000平台10月还有一波：PCIe 5.0残血但便宜](https://www.cnbeta.com/articles/tech/1316579.htm) | Thu Sep 15 2022 8:22 AM 
+- 💂 [网飞动画部门裁员30人 无计划放缓动画节目制作](https://hot.cnbeta.com/articles/comic/1316603.htm) | Thu Sep 15 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD的锐龙7000系列处理器本月底就会上市，不过27日首发的是主要是高端平台，主板是X670E及X670系列，满血PCIe 5.0显卡及SSD存储，只不过价格也会很贵，这次高端主板堆料很足。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为网飞 Netflix 动画部门大范围“精简”的一部分，公司正在裁员。&lt;/strong&gt;根据 DEADLINE报道称，作为这一轮裁员的一部分，公司将裁员30 人； 网飞在其寡妇囊网站上确认了此次裁员的消息。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1316603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Chrome引入省内存/省电模式：减少内存占用](https://www.cnbeta.com/articles/tech/1316577.htm) | Thu Sep 15 2022 8:20 AM 
+- 🚀 [2022日本游戏大赏奖项公布 《艾尔登法环》斩获年度游戏](https://hot.cnbeta.com/articles/game/1316601.htm) | Thu Sep 15 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;桌面端 Chrome 浏览器在性能设置页面中，新增了“memory saver”（省内存）和“battery saver”（省电）两种模式。目前，Google将该功能称为“high efficiency”（高效）模式。该功能旨在通过打盹非活动标签页，只有在你激活之后才加载页面内容，这样来节省笔记本电脑电池和改善内存使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;TGS2022直播公布了2022日本游戏大赏的多个游戏奖项，其中《黑暗之魂》、《血源》、《只狼》和《艾尔登法环》制作人宫崎英高获得了2022年经济产业大臣奖，该奖项旨在表彰对游戏产业做出杰出贡献的个人或者团体。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [[视频]iPhone 14 Pro Max拆解：散热更强 电池略缩水](https://www.cnbeta.com/articles/tech/1316573.htm) | Thu Sep 15 2022 8:06 AM 
+- 🎊 [以太坊8年挖矿时代结束：V神、中国矿业，与英伟达](https://www.cnbeta.com/articles/tech/1316599.htm) | Thu Sep 15 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;油管知名数码频道 PBKreviews 分享了 iPhone 14 Pro Max 的完整拆机视频。在移除屏幕之后，就能看到新款 iPhone 的大部分组件。整体而言，大部分组件布局和 iPhone 13 Pro Max 类似，采用 L 型电池，左侧为逻辑主板，并配有全新封装的 A16 Bionic 芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;‘我们显卡已经全卖了，没有恐慌。’在BlockBeats与多位矿工的对话中，这个观点代表了大部分以太坊矿工。&lt;/strong&gt;相比于去年6月比特币挖矿政策的突然限制、全中国比特币矿机不得不等待关机止损的被动选择，以太坊的矿工们心态明显要好得多，他们有接近一年的时间来消化即将不能挖矿这件事。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
