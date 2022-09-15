@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Apache HTTP server benchmarking tool](https://juejin.cn/post/7143447860536115213) | Thu Sep 15 2022 3:46 AM 
+- 🤗 [Java&amp;C++题解与拓展——leetcode672.灯泡开关 II【么的新知识】](https://juejin.cn/post/7143485428157399077) | Thu Sep 15 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-    Apache Benchmark Tool ab 是 apache http server 基准测试工具，它可以帮助我们去了解当前服务的表现，如每秒请求数等。下面是 ab 对应的所有 options  
+    leetcode672.灯泡开关 II解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
     </details> 
 
-- 🎡 [KubeSphere 社区双周报 | 2022-08-19](https://juejin.cn/post/7143447102905909285) | Thu Sep 15 2022 3:43 AM 
+- 🎡 [前端路由也能像vue-router一样香](https://juejin.cn/post/7143243920191782925) | Wed Sep 14 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-    KubeSphere 从诞生的第一天起便秉持着开源、开放的理念，并且以社区的方式成长，如今 KubeSphere 已经成为全球最受欢迎的开源容器平台之一。这些都离不开社区小伙伴的共同努力，你们为 K 
+    vue-router路由用着是不是香香的？简单易上手。其实，前端路由也是简单易上手哦，一起来学学趴~。 
     </details> 
 
-- 🕯 [ECMAScript 2023将新增这9个数组方法](https://juejin.cn/post/7143445585784209445) | Thu Sep 15 2022 3:37 AM 
+- 🕯 [教你写一个入门级别的五子棋AI](https://juejin.cn/post/7143227745164591118) | Wed Sep 14 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第9篇文章，点击查看活动详情” 大家好，我是 CUGGZ。 ECMAScript 规范每年都会更新一次，正式标准化 JavaScript 语言的 
+    五子棋 AI 的实现并不难，只需要解决一个问题就行： 怎么确定AI的最佳落子位置？ 一般情况下，五子棋棋盘是由15条横线和15条纵线组合而成的，15x15 的棋盘共有 225 个交叉点，也就是说 
     </details> 
 
-- 🚀 [KubeSphere 社区双周报 | 2022-08-09](https://juejin.cn/post/7143445049693437959) | Thu Sep 15 2022 3:35 AM 
+- 🚀 [Vite入门从手写一个乞丐版的Vite开始（下）](https://juejin.cn/post/7143217994242457613) | Wed Sep 14 2022 12:55 PM 
     <details><summary>展开描述 ...</summary> 
-    KubeSphere 从诞生的第一天起便秉持着开源、开放的理念，并且以社区的方式成长，如今 KubeSphere 已经成为全球最受欢迎的开源容器平台之一。这些都离不开社区小伙伴的共同努力，你们为 K 
+    上一篇Vite入门从手写一个乞丐版的Vite开始（上）我们已经成功的将页面渲染出来了，这一篇我们来简单的实现一下热更新的功能。 
     </details> 
 
-- 💪 [后端程序员也可以做出来的中秋节代码，快送女朋友](https://juejin.cn/post/7143443769948373005) | Thu Sep 15 2022 3:30 AM 
+- 💪 [Kafka生产者客户端几种异常Case详解](https://juejin.cn/post/7143214045464625166) | Wed Sep 14 2022 12:40 PM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 前言 事情的经过是这样的，媳妇中秋发了一盒月饼，里面还有一个小蓝牙音响，她说如果这个音响是个月饼造型之类的是不是更能体现出中秋的气氛。 
+    者UserCallBack异常 异常日志 异常源码 ProducerBatch#completeFuture 
     </details> 
 <!-- juejin:END -->
 ### 少数派
