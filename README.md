@@ -122,29 +122,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第71期） : 全力投入副业项目中，网络小工具获得了250万用户](https://www.ezindie.com/weekly/issue-71) | Fri Sep 09 2022 12:00 AM 
+- 💂 [独立开发变现周刊（第72期） : 在Reddit上验证想法，建立年收入18万美元的自动化求职平台](https://www.ezindie.com/weekly/issue-72) | Thu Sep 15 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。在Reddit上验证想法，建立年收入18万美元的自动化求职平台 
+    </details> 
+
+- 💡 [独立开发变现周刊（第71期） : 全力投入副业项目中，网络小工具获得了250万用户](https://www.ezindie.com/weekly/issue-71) | Fri Sep 09 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。全力投入副业项目中，网络小工具获得了250万用户 
     </details> 
 
-- 💡 [独立开发变现周刊（第70期） : 一年内将NotionForm的月收入从0到1万美元](https://www.ezindie.com/weekly/issue-70) | Fri Sep 02 2022 12:00 AM 
+- 🌋 [独立开发变现周刊（第70期） : 一年内将NotionForm的月收入从0到1万美元](https://www.ezindie.com/weekly/issue-70) | Fri Sep 02 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一年内将NotionForm的月收入从0到1万美元 
     </details> 
 
-- 🌋 [独立开发变现周刊（第69期） : 语音转录浏览器扩展插件，一年获取20倍增长](https://www.ezindie.com/weekly/issue-69) | Fri Aug 26 2022 12:00 AM 
+- 🕴 [独立开发变现周刊（第69期） : 语音转录浏览器扩展插件，一年获取20倍增长](https://www.ezindie.com/weekly/issue-69) | Fri Aug 26 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。语音转录浏览器扩展插件，一年获取20倍增长 
     </details> 
 
-- 🕴 [独立开发变现周刊（第68期） : 建立了一个Reddit搜索工具，第一年就赚了6万美元](https://www.ezindie.com/weekly/issue-68) | Fri Aug 19 2022 12:00 AM 
+- 🎊 [独立开发变现周刊（第68期） : 建立了一个Reddit搜索工具，第一年就赚了6万美元](https://www.ezindie.com/weekly/issue-68) | Fri Aug 19 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。建立了一个Reddit搜索工具，第一年就赚了6万美元 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第67期） : 如何建立了一个年收入42万美元的业务，将播客转化为文章](https://www.ezindie.com/weekly/issue-67) | Fri Aug 12 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。如何建立了一个年收入42万美元的业务，将播客转化为文章 
     </details> 
 <!-- easyindie:END -->
 
