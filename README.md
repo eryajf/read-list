@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [小米这个 12 的型号为什么有这么多版本](https://www.v2ex.com/t/880235#reply5) | Thu Sep 15 2022 5:36 AM
-- 🤗 [Linux 下好用的磁盘空间分析应用 baobab](https://www.v2ex.com/t/880228#reply2) | Thu Sep 15 2022 4:57 AM
-- 🎭 [大家怎么红米 Note 自燃](https://www.v2ex.com/t/880227#reply0) | Thu Sep 15 2022 4:54 AM
-- 🥷 [Beau­tiful Racket](https://www.v2ex.com/t/880223#reply1) | Thu Sep 15 2022 4:42 AM
-- 🐵 [请教 qve 虚拟机为何反应有点慢呢？显示感觉是一帧一帧出现的？](https://www.v2ex.com/t/880222#reply4) | Thu Sep 15 2022 4:42 AM<!-- v2ex:END -->
+- 🥸 [lstrip&lpar;&rpar;问题](https://www.v2ex.com/t/880251#reply8) | Thu Sep 15 2022 6:16 AM
+- 🤗 [vscode 怎么快速复制文件名:行号？（拿到 gdb 里面去打断点）](https://www.v2ex.com/t/880249#reply1) | Thu Sep 15 2022 6:11 AM
+- 🎭 [大佬帮忙修改一下 Java 正则表达式](https://www.v2ex.com/t/880246#reply2) | Thu Sep 15 2022 6:06 AM
+- 🥷 [小米这个 12 的型号为什么有这么多版本](https://www.v2ex.com/t/880235#reply12) | Thu Sep 15 2022 5:36 AM
+- 🐵 [Linux 下好用的磁盘空间分析应用 baobab](https://www.v2ex.com/t/880228#reply2) | Thu Sep 15 2022 4:57 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
