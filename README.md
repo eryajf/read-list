@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Mac技巧之用苹果归档格式压缩文件的方法](http://www.mac52ipod.cn/post/apple-mac-macos-archive-utility-tip.php) | Tue Sep 13 2022 4:35 AM 
+- 👨‍🏫 [苹果 iPhone 13 和 iPhone 14 系列的手机电池容量](http://www.mac52ipod.cn/post/apple-iphone-13-14-battery-capacities.php) | Thu Sep 15 2022 4:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果每次发布会都只说手机续航时间提高了 x 小时，不说手机电池容量具体是多少。这里列一下做个对比吧：&lt;/p&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;iPhone 13 mini: 2,406 mAh&lt;/li&gt;&lt;li&gt;iPhone 13: 3,227 mAh&lt;/li&gt;&lt;li&gt;iPhone 13 Pro: 3,095 mAh&lt;/li&gt;&lt;li&gt;iPhone 13 Pro Max: 4,352 mAh&lt;/li&gt;&lt;hr/&gt;&lt;li&gt;iPhone 14: 3,279 mAh&lt;/li&gt;&lt;li&gt;iPhone 14 Plus: 4,325 mAh&lt;/li&gt;&lt;li&gt;iPhone 14 Pro: 3,200 mAh&lt;/li&gt;&lt;li&gt;iPhone 14 Pro Max: 4,323 mAh&lt;/li&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2594%25B5%25E6%25B1%25A0&quot; rel=&quot;tag&quot;&gt;电池&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Mac技巧之用苹果归档格式压缩文件的方法](http://www.mac52ipod.cn/post/apple-mac-macos-archive-utility-tip.php) | Tue Sep 13 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [苹果 iPhone、iPad 复制、剪切、粘贴的操作手势](http://www.mac52ipod.cn/post/apple-ipad-iphone-copy-cut-paste-gesture.php) | Sun Sep 11 2022 4:48 AM 
+- 🦏 [苹果 iPhone、iPad 复制、剪切、粘贴的操作手势](http://www.mac52ipod.cn/post/apple-ipad-iphone-copy-cut-paste-gesture.php) | Sun Sep 11 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [苹果 iPhone 14、新 Apple Watch、新 AirPods 发布会五分钟无废话版简介](http://www.mac52ipod.cn/post/apple-2022-iphone-14-event-5-min-briefintroduction.php) | Wed Sep 07 2022 6:50 PM 
+- 🚀 [苹果 iPhone 14、新 Apple Watch、新 AirPods 发布会五分钟无废话版简介](http://www.mac52ipod.cn/post/apple-2022-iphone-14-event-5-min-briefintroduction.php) | Wed Sep 07 2022 6:50 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [抖音出了 macOS 客户端](http://www.mac52ipod.cn/post/douyin-for-mac.php) | Mon Sep 05 2022 4:16 AM 
+- 🏊 [抖音出了 macOS 客户端](http://www.mac52ipod.cn/post/douyin-for-mac.php) | Mon Sep 05 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	如果你想在更大屏幕刷抖音，而且不想用网页版的话，可以试试抖音新推出的 Mac 客户端。&lt;/p&gt;&lt;p&gt;下载地址 &lt;u&gt;&lt;a href=&quot;https://www.douyin.com/downloadpage&quot; target=&quot;_blank&quot; title=&quot;抖音电脑版下载&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.douyin.com/downloadpage&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=douyin&quot; rel=&quot;tag&quot;&gt;douyin&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%258A%2596%25E9%259F%25B3&quot; rel=&quot;tag&quot;&gt;抖音&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [苹果 iPhone、iPad、Apple Watch、Mac 上规划旅行路线和日程的 App：Tripsy](http://www.mac52ipod.cn/post/apple-ios-macos-iphone-ipad-mac-apple-watch-app-tripsy-travel-p.php) | Sat Sep 03 2022 4:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	最近发现的旅行路线和日程规划 App：Tripsy，自动导入酒店和航班信息、整理旅行日程、自动提醒、可视化行程地图、信息分享、查看景点推荐、旅行途中记录照片和文字生成旅行日记 …… 功能很全而且设计感很好。而且 iPhone、iPad、Apple Watch、Mac 上都有客户端，信息可以多端同步（比如提前在 Mac 或 iPad 上做规划，旅途中用 iPhone 和 Apple Watch 上查看和记录）&lt;/p&gt;&lt;p&gt;Tripsy 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/tripsy-travel-planner/id1429967544&quot; target=&quot;_blank&quot; title=&quot;Tripsy 规划您的行程, 与朋友分享您的旅程&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/cn/app/tripsy-travel-planner/id1429967544&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2597%2585%25E8%25A1%258C&quot; rel=&quot;tag&quot;&gt;旅行&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2597%2585%25E6%25B8%25B8&quot; rel=&quot;tag&quot;&gt;旅游&lt;/a&gt;
 
  
     </details> 
