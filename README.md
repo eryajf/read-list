@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [如果 所有城市人口都像丹麦和荷兰那样采取以自行车为主的通勤方式](http://jandan.net/p/111209) | Thu Sep 15 2022 3:21 AM 
+- 🚀 [哺乳动物的运输反应 专家称找到了哄哭泣婴儿快速入睡的简单方法](http://jandan.net/p/111338) | Thu Sep 15 2022 8:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    父母能够利用这种与生俱来的哺乳动物条件反射来防止自己猝死 
+    </details> 
+
+- 🙉 [如果 所有城市人口都像丹麦和荷兰那样采取以自行车为主的通勤方式](http://jandan.net/p/111209) | Thu Sep 15 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
     可行性如何，又会有什么后果 
     </details> 
 
-- 🙉 [今日带货：美心月饼](http://jandan.net/p/111345) | Thu Sep 15 2022 1:34 AM 
+- 🎉 [今日带货：美心月饼](http://jandan.net/p/111345) | Thu Sep 15 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
     是真的好吃 
     </details> 
 
-- 🎉 [恶语为何可以伤人？](http://jandan.net/p/111290) | Wed Sep 14 2022 3:38 PM 
+- 🐲 [恶语为何可以伤人？](http://jandan.net/p/111290) | Wed Sep 14 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
     我们的大脑往往更倾向于关注消极事件而不是积极事物——这就是所谓的消极偏见。 
     </details> 
 
-- 🐲 [3400年的泥板Hurrian Hymn No. 6 记录着最古老的曲谱](http://jandan.net/p/111235) | Wed Sep 14 2022 10:52 AM 
+-  [3400年的泥板Hurrian Hymn No. 6 记录着最古老的曲谱](http://jandan.net/p/111235) | Wed Sep 14 2022 10:52 AM 
     <details><summary>展开描述 ...</summary> 
     现代学者尝试解读和演奏 
-    </details> 
-
--  [发霉啦：今天，是我和搭档合伙开店的第四天](http://jandan.net/p/111342) | Wed Sep 14 2022 6:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    要是每周都是四天班该多好啊 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
