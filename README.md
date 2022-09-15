@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家开发出能产生量子纠缠光子网的超薄超表面](https://www.cnbeta.com/articles/science/1316551.htm) | Thu Sep 15 2022 7:28 AM 
+- 🕯 [女子倒车不当悬空压在路边车顶上 操作让人惊叹：本人称太紧张所致](https://www.cnbeta.com/articles/tech/1316583.htm) | Thu Sep 15 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;桑迪亚国家实验室和马克斯-普朗克研究所的科学家们已经开发出一种方法，它可以使用比平时简单得多的设置来生产量子纠缠光子网。&lt;/strong&gt;其关键则是一个厚度只有纸的1/100的精确图案表面，它可以取代一屋子的光学设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月14日，河南郑州网传一车辆疑因操作不当，悬空压于其他轿车之上，被压车辆车顶损毁严重。据目击者称：”是司机给倒上去的，她在上面充电，充完电之后可能挂错档了，油门当刹车用了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [詹姆斯·韦伯太空望远镜在神秘天体中发现热沙云](https://www.cnbeta.com/articles/science/1316549.htm) | Thu Sep 15 2022 7:24 AM 
+- 💼 [以太坊PoS合并上演在即 仍有头铁矿工想要硬分叉至EthereumPoW](https://www.cnbeta.com/articles/tech/1316581.htm) | Thu Sep 15 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据外媒9月15日报道，近年来，来自美国宇航局的詹姆斯·韦伯太空望远镜持续对宇宙进行着研究。目前为止，该太空望远镜帮助科学家发现过很多神奇的现象，而最新的一个就是褐矮星的大气层似乎充满了热沙云。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;随着加密货币挖矿热度的逐渐减退，苦 GPU 挖矿久矣的 PC 游戏玩家们，开始将目光瞄向市场体量第二大的以太坊的 2.0 转型。&lt;/strong&gt;几个小时内，ETH 就从 1.0 版本的“工作量证明”（PoW）交易认证机制、变成了基于“权益证明”（PoS）的新框架。之后验证者需要将特定数量的加密资产质押在以太坊网络的专用节点，以便相互竞争、验证交易、并将新块引入链中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [从暴涨到暴跌，第一批“元宇宙概念股”怎么样了？](https://www.cnbeta.com/articles/tech/1316547.htm) | Thu Sep 15 2022 7:24 AM 
+- 💂 [AMD锐龙7000平台10月还有一波：PCIe 5.0残血但便宜](https://www.cnbeta.com/articles/tech/1316579.htm) | Thu Sep 15 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当新一批企业涌进来爆炒元宇宙时，前一批“元宇宙概念股”已经用拉垮的业绩证明：尚处在发展早期的元宇宙不是万能的，只想蹭元宇宙的热度更是万万不能的。9月13日，中秋后的首个交易日，“脱口秀概念股”ST洲际引发市场广泛关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD的锐龙7000系列处理器本月底就会上市，不过27日首发的是主要是高端平台，主板是X670E及X670系列，满血PCIe 5.0显卡及SSD存储，只不过价格也会很贵，这次高端主板堆料很足。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国或迎30年来首次全国铁路工人罢工 专家预测日经济损失达20亿美元](https://www.cnbeta.com/articles/tech/1316545.htm) | Thu Sep 15 2022 7:23 AM 
+- 🚀 [Chrome引入省内存/省电模式：减少内存占用](https://www.cnbeta.com/articles/tech/1316577.htm) | Thu Sep 15 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据多家美国媒体报道，近日代表铁路工人的几大工会正因劳资纠纷与主要货运铁路公司进行谈判。由于各方迟迟未能在谈判中达成一致，美国可能将在当地时间16日举行30年来首次全国铁路工人大罢工。罢工预计将给美国经济带来严重负面影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;桌面端 Chrome 浏览器在性能设置页面中，新增了“memory saver”（省内存）和“battery saver”（省电）两种模式。目前，Google将该功能称为“high efficiency”（高效）模式。该功能旨在通过打盹非活动标签页，只有在你激活之后才加载页面内容，这样来节省笔记本电脑电池和改善内存使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [传特斯拉调整中国零售战略：关闭部分豪华商场展厅](https://www.cnbeta.com/articles/tech/1316543.htm) | Thu Sep 15 2022 7:22 AM 
+- 🎊 [[视频]iPhone 14 Pro Max拆解：散热更强 电池略缩水](https://www.cnbeta.com/articles/tech/1316573.htm) | Thu Sep 15 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月15日下午消息，据报道，&lt;strong&gt;知情人士透露，特斯拉正重新评估中国市场的电动汽车销售方式，考虑在客流量大幅下滑的地区，关闭部分豪华商场的展厅。&lt;/strong&gt;此举表明，特斯拉将会加大力度建设成本更低的郊区直营店，同时通过这些网点为客户提供维修服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;油管知名数码频道 PBKreviews 分享了 iPhone 14 Pro Max 的完整拆机视频。在移除屏幕之后，就能看到新款 iPhone 的大部分组件。整体而言，大部分组件布局和 iPhone 13 Pro Max 类似，采用 L 型电池，左侧为逻辑主板，并配有全新封装的 A16 Bionic 芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
