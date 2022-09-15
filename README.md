@@ -804,7 +804,7 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [如果 所有城市人口都像丹麦和瑞典那样采取以自行车为主的通勤方式](http://jandan.net/p/111209) | Thu Sep 15 2022 3:21 AM 
+- 🚀 [如果 所有城市人口都像丹麦和荷兰那样采取以自行车为主的通勤方式](http://jandan.net/p/111209) | Thu Sep 15 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
     可行性如何，又会有什么后果 
     </details> 
