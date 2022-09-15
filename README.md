@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | Google和Meta被罚千亿韩元；吹哨人指控Twitter“重利润，轻安全”](https://www.freebuf.com/news/344522.html) | Wed Sep 14 2022 11:27 AM 
+- 🦄 [国外流行的同性恋APP被黑灰产们盯上了](https://www.freebuf.com/news/344555.html) | Thu Sep 15 2022 3:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    攻击者通过推销各类诈骗和不安全的谷歌Chrome扩展程序域名来诱导用户。 
+    </details> 
+
+- 🦄 [赠书福利 | 国内首部身份安全专业书籍《身份攻击向量》](https://www.freebuf.com/fevents/344543.html) | Thu Sep 15 2022 2:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    本书从基础概念科普和工程化实践指导角度出发，详细介绍了企业IAM相关基本概念和技术以及身份治理。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | Google和Meta被罚千亿韩元；吹哨人指控Twitter“重利润，轻安全”](https://www.freebuf.com/news/344522.html) | Wed Sep 14 2022 11:27 AM 
     <details><summary>展开描述 ...</summary> 
     Google 和 Meta 涉嫌在韩国未经用户同意收集个人信息并将此用于在线投放个性化广告，分别被罚 692 亿韩元和 308 亿韩元。 
     </details> 
 
-- 🦄 [重磅消息，《网络安全法》或迎来修改](https://www.freebuf.com/news/344516.html) | Wed Sep 14 2022 10:02 AM 
+- 🪄 [重磅消息，《网络安全法》或迎来修改](https://www.freebuf.com/news/344516.html) | Wed Sep 14 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
     此次修改将进一步做好相关法律的衔接协调，完善法律责任制度，保护个人、组织在网络空间的合法权益。 
     </details> 
 
-- 🦅 [大手笔！谷歌花54亿美金收购网络安全公司 Mandiant](https://www.freebuf.com/news/344484.html) | Wed Sep 14 2022 5:49 AM 
+- 💻 [大手笔！谷歌花54亿美金收购网络安全公司 Mandiant](https://www.freebuf.com/news/344484.html) | Wed Sep 14 2022 5:49 AM 
     <details><summary>展开描述 ...</summary> 
     Google宣布以54亿美金收购网络安全公司 Mandiant，未来Mandiant将在谷歌云的支持下运营，其品牌依旧存在。 
-    </details> 
-
-- 🪄 [工控攻击！黑客组织GhostSec 称入侵以色列55 家Berghof PLC](https://www.freebuf.com/articles/ics-articles/344476.html) | Wed Sep 14 2022 3:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    该网络攻击行为被视为“解放巴勒斯坦”运动的组成部分。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 谷歌花54亿美元收购Mandiant；黑客企图入侵韩国政府56万次](https://www.freebuf.com/news/344393.html) | Tue Sep 13 2022 6:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    Google 提议 54 亿美元收购网络安全公司 Mandiant 的交易现在已经完成 
     </details> 
 <!-- freebuf:END -->
 
