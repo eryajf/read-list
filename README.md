@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果计划将iPhone 14的卫星紧急求救功能扩展到更多国家](https://www.cnbeta.com/articles/tech/1316719.htm) | Thu Sep 15 2022 3:02 PM 
+- 🕯 [“尖齿卫矛”为何“失踪”百年能再次出现？](https://www.cnbeta.com/articles/science/1316733.htm) | Thu Sep 15 2022 4:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;刚刚开始向全球出货的所有四款iPhone 14都有一个新的卫星紧急求救功能，该功能将于11月在美国和加拿大推出，一份新的报告称，苹果计划随着时间的推移将该功能扩展到更多国家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月15日，生态环境部部长黄润秋在中共中央宣传部举行的“中国这十年”系列主题新闻发布会上表示，这十年是我国生态安全屏障有效巩固的十年。过去曾经被认为已经灭绝的彩鹮再次出现，极度濒危的海南长臂猿种群在不断扩大，“失踪”百年的极度濒危植物尖齿卫矛也再次被发现，112种特有珍稀濒危野生动植物实现了野外回归。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [某酸奶品牌称从百岁老人肠道采集益生菌 网友集体留下心理阴影](https://hot.cnbeta.com/articles/funny/1316717.htm) | Thu Sep 15 2022 2:57 PM 
+- 💼 [万亿大飞机市场即将起飞 多家上市公司成供应商](https://www.cnbeta.com/articles/tech/1316731.htm) | Thu Sep 15 2022 3:48 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据网友反应，一款酸奶宣称其添加的益生菌菌株是从百岁老人肠道采集筛选的，如此直白的描述震撼了不少网友。视频显示，&lt;strong&gt;在这款白色外包装的酸奶配料表上，标注有一种名为鼠李糖乳杆菌hsryfm1301的益生菌菌株，配料表下方还有一段文字解释称，上述益生菌菌株是从巴马百岁老人肠道采集筛选的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1316717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月15日，在2022世界设计之都大会开幕式上，中国工程院院士、中国商用飞机有限责任公司首席科学家、C919大型客机系列型总设计师吴光辉在现场表示，“8月1日，中国商飞宣布完成C919全部的取证前的试飞任务。今年很快将取得民航的适航证，并交付给首家客户东航。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [ETH合并数小时后NVIDIA GeForce和AMD Radeon显卡价格创下历史最低](https://www.cnbeta.com/articles/tech/1316715.htm) | Thu Sep 15 2022 2:47 PM 
+- 💂 [五大科技巨头将在白宫宣布新行动](https://www.cnbeta.com/articles/tech/1316729.htm) | Thu Sep 15 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;ETH合并刚刚开始几个小时，我们已经注意到各个零售商对NVIDIA GeForce和AMD Radeon显卡的大幅降价。&lt;/strong&gt;最近的降价背后有几个因素，其中之一无疑是我们所知的ETH挖矿的结束。随着ETH的合并，显卡上的挖矿或多或少地结束了，而这是市场已经预期了一段时间的事情。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月15日消息，在乔·拜登总统主持的白宫峰会上五大科技巨头（微软、Instagram、Facebook母公司Meta Corp、Alphabet Inc.的YouTube和亚马逊公司的Twitch）将宣布打击仇恨犯罪和种族暴力的新行动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [TikTok刚刚推出了一个名为TikTok Now的BeReal克隆品](https://www.cnbeta.com/articles/tech/1316713.htm) | Thu Sep 15 2022 2:19 PM 
+- 🚀 [工信部：正组织研究推进eSIM技术在智能手机等设备上的应用](https://www.cnbeta.com/articles/tech/1316727.htm) | Thu Sep 15 2022 3:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;TikTok今天推出了一项新功能，基本上只是BeReal的翻版，BeReal是一个当下非常热门的法国社交应用，一直在稳步获得人气。BeReal邀请用户每天在随机时间拍摄一张前后摄像头的照片，旨在捕捉我们的朋友整天在做什么的更真实的照片（当然，可以等到你在做有趣的事情时再发布）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，有网友在工业和信息化部官网留言询问称，最近eSIM卡的使用引起了更大的讨论，请问我国是否有eSIM手机卡的推广计划？对此，工信部9月15日回复称，“我部高度重视保护消费者合法权益，坚持在确保用户合法权益和信息安全的基础上，积极推动新技术新设备的应用和推广。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马化腾辟谣微信小游戏《羊了个羊》日入468万：图是PS伪造](https://hot.cnbeta.com/articles/game/1316711.htm) | Thu Sep 15 2022 2:11 PM 
+- 🎊 [茶颜悦色，为何总在“性”上翻车？](https://www.cnbeta.com/articles/tech/1316725.htm) | Thu Sep 15 2022 3:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微信小游戏《羊了个羊》爆火后，在网上出现一张微信广告助手截图，内容显示，9月14日的流量主数据日报提示，《羊了个羊》小程序日收入达到了468万，本月收入更是已经达到惊人的2564万元。对于此事，&lt;strong&gt;&lt;a class=&quot;f14_link&quot; href=&quot;https://finance.sina.com.cn/tech/internet/2022-09-15/doc-imqqsmrn9237261.shtml&quot; target=&quot;_blank&quot;&gt;新浪科技&lt;/a&gt;报道称，马化腾在相关朋友圈下面评论：核实了是PS伪造的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;继今年8月的排队风波后，茶颜悦色在南京又因为 &amp;quot;SexyTea&amp;quot; 的英文名站在了风口浪尖。有南京市民表示，茶颜悦色门店 &amp;quot;SexyTea&amp;quot; 的英文招牌十分不妥，这样的英文表述配上古典的女子形象会引发不好的联想，有擦边球嫌疑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
