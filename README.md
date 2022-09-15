@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Batch Editor by Pixlr - 立即轻松地一次编辑](https://xinquji.com/posts/179516?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:44 AM 
+- 👀 [TikTok Now - 每日照片和视频体验](https://xinquji.com/posts/179540?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     立即轻松地一次编辑  
+     每日照片和视频体验  
     </details> 
 
-- 🥷 [Softorino YouTube Converter PRO - 将 YouTube MP4 和 MP3 下载到 Mac 或 iPhone 的最安全方式](https://xinquji.com/posts/179515?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:42 AM 
+- 🥷 [TrustGem - 领先的值得信赖评论的 web3 社区](https://xinquji.com/posts/179539?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     将 YouTube MP4 和 MP3 下载到 Mac 或 iPhone 的最安全方式  
+     领先的值得信赖评论的 web3 社区  
     </details> 
 
-- 💼 [Crypto and FinTech API by Front - 金融科技的实时数据聚合和资产转移](https://xinquji.com/posts/179514?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:40 AM 
+- 💼 [Papyr - 推特阅读](https://xinquji.com/posts/179538?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     金融科技的实时数据聚合和资产转移  
+     推特阅读  
     </details> 
 
-- 🦅 [Beautiful.ai PowerPoint Add-In - 在 PowerPoint 中以 10 倍的速度创建精美的幻灯片](https://xinquji.com/posts/179513?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:40 AM 
+- 🦅 [Startup Timer - 测量 Windows 启动时间](https://xinquji.com/posts/179537?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     在 PowerPoint 中以 10 倍的速度创建精美的幻灯片  
+     测量 Windows 启动时间  
     </details> 
 
-- 😺 [Learn.fm - 在线员工培训平台](https://xinquji.com/posts/179512?utm_campaign=xinquji-rss) | Thu Sep 15 2022 6:38 AM 
+- 😺 [Hypotenuse AI - 使用 AI 创建独特的文案和视觉内容](https://xinquji.com/posts/179536?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     在线员工培训平台  
+     使用 AI 创建独特的文案和视觉内容  
     </details> 
 <!-- xinquji:END -->
