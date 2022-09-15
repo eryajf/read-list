@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [TikTok刚刚推出了一个名为TikTok Now的BeReal克隆品](https://www.cnbeta.com/articles/tech/1316713.htm) | Thu Sep 15 2022 2:19 PM 
+- 🕯 [苹果计划将iPhone 14的卫星紧急求救功能扩展到更多国家](https://www.cnbeta.com/articles/tech/1316719.htm) | Thu Sep 15 2022 3:02 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;刚刚开始向全球出货的所有四款iPhone 14都有一个新的卫星紧急求救功能，该功能将于11月在美国和加拿大推出，一份新的报告称，苹果计划随着时间的推移将该功能扩展到更多国家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [某酸奶品牌称从百岁老人肠道采集益生菌 网友集体留下心理阴影](https://hot.cnbeta.com/articles/funny/1316717.htm) | Thu Sep 15 2022 2:57 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据网友反应，一款酸奶宣称其添加的益生菌菌株是从百岁老人肠道采集筛选的，如此直白的描述震撼了不少网友。视频显示，&lt;strong&gt;在这款白色外包装的酸奶配料表上，标注有一种名为鼠李糖乳杆菌hsryfm1301的益生菌菌株，配料表下方还有一段文字解释称，上述益生菌菌株是从巴马百岁老人肠道采集筛选的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1316717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [ETH合并数小时后NVIDIA GeForce和AMD Radeon显卡价格创下历史最低](https://www.cnbeta.com/articles/tech/1316715.htm) | Thu Sep 15 2022 2:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;ETH合并刚刚开始几个小时，我们已经注意到各个零售商对NVIDIA GeForce和AMD Radeon显卡的大幅降价。&lt;/strong&gt;最近的降价背后有几个因素，其中之一无疑是我们所知的ETH挖矿的结束。随着ETH的合并，显卡上的挖矿或多或少地结束了，而这是市场已经预期了一段时间的事情。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [TikTok刚刚推出了一个名为TikTok Now的BeReal克隆品](https://www.cnbeta.com/articles/tech/1316713.htm) | Thu Sep 15 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;TikTok今天推出了一项新功能，基本上只是BeReal的翻版，BeReal是一个当下非常热门的法国社交应用，一直在稳步获得人气。BeReal邀请用户每天在随机时间拍摄一张前后摄像头的照片，旨在捕捉我们的朋友整天在做什么的更真实的照片（当然，可以等到你在做有趣的事情时再发布）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马化腾辟谣微信小游戏《羊了个羊》日入468万：图是PS伪造](https://hot.cnbeta.com/articles/game/1316711.htm) | Thu Sep 15 2022 2:11 PM 
+- 🎊 [马化腾辟谣微信小游戏《羊了个羊》日入468万：图是PS伪造](https://hot.cnbeta.com/articles/game/1316711.htm) | Thu Sep 15 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;微信小游戏《羊了个羊》爆火后，在网上出现一张微信广告助手截图，内容显示，9月14日的流量主数据日报提示，《羊了个羊》小程序日收入达到了468万，本月收入更是已经达到惊人的2564万元。对于此事，&lt;strong&gt;&lt;a class=&quot;f14_link&quot; href=&quot;https://finance.sina.com.cn/tech/internet/2022-09-15/doc-imqqsmrn9237261.shtml&quot; target=&quot;_blank&quot;&gt;新浪科技&lt;/a&gt;报道称，马化腾在相关朋友圈下面评论：核实了是PS伪造的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [业内人士回应保时捷起火车主遇难：碰撞可能致车门无法解锁](https://www.cnbeta.com/articles/tech/1316709.htm) | Thu Sep 15 2022 2:11 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，一辆雷克萨斯LM发生车祸后，先是着火，继而是车门无法打开，最终导致人员伤亡的事件引起网络关注，近日，又一个品牌发生类似的事故。9月5日江苏苏州一辆保时捷新能源车Taycan碰撞护栏后引发大火，&lt;strong&gt;路过人员想营救却没法打开车门，车内人员最终不幸遇难。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [网页版Snapchat现已向全球所有用户开放](https://www.cnbeta.com/articles/tech/1316707.htm) | Thu Sep 15 2022 2:09 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Snapchat周四宣布，其应用程序的网页版Snapchat for Web已向其整个全球社区开放。&lt;/strong&gt;该社交网络最初于7月向美国、英国、加拿大、澳大利亚和新西兰的Snapchat+用户推出网页版Snapchat。现在，所有Snapchat用户都可以访问桌面版。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [为什么厨房、卫生间的这种小飞虫总是阴魂不散？](https://www.cnbeta.com/articles/science/1316705.htm) | Thu Sep 15 2022 2:05 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;家里卫生间墙上有时候会有一些小飞虫，相信大家对下面这个图并不陌生。这种小飞虫是蛾蚋科的，具体来说，要么是白斑蛾蚋，要么是星斑蛾蚋。你会发现，它们一般都出现在潮湿的地方，而且很不容易被打死。看见它们的时候，停在墙上半天也一动不动，刚想过去给一巴掌，就马上跳到另一边墙上，十分讨厌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
