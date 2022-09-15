@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [“尖齿卫矛”为何“失踪”百年能再次出现？](https://www.cnbeta.com/articles/science/1316733.htm) | Thu Sep 15 2022 4:22 PM 
+- 🕯 [“史诗级归零”：从韩国马斯克到韩国“庞氏”](https://www.cnbeta.com/articles/tech/1316745.htm) | Thu Sep 15 2022 5:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月15日，生态环境部部长黄润秋在中共中央宣传部举行的“中国这十年”系列主题新闻发布会上表示，这十年是我国生态安全屏障有效巩固的十年。过去曾经被认为已经灭绝的彩鹮再次出现，极度濒危的海南长臂猿种群在不断扩大，“失踪”百年的极度濒危植物尖齿卫矛也再次被发现，112种特有珍稀濒危野生动植物实现了野外回归。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年5月，币圈第三大稳定币UST和LUNA币雪崩，几百亿美元的资产灰飞烟灭。如今，这一切的“始作俑者”——LUNA币创始人、Terraform&amp;nbsp;Labs联合创始人权道亨（Do&amp;nbsp;Kwon）被韩国法院批准逮捕。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [万亿大飞机市场即将起飞 多家上市公司成供应商](https://www.cnbeta.com/articles/tech/1316731.htm) | Thu Sep 15 2022 3:48 PM 
+- 💼 [订单排到11月 iPhone 14/Pro系列今日开售：5999元起](https://www.cnbeta.com/articles/tech/1316743.htm) | Thu Sep 15 2022 4:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月15日，在2022世界设计之都大会开幕式上，中国工程院院士、中国商用飞机有限责任公司首席科学家、C919大型客机系列型总设计师吴光辉在现场表示，“8月1日，中国商飞宣布完成C919全部的取证前的试飞任务。今年很快将取得民航的适航证，并交付给首家客户东航。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;经过一周预售，&lt;strong&gt;全新iPhone 14、iPhone 14 Pro、iPhone 14 Pro Max今日正式开售，售价5999元起，&lt;/strong&gt;iPhone 14 Plus则需等到10月7日开卖。除苹果官网外，合作电商平台也将同步开售，其中Apple产品京东自营旗舰店显示，iPhone 14系列将于今早8点发售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [五大科技巨头将在白宫宣布新行动](https://www.cnbeta.com/articles/tech/1316729.htm) | Thu Sep 15 2022 3:47 PM 
+- 💂 [NVIDIA官方确认：RTX 40的三个秘密提前揭晓](https://www.cnbeta.com/articles/tech/1316741.htm) | Thu Sep 15 2022 4:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月15日消息，在乔·拜登总统主持的白宫峰会上五大科技巨头（微软、Instagram、Facebook母公司Meta Corp、Alphabet Inc.的YouTube和亚马逊公司的Twitch）将宣布打击仇恨犯罪和种族暴力的新行动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA此前已经宣布，将在北京时间&lt;strong&gt;9月20日晚23点&lt;/strong&gt;的GTC图形技术大会期间，举办名为Project Beyond的主题活动，主角是GeForce RTX显卡。显然，等待太久的RTX 40系列显卡终于要来了！当然，这应该是一次预热，而不是正式发布，预计会给出一些架构、核心方面的信息点，但不会有具体产品型号、规格、价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [工信部：正组织研究推进eSIM技术在智能手机等设备上的应用](https://www.cnbeta.com/articles/tech/1316727.htm) | Thu Sep 15 2022 3:46 PM 
+- 🚀 [全球最大发动机：近11万马力、每小时吞掉1.3万升燃料](https://www.cnbeta.com/articles/tech/1316739.htm) | Thu Sep 15 2022 4:45 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，有网友在工业和信息化部官网留言询问称，最近eSIM卡的使用引起了更大的讨论，请问我国是否有eSIM手机卡的推广计划？对此，工信部9月15日回复称，“我部高度重视保护消费者合法权益，坚持在确保用户合法权益和信息安全的基础上，积极推动新技术新设备的应用和推广。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;发动机经常被描述为现代交通工具的心脏，人们用它驱动汽车、火车，轮船等交通工具，以更快的速度把人和货送往目的地。对于燃油发动机而言，限制其动力的决定性因素之一就是它的大小，因为较大的发动机通常能够比较小的发动机同时燃烧更多的燃料，并产生更多的动力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [茶颜悦色，为何总在“性”上翻车？](https://www.cnbeta.com/articles/tech/1316725.htm) | Thu Sep 15 2022 3:46 PM 
+- 🎊 [横跨Intel高通双平台 消息称微软Surface Pro 9下月发布](https://www.cnbeta.com/articles/tech/1316737.htm) | Thu Sep 15 2022 4:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继今年8月的排队风波后，茶颜悦色在南京又因为 &amp;quot;SexyTea&amp;quot; 的英文名站在了风口浪尖。有南京市民表示，茶颜悦色门店 &amp;quot;SexyTea&amp;quot; 的英文招牌十分不妥，这样的英文表述配上古典的女子形象会引发不好的联想，有擦边球嫌疑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，科技媒体Phone Arena发文指出，对于即将到来的Surface Pro 9系列，微软准备了一个大惊喜。据爆料，所谓的“惊喜”是微软Surface Pro 9系列将Surface Pro数字系列和Surface Pro X系列整合到了一起，&lt;strong&gt;这次微软会同时发布英特尔版Surface Pro 9和骁龙版Surface Pro 9。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
