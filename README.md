@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [总投近万亿 总统拜登：美国公路将完全电气化](https://www.cnbeta.com/articles/tech/1316607.htm) | Thu Sep 15 2022 9:15 AM 
+- 🕯 [UNSW团队打造新型IPMSM高速电机：机械结构大增强 原型转速达十万](https://www.cnbeta.com/articles/science/1316619.htm) | Thu Sep 15 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;北京时间9月15日消息，在底特律车展上拜登总统宣布批准资助35个州开始建设由50万个充电站组成的全国网络。&lt;/strong&gt;并发推文称，“我的《美国救援计划》、《两党基础设施法》、《降低通胀法案》以及《芯片与科学法案》共投资超过1350亿美元，以推进美国电动汽车的未来，目标是让充电就像找加油站一样容易。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;韩国最长的铁路桥的形状，让澳大利亚新南威尔士大学（UNSW）的工程师受到了启发，最终设计出了一种新颖的高速电机。&lt;strong&gt;CleanTechnica 报道称，这款内置永磁同步电机（IPMSM）原型已达成 10 万 RPM 的转速，创下了新的世界纪录。&lt;/strong&gt;此外对于电动汽车行业来说，这类新电机有望成为其牵引驱动的新选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英特尔详细介绍了FFmpeg中的oneVPL CPU和GPU加速特性](https://www.cnbeta.com/articles/tech/1316605.htm) | Thu Sep 15 2022 9:08 AM 
+- 💼 [iPhone 14机身结构变了：从后盖拆机](https://www.cnbeta.com/articles/tech/1316617.htm) | Thu Sep 15 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔介绍了该公司包含在FFmpeg oneAPI工具包中的视频处理和加速库的oneVPL支持。oneVPL视频处理库有助于在处理器和公司内部的GPU加速中调用最新的12代酷睿Alder Lake和Intel Xe硬件。加速的重点是英特尔Arc Graphics和DG2硬件，指导媒体SDK支持前几代显卡，能够适应其他潜在的CPU和GPU后端。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;明天，iPhone 14系列就要正式上市了，目前大部分经销商已经收到了iPhone 14系列的机器。虽然现在激活要面临20万每台的巨额罚款，但不开机一样能窥探到很多秘密——直接拆机。抖音博主杨长顺就晒出了自己对iPhone 14的拆机画面，&lt;strong&gt;可以发现这一代的手机回归了当年iPhone 4三明治时代的拆机方式，整机是从后盖位置开启。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [网飞动画部门裁员30人 无计划放缓动画节目制作](https://hot.cnbeta.com/articles/comic/1316603.htm) | Thu Sep 15 2022 9:06 AM 
+- 💂 [张朝阳出物理题考网友仅一人答出 奖励一台iPhone 14](https://hot.cnbeta.com/articles/funny/1316615.htm) | Thu Sep 15 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为网飞 Netflix 动画部门大范围“精简”的一部分，公司正在裁员。&lt;/strong&gt;根据 DEADLINE报道称，作为这一轮裁员的一部分，公司将裁员30 人； 网飞在其寡妇囊网站上确认了此次裁员的消息。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1316603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;读书真的有用，知识可以赚钱！据@荔枝新闻报道，近日张朝阳在直播讲物理题时，提出一个普遍计算匀速运动电荷的势场题目让网友解答，&lt;strong&gt;以一台iPhone14作为解答者奖品&lt;/strong&gt;。最终这道颇具难度的物理题被一位来自&lt;strong&gt;江苏的女大学生解出&lt;/strong&gt;，该同学表示最近在准备考研，会抽空看物理课，觉得很有意思于是尝试解答。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1316615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [2022日本游戏大赏奖项公布 《艾尔登法环》斩获年度游戏](https://hot.cnbeta.com/articles/game/1316601.htm) | Thu Sep 15 2022 8:59 AM 
+- 🚀 [美团王兴三次抛售理想汽车股票 累计套现约1.7亿元](https://www.cnbeta.com/articles/tech/1316613.htm) | Thu Sep 15 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;TGS2022直播公布了2022日本游戏大赏的多个游戏奖项，其中《黑暗之魂》、《血源》、《只狼》和《艾尔登法环》制作人宫崎英高获得了2022年经济产业大臣奖，该奖项旨在表彰对游戏产业做出杰出贡献的个人或者团体。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月15日消息，理想汽车提交给港交所的文件显示，理想汽车的投资人之一，美团董事长王兴于今年第一季度减持理想汽车。分别是在3月29日减持40万股理想汽车股份，均价27.3美元/股，3月30日又先后减持40.49万股和37.6万股，均价分别为107.85港元/股和27.81美元/股。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [以太坊8年挖矿时代结束：V神、中国矿业，与英伟达](https://www.cnbeta.com/articles/tech/1316599.htm) | Thu Sep 15 2022 8:59 AM 
+- 🎊 [Rondo“砖头烤炉”：计划15年内将全球二氧化碳产量减少15%](https://www.cnbeta.com/articles/tech/1316611.htm) | Thu Sep 15 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;‘我们显卡已经全卖了，没有恐慌。’在BlockBeats与多位矿工的对话中，这个观点代表了大部分以太坊矿工。&lt;/strong&gt;相比于去年6月比特币挖矿政策的突然限制、全中国比特币矿机不得不等待关机止损的被动选择，以太坊的矿工们心态明显要好得多，他们有接近一年的时间来消化即将不能挖矿这件事。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;工业热能消耗了全球能源的巨大比例。Rondo Energy表示，其砖头式储热装置是相当便宜和高效，以至于使脱碳在巨大的工业范围内立即成为一个不需要考虑的问题。比尔·盖茨也同意这点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
