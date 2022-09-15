@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [云原生爱好者周刊：电子书《可观测性工程》开放下载 | 2022-08-01](https://juejin.cn/post/7143508275030392868) | Thu Sep 15 2022 7:41 AM 
+- 🤗 [开源指南｜如何从零开始参与 Apache 顶级开源项目？（二）](https://juejin.cn/post/7143498448904880136) | Thu Sep 15 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-    ## 开源项目推荐 ### [Aya]&lpar;https://github.com/aya-rs/aya&rpar; Aya 是一个注重可操作性和开发者体验的 eBPF 库，它不依赖于 libbpf 或 bcc 
+    写在开头 上一篇文章 如何从零开始参与 Apache 顶级开源项目？ 我们介绍了 Apache Doris 社区的工作机制、如何参与社区贡献以及如何完成第一个 PR，更多是从大而全的角度来介绍参与开源 
     </details> 
 
-- 🎡 [MySQL 时间类型用 datetime, timestamp 还是 integer ？](https://juejin.cn/post/7143506494359601188) | Thu Sep 15 2022 7:34 AM 
+- 🎡 [Pflag、Viper、Cobra 核心功能介绍](https://juejin.cn/post/7143498314883792933) | Thu Sep 15 2022 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-    当我们需要时间戳比较的时候，建表应该用 datetime, timestamp 还是 int 呢？今天我们就来看看有什么区别 
+    1.如何构建应用框架 一般来说构建应用框架包含3个部分： 命令行参数解析 配置文件解析 应用的命令行框架：需要具备 Help 功能、需要能够解析命令行参数和配置文件、命令需要能够初始化业务代码，并最终 
     </details> 
 
-- 🕯 [Docker 实战小白易上手-云原生（基础）](https://juejin.cn/post/7143503391065374734) | Thu Sep 15 2022 7:22 AM 
+- 🕯 [线程池究竟是怎么发挥作用的](https://juejin.cn/post/7143494647954800654) | Thu Sep 15 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-    码字不易，小伙伴们觉得有帮助的话，点个赞呗 你的赞就是我创作的动力！ 我是 @飓哥，经常会分享Java后台硬核知识，欢迎大家关注～ Docker基本概念 解决的问题 1、统一标准 应用构建 Java、 
+    在计算机编程中，线程池是一种用于程序并发执行的软件设计模式。在线程池中会维护多个线程（等待被分配），以此来避免频繁地创建、销毁线程（执行短暂任务）而导致的延迟增加和性能下降。而在Java中也存在着 
     </details> 
 
-- 🚀 [STM32F103移植FreeRTOS完整过程](https://juejin.cn/post/7143502761122856996) | Thu Sep 15 2022 7:19 AM 
+- 🚀 [一文了解 Java 中的构造器](https://juejin.cn/post/7143494356530364447) | Thu Sep 15 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-    演示STM32F103移植FreeRTOS完整过程，文末提供移植好的完整工程演示STM32F103移植FreeRTOS完整过程，文末提供移植好的完整工程 
+    一文了解 Java 中的构造器 C ++ 引入了构造器（constructor，也叫构造函数）的概念，它是在创建对象时被自动调用的特殊方法。 Java 也采用了构造器，并且还提供了一个垃圾收集器（ga 
     </details> 
 
-- 💪 [使用tensorflow model maker训练目标检测模型](https://juejin.cn/post/7143500336488005668) | Thu Sep 15 2022 7:10 AM 
+- 💪 [【手把手】光说不练假把式，这篇全链路压测实践探索](https://juejin.cn/post/7143489262447493156) | Thu Sep 15 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-    tensorflow model maker使用EfficientDet-Lite0预训练模型训练目标检测模型 
+    Hello，大家好呀，前两篇文章，我们说了下关于全链路压测的意义、整体架构，以及5种压测的方案。 前面两篇基本都属于比较理论的内容，今天这篇咱们来点实践的东西，手把手带你搞出一个压测来 如果不清 
     </details> 
 <!-- juejin:END -->
 ### 少数派
