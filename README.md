@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [TextMan 1.9 OCR文字识别](https://xclient.info/s/textman.html) | Wed Sep 14 2022 1:01 AM 
+- 🦏 [Synkmark 3.0 Safari书签同步](https://xclient.info/s/synkmark.html) | Thu Sep 15 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-    TextMan是Mac电脑上的一款OCR文字识别软件。再也不用为网站、PDF、图片或系统用户界面上无法选择的文字而烦恼了。 
+    Synkmark是Mac os平台上的一款帮助用户在Safari上同步自己的标签的Mac软件 
     </details> 
 
--  [zFuse Pro 1.6.128 视频播放器](https://xclient.info/s/zfuse.html) | Wed Sep 14 2022 12:57 AM 
+-  [Transmit 5.8.10 一款功能齐全的FTP客户端](https://xclient.info/s/transmit.html) | Thu Sep 15 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-    zFuse Pro 是Mac电脑上的一款简单而强大的视频播放器。 
+    Transmit是一款功能齐全的FTP客户端。兼容FTP，SFTP和TLS/SSL协议，提供比Finder更加迅速的iDisk账户接入。与此同时，用户还可以通过Transmit在任意应用程序中无须下载即可实时编辑文档，方便简洁，一步到位。 
     </details> 
 
-- ⚗️ [TinkerTool System 7.9.220913 系统深度设置维护工具](https://xclient.info/s/tinkertool-system.html) | Wed Sep 14 2022 12:52 AM 
+- ⚗️ [Things 3.15.21 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Thu Sep 15 2022 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-    TinkerTool System 是一款Mac平台的系统深度设置维护工具，以帮助你修改一些系统隐藏的属性,包括系统界面字体,是否不显示隐藏文件等 
+    Things 是 Mac OS X 上的一款优秀的GTD任务管理工具，是一款非常值得尝试的任务管理及日程管理程序，并且支持同步到iPhone中。 
     </details> 
 
-- 🔥 [iShowU Instant 1.4.12 实时屏幕录制软件](https://xclient.info/s/ishowu-instant.html) | Wed Sep 14 2022 12:51 AM 
+- 🔥 [Nova 9.6 代码编辑器](https://xclient.info/s/nova.html) | Thu Sep 15 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    iShowU Instant是一款macOS平台的功能强大的屏幕录像软件，可以帮助我们在mac电脑上实现多种录像需求，支持游戏录制、屏幕录制、摄像头录制，还可以帮助用户对视频进行编辑。 
+    Nova是Mac电脑上的一款强大的代码编辑工具，支持智能自动完成，多个光标，Minimap，编辑器过度滚动，标签对和括号以及更多方式。 
     </details> 
 
-- 🌋 [QuartzCode 1.67.1 动画制作开发工具](https://xclient.info/s/quartzcode.html) | Wed Sep 14 2022 12:50 AM 
+- 🌋 [Infuse Pro 7.4.5 全能视频播放器](https://xclient.info/s/infuse-pro.html) | Thu Sep 15 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    可以将制作的动画生成为Objective-C以及Swift code代码 
+    Infuse Pro 是一款强大的 Mac 视频播放器。它可以一口通吃您所有的视频文件，把您从繁琐的视频转换中解放出来，用极美的方式在您的 Mac 上观赏几乎所有视频的格式。 
     </details> 
 <!-- xclient:END -->
 
