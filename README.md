@@ -408,7 +408,7 @@
 
 - 🐘 [派周报 Vol. 009：知果罪果，其惟春秋](https://sspai.com/prime/story/pi-weekly-009) | Fri Sep 16 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-    如果只是将苹果发力广告业务当作一个独立事件看待，或许也只能评价为生财有方。但与推行时间相近的「应用追踪透明度」（ATT）机制，却让苹果日渐面临「既当运动员，又当裁判员」的指控。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-009&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    苹果发力广告业务，如果当作一个独立事件看待，或许也只能评价为生财有方。但与之推行时间相近的「应用追踪透明度」（ATT）机制，却让苹果日渐面临「既当运动员，又当裁判员」的指控。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-009&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
 - 🤭 [买新还是买旧，一步到位还是浅尝辄止：Apple Watch 系列导购](https://sspai.com/post/75707) | Fri Sep 16 2022 8:00 AM 
