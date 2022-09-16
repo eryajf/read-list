@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android性能优化 - plt hook 与native线程监控](https://juejin.cn/post/7143945091366223903) | Fri Sep 16 2022 11:58 AM 
+- 🤗 [2022年基础设施自动化和监控的17个最佳DevOps工具](https://juejin.cn/post/7143966858696196103) | Fri Sep 16 2022 1:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    Infrastructure as Code / Configuration Management Infrastructure as code &lpar;IaC&rpar; 可以帮助我们自动的提供云基础架构。 无论是 
+    </details> 
+
+- 🎡 [Spring5源码16-@EnableWebMvc注解原理](https://juejin.cn/post/7143959563459362847) | Fri Sep 16 2022 12:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    @EnableMVC注解的实现原理，核心类DelegatingWebMvcConfiguration 
+    </details> 
+
+- 🕯 [知道如何根据业务去优化UITableView，你会感觉到工作无比顺畅](https://juejin.cn/post/7143959075775053861) | Fri Sep 16 2022 12:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    如果你觉得 UITableViewDelegate 和 UITableViewDataSource 这两个协议中有大量方法每次都是复制粘贴，实现起来大同小异 
+    </details> 
+
+- 🚀 [Android性能优化 - plt hook 与native线程监控](https://juejin.cn/post/7143945091366223903) | Fri Sep 16 2022 11:58 AM 
     <details><summary>展开描述 ...</summary> 
     java线程的背后是native线程！通过了解native线程的创建以及got/plt hook的原理，实现native线程的监控吧！ 
     </details> 
 
-- 🎡 [Android性能优化-线程监控与线程统一](https://juejin.cn/post/7143944351016550437) | Fri Sep 16 2022 11:55 AM 
+- 💪 [Android性能优化-线程监控与线程统一](https://juejin.cn/post/7143944351016550437) | Fri Sep 16 2022 11:55 AM 
     <details><summary>展开描述 ...</summary> 
     androi性能优化之线程篇，了解线程是怎么创建的以及线程监控与优化，全局线程统一的坑与实现点，学会用asm进行字节码编辑 
-    </details> 
-
-- 🕯 [如何优雅地编写一个高逼格的JS插件惊艳你的领导和同事？](https://juejin.cn/post/7143941617395695623) | Fri Sep 16 2022 11:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    在一个风和日丽的早晨，我正悠闲地喝着Coffe，突然领导向我走来，我赶紧熟练地切出VSCode，淡定自若地问：领导，什么事？领导拍了拍我的肩膀：你上次封装的方法同事跟我反馈使用起来很不错啊，你不如做成 
-    </details> 
-
-- 🚀 [测试左移-快速玩转Debug](https://juejin.cn/post/7143932872854863902) | Fri Sep 16 2022 11:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    QA同学通过学习debug，能够追踪代码的运行过程，快速熟悉代码实现和调用链路，扩展case的设计思路，同时从黑盒转向白盒，提高问题定位、精准case设计的能力。 
-    </details> 
-
-- 💪 [实现《羊了个羊》的小游戏](https://juejin.cn/post/7143933122415951903) | Fri Sep 16 2022 11:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    实现《羊了个羊-动物版》的小游戏 这两天火爆全场的《羊了个羊》游戏，相信大家都玩过了，那么在玩这个游戏的同时，我想大家都会好奇这个游戏的实现，本文就带大家使用css,html,js来实现一个动物版的游 
     </details> 
 <!-- juejin:END -->
 ### 少数派
