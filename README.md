@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Onduis Analytics - 谷歌分析，但有隐私](https://xinquji.com/posts/179566?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:57 AM 
+- 👀 [Bank.io - 适用于 iOS 16 的编码金融科技移动应用程序 UI 套件](https://xinquji.com/posts/179584?utm_campaign=xinquji-rss) | Sat Sep 17 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     谷歌分析，但有隐私  
+     适用于 iOS 16 的编码金融科技移动应用程序 UI 套件  
     </details> 
 
-- 🥷 [Solutions: The Game - 一款为气候带来希望和行动的游戏](https://xinquji.com/posts/179565?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:57 AM 
+- 🥷 [Awesome Web3 - 精选、一流、免费的 Web3 资源](https://xinquji.com/posts/179583?utm_campaign=xinquji-rss) | Sat Sep 17 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     一款为气候带来希望和行动的游戏  
+     精选、一流、免费的 Web3 资源  
     </details> 
 
-- 💼 [Accountit 2.1 - 使用 Accountit 跟踪您的交易，因为每一分钱都很重要](https://xinquji.com/posts/179564?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:55 AM 
+- 💼 [Cameralyze - 无需代码即可构建您的计算机视觉应用程序](https://xinquji.com/posts/179582?utm_campaign=xinquji-rss) | Sat Sep 17 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 Accountit 跟踪您的交易，因为每一分钱都很重要  
+     无需代码即可构建您的计算机视觉应用程序  
     </details> 
 
-- 🦅 [My Tabata - 使用 My Tabata 锻炼身体 - 间隔计时器](https://xinquji.com/posts/179563?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:55 AM 
+- 🦅 [Moonlighter - 2 倍生产力，2 倍收入](https://xinquji.com/posts/179581?utm_campaign=xinquji-rss) | Sat Sep 17 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 My Tabata 锻炼身体 - 间隔计时器  
+     2 倍生产力，2 倍收入  
     </details> 
 
-- 😺 [BrewMyMac - 安装应用程序和自定义 Mac 的最酷方式](https://xinquji.com/posts/179562?utm_campaign=xinquji-rss) | Fri Sep 16 2022 6:53 AM 
+- 😺 [Habit Box - 使用 Notion 跟踪和可视化您的习惯。](https://xinquji.com/posts/179580?utm_campaign=xinquji-rss) | Sat Sep 17 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     安装应用程序和自定义 Mac 的最酷方式  
+     使用 Notion 跟踪和可视化您的习惯。  
     </details> 
 <!-- xinquji:END -->
