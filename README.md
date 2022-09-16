@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [kotlin 下如何实现 跨 Activity 修改控件呢？](https://www.v2ex.com/t/880654#reply1) | Fri Sep 16 2022 11:04 AM
-- 🤗 [在 Linux 上开 clash tun 模式 clash 是怎么劫持 dns 的](https://www.v2ex.com/t/880652#reply6) | Fri Sep 16 2022 10:38 AM
-- 🎭 [统一码联盟引入 31 个新表情符号，谷歌称已安排](https://www.v2ex.com/t/880650#reply0) | Fri Sep 16 2022 10:34 AM
-- 🥷 [戏说 海贼王 与 编程生态](https://www.v2ex.com/t/880649#reply2) | Fri Sep 16 2022 10:28 AM
-- 🐵 [Git 应该出个新命令](https://www.v2ex.com/t/880631#reply18) | Fri Sep 16 2022 9:24 AM<!-- v2ex:END -->
+- 🥸 [多个单盘 MinIO 节点做 replication 是不是用 XFS 就足够可靠了？](https://www.v2ex.com/t/880675#reply2) | Fri Sep 16 2022 12:29 PM
+- 🤗 [海外求职](https://www.v2ex.com/t/880667#reply3) | Fri Sep 16 2022 11:57 AM
+- 🎭 [Linux 下有简单的办法知道程序调用的动态链接库到底有哪些函数吗？](https://www.v2ex.com/t/880663#reply2) | Fri Sep 16 2022 11:37 AM
+- 🥷 [求助，这是哪里出问题了？](https://www.v2ex.com/t/880662#reply0) | Fri Sep 16 2022 11:36 AM
+- 🐵 [这周上班摸鱼的时候读完了 redis sds 的源码，请教下源码的阅读方式](https://www.v2ex.com/t/880660#reply2) | Fri Sep 16 2022 11:24 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
