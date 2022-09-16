@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [&lpar;一&rpar;全解MySQL之架构篇：自顶向下深入剖析MySQL整体架构！](https://juejin.cn/post/7143614079532269598) | Thu Sep 15 2022 2:33 PM 
+- 🤗 [求解波值的波峰和波谷「Javascript」](https://juejin.cn/post/7143782444708134948) | Fri Sep 16 2022 1:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    这篇文章，我们来谈谈，在一系列的电波数据中，我们应该怎么求解这一系列的数据的波峰和波谷呢？本文中知识点会应用到我的下一篇文章中 -- 讲解 MA 进行曲线平滑 
+    </details> 
+
+- 🎡 [后端程序员实现一个IP归属地的小程序](https://juejin.cn/post/7143778130862292999) | Fri Sep 16 2022 1:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    效果展示 页面主要有两个功能： 显示当前IP地址和归属地。 根据查询条件显示归属地。 页面布局从上往下分成三部分： 第一部分为文字说明，介绍页面功能。 第二部分显示当前IP地址。 第三部分显示查询的地 
+    </details> 
+
+- 🕯 [老板觉得冷，服务如何缩容？](https://juejin.cn/post/7143775551436619806) | Fri Sep 16 2022 12:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    大环境稳中向好，公司却不行了。为什么？肯定是自己的问题，这怪不得别人。在任老板紧裹大袄的今天，我们也没必要穿着秋裤耍帅，保暖措施是一定要跟上的。 这些保暖方案，除了要降本增效把可怜的劳动者变成灵活劳动 
+    </details> 
+
+- 🚀 [&lpar;一&rpar;全解MySQL之架构篇：自顶向下深入剖析MySQL整体架构！](https://juejin.cn/post/7143614079532269598) | Thu Sep 15 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
     无论你是大前端，亦或是Java、Go、Python、C/C++，只要是一个合格的开发者，对于MySQL相信都不陌生，但如若你仅停留在表面的CRUD，在这里你可以打开MySQL的进阶之旅！ 
     </details> 
 
-- 🎡 [Spring5源码15-事务的创建、回滚、提交](https://juejin.cn/post/7143604422130532360) | Thu Sep 15 2022 1:53 PM 
+- 💪 [Spring5源码15-事务的创建、回滚、提交](https://juejin.cn/post/7143604422130532360) | Thu Sep 15 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
     介绍事务的属性，事务的创建createTransactionIfNecessary，提交commitTransactionAft和回滚completeTransactionAfterThrowing。 
-    </details> 
-
-- 🕯 [Android最近的行情到底怎么样了？还能好转吗？](https://juejin.cn/post/7143599642712735775) | Thu Sep 15 2022 1:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    最近 ，很多人都在问我，现在的行情到底怎么样？真的很不好吗？ 给大家举个例子吧。我有一个朋友，之前被“开猿节流”的，坐标杭州。 被裁后一直在找工作，已经找了有半年了，这几天他和我说： “现在offer 
-    </details> 
-
-- 🚀 [React Native实战之安全密码箱](https://juejin.cn/post/7143594829220904996) | Thu Sep 15 2022 1:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    在学习了RN的样式、组件和路由之后，我们就可以来尝试自己开发一款我们自己的App，本文我们结合实际生活中的需要，从零开始实战开发一个App，开发期间也遇到了大大小小的坑，分享给大家希望帮助大家规避。  
-    </details> 
-
-- 💪 [提高工作效率的三种方法](https://juejin.cn/post/7143594262712549406) | Thu Sep 15 2022 1:14 PM 
-    <details><summary>展开描述 ...</summary> 
-    有两种途径能快速提高工作效率，一个是科学的工作方法，一个是适合自己的效率工具。今天我给大家介绍三个提高工作效率的方法。 目标管理：SMART原则 时间管理：四象限法则 成长管理：标杆管理 
     </details> 
 <!-- juejin:END -->
 ### 少数派
