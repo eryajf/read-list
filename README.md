@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软：会继续收购 努力成为一个主要玩家](https://hot.cnbeta.com/articles/game/1317191.htm) | Fri Sep 16 2022 2:27 PM 
+- 🕯 [微软PC Game Pass现在可以根据不同的玩法显示游戏长度](https://hot.cnbeta.com/articles/game/1317201.htm) | Fri Sep 16 2022 3:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软游戏总裁Spencer表示公司会继续收购，因为他们想把Xbox变成一个“游戏行业的主要玩家”。在接受CNBC采访时，Xbox老大Phil Spencer被问到微软在收购动视暴雪等待有关部门批准期间是否会暂停收购工作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软为其已经很充实的PC Game Pass服务增加了另一项功能：游戏列表现在显示了一个游戏作品需要多长时间完成的细节。有趣的是，这以数据并不局限于平均数，因为它提供了包括基于不同游戏方式的四种时间。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [我国已故小麦育种家庄巧生院士获“终身成就奖”](https://www.cnbeta.com/articles/science/1317189.htm) | Fri Sep 16 2022 2:26 PM 
+- 💼 [拜登政府发布加密货币监管框架](https://www.cnbeta.com/articles/tech/1317199.htm) | Fri Sep 16 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在9月12日举行的第二届国际小麦大会上，我国已故著名小麦科学家、中国农业科学院作物科学研究所研究员、中国科学院院士庄巧生被授予小麦研究领域“终身成就奖”。庄巧生生于1916年，从二十世纪中叶开始投身小麦育种，育成了多个高产抗病早熟的小麦品种，带头推广三交和复合杂交育种方法，还引入了可在高海拔区域种植的小麦品种，把小麦种植的海拔高度提升了700米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;拜登政府周五发布了可能影响深远的加密货币潜在监管框架，包括如何最好地给这个不断增长的行业带来稳定，并保护美国企业和消费者免受货币崩溃和欺诈风险。&lt;/strong&gt;在总统乔-拜登3月份的行政命令之后首次发布了指导方针，呼吁政府机构评估包括加密货币在内的数字资产的风险和利益，并探索创建美国中央银行数字货币的可能性，这是一种政府控制的加密货币。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [YouTube视频突增大量不可跳过广告引众怒](https://www.cnbeta.com/articles/tech/1317187.htm) | Fri Sep 16 2022 2:24 PM 
+- 💂 [英特尔不再使用奔腾和赛扬品牌 以简单的 &quot;英特尔处理器&quot;品牌取代](https://www.cnbeta.com/articles/tech/1317197.htm) | Fri Sep 16 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月16日消息，通常，YouTube在视频开始前只显示两个广告。但最近几周，一些用户已经举报称看到多达5到10个不可跳过的广告。这次YouTube的增加开头广告的操作真的惹怒了很多用户。但Google旗下的平台却回应媒体称，增加大量不可跳过广告只是一个测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔已经正式宣布，它将在2023年的CPU系列中停用其标志性的奔腾和赛扬品牌，并将其更名为&amp;quot;英特尔处理器&amp;quot;。新的&amp;quot;英特尔处理器&amp;quot;品牌将从2023年开始生效，影响即将推出的移动CPU，如第13代Raptor Lake和第14代Meteor Lake系列。英特尔似乎也更专注于打造其旗舰品牌，包括酷睿、EVO和vPro系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [拜登下令对外国投资加强审查 点名半导体、AI、量子计算等领域](https://www.cnbeta.com/articles/tech/1317185.htm) | Fri Sep 16 2022 2:23 PM 
+- 🚀 [iPhone 14 Pro拥有6GB容量的LPDDR5内存](https://www.cnbeta.com/articles/tech/1317195.htm) | Fri Sep 16 2022 2:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据行政令，未来CFIUS加强审查的领域包括半导体、AI、生物技术、量子计算和先进清洁能源等。拜登政府发出了首个指示美国外国投资委员会（CFIUS）在评估交易时需考虑其他国家安全因素的总统行政令。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;与去年的iPhone 13 Pro相比，iPhone 14 Pro和iPhone 14 Pro Max拥有6GB更快的内存，这有助于使整体设备性能更快、更高效。今天早些时候针对iPhone 14 Pro的拆解显示，它采用了高通的X65 5G调制解调器，提供更快的5G速度和更低的能耗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Q3业绩喜忧参半+担忧收购Figma交易 多家大行调降Adobe目标价](https://www.cnbeta.com/articles/tech/1317183.htm) | Fri Sep 16 2022 2:22 PM 
+- 🎊 [刘强东转让所持宿迁天宁、西安京东股权](https://www.cnbeta.com/articles/tech/1317193.htm) | Fri Sep 16 2022 2:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;由于Adobe喜忧参半的第三季度业绩和该公司以200亿美元收购设计协作工具公司Figma的交易，部分华尔街分析师下调了对该股的目标价。&lt;/strong&gt;Adobe周四公布的财报显示，该公司第三季度营收为44.3亿美元，同比增长12.4%，较市场预期低1000万美元；净利润为11.4亿美元，同比下降5.8%；非GAAP每股收益为3.40美元，较市场预期高0.06美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月16日晚间消息，京东健康在港交所公告，刘强东同意将于宿迁天宁持有的45%股权转让予京东集团副总裁缪钦；京东物流同日公告，刘强东同意将于西安京东持有的45%股权转让予京东集团副总裁缪钦。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
