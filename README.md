@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14 Pro灵动岛有色差遭吐槽 实测：户外及强光下逼死强迫症](https://www.cnbeta.com/articles/tech/1317037.htm) | Fri Sep 16 2022 7:27 AM 
+- 🕯 [李在镕今日访问英国 或推动收购Arm落地](https://www.cnbeta.com/articles/tech/1317057.htm) | Fri Sep 16 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天是首批iPhone 14 Pro/Pro Max正式收货的日子，不少参与抢购的消费者已经纷纷用上新机。不过，大家期待的“灵动岛”设计，还是引起了一些讨论和争议，比如挖孔和周围黑色像素的错位、色差等情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在访问墨西哥和巴拿马之后，三星电子副会长李在镕已于本周五访问英国。&lt;/strong&gt;韩联社称李在镕可能会以总统特使的身份，推动釜山成为 2030 年世博会的举办地，并可能会参加 9 月 19 日举行的伊丽莎白二世女王葬礼。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [本田三款全球摩托车型上市：最低只需1.68万](https://www.cnbeta.com/articles/tech/1317035.htm) | Fri Sep 16 2022 7:16 AM 
+- 💼 [CAPSTONE团队继续致力于该航天器的恢复工作](https://www.cnbeta.com/articles/science/1317055.htm) | Fri Sep 16 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;本田汽车旗下三款“全球摩托车型”迎来正式上市。其中&lt;strong&gt;Lead125车型的建议零售价为1.68万元；CM300车型的建议零售价为3.45万元；CBR400R车型的建议零售价为4.5万元。&lt;/strong&gt;Lead125&lt;/strong&gt;在三款车型中售价最便宜的车型，其采用了踏板结构，设计思路较为简约，在前脸细节处融入了镀铬设计元素，可以提升车辆的精致感。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月8日（周四）晚上，CAPSTONE航天器执行了一次计划中的轨道修正机动。在该演习接近尾声时，&lt;strong&gt;CAPSTONE进入了安全模式。随后，任务控制人员发现，航天器正在翻滚，机载计算机系统正在定期重新设置。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [迪士尼音乐动画电影《愿望》定档明年 又是黑人女主](https://hot.cnbeta.com/articles/comic/1317033.htm) | Fri Sep 16 2022 7:16 AM 
+- 💂 [Chainalysis分享2022全球加密货币采用指数 新兴市场引领熊市期间发展](https://www.cnbeta.com/articles/tech/1317053.htm) | Fri Sep 16 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;迪士尼刚在D23宣布的新音乐动画电影《愿望》正式定档2023年11月22日北美上映，进入感恩节档。阿丽亚娜·德博斯配音该片女主阿莎，讲述阿莎在愿望王国看到了黑暗的存在，决定向一颗星星许愿，然后那颗星星活了。艾伦·图代克配音穿着睡衣的山羊瓦伦蒂诺，许愿可以交流。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1317033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由区块链分析公司 Chainalysis 最新分享的“2022 全球加密货币采用指数”可知 —— &lt;strong&gt;以越南为首的新兴市场，在全球加密货币市场的采用率上起到了主要的推动作用。&lt;/strong&gt;此外尽管在 2022 年熊市期间的采用率有所放缓，但加密代币的价格暴跌，并未彻底抹平牛市期间的采用率增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新垣结衣将出演新片《正欲》 饰演有特殊癖好的职员](https://hot.cnbeta.com/articles/movie/1317031.htm) | Fri Sep 16 2022 7:15 AM 
+- 🚀 [洪水引发大讨论：班加罗尔能否继续胜任印度硅谷角色？](https://www.cnbeta.com/articles/tech/1317051.htm) | Fri Sep 16 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据新浪电影报道，日媒消息，新垣结衣和稻垣吾郎将出演电影《正欲》。该片由朝井辽的同名小说改编，岸善幸执导，预计2023年上映。剧情讲述稻垣吾郎饰演为了养活妻子和儿子，在横滨检察厅工作的检察官寺井启喜。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为印度的大学及研发机构最为密集的地区之一，班加罗尔（Bengaluru）被印度人称为印度的“IT首都”、“科学技术首都”。&lt;strong&gt;不过，上周发生在的班加罗尔的大规模洪水引发了这座城市在未来是否能够继续作为印度科技中心的大讨论。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [87km/h!一男子驾克尔维特创世界最快倒车纪录](https://www.cnbeta.com/articles/tech/1317029.htm) | Fri Sep 16 2022 7:14 AM 
+- 🎊 [劳斯莱斯全电动Spectre开始在纽伯格林赛道测试](https://www.cnbeta.com/articles/tech/1317049.htm) | Fri Sep 16 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;相较于汽车前向行驶的速度，倒车就不容易达到太高的速度，除了变速箱速比不支持高速之外，出于安全考虑，高速倒车的风险也要比前进高很多。而为了挑战倒车时的极速，一位叫做伯纳（Burner）的苏格兰人，驾驶着上一代雪佛兰克尔维特C7创下了新的吉尼斯世界纪录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管劳斯莱斯汽车被赋予了相当大的引擎并产生了相当强劲的动力，但在赛道上看到它们仍会感觉有些许突兀。不过在测试其第一辆电动汽车时，该品牌仍然决定将Spectre带到最知名测试赛道上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
