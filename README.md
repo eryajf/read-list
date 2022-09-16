@@ -590,19 +590,19 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [Clearly Reader纯净阅读](https://iui.su/3333/) | Fri Sep 16 2022 8:24 AM 
+- 🌊 [2022 年 9 月每日分享](https://iui.su/3838/) | Fri Sep 16 2022 9:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月16日Clearly ... 
+    </details> 
+
+- 🫣 [Clearly Reader纯净阅读](https://iui.su/3333/) | Fri Sep 16 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
     每天我们需要花很多时间来阅读文章。Clearly Reader阅读器扩展。让你可以专注在阅读上，免受广告、浮层的打扰。只需要点一下扩展logo，即可享受纯净阅读。为了优化阅读体验，Clearly... 
     </details> 
 
-- 🫣 [手机试玩赚钱平台](https://iui.su/3221/) | Fri Sep 16 2022 7:32 AM 
+- 🌜 [手机试玩赚钱平台](https://iui.su/3221/) | Fri Sep 16 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
     网赚套路多，手机试玩属于无套路网赚，简单直接。如果想要通过这些平台赚大钱，需要有较多的设备才能做到。为什么下载试玩app能拿钱？app需要上升排名，平台收到厂商付款，通过任务的形式让大量用户同时... 
-    </details> 
-
-- 🌜 [2022 年 9 月每日分享](https://iui.su/3838/) | Thu Sep 15 2022 7:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月15日Puock主题免... 
     </details> 
 
 - 🏊 [麦克房子-苹果Mac软件精品下载网站](https://iui.su/3839/) | Tue Sep 13 2022 12:19 PM 
