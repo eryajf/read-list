@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派周报 Vol. 009：知果罪果，其惟春秋](https://sspai.com/prime/story/pi-weekly-009) | Fri Sep 16 2022 10:09 AM 
+- 👹 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/75760) | Fri Sep 16 2022 10:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[动画]赛博浪客Cyberpunk:Edgerunners、[国产]消失的孩子、[美剧]坏姐妹、[美剧]傲骨之战第六季、[电影]妈妈、[动画]四叠半时光机蓝调、[动画]万神 ...&lt;a href=&quot;https://sspai.com/post/75760&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派周报 Vol. 009：知果罪果，其惟春秋](https://sspai.com/prime/story/pi-weekly-009) | Fri Sep 16 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
     如果只是将苹果发力广告业务当作一个独立事件看待，或许也只能评价为生财有方。但与推行时间相近的「应用追踪透明度」（ATT）机制，却让苹果日渐面临「既当运动员，又当裁判员」的指控。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-009&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [买新还是买旧，一步到位还是浅尝辄止：Apple Watch 系列导购](https://sspai.com/post/75707) | Fri Sep 16 2022 8:00 AM 
+- 🤭 [买新还是买旧，一步到位还是浅尝辄止：Apple Watch 系列导购](https://sspai.com/post/75707) | Fri Sep 16 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     乱花渐欲迷人眼，今年答案很明显。&lt;a href=&quot;https://sspai.com/post/75707&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [数字文具盒｜用 Obsidian 来打造你的学术外脑](https://sspai.com/post/75690) | Fri Sep 16 2022 6:29 AM 
+- 🥸 [数字文具盒｜用 Obsidian 来打造你的学术外脑](https://sspai.com/post/75690) | Fri Sep 16 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
     外脑的作用并非是取代我的脑子替我进行思考，而是尽可能地储存和展示我记忆的内容和产生的思考。它作为知识处理的辅助工具，应该能够清除我在课题研究中容易遇到的障碍。为了解决这些问题，我找到了目前最称手的工具——Obsidian。&lt;a href=&quot;https://sspai.com/post/75690&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [零代码体验 AI 绘画：在 M1/M2 Mac 本地运行 Stable Diffusion](https://sspai.com/post/75682) | Fri Sep 16 2022 3:29 AM 
+- 🙉 [零代码体验 AI 绘画：在 M1/M2 Mac 本地运行 Stable Diffusion](https://sspai.com/post/75682) | Fri Sep 16 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75682&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：Adobe 收购 Figma，荣耀发布 MagicBook V 14 2022 系列](https://sspai.com/post/75739) | Fri Sep 16 2022 12:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    微软开发「锁定更新」技术支持，以太坊完成合并等。&lt;a href=&quot;https://sspai.com/post/75739&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
