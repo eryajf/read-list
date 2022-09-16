@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [李在镕今日访问英国 或推动收购Arm落地](https://www.cnbeta.com/articles/tech/1317057.htm) | Fri Sep 16 2022 8:14 AM 
+- 🕯 [Uber遭遇重大网络安全漏洞，现正在调查中](https://www.cnbeta.com/articles/tech/1317095.htm) | Fri Sep 16 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在访问墨西哥和巴拿马之后，三星电子副会长李在镕已于本周五访问英国。&lt;/strong&gt;韩联社称李在镕可能会以总统特使的身份，推动釜山成为 2030 年世博会的举办地，并可能会参加 9 月 19 日举行的伊丽莎白二世女王葬礼。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，&lt;strong&gt;打车服务Uber遭受了一次重大的网络安全攻击，一些内部通信系统和工程系统受到影响并被关闭。&lt;/strong&gt;该公司在一条推文中确认了这一漏洞。Uber没有透露事件的细节信息也没有透露是否有用户数据被泄露，但确认网络犯罪分子在泄露了一名工人的账户后能在该公司的Slack上发布信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [CAPSTONE团队继续致力于该航天器的恢复工作](https://www.cnbeta.com/articles/science/1317055.htm) | Fri Sep 16 2022 8:06 AM 
+- 💼 [瓜子二手车发布《新能源3年保值率榜单》：TOP20车系均值59.7%](https://www.cnbeta.com/articles/tech/1317093.htm) | Fri Sep 16 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月8日（周四）晚上，CAPSTONE航天器执行了一次计划中的轨道修正机动。在该演习接近尾声时，&lt;strong&gt;CAPSTONE进入了安全模式。随后，任务控制人员发现，航天器正在翻滚，机载计算机系统正在定期重新设置。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月16日消息，瓜子二手车通过二手车交易大数据综合研判，发布了《新能源汽车3年保值率榜单》。&lt;/strong&gt;瓜子二手车交易大数据显示，新能源汽车3年保值率榜单中，主流TOP20车系的3年保值率区间为73.4%~55.3%，均值59.7%，这一均值数据相比传统热门的燃油车动辄70%以上的3年保值率而言，存在不少提升空间，也略低于目前燃油车中自主品牌TOP20车系的3年保值率均值约65%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Chainalysis分享2022全球加密货币采用指数 新兴市场引领熊市期间发展](https://www.cnbeta.com/articles/tech/1317053.htm) | Fri Sep 16 2022 8:02 AM 
+- 💂 [美团打车在上海正式接入腾讯出行 此前已在杭州、郑州、重庆等城市合作](https://www.cnbeta.com/articles/tech/1317091.htm) | Fri Sep 16 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由区块链分析公司 Chainalysis 最新分享的“2022 全球加密货币采用指数”可知 —— &lt;strong&gt;以越南为首的新兴市场，在全球加密货币市场的采用率上起到了主要的推动作用。&lt;/strong&gt;此外尽管在 2022 年熊市期间的采用率有所放缓，但加密代币的价格暴跌，并未彻底抹平牛市期间的采用率增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月16日讯，记者从美团方面了解到，美团打车在上海正式接入腾讯出行服务平台。&lt;strong&gt;目前，上海用户打开腾讯出行的打车页面可以看到，经济型和优选型这两类车型中都可以选择美团打车。&lt;/strong&gt;此前，双方已经在杭州、郑州、重庆等城市开始合作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [洪水引发大讨论：班加罗尔能否继续胜任印度硅谷角色？](https://www.cnbeta.com/articles/tech/1317051.htm) | Fri Sep 16 2022 8:02 AM 
+- 🚀 [嫦娥五号着陆区至少经历了四次火山岩浆喷发](https://www.cnbeta.com/articles/science/1317089.htm) | Fri Sep 16 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为印度的大学及研发机构最为密集的地区之一，班加罗尔（Bengaluru）被印度人称为印度的“IT首都”、“科学技术首都”。&lt;strong&gt;不过，上周发生在的班加罗尔的大规模洪水引发了这座城市在未来是否能够继续作为印度科技中心的大讨论。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一项对嫦娥五号月球样品的研究表明，嫦娥五号着陆区至少经历了四次火山岩浆喷发，并且该地区的岩浆喷发通量在月球火山活动晚期有显著增强。&lt;/strong&gt;该成果有利于进一步增进对于月球火山活动与内部热演化历史的认识。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [劳斯莱斯全电动Spectre开始在纽伯格林赛道测试](https://www.cnbeta.com/articles/tech/1317049.htm) | Fri Sep 16 2022 8:00 AM 
+- 🎊 [在青少年黑客入侵Uber内部系统后 该公司员工最初认为这是一个玩笑](https://www.cnbeta.com/articles/tech/1317087.htm) | Fri Sep 16 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管劳斯莱斯汽车被赋予了相当大的引擎并产生了相当强劲的动力，但在赛道上看到它们仍会感觉有些许突兀。不过在测试其第一辆电动汽车时，该品牌仍然决定将Spectre带到最知名测试赛道上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在有报道称Uber公司的内部系统遭入侵后，该公司表示正在调查一起“网络安全事件”。&lt;/strong&gt;这名18岁的黑客称，他们拥有公司工具的管理员权限，包括Slack、亚马逊网络服务和Google云平台。《纽约时报》报道说，这家打车公司已经关闭了包括Slack在内的多个内部系统，同时对该漏洞进行调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
