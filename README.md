@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14 Pro型号闪电端口仍停留在USB 2.0速度 最高480Mbps](https://www.cnbeta.com/articles/tech/1317219.htm) | Fri Sep 16 2022 10:15 PM 
+- 🕯 [有网友收到预装Windows 11 22H2的新笔记本](https://www.cnbeta.com/articles/tech/1317223.htm) | Fri Sep 16 2022 10:44 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Windows 11 22H2 功能更新已经开始预装到新笔记本中。国外论坛 Thurott 上有网友 WILL 近期购买了一台戴尔笔记本，不过令他感到惊讶的是该笔记本采用了新的启动画面，所安装的系统为 Windows 11 22H2。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Pong风格游戏《Hit the Island​》已上架 利用灵动岛的休闲游戏](https://hot.cnbeta.com/articles/game/1317221.htm) | Fri Sep 16 2022 10:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在此前预告之后，Pong 风格的第三方游戏《&lt;a href=&quot;https://apps.apple.com/us/app/hit-the-island/id1644376309&quot; target=&quot;_blank&quot;&gt;Hit the Island&lt;/a&gt;》已经于近日正式上架。这款游戏由克里斯·斯莫尔卡（Kriss Smolka）开发，此前他曾开发过 WaterMinder 和 HabitMinder 等应用，而今天发布的这款应用是专门正对灵动岛的。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [iPhone 14 Pro型号闪电端口仍停留在USB 2.0速度 最高480Mbps](https://www.cnbeta.com/articles/tech/1317219.htm) | Fri Sep 16 2022 10:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;iPhone 14 Pro 和 iPhone 14 Pro Max 两款型号后置主摄已经升级，可以拍摄 4800 万像素的 ProRAW 照片，在保留更丰富的画面细节之外，让图像文件后期编辑也更加的灵活。&lt;strong&gt;根据苹果官方更新的支持文档，4800 万像素 ProRAW 照片容量大约为 75MB，在某些复杂场景下可能会更大。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [体验完iPhone 14 Pro Max后 我发现最吸引我的不是灵动岛](https://www.cnbeta.com/articles/tech/1317217.htm) | Fri Sep 16 2022 4:55 PM 
+- 🚀 [体验完iPhone 14 Pro Max后 我发现最吸引我的不是灵动岛](https://www.cnbeta.com/articles/tech/1317217.htm) | Fri Sep 16 2022 4:55 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;就在上个礼拜，苹果在它的秋季发布会上发布了四台 iPhone，这次我们也是拿到了两台，分别是蓝色版的 iPhone 14，以及紫色版的 iPhone 14 Pro Max。不知道各位觉得它们的这个颜色怎么样？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [放假7天需调休 国庆假期首日火车票今日开售](https://www.cnbeta.com/articles/tech/1317215.htm) | Fri Sep 16 2022 4:53 PM 
+- 🎊 [放假7天需调休 国庆假期首日火车票今日开售](https://www.cnbeta.com/articles/tech/1317215.htm) | Fri Sep 16 2022 4:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;距离今年国庆节还有半个月时间，你的出行计划都安排好了没？据“中国铁路”官方，&lt;strong&gt;今天（9月17日），大家可以通过铁路12306网站、铁路12306 App购买国庆假期首日（10月1日）火车票。&lt;/strong&gt;10月6日和7日火车票将分别于9月22日和23日开售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [iPhone 14系列首销火爆 库克深夜感慨：这一天背后是多年的努力](https://www.cnbeta.com/articles/tech/1317213.htm) | Fri Sep 16 2022 4:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月16日，iPhone 14、iPhone 14 Pro、iPhone 14 Pro Max迎来首销，&lt;strong&gt;与往年iPhone开售一样，今年全国各地Apple&amp;nbsp;Store门店同样排起了长队。&lt;/strong&gt;根据博主实拍的深圳益田假日Apple Store门店照片，黄牛直接在路边摆摊收新机，收了多少？满满一行李箱。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Rigetti Computing研发高性能量子计算机 帮助汽车制造商和金融企业从中受益](https://www.cnbeta.com/articles/tech/1317211.htm) | Fri Sep 16 2022 4:40 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;量子领导企业Rigetti Computing透露其长期计划，帮助汽车制造商和金融企业从潜在的革命性量子计算机中受益。&lt;/strong&gt;2013年，Rigetti Computing开始推动制造量子计算机。该公司周五表示，这一努力可能从2023年开始结出果实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
