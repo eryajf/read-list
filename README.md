@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉单车成本5年降33万 有望推出低价车型](https://www.cnbeta.com/articles/tech/1317161.htm) | Fri Sep 16 2022 12:03 PM 
+- 🕯 [Apple Watch Series 8需要五个晚上才能建立起手腕的基准温度数据](https://www.cnbeta.com/articles/tech/1317181.htm) | Fri Sep 16 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据了解，特斯拉的工厂采用了大量的工业机器人和工人相互配合，其中位于上海的工厂的自动化率就高达95%，特斯拉的车身也大量采用一体化铸造，汽车零件能精简就精简。特斯拉做这一切的目的只有一个——&lt;strong&gt;降低成本，增加效益。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司今天公布了一份新的支持文件，其中有关于Apple Watch Series 8和Apple Watch Ultra型号上提供的新的手腕温度感应功能的更多细节，事实证明，该功能需要用户佩戴手表五个晚上才能确定基准温度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [黄牛上午加价2000收的iPhone 14 Pro报价已下跌](https://www.cnbeta.com/articles/tech/1317159.htm) | Fri Sep 16 2022 12:02 PM 
+- 💼 [iPhone 14 Pro采用高通X65调制解调器 可实现更快5G速度和更长电池续航](https://www.cnbeta.com/articles/tech/1317179.htm) | Fri Sep 16 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今早，iPhone 14系列正式首发上市，由于这次Pro系列相对较高的升级幅度，也导致这次新机非常抢手。上午各地的Apple Store门口都遍布黄牛，&lt;strong&gt;有消费者直接买完出来就卖黄牛，一转手能赚上千元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据今天在YouTube上分享的设备拆解，iPhone 14 Pro和iPhone 14 Pro Max采用了高通公司的Snapdragon X65调制解调器，以实现更快的5G速度、更低的功耗，并在美国机型上改进了对毫米波的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [合资MPV王者 新一代别克GL8世纪下线](https://www.cnbeta.com/articles/tech/1317157.htm) | Fri Sep 16 2022 12:02 PM 
+- 💂 [苹果CEO蒂姆·库克访问Apple Store第五大道店 为系列新品揭幕](https://www.cnbeta.com/articles/tech/1317177.htm) | Fri Sep 16 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月16日，全新别克旗舰MPV车型别&lt;strong&gt;GL8世纪CENTURY首批量产车&lt;/strong&gt;，在上汽通用汽车金桥豪华车工厂正式下线，这标志着该车的正式上市交付已进入最后冲刺阶段。该车已经进行了申报，预计年内即可上市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司首席执行官蒂姆-库克已前往纽约市以出席在著名的第五大道商店举行的新款iPhone 14系列的首日销售活动。9月16日星期五东部时间上午8点，库克被进入商店并开始与工作人员交谈。苹果公司之前没有提前宣布他的访问，库克也还没有像往常一样在Twitter上发布访问商店的消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [山东台风将大虾刮飞停在车窗上引围观：网友直呼天上不会掉馅饼但会掉虾](https://hot.cnbeta.com/articles/funny/1317155.htm) | Fri Sep 16 2022 12:00 PM 
+- 🚀 [《卧虎藏龙》4K修复版海报曝光 定档9月30日重映](https://hot.cnbeta.com/articles/movie/1317175.htm) | Fri Sep 16 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天上不会掉馅饼但会掉虾，这是真的，别不信？9月15日，山东青岛台风来临女子车窗被挂6只虾，这画面也是引起了众多网友的围观，大家直呼真的是太有趣了。车主娥女士表示，当时就是风和雨都比较大，躲进车里后，发现前挡风玻璃上有几只虾，开始以为是小挂件，后来发现是真虾。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1317155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月15日，电影《卧虎藏龙》4K修复版重映海报曝光，确定将于9月30日在中国台湾地区重映。李安执导的《卧虎藏龙》在推出后为他赢得了巨大的声誉，还荣获了第73届奥斯卡、第58届金球奖等多项大奖。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [2022丰收节启动：12地县长直播带货 50余款优质地标农产品齐上线](https://www.cnbeta.com/articles/tech/1317153.htm) | Fri Sep 16 2022 11:56 AM 
+- 🎊 [《原神》长篇动画项目官宣 与知名动画公司ufotable合作推出](https://hot.cnbeta.com/articles/comic/1317173.htm) | Fri Sep 16 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;又到一年秋收季。农田里，辛苦了一年的农户们正在收割一年的辛勤成果；直播间内，河南洛宁、四川广安、江西石城等12个国家乡村振兴重点县区接力为家乡农货“代言”，力争让更多“明星”农产品走出去，端上消费者的餐桌。此举同时拉开了2022年中国农民丰收节金秋消费季的序幕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在今天的《原神》3.1版本及2周年特别直播上，除了常规的版本更新内容外，&lt;strong&gt;米哈游还宣布将与日本知名动画公司ufotable开启长期项目合作。&lt;/strong&gt;根据官方在直播上的介绍，&lt;strong&gt;此次合作将是《原神》动画项目的起点，官方将在后续为玩家带来基于《原神》IP的长篇动画。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1317173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
