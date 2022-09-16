@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 美国宣布制裁10名伊朗网军成员；六成受访者认为曾被“杀熟”](https://www.freebuf.com/articles/344641.html) | Thu Sep 15 2022 1:53 PM 
+- 🦄 [全国信安标委发布《信息安全技术 网络数据分类分级要求》（征求意见稿）](https://www.freebuf.com/news/344672.html) | Fri Sep 16 2022 3:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    《分类分级要求》给出了数据分类分级的原则和方法，包括数据分类分级基本原则、数据分类框架和方法、数据分级框架和方法等。 
+    </details> 
+
+- 🦄 [借悼念伊丽莎白二世女王之名，攻击者发起大规模网络钓鱼攻击](https://www.freebuf.com/news/344662.html) | Fri Sep 16 2022 2:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    安全研究人员发现，以“女王去世”、“哀悼女王”等为诱饵的网络钓鱼攻击呈现持续上升的趋势。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | 美国宣布制裁10名伊朗网军成员；六成受访者认为曾被“杀熟”](https://www.freebuf.com/articles/344641.html) | Thu Sep 15 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
     美国财政部海外资产控制办公室9月14日宣布，对隶属于伊朗伊斯兰革命卫队（IRGC）的10名个人和两家实体实施制裁。 
     </details> 
 
-- 🦄 [前安全主管指控Twitter“重利润，轻安全”](https://www.freebuf.com/news/344617.html) | Thu Sep 15 2022 9:12 AM 
+- 🪄 [前安全主管指控Twitter“重利润，轻安全”](https://www.freebuf.com/news/344617.html) | Thu Sep 15 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
     Twitter平台忽视了他的安全担忧，十多年来始终落后于行业安全标准。 
     </details> 
 
-- 🦅 [国外超流行的同性恋APP，被黑灰产盯上了](https://www.freebuf.com/news/344555.html) | Thu Sep 15 2022 3:54 AM 
+- 💻 [国外超流行的同性恋APP，被黑灰产盯上了](https://www.freebuf.com/news/344555.html) | Thu Sep 15 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者通过推销各类诈骗和不安全的谷歌Chrome扩展程序域名来诱导用户。 
-    </details> 
-
-- 🪄 [赠书福利 | 国内首部身份安全专业书籍《身份攻击向量》](https://www.freebuf.com/fevents/344543.html) | Thu Sep 15 2022 2:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    本书从基础概念科普和工程化实践指导角度出发，详细介绍了企业IAM相关基本概念和技术以及身份治理。 
-    </details> 
-
-- 💻 [FreeBuf早报 | Google和Meta被罚千亿韩元；吹哨人指控Twitter“重利润，轻安全”](https://www.freebuf.com/news/344522.html) | Wed Sep 14 2022 11:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    Google 和 Meta 涉嫌在韩国未经用户同意收集个人信息并将此用于在线投放个性化广告，分别被罚 692 亿韩元和 308 亿韩元。 
     </details> 
 <!-- freebuf:END -->
 
