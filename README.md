@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [下载文件消耗的流量比实际文件大很多是什么原因](https://www.v2ex.com/t/880615#reply5) | Fri Sep 16 2022 8:44 AM
-- 🤗 [Linux c 编程问题请教，同一时间运行多个相同的程序，如何确保每个程序生成的随机数在彼此之间也是随机的？](https://www.v2ex.com/t/880604#reply8) | Fri Sep 16 2022 8:18 AM
-- 🎭 [vscode: 右键上下文菜单中的 go 命令出现重复条目](https://www.v2ex.com/t/880599#reply0) | Fri Sep 16 2022 7:41 AM
-- 🥷 [统一推送联盟诈尸了](https://www.v2ex.com/t/880598#reply11) | Fri Sep 16 2022 7:39 AM
-- 🐵 [谁有 ddd（领域驱动设计的相关案例项目）？](https://www.v2ex.com/t/880596#reply9) | Fri Sep 16 2022 7:32 AM<!-- v2ex:END -->
+- 🥸 [Git 应该出个新命令](https://www.v2ex.com/t/880631#reply13) | Fri Sep 16 2022 9:24 AM
+- 🤗 [下载文件消耗的流量比实际文件大很多是什么原因](https://www.v2ex.com/t/880615#reply12) | Fri Sep 16 2022 8:44 AM
+- 🎭 [Linux c 编程问题请教，同一时间运行多个相同的程序，如何确保每个程序生成的随机数在彼此之间也是随机的？](https://www.v2ex.com/t/880604#reply8) | Fri Sep 16 2022 8:18 AM
+- 🥷 [vscode: 右键上下文菜单中的 go 命令出现重复条目](https://www.v2ex.com/t/880599#reply0) | Fri Sep 16 2022 7:41 AM
+- 🐵 [统一推送联盟诈尸了](https://www.v2ex.com/t/880598#reply11) | Fri Sep 16 2022 7:39 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
