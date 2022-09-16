@@ -208,29 +208,29 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [图技术在美团外卖下的场景化应用及探索](https://tech.meituan.com/2022/09/08/gnn-scenariomodeling-subgraphextend-jointtraining.html) | Thu Sep 08 2022 12:00 AM 
+- 🕯 [目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://tech.meituan.com/2022/09/15/yolov6-2.0.html) | Thu Sep 15 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    近日，美团视觉智能部发布了YOLOv6 2.0版本，本次更新对轻量级网络进行了全面升级，量化版模型 YOLOv6-S 达到了 869 FPS，同时，还推出了综合性能优异的中大型网络（YOLOv6-M/L），丰富了 YOLOv6 网络系列。 
+    </details> 
+
+- 🤠 [美团隐私计算平台通过行业权威认证](https://tech.meituan.com/2022/09/15/meituan-privacy-preserving-computation.html) | Thu Sep 15 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    近日，在2022年隐私计算大会上，中国信通院公布第六批可信隐私计算评测结果，美团隐私计算平台通过“联邦学习安全”和“多方安全计算基础能力”两个专项评测认证。2021年，美团已经通过“联邦学习基础能力”专项评测认证。 
+    </details> 
+
+- 🤠 [自动化测试在美团外卖的实践与落地](https://tech.meituan.com/2022/09/15/automated-testing-in-meituan.html) | Thu Sep 15 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    随着美团到家业务的发展，系统复杂度也在持续增长。测试用例数量近两年增长约一倍，单端数量超过1万2千条，而研发人员的工作从大部分时间在开发，转变成一半时间在开发、一半时间在模拟环境和自测。因此，引入自动化测试就显得十分有必要，本文介绍了美团外卖在自动化测试方向做的一些探索和实践，希望对从事相关领域工作的同学能够带来一些启发或帮助。 
+    </details> 
+
+- 🚀 [图技术在美团外卖下的场景化应用及探索](https://tech.meituan.com/2022/09/08/gnn-scenariomodeling-subgraphextend-jointtraining.html) | Thu Sep 08 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     在外卖广告CTR预估建模中，我们依托图技术在场景化上进行了一系列探索。本文首先介绍了使用图网络技术的出发点，然后从特征层面的抽象图关系到子图扩展以及场景感知子图，逐步介绍如何使用图技术建模业务问题，并针对联合训练的线上服务细节及效果进行解释和分析，希望能给从事相关工作的同学带来一些帮助或启发。 
     </details> 
 
-- 🤠 [基于AI算法的数据库异常监测系统的设计与实现](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html) | Thu Sep 01 2022 12:00 AM 
+- ⚗️ [基于AI算法的数据库异常监测系统的设计与实现](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html) | Thu Sep 01 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     美团数据库平台研发组，面临日益急迫的数据库异常发现需求，为了更加快速、智能地发现、定位和止损，我们开发了基于AI算法的数据库异常检测服务。本文从特征分析、算法选型、模型训练与实时检测等维度介绍了我们的一些实践和思考，希望为从事相关工作的同学带来一些启发或者帮助。 
-    </details> 
-
-- 🤠 [Replication（上）：常见复制模型&amp;分布式系统挑战](https://tech.meituan.com/2022/08/25/replication-in-meituan-01.html) | Thu Aug 25 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分布式系统设计是一项十分复杂且具有挑战性的事情。其中，数据复制与一致性更是其中十分重要的一环。数据复制领域概念庞杂、理论性强，如果对应的算法没有理论验证大概率会出错。如果在设计过程中，不了解对应理论所解决的问题以及不同理论之间的联系，势必无法设计出一个合理的分布式系统。 
-    </details> 
-
-- 🚀 [Replication（下）：事务，一致性与共识](https://tech.meituan.com/2022/08/25/replication-in-meituan-02.html) | Thu Aug 25 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要介绍事务、一致性以及共识，首先会介绍它们怎么在分布式系统中起作用，然后将尝试描述它们之间的内在联系，让大家了解，在设计分布式系统时也是有一定的“套路”可寻。最后将介绍业界验证分布式算法的一些工具和框架。希望能够对大家有所帮助或者启发。 
-    </details> 
-
-- ⚗️ [KDD 2022 | 美团技术团队精选论文解读](https://tech.meituan.com/2022/08/18/acm-sigkdd-2022.html) | Thu Aug 18 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    今年，美团技术团队有多篇论文被KDD 2022收录，这些论文涵盖了图谱预训练、选择算法、意图自动发现、效果建模、策略学习、概率预测、奖励框架等多个技术领域。本文精选了7篇论文做简要介绍（附下载链接），希望能对从事相关研究方向的同学有所帮助或启发。 
     </details> 
 <!-- meituan:END -->
 
