@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14首销日：黄牛蹲点Apple Store门口回收 最高加价超4000](https://www.cnbeta.com/articles/tech/1316879.htm) | Fri Sep 16 2022 2:09 AM 
+- 🕯 [河南小县城1年生产400万克拉钻石：媲美天然钻、价格仅1/3](https://www.cnbeta.com/articles/tech/1316975.htm) | Fri Sep 16 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天是iPhone 14系列的首次发售，全国Apple Store已经人满为患，由于今年Pro版极为抢手，黄牛也嗅到了大商机。根据旅行博主周于斯实拍的深圳益田假日Apple Store门店照片，&lt;strong&gt;黄牛直接在路边摆摊收新机，目前已经回收了满满一行李箱。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;钻石白菜价，或许这一天真的会到来。据@小央视频报道，我国是培育钻石生产大国，河南则是培育钻石的主产地，近期，培育钻石下游市场火热，中上游的培育钻石企业订单更是火爆。数据显示，在豫东柘城县，&lt;strong&gt;2021年全球培育钻石产量900万克拉，仅商丘市柘城一县就生产了400万克拉&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NASA新图像显示数百年前在地球时间范围内爆炸的恒星的碎片](https://www.cnbeta.com/articles/science/1316877.htm) | Fri Sep 16 2022 2:05 AM 
+- 💼 [七匹狼公子与特步公主联姻引围观 95后二代有颜又有能力：闽商八百亿豪门牵手](https://www.cnbeta.com/articles/tech/1316973.htm) | Fri Sep 16 2022 4:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据CNET报道，&lt;strong&gt;美国宇航局（NASA）周一宣布，三个强大的望远镜--哈勃、斯皮策和钱德拉X射线天文台--联合起来，研究了一个白矮星死亡后的碎片。&lt;/strong&gt;可以把这些恒星的残骸看作是恒星最后时刻的整体后果，也就是它遭遇死亡的环境。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自古就有门当户对，所以匹狼公子与特步公主联姻也就没啥奇怪了吧，毕竟95后也开始慢慢掌管起自家的企业了。&lt;strong&gt;近日，“特步小公主与七匹狼公子喜结良缘”的消息在网络上传开。&lt;/strong&gt;在多个自媒体账号发布的一张合照中，女孩一席明黄色礼服裙，披肩大波浪长发，一手端举酒杯，另一手则与身旁黑色西服，高她半个头的男生十指紧扣。男生的领带也是特意搭配好的明黄色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英伟达终于证实了GeForce RTX 40系列GPU将采用Ada Lovelace命名](https://www.cnbeta.com/articles/tech/1316875.htm) | Fri Sep 16 2022 2:04 AM 
+- 💂 [腾讯海外游戏新闻媒体Fanbyte突然裁员 包括主编在内多人被裁](https://hot.cnbeta.com/articles/game/1316971.htm) | Fri Sep 16 2022 4:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;英伟达刚刚正式确认了其用于下一代 GeForce RTX 40 系列游戏 GPU 的架构，将以著名科学家和数学家 Ada Lovelace 的名字命名。&lt;/strong&gt;在一条题为“未来有个过去”（the future has a past …）的推文中，该公司澳大利亚与新西兰官方账号（@NvidiaANZ）还在随附的 12 秒无声短片中，展示了“伯努利数”（Numbers of Bernoulli）的图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天（9 月 16 日）腾讯旗下的海外游戏新闻网站 Fanbyte 突然裁员，目前具体受影响员工人数暂不清楚。在被解雇的人中，有主编Danielle Riendeau、媒体主管/特约编辑 John Warren 和特约编辑 Elise Favis。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPad为英国伊丽莎白女王去世进入“哀悼模式”？系网络恶作剧](https://hot.cnbeta.com/articles/game/1316873.htm) | Fri Sep 16 2022 2:03 AM 
+- 🚀 [《使命召唤19：现代战争2》多人模式预告 10月28日发售](https://hot.cnbeta.com/articles/game/1316969.htm) | Fri Sep 16 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;人们正在为英国女王伊丽莎白二世的去世而哀悼。然而设备则不然。目前在互联网上流传的一个恶作剧称，由于君主的去世，英国用户无法玩Roblox游戏，而另一个恶作剧说，设置为英式英语的苹果iPad进入了“哀悼模式”，无法操作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（9月16日），动视于COD NEXT直播活动中公布《使命召唤19：现代战争2》多人模式预告，《使命召唤19：现代战争2》将于10月28日发售，登陆PC、PS4、PS5、Xbox One和Xbox Series X|S平台。预购数字版的玩家可以在10月20日游玩战役。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [明日起国庆假期火车票开抢 注意售票改签时间有变](https://www.cnbeta.com/articles/tech/1316871.htm) | Fri Sep 16 2022 2:01 AM 
+- 🎊 [Linus Torvalds访谈：我不是工作狂 相比参加会议我更愿意潜水](https://www.cnbeta.com/articles/tech/1316967.htm) | Fri Sep 16 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;告诉打工人一个沉重的消息，今年的假期余额只剩下7天了；但还有一个好消息，再上10天班，就能赶上这7天国庆假期了。而且，从明天开始，就能抢国庆火车票，计划出去玩的朋友，可以行动起来了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国外科技媒体 ZDNet 的高级特约编辑史蒂芬·沃恩-尼克尔斯（Steven Vaughan-Nichols）今日撰文，在 2022 年内核开发者峰会 Linux Plumbers Conference（LPC）上，对莱纳斯·托瓦兹（Linus Torvalds）进行了采访。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
