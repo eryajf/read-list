@@ -343,19 +343,19 @@
     一个新的恶意软件包利用受害者YouTube频道自我传播。 
     </details> 
 
-- 🦅 [全国信安标委发布《信息安全技术 网络数据分类分级要求》（征求意见稿）](https://www.freebuf.com/news/344672.html) | Fri Sep 16 2022 3:14 AM 
+- 🦅 [攻击溯源的成本与难度 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/344674.html) | Fri Sep 16 2022 3:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    作为安全事件发生后，进行事后响应的重要组成部分，攻击溯源有助于企业在一定程度上还原攻击者路径及攻击手法，并以此加强自身防御，尽量避免二次攻击的发生。但在实际操作中，溯源的难度、时间的可控性等往往难以估量，甚至还会带来不小的内部损耗，但面对有时不得不做的溯源，企业应该如何评估考量？该从哪些方面提升溯源效率，本期话题我们就以企业进行攻击溯源为话题，对相关问题展开讨论。 
+    </details> 
+
+- 🪄 [全国信安标委发布《信息安全技术 网络数据分类分级要求》（征求意见稿）](https://www.freebuf.com/news/344672.html) | Fri Sep 16 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
     《分类分级要求》给出了数据分类分级的原则和方法，包括数据分类分级基本原则、数据分类框架和方法、数据分级框架和方法等。 
     </details> 
 
-- 🪄 [借悼念伊丽莎白二世女王之名，攻击者发起大规模网络钓鱼攻击](https://www.freebuf.com/news/344662.html) | Fri Sep 16 2022 2:59 AM 
+- 💻 [借悼念伊丽莎白二世女王之名，攻击者发起大规模网络钓鱼攻击](https://www.freebuf.com/news/344662.html) | Fri Sep 16 2022 2:59 AM 
     <details><summary>展开描述 ...</summary> 
     安全研究人员发现，以“女王去世”、“哀悼女王”等为诱饵的网络钓鱼攻击呈现持续上升的趋势。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 美国宣布制裁10名伊朗网军成员；六成受访者认为曾被“杀熟”](https://www.freebuf.com/articles/344641.html) | Thu Sep 15 2022 1:53 PM 
-    <details><summary>展开描述 ...</summary> 
-    美国财政部海外资产控制办公室9月14日宣布，对隶属于伊朗伊斯兰革命卫队（IRGC）的10名个人和两家实体实施制裁。 
     </details> 
 <!-- freebuf:END -->
 
