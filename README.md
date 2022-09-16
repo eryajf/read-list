@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Uber遭遇重大网络安全漏洞，现正在调查中](https://www.cnbeta.com/articles/tech/1317095.htm) | Fri Sep 16 2022 9:20 AM 
+- 🕯 [iPhone 14与Apple Watch今日开售 苹果官方公布Apple Store店内影像](https://www.cnbeta.com/articles/tech/1317125.htm) | Fri Sep 16 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，&lt;strong&gt;打车服务Uber遭受了一次重大的网络安全攻击，一些内部通信系统和工程系统受到影响并被关闭。&lt;/strong&gt;该公司在一条推文中确认了这一漏洞。Uber没有透露事件的细节信息也没有透露是否有用户数据被泄露，但确认网络犯罪分子在泄露了一名工人的账户后能在该公司的Slack上发布信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;就在宣布后的一个多星期，四款新iPhone 14中的三款已经在第一批国家和地区上市，两款新发布的Apple Watch手表也是如此。顾客可以在当地的Apple Store、Apple.com、Apple Store应用程序和授权零售商那里买到其中的一款或几款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [瓜子二手车发布《新能源3年保值率榜单》：TOP20车系均值59.7%](https://www.cnbeta.com/articles/tech/1317093.htm) | Fri Sep 16 2022 9:13 AM 
+- 💼 [长沙电信大楼明火已被扑灭：内部人员拍下火灾画面](https://www.cnbeta.com/articles/tech/1317123.htm) | Fri Sep 16 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月16日消息，瓜子二手车通过二手车交易大数据综合研判，发布了《新能源汽车3年保值率榜单》。&lt;/strong&gt;瓜子二手车交易大数据显示，新能源汽车3年保值率榜单中，主流TOP20车系的3年保值率区间为73.4%~55.3%，均值59.7%，这一均值数据相比传统热门的燃油车动辄70%以上的3年保值率而言，存在不少提升空间，也略低于目前燃油车中自主品牌TOP20车系的3年保值率均值约65%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月16日下午，位于湖南长沙市区内的中国电信大楼突然发生火灾，数十层楼体燃烧剧烈，现场浓烟滚滚，火光直冲楼顶，还有目击者称听到了爆炸声。消防救援人员立刻赶赴现场，很快将火势控制。据中国电信官方通报，&lt;strong&gt;16点30分左右，长沙第二通信楼明火已被扑灭，未发现人员伤亡，通信未中断。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美团打车在上海正式接入腾讯出行 此前已在杭州、郑州、重庆等城市合作](https://www.cnbeta.com/articles/tech/1317091.htm) | Fri Sep 16 2022 9:13 AM 
+- 💂 [AAEON推出新一代UP Squared V2单板机](https://www.cnbeta.com/articles/tech/1317121.htm) | Fri Sep 16 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月16日讯，记者从美团方面了解到，美团打车在上海正式接入腾讯出行服务平台。&lt;strong&gt;目前，上海用户打开腾讯出行的打车页面可以看到，经济型和优选型这两类车型中都可以选择美团打车。&lt;/strong&gt;此前，双方已经在杭州、郑州、重庆等城市开始合作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;以 UP Board 系列而被大家所熟知的研扬科技（AAEON），刚刚推出了新一代 UP Squared V2 单板机。&lt;/strong&gt;作为 UP Squared 的继任者，V2 版本维持了 3.37×3.54 英寸（85×90 毫米）的外形尺寸，但显著提升了处理能力、图形功能、以及扩展选项，让用户能够更高效地开发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [嫦娥五号着陆区至少经历了四次火山岩浆喷发](https://www.cnbeta.com/articles/science/1317089.htm) | Fri Sep 16 2022 9:11 AM 
+- 🚀 [LG Display希望赢得苹果对iPhone 14 LTPO OLED的认可](https://www.cnbeta.com/articles/tech/1317119.htm) | Fri Sep 16 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一项对嫦娥五号月球样品的研究表明，嫦娥五号着陆区至少经历了四次火山岩浆喷发，并且该地区的岩浆喷发通量在月球火山活动晚期有显著增强。&lt;/strong&gt;该成果有利于进一步增进对于月球火山活动与内部热演化历史的认识。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据韩国电子网站TheElec了解，LG Display为其用于iPhone 14 Pro Max的低温多晶氧化物&lpar;LTPO&rpar;OLED正处于苹果公司审查的最后阶段。消息人士称，这家韩国显示器制造商是否会赢得这笔交易，将在两周左右的时间内决定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [在青少年黑客入侵Uber内部系统后 该公司员工最初认为这是一个玩笑](https://www.cnbeta.com/articles/tech/1317087.htm) | Fri Sep 16 2022 9:08 AM 
+- 🎊 [消息称苹果嵌入式核心架构将全面抛弃Arm拥抱RISC-V](https://www.cnbeta.com/articles/tech/1317117.htm) | Fri Sep 16 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在有报道称Uber公司的内部系统遭入侵后，该公司表示正在调查一起“网络安全事件”。&lt;/strong&gt;这名18岁的黑客称，他们拥有公司工具的管理员权限，包括Slack、亚马逊网络服务和Google云平台。《纽约时报》报道说，这家打车公司已经关闭了包括Slack在内的多个内部系统，同时对该漏洞进行调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;RISC-V一直被视为x86、Arm之外最有潜力的第三大CPU架构，尤其是其免授权、开源的特性有着知名的诱惑力。根据半导体分析机构SemiAnalysis的消息，苹果正准备将其嵌入式核心的架构从Arm转向RISC-V。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
