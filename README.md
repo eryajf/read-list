@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国际空间站宇航员研究泡沫、火灾和液体 并测试新厕所](https://www.cnbeta.com/articles/science/1316993.htm) | Fri Sep 16 2022 6:03 AM 
+- 🕯 [iPhone 14 Pro灵动岛有色差遭吐槽 实测：户外及强光下逼死强迫症](https://www.cnbeta.com/articles/tech/1317037.htm) | Fri Sep 16 2022 7:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国宇航局（NASA）网站消息，&lt;strong&gt;周四在国际空间站上，太空中的泡沫、火灾和液体是主要的研究课题，以提高生活在地球上和地球外的人类的生活质量。&lt;/strong&gt;此外，远征67号机组人员检查了一个新的美国舱段厕所，同时为本月底的机组人员离开活动做准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天是首批iPhone 14 Pro/Pro Max正式收货的日子，不少参与抢购的消费者已经纷纷用上新机。不过，大家期待的“灵动岛”设计，还是引起了一些讨论和争议，比如挖孔和周围黑色像素的错位、色差等情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究人员发现了运动对心理健康的惊人影响](https://www.cnbeta.com/articles/science/1316991.htm) | Fri Sep 16 2022 6:00 AM 
+- 💼 [本田三款全球摩托车型上市：最低只需1.68万](https://www.cnbeta.com/articles/tech/1317035.htm) | Fri Sep 16 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;相信大家已经看到过一些研究对运动有益于大脑健康的不同方式提供了一些有价值的见解，从对抗抑郁症到对抗痴呆症再到提高我们的记忆力。&lt;strong&gt;现在，一项新研究以长远的眼光来看待这个话题，该研究利用一年的Fitbit数据来衡量不同类型的体育活动的影响并得到了一些有趣的发现。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本田汽车旗下三款“全球摩托车型”迎来正式上市。其中&lt;strong&gt;Lead125车型的建议零售价为1.68万元；CM300车型的建议零售价为3.45万元；CBR400R车型的建议零售价为4.5万元。&lt;/strong&gt;Lead125&lt;/strong&gt;在三款车型中售价最便宜的车型，其采用了踏板结构，设计思路较为简约，在前脸细节处融入了镀铬设计元素，可以提升车辆的精致感。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [恒驰5在天津工厂量产 预计10月交付 自称大卖成定局](https://www.cnbeta.com/articles/tech/1316989.htm) | Fri Sep 16 2022 5:55 AM 
+- 💂 [迪士尼音乐动画电影《愿望》定档明年 又是黑人女主](https://hot.cnbeta.com/articles/comic/1317033.htm) | Fri Sep 16 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月16日消息，据恒大汽车官方，&lt;strong&gt;恒驰汽车首款车型恒驰5在天津工厂正式量产&lt;/strong&gt;，此时距离其公布布局新能源汽车产业开始，已经过去了3年9个月。恒大表示，这三年零九个月，恒驰汽车不忘初心、克服重重困难，尤其是去年下半年，恒驰汽车遇到困境，全体员工上下一心、努力拼搏、永不放弃，一步步走出至暗时刻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;迪士尼刚在D23宣布的新音乐动画电影《愿望》正式定档2023年11月22日北美上映，进入感恩节档。阿丽亚娜·德博斯配音该片女主阿莎，讲述阿莎在愿望王国看到了黑暗的存在，决定向一颗星星许愿，然后那颗星星活了。艾伦·图代克配音穿着睡衣的山羊瓦伦蒂诺，许愿可以交流。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1317033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [统一推送联盟新官网上线 正式改名“统一推送工作委员会”](https://www.cnbeta.com/articles/tech/1316987.htm) | Fri Sep 16 2022 5:54 AM 
+- 🚀 [新垣结衣将出演新片《正欲》 饰演有特殊癖好的职员](https://hot.cnbeta.com/articles/movie/1317031.htm) | Fri Sep 16 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2017年10月，工信部旗下中国信息通信研究院泰尔终端实验室倡导成立了“统一推送联盟”。&lt;strong&gt;该联盟旨在联合国内多家厂商制定安卓统一推送服务（Unified Push Service，UPS）技术标准，集中整治垃圾信息打扰。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据新浪电影报道，日媒消息，新垣结衣和稻垣吾郎将出演电影《正欲》。该片由朝井辽的同名小说改编，岸善幸执导，预计2023年上映。剧情讲述稻垣吾郎饰演为了养活妻子和儿子，在横滨检察厅工作的检察官寺井启喜。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [金山云发布免费商用字体](https://www.cnbeta.com/articles/soft/1316985.htm) | Fri Sep 16 2022 5:53 AM 
+- 🎊 [87km/h!一男子驾克尔维特创世界最快倒车纪录](https://www.cnbeta.com/articles/tech/1317029.htm) | Fri Sep 16 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;33年前,金山软件因“字”而生。33年后,金山发布首款原创字体库。金山云UED设计团队秉持着金山人“技术立业”的精神,历时四年,逐点逐字,匠心设计。&lt;/strong&gt;“金山云技术体”是一款无衬线体,提供一种标准版字重,文字参照GB2312简体中文编码字符标准。包含国标一级、二级字库汉字6763个,外文及数字符号804个,总字符数7567个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1316985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;相较于汽车前向行驶的速度，倒车就不容易达到太高的速度，除了变速箱速比不支持高速之外，出于安全考虑，高速倒车的风险也要比前进高很多。而为了挑战倒车时的极速，一位叫做伯纳（Burner）的苏格兰人，驾驶着上一代雪佛兰克尔维特C7创下了新的吉尼斯世界纪录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
