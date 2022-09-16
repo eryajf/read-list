@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《街霸6》环球游历开场动画 18位角色公布](https://hot.cnbeta.com/articles/game/1317209.htm) | Fri Sep 16 2022 4:26 PM 
+- 🕯 [体验完iPhone 14 Pro Max后 我发现最吸引我的不是灵动岛](https://www.cnbeta.com/articles/tech/1317217.htm) | Fri Sep 16 2022 4:55 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;就在上个礼拜，苹果在它的秋季发布会上发布了四台 iPhone，这次我们也是拿到了两台，分别是蓝色版的 iPhone 14，以及紫色版的 iPhone 14 Pro Max。不知道各位觉得它们的这个颜色怎么样？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [放假7天需调休 国庆假期首日火车票今日开售](https://www.cnbeta.com/articles/tech/1317215.htm) | Fri Sep 16 2022 4:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;距离今年国庆节还有半个月时间，你的出行计划都安排好了没？据“中国铁路”官方，&lt;strong&gt;今天（9月17日），大家可以通过铁路12306网站、铁路12306 App购买国庆假期首日（10月1日）火车票。&lt;/strong&gt;10月6日和7日火车票将分别于9月22日和23日开售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [iPhone 14系列首销火爆 库克深夜感慨：这一天背后是多年的努力](https://www.cnbeta.com/articles/tech/1317213.htm) | Fri Sep 16 2022 4:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月16日，iPhone 14、iPhone 14 Pro、iPhone 14 Pro Max迎来首销，&lt;strong&gt;与往年iPhone开售一样，今年全国各地Apple&amp;nbsp;Store门店同样排起了长队。&lt;/strong&gt;根据博主实拍的深圳益田假日Apple Store门店照片，黄牛直接在路边摆摊收新机，收了多少？满满一行李箱。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Rigetti Computing研发高性能量子计算机 帮助汽车制造商和金融企业从中受益](https://www.cnbeta.com/articles/tech/1317211.htm) | Fri Sep 16 2022 4:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;量子领导企业Rigetti Computing透露其长期计划，帮助汽车制造商和金融企业从潜在的革命性量子计算机中受益。&lt;/strong&gt;2013年，Rigetti Computing开始推动制造量子计算机。该公司周五表示，这一努力可能从2023年开始结出果实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [《街霸6》环球游历开场动画 18位角色公布](https://hot.cnbeta.com/articles/game/1317209.htm) | Fri Sep 16 2022 4:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;卡普空官方今日公开了《街霸6》环球游历开场动画- The Meaning of Strength，抽绘了《Street Fighter 6》中登场18位角色的开场动画现已公布，角色包括：卢克、杰米、曼侬、金柏莉、玛丽莎、莉莉、JP、韩蛛俐、迪 · 杰、嘉米、隆、埃德蒙 · 本田、布兰卡、古烈、肯、春丽、桑吉尔夫及达尔西姆！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [AMD确认赛灵思AI引擎驱动的锐龙CPU已经在实验室中运行](https://www.cnbeta.com/articles/tech/1317207.htm) | Fri Sep 16 2022 4:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD已经确认第一批Phoenix Point处理器样品正在实验室当中运行，&lt;strong&gt;这些处理器内置了赛灵思AI加速引擎。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [自动电动卡车公司Einride进入德国市场](https://www.cnbeta.com/articles/tech/1317205.htm) | Fri Sep 16 2022 3:51 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Einride公司于2016年在斯德哥尔摩成立，&lt;strong&gt;已经筹集了约1.5亿美元的资金，以实现无驾驶室的自动货运卡车的商业化&lt;/strong&gt;，如果需要的话，可以由人类操作员远程控制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [英国利用推特和直播来管理5英里长的吊唁队伍](https://www.cnbeta.com/articles/tech/1317203.htm) | Fri Sep 16 2022 3:40 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当已故英国女王伊丽莎白二世的棺材安放在伦敦威斯敏斯特大厅时，成千上万的人排队向这个国家在位时间最长的君主致意。&lt;strong&gt;为了管理这条长达数英里的队伍，许多人将其称为 &amp;quot;排队&amp;quot;，英国政府已转向包括Twitter、YouTube和Instagram在内的平台，提供最新的信息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [微软PC Game Pass现在可以根据不同的玩法显示游戏长度](https://hot.cnbeta.com/articles/game/1317201.htm) | Fri Sep 16 2022 3:00 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软为其已经很充实的PC Game Pass服务增加了另一项功能：游戏列表现在显示了一个游戏作品需要多长时间完成的细节。有趣的是，这以数据并不局限于平均数，因为它提供了包括基于不同游戏方式的四种时间。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
