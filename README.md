@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [日本年轻人中想结婚的比例降至最低点](http://jandan.net/p/111352) | Fri Sep 16 2022 5:28 AM 
+- 🚀 [分子层面的小聪明让蚁后芳龄永驻](http://jandan.net/p/111353) | Fri Sep 16 2022 7:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    一些蚁后的长生秘诀可能是她们自己分泌的胰岛素阻断剂。 
+    </details> 
+
+- 🙉 [日本年轻人中想结婚的比例降至最低点](http://jandan.net/p/111352) | Fri Sep 16 2022 5:28 AM 
     <details><summary>展开描述 ...</summary> 
     新冠疫情也起了推波助澜的作用 
     </details> 
 
-- 🙉 [一颗失落的卫星 可以解释土星环，土星倾角，土卫六的轨道等一系列谜团](http://jandan.net/p/111350) | Fri Sep 16 2022 4:26 AM 
+- 🎉 [一颗失落的卫星 可以解释土星环，土星倾角，土卫六的轨道等一系列谜团](http://jandan.net/p/111350) | Fri Sep 16 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
     虽然在390次模拟中，只有17次产生了土星环的形成条件。 
     </details> 
 
-- 🎉 [今日好价 0916](http://jandan.net/p/111349) | Fri Sep 16 2022 2:38 AM 
+- 🐲 [今日好价 0916](http://jandan.net/p/111349) | Fri Sep 16 2022 2:38 AM 
     <details><summary>展开描述 ...</summary> 
     大家周五快乐 
     </details> 
 
-- 🐲 [中国海洋大学突然发现 漳州海鲜市场随处可见的小章鱼其实是未被记录的新物种](http://jandan.net/p/111348) | Thu Sep 15 2022 2:23 PM 
+-  [中国海洋大学突然发现 漳州海鲜市场随处可见的小章鱼其实是未被记录的新物种](http://jandan.net/p/111348) | Thu Sep 15 2022 2:23 PM 
     <details><summary>展开描述 ...</summary> 
     在中国海域发现的首个红蛸属 Callistoctopus新物种。 
-    </details> 
-
--  [哺乳动物的运输反应 专家称找到了哄哭泣婴儿快速入睡的简单方法](http://jandan.net/p/111338) | Thu Sep 15 2022 8:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    父母能够利用这种与生俱来的哺乳动物条件反射来防止自己猝死 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
