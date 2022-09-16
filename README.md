@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Synkmark 3.0 Safari书签同步](https://xclient.info/s/synkmark.html) | Thu Sep 15 2022 1:29 AM 
+- 🦏 [Synkmark 3.0.1 Safari书签同步](https://xclient.info/s/synkmark.html) | Fri Sep 16 2022 1:11 AM 
     <details><summary>展开描述 ...</summary> 
     Synkmark是Mac os平台上的一款帮助用户在Safari上同步自己的标签的Mac软件 
     </details> 
 
--  [Transmit 5.8.10 一款功能齐全的FTP客户端](https://xclient.info/s/transmit.html) | Thu Sep 15 2022 1:25 AM 
+-  [Sublime Text 4 Build 4135 Dev](https://xclient.info/s/sublime-text.html) | Fri Sep 16 2022 1:10 AM 
     <details><summary>展开描述 ...</summary> 
-    Transmit是一款功能齐全的FTP客户端。兼容FTP，SFTP和TLS/SSL协议，提供比Finder更加迅速的iDisk账户接入。与此同时，用户还可以通过Transmit在任意应用程序中无须下载即可实时编辑文档，方便简洁，一步到位。 
+    Sublime Text被称作Mac下的TextMate，而根据其官网介绍，Sublime Text的特点如下：拥有高效、没有干扰的界面，在编辑方面的多选、宏、代码片段等功能，以及很有特色的Minimap。 
     </details> 
 
-- ⚗️ [Things 3.15.21 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Thu Sep 15 2022 1:24 AM 
+- ⚗️ [Perfectly Clear WorkBench 4.2.0.2336 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Fri Sep 16 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    Things 是 Mac OS X 上的一款优秀的GTD任务管理工具，是一款非常值得尝试的任务管理及日程管理程序，并且支持同步到iPhone中。 
+    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
     </details> 
 
-- 🔥 [Nova 9.6 代码编辑器](https://xclient.info/s/nova.html) | Thu Sep 15 2022 1:23 AM 
+- 🔥 [Large Files Finder 1.5.0 大文件查找](https://xclient.info/s/large-files-finder.html) | Fri Sep 16 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    Nova是Mac电脑上的一款强大的代码编辑工具，支持智能自动完成，多个光标，Minimap，编辑器过度滚动，标签对和括号以及更多方式。 
+    Large Files Finder是一款方便实用的电脑大文件查找软件，能帮助用户闪电般查找计算机电脑中查找大量占用磁盘空间的大体积文件。 
     </details> 
 
-- 🌋 [Infuse Pro 7.4.5 全能视频播放器](https://xclient.info/s/infuse-pro.html) | Thu Sep 15 2022 1:23 AM 
+- 🌋 [Smart File Renamer 1.4.0 文件重命名](https://xclient.info/s/smart-file-renamer.html) | Fri Sep 16 2022 1:00 AM 
     <details><summary>展开描述 ...</summary> 
-    Infuse Pro 是一款强大的 Mac 视频播放器。它可以一口通吃您所有的视频文件，把您从繁琐的视频转换中解放出来，用极美的方式在您的 Mac 上观赏几乎所有视频的格式。 
+    Smart File Renamer是一款重命名工具，可以轻松重命名多个文件，可以极其灵活的批处理文件，支持数百种重命名场景！ 
     </details> 
 <!-- xclient:END -->
 
