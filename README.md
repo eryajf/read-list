@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软PC Game Pass现在可以根据不同的玩法显示游戏长度](https://hot.cnbeta.com/articles/game/1317201.htm) | Fri Sep 16 2022 3:00 PM 
+- 🕯 [《街霸6》环球游历开场动画 18位角色公布](https://hot.cnbeta.com/articles/game/1317209.htm) | Fri Sep 16 2022 4:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;卡普空官方今日公开了《街霸6》环球游历开场动画- The Meaning of Strength，抽绘了《Street Fighter 6》中登场18位角色的开场动画现已公布，角色包括：卢克、杰米、曼侬、金柏莉、玛丽莎、莉莉、JP、韩蛛俐、迪 · 杰、嘉米、隆、埃德蒙 · 本田、布兰卡、古烈、肯、春丽、桑吉尔夫及达尔西姆！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [AMD确认赛灵思AI引擎驱动的锐龙CPU已经在实验室中运行](https://www.cnbeta.com/articles/tech/1317207.htm) | Fri Sep 16 2022 4:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;AMD已经确认第一批Phoenix Point处理器样品正在实验室当中运行，&lt;strong&gt;这些处理器内置了赛灵思AI加速引擎。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [自动电动卡车公司Einride进入德国市场](https://www.cnbeta.com/articles/tech/1317205.htm) | Fri Sep 16 2022 3:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Einride公司于2016年在斯德哥尔摩成立，&lt;strong&gt;已经筹集了约1.5亿美元的资金，以实现无驾驶室的自动货运卡车的商业化&lt;/strong&gt;，如果需要的话，可以由人类操作员远程控制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [英国利用推特和直播来管理5英里长的吊唁队伍](https://www.cnbeta.com/articles/tech/1317203.htm) | Fri Sep 16 2022 3:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当已故英国女王伊丽莎白二世的棺材安放在伦敦威斯敏斯特大厅时，成千上万的人排队向这个国家在位时间最长的君主致意。&lt;strong&gt;为了管理这条长达数英里的队伍，许多人将其称为 &amp;quot;排队&amp;quot;，英国政府已转向包括Twitter、YouTube和Instagram在内的平台，提供最新的信息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [微软PC Game Pass现在可以根据不同的玩法显示游戏长度](https://hot.cnbeta.com/articles/game/1317201.htm) | Fri Sep 16 2022 3:00 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;微软为其已经很充实的PC Game Pass服务增加了另一项功能：游戏列表现在显示了一个游戏作品需要多长时间完成的细节。有趣的是，这以数据并不局限于平均数，因为它提供了包括基于不同游戏方式的四种时间。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [拜登政府发布加密货币监管框架](https://www.cnbeta.com/articles/tech/1317199.htm) | Fri Sep 16 2022 2:57 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;拜登政府周五发布了可能影响深远的加密货币潜在监管框架，包括如何最好地给这个不断增长的行业带来稳定，并保护美国企业和消费者免受货币崩溃和欺诈风险。&lt;/strong&gt;在总统乔-拜登3月份的行政命令之后首次发布了指导方针，呼吁政府机构评估包括加密货币在内的数字资产的风险和利益，并探索创建美国中央银行数字货币的可能性，这是一种政府控制的加密货币。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [英特尔不再使用奔腾和赛扬品牌 以简单的 &quot;英特尔处理器&quot;品牌取代](https://www.cnbeta.com/articles/tech/1317197.htm) | Fri Sep 16 2022 2:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔已经正式宣布，它将在2023年的CPU系列中停用其标志性的奔腾和赛扬品牌，并将其更名为&amp;quot;英特尔处理器&amp;quot;。新的&amp;quot;英特尔处理器&amp;quot;品牌将从2023年开始生效，影响即将推出的移动CPU，如第13代Raptor Lake和第14代Meteor Lake系列。英特尔似乎也更专注于打造其旗舰品牌，包括酷睿、EVO和vPro系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [iPhone 14 Pro拥有6GB容量的LPDDR5内存](https://www.cnbeta.com/articles/tech/1317195.htm) | Fri Sep 16 2022 2:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;与去年的iPhone 13 Pro相比，iPhone 14 Pro和iPhone 14 Pro Max拥有6GB更快的内存，这有助于使整体设备性能更快、更高效。今天早些时候针对iPhone 14 Pro的拆解显示，它采用了高通的X65 5G调制解调器，提供更快的5G速度和更低的能耗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [刘强东转让所持宿迁天宁、西安京东股权](https://www.cnbeta.com/articles/tech/1317193.htm) | Fri Sep 16 2022 2:30 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月16日晚间消息，京东健康在港交所公告，刘强东同意将于宿迁天宁持有的45%股权转让予京东集团副总裁缪钦；京东物流同日公告，刘强东同意将于西安京东持有的45%股权转让予京东集团副总裁缪钦。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
