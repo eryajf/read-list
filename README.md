@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [河南小县城1年生产400万克拉钻石：媲美天然钻、价格仅1/3](https://www.cnbeta.com/articles/tech/1316975.htm) | Fri Sep 16 2022 4:48 AM 
+- 🕯 [国际空间站宇航员研究泡沫、火灾和液体 并测试新厕所](https://www.cnbeta.com/articles/science/1316993.htm) | Fri Sep 16 2022 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;钻石白菜价，或许这一天真的会到来。据@小央视频报道，我国是培育钻石生产大国，河南则是培育钻石的主产地，近期，培育钻石下游市场火热，中上游的培育钻石企业订单更是火爆。数据显示，在豫东柘城县，&lt;strong&gt;2021年全球培育钻石产量900万克拉，仅商丘市柘城一县就生产了400万克拉&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据美国宇航局（NASA）网站消息，&lt;strong&gt;周四在国际空间站上，太空中的泡沫、火灾和液体是主要的研究课题，以提高生活在地球上和地球外的人类的生活质量。&lt;/strong&gt;此外，远征67号机组人员检查了一个新的美国舱段厕所，同时为本月底的机组人员离开活动做准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [七匹狼公子与特步公主联姻引围观 95后二代有颜又有能力：闽商八百亿豪门牵手](https://www.cnbeta.com/articles/tech/1316973.htm) | Fri Sep 16 2022 4:47 AM 
+- 💼 [研究人员发现了运动对心理健康的惊人影响](https://www.cnbeta.com/articles/science/1316991.htm) | Fri Sep 16 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自古就有门当户对，所以匹狼公子与特步公主联姻也就没啥奇怪了吧，毕竟95后也开始慢慢掌管起自家的企业了。&lt;strong&gt;近日，“特步小公主与七匹狼公子喜结良缘”的消息在网络上传开。&lt;/strong&gt;在多个自媒体账号发布的一张合照中，女孩一席明黄色礼服裙，披肩大波浪长发，一手端举酒杯，另一手则与身旁黑色西服，高她半个头的男生十指紧扣。男生的领带也是特意搭配好的明黄色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;相信大家已经看到过一些研究对运动有益于大脑健康的不同方式提供了一些有价值的见解，从对抗抑郁症到对抗痴呆症再到提高我们的记忆力。&lt;strong&gt;现在，一项新研究以长远的眼光来看待这个话题，该研究利用一年的Fitbit数据来衡量不同类型的体育活动的影响并得到了一些有趣的发现。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1316991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [腾讯海外游戏新闻媒体Fanbyte突然裁员 包括主编在内多人被裁](https://hot.cnbeta.com/articles/game/1316971.htm) | Fri Sep 16 2022 4:36 AM 
+- 💂 [恒驰5在天津工厂量产 预计10月交付 自称大卖成定局](https://www.cnbeta.com/articles/tech/1316989.htm) | Fri Sep 16 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天（9 月 16 日）腾讯旗下的海外游戏新闻网站 Fanbyte 突然裁员，目前具体受影响员工人数暂不清楚。在被解雇的人中，有主编Danielle Riendeau、媒体主管/特约编辑 John Warren 和特约编辑 Elise Favis。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月16日消息，据恒大汽车官方，&lt;strong&gt;恒驰汽车首款车型恒驰5在天津工厂正式量产&lt;/strong&gt;，此时距离其公布布局新能源汽车产业开始，已经过去了3年9个月。恒大表示，这三年零九个月，恒驰汽车不忘初心、克服重重困难，尤其是去年下半年，恒驰汽车遇到困境，全体员工上下一心、努力拼搏、永不放弃，一步步走出至暗时刻。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《使命召唤19：现代战争2》多人模式预告 10月28日发售](https://hot.cnbeta.com/articles/game/1316969.htm) | Fri Sep 16 2022 4:32 AM 
+- 🚀 [统一推送联盟新官网上线 正式改名“统一推送工作委员会”](https://www.cnbeta.com/articles/tech/1316987.htm) | Fri Sep 16 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（9月16日），动视于COD NEXT直播活动中公布《使命召唤19：现代战争2》多人模式预告，《使命召唤19：现代战争2》将于10月28日发售，登陆PC、PS4、PS5、Xbox One和Xbox Series X|S平台。预购数字版的玩家可以在10月20日游玩战役。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1316969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2017年10月，工信部旗下中国信息通信研究院泰尔终端实验室倡导成立了“统一推送联盟”。&lt;strong&gt;该联盟旨在联合国内多家厂商制定安卓统一推送服务（Unified Push Service，UPS）技术标准，集中整治垃圾信息打扰。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Linus Torvalds访谈：我不是工作狂 相比参加会议我更愿意潜水](https://www.cnbeta.com/articles/tech/1316967.htm) | Fri Sep 16 2022 4:24 AM 
+- 🎊 [金山云发布免费商用字体](https://www.cnbeta.com/articles/soft/1316985.htm) | Fri Sep 16 2022 5:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国外科技媒体 ZDNet 的高级特约编辑史蒂芬·沃恩-尼克尔斯（Steven Vaughan-Nichols）今日撰文，在 2022 年内核开发者峰会 Linux Plumbers Conference（LPC）上，对莱纳斯·托瓦兹（Linus Torvalds）进行了采访。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1316967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;33年前,金山软件因“字”而生。33年后,金山发布首款原创字体库。金山云UED设计团队秉持着金山人“技术立业”的精神,历时四年,逐点逐字,匠心设计。&lt;/strong&gt;“金山云技术体”是一款无衬线体,提供一种标准版字重,文字参照GB2312简体中文编码字符标准。包含国标一级、二级字库汉字6763个,外文及数字符号804个,总字符数7567个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1316985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
