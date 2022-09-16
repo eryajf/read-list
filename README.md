@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14与Apple Watch今日开售 苹果官方公布Apple Store店内影像](https://www.cnbeta.com/articles/tech/1317125.htm) | Fri Sep 16 2022 10:14 AM 
+- 🕯 [凌晨两点，你愿意跟苹果一块变“绿”？](https://www.cnbeta.com/articles/tech/1317147.htm) | Fri Sep 16 2022 11:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在宣布后的一个多星期，四款新iPhone 14中的三款已经在第一批国家和地区上市，两款新发布的Apple Watch手表也是如此。顾客可以在当地的Apple Store、Apple.com、Apple Store应用程序和授权零售商那里买到其中的一款或几款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在环保这件事上，苹果真的玩出花了。9月15日凌晨，苹果推送了iOS 16.1开发者预览版Beta更新。此前，分析公司Mixpanel的调查数据显示，在iOS 16.0发布后的48小时内，已经有11.6%的用户完成了版本升级，这个数字在iOS 15.0发布时为8.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [长沙电信大楼明火已被扑灭：内部人员拍下火灾画面](https://www.cnbeta.com/articles/tech/1317123.htm) | Fri Sep 16 2022 10:08 AM 
+- 💼 [飞人乔丹篮球背心拍出超1010万美元天价](https://www.cnbeta.com/articles/tech/1317145.htm) | Fri Sep 16 2022 11:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月16日下午，位于湖南长沙市区内的中国电信大楼突然发生火灾，数十层楼体燃烧剧烈，现场浓烟滚滚，火光直冲楼顶，还有目击者称听到了爆炸声。消防救援人员立刻赶赴现场，很快将火势控制。据中国电信官方通报，&lt;strong&gt;16点30分左右，长沙第二通信楼明火已被扑灭，未发现人员伤亡，通信未中断。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据央视新闻报道，美国篮球明星迈克尔·乔丹穿过的一件篮球背心15日在美国纽约市进行拍卖。据了解，&lt;strong&gt;这件印有“Jordan23”（乔丹23号）字样的红色篮球背心是冠军球衣&lt;/strong&gt;，乔丹1998年6月3日穿着它参加了NBA总决赛，并为芝加哥公牛队赢得当年的NBA总冠军立下汗马功劳。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AAEON推出新一代UP Squared V2单板机](https://www.cnbeta.com/articles/tech/1317121.htm) | Fri Sep 16 2022 10:08 AM 
+- 💂 [最强骁龙8+折叠屏 vivo X Fold+素颜照出炉](https://www.cnbeta.com/articles/tech/1317143.htm) | Fri Sep 16 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;以 UP Board 系列而被大家所熟知的研扬科技（AAEON），刚刚推出了新一代 UP Squared V2 单板机。&lt;/strong&gt;作为 UP Squared 的继任者，V2 版本维持了 3.37×3.54 英寸（85×90 毫米）的外形尺寸，但显著提升了处理能力、图形功能、以及扩展选项，让用户能够更高效地开发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，vivo X Fold+折叠屏获得入网许可，相关素颜照出炉。如图所示，&lt;strong&gt;vivo X Fold+工业设计与上一代基本一致，博主数码闲聊站透露，这一代新增了红色素皮版本。&lt;/strong&gt;该机的主要升级在于硬件配置，&lt;strong&gt;它搭载高通骁龙8+旗舰处理器，电池容量为4700mAh，支持80W有线、50W无线闪充。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [LG Display希望赢得苹果对iPhone 14 LTPO OLED的认可](https://www.cnbeta.com/articles/tech/1317119.htm) | Fri Sep 16 2022 10:07 AM 
+- 🚀 [理想汽车法务部再发通告：已采用法律途径追责部分媒体](https://www.cnbeta.com/articles/tech/1317141.htm) | Fri Sep 16 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据韩国电子网站TheElec了解，LG Display为其用于iPhone 14 Pro Max的低温多晶氧化物&lpar;LTPO&rpar;OLED正处于苹果公司审查的最后阶段。消息人士称，这家韩国显示器制造商是否会赢得这笔交易，将在两周左右的时间内决定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月16日晚，注册账号仅一天的理想汽车法务部发出了今日第二条通告，具体内容为：近日，&lt;strong&gt;浙江理想汽车有限公司注销事宜&lt;/strong&gt;引发网络舆论讨论和公众猜测，部分媒体进行恶意解读，对理想汽车声誉造成严重影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [消息称苹果嵌入式核心架构将全面抛弃Arm拥抱RISC-V](https://www.cnbeta.com/articles/tech/1317117.htm) | Fri Sep 16 2022 10:03 AM 
+- 🎊 [Intel A380显卡欧洲开卖 建议搭配500W电源](https://www.cnbeta.com/articles/tech/1317139.htm) | Fri Sep 16 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;RISC-V一直被视为x86、Arm之外最有潜力的第三大CPU架构，尤其是其免授权、开源的特性有着知名的诱惑力。根据半导体分析机构SemiAnalysis的消息，苹果正准备将其嵌入式核心的架构从Arm转向RISC-V。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了显示对中国玩家的重视，Intel之前推出Arc独显时宣布在中国市场首发A380显卡，国内建议价1030元，实际开卖的价格为1299元，首发品牌是蓝戟，随后华擎、微星等公司也推出了A380显卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
