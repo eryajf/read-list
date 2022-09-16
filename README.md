@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [零代码体验 AI 绘画：在 M1/M2 Mac 本地运行 Stable Diffusion](https://sspai.com/post/75682) | Fri Sep 16 2022 3:29 AM 
+- 👹 [数字文具盒｜用 Obsidian 来打造你的学术外脑](https://sspai.com/post/75690) | Fri Sep 16 2022 6:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    外脑的作用并非是取代我的脑子替我进行思考，而是尽可能地储存和展示我记忆的内容和产生的思考。它作为知识处理的辅助工具，应该能够清除我在课题研究中容易遇到的障碍。为了解决这些问题，我找到了目前最称手的工具——Obsidian。&lt;a href=&quot;https://sspai.com/post/75690&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [零代码体验 AI 绘画：在 M1/M2 Mac 本地运行 Stable Diffusion](https://sspai.com/post/75682) | Fri Sep 16 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75682&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：Adobe 收购 Figma，荣耀发布 MagicBook V 14 2022 系列](https://sspai.com/post/75739) | Fri Sep 16 2022 12:35 AM 
+- 🤭 [派早报：Adobe 收购 Figma，荣耀发布 MagicBook V 14 2022 系列](https://sspai.com/post/75739) | Fri Sep 16 2022 12:35 AM 
     <details><summary>展开描述 ...</summary> 
     微软开发「锁定更新」技术支持，以太坊完成合并等。&lt;a href=&quot;https://sspai.com/post/75739&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新配色、新亮点：iPhone 14 系列、新款 Apple Watch 快速上手体验](https://sspai.com/post/75737) | Thu Sep 15 2022 1:02 PM 
+- 🥸 [新配色、新亮点：iPhone 14 系列、新款 Apple Watch 快速上手体验](https://sspai.com/post/75737) | Thu Sep 15 2022 1:02 PM 
     <details><summary>展开描述 ...</summary> 
     在 iPhone 14 系列、Apple Watch Ultra / Series 8 新品发售前夕，少数派有机会获得了提前体验几款新产品的机会，对于大家比较关心的配色、外观、重量、新功能等问题，我们在短暂体验之后也进行了整理，通过这篇文章与你分享。&lt;a href=&quot;https://sspai.com/post/75737&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [在 AI 绘画的世界里，怎样才算一名合格的「甲方」？](https://sspai.com/post/75629) | Thu Sep 15 2022 9:30 AM 
+- 🙉 [在 AI 绘画的世界里，怎样才算一名合格的「甲方」？](https://sspai.com/post/75629) | Thu Sep 15 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     最近看到一则新闻，在美国科罗拉多州博览会的艺术比赛中，参赛者JasonAllen用AI绘画工具生成的作品《空间歌剧院（ThéâtreD&#39;opéraSpatial）》获得了第一名。虽然两名评审在评奖前并 ...&lt;a href=&quot;https://sspai.com/post/75629&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [城市收藏夹 | 北京精酿啤酒不完全赏味指南](https://sspai.com/post/68914) | Thu Sep 15 2022 8:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    一个城市的魅力不全是它的历史、文化或自然风光，也有不少惊喜往往来自那些只有当地人才知晓的隐蔽深巷。而「城市收藏夹」是我们征集来自世界各地Matrix社区作者共同维护的一个长期话题，我们会邀请大家分享自 ...&lt;a href=&quot;https://sspai.com/post/68914&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
