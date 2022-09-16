@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Watch Series 8需要五个晚上才能建立起手腕的基准温度数据](https://www.cnbeta.com/articles/tech/1317181.htm) | Fri Sep 16 2022 1:41 PM 
+- 🕯 [微软：会继续收购 努力成为一个主要玩家](https://hot.cnbeta.com/articles/game/1317191.htm) | Fri Sep 16 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天公布了一份新的支持文件，其中有关于Apple Watch Series 8和Apple Watch Ultra型号上提供的新的手腕温度感应功能的更多细节，事实证明，该功能需要用户佩戴手表五个晚上才能确定基准温度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软游戏总裁Spencer表示公司会继续收购，因为他们想把Xbox变成一个“游戏行业的主要玩家”。在接受CNBC采访时，Xbox老大Phil Spencer被问到微软在收购动视暴雪等待有关部门批准期间是否会暂停收购工作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14 Pro采用高通X65调制解调器 可实现更快5G速度和更长电池续航](https://www.cnbeta.com/articles/tech/1317179.htm) | Fri Sep 16 2022 1:37 PM 
+- 💼 [我国已故小麦育种家庄巧生院士获“终身成就奖”](https://www.cnbeta.com/articles/science/1317189.htm) | Fri Sep 16 2022 2:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据今天在YouTube上分享的设备拆解，iPhone 14 Pro和iPhone 14 Pro Max采用了高通公司的Snapdragon X65调制解调器，以实现更快的5G速度、更低的功耗，并在美国机型上改进了对毫米波的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在9月12日举行的第二届国际小麦大会上，我国已故著名小麦科学家、中国农业科学院作物科学研究所研究员、中国科学院院士庄巧生被授予小麦研究领域“终身成就奖”。庄巧生生于1916年，从二十世纪中叶开始投身小麦育种，育成了多个高产抗病早熟的小麦品种，带头推广三交和复合杂交育种方法，还引入了可在高海拔区域种植的小麦品种，把小麦种植的海拔高度提升了700米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果CEO蒂姆·库克访问Apple Store第五大道店 为系列新品揭幕](https://www.cnbeta.com/articles/tech/1317177.htm) | Fri Sep 16 2022 1:27 PM 
+- 💂 [YouTube视频突增大量不可跳过广告引众怒](https://www.cnbeta.com/articles/tech/1317187.htm) | Fri Sep 16 2022 2:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司首席执行官蒂姆-库克已前往纽约市以出席在著名的第五大道商店举行的新款iPhone 14系列的首日销售活动。9月16日星期五东部时间上午8点，库克被进入商店并开始与工作人员交谈。苹果公司之前没有提前宣布他的访问，库克也还没有像往常一样在Twitter上发布访问商店的消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月16日消息，通常，YouTube在视频开始前只显示两个广告。但最近几周，一些用户已经举报称看到多达5到10个不可跳过的广告。这次YouTube的增加开头广告的操作真的惹怒了很多用户。但Google旗下的平台却回应媒体称，增加大量不可跳过广告只是一个测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《卧虎藏龙》4K修复版海报曝光 定档9月30日重映](https://hot.cnbeta.com/articles/movie/1317175.htm) | Fri Sep 16 2022 1:18 PM 
+- 🚀 [拜登下令对外国投资加强审查 点名半导体、AI、量子计算等领域](https://www.cnbeta.com/articles/tech/1317185.htm) | Fri Sep 16 2022 2:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月15日，电影《卧虎藏龙》4K修复版重映海报曝光，确定将于9月30日在中国台湾地区重映。李安执导的《卧虎藏龙》在推出后为他赢得了巨大的声誉，还荣获了第73届奥斯卡、第58届金球奖等多项大奖。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据行政令，未来CFIUS加强审查的领域包括半导体、AI、生物技术、量子计算和先进清洁能源等。拜登政府发出了首个指示美国外国投资委员会（CFIUS）在评估交易时需考虑其他国家安全因素的总统行政令。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《原神》长篇动画项目官宣 与知名动画公司ufotable合作推出](https://hot.cnbeta.com/articles/comic/1317173.htm) | Fri Sep 16 2022 1:16 PM 
+- 🎊 [Q3业绩喜忧参半+担忧收购Figma交易 多家大行调降Adobe目标价](https://www.cnbeta.com/articles/tech/1317183.htm) | Fri Sep 16 2022 2:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在今天的《原神》3.1版本及2周年特别直播上，除了常规的版本更新内容外，&lt;strong&gt;米哈游还宣布将与日本知名动画公司ufotable开启长期项目合作。&lt;/strong&gt;根据官方在直播上的介绍，&lt;strong&gt;此次合作将是《原神》动画项目的起点，官方将在后续为玩家带来基于《原神》IP的长篇动画。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1317173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;由于Adobe喜忧参半的第三季度业绩和该公司以200亿美元收购设计协作工具公司Figma的交易，部分华尔街分析师下调了对该股的目标价。&lt;/strong&gt;Adobe周四公布的财报显示，该公司第三季度营收为44.3亿美元，同比增长12.4%，较市场预期低1000万美元；净利润为11.4亿美元，同比下降5.8%；非GAAP每股收益为3.40美元，较市场预期高0.06美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
