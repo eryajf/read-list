@@ -741,27 +741,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [它是我整个夏天中可靠的伴旅！](https://www.photoworld.com.cn/post/164241) | Thu Sep 15 2022 2:08 AM 
+- 🤠 [“2022 首届集美中国新风景摄影十杰” 评选启事](https://www.photoworld.com.cn/post/164291) | Fri Sep 16 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [中画幅 “幅” 不服，富士百人影创官火热招募！](https://www.photoworld.com.cn/post/164252) | Thu Sep 15 2022 1:56 AM 
+- 🎃 [它是我整个夏天中可靠的伴旅！](https://www.photoworld.com.cn/post/164241) | Thu Sep 15 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [影像新趋势！索尼数字音频麦克风解析](https://www.photoworld.com.cn/post/164226) | Wed Sep 14 2022 1:00 PM 
+- 👀 [中画幅 “幅” 不服，富士百人影创官火热招募！](https://www.photoworld.com.cn/post/164252) | Thu Sep 15 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [索尼发布全画幅微单™ILCE-7M4 Ver. 1.05 及 1.10 新固件](https://www.photoworld.com.cn/post/164033) | Fri Sep 09 2022 8:32 AM 
+- 🤔 [影像新趋势！索尼数字音频麦克风解析](https://www.photoworld.com.cn/post/164226) | Wed Sep 14 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [富士龙镜头 GF20-35mmF4 R WR 隆重发布](https://www.photoworld.com.cn/post/164005) | Fri Sep 09 2022 7:59 AM 
+- 👀 [索尼发布全画幅微单™ILCE-7M4 Ver. 1.05 及 1.10 新固件](https://www.photoworld.com.cn/post/164033) | Fri Sep 09 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
