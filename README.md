@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《猎人克莱文》《蜘蛛夫人》均推迟数月上映](https://hot.cnbeta.com/articles/movie/1317447.htm) | Sat Sep 17 2022 12:28 PM 
+- 🕯 [南开大学回应教授自嘲式简历爆火：教师自己写的 学校不会干涉](https://www.cnbeta.com/articles/tech/1317449.htm) | Sat Sep 17 2022 12:55 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，&lt;strong&gt;有网友发现南开大学物理学院教授胡金牛教授的简历有点意思：介绍自己的一长串学业研究经历，补充说明（主要是当时找不到工作）；&lt;/strong&gt;介绍自己发表论文的期刊，补充说明（被定义为水刊）；介绍自己的教学课程，补充说明（常因为选课人少停课），字里行间的风趣幽默让很多网友表示：想选他的课，让他不停课。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《猎人克莱文》《蜘蛛夫人》均推迟数月上映](https://hot.cnbeta.com/articles/movie/1317447.htm) | Sat Sep 17 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“快银”亚伦·泰勒-约翰逊主演的索尼漫威新片《猎人克莱文》改档，从明年1月13日推迟至10月6日北美上映。该片由约翰逊饰演克莱文，弗莱德·赫钦格饰演变色龙，阿丽亚娜·德博斯饰演卡吕普索，克里斯托弗·阿波特饰演反派外国人，亚历桑德罗·尼沃拉饰演反派之一，罗素·克劳、莱维·米勒也出演。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [我国高空大型无人机高原气象观测试验首飞作业成功](https://www.cnbeta.com/articles/tech/1317445.htm) | Sat Sep 17 2022 12:22 PM 
+- 💂 [我国高空大型无人机高原气象观测试验首飞作业成功](https://www.cnbeta.com/articles/tech/1317445.htm) | Sat Sep 17 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天（17日），在青藏高原东南缘的四川省阿坝藏族羌族自治州，一架由我国自主研发的高空气象探测大型无人机从红原机场腾空而起，在“中华水塔”三江源地区的阿尼玛卿雪山7500米高空成功下投12枚探空仪，与机载合成孔径雷达、大气微波综合廓线仪一起，实现对青藏高原大气垂直和下垫面“扫描”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华为Mate50的5G手机壳包装现身 799元让4G秒变5G](https://www.cnbeta.com/articles/tech/1317443.htm) | Sat Sep 17 2022 12:15 PM 
+- 🚀 [华为Mate50的5G手机壳包装现身 799元让4G秒变5G](https://www.cnbeta.com/articles/tech/1317443.htm) | Sat Sep 17 2022 12:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Mate 50不支持5G，于是乎配套的通信壳就很有必要，799元（据传的售价）让4G秒变5G用户会购买吗？现在，已经有博主晒出了华为Mate 50的5G手机壳包装，其被命名为“5G通信壳”，出自Soyealink（数源科技）之手，其中通体黑外壳背后，5G红色字眼很是突出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [无徕卡认证 小米12T Pro影像旗舰本月发：价格或不到6000元](https://www.cnbeta.com/articles/tech/1317441.htm) | Sat Sep 17 2022 11:42 AM 
+- 🎊 [无徕卡认证 小米12T Pro影像旗舰本月发：价格或不到6000元](https://www.cnbeta.com/articles/tech/1317441.htm) | Sat Sep 17 2022 11:42 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天，WinFuture曝光了小米12T Pro渲染图，如图所示，该机采用了矩阵三摄方案，背部整体造型与小米12相差不大。&lt;strong&gt;和12S系列一样，小米12T Pro同样主打影像，不过后者没有徕卡认证。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《赛博朋克2077》玩家数量在《赛博浪客》动画播出后激增](https://hot.cnbeta.com/articles/comic/1317439.htm) | Sat Sep 17 2022 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《赛博朋克2077》在发售以来经历一直比较坎坷，但最近游戏因为新补丁完善以及非常炫酷的网飞动漫剧集《赛博浪客》推出，玩家数量激增。根据 SteamDB，在动画播出当天起，《赛博朋克2077》的同时在线玩家数量不断上涨。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1317439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
