@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [育碧公司员工控诉：工作场所文化改革收效甚微](https://hot.cnbeta.com/articles/game/1317373.htm) | Sat Sep 17 2022 7:17 AM 
+- 🕯 [疑似一自主品牌纯电动跑车谍照现身道路](https://www.cnbeta.com/articles/tech/1317407.htm) | Sat Sep 17 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;育碧公司之前曾被卷入工作场所虐待和性骚扰丑闻，时隔两年，如今仍有员工控诉称公司做出的一些改变收效甚微。育碧巴黎总部的不少员工近日在接受媒体采访时，呼吁公司应该进一步改善工作环境。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，网络上曝光了一组跑车谍照路试实拍，目前没有该车相关的确切信息，&lt;strong&gt;推测为中国自主品牌车型&lt;/strong&gt;。从谍照来看，该车前灯轮廓非常犀利，整个车头冲击感极强，前风挡玻璃曲率较大，具有超跑战斗姿态。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新能源车企“卖一辆车亏10万”？为啥风口不挣钱？](https://www.cnbeta.com/articles/tech/1317371.htm) | Sat Sep 17 2022 7:09 AM 
+- 💼 [30年历史的奔腾与赛扬谢幕 Intel全新处理器中文名公布](https://www.cnbeta.com/articles/tech/1317405.htm) | Sat Sep 17 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，“造车新势力”蔚来、小鹏、理想三家新能源车企相继公布二季度财报结果，一算下来，这三家车企都是“亏钱卖车”，“卖一辆车亏10万”成为网上热议话题。“新能源汽车是未来”已成全球共识，各家传统车企也在纷纷布局。为啥踩在“风口”上，新能源车企还不挣钱？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;老玩家还会记得Intel当年的一句话广告词——Pentium inside，奔腾这个品牌从1992年算起已经用了30年了，之前是主力，这十几年变成了低端CPU品牌，现在奔腾要被彻底淘汰了，Intel将从2023年起使用全新的处理器品牌。随之放弃的还有1998年引入的赛扬，原本定位在奔腾之下的产品品牌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [危险的指纹，86万银行存款突然没了](https://www.cnbeta.com/articles/tech/1317369.htm) | Sat Sep 17 2022 7:04 AM 
+- 💂 [中国空间站大小机械臂完成级联测试 为后续舱外工作进行充分验证](https://www.cnbeta.com/articles/science/1317403.htm) | Sat Sep 17 2022 7:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近年来，人脸识别、指纹识别等身份验证技术已成为手机银行的“标配”，在帮助用户提高效率的同时，也衍生了一些弊端。近期，有用户发现，在光大银行手机端转账时所验证的指纹，并非是本人在银行录入的指纹，而是手机内存储的指纹。基于这个发现，该名用户对“指纹识别”拥有的高权限产生了质疑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;中国载人航天工程办公室消息，神舟十四号航天员乘组将择机实施第二次出舱活动。&lt;/strong&gt;在神舟十四号航天员准备第二次出舱的这段时间，中国空间站大机械臂与小机械臂完成级联测试，为机械臂组合体后续开展舱外工作进行了充分验证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [大疆为什么不做飞行汽车？](https://www.cnbeta.com/articles/tech/1317367.htm) | Sat Sep 17 2022 7:01 AM 
+- 🚀 [中国、阿联酋将联合探月：嫦娥七号将搭载国外月球车着陆](https://www.cnbeta.com/articles/science/1317401.htm) | Sat Sep 17 2022 7:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;总有新的赛道正在崛起。当自动驾驶的热潮褪去，行业渐趋理性，新的热点又已悄然来到爆发前夜。比打到一辆无人驾驶汽车更酷更科幻的，是掏出手机，召唤来一辆飞行汽车。8月底，在第四届世界新能源汽车大会（WNEVC2022）期间，“飞行汽车技术创新与发展路径” 技术研讨会在北京亦创国际会展中心成功举办。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国航天这两天好消息不断，今天实现了神舟十四号航天员第二次出舱任务，昨天中国航天局又跟阿联酋达成了首次合作，嫦娥七号将帮助阿联酋的月球车实现月球着陆。据国家航天局发布的消息，9月16日，国家航天局副局长吴艳华率团访问阿联酋拉希德航天中心，与艾尔马里主任举行会谈，&lt;strong&gt;就中阿航天合作进行深入交流，并签署关于嫦娥七号任务搭载合作的谅解备忘录。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [印度首富阿达尼成全球第二大富豪 为亚洲第一人](https://www.cnbeta.com/articles/tech/1317365.htm) | Sat Sep 17 2022 6:47 AM 
+- 🎊 [工信部：加快推广甲醇汽车 推动甲醇经济发展](https://www.cnbeta.com/articles/tech/1317399.htm) | Sat Sep 17 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国有线电视新闻网&lpar;CNN&rpar;当地时间16日报道，根据彭博亿万富豪指数，印度富翁高塔姆·阿达尼&lpar;Gautam Adani&rpar;超越亚马逊创始人杰夫·贝索斯&lpar;Jeff Bezos&rpar;，成为全球第二大富豪。报道指出，在亚洲，阿达尼成为首位在彭博榜单上获得如此高排名的人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;工业和信息化部9月16日发布对十三届全国人大五次会议第2276号建议的答复。其中提出，工业和信息化部下一步将围绕推广甲醇汽车、支持甲醇汽车产业发展、探索绿色甲醇汽车新模式等方面，加大工作力度，推动甲醇经济发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
