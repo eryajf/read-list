@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [神舟十四号航天员乘组圆满完成第二次出舱活动全部既定任务](https://www.cnbeta.com/articles/science/1317425.htm) | Sat Sep 17 2022 10:01 AM 
+- 🕯 [《赛博朋克2077》玩家数量在《赛博浪客》动画播出后激增](https://hot.cnbeta.com/articles/comic/1317439.htm) | Sat Sep 17 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中国载人航天工程办公室消息，北京时间2022年9月17日17时47分，&lt;strong&gt;经过约5小时的出舱活动，神舟十四号航天员陈冬、刘洋、蔡旭哲密切协同，完成出舱活动期间全部既定任务，航天员陈冬、航天员蔡旭哲已安全返回问天实验舱，出舱活动取得圆满成功。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《赛博朋克2077》在发售以来经历一直比较坎坷，但最近游戏因为新补丁完善以及非常炫酷的网飞动漫剧集《赛博浪客》推出，玩家数量激增。根据 SteamDB，在动画播出当天起，《赛博朋克2077》的同时在线玩家数量不断上涨。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1317439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NVIDIA GeForce RTX 3070 Ti 16GB显卡在技嘉产品列表中再次被曝光](https://www.cnbeta.com/articles/tech/1317423.htm) | Sat Sep 17 2022 9:59 AM 
+- 💼 [天津大学DNA存储取得重大突破 可让信息保存千年万年](https://www.cnbeta.com/articles/science/1317437.htm) | Sat Sep 17 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA的GeForce RTX 3070 Ti 16 GB显卡在EEC列表中再次被发现，这是技嘉产品线中的一个定制型号。我们上次听说NVIDIA GeForce RTX 3070 Ti 16 GB显卡时是在今年早些时候，该公司计划推出GeForce RTX 3090 Ti显卡。但后来发现，该公司已经取消了发布16GB型号的所有计划，并将他们现有的产品系列集中在一个新的市场，因为很快他们不再能从加密货币业务中得到好处。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;记者从天津大学获悉，该校合成生物学团队创新DNA存储算法，将十幅精选敦煌壁画存入DNA中，通过加速老化实验验证壁画信息在实验室常温下可保存千年，在9.4℃下可保存两万年。该算法支持DNA分子成为世界上最可靠的数据存储介质之一，可以让面临老化破损危机的人类文化遗产信息保存千年万年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [学术审稿潜规则被 Science 曝光：作者名气越大 审稿人打分越高](https://www.cnbeta.com/articles/science/1317421.htm) | Sat Sep 17 2022 9:54 AM 
+- 💂 [神舟十四号乘组第二次出舱圆满完成 距上次出舱仅16天](https://www.cnbeta.com/articles/science/1317435.htm) | Sat Sep 17 2022 11:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Science 最新发文：&lt;strong&gt;当论文的作者名气大时&lt;/strong&gt;&lt;strong&gt;，&lt;/strong&gt;&lt;strong&gt;审稿人会给予更高的分数&lt;/strong&gt;。而且这一分数差距还不小。这一结论来自一个号称“&lt;strong&gt;同类研究中最大规模&lt;/strong&gt;”的随机对照试验，整个过程邀请了 &lt;strong&gt;3300 名&lt;/strong&gt;研究人员参加。试验结果可以说揭露了学术界的“潜规则”：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月17日晚，中国载人航天办公室官方宣布神舟十四号航天员乘组圆满完成第二次出舱活动全部既定任务。通报显示，9月17日17时47分，经过约5小时的出舱活动，&lt;strong&gt;神舟十四号航天员陈冬、刘洋、蔡旭哲密切协同，完成出舱活动期间全部既定任务，&lt;/strong&gt;航天员陈冬、航天员蔡旭哲已安全返回问天实验舱，出舱活动取得圆满成功。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [专家称预制菜如同猪狗食引热议 回应称仅代表个人发言](https://www.cnbeta.com/articles/tech/1317419.htm) | Sat Sep 17 2022 9:53 AM 
+- 🚀 [Linux的显示亮度/背光调节机制即将开始重大改进工作](https://www.cnbeta.com/articles/tech/1317431.htm) | Sat Sep 17 2022 10:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，智纲智库创始人王志纲在谈到预制菜时表示，“那是猪狗食，不要吃预制菜。生活一定要懂得‘独此一家，别无分号’，我在中国吃东西，从来不吃连锁店。一旦连锁，就没有意义了。”你怎么看预制菜的发展？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;红帽公司的Hans de Goede多年来参与了许多重要的Linux台式机/笔记本电脑硬件改进工作，他最近一直关注的一项举措是用户界面当中的背光/亮度调节界面，这一直是Linux系统控制笔记本电脑硬件的一个短板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [自称曾找不到工作的南开教授有多牛？SCI论文40多篇](https://www.cnbeta.com/articles/tech/1317417.htm) | Sat Sep 17 2022 9:53 AM 
+- 🎊 [谷歌Pixel 7 Pro现身跑分网站：性能在安卓旗舰阵营中垫底](https://www.cnbeta.com/articles/tech/1317429.htm) | Sat Sep 17 2022 10:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这两天，南开大学物理学院的胡金牛教授简介火爆出圈，他在介绍中多次自嘲，说了不少大实话，网友夸其“太实诚”了。金牛教授简介中自己吐槽了不少，比如读博士后的原因是“当时找不到工作”；发表SCI论文40余篇中，有两个杂志是“水刊”，成为期刊审稿人是“被人强拉进去”等表述，在教学经历方面，胡金牛也坦言研究生课程“原子核结构”经常因为选课人少而停课。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，谷歌Pixel 7 Pro现身Geekbench跑分网站，&lt;strong&gt;这款高端旗舰搭载的是Google Tensor G2芯片，单核成绩是1068，多核成绩是3149。&lt;/strong&gt;与竞品高通对比，&lt;strong&gt;Google Tensor G2性能与骁龙888相当，与骁龙8+差距明显。&lt;/strong&gt;PS：骁龙888 Geekbench单核成绩在1100分左右，多核成绩在3500分左右，而骁龙8+单核成绩在1300分左右，多核成绩在4300分左右。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
