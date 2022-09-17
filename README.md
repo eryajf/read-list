@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Bank.io - 适用于 iOS 16 的编码金融科技移动应用程序 UI 套件](https://xinquji.com/posts/179584?utm_campaign=xinquji-rss) | Sat Sep 17 2022 6:22 AM 
+- 👀 [GamerPower &lpar;Mobile&rpar; - 获得免费游戏和游戏内战利品](https://xinquji.com/posts/179601?utm_campaign=xinquji-rss) | Sun Sep 18 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     适用于 iOS 16 的编码金融科技移动应用程序 UI 套件  
+     获得免费游戏和游戏内战利品  
     </details> 
 
-- 🥷 [Awesome Web3 - 精选、一流、免费的 Web3 资源](https://xinquji.com/posts/179583?utm_campaign=xinquji-rss) | Sat Sep 17 2022 6:22 AM 
+- 🥷 [Finclout - 用于投资的可货币化社交智能](https://xinquji.com/posts/179600?utm_campaign=xinquji-rss) | Sun Sep 18 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     精选、一流、免费的 Web3 资源  
+     用于投资的可货币化社交智能  
     </details> 
 
-- 💼 [Cameralyze - 无需代码即可构建您的计算机视觉应用程序](https://xinquji.com/posts/179582?utm_campaign=xinquji-rss) | Sat Sep 17 2022 6:20 AM 
+- 💼 [Neon - 预测加密货币价格并获得奖励](https://xinquji.com/posts/179599?utm_campaign=xinquji-rss) | Sun Sep 18 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     无需代码即可构建您的计算机视觉应用程序  
+     预测加密货币价格并获得奖励  
     </details> 
 
-- 🦅 [Moonlighter - 2 倍生产力，2 倍收入](https://xinquji.com/posts/179581?utm_campaign=xinquji-rss) | Sat Sep 17 2022 6:20 AM 
+- 🦅 [One Connected - 连接专业人士](https://xinquji.com/posts/179598?utm_campaign=xinquji-rss) | Sun Sep 18 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     2 倍生产力，2 倍收入  
+     连接专业人士  
     </details> 
 
-- 😺 [Habit Box - 使用 Notion 跟踪和可视化您的习惯。](https://xinquji.com/posts/179580?utm_campaign=xinquji-rss) | Sat Sep 17 2022 6:18 AM 
+- 😺 [Homeify - 重新构想房地产零售](https://xinquji.com/posts/179597?utm_campaign=xinquji-rss) | Sun Sep 18 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 Notion 跟踪和可视化您的习惯。  
+     重新构想房地产零售  
     </details> 
 <!-- xinquji:END -->
