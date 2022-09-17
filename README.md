@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果iPhone 14 Pro灵动岛强光下最清晰展示](https://www.cnbeta.com/articles/tech/1317465.htm) | Sat Sep 17 2022 5:43 PM 
+- 🕯 [探店苹果新机取货排长队，试用顾客关心“灵动岛”到底“灵不灵”](https://www.cnbeta.com/articles/tech/1317467.htm) | Sat Sep 17 2022 8:55 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月16日，首批苹果iPhone 14和iPhone 14 Pro系列新机到货，上海各大门店开始接受预订顾客到店取货。9月17日，第一财经记者在上海国金中心、南京东路以及环球港等多个门店看到，提货的顾客大排长龙，同时，还有不少进店体验新机的顾客。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果iPhone 14 Pro灵动岛强光下最清晰展示](https://www.cnbeta.com/articles/tech/1317465.htm) | Sat Sep 17 2022 5:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;对于那些想要购买iPhone 14 Pro系列的用户来说，入手前这个灵动岛还是必要看仔细下的，看看自己是不是真的能接受。有博主在微博上晒出了相当清晰的iPhone 14 Pro的刘海屏，&lt;strong&gt;这个用感叹号屏形容最准确，所以如果在特别清晰的光照下，是可以看到。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [罗技G FITS TWS耳塞官方图像泄露 照亮你的耳](https://www.cnbeta.com/articles/tech/1317463.htm) | Sat Sep 17 2022 4:33 PM 
+- 💂 [罗技G FITS TWS耳塞官方图像泄露 照亮你的耳](https://www.cnbeta.com/articles/tech/1317463.htm) | Sat Sep 17 2022 4:33 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一般不经常泄露产品的罗技，最近一直在尽力摆脱这种“声誉”。&lt;strong&gt;上个月，我们通过泄露的信息了解到它与腾讯合作的Android游戏手机，现在一套即将推出的TWS耳塞也引起了我们的注意：那就是彩色的罗技G FITS。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [台湾台东县发生6.5级地震：厦门、泉州、福州等有明显震感](https://www.cnbeta.com/articles/tech/1317461.htm) | Sat Sep 17 2022 4:27 PM 
+- 🚀 [台湾台东县发生6.5级地震：厦门、泉州、福州等有明显震感](https://www.cnbeta.com/articles/tech/1317461.htm) | Sat Sep 17 2022 4:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月17日消息，中国地震台网正式测定：9月17日21时41分在台湾台东县（北纬23.05度，东经121.21度）&lt;strong&gt;发生6.5级地震，震源深度10千米。除了岛上震感强烈，福建厦门、泉州、福州等亦有明显震感。&lt;/strong&gt;专家指出，中国台湾地区地震频发且级别相对较高，&lt;strong&gt;主要原因是台湾地处世界最大的地震带——环太平洋地震带，该地震带每年发生的破坏性地震占全世界总数的80%~90%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [北方冷空气已发货：东北多地下周降温至少10℃ 南方继续热](https://www.cnbeta.com/articles/tech/1317459.htm) | Sat Sep 17 2022 4:27 PM 
+- 🎊 [北方冷空气已发货：东北多地下周降温至少10℃ 南方继续热](https://www.cnbeta.com/articles/tech/1317459.htm) | Sat Sep 17 2022 4:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;中国天气网消息，台风“梅花”昨晚已经停编，今天白天，它对东北地区的影响也陆续收尾，东北大部天气暂时回归平静。&lt;/strong&gt;然而，刚刚送走了台风，东北地区又紧接着迎来了一股冷空气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [英特尔演示ArcA770限量版显卡超频潜力](https://www.cnbeta.com/articles/tech/1317457.htm) | Sat Sep 17 2022 4:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;英特尔为其ArcA770限量版显卡提供了一个更详细的冷却解决方案，并且显示其超频潜力。&lt;/strong&gt;英特尔的ArcA770 IBC采用了惊人的护罩设计，高端的冷却和PCB组件，可以轻松达到2.7 GHz的时钟，同时工作噪音达到安静的39dBA。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
