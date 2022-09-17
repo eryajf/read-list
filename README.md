@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《赛博朋克2077》玩家数量在《赛博浪客》动画播出后激增](https://hot.cnbeta.com/articles/comic/1317439.htm) | Sat Sep 17 2022 11:06 AM 
+- 🕯 [《猎人克莱文》《蜘蛛夫人》均推迟数月上映](https://hot.cnbeta.com/articles/movie/1317447.htm) | Sat Sep 17 2022 12:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“快银”亚伦·泰勒-约翰逊主演的索尼漫威新片《猎人克莱文》改档，从明年1月13日推迟至10月6日北美上映。该片由约翰逊饰演克莱文，弗莱德·赫钦格饰演变色龙，阿丽亚娜·德博斯饰演卡吕普索，克里斯托弗·阿波特饰演反派外国人，亚历桑德罗·尼沃拉饰演反派之一，罗素·克劳、莱维·米勒也出演。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [我国高空大型无人机高原气象观测试验首飞作业成功](https://www.cnbeta.com/articles/tech/1317445.htm) | Sat Sep 17 2022 12:22 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天（17日），在青藏高原东南缘的四川省阿坝藏族羌族自治州，一架由我国自主研发的高空气象探测大型无人机从红原机场腾空而起，在“中华水塔”三江源地区的阿尼玛卿雪山7500米高空成功下投12枚探空仪，与机载合成孔径雷达、大气微波综合廓线仪一起，实现对青藏高原大气垂直和下垫面“扫描”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [华为Mate50的5G手机壳包装现身 799元让4G秒变5G](https://www.cnbeta.com/articles/tech/1317443.htm) | Sat Sep 17 2022 12:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Mate 50不支持5G，于是乎配套的通信壳就很有必要，799元（据传的售价）让4G秒变5G用户会购买吗？现在，已经有博主晒出了华为Mate 50的5G手机壳包装，其被命名为“5G通信壳”，出自Soyealink（数源科技）之手，其中通体黑外壳背后，5G红色字眼很是突出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [无徕卡认证 小米12T Pro影像旗舰本月发：价格或不到6000元](https://www.cnbeta.com/articles/tech/1317441.htm) | Sat Sep 17 2022 11:42 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天，WinFuture曝光了小米12T Pro渲染图，如图所示，该机采用了矩阵三摄方案，背部整体造型与小米12相差不大。&lt;strong&gt;和12S系列一样，小米12T Pro同样主打影像，不过后者没有徕卡认证。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [《赛博朋克2077》玩家数量在《赛博浪客》动画播出后激增](https://hot.cnbeta.com/articles/comic/1317439.htm) | Sat Sep 17 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《赛博朋克2077》在发售以来经历一直比较坎坷，但最近游戏因为新补丁完善以及非常炫酷的网飞动漫剧集《赛博浪客》推出，玩家数量激增。根据 SteamDB，在动画播出当天起，《赛博朋克2077》的同时在线玩家数量不断上涨。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1317439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [天津大学DNA存储取得重大突破 可让信息保存千年万年](https://www.cnbeta.com/articles/science/1317437.htm) | Sat Sep 17 2022 11:02 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;记者从天津大学获悉，该校合成生物学团队创新DNA存储算法，将十幅精选敦煌壁画存入DNA中，通过加速老化实验验证壁画信息在实验室常温下可保存千年，在9.4℃下可保存两万年。该算法支持DNA分子成为世界上最可靠的数据存储介质之一，可以让面临老化破损危机的人类文化遗产信息保存千年万年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [神舟十四号乘组第二次出舱圆满完成 距上次出舱仅16天](https://www.cnbeta.com/articles/science/1317435.htm) | Sat Sep 17 2022 11:01 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月17日晚，中国载人航天办公室官方宣布神舟十四号航天员乘组圆满完成第二次出舱活动全部既定任务。通报显示，9月17日17时47分，经过约5小时的出舱活动，&lt;strong&gt;神舟十四号航天员陈冬、刘洋、蔡旭哲密切协同，完成出舱活动期间全部既定任务，&lt;/strong&gt;航天员陈冬、航天员蔡旭哲已安全返回问天实验舱，出舱活动取得圆满成功。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Linux的显示亮度/背光调节机制即将开始重大改进工作](https://www.cnbeta.com/articles/tech/1317431.htm) | Sat Sep 17 2022 10:59 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;红帽公司的Hans de Goede多年来参与了许多重要的Linux台式机/笔记本电脑硬件改进工作，他最近一直关注的一项举措是用户界面当中的背光/亮度调节界面，这一直是Linux系统控制笔记本电脑硬件的一个短板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [谷歌Pixel 7 Pro现身跑分网站：性能在安卓旗舰阵营中垫底](https://www.cnbeta.com/articles/tech/1317429.htm) | Sat Sep 17 2022 10:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，谷歌Pixel 7 Pro现身Geekbench跑分网站，&lt;strong&gt;这款高端旗舰搭载的是Google Tensor G2芯片，单核成绩是1068，多核成绩是3149。&lt;/strong&gt;与竞品高通对比，&lt;strong&gt;Google Tensor G2性能与骁龙888相当，与骁龙8+差距明显。&lt;/strong&gt;PS：骁龙888 Geekbench单核成绩在1100分左右，多核成绩在3500分左右，而骁龙8+单核成绩在1300分左右，多核成绩在4300分左右。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
