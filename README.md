@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有人接 Flarum 扩展开发](https://www.v2ex.com/t/880844#reply1) | Sat Sep 17 2022 9:49 AM
-- 🤗 [想请问下关于 ThreadLocal 的使用](https://www.v2ex.com/t/880843#reply5) | Sat Sep 17 2022 9:44 AM
-- 🎭 [鸿雁输入法 极速版 雷神之锤版 砸锅版](https://www.v2ex.com/t/880830#reply2) | Sat Sep 17 2022 8:58 AM
-- 🥷 [搜索开源应用](https://www.v2ex.com/t/880828#reply2) | Sat Sep 17 2022 8:44 AM
-- 🐵 [android toolbar 的选择？](https://www.v2ex.com/t/880815#reply0) | Sat Sep 17 2022 7:48 AM<!-- v2ex:END -->
+- 🥸 [2022 年了 OpenShift 使用体验如何？ k8s 云平台有没有替代品？](https://www.v2ex.com/t/880855#reply2) | Sat Sep 17 2022 10:32 AM
+- 🤗 [有没有人接 Flarum 扩展开发](https://www.v2ex.com/t/880844#reply2) | Sat Sep 17 2022 9:49 AM
+- 🎭 [想请问下关于 ThreadLocal 的使用](https://www.v2ex.com/t/880843#reply8) | Sat Sep 17 2022 9:44 AM
+- 🥷 [鸿雁输入法 极速版 雷神之锤版 砸锅版](https://www.v2ex.com/t/880830#reply2) | Sat Sep 17 2022 8:58 AM
+- 🐵 [搜索开源应用](https://www.v2ex.com/t/880828#reply3) | Sat Sep 17 2022 8:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
