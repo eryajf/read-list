@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔演示ArcA770限量版显卡超频潜力](https://www.cnbeta.com/articles/tech/1317457.htm) | Sat Sep 17 2022 4:22 PM 
+- 🕯 [罗技G FITS TWS耳塞官方图像泄露 照亮你的耳](https://www.cnbeta.com/articles/tech/1317463.htm) | Sat Sep 17 2022 4:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一般不经常泄露产品的罗技，最近一直在尽力摆脱这种“声誉”。&lt;strong&gt;上个月，我们通过泄露的信息了解到它与腾讯合作的Android游戏手机，现在一套即将推出的TWS耳塞也引起了我们的注意：那就是彩色的罗技G FITS。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [台湾台东县发生6.5级地震：厦门、泉州、福州等有明显震感](https://www.cnbeta.com/articles/tech/1317461.htm) | Sat Sep 17 2022 4:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月17日消息，中国地震台网正式测定：9月17日21时41分在台湾台东县（北纬23.05度，东经121.21度）&lt;strong&gt;发生6.5级地震，震源深度10千米。除了岛上震感强烈，福建厦门、泉州、福州等亦有明显震感。&lt;/strong&gt;专家指出，中国台湾地区地震频发且级别相对较高，&lt;strong&gt;主要原因是台湾地处世界最大的地震带——环太平洋地震带，该地震带每年发生的破坏性地震占全世界总数的80%~90%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [北方冷空气已发货：东北多地下周降温至少10℃ 南方继续热](https://www.cnbeta.com/articles/tech/1317459.htm) | Sat Sep 17 2022 4:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;中国天气网消息，台风“梅花”昨晚已经停编，今天白天，它对东北地区的影响也陆续收尾，东北大部天气暂时回归平静。&lt;/strong&gt;然而，刚刚送走了台风，东北地区又紧接着迎来了一股冷空气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [英特尔演示ArcA770限量版显卡超频潜力](https://www.cnbeta.com/articles/tech/1317457.htm) | Sat Sep 17 2022 4:22 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;英特尔为其ArcA770限量版显卡提供了一个更详细的冷却解决方案，并且显示其超频潜力。&lt;/strong&gt;英特尔的ArcA770 IBC采用了惊人的护罩设计，高端的冷却和PCB组件，可以轻松达到2.7 GHz的时钟，同时工作噪音达到安静的39dBA。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [脑机接口技术离普通人还有多远？](https://www.cnbeta.com/articles/tech/1317455.htm) | Sat Sep 17 2022 2:35 PM 
+- 🎊 [脑机接口技术离普通人还有多远？](https://www.cnbeta.com/articles/tech/1317455.htm) | Sat Sep 17 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;创新的神经接口技术近年来备受科学界和资本界关注，脑机接口、深部脑刺激等技术已经在神经外科临床中应用，给医生带来便利，给患者带来福音。但是，企业家们的愿景远不止这些。Neuralink公司创始人马斯克希望有一天通过脑机接口技术，可以真正实现下载大脑、记忆和人的性格。他还称已将自己的大脑上传到云端，并且已和虚拟版的自己交谈过。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [尝鲜需谨慎：iOS 16.1测试版破坏了iPhone 14 Pro机型上的GPS功能](https://www.cnbeta.com/articles/tech/1317453.htm) | Sat Sep 17 2022 2:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone 14 Pro和iPhone 14 Pro Max的用户现在需要知道，不久前发布的iOS 16.1测试版正在阻止许多用户的设备上的GPS正常工作，这意味着任何依赖位置跟踪的人都应该暂时避免使用该测试版。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [锐龙7000不缺货承诺背后：AMD解决CPU PCB基板缺货难题](https://www.cnbeta.com/articles/tech/1317451.htm) | Sat Sep 17 2022 2:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2020年AMD发布锐龙5000处理器之后，很快就遇到了供应紧缺的问题，当时全球半导体产能紧张，导致锐龙5000处理器大幅涨价，引发了A饭极度不满，甚至有人怀疑AMD飘了，是在趁机涨价。然而这事也冤枉AMD了，他们之前确实饱受缺货之苦，但是导致AMD处理器供应跟不上的元凶也不是大家想象中的那样——&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [南开大学回应教授自嘲式简历爆火：教师自己写的 学校不会干涉](https://www.cnbeta.com/articles/tech/1317449.htm) | Sat Sep 17 2022 12:55 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，&lt;strong&gt;有网友发现南开大学物理学院教授胡金牛教授的简历有点意思：介绍自己的一长串学业研究经历，补充说明（主要是当时找不到工作）；&lt;/strong&gt;介绍自己发表论文的期刊，补充说明（被定义为水刊）；介绍自己的教学课程，补充说明（常因为选课人少停课），字里行间的风趣幽默让很多网友表示：想选他的课，让他不停课。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
