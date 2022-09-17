@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [xfce 的 4k 字体渲染竟然比 win10 看起来都舒服](https://www.v2ex.com/t/880770#reply0) | Sat Sep 17 2022 3:52 AM
-- 🤗 [二十年前的问道端游，还有在研究的吗？](https://www.v2ex.com/t/880761#reply6) | Sat Sep 17 2022 3:29 AM
-- 🎭 [关于 go 日志中记录 request id 的疑问](https://www.v2ex.com/t/880759#reply2) | Sat Sep 17 2022 3:27 AM
-- 🥷 [最近 nginx，一直报错 recv&lpar;&rpar; failed &lpar;104: Connection reset by peer&rpar; while reading response header from upstream](https://www.v2ex.com/t/880757#reply1) | Sat Sep 17 2022 3:20 AM
-- 🐵 [想起几年前刚毕业有一道面试题。](https://www.v2ex.com/t/880756#reply2) | Sat Sep 17 2022 3:06 AM<!-- v2ex:END -->
+- 🥸 [[链路追踪] 老生常谈方案的选择](https://www.v2ex.com/t/880789#reply1) | Sat Sep 17 2022 5:07 AM
+- 🤗 [熟人开发商城小程序，怎么要价？](https://www.v2ex.com/t/880786#reply9) | Sat Sep 17 2022 4:52 AM
+- 🎭 [如何使用 git 更新远程仓库默认分支？](https://www.v2ex.com/t/880780#reply2) | Sat Sep 17 2022 4:22 AM
+- 🥷 [发现 moto 的入门级性价比很高](https://www.v2ex.com/t/880774#reply0) | Sat Sep 17 2022 4:11 AM
+- 🐵 [xfce 的 4k 字体渲染竟然比 win10 看起来都舒服](https://www.v2ex.com/t/880770#reply7) | Sat Sep 17 2022 3:52 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
