@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [通过 Apifox Echo 学习 curl/httpie 命令](https://juejin.cn/post/7144185993393143839) | Sat Sep 17 2022 3:31 AM 
+- 🤗 [图解Kafka Producer中的消息缓存模型](https://juejin.cn/post/7144209990381731877) | Sat Sep 17 2022 5:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    在阅读本文之前, 希望你可以思考一下下面几个问题, 带着问题去阅读文章会获得更好的效果1. 发送消息的时候, 当Broker挂掉了,消息体还能写入到消息缓存中吗？ 
+    </details> 
+
+- 🎡 [继GitHub的Copilot收费后，亚马逊推出了 CodeWhisperer，感觉不错哟！](https://juejin.cn/post/7144197700169236516) | Sat Sep 17 2022 4:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    Copilot 是 Github 推出的一款人工智能编程助手，推出仅一年就受到大量开发者的追捧（据官方统计有 120 万用户）。然而，自 2022 年 6 月起，它改为了付费订阅模式（每月 10 美元 
+    </details> 
+
+- 🕯 [通过 Apifox Echo 学习 curl/httpie 命令](https://juejin.cn/post/7144185993393143839) | Sat Sep 17 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     curl，用于发送请求的命令行工具，一个 HTTP 请求客户端（实际上它也可以做 FTP/SCP/TELNET 协议的事情，可类比于浏览器中的 fetch。 curl 是最为流行的 HTTP 请求命令 
     </details> 
 
-- 🎡 [超精准！AI 结合邮件内容与附件的意图理解与分类！](https://juejin.cn/post/7144180743328464927) | Sat Sep 17 2022 3:11 AM 
+- 🚀 [Presto Join Enumeration](https://juejin.cn/entry/7144184594584535070) | Sat Sep 17 2022 3:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    Some Takeaways： 由于 SQL 是声明性语言，直接指定 JOIN 方法（比如 JOIN Distribution 类型的选择就压根不支持）不可行。因此 JOIN 枚举的算法起到了关键作用 
+    </details> 
+
+- 💪 [超精准！AI 结合邮件内容与附件的意图理解与分类！](https://juejin.cn/post/7144180743328464927) | Sat Sep 17 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     借助AI进行邮件正文与附件内容的识别，可以极大提高工作效率。本文讲解如何设计一个AI系统，完成邮件内容意图检测：架构初揽、邮件正文&amp;附件的理解与处理、搭建多数据源混合网络、训练&amp;评估。 
-    </details> 
-
-- 🕯 [Fabric.js 设置容器类名要注意这几点](https://juejin.cn/post/7144178650290585637) | Sat Sep 17 2022 3:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    🎨用 fabric.js 创建画布时，fabric.js 会在 canvas 元素外包一层 div 容器。 如果想方便设置容器样式或者想通过 js 控制该容器，可以先给容器一个类名 
-    </details> 
-
-- 🚀 [2022 该怎么选择 monorepo 的管理工具（上）](https://juejin.cn/post/7144176452232020005) | Sat Sep 17 2022 2:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    什么是 build system？在软件开发中，构建一般指的是将源码转换成能被机器认识的二进制可执行文件。如果在单个项目中，例如一个使用 TypeScript 为语言开发的项目，如果不考虑其它的问题。 
-    </details> 
-
-- 💪 [为什么有HTTP协议，还要有websocket协议？](https://juejin.cn/post/7144161126652051464) | Sat Sep 17 2022 1:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    为什么有HTTP协议，还要有websocket协议？ websocket和socket有什么关系？背后原因让人暖心 
     </details> 
 <!-- juejin:END -->
 ### 少数派
