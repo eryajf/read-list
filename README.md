@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Lua 环境搭建](https://juejin.cn/post/7144268935809433607) | Sat Sep 17 2022 8:53 AM 
+- 🤗 [你的代码怎么下起了雨？](https://juejin.cn/post/7144284354661842958) | Sat Sep 17 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    Lua 环境配置 Mac 一、下载 Lua 二、配置环境 三、简单的使用方式 第一种，命令行使用 第二种，直接运行 lua 文件 第三中，在 idea 执行 lua 文件 
+    ” 大多数的程序员都会有一个自己的个人网站，我们想要在自己的网站下面去刻画一个酷炫的背景，我们可能会使用一些炫酷的图片，或者叠加一个视频背景，但是我觉得这样还不够炫酷，不妨来试试自己动手吧！ 
     </details> 
 
-- 🎡 [Angular | 在service中使用TemplateRef](https://juejin.cn/post/7144263949553238046) | Sat Sep 17 2022 8:33 AM 
+- 🎡 [重学webpack系列&lpar;零&rpar; -- 全局概况](https://juejin.cn/post/7144275083370954789) | Sat Sep 17 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-    html-in-service 使用‘虚拟dom’给你的service注入templateRef吧 
+    前言 都2022年了，你该不会觉得只会个Html、Css、JavaScript就能找到一份满意的工作了吧？如果你对前端稍有了解，那你一定会知道React、Vue，是现在一枚前端入门所必要的利剑，那光会 
     </details> 
 
-- 🕯 [AI 数字绘画 stable-diffusion 保姆级教程](https://juejin.cn/post/7144252226771353631) | Sat Sep 17 2022 7:49 AM 
+- 🕯 [前端构建工具vite进阶系列&lpar;零&rpar; -- 全局概况](https://juejin.cn/post/7144274662199918629) | Sat Sep 17 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 近段时间来，你可能在不少地方都看到了非常多这样的好看的画。 比如这样的赛博朋克风 prompt: Cyberpunk, 8k resolution, castle, the rose sea,  
+    前言 都2022年了，你该不会觉得只会个Html、Css、JavaScript就能找到一份满意的工作了吧？如果你对前端稍有了解，那你一定会知道React、Vue，是现在一枚前端入门所必要的利剑，那光会 
     </details> 
 
-- 🚀 [像专业人员一样验证你的Vue Props](https://juejin.cn/post/7144252068801282078) | Sat Sep 17 2022 7:48 AM 
+- 🚀 [仿网易云音乐笔记之router-link和router-view的区别](https://juejin.cn/post/7144275203055419406) | Sat Sep 17 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue 要求将传递给组件的任何数据显式声明为 props。此外，它还提供了一个强大的内置机制来验证这些数据。这就像组件和消费者之间的合同一样，确保组件按预期使用。 让我们来探讨一下这个强大的工具，它可 
+    前一阶段断断续续地可算整理完了css常用的知识，于是打算用vue3仿网易云写一下页面布局，里面js暂未实现，等后续js整理完成之后，实现一个类似于网易云音乐的pc版。到时候我会把源码放到github上 
     </details> 
 
-- 💪 [850. 矩形面积 II : 扫描线模板题](https://juejin.cn/post/7144248348633989150) | Sat Sep 17 2022 7:34 AM 
+- 💪 [firewalld防火墙基础](https://juejin.cn/post/7144274247345504270) | Sat Sep 17 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划一期挑战——瓜分10万奖池，这是我的第15篇文章，点击查看活动详情 题目描述 这是 LeetCode 上的 850. 矩形面积 II ，难度为 困难。 Tag : 「扫描线」 我们给 
+    firewalld概述 firewalld防火墙是centos7系统默认的防火墙管理工具，取代了之前的iptables防火墙，也是工作在网络层，属于包过滤防火墙 firewalld和iptables的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
