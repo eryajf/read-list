@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [图解Kafka Producer中的消息缓存模型](https://juejin.cn/post/7144209990381731877) | Sat Sep 17 2022 5:05 AM 
+- 🤗 [Vue3项目起步，冲冲冲！！！](https://juejin.cn/post/7144190697904537607) | Sat Sep 17 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-    在阅读本文之前, 希望你可以思考一下下面几个问题, 带着问题去阅读文章会获得更好的效果1. 发送消息的时候, 当Broker挂掉了,消息体还能写入到消息缓存中吗？ 
+    --- theme: healer-readable --- “我报名参加金石计划1期挑战——瓜分1 
     </details> 
 
-- 🎡 [继GitHub的Copilot收费后，亚马逊推出了 CodeWhisperer，感觉不错哟！](https://juejin.cn/post/7144197700169236516) | Sat Sep 17 2022 4:16 AM 
+- 🎡 [vue中的v-slot底层实现](https://juejin.cn/post/7144188805254709256) | Sat Sep 17 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-    Copilot 是 Github 推出的一款人工智能编程助手，推出仅一年就受到大量开发者的追捧（据官方统计有 120 万用户）。然而，自 2022 年 6 月起，它改为了付费订阅模式（每月 10 美元 
+    v-shot产生目的是在组件的使用过程中可以让父组件有修改子组件内容的能力，就像在子组件里面放了个插槽，让父组件往插槽内塞入父组件中的楔子；并且，父组件在子组件中嵌入的楔子也可以访问子组件中的数据。 
     </details> 
 
-- 🕯 [通过 Apifox Echo 学习 curl/httpie 命令](https://juejin.cn/post/7144185993393143839) | Sat Sep 17 2022 3:31 AM 
+- 🕯 [SpringBoot 配置文件使用详解](https://juejin.cn/post/7144188293788205087) | Sat Sep 17 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-    curl，用于发送请求的命令行工具，一个 HTTP 请求客户端（实际上它也可以做 FTP/SCP/TELNET 协议的事情，可类比于浏览器中的 fetch。 curl 是最为流行的 HTTP 请求命令 
+    一、创建一个SpringBoot项目# 创建 SprintBoot 项目的 2 种方式： 在 https://start.spring.io/ 上创建一个 SpringBoot 项目，然后导入到 ID 
     </details> 
 
-- 🚀 [Presto Join Enumeration](https://juejin.cn/entry/7144184594584535070) | Sat Sep 17 2022 3:25 AM 
+- 🚀 [从源码中理解Spring Boot自动装配原理](https://juejin.cn/post/7144187714072494110) | Sat Sep 17 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-    Some Takeaways： 由于 SQL 是声明性语言，直接指定 JOIN 方法（比如 JOIN Distribution 类型的选择就压根不支持）不可行。因此 JOIN 枚举的算法起到了关键作用 
+    一、什么是自动装配 SpringBoot 定义了一套接口规范，这套规范规定： SpringBoot 在启动时会扫描外部引用jar包中的 META-INF/spring.factories 文件，将文件 
     </details> 
 
-- 💪 [超精准！AI 结合邮件内容与附件的意图理解与分类！](https://juejin.cn/post/7144180743328464927) | Sat Sep 17 2022 3:11 AM 
+- 💪 [基于Svelte Ui中后台解决方案SvelteAdmin](https://juejin.cn/post/7144183401367470117) | Sat Sep 17 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-    借助AI进行邮件正文与附件内容的识别，可以极大提高工作效率。本文讲解如何设计一个AI系统，完成邮件内容意图检测：架构初揽、邮件正文&amp;附件的理解与处理、搭建多数据源混合网络、训练&amp;评估。 
+    Svelte Ui Admin 一款轻量级的svelte.js中后台管理系统。 svelte-admin支持动态路由菜单、多语言国际化配置。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
