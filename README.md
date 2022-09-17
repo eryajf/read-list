@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [疑似一自主品牌纯电动跑车谍照现身道路](https://www.cnbeta.com/articles/tech/1317407.htm) | Sat Sep 17 2022 8:11 AM 
+- 🕯 [神舟十四号航天员乘组圆满完成第二次出舱活动全部既定任务](https://www.cnbeta.com/articles/science/1317425.htm) | Sat Sep 17 2022 10:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，网络上曝光了一组跑车谍照路试实拍，目前没有该车相关的确切信息，&lt;strong&gt;推测为中国自主品牌车型&lt;/strong&gt;。从谍照来看，该车前灯轮廓非常犀利，整个车头冲击感极强，前风挡玻璃曲率较大，具有超跑战斗姿态。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中国载人航天工程办公室消息，北京时间2022年9月17日17时47分，&lt;strong&gt;经过约5小时的出舱活动，神舟十四号航天员陈冬、刘洋、蔡旭哲密切协同，完成出舱活动期间全部既定任务，航天员陈冬、航天员蔡旭哲已安全返回问天实验舱，出舱活动取得圆满成功。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [30年历史的奔腾与赛扬谢幕 Intel全新处理器中文名公布](https://www.cnbeta.com/articles/tech/1317405.htm) | Sat Sep 17 2022 8:09 AM 
+- 💼 [NVIDIA GeForce RTX 3070 Ti 16GB显卡在技嘉产品列表中再次被曝光](https://www.cnbeta.com/articles/tech/1317423.htm) | Sat Sep 17 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;老玩家还会记得Intel当年的一句话广告词——Pentium inside，奔腾这个品牌从1992年算起已经用了30年了，之前是主力，这十几年变成了低端CPU品牌，现在奔腾要被彻底淘汰了，Intel将从2023年起使用全新的处理器品牌。随之放弃的还有1998年引入的赛扬，原本定位在奔腾之下的产品品牌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA的GeForce RTX 3070 Ti 16 GB显卡在EEC列表中再次被发现，这是技嘉产品线中的一个定制型号。我们上次听说NVIDIA GeForce RTX 3070 Ti 16 GB显卡时是在今年早些时候，该公司计划推出GeForce RTX 3090 Ti显卡。但后来发现，该公司已经取消了发布16GB型号的所有计划，并将他们现有的产品系列集中在一个新的市场，因为很快他们不再能从加密货币业务中得到好处。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国空间站大小机械臂完成级联测试 为后续舱外工作进行充分验证](https://www.cnbeta.com/articles/science/1317403.htm) | Sat Sep 17 2022 7:51 AM 
+- 💂 [学术审稿潜规则被 Science 曝光：作者名气越大 审稿人打分越高](https://www.cnbeta.com/articles/science/1317421.htm) | Sat Sep 17 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;中国载人航天工程办公室消息，神舟十四号航天员乘组将择机实施第二次出舱活动。&lt;/strong&gt;在神舟十四号航天员准备第二次出舱的这段时间，中国空间站大机械臂与小机械臂完成级联测试，为机械臂组合体后续开展舱外工作进行了充分验证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Science 最新发文：&lt;strong&gt;当论文的作者名气大时&lt;/strong&gt;&lt;strong&gt;，&lt;/strong&gt;&lt;strong&gt;审稿人会给予更高的分数&lt;/strong&gt;。而且这一分数差距还不小。这一结论来自一个号称“&lt;strong&gt;同类研究中最大规模&lt;/strong&gt;”的随机对照试验，整个过程邀请了 &lt;strong&gt;3300 名&lt;/strong&gt;研究人员参加。试验结果可以说揭露了学术界的“潜规则”：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国、阿联酋将联合探月：嫦娥七号将搭载国外月球车着陆](https://www.cnbeta.com/articles/science/1317401.htm) | Sat Sep 17 2022 7:50 AM 
+- 🚀 [专家称预制菜如同猪狗食引热议 回应称仅代表个人发言](https://www.cnbeta.com/articles/tech/1317419.htm) | Sat Sep 17 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国航天这两天好消息不断，今天实现了神舟十四号航天员第二次出舱任务，昨天中国航天局又跟阿联酋达成了首次合作，嫦娥七号将帮助阿联酋的月球车实现月球着陆。据国家航天局发布的消息，9月16日，国家航天局副局长吴艳华率团访问阿联酋拉希德航天中心，与艾尔马里主任举行会谈，&lt;strong&gt;就中阿航天合作进行深入交流，并签署关于嫦娥七号任务搭载合作的谅解备忘录。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，智纲智库创始人王志纲在谈到预制菜时表示，“那是猪狗食，不要吃预制菜。生活一定要懂得‘独此一家，别无分号’，我在中国吃东西，从来不吃连锁店。一旦连锁，就没有意义了。”你怎么看预制菜的发展？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [工信部：加快推广甲醇汽车 推动甲醇经济发展](https://www.cnbeta.com/articles/tech/1317399.htm) | Sat Sep 17 2022 7:49 AM 
+- 🎊 [自称曾找不到工作的南开教授有多牛？SCI论文40多篇](https://www.cnbeta.com/articles/tech/1317417.htm) | Sat Sep 17 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;工业和信息化部9月16日发布对十三届全国人大五次会议第2276号建议的答复。其中提出，工业和信息化部下一步将围绕推广甲醇汽车、支持甲醇汽车产业发展、探索绿色甲醇汽车新模式等方面，加大工作力度，推动甲醇经济发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这两天，南开大学物理学院的胡金牛教授简介火爆出圈，他在介绍中多次自嘲，说了不少大实话，网友夸其“太实诚”了。金牛教授简介中自己吐槽了不少，比如读博士后的原因是“当时找不到工作”；发表SCI论文40余篇中，有两个杂志是“水刊”，成为期刊审稿人是“被人强拉进去”等表述，在教学经历方面，胡金牛也坦言研究生课程“原子核结构”经常因为选课人少而停课。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
