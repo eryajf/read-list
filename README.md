@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [羊了个羊暴力通关教程最新版9.17——大熊G](https://juejin.cn/post/7144138580355448846) | Sat Sep 17 2022 12:27 AM 
+- 🤗 [通过 Apifox Echo 学习 curl/httpie 命令](https://juejin.cn/post/7144185993393143839) | Sat Sep 17 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-    无限道具教程最新版9.17  注意：此教程仅适用于微信电脑端！！！ 1，在电脑端打开微信，在小程序搜索：羊了个羊，把界面挂在一边。 2，在微信主页面左下角找到设置 3.在设置中找到文件管理，点击打开文 
+    curl，用于发送请求的命令行工具，一个 HTTP 请求客户端（实际上它也可以做 FTP/SCP/TELNET 协议的事情，可类比于浏览器中的 fetch。 curl 是最为流行的 HTTP 请求命令 
     </details> 
 
-- 🎡 [CSS-in-JS 的库是如何工作的？](https://juejin.cn/post/7143994367919783967) | Fri Sep 16 2022 3:08 PM 
+- 🎡 [超精准！AI 结合邮件内容与附件的意图理解与分类！](https://juejin.cn/post/7144180743328464927) | Sat Sep 17 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    CSS-in-JS 的库是如何工作的？是什么让 Material UI 选择了 CSS-in-JS 的方式开发组件库？这不禁引起了笔者的好奇，于是决定探索一番，实现一个自己的 CSS-in-JS 库。 
+    借助AI进行邮件正文与附件内容的识别，可以极大提高工作效率。本文讲解如何设计一个AI系统，完成邮件内容意图检测：架构初揽、邮件正文&amp;附件的理解与处理、搭建多数据源混合网络、训练&amp;评估。 
     </details> 
 
-- 🕯 [Web3 存储：Arweave、IPFS 、Filecoin](https://juejin.cn/post/7143988933381062669) | Fri Sep 16 2022 2:46 PM 
+- 🕯 [Fabric.js 设置容器类名要注意这几点](https://juejin.cn/post/7144178650290585637) | Sat Sep 17 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-    WEB3的三个基础板块：共识、存储、计算，而存储是第二个支柱，本文简单介绍WEB3的存储。 在 web2 中，将文件/视频上传到云服务器时，如果文件/视频的内容改变了，而它 url 不会改变，但是如果 
+    🎨用 fabric.js 创建画布时，fabric.js 会在 canvas 元素外包一层 div 容器。 如果想方便设置容器样式或者想通过 js 控制该容器，可以先给容器一个类名 
     </details> 
 
-- 🚀 [npm publish包报404，is not in the npm registry错误](https://juejin.cn/post/7143988072403697701) | Fri Sep 16 2022 2:42 PM 
+- 🚀 [2022 该怎么选择 monorepo 的管理工具（上）](https://juejin.cn/post/7144176452232020005) | Sat Sep 17 2022 2:54 AM 
     <details><summary>展开描述 ...</summary> 
-    今天老板找我，搞一个npm包。代码都有了，我只要包装下，发成npm包就可以。简单，我信誓旦旦的就答应了。 结果发布的时候，傻眼了，怎么都发布不上去，一直报404错误，怎么都发不上去。报错截图如下。 百 
+    什么是 build system？在软件开发中，构建一般指的是将源码转换成能被机器认识的二进制可执行文件。如果在单个项目中，例如一个使用 TypeScript 为语言开发的项目，如果不考虑其它的问题。 
     </details> 
 
-- 💪 [你还用excel存明文密码么？使用vue写加解密小页面吧](https://juejin.cn/post/7143986546826280974) | Fri Sep 16 2022 2:38 PM 
+- 💪 [为什么有HTTP协议，还要有websocket协议？](https://juejin.cn/post/7144161126652051464) | Sat Sep 17 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-    相信在座的很多大佬们还在使用`excel`直接存储明文密码。如果泄漏了，那将是毁灭性的打击哦。本篇文章使用vue实现对数据最简单的加解密。 
+    为什么有HTTP协议，还要有websocket协议？ websocket和socket有什么关系？背后原因让人暖心 
     </details> 
 <!-- juejin:END -->
 ### 少数派
