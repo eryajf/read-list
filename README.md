@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [消息称华为Mate50 5G手机壳将同步发售 价格799元](https://www.cnbeta.com/articles/tech/1317339.htm) | Sat Sep 17 2022 3:42 AM 
+- 🕯 [弹窗频繁：用户怀疑iOS 16剪贴板权限提示是否出了bug](https://www.cnbeta.com/articles/tech/1317349.htm) | Sat Sep 17 2022 5:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，阔别了两年多的华为Mate50系列已经正式发布，根据官方消息，该系列将于9月21日（下周三）正式首销。在开售之前，华为Mate50系列又迎来一个好消息。据爆料博主数码闲聊站最新透露，&lt;strong&gt;华为Mate50系列的5G手机壳将会与手机同步发售，价格上参考前代P50系列，应该还是799元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;通过一段时间的使用，TheVerge 编辑 Chris Welch 总体上对 iOS 16 系统更新还是感到满意的。比如可定制的锁屏体验相当有趣，人像抠图去背景的功能也相当不错。&lt;strong&gt;然而在新软件推出几天后，他又遇到了一项重大的挫折 —— 当需要在不同应用间复制粘贴信息的时候，iOS 16 的权限提示太过严格了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [一个鲜为人知的投资者向特斯拉投入的资金比马斯克还多](https://www.cnbeta.com/articles/tech/1317337.htm) | Sat Sep 17 2022 3:39 AM 
+- 💼 [保守派社交平台Parler成立新母公司 收购Dynascale以拓展基础设施服务](https://www.cnbeta.com/articles/tech/1317347.htm) | Sat Sep 17 2022 5:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Electrek报道，&lt;strong&gt;一位鲜为人知的投资者向特斯拉投入的资金比该公司首席执行官埃隆·马斯克还多&lt;/strong&gt;，现在他正以价值数十亿美元的头寸收获回报。Electrek去年首次报道了廖凯原（KoGuan Leo），当时他成为仅次于马斯克和拉里·埃里森的特斯拉第三大个人股东。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;周五的时候，Parler 宣布其已收购一家名为 Dynascale 的云计算公司。&lt;strong&gt;通过这笔投资，Parler 希望突破现有的社交应用版图，为那些有望拿到风投启动资金的企业提供基础设施方面的支持。&lt;/strong&gt;目前 Parler 社交应用已纳入新成立的母公司 Parlement Technologies 旗下运营，并且宣布了投向基础设施的新一轮 1600 万美元资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [MKBHD分享了首发支持“灵动岛”交互的数十款App名单](https://www.cnbeta.com/articles/tech/1317335.htm) | Sat Sep 17 2022 3:34 AM 
+- 💂 [不少加密货币矿工抱怨以太坊PoS合并未带来足够多的益处](https://www.cnbeta.com/articles/tech/1317345.htm) | Sat Sep 17 2022 4:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管 iPhone 14 的发布会让人感到有些审美疲劳，&lt;strong&gt;但苹果在 iPhone 14“Pro”产品线上新引入的药丸形开孔和“Dynamic Island”交互式设计，还是让广大消费者眼前一亮。&lt;/strong&gt;而在周三发布于油管的一段视频中，“小马哥”（MKBHD）也热心地汇总了首发时可配合“灵动岛”使用的一份详细 App 名单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在以太坊正式完成了从工作量证明（PoW）向权益证明（PoS）的“大合并”之后，一些矿工却对此表现出了极大的不满。&lt;/strong&gt;除了大幅削减该区块链网络的能耗，它似乎并没有对现实世界产生其它切实的益处。更重要的是，ETH 2.0 转型也意味着会有大量矿卡冲击消费级游戏显卡市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [持续攀升 Twitch平台8月直播观看时长统计结果出炉](https://hot.cnbeta.com/articles/game/1317333.htm) | Sat Sep 17 2022 3:19 AM 
+- 🚀 [[视频]宝马展示Dune Taxi原型车 《疯狂麦克斯》风格设计](https://www.cnbeta.com/articles/tech/1317343.htm) | Sat Sep 17 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据统计机构提供的数据显示，在今年8月，Twitch平台的直播观看时长达19亿小时。而在7月，Twitch平台的直播观看时长是17亿小时。&lt;/strong&gt;由此看来，Twitch月观看时长已经逐渐逼近20亿小时，但在1月之后他们还没有再次突破这一成绩。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;宝马中东近日上传了一段预告视频，展示了一款《疯狂麦克斯》风格的电动汽车。这款名为“Dune Taxi”电动汽车原型在阿布扎比的街道和沙丘上驰骋。&lt;/strong&gt;宝马是否正在为越野比赛做准备？宣传视频展示了 BMW 的电动“Dune Taxi”在行动中征服了 Tal Moreeb 沙丘，该沙丘拥有超过 300 米的高度&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《使命召唤19：现代战争2》B测预告 PS平台B测将上线](https://hot.cnbeta.com/articles/game/1317331.htm) | Sat Sep 17 2022 3:09 AM 
+- 🎊 [[图]特别好评：《半条命 2：VR MOD》开启公测](https://hot.cnbeta.com/articles/game/1317341.htm) | Sat Sep 17 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（9月17日），动视官方公布《使命召唤19：现代战争2》B测预告，预购玩家或拥有测试码玩家9月16日至9月17日PS平台开启抢先体验，非预购玩家或测试码玩家9月18日至9月20日开启PS平台B测。《使命召唤19：现代战争2》将于10月28日发售，登陆PC、PS4、PS5、Xbox One和Xbox Series X|S平台。预购数字版的玩家可以在10月20日游玩战役。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;能够让你在空间定位技术&lpar;Room-Scale&rpar;的虚拟现实环境中畅玩《Half-Life 2》的第三方 MOD 于今天开启公测。该 MOD 由 Source VR Mod Team 开发并免费提供，不过想要体验 VR 的玩家需要持有《Half-Life 2》，目前该游戏的售价为 9.99 美元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
