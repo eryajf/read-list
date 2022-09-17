@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Linux c 编程问题请教，使用 readv/writev 读写 iovec 数组，如何循环读取或写入直到全部字节传输完毕？](https://www.v2ex.com/t/880735#reply3) | Sat Sep 17 2022 1:31 AM
-- 🤗 [怎么用变量接收 INFO WARNING 信息](https://www.v2ex.com/t/880733#reply0) | Sat Sep 17 2022 1:12 AM
-- 🎭 [现在还有不绑卡的免费主机吗](https://www.v2ex.com/t/880729#reply1) | Sat Sep 17 2022 12:53 AM
-- 🥷 [红米 k50 无限重启](https://www.v2ex.com/t/880722#reply3) | Fri Sep 16 2022 7:48 PM
-- 🐵 [为什么 Debian 关机没有 Ubuntu 一样好几屏 stop xxx？是 Debian 真关机这么快还是遇到了什么问题 crash 了？](https://www.v2ex.com/t/880718#reply4) | Fri Sep 16 2022 6:41 PM<!-- v2ex:END -->
+- 🥸 [xfce 的 4k 字体渲染竟然比 win10 看起来都舒服](https://www.v2ex.com/t/880770#reply0) | Sat Sep 17 2022 3:52 AM
+- 🤗 [二十年前的问道端游，还有在研究的吗？](https://www.v2ex.com/t/880761#reply6) | Sat Sep 17 2022 3:29 AM
+- 🎭 [关于 go 日志中记录 request id 的疑问](https://www.v2ex.com/t/880759#reply2) | Sat Sep 17 2022 3:27 AM
+- 🥷 [最近 nginx，一直报错 recv&lpar;&rpar; failed &lpar;104: Connection reset by peer&rpar; while reading response header from upstream](https://www.v2ex.com/t/880757#reply1) | Sat Sep 17 2022 3:20 AM
+- 🐵 [想起几年前刚毕业有一道面试题。](https://www.v2ex.com/t/880756#reply2) | Sat Sep 17 2022 3:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
