@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [像专业人员一样验证你的Vue Props](https://juejin.cn/post/7144252068801282078) | Sat Sep 17 2022 7:48 AM 
+- 🤗 [Lua 环境搭建](https://juejin.cn/post/7144268935809433607) | Sat Sep 17 2022 8:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    Lua 环境配置 Mac 一、下载 Lua 二、配置环境 三、简单的使用方式 第一种，命令行使用 第二种，直接运行 lua 文件 第三中，在 idea 执行 lua 文件 
+    </details> 
+
+- 🎡 [Angular | 在service中使用TemplateRef](https://juejin.cn/post/7144263949553238046) | Sat Sep 17 2022 8:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    html-in-service 使用‘虚拟dom’给你的service注入templateRef吧 
+    </details> 
+
+- 🕯 [AI 数字绘画 stable-diffusion 保姆级教程](https://juejin.cn/post/7144252226771353631) | Sat Sep 17 2022 7:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    简介 近段时间来，你可能在不少地方都看到了非常多这样的好看的画。 比如这样的赛博朋克风 prompt: Cyberpunk, 8k resolution, castle, the rose sea,  
+    </details> 
+
+- 🚀 [像专业人员一样验证你的Vue Props](https://juejin.cn/post/7144252068801282078) | Sat Sep 17 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
     Vue 要求将传递给组件的任何数据显式声明为 props。此外，它还提供了一个强大的内置机制来验证这些数据。这就像组件和消费者之间的合同一样，确保组件按预期使用。 让我们来探讨一下这个强大的工具，它可 
     </details> 
 
-- 🎡 [850. 矩形面积 II : 扫描线模板题](https://juejin.cn/post/7144248348633989150) | Sat Sep 17 2022 7:34 AM 
+- 💪 [850. 矩形面积 II : 扫描线模板题](https://juejin.cn/post/7144248348633989150) | Sat Sep 17 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
     我报名参加金石计划一期挑战——瓜分10万奖池，这是我的第15篇文章，点击查看活动详情 题目描述 这是 LeetCode 上的 850. 矩形面积 II ，难度为 困难。 Tag : 「扫描线」 我们给 
-    </details> 
-
-- 🕯 [tar、gzip、zip、jar是什么，怎么查看？](https://juejin.cn/post/7144248122019938312) | Sat Sep 17 2022 7:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    我想你一定见过*.tar.gz、*.zip、*.jar后缀的文件吧，这些都是压缩文件，那这些文件都是怎么生成的，又有哪些关键区别呢？ 
-    </details> 
-
-- 🚀 [装饰Hexo个人博客经历](https://juejin.cn/post/7144245157972410375) | Sat Sep 17 2022 7:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    我的博客最开始采用的是Hexo+hexo-theme-next搭建的，使用GitHub Pages托 
-    </details> 
-
-- 💪 [Java 并发编程解析 | 基于JDK源码解析Java领域中的并发锁，我们可以从中学习到什么内容？](https://juejin.cn/post/7144228862207983629) | Sat Sep 17 2022 6:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    &gt; 苍穹之边，浩瀚之挚，眰恦之美； 悟心悟性，善始善终，惟善惟道！ —— 朝槿《朝槿兮年说》 ![Picture-Navigation]&lpar;https://s1.ax1x.com/2022/09/0 
     </details> 
 <!-- juejin:END -->
 ### 少数派
