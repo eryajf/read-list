@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [有网友收到预装Windows 11 22H2的新笔记本](https://www.cnbeta.com/articles/tech/1317223.htm) | Fri Sep 16 2022 10:44 PM 
+- 🕯 [LastPass表示在检测并驱逐前 黑客访问内部系统已有4天](https://www.cnbeta.com/articles/tech/1317291.htm) | Sat Sep 17 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Windows 11 22H2 功能更新已经开始预装到新笔记本中。国外论坛 Thurott 上有网友 WILL 近期购买了一台戴尔笔记本，不过令他感到惊讶的是该笔记本采用了新的启动画面，所安装的系统为 Windows 11 22H2。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;LastPass 表示发生于今年 8 月的安全事件里，在公司检测并驱逐之前黑客访问公司多个系统的时间已有 4 天。&lt;/strong&gt;&lt;a href=&quot;https://blog.lastpass.com/2022/08/notice-of-recent-security-incident/&quot; target=&quot;_blank&quot;&gt;在上个月发布的安全事件通知的更新中&lt;/a&gt;，Lastpass 的首席执行官 Karim Toubba 还表示，该公司的调查（与网络安全公司 Mandiant 合作进行）没有发现威胁行为者访问客户数据或加密密码库的证据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Pong风格游戏《Hit the Island​》已上架 利用灵动岛的休闲游戏](https://hot.cnbeta.com/articles/game/1317221.htm) | Fri Sep 16 2022 10:27 PM 
+- 💼 [研究发现来自普通家用油漆的颗粒会伤害生物体](https://www.cnbeta.com/articles/science/1317289.htm) | Sat Sep 17 2022 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在此前预告之后，Pong 风格的第三方游戏《&lt;a href=&quot;https://apps.apple.com/us/app/hit-the-island/id1644376309&quot; target=&quot;_blank&quot;&gt;Hit the Island&lt;/a&gt;》已经于近日正式上架。这款游戏由克里斯·斯莫尔卡（Kriss Smolka）开发，此前他曾开发过 WaterMinder 和 HabitMinder 等应用，而今天发布的这款应用是专门正对灵动岛的。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;家庭中经常使用分散涂料来粉刷墙壁和天花板。拜罗伊特大学的一个跨学科研究小组最近检查了两种常见的分散涂料的化学构成，并发现了大量小至几个微米或纳米的固体颗粒。&lt;strong&gt;在对生物测试系统的研究中，这些颗粒已被证明对活的生物体有害。&lt;/strong&gt;使用拜罗伊特大学开发的一种新膜，这些颗粒可以在进入环境之前从水中过滤掉。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14 Pro型号闪电端口仍停留在USB 2.0速度 最高480Mbps](https://www.cnbeta.com/articles/tech/1317219.htm) | Fri Sep 16 2022 10:15 PM 
+- 💂 [研究称一颗消失已久的卫星可能是土星环的真正起源](https://www.cnbeta.com/articles/science/1317287.htm) | Sat Sep 17 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone 14 Pro 和 iPhone 14 Pro Max 两款型号后置主摄已经升级，可以拍摄 4800 万像素的 ProRAW 照片，在保留更丰富的画面细节之外，让图像文件后期编辑也更加的灵活。&lt;strong&gt;根据苹果官方更新的支持文档，4800 万像素 ProRAW 照片容量大约为 75MB，在某些复杂场景下可能会更大。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据BGR报道，土星是我们太阳系中最令人惊叹的行星之一。它美丽的星环使它从几乎所有其他以我们的空间区域为家的行星中脱颖而出。长期以来，这种美丽和这些星环对天文学家来说几乎是神秘的。而对许多人来说，这些星环也一直是个谜。但是现在，&lt;strong&gt;新的研究可能最终弄清了土星环的起源：一颗消失已久的卫星。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [体验完iPhone 14 Pro Max后 我发现最吸引我的不是灵动岛](https://www.cnbeta.com/articles/tech/1317217.htm) | Fri Sep 16 2022 4:55 PM 
+- 🚀 [AMD锐龙R9-7900X Geekbench跑分曝光 领先英特尔酷睿i9-12900K](https://www.cnbeta.com/articles/tech/1317285.htm) | Sat Sep 17 2022 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在上个礼拜，苹果在它的秋季发布会上发布了四台 iPhone，这次我们也是拿到了两台，分别是蓝色版的 iPhone 14，以及紫色版的 iPhone 14 Pro Max。不知道各位觉得它们的这个颜色怎么样？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Geekbench 基准测试数据库，刚刚揭示了 AMD Zen 4 锐龙 R9-7900X 的最新跑分。&lt;/strong&gt;可知作为一枚 12C / 24T 的台式处理器，其不仅多线程性能较上一代 R9-5900X 提升了 30% 以上，还打败了 8P+8E（16C / 24T）的英特尔酷睿 i9-12900K 旗舰 SKU 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [放假7天需调休 国庆假期首日火车票今日开售](https://www.cnbeta.com/articles/tech/1317215.htm) | Fri Sep 16 2022 4:53 PM 
+- 🎊 [专家调查发现本周三划破爱尔兰夜空的火球并非Starlink 而是小行星](https://www.cnbeta.com/articles/science/1317283.htm) | Sat Sep 17 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;距离今年国庆节还有半个月时间，你的出行计划都安排好了没？据“中国铁路”官方，&lt;strong&gt;今天（9月17日），大家可以通过铁路12306网站、铁路12306 App购买国庆假期首日（10月1日）火车票。&lt;/strong&gt;10月6日和7日火车票将分别于9月22日和23日开售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本周三晚间，一个异常明亮且持续时间很长的火球划破了爱尔兰和苏格兰的夜空&lt;/strong&gt;。此前有人推测这可能是 SpaceX 的 Starlink 卫星坠入大气层产生的，不过经多名专家考证，这只是一小块小行星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
