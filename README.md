@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [弹窗频繁：用户怀疑iOS 16剪贴板权限提示是否出了bug](https://www.cnbeta.com/articles/tech/1317349.htm) | Sat Sep 17 2022 5:25 AM 
+- 🕯 [Canonical正努力为Sipeed LicheeRV入门开发板提供Ubuntu 22.10支持](https://www.cnbeta.com/articles/tech/1317351.htm) | Sat Sep 17 2022 5:51 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;除了 StarFive VisionFive 和 Nezha RISC-V，Canonical 工程师现也在努力为 Sipeed LicheeRV 带来下月的 Ubuntu 22.10 版本支持。&lt;/strong&gt;作为市面上最实惠的 RISC-V 单板机之一，Sipeed LicheeRV 的起价仅为 16.90 美元（约 118 RMB）。即便如此，这块板子还是提供了用于扩展的 M.2 插槽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [弹窗频繁：用户怀疑iOS 16剪贴板权限提示是否出了bug](https://www.cnbeta.com/articles/tech/1317349.htm) | Sat Sep 17 2022 5:25 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;通过一段时间的使用，TheVerge 编辑 Chris Welch 总体上对 iOS 16 系统更新还是感到满意的。比如可定制的锁屏体验相当有趣，人像抠图去背景的功能也相当不错。&lt;strong&gt;然而在新软件推出几天后，他又遇到了一项重大的挫折 —— 当需要在不同应用间复制粘贴信息的时候，iOS 16 的权限提示太过严格了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [保守派社交平台Parler成立新母公司 收购Dynascale以拓展基础设施服务](https://www.cnbeta.com/articles/tech/1317347.htm) | Sat Sep 17 2022 5:05 AM 
+- 💂 [保守派社交平台Parler成立新母公司 收购Dynascale以拓展基础设施服务](https://www.cnbeta.com/articles/tech/1317347.htm) | Sat Sep 17 2022 5:05 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;周五的时候，Parler 宣布其已收购一家名为 Dynascale 的云计算公司。&lt;strong&gt;通过这笔投资，Parler 希望突破现有的社交应用版图，为那些有望拿到风投启动资金的企业提供基础设施方面的支持。&lt;/strong&gt;目前 Parler 社交应用已纳入新成立的母公司 Parlement Technologies 旗下运营，并且宣布了投向基础设施的新一轮 1600 万美元资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [不少加密货币矿工抱怨以太坊PoS合并未带来足够多的益处](https://www.cnbeta.com/articles/tech/1317345.htm) | Sat Sep 17 2022 4:46 AM 
+- 🚀 [不少加密货币矿工抱怨以太坊PoS合并未带来足够多的益处](https://www.cnbeta.com/articles/tech/1317345.htm) | Sat Sep 17 2022 4:46 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;在以太坊正式完成了从工作量证明（PoW）向权益证明（PoS）的“大合并”之后，一些矿工却对此表现出了极大的不满。&lt;/strong&gt;除了大幅削减该区块链网络的能耗，它似乎并没有对现实世界产生其它切实的益处。更重要的是，ETH 2.0 转型也意味着会有大量矿卡冲击消费级游戏显卡市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[视频]宝马展示Dune Taxi原型车 《疯狂麦克斯》风格设计](https://www.cnbeta.com/articles/tech/1317343.htm) | Sat Sep 17 2022 4:17 AM 
+- 🎊 [[视频]宝马展示Dune Taxi原型车 《疯狂麦克斯》风格设计](https://www.cnbeta.com/articles/tech/1317343.htm) | Sat Sep 17 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;宝马中东近日上传了一段预告视频，展示了一款《疯狂麦克斯》风格的电动汽车。这款名为“Dune Taxi”电动汽车原型在阿布扎比的街道和沙丘上驰骋。&lt;/strong&gt;宝马是否正在为越野比赛做准备？宣传视频展示了 BMW 的电动“Dune Taxi”在行动中征服了 Tal Moreeb 沙丘，该沙丘拥有超过 300 米的高度&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [[图]特别好评：《半条命 2：VR MOD》开启公测](https://hot.cnbeta.com/articles/game/1317341.htm) | Sat Sep 17 2022 4:11 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;能够让你在空间定位技术&lpar;Room-Scale&rpar;的虚拟现实环境中畅玩《Half-Life 2》的第三方 MOD 于今天开启公测。该 MOD 由 Source VR Mod Team 开发并免费提供，不过想要体验 VR 的玩家需要持有《Half-Life 2》，目前该游戏的售价为 9.99 美元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
