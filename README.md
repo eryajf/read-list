@@ -365,10 +365,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [Golang 結構體格式化打印工具](https://www.v2ex.com/t/880926#reply1) | Sat Sep 17 2022 5:02 PM
-- 🤗 [要升级 Ubuntu，提示 MySQL 有问题。](https://www.v2ex.com/t/880920#reply2) | Sat Sep 17 2022 4:21 PM
+- 🤗 [要升级 Ubuntu，提示 MySQL 有问题。](https://www.v2ex.com/t/880920#reply3) | Sat Sep 17 2022 4:21 PM
 - 🎭 [有没有可以批量查询 域名备案的 网站或者工具](https://www.v2ex.com/t/880904#reply0) | Sat Sep 17 2022 2:54 PM
 - 🥷 [求助（ PHP ）](https://www.v2ex.com/t/880903#reply2) | Sat Sep 17 2022 2:54 PM
-- 🐵 [有没有高性能 UDP 转发开源项目？](https://www.v2ex.com/t/880899#reply6) | Sat Sep 17 2022 2:23 PM<!-- v2ex:END -->
+- 🐵 [有没有高性能 UDP 转发开源项目？](https://www.v2ex.com/t/880899#reply7) | Sat Sep 17 2022 2:23 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
