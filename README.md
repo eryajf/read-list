@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【kafka原理】 消费者偏移量__consumer_offsets_相关解析](https://juejin.cn/post/7144639667541901326) | Sun Sep 18 2022 8:52 AM 
+- 🤗 [使用错误边界&lpar;Error Boundary&rpar;的相关知识](https://juejin.cn/post/7144652395128029192) | Sun Sep 18 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
-    我们在kafka的log文件中发现了还有很多以 __consumer_offsets_的文件夹；总共50个; 
+    部分 UI 的 JavaScript 错误不应该导致整个应用崩溃，为了解决这个问题，React 16 引入了错误边界的概念，用来捕获错误，并渲染降级UI以方便开发者使用。 
     </details> 
 
-- 🎡 [【kafka原理】kafka Log存储解析以及索引机制](https://juejin.cn/post/7144639084667863053) | Sun Sep 18 2022 8:50 AM 
+- 🎡 [一个css属性就能这么好玩？](https://juejin.cn/post/7144651409546444837) | Sun Sep 18 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
-    本文设置到的配置项有 名称 描述 类型 默认 num.partitions topic的默认分区数int 
+    在前端开发领域，css的地位举足轻重，在很多场景下，不管是动画效果还是交互的实现，很多开发者第一时间就是想到的通过JavaScript来实现，但是其实很多场景下css也可以完成非常多有意思的交互 
     </details> 
 
-- 🕯 [JavaScript设计模式之基础知识](https://juejin.cn/post/7144636004199038983) | Sun Sep 18 2022 8:37 AM 
+- 🕯 [当面试官让我回答React和Vue框架的区别......](https://juejin.cn/post/7144648542472044558) | Sun Sep 18 2022 9:26 AM 
     <details><summary>展开描述 ...</summary> 
-    为了将要开始的设计模式介绍与应用，文章将对面向对象和几大设计原则做一个基础知识介绍，为后面的设计模式学习打好基础。 
+    Vue 和 React 作为当前前端两大火热的框架，面试的时候自然不少被提及： 请说一下你对react/vue框架的理解 请对比一下两大框架的优缺点 其实react和vue大体上是相同的，比如都使用虚 
     </details> 
 
-- 🚀 [聊一聊浏览器打印 - window.print](https://juejin.cn/post/7144625142876864525) | Sun Sep 18 2022 7:55 AM 
+- 🚀 [分布式算法---Paxos](https://juejin.cn/post/7144646806301835272) | Sun Sep 18 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-    浏览器原生 API window.print。一般信息填写类的需求页面，都会增设「预览」和「打印」功能。我们会通过编写 DOM 及样式来绘制出预览视图，而打印则是基于预览来生成 PDF 文件。 
+    0.参考链接 https://blog.openacid.com/algo/paxos/ http://icyfenix.cn/distribution/consensus/paxos.html 1. 
     </details> 
 
-- 💪 [面试回答：什么是负载均衡](https://juejin.cn/post/7144621706312613896) | Sun Sep 18 2022 7:42 AM 
+- 💪 [源码学习-omit.js库【移除对象中的属性】](https://juejin.cn/post/7144644388574986277) | Sun Sep 18 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    均衡，主要说的是均衡分配的，分配的是负载（工作任务或访问请求），在集群服务、网络连接、CPU、磁盘或其他的资源中进行分配。 主要目的是：达到最优化资源使用，最大吞吐率、最小化响应时间，完成高性能、高 
+    导读 本文参加了由公众号@若川视野 发起的每周源码共读活动，点击了解详情一起参与。 【若川视野 x 源码共读】第36期 | 可能是历史上最简单的一期omit.js 剔除对象中的属性点击了解本期详情一起 
     </details> 
 <!-- juejin:END -->
 ### 少数派
