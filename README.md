@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求推荐适合前端的 API Server/headless CMS](https://www.v2ex.com/t/880965#reply0) | Sun Sep 18 2022 2:20 AM
-- 🤗 [想买 GitHub Copilot，申请哪家银行的双币卡好？](https://www.v2ex.com/t/880961#reply4) | Sun Sep 18 2022 1:59 AM
-- 🎭 [请问 2022 做 Android 原生开发，哪款手机平板用作调试比较好？](https://www.v2ex.com/t/880957#reply0) | Sun Sep 18 2022 1:53 AM
-- 🥷 [有没有简单，开源 CMS 系统可以推荐](https://www.v2ex.com/t/880951#reply4) | Sun Sep 18 2022 1:38 AM
-- 🐵 [Golang 結構體格式化打印工具](https://www.v2ex.com/t/880926#reply1) | Sat Sep 17 2022 5:02 PM<!-- v2ex:END -->
+- 🥸 [bootmgr&lpar;即选择启动哪一个系统那个界面&rpar;设置为 zh-cn 后依然乱码?汉字显示为一堆口?缺了啥?](https://www.v2ex.com/t/881000#reply0) | Sun Sep 18 2022 4:25 AM
+- 🤗 [VirtualBox 的虚拟机能克隆到实体电脑上吗？](https://www.v2ex.com/t/880997#reply2) | Sun Sep 18 2022 4:22 AM
+- 🎭 [WebServer 项目端口放行后浏览器 ERR_CONNECTION_REFUSED](https://www.v2ex.com/t/880994#reply0) | Sun Sep 18 2022 4:15 AM
+- 🥷 [共同盖楼分享那些 Linux 桌面环境应用](https://www.v2ex.com/t/880985#reply8) | Sun Sep 18 2022 3:51 AM
+- 🐵 [求推荐适合前端的 API Server/headless CMS](https://www.v2ex.com/t/880965#reply3) | Sun Sep 18 2022 2:20 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
