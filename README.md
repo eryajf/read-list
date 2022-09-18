@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [洲际酒店遭遇黑客“报复性”攻击](https://www.cnbeta.com/articles/tech/1317511.htm) | Sun Sep 18 2022 1:38 AM 
+- 🕯 [为庆祝成立18周年，Oppo推出“Oppo全球社区”](https://www.cnbeta.com/articles/tech/1317561.htm) | Sun Sep 18 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;有黑客告诉BBC，他们对假日酒店&lpar;Holiday Inn&rpar;的所有者洲际酒店集团&lpar;IHG&rpar;进行了一次破坏性的网络攻击，目的则是“为了好玩”。&lt;/strong&gt;他们自称来自越南，一开始他们尝试了勒索软件攻击，然后在被挫败后删除了大量的数据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Oppo近日迎来了它的18周岁生日，为了庆祝这一时刻，该公司推出了Oppo全球社区（community.oppo.com）。&lt;/strong&gt;据悉，该社区将作为所有Oppo用户的一个包容和开放的生态系统，它将他们更容易参与、互动并跟Oppo及彼此分享信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [报告：印度制造的智能手机出货量在2022年Q2增长了16%](https://www.cnbeta.com/articles/tech/1317509.htm) | Sun Sep 18 2022 1:17 AM 
+- 💼 [单周暴跌14%，今年跌超60%，Meta逼近疫情以来新](https://www.cnbeta.com/articles/tech/1317559.htm) | Sun Sep 18 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;印度制造的智能手机正在出现上升趋势，即使该国的整体智能手机市场经历了低迷。根据市场研究公司Counterpoint的印度制造智能手机跟踪报告，&lt;strong&gt;今年6月份印度制造的智能手机出货量为4400万部，这标志着本地制造的智能手机数量同比增长了16%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;“元宇宙中心”Meta的麻烦似乎远没有结束。在本周暴跌14%后，Facebook母公司Meta股价已处于2020年疫情爆发以来的最低点。&lt;/strong&gt;Meta股价在过去12个月里下跌了61%，是美股主要大型科技公司中跌幅最大的，整体跌幅是纳斯达克综合指数同期跌幅的2倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [俄罗斯可能已将马斯克的Starlink纳入警告声明中](https://www.cnbeta.com/articles/tech/1317507.htm) | Sun Sep 18 2022 1:03 AM 
+- 💂 [沃尔沃极星6概念版国内首发 中国市场仅10台配额](https://www.cnbeta.com/articles/tech/1317557.htm) | Sun Sep 18 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;看起来埃隆·马斯克的Starlink计划可能已经被俄罗斯在一份可能带来严重影响的声明中发出了严厉警告。&lt;/strong&gt;Starlink地图显示，其覆盖范围已经扩展到全球大部分地区，一些国家已经计划在未来几年提供支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;极星汽车作为吉利和沃尔沃的合资品牌，定位高端新能源汽车，9月18日，Polestar极星旗下首款纯电动敞篷跑车——Polestar 6概念版迎来中国首发。官方透露，未来Polestar 6将完全参照Polestar O2概念车进行量产化，并于2026年正式上市，&lt;strong&gt;新车首批Polestar 6 LA Concept edition限量版在中国市场售价168.00万元，中国市场配额仅10台，目前已经开始预定。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软：还没有放弃让《最终幻想14》登陆Xbox](https://hot.cnbeta.com/articles/game/1317505.htm) | Sun Sep 18 2022 12:41 AM 
+- 🚀 [德普与艾梅伯官司被拍成电影 将于9月30日上线](https://hot.cnbeta.com/articles/movie/1317555.htm) | Sun Sep 18 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Xbox负责人Phil Spencer表示他还没有放弃将SE流行MMO游戏《最终幻想14》带到Xbox平台。2019年，Spencer在英国伦敦X019大会上宣布将致力于将《最终幻想14》带到Xbox，然而接近三年之后，仍然没有登陆Xbox的迹象。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据媒体报道，&lt;strong&gt;基于约翰尼·德普与艾梅柏·希尔德的官司内容进行拍摄的电影《热点：德普与艾梅柏的审判》已经官宣。&lt;/strong&gt;据悉，影片由马克·哈普卡饰演德普、梅根·戴维斯饰演艾梅柏，剧情讲述了两人轰动的诉讼官司以及矛盾争端等内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Linux的负载均衡机制仍需更好地适应英特尔混合架构处理器的需要](https://www.cnbeta.com/articles/tech/1317503.htm) | Sun Sep 18 2022 12:39 AM 
+- 🎊 [华纳已在开发电影《康斯坦丁》续集 基努·里维斯回归主演](https://hot.cnbeta.com/articles/movie/1317553.htm) | Sun Sep 18 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在推出英特尔Alder Lake处理器的过去一年里，英特尔工程师已经对Linux内核进行了一些改进，以便更好地处理混合P核与E核的混合处理运算方法。虽然Alder Lake在最近版本的内核中运行得很好，而且Linux上的P核与E核的任务选择比推出时要更完善，但仍有英特尔工程师本周提出了其中需要改进的地方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新浪电影今日（9月17日）消息，据多家媒体报道，&lt;strong&gt;华纳已在开发超自然惊悚电影《康斯坦丁》的续集，基努·里维斯将回归主演，弗朗西斯·劳伦斯回归执导。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
