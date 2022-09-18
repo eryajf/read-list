@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [为庆祝成立18周年，Oppo推出“Oppo全球社区”](https://www.cnbeta.com/articles/tech/1317561.htm) | Sun Sep 18 2022 3:34 AM 
+- 🕯 [以太坊合并后GPU挖矿面临黑暗时代 没有人能赚到钱](https://www.cnbeta.com/articles/tech/1317591.htm) | Sun Sep 18 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Oppo近日迎来了它的18周岁生日，为了庆祝这一时刻，该公司推出了Oppo全球社区（community.oppo.com）。&lt;/strong&gt;据悉，该社区将作为所有Oppo用户的一个包容和开放的生态系统，它将他们更容易参与、互动并跟Oppo及彼此分享信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;想用你的PC显卡挖掘加密货币吗？不用麻烦了。在以太坊合并之后，基于GPU的所有加密货币挖矿现在基本上无利可图，至少现在是这样。本周四上午，以太坊--最有利可图的可挖掘加密货币之一--最终淘汰了基于GPU的采矿，这将有助于减少其能源消耗。&lt;strong&gt;但是，对于那些专注于以太坊作为主要利润来源的加密货币矿工来说，这一过渡是个坏消息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [单周暴跌14%，今年跌超60%，Meta逼近疫情以来新](https://www.cnbeta.com/articles/tech/1317559.htm) | Sun Sep 18 2022 3:27 AM 
+- 💼 [美国国土安全部将耗资近70万美元调查&quot;游戏中的激进行为&quot;](https://hot.cnbeta.com/articles/game/1317589.htm) | Sun Sep 18 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;“元宇宙中心”Meta的麻烦似乎远没有结束。在本周暴跌14%后，Facebook母公司Meta股价已处于2020年疫情爆发以来的最低点。&lt;/strong&gt;Meta股价在过去12个月里下跌了61%，是美股主要大型科技公司中跌幅最大的，整体跌幅是纳斯达克综合指数同期跌幅的2倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;国土安全部向恐怖主义和安全研究人员提供了一笔699763美元的拨款，用于研究极端主义和游戏的重叠部分。&lt;/strong&gt;&amp;quot;在过去的十年中，电子游戏越来越成为青少年和年轻成年人社会活动和身份创造的焦点。在游戏生态系统中建立和培养的关系经常跨越到现实世界，并成为当地社区有影响的部分，&amp;quot;国土安全部网站上的拨款公告说。&amp;quot;相应地，极端分子利用电子游戏和目标电子游戏社区开展从宣传创造到恐怖分子动员和培训的活动。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [沃尔沃极星6概念版国内首发 中国市场仅10台配额](https://www.cnbeta.com/articles/tech/1317557.htm) | Sun Sep 18 2022 3:25 AM 
+- 💂 [麻省理工学院研究人员称自闭症研究倾向于排除女性样本](https://www.cnbeta.com/articles/science/1317587.htm) | Sun Sep 18 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;极星汽车作为吉利和沃尔沃的合资品牌，定位高端新能源汽车，9月18日，Polestar极星旗下首款纯电动敞篷跑车——Polestar 6概念版迎来中国首发。官方透露，未来Polestar 6将完全参照Polestar O2概念车进行量产化，并于2026年正式上市，&lt;strong&gt;新车首批Polestar 6 LA Concept edition限量版在中国市场售价168.00万元，中国市场配额仅10台，目前已经开始预定。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近年来，研究自闭症的研究人员已经努力将更多的妇女和女孩纳入他们的研究中。然而，尽管有这些努力，麻省理工学院的一项新研究发现，大多数关于自闭症的研究一直在招募少量的女性受试者或完全排除她们。根据研究结果，&lt;strong&gt;一个常用于确定自闭症研究资格的筛选测试一直在筛选出比男性高得多的女性。这就形成了一个&amp;quot;泄漏管道&amp;quot;，导致女性在自闭症研究中的代表性严重不足。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [德普与艾梅伯官司被拍成电影 将于9月30日上线](https://hot.cnbeta.com/articles/movie/1317555.htm) | Sun Sep 18 2022 3:11 AM 
+- 🚀 [特斯拉搞促销，惹怒了谁？](https://www.cnbeta.com/articles/tech/1317585.htm) | Sun Sep 18 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据媒体报道，&lt;strong&gt;基于约翰尼·德普与艾梅柏·希尔德的官司内容进行拍摄的电影《热点：德普与艾梅柏的审判》已经官宣。&lt;/strong&gt;据悉，影片由马克·哈普卡饰演德普、梅根·戴维斯饰演艾梅柏，剧情讲述了两人轰动的诉讼官司以及矛盾争端等内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;“还我8000”&lt;/strong&gt;——这是一位网友在特斯拉官方微博评论区的留言。事情由来是这样的。9月16日，一封内部邮件显示，自2022年9月16日起至2022年9月30日之间交付的所有全新、展车以及非全新Model 3及Model Y的车主，若选择购买我司店内保险，且投保险种包含了交强险、车损险，将予以保险补贴8000元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [华纳已在开发电影《康斯坦丁》续集 基努·里维斯回归主演](https://hot.cnbeta.com/articles/movie/1317553.htm) | Sun Sep 18 2022 3:09 AM 
+- 🎊 [首批用户吐槽iPhone 14 Pro后盖不耐划：才用一天就已经大花脸](https://www.cnbeta.com/articles/tech/1317583.htm) | Sun Sep 18 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新浪电影今日（9月17日）消息，据多家媒体报道，&lt;strong&gt;华纳已在开发超自然惊悚电影《康斯坦丁》的续集，基努·里维斯将回归主演，弗朗西斯·劳伦斯回归执导。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;满打满算，iPhone 14 Pro到用户手里才两天时间，可是居然已经被发现“通病”了。多位数码博主发现，&lt;strong&gt;今年的iPhone 14 Pro/Pro Max的后背似乎特别容易刮花。在广州、深圳的直营店，一些摆上架才一天的展示机，背面已经出现了很多擦拭不掉、肉眼可见的痕迹。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
