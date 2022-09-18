@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《索尼克：未知边境》实机演示 11月8日登陆全平台](https://hot.cnbeta.com/articles/game/1317611.htm) | Sun Sep 18 2022 8:11 AM 
+- 🕯 [台湾花莲县发生6.9级地震 专家称释放能量相当于8颗原子弹](https://www.cnbeta.com/articles/tech/1317637.htm) | Sun Sep 18 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;世嘉旗下全新作《索尼克：未知边境》在东京电玩展上公布了全新的实机试玩演示，依旧的高速度流畅游戏过程，一起来感受下。本作预计在11月8日正式发售，登陆Xbox Series X|S、Xbox One、PS5、PS4、Switch和PC。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中国地震台网正式测定：&lt;strong&gt;9月17日21时41分，在中国台湾花莲县（北纬23.05度，东经121.21度）发生6.5级地震，震源深度10千米。&lt;/strong&gt;截止9月18日17时30分，当地又发生13次4.0级及以上地震，其中&lt;strong&gt;最大一次6.9级，发生于9月18日14时44分，震中位置北纬23.15度、东经121.30度，震源深度10千米。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [标志性部分开始重建 巴黎圣母院有望2024年开放](https://www.cnbeta.com/articles/tech/1317609.htm) | Sun Sep 18 2022 8:09 AM 
+- 💼 [台风“南玛都”即将横扫日本全境 超5万家庭停电](https://www.cnbeta.com/articles/tech/1317635.htm) | Sun Sep 18 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间9月16号，法国巴黎圣母院修复项目负责人宣布，他们已经开始了尖塔及下面的木质框架等巴黎圣母院最具标志性部分的重建工程，修复现场也将首次向公众开放。据介绍，为了重建巴黎圣母院的尖塔及其下面的木制框架，建筑工人们架设了高达100米、重约600吨的脚手架。按计划，人们将在2023年重新看到尖塔耸立在巴黎的天空中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/tv/show/1034:4815056710598664?from=old_pc_videoshow&quot; target=&quot;_blank&quot;&gt;央视&lt;/a&gt;报道，目前今年第14号台风“南玛都”继续靠近日本九州地区鹿儿岛县。受台风影响，日本多地停电，交通中断。截至当地时间18日上午11点，鹿儿岛县、宫崎县等地共计超过5万户停电。此外，九州地区出发及抵达航班至少510架次停航；九州新干线等多条线路区间停运。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国电信：本次火灾事故预计不会对公司生产经营、财务指标产生重大影响](https://www.cnbeta.com/articles/tech/1317607.htm) | Sun Sep 18 2022 8:09 AM 
+- 💂 [德普诉希尔德案将被拍成电影 网友：会有对打镜头吗？](https://hot.cnbeta.com/articles/movie/1317633.htm) | Sun Sep 18 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国电信公告，长沙分公司第二通信楼楼体外立面起火，2022年9月16日16时30分，楼体明火被扑灭，火灾没有造成人员伤亡，起火原因正在调查中。火灾发生后，中国电信股份有限公司立即启动应急预案，积极配合相关部门组织灭火工作，公司领导赶赴现场组织处理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据新浪娱乐消息，外媒称约翰尼·德普与艾梅柏·希尔德的官司已被翻拍为电影《热点：德普与艾梅柏的审判》。据悉，此部电影将由由马克·哈普卡饰演德普，梅根·戴维斯饰演艾梅柏，将于9月30日上线流媒体。视频网站首席内容官表示，该影片将展示数百万观众在这个夏天看到的关于他俩的头条新闻。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《DOTA 2》TI 11预选赛结束：LGD等国内战队打进小组赛](https://hot.cnbeta.com/articles/game/1317605.htm) | Sun Sep 18 2022 8:05 AM 
+- 🚀 [不仅有实机画面 黑客称将放出《GTA 6》测试开发版游戏](https://hot.cnbeta.com/articles/game/1317631.htm) | Sun Sep 18 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，《DOTA 2》TI 11的预选赛终于落下帷幕，&lt;strong&gt;全部二十支参赛队伍中，已经有十八支正式确定，其中包含了LGD、RNG和Aster三支国内战队。&lt;/strong&gt;这三支战队中，LGD和Aster与OG，雪碧（TS），BC，TA，BOOM，TSM，TE，GG，EG以及FNC一样，是通过DPC积分排行榜夺得的小组赛资格。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于R星与GTA系列的粉丝来说，2022年的9月18日似乎注定会是颇为“独特”的一天。今天早些时候，&lt;strong&gt;GTAForums上的一位用户泄露了共计90个，总时长超50分钟的《GTA 6》实机片段，其中包含了大量游戏的相关内容。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [星愿浏览器被优酷起诉拦截广告判赔20万 创始人回应](https://www.cnbeta.com/articles/tech/1317603.htm) | Sun Sep 18 2022 8:04 AM 
+- 🎊 [男子网吧偷显卡现场百度怎么拆 学会后连窜多家网吧盗窃](https://hot.cnbeta.com/articles/funny/1317629.htm) | Sun Sep 18 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2020年4月13日，优酷因拦截视频广告问题起诉星愿浏览器不正当竞争，并索赔50万元。据星愿浏览器创始人透露，&lt;strong&gt;目前，优酷起诉星愿浏览器的二审判决已出，星愿浏览器公司需要赔偿优酷20万元（不包括其他费用）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月18日，浙江杭州，拱墅警方公布了一起网吧盗窃案。&lt;strong&gt;9月11日下午，祥符派出所接连接到两家网吧报警，称店内有多台电脑的显卡与内存条被盗，损失价值约6万元。&lt;/strong&gt;当日19时许，距离报警人报案仅4小时，民警在辖区一商场内将韩某成功抓获。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1317629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
