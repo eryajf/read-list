@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用错误边界&lpar;Error Boundary&rpar;的相关知识](https://juejin.cn/post/7144652395128029192) | Sun Sep 18 2022 9:40 AM 
+- 🤗 [Android性能优化 - 捕获java crash的那些事](https://juejin.cn/post/7144659801660719111) | Sun Sep 18 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-    部分 UI 的 JavaScript 错误不应该导致整个应用崩溃，为了解决这个问题，React 16 引入了错误边界的概念，用来捕获错误，并渲染降级UI以方便开发者使用。 
+    java crash我们天天见，捕获crash的方法也是大同小异，那么一个crash是如何产生的呢？我们从这篇文章来分析crash的产生以及捕获原理 
     </details> 
 
-- 🎡 [一个css属性就能这么好玩？](https://juejin.cn/post/7144651409546444837) | Sun Sep 18 2022 9:38 AM 
+- 🎡 [从《羊了个羊》看随机数的生成原理](https://juejin.cn/post/7144657168891920391) | Sun Sep 18 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-    在前端开发领域，css的地位举足轻重，在很多场景下，不管是动画效果还是交互的实现，很多开发者第一时间就是想到的通过JavaScript来实现，但是其实很多场景下css也可以完成非常多有意思的交互 
+    祝你是那0.1%的幸运儿，游戏如是，生活也如是。 ❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀ 
     </details> 
 
-- 🕯 [当面试官让我回答React和Vue框架的区别......](https://juejin.cn/post/7144648542472044558) | Sun Sep 18 2022 9:26 AM 
+- 🕯 [软考高级《系统架构设计师》论文之--可靠性设计 备考知识点](https://juejin.cn/post/7144655658866966535) | Sun Sep 18 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue 和 React 作为当前前端两大火热的框架，面试的时候自然不少被提及： 请说一下你对react/vue框架的理解 请对比一下两大框架的优缺点 其实react和vue大体上是相同的，比如都使用虚 
+    前言 可靠性设计，对于只有一些前端基础的我，真的是太友好了。如果论文出现可靠性设计和架构风格的题目，我一定会选这两个题目。 可靠性设计中需要准备的知识点 可靠性设计需要遵循的原则 软件可靠性设计是软件 
     </details> 
 
-- 🚀 [分布式算法---Paxos](https://juejin.cn/post/7144646806301835272) | Sun Sep 18 2022 9:19 AM 
+- 🚀 [码上掘金实现解析url](https://juejin.cn/post/7144654512794533925) | Sun Sep 18 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    0.参考链接 https://blog.openacid.com/algo/paxos/ http://icyfenix.cn/distribution/consensus/paxos.html 1. 
+    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 介绍 url参数的解析是工作和实际开发中常常用到的例子，因此我们是十分十分有必要动手实践掌握它，网上有许多的设计过程和例子，此处我将设计一个 
     </details> 
 
-- 💪 [源码学习-omit.js库【移除对象中的属性】](https://juejin.cn/post/7144644388574986277) | Sun Sep 18 2022 9:10 AM 
+- 💪 [详解 TS 中的子类型兼容性](https://juejin.cn/post/7144654082777546765) | Sun Sep 18 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
-    导读 本文参加了由公众号@若川视野 发起的每周源码共读活动，点击了解详情一起参与。 【若川视野 x 源码共读】第36期 | 可能是历史上最简单的一期omit.js 剔除对象中的属性点击了解本期详情一起 
+    本文讲的内容是 TypeScript 类型系统的内部工作方式与原理，掌握之后可以做到“在编码时将代码在你的大脑里面运行一遍，不用依赖于编译器的类型检查” 。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
