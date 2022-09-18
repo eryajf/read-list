@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android性能优化 - 捕获java crash的那些事](https://juejin.cn/post/7144659801660719111) | Sun Sep 18 2022 10:09 AM 
+- 🤗 [C 位出道按钮的自我独白](https://juejin.cn/post/7144705839805235207) | Sun Sep 18 2022 1:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    记住我的话：一定要及时反馈！及时反馈！及时反馈！点到我的时候，给他们的颜色瞧瞧！不要让人把我当木头！ 
+    </details> 
+
+- 🎡 [几个值得了解的 Git 操作](https://juejin.cn/post/7144705696142589960) | Sun Sep 18 2022 1:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    记录使用 Git 时一些可能不常用，但是值得了解的功能和命令。包括 git diff ,git patch 的了解。 
+    </details> 
+
+- 🕯 [面试突击84：Spring 有几种事务隔离级别？](https://juejin.cn/post/7144700895522111496) | Sun Sep 18 2022 12:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    Spring 中的事务隔离级别和数据库中的事务隔离级别稍有不同，以 MySQL 为例，MySQL 的 InnoDB 引擎中的事务隔离级别有 4 种，而 Spring 中却包含了 5 种事务隔离级别。 
+    </details> 
+
+- 🚀 [让项目顺利上线：做好转测试与上线准备](https://juejin.cn/post/7144699191225712676) | Sun Sep 18 2022 12:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    转测试 转测试是项目上线前最后一道坎，需求全部做完并自测后，项目就进入了转测试阶段。很多没想到的问题都会在这个阶段涌现出来，这个阶段大家都会很辛苦，通常都会加班加点。 
+    </details> 
+
+- 💪 [Android性能优化 - 捕获java crash的那些事](https://juejin.cn/post/7144659801660719111) | Sun Sep 18 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
     java crash我们天天见，捕获crash的方法也是大同小异，那么一个crash是如何产生的呢？我们从这篇文章来分析crash的产生以及捕获原理 
-    </details> 
-
-- 🎡 [从《羊了个羊》看随机数的生成原理](https://juejin.cn/post/7144657168891920391) | Sun Sep 18 2022 10:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    祝你是那0.1%的幸运儿，游戏如是，生活也如是。 ❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀ 
-    </details> 
-
-- 🕯 [软考高级《系统架构设计师》论文之--可靠性设计 备考知识点](https://juejin.cn/post/7144655658866966535) | Sun Sep 18 2022 9:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 可靠性设计，对于只有一些前端基础的我，真的是太友好了。如果论文出现可靠性设计和架构风格的题目，我一定会选这两个题目。 可靠性设计中需要准备的知识点 可靠性设计需要遵循的原则 软件可靠性设计是软件 
-    </details> 
-
-- 🚀 [码上掘金实现解析url](https://juejin.cn/post/7144654512794533925) | Sun Sep 18 2022 9:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 介绍 url参数的解析是工作和实际开发中常常用到的例子，因此我们是十分十分有必要动手实践掌握它，网上有许多的设计过程和例子，此处我将设计一个 
-    </details> 
-
-- 💪 [详解 TS 中的子类型兼容性](https://juejin.cn/post/7144654082777546765) | Sun Sep 18 2022 9:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文讲的内容是 TypeScript 类型系统的内部工作方式与原理，掌握之后可以做到“在编码时将代码在你的大脑里面运行一遍，不用依赖于编译器的类型检查” 。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
