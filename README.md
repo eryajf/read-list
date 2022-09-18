@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [C 位出道按钮的自我独白](https://juejin.cn/post/7144705839805235207) | Sun Sep 18 2022 1:08 PM 
+- 🤗 [CSS如何实现简单三角形呢，原理又是啥，一起来探讨探讨吧](https://juejin.cn/post/7144716198171639821) | Sun Sep 18 2022 1:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、前言 在前端开发的时候，我们有时候会需要用到一个三角形的形状，比如地址选择或者播放器里面播放按钮 通常情况下，我们会使用图片或者svg去完成三角形效果图，但如果单纯使用css如何完成一个三角形呢？ 
+    </details> 
+
+- 🎡 [发布 Android library 到 Maven 解惑](https://juejin.cn/post/7144712912521658382) | Sun Sep 18 2022 1:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    了解一下将 Android library 发布到中央仓库的过程中关于一些细节的疑惑。比如我们到底发布了啥？只有 xxx.aar 文件吗？代码中依赖的三方库又是怎么处理的？ 
+    </details> 
+
+- 🕯 [requests v0.2.0 源码解析](https://juejin.cn/post/7144710507302223908) | Sun Sep 18 2022 1:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习 request 库有助于理解 HTTP 请求的处理流程，包括 Web 开发、测试、爬虫等多领域中都有使用。 
+    </details> 
+
+- 🚀 [C 位出道按钮的自我独白](https://juejin.cn/post/7144705839805235207) | Sun Sep 18 2022 1:08 PM 
     <details><summary>展开描述 ...</summary> 
     记住我的话：一定要及时反馈！及时反馈！及时反馈！点到我的时候，给他们的颜色瞧瞧！不要让人把我当木头！ 
     </details> 
 
-- 🎡 [几个值得了解的 Git 操作](https://juejin.cn/post/7144705696142589960) | Sun Sep 18 2022 1:08 PM 
+- 💪 [几个值得了解的 Git 操作](https://juejin.cn/post/7144705696142589960) | Sun Sep 18 2022 1:08 PM 
     <details><summary>展开描述 ...</summary> 
     记录使用 Git 时一些可能不常用，但是值得了解的功能和命令。包括 git diff ,git patch 的了解。 
-    </details> 
-
-- 🕯 [面试突击84：Spring 有几种事务隔离级别？](https://juejin.cn/post/7144700895522111496) | Sun Sep 18 2022 12:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    Spring 中的事务隔离级别和数据库中的事务隔离级别稍有不同，以 MySQL 为例，MySQL 的 InnoDB 引擎中的事务隔离级别有 4 种，而 Spring 中却包含了 5 种事务隔离级别。 
-    </details> 
-
-- 🚀 [让项目顺利上线：做好转测试与上线准备](https://juejin.cn/post/7144699191225712676) | Sun Sep 18 2022 12:42 PM 
-    <details><summary>展开描述 ...</summary> 
-    转测试 转测试是项目上线前最后一道坎，需求全部做完并自测后，项目就进入了转测试阶段。很多没想到的问题都会在这个阶段涌现出来，这个阶段大家都会很辛苦，通常都会加班加点。 
-    </details> 
-
-- 💪 [Android性能优化 - 捕获java crash的那些事](https://juejin.cn/post/7144659801660719111) | Sun Sep 18 2022 10:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    java crash我们天天见，捕获crash的方法也是大同小异，那么一个crash是如何产生的呢？我们从这篇文章来分析crash的产生以及捕获原理 
     </details> 
 <!-- juejin:END -->
 ### 少数派
