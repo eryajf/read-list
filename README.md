@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [染色体数目最多的多细胞生物是__？填补DNA测序工程绿色生命谱系里最后的空白](http://jandan.net/p/111269) | Sat Sep 17 2022 9:33 AM 
+- 🚀 [越南情侣黑客找乐子，删掉了洲际酒店集团的数据库](http://jandan.net/p/111358) | Sun Sep 18 2022 3:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    “我们并不感到内疚，真的。我们想要在越南找一份合法工作，但平均工资是每月300美元，呵。” 
+    </details> 
+
+- 🙉 [今日带货：G7纯黑咖啡](http://jandan.net/p/111360) | Sun Sep 18 2022 3:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    方便又好喝 
+    </details> 
+
+- 🎉 [染色体数目最多的多细胞生物是__？填补DNA测序工程绿色生命谱系里最后的空白](http://jandan.net/p/111269) | Sat Sep 17 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     同时推翻了一个植物学教科书上的经典假说 
     </details> 
 
-- 🙉 [比起智能手机，使用笔记本电脑时，人们更愿意为了个人利益而撒谎](http://jandan.net/p/111347) | Sat Sep 17 2022 9:33 AM 
+- 🐲 [比起智能手机，使用笔记本电脑时，人们更愿意为了个人利益而撒谎](http://jandan.net/p/111347) | Sat Sep 17 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     数码设备可能对日常决策和道德标准产生的无意识干扰。 
     </details> 
 
-- 🎉 [澳大利亚 批准了两项子宫移植手术](http://jandan.net/p/111355) | Sat Sep 17 2022 4:35 AM 
+-  [澳大利亚 批准了两项子宫移植手术](http://jandan.net/p/111355) | Sat Sep 17 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
     在成为主流临床疗法之前，必须解决所涉及的风险和伦理问题。 
-    </details> 
-
-- 🐲 [今日带货：旭包鲜垃圾袋](http://jandan.net/p/111354) | Sat Sep 17 2022 3:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：45 
-    </details> 
-
--  [脑力小体操 烧脑的兵球集训结果](http://jandan.net/p/111293) | Fri Sep 16 2022 11:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    zsbd 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
