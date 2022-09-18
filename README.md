@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果调查iPhone 14 Pro机型在备份数据传输后卡死的问题](https://www.cnbeta.com/articles/tech/1317659.htm) | Sun Sep 18 2022 3:06 PM 
+- 🕯 [台湾花莲6.8级强震：羽毛球馆天花板如雨砸下 众人撒腿逃生](https://www.cnbeta.com/articles/tech/1317663.htm) | Sun Sep 18 2022 6:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据中国地震台网正式测定，9月18日14时44分，在台湾花莲县（北纬23.15度，东经121.30度）发生6.9级地震，震源深度10千米。&lt;strong&gt;9月17日晚21点41分到9月18日17点41分，花莲县及附近共发生4.0级及以上地震15次，都是同一区域的震群活动，包括2次六级地震、4次五级地震、9次四级地震。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [彭博社：已向R星求证 《GTA6》泄露事件为真](https://hot.cnbeta.com/articles/game/1317661.htm) | Sun Sep 18 2022 6:24 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天我们报道了《GTA6》被泄露至网上的消息，有一段长达53分钟的视频在网上流传，据彭博社Jason Schreier确认，该视频确实是《GTA6》。彭博社Jason Schreier在推特上表示，他们已经向R星求证，本周泄露的《GTA6》事件是真实的，这段视频是R星早期制作尚未完成的片段。当然，此次泄露将作为游戏史上最大泄露事件之一，也是R星的噩梦。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果调查iPhone 14 Pro机型在备份数据传输后卡死的问题](https://www.cnbeta.com/articles/tech/1317659.htm) | Sun Sep 18 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p style=&quot;text-align: left;&quot;&gt;苹果公司今天在一份内部备忘录中说，该公司正在调查一个可能导致iPhone 14 Pro和iPhone 14 Pro Max型号在客户从旧版iPhone转移数据后卡死的错误。在备忘录中，苹果公司表示，它&amp;quot;意识到这个问题的发生，正在进行调查&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [灵动岛功能预计将扩展到所有的iPhone 15型号](https://www.cnbeta.com/articles/tech/1317657.htm) | Sun Sep 18 2022 2:36 PM 
+- 🚀 [灵动岛功能预计将扩展到所有的iPhone 15型号](https://www.cnbeta.com/articles/tech/1317657.htm) | Sun Sep 18 2022 2:36 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;显示器行业分析师Ross Young称，苹果计划将灵动岛扩展到明年发布的所有四款iPhone 15机型。该功能目前只适用于iPhone 14 Pro和iPhone 14 Pro Max。在一条推文中Young表示，他预计灵动岛将在明年的标准iPhone 15机型上推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NUC 12发烧版迷你机用上Intel独立显卡：16GB+1TB 1.36万元](https://www.cnbeta.com/articles/tech/1317655.htm) | Sun Sep 18 2022 2:34 PM 
+- 🎊 [NUC 12发烧版迷你机用上Intel独立显卡：16GB+1TB 1.36万元](https://www.cnbeta.com/articles/tech/1317655.htm) | Sun Sep 18 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Intel NUC 12迷你机家族今天再添新员，NUC 12 Enthusiast，代号“Serpent Canyon”，首次使用了Intel Arc A系列移动版独立显卡。这也是Intel第四款基于12代酷睿平台的NUC产品，之前三款分别是：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [台湾省花莲县发生6.9级地震：大桥断成数截 民众卡桥中央](https://www.cnbeta.com/articles/tech/1317653.htm) | Sun Sep 18 2022 2:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月18日，我国台湾省花莲县发生6.9级地震，牵动人心。除了台湾本岛震感强烈，福建、广东、江苏、浙江、上海等沿海地区也震感明显。据介绍，这是一次典型的震群型地震，也就是存在数个震级接近的较强地震，而没有突出主震，而且&lt;strong&gt;此次震群很活跃，截至目前已发生2次六级地震、4次五级地震、9次四级地震。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [特斯拉仍希望今年在德国的汽车销量翻一番 工厂扩建计划已被搁置](https://www.cnbeta.com/articles/tech/1317651.htm) | Sun Sep 18 2022 2:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉公司希望今年在德国的汽车销量翻一番，达到80000辆。据统计，2021年特斯拉在德国销售了39714辆汽车，并将继续以每年翻一番的出货量作为生产目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
