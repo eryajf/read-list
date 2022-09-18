@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [锁屏启动 - 超好用 iOS16 锁屏小组件！iPhone 一键打开健康码 / 行程卡 / 收付款码等](https://www.iplaysoft.com/locklauncher.html) | Thu Sep 15 2022 11:14 AM
-- 🧑‍🏫 [开学季打折：MarginNote / 白描 / TextSeek / CareUEyes 等软件 6 折起](https://www.iplaysoft.com/news/5771) | Wed Sep 14 2022 1:25 PM
-- 🥰 [iOS 16 正式版新功能汇总 - 这次有哪些值得升级的点？](https://www.iplaysoft.com/p/ios16-features) | Tue Sep 13 2022 5:26 AM
-- 💻 [苹果最新 iOS 16 正式版 / iPadOS 固件 IPSW 全套官方下载地址 &lpar;升级 iPhone iPad 系统&rpar;](https://www.iplaysoft.com/ios.html) | Tue Sep 13 2022 5:03 AM
-- 🎃 [经典神器复活！WinAMP - 本地音乐播放器昔日王者更新 &lpar;支持 Win11&rpar;](https://www.iplaysoft.com/p/winamp) | Mon Sep 12 2022 11:49 AM<!-- iplaysoft:END -->
+- 🧐 [苹果 QQ for Mac 全新体验版下载 - 新一代架构重构版 &lpar;音视频通话/深色模式/实况文本等&rpar;](https://www.iplaysoft.com/qq-for-mac.html) | Sun Sep 18 2022 11:02 AM
+- 🧑‍🏫 [锁屏启动 - 超好用 iOS16 锁屏小组件！iPhone 一键打开健康码 / 行程卡 / 收付款码等](https://www.iplaysoft.com/locklauncher.html) | Thu Sep 15 2022 11:14 AM
+- 🥰 [开学季打折：MarginNote / 白描 / TextSeek / CareUEyes 等软件 6 折起](https://www.iplaysoft.com/news/5771) | Wed Sep 14 2022 1:25 PM
+- 💻 [iOS 16 正式版新功能汇总 - 这次有哪些值得升级的点？](https://www.iplaysoft.com/p/ios16-features) | Tue Sep 13 2022 5:26 AM
+- 🎃 [苹果最新 iOS 16 正式版 / iPadOS 固件 IPSW 全套官方下载地址 &lpar;升级 iPhone iPad 系统&rpar;](https://www.iplaysoft.com/ios.html) | Tue Sep 13 2022 5:03 AM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
