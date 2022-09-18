@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter - 桌面应用窗口化实战](https://juejin.cn/post/7144602729044770847) | Sun Sep 18 2022 6:30 AM 
+- 🤗 [聊一聊浏览器打印 - window.print](https://juejin.cn/post/7144625142876864525) | Sun Sep 18 2022 7:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    浏览器原生 API window.print。一般信息填写类的需求页面，都会增设「预览」和「打印」功能。我们会通过编写 DOM 及样式来绘制出预览视图，而打印则是基于预览来生成 PDF 文件。 
+    </details> 
+
+- 🎡 [Flutter - 桌面应用窗口化实战](https://juejin.cn/post/7144602729044770847) | Sun Sep 18 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     长篇幅的实战记录，手把手编写成熟的Flutter桌面应用窗口框架，让开发者无需再关系原生配置，专心写Flutter UI~ 内容不难但绝对干货，Flutter桌面应用开发入门必看哦！ 
     </details> 
 
-- 🎡 [『 禁止吸烟🚭』纯 CSS 实现 | 禁烟也能做的这么酷炫](https://juejin.cn/post/7144602974759682084) | Sun Sep 18 2022 6:30 AM 
+- 🕯 [『 禁止吸烟🚭』纯 CSS 实现 | 禁烟也能做的这么酷炫](https://juejin.cn/post/7144602974759682084) | Sun Sep 18 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 前言 老婆之前说，如果我抽烟，当初就不会要我，幸好我是一个对烟味极度厌恶的人，虽然曾经年少无知也玩过几根烟，但是对于烟味的排斥致使我最终没有 
     </details> 
 
-- 🕯 [全职学习三年React源码是什么体验](https://juejin.cn/post/7144582013482172452) | Sun Sep 18 2022 5:11 AM 
+- 🚀 [全职学习三年React源码是什么体验](https://juejin.cn/post/7144582013482172452) | Sun Sep 18 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     细数起来，我学习React源码已经超过三年了，平常工作的大部分内容就是读和写React和React周边库源码，然后做成课程，接下来和大家分享下这三年的感受和收获。 
     </details> 
 
-- 🚀 [【云原生】Prometheus+Grafana on K8s 环境部署](https://juejin.cn/post/7144582466290843661) | Sun Sep 18 2022 5:11 AM 
+- 💪 [【云原生】Prometheus+Grafana on K8s 环境部署](https://juejin.cn/post/7144582466290843661) | Sun Sep 18 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     Prometheus 最开始是由 SoundCloud 开发的开源监控告警系统，是 Google BorgMon 监控系统的开源版本。在 2016 年，Prometheus 加入 CNCF，成为继 K 
-    </details> 
-
-- 💪 [结合对称加密、非对称加密浅析HTTPS协议](https://juejin.cn/post/7144569324869517326) | Sun Sep 18 2022 4:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    该篇文章通过结合部分大佬关于对称加密、非对称加密的赘述，从加密的角度来分析HTTPS和HTTP的不同，以及简单了解HTTPS的通信过程，用来普及HTTPS的基础知识~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
