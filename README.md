@@ -401,7 +401,7 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [[送码] 白描 App 推出 Windows 版，朝「最佳中文 OCR 识别工具」更进一步](https://sspai.com/post/75705) | Sun Sep 18 2022 3:03 AM 
+- 👹 [[送码]《白描》推出 Windows 版，朝「最佳中文 OCR 识别工具」更进一步](https://sspai.com/post/75705) | Sun Sep 18 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
     白描是一款简单好用的 OCR 文字识别与扫描工具，主要功能有提取图片中的文字、图片表格转 Excel、公式识别、文件扫描、身份证扫描、合成 PDF 等。现在，白描除了可以在手机上和网页上用，Windows 版本也正式发布。&lt;a href=&quot;https://sspai.com/post/75705&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
