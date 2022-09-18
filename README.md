@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [据说这是 gta6 部分一万行源码…](https://www.v2ex.com/t/881083#reply0) | Sun Sep 18 2022 12:22 PM
-- 🤗 [支付宝检测到 magisk 或者 root 后的机制是什么](https://www.v2ex.com/t/881082#reply3) | Sun Sep 18 2022 12:20 PM
-- 🎭 [找个项目做，手里有一些闲置资金。](https://www.v2ex.com/t/881080#reply0) | Sun Sep 18 2022 11:54 AM
-- 🥷 [用 Neovim 调试 RESTful 接口](https://www.v2ex.com/t/881079#reply0) | Sun Sep 18 2022 11:53 AM
-- 🐵 [filter minila 有一个按键有点卡该怎么办](https://www.v2ex.com/t/881076#reply2) | Sun Sep 18 2022 11:31 AM<!-- v2ex:END -->
+- 🥸 [如果想对经济、局势有一些自己的认识，应该阅读哪些书籍。](https://www.v2ex.com/t/881086#reply21) | Sun Sep 18 2022 12:39 PM
+- 🤗 [据说这是 gta6 部分一万行源码…](https://www.v2ex.com/t/881083#reply6) | Sun Sep 18 2022 12:22 PM
+- 🎭 [支付宝检测到 magisk 或者 root 后的机制是什么](https://www.v2ex.com/t/881082#reply5) | Sun Sep 18 2022 12:20 PM
+- 🥷 [找个项目做，手里有一些闲置资金。](https://www.v2ex.com/t/881080#reply1) | Sun Sep 18 2022 11:54 AM
+- 🐵 [用 Neovim 调试 RESTful 接口](https://www.v2ex.com/t/881079#reply0) | Sun Sep 18 2022 11:53 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
