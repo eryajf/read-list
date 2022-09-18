@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [bootmgr&lpar;即选择启动哪一个系统那个界面&rpar;设置为 zh-cn 后依然乱码?汉字显示为一堆口?缺了啥?](https://www.v2ex.com/t/881000#reply1) | Sun Sep 18 2022 4:25 AM
-- 🤗 [VirtualBox 的虚拟机能克隆到实体电脑上吗？](https://www.v2ex.com/t/880997#reply9) | Sun Sep 18 2022 4:22 AM
-- 🎭 [WebServer 项目端口放行后浏览器 ERR_CONNECTION_REFUSED](https://www.v2ex.com/t/880994#reply0) | Sun Sep 18 2022 4:15 AM
-- 🥷 [共同盖楼分享那些 Linux 桌面环境应用](https://www.v2ex.com/t/880985#reply14) | Sun Sep 18 2022 3:51 AM
-- 🐵 [求推荐适合前端的 API Server/headless CMS](https://www.v2ex.com/t/880965#reply4) | Sun Sep 18 2022 2:20 AM<!-- v2ex:END -->
+- 🥸 [Linux c 编程问题请教，有没有什么简单的办法快速得到本机当前总的 cpu 负载？](https://www.v2ex.com/t/881020#reply0) | Sun Sep 18 2022 6:19 AM
+- 🤗 [终端监控脚本上传信息，后台有必要做 token 等验证么](https://www.v2ex.com/t/881015#reply0) | Sun Sep 18 2022 5:50 AM
+- 🎭 [bootmgr&lpar;即选择启动哪一个系统那个界面&rpar;设置为 zh-cn 后依然乱码?汉字显示为一堆口?缺了啥?](https://www.v2ex.com/t/881000#reply2) | Sun Sep 18 2022 4:25 AM
+- 🥷 [VirtualBox 的虚拟机能克隆到实体电脑上吗？](https://www.v2ex.com/t/880997#reply9) | Sun Sep 18 2022 4:22 AM
+- 🐵 [WebServer 项目端口放行后浏览器 ERR_CONNECTION_REFUSED](https://www.v2ex.com/t/880994#reply0) | Sun Sep 18 2022 4:15 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
