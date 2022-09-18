@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [台湾花莲县发生6.9级地震 专家称释放能量相当于8颗原子弹](https://www.cnbeta.com/articles/tech/1317637.htm) | Sun Sep 18 2022 10:13 AM 
+- 🕯 [《GTA6》泄密视频汇总 53分钟视频一览无余](https://hot.cnbeta.com/articles/game/1317643.htm) | Sun Sep 18 2022 12:02 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日《GTA6》出现重大泄密事故，泄密者将90段开发版实机游戏视频和一万行游戏代码上传至网络公开分享。此次泄露的《GTA6》视频分成90段，包含游戏的各个方面，因此在这段视频中我们将零散的视频整合为一个完整视频，方便玩家拖动观看。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [“千年虫”类问题再现：微软Outlook将让用户“穿越”至1930年](https://www.cnbeta.com/articles/tech/1317641.htm) | Sun Sep 18 2022 11:35 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;对于所有的计算机相关从业者与爱好者来说，20世纪末的“千年虫”都是颇为经典，并且极具警示意义的一个问题。所谓的“千年虫”是早期计算机软件设计使用两位数日期字段导致的逻辑问题，如果不进行修复，它将会在逻辑上将系统困死在2000年前，永远无法适应新世纪。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [台湾省莲花县发生6.9级地震 芯片又要涨价？台积电、联电等回应](https://www.cnbeta.com/articles/tech/1317639.htm) | Sun Sep 18 2022 11:33 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月18日消息，根据中国台湾地区气象部门信息显示，&lt;strong&gt;17日晚间9时41分至深夜11点33分，台东莲花县接连发生20起地震，都是浅层地震，震级最高为6.6级。18日下午2点44分，台东地区再度发生6.9级地震。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [台湾花莲县发生6.9级地震 专家称释放能量相当于8颗原子弹](https://www.cnbeta.com/articles/tech/1317637.htm) | Sun Sep 18 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据中国地震台网正式测定：&lt;strong&gt;9月17日21时41分，在中国台湾花莲县（北纬23.05度，东经121.21度）发生6.5级地震，震源深度10千米。&lt;/strong&gt;截止9月18日17时30分，当地又发生13次4.0级及以上地震，其中&lt;strong&gt;最大一次6.9级，发生于9月18日14时44分，震中位置北纬23.15度、东经121.30度，震源深度10千米。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [台风“南玛都”即将横扫日本全境 超5万家庭停电](https://www.cnbeta.com/articles/tech/1317635.htm) | Sun Sep 18 2022 10:13 AM 
+- 🎊 [台风“南玛都”即将横扫日本全境 超5万家庭停电](https://www.cnbeta.com/articles/tech/1317635.htm) | Sun Sep 18 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/tv/show/1034:4815056710598664?from=old_pc_videoshow&quot; target=&quot;_blank&quot;&gt;央视&lt;/a&gt;报道，目前今年第14号台风“南玛都”继续靠近日本九州地区鹿儿岛县。受台风影响，日本多地停电，交通中断。截至当地时间18日上午11点，鹿儿岛县、宫崎县等地共计超过5万户停电。此外，九州地区出发及抵达航班至少510架次停航；九州新干线等多条线路区间停运。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [德普诉希尔德案将被拍成电影 网友：会有对打镜头吗？](https://hot.cnbeta.com/articles/movie/1317633.htm) | Sun Sep 18 2022 10:12 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据新浪娱乐消息，外媒称约翰尼·德普与艾梅柏·希尔德的官司已被翻拍为电影《热点：德普与艾梅柏的审判》。据悉，此部电影将由由马克·哈普卡饰演德普，梅根·戴维斯饰演艾梅柏，将于9月30日上线流媒体。视频网站首席内容官表示，该影片将展示数百万观众在这个夏天看到的关于他俩的头条新闻。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [不仅有实机画面 黑客称将放出《GTA 6》测试开发版游戏](https://hot.cnbeta.com/articles/game/1317631.htm) | Sun Sep 18 2022 10:12 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于R星与GTA系列的粉丝来说，2022年的9月18日似乎注定会是颇为“独特”的一天。今天早些时候，&lt;strong&gt;GTAForums上的一位用户泄露了共计90个，总时长超50分钟的《GTA 6》实机片段，其中包含了大量游戏的相关内容。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [男子网吧偷显卡现场百度怎么拆 学会后连窜多家网吧盗窃](https://hot.cnbeta.com/articles/funny/1317629.htm) | Sun Sep 18 2022 10:11 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月18日，浙江杭州，拱墅警方公布了一起网吧盗窃案。&lt;strong&gt;9月11日下午，祥符派出所接连接到两家网吧报警，称店内有多台电脑的显卡与内存条被盗，损失价值约6万元。&lt;/strong&gt;当日19时许，距离报警人报案仅4小时，民警在辖区一商场内将韩某成功抓获。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1317629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
