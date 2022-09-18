@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [以太坊合并后GPU挖矿面临黑暗时代 没有人能赚到钱](https://www.cnbeta.com/articles/tech/1317591.htm) | Sun Sep 18 2022 7:17 AM 
+- 🕯 [《索尼克：未知边境》实机演示 11月8日登陆全平台](https://hot.cnbeta.com/articles/game/1317611.htm) | Sun Sep 18 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;想用你的PC显卡挖掘加密货币吗？不用麻烦了。在以太坊合并之后，基于GPU的所有加密货币挖矿现在基本上无利可图，至少现在是这样。本周四上午，以太坊--最有利可图的可挖掘加密货币之一--最终淘汰了基于GPU的采矿，这将有助于减少其能源消耗。&lt;strong&gt;但是，对于那些专注于以太坊作为主要利润来源的加密货币矿工来说，这一过渡是个坏消息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;世嘉旗下全新作《索尼克：未知边境》在东京电玩展上公布了全新的实机试玩演示，依旧的高速度流畅游戏过程，一起来感受下。本作预计在11月8日正式发售，登陆Xbox Series X|S、Xbox One、PS5、PS4、Switch和PC。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美国国土安全部将耗资近70万美元调查&quot;游戏中的激进行为&quot;](https://hot.cnbeta.com/articles/game/1317589.htm) | Sun Sep 18 2022 7:13 AM 
+- 💼 [标志性部分开始重建 巴黎圣母院有望2024年开放](https://www.cnbeta.com/articles/tech/1317609.htm) | Sun Sep 18 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;国土安全部向恐怖主义和安全研究人员提供了一笔699763美元的拨款，用于研究极端主义和游戏的重叠部分。&lt;/strong&gt;&amp;quot;在过去的十年中，电子游戏越来越成为青少年和年轻成年人社会活动和身份创造的焦点。在游戏生态系统中建立和培养的关系经常跨越到现实世界，并成为当地社区有影响的部分，&amp;quot;国土安全部网站上的拨款公告说。&amp;quot;相应地，极端分子利用电子游戏和目标电子游戏社区开展从宣传创造到恐怖分子动员和培训的活动。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间9月16号，法国巴黎圣母院修复项目负责人宣布，他们已经开始了尖塔及下面的木质框架等巴黎圣母院最具标志性部分的重建工程，修复现场也将首次向公众开放。据介绍，为了重建巴黎圣母院的尖塔及其下面的木制框架，建筑工人们架设了高达100米、重约600吨的脚手架。按计划，人们将在2023年重新看到尖塔耸立在巴黎的天空中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [麻省理工学院研究人员称自闭症研究倾向于排除女性样本](https://www.cnbeta.com/articles/science/1317587.htm) | Sun Sep 18 2022 7:08 AM 
+- 💂 [中国电信：本次火灾事故预计不会对公司生产经营、财务指标产生重大影响](https://www.cnbeta.com/articles/tech/1317607.htm) | Sun Sep 18 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近年来，研究自闭症的研究人员已经努力将更多的妇女和女孩纳入他们的研究中。然而，尽管有这些努力，麻省理工学院的一项新研究发现，大多数关于自闭症的研究一直在招募少量的女性受试者或完全排除她们。根据研究结果，&lt;strong&gt;一个常用于确定自闭症研究资格的筛选测试一直在筛选出比男性高得多的女性。这就形成了一个&amp;quot;泄漏管道&amp;quot;，导致女性在自闭症研究中的代表性严重不足。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国电信公告，长沙分公司第二通信楼楼体外立面起火，2022年9月16日16时30分，楼体明火被扑灭，火灾没有造成人员伤亡，起火原因正在调查中。火灾发生后，中国电信股份有限公司立即启动应急预案，积极配合相关部门组织灭火工作，公司领导赶赴现场组织处理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉搞促销，惹怒了谁？](https://www.cnbeta.com/articles/tech/1317585.htm) | Sun Sep 18 2022 7:04 AM 
+- 🚀 [《DOTA 2》TI 11预选赛结束：LGD等国内战队打进小组赛](https://hot.cnbeta.com/articles/game/1317605.htm) | Sun Sep 18 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;“还我8000”&lt;/strong&gt;——这是一位网友在特斯拉官方微博评论区的留言。事情由来是这样的。9月16日，一封内部邮件显示，自2022年9月16日起至2022年9月30日之间交付的所有全新、展车以及非全新Model 3及Model Y的车主，若选择购买我司店内保险，且投保险种包含了交强险、车损险，将予以保险补贴8000元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，《DOTA 2》TI 11的预选赛终于落下帷幕，&lt;strong&gt;全部二十支参赛队伍中，已经有十八支正式确定，其中包含了LGD、RNG和Aster三支国内战队。&lt;/strong&gt;这三支战队中，LGD和Aster与OG，雪碧（TS），BC，TA，BOOM，TSM，TE，GG，EG以及FNC一样，是通过DPC积分排行榜夺得的小组赛资格。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [首批用户吐槽iPhone 14 Pro后盖不耐划：才用一天就已经大花脸](https://www.cnbeta.com/articles/tech/1317583.htm) | Sun Sep 18 2022 7:04 AM 
+- 🎊 [星愿浏览器被优酷起诉拦截广告判赔20万 创始人回应](https://www.cnbeta.com/articles/tech/1317603.htm) | Sun Sep 18 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;满打满算，iPhone 14 Pro到用户手里才两天时间，可是居然已经被发现“通病”了。多位数码博主发现，&lt;strong&gt;今年的iPhone 14 Pro/Pro Max的后背似乎特别容易刮花。在广州、深圳的直营店，一些摆上架才一天的展示机，背面已经出现了很多擦拭不掉、肉眼可见的痕迹。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2020年4月13日，优酷因拦截视频广告问题起诉星愿浏览器不正当竞争，并索赔50万元。据星愿浏览器创始人透露，&lt;strong&gt;目前，优酷起诉星愿浏览器的二审判决已出，星愿浏览器公司需要赔偿优酷20万元（不包括其他费用）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
