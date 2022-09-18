@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《GTA6》泄密视频汇总 53分钟视频一览无余](https://hot.cnbeta.com/articles/game/1317643.htm) | Sun Sep 18 2022 12:02 PM 
+- 🕯 [《GTA6》泄露视频曝光更多细节](https://hot.cnbeta.com/articles/game/1317649.htm) | Sun Sep 18 2022 1:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;根据泄露的《GTA6》视频，国外推主Okami Games总结了一些细节，现归纳如下：&lt;/p&gt;&lt;p&gt;女性主角叫露西亚（Lucia），男性主角叫Jason，他们的名字可在开发者菜单中看到&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《赛博朋克》动画热播 《2077》Steam销量第二](https://hot.cnbeta.com/articles/game/1317647.htm) | Sun Sep 18 2022 1:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;随着网飞动画《赛博朋克：边缘跑手》的热播，CDPR游戏《赛博朋克2077》也迎来了新一轮上线热潮。根据分析师Benji-Sales，《赛博朋克2077》Steam同时在线玩家峰值超过了7.7万。相比来说，上个月，该作Steam在线峰值只有1.8万。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [还在纠结iPhone 14和13？送你一份最详细购买建议](https://www.cnbeta.com/articles/tech/1317645.htm) | Sun Sep 18 2022 1:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在9月8日，苹果发布了旗下全新的iPhone 14、iPhone 14 Pro两个系列共计四款全新的手机产品。而目前，iPhone 14/14 Pro等一系列新品已经开售，苹果官方也对于去年发布的iPhone13/13 Pro 产品进行了调低价格等一系列的处理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《GTA6》泄密视频汇总 53分钟视频一览无余](https://hot.cnbeta.com/articles/game/1317643.htm) | Sun Sep 18 2022 12:02 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日《GTA6》出现重大泄密事故，泄密者将90段开发版实机游戏视频和一万行游戏代码上传至网络公开分享。此次泄露的《GTA6》视频分成90段，包含游戏的各个方面，因此在这段视频中我们将零散的视频整合为一个完整视频，方便玩家拖动观看。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“千年虫”类问题再现：微软Outlook将让用户“穿越”至1930年](https://www.cnbeta.com/articles/tech/1317641.htm) | Sun Sep 18 2022 11:35 AM 
+- 🎊 [“千年虫”类问题再现：微软Outlook将让用户“穿越”至1930年](https://www.cnbeta.com/articles/tech/1317641.htm) | Sun Sep 18 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;对于所有的计算机相关从业者与爱好者来说，20世纪末的“千年虫”都是颇为经典，并且极具警示意义的一个问题。所谓的“千年虫”是早期计算机软件设计使用两位数日期字段导致的逻辑问题，如果不进行修复，它将会在逻辑上将系统困死在2000年前，永远无法适应新世纪。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [台湾省莲花县发生6.9级地震 芯片又要涨价？台积电、联电等回应](https://www.cnbeta.com/articles/tech/1317639.htm) | Sun Sep 18 2022 11:33 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月18日消息，根据中国台湾地区气象部门信息显示，&lt;strong&gt;17日晚间9时41分至深夜11点33分，台东莲花县接连发生20起地震，都是浅层地震，震级最高为6.6级。18日下午2点44分，台东地区再度发生6.9级地震。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [台湾花莲县发生6.9级地震 专家称释放能量相当于8颗原子弹](https://www.cnbeta.com/articles/tech/1317637.htm) | Sun Sep 18 2022 10:13 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中国地震台网正式测定：&lt;strong&gt;9月17日21时41分，在中国台湾花莲县（北纬23.05度，东经121.21度）发生6.5级地震，震源深度10千米。&lt;/strong&gt;截止9月18日17时30分，当地又发生13次4.0级及以上地震，其中&lt;strong&gt;最大一次6.9级，发生于9月18日14时44分，震中位置北纬23.15度、东经121.30度，震源深度10千米。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [台风“南玛都”即将横扫日本全境 超5万家庭停电](https://www.cnbeta.com/articles/tech/1317635.htm) | Sun Sep 18 2022 10:13 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/tv/show/1034:4815056710598664?from=old_pc_videoshow&quot; target=&quot;_blank&quot;&gt;央视&lt;/a&gt;报道，目前今年第14号台风“南玛都”继续靠近日本九州地区鹿儿岛县。受台风影响，日本多地停电，交通中断。截至当地时间18日上午11点，鹿儿岛县、宫崎县等地共计超过5万户停电。此外，九州地区出发及抵达航班至少510架次停航；九州新干线等多条线路区间停运。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
