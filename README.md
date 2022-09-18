@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [GamerPower &lpar;Mobile&rpar; - 获得免费游戏和游戏内战利品](https://xinquji.com/posts/179601?utm_campaign=xinquji-rss) | Sun Sep 18 2022 6:20 AM 
+- 👀 [UI Design - UI 设计由设计爱好者用爱精心打造](https://xinquji.com/posts/179614?utm_campaign=xinquji-rss) | Mon Sep 19 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     获得免费游戏和游戏内战利品  
+     UI 设计由设计爱好者用爱精心打造  
     </details> 
 
-- 🥷 [Finclout - 用于投资的可货币化社交智能](https://xinquji.com/posts/179600?utm_campaign=xinquji-rss) | Sun Sep 18 2022 6:18 AM 
+- 🥷 [Blinqo - Chrome 扩展可模糊任何网站上的文本、图像、表格](https://xinquji.com/posts/179613?utm_campaign=xinquji-rss) | Mon Sep 19 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     用于投资的可货币化社交智能  
+     Chrome 扩展可模糊任何网站上的文本、图像、表格  
     </details> 
 
-- 💼 [Neon - 预测加密货币价格并获得奖励](https://xinquji.com/posts/179599?utm_campaign=xinquji-rss) | Sun Sep 18 2022 6:17 AM 
+- 💼 [ZoZo - 触手可及的 iPhone 和 iPad 键盘快捷键](https://xinquji.com/posts/179612?utm_campaign=xinquji-rss) | Mon Sep 19 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     预测加密货币价格并获得奖励  
+     触手可及的 iPhone 和 iPad 键盘快捷键  
     </details> 
 
-- 🦅 [One Connected - 连接专业人士](https://xinquji.com/posts/179598?utm_campaign=xinquji-rss) | Sun Sep 18 2022 6:16 AM 
+- 🦅 [Third Shippers - 实时查找开源智能合约](https://xinquji.com/posts/179611?utm_campaign=xinquji-rss) | Mon Sep 19 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     连接专业人士  
+     实时查找开源智能合约  
     </details> 
 
-- 😺 [Homeify - 重新构想房地产零售](https://xinquji.com/posts/179597?utm_campaign=xinquji-rss) | Sun Sep 18 2022 6:15 AM 
+- 😺 [GrammarBrain - 世界上最好的英语学习在线资源](https://xinquji.com/posts/179610?utm_campaign=xinquji-rss) | Mon Sep 19 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-     重新构想房地产零售  
+     世界上最好的英语学习在线资源  
     </details> 
 <!-- xinquji:END -->
