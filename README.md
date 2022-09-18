@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从0到1开发一个React组件库](https://juejin.cn/post/7144365208646418462) | Sat Sep 17 2022 3:06 PM 
+- 🤗 [nigix代理失败的排查过程-踩坑集锦 29（一周一更 补上周）](https://juejin.cn/post/7144500424274345992) | Sat Sep 17 2022 11:54 PM 
     <details><summary>展开描述 ...</summary> 
-    当开发的项目中有一些公共组件可以沉淀的时候，将这些组件抽离出来，开发一个组件库无疑是一个好的选择。 那么怎么去开发一个组件库呢？本文将和你一起从零开发一个 React 组件库。 
+    背景 在刚开始迁移的过程中，由于经常进⾏部署实验，需要⽅便进⾏dns解析更换IP的操作，在预发布域名解析中申请了七层负载均衡的vip，通过vip来调整具体的解析ip 问题 这时问题就发⽣了，在后⼀个版 
     </details> 
 
-- 🎡 [Spring Boot发送QQ邮件](https://juejin.cn/post/7144345671955382303) | Sat Sep 17 2022 1:50 PM 
+- 🎡 [Fabric.js 使用图片遮盖画布（前景图）](https://juejin.cn/post/7144492044658933774) | Sat Sep 17 2022 11:32 PM 
     <details><summary>展开描述 ...</summary> 
-    对个人的一些小型应用来说，发送短信太贵、发送Push以来太多、钉钉、微信通知容易被忽略，只剩下邮箱是简单、免费、有效的通知方式了，如何在个人项目中支持发送邮件呢？ 
+    🎴 fabric.js 的前景图可以从视觉上覆盖画布中其他元素。前景图的使用方式和前景色差不多，但要考虑的情况会比前景色多一丢丢~ 
     </details> 
 
-- 🕯 [parallelStream并行流性能-踩坑集锦 28（一周一更）](https://juejin.cn/post/7144336357320572959) | Sat Sep 17 2022 1:14 PM 
+- 🕯 [【前端也要开发App系列一&lpar;2022.09&rpar;】跨平台App的发展前景](https://juejin.cn/post/7144409503058886686) | Sat Sep 17 2022 6:19 PM 
     <details><summary>展开描述 ...</summary> 
-    背景 通过stream可以将一个普通的list，转化为流，然后就可以使用类似于管道的方式对list进行操作，假如我们把stream换成parallelStream 根据字面上的意思，流会从串行 变成并 
+    一觉醒来，发现QQ和百度贴吧已经放弃了flutter，采用原生的开发。这让笔者思考——App跨平台这条路是否能走得长远？于是笔者决定做一个长期追踪的系列，每4个月为一周期，来追踪各大厂App开发的技术 
     </details> 
 
-- 🚀 [Git中 fork, clone,branch之前的区别你真的都了解了吗](https://juejin.cn/post/7144331173185978375) | Sat Sep 17 2022 12:54 PM 
+- 🚀 [你听过BFF吗？淘系跟我们公司方案又有哪些区别](https://juejin.cn/post/7144408197695012871) | Sat Sep 17 2022 5:59 PM 
     <details><summary>展开描述 ...</summary> 
-    一、是什么 fork fork，英语翻译过来就是叉子，动词形式则是分叉，如下图，从左到右，一条直线变成多条直线 转到git仓库中，fork则可以代表分叉、克隆 出一个（仓库的）新拷贝 包含了原来的仓库 
+    BFF是一个门面，为了解决前端对接后端服务过多的问题，做到提高代码复用率，提高应对业务快速发展的需求 
     </details> 
 
-- 💪 [W-TinyLFU缓存淘汰策略](https://juejin.cn/post/7144327955353698334) | Sat Sep 17 2022 12:42 PM 
+- 💪 [Prometheus原理详解](https://juejin.cn/post/7144386829419020301) | Sat Sep 17 2022 4:30 PM 
     <details><summary>展开描述 ...</summary> 
-    W-TinyLFU是一种非常优秀的缓存淘汰策略，它综合的考虑了现实场景中可能会遇到的各种问题，具有能够提高缓存命中率的准入策略，带有LFU的基于频率的优点，还具备元素保鲜机制，同时还能保证低空间消耗。 
+    Prometheus 最开始是由 SoundCloud 开发的开源监控告警系统，是 Google BorgMon 监控系统的开源版本。在 2016 年，Prometheus 加入 CNCF，成为继 K 
     </details> 
 <!-- juejin:END -->
 ### 少数派
