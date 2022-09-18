@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [nigix代理失败的排查过程-踩坑集锦 29（一周一更 补上周）](https://juejin.cn/post/7144500424274345992) | Sat Sep 17 2022 11:54 PM 
+- 🤗 [2.开发与部署方式的演变](https://juejin.cn/post/7144566910326145055) | Sun Sep 18 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 在刚开始迁移的过程中，由于经常进⾏部署实验，需要⽅便进⾏dns解析更换IP的操作，在预发布域名解析中申请了七层负载均衡的vip，通过vip来调整具体的解析ip 问题 这时问题就发⽣了，在后⼀个版 
+    近年来，应用开发和部署发生了一些变化。这些变化是由两方面促成的，一方面是大型单体应用被拆解为更多小型的微服务，另一方面是应用程序运行所依赖的基础架构发生了变化。理解这些变化，将使我们更好的看到使用k8 
     </details> 
 
-- 🎡 [Fabric.js 使用图片遮盖画布（前景图）](https://juejin.cn/post/7144492044658933774) | Sat Sep 17 2022 11:32 PM 
+- 🎡 [Vue3 Hooks 模块化抽离](https://juejin.cn/post/7144566910221287460) | Sun Sep 18 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
-    🎴 fabric.js 的前景图可以从视觉上覆盖画布中其他元素。前景图的使用方式和前景色差不多，但要考虑的情况会比前景色多一丢丢~ 
+    Vue3中的Hooks 其实就是业务逻辑的抽离，跟Vue2中mixin 本质上是一样的：将当前组件的业务逻辑抽离到一个公共的文件中，提高逻辑复用性，让当前组件看起来更加清爽，不太一样的地方是我们封装h 
     </details> 
 
-- 🕯 [【前端也要开发App系列一&lpar;2022.09&rpar;】跨平台App的发展前景](https://juejin.cn/post/7144409503058886686) | Sat Sep 17 2022 6:19 PM 
+- 🕯 [JavaScript中异步与回调的基本概念及回调现象](https://juejin.cn/post/7144566087701495838) | Sun Sep 18 2022 4:07 AM 
     <details><summary>展开描述 ...</summary> 
-    一觉醒来，发现QQ和百度贴吧已经放弃了flutter，采用原生的开发。这让笔者思考——App跨平台这条路是否能走得长远？于是笔者决定做一个长期追踪的系列，每4个月为一周期，来追踪各大厂App开发的技术 
+    这篇文章主要介绍了JavaScript中异步与回调的基本概念，以及回调地狱现象,本文主要介绍了异步和回调的基本概念，二者是JavaScrip 
     </details> 
 
-- 🚀 [你听过BFF吗？淘系跟我们公司方案又有哪些区别](https://juejin.cn/post/7144408197695012871) | Sat Sep 17 2022 5:59 PM 
+- 🚀 [使用koa框架部署项目](https://juejin.cn/post/7144563657924575246) | Sun Sep 18 2022 3:57 AM 
     <details><summary>展开描述 ...</summary> 
-    BFF是一个门面，为了解决前端对接后端服务过多的问题，做到提高代码复用率，提高应对业务快速发展的需求 
+    将打包好的代码打包上线，并在nodejs中代理跨域 前端工程师完成开发流程，按照常规的做法，此时，运维会将我们的代码部署到阿里云的ngix服务上，对于我们而言，我们可以将其部署到本机的nodejs环境 
     </details> 
 
-- 💪 [Prometheus原理详解](https://juejin.cn/post/7144386829419020301) | Sat Sep 17 2022 4:30 PM 
+- 💪 [体验 Node.js 的 net 模块](https://juejin.cn/post/7144556689847500831) | Sun Sep 18 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    Prometheus 最开始是由 SoundCloud 开发的开源监控告警系统，是 Google BorgMon 监控系统的开源版本。在 2016 年，Prometheus 加入 CNCF，成为继 K 
+    体验 Node.js 中的 net 模块，实现简单的网络通信 net.createConnection&lpar;&rpar; net.createServer&lpar;&rpar; 
     </details> 
 <!-- juejin:END -->
 ### 少数派
