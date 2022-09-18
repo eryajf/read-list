@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《GTA6》泄露视频曝光更多细节](https://hot.cnbeta.com/articles/game/1317649.htm) | Sun Sep 18 2022 1:53 PM 
+- 🕯 [苹果调查iPhone 14 Pro机型在备份数据传输后卡死的问题](https://www.cnbeta.com/articles/tech/1317659.htm) | Sun Sep 18 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据泄露的《GTA6》视频，国外推主Okami Games总结了一些细节，现归纳如下：&lt;/p&gt;&lt;p&gt;女性主角叫露西亚（Lucia），男性主角叫Jason，他们的名字可在开发者菜单中看到&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-align: left;&quot;&gt;苹果公司今天在一份内部备忘录中说，该公司正在调查一个可能导致iPhone 14 Pro和iPhone 14 Pro Max型号在客户从旧版iPhone转移数据后卡死的错误。在备忘录中，苹果公司表示，它&amp;quot;意识到这个问题的发生，正在进行调查&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《赛博朋克》动画热播 《2077》Steam销量第二](https://hot.cnbeta.com/articles/game/1317647.htm) | Sun Sep 18 2022 1:52 PM 
+- 💼 [灵动岛功能预计将扩展到所有的iPhone 15型号](https://www.cnbeta.com/articles/tech/1317657.htm) | Sun Sep 18 2022 2:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着网飞动画《赛博朋克：边缘跑手》的热播，CDPR游戏《赛博朋克2077》也迎来了新一轮上线热潮。根据分析师Benji-Sales，《赛博朋克2077》Steam同时在线玩家峰值超过了7.7万。相比来说，上个月，该作Steam在线峰值只有1.8万。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;显示器行业分析师Ross Young称，苹果计划将灵动岛扩展到明年发布的所有四款iPhone 15机型。该功能目前只适用于iPhone 14 Pro和iPhone 14 Pro Max。在一条推文中Young表示，他预计灵动岛将在明年的标准iPhone 15机型上推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [还在纠结iPhone 14和13？送你一份最详细购买建议](https://www.cnbeta.com/articles/tech/1317645.htm) | Sun Sep 18 2022 1:45 PM 
+- 💂 [NUC 12发烧版迷你机用上Intel独立显卡：16GB+1TB 1.36万元](https://www.cnbeta.com/articles/tech/1317655.htm) | Sun Sep 18 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在9月8日，苹果发布了旗下全新的iPhone 14、iPhone 14 Pro两个系列共计四款全新的手机产品。而目前，iPhone 14/14 Pro等一系列新品已经开售，苹果官方也对于去年发布的iPhone13/13 Pro 产品进行了调低价格等一系列的处理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel NUC 12迷你机家族今天再添新员，NUC 12 Enthusiast，代号“Serpent Canyon”，首次使用了Intel Arc A系列移动版独立显卡。这也是Intel第四款基于12代酷睿平台的NUC产品，之前三款分别是：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《GTA6》泄密视频汇总 53分钟视频一览无余](https://hot.cnbeta.com/articles/game/1317643.htm) | Sun Sep 18 2022 12:02 PM 
+- 🚀 [台湾省花莲县发生6.9级地震：大桥断成数截 民众卡桥中央](https://www.cnbeta.com/articles/tech/1317653.htm) | Sun Sep 18 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日《GTA6》出现重大泄密事故，泄密者将90段开发版实机游戏视频和一万行游戏代码上传至网络公开分享。此次泄露的《GTA6》视频分成90段，包含游戏的各个方面，因此在这段视频中我们将零散的视频整合为一个完整视频，方便玩家拖动观看。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月18日，我国台湾省花莲县发生6.9级地震，牵动人心。除了台湾本岛震感强烈，福建、广东、江苏、浙江、上海等沿海地区也震感明显。据介绍，这是一次典型的震群型地震，也就是存在数个震级接近的较强地震，而没有突出主震，而且&lt;strong&gt;此次震群很活跃，截至目前已发生2次六级地震、4次五级地震、9次四级地震。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“千年虫”类问题再现：微软Outlook将让用户“穿越”至1930年](https://www.cnbeta.com/articles/tech/1317641.htm) | Sun Sep 18 2022 11:35 AM 
+- 🎊 [特斯拉仍希望今年在德国的汽车销量翻一番 工厂扩建计划已被搁置](https://www.cnbeta.com/articles/tech/1317651.htm) | Sun Sep 18 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于所有的计算机相关从业者与爱好者来说，20世纪末的“千年虫”都是颇为经典，并且极具警示意义的一个问题。所谓的“千年虫”是早期计算机软件设计使用两位数日期字段导致的逻辑问题，如果不进行修复，它将会在逻辑上将系统困死在2000年前，永远无法适应新世纪。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉公司希望今年在德国的汽车销量翻一番，达到80000辆。据统计，2021年特斯拉在德国销售了39714辆汽车，并将继续以每年翻一番的出货量作为生产目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
