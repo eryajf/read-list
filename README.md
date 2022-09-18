@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊一聊浏览器打印 - window.print](https://juejin.cn/post/7144625142876864525) | Sun Sep 18 2022 7:55 AM 
+- 🤗 [【kafka原理】 消费者偏移量__consumer_offsets_相关解析](https://juejin.cn/post/7144639667541901326) | Sun Sep 18 2022 8:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们在kafka的log文件中发现了还有很多以 __consumer_offsets_的文件夹；总共50个; 
+    </details> 
+
+- 🎡 [【kafka原理】kafka Log存储解析以及索引机制](https://juejin.cn/post/7144639084667863053) | Sun Sep 18 2022 8:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文设置到的配置项有 名称 描述 类型 默认 num.partitions topic的默认分区数int 
+    </details> 
+
+- 🕯 [JavaScript设计模式之基础知识](https://juejin.cn/post/7144636004199038983) | Sun Sep 18 2022 8:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    为了将要开始的设计模式介绍与应用，文章将对面向对象和几大设计原则做一个基础知识介绍，为后面的设计模式学习打好基础。 
+    </details> 
+
+- 🚀 [聊一聊浏览器打印 - window.print](https://juejin.cn/post/7144625142876864525) | Sun Sep 18 2022 7:55 AM 
     <details><summary>展开描述 ...</summary> 
     浏览器原生 API window.print。一般信息填写类的需求页面，都会增设「预览」和「打印」功能。我们会通过编写 DOM 及样式来绘制出预览视图，而打印则是基于预览来生成 PDF 文件。 
     </details> 
 
-- 🎡 [Flutter - 桌面应用窗口化实战](https://juejin.cn/post/7144602729044770847) | Sun Sep 18 2022 6:30 AM 
+- 💪 [面试回答：什么是负载均衡](https://juejin.cn/post/7144621706312613896) | Sun Sep 18 2022 7:42 AM 
     <details><summary>展开描述 ...</summary> 
-    长篇幅的实战记录，手把手编写成熟的Flutter桌面应用窗口框架，让开发者无需再关系原生配置，专心写Flutter UI~ 内容不难但绝对干货，Flutter桌面应用开发入门必看哦！ 
-    </details> 
-
-- 🕯 [『 禁止吸烟🚭』纯 CSS 实现 | 禁烟也能做的这么酷炫](https://juejin.cn/post/7144602974759682084) | Sun Sep 18 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 前言 老婆之前说，如果我抽烟，当初就不会要我，幸好我是一个对烟味极度厌恶的人，虽然曾经年少无知也玩过几根烟，但是对于烟味的排斥致使我最终没有 
-    </details> 
-
-- 🚀 [全职学习三年React源码是什么体验](https://juejin.cn/post/7144582013482172452) | Sun Sep 18 2022 5:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    细数起来，我学习React源码已经超过三年了，平常工作的大部分内容就是读和写React和React周边库源码，然后做成课程，接下来和大家分享下这三年的感受和收获。 
-    </details> 
-
-- 💪 [【云原生】Prometheus+Grafana on K8s 环境部署](https://juejin.cn/post/7144582466290843661) | Sun Sep 18 2022 5:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    Prometheus 最开始是由 SoundCloud 开发的开源监控告警系统，是 Google BorgMon 监控系统的开源版本。在 2016 年，Prometheus 加入 CNCF，成为继 K 
+    均衡，主要说的是均衡分配的，分配的是负载（工作任务或访问请求），在集群服务、网络连接、CPU、磁盘或其他的资源中进行分配。 主要目的是：达到最优化资源使用，最大吞吐率、最小化响应时间，完成高性能、高 
     </details> 
 <!-- juejin:END -->
 ### 少数派
