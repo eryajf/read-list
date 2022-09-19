@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [不用架构会怎么样？—— 在项目实战中探索架构演进（三）](https://juejin.cn/post/7144737172816412709) | Sun Sep 18 2022 3:11 PM 
+- 🤗 [发包之前你要了解的Peer Dependencies](https://juejin.cn/post/7144899802898104350) | Mon Sep 19 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    MVC, MVP, MVVM, MVI。看到这些眼花缭乱的架构，不禁想反问一句：“不使用架构，又会怎么样？” 
+    Dependencies Peer Dependencies 关于 这两者的判断， 如果你开发了一个库，要发包，那这个最好小小地区分一下。 
     </details> 
 
-- 🎡 [手把手教你如何通过Java给图片添加文字和图片水印](https://juejin.cn/post/7144724290779217957) | Sun Sep 18 2022 2:20 PM 
+- 🎡 [股票中 5 日均线&lpar;MA&rpar;你会画了？](https://juejin.cn/post/7144899255814062110) | Mon Sep 19 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将剖析多个技术方案来实现水印生成，包括文字水印和图片水印，详细讲述了关于水印的实现细节，并最终抉择出最优方案。 
+    我们可以通过调整滑动窗口，算出股票中的 5 日均线，可以通过移动平均过滤算法预测接下来一段时间的走势。这是一件很有趣的事情～ 
     </details> 
 
-- 🕯 [CSS如何实现简单三角形呢，原理又是啥，一起来探讨探讨吧](https://juejin.cn/post/7144716198171639821) | Sun Sep 18 2022 1:49 PM 
+- 🕯 [精读《State of CSS 2022》](https://juejin.cn/post/7144891812766253093) | Mon Sep 19 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    一、前言 在前端开发的时候，我们有时候会需要用到一个三角形的形状，比如地址选择或者播放器里面播放按钮 通常情况下，我们会使用图片或者svg去完成三角形效果图，但如果单纯使用css如何完成一个三角形呢？ 
+    本周读一读 State of CSS 2022 介绍的 CSS 特性。2022 已经支持的特性 @layer... 
     </details> 
 
-- 🚀 [发布 Android library 到 Maven 解惑](https://juejin.cn/post/7144712912521658382) | Sun Sep 18 2022 1:35 PM 
+- 🚀 [自动化升级项目版本号---python自动更新pom文件](https://juejin.cn/post/7144891740221079559) | Mon Sep 19 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    了解一下将 Android library 发布到中央仓库的过程中关于一些细节的疑惑。比如我们到底发布了啥？只有 xxx.aar 文件吗？代码中依赖的三方库又是怎么处理的？ 
+    项目越来越多，版本管理越来越麻烦,在项目上我使用 `maven version` 来进行版本管理。主要还是在分布式项目中模块众多的场景中使用，毕竟各个模块对外的版本需要保持统一 
     </details> 
 
-- 💪 [requests v0.2.0 源码解析](https://juejin.cn/post/7144710507302223908) | Sun Sep 18 2022 1:27 PM 
+- 💪 [vue-manage-system升级到vue3的开发总结](https://juejin.cn/post/7144891553071235103) | Mon Sep 19 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    学习 request 库有助于理解 HTTP 请求的处理流程，包括 Web 开发、测试、爬虫等多领域中都有使用。 
+    近期抽了点时间，对 vue-manage-system 这个项目进行了升级，从 vue2 升级到 vue3、 elementplus、vite、pinia、typescript。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
