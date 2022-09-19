@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google新款Nest无线路由器提前偷跑 支持Wi-Fi 6E 售价199.99美元](https://www.cnbeta.com/articles/tech/1317861.htm) | Mon Sep 19 2022 4:18 AM 
+- 🕯 [安全公司发警告：不要激活Edge、Chrome的增强拼写检查功能](https://www.cnbeta.com/articles/tech/1317905.htm) | Mon Sep 19 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年 6 月，有消息称 Google 正研发新型 Wi-Fi 6 路由器，而最新消息称该路由器在上市之后会叫做“Nest Wifi Pro”。该机已于 1 个月前通过 FCC 认证，&lt;strong&gt;电商平台 B&amp;amp;H 现在甚至以“Google Nest Wifi Pro 6E Router”的名称上线该产品页面。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果你正在使用Edge和Chrome的增强拼写检查功能，那么现在是时候放弃它们了，因为一份新报告显示，该功能实际上可以将你的表格数据发送到拥有上述浏览器的科技巨头那里。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14倒贴100元 苹果又成为“头号做空目标”](https://www.cnbeta.com/articles/tech/1317859.htm) | Mon Sep 19 2022 4:11 AM 
+- 💼 [研究：碳纳米管提高了“纳米仿生”细菌太阳能电池的效率](https://www.cnbeta.com/articles/science/1317903.htm) | Mon Sep 19 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;火不过三天……加价收的iPhone 14，亏100元倒贴出，倒卖苹果手机的黄牛党要哭了！9月16日，iPhone 14系列机型正式发售，和以往一样，“黄牛”们手提现货在门前蹲守，一边加价收购iPhone，另一边再翻倍售出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;瑞士洛桑联邦理工学院（EPFL）的工程师们发现了一种将碳纳米管插入光合细菌的方法，这大大提高了它们的电输出。&lt;/strong&gt;它们甚至在分裂时将这些纳米管传给它们的后代，该团队称之为“遗传纳米仿生学”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [埃及宣布上调苏伊士运河船舶通行费：最高15%](https://www.cnbeta.com/articles/tech/1317857.htm) | Mon Sep 19 2022 4:09 AM 
+- 💂 [盘点《海贼王》4大绝望时刻 一切恐惧源自火力不足](https://hot.cnbeta.com/articles/comic/1317901.htm) | Mon Sep 19 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;还记得去年被400米长的轮“长赐号”&lpar;EverGiven&rpar;搁浅导致堵死的苏伊士运河吗？据央视财经报道，&lt;strong&gt;埃及苏伊士运河管理局近日发表声明称，将于2023年1月上调苏伊士运河的船舶通行费。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;历经20多年奇妙冒险，《海贼王》终于迎来了最终章，在这漫长的冒险生涯中，一起来看看外媒选出的4大绝望时刻，是否也是当年的你心中所想？&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1317901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国火星探测成果丰硕](https://www.cnbeta.com/articles/science/1317855.htm) | Mon Sep 19 2022 4:08 AM 
+- 🚀 [德国啤酒因碳酸短缺而减产 这一状况或将持续](https://www.cnbeta.com/articles/tech/1317899.htm) | Mon Sep 19 2022 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据俄罗斯卫星社网站9月18日报道，据中国国家航天局探月与航天工程中心消息，截至9月15日，天问一号环绕器已在轨运行780多天，火星车累计行驶1921米，完成既定科学探测任务，获取原始科学探测数据1480GB。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据德新社18日报道，&lt;strong&gt;由于受到天然气价格高企等因素影响，德国目前出现了碳酸短缺。&lt;/strong&gt;从形成软饮料的气泡到产生啤酒从瓶中喷出的压力，都离不开碳酸，碳酸的形成需要利用化肥生产过程中产生的副产品二氧化碳。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [顺丰保价18000元的单子只赔500！顺丰客服：不是保多少赔多少](https://www.cnbeta.com/articles/tech/1317853.htm) | Mon Sep 19 2022 4:07 AM 
+- 🎊 [腾讯音乐旗下TME数藏近乎“停摆” 用户要求退款 回应：会妥善处理](https://www.cnbeta.com/articles/tech/1317897.htm) | Mon Sep 19 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;快递保价问题，难道不是客户根据自身货物价值缴纳保价费，然后承运方根据保价金额进行保价赔付吗？但是，顺丰快递近段时间，&lt;strong&gt;频频因为保价问题登上热搜。近日，客户王先生反映自己在顺丰寄了一件价值17000元的手办，因为价值昂贵就花108元做了18000元的保价。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在幻核发布“清退”公告后，腾讯音乐娱乐集团（以下简称“腾讯音乐”）旗下的TME数字藏品也处于近乎“停摆”的状态。&lt;/strong&gt;记者注意到， TME数字藏品在6月30日后就停止了发售更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
