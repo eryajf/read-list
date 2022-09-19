@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本月玩什么 | 斯普拉遁 3、最后生还者 第一部、NBA 2K23、FIFA 23](https://sspai.com/post/75766) | Mon Sep 19 2022 3:30 AM 
+- 👹 [Stream Deck 太贵了？触屏音箱也能成为你的直播助手](https://sspai.com/post/75789) | Mon Sep 19 2022 6:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    前几天看到时间线上latter21有晒Elgato的StreamDeck，感觉很炫酷自定义程度也很高就想买一个。我一查价格居然要一千多一个，太贵了买不起。然后我又看到「爱运动的数码君」有将小爱触屏音箱 ...&lt;a href=&quot;https://sspai.com/post/75789&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [本月玩什么 | 斯普拉遁 3、最后生还者 第一部、NBA 2K23、FIFA 23](https://sspai.com/post/75766) | Mon Sep 19 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     什么游戏五年不开张、开张吃五年？&lt;a href=&quot;https://sspai.com/post/75766&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：EVGA 终止与英伟达合作，英特尔将弃用奔腾和赛扬品牌等](https://sspai.com/post/75782) | Mon Sep 19 2022 12:47 AM 
+- 🤭 [派早报：EVGA 终止与英伟达合作，英特尔将弃用奔腾和赛扬品牌等](https://sspai.com/post/75782) | Mon Sep 19 2022 12:47 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事EVGA终止与英伟达的合作并退出显卡市场9月17日，知名显卡厂商EVGA的CEOAndrewHan露面YouTube频道GamersNexus，宣布正式终止与英伟达的合作关系，不会生 ...&lt;a href=&quot;https://sspai.com/post/75782&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [iOS 16 锁屏小组件怎么玩？不妨试试这些 App](https://sspai.com/post/75777) | Sun Sep 18 2022 6:54 AM 
+- 🥸 [iOS 16 锁屏小组件怎么玩？不妨试试这些 App](https://sspai.com/post/75777) | Sun Sep 18 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
     越来越多 App 适配了锁定屏幕小组件，我为大家搜集并整理了一些实用或者有趣的 App，希望可以给已经升级到 iOS 16 的朋友们一些参考。&lt;a href=&quot;https://sspai.com/post/75777&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [[送码]《白描》推出 Windows 版，朝「最佳中文 OCR 识别工具」更进一步](https://sspai.com/post/75705) | Sun Sep 18 2022 3:03 AM 
+- 🙉 [[送码]《白描》推出 Windows 版，朝「最佳中文 OCR 识别工具」更进一步](https://sspai.com/post/75705) | Sun Sep 18 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
     白描是一款简单好用的 OCR 文字识别与扫描工具，主要功能有提取图片中的文字、图片表格转 Excel、公式识别、文件扫描、身份证扫描、合成 PDF 等。现在，白描除了可以在手机上和网页上用，Windows 版本也正式发布。&lt;a href=&quot;https://sspai.com/post/75705&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [更新 watchOS 9 正式版后，这些功能值得一试](https://sspai.com/post/75744) | Sat Sep 17 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    经过多个版本的测试，watchOS9的正式版也于9月13日和AppleWatch用户正式见面。只要你的手表是AppleWatchSE、AppleWatchSeries4及更新的表款，那么就可以通过运行 ...&lt;a href=&quot;https://sspai.com/post/75744&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
