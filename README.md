@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [奔放的优雅：国标舞入坑指南](https://sspai.com/post/75746) | Mon Sep 19 2022 8:06 AM 
+- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/75818) | Mon Sep 19 2022 9:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75818&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [奔放的优雅：国标舞入坑指南](https://sspai.com/post/75746) | Mon Sep 19 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
     无论是现在小学阶段的素质教育还是大学阶段的体育课，总能看见「国标舞」的出现。可是这个「国标舞」究竟是什么？&lt;a href=&quot;https://sspai.com/post/75746&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [Stream Deck 太贵了？触屏音箱也能成为你的直播助手](https://sspai.com/post/75789) | Mon Sep 19 2022 6:31 AM 
+- 🤭 [Stream Deck 太贵了？触屏音箱也能成为你的直播助手](https://sspai.com/post/75789) | Mon Sep 19 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
     前几天看到时间线上latter21有晒Elgato的StreamDeck，感觉很炫酷自定义程度也很高就想买一个。我一查价格居然要一千多一个，太贵了买不起。然后我又看到「爱运动的数码君」有将小爱触屏音箱 ...&lt;a href=&quot;https://sspai.com/post/75789&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本月玩什么 | 斯普拉遁 3、最后生还者 第一部、NBA 2K23、FIFA 23](https://sspai.com/post/75766) | Mon Sep 19 2022 3:30 AM 
+- 🥸 [本月玩什么 | 斯普拉遁 3、最后生还者 第一部、NBA 2K23、FIFA 23](https://sspai.com/post/75766) | Mon Sep 19 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     什么游戏五年不开张、开张吃五年？&lt;a href=&quot;https://sspai.com/post/75766&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：EVGA 终止与英伟达合作，英特尔将弃用奔腾和赛扬品牌等](https://sspai.com/post/75782) | Mon Sep 19 2022 12:47 AM 
+- 🙉 [派早报：EVGA 终止与英伟达合作，英特尔将弃用奔腾和赛扬品牌等](https://sspai.com/post/75782) | Mon Sep 19 2022 12:47 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事EVGA终止与英伟达的合作并退出显卡市场9月17日，知名显卡厂商EVGA的CEOAndrewHan露面YouTube频道GamersNexus，宣布正式终止与英伟达的合作关系，不会生 ...&lt;a href=&quot;https://sspai.com/post/75782&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [iOS 16 锁屏小组件怎么玩？不妨试试这些 App](https://sspai.com/post/75777) | Sun Sep 18 2022 6:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    越来越多 App 适配了锁定屏幕小组件，我为大家搜集并整理了一些实用或者有趣的 App，希望可以给已经升级到 iOS 16 的朋友们一些参考。&lt;a href=&quot;https://sspai.com/post/75777&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
