@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [简单改变动物饲料可为10亿人提供食物](https://www.cnbeta.com/articles/science/1318127.htm) | Mon Sep 19 2022 5:47 PM 
+- 🕯 [iPhone 14和iPhone 14 Pro本周晚些时候在另外20多个国家和地区上市](https://www.cnbeta.com/articles/tech/1318133.htm) | Mon Sep 19 2022 7:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;iPhone 14、iPhone 14 Pro和iPhone 14 Pro Max将于9月23日在另外20多个国家和地区上市，包括马来西亚、土耳其、巴林、科威特、阿曼等。苹果公司没有提供这些国家的完整名单。在墨西哥，iPhone 14、iPhone 14 Pro和iPhone 14 Pro Max的预购将于9月23日开始，这些设备将于9月30日上市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [传闻索尼下一版PS5将继续瘦身 配备可拆卸光盘驱动器](https://www.cnbeta.com/articles/tech/1318131.htm) | Mon Sep 19 2022 6:59 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;索尼的PlayStation 5在本月早些时候发布的最新版本中减轻了重量，有传言说该控制台明年将加大力度继续瘦身。&lt;/strong&gt;根据Insider Gaming周一的一份报告，明年将出现一款更薄的PS5。据传，新主机不会安装光盘驱动器。相反，它将配备一个可拆卸的光盘驱动器，通过USB-C连接，以保持更纤细的机身。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [比特币一度失守19000美元 超13万人爆仓](https://www.cnbeta.com/articles/tech/1318129.htm) | Mon Sep 19 2022 6:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最近，“币圈”再现震动。9月19日，比特币价格盘中再次跌破19000美元关口。与2021年11月的历史高点67800美元相比，其价格已经累计下跌近70%。9月19日，比特币盘中再度跳水，一度跌破19000美元关口，最低跌至18215美元。与此同时，以太坊也一度跌破1300美元关口，至1276.61美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [简单改变动物饲料可为10亿人提供食物](https://www.cnbeta.com/articles/science/1318127.htm) | Mon Sep 19 2022 5:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;即使全世界有数百万人面临饥荒或营养不良的威胁，为牲畜和鱼类生产的饲料正在占用有限的自然资源，而这些资源本可用于为人们生产更多的食物。&lt;strong&gt;今天（9月19日）发表在《自然-食品》上的阿尔托大学的新研究表明，调整牲畜和鱼类的饲养方式可以维持生产，同时为人们提供更多的食物。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Pano AI公司将AI智能应用于野火探测中](https://www.cnbeta.com/articles/tech/1318125.htm) | Mon Sep 19 2022 5:34 PM 
+- 🎊 [Pano AI公司将AI智能应用于野火探测中](https://www.cnbeta.com/articles/tech/1318125.htm) | Mon Sep 19 2022 5:34 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;随着天气变得炎热和干燥，这些天事情变得有点紧张。虽然人类已经有可能对火灾进行警戒。但一个很大的挑战是，技术经常会出现问题，当技术检测到火灾时，它已经在失去控制的路上了。&lt;strong&gt;现在Pano AI公司正在将一些聪明的摄像机与人工智能技术结合起来，为灭火人员提供一个战斗的机会，以保证尽可能不发生火灾。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [投资元宇宙：是风口还是虎口？](https://www.cnbeta.com/articles/tech/1318123.htm) | Mon Sep 19 2022 5:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;元宇宙是近两年来的新兴概念，虚拟社交、数字藏品、VR游戏……被认为将是下一代互联网的元宇宙，究竟是风口还是虎口？这个新兴领域有哪些问题值得关注？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [传中国大陆客户紧急抢购GPU：NVIDIA下达“超级急件”订单](https://www.cnbeta.com/articles/tech/1318121.htm) | Mon Sep 19 2022 5:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月19日消息，&lt;strong&gt;传全球GPU龙头英伟达（NVIDIA）为了满足大陆客户激增的需求，近期对台积电下了“超级急件（super hot runs）”订单，计划在美国管制其A100/H100 GPU产品销往大陆的缓冲期之内完成更多的交付。&lt;/strong&gt;据悉，此次NVIDIA以“超级急件”的方式要求台积电提前生产了原订于明年出货的部分产品，&lt;strong&gt;总量约5000片晶圆。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《王者荣耀》120帧极高帧率模式将对iPhone开放](https://hot.cnbeta.com/articles/game/1318119.htm) | Mon Sep 19 2022 5:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着智能手机的迭代，120Hz高刷新率基本已是大多数安卓手机标配，不少手游也对120Hz高刷进行了适配，推出120帧高帧率模式，其中就包括腾讯《王者荣耀》。日前，《王者荣耀》官方在分享的“Bug 修复进展”中确认，&lt;strong&gt;将针对部分iOS机型开放极高帧率模式，详细信息将在后续公告中介绍。&lt;/strong&gt;预计120帧“极高帧率”模式将在新赛季对iPhone开放，苹果玩家不用羡慕安卓玩家了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
