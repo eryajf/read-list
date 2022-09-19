@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家在开创性实验中实现“无中生有”](https://www.cnbeta.com/articles/science/1317669.htm) | Sun Sep 18 2022 11:16 PM 
+- 🕯 [马斯克：地球经济远未达到物理极限](https://www.cnbeta.com/articles/tech/1317787.htm) | Mon Sep 19 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们可能都听说过这样一句话：你不可能无中生有。但实际上，我们宇宙的物理学并不是那么简单。事实上，科学家们已经花了几十年时间试图从绝对的无中生有中逼出物质。而现在，他们已经成功地证明了70年前首次分享的理论是正确的--真的可以从绝对无中创造出物质。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;科学杂志《自然》（Nature）最近在推特上分享了一份回顾1972年罗马俱乐部《增长的极限》（Limits to Growth）报告的新分析，认为经济扩张不可能不受阻碍地继续下去，物理限制可能很快结束当前的发展阶段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [洛克希德-马丁向美国军方交付创纪录的300千瓦激光武器](https://www.cnbeta.com/articles/tech/1317667.htm) | Sun Sep 18 2022 11:05 PM 
+- 💼 [万物云正式开启IPO路演 将成港股今年以来最大IPO](https://www.cnbeta.com/articles/tech/1317785.htm) | Mon Sep 19 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;洛克希德-马丁已提前向美国军方负责研究与工程的国防部副部长办公室&lpar;OUSD R&amp;amp;E）交付了其迄今为止最强大的激光器，进而安装在旨在打击各种目标的新激光武器演示器中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月16日，万物云已完成招股书注册，股票代码为“2602.HK”，预计于今日开始正式IPO路演，本月内有望完成上市。根据万物云为公开发行针对香港市场的专场新闻发布会信息，此次发行规模预计8亿至9亿美元，将成为2022年以来港股市场规模最大的首次公开发行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[评论]恒驰5最大的用途或许是抵债](https://www.cnbeta.com/articles/tech/1317665.htm) | Sun Sep 18 2022 11:04 PM 
+- 💂 [4块一小时，也养不活共享充电宝](https://www.cnbeta.com/articles/tech/1317783.htm) | Mon Sep 19 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;恒驰5的预售宣传，高调一如恒大。在今年7月中的恒驰节上，恒驰集团总裁刘永灼宣称：恒驰5累计订单量突破3.7万辆。不过，原本足以令恒驰狂欢的预售销量数据，也自此引来了来自四面八方的质疑之声。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近两年，“共享充电宝涨价”的话题每隔一段时间就会成为焦点，就在上个月，“共享充电宝涨至4元每小时”又登上热搜。脱口秀演员House最近在节目中也分享了自己被共享充电宝“刺伤”的经历，他吐槽称，火电一度3毛9、风电一度4毛6，共享充电宝5伏1万毫安0.05度电，1小时却收4块钱，“我用它的电，它吸我的血”、“共享充电宝这么贵，是爱迪生那会儿留下来的百年老电吗？”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [台湾花莲6.8级强震：羽毛球馆天花板如雨砸下 众人撒腿逃生](https://www.cnbeta.com/articles/tech/1317663.htm) | Sun Sep 18 2022 6:37 PM 
+- 🚀 [物理学家在基因保护层获突破性发现](https://www.cnbeta.com/articles/science/1317781.htm) | Mon Sep 19 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中国地震台网正式测定，9月18日14时44分，在台湾花莲县（北纬23.15度，东经121.30度）发生6.9级地震，震源深度10千米。&lt;strong&gt;9月17日晚21点41分到9月18日17点41分，花莲县及附近共发生4.0级及以上地震15次，都是同一区域的震群活动，包括2次六级地震、4次五级地震、9次四级地震。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;研究人员借助于物理学和一个微小的磁铁发现了端粒DNA的新结构。端粒被许多科学家看作是长寿的关键，它们保护基因不受损害，但每次细胞分裂时都会变短一点。如果它们变得太短细胞就会死亡。这一突破性的发现将帮助我们人类了解衰老和疾病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [彭博社：已向R星求证 《GTA6》泄露事件为真](https://hot.cnbeta.com/articles/game/1317661.htm) | Sun Sep 18 2022 6:24 PM 
+- 🎊 [百万粉丝大博主“出走”TikTok](https://hot.cnbeta.com/articles/movie/1317779.htm) | Mon Sep 19 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天我们报道了《GTA6》被泄露至网上的消息，有一段长达53分钟的视频在网上流传，据彭博社Jason Schreier确认，该视频确实是《GTA6》。彭博社Jason Schreier在推特上表示，他们已经向R星求证，本周泄露的《GTA6》事件是真实的，这段视频是R星早期制作尚未完成的片段。当然，此次泄露将作为游戏史上最大泄露事件之一，也是R星的噩梦。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1317661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“今年以来，我们好几个百万粉丝账号都已停更了。”TikTok资深从业者董子瑞告诉虎嗅。作为国内最早一批在TikTok上发布内容的玩家之一，董子瑞以及他的团队曾靠大量搬运内容，收获许多粉丝。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1317779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
