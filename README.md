@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [周杰伦《英雄联盟手游》冲上宗师 差一步王者、还继续吗？](https://hot.cnbeta.com/articles/game/1318025.htm) | Mon Sep 19 2022 11:17 AM 
+- 🕯 [中概股将接受美方审计底稿检查 退市风险大减](https://www.cnbeta.com/articles/tech/1318055.htm) | Mon Sep 19 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周，周杰伦ins发文表示自己《英雄联盟手游》终于打上大师段位了，终于可以休息了。然而休息只是嘴上说说，不到一周的时间，周董再次发文：冲上了宗师段位！“宗师了，还继续吗？”距离王者只有一步之遥，看来周董是不上王者不罢休了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国公众公司会计监督委员会（PCAOB）的工作人员预计将于9月19日开始检查在美上市中概股的审计底稿，整个过程需要8到10周，或在2022年12月初得出检查结果。美国监管机构已选定阿里巴巴、网易、百度、京东以及百胜中国等作为首批接受审计底稿检查的中概股公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《羊了个羊》游戏大量“通关秘籍”网络流传：官方提醒要防诈](https://www.cnbeta.com/articles/tech/1318023.htm) | Mon Sep 19 2022 11:16 AM 
+- 💼 [升级PCIe 4.0：金士顿推出新款入门级SSD NV2](https://www.cnbeta.com/articles/tech/1318053.htm) | Mon Sep 19 2022 12:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周，一款名为《羊了个羊》的微信小游戏突然走红，火爆全网。大部分人都被卡在了第二关，甚至通过率不足1%，&lt;strong&gt;由于游戏机制非常“上头”，不少人都在疯狂搜索“通关秘籍”。&lt;/strong&gt;但这也给了一些不法分子可乘之机，相关诈骗方式已经出现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去年，金士顿曾推出了入门级SSD NV1，凭借低廉的价格与不错的性价比，获得了部分用户的好评。现在，金士顿推出了NV1的升级版NV2，&lt;strong&gt;在延续入门级SSD这一定位的同时，在上代产品的基础上进行了升级优化。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [五菱宏光MINI EV敞篷版价格疑曝光 顶配或超10万元](https://www.cnbeta.com/articles/tech/1318021.htm) | Mon Sep 19 2022 11:15 AM 
+- 💂 [低成本的GPS干扰器正被罪犯用来劫持卡车和击落无人机](https://www.cnbeta.com/articles/tech/1318051.htm) | Mon Sep 19 2022 12:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月19日消息，五菱汽车官方发布消息称，将原定于21日公布的宏光MINIEV敞篷版首期中签名单，延期至25日公布，该车也在当日同步上市。不过，据“网上车市”报道，宏光MINI EV敞篷版的价格信息疑似泄露，经销商宣传海报显示，新车或推出2款车型，&lt;strong&gt;疑似售价为8.78-10.28万元，入门和顶配车型相比GAMEBOY 300km版本分别贵2万元、3.3万元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;通过GPS进行的卫星导航和跟踪已经成为世界上快速发展的物流和货运生态系统中的一个关键环节。公司使用GPS来追踪卡车，使它们准时到达目的地，保证货物的安全。&lt;strong&gt;因此，难怪犯罪分子转向廉价的GPS干扰设备，在公路和海上洗劫货物，这个问题越来越严重，但有了旨在克服干扰威胁的新一代安全技术，情况可能会有所改善。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [科学家预测地外文明 2047年之前或将发现外星人](https://www.cnbeta.com/articles/science/1318019.htm) | Mon Sep 19 2022 11:07 AM 
+- 🚀 [苹果公司被指通过巨额资金引导行业组织的立场](https://www.cnbeta.com/articles/tech/1318049.htm) | Mon Sep 19 2022 11:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;宇宙之大，除了庞大无比的科学数据领域以外，之于人类而言，更多的意义或许在于意味着地外文明的存在，日前据外媒报道，苏黎世联邦理工学院的天文学博士预测了人类真正发现地外文明的时间，在2047年之前人类或将发现外星人，距现在还有25年时间，也许我们该做做准备了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然不是成员，但苹果公司为开发者倡导团体App Association提供了大部分资金，使其能够塑造政策。宣传团体和游说方经常提出主张，以多种方式影响公众、司法和政治舆论，这对于一些关于科技巨头的新闻报道来说已经相当明显，旨在为开发者争取权利的应用协会（ACT）一般会对苹果提出有利的意见。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [多波束激光雷达数据探测优异：我国碳汇监测正式进入天基遥感时代](https://www.cnbeta.com/articles/science/1318017.htm) | Mon Sep 19 2022 11:06 AM 
+- 🎊 [翼龙-2大型无人机首次高原气象观测试验首飞作业成功](https://www.cnbeta.com/articles/science/1318047.htm) | Mon Sep 19 2022 11:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如今，在离地球500公里外的卫星轨道上，一颗“碳星”的使命刚刚开始。放在以前，传统的碳汇测量要依靠人工对森林植被进行抽样监测，而此次碳星因携带了一种多波束的激光雷达，可以让森林碳汇监测变得更加智能和精准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月19日，据“航空工业”消息，日前，在青藏高原东南缘的四川省阿坝藏族羌族自治州，&lt;strong&gt;一架由航空工业自主研制的高空气象探测大型无人机“翼龙”-2从红原机场起飞。在三江源地区的阿尼玛卿雪山7500米高空成功下投12枚探空仪，&lt;/strong&gt;与机载合成孔径雷达、大气微波综合廓线仪一起，实现对青藏高原大气垂直和下垫面“扫描”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
