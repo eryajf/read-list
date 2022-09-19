@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Synkmark 3.0.1 Safari书签同步](https://xclient.info/s/synkmark.html) | Fri Sep 16 2022 1:11 AM 
+- 🦏 [SQLPro for MySQL 2022.70 MySQL管理工具](https://xclient.info/s/sqlpro-for-mysql.html) | Mon Sep 19 2022 12:40 AM 
     <details><summary>展开描述 ...</summary> 
-    Synkmark是Mac os平台上的一款帮助用户在Safari上同步自己的标签的Mac软件 
+    SQLPro for MySQL是一款Mac平台的专业mysql数据库管理软件，SQLPro for MySQL Mac版是一个轻量级但强大的MySQL数据库客户端,允许快速和简单的访问MySQL服务器,包括那些驻留在Amazon RDS，这个SQL客户端只是为MySQL和不会使用该软件或PostgresSQL等其他数据库服务器。 
     </details> 
 
--  [Sublime Text 4 Build 4135 Dev](https://xclient.info/s/sublime-text.html) | Fri Sep 16 2022 1:10 AM 
+-  [SQLPro for MSSQL 2022.70 优秀的MSSQL数据库客户端](https://xclient.info/s/sqlpro-for-mssql.html) | Mon Sep 19 2022 12:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Sublime Text被称作Mac下的TextMate，而根据其官网介绍，Sublime Text的特点如下：拥有高效、没有干扰的界面，在编辑方面的多选、宏、代码片段等功能，以及很有特色的Minimap。 
+    SQLPro for MSSQL 是一款Mac上优秀的MSSQL数据库客户端，简单易用，支持存储过程调用和所有的MSSQL版本 
     </details> 
 
-- ⚗️ [Perfectly Clear WorkBench 4.2.0.2336 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Fri Sep 16 2022 1:09 AM 
+- ⚗️ [Omni Recover 3.4.2 iPhone数据恢复软件](https://xclient.info/s/omni-recover.html) | Mon Sep 19 2022 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
+    Omni Recover是一款恢复iPhone数据恢复最好的软件。它可以与您所有的苹果设备，iOS和iTunes版本无缝地配合使用。 
     </details> 
 
-- 🔥 [Large Files Finder 1.5.0 大文件查找](https://xclient.info/s/large-files-finder.html) | Fri Sep 16 2022 1:08 AM 
+- 🔥 [SyncBird Pro 3.8.5 iOS内容管理软件](https://xclient.info/s/syncbird-pro.html) | Mon Sep 19 2022 12:36 AM 
     <details><summary>展开描述 ...</summary> 
-    Large Files Finder是一款方便实用的电脑大文件查找软件，能帮助用户闪电般查找计算机电脑中查找大量占用磁盘空间的大体积文件。 
+    SyncBird Pro是一款运行在Mac平台上的iOS内容管理软件，你可以使用SyncBird Mac版在iPhone、iPad和Mac之间转移音乐、照片、视频、书籍等内容，SyncBird Mac版还支持转换格式、双向同步、导入等实用的功能。 
     </details> 
 
-- 🌋 [Smart File Renamer 1.4.0 文件重命名](https://xclient.info/s/smart-file-renamer.html) | Fri Sep 16 2022 1:00 AM 
+- 🌋 [Downcast 2.11.14 Podcast订阅工具](https://xclient.info/s/downcast.html) | Mon Sep 19 2022 12:33 AM 
     <details><summary>展开描述 ...</summary> 
-    Smart File Renamer是一款重命名工具，可以轻松重命名多个文件，可以极其灵活的批处理文件，支持数百种重命名场景！ 
+    Downcast 可以下载、 播放和同步你最喜欢的播客。 
     </details> 
 <!-- xclient:END -->
 
