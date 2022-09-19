@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端食堂技术周刊第 53 期：React Router 6.4、VS Code August 2022、2022 Google 谷歌开发者大会、Meta 开源](https://juejin.cn/post/7145061375994724389) | Mon Sep 19 2022 12:07 PM 
+- 🤗 [五子棋AI优化：α-β剪枝](https://juejin.cn/post/7145080191001231397) | Mon Sep 19 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-    - React Router 6.4 - VS Code August 2022 - 2022 Google 谷歌开发者大会 - Meta 开源 MemLab - WAI-ARIA 指南 - 《Vu 
+    Alpha-beta剪枝是一种搜索算法，用以减少极小化极大算法（Minimax算法）搜索树的节点数。这是一种对抗性搜索算法，主要应用于机器游玩的二人游戏（如井字棋、象棋、围棋）。当算法评估出某策略的后 
     </details> 
 
-- 🎡 [Mac上抓包秒通关🐑羊了个羊🐑](https://juejin.cn/post/7145058675051200542) | Mon Sep 19 2022 11:57 AM 
+- 🎡 [Google SRE 薪水揭秘](https://juejin.cn/post/7145080184624906270) | Mon Sep 19 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
-    最近这游戏是火得不行，睡前玩几把，几天了从未通过。那只能上科技了。。。 看网上大部分是 Windows 微信小游戏的抓包教程通关文章，因为Mac微信不支持小游戏（尴尬了），当然有其它办法... 
+    SRE 是确保所有生产环境（Infra/Server/DBS等）一直正常运行的人。每个网络科技公司基本都有这个部门。但是，这个角色不应与开发人员的角色混淆。 SRE 的关注点在于如何在发布新功能和确保 
     </details> 
 
-- 🕯 [GitHub - xitu/jcode-languages: 码上掘金自定义语言的语法高亮和用法](https://juejin.cn/post/7145057997650132999) | Mon Sep 19 2022 11:54 AM 
+- 🕯 [[LeetCode算法]有了二叉树层序遍历，妈妈再也不用担心我不会做二叉树层级题了](https://juejin.cn/post/7145079162389315591) | Mon Sep 19 2022 1:17 PM 
     <details><summary>展开描述 ...</summary> 
-    码上掘金自定义语言合集 使用说明 1. Script Tab 下选择 Custom 2. 第一行输入对应语言的 Hashbang，比如： 接着输入该语言代码，如 3. 在脚本依赖中引入 https:/ 
+    前言 博主最近在刷leetcode，做到二叉树套题的时候发现很多题的解题思路都是基于二叉树的层序遍历来完成的，因此写下这篇文章，记录一下二叉树层序遍历这件&quot;神器&quot;在实战的运用。 
     </details> 
 
-- 🚀 [原来如此-二分搜索树](https://juejin.cn/post/7145029316886134792) | Mon Sep 19 2022 10:03 AM 
+- 🚀 [TS如何结合React在新项目中使用呢，来瞅一眼，让你受益匪浅](https://juejin.cn/post/7145074407710326815) | Mon Sep 19 2022 12:58 PM 
     <details><summary>展开描述 ...</summary> 
-    从一个新手的角度去讲述我是怎么学习的，加上通俗易懂的方式，以及图文结合讲解二分搜索树，我不信你还学不会！ 
+    一、前言 单独的使用 TypeScript 并不会导致学习成本很高，但是绝大部分前端开发者的项目都是依赖于框架的 例如与 Vue、React 这些框架结合使用的时候，会有一定的门槛 使用 TypeSc 
     </details> 
 
-- 💪 [带你掌握如何使用CANN 算子ST测试工具msopst](https://juejin.cn/post/7144909349507301390) | Mon Sep 19 2022 2:17 AM 
+- 💪 [SpringBoot2源码1-嵌入式Tomcat启动和@SpringBootApplication注解原理](https://juejin.cn/post/7145073146272432158) | Mon Sep 19 2022 12:54 PM 
     <details><summary>展开描述 ...</summary> 
-    msopst工具存储在Ascend-cann-toolkit安装目录的“toolkit/python/site-packages/bin”路径下。本期带您了解如何使用msopst工具。 
+    嵌入式Tomcat启动以及在SpringMVC启动原理。核心注解@SpringBootApplication注入组件说明 
     </details> 
 <!-- juejin:END -->
 ### 少数派
