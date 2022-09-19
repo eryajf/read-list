@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中概股将接受美方审计底稿检查 退市风险大减](https://www.cnbeta.com/articles/tech/1318055.htm) | Mon Sep 19 2022 12:21 PM 
+- 🕯 [R星承认《GTA6》大规模泄露属实：将继续游戏开发](https://hot.cnbeta.com/articles/game/1318071.htm) | Mon Sep 19 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国公众公司会计监督委员会（PCAOB）的工作人员预计将于9月19日开始检查在美上市中概股的审计底稿，整个过程需要8到10周，或在2022年12月初得出检查结果。美国监管机构已选定阿里巴巴、网易、百度、京东以及百胜中国等作为首批接受审计底稿检查的中概股公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;90多段视频、时长52分钟、1万行源代码……如此离谱的大规模泄露居然在一直秘而不宣的《GTA6》上出现，实在是荒唐离谱。今晚（9月19日），&lt;strong&gt;R星正式发布公告，承认了泄露内容的真实性。官方指出三方力量非法进入了内部系统，下载了机密信息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [升级PCIe 4.0：金士顿推出新款入门级SSD NV2](https://www.cnbeta.com/articles/tech/1318053.htm) | Mon Sep 19 2022 12:19 PM 
+- 💼 [上海警方回应黄浦江畔出现鳄鱼：两次抓捕都逃脱了](https://www.cnbeta.com/articles/tech/1318069.htm) | Mon Sep 19 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年，金士顿曾推出了入门级SSD NV1，凭借低廉的价格与不错的性价比，获得了部分用户的好评。现在，金士顿推出了NV1的升级版NV2，&lt;strong&gt;在延续入门级SSD这一定位的同时，在上代产品的基础上进行了升级优化。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月16日，有网友称，在上海徐汇滨江进木港的黄浦江岸边，发现一条长约80厘米的鳄鱼，匍匐在滩涂上晒太阳。直到9月19日，仍然可以看到这条鳄鱼，一会儿懒懒地张开大嘴仿佛打哈欠，一会儿又转身游进水里，很悠闲的样子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [低成本的GPS干扰器正被罪犯用来劫持卡车和击落无人机](https://www.cnbeta.com/articles/tech/1318051.htm) | Mon Sep 19 2022 12:07 PM 
+- 💂 [联想RTX 4090显卡更多图出现 长度约36cm](https://www.cnbeta.com/articles/tech/1318067.htm) | Mon Sep 19 2022 1:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;通过GPS进行的卫星导航和跟踪已经成为世界上快速发展的物流和货运生态系统中的一个关键环节。公司使用GPS来追踪卡车，使它们准时到达目的地，保证货物的安全。&lt;strong&gt;因此，难怪犯罪分子转向廉价的GPS干扰设备，在公路和海上洗劫货物，这个问题越来越严重，但有了旨在克服干扰威胁的新一代安全技术，情况可能会有所改善。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在明天即将到来的“GeForce Beyond”特别活动中，如无意外英伟达将带来基于Ada Lovelace架构的GPU，普遍认为搭载AD102的GeForce RTX 4090将是这一代的首发产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果公司被指通过巨额资金引导行业组织的立场](https://www.cnbeta.com/articles/tech/1318049.htm) | Mon Sep 19 2022 11:54 AM 
+- 🚀 [在火星留下中国人印迹 天问一号任务团队问鼎“世界航天奖”](https://www.cnbeta.com/articles/science/1318065.htm) | Mon Sep 19 2022 1:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然不是成员，但苹果公司为开发者倡导团体App Association提供了大部分资金，使其能够塑造政策。宣传团体和游说方经常提出主张，以多种方式影响公众、司法和政治舆论，这对于一些关于科技巨头的新闻报道来说已经相当明显，旨在为开发者争取权利的应用协会（ACT）一般会对苹果提出有利的意见。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，在法国巴黎召开的第73届国际宇航大会（IAC）上，我国首次火星探测天问一号任务团队获得国际宇航联合会2022年度“世界航天奖”。“世界航天奖”是国际宇航联合会年度最高奖，此前，嫦娥四号任务团队代表曾获此奖项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [翼龙-2大型无人机首次高原气象观测试验首飞作业成功](https://www.cnbeta.com/articles/science/1318047.htm) | Mon Sep 19 2022 11:44 AM 
+- 🎊 [《GTA6》测试视频遭泄露 Take-Two盘前跌逾4%](https://hot.cnbeta.com/articles/game/1318063.htm) | Mon Sep 19 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月19日，据“航空工业”消息，日前，在青藏高原东南缘的四川省阿坝藏族羌族自治州，&lt;strong&gt;一架由航空工业自主研制的高空气象探测大型无人机“翼龙”-2从红原机场起飞。在三江源地区的阿尼玛卿雪山7500米高空成功下投12枚探空仪，&lt;/strong&gt;与机载合成孔径雷达、大气微波综合廓线仪一起，实现对青藏高原大气垂直和下垫面“扫描”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，近日一名黑客发布了知名游戏开发商Take-Two旗下正在开发的《侠盗猎车手6》（GTA6）大量实机测试视频，并被要挟“协商一份协议”。受此影响，Take-Two股价周一盘前跌逾4%。报道称，虽然此次泄露的内容如此广泛且庞大，以至于一些人怀疑这一内容的真实性，但据媒体援引熟悉游戏开发的人士的话指出，大规模泄露的视频是真实的。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
