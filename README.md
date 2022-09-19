@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Python 如何表示所有质数？](https://www.v2ex.com/t/881419#reply11) | Mon Sep 19 2022 4:16 PM
+- 🥸 [Python 如何表示所有质数？](https://www.v2ex.com/t/881419#reply12) | Mon Sep 19 2022 4:16 PM
 - 🤗 [Win10 系统不同用户数据问题](https://www.v2ex.com/t/881402#reply0) | Mon Sep 19 2022 2:19 PM
 - 🎭 [添加 ComposeView 报错 CiewTreeLifecycleOwner not found](https://www.v2ex.com/t/881386#reply2) | Mon Sep 19 2022 1:33 PM
-- 🥷 [NAS 新手问题](https://www.v2ex.com/t/881382#reply16) | Mon Sep 19 2022 1:22 PM
-- 🐵 [请教大佬们个硬件问题，感谢](https://www.v2ex.com/t/881374#reply11) | Mon Sep 19 2022 1:02 PM<!-- v2ex:END -->
+- 🥷 [NAS 新手问题](https://www.v2ex.com/t/881382#reply17) | Mon Sep 19 2022 1:22 PM
+- 🐵 [请教大佬们个硬件问题，感谢](https://www.v2ex.com/t/881374#reply12) | Mon Sep 19 2022 1:02 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
