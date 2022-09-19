@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [蓝光加速了黑腹果蝇的衰老过程](http://jandan.net/p/111258) | Sun Sep 18 2022 9:27 AM 
+- 🚀 [今日带货：头戴式耳机](http://jandan.net/p/111363) | Mon Sep 19 2022 1:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：50 
+    </details> 
+
+- 🙉 [蓝光加速了黑腹果蝇的衰老过程](http://jandan.net/p/111258) | Sun Sep 18 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
     因实验中的蓝光强度比人类通常的暴露剂量更高，后果是否严重仍存在巨大争议。 
     </details> 
 
-- 🙉 [日本百岁老人总数第一次超过90000](http://jandan.net/p/111361) | Sun Sep 18 2022 9:27 AM 
+- 🎉 [日本百岁老人总数第一次超过90000](http://jandan.net/p/111361) | Sun Sep 18 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
     女性百岁老人80161人，占总数的88.6%。 
     </details> 
 
-- 🎉 [越南情侣黑客找乐子，删掉了洲际酒店集团的数据库](http://jandan.net/p/111358) | Sun Sep 18 2022 3:18 AM 
+- 🐲 [越南情侣黑客找乐子，删掉了洲际酒店集团的数据库](http://jandan.net/p/111358) | Sun Sep 18 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
     “我们并不感到内疚，真的。我们想要在越南找一份合法工作，但平均工资是每月300美元，呵。” 
     </details> 
 
-- 🐲 [今日带货：G7纯黑咖啡](http://jandan.net/p/111360) | Sun Sep 18 2022 3:17 AM 
+-  [今日带货：G7纯黑咖啡](http://jandan.net/p/111360) | Sun Sep 18 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
     方便又好喝 
-    </details> 
-
--  [染色体数目最多的多细胞生物是__？填补DNA测序工程绿色生命谱系里最后的空白](http://jandan.net/p/111269) | Sat Sep 17 2022 9:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    同时推翻了一个植物学教科书上的经典假说 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
