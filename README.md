@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三只松鼠被曝吃出油炸壁虎 官方:无制作、包装带入可能](https://www.cnbeta.com/articles/tech/1318007.htm) | Mon Sep 19 2022 9:57 AM 
+- 🕯 [周杰伦《英雄联盟手游》冲上宗师 差一步王者、还继续吗？](https://hot.cnbeta.com/articles/game/1318025.htm) | Mon Sep 19 2022 11:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;民以食为天，但“买一送一”的事件并不少见。近日消息，据互因科技报道，在广东茂名，有网友在“三只松鼠多味花生”里发现了一只&lt;strong&gt;疑似被油炸过的壁虎&lt;/strong&gt;。网友小乐（化名）表示，自己5月份为家人网购了一份三只松鼠的零食大礼包，9月14日家人打开了其中一包“多味花生”吃，吃后立刻用包装袋上的封条封住。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周，周杰伦ins发文表示自己《英雄联盟手游》终于打上大师段位了，终于可以休息了。然而休息只是嘴上说说，不到一周的时间，周董再次发文：冲上了宗师段位！“宗师了，还继续吗？”距离王者只有一步之遥，看来周董是不上王者不罢休了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [可打卫星电话的消费级国产手机即将推出 超越iPhone 14和华为Mate50](https://www.cnbeta.com/articles/tech/1318005.htm) | Mon Sep 19 2022 9:47 AM 
+- 💼 [《羊了个羊》游戏大量“通关秘籍”网络流传：官方提醒要防诈](https://www.cnbeta.com/articles/tech/1318023.htm) | Mon Sep 19 2022 11:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;手机直连卫星，一场6G预演正在进行时，全球手机厂商开启“追星之旅”。“华为Mate 50系列手机成为全球首款支持北斗卫星消息的大众智能手机，开启了大众卫星通信时代。”9月6日的新品发布会上，华为常务董事、终端事业群CEO余承东自豪地宣称。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周，一款名为《羊了个羊》的微信小游戏突然走红，火爆全网。大部分人都被卡在了第二关，甚至通过率不足1%，&lt;strong&gt;由于游戏机制非常“上头”，不少人都在疯狂搜索“通关秘籍”。&lt;/strong&gt;但这也给了一些不法分子可乘之机，相关诈骗方式已经出现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [拿到适航证书：镇海炼化生物航煤首车将运往空中客车天津工厂](https://www.cnbeta.com/articles/tech/1318003.htm) | Mon Sep 19 2022 9:32 AM 
+- 💂 [五菱宏光MINI EV敞篷版价格疑曝光 顶配或超10万元](https://www.cnbeta.com/articles/tech/1318021.htm) | Mon Sep 19 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;中国石化镇海炼化公司日前收到中国民航局审定的生物航煤适航证书《技术标准规定项目批准书》。&lt;/strong&gt;这标志着中国首套生物航煤工业装置产出的首批规模化生物航煤，即将助力民航客机飞向蓝天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月19日消息，五菱汽车官方发布消息称，将原定于21日公布的宏光MINIEV敞篷版首期中签名单，延期至25日公布，该车也在当日同步上市。不过，据“网上车市”报道，宏光MINI EV敞篷版的价格信息疑似泄露，经销商宣传海报显示，新车或推出2款车型，&lt;strong&gt;疑似售价为8.78-10.28万元，入门和顶配车型相比GAMEBOY 300km版本分别贵2万元、3.3万元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《GTA6》粉丝对泄露图稍作处理 画面更清晰效果更好](https://hot.cnbeta.com/articles/game/1318001.htm) | Mon Sep 19 2022 9:30 AM 
+- 🚀 [科学家预测地外文明 2047年之前或将发现外星人](https://www.cnbeta.com/articles/science/1318019.htm) | Mon Sep 19 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日《GTA6》视频和截图在网上泄露，因为是早期开发版，所以画面上有调试代码。国外粉丝Lukas Kanik对部分泄露图稍作处理，去除图上无用信息、调高分辨率，获得了更清晰、效果更好的截图，一起来欣赏下吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;宇宙之大，除了庞大无比的科学数据领域以外，之于人类而言，更多的意义或许在于意味着地外文明的存在，日前据外媒报道，苏黎世联邦理工学院的天文学博士预测了人类真正发现地外文明的时间，在2047年之前人类或将发现外星人，距现在还有25年时间，也许我们该做做准备了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [消息称明年特斯拉Model 3和Y电池将有重大升级 部分采用比亚迪刀片电池](https://www.cnbeta.com/articles/tech/1317999.htm) | Mon Sep 19 2022 9:29 AM 
+- 🎊 [多波束激光雷达数据探测优异：我国碳汇监测正式进入天基遥感时代](https://www.cnbeta.com/articles/science/1318017.htm) | Mon Sep 19 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月19日消息，据国外媒体报道，&lt;strong&gt;社交媒体上的消息显示，特斯拉在明年，会对Model 3和Model Y这两款畅销车的电池进行升级，部分车型采用4680电池，部分采用比亚迪所供应的刀片电池。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如今，在离地球500公里外的卫星轨道上，一颗“碳星”的使命刚刚开始。放在以前，传统的碳汇测量要依靠人工对森林植被进行抽样监测，而此次碳星因携带了一种多波束的激光雷达，可以让森林碳汇监测变得更加智能和精准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
