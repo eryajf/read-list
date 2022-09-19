@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [要满足什么样的条件，才能让程序员这种工作，像医生律师一样越老越吃香？](https://www.v2ex.com/t/881426#reply6) | Mon Sep 19 2022 6:51 PM
+- 🥸 [要满足什么样的条件，才能让程序员这种工作，像医生律师一样越老越吃香？](https://www.v2ex.com/t/881426#reply10) | Mon Sep 19 2022 6:51 PM
 - 🤗 [Python 如何表示所有质数？](https://www.v2ex.com/t/881419#reply12) | Mon Sep 19 2022 4:16 PM
 - 🎭 [Win10 系统不同用户数据问题](https://www.v2ex.com/t/881402#reply0) | Mon Sep 19 2022 2:19 PM
 - 🥷 [添加 ComposeView 报错 CiewTreeLifecycleOwner not found](https://www.v2ex.com/t/881386#reply2) | Mon Sep 19 2022 1:33 PM
-- 🐵 [NAS 新手问题](https://www.v2ex.com/t/881382#reply17) | Mon Sep 19 2022 1:22 PM<!-- v2ex:END -->
+- 🐵 [NAS 新手问题](https://www.v2ex.com/t/881382#reply20) | Mon Sep 19 2022 1:22 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
