@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14和iPhone 14 Pro本周晚些时候在另外20多个国家和地区上市](https://www.cnbeta.com/articles/tech/1318133.htm) | Mon Sep 19 2022 7:05 PM 
+- 🕯 [苹果公司称下周将进行软件更新以解决iPhone 14 Pro相机抖动问题](https://www.cnbeta.com/articles/tech/1318135.htm) | Mon Sep 19 2022 7:29 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果告诉彭博社，下周将发布一个软件更新，以修复影响iPhone 14 Pro和iPhone 14 Pro Max机型的相机抖动问题。这解决了客户的担忧，最新调查结论显示剧烈的相机抖动问题并不是他们新手机的硬件缺陷造成的，相反用户安装软件更新就可以轻松解决。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iPhone 14和iPhone 14 Pro本周晚些时候在另外20多个国家和地区上市](https://www.cnbeta.com/articles/tech/1318133.htm) | Mon Sep 19 2022 7:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;iPhone 14、iPhone 14 Pro和iPhone 14 Pro Max将于9月23日在另外20多个国家和地区上市，包括马来西亚、土耳其、巴林、科威特、阿曼等。苹果公司没有提供这些国家的完整名单。在墨西哥，iPhone 14、iPhone 14 Pro和iPhone 14 Pro Max的预购将于9月23日开始，这些设备将于9月30日上市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [传闻索尼下一版PS5将继续瘦身 配备可拆卸光盘驱动器](https://www.cnbeta.com/articles/tech/1318131.htm) | Mon Sep 19 2022 6:59 PM 
+- 💂 [传闻索尼下一版PS5将继续瘦身 配备可拆卸光盘驱动器](https://www.cnbeta.com/articles/tech/1318131.htm) | Mon Sep 19 2022 6:59 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;索尼的PlayStation 5在本月早些时候发布的最新版本中减轻了重量，有传言说该控制台明年将加大力度继续瘦身。&lt;/strong&gt;根据Insider Gaming周一的一份报告，明年将出现一款更薄的PS5。据传，新主机不会安装光盘驱动器。相反，它将配备一个可拆卸的光盘驱动器，通过USB-C连接，以保持更纤细的机身。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [比特币一度失守19000美元 超13万人爆仓](https://www.cnbeta.com/articles/tech/1318129.htm) | Mon Sep 19 2022 6:47 PM 
+- 🚀 [比特币一度失守19000美元 超13万人爆仓](https://www.cnbeta.com/articles/tech/1318129.htm) | Mon Sep 19 2022 6:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;最近，“币圈”再现震动。9月19日，比特币价格盘中再次跌破19000美元关口。与2021年11月的历史高点67800美元相比，其价格已经累计下跌近70%。9月19日，比特币盘中再度跳水，一度跌破19000美元关口，最低跌至18215美元。与此同时，以太坊也一度跌破1300美元关口，至1276.61美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [简单改变动物饲料可为10亿人提供食物](https://www.cnbeta.com/articles/science/1318127.htm) | Mon Sep 19 2022 5:47 PM 
+- 🎊 [简单改变动物饲料可为10亿人提供食物](https://www.cnbeta.com/articles/science/1318127.htm) | Mon Sep 19 2022 5:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;即使全世界有数百万人面临饥荒或营养不良的威胁，为牲畜和鱼类生产的饲料正在占用有限的自然资源，而这些资源本可用于为人们生产更多的食物。&lt;strong&gt;今天（9月19日）发表在《自然-食品》上的阿尔托大学的新研究表明，调整牲畜和鱼类的饲养方式可以维持生产，同时为人们提供更多的食物。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Pano AI公司将AI智能应用于野火探测中](https://www.cnbeta.com/articles/tech/1318125.htm) | Mon Sep 19 2022 5:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着天气变得炎热和干燥，这些天事情变得有点紧张。虽然人类已经有可能对火灾进行警戒。但一个很大的挑战是，技术经常会出现问题，当技术检测到火灾时，它已经在失去控制的路上了。&lt;strong&gt;现在Pano AI公司正在将一些聪明的摄像机与人工智能技术结合起来，为灭火人员提供一个战斗的机会，以保证尽可能不发生火灾。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
