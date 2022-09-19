@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [实验证明纳米塑料可以破坏人类肝脏和肺细胞的过程](https://www.cnbeta.com/articles/science/1318089.htm) | Mon Sep 19 2022 2:58 PM 
+- 🕯 [谷歌Pixel 7 Pro Tensor G2处理器性能让人失望](https://www.cnbeta.com/articles/tech/1318103.htm) | Mon Sep 19 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当人们在不知情的情况下吃、喝或吸入几乎看不见的塑料碎片时会发生什么?虽然还不清楚这对人类到底有什么影响，但研究人员现在已经朝着回答这个问题迈出了一步。在ACS的《环境科学与技术》杂志上，一个研究小组报告了实验室结果，表明微小的塑料颗粒可以进入肝脏和肺细胞，扰乱它们的正常过程，可能导致不良的健康后果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;随着谷歌为即将推出的Pixel 7和Pixel 7 Pro准备其下一代定制芯片Tensor G2，我们瞥见了该芯片组的表现，结果非常令人失望。&lt;/strong&gt;第二代Tensor不仅无法跟上骁龙8代的步伐，而且最终被高通的骁龙888击败，骁龙888是一款去年推出的SoC。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [德国格林海德市长否认特斯拉取消工厂扩建项目：仍在建设中](https://www.cnbeta.com/articles/tech/1318087.htm) | Mon Sep 19 2022 2:37 PM 
+- 💼 [传闻中的10月发布会前 未公布的iPad Pro型号在罗技官网被提及](https://www.cnbeta.com/articles/tech/1318101.htm) | Mon Sep 19 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;德国格林海德市（Gruenheide）市长阿恩·克里斯蒂安尼（Arne Christiani）今日表示，特斯拉在柏林附近扩建工厂的计划没有改变，目前仍在建设中。克里斯蒂安尼上周曾表示，针对“特斯拉工厂扩建计划”的投票已无限期推迟。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在传言中的下个月举行的发布会活动之前，网络上已经发现了两个未公布的iPad Pro型号的参考资料，预计新的iPad和Mac将被公布。9to5Mac在罗技的网站上发现了这些内容，其中提及第六代12.9英寸iPad Pro和第四代11英寸iPad Pro，这两款机型预计将在下个月推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [手机使用习惯报告显示北方人比南方人更爱用折叠屏](https://www.cnbeta.com/articles/tech/1318085.htm) | Mon Sep 19 2022 2:35 PM 
+- 💂 [《英雄联盟》2022总决赛宣传片公布 9月30日举行](https://hot.cnbeta.com/articles/game/1318099.htm) | Mon Sep 19 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月19日消息，据每日互动大数据日前发布的折叠屏手机报告显示，目前这一细分领域表现出两大特点，&lt;strong&gt;北方人更偏好使用折叠屏手机，华为、三星领跑了折叠屏市场，市占有率分别达到48.5%和达31.5%&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据《英雄联盟》官方微博，《英雄联盟》2022全球总决赛入围赛将于北京时间9月30日开启，官方发布了一则宣传片，一起了解一下。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《英雄联盟》S12总决赛宣传片：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Xbox副总裁在《GTA6》泄露后支持R星：我深表同情](https://hot.cnbeta.com/articles/game/1318083.htm) | Mon Sep 19 2022 2:34 PM 
+- 🚀 [拜登的9份报告“藏着”美国Web3的未来](https://www.cnbeta.com/articles/tech/1318097.htm) | Mon Sep 19 2022 3:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;之前我们曾报道了《GTA6》多段实机演示泄露：男女主角造型亮相,而就在近日，XBOX公司副总裁萨拉·邦德在推特上表示与游戏开发团队团结一致，说她很同情在R星游戏还没准备好之前就被人“展示”出来的感觉。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“我们要制定Web3（基于区块链的下一代互联网）的国际规则，不然几十年后子孙辈们就会像现在（芯片、操作系统等）一样被人掐脖子。”一名正在参与制定国内区块链技术标准的人员表示。虽然立场不同，但美国前CFTC主席Christopher Giancarlo在《Crypto Dad》中也表达了类似的观点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Nikola正式推出欧版Tre纯电动卡车 已开始接受预订](https://www.cnbeta.com/articles/tech/1318081.htm) | Mon Sep 19 2022 2:19 PM 
+- 🎊 [共享两轮车遭遇地方监管挑战 学者建议应由中央统一规定](https://www.cnbeta.com/articles/tech/1318095.htm) | Mon Sep 19 2022 3:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Nikola&lpar;NKLA.US&rpar;及其合作伙伴依维柯在周一举行的IAA Transportation 2022展览会上正式推出了European Nikola Tre纯电动卡车&lpar;BEV&rpar;以及Nikola Tre燃料电池卡车&lpar;FCEV&rpar;测试版。Nikola Tre纯电动卡车的4x2 Artic版本是一款零排放重型卡车，续航里程可达329英里。Nikola公司表示，这款车具有完成多种区域性任务的性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近两年，多地针对共享两轮车的监管动向，引发业内热议。2022年8月末，上海市人大常委会在执法检查时发现，美团单车因共享单车车辆占道被当地第三方公司扣留，每年需支付超过亿元的“赎车费”；此前的5月，湖南省张家界市举行城区共享电单车五年期特许经营权网上拍卖会，4500辆共享电单车分三个标的竞拍，成交金额超过4500万元；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
