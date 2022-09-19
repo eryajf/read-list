@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Nikola正式推出欧版Tre纯电动卡车 已开始接受预订](https://www.cnbeta.com/articles/tech/1318081.htm) | Mon Sep 19 2022 2:19 PM 
+- 🕯 [实验证明纳米塑料可以破坏人类肝脏和肺细胞的过程](https://www.cnbeta.com/articles/science/1318089.htm) | Mon Sep 19 2022 2:58 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当人们在不知情的情况下吃、喝或吸入几乎看不见的塑料碎片时会发生什么?虽然还不清楚这对人类到底有什么影响，但研究人员现在已经朝着回答这个问题迈出了一步。在ACS的《环境科学与技术》杂志上，一个研究小组报告了实验室结果，表明微小的塑料颗粒可以进入肝脏和肺细胞，扰乱它们的正常过程，可能导致不良的健康后果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [德国格林海德市长否认特斯拉取消工厂扩建项目：仍在建设中](https://www.cnbeta.com/articles/tech/1318087.htm) | Mon Sep 19 2022 2:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;德国格林海德市（Gruenheide）市长阿恩·克里斯蒂安尼（Arne Christiani）今日表示，特斯拉在柏林附近扩建工厂的计划没有改变，目前仍在建设中。克里斯蒂安尼上周曾表示，针对“特斯拉工厂扩建计划”的投票已无限期推迟。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [手机使用习惯报告显示北方人比南方人更爱用折叠屏](https://www.cnbeta.com/articles/tech/1318085.htm) | Mon Sep 19 2022 2:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月19日消息，据每日互动大数据日前发布的折叠屏手机报告显示，目前这一细分领域表现出两大特点，&lt;strong&gt;北方人更偏好使用折叠屏手机，华为、三星领跑了折叠屏市场，市占有率分别达到48.5%和达31.5%&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Xbox副总裁在《GTA6》泄露后支持R星：我深表同情](https://hot.cnbeta.com/articles/game/1318083.htm) | Mon Sep 19 2022 2:34 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;之前我们曾报道了《GTA6》多段实机演示泄露：男女主角造型亮相,而就在近日，XBOX公司副总裁萨拉·邦德在推特上表示与游戏开发团队团结一致，说她很同情在R星游戏还没准备好之前就被人“展示”出来的感觉。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [Nikola正式推出欧版Tre纯电动卡车 已开始接受预订](https://www.cnbeta.com/articles/tech/1318081.htm) | Mon Sep 19 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Nikola&lpar;NKLA.US&rpar;及其合作伙伴依维柯在周一举行的IAA Transportation 2022展览会上正式推出了European Nikola Tre纯电动卡车&lpar;BEV&rpar;以及Nikola Tre燃料电池卡车&lpar;FCEV&rpar;测试版。Nikola Tre纯电动卡车的4x2 Artic版本是一款零排放重型卡车，续航里程可达329英里。Nikola公司表示，这款车具有完成多种区域性任务的性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [英伟达股价年内跌55% “木头姐”逆市抄底逾40万股](https://www.cnbeta.com/articles/tech/1318079.htm) | Mon Sep 19 2022 2:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年以来，英伟达（NVDA.US）股价一路下挫，然而，“木头姐”凯西·伍德却不断逢低买入该股股票。根据“木头姐”旗下方舟投资公司的每日交易披露显示，其ETF一直在增持英伟达的股票，9月份买入了逾40万股。数据显示，截至6月30日，方舟旗下基金合计持有英伟达超过67.5万股。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [iPhone 15 Ultra或将到来：苹果手机明年全系换装USB-C](https://www.cnbeta.com/articles/tech/1318077.htm) | Mon Sep 19 2022 2:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继屏幕分析师Ross Young表态，iPhone 15全系会使用灵动岛形态的挖孔屏后，爆料人LeaksApplePro从信源对此予以确认。他还补充了关于iPhone 15系列的更多情况，供参考或者未来对照检查：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [苹果高管回应恼人的iOS 16复制粘贴安全提示：绝对不是预期中的行为](https://www.cnbeta.com/articles/tech/1318075.htm) | Mon Sep 19 2022 2:00 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司回应了用户关于iOS 16中一个恼人的弹出窗口的投诉，该窗口要求用户在应用程序想要访问剪贴板以粘贴文本、图像和其他内容时获得许可。新的提示被添加到iOS 16中，作为用户的隐私措施，要求应用程序询问访问剪贴板的权限，其中可能有敏感数据。&lt;strong&gt;然而，在用户安装iOS 16时，该提示已成为他们的烦恼，因为每当他们希望将某些东西粘贴到一个应用程序时，它都会不断要求获得许可。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [胡伟武：“中国人要有自己的芯片”](https://www.cnbeta.com/articles/tech/1318073.htm) | Mon Sep 19 2022 1:57 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，一场工业产品发布会引发关注，主办方龙芯中科联合合作伙伴发布了29款自主工业系列产品，这些产品全部基于国产的自主指令系统“龙架构”。长久以来，来自西方国家的两家科技公司的指令系统以及基于这两类指令系统所构建的信息技术体系，主导着全球信息产业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
