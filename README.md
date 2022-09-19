@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [&lpar;二&rpar;全解MySQL：一条SQL语句从诞生至结束的多姿多彩历程！](https://juejin.cn/post/7145102393988874253) | Mon Sep 19 2022 2:47 PM 
+- 🤗 [软考高级《系统架构设计师》论文之--论企业集成平台的技术与应用 备考知识点](https://juejin.cn/post/7145136745992945694) | Mon Sep 19 2022 5:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 企业集成平台相关内容，在每个课本中的介绍都非常短。 2011 2015 2020 2021 四个年份都考了这个题。 今年会不会考说不定，但是出现频率这么高，还是着手准备一下相关内容。 知识点 每 
+    </details> 
+
+- 🎡 [&lpar;二&rpar;全解MySQL：一条SQL语句从诞生至结束的多姿多彩历程！](https://juejin.cn/post/7145102393988874253) | Mon Sep 19 2022 2:47 PM 
     <details><summary>展开描述 ...</summary> 
     SQL大家都写过，但用于基于浏览器操作后是如何生成SQL的？SQL语句又是如何来到数据库执行的？本文会站在一条SQL的角度，从SQL的诞生到结束整个历程进行剖析。 
     </details> 
 
-- 🎡 [【云原生】Prometheus+Grafana 监控 k8s 资源实战操作](https://juejin.cn/post/7145097927067697159) | Mon Sep 19 2022 2:29 PM 
+- 🕯 [【云原生】Prometheus+Grafana 监控 k8s 资源实战操作](https://juejin.cn/post/7145097927067697159) | Mon Sep 19 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
     一、概述 Prometheus+Grafana环境部署可以参考我这篇文章：【云原生】Prometheus+Grafana on K8s 环境部署 二、监控架构 通过cadvisor采集容器、Pod相关 
     </details> 
 
-- 🕯 [使用json、yaml、toml作为配置文件，你知道他们的区别吗](https://juejin.cn/post/7145091045443764261) | Mon Sep 19 2022 2:03 PM 
+- 🚀 [使用json、yaml、toml作为配置文件，你知道他们的区别吗](https://juejin.cn/post/7145091045443764261) | Mon Sep 19 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
     前端领域使用最广的JSON文件格式，以及在k8s领域大显身手的yaml文件格式，最近兴起的toml文件格式。他们的区别是什么？各自的优势又是什么？有什么缺点呢？作为配置文件使用的区别又是什么呢？ 
     </details> 
 
-- 🚀 [【实战篇】最详细的Rollup打包项目教程](https://juejin.cn/post/7145090564801691684) | Mon Sep 19 2022 2:00 PM 
+- 💪 [【实战篇】最详细的Rollup打包项目教程](https://juejin.cn/post/7145090564801691684) | Mon Sep 19 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
     本文带你一起使用 Rollup 打包项目，实现以下功能： - **自动将 dependencies 依赖声明为 externals** - **支持处理外部 npm 依赖**等等 
-    </details> 
-
-- 💪 [聊聊Spring中最常用的11个扩展点](https://juejin.cn/post/7145084738775023646) | Mon Sep 19 2022 1:40 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 我们一说到spring，可能第一个想到的是 IOC（控制反转） 和 AOP（面向切面编程）。 没错，它们是spring的基石，得益于它们的优秀设计，使得spring能够从众多优秀框架中脱颖而出。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
