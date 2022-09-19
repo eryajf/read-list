@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [groundcover - 轻松、大规模地监控 K8s 应用程序](https://xinquji.com/posts/179632?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:23 AM 
+- 👀 [文曲星猜单词 - 一款休闲复古的猜单词游戏](https://xinquji.com/posts/179586?utm_campaign=xinquji-rss) | Tue Sep 20 2022 8:37 AM 
+    <details><summary>展开描述 ...</summary> 
+     一款休闲复古的猜单词游戏  
+    </details> 
+
+- 🥷 [groundcover - 轻松、大规模地监控 K8s 应用程序](https://xinquji.com/posts/179632?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
      轻松、大规模地监控 K8s 应用程序  
     </details> 
 
-- 🥷 [Wordplay - 一键生成 2000+ 字的优质内容](https://xinquji.com/posts/179631?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:22 AM 
+- 💼 [Wordplay - 一键生成 2000+ 字的优质内容](https://xinquji.com/posts/179631?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
      一键生成 2000+ 字的优质内容  
     </details> 
 
-- 💼 [Bootstrapping.Tech - 增强您的创业公司的概念体验](https://xinquji.com/posts/179630?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:21 AM 
+- 🦅 [Bootstrapping.Tech - 增强您的创业公司的概念体验](https://xinquji.com/posts/179630?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
      增强您的创业公司的概念体验  
     </details> 
 
-- 🦅 [Scholars - 一起阅读研究论文 - 评论、绘图和注释](https://xinquji.com/posts/179629?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:20 AM 
+- 😺 [Scholars - 一起阅读研究论文 - 评论、绘图和注释](https://xinquji.com/posts/179629?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
      一起阅读研究论文 - 评论、绘图和注释  
-    </details> 
-
-- 😺 [Moby - Framer 网站的移动应用程序网站模板](https://xinquji.com/posts/179628?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:19 AM 
-    <details><summary>展开描述 ...</summary> 
-     Framer 网站的移动应用程序网站模板  
     </details> 
 <!-- xinquji:END -->
