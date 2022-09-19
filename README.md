@@ -366,7 +366,7 @@
 <!-- v2ex:START -->
 - 🥸 [Win10 系统不同用户数据问题](https://www.v2ex.com/t/881402#reply0) | Mon Sep 19 2022 2:19 PM
 - 🤗 [添加 ComposeView 报错 CiewTreeLifecycleOwner not found](https://www.v2ex.com/t/881386#reply2) | Mon Sep 19 2022 1:33 PM
-- 🎭 [NAS 新手问题](https://www.v2ex.com/t/881382#reply7) | Mon Sep 19 2022 1:22 PM
+- 🎭 [NAS 新手问题](https://www.v2ex.com/t/881382#reply8) | Mon Sep 19 2022 1:22 PM
 - 🥷 [请教大佬们个硬件问题，感谢](https://www.v2ex.com/t/881374#reply8) | Mon Sep 19 2022 1:02 PM
 - 🐵 [哪家公司做单元测试？](https://www.v2ex.com/t/881368#reply1) | Mon Sep 19 2022 12:39 PM<!-- v2ex:END -->
 
