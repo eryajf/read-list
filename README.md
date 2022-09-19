@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [R星承认《GTA6》大规模泄露属实：将继续游戏开发](https://hot.cnbeta.com/articles/game/1318071.htm) | Mon Sep 19 2022 1:42 PM 
+- 🕯 [Nikola正式推出欧版Tre纯电动卡车 已开始接受预订](https://www.cnbeta.com/articles/tech/1318081.htm) | Mon Sep 19 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;90多段视频、时长52分钟、1万行源代码……如此离谱的大规模泄露居然在一直秘而不宣的《GTA6》上出现，实在是荒唐离谱。今晚（9月19日），&lt;strong&gt;R星正式发布公告，承认了泄露内容的真实性。官方指出三方力量非法进入了内部系统，下载了机密信息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Nikola&lpar;NKLA.US&rpar;及其合作伙伴依维柯在周一举行的IAA Transportation 2022展览会上正式推出了European Nikola Tre纯电动卡车&lpar;BEV&rpar;以及Nikola Tre燃料电池卡车&lpar;FCEV&rpar;测试版。Nikola Tre纯电动卡车的4x2 Artic版本是一款零排放重型卡车，续航里程可达329英里。Nikola公司表示，这款车具有完成多种区域性任务的性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [上海警方回应黄浦江畔出现鳄鱼：两次抓捕都逃脱了](https://www.cnbeta.com/articles/tech/1318069.htm) | Mon Sep 19 2022 1:42 PM 
+- 💼 [英伟达股价年内跌55% “木头姐”逆市抄底逾40万股](https://www.cnbeta.com/articles/tech/1318079.htm) | Mon Sep 19 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月16日，有网友称，在上海徐汇滨江进木港的黄浦江岸边，发现一条长约80厘米的鳄鱼，匍匐在滩涂上晒太阳。直到9月19日，仍然可以看到这条鳄鱼，一会儿懒懒地张开大嘴仿佛打哈欠，一会儿又转身游进水里，很悠闲的样子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年以来，英伟达（NVDA.US）股价一路下挫，然而，“木头姐”凯西·伍德却不断逢低买入该股股票。根据“木头姐”旗下方舟投资公司的每日交易披露显示，其ETF一直在增持英伟达的股票，9月份买入了逾40万股。数据显示，截至6月30日，方舟旗下基金合计持有英伟达超过67.5万股。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [联想RTX 4090显卡更多图出现 长度约36cm](https://www.cnbeta.com/articles/tech/1318067.htm) | Mon Sep 19 2022 1:11 PM 
+- 💂 [iPhone 15 Ultra或将到来：苹果手机明年全系换装USB-C](https://www.cnbeta.com/articles/tech/1318077.htm) | Mon Sep 19 2022 2:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在明天即将到来的“GeForce Beyond”特别活动中，如无意外英伟达将带来基于Ada Lovelace架构的GPU，普遍认为搭载AD102的GeForce RTX 4090将是这一代的首发产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;继屏幕分析师Ross Young表态，iPhone 15全系会使用灵动岛形态的挖孔屏后，爆料人LeaksApplePro从信源对此予以确认。他还补充了关于iPhone 15系列的更多情况，供参考或者未来对照检查：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [在火星留下中国人印迹 天问一号任务团队问鼎“世界航天奖”](https://www.cnbeta.com/articles/science/1318065.htm) | Mon Sep 19 2022 1:11 PM 
+- 🚀 [苹果高管回应恼人的iOS 16复制粘贴安全提示：绝对不是预期中的行为](https://www.cnbeta.com/articles/tech/1318075.htm) | Mon Sep 19 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，在法国巴黎召开的第73届国际宇航大会（IAC）上，我国首次火星探测天问一号任务团队获得国际宇航联合会2022年度“世界航天奖”。“世界航天奖”是国际宇航联合会年度最高奖，此前，嫦娥四号任务团队代表曾获此奖项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司回应了用户关于iOS 16中一个恼人的弹出窗口的投诉，该窗口要求用户在应用程序想要访问剪贴板以粘贴文本、图像和其他内容时获得许可。新的提示被添加到iOS 16中，作为用户的隐私措施，要求应用程序询问访问剪贴板的权限，其中可能有敏感数据。&lt;strong&gt;然而，在用户安装iOS 16时，该提示已成为他们的烦恼，因为每当他们希望将某些东西粘贴到一个应用程序时，它都会不断要求获得许可。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《GTA6》测试视频遭泄露 Take-Two盘前跌逾4%](https://hot.cnbeta.com/articles/game/1318063.htm) | Mon Sep 19 2022 1:10 PM 
+- 🎊 [胡伟武：“中国人要有自己的芯片”](https://www.cnbeta.com/articles/tech/1318073.htm) | Mon Sep 19 2022 1:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，近日一名黑客发布了知名游戏开发商Take-Two旗下正在开发的《侠盗猎车手6》（GTA6）大量实机测试视频，并被要挟“协商一份协议”。受此影响，Take-Two股价周一盘前跌逾4%。报道称，虽然此次泄露的内容如此广泛且庞大，以至于一些人怀疑这一内容的真实性，但据媒体援引熟悉游戏开发的人士的话指出，大规模泄露的视频是真实的。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，一场工业产品发布会引发关注，主办方龙芯中科联合合作伙伴发布了29款自主工业系列产品，这些产品全部基于国产的自主指令系统“龙架构”。长久以来，来自西方国家的两家科技公司的指令系统以及基于这两类指令系统所构建的信息技术体系，主导着全球信息产业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
