@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌Pixel 7 Pro Tensor G2处理器性能让人失望](https://www.cnbeta.com/articles/tech/1318103.htm) | Mon Sep 19 2022 4:15 PM 
+- 🕯 [投资元宇宙：是风口还是虎口？](https://www.cnbeta.com/articles/tech/1318123.htm) | Mon Sep 19 2022 5:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着谷歌为即将推出的Pixel 7和Pixel 7 Pro准备其下一代定制芯片Tensor G2，我们瞥见了该芯片组的表现，结果非常令人失望。&lt;/strong&gt;第二代Tensor不仅无法跟上骁龙8代的步伐，而且最终被高通的骁龙888击败，骁龙888是一款去年推出的SoC。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;元宇宙是近两年来的新兴概念，虚拟社交、数字藏品、VR游戏……被认为将是下一代互联网的元宇宙，究竟是风口还是虎口？这个新兴领域有哪些问题值得关注？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [传闻中的10月发布会前 未公布的iPad Pro型号在罗技官网被提及](https://www.cnbeta.com/articles/tech/1318101.htm) | Mon Sep 19 2022 3:50 PM 
+- 💼 [传中国大陆客户紧急抢购GPU：NVIDIA下达“超级急件”订单](https://www.cnbeta.com/articles/tech/1318121.htm) | Mon Sep 19 2022 5:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在传言中的下个月举行的发布会活动之前，网络上已经发现了两个未公布的iPad Pro型号的参考资料，预计新的iPad和Mac将被公布。9to5Mac在罗技的网站上发现了这些内容，其中提及第六代12.9英寸iPad Pro和第四代11英寸iPad Pro，这两款机型预计将在下个月推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月19日消息，&lt;strong&gt;传全球GPU龙头英伟达（NVIDIA）为了满足大陆客户激增的需求，近期对台积电下了“超级急件（super hot runs）”订单，计划在美国管制其A100/H100 GPU产品销往大陆的缓冲期之内完成更多的交付。&lt;/strong&gt;据悉，此次NVIDIA以“超级急件”的方式要求台积电提前生产了原订于明年出货的部分产品，&lt;strong&gt;总量约5000片晶圆。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《英雄联盟》2022总决赛宣传片公布 9月30日举行](https://hot.cnbeta.com/articles/game/1318099.htm) | Mon Sep 19 2022 3:38 PM 
+- 💂 [《王者荣耀》120帧极高帧率模式将对iPhone开放](https://hot.cnbeta.com/articles/game/1318119.htm) | Mon Sep 19 2022 5:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据《英雄联盟》官方微博，《英雄联盟》2022全球总决赛入围赛将于北京时间9月30日开启，官方发布了一则宣传片，一起了解一下。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《英雄联盟》S12总决赛宣传片：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着智能手机的迭代，120Hz高刷新率基本已是大多数安卓手机标配，不少手游也对120Hz高刷进行了适配，推出120帧高帧率模式，其中就包括腾讯《王者荣耀》。日前，《王者荣耀》官方在分享的“Bug 修复进展”中确认，&lt;strong&gt;将针对部分iOS机型开放极高帧率模式，详细信息将在后续公告中介绍。&lt;/strong&gt;预计120帧“极高帧率”模式将在新赛季对iPhone开放，苹果玩家不用羡慕安卓玩家了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [拜登的9份报告“藏着”美国Web3的未来](https://www.cnbeta.com/articles/tech/1318097.htm) | Mon Sep 19 2022 3:37 PM 
+- 🚀 [连续翻车窘境下 三星Galaxy S23仍有计划提供Exynos版本](https://www.cnbeta.com/articles/tech/1318117.htm) | Mon Sep 19 2022 5:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“我们要制定Web3（基于区块链的下一代互联网）的国际规则，不然几十年后子孙辈们就会像现在（芯片、操作系统等）一样被人掐脖子。”一名正在参与制定国内区块链技术标准的人员表示。虽然立场不同，但美国前CFTC主席Christopher Giancarlo在《Crypto Dad》中也表达了类似的观点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，据博主i冰宇宙爆料，&lt;strong&gt;三星仍有可能在部分市场发售Exynos版Galaxy S23系列（据称三星手机部门已经对此表达不满）。&lt;/strong&gt;爆料指出，三星Galaxy S23系列有骁龙8 Gen2版和Exynos 2300版两种选择，其中骁龙8 Gen2版占比超过了70%，而Exynos 2300版占比不到30%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [共享两轮车遭遇地方监管挑战 学者建议应由中央统一规定](https://www.cnbeta.com/articles/tech/1318095.htm) | Mon Sep 19 2022 3:36 PM 
+- 🎊 [消息称iPhone 15 Ultra将支持8K视频并带来更长的电池续航](https://www.cnbeta.com/articles/tech/1318115.htm) | Mon Sep 19 2022 5:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近两年，多地针对共享两轮车的监管动向，引发业内热议。2022年8月末，上海市人大常委会在执法检查时发现，美团单车因共享单车车辆占道被当地第三方公司扣留，每年需支付超过亿元的“赎车费”；此前的5月，湖南省张家界市举行城区共享电单车五年期特许经营权网上拍卖会，4500辆共享电单车分三个标的竞拍，成交金额超过4500万元；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;iPhone 14系列上周刚刚问世（除了14 Plus下个月才上市），现在就开始传言iPhone 15是不是太早了？不，其实这些传闻已经持续了一段时间了，LeaksApplePro刚刚发布了一些新的预测。&lt;/strong&gt;所有的iPhone 15型号预计都会放弃Lightning，转而使用USB-C，这并不奇怪，因为在15系列上市后的几个月内，USB-C将成为欧盟的强制性产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
