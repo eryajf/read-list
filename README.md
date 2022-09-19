@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [雨巷 - 程序员，学生党，睡眠障碍者必备的白噪音神器](https://xinquji.com/posts/179585?utm_campaign=xinquji-rss) | Mon Sep 19 2022 8:14 AM 
+- 👀 [groundcover - 轻松、大规模地监控 K8s 应用程序](https://xinquji.com/posts/179632?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     程序员，学生党，睡眠障碍者必备的白噪音神器  
+     轻松、大规模地监控 K8s 应用程序  
     </details> 
 
-- 🥷 [UI Design - UI 设计由设计爱好者用爱精心打造](https://xinquji.com/posts/179614?utm_campaign=xinquji-rss) | Mon Sep 19 2022 6:19 AM 
+- 🥷 [Wordplay - 一键生成 2000+ 字的优质内容](https://xinquji.com/posts/179631?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     UI 设计由设计爱好者用爱精心打造  
+     一键生成 2000+ 字的优质内容  
     </details> 
 
-- 💼 [Blinqo - Chrome 扩展可模糊任何网站上的文本、图像、表格](https://xinquji.com/posts/179613?utm_campaign=xinquji-rss) | Mon Sep 19 2022 6:18 AM 
+- 💼 [Bootstrapping.Tech - 增强您的创业公司的概念体验](https://xinquji.com/posts/179630?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     Chrome 扩展可模糊任何网站上的文本、图像、表格  
+     增强您的创业公司的概念体验  
     </details> 
 
-- 🦅 [ZoZo - 触手可及的 iPhone 和 iPad 键盘快捷键](https://xinquji.com/posts/179612?utm_campaign=xinquji-rss) | Mon Sep 19 2022 6:16 AM 
+- 🦅 [Scholars - 一起阅读研究论文 - 评论、绘图和注释](https://xinquji.com/posts/179629?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     触手可及的 iPhone 和 iPad 键盘快捷键  
+     一起阅读研究论文 - 评论、绘图和注释  
     </details> 
 
-- 😺 [Third Shippers - 实时查找开源智能合约](https://xinquji.com/posts/179611?utm_campaign=xinquji-rss) | Mon Sep 19 2022 6:16 AM 
+- 😺 [Moby - Framer 网站的移动应用程序网站模板](https://xinquji.com/posts/179628?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     实时查找开源智能合约  
+     Framer 网站的移动应用程序网站模板  
     </details> 
 <!-- xinquji:END -->
