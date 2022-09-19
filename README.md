@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [发包之前你要了解的Peer Dependencies](https://juejin.cn/post/7144899802898104350) | Mon Sep 19 2022 1:41 AM 
+- 🤗 [Flutter中那些你需要知道的文本知识！](https://juejin.cn/post/7144946083070738445) | Mon Sep 19 2022 4:40 AM 
     <details><summary>展开描述 ...</summary> 
-    Dependencies Peer Dependencies 关于 这两者的判断， 如果你开发了一个库，要发包，那这个最好小小地区分一下。 
+    文字是人类用符号记录表达信息以传之久远的方式和工具。那么在Flutter中，文字是由哪些部分组成的呢？Flutter又是如何绘制和渲染文本的呢？ 
     </details> 
 
-- 🎡 [股票中 5 日均线&lpar;MA&rpar;你会画了？](https://juejin.cn/post/7144899255814062110) | Mon Sep 19 2022 1:38 AM 
+- 🎡 [队列都知道，单调队列有了解吗？](https://juejin.cn/post/7144939559489372168) | Mon Sep 19 2022 4:15 AM 
     <details><summary>展开描述 ...</summary> 
-    我们可以通过调整滑动窗口，算出股票中的 5 日均线，可以通过移动平均过滤算法预测接下来一段时间的走势。这是一件很有趣的事情～ 
+    今天，分享到单调栈的孪生兄弟 —— 单调队列（Monotonic Queue）。类似地，单调队列也是在队列的基础上增加了单调的性质（单调递增或单调递减）。那么单调队列是用来解决什么问题的呢？ 
     </details> 
 
-- 🕯 [精读《State of CSS 2022》](https://juejin.cn/post/7144891812766253093) | Mon Sep 19 2022 1:09 AM 
+- 🕯 [如何快速成为一名熟练的 Webpack 配置工程师 - 上篇](https://juejin.cn/post/7144934998884220958) | Mon Sep 19 2022 3:57 AM 
     <details><summary>展开描述 ...</summary> 
-    本周读一读 State of CSS 2022 介绍的 CSS 特性。2022 已经支持的特性 @layer... 
+    相信不少小伙伴都有听说过这样一个名词 - Webpack 配置工程师。😂，都需要设置专门的岗位去维护了，可见 Webpack 的配置是有多么复杂。 现实也确实如此。发展到现在 5.x 版本， Webp 
     </details> 
 
-- 🚀 [自动化升级项目版本号---python自动更新pom文件](https://juejin.cn/post/7144891740221079559) | Mon Sep 19 2022 1:09 AM 
+- 🚀 [请小心ETCD的Compact](https://juejin.cn/post/7144934636932562958) | Mon Sep 19 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-    项目越来越多，版本管理越来越麻烦,在项目上我使用 `maven version` 来进行版本管理。主要还是在分布式项目中模块众多的场景中使用，毕竟各个模块对外的版本需要保持统一 
+    本文想讨论一些ETCD的使用注意事项，ETCD作为一个分布式KV数据库，作用有很多，下面以用ETCD作为配置中心来举例，用到了ETCD关键的两个功能：Watch和Revision。Watch可以实时推 
     </details> 
 
-- 💪 [vue-manage-system升级到vue3的开发总结](https://juejin.cn/post/7144891553071235103) | Mon Sep 19 2022 1:08 AM 
+- 💪 [Oasis 物理第四弹：角色控制器驱动人物动画](https://juejin.cn/post/7144931950690566174) | Mon Sep 19 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-    近期抽了点时间，对 vue-manage-system 这个项目进行了升级，从 vue2 升级到 vue3、 elementplus、vite、pinia、typescript。 
+    这篇文章中，我们将进入角色控制器组件 CharacterController，该组件实质上是碰撞器组件的一种高级封装，通过这一组件可以更容易实现角色控制相关的运动控制和事件触发～ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
