@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家提出“成本相对较低 ”的计划 希望使地球的两极温度降低2°C](https://www.cnbeta.com/articles/science/1317993.htm) | Mon Sep 19 2022 9:14 AM 
+- 🕯 [三只松鼠被曝吃出油炸壁虎 官方:无制作、包装带入可能](https://www.cnbeta.com/articles/tech/1318007.htm) | Mon Sep 19 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一项新研究表明，利用平流层气溶胶喷射（SAI）的热反射粒子聚焦于两极，有望使地球两极降温2°C，并重新冻结北极和南极。&lt;/strong&gt;研究人员表示，该计划“在常规技术下是可行的，成本相对较低”。虽然副作用可能是令人讨厌的，政治上也几乎不可能，但该计划提供了一种方法来减缓或扭转因极地冰层崩溃而预计的灾难性的海平面上升。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;民以食为天，但“买一送一”的事件并不少见。近日消息，据互因科技报道，在广东茂名，有网友在“三只松鼠多味花生”里发现了一只&lt;strong&gt;疑似被油炸过的壁虎&lt;/strong&gt;。网友小乐（化名）表示，自己5月份为家人网购了一份三只松鼠的零食大礼包，9月14日家人打开了其中一包“多味花生”吃，吃后立刻用包装袋上的封条封住。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美国燃料成本飙升 煤炭发电是最佳选择？](https://www.cnbeta.com/articles/tech/1317991.htm) | Mon Sep 19 2022 9:07 AM 
+- 💼 [可打卫星电话的消费级国产手机即将推出 超越iPhone 14和华为Mate50](https://www.cnbeta.com/articles/tech/1318005.htm) | Mon Sep 19 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;由于美国燃料价格飙升，该国电价大涨，但尽管如此，该国的煤炭发电成本却一直非常稳定。&lt;/strong&gt;据了解，由于西弗吉尼亚州严重依赖煤炭发电，该州历来是全美电价最低的州之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;手机直连卫星，一场6G预演正在进行时，全球手机厂商开启“追星之旅”。“华为Mate 50系列手机成为全球首款支持北斗卫星消息的大众智能手机，开启了大众卫星通信时代。”9月6日的新品发布会上，华为常务董事、终端事业群CEO余承东自豪地宣称。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Canalys ：2022年第二季度，三星智能手机市场份额领跑市场](https://www.cnbeta.com/articles/tech/1317989.htm) | Mon Sep 19 2022 9:06 AM 
+- 💂 [拿到适航证书：镇海炼化生物航煤首车将运往空中客车天津工厂](https://www.cnbeta.com/articles/tech/1318003.htm) | Mon Sep 19 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;2022年第二季度，全球智能手机出货量减少至2.87亿台，是疫情爆发以来，2020年第二季度后的季度最低点。&lt;/strong&gt;三星智能手机出货量为6180万台，市场份额占比21%，领跑市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;中国石化镇海炼化公司日前收到中国民航局审定的生物航煤适航证书《技术标准规定项目批准书》。&lt;/strong&gt;这标志着中国首套生物航煤工业装置产出的首批规模化生物航煤，即将助力民航客机飞向蓝天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [神十四乘组第二次出舱高清特辑发布：舱外看蔚蓝地球绝美](https://www.cnbeta.com/articles/science/1317987.htm) | Mon Sep 19 2022 9:06 AM 
+- 🚀 [《GTA6》粉丝对泄露图稍作处理 画面更清晰效果更好](https://hot.cnbeta.com/articles/game/1318001.htm) | Mon Sep 19 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中国航天官方消息，&lt;strong&gt;北京时间2022年9月17日17时47分，经过约5小时的出舱活动，神舟十四号航天员陈冬、刘洋、蔡旭哲密切协同，完成出舱活动期间全部既定任务。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日《GTA6》视频和截图在网上泄露，因为是早期开发版，所以画面上有调试代码。国外粉丝Lukas Kanik对部分泄露图稍作处理，去除图上无用信息、调高分辨率，获得了更清晰、效果更好的截图，一起来欣赏下吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [是什么导致恐龙和地球上其他生命的灭绝？也许不是小行星撞击](https://www.cnbeta.com/articles/science/1317985.htm) | Mon Sep 19 2022 8:58 AM 
+- 🎊 [消息称明年特斯拉Model 3和Y电池将有重大升级 部分采用比亚迪刀片电池](https://www.cnbeta.com/articles/tech/1317999.htm) | Mon Sep 19 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;是什么导致6600万年前白垩纪末期的恐龙的灭绝？长期以来，这一直是科学界争论的话题，许多研究人员已经着手确定是什么导致了五次大规模灭绝事件，在地质学上瞬间重塑了地球上的生命。一些专家认为，撞向地球的彗星或小行星是最有可能的大规模破坏因素。&lt;strong&gt;其他科学家认为，大型火山喷发是灭绝事件的主要原因。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1317985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月19日消息，据国外媒体报道，&lt;strong&gt;社交媒体上的消息显示，特斯拉在明年，会对Model 3和Model Y这两款畅销车的电池进行升级，部分车型采用4680电池，部分采用比亚迪所供应的刀片电池。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1317999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
