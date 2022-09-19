@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊聊Spring中最常用的11个扩展点](https://juejin.cn/post/7145084738775023646) | Mon Sep 19 2022 1:40 PM 
+- 🤗 [&lpar;二&rpar;全解MySQL：一条SQL语句从诞生至结束的多姿多彩历程！](https://juejin.cn/post/7145102393988874253) | Mon Sep 19 2022 2:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    SQL大家都写过，但用于基于浏览器操作后是如何生成SQL的？SQL语句又是如何来到数据库执行的？本文会站在一条SQL的角度，从SQL的诞生到结束整个历程进行剖析。 
+    </details> 
+
+- 🎡 [【云原生】Prometheus+Grafana 监控 k8s 资源实战操作](https://juejin.cn/post/7145097927067697159) | Mon Sep 19 2022 2:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、概述 Prometheus+Grafana环境部署可以参考我这篇文章：【云原生】Prometheus+Grafana on K8s 环境部署 二、监控架构 通过cadvisor采集容器、Pod相关 
+    </details> 
+
+- 🕯 [使用json、yaml、toml作为配置文件，你知道他们的区别吗](https://juejin.cn/post/7145091045443764261) | Mon Sep 19 2022 2:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    前端领域使用最广的JSON文件格式，以及在k8s领域大显身手的yaml文件格式，最近兴起的toml文件格式。他们的区别是什么？各自的优势又是什么？有什么缺点呢？作为配置文件使用的区别又是什么呢？ 
+    </details> 
+
+- 🚀 [【实战篇】最详细的Rollup打包项目教程](https://juejin.cn/post/7145090564801691684) | Mon Sep 19 2022 2:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文带你一起使用 Rollup 打包项目，实现以下功能： - **自动将 dependencies 依赖声明为 externals** - **支持处理外部 npm 依赖**等等 
+    </details> 
+
+- 💪 [聊聊Spring中最常用的11个扩展点](https://juejin.cn/post/7145084738775023646) | Mon Sep 19 2022 1:40 PM 
     <details><summary>展开描述 ...</summary> 
     前言 我们一说到spring，可能第一个想到的是 IOC（控制反转） 和 AOP（面向切面编程）。 没错，它们是spring的基石，得益于它们的优秀设计，使得spring能够从众多优秀框架中脱颖而出。 
-    </details> 
-
-- 🎡 [使用Docker安装部署MySQL数据库](https://juejin.cn/post/7145084769540243487) | Mon Sep 19 2022 1:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    Docker是我们常用的容器引擎，使用Docker来部署和管理我们的常用数据库例如MySQL是非常的方便的。不过使用Docker安装部署MySQL还是有一些需要注意的地方的。 
-    </details> 
-
-- 🕯 [五子棋AI优化：α-β剪枝](https://juejin.cn/post/7145080191001231397) | Mon Sep 19 2022 1:22 PM 
-    <details><summary>展开描述 ...</summary> 
-    Alpha-beta剪枝是一种搜索算法，用以减少极小化极大算法（Minimax算法）搜索树的节点数。这是一种对抗性搜索算法，主要应用于机器游玩的二人游戏（如井字棋、象棋、围棋）。当算法评估出某策略的后 
-    </details> 
-
-- 🚀 [Google SRE 薪水揭秘](https://juejin.cn/post/7145080184624906270) | Mon Sep 19 2022 1:22 PM 
-    <details><summary>展开描述 ...</summary> 
-    SRE 是确保所有生产环境（Infra/Server/DBS等）一直正常运行的人。每个网络科技公司基本都有这个部门。但是，这个角色不应与开发人员的角色混淆。 SRE 的关注点在于如何在发布新功能和确保 
-    </details> 
-
-- 💪 [[LeetCode算法]有了二叉树层序遍历，妈妈再也不用担心我不会做二叉树层级题了](https://juejin.cn/post/7145079162389315591) | Mon Sep 19 2022 1:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 博主最近在刷leetcode，做到二叉树套题的时候发现很多题的解题思路都是基于二叉树的层序遍历来完成的，因此写下这篇文章，记录一下二叉树层序遍历这件&quot;神器&quot;在实战的运用。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
