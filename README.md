@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 美成立专门机构打击加密货币犯罪；洲际酒店遭黑客破坏性攻击](https://www.freebuf.com/articles/344823.html) | Mon Sep 19 2022 12:06 AM 
+- 🦄 [碰撞测试作弊假？黑客曝光特斯拉使用“特殊代码”](https://www.freebuf.com/news/344842.html) | Mon Sep 19 2022 3:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    黑客称，特斯拉一直在添加涉及碰撞测试机构的代码，包括刚刚测试过 Model Y 的 ANCAP 和 EuroNCAP。 
+    </details> 
+
+- 🦄 [“泄露”的咖啡！黑客出售近22万名新加坡星巴克顾客数据](https://www.freebuf.com/news/344836.html) | Mon Sep 19 2022 3:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    该事件可能泄露了顾客姓名、性别、出生日期、手机号码、电子邮件地址、住宅地址等个人敏感信息。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | 美成立专门机构打击加密货币犯罪；洲际酒店遭黑客破坏性攻击](https://www.freebuf.com/articles/344823.html) | Mon Sep 19 2022 12:06 AM 
     <details><summary>展开描述 ...</summary> 
     美国司法部组建了数字资产协调人网络&lpar;Digital Asset Coordinators Network&rpar;专门打击加密货币犯罪。 
     </details> 
 
-- 🦄 [FreeBuf周报 | 《网络安全法》将迎来修改；乌克兰网络攻击瘫痪俄罗斯2400个网站](https://www.freebuf.com/news/344710.html) | Fri Sep 16 2022 7:48 AM 
+- 🪄 [FreeBuf周报 | 《网络安全法》将迎来修改；乌克兰网络攻击瘫痪俄罗斯2400个网站](https://www.freebuf.com/news/344710.html) | Fri Sep 16 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
     我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🦅 [网安大国系列 | 澳大利亚：来自大洋孤岛的隐忧](https://www.freebuf.com/articles/others-articles/344697.html) | Fri Sep 16 2022 6:20 AM 
+- 💻 [网安大国系列 | 澳大利亚：来自大洋孤岛的隐忧](https://www.freebuf.com/articles/others-articles/344697.html) | Fri Sep 16 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
     四面环海的地理属性以及远离任何强大同盟的地缘政治因素，澳大利亚似乎向来对周遭环境颇为敏感，网络空间也不例外。 
-    </details> 
-
-- 🪄 [新的恶意软件包通过YouTube视频自我传播](https://www.freebuf.com/news/344691.html) | Fri Sep 16 2022 6:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    一个新的恶意软件包利用受害者YouTube频道自我传播。 
-    </details> 
-
-- 💻 [攻击溯源的成本与难度 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/344674.html) | Fri Sep 16 2022 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为安全事件发生后，进行事后响应的重要组成部分，攻击溯源有助于企业在一定程度上还原攻击者路径及攻击手法，并以此加强自身防御，尽量避免二次攻击的发生。但在实际操作中，溯源的难度、时间的可控性等往往难以估量，甚至还会带来不小的内部损耗，但面对有时不得不做的溯源，企业应该如何评估考量？该从哪些方面提升溯源效率，本期话题我们就以企业进行攻击溯源为话题，对相关问题展开讨论。 
     </details> 
 <!-- freebuf:END -->
 
