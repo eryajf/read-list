@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [『华强买瓜』奇袭好莱坞！Jupyter也能创建可交互仪表板啦！超全面的英语论文写作套路；神经辐射场NeRF工具包；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7144950834580127780) | Mon Sep 19 2022 4:59 AM 
+- 🤗 [一文聊透 Solidity 语法：助你成为智能合约专家](https://juejin.cn/post/7144985705033728030) | Mon Sep 19 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-    XRLocalization可视化定位工具包、Feature engine特征工程工具包、compose面向预测工程的自动化ML工具、ZLMediaKit高性能运营级流媒体服务框架… 
+    这篇文章将会介绍我认为使用 Solidity 编写智能合约时 90% 以上的场景中能够用到的语法和特性。 同时本文会拿 solidity 和一些面向对象的语言做对比，如果你完全不懂其他编程语言，那么本 
     </details> 
 
-- 🎡 [一文带你玩转ProtoBuf](https://juejin.cn/post/7144948875613339685) | Mon Sep 19 2022 4:53 AM 
+- 🎡 [如何从零开始解读产品经理需求分析-需求挖掘](https://juejin.cn/post/7144983251604471816) | Mon Sep 19 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-    近期会更新一系列Go微服务进阶实战的文章，这篇《一文带你玩转ProtoBuf》是小白入门微服务的必看教程，ProtoBuf相比于json和xml更小、更快、更简单。 
+    （一）需求 ① 什么是需求引言 ① 什么是需求 ③ 常见的需求 ④ 用户需求的举例 ⑤ 业务需求的举例 ⑥ 产品需求 ⑦ 三者的关系 1.用户需求和业务需求都是产品需求的来源。 2.用户需求和业务需求 
     </details> 
 
-- 🕯 [半自动文字海报生成小工具（字数&amp;模版限定款）](https://juejin.cn/post/7144947311439773733) | Mon Sep 19 2022 4:45 AM 
+- 🕯 [基于 Redisson 和 Kafka 的延迟队列设计方案](https://juejin.cn/post/7144969196542099469) | Mon Sep 19 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！灵感来了，当然是实现它，我用原生JS实现了一个半自动生产文字海报的小工具。 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第2篇文章，点击查看活动详情 背景 其实在工作中延迟任务的场景还是比较常见的，比如电商场景中： 用户下单30分钟未支付自动取消订单； 订单申请退款 
     </details> 
 
-- 🚀 [一文带你读懂何为 macOS App 公证，以及如何自动化实现](https://juejin.cn/post/7144946877681631239) | Mon Sep 19 2022 4:44 AM 
+- 🚀 [使用 FastAPI 实现服务端的 CRUD](https://juejin.cn/post/7144917967862497316) | Mon Sep 19 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在上篇文章「macOS App 自动化分发 App Store 探索与实践」中讲解了如何通过 Shell 脚本实现 macOS App 自动化分发 App Store。相信，看过的同学都或多或少 
+    FastAPI 是一个用于构建 API 的现代、快速（高性能）的 web 框架，使用 Python 3.6+ 并基于标准的 Python 类型提示。 
     </details> 
 
-- 💪 [Flutter中那些你需要知道的文本知识！](https://juejin.cn/post/7144946083070738445) | Mon Sep 19 2022 4:40 AM 
+- 💪 [美团隐私计算平台通过行业权威认证](https://juejin.cn/post/7144917147838316574) | Mon Sep 19 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
-    文字是人类用符号记录表达信息以传之久远的方式和工具。那么在Flutter中，文字是由哪些部分组成的呢？Flutter又是如何绘制和渲染文本的呢？ 
+    近日，在2022年隐私计算大会上，中国信通院公布第六批可信隐私计算评测结果，美团隐私计算平台通过“联邦学习安全”和“多方安全计算基础能力”两个专项评测认证。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
