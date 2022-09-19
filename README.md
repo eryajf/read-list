@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [五子棋AI优化：α-β剪枝](https://juejin.cn/post/7145080191001231397) | Mon Sep 19 2022 1:22 PM 
+- 🤗 [聊聊Spring中最常用的11个扩展点](https://juejin.cn/post/7145084738775023646) | Mon Sep 19 2022 1:40 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 我们一说到spring，可能第一个想到的是 IOC（控制反转） 和 AOP（面向切面编程）。 没错，它们是spring的基石，得益于它们的优秀设计，使得spring能够从众多优秀框架中脱颖而出。 
+    </details> 
+
+- 🎡 [使用Docker安装部署MySQL数据库](https://juejin.cn/post/7145084769540243487) | Mon Sep 19 2022 1:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    Docker是我们常用的容器引擎，使用Docker来部署和管理我们的常用数据库例如MySQL是非常的方便的。不过使用Docker安装部署MySQL还是有一些需要注意的地方的。 
+    </details> 
+
+- 🕯 [五子棋AI优化：α-β剪枝](https://juejin.cn/post/7145080191001231397) | Mon Sep 19 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
     Alpha-beta剪枝是一种搜索算法，用以减少极小化极大算法（Minimax算法）搜索树的节点数。这是一种对抗性搜索算法，主要应用于机器游玩的二人游戏（如井字棋、象棋、围棋）。当算法评估出某策略的后 
     </details> 
 
-- 🎡 [Google SRE 薪水揭秘](https://juejin.cn/post/7145080184624906270) | Mon Sep 19 2022 1:22 PM 
+- 🚀 [Google SRE 薪水揭秘](https://juejin.cn/post/7145080184624906270) | Mon Sep 19 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
     SRE 是确保所有生产环境（Infra/Server/DBS等）一直正常运行的人。每个网络科技公司基本都有这个部门。但是，这个角色不应与开发人员的角色混淆。 SRE 的关注点在于如何在发布新功能和确保 
     </details> 
 
-- 🕯 [[LeetCode算法]有了二叉树层序遍历，妈妈再也不用担心我不会做二叉树层级题了](https://juejin.cn/post/7145079162389315591) | Mon Sep 19 2022 1:17 PM 
+- 💪 [[LeetCode算法]有了二叉树层序遍历，妈妈再也不用担心我不会做二叉树层级题了](https://juejin.cn/post/7145079162389315591) | Mon Sep 19 2022 1:17 PM 
     <details><summary>展开描述 ...</summary> 
     前言 博主最近在刷leetcode，做到二叉树套题的时候发现很多题的解题思路都是基于二叉树的层序遍历来完成的，因此写下这篇文章，记录一下二叉树层序遍历这件&quot;神器&quot;在实战的运用。 
-    </details> 
-
-- 🚀 [TS如何结合React在新项目中使用呢，来瞅一眼，让你受益匪浅](https://juejin.cn/post/7145074407710326815) | Mon Sep 19 2022 12:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、前言 单独的使用 TypeScript 并不会导致学习成本很高，但是绝大部分前端开发者的项目都是依赖于框架的 例如与 Vue、React 这些框架结合使用的时候，会有一定的门槛 使用 TypeSc 
-    </details> 
-
-- 💪 [SpringBoot2源码1-嵌入式Tomcat启动和@SpringBootApplication注解原理](https://juejin.cn/post/7145073146272432158) | Mon Sep 19 2022 12:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    嵌入式Tomcat启动以及在SpringMVC启动原理。核心注解@SpringBootApplication注入组件说明 
     </details> 
 <!-- juejin:END -->
 ### 少数派
