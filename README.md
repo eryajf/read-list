@@ -502,7 +502,7 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [iOS 16 与 iPhone 14 Pro 全套内置自带新壁纸打包下载](https://www.iplaysoft.com/p/iphone14-pro-ios16-wallpapers) | Mon Sep 19 2022 2:14 AM
+- 🧐 [iPhone 14 Pro 全套内置自带壁纸 + iOS16 新壁纸打包下载](https://www.iplaysoft.com/p/iphone14-pro-ios16-wallpapers) | Mon Sep 19 2022 2:14 AM
 - 🧑‍🏫 [苹果 QQ for Mac 全新体验版下载 - 新一代架构重构版 &lpar;音视频通话/深色模式/实况文本等&rpar;](https://www.iplaysoft.com/qq-for-mac.html) | Sun Sep 18 2022 11:02 AM
 - 🥰 [锁屏启动 - 超好用 iOS16 锁屏小组件！iPhone 一键打开健康码 / 行程卡 / 收付款码等](https://www.iplaysoft.com/locklauncher.html) | Thu Sep 15 2022 11:14 AM
 - 💻 [开学季打折：MarginNote / 白描 / TextSeek / CareUEyes 等软件 6 折起](https://www.iplaysoft.com/news/5771) | Wed Sep 14 2022 1:25 PM
