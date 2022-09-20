@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有 免费的 geo json 下载地址 到镇的?](https://www.v2ex.com/t/881642#reply0) | Tue Sep 20 2022 9:22 AM
-- 🤗 [做 40 年程序员是一种什么体验？他给出了 13 条建议](https://www.v2ex.com/t/881638#reply0) | Tue Sep 20 2022 9:13 AM
-- 🎭 [奇文共赏： 12 年没有版本控制的 PHP 代码，产生两千万美元年收入](https://www.v2ex.com/t/881625#reply8) | Tue Sep 20 2022 8:39 AM
-- 🥷 [如何实现安卓开机自启动？](https://www.v2ex.com/t/881623#reply7) | Tue Sep 20 2022 8:33 AM
-- 🐵 [刘勇智：一码通缺陷分析与架构设计方案丨声网开发者创业讲堂 Vol.02](https://www.v2ex.com/t/881617#reply1) | Tue Sep 20 2022 8:22 AM<!-- v2ex:END -->
+- 🥸 [TCP 发出指令，硬件声音提示器，家里 DIY 用，有现成的不？](https://www.v2ex.com/t/881661#reply0) | Tue Sep 20 2022 10:17 AM
+- 🤗 [S3 桶有办法实现客户端加密（即原文不会直接提交给存储服务器）吗？看了下 S3 的文档，貌似只能提交原文，服务器用预设密钥或从 KMS 获取密钥进行加密。](https://www.v2ex.com/t/881658#reply2) | Tue Sep 20 2022 10:06 AM
+- 🎭 [单元测试有落地效果好的团队吗？](https://www.v2ex.com/t/881655#reply4) | Tue Sep 20 2022 9:58 AM
+- 🥷 [2022 年，互联网已然下半场，程序员的路在何方？](https://www.v2ex.com/t/881650#reply3) | Tue Sep 20 2022 9:41 AM
+- 🐵 [Mysql 数据库遭遇攻击，数据表全变成 z_readme_recover](https://www.v2ex.com/t/881646#reply0) | Tue Sep 20 2022 9:29 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
