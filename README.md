@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软放宽了Xbox玩光盘游戏的DRM限制](https://hot.cnbeta.com/articles/game/1318351.htm) | Tue Sep 20 2022 4:35 AM 
+- 🕯 [一加10R“Prime Blue Edition”新蓝配色将于9月22日登陆印度市场](https://www.cnbeta.com/articles/tech/1318399.htm) | Tue Sep 20 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软表示 Xbox Series X 即便是在离线状态下，也能更轻松地玩游戏了。&lt;strong&gt;在安装本月早些时候发布的 2208 更新之后，在玩 Xbox One 光盘游戏时不再强制玩家进行在线兼容性检查检查。&lt;/strong&gt;相反，您只需将光盘放入，安装游戏，然后开始游戏，全程无需互联网连接。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在本月初做过预告之后，一加今天宣布一加 10R 的“Prime Blue Edition”新蓝配色将于 9 月 22 日在印度市场发售。&lt;/strong&gt;根据亚马逊印度产品页提供的信息，Prime Blue Edition 只是在颜色方面有所差异，外观设计和内部规格都基本保持相同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《卫报》：硅谷的黄金时代即将结束了？](https://www.cnbeta.com/articles/tech/1318349.htm) | Tue Sep 20 2022 4:32 AM 
+- 💼 [澳大利亚的净零排放之路：五个太阳能发电厂 每个和塔斯马尼亚岛一样大](https://www.cnbeta.com/articles/science/1318397.htm) | Tue Sep 20 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英国《卫报》9月17日文章，原题：硅谷的黄金时代即将结束？ Snapchat大规模裁员，Meta和苹果市值暴跌，其他大型科技公司暂停招聘，所有这些都在日益凸显一个问题：硅谷的黄金时代是否即将结束？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，澳大利亚拥有大量的阳光和沙漠空间，为该国在净零排放时代继续成为能源出口国做好了准备。&lt;strong&gt;但是，根据一份新报告，它需要建立的可再生资产的规模绝对是史诗般的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [法拉第未来大股东向公司提起诉讼 要求罢免两位董事会成员](https://www.cnbeta.com/articles/tech/1318347.htm) | Tue Sep 20 2022 4:30 AM 
+- 💂 [与争议网红合作 G2 Esports总裁被罚无薪休假](https://hot.cnbeta.com/articles/game/1318395.htm) | Tue Sep 20 2022 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月20日消息，法庭文件显示，电动汽车初创企业法拉第未来的大股东对公司提起诉讼，要求罢免两位董事会成员，这让法拉第未来的董事会改革纷争再度升级。目前法拉第未来尚未开始量产FF 91豪华电动汽车。大股东FF Top一直在向公司施压，要求罢免执董事会主席苏珊·斯文森（Susan Swenson）和董事会成员布莱恩·克罗利基（Brian Krolicki）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;队伍参与《英雄联盟》、《CS：GO》、《Valorant》等诸多游戏赛事的电竞公司 G2Esports 首席执行官 Carlos Rodiriguez 目前已经同意休 8 周的无薪假期，这一“惩罚”源于上周他在Twitter上发布了与此前已经因被多个社交媒体网站（YouTube、Facebook、抖音等）封禁的网红 Andrew Tate 一起开 Party 的视频。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [4年前才值1亿的Figma转身卖了200亿 结果用户都在喊它快逃？](https://www.cnbeta.com/articles/tech/1318345.htm) | Tue Sep 20 2022 4:26 AM 
+- 🚀 [过滤系统升级：OpenAI再次开放DALL-E 2的面容编辑功能](https://www.cnbeta.com/articles/tech/1318393.htm) | Tue Sep 20 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近几天，在科技公司不断传出裁员、估值下跌的低迷之中，一桩巨额收购案引爆了投资界和整个设计圈——全球最大多媒体制作软件开发商Adobe宣布以200亿美元的价格收购设计界黑马新秀Figma。这桩收购不仅是Adobe自1982年成立以来的最大收购案，也是设计行业中迄今为止最大的一笔收购。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在初期禁用了一段时间之后，OpenAI 本周再次开放了 DALL-E 2 的人脸编辑功能。&lt;strong&gt;有权访问的客户，可于即日起上传人脸、以使用 AI 驱动的图像生成系统对其进行编辑。&lt;/strong&gt;此前该平台禁止用户使用和分享这部分内容，并禁止上传任何可能描绘真实人物的照片，包括名人和公众人物的照片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [部分iPhone 14用户吐槽无法向联系人进行AirDrop隔空投送](https://www.cnbeta.com/articles/tech/1318343.htm) | Tue Sep 20 2022 4:23 AM 
+- 🎊 [特斯拉超级充电服务在欧洲大幅涨价](https://www.cnbeta.com/articles/tech/1318391.htm) | Tue Sep 20 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;由 MacRumors 论坛网友发布的大量吐槽帖可知，不少 iPhone 14 用户都遇到了无法正常使用 AirDrop 功能的问题。&lt;/strong&gt;具体说来是，当尝试向已知联系人发送文件时，受影响的 iPhone 14（iOS 16）设备却无法完成该流程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在欧洲大陆正在经历能源危机的背景下，特斯拉将大幅提高其在欧洲各地的超级充电站（Supercharger）的充电价格。&lt;/strong&gt;特斯拉向欧洲车主发送了一封邮件，该公司警告说超级充电站即将出现又一次大规模涨价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
