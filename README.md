@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [iPhone 14 Pro 全套内置自带壁纸 + iOS16 新壁纸打包下载](https://www.iplaysoft.com/p/iphone14-pro-ios16-wallpapers) | Mon Sep 19 2022 2:14 AM
-- 🧑‍🏫 [苹果 QQ for Mac 全新体验版下载 - 新一代架构重构版 &lpar;音视频通话/深色模式/实况文本等&rpar;](https://www.iplaysoft.com/qq-for-mac.html) | Sun Sep 18 2022 11:02 AM
-- 🥰 [锁屏启动 - 超好用 iOS16 锁屏小组件！iPhone 一键打开健康码 / 行程卡 / 收付款码等](https://www.iplaysoft.com/locklauncher.html) | Thu Sep 15 2022 11:14 AM
-- 💻 [开学季打折：MarginNote / 白描 / TextSeek / CareUEyes 等软件 6 折起](https://www.iplaysoft.com/news/5771) | Wed Sep 14 2022 1:25 PM
-- 🎃 [iOS 16 正式版新功能汇总 - 这次有哪些值得升级的点？](https://www.iplaysoft.com/p/ios16-features) | Tue Sep 13 2022 5:26 AM<!-- iplaysoft:END -->
+- 🧐 [白描 - 手机电脑免费 OCR 文字识别提取工具！一键截图识别/支持表格/PDF/图片转文字](https://www.iplaysoft.com/baimiao.html) | Tue Sep 20 2022 9:58 AM
+- 🧑‍🏫 [iPhone 14 Pro 全套内置自带壁纸 + iOS16 新壁纸打包下载](https://www.iplaysoft.com/p/iphone14-pro-ios16-wallpapers) | Mon Sep 19 2022 2:14 AM
+- 🥰 [苹果 QQ for Mac 全新体验版下载 - 新一代架构重构版 &lpar;音视频通话/深色模式/实况文本等&rpar;](https://www.iplaysoft.com/qq-for-mac.html) | Sun Sep 18 2022 11:02 AM
+- 💻 [锁屏启动 - 超好用 iOS16 锁屏小组件！iPhone 一键打开健康码 / 行程卡 / 收付款码等](https://www.iplaysoft.com/locklauncher.html) | Thu Sep 15 2022 11:14 AM
+- 🎃 [开学季打折：MarginNote / 白描 / TextSeek / CareUEyes 等软件 6 折起](https://www.iplaysoft.com/news/5771) | Wed Sep 14 2022 1:25 PM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
