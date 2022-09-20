@@ -803,30 +803,30 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [全世界软盘行业的最后一人](http://jandan.net/p/111364) | Mon Sep 19 2022 4:47 AM 
+- 🚀 [表观遗传学发现 存在两种类型的肥胖，其中一种特别糟糕](http://jandan.net/p/111341) | Tue Sep 20 2022 4:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    第二种肥胖——与炎症有关的肥胖——似乎是偶然触发的。 
+    </details> 
+
+- 🙉 [今日带货：富安娜床品](http://jandan.net/p/111366) | Tue Sep 20 2022 3:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：50 
+    </details> 
+
+- 🎉 [全世界软盘行业的最后一人](http://jandan.net/p/111364) | Mon Sep 19 2022 4:47 AM 
     <details><summary>展开描述 ...</summary> 
     一个三岁的小女孩手里举着一张软盘来找她父亲，说：“爸爸，爸爸，有人3D打印了保存图标！”
  
     </details> 
 
-- 🙉 [1000年前携带XXY染色体的男性遗骸 已知最古老的克兰费尔特综合征患者](http://jandan.net/p/111237) | Mon Sep 19 2022 4:40 AM 
+- 🐲 [1000年前携带XXY染色体的男性遗骸 已知最古老的克兰费尔特综合征患者](http://jandan.net/p/111237) | Mon Sep 19 2022 4:40 AM 
     <details><summary>展开描述 ...</summary> 
     通常不会产生任何明显的症状&lpar;许多病例从未被诊断出来&rpar;，但患有这种疾病的男性通常身材高大，臀部宽阔，体毛稀疏。 
     </details> 
 
-- 🎉 [百老汇 舞台演出时间最长的经典剧目 歌剧魅影 将永久落幕](http://jandan.net/p/111362) | Mon Sep 19 2022 4:05 AM 
+-  [百老汇 舞台演出时间最长的经典剧目 歌剧魅影 将永久落幕](http://jandan.net/p/111362) | Mon Sep 19 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
     计划于2023年2月永久停演 
-    </details> 
-
-- 🐲 [今日带货：头戴式耳机](http://jandan.net/p/111363) | Mon Sep 19 2022 1:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：50 
-    </details> 
-
--  [蓝光加速了黑腹果蝇的衰老过程](http://jandan.net/p/111258) | Sun Sep 18 2022 9:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    因实验中的蓝光强度比人类通常的暴露剂量更高，后果是否严重仍存在巨大争议。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
