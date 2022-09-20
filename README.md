@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [A股快递公司8月业绩出炉：业务量仅韵达下滑 申通创上市以来单月最高纪录](https://www.cnbeta.com/articles/tech/1318589.htm) | Tue Sep 20 2022 1:43 PM 
+- 🕯 [AMD RX 7000系列发布时间官宣：11月3日](https://www.cnbeta.com/articles/tech/1318595.htm) | Tue Sep 20 2022 2:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天晚上，NVIDIA将正式发布RTX 40系列新一代显卡，届时我们会同步带来最新消息。有趣的是，AMD在这个节骨眼来抢戏了！&lt;strong&gt;AMD Radeon显卡事业部高级副总裁兼总经理Scott Herkelman宣布，基于RDNA3架构的下一代显卡，将在11月3日正式发布！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iPhone 14未发先火 上市后黄牛却哭了 谁该背这个锅？](https://www.cnbeta.com/articles/tech/1318593.htm) | Tue Sep 20 2022 2:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;要说这段时间，手机圈最重磅的事件是什么，那当属iPhone 14系列的开售。与往年一样，此次iPhone 14系列一经推出就广受大家关注。除了Pro系列的灵动岛设计外，大家最关心的，应该是阔别已久的Plus机型又回来了！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [“小黄蜂”雪佛兰星迈罗正式上市：13.99万拿下偶像](https://www.cnbeta.com/articles/tech/1318591.htm) | Tue Sep 20 2022 2:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月19日，雪佛兰“小黄蜂”星迈罗正式上市。新车共推出5款车型，售价区间为13.99-16.49万元。那么，新车的实力究竟如何，能否成为紧凑级家用SUV中的超值之选呢？在《变形金刚》中，“大黄蜂”给人的印象非常深刻。它的原型就是雪佛兰旗下的传奇性能跑车——科迈罗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [A股快递公司8月业绩出炉：业务量仅韵达下滑 申通创上市以来单月最高纪录](https://www.cnbeta.com/articles/tech/1318589.htm) | Tue Sep 20 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月19日，顺丰、圆通、韵达、申通四家A股快递公司相继发布8月经营业绩。《每日经济新闻》记者注意到，延续上月涨势，8月收入、件量增速最高仍是申通快递（SZ002468，股价11.67元，市值178.64亿元），8月实现快递服务业务收入29.62亿元，同比增长66.36%；完成业务量12.26亿票，同比增长34.26%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [纳斯达克进军加密货币领域 向机构投资者提供比特币和以太币托管服务](https://www.cnbeta.com/articles/tech/1318587.htm) | Tue Sep 20 2022 1:39 PM 
+- 🎊 [纳斯达克进军加密货币领域 向机构投资者提供比特币和以太币托管服务](https://www.cnbeta.com/articles/tech/1318587.htm) | Tue Sep 20 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;纳斯达克股份有限公司即将迈出进军加密货币领域的重要第一步。机构投资者对数字货币的兴趣日渐增长，该交易所准备抓住这一良机。公司执行副总裁、北美市场负责人Tal Cohen表示，致力于数字资产的新团队最初将向机构投资者提供比特币和以太币的托管服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [“消失”百天，李佳琦淘宝复播 1个半小时观看超3700万](https://www.cnbeta.com/articles/tech/1318585.htm) | Tue Sep 20 2022 1:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;“消失”三个多月的李佳琦回来了。20日晚间19点，李佳琦在淘宝复播，此次复播未在微博、微信等平台进行预告。&lt;/strong&gt;截至20时30分，李佳琦直播间粉丝量达6445.6万，共计3727.5万观看，点赞量达1.17亿；目前上架的15款商品中，已有12款售罄。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [研究人员发现狼能对人类表现出依恋之情](https://www.cnbeta.com/articles/science/1318583.htm) | Tue Sep 20 2022 1:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;说到对人表示好感，许多狗是天生的。&lt;strong&gt;现在，《生态学与进化》杂志上的一份报告显示，对人类照顾者表现出依恋行为的非凡能力在狼身上也存在。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [折叠式iPhone可自行修复显示屏划痕和凹痕](https://www.cnbeta.com/articles/tech/1318581.htm) | Tue Sep 20 2022 12:36 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在研究可以折叠或弯曲显示屏类型时，苹果现在也在研究技术，以便iPhone显示屏本身可以 &amp;quot;治愈&amp;quot;不可避免的磨损&lt;/strong&gt;。现在，一项新授予的专利提出了一种既能最大限度地减少损害，又能在损害发生时采取措施的方法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
