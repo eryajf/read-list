@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一加10R“Prime Blue Edition”新蓝配色将于9月22日登陆印度市场](https://www.cnbeta.com/articles/tech/1318399.htm) | Tue Sep 20 2022 6:02 AM 
+- 🕯 [Canalys：第二季度美国个人电脑出货量下跌23% 商用市场出货量增长11%](https://www.cnbeta.com/articles/tech/1318437.htm) | Tue Sep 20 2022 7:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在本月初做过预告之后，一加今天宣布一加 10R 的“Prime Blue Edition”新蓝配色将于 9 月 22 日在印度市场发售。&lt;/strong&gt;根据亚马逊印度产品页提供的信息，Prime Blue Edition 只是在颜色方面有所差异，外观设计和内部规格都基本保持相同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月20日，据Canalys的最新统计，2022 年第二季度，美国台式机、笔记本和工作站的出货量同比下降 23% 至 1980 万台。一年前Chromebook笔记本电脑市场经历了飞速发展，而如今消费者需求的削弱，从而导致笔记本的出货量下降了 27%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [澳大利亚的净零排放之路：五个太阳能发电厂 每个和塔斯马尼亚岛一样大](https://www.cnbeta.com/articles/science/1318397.htm) | Tue Sep 20 2022 6:02 AM 
+- 💼 [“二舅视频”创作者发布视频回应质疑，称“广告报价已翻倍”](https://www.cnbeta.com/articles/tech/1318433.htm) | Tue Sep 20 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，澳大利亚拥有大量的阳光和沙漠空间，为该国在净零排放时代继续成为能源出口国做好了准备。&lt;strong&gt;但是，根据一份新报告，它需要建立的可再生资产的规模绝对是史诗般的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;7月25日，一则名为《回村三天，二舅治好了我的精神内耗》的视频火遍全网。但此后，围绕该视频争议频发。&lt;/strong&gt;今日，该视频创作者UP主衣戈猜想发布时长39分钟的澄清视频，视频中回应了目前互联网中的九大争议，称关于时间、残疾证、独自赡养老人等质疑均不成立。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [与争议网红合作 G2 Esports总裁被罚无薪休假](https://hot.cnbeta.com/articles/game/1318395.htm) | Tue Sep 20 2022 6:01 AM 
+- 💂 [湖南一老人欲咬断手机防盗绳偷手机 网友：旁若无人明抢](https://hot.cnbeta.com/articles/funny/1318431.htm) | Tue Sep 20 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;队伍参与《英雄联盟》、《CS：GO》、《Valorant》等诸多游戏赛事的电竞公司 G2Esports 首席执行官 Carlos Rodiriguez 目前已经同意休 8 周的无薪假期，这一“惩罚”源于上周他在Twitter上发布了与此前已经因被多个社交媒体网站（YouTube、Facebook、抖音等）封禁的网红 Andrew Tate 一起开 Party 的视频。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月19日，湖南娄底，一位老人来到一家手机店，居然想要咬断手机防盗绳，偷走手机。网友录下老人的作案画面，他趴在手机展示台上，旁若无人的咬手机防盗绳，不过防盗绳根本咬不断&lt;strong&gt;。店主发现后，当场报警，警察来到后将老人带走。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1318431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [过滤系统升级：OpenAI再次开放DALL-E 2的面容编辑功能](https://www.cnbeta.com/articles/tech/1318393.htm) | Tue Sep 20 2022 6:00 AM 
+- 🚀 [龚俊向丰巢快递柜索赔101万：被告利用当事人吸引流量](https://www.cnbeta.com/articles/tech/1318429.htm) | Tue Sep 20 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在初期禁用了一段时间之后，OpenAI 本周再次开放了 DALL-E 2 的人脸编辑功能。&lt;strong&gt;有权访问的客户，可于即日起上传人脸、以使用 AI 驱动的图像生成系统对其进行编辑。&lt;/strong&gt;此前该平台禁止用户使用和分享这部分内容，并禁止上传任何可能描绘真实人物的照片，包括名人和公众人物的照片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天下午，微博话题“龚俊向丰巢快递柜索赔101万”冲上热搜第一名。天眼查App显示，近日，&lt;strong&gt;龚俊与深圳市丰巢科技有限公司肖像权纠纷一审文书公开。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [特斯拉超级充电服务在欧洲大幅涨价](https://www.cnbeta.com/articles/tech/1318391.htm) | Tue Sep 20 2022 5:58 AM 
+- 🎊 [Pixel Watch起售价349.99美元 所有配色曝光](https://www.cnbeta.com/articles/tech/1318427.htm) | Tue Sep 20 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在欧洲大陆正在经历能源危机的背景下，特斯拉将大幅提高其在欧洲各地的超级充电站（Supercharger）的充电价格。&lt;/strong&gt;特斯拉向欧洲车主发送了一封邮件，该公司警告说超级充电站即将出现又一次大规模涨价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国外科技媒体 9to5Google 在今年 8 月下旬报道称，Pixel Watch 蜂窝网络型号售价为 399.99 美元。该媒体在今天发布的文章中，&lt;strong&gt;再次确认蓝牙/Wi-Fi型号起价为 349.99 美元，并分享了所有的配色。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
