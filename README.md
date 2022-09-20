@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [折叠式iPhone可自行修复显示屏划痕和凹痕](https://www.cnbeta.com/articles/tech/1318581.htm) | Tue Sep 20 2022 12:36 PM 
+- 🕯 [A股快递公司8月业绩出炉：业务量仅韵达下滑 申通创上市以来单月最高纪录](https://www.cnbeta.com/articles/tech/1318589.htm) | Tue Sep 20 2022 1:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月19日，顺丰、圆通、韵达、申通四家A股快递公司相继发布8月经营业绩。《每日经济新闻》记者注意到，延续上月涨势，8月收入、件量增速最高仍是申通快递（SZ002468，股价11.67元，市值178.64亿元），8月实现快递服务业务收入29.62亿元，同比增长66.36%；完成业务量12.26亿票，同比增长34.26%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [纳斯达克进军加密货币领域 向机构投资者提供比特币和以太币托管服务](https://www.cnbeta.com/articles/tech/1318587.htm) | Tue Sep 20 2022 1:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;纳斯达克股份有限公司即将迈出进军加密货币领域的重要第一步。机构投资者对数字货币的兴趣日渐增长，该交易所准备抓住这一良机。公司执行副总裁、北美市场负责人Tal Cohen表示，致力于数字资产的新团队最初将向机构投资者提供比特币和以太币的托管服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [“消失”百天，李佳琦淘宝复播 1个半小时观看超3700万](https://www.cnbeta.com/articles/tech/1318585.htm) | Tue Sep 20 2022 1:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;“消失”三个多月的李佳琦回来了。20日晚间19点，李佳琦在淘宝复播，此次复播未在微博、微信等平台进行预告。&lt;/strong&gt;截至20时30分，李佳琦直播间粉丝量达6445.6万，共计3727.5万观看，点赞量达1.17亿；目前上架的15款商品中，已有12款售罄。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [研究人员发现狼能对人类表现出依恋之情](https://www.cnbeta.com/articles/science/1318583.htm) | Tue Sep 20 2022 1:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;说到对人表示好感，许多狗是天生的。&lt;strong&gt;现在，《生态学与进化》杂志上的一份报告显示，对人类照顾者表现出依恋行为的非凡能力在狼身上也存在。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [折叠式iPhone可自行修复显示屏划痕和凹痕](https://www.cnbeta.com/articles/tech/1318581.htm) | Tue Sep 20 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;在研究可以折叠或弯曲显示屏类型时，苹果现在也在研究技术，以便iPhone显示屏本身可以 &amp;quot;治愈&amp;quot;不可避免的磨损&lt;/strong&gt;。现在，一项新授予的专利提出了一种既能最大限度地减少损害，又能在损害发生时采取措施的方法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [百事可乐终止在俄罗斯生产百事可乐、七喜等饮品](https://www.cnbeta.com/articles/tech/1318579.htm) | Tue Sep 20 2022 12:30 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国百事可乐公司表示&lpar;PEP.US&rpar;已停止在俄罗斯生产七喜&lpar;7UP&rpar;、激浪&lpar;Mountain Dew&rpar;，以及百事可乐&lpar;Pepsi&rpar;等饮品，近六个月前，在俄乌冲突升级之后，该公司表示后续将暂停俄罗斯市场的销售和生产计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [国内车市最新保值率一览：有的车开三年后还升值了](https://www.cnbeta.com/articles/tech/1318577.htm) | Tue Sep 20 2022 12:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着今年购车门槛的降低以及国家推出相应优惠政策，我国的汽车保有量迅速增高。作为许多消费者在购车时十分看重的一个因素——保值率，这一项数据的高低与汽车的销量息息相关。就目前国内汽车市场的销量来看，这一数据的高低会极大地影响消费者最终选择哪款车型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [天马发布全新CFOT 技术：功耗降低超25% 折叠屏可用](https://www.cnbeta.com/articles/tech/1318575.htm) | Tue Sep 20 2022 12:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，天马官方宣布发布应用于OLED屏幕的新一代CFOT技术，简单来说CFOT技术可取代OLED屏幕结构中的偏光片。官方表示，使用天马研发的CFOT技术代替偏光片，&lt;strong&gt;光透过率可提升30%以上，面板功耗降低超过25%（实测数值）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318575.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [欧洲金融科技公司MoneseMonese从汇丰银行获得3500万美元投资](https://www.cnbeta.com/articles/tech/1318573.htm) | Tue Sep 20 2022 12:20 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;总部位于伦敦的金融科技公司Monese主要向欧洲各地的消费者和企业提供数字银行和汇款服务，现在该公司已从全球银行业巨头汇丰银行融资3500万美元。Monese成立于2013年，是英国首都出现的几家所谓的&amp;quot;挑战者&amp;quot;银行之一，为客户提供一系列的在线服务，包括标准现金账户、储蓄和国际汇款。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
