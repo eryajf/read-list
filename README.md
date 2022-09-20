@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NVIDIA将推出《传送门》RTX及RTX Mod工具](https://hot.cnbeta.com/articles/game/1318649.htm) | Tue Sep 20 2022 5:27 PM 
+- 🕯 [微软称Windows 11后续将每年获得一次重大更新](https://www.cnbeta.com/articles/tech/1318657.htm) | Tue Sep 20 2022 5:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;除了今天发布的Windows 11 2022更新之外，该公司还确认其目前的操作系统将继续每年获得一次重大更新。发布工作将集中在每年的下半年，每次更新都会对家庭版和专业版提供24个月的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [[ISO]立即下载Windows 11 2022 &lpar;22H2&rpar;安装盘镜像文件](https://www.cnbeta.com/articles/tech/1318655.htm) | Tue Sep 20 2022 5:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Windows 11 2022的最新更新今天就可以获得，从而为数十亿台PC带来最新的更新。微软将使用它在过去几个主要更新中使用的相同交付方法。 当你的设备准备好进行升级时，Windows Update会提示你。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [微软称尽快部署Windows 11将为企业节省数百万美元](https://www.cnbeta.com/articles/tech/1318653.htm) | Tue Sep 20 2022 5:32 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Windows 11 2022更新现在正在推送，微软通过强调统计数据，以及描述客户可以利用的新旧功能，进一步详细说明了在企业环境中采用Windows 11的重要性。微软与Forrester Research合作，计算出企业通过Intune使用Windows 11 Enterprise和Microsoft 365的经济影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《赛博朋克2077》将通过免费升级获光追超速模式](https://hot.cnbeta.com/articles/game/1318651.htm) | Tue Sep 20 2022 5:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;英伟达和CD Projekt RED宣布，《赛博朋克2077》将通过新免费升级增加对全新光线追踪模式的支持，官方称之为Overdrive超速模式。此外，这个即将到来的补丁将增加对新版本DLSS的支持，即DLSS 3。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [NVIDIA将推出《传送门》RTX及RTX Mod工具](https://hot.cnbeta.com/articles/game/1318649.htm) | Tue Sep 20 2022 5:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在GTC 2022上, NVIDIA公布了面向Valve经典解谜游戏《传送门》的RTX光追Mod。《传送门》RTX光追版旨在提供完整的光线追踪效果，并将支持DLSS 3.0。此外，NVIDIA透露了RTX Remix Modding工具，mod制作者可以使用它来为旧游戏增强完整光追效果。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [Windows 11 2022更新中的最新安全相关功能一览](https://www.cnbeta.com/articles/tech/1318647.htm) | Tue Sep 20 2022 5:24 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;早在4月，微软公布了Windows 11的一系列新的安全功能，并表示它们即将在操作系统的&amp;quot;未来版本&amp;quot;中出现。事实证明，该公司在这一声明中指的是Windows 11 2022更新--现在正在推送。&lt;strong&gt;微软已经证实，它在几个月前宣布的所有安全改进措施现在都可以在Windows 11中普遍使用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [等到下月微软才会全面启用Windows 11 2022更新中的所有新功能](https://www.cnbeta.com/articles/tech/1318645.htm) | Tue Sep 20 2022 5:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然Windows 11 2022更新（到今天为止被称为22H2版本）现在正在推出，但这个月大家并不能获得微软为这次更新准备的所有升级。事实上，公司还证实，下个月也会有一堆其他功能会“解锁”，不过这些功能在过去几个月里已经在各种构建中提供给Insider测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [微软正在对Windows Update更新过程进行重大改进](https://www.cnbeta.com/articles/tech/1318643.htm) | Tue Sep 20 2022 5:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Windows 11 2022更新现在已经推出了很多新功能--而且更多的功能将在10月份推出。&lt;strong&gt;鉴于Windows 11第一个主要更新的到来，微软现在已经详细说明了它是如何使Windows更新过程变得更好的。微软强调了两个关键的改进，它们适用于Windows 11 2022年更新发布后的功能更新和每月更新。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Windows 11 2022 Update大版本更新现已正式推出](https://www.cnbeta.com/articles/tech/1318641.htm) | Tue Sep 20 2022 5:10 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这一天终于来临了，Windows 11正在以Windows 11 2022更新的形式接收其第一个大版本更新，微软似乎正在摆脱其&amp;quot;年半&amp;quot;命名惯例，之前的命名法会让这个版本被称为&amp;quot;22H2版&amp;quot;。考虑到微软在Windows 11中转向了年度更新的节奏，所以它不需要标明更新是在哪半年发布的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
