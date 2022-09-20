@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [“整顿”美国网购圈？拼多多出海野心不止“干翻”SHEIN](https://www.cnbeta.com/articles/tech/1318659.htm) | Tue Sep 20 2022 7:24 PM 
+- 🕯 [专家小组敦促美国稳定币市场或发行央行数字货币以保持美元主导地位](https://www.cnbeta.com/articles/tech/1318661.htm) | Tue Sep 20 2022 9:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一个专家小组周二在众议院的听证会上表示，&lt;strong&gt;美国需要监管现有的稳定币市场，或者创建自己的、有美联储支持的数字货币，以保持美元的主导地位。&lt;/strong&gt;美国财政部上周在一份报告中重申，美国需要为民间发行的稳定币建立护栏，以保护金融系统和消费者。报告还呼吁进一步研究数字美元或央行数字货币，以备“国家利益需要”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [“整顿”美国网购圈？拼多多出海野心不止“干翻”SHEIN](https://www.cnbeta.com/articles/tech/1318659.htm) | Tue Sep 20 2022 7:24 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;多数人将拼多多跨境电商Temu与SHEIN作为‘竞争对手’比较，但却忽略了在SHEIN前面始终有另一个名字——亚马逊。拼多多更长远目标或是挑战亚马逊全球跨境电商龙头位置。8月31日下午3点，王红（化名）准时进入视频号直播间，观看一场她期待已久的线上直播——可能将为她带来全新商机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软称Windows 11后续将每年获得一次重大更新](https://www.cnbeta.com/articles/tech/1318657.htm) | Tue Sep 20 2022 5:49 PM 
+- 💂 [微软称Windows 11后续将每年获得一次重大更新](https://www.cnbeta.com/articles/tech/1318657.htm) | Tue Sep 20 2022 5:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;除了今天发布的Windows 11 2022更新之外，该公司还确认其目前的操作系统将继续每年获得一次重大更新。发布工作将集中在每年的下半年，每次更新都会对家庭版和专业版提供24个月的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[ISO]立即下载Windows 11 2022 &lpar;22H2&rpar;安装盘镜像文件](https://www.cnbeta.com/articles/tech/1318655.htm) | Tue Sep 20 2022 5:40 PM 
+- 🚀 [[ISO]立即下载Windows 11 2022 &lpar;22H2&rpar;安装盘镜像文件](https://www.cnbeta.com/articles/tech/1318655.htm) | Tue Sep 20 2022 5:40 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Windows 11 2022的最新更新今天就可以获得，从而为数十亿台PC带来最新的更新。微软将使用它在过去几个主要更新中使用的相同交付方法。 当你的设备准备好进行升级时，Windows Update会提示你。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软称尽快部署Windows 11将为企业节省数百万美元](https://www.cnbeta.com/articles/tech/1318653.htm) | Tue Sep 20 2022 5:32 PM 
+- 🎊 [微软称尽快部署Windows 11将为企业节省数百万美元](https://www.cnbeta.com/articles/tech/1318653.htm) | Tue Sep 20 2022 5:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Windows 11 2022更新现在正在推送，微软通过强调统计数据，以及描述客户可以利用的新旧功能，进一步详细说明了在企业环境中采用Windows 11的重要性。微软与Forrester Research合作，计算出企业通过Intune使用Windows 11 Enterprise和Microsoft 365的经济影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《赛博朋克2077》将通过免费升级获光追超速模式](https://hot.cnbeta.com/articles/game/1318651.htm) | Tue Sep 20 2022 5:27 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英伟达和CD Projekt RED宣布，《赛博朋克2077》将通过新免费升级增加对全新光线追踪模式的支持，官方称之为Overdrive超速模式。此外，这个即将到来的补丁将增加对新版本DLSS的支持，即DLSS 3。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
