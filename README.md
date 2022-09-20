@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [通用汽车将在未来五年内向赫兹租车出售17.5万辆电动汽车](https://www.cnbeta.com/articles/tech/1318613.htm) | Tue Sep 20 2022 4:25 PM 
+- 🕯 [NVIDIA将推出《传送门》RTX及RTX Mod工具](https://hot.cnbeta.com/articles/game/1318649.htm) | Tue Sep 20 2022 5:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;通用汽车公司正与赫兹公司合作，扩大该租车公司平台上的电动汽车数量。公司宣布，它将在未来五年内向赫兹公司出售17.5万辆电动车，这是该公司称这是迄今为止最大的一笔交易。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在GTC 2022上, NVIDIA公布了面向Valve经典解谜游戏《传送门》的RTX光追Mod。《传送门》RTX光追版旨在提供完整的光线追踪效果，并将支持DLSS 3.0。此外，NVIDIA透露了RTX Remix Modding工具，mod制作者可以使用它来为旧游戏增强完整光追效果。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14 Pro系列将在2022年剩余时间内主导苹果的出货量](https://www.cnbeta.com/articles/tech/1318611.htm) | Tue Sep 20 2022 4:08 PM 
+- 💼 [Windows 11 2022更新中的最新安全相关功能一览](https://www.cnbeta.com/articles/tech/1318647.htm) | Tue Sep 20 2022 5:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;分析师Ming-Chi Kuo预测，到2022年，iPhone 14 Pro机型将比之前想象的更能吸引苹果供应商的注意力。在大多数iPhone 14机型上市不到一周后，分析师们对苹果将销售的变体组合提出了新的主张。周二，天风证券的分析师郭明錤对今年的iPhone产品上市预期进行了更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;早在4月，微软公布了Windows 11的一系列新的安全功能，并表示它们即将在操作系统的&amp;quot;未来版本&amp;quot;中出现。事实证明，该公司在这一声明中指的是Windows 11 2022更新--现在正在推送。&lt;strong&gt;微软已经证实，它在几个月前宣布的所有安全改进措施现在都可以在Windows 11中普遍使用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AMD发布Ryzen 7020 移动处理器用于&quot;日常用笔记本电脑&quot;](https://www.cnbeta.com/articles/tech/1318609.htm) | Tue Sep 20 2022 4:01 PM 
+- 💂 [等到下月微软才会全面启用Windows 11 2022更新中的所有新功能](https://www.cnbeta.com/articles/tech/1318645.htm) | Tue Sep 20 2022 5:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p style=&quot;text-align: left;&quot;&gt;AMD宣布了其基于&amp;quot;Mendocino&amp;quot;的Ryzen 7020和Athlon 7020系列移动处理器。这些芯片主要定位与英特尔的酷睿i3等产品竞争，旨在为低成本和低功率的设备提供动力--用AMD发布会上的话来说，就是&amp;quot;日常用笔记本电脑&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然Windows 11 2022更新（到今天为止被称为22H2版本）现在正在推出，但这个月大家并不能获得微软为这次更新准备的所有升级。事实上，公司还证实，下个月也会有一堆其他功能会“解锁”，不过这些功能在过去几个月里已经在各种构建中提供给Insider测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NVIDIA发布DLSS 3：革命性AI生成帧技术、性能飞升4倍](https://www.cnbeta.com/articles/tech/1318607.htm) | Tue Sep 20 2022 3:52 PM 
+- 🚀 [微软正在对Windows Update更新过程进行重大改进](https://www.cnbeta.com/articles/tech/1318643.htm) | Tue Sep 20 2022 5:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;RTX 40系列发布的同时，NVIDIA还带来了全新一代DLSS 3超采样超分辨率技术，基于AI驱动的性能倍增器，号称开启RTX神经网络渲染游戏和应用的新时代。其实，伴随RTX 20系列诞生的第一代DLSS，就追求AI驱动、神经网络渲染，但因为条件不成熟，当时的表现令人失望，尤其是画面模糊。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Windows 11 2022更新现在已经推出了很多新功能--而且更多的功能将在10月份推出。&lt;strong&gt;鉴于Windows 11第一个主要更新的到来，微软现在已经详细说明了它是如何使Windows更新过程变得更好的。微软强调了两个关键的改进，它们适用于Windows 11 2022年更新发布后的功能更新和每月更新。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [RTX 4090、RTX 4080正式发布：性能暴涨4倍 价格冲上12999元](https://www.cnbeta.com/articles/tech/1318605.htm) | Tue Sep 20 2022 3:52 PM 
+- 🎊 [Windows 11 2022 Update大版本更新现已正式推出](https://www.cnbeta.com/articles/tech/1318641.htm) | Tue Sep 20 2022 5:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月20日深夜，万众期待的NVIDIA RTX 40系列显卡终于来了！首发宣布的有三款，分别是RTX 4090、RTX 4080 16GB、RTX 4080 12GB。RTX 40系列基于全新设计的&lt;strong&gt;Ada Lovelace GPU架构，&lt;/strong&gt;在性能、效率上都实现了巨大的代际飞跃，无论是实时光线追踪，还是AI神经网络渲染，都可以说开启了新时代。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这一天终于来临了，Windows 11正在以Windows 11 2022更新的形式接收其第一个大版本更新，微软似乎正在摆脱其&amp;quot;年半&amp;quot;命名惯例，之前的命名法会让这个版本被称为&amp;quot;22H2版&amp;quot;。考虑到微软在Windows 11中转向了年度更新的节奏，所以它不需要标明更新是在哪半年发布的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
