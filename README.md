@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AMD RX 7000系列发布时间官宣：11月3日](https://www.cnbeta.com/articles/tech/1318595.htm) | Tue Sep 20 2022 2:25 PM 
+- 🕯 [网友称在三只松鼠多味花生中吃出油炸壁虎 官方发声明：不可能](https://www.cnbeta.com/articles/tech/1318599.htm) | Tue Sep 20 2022 3:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天晚上，三只松鼠官方微博发布声明，&lt;strong&gt;回应网上曝光的“壁虎事件”，称产品中不可能出现该异物。&lt;/strong&gt;在此之前，广东茂名的一位网友发短视频称，他在“三只松鼠多味花生”里发现了一只疑似被油炸过的壁虎。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果Mac和iPad在美国客户满意度指数中名列前茅](https://www.cnbeta.com/articles/tech/1318597.htm) | Tue Sep 20 2022 2:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司的客户是个人电脑买家中满意度最高的，这不是什么新闻，也没有什么意外，其Mac和iPad产品再次击败了来自三星和宏碁的激烈竞争。周一公布的ACSI家用电器和电子产品研究报告是一份涵盖2021年7月至2022年6月的报告，用于监测消费者对其与各供应商的体验的感受。然而，在个人电脑类别中，苹果公司再次无悬念击败了其竞争对手。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [AMD RX 7000系列发布时间官宣：11月3日](https://www.cnbeta.com/articles/tech/1318595.htm) | Tue Sep 20 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天晚上，NVIDIA将正式发布RTX 40系列新一代显卡，届时我们会同步带来最新消息。有趣的是，AMD在这个节骨眼来抢戏了！&lt;strong&gt;AMD Radeon显卡事业部高级副总裁兼总经理Scott Herkelman宣布，基于RDNA3架构的下一代显卡，将在11月3日正式发布！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14未发先火 上市后黄牛却哭了 谁该背这个锅？](https://www.cnbeta.com/articles/tech/1318593.htm) | Tue Sep 20 2022 2:25 PM 
+- 🚀 [iPhone 14未发先火 上市后黄牛却哭了 谁该背这个锅？](https://www.cnbeta.com/articles/tech/1318593.htm) | Tue Sep 20 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;要说这段时间，手机圈最重磅的事件是什么，那当属iPhone 14系列的开售。与往年一样，此次iPhone 14系列一经推出就广受大家关注。除了Pro系列的灵动岛设计外，大家最关心的，应该是阔别已久的Plus机型又回来了！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“小黄蜂”雪佛兰星迈罗正式上市：13.99万拿下偶像](https://www.cnbeta.com/articles/tech/1318591.htm) | Tue Sep 20 2022 2:20 PM 
+- 🎊 [“小黄蜂”雪佛兰星迈罗正式上市：13.99万拿下偶像](https://www.cnbeta.com/articles/tech/1318591.htm) | Tue Sep 20 2022 2:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月19日，雪佛兰“小黄蜂”星迈罗正式上市。新车共推出5款车型，售价区间为13.99-16.49万元。那么，新车的实力究竟如何，能否成为紧凑级家用SUV中的超值之选呢？在《变形金刚》中，“大黄蜂”给人的印象非常深刻。它的原型就是雪佛兰旗下的传奇性能跑车——科迈罗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [A股快递公司8月业绩出炉：业务量仅韵达下滑 申通创上市以来单月最高纪录](https://www.cnbeta.com/articles/tech/1318589.htm) | Tue Sep 20 2022 1:43 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月19日，顺丰、圆通、韵达、申通四家A股快递公司相继发布8月经营业绩。《每日经济新闻》记者注意到，延续上月涨势，8月收入、件量增速最高仍是申通快递（SZ002468，股价11.67元，市值178.64亿元），8月实现快递服务业务收入29.62亿元，同比增长66.36%；完成业务量12.26亿票，同比增长34.26%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [纳斯达克进军加密货币领域 向机构投资者提供比特币和以太币托管服务](https://www.cnbeta.com/articles/tech/1318587.htm) | Tue Sep 20 2022 1:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;纳斯达克股份有限公司即将迈出进军加密货币领域的重要第一步。机构投资者对数字货币的兴趣日渐增长，该交易所准备抓住这一良机。公司执行副总裁、北美市场负责人Tal Cohen表示，致力于数字资产的新团队最初将向机构投资者提供比特币和以太币的托管服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
