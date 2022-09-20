@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Swift - LeetCode - 两个数组的交集](https://juejin.cn/post/7145382220268568613) | Tue Sep 20 2022 8:52 AM 
+- 🤗 [干货分享｜使用 Istio 实现灰度发布](https://juejin.cn/post/7145390895813099534) | Tue Sep 20 2022 9:26 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 题目 给定两个数组 nums1 和 nums2，返回 它们的交集 。输出结果中的每个元素一定是 唯一 的。我们可以 不考虑输出结果的顺序 。 示例 1： 示例 2： 方法 
+    Kubernetes 作为基础平台，提供了强大的容器编排能力。但是在其上部署业务和服务治理上，仍然会面对一些复杂性和局限性。在服务治理上，已经有许多成熟的 ServiceMesh 框架用于扩充其能力， 
     </details> 
 
-- 🎡 [Nestjs 实战系列一 之 Nest框架](https://juejin.cn/post/7145378254780629023) | Tue Sep 20 2022 8:37 AM 
+- 🎡 [利用 Kubernetes 内置 PodTemplate 管理 Jenkins 构建节点](https://juejin.cn/post/7145388752838328357) | Tue Sep 20 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 Nest &lpar;NestJS&rpar; 是一个用于构建高效、可扩展的 Node.js 服务器端应用程序的开发框架。 
+    &gt; 作者：Rick Jenkins 可以很好地与 Kubernetes 集成，不管是控制器（controller）还是构建节点（agent），都能以 Pod 的形式运行在 Kubernetes 上 
     </details> 
 
-- 🕯 [gRPC客户端拦截器的踩坑心得](https://juejin.cn/post/7145375285091762207) | Tue Sep 20 2022 8:25 AM 
+- 🕯 [Nestjs 实战系列（二）—— TypeORM](https://juejin.cn/post/7145388846975303716) | Tue Sep 20 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 服务端拦截器 1、作用时机？ 请求被具体的Handler相应前。 2、可以做什么？ 编辑元数据 通过@GrpcGlobalServerInterceptor注解并继承Se 
+    TypeORM 是一个ORM框架，它可以运行在 NodeJS、Browser、Cordova、PhoneGap、Ionic、React Native、Expo 和 Electron 平台 
     </details> 
 
-- 🚀 [golang goquery selector&lpar;选择器&rpar; 示例大全](https://juejin.cn/post/7145373304117788708) | Tue Sep 20 2022 8:18 AM 
+- 🚀 [github如何和已经开发好的项目关联](https://juejin.cn/post/7145387603200573453) | Tue Sep 20 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-    goquery选择器，go goquery selector选择器。go goquery selector选择器示例大全，colly 爬虫选择器。 
+    zh之前本地写了一个小项目，现在打算放到github上，但是如何使这两者关联起来呢？我的步骤是这样的： 1.先进入项目里面，执行git init 这样会在项目里面生成.git文件夹 2.通过git r 
     </details> 
 
-- 💪 [基于 CoreDNS 和 K8s 构建云原生场景下的企业级 DNS](https://juejin.cn/post/7145372565010137102) | Tue Sep 20 2022 8:15 AM 
+- 💪 [扒源码系列：GPT / GPT-2 中 proj 的作用](https://juejin.cn/post/7145358049677410312) | Tue Sep 20 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-    容器作为近些年最火热的后端技术，加快了很多企业的数字化转型进程。目前的企业，不是在使用云原生技术，就是在转向云原生技术的过程中。在容器化进程中，如何保持业务的平稳迁移，如何将现有的一些服务设施一并进 
+    事情是这样的。前两天翻译了一篇文章图解GPT-2。在翻译的过程中为了防止自己出错，所以参考了一下其他人对于GPT的一些理解，然后就出错了，为了解决这个错误，导致我最后重新扒了一遍GPT-2的源码。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
