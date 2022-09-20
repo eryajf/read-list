@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Canalys：第二季度美国个人电脑出货量下跌23% 商用市场出货量增长11%](https://www.cnbeta.com/articles/tech/1318437.htm) | Tue Sep 20 2022 7:26 AM 
+- 🕯 [SEC认为美国政府对所有以太坊交易拥有司法管辖权](https://www.cnbeta.com/articles/tech/1318469.htm) | Tue Sep 20 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月20日，据Canalys的最新统计，2022 年第二季度，美国台式机、笔记本和工作站的出货量同比下降 23% 至 1980 万台。一年前Chromebook笔记本电脑市场经历了飞速发展，而如今消费者需求的削弱，从而导致笔记本的出货量下降了 27%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Decrypt.co 报道称，&lt;strong&gt;在针对加密货币影响力人士 Ian Balina 的民事诉讼中，美国证券交易委员会（SEC）认为美国政府应该享有针对所有以太坊交易的司法管辖权。&lt;/strong&gt;该机构指出：“发送给 Balina 的 ETH 已通过以太坊区块链上的节点网络进行验证，且相关节点在美国的集群密度较任何其它地区都更高”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“二舅视频”创作者发布视频回应质疑，称“广告报价已翻倍”](https://www.cnbeta.com/articles/tech/1318433.htm) | Tue Sep 20 2022 7:12 AM 
+- 💼 [土耳其两家银行宣布暂停使用俄罗斯“米尔”支付系统](https://www.cnbeta.com/articles/tech/1318467.htm) | Tue Sep 20 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;7月25日，一则名为《回村三天，二舅治好了我的精神内耗》的视频火遍全网。但此后，围绕该视频争议频发。&lt;/strong&gt;今日，该视频创作者UP主衣戈猜想发布时长39分钟的澄清视频，视频中回应了目前互联网中的九大争议，称关于时间、残疾证、独自赡养老人等质疑均不成立。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据土耳其媒体当地时间9月20日报道，当地时间19日，为避免卷入俄罗斯与西方国家间的金融冲突，土耳其实业银行和德尼兹银行宣布暂停使用俄罗斯“米尔（Mir）”支付系统。“米尔（Mir）”支付系统是俄罗斯央行于2014年推出的支付清算系统，可在境外多个国家和地区使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [湖南一老人欲咬断手机防盗绳偷手机 网友：旁若无人明抢](https://hot.cnbeta.com/articles/funny/1318431.htm) | Tue Sep 20 2022 7:08 AM 
+- 💂 [小偷被外卖小哥绑在电线杆，依法有度更能惩治偷盗者](https://www.cnbeta.com/articles/tech/1318465.htm) | Tue Sep 20 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月19日，湖南娄底，一位老人来到一家手机店，居然想要咬断手机防盗绳，偷走手机。网友录下老人的作案画面，他趴在手机展示台上，旁若无人的咬手机防盗绳，不过防盗绳根本咬不断&lt;strong&gt;。店主发现后，当场报警，警察来到后将老人带走。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1318431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月19日，在广东深圳。男子偷外卖被外卖小哥抓个正着，用胶带绑在电线杆上后报警，期间男子不断大声呼喊“救命”引路人围观。拍摄者吴先生表示，一开始并没有绑，是其试图逃跑后才绑的，事后警察赶到将偷外卖的男子带走。（据9月20日大众网）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [龚俊向丰巢快递柜索赔101万：被告利用当事人吸引流量](https://www.cnbeta.com/articles/tech/1318429.htm) | Tue Sep 20 2022 7:06 AM 
+- 🚀 [研究揭示更新的CMIP6气候模型中南大洋云辐射和物理特性的补偿误差](https://www.cnbeta.com/articles/science/1318463.htm) | Tue Sep 20 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天下午，微博话题“龚俊向丰巢快递柜索赔101万”冲上热搜第一名。天眼查App显示，近日，&lt;strong&gt;龚俊与深圳市丰巢科技有限公司肖像权纠纷一审文书公开。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;云层可以使地球表面变冷或变热，这种辐射效应对全球能源预算有很大贡献，并且可以被人类造成的污染所改变。世界上最南端的海洋被恰当地命名为南大洋，它远离人类污染，但受到丰富的海洋气体和气溶胶的影响。它大约80%被云层覆盖。&lt;strong&gt;但这个水体及其与云层的关系是如何促进世界气候变化的呢？&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Pixel Watch起售价349.99美元 所有配色曝光](https://www.cnbeta.com/articles/tech/1318427.htm) | Tue Sep 20 2022 7:00 AM 
+- 🎊 [5G耗电快怎么办？国产手机AGM自黑：只支持4G即可从根源上解决问题](https://www.cnbeta.com/articles/tech/1318461.htm) | Tue Sep 20 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国外科技媒体 9to5Google 在今年 8 月下旬报道称，Pixel Watch 蜂窝网络型号售价为 399.99 美元。该媒体在今天发布的文章中，&lt;strong&gt;再次确认蓝牙/Wi-Fi型号起价为 349.99 美元，并分享了所有的配色。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;5G商用三年，全国的5G基站差不多200万个了，覆盖了国内主要城市，只不过大家对5G并不满意，除了信号问题，还有5G耗电快的问题，以致于很多人买了5G手机也关闭5G，省得续航跟不上。如何解决5G耗电快的问题？&lt;strong&gt;专注户外三防手机的国产品牌AGM今天中午给出了个终极解决方案——AGM H5 Pro采用4G制式，不支持5G网络，从根源上解决问题。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
