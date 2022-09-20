@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [如何克服精神内耗并对抗分心](https://sspai.com/post/75687) | Tue Sep 20 2022 6:30 AM 
+- 👹 [全面、全能、全天候：跃我 GTR 4 &amp; GTS 4 使用体验](https://sspai.com/post/75747) | Tue Sep 20 2022 8:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    跃我 GTR 4 和 GTS 4 可以成为健康的守护者和健身的监督者，也可以成为生活的陪伴者。&lt;a href=&quot;https://sspai.com/post/75747&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [同型号共用总出问题，显示器的「身份证」为什么没用了？](https://sspai.com/post/75834) | Tue Sep 20 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    在人类用户之外，你的显示器又是怎样与你的显卡交流的呢？本文带你详解显示器的身份证 EDID。&lt;a href=&quot;https://sspai.com/post/75834&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🤭 [如何克服精神内耗并对抗分心](https://sspai.com/post/75687) | Tue Sep 20 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     尽管去做、优先去做、默认去做，这就是克服自我怀疑和恐惧的第一步，也是摆脱精神内耗的第一步。&lt;a href=&quot;https://sspai.com/post/75687&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [工作、运动两不误，我是这样实现的](https://sspai.com/post/75799) | Tue Sep 20 2022 3:41 AM 
+- 🥸 [工作、运动两不误，我是这样实现的](https://sspai.com/post/75799) | Tue Sep 20 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
     此文写作时间为 2022 年 9 月 19 日，我刚刚收到了 Apple Watch 发送给我的「最坚持奖 - 22 天」的奖章。一个习惯的养成需要 21 天，这个奖章也让我动了念头，想把这个过程分享出来，于是就有了这篇文章。&lt;a href=&quot;https://sspai.com/post/75799&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：华硕 ROG 游戏手机 6 天玑版发布、华米推出 Amazfit 跃我 GTR 4 手表等](https://sspai.com/post/75831) | Tue Sep 20 2022 12:57 AM 
+- 🙉 [派早报：华硕 ROG 游戏手机 6 天玑版发布、华米推出 Amazfit 跃我 GTR 4 手表等](https://sspai.com/post/75831) | Tue Sep 20 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
     浏览器内置拼写检查功能或上传用户隐私，Intel 发布 NUC 12 Enthusiast 迷你 PC 等。&lt;a href=&quot;https://sspai.com/post/75831&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/75818) | Mon Sep 19 2022 9:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75818&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [奔放的优雅：国标舞入坑指南](https://sspai.com/post/75746) | Mon Sep 19 2022 8:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    无论是现在小学阶段的素质教育还是大学阶段的体育课，总能看见「国标舞」的出现。可是这个「国标舞」究竟是什么？&lt;a href=&quot;https://sspai.com/post/75746&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
