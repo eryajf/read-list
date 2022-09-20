@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [碰到一个奇怪的问题， tcp 抓包看数据已经发送， access log 看 14s 之后才正常处理](https://www.v2ex.com/t/881715#reply3) | Tue Sep 20 2022 4:15 PM
-- 🤗 [Authing 真是一家神奇牛逼的公司！](https://www.v2ex.com/t/881704#reply3) | Tue Sep 20 2022 3:08 PM
-- 🎭 [请教：希望全部 jpg 301 到另外一个域名](https://www.v2ex.com/t/881702#reply1) | Tue Sep 20 2022 2:41 PM
-- 🥷 [如何在子进程的 for 循环中更新 tqdm 进度条](https://www.v2ex.com/t/881701#reply4) | Tue Sep 20 2022 2:32 PM
-- 🐵 [Python 操作 SQLite 异常](https://www.v2ex.com/t/881675#reply17) | Tue Sep 20 2022 12:24 PM<!-- v2ex:END -->
+- 🥸 [4090 牛逼！](https://www.v2ex.com/t/881725#reply0) | Tue Sep 20 2022 5:31 PM
+- 🤗 [碰到一个奇怪的问题， tcp 抓包看数据已经发送， access log 看 14s 之后才正常处理](https://www.v2ex.com/t/881715#reply3) | Tue Sep 20 2022 4:15 PM
+- 🎭 [Authing 真是一家神奇牛逼的公司！](https://www.v2ex.com/t/881704#reply5) | Tue Sep 20 2022 3:08 PM
+- 🥷 [请教：希望全部 jpg 301 到另外一个域名](https://www.v2ex.com/t/881702#reply1) | Tue Sep 20 2022 2:41 PM
+- 🐵 [如何在子进程的 for 循环中更新 tqdm 进度条](https://www.v2ex.com/t/881701#reply4) | Tue Sep 20 2022 2:32 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
