@@ -338,24 +338,24 @@
     热门游戏《侠盗猎车手6》（Grand Theft Auto）开发片段遭到黑客大规模窃取，这一泄露事件立即在游戏圈迅速传播。 
     </details> 
 
-- 🦄 [继北京健康宝后，澳门健康码又遭境外势力攻击](https://www.freebuf.com/articles/neopoints/344963.html) | Tue Sep 20 2022 7:00 AM 
+- 🦄 [无间道！ &amp;quot;沙虫 &amp;quot;组织冒充乌克兰电信公司投放恶意软件](https://www.freebuf.com/news/344955.html) | Tue Sep 20 2022 7:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    黑客组织Sandworm（沙虫） 伪装成电信提供商，以恶意软件攻击乌克兰实体。 
+    </details> 
+
+- 🦅 [继北京健康宝后，澳门健康码又遭境外势力攻击](https://www.freebuf.com/articles/neopoints/344963.html) | Tue Sep 20 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     重视培养网络安全技术人才，加大投入研发网络前沿技术，建设网络安全强国不会仅仅成为一句“口号”。 
     </details> 
 
-- 🦅 [攻击者正冒充美国政府机构骗取承包商Office账户](https://www.freebuf.com/news/344938.html) | Tue Sep 20 2022 3:16 AM 
+- 🪄 [攻击者正冒充美国政府机构骗取承包商Office账户](https://www.freebuf.com/news/344938.html) | Tue Sep 20 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     针对美国政府承包商的持续性网络钓鱼攻击正呈逐渐扩大之势，攻击者正采用更加难以分辨的“诱饵”制作钓鱼文件。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 三分之一企业未加密云端敏感数据；美驻华使领馆过度采集中方雇员信息](https://www.freebuf.com/news/344893.html) | Mon Sep 19 2022 10:58 AM 
+- 💻 [FreeBuf早报 | 三分之一企业未加密云端敏感数据；美驻华使领馆过度采集中方雇员信息](https://www.freebuf.com/news/344893.html) | Mon Sep 19 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
     报告揭示，36%的企业在其云端资产中混有未加密的敏感数据，如公司秘密和个人身份信息等。 
-    </details> 
-
-- 💻 [碰撞测试作弊假？黑客曝光特斯拉使用“特殊代码”](https://www.freebuf.com/news/344842.html) | Mon Sep 19 2022 3:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    黑客称，特斯拉一直在添加涉及碰撞测试机构的代码，包括刚刚测试过 Model Y 的 ANCAP 和 EuroNCAP。 
     </details> 
 <!-- freebuf:END -->
 
