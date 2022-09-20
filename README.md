@@ -430,11 +430,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9753145) | Mon Sep 19 2022 12:27 AM
-- 🐻 [人脑能承载多少知识?](http://daily.zhihu.com/story/9753124) | Mon Sep 19 2022 12:27 AM
-- 🌏 [南朝还有荆扬之争吗，荆扬之争什么时候退出历史的？](http://daily.zhihu.com/story/9753132) | Mon Sep 19 2022 12:27 AM
-- 🕴 [如果宇宙中真的存在修真文明，我们有胜算吗？](http://daily.zhihu.com/story/9753136) | Mon Sep 19 2022 12:27 AM
-- 🌮 [青梅煮酒为什么要配青梅，并且要煮酒？](http://daily.zhihu.com/story/9753140) | Mon Sep 19 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](http://daily.zhihu.com/story/9753177) | Tue Sep 20 2022 12:27 AM
+- 🐻 [有什么和「生命都会死亡」一样的基础规则，可以帮助我们对生命意义进行思考?](http://daily.zhihu.com/story/9753164) | Tue Sep 20 2022 12:27 AM
+- 🌏 [外行对你熟知的领域有哪些误解？](http://daily.zhihu.com/story/9753168) | Tue Sep 20 2022 12:27 AM
+- 🕴 [你相册中最舍不得删的一张「饭照」是哪张？吃的什么食物，有什么故事？](http://daily.zhihu.com/story/9753174) | Tue Sep 20 2022 12:27 AM
+- 🌮 [什么叫「好」的词曲，「好」的编曲，「好」的混音，「好」的音色...如何定义「好」？](http://daily.zhihu.com/story/9753175) | Tue Sep 20 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
