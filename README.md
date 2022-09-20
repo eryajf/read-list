@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大佬求解 sqlalchemy，项目中偶然发现 postgres+flask_sqlalchemy 在 query 时存在内存泄露问题](https://www.v2ex.com/t/881470#reply0) | Tue Sep 20 2022 1:58 AM
-- 🤗 [[发现]-SharpLab,一个.Net 平台语言的 CodePlayGround](https://www.v2ex.com/t/881469#reply0) | Tue Sep 20 2022 1:57 AM
-- 🎭 [有没有好用的安卓自动化工具 vs ios 的快捷指令](https://www.v2ex.com/t/881463#reply3) | Tue Sep 20 2022 1:44 AM
-- 🥷 [问个问题 NAS 有什么相册可以安卓同步的吗?](https://www.v2ex.com/t/881454#reply7) | Tue Sep 20 2022 1:25 AM
-- 🐵 [想折腾 nas 顺便学学 rust](https://www.v2ex.com/t/881447#reply5) | Tue Sep 20 2022 1:12 AM<!-- v2ex:END -->
+- 🥸 [请教一个关于 Spring-Security 开放 URL 白名单问题](https://www.v2ex.com/t/881530#reply0) | Tue Sep 20 2022 4:30 AM
+- 🤗 [crates.io 快像 npm 那样太多重复轮子了](https://www.v2ex.com/t/881520#reply4) | Tue Sep 20 2022 3:51 AM
+- 🎭 [关于 MYSQL8 时间类型字段的一些疑问](https://www.v2ex.com/t/881499#reply2) | Tue Sep 20 2022 2:54 AM
+- 🥷 [新开源 HTML5 单文件网页版 ACME 客户端，支持在线申请 Let&#39;s Encrypt、ZeroSSL 免费 HTTPS 多域名通配符 SSL/TLS 证书（RSA/ECC/ECDSA）](https://www.v2ex.com/t/881494#reply0) | Tue Sep 20 2022 2:37 AM
+- 🐵 [IP 地址，你们一般用什么数据类型存储？](https://www.v2ex.com/t/881486#reply16) | Tue Sep 20 2022 2:29 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
