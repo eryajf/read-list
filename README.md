@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [攻击者正冒充美国政府机构骗取承包商Office账户](https://www.freebuf.com/news/344938.html) | Tue Sep 20 2022 3:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    针对美国政府承包商的持续性网络钓鱼攻击正呈逐渐扩大之势，攻击者正采用更加难以分辨的“诱饵”制作钓鱼文件。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 三分之一企业未加密云端敏感数据；美驻华使领馆过度采集中方雇员信息](https://www.freebuf.com/news/344893.html) | Mon Sep 19 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
     报告揭示，36%的企业在其云端资产中混有未加密的敏感数据，如公司秘密和个人身份信息等。 
     </details> 
 
-- 🦄 [碰撞测试作弊假？黑客曝光特斯拉使用“特殊代码”](https://www.freebuf.com/news/344842.html) | Mon Sep 19 2022 3:24 AM 
+- 🦅 [碰撞测试作弊假？黑客曝光特斯拉使用“特殊代码”](https://www.freebuf.com/news/344842.html) | Mon Sep 19 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     黑客称，特斯拉一直在添加涉及碰撞测试机构的代码，包括刚刚测试过 Model Y 的 ANCAP 和 EuroNCAP。 
     </details> 
 
-- 🦅 [“泄露”的咖啡！黑客出售近22万名新加坡星巴克顾客数据](https://www.freebuf.com/news/344836.html) | Mon Sep 19 2022 3:11 AM 
+- 🪄 [“泄露”的咖啡！黑客出售近22万名新加坡星巴克顾客数据](https://www.freebuf.com/news/344836.html) | Mon Sep 19 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     该事件可能泄露了顾客姓名、性别、出生日期、手机号码、电子邮件地址、住宅地址等个人敏感信息。 
     </details> 
 
-- 🪄 [公有云攻防系列——云服务利用篇](https://www.freebuf.com/articles/blockchain-articles/344831.html) | Mon Sep 19 2022 2:22 AM 
+- 💻 [公有云攻防系列——云服务利用篇](https://www.freebuf.com/articles/blockchain-articles/344831.html) | Mon Sep 19 2022 2:22 AM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了一些公有云厂商提供的云服务相关的漏洞和相关的攻击技术，说明了云服务在提供便利的同时也可能带来难以预料的风险。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 美成立专门机构打击加密货币犯罪；洲际酒店遭黑客破坏性攻击](https://www.freebuf.com/articles/344823.html) | Mon Sep 19 2022 12:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    美国司法部组建了数字资产协调人网络&lpar;Digital Asset Coordinators Network&rpar;专门打击加密货币犯罪。 
     </details> 
 <!-- freebuf:END -->
 
