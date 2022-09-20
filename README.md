@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Intermission - 主持长时间的会议，休息一下](https://xinquji.com/posts/179658?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:29 AM 
+- 👀 [VoiceLine - 随时随地使用语音工作，无需打字，无需开会](https://xinquji.com/posts/179672?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-     主持长时间的会议，休息一下  
+     随时随地使用语音工作，无需打字，无需开会  
     </details> 
 
-- 🥷 [Tracklist - 管理、跟踪和获取 NFT 白名单通知](https://xinquji.com/posts/179657?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:29 AM 
+- 🥷 [SlideServe - 免费轻松创建、共享和跟踪您的数字内容](https://xinquji.com/posts/179671?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     管理、跟踪和获取 NFT 白名单通知  
+     免费轻松创建、共享和跟踪您的数字内容  
     </details> 
 
-- 💼 [Huum - 让求职者眼花缭乱的职位列表](https://xinquji.com/posts/179656?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:27 AM 
+- 💼 [Indie Entrepreneur Toolkit for Notion - 建立有价值的职业生涯的所有信息、工具和计划](https://xinquji.com/posts/179670?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-     让求职者眼花缭乱的职位列表  
+     建立有价值的职业生涯的所有信息、工具和计划  
     </details> 
 
-- 🦅 [Ouroboros - 点文件管理器、事件监视器、开发人员工具箱](https://xinquji.com/posts/179655?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:26 AM 
+- 🦅 [Crunchbase People - 从 Crunchbase 一键访问创始人 LinkedIn](https://xinquji.com/posts/179669?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     点文件管理器、事件监视器、开发人员工具箱  
+     从 Crunchbase 一键访问创始人 LinkedIn  
     </details> 
 
-- 😺 [vested - 健身追踪器，但为了省钱](https://xinquji.com/posts/179654?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:25 AM 
+- 😺 [Glomad 2.0 - 关于签证的协作知识库](https://xinquji.com/posts/179668?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     健身追踪器，但为了省钱  
+     关于签证的协作知识库  
     </details> 
 <!-- xinquji:END -->
