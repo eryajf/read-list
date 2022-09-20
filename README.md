@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [要满足什么样的条件，才能让程序员这种工作，像医生律师一样越老越吃香？](https://www.v2ex.com/t/881426#reply17) | Mon Sep 19 2022 6:51 PM
-- 🤗 [Python 如何表示所有质数？](https://www.v2ex.com/t/881419#reply12) | Mon Sep 19 2022 4:16 PM
-- 🎭 [Win10 系统不同用户数据问题](https://www.v2ex.com/t/881402#reply0) | Mon Sep 19 2022 2:19 PM
-- 🥷 [添加 ComposeView 报错 CiewTreeLifecycleOwner not found](https://www.v2ex.com/t/881386#reply2) | Mon Sep 19 2022 1:33 PM
-- 🐵 [NAS 新手问题](https://www.v2ex.com/t/881382#reply20) | Mon Sep 19 2022 1:22 PM<!-- v2ex:END -->
+- 🥸 [大佬求解 sqlalchemy，项目中偶然发现 postgres+flask_sqlalchemy 在 query 时存在内存泄露问题](https://www.v2ex.com/t/881470#reply0) | Tue Sep 20 2022 1:58 AM
+- 🤗 [[发现]-SharpLab,一个.Net 平台语言的 CodePlayGround](https://www.v2ex.com/t/881469#reply0) | Tue Sep 20 2022 1:57 AM
+- 🎭 [有没有好用的安卓自动化工具 vs ios 的快捷指令](https://www.v2ex.com/t/881463#reply3) | Tue Sep 20 2022 1:44 AM
+- 🥷 [问个问题 NAS 有什么相册可以安卓同步的吗?](https://www.v2ex.com/t/881454#reply7) | Tue Sep 20 2022 1:25 AM
+- 🐵 [想折腾 nas 顺便学学 rust](https://www.v2ex.com/t/881447#reply5) | Tue Sep 20 2022 1:12 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
