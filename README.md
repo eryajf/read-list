@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [文曲星猜单词 - 一款休闲复古的猜单词游戏](https://xinquji.com/posts/179586?utm_campaign=xinquji-rss) | Tue Sep 20 2022 8:37 AM 
+- 👀 [Intermission - 主持长时间的会议，休息一下](https://xinquji.com/posts/179658?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     一款休闲复古的猜单词游戏  
+     主持长时间的会议，休息一下  
     </details> 
 
-- 🥷 [groundcover - 轻松、大规模地监控 K8s 应用程序](https://xinquji.com/posts/179632?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:23 AM 
+- 🥷 [Tracklist - 管理、跟踪和获取 NFT 白名单通知](https://xinquji.com/posts/179657?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     轻松、大规模地监控 K8s 应用程序  
+     管理、跟踪和获取 NFT 白名单通知  
     </details> 
 
-- 💼 [Wordplay - 一键生成 2000+ 字的优质内容](https://xinquji.com/posts/179631?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:22 AM 
+- 💼 [Huum - 让求职者眼花缭乱的职位列表](https://xinquji.com/posts/179656?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     一键生成 2000+ 字的优质内容  
+     让求职者眼花缭乱的职位列表  
     </details> 
 
-- 🦅 [Bootstrapping.Tech - 增强您的创业公司的概念体验](https://xinquji.com/posts/179630?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:21 AM 
+- 🦅 [Ouroboros - 点文件管理器、事件监视器、开发人员工具箱](https://xinquji.com/posts/179655?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     增强您的创业公司的概念体验  
+     点文件管理器、事件监视器、开发人员工具箱  
     </details> 
 
-- 😺 [Scholars - 一起阅读研究论文 - 评论、绘图和注释](https://xinquji.com/posts/179629?utm_campaign=xinquji-rss) | Tue Sep 20 2022 6:20 AM 
+- 😺 [vested - 健身追踪器，但为了省钱](https://xinquji.com/posts/179654?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     一起阅读研究论文 - 评论、绘图和注释  
+     健身追踪器，但为了省钱  
     </details> 
 <!-- xinquji:END -->
