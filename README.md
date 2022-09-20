@@ -803,30 +803,30 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [澳洲人类与葵花鹦鹉的“军备竞赛”](http://jandan.net/p/111367) | Tue Sep 20 2022 8:23 AM 
+- 🚀 [现在地球上有多少只蚂蚁？](http://jandan.net/p/111368) | Tue Sep 20 2022 10:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    昆虫和其他无脊椎动物是“支配世界的小东西” 
+    </details> 
+
+- 🙉 [澳洲人类与葵花鹦鹉的“军备竞赛”](http://jandan.net/p/111367) | Tue Sep 20 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
     围绕着垃圾桶斗智斗勇 
     </details> 
 
-- 🙉 [表观遗传学发现 存在两种类型的肥胖，其中一种特别糟糕](http://jandan.net/p/111341) | Tue Sep 20 2022 4:28 AM 
+- 🎉 [表观遗传学发现 存在两种类型的肥胖，其中一种特别糟糕](http://jandan.net/p/111341) | Tue Sep 20 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
     第二种肥胖——与炎症有关的肥胖——似乎是偶然触发的。 
     </details> 
 
-- 🎉 [今日带货：富安娜床品](http://jandan.net/p/111366) | Tue Sep 20 2022 3:19 AM 
+- 🐲 [今日带货：富安娜床品](http://jandan.net/p/111366) | Tue Sep 20 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：50 
     </details> 
 
-- 🐲 [全世界软盘行业的最后一人](http://jandan.net/p/111364) | Mon Sep 19 2022 4:47 AM 
+-  [全世界软盘行业的最后一人](http://jandan.net/p/111364) | Mon Sep 19 2022 4:47 AM 
     <details><summary>展开描述 ...</summary> 
     一个三岁的小女孩手里举着一张软盘来找她父亲，说：“爸爸，爸爸，有人3D打印了保存图标！”
  
-    </details> 
-
--  [1000年前携带XXY染色体的男性遗骸 已知最古老的克兰费尔特综合征患者](http://jandan.net/p/111237) | Mon Sep 19 2022 4:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    通常不会产生任何明显的症状&lpar;许多病例从未被诊断出来&rpar;，但患有这种疾病的男性通常身材高大，臀部宽阔，体毛稀疏。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
