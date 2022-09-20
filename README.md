@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [SEC认为美国政府对所有以太坊交易拥有司法管辖权](https://www.cnbeta.com/articles/tech/1318469.htm) | Tue Sep 20 2022 8:29 AM 
+- 🕯 [新研究揭示了糖尿病与尿路感染之间的联系](https://www.cnbeta.com/articles/science/1318495.htm) | Tue Sep 20 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Decrypt.co 报道称，&lt;strong&gt;在针对加密货币影响力人士 Ian Balina 的民事诉讼中，美国证券交易委员会（SEC）认为美国政府应该享有针对所有以太坊交易的司法管辖权。&lt;/strong&gt;该机构指出：“发送给 Balina 的 ETH 已通过以太坊区块链上的节点网络进行验证，且相关节点在美国的集群密度较任何其它地区都更高”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;1型和2型糖尿病都被发现跟免疫力下降和反复感染有关。&lt;/strong&gt;瑞典卡罗林斯卡学院的科学家们发现，糖尿病患者的免疫系统中抗菌肽银屑病素的水平较低。这损害了膀胱的细胞屏障，增加了尿路感染的风险。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [土耳其两家银行宣布暂停使用俄罗斯“米尔”支付系统](https://www.cnbeta.com/articles/tech/1318467.htm) | Tue Sep 20 2022 8:28 AM 
+- 💼 [NVIDIA RTX 4090显卡曝光：三槽位双风扇设计](https://www.cnbeta.com/articles/tech/1318493.htm) | Tue Sep 20 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据土耳其媒体当地时间9月20日报道，当地时间19日，为避免卷入俄罗斯与西方国家间的金融冲突，土耳其实业银行和德尼兹银行宣布暂停使用俄罗斯“米尔（Mir）”支付系统。“米尔（Mir）”支付系统是俄罗斯央行于2014年推出的支付清算系统，可在境外多个国家和地区使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA 将会在今天晚些时候宣布 RTX 4090 旗舰显卡。在发布会正式开始之前，&lt;strong&gt;国外科技媒体 VideoCardz 分享了 RTX 4090 Founders Edition 的照片，该显卡将占用 3 个 PCIe 卡槽，采用双风扇设计，和 RTX 3090 Ti 非常类似。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [小偷被外卖小哥绑在电线杆，依法有度更能惩治偷盗者](https://www.cnbeta.com/articles/tech/1318465.htm) | Tue Sep 20 2022 8:25 AM 
+- 💂 [英国将修改《在线安全法案》对成年人“合法但有害”内容的限制](https://www.cnbeta.com/articles/tech/1318491.htm) | Tue Sep 20 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月19日，在广东深圳。男子偷外卖被外卖小哥抓个正着，用胶带绑在电线杆上后报警，期间男子不断大声呼喊“救命”引路人围观。拍摄者吴先生表示，一开始并没有绑，是其试图逃跑后才绑的，事后警察赶到将偷外卖的男子带走。（据9月20日大众网）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据TechCrunch报道，英国的《在线安全法案》草案即将被修改，该立法草案在对言论自由的影响方面继续引起争议。&lt;strong&gt;《在线安全法案》草案已经酝酿多年，但新任首相利兹·特拉斯本月早些时候表示，她希望进行&amp;quot;调整&amp;quot;，以确保其不损害言论自由。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究揭示更新的CMIP6气候模型中南大洋云辐射和物理特性的补偿误差](https://www.cnbeta.com/articles/science/1318463.htm) | Tue Sep 20 2022 8:22 AM 
+- 🚀 [微软：请警惕近期的大规模点击诈骗活动](https://www.cnbeta.com/articles/tech/1318489.htm) | Tue Sep 20 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;云层可以使地球表面变冷或变热，这种辐射效应对全球能源预算有很大贡献，并且可以被人类造成的污染所改变。世界上最南端的海洋被恰当地命名为南大洋，它远离人类污染，但受到丰富的海洋气体和气溶胶的影响。它大约80%被云层覆盖。&lt;strong&gt;但这个水体及其与云层的关系是如何促进世界气候变化的呢？&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;微软近日发出警告，希望大众警惕黑客团体 DEV-0796 近期发起的大规模点击诈骗行为。&lt;/strong&gt;微软表示，攻击者可以在用户不知情的情况下通过浏览器节点 webkit 或安装在设备上的恶意浏览器扩展程序产生的点击获利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [5G耗电快怎么办？国产手机AGM自黑：只支持4G即可从根源上解决问题](https://www.cnbeta.com/articles/tech/1318461.htm) | Tue Sep 20 2022 8:18 AM 
+- 🎊 [以太坊禁止显卡挖矿引连锁反应：二手市场流入大量矿卡](https://www.cnbeta.com/articles/tech/1318487.htm) | Tue Sep 20 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;5G商用三年，全国的5G基站差不多200万个了，覆盖了国内主要城市，只不过大家对5G并不满意，除了信号问题，还有5G耗电快的问题，以致于很多人买了5G手机也关闭5G，省得续航跟不上。如何解决5G耗电快的问题？&lt;strong&gt;专注户外三防手机的国产品牌AGM今天中午给出了个终极解决方案——AGM H5 Pro采用4G制式，不支持5G网络，从根源上解决问题。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;自本月15日，以太坊禁止显卡挖矿以来，显卡市场中流入了大量曾用于挖矿的二手显卡。&lt;/strong&gt;由于我国早已明令禁止挖矿，并且“矿难”也早就到来过了，所以二手市场表现尚不明显（一直就有很多二手显卡）。反观咱们隔壁韩国，其二手交易社区中涌现出了众多“RTX3070”“RTX3080”等带有“mined used”标签的矿卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
