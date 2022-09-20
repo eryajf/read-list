@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [奥地利摄影师拍摄的Leonard彗星照片赢得2022年年度天文摄影师大赛](https://www.cnbeta.com/articles/tech/1318269.htm) | Tue Sep 20 2022 2:03 AM 
+- 🕯 [微软放宽了Xbox玩光盘游戏的DRM限制](https://hot.cnbeta.com/articles/game/1318351.htm) | Tue Sep 20 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据BGR报道，&lt;strong&gt;关于Leonard彗星的一张壮观照片获得了格林威治皇家天文台2022年年度天文摄影师大赛的最高奖项。&lt;/strong&gt;这张照片是由奥地利天文摄影师Gerald Rhemann在2021年的圣诞节拍摄的，可以在下面看到。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软表示 Xbox Series X 即便是在离线状态下，也能更轻松地玩游戏了。&lt;strong&gt;在安装本月早些时候发布的 2208 更新之后，在玩 Xbox One 光盘游戏时不再强制玩家进行在线兼容性检查检查。&lt;/strong&gt;相反，您只需将光盘放入，安装游戏，然后开始游戏，全程无需互联网连接。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD开源Vulkan图形驱动更新 RDNA 2 GPU迎来Linux光追支持](https://www.cnbeta.com/articles/tech/1318267.htm) | Tue Sep 20 2022 2:02 AM 
+- 💼 [《卫报》：硅谷的黄金时代即将结束了？](https://www.cnbeta.com/articles/tech/1318349.htm) | Tue Sep 20 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;上周，AMD Vulkan 图形驱动程序“AMDVLK GPUOpen”为其 Radeon RX 6000 系列 RDNA 2 GPU 增加了对 64-bit 光追特性的支持。&lt;/strong&gt;这项变动适用于采用 RDNA 2 图形架构的桌面 / 移动独显，以及 APU 上的核显。同时各个平台上的 AMD Vulkan 驱动程序，现都将支持硬件光追。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英国《卫报》9月17日文章，原题：硅谷的黄金时代即将结束？ Snapchat大规模裁员，Meta和苹果市值暴跌，其他大型科技公司暂停招聘，所有这些都在日益凸显一个问题：硅谷的黄金时代是否即将结束？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [车主曝理想L9新车交付不到3公里发生故障 售后前来推车](https://www.cnbeta.com/articles/tech/1318265.htm) | Tue Sep 20 2022 2:01 AM 
+- 💂 [法拉第未来大股东向公司提起诉讼 要求罢免两位董事会成员](https://www.cnbeta.com/articles/tech/1318347.htm) | Tue Sep 20 2022 4:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;开了不到3公里的准新车，就这样抛锚在路上，换做是你该怎么办？9月20日，有博主爆料称，一理想L9的车主就遭遇了此种情况：从这名车主拍摄的视频来看，&lt;strong&gt;这台L9停在某十字路口中间动弹不得，中控屏上有红色的警示词&lt;/strong&gt;，依稀可辨的是“请靠边停车，联系理想汽车客服中心”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月20日消息，法庭文件显示，电动汽车初创企业法拉第未来的大股东对公司提起诉讼，要求罢免两位董事会成员，这让法拉第未来的董事会改革纷争再度升级。目前法拉第未来尚未开始量产FF 91豪华电动汽车。大股东FF Top一直在向公司施压，要求罢免执董事会主席苏珊·斯文森（Susan Swenson）和董事会成员布莱恩·克罗利基（Brian Krolicki）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [四天工作制可行吗？调查显示大部分试点公司成功了](https://www.cnbeta.com/articles/tech/1318263.htm) | Tue Sep 20 2022 1:52 AM 
+- 🚀 [4年前才值1亿的Figma转身卖了200亿 结果用户都在喊它快逃？](https://www.cnbeta.com/articles/tech/1318345.htm) | Tue Sep 20 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;北京时间9月20日消息，非营利组织“全球四天工作制”&lpar;4 Day Week Global&rpar;实施的试点计划显示，四天工作制是可行的。&lt;/strong&gt;“全球四天工作制”周二公布的一项调查发现，在70多家实行四天工作制的英国公司中，78%的领导者表示他们实现了顺利或“无缝”过渡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近几天，在科技公司不断传出裁员、估值下跌的低迷之中，一桩巨额收购案引爆了投资界和整个设计圈——全球最大多媒体制作软件开发商Adobe宣布以200亿美元的价格收购设计界黑马新秀Figma。这桩收购不仅是Adobe自1982年成立以来的最大收购案，也是设计行业中迄今为止最大的一笔收购。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [法院裁定美DOJ可以加入苹果 v. Epic反垄断审判的辩论](https://www.cnbeta.com/articles/tech/1318261.htm) | Tue Sep 20 2022 1:51 AM 
+- 🎊 [部分iPhone 14用户吐槽无法向联系人进行AirDrop隔空投送](https://www.cnbeta.com/articles/tech/1318343.htm) | Tue Sep 20 2022 4:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美司法部&lpar;DOJ&rpar;已经在即将到来的苹果诉Epic Games上诉案中获得跟加利福尼亚州一起提出自己的口头辩论的时间。&lt;/strong&gt;当地时间周五，DOJ官员提出申请，除了每方20分钟的辩论时间外还要求在审判期间提出10分钟的口头辩论。律师们称，他们希望有时间向法庭解释评估针对苹果的反垄断索赔的适当法律框架。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;由 MacRumors 论坛网友发布的大量吐槽帖可知，不少 iPhone 14 用户都遇到了无法正常使用 AirDrop 功能的问题。&lt;/strong&gt;具体说来是，当尝试向已知联系人发送文件时，受影响的 iPhone 14（iOS 16）设备却无法完成该流程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
