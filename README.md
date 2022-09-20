@@ -803,30 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [现在地球上有多少只蚂蚁？](http://jandan.net/p/111368) | Tue Sep 20 2022 10:16 AM 
+- 🚀 [美国最强大的激光器&lpar;宙斯 ZEUS&rpar; 即将开机运行](http://jandan.net/p/111369) | Tue Sep 20 2022 11:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    宙斯到6就开大 
+    </details> 
+
+- 🙉 [现在地球上有多少只蚂蚁？](http://jandan.net/p/111368) | Tue Sep 20 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
     昆虫和其他无脊椎动物是“支配世界的小东西” 
     </details> 
 
-- 🙉 [澳洲人类与葵花鹦鹉的“军备竞赛”](http://jandan.net/p/111367) | Tue Sep 20 2022 8:23 AM 
+- 🎉 [澳洲人类与葵花鹦鹉的“军备竞赛”](http://jandan.net/p/111367) | Tue Sep 20 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
     围绕着垃圾桶斗智斗勇 
     </details> 
 
-- 🎉 [表观遗传学发现 存在两种类型的肥胖，其中一种特别糟糕](http://jandan.net/p/111341) | Tue Sep 20 2022 4:28 AM 
+- 🐲 [表观遗传学发现 存在两种类型的肥胖，其中一种特别糟糕](http://jandan.net/p/111341) | Tue Sep 20 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
     第二种肥胖——与炎症有关的肥胖——似乎是偶然触发的。 
     </details> 
 
-- 🐲 [今日带货：富安娜床品](http://jandan.net/p/111366) | Tue Sep 20 2022 3:19 AM 
+-  [今日带货：富安娜床品](http://jandan.net/p/111366) | Tue Sep 20 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：50 
-    </details> 
-
--  [全世界软盘行业的最后一人](http://jandan.net/p/111364) | Mon Sep 19 2022 4:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    一个三岁的小女孩手里举着一张软盘来找她父亲，说：“爸爸，爸爸，有人3D打印了保存图标！”
- 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
