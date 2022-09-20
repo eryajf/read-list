@@ -348,14 +348,14 @@
     重视培养网络安全技术人才，加大投入研发网络前沿技术，建设网络安全强国不会仅仅成为一句“口号”。 
     </details> 
 
-- 🪄 [攻击者正冒充美国政府机构骗取承包商Office账户](https://www.freebuf.com/news/344938.html) | Tue Sep 20 2022 3:16 AM 
+- 🪄 [这些观点掷地有声！FreeBuf网安智库说第四季圆满落幕](https://www.freebuf.com/articles/344951.html) | Tue Sep 20 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-    针对美国政府承包商的持续性网络钓鱼攻击正呈逐渐扩大之势，攻击者正采用更加难以分辨的“诱饵”制作钓鱼文件。 
+    本文将带你回顾本季内容精华，更有专家金句海报~ 
     </details> 
 
-- 💻 [FreeBuf早报 | 三分之一企业未加密云端敏感数据；美驻华使领馆过度采集中方雇员信息](https://www.freebuf.com/news/344893.html) | Mon Sep 19 2022 10:58 AM 
+- 💻 [攻击者正冒充美国政府机构骗取承包商Office账户](https://www.freebuf.com/news/344938.html) | Tue Sep 20 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-    报告揭示，36%的企业在其云端资产中混有未加密的敏感数据，如公司秘密和个人身份信息等。 
+    针对美国政府承包商的持续性网络钓鱼攻击正呈逐渐扩大之势，攻击者正采用更加难以分辨的“诱饵”制作钓鱼文件。 
     </details> 
 <!-- freebuf:END -->
 
