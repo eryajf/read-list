@@ -388,14 +388,14 @@
     TypeORM 是一个ORM框架，它可以运行在 NodeJS、Browser、Cordova、PhoneGap、Ionic、React Native、Expo 和 Electron 平台 
     </details> 
 
-- 🚀 [github如何和已经开发好的项目关联](https://juejin.cn/post/7145387603200573453) | Tue Sep 20 2022 9:13 AM 
+- 🚀 [「NIO源码」JavaNIO源码 &amp; JNI分析一：linux API介绍](https://juejin.cn/post/7145385542678413325) | Tue Sep 20 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-    zh之前本地写了一个小项目，现在打算放到github上，但是如何使这两者关联起来呢？我的步骤是这样的： 1.先进入项目里面，执行git init 这样会在项目里面生成.git文件夹 2.通过git r 
+    Linux网络编程 查阅资料的时候，发现wiki百科讲的已经十分好了，我先贴下原文Berkeley套接字，相当完美的描述了Socket相关Api介绍及demo演示。 
     </details> 
 
-- 💪 [扒源码系列：GPT / GPT-2 中 proj 的作用](https://juejin.cn/post/7145358049677410312) | Tue Sep 20 2022 7:18 AM 
+- 💪 [使用Canvas快速实现手势解锁特效，你get到了吗？](https://juejin.cn/post/7145348261711183909) | Tue Sep 20 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-    事情是这样的。前两天翻译了一篇文章图解GPT-2。在翻译的过程中为了防止自己出错，所以参考了一下其他人对于GPT的一些理解，然后就出错了，为了解决这个错误，导致我最后重新扒了一遍GPT-2的源码。 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。使用Canvas快速实现手势解锁，之前在开发星座运势的时候遇到一个活动项目需求，要让用户使用手势画星位图来解锁星座运势。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
