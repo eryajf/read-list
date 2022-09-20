@@ -66,29 +66,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第71期-2022年第36周](https://wiki.eryajf.net/pages/502079/) | Fri Sep 16 2022 9:06 AM 
+- 🫶 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/) | Tue Sep 20 2022 11:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文来介绍当我们的npm私服配置完毕之后，如何上传到nexus私服中 
+    </details> 
+
+- 🧰 [将maven本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/f5007c/) | Tue Sep 20 2022 11:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文来介绍当我们的maven私服配置完毕之后，如何上传到nexus私服中 
+    </details> 
+
+- 🌏 [学习周刊-总第71期-2022年第36周](https://wiki.eryajf.net/pages/502079/) | Fri Sep 16 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第71期-一些国内的公司在服务网格方面的实践 
     </details> 
 
-- 🧰 [Jenkins-Groovy中三元表达式的用法](https://wiki.eryajf.net/pages/ebae63/) | Sat Sep 10 2022 2:53 PM 
+- 😎 [Jenkins-Groovy中三元表达式的用法](https://wiki.eryajf.net/pages/ebae63/) | Sat Sep 10 2022 2:53 PM 
     <details><summary>展开描述 ...</summary> 
     我们在使用pipeline的时候，如果某一个变量没有正常声明，则会遇到变量定义失败的错误，这个时候，我们可以借助三元表达式来解决这个问题。 
     </details> 
 
-- 🌏 [学习周刊-总第70期-2022年第35周](https://wiki.eryajf.net/pages/d3ed2b/) | Fri Sep 09 2022 8:47 AM 
+- 💂 [学习周刊-总第70期-2022年第35周](https://wiki.eryajf.net/pages/d3ed2b/) | Fri Sep 09 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第70期-国内效能平台实践与一个优质的开源堡垒机 
-    </details> 
-
-- 😎 [Jenkins结合MySql Database插件的平台化实践思路](https://wiki.eryajf.net/pages/ef36d8/) | Sun Sep 04 2022 7:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    以往Jenkins实践当中，配置了共享库的流水线方案，通过将核心公共逻辑抽离成膜版，项目个性化配置信息放到引导文件中的方式进行推进。这种方案没有什么毛病，对于运维的维护工作也是比较友好的，只是后来我们打算再在Jenkins上层做一下平台化封装的时候，发现还是存在一些问题，并且有一些难度的。最近我了解学习到了一个与 MySQL Database 插件结合的思路，能够比较好解决这种问题，那么接下来话不多说，直接进入正题，让我们来认识一下这个插件。 
-    </details> 
-
-- 💂 [学习周刊-总第69期-2022年第34周](https://wiki.eryajf.net/pages/30b309/) | Fri Sep 02 2022 8:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第69期-2021年个人博主们的年终总结 
     </details> 
 <!-- eryajf:END -->
 
