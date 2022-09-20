@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [网友称在三只松鼠多味花生中吃出油炸壁虎 官方发声明：不可能](https://www.cnbeta.com/articles/tech/1318599.htm) | Tue Sep 20 2022 3:18 PM 
+- 🕯 [通用汽车将在未来五年内向赫兹租车出售17.5万辆电动汽车](https://www.cnbeta.com/articles/tech/1318613.htm) | Tue Sep 20 2022 4:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天晚上，三只松鼠官方微博发布声明，&lt;strong&gt;回应网上曝光的“壁虎事件”，称产品中不可能出现该异物。&lt;/strong&gt;在此之前，广东茂名的一位网友发短视频称，他在“三只松鼠多味花生”里发现了一只疑似被油炸过的壁虎。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;通用汽车公司正与赫兹公司合作，扩大该租车公司平台上的电动汽车数量。公司宣布，它将在未来五年内向赫兹公司出售17.5万辆电动车，这是该公司称这是迄今为止最大的一笔交易。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果Mac和iPad在美国客户满意度指数中名列前茅](https://www.cnbeta.com/articles/tech/1318597.htm) | Tue Sep 20 2022 2:37 PM 
+- 💼 [iPhone 14 Pro系列将在2022年剩余时间内主导苹果的出货量](https://www.cnbeta.com/articles/tech/1318611.htm) | Tue Sep 20 2022 4:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司的客户是个人电脑买家中满意度最高的，这不是什么新闻，也没有什么意外，其Mac和iPad产品再次击败了来自三星和宏碁的激烈竞争。周一公布的ACSI家用电器和电子产品研究报告是一份涵盖2021年7月至2022年6月的报告，用于监测消费者对其与各供应商的体验的感受。然而，在个人电脑类别中，苹果公司再次无悬念击败了其竞争对手。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;分析师Ming-Chi Kuo预测，到2022年，iPhone 14 Pro机型将比之前想象的更能吸引苹果供应商的注意力。在大多数iPhone 14机型上市不到一周后，分析师们对苹果将销售的变体组合提出了新的主张。周二，天风证券的分析师郭明錤对今年的iPhone产品上市预期进行了更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AMD RX 7000系列发布时间官宣：11月3日](https://www.cnbeta.com/articles/tech/1318595.htm) | Tue Sep 20 2022 2:25 PM 
+- 💂 [AMD发布Ryzen 7020 移动处理器用于&quot;日常用笔记本电脑&quot;](https://www.cnbeta.com/articles/tech/1318609.htm) | Tue Sep 20 2022 4:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天晚上，NVIDIA将正式发布RTX 40系列新一代显卡，届时我们会同步带来最新消息。有趣的是，AMD在这个节骨眼来抢戏了！&lt;strong&gt;AMD Radeon显卡事业部高级副总裁兼总经理Scott Herkelman宣布，基于RDNA3架构的下一代显卡，将在11月3日正式发布！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-align: left;&quot;&gt;AMD宣布了其基于&amp;quot;Mendocino&amp;quot;的Ryzen 7020和Athlon 7020系列移动处理器。这些芯片主要定位与英特尔的酷睿i3等产品竞争，旨在为低成本和低功率的设备提供动力--用AMD发布会上的话来说，就是&amp;quot;日常用笔记本电脑&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14未发先火 上市后黄牛却哭了 谁该背这个锅？](https://www.cnbeta.com/articles/tech/1318593.htm) | Tue Sep 20 2022 2:25 PM 
+- 🚀 [NVIDIA发布DLSS 3：革命性AI生成帧技术、性能飞升4倍](https://www.cnbeta.com/articles/tech/1318607.htm) | Tue Sep 20 2022 3:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;要说这段时间，手机圈最重磅的事件是什么，那当属iPhone 14系列的开售。与往年一样，此次iPhone 14系列一经推出就广受大家关注。除了Pro系列的灵动岛设计外，大家最关心的，应该是阔别已久的Plus机型又回来了！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;RTX 40系列发布的同时，NVIDIA还带来了全新一代DLSS 3超采样超分辨率技术，基于AI驱动的性能倍增器，号称开启RTX神经网络渲染游戏和应用的新时代。其实，伴随RTX 20系列诞生的第一代DLSS，就追求AI驱动、神经网络渲染，但因为条件不成熟，当时的表现令人失望，尤其是画面模糊。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“小黄蜂”雪佛兰星迈罗正式上市：13.99万拿下偶像](https://www.cnbeta.com/articles/tech/1318591.htm) | Tue Sep 20 2022 2:20 PM 
+- 🎊 [RTX 4090、RTX 4080正式发布：性能暴涨4倍 价格冲上12999元](https://www.cnbeta.com/articles/tech/1318605.htm) | Tue Sep 20 2022 3:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月19日，雪佛兰“小黄蜂”星迈罗正式上市。新车共推出5款车型，售价区间为13.99-16.49万元。那么，新车的实力究竟如何，能否成为紧凑级家用SUV中的超值之选呢？在《变形金刚》中，“大黄蜂”给人的印象非常深刻。它的原型就是雪佛兰旗下的传奇性能跑车——科迈罗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月20日深夜，万众期待的NVIDIA RTX 40系列显卡终于来了！首发宣布的有三款，分别是RTX 4090、RTX 4080 16GB、RTX 4080 12GB。RTX 40系列基于全新设计的&lt;strong&gt;Ada Lovelace GPU架构，&lt;/strong&gt;在性能、效率上都实现了巨大的代际飞跃，无论是实时光线追踪，还是AI神经网络渲染，都可以说开启了新时代。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
