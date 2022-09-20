@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [OpenAI的图像生成器DALL-E现在可以编辑人脸了](https://www.cnbeta.com/articles/tech/1318521.htm) | Tue Sep 20 2022 10:03 AM 
+- 🕯 [抖音：未来将重点建设图文等新体裁](https://hot.cnbeta.com/articles/movie/1318549.htm) | Tue Sep 20 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;OpenAI现在允许其人工智能艺术生成程序DALL-E的用户编辑带有人脸的图像。由于担心被滥用，这项功能以前是禁止使用的，但是，在发给DALL-E的100多万用户的一封信中，OpenAI说，在改进过滤器以去除含有&amp;quot;性、政治和暴力内容&amp;quot;的图像之后，他们开放了访问权限。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月20日消息，抖音方面透露，抖音未来一段时间将重点建设图文等新体裁。抖音副总裁支颖表示，上线6年，抖音的内容体裁更加多元，服务的合作伙伴更多，已经从一种娱乐方式变成一种生活方式。未来一年，抖音的工作重点是建设新内容，服务新伙伴。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1318549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国际象棋比赛疑用智能肛珠作弊](https://www.cnbeta.com/articles/tech/1318519.htm) | Tue Sep 20 2022 10:01 AM 
+- 💼 [“易联购跑路”背后：数百人网购iPhone惨被收割 小程序平台该担责吗？](https://www.cnbeta.com/articles/tech/1318547.htm) | Tue Sep 20 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近年来国际象棋界最大丑闻曝光，其中涉及到了人工智能和肛珠。&lt;/strong&gt;上周，世界冠军马格努斯·卡尔森爆冷不敌19岁小将汉斯·尼曼。马格努斯输掉在这场后立即退赛，然后在Twitter上挂出穆里尼奥的名场面：比赛水很深，如果我说了，我就有大麻烦。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“人在国外，钱也洗干净了。”新款iPhone刚上市，上周，通过微信小程序“易联购”购买iphone的人们却发现，易联购涉嫌欺诈被封禁，钱也拿不回来，更有网传图片“虾仁猪心”，嚣张地嘲讽道：“这是给你们的一个小教训哦，以后也不要当黄牛了哦”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel处理器新命名法现身Alder Lake-N系列启动日志](https://www.cnbeta.com/articles/tech/1318517.htm) | Tue Sep 20 2022 9:55 AM 
+- 💂 [旺季即将到来？8月多家快递公司营收和单票价格增速超20%](https://www.cnbeta.com/articles/tech/1318545.htm) | Tue Sep 20 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel日前宣布，2023年的笔记本处理器产品线将取消奔腾、赛扬品牌，代之以新的“Intel Processor”&lpar;Intel处理器&rpar;。很快，后奔腾/赛扬时代的第一款产品就曝光了。在一份启动日志中，出现了Intel Alder Lake-N系列处理器的命名信息：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月快递公司营收与单票收入同比保持稳定增速，开始进入下半年双11、双12旺季准备期。截至9月19日晚间，4家A股快递公司顺丰控股（002352.SZ）、圆通速递（600233.SH）、申通快递（002468.SZ）、韵达股份（002120.SZ）陆续公布完8月快递服务主要经营数据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Mod制作大佬正在开发虚幻引擎通用VR移植工具](https://hot.cnbeta.com/articles/game/1318515.htm) | Tue Sep 20 2022 9:52 AM 
+- 🚀 [被恒大前副总裁吐槽的小米 从36跌到10港元发生了什么？](https://www.cnbeta.com/articles/tech/1318543.htm) | Tue Sep 20 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据 Mixed News 报道，目前有一个正在进行中的名为“Universal Mod”的 VR Mod项目，并于近日推出了最新更新，可以将数百款游戏移植至虚拟现实设备。该项目已经开发了一段时间，旨在为虚幻引擎制作的游戏制作一个通用的 VR 模组。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月15日，前恒大副总裁陈朝华在微博发文吐槽：“打从买了小米股票，我的财务越来越不自由。”小米集团（01810.HK）股价从36港元跌到10港元，较最高点跌超70%，智能手机销售低于市场预期，陷入了负增长的困局，宏观方面则有海外央行加息压制科技股股价，是小米股价不尽人意的主要原因。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究：YouTube的反馈按钮几乎没有起到阻止类似推荐的作用](https://www.cnbeta.com/articles/tech/1318513.htm) | Tue Sep 20 2022 9:39 AM 
+- 🎊 [苹果新机发售4天后：黄牛赔本出售、灵动岛不灵动、发热死机容易划伤……](https://www.cnbeta.com/articles/tech/1318541.htm) | Tue Sep 20 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Mozilla的一项新研究发现，即使用户告诉YouTube他们对某些类型的视频不感兴趣，类似的推荐仍会不断出现。&lt;/strong&gt;Mozilla研究人员通过利用来自2万多名YouTube用户的视频推荐数据发现“不感兴趣”、“不喜欢”、“停止推荐频道”和“从观看历史中删除”等按钮在防止类似内容被推荐方面基本上不起作用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天距离iPhone 14系列手机正式发布已过去四天，但令人意外的是，相比以往新iPhone发售后的热闹场景，今年iPhone 14发售后却引发了一系列争议问题。这些问题包括破发、“灵动岛”不那么“灵动”以及手机易产生划痕和Bug等方面，引发了大量网友关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
