@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Python 操作 SQLite 异常](https://www.v2ex.com/t/881675#reply9) | Tue Sep 20 2022 12:24 PM
+- 🥸 [Python 操作 SQLite 异常](https://www.v2ex.com/t/881675#reply16) | Tue Sep 20 2022 12:24 PM
 - 🤗 [Android 13 如何抓包和改包](https://www.v2ex.com/t/881671#reply9) | Tue Sep 20 2022 11:48 AM
 - 🎭 [求个 html 写法](https://www.v2ex.com/t/881664#reply2) | Tue Sep 20 2022 10:38 AM
 - 🥷 [TCP 发出指令，硬件声音提示器，家里 DIY 用，有现成的不？](https://www.v2ex.com/t/881661#reply20) | Tue Sep 20 2022 10:17 AM
