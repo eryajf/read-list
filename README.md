@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [SQLPro for MySQL 2022.70 MySQL管理工具](https://xclient.info/s/sqlpro-for-mysql.html) | Mon Sep 19 2022 12:40 AM 
+- 🦏 [Scrutiny 12.4.4 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Tue Sep 20 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-    SQLPro for MySQL是一款Mac平台的专业mysql数据库管理软件，SQLPro for MySQL Mac版是一个轻量级但强大的MySQL数据库客户端,允许快速和简单的访问MySQL服务器,包括那些驻留在Amazon RDS，这个SQL客户端只是为MySQL和不会使用该软件或PostgresSQL等其他数据库服务器。 
+    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
     </details> 
 
--  [SQLPro for MSSQL 2022.70 优秀的MSSQL数据库客户端](https://xclient.info/s/sqlpro-for-mssql.html) | Mon Sep 19 2022 12:39 AM 
+-  [Soulver 3.6.1 多功能计算器](https://xclient.info/s/soulver.html) | Tue Sep 20 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    SQLPro for MSSQL 是一款Mac上优秀的MSSQL数据库客户端，简单易用，支持存储过程调用和所有的MSSQL版本 
+    Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
     </details> 
 
-- ⚗️ [Omni Recover 3.4.2 iPhone数据恢复软件](https://xclient.info/s/omni-recover.html) | Mon Sep 19 2022 12:37 AM 
+- ⚗️ [AYVY 1.19.0 图片查看工具](https://xclient.info/s/ayvy.html) | Tue Sep 20 2022 12:40 AM 
     <details><summary>展开描述 ...</summary> 
-    Omni Recover是一款恢复iPhone数据恢复最好的软件。它可以与您所有的苹果设备，iOS和iTunes版本无缝地配合使用。 
+    AYVY是Mac电脑上的一款简单快速的图片查看工具，它可以满足您的所有需求。 
     </details> 
 
-- 🔥 [SyncBird Pro 3.8.5 iOS内容管理软件](https://xclient.info/s/syncbird-pro.html) | Mon Sep 19 2022 12:36 AM 
+- 🔥 [GraphicConverter 11.6.3&lpar;5602&rpar; 图片编辑浏览工具](https://xclient.info/s/graphicconverter.html) | Tue Sep 20 2022 12:36 AM 
     <details><summary>展开描述 ...</summary> 
-    SyncBird Pro是一款运行在Mac平台上的iOS内容管理软件，你可以使用SyncBird Mac版在iPhone、iPad和Mac之间转移音乐、照片、视频、书籍等内容，SyncBird Mac版还支持转换格式、双向同步、导入等实用的功能。 
+    GraphicConverter是一款Mac上的多功能图片处理工具，除了支持激活所有的图片格式的批量转换外，还支持类似ACDSee的图片浏览界面，并且具有强大易用的图片编辑、元数据编辑、美轮美奂幻灯片显示功能等等，具备了其他多款软件才具有的功能，非常的强大。 
     </details> 
 
-- 🌋 [Downcast 2.11.14 Podcast订阅工具](https://xclient.info/s/downcast.html) | Mon Sep 19 2022 12:33 AM 
+- 🌋 [Wondershare Filmora X 11.7.0.22 优秀的视频编辑工具](https://xclient.info/s/filmora.html) | Tue Sep 20 2022 12:29 AM 
     <details><summary>展开描述 ...</summary> 
-    Downcast 可以下载、 播放和同步你最喜欢的播客。 
+    Wondershare Filmora是一款由Wondershare出品的优秀的视频编辑工具，简单易用。 
     </details> 
 <!-- xclient:END -->
 
