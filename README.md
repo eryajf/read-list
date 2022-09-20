@@ -590,29 +590,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2022 年 9 月每日分享](https://iui.su/3838/) | Mon Sep 19 2022 6:46 AM 
+- 🌊 [磁力搜索网站](https://iui.su/908/) | Tue Sep 20 2022 2:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    不死鸟&lpar;iui.su&rpar;不提供磁力资源搜索服务，本页仅做导航索引用途！搜饭吃粥今麦郎麦当劳必胜客肯德基赛百味海底捞汉堡王真功夫星巴克德克士最多关注赚零花钱免费影视免费离线离线神器资源搜索引擎快速投... 
+    </details> 
+
+- 🫣 [2022 年 9 月每日分享](https://iui.su/3838/) | Mon Sep 19 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月19日IPTV播放器免... 
     </details> 
 
-- 🫣 [土豆录屏 – 支持多显示器](https://iui.su/3596/) | Mon Sep 19 2022 6:32 AM 
+- 🌜 [土豆录屏 – 支持多显示器](https://iui.su/3596/) | Mon Sep 19 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
     土豆录屏是一款简单易用，不限制时长、无水印，支持多显示器的免费 Windows 录屏工具。来自：Appinn小众软件界面比较简单，也比较傻瓜化，没有太多复杂功能，适合只需要录屏而不是更多进阶功能... 
     </details> 
 
-- 🌜 [Clearly Reader纯净阅读](https://iui.su/3333/) | Fri Sep 16 2022 8:24 AM 
+- 🏊 [Clearly Reader纯净阅读](https://iui.su/3333/) | Fri Sep 16 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
     每天我们需要花很多时间来阅读文章。Clearly Reader阅读器扩展。让你可以专注在阅读上，免受广告、浮层的打扰。只需要点一下扩展logo，即可享受纯净阅读。为了优化阅读体验，Clearly... 
     </details> 
 
-- 🏊 [手机试玩赚钱平台](https://iui.su/3221/) | Fri Sep 16 2022 7:32 AM 
+- 🚦 [手机试玩赚钱平台](https://iui.su/3221/) | Fri Sep 16 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
     网赚套路多，手机试玩属于无套路网赚，简单直接。如果想要通过这些平台赚大钱，需要有较多的设备才能做到。为什么下载试玩app能拿钱？app需要上升排名，平台收到厂商付款，通过任务的形式让大量用户同时... 
-    </details> 
-
-- 🚦 [麦克房子-苹果Mac软件精品下载网站](https://iui.su/3839/) | Tue Sep 13 2022 12:19 PM 
-    <details><summary>展开描述 ...</summary> 
-    「麦克房子」macfz 是一个 mac软件「免费」精品下载站，网站无套路、无广告、永久免费下载。资源分享方式为百度网盘 + 蓝奏网盘 +天翼云盘 ，简单就可以「高速」下载 mac 各类软件。网站... 
     </details> 
 <!-- iui:END -->
 
