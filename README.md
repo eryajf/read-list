@@ -590,19 +590,19 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [免费1年.gay域名](https://iui.su/3794/) | Tue Sep 20 2022 5:41 AM 
+- 🌊 [2022 年 9 月每日分享](https://iui.su/3838/) | Tue Sep 20 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-    严禁将 .gay 用于诽谤或伤害同性恋个人或团体，这可能会导致域名立即失效。被禁止的行为包括不限于骚扰、威胁和仇恨言论。 Porkbun.gay 1年免费活动链接通过活动链接可免费购买1年.ga... 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月20日.gay域名一年... 
     </details> 
 
-- 🫣 [磁力搜索网站](https://iui.su/908/) | Tue Sep 20 2022 2:51 AM 
+- 🫣 [免费1年域名](https://iui.su/3794/) | Tue Sep 20 2022 5:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    Porkbun.ink 或 .wiki 域名 免费一年域名。https://porkbun.com/event/freeinkwikidomain优惠码：FREEINKWIKI在付款时，点击AP... 
+    </details> 
+
+- 🌜 [磁力搜索网站](https://iui.su/908/) | Tue Sep 20 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
     不死鸟&lpar;iui.su&rpar;不提供磁力资源搜索服务，本页仅做导航索引用途！搜饭吃粥今麦郎麦当劳必胜客肯德基赛百味海底捞汉堡王真功夫星巴克德克士最多关注赚零花钱免费影视免费离线离线神器资源搜索引擎快速投... 
-    </details> 
-
-- 🌜 [2022 年 9 月每日分享](https://iui.su/3838/) | Mon Sep 19 2022 6:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月19日IPTV播放器免... 
     </details> 
 
 - 🏊 [土豆录屏 – 支持多显示器](https://iui.su/3596/) | Mon Sep 19 2022 6:32 AM 
