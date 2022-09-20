@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Github CICD自动化部署实践](https://juejin.cn/post/7145335762890784799) | Tue Sep 20 2022 5:52 AM 
+- 🤗 [Tauri vs Electron：真实项目的比较](https://juejin.cn/post/7145352738585444383) | Tue Sep 20 2022 6:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    在本文中，我将使用真实世界的应用程序来比较 Electron 和 Tauri：Authme。 Authme 是一个简单的跨平台双因素身份验证器应用程序，适用于桌面。它不是一个大应用程序，也不是很复杂， 
+    </details> 
+
+- 🎡 [Docker安装Mariadb踩坑](https://juejin.cn/post/7145351253130739725) | Tue Sep 20 2022 6:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    使用docker安装Mariadb过程中出现了很多问题，这里汇总下 一、使用docker-compose启动 1、数据库配置文件 新建mysql/my.cnf文件，作为mysql的配置文件 2、Doc 
+    </details> 
+
+- 🕯 [简单手写实现React类组件的state批量更新](https://juejin.cn/post/7145349880842551326) | Tue Sep 20 2022 6:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    每一个类组件绑定一个Updater实例，专门处理state的逻辑 增加pendingStates 增加updateQueue 处理事件逻辑，切片事件函数，执行前增加flag的开始，执行后更新状态和重置 
+    </details> 
+
+- 🚀 [698. 划分为k个相等的子集 :「搜索 + 剪枝」&amp;「模拟退火」](https://juejin.cn/post/7145347717294719012) | Tue Sep 20 2022 6:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    我报名参加金石计划一期挑战——瓜分10万奖池，这是我的第18篇文章，点击查看活动详情 题目描述 这是 LeetCode 上的 698. 划分为k个相等的子集 ，难度为 中等。 Tag : 「搜索」、「 
+    </details> 
+
+- 💪 [Github CICD自动化部署实践](https://juejin.cn/post/7145335762890784799) | Tue Sep 20 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
     一、什么是CICD 翻译过来就是持续构建、持续部署，在软件工程中，一个项目的迭代往往是很频繁的，每次都要重新部署，就成了一件很繁琐的事情，那么如何保证项目能够持续的构建和部署呢？ 我们先来看一个软件的 
-    </details> 
-
-- 🎡 [QA如何高效参与技术设计评审](https://juejin.cn/post/7145334048917979173) | Tue Sep 20 2022 5:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    随着QA进行全流程的质量把控逐步成为趋势，QA在项目中的关注点不仅仅停留在测试阶段，本文将主要介绍在技术设计评审阶段，QA可以从哪些地方入手，做到真正有效的参与其中，并发挥作用。 
-    </details> 
-
-- 🕯 [Tomcat监控指标判断应用&quot;死了&quot;吗](https://juejin.cn/post/7145326778226049060) | Tue Sep 20 2022 5:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第7篇文章，点击查看活动详情” theme: cyanosis 概述 最近公司项目操作十分卡顿，一直以为是数据量的问题，因为公司项目是to B项 
-    </details> 
-
-- 🚀 [关于 MVI，我想聊的更明白些](https://juejin.cn/post/7145317979708735496) | Tue Sep 20 2022 4:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    响应式编程便于测试，但存在漏洞，MVI 旨在消除响应式编程漏洞，但繁琐易出错。本文介绍 MVI 来龙去脉，追溯问题的源头并探索平替方案。 
-    </details> 
-
-- 💪 [【kafka原理】Kafka生产者 &lpar;分区策略和ACK应答机制&rpar;](https://juejin.cn/post/7145318330088292360) | Tue Sep 20 2022 4:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    分区策略 分区原因 方便再集群中扩展,每个Partition可以通过调整以适应它所在的机器,而一个topic又 
     </details> 
 <!-- juejin:END -->
 ### 少数派
