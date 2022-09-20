@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TS 类型兼容](https://juejin.cn/post/7145303675441774605) | Tue Sep 20 2022 3:47 AM 
+- 🤗 [Github CICD自动化部署实践](https://juejin.cn/post/7145335762890784799) | Tue Sep 20 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
-    类型兼容 因为JS语言不慎过于领过， 真实开发场景中往往无法做到严格一致的类型约束，此时TS就不得不做类型兼容 
+    一、什么是CICD 翻译过来就是持续构建、持续部署，在软件工程中，一个项目的迭代往往是很频繁的，每次都要重新部署，就成了一件很繁琐的事情，那么如何保证项目能够持续的构建和部署呢？ 我们先来看一个软件的 
     </details> 
 
-- 🎡 [羊了个羊 | &quot;辅助&quot; 浅谈](https://juejin.cn/post/7145303410613420046) | Tue Sep 20 2022 3:47 AM 
+- 🎡 [QA如何高效参与技术设计评审](https://juejin.cn/post/7145334048917979173) | Tue Sep 20 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-    最近这个 &quot;割韭菜&quot; 的小游戏突然爆火，各种占热手，收割的不是钱财，是玩家 宝贵的注意力&lpar;时间&rpar;。把你的阳寿，转换为他们的广告收入，那种还转发到各种群聊的童鞋，真·被人卖了还帮人数钱~ 
+    随着QA进行全流程的质量把控逐步成为趋势，QA在项目中的关注点不仅仅停留在测试阶段，本文将主要介绍在技术设计评审阶段，QA可以从哪些地方入手，做到真正有效的参与其中，并发挥作用。 
     </details> 
 
-- 🕯 [MobTech 秒验审核流程指南](https://juejin.cn/post/7145299160575508494) | Tue Sep 20 2022 3:30 AM 
+- 🕯 [Tomcat监控指标判断应用&quot;死了&quot;吗](https://juejin.cn/post/7145326778226049060) | Tue Sep 20 2022 5:17 AM 
     <details><summary>展开描述 ...</summary> 
-    秒验是一款帮助开发者实现一键验证功能的产品，从根源上降低企业验证成本， 有效提高拉新转化率，降低因验证带来的流失率，3秒完成手机号验证 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第7篇文章，点击查看活动详情” theme: cyanosis 概述 最近公司项目操作十分卡顿，一直以为是数据量的问题，因为公司项目是to B项 
     </details> 
 
-- 🚀 [TiFlash 源码阅读（九）TiFlash 中常用算子的设计与实现](https://juejin.cn/post/7145299016190787598) | Tue Sep 20 2022 3:29 AM 
+- 🚀 [关于 MVI，我想聊的更明白些](https://juejin.cn/post/7145317979708735496) | Tue Sep 20 2022 4:45 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍了数据库系统中常用的算子 Join 和 Aggregation 在 TiFlash 中的执行情况，包括查询计划生成、编译阶段与执行阶段，以期望读者对 TiFlash 的算子有初步的了解。  
+    响应式编程便于测试，但存在漏洞，MVI 旨在消除响应式编程漏洞，但繁琐易出错。本文介绍 MVI 来龙去脉，追溯问题的源头并探索平替方案。 
     </details> 
 
-- 💪 [RocketMQ Push 消费模型](https://juejin.cn/post/7145297819241283598) | Tue Sep 20 2022 3:25 AM 
+- 💪 [【kafka原理】Kafka生产者 &lpar;分区策略和ACK应答机制&rpar;](https://juejin.cn/post/7145318330088292360) | Tue Sep 20 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
-    从实现机制上来看，push 本质上并不是在建立双向通道的前提下，由 Server 主动推送给 Client 的，而是由 Client 端触发 pullRequest 请求，以长轮询的方式“伪装”的结果 
+    分区策略 分区原因 方便再集群中扩展,每个Partition可以通过调整以适应它所在的机器,而一个topic又 
     </details> 
 <!-- juejin:END -->
 ### 少数派
