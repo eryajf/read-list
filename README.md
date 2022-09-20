@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [干货分享｜使用 Istio 实现灰度发布](https://juejin.cn/post/7145390895813099534) | Tue Sep 20 2022 9:26 AM 
+- 🤗 [vuejs中三级Tab切换并刷新页面时保持当前激活状态,使用query或params结合本地存储实现](https://juejin.cn/post/7145437722042171422) | Tue Sep 20 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-    Kubernetes 作为基础平台，提供了强大的容器编排能力。但是在其上部署业务和服务治理上，仍然会面对一些复杂性和局限性。在服务治理上，已经有许多成熟的 ServiceMesh 框架用于扩充其能力， 
+    前言 我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第2篇文章 之前有介绍过vuejs中的路由的传参及路由的props配置,对于如何配置一级路由,二级路由,对于很多同学来说,基本上没什么难度  
     </details> 
 
-- 🎡 [利用 Kubernetes 内置 PodTemplate 管理 Jenkins 构建节点](https://juejin.cn/post/7145388752838328357) | Tue Sep 20 2022 9:18 AM 
+- 🎡 [新来个技术总监，把限流实现的那叫一个优雅，佩服！](https://juejin.cn/post/7145435951899574302) | Tue Sep 20 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-    &gt; 作者：Rick Jenkins 可以很好地与 Kubernetes 集成，不管是控制器（controller）还是构建节点（agent），都能以 Pod 的形式运行在 Kubernetes 上 
+    在电商高并发场景下，我们经常会使用一些常用方法，去应对流量高峰，比如限流、熔断、降级，今天我们聊聊限流。 
     </details> 
 
-- 🕯 [Nestjs 实战系列（二）—— TypeORM](https://juejin.cn/post/7145388846975303716) | Tue Sep 20 2022 9:18 AM 
+- 🕯 [深入了解 SSL/TLS是如何让 HTTP 传输变得安全可靠的](https://juejin.cn/post/7145433438953144356) | Tue Sep 20 2022 12:11 PM 
     <details><summary>展开描述 ...</summary> 
-    TypeORM 是一个ORM框架，它可以运行在 NodeJS、Browser、Cordova、PhoneGap、Ionic、React Native、Expo 和 Electron 平台 
+    在上一节中，我介绍了互联网最重要的 HTTP 协议。可是随着互联网的发展，你会发现HTTP 越来越无法满足复杂的需求，比如数据加密传输的安全性需求，再比如服务器消息即时推送的交互模式的需求，而这些不适 
     </details> 
 
-- 🚀 [「NIO源码」JavaNIO源码 &amp; JNI分析一：linux API介绍](https://juejin.cn/post/7145385542678413325) | Tue Sep 20 2022 9:05 AM 
+- 🚀 [Sentry 是如何做到自动捕获前端应用异常的呢 ？](https://juejin.cn/post/7145420611639050271) | Tue Sep 20 2022 11:21 AM 
     <details><summary>展开描述 ...</summary> 
-    Linux网络编程 查阅资料的时候，发现wiki百科讲的已经十分好了，我先贴下原文Berkeley套接字，相当完美的描述了Socket相关Api介绍及demo演示。 
+    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 自从知道了 Sentry、Fundbug 可用于异常监控之后，小编就一直对它们能自动捕获前端异常的机制非常感 
     </details> 
 
-- 💪 [使用Canvas快速实现手势解锁特效，你get到了吗？](https://juejin.cn/post/7145348261711183909) | Tue Sep 20 2022 6:41 AM 
+- 💪 [那些你不知道的炫酷按钮交互效果](https://juejin.cn/post/7145418534368051230) | Tue Sep 20 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。使用Canvas快速实现手势解锁，之前在开发星座运势的时候遇到一个活动项目需求，要让用户使用手势画星位图来解锁星座运势。 
+    好的前端页面在实现设计图的同时，如果也有极强的与用户交互效果，那么给用户带来的体验是极好的。近期整理了一组相对炫酷前端按钮交互动画，今天分享给大家 
     </details> 
 <!-- juejin:END -->
 ### 少数派
