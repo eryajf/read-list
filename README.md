@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新研究揭示了糖尿病与尿路感染之间的联系](https://www.cnbeta.com/articles/science/1318495.htm) | Tue Sep 20 2022 9:21 AM 
+- 🕯 [OpenAI的图像生成器DALL-E现在可以编辑人脸了](https://www.cnbeta.com/articles/tech/1318521.htm) | Tue Sep 20 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;1型和2型糖尿病都被发现跟免疫力下降和反复感染有关。&lt;/strong&gt;瑞典卡罗林斯卡学院的科学家们发现，糖尿病患者的免疫系统中抗菌肽银屑病素的水平较低。这损害了膀胱的细胞屏障，增加了尿路感染的风险。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;OpenAI现在允许其人工智能艺术生成程序DALL-E的用户编辑带有人脸的图像。由于担心被滥用，这项功能以前是禁止使用的，但是，在发给DALL-E的100多万用户的一封信中，OpenAI说，在改进过滤器以去除含有&amp;quot;性、政治和暴力内容&amp;quot;的图像之后，他们开放了访问权限。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NVIDIA RTX 4090显卡曝光：三槽位双风扇设计](https://www.cnbeta.com/articles/tech/1318493.htm) | Tue Sep 20 2022 9:18 AM 
+- 💼 [国际象棋比赛疑用智能肛珠作弊](https://www.cnbeta.com/articles/tech/1318519.htm) | Tue Sep 20 2022 10:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA 将会在今天晚些时候宣布 RTX 4090 旗舰显卡。在发布会正式开始之前，&lt;strong&gt;国外科技媒体 VideoCardz 分享了 RTX 4090 Founders Edition 的照片，该显卡将占用 3 个 PCIe 卡槽，采用双风扇设计，和 RTX 3090 Ti 非常类似。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近年来国际象棋界最大丑闻曝光，其中涉及到了人工智能和肛珠。&lt;/strong&gt;上周，世界冠军马格努斯·卡尔森爆冷不敌19岁小将汉斯·尼曼。马格努斯输掉在这场后立即退赛，然后在Twitter上挂出穆里尼奥的名场面：比赛水很深，如果我说了，我就有大麻烦。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英国将修改《在线安全法案》对成年人“合法但有害”内容的限制](https://www.cnbeta.com/articles/tech/1318491.htm) | Tue Sep 20 2022 9:15 AM 
+- 💂 [Intel处理器新命名法现身Alder Lake-N系列启动日志](https://www.cnbeta.com/articles/tech/1318517.htm) | Tue Sep 20 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据TechCrunch报道，英国的《在线安全法案》草案即将被修改，该立法草案在对言论自由的影响方面继续引起争议。&lt;strong&gt;《在线安全法案》草案已经酝酿多年，但新任首相利兹·特拉斯本月早些时候表示，她希望进行&amp;quot;调整&amp;quot;，以确保其不损害言论自由。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel日前宣布，2023年的笔记本处理器产品线将取消奔腾、赛扬品牌，代之以新的“Intel Processor”&lpar;Intel处理器&rpar;。很快，后奔腾/赛扬时代的第一款产品就曝光了。在一份启动日志中，出现了Intel Alder Lake-N系列处理器的命名信息：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软：请警惕近期的大规模点击诈骗活动](https://www.cnbeta.com/articles/tech/1318489.htm) | Tue Sep 20 2022 9:10 AM 
+- 🚀 [Mod制作大佬正在开发虚幻引擎通用VR移植工具](https://hot.cnbeta.com/articles/game/1318515.htm) | Tue Sep 20 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;微软近日发出警告，希望大众警惕黑客团体 DEV-0796 近期发起的大规模点击诈骗行为。&lt;/strong&gt;微软表示，攻击者可以在用户不知情的情况下通过浏览器节点 webkit 或安装在设备上的恶意浏览器扩展程序产生的点击获利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据 Mixed News 报道，目前有一个正在进行中的名为“Universal Mod”的 VR Mod项目，并于近日推出了最新更新，可以将数百款游戏移植至虚拟现实设备。该项目已经开发了一段时间，旨在为虚幻引擎制作的游戏制作一个通用的 VR 模组。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [以太坊禁止显卡挖矿引连锁反应：二手市场流入大量矿卡](https://www.cnbeta.com/articles/tech/1318487.htm) | Tue Sep 20 2022 9:10 AM 
+- 🎊 [研究：YouTube的反馈按钮几乎没有起到阻止类似推荐的作用](https://www.cnbeta.com/articles/tech/1318513.htm) | Tue Sep 20 2022 9:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;自本月15日，以太坊禁止显卡挖矿以来，显卡市场中流入了大量曾用于挖矿的二手显卡。&lt;/strong&gt;由于我国早已明令禁止挖矿，并且“矿难”也早就到来过了，所以二手市场表现尚不明显（一直就有很多二手显卡）。反观咱们隔壁韩国，其二手交易社区中涌现出了众多“RTX3070”“RTX3080”等带有“mined used”标签的矿卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Mozilla的一项新研究发现，即使用户告诉YouTube他们对某些类型的视频不感兴趣，类似的推荐仍会不断出现。&lt;/strong&gt;Mozilla研究人员通过利用来自2万多名YouTube用户的视频推荐数据发现“不感兴趣”、“不喜欢”、“停止推荐频道”和“从观看历史中删除”等按钮在防止类似内容被推荐方面基本上不起作用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
