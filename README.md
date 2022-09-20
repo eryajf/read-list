@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 三分之一企业未加密云端敏感数据；美驻华使领馆过度采集中方雇员信息](https://www.freebuf.com/news/344893.html) | Mon Sep 19 2022 10:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    报告揭示，36%的企业在其云端资产中混有未加密的敏感数据，如公司秘密和个人身份信息等。 
+    </details> 
+
 - 🦄 [碰撞测试作弊假？黑客曝光特斯拉使用“特殊代码”](https://www.freebuf.com/news/344842.html) | Mon Sep 19 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     黑客称，特斯拉一直在添加涉及碰撞测试机构的代码，包括刚刚测试过 Model Y 的 ANCAP 和 EuroNCAP。 
     </details> 
 
-- 🦄 [“泄露”的咖啡！黑客出售近22万名新加坡星巴克顾客数据](https://www.freebuf.com/news/344836.html) | Mon Sep 19 2022 3:11 AM 
+- 🦅 [“泄露”的咖啡！黑客出售近22万名新加坡星巴克顾客数据](https://www.freebuf.com/news/344836.html) | Mon Sep 19 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     该事件可能泄露了顾客姓名、性别、出生日期、手机号码、电子邮件地址、住宅地址等个人敏感信息。 
     </details> 
 
-- 🦅 [公有云攻防系列——云服务利用篇](https://www.freebuf.com/articles/blockchain-articles/344831.html) | Mon Sep 19 2022 2:22 AM 
+- 🪄 [公有云攻防系列——云服务利用篇](https://www.freebuf.com/articles/blockchain-articles/344831.html) | Mon Sep 19 2022 2:22 AM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了一些公有云厂商提供的云服务相关的漏洞和相关的攻击技术，说明了云服务在提供便利的同时也可能带来难以预料的风险。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 美成立专门机构打击加密货币犯罪；洲际酒店遭黑客破坏性攻击](https://www.freebuf.com/articles/344823.html) | Mon Sep 19 2022 12:06 AM 
+- 💻 [FreeBuf早报 | 美成立专门机构打击加密货币犯罪；洲际酒店遭黑客破坏性攻击](https://www.freebuf.com/articles/344823.html) | Mon Sep 19 2022 12:06 AM 
     <details><summary>展开描述 ...</summary> 
     美国司法部组建了数字资产协调人网络&lpar;Digital Asset Coordinators Network&rpar;专门打击加密货币犯罪。 
-    </details> 
-
-- 💻 [FreeBuf周报 | 《网络安全法》将迎来修改；乌克兰网络攻击瘫痪俄罗斯2400个网站](https://www.freebuf.com/news/344710.html) | Fri Sep 16 2022 7:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 <!-- freebuf:END -->
 
