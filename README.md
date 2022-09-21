@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国行PS5新宣传片公开](https://hot.cnbeta.com/articles/game/1318899.htm) | Wed Sep 21 2022 6:05 AM 
+- 🕯 [大约 230 头领航鲸在澳大利亚塔斯马尼亚岛西海岸搁浅](https://www.cnbeta.com/articles/tech/1318959.htm) | Wed Sep 21 2022 7:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，PlayStation中国国行PS5新宣传片公开，我们一起来看看吧。&lt;strong&gt;官方介绍如下：&lt;/strong&gt;游戏带给人们的不只是休闲娱乐，它带领我们感受不同的故事、体会各种情感、探索无数世界。在游戏世界里，有故事、有奇想、有感动、有启发……作为PlayStation玩家，我们相信：我们玩的，不只是游戏，更是美好的人生经历&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;大约 230 头领航鲸在澳大利亚塔斯马尼亚岛西海岸搁浅。&lt;/strong&gt;塔斯马尼亚自然资源和环境部提供的一份声明表示，只有一半的领航鲸存活下来。公园和野生动物管理局在其 Facebook 页面，分享了数十条搁浅的领航鲸在麦格理港地区的沙滩上的航拍照片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Strategy Analytics：AirPods市场份额正在缩小 大众更加青睐便宜耳机](https://www.cnbeta.com/articles/tech/1318897.htm) | Wed Sep 21 2022 5:59 AM 
+- 💼 [FloppyDisk.com创始人：航空公司仍是软盘消费的大客户](https://hot.cnbeta.com/articles/funny/1318957.htm) | Wed Sep 21 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月21日消息，据市场研究机构Strategy Analytics最新发布的报告预测，蓝牙TWS耳机将在2022年和2023年增长。&lt;strong&gt;其中苹果AirPods系列将会继续领先，不过其市场份额正在不断缩小，更多的人开始转向购买便宜的耳机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为上世纪 80 - 90 年代流行的古老存储设备，软盘和软驱早已淡出了普通计算机用户的视野。&lt;strong&gt;然而 floppydisk.com 创始人 Tom Persky 却指出，软盘并未变得“一无是处”或“彻底灭绝”。&lt;/strong&gt;据悉，Persky 有定期维修、回收、并将软盘出售给仍依赖于这项旧技术的客户。甚至其网站的样式风格，也还停留在 1990 - 2000 年代初期。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1318957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [或35万起售 本田思域TYPE R白车身现身国内：大红色座椅吸睛](https://www.cnbeta.com/articles/tech/1318895.htm) | Wed Sep 21 2022 5:57 AM 
+- 💂 [Nikola三名高管曾以辞职胁迫创始人下台](https://www.cnbeta.com/articles/tech/1318955.htm) | Wed Sep 21 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，网络上流出了一组&lt;strong&gt;全新本田思域TYPE R&lt;/strong&gt;白车身图片。据此前曝光的信息来看，新车将于12月以CKD（即车辆零部件进口到国内，再由东风本田组装成整车）的形式引入国内市场销售，而本次白车身的曝光则验证了之前的传言。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一份针对Nikola公司的联邦欺诈案的文件显示，该公司三名高管曾在2020年威胁称&lt;strong&gt;，如果公司创始人Trevor Milton不辞去执行董事长的职务，他们就将辞职。&lt;/strong&gt;9月19日提交给法官的一封信显示，Nikola现任首席执行官Mark Russell准备作证，他和公司首席财务官以及总法律顾问此前认为，Milton关于公司进展的承诺非常危险，&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《羊了个羊》爆红，一大波侵权周边商品火速开卖，开发商无奈](https://hot.cnbeta.com/articles/game/1318893.htm) | Wed Sep 21 2022 5:55 AM 
+- 🚀 [极氪新车被曝越修问题越多 车主：修车还要签保密协议](https://www.cnbeta.com/articles/tech/1318953.htm) | Wed Sep 21 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;除了给哀悼女王去世的英国加班缝国旗，当前义乌的工厂还在忙另一件事：给人气小游戏《羊了个羊》出周边。最近，不只是游戏本身，&lt;strong&gt;《羊了个羊》钥匙扣等周边也成为网络爆款，不少玩家已经开始在抖音等平台上晒出实物，激发了更多网友的购买欲望。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318893.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去修车要先签一个“保密协议”，而且车越修问题越多，如此令人无语的事，就发生在了极氪车主曹先生身上。9月21日消息，据@新车场 报道，极氪车主曹先生近日反映自己7月份提的新车，&lt;strong&gt;提车后车子出现前轴异响、方向盘抖动等问题，随后送去检修，结果前轴没修好，刹车也修得异响。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [百度“十大科技前沿发明”发布  王海峰：要把发展主动权掌握在自己手里](https://www.cnbeta.com/articles/tech/1318891.htm) | Wed Sep 21 2022 5:53 AM 
+- 🎊 [2022了，你应该选择哪个作为你的DNS服务器？](https://www.cnbeta.com/articles/tech/1318951.htm) | Wed Sep 21 2022 7:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月21日消息，百度发布“2022十大科技前沿发明”。&lt;strong&gt;百度CTO王海峰表示，百度一方面要在科技前沿领域加紧创新和探索，攻关核心关键技术，把发展主动权掌握在自己手里；另一方面，将创新成果与产业融合，促进产业发展，助力高水平科技自立自强。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318891.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;选择最优秀的 DNS 服务器，不仅为你提供安全的上网环境，而且还能加速你的网速。目前互联网上提供了大量匿名、公共、免费的 DNS 服务器，因此挑选适合自己的最佳选项可能并不简单。国外科技媒体 BGR 分享了一些主流的 DNS 服务器并提供了一些选择技巧。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
