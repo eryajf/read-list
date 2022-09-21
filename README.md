@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉为测试Autopilot和FSD 利用虚幻引擎模拟了一个旧金山](https://www.cnbeta.com/articles/tech/1319009.htm) | Wed Sep 21 2022 9:20 AM 
+- 🕯 [大宇与Sandbox合作 《仙剑》《大富翁》进驻元宇宙](https://hot.cnbeta.com/articles/game/1319027.htm) | Wed Sep 21 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;特斯拉为了测试 Autopilot 和 Full Self-Driving 系统，利用虚幻引擎模拟了一个旧金山。&lt;/strong&gt;特斯拉在向车主推送任意系统更新之前，都需要经过多个测试步骤。首先是特斯拉员工在封闭航道的和公共道路上进行内部测试，但在此之前，特斯拉都会在模拟环境进行测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日大宇资讯宣布与Sandbox合作，《仙剑奇侠传》和《大富翁》进驻元宇宙。大宇购买虚拟土地以打造“Softstar Meta Park”，将经典和未来的故事都导入Web 3.0生态系统。Sandbox玩家将获得东方幻想的仙侠体验，《仙剑奇侠传》李逍遥、赵灵儿、林月如，以及《大富翁》孙小美、金贝贝等都将陪伴粉丝进行冒险。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [易联购跑路始末：一场从一开始就设计好的“骗局”](https://www.cnbeta.com/articles/tech/1319007.htm) | Wed Sep 21 2022 9:14 AM 
+- 💼 [微软Xbox精英手柄2代青春版 今日国行正式开售](https://hot.cnbeta.com/articles/game/1319025.htm) | Wed Sep 21 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“亲爱的顾客朋友、合作伙伴：再次由衷地感谢你们的支持与陪伴！我们真的跑路了，抱歉了……”9月16日晚，署名为易联购公司发布的两份“跑路”公告在网上流传，虽然公告被证实为虚假信息，但消费者在易联购小程序上购买苹果手机被骗事件仍引发关注，在各大投诉平台和社交平台上相关投诉和“曝光帖”不断增加。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国行Xbox Elite无线控制器2代青春版今日（9月21日）正式发售，建议零售价为999元。Xbox Elite无线控制器2代配件包将于9月28日发售，建议零售价419元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《我的世界》推出主题冰淇淋 四种口味售价10美元](https://hot.cnbeta.com/articles/game/1319005.htm) | Wed Sep 21 2022 9:14 AM 
+- 💂 [Arm被收购吸引力降低 业内人士称三星电子SK海力士不可能收购](https://www.cnbeta.com/articles/tech/1319023.htm) | Wed Sep 21 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《我的世界》联手零食品牌“N!CK&amp;#39;S”推出一款主题冰淇淋，共四种口味，都是基于《我的世界》游戏中的物品或食物，分别是：草莓奶油“蛋糕”、全麦饼干“附魔金苹果”、奶油薄荷“绿宝石”、巧克力花生酱“萤石粉”，并且这款冰淇淋不含糖卡路里较低，使用的也不是通常的圆柱型包装，而是《我的世界》标志性的方形包装。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英伟达2020年9月13日宣布的400亿美元收购Arm的交易，由于在监管方面面临重大挑战，最终以失败告终，英伟达和Arm的拥有者软银集团，在今年2月14日宣布终止收购交易。虽然英伟达已终止收购，但在全球芯片领域影响力巨大的Arm，仍是众多公司收购或投资的目标，英特尔CEO帕特·基辛格此前在接受采访时就曾表示，如果出现一个财团，他们可能非常愿意以某种方式参与其中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [男子用Apple Watch Series 8发现了其母亲身患可能致命的心脏疾病](https://www.cnbeta.com/articles/tech/1319003.htm) | Wed Sep 21 2022 9:12 AM 
+- 🚀 [腾讯新专利获批：人脸识别不再担心出现盗刷](https://www.cnbeta.com/articles/tech/1319021.htm) | Wed Sep 21 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在Apple Watch Series 8到达客户手中的几天内，9to5Mac的读者Jason Smith亲身体验了其健康功能的价值。医学官员认为，Jason的Apple Watch Series 8检测出了他母亲的一种隐形心脏疾病，如果不及早发现则很可能会带来致命的后果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着生物识别技术的发展，人脸识别俨然已经成为了生活中常见的支付识别方法之一，但偶有发生的盗刷等事件，也让一部分用户担心这一技术是否足够安全。近日，&lt;strong&gt;腾讯科技（深圳）有限公司申请的“支付请求处理方法及装置”（申请号：CN202110284735.1）公布&lt;/strong&gt;，该技术为人脸识别提出了一种新的实现方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [外国球迷痛批耐克世界杯球衣：丑爆了](https://www.cnbeta.com/articles/tech/1319001.htm) | Wed Sep 21 2022 9:10 AM 
+- 🎊 [Google应用推出&quot;关于你的结果&quot;页面以帮助删除个人信息](https://www.cnbeta.com/articles/tech/1319019.htm) | Wed Sep 21 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;耐克为新一届世界杯设计的球衣被网友们痛批“丑爆了”。耐克在不久前公布了其为葡萄牙，英格兰，法国，荷兰，尼日利亚等国家设计的主客场球衣。不少球迷表示，耐克公布的这些套装毫无设计感，耐克对这件事毫不上心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在今年5月的I/O 2022大会上，Google宣布了一项新的工具，以简化删除包含你的联系人和其他个人身份信息（PII）的搜索结果的过程，现在它已经开始投入使用。今天，在Android系统上打开Google应用程序，点击右上角的个人资料头像，会看到一个新的&amp;quot;关于你的结果&amp;quot;菜单项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
