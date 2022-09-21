@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TypeScript实用小知识——Nominal Typing（名义类型）](https://juejin.cn/post/7145857833861382181) | Wed Sep 21 2022 3:39 PM 
+- 🤗 [【建议收藏】17个XML布局小技巧](https://juejin.cn/post/7145861715798802462) | Wed Sep 21 2022 3:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    虽然xml没有什么技术难度，但是，这也往往是我们最容易忽略的地方，写xml不难，写出好的xml还是得下点功夫了。 
+    </details> 
+
+- 🎡 [TypeScript实用小知识——Nominal Typing（名义类型）](https://juejin.cn/post/7145857833861382181) | Wed Sep 21 2022 3:39 PM 
     <details><summary>展开描述 ...</summary> 
     字符串联合类型和string求并集的时候，不想丢失类型提示又想具备一定的灵活性应该怎么办？可以通过名义类型，为原始类型string赋予名义，在不影响它使用的情况下，收窄范围，从而达成我们想要的效果。 
     </details> 
 
-- 🎡 [人脸关键点的应用场景及重难点解析丨Dev for Dev 专栏](https://juejin.cn/post/7145857012201422885) | Wed Sep 21 2022 3:35 PM 
+- 🕯 [人脸关键点的应用场景及重难点解析丨Dev for Dev 专栏](https://juejin.cn/post/7145857012201422885) | Wed Sep 21 2022 3:35 PM 
     <details><summary>展开描述 ...</summary> 
     人脸检测、人脸关键点检测，是计算机视觉的基础算法。许多酷炫应用背后，例如美颜、贴纸、人脸驱动 avatar，是依赖着人脸检测、人脸关键点检测的算法。 
     </details> 
 
-- 🕯 [从零到一系统性的建立前端构建知识体系（开篇）](https://juejin.cn/post/7145855619096903717) | Wed Sep 21 2022 3:29 PM 
+- 🚀 [从零到一系统性的建立前端构建知识体系（开篇）](https://juejin.cn/post/7145855619096903717) | Wed Sep 21 2022 3:29 PM 
     <details><summary>展开描述 ...</summary> 
     一、前言 为什么写该系列文章？ 对我来言，主要有以下原因： 个人成长：构建体系作为前端工程化中的重要一环，有必要进行全面的知识梳理和查漏补缺，同时也是对我这几年工作的总结和复盘 工作需要：我目前所处的 
     </details> 
 
-- 🚀 [一个插件导致ECharts被全量引入的坑](https://juejin.cn/post/7145854101983592462) | Wed Sep 21 2022 3:24 PM 
+- 💪 [一个插件导致ECharts被全量引入的坑](https://juejin.cn/post/7145854101983592462) | Wed Sep 21 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
     ECharts作为一个图标库已经被大家广泛使用，它提供了各式各样的图表类型，所以我们在使用echarts的时候首先需要考虑的是按需引入，避免踩到引入插件时的坑，导致线上全量引入了。 
-    </details> 
-
-- 💪 [【云原生】zookeeper + kafka on k8s 环境部署](https://juejin.cn/post/7145851192974229512) | Wed Sep 21 2022 3:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    Apache ZooKeeper 是一个集中式服务，用于维护配置信息、命名、提供分布式同步和提供组服务，ZooKeeper 致力于开发和维护一个开源服务器，以实现高度可靠的分布式协调，其实也可以认为就 
     </details> 
 <!-- juejin:END -->
 ### 少数派
