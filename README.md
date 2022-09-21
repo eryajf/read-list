@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RocketMQ分享](https://juejin.cn/post/7145764194871148575) | Wed Sep 21 2022 9:34 AM 
+- 🤗 [数据结构-散列表](https://juejin.cn/post/7145768297286336542) | Wed Sep 21 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 1. 缘起 阿里内部为了适应淘宝更快、更复杂的业务，在2001年启动了「五彩石项目」，第一代消息队列服务Notify在这个背景下应运而生。 2010年ActiveMQ仍然 
+    前言 首先抛一个问题，现有一个Person类包含name&lpar;假设姓名唯一&rpar;属性，要从1000个Person对象中找出name为“张三”的对象你该怎么做？有些同学要说话了：将1000个Person对象放入 
     </details> 
 
-- 🎡 [Observability：使用 Elastic Agent 来收集定制的 TCP 日志](https://juejin.cn/post/7145763280710025247) | Wed Sep 21 2022 9:31 AM 
+- 🎡 [Gitea 与 Drone 集成实践：完全基于 Docker 搭建的轻量级 CI/CD 系统](https://juejin.cn/post/7145763787201593381) | Wed Sep 21 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    自定义 TCP 日志包初始化一个侦听 TCP 套接字，该套接字收集接收到的任何 TCP 流量并将每一行作为文档发送到 Elasticsearch。 可以通过将 ingest pipeline 的名字添 
+    Drone 是一个使用 Go 语言编写的自助式的持续集成平台，和 Gitea 一样可以完全基于容器部署，轻松扩展流水线规模。开发者只需要将持续集成过程通过简单的 YAML 语法写入 Gitea 仓库目 
     </details> 
 
-- 🕯 [远程化办公成为新趋势，企业OA系统该如何升级？](https://juejin.cn/post/7145761754088701966) | Wed Sep 21 2022 9:25 AM 
+- 🕯 [C#中async和await的定义及使用](https://juejin.cn/post/7145758980285923336) | Wed Sep 21 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    如果说新冠疫情引发了在线办公需求的激增，那么企业对数字化转型的渴望，则是数字化办公赛道持续火热的根本原因。 
+    前言： C# 5 给我们带来了 async 异步方法，它的出现标志着【次世代】的来临——它可以将多个基于 Task 的操作结合到一起，使代码编写更加直观容易。 
     </details> 
 
-- 🚀 [package.json 配置完全解读](https://juejin.cn/post/7145759868010364959) | Wed Sep 21 2022 9:18 AM 
+- 🚀 [IDEA 插件开发教程（一）](https://juejin.cn/post/7145737911344824328) | Wed Sep 21 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-    package.json 是前端每个项目都有的 json 文件，位于项目的根目录。package.json 里面有许许多多的配置，与项目息息相关，了解它们有助于了解项目，提效开发，规范代码。 
+    作为使用 IDEA/Android Studio 的开发者，大家或多或少都使用过插件，随着版本升级，很多插件会出现兼容性问题，而作者可能几年前就已经停止维护了。这时该怎么办？别怕，我们可以自己写插件。 
     </details> 
 
-- 💪 [MVC 架构解析 - 模型（Model）篇](https://juejin.cn/post/7145755477022867463) | Wed Sep 21 2022 9:02 AM 
+- 💪 [SVD解决词分布式表示稀疏性](https://juejin.cn/post/7145674045210492958) | Wed Sep 21 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-    在上一讲中，我们了解了 MVC 这个老而弥坚的架构模式，而从这一讲开始，我将分别展开介绍 MVC 三大部分内容；今天我要讲的就是第一部分模型（Model） 概念 首先我们要了解的是，我们总在谈“模型” 
+    这篇文章是接着一文拿捏点互信息（PMI）解决词向量稀疏性问题写的。解决词向量稀疏性问题另一个方法是使用奇异值分解（Singular Value Decomposition，SVD）。 我把例子搬过来了 
     </details> 
 <!-- juejin:END -->
 ### 少数派
