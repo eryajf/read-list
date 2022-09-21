@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果更新产品页面：Apple Watch新款均支持蓝牙5.3](https://www.cnbeta.com/articles/tech/1318809.htm) | Wed Sep 21 2022 2:12 AM 
+- 🕯 [首批支持下一代Wi-Fi 7无线网络标准的智能手机或于2024年到来](https://www.cnbeta.com/articles/tech/1318871.htm) | Wed Sep 21 2022 4:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 Apple Watch Series 8 和第二代 Apple Watch SE 发布之后，Apple Watch 对比页面显示这两款型号均支持蓝牙 5.0，&lt;strong&gt;不过&lt;a href=&quot;https://www.apple.com.cn/watch/compare/&quot; target=&quot;_blank&quot;&gt;现在该页面&lt;/a&gt;显示两款型号均支持蓝牙 5.3。&lt;/strong&gt;不过在苹果的部分页面上，Apple Watch Series 8 和第二代 Apple Watch SE 依然显示支持蓝牙 5.0，不过今天苹果公司确认这两款型号至少在美国是支持蓝牙 5.3 的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318809.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;DigiTimes 援引 IC 业内人士消息和检测实验室的一份新报告称 —— &lt;strong&gt;首批支持下一代 Wi-Fi 7 无线网络标准的智能手机，最早有望于 2024 年下半年陆续问世。&lt;/strong&gt;据悉，Wi-Fi 7 能够使用 320 MHz 信道、并支持 4K 正交幅度调制（QAM）技术。因而能够在同等天线数量的情况下，提交 2.4 倍于主流 Wi-Fi 6 无线网络的传输速率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [DeepMind用新AI超越自己：提速200倍 所有雅达利游戏上胜过人类](https://www.cnbeta.com/articles/tech/1318807.htm) | Wed Sep 21 2022 2:11 AM 
+- 💼 [万代最新回应7月黑客入侵进展 不排除模玩部数据流失可能](https://hot.cnbeta.com/articles/game/1318869.htm) | Wed Sep 21 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;DeepMind又对&lt;strong&gt;雅达利游戏&lt;/strong&gt;下手了！这次，他们最新推出的智能体&lt;strong&gt;MEME&lt;/strong&gt;，在效果不变的前提下，比两年前的Agent57&lt;strong&gt;提速了200倍&lt;/strong&gt;！Agent57，是DeepMind在2020年搞的一个智能体，史上首次在所有57个雅达利游戏中超过了人类基准表现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月20日，万代南梦宫发布了关于7月黑客入侵事件的调查进展情况，首先可以确定的是不排除日本地区以外的亚洲区域模玩部顾客等数据流失可能，其他泄密损失依然在调查中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NVIDIA发布会不见RTX 4070/4060 何时推出有答案了](https://www.cnbeta.com/articles/tech/1318805.htm) | Wed Sep 21 2022 2:11 AM 
+- 💂 [《刺客信条》新作消息泄露者道歉 为签署NDA主播](https://hot.cnbeta.com/articles/game/1318867.htm) | Wed Sep 21 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA现已正式发布RTX 40系列显卡，首发仅三款，分别是RTX 4090、RTX 4080 16G和RTX 4080 12G。其中，4090国内定价12999元（北美1599美元），10月12日上市，两款RTX 4080则推迟到11月。显然，巨大的性能提升，意味着RTX 30系列会继续降价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318805.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;YouTube 视频制作者和主播 &lt;strong&gt;Dan Allen 日前被发现是泄密Twitter用户“The Real Insider”账号幕后真正的主使者，他为打破多个保密协议（NDA）并泄露了正在开发中的游戏信息而道歉。&lt;/strong&gt;Dan Allen 的游戏 YouTube 频道内容包括游戏攻略、游玩视频、游戏预告反应和其他有关游戏的相关信息。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1318867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [长二丁30年迎来第65次发射 送云海一号03星成功入轨](https://www.cnbeta.com/articles/science/1318803.htm) | Wed Sep 21 2022 2:09 AM 
+- 🚀 [“牛粪巴士”技术自称领先中国20年 铃木印度研究牛粪燃料](https://www.cnbeta.com/articles/science/1318865.htm) | Wed Sep 21 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年9月21日7时15分，长征二号丁运载火箭在酒泉卫星发射中心发射升空，成功将云海一号03星送入预定轨道，发射任务取得圆满成功。执行本次任务的长征二号丁运载火箭，是由上海航天八院抓总研制的常温液体二级运载火箭，起飞推力约300吨，对应700公里太阳同步圆轨道的运载能力为1.3吨，具备在酒泉、西昌、太原三大卫星发射中心不同轨道要求的单星、多星发射能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于牛尿和牛粪，印度有着特殊的“情节”，除了可以治病之外，甚至还能当做汽车的能源。日前，据报道，日本车企铃木将与印度政府相关机构展开合作，&lt;strong&gt;启动用牛粪和尿中所含的甲烷作为汽车燃料的验证业务。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1318865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [特斯拉人形机器人月底亮相 将在得州工厂部署数千个](https://www.cnbeta.com/articles/tech/1318801.htm) | Wed Sep 21 2022 2:04 AM 
+- 🎊 [女子网购第四大毒蛇被咬致死 家属获赔33万](https://www.cnbeta.com/articles/tech/1318863.htm) | Wed Sep 21 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉人形机器人“擎天柱（Optimus）”即将在本月底“人工智能日”上亮相，目前特斯拉正在制定雄心勃勃的计划，欲在得州工厂部署数千个此类机器人。据最新招聘启事显示，特斯拉已经在大量招聘擎天柱相关的岗位，目前，关于“擎天柱”项目约有20个职位空缺，包括设计关键机器人部件的岗位，自动驾驶团队也已经参与其中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，北京市海淀区人民法院公布了一起生命权、健康权、身体权纠纷案件的民事一审判决书。&lt;/strong&gt;案件详情为，2018年6月，陕西渭南，转转平台名为“依某”的女孩通过平台联系邵某，先后两次购买银环蛇。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1318863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
