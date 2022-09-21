@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Scrutiny 12.4.4 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Tue Sep 20 2022 12:44 AM 
+- 🦏 [WidsMob Montage 2.24 蒙太奇图片制作](https://xclient.info/s/widsmob-montage.html) | Wed Sep 21 2022 12:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    WidsMob Montage 是一款能轻松制作蒙太奇图片的软件！简单滴说就是一张图片的组成是由许多小图片拼贴而成的，这样的画面非常有意思。 
+    </details> 
+
+-  [Forklift 3.5.8 远程/本地文件管理利器](https://xclient.info/s/forklift.html) | Wed Sep 21 2022 12:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    Forklift 不仅是强大的文件管理器，还附带 FTP 远程文件管理功能 
+    </details> 
+
+- ⚗️ [Claris FileMaker Pro 19.5.4.401 低代码开发工具](https://xclient.info/s/claris-filemaker-pro.html) | Wed Sep 21 2022 12:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    Claris FileMaker Pro是一种拥有专业级编程功能的低代码开发工具。您无需过多开发者的种种编程技能，即可转化为自己的应用 
+    </details> 
+
+- 🔥 [Art Text 4.1.3_938_f 简单易用的艺术文字图标设计工具](https://xclient.info/s/art-text.html) | Wed Sep 21 2022 12:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    Art Text 是一款Mac平台上简单易用的艺术文字和图标设计软件 
+    </details> 
+
+- 🌋 [Scrutiny 12.4.4 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Tue Sep 20 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
     Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
-    </details> 
-
--  [Soulver 3.6.1 多功能计算器](https://xclient.info/s/soulver.html) | Tue Sep 20 2022 12:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
-    </details> 
-
-- ⚗️ [AYVY 1.19.0 图片查看工具](https://xclient.info/s/ayvy.html) | Tue Sep 20 2022 12:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    AYVY是Mac电脑上的一款简单快速的图片查看工具，它可以满足您的所有需求。 
-    </details> 
-
-- 🔥 [GraphicConverter 11.6.3&lpar;5602&rpar; 图片编辑浏览工具](https://xclient.info/s/graphicconverter.html) | Tue Sep 20 2022 12:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    GraphicConverter是一款Mac上的多功能图片处理工具，除了支持激活所有的图片格式的批量转换外，还支持类似ACDSee的图片浏览界面，并且具有强大易用的图片编辑、元数据编辑、美轮美奂幻灯片显示功能等等，具备了其他多款软件才具有的功能，非常的强大。 
-    </details> 
-
-- 🌋 [Wondershare Filmora X 11.7.0.22 优秀的视频编辑工具](https://xclient.info/s/filmora.html) | Tue Sep 20 2022 12:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    Wondershare Filmora是一款由Wondershare出品的优秀的视频编辑工具，简单易用。 
     </details> 
 <!-- xclient:END -->
 
