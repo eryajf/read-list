@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [大宇与Sandbox合作 《仙剑》《大富翁》进驻元宇宙](https://hot.cnbeta.com/articles/game/1319027.htm) | Wed Sep 21 2022 10:15 AM 
+- 🕯 [TechRax实测iPhone 14车祸检测功能：确实有用！](https://www.cnbeta.com/articles/tech/1319031.htm) | Wed Sep 21 2022 11:06 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;以日常毁坏而被大家所熟知的 TechRax，近日在油管频道上分享了一支 iPhone 14“车祸检测”功能的实测视频。&lt;strong&gt;结果发现，这项新引入的 SOS 急救功能，确实可以在车辆发生严重碰撞时可靠地启动。&lt;/strong&gt;不过出于安全的考虑，测试团队还是选择了远程控制一辆“无人驾驶”汽车的方式，并将一部 iPhone 14 Pro 绑在了驾驶座头枕上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [比亚迪通过eBus平台将超安全的刀片电池带入欧洲商用电动汽车领域](https://www.cnbeta.com/articles/tech/1319029.htm) | Wed Sep 21 2022 10:29 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在本周德国 IAA 交通运输公司的一次演讲中，中国电动车企比亚迪一口气分享了大量的商用电动汽车技术，且它们将率先登陆欧洲市场。&lt;strong&gt;其中最吸引人的，莫过于名为 eBus 的新平台 —— 特点是采用了该公司耐用的刀片电池（目前主要用于 EV 乘用车）提供动力。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [大宇与Sandbox合作 《仙剑》《大富翁》进驻元宇宙](https://hot.cnbeta.com/articles/game/1319027.htm) | Wed Sep 21 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日大宇资讯宣布与Sandbox合作，《仙剑奇侠传》和《大富翁》进驻元宇宙。大宇购买虚拟土地以打造“Softstar Meta Park”，将经典和未来的故事都导入Web 3.0生态系统。Sandbox玩家将获得东方幻想的仙侠体验，《仙剑奇侠传》李逍遥、赵灵儿、林月如，以及《大富翁》孙小美、金贝贝等都将陪伴粉丝进行冒险。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软Xbox精英手柄2代青春版 今日国行正式开售](https://hot.cnbeta.com/articles/game/1319025.htm) | Wed Sep 21 2022 10:14 AM 
+- 🚀 [微软Xbox精英手柄2代青春版 今日国行正式开售](https://hot.cnbeta.com/articles/game/1319025.htm) | Wed Sep 21 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;国行Xbox Elite无线控制器2代青春版今日（9月21日）正式发售，建议零售价为999元。Xbox Elite无线控制器2代配件包将于9月28日发售，建议零售价419元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Arm被收购吸引力降低 业内人士称三星电子SK海力士不可能收购](https://www.cnbeta.com/articles/tech/1319023.htm) | Wed Sep 21 2022 10:11 AM 
+- 🎊 [Arm被收购吸引力降低 业内人士称三星电子SK海力士不可能收购](https://www.cnbeta.com/articles/tech/1319023.htm) | Wed Sep 21 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;英伟达2020年9月13日宣布的400亿美元收购Arm的交易，由于在监管方面面临重大挑战，最终以失败告终，英伟达和Arm的拥有者软银集团，在今年2月14日宣布终止收购交易。虽然英伟达已终止收购，但在全球芯片领域影响力巨大的Arm，仍是众多公司收购或投资的目标，英特尔CEO帕特·基辛格此前在接受采访时就曾表示，如果出现一个财团，他们可能非常愿意以某种方式参与其中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [腾讯新专利获批：人脸识别不再担心出现盗刷](https://www.cnbeta.com/articles/tech/1319021.htm) | Wed Sep 21 2022 10:08 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着生物识别技术的发展，人脸识别俨然已经成为了生活中常见的支付识别方法之一，但偶有发生的盗刷等事件，也让一部分用户担心这一技术是否足够安全。近日，&lt;strong&gt;腾讯科技（深圳）有限公司申请的“支付请求处理方法及装置”（申请号：CN202110284735.1）公布&lt;/strong&gt;，该技术为人脸识别提出了一种新的实现方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Google应用推出&quot;关于你的结果&quot;页面以帮助删除个人信息](https://www.cnbeta.com/articles/tech/1319019.htm) | Wed Sep 21 2022 9:50 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在今年5月的I/O 2022大会上，Google宣布了一项新的工具，以简化删除包含你的联系人和其他个人身份信息（PII）的搜索结果的过程，现在它已经开始投入使用。今天，在Android系统上打开Google应用程序，点击右上角的个人资料头像，会看到一个新的&amp;quot;关于你的结果&amp;quot;菜单项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
