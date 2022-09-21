@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 优步深陷数据泄露泥潭；印度尼西亚通过《数据隐私法》](https://www.freebuf.com/news/345041.html) | Tue Sep 20 2022 11:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    优步披露了与上周发生的安全事件有关的更多细节，将攻击归咎于一个它认为与臭名昭著的 LAPSUS$ 黑客组织有关联的威胁行为者。 
+    </details> 
+
 - 🦄 [Rockstar Games遭黑客攻击，《侠盗猎车手6》90个开发视频外泄](https://www.freebuf.com/articles/game/344978.html) | Tue Sep 20 2022 7:43 AM 
     <details><summary>展开描述 ...</summary> 
     热门游戏《侠盗猎车手6》（Grand Theft Auto）开发片段遭到黑客大规模窃取，这一泄露事件立即在游戏圈迅速传播。 
     </details> 
 
-- 🦄 [无间道！ &amp;quot;沙虫 &amp;quot;组织冒充乌克兰电信公司投放恶意软件](https://www.freebuf.com/news/344955.html) | Tue Sep 20 2022 7:05 AM 
+- 🦅 [无间道！ &amp;quot;沙虫 &amp;quot;组织冒充乌克兰电信公司投放恶意软件](https://www.freebuf.com/news/344955.html) | Tue Sep 20 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
     黑客组织Sandworm（沙虫） 伪装成电信提供商，以恶意软件攻击乌克兰实体。 
     </details> 
 
-- 🦅 [继北京健康宝后，澳门健康码又遭境外势力攻击](https://www.freebuf.com/articles/neopoints/344963.html) | Tue Sep 20 2022 7:00 AM 
+- 🪄 [继北京健康宝后，澳门健康码又遭境外势力攻击](https://www.freebuf.com/articles/neopoints/344963.html) | Tue Sep 20 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     重视培养网络安全技术人才，加大投入研发网络前沿技术，建设网络安全强国不会仅仅成为一句“口号”。 
     </details> 
 
-- 🪄 [这些观点掷地有声！FreeBuf网安智库说第四季圆满落幕](https://www.freebuf.com/articles/344951.html) | Tue Sep 20 2022 6:53 AM 
+- 💻 [这些观点掷地有声！FreeBuf网安智库说第四季圆满落幕](https://www.freebuf.com/articles/344951.html) | Tue Sep 20 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
     本文将带你回顾本季内容精华，更有专家金句海报~ 
-    </details> 
-
-- 💻 [攻击者正冒充美国政府机构骗取承包商Office账户](https://www.freebuf.com/news/344938.html) | Tue Sep 20 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    针对美国政府承包商的持续性网络钓鱼攻击正呈逐渐扩大之势，攻击者正采用更加难以分辨的“诱饵”制作钓鱼文件。 
     </details> 
 <!-- freebuf:END -->
 
