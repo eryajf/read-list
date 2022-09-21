@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [发现了史莱姆？在加勒比海海底发现了未知的粘液状蓝色生物](http://jandan.net/p/111372) | Wed Sep 21 2022 2:37 AM 
+- 🚀 [在网络游戏里与他人协作，可让大脑产生面对面社交活动时的同步效果](http://jandan.net/p/111329) | Wed Sep 21 2022 6:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    脑波同步，健康的社会很重要，因为它与更好的同理心和协作有关。 
+    </details> 
+
+- 🙉 [发现了史莱姆？在加勒比海海底发现了未知的粘液状蓝色生物](http://jandan.net/p/111372) | Wed Sep 21 2022 2:37 AM 
     <details><summary>展开描述 ...</summary> 
     NOAA的科考船 Okeanos Explorer在过去几个月里收获满满 
     </details> 
 
-- 🙉 [今日带货：泡菜王水饺](http://jandan.net/p/111371) | Wed Sep 21 2022 1:53 AM 
+- 🎉 [今日带货：泡菜王水饺](http://jandan.net/p/111371) | Wed Sep 21 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
     推荐泡菜口味 
     </details> 
 
-- 🎉 [美国最强大的激光器&lpar;宙斯 ZEUS&rpar; 即将开机运行](http://jandan.net/p/111369) | Tue Sep 20 2022 11:44 AM 
+- 🐲 [美国最强大的激光器&lpar;宙斯 ZEUS&rpar; 即将开机运行](http://jandan.net/p/111369) | Tue Sep 20 2022 11:44 AM 
     <details><summary>展开描述 ...</summary> 
     宙斯到6就开大 
     </details> 
 
-- 🐲 [现在地球上有多少只蚂蚁？](http://jandan.net/p/111368) | Tue Sep 20 2022 10:16 AM 
+-  [现在地球上有多少只蚂蚁？](http://jandan.net/p/111368) | Tue Sep 20 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
     昆虫和其他无脊椎动物是“支配世界的小东西” 
-    </details> 
-
--  [澳洲人类与葵花鹦鹉的“军备竞赛”](http://jandan.net/p/111367) | Tue Sep 20 2022 8:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    围绕着垃圾桶斗智斗勇 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
