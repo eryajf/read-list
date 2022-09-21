@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [2022年高端智能手机表现抢眼 推升全球智能手机平均售价增长10%](https://www.cnbeta.com/articles/tech/1319087.htm) | Wed Sep 21 2022 2:21 PM 
+- 🕯 [沃尔沃EX90电动SUV将配备激光传感器和摄像头 可检测酒驾](https://www.cnbeta.com/articles/tech/1319093.htm) | Wed Sep 21 2022 2:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;沃尔沃宣布，它将于11月9日发布其新的旗舰电动车EX90 SUV。&lt;/strong&gt;EX90旨在取代该公司目前的旗舰车型，即汽油动力的XC90 SUV，因为沃尔沃将在2030年前过渡到一个全电动汽车制造商。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Getty图片社因担心受到法律挑战而禁止人工智能生成的内容](https://www.cnbeta.com/articles/tech/1319091.htm) | Wed Sep 21 2022 2:36 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Getty图片社已经禁止上传和销售使用DALL-E、Midjourney和Stable Diffusion等AI艺术工具生成的插图。这是继Newgrounds、PurplePort和FurAffinity等网站做出类似决定后，最新也是最大的用户生成内容平台出台了此类禁令。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [用户现在也可以在Fire平板电脑上触摸Alexa了](https://www.cnbeta.com/articles/tech/1319089.htm) | Wed Sep 21 2022 2:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;亚马逊正在为其Fire平板电脑带来更多的无障碍功能&lt;/strong&gt;，包括今天宣布的Fire HD 8和Fire HD 8 Plus，增加对Tap to Alexa的支持，与蓝牙开关访问控制器兼容，并推出一个新的文字转语音功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [2022年高端智能手机表现抢眼 推升全球智能手机平均售价增长10%](https://www.cnbeta.com/articles/tech/1319087.htm) | Wed Sep 21 2022 2:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月21日消息，根据市场研究机构Strategy Analytics 最新发布研究报告《全球智能手机收益、ASP 和价格段预测：2008-2027》指出，全球智能手机批发收益将在 2022 年同比增长 2%，主要受苹果、三星和其他手机厂商的高端机型组合的推动，ASP（平均售价）将同比增长10%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [何小鹏：G9是智能车迈向无人驾驶汽车前的最后一代](https://www.cnbeta.com/articles/tech/1319085.htm) | Wed Sep 21 2022 2:19 PM 
+- 🎊 [何小鹏：G9是智能车迈向无人驾驶汽车前的最后一代](https://www.cnbeta.com/articles/tech/1319085.htm) | Wed Sep 21 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月21日消息，今天，小鹏G9正式上市。小鹏汽车董事长CEO何小鹏表示，G9是这个时代的标杆，也是智能汽车迈向无人驾驶汽车前的最后一代。小鹏G9共有三个续航版本，包括570G、570E、702E、650E性能版、650X性能版、650X上市纪念版，共六款车型。新车售价30.99-46.99万元，并将于2022年10月底开始正式交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [赵明：荣耀要打造核心的根技术 合作效率低时将开发自己的芯片和操作系统](https://www.cnbeta.com/articles/tech/1319083.htm) | Wed Sep 21 2022 2:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;荣耀CEO赵明近日在接受媒体采访时表示，荣耀会坚持在底层技术上进行突破和创新，打造核心的技术控制点和竞争力。未来荣耀会深度参与到合作伙伴的SoC规划当中，把产品诉求和合作伙伴进行共享。他还表示，在行业当中通过合作伙伴解决效率低的，荣耀也会开发自己的芯片、操作系统以及很多专利和创新的技术，打造自己核心的根技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [亚马逊发布2022年款Fire HD 8系列平板电脑 价格全线上涨10美元](https://www.cnbeta.com/articles/tech/1319081.htm) | Wed Sep 21 2022 2:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊今天宣布推出以Fire HD 8为首的四款新的8英寸Fire平板电脑，该公司声称其速度比2020年的前代产品快30%。这次它的起价也贵了10美元，为99.99美元。除了Fire HD 8，这家电商巨头还宣布了新的细分型号Fire HD 8 Plus、Fire HD 8 Kids和Fire HD 8 Kids Pro平板电脑。它们今天都可以预购，所有型号价格比以前贵10美元，将在下个月发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [摩托罗拉在NBA新赛季前与芝加哥公牛队达成合作关系](https://www.cnbeta.com/articles/tech/1319079.htm) | Wed Sep 21 2022 2:10 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;摩托罗拉公司和NBA芝加哥公牛队宣布，从2022-23赛季开始建立多年的合作关系，官方球队的球衣将采用标志性的摩托罗拉蝙蝠翼标志作为球衣的补丁。报道称，在10月4日与新奥尔良鹈鹕队的季前赛中，公牛队将首次亮相他们的新球衣。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
