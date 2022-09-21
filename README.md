@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：英伟达发布 RTX 40 系列显卡、AMD 发布 7020 系列处理器等](https://sspai.com/post/75843) | Wed Sep 21 2022 1:13 AM 
+- 👹 [信息爆炸的时代，我这样搭建自己的全链路知识系统](https://sspai.com/post/74992) | Wed Sep 21 2022 3:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/74992&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：英伟达发布 RTX 40 系列显卡、AMD 发布 7020 系列处理器等](https://sspai.com/post/75843) | Wed Sep 21 2022 1:13 AM 
     <details><summary>展开描述 ...</summary> 
     微软推出 Windows 11 2022 更新，Apple 对部分地区 App Store 进行价格上调。&lt;a href=&quot;https://sspai.com/post/75843&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一派·Podcast | 聊聊 Apple 秋季发布会以及新品体验](https://sspai.com/post/75820) | Tue Sep 20 2022 9:18 AM 
+- 🤭 [一派·Podcast | 聊聊 Apple 秋季发布会以及新品体验](https://sspai.com/post/75820) | Tue Sep 20 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
     一起谈谈对于 Apple 新品的观点和体验。&lt;a href=&quot;https://sspai.com/post/75820&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [全面、全能、全天候：跃我 GTR 4 &amp; GTS 4 使用体验](https://sspai.com/post/75747) | Tue Sep 20 2022 8:15 AM 
+- 🥸 [全面、全能、全天候：跃我 GTR 4 &amp; GTS 4 使用体验](https://sspai.com/post/75747) | Tue Sep 20 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
     跃我 GTR 4 和 GTS 4 可以成为健康的守护者和健身的监督者，也可以成为生活的陪伴者。&lt;a href=&quot;https://sspai.com/post/75747&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [同型号共用总出问题，显示器的「身份证」为什么没用了？](https://sspai.com/post/75834) | Tue Sep 20 2022 8:00 AM 
+- 🙉 [同型号共用总出问题，显示器的「身份证」为什么没用了？](https://sspai.com/post/75834) | Tue Sep 20 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     在人类用户之外，你的显示器又是怎样与你的显卡交流的呢？本文带你详解显示器的身份证 EDID。&lt;a href=&quot;https://sspai.com/post/75834&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [如何克服精神内耗并对抗分心](https://sspai.com/post/75687) | Tue Sep 20 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    尽管去做、优先去做、默认去做，这就是克服自我怀疑和恐惧的第一步，也是摆脱精神内耗的第一步。&lt;a href=&quot;https://sspai.com/post/75687&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
