@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [VoiceLine - 随时随地使用语音工作，无需打字，无需开会](https://xinquji.com/posts/179672?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:47 AM 
+- 👀 [Shosho - 撰写、编辑、协作和发布您的故事。](https://xinquji.com/posts/179703?utm_campaign=xinquji-rss) | Thu Sep 22 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     随时随地使用语音工作，无需打字，无需开会  
+     撰写、编辑、协作和发布您的故事。  
     </details> 
 
-- 🥷 [SlideServe - 免费轻松创建、共享和跟踪您的数字内容](https://xinquji.com/posts/179671?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:45 AM 
+- 🥷 [Kotor Color Picker - 稍后在菜单栏上抓取颜色、收集和使用](https://xinquji.com/posts/179702?utm_campaign=xinquji-rss) | Thu Sep 22 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     免费轻松创建、共享和跟踪您的数字内容  
+     稍后在菜单栏上抓取颜色、收集和使用  
     </details> 
 
-- 💼 [Indie Entrepreneur Toolkit for Notion - 建立有价值的职业生涯的所有信息、工具和计划](https://xinquji.com/posts/179670?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:43 AM 
+- 💼 [Dope Music - 专注于工作环境的音乐](https://xinquji.com/posts/179701?utm_campaign=xinquji-rss) | Thu Sep 22 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     建立有价值的职业生涯的所有信息、工具和计划  
+     专注于工作环境的音乐  
     </details> 
 
-- 🦅 [Crunchbase People - 从 Crunchbase 一键访问创始人 LinkedIn](https://xinquji.com/posts/179669?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:42 AM 
+- 🦅 [GrowthStash - 为独立制作者提供 60 多种增长黑客工具和资源](https://xinquji.com/posts/179700?utm_campaign=xinquji-rss) | Thu Sep 22 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     从 Crunchbase 一键访问创始人 LinkedIn  
+     为独立制作者提供 60 多种增长黑客工具和资源  
     </details> 
 
-- 😺 [Glomad 2.0 - 关于签证的协作知识库](https://xinquji.com/posts/179668?utm_campaign=xinquji-rss) | Wed Sep 21 2022 6:40 AM 
+- 😺 [Pub Collector - 发现和收集世界上最好的酒吧和计划酒吧爬行](https://xinquji.com/posts/179699?utm_campaign=xinquji-rss) | Thu Sep 22 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     关于签证的协作知识库  
+     发现和收集世界上最好的酒吧和计划酒吧爬行  
     </details> 
 <!-- xinquji:END -->
