@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [navGraphViewModel的使用及其与hilt注解库的配合使用【转载】](https://juejin.cn/post/7145745187531292708) | Wed Sep 21 2022 8:21 AM 
+- 🤗 [RocketMQ分享](https://juejin.cn/post/7145764194871148575) | Wed Sep 21 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-    navGraphViewModel的使用及其与hilt注解库的配合使用 navGraphViewModel的基本使用 开发文档中是这么描述的： 具体点来说就是我们可以使用navGraphViewMod 
+    我正在参加「掘金·启航计划」 1. 缘起 阿里内部为了适应淘宝更快、更复杂的业务，在2001年启动了「五彩石项目」，第一代消息队列服务Notify在这个背景下应运而生。 2010年ActiveMQ仍然 
     </details> 
 
-- 🎡 [彻底弄懂https加密机制以及charles抓包原理分析](https://juejin.cn/post/7145744897700528164) | Wed Sep 21 2022 8:20 AM 
+- 🎡 [Observability：使用 Elastic Agent 来收集定制的 TCP 日志](https://juejin.cn/post/7145763280710025247) | Wed Sep 21 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-    本文通过问题形式一步步讲述https的加密机制，了解对称与非对称加密、数字签名、数字证书这些名词在https中的作用，最后在实战去分析charles抓包工具的原理。 
+    自定义 TCP 日志包初始化一个侦听 TCP 套接字，该套接字收集接收到的任何 TCP 流量并将每一行作为文档发送到 Elasticsearch。 可以通过将 ingest pipeline 的名字添 
     </details> 
 
-- 🕯 [vue router 4 源码篇：路由matcher的前世今生](https://juejin.cn/post/7145742001764319240) | Wed Sep 21 2022 8:08 AM 
+- 🕯 [远程化办公成为新趋势，企业OA系统该如何升级？](https://juejin.cn/post/7145761754088701966) | Wed Sep 21 2022 9:25 AM 
     <details><summary>展开描述 ...</summary> 
-    vue-router是vue官方指定的路由管理库，拥有21.2k star和 2039876的周下载量，实属难得的优秀开源库。那么vue-router是如何完美结合vue？我们一起揭秘它的神秘面纱！ 
+    如果说新冠疫情引发了在线办公需求的激增，那么企业对数字化转型的渴望，则是数字化办公赛道持续火热的根本原因。 
     </details> 
 
-- 🚀 [「iOS开发之框架详解——RxSwift」函数式、响应式编程基本概念](https://juejin.cn/post/7145734616396726303) | Wed Sep 21 2022 7:40 AM 
+- 🚀 [package.json 配置完全解读](https://juejin.cn/post/7145759868010364959) | Wed Sep 21 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-    本文基于 Swift 语言，对常用编程范式进行了介绍，并结合 RxSwift 框架对函数式、响应式编程进行了展示。 
+    package.json 是前端每个项目都有的 json 文件，位于项目的根目录。package.json 里面有许许多多的配置，与项目息息相关，了解它们有助于了解项目，提效开发，规范代码。 
     </details> 
 
-- 💪 [vitepress趣玩系列——文档样式优化](https://juejin.cn/post/7145721012598865928) | Wed Sep 21 2022 6:47 AM 
+- 💪 [MVC 架构解析 - 模型（Model）篇](https://juejin.cn/post/7145755477022867463) | Wed Sep 21 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    vitepress趣玩系列迎来了第三篇，这次我们调整文档内容的样式，做出我们自己更个性化的vitepress文档 
+    在上一讲中，我们了解了 MVC 这个老而弥坚的架构模式，而从这一讲开始，我将分别展开介绍 MVC 三大部分内容；今天我要讲的就是第一部分模型（Model） 概念 首先我们要了解的是，我们总在谈“模型” 
     </details> 
 <!-- juejin:END -->
 ### 少数派
