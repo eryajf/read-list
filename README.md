@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [罗技发布G Fits真无线耳塞 硅胶塞可在一分钟内完成形状定制](https://www.cnbeta.com/articles/tech/1319105.htm) | Wed Sep 21 2022 4:29 PM 
+- 🕯 [微软宣布10月12日的Surface硬件发布会活动：“Save The Date”](https://www.cnbeta.com/articles/tech/1319131.htm) | Wed Sep 21 2022 5:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;罗技认为不仅仅是发烧友，主机和PC游戏玩家也可能会想要定制的耳机硅胶塞，以增强低音和音质。10月发布的229.99美元的G Fits真无线耳机借用了2020年UE Fits的技巧：一次性60秒的，用LED来加热和改变硅胶塞以适应用户的内耳形状。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软刚刚发出了其即将举行的活动的邀请函，该公司将在2022年10月12日&amp;quot;谈论设备&amp;quot;。已经到了微软每年秋季举办的Surface硬件活动的时候，因此发布会上会展示什么不用多说。在推出Windows 11 2022更新之后，微软已经承诺在10月推出一个功能包更新，它可能与12日宣布的新硬件搭配。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [罗技G Cloud Gaming掌机将于10月到来 售价349.99美元](https://www.cnbeta.com/articles/tech/1319103.htm) | Wed Sep 21 2022 4:20 PM 
+- 💼 [12999元的RTX 4090终于来了 但这次它连配角都算不上](https://www.cnbeta.com/articles/tech/1319129.htm) | Wed Sep 21 2022 4:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在上个月的预告和泄漏之后，罗技今天正式宣布其G品牌旗下的云游戏掌机。这款由Android系统驱动的349.99美元的掌上电脑将于10月上市，可以同时访问Google游戏商店、Xbox云游戏和NVIDIA的GeForce Now服务。虽然可以玩Android手机游戏，但重点是云游戏，该掌机已经被设计成这种方式来减少本地运算从而更节能，以提供12小时或更多的电池续航时间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果说要给科技圈这段时间传播最多的小道消息排个名次，其中 iPhone 14 系列排第一， &lt;strong&gt;那&lt;/strong&gt;&lt;strong&gt;么第二名肯定就是 RTX 40 系显卡了。&lt;/strong&gt;而就在北京时间 9 月 20 号晚上的英伟达 GTC 大会上，老黄终于带着他的 40 系显卡登场了！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软Xbox Elite 2无线手柄上的Xbox按钮现在支持RGB颜色定义](https://hot.cnbeta.com/articles/game/1319101.htm) | Wed Sep 21 2022 4:13 PM 
+- 💂 [女子购买iPhone 13多次出现闪屏：保修期内返厂被苹果判定擅自改装](https://www.cnbeta.com/articles/tech/1319127.htm) | Wed Sep 21 2022 4:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软Xbox Elite 2无线手柄的Xbox按钮上现在开始支持自定义RGB颜色。虽然像Steam这样的平台已经为Elite 2手柄上的Xbox按钮提供了颜色选择，但微软在今天发布的9月更新中，现在已经在自己的Xbox游戏机上原生支持这种颜色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新手机刚买1个月就出现了闪屏，更换屏幕后问题依然存在，返厂维修但厂家却判定擅自改装，最近，浙江的黄女士就碰到这样的糟心事。据@1818黄金眼 消息，黄女士反映称，&lt;strong&gt;今年1月买了一部iPhone 13，结果2月份就出现了闪屏问题，&lt;/strong&gt;随后她在苹果直营店为手机更换屏幕后问题消失，但后来又出现了闪屏的问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软确认Windows 11 2022更新的首次兼容性阻挡升级操作](https://www.cnbeta.com/articles/tech/1319099.htm) | Wed Sep 21 2022 4:06 PM 
+- 🚀 [无惧供应链压力 空客坚定维持2025年产能目标不变](https://www.cnbeta.com/articles/tech/1319125.htm) | Wed Sep 21 2022 4:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软昨晚开始推送Windows 11 2022更新，就像以前一样，该公司正在使用一种分阶段的方法，以确保限制最后一刻的错误对外界设备的影响。该公司已经证实，它在新的更新中发现了一个不兼容的问题，这一次，它与某些设备上的英特尔驱动程序有关，此问题需要对受影响的用户进行兼容性阻挡升级操作，这也是22H2版本的发布过程中第一次这么做。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管供应链状况依旧没有明显改善，但空客公司仍坚持其到2025年每月生产75架窄体客机的目标。当地时间周三（9月21日），空客发言人表示：“（公司）2025年每月生产75架的目标保持不变。”该发言人称，这项决定是在对全球需求的分析以及对工业生态系统准备情况的评估后做出的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Mate 50热销机型10秒卖光 华为防堵“黄牛”门店出招](https://www.cnbeta.com/articles/tech/1319097.htm) | Wed Sep 21 2022 3:31 PM 
+- 🎊 [次世代VR 索尼PSVR2“感受新真实”预告片公布](https://www.cnbeta.com/articles/tech/1319123.htm) | Wed Sep 21 2022 4:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月21日，华为Mate 50手机正式开售。线上平台华为商城的热销机型10秒内售罄，有网友表示，太难抢了。在线下，华为深圳南山全球旗舰店只有部分机型有现货。业内人士分析称，华为Mate 50畅销，或掀起新一轮高端旗舰手机换机潮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼互动娱乐SIE发布了PlayStationVR2的新预告片“感受新真实”（Feel a new Real）。体验令人惊叹的4K HDR视觉效果，突破性的新控制器和类型-定义游戏的新感觉，所有这些都是藉由PlayStation 5之力实现的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
