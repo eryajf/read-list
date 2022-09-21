@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [员工犯错，就应该受惩罚吗？](https://juejin.cn/post/7145836207489056799) | Wed Sep 21 2022 2:14 PM 
+- 🤗 [可恶，又是个线上问题](https://juejin.cn/post/7145843875822141471) | Wed Sep 21 2022 2:45 PM 
+    <details><summary>展开描述 ...</summary> 
+    好吧，其实不是你想的那样，这其实是个线上问题。 这几天，在搞 ShardingSphere，这不又来了一个问题嘛，启动的时候报了一个NPE出来。 好在，这个问题不影响使用，只是启动会报点错，接下来，又 
+    </details> 
+
+- 🎡 [草稿](https://juejin.cn/post/7145840261397282853) | Wed Sep 21 2022 2:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    `草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿草稿 ` 
+    </details> 
+
+- 🕯 [员工犯错，就应该受惩罚吗？](https://juejin.cn/post/7145836207489056799) | Wed Sep 21 2022 2:14 PM 
     <details><summary>展开描述 ...</summary> 
     在项目开发过程中，总会遇到项目成员犯错的场景。根据所犯错误是否具有共性特征，我把问题归为二类，不同类型的错误，采取不同的应对措施。 第一类：有共性的问题。 第二类：没有共性的问题。 
     </details> 
 
-- 🎡 [如何实现一个支持O&lpar;log&lpar;n&rpar;&rpar;随机删除元素的堆](https://juejin.cn/post/7145833385389195271) | Wed Sep 21 2022 2:03 PM 
+- 🚀 [如何实现一个支持O&lpar;log&lpar;n&rpar;&rpar;随机删除元素的堆](https://juejin.cn/post/7145833385389195271) | Wed Sep 21 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
     堆是一种非常常用的数据结构，它能够支持在O&lpar;1&rpar;的时间复杂度获取到最大值（或最小值）。然而堆它有一个缺点，它没办法快速的定位一个元素，因此它也没办法快速删除一个堆中元素。因此需要一种能随机删除的堆。 
     </details> 
 
-- 🕯 [leetcode-114-二叉树展开为链表](https://juejin.cn/post/7145831580571975716) | Wed Sep 21 2022 1:56 PM 
+- 💪 [leetcode-114-二叉树展开为链表](https://juejin.cn/post/7145831580571975716) | Wed Sep 21 2022 1:56 PM 
     <details><summary>展开描述 ...</summary> 
     给你二叉树的根结点 root ，请你将它展开为一个单链表： 展开后的单链表应该同样使用 TreeNode ，其中 right 子指针指向链表中下一个结点，而左子 
-    </details> 
-
-- 🚀 [浅谈一手node中间件，以及如何实现一个简单的node中间件](https://juejin.cn/post/7145822880055033869) | Wed Sep 21 2022 1:22 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、是什么 中间件（Middleware）是介于应用系统和系统软件之间的一类软件，它使用系统软件所提供的基础服务（功能），衔接网络上应用系统的各个部分或不同的应用，能够达到资源共享、功能共享的目的 在 
-    </details> 
-
-- 💪 [这代码，你不包装下？](https://juejin.cn/post/7145821281844215838) | Wed Sep 21 2022 1:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    不管做什么事情，我们都要有一颗上进的心，写代码也是如此。最开始要写得出，然后要写得对，然后要写得又对又好，最后再追求那个传说中的快。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
