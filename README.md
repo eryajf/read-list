@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [通过飞书实现 Sentry 上报异常自动推送、22年app上架审核问题集锦｜掘金一周 09.21](https://juejin.cn/post/7145739981628112909) | Wed Sep 21 2022 8:00 AM 
+- 🤗 [navGraphViewModel的使用及其与hilt注解库的配合使用【转载】](https://juejin.cn/post/7145745187531292708) | Wed Sep 21 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
-    【掘金一周09.21】本期看点：基于 iframe 的微前端框架擎天、新时代布局新特性容器查询、K2编译器是什么... 
+    navGraphViewModel的使用及其与hilt注解库的配合使用 navGraphViewModel的基本使用 开发文档中是这么描述的： 具体点来说就是我们可以使用navGraphViewMod 
     </details> 
 
-- 🎡 [使用查询分离后从20s优化到500ms](https://juejin.cn/post/7145726513063657479) | Wed Sep 21 2022 7:08 AM 
+- 🎡 [彻底弄懂https加密机制以及charles抓包原理分析](https://juejin.cn/post/7145744897700528164) | Wed Sep 21 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第138篇文章，点击查看活动详情 在前面一篇文章中提到过对于业务主表读写缓慢的解决方案：冷热分离，有不了解的请看：业务主表读写缓慢如何优化？ 冷热 
+    本文通过问题形式一步步讲述https的加密机制，了解对称与非对称加密、数字签名、数字证书这些名词在https中的作用，最后在实战去分析charles抓包工具的原理。 
     </details> 
 
-- 🕯 [uniapp 如何跟内嵌web-view交互](https://juejin.cn/post/7145720261831032863) | Wed Sep 21 2022 6:44 AM 
+- 🕯 [vue router 4 源码篇：路由matcher的前世今生](https://juejin.cn/post/7145742001764319240) | Wed Sep 21 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    废话开篇：不同的语言运行环境由于业务的相交有时候会进行交互，比如状态、事件的交互，这里简单记录一下 uniapp 如何跟内嵌 web-view 交互 一、代码环境 这里是很简单的一个 vue 页面内容 
+    vue-router是vue官方指定的路由管理库，拥有21.2k star和 2039876的周下载量，实属难得的优秀开源库。那么vue-router是如何完美结合vue？我们一起揭秘它的神秘面纱！ 
     </details> 
 
-- 🚀 [必知必会篇-前端性能优化之加载优化](https://juejin.cn/post/7145648742807371790) | Wed Sep 21 2022 2:07 AM 
+- 🚀 [「iOS开发之框架详解——RxSwift」函数式、响应式编程基本概念](https://juejin.cn/post/7145734616396726303) | Wed Sep 21 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 1. 资源加载优先级 在浏览器发起网络请求时，并非每个字节都具有相同的优先级，所以，浏览器通常会对所要加载的内容进行推测，将相对重要的信息先呈现给用户。比如浏览器一般会先 
+    本文基于 Swift 语言，对常用编程范式进行了介绍，并结合 RxSwift 框架对函数式、响应式编程进行了展示。 
     </details> 
 
-- 💪 [CSS 中 flex-grow 和 flex-shrink 的计算比例](https://juejin.cn/post/7145648060540911653) | Wed Sep 21 2022 2:04 AM 
+- 💪 [vitepress趣玩系列——文档样式优化](https://juejin.cn/post/7145721012598865928) | Wed Sep 21 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 CSS 中 flex-grow 和 flex-shrink 的计算比例 有时候这个的计算比例自己也挺迷糊的，这次再复习一下。本次文章分两部分： 容器的宽度大于子元素宽度之 
+    vitepress趣玩系列迎来了第三篇，这次我们调整文档内容的样式，做出我们自己更个性化的vitepress文档 
     </details> 
 <!-- juejin:END -->
 ### 少数派
