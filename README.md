@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [854. 相似度为 K 的字符串 : 常规搜索运用题](https://juejin.cn/post/7145664419450585119) | Wed Sep 21 2022 3:07 AM 
+- 🤗 [字节跳动的云原生技术历程演进](https://juejin.cn/post/7145693622493511687) | Wed Sep 21 2022 5:03 AM 
     <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划一期挑战——瓜分10万奖池，这是我的第19篇文章，点击查看活动详情 题目描述 这是 LeetCode 上的 854. 相似度为 K 的字符串 ，难度为 困难。 Tag : 「启发式搜 
+    以 Kubernetes 为代表的云原生技术底座支撑了字节跳动业务的快速发展。从微服务场景开始，Kubernetes 逐渐演化统一支撑了字节内部的大数据、机器学习以及存储服务等多种形态基础设施。 
     </details> 
 
-- 🎡 [浏览器必备知识—回流&amp;重绘](https://juejin.cn/post/7145663575548231694) | Wed Sep 21 2022 3:04 AM 
+- 🎡 [Meet Meteor: &quot;一站式&quot;全栈 Javascript 开发框架](https://juejin.cn/post/7145692795875885064) | Wed Sep 21 2022 4:59 AM 
     <details><summary>展开描述 ...</summary> 
-    浏览器相关知识现在是面试中必考的点，而回流和重绘又是绕不开的话题，这篇文章整理了一些基本定义、回流重绘常见的触发场景以及优化方案，希望能帮助到有需要的人 
+    Meteor是一款有10年历史基于NodeJs的全栈开发框架，他使用独特的DDP协议将服务端的Mongo和浏览器的Mini Mongo进行数据发布和同步，同时支持多端开发。 
     </details> 
 
-- 🕯 [活动报名｜9月24日 Apache Flink Meetup · 北京站，Flink 1.16 新版本发布！](https://juejin.cn/post/7145662900894433310) | Wed Sep 21 2022 3:01 AM 
+- 🕯 [哦买噶！李佳琦重现淘宝直播间！机器学习工程师的提效神器；『优化导论』高清版电子书；『IE521 凸优化』课程资料 | ShowMeAI资讯日报](https://juejin.cn/post/7145686389231714341) | Wed Sep 21 2022 4:34 AM 
     <details><summary>展开描述 ...</summary> 
-    Flink 1.16 新版本 x Flink Table Store 0.2 发布！线下交流+线上直播同步开启 
+    Peacasso 使用文本/图像进行AI绘画、Zotero PDF 预览插件、Humre 可读性更好的Python正则模块、Neovim ASCII 框图自动转换插件、图强化学习资源列表、视频域自适应 
     </details> 
 
-- 🚀 [Fabric.js 铅笔笔刷](https://juejin.cn/post/7145662816022691847) | Wed Sep 21 2022 3:01 AM 
+- 🚀 [某车联网App 通讯协议加密分析&lpar;四&rpar; Trace Code](https://juejin.cn/post/7145679006069686302) | Wed Sep 21 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
-    🦄 fabric.js 的铅笔其实是继承基础画笔的一个工具，在基础画笔的基础上多了“拐角平滑度”等配置项。 本文讲解铅笔的基础用法以及常用事件。 
+    一、目标 之前我们已经通过Trace Block 来比对了Unidbg和App跑的结果。现在他们运行的流程都差不多了，但是结果还是不对，今天我们就要通过Trace Code进行更细致的对比。 v6.1 
     </details> 
 
-- 💪 [【代码大全】精华总结之利用隐喻加深编程理解&lpar;3&rpar;](https://juejin.cn/post/7145662769809850398) | Wed Sep 21 2022 3:01 AM 
+- 💪 [OpenSergo &amp; CloudWeGo 共同保障微服务运行时流量稳定性](https://juejin.cn/post/7145676397682360357) | Wed Sep 21 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-    1、目的 继续阅读 代码大全这本书 将有效的 部分 拿出来 给大家分享一下 2、什么是软件隐喻？ 简单讲 使用更加形象的例子/比喻来说明 当前研究的理论/代码 3、如何使用软件隐喻？ 增量开发 非常  
+    简介： 流控降级与容错是微服务流量治理中的重要的一环，同时 MSE 还提供更广范围、更多场景的微服务治理能力，包括全链路灰度、无损上下线、微服务数据库治理、日志治理等一系列的微服务治理能力。 作者：宿 
     </details> 
 <!-- juejin:END -->
 ### 少数派
