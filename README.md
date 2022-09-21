@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [TechRax实测iPhone 14车祸检测功能：确实有用！](https://www.cnbeta.com/articles/tech/1319031.htm) | Wed Sep 21 2022 11:06 AM 
+- 🕯 [Goal Zero推出Sherpa 100AC与100PD移动电源新品](https://www.cnbeta.com/articles/tech/1319059.htm) | Wed Sep 21 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;以日常毁坏而被大家所熟知的 TechRax，近日在油管频道上分享了一支 iPhone 14“车祸检测”功能的实测视频。&lt;strong&gt;结果发现，这项新引入的 SOS 急救功能，确实可以在车辆发生严重碰撞时可靠地启动。&lt;/strong&gt;不过出于安全的考虑，测试团队还是选择了远程控制一辆“无人驾驶”汽车的方式，并将一部 iPhone 14 Pro 绑在了驾驶座头枕上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Goal Zero 刚刚推出了两款移动电源新品，分别是 Sherpa 100AC 和 100PD 。&lt;strong&gt;该系列新品主打更大的功率和灵活性，且内置的 94.72 Wh 电芯容量正好没有超过航空运输的上限。&lt;/strong&gt;如果你想要在旅途中长时间使用 MacBook、或意外停电时继续工作，那 Sherpa 100 系列显然是个不错的选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [比亚迪通过eBus平台将超安全的刀片电池带入欧洲商用电动汽车领域](https://www.cnbeta.com/articles/tech/1319029.htm) | Wed Sep 21 2022 10:29 AM 
+- 💼 [小摩：预计到2025年苹果将把四分之一iPhone生产转移到印度](https://www.cnbeta.com/articles/tech/1319057.htm) | Wed Sep 21 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在本周德国 IAA 交通运输公司的一次演讲中，中国电动车企比亚迪一口气分享了大量的商用电动汽车技术，且它们将率先登陆欧洲市场。&lt;strong&gt;其中最吸引人的，莫过于名为 eBus 的新平台 —— 特点是采用了该公司耐用的刀片电池（目前主要用于 EV 乘用车）提供动力。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;摩根大通分析师周三表示，到2025年，苹果&lpar;AAPL.US&rpar;可能会将四分之一的iPhone生产转移到印度。摩根大通预计，这家科技巨头将从2022年底开始把约5%的iPhone 14产量转移到印度。另外，该行估计，到2025年，包括Mac、iPad、Apple Watch和AirPods在内的所有苹果产品的约25%将在中国以外的市场生产，而目前这一比例为5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [大宇与Sandbox合作 《仙剑》《大富翁》进驻元宇宙](https://hot.cnbeta.com/articles/game/1319027.htm) | Wed Sep 21 2022 10:15 AM 
+- 💂 [《赛博朋克2077》RTX 4090比3080Ti快2.5倍](https://hot.cnbeta.com/articles/game/1319055.htm) | Wed Sep 21 2022 12:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日大宇资讯宣布与Sandbox合作，《仙剑奇侠传》和《大富翁》进驻元宇宙。大宇购买虚拟土地以打造“Softstar Meta Park”，将经典和未来的故事都导入Web 3.0生态系统。Sandbox玩家将获得东方幻想的仙侠体验，《仙剑奇侠传》李逍遥、赵灵儿、林月如，以及《大富翁》孙小美、金贝贝等都将陪伴粉丝进行冒险。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;外媒Digital Foundry拿到了RTX 4090显卡并发布了前瞻预告，有趣的是他们在视频中展望了RTX 4090带来的性能提升。在视频中，《赛博朋克2077》被在i9 12900K和RTX 4090配置上进行了测试。虽然没有透露具体的帧数测试方式，但DF透露以原生4K作为参考标准，DLSS 2性能提升了266%，而DLSS 3的帧数世代AI网络帮助其性能提升了接近441%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软Xbox精英手柄2代青春版 今日国行正式开售](https://hot.cnbeta.com/articles/game/1319025.htm) | Wed Sep 21 2022 10:14 AM 
+- 🚀 [小鹏G9上市 售价30.99万元起](https://www.cnbeta.com/articles/tech/1319053.htm) | Wed Sep 21 2022 12:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国行Xbox Elite无线控制器2代青春版今日（9月21日）正式发售，建议零售价为999元。Xbox Elite无线控制器2代配件包将于9月28日发售，建议零售价419元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月21日晚间，小鹏G9正式上市，&lt;strong&gt;共推出6款车型，售价区间30.99-46.99万元，将于10月份正式交付。&lt;/strong&gt;购车权益方面，9月21日-10月31日购买小鹏G9的用户，将享受5000元订金抵扣10000元车款、首任非营运车主终身每年1500度自营站电卡等权益。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Arm被收购吸引力降低 业内人士称三星电子SK海力士不可能收购](https://www.cnbeta.com/articles/tech/1319023.htm) | Wed Sep 21 2022 10:11 AM 
+- 🎊 [小鹏公布G9充电实测表现 称全方位碾压特斯拉Model Y](https://www.cnbeta.com/articles/tech/1319051.htm) | Wed Sep 21 2022 12:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英伟达2020年9月13日宣布的400亿美元收购Arm的交易，由于在监管方面面临重大挑战，最终以失败告终，英伟达和Arm的拥有者软银集团，在今年2月14日宣布终止收购交易。虽然英伟达已终止收购，但在全球芯片领域影响力巨大的Arm，仍是众多公司收购或投资的目标，英特尔CEO帕特·基辛格此前在接受采访时就曾表示，如果出现一个财团，他们可能非常愿意以某种方式参与其中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月21日，小鹏全新旗舰SUV车型G9正式上市，G9是国内首款基于800V高压SiC平台的量产车，可实现充电5分钟，续航200公里的充电速度，堪比加油，其&lt;strong&gt;也是全球充电最快的量产电动车&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
