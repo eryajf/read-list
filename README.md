@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究称沿海城市下沉快于海平面上升：有的超20毫米、天津排名靠前](https://www.cnbeta.com/articles/tech/1319075.htm) | Wed Sep 21 2022 1:44 PM 
+- 🕯 [2022年高端智能手机表现抢眼 推升全球智能手机平均售价增长10%](https://www.cnbeta.com/articles/tech/1319087.htm) | Wed Sep 21 2022 2:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着全球变暖持续和加剧，尤其是随之而来的冰川融化，海平面上升问题一直备受关注，&lt;strong&gt;全球海平面平均每年上升约3.7毫米。&lt;/strong&gt;但一项最新研究显示，48个人口最多的沿海城市几乎全部面临下沉速度超过海平面上升速度的危险。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月21日消息，根据市场研究机构Strategy Analytics 最新发布研究报告《全球智能手机收益、ASP 和价格段预测：2008-2027》指出，全球智能手机批发收益将在 2022 年同比增长 2%，主要受苹果、三星和其他手机厂商的高端机型组合的推动，ASP（平均售价）将同比增长10%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14 Pro和iPhone 13 Pro相机拆解对比 显示主传感器巨大尺寸差异](https://www.cnbeta.com/articles/tech/1319073.htm) | Wed Sep 21 2022 1:42 PM 
+- 💼 [何小鹏：G9是智能车迈向无人驾驶汽车前的最后一代](https://www.cnbeta.com/articles/tech/1319085.htm) | Wed Sep 21 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&amp;nbsp;在持续使用1200万像素的传感器很多代之后，苹果终于为iPhone 14 Pro和iPhone 14 Pro Max升级了4800万像素，而且尺寸更大，原因显而易见。&lt;strong&gt;这种差异可以在最新的拆解对比中看到，显示出iPhone 13 Pro的摄像头与它的直接继任者放在一起时是多么小。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月21日消息，今天，小鹏G9正式上市。小鹏汽车董事长CEO何小鹏表示，G9是这个时代的标杆，也是智能汽车迈向无人驾驶汽车前的最后一代。小鹏G9共有三个续航版本，包括570G、570E、702E、650E性能版、650X性能版、650X上市纪念版，共六款车型。新车售价30.99-46.99万元，并将于2022年10月底开始正式交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [曾被举报危险驾驶 《王者荣耀》戴头盔的关羽新皮肤公布](https://hot.cnbeta.com/articles/game/1319071.htm) | Wed Sep 21 2022 1:42 PM 
+- 💂 [赵明：荣耀要打造核心的根技术 合作效率低时将开发自己的芯片和操作系统](https://www.cnbeta.com/articles/tech/1319083.htm) | Wed Sep 21 2022 2:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日，《王者荣耀》官方公布了关羽“赤影疾锋”新皮肤的实机演示，新增了5项优化。据介绍，关羽“赤影疾锋”增加了更符合人设的细节设计，&lt;strong&gt;包括增加头盔、车牌等元素，武器设定调整为火焰喷射器，&lt;/strong&gt;官方称：“更符合异能者的人设，也更契合关羽千里追击作恶者们的主题故事”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;荣耀CEO赵明近日在接受媒体采访时表示，荣耀会坚持在底层技术上进行突破和创新，打造核心的技术控制点和竞争力。未来荣耀会深度参与到合作伙伴的SoC规划当中，把产品诉求和合作伙伴进行共享。他还表示，在行业当中通过合作伙伴解决效率低的，荣耀也会开发自己的芯片、操作系统以及很多专利和创新的技术，打造自己核心的根技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [​工信微报：1000Mbps及以上接入速率的固网宽带接入用户达7055万户](https://www.cnbeta.com/articles/tech/1319069.htm) | Wed Sep 21 2022 1:40 PM 
+- 🚀 [亚马逊发布2022年款Fire HD 8系列平板电脑 价格全线上涨10美元](https://www.cnbeta.com/articles/tech/1319081.htm) | Wed Sep 21 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月21日消息，据“工信微报”公布的数据显示，截至8月末，&lt;strong&gt;三家基础电信企业的固定互联网宽带接入用户总数达5.71亿户，&lt;/strong&gt;比上年末净增3523万户。其中，100Mbps及以上接入速率的固定互联网宽带接入用户达5.36亿户，占总用户数的93.8%，占比较上年末提升0.8个百分点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊今天宣布推出以Fire HD 8为首的四款新的8英寸Fire平板电脑，该公司声称其速度比2020年的前代产品快30%。这次它的起价也贵了10美元，为99.99美元。除了Fire HD 8，这家电商巨头还宣布了新的细分型号Fire HD 8 Plus、Fire HD 8 Kids和Fire HD 8 Kids Pro平板电脑。它们今天都可以预购，所有型号价格比以前贵10美元，将在下个月发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [2022深圳企业五百强公布：华为第三 比亚迪第十](https://www.cnbeta.com/articles/tech/1319067.htm) | Wed Sep 21 2022 1:40 PM 
+- 🎊 [摩托罗拉在NBA新赛季前与芝加哥公牛队达成合作关系](https://www.cnbeta.com/articles/tech/1319079.htm) | Wed Sep 21 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在最近几十年，深圳的发展非常迅速。曾几何时，它还是我国南海海边的小渔村，到如今，却已成为了国际化的大都市。而且，在这几十年的时间中，随着深圳市一起发展的，还有很多优秀的中国企业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;摩托罗拉公司和NBA芝加哥公牛队宣布，从2022-23赛季开始建立多年的合作关系，官方球队的球衣将采用标志性的摩托罗拉蝙蝠翼标志作为球衣的补丁。报道称，在10月4日与新奥尔良鹈鹕队的季前赛中，公牛队将首次亮相他们的新球衣。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
