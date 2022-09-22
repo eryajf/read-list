@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Pott&amp;#039;d - 风干陶器套装，适合约会之夜或与朋友共度时光](https://xinquji.com/posts/179733?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:29 AM 
+- 👀 [Orion Swap Widget - Defi 交易小部件可在任何网页上访问加密货币](https://xinquji.com/posts/179739?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     风干陶器套装，适合约会之夜或与朋友共度时光  
+     Defi 交易小部件可在任何网页上访问加密货币  
     </details> 
 
-- 🥷 [RoEx Automix - 人工智能驱动的音乐制作和发行工具](https://xinquji.com/posts/179732?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:27 AM 
+- 🥷 [ZoZo App - 使用键盘快捷键提高您的日常工作效率](https://xinquji.com/posts/179738?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     人工智能驱动的音乐制作和发行工具  
+     使用键盘快捷键提高您的日常工作效率  
     </details> 
 
-- 💼 [Dwellin - 维护您的家园，维护我们的星球](https://xinquji.com/posts/179731?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:27 AM 
+- 💼 [Growth Scanner - 解锁您的数据洞察力以做出更好的业务决策](https://xinquji.com/posts/179737?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     维护您的家园，维护我们的星球  
+     解锁您的数据洞察力以做出更好的业务决策  
     </details> 
 
-- 🦅 [Knock ID - 只需轻按一下即可立即访问您的医疗信息](https://xinquji.com/posts/179730?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:25 AM 
+- 🦅 [Picssy - 在您的朋友组中共享的相册](https://xinquji.com/posts/179736?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     只需轻按一下即可立即访问您的医疗信息  
+     在您的朋友组中共享的相册  
     </details> 
 
-- 😺 [Super CMMS - 使资产、工作订单和库存管理变得超级简单](https://xinquji.com/posts/179729?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:24 AM 
+- 😺 [Stacks - 解决书签丢失问题](https://xinquji.com/posts/179735?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     使资产、工作订单和库存管理变得超级简单  
+     解决书签丢失问题  
     </details> 
 <!-- xinquji:END -->
