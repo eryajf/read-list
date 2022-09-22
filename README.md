@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Dataherald - 为您的业务提供数千个 Zillow 风格的 SEO 登录页面](https://xinquji.com/posts/179704?utm_campaign=xinquji-rss) | Thu Sep 22 2022 6:33 AM 
+- 👀 [Pott&amp;#039;d - 风干陶器套装，适合约会之夜或与朋友共度时光](https://xinquji.com/posts/179733?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     为您的业务提供数千个 Zillow 风格的 SEO 登录页面  
+     风干陶器套装，适合约会之夜或与朋友共度时光  
     </details> 
 
-- 🥷 [Shosho - 撰写、编辑、协作和发布您的故事。](https://xinquji.com/posts/179703?utm_campaign=xinquji-rss) | Thu Sep 22 2022 6:30 AM 
+- 🥷 [RoEx Automix - 人工智能驱动的音乐制作和发行工具](https://xinquji.com/posts/179732?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     撰写、编辑、协作和发布您的故事。  
+     人工智能驱动的音乐制作和发行工具  
     </details> 
 
-- 💼 [Kotor Color Picker - 稍后在菜单栏上抓取颜色、收集和使用](https://xinquji.com/posts/179702?utm_campaign=xinquji-rss) | Thu Sep 22 2022 6:28 AM 
+- 💼 [Dwellin - 维护您的家园，维护我们的星球](https://xinquji.com/posts/179731?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     稍后在菜单栏上抓取颜色、收集和使用  
+     维护您的家园，维护我们的星球  
     </details> 
 
-- 🦅 [Dope Music - 专注于工作环境的音乐](https://xinquji.com/posts/179701?utm_campaign=xinquji-rss) | Thu Sep 22 2022 6:28 AM 
+- 🦅 [Knock ID - 只需轻按一下即可立即访问您的医疗信息](https://xinquji.com/posts/179730?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     专注于工作环境的音乐  
+     只需轻按一下即可立即访问您的医疗信息  
     </details> 
 
-- 😺 [GrowthStash - 为独立制作者提供 60 多种增长黑客工具和资源](https://xinquji.com/posts/179700?utm_campaign=xinquji-rss) | Thu Sep 22 2022 6:26 AM 
+- 😺 [Super CMMS - 使资产、工作订单和库存管理变得超级简单](https://xinquji.com/posts/179729?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     为独立制作者提供 60 多种增长黑客工具和资源  
+     使资产、工作订单和库存管理变得超级简单  
     </details> 
 <!-- xinquji:END -->
