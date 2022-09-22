@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [小白保姆级实现--网页引导教程](https://juejin.cn/post/7146127754562863117) | Thu Sep 22 2022 9:05 AM 
+- 🤗 [docker报error during connect](https://juejin.cn/post/7146151632437739534) | Thu Sep 22 2022 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-    1、目的 有同学问 网页引导怎么做？ 出个简单实用的教程，肯定可以帮到你 2、部署步骤 使用 Intro.js 官网 cdn 位置 Hello World! 代码示例 3、效果展示 初始样子 点击ne 
+    这种错误只在windows系统上才有，完整的错误信息如下: error during connect: In the default daemon configuration on Windows,  
     </details> 
 
-- 🎡 [使用 Node.js 多进程提高任务执行效率](https://juejin.cn/post/7146125698225635335) | Thu Sep 22 2022 8:57 AM 
+- 🎡 [深度解析字节跳动云数据仓库：ByteHouse | 第八期字节跳动技术沙龙来啦！](https://juejin.cn/post/7146137020786540574) | Thu Sep 22 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
-    最近我有个学员写了个 Node.js 脚本程序，定时从某个服务器下载文件，并向另一个云服务商上传文件。 但是每次只能先下载一个文件，再去上传一个文件。效率比较低。于是他向我请教，怎么样才能提高效率？ 
+    深度解析字节跳动云数据仓库：ByteHouse | 第八期字节跳动技术沙龙来啦！在 2016 年正式开源后，ClickHouse 这个大数据计算引擎里的后起之秀开始在一众“前辈”面前崭露头角。 
     </details> 
 
-- 🕯 [java中使用interrupt通知线程停止](https://juejin.cn/post/7146124381147070495) | Thu Sep 22 2022 8:52 AM 
+- 🕯 [Kafka 科普](https://juejin.cn/post/7146133960865611806) | Thu Sep 22 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    java中使用interrup来通知线程停止运行，而不是强制停止！使用 thread.interrupt&lpar;&rpar; 通知线程停止 但是线程需要配合 
+    本文主要介绍Kafka基本知识，包含Topic、Partition、消费者、生产者、副本等基本概念，同时也介绍了Kafka版本变迁以及应用实战所必备的知识点，最后以“消息可靠性分析“结尾，加深理解。 
     </details> 
 
-- 🚀 [动态规划Ⅱ（使用最小花费爬楼梯，不同路径）](https://juejin.cn/post/7146123929935937549) | Thu Sep 22 2022 8:51 AM 
+- 🚀 [Kafka 科普](https://juejin.cn/post/7146133625648447495) | Thu Sep 22 2022 9:28 AM 
     <details><summary>展开描述 ...</summary> 
-    动态规划Ⅱ（使用最小花费爬楼梯，不同路径）使用到动态规划，深搜，数论方法。总结：动态规划五部曲，以及代码不能AC怎么办 
+    本文主要介绍了Kafka基本知识，包含Topic、Partition、消费者、生产者、副本等基本概念，同时也介绍了Kafka版本变迁以及应用实战所必备的知识点，最后以“消息可靠性分析”结尾，加深理解。 
     </details> 
 
-- 💪 [一文清晰讲明白DDD（领域驱动设计）的知识点](https://juejin.cn/post/7146116779905908772) | Thu Sep 22 2022 8:22 AM 
+- 💪 [如何编写高质量代码](https://juejin.cn/post/7146133151100698632) | Thu Sep 22 2022 9:26 AM 
     <details><summary>展开描述 ...</summary> 
-    DDD（领域驱动设计）是一种处理高度复杂领域的设计思想，是一种架构设计方法论，是一种设计模式。以高内聚低耦合为目的。 
+    首先对高质量代码的定义脑海中大致可以体现一下这些： 如何编写高质量代码可以从架构设计、组件设计探讨 目前的架构基本上都是mvvm的架构：主流框架有reactJS、vueJS、angularJS等。 技 
     </details> 
 <!-- juejin:END -->
 ### 少数派
