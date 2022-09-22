@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究：自动紧急制动系统在防止正常速度下的撞车上表现并不出色](https://www.cnbeta.com/articles/tech/1319355.htm) | Thu Sep 22 2022 6:00 AM 
+- 🕯 [澳洲安全专家：男性更追求刺激 应将驾照年龄提升至21岁](https://www.cnbeta.com/articles/tech/1319401.htm) | Thu Sep 22 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据美国汽车协会&lpar;AAA&rpar;的新研究，自动紧急制动&lpar;AEB&rpar;在防止低速追尾碰撞方面表现相当不错，但当车辆以更正常的速度行驶时就有点糟糕了。从2022年9月开始，所有在美国销售的新车都必须标配AEB系统，该系统通过使用面向前方的摄像头和其他传感器在即将发生碰撞时自动应用刹车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;海外一些国家，因为家庭有车率较高，因而对于考取驾照的年龄限制不高，例如澳大利亚16就算作是成年，可以考取驾照。&lt;strong&gt;不过近日，澳大利亚新南威尔士州的一些道路安全专家却提出了不同的意见，他们声称，男性应该被禁止在21岁之前获得驾驶执照。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [CAPSTONE航天器更新：团队正朝着恢复操作取得进展](https://www.cnbeta.com/articles/science/1319353.htm) | Thu Sep 22 2022 6:00 AM 
+- 💼 [还没彻底决裂？NV RTX 4090演示平台用了EVGA主板、电源](https://www.cnbeta.com/articles/tech/1319399.htm) | Thu Sep 22 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月8日晚，美国宇航局（NASA）的“地月自主定位系统技术操作和导航实验”&lpar;CAPSTONE&rpar;执行了一次计划中的轨道修正机动。在该演习接近尾声时发生了一个问题，使CAPSTONE进入安全模式。随后，导航数据显示，航天器正在翻滚。任务控制人员发现，机载计算机系统正在定期重置。&lt;strong&gt;最初的恢复工作集中在改善太阳能和推进系统的加热，以恢复温度到工作极限以上。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周北美知名品牌EVGA宣布终止与NVIDIA的合作关系，退出显卡市场，这部分业务占了他们营收的75%以上，竟然直接放弃不做了，这可是显卡显卡石破天惊的大事。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科学家们开发出一种或能治疗帕金森病的纳米抗体](https://www.cnbeta.com/articles/science/1319351.htm) | Thu Sep 22 2022 5:53 AM 
+- 💂 [新疆多地拍到巨大发光不明飞行物：速度飞快](https://www.cnbeta.com/articles/tech/1319397.htm) | Thu Sep 22 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;免疫系统使用被称为抗体的蛋白质来检测和攻击入侵的病原体。被称为纳米抗体的迷你版--骆驼和鲨鱼等动物血液中的天然化合物--正在被研究用于治疗自身免疫性疾病和癌症。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近年来不明飞行物（UFO）在全球多地都有上演，昨天还在新疆多地出现了一起类似事件。据多名网友透露，&lt;strong&gt;9月21号晚上10点左右，在新疆福海县天空出现不明飞行物，它甚至还发出巨大的白光，拖着长长的尾巴的感觉。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果新专利：未来的折叠式iPhone可自行修复折痕](https://www.cnbeta.com/articles/tech/1319349.htm) | Thu Sep 22 2022 5:46 AM 
+- 🚀 [加拿大正开发全球最大的地热潟湖](https://www.cnbeta.com/articles/tech/1319395.htm) | Thu Sep 22 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;目前折叠屏手机越来越受大众欢迎，厂商都开始在该领域发力。&lt;strong&gt;苹果一项名为“具有柔性显示屏覆盖层的电子设备”新专利近日曝光。&lt;/strong&gt;苹果的折叠机相信有很多人都在期待，但是何时发布一直是个疑问，不过从苹果的诸多消息来看，其折叠屏一直在研发之中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;加拿大正计划建设一个宏伟的露天潟湖，通过湖底下方的大型“Thermos”加热系统，全年保持温暖的温度。&lt;/strong&gt;这个项目称之为 geoLagon，设计建成全球和自然景观融为一体的最大露天温泉，并在周边配套建设数百幢小木屋，形成一个完全能源自给自足的村庄。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [百度发布小度配送机器人：强大对话能力 全程无接触配送](https://www.cnbeta.com/articles/tech/1319347.htm) | Thu Sep 22 2022 5:44 AM 
+- 🎊 [Parallels Desktop 18 启动75折促销 10月3日前有效](https://prf.hn/l/7g85NRa) | Thu Sep 22 2022 6:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月12日消息，百度发布了新一代小度配送机器人，&lt;strong&gt;由百度大脑联合小度科技打造，另有飞桨文心大模型AI加持，为智慧酒店提供新选择。&lt;/strong&gt;据介绍，配送服务是该款机器人最核心的功能。小度配送机器人针对配送全流程进行体验优化，真正实现了全程无接触配送。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Parallels Desktop 18版本今年的首次促销：限时75折活动已经在官网开始了。统一优惠码：&lt;span style=&quot;color: rgb&lpar;192, 0, 0&rpar;;&quot;&gt;GW2022 &lt;/span&gt;&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;促销时间2022年9月22日00:00 AM – 2022年10月3日23:59 PM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;访问活动入口：&lt;/strong&gt;&lt;a href=&quot;https://prf.hn/l/7g85NRa&quot; target=&quot;_blank&quot; style=&quot;color: rgb&lpar;192, 0, 0&rpar;; text-decoration: underline;&quot;&gt;&lt;span style=&quot;color: rgb&lpar;192, 0, 0&rpar;;&quot;&gt;Parallels Desktop 18 促销页面&lt;/span&gt;&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://prf.hn/l/7g85NRa&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
