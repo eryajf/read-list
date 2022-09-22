@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [WidsMob Montage 2.24 蒙太奇图片制作](https://xclient.info/s/widsmob-montage.html) | Wed Sep 21 2022 12:10 AM 
+- 🦏 [Boxy SVG 3.89.7 矢量图编辑器](https://xclient.info/s/boxy-svg.html) | Thu Sep 22 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
-    WidsMob Montage 是一款能轻松制作蒙太奇图片的软件！简单滴说就是一张图片的组成是由许多小图片拼贴而成的，这样的画面非常有意思。 
+    Boxy SVG是一款支持SVG和SVGZ两种格式的矢量图片编辑软件，拥有丰富的功能和特色，可以帮助大家制作任何矢量图，内置多个快捷键，用起来非常的方便。 
     </details> 
 
--  [Forklift 3.5.8 远程/本地文件管理利器](https://xclient.info/s/forklift.html) | Wed Sep 21 2022 12:09 AM 
+-  [Capture One 22 Pro 15.4.0.22  一款专业的RAW文件转换器和图像编辑软件](https://xclient.info/s/capture-one-pro.html) | Thu Sep 22 2022 12:51 AM 
     <details><summary>展开描述 ...</summary> 
-    Forklift 不仅是强大的文件管理器，还附带 FTP 远程文件管理功能 
+    CAPTURE ONE PRO 是一款专业的RAW文件转换器和图像编辑软件，拥有核心运算技术,作为拍摄支持软件系统后期处理的核心。是独立的相片编辑软件，可以转换数码相机所拍摄出来的RAW图像格式以及提代相片的处理流程，它是代表RAW工作流程软件的新世纪, 同时也代表了一个RAW转换变程的新处理方法。 
     </details> 
 
-- ⚗️ [Claris FileMaker Pro 19.5.4.401 低代码开发工具](https://xclient.info/s/claris-filemaker-pro.html) | Wed Sep 21 2022 12:08 AM 
+- ⚗️ [Integrity Pro 12.4.5 网站死链清理优化检测器](https://xclient.info/s/integrity-pro.html) | Thu Sep 22 2022 12:47 AM 
     <details><summary>展开描述 ...</summary> 
-    Claris FileMaker Pro是一种拥有专业级编程功能的低代码开发工具。您无需过多开发者的种种编程技能，即可转化为自己的应用 
+    Integrity Pro是一款Mac上的网站链接检测软件，能通过您所输入的网址找到已经损坏的链接，并且在完成之后还能以xml、dot和csv格式来生成站点地图。 
     </details> 
 
-- 🔥 [Art Text 4.1.3_938_f 简单易用的艺术文字图标设计工具](https://xclient.info/s/art-text.html) | Wed Sep 21 2022 12:07 AM 
+- 🔥 [Progressive Downloader 5.4 Mac下载工具，支持断点续传](https://xclient.info/s/progressive-downloader.html) | Thu Sep 22 2022 12:46 AM 
     <details><summary>展开描述 ...</summary> 
-    Art Text 是一款Mac平台上简单易用的艺术文字和图标设计软件 
+    Progressive Downloader 是一款 Mac OS X 上的下载工具，支持断点续传 
     </details> 
 
-- 🌋 [Scrutiny 12.4.4 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Tue Sep 20 2022 12:44 AM 
+- 🌋 [Cardhop 2.2.1 通讯录管理](https://xclient.info/s/cardhop.html) | Thu Sep 22 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
+    Cardhop是Mac平台上的一款通讯录管理工具。CardhopMac版拥有一个的神奇的搜索引擎，显示搜索非常直观。简单的句子搜索、添加、编辑和添加联系人都变的十分便捷 
     </details> 
 <!-- xclient:END -->
 
