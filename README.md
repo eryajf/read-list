@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [攻击洛杉矶学区的黑客团伙向校方发出赎金要求](https://www.cnbeta.com/articles/tech/1319551.htm) | Thu Sep 22 2022 1:54 PM 
+- 🕯 [复制iPhone 14 Pro灵动岛的Android应用dynamicSpot在Play Store发布](https://www.cnbeta.com/articles/tech/1319565.htm) | Thu Sep 22 2022 3:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据洛杉矶联合学区（LAUSD）校长说，在劳动节周末用勒索软件袭击该学区的黑客现在已经发出了赎金要求。&lt;/strong&gt;周二，校长Alberto Carvalho告诉《洛杉矶时报》，黑客已经提出了要求，但学区还没有回应，校方拒绝透露所要求的金额。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;iPhone 14 Pro的灵动岛复制版已经以一个名为&amp;quot;dynamicSpot&amp;quot;的应用程序的形式出现在Android手机Google Play商店。该应用程序仍处于测试阶段，它可以在智能手机的顶部为用户提供几种不同的体验。&lt;/strong&gt;根据该应用的描述，在目前的形式下，dynamicSpot提供了歌曲的播放控制、计时器、电池状态以及即将推出的更多功能，dynamicSpot甚至还提供了苹果灵动岛所没有的定制功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家在银河系超大质量黑洞周围探测到热气泡](https://www.cnbeta.com/articles/science/1319549.htm) | Thu Sep 22 2022 1:50 PM 
+- 💼 [Satechi推出带2.5G以太网的USB-4多端口适配器](https://www.cnbeta.com/articles/tech/1319563.htm) | Thu Sep 22 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;天文学家利用阿塔卡马大型毫米/亚毫米阵列（ALMA）发现了围绕人马座A*黑洞运行的热点&amp;quot;，&lt;/strong&gt;这是我们银河系中心的黑洞。这一发现有助于我们更好地了解我们的超大质量黑洞的神秘和动态环境。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;电脑配件公司Satechi刚刚宣布了其最新的USB集线器，它支持USB 4，并被设计用于苹果MacBook和其他使用这一最新连接标准的笔记本电脑。&lt;/strong&gt;带2.5G以太网的USB-4多端口适配器的设计是为了提供更大的连接性，拥有完整的工作或家庭设置所需的所有端口。此外，该6合1适配器使用下一代USB-4协议，提供升级的带宽管理和数据传输，使文件能够更快地被访问。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [RTX 40发布AMD秒懂 RX 6000显卡全系官降：一下便宜2千块](https://www.cnbeta.com/articles/tech/1319547.htm) | Thu Sep 22 2022 1:47 PM 
+- 💂 [英国为前往挪威、冰岛的旅行者达成了手机漫游费上限的贸易协定](https://www.cnbeta.com/articles/tech/1319561.htm) | Thu Sep 22 2022 3:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着RTX 40系显卡的发布，AMD很知趣地下调了RX 6000系列显卡的官方建议零售价。据了解，AMD在9月15日敲定了RX 6000系列显卡的新零售价，部分经销商已经开始执行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;英国居民前往挪威或冰岛旅行时，他们的移动漫游费很快就会有上限，这是两国之间最近达成的贸易协议的一部分。&lt;/strong&gt;英国去年7月与挪威、冰岛和列支敦士登签署了一项自由贸易协定，这三个市场的显著特点是，它们不是欧盟（EU）的成员，而是邻近的欧洲经济区（EEA）的成员，该区域基本上将欧盟的单一市场扩展到欧洲自由贸易联盟（EFTA）的另外几个国家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google发布入门款Chromecast 支持HD流媒体、售价30美元含遥控器](https://www.cnbeta.com/articles/tech/1319545.htm) | Thu Sep 22 2022 1:15 PM 
+- 🚀 [车窗反转系统存故障 特斯拉将在美国召回近110万辆汽车](https://www.cnbeta.com/articles/tech/1319559.htm) | Thu Sep 22 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Google今天宣布了一款支持高清流媒体的新Chromecast电视棒设备，价格仅为30美元，而且还有一个遥控器。该公司将在包括美国在内的19个国家推出支持Google电视（HD）的Chromecast。&lt;/strong&gt;这是在Google推出49美元的Chromecast，支持4K HDR流媒体并推出遥控器的两年后发布的仅t支持1080p视频流的Chromecast设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉宣布将在美国召回近110万辆汽车，原因是其车窗自动反转系统存在故障，在检测到障碍物后可能无法做出正确反应。此次召回的车型包括部分2017至2022年生产的Model 3、2020至2021年生产的Model Y以及2021年至2022年生产的Model S和Model X。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [约230头鲸鱼在澳大利亚搁浅：只有35头活了下来](https://www.cnbeta.com/articles/tech/1319543.htm) | Thu Sep 22 2022 1:10 PM 
+- 🎊 [日本政府24年来首次干预汇市阻止日元贬值](https://www.cnbeta.com/articles/tech/1319557.htm) | Thu Sep 22 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;鲸鱼大规模搁浅的事情并不罕见，但在澳大利亚的斯马尼亚西岸，近日竟有多达约230头鲸鱼搁浅，而且大部分都死亡了。据悉，这次搁浅的是领航鲸，&lt;strong&gt;截止当地时间9月21日只剩下35头还活着，抢救任务异常艰巨。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由于日元对美元汇率出现剧烈波动，日本财务省22日宣布对汇市进行干预，以阻止日元进一步贬值。这是日本政府自1998年6月以来首次干预汇市。美国联邦储备委员会21日宣布再度加息75个基点，并暗示加息或将持续至明年。受此影响，22日东京外汇市场日元对美元汇率显著走软。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
