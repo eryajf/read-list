@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [澳洲安全专家：男性更追求刺激 应将驾照年龄提升至21岁](https://www.cnbeta.com/articles/tech/1319401.htm) | Thu Sep 22 2022 7:08 AM 
+- 🕯 [疑似Surface Studio 3通过FCC认证 或于今年亮相](https://www.cnbeta.com/articles/tech/1319421.htm) | Thu Sep 22 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;海外一些国家，因为家庭有车率较高，因而对于考取驾照的年龄限制不高，例如澳大利亚16就算作是成年，可以考取驾照。&lt;strong&gt;不过近日，澳大利亚新南威尔士州的一些道路安全专家却提出了不同的意见，他们声称，男性应该被禁止在21岁之前获得驾驶执照。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据多方谣传和近期披露的 FCC 文档，微软可能会在 10&amp;nbsp; 月更新 Surface Pro 和 Surface Laptop 产品线。本周早些时候，国外科技媒体 Windows Lastest 从 FCC 官网，发现了一款称之为“Desktop Computer”（C3K2043）的神秘设备，疑似 Surface Studio 3。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [还没彻底决裂？NV RTX 4090演示平台用了EVGA主板、电源](https://www.cnbeta.com/articles/tech/1319399.htm) | Thu Sep 22 2022 7:05 AM 
+- 💼 [微软希望人们在面对网上的假新闻时能自己区分真假](https://www.cnbeta.com/articles/tech/1319419.htm) | Thu Sep 22 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周北美知名品牌EVGA宣布终止与NVIDIA的合作关系，退出显卡市场，这部分业务占了他们营收的75%以上，竟然直接放弃不做了，这可是显卡显卡石破天惊的大事。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据MSPoweruser报道，网络世界的不断发展使每个人都面临着一个巨大的挑战：虚假信息。但是，当不同的公司正试图控制和消除网络和其平台上的假新闻时，&lt;strong&gt;微软宣布它将采取一条不同的道路--让人们决定区分什么是真的和假的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新疆多地拍到巨大发光不明飞行物：速度飞快](https://www.cnbeta.com/articles/tech/1319397.htm) | Thu Sep 22 2022 7:05 AM 
+- 💂 [今年Galaxy Z Fold 4/Z Flip 4出货量将无法达到三星预期](https://www.cnbeta.com/articles/tech/1319417.htm) | Thu Sep 22 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近年来不明飞行物（UFO）在全球多地都有上演，昨天还在新疆多地出现了一起类似事件。据多名网友透露，&lt;strong&gt;9月21号晚上10点左右，在新疆福海县天空出现不明飞行物，它甚至还发出巨大的白光，拖着长长的尾巴的感觉。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;消息称三星希望凭借着近期推出的 Galaxy Z Fold 4 和 Galaxy Z Flip 4，将今年可折叠设备出货量设定为 1500 万台。&lt;/strong&gt;不过最新行业预估显示，三星可能无法在年内实现这个目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [加拿大正开发全球最大的地热潟湖](https://www.cnbeta.com/articles/tech/1319395.htm) | Thu Sep 22 2022 7:04 AM 
+- 🚀 [Instagram终于决定打造可自动拦截冒犯性内容的私信图片过滤器](https://www.cnbeta.com/articles/tech/1319415.htm) | Thu Sep 22 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;加拿大正计划建设一个宏伟的露天潟湖，通过湖底下方的大型“Thermos”加热系统，全年保持温暖的温度。&lt;/strong&gt;这个项目称之为 geoLagon，设计建成全球和自然景观融为一体的最大露天温泉，并在周边配套建设数百幢小木屋，形成一个完全能源自给自足的村庄。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了尽力保护 Instagram 用户免遭平台上泛滥的私密照请求，&lt;strong&gt;母公司 Meta 刚刚向外媒表示，在应用团队初步研究之后，Instagram 正在开发相关图像过滤器。&lt;/strong&gt;可知作为一款控件，Instagram 用户可选启用该工具，以保护自己免受此类骚扰消息的影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Parallels Desktop 18 启动75折促销 10月3日前有效](https://prf.hn/l/7g85NRa) | Thu Sep 22 2022 6:56 AM 
+- 🎊 [NVIDIA表态不会放弃RTX 30 远没有到消亡的地步](https://www.cnbeta.com/articles/tech/1319413.htm) | Thu Sep 22 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Parallels Desktop 18版本今年的首次促销：限时75折活动已经在官网开始了。统一优惠码：&lt;span style=&quot;color: rgb&lpar;192, 0, 0&rpar;;&quot;&gt;GW2022 &lt;/span&gt;&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;促销时间2022年9月22日00:00 AM – 2022年10月3日23:59 PM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;访问活动入口：&lt;/strong&gt;&lt;a href=&quot;https://prf.hn/l/7g85NRa&quot; target=&quot;_blank&quot; style=&quot;color: rgb&lpar;192, 0, 0&rpar;; text-decoration: underline;&quot;&gt;&lt;span style=&quot;color: rgb&lpar;192, 0, 0&rpar;;&quot;&gt;Parallels Desktop 18 促销页面&lt;/span&gt;&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://prf.hn/l/7g85NRa&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对显卡厂商来说，通常每次新品发布之前，上代产品都会降价清仓，否则等新品来了会导致上代产品卖不出去，然而今年的RTX 40系列显卡不同，NVIDIA现在发布了三款新品，但RTX 30系列显卡依然会存在。&lt;strong&gt;对于上代显卡的处理，NVIDIA发言人表示，RTX 3080曾经是、现在依然很有价值，它将继续存在，远没有到消亡的地步。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
