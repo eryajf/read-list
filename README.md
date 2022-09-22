@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Boxy SVG 3.89.7 矢量图编辑器](https://xclient.info/s/boxy-svg.html) | Thu Sep 22 2022 12:52 AM 
+- 🦏 [Mitti 2.2.4 专业视频回放解决方案](https://xclient.info/s/mitti.html) | Thu Sep 22 2022 2:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    Mitti 是一款macOS平台的功能强大且易于使用的专业视频回放解决方案，适用于剧院，视听表演，表演和展览，具有清晰，直观，整洁的用户界面，易于学习和使用的工作流程，在现代的64位低延迟音频之上，以及强大的GPU加速视频播放引擎。 
+    </details> 
+
+-  [WidsMob ImageConvert 3.23 图片格式转换工具](https://xclient.info/s/widsmob-imageconvert.html) | Thu Sep 22 2022 2:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    WidsMob ImageConvert 提供批量转换RAW、照片编辑、即时预览等功能。 
+    </details> 
+
+- ⚗️ [zFuse Pro 1.6.132 视频播放器](https://xclient.info/s/zfuse.html) | Thu Sep 22 2022 2:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    zFuse Pro 是Mac电脑上的一款简单而强大的视频播放器。 
+    </details> 
+
+- 🔥 [Allavsoft Video Downloader Converter 3.25.0.8298 视频下载工具](https://xclient.info/s/allavsoft-video-downloader-converter.html) | Thu Sep 22 2022 2:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    Allavsoft Video Downloader Converter 是一款运行在macOS平台上的视频下载软件，支持任何视频文件格式的转换，支持在任何移动设备上脱机播放下载的视频。 
+    </details> 
+
+- 🌋 [Boxy SVG 3.89.7 矢量图编辑器](https://xclient.info/s/boxy-svg.html) | Thu Sep 22 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
     Boxy SVG是一款支持SVG和SVGZ两种格式的矢量图片编辑软件，拥有丰富的功能和特色，可以帮助大家制作任何矢量图，内置多个快捷键，用起来非常的方便。 
-    </details> 
-
--  [Capture One 22 Pro 15.4.0.22  一款专业的RAW文件转换器和图像编辑软件](https://xclient.info/s/capture-one-pro.html) | Thu Sep 22 2022 12:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    CAPTURE ONE PRO 是一款专业的RAW文件转换器和图像编辑软件，拥有核心运算技术,作为拍摄支持软件系统后期处理的核心。是独立的相片编辑软件，可以转换数码相机所拍摄出来的RAW图像格式以及提代相片的处理流程，它是代表RAW工作流程软件的新世纪, 同时也代表了一个RAW转换变程的新处理方法。 
-    </details> 
-
-- ⚗️ [Integrity Pro 12.4.5 网站死链清理优化检测器](https://xclient.info/s/integrity-pro.html) | Thu Sep 22 2022 12:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    Integrity Pro是一款Mac上的网站链接检测软件，能通过您所输入的网址找到已经损坏的链接，并且在完成之后还能以xml、dot和csv格式来生成站点地图。 
-    </details> 
-
-- 🔥 [Progressive Downloader 5.4 Mac下载工具，支持断点续传](https://xclient.info/s/progressive-downloader.html) | Thu Sep 22 2022 12:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    Progressive Downloader 是一款 Mac OS X 上的下载工具，支持断点续传 
-    </details> 
-
-- 🌋 [Cardhop 2.2.1 通讯录管理](https://xclient.info/s/cardhop.html) | Thu Sep 22 2022 12:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    Cardhop是Mac平台上的一款通讯录管理工具。CardhopMac版拥有一个的神奇的搜索引擎，显示搜索非常直观。简单的句子搜索、添加、编辑和添加联系人都变的十分便捷 
     </details> 
 <!-- xclient:END -->
 
