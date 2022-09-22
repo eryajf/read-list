@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [开源代码库攻击在三年间暴涨7倍](https://www.freebuf.com/news/345307.html) | Thu Sep 22 2022 7:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    攻击者将恶意代码置入开源软件组件，这些组件被分发到下游，危及众多被企业和消费者依赖的应用程序。 
+    </details> 
+
 - 🦄 [五分之二美国消费者数据被盗,企业也难逃攻击者“毒手”](https://www.freebuf.com/news/345281.html) | Thu Sep 22 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
     过去一年中，大约五分之二美国消费者的个人信息被盗、泄露或滥用。 
     </details> 
 
-- 🦄 [WebSocket的利用方式](https://www.freebuf.com/articles/web/345226.html) | Thu Sep 22 2022 1:30 AM 
+- 🦅 [WebSocket的利用方式](https://www.freebuf.com/articles/web/345226.html) | Thu Sep 22 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
     虽然每次访问都访问都会有这个websocket连接，这个东西在我学习网络的时候也了解过是什么，但是不太清楚有没有利用方式，所以研究一番。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 两家中国电信公司被美列入威胁名单；游戏2K网站遭黑客攻击](https://www.freebuf.com/news/345213.html) | Wed Sep 21 2022 1:04 PM 
+- 🪄 [FreeBuf早报 | 两家中国电信公司被美列入威胁名单；游戏2K网站遭黑客攻击](https://www.freebuf.com/news/345213.html) | Wed Sep 21 2022 1:04 PM 
     <details><summary>展开描述 ...</summary> 
     太平洋网络公司及其子公司 ComNet &lpar;USA&rpar; LLC 和中国联通 &lpar;美洲&rpar; 运营有限公司，列入被视为对国家安全构成威胁的通信设备和服务清单。 
     </details> 
 
-- 🪄 [信阳师范学院曝“学信网信息泄露”，学院：已报警，涉事学生干部被撤职](https://www.freebuf.com/news/345201.html) | Wed Sep 21 2022 11:57 AM 
+- 💻 [信阳师范学院曝“学信网信息泄露”，学院：已报警，涉事学生干部被撤职](https://www.freebuf.com/news/345201.html) | Wed Sep 21 2022 11:57 AM 
     <details><summary>展开描述 ...</summary> 
     9月19日，河南省信阳师范学院被曝“学信网信息泄露”，学校已经第一时间报案。 
-    </details> 
-
-- 💻 [全球十大国家级APT组织排行榜发布](https://www.freebuf.com/articles/345180.html) | Wed Sep 21 2022 9:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    FreeBuf根据现在已经公开的信息，从杀伤力、活跃度两个维度，遴选出全球前十大国家级APT组织排行榜。 
     </details> 
 <!-- freebuf:END -->
 
