@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [稀土元素如何形成？科学家们创造了合成的人工岩石来寻找答案](https://www.cnbeta.com/articles/science/1319523.htm) | Thu Sep 22 2022 12:37 PM 
+- 🕯 [RTX 40发布AMD秒懂 RX 6000显卡全系官降：一下便宜2千块](https://www.cnbeta.com/articles/tech/1319547.htm) | Thu Sep 22 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;都柏林三一学院的研究人员对日益珍贵的稀土元素（REEs）的形成有了新的认识。他们通过创造合成岩石并测试其对不同环境条件的反应来实现这一目标。稀土元素被用于许多电子设备和绿色能源技术，包括从智能手机到电动汽车的一切。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着RTX 40系显卡的发布，AMD很知趣地下调了RX 6000系列显卡的官方建议零售价。据了解，AMD在9月15日敲定了RX 6000系列显卡的新零售价，部分经销商已经开始执行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [韩国反洗钱机构发现更多与加密货币挂钩的可疑外汇交易](https://www.cnbeta.com/articles/tech/1319521.htm) | Thu Sep 22 2022 12:33 PM 
+- 💼 [Google发布入门款Chromecast 支持HD流媒体、售价30美元含遥控器](https://www.cnbeta.com/articles/tech/1319545.htm) | Thu Sep 22 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;韩国金融监管局（FSS）的工作人人员周四表示，他们发现了额外的6.8亿美元的异常外汇交易，这使得自6月以来的&amp;quot;异常&amp;quot;转账总额达到约72亿美元。当局证实，大多数可疑的国外汇款涉及加密货币相关的活动，因为这些交易是从加密货币交易所转到当地公司，然后再发送到国外。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Google今天宣布了一款支持高清流媒体的新Chromecast电视棒设备，价格仅为30美元，而且还有一个遥控器。该公司将在包括美国在内的19个国家推出支持Google电视（HD）的Chromecast。&lt;/strong&gt;这是在Google推出49美元的Chromecast，支持4K HDR流媒体并推出遥控器的两年后发布的仅t支持1080p视频流的Chromecast设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Facebook再次因非法收集用户数据而遭集体诉讼](https://www.cnbeta.com/articles/tech/1319519.htm) | Thu Sep 22 2022 12:26 PM 
+- 💂 [约230头鲸鱼在澳大利亚搁浅：只有35头活了下来](https://www.cnbeta.com/articles/tech/1319543.htm) | Thu Sep 22 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项针对Meta的集体诉讼声称Facebook和Instagram的iOS应用规避了App Tracking Transparency规则，以便未经许可非法继续追踪用户。自iOS 14以来，苹果的应用程序跟踪透明度（ATT）要求应用程序停止跟踪用户，除非该用户明确允许他们继续。Facebook对ATT提出了著名的反对意见，并透露它对其预计收益的影响超过100亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;鲸鱼大规模搁浅的事情并不罕见，但在澳大利亚的斯马尼亚西岸，近日竟有多达约230头鲸鱼搁浅，而且大部分都死亡了。据悉，这次搁浅的是领航鲸，&lt;strong&gt;截止当地时间9月21日只剩下35头还活着，抢救任务异常艰巨。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [DARPA正对可跟上人类驾驶员的RACER机器人车辆展开二阶段测试](https://www.cnbeta.com/articles/tech/1319517.htm) | Thu Sep 22 2022 12:26 PM 
+- 🚀 [被忽视15年的CVE-2007-4559 Python漏洞 导致35万项目陷入代码执行风险](https://www.cnbeta.com/articles/tech/1319541.htm) | Thu Sep 22 2022 1:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;无论在平原还是山区，现代军事行动都愈加依赖于速度和机动性。自二战期间的“闪电战”期间被引入迎来，这一概念和配套支持已经取得了突飞猛进的发展。&lt;strong&gt;最新消息是，随着自动驾驶的长足进步，美国国防部高级研究计划局（DARPA）已批准在加州罗伯茨营开展一系列新的现场测试。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Python 编程语言中一个被忽视了 15 年的漏洞，正在重新引发人们的关注，因为它可能对超过 35 万个开源存储库项目造成影响。&lt;/strong&gt;其实早在 2007 年，就已经有安全研究人员披露并标记过 CVE-2007-4559 。遗憾的是，它一直没有获得正式的修复补丁。唯一的缓解措施，也只是在更新后的开发者文档中提示了相关风险。但是现在，该漏洞又被发现可用于代码执行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [物理学家杨振宁先生迎来百岁生日：精神矍铄、&quot;忘年恋&quot;恩爱18年](https://www.cnbeta.com/articles/tech/1319515.htm) | Thu Sep 22 2022 12:12 PM 
+- 🎊 [Zen4暴走：锐龙9 7950X单核猛超7.2GHz 八核跑出6.5GHz](https://www.cnbeta.com/articles/tech/1319539.htm) | Thu Sep 22 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年9月22日，物理学家杨振宁正式迎来100周岁生日！从曝光的百岁寿宴现场照片看，&lt;strong&gt;除了走路时需要借助拐杖和妻子翁帆的搀扶外，杨振宁无论外表还是精神状态都非常好，而且发言时侃侃而谈、思维敏捷、逻辑清晰，看不出已经百岁高龄。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel、AMD这一代产品都在频率上下了功夫，i9-13900K默认最高加速频率达5.8GHz，水冷超频可以做到6.2-6.3GHz，液氮超频更是达到了8GHz。锐龙9 7950X默认加速最高5.7GHz，还有个5.85GHz fMax极限频率，超频也不遑多让。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
