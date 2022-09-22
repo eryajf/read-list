@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [App+1 | 用三个单词定位世界的任一角落：what3words](https://sspai.com/post/75865) | Thu Sep 22 2022 8:05 AM 
+- 👹 [新玩意 120｜少数派的编辑们最近买了啥？](https://sspai.com/post/75867) | Thu Sep 22 2022 9:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    这一期，都是「小」玩意。&lt;a href=&quot;https://sspai.com/post/75867&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [App+1 | 用三个单词定位世界的任一角落：what3words](https://sspai.com/post/75865) | Thu Sep 22 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     what3words 就是一个简易版的地理坐标系。what3words 选择给一个位置赋予三个单词，这些单词又组合成一个独一无二的单词组合，这个位置的地理信息就藏在这个词组里。&lt;a href=&quot;https://sspai.com/post/75865&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [软件打造的工作流，也是我的「外部个性」](https://sspai.com/post/75169) | Thu Sep 22 2022 6:29 AM 
+- 🤭 [软件打造的工作流，也是我的「外部个性」](https://sspai.com/post/75169) | Thu Sep 22 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75169&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [今年仅此一次大更新，Windows 11「正式版」亮点速览](https://sspai.com/post/75861) | Thu Sep 22 2022 3:30 AM 
+- 🥸 [今年仅此一次大更新，Windows 11「正式版」亮点速览](https://sspai.com/post/75861) | Thu Sep 22 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     16 项更新内容盘点 &amp; 升级提示。&lt;a href=&quot;https://sspai.com/post/75861&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：小鹏发布 G9 SUV、Spotify 推出有声书服务等](https://sspai.com/post/75859) | Thu Sep 22 2022 12:22 AM 
+- 🙉 [派早报：小鹏发布 G9 SUV、Spotify 推出有声书服务等](https://sspai.com/post/75859) | Thu Sep 22 2022 12:22 AM 
     <details><summary>展开描述 ...</summary> 
     微软确认 Windows 系统将按年进行大版本更新、戴森发布新款无绳手持吸尘器 G5 Detect 等。&lt;a href=&quot;https://sspai.com/post/75859&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [早鸟特惠 | 按下录音键，以播客的名义记录你的世界](https://sspai.com/post/75849) | Wed Sep 21 2022 9:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    少数派与知名播客的制作人婉莹和甜食一道，为每一个想要用声音表达的创作者，准备了这款《100 小时后请叫我播客主理人》栏目。&lt;a href=&quot;https://sspai.com/post/75849&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
