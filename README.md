@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [网站 TTFB 太高，如何优化？](https://www.v2ex.com/t/882160#reply0) | Thu Sep 22 2022 7:28 AM
-- 🤗 [使用 AppleScript 模拟按键操作,第二次运行的时候，输入法切换不过来了](https://www.v2ex.com/t/882146#reply0) | Thu Sep 22 2022 6:46 AM
-- 🎭 [有那种在一个甚至多个工程项目中共用的名称管理器插件吗？](https://www.v2ex.com/t/882139#reply0) | Thu Sep 22 2022 6:11 AM
-- 🥷 [一个游戏项目，目前寻找具有游戏开发经验的道友 v0.1.2](https://www.v2ex.com/t/882136#reply10) | Thu Sep 22 2022 6:05 AM
-- 🐵 [关于动态切换数据源的问题](https://www.v2ex.com/t/882132#reply6) | Thu Sep 22 2022 5:53 AM<!-- v2ex:END -->
+- 🥸 [《React 小书》的作者 胡子大哈 似乎从整个网路消失了,他的小书的官网也没有了,不知道大家有没有胡子大哈的近况,十分感谢他写的《React 小书》虽然这本小书的 React 版本已经过时,但是还是从中学到了非常有用的知识](https://www.v2ex.com/t/882168#reply0) | Thu Sep 22 2022 8:09 AM
+- 🤗 [作为 DevOps 工程师，你知道什么是 git workflow？](https://www.v2ex.com/t/882165#reply2) | Thu Sep 22 2022 7:55 AM
+- 🎭 [Java 菜单权限有什么推荐的框架嘛](https://www.v2ex.com/t/882161#reply4) | Thu Sep 22 2022 7:35 AM
+- 🥷 [网站 TTFB 太高，如何优化？](https://www.v2ex.com/t/882160#reply1) | Thu Sep 22 2022 7:28 AM
+- 🐵 [使用 AppleScript 模拟按键操作,第二次运行的时候，输入法切换不过来了](https://www.v2ex.com/t/882146#reply0) | Thu Sep 22 2022 6:46 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
