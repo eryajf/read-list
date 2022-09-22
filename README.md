@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java 并发编程解析 | 基于 JDK 源码解析 Java 领域中 ReentrantLock 锁的设计思想与实现原理](https://juejin.cn/post/7146092080753246215) | Thu Sep 22 2022 6:47 AM 
+- 🤗 [PyTorch-LSTM时间序列预测中如何预测真正的未来值](https://juejin.cn/post/7146123404947488798) | Thu Sep 22 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-    Java 并发编程解析 | 基于 JDK 源码解析 Java 领域中 ReentrantLock 锁的设计思想与实现原理 最近我从cnaaa.com购买了云服务器。 在 Java 领域中，尤其是在并发 
+    一般来讲，如果真实值来得及收集，最好的办法就是用真实值去预测，否则我们就需要用预测值去滚动预测，一个大的前提是：尽可能使用多的真实值去预测。 
     </details> 
 
-- 🎡 [MobTech 秒验常见问题](https://juejin.cn/post/7146091688002322439) | Thu Sep 22 2022 6:45 AM 
+- 🎡 [PyTorch中实现LSTM多步长时间序列预测的几种方法总结（负荷预测）](https://juejin.cn/post/7146121934290288647) | Thu Sep 22 2022 8:43 AM 
     <details><summary>展开描述 ...</summary> 
-    秒验是一款帮助开发者实现一键验证功能的产品，从根源上降低企业验证成本， 有效提高拉新转化率，降低因验证带来的流失率，3秒完成手机号验证 
+    PyTorch中实现LSTM多步长时间序列预测的几种方法总结（负荷预测），包括直接多输出、单步滚动、多模型单步、多模型滚动以及Seq2Seq。 
     </details> 
 
-- 🕯 [前端必读：如何在 JavaScript 中使用 SpreadJS 导入和导出 Excel 文件](https://juejin.cn/post/7146091451049312270) | Thu Sep 22 2022 6:44 AM 
+- 🕯 [Flutter 系列（八）：Flutter 与 Android 的你来我往](https://juejin.cn/post/7146117854553702414) | Thu Sep 22 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    前端必读：如何在 JavaScript 中使用 SpreadJS 导入和导出 Excel 文件 最近我从cnaaa.com购买了云服务器。 JavaScript 在前端领域占据着绝对的统治地位，目前更 
+    前言 很高兴遇见你~ 在本系列的上一篇文章中，我们介绍了 Flutter 中的路由以及集成 http 库进行 https 请求实战 
     </details> 
 
-- 🚀 [一条 sql 了解 MYSQL 的架构设计](https://juejin.cn/post/7146090383091433508) | Thu Sep 22 2022 6:40 AM 
+- 🚀 [tabs切换数据乱了,原来是竟态条件和数据竞争问题](https://juejin.cn/post/7146117854486609956) | Thu Sep 22 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    一条 sql 了解 MYSQL 的架构设计 1 前言 最近我从cnaaa.com购买了云服务器。 对于一个服务端开发来说 MYSQL 可能是他使用最熟悉的数据库工具，然而，大部分的 Java 工程师对 
+    竟态条件和数据竞争问题的一些理解，当不是一个请求前后发送，会影响数据精准性，用户体验，造成很多bug 
     </details> 
 
-- 💪 [简单手写实现函数组件的Ref - forwardRef](https://juejin.cn/post/7146089462307487781) | Thu Sep 22 2022 6:37 AM 
+- 💪 [微服务配置中心， 这个方案 Go 里用起来不输SpringCloud](https://juejin.cn/post/7146114814077566990) | Thu Sep 22 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-    本身函数组件并不好赋值 ref，这边将本身的函数组件，再次切片，从而将利用参数，将 ref 引用带到组件里，组件里自动赋值，从而外围拿到函数组件内部的 ref 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第3篇文章，点击查看活动详情 微服务架构设计模式里有一条讲到，要设计可配置的服务。把服务从单体架构细分成微服务后，所有配置属性都集中存储在一个位置 
     </details> 
 <!-- juejin:END -->
 ### 少数派
