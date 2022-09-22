@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Mac技巧之让你上网时自动通过网站的图形验证码：Noptcha: ReCAPTCHA  hCAPTCHA Solver](http://www.mac52ipod.cn/post/chrome-hcaptcha-recaptcha-extension-noptcha.php) | Tue Sep 20 2022 2:52 AM 
+- 👨‍🏫 [Apple新闻之苹果将在欧洲、日韩等国家上调 App Store 的应用售价和内付费价格](http://www.mac52ipod.cn/post/apple-app-store-raise-prices-in-japan-europe-korea-and-more-countries.php) | Thu Sep 22 2022 4:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果官网公布了通知，App Store 下个月在这些国家涨价：日本、韩国、瑞典、越南、波兰、智利、埃及、马来西亚、巴基斯坦、以及所有使用欧元的国家。&lt;/p&gt;&lt;p&gt;涨价既涉及 App 售价，也涉及内付费价格（比如游戏里面买道具、视频或音乐 App 里买会员）。&lt;/p&gt;&lt;p&gt;在越南的涨价原因是有新税法，在欧元区还有日韩等国家涨价的原因应该是欧元、日元等货币贬值幅度太大了&lt;/p&gt;&lt;p&gt;至于涨价幅度，每个国家不一样，以影响面最大的欧元区举例吧，原价 0.99 欧元的 App，要涨到 1.19 欧元了。其它各档也有类似幅度的涨价，比如 9.99 欧元的 App 要涨价到 11.99 欧元。&lt;/p&gt;&lt;p&gt;苹果官网原文&amp;nbsp;&amp;nbsp;&lt;u&gt;&lt;a href=&quot;https://developer.apple.com/news/?id=e1b1hcmv&amp;1663640181&quot; target=&quot;_blank&quot; title=&quot;Upcoming price and tax changes for apps and in-app purchases&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://developer.apple.com/news/?id=e1b1hcmv&amp;1663640181&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=appstore&quot; rel=&quot;tag&quot;&gt;appstore&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Mac技巧之让你上网时自动通过网站的图形验证码：Noptcha: ReCAPTCHA  hCAPTCHA Solver](http://www.mac52ipod.cn/post/chrome-hcaptcha-recaptcha-extension-noptcha.php) | Tue Sep 20 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [苹果给开发者和设计师们分享了很多 Sketch 和 PhotoShop 等软件可用的设计资源](http://www.mac52ipod.cn/post/apple-developer-designer-resources-sketch-photoshop-png-svg-pdf.php) | Sun Sep 18 2022 8:11 AM 
+- 🦏 [苹果给开发者和设计师们分享了很多 Sketch 和 PhotoShop 等软件可用的设计资源](http://www.mac52ipod.cn/post/apple-developer-designer-resources-sketch-photoshop-png-svg-pdf.php) | Sun Sep 18 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [苹果 iPhone 13 和 iPhone 14 系列的手机电池容量](http://www.mac52ipod.cn/post/apple-iphone-13-14-battery-capacities.php) | Thu Sep 15 2022 4:30 AM 
+- 🚀 [苹果 iPhone 13 和 iPhone 14 系列的手机电池容量](http://www.mac52ipod.cn/post/apple-iphone-13-14-battery-capacities.php) | Thu Sep 15 2022 4:30 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Mac技巧之用苹果归档格式压缩文件的方法](http://www.mac52ipod.cn/post/apple-mac-macos-archive-utility-tip.php) | Tue Sep 13 2022 4:35 AM 
+- 🏊 [Mac技巧之用苹果归档格式压缩文件的方法](http://www.mac52ipod.cn/post/apple-mac-macos-archive-utility-tip.php) | Tue Sep 13 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	苹果电脑 macOS 系统自带的文件压缩/解压缩工具 Archive Utility（归档实用工具）可以设置压缩方式。command 空格调出 Spotlight 搜索，搜 归档实用工具 或者 Archive Utility（你从 Finder 里找这工具的话会很麻烦，藏得很深）。然后如下图所示，在软件设置里把归档格式改成「Apple归档」即可。压缩率更高，也能更高效得使用 Apple Silicone 芯片的算力。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6696&quot; border=&quot;0&quot; alt=&quot;Mac技巧之用苹果归档格式压缩文件的方法&quot; title=&quot;Mac技巧之用苹果归档格式压缩文件的方法&quot; /&gt;&lt;/p&gt;&lt;p&gt;题外话，如果你要和 Windows 用户交换文件，最好还是保持压缩方式别折腾了。免得对方打不开压缩包（猜的。我同事全员 Mac，不知道 PC 那边会不会出问题）&lt;/p&gt;&lt;p&gt;题外话2，我更多会用 &lt;u&gt;&lt;a href=&quot;/post/mac-os-x-decompress-compress-rar-free-software-keka.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑 Mac OS X 系统下支持密码加密和 RAR 格式的压缩/解压缩免费软件推荐：Keka &quot;&gt;&lt;font color=#0000FF&gt;Keka&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 来压缩和解压缩文件&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%258E%258B%25E7%25BC%25A9&quot; rel=&quot;tag&quot;&gt;压缩&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [苹果 iPhone、iPad 复制、剪切、粘贴的操作手势](http://www.mac52ipod.cn/post/apple-ipad-iphone-copy-cut-paste-gesture.php) | Sun Sep 11 2022 4:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果在 iOS 13 和 iPadOS 13 里引入了这三套手势，选中文字后：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;三指捏合=复制&lt;/li&gt;&lt;li&gt;三指捏合两次=剪切&lt;/li&gt;&lt;li&gt;三指张开=粘贴&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6603&quot; border=&quot;0&quot; alt=&quot;苹果 iPhone、iPad 复制、剪切、粘贴的操作手势&quot; title=&quot;苹果 iPhone、iPad 复制、剪切、粘贴的操作手势&quot; /&gt;&lt;/p&gt;&lt;p&gt;演示效果如上图所示。感觉在 iPad 上面更有用，iPhone 屏幕太小了。我也是平时很少用 iPad，才拖到最近发现这个技巧。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2589%258B%25E5%258A%25BF&quot; rel=&quot;tag&quot;&gt;手势&lt;/a&gt;
 
  
     </details> 
