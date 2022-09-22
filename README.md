@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [消息称Galaxy S23电池容量缩水5% 但能效改进有望弥补回来](https://www.cnbeta.com/articles/tech/1319493.htm) | Thu Sep 22 2022 11:15 AM 
+- 🕯 [稀土元素如何形成？科学家们创造了合成的人工岩石来寻找答案](https://www.cnbeta.com/articles/science/1319523.htm) | Thu Sep 22 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有传闻称，三星或为明年初的 Galaxy S23 Ultra 沿用当前的设计元素，意味着这款旗舰智能机可能使用相同的 5000 mAh 电池。&lt;strong&gt;然而据韩媒 The Elec 爆料，Galaxy S23 新机的电池容量也许会缩水 5% 。&lt;/strong&gt;不过从好的一面来看，至少这次容量的缩减没有那么严重。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;都柏林三一学院的研究人员对日益珍贵的稀土元素（REEs）的形成有了新的认识。他们通过创造合成岩石并测试其对不同环境条件的反应来实现这一目标。稀土元素被用于许多电子设备和绿色能源技术，包括从智能手机到电动汽车的一切。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Mozilla敦促采取行动 解除操作系统平台与浏览器的锁定](https://www.cnbeta.com/articles/tech/1319491.htm) | Thu Sep 22 2022 11:12 AM 
+- 💼 [韩国反洗钱机构发现更多与加密货币挂钩的可疑外汇交易](https://www.cnbeta.com/articles/tech/1319521.htm) | Thu Sep 22 2022 12:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着世界各地的反垄断监管机构加强对平台权力的审查，Mozilla发表了一份研究报告，对操作系统施加影响的方式有时很微妙，但总是很隐蔽，使消费者被锁定在使用自己的品牌浏览器，而不是寻求和转换到独立的选择--同时Mozilla警告说，浏览器市场的竞争对于确保创新和消费者的选择至关重要，更广泛地说，保护开放网络的活力，防止商业巨头试图封锁它。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;韩国金融监管局（FSS）的工作人人员周四表示，他们发现了额外的6.8亿美元的异常外汇交易，这使得自6月以来的&amp;quot;异常&amp;quot;转账总额达到约72亿美元。当局证实，大多数可疑的国外汇款涉及加密货币相关的活动，因为这些交易是从加密货币交易所转到当地公司，然后再发送到国外。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《福星小子》新篇动画多角色公开 10月13日开播](https://hot.cnbeta.com/articles/comic/1319489.htm) | Thu Sep 22 2022 11:07 AM 
+- 💂 [Facebook再次因非法收集用户数据而遭集体诉讼](https://www.cnbeta.com/articles/tech/1319519.htm) | Thu Sep 22 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;经典漫画名作《福星小子》新篇动画即将于10月13日开播，9月22日今天官方公布了多位角色声优，一起来了解下。《福星小子》是日本漫画家高桥留美子的代表作，也是她的第一部长篇作品。漫画于1978-1987年间在《周刊少年Sunday》上连载，曾获得第26届小学馆漫画奖和第18届星云赏（1987年）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1319489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项针对Meta的集体诉讼声称Facebook和Instagram的iOS应用规避了App Tracking Transparency规则，以便未经许可非法继续追踪用户。自iOS 14以来，苹果的应用程序跟踪透明度（ATT）要求应用程序停止跟踪用户，除非该用户明确允许他们继续。Facebook对ATT提出了著名的反对意见，并透露它对其预计收益的影响超过100亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [理想汽车：L8将于9月30日发布 L7、L6也在路上](https://www.cnbeta.com/articles/tech/1319487.htm) | Thu Sep 22 2022 11:06 AM 
+- 🚀 [DARPA正对可跟上人类驾驶员的RACER机器人车辆展开二阶段测试](https://www.cnbeta.com/articles/tech/1319517.htm) | Thu Sep 22 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月22日，理想汽车公布了L8发布信息，&lt;strong&gt;理想L8发布会将于2022年9月30日15:00开始，价格公布后即开启大定。&lt;/strong&gt;国庆期间，理想L8展车将陆续到达全国各地的理想汽车零售中心供大家体验，11月初正式开启交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;无论在平原还是山区，现代军事行动都愈加依赖于速度和机动性。自二战期间的“闪电战”期间被引入迎来，这一概念和配套支持已经取得了突飞猛进的发展。&lt;strong&gt;最新消息是，随着自动驾驶的长足进步，美国国防部高级研究计划局（DARPA）已批准在加州罗伯茨营开展一系列新的现场测试。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [2030年美国所售汽车中 电动汽车有望超过50%](https://www.cnbeta.com/articles/tech/1319485.htm) | Thu Sep 22 2022 10:58 AM 
+- 🎊 [物理学家杨振宁先生迎来百岁生日：精神矍铄、&quot;忘年恋&quot;恩爱18年](https://www.cnbeta.com/articles/tech/1319515.htm) | Thu Sep 22 2022 12:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉总部所在的美国，虽然电动汽车的销量已相当可观，但在所销售新车中的比例，仍要低于全球平均水平。不过外媒在最新的报道中预计，在新的消费激励措施的推动下，未来几年电动汽车在美国新销售汽车中的比重，将会有大幅提升，预计到2026年就将超过全球平均水平，2030年所占的比重则会达到52%，超过50%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年9月22日，物理学家杨振宁正式迎来100周岁生日！从曝光的百岁寿宴现场照片看，&lt;strong&gt;除了走路时需要借助拐杖和妻子翁帆的搀扶外，杨振宁无论外表还是精神状态都非常好，而且发言时侃侃而谈、思维敏捷、逻辑清晰，看不出已经百岁高龄。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
