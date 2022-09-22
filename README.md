@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [复制iPhone 14 Pro灵动岛的Android应用dynamicSpot在Play Store发布](https://www.cnbeta.com/articles/tech/1319565.htm) | Thu Sep 22 2022 3:20 PM 
+- 🕯 [iPhone 14 可加装透明的背面玻璃面板 内部零件一览无余](https://www.cnbeta.com/articles/tech/1319575.htm) | Thu Sep 22 2022 4:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;iPhone 14 Pro的灵动岛复制版已经以一个名为&amp;quot;dynamicSpot&amp;quot;的应用程序的形式出现在Android手机Google Play商店。该应用程序仍处于测试阶段，它可以在智能手机的顶部为用户提供几种不同的体验。&lt;/strong&gt;根据该应用的描述，在目前的形式下，dynamicSpot提供了歌曲的播放控制、计时器、电池状态以及即将推出的更多功能，dynamicSpot甚至还提供了苹果灵动岛所没有的定制功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iPhone 14和iPhone 14 Plus采用了更便于维修的设计，其背面的玻璃面板可拆卸，让用户更容易对设备进行售后改装。目前，已经有人对iPhone 14进行了改装，其透明的后玻璃面板可以看到设备内部的各种部件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319575.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Satechi推出带2.5G以太网的USB-4多端口适配器](https://www.cnbeta.com/articles/tech/1319563.htm) | Thu Sep 22 2022 3:17 PM 
+- 💼 [研究发现高脂肪饮食会刺激骨骼产生炎症免疫细胞](https://www.cnbeta.com/articles/science/1319573.htm) | Thu Sep 22 2022 4:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;电脑配件公司Satechi刚刚宣布了其最新的USB集线器，它支持USB 4，并被设计用于苹果MacBook和其他使用这一最新连接标准的笔记本电脑。&lt;/strong&gt;带2.5G以太网的USB-4多端口适配器的设计是为了提供更大的连接性，拥有完整的工作或家庭设置所需的所有端口。此外，该6合1适配器使用下一代USB-4协议，提供升级的带宽管理和数据传输，使文件能够更快地被访问。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;研究结果可能有助于解释高脂肪&lt;span class=&quot;tip_s&quot;&gt;饮食&lt;/span&gt;是如何引发炎症的，炎症可能导致&lt;span class=&quot;tip_s&quot;&gt;肥胖&lt;/span&gt;个体产生胰岛素抵抗、2型糖尿病和其他并发症。&lt;/strong&gt;被称为单核细胞的炎症免疫细胞侵入脂肪组织是肥胖的标志，但导致这种有害现象的原因尚不清楚。骨髓中产生包括单核细胞在内的许多免疫细胞，对环境变化非常敏感。科学家们已经证明，骨髓中的脂肪细胞会在高脂肪饮食的作用下迅速膨胀。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英国为前往挪威、冰岛的旅行者达成了手机漫游费上限的贸易协定](https://www.cnbeta.com/articles/tech/1319561.htm) | Thu Sep 22 2022 3:02 PM 
+- 💂 [曾被评为“豆瓣烂片” 《逐梦演艺圈》上映5周年：导演感慨时间真快](https://hot.cnbeta.com/articles/movie/1319571.htm) | Thu Sep 22 2022 4:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;英国居民前往挪威或冰岛旅行时，他们的移动漫游费很快就会有上限，这是两国之间最近达成的贸易协议的一部分。&lt;/strong&gt;英国去年7月与挪威、冰岛和列支敦士登签署了一项自由贸易协定，这三个市场的显著特点是，它们不是欧盟（EU）的成员，而是邻近的欧洲经济区（EEA）的成员，该区域基本上将欧盟的单一市场扩展到欧洲自由贸易联盟（EFTA）的另外几个国家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天下午，导演毕志飞发微博表示，&lt;strong&gt;今天是我导演的《纯洁心灵·逐梦演艺圈》上映五周年，整个过程学到很多东西，发现时间过得真快。&lt;/strong&gt;公开报道显示，2017年9月22日，《逐梦演艺圈》在国内上映。&lt;strong&gt;在豆瓣，电影评分持续走低，让它以2.0（现为2.2）创下低分纪录 ，一时成为了豆瓣“史上最烂电影”。 &lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1319571.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [车窗反转系统存故障 特斯拉将在美国召回近110万辆汽车](https://www.cnbeta.com/articles/tech/1319559.htm) | Thu Sep 22 2022 2:32 PM 
+- 🚀 [报告称富士康重组五条装配线以满足iPhone 14 Pro的增长需求](https://www.cnbeta.com/articles/tech/1319569.htm) | Thu Sep 22 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉宣布将在美国召回近110万辆汽车，原因是其车窗自动反转系统存在故障，在检测到障碍物后可能无法做出正确反应。此次召回的车型包括部分2017至2022年生产的Model 3、2020至2021年生产的Model Y以及2021年至2022年生产的Model S和Model X。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据报道，苹果已经要求供应商富士康重新调整一些iPhone 14的生产线，以支持iPhone 14 Pro机型，这似乎支持了关于标准版不如新Pro受消费者欢迎的报道。&lt;/strong&gt;据一份援引&amp;quot;不完全统计&amp;quot;的报告称，郑州在苹果的要求下至少重组了五个车间，&amp;quot;这个工厂的工人提到代码&amp;quot;27&amp;quot;，指的是郑州富士康生产的iPhone 14。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319569.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [日本政府24年来首次干预汇市阻止日元贬值](https://www.cnbeta.com/articles/tech/1319557.htm) | Thu Sep 22 2022 2:32 PM 
+- 🎊 [Twitter允许更多研究人员访问平台运营数据](https://www.cnbeta.com/articles/tech/1319567.htm) | Thu Sep 22 2022 3:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于日元对美元汇率出现剧烈波动，日本财务省22日宣布对汇市进行干预，以阻止日元进一步贬值。这是日本政府自1998年6月以来首次干预汇市。美国联邦储备委员会21日宣布再度加息75个基点，并暗示加息或将持续至明年。受此影响，22日东京外汇市场日元对美元汇率显著走软。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年早些时候，Twitter推出了Twitter调控研究联盟（TMRC），这是一个由来自学术界、民间社会、非政府组织和新闻界的专家组成的团体，致力于研究Twitter的平台治理问题。此前，TMRC的成员资格仅限于选定的可信赖的合作伙伴，但Twitter今天开始向所有研究人员提供申请机会。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319567.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
