@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [RTX 40发布AMD秒懂 RX 6000显卡全系官降：一下便宜2千块](https://www.cnbeta.com/articles/tech/1319547.htm) | Thu Sep 22 2022 1:47 PM 
+- 🕯 [攻击洛杉矶学区的黑客团伙向校方发出赎金要求](https://www.cnbeta.com/articles/tech/1319551.htm) | Thu Sep 22 2022 1:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;据洛杉矶联合学区（LAUSD）校长说，在劳动节周末用勒索软件袭击该学区的黑客现在已经发出了赎金要求。&lt;/strong&gt;周二，校长Alberto Carvalho告诉《洛杉矶时报》，黑客已经提出了要求，但学区还没有回应，校方拒绝透露所要求的金额。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [科学家在银河系超大质量黑洞周围探测到热气泡](https://www.cnbeta.com/articles/science/1319549.htm) | Thu Sep 22 2022 1:50 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;天文学家利用阿塔卡马大型毫米/亚毫米阵列（ALMA）发现了围绕人马座A*黑洞运行的热点&amp;quot;，&lt;/strong&gt;这是我们银河系中心的黑洞。这一发现有助于我们更好地了解我们的超大质量黑洞的神秘和动态环境。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [RTX 40发布AMD秒懂 RX 6000显卡全系官降：一下便宜2千块](https://www.cnbeta.com/articles/tech/1319547.htm) | Thu Sep 22 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;随着RTX 40系显卡的发布，AMD很知趣地下调了RX 6000系列显卡的官方建议零售价。据了解，AMD在9月15日敲定了RX 6000系列显卡的新零售价，部分经销商已经开始执行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google发布入门款Chromecast 支持HD流媒体、售价30美元含遥控器](https://www.cnbeta.com/articles/tech/1319545.htm) | Thu Sep 22 2022 1:15 PM 
+- 🚀 [Google发布入门款Chromecast 支持HD流媒体、售价30美元含遥控器](https://www.cnbeta.com/articles/tech/1319545.htm) | Thu Sep 22 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Google今天宣布了一款支持高清流媒体的新Chromecast电视棒设备，价格仅为30美元，而且还有一个遥控器。该公司将在包括美国在内的19个国家推出支持Google电视（HD）的Chromecast。&lt;/strong&gt;这是在Google推出49美元的Chromecast，支持4K HDR流媒体并推出遥控器的两年后发布的仅t支持1080p视频流的Chromecast设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [约230头鲸鱼在澳大利亚搁浅：只有35头活了下来](https://www.cnbeta.com/articles/tech/1319543.htm) | Thu Sep 22 2022 1:10 PM 
+- 🎊 [约230头鲸鱼在澳大利亚搁浅：只有35头活了下来](https://www.cnbeta.com/articles/tech/1319543.htm) | Thu Sep 22 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;鲸鱼大规模搁浅的事情并不罕见，但在澳大利亚的斯马尼亚西岸，近日竟有多达约230头鲸鱼搁浅，而且大部分都死亡了。据悉，这次搁浅的是领航鲸，&lt;strong&gt;截止当地时间9月21日只剩下35头还活着，抢救任务异常艰巨。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [被忽视15年的CVE-2007-4559 Python漏洞 导致35万项目陷入代码执行风险](https://www.cnbeta.com/articles/tech/1319541.htm) | Thu Sep 22 2022 1:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Python 编程语言中一个被忽视了 15 年的漏洞，正在重新引发人们的关注，因为它可能对超过 35 万个开源存储库项目造成影响。&lt;/strong&gt;其实早在 2007 年，就已经有安全研究人员披露并标记过 CVE-2007-4559 。遗憾的是，它一直没有获得正式的修复补丁。唯一的缓解措施，也只是在更新后的开发者文档中提示了相关风险。但是现在，该漏洞又被发现可用于代码执行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Zen4暴走：锐龙9 7950X单核猛超7.2GHz 八核跑出6.5GHz](https://www.cnbeta.com/articles/tech/1319539.htm) | Thu Sep 22 2022 1:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel、AMD这一代产品都在频率上下了功夫，i9-13900K默认最高加速频率达5.8GHz，水冷超频可以做到6.2-6.3GHz，液氮超频更是达到了8GHz。锐龙9 7950X默认加速最高5.7GHz，还有个5.85GHz fMax极限频率，超频也不遑多让。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
