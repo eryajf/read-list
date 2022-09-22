@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [PyTorch-LSTM时间序列预测中如何预测真正的未来值](https://juejin.cn/post/7146123404947488798) | Thu Sep 22 2022 8:49 AM 
+- 🤗 [小白保姆级实现--网页引导教程](https://juejin.cn/post/7146127754562863117) | Thu Sep 22 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-    一般来讲，如果真实值来得及收集，最好的办法就是用真实值去预测，否则我们就需要用预测值去滚动预测，一个大的前提是：尽可能使用多的真实值去预测。 
+    1、目的 有同学问 网页引导怎么做？ 出个简单实用的教程，肯定可以帮到你 2、部署步骤 使用 Intro.js 官网 cdn 位置 Hello World! 代码示例 3、效果展示 初始样子 点击ne 
     </details> 
 
-- 🎡 [PyTorch中实现LSTM多步长时间序列预测的几种方法总结（负荷预测）](https://juejin.cn/post/7146121934290288647) | Thu Sep 22 2022 8:43 AM 
+- 🎡 [使用 Node.js 多进程提高任务执行效率](https://juejin.cn/post/7146125698225635335) | Thu Sep 22 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-    PyTorch中实现LSTM多步长时间序列预测的几种方法总结（负荷预测），包括直接多输出、单步滚动、多模型单步、多模型滚动以及Seq2Seq。 
+    最近我有个学员写了个 Node.js 脚本程序，定时从某个服务器下载文件，并向另一个云服务商上传文件。 但是每次只能先下载一个文件，再去上传一个文件。效率比较低。于是他向我请教，怎么样才能提高效率？ 
     </details> 
 
-- 🕯 [Flutter 系列（八）：Flutter 与 Android 的你来我往](https://juejin.cn/post/7146117854553702414) | Thu Sep 22 2022 8:27 AM 
+- 🕯 [java中使用interrupt通知线程停止](https://juejin.cn/post/7146124381147070495) | Thu Sep 22 2022 8:52 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 很高兴遇见你~ 在本系列的上一篇文章中，我们介绍了 Flutter 中的路由以及集成 http 库进行 https 请求实战 
+    java中使用interrup来通知线程停止运行，而不是强制停止！使用 thread.interrupt&lpar;&rpar; 通知线程停止 但是线程需要配合 
     </details> 
 
-- 🚀 [tabs切换数据乱了,原来是竟态条件和数据竞争问题](https://juejin.cn/post/7146117854486609956) | Thu Sep 22 2022 8:27 AM 
+- 🚀 [动态规划Ⅱ（使用最小花费爬楼梯，不同路径）](https://juejin.cn/post/7146123929935937549) | Thu Sep 22 2022 8:51 AM 
     <details><summary>展开描述 ...</summary> 
-    竟态条件和数据竞争问题的一些理解，当不是一个请求前后发送，会影响数据精准性，用户体验，造成很多bug 
+    动态规划Ⅱ（使用最小花费爬楼梯，不同路径）使用到动态规划，深搜，数论方法。总结：动态规划五部曲，以及代码不能AC怎么办 
     </details> 
 
-- 💪 [微服务配置中心， 这个方案 Go 里用起来不输SpringCloud](https://juejin.cn/post/7146114814077566990) | Thu Sep 22 2022 8:15 AM 
+- 💪 [一文清晰讲明白DDD（领域驱动设计）的知识点](https://juejin.cn/post/7146116779905908772) | Thu Sep 22 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第3篇文章，点击查看活动详情 微服务架构设计模式里有一条讲到，要设计可配置的服务。把服务从单体架构细分成微服务后，所有配置属性都集中存储在一个位置 
+    DDD（领域驱动设计）是一种处理高度复杂领域的设计思想，是一种架构设计方法论，是一种设计模式。以高内聚低耦合为目的。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
