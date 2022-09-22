@@ -152,9 +152,9 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, ...](https://discuss-cn.bestxtools.com/d/78/1) | Thu Sep 15 2022 9:07 AM
-- 🦩 [好工具周刊（第 29 期）: Squoosh, Motionity, Privnote, 小鸡词典, 发音纠正器, ...](https://discuss-cn.bestxtools.com/d/77/1) | Thu Sep 08 2022 7:34 AM
-- 🙉 [好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, ...](https://discuss-cn.bestxtools.com/d/76/1) | Thu Sep 01 2022 6:51 AM<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Picas, Radix Icons, ...](https://discuss-cn.bestxtools.com/d/80/1) | Thu Sep 22 2022 8:07 AM
+- 🦩 [好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, ...](https://discuss-cn.bestxtools.com/d/78/1) | Thu Sep 15 2022 9:07 AM
+- 🙉 [好工具周刊（第 29 期）: Squoosh, Motionity, Privnote, 小鸡词典, 发音纠正器, ...](https://discuss-cn.bestxtools.com/d/77/1) | Thu Sep 08 2022 7:34 AM<!-- bestxtools:END -->
 
 ### 王登科-DK博客
 
