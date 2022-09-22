@@ -333,7 +333,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [【由浅入深_打牢基础】WebSocket的利用方式](https://www.freebuf.com/articles/web/345226.html) | Thu Sep 22 2022 1:30 AM 
+- 🦄 [WebSocket的利用方式](https://www.freebuf.com/articles/web/345226.html) | Thu Sep 22 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
     虽然每次访问都访问都会有这个websocket连接，这个东西在我学习网络的时候也了解过是什么，但是不太清楚有没有利用方式，所以研究一番。 
     </details> 
