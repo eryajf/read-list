@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [不惧寒冬：科罗拉多州长宣布居民可用加密货币来缴纳州税](https://www.cnbeta.com/articles/tech/1319473.htm) | Thu Sep 22 2022 10:13 AM 
+- 🕯 [消息称Galaxy S23电池容量缩水5% 但能效改进有望弥补回来](https://www.cnbeta.com/articles/tech/1319493.htm) | Thu Sep 22 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在周一的丹佛创业周开幕仪式上，科罗拉多州州长 Jared Polis 发表了一番讲话。&lt;strong&gt;期间他表示自己兑现了今年早些时候的一项承诺 —— 允许居民使用加密货币来缴纳该州的税款。&lt;/strong&gt;州长办公室称，作为在该州更广泛地推动区块链技术的努力的一部分，无论是个人 / 企业所得税、销售 / 使用税、预扣 / 遣散、还是消费税，都符合使用加密货币来支付的条件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;有传闻称，三星或为明年初的 Galaxy S23 Ultra 沿用当前的设计元素，意味着这款旗舰智能机可能使用相同的 5000 mAh 电池。&lt;strong&gt;然而据韩媒 The Elec 爆料，Galaxy S23 新机的电池容量也许会缩水 5% 。&lt;/strong&gt;不过从好的一面来看，至少这次容量的缩减没有那么严重。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iJustine分享Apple Watch Ultra首发开箱与上手体验视频](https://www.cnbeta.com/articles/tech/1319471.htm) | Thu Sep 22 2022 9:57 AM 
+- 💼 [Mozilla敦促采取行动 解除操作系统平台与浏览器的锁定](https://www.cnbeta.com/articles/tech/1319491.htm) | Thu Sep 22 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Apple Watch Ultra 智能手表即将于本周五上市，但我们早前已知晓它换用了新的包装风格。&lt;strong&gt;现在，iJustine 又在油管视频上晒出了 Apple Watch Ultra 的包装内容 —— 可知其中包含了一本小册子。&lt;/strong&gt;回顾本月早些时候的秋季新品发布会，苹果隆重介绍了 Apple Watch Ultra 的一系列新特性。所以在新包装中看到除充电线之外的东西，我们对此也并不感到惊讶。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着世界各地的反垄断监管机构加强对平台权力的审查，Mozilla发表了一份研究报告，对操作系统施加影响的方式有时很微妙，但总是很隐蔽，使消费者被锁定在使用自己的品牌浏览器，而不是寻求和转换到独立的选择--同时Mozilla警告说，浏览器市场的竞争对于确保创新和消费者的选择至关重要，更广泛地说，保护开放网络的活力，防止商业巨头试图封锁它。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [传《原神》将获得官方Steam Deck支持](https://hot.cnbeta.com/articles/game/1319469.htm) | Thu Sep 22 2022 9:55 AM 
+- 💂 [《福星小子》新篇动画多角色公开 10月13日开播](https://hot.cnbeta.com/articles/comic/1319489.htm) | Thu Sep 22 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据一位Reddit论坛用户的分享，热门游戏《原神》可能将获得官方Steam Deck支持，这位用户在TGS 2022官方宣传片中发现了一台Steam Deck正在加载《原神》的游戏画面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;经典漫画名作《福星小子》新篇动画即将于10月13日开播，9月22日今天官方公布了多位角色声优，一起来了解下。《福星小子》是日本漫画家高桥留美子的代表作，也是她的第一部长篇作品。漫画于1978-1987年间在《周刊少年Sunday》上连载，曾获得第26届小学馆漫画奖和第18届星云赏（1987年）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1319489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [世界在建规模最大水电工程：白鹤滩水电站左岸机组全部投产发电](https://www.cnbeta.com/articles/tech/1319467.htm) | Thu Sep 22 2022 9:54 AM 
+- 🚀 [理想汽车：L8将于9月30日发布 L7、L6也在路上](https://www.cnbeta.com/articles/tech/1319487.htm) | Thu Sep 22 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据央视新闻报道，&lt;strong&gt;今天（9月22日）白鹤滩水电站8号机组顺利通过并网调试72小时试运行，正式转入商业运行，标志着白鹤滩水电站左岸机组全部投产发电。&lt;/strong&gt;白鹤滩水电站位于四川省宁南县和云南省巧家县交界的金沙江下游干流河段上，&lt;strong&gt;是当今世界在建规模最大、技术难度最高的水电工程。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月22日，理想汽车公布了L8发布信息，&lt;strong&gt;理想L8发布会将于2022年9月30日15:00开始，价格公布后即开启大定。&lt;/strong&gt;国庆期间，理想L8展车将陆续到达全国各地的理想汽车零售中心供大家体验，11月初正式开启交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [重建巴黎圣母院？3D打印无人机舰队登Nature封面](https://www.cnbeta.com/articles/tech/1319465.htm) | Thu Sep 22 2022 9:53 AM 
+- 🎊 [2030年美国所售汽车中 电动汽车有望超过50%](https://www.cnbeta.com/articles/tech/1319485.htm) | Thu Sep 22 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2019年一场大火烧毁了巴黎圣母院，至今还未开放。今天，英国科学家创建了一个以蜜蜂为灵感的3D打印无人机舰队，或许在未来重建中能够有所帮助。3年前，一场大火摧毁了无数人心中的圣地——巴黎圣母院。那场大火整整烧了14个小时，教堂塔尖在大火中轰然倒塌，如今修复仍在继续。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉总部所在的美国，虽然电动汽车的销量已相当可观，但在所销售新车中的比例，仍要低于全球平均水平。不过外媒在最新的报道中预计，在新的消费激励措施的推动下，未来几年电动汽车在美国新销售汽车中的比重，将会有大幅提升，预计到2026年就将超过全球平均水平，2030年所占的比重则会达到52%，超过50%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
