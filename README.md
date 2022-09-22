@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [疑似Surface Studio 3通过FCC认证 或于今年亮相](https://www.cnbeta.com/articles/tech/1319421.htm) | Thu Sep 22 2022 8:21 AM 
+- 🕯 [全国入秋进程图出炉：多地创下半年气温新低](https://www.cnbeta.com/articles/tech/1319451.htm) | Thu Sep 22 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据多方谣传和近期披露的 FCC 文档，微软可能会在 10&amp;nbsp; 月更新 Surface Pro 和 Surface Laptop 产品线。本周早些时候，国外科技媒体 Windows Lastest 从 FCC 官网，发现了一款称之为“Desktop Computer”（C3K2043）的神秘设备，疑似 Surface Studio 3。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;下周就要迎来国庆假期了，同时也将正式进入10月份，对于北方地区而言，天气将会一天比一天冷了。本周冷空气一股接一股来袭，我国秋季版图继续向南扩张，&lt;strong&gt;预计到本周末（9月24日至25日），有将近一半国土迈入秋天门槛，&lt;/strong&gt;中国天气网专门绘制了一份2022最新全国入秋进程图，快来看看你家入秋了没？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软希望人们在面对网上的假新闻时能自己区分真假](https://www.cnbeta.com/articles/tech/1319419.htm) | Thu Sep 22 2022 8:21 AM 
+- 💼 [合杭高铁湖杭段正式开通：设计时速350 实际跑310km/h](https://www.cnbeta.com/articles/tech/1319449.htm) | Thu Sep 22 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据MSPoweruser报道，网络世界的不断发展使每个人都面临着一个巨大的挑战：虚假信息。但是，当不同的公司正试图控制和消除网络和其平台上的假新闻时，&lt;strong&gt;微软宣布它将采取一条不同的道路--让人们决定区分什么是真的和假的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月22日上午，作为第19届杭州亚运会的重要配套工程，合杭高铁湖杭段&lpar;湖州至杭州&rpar;正式开通运营。&lt;strong&gt;合杭高铁是我国“八纵八横”高速铁路主通道中“京沪通道”的重要组成部分，连接安徽省合肥市与浙江省湖州市、杭州市，其中合肥至湖州段已于2020年6月28日开通运营。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [今年Galaxy Z Fold 4/Z Flip 4出货量将无法达到三星预期](https://www.cnbeta.com/articles/tech/1319417.htm) | Thu Sep 22 2022 8:12 AM 
+- 💂 [哈啰试点共享单车安装儿童座椅：建议9岁、22公斤以下乘坐](https://www.cnbeta.com/articles/tech/1319447.htm) | Thu Sep 22 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;消息称三星希望凭借着近期推出的 Galaxy Z Fold 4 和 Galaxy Z Flip 4，将今年可折叠设备出货量设定为 1500 万台。&lt;/strong&gt;不过最新行业预估显示，三星可能无法在年内实现这个目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，部分网友发现有哈啰单车后座多了个儿童座椅。原来，哈啰已在温州落地亲子车项目，名叫“哈啰叮当车”，投入1000辆进行试点运营。&lt;/strong&gt;据了解，这是第一款共享单车行业内面向全国投放的亲子车型，而温州是第一个投放城市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Instagram终于决定打造可自动拦截冒犯性内容的私信图片过滤器](https://www.cnbeta.com/articles/tech/1319415.htm) | Thu Sep 22 2022 8:09 AM 
+- 🚀 [CSC推动OpenWebSearch.EU项目 以在欧洲市场替代Google](https://www.cnbeta.com/articles/tech/1319445.htm) | Thu Sep 22 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为了尽力保护 Instagram 用户免遭平台上泛滥的私密照请求，&lt;strong&gt;母公司 Meta 刚刚向外媒表示，在应用团队初步研究之后，Instagram 正在开发相关图像过滤器。&lt;/strong&gt;可知作为一款控件，Instagram 用户可选启用该工具，以保护自己免受此类骚扰消息的影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;芬兰科学计算中心（CSC–IT Center for Science in Finland）近日和其他 13 家知名欧洲研究中心合作，推动了 &lt;a href=&quot;https://openwebsearch.eu/&quot; target=&quot;_blank&quot;&gt;OpenWebSearch.EU&lt;/a&gt; 项目，为基于网络的研究开发一个开放的欧洲基础设施。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NVIDIA表态不会放弃RTX 30 远没有到消亡的地步](https://www.cnbeta.com/articles/tech/1319413.htm) | Thu Sep 22 2022 8:04 AM 
+- 🎊 [浙大博士送外卖事件，180度大反转](https://www.cnbeta.com/articles/tech/1319443.htm) | Thu Sep 22 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对显卡厂商来说，通常每次新品发布之前，上代产品都会降价清仓，否则等新品来了会导致上代产品卖不出去，然而今年的RTX 40系列显卡不同，NVIDIA现在发布了三款新品，但RTX 30系列显卡依然会存在。&lt;strong&gt;对于上代显卡的处理，NVIDIA发言人表示，RTX 3080曾经是、现在依然很有价值，它将继续存在，远没有到消亡的地步。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“给浙大及浙大竺可桢荣誉学院丢人了！”一则道歉短视频，再次把送外卖的浙大博士生推至舆论焦点。浙大竺可桢学院、8年博士未毕业、孩子生病需要用钱……他经历中的种种关键词曾一度引发不少关注和共鸣。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
