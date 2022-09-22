@@ -590,29 +590,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2022 年 9 月每日分享](https://iui.su/3838/) | Wed Sep 21 2022 8:12 AM 
+- 🌊 [支付宝红包](https://iui.su/3608/) | Thu Sep 22 2022 6:29 PM 
     <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月21日大学生存手册@S... 
+    实体店红包可将二维码保存手机，从相册支付宝扫码领取随机实体店红包。9月23日-10月8日扫码有大额红包。可直接在支付宝搜索框中搜索：704860869 水燃气缴费红包公交出行红包需要出行公交地铁... 
     </details> 
 
-- 🫣 [免费1年域名](https://iui.su/3794/) | Tue Sep 20 2022 5:41 AM 
+- 🫣 [2022 年 9 月每日分享](https://iui.su/3838/) | Wed Sep 21 2022 8:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月23日支付宝红包9月2... 
+    </details> 
+
+- 🌜 [免费1年域名](https://iui.su/3794/) | Tue Sep 20 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
     Porkbun.ink 或 .wiki 域名 免费一年域名。https://porkbun.com/event/freeinkwikidomain优惠码：FREEINKWIKI在付款时，点击AP... 
     </details> 
 
-- 🌜 [磁力搜索网站](https://iui.su/908/) | Tue Sep 20 2022 2:51 AM 
+- 🏊 [磁力搜索网站](https://iui.su/908/) | Tue Sep 20 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
     不死鸟&lpar;iui.su&rpar;不提供磁力资源搜索服务，本页仅做导航索引用途！搜饭吃粥今麦郎麦当劳必胜客肯德基赛百味海底捞汉堡王真功夫星巴克德克士最多关注赚零花钱免费影视免费离线离线神器资源搜索引擎快速投... 
     </details> 
 
-- 🏊 [土豆录屏 – 支持多显示器](https://iui.su/3596/) | Mon Sep 19 2022 6:32 AM 
+- 🚦 [土豆录屏 – 支持多显示器](https://iui.su/3596/) | Mon Sep 19 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
     土豆录屏是一款简单易用，不限制时长、无水印，支持多显示器的免费 Windows 录屏工具。来自：Appinn小众软件界面比较简单，也比较傻瓜化，没有太多复杂功能，适合只需要录屏而不是更多进阶功能... 
-    </details> 
-
-- 🚦 [Clearly Reader纯净阅读](https://iui.su/3333/) | Fri Sep 16 2022 8:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    每天我们需要花很多时间来阅读文章。Clearly Reader阅读器扩展。让你可以专注在阅读上，免受广告、浮层的打扰。只需要点一下扩展logo，即可享受纯净阅读。为了优化阅读体验，Clearly... 
     </details> 
 <!-- iui:END -->
 
