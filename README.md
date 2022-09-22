@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [信阳师范学院曝“学信网信息泄露”，学院：已报警，涉事学生干部被撤职](https://www.freebuf.com/news/345201.html) | Wed Sep 21 2022 11:57 AM 
+- 🦄 [【由浅入深_打牢基础】WebSocket的利用方式](https://www.freebuf.com/articles/web/345226.html) | Thu Sep 22 2022 1:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    虽然每次访问都访问都会有这个websocket连接，这个东西在我学习网络的时候也了解过是什么，但是不太清楚有没有利用方式，所以研究一番。 
+    </details> 
+
+- 🦄 [FreeBuf早报 | 两家中国电信公司被美列入威胁名单；游戏2K网站遭黑客攻击](https://www.freebuf.com/news/345213.html) | Wed Sep 21 2022 1:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    太平洋网络公司及其子公司 ComNet &lpar;USA&rpar; LLC 和中国联通 &lpar;美洲&rpar; 运营有限公司，列入被视为对国家安全构成威胁的通信设备和服务清单。 
+    </details> 
+
+- 🦅 [信阳师范学院曝“学信网信息泄露”，学院：已报警，涉事学生干部被撤职](https://www.freebuf.com/news/345201.html) | Wed Sep 21 2022 11:57 AM 
     <details><summary>展开描述 ...</summary> 
     9月19日，河南省信阳师范学院被曝“学信网信息泄露”，学校已经第一时间报案。 
     </details> 
 
-- 🦄 [全球十大国家级APT组织排行榜发布](https://www.freebuf.com/articles/345180.html) | Wed Sep 21 2022 9:46 AM 
+- 🪄 [全球十大国家级APT组织排行榜发布](https://www.freebuf.com/articles/345180.html) | Wed Sep 21 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
     FreeBuf根据现在已经公开的信息，从杀伤力、活跃度两个维度，遴选出全球前十大国家级APT组织排行榜。 
     </details> 
 
-- 🦅 [黑客从Wintermute加密货币做市商处窃取1.62亿美元](https://www.freebuf.com/news/345135.html) | Wed Sep 21 2022 5:50 AM 
+- 💻 [为儿童隐私实施“最高标准”！加州通过《互联网隐私立法》](https://www.freebuf.com/news/345177.html) | Wed Sep 21 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-    Wintermute 首席执行官Evgeny Gaevoy宣布DeFi相关业务遭到黑客攻击，损失了约 1.622 亿美元。 
-    </details> 
-
-- 🪄 [FreeBuf早报 | 优步深陷数据泄露泥潭；印度尼西亚通过《数据隐私法》](https://www.freebuf.com/news/345041.html) | Tue Sep 20 2022 11:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    优步披露了与上周发生的安全事件有关的更多细节，将攻击归咎于一个它认为与臭名昭著的 LAPSUS$ 黑客组织有关联的威胁行为者。 
-    </details> 
-
-- 💻 [Rockstar Games遭黑客攻击，《侠盗猎车手6》90个开发视频外泄](https://www.freebuf.com/articles/game/344978.html) | Tue Sep 20 2022 7:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    热门游戏《侠盗猎车手6》（Grand Theft Auto）开发片段遭到黑客大规模窃取，这一泄露事件立即在游戏圈迅速传播。 
+    新的法律将对美国儿童实施一些最严格的隐私要求，尤其是在社交媒体方面。 
     </details> 
 <!-- freebuf:END -->
 
