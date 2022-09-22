@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14 可加装透明的背面玻璃面板 内部零件一览无余](https://www.cnbeta.com/articles/tech/1319575.htm) | Thu Sep 22 2022 4:06 PM 
+- 🕯 [特斯拉一波降价 把黄牛们都给割哭了](https://www.cnbeta.com/articles/tech/1319581.htm) | Thu Sep 22 2022 5:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;这张图想必不少人最近在微博都刷到了吧。没错，特斯拉又又双叒叕开始维权了。事情是这样的……&lt;strong&gt;前几天，一封疑似特斯拉内部的邮件曝光，内容是今年&amp;nbsp;9&amp;nbsp;月&amp;nbsp;16&amp;nbsp;日&amp;nbsp;- 9&amp;nbsp;月&amp;nbsp;30&amp;nbsp;日交付拿到特斯拉&amp;nbsp;Model 3&amp;nbsp;和&amp;nbsp;Model Y&amp;nbsp;的车主，如果直接在特斯拉直营店上保险，特斯拉会补贴车主&amp;nbsp;8000&amp;nbsp;元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [华为Mate 50 Pro拆解：主板PCB预留5G射频芯片位置](https://www.cnbeta.com/articles/tech/1319579.htm) | Thu Sep 22 2022 4:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;华为Mate 50系列已正式开售，“开售秒罄”、“黄牛加价”，在首销过程中，毫无悬念的再现“一机难求”的盛况。日前，抖音博主“波哥评测”率先对华为Mate 50 Pro进行了拆解，让我们得以一窥Mate 50 Pro的内部。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [AMD锐龙7000国行价格公布：16核心5499元](https://www.cnbeta.com/articles/tech/1319577.htm) | Thu Sep 22 2022 4:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;8月30日，AMD正式发布了Zen4架构的锐龙7000系列处理器，将于9月26日解禁上市。今天，AMD官方公布了锐龙7000系列在中国市场的零售价：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [iPhone 14 可加装透明的背面玻璃面板 内部零件一览无余](https://www.cnbeta.com/articles/tech/1319575.htm) | Thu Sep 22 2022 4:06 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;iPhone 14和iPhone 14 Plus采用了更便于维修的设计，其背面的玻璃面板可拆卸，让用户更容易对设备进行售后改装。目前，已经有人对iPhone 14进行了改装，其透明的后玻璃面板可以看到设备内部的各种部件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319575.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究发现高脂肪饮食会刺激骨骼产生炎症免疫细胞](https://www.cnbeta.com/articles/science/1319573.htm) | Thu Sep 22 2022 4:05 PM 
+- 🎊 [研究发现高脂肪饮食会刺激骨骼产生炎症免疫细胞](https://www.cnbeta.com/articles/science/1319573.htm) | Thu Sep 22 2022 4:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;研究结果可能有助于解释高脂肪&lt;span class=&quot;tip_s&quot;&gt;饮食&lt;/span&gt;是如何引发炎症的，炎症可能导致&lt;span class=&quot;tip_s&quot;&gt;肥胖&lt;/span&gt;个体产生胰岛素抵抗、2型糖尿病和其他并发症。&lt;/strong&gt;被称为单核细胞的炎症免疫细胞侵入脂肪组织是肥胖的标志，但导致这种有害现象的原因尚不清楚。骨髓中产生包括单核细胞在内的许多免疫细胞，对环境变化非常敏感。科学家们已经证明，骨髓中的脂肪细胞会在高脂肪饮食的作用下迅速膨胀。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [曾被评为“豆瓣烂片” 《逐梦演艺圈》上映5周年：导演感慨时间真快](https://hot.cnbeta.com/articles/movie/1319571.htm) | Thu Sep 22 2022 4:03 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天下午，导演毕志飞发微博表示，&lt;strong&gt;今天是我导演的《纯洁心灵·逐梦演艺圈》上映五周年，整个过程学到很多东西，发现时间过得真快。&lt;/strong&gt;公开报道显示，2017年9月22日，《逐梦演艺圈》在国内上映。&lt;strong&gt;在豆瓣，电影评分持续走低，让它以2.0（现为2.2）创下低分纪录 ，一时成为了豆瓣“史上最烂电影”。 &lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1319571.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [报告称富士康重组五条装配线以满足iPhone 14 Pro的增长需求](https://www.cnbeta.com/articles/tech/1319569.htm) | Thu Sep 22 2022 3:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据报道，苹果已经要求供应商富士康重新调整一些iPhone 14的生产线，以支持iPhone 14 Pro机型，这似乎支持了关于标准版不如新Pro受消费者欢迎的报道。&lt;/strong&gt;据一份援引&amp;quot;不完全统计&amp;quot;的报告称，郑州在苹果的要求下至少重组了五个车间，&amp;quot;这个工厂的工人提到代码&amp;quot;27&amp;quot;，指的是郑州富士康生产的iPhone 14。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319569.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Twitter允许更多研究人员访问平台运营数据](https://www.cnbeta.com/articles/tech/1319567.htm) | Thu Sep 22 2022 3:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年早些时候，Twitter推出了Twitter调控研究联盟（TMRC），这是一个由来自学术界、民间社会、非政府组织和新闻界的专家组成的团体，致力于研究Twitter的平台治理问题。此前，TMRC的成员资格仅限于选定的可信赖的合作伙伴，但Twitter今天开始向所有研究人员提供申请机会。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319567.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
