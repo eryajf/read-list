@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [塔可钟推出加入Beyond Meat人造肉的Carne Asada Quesadilla夹饼](https://www.cnbeta.com/articles/tech/1319145.htm) | Wed Sep 21 2022 11:19 PM 
+- 🕯 [研究发现废弃的人类头发可用于水培蔬菜](https://www.cnbeta.com/articles/science/1319251.htm) | Thu Sep 22 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Beyond Meat刚刚宣布了其最新的快餐业者合作关系，这次是与美国知名的玉米面卷饼连锁店Taco Bell（塔可钟）合作。这种牛肉替代品将出现在Beyond Carne Asada Quesadilla仿牛排夹饼中，从10月13日开始在俄亥俄州代顿市的部分塔可钟店有限时间内供应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;与传统农业相比，水耕法使用的空间和水更少，而且不需要土壤。不过，它仍然需要一种生长介质--&lt;strong&gt;科学家们最近创造了一种更好的介质，从废弃的人类头发中提取。&lt;/strong&gt;我们的头发含有大量被称为角蛋白的蛋白质，而角蛋白又是由氨基酸组成的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [FDA警告民众不要尝试TikTok上的用感冒药煮鸡肉挑战](https://www.cnbeta.com/articles/tech/1319143.htm) | Wed Sep 21 2022 11:17 PM 
+- 💼 [美NTSB：未来新车应配备能检测酒后驾车或危险驾驶的技术](https://www.cnbeta.com/articles/tech/1319249.htm) | Thu Sep 22 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这显然不是一个政府组织第一次对一种新的网络趋势发出警告。最新的TikTok热潮将人们的生命置于危险之中，这就是sleepy chicken挑战，即用NyQuil或其他非处方咳嗽和感冒药煮鸡肉。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国家运输安全委员会&lpar;NTSB&rpar;是负责调查车辆和航空事故的联邦机构，它呼吁政府要求所有新车都要配备能检测酒后或危险驾驶的技术。&lt;/strong&gt;这项建议则是鉴于2021年元旦发生在加利福尼亚州弗雷斯诺县的一场可怕车祸。据悉，该车祸造成9人死亡，其中包括7名儿童。这场车祸是由一名超速行驶的受损司机造成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [飞行汽车只是个梦？谷歌创始人Larry Page支持的飞车公司宣布关闭](https://www.cnbeta.com/articles/tech/1319141.htm) | Wed Sep 21 2022 11:11 PM 
+- 💂 [科学家发现宗教信仰与性生活满意度之间存在联系](https://www.cnbeta.com/articles/science/1319247.htm) | Thu Sep 22 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;谷歌公司联合创始人拉里·佩奇&lpar;Larry Page&rpar;支持的空中出租车公司Kittyhawk将关闭，这对长期以来一直难以实现的飞行汽车开发梦来说是一个挫折。Kittyhawk周三在推特上称，“我们已经决定关闭Kittyhawk，我们仍在研究下一步的细节”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;根据最近的一项研究，较高的性生活满意度与较强的宗教信仰有关。&lt;/strong&gt;研究人员发现，认为宗教在其生活中具有重要意义的人的性生活较少，但总体上对其性生活更满意。根据这项研究，一生中有许多或没有性伴侣与较低的性生活满意度有关。男性和女性的性生活满意度都被证明与对随意性行为或没有爱情的性行为的较高认可度呈负相关。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NASA登月火箭测试再遇泄漏故障 发射日期仍难确定](https://www.cnbeta.com/articles/science/1319139.htm) | Wed Sep 21 2022 11:09 PM 
+- 🚀 [GNOME 43正式发布：更多应用迁移至GTK4 改善对Wayland支持](https://www.cnbeta.com/articles/tech/1319245.htm) | Thu Sep 22 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月22日消息，美国宇航局&lpar;NASA&rpar;希望在本月晚些时候发射其登月火箭“太空发射系统”&lpar;SLS&rpar;，在周三完成了燃料箱加注测试，但遭遇了两次燃料泄漏和技术问题。“阿尔忒弥斯1号”任务的发射主管查理·布莱克韦尔-汤普森&lpar;Charlie Blackwell-Thompson&rpar;表示，“我们今天能够完成所有既定目标”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;GNOME 43 于今天正式发布。新版对快速系统设置区域进行了重新设计，增强大量 Mutter 组件以改善对 Wayland 的支持，越来越多的应用从 GTK3 移植到 GTK4，引入了全新的“设备安全”管理区域，GNOME Files（Nautilus）也经过了大量的改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [百度糯米死了 我很怀念6块6的电影票](https://www.cnbeta.com/articles/tech/1319137.htm) | Wed Sep 21 2022 11:07 PM 
+- 🎊 [研究人员发现一种致命的儿童癌症的关键弱点](https://www.cnbeta.com/articles/science/1319243.htm) | Thu Sep 22 2022 1:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“因公司业务调整，百度糯米 App 将停止服务与运营。百度糯米 App 将从应用商店进行下架，预计将于 2022 年 12 月正式停止相关服务。”只用了短短 50 个字，12 年的百度糯米就这样和大家说了再见。看了这个新闻，大家也是百感交集：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;死于癌症的儿童中有15%是神经母细胞瘤的受害者，这是一种产生于肾上腺神经细胞的儿童癌症。&lt;strong&gt;近50%的高危神经母细胞瘤患儿有额外的MYCN（MYCN扩增）基因拷贝，这是神经母细胞瘤的主要驱动力和对治疗的抵抗。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
