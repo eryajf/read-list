@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [孙正义确认十月访韩 “安谋-三星芯片产业战略联盟”浮出水面](https://www.cnbeta.com/articles/tech/1319591.htm) | Thu Sep 22 2022 5:53 PM 
+- 🕯 [富士康拆除部分iPhone产线重组产能？事实另有隐情](https://www.cnbeta.com/articles/tech/1319599.htm) | Thu Sep 22 2022 11:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;iPhone14销售遇冷，富士康深圳和郑州厂区虽才刚进入量产期，但已经拆除iPhone部分产线，时代财经报导，据不完全统计，郑州厂已拆或将拆的iPhone 14生产线间至少有 5个以上。富士康拆除iPhone产线的讯息在微博引发热议，&lt;strong&gt;不过，业内人士指出，富士康拆除部分iPhone 14/14 Plus的生产线，是将其转变成iPhone 14 Pro/14 Pro Max的生产线，因为Pro系列的市场需求更高，产能换到了pro和max，赚的更多了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [下一任邦德将需要给出10-12年的出演承诺](https://hot.cnbeta.com/articles/movie/1319597.htm) | Thu Sep 22 2022 11:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;没有人知道谁将在丹尼尔·克雷格之后扮演詹姆斯·邦德。但不管是谁，最好准备要演上好多年时间。制片人Barbara Broccoli日前告诉媒体，被选中的演员将被要求承诺在十年或更长时间内扮演由伊恩·弗莱明创作的这位传奇间谍角色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1319597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [马里奥大电影首个预告片将于10月6日发布](https://hot.cnbeta.com/articles/game/1319595.htm) | Thu Sep 22 2022 11:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;来自纽约漫展官方社交媒体的消息，任天堂同照明影业合作的《超级马里奥兄弟》CG动画电影将于该活动期间公开首个预告片。根据纽约漫展官方发布的消息，10月6日的纽约漫展上将会公开这部电影的预告片。这将是自2018年任天堂宣布该片之后，观众和玩家首次看到该CG动画电影的画面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [NBA球星卢卡·东契奇通过MetaHuman推出超逼真数字化身](https://www.cnbeta.com/articles/tech/1319593.htm) | Thu Sep 22 2022 11:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;NBA球星卢卡·东契奇正在推出一个使用Epic Games卓越的Metauman技术创造的数字化身。&lt;/strong&gt;根据一份新闻稿了解到，虚拟的东契奇是使用Epic的虚幻引擎5 MetaHuman技术建造的，并且用神经网络技术对其表演捕捉到的真实世界的面部动画进行增强。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [孙正义确认十月访韩 “安谋-三星芯片产业战略联盟”浮出水面](https://www.cnbeta.com/articles/tech/1319591.htm) | Thu Sep 22 2022 5:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，日本软银集团掌门人孙正义正式确认，他将在下个月前往韩国与三星电子会面，商讨与半导体软件与设计公司安谋（Arm）有关的合作。此前三星财团的实际控制人李在镕也已经公开相关安排。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [NVIDIA技术演示游戏《赛车RTX》于11月提供下载](https://hot.cnbeta.com/articles/game/1319589.htm) | Thu Sep 22 2022 5:48 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英伟达日前展示了一款效果相当出色的“技术演示”性质赛车游戏，名为《赛车RTX》（Racer RTX），作为Nvidia的技术展示作品，本作使用了实时光线追踪、DLSS 3和PhysX。这一可玩技术演示将于今年11月提供下载。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [虚幻5朱莉版《古墓丽影》电影人物模型展示](https://hot.cnbeta.com/articles/game/1319587.htm) | Thu Sep 22 2022 5:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;3D设计师LorenzoDominesco日前分享了一段视频，展示了他利用虚幻5引擎还原安吉丽娜·朱莉版《古墓丽影》中劳拉的模型。为了创建这个角色模型，Lorenzo使用Zbrush和3dsmax。对于材质部分，他使用了substance painter和mari。在发丝部分，设计师使用了maya的Xgen。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [“小程序”的交易擦边球：易联购跑路第三方监管补漏](https://www.cnbeta.com/articles/tech/1319585.htm) | Thu Sep 22 2022 5:45 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;第一财经记者9月22日从知情人士处获悉，易联购预售苹果手机并卷款跑路事件已立案，现已移交重庆市渝北区公安分局专案组。重庆市渝北区公安分局政治处相关人士当天下午在接受第一财经记者电话询问时也表示，现在这个案件正在侦查办理中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [微软首席执行官萨蒂亚·纳德拉表态对并购动视的交易获得批准充满信心](https://www.cnbeta.com/articles/tech/1319583.htm) | Thu Sep 22 2022 5:42 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软首席执行官萨蒂亚`纳德拉打破了他对公司迄今为止最大的收购案的沉默，他告诉彭博社，尽管英国CMA对该提议进行了另一次调查，但他对该交易的通过充满信心。纳德拉最后一次公开具体谈论动视交易是在今年年初，当时他评论了这次收购将如何帮助塑造该公司元宇宙竞争力的愿景。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
