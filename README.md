@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [leetcode-109-有序链表转换二叉搜索树](https://juejin.cn/post/7146214594191720461) | Thu Sep 22 2022 2:43 PM 
+- 🤗 [利用autojs获取控件信息](https://juejin.cn/post/7146224911030157320) | Thu Sep 22 2022 3:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    使用李跳跳自定义规则时，如何利用autojs获取UI界面上的控件信息？首先安装autojs，然后根据图文教程... 
+    </details> 
+
+- 🎡 [这样Debug，排查问题效率大大提升...](https://juejin.cn/post/7146222350206238727) | Thu Sep 22 2022 3:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    Debug是开发人员必备的基础技能，伴随着开发生涯，只要需要写代码，就一定有debug的诉求... 但是Debug的时候请求不断进入断点，影响到了正常请求，查问题慢，今天学会如何高效debug！ 
+    </details> 
+
+- 🕯 [使用brython写一个任务列表](https://juejin.cn/post/7146221485311393822) | Thu Sep 22 2022 3:09 PM 
+    <details><summary>展开描述 ...</summary> 
+    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 我相信很多小伙伴或多或少，在答应别人做某件事情后，有时候忘做了，别人来问结果的时候，才想起，还有这么一件事，本篇使用brython写一个任务 
+    </details> 
+
+- 🚀 [leetcode-109-有序链表转换二叉搜索树](https://juejin.cn/post/7146214594191720461) | Thu Sep 22 2022 2:43 PM 
     <details><summary>展开描述 ...</summary> 
     给定一个单链表的头节点  head ，其中的元素 按升序排序 ，将其转换为高度平衡的二叉搜索树。 本题中，一个高度平衡二叉树是指一个二叉树每个节点 的左右两个子树的高度差不超过 1 
     </details> 
 
-- 🎡 [12W字；2022最新Android11位大厂面试专题（二）](https://juejin.cn/post/7146209856113475591) | Thu Sep 22 2022 2:25 PM 
+- 💪 [12W字；2022最新Android11位大厂面试专题（二）](https://juejin.cn/post/7146209856113475591) | Thu Sep 22 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
     由于近期很多小伙伴开始面试了，所以在大量的刷题，也有很多问到我有没有一些大厂面试题或者常见的面试题，字节参考一下，于是乎花了一周时间整理出这份 《2022Android十一位大厂面试真题》 结合之前的 
-    </details> 
-
-- 🕯 [Wechaty 实现微信聊天机器人的思路](https://juejin.cn/post/7146208408100995103) | Thu Sep 22 2022 2:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    概述 之前写了一篇介绍 Wechaty 实现微信聊天机器人的文章，只对如何使用 Wechaty 做了简单介绍，本文则对它的实现原理做一些简单介绍。 
-    </details> 
-
-- 🚀 [12W字；2022最新Android11位大厂面试专题（一）](https://juejin.cn/post/7146205842608488485) | Thu Sep 22 2022 2:08 PM 
-    <details><summary>展开描述 ...</summary> 
-    由于近期很多小伙伴开始面试了，所以在大量的刷题，也有很多问到我有没有一些大厂面试题或者常见的面试题，字节参考一下，于是乎花了一周时间整理出这份 《2022Android十一位大厂面试真题》 结合之前的 
-    </details> 
-
-- 💪 [程序员应该专注技术还是转管理？](https://juejin.cn/post/7146202489912557582) | Thu Sep 22 2022 1:56 PM 
-    <details><summary>展开描述 ...</summary> 
-    只要有得选，专注技术或是转管理。都可以。但对于大部分程序员来说，都没得选。专注技术，你得有基础，基础太差，技术发展的天花板很低；想转管理，虽然门槛没有专注技术那么高，但是，公司里的管理岗位非常少 
     </details> 
 <!-- juejin:END -->
 ### 少数派
