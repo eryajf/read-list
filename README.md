@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Element Plus 组件库相关技术揭秘：2. 组件库工程化实战之 Monorepo 架构搭建](https://juejin.cn/post/7146183222425518093) | Thu Sep 22 2022 12:40 PM 
+- 🤗 [Wechaty 实现微信聊天机器人的思路](https://juejin.cn/post/7146208408100995103) | Thu Sep 22 2022 2:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    概述 之前写了一篇介绍 Wechaty 实现微信聊天机器人的文章，只对如何使用 Wechaty 做了简单介绍，本文则对它的实现原理做一些简单介绍。 
+    </details> 
+
+- 🎡 [程序员应该专注技术还是转管理？](https://juejin.cn/post/7146202489912557582) | Thu Sep 22 2022 1:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    只要有得选，专注技术或是转管理。都可以。但对于大部分程序员来说，都没得选。专注技术，你得有基础，基础太差，技术发展的天花板很低；想转管理，虽然门槛没有专注技术那么高，但是，公司里的管理岗位非常少 
+    </details> 
+
+- 🕯 [Matrix源码分析系列-如何计算启动耗时](https://juejin.cn/post/7146196604948021279) | Thu Sep 22 2022 1:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    启动耗时分为两个角度： 冷启动：就是点击应用图标到打开应用的冷启动响应时间，且前提是应用从未被创建过进程， 热启动：测量点击应用图标到打开应用的热启动响应时间，被测应用之前已经被打开过，无关闭 
+    </details> 
+
+- 🚀 [FaissPQ索引简介](https://juejin.cn/post/7146188396971442183) | Thu Sep 22 2022 1:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    Faiss是由FacebookAI团队开发的向量检索库，提供了多种向量查询方案，可以实现在亿级别候选物料上的毫秒级查询，是目前最主流的向量检索库。 
+    </details> 
+
+- 💪 [Element Plus 组件库相关技术揭秘：2. 组件库工程化实战之 Monorepo 架构搭建](https://juejin.cn/post/7146183222425518093) | Thu Sep 22 2022 12:40 PM 
     <details><summary>展开描述 ...</summary> 
     工程化的核心并非工具，而是以工具为实现媒介进行规范工作流程。文章中实现的是组件库项目文件组织结构的规范，TypeScript 编译和类型检测流程的规范，还有工具链的统一。 
-    </details> 
-
-- 🎡 [发布订阅和观察者是什么东东，为啥数据响应会用到它呢](https://juejin.cn/post/7146181857019691039) | Thu Sep 22 2022 12:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、观察者模式 观察者模式定义了对象间的一种一对多的依赖关系，当一个对象的状态发生改变时，所有依赖于它的对象都将得到通知，并自动更新 观察者模式属于行为型模式，行为型模式关注的是对象之间的通讯，观察者 
-    </details> 
-
-- 🕯 [Framework源码面试六部曲:1.activity启动流程](https://juejin.cn/post/7146181318156501023) | Thu Sep 22 2022 12:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 今天在电脑上翻出了很久之前整理笔记Framework源码面试,Flutter,以及一部分面试专题。拿出来温习一下。 今天先讲Framework源码篇： Framework源码面试：activit 
-    </details> 
-
-- 🚀 [Framework源码面试六部曲:2.Binder通信机制](https://juejin.cn/post/7146179276256542756) | Thu Sep 22 2022 12:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    一丶前言 今天在电脑上翻出了很久之前整理笔记Framework源码面试,Flutter,以及一部分面试专题。拿出来温习一下。 今天先讲Framework源码篇： 二丶为什么要用binder Andro 
-    </details> 
-
-- 💪 [Framework源码面试六部曲:3.Handler面试集合](https://juejin.cn/post/7146179756797460516) | Thu Sep 22 2022 12:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 今天在电脑上翻出了很久之前整理笔记Framework源码面试,Flutter,以及一部分面试专题。拿出来温习一下。 今天先讲Framework源码篇： 1.Handler怎么在主线程和子线程进行 
     </details> 
 <!-- juejin:END -->
 ### 少数派
