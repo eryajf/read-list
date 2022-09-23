@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [富士康拆除部分iPhone产线重组产能？事实另有隐情](https://www.cnbeta.com/articles/tech/1319599.htm) | Thu Sep 22 2022 11:17 PM 
+- 🕯 [能合法上路的无人驾驶巴士 蘑菇车联发布MOGO BUS](https://www.cnbeta.com/articles/tech/1319735.htm) | Fri Sep 23 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone14销售遇冷，富士康深圳和郑州厂区虽才刚进入量产期，但已经拆除iPhone部分产线，时代财经报导，据不完全统计，郑州厂已拆或将拆的iPhone 14生产线间至少有 5个以上。富士康拆除iPhone产线的讯息在微博引发热议，&lt;strong&gt;不过，业内人士指出，富士康拆除部分iPhone 14/14 Plus的生产线，是将其转变成iPhone 14 Pro/14 Pro Max的生产线，因为Pro系列的市场需求更高，产能换到了pro和max，赚的更多了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，2022世界智能网联汽车大会上，蘑菇车联正式发布的MOGO BUS无人驾驶巴士，支持合法上路。蘑菇车联共发布了两款MOGO BUS车型，MOGO BUS M1（自动驾驶小巴）和MOGO BUS M2（自动驾驶巴士），两款车型都能够完美匹配蘑菇车联全栈自研的“车路云一体化”自动驾驶系统方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [下一任邦德将需要给出10-12年的出演承诺](https://hot.cnbeta.com/articles/movie/1319597.htm) | Thu Sep 22 2022 11:15 PM 
+- 💼 [EVGA与NVIDIA分道扬镳 黄仁勋首次表态：很难过 但这是他们的决定](https://www.cnbeta.com/articles/tech/1319733.htm) | Fri Sep 23 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;没有人知道谁将在丹尼尔·克雷格之后扮演詹姆斯·邦德。但不管是谁，最好准备要演上好多年时间。制片人Barbara Broccoli日前告诉媒体，被选中的演员将被要求承诺在十年或更长时间内扮演由伊恩·弗莱明创作的这位传奇间谍角色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1319597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周北美知名显卡品牌EVGA突然宣布终结显卡业务，不再与NVIDIA合作，已经研发好的RTX 40系列显卡也不会生产了，这个决定引发了业界地震。考虑到显卡业务占了EVGA营收的7成以上，EVGA为何做出如此决绝的举动？公司CEO Andrew Han甚至放言，只要他在一天，公司就不会恢复与NVIDIA的合作，似乎两家原本亲密无间的公司之间出了什么矛盾。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马里奥大电影首个预告片将于10月6日发布](https://hot.cnbeta.com/articles/game/1319595.htm) | Thu Sep 22 2022 11:12 PM 
+- 💂 [《魔兽世界》怀旧服“巫妖王之怒”新预告 重温经典](https://hot.cnbeta.com/articles/game/1319731.htm) | Fri Sep 23 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来自纽约漫展官方社交媒体的消息，任天堂同照明影业合作的《超级马里奥兄弟》CG动画电影将于该活动期间公开首个预告片。根据纽约漫展官方发布的消息，10月6日的纽约漫展上将会公开这部电影的预告片。这将是自2018年任天堂宣布该片之后，观众和玩家首次看到该CG动画电影的画面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日暴雪公布了《魔兽世界》怀旧服资料片“巫妖王之怒”新预告，展示了资料片内容。&lt;/strong&gt;阿尔萨斯的天灾军团和驱役亡灵的强大力量将横扫大陆，只有最强大的英雄才能在冰封的北方大陆上生存下来。“巫妖王之怒”将于北京时间9月27日早上6点正式上线《魔兽世界》怀旧服，将有全新的Raid，成就，新技能铭文等等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NBA球星卢卡·东契奇通过MetaHuman推出超逼真数字化身](https://www.cnbeta.com/articles/tech/1319593.htm) | Thu Sep 22 2022 11:08 PM 
+- 🚀 [NREL的弹性机器人发电机开辟了奇怪的新能源捕获思路](https://www.cnbeta.com/articles/science/1319729.htm) | Fri Sep 23 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;NBA球星卢卡·东契奇正在推出一个使用Epic Games卓越的Metauman技术创造的数字化身。&lt;/strong&gt;根据一份新闻稿了解到，虚拟的东契奇是使用Epic的虚幻引擎5 MetaHuman技术建造的，并且用神经网络技术对其表演捕捉到的真实世界的面部动画进行增强。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，一类新的弹性能源转换器正在出现，它能够从各种不同的运动中捕获能量。&lt;strong&gt;美国国家可再生能源实验室（NREL）正在推动部署它们，首先是一系列奇怪的、弯曲的波能设计。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [孙正义确认十月访韩 “安谋-三星芯片产业战略联盟”浮出水面](https://www.cnbeta.com/articles/tech/1319591.htm) | Thu Sep 22 2022 5:53 PM 
+- 🎊 [宁德时代考虑在欧洲建设第三家工厂](https://www.cnbeta.com/articles/tech/1319727.htm) | Fri Sep 23 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，日本软银集团掌门人孙正义正式确认，他将在下个月前往韩国与三星电子会面，商讨与半导体软件与设计公司安谋（Arm）有关的合作。此前三星财团的实际控制人李在镕也已经公开相关安排。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，&lt;strong&gt;中国电池制造商宁德时代的欧洲区总裁Matthias Zentgraf在接受采访时表示，该公司考虑在欧洲开设第三座工厂，目前正在进行内部讨论，但是尚未有明确的决定。&lt;/strong&gt;Zentgraf称：“如果没有需求，我们将不会建立第三家工厂。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
