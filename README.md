@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【技思广益 · 腾讯技术人原创集】双周优秀作品回顾vol.03](https://juejin.cn/post/7146488692046037005) | Fri Sep 23 2022 8:26 AM 
+- 🤗 [关于发版后如何自动清理缓存](https://juejin.cn/post/7146498255155625997) | Fri Sep 23 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-    【技思广益 · 腾讯技术人原创集】是腾讯云开发者社区为腾讯技术人与广泛开发者打造的分享交流窗口。栏目邀约腾讯技术人分享原创的技术积淀，与广泛开发者互启迪共成长。 第3期热门作品已经诞生啦，欢迎社区开发 
+    通俗易懂 老少皆宜 对于常规配置没有生效的同学可以进来讨论讨论 周五了就放开点 读了就懂的方法等你来评论~ 
     </details> 
 
-- 🎡 [彻底掌握Makefile（二）](https://juejin.cn/post/7146483107112157197) | Fri Sep 23 2022 8:04 AM 
+- 🎡 [简单手写实现React的基本生命周期](https://juejin.cn/post/7146492323105341471) | Fri Sep 23 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
-    在本篇文章当中主要给大家介绍了makefile当中各种函数的使用方法，提升写makefile的效率！！！ 
+    - 类组件才有生命周期钩子，函数组件是副作用函数 - 挂载的，围绕render就好，挂载阶段的生命周期：componentWillMount 和 componentDidMount 
     </details> 
 
-- 🕯 [旅行的意义](https://juejin.cn/post/7146481671372537869) | Fri Sep 23 2022 7:59 AM 
+- 🕯 [react源码解析2.react的设计理念](https://juejin.cn/post/7146381168119087112) | Fri Sep 23 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-    写在前面 马上就到国庆了，估计不少朋友都有出去旅行的计划，曾几何时，我还是个“网瘾少年”，旅行在我眼里毫不夸张的讲就是浪费时间... 
+    异步可中断 React15慢在哪里 在讲这部分之前，需要讲是那些因素导致了react变慢，并且需要重构呢。 React15之前的协调过程是同步的，也叫stack reconciler，又因为js的执行 
     </details> 
 
-- 🚀 [协同办公时代，设计师的效率应这样提升](https://juejin.cn/post/7146477766190301191) | Fri Sep 23 2022 7:44 AM 
+- 🚀 [再不学Promise就落后了，大神都知道的Promise](https://juejin.cn/post/7146376263769260045) | Fri Sep 23 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    近年来，协同办公成为了一大趋势，目前看来，似乎线上办公已不成问题，基本能够满足现状，但其实工具的不配备会带来许多的阻碍。 本文以摹客为例，试从协同办公视角进行分析，一起来看看。 
+    Promise Promise 对象用于表示一个异步操作的最终完成（或失败）及其结果值。 备注： 此特性在 Web Worker 中可用 若想了解 promise 的工作方式以及如何使用它们，我们建议 
     </details> 
 
-- 💪 [&lpar;三&rpar;MySQL之库表设计篇：一、二、三、四、五范式、BC范式与反范式详解！](https://juejin.cn/post/7146474739018498062) | Fri Sep 23 2022 7:32 AM 
+- 💪 [Element Plus 组件库相关技术揭秘：2. 组件库工程化实战之 Monorepo 架构搭建](https://juejin.cn/post/7146183222425518093) | Thu Sep 22 2022 12:40 PM 
     <details><summary>展开描述 ...</summary> 
-    MySQL的库表设计，在很多时候我们都是率性而为，开发时代码敲着敲着发现结构不合理，又会去重构、甚至大面积重构某张表结构，那在设计库表时有没有一套合理的设计方法论呢？答案是有，本篇一起来看看~ 
+    工程化的核心并非工具，而是以工具为实现媒介进行规范工作流程。文章中实现的是组件库项目文件组织结构的规范，TypeScript 编译和类型检测流程的规范，还有工具链的统一。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
