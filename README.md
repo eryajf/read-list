@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么是容灾和备份？](https://juejin.cn/post/7146454798949154823) | Fri Sep 23 2022 6:14 AM 
+- 🤗 [TiDB Hackathon 2022丨总奖金池超 35 万！邀你唤醒代码世界的更多可能性！](https://juejin.cn/post/7146488872606629901) | Fri Sep 23 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    容灾技术是系统的高可用性技术的一个组成部分，容灾系统更加强调处理外界环境对系统的影响，特别是灾难性事件对整个IT节点的影响，提供节点级别的系统恢复功能。 
+    一年一度的 TiDB Hackathon 又来啦！ TiDB Hackathon 2022 主题为 「Possibility at Scale」 ，9 月 13 日正式开启，线下决赛将在 2022 年 
     </details> 
 
-- 🎡 [超爱Web Components: 用它封装通用组件（一）（Designed once, Built once, Used everywhere）](https://juejin.cn/post/7146452759087153160) | Fri Sep 23 2022 6:07 AM 
+- 🎡 [聊聊哈希表](https://juejin.cn/post/7146470369091092517) | Fri Sep 23 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」，快来一起参与吧！ 前言 随着vue、react等框架的兴起，虽然极大地便利了前端开发者们，但同时也带来了一些弊端，比如基于react写的组件，无法在vue中使用，反之亦然 
+    概述 哈希表名字源于 Hash，也可以叫作散列表。哈希表是一种可以根据键（Key）直接访问数据在内存储存位置的数据结构。它通过计算出一个键值的函数，将所需查询的数据映射到表中一个位置来让人访问，这加快 
     </details> 
 
-- 🕯 [编程学习过程中有哪些快速提高编程技巧的方法？](https://juejin.cn/post/7146444550230245383) | Fri Sep 23 2022 5:35 AM 
+- 🕯 [Cloud Studio高阶玩家：强大的YAML模板](https://juejin.cn/post/7146467605921366030) | Fri Sep 23 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 ​ 目录 前言 一 编程的学习方法 1.1明确目标及范围 1.2学习方法 二 编程技巧的提高 2.1多实践 2.2多思考 2.3多沟通 2.4多学习 2.5多总结 三 编 
+    一、功能简介 编程免不了要写配置文件，怎么写配置也是一门学问。YAML是专门用来写配置文件的语言，非常简洁和强大。 了解到一些用户在Cloud Studio开发项目的时候，环境上需要依赖一些组件，项目 
     </details> 
 
-- 🚀 [Win10截屏文字识别工具；Rust超全学习指南；助理教授/博士生存指南；Stable Diffussion的Mac本地部署版 | ShowMeAI资讯日报](https://juejin.cn/post/7146434905163956260) | Fri Sep 23 2022 4:57 AM 
+- 🚀 [深入浅出带你走进Redis！](https://juejin.cn/post/7146465356482084878) | Fri Sep 23 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-    快速开发云原生serverless应用的框架、ONNX维度变更工具、基于Kubernetes的弹性网页爬虫集群、助理教授/博士生生存指南、视频实例分割资源列表、协同感知资源列表、前沿论文… 
+    导语 | 本文推选自腾讯云开发者社区-【技思广益 · 腾讯技术人原创集】专栏。该专栏是腾讯云开发者社区为腾讯技术人与广泛开发者打造的分享交流窗口。栏目邀约腾讯技术人分享原创的技术积淀，与广泛开发者互启 
     </details> 
 
-- 💪 [Swift底层探索（五）Swift指针的详细认识](https://juejin.cn/post/7146419541059305502) | Fri Sep 23 2022 3:58 AM 
+- 💪 [一键部署设计稿至线上 —— D2C国产神器](https://juejin.cn/post/7146460900289937421) | Fri Sep 23 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 本文主要是对指针的认识，包括指针的基本使用，以及指针的内存绑定进行详细分析 1. 指针的认识 指针分为两类，指定数据类型和未指定数据类型 区别： 1.1 指定类型指针 代 
+    微软近期推出了Power Apps 新功能 Express Design。只要上传一个草图或者是 Figma 文件，Express Design 都会在几秒钟之内用 AI 技术将其转化为一个应用程序。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
