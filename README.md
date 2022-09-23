@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何提高 Python 数组操作性能.](https://www.v2ex.com/t/882441#reply13) | Fri Sep 23 2022 8:02 AM
-- 🤗 [关于 sphinx build 的问题](https://www.v2ex.com/t/882438#reply0) | Fri Sep 23 2022 7:49 AM
-- 🎭 [关于云存储的自有开发讨论](https://www.v2ex.com/t/882437#reply2) | Fri Sep 23 2022 7:48 AM
-- 🥷 [谷歌中文搜索好像出现了新的垃圾站](https://www.v2ex.com/t/882424#reply1) | Fri Sep 23 2022 7:07 AM
-- 🐵 [[Shenzhen] Quality Assurance Engineer](https://www.v2ex.com/t/882420#reply0) | Fri Sep 23 2022 6:57 AM<!-- v2ex:END -->
+- 🥸 [为什么新电脑第一次安装的 Windows 11 自动激活了](https://www.v2ex.com/t/882459#reply7) | Fri Sep 23 2022 9:09 AM
+- 🤗 [gin 练手项目,新手可以看看](https://www.v2ex.com/t/882454#reply0) | Fri Sep 23 2022 8:53 AM
+- 🎭 [Python selenium 的 WebElement 如何获取 text？](https://www.v2ex.com/t/882452#reply0) | Fri Sep 23 2022 8:45 AM
+- 🥷 [如何提高 Python 数组操作性能.](https://www.v2ex.com/t/882441#reply29) | Fri Sep 23 2022 8:02 AM
+- 🐵 [关于 sphinx build 的问题](https://www.v2ex.com/t/882438#reply0) | Fri Sep 23 2022 7:49 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
