@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [报告称Meta犯下的内容审核错误影响了巴勒斯坦人人权](https://www.cnbeta.com/articles/tech/1319793.htm) | Fri Sep 23 2022 3:56 AM 
+- 🕯 [公安部网安局即日起开展“断号”行动 集中打击整治网络账号黑色产业链](https://www.cnbeta.com/articles/tech/1319807.htm) | Fri Sep 23 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;于当地时间周四发布的一份报告显示，在2021年5月发生在加沙地带的暴力事件中，Facebook的母公司Meta犯了内容审核错误，进而影响到巴勒斯坦人的人权。&lt;/strong&gt;Meta要求咨询公司Business for Social Responsibility（以下简称BSR）审查该公司的政策和行动如何影响巴勒斯坦人和以色列人，因为该公司的监督委员会负责审查该社交媒体公司的一些最严厉的内容审核决定并向公司给出建议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为贯彻落实《反电信网络诈骗法》，深入推进夏季治安打击整治“百日行动”，加强对网络违法犯罪活动的源头打击力度，切实维护人民群众合法权益，公安部网络安全保卫局自即日起至12月底部署开展“断号”行动，集中打击整治网络账号黑色产业链。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [首次公开：世界最神秘的半导体生产设计基地 向我们打开了大门](https://www.cnbeta.com/articles/tech/1319791.htm) | Fri Sep 23 2022 3:47 AM 
+- 💼 [[图]2022年年度天文摄影师大赛获奖作品赏析](https://www.cnbeta.com/articles/tech/1319805.htm) | Fri Sep 23 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;从设计，到生产，到测试、调整、再生产，到最后的出厂和面市，一枚小小的芯片，要经历一个复杂而又漫长的流程。对于这些流程，许多半导体从业者都能如数家珍。&lt;strong&gt;然而，极少有人能够真正进入全世界最顶级、最高机密的晶圆工厂，以及装备了最尖端技术设备的芯片测试实验室，以最近的距离，亲眼目睹一枚芯片的诞生全过程。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319791.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，&lt;strong&gt;2022年年度天文摄影师大赛的获胜作品是一张罕见的“断裂事件”的照片，当时太阳风将彗星尾部的一部分“吹断”。&lt;/strong&gt;这张照片只是世界上最负盛名的天体摄影比赛中的一个亮点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319805.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [第三代骁龙8cx+26.2小时续航 ThinkPad X13s正式开售](https://www.cnbeta.com/articles/tech/1319789.htm) | Fri Sep 23 2022 3:41 AM 
+- 💂 [部分产线拆除转产高端机型 富士康内部人士回应：对生产无太大影响](https://www.cnbeta.com/articles/tech/1319803.htm) | Fri Sep 23 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;全球首发搭载高通第三代骁龙8cx计算平台的ThinkPad X13s国行版本开售，&lt;/strong&gt;重1.06kg，续航最长可达26.2小时，搭配16GB LPDDR4和512GB SSD硬盘，支持5G和WiFi6网络，预装Windows11ARM系统，售价7999元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据媒体报道，受iPhone 14销量不及预期影响，郑州富士康拆除iPhone 14部分产线。9月23日，富士康方面回应中国证券报记者称，不评论市场传言。&lt;/strong&gt;据富士康内部人士对中国证券报记者透露，有部分iPhone 14产线升级为生产iPhone 14 Pro系列机型，对生产并无太大影响，目前富士康深圳和郑州工厂生产状况火爆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美法官裁定Charter必须向Spectrum被害人支付11亿美元](https://www.cnbeta.com/articles/tech/1319787.htm) | Fri Sep 23 2022 3:41 AM 
+- 🚀 [RTX 40显卡的“4N”工艺是什么？定制台积电5nm](https://www.cnbeta.com/articles/tech/1319801.htm) | Fri Sep 23 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美达拉斯县法院法官近日裁定，Charter通信公司必须向一名在家中被Spectrum有线电视技术员杀害的83岁妇女的不动产和家庭支付超11亿美元。&lt;/strong&gt;该法院的一个陪审团先前命令Charter支付70亿美元的惩罚性赔偿金和3.375亿美元的补偿性赔偿金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;之前传闻显示，RTX 40系列将采用台积电4nm制造工艺，而在正式发布的时候，官方标注为“4N”，和台积电说的“N4”正好反过来。这是什么鬼？我们的第一反应，是这属于定制版的台积电4nm，结果只猜对了一半。&lt;strong&gt;据了解4N工艺确实是NVIDIA与台积电定制的，但并非4nm，而是5nm，所以完整说法应该是台积电4N 5nm工艺。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [游戏不会令玩家变得暴力，但网络延迟与掉线会](https://hot.cnbeta.com/articles/game/1319785.htm) | Fri Sep 23 2022 3:32 AM 
+- 🎊 [《侏罗纪世界》女主角自曝曾拒绝减肥获导演谅解](https://hot.cnbeta.com/articles/movie/1319799.htm) | Fri Sep 23 2022 5:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近一个月前，因为《斯普拉遁 3》的“前夜祭”（类似于试玩版本）出现了大量连接问题，我毅然决然购买了可以出售回本的卡带版。卡带在游戏发售后一周才到货，当我刚刚进入英雄模式（类似于单机战役）的时候，身边的同事和朋友已经都在打真格（类似于排位模式）了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;主演《侏罗纪世界》三部曲的布莱斯·达拉斯·霍华德（Bryce Dallas Howard）首度公开自己曾收到指示，要求她为《侏罗纪世界3》减肥。霍华德未指明是哪位领导关心她的体重。《侏罗纪世界3》为环球影业赚取了近十亿美元票房，仅次于《壮志凌云2》，暂列年度票房亚军位置。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1319799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
