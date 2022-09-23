@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [数字文具盒｜这些 app 帮我度过读研时光](https://sspai.com/post/75209) | Fri Sep 23 2022 3:28 AM 
+- 👹 [iPhone mini 系列停更后，小屏手机还能选什么？](https://sspai.com/post/75884) | Fri Sep 23 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们在没得选的市场里选了这些，只能祝你快乐。&lt;a href=&quot;https://sspai.com/post/75884&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [数字文具盒｜这些 app 帮我度过读研时光](https://sspai.com/post/75209) | Fri Sep 23 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75209&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：索尼发布 PlayStation VR2 预热视频、Getty Image 禁止上传和销售由 AI 生成的图像](https://sspai.com/post/75876) | Fri Sep 23 2022 1:03 AM 
+- 🤭 [派早报：索尼发布 PlayStation VR2 预热视频、Getty Image 禁止上传和销售由 AI 生成的图像](https://sspai.com/post/75876) | Fri Sep 23 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
     罗技发布多款新品，大疆发布 Osmo Mobile 6 手持稳定器等&lt;a href=&quot;https://sspai.com/post/75876&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新玩意 120｜少数派的编辑们最近买了啥？](https://sspai.com/post/75867) | Thu Sep 22 2022 9:18 AM 
+- 🥸 [新玩意 120｜少数派的编辑们最近买了啥？](https://sspai.com/post/75867) | Thu Sep 22 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
     这一期，都是「小」玩意。&lt;a href=&quot;https://sspai.com/post/75867&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [App+1 | 用三个单词定位世界的任一角落：what3words](https://sspai.com/post/75865) | Thu Sep 22 2022 8:05 AM 
+- 🙉 [App+1 | 用三个单词定位世界的任一角落：what3words](https://sspai.com/post/75865) | Thu Sep 22 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     what3words 就是一个简易版的地理坐标系。what3words 选择给一个位置赋予三个单词，这些单词又组合成一个独一无二的单词组合，这个位置的地理信息就藏在这个词组里。&lt;a href=&quot;https://sspai.com/post/75865&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [数字文具盒｜软件打造的工作流，也是我的「外部个性」](https://sspai.com/post/75169) | Thu Sep 22 2022 6:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75169&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
