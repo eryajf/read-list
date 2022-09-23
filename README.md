@@ -66,29 +66,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/) | Tue Sep 20 2022 11:11 PM 
+- 🫶 [学习周刊-总第72期-2022年第37周](https://wiki.eryajf.net/pages/430bd1/) | Fri Sep 23 2022 8:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第72期-有些事，不能忘 
+    </details> 
+
+- 🧰 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/) | Tue Sep 20 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
     本文来介绍当我们的npm私服配置完毕之后，如何上传到nexus私服中 
     </details> 
 
-- 🧰 [将maven本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/f5007c/) | Tue Sep 20 2022 11:10 PM 
+- 🌏 [将maven本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/f5007c/) | Tue Sep 20 2022 11:10 PM 
     <details><summary>展开描述 ...</summary> 
     本文来介绍当我们的maven私服配置完毕之后，如何上传到nexus私服中 
     </details> 
 
-- 🌏 [学习周刊-总第71期-2022年第36周](https://wiki.eryajf.net/pages/502079/) | Fri Sep 16 2022 9:06 AM 
+- 😎 [学习周刊-总第71期-2022年第36周](https://wiki.eryajf.net/pages/502079/) | Fri Sep 16 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第71期-一些国内的公司在服务网格方面的实践 
     </details> 
 
-- 😎 [Jenkins-Groovy中三元表达式的用法](https://wiki.eryajf.net/pages/ebae63/) | Sat Sep 10 2022 2:53 PM 
+- 💂 [Jenkins-Groovy中三元表达式的用法](https://wiki.eryajf.net/pages/ebae63/) | Sat Sep 10 2022 2:53 PM 
     <details><summary>展开描述 ...</summary> 
     我们在使用pipeline的时候，如果某一个变量没有正常声明，则会遇到变量定义失败的错误，这个时候，我们可以借助三元表达式来解决这个问题。 
-    </details> 
-
-- 💂 [学习周刊-总第70期-2022年第35周](https://wiki.eryajf.net/pages/d3ed2b/) | Fri Sep 09 2022 8:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第70期-国内效能平台实践与一个优质的开源堡垒机 
     </details> 
 <!-- eryajf:END -->
 
