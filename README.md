@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么新电脑第一次安装的 Windows 11 自动激活了](https://www.v2ex.com/t/882459#reply7) | Fri Sep 23 2022 9:09 AM
-- 🤗 [gin 练手项目,新手可以看看](https://www.v2ex.com/t/882454#reply0) | Fri Sep 23 2022 8:53 AM
-- 🎭 [Python selenium 的 WebElement 如何获取 text？](https://www.v2ex.com/t/882452#reply0) | Fri Sep 23 2022 8:45 AM
-- 🥷 [如何提高 Python 数组操作性能.](https://www.v2ex.com/t/882441#reply29) | Fri Sep 23 2022 8:02 AM
-- 🐵 [关于 sphinx build 的问题](https://www.v2ex.com/t/882438#reply0) | Fri Sep 23 2022 7:49 AM<!-- v2ex:END -->
+- 🥸 [请教一个 Java Stream 中代码命名的问题](https://www.v2ex.com/t/882474#reply0) | Fri Sep 23 2022 10:03 AM
+- 🤗 [《Redis 设计与实现》里面的内容感觉太老了（redis3.0，现在都 7.0 了），有没有别的替代的书](https://www.v2ex.com/t/882472#reply1) | Fri Sep 23 2022 9:58 AM
+- 🎭 [为什么新电脑第一次安装的 Windows 11 自动激活了](https://www.v2ex.com/t/882459#reply18) | Fri Sep 23 2022 9:09 AM
+- 🥷 [gin 练手项目,新手可以看看](https://www.v2ex.com/t/882454#reply0) | Fri Sep 23 2022 8:53 AM
+- 🐵 [Python selenium 的 WebElement 如何获取 text？](https://www.v2ex.com/t/882452#reply2) | Fri Sep 23 2022 8:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
