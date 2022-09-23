@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [能合法上路的无人驾驶巴士 蘑菇车联发布MOGO BUS](https://www.cnbeta.com/articles/tech/1319735.htm) | Fri Sep 23 2022 2:08 AM 
+- 🕯 [报告称Meta犯下的内容审核错误影响了巴勒斯坦人人权](https://www.cnbeta.com/articles/tech/1319793.htm) | Fri Sep 23 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，2022世界智能网联汽车大会上，蘑菇车联正式发布的MOGO BUS无人驾驶巴士，支持合法上路。蘑菇车联共发布了两款MOGO BUS车型，MOGO BUS M1（自动驾驶小巴）和MOGO BUS M2（自动驾驶巴士），两款车型都能够完美匹配蘑菇车联全栈自研的“车路云一体化”自动驾驶系统方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;于当地时间周四发布的一份报告显示，在2021年5月发生在加沙地带的暴力事件中，Facebook的母公司Meta犯了内容审核错误，进而影响到巴勒斯坦人的人权。&lt;/strong&gt;Meta要求咨询公司Business for Social Responsibility（以下简称BSR）审查该公司的政策和行动如何影响巴勒斯坦人和以色列人，因为该公司的监督委员会负责审查该社交媒体公司的一些最严厉的内容审核决定并向公司给出建议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [EVGA与NVIDIA分道扬镳 黄仁勋首次表态：很难过 但这是他们的决定](https://www.cnbeta.com/articles/tech/1319733.htm) | Fri Sep 23 2022 2:07 AM 
+- 💼 [首次公开：世界最神秘的半导体生产设计基地 向我们打开了大门](https://www.cnbeta.com/articles/tech/1319791.htm) | Fri Sep 23 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周北美知名显卡品牌EVGA突然宣布终结显卡业务，不再与NVIDIA合作，已经研发好的RTX 40系列显卡也不会生产了，这个决定引发了业界地震。考虑到显卡业务占了EVGA营收的7成以上，EVGA为何做出如此决绝的举动？公司CEO Andrew Han甚至放言，只要他在一天，公司就不会恢复与NVIDIA的合作，似乎两家原本亲密无间的公司之间出了什么矛盾。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;从设计，到生产，到测试、调整、再生产，到最后的出厂和面市，一枚小小的芯片，要经历一个复杂而又漫长的流程。对于这些流程，许多半导体从业者都能如数家珍。&lt;strong&gt;然而，极少有人能够真正进入全世界最顶级、最高机密的晶圆工厂，以及装备了最尖端技术设备的芯片测试实验室，以最近的距离，亲眼目睹一枚芯片的诞生全过程。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319791.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《魔兽世界》怀旧服“巫妖王之怒”新预告 重温经典](https://hot.cnbeta.com/articles/game/1319731.htm) | Fri Sep 23 2022 2:07 AM 
+- 💂 [第三代骁龙8cx+26.2小时续航 ThinkPad X13s正式开售](https://www.cnbeta.com/articles/tech/1319789.htm) | Fri Sep 23 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日暴雪公布了《魔兽世界》怀旧服资料片“巫妖王之怒”新预告，展示了资料片内容。&lt;/strong&gt;阿尔萨斯的天灾军团和驱役亡灵的强大力量将横扫大陆，只有最强大的英雄才能在冰封的北方大陆上生存下来。“巫妖王之怒”将于北京时间9月27日早上6点正式上线《魔兽世界》怀旧服，将有全新的Raid，成就，新技能铭文等等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;全球首发搭载高通第三代骁龙8cx计算平台的ThinkPad X13s国行版本开售，&lt;/strong&gt;重1.06kg，续航最长可达26.2小时，搭配16GB LPDDR4和512GB SSD硬盘，支持5G和WiFi6网络，预装Windows11ARM系统，售价7999元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NREL的弹性机器人发电机开辟了奇怪的新能源捕获思路](https://www.cnbeta.com/articles/science/1319729.htm) | Fri Sep 23 2022 2:06 AM 
+- 🚀 [美法官裁定Charter必须向Spectrum被害人支付11亿美元](https://www.cnbeta.com/articles/tech/1319787.htm) | Fri Sep 23 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，一类新的弹性能源转换器正在出现，它能够从各种不同的运动中捕获能量。&lt;strong&gt;美国国家可再生能源实验室（NREL）正在推动部署它们，首先是一系列奇怪的、弯曲的波能设计。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美达拉斯县法院法官近日裁定，Charter通信公司必须向一名在家中被Spectrum有线电视技术员杀害的83岁妇女的不动产和家庭支付超11亿美元。&lt;/strong&gt;该法院的一个陪审团先前命令Charter支付70亿美元的惩罚性赔偿金和3.375亿美元的补偿性赔偿金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [宁德时代考虑在欧洲建设第三家工厂](https://www.cnbeta.com/articles/tech/1319727.htm) | Fri Sep 23 2022 2:03 AM 
+- 🎊 [游戏不会令玩家变得暴力，但网络延迟与掉线会](https://hot.cnbeta.com/articles/game/1319785.htm) | Fri Sep 23 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，&lt;strong&gt;中国电池制造商宁德时代的欧洲区总裁Matthias Zentgraf在接受采访时表示，该公司考虑在欧洲开设第三座工厂，目前正在进行内部讨论，但是尚未有明确的决定。&lt;/strong&gt;Zentgraf称：“如果没有需求，我们将不会建立第三家工厂。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近一个月前，因为《斯普拉遁 3》的“前夜祭”（类似于试玩版本）出现了大量连接问题，我毅然决然购买了可以出售回本的卡带版。卡带在游戏发售后一周才到货，当我刚刚进入英雄模式（类似于单机战役）的时候，身边的同事和朋友已经都在打真格（类似于排位模式）了。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
