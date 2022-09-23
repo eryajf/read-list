@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [世界上最大的碳清除项目将在怀俄明州展开](https://www.cnbeta.com/articles/tech/1320007.htm) | Fri Sep 23 2022 4:01 PM 
+- 🕯 [华为nova 10 SE现身官网：比Pro版更轻薄 电池容量却一样大](https://www.cnbeta.com/articles/tech/1320013.htm) | Fri Sep 23 2022 4:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日消息，华为nova 10 SE现身海外官网，部分参数直接在官网公布。具体来说，华为nova 10 SE采用6.67英寸OLED屏幕，刷新率为90Hz，前置1600万像素，后置1.08亿像素主摄+800万超广角+200万副摄，&lt;strong&gt;电池为4500mAh，支持66W有线快充，配备8GB内存、256GB存储。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [杭州亚运会倒计时一周年灯光秀上演：500架无人机起舞](https://www.cnbeta.com/articles/tech/1320011.htm) | Fri Sep 23 2022 4:50 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日消息，微博话题“杭州亚运会倒计时一周年灯光秀”冲上热搜榜。据人民日报报道，杭州亚运会进入倒计时一周年。&lt;strong&gt;500架无人机组成的编队在杭州奥体中心起飞，变幻出亚运会吉祥物、艺术体操图标、三潭映月等图形。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [小屏旗舰索尼Xperia 5 IV上架：与iPhone 14一样重却塞进5000mAh电池](https://www.cnbeta.com/articles/tech/1320009.htm) | Fri Sep 23 2022 4:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日消息，索尼京东自营旗舰店显示，&lt;strong&gt;Xperia 5 IV已经上架接受预约，该机将于10月份正式发布，价格未知。&lt;/strong&gt;这是一款小屏旗舰，其&lt;strong&gt;屏幕尺寸只有6.1英寸，机身宽度只有67mm，&lt;/strong&gt;比小米12S和三星Galaxy S22宽度都要小，单手操作毫无压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [世界上最大的碳清除项目将在怀俄明州展开](https://www.cnbeta.com/articles/tech/1320007.htm) | Fri Sep 23 2022 4:01 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;一家气候技术初创公司计划从空气中吸出大量的二氧化碳，并将其困在怀俄明州的地下。&lt;/strong&gt;这项名为 &amp;quot;野牛“的项目目标是建立一个新设施，能够在2030年前每年吸取500万公吨的二氧化碳。然后，这些二氧化碳可以被储存在地球深处，使其远离大气层，在那里它将继续使地球变热。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《漫威蜘蛛侠：迈尔斯》公布PC先导预告 今秋发售](https://hot.cnbeta.com/articles/movie/1320005.htm) | Fri Sep 23 2022 3:43 PM 
+- 🎊 [《漫威蜘蛛侠：迈尔斯》公布PC先导预告 今秋发售](https://hot.cnbeta.com/articles/movie/1320005.htm) | Fri Sep 23 2022 3:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《漫威蜘蛛侠：迈尔斯》公开了一段PC版先导预告，该作预计在2022年秋季登顶PC（Steam和Epic）平台，敬请期待！《漫威蜘蛛侠：迈尔斯·莫拉莱斯》讲述的是迈尔斯·莫拉莱斯的崛起之路，掌控威力惊人的全新能力，成为独当一面的蜘蛛侠。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [官方消息：涉嫌泄露《GTA6》事件少年已被捕](https://hot.cnbeta.com/articles/game/1320003.htm) | Fri Sep 23 2022 3:42 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;之前《GTA6》泄密事件轰动全球，一名黑客侵入R星服务器获取了《GTA6》内部资料，并将视频和源代码放到网上泄露出来，对R星造成极大影响，并让开发团队士气低落。而这名黑客此前还入侵了Uber公司&lpar;Uber提供类似出租车交通出行服务&rpar;账户，据伦敦警方消息，这名黑客少年已被捕。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [法国宣布最低3欧元图书配送费 帮助小型书商与亚马逊竞争](https://www.cnbeta.com/articles/tech/1320001.htm) | Fri Sep 23 2022 3:09 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据路透社报道，法国政府宣布将对图书配送实行3欧元（约2.92美元）的最低收费，以帮助小书商与零售业巨头亚马逊竞争。&lt;/strong&gt;最低收费将只适用于35欧元（约34.12美元）以下的订单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [拜登政府拨款近15亿美元解决美国阿片类药物危机](https://www.cnbeta.com/articles/tech/1319999.htm) | Fri Sep 23 2022 3:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;拜登政府周五宣布了打击美国阿片类药物大流行的新措施，其中包括向各州和地区拨款近15亿美元，以提高人们对此的认知，并增加纳洛酮等大剂量逆转剂的获得。根据美国疾病控制和预防中心（CDC）的统计数据，2021年，阿片类药物危机已导致超过10.7万人因药物使用过量死亡，比去年增加了近15%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
