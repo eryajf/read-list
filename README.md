@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [关于转发多个Ref，90%前端都不知道的React useImperativeHandle Hook](https://juejin.cn/post/7146512743225360397) | Fri Sep 23 2022 10:00 AM 
+- 🤗 [【Jvm】Jvm类加载机制](https://juejin.cn/post/7146544636759113765) | Fri Sep 23 2022 12:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    类加载时机 在Java语言里面，类型的加载、连接和初始化过程都是在程序运行期间完成的 类加载的过程 类的生命周 
+    </details> 
+
+- 🎡 [12W字；2022最新Android11位大厂面试专题（三）腾讯篇](https://juejin.cn/post/7146543303985463332) | Fri Sep 23 2022 11:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    由于近期很多小伙伴开始面试了，所以在大量的刷题，也有很多问到我有没有一些大厂面试题或者常见的面试题，字节参考一下，于是乎花了一周时间整理出这份 《2022Android十一位大厂面试真题》 结合之前的 
+    </details> 
+
+- 🕯 [技术周报· 谷歌如何衡量技术人的生产力](https://juejin.cn/post/7146535305414180872) | Fri Sep 23 2022 11:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    编辑推荐：谷歌如何衡量技术人的生产力；MemLab: An open source framework for finding JavaScript memory leaks 
+    </details> 
+
+- 🚀 [Linux网络之 netfilter 框架学习研究](https://juejin.cn/post/7146518496011091976) | Fri Sep 23 2022 10:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    netfilter 框架 netfilter 是 linux 内核中的一个数据包处理框架，用于替代原有的 ipfwadm 和 ipchains 等数据包处理程序。 netfilter 的功能包括数据包 
+    </details> 
+
+- 💪 [关于转发多个Ref，90%前端都不知道的React useImperativeHandle Hook](https://juejin.cn/post/7146512743225360397) | Fri Sep 23 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
     为什么 ref 不属于 props，反而需要 forwardRef 呢？ 为什么 ref 不是 refs 呢？ 什么是 useImperativeHandle Hooks？ 
-    </details> 
-
-- 🎡 [羊了个羊火爆全网，原来自己做个小游戏这么简单！](https://juejin.cn/post/7146506651120435236) | Fri Sep 23 2022 9:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    近日，一款名为“羊了个羊”的小游戏火遍全网，不少朋友玩得直呼上头： 别人深夜吃瓜，我却在羊了个羊； 玩到凌晨四点，我怀疑它在质疑我的智商； 游戏一直没通关，但里面的所有广告我都记住了。 “羊了个羊”的 
-    </details> 
-
-- 🕯 [React 原理系列之4 —— Hook 是这样工作的](https://juejin.cn/post/7146506184411840526) | Fri Sep 23 2022 9:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    Part 1 函数式组件和 Hook 通常情况下，我们在函数式组件中这样调用 hook： 函数式组件本身是个纯函数，没有任何状态，它通过调用 useState 获取一个状态和改变状态的方法。但这个 u 
-    </details> 
-
-- 🚀 [React Fiber 架构原理之3 —— “更新”到底是个啥](https://juejin.cn/post/7146502371428794376) | Fri Sep 23 2022 9:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    前面两篇，我们基本清楚了 Fiber 的调度机制和 Fiber 树的构建机制。但这一切的前提都是，我们通过某种方式触发了“更新”。这篇我们将回到开端，研究研究“更新”。 在 React 中，我们有几种 
-    </details> 
-
-- 💪 [🎲还在用typeof、instanceof？是时候给你的类型检查升个级了](https://juejin.cn/post/7146496787757400100) | Fri Sep 23 2022 8:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    传统的这两种类型检查方法存在适用范围窄、历史遗留bug等问题，虽功能上可以互补，但使用起来也十分繁琐，今天让俺带你了解的一种更强大的类型判断方法，不仅可以一次性替代这两种方法，还支持更高级的自定义功能 
     </details> 
 <!-- juejin:END -->
 ### 少数派
