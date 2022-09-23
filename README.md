@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《仙剑奇侠传7》官方为女主换新白丝：听说你喜欢她美腿](https://hot.cnbeta.com/articles/game/1319881.htm) | Fri Sep 23 2022 8:19 AM 
+- 🕯 [一波音777客机紧急着陆：飞行时冒火星且有碎片掉落](https://www.cnbeta.com/articles/tech/1319907.htm) | Fri Sep 23 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日仙剑官方在推特上发文称：“听说许多玩家喜欢女主角月清疏，特别是她那修长的美腿。现在我们免费为月清疏更新了新的丝袜！相信你会忍不住为她换上，希望你能喜欢我们为你准备的这份礼物。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一架波音777客机在飞行途中冒出火星，还有碎片掉落，发生紧急情况后，飞机迫降，幸运的是，没有发生人员伤亡。据“央视新闻”报道，&lt;strong&gt;当地时间9月22日，美国联合航空一架飞往巴西圣保罗的航班被迫返航，紧急降落在纽瓦克自由国际机场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [索泰推出ZBOX edge CI342迷你PC 采用无风扇式散热设计](https://www.cnbeta.com/articles/tech/1319879.htm) | Fri Sep 23 2022 8:16 AM 
+- 💼 [一加Nord Watch新渲染图与更多规格细节曝光](https://www.cnbeta.com/articles/tech/1319905.htm) | Fri Sep 23 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索泰（Zotac）刚刚推出了 ZBOX edge CI342 新机，&lt;strong&gt;可知作为一款紧凑型的无风扇式迷你 PC，其采用了主频 3.0 GHz 的英特尔奔腾 N6415“Elkhart Lake”四核处理器。&lt;/strong&gt;基于被动式散热方案的 SoC 热设计功耗（TDP）仅为 6.5W，同时保持了仅 147.2×147.2×32.1 mm 的外形大小。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;赶在本月晚些时候在印度上市前，91Mobiles 已经抢先放出了一加 Nord Watch 智能手表的泄露规格和渲染图。&lt;/strong&gt;传闻称 OnePlus Nord Watch 配备了 1.78 英寸方形 AMOLED 屏 + 2.5D 玻璃，可选黑 / 蓝两种配色。此外手表右侧有个功能键，原厂提供了硅胶、电池续航长达 10 天、并且支持 N Health 应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [报告称可再生能源领域工作人员在持续增长](https://www.cnbeta.com/articles/tech/1319877.htm) | Fri Sep 23 2022 8:14 AM 
+- 💂 [利用虚拟面单骗取快递公司千万元，面单倒卖“黑产”如何形成？](https://www.cnbeta.com/articles/tech/1319901.htm) | Fri Sep 23 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国际可再生能源署&lpar;IRENA&rpar;和国际劳工组织&lpar;ILO&rpar;今日发布的一份全球可再生能源就业报告显示了哪些国家在风能和太阳能制造和安装方面处于世界领先地位。《可再生能源与就业：2022年年度回顾&lpar;Renewable Energy and Jobs: Annual Review 2022&rpar;》显示，在可再生能源领域工作的人数在持续增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近年来，快递黑产问题逐渐被重视。30岁的林某之前在上海从事快递工作，离职后自主经营一家快递驿站。期间，他发现快递系统存在漏洞：客户下单寄件，公司会给快递员一个单号，但若客户取消寄件，单号却不会被收回。该单号既未被使用，又已经形成，成为特殊的虚拟号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [百公里加速仅3.4秒 全新梅赛德斯-AMG C 63亮相](https://www.cnbeta.com/articles/tech/1319875.htm) | Fri Sep 23 2022 8:11 AM 
+- 🚀 [印度电力部长：拟在2030年前将燃煤发电规模扩大约25%](https://www.cnbeta.com/articles/tech/1319899.htm) | Fri Sep 23 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，我们获悉，梅赛德斯-AMG C 63 S E PERFORMANCE官图正式发布。&lt;/strong&gt;外观方面，新车沿用了全新C级的设计，采用直瀑式前格栅搭配两侧锐利LED大灯组，匹配三段式进气口，整个前脸看上去非常的犀利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;印度电力部长辛格本周在接受采访时表示，印度计划在2030年之前将燃煤发电规模扩大约四分之一，在储能成本下降之前，印度将继续依赖煤炭来满足日益增长的需求。&lt;/strong&gt;辛格表示，印度将增加近56 GW的燃煤发电能力，除非储能成本的成本大幅下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [全面转型电动化，Ram全新皮卡概念车将于洛杉矶车展发布](https://www.cnbeta.com/articles/tech/1319873.htm) | Fri Sep 23 2022 8:06 AM 
+- 🎊 [月银色小米12T和小米12T Pro渲染图曝光](https://www.cnbeta.com/articles/tech/1319897.htm) | Fri Sep 23 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，Ram品牌官方宣布旗下首款电动皮卡概念车，将在11月份举办的洛杉矶车展上正式亮相。&lt;/strong&gt;从官方公布的预告图来看，Ram电动皮卡的外观采用了比较前卫的设计风格，“X”形的灯组设计极具辨识度，中间还有可点亮的“RAM”标识，比较符合它新能源车的身份。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;国外科技媒体 WinFuture 的知名编辑 Roland Quandt 在最新推文中，分享了小米 12T 和小米 12T Pro 两款型号月球银（Lunar Silver）的高清渲染图&lt;/strong&gt;。这是小米新款手机的全新配色，上周该媒体已经分享了黑色和蓝色两种颜色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
