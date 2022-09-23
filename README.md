@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [经典单机大作改编 《仙剑奇侠传四》官方漫画来了](https://hot.cnbeta.com/articles/comic/1319931.htm) | Fri Sep 23 2022 10:20 AM 
+- 🕯 [Netflix仍是全美头号流媒体服务提供商 但调查表明25%订户打算弃坑](https://hot.cnbeta.com/articles/movie/1319939.htm) | Fri Sep 23 2022 11:12 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;由 Reviews.org 最新分享的数据可知，&lt;strong&gt;尽管 Netflix 仍是美国流媒体市场的重量级选手，但其在 2022 年前两个季度的用户流失率也相当夸张。&lt;/strong&gt;虽然该公司通过引入有广告支持的新订阅方案而吸引了百万新用户，但新调查表明有近 1/4 的 Netflix 用户计划在年内取消订阅。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1319939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iPhone 14 Pro的强劲业绩可能使苹果占据高端智能手机60%的市场份额](https://www.cnbeta.com/articles/tech/1319937.htm) | Fri Sep 23 2022 11:06 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;如果消费者的热烈反应今年会持续，iPhone 14 Pro机型的强劲销售业绩可能让苹果在高端手机的市场份额稳定在60%。&lt;/strong&gt;据DigiTimes报道，今年到目前为止，苹果单价超过500美元的高端手机市场份额在淡季达到55%，在旺季达到60%，但iPhone 14 Pro的销售如果保持目前的势头，其不断走高的旺季份额可能会成为常态。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [AlphaFold、细胞组织机制及嗜睡研究获颁生命科学突破奖](https://www.cnbeta.com/articles/science/1319935.htm) | Fri Sep 23 2022 11:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月23日，“2023年科学突破奖”获奖名单揭晓。有着科学界“第一巨奖”“科学界的奥斯卡”之称的科学突破奖（Breakthrough Prize），主要奖励生命科学、基础物理学、数学领域的顶尖研究人员，其中生命科学领域每年最多颁发4项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Creative推出Sound Blaster Blaze V2游戏耳机新品](https://www.cnbeta.com/articles/tech/1319933.htm) | Fri Sep 23 2022 10:50 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;创新（Creative Technology）刚刚推出了 V2 版本的 Sound Blaster Blaze 游戏耳机，可知其在继承了初代功能的基础上，还可为 PC、Mac、PlayStation、Xbox 和 Switch 玩家带来全新的游戏体验。&lt;strong&gt;Sound Blaster Blaze V2 采用了通体黑色的商务外观，但在头箍和耳罩上使用了优质天鹅绒衬垫。&lt;/strong&gt;结合仅 87 克的重量，其能够显著改善长时间佩戴的舒适度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [经典单机大作改编 《仙剑奇侠传四》官方漫画来了](https://hot.cnbeta.com/articles/comic/1319931.htm) | Fri Sep 23 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《仙剑奇侠传四》是由软星科技研发的角色扮演单机游戏，也是系列单机游戏《仙剑奇侠传》的第五部作品，于2007年8月1日上市。值此《仙剑奇侠传四》上市十五周年之际，&lt;strong&gt;仙剑官方特别为大家带来《仙剑奇侠传四》改编同名长篇漫画，将于10月3日正式与仙迷们见面。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1319931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [印度电信法2022新监管草案或对“端到端加密”造成巨大冲击](https://www.cnbeta.com/articles/tech/1319929.htm) | Fri Sep 23 2022 10:20 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;印度政府似乎正在终结端到端（E2EE）加密，因为当局提出的一项新法律，或对 WhatsApp、Signal、电报等即使消息应用产生重大影响。&lt;/strong&gt;《印度斯坦时报》援引周三晚些时候上传的“2022 电信法案（新草案）”称，印度政府正提议将拦截通信服务纳入法律框架。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Garmin推出首款智能血压计Index BPM](https://www.cnbeta.com/articles/tech/1319927.htm) | Fri Sep 23 2022 10:04 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Garmin刚刚发布了一款通过FDA许可（并不是FDA认证）的智能血压计，以配合其其他以健康为重点的可穿戴设备。Garmin Index BPM智能血压计允许用户测量收缩压和舒张压，并将数据与Garmin Connect移动应用同步，该应用还可与智能手表、胸带、智能秤和自行车电脑等Garmin设备同步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [A16仿生芯片透视图：相比A15面积更大、性能核心二级缓存增加、GPU布局相同](https://www.cnbeta.com/articles/tech/1319925.htm) | Fri Sep 23 2022 10:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;A16仿生是苹果在台积电4纳米架构上大规模生产的第一款定制芯片，这使其成为现在利用最尖端技术制造的产品。因此，它与A15 Bionic之间有一些明显的区别，所以让我们直接进入透视扫描细节，看看两者之间有什么不同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [CP2077演示：DLSS 3助力RTX 4090降低1/4功耗 兼顾频率与温度表现](https://www.cnbeta.com/articles/tech/1319923.htm) | Fri Sep 23 2022 10:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;通过《赛博朋克 2077》和 DLSS 3 的特色演示，英伟达又秀了一把 GeForce RTX 4090 的游戏性能。&lt;/strong&gt;比如在 2.85 GHz 的频率下，该显卡仍能够将温度控制在 50℃ 。与此同时，第三代深度学习超级采样技术（DLSS 3）可将 GPU 功率降低多达 25% 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
