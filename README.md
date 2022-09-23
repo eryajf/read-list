@@ -378,24 +378,24 @@
     useElementSizeuseElementSizeuseElementSizeuseElementSizeuseElementSizeuseElementSizeuseElementSizeus 
     </details> 
 
-- 🎡 [uniapp微信小程序强制更新](https://juejin.cn/post/7146402892197396488) | Fri Sep 23 2022 2:53 AM 
+- 🎡 [浏览器进程和线程](https://juejin.cn/post/7146410097281859591) | Fri Sep 23 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 微信小程序发完正式版后，别人不是马上就能同步收到的，搞得很复杂，还是上个版本 那咋办捏 解决办法 从uni官网找到了一个api ，可以弹窗强制更新，原理应该是本地对比网上的版本 我直接上代码，欢 
+    进程与线程概念 进程：程序的一次执行，占有一片独立的内存空间 线程： 是进程内的一个独立执行单元， 是程序执行的一个完整流程， 是CPU的最小的调度单元 单线程与多线程概念 单线程：一个进程内只有一个 
     </details> 
 
-- 🕯 [Flink OLAP 助力 ByteHTAP 亮相数据库顶会 VLDB](https://juejin.cn/post/7146399975570669581) | Fri Sep 23 2022 2:42 AM 
+- 🕯 [OpenCV + Kotlin 实现 USB 摄像头&lpar;相机&rpar;实时画面、拍照](https://juejin.cn/post/7146410037533999135) | Fri Sep 23 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-    复杂查询 QPS 破百，字节跳动 Flink OLAP 助力 ByteHTAP 亮相数据库顶会 VLDB。 
+    本文介绍了如何使用 OpenCV 和 Kotlin 对 USB 摄像头&lpar;相机&rpar;进行实时画面的展示、拍照。期间涉及到大量使用 JNI 以及 OpenCV C++ 相关的内容。 
     </details> 
 
-- 🚀 [通过vNode实现给列表字段打标签](https://juejin.cn/post/7146398625868808228) | Fri Sep 23 2022 2:36 AM 
+- 🚀 [vue router 4 源码篇：router history的原生结合](https://juejin.cn/post/7146408382251925540) | Fri Sep 23 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
-    我是甜点cc，怎么实现给列表数据的特定字段打上不同类型的标签呢？看我是怎么使用JSX做到的&lpar;￣▽￣&rpar; 
+    vue-router是vue官方指定的路由管理库，拥有21.2k star和 2039876的周下载量，实属难得的优秀开源库。那么vue-router是如何完美结合vue？我们一起揭秘它的神秘面纱！ 
     </details> 
 
-- 💪 [【代码大全】精华总结之建立子程序的步骤&lpar;5&rpar;](https://juejin.cn/post/7146397775003910175) | Fri Sep 23 2022 2:34 AM 
+- 💪 [Shopee 「毕业」小伙伴访谈录（一）](https://juejin.cn/post/7146406075233730596) | Fri Sep 23 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
-    1、目的 将有效部分 拿出来和大家一起分享 2、创建程序过程 给子程序命名似乎是小事一桩，但好的子程序名字往往是一个高质量软件 的标志之一，而且，命名并不是件容易的事情 3、子程序编码 4、检查子程序 
+    凡事不必太在意，一切随缘随心，缘深多聚聚，缘浅随它去。慢慢的把精力放到该放的地方，充实自己，充实时间，事情总会过去的，以后的你会更加精彩。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
