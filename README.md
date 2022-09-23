@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [关于发版后如何自动清理缓存](https://juejin.cn/post/7146498255155625997) | Fri Sep 23 2022 9:03 AM 
+- 🤗 [关于转发多个Ref，90%前端都不知道的React useImperativeHandle Hook](https://juejin.cn/post/7146512743225360397) | Fri Sep 23 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
-    通俗易懂 老少皆宜 对于常规配置没有生效的同学可以进来讨论讨论 周五了就放开点 读了就懂的方法等你来评论~ 
+    为什么 ref 不属于 props，反而需要 forwardRef 呢？ 为什么 ref 不是 refs 呢？ 什么是 useImperativeHandle Hooks？ 
     </details> 
 
-- 🎡 [简单手写实现React的基本生命周期](https://juejin.cn/post/7146492323105341471) | Fri Sep 23 2022 8:40 AM 
+- 🎡 [羊了个羊火爆全网，原来自己做个小游戏这么简单！](https://juejin.cn/post/7146506651120435236) | Fri Sep 23 2022 9:35 AM 
     <details><summary>展开描述 ...</summary> 
-    - 类组件才有生命周期钩子，函数组件是副作用函数 - 挂载的，围绕render就好，挂载阶段的生命周期：componentWillMount 和 componentDidMount 
+    近日，一款名为“羊了个羊”的小游戏火遍全网，不少朋友玩得直呼上头： 别人深夜吃瓜，我却在羊了个羊； 玩到凌晨四点，我怀疑它在质疑我的智商； 游戏一直没通关，但里面的所有广告我都记住了。 “羊了个羊”的 
     </details> 
 
-- 🕯 [react源码解析2.react的设计理念](https://juejin.cn/post/7146381168119087112) | Fri Sep 23 2022 1:29 AM 
+- 🕯 [React 原理系列之4 —— Hook 是这样工作的](https://juejin.cn/post/7146506184411840526) | Fri Sep 23 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-    异步可中断 React15慢在哪里 在讲这部分之前，需要讲是那些因素导致了react变慢，并且需要重构呢。 React15之前的协调过程是同步的，也叫stack reconciler，又因为js的执行 
+    Part 1 函数式组件和 Hook 通常情况下，我们在函数式组件中这样调用 hook： 函数式组件本身是个纯函数，没有任何状态，它通过调用 useState 获取一个状态和改变状态的方法。但这个 u 
     </details> 
 
-- 🚀 [再不学Promise就落后了，大神都知道的Promise](https://juejin.cn/post/7146376263769260045) | Fri Sep 23 2022 1:09 AM 
+- 🚀 [React Fiber 架构原理之3 —— “更新”到底是个啥](https://juejin.cn/post/7146502371428794376) | Fri Sep 23 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-    Promise Promise 对象用于表示一个异步操作的最终完成（或失败）及其结果值。 备注： 此特性在 Web Worker 中可用 若想了解 promise 的工作方式以及如何使用它们，我们建议 
+    前面两篇，我们基本清楚了 Fiber 的调度机制和 Fiber 树的构建机制。但这一切的前提都是，我们通过某种方式触发了“更新”。这篇我们将回到开端，研究研究“更新”。 在 React 中，我们有几种 
     </details> 
 
-- 💪 [Element Plus 组件库相关技术揭秘：2. 组件库工程化实战之 Monorepo 架构搭建](https://juejin.cn/post/7146183222425518093) | Thu Sep 22 2022 12:40 PM 
+- 💪 [🎲还在用typeof、instanceof？是时候给你的类型检查升个级了](https://juejin.cn/post/7146496787757400100) | Fri Sep 23 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    工程化的核心并非工具，而是以工具为实现媒介进行规范工作流程。文章中实现的是组件库项目文件组织结构的规范，TypeScript 编译和类型检测流程的规范，还有工具链的统一。 
+    传统的这两种类型检查方法存在适用范围窄、历史遗留bug等问题，虽功能上可以互补，但使用起来也十分繁琐，今天让俺带你了解的一种更强大的类型判断方法，不仅可以一次性替代这两种方法，还支持更高级的自定义功能 
     </details> 
 <!-- juejin:END -->
 ### 少数派
