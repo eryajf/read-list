@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [勇探飓风菲奥娜：NOAA分享无人船拍摄的四级风暴内部视频](https://www.cnbeta.com/articles/science/1319853.htm) | Fri Sep 23 2022 7:19 AM 
+- 🕯 [《仙剑奇侠传7》官方为女主换新白丝：听说你喜欢她美腿](https://hot.cnbeta.com/articles/game/1319881.htm) | Fri Sep 23 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;强大的 4 级风暴 Fiona 正在穿越大西洋，美国国家海洋和大气管理局（NOAA）也低调分享了无人观测船 Saildrone Explorer（SD 1078）拍摄的两段新视频。&lt;/strong&gt;首先是该无人船在 50 英尺（15 米）高的海浪和 100 mph（160 km/h）的风速下拍摄的一段视频，不过周四的时候，Fiona 已增强为 4 级风暴，而 Saildrone 也经历了超过 130 mph（209 km/h）的风速考验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日仙剑官方在推特上发文称：“听说许多玩家喜欢女主角月清疏，特别是她那修长的美腿。现在我们免费为月清疏更新了新的丝袜！相信你会忍不住为她换上，希望你能喜欢我们为你准备的这份礼物。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [河北的第一场雪来了 气温骤降、一秒入冬](https://www.cnbeta.com/articles/tech/1319851.htm) | Fri Sep 23 2022 7:19 AM 
+- 💼 [索泰推出ZBOX edge CI342迷你PC 采用无风扇式散热设计](https://www.cnbeta.com/articles/tech/1319879.htm) | Fri Sep 23 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对绝大多数人而言，此时此刻还是夏天，但很多地方已经有了入冬的感觉，比如黑龙江，比如河北！昨天，中央气象台发布了今年下半年首个大风降温预报，北方多地的气温应声而落，比如内蒙古降温幅度达10-20℃。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索泰（Zotac）刚刚推出了 ZBOX edge CI342 新机，&lt;strong&gt;可知作为一款紧凑型的无风扇式迷你 PC，其采用了主频 3.0 GHz 的英特尔奔腾 N6415“Elkhart Lake”四核处理器。&lt;/strong&gt;基于被动式散热方案的 SoC 热设计功耗（TDP）仅为 6.5W，同时保持了仅 147.2×147.2×32.1 mm 的外形大小。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [腾讯极光盒子5 Pro发布：4K画质秒升8K 到手999元](https://hot.cnbeta.com/articles/movie/1319849.htm) | Fri Sep 23 2022 7:18 AM 
+- 💂 [报告称可再生能源领域工作人员在持续增长](https://www.cnbeta.com/articles/tech/1319877.htm) | Fri Sep 23 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月23日消息，今日，腾讯极光官方发布首款HDR Vivid认证的全程8K电视盒子——&lt;strong&gt;腾讯极光盒子5 Pro，号称“专为8K观影而生”，到手价999元。&lt;/strong&gt;据介绍，腾讯极光盒子5 Pro支持全程8K 60fps分辨率视频解码，8K输出、内置8K片源。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1319849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国际可再生能源署&lpar;IRENA&rpar;和国际劳工组织&lpar;ILO&rpar;今日发布的一份全球可再生能源就业报告显示了哪些国家在风能和太阳能制造和安装方面处于世界领先地位。《可再生能源与就业：2022年年度回顾&lpar;Renewable Energy and Jobs: Annual Review 2022&rpar;》显示，在可再生能源领域工作的人数在持续增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [科学家正研究汤加火山喷发水蒸气对环境的影响](https://www.cnbeta.com/articles/science/1319847.htm) | Fri Sep 23 2022 7:17 AM 
+- 🚀 [百公里加速仅3.4秒 全新梅赛德斯-AMG C 63亮相](https://www.cnbeta.com/articles/tech/1319875.htm) | Fri Sep 23 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年 1 月，汤加海底火山爆发之后喷发出了大量的水蒸气，而科学家们仍在努力了解本次喷发对环境的影响。&lt;a href=&quot;https://www.science.org/doi/10.1126/science.abq2299&quot; target=&quot;_blank&quot;&gt;根据本周四发表在《Science》上的论文&lt;/a&gt;，洪阿哈阿帕伊岛火山（Hunga Tonga-Hunga Ha&amp;#39;apai）将数百万吨的水蒸气喷射到大气中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1319847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，我们获悉，梅赛德斯-AMG C 63 S E PERFORMANCE官图正式发布。&lt;/strong&gt;外观方面，新车沿用了全新C级的设计，采用直瀑式前格栅搭配两侧锐利LED大灯组，匹配三段式进气口，整个前脸看上去非常的犀利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Mate 50系列5G通信壳上架华为官方店：799元 保时捷版贵100](https://www.cnbeta.com/articles/tech/1319845.htm) | Fri Sep 23 2022 7:12 AM 
+- 🎊 [全面转型电动化，Ram全新皮卡概念车将于洛杉矶车展发布](https://www.cnbeta.com/articles/tech/1319873.htm) | Fri Sep 23 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月23日消息，由数源科技SoyeAlink为华为Mate 50系列打造的5G上网神器——&lt;strong&gt;5G通信壳现已在华为京东自营官方旗舰店上架，适配全系机型。&lt;/strong&gt;据了解，通信壳提供石墨黑、丁香紫两款配色，其中Mate 50和Mate 50E通信壳可通用，价格上，&lt;strong&gt;Mate 50/E/Pro三款机型通信壳售价799元，RS保时捷版价格为899元，比其它机型贵了100元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，Ram品牌官方宣布旗下首款电动皮卡概念车，将在11月份举办的洛杉矶车展上正式亮相。&lt;/strong&gt;从官方公布的预告图来看，Ram电动皮卡的外观采用了比较前卫的设计风格，“X”形的灯组设计极具辨识度，中间还有可点亮的“RAM”标识，比较符合它新能源车的身份。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
