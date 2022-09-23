@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星Galaxy S23 Ultra成首款骁龙8 Gen2入网新机 祖传25W充电器](https://www.cnbeta.com/articles/tech/1319975.htm) | Fri Sep 23 2022 1:49 PM 
+- 🕯 [AirPods Pro 2充电盒可以广播电池状态 无论里面有没有耳塞](https://www.cnbeta.com/articles/tech/1319981.htm) | Fri Sep 23 2022 2:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果的第二代AirPods Pro现在已经在用户手中，一个值得注意的新消息是，即使AirPods在你的耳朵里，MagSafe充电盒也能向iOS电池小部件广播其充电状态。对于其他AirPods型号，包括第一代AirPods Pro，用户必须将耳塞放在充电盒中，才能获得充电盒本身的电池状态读数。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [USB-IF更新USB产品标识 使之更容易理解](https://www.cnbeta.com/articles/tech/1319979.htm) | Fri Sep 23 2022 2:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;USB-IF继续对自制的混乱标准进行斗争，并对其网站进行了修订，今后会在合作伙伴的产品上使用新的标识。&lt;/strong&gt;诸如&amp;quot;HiSpeed&amp;quot;或新的&amp;quot;USB4&amp;quot;等描述已不复存在，只有实际速度和充电性能被强调。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Intel 13代酷睿单核性能一骑绝尘 AMD已看不见尾灯](https://www.cnbeta.com/articles/tech/1319977.htm) | Fri Sep 23 2022 2:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;这几年，Intel的单核性能一直非常强势，Zen3的锐龙5000系列刚刚追上11代酷睿，新架构的12代、13代酷睿又一路狂奔，Zen4的锐龙7000系列也追赶无望。最新旗舰i9-13900K除了增加8个小核达到24核心，最高加速频率也达到了惊人的5.8GHz，比起灰烬版的i9-12900KS还要高出300MHz。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [三星Galaxy S23 Ultra成首款骁龙8 Gen2入网新机 祖传25W充电器](https://www.cnbeta.com/articles/tech/1319975.htm) | Fri Sep 23 2022 1:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月23日消息，根据高通官方此前列出的重要会议的日程表显示，今年骁龙技术峰会定于11月14日-17日举行，按往年惯例，高通新一代旗舰处理器骁龙8 Gen2将在此次峰会发布。有消息称，首批搭载骁龙8 Gen2的新机计划在骁龙峰会后发布，目前暂定11月下半月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [RTX 4080 AD104 12GB晶体管远超3090Ti 面积却小了一半](https://www.cnbeta.com/articles/tech/1319973.htm) | Fri Sep 23 2022 1:49 PM 
+- 🎊 [RTX 4080 AD104 12GB晶体管远超3090Ti 面积却小了一半](https://www.cnbeta.com/articles/tech/1319973.htm) | Fri Sep 23 2022 1:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;NVIDIA Ada Lovelace RTX 40系列采用了特殊的台积电4N工艺，NVIDIA定制版本，实际上属于台积电5nm工艺家族。事实上，&lt;strong&gt;台积电5nm家族版本非常丰富，包括标准版N5、性能增强版N5P、N4、N4P、N4X、NVIDIA 4N。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [特斯拉反诉发起种族偏见诉讼背后的民权机构](https://www.cnbeta.com/articles/tech/1319971.htm) | Fri Sep 23 2022 1:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉在让法官驳回上个月指控该汽车制造商弗里蒙特工厂存在种族偏见的案件的尝试中失败，因此该汽车制造商现在转而对对负责此事的机构提出反诉。这家豪华电动汽车制造商周四在阿拉米达县的州法院提出申诉，称加州民权局（CRD）在调查特斯拉工厂时采用了&amp;quot;地下法规&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [燃油版全系2.0T四缸机 新款领克03家族上市：15.48万元起](https://www.cnbeta.com/articles/tech/1319969.htm) | Fri Sep 23 2022 12:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月23日晚，领克汽车官方宣布，新款领克03家族正式上市，该车推出燃油和混动两种，共计五款车型，&lt;strong&gt;售价区间为15.48-17.68万元&lt;/strong&gt;。需要注意的是，此次上市的均为普通版车型，领克03+车型仍将通过线上限量公售的模式开放销售，价格暂时未公布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [网易游戏发布国庆小长假未成年人限玩通知：每天1小时](https://hot.cnbeta.com/articles/game/1319967.htm) | Fri Sep 23 2022 12:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;下周就要迎来国庆小长假了，今日，网易游戏发布“关于国庆节假期未成年人游戏限时的通知”。&lt;strong&gt;未成年玩家可以在9月30日至10月7日每天20时至21时体验游戏。&lt;/strong&gt;根据通知安排，未成年人可以在当日20时至21时体验游戏的日期：9月30日（星期五）、10月1日至10月7日（国庆节假期）。未成年人无法体验游戏的日期：10月8、9日（星期六、星期日，工作日）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
