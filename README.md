@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [研究人员披露了 Oracle 云基础设施中的严重漏洞，现已修复](https://www.freebuf.com/news/345399.html) | Fri Sep 23 2022 5:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    研究人员发现了一个严重的 Oracle 云基础设施 &lpar;OCI&rpar; 漏洞，目前已修复。 
+    </details> 
+
 - 🦄 [Python 15年未修的漏洞可能影响 35万余个项目，速查](https://www.freebuf.com/news/345395.html) | Fri Sep 23 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
     Python模块中存在一个长达15年未修复的安全漏洞，可能导致35万余个开源项目被利用。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 韩国战争纪念馆遭黑客攻击；中国联通回应被美FCC列入安全威胁清单](https://www.freebuf.com/news/345329.html) | Thu Sep 22 2022 8:47 AM 
+- 🦅 [FreeBuf早报 | 韩国战争纪念馆遭黑客攻击；中国联通回应被美FCC列入安全威胁清单](https://www.freebuf.com/news/345329.html) | Thu Sep 22 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
     韩国国防部下设的战争纪念馆近期遭到身份不明的黑客网络攻击，但没有因此泄露军方的军事资料。 
     </details> 
 
-- 🦅 [开源代码库攻击在三年间暴涨7倍](https://www.freebuf.com/news/345307.html) | Thu Sep 22 2022 7:31 AM 
+- 🪄 [开源代码库攻击在三年间暴涨7倍](https://www.freebuf.com/news/345307.html) | Thu Sep 22 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者将恶意代码置入开源软件组件，这些组件被分发到下游，危及众多被企业和消费者依赖的应用程序。 
     </details> 
 
-- 🪄 [五分之二美国消费者数据被盗,企业也难逃攻击者“毒手”](https://www.freebuf.com/news/345281.html) | Thu Sep 22 2022 6:17 AM 
+- 💻 [五分之二美国消费者数据被盗,企业也难逃攻击者“毒手”](https://www.freebuf.com/news/345281.html) | Thu Sep 22 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
     过去一年中，大约五分之二美国消费者的个人信息被盗、泄露或滥用。 
-    </details> 
-
-- 💻 [WebSocket的利用方式](https://www.freebuf.com/articles/web/345226.html) | Thu Sep 22 2022 1:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    虽然每次访问都访问都会有这个websocket连接，这个东西在我学习网络的时候也了解过是什么，但是不太清楚有没有利用方式，所以研究一番。 
     </details> 
 <!-- freebuf:END -->
 
