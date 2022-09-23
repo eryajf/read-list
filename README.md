@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [法国宣布最低3欧元图书配送费 帮助小型书商与亚马逊竞争](https://www.cnbeta.com/articles/tech/1320001.htm) | Fri Sep 23 2022 3:09 PM 
+- 🕯 [世界上最大的碳清除项目将在怀俄明州展开](https://www.cnbeta.com/articles/tech/1320007.htm) | Fri Sep 23 2022 4:01 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;一家气候技术初创公司计划从空气中吸出大量的二氧化碳，并将其困在怀俄明州的地下。&lt;/strong&gt;这项名为 &amp;quot;野牛“的项目目标是建立一个新设施，能够在2030年前每年吸取500万公吨的二氧化碳。然后，这些二氧化碳可以被储存在地球深处，使其远离大气层，在那里它将继续使地球变热。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《漫威蜘蛛侠：迈尔斯》公布PC先导预告 今秋发售](https://hot.cnbeta.com/articles/movie/1320005.htm) | Fri Sep 23 2022 3:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《漫威蜘蛛侠：迈尔斯》公开了一段PC版先导预告，该作预计在2022年秋季登顶PC（Steam和Epic）平台，敬请期待！《漫威蜘蛛侠：迈尔斯·莫拉莱斯》讲述的是迈尔斯·莫拉莱斯的崛起之路，掌控威力惊人的全新能力，成为独当一面的蜘蛛侠。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [官方消息：涉嫌泄露《GTA6》事件少年已被捕](https://hot.cnbeta.com/articles/game/1320003.htm) | Fri Sep 23 2022 3:42 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;之前《GTA6》泄密事件轰动全球，一名黑客侵入R星服务器获取了《GTA6》内部资料，并将视频和源代码放到网上泄露出来，对R星造成极大影响，并让开发团队士气低落。而这名黑客此前还入侵了Uber公司&lpar;Uber提供类似出租车交通出行服务&rpar;账户，据伦敦警方消息，这名黑客少年已被捕。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [法国宣布最低3欧元图书配送费 帮助小型书商与亚马逊竞争](https://www.cnbeta.com/articles/tech/1320001.htm) | Fri Sep 23 2022 3:09 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;据路透社报道，法国政府宣布将对图书配送实行3欧元（约2.92美元）的最低收费，以帮助小书商与零售业巨头亚马逊竞争。&lt;/strong&gt;最低收费将只适用于35欧元（约34.12美元）以下的订单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [拜登政府拨款近15亿美元解决美国阿片类药物危机](https://www.cnbeta.com/articles/tech/1319999.htm) | Fri Sep 23 2022 3:07 PM 
+- 🎊 [拜登政府拨款近15亿美元解决美国阿片类药物危机](https://www.cnbeta.com/articles/tech/1319999.htm) | Fri Sep 23 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;拜登政府周五宣布了打击美国阿片类药物大流行的新措施，其中包括向各州和地区拨款近15亿美元，以提高人们对此的认知，并增加纳洛酮等大剂量逆转剂的获得。根据美国疾病控制和预防中心（CDC）的统计数据，2021年，阿片类药物危机已导致超过10.7万人因药物使用过量死亡，比去年增加了近15%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [东北“绝命毒师”，用海克斯科技美食帮我戒掉了外卖](https://hot.cnbeta.com/articles/movie/1319997.htm) | Fri Sep 23 2022 3:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不知道有多少朋友和我一样，平时喜欢靠着各类美食博主们的视频下饭。不管是举着摄像机，一边无视周围人好奇的目光，一边发动社交牛逼症，对美食进行一番辛辣点评的探店博主；还是自己采购材料，然后花上好几天的时间研究配方，力求原汁原味复刻店内美食的做菜博主。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1319997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [三星和LG正在开发8.7代基板 将OLED面板用于更多IT设备](https://www.cnbeta.com/articles/tech/1319995.htm) | Fri Sep 23 2022 3:05 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;目前三星和LG都积极地扩大OLED面板的产能，同时选择采用更大的基板来生产针对智能手机以外的IT设备所使用的OLED面板，以覆盖更多的细分市场。&lt;/strong&gt;据The Elec报道，三星和LG正在开发8.7代基板（2290mm x 2620 mm），面积略大于制造商通常采用的8代基板（2200mm x 2500 mm），垂直和水平方向都有所增加，预计更大的面积可以将生产效率提高约9%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [花钱雇了4个人监督自己学习，结果……](https://www.cnbeta.com/articles/tech/1319993.htm) | Fri Sep 23 2022 3:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在一线城市工作近4年的晓寒不知从何时开始，刷到了越来越多的自律帖子——“被纪录片喂大的女生格局有多炸裂”“自律30天，生活狠狠奖励了我”“自律半年，我变成了大家羡慕的样子”……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
