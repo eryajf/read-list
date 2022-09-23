@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Jvm】Jvm类加载机制](https://juejin.cn/post/7146544636759113765) | Fri Sep 23 2022 12:04 PM 
+- 🤗 [SpringBoot RocketMQ消息监听器&lpar;RocketMQMessageListener&rpar;后置注册](https://juejin.cn/post/7146579703925587998) | Fri Sep 23 2022 2:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、问题说明 SpringBoot RocketMQ可以从源码中查看到实现了SmartInitializingSingleton接口，在所有Bean注册完成之后就会开始注册，注册使用的是main线程， 
+    </details> 
+
+- 🎡 [面霸养成记；50万字Android面试文档致敬2022摸爬滚打的一年](https://juejin.cn/post/7146576872103477279) | Fri Sep 23 2022 2:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 &quot;抗寒&quot;,2022专有词....任正非大佬都说了要把寒气传给每一个人，确实22年过得很艰辛，摸爬滚打，总算是安定下来了。 回头想想，抽空吧面试过程中被问到的问题和平时看的文档整理分享出来，希望能 
+    </details> 
+
+- 🕯 [node.js有哪些全局对象呢，](https://juejin.cn/post/7146575785690660901) | Fri Sep 23 2022 2:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、是什么 在浏览器 JavaScript 中，通常window 是全局对象， 而 Nodejs中的全局对象是 global 在NodeJS里，是不可能在最外层定义一个变量，因为所有的用户代码都是当前 
+    </details> 
+
+- 🚀 [不会算法也能微调一个 NLP 预训练模型](https://juejin.cn/post/7146575333721341966) | Fri Sep 23 2022 2:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文为来自 教育-智能学习-前端团队 成员的文章，已授权 ELab 发布。 前言 学习nlp的过程，就像升级打怪，每一个阶段都是一个坎，要想出新手村，需要跨过这几个坎 level 1、了解nlp的概念 
+    </details> 
+
+- 💪 [【Jvm】Jvm类加载机制](https://juejin.cn/post/7146544636759113765) | Fri Sep 23 2022 12:04 PM 
     <details><summary>展开描述 ...</summary> 
     类加载时机 在Java语言里面，类型的加载、连接和初始化过程都是在程序运行期间完成的 类加载的过程 类的生命周 
-    </details> 
-
-- 🎡 [12W字；2022最新Android11位大厂面试专题（三）腾讯篇](https://juejin.cn/post/7146543303985463332) | Fri Sep 23 2022 11:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    由于近期很多小伙伴开始面试了，所以在大量的刷题，也有很多问到我有没有一些大厂面试题或者常见的面试题，字节参考一下，于是乎花了一周时间整理出这份 《2022Android十一位大厂面试真题》 结合之前的 
-    </details> 
-
-- 🕯 [技术周报· 谷歌如何衡量技术人的生产力](https://juejin.cn/post/7146535305414180872) | Fri Sep 23 2022 11:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    编辑推荐：谷歌如何衡量技术人的生产力；MemLab: An open source framework for finding JavaScript memory leaks 
-    </details> 
-
-- 🚀 [Linux网络之 netfilter 框架学习研究](https://juejin.cn/post/7146518496011091976) | Fri Sep 23 2022 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    netfilter 框架 netfilter 是 linux 内核中的一个数据包处理框架，用于替代原有的 ipfwadm 和 ipchains 等数据包处理程序。 netfilter 的功能包括数据包 
-    </details> 
-
-- 💪 [关于转发多个Ref，90%前端都不知道的React useImperativeHandle Hook](https://juejin.cn/post/7146512743225360397) | Fri Sep 23 2022 10:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    为什么 ref 不属于 props，反而需要 forwardRef 呢？ 为什么 ref 不是 refs 呢？ 什么是 useImperativeHandle Hooks？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
