@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [leetcode-116-填充每个节点的下一个右侧节点指针](https://juejin.cn/post/7146584366003519495) | Fri Sep 23 2022 2:39 PM 
+- 🤗 [产品让开发一个电子签名、这不是伸手就来？](https://juejin.cn/post/7146598432285655054) | Fri Sep 23 2022 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    我们日常中应该都经常遇到各种电子合同，需要我们去手动签名，往往只需要手动签名，那么是如何实现的呢？你有了解过么，看似很复杂其实非常简单，初级版本我们甚至只需要不到二十行代码即可实现。 
+    </details> 
+
+- 🎡 [leetcode-116-填充每个节点的下一个右侧节点指针](https://juejin.cn/post/7146584366003519495) | Fri Sep 23 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     给定一个 完美二叉树 ，其所有叶子节点都在同一层，每个父节点都有两个子节点。二叉树定义如下： 填充它的每个 next 指针，让这个指针指向其下一个右侧节点。 
     </details> 
 
-- 🎡 [Java正则表达式](https://juejin.cn/post/7146583198645321741) | Fri Sep 23 2022 2:34 PM 
+- 🕯 [Java正则表达式](https://juejin.cn/post/7146583198645321741) | Fri Sep 23 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
     在项目开发的过程中，涉及到字符串处理的部分经常要用到正则表达式，但是发现自己容易忘掉这部分知识... 里面零散的点挺多的，为了加深记忆方便以及后续回来检索，梳理下正则相关的知识； 
     </details> 
 
-- 🕯 [SpringBoot RocketMQ消息监听器&lpar;RocketMQMessageListener&rpar;后置注册](https://juejin.cn/post/7146579703925587998) | Fri Sep 23 2022 2:19 PM 
+- 🚀 [SpringBoot RocketMQ消息监听器&lpar;RocketMQMessageListener&rpar;后置注册](https://juejin.cn/post/7146579703925587998) | Fri Sep 23 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
     一、问题说明 SpringBoot RocketMQ可以从源码中查看到实现了SmartInitializingSingleton接口，在所有Bean注册完成之后就会开始注册，注册使用的是main线程， 
     </details> 
 
-- 🚀 [面霸养成记；50万字Android面试文档致敬2022摸爬滚打的一年](https://juejin.cn/post/7146576872103477279) | Fri Sep 23 2022 2:10 PM 
+- 💪 [面霸养成记；50万字Android面试文档致敬2022摸爬滚打的一年](https://juejin.cn/post/7146576872103477279) | Fri Sep 23 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
     前言 &quot;抗寒&quot;,2022专有词....任正非大佬都说了要把寒气传给每一个人，确实22年过得很艰辛，摸爬滚打，总算是安定下来了。 回头想想，抽空吧面试过程中被问到的问题和平时看的文档整理分享出来，希望能 
-    </details> 
-
-- 💪 [node.js有哪些全局对象呢，](https://juejin.cn/post/7146575785690660901) | Fri Sep 23 2022 2:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、是什么 在浏览器 JavaScript 中，通常window 是全局对象， 而 Nodejs中的全局对象是 global 在NodeJS里，是不可能在最外层定义一个变量，因为所有的用户代码都是当前 
     </details> 
 <!-- juejin:END -->
 ### 少数派
