@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AirPods Pro 2充电盒可以广播电池状态 无论里面有没有耳塞](https://www.cnbeta.com/articles/tech/1319981.htm) | Fri Sep 23 2022 2:19 PM 
+- 🕯 [法国宣布最低3欧元图书配送费 帮助小型书商与亚马逊竞争](https://www.cnbeta.com/articles/tech/1320001.htm) | Fri Sep 23 2022 3:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果的第二代AirPods Pro现在已经在用户手中，一个值得注意的新消息是，即使AirPods在你的耳朵里，MagSafe充电盒也能向iOS电池小部件广播其充电状态。对于其他AirPods型号，包括第一代AirPods Pro，用户必须将耳塞放在充电盒中，才能获得充电盒本身的电池状态读数。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据路透社报道，法国政府宣布将对图书配送实行3欧元（约2.92美元）的最低收费，以帮助小书商与零售业巨头亚马逊竞争。&lt;/strong&gt;最低收费将只适用于35欧元（约34.12美元）以下的订单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [USB-IF更新USB产品标识 使之更容易理解](https://www.cnbeta.com/articles/tech/1319979.htm) | Fri Sep 23 2022 2:14 PM 
+- 💼 [拜登政府拨款近15亿美元解决美国阿片类药物危机](https://www.cnbeta.com/articles/tech/1319999.htm) | Fri Sep 23 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;USB-IF继续对自制的混乱标准进行斗争，并对其网站进行了修订，今后会在合作伙伴的产品上使用新的标识。&lt;/strong&gt;诸如&amp;quot;HiSpeed&amp;quot;或新的&amp;quot;USB4&amp;quot;等描述已不复存在，只有实际速度和充电性能被强调。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;拜登政府周五宣布了打击美国阿片类药物大流行的新措施，其中包括向各州和地区拨款近15亿美元，以提高人们对此的认知，并增加纳洛酮等大剂量逆转剂的获得。根据美国疾病控制和预防中心（CDC）的统计数据，2021年，阿片类药物危机已导致超过10.7万人因药物使用过量死亡，比去年增加了近15%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel 13代酷睿单核性能一骑绝尘 AMD已看不见尾灯](https://www.cnbeta.com/articles/tech/1319977.htm) | Fri Sep 23 2022 2:05 PM 
+- 💂 [东北“绝命毒师”，用海克斯科技美食帮我戒掉了外卖](https://hot.cnbeta.com/articles/movie/1319997.htm) | Fri Sep 23 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这几年，Intel的单核性能一直非常强势，Zen3的锐龙5000系列刚刚追上11代酷睿，新架构的12代、13代酷睿又一路狂奔，Zen4的锐龙7000系列也追赶无望。最新旗舰i9-13900K除了增加8个小核达到24核心，最高加速频率也达到了惊人的5.8GHz，比起灰烬版的i9-12900KS还要高出300MHz。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不知道有多少朋友和我一样，平时喜欢靠着各类美食博主们的视频下饭。不管是举着摄像机，一边无视周围人好奇的目光，一边发动社交牛逼症，对美食进行一番辛辣点评的探店博主；还是自己采购材料，然后花上好几天的时间研究配方，力求原汁原味复刻店内美食的做菜博主。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1319997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星Galaxy S23 Ultra成首款骁龙8 Gen2入网新机 祖传25W充电器](https://www.cnbeta.com/articles/tech/1319975.htm) | Fri Sep 23 2022 1:49 PM 
+- 🚀 [三星和LG正在开发8.7代基板 将OLED面板用于更多IT设备](https://www.cnbeta.com/articles/tech/1319995.htm) | Fri Sep 23 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月23日消息，根据高通官方此前列出的重要会议的日程表显示，今年骁龙技术峰会定于11月14日-17日举行，按往年惯例，高通新一代旗舰处理器骁龙8 Gen2将在此次峰会发布。有消息称，首批搭载骁龙8 Gen2的新机计划在骁龙峰会后发布，目前暂定11月下半月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;目前三星和LG都积极地扩大OLED面板的产能，同时选择采用更大的基板来生产针对智能手机以外的IT设备所使用的OLED面板，以覆盖更多的细分市场。&lt;/strong&gt;据The Elec报道，三星和LG正在开发8.7代基板（2290mm x 2620 mm），面积略大于制造商通常采用的8代基板（2200mm x 2500 mm），垂直和水平方向都有所增加，预计更大的面积可以将生产效率提高约9%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [RTX 4080 AD104 12GB晶体管远超3090Ti 面积却小了一半](https://www.cnbeta.com/articles/tech/1319973.htm) | Fri Sep 23 2022 1:49 PM 
+- 🎊 [花钱雇了4个人监督自己学习，结果……](https://www.cnbeta.com/articles/tech/1319993.htm) | Fri Sep 23 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA Ada Lovelace RTX 40系列采用了特殊的台积电4N工艺，NVIDIA定制版本，实际上属于台积电5nm工艺家族。事实上，&lt;strong&gt;台积电5nm家族版本非常丰富，包括标准版N5、性能增强版N5P、N4、N4P、N4X、NVIDIA 4N。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在一线城市工作近4年的晓寒不知从何时开始，刷到了越来越多的自律帖子——“被纪录片喂大的女生格局有多炸裂”“自律30天，生活狠狠奖励了我”“自律半年，我变成了大家羡慕的样子”……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
