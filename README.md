@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [富士康在印尼成立合资公司 生产电动汽车和电池](https://www.cnbeta.com/articles/tech/1319963.htm) | Fri Sep 23 2022 12:37 PM 
+- 🕯 [三星Galaxy S23 Ultra成首款骁龙8 Gen2入网新机 祖传25W充电器](https://www.cnbeta.com/articles/tech/1319975.htm) | Fri Sep 23 2022 1:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;富士康今日宣布，将与能源公司Indika Energy在印尼成立一家合资企业，生产电动汽车和电池。两家公司在一份联合声明中称，该合资企业名为“Foxconn Indika Motor”，将在印尼生产电动汽车，并发展其配套产业，包括电池。此外，双方还将探索更广泛的投资合作，与其他合作伙伴一起打造一个全面的电动汽车生态系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月23日消息，根据高通官方此前列出的重要会议的日程表显示，今年骁龙技术峰会定于11月14日-17日举行，按往年惯例，高通新一代旗舰处理器骁龙8 Gen2将在此次峰会发布。有消息称，首批搭载骁龙8 Gen2的新机计划在骁龙峰会后发布，目前暂定11月下半月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [比尔·盖茨：为彼此做的最好的事](https://www.cnbeta.com/articles/tech/1319961.htm) | Fri Sep 23 2022 11:54 AM 
+- 💼 [RTX 4080 AD104 12GB晶体管远超3090Ti 面积却小了一半](https://www.cnbeta.com/articles/tech/1319973.htm) | Fri Sep 23 2022 1:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球基金是捍卫全球健康的“瑞士军刀”——它配备了许多工具，能解决许多问题。本月，我们承诺到2026年，向全球基金增资9.12亿美元。我们请求各国领导人也做出重大承诺，这样世界就有机会实现联合国的可持续发展目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA Ada Lovelace RTX 40系列采用了特殊的台积电4N工艺，NVIDIA定制版本，实际上属于台积电5nm工艺家族。事实上，&lt;strong&gt;台积电5nm家族版本非常丰富，包括标准版N5、性能增强版N5P、N4、N4P、N4X、NVIDIA 4N。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [高能电玩节：悬疑剧改游戏《隐秘的角落》全新预告](https://hot.cnbeta.com/articles/game/1319959.htm) | Fri Sep 23 2022 11:53 AM 
+- 💂 [特斯拉反诉发起种族偏见诉讼背后的民权机构](https://www.cnbeta.com/articles/tech/1319971.htm) | Fri Sep 23 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在本次B站高能电玩节上，同名悬疑剧改编游戏《隐秘的角落》发布了全新预告，游戏将探索、解谜、推理融合进原创故事剧情中，旨在为玩家带来更具沉浸感的独特体验。目前，该作的试玩Demo已上线Steam，发售日期待定。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉在让法官驳回上个月指控该汽车制造商弗里蒙特工厂存在种族偏见的案件的尝试中失败，因此该汽车制造商现在转而对对负责此事的机构提出反诉。这家豪华电动汽车制造商周四在阿拉米达县的州法院提出申诉，称加州民权局（CRD）在调查特斯拉工厂时采用了&amp;quot;地下法规&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [RTX 4080 12GB型号被吐槽该叫4070 NVIDIA回应：别小瞧它的性能](https://www.cnbeta.com/articles/tech/1319957.htm) | Fri Sep 23 2022 11:52 AM 
+- 🚀 [燃油版全系2.0T四缸机 新款领克03家族上市：15.48万元起](https://www.cnbeta.com/articles/tech/1319969.htm) | Fri Sep 23 2022 12:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周，NVIDIA发布了三款RTX 40系显卡，要说网上的“吐槽”，受伤最深的当属RTX 4080 12GB。其中最核心的点在于，有着x80之名的它，居然只配192bit位宽显存，这可是NV史上头一回。也正因此，还有声音是，RTX 4080 12GB恐怕是原本叫做RTX 4070 Ti/4070，为了营销临时改的吧？！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月23日晚，领克汽车官方宣布，新款领克03家族正式上市，该车推出燃油和混动两种，共计五款车型，&lt;strong&gt;售价区间为15.48-17.68万元&lt;/strong&gt;。需要注意的是，此次上市的均为普通版车型，领克03+车型仍将通过线上限量公售的模式开放销售，价格暂时未公布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [盖茨基金会承诺投入12.7亿美元 推动联合国可持续发展目标进程](https://www.cnbeta.com/articles/tech/1319955.htm) | Fri Sep 23 2022 11:52 AM 
+- 🎊 [网易游戏发布国庆小长假未成年人限玩通知：每天1小时](https://hot.cnbeta.com/articles/game/1319967.htm) | Fri Sep 23 2022 12:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间9月21日，&amp;nbsp;在第77届联合国大会举行期间，比尔及梅琳达 · 盖茨基金会承诺，向健康和发展领域投入12.7亿美元，推动实现联合国可持续发展目标（又称“全球目标”）的进程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1319955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;下周就要迎来国庆小长假了，今日，网易游戏发布“关于国庆节假期未成年人游戏限时的通知”。&lt;strong&gt;未成年玩家可以在9月30日至10月7日每天20时至21时体验游戏。&lt;/strong&gt;根据通知安排，未成年人可以在当日20时至21时体验游戏的日期：9月30日（星期五）、10月1日至10月7日（国庆节假期）。未成年人无法体验游戏的日期：10月8、9日（星期六、星期日，工作日）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1319967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
