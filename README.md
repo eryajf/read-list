@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华为nova 10 SE现身官网：比Pro版更轻薄 电池容量却一样大](https://www.cnbeta.com/articles/tech/1320013.htm) | Fri Sep 23 2022 4:51 PM 
+- 🕯 [日本在小行星“龙宫”岩石样本中发现液态水](https://www.cnbeta.com/articles/science/1320017.htm) | Fri Sep 23 2022 7:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;日本宇宙航空研究开发机构23日宣布，日本“隼鸟2号”探测器采集并通过回收舱带回地球的小行星“龙宫”岩石样本中含有液态水。日本宇宙航空研究开发机构23日发布消息说，该机构和日本东北大学等组成的研究小组分析了“龙宫”的岩石样本，发现其中含有液态水。这些水“封”在铁和硫组成的磁黄铁结晶内，水中含有盐分和碳质。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [比利时将首次关闭核反应堆](https://www.cnbeta.com/articles/tech/1320015.htm) | Fri Sep 23 2022 7:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;比利时核电运营商Engie集团当地时间23日表示，比利时将在当天晚些时候正式关闭“杜尔3号”（Doel 3）核反应堆。比利时现有2座核电站，共7座核反应堆，这将是该国首次终止核反应堆的运营。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [华为nova 10 SE现身官网：比Pro版更轻薄 电池容量却一样大](https://www.cnbeta.com/articles/tech/1320013.htm) | Fri Sep 23 2022 4:51 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日消息，华为nova 10 SE现身海外官网，部分参数直接在官网公布。具体来说，华为nova 10 SE采用6.67英寸OLED屏幕，刷新率为90Hz，前置1600万像素，后置1.08亿像素主摄+800万超广角+200万副摄，&lt;strong&gt;电池为4500mAh，支持66W有线快充，配备8GB内存、256GB存储。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [杭州亚运会倒计时一周年灯光秀上演：500架无人机起舞](https://www.cnbeta.com/articles/tech/1320011.htm) | Fri Sep 23 2022 4:50 PM 
+- 🚀 [杭州亚运会倒计时一周年灯光秀上演：500架无人机起舞](https://www.cnbeta.com/articles/tech/1320011.htm) | Fri Sep 23 2022 4:50 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日消息，微博话题“杭州亚运会倒计时一周年灯光秀”冲上热搜榜。据人民日报报道，杭州亚运会进入倒计时一周年。&lt;strong&gt;500架无人机组成的编队在杭州奥体中心起飞，变幻出亚运会吉祥物、艺术体操图标、三潭映月等图形。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [小屏旗舰索尼Xperia 5 IV上架：与iPhone 14一样重却塞进5000mAh电池](https://www.cnbeta.com/articles/tech/1320009.htm) | Fri Sep 23 2022 4:49 PM 
+- 🎊 [小屏旗舰索尼Xperia 5 IV上架：与iPhone 14一样重却塞进5000mAh电池](https://www.cnbeta.com/articles/tech/1320009.htm) | Fri Sep 23 2022 4:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日消息，索尼京东自营旗舰店显示，&lt;strong&gt;Xperia 5 IV已经上架接受预约，该机将于10月份正式发布，价格未知。&lt;/strong&gt;这是一款小屏旗舰，其&lt;strong&gt;屏幕尺寸只有6.1英寸，机身宽度只有67mm，&lt;/strong&gt;比小米12S和三星Galaxy S22宽度都要小，单手操作毫无压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [世界上最大的碳清除项目将在怀俄明州展开](https://www.cnbeta.com/articles/tech/1320007.htm) | Fri Sep 23 2022 4:01 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一家气候技术初创公司计划从空气中吸出大量的二氧化碳，并将其困在怀俄明州的地下。&lt;/strong&gt;这项名为 &amp;quot;野牛“的项目目标是建立一个新设施，能够在2030年前每年吸取500万公吨的二氧化碳。然后，这些二氧化碳可以被储存在地球深处，使其远离大气层，在那里它将继续使地球变热。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《漫威蜘蛛侠：迈尔斯》公布PC先导预告 今秋发售](https://hot.cnbeta.com/articles/movie/1320005.htm) | Fri Sep 23 2022 3:43 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《漫威蜘蛛侠：迈尔斯》公开了一段PC版先导预告，该作预计在2022年秋季登顶PC（Steam和Epic）平台，敬请期待！《漫威蜘蛛侠：迈尔斯·莫拉莱斯》讲述的是迈尔斯·莫拉莱斯的崛起之路，掌控威力惊人的全新能力，成为独当一面的蜘蛛侠。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
