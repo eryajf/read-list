@@ -835,28 +835,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Orion Swap Widget - Defi 交易小部件可在任何网页上访问加密货币](https://xinquji.com/posts/179739?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:38 AM 
+- 👀 [Versify - 用数字收藏品吸引和奖励您的客户](https://xinquji.com/posts/179767?utm_campaign=xinquji-rss) | Sat Sep 24 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     Defi 交易小部件可在任何网页上访问加密货币  
+     用数字收藏品吸引和奖励您的客户  
     </details> 
 
-- 🥷 [ZoZo App - 使用键盘快捷键提高您的日常工作效率](https://xinquji.com/posts/179738?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:35 AM 
+- 🥷 [QuickNode Marketplace - 用于 web3 工具的单击加载项](https://xinquji.com/posts/179766?utm_campaign=xinquji-rss) | Sat Sep 24 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     使用键盘快捷键提高您的日常工作效率  
+     用于 web3 工具的单击加载项  
     </details> 
 
-- 💼 [Growth Scanner - 解锁您的数据洞察力以做出更好的业务决策](https://xinquji.com/posts/179737?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:33 AM 
+- 💼 [Affilisting - 超过 500 个细分市场的 10K+ 会员计划只需 99 美元](https://xinquji.com/posts/179765?utm_campaign=xinquji-rss) | Sat Sep 24 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     解锁您的数据洞察力以做出更好的业务决策  
+     超过 500 个细分市场的 10K+ 会员计划只需 99 美元  
     </details> 
 
-- 🦅 [Picssy - 在您的朋友组中共享的相册](https://xinquji.com/posts/179736?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:32 AM 
+- 🦅 [Bg Eraser - 清理并删除图像中不需要的对象、背景](https://xinquji.com/posts/179764?utm_campaign=xinquji-rss) | Sat Sep 24 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     在您的朋友组中共享的相册  
+     清理并删除图像中不需要的对象、背景  
     </details> 
 
-- 😺 [Stacks - 解决书签丢失问题](https://xinquji.com/posts/179735?utm_campaign=xinquji-rss) | Fri Sep 23 2022 6:31 AM 
+- 😺 [Remotelane 5.0 - 适合所有人的远程工作](https://xinquji.com/posts/179763?utm_campaign=xinquji-rss) | Sat Sep 24 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     解决书签丢失问题  
+     适合所有人的远程工作  
     </details> 
 <!-- xinquji:END -->
