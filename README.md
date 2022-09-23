@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Mitti 2.2.4 专业视频回放解决方案](https://xclient.info/s/mitti.html) | Thu Sep 22 2022 2:29 AM 
+- 🦏 [Keep It 2.0.14 内容收藏夹](https://xclient.info/s/keep-it.html) | Fri Sep 23 2022 12:18 AM 
     <details><summary>展开描述 ...</summary> 
-    Mitti 是一款macOS平台的功能强大且易于使用的专业视频回放解决方案，适用于剧院，视听表演，表演和展览，具有清晰，直观，整洁的用户界面，易于学习和使用的工作流程，在现代的64位低延迟音频之上，以及强大的GPU加速视频播放引擎。 
+    Keep It 是Mac平台上的一款保存笔记，保存网页链接，存储文件的效率工具。Keep It 支持icloud同步，用户可以在所有支持icloud的设备上同步自己的数据资料。 
     </details> 
 
--  [WidsMob ImageConvert 3.23 图片格式转换工具](https://xclient.info/s/widsmob-imageconvert.html) | Thu Sep 22 2022 2:29 AM 
+-  [PhoneRescue 4.2.1&lpar;20220921&rpar; 实用的iPhone数据恢复工具](https://xclient.info/s/phonerescue.html) | Fri Sep 23 2022 12:17 AM 
     <details><summary>展开描述 ...</summary> 
-    WidsMob ImageConvert 提供批量转换RAW、照片编辑、即时预览等功能。 
+    PhoneRescue 是一款Mac上优秀的iPhone或iPad数据恢复工具，支持中文界面，PhoneRescue可以恢复iPhone、iPad、iPod的数据，包括图片、视频、音乐、文档、联系信息等等 
     </details> 
 
-- ⚗️ [zFuse Pro 1.6.132 视频播放器](https://xclient.info/s/zfuse.html) | Thu Sep 22 2022 2:27 AM 
+- ⚗️ [4K YouTube to MP3 4.6.5 在线视频提取音乐](https://xclient.info/s/4k-youtube-to-mp3.html) | Fri Sep 23 2022 12:15 AM 
     <details><summary>展开描述 ...</summary> 
-    zFuse Pro 是Mac电脑上的一款简单而强大的视频播放器。 
+    4K YouTube to MP3是一款macOS平台中在线音乐下载器，专门创建从YouTube，Vimeo的或Facebook提取音频的软件。它支持从YouTube下载有声电子书，下载完成后可以直接使用软件界面中内嵌的音频播放器收听音频文件。 
     </details> 
 
-- 🔥 [Allavsoft Video Downloader Converter 3.25.0.8298 视频下载工具](https://xclient.info/s/allavsoft-video-downloader-converter.html) | Thu Sep 22 2022 2:25 AM 
+- 🔥 [4K Video Downloader 4.21.5 下载高品质的YouTube视频](https://xclient.info/s/4k-video-downloader.html) | Fri Sep 23 2022 12:15 AM 
     <details><summary>展开描述 ...</summary> 
-    Allavsoft Video Downloader Converter 是一款运行在macOS平台上的视频下载软件，支持任何视频文件格式的转换，支持在任何移动设备上脱机播放下载的视频。 
+    4K Video Downloader 是“一个视频下载工具，如此简单，就是一个视频下载工具该有的样子”。复制 YouTube 视频链接并点击界面左上角的 “Paste URL”，就能自动识别 4K 甚至是原始分辨率片源。接下来，选择分辨率、格式后就开始下载了。 
     </details> 
 
-- 🌋 [Boxy SVG 3.89.7 矢量图编辑器](https://xclient.info/s/boxy-svg.html) | Thu Sep 22 2022 12:52 AM 
+- 🌋 [AnyTrans for iOS 8.9.3.20220920 比itunes更好用的手机助手](https://xclient.info/s/anytrans-for-ios.html) | Fri Sep 23 2022 12:13 AM 
     <details><summary>展开描述 ...</summary> 
-    Boxy SVG是一款支持SVG和SVGZ两种格式的矢量图片编辑软件，拥有丰富的功能和特色，可以帮助大家制作任何矢量图，内置多个快捷键，用起来非常的方便。 
+    AnyTrans 操作界面简单易用，导入、导出音乐或应用程序就如同在使用资源管理器一样简单，内置视频格式转换工具，可以自动把导入的影片转成最合适的格式，传输速度更快！ 
     </details> 
 <!-- xclient:END -->
 
