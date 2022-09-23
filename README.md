@@ -104,11 +104,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html) | Fri Sep 16 2022 12:16 AM
-- 💪 [科技爱好者周刊（第 222 期）：四十年编程感想](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html) | Fri Sep 09 2022 12:11 AM
-- 🐎 [科技爱好者周刊（第 221 期）：全世界最繁荣的行业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html) | Fri Sep 02 2022 12:26 AM
-- 🤔 [科技爱好者周刊（第 220 期）：人工智能的机会在哪里](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html) | Fri Aug 26 2022 12:20 AM
-- 🧠 [科技爱好者周刊（第 219 期）：如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html) | Fri Aug 19 2022 12:21 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html) | Fri Sep 23 2022 12:22 AM
+- 💪 [科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html) | Fri Sep 16 2022 12:16 AM
+- 🐎 [科技爱好者周刊（第 222 期）：四十年编程感想](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html) | Fri Sep 09 2022 12:11 AM
+- 🤔 [科技爱好者周刊（第 221 期）：全世界最繁荣的行业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html) | Fri Sep 02 2022 12:26 AM
+- 🧠 [科技爱好者周刊（第 220 期）：人工智能的机会在哪里](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html) | Fri Aug 26 2022 12:20 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
