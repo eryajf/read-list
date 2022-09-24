@@ -516,7 +516,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Apple新闻之苹果将在欧洲、日韩等国家上调 App Store 的应用售价和内付费价格](http://www.mac52ipod.cn/post/apple-app-store-raise-prices-in-japan-europe-korea-and-more-countries.php) | Thu Sep 22 2022 4:51 AM 
+- 👨‍🏫 [在苹果 iPhone 锁屏界面一键启动 App / 健康码 / 付款码 / 快捷指令：锁屏启动 &lpar;Lock Launcher&rpar;](http://www.mac52ipod.cn/post/apple-ios-iphone-app-lock-launcher.php) | Sat Sep 24 2022 5:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	这是个中国个人开发者 @hzlzh 制作的苹果 iOS App，在你的 iPhone 锁屏页面添加各种功能入口，让你一键启动 App、打开付款码/健康码/行程码、运行快捷指令 …… &lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6714&quot; border=&quot;0&quot; alt=&quot;锁屏启动 &lpar;Lock Launcher&rpar;&quot; title=&quot;锁屏启动 &lpar;Lock Launcher&rpar;&quot; /&gt;&lt;/p&gt;&lt;p&gt;官网有视频介绍 &lt;u&gt;&lt;a href=&quot;https://locklauncher.com/&quot; target=&quot;_blank&quot; title=&quot;锁屏启动 &lpar;Lock Launcher&rpar; 官网” rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://locklauncher.com/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;锁屏启动 &lpar;Lock Launcher&rpar; 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/app/id1636719674&quot; target=&quot;_blank&quot; title=&quot;锁屏启动 &lpar;Lock Launcher&rpar;&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/app/id1636719674&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=launcher&quot; rel=&quot;tag&quot;&gt;launcher&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2588%25E7%258E%2587&quot; rel=&quot;tag&quot;&gt;效率&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Apple新闻之苹果将在欧洲、日韩等国家上调 App Store 的应用售价和内付费价格](http://www.mac52ipod.cn/post/apple-app-store-raise-prices-in-japan-europe-korea-and-more-countries.php) | Thu Sep 22 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -525,7 +534,7 @@
  
     </details> 
 
-- 🏊 [Mac技巧之让你上网时自动通过网站的图形验证码：Noptcha: ReCAPTCHA  hCAPTCHA Solver](http://www.mac52ipod.cn/post/chrome-hcaptcha-recaptcha-extension-noptcha.php) | Tue Sep 20 2022 2:52 AM 
+- 🦏 [Mac技巧之让你上网时自动通过网站的图形验证码：Noptcha: ReCAPTCHA  hCAPTCHA Solver](http://www.mac52ipod.cn/post/chrome-hcaptcha-recaptcha-extension-noptcha.php) | Tue Sep 20 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -534,7 +543,7 @@
  
     </details> 
 
-- 🦏 [苹果给开发者和设计师们分享了很多 Sketch 和 PhotoShop 等软件可用的设计资源](http://www.mac52ipod.cn/post/apple-developer-designer-resources-sketch-photoshop-png-svg-pdf.php) | Sun Sep 18 2022 8:11 AM 
+- 🚀 [苹果给开发者和设计师们分享了很多 Sketch 和 PhotoShop 等软件可用的设计资源](http://www.mac52ipod.cn/post/apple-developer-designer-resources-sketch-photoshop-png-svg-pdf.php) | Sun Sep 18 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -543,20 +552,11 @@
  
     </details> 
 
-- 🚀 [苹果 iPhone 13 和 iPhone 14 系列的手机电池容量](http://www.mac52ipod.cn/post/apple-iphone-13-14-battery-capacities.php) | Thu Sep 15 2022 4:30 AM 
+- 🏊 [苹果 iPhone 13 和 iPhone 14 系列的手机电池容量](http://www.mac52ipod.cn/post/apple-iphone-13-14-battery-capacities.php) | Thu Sep 15 2022 4:30 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	苹果每次发布会都只说手机续航时间提高了 x 小时，不说手机电池容量具体是多少。这里列一下做个对比吧：&lt;/p&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;iPhone 13 mini: 2,406 mAh&lt;/li&gt;&lt;li&gt;iPhone 13: 3,227 mAh&lt;/li&gt;&lt;li&gt;iPhone 13 Pro: 3,095 mAh&lt;/li&gt;&lt;li&gt;iPhone 13 Pro Max: 4,352 mAh&lt;/li&gt;&lt;hr/&gt;&lt;li&gt;iPhone 14: 3,279 mAh&lt;/li&gt;&lt;li&gt;iPhone 14 Plus: 4,325 mAh&lt;/li&gt;&lt;li&gt;iPhone 14 Pro: 3,200 mAh&lt;/li&gt;&lt;li&gt;iPhone 14 Pro Max: 4,323 mAh&lt;/li&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2594%25B5%25E6%25B1%25A0&quot; rel=&quot;tag&quot;&gt;电池&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Mac技巧之用苹果归档格式压缩文件的方法](http://www.mac52ipod.cn/post/apple-mac-macos-archive-utility-tip.php) | Tue Sep 13 2022 4:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果电脑 macOS 系统自带的文件压缩/解压缩工具 Archive Utility（归档实用工具）可以设置压缩方式。command 空格调出 Spotlight 搜索，搜 归档实用工具 或者 Archive Utility（你从 Finder 里找这工具的话会很麻烦，藏得很深）。然后如下图所示，在软件设置里把归档格式改成「Apple归档」即可。压缩率更高，也能更高效得使用 Apple Silicone 芯片的算力。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6696&quot; border=&quot;0&quot; alt=&quot;Mac技巧之用苹果归档格式压缩文件的方法&quot; title=&quot;Mac技巧之用苹果归档格式压缩文件的方法&quot; /&gt;&lt;/p&gt;&lt;p&gt;题外话，如果你要和 Windows 用户交换文件，最好还是保持压缩方式别折腾了。免得对方打不开压缩包（猜的。我同事全员 Mac，不知道 PC 那边会不会出问题）&lt;/p&gt;&lt;p&gt;题外话2，我更多会用 &lt;u&gt;&lt;a href=&quot;/post/mac-os-x-decompress-compress-rar-free-software-keka.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑 Mac OS X 系统下支持密码加密和 RAR 格式的压缩/解压缩免费软件推荐：Keka &quot;&gt;&lt;font color=#0000FF&gt;Keka&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 来压缩和解压缩文件&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%258E%258B%25E7%25BC%25A9&quot; rel=&quot;tag&quot;&gt;压缩&lt;/a&gt;
 
  
     </details> 
