@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [1652. 拆炸弹 : 简单前缀和运用题](https://juejin.cn/post/7146757405437591565) | Sat Sep 24 2022 1:49 AM 
+- 🤗 [React PureComponents 与 Hooks 函数组件](https://juejin.cn/post/7146794581458157581) | Sat Sep 24 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 1652. 拆炸弹 ，难度为 简单。 Tag : 「模拟」、「前缀和」 你有一个炸弹需要拆除，时间紧迫！你的情报员会给你一个长度为 n 的 循环 数组 code 
+    本文是将讨论 PureComponent 和它所解决的问题，了解它是否可以在 Hook 和函数组件的世界中被替换，并介绍 React 重新渲染（re-render）一个有趣（但有点无用）的怪异行为 
     </details> 
 
-- 🎡 [iOS小技能：1. iOS 实现json数据提交 2. 对同一个URL的多次请求进行数据缓存 3. 检查网络状态](https://juejin.cn/post/7146742822509494308) | Sat Sep 24 2022 12:54 AM 
+- 🎡 [2022 该怎么选择 monorepo 的管理工具（下）](https://juejin.cn/post/7146788615032340494) | Sat Sep 24 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
-    “我正在参加「掘金·启航计划」” 前言 iOS 实现json数据提交&lpar;发送JSON数据给服务器&rpar; 1.一定要使用POST请求 2.设置请求头 [request setValue:@&quot;applicati 
+    每个优秀的工具都有其优势和不足的地方，选择工具的时候没有绝对的好坏之分，只有适不适合。综合权衡工具的学习成本、优点和缺点，选出当下或者未来一段时间能满足团队需要的工具才是真理。 
     </details> 
 
-- 🕯 [通过压测表格讨论并发量、RT、QPS量化关系](https://juejin.cn/post/7146728946422251534) | Sat Sep 24 2022 12:02 AM 
+- 🕯 [手摸手提桶跑路——LeetCode64. 最小路径和](https://juejin.cn/post/7146779488855015432) | Sat Sep 24 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
-    通过压测介绍了一个公式，定量描述了并发量、RT、QPS三者关系，并阐述了应该如何理解这个公式和适用场 
+    今天这篇文章通过一道题来巩固大家的动态规划基础。LeetCode64. 最小路径和：给定一个包含非负整数的 m x n 网格 grid ，请找出一条从左上角到右下角的路径，使得路径上的数字总和为最小。 
     </details> 
 
-- 🚀 [Golang实现延迟队列（DelayQueue）](https://juejin.cn/post/7146641201301569566) | Fri Sep 23 2022 6:24 PM 
+- 🚀 [Google  | GCP HTTP负载均衡](https://juejin.cn/post/7146777476637655070) | Sat Sep 24 2022 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    延迟队列是一种特殊的队列，元素入队时需要指定到期时间，出队的元素一定是已经到期的，而且早到期的元素最先出队，也就是队列里面的元素是按照到期时间排序的，添加元素和获取元素的时间复杂度是O&lpar;log&lpar;n&rpar;&rpar; 
+    我正在参加「掘金·启航计划」 创建计算实例 将实例命名为 nucleus-jumphost-923 。 使用“f1-micro”机器类型。 使用默认映像类型 &lpar;Debian Linux&rpar;。 
     </details> 
 
-- 💪 [产品让开发一个电子签名、这不是伸手就来？](https://juejin.cn/post/7146598432285655054) | Fri Sep 23 2022 3:32 PM 
+- 💪 [那些年我在大厂学到的工程思维（五）：飞轮思维](https://juejin.cn/post/7146775400176648223) | Sat Sep 24 2022 2:59 AM 
     <details><summary>展开描述 ...</summary> 
-    我们日常中应该都经常遇到各种电子合同，需要我们去手动签名，往往只需要手动签名，那么是如何实现的呢？你有了解过么，看似很复杂其实非常简单，初级版本我们甚至只需要不到二十行代码即可实现。 
+    在大厂里大家常常会说起飞轮效应？飞轮效应是个什么东西？作为工程师，我们应该如何搭建自己的飞轮？在这篇文章中，作者将会为我们一一解答。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
