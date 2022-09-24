@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从 Meta 被诉讼事件聊聊中国互联网用户对隐私的态度](https://juejin.cn/post/7146863285139144741) | Sat Sep 24 2022 8:42 AM 
+- 🤗 [Apache 配置与应用](https://juejin.cn/post/7146882140410495012) | Sat Sep 24 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-    9月23日，Meta 公司的 Facebook 和 Instagram 被曝出对用户进行跨站追踪，现在已经有两起集体诉讼提交到了法院，因为 Meta 违反了苹果公司的《应用追踪透明度》政策。 Meta 
+    构建虚拟Web主机 虚拟Web主机指的是在同一台服务器中运行多个Web站点，其中每一个站点实际上并不独立占用整个服务器，因此被称为“虚拟”Web 主机。通过虚拟 Web 主机服务可以充分利用服务器的硬 
     </details> 
 
-- 🎡 [Go 语言官方依赖注入工具 Wire 使用指北](https://juejin.cn/post/7146852457774055437) | Sat Sep 24 2022 7:57 AM 
+- 🎡 [Android 通过Preference Library实现设置页面](https://juejin.cn/post/7146876599508402212) | Sat Sep 24 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
-    通过调研，了解到 Golang 中常用的依赖注入工具主要有 Inject 、Dig 等。但是今天主要介绍的是 Go 团队开发的 Wire，一个编译期实现依赖注入的工具。 
+    设置页面在每个App中都是必不可少的，本篇文章介绍如何使用Preference Library快速实现设置页面。 
     </details> 
 
-- 🕯 [WebSecurityConfigurerAdapter与ResourceServerConfigurerAdapter](https://juejin.cn/post/7146849343541084168) | Sat Sep 24 2022 7:46 AM 
+- 🕯 [面向深度神经网络的特定领域架构](https://juejin.cn/post/7146876160150880269) | Sat Sep 24 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    我们在用spring boot 配合spring security和oauth2的时候经常会把这两个类都用上，网上很多教程都没有告诉我们他们之间的关系是什么？ 
+    随着AI对算力的需求不断增长，以TPU为代表的面向DNN的特定领域架构为DNN计算提供了几十倍的性能提升以及能效优化。本文基于谷歌真实业务场景数据，介绍了TPU相对CPU/GPU的实际性能、能效指标。 
     </details> 
 
-- 🚀 [组合总和 II](https://juejin.cn/post/7146847250868617247) | Sat Sep 24 2022 7:37 AM 
+- 🚀 [【翻译】Webpack指南：理解它是如何工作的](https://juejin.cn/post/7146874917751881735) | Sat Sep 24 2022 9:25 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章主要给大家深入介绍组合总和II的内部原理，以及我们的分析方法和解树，深刻理解其中原理，掌握回溯法的精髓！ 
+    Webpack是一款模块打包工具。它为不同的依赖创建模块，将其整体打包成可管理的输出文件。这一点对于单页面应用（如今Web应用的事实标准）来说特别有用。 
     </details> 
 
-- 💪 [React 性能优化的那些事儿](https://juejin.cn/post/7146846541846675492) | Sat Sep 24 2022 7:34 AM 
+- 💪 [[Go WebSocket] 多房间的聊天室（七）删除房间时，顺便清除房间锁](https://juejin.cn/post/7146873460956856327) | Sat Sep 24 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么页面会出现卡顿的现象？ 为什么浏览器会出现页面卡顿的问题？是不是浏览器不够先进？这都 2202 年了，怎么还会有这种问题呢？ 
+    本文解决了2个棘手的问题：map并发冲突问题、房间锁过多导致内存逐步增长的的问题。在解决过程中，还遇到了经典的死锁问题，并提出了解决方案，给出了最终实现。值得阅读，深入了解现实中的并发问题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
