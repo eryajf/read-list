@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [百度副总裁：微信公众号是一个私域 百度搜索是最希望生态开放的](https://www.cnbeta.com/articles/tech/1320229.htm) | Sat Sep 24 2022 11:13 AM 
+- 🕯 [更少的副作用：科学家发现一个潜在的癌症治疗目标](https://www.cnbeta.com/articles/science/1320247.htm) | Sat Sep 24 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月23日消息，今日,据媒体报道，百度副总裁、百度App总经理平晓黎在接受采访时回应了如何看待互联网平台之间“壁垒”的问题。平晓黎表示，中国的互联网平台确实“壁垒”非常多，建立起了一道道“围墙”，&lt;strong&gt;百度搜索是最希望生态开放的，比如小红书的内容可以在百度上搜索到。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;哥德堡大学的研究人员发现了一种以前未被发现的机制，该机制可调节小鼠和培养细胞的肿瘤发展，这一发现最终可能为创造治疗各种癌症疾病的新药物铺平道路。来自哥德堡的研究人员在最近发表于《自然通讯》的一项研究中详细介绍了他们的发现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英特尔14代酷睿将首发多芯片整合Foveros封装技术 不同模块可用不同工艺](https://www.cnbeta.com/articles/tech/1320227.htm) | Sat Sep 24 2022 11:10 AM 
+- 💼 [“行星抢劫案”：天文学家发现恒星可以偷取行星](https://www.cnbeta.com/articles/science/1320245.htm) | Sat Sep 24 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;从2017年AMD推出锐龙处理器到现在已经五年半多了，AMD在CPU市场上一路突飞猛进，份额回升到了25%以上，他们采用的小芯片设计成本低了40%，这让Intel很难在成本成本跟AMD竞争。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;谢菲尔德大学的研究人员为围绕质量为太阳三倍的大质量恒星运行的木星类行星提出了一个新的起源假说。根据最近的研究，在大多数恒星产生的密集的恒星苗圃中的大质量恒星可能偷窃或捕获像木星一样大小的行星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NVIDIA发布修复程序解决Windows 11 22H2更新后显卡性能低下的问题](https://www.cnbeta.com/articles/tech/1320225.htm) | Sat Sep 24 2022 11:06 AM 
+- 💂 [这一季的评分特别低 徐志胜也救不了脱口秀](https://hot.cnbeta.com/articles/movie/1320243.htm) | Sat Sep 24 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;之前一些N卡用户在安装Windows 11 22H2更新后遇到的性能衰退问题，除了导致某些系统的游戏帧率暴跌，还有一些人抱怨称电脑变得容易蓝屏死机（BSOD）。&lt;strong&gt;现在，NVIDIA的一位发言人证实，首发版本的Windows 11 22H2系统，或对部分GeForce显卡驱动造成严重的影响。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;凌晨四点的青岛，刚录制完《脱口秀大会5》第一期的演员们累到虚脱。肉食动物的晃晃已经坐不住了，瘫倒在座位上。不少演员倒在休息室，睡了过去，被喊起来做赛后采访时，补个妆就录。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [人工智能是如何被用来拯救鲸鱼的？](https://www.cnbeta.com/articles/science/1320223.htm) | Sat Sep 24 2022 11:03 AM 
+- 🚀 [RTX 4090显卡能用 海韵发布ATX 3.0电源：最高1200W白金](https://www.cnbeta.com/articles/tech/1320241.htm) | Sat Sep 24 2022 12:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你的智能手机对鲸鱼安全吗？智能手机和其他许多消费品一样，是通过大型集装箱船运到美国的，这也是对气候和海洋健康至关重要的濒危鲸鱼的生命的威胁。&lt;strong&gt;现在，这种物种在旧金山海岸被一个名为&amp;quot;鲸鱼安全&amp;quot;的高科技程序检测到，该程序还警告船长放慢速度，防止发生致命的碰撞。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前几天NVIDIA发布了RTX 40系列显卡，TDP功耗最高达到了450W，而且供电采用了ATX 3.0中的PCIe 5.0显卡供电接口12VHPWR，虽然可以通过转接口兼容现有的电源，不过ATX 3.0电源是趋势，海韵现在也发布了支持新标准的VERTEX系列电源。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [iPhone 14发售一周销售数据曝光 加价行情相对疲弱](https://www.cnbeta.com/articles/tech/1320221.htm) | Sat Sep 24 2022 10:58 AM 
+- 🎊 [研究显示：南亚和东南亚多个沿海城市地面迅速沉降](https://www.cnbeta.com/articles/tech/1320239.htm) | Sat Sep 24 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月23日，是iPhone 14系列发售满一周的日子，也正值华为Mate 50系列发售第三天，在这两大系列新品的加持下，“中国电子第一街”华强北再现往日的热闹与喧嚣，前去探店的消费者与等待金主的商家们共同交织成一幅忙碌但有序的画面，另一边，网络上iPhone 14系列与Mate 50系列的行情时刻变动着。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据美国《华盛顿邮报》网站9月22日报道，科学家们说，南亚和东南亚沿海的城市正在沉降——甚至比其他地方的类似城市沉降得更快，这是由于城市化速度没有得到妥善控制，加剧了海平面上升业已带来的风险。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
