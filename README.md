@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国产航空大片《长空之王》预售破两千万：尖端战机齐亮相](https://hot.cnbeta.com/articles/movie/1320263.htm) | Sat Sep 24 2022 5:06 PM 
+- 🕯 [商业5G服务将于10月1日在印度推出 总理莫迪将参与启动仪式](https://www.cnbeta.com/articles/tech/1320265.htm) | Sat Sep 24 2022 6:57 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;商业5G服务将在印度正式启动。这一宣布将是IMC（印度移动大会）的一部分，将由总理纳伦德拉-莫迪亲自宣布。&lt;/strong&gt;IMC将从10月1日持续到10月4日，5G相关的大型发布活动将在10月1日举行。总理和他的宣布将是名为&amp;quot;迈向5G Advanced和6G&amp;quot;的讨论的一部分，所以据推测，会上将讨论很多关于该国科技和通信的未来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [国产航空大片《长空之王》预售破两千万：尖端战机齐亮相](https://hot.cnbeta.com/articles/movie/1320263.htm) | Sat Sep 24 2022 5:06 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据灯塔专业版，影片《长空之王》预售总票房突破2000万，在这之前其已成为中国影史国庆档预售最快破千万电影。《长空之王》由刘晓世导演，韩寒监制，王一博、胡军、于适领衔主演，周冬雨特别主演，将于9月30日正式上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [代表建议降低英语教学比重、考试中占分比重 教育部答复](https://www.cnbeta.com/articles/tech/1320261.htm) | Sat Sep 24 2022 4:49 PM 
+- 💂 [代表建议降低英语教学比重、考试中占分比重 教育部答复](https://www.cnbeta.com/articles/tech/1320261.htm) | Sat Sep 24 2022 4:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月23日，&lt;strong&gt;教育部官网公布了对全国人大代表提出的“关于增强文化自信增加中国文化内容教学改革和降低英语教学比重的建议”的答复。&lt;a class=&quot;f14_link&quot; href=&quot;https://www.cqcb.com/shishijingwei/2022-09-24/5036784_pc.html&quot; target=&quot;_blank&quot;&gt;长江日报&lt;/a&gt;记者注意到，教育部在答复中表示，中小学外语课时占比低于语文等学科。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [被iPhone 14“收割”的黄牛：一天亏几十万 没人相信手机会砸手里](https://www.cnbeta.com/articles/tech/1320259.htm) | Sat Sep 24 2022 4:42 PM 
+- 🚀 [被iPhone 14“收割”的黄牛：一天亏几十万 没人相信手机会砸手里](https://www.cnbeta.com/articles/tech/1320259.htm) | Sat Sep 24 2022 4:42 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“发售前，今年要赚几十万；发售后，一天亏了几十万”，这句话成了今年一些倒卖iPhone 14黄牛的心声。9月17日，“黄牛诉苦苹果14倒贴100元出”的话题引起了热议，社交平台上流传的一张黄牛路边摆摊卖iPhone 14的照片中，从黄牛的表情可以看出今年iPhone新机的行情。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《GTA6》泄露后 大量开发者分享游戏的早期版本](https://hot.cnbeta.com/articles/game/1320257.htm) | Sat Sep 24 2022 3:54 PM 
+- 🎊 [《GTA6》泄露后 大量开发者分享游戏的早期版本](https://hot.cnbeta.com/articles/game/1320257.htm) | Sat Sep 24 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;最近《GTA6》发生了泄露事件，早期版本的画面水平被一些玩家批评。有鉴于此，很多开发者站出来支援R星，他们分享了自己游戏的早期版本，画面同样也是“惨不忍睹”。&lt;/strong&gt;泄露发生后，R星曾发文回应，表示这次泄露并不会影响他们开发进度，而且向玩家保证《GTA6》一定会超过玩家的预期。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [蜜雪冰城如何做到10元内无敌手 4元饮料都赚钱？](https://www.cnbeta.com/articles/tech/1320255.htm) | Sat Sep 24 2022 2:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近蜜雪冰城准备IPO上市的消息引发热议，相比其他卖奶茶、饮料的公司，蜜雪冰城差不多是最便宜的，柠檬茶可以做到4块钱一杯，奶茶也不过6-8块，其他品牌随便一杯饮料都是十几块了，30元以上的奶茶比比皆是。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
