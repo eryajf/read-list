@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Keepalived的安装与详细配置](https://juejin.cn/post/7146839201898561567) | Sat Sep 24 2022 7:07 AM 
+- 🤗 [Go 语言官方依赖注入工具 Wire 使用指北](https://juejin.cn/post/7146852457774055437) | Sat Sep 24 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
-    Keepalived最初是为LVS设计，用来监控集群系统中各个服务节点状态，后来Keepalived又加入VRRP（虚拟路由冗余协议&rpar;功能，解决静态路由出现的单点故障问题，实现网络不间断稳定运行 
+    通过调研，了解到 Golang 中常用的依赖注入工具主要有 Inject 、Dig 等。但是今天主要介绍的是 Go 团队开发的 Wire，一个编译期实现依赖注入的工具。 
     </details> 
 
-- 🎡 [【k哥爬虫普法】爬虫第一案，侵犯个人隐私，“入侵”短视频服务器！](https://juejin.cn/post/7146828134740918279) | Sat Sep 24 2022 6:23 AM 
+- 🎡 [WebSecurityConfigurerAdapter与ResourceServerConfigurerAdapter](https://juejin.cn/post/7146849343541084168) | Sat Sep 24 2022 7:46 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt; 我国目前并未出台专门针对网络爬虫技术的法律规范，但在司法实践中，相关判决已屡见不鲜，K 哥特设了“K哥爬虫普法”专栏，本栏目通过对真实案例的分析，旨在提高广大爬虫工程师的法律意识，知晓如何合法合 
+    我们在用spring boot 配合spring security和oauth2的时候经常会把这两个类都用上，网上很多教程都没有告诉我们他们之间的关系是什么？ 
     </details> 
 
-- 🕯 [MVC 架构解析 - 视图（View）篇](https://juejin.cn/post/7146825200036741128) | Sat Sep 24 2022 6:12 AM 
+- 🕯 [组合总和 II](https://juejin.cn/post/7146847250868617247) | Sat Sep 24 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
-    今天我们继续学习 MVC 架构，主要内容就是 MVC 架构的第二部分——视图（View） 概念 首先，我想问一问，什么是视图？有程序员说是界面，有程序员说是 UI（User Interface），这些 
+    本篇文章主要给大家深入介绍组合总和II的内部原理，以及我们的分析方法和解树，深刻理解其中原理，掌握回溯法的精髓！ 
     </details> 
 
-- 🚀 [Swift底层探索（七）Swift的反射Mirror的实现和错误处理](https://juejin.cn/post/7146814645850865700) | Sat Sep 24 2022 5:33 AM 
+- 🚀 [React 性能优化的那些事儿](https://juejin.cn/post/7146846541846675492) | Sat Sep 24 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 本文主要对Swift的反射实现有一个基本的认识，通过JSON解析来认识反射以及错误的实际使用。 1、 Mirror Swift是一门静态语言，没有像OC中Runtime那 
+    为什么页面会出现卡顿的现象？ 为什么浏览器会出现页面卡顿的问题？是不是浏览器不够先进？这都 2202 年了，怎么还会有这种问题呢？ 
     </details> 
 
-- 💪 [临阵磨枪！LeetCode技术面试要点清单;【前沿】机器人描述资源集锦;【热门】生成式Diffusion模型综述；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7146812805834866724) | Sat Sep 24 2022 5:26 AM 
+- 💪 [docker上puppeteer运行失败的问题](https://juejin.cn/post/7146846133195636767) | Sat Sep 24 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-    将asciinema生成GIF的工具、支持M1 Mac的YOLO无锚版本、在浏览器中玩 MLIR、阿里巴巴开源的轻量级C++异步框架、SREWorks 云原生运维平台、3D人脸重建与操作资源清单… 
+    docker上部署puppeteer报错：could not find expected browser &lpar;chorme&rpar; locally。本文讲解如何在docker上成功运行puppeteer 
     </details> 
 <!-- juejin:END -->
 ### 少数派
