@@ -834,28 +834,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Versify - 用数字收藏品吸引和奖励您的客户](https://xinquji.com/posts/179767?utm_campaign=xinquji-rss) | Sat Sep 24 2022 6:31 AM 
+- 👀 [Guide to Finding a Crypto Job - 34 页的 Web3、加密和区块链工作免费指南](https://xinquji.com/posts/179783?utm_campaign=xinquji-rss) | Sun Sep 25 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     用数字收藏品吸引和奖励您的客户  
+     34 页的 Web3、加密和区块链工作免费指南  
     </details> 
 
-- 🥷 [QuickNode Marketplace - 用于 web3 工具的单击加载项](https://xinquji.com/posts/179766?utm_campaign=xinquji-rss) | Sat Sep 24 2022 6:31 AM 
+- 🥷 [Zoom for LiveChat - 直接在聊天中与您的客户创建 Zoom 会议](https://xinquji.com/posts/179782?utm_campaign=xinquji-rss) | Sun Sep 25 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     用于 web3 工具的单击加载项  
+     直接在聊天中与您的客户创建 Zoom 会议  
     </details> 
 
-- 💼 [Affilisting - 超过 500 个细分市场的 10K+ 会员计划只需 99 美元](https://xinquji.com/posts/179765?utm_campaign=xinquji-rss) | Sat Sep 24 2022 6:29 AM 
+- 💼 [DoubleText v2 - Messenger 和现在的 WhatsApp 聊天的迷人分析](https://xinquji.com/posts/179781?utm_campaign=xinquji-rss) | Sun Sep 25 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     超过 500 个细分市场的 10K+ 会员计划只需 99 美元  
+     Messenger 和现在的 WhatsApp 聊天的迷人分析  
     </details> 
 
-- 🦅 [Bg Eraser - 清理并删除图像中不需要的对象、背景](https://xinquji.com/posts/179764?utm_campaign=xinquji-rss) | Sat Sep 24 2022 6:29 AM 
+- 🦅 [Artisankonect - 将客户与附近的工匠联系起来](https://xinquji.com/posts/179780?utm_campaign=xinquji-rss) | Sun Sep 25 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     清理并删除图像中不需要的对象、背景  
+     将客户与附近的工匠联系起来  
     </details> 
 
-- 😺 [Remotelane 5.0 - 适合所有人的远程工作](https://xinquji.com/posts/179763?utm_campaign=xinquji-rss) | Sat Sep 24 2022 6:27 AM 
+- 😺 [Compassion Game - 一个鼓励采用植物性饮食的游戏化应用程序](https://xinquji.com/posts/179779?utm_campaign=xinquji-rss) | Sun Sep 25 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     适合所有人的远程工作  
+     一个鼓励采用植物性饮食的游戏化应用程序  
     </details> 
 <!-- xinquji:END -->
