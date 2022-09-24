@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [探索木星的同时“天问四号”任务将捎带上天王星探测器](https://www.cnbeta.com/articles/science/1320201.htm) | Sat Sep 24 2022 8:58 AM 
+- 🕯 [全新小鹏P7开7000公里起火 消防竟无法出具调查报告：原因恼人](https://www.cnbeta.com/articles/tech/1320217.htm) | Sat Sep 24 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着“天问四号”航天项目的官宣，我们得知定于 2030 年前后发射的中国航天器，已经把天王星也纳入了新一轮观测的任务表中。&lt;/strong&gt;有趣的是，尽管此前许多航天器的任务相当单一，但天问四号却同时带上了用于木星和天王星任务的两个探测器。此外尽管天文学家们已经对天王星持续研究了数十年，但却迟迟没有航天机构向这颗遥远的太阳系行星发送探测器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新车开了7000公里，突然起火燃烧，这事被刘先生赶上了。据“小强热线-浙江教科”报道，杭州的刘先生有一辆小鹏P7，才跑了7000公里，9月9号，&lt;strong&gt;停在地下车库里突然起火，但起火原因不明&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [9to5Mac小拆了一下Apple Watch Ultra的后盖](https://www.cnbeta.com/articles/tech/1320199.htm) | Sat Sep 24 2022 8:32 AM 
+- 💼 [AMD RX 7000显卡尚未开始生产 预计11月底发售](https://www.cnbeta.com/articles/tech/1320215.htm) | Sat Sep 24 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着首批 Apple Watch Ultra 被送达客户手中，9to5Mac 的 Derek Wise 也分享了初步拆解视频。&lt;strong&gt;只是在打开了后盖之后，他就奉劝普通消费者不要轻易尝试进一步的拆解，主要原因是这么做会破坏手表的质保和防水能力。&lt;/strong&gt;此外背部传感器与主板之间有排线连接，所以在拿刀刮开整个防水胶圈时需要更加小心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周NVIDIA发布了三款RTX 4090/4080系列显卡，售价7199到12999元，性能号称2-4倍提升，然而价格也被吐槽贵了，网友现在都在期待AMD的RX 7000显卡发布，能将N卡价格打下来。在RTX 40系列显卡发布会当晚，AMD确实砸场子了，Radeon显卡事业部高级副总裁兼总经理Scott Herkelman宣布，基于RDNA3架构的下一代显卡，将在11月3日正式发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [加州州长未能签署通过西海岸版BitLicense加密货币监管法案](https://www.cnbeta.com/articles/tech/1320197.htm) | Sat Sep 24 2022 7:30 AM 
+- 💂 [ATX 3.0的迷思](https://www.cnbeta.com/articles/tech/1320213.htm) | Sat Sep 24 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;8 月下旬，加州议会通过了被称作“西海岸 BitLicense”的加密货币监管法案。但是这周五，加州州长 Gavin Newsom 还是否决了该案。&lt;/strong&gt;据悉，由 Tim Grayson 发起的第 2269 号议会法案，旨在为想要促进加密交易的人们打造一套授信制度。然而本周，Gavin Newsom 否决了包括其在内的八项法案。而在正式签署通过的其它 21 项法案中，则涉及从交叉信号到网络安全、以及基础设施等议题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近来有网红主播声称，4090用户若沿用现有ATX 2.0电源，最坏的情况是把房子点着。想求稳就要早做打算，抓紧时间抢购ATX 3.0电源，&lt;span style=&quot;text-decoration:line-through;&quot;&gt;所以EVGA才转行卖电源&lt;/span&gt;。他们的主张是，ATX 3.0电源带有原生12VHPWR连接器，支持600瓦功率输送，不仅能满足额定450瓦的4090，还能战未来（比如4090Ti）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果产品在日本全线涨价：iPhone 13上调20% 最低配近6000元](https://www.cnbeta.com/articles/tech/1320195.htm) | Sat Sep 24 2022 7:29 AM 
+- 🚀 [旧手机提取黄金一本万利？网友实测“炼金”：结果手工费都不好意思提了](https://hot.cnbeta.com/articles/funny/1320211.htm) | Sat Sep 24 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据央视财经报道，由于日元对美元持续贬值，苹果公司针对日本市场实施了全面涨价，对于日本民众而言，购买一台苹果手机就需要花更多的钱。以iPhone13的最低价款为例，以前的含税价格为9.88万日元（约合人民币4901元），&lt;strong&gt;现在上调为11.78万日元（约合人民币5844元），涨价1.9万日元，贵了差不多20%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;黄金不仅可以用于奢饰品行业，电子产品中也要使用黄金，主要是PCB电路需要，那废旧手机提取黄金岂不是一本万利的生意？现在还有网友真的去尝试了，结果一大堆电路板也只提取出0.41克黄金，手工费都不好意思提。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1320211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [汽车芯片进口依赖度超过石油 专家：中国厂商有很大机遇](https://www.cnbeta.com/articles/tech/1320193.htm) | Sat Sep 24 2022 7:28 AM 
+- 🎊 [福特推迟了F-150皮卡的交付 原因是车标短缺……](https://www.cnbeta.com/articles/tech/1320209.htm) | Sat Sep 24 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;过去两年的全球半导体产能危机中，汽车芯片是最受影响的领域之一，导致多家汽车品牌都不得不宣布减产，汽车芯片价格也因此上涨了十几倍甚至上百倍，如今供应情况有所好转，但中国汽车行业对进口芯片的依赖依然很大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;这是一个自流行爆发开始以来&lt;strong&gt;持续到今天&lt;/strong&gt;的熟悉的戏码。福特公司由于零部件短缺而推迟车辆交付。令人啼笑皆非的是这次短缺的并不是什么核心零部件，而是用完了其标志性的蓝椭圆徽章，以及贴在汽车上的镀铬型号铭牌。&lt;/strong&gt;由于零部件短缺，福特目前推迟交付多达4.5万辆汽车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
