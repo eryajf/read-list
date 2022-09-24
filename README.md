@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [南京信息工程大学设立国内高校首个“元宇宙”院系](https://www.cnbeta.com/articles/science/1320185.htm) | Sat Sep 24 2022 7:18 AM 
+- 🕯 [加州州长未能签署通过西海岸版BitLicense加密货币监管法案](https://www.cnbeta.com/articles/tech/1320197.htm) | Sat Sep 24 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月24日，现代快报记者从南京信息工程大学获悉，该校人工智能学院&lpar;未来技术学院&rpar;信息工程系更名为元宇宙工程系。记者注意到，9月23日，人工智能学院&lpar;未来技术学院&rpar;印发《关于信息工程系更名为元宇宙系的通知》&lpar;以下简称“通知”&rpar;，通知显示，经学院党政联席会议研究决定并报学校批准，该院信息工程系更名为元宇宙工程系。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;8 月下旬，加州议会通过了被称作“西海岸 BitLicense”的加密货币监管法案。但是这周五，加州州长 Gavin Newsom 还是否决了该案。&lt;/strong&gt;据悉，由 Tim Grayson 发起的第 2269 号议会法案，旨在为想要促进加密交易的人们打造一套授信制度。然而本周，Gavin Newsom 否决了包括其在内的八项法案。而在正式签署通过的其它 21 项法案中，则涉及从交叉信号到网络安全、以及基础设施等议题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [俄罗斯RSOCKS僵尸网络嫌犯在保加利亚被逮捕 主动要求引渡美国](https://www.cnbeta.com/articles/tech/1320183.htm) | Sat Sep 24 2022 7:17 AM 
+- 💼 [苹果产品在日本全线涨价：iPhone 13上调20% 最低配近6000元](https://www.cnbeta.com/articles/tech/1320195.htm) | Sat Sep 24 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一名36岁的俄罗斯男子最近被KrebsOnSecurity确定为组织大规模RSOCKS僵尸网络的嫌疑犯，其在美国当局的要求下在保加利亚被捕。在本月保加利亚的一次法庭听证会上，这名被指控的黑客要求并被批准引渡到美国，据说他对法官说：&amp;quot;美国人在找我，因为我有大量的信息，他们需要这些信息。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据央视财经报道，由于日元对美元持续贬值，苹果公司针对日本市场实施了全面涨价，对于日本民众而言，购买一台苹果手机就需要花更多的钱。以iPhone13的最低价款为例，以前的含税价格为9.88万日元（约合人民币4901元），&lt;strong&gt;现在上调为11.78万日元（约合人民币5844元），涨价1.9万日元，贵了差不多20%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [EVGA谢幕后 旗下Kingpin显卡品牌可能换一种形式继续存在](https://www.cnbeta.com/articles/tech/1320181.htm) | Sat Sep 24 2022 7:09 AM 
+- 💂 [汽车芯片进口依赖度超过石油 专家：中国厂商有很大机遇](https://www.cnbeta.com/articles/tech/1320193.htm) | Sat Sep 24 2022 7:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;EVGA旗下的旗舰&amp;quot;Kingpin&amp;quot;品牌的GPU具有更好的冷却和更高的时钟速度，但这些显卡通常定位高端价格昂贵，但在发烧友中却相当受欢迎。&lt;strong&gt;虽然EVGA表示不会因为与NVIDIA的告别而解雇任何员工，但导致了一个尴尬的局面，即手下的GPU打磨专家们发现自己不再有任何工作可做，这包括子品牌Kingpin。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;过去两年的全球半导体产能危机中，汽车芯片是最受影响的领域之一，导致多家汽车品牌都不得不宣布减产，汽车芯片价格也因此上涨了十几倍甚至上百倍，如今供应情况有所好转，但中国汽车行业对进口芯片的依赖依然很大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [世界首艘纯超级电容动力渡轮抵达上海崇明](https://www.cnbeta.com/articles/tech/1320179.htm) | Sat Sep 24 2022 7:05 AM 
+- 🚀 [中国官方宣布天问四号：一次看完木星、天王星、小行星](https://www.cnbeta.com/articles/science/1320191.htm) | Sat Sep 24 2022 7:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，世界首艘纯超级电容动力渡轮——崇明长横纯电轮渡船顺利抵达上海崇明，这艘纯电动、零排放的渡轮由中国船舶上海船舶研究设计院开发设计，目前正在调试阶段，计划于10月底正式投入运营，这标志着上海市新能源船推广初见成效。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;天问一号造访火星，拉开了我国深空探测的序幕。在近日巴黎召开的第73届国际宇航大会上，天问一号任务团队获得国际宇航联合会的最高奖项——2022年度“世界航天奖”。&lt;strong&gt;此前2020年6月，嫦娥四号任务团队也曾获得此奖项，那也是70年来中国航天科学家首次摘得此荣誉。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [华为在德国发布未来铁路移动通信系统解决方案](https://www.cnbeta.com/articles/tech/1320177.htm) | Sat Sep 24 2022 7:03 AM 
+- 🎊 [热搜上的钕磁体 凭啥让美国担心卡脖子？](https://www.cnbeta.com/articles/tech/1320189.htm) | Sat Sep 24 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;正在此间参加德国柏林国际轨道交通技术博览会的华为公司22日举办第九届华为全球轨道峰会，探讨智慧轨道发展趋势与挑战，展望轨道交通未来。&lt;/strong&gt;本届峰会主题为“助力轨道数字化，共创行业新价值”。华为在会上发布未来铁路移动通信系统解决方案，旨在助力行业共建更加安全、高效、智能的铁路移动通信系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当代“永磁王”钕磁体，成为这几日热议的主角。这是因为呀，美国一声令下，宣布“不限制主要从中国进口的钕磁体”。理由中提到，去年美国进口的烧结钕磁体中，中国出产占到了75%。（烧结，就是将粉状物转变成致密体，主流制造工艺）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
