@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Go 语言官方依赖注入工具 Wire 使用指北](https://juejin.cn/post/7146852457774055437) | Sat Sep 24 2022 7:57 AM 
+- 🤗 [从 Meta 被诉讼事件聊聊中国互联网用户对隐私的态度](https://juejin.cn/post/7146863285139144741) | Sat Sep 24 2022 8:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    9月23日，Meta 公司的 Facebook 和 Instagram 被曝出对用户进行跨站追踪，现在已经有两起集体诉讼提交到了法院，因为 Meta 违反了苹果公司的《应用追踪透明度》政策。 Meta 
+    </details> 
+
+- 🎡 [Go 语言官方依赖注入工具 Wire 使用指北](https://juejin.cn/post/7146852457774055437) | Sat Sep 24 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
     通过调研，了解到 Golang 中常用的依赖注入工具主要有 Inject 、Dig 等。但是今天主要介绍的是 Go 团队开发的 Wire，一个编译期实现依赖注入的工具。 
     </details> 
 
-- 🎡 [WebSecurityConfigurerAdapter与ResourceServerConfigurerAdapter](https://juejin.cn/post/7146849343541084168) | Sat Sep 24 2022 7:46 AM 
+- 🕯 [WebSecurityConfigurerAdapter与ResourceServerConfigurerAdapter](https://juejin.cn/post/7146849343541084168) | Sat Sep 24 2022 7:46 AM 
     <details><summary>展开描述 ...</summary> 
     我们在用spring boot 配合spring security和oauth2的时候经常会把这两个类都用上，网上很多教程都没有告诉我们他们之间的关系是什么？ 
     </details> 
 
-- 🕯 [组合总和 II](https://juejin.cn/post/7146847250868617247) | Sat Sep 24 2022 7:37 AM 
+- 🚀 [组合总和 II](https://juejin.cn/post/7146847250868617247) | Sat Sep 24 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
     本篇文章主要给大家深入介绍组合总和II的内部原理，以及我们的分析方法和解树，深刻理解其中原理，掌握回溯法的精髓！ 
     </details> 
 
-- 🚀 [React 性能优化的那些事儿](https://juejin.cn/post/7146846541846675492) | Sat Sep 24 2022 7:34 AM 
+- 💪 [React 性能优化的那些事儿](https://juejin.cn/post/7146846541846675492) | Sat Sep 24 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
     为什么页面会出现卡顿的现象？ 为什么浏览器会出现页面卡顿的问题？是不是浏览器不够先进？这都 2202 年了，怎么还会有这种问题呢？ 
-    </details> 
-
-- 💪 [docker上puppeteer运行失败的问题](https://juejin.cn/post/7146846133195636767) | Sat Sep 24 2022 7:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    docker上部署puppeteer报错：could not find expected browser &lpar;chorme&rpar; locally。本文讲解如何在docker上成功运行puppeteer 
     </details> 
 <!-- juejin:END -->
 ### 少数派
