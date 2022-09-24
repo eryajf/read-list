@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Apache 配置与应用](https://juejin.cn/post/7146882140410495012) | Sat Sep 24 2022 9:53 AM 
+- 🤗 [vue中的filters](https://juejin.cn/post/7146889304143298597) | Sat Sep 24 2022 10:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    数组结构可以很好的描述嵌套关系，filters的管道模式就是利用其特性，通过|进行分割，前一个执行结果是后一个的第一个参数，并利用其他参数进行过滤灵活性的扩展。 
+    </details> 
+
+- 🎡 [【云原生】Hadoop on k8s 环境部署](https://juejin.cn/post/7146889010525241375) | Sat Sep 24 2022 10:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    Hadoop是Apache软件基金会下一个开源分布式计算平台，以HDFS（Hadoop Distributed File System）、MapReduce（Hadoop2.0加入了YARN，Yarn 
+    </details> 
+
+- 🕯 [基于STM32和HC-SR04模块实现超声波测距功能](https://juejin.cn/post/7146883895705731085) | Sat Sep 24 2022 10:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近在学STM32做个简单的应用实践一下，顺便水一篇文章。 本文用的单片机是STM32F103C8T6， 
+    </details> 
+
+- 🚀 [Apache 配置与应用](https://juejin.cn/post/7146882140410495012) | Sat Sep 24 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
     构建虚拟Web主机 虚拟Web主机指的是在同一台服务器中运行多个Web站点，其中每一个站点实际上并不独立占用整个服务器，因此被称为“虚拟”Web 主机。通过虚拟 Web 主机服务可以充分利用服务器的硬 
     </details> 
 
-- 🎡 [Android 通过Preference Library实现设置页面](https://juejin.cn/post/7146876599508402212) | Sat Sep 24 2022 9:32 AM 
+- 💪 [Android 通过Preference Library实现设置页面](https://juejin.cn/post/7146876599508402212) | Sat Sep 24 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
     设置页面在每个App中都是必不可少的，本篇文章介绍如何使用Preference Library快速实现设置页面。 
-    </details> 
-
-- 🕯 [面向深度神经网络的特定领域架构](https://juejin.cn/post/7146876160150880269) | Sat Sep 24 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    随着AI对算力的需求不断增长，以TPU为代表的面向DNN的特定领域架构为DNN计算提供了几十倍的性能提升以及能效优化。本文基于谷歌真实业务场景数据，介绍了TPU相对CPU/GPU的实际性能、能效指标。 
-    </details> 
-
-- 🚀 [【翻译】Webpack指南：理解它是如何工作的](https://juejin.cn/post/7146874917751881735) | Sat Sep 24 2022 9:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    Webpack是一款模块打包工具。它为不同的依赖创建模块，将其整体打包成可管理的输出文件。这一点对于单页面应用（如今Web应用的事实标准）来说特别有用。 
-    </details> 
-
-- 💪 [[Go WebSocket] 多房间的聊天室（七）删除房间时，顺便清除房间锁](https://juejin.cn/post/7146873460956856327) | Sat Sep 24 2022 9:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文解决了2个棘手的问题：map并发冲突问题、房间锁过多导致内存逐步增长的的问题。在解决过程中，还遇到了经典的死锁问题，并提出了解决方案，给出了最终实现。值得阅读，深入了解现实中的并发问题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
