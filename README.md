@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [大众展示Gen Travel概念旅行车 可配置车舱让你在途中更好地放松](https://www.cnbeta.com/articles/tech/1320137.htm) | Sat Sep 24 2022 4:35 AM 
+- 🕯 [英伟达证实Windows 11 22H2更新导致性能问题](https://www.cnbeta.com/articles/tech/1320141.htm) | Sat Sep 24 2022 5:21 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;早前我们报道了一些 N 卡用户在安装 Windows 11 22H2 更新后遇到的性能衰退问题，可知微软和 Reddit 等网络社区上汇集了不少 bug 反馈。除了导致某些系统的游戏帧率暴跌，还有一些人抱怨称电脑变得容易蓝屏死机（BSOD）。&lt;strong&gt;现在，芯片巨头英伟达的一位发言人证实，首发版本的 Windows 11 22H2 系统，或对部分 GeForce 显卡驱动造成严重的影响。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [南极康科迪亚研究站工作人员拍下极夜过后的光柱照片](https://www.cnbeta.com/articles/science/1320139.htm) | Sat Sep 24 2022 4:47 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;对于身处南极洲康科迪亚研究站的留守人员们来说，被冰雪和黑暗所包围的季节即将过去。&lt;strong&gt;早些时候，受欧洲宇航局（ESA）资助的 Hannes Hagson 医生，在位于南极南极高原的站点附近，拍摄到了一张有趣的照片。&lt;/strong&gt;画面中，康科迪亚研究站的上部天空，出现了一条直冲云霄的橙黄色光柱。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [大众展示Gen Travel概念旅行车 可配置车舱让你在途中更好地放松](https://www.cnbeta.com/articles/tech/1320137.htm) | Sat Sep 24 2022 4:35 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;作为一款狂野的未来主义概念车，周五亮相的大众 Gen Travel，向我们展示了该公司畅想的一类纯电资助驾驶车辆。&lt;/strong&gt;其特点是具有一套可完全重新配置的客舱，能够将座椅变身为床，甚至提供了专门设计的、用于影响褪黑激素产生的照明环境。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Snow Lake Lithium和LG Energy Solution合作建立美国本土锂供应链](https://www.cnbeta.com/articles/tech/1320135.htm) | Sat Sep 24 2022 4:02 AM 
+- 🚀 [Snow Lake Lithium和LG Energy Solution合作建立美国本土锂供应链](https://www.cnbeta.com/articles/tech/1320135.htm) | Sat Sep 24 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;注重碳排放的矿业公司 Snow Lake Lithium 宣布和电池厂商 LG Energy Solution 签署谅解备忘录 &lpar;MOU&rpar;，以在北美市场建立国内的锂供应链。&lt;/strong&gt;Snow Lake Lithium 计划在 2025 年启动锂矿开采业务，并计划为 LG 提供对当前电动汽车电池化学至关重要的珍贵地球材料。这种国内供应链也可以帮助几家汽车制造商获得美国联邦税收抵免。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [大众和Ellia集团签署谅解备忘录 共同探索V2G技术](https://www.cnbeta.com/articles/tech/1320133.htm) | Sat Sep 24 2022 3:53 AM 
+- 🎊 [大众和Ellia集团签署谅解备忘录 共同探索V2G技术](https://www.cnbeta.com/articles/tech/1320133.htm) | Sat Sep 24 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;大众集团于本周五宣布和 Ellia Group 签署了一份谅解备忘录 &lpar;MoU&rpar;，以探索 V2G 技术以及如何对电动汽车司机做出奖励的同时帮助稳定能源网。&lt;/strong&gt;随着越来越多的电动汽车上路，Vehicle-to-grid &lpar;V2G&rpar; 技术具有巨大的发展潜力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [预热第二季 Netflix放出《鱿鱼游戏》中尚未曝光的一个片段](https://hot.cnbeta.com/articles/movie/1320131.htm) | Sat Sep 24 2022 3:48 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Netflix 在本周五发布的推文中，公开了《鱿鱼游戏》中尚未曝光的一个片段。该片段是在今天召开的 2022 年“Tudum：Netflix 全球影迷盛会”上公开的，在本次盛会中 Netflix 邀请了超过 200 名人气巨星，并将公布 120 多部影集、电影和游戏的独家预告、片段和最新消息。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [[视频]第二代AirPods Pro初步上手体验](https://www.cnbeta.com/articles/tech/1320129.htm) | Sat Sep 24 2022 3:34 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;经过 3 年的等待，第二代 AirPods Pro 终于正式发售了。国外科技媒体 MacRumors 第一时间带来了上手评测。在外观上，第二代 AirPods Pro 和初代之前并没有太大的差别，但是在充电盒上有一些细微的变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
