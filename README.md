@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React PureComponents 与 Hooks 函数组件](https://juejin.cn/post/7146794581458157581) | Sat Sep 24 2022 4:13 AM 
+- 🤗 [Android性能优化 - 包体积杀手之R文件内联原理与实现](https://juejin.cn/post/7146807432755281927) | Sat Sep 24 2022 5:04 AM 
     <details><summary>展开描述 ...</summary> 
-    本文是将讨论 PureComponent 和它所解决的问题，了解它是否可以在 Hook 和函数组件的世界中被替换，并介绍 React 重新渲染（re-render）一个有趣（但有点无用）的怪异行为 
+    本文是android性能优化之包体积杀手R文件篇，讲解了R文件产生的过程与优化实现的原理，自己动手实现一个自己的R文件内联小demo吧！ 
     </details> 
 
-- 🎡 [2022 该怎么选择 monorepo 的管理工具（下）](https://juejin.cn/post/7146788615032340494) | Sat Sep 24 2022 3:50 AM 
+- 🎡 [s47.基于 Kubernetes v1.25 &lpar;二进制&rpar; 和 Docker部署高可用集群（二）](https://juejin.cn/post/7146797427130826765) | Sat Sep 24 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-    每个优秀的工具都有其优势和不足的地方，选择工具的时候没有绝对的好坏之分，只有适不适合。综合权衡工具的学习成本、优点和缺点，选出当下或者未来一段时间能满足团队需要的工具才是真理。 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第4篇文章，点击查看活动详情” 7.3 生成k8s组件证书 二进制安装最关键步骤，一步错误全盘皆输，一定要注意每个步骤都要是正确的 master 
     </details> 
 
-- 🕯 [手摸手提桶跑路——LeetCode64. 最小路径和](https://juejin.cn/post/7146779488855015432) | Sat Sep 24 2022 3:14 AM 
+- 🕯 [s46.基于 Kubernetes v1.25 &lpar;二进制&rpar; 和 Docker部署高可用集群 &lpar;一&rpar;](https://juejin.cn/post/7146797343445090311) | Sat Sep 24 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-    今天这篇文章通过一道题来巩固大家的动态规划基础。LeetCode64. 最小路径和：给定一个包含非负整数的 m x n 网格 grid ，请找出一条从左上角到右下角的路径，使得路径上的数字总和为最小。 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第3篇文章，点击查看活动详情” 1.安装说明 本文章将演示二进制方式安装高可用k8s 1.17+，相对于其他版本，二进制安装方式并无太大区别，只 
     </details> 
 
-- 🚀 [Google  | GCP HTTP负载均衡](https://juejin.cn/post/7146777476637655070) | Sat Sep 24 2022 3:06 AM 
+- 🚀 [编写Chrome插件实现直接从掘金、简书等跳转外链](https://juejin.cn/post/7146791838970544135) | Sat Sep 24 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 创建计算实例 将实例命名为 nucleus-jumphost-923 。 使用“f1-micro”机器类型。 使用默认映像类型 &lpar;Debian Linux&rpar;。 
+    通过自定义编写chrome插件，实现了在掘金、知乎或CSDN等网站浏览文章时，点击链接后直接跳转到外链页面。更简单啦。 
     </details> 
 
-- 💪 [那些年我在大厂学到的工程思维（五）：飞轮思维](https://juejin.cn/post/7146775400176648223) | Sat Sep 24 2022 2:59 AM 
+- 💪 [【Java深入学习】并发常见方法的注意事项](https://juejin.cn/post/7146791066010648590) | Sat Sep 24 2022 3:59 AM 
     <details><summary>展开描述 ...</summary> 
-    在大厂里大家常常会说起飞轮效应？飞轮效应是个什么东西？作为工程师，我们应该如何搭建自己的飞轮？在这篇文章中，作者将会为我们一一解答。 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 start 与 run 我们知道 start方法是运行Thread里的run方法，那么我们之间调用run方法，这两者之前的区别是什么 代码示例 结 
     </details> 
 <!-- juejin:END -->
 ### 少数派
