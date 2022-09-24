@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [对协程的理解](https://www.v2ex.com/t/882689#reply1) | Sat Sep 24 2022 2:58 PM
-- 🤗 [有没有老哥想调戏下骗子的](https://www.v2ex.com/t/882683#reply2) | Sat Sep 24 2022 2:36 PM
-- 🎭 [Android 11 如何获取 WiFi 调试配对码](https://www.v2ex.com/t/882675#reply3) | Sat Sep 24 2022 1:36 PM
-- 🥷 [阿里云轻量老用户有便宜点的路子吗](https://www.v2ex.com/t/882670#reply0) | Sat Sep 24 2022 12:48 PM
-- 🐵 [Windows 11 就近共享， 目标设备无响应。](https://www.v2ex.com/t/882666#reply0) | Sat Sep 24 2022 12:35 PM<!-- v2ex:END -->
+- 🥸 [k8s 集群的 cpu 核是怎么计算的？](https://www.v2ex.com/t/882702#reply0) | Sat Sep 24 2022 4:19 PM
+- 🤗 [突然想到把 docker.sock 映射进容器是不是相当于把主机 root 权限完全提供给容器了？](https://www.v2ex.com/t/882700#reply3) | Sat Sep 24 2022 4:08 PM
+- 🎭 [求推荐 Nas 间的 TimeMachine 备份同步方案](https://www.v2ex.com/t/882694#reply0) | Sat Sep 24 2022 3:35 PM
+- 🥷 [对协程的理解](https://www.v2ex.com/t/882689#reply1) | Sat Sep 24 2022 2:58 PM
+- 🐵 [有没有老哥想调戏下骗子的](https://www.v2ex.com/t/882683#reply2) | Sat Sep 24 2022 2:36 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
