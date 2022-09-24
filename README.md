@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【CSS 教程系列第 12 篇】什么是 CSS 中的伪类选择器](https://juejin.cn/post/7146891287810015246) | Sat Sep 24 2022 10:30 AM 
+- 🤗 [[Flutter]足够入门的Dart语言系列之变量的类型：bool、String、num、List、Set和Map](https://juejin.cn/post/7146936100823498789) | Sat Sep 24 2022 1:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    变量的类型指的是变量的特性或特征，比如表示数字类型、文本类型、集合类型等，表示的是一类数据。 Dart提供以下类型：int, double、String、List、Set、Map、null... 
+    </details> 
+
+- 🎡 [初学架构 : 云交付模型之Saas , Paas , Iaas](https://juejin.cn/post/7146935613902553101) | Sat Sep 24 2022 1:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    一 . 前言 这一篇主要来了解一些架构中的专业术语 , 他们的展现形式以及大概的使用场景. 首先先学习一些前置知识点 : 在一些书籍里面 , 云计算被看作一种可远程提供可扩展可测量的资源的分布式计算的 
+    </details> 
+
+- 🕯 [面霸养成记；50万字2022最新Android11位大厂面试专题（五）](https://juejin.cn/post/7146935125320663070) | Sat Sep 24 2022 1:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 &quot;抗寒&quot;,2022专有词....任正非大佬都说了要把寒气传给每一个人，确实22年过得很艰辛，摸爬滚打，总算是安定下来了。 回头想想，抽空吧面试过程中被问到的问题和平时看的文档整理分享出来，希望能 
+    </details> 
+
+- 🚀 [【CSS 教程系列第 12 篇】什么是 CSS 中的伪类选择器](https://juejin.cn/post/7146891287810015246) | Sat Sep 24 2022 10:30 AM 
     <details><summary>展开描述 ...</summary> 
     什么是 CSS 中的伪类选择器。 伪类选择器用于向某些选择器添加特殊的效果，比如给链接添加特殊效果，比如可以选择第 1 个，第 n 个元素。 
     </details> 
 
-- 🎡 [vue中的filters](https://juejin.cn/post/7146889304143298597) | Sat Sep 24 2022 10:20 AM 
+- 💪 [vue中的filters](https://juejin.cn/post/7146889304143298597) | Sat Sep 24 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
     数组结构可以很好的描述嵌套关系，filters的管道模式就是利用其特性，通过|进行分割，前一个执行结果是后一个的第一个参数，并利用其他参数进行过滤灵活性的扩展。 
-    </details> 
-
-- 🕯 [【云原生】Hadoop on k8s 环境部署](https://juejin.cn/post/7146889010525241375) | Sat Sep 24 2022 10:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    Hadoop是Apache软件基金会下一个开源分布式计算平台，以HDFS（Hadoop Distributed File System）、MapReduce（Hadoop2.0加入了YARN，Yarn 
-    </details> 
-
-- 🚀 [基于STM32和HC-SR04模块实现超声波测距功能](https://juejin.cn/post/7146883895705731085) | Sat Sep 24 2022 10:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近在学STM32做个简单的应用实践一下，顺便水一篇文章。 本文用的单片机是STM32F103C8T6， 
-    </details> 
-
-- 💪 [Apache 配置与应用](https://juejin.cn/post/7146882140410495012) | Sat Sep 24 2022 9:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    构建虚拟Web主机 虚拟Web主机指的是在同一台服务器中运行多个Web站点，其中每一个站点实际上并不独立占用整个服务器，因此被称为“虚拟”Web 主机。通过虚拟 Web 主机服务可以充分利用服务器的硬 
     </details> 
 <!-- juejin:END -->
 ### 少数派
