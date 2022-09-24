@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vue中的filters](https://juejin.cn/post/7146889304143298597) | Sat Sep 24 2022 10:20 AM 
+- 🤗 [【CSS 教程系列第 12 篇】什么是 CSS 中的伪类选择器](https://juejin.cn/post/7146891287810015246) | Sat Sep 24 2022 10:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    什么是 CSS 中的伪类选择器。 伪类选择器用于向某些选择器添加特殊的效果，比如给链接添加特殊效果，比如可以选择第 1 个，第 n 个元素。 
+    </details> 
+
+- 🎡 [vue中的filters](https://juejin.cn/post/7146889304143298597) | Sat Sep 24 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
     数组结构可以很好的描述嵌套关系，filters的管道模式就是利用其特性，通过|进行分割，前一个执行结果是后一个的第一个参数，并利用其他参数进行过滤灵活性的扩展。 
     </details> 
 
-- 🎡 [【云原生】Hadoop on k8s 环境部署](https://juejin.cn/post/7146889010525241375) | Sat Sep 24 2022 10:20 AM 
+- 🕯 [【云原生】Hadoop on k8s 环境部署](https://juejin.cn/post/7146889010525241375) | Sat Sep 24 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
     Hadoop是Apache软件基金会下一个开源分布式计算平台，以HDFS（Hadoop Distributed File System）、MapReduce（Hadoop2.0加入了YARN，Yarn 
     </details> 
 
-- 🕯 [基于STM32和HC-SR04模块实现超声波测距功能](https://juejin.cn/post/7146883895705731085) | Sat Sep 24 2022 10:00 AM 
+- 🚀 [基于STM32和HC-SR04模块实现超声波测距功能](https://juejin.cn/post/7146883895705731085) | Sat Sep 24 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
     最近在学STM32做个简单的应用实践一下，顺便水一篇文章。 本文用的单片机是STM32F103C8T6， 
     </details> 
 
-- 🚀 [Apache 配置与应用](https://juejin.cn/post/7146882140410495012) | Sat Sep 24 2022 9:53 AM 
+- 💪 [Apache 配置与应用](https://juejin.cn/post/7146882140410495012) | Sat Sep 24 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
     构建虚拟Web主机 虚拟Web主机指的是在同一台服务器中运行多个Web站点，其中每一个站点实际上并不独立占用整个服务器，因此被称为“虚拟”Web 主机。通过虚拟 Web 主机服务可以充分利用服务器的硬 
-    </details> 
-
-- 💪 [Android 通过Preference Library实现设置页面](https://juejin.cn/post/7146876599508402212) | Sat Sep 24 2022 9:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    设置页面在每个App中都是必不可少的，本篇文章介绍如何使用Preference Library快速实现设置页面。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
