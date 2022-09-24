@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [FF 91预计第四季度交付 公司筹集资金受到虚假指控影响](https://www.cnbeta.com/articles/tech/1320251.htm) | Sat Sep 24 2022 2:12 PM 
+- 🕯 [蜜雪冰城如何做到10元内无敌手 4元饮料都赚钱？](https://www.cnbeta.com/articles/tech/1320255.htm) | Sat Sep 24 2022 2:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最近蜜雪冰城准备IPO上市的消息引发热议，相比其他卖奶茶、饮料的公司，蜜雪冰城差不多是最便宜的，柠檬茶可以做到4块钱一杯，奶茶也不过6-8块，其他品牌随便一杯饮料都是十几块了，30元以上的奶茶比比皆是。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [飓风“菲奥娜”导致加拿大东部数十万用户断电](https://www.cnbeta.com/articles/tech/1320253.htm) | Sat Sep 24 2022 2:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当地时间9月24日凌晨，飓风“菲奥娜”登陆加拿大，给新斯科舍省、爱德华王子岛、新不伦瑞克省和魁北克省马格达伦群岛的大片地区带来强烈的飓风和暴雨，加拿大东部数十万用户停电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [FF 91预计第四季度交付 公司筹集资金受到虚假指控影响](https://www.cnbeta.com/articles/tech/1320251.htm) | Sat Sep 24 2022 2:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;9月22日，Faraday Future（FFIE，股价0.75美元，市值2.44亿美元）宣布旗下首款量产车型FF 91 Futurist获得美国环境保护署EPA续航里程正式评级，纯电续航里程达到381英里（约613公里）。&lt;/strong&gt;相比于NEDC、WLTP工况下续航能力测试标准，EPA测试工况包括市区工况、高速工况、激烈驾驶工况，以及可选测的空调工况4个环节，更加贴近日常使用真实路况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [令人惊讶的发现：细菌会惩罚“害群之马” 并在其社区内执行公平原则](https://www.cnbeta.com/articles/science/1320249.htm) | Sat Sep 24 2022 12:40 PM 
+- 🚀 [令人惊讶的发现：细菌会惩罚“害群之马” 并在其社区内执行公平原则](https://www.cnbeta.com/articles/science/1320249.htm) | Sat Sep 24 2022 12:40 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一项研究显示，细菌可以有&amp;quot;唾弃&amp;quot;行为不轨的同类的的行为。被吃白食的人惹恼了？你并不孤单，占别人的便宜是一个影响所有物种的问题，不仅仅是人类。事实上，这种自私的行为在动物界并不罕见，甚至连作弊的细菌物种也会表现出这种行为。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [更少的副作用：科学家发现一个潜在的癌症治疗目标](https://www.cnbeta.com/articles/science/1320247.htm) | Sat Sep 24 2022 12:34 PM 
+- 🎊 [更少的副作用：科学家发现一个潜在的癌症治疗目标](https://www.cnbeta.com/articles/science/1320247.htm) | Sat Sep 24 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;哥德堡大学的研究人员发现了一种以前未被发现的机制，该机制可调节小鼠和培养细胞的肿瘤发展，这一发现最终可能为创造治疗各种癌症疾病的新药物铺平道路。来自哥德堡的研究人员在最近发表于《自然通讯》的一项研究中详细介绍了他们的发现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [“行星抢劫案”：天文学家发现恒星可以偷取行星](https://www.cnbeta.com/articles/science/1320245.htm) | Sat Sep 24 2022 12:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;谢菲尔德大学的研究人员为围绕质量为太阳三倍的大质量恒星运行的木星类行星提出了一个新的起源假说。根据最近的研究，在大多数恒星产生的密集的恒星苗圃中的大质量恒星可能偷窃或捕获像木星一样大小的行星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [这一季的评分特别低 徐志胜也救不了脱口秀](https://hot.cnbeta.com/articles/movie/1320243.htm) | Sat Sep 24 2022 12:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;凌晨四点的青岛，刚录制完《脱口秀大会5》第一期的演员们累到虚脱。肉食动物的晃晃已经坐不住了，瘫倒在座位上。不少演员倒在休息室，睡了过去，被喊起来做赛后采访时，补个妆就录。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
