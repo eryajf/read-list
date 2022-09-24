@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [加州州长未能签署通过西海岸版BitLicense加密货币监管法案](https://www.cnbeta.com/articles/tech/1320197.htm) | Sat Sep 24 2022 7:30 AM 
+- 🕯 [探索木星的同时“天问四号”任务将捎带上天王星探测器](https://www.cnbeta.com/articles/science/1320201.htm) | Sat Sep 24 2022 8:58 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;随着“天问四号”航天项目的官宣，我们得知定于 2030 年前后发射的中国航天器，已经把天王星也纳入了新一轮观测的任务表中。&lt;/strong&gt;有趣的是，尽管此前许多航天器的任务相当单一，但天问四号却同时带上了用于木星和天王星任务的两个探测器。此外尽管天文学家们已经对天王星持续研究了数十年，但却迟迟没有航天机构向这颗遥远的太阳系行星发送探测器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [9to5Mac小拆了一下Apple Watch Ultra的后盖](https://www.cnbeta.com/articles/tech/1320199.htm) | Sat Sep 24 2022 8:32 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;随着首批 Apple Watch Ultra 被送达客户手中，9to5Mac 的 Derek Wise 也分享了初步拆解视频。&lt;strong&gt;只是在打开了后盖之后，他就奉劝普通消费者不要轻易尝试进一步的拆解，主要原因是这么做会破坏手表的质保和防水能力。&lt;/strong&gt;此外背部传感器与主板之间有排线连接，所以在拿刀刮开整个防水胶圈时需要更加小心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [加州州长未能签署通过西海岸版BitLicense加密货币监管法案](https://www.cnbeta.com/articles/tech/1320197.htm) | Sat Sep 24 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;8 月下旬，加州议会通过了被称作“西海岸 BitLicense”的加密货币监管法案。但是这周五，加州州长 Gavin Newsom 还是否决了该案。&lt;/strong&gt;据悉，由 Tim Grayson 发起的第 2269 号议会法案，旨在为想要促进加密交易的人们打造一套授信制度。然而本周，Gavin Newsom 否决了包括其在内的八项法案。而在正式签署通过的其它 21 项法案中，则涉及从交叉信号到网络安全、以及基础设施等议题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果产品在日本全线涨价：iPhone 13上调20% 最低配近6000元](https://www.cnbeta.com/articles/tech/1320195.htm) | Sat Sep 24 2022 7:29 AM 
+- 🚀 [苹果产品在日本全线涨价：iPhone 13上调20% 最低配近6000元](https://www.cnbeta.com/articles/tech/1320195.htm) | Sat Sep 24 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据央视财经报道，由于日元对美元持续贬值，苹果公司针对日本市场实施了全面涨价，对于日本民众而言，购买一台苹果手机就需要花更多的钱。以iPhone13的最低价款为例，以前的含税价格为9.88万日元（约合人民币4901元），&lt;strong&gt;现在上调为11.78万日元（约合人民币5844元），涨价1.9万日元，贵了差不多20%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [汽车芯片进口依赖度超过石油 专家：中国厂商有很大机遇](https://www.cnbeta.com/articles/tech/1320193.htm) | Sat Sep 24 2022 7:28 AM 
+- 🎊 [汽车芯片进口依赖度超过石油 专家：中国厂商有很大机遇](https://www.cnbeta.com/articles/tech/1320193.htm) | Sat Sep 24 2022 7:28 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;过去两年的全球半导体产能危机中，汽车芯片是最受影响的领域之一，导致多家汽车品牌都不得不宣布减产，汽车芯片价格也因此上涨了十几倍甚至上百倍，如今供应情况有所好转，但中国汽车行业对进口芯片的依赖依然很大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [中国官方宣布天问四号：一次看完木星、天王星、小行星](https://www.cnbeta.com/articles/science/1320191.htm) | Sat Sep 24 2022 7:25 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天问一号造访火星，拉开了我国深空探测的序幕。在近日巴黎召开的第73届国际宇航大会上，天问一号任务团队获得国际宇航联合会的最高奖项——2022年度“世界航天奖”。&lt;strong&gt;此前2020年6月，嫦娥四号任务团队也曾获得此奖项，那也是70年来中国航天科学家首次摘得此荣誉。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [热搜上的钕磁体 凭啥让美国担心卡脖子？](https://www.cnbeta.com/articles/tech/1320189.htm) | Sat Sep 24 2022 7:23 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当代“永磁王”钕磁体，成为这几日热议的主角。这是因为呀，美国一声令下，宣布“不限制主要从中国进口的钕磁体”。理由中提到，去年美国进口的烧结钕磁体中，中国出产占到了75%。（烧结，就是将粉状物转变成致密体，主流制造工艺）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
