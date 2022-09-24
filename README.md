@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Xbox Series S在日销量再次超过PS5 未来将推出更多原创日本游戏](https://hot.cnbeta.com/articles/game/1320023.htm) | Fri Sep 23 2022 11:20 PM 
+- 🕯 [伦敦警方公告：攻击并泄漏《GTA6》的17岁嫌犯已逮捕](https://www.cnbeta.com/articles/tech/1320085.htm) | Sat Sep 24 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在近日举办的 IGB Japan 直播活动中，Xbox 游戏生态副总裁莎拉·邦德（Sarah Bond）表示公司将为 Xbox 提供更多原创的日本游戏。她的这段演讲由国外媒体 VideoGamesChronicle 转录如下&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在美国联邦调查局（FBI）和英国调查局下辖国家网络犯罪调查处（NCCU）的帮助下，伦敦警方成功逮捕了攻击并泄露《GTA 6》的嫌犯。&lt;/strong&gt;在 FBI 介入调查数日之后，英国执法部门本周四宣布这起案件成功告破。警方并未公布这名少年嫌犯的姓名，也没有公布他所面临的指控，不过更多细节会在未来几天内公布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NFT初创公司和交易所叫苦：入驻App Store几乎不可能](https://www.cnbeta.com/articles/tech/1320021.htm) | Fri Sep 23 2022 11:04 PM 
+- 💼 [莫德纳向FDA提交针对6岁至17岁群体接种升级版疫苗申请](https://www.cnbeta.com/articles/tech/1320083.htm) | Sat Sep 24 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;NFT 行业的多家初创公司和交易所表示，由于苹果的规则和 30% 的抽成佣金，导致它们望而却步。&lt;/strong&gt;NFT 市场价值受到了加密货币波动的负面影响，因此该领域的不少初创公司和交易所希望入驻 App Store 以挖掘潜在客户，但大多数公司在综合考量之后不会这么样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;span style=&quot;&quot;&gt;莫德纳向FDA提交针对6岁至17岁群体接种升级版疫苗申请&lt;/span&gt;中新社华盛顿9月23日电 （记者 沙晗汀）美国莫德纳公司当地时间23日向美国食品和药物管理局（FDA）提交针对6岁至17岁群体接种莫德纳升级版新冠疫苗的申请授权。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Made by Google活动即将到来：Pixel 7系列和Pixel Watch将登场](https://www.cnbeta.com/articles/tech/1320019.htm) | Fri Sep 23 2022 10:43 PM 
+- 💂 [科学家开发新型纳米涂层 仅用一小时就能杀死99.7%的细菌](https://www.cnbeta.com/articles/science/1320081.htm) | Sat Sep 24 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;和苹果微软一样，Google 也将在今年秋季举办“Made by Google”硬件活动，推出以 Pixel 品牌为主的诸多新产品。今年活动将于北京时间 10 月 6 日晚上 23 点开幕，有望推出 Pixel 7、Pixel 7 Pro 和 Pixel Watch 在内的新品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;根据一项新研究，一种比现有配方更快更多地杀灭细菌的新型铜涂层可能在不久的将来可用于医院和其他高人流量的公共场所。&lt;/strong&gt;尽管目前由纯铜组成的配方是抗菌和自我消毒的，但它们对某些形式的细胞壁较厚的细菌（革兰氏阳性菌）的杀伤力比细胞壁较薄的细菌（革兰氏阴性菌）要慢。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [日本在小行星“龙宫”岩石样本中发现液态水](https://www.cnbeta.com/articles/science/1320017.htm) | Fri Sep 23 2022 7:52 PM 
+- 🚀 [美国科技股抛售潮愈演愈烈 成长型投资者还能“咬定青山”吗？](https://www.cnbeta.com/articles/tech/1320079.htm) | Sat Sep 24 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本宇宙航空研究开发机构23日宣布，日本“隼鸟2号”探测器采集并通过回收舱带回地球的小行星“龙宫”岩石样本中含有液态水。日本宇宙航空研究开发机构23日发布消息说，该机构和日本东北大学等组成的研究小组分析了“龙宫”的岩石样本，发现其中含有液态水。这些水“封”在铁和硫组成的磁黄铁结晶内，水中含有盐分和碳质。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，过去10年，在美国大水漫灌的货币政策刺激下，各大科技公司股价节节飙升，因此，这种投资方式有时的确会带来惊人回报。但过去一年间，同样的投资理念却因为利率上行、通货膨胀等因素遭受冲击。随着疫情管控放松，Zoom和Peloton等所谓的“疫情受益股”纷纷跌落神坛，再加上科技股也遭到大范围抛售，许多曾经风光一时的股票都令投资者损失惨重。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [比利时将首次关闭核反应堆](https://www.cnbeta.com/articles/tech/1320015.htm) | Fri Sep 23 2022 7:51 PM 
+- 🎊 [梅赛德斯-奔驰董事长：电动G-Wagen将于2024年中上市](https://www.cnbeta.com/articles/tech/1320077.htm) | Sat Sep 24 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;比利时核电运营商Engie集团当地时间23日表示，比利时将在当天晚些时候正式关闭“杜尔3号”（Doel 3）核反应堆。比利时现有2座核电站，共7座核反应堆，这将是该国首次终止核反应堆的运营。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Autoblog 报道称：&lt;strong&gt;梅赛德斯-奔驰董事长 Ola Källenius 在本周直面记者的一场圆桌会议上表示，旗下 G-Wagen 电动车型将于 2024 年中上市。&lt;/strong&gt;与此同时，该公司正在位于奥地利格拉茨的测试设施对电动 SUV 的原型版本展开测试，并坚信越野冒险的未来就是拥抱电气化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
