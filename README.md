@@ -401,33 +401,33 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [数字文具盒｜Word 写论文，也可以很好用](https://sspai.com/post/75217) | Sat Sep 24 2022 3:01 AM 
+- 👹 [具透 | iOS 16 通知管理迷思，一个通知的 N 种呈现方式](https://sspai.com/post/75895) | Sat Sep 24 2022 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    一起来看看 iOS 16 的通知系统到底有多复杂。&lt;a href=&quot;https://sspai.com/post/75895&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [数字文具盒｜Word 写论文，也可以很好用](https://sspai.com/post/75217) | Sat Sep 24 2022 3:01 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75217&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75887) | Fri Sep 23 2022 9:47 AM 
+- 🤭 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75887) | Fri Sep 23 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[电影]咒术回战0、[英剧]万物生灵第三季、[美剧]安多第一季、[国产剧]昆仑神宫、[韩剧]危机的X、[动画]蜂妹与狗狗猫几则精彩预告：TV动画《链锯人》公布正式预告，10 ...&lt;a href=&quot;https://sspai.com/post/75887&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派周报：年年焕新，不换不能新？](https://sspai.com/prime/story/pi-weekly-010) | Fri Sep 23 2022 9:13 AM 
+- 🥸 [派周报：年年焕新，不换不能新？](https://sspai.com/prime/story/pi-weekly-010) | Fri Sep 23 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
     不少顾客发现，今年的年年焕新政策发生了调整，在到店提取通过年年焕新渠道预约的新机时，交回旧机获得折抵款不再是可选项，而是强制要求。尽管目前批评意见主要集中在新规则本身，但苹果最大的问题或许不在于修改了规则，而在于没有任何明确通知就修改了规则，并且将其溯及地适用于往年加入计划的顾客。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-010&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [灵动岛：欲盖弥彰与巧夺天工](https://sspai.com/post/75830) | Fri Sep 23 2022 9:09 AM 
+- 🙉 [灵动岛：欲盖弥彰与巧夺天工](https://sspai.com/post/75830) | Fri Sep 23 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
     &lt;p&gt;你好，欢迎来到新一期的持续更新。&lt;/p&gt;
 &lt;h2&gt;💬 评论&amp;amp;漫游&lt;/h2&gt;
 &lt;p&gt;本次的评论，不好意思，又要聊苹果… 因为 iPhone14 Pro 上的意外惊喜（没有被爆料泄漏）灵动岛（Dynamic Island）实在赚足了眼球和话题，当然还有大片的叫好声。必须承认，灵动岛确实是近年愈发无聊的手机行业中难得的创新之一。不过，在兴奋与叫好之后，我想带大家安静下来仔细并理性地重新认识一下灵动岛，并提出几点理性的批判。这次的评论环节会和漫游合并，因为在研究灵动岛的过程中，发现了一些与之相关的老产品，我们开始吧。&lt;/p&gt;
 &lt;figure class=&quot;image ss-img-wrapper&quot;&gt;&lt;img src=&quot;https://cdn.sspai.com/2022/09/20/article/45fab5dad1f7b1b6b524f2136d7a48cf&quot;&gt;
     &lt;figcaption&gt;图片来自 9to5Mac&lt;/figcaption&gt;&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/75830&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/269&quot; target=&quot;_blank&quot;&gt;《100 小时后请叫我设计师》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [iPhone mini 系列停更后，小屏手机还能选什么？](https://sspai.com/post/75884) | Fri Sep 23 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们在没得选的市场里选了这些，只能祝你快乐。&lt;a href=&quot;https://sspai.com/post/75884&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
