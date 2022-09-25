@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [锐龙7 6800U加持 国产掌机AYANEO 2开启预定](https://www.cnbeta.com/articles/tech/1320467.htm) | Sun Sep 25 2022 11:14 AM 
+- 🕯 [研究认为植物性肉类是&quot;更健康和更可持续的&quot;](https://www.cnbeta.com/articles/science/1320491.htm) | Sun Sep 25 2022 1:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，国产掌机厂商AYANEO召开发布会，&lt;strong&gt;推出了旗下最新的Windows掌机：AYANEO 2。&lt;/strong&gt;根据介绍，&lt;strong&gt;AYANEO 2将搭载AMD的锐龙7 6800U处理器，这颗俨然成为掌机“新宠”的处理器内置AMD Radeon 680M显卡，RDNA 2架构，12显示核心，2200MHz显示频率，相较于前代显示性能提升约2倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据一项新研究的作者，以植物为基础的动物产品的饮食替代品对环境和人类来说都比它们所要替代的动物产品更健康。根据最近发表在《未来食品》上的一篇论文，这些食品是减少对肉类和奶制品需求的一种更有效的方式，而不是简单地建议个人做素食全餐，因为它们是&amp;quot;专门用来复制动物产品的味道、质地和整体饮食体验的&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [A饭精心制作RX 7000显卡渲染美图：好帅的大号板砖](https://www.cnbeta.com/articles/tech/1320465.htm) | Sun Sep 25 2022 11:14 AM 
+- 💼 [我国首艘大型邮轮建造进度超70%：19层甲板 长度堪比航母](https://www.cnbeta.com/articles/tech/1320489.htm) | Sun Sep 25 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA RTX 40系列已经发布了，AMD RX 7000系列还会远吗？官方已经定档11月3日，但曝料仍然很少。3D艺术家Technetium基于官方披露的局部，制作了几张RX 7900 XT&lpar;暂定名&rpar;的多角度精美渲染图，看起来相当之酷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大型邮轮被誉为“造船业皇冠上的明珠”，也是中国目前唯一尚未完成的高技术船舶产品。现在，中国终于要将其拿下了。据央视财经报道，我国第一艘大型邮轮建造项目于2019年10月18日在上海开工建造，&lt;strong&gt;目前总体进度已经超过70%。已经实现全船贯通，进入内部装修环节，预计明年下半年正式交付使用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [全球最拥堵大城市将建600公里自行车道 一半人骑自行车](https://www.cnbeta.com/articles/tech/1320463.htm) | Sun Sep 25 2022 11:13 AM 
+- 💂 [江西干旱已超70天：鄱阳湖竟然刮起沙尘暴、湖面缩小8成](https://www.cnbeta.com/articles/tech/1320487.htm) | Sun Sep 25 2022 1:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;哥伦比亚首都波哥大是全球最为拥堵的大城市之一，经济和人口增长以及持续的城市化是造成拥堵增长的原因。据了解，&lt;strong&gt;波哥大没有地铁，所以很多人出行只能依赖地面公交系统，或是私家车出行。&lt;/strong&gt;恶劣的出行环境迫使许多当地居民选择骑自行车出行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据江西气象局，近期，江西省局部出现重度气象干旱，截至9月25日，干旱已持续长达75天，95％的区域达到特旱级别。近日，&lt;strong&gt;有网友在九江鄱阳湖鞋山岛附近，拍摄到鄱阳湖因持续干旱，湖床裸露，竟然刮起“沙尘暴”，看起来一片“烟雾缭绕”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iOS 16.1测试版可让用户禁用AirPods Pro 2触摸音量控制](https://www.cnbeta.com/articles/tech/1320461.htm) | Sun Sep 25 2022 11:13 AM 
+- 🚀 [中科院软件所量子计算编程软件isQ正式开源](https://www.cnbeta.com/articles/tech/1320485.htm) | Sun Sep 25 2022 1:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在iOS 16.1测试版中，苹果为第二代AirPods Pro的用户提供了禁用音量触摸控制的能力。新的AirPods Pro的一个新增功能是用户可以通过在AirPods Pro耳机柄触摸传感器上向上或向下滑动来增加或减少音量。虽然有些用户可能会觉得这个功能很方便，但也有一些人嫌没用还有误触的困扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，&lt;strong&gt;中国科学院软件研究所发布公告称，该所量子计算编程软件isQ正式开源。&lt;/strong&gt;中科院软件所量子软件团队主要负责人介绍，&lt;strong&gt;isQ是一款支持经典量子混合编程的量子编程软件，能够灵活地描述各类复杂的量子算法。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [盖茨基金会：计划再运营25年 确保花光所有钱](https://www.cnbeta.com/articles/tech/1320459.htm) | Sun Sep 25 2022 11:11 AM 
+- 🎊 [115网盘V30版本发布：重新设计Logo 一键备份微信内容](https://www.cnbeta.com/articles/tech/1320483.htm) | Sun Sep 25 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月25日消息，在2022年福布斯400慈善峰会上，微软联合创始人比尔·盖茨（Bill Gates）宣布其私人基金会可能会再运行25年，并在此期间花光所有钱。盖茨在与《福布斯》杂志首席内容官兰德尔·莱恩（Randall Lane）的主旨对话中表示：“我对盖茨基金会的目标是再运行25年。在此期间，我们将尝试根除传染病以及所有让世界变得不公平的疾病，至少要将它们的发病率降至非常低的水平。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“115”是国内较早一批上线的个人云产品。产品涵盖电脑端&lpar;PC电脑版和Web版&rpar;、手机端&lpar;Android版和iOS版&rpar;、电视端&lpar;大屏版&rpar;，多场景覆盖。今天，115网盘推出全新V30.1.0版本，&lt;strong&gt;新版115网盘Logo图标从一朵云变成一个数字“5”，下面还加了一行小字“115生活。”&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
