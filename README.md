@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Unraid 6.11 弃用 NerdPack 的解决办法](https://www.v2ex.com/t/882870#reply0) | Sun Sep 25 2022 2:11 PM
-- 🤗 [向各位请教 vscode 的设置问题](https://www.v2ex.com/t/882861#reply0) | Sun Sep 25 2022 1:52 PM
-- 🎭 [eBPF Talk（2）](https://www.v2ex.com/t/882860#reply0) | Sun Sep 25 2022 1:43 PM
-- 🥷 [XFS 是要在 root 分区下缓存什么东西吗，为什么我的 NAS 系统盘动不动就满？](https://www.v2ex.com/t/882855#reply0) | Sun Sep 25 2022 1:16 PM
-- 🐵 [甲骨文 arm 机子 dd 之后的配置](https://www.v2ex.com/t/882851#reply4) | Sun Sep 25 2022 12:53 PM<!-- v2ex:END -->
+- 🥸 [怎么在 V2EX 上投广告，怎么收费的，贵不贵](https://www.v2ex.com/t/882878#reply2) | Sun Sep 25 2022 3:08 PM
+- 🤗 [Unraid 6.11 弃用 NerdPack 的解决办法](https://www.v2ex.com/t/882870#reply0) | Sun Sep 25 2022 2:11 PM
+- 🎭 [向各位请教 vscode 的设置问题](https://www.v2ex.com/t/882861#reply0) | Sun Sep 25 2022 1:52 PM
+- 🥷 [eBPF Talk（2）](https://www.v2ex.com/t/882860#reply0) | Sun Sep 25 2022 1:43 PM
+- 🐵 [XFS 是要在 root 分区下缓存什么东西吗，为什么我的 NAS 系统盘动不动就满？](https://www.v2ex.com/t/882855#reply0) | Sun Sep 25 2022 1:16 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
