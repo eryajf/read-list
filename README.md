@@ -802,29 +802,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [狼也能发展出对人类的依恋](http://jandan.net/p/111388) | Sun Sep 25 2022 1:18 PM 
+- 🚀 [可化整为零分头跑路、再能组合回去的磁控微型机器人](http://jandan.net/p/111392) | Sun Sep 25 2022 3:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    或许可应用于医疗上的给药过程。 
+    </details> 
+
+- 🙉 [狼也能发展出对人类的依恋](http://jandan.net/p/111388) | Sun Sep 25 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
     毕竟和狗同源 
     </details> 
 
-- 🙉 [大量水蒸气进入平流层 汤加火山喷发会在一段时间里提高地表温度](http://jandan.net/p/111389) | Sun Sep 25 2022 8:30 AM 
+- 🎉 [大量水蒸气进入平流层 汤加火山喷发会在一段时间里提高地表温度](http://jandan.net/p/111389) | Sun Sep 25 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
     大型火山爆发通常会将二氧化硫射入大气层的上层，这会过滤太阳辐射，从而使地球降温。 
     </details> 
 
-- 🎉 [今日好价 0925](http://jandan.net/p/111391) | Sun Sep 25 2022 4:54 AM 
+- 🐲 [今日好价 0925](http://jandan.net/p/111391) | Sun Sep 25 2022 4:54 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🐲 [我们的智商会随着年龄的增长而下降吗](http://jandan.net/p/111384) | Sat Sep 24 2022 2:40 PM 
+-  [我们的智商会随着年龄的增长而下降吗](http://jandan.net/p/111384) | Sat Sep 24 2022 2:40 PM 
     <details><summary>展开描述 ...</summary> 
     如果你噩梦频繁的话…… 
-    </details> 
-
--  [中年人总做噩梦？要小心了：经常做噩梦的中年人可能正经历认知衰退](http://jandan.net/p/111381) | Sat Sep 24 2022 2:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    之后老年痴呆的风险也会增加 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
