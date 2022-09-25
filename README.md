@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [数字文具盒｜将知识内化为个人数据库：这是我的笔记工作流](https://sspai.com/post/75364) | Sun Sep 25 2022 3:38 AM 
+- 👹 [任意键｜《赛博朋克 2077》稳了，暂时](https://sspai.com/post/75907) | Sun Sep 25 2022 6:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    周末愉快！经过两个月的试运行和不断改进，我派的游戏专题「任意键」终于做好了正式上线前的大部分准备。新的「任意键」将作为少数派的常驻栏目，以双周一更的稳健节奏带来更加有趣和全面的内容。在扩大版面、充实内 ...&lt;a href=&quot;https://sspai.com/post/75907&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [数字文具盒｜将知识内化为个人数据库：这是我的笔记工作流](https://sspai.com/post/75364) | Sun Sep 25 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
     根据自己的习惯和需求建立工作流，记录以及内化各类知识，然后形成自己的个人数据库，方便未来随时调用。&lt;a href=&quot;https://sspai.com/post/75364&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [具透 | iOS 16 通知管理迷思，一个通知的 N 种呈现方式](https://sspai.com/post/75895) | Sat Sep 24 2022 7:00 AM 
+- 🤭 [具透 | iOS 16 通知管理迷思，一个通知的 N 种呈现方式](https://sspai.com/post/75895) | Sat Sep 24 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     一起来看看 iOS 16 的通知系统到底有多复杂。&lt;a href=&quot;https://sspai.com/post/75895&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [数字文具盒｜Word 写论文，也可以很好用](https://sspai.com/post/75217) | Sat Sep 24 2022 3:01 AM 
+- 🥸 [数字文具盒｜Word 写论文，也可以很好用](https://sspai.com/post/75217) | Sat Sep 24 2022 3:01 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75217&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75887) | Fri Sep 23 2022 9:47 AM 
+- 🙉 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75887) | Fri Sep 23 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[电影]咒术回战0、[英剧]万物生灵第三季、[美剧]安多第一季、[国产剧]昆仑神宫、[韩剧]危机的X、[动画]蜂妹与狗狗猫几则精彩预告：TV动画《链锯人》公布正式预告，10 ...&lt;a href=&quot;https://sspai.com/post/75887&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派周报：年年焕新，不换不能新？](https://sspai.com/prime/story/pi-weekly-010) | Fri Sep 23 2022 9:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    不少顾客发现，今年的年年焕新政策发生了调整，在到店提取通过年年焕新渠道预约的新机时，交回旧机获得折抵款不再是可选项，而是强制要求。尽管目前批评意见主要集中在新规则本身，但苹果最大的问题或许不在于修改了规则，而在于没有任何明确通知就修改了规则，并且将其溯及地适用于往年加入计划的顾客。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-010&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
