@@ -443,29 +443,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [商业5G服务将于10月1日在印度推出 总理莫迪将参与启动仪式](https://www.cnbeta.com/articles/tech/1320265.htm) | Sat Sep 24 2022 6:57 PM 
+- 🕯 [即将前往ISS的NASA SpaceX Crew-5机组成员进入隔离区](https://www.cnbeta.com/articles/science/1320315.htm) | Sun Sep 25 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;商业5G服务将在印度正式启动。这一宣布将是IMC（印度移动大会）的一部分，将由总理纳伦德拉-莫迪亲自宣布。&lt;/strong&gt;IMC将从10月1日持续到10月4日，5G相关的大型发布活动将在10月1日举行。总理和他的宣布将是名为&amp;quot;迈向5G Advanced和6G&amp;quot;的讨论的一部分，所以据推测，会上将讨论很多关于该国科技和通信的未来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了准备参加NASA的SpaceX Crew-5任务飞往国际空间站，NASA宇航员Nicole Mann和Josh Cassada及JAXA宇航员Koichi Wakata和俄罗斯宇航员Anna Kikina于当地时间9月19日周一开始进入正式隔离期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国产航空大片《长空之王》预售破两千万：尖端战机齐亮相](https://hot.cnbeta.com/articles/movie/1320263.htm) | Sat Sep 24 2022 5:06 PM 
+- 💼 [谈车大灯似乎正在变得越来越亮的真正原因](https://www.cnbeta.com/articles/tech/1320313.htm) | Sun Sep 25 2022 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据灯塔专业版，影片《长空之王》预售总票房突破2000万，在这之前其已成为中国影史国庆档预售最快破千万电影。《长空之王》由刘晓世导演，韩寒监制，王一博、胡军、于适领衔主演，周冬雨特别主演，将于9月30日正式上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;车大灯是每个现代适航车辆所包含的基本安全功能，其原因似乎非常明显：光线是一种必需品，尤其是在不利的天气或夜间驾驶时。因此，如果每个人都需要光线来在夜间安全使用他们的汽车，那么肯定是更多的光线更好？--不一定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [代表建议降低英语教学比重、考试中占分比重 教育部答复](https://www.cnbeta.com/articles/tech/1320261.htm) | Sat Sep 24 2022 4:49 PM 
+- 💂 [苏格兰公司基于丰田埃尔法混动车打造了新一代环保露营车](https://www.cnbeta.com/articles/tech/1320311.htm) | Sun Sep 25 2022 1:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月23日，&lt;strong&gt;教育部官网公布了对全国人大代表提出的“关于增强文化自信增加中国文化内容教学改革和降低英语教学比重的建议”的答复。&lt;a class=&quot;f14_link&quot; href=&quot;https://www.cqcb.com/shishijingwei/2022-09-24/5036784_pc.html&quot; target=&quot;_blank&quot;&gt;长江日报&lt;/a&gt;记者注意到，教育部在答复中表示，中小学外语课时占比低于语文等学科。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在电动露营车和PHEV VW pop-top开始定期出现之前，苏格兰的Campervan Co正在忙于开拓混动房车市场，并推出了一些西方世界最高效、最环保的微型露营车。本周，该公司推出了其最新车型--新一代Eco Pioneer II。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [被iPhone 14“收割”的黄牛：一天亏几十万 没人相信手机会砸手里](https://www.cnbeta.com/articles/tech/1320259.htm) | Sat Sep 24 2022 4:42 PM 
+- 🚀 [詹姆斯·厄尔·琼斯决定让AI接替达斯·维德的声音](https://hot.cnbeta.com/articles/movie/1320309.htm) | Sun Sep 25 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“发售前，今年要赚几十万；发售后，一天亏了几十万”，这句话成了今年一些倒卖iPhone 14黄牛的心声。9月17日，“黄牛诉苦苹果14倒贴100元出”的话题引起了热议，社交平台上流传的一张黄牛路边摆摊卖iPhone 14的照片中，从黄牛的表情可以看出今年iPhone新机的行情。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自《星球大战》开始以来，詹姆斯·厄尔·琼斯一直是达斯·维德标志性声音背后的男人，但在91岁的时候，他似乎已经准备好让人替他完成这项工作。根据《名利场》的报道，&lt;strong&gt;琼斯签署了他的档案配音工作的权利--允许乌克兰创业公司Respeecher利用AI技术在迪士尼+的《欧比旺》电视剧中重现他的声音。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《GTA6》泄露后 大量开发者分享游戏的早期版本](https://hot.cnbeta.com/articles/game/1320257.htm) | Sat Sep 24 2022 3:54 PM 
+- 🎊 [Certain Affinity可能在领导开发《光环》新作](https://hot.cnbeta.com/articles/game/1320307.htm) | Sun Sep 25 2022 12:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;最近《GTA6》发生了泄露事件，早期版本的画面水平被一些玩家批评。有鉴于此，很多开发者站出来支援R星，他们分享了自己游戏的早期版本，画面同样也是“惨不忍睹”。&lt;/strong&gt;泄露发生后，R星曾发文回应，表示这次泄露并不会影响他们开发进度，而且向玩家保证《GTA6》一定会超过玩家的预期。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;位于美国德州的开发商Certain Affinity正在为《光环》系列开发“新的东西”，开发人数接近100人。自2007年以来，Certain Affinity曾参与开发了多个《光环》和《使命召唤》系列游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
