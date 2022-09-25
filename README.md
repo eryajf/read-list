@@ -373,24 +373,24 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [PWA 炒来炒去到底行不行？](https://juejin.cn/post/7147267313920638983) | Sun Sep 25 2022 10:47 AM 
+- 🤗 [依赖反转原则到底反转了什么](https://juejin.cn/post/7147285415966277669) | Sun Sep 25 2022 12:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    问题 SOLID是常用的用来设计类以及类和类之间关系的设计原则，它的主要作用就是告诉我们如何将数据和函数组织为类，以及如何将这些类链接为程序，从而使得软件容易扩展、容易理解以及容易复用。其中D代表的就 
+    </details> 
+
+- 🎡 [PWA：炒来炒去到底行不行？](https://juejin.cn/post/7147267313920638983) | Sun Sep 25 2022 10:47 AM 
     <details><summary>展开描述 ...</summary> 
     PWA究竟解决了Web应用的哪些问题？ 先了解下浏览器的三大进化路线： 第一个是应用程序 Web 化； 第二个是 
     </details> 
 
-- 🎡 [Android进阶宝典 -- JetPack Navigation的高级用法（解决路由跳转新建Fragment页面问题）](https://juejin.cn/post/7147265281973288973) | Sun Sep 25 2022 10:41 AM 
+- 🕯 [Android进阶宝典 -- JetPack Navigation的高级用法（解决路由跳转新建Fragment页面问题）](https://juejin.cn/post/7147265281973288973) | Sun Sep 25 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
     了解Navigation基础使用，从源码出发解读Navigation原理，了解Navigator和Destination的关系，并解决框架层因跳转导致视图重建的问题 
     </details> 
 
-- 🕯 [懒人系列--文件上传之OSS使用案例](https://juejin.cn/post/7147259397545132040) | Sun Sep 25 2022 10:18 AM 
+- 🚀 [懒人系列--文件上传之OSS使用案例](https://juejin.cn/post/7147259397545132040) | Sun Sep 25 2022 10:18 AM 
     <details><summary>展开描述 ...</summary> 
     . 前言 又到了愉快的水文时间了，那么今天的带来的是如何使用第三放服务去愉快完成文件的上传服务。问题来了，为啥我们需要去使用第三方的文件存储服务咧，貌似是没有这个需求哇。其实呢这个咋说呢，确实是需要结 
-    </details> 
-
-- 🚀 [leetcode-132-分割回文串 II](https://juejin.cn/post/7147258253397721124) | Sun Sep 25 2022 10:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    给你一个字符串 s，请你将 s 分割成一些子串，使每个子串都是回文。 返回符合要求的 最少分割次数 。 
     </details> 
 
 - 💪 [从零开始搭建前端脚手架（二）-- [解决目录重名问题]](https://juejin.cn/post/7147257215894683655) | Sun Sep 25 2022 10:09 AM 
