@@ -830,28 +830,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Guide to Finding a Crypto Job - 34 页的 Web3、加密和区块链工作免费指南](https://xinquji.com/posts/179783?utm_campaign=xinquji-rss) | Sun Sep 25 2022 6:21 AM 
+- 👀 [Shopemaa - 出售任何东西而无需交易费用](https://xinquji.com/posts/179797?utm_campaign=xinquji-rss) | Mon Sep 26 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-     34 页的 Web3、加密和区块链工作免费指南  
+     出售任何东西而无需交易费用  
     </details> 
 
-- 🥷 [Zoom for LiveChat - 直接在聊天中与您的客户创建 Zoom 会议](https://xinquji.com/posts/179782?utm_campaign=xinquji-rss) | Sun Sep 25 2022 6:18 AM 
+- 🥷 [Kalënder 2023 - 免费的最小可打印 2023 年日历](https://xinquji.com/posts/179796?utm_campaign=xinquji-rss) | Mon Sep 26 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-     直接在聊天中与您的客户创建 Zoom 会议  
+     免费的最小可打印 2023 年日历  
     </details> 
 
-- 💼 [DoubleText v2 - Messenger 和现在的 WhatsApp 聊天的迷人分析](https://xinquji.com/posts/179781?utm_campaign=xinquji-rss) | Sun Sep 25 2022 6:17 AM 
+- 💼 [StopSpend - 超支者的财务责任](https://xinquji.com/posts/179795?utm_campaign=xinquji-rss) | Mon Sep 26 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-     Messenger 和现在的 WhatsApp 聊天的迷人分析  
+     超支者的财务责任  
     </details> 
 
-- 🦅 [Artisankonect - 将客户与附近的工匠联系起来](https://xinquji.com/posts/179780?utm_campaign=xinquji-rss) | Sun Sep 25 2022 6:16 AM 
+- 🦅 [PT Champion - PT 在健身房或在线培训客户的平台](https://xinquji.com/posts/179794?utm_campaign=xinquji-rss) | Mon Sep 26 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-     将客户与附近的工匠联系起来  
+     PT 在健身房或在线培训客户的平台  
     </details> 
 
-- 😺 [Compassion Game - 一个鼓励采用植物性饮食的游戏化应用程序](https://xinquji.com/posts/179779?utm_campaign=xinquji-rss) | Sun Sep 25 2022 6:15 AM 
+- 😺 [TheThrivingCareer - 游戏化面试准备和专家指导](https://xinquji.com/posts/179793?utm_campaign=xinquji-rss) | Mon Sep 26 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-     一个鼓励采用植物性饮食的游戏化应用程序  
+     游戏化面试准备和专家指导  
     </details> 
 <!-- xinquji:END -->
