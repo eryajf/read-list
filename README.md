@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [SpaceX猎鹰9号火箭搭52颗星链卫星成功入轨 总数已达3399颗](https://www.cnbeta.com/articles/tech/1320381.htm) | Sun Sep 25 2022 3:57 AM 
+- 🕯 [麻省理工学院AI图像生成系统让《DALL-E 2》等模型散发出创意](https://www.cnbeta.com/articles/tech/1320411.htm) | Sun Sep 25 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月25日今天早晨，马斯克麾下的SpaceX公司猎鹰9号运载火箭搭载52颗星链卫星成功发射升空入轨 ，再次为星链计划助力，至此星链计划的卫星总数已达3399颗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着DALL-E的问世，互联网迎来了一个集体感觉良好的时刻。这个基于人工智能的图像生成器的灵感来自于艺术家萨尔瓦多-DALL-E和动画电影中可爱的机器人瓦力，它使用自然语言来生成你心中想要的任何神秘而美丽的图像。看到打出的输入信息，如&amp;quot;拿着冰激凌甜筒的微笑地鼠&amp;quot;，机器的灵感瞬间涌现出来，这种生动的人工智能生成的图像显然得到了世界的共鸣。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《羊了个羊》全网爆火 创始人被母校制作展牌宣传](https://hot.cnbeta.com/articles/game/1320379.htm) | Sun Sep 25 2022 3:44 AM 
+- 💼 [韦伯太空望远镜揭示了太阳系中最丰富和最接近的星体“托儿所”](https://www.cnbeta.com/articles/science/1320409.htm) | Sun Sep 25 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近微信小游戏《羊了个羊》火爆全网，频上热搜，众多玩家熬夜玩了无数遍连第二关都没有过去，作为一款闯关类消除游戏，其通关率甚至不到0.1%。而这款微信小游戏的开发团队，北京简游科技有限公司也获得了人们的关注。近日，有网友爆料称，&lt;strong&gt;《羊了个羊》创始团队、简游科技创始人张佳旭的个人展板出现在了母校长治学院的校园内。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;包括密歇根大学（U-M）研究人员在内的国际天文学家团队刚刚披露了詹姆斯-韦伯太空望远镜的首批猎户座星云图像，这是太阳系中最丰富和最接近的恒星孕育地。猎户座星云位于猎户座，距离地球大约1350光年，是一个富含物质的区域，许多恒星在这里形成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320409.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《木卫四协议》先导预告 周四即将公布全新内容](https://hot.cnbeta.com/articles/game/1320377.htm) | Sun Sep 25 2022 3:24 AM 
+- 💂 [微软调查称“生产力妄想症”导致老板怀疑员工在家中的工作表现](https://www.cnbeta.com/articles/tech/1320407.htm) | Sun Sep 25 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;恐怖游戏新作《木卫四协议》将于本周公布最新情报。&lt;strong&gt;Shinobi602在Twitter表示，当他在给《木卫四协议》的促销电话发送短信之后，收到了一条包含视频的回复，相当于本周即将公布新内容的先导视频。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软最近的一项调查显示，当涉及到在家工作所提供的员工生产力时，老板们并没有真正留下印象，工人们也对此不以为然。微软解释说，这两个群体之间的这种认知脱节是受到&amp;quot;生产力偏执狂&amp;quot;的影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [威马一年巨亏82亿元 创始人沈晖年薪12亿元 是李想800多倍](https://www.cnbeta.com/articles/tech/1320375.htm) | Sun Sep 25 2022 3:24 AM 
+- 🚀 [一个辍学少年，让Adobe豪掷200亿美元](https://www.cnbeta.com/articles/tech/1320405.htm) | Sun Sep 25 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，零跑汽车成功在港交所IPO，造车新势力上市再成功晋级一家，威马汽车也加快了IPO的步伐。不过，近日，威马汽车披露的招股书，又为其带来不小的争议。威马汽车招股书显示，公司在2019-2021年间亏损额持续增加，其中2021年巨亏82亿元。在威马愈发严峻的财务状况下，创始人、董事长兼首席执行官沈晖的超高薪酬显得格外刺眼。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“旧金山随处可见的由VC组织的社交活动中，Dylan Field总是独自一人坐在那里，尴尬地自斟自饮。”根据彭博社记者Brody Ford的描述，仅仅在4年前，这位Figma的创始人还未引起行业内的过多关注，尽管彼时他开发的付费产品已经开始服务微软等互联网巨头，但作为一款设计工具，有Sketch珠玉在前，Figma的未来并不被大多投资人所看好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《生化危机4：重制版》或仍将登陆Xbox One平台](https://hot.cnbeta.com/articles/game/1320373.htm) | Sun Sep 25 2022 3:23 AM 
+- 🎊 [欧洲凛冬将至 中国&quot;取暖神器&quot;出口爆单](https://www.cnbeta.com/articles/tech/1320403.htm) | Sun Sep 25 2022 6:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据最近网络零售商的页面信息显示，卡普空新作《生化危机4：重制版》还是会登陆Xbox One平台的。&lt;/strong&gt;今年6月，卡普空正式公布《生化危机4：重制版》，将于2023年3月24日发售。由于这款游戏是在索尼的State of Play直播节目中公布的，所以这款游戏当时并没有宣布是否登陆Xbox平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;有记录以来最热夏天刚过去，迈入秋天的欧洲民众又迎来了新问题——凛冬早至。&lt;/strong&gt;在天然气供给受限、价格暴涨的困境中，如何安全过冬？他们有的开始囤积煤炭，有的转而购买能耗更小的家用取暖设备并将目光投向中国。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
