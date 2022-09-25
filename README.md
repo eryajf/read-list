@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [现款11英寸iPad Pro销售时间比以往的任何型号都长](https://www.cnbeta.com/articles/tech/1320447.htm) | Sun Sep 25 2022 9:05 AM 
+- 🕯 [《使命召唤19：现代战争2》公测火爆 在线玩家数飙升](https://hot.cnbeta.com/articles/game/1320457.htm) | Sun Sep 25 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2021年的11英寸iPad Pro今天已成为有史以来在售的同类机型中使用时间最长的，因为有迹象表明，苹果公司正计划最快在下个月用新机型取代该设备。2021年4月，苹果公司推出了新的12.9英寸和11英寸的iPad Pro型号，它采用M1芯片，Lightning端口，支持5G连接，中心舞台摄像头增强功能，以及较大的miniLED显示屏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《使命召唤19：现代战争2》beta公测现已开始，而玩家数一路走高。如今本作公测的在线玩家数量峰值已经突破16万人，可以说是相当热闹了。按照本作在公测阶段吸引到的玩家数量来看，开发商应该能得到足够的反馈用来修复游戏中存在的bug。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [专家认为Starlink对伊朗抗议者的好处“几乎是0”](https://www.cnbeta.com/articles/tech/1320445.htm) | Sun Sep 25 2022 9:01 AM 
+- 💼 [R星招聘安全调查分析师 防止《GTA6》泄密再次发生](https://hot.cnbeta.com/articles/game/1320455.htm) | Sun Sep 25 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;SpaceX公司的Starlink卫星互联网服务不太可能帮助伊朗伊斯兰共和国的抗议者在最近因一名年轻女子被道德警察拘留后死亡而引发的抗议活动中相互沟通和与世界其他国家联系。本周早些时候开始的抗议活动是伊朗近期历史上规模最大的一次，美国国务院对抗议者表示支持，当时国务卿布林肯宣布他的部门将发放一般许可证，让企业提供服务和软件，使伊朗民众的互联网连接和隐私得到改善。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近R星大作《GTA6》惨遭大规模情报泄露的消息震惊业界，而对于这次泄露是否应该加以批判，在网络上有多种不同的观点，从游戏公司到玩家个人都有各种各样的看法出现。与此同时，有报道称R星正在招聘调查分析师，对公司内部的安全措施进行监察，防止类似情况再次出现。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NASA的SpaceX Crew-5任务宇航员与龙飞船首次相会](https://www.cnbeta.com/articles/science/1320443.htm) | Sun Sep 25 2022 8:56 AM 
+- 💂 [电子科大高材生突破固态电池极限：3分钟充满 获投资3000万](https://www.cnbeta.com/articles/tech/1320453.htm) | Sun Sep 25 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;下个月将乘坐美国宇航局SpaceX Crew-5任务进入轨道的宇航员现在对他们即将到来的太空之旅已经非常熟悉。事实上，在美国宇航局佛罗里达州肯尼迪航天中心成功进行了乘员设备接口测试（CEIT）之后，乘员们现在已经准备好飞往国际空间站进行科学考察任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;哈佛大学华人教授搞了个新型固态电池，成果已发表在Nature杂志上——充放电循环高达&lt;strong&gt;1万次&lt;/strong&gt;，最快3分钟充满电。相较而言，目前最好的固态电池循环次数为2000~3000次。主要原因在于，他们设计出一种“三明治”电池结构，哪怕在20mA/cm²这样的超高电流密度下，也不会出现&lt;strong&gt;锂枝晶穿透&lt;/strong&gt;现象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果通知AppleCare+用户：iPhone可享无限次意外损坏维修服务](https://www.cnbeta.com/articles/tech/1320441.htm) | Sun Sep 25 2022 8:53 AM 
+- 🚀 [[历史]LG自研手机芯片曾想超华为赶高通 却被英特尔“拖”垮了](https://www.cnbeta.com/articles/tech/1320451.htm) | Sun Sep 25 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AppleCare+是苹果推出的一项售后服务计划，大多数苹果旗下的产品都可以通过购买该服务的方式，延长设备的售后服务时间，并获得一定次数的保修服务。此前，对于iPhone用户来说，AppleCare+服务可以使其获得每年两次的意外损坏维修，但近日，苹果发送邮件，表示自己修改了AppleCare+的服务规则。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如今的智能手机应用处理器市场，头部厂商联发科、高通、苹果三足鼎立。算上入门机爱用的紫光展锐、日渐式微的三星 Exynos，勉强凑得齐五巨头。若非一些复杂的外部因素，华为海思本该在这里叱咤风云。再往前倒几年，还有不少老牌玩家在做手机处理器，比如英伟达、英特尔、德州仪器等。那是智能手机的繁盛期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [连你家电器的算力都不放过 新发现Linux恶意软件用IoT设备挖矿](https://www.cnbeta.com/articles/tech/1320439.htm) | Sun Sep 25 2022 8:53 AM 
+- 🎊 [微软将在下个月推出Windows 10功能更新](https://www.cnbeta.com/articles/tech/1320449.htm) | Sun Sep 25 2022 10:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继电脑和手机后，挖矿病毒也盯上了IoT设备。无论是智能冰箱、彩电还是洗衣机，但凡有点算力的（物联网和端侧）设备都可能被这种病毒感染，用于挖掘加密货币等。AT&amp;amp;T Alien Labs新发现的Linux恶意软件Shikitega就是一例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然目前所有的目光都集中在Windows 11上，但大多数运行现代版微软操作系统的人实际上都在使用Windows 10，许多人实际上会升级到Windows 11，这并不是一个秘密。但是，微软新操作系统的更新系统要求让他们被困在了Windows 10上，所以他们没有其他选择，只能希望软件巨头继续对旧版本表达一些爱意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
