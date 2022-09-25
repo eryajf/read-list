@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [我们是否真的从詹姆斯·韦伯太空望远镜中学到了什么？](https://www.cnbeta.com/articles/science/1320513.htm) | Sun Sep 25 2022 8:06 PM 
+- 🕯 [苹果在首尔开设第四家韩国苹果门店](https://www.cnbeta.com/articles/tech/1320533.htm) | Sun Sep 25 2022 11:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;詹姆斯-韦伯太空望远镜是人类太空探索中最雄心勃勃的努力之一。自从美国宇航局在7月分享了韦伯的第一张图片以来，我们已经看到了很多其他从该望远镜中传出的图片。&lt;strong&gt;尽管有这么多美丽的图像，有些人不禁要问，我们是否真的经历过任何詹姆斯-韦伯的突破呢？简短的回答是？不，还没有。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果于周六在韩国开设了一家新的苹果官方零售店，据悉，苹果蚕室店是这家科技巨头在韩国开设的第四家门店。作为开业的一部分，苹果发布了一份关于店面的新闻稿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [展望苹果的2023年：15英寸MacBook Air、Mac Pro、HomePod等产品有望更新](https://www.cnbeta.com/articles/tech/1320511.htm) | Sun Sep 25 2022 6:58 PM 
+- 💼 [太平岭核电2号机组完成穹顶吊装](https://www.cnbeta.com/articles/science/1320531.htm) | Sun Sep 25 2022 11:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;距离日历跳到2023年还有几个月的时间，我们都知道苹果在年底之前还有一批重要的产品发布。不妨让我们看得更远一些，&lt;strong&gt;在最新一期的Power On通讯中，彭博社的马克-古尔曼（Mark Gurman）详细介绍了他所期待的苹果在2023年发布的一些硬件消息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;昨天（25日），广东太平岭核电2号机组顺利完成穹顶吊装，标志着该项目从土建施工阶段全面转入设备安装阶段，我国自主三代核电华龙一号机组批量化建设正在有序推进。&lt;/strong&gt;此次吊装的太平岭核电2号机组穹顶重量达225吨，作为核电站安全的重要屏障，是保证反应堆厂房完整性和密封性，实现固有安全的重要组成部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [火星已成“垃圾堆” 人类已在火星留下了7000多千克废弃物](https://www.cnbeta.com/articles/science/1320509.htm) | Sun Sep 25 2022 6:44 PM 
+- 💂 [日本横滨举行同18米巨型高达玩猜拳比赛游戏](https://hot.cnbeta.com/articles/game/1320529.htm) | Sun Sep 25 2022 11:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国科学家研究，在过去50年中，人类在火星上留下了超过7000千克的废弃硬件和死亡航天器，火星已成垃圾堆。科学家们担心这些垃圾可能会污染美国宇航局“毅力号”探测器正在收集的样本，该探测器目前正在寻找火星上的古代生命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月23日24日两天，举行了一次特别的猜拳比赛。这次比赛的特殊之处，就在于猜拳的对手是身高超过18米的高达！熟悉高达的玩家们可能知道，在日本横滨有一处景点，这里耸立着身高超过18米的巨型高达。9月23日和24日两天，活动方在这里举行了高达猜拳比赛。通过与高达猜拳，获胜者将可以近距离与高达合影。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [传《GTA6》成本超20亿美元 2014年开始开发](https://hot.cnbeta.com/articles/game/1320507.htm) | Sun Sep 25 2022 6:43 PM 
+- 🚀 [粉丝玩家耗时多年打造《超级马里奥兄弟5》完工](https://hot.cnbeta.com/articles/game/1320527.htm) | Sun Sep 25 2022 11:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据国外舅舅党爆料，《GTA6》从2014年就已经着手开发，并且预算为20亿美元，这使得该作与众不同。相比而言，《GTA5》的开发成本仅2.65亿美元。据报道，《GTA5》已经为R星带来了超30亿美元的营收。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自从任天堂在WiiU平台推出了让玩家自己制作地图的《超级马里奥制造》后，这家公司似乎不再推出全新的2D马里奥游戏了，不过好在还有粉丝的努力。近日，有一名玩家发布了他耗费多年心血的马里奥地图，供所有Switch《超级马里奥制造2》的玩家游玩。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Apple Pay Later可能会推迟到2023年春季的iOS 16.4版本上出现](https://www.cnbeta.com/articles/tech/1320505.htm) | Sun Sep 25 2022 3:38 PM 
+- 🎊 [索尼重申：第一方付费游戏首发不登陆PS Plus](https://hot.cnbeta.com/articles/game/1320525.htm) | Sun Sep 25 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，由于技术工程方面的挑战，苹果公司的一项新的消费信贷服务Apple Pay Later - 让符合条件的美国客户在六周内将购买的商品分成四笔相等的款项来支付，该服务将被推迟到2023年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;PlayStation高层吉田修平重申了索尼将首先以付费游戏的形式发布游戏的承诺。和微软不同，索尼付费第一方游戏不会首发登陆PS Plus，而是在几个月之后加入。值得一提的是，最早出现的游戏订阅服务EA Access便是采用了这种策略。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
