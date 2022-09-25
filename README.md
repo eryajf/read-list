@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面试突击86：SpringBoot 事务不回滚？怎么解决？](https://juejin.cn/post/7147301223887011848) | Sun Sep 25 2022 12:59 PM 
+- 🤗 [软考高级《系统架构设计师》倒计时40天 复习计划](https://juejin.cn/post/7147312906680401927) | Sun Sep 25 2022 1:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    软考高级《系统架构设计师》倒计时40天 其实前段时间也做了一些计划，然后自己也陆陆续续学了很多内容。 由于本职工作是前端开发，最近加班也多的，所以感觉复习还需要抓紧。 虽然《系统架构设计师》是软考最难 
+    </details> 
+
+- 🎡 [Elasticsearch 不完全入门指北系列（七）：排序](https://juejin.cn/post/7147309231350218766) | Sun Sep 25 2022 1:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇我们来说一下 Elasticsearch 是如何对搜索结果进行排序对。在搜索功能中，除了基本的搜索，排序是使用最多也是最重要的功能了，我们希望越符合搜索结果的越排在前面…… 
+    </details> 
+
+- 🕯 [周边检索POI技术方案设计](https://juejin.cn/post/7147308676745789453) | Sun Sep 25 2022 1:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    查找周边已经成为了我们生活中最常用的功能之一，做核酸、定外卖、找单车等等已经成为了这个时代的标识。本文就来探索一下周边检索POI的技术方案设计，希望能对有需要的开发者提供帮助。 
+    </details> 
+
+- 🚀 [面试突击86：SpringBoot 事务不回滚？怎么解决？](https://juejin.cn/post/7147301223887011848) | Sun Sep 25 2022 12:59 PM 
     <details><summary>展开描述 ...</summary> 
     在 Spring Boot 中，造成事务不自动回滚的场景有很多，比如以下这些： 1. 非 public 修饰的方法中的事务不自动回滚； 2. 当 @Transactional 遇上 try/catch 
     </details> 
 
-- 🎡 [Template Engine 源码阅读](https://juejin.cn/post/7147295790602387486) | Sun Sep 25 2022 12:38 PM 
+- 💪 [Template Engine 源码阅读](https://juejin.cn/post/7147295790602387486) | Sun Sep 25 2022 12:38 PM 
     <details><summary>展开描述 ...</summary> 
     Template Engine 一个250行代码实现的python模版引擎，阅读其源码可以了解模版引擎的实现原理。 
-    </details> 
-
-- 🕯 [依赖反转原则到底反转了什么](https://juejin.cn/post/7147285415966277669) | Sun Sep 25 2022 12:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    问题 SOLID是常用的用来设计类以及类和类之间关系的设计原则，它的主要作用就是告诉我们如何将数据和函数组织为类，以及如何将这些类链接为程序，从而使得软件容易扩展、容易理解以及容易复用。其中D代表的就 
-    </details> 
-
-- 🚀 [PWA：炒来炒去到底行不行？](https://juejin.cn/post/7147267313920638983) | Sun Sep 25 2022 10:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    PWA究竟解决了Web应用的哪些问题？ 先了解下浏览器的三大进化路线： 第一个是应用程序 Web 化； 第二个是 
-    </details> 
-
-- 💪 [Android进阶宝典 -- JetPack Navigation的高级用法（解决路由跳转新建Fragment页面问题）](https://juejin.cn/post/7147265281973288973) | Sun Sep 25 2022 10:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    了解Navigation基础使用，从源码出发解读Navigation原理，了解Navigator和Destination的关系，并解决框架层因跳转导致视图重建的问题 
     </details> 
 <!-- juejin:END -->
 ### 少数派
