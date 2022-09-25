@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Pay Later可能会推迟到2023年春季的iOS 16.4版本上出现](https://www.cnbeta.com/articles/tech/1320505.htm) | Sun Sep 25 2022 3:38 PM 
+- 🕯 [展望苹果的2023年：15英寸MacBook Air、Mac Pro、HomePod等产品有望更新](https://www.cnbeta.com/articles/tech/1320511.htm) | Sun Sep 25 2022 6:58 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;距离日历跳到2023年还有几个月的时间，我们都知道苹果在年底之前还有一批重要的产品发布。不妨让我们看得更远一些，&lt;strong&gt;在最新一期的Power On通讯中，彭博社的马克-古尔曼（Mark Gurman）详细介绍了他所期待的苹果在2023年发布的一些硬件消息。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [火星已成“垃圾堆” 人类已在火星留下了7000多千克废弃物](https://www.cnbeta.com/articles/science/1320509.htm) | Sun Sep 25 2022 6:44 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据美国科学家研究，在过去50年中，人类在火星上留下了超过7000千克的废弃硬件和死亡航天器，火星已成垃圾堆。科学家们担心这些垃圾可能会污染美国宇航局“毅力号”探测器正在收集的样本，该探测器目前正在寻找火星上的古代生命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [传《GTA6》成本超20亿美元 2014年开始开发](https://hot.cnbeta.com/articles/game/1320507.htm) | Sun Sep 25 2022 6:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据国外舅舅党爆料，《GTA6》从2014年就已经着手开发，并且预算为20亿美元，这使得该作与众不同。相比而言，《GTA5》的开发成本仅2.65亿美元。据报道，《GTA5》已经为R星带来了超30亿美元的营收。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Apple Pay Later可能会推迟到2023年春季的iOS 16.4版本上出现](https://www.cnbeta.com/articles/tech/1320505.htm) | Sun Sep 25 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，由于技术工程方面的挑战，苹果公司的一项新的消费信贷服务Apple Pay Later - 让符合条件的美国客户在六周内将购买的商品分成四笔相等的款项来支付，该服务将被推迟到2023年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [意大利和英特尔选择威尼托作为下一个芯片工厂的所在地](https://www.cnbeta.com/articles/tech/1320503.htm) | Sun Sep 25 2022 3:37 PM 
+- 🎊 [意大利和英特尔选择威尼托作为下一个芯片工厂的所在地](https://www.cnbeta.com/articles/tech/1320503.htm) | Sun Sep 25 2022 3:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;据两位接受路透社采访的消息人士透露，意大利政府和英特尔已经选择威尼托州的维加西奥作为计划中的芯片工厂的所在地。&lt;/strong&gt;这两个实体有兴趣在今天的大选前确定工厂的建设地点，由于极右翼党派意大利兄弟党在大选中的投票率位居第一。据报道，现任领导人马里奥-德拉吉的助手将与新政府进行谈判，以保持工作连贯性，避免工厂建设计划受到干扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [上海黄浦江畔的鳄鱼抓到了 可能又是放生的](https://www.cnbeta.com/articles/tech/1320501.htm) | Sun Sep 25 2022 3:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月16日，上海徐汇黄浦江岸边出现一条长约80厘米的鳄鱼，初步判断这是暹罗鳄，相关部门抓捕多次都被其侥幸逃脱。据媒体最新报道，9月25日，这条鳄鱼终于被抓住了！&lt;strong&gt;目前，这条暹罗鳄已被送至上海浦东新区川沙镇水生野生动物收容救助基地，交由专业人员进行看管饲养。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [网飞《星期三》首曝中文片段：亚当斯vs怪手](https://hot.cnbeta.com/articles/movie/1320499.htm) | Sun Sep 25 2022 3:27 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由蒂姆·波顿执导的《亚当斯一家》衍生剧《星期三》即将上线，Netflix发布了首个片段“亚当斯vs怪手”，这个结合推理、超自然及悬疑元素的故事聚焦星期三在永封学院的校园生活。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [新款的iPad和Mac可能会通过新闻稿发布 苹果不会为此举办发布会](https://www.cnbeta.com/articles/tech/1320497.htm) | Sun Sep 25 2022 3:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据彭博社记者Mark Gurman报道，&lt;strong&gt;苹果公司可能决定通过在其网站上发布新闻稿而不是线上活动的形式来发布其2022年的剩余产品，其中包括更新的iPad Pro、Mac mini以及14英寸和16英寸MacBook Pro。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
