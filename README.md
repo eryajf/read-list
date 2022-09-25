@@ -590,29 +590,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2022 年 9 月每日分享](https://iui.su/3838/) | Sat Sep 24 2022 3:07 PM 
+- 🌊 [网页在线工具汇总](https://iui.su/1492/) | Sun Sep 25 2022 7:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    常用在线工具文件传输在线听歌crx扩展今日热榜音乐下载打字练习看杂志看报纸匿名分享文本转音频PDF压缩高清壁纸链接提取图片转文字在线抠图加密解密快速搜索视频创作在线笔记缩短网址短视频解析写简历图... 
+    </details> 
+
+- 🫣 [优雅的打字练习](https://iui.su/2943/) | Sun Sep 25 2022 7:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    https://www.eletypes.com非常适合用于练习打字，也可当作消磨时间的解压工具，默认词组是英文，词组来自TOEFL、CET6、CET4。可以练习英文词组的熟悉度。点击chn，也... 
+    </details> 
+
+- 🌜 [2022 年 9 月每日分享](https://iui.su/3838/) | Sun Sep 25 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月25日支付宝搜：消费券... 
     </details> 
 
-- 🫣 [慢图浏览 - 安卓图库](https://iui.su/3650/) | Fri Sep 23 2022 4:03 AM 
+- 🏊 [慢图浏览 - 安卓图库](https://iui.su/3650/) | Fri Sep 23 2022 4:03 AM 
     <details><summary>展开描述 ...</summary> 
     轻如鹅毛，快如闪电。自创无感知0.15s极速启动，无网络权限，为你的隐私保驾护航。打造下一代图库，致敬当年的快图浏览。 @ 长腿毛的周公子 快图有第三方作者在维护 快图浏览mod下载v2ex网友... 
     </details> 
 
-- 🌜 [支付宝红包](https://iui.su/3608/) | Thu Sep 22 2022 6:29 PM 
+- 🚦 [支付宝红包](https://iui.su/3608/) | Thu Sep 22 2022 6:29 PM 
     <details><summary>展开描述 ...</summary> 
     实体店红包可将二维码保存手机，从相册支付宝扫码领取随机实体店红包。9月23日-10月8日扫码有大额红包。可直接在支付宝搜索框中搜索：704860869 水燃气缴费红包公交出行红包需要出行公交地铁... 
-    </details> 
-
-- 🏊 [免费1年域名](https://iui.su/3794/) | Tue Sep 20 2022 5:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    Porkbun.ink 或 .wiki 域名 免费一年域名。https://porkbun.com/event/freeinkwikidomain优惠码：FREEINKWIKI在付款时，点击AP... 
-    </details> 
-
-- 🚦 [磁力搜索网站](https://iui.su/908/) | Tue Sep 20 2022 2:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    不死鸟&lpar;iui.su&rpar;不提供磁力资源搜索服务，本页仅做导航索引用途！搜饭吃粥今麦郎麦当劳必胜客肯德基赛百味海底捞汉堡王真功夫星巴克德克士最多关注赚零花钱免费影视免费离线离线神器资源搜索引擎快速投... 
     </details> 
 <!-- iui:END -->
 
