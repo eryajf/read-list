@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [flask 用 sqlalchemy 时，为什么一定要用 flask-sqlalchemy？](https://www.v2ex.com/t/882842#reply2) | Sun Sep 25 2022 12:17 PM
-- 🤗 [HTTP 2.0 对内网服务之间的通信是不是没啥帮助？](https://www.v2ex.com/t/882839#reply6) | Sun Sep 25 2022 11:45 AM
-- 🎭 [类继承及调用问题](https://www.v2ex.com/t/882834#reply5) | Sun Sep 25 2022 10:48 AM
-- 🥷 [我记得 Microsoft 两步验证能同步的啊，怎么重制 iPhone 之后就没数据了？](https://www.v2ex.com/t/882833#reply2) | Sun Sep 25 2022 10:40 AM
-- 🐵 [求解，为何 es 脚本在超过 10 个文档后报出越界异常](https://www.v2ex.com/t/882831#reply0) | Sun Sep 25 2022 10:29 AM<!-- v2ex:END -->
+- 🥸 [XFS 是要在 root 分区下缓存什么东西吗，为什么我的 NAS 系统盘动不动就满？](https://www.v2ex.com/t/882855#reply0) | Sun Sep 25 2022 1:16 PM
+- 🤗 [甲骨文 arm 机子 dd 之后的配置](https://www.v2ex.com/t/882851#reply3) | Sun Sep 25 2022 12:53 PM
+- 🎭 [JavaScript 函数无法读取到函数外的变量是什么原因？](https://www.v2ex.com/t/882847#reply2) | Sun Sep 25 2022 12:43 PM
+- 🥷 [flask 用 sqlalchemy 时，为什么一定要用 flask-sqlalchemy？](https://www.v2ex.com/t/882842#reply7) | Sun Sep 25 2022 12:17 PM
+- 🐵 [HTTP 2.0 对内网服务之间的通信是不是没啥帮助？](https://www.v2ex.com/t/882839#reply13) | Sun Sep 25 2022 11:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
