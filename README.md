@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [救命啊大佬们，帮帮忙各位， bitlocker 加密了硬盘，但是在重装系统的时候不小心删除了卷](https://www.v2ex.com/t/882765#reply0) | Sun Sep 25 2022 4:21 AM
-- 🤗 [求 Nginx 大佬指点一下，关于反代 http 自动跳转 https 的](https://www.v2ex.com/t/882759#reply1) | Sun Sep 25 2022 3:50 AM
-- 🎭 [求一个自建打洞方案](https://www.v2ex.com/t/882721#reply34) | Sun Sep 25 2022 12:57 AM
-- 🥷 [微信聊天记录损坏，无法查看](https://www.v2ex.com/t/882720#reply5) | Sun Sep 25 2022 12:23 AM
-- 🐵 [为啥这个网站使用宝塔只能反代首页?点其他的就回复到原站](https://www.v2ex.com/t/882719#reply4) | Sun Sep 25 2022 12:12 AM<!-- v2ex:END -->
+- 🥸 [MySQL 单表上亿条数据有必要考虑分表吗？目前已经 8400 万条了，感觉查询耗时也没有明显提升，就是 CPU 不查询占用也在 20%以上，不知道在干什么。如果有必要的话求推荐下 EF Core 上安全、好用的分表方法。](https://www.v2ex.com/t/882773#reply3) | Sun Sep 25 2022 4:53 AM
+- 🤗 [救命啊大佬们，帮帮忙各位， bitlocker 加密了硬盘，但是在重装系统的时候不小心删除了卷](https://www.v2ex.com/t/882765#reply9) | Sun Sep 25 2022 4:21 AM
+- 🎭 [求 Nginx 大佬指点一下，关于反代 http 自动跳转 https 的](https://www.v2ex.com/t/882759#reply2) | Sun Sep 25 2022 3:50 AM
+- 🥷 [求一个自建打洞方案](https://www.v2ex.com/t/882721#reply41) | Sun Sep 25 2022 12:57 AM
+- 🐵 [微信聊天记录损坏，无法查看](https://www.v2ex.com/t/882720#reply5) | Sun Sep 25 2022 12:23 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
