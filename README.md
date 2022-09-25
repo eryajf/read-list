@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [波音737货机着陆时冲进附近湖中 法国一机场关闭](https://www.cnbeta.com/articles/tech/1320423.htm) | Sun Sep 25 2022 7:30 AM 
+- 🕯 [现款11英寸iPad Pro销售时间比以往的任何型号都长](https://www.cnbeta.com/articles/tech/1320447.htm) | Sun Sep 25 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;法国蒙彼利埃机场24日临时关闭，原因是一架波音货机在着陆时冲进附近湖中。西大西洋货运航空公司一架波音737货机当天凌晨降落蒙彼利埃机场时滑出跑道，机头扎进附近湖中，所幸没有人员伤亡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2021年的11英寸iPad Pro今天已成为有史以来在售的同类机型中使用时间最长的，因为有迹象表明，苹果公司正计划最快在下个月用新机型取代该设备。2021年4月，苹果公司推出了新的12.9英寸和11英寸的iPad Pro型号，它采用M1芯片，Lightning端口，支持5G连接，中心舞台摄像头增强功能，以及较大的miniLED显示屏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“不上门必赔付”的顺丰，却因保价不赔翻了车？](https://www.cnbeta.com/articles/tech/1320421.htm) | Sun Sep 25 2022 7:28 AM 
+- 💼 [专家认为Starlink对伊朗抗议者的好处“几乎是0”](https://www.cnbeta.com/articles/tech/1320445.htm) | Sun Sep 25 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;才对外放话“不上门必赔付”的顺丰，可能没想到自己此后会连番“翻车”。先是9月初的“顺丰寄丢11000元手机仅赔1000元”话题引发广泛热议，随后在13日的“顺丰寄丢20克黄金保价八千只赔两千”事件又冲上热搜，等到了19日，“顺丰保价1.8万的单子只赔500”则彻底将快递巨头的面子踩在了脚下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;SpaceX公司的Starlink卫星互联网服务不太可能帮助伊朗伊斯兰共和国的抗议者在最近因一名年轻女子被道德警察拘留后死亡而引发的抗议活动中相互沟通和与世界其他国家联系。本周早些时候开始的抗议活动是伊朗近期历史上规模最大的一次，美国国务院对抗议者表示支持，当时国务卿布林肯宣布他的部门将发放一般许可证，让企业提供服务和软件，使伊朗民众的互联网连接和隐私得到改善。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉变相降价8000？ 销售：季末冲量 提车最快一周](https://www.cnbeta.com/articles/tech/1320419.htm) | Sun Sep 25 2022 7:27 AM 
+- 💂 [NASA的SpaceX Crew-5任务宇航员与龙飞船首次相会](https://www.cnbeta.com/articles/science/1320443.htm) | Sun Sep 25 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自特斯拉国产化以来，其车型价格经历多次涨跌波动，但直接从指导价里进行调整的情况还是比较少见。近期，一份关于特斯拉车型能够享受保险补贴的邮件在网络流传。邮件显示，在9月16日-9月30日期间完成提车的车主，如选择在特斯拉店内购买保险，可享受8000元保险补贴，补贴可直接用于减免车价。这一行为也被市场解读为特斯拉“变相降价8000元”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;下个月将乘坐美国宇航局SpaceX Crew-5任务进入轨道的宇航员现在对他们即将到来的太空之旅已经非常熟悉。事实上，在美国宇航局佛罗里达州肯尼迪航天中心成功进行了乘员设备接口测试（CEIT）之后，乘员们现在已经准备好飞往国际空间站进行科学考察任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [RTX 40显卡性能暴增被指全靠AI衬托 黄仁勋：DLSS生成像素比真的还好](https://www.cnbeta.com/articles/tech/1320417.htm) | Sun Sep 25 2022 7:24 AM 
+- 🚀 [苹果通知AppleCare+用户：iPhone可享无限次意外损坏维修服务](https://www.cnbeta.com/articles/tech/1320441.htm) | Sun Sep 25 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在这一代RTX 40系显卡上，DLSS 3.0的重要性被反复提及。包括NVIDIA口中所谓RTX 4090 2~4倍的性能提升，其实都是在开启DLSS 3.0和高级别光追的游戏中才得以实现。因为DLSS依赖深度学习技术，不是100%原生画面和分辨率，一定程度上利用了“视觉欺骗”，可好处就是减少了GPU开销，大幅提高了帧率和响应速度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AppleCare+是苹果推出的一项售后服务计划，大多数苹果旗下的产品都可以通过购买该服务的方式，延长设备的售后服务时间，并获得一定次数的保修服务。此前，对于iPhone用户来说，AppleCare+服务可以使其获得每年两次的意外损坏维修，但近日，苹果发送邮件，表示自己修改了AppleCare+的服务规则。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国内首个“元宇宙”专业引热议：南京双一流高校推出 3年前刚成立AI学院](https://www.cnbeta.com/articles/tech/1320415.htm) | Sun Sep 25 2022 7:23 AM 
+- 🎊 [连你家电器的算力都不放过 新发现Linux恶意软件用IoT设备挖矿](https://www.cnbeta.com/articles/tech/1320439.htm) | Sun Sep 25 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一所“双一流”高校，将有着25年历史的“信息工程系”，改名成了“元宇宙工程系”？！自元宇宙大火到现在，这还是“第一个吃螃蟹的高校”。这个大新闻来自南京信息工程大学，前身是南京大学气象学院，并在2004年将校名南京气象学院改成如今的名字。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;继电脑和手机后，挖矿病毒也盯上了IoT设备。无论是智能冰箱、彩电还是洗衣机，但凡有点算力的（物联网和端侧）设备都可能被这种病毒感染，用于挖掘加密货币等。AT&amp;amp;T Alien Labs新发现的Linux恶意软件Shikitega就是一例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
