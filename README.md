@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《使命召唤19：现代战争2》公测火爆 在线玩家数飙升](https://hot.cnbeta.com/articles/game/1320457.htm) | Sun Sep 25 2022 10:04 AM 
+- 🕯 [锐龙7 6800U加持 国产掌机AYANEO 2开启预定](https://www.cnbeta.com/articles/tech/1320467.htm) | Sun Sep 25 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《使命召唤19：现代战争2》beta公测现已开始，而玩家数一路走高。如今本作公测的在线玩家数量峰值已经突破16万人，可以说是相当热闹了。按照本作在公测阶段吸引到的玩家数量来看，开发商应该能得到足够的反馈用来修复游戏中存在的bug。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，国产掌机厂商AYANEO召开发布会，&lt;strong&gt;推出了旗下最新的Windows掌机：AYANEO 2。&lt;/strong&gt;根据介绍，&lt;strong&gt;AYANEO 2将搭载AMD的锐龙7 6800U处理器，这颗俨然成为掌机“新宠”的处理器内置AMD Radeon 680M显卡，RDNA 2架构，12显示核心，2200MHz显示频率，相较于前代显示性能提升约2倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [R星招聘安全调查分析师 防止《GTA6》泄密再次发生](https://hot.cnbeta.com/articles/game/1320455.htm) | Sun Sep 25 2022 10:04 AM 
+- 💼 [A饭精心制作RX 7000显卡渲染美图：好帅的大号板砖](https://www.cnbeta.com/articles/tech/1320465.htm) | Sun Sep 25 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近R星大作《GTA6》惨遭大规模情报泄露的消息震惊业界，而对于这次泄露是否应该加以批判，在网络上有多种不同的观点，从游戏公司到玩家个人都有各种各样的看法出现。与此同时，有报道称R星正在招聘调查分析师，对公司内部的安全措施进行监察，防止类似情况再次出现。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA RTX 40系列已经发布了，AMD RX 7000系列还会远吗？官方已经定档11月3日，但曝料仍然很少。3D艺术家Technetium基于官方披露的局部，制作了几张RX 7900 XT&lpar;暂定名&rpar;的多角度精美渲染图，看起来相当之酷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [电子科大高材生突破固态电池极限：3分钟充满 获投资3000万](https://www.cnbeta.com/articles/tech/1320453.htm) | Sun Sep 25 2022 10:04 AM 
+- 💂 [全球最拥堵大城市将建600公里自行车道 一半人骑自行车](https://www.cnbeta.com/articles/tech/1320463.htm) | Sun Sep 25 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;哈佛大学华人教授搞了个新型固态电池，成果已发表在Nature杂志上——充放电循环高达&lt;strong&gt;1万次&lt;/strong&gt;，最快3分钟充满电。相较而言，目前最好的固态电池循环次数为2000~3000次。主要原因在于，他们设计出一种“三明治”电池结构，哪怕在20mA/cm²这样的超高电流密度下，也不会出现&lt;strong&gt;锂枝晶穿透&lt;/strong&gt;现象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;哥伦比亚首都波哥大是全球最为拥堵的大城市之一，经济和人口增长以及持续的城市化是造成拥堵增长的原因。据了解，&lt;strong&gt;波哥大没有地铁，所以很多人出行只能依赖地面公交系统，或是私家车出行。&lt;/strong&gt;恶劣的出行环境迫使许多当地居民选择骑自行车出行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[历史]LG自研手机芯片曾想超华为赶高通 却被英特尔“拖”垮了](https://www.cnbeta.com/articles/tech/1320451.htm) | Sun Sep 25 2022 10:03 AM 
+- 🚀 [iOS 16.1测试版可让用户禁用AirPods Pro 2触摸音量控制](https://www.cnbeta.com/articles/tech/1320461.htm) | Sun Sep 25 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如今的智能手机应用处理器市场，头部厂商联发科、高通、苹果三足鼎立。算上入门机爱用的紫光展锐、日渐式微的三星 Exynos，勉强凑得齐五巨头。若非一些复杂的外部因素，华为海思本该在这里叱咤风云。再往前倒几年，还有不少老牌玩家在做手机处理器，比如英伟达、英特尔、德州仪器等。那是智能手机的繁盛期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在iOS 16.1测试版中，苹果为第二代AirPods Pro的用户提供了禁用音量触摸控制的能力。新的AirPods Pro的一个新增功能是用户可以通过在AirPods Pro耳机柄触摸传感器上向上或向下滑动来增加或减少音量。虽然有些用户可能会觉得这个功能很方便，但也有一些人嫌没用还有误触的困扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微软将在下个月推出Windows 10功能更新](https://www.cnbeta.com/articles/tech/1320449.htm) | Sun Sep 25 2022 10:01 AM 
+- 🎊 [盖茨基金会：计划再运营25年 确保花光所有钱](https://www.cnbeta.com/articles/tech/1320459.htm) | Sun Sep 25 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然目前所有的目光都集中在Windows 11上，但大多数运行现代版微软操作系统的人实际上都在使用Windows 10，许多人实际上会升级到Windows 11，这并不是一个秘密。但是，微软新操作系统的更新系统要求让他们被困在了Windows 10上，所以他们没有其他选择，只能希望软件巨头继续对旧版本表达一些爱意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月25日消息，在2022年福布斯400慈善峰会上，微软联合创始人比尔·盖茨（Bill Gates）宣布其私人基金会可能会再运行25年，并在此期间花光所有钱。盖茨在与《福布斯》杂志首席内容官兰德尔·莱恩（Randall Lane）的主旨对话中表示：“我对盖茨基金会的目标是再运行25年。在此期间，我们将尝试根除传染病以及所有让世界变得不公平的疾病，至少要将它们的发病率降至非常低的水平。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
