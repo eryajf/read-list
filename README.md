@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [依赖反转原则到底反转了什么](https://juejin.cn/post/7147285415966277669) | Sun Sep 25 2022 12:01 PM 
+- 🤗 [面试突击86：SpringBoot 事务不回滚？怎么解决？](https://juejin.cn/post/7147301223887011848) | Sun Sep 25 2022 12:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    在 Spring Boot 中，造成事务不自动回滚的场景有很多，比如以下这些： 1. 非 public 修饰的方法中的事务不自动回滚； 2. 当 @Transactional 遇上 try/catch 
+    </details> 
+
+- 🎡 [Template Engine 源码阅读](https://juejin.cn/post/7147295790602387486) | Sun Sep 25 2022 12:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    Template Engine 一个250行代码实现的python模版引擎，阅读其源码可以了解模版引擎的实现原理。 
+    </details> 
+
+- 🕯 [依赖反转原则到底反转了什么](https://juejin.cn/post/7147285415966277669) | Sun Sep 25 2022 12:01 PM 
     <details><summary>展开描述 ...</summary> 
     问题 SOLID是常用的用来设计类以及类和类之间关系的设计原则，它的主要作用就是告诉我们如何将数据和函数组织为类，以及如何将这些类链接为程序，从而使得软件容易扩展、容易理解以及容易复用。其中D代表的就 
     </details> 
 
-- 🎡 [PWA：炒来炒去到底行不行？](https://juejin.cn/post/7147267313920638983) | Sun Sep 25 2022 10:47 AM 
+- 🚀 [PWA：炒来炒去到底行不行？](https://juejin.cn/post/7147267313920638983) | Sun Sep 25 2022 10:47 AM 
     <details><summary>展开描述 ...</summary> 
     PWA究竟解决了Web应用的哪些问题？ 先了解下浏览器的三大进化路线： 第一个是应用程序 Web 化； 第二个是 
     </details> 
 
-- 🕯 [Android进阶宝典 -- JetPack Navigation的高级用法（解决路由跳转新建Fragment页面问题）](https://juejin.cn/post/7147265281973288973) | Sun Sep 25 2022 10:41 AM 
+- 💪 [Android进阶宝典 -- JetPack Navigation的高级用法（解决路由跳转新建Fragment页面问题）](https://juejin.cn/post/7147265281973288973) | Sun Sep 25 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
     了解Navigation基础使用，从源码出发解读Navigation原理，了解Navigator和Destination的关系，并解决框架层因跳转导致视图重建的问题 
-    </details> 
-
-- 🚀 [懒人系列--文件上传之OSS使用案例](https://juejin.cn/post/7147259397545132040) | Sun Sep 25 2022 10:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    . 前言 又到了愉快的水文时间了，那么今天的带来的是如何使用第三放服务去愉快完成文件的上传服务。问题来了，为啥我们需要去使用第三方的文件存储服务咧，貌似是没有这个需求哇。其实呢这个咋说呢，确实是需要结 
-    </details> 
-
-- 💪 [从零开始搭建前端脚手架（二）-- [解决目录重名问题]](https://juejin.cn/post/7147257215894683655) | Sun Sep 25 2022 10:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动， 一起开启掘金创作之路。 一、前言 本篇文章延续上篇从零开始搭建前端脚手架的事情，新增脚手架创建模板时文件夹重名的处理方法。 二、处理文件夹重名问题 问题出现 这里是我在 
     </details> 
 <!-- juejin:END -->
 ### 少数派
