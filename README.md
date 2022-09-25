@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [首款国产纯电敞篷车 五菱宏光MINI EV敞篷版正式上市](https://www.cnbeta.com/articles/tech/1320493.htm) | Sun Sep 25 2022 2:48 PM 
+- 🕯 [Apple Pay Later可能会推迟到2023年春季的iOS 16.4版本上出现](https://www.cnbeta.com/articles/tech/1320505.htm) | Sun Sep 25 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月25日晚，备受关注的五菱宏光MINI EV敞篷版正式上市，定价99900元。&lt;/strong&gt;五菱宏光MINIEV敞篷版号称&lt;strong&gt;“中国首款纯电敞篷车”，采用半自动开关篷结构，提供敞篷和封顶两种行驶方式。&lt;/strong&gt;五菱宏光MINIEV敞篷版提供海天蓝、祖母绿、摩登黑三种配色，顶篷布则提供红/黑双色可选。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，由于技术工程方面的挑战，苹果公司的一项新的消费信贷服务Apple Pay Later - 让符合条件的美国客户在六周内将购买的商品分成四笔相等的款项来支付，该服务将被推迟到2023年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究认为植物性肉类是&quot;更健康和更可持续的&quot;](https://www.cnbeta.com/articles/science/1320491.htm) | Sun Sep 25 2022 1:19 PM 
+- 💼 [意大利和英特尔选择威尼托作为下一个芯片工厂的所在地](https://www.cnbeta.com/articles/tech/1320503.htm) | Sun Sep 25 2022 3:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据一项新研究的作者，以植物为基础的动物产品的饮食替代品对环境和人类来说都比它们所要替代的动物产品更健康。根据最近发表在《未来食品》上的一篇论文，这些食品是减少对肉类和奶制品需求的一种更有效的方式，而不是简单地建议个人做素食全餐，因为它们是&amp;quot;专门用来复制动物产品的味道、质地和整体饮食体验的&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据两位接受路透社采访的消息人士透露，意大利政府和英特尔已经选择威尼托州的维加西奥作为计划中的芯片工厂的所在地。&lt;/strong&gt;这两个实体有兴趣在今天的大选前确定工厂的建设地点，由于极右翼党派意大利兄弟党在大选中的投票率位居第一。据报道，现任领导人马里奥-德拉吉的助手将与新政府进行谈判，以保持工作连贯性，避免工厂建设计划受到干扰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [我国首艘大型邮轮建造进度超70%：19层甲板 长度堪比航母](https://www.cnbeta.com/articles/tech/1320489.htm) | Sun Sep 25 2022 1:15 PM 
+- 💂 [上海黄浦江畔的鳄鱼抓到了 可能又是放生的](https://www.cnbeta.com/articles/tech/1320501.htm) | Sun Sep 25 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大型邮轮被誉为“造船业皇冠上的明珠”，也是中国目前唯一尚未完成的高技术船舶产品。现在，中国终于要将其拿下了。据央视财经报道，我国第一艘大型邮轮建造项目于2019年10月18日在上海开工建造，&lt;strong&gt;目前总体进度已经超过70%。已经实现全船贯通，进入内部装修环节，预计明年下半年正式交付使用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月16日，上海徐汇黄浦江岸边出现一条长约80厘米的鳄鱼，初步判断这是暹罗鳄，相关部门抓捕多次都被其侥幸逃脱。据媒体最新报道，9月25日，这条鳄鱼终于被抓住了！&lt;strong&gt;目前，这条暹罗鳄已被送至上海浦东新区川沙镇水生野生动物收容救助基地，交由专业人员进行看管饲养。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [江西干旱已超70天：鄱阳湖竟然刮起沙尘暴、湖面缩小8成](https://www.cnbeta.com/articles/tech/1320487.htm) | Sun Sep 25 2022 1:14 PM 
+- 🚀 [网飞《星期三》首曝中文片段：亚当斯vs怪手](https://hot.cnbeta.com/articles/movie/1320499.htm) | Sun Sep 25 2022 3:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据江西气象局，近期，江西省局部出现重度气象干旱，截至9月25日，干旱已持续长达75天，95％的区域达到特旱级别。近日，&lt;strong&gt;有网友在九江鄱阳湖鞋山岛附近，拍摄到鄱阳湖因持续干旱，湖床裸露，竟然刮起“沙尘暴”，看起来一片“烟雾缭绕”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由蒂姆·波顿执导的《亚当斯一家》衍生剧《星期三》即将上线，Netflix发布了首个片段“亚当斯vs怪手”，这个结合推理、超自然及悬疑元素的故事聚焦星期三在永封学院的校园生活。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中科院软件所量子计算编程软件isQ正式开源](https://www.cnbeta.com/articles/tech/1320485.htm) | Sun Sep 25 2022 1:14 PM 
+- 🎊 [新款的iPad和Mac可能会通过新闻稿发布 苹果不会为此举办发布会](https://www.cnbeta.com/articles/tech/1320497.htm) | Sun Sep 25 2022 3:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，&lt;strong&gt;中国科学院软件研究所发布公告称，该所量子计算编程软件isQ正式开源。&lt;/strong&gt;中科院软件所量子软件团队主要负责人介绍，&lt;strong&gt;isQ是一款支持经典量子混合编程的量子编程软件，能够灵活地描述各类复杂的量子算法。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据彭博社记者Mark Gurman报道，&lt;strong&gt;苹果公司可能决定通过在其网站上发布新闻稿而不是线上活动的形式来发布其2022年的剩余产品，其中包括更新的iPad Pro、Mac mini以及14英寸和16英寸MacBook Pro。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
