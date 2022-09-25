@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Node 文件查找的优先级以及 Require 方法的文件查找策略](https://juejin.cn/post/7146953567398526983) | Sat Sep 24 2022 2:30 PM 
+- 🤗 [iOS小技能：使用正则表达式对聊天记录的关键词进行监控](https://juejin.cn/post/7147126997422964743) | Sun Sep 25 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-    一、模块规范 NodeJS对CommonJS进行了支持和实现，让我们在开发node的过程中可以方便的进行模块化开发： 在Node中每一个js文件都是一个单独的模块 模块中包括CommonJS规范的核心 
+    “我正在参加「掘金·启航计划」” 前言 正则表达式的在聊天记录中的应用 I 对聊天记录的关键词进行监控 需求： 如果消息命中特定的正则表达式，就执行对应的动作 1.1 例子：特定消息进行群内踢人 目标 
     </details> 
 
-- 🎡 [JDK19新特性使用详解](https://juejin.cn/post/7146948066409447454) | Sat Sep 24 2022 2:08 PM 
+- 🎡 [Java服务异常排查定位大图](https://juejin.cn/post/7147115537447780360) | Sun Sep 25 2022 1:00 AM 
     <details><summary>展开描述 ...</summary> 
-    前提 JDK19于2022-09-20发布GA版本，本文将会详细介绍JDK19新特性的使用。 新特性列表 新特性列表如下： JPE-405：Record模式（预览功能） JPE-422：JDK移植到L 
+    研发工程师日常的工作除了开发实现新需求之外，排查定位问题也是重要的组成部分。如果在发生线上故障的时能够快速定位线上bug并且修复bug，不仅是研发工程师技术能力的重要体现，同时也可以帮助线上及时止血. 
     </details> 
 
-- 🕯 [使用 WebAssembly 打造定制 JS Runtime](https://juejin.cn/post/7146939939786063885) | Sat Sep 24 2022 1:38 PM 
+- 🕯 [chrome扩展训练营 ｜ 1.谷歌扩展核心机制详解：数据流处理能力、UI能力、浏览器特性](https://juejin.cn/post/7147105998728085541) | Sun Sep 25 2022 12:23 AM 
     <details><summary>展开描述 ...</summary> 
-    本文为来自 教育-成人与创新-前端团队 成员的文章，已授权 ELab 发布。 背景 这是一次简短的整活与折腾，起因是在 lightdm-webkit2-greeter 这个 lightdm 插件中看到 
+    学习前言 Chrome 扩展是一个用 Web 技术开发结合浏览器暴露的能力用来增强浏览器功能的软件，它其实就是一个由 HTML、CSS、JS、图片等资源组成的一个.crx后缀的压缩包（crx可能是Ch 
     </details> 
 
-- 🚀 [[Flutter]足够入门的Dart语言系列之变量的类型：bool、String、num、List、Set和Map](https://juejin.cn/post/7146936100823498789) | Sat Sep 24 2022 1:23 PM 
+- 🚀 [是不是还青春年少，永远赤诚](https://juejin.cn/post/7146993133337706509) | Sat Sep 24 2022 5:11 PM 
     <details><summary>展开描述 ...</summary> 
-    变量的类型指的是变量的特性或特征，比如表示数字类型、文本类型、集合类型等，表示的是一类数据。 Dart提供以下类型：int, double、String、List、Set、Map、null... 
+    就在刚刚，我意识到我或许已经不是一个少年了。 因为我不确定自己能不能继续心安理得地说一句“青春年少” 
     </details> 
 
-- 💪 [初学架构 : 云交付模型之Saas , Paas , Iaas](https://juejin.cn/post/7146935613902553101) | Sat Sep 24 2022 1:21 PM 
+- 💪 [分享一些linux书籍](https://juejin.cn/post/7146981591594565645) | Sat Sep 24 2022 4:19 PM 
     <details><summary>展开描述 ...</summary> 
-    一 . 前言 这一篇主要来了解一些架构中的专业术语 , 他们的展现形式以及大概的使用场景. 首先先学习一些前置知识点 : 在一些书籍里面 , 云计算被看作一种可远程提供可扩展可测量的资源的分布式计算的 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第n篇文章，点击查看活动详情 一、linux之路，路漫漫其修远兮，吾将上下而求索！先上经典书籍！ 1.入门篇 《LINUX权威指南》书不错，写的很 
     </details> 
 <!-- juejin:END -->
 ### 少数派
