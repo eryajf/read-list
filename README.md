@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [麻省理工学院AI图像生成系统让《DALL-E 2》等模型散发出创意](https://www.cnbeta.com/articles/tech/1320411.htm) | Sun Sep 25 2022 7:15 AM 
+- 🕯 [波音737货机着陆时冲进附近湖中 法国一机场关闭](https://www.cnbeta.com/articles/tech/1320423.htm) | Sun Sep 25 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着DALL-E的问世，互联网迎来了一个集体感觉良好的时刻。这个基于人工智能的图像生成器的灵感来自于艺术家萨尔瓦多-DALL-E和动画电影中可爱的机器人瓦力，它使用自然语言来生成你心中想要的任何神秘而美丽的图像。看到打出的输入信息，如&amp;quot;拿着冰激凌甜筒的微笑地鼠&amp;quot;，机器的灵感瞬间涌现出来，这种生动的人工智能生成的图像显然得到了世界的共鸣。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;法国蒙彼利埃机场24日临时关闭，原因是一架波音货机在着陆时冲进附近湖中。西大西洋货运航空公司一架波音737货机当天凌晨降落蒙彼利埃机场时滑出跑道，机头扎进附近湖中，所幸没有人员伤亡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [韦伯太空望远镜揭示了太阳系中最丰富和最接近的星体“托儿所”](https://www.cnbeta.com/articles/science/1320409.htm) | Sun Sep 25 2022 7:09 AM 
+- 💼 [“不上门必赔付”的顺丰，却因保价不赔翻了车？](https://www.cnbeta.com/articles/tech/1320421.htm) | Sun Sep 25 2022 7:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;包括密歇根大学（U-M）研究人员在内的国际天文学家团队刚刚披露了詹姆斯-韦伯太空望远镜的首批猎户座星云图像，这是太阳系中最丰富和最接近的恒星孕育地。猎户座星云位于猎户座，距离地球大约1350光年，是一个富含物质的区域，许多恒星在这里形成。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320409.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;才对外放话“不上门必赔付”的顺丰，可能没想到自己此后会连番“翻车”。先是9月初的“顺丰寄丢11000元手机仅赔1000元”话题引发广泛热议，随后在13日的“顺丰寄丢20克黄金保价八千只赔两千”事件又冲上热搜，等到了19日，“顺丰保价1.8万的单子只赔500”则彻底将快递巨头的面子踩在了脚下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软调查称“生产力妄想症”导致老板怀疑员工在家中的工作表现](https://www.cnbeta.com/articles/tech/1320407.htm) | Sun Sep 25 2022 7:03 AM 
+- 💂 [特斯拉变相降价8000？ 销售：季末冲量 提车最快一周](https://www.cnbeta.com/articles/tech/1320419.htm) | Sun Sep 25 2022 7:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软最近的一项调查显示，当涉及到在家工作所提供的员工生产力时，老板们并没有真正留下印象，工人们也对此不以为然。微软解释说，这两个群体之间的这种认知脱节是受到&amp;quot;生产力偏执狂&amp;quot;的影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自特斯拉国产化以来，其车型价格经历多次涨跌波动，但直接从指导价里进行调整的情况还是比较少见。近期，一份关于特斯拉车型能够享受保险补贴的邮件在网络流传。邮件显示，在9月16日-9月30日期间完成提车的车主，如选择在特斯拉店内购买保险，可享受8000元保险补贴，补贴可直接用于减免车价。这一行为也被市场解读为特斯拉“变相降价8000元”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [一个辍学少年，让Adobe豪掷200亿美元](https://www.cnbeta.com/articles/tech/1320405.htm) | Sun Sep 25 2022 7:00 AM 
+- 🚀 [RTX 40显卡性能暴增被指全靠AI衬托 黄仁勋：DLSS生成像素比真的还好](https://www.cnbeta.com/articles/tech/1320417.htm) | Sun Sep 25 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“旧金山随处可见的由VC组织的社交活动中，Dylan Field总是独自一人坐在那里，尴尬地自斟自饮。”根据彭博社记者Brody Ford的描述，仅仅在4年前，这位Figma的创始人还未引起行业内的过多关注，尽管彼时他开发的付费产品已经开始服务微软等互联网巨头，但作为一款设计工具，有Sketch珠玉在前，Figma的未来并不被大多投资人所看好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在这一代RTX 40系显卡上，DLSS 3.0的重要性被反复提及。包括NVIDIA口中所谓RTX 4090 2~4倍的性能提升，其实都是在开启DLSS 3.0和高级别光追的游戏中才得以实现。因为DLSS依赖深度学习技术，不是100%原生画面和分辨率，一定程度上利用了“视觉欺骗”，可好处就是减少了GPU开销，大幅提高了帧率和响应速度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [欧洲凛冬将至 中国&quot;取暖神器&quot;出口爆单](https://www.cnbeta.com/articles/tech/1320403.htm) | Sun Sep 25 2022 6:58 AM 
+- 🎊 [国内首个“元宇宙”专业引热议：南京双一流高校推出 3年前刚成立AI学院](https://www.cnbeta.com/articles/tech/1320415.htm) | Sun Sep 25 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;有记录以来最热夏天刚过去，迈入秋天的欧洲民众又迎来了新问题——凛冬早至。&lt;/strong&gt;在天然气供给受限、价格暴涨的困境中，如何安全过冬？他们有的开始囤积煤炭，有的转而购买能耗更小的家用取暖设备并将目光投向中国。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一所“双一流”高校，将有着25年历史的“信息工程系”，改名成了“元宇宙工程系”？！自元宇宙大火到现在，这还是“第一个吃螃蟹的高校”。这个大新闻来自南京信息工程大学，前身是南京大学气象学院，并在2004年将校名南京气象学院改成如今的名字。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
