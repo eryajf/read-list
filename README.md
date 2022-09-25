@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Linux 下有类似 windows 磁盘加密工具 bitlocker 吗?](https://www.v2ex.com/t/882712#reply13) | Sat Sep 24 2022 6:25 PM
-- 🤗 [意外的发现 Python3.10 标准库 hashlib 的 sha256 比 sha256sum 以及 go1.19 的都要快两倍以上](https://www.v2ex.com/t/882708#reply5) | Sat Sep 24 2022 5:33 PM
-- 🎭 [vim 如何记录上次退出时候的修改记录](https://www.v2ex.com/t/882707#reply1) | Sat Sep 24 2022 5:16 PM
-- 🥷 [本站 Windows 主题下面的壁纸会自动使用我桌面的壁纸？](https://www.v2ex.com/t/882706#reply2) | Sat Sep 24 2022 5:04 PM
-- 🐵 [k8s 集群的 cpu 核是怎么计算的？](https://www.v2ex.com/t/882702#reply0) | Sat Sep 24 2022 4:19 PM<!-- v2ex:END -->
+- 🥸 [求一个自建打洞方案](https://www.v2ex.com/t/882721#reply17) | Sun Sep 25 2022 12:57 AM
+- 🤗 [微信聊天记录损坏，无法查看](https://www.v2ex.com/t/882720#reply4) | Sun Sep 25 2022 12:23 AM
+- 🎭 [为啥这个网站使用宝塔只能反代首页?点其他的就回复到原站](https://www.v2ex.com/t/882719#reply3) | Sun Sep 25 2022 12:12 AM
+- 🥷 [Linux 下有类似 windows 磁盘加密工具 bitlocker 吗?](https://www.v2ex.com/t/882712#reply23) | Sat Sep 24 2022 6:25 PM
+- 🐵 [意外的发现 Python3.10 标准库 hashlib 的 sha256 比 sha256sum 以及 go1.19 的都要快两倍以上](https://www.v2ex.com/t/882708#reply7) | Sat Sep 24 2022 5:33 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
