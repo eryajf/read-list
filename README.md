@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一看就懂的OpenGL ES教程——缓冲对象优化程序（一）](https://juejin.cn/post/7147144845038419999) | Sun Sep 25 2022 2:52 AM 
+- 🤗 [小白也能看懂的 Nuxt.js 入坑指南](https://juejin.cn/post/7147184835377758238) | Sun Sep 25 2022 5:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    Nuxt 的出现让一些曾经因繁琐的配置而放弃服务端渲染的小伙伴跃跃欲试。本专栏从 0 到 1带大家入门 Nuxt.js，作者尝试从初学者的角度来和大家同步学习。 
+    </details> 
+
+- 🎡 [使用css形变实现一个立方体](https://juejin.cn/post/7147176681617227807) | Sun Sep 25 2022 4:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    我正在参加「码上掘金挑战赛」详情请看：码上掘金挑战赛来了！ 需求使用纯css的3D形变搭建一个类似如下图的立方体 思路： 定义一个舞台，所有的需要形变的元素都在舞台上进行对应的形变，也就是避免形变元素 
+    </details> 
+
+- 🕯 [在vue中，为什么不能用index作为key？](https://juejin.cn/post/7147174440025980935) | Sun Sep 25 2022 4:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    啊？不是吧，在vue中，不能使用index作为key呢？使用index作为key又好理解又方便，为什么不能使用呢 
+    </details> 
+
+- 🚀 [前端人70%以上 不了解的原型/继承/class](https://juejin.cn/post/7147159884658638856) | Sun Sep 25 2022 3:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 1. 对象的原型&lpar;隐式原型&rpar; 在JS当中，每个对象中都有一个特殊的内置属性&lpar;[[prototype]]&rpar;/隐式原型，其实就是对于其他对象的引用而已，以及ES6中的class/extends 
+    </details> 
+
+- 💪 [一看就懂的OpenGL ES教程——缓冲对象优化程序（一）](https://juejin.cn/post/7147144845038419999) | Sun Sep 25 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
     经过前面7篇博文的洗礼，相信你一定已经可以真正理解如何使用OpenGL es绘制一个渐变色的三角形了吧，那么恭喜你，此时你已经翻过了入门的第一座大山。本文就不继续翻山越岭了，而是讲一些优化性的内容。 
-    </details> 
-
-- 🎡 [Swift底层探索（九）Swift枚举的底层源码探索](https://juejin.cn/post/7147138845492903943) | Sun Sep 25 2022 2:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 1. 枚举的底层结构体认识 1.1 原始值 代码： SIL： 说明： 1.2 关联值 代码： SIL： 说明： 当使用了关联值后，就没有RawValue了，主要是因为ca 
-    </details> 
-
-- 🕯 [21个MySQL表设计的经验准则](https://juejin.cn/post/7147135702604447758) | Sun Sep 25 2022 2:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为后端开发，我们经常需要设计数据库表。整理了21个设计MySQL表的经验准则，分享给大家，大家看完一定会有帮助的。 
-    </details> 
-
-- 🚀 [iOS横竖屏切换](https://juejin.cn/post/7147133013619376164) | Sun Sep 25 2022 2:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    iOS横竖屏适配的基础知识梳理，在横屏和竖屏间切换的注意事项以及，探索UIWindow在横竖屏切换过程的角色。 
-    </details> 
-
-- 💪 [2&gt;&amp;1到底是什么意思？](https://juejin.cn/post/7147132344581750814) | Sun Sep 25 2022 2:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    相信大部分人都知道`&gt;`表示的是重定向，那么什么是重定向？`2&gt;&amp;1`又是什么意思？ 要从根儿上说明这个问题，我们有必要好好理解一下「文件描述符」的概念。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
