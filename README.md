@@ -440,29 +440,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软为Surface Duo 3 Android手机申请专利 屏幕可两面折叠](https://www.cnbeta.com/articles/tech/1320943.htm) | Mon Sep 26 2022 3:11 PM 
+- 🕯 [艺术家使用AI辅助生成的漫画书成功注册美国版权](https://www.cnbeta.com/articles/tech/1320951.htm) | Mon Sep 26 2022 3:55 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;一位名叫Kris Kashtanova的纽约艺术家获得了美国版权注册，他们的漫画小说采用了由AI生成的艺术作品，这可能是第一次。&lt;/strong&gt;该注册于9月15日生效，适用于一本名为《黎明的扎丽亚》的漫画书。Kashtanova使用Midjourney（一种商业图像合成服务）创作了艺术品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [麻省理工学院工程师打造无需电池的无线水下相机](https://www.cnbeta.com/articles/tech/1320949.htm) | Mon Sep 26 2022 3:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;根据科学家的估计，超过95%的地球海洋从未被观察过，这意味着我们看到我们星球的海洋比我们看到月球的远方或火星的表面还要少。&lt;strong&gt;阻碍广泛的海底探索的一个巨大的挑战是为水下摄像机长时间供电的高成本。&lt;/strong&gt;现在这样做需要把它拴在一艘研究船上，或者经常派船去给它的电池充电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [夫妻给户外移动电源充电被炸伤 专家：标准缺失致产品良莠不齐](https://www.cnbeta.com/articles/tech/1320947.htm) | Mon Sep 26 2022 3:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;span style=&quot;&quot;&gt;便携式储能电源在生产、检验等方面，暂时还缺乏更适用且具有针对性的“执行标准”，“在新标准还未发布的情况下，行业内确实出现了产品质量良莠不齐、产品监管难的问题。”&lt;/span&gt;因为一场意外，时先生和老伴儿住进了医院的重症监护病房。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [豆瓣2.1分刷新国产剧新低 张翰新剧《东八区的先生们》下架](https://hot.cnbeta.com/articles/movie/1320945.htm) | Mon Sep 26 2022 3:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;此前热播的电视剧《东八区的先生们》因为评分刷新了国产剧新低而被各种吐槽，今晚网友们发现视频网站已经下架了这部电视。此前该剧开播没多久就在豆瓣上评分2.3，最近更是一路走低，&lt;strong&gt;现在的2.1分刷新了国产电视剧的新低，要知道前几年被网络各种吐槽的《逐梦演艺圈》评分也有2.6分，现在已经被这部剧顶替，成为评分最低的代表。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [微软为Surface Duo 3 Android手机申请专利 屏幕可两面折叠](https://www.cnbeta.com/articles/tech/1320943.htm) | Mon Sep 26 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Surface Duo 2已经存在了一段时间，它比原来的双屏合盖手机有了很大的改进。微软将在10月为Surface Pro 9和Surface Studio 3举行Surface产品发布会，但不会包括该公司的下一代Android手机。虽然我们仍然没有得到有关潜在的Surface Duo 3的发布会日期的消息，但它很可能将在2023年到来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [推特CEO接受马斯克律师问话：为起诉马斯克一案作证](https://www.cnbeta.com/articles/tech/1320941.htm) | Mon Sep 26 2022 3:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Twitter CEO帕拉格·阿格拉瓦尔（Parag Agrawal）今日将接受特斯拉CEO埃隆·马斯克（Elon Musk）律师的提问，为Twitter起诉马斯克一案作证。法庭文件显示，此次作证将于当地时间周一上午9点在旧金山的一家律师事务所闭门进行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [斯坦福大学研究发现车主应该在白天给电动汽车充电](https://www.cnbeta.com/articles/tech/1320939.htm) | Mon Sep 26 2022 2:45 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;绝大多数电动汽车车主都是在晚上或通宵在家里给他们的汽车充电。根据斯坦福大学的一项新研究，我们这样做是错误的。&lt;/strong&gt;根据斯坦福大学的一项新研究，如果随着越来越多的汽车使用电动车，普遍在晚上或通宵在家给电动车充电转变为在白天充电，那么这将抑制电力系统的额外成本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [苹果公司位于伦敦巴特西发电站改造后的办公室即将开业](https://www.cnbeta.com/articles/tech/1320937.htm) | Mon Sep 26 2022 2:27 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司首席执行官蒂姆-库克透露，该公司将在伦敦标志性的巴特西电站开设其最新的英国办公室，比计划晚了两年。早在2018年，苹果公司首次被曝出计划为其英国总部提供这个新址。然后，据报道，苹果员工将在2021年之前搬入该建筑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [工程师发现20年前的芯片组解决方法一直在伤害现代AMD Linux系统性能](https://www.cnbeta.com/articles/tech/1320935.htm) | Mon Sep 26 2022 2:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;AMD工程师K Prateek Nayak最近发现，Linux内核中一个大约20年前的芯片组解决方法仍被应用于现代AMD系统，在某些情况下，它负责损害现代Zen硬件性能。&lt;/strong&gt;幸运的是，一个修复程序正在进行中，它可以限制旧系统的工作方法，从而帮助提升现代系统的性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
