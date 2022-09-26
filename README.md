@@ -365,11 +365,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [win10 关机都会出现 task host windows 宿主阻止关机](https://www.v2ex.com/t/883122#reply2) | Mon Sep 26 2022 1:05 PM
-- 🤗 [现在做阿里云代理商、腾讯代理商 还能赚钱吗？ 感觉不好推呀](https://www.v2ex.com/t/883120#reply2) | Mon Sep 26 2022 12:55 PM
-- 🎭 [.net 中有没有按添加顺序排序的不重复的集合? 类似 Java 中的 LinkedHashSet](https://www.v2ex.com/t/883117#reply4) | Mon Sep 26 2022 12:33 PM
-- 🥷 [Azure CTO 认为应以 Rust 代替 C/C++](https://www.v2ex.com/t/883109#reply10) | Mon Sep 26 2022 11:37 AM
-- 🐵 [原作者不维护的 GitHub 上的开源项目有几百个 PR 没合，我想 fork 一个自己维护，怎么把这些 PR 复制到我的项目下？](https://www.v2ex.com/t/883096#reply10) | Mon Sep 26 2022 10:07 AM<!-- v2ex:END -->
+- 🥸 [视频，在 Windows 10 上实施 Meltdown](https://www.v2ex.com/t/883140#reply0) | Mon Sep 26 2022 2:25 PM
+- 🤗 [win10 关机都会出现 task host windows 宿主阻止关机](https://www.v2ex.com/t/883122#reply4) | Mon Sep 26 2022 1:05 PM
+- 🎭 [现在做阿里云代理商、腾讯代理商 还能赚钱吗？ 感觉不好推呀](https://www.v2ex.com/t/883120#reply5) | Mon Sep 26 2022 12:55 PM
+- 🥷 [.net 中有没有按添加顺序排序的不重复的集合? 类似 Java 中的 LinkedHashSet](https://www.v2ex.com/t/883117#reply6) | Mon Sep 26 2022 12:33 PM
+- 🐵 [Azure CTO 认为应以 Rust 代替 C/C++](https://www.v2ex.com/t/883109#reply12) | Mon Sep 26 2022 11:37 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
