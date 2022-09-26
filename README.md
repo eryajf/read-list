@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [HTTP 请求头中的 Host 你了解吗](https://juejin.cn/post/7147605396872495135) | Mon Sep 26 2022 8:39 AM 
+- 🤗 [用人工智能取一个超酷的名字（二）](https://juejin.cn/post/7147614473560260622) | Mon Sep 26 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    在一个的服务器中，可能拥有多个 Host 的应用服务，此时仅仅通过 IP 无法访问到对应的服务，可通过 Host 来进行定位。 Host 是唯一客户端必须携带的请求头，如果缺失了该请求头则会返回 40 
+    这篇文章代码有点多，不知道大家有没有兴趣看关于源码的深度解析的文章呢？ 留言区和我说说~~ 构建模型 
     </details> 
 
-- 🎡 [Swift - LeetCode - 赎金信](https://juejin.cn/post/7147605333710471205) | Mon Sep 26 2022 8:39 AM 
+- 🎡 [android 自定义View: 矩形图表&lpar;二&rpar;](https://juejin.cn/post/7147601889104756772) | Mon Sep 26 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 题目 给你两个字符串：ransomNote 和 magazine，判断 ransomNote 能不能由 magazine 里面的字符构成。 如果可以，返回 true；否则 
+    系统mac android studio: 4.1.3 kotlin version1.5.0 gradle: gradle-6.5-bin.zip 本篇效果: tips: 本篇是在上一篇的基础上来绘 
     </details> 
 
-- 🕯 [Redis 持久化策略浅析](https://juejin.cn/post/7147602740405862407) | Mon Sep 26 2022 8:29 AM 
+- 🕯 [AccessibilityService 的 onInterrupt 方法是怎么用的？](https://juejin.cn/post/7147602016737427492) | Mon Sep 26 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    本文深入浅出介绍 Redis 持久化机制，描述清晰，图示丰富，并给出很多参考信息。通过阅读本文，读者可以快速、有效地了解Redis 的持久化机制，更好、更高效地使用 Redis。 
+    onInterrupt 是实现自定义无障碍服务必须实现的方法，但官方文档和注释中对此方法的描述十分模糊，从字面上可以理解这是无障碍服务中断的回调，但具体是什么样的场景并没有一个明确的示例。 onInt 
     </details> 
 
-- 🚀 [python多维列表总是只转为一维数组相关问题](https://juejin.cn/post/7147591475293847560) | Mon Sep 26 2022 7:45 AM 
+- 🚀 [TCP 5连问，你能抗到第几轮？](https://juejin.cn/post/7147594391803133982) | Mon Sep 26 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-    上述代码最后一排报错 该报错是指y_data转为array之后变成了一维数组，而我要取三维的数据，两者维度不符合。 于是我做了这样一个工作： 得到如下输出： 原本y_data当中应该所有数组是同样的s 
+     ## 1，TCP3次握手具体过程 ## 2，请聊聊SYN攻击 ## 3，CLOSE-WAIT 和 TIME-WAIT的作用 ## 4，TCP如何保证可靠性 ## 5，TCP如何进行拥塞控制 
     </details> 
 
-- 💪 [[陈同学i前端] 手写Vue3 | Diff算法-基础](https://juejin.cn/post/7147586445266386958) | Mon Sep 26 2022 7:26 AM 
+- 💪 [谈谈分布式系统中的唯一ID生成](https://juejin.cn/post/7147594145467465764) | Mon Sep 26 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-    上一章节文章中我们学习了Vue3的渲染器相关概念与知识，接下来我们将继续上一节内容的学习，通过本篇文章你能快速掌握Diff算法，实现Vue的新旧子节点比较更新 
+    前言 我们目前主流的服务端系统都是分布式的架构。业务分布在不同的机器节点上产生数据，数据也存储在不同的机器节点。为了方便标识数据，我们使用唯一且有序的ID来标识数据。即： 整个分布式系统中，新生成的I 
     </details> 
 <!-- juejin:END -->
 ### 少数派
