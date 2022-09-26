@@ -802,29 +802,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [爱尔兰 一妇女吞下55节AA电池](http://jandan.net/p/111359) | Mon Sep 26 2022 5:54 AM 
+- 🚀 [给自动驾驶汽车车头安装上卡通大眼睛，可以提高行人的安全性](http://jandan.net/p/111396) | Mon Sep 26 2022 11:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    就像托马斯的小火车那种眼睛 
+    </details> 
+
+- 🙉 [爱尔兰 一妇女吞下55节AA电池](http://jandan.net/p/111359) | Mon Sep 26 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
     不得已进行外科手术取出 
     </details> 
 
-- 🙉 [日本婚姻：女性最在意男人是否会做家务，而男性则在意女方收入](http://jandan.net/p/111394) | Mon Sep 26 2022 2:53 AM 
+- 🎉 [日本婚姻：女性最在意男人是否会做家务，而男性则在意女方收入](http://jandan.net/p/111394) | Mon Sep 26 2022 2:53 AM 
     <details><summary>展开描述 ...</summary> 
     数据显示人们结婚的兴趣正进一步下降。 
     </details> 
 
-- 🎉 [今日好价 0926](http://jandan.net/p/111393) | Mon Sep 26 2022 2:28 AM 
+- 🐲 [今日好价 0926](http://jandan.net/p/111393) | Mon Sep 26 2022 2:28 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：60 
     </details> 
 
-- 🐲 [可化整为零分头跑路、再能组合回去的磁控微型机器人](http://jandan.net/p/111392) | Sun Sep 25 2022 3:04 PM 
+-  [可化整为零分头跑路、再能组合回去的磁控微型机器人](http://jandan.net/p/111392) | Sun Sep 25 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
     或许可应用于医疗上的给药过程。 
-    </details> 
-
--  [狼也能发展出对人类的依恋](http://jandan.net/p/111388) | Sun Sep 25 2022 1:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    毕竟和狗同源 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
