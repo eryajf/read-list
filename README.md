@@ -365,11 +365,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [视频，在 Windows 10 上实施 Meltdown](https://www.v2ex.com/t/883140#reply0) | Mon Sep 26 2022 2:25 PM
-- 🤗 [win10 关机都会出现 task host windows 宿主阻止关机](https://www.v2ex.com/t/883122#reply4) | Mon Sep 26 2022 1:05 PM
-- 🎭 [现在做阿里云代理商、腾讯代理商 还能赚钱吗？ 感觉不好推呀](https://www.v2ex.com/t/883120#reply5) | Mon Sep 26 2022 12:55 PM
-- 🥷 [.net 中有没有按添加顺序排序的不重复的集合? 类似 Java 中的 LinkedHashSet](https://www.v2ex.com/t/883117#reply6) | Mon Sep 26 2022 12:33 PM
-- 🐵 [Azure CTO 认为应以 Rust 代替 C/C++](https://www.v2ex.com/t/883109#reply12) | Mon Sep 26 2022 11:37 AM<!-- v2ex:END -->
+- 🥸 [在国内做开发，哪些方向或者环境相对没那么卷？](https://www.v2ex.com/t/883156#reply0) | Mon Sep 26 2022 3:15 PM
+- 🤗 [面试时被问到的一个问题](https://www.v2ex.com/t/883155#reply1) | Mon Sep 26 2022 3:12 PM
+- 🎭 [搭了一个专门讨论数据库和分布式系统的论坛，欢迎来交流](https://www.v2ex.com/t/883151#reply0) | Mon Sep 26 2022 3:07 PM
+- 🥷 [视频，在 Windows 10 上实施 Meltdown](https://www.v2ex.com/t/883140#reply0) | Mon Sep 26 2022 2:25 PM
+- 🐵 [win10 关机都会出现 task host windows 宿主阻止关机](https://www.v2ex.com/t/883122#reply5) | Mon Sep 26 2022 1:05 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
