@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [GitHub用户注意，网络钓鱼活动冒充CircleCI窃取凭证](https://www.freebuf.com/news/345637.html) | Mon Sep 26 2022 8:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    有网络钓鱼活动冒充CircleCI DevOps平台，瞄准GitHub用户窃取证书和双因素身份验证（2FA）代码。 
+    </details> 
+
 - 🦄 [“匿名者”组织声称黑进了俄罗斯国防部网站](https://www.freebuf.com/news/345581.html) | Mon Sep 26 2022 5:30 AM 
     <details><summary>展开描述 ...</summary> 
     匿名者黑客组织声称已成功入侵俄罗斯国防部网站并泄露 305925 人的数据信息。 
     </details> 
 
-- 🦄 [为防钓鱼，Win11新版本在记事本、网站中输入密码时会发出警告](https://www.freebuf.com/news/345570.html) | Mon Sep 26 2022 3:48 AM 
+- 🦅 [为防钓鱼，Win11新版本在记事本、网站中输入密码时会发出警告](https://www.freebuf.com/news/345570.html) | Mon Sep 26 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
     新发布的Windows 11 22H2附带增强网络钓鱼防护的新安全功能，当用户在不安全的应用程序或网站上输入Windows密码时会发出警告。 
     </details> 
 
-- 🦅 [全国首个城市（地区）图谱 | 成都网络安全特色企业图谱（第一版）发布](https://www.freebuf.com/articles/others-articles/345552.html) | Mon Sep 26 2022 2:00 AM 
+- 🪄 [全国首个城市（地区）图谱 | 成都网络安全特色企业图谱（第一版）发布](https://www.freebuf.com/articles/others-articles/345552.html) | Mon Sep 26 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
     旨在助力成都打造网络安全之城，共同构建西部地区网络安全新生态，促进全国网络安全产业健康发展。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 17岁少年疑似《GTA6》泄露元凶；Meta被指秘密跟踪iPhone用户](https://www.freebuf.com/news/345478.html) | Fri Sep 23 2022 10:23 AM 
+- 💻 [FreeBuf早报 | 17岁少年疑似《GTA6》泄露元凶；Meta被指秘密跟踪iPhone用户](https://www.freebuf.com/news/345478.html) | Fri Sep 23 2022 10:23 AM 
     <details><summary>展开描述 ...</summary> 
     伦敦警方通报称，他们已经在牛津郡逮捕到了一名涉嫌网络攻击事件的 17 岁少年黑客，并表示他目前仍在被拘留，但没有公布任何其他细节。 
-    </details> 
-
-- 💻 [FreeBuf周报 | Python曝出15年老洞可影响35万余项目；印尼通过数据隐私法](https://www.freebuf.com/news/345452.html) | Fri Sep 23 2022 8:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 <!-- freebuf:END -->
 
