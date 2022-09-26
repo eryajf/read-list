@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [RTX 40显卡从三星8nm升级台积电5nm的表现令黄仁勋感到失望](https://www.cnbeta.com/articles/tech/1320621.htm) | Mon Sep 26 2022 1:54 AM 
+- 🕯 [腾讯发布国庆节假期限玩日历 未成年人8天玩8小时](https://www.cnbeta.com/articles/tech/1320695.htm) | Mon Sep 26 2022 4:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这一代RTX 40系显卡采用了全新的Ada lovelace架构GPU核心，同时工艺制程升级到了台积电4N 5nm工艺。和同期的AMD Radeon显卡相比，NVIDIA这几年在工艺上有点“不思进取”，先是12nm后是8nm，现在才到5nm，且还不是更优势的4nm。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国庆七天假期即将到来，腾讯游戏于今日（9月26日）发布了“关于国庆节假期前后未成年人游戏限玩的通知”，未成年人可在9月30日至10日7日，每天的20时至21时之间登录游戏。即未成年玩家在本周五及国庆节假期每天可在晚间游玩1小时，假期共有8小时的游玩时间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Surface再次沦为NFL球队失利后的泄火对象](https://www.cnbeta.com/articles/tech/1320619.htm) | Mon Sep 26 2022 1:53 AM 
+- 💼 [新VR系统游戏MEcholocation公开 可真实模拟舌音定位](https://hot.cnbeta.com/articles/game/1320693.htm) | Mon Sep 26 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;微软 Surface 在过去两周的橄榄球赛事中接连遭到打击。&lt;/strong&gt;近日在对阵迈阿密海豚队（Miami Dolphins）的比赛中，布法罗比尔队（Buffalo Bills）的进攻协调员肯·多尔西（Ken Dorsey）在比赛失败之后将心中的怒火撒向了他的 Surface 平板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;来自岐阜大学的研究组日前公开新研究项目，特别VR系统MEcholocation，主要作用在于真实模拟舌音定位，应用于游戏中可以在完全黑暗中躲避障碍物并逃脱危机。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国际能源署呼吁各国行动起来 2035年之前全球禁售燃油车](https://www.cnbeta.com/articles/tech/1320617.htm) | Mon Sep 26 2022 1:50 AM 
+- 💂 [新作要来了？微软申请新的《战争机器》商标](https://hot.cnbeta.com/articles/game/1320691.htm) | Mon Sep 26 2022 4:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月25日消息，近期国际能源署（IEA）表示，新能源汽车普及速度太慢，没有达到《巴黎协定》的目标，呼吁各国行动起来，2035年之前全球禁售燃油车。&lt;/strong&gt;进入21世纪后，各国对于环保越来越重视，环保部门要求各国减少碳排放和化石燃料的使用。作为碳排放和化石燃料的大头，汽车行业备受关注，各式新能源汽车接踵而至。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据美国专利商标局的网页显示，微软在9月20日申请了一个新的《战争机器》商标，旨在覆盖包括桌面游戏、棋类游戏、纸牌游戏、交易纸牌游戏以及街机游戏等业务。目前商标申请已被商标局受理（已达到最低申请要求），尚未分配给审查员。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [韩国称国际刑警组织已经对Terra的Do Kwon签发了红色通缉令](https://www.cnbeta.com/articles/tech/1320615.htm) | Mon Sep 26 2022 1:48 AM 
+- 🚀 [十年磨一剑 首台国产质子治疗系统今获批上市](https://www.cnbeta.com/articles/tech/1320689.htm) | Mon Sep 26 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;韩国方面表示，国际刑警组织已要求全世界的执法部门找到并逮捕在逃的Terraform实验室联合创始人Do Kwon（权道亨）。首尔的检察官周一说，该国际警察组织已经对权志龙发出了签发红色通缉令。他在韩国面临的指控与他创造的600亿美元的加密货币崩盘有关。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月26日，国家药品监督管理局批准了上海艾普强粒子设备有限公司生产的“质子治疗系统”创新产品注册申请。该产品是“十三五”期间科技部重点研发计划“数字诊疗装备专项”的重点支持项目，也是我国首台获准上市的国产质子治疗系统。该产品的获批上市，标志着我国高端医疗器械装备国产化又迈出一步，对提升我国医学肿瘤诊疗手段和水平，具有重大意义。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [华硕、华擎和微星的 Z790 主板照片曝光](https://www.cnbeta.com/articles/tech/1320613.htm) | Mon Sep 26 2022 1:41 AM 
+- 🎊 [小说直接变漫画 美研究组公布漫画风AI图像软件StoryDALL-E](https://hot.cnbeta.com/articles/comic/1320687.htm) | Mon Sep 26 2022 4:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国外科技媒体 VideoCardz 分享了大量来自于华硕、华擎和微星的 Z790 主板照片，这些主板将支持即将发售的英特尔第 13 代酷睿处理器。虽然这样的曝光本身并没有什么值得惊讶的，但有一两件事情值得关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近期爆火的AI图像软件正在越来越触动绘画界乃至动漫游戏领域的专业性，日前据外媒报道，美国UNC Chapel Hill公布一套新AI图像软件架构StoryDALL-E，可以直接生成漫画风格的AI“画作”，只要你描述到位，分分钟小说直接变漫画。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1320687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
