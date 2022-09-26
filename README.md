@@ -364,8 +364,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [原作者不维护的 GitHub 上的开源项目有几百个 PR 没合，我想 fork 一个自己维护，怎么把这些 PR 复制到我的项目下？](https://www.v2ex.com/t/883096#reply6) | Mon Sep 26 2022 10:07 AM
-- 🤗 [git 小白求助，怎样优雅的回滚过去某次错误的 merge，并保留 merge 之后 commit 的改动](https://www.v2ex.com/t/883095#reply4) | Mon Sep 26 2022 9:58 AM
+- 🥸 [原作者不维护的 GitHub 上的开源项目有几百个 PR 没合，我想 fork 一个自己维护，怎么把这些 PR 复制到我的项目下？](https://www.v2ex.com/t/883096#reply8) | Mon Sep 26 2022 10:07 AM
+- 🤗 [git 小白求助，怎样优雅的回滚过去某次错误的 merge，并保留 merge 之后 commit 的改动](https://www.v2ex.com/t/883095#reply10) | Mon Sep 26 2022 9:58 AM
 - 🎭 [现在是不是已经可以让主机供应商在 https://isp.google.com 提交信息就可以解决 ip 地址被 Google 送中的问题了？](https://www.v2ex.com/t/883094#reply0) | Mon Sep 26 2022 9:57 AM
 - 🥷 [Python 查询数据库数据发送监控预警邮件](https://www.v2ex.com/t/883091#reply4) | Mon Sep 26 2022 9:44 AM
 - 🐵 [win10 系统经常卡死是什么原因？](https://www.v2ex.com/t/883083#reply8) | Mon Sep 26 2022 9:21 AM<!-- v2ex:END -->
