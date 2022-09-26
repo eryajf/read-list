@@ -208,29 +208,29 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://tech.meituan.com/2022/09/15/yolov6-2.0.html) | Thu Sep 15 2022 12:00 AM 
+- 🕯 [数字化新业态下数据安全创新——Token化](https://tech.meituan.com/2022/09/22/token-pii.html) | Thu Sep 22 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    数据安全最大的挑战是高速扩张前提下，解决数据暴露性问题。Token化让安全成为数据默认属性，让安全性随数据自动扩展，从根本上解决效率和安全合规的矛盾，实现设计安全和默认安全。本文主要介绍了Token化方案、Token化安全性实现以及美团所做的一些工程实践和经验分享。 
+    </details> 
+
+- 🤠 [通用目标检测开源框架YOLOv6在美团的量化部署实战](https://tech.meituan.com/2022/09/22/yolov6-quantization-in-meituan.html) | Thu Sep 22 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    基于美团目标检测模型开源框架 YOLOv6，本文提供了一种通用的量化部署方案，在保持精度的同时大幅提升了检测的速度，为通用检测的工业化部署探索出一条可行之路，希望能给大家带来一些启发或者帮助。 
+    </details> 
+
+- 🤠 [目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://tech.meituan.com/2022/09/15/yolov6-2.0.html) | Thu Sep 15 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     近日，美团视觉智能部发布了YOLOv6 2.0版本，本次更新对轻量级网络进行了全面升级，量化版模型 YOLOv6-S 达到了 869 FPS，同时，还推出了综合性能优异的中大型网络（YOLOv6-M/L），丰富了 YOLOv6 网络系列。 
     </details> 
 
-- 🤠 [美团隐私计算平台通过行业权威认证](https://tech.meituan.com/2022/09/15/meituan-privacy-preserving-computation.html) | Thu Sep 15 2022 12:00 AM 
+- 🚀 [美团隐私计算平台通过行业权威认证](https://tech.meituan.com/2022/09/15/meituan-privacy-preserving-computation.html) | Thu Sep 15 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     近日，在2022年隐私计算大会上，中国信通院公布第六批可信隐私计算评测结果，美团隐私计算平台通过“联邦学习安全”和“多方安全计算基础能力”两个专项评测认证。2021年，美团已经通过“联邦学习基础能力”专项评测认证。 
     </details> 
 
-- 🤠 [自动化测试在美团外卖的实践与落地](https://tech.meituan.com/2022/09/15/automated-testing-in-meituan.html) | Thu Sep 15 2022 12:00 AM 
+- ⚗️ [自动化测试在美团外卖的实践与落地](https://tech.meituan.com/2022/09/15/automated-testing-in-meituan.html) | Thu Sep 15 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     随着美团到家业务的发展，系统复杂度也在持续增长。测试用例数量近两年增长约一倍，单端数量超过1万2千条，而研发人员的工作从大部分时间在开发，转变成一半时间在开发、一半时间在模拟环境和自测。因此，引入自动化测试就显得十分有必要，本文介绍了美团外卖在自动化测试方向做的一些探索和实践，希望对从事相关领域工作的同学能够带来一些启发或帮助。 
-    </details> 
-
-- 🚀 [图技术在美团外卖下的场景化应用及探索](https://tech.meituan.com/2022/09/08/gnn-scenariomodeling-subgraphextend-jointtraining.html) | Thu Sep 08 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    在外卖广告CTR预估建模中，我们依托图技术在场景化上进行了一系列探索。本文首先介绍了使用图网络技术的出发点，然后从特征层面的抽象图关系到子图扩展以及场景感知子图，逐步介绍如何使用图技术建模业务问题，并针对联合训练的线上服务细节及效果进行解释和分析，希望能给从事相关工作的同学带来一些帮助或启发。 
-    </details> 
-
-- ⚗️ [基于AI算法的数据库异常监测系统的设计与实现](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html) | Thu Sep 01 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    美团数据库平台研发组，面临日益急迫的数据库异常发现需求，为了更加快速、智能地发现、定位和止损，我们开发了基于AI算法的数据库异常检测服务。本文从特征分析、算法选型、模型训练与实时检测等维度介绍了我们的一些实践和思考，希望为从事相关工作的同学带来一些启发或者帮助。 
     </details> 
 <!-- meituan:END -->
 
