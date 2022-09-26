@@ -440,29 +440,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [艺术家使用AI辅助生成的漫画书成功注册美国版权](https://www.cnbeta.com/articles/tech/1320951.htm) | Mon Sep 26 2022 3:55 PM 
+- 🕯 [“祝融号”巡视雷达揭秘火星乌托邦平原浅表结构](https://www.cnbeta.com/articles/science/1320963.htm) | Mon Sep 26 2022 5:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一位名叫Kris Kashtanova的纽约艺术家获得了美国版权注册，他们的漫画小说采用了由AI生成的艺术作品，这可能是第一次。&lt;/strong&gt;该注册于9月15日生效，适用于一本名为《黎明的扎丽亚》的漫画书。Kashtanova使用Midjourney（一种商业图像合成服务）创作了艺术品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2021年5月，我国首次火星探测任务天问一号携带的“祝融号”火星车在乌托邦平原南部预选着陆区着陆，开启巡视探测工作。乌托邦平原是火星最大的撞击盆地，曾经可能是一个古海洋，预示着火星早期可能存在过宜居环境。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [麻省理工学院工程师打造无需电池的无线水下相机](https://www.cnbeta.com/articles/tech/1320949.htm) | Mon Sep 26 2022 3:40 PM 
+- 💼 [《最后的生还者》HBO改编剧首段预告片分享](https://hot.cnbeta.com/articles/movie/1320961.htm) | Mon Sep 26 2022 5:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据科学家的估计，超过95%的地球海洋从未被观察过，这意味着我们看到我们星球的海洋比我们看到月球的远方或火星的表面还要少。&lt;strong&gt;阻碍广泛的海底探索的一个巨大的挑战是为水下摄像机长时间供电的高成本。&lt;/strong&gt;现在这样做需要把它拴在一艘研究船上，或者经常派船去给它的电池充电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;HBO公布了《最后的生还者》改编剧的首支预告片。这是索尼互动娱乐SIE成立的PlayStationProductions制作公司推出的首部电视剧。该公司将其原创游戏改编为电影和电视。该剧将在美国的HBO Max&lpar;和英国的Sky&rpar;播出，涵盖初代游戏的事件，以及可能基于《最后的生还者2》的部分内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [夫妻给户外移动电源充电被炸伤 专家：标准缺失致产品良莠不齐](https://www.cnbeta.com/articles/tech/1320947.htm) | Mon Sep 26 2022 3:33 PM 
+- 💂 [去除硬件限制 Windows 11安装U盘制作攻略](https://www.cnbeta.com/articles/tech/1320959.htm) | Mon Sep 26 2022 4:48 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;span style=&quot;&quot;&gt;便携式储能电源在生产、检验等方面，暂时还缺乏更适用且具有针对性的“执行标准”，“在新标准还未发布的情况下，行业内确实出现了产品质量良莠不齐、产品监管难的问题。”&lt;/span&gt;因为一场意外，时先生和老伴儿住进了医院的重症监护病房。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Windows 11 22H2已经不支持跳过微软账户登录步骤了，也就是说安装时需要联网才行，此外硬件要求没变，特别是TPM。在这篇文章里，小编就来介绍一下如何从安装镜像文件入手，来跳过这些限制。并且还介绍一种可以制作纯净且最新版的Windows 11安装U盘的方法。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [豆瓣2.1分刷新国产剧新低 张翰新剧《东八区的先生们》下架](https://hot.cnbeta.com/articles/movie/1320945.htm) | Mon Sep 26 2022 3:25 PM 
+- 🚀 [AMD锐龙7000核显性能实测：真就亮机卡水平](https://www.cnbeta.com/articles/tech/1320957.htm) | Mon Sep 26 2022 4:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前热播的电视剧《东八区的先生们》因为评分刷新了国产剧新低而被各种吐槽，今晚网友们发现视频网站已经下架了这部电视。此前该剧开播没多久就在豆瓣上评分2.3，最近更是一路走低，&lt;strong&gt;现在的2.1分刷新了国产电视剧的新低，要知道前几年被网络各种吐槽的《逐梦演艺圈》评分也有2.6分，现在已经被这部剧顶替，成为评分最低的代表。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今晚AMD的锐龙7000系列处理器评测解禁了，我们在首发评测中已经详细测试了这代处理器的性能水平，单核及多核 相对上代锐龙5000提升很大。除了CPU性能之外，锐龙7000还有个小问题值得关注下，那就是这代集成了iGPU核显单元，是5年来非APU系列的锐龙桌面版首次，不过这个核显只有2个CU单元，频率2.2GHz。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微软为Surface Duo 3 Android手机申请专利 屏幕可两面折叠](https://www.cnbeta.com/articles/tech/1320943.htm) | Mon Sep 26 2022 3:11 PM 
+- 🎊 [民间大神出手优化AMD显卡：性能白赚13%](https://www.cnbeta.com/articles/tech/1320955.htm) | Mon Sep 26 2022 4:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Surface Duo 2已经存在了一段时间，它比原来的双屏合盖手机有了很大的改进。微软将在10月为Surface Pro 9和Surface Studio 3举行Surface产品发布会，但不会包括该公司的下一代Android手机。虽然我们仍然没有得到有关潜在的Surface Duo 3的发布会日期的消息，但它很可能将在2023年到来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;很多网友都知道A卡战未来这个梗，说的是随着时间推移，AMD会不断优化显卡性能，但是从某种程度上来说这也意味着AMD显卡初始的性能是有点问题的，在优化这方面才有潜力可挖，现在一些民间大神自己都忍不住出手了，推出的优化工具号称能让RX 6800 XT显卡比肩RTX 3090 Ti。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
