@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [超 200 款模板全新登场，让人人都能轻松做出好设计：Pixelmator Pro 3.0](https://sspai.com/post/75914) | Mon Sep 26 2022 8:33 AM 
+- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/75936) | Mon Sep 26 2022 9:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/75936&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [超 200 款模板全新登场，让人人都能轻松做出好设计：Pixelmator Pro 3.0](https://sspai.com/post/75914) | Mon Sep 26 2022 8:33 AM 
     <details><summary>展开描述 ...</summary> 
     一直以来，Pixelmator 团队对人工智能的应用都很克制，但是每一个借助人工智能打造的功能都取得了很好的实际效果。可以说，Pixelmator Pro 这样的应用大大降低了平面设计的创作门槛，让普通人通过一台 Mac 电脑就可以做出不俗的作品。&lt;a href=&quot;https://sspai.com/post/75914&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [城市漫步指南：游尽江南淡泊处，书香落畔梦姑苏](https://sspai.com/post/75918) | Mon Sep 26 2022 6:42 AM 
+- 🤭 [城市漫步指南：游尽江南淡泊处，书香落畔梦姑苏](https://sspai.com/post/75918) | Mon Sep 26 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
     大雨消停了酷热难耐的高温，秋天终于露出了眉目。九月，趁着周末，我决定前往苏州，来一波错峰浅游。作为周边游的常去之处，苏州我已经去过了很多次。我不是一个很需要在旅途中猎取新鲜感的人，对我来说，能够复刻过 ...&lt;a href=&quot;https://sspai.com/post/75918&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [从信息获取到内容产出，这是一位新闻传媒学生的「数字文具盒」](https://sspai.com/post/75398) | Mon Sep 26 2022 3:29 AM 
+- 🥸 [从信息获取到内容产出，这是一位新闻传媒学生的「数字文具盒」](https://sspai.com/post/75398) | Mon Sep 26 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     在我将新闻传媒定为自己学习的方向之后，我便开始有意识地通过各种渠道获取内容，加深自己对于新闻事件的理解；我也趁这个机会，聊一聊自己作为一个新闻传媒系的学生，是如何使用数字工具来搭建自己的阅读和写作系统的。&lt;a href=&quot;https://sspai.com/post/75398&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：Mozilla 指责强迫使用默认浏览器行为，支付宝宣布治理虚假刷单等](https://sspai.com/post/75908) | Mon Sep 26 2022 12:45 AM 
+- 🙉 [派早报：Mozilla 指责强迫使用默认浏览器行为，支付宝宣布治理虚假刷单等](https://sspai.com/post/75908) | Mon Sep 26 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事Mozilla指责系统厂商强迫使用默认浏览器9月23日，Firefox浏览器开发商Mozilla发布了一则研究报告，其中指责谷歌、苹果和微软等操作系统厂商强迫用户使用各自的默认浏览器 ...&lt;a href=&quot;https://sspai.com/post/75908&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [任意键｜《赛博朋克 2077》稳了，暂时](https://sspai.com/post/75907) | Sun Sep 25 2022 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    周末愉快！经过两个月的试运行和不断改进，我派的游戏专题「任意键」终于做好了正式上线前的大部分准备。新的「任意键」将作为少数派的常驻栏目，以双周一更的稳健节奏带来更加有趣和全面的内容。在扩大版面、充实内 ...&lt;a href=&quot;https://sspai.com/post/75907&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
