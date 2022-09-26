@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [液氮超频6.7GHz：AMD锐龙R9-7950X Cinebench R23跑分破5万](https://www.cnbeta.com/articles/tech/1320765.htm) | Mon Sep 26 2022 7:34 AM 
+- 🕯 [Meta AI大佬：目前大多数AI方法永远不会带来真正智能](https://www.cnbeta.com/articles/tech/1320801.htm) | Mon Sep 26 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;赶在正式上市前，AMD 锐龙 R9-7950X 台式处理器也在不断刷新各项基准测试的世界纪录。&lt;strong&gt;最新消息是，这枚 16C / 32T 的 Zen 4 CPU 在 Cinebench R23 中跑出了超过 5 万的多线程得分。&lt;/strong&gt;不过 AMD 超频团队成员 Sampson 并未使用盒装散热器，而是在液氮加持下超频到了 6.7 GHz 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月26日消息，Facebook母公司Meta的首席AI科学家雅恩·勒昆&lpar;Yann LeCun&rpar;认为，目前大多数AI方法永远不会带来真正的智能，他对当今深度学习领域许多最成功的研究方法持怀疑态度。这位图灵奖得主表示，同行们的追求是必要的，但还远远不够。其中包括大型语言模型的研究，如基于Transformer的GPT-3。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [两辆淘宝“小蛮驴”无人车狭路相逢：互相鸣笛 互不相让](https://www.cnbeta.com/articles/tech/1320761.htm) | Mon Sep 26 2022 7:07 AM 
+- 💼 [失速、降价、产品力下滑......雷克萨斯就这样走下神坛了](https://www.cnbeta.com/articles/tech/1320799.htm) | Mon Sep 26 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着自动驾驶技术加速落地，无人车开始出现在更多场景当中，无人车送快递也在不少高校试行，但两辆无人车遇到一块的话，容易闹出笑话。网友上传的一段视频显示，9月25日，河南郑州，某学校两辆淘宝无人送货车“小蛮驴”狭路相逢，因为道路狭窄，两辆车谁也不让谁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年夏至时间，雷克萨斯的一则短片在朋友圈刷屏。这则短片分为《开弓》、《热气儿》、《启程》三个篇章，演员李立群用温柔缓慢的语调讲述着“往者不追，来者不惑；情之所至，皆是风景”的人生态度。这种很符合雷克萨斯匠心风韵的短片，让很多转发的人不禁感叹：雷克萨斯的品牌调性果然还在。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [清华毕业生当保姆月薪3.5万？涉事家政公司被罚20万](https://www.cnbeta.com/articles/tech/1320759.htm) | Mon Sep 26 2022 7:07 AM 
+- 💂 [香港“珠宝大王”登山失足坠崖身亡：父亲也是珠宝巨头](https://www.cnbeta.com/articles/tech/1320797.htm) | Mon Sep 26 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;企查查显示，近日，上海市松江区市场监管局针对一起虚假商业宣传案件进行行政处罚。2021年5月，佑杰家政公司发布一则“清华毕业生求职保姆”的商业宣传。该宣传内容显示，&lt;strong&gt;29岁的李静毕业于清华，本科学历，目前是保姆阿姨管家，月薪3.5万，还包含多项信息并附有一张女子照片。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月26日，据界面新闻援引香港媒体报道称，&lt;strong&gt;25日，香港大屿山摩天崖发生登山致命事故，一名65岁男子不幸坠崖身亡，经证实是香港富衡珠宝行有限公司董事长卢仲辉。&lt;/strong&gt;富衡珠宝行表示，&lt;strong&gt;公司对此感到“非常难过”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [大摩分析师将AMD目标股价预期调至100美元以下 但维持增持评级](https://www.cnbeta.com/articles/tech/1320755.htm) | Mon Sep 26 2022 7:01 AM 
+- 🚀 [美国宇航局发布“月球到火星”目标的修订版](https://www.cnbeta.com/articles/science/1320795.htm) | Mon Sep 26 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;周五的时候，投行摩根士丹利下调了芯片制造商 AMD 的股价预期。近年来，该公司在重大宏观经济的影响下逆风翻盘，实现了相较于更大的竞争对手的连续季度营收增长，因而一直被金融界所看好。&lt;strong&gt;不过摩根士丹利分析师认为，这一趋势或迎来一个拐点、未来的增长潜力可能变得有些困难。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周，&lt;strong&gt;美国宇航局（NASA）公布了其“月球到火星”（Moon to Mars）目标的修订版，形成了塑造整个太阳系探索的蓝图。&lt;/strong&gt;NASA“月球到火星”的探索方法中的这些指南将有助于塑造该机构的投资，以及工业和国际合作伙伴的投资，以前往月球和更远的地方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NASA团队介绍其行星防御任务DART的不可预测性](https://www.cnbeta.com/articles/science/1320753.htm) | Mon Sep 26 2022 7:00 AM 
+- 🎊 [机构称iPhone 14上市初在华表现不及去年 销量出现两位数降幅](https://www.cnbeta.com/articles/tech/1320793.htm) | Mon Sep 26 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，这是科幻灾难片的素材：如果一颗小行星与我们的地球发生碰撞，我们该怎么办？一种选择可能是使用蛮力，发送一个航天器来干预小行星的轨迹，简单地将其撞离轨道。美国东部时间9月26日晚，美国宇航局（NASA）将通过一项世界首创的任务来探索这种可能性，即撞上小行星Dimorphos并改变其轨道。&lt;strong&gt;New Atlas采访了这项具有里程碑意义的任务背后的团队，以了解一些起作用的机制。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果用一个词来形容目前iPhone 14系列的受欢迎程度，“冰火两重天”或许再合适不过。&lt;strong&gt;由于iPhone 14、iPhone 14 Plus两款机型采用去年A15芯片，加上无高刷屏、没有“灵动岛”，两款机型在市场预冷，销量不及预期，&lt;/strong&gt;而iPhone 14 Pro系列则卖的火热，除了线下加价外，官网订单甚至排到11月中旬。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
