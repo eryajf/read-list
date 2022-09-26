@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [原创 110 篇了，是时候来篇总结了](https://juejin.cn/post/7147334638124400676) | Sun Sep 25 2022 3:11 PM 
+- 🤗 [【jvm】通过JDBC为例谈谈双亲委派模型的破坏](https://juejin.cn/post/7147498884611178527) | Mon Sep 26 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    5 年中大厂 Android 程序员，一起来看看怎样自学 Android，学习 Android，提高自己的技能能力，升职加薪 
+    我们都知道类加载的双亲委派模型 双亲委派模型并不是一个强制约束模型,而是java设计者推荐给开发者的类加载实现 
     </details> 
 
-- 🎡 [RestTemplate使用详解](https://juejin.cn/post/7147334077740220447) | Sun Sep 25 2022 3:08 PM 
+- 🎡 [Flutter 构建一个 todo list 应用【✅】](https://juejin.cn/post/7147496701065068574) | Mon Sep 26 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-    在开发中有时候经常需要一些Http请求，一些简单的分布式应用直接使用Http请求作为跨应用的交互协议。RestTemplate作为Java中最简单好用的Http请求工具类一定要了解一下 
+    今天，我们将使用 Flutter 构建一个动态的 todo list 的应用。文末附上完整的代码，新建项目之后，复制粘贴即可运行～ 
     </details> 
 
-- 🕯 [node.js中的事件循环机制来了哟，快来看看和js有啥不一样吧](https://juejin.cn/post/7147332484101832717) | Sun Sep 25 2022 3:00 PM 
+- 🕯 [iOS小技能： 日历的使用（案例：两个时间的比较、获取最近30天的数据）](https://juejin.cn/post/7147496036125114404) | Mon Sep 26 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    一、是什么 在浏览器事件循环 &lpar;opens new window&rpar;中，我们了解到javascript在浏览器中的事件循环机制，其是根据HTML5定义的规范来实现 而在NodeJS中，事件循环是基于li 
+    “我正在参加「掘金·启航计划」” 引言 预备知识：日历标识符NSCalendarIdentifier I 日历的使用 1.1 两个时间的比较（NSDateComponents） 案例1: 计算两个时间 
     </details> 
 
-- 🚀 [字符串转树结构](https://juejin.cn/post/7147326350058078239) | Sun Sep 25 2022 2:37 PM 
+- 🚀 [精准用户画像！商城用户分群2.0！](https://juejin.cn/post/7147495774157275150) | Mon Sep 26 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-    有一个多行字符串，每行开头会用空格来表示它的层级关系，每间隔一层它的空格总数为2，如何将它转为json格式的树型数据？本文就跟大家分享下这个算法，欢迎各位感兴趣的开发者阅读本文。 
+    客户分群（客户细分）对于绘制用户画像、构建个性化推广、产品和服务策略，都非常重要。本文讲解此过程中，多种机器学习聚类算法的建模流程与评估模式。 
     </details> 
 
-- 💪 [Android Compose 动画使用详解&lpar;一&rpar; Compose 中属性动画的使用探索](https://juejin.cn/post/7147323811824664590) | Sun Sep 25 2022 2:28 PM 
+- 💪 [ZooKeeper之Java API的基本使用以及常见应用场景的实现](https://juejin.cn/post/7147491217847091208) | Mon Sep 26 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    Android开发中动画最流行的是属性动画，因其灵活和强大而被开发者所拥抱。那么它是否能用在Compose开发中呢？如果能那跟传统UI的使用又有什么区别呢？本篇带领你探索Compose中属性动画的使用 
+    介绍ZooKeeper中Java API的基本使用，以及对Zookeeper常见应用场景的具体实现。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
