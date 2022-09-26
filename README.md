@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果在首尔开设第四家韩国苹果门店](https://www.cnbeta.com/articles/tech/1320533.htm) | Sun Sep 25 2022 11:20 PM 
+- 🕯 [RTX 40显卡从三星8nm升级台积电5nm的表现令黄仁勋感到失望](https://www.cnbeta.com/articles/tech/1320621.htm) | Mon Sep 26 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果于周六在韩国开设了一家新的苹果官方零售店，据悉，苹果蚕室店是这家科技巨头在韩国开设的第四家门店。作为开业的一部分，苹果发布了一份关于店面的新闻稿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这一代RTX 40系显卡采用了全新的Ada lovelace架构GPU核心，同时工艺制程升级到了台积电4N 5nm工艺。和同期的AMD Radeon显卡相比，NVIDIA这几年在工艺上有点“不思进取”，先是12nm后是8nm，现在才到5nm，且还不是更优势的4nm。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [太平岭核电2号机组完成穹顶吊装](https://www.cnbeta.com/articles/science/1320531.htm) | Sun Sep 25 2022 11:17 PM 
+- 💼 [Surface再次沦为NFL球队失利后的泄火对象](https://www.cnbeta.com/articles/tech/1320619.htm) | Mon Sep 26 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;昨天（25日），广东太平岭核电2号机组顺利完成穹顶吊装，标志着该项目从土建施工阶段全面转入设备安装阶段，我国自主三代核电华龙一号机组批量化建设正在有序推进。&lt;/strong&gt;此次吊装的太平岭核电2号机组穹顶重量达225吨，作为核电站安全的重要屏障，是保证反应堆厂房完整性和密封性，实现固有安全的重要组成部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;微软 Surface 在过去两周的橄榄球赛事中接连遭到打击。&lt;/strong&gt;近日在对阵迈阿密海豚队（Miami Dolphins）的比赛中，布法罗比尔队（Buffalo Bills）的进攻协调员肯·多尔西（Ken Dorsey）在比赛失败之后将心中的怒火撒向了他的 Surface 平板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [日本横滨举行同18米巨型高达玩猜拳比赛游戏](https://hot.cnbeta.com/articles/game/1320529.htm) | Sun Sep 25 2022 11:16 PM 
+- 💂 [国际能源署呼吁各国行动起来 2035年之前全球禁售燃油车](https://www.cnbeta.com/articles/tech/1320617.htm) | Mon Sep 26 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月23日24日两天，举行了一次特别的猜拳比赛。这次比赛的特殊之处，就在于猜拳的对手是身高超过18米的高达！熟悉高达的玩家们可能知道，在日本横滨有一处景点，这里耸立着身高超过18米的巨型高达。9月23日和24日两天，活动方在这里举行了高达猜拳比赛。通过与高达猜拳，获胜者将可以近距离与高达合影。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月25日消息，近期国际能源署（IEA）表示，新能源汽车普及速度太慢，没有达到《巴黎协定》的目标，呼吁各国行动起来，2035年之前全球禁售燃油车。&lt;/strong&gt;进入21世纪后，各国对于环保越来越重视，环保部门要求各国减少碳排放和化石燃料的使用。作为碳排放和化石燃料的大头，汽车行业备受关注，各式新能源汽车接踵而至。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [粉丝玩家耗时多年打造《超级马里奥兄弟5》完工](https://hot.cnbeta.com/articles/game/1320527.htm) | Sun Sep 25 2022 11:15 PM 
+- 🚀 [韩国称国际刑警组织已经对Terra的Do Kwon签发了红色通缉令](https://www.cnbeta.com/articles/tech/1320615.htm) | Mon Sep 26 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自从任天堂在WiiU平台推出了让玩家自己制作地图的《超级马里奥制造》后，这家公司似乎不再推出全新的2D马里奥游戏了，不过好在还有粉丝的努力。近日，有一名玩家发布了他耗费多年心血的马里奥地图，供所有Switch《超级马里奥制造2》的玩家游玩。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;韩国方面表示，国际刑警组织已要求全世界的执法部门找到并逮捕在逃的Terraform实验室联合创始人Do Kwon（权道亨）。首尔的检察官周一说，该国际警察组织已经对权志龙发出了签发红色通缉令。他在韩国面临的指控与他创造的600亿美元的加密货币崩盘有关。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [索尼重申：第一方付费游戏首发不登陆PS Plus](https://hot.cnbeta.com/articles/game/1320525.htm) | Sun Sep 25 2022 11:14 PM 
+- 🎊 [华硕、华擎和微星的 Z790 主板照片曝光](https://www.cnbeta.com/articles/tech/1320613.htm) | Mon Sep 26 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;PlayStation高层吉田修平重申了索尼将首先以付费游戏的形式发布游戏的承诺。和微软不同，索尼付费第一方游戏不会首发登陆PS Plus，而是在几个月之后加入。值得一提的是，最早出现的游戏订阅服务EA Access便是采用了这种策略。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国外科技媒体 VideoCardz 分享了大量来自于华硕、华擎和微星的 Z790 主板照片，这些主板将支持即将发售的英特尔第 13 代酷睿处理器。虽然这样的曝光本身并没有什么值得惊讶的，但有一两件事情值得关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
