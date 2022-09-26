@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [大众导航突现弹窗广告 律师解读：若引发事故 需承担责任](https://www.cnbeta.com/articles/tech/1320821.htm) | Mon Sep 26 2022 9:23 AM 
+- 🕯 [欧盟电信运营商呼吁大型科技企业分担5G网络成本](https://www.cnbeta.com/articles/tech/1320837.htm) | Mon Sep 26 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，有汽车博主爆料称，一位一汽大众ID.6车主刘女士，在驾车过程中，发现车机屏幕上弹出厂商推送的“购车推广广告”。广告内容显示：“推荐购车有好礼，单车成交至高可获12000积分，即日起-9月30日！”并且，&lt;strong&gt;广告弹出框较大，已经遮挡住了车机屏幕上的导航信息，&lt;/strong&gt;可能会影响行车安全。此事引起网友热议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周一，&lt;strong&gt;德国电信（Dustche Telekom）、Orange、西班牙电信（Telefonica）和其它 13 家欧洲电信运营商，以能源危机和欧盟气候变化目标为由、致力于推动大型科技企业共同分担网络成本。&lt;/strong&gt;据悉，本次呼吁正值欧盟委员在立法提案之前征求双方的反馈意见。若顺利获得通过，新提案将强制科技企业帮助担负在欧盟 27 个成员国推出 5G 和铺设光缆的费用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [部分Apple Watch Series 8和Ultra用户抱怨遇到麦克风问题](https://www.cnbeta.com/articles/tech/1320819.htm) | Mon Sep 26 2022 9:21 AM 
+- 💼 [iPhone 14 Pro灵动岛的出现让使用自定义应用程序的图标不再令人讨厌](https://www.cnbeta.com/articles/tech/1320835.htm) | Mon Sep 26 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着 Apple Watch 新品的正式开售，首批入手的用户也陆续在网络上抱怨遇到了一些问题。&lt;/strong&gt;比如 Apple Watch Series 8 和 Apple Watch Ultra 的麦克风或在一段时间后莫名失去响应，导致依赖麦克风的应用程序弹出报错信息并停止工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为定制iPhone的一种手段，许多用户希望在他们的主屏幕上使用自定义的应用程序图标。iOS本身并没有提供一个原生的选项来轻松改变和使用自定义的应用程序图标，但值得庆幸的是，新的iPhone 14 Pro和灵动岛使其更容易使用一种变通方法来做到这一点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美平民航天项目计划年内运营 花90万元飞到30公里高空](https://www.cnbeta.com/articles/science/1320817.htm) | Mon Sep 26 2022 8:58 AM 
+- 💂 [奥普拉·温弗瑞与Apple TV+结束合作关系](https://www.cnbeta.com/articles/tech/1320833.htm) | Mon Sep 26 2022 9:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国HIS联合美国宇宙项目公司Space Perspective日前共同宣布，与亚洲区的日本以及北美加拿大签订新运营合约，计划年内开启平民航天项目运营，旅客无需任何专业训练，花费125000美元即可来一趟太空之旅。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Apple TV+方面已经证实，它与奥普拉-温弗瑞的最初多年协议不再续约，尽管人们相信她将继续与其它流媒体公司继续合作。奥普拉-温弗瑞是最早与Apple TV+签订协议的大明星之一，也是2019年3月苹果发布会介绍电视内容服务单元中的一个亮点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [亚马逊将于10月11-12日举办Prime Early Access促销活动](https://hot.cnbeta.com/articles/movie/1320815.htm) | Mon Sep 26 2022 8:58 AM 
+- 🚀 [领克09 EM-P即将开订：与沃尔沃XC90同平台打造  纯电能跑180公里](https://www.cnbeta.com/articles/tech/1320831.htm) | Mon Sep 26 2022 9:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如传闻所述，&lt;strong&gt;亚马逊即将于美东时间 10 月 11 日（周二）凌晨 3 点举办第二次 Prime 独家促销活动，并持续到次日。&lt;/strong&gt;早在 6 月，外媒就首次报道有另一场活动。只是没想到它不叫 Prime Day，而是改成了 Prime Early Access Sale 。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320815.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;领克09 EM-P车型将于9月29日18:09开启预订&lt;/strong&gt;。值得注意的是，目前在售的领克09拥有PHEV插电混动版，领克09 EM-P是该车的新款车型，采用了最新的家族化命名方式，同时也换装了领克最新的混动系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [谷歌拒绝为电信运营商分担成本：10年前的想法了对消费者不利](https://www.cnbeta.com/articles/tech/1320813.htm) | Mon Sep 26 2022 8:53 AM 
+- 🎊 [电动汽车传导充电连接装置系列国家标准通过审查](https://www.cnbeta.com/articles/tech/1320829.htm) | Mon Sep 26 2022 9:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，谷歌今日驳斥了欧洲电信运营商希望大型科技公司为其网络成本提供资金的要求，称这是一个已有10年历史的想法，对消费者不利。而且，谷歌已经在互联网基础设施上投入了数百万美元。欧洲电信运营商一直认为，谷歌、Meta和Netflix等美国科技公司占互联网流量的一半以上，应该承担其部分升级基础设施的成本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320813.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据工业和信息化部9月26日消息，9月25日，全国汽车标准化技术委员会电动车辆分技术委员会标准审查会以线上和线下相结合的方式召开，电动车辆分标委委员、观察员和标准起草单位专家共90余人参加会议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
