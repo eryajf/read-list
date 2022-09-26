@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [世界上首个水翼地效飞行器：Regent发布其原型机的飞行测试视频](https://www.cnbeta.com/articles/tech/1320737.htm) | Mon Sep 26 2022 6:02 AM 
+- 🕯 [液氮超频6.7GHz：AMD锐龙R9-7950X Cinebench R23跑分破5万](https://www.cnbeta.com/articles/tech/1320765.htm) | Mon Sep 26 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，&lt;strong&gt;Regent公司发布了其卓越的Seaglider原型机在飞行测试中的视频。&lt;/strong&gt;这是第一种在单一设计中结合了地效和水翼的效率优势的飞行器，它有望在沿海地区实现革命性的速度和航程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;赶在正式上市前，AMD 锐龙 R9-7950X 台式处理器也在不断刷新各项基准测试的世界纪录。&lt;strong&gt;最新消息是，这枚 16C / 32T 的 Zen 4 CPU 在 Cinebench R23 中跑出了超过 5 万的多线程得分。&lt;/strong&gt;不过 AMD 超频团队成员 Sampson 并未使用盒装散热器，而是在液氮加持下超频到了 6.7 GHz 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [书法成为一级学科 可设博士学位引热议](https://www.cnbeta.com/articles/tech/1320735.htm) | Mon Sep 26 2022 6:01 AM 
+- 💼 [两辆淘宝“小蛮驴”无人车狭路相逢：互相鸣笛 互不相让](https://www.cnbeta.com/articles/tech/1320761.htm) | Mon Sep 26 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年9月13日，国务院学位委员会、教育部印发《研究生教育学科专业目录（2022年）》（下称《目录》）、《研究生教育学科专业目录管理办法》新版目录，将“美术与书法”正式列为一级学科，自2023年下半年启动招生的研究生培养按新版学科专业执行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着自动驾驶技术加速落地，无人车开始出现在更多场景当中，无人车送快递也在不少高校试行，但两辆无人车遇到一块的话，容易闹出笑话。网友上传的一段视频显示，9月25日，河南郑州，某学校两辆淘宝无人送货车“小蛮驴”狭路相逢，因为道路狭窄，两辆车谁也不让谁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [耗时420天 玩家走到了《我的世界》地图的尽头……](https://hot.cnbeta.com/articles/game/1320733.htm) | Mon Sep 26 2022 5:59 AM 
+- 💂 [清华毕业生当保姆月薪3.5万？涉事家政公司被罚20万](https://www.cnbeta.com/articles/tech/1320759.htm) | Mon Sep 26 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在《我的世界》开始界面，打开“地图编辑器”一栏，选择“无限地图”选项，游戏便会给你一个望不到边际的超大世界。“无限”当然只是修饰用语，《我的世界》的地图会随着玩家的移动实时生成相应的区块，让玩家误以为这是一个没有尽头的世界，但游戏的确存在理论上的边缘区域。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;企查查显示，近日，上海市松江区市场监管局针对一起虚假商业宣传案件进行行政处罚。2021年5月，佑杰家政公司发布一则“清华毕业生求职保姆”的商业宣传。该宣传内容显示，&lt;strong&gt;29岁的李静毕业于清华，本科学历，目前是保姆阿姨管家，月薪3.5万，还包含多项信息并附有一张女子照片。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [1usmus计划今秋带来Radeon Monster Profiles显卡性能调优工具](https://www.cnbeta.com/articles/tech/1320731.htm) | Mon Sep 26 2022 5:59 AM 
+- 🚀 [大摩分析师将AMD目标股价预期调至100美元以下 但维持增持评级](https://www.cnbeta.com/articles/tech/1320755.htm) | Mon Sep 26 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;外媒报道称，CTR 与 Hydra 的开发者 Yuri Bubily（又名 1usmus）正在打造一款全新的硬件优化实用工具。不同的是，这次他将更多精力放在了 GPU、而不是 CPU 的性能调优上。&lt;strong&gt;据悉，该工具名叫“Radeon Monster Profile”（以下简称 RMP），其旨在提升 GPU 性能的同时压低功耗。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;周五的时候，投行摩根士丹利下调了芯片制造商 AMD 的股价预期。近年来，该公司在重大宏观经济的影响下逆风翻盘，实现了相较于更大的竞争对手的连续季度营收增长，因而一直被金融界所看好。&lt;strong&gt;不过摩根士丹利分析师认为，这一趋势或迎来一个拐点、未来的增长潜力可能变得有些困难。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [印度185万头牛感染牛块状皮肤病：7.5万头已死亡](https://www.cnbeta.com/articles/tech/1320729.htm) | Mon Sep 26 2022 5:58 AM 
+- 🎊 [NASA团队介绍其行星防御任务DART的不可预测性](https://www.cnbeta.com/articles/science/1320753.htm) | Mon Sep 26 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年6月以来，一种发生在牛身上的“牛块状皮肤病”开始在印度各地蔓延，据印度畜牧部门的最新统计表明，&lt;strong&gt;印度全国已有185万头牛感染了这种病，其中有7.5万头牛死亡&lt;/strong&gt;。据兽医介绍，“牛块状皮肤病”1929年首次在非洲赞比亚被发现，2019年在印度出现首例病例。这种病是由山羊痘病毒引起，传染性很强，该疾病的特征是皮肤上出现结节，可能覆盖动物的整个身体，病变通常出现在口腔和上呼吸道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，这是科幻灾难片的素材：如果一颗小行星与我们的地球发生碰撞，我们该怎么办？一种选择可能是使用蛮力，发送一个航天器来干预小行星的轨迹，简单地将其撞离轨道。美国东部时间9月26日晚，美国宇航局（NASA）将通过一项世界首创的任务来探索这种可能性，即撞上小行星Dimorphos并改变其轨道。&lt;strong&gt;New Atlas采访了这项具有里程碑意义的任务背后的团队，以了解一些起作用的机制。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
