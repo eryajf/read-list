@@ -440,29 +440,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一加Nord Watch智能手表配置规格在印度上市前曝光](https://www.cnbeta.com/articles/tech/1320889.htm) | Mon Sep 26 2022 12:29 PM 
+- 🕯 [据传iPhone 15 Ultra将有两个前置摄像头并换用USB-C接口](https://www.cnbeta.com/articles/tech/1320909.htm) | Mon Sep 26 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;OnePlus正准备在印度推出其首款Nord品牌的智能手表，即OnePlus Nord Watch。该品牌之前已经通过一个官方网站页面披露了OnePlus Nord Watch的关键功能，今天他们又分享了更多。上周，我们看到了泄露的OnePlus Nord Watch的渲染图，首先展示了这款智能手表的设计，随后泄露的渲染图披露了其可选的颜色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320889.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据说iPhone 15 Ultra会提供两个前置摄像头，而不是一个，这是关于2023年苹果高端iPhone设备的极早期说法。根据彭博社记者古尔曼上周日的披露，借用Apple Watch Ultra和M1 Ultra的后缀，iPhone 14 Pro Max将在一年后由iPhone 15 Ultra跟进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [王一博《长空之王》预售票房破三千万 国庆影院见](https://hot.cnbeta.com/articles/movie/1320887.htm) | Mon Sep 26 2022 12:18 PM 
+- 💼 [WhatsApp正在推出可分享的呼叫链接功能](https://www.cnbeta.com/articles/tech/1320907.htm) | Mon Sep 26 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据猫眼专业版数据，由王一博、胡军、于适领衔主演，周冬雨特别出演的电影《长空之王》预售总票房已突破3000万。在电影《长空之王》中，为了试出中国自己的隐身战机，试飞员们面对空中停车、被降落伞拖拽、红视等惊险场面，他们始终把保护飞机数据放在第一位，在危险中坚守信念完成任务。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;视频通话的链接在Zoom或Google Meet等应用中很常见，现在流行的聊天应用程序WhatsApp也推出了这一功能，因此你可以与家人和朋友分享通话链接。马克-扎克伯格今天宣布了这项功能，指出用户现在可以通过这个链接加入WhatsApp的通话，完成所有动作只需点击一下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国内首款骁龙8 Gen2旗舰来了 小米13系列正式入网](https://www.cnbeta.com/articles/tech/1320885.htm) | Mon Sep 26 2022 12:15 PM 
+- 💂 [亚马逊告诉员工：财务软件错误计算了他们的报酬](https://www.cnbeta.com/articles/tech/1320905.htm) | Mon Sep 26 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年新一轮安卓旗舰机发布会又快开始了，这次的亮点是高通的骁龙8 Gen2，国内应该是小米13系列首发，现在该系列手机正式入网，这将是国内首款公示的骁龙8 Gen2新机。来自数码闲聊站的消息称，&lt;strong&gt;小米13系列正式入网，国内首款公示的骁龙8 Gen2新机。2210132C型号M2，应该对应小米13 Pro，&lt;/strong&gt;配备全新充电器依旧是支持120W超级快充。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;想象一下，当你被提拔并发现你将获得可观的报酬时，公司却通知你，由于一个软件错误，新的待遇并不像预期的那样丰厚。这是大约40%在本季度晋升的亚马逊公司员工所面临的情况。亚马逊内部人士看到的一封发给经理的邮件中确认了这个错误。这个问题是由于新晋升的员工的一次性奖金是用比目前价值高的旧亚马逊股价计算的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [网友围观禁野2年后的华农兄弟 本人回应：坦然面对 乐观生活](https://hot.cnbeta.com/articles/movie/1320883.htm) | Mon Sep 26 2022 11:42 AM 
+- 🚀 [Netflix在芬兰从零开始推出新的游戏工作室](https://hot.cnbeta.com/articles/game/1320903.htm) | Mon Sep 26 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2020年2月，“禁野令”出台，竹鼠、果子狸等动物不在饲养范围内。曾因“吃竹鼠的一百种理由”走红的华农兄弟，人生一瞬间从高处坠落。当年6月，他们决定分批次将养殖竹鼠放生，1000只竹鼠用了2~3天的时间才放生完。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Netflix宣布，它将推出一个全新的游戏工作室，工作地点将设在芬兰的赫尔辛基。这将加入Next Games、Night School Studio和Boss Fight Entertainment三家旗下企业，加速为Netflix游戏开发作品。然而，这个新的内部工作室的独特之处在于，它是白手起家从零开始，而不是以收购的方式归入Netflix的旗下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [特斯拉德国工厂发生火灾：持续5个小时无人员伤亡](https://www.cnbeta.com/articles/tech/1320881.htm) | Mon Sep 26 2022 11:41 AM 
+- 🎊 [《王者荣耀》滕王阁序新皮肤官宣：宣传动画超燃](https://hot.cnbeta.com/articles/game/1320901.htm) | Mon Sep 26 2022 1:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉德国工厂今日发生了火灾，幸运的是并没有人员伤亡报告。据消防部门称，当地时间周一凌晨3点30分（北京时间上午9点30分），特斯拉在德国的汽车工厂发生了火灾。在一处室外回收点，存有800立方米的纸板、纸张和木屑着火，随后当地消防部门接到了报警电话。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月26日，《王者荣耀》宣布与滕王阁梦幻联动，在南昌市文广新旅局的指导下，将推出弈星-滕王阁序新皮肤。&lt;/strong&gt;落霞与孤鹜齐飞，秋水共长天一色。一篇《滕王阁序》无数名句，流传至今。时至今日，人们依然诵读着少年的文字，传扬着少年的故事。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
