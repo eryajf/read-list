@@ -374,29 +374,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [打通Web安全思路：为什么我们需要同源策略？](https://juejin.cn/post/7147638444355747870) | Mon Sep 26 2022 10:47 AM 
+- 🤗 [Git commit history 规范标准（好的习惯，终身受益）](https://juejin.cn/post/7147669559061774344) | Mon Sep 26 2022 12:50 PM 
     <details><summary>展开描述 ...</summary> 
-    浏览器安全可以分为三大块——Web 页面安全、浏览器网络安全和浏览器系统安全，所以本文我们就按照这个思路来做介绍 
+    Git commit history 提交规范标准（好的习惯，终身受益）。commit message、多人协同开发、合并多个提交、补充提交、转移提交。 
     </details> 
 
-- 🎡 [线性回归大结局&lpar;岭&lpar;Ridge&rpar;、 Lasso回归原理、公式推导&rpar;，你想要的这里都有](https://juejin.cn/post/7147638051991191583) | Mon Sep 26 2022 10:46 AM 
+- 🎡 [前端食堂技术周刊第 54 期：TS 4.9 Beta、Monorepo Handbook、第 92 次 TC39 会议、将 StoryBook Stories](https://juejin.cn/post/7147660762519961631) | Mon Sep 26 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-    在本篇文章当中主要给大家深入介绍线性回归算法以及扩展的Lasso和Ridge回归，以及他们能够有效的原因！！ 
+    - TypeScript 4.9 Beta - Monorepo Handbook 新鲜出炉 - 第 92 次 TC39 会议 - 将 StoryBook Stories 转换为 Figma 组件 
     </details> 
 
-- 🕯 [带你了解各种 I/O 模型](https://juejin.cn/post/7147631903875530789) | Mon Sep 26 2022 10:23 AM 
+- 🕯 [Mysql和文件系统的关联](https://juejin.cn/post/7147657045678751752) | Mon Sep 26 2022 12:01 PM 
     <details><summary>展开描述 ...</summary> 
-    作为一名软件开发者，I/O 是我们无法避免要关注的东西。今天我们就来看看目前常见的各种 I/O 模型。 
+    我正在参加「掘金·启航计划」 Mysql和文件系统的关联 在Linux中采用文件系统管理磁盘，而Mysql常用的存储引擎如InnoDB、MyISAM采用的是文件存储，自然和文件系统挂钩，那么Mysql 
     </details> 
 
-- 🚀 [【杰哥带你玩转Android自动化】学穿：ADB](https://juejin.cn/post/7147631074183479303) | Mon Sep 26 2022 10:19 AM 
+- 🚀 [实战编程·使用SwiftUI从0到1完成一款iOS笔记App（四）](https://juejin.cn/post/7147655432809480199) | Mon Sep 26 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
-    🤡所有Android自动化框架和工具中操作Android设备的功能实现 都基于 adb 和 无障碍服务AccessibilityService。本节我们来学穿前者，并实现一个简单的自动打卡jio本~ 
+    在上几个章节，我们完成了念头笔记的基本页面的编程，并在上一章节中完成新建笔记的交互逻辑。 这几天和读者沟通时收到反馈，念头笔记项目哪怕只有2个页面交互，但是变量的双向绑定很是麻烦....... 
     </details> 
 
-- 💪 [【React】使用useContext + useReducer实现一个简易的版状态管理工具](https://juejin.cn/post/7147628649242427406) | Mon Sep 26 2022 10:10 AM 
+- 💪 [不用React Vue，只用原生JS，如何开发单页面应用&lpar;SPA&rpar;？](https://juejin.cn/post/7147654933435645960) | Mon Sep 26 2022 11:52 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 截止目前，我相信各位读者都接触了很多的hooks，什么useState，useRef不计其数。而观看这篇文章的，有可能是首页推荐点进来观看，想看看如何使用这两个hooks来实现状态管理的，或者说 
+    之前我发布了一篇文章，介绍自己做的小游戏《Dice Crush》。 本文分享一项技术方案，正是我开发上述游戏时用到的：不用React Vue，只用原生JS，如何开发单页面应用？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
