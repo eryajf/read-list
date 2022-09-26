@@ -440,29 +440,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [据传iPhone 15 Ultra将有两个前置摄像头并换用USB-C接口](https://www.cnbeta.com/articles/tech/1320909.htm) | Mon Sep 26 2022 1:41 PM 
+- 🕯 [苹果公司位于伦敦巴特西发电站改造后的办公室即将开业](https://www.cnbeta.com/articles/tech/1320937.htm) | Mon Sep 26 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据说iPhone 15 Ultra会提供两个前置摄像头，而不是一个，这是关于2023年苹果高端iPhone设备的极早期说法。根据彭博社记者古尔曼上周日的披露，借用Apple Watch Ultra和M1 Ultra的后缀，iPhone 14 Pro Max将在一年后由iPhone 15 Ultra跟进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司首席执行官蒂姆-库克透露，该公司将在伦敦标志性的巴特西电站开设其最新的英国办公室，比计划晚了两年。早在2018年，苹果公司首次被曝出计划为其英国总部提供这个新址。然后，据报道，苹果员工将在2021年之前搬入该建筑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [WhatsApp正在推出可分享的呼叫链接功能](https://www.cnbeta.com/articles/tech/1320907.htm) | Mon Sep 26 2022 1:37 PM 
+- 💼 [工程师发现20年前的芯片组解决方法一直在伤害现代AMD Linux系统性能](https://www.cnbeta.com/articles/tech/1320935.htm) | Mon Sep 26 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;视频通话的链接在Zoom或Google Meet等应用中很常见，现在流行的聊天应用程序WhatsApp也推出了这一功能，因此你可以与家人和朋友分享通话链接。马克-扎克伯格今天宣布了这项功能，指出用户现在可以通过这个链接加入WhatsApp的通话，完成所有动作只需点击一下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;AMD工程师K Prateek Nayak最近发现，Linux内核中一个大约20年前的芯片组解决方法仍被应用于现代AMD系统，在某些情况下，它负责损害现代Zen硬件性能。&lt;/strong&gt;幸运的是，一个修复程序正在进行中，它可以限制旧系统的工作方法，从而帮助提升现代系统的性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [亚马逊告诉员工：财务软件错误计算了他们的报酬](https://www.cnbeta.com/articles/tech/1320905.htm) | Mon Sep 26 2022 1:35 PM 
+- 💂 [特斯拉柏林工厂突发火灾 环保组织借机呼吁吊销生产执照](https://www.cnbeta.com/articles/tech/1320933.htm) | Mon Sep 26 2022 2:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;想象一下，当你被提拔并发现你将获得可观的报酬时，公司却通知你，由于一个软件错误，新的待遇并不像预期的那样丰厚。这是大约40%在本季度晋升的亚马逊公司员工所面临的情况。亚马逊内部人士看到的一封发给经理的邮件中确认了这个错误。这个问题是由于新晋升的员工的一次性奖金是用比目前价值高的旧亚马逊股价计算的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;综合多家德国媒体报道，当地时间周一（9月26日）凌晨，位于德国格林海德的特斯拉超级工厂发生了火灾。报道称，凌晨时分，火灾发生在厂区东北部的一处室外回收点，约800立方米的纸板、纸张和木屑着火，随后格林海德消防部门于当地时间03：33接到了工厂方面的报警电话。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Netflix在芬兰从零开始推出新的游戏工作室](https://hot.cnbeta.com/articles/game/1320903.htm) | Mon Sep 26 2022 1:26 PM 
+- 🚀 [我国成功发射遥感三十六号卫星](https://www.cnbeta.com/articles/tech/1320931.htm) | Mon Sep 26 2022 2:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Netflix宣布，它将推出一个全新的游戏工作室，工作地点将设在芬兰的赫尔辛基。这将加入Next Games、Night School Studio和Boss Fight Entertainment三家旗下企业，加速为Netflix游戏开发作品。然而，这个新的内部工作室的独特之处在于，它是白手起家从零开始，而不是以收购的方式归入Netflix的旗下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间2022年9月26日21时38分，我国在西昌卫星发射中心使用长征二号丁运载火箭，成功将遥感三十六号卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。此次任务是长征系列运载火箭第439次飞行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《王者荣耀》滕王阁序新皮肤官宣：宣传动画超燃](https://hot.cnbeta.com/articles/game/1320901.htm) | Mon Sep 26 2022 1:19 PM 
+- 🎊 [贾跃亭和合伙人公司重组FF董事会 董事长Sue及独立董事Brian将引咎辞职](https://www.cnbeta.com/articles/tech/1320929.htm) | Mon Sep 26 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月26日，《王者荣耀》宣布与滕王阁梦幻联动，在南昌市文广新旅局的指导下，将推出弈星-滕王阁序新皮肤。&lt;/strong&gt;落霞与孤鹜齐飞，秋水共长天一色。一篇《滕王阁序》无数名句，流传至今。时至今日，人们依然诵读着少年的文字，传扬着少年的故事。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Faraday Future&lpar;中文名“法拉第未来，下称“FF”&rpar;发布公告，宣布与公司大股东FF Top（FF全球合伙人公司）就融资和董事会重组达成最终协议。协议显示，FF获得来自Daguan和美国ATW Partners投资机构高达一亿美元融资的同时，FF大股东FF Top（全球合伙人公司）与FFIE正式达成了包括重组董事会在内的一揽子治理架构调整协议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
