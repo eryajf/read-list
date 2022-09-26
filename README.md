@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Shopemaa - 出售任何东西而无需交易费用](https://xinquji.com/posts/179797?utm_campaign=xinquji-rss) | Mon Sep 26 2022 9:06 AM 
+- 👀 [Kable - API 产品的基于使用量的计费](https://xinquji.com/posts/179812?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     出售任何东西而无需交易费用  
+     API 产品的基于使用量的计费  
     </details> 
 
-- 🥷 [Kalënder 2023 - 免费的最小可打印 2023 年日历](https://xinquji.com/posts/179796?utm_campaign=xinquji-rss) | Mon Sep 26 2022 9:06 AM 
+- 🥷 [Airbnb Guidebook - 让您的爱彼迎客人拥有最愉快的入住体验](https://xinquji.com/posts/179811?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     免费的最小可打印 2023 年日历  
+     让您的爱彼迎客人拥有最愉快的入住体验  
     </details> 
 
-- 💼 [StopSpend - 超支者的财务责任](https://xinquji.com/posts/179795?utm_campaign=xinquji-rss) | Mon Sep 26 2022 9:06 AM 
+- 💼 [On With Kara Swisher - 深入了解使有权势的人打勾的原因](https://xinquji.com/posts/179810?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     超支者的财务责任  
+     深入了解使有权势的人打勾的原因  
     </details> 
 
-- 🦅 [PT Champion - PT 在健身房或在线培训客户的平台](https://xinquji.com/posts/179794?utm_campaign=xinquji-rss) | Mon Sep 26 2022 9:06 AM 
+- 🦅 [Neble - 使用 AI 驱动的心智模型更快地学习](https://xinquji.com/posts/179809?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     PT 在健身房或在线培训客户的平台  
+     使用 AI 驱动的心智模型更快地学习  
     </details> 
 
-- 😺 [TheThrivingCareer - 游戏化面试准备和专家指导](https://xinquji.com/posts/179793?utm_campaign=xinquji-rss) | Mon Sep 26 2022 9:05 AM 
+- 😺 [AppFollow 8.0 - 制定以数据为依据的决策以构建巨大的客户体验](https://xinquji.com/posts/179808?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     游戏化面试准备和专家指导  
+     制定以数据为依据的决策以构建巨大的客户体验  
     </details> 
 <!-- xinquji:END -->
