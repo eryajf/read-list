@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [腾讯发布国庆节假期限玩日历 未成年人8天玩8小时](https://www.cnbeta.com/articles/tech/1320695.htm) | Mon Sep 26 2022 4:52 AM 
+- 🕯 [世界上首个水翼地效飞行器：Regent发布其原型机的飞行测试视频](https://www.cnbeta.com/articles/tech/1320737.htm) | Mon Sep 26 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国庆七天假期即将到来，腾讯游戏于今日（9月26日）发布了“关于国庆节假期前后未成年人游戏限玩的通知”，未成年人可在9月30日至10日7日，每天的20时至21时之间登录游戏。即未成年玩家在本周五及国庆节假期每天可在晚间游玩1小时，假期共有8小时的游玩时间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，&lt;strong&gt;Regent公司发布了其卓越的Seaglider原型机在飞行测试中的视频。&lt;/strong&gt;这是第一种在单一设计中结合了地效和水翼的效率优势的飞行器，它有望在沿海地区实现革命性的速度和航程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新VR系统游戏MEcholocation公开 可真实模拟舌音定位](https://hot.cnbeta.com/articles/game/1320693.htm) | Mon Sep 26 2022 4:44 AM 
+- 💼 [书法成为一级学科 可设博士学位引热议](https://www.cnbeta.com/articles/tech/1320735.htm) | Mon Sep 26 2022 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来自岐阜大学的研究组日前公开新研究项目，特别VR系统MEcholocation，主要作用在于真实模拟舌音定位，应用于游戏中可以在完全黑暗中躲避障碍物并逃脱危机。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年9月13日，国务院学位委员会、教育部印发《研究生教育学科专业目录（2022年）》（下称《目录》）、《研究生教育学科专业目录管理办法》新版目录，将“美术与书法”正式列为一级学科，自2023年下半年启动招生的研究生培养按新版学科专业执行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新作要来了？微软申请新的《战争机器》商标](https://hot.cnbeta.com/articles/game/1320691.htm) | Mon Sep 26 2022 4:36 AM 
+- 💂 [耗时420天 玩家走到了《我的世界》地图的尽头……](https://hot.cnbeta.com/articles/game/1320733.htm) | Mon Sep 26 2022 5:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国专利商标局的网页显示，微软在9月20日申请了一个新的《战争机器》商标，旨在覆盖包括桌面游戏、棋类游戏、纸牌游戏、交易纸牌游戏以及街机游戏等业务。目前商标申请已被商标局受理（已达到最低申请要求），尚未分配给审查员。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在《我的世界》开始界面，打开“地图编辑器”一栏，选择“无限地图”选项，游戏便会给你一个望不到边际的超大世界。“无限”当然只是修饰用语，《我的世界》的地图会随着玩家的移动实时生成相应的区块，让玩家误以为这是一个没有尽头的世界，但游戏的确存在理论上的边缘区域。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [十年磨一剑 首台国产质子治疗系统今获批上市](https://www.cnbeta.com/articles/tech/1320689.htm) | Mon Sep 26 2022 4:28 AM 
+- 🚀 [1usmus计划今秋带来Radeon Monster Profiles显卡性能调优工具](https://www.cnbeta.com/articles/tech/1320731.htm) | Mon Sep 26 2022 5:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月26日，国家药品监督管理局批准了上海艾普强粒子设备有限公司生产的“质子治疗系统”创新产品注册申请。该产品是“十三五”期间科技部重点研发计划“数字诊疗装备专项”的重点支持项目，也是我国首台获准上市的国产质子治疗系统。该产品的获批上市，标志着我国高端医疗器械装备国产化又迈出一步，对提升我国医学肿瘤诊疗手段和水平，具有重大意义。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;外媒报道称，CTR 与 Hydra 的开发者 Yuri Bubily（又名 1usmus）正在打造一款全新的硬件优化实用工具。不同的是，这次他将更多精力放在了 GPU、而不是 CPU 的性能调优上。&lt;strong&gt;据悉，该工具名叫“Radeon Monster Profile”（以下简称 RMP），其旨在提升 GPU 性能的同时压低功耗。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [小说直接变漫画 美研究组公布漫画风AI图像软件StoryDALL-E](https://hot.cnbeta.com/articles/comic/1320687.htm) | Mon Sep 26 2022 4:16 AM 
+- 🎊 [印度185万头牛感染牛块状皮肤病：7.5万头已死亡](https://www.cnbeta.com/articles/tech/1320729.htm) | Mon Sep 26 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期爆火的AI图像软件正在越来越触动绘画界乃至动漫游戏领域的专业性，日前据外媒报道，美国UNC Chapel Hill公布一套新AI图像软件架构StoryDALL-E，可以直接生成漫画风格的AI“画作”，只要你描述到位，分分钟小说直接变漫画。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1320687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年6月以来，一种发生在牛身上的“牛块状皮肤病”开始在印度各地蔓延，据印度畜牧部门的最新统计表明，&lt;strong&gt;印度全国已有185万头牛感染了这种病，其中有7.5万头牛死亡&lt;/strong&gt;。据兽医介绍，“牛块状皮肤病”1929年首次在非洲赞比亚被发现，2019年在印度出现首例病例。这种病是由山羊痘病毒引起，传染性很强，该疾病的特征是皮肤上出现结节，可能覆盖动物的整个身体，病变通常出现在口腔和上呼吸道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
