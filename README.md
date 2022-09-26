@@ -113,11 +113,11 @@
 ### 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🦣 [独立产品灵感周刊 DecoHack #031 – 用 AI 给黑白照片上色哪家好？](https://www.decohack.com/Post/1040) | Mon Sep 19 2022 9:28 AM
-- 👺 [独立产品灵感周刊 DecoHack #030 – iOS16正式发布](https://www.decohack.com/Post/1023) | Tue Sep 13 2022 8:18 AM
--  [独立产品灵感周刊 DecoHack #029 – 随便逛逛谷歌街景](https://www.decohack.com/Post/1004) | Mon Sep 05 2022 5:50 AM
-- 🐲 [独立产品灵感周刊 DecoHack #028 – 如何给你的项目取一个好名字](https://www.decohack.com/Post/980) | Mon Aug 29 2022 5:32 AM
-- 🦅 [独立产品灵感周刊 DecoHack #027 – 今天的天气适合穿短裤](https://www.decohack.com/Post/959) | Mon Aug 22 2022 4:42 AM<!-- DecoHack:END -->
+- 🦣 [独立产品灵感周刊 DecoHack #032 – 有趣的井盖设计](https://www.decohack.com/Post/1053) | Mon Sep 26 2022 7:38 AM
+- 👺 [独立产品灵感周刊 DecoHack #031 – 用 AI 给黑白照片上色哪家好？](https://www.decohack.com/Post/1040) | Mon Sep 19 2022 9:28 AM
+-  [独立产品灵感周刊 DecoHack #030 – iOS16正式发布](https://www.decohack.com/Post/1023) | Tue Sep 13 2022 8:18 AM
+- 🐲 [独立产品灵感周刊 DecoHack #029 – 随便逛逛谷歌街景](https://www.decohack.com/Post/1004) | Mon Sep 05 2022 5:50 AM
+- 🦅 [独立产品灵感周刊 DecoHack #028 – 如何给你的项目取一个好名字](https://www.decohack.com/Post/980) | Mon Aug 29 2022 5:32 AM<!-- DecoHack:END -->
 
 ### 独立开发变现周刊
 
