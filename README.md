@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一种有意思的数据结构-默克树（Merkle tree）](https://juejin.cn/post/7147616836060708895) | Mon Sep 26 2022 9:24 AM 
+- 🤗 [打通Web安全思路：为什么我们需要同源策略？](https://juejin.cn/post/7147638444355747870) | Mon Sep 26 2022 10:47 AM 
     <details><summary>展开描述 ...</summary> 
-    一种有意思的数据结构-默克树（Merkle tree） 默克树（Merkle tree）又叫hash树。 
+    浏览器安全可以分为三大块——Web 页面安全、浏览器网络安全和浏览器系统安全，所以本文我们就按照这个思路来做介绍 
     </details> 
 
-- 🎡 [Fluid 助力阿里云 Serverless 容器极致提速](https://juejin.cn/post/7147611429544132615) | Mon Sep 26 2022 9:02 AM 
+- 🎡 [线性回归大结局&lpar;岭&lpar;Ridge&rpar;、 Lasso回归原理、公式推导&rpar;，你想要的这里都有](https://juejin.cn/post/7147638051991191583) | Mon Sep 26 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
-    本文展示了一个在 ASK 环境中运行 Fluid 的完整数据访问示例，希望能够帮助大家了解 Fluid 的使用体验、运行效果以及 Serverless 和数据密集型应用结合的更多可行性。 
+    在本篇文章当中主要给大家深入介绍线性回归算法以及扩展的Lasso和Ridge回归，以及他们能够有效的原因！！ 
     </details> 
 
-- 🕯 [更新！更新！实现vue3虚拟DOM更新&amp;diff算法优化🎉 🎉](https://juejin.cn/post/7147318515056410638) | Sun Sep 25 2022 2:07 PM 
+- 🕯 [带你了解各种 I/O 模型](https://juejin.cn/post/7147631903875530789) | Mon Sep 26 2022 10:23 AM 
     <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第2篇文章，点击查看活动详情 写在前面 本文的目标是实现一个基本的 vue3 的虚拟DOM的节点渲染与更新，包含最基础的情况的处理，本文是系列文章 
+    作为一名软件开发者，I/O 是我们无法避免要关注的东西。今天我们就来看看目前常见的各种 I/O 模型。 
     </details> 
 
-- 🚀 [周边检索POI技术方案设计](https://juejin.cn/post/7147308676745789453) | Sun Sep 25 2022 1:29 PM 
+- 🚀 [【杰哥带你玩转Android自动化】学穿：ADB](https://juejin.cn/post/7147631074183479303) | Mon Sep 26 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
-    查找周边已经成为了我们生活中最常用的功能之一，做核酸、定外卖、找单车等等已经成为了这个时代的标识。本文就来探索一下周边检索POI的技术方案设计，希望能对有需要的开发者提供帮助。 
+    🤡所有Android自动化框架和工具中操作Android设备的功能实现 都基于 adb 和 无障碍服务AccessibilityService。本节我们来学穿前者，并实现一个简单的自动打卡jio本~ 
     </details> 
 
-- 💪 [Template Engine 源码阅读](https://juejin.cn/post/7147295790602387486) | Sun Sep 25 2022 12:38 PM 
+- 💪 [【React】使用useContext + useReducer实现一个简易的版状态管理工具](https://juejin.cn/post/7147628649242427406) | Mon Sep 26 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-    Template Engine 一个250行代码实现的python模版引擎，阅读其源码可以了解模版引擎的实现原理。 
+    前言 截止目前，我相信各位读者都接触了很多的hooks，什么useState，useRef不计其数。而观看这篇文章的，有可能是首页推荐点进来观看，想看看如何使用这两个hooks来实现状态管理的，或者说 
     </details> 
 <!-- juejin:END -->
 ### 少数派
