@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 17岁少年疑似《GTA6》泄露元凶；Meta被指秘密跟踪iPhone用户](https://www.freebuf.com/news/345478.html) | Fri Sep 23 2022 10:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    伦敦警方通报称，他们已经在牛津郡逮捕到了一名涉嫌网络攻击事件的 17 岁少年黑客，并表示他目前仍在被拘留，但没有公布任何其他细节。 
+    </details> 
+
 - 🦄 [FreeBuf周报 | Python曝出15年老洞可影响35万余项目；印尼通过数据隐私法](https://www.freebuf.com/news/345452.html) | Fri Sep 23 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
     我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🦄 [“羊了个羊”一直在被黑客攻击！](https://www.freebuf.com/articles/345430.html) | Fri Sep 23 2022 7:14 AM 
+- 🦅 [“羊了个羊”一直在被黑客攻击！](https://www.freebuf.com/articles/345430.html) | Fri Sep 23 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
     “羊了个羊”自上线以来就一直饱受黑客攻击，导致很长一段时间内游戏服务器崩溃，严重影响用户游戏体验。 
     </details> 
 
-- 🦅 [研究人员披露了 Oracle 云基础设施中的严重漏洞，现已修复](https://www.freebuf.com/news/345399.html) | Fri Sep 23 2022 5:24 AM 
+- 🪄 [研究人员披露了 Oracle 云基础设施中的严重漏洞，现已修复](https://www.freebuf.com/news/345399.html) | Fri Sep 23 2022 5:24 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员发现了一个严重的 Oracle 云基础设施 &lpar;OCI&rpar; 漏洞，目前已修复。 
     </details> 
 
-- 🪄 [Python 15年未修的漏洞可能影响 35万余个项目，速查](https://www.freebuf.com/news/345395.html) | Fri Sep 23 2022 3:43 AM 
+- 💻 [Python 15年未修的漏洞可能影响 35万余个项目，速查](https://www.freebuf.com/news/345395.html) | Fri Sep 23 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
     Python模块中存在一个长达15年未修复的安全漏洞，可能导致35万余个开源项目被利用。 
-    </details> 
-
-- 💻 [高防在防DDoS中的运用经验 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/345369.html) | Thu Sep 22 2022 11:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    高防服务器或高防IP往往被认为是不错的选择方案，二者有何差异？存在打不死的高防吗？ 
     </details> 
 <!-- freebuf:END -->
 
