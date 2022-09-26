@@ -590,19 +590,19 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [网页在线工具汇总](https://iui.su/1492/) | Sun Sep 25 2022 7:19 AM 
+- 🌊 [2022 年 9 月每日分享](https://iui.su/3838/) | Mon Sep 26 2022 6:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月26日Tab Wran... 
+    </details> 
+
+- 🫣 [网页在线工具汇总](https://iui.su/1492/) | Sun Sep 25 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
     常用在线工具文件传输在线听歌crx扩展今日热榜音乐下载打字练习看杂志看报纸匿名分享文本转音频PDF压缩高清壁纸链接提取图片转文字在线抠图加密解密快速搜索视频创作在线笔记缩短网址短视频解析写简历图... 
     </details> 
 
-- 🫣 [优雅的打字练习](https://iui.su/2943/) | Sun Sep 25 2022 7:04 AM 
+- 🌜 [优雅的打字练习](https://iui.su/2943/) | Sun Sep 25 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
     https://www.eletypes.com非常适合用于练习打字，也可当作消磨时间的解压工具，默认词组是英文，词组来自TOEFL、CET6、CET4。可以练习英文词组的熟悉度。点击chn，也... 
-    </details> 
-
-- 🌜 [2022 年 9 月每日分享](https://iui.su/3838/) | Sun Sep 25 2022 6:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。9月25日支付宝搜：消费券... 
     </details> 
 
 - 🏊 [慢图浏览 - 安卓图库](https://iui.su/3650/) | Fri Sep 23 2022 4:03 AM 
