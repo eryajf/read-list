@@ -440,29 +440,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [2022“中欧班列-进博号”从德国汉堡出发开往上海](https://www.cnbeta.com/articles/tech/1320969.htm) | Mon Sep 26 2022 8:05 PM 
+- 🕯 [《辛普森一家》第34季开场沙发恶搞向Google Chrome的T-Rex游戏致敬](https://hot.cnbeta.com/articles/comic/1320989.htm) | Mon Sep 26 2022 11:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间9月26日，前往上海的2022“中欧班列-进博号”从德国汉堡驶离。这已经是中国国际进口博览会参展展品连续第二年从汉堡搭中欧班列直达上海。该趟班列共计44个40英尺集装箱，其中14个装载着参加第五届进博会的汽车配件、管材等德国展品。在波兰马拉舍维奇重新编组后，班列将途径白俄罗斯、俄罗斯，由满洲里口岸入境，预计22天后抵达上海。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;刚刚过去的周日晚上，《辛普森一家》第34季开场，这部动画常青树以向Chrome浏览器的错误信息“跳跳恐龙”游戏致敬的形式，让剧中人物出现在Google复活节彩蛋当中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1320989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [受“菲奥娜”影响 加拿大大西洋沿岸仍有30万用户断电](https://www.cnbeta.com/articles/tech/1320967.htm) | Mon Sep 26 2022 7:34 PM 
+- 💼 [大众、Umicroe的合作显示循环型EV电池经济正在升温](https://www.cnbeta.com/articles/tech/1320987.htm) | Mon Sep 26 2022 11:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;截至当地时间9月26日上午，受热带风暴“菲奥娜”影响，加拿大大西洋沿岸地区恢复供电的比例仍然较低。据官方估计，断电用户仍有30万。在新斯科舍省，截至26日7时，该省仍有19.7万的用户没有恢复供电。由于停电和道路状况，全省许多公立学校均已停课。大多数省政府办公室当天也停止办公。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大众正在跟一家比利时技术集团合作以在欧洲生产电池材料，这是整个行业一系列交易中的最新一项，其目的是在汽车制造商转向电动汽车时创建一个能满足生产目标的循环电池经济。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [涉案金额400亿 特大虚拟币交易洗钱案告破](https://www.cnbeta.com/articles/tech/1320965.htm) | Mon Sep 26 2022 6:28 PM 
+- 💂 [Meta试图统一账户管理 让平台间切换变得更容易](https://www.cnbeta.com/articles/tech/1320985.htm) | Mon Sep 26 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;又一虚拟货币交易洗钱案告破，且涉案金额高达400亿元！9月26日，湖南衡阳县公安发布消息称，已破获了“9.15”特大洗钱犯罪集团案，在该案中，犯罪团伙涉嫌利用虚拟币交易进行洗钱，金额高达400亿元，目前已串并涉电信诈骗案件300余起。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Meta周一对外宣称，它正在测试新功能，该功能可以让用户通过一个界面管理Facebook和Instagram账户。&lt;strong&gt;由此可以看出，Meta试图统一各App，使彼此之间没有那么大的差异。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [“祝融号”巡视雷达揭秘火星乌托邦平原浅表结构](https://www.cnbeta.com/articles/science/1320963.htm) | Mon Sep 26 2022 5:24 PM 
+- 🚀 [RTX 30降价后：AMD RX 6000系显卡跟随大降 供应链称好戏刚开始](https://www.cnbeta.com/articles/tech/1320983.htm) | Mon Sep 26 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2021年5月，我国首次火星探测任务天问一号携带的“祝融号”火星车在乌托邦平原南部预选着陆区着陆，开启巡视探测工作。乌托邦平原是火星最大的撞击盆地，曾经可能是一个古海洋，预示着火星早期可能存在过宜居环境。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;RTX30系列显卡调降、发布新一代RTX40系列显卡新品后，AMD也宣布调降RX6000系列显卡售价，幅度最高达近3成。&lt;/strong&gt; AMD RX 6000显卡最新价目表：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《最后的生还者》HBO改编剧首段预告片分享](https://hot.cnbeta.com/articles/movie/1320961.htm) | Mon Sep 26 2022 5:24 PM 
+- 🎊 [《双人成行》开发商新游戏疑似使用姐妹双主角](https://hot.cnbeta.com/articles/game/1320981.htm) | Mon Sep 26 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;HBO公布了《最后的生还者》改编剧的首支预告片。这是索尼互动娱乐SIE成立的PlayStationProductions制作公司推出的首部电视剧。该公司将其原创游戏改编为电影和电视。该剧将在美国的HBO Max&lpar;和英国的Sky&rpar;播出，涵盖初代游戏的事件，以及可能基于《最后的生还者2》的部分内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;游戏开发商Hazelight是一家十分特别的公司，他们已经推出的三款游戏全部支持双人游玩，尤其是最新的《双人成行》更是火出游戏圈，让不少男女情侣也开始享受电子游戏带来的乐趣。那么，这家公司的近况如何？新游戏做的怎么样了呢？&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
