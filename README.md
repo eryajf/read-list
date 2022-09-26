@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [在苹果 iPhone 锁屏界面一键启动 App / 健康码 / 付款码 / 快捷指令：锁屏启动 &lpar;Lock Launcher&rpar;](http://www.mac52ipod.cn/post/apple-ios-iphone-app-lock-launcher.php) | Sat Sep 24 2022 5:11 AM 
+- 👨‍🏫 [有人评测和分析了为什么 Windows PC 笔记本电脑的续航时间远小于苹果 MacBook Pro/ Air](http://www.mac52ipod.cn/post/apple-silicone-mac-macbook-pro-air-windows-pc-laptop-battery-life.php) | Mon Sep 26 2022 1:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	前几天在 B 站看了个视频：我们找到了 Windows 电脑续航差的原因！苹果 M2 深度分析 …… 虽然这个标题「营销味儿」有点儿浓，但内容还行。&lt;/p&gt;&lt;p&gt;感兴趣的可以直接去 Bilibili 观看 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV18B4y1b7gj&quot; target=&quot;_blank&quot; title=&quot;我们找到了 Windows 电脑续航差的原因！苹果 M2 深度分析&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV18B4y1b7gj&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2594%25B5%25E6%25B1%25A0&quot; rel=&quot;tag&quot;&gt;电池&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [在苹果 iPhone 锁屏界面一键启动 App / 健康码 / 付款码 / 快捷指令：锁屏启动 &lpar;Lock Launcher&rpar;](http://www.mac52ipod.cn/post/apple-ios-iphone-app-lock-launcher.php) | Sat Sep 24 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Apple新闻之苹果将在欧洲、日韩等国家上调 App Store 的应用售价和内付费价格](http://www.mac52ipod.cn/post/apple-app-store-raise-prices-in-japan-europe-korea-and-more-countries.php) | Thu Sep 22 2022 4:51 AM 
+- 🦏 [Apple新闻之苹果将在欧洲、日韩等国家上调 App Store 的应用售价和内付费价格](http://www.mac52ipod.cn/post/apple-app-store-raise-prices-in-japan-europe-korea-and-more-countries.php) | Thu Sep 22 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Mac技巧之让你上网时自动通过网站的图形验证码：Noptcha: ReCAPTCHA  hCAPTCHA Solver](http://www.mac52ipod.cn/post/chrome-hcaptcha-recaptcha-extension-noptcha.php) | Tue Sep 20 2022 2:52 AM 
+- 🚀 [Mac技巧之让你上网时自动通过网站的图形验证码：Noptcha: ReCAPTCHA  hCAPTCHA Solver](http://www.mac52ipod.cn/post/chrome-hcaptcha-recaptcha-extension-noptcha.php) | Tue Sep 20 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [苹果给开发者和设计师们分享了很多 Sketch 和 PhotoShop 等软件可用的设计资源](http://www.mac52ipod.cn/post/apple-developer-designer-resources-sketch-photoshop-png-svg-pdf.php) | Sun Sep 18 2022 8:11 AM 
+- 🏊 [苹果给开发者和设计师们分享了很多 Sketch 和 PhotoShop 等软件可用的设计资源](http://www.mac52ipod.cn/post/apple-developer-designer-resources-sketch-photoshop-png-svg-pdf.php) | Sun Sep 18 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	苹果官网的开发者中心分享了图标、模板等很多设计资源，有 Sketch、PhotoShop、PNG、SVG、PDF 等对应资源下载。&lt;/p&gt;&lt;p&gt;感兴趣的直接去 &lt;u&gt;&lt;a href=&quot;https://developer.apple.com/design/resources/&quot; target=&quot;_blank&quot; title=&quot;Apple Design Resource - Apple Developer&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://developer.apple.com/design/resources/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 看看吧&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%25AE%25BE%25E8%25AE%25A1&quot; rel=&quot;tag&quot;&gt;设计&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [苹果 iPhone 13 和 iPhone 14 系列的手机电池容量](http://www.mac52ipod.cn/post/apple-iphone-13-14-battery-capacities.php) | Thu Sep 15 2022 4:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果每次发布会都只说手机续航时间提高了 x 小时，不说手机电池容量具体是多少。这里列一下做个对比吧：&lt;/p&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;iPhone 13 mini: 2,406 mAh&lt;/li&gt;&lt;li&gt;iPhone 13: 3,227 mAh&lt;/li&gt;&lt;li&gt;iPhone 13 Pro: 3,095 mAh&lt;/li&gt;&lt;li&gt;iPhone 13 Pro Max: 4,352 mAh&lt;/li&gt;&lt;hr/&gt;&lt;li&gt;iPhone 14: 3,279 mAh&lt;/li&gt;&lt;li&gt;iPhone 14 Plus: 4,325 mAh&lt;/li&gt;&lt;li&gt;iPhone 14 Pro: 3,200 mAh&lt;/li&gt;&lt;li&gt;iPhone 14 Pro Max: 4,323 mAh&lt;/li&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2594%25B5%25E6%25B1%25A0&quot; rel=&quot;tag&quot;&gt;电池&lt;/a&gt;
 
  
     </details> 
