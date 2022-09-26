@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【jvm】通过JDBC为例谈谈双亲委派模型的破坏](https://juejin.cn/post/7147498884611178527) | Mon Sep 26 2022 1:46 AM 
+- 🤗 [Elasticsearch：在 Java 客户端中使用 truststore 来创建 HTTPS 连接](https://juejin.cn/post/7147534830735982628) | Mon Sep 26 2022 4:06 AM 
     <details><summary>展开描述 ...</summary> 
-    我们都知道类加载的双亲委派模型 双亲委派模型并不是一个强制约束模型,而是java设计者推荐给开发者的类加载实现 
+    在我之前的文章 “Elasticsearch：使用 Elasticsearch Java client 8.0 来连接带有 HTTPS 的集群” 里，我使用了两种方法，一直是使用 token 的方式， 
     </details> 
 
-- 🎡 [Flutter 构建一个 todo list 应用【✅】](https://juejin.cn/post/7147496701065068574) | Mon Sep 26 2022 1:38 AM 
+- 🎡 [MVC 架构解析 - 控制器（Controller）篇](https://juejin.cn/post/7147533724102590478) | Mon Sep 26 2022 4:01 AM 
     <details><summary>展开描述 ...</summary> 
-    今天，我们将使用 Flutter 构建一个动态的 todo list 的应用。文末附上完整的代码，新建项目之后，复制粘贴即可运行～ 
+    今天我们继续学习 MVC 架构，主要内容就是 MVC 架构的第三部分——控制器（Controller） 控制器用于接收请求，校验参数，调用 Model 层获取业务数据，构造和绑定上下文，并转给 Vi 
     </details> 
 
-- 🕯 [iOS小技能： 日历的使用（案例：两个时间的比较、获取最近30天的数据）](https://juejin.cn/post/7147496036125114404) | Mon Sep 26 2022 1:35 AM 
+- 🕯 [手摸手提桶跑路——LeetCode28. 找出字符串中第一个匹配项的下标](https://juejin.cn/post/7147533464495980575) | Mon Sep 26 2022 4:01 AM 
     <details><summary>展开描述 ...</summary> 
-    “我正在参加「掘金·启航计划」” 引言 预备知识：日历标识符NSCalendarIdentifier I 日历的使用 1.1 两个时间的比较（NSDateComponents） 案例1: 计算两个时间 
+    给你两个字符串haystack和needle，请你在haystack字符串中找出needle字符串的第一个匹配项的下标（下标从 0 开始）。如果needle不是haystack的一部分，则返回 -1。 
     </details> 
 
-- 🚀 [精准用户画像！商城用户分群2.0！](https://juejin.cn/post/7147495774157275150) | Mon Sep 26 2022 1:34 AM 
+- 🚀 [要小心点，不要掉 Recomposition 带来的性能坑了](https://juejin.cn/post/7147533149512138766) | Mon Sep 26 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-    客户分群（客户细分）对于绘制用户画像、构建个性化推广、产品和服务策略，都非常重要。本文讲解此过程中，多种机器学习聚类算法的建模流程与评估模式。 
+    Jetpack Compose 写起 UI 来毋庸置疑的是快。它的接口设计简单，但涉及了很多平时不会用到的新概念，很多问题都可能是没搞懂这些概念而产生的。 今天我们来聊聊 Recomposition。 
     </details> 
 
-- 💪 [ZooKeeper之Java API的基本使用以及常见应用场景的实现](https://juejin.cn/post/7147491217847091208) | Mon Sep 26 2022 1:16 AM 
+- 💪 [纯CSS实现酷炫的滑动开关按钮【介绍CSS变量】](https://juejin.cn/post/7147530811938439175) | Mon Sep 26 2022 3:51 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍ZooKeeper中Java API的基本使用，以及对Zookeeper常见应用场景的具体实现。 
+    纯CSS通过自定义样式，借助:checked伪类实现switch开关效果的按钮。 为了便于修改和调节，使用了css变量控制按钮的大小。并添加属性变化的动画效果... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
