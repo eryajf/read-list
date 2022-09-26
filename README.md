@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现绿茶可改善肠道健康并可降低血糖](https://www.cnbeta.com/articles/science/1320865.htm) | Mon Sep 26 2022 11:12 AM 
+- 🕯 [一加Nord Watch智能手表配置规格在印度上市前曝光](https://www.cnbeta.com/articles/tech/1320889.htm) | Mon Sep 26 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项研究表明，有可能将代谢综合征的风险降到最低。根据最近对具有一系列心脏病风险因素的人进行的研究，摄入绿茶提取物四周可以降低血糖水平，并通过减少炎症和&amp;quot;肠漏&amp;quot;增强肠道健康。据研究人员称，这项研究是首次研究绿茶的抗炎特性是否可能对与代谢综合征有关的健康风险有保护作用，这种疾病每年影响300多万美国人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;OnePlus正准备在印度推出其首款Nord品牌的智能手表，即OnePlus Nord Watch。该品牌之前已经通过一个官方网站页面披露了OnePlus Nord Watch的关键功能，今天他们又分享了更多。上周，我们看到了泄露的OnePlus Nord Watch的渲染图，首先展示了这款智能手表的设计，随后泄露的渲染图披露了其可选的颜色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320889.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [罗永浩：小米功德无量让中国山寨手机消失 同价全球最好](https://www.cnbeta.com/articles/tech/1320863.htm) | Mon Sep 26 2022 11:08 AM 
+- 💼 [王一博《长空之王》预售票房破三千万 国庆影院见](https://hot.cnbeta.com/articles/movie/1320887.htm) | Mon Sep 26 2022 12:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近几年来，国内手机市场逐渐稳定，以华为、小米等为首的手机厂商，已经稳稳占据了国内绝大部分手机市场。而小米手机凭借高性价比，在国内外均取得了相当不错的手机市场份额，甚至一度占据印度手机市场份额第一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据猫眼专业版数据，由王一博、胡军、于适领衔主演，周冬雨特别出演的电影《长空之王》预售总票房已突破3000万。在电影《长空之王》中，为了试出中国自己的隐身战机，试飞员们面对空中停车、被降落伞拖拽、红视等惊险场面，他们始终把保护飞机数据放在第一位，在危险中坚守信念完成任务。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [年内股价暴跌逾45% 网络安全业务能否助黑莓挽回颓势？](https://www.cnbeta.com/articles/tech/1320861.htm) | Mon Sep 26 2022 11:06 AM 
+- 💂 [国内首款骁龙8 Gen2旗舰来了 小米13系列正式入网](https://www.cnbeta.com/articles/tech/1320885.htm) | Mon Sep 26 2022 12:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;黑莓&lpar;BB.US&rpar;将于美东时间9月27日&lpar;周二&rpar;美股盘后公布2023财年第二季度业绩。市场预计黑莓Q2每股亏损7美分，营收为1.658亿美元。上年同期，该公司每股亏损6美分，营收为1.75亿美元。今年以来，黑莓股价下跌了45%以上，过去12个月下跌了近50%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年新一轮安卓旗舰机发布会又快开始了，这次的亮点是高通的骁龙8 Gen2，国内应该是小米13系列首发，现在该系列手机正式入网，这将是国内首款公示的骁龙8 Gen2新机。来自数码闲聊站的消息称，&lt;strong&gt;小米13系列正式入网，国内首款公示的骁龙8 Gen2新机。2210132C型号M2，应该对应小米13 Pro，&lt;/strong&gt;配备全新充电器依旧是支持120W超级快充。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [数字货币？数字黄金？通胀对冲？无相关性资产？比特币的概念今年被彻底跌没了](https://www.cnbeta.com/articles/tech/1320859.htm) | Mon Sep 26 2022 11:04 AM 
+- 🚀 [网友围观禁野2年后的华农兄弟 本人回应：坦然面对 乐观生活](https://hot.cnbeta.com/articles/movie/1320883.htm) | Mon Sep 26 2022 11:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;比特币投资者正在为数字货币市场寻找一个新的故事。虚拟货币、数字黄金、通胀对冲、无相关性资产、价值储存，这些都是比特币曾被赋予的“头衔”。而如今，比特币仅仅就是比特币。最近几天，Twitter上许多人发布1 BTC=1 BTC，这表示在比特币价格大幅下跌的时候，比特币的价值实际上不再重要，它的报价是固定的，理论上应该可以在长期内起到支撑价格的作用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2020年2月，“禁野令”出台，竹鼠、果子狸等动物不在饲养范围内。曾因“吃竹鼠的一百种理由”走红的华农兄弟，人生一瞬间从高处坠落。当年6月，他们决定分批次将养殖竹鼠放生，1000只竹鼠用了2~3天的时间才放生完。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1320883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [英国电动车快充费几乎赶上燃油车加油费](https://www.cnbeta.com/articles/tech/1320857.htm) | Mon Sep 26 2022 11:03 AM 
+- 🎊 [特斯拉德国工厂发生火灾：持续5个小时无人员伤亡](https://www.cnbeta.com/articles/tech/1320881.htm) | Mon Sep 26 2022 11:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于英国能源价格高涨，用公共充电桩给电动车快速充电的花销已经和燃油车加油费差不多。英国汽车服务企业RAC有限公司调查显示，由于英国能源价格高涨，用公共充电桩给电动车快速充电的花销已经和燃油车加油费差不多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉德国工厂今日发生了火灾，幸运的是并没有人员伤亡报告。据消防部门称，当地时间周一凌晨3点30分（北京时间上午9点30分），特斯拉在德国的汽车工厂发生了火灾。在一处室外回收点，存有800立方米的纸板、纸张和木屑着火，随后当地消防部门接到了报警电话。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
