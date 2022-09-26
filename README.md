@@ -353,9 +353,10 @@
     旨在助力成都打造网络安全之城，共同构建西部地区网络安全新生态，促进全国网络安全产业健康发展。 
     </details> 
 
-- 💻 [FreeBuf早报 | 17岁少年疑似《GTA6》泄露元凶；Meta被指秘密跟踪iPhone用户](https://www.freebuf.com/news/345478.html) | Fri Sep 23 2022 10:23 AM 
+- 💻 [DotNet安全-IIS请求流程及渗透测试中的应用](https://www.freebuf.com/articles/web/345527.html) | Sun Sep 25 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-    伦敦警方通报称，他们已经在牛津郡逮捕到了一名涉嫌网络攻击事件的 17 岁少年黑客，并表示他目前仍在被拘留，但没有公布任何其他细节。 
+    DotNet安全-IIS请求流程及渗透测试中的应用，常见IIS后门利用。
+团队公众号 7bits安全团队 ，欢迎关注~ 
     </details> 
 <!-- freebuf:END -->
 
