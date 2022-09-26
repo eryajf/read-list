@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [python多维列表总是只转为一维数组相关问题](https://juejin.cn/post/7147591475293847560) | Mon Sep 26 2022 7:45 AM 
+- 🤗 [HTTP 请求头中的 Host 你了解吗](https://juejin.cn/post/7147605396872495135) | Mon Sep 26 2022 8:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    在一个的服务器中，可能拥有多个 Host 的应用服务，此时仅仅通过 IP 无法访问到对应的服务，可通过 Host 来进行定位。 Host 是唯一客户端必须携带的请求头，如果缺失了该请求头则会返回 40 
+    </details> 
+
+- 🎡 [Swift - LeetCode - 赎金信](https://juejin.cn/post/7147605333710471205) | Mon Sep 26 2022 8:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    我正在参加「掘金·启航计划」 题目 给你两个字符串：ransomNote 和 magazine，判断 ransomNote 能不能由 magazine 里面的字符构成。 如果可以，返回 true；否则 
+    </details> 
+
+- 🕯 [Redis 持久化策略浅析](https://juejin.cn/post/7147602740405862407) | Mon Sep 26 2022 8:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文深入浅出介绍 Redis 持久化机制，描述清晰，图示丰富，并给出很多参考信息。通过阅读本文，读者可以快速、有效地了解Redis 的持久化机制，更好、更高效地使用 Redis。 
+    </details> 
+
+- 🚀 [python多维列表总是只转为一维数组相关问题](https://juejin.cn/post/7147591475293847560) | Mon Sep 26 2022 7:45 AM 
     <details><summary>展开描述 ...</summary> 
     上述代码最后一排报错 该报错是指y_data转为array之后变成了一维数组，而我要取三维的数据，两者维度不符合。 于是我做了这样一个工作： 得到如下输出： 原本y_data当中应该所有数组是同样的s 
     </details> 
 
-- 🎡 [[陈同学i前端] 手写Vue3 | Diff算法-基础](https://juejin.cn/post/7147586445266386958) | Mon Sep 26 2022 7:26 AM 
+- 💪 [[陈同学i前端] 手写Vue3 | Diff算法-基础](https://juejin.cn/post/7147586445266386958) | Mon Sep 26 2022 7:26 AM 
     <details><summary>展开描述 ...</summary> 
     上一章节文章中我们学习了Vue3的渲染器相关概念与知识，接下来我们将继续上一节内容的学习，通过本篇文章你能快速掌握Diff算法，实现Vue的新旧子节点比较更新 
-    </details> 
-
-- 🕯 [APICloud可视化编程（二）](https://juejin.cn/post/7147583742050041892) | Mon Sep 26 2022 7:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    上一期我们为大家讲解低代码在国内市场的当前现状以及APICloud可视化开发工具的组件类型和特点。相信大家对可视化编程有了一个整体的了解，那么今天带大家更进一步的使用组件。 下载开发工具 登录APIC 
-    </details> 
-
-- 🚀 [移动端没有控制台该如何调试?](https://juejin.cn/post/7147583032130535455) | Mon Sep 26 2022 7:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第3篇文章，点击查看活动详情” 移动端开发如何在手机上进行调试 相信在开发移动端的时候,都会有这样的问题,调试的时候是在浏览器调试,浏览器有控制 
-    </details> 
-
-- 💪 [小白都能听懂的最新版Babel配置探索——保姆级教学](https://juejin.cn/post/7147582343471955999) | Mon Sep 26 2022 7:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    Babel保姆级教学，从零开始让你进入Babel的大门，只要认真学习并且跟着我实践，从此再也不用担心看不懂Babel的配置了~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
