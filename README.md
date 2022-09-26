@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Kable - API 产品的基于使用量的计费](https://xinquji.com/posts/179812?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:18 AM 
+- 👀 [Texti.app - 存在于您浏览器中的人工智能！](https://xinquji.com/posts/179814?utm_campaign=xinquji-rss) | Tue Sep 27 2022 7:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     存在于您浏览器中的人工智能！  
+    </details> 
+
+- 🥷 [Formatr - 10 倍您的博客内容质量 - 像 Wirecutter.com 这样的品牌](https://xinquji.com/posts/179813?utm_campaign=xinquji-rss) | Tue Sep 27 2022 7:08 AM 
+    <details><summary>展开描述 ...</summary> 
+     10 倍您的博客内容质量 - 像 Wirecutter.com 这样的品牌  
+    </details> 
+
+- 💼 [Kable - API 产品的基于使用量的计费](https://xinquji.com/posts/179812?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
      API 产品的基于使用量的计费  
     </details> 
 
-- 🥷 [Airbnb Guidebook - 让您的爱彼迎客人拥有最愉快的入住体验](https://xinquji.com/posts/179811?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:16 AM 
+- 🦅 [Airbnb Guidebook - 让您的爱彼迎客人拥有最愉快的入住体验](https://xinquji.com/posts/179811?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
      让您的爱彼迎客人拥有最愉快的入住体验  
     </details> 
 
-- 💼 [On With Kara Swisher - 深入了解使有权势的人打勾的原因](https://xinquji.com/posts/179810?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:16 AM 
+- 😺 [On With Kara Swisher - 深入了解使有权势的人打勾的原因](https://xinquji.com/posts/179810?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
      深入了解使有权势的人打勾的原因  
-    </details> 
-
-- 🦅 [Neble - 使用 AI 驱动的心智模型更快地学习](https://xinquji.com/posts/179809?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:13 AM 
-    <details><summary>展开描述 ...</summary> 
-     使用 AI 驱动的心智模型更快地学习  
-    </details> 
-
-- 😺 [AppFollow 8.0 - 制定以数据为依据的决策以构建巨大的客户体验](https://xinquji.com/posts/179808?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:13 AM 
-    <details><summary>展开描述 ...</summary> 
-     制定以数据为依据的决策以构建巨大的客户体验  
     </details> 
 <!-- xinquji:END -->
