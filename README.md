@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [欧盟电信运营商呼吁大型科技企业分担5G网络成本](https://www.cnbeta.com/articles/tech/1320837.htm) | Mon Sep 26 2022 10:08 AM 
+- 🕯 [研究发现绿茶可改善肠道健康并可降低血糖](https://www.cnbeta.com/articles/science/1320865.htm) | Mon Sep 26 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周一，&lt;strong&gt;德国电信（Dustche Telekom）、Orange、西班牙电信（Telefonica）和其它 13 家欧洲电信运营商，以能源危机和欧盟气候变化目标为由、致力于推动大型科技企业共同分担网络成本。&lt;/strong&gt;据悉，本次呼吁正值欧盟委员在立法提案之前征求双方的反馈意见。若顺利获得通过，新提案将强制科技企业帮助担负在欧盟 27 个成员国推出 5G 和铺设光缆的费用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项研究表明，有可能将代谢综合征的风险降到最低。根据最近对具有一系列心脏病风险因素的人进行的研究，摄入绿茶提取物四周可以降低血糖水平，并通过减少炎症和&amp;quot;肠漏&amp;quot;增强肠道健康。据研究人员称，这项研究是首次研究绿茶的抗炎特性是否可能对与代谢综合征有关的健康风险有保护作用，这种疾病每年影响300多万美国人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1320865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14 Pro灵动岛的出现让使用自定义应用程序的图标不再令人讨厌](https://www.cnbeta.com/articles/tech/1320835.htm) | Mon Sep 26 2022 9:47 AM 
+- 💼 [罗永浩：小米功德无量让中国山寨手机消失 同价全球最好](https://www.cnbeta.com/articles/tech/1320863.htm) | Mon Sep 26 2022 11:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为定制iPhone的一种手段，许多用户希望在他们的主屏幕上使用自定义的应用程序图标。iOS本身并没有提供一个原生的选项来轻松改变和使用自定义的应用程序图标，但值得庆幸的是，新的iPhone 14 Pro和灵动岛使其更容易使用一种变通方法来做到这一点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近几年来，国内手机市场逐渐稳定，以华为、小米等为首的手机厂商，已经稳稳占据了国内绝大部分手机市场。而小米手机凭借高性价比，在国内外均取得了相当不错的手机市场份额，甚至一度占据印度手机市场份额第一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [奥普拉·温弗瑞与Apple TV+结束合作关系](https://www.cnbeta.com/articles/tech/1320833.htm) | Mon Sep 26 2022 9:44 AM 
+- 💂 [年内股价暴跌逾45% 网络安全业务能否助黑莓挽回颓势？](https://www.cnbeta.com/articles/tech/1320861.htm) | Mon Sep 26 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Apple TV+方面已经证实，它与奥普拉-温弗瑞的最初多年协议不再续约，尽管人们相信她将继续与其它流媒体公司继续合作。奥普拉-温弗瑞是最早与Apple TV+签订协议的大明星之一，也是2019年3月苹果发布会介绍电视内容服务单元中的一个亮点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;黑莓&lpar;BB.US&rpar;将于美东时间9月27日&lpar;周二&rpar;美股盘后公布2023财年第二季度业绩。市场预计黑莓Q2每股亏损7美分，营收为1.658亿美元。上年同期，该公司每股亏损6美分，营收为1.75亿美元。今年以来，黑莓股价下跌了45%以上，过去12个月下跌了近50%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [领克09 EM-P即将开订：与沃尔沃XC90同平台打造  纯电能跑180公里](https://www.cnbeta.com/articles/tech/1320831.htm) | Mon Sep 26 2022 9:42 AM 
+- 🚀 [数字货币？数字黄金？通胀对冲？无相关性资产？比特币的概念今年被彻底跌没了](https://www.cnbeta.com/articles/tech/1320859.htm) | Mon Sep 26 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;领克09 EM-P车型将于9月29日18:09开启预订&lt;/strong&gt;。值得注意的是，目前在售的领克09拥有PHEV插电混动版，领克09 EM-P是该车的新款车型，采用了最新的家族化命名方式，同时也换装了领克最新的混动系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;比特币投资者正在为数字货币市场寻找一个新的故事。虚拟货币、数字黄金、通胀对冲、无相关性资产、价值储存，这些都是比特币曾被赋予的“头衔”。而如今，比特币仅仅就是比特币。最近几天，Twitter上许多人发布1 BTC=1 BTC，这表示在比特币价格大幅下跌的时候，比特币的价值实际上不再重要，它的报价是固定的，理论上应该可以在长期内起到支撑价格的作用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [电动汽车传导充电连接装置系列国家标准通过审查](https://www.cnbeta.com/articles/tech/1320829.htm) | Mon Sep 26 2022 9:39 AM 
+- 🎊 [英国电动车快充费几乎赶上燃油车加油费](https://www.cnbeta.com/articles/tech/1320857.htm) | Mon Sep 26 2022 11:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据工业和信息化部9月26日消息，9月25日，全国汽车标准化技术委员会电动车辆分技术委员会标准审查会以线上和线下相结合的方式召开，电动车辆分标委委员、观察员和标准起草单位专家共90余人参加会议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由于英国能源价格高涨，用公共充电桩给电动车快速充电的花销已经和燃油车加油费差不多。英国汽车服务企业RAC有限公司调查显示，由于英国能源价格高涨，用公共充电桩给电动车快速充电的花销已经和燃油车加油费差不多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
