@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现失眠会增加老年人罹患痴呆症的风险](https://www.cnbeta.com/articles/science/1321363.htm) | Tue Sep 27 2022 12:37 PM 
+- 🕯 [基于中性镱原子的擦除转换方案 极大地增强了量子计算机的纠错能力](https://www.cnbeta.com/articles/science/1321375.htm) | Tue Sep 27 2022 1:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;最近的研究表明，心理障碍是痴呆症和其他认知障碍的一个重要合并症。根据加拿大最近的研究，有失眠症的老年人更有可能出现记忆衰退和长期认知障碍，包括痴呆症。&lt;/strong&gt;发表在《睡眠》杂志上的这项研究是基于超过26000名45至85岁的加拿大老龄化纵向研究人员的数据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在 2022 年 8 月 9 日发表于《自然通讯》期刊上的一篇文章中，&lt;strong&gt;由普林斯顿大学的电气与计算机工程副教授 Jeff Thompson 带领的一支研究团队，详细介绍了一种可让量子计算机更有效纠错的新方法。&lt;/strong&gt;据悉，尽管量子计算机具有化解传统计算机难以搞定的复杂问题的巨大潜力，但要求极高的敏感运行条件，也成为了影响量子计算机普及的一大阻碍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [软星宣布《轩辕剑柒》登陆Switch：主机性能遭遇新挑战](https://hot.cnbeta.com/articles/game/1321361.htm) | Tue Sep 27 2022 12:33 PM 
+- 💼 [推特起诉马斯克一案将于10月17日开庭 双方证词是关键](https://www.cnbeta.com/articles/tech/1321373.htm) | Tue Sep 27 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，软星的合作开发商eastasissoft宣布，&lt;strong&gt;将会把软星近年发售的四款游戏带到Switch平台，其中就包含了《轩辕剑柒》。&lt;/strong&gt;《轩辕剑柒》是《轩辕剑》系列的第十三部作品，由大宇旗下DOMO小组开发制作，采用虚幻4引擎开发，并运用了诸如动作捕捉等技术。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1321361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;针对推特&lpar;TWTR.US&rpar;与埃隆·马斯克之间的诉讼的庭审将于10月17日开始。Wedbush指出，推特首席执行官阿格拉瓦尔&lpar;Parag Agrawal&rpar;和马斯克的证词将是为期五天的庭审中的关键。&lt;/strong&gt;分析师Dan Ives表示：“每个人的证词都很重要，再加上推特&lpar;TWTR.US&rpar;前安全主管扎特科&lpar;Peiter&amp;quot;Mudge&amp;quot;Zatko&rpar;的不确定性，这仍是即将到来的庭审的另一个关键变量。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AMD锐龙9 7950X实测：节能模式功耗超低 性能还比12代酷睿强](https://www.cnbeta.com/articles/tech/1321359.htm) | Tue Sep 27 2022 12:32 PM 
+- 💂 [传台积电遭大客户砍单](https://www.cnbeta.com/articles/tech/1321371.htm) | Tue Sep 27 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD Zen4锐龙7000处理器将于今晚正式开卖，国行价格如下，锐龙9 7950X：5499元、锐龙9 7900X：4299元、锐龙7 7700X：2999元、锐龙5 7600X：2249元。在对锐龙9 7950X的测试中，PCworld注意到了这次新增的节能模式（Eco Mode）。原来，7950X的TDP是170W，但使用节能模式可以设定105W和65W两个新的功耗挡位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，台积电&lpar;TSM.US&rpar;的大客户已开始削减2023年的订单，这可能导致该公司在明年1月的投资者会议上修改其营收指引。截至发稿，台积电盘前涨1.01%，报73.75美元。据了解，台积电的主要客户包括苹果&lpar;AAPL.US&rpar;、AMD&lpar;AMD.US&rpar;、博通&lpar;AVGO.US&rpar;、英伟达&lpar;NVDA.US&rpar;等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [垂直层叠加厚电极方案有望兼顾电池容量和快充速度提升](https://www.cnbeta.com/articles/science/1321357.htm) | Tue Sep 27 2022 12:26 PM 
+- 🚀 [三星在最新的One UI 5.0测试版中复制了iOS 16的锁屏定制功能](https://www.cnbeta.com/articles/tech/1321369.htm) | Tue Sep 27 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 2022 年 9 月 26 日发表于《美国国家科学院院刊》（PNAS）上的一篇文章中，&lt;strong&gt;德州大学奥斯汀分校的一支研究团队，详细介绍了《用于高密度厚电池电极的垂直组装纳米片网络》。&lt;/strong&gt;为了提升快充速度和增加续航里程，科学家们在实验中提出了一种很有前途的设计。突破的关键，在于运用由垂直堆叠层组成的加厚电极，以更容易地传输锂离子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iOS 16的最主要功能之一是锁屏定制功能。该功能与iPhone 14 Pro上的&amp;quot;灵动岛&amp;quot;相结合，为用户如何定制锁屏和创造真正属于自己的个性化内容提供了新的思路，从一开始推出就收到认可和欢迎。现在，似乎三星已经复制了一些功能，并在最新的One UI 5.0测试版中引入了这些功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [袁隆平生前牵挂的水稻亩产再创新高 将筛选耐盐碱水稻新品种](https://www.cnbeta.com/articles/science/1321355.htm) | Tue Sep 27 2022 12:24 PM 
+- 🎊 [75岁施瓦辛格出席活动 大方凹健身Pose宝刀未老](https://hot.cnbeta.com/articles/movie/1321367.htm) | Tue Sep 27 2022 12:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;第五个中国农民丰收节刚过，袁隆平生前牵挂的兴安盟水稻传来测产捷讯。9月26日至27日，第三方测产专家组对内蒙古兴安盟袁隆平院士工作站多个基地粳稻、耐盐碱水稻进行测算，其中“157”亩产量达717.56公斤，“1189”亩产量达540.3公斤，均创下新高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间2022年9月26日，德国慕尼黑，75岁施瓦辛格现身德国慕尼黑出席活动，现场他大方凹健身Pose宝刀未老。“我认为，早在 70 年代和 80 年代，我们就犯了逐步淘汰核电的重大错误，你们让自己变得非常、非常脆弱。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
