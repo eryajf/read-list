@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [面试悖论](https://www.v2ex.com/t/883375#reply2) | Tue Sep 27 2022 1:49 PM
-- 🤗 [如何“定时/时时同步 mssql mysql postgresql 数据到统一的表中”](https://www.v2ex.com/t/883374#reply0) | Tue Sep 27 2022 1:48 PM
-- 🎭 [为啥 redux action 需要能够 serializable?](https://www.v2ex.com/t/883373#reply0) | Tue Sep 27 2022 1:43 PM
-- 🥷 [腾讯直接云封域名！还甩锅给相关部门！再次给大家提个醒！使用腾讯云的注意了！](https://www.v2ex.com/t/883369#reply2) | Tue Sep 27 2022 1:31 PM
-- 🐵 [Python 有没有优雅的修改使用第三方库的办法？](https://www.v2ex.com/t/883364#reply6) | Tue Sep 27 2022 12:42 PM<!-- v2ex:END -->
+- 🥸 [今年没事做，想找个项目合作，资金我出。](https://www.v2ex.com/t/883379#reply0) | Tue Sep 27 2022 2:26 PM
+- 🤗 [面试悖论](https://www.v2ex.com/t/883375#reply2) | Tue Sep 27 2022 1:49 PM
+- 🎭 [如何“定时/时时同步 mssql mysql postgresql 数据到统一的表中”](https://www.v2ex.com/t/883374#reply5) | Tue Sep 27 2022 1:48 PM
+- 🥷 [为啥 redux action 需要能够 serializable?](https://www.v2ex.com/t/883373#reply2) | Tue Sep 27 2022 1:43 PM
+- 🐵 [腾讯直接云封域名！还甩锅给相关部门！再次给大家提个醒！使用腾讯云的注意了！](https://www.v2ex.com/t/883369#reply10) | Tue Sep 27 2022 1:31 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
