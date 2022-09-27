@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [re_cloud - 您的数据控制中心](https://xinquji.com/posts/179864?utm_campaign=xinquji-rss) | Wed Sep 28 2022 7:13 AM 
+- 👀 [Radiance - 在团队之间传递知识的视频工具](https://xinquji.com/posts/179886?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-     您的数据控制中心  
+     在团队之间传递知识的视频工具  
     </details> 
 
-- 🥷 [POS Go - Shopify 最强大、最先进的一体式 POS 设备](https://xinquji.com/posts/179863?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:44 AM 
+- 🥷 [Bobo Color Book - 儿童绘本](https://xinquji.com/posts/179885?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
-     Shopify 最强大、最先进的一体式 POS 设备  
+     儿童绘本  
     </details> 
 
-- 💼 [Trendoo - 全球首个 Web3 照片和视频共享社交平台](https://xinquji.com/posts/179862?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:33 AM 
+- 💼 [Student Hub OS - 一体化学生操作系统](https://xinquji.com/posts/179884?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
-     全球首个 Web3 照片和视频共享社交平台  
+     一体化学生操作系统  
     </details> 
 
-- 🦅 [Le Digest - 一封简单的每日电子邮件，让您以正确的方式开始新的一天](https://xinquji.com/posts/179861?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:32 AM 
+- 🦅 [Quest - 在几分钟内构建带有 NFT 奖励的测验](https://xinquji.com/posts/179883?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-     一封简单的每日电子邮件，让您以正确的方式开始新的一天  
+     在几分钟内构建带有 NFT 奖励的测验  
     </details> 
 
-- 😺 [Antimatter Studios - 适合您课堂的协作模因工作室](https://xinquji.com/posts/179860?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:30 AM 
+- 😺 [Swoop - 最新趋势，花更少的钱](https://xinquji.com/posts/179882?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-     适合您课堂的协作模因工作室  
+     最新趋势，花更少的钱  
     </details> 
 <!-- xinquji:END -->
