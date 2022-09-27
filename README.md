@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [携带抗生素分子的微型机器人剿灭了实验鼠肺部的致病细菌](http://jandan.net/p/111399) | Tue Sep 27 2022 4:54 AM 
+- 🚀 [故事：午夜婚礼的秘密](http://jandan.net/p/111401) | Tue Sep 27 2022 12:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    一个根据真实事件改编的恐怖小说。 
+    </details> 
+
+- 🙉 [携带抗生素分子的微型机器人剿灭了实验鼠肺部的致病细菌](http://jandan.net/p/111399) | Tue Sep 27 2022 4:54 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员还确定，微型机器人比静脉注射抗生素更有效 
     </details> 
 
-- 🙉 [埃塞俄比亚数百万农民相信，是上帝决定了他们的产量](http://jandan.net/p/111340) | Tue Sep 27 2022 4:52 AM 
+- 🎉 [埃塞俄比亚数百万农民相信，是上帝决定了他们的产量](http://jandan.net/p/111340) | Tue Sep 27 2022 4:52 AM 
     <details><summary>展开描述 ...</summary> 
     农民的宗教信仰越虔诚，他们的风险偏好就越高 
     </details> 
 
-- 🎉 [国内的宠物克隆公司：世界首只北极狼，出生已满百天](http://jandan.net/p/111398) | Tue Sep 27 2022 4:19 AM 
+- 🐲 [国内的宠物克隆公司：世界首只北极狼，出生已满百天](http://jandan.net/p/111398) | Tue Sep 27 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
     过段时间会送到哈尔滨极地馆 
     </details> 
 
-- 🐲 [今日好价 0927](http://jandan.net/p/111397) | Tue Sep 27 2022 2:26 AM 
+-  [今日好价 0927](http://jandan.net/p/111397) | Tue Sep 27 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：42 
-    </details> 
-
--  [上夜班抑郁烦躁？别在深夜吃饭](http://jandan.net/p/111344) | Mon Sep 26 2022 2:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    饭点可以影响精神健康 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
