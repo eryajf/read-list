@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Rust v10补丁预期将在与Linux 6.1合并前发布](https://www.cnbeta.com/articles/tech/1321419.htm) | Tue Sep 27 2022 5:20 PM 
+- 🕯 [英特尔和三星正准备推出&quot;可滑动拉伸&quot;PC形态](https://www.cnbeta.com/articles/tech/1321433.htm) | Tue Sep 27 2022 7:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在Linux内核中领导Rust编程语言基础支持工作的Miguel Ojeda今天发布了这些补丁的第十个版本。这些Rust v10补丁预计最快将在下周与Linux 6.1内核合并的窗口中进入主线。&lt;/strong&gt;对Linux内核的Rust v10支持包括27个补丁，共计12.5万行新代码。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星显示器和英特尔正在开发&amp;quot;可滑动&amp;quot;PC。在英特尔今天的创新主题演讲中，三星显示器公司首席执行官JS Choi出现在舞台上并展示了一台原型电脑，它可以从13英寸的平板电脑拉伸成17英寸的显示器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Intel 13代酷睿国行价格公布 有的涨400、有的降100](https://www.cnbeta.com/articles/tech/1321417.htm) | Tue Sep 27 2022 5:13 PM 
+- 💼 [出厂6GHz频率达成 Intel官宣13代酷睿限量版](https://www.cnbeta.com/articles/tech/1321431.htm) | Tue Sep 27 2022 7:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel今天正式发布了Raptor Lake 13代酷睿处理器、Z790主板芯片组，国行价格也已公开。13代酷睿首发还是六款K、KF系列无锁频版本，具体价格如下——&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;曾经，我们一味追求处理器的高频率；后来，我们不断增加核心数量；现在，多核心、高频率也可以兼得了！对于改良版的Intel 7制造工艺、全新的CPU架构，Intel Raptor Lake 13代酷睿的频率得以大大提升，睿频加速最高可达5.8GHz，即便是E核也能加速到4.3GHz。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔CEO基辛格:摩尔定律未来十年依然有效 希望2030年一个芯片能有1万亿晶体管](https://www.cnbeta.com/articles/tech/1321415.htm) | Tue Sep 27 2022 5:12 PM 
+- 💂 [北溪天然气管道事件首张现场图片传回 多方指向蓄意袭击](https://www.cnbeta.com/articles/tech/1321429.htm) | Tue Sep 27 2022 7:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月28日凌晨消息，在2022英特尔on技术创新峰会上，英特尔CEO帕特·基辛格重申英特尔对开放生态系统的坚定信念——在未来的技术上进行开放式创新，提供选择，帮助推动行业形成标准，并提供可以信赖的解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;随着连接俄罗斯与德国的“北溪1号”和“北溪2号”天然气管道在过去24小时内接连发生3起罕见大型泄漏事件，涉及此事件的各方均认为该事件很可能不是单纯的机械故障。&lt;/strong&gt;先简单概述下事情：欧洲当地时间周一晚间，两根天然气管道内的压力先后出现骤降，随后丹麦海事部门首先报告“北溪2号”天然气管道疑似出现“大规模泄露”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [英特尔Arc A770和A750显卡将于10月12日正式推出](https://www.cnbeta.com/articles/tech/1321413.htm) | Tue Sep 27 2022 5:06 PM 
+- 🚀 [美国批准50个州的电动汽车充电站计划](https://www.cnbeta.com/articles/tech/1321427.htm) | Tue Sep 27 2022 7:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔终于宣布了让玩家们期待已久的Arc显卡系列的硬性推出日期，其中，英特尔Arc A770和A750将首先推出，并将于10月12日上市。下面是A770的包装图：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美东时间周二，美国运输部（USDOT）表示，已提前批准在50个州、华盛顿特区和波多黎各自治邦建造电动汽车充电站的计划，该计划覆盖约75000英里（120700公里）的高速公路。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [英特尔发布Unison应用 支持将iOS和Android手机与PC同步](https://www.cnbeta.com/articles/tech/1321411.htm) | Tue Sep 27 2022 5:00 PM 
+- 🎊 [上半年互联网财产保险保费收入530.4亿 同比减少1.4%](https://www.cnbeta.com/articles/tech/1321425.htm) | Tue Sep 27 2022 6:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔宣布了一款名为Unison的有趣的新应用程序，其目的是&amp;quot;无缝&amp;quot;连接由英特尔驱动的计算机和智能手机--不仅是Android手机，还有iOS设备。按照英特尔所说的&amp;quot;简单的配对过程&amp;quot;，Unison应用将允许电脑复制连接手机的四个关键功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;27日，中国保险行业协会官网发布《2022年上半年互联网财产保险发展分析报告》（以下简称《报告》）。根据协会统计，2022年上半年，共计73家财产保险公司开展互联网业务，经营主体数量基本保持稳定。互联网财产保险累计保费收入530.4亿，同比负增长1.4%（新口径下，2021年互联网财产保险保费收入537.7亿）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
