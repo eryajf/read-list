@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于权限的问题 迷惑了](https://www.v2ex.com/t/883350#reply3) | Tue Sep 27 2022 10:56 AM
-- 🤗 [求推荐点击图片变暗剩余部分，弹出选中区域介绍的前端组件](https://www.v2ex.com/t/883348#reply0) | Tue Sep 27 2022 10:37 AM
-- 🎭 [哪些公司后端用 kotlin 写的](https://www.v2ex.com/t/883324#reply8) | Tue Sep 27 2022 8:49 AM
-- 🥷 [求助， Redmi K40 刷 xiaomi.eu stable 后无信号](https://www.v2ex.com/t/883323#reply5) | Tue Sep 27 2022 8:49 AM
-- 🐵 [发现 BitBucket 体验比 GitLab 好，安全漏洞还少（GitLab 很经常出漏洞），建议新项目放 BitBucket 吗（自建，几个人用）](https://www.v2ex.com/t/883322#reply15) | Tue Sep 27 2022 8:47 AM<!-- v2ex:END -->
+- 🥸 [Python 有没有优雅的修改使用第三方库的办法？](https://www.v2ex.com/t/883364#reply0) | Tue Sep 27 2022 12:42 PM
+- 🤗 [Python eyed3 加载不了文件](https://www.v2ex.com/t/883363#reply0) | Tue Sep 27 2022 12:41 PM
+- 🎭 [求购 Android Chromium ppapi 混合渲染 Demo，价格可谈。](https://www.v2ex.com/t/883362#reply0) | Tue Sep 27 2022 12:35 PM
+- 🥷 [我的破域名居然也会有人买？还是什么新骗局？](https://www.v2ex.com/t/883356#reply6) | Tue Sep 27 2022 11:48 AM
+- 🐵 [关于权限的问题 迷惑了](https://www.v2ex.com/t/883350#reply3) | Tue Sep 27 2022 10:56 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
