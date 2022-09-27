@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [WyzePay - 使用 WyzePay 提前付款，物有所值](https://xinquji.com/posts/179834?utm_campaign=xinquji-rss) | Tue Sep 27 2022 5:32 PM 
+- 👀 [Trendoo - 全球首个 Web3 照片和视频共享社交平台](https://xinquji.com/posts/179862?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 WyzePay 提前付款，物有所值  
+     全球首个 Web3 照片和视频共享社交平台  
     </details> 
 
-- 🥷 [Save My Shirt! - 你保存的那盒旧的、怀旧的 T 恤，但数字](https://xinquji.com/posts/179833?utm_campaign=xinquji-rss) | Tue Sep 27 2022 5:30 PM 
+- 🥷 [Le Digest - 一封简单的每日电子邮件，让您以正确的方式开始新的一天](https://xinquji.com/posts/179861?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     你保存的那盒旧的、怀旧的 T 恤，但数字  
+     一封简单的每日电子邮件，让您以正确的方式开始新的一天  
     </details> 
 
-- 💼 [ShareCV - 在几分钟内创建和分享现代简历](https://xinquji.com/posts/179832?utm_campaign=xinquji-rss) | Tue Sep 27 2022 5:28 PM 
+- 💼 [Antimatter Studios - 适合您课堂的协作模因工作室](https://xinquji.com/posts/179860?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     在几分钟内创建和分享现代简历  
+     适合您课堂的协作模因工作室  
     </details> 
 
-- 🦅 [Element Hunter - 为内容创作者自动搜索相关照片和视频](https://xinquji.com/posts/179831?utm_campaign=xinquji-rss) | Tue Sep 27 2022 5:26 PM 
+- 🦅 [Ponzu - 用于 3D 模型的 AI 驱动纹理](https://xinquji.com/posts/179859?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     为内容创作者自动搜索相关照片和视频  
+     用于 3D 模型的 AI 驱动纹理  
     </details> 
 
-- 😺 [ReadingLines - 从图像中提取文本](https://xinquji.com/posts/179830?utm_campaign=xinquji-rss) | Tue Sep 27 2022 5:26 PM 
+- 😺 [Confluence.VC Investor Database - 2,000 多个按行业、阶段、地理和类型筛选的 VC](https://xinquji.com/posts/179858?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     从图像中提取文本  
+     2,000 多个按行业、阶段、地理和类型筛选的 VC  
     </details> 
 <!-- xinquji:END -->
