@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [初探自然语言预训练技术演进之路](https://juejin.cn/post/7147955988606222350) | Tue Sep 27 2022 7:20 AM 
+- 🤗 [IO多路复用select/poll/epoll介绍](https://juejin.cn/post/7147686513914937375) | Mon Sep 26 2022 1:55 PM 
     <details><summary>展开描述 ...</summary> 
-    语言模型预训练技术将自然语言处理带入了一个新纪元，本文介绍早期词表示技术、静态词向量技术、基于预训练语言模型的动态词向量技术，试图为大家梳理预训练技术的演进路径。 
+    IO多路复用 多路复用是指使用一个线程来检查多个文件描述符（Socket）的就绪状态，比如调用select和poll函数，传入多个文件描述符，如果有一个文件描述符就绪，则返回，否则阻塞直到超时。得到就 
     </details> 
 
-- 🎡 [Android如何自定义一个view ViewRootImpl绘制流程](https://juejin.cn/post/7147951288217501726) | Tue Sep 27 2022 7:01 AM 
+- 🎡 [不用React Vue，只用原生JS，如何开发单页面应用&lpar;SPA&rpar;？](https://juejin.cn/post/7147654933435645960) | Mon Sep 26 2022 11:52 AM 
     <details><summary>展开描述 ...</summary> 
-    Android如何自定义一个view ViewRootImpl绘制流程 1、自定义属性 在res/values/attrs.xml文件里定义一个declare-styleable name：自定义vi 
+    之前我发布了一篇文章，介绍自己做的小游戏《Dice Crush》。 本文分享一项技术方案，正是我开发上述游戏时用到的：不用React Vue，只用原生JS，如何开发单页面应用？ 
     </details> 
 
-- 🕯 [写给小白教程之微前端MicroApp（1）](https://juejin.cn/post/7147950467786489869) | Tue Sep 27 2022 6:59 AM 
+- 🕯 [打通Web安全思路：为什么我们需要同源策略？](https://juejin.cn/post/7147638444355747870) | Mon Sep 26 2022 10:47 AM 
     <details><summary>展开描述 ...</summary> 
-    1、目的 有小伙伴 问 关于 微前端的 问题， 所以专门写一篇 以下内容 引用自 MicroApp 它主要解决了两个问题： 1、随着项目迭代应用越来越庞大，难以维护。 2、跨团队或跨部门协作开发项目导 
+    浏览器安全可以分为三大块——Web 页面安全、浏览器网络安全和浏览器系统安全，所以本文我们就按照这个思路来做介绍 
     </details> 
 
-- 🚀 [Angular | monaco editor的使用](https://juejin.cn/post/7147948276568817678) | Tue Sep 27 2022 6:50 AM 
+- 🚀 [一个元素纯CSS实现开关按钮【介绍box-shadow、单边或多重阴影、appearance属性】](https://juejin.cn/post/7147625063708114980) | Mon Sep 26 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    安装依赖 在 angular12 及之前你可以选择 monaco-editor ngx-monaco-editor 这是没有问题的 但是如果你使用了更高版本的 angular..... 
+    借助checkbox表单元素、:checked伪类、::before/::after伪元素，就可以只需一个input[type=&quot;checkbox&quot;]元素，通过纯CSS实现Switch开关效果的按钮. 
     </details> 
 
-- 💪 [ShareSDKPlus APICloud 模块](https://juejin.cn/post/7147945822024368141) | Tue Sep 27 2022 6:41 AM 
+- 💪 [React补完计划之Redux篇](https://juejin.cn/post/7147618472699101192) | Mon Sep 26 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 ShareSDKPlus封装了ShareSDK,是对APICloud平台的支持，为APICloud开发的App提供社交分享功能的一个组件，帮助开发者轻松实现社会化分享、第三方登录等主流功能 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情 React补完计划第二篇 
     </details> 
 <!-- juejin:END -->
 ### 少数派
