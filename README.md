@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Sollers有意收购马自达俄罗斯合资企业股份](https://www.cnbeta.com/articles/tech/1321163.htm) | Tue Sep 27 2022 4:22 AM 
+- 🕯 [[视频]来看看DART在小行星撞击前的最后画面](https://www.cnbeta.com/articles/science/1321187.htm) | Tue Sep 27 2022 5:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;俄罗斯汽车制造商Sollers在9月26日表示，该公司正在与马自达就收购后者俄罗斯合资企业的股份进行谈判，当前这家日本汽车制造商正准备结束其俄罗斯业务。马自达在今年3月宣布，由于俄乌局势升级，将停止向该合资企业位于符拉迪沃斯托克（Vladivostok）的工厂出口零部件，并将在库存零部件耗尽后停止生产。去年马自达在俄罗斯的销量为3万辆左右。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;双重小行星重定向测试&lpar;DART&rpar;在经过10个月的太空飞行后于美当地时间9月26日周一成功撞击其小行星目标Dimorphos。这是世界上第一次行星防御技术演示，也是NASA首次尝试在太空中移动小行星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [这年头住Airbnb  怎么成了倒贴钱的“家政工”？](https://www.cnbeta.com/articles/tech/1321161.htm) | Tue Sep 27 2022 4:12 AM 
+- 💼 [花5万元请人直播带货只卖出36元 法院：应退还服务费](https://www.cnbeta.com/articles/tech/1321185.htm) | Tue Sep 27 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Airbnb曾经代表着独特又美好的住宿体验：独具特色的房子，房主提供的当地推荐，完备的生活用具，甚至比酒店更低的价格……而且，和酒店的标准化服务不一样，房主和房客双向的评价机制，让房主们致力于提供最好的服务，房客们除了要付价格不菲的清洁费，还会尽自己所能帮助维护房子清洁状况，以获得五星评价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据&lt;a href=&quot;https://weibo.com/ttarticle/p/show?id=2309404818004184531417&quot; target=&quot;_blank&quot;&gt;上海虹口法院&lt;/a&gt;消息，2021年4月，为提高其所经营的某品牌速冻食品销量，华溪公司（化名）找到了在抖音平台提供直播带货服务的某文化传媒公司，双方签订带有对赌性质的营销服务合同，约定文化传媒公司根据华溪公司的要求，为华溪公司指定产品提供具有一定影响力的网红主播直播带货服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [零跑亏损超55亿 创始人朱江明年薪近5000万元](https://www.cnbeta.com/articles/tech/1321159.htm) | Tue Sep 27 2022 4:00 AM 
+- 💂 [报道称乐视908件商标将被拍卖 官方回应：“LE”非“Le”](https://hot.cnbeta.com/articles/movie/1321183.htm) | Tue Sep 27 2022 5:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近段时间，威马汽车创始人年薪12亿元，引起网友关注与热议。不过，造车新势力中，零跑汽车也因高管年薪，引起注意。9月27日消息，据“网上车市”报道，零跑汽车招股书显示，公司在2019年-2022年3月亏损额持续增加，&lt;strong&gt;累计经营亏损约55.41亿元，其中仅2021年经营亏损就达到了28.68亿元。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日有消息称，乐视控股旗下多达908件商标被拍卖，包括经典的“Le”、乐视手机“LeMobile”、乐视超级电视“UMax120”等等，起拍价格只有约83.79万元。从乐视视频相关负责人处了解到，以上消息是误读。乐视指出，&lt;strong&gt;此次拍卖的是乐视控股旗下的“LE”，而非商标“Le”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [兰博基尼大牛Aventador正式停产](https://www.cnbeta.com/articles/tech/1321157.htm) | Tue Sep 27 2022 3:45 AM 
+- 🚀 [水面汲水12吨 “鲲龙”AG600M灭火机完成投汲水试验](https://www.cnbeta.com/articles/tech/1321181.htm) | Tue Sep 27 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然很遗憾，但兰博基尼大牛Aventador还是迎来了正式停产。近日，最后一台燃油版大牛下线，它是一辆采用定制浅蓝色的Aventador LP 780-4 Ultimae跑车，&lt;strong&gt;配备6.5升V12发动机，最大马力780匹，峰值扭矩720牛米&lt;/strong&gt;，是Aventador所有车型中最强的存在。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;记者9月27日从中国航空工业处获悉，当日，由我国自主研制的“鲲龙”AG600M灭火机以全新消防涂装在湖北荆门漳河机场成功完成12吨投汲水试验，并签署首批6架机购机协议，标志着该型飞机迈出了市场化开拓和实战化应用的关键一步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [启蒙一代球迷的《足球小将》 曾给我们留下了怎样的游戏佳作？](https://hot.cnbeta.com/articles/game/1321153.htm) | Tue Sep 27 2022 3:40 AM 
+- 🎊 [马斯克在特斯拉的27人“心腹团”，含中国高管](https://www.cnbeta.com/articles/tech/1321179.htm) | Tue Sep 27 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;1982 年，TECMO 一共只出了两款游戏，却都成为了史上留名的佳作。其中一款是《忍者龙剑传》，另一款则是我们今天的主角。1980 年 12 月 26 日，西班牙世界杯亚洲区预选赛在香港举行。比赛结束日本队零比一不敌中国队，痛失世界杯资格。消息传回日本，整个足球圈陷入低潮，这段时期被后人称作日本足球的冬天。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1321153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近些年，商业领域风头最劲、话题度最高的人非埃隆·马斯克（Elon Musk）莫属。一边管理着占据绝对领头羊地位的电动汽车制造商特斯拉，一边经营着自己的宇宙梦——创办了民营航天制造商和太空运输公司SpaceX。而这两家雄心勃勃的科技公司还不是全部。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
