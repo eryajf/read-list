@@ -374,29 +374,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Unity3D 教程系列第 2 篇】Update，LateUpdate，FixedUpdate 的区别](https://juejin.cn/post/7147694387474989069) | Mon Sep 26 2022 2:25 PM 
+- 🤗 [【JAVA】探讨 Java 中 valueOf 和 parseInt 的区别](https://juejin.cn/post/7147868448923025439) | Tue Sep 27 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-    Update，LateUpdate，FixedUpdate 的区别。 Update&lpar;&rpar; 和 LateUpdate&lpar;&rpar; 属于立即更新，更新之间的频率是不固定。 
+    在编程中，遇到类型转换，好像会经常用到 parseInt 和 valueOf，想必有读者也跟我一样，经常交叉使用这两个方法，但却不知道这两者到底有什么区别，因此，本博文就此进行探究； 
     </details> 
 
-- 🎡 [【Unity3D 教程系列第 1 篇】Unity如何去掉自带动画？](https://juejin.cn/post/7147693697084162061) | Mon Sep 26 2022 2:23 PM 
+- 🎡 [Android 十六进制状态管理实战](https://juejin.cn/post/7147860255370641445) | Tue Sep 27 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    Unity如何去掉自带动画？ File → BuildSetting → PlayerSettings → Splash Image → Show Splash Screen 取消勾选即可。 
+    学习使用十六进制状态管理，实现在多种场景下，控制一系列的按钮是否可操作。 不同场景下，在按钮不可操作的时候，点击弹出对应的Toast。 
     </details> 
 
-- 🕯 [React中如何引入css呢](https://juejin.cn/post/7147689805076234270) | Mon Sep 26 2022 2:08 PM 
+- 🕯 [代码案例详解！如何让机器学习模型自解释！](https://juejin.cn/post/7147860041998008350) | Tue Sep 27 2022 1:07 AM 
     <details><summary>展开描述 ...</summary> 
-    一、是什么 组件式开发选择合适的css解决方案尤为重要 通常会遵循以下规则： 可以编写局部css，不会随意污染其他组件内的原生； 可以编写动态的css，可以获取当前组件的一些状态，根据状态的变化生成不 
+    本文讲解一种比较全能的『机器学习模型可解释性』方法——SHAP。通过调用Python的SHAP工具库，对机器学习模型做可解释性分析，判断不同特征对于当前模型的重要程度。 
     </details> 
 
-- 🚀 [Code For Better 谷歌开发者之声——使用 GPU 渲染模式分析工具进行分析【转载】](https://juejin.cn/post/7147683948041076750) | Mon Sep 26 2022 1:45 PM 
+- 🚀 [React Hook 封装常见业务场景，有哪些你用得到？](https://juejin.cn/post/7147858832692084767) | Tue Sep 27 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
-    图像查看 每个竖条都是一次VSync的时间16.6ms，如果竖条宽度变宽且透明则代表超出16.6ms绘制的帧 每个Vsync信号来临前都会做工作（Choreographer中的postFrameCal 
+    本文来看下 ahooks 针对常见的业务场景做了哪些封装。通过对这些 hook 的分析和思考，希望能够给大家在日常工作中遇到的场景有所帮助~ 
     </details> 
 
-- 💪 [Git commit history 规范标准（好的习惯，终身受益）](https://juejin.cn/post/7147669559061774344) | Mon Sep 26 2022 12:50 PM 
+- 💪 [别整一坨 CSS 代码了，试试这几个实用函数](https://juejin.cn/post/7147849664518160415) | Tue Sep 27 2022 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Git commit history 提交规范标准（好的习惯，终身受益）。commit message、多人协同开发、合并多个提交、补充提交、转移提交。 
+    CSS比较函数从2020年4月就开始支持了，我喜欢使用这些函数，但最喜欢的是 clamp&lpar;&rpar;，它也是我最常用的一个。在这节课中，我们详细来看下这些比较函数。 Clamp&lpar;&rpar;, Max&lpar;&rpar;, 和 Min 
     </details> 
 <!-- juejin:END -->
 ### 少数派
