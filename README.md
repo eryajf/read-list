@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [元太科技与夏普显示科技携手合作开发E-Ink IGZO背板](https://www.cnbeta.com/articles/tech/1321253.htm) | Tue Sep 27 2022 7:39 AM 
+- 🕯 [郎朗演奏《巫妖王之怒》主题曲：送给所有魔兽玩家](https://hot.cnbeta.com/articles/music/1321271.htm) | Tue Sep 27 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;E Ink元太科技今 &lpar;27&rpar; 日，与显示器领域领导者夏普显示科技株式会社&lpar;Sharp Display Technology Corporation，简称SDTC&rpar; 宣布携手合作，E Ink元太科技将采用夏普显示科技的IGZO&lpar;Indium Gallium Zinc Oxide，铟镓锌氧化物&rpar;背板，运用于制造电子书阅读器、电子纸笔记本的电子纸模组。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;钢琴家郎朗在个人微博账号发布了演奏《魔兽世界：巫妖王之怒》主题曲的视频。&lt;/strong&gt;《魔兽世界》怀旧服“巫妖王之怒”今日已正式上线，诺森德大陆及等级上限也随之解锁，新服银色北伐军（5区PVP）也已开放。70级角色直升服务现已推出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1321271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华中农业大学高泽霞团队在鱼类肌间刺研究方面取得新进展](https://www.cnbeta.com/articles/science/1321251.htm) | Tue Sep 27 2022 7:37 AM 
+- 💼 [Chromium内核浏览器即将迎来英伟达RTX 40显卡的AV1编码支持](https://www.cnbeta.com/articles/tech/1321269.htm) | Tue Sep 27 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;8月2日，华中农业大学水产学院高泽霞教授团队联合中国科学院南海海洋研究所林强研究员团队在鱼类肌间刺方面的研究成果以“Single-cell transcriptomes and runx2b−/− mutants reveal the genetic signatures of intermuscular bone formation in zebrafish”为题在National Science Review期刊发表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周，英伟达推出了基于 Ada Lovelace GPU 架构的 RTX 4090 和 RTX 4080 显卡，该公司承诺性能是上一代 RTX 30 系列 Ampere GPU 的四倍。&lt;strong&gt;不过除了游戏性能提升，RTX 40 显卡带来的另一个惊喜，就是对 AV1 媒体编码的支持（此前英伟达 GPU 只能解码 AV1 内容）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [拆解报告：联想thinkplus新款迷你65W氮化镓充电器GN65](https://www.cnbeta.com/articles/tech/1321249.htm) | Tue Sep 27 2022 7:30 AM 
+- 💂 [《名侦探柯南：犯人犯泽先生》第一话新截图：柯南画风很诡异](https://hot.cnbeta.com/articles/comic/1321267.htm) | Tue Sep 27 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;联想最近推出了第三代口红氮化镓电源的三款全新配色，分别为奶油青提绿，西梅苏打紫，海盐芝士蓝，为传统非黑即白的原装充电器市场带来颜值担当。第三代口红电源采用突破性创新设计，仅有44CC的体积，却能提供65W的输出能力，功率密度高达1.47W/cm³ ，实现了体积与性能的平衡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今日（9月27日），《名侦探柯南：犯人犯泽先生》官方公布了第一话新截图，动画将于10月4日在网飞播出&lt;/strong&gt;，将由苍井翔太担任配音，OP《捕まえて、今夜。》由新浜レオン演唱，EP《Secret, voice of my heart》由仓木麻衣演唱。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1321267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [“天问一号”火星探测最新研究成果发布 “祝融号”火星车次表层探测雷达揭秘火星浅表结构](https://www.cnbeta.com/articles/science/1321247.htm) | Tue Sep 27 2022 7:28 AM 
+- 🚀 [MIT科学家设计“细胞漫游者” 用于探索和增强细胞的内部世界](https://www.cnbeta.com/articles/science/1321265.htm) | Tue Sep 27 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;记者从中国科学院地质与地球物理研究所获悉，该所火星研究团队取得“天问一号”火星探测最新研究成果。研究表明，“祝融号”火星车着陆区火表数米厚的风化层下存在两套向上变细的层序，可能反映了约35亿-32亿年以来多期次与水活动相关的火表改造过程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;麻省理工学院媒体实验室（MIT Media Lab）的研究人员设计了一种微型天线，可以在活细胞内无线操作，为医疗诊断和治疗以及其他科学过程提供了可能性&lt;/strong&gt;，因为这种天线有可能实时监测甚至指导细胞活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [比特币突破2万美元关口 加密货币市值升至1万亿美元上方](https://www.cnbeta.com/articles/tech/1321245.htm) | Tue Sep 27 2022 7:27 AM 
+- 🎊 [《新·奥特曼》发布中字预告 10月13日在中国香港上映](https://hot.cnbeta.com/articles/movie/1321263.htm) | Tue Sep 27 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;周二，比特币一度上涨6.1%，价格突破2万美元关口，达到一周多来的最高水平，加密货币的整体市值回升至1万亿美元以上。&lt;/strong&gt;以太坊、Solana和Avalanche等加密货币也上涨。在全球多家央行迅速收紧货币政策以及对经济衰退的担忧导致股票、债券和大宗商品大幅下挫之后，全球市场出现了一波相对平静的行情。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;电影《新·奥特曼》发布中字预告，已定档10月13日在中国香港上映。&lt;/strong&gt;本作是奥特曼系列55周年纪念电影，由庵野秀明担任企划、编剧，樋口真嗣执导，主演包括斋藤工、长泽雅美、西岛秀俊、有冈大贵等。 5月13日在日本上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
