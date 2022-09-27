@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [“总有神助”贾跃亭](https://www.cnbeta.com/articles/tech/1321393.htm) | Tue Sep 27 2022 2:49 PM 
+- 🕯 [印度澄清强制要求智能手机支持NavIC一事：未确定时间表](https://www.cnbeta.com/articles/tech/1321397.htm) | Tue Sep 27 2022 4:31 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据路透社报道，印度政府正在推动手机制造商从2023年1月1日起在印度销售的智能手机上支持其本土研发的导航系统NavIC。NavIC（印度星座导航系统）是印度空间机构ISRO为军事和商业目的开发的印度区域导航卫星系统（IRNSS）的操作名称。它的星座由八颗卫星组成，覆盖印度半岛和从其边界延伸至1500公里的区域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [微软将Windows 11上运行Android应用的功能带入更多国家和地区](https://www.cnbeta.com/articles/tech/1321395.htm) | Tue Sep 27 2022 4:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;支持在Windows 11上运行Android应用程序是该操作系统中最大的新功能之一。而随着最近宣布的Windows 11 2022更新的发布，标志着这一创新扩展到更多地区。微软再次更新了在Windows上支持Amazon Appstore的国家名单--Amazon Appstore是为用户提供在Windows 11设备上访问Android应用的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [“总有神助”贾跃亭](https://www.cnbeta.com/articles/tech/1321393.htm) | Tue Sep 27 2022 2:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“拨乱反正、重回正轨，这是FF又一个重大拐点”，贾跃亭在社交平台分享了夺回FF控制权的消息。要说威马CEO被12亿年薪的事整得略有点委屈，贾跃亭则是一贯的斗志昂扬，还略带些兴奋。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究表明比特币开采消耗的可持续电力组合可能正在减少](https://www.cnbeta.com/articles/tech/1321391.htm) | Tue Sep 27 2022 2:37 PM 
+- 🚀 [研究表明比特币开采消耗的可持续电力组合可能正在减少](https://www.cnbeta.com/articles/tech/1321391.htm) | Tue Sep 27 2022 2:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;剑桥大学替代金融中心（CCAF）对比特币开采的最新研究表明，所使用的可持续电力组合正在下降。&lt;/strong&gt;CCAF是剑桥大学商学院的一部分，它使用公开的数据来运行一个理论模型来估计比特币开采的环境足迹。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [PICO 4 VR一体机新品发布：售价2499元起 将推VR版《三体》](https://www.cnbeta.com/articles/tech/1321389.htm) | Tue Sep 27 2022 2:37 PM 
+- 🎊 [PICO 4 VR一体机新品发布：售价2499元起 将推VR版《三体》](https://www.cnbeta.com/articles/tech/1321389.htm) | Tue Sep 27 2022 2:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月27日消息，PICO在中国市场正式发布新一代VR一体机——PICO 4系列，售价2499元起。这是PICO被字节跳动收购以来首次发布升级换代产品。据悉，PICO 4产品配置达到行业领先水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [研究发现北美西海岸12种关键海洋物种正处于危险之中](https://www.cnbeta.com/articles/science/1321387.htm) | Tue Sep 27 2022 2:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于那些看着《海底总动员》长大的人来说，北美西海岸有它自己版本的水下海洋高速公路 - 加州海流海洋生态系统（CCME）可能并不奇怪。CCME从加利福尼亚的最南端延伸到华盛顿。营养丰富的冷水的季节性上升流支持一个更广泛的食物链，包括磷虾、乌贼、鱼、海鸟和海洋哺乳动物。&lt;strong&gt;然而，气候变化以及相关的海洋pH值、温度和氧气水平的变化，正在影响CCME。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [法国电信公司Iliad推出自营低成本支付平台Stancer 尽可能降低交易费率](https://www.cnbeta.com/articles/tech/1321385.htm) | Tue Sep 27 2022 2:11 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;法国亿万富翁和创业投资者Xavier Niel拥有的电信公司Iliad正在推出一个名为Stancer的支付子公司。该团队特别关注一件事--尽可能地降低交易费用。虽然法国的零售商、网上商店和企业从今天才开始可以使用Stancer，但Iliad已经在之前的许多活动中开始运用Stancer，包括作为支付处理平台移动和互联网用户收费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
