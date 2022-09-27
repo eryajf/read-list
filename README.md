@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [基于中性镱原子的擦除转换方案 极大地增强了量子计算机的纠错能力](https://www.cnbeta.com/articles/science/1321375.htm) | Tue Sep 27 2022 1:24 PM 
+- 🕯 [研究发现北美西海岸12种关键海洋物种正处于危险之中](https://www.cnbeta.com/articles/science/1321387.htm) | Tue Sep 27 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 2022 年 8 月 9 日发表于《自然通讯》期刊上的一篇文章中，&lt;strong&gt;由普林斯顿大学的电气与计算机工程副教授 Jeff Thompson 带领的一支研究团队，详细介绍了一种可让量子计算机更有效纠错的新方法。&lt;/strong&gt;据悉，尽管量子计算机具有化解传统计算机难以搞定的复杂问题的巨大潜力，但要求极高的敏感运行条件，也成为了影响量子计算机普及的一大阻碍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于那些看着《海底总动员》长大的人来说，北美西海岸有它自己版本的水下海洋高速公路 - 加州海流海洋生态系统（CCME）可能并不奇怪。CCME从加利福尼亚的最南端延伸到华盛顿。营养丰富的冷水的季节性上升流支持一个更广泛的食物链，包括磷虾、乌贼、鱼、海鸟和海洋哺乳动物。&lt;strong&gt;然而，气候变化以及相关的海洋pH值、温度和氧气水平的变化，正在影响CCME。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [推特起诉马斯克一案将于10月17日开庭 双方证词是关键](https://www.cnbeta.com/articles/tech/1321373.htm) | Tue Sep 27 2022 1:21 PM 
+- 💼 [法国电信公司Iliad推出自营低成本支付平台Stancer 尽可能降低交易费率](https://www.cnbeta.com/articles/tech/1321385.htm) | Tue Sep 27 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;针对推特&lpar;TWTR.US&rpar;与埃隆·马斯克之间的诉讼的庭审将于10月17日开始。Wedbush指出，推特首席执行官阿格拉瓦尔&lpar;Parag Agrawal&rpar;和马斯克的证词将是为期五天的庭审中的关键。&lt;/strong&gt;分析师Dan Ives表示：“每个人的证词都很重要，再加上推特&lpar;TWTR.US&rpar;前安全主管扎特科&lpar;Peiter&amp;quot;Mudge&amp;quot;Zatko&rpar;的不确定性，这仍是即将到来的庭审的另一个关键变量。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;法国亿万富翁和创业投资者Xavier Niel拥有的电信公司Iliad正在推出一个名为Stancer的支付子公司。该团队特别关注一件事--尽可能地降低交易费用。虽然法国的零售商、网上商店和企业从今天才开始可以使用Stancer，但Iliad已经在之前的许多活动中开始运用Stancer，包括作为支付处理平台移动和互联网用户收费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [传台积电遭大客户砍单](https://www.cnbeta.com/articles/tech/1321371.htm) | Tue Sep 27 2022 1:21 PM 
+- 💂 [自主工业清洁机器人制造商Avidbots获得7000万美元投资](https://www.cnbeta.com/articles/tech/1321383.htm) | Tue Sep 27 2022 2:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，台积电&lpar;TSM.US&rpar;的大客户已开始削减2023年的订单，这可能导致该公司在明年1月的投资者会议上修改其营收指引。截至发稿，台积电盘前涨1.01%，报73.75美元。据了解，台积电的主要客户包括苹果&lpar;AAPL.US&rpar;、AMD&lpar;AMD.US&rpar;、博通&lpar;AVGO.US&rpar;、英伟达&lpar;NVDA.US&rpar;等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;开发自主清洁机器人的加拿大机器人制造商Avidbots在C轮融资中筹集了7000万美元。&lt;/strong&gt;Avidbots公司于2014年成立于安大略省基奇纳市，它设计制造了一款名为Neo 2的机器人地板清洁器，专为机场、仓库和购物中心等商业环境设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星在最新的One UI 5.0测试版中复制了iOS 16的锁屏定制功能](https://www.cnbeta.com/articles/tech/1321369.htm) | Tue Sep 27 2022 1:13 PM 
+- 🚀 [大疆Mavic 3T无人机发布：配热成像 45分续航](https://www.cnbeta.com/articles/tech/1321381.htm) | Tue Sep 27 2022 2:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iOS 16的最主要功能之一是锁屏定制功能。该功能与iPhone 14 Pro上的&amp;quot;灵动岛&amp;quot;相结合，为用户如何定制锁屏和创造真正属于自己的个性化内容提供了新的思路，从一开始推出就收到认可和欢迎。现在，似乎三星已经复制了一些功能，并在最新的One UI 5.0测试版中引入了这些功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月27日晚，大疆发布DJI Mavic 3行业系列，号称重新定义小型行业无人机，售价19999元起！&lt;/strong&gt;DJI Mavic 3行业系列包括Mavic 3E、Mavic 3T两款机型。其中&lt;strong&gt;Mavic 3E配备机械快广角相机、长焦相机，支持RTK模块等&lt;/strong&gt;，可完成高精度高效测绘及巡检作业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [75岁施瓦辛格出席活动 大方凹健身Pose宝刀未老](https://hot.cnbeta.com/articles/movie/1321367.htm) | Tue Sep 27 2022 12:54 PM 
+- 🎊 [甲骨文与SEC和解：2300万美元摆平《反海外腐败法》指控](https://www.cnbeta.com/articles/tech/1321379.htm) | Tue Sep 27 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间2022年9月26日，德国慕尼黑，75岁施瓦辛格现身德国慕尼黑出席活动，现场他大方凹健身Pose宝刀未老。“我认为，早在 70 年代和 80 年代，我们就犯了逐步淘汰核电的重大错误，你们让自己变得非常、非常脆弱。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据报道，美国证券交易委员会（SEC）今日宣布，已与甲骨文公司（Oracle）达成和解，后者同意支付逾2300万美元来解决SEC的《反海外腐败法》（FCPA）指控。&lt;/strong&gt;SEC之前曾指控甲骨文公司，称其土耳其、阿拉伯联合酋长国（UAE）和印度子公司在2016年至2019年间，创建和使用行贿资金来贿赂外国官员，以换取业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
