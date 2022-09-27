@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Rectangle Pro 2.6.2 窗口管理](https://xclient.info/s/rectangle-pro.html) | Mon Sep 26 2022 5:46 AM 
+- 🦏 [Privatus 6.4 浏览器数据缓存](https://xclient.info/s/privatus.html) | Tue Sep 27 2022 12:15 AM 
     <details><summary>展开描述 ...</summary> 
-    Rectangle是Mac平台上的一款窗口管理应用，可以使用键盘快捷键移动和调整macOS中的窗口大小。 
+    Privatus是Mac os平台上的一款帮助用户清理网页的缓存，支持的浏览器有很多: Safari,、 Chrome、 Firefox、 Camino、Chromium这些常用的浏览器都能使用Privatus快速的清理，使用方便简单，不占用很多的内存。 
     </details> 
 
--  [Feeder 4.3.11 创建和发布RSS](https://xclient.info/s/feeder.html) | Mon Sep 26 2022 5:46 AM 
+-  [Mela 1.6.2 食谱管理器](https://xclient.info/s/mela.html) | Tue Sep 27 2022 12:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
+    Mela是Mac电脑上的一款简单、优雅、现代的食谱管理器，可与iCloud同步。订阅你喜欢的食谱博客，在Mela的本地食谱查看器中查看所有的食谱。 
     </details> 
 
-- ⚗️ [QLab Pro 5.0.4 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Mon Sep 26 2022 5:45 AM 
+- ⚗️ [Soulver 3.6.2 多功能计算器](https://xclient.info/s/soulver.html) | Tue Sep 27 2022 12:09 AM 
     <details><summary>展开描述 ...</summary> 
-    QLab 是一款专为现场表演而设计的多媒体制作工具，能够让你的Mac掌控整个表演现场。包含戏剧，舞蹈，组合，安装，和更多的风格功能。只需从一个单一的工作区就能播放MIDI和音视频。 
+    Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
     </details> 
 
-- 🔥 [RAW Power 3.4.10 强大的RAW图像处理工具](https://xclient.info/s/raw-power.html) | Mon Sep 26 2022 5:42 AM 
+- 🔥 [Wondershare Filmora X 11.7.1 优秀的视频编辑工具](https://xclient.info/s/filmora.html) | Tue Sep 27 2022 12:08 AM 
     <details><summary>展开描述 ...</summary> 
-    RAW Power 让你的好照片更加好～！RAW Power解锁了Apple&#39;s RAW引擎，让您能够更加简单的来编辑操作照片，不仅能够作为 Apple Photos的扩展，也可以单独作为一个RAW编辑工具 
+    Wondershare Filmora是一款由Wondershare出品的优秀的视频编辑工具，简单易用。 
     </details> 
 
-- 🌋 [Sublime Text 4 Build 4137 Dev](https://xclient.info/s/sublime-text.html) | Mon Sep 26 2022 5:41 AM 
+- 🌋 [Wondershare PDFelement Pro 9.1.0 OCR 强大的PDF编辑工具](https://xclient.info/s/wondershare-pdf-element.html) | Tue Sep 27 2022 12:07 AM 
     <details><summary>展开描述 ...</summary> 
-    Sublime Text被称作Mac下的TextMate，而根据其官网介绍，Sublime Text的特点如下：拥有高效、没有干扰的界面，在编辑方面的多选、宏、代码片段等功能，以及很有特色的Minimap。 
+    PDFelement可是能为你提供强大的编辑功能滴，支持OCR光学识别引擎，有效的提升文字的识别效率，另外PDFelement支持PDF转换等功能，在保证原有完整文档的基础上，提供了多样的风格和样式。 
     </details> 
 <!-- xclient:END -->
 
