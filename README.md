@@ -338,24 +338,24 @@
     匿名者（Anonymous）黑客组织宣布发起针对伊朗的OpIran运动，攻击伊朗政府网站，包括情报机构和警方网站。 
     </details> 
 
-- 🦄 [乌克兰当局警告盟国，俄罗斯正在计划升级网络攻击](https://www.freebuf.com/news/345694.html) | Tue Sep 27 2022 3:46 AM 
+- 🦄 [普京正式授予斯诺登俄罗斯国籍](https://www.freebuf.com/news/345699.html) | Tue Sep 27 2022 4:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    俄罗斯总统普京正式签署命令，授予爱德华·斯诺登俄罗斯国籍，相应文件已发布在法律信息门户网站上。 
+    </details> 
+
+- 🦅 [乌克兰当局警告盟国，俄罗斯正在计划升级网络攻击](https://www.freebuf.com/news/345694.html) | Tue Sep 27 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
     乌克兰军事情报部门警告称俄罗斯正计划针对乌克兰及其盟国的关键基础设施，进行“大规模网络攻击”。 
     </details> 
 
-- 🦅 [鼠标悬停也能中招！带毒PPT正用来传播Graphite恶意软件](https://www.freebuf.com/news/345682.html) | Tue Sep 27 2022 2:45 AM 
+- 🪄 [鼠标悬停也能中招！带毒PPT正用来传播Graphite恶意软件](https://www.freebuf.com/news/345682.html) | Tue Sep 27 2022 2:45 AM 
     <details><summary>展开描述 ...</summary> 
     俄罗斯黑客正利用这一技术，让攻击更加隐蔽。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 匿名者向伊朗政府宣战；TikTok因儿童隐私数据保护面临2700万英镑罚款](https://www.freebuf.com/news/345668.html) | Mon Sep 26 2022 12:14 PM 
+- 💻 [FreeBuf早报 | 匿名者向伊朗政府宣战；TikTok因儿童隐私数据保护面临2700万英镑罚款](https://www.freebuf.com/news/345668.html) | Mon Sep 26 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
     当地时间9月25日，匿名者向伊朗政府宣战，并发起了针对政府网站的#OpIran运动。 
-    </details> 
-
-- 💻 [GitHub用户注意，网络钓鱼活动冒充CircleCI窃取凭证](https://www.freebuf.com/news/345637.html) | Mon Sep 26 2022 8:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    有网络钓鱼活动冒充CircleCI DevOps平台，瞄准GitHub用户窃取证书和双因素身份验证（2FA）代码。 
     </details> 
 <!-- freebuf:END -->
 
