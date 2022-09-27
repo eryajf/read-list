@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Trendoo - 全球首个 Web3 照片和视频共享社交平台](https://xinquji.com/posts/179862?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:33 AM 
+- 👀 [re_cloud - 您的数据控制中心](https://xinquji.com/posts/179864?utm_campaign=xinquji-rss) | Wed Sep 28 2022 7:13 AM 
+    <details><summary>展开描述 ...</summary> 
+     您的数据控制中心  
+    </details> 
+
+- 🥷 [POS Go - Shopify 最强大、最先进的一体式 POS 设备](https://xinquji.com/posts/179863?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:44 AM 
+    <details><summary>展开描述 ...</summary> 
+     Shopify 最强大、最先进的一体式 POS 设备  
+    </details> 
+
+- 💼 [Trendoo - 全球首个 Web3 照片和视频共享社交平台](https://xinquji.com/posts/179862?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
      全球首个 Web3 照片和视频共享社交平台  
     </details> 
 
-- 🥷 [Le Digest - 一封简单的每日电子邮件，让您以正确的方式开始新的一天](https://xinquji.com/posts/179861?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:32 AM 
+- 🦅 [Le Digest - 一封简单的每日电子邮件，让您以正确的方式开始新的一天](https://xinquji.com/posts/179861?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
      一封简单的每日电子邮件，让您以正确的方式开始新的一天  
     </details> 
 
-- 💼 [Antimatter Studios - 适合您课堂的协作模因工作室](https://xinquji.com/posts/179860?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:30 AM 
+- 😺 [Antimatter Studios - 适合您课堂的协作模因工作室](https://xinquji.com/posts/179860?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
      适合您课堂的协作模因工作室  
-    </details> 
-
-- 🦅 [Ponzu - 用于 3D 模型的 AI 驱动纹理](https://xinquji.com/posts/179859?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:27 AM 
-    <details><summary>展开描述 ...</summary> 
-     用于 3D 模型的 AI 驱动纹理  
-    </details> 
-
-- 😺 [Confluence.VC Investor Database - 2,000 多个按行业、阶段、地理和类型筛选的 VC](https://xinquji.com/posts/179858?utm_campaign=xinquji-rss) | Wed Sep 28 2022 6:25 AM 
-    <details><summary>展开描述 ...</summary> 
-     2,000 多个按行业、阶段、地理和类型筛选的 VC  
     </details> 
 <!-- xinquji:END -->
