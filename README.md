@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现北美西海岸12种关键海洋物种正处于危险之中](https://www.cnbeta.com/articles/science/1321387.htm) | Tue Sep 27 2022 2:28 PM 
+- 🕯 [“总有神助”贾跃亭](https://www.cnbeta.com/articles/tech/1321393.htm) | Tue Sep 27 2022 2:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“拨乱反正、重回正轨，这是FF又一个重大拐点”，贾跃亭在社交平台分享了夺回FF控制权的消息。要说威马CEO被12亿年薪的事整得略有点委屈，贾跃亭则是一贯的斗志昂扬，还略带些兴奋。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [研究表明比特币开采消耗的可持续电力组合可能正在减少](https://www.cnbeta.com/articles/tech/1321391.htm) | Tue Sep 27 2022 2:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;剑桥大学替代金融中心（CCAF）对比特币开采的最新研究表明，所使用的可持续电力组合正在下降。&lt;/strong&gt;CCAF是剑桥大学商学院的一部分，它使用公开的数据来运行一个理论模型来估计比特币开采的环境足迹。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [PICO 4 VR一体机新品发布：售价2499元起 将推VR版《三体》](https://www.cnbeta.com/articles/tech/1321389.htm) | Tue Sep 27 2022 2:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月27日消息，PICO在中国市场正式发布新一代VR一体机——PICO 4系列，售价2499元起。这是PICO被字节跳动收购以来首次发布升级换代产品。据悉，PICO 4产品配置达到行业领先水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [研究发现北美西海岸12种关键海洋物种正处于危险之中](https://www.cnbeta.com/articles/science/1321387.htm) | Tue Sep 27 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;对于那些看着《海底总动员》长大的人来说，北美西海岸有它自己版本的水下海洋高速公路 - 加州海流海洋生态系统（CCME）可能并不奇怪。CCME从加利福尼亚的最南端延伸到华盛顿。营养丰富的冷水的季节性上升流支持一个更广泛的食物链，包括磷虾、乌贼、鱼、海鸟和海洋哺乳动物。&lt;strong&gt;然而，气候变化以及相关的海洋pH值、温度和氧气水平的变化，正在影响CCME。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [法国电信公司Iliad推出自营低成本支付平台Stancer 尽可能降低交易费率](https://www.cnbeta.com/articles/tech/1321385.htm) | Tue Sep 27 2022 2:11 PM 
+- 🎊 [法国电信公司Iliad推出自营低成本支付平台Stancer 尽可能降低交易费率](https://www.cnbeta.com/articles/tech/1321385.htm) | Tue Sep 27 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;法国亿万富翁和创业投资者Xavier Niel拥有的电信公司Iliad正在推出一个名为Stancer的支付子公司。该团队特别关注一件事--尽可能地降低交易费用。虽然法国的零售商、网上商店和企业从今天才开始可以使用Stancer，但Iliad已经在之前的许多活动中开始运用Stancer，包括作为支付处理平台移动和互联网用户收费。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [自主工业清洁机器人制造商Avidbots获得7000万美元投资](https://www.cnbeta.com/articles/tech/1321383.htm) | Tue Sep 27 2022 2:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;开发自主清洁机器人的加拿大机器人制造商Avidbots在C轮融资中筹集了7000万美元。&lt;/strong&gt;Avidbots公司于2014年成立于安大略省基奇纳市，它设计制造了一款名为Neo 2的机器人地板清洁器，专为机场、仓库和购物中心等商业环境设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [大疆Mavic 3T无人机发布：配热成像 45分续航](https://www.cnbeta.com/articles/tech/1321381.htm) | Tue Sep 27 2022 2:01 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月27日晚，大疆发布DJI Mavic 3行业系列，号称重新定义小型行业无人机，售价19999元起！&lt;/strong&gt;DJI Mavic 3行业系列包括Mavic 3E、Mavic 3T两款机型。其中&lt;strong&gt;Mavic 3E配备机械快广角相机、长焦相机，支持RTK模块等&lt;/strong&gt;，可完成高精度高效测绘及巡检作业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [甲骨文与SEC和解：2300万美元摆平《反海外腐败法》指控](https://www.cnbeta.com/articles/tech/1321379.htm) | Tue Sep 27 2022 2:00 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据报道，美国证券交易委员会（SEC）今日宣布，已与甲骨文公司（Oracle）达成和解，后者同意支付逾2300万美元来解决SEC的《反海外腐败法》（FCPA）指控。&lt;/strong&gt;SEC之前曾指控甲骨文公司，称其土耳其、阿拉伯联合酋长国（UAE）和印度子公司在2016年至2019年间，创建和使用行贿资金来贿赂外国官员，以换取业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
