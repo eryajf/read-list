@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Radiance - 在团队之间传递知识的视频工具](https://xinquji.com/posts/179886?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:31 AM 
+- 👀 [COSLR - 在几分钟内查找、发送电子邮件和转换客户 - 使用 1 个平台](https://xinquji.com/posts/179889?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:35 AM 
+    <details><summary>展开描述 ...</summary> 
+     在几分钟内查找、发送电子邮件和转换客户 - 使用 1 个平台  
+    </details> 
+
+- 🥷 [Lord Of The Rent &lpar;LOTR&rpar; - 关于纽约市租金价格的病毒式迷你游戏](https://xinquji.com/posts/179888?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:33 AM 
+    <details><summary>展开描述 ...</summary> 
+     关于纽约市租金价格的病毒式迷你游戏  
+    </details> 
+
+- 💼 [Another Darn To-Do List App - 完成任务的最激励方式。](https://xinquji.com/posts/179887?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:32 AM 
+    <details><summary>展开描述 ...</summary> 
+     完成任务的最激励方式。  
+    </details> 
+
+- 🦅 [Radiance - 在团队之间传递知识的视频工具](https://xinquji.com/posts/179886?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
      在团队之间传递知识的视频工具  
     </details> 
 
-- 🥷 [Bobo Color Book - 儿童绘本](https://xinquji.com/posts/179885?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:29 AM 
+- 😺 [Bobo Color Book - 儿童绘本](https://xinquji.com/posts/179885?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
      儿童绘本  
-    </details> 
-
-- 💼 [Student Hub OS - 一体化学生操作系统](https://xinquji.com/posts/179884?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:29 AM 
-    <details><summary>展开描述 ...</summary> 
-     一体化学生操作系统  
-    </details> 
-
-- 🦅 [Quest - 在几分钟内构建带有 NFT 奖励的测验](https://xinquji.com/posts/179883?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:27 AM 
-    <details><summary>展开描述 ...</summary> 
-     在几分钟内构建带有 NFT 奖励的测验  
-    </details> 
-
-- 😺 [Swoop - 最新趋势，花更少的钱](https://xinquji.com/posts/179882?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:26 AM 
-    <details><summary>展开描述 ...</summary> 
-     最新趋势，花更少的钱  
     </details> 
 <!-- xinquji:END -->
