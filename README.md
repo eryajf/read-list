@@ -830,28 +830,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [WhatsApp Link Generator - 为您的企业创建点击聊天 WhatsApp 链接](https://xinquji.com/posts/179816?utm_campaign=xinquji-rss) | Tue Sep 27 2022 1:20 PM 
+- 👀 [WyzePay - 使用 WyzePay 提前付款，物有所值](https://xinquji.com/posts/179834?utm_campaign=xinquji-rss) | Tue Sep 27 2022 5:32 PM 
     <details><summary>展开描述 ...</summary> 
-     为您的企业创建点击聊天 WhatsApp 链接  
+     使用 WyzePay 提前付款，物有所值  
     </details> 
 
-- 🥷 [RevOS Customer Health Score Template - 计算客户健康评分并预测客户流失](https://xinquji.com/posts/179815?utm_campaign=xinquji-rss) | Tue Sep 27 2022 10:13 AM 
+- 🥷 [Save My Shirt! - 你保存的那盒旧的、怀旧的 T 恤，但数字](https://xinquji.com/posts/179833?utm_campaign=xinquji-rss) | Tue Sep 27 2022 5:30 PM 
     <details><summary>展开描述 ...</summary> 
-     计算客户健康评分并预测客户流失  
+     你保存的那盒旧的、怀旧的 T 恤，但数字  
     </details> 
 
-- 💼 [Texti.app - 存在于您浏览器中的人工智能！](https://xinquji.com/posts/179814?utm_campaign=xinquji-rss) | Tue Sep 27 2022 7:30 AM 
+- 💼 [ShareCV - 在几分钟内创建和分享现代简历](https://xinquji.com/posts/179832?utm_campaign=xinquji-rss) | Tue Sep 27 2022 5:28 PM 
     <details><summary>展开描述 ...</summary> 
-     存在于您浏览器中的人工智能！  
+     在几分钟内创建和分享现代简历  
     </details> 
 
-- 🦅 [Formatr - 10 倍您的博客内容质量 - 像 Wirecutter.com 这样的品牌](https://xinquji.com/posts/179813?utm_campaign=xinquji-rss) | Tue Sep 27 2022 7:08 AM 
+- 🦅 [Element Hunter - 为内容创作者自动搜索相关照片和视频](https://xinquji.com/posts/179831?utm_campaign=xinquji-rss) | Tue Sep 27 2022 5:26 PM 
     <details><summary>展开描述 ...</summary> 
-     10 倍您的博客内容质量 - 像 Wirecutter.com 这样的品牌  
+     为内容创作者自动搜索相关照片和视频  
     </details> 
 
-- 😺 [Kable - API 产品的基于使用量的计费](https://xinquji.com/posts/179812?utm_campaign=xinquji-rss) | Tue Sep 27 2022 6:18 AM 
+- 😺 [ReadingLines - 从图像中提取文本](https://xinquji.com/posts/179830?utm_campaign=xinquji-rss) | Tue Sep 27 2022 5:26 PM 
     <details><summary>展开描述 ...</summary> 
-     API 产品的基于使用量的计费  
+     从图像中提取文本  
     </details> 
 <!-- xinquji:END -->
