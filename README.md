@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 匿名者向伊朗政府宣战；TikTok因儿童隐私数据保护面临2700万英镑罚款](https://www.freebuf.com/news/345668.html) | Mon Sep 26 2022 12:14 PM 
+- 🦄 [匿名者向伊朗政府宣战，发起OpIran运动攻击政府网站](https://www.freebuf.com/news/345701.html) | Tue Sep 27 2022 4:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    匿名者（Anonymous）黑客组织宣布发起针对伊朗的OpIran运动，攻击伊朗政府网站，包括情报机构和警方网站。 
+    </details> 
+
+- 🦄 [乌克兰当局警告盟国，俄罗斯正在计划升级网络攻击](https://www.freebuf.com/news/345694.html) | Tue Sep 27 2022 3:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    乌克兰军事情报部门警告称俄罗斯正计划针对乌克兰及其盟国的关键基础设施，进行“大规模网络攻击”。 
+    </details> 
+
+- 🦅 [鼠标悬停也能中招！带毒PPT正用来传播Graphite恶意软件](https://www.freebuf.com/news/345682.html) | Tue Sep 27 2022 2:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    俄罗斯黑客正利用这一技术，让攻击更加隐蔽。 
+    </details> 
+
+- 🪄 [FreeBuf早报 | 匿名者向伊朗政府宣战；TikTok因儿童隐私数据保护面临2700万英镑罚款](https://www.freebuf.com/news/345668.html) | Mon Sep 26 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
     当地时间9月25日，匿名者向伊朗政府宣战，并发起了针对政府网站的#OpIran运动。 
     </details> 
 
-- 🦄 [GitHub用户注意，网络钓鱼活动冒充CircleCI窃取凭证](https://www.freebuf.com/news/345637.html) | Mon Sep 26 2022 8:45 AM 
+- 💻 [GitHub用户注意，网络钓鱼活动冒充CircleCI窃取凭证](https://www.freebuf.com/news/345637.html) | Mon Sep 26 2022 8:45 AM 
     <details><summary>展开描述 ...</summary> 
     有网络钓鱼活动冒充CircleCI DevOps平台，瞄准GitHub用户窃取证书和双因素身份验证（2FA）代码。 
-    </details> 
-
-- 🦅 [澳大利亚史上最大数据泄露事件，40%的居民信息被泄露](https://www.freebuf.com/news/345611.html) | Mon Sep 26 2022 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    此次数据泄露事件波及人数达到该国40%的左右的人口，并成为澳大利亚史上最大的网络安全事件之一。 
-    </details> 
-
-- 🪄 [“匿名者”组织声称黑进了俄罗斯国防部网站](https://www.freebuf.com/news/345581.html) | Mon Sep 26 2022 5:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    匿名者黑客组织声称已成功入侵俄罗斯国防部网站并泄露 305925 人的数据信息。 
-    </details> 
-
-- 💻 [为防钓鱼，Win11新版本在记事本、网站中输入密码时会发出警告](https://www.freebuf.com/news/345570.html) | Mon Sep 26 2022 3:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    新发布的Windows 11 22H2附带增强网络钓鱼防护的新安全功能，当用户在不安全的应用程序或网站上输入Windows密码时会发出警告。 
     </details> 
 <!-- freebuf:END -->
 
