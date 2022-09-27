@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端开发者应该掌握的软链接和硬链接知识（工程化进阶）](https://juejin.cn/post/7147922973612048398) | Tue Sep 27 2022 5:12 AM 
+- 🤗 [初探自然语言预训练技术演进之路](https://juejin.cn/post/7147955988606222350) | Tue Sep 27 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在做一些工程化相关的内容，有使用到 `fs.symlink&lpar;target,path&rpar;`， 想起之前自己傻傻分不清的软/链接，所以这里详细整理下。 
+    语言模型预训练技术将自然语言处理带入了一个新纪元，本文介绍早期词表示技术、静态词向量技术、基于预训练语言模型的动态词向量技术，试图为大家梳理预训练技术的演进路径。 
     </details> 
 
-- 🎡 [手写编程语言-递归函数是如何实现的？](https://juejin.cn/post/7147920512390266894) | Tue Sep 27 2022 5:02 AM 
+- 🎡 [Android如何自定义一个view ViewRootImpl绘制流程](https://juejin.cn/post/7147951288217501726) | Tue Sep 27 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章主要是记录一下在 GScript 中实现递归调用时所遇到的坑，类似的问题在中文互联网上我几乎没有找到相关的内容，所以还是很有必要记录一下。 在开始之前还是简单介绍下本次更新的 GScri 
+    Android如何自定义一个view ViewRootImpl绘制流程 1、自定义属性 在res/values/attrs.xml文件里定义一个declare-styleable name：自定义vi 
     </details> 
 
-- 🕯 [云原生爱好者周刊：你对 K8s 集群升级有信心吗？](https://juejin.cn/post/7147904891942830116) | Tue Sep 27 2022 4:02 AM 
+- 🕯 [写给小白教程之微前端MicroApp（1）](https://juejin.cn/post/7147950467786489869) | Tue Sep 27 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    ## 开源项目推荐 ### [GoNoGo]&lpar;https://github.com/FairwindsOps/gonogo&rpar; 在 Kubernetes 集群中，有多种因素会影响到附加组件的升级成 
+    1、目的 有小伙伴 问 关于 微前端的 问题， 所以专门写一篇 以下内容 引用自 MicroApp 它主要解决了两个问题： 1、随着项目迭代应用越来越庞大，难以维护。 2、跨团队或跨部门协作开发项目导 
     </details> 
 
-- 🚀 [怎么样在应用中实现自助报表功能](https://juejin.cn/post/7147901527133257736) | Tue Sep 27 2022 3:49 AM 
+- 🚀 [Angular | monaco editor的使用](https://juejin.cn/post/7147948276568817678) | Tue Sep 27 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-    自助报表需求已经是越来越普遍，各行业的应用软件中，不管是主动还是被动，都在思考并在努力实现自助报表功能 这样做对于用户来说，可以自由灵活的去分析了解数据，不再拘泥于固定格式的数据报表，方便灵活、体验更 
+    安装依赖 在 angular12 及之前你可以选择 monaco-editor ngx-monaco-editor 这是没有问题的 但是如果你使用了更高版本的 angular..... 
     </details> 
 
-- 💪 [基于 RocketMQ 的 MQTT 服务架构在小米的实践](https://juejin.cn/post/7147898411835441188) | Tue Sep 27 2022 3:37 AM 
+- 💪 [ShareSDKPlus APICloud 模块](https://juejin.cn/post/7147945822024368141) | Tue Sep 27 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-    本文整理自RocketMQ Summit 2022 全球开发者峰会。感兴趣的同学赶快点击本文进行观看吧～ 
+    前言 ShareSDKPlus封装了ShareSDK,是对APICloud平台的支持，为APICloud开发的App提供社交分享功能的一个组件，帮助开发者轻松实现社会化分享、第三方登录等主流功能 
     </details> 
 <!-- juejin:END -->
 ### 少数派
