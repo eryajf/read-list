@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【JAVA】探讨 Java 中 valueOf 和 parseInt 的区别](https://juejin.cn/post/7147868448923025439) | Tue Sep 27 2022 1:40 AM 
+- 🤗 [【杰哥带你玩转Android自动化】学穿：ADB](https://juejin.cn/post/7147631074183479303) | Mon Sep 26 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
-    在编程中，遇到类型转换，好像会经常用到 parseInt 和 valueOf，想必有读者也跟我一样，经常交叉使用这两个方法，但却不知道这两者到底有什么区别，因此，本博文就此进行探究； 
+    🤡所有Android自动化框架和工具中操作Android设备的功能实现 都基于 adb 和 无障碍服务AccessibilityService。本节我们来学穿前者，并实现一个简单的自动打卡jio本~ 
     </details> 
 
-- 🎡 [Android 十六进制状态管理实战](https://juejin.cn/post/7147860255370641445) | Tue Sep 27 2022 1:09 AM 
+- 🎡 [前端全栈之路 - 玩转 Docker &lpar;一&rpar;](https://juejin.cn/post/7147483669299462174) | Mon Sep 26 2022 12:47 AM 
     <details><summary>展开描述 ...</summary> 
-    学习使用十六进制状态管理，实现在多种场景下，控制一系列的按钮是否可操作。 不同场景下，在按钮不可操作的时候，点击弹出对应的Toast。 
+    在之前的 Dveops 小册中，为了节约资源选择了使用虚拟机来搭建服务端环境，但从收到的反馈来看，大部分的同学都很难独立完成虚拟机的搭建从而被劝退了。新的系列将采用 Docker 来完成所有环境的搭建 
     </details> 
 
-- 🕯 [代码案例详解！如何让机器学习模型自解释！](https://juejin.cn/post/7147860041998008350) | Tue Sep 27 2022 1:07 AM 
+- 🕯 [开发一个支持跨平台的 Kotlin 编译器插件](https://juejin.cn/post/7147468443413905416) | Sun Sep 25 2022 11:53 PM 
     <details><summary>展开描述 ...</summary> 
-    本文讲解一种比较全能的『机器学习模型可解释性』方法——SHAP。通过调用Python的SHAP工具库，对机器学习模型做可解释性分析，判断不同特征对于当前模型的重要程度。 
+    前面简单介绍了一下Kotlin编译器插件是什么，但是之前开发的编译器插件是通过修改字节码的方式来修改产物的，只支持JVM平台。今天主要在此基础上，通过修改IR的方式开发一个支持跨平台的编译器插件 
     </details> 
 
-- 🚀 [React Hook 封装常见业务场景，有哪些你用得到？](https://juejin.cn/post/7147858832692084767) | Tue Sep 27 2022 1:03 AM 
+- 🚀 [Flutter 工程化框架选择 — 搞定 UI 生产力](https://juejin.cn/post/7147437014026043399) | Sun Sep 25 2022 10:30 PM 
     <details><summary>展开描述 ...</summary> 
-    本文来看下 ahooks 针对常见的业务场景做了哪些封装。通过对这些 hook 的分析和思考，希望能够给大家在日常工作中遇到的场景有所帮助~ 
+    这是 《Flutter 工程化框架选择》 系列的第二篇 ，就像之前说的，这个系列只是单纯告诉你，创建一个 Flutter 工程，或者说搭建一个 Flutter 工程脚手架，应该如何快速选择适合自己的功 
     </details> 
 
-- 💪 [别整一坨 CSS 代码了，试试这几个实用函数](https://juejin.cn/post/7147849664518160415) | Tue Sep 27 2022 12:28 AM 
+- 💪 [Android Compose 动画使用详解&lpar;一&rpar; Compose 中属性动画的使用探索](https://juejin.cn/post/7147323811824664590) | Sun Sep 25 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
-    CSS比较函数从2020年4月就开始支持了，我喜欢使用这些函数，但最喜欢的是 clamp&lpar;&rpar;，它也是我最常用的一个。在这节课中，我们详细来看下这些比较函数。 Clamp&lpar;&rpar;, Max&lpar;&rpar;, 和 Min 
+    Android开发中动画最流行的是属性动画，因其灵活和强大而被开发者所拥抱。那么它是否能用在Compose开发中呢？如果能那跟传统UI的使用又有什么区别呢？本篇带领你探索Compose中属性动画的使用 
     </details> 
 <!-- juejin:END -->
 ### 少数派
