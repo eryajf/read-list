@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [神秘的“毒王”，为什么钋元素如此之毒？](https://www.cnbeta.com/articles/tech/1321299.htm) | Tue Sep 27 2022 9:26 AM 
+- 🕯 [挖矿凉凉+RTX 40发布双重刺激：显卡行情一落千丈 跌幅上双](https://www.cnbeta.com/articles/tech/1321311.htm) | Tue Sep 27 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2013年10月，著名医学期刊《柳叶刀》上发表了一篇堪比侦探小说的学术论文，主要作者来自瑞士，他们将一件尘封多年的国际公案旧事重提，那便是前巴勒斯坦领导人阿拉法特身故事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着RTX 40系显卡的发布，加之以太坊合并导致挖矿收益锐减，市售显卡的日子自然更不好过。机构对9月15日到23日这一周eBay上显卡价格梳理发现，&lt;strong&gt;RTX 3090和RTX 3060 Ti的降幅最大，均达到11.1%。&lt;/strong&gt;热卖的RTX 3070和RTX 3050也分别有7%和8%的降幅，大多数其它显卡的降幅为2~3%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [HBO《龙之家族》执行制片人第2季开拍前退出剧组](https://hot.cnbeta.com/articles/movie/1321297.htm) | Tue Sep 27 2022 9:19 AM 
+- 💼 [消息称吉利电动商用车品牌“远程汽车”正寻求3亿美元融资](https://www.cnbeta.com/articles/tech/1321309.htm) | Tue Sep 27 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据 DEADLINE 独家报道，HBO的《龙之家族》剧集的执行制片人队伍再次发生了变化。乔斯林·迪亚兹（JocelynDiaz）将不会重返《权力的游戏》续集，目前该剧集已经确认续订第 2 季。消息人士称，她有一份为期一年的合同，其中包含第 2 季的去留选择权，最终她选择离开。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;知情人士今日称，吉利集团旗下电动卡车品牌“远程汽车”正在寻求约3亿美元的融资。这也是远程汽车的首轮融资。知情人士称，新加坡物流和房地产巨头GLP Pte将成为远程汽车本轮融资的主要投资者。此外，中信投资支持的CPE、韩国未来资产（Mirae Asset ）和 GLy Capital Management（吉利和SK支持的中国香港投资公司）也在考虑跟投。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Google Chrome 106今日发布 包含一些实验性的功能](https://www.cnbeta.com/articles/tech/1321295.htm) | Tue Sep 27 2022 9:17 AM 
+- 💂 [Mad Bat双翼飞机eVTOL可以像传统飞机一样在跑道上起飞降落](https://www.cnbeta.com/articles/tech/1321307.htm) | Tue Sep 27 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google Chrome 105浏览器发布至今已有四周时间，这意味着现在是该浏览器下一个主要版本的上市时间。&lt;strong&gt;在新的API和功能方面，Chrome 106并不像它的前辈那样是一个重要的更新，但是它仍然包含了一些有趣的功能，并将在今天的晚些时候开始推送。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;ADIFO全向超音速飞碟背后的团队设计了一个有趣独且特的eVTOL设计原型，其在垂直和水平飞行模式之间的转换方法异常快速和简单。当来自罗马尼亚的Razvan Sabie在2019年向人们展示其ADIFO飞碟设计的工作原型时，它采用的是一个超敏捷的飞碟造型，旨在像无人机一样悬停或在喷气推进的水平飞行中把整个身体当作一个超低阻力的翼面，理论上速度可以突破音障。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [网友在论坛上以2万港币叫卖偷跑的Gigabyte RTX 4090显卡](https://www.cnbeta.com/articles/tech/1321293.htm) | Tue Sep 27 2022 9:14 AM 
+- 🚀 [宝马面向欧洲市场推出小型全电动SUV BMW iX1](https://www.cnbeta.com/articles/tech/1321305.htm) | Tue Sep 27 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;早些时候，一位香港网友在论坛上分享了在官方解禁前、于线上卖家那里购入的一张 Gigabyte GeForce RTX 4090 Gaming OC 显卡。&lt;/strong&gt;由于 RTX 40 系列要大约两周后才正式开售，网友们纷纷向这位神通广大的楼主发起询问。不过接近 20000 港币（约 2548 美元 / 1.83 万 RMB）的离谱报价 —— 较英伟达指导价高出近 1000 美元 —— 还是劝退了不少吃瓜群众。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;宝马面向欧洲市场推出了全新的BMW iX1，这是一款小型全电动SUV，是该公司最小的跨界车BMW X1的电动版。BMW iX1采用了双电机系统，配备了宝马标志性的“自适应M悬架”和64.7千瓦时的电池，续航里程可达257至272英里（413至439公里），百公里加速只需要5.7秒。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [杭州女子买净水机被接下水道：全家喝2年废水](https://www.cnbeta.com/articles/tech/1321289.htm) | Tue Sep 27 2022 9:04 AM 
+- 🎊 [致命疾病拉沙热的流行区域可能在未来几十年内急剧扩大](https://www.cnbeta.com/articles/tech/1321303.htm) | Tue Sep 27 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如果净水机管道接错，天天喝的全是废水，确实很令人无语。据1818黄金眼报道，近日杭州一位方女士反映，她家有一台净水机，&lt;strong&gt;用了两年才知道管子装反了，&lt;/strong&gt;&lt;strong&gt;纯水管接到了下水道，而他们喝的是“浓水”，也就是废水。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项新的分析发现，由于气候变化和其他因素，致命的拉沙热可能很快会成为非洲一个更大的公共卫生问题。这项研究由斯克里普斯研究中心和布鲁塞尔大学的科学家进行，将于今天（9月27日）发表在《自然通讯》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
