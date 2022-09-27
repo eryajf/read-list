@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [IO多路复用select/poll/epoll介绍](https://juejin.cn/post/7147686513914937375) | Mon Sep 26 2022 1:55 PM 
+- 🤗 [含泪刷128道面试题，50万字2022最新Android11位大厂面试专题（六）](https://juejin.cn/post/7147970341246074887) | Tue Sep 27 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-    IO多路复用 多路复用是指使用一个线程来检查多个文件描述符（Socket）的就绪状态，比如调用select和poll函数，传入多个文件描述符，如果有一个文件描述符就绪，则返回，否则阻塞直到超时。得到就 
+    前言 面试专题前面的百度篇，腾讯篇，阿里篇，京东篇，bilibili篇，网易篇，字节篇，小红书，小米九大板块已经更新完了，还剩下2个专题~持续更新中。 
     </details> 
 
-- 🎡 [不用React Vue，只用原生JS，如何开发单页面应用&lpar;SPA&rpar;？](https://juejin.cn/post/7147654933435645960) | Mon Sep 26 2022 11:52 AM 
+- 🎡 [通过Thread Pool Executor类解析线程池执行任务的核心流程](https://juejin.cn/post/7147870632133263396) | Tue Sep 27 2022 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-    之前我发布了一篇文章，介绍自己做的小游戏《Dice Crush》。 本文分享一项技术方案，正是我开发上述游戏时用到的：不用React Vue，只用原生JS，如何开发单页面应用？ 
+    ThreadPoolExecutor是Java线程池中最核心的类之一，它能够保证线程池按照正常的业务逻辑执行任务，并通过原子方式更新线程池每个阶段的状态。 
     </details> 
 
-- 🕯 [打通Web安全思路：为什么我们需要同源策略？](https://juejin.cn/post/7147638444355747870) | Mon Sep 26 2022 10:47 AM 
+- 🕯 [大聪明教你学Java | SpringBoot 整合 Activiti7 实现工作流](https://juejin.cn/post/7147843470881718286) | Tue Sep 27 2022 12:03 AM 
     <details><summary>展开描述 ...</summary> 
-    浏览器安全可以分为三大块——Web 页面安全、浏览器网络安全和浏览器系统安全，所以本文我们就按照这个思路来做介绍 
+    最近大聪明在开发智能办公系统，其中的一个功能模块就是工作流审批。但是由于大聪明之前也没接触过工作流相关的内容，而且百度出来的内容几乎都是不完整的也不能直接借鉴，大聪明就只能硬着头皮一点一点干下去... 
     </details> 
 
-- 🚀 [一个元素纯CSS实现开关按钮【介绍box-shadow、单边或多重阴影、appearance属性】](https://juejin.cn/post/7147625063708114980) | Mon Sep 26 2022 9:56 AM 
+- 🚀 [Machine Learning:机器学习解读（三）](https://juejin.cn/post/7147762543669280798) | Mon Sep 26 2022 6:50 PM 
     <details><summary>展开描述 ...</summary> 
-    借助checkbox表单元素、:checked伪类、::before/::after伪元素，就可以只需一个input[type=&quot;checkbox&quot;]元素，通过纯CSS实现Switch开关效果的按钮. 
+    看完必懂逻辑回归模型。对于这章内容，首先会讲解一下损失函数，然后讲解梯度下降，最后讲解逻辑回归模型。 
     </details> 
 
-- 💪 [React补完计划之Redux篇](https://juejin.cn/post/7147618472699101192) | Mon Sep 26 2022 9:30 AM 
+- 💪 [一文搞懂进程、线程、协程](https://juejin.cn/post/7147756611929374756) | Mon Sep 26 2022 6:30 PM 
     <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情 React补完计划第二篇 
+    为什么需要进程？程序与进程的区别。为什么需要线程？用户线程与内核线程之间的对应关系。协程与线程对比。在 Go 中创建一个 goroutine 过程。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
