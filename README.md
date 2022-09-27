@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Qiankun原理——JS沙箱是怎么做隔离的](https://juejin.cn/post/7148075486403362846) | Tue Sep 27 2022 3:04 PM 
+- 🤗 [gops-云原生环境下诊断程序的好帮手](https://juejin.cn/post/7148081812550451237) | Tue Sep 27 2022 3:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    gops 是一个 Google 开源的可列出和诊断系统上当前运行的 go 进程的命令行工具，配合 agent，可以用来很方便的诊断运行中的 go 程序。 安装 使用 gops 本身可以查看所有 go  
+    </details> 
+
+- 🎡 [2022年 SRE、DevOps技能图谱](https://juejin.cn/post/7148080337799626783) | Tue Sep 27 2022 3:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    在过去一段时间，我面试过一些 DevOps 相关从业者，并且曾经收到过一些知乎小伙伴的提问，针对于 DevOps 以及相关从业者而言，我个人认为这块的要求是比较高的，因为它对 相关技能 以及 工作经验 
+    </details> 
+
+- 🕯 [go中一些常用的基础方法](https://juejin.cn/post/7148079720561803271) | Tue Sep 27 2022 3:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    使用的go语言版本是go1.18。 字符串 1.使用正则表达式验证字符串 使用regexp包中的Match函数： Match函数返回一个表示在b中是否包含和pattern匹配的项的布尔值和一个错误。  
+    </details> 
+
+- 🚀 [Qiankun原理——JS沙箱是怎么做隔离的](https://juejin.cn/post/7148075486403362846) | Tue Sep 27 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
     相信大家也知道 qiankun 有 SnapshotSandbox, LegacySandbox 和 ProxySandbox 这些沙箱，而它们又可以分为单例和多例两种模式，网上也有很多文章对其进行介 
     </details> 
 
-- 🎡 [深入剖析堆原理与堆排序](https://juejin.cn/post/7148069270889431047) | Tue Sep 27 2022 2:39 PM 
+- 💪 [深入剖析堆原理与堆排序](https://juejin.cn/post/7148069270889431047) | Tue Sep 27 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
     本文完全用图解的方式去解释堆的形成过程，非常方便理解，帮助大家快速的掌握堆的原理以及堆排序的具体实现！！！ 
-    </details> 
-
-- 🕯 [【数据处理】Seaborn-NBA数据分析案例（2）](https://juejin.cn/post/7148065704992997384) | Tue Sep 27 2022 2:28 PM 
-    <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第3篇文章，点击查看活动详情 注意：本案例使用 Jupyter NotebookJupyterNotebook 进行案例演示，数据集为NBA球员信 
-    </details> 
-
-- 🚀 [node中的Stream](https://juejin.cn/post/7148061657669828645) | Tue Sep 27 2022 2:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、是什么 流（Stream），是一个数据传输手段，是端到端信息交换的一种方式，而且是有顺序的,是逐块读取数据、处理内容，用于顺序读取输入或写入输出 Node.js中很多对象都实现了流，总之它是会冒数 
-    </details> 
-
-- 💪 [三维地球可视化从入门到进阶 - 基础详解](https://juejin.cn/post/7148052684203884558) | Tue Sep 27 2022 1:37 PM 
-    <details><summary>展开描述 ...</summary> 
-    从今天起开始陆续的更新 `Cesium 三维地球可视化从入门到进阶`专栏的系列文章了, 如果你也对 `三维可视化`比较感兴趣的话，欢迎关注我一起学习 
     </details> 
 <!-- juejin:END -->
 ### 少数派
