@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔和三星正准备推出&quot;可滑动拉伸&quot;PC形态](https://www.cnbeta.com/articles/tech/1321433.htm) | Tue Sep 27 2022 7:19 PM 
+- 🕯 [黑莓Q2营收1.68亿美元超预期 净亏损同比缩窄至5400万美元](https://www.cnbeta.com/articles/tech/1321445.htm) | Tue Sep 27 2022 11:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星显示器和英特尔正在开发&amp;quot;可滑动&amp;quot;PC。在英特尔今天的创新主题演讲中，三星显示器公司首席执行官JS Choi出现在舞台上并展示了一台原型电脑，它可以从13英寸的平板电脑拉伸成17英寸的显示器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;黑莓&lpar;BB.US&rpar;公布了一份超预期的2023财年第二季度业绩。财报显示，黑莓Q2营收为1.68亿美元，同比下降4%，市场预期为1.658亿美元;净亏损5400万美元，上年同期为1.44亿美元;摊薄后每股亏损0.10美元，上年同期为0.25美元;Non-GAAP每股亏损0.05美元，市场预期为每股亏损0.07美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [出厂6GHz频率达成 Intel官宣13代酷睿限量版](https://www.cnbeta.com/articles/tech/1321431.htm) | Tue Sep 27 2022 7:07 PM 
+- 💼 [福布斯：特斯拉CEO马斯克首次登顶美国富豪榜首](https://www.cnbeta.com/articles/tech/1321443.htm) | Tue Sep 27 2022 11:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;曾经，我们一味追求处理器的高频率；后来，我们不断增加核心数量；现在，多核心、高频率也可以兼得了！对于改良版的Intel 7制造工艺、全新的CPU架构，Intel Raptor Lake 13代酷睿的频率得以大大提升，睿频加速最高可达5.8GHz，即便是E核也能加速到4.3GHz。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;北京时间9月28日凌晨消息，特斯拉CEO埃隆-马斯克现在是美国最富有的人。&lt;/strong&gt;福布斯公布2022年度美国400富豪榜，其中马斯克以2510亿美元的身价排名第一，远超亚马逊创始人杰夫-贝佐斯，后者以1510亿美元排名第二。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [北溪天然气管道事件首张现场图片传回 多方指向蓄意袭击](https://www.cnbeta.com/articles/tech/1321429.htm) | Tue Sep 27 2022 7:02 PM 
+- 💂 [斯诺登入籍俄罗斯引多方关注 美方宣称他仍应回到美国接受审判](https://www.cnbeta.com/articles/tech/1321441.htm) | Tue Sep 27 2022 11:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着连接俄罗斯与德国的“北溪1号”和“北溪2号”天然气管道在过去24小时内接连发生3起罕见大型泄漏事件，涉及此事件的各方均认为该事件很可能不是单纯的机械故障。&lt;/strong&gt;先简单概述下事情：欧洲当地时间周一晚间，两根天然气管道内的压力先后出现骤降，随后丹麦海事部门首先报告“北溪2号”天然气管道疑似出现“大规模泄露”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;俄罗斯总统普京26日签署总统令，给予包括美国中央情报局前雇员、美国前防务承包商雇员爱德华·斯诺登在内的70多名外国人俄罗斯国籍。斯诺登称，获得俄罗斯国籍能让他家人的生活稳定下来。美国国务院方面则表示，斯诺登获得俄国籍不会影响华盛顿的立场，“他仍应回到美国接受审判”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国批准50个州的电动汽车充电站计划](https://www.cnbeta.com/articles/tech/1321427.htm) | Tue Sep 27 2022 7:01 PM 
+- 🚀 [零跑汽车在港IPO发行价定为每股48港元](https://www.cnbeta.com/articles/tech/1321439.htm) | Tue Sep 27 2022 11:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美东时间周二，美国运输部（USDOT）表示，已提前批准在50个州、华盛顿特区和波多黎各自治邦建造电动汽车充电站的计划，该计划覆盖约75000英里（120700公里）的高速公路。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间9月28日早间消息，零跑汽车在港IPO最终发售价定为每股48.00港元。零跑科技本次IPO募集资金约40%用于研发、约25%用于提升生产能力，约25%用于扩张业务及提升品牌知名度，约10%用于运营资金及一般公司用途。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [上半年互联网财产保险保费收入530.4亿 同比减少1.4%](https://www.cnbeta.com/articles/tech/1321425.htm) | Tue Sep 27 2022 6:57 PM 
+- 🎊 [Apple Silicon推出两年后，英特尔仍希望苹果成为其芯片客户](https://www.cnbeta.com/articles/tech/1321437.htm) | Tue Sep 27 2022 11:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;27日，中国保险行业协会官网发布《2022年上半年互联网财产保险发展分析报告》（以下简称《报告》）。根据协会统计，2022年上半年，共计73家财产保险公司开展互联网业务，经营主体数量基本保持稳定。互联网财产保险累计保费收入530.4亿，同比负增长1.4%（新口径下，2021年互联网财产保险保费收入537.7亿）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔公司坚持认为它可以让苹果再次成为它的客户，一位高管称，尽管Apple Silicon取得了成功但公司可以赢回苹果。苹果的Mac系列的大多数产品已经脱离了英特尔的芯片，除了一台电脑之外，其他电脑都在搭载了Apple Sillion。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
