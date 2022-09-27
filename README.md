@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NOAA无人机以前所未有的方式捕捉到一场飓风](https://www.cnbeta.com/articles/science/1321099.htm) | Tue Sep 27 2022 2:03 AM 
+- 🕯 [Sollers有意收购马自达俄罗斯合资企业股份](https://www.cnbeta.com/articles/tech/1321163.htm) | Tue Sep 27 2022 4:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据BGR报道，&lt;strong&gt;美国国家海洋和大气管理局（NOAA）发布了一段视频，显示其使用的机器人以前所未有的方式捕捉到了一场飓风。&lt;/strong&gt;这段视频在YouTube上发布，内容是由NOAA的Saildrone，一架23英尺长的无人机拍摄的画面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;俄罗斯汽车制造商Sollers在9月26日表示，该公司正在与马自达就收购后者俄罗斯合资企业的股份进行谈判，当前这家日本汽车制造商正准备结束其俄罗斯业务。马自达在今年3月宣布，由于俄乌局势升级，将停止向该合资企业位于符拉迪沃斯托克（Vladivostok）的工厂出口零部件，并将在库存零部件耗尽后停止生产。去年马自达在俄罗斯的销量为3万辆左右。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [游戏平台Roblox当试验田：沃尔玛借道进入元宇宙](https://www.cnbeta.com/articles/tech/1321097.htm) | Tue Sep 27 2022 1:56 AM 
+- 💼 [这年头住Airbnb  怎么成了倒贴钱的“家政工”？](https://www.cnbeta.com/articles/tech/1321161.htm) | Tue Sep 27 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，沃尔玛正在向元宇宙挺进，它在线上游戏平台Roblox推出两套体验。&lt;strong&gt;沃尔玛首次进入VR世界带来了可以丢玩具的飞艇、集合热门艺人的音乐节、一些游戏和虚拟商品，另外还有“沃尔玛Land”和“Universe of Play”两套体验。&lt;/strong&gt;很明显，沃尔玛正在寻找接触购物者的新方式，之前大流行改变了消费者购物习惯，也改变了消费者与社交媒体、App、游戏网站的交互方式，这也是沃尔调整策略的原因之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Airbnb曾经代表着独特又美好的住宿体验：独具特色的房子，房主提供的当地推荐，完备的生活用具，甚至比酒店更低的价格……而且，和酒店的标准化服务不一样，房主和房客双向的评价机制，让房主们致力于提供最好的服务，房客们除了要付价格不菲的清洁费，还会尽自己所能帮助维护房子清洁状况，以获得五星评价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [澳大利亚在发生大规模数据泄露后将全面修订隐私法](https://www.cnbeta.com/articles/tech/1321095.htm) | Tue Sep 27 2022 1:54 AM 
+- 💂 [零跑亏损超55亿 创始人朱江明年薪近5000万元](https://www.cnbeta.com/articles/tech/1321159.htm) | Tue Sep 27 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继澳大利亚历史上最大的数据泄露事件之一之后，澳大利亚政府正在计划对网络攻击的披露要求展开更严格的审查&lt;strong&gt;。当地时间周一，该国总理安东尼·阿尔巴尼斯告诉澳大利亚广播电台4BC，政府打算全面修订隐私法，以要求任何遭受数据泄露的公司跟银行分享可能受到影响的客户的详细信息从而来减少欺诈。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近段时间，威马汽车创始人年薪12亿元，引起网友关注与热议。不过，造车新势力中，零跑汽车也因高管年薪，引起注意。9月27日消息，据“网上车市”报道，零跑汽车招股书显示，公司在2019年-2022年3月亏损额持续增加，&lt;strong&gt;累计经营亏损约55.41亿元，其中仅2021年经营亏损就达到了28.68亿元。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [火药味渐浓：马斯克将接受Twitter律师询问 他是否会出言不逊？](https://www.cnbeta.com/articles/tech/1321093.htm) | Tue Sep 27 2022 1:51 AM 
+- 🚀 [兰博基尼大牛Aventador正式停产](https://www.cnbeta.com/articles/tech/1321157.htm) | Tue Sep 27 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，本周，Twitter律师将会对亿万富豪埃隆·马斯克（Elon Musk）进行询问，了解他为何在7月突然宣布放弃对Twitter440亿美元的收购。Twitter的律师可能会利用这次询问来证明，马斯克放弃这笔交易是因为金融市场下跌，而不是像他说的那样因为用户数据或安全问题存疑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然很遗憾，但兰博基尼大牛Aventador还是迎来了正式停产。近日，最后一台燃油版大牛下线，它是一辆采用定制浅蓝色的Aventador LP 780-4 Ultimae跑车，&lt;strong&gt;配备6.5升V12发动机，最大马力780匹，峰值扭矩720牛米&lt;/strong&gt;，是Aventador所有车型中最强的存在。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [工信部研究推进eSIM 手机实体卡要成历史？](https://www.cnbeta.com/articles/tech/1321091.htm) | Tue Sep 27 2022 1:51 AM 
+- 🎊 [启蒙一代球迷的《足球小将》 曾给我们留下了怎样的游戏佳作？](https://hot.cnbeta.com/articles/game/1321153.htm) | Tue Sep 27 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着智能手机发展，零部件精密度越来越高，机身内部空间寸土寸金。早年间，手机可以用TF卡托实现容量扩展，但受限于机身内较小的物理空间，TF卡槽逐渐淡出人们的视野。SIM卡自诞生以来也不断瘦身——从一张银行卡的面积到如今已变成指甲盖大小，并延续多年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;1982 年，TECMO 一共只出了两款游戏，却都成为了史上留名的佳作。其中一款是《忍者龙剑传》，另一款则是我们今天的主角。1980 年 12 月 26 日，西班牙世界杯亚洲区预选赛在香港举行。比赛结束日本队零比一不敌中国队，痛失世界杯资格。消息传回日本，整个足球圈陷入低潮，这段时期被后人称作日本足球的冬天。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1321153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
