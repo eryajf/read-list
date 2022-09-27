@@ -440,29 +440,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《辛普森一家》第34季开场沙发恶搞向Google Chrome的T-Rex游戏致敬](https://hot.cnbeta.com/articles/comic/1320989.htm) | Mon Sep 26 2022 11:23 PM 
+- 🕯 [NOAA无人机以前所未有的方式捕捉到一场飓风](https://www.cnbeta.com/articles/science/1321099.htm) | Tue Sep 27 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;刚刚过去的周日晚上，《辛普森一家》第34季开场，这部动画常青树以向Chrome浏览器的错误信息“跳跳恐龙”游戏致敬的形式，让剧中人物出现在Google复活节彩蛋当中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1320989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据BGR报道，&lt;strong&gt;美国国家海洋和大气管理局（NOAA）发布了一段视频，显示其使用的机器人以前所未有的方式捕捉到了一场飓风。&lt;/strong&gt;这段视频在YouTube上发布，内容是由NOAA的Saildrone，一架23英尺长的无人机拍摄的画面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [大众、Umicroe的合作显示循环型EV电池经济正在升温](https://www.cnbeta.com/articles/tech/1320987.htm) | Mon Sep 26 2022 11:18 PM 
+- 💼 [游戏平台Roblox当试验田：沃尔玛借道进入元宇宙](https://www.cnbeta.com/articles/tech/1321097.htm) | Tue Sep 27 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大众正在跟一家比利时技术集团合作以在欧洲生产电池材料，这是整个行业一系列交易中的最新一项，其目的是在汽车制造商转向电动汽车时创建一个能满足生产目标的循环电池经济。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，沃尔玛正在向元宇宙挺进，它在线上游戏平台Roblox推出两套体验。&lt;strong&gt;沃尔玛首次进入VR世界带来了可以丢玩具的飞艇、集合热门艺人的音乐节、一些游戏和虚拟商品，另外还有“沃尔玛Land”和“Universe of Play”两套体验。&lt;/strong&gt;很明显，沃尔玛正在寻找接触购物者的新方式，之前大流行改变了消费者购物习惯，也改变了消费者与社交媒体、App、游戏网站的交互方式，这也是沃尔调整策略的原因之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Meta试图统一账户管理 让平台间切换变得更容易](https://www.cnbeta.com/articles/tech/1320985.htm) | Mon Sep 26 2022 11:14 PM 
+- 💂 [澳大利亚在发生大规模数据泄露后将全面修订隐私法](https://www.cnbeta.com/articles/tech/1321095.htm) | Tue Sep 27 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Meta周一对外宣称，它正在测试新功能，该功能可以让用户通过一个界面管理Facebook和Instagram账户。&lt;strong&gt;由此可以看出，Meta试图统一各App，使彼此之间没有那么大的差异。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;继澳大利亚历史上最大的数据泄露事件之一之后，澳大利亚政府正在计划对网络攻击的披露要求展开更严格的审查&lt;strong&gt;。当地时间周一，该国总理安东尼·阿尔巴尼斯告诉澳大利亚广播电台4BC，政府打算全面修订隐私法，以要求任何遭受数据泄露的公司跟银行分享可能受到影响的客户的详细信息从而来减少欺诈。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [RTX 30降价后：AMD RX 6000系显卡跟随大降 供应链称好戏刚开始](https://www.cnbeta.com/articles/tech/1320983.htm) | Mon Sep 26 2022 11:14 PM 
+- 🚀 [火药味渐浓：马斯克将接受Twitter律师询问 他是否会出言不逊？](https://www.cnbeta.com/articles/tech/1321093.htm) | Tue Sep 27 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;RTX30系列显卡调降、发布新一代RTX40系列显卡新品后，AMD也宣布调降RX6000系列显卡售价，幅度最高达近3成。&lt;/strong&gt; AMD RX 6000显卡最新价目表：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1320983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，本周，Twitter律师将会对亿万富豪埃隆·马斯克（Elon Musk）进行询问，了解他为何在7月突然宣布放弃对Twitter440亿美元的收购。Twitter的律师可能会利用这次询问来证明，马斯克放弃这笔交易是因为金融市场下跌，而不是像他说的那样因为用户数据或安全问题存疑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《双人成行》开发商新游戏疑似使用姐妹双主角](https://hot.cnbeta.com/articles/game/1320981.htm) | Mon Sep 26 2022 11:13 PM 
+- 🎊 [工信部研究推进eSIM 手机实体卡要成历史？](https://www.cnbeta.com/articles/tech/1321091.htm) | Tue Sep 27 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;游戏开发商Hazelight是一家十分特别的公司，他们已经推出的三款游戏全部支持双人游玩，尤其是最新的《双人成行》更是火出游戏圈，让不少男女情侣也开始享受电子游戏带来的乐趣。那么，这家公司的近况如何？新游戏做的怎么样了呢？&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1320981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着智能手机发展，零部件精密度越来越高，机身内部空间寸土寸金。早年间，手机可以用TF卡托实现容量扩展，但受限于机身内较小的物理空间，TF卡槽逐渐淡出人们的视野。SIM卡自诞生以来也不断瘦身——从一张银行卡的面积到如今已变成指甲盖大小，并延续多年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
