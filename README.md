@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [印度澄清强制要求智能手机支持NavIC一事：未确定时间表](https://www.cnbeta.com/articles/tech/1321397.htm) | Tue Sep 27 2022 4:31 PM 
+- 🕯 [Rust v10补丁预期将在与Linux 6.1合并前发布](https://www.cnbeta.com/articles/tech/1321419.htm) | Tue Sep 27 2022 5:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据路透社报道，印度政府正在推动手机制造商从2023年1月1日起在印度销售的智能手机上支持其本土研发的导航系统NavIC。NavIC（印度星座导航系统）是印度空间机构ISRO为军事和商业目的开发的印度区域导航卫星系统（IRNSS）的操作名称。它的星座由八颗卫星组成，覆盖印度半岛和从其边界延伸至1500公里的区域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在Linux内核中领导Rust编程语言基础支持工作的Miguel Ojeda今天发布了这些补丁的第十个版本。这些Rust v10补丁预计最快将在下周与Linux 6.1内核合并的窗口中进入主线。&lt;/strong&gt;对Linux内核的Rust v10支持包括27个补丁，共计12.5万行新代码。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软将Windows 11上运行Android应用的功能带入更多国家和地区](https://www.cnbeta.com/articles/tech/1321395.htm) | Tue Sep 27 2022 4:19 PM 
+- 💼 [Intel 13代酷睿国行价格公布 有的涨400、有的降100](https://www.cnbeta.com/articles/tech/1321417.htm) | Tue Sep 27 2022 5:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;支持在Windows 11上运行Android应用程序是该操作系统中最大的新功能之一。而随着最近宣布的Windows 11 2022更新的发布，标志着这一创新扩展到更多地区。微软再次更新了在Windows上支持Amazon Appstore的国家名单--Amazon Appstore是为用户提供在Windows 11设备上访问Android应用的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel今天正式发布了Raptor Lake 13代酷睿处理器、Z790主板芯片组，国行价格也已公开。13代酷睿首发还是六款K、KF系列无锁频版本，具体价格如下——&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“总有神助”贾跃亭](https://www.cnbeta.com/articles/tech/1321393.htm) | Tue Sep 27 2022 2:49 PM 
+- 💂 [英特尔CEO基辛格:摩尔定律未来十年依然有效 希望2030年一个芯片能有1万亿晶体管](https://www.cnbeta.com/articles/tech/1321415.htm) | Tue Sep 27 2022 5:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“拨乱反正、重回正轨，这是FF又一个重大拐点”，贾跃亭在社交平台分享了夺回FF控制权的消息。要说威马CEO被12亿年薪的事整得略有点委屈，贾跃亭则是一贯的斗志昂扬，还略带些兴奋。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月28日凌晨消息，在2022英特尔on技术创新峰会上，英特尔CEO帕特·基辛格重申英特尔对开放生态系统的坚定信念——在未来的技术上进行开放式创新，提供选择，帮助推动行业形成标准，并提供可以信赖的解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究表明比特币开采消耗的可持续电力组合可能正在减少](https://www.cnbeta.com/articles/tech/1321391.htm) | Tue Sep 27 2022 2:37 PM 
+- 🚀 [英特尔Arc A770和A750显卡将于10月12日正式推出](https://www.cnbeta.com/articles/tech/1321413.htm) | Tue Sep 27 2022 5:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;剑桥大学替代金融中心（CCAF）对比特币开采的最新研究表明，所使用的可持续电力组合正在下降。&lt;/strong&gt;CCAF是剑桥大学商学院的一部分，它使用公开的数据来运行一个理论模型来估计比特币开采的环境足迹。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔终于宣布了让玩家们期待已久的Arc显卡系列的硬性推出日期，其中，英特尔Arc A770和A750将首先推出，并将于10月12日上市。下面是A770的包装图：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [PICO 4 VR一体机新品发布：售价2499元起 将推VR版《三体》](https://www.cnbeta.com/articles/tech/1321389.htm) | Tue Sep 27 2022 2:37 PM 
+- 🎊 [英特尔发布Unison应用 支持将iOS和Android手机与PC同步](https://www.cnbeta.com/articles/tech/1321411.htm) | Tue Sep 27 2022 5:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月27日消息，PICO在中国市场正式发布新一代VR一体机——PICO 4系列，售价2499元起。这是PICO被字节跳动收购以来首次发布升级换代产品。据悉，PICO 4产品配置达到行业领先水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔宣布了一款名为Unison的有趣的新应用程序，其目的是&amp;quot;无缝&amp;quot;连接由英特尔驱动的计算机和智能手机--不仅是Android手机，还有iOS设备。按照英特尔所说的&amp;quot;简单的配对过程&amp;quot;，Unison应用将允许电脑复制连接手机的四个关键功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
