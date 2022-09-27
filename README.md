@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [加密货币平台Nexo已被美国八个州的证券监管机构提起诉讼](https://www.cnbeta.com/articles/tech/1321313.htm) | Tue Sep 27 2022 11:11 AM 
+- 🕯 [研究发现失眠会增加老年人罹患痴呆症的风险](https://www.cnbeta.com/articles/science/1321363.htm) | Tue Sep 27 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;代表纽约、加利福尼亚、肯塔基、马里兰、俄克拉荷马、南卡罗来纳、华盛顿和佛蒙特的八家美国州证券监管机构，已向加密平台 Nexo 提起了诉讼。&lt;strong&gt;纽约总检察长 Letitia James 在新闻稿中指出，Nexo 和 Nexo Capital 未注册该州的证券、商品经纪人或交易商，并就其注册状态向投资者撒了谎。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;最近的研究表明，心理障碍是痴呆症和其他认知障碍的一个重要合并症。根据加拿大最近的研究，有失眠症的老年人更有可能出现记忆衰退和长期认知障碍，包括痴呆症。&lt;/strong&gt;发表在《睡眠》杂志上的这项研究是基于超过26000名45至85岁的加拿大老龄化纵向研究人员的数据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [挖矿凉凉+RTX 40发布双重刺激：显卡行情一落千丈 跌幅上双](https://www.cnbeta.com/articles/tech/1321311.htm) | Tue Sep 27 2022 10:06 AM 
+- 💼 [软星宣布《轩辕剑柒》登陆Switch：主机性能遭遇新挑战](https://hot.cnbeta.com/articles/game/1321361.htm) | Tue Sep 27 2022 12:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着RTX 40系显卡的发布，加之以太坊合并导致挖矿收益锐减，市售显卡的日子自然更不好过。机构对9月15日到23日这一周eBay上显卡价格梳理发现，&lt;strong&gt;RTX 3090和RTX 3060 Ti的降幅最大，均达到11.1%。&lt;/strong&gt;热卖的RTX 3070和RTX 3050也分别有7%和8%的降幅，大多数其它显卡的降幅为2~3%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，软星的合作开发商eastasissoft宣布，&lt;strong&gt;将会把软星近年发售的四款游戏带到Switch平台，其中就包含了《轩辕剑柒》。&lt;/strong&gt;《轩辕剑柒》是《轩辕剑》系列的第十三部作品，由大宇旗下DOMO小组开发制作，采用虚幻4引擎开发，并运用了诸如动作捕捉等技术。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1321361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [消息称吉利电动商用车品牌“远程汽车”正寻求3亿美元融资](https://www.cnbeta.com/articles/tech/1321309.htm) | Tue Sep 27 2022 9:57 AM 
+- 💂 [AMD锐龙9 7950X实测：节能模式功耗超低 性能还比12代酷睿强](https://www.cnbeta.com/articles/tech/1321359.htm) | Tue Sep 27 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知情人士今日称，吉利集团旗下电动卡车品牌“远程汽车”正在寻求约3亿美元的融资。这也是远程汽车的首轮融资。知情人士称，新加坡物流和房地产巨头GLP Pte将成为远程汽车本轮融资的主要投资者。此外，中信投资支持的CPE、韩国未来资产（Mirae Asset ）和 GLy Capital Management（吉利和SK支持的中国香港投资公司）也在考虑跟投。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD Zen4锐龙7000处理器将于今晚正式开卖，国行价格如下，锐龙9 7950X：5499元、锐龙9 7900X：4299元、锐龙7 7700X：2999元、锐龙5 7600X：2249元。在对锐龙9 7950X的测试中，PCworld注意到了这次新增的节能模式（Eco Mode）。原来，7950X的TDP是170W，但使用节能模式可以设定105W和65W两个新的功耗挡位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Mad Bat双翼飞机eVTOL可以像传统飞机一样在跑道上起飞降落](https://www.cnbeta.com/articles/tech/1321307.htm) | Tue Sep 27 2022 9:51 AM 
+- 🚀 [垂直层叠加厚电极方案有望兼顾电池容量和快充速度提升](https://www.cnbeta.com/articles/science/1321357.htm) | Tue Sep 27 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;ADIFO全向超音速飞碟背后的团队设计了一个有趣独且特的eVTOL设计原型，其在垂直和水平飞行模式之间的转换方法异常快速和简单。当来自罗马尼亚的Razvan Sabie在2019年向人们展示其ADIFO飞碟设计的工作原型时，它采用的是一个超敏捷的飞碟造型，旨在像无人机一样悬停或在喷气推进的水平飞行中把整个身体当作一个超低阻力的翼面，理论上速度可以突破音障。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在 2022 年 9 月 26 日发表于《美国国家科学院院刊》（PNAS）上的一篇文章中，&lt;strong&gt;德州大学奥斯汀分校的一支研究团队，详细介绍了《用于高密度厚电池电极的垂直组装纳米片网络》。&lt;/strong&gt;为了提升快充速度和增加续航里程，科学家们在实验中提出了一种很有前途的设计。突破的关键，在于运用由垂直堆叠层组成的加厚电极，以更容易地传输锂离子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [宝马面向欧洲市场推出小型全电动SUV BMW iX1](https://www.cnbeta.com/articles/tech/1321305.htm) | Tue Sep 27 2022 9:48 AM 
+- 🎊 [袁隆平生前牵挂的水稻亩产再创新高 将筛选耐盐碱水稻新品种](https://www.cnbeta.com/articles/science/1321355.htm) | Tue Sep 27 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;宝马面向欧洲市场推出了全新的BMW iX1，这是一款小型全电动SUV，是该公司最小的跨界车BMW X1的电动版。BMW iX1采用了双电机系统，配备了宝马标志性的“自适应M悬架”和64.7千瓦时的电池，续航里程可达257至272英里（413至439公里），百公里加速只需要5.7秒。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;第五个中国农民丰收节刚过，袁隆平生前牵挂的兴安盟水稻传来测产捷讯。9月26日至27日，第三方测产专家组对内蒙古兴安盟袁隆平院士工作站多个基地粳稻、耐盐碱水稻进行测算，其中“157”亩产量达717.56公斤，“1189”亩产量达540.3公斤，均创下新高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
