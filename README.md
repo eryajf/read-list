@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [gops-云原生环境下诊断程序的好帮手](https://juejin.cn/post/7148081812550451237) | Tue Sep 27 2022 3:29 PM 
+- 🤗 [求职指南！给数据开发的SQL面试准备路径！](https://juejin.cn/post/7148087349031731214) | Tue Sep 27 2022 3:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    大量的数据科学职位需要精通 SQL，它也是数据分析师、数据科学家、数据建模岗最常考核的面试技能。在本篇内容中 ShowMeAI 将梳理汇总所有面试 SQL 问题，按照不同的主题构建练习专项块。 
+    </details> 
+
+- 🎡 [使用 Notion 数据库进行 Next.js 应用全栈开发](https://juejin.cn/post/7148086916598988830) | Tue Sep 27 2022 3:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    今天我就得带大家来白嫖一下 Notion 数据库，让我们的个人应用轻松上线，本文记录了利用 Next.js 和 Notion API 编写了一个前端刷题网站的全过程。 
+    </details> 
+
+- 🕯 [gops-云原生环境下诊断程序的好帮手](https://juejin.cn/post/7148081812550451237) | Tue Sep 27 2022 3:29 PM 
     <details><summary>展开描述 ...</summary> 
     gops 是一个 Google 开源的可列出和诊断系统上当前运行的 go 进程的命令行工具，配合 agent，可以用来很方便的诊断运行中的 go 程序。 安装 使用 gops 本身可以查看所有 go  
     </details> 
 
-- 🎡 [2022年 SRE、DevOps技能图谱](https://juejin.cn/post/7148080337799626783) | Tue Sep 27 2022 3:23 PM 
+- 🚀 [2022年 SRE、DevOps技能图谱](https://juejin.cn/post/7148080337799626783) | Tue Sep 27 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
     在过去一段时间，我面试过一些 DevOps 相关从业者，并且曾经收到过一些知乎小伙伴的提问，针对于 DevOps 以及相关从业者而言，我个人认为这块的要求是比较高的，因为它对 相关技能 以及 工作经验 
     </details> 
 
-- 🕯 [go中一些常用的基础方法](https://juejin.cn/post/7148079720561803271) | Tue Sep 27 2022 3:21 PM 
+- 💪 [go中一些常用的基础方法](https://juejin.cn/post/7148079720561803271) | Tue Sep 27 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     使用的go语言版本是go1.18。 字符串 1.使用正则表达式验证字符串 使用regexp包中的Match函数： Match函数返回一个表示在b中是否包含和pattern匹配的项的布尔值和一个错误。  
-    </details> 
-
-- 🚀 [Qiankun原理——JS沙箱是怎么做隔离的](https://juejin.cn/post/7148075486403362846) | Tue Sep 27 2022 3:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    相信大家也知道 qiankun 有 SnapshotSandbox, LegacySandbox 和 ProxySandbox 这些沙箱，而它们又可以分为单例和多例两种模式，网上也有很多文章对其进行介 
-    </details> 
-
-- 💪 [深入剖析堆原理与堆排序](https://juejin.cn/post/7148069270889431047) | Tue Sep 27 2022 2:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文完全用图解的方式去解释堆的形成过程，非常方便理解，帮助大家快速的掌握堆的原理以及堆排序的具体实现！！！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
