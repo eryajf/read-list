@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [郎朗演奏《巫妖王之怒》主题曲：送给所有魔兽玩家](https://hot.cnbeta.com/articles/music/1321271.htm) | Tue Sep 27 2022 8:28 AM 
+- 🕯 [神秘的“毒王”，为什么钋元素如此之毒？](https://www.cnbeta.com/articles/tech/1321299.htm) | Tue Sep 27 2022 9:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;钢琴家郎朗在个人微博账号发布了演奏《魔兽世界：巫妖王之怒》主题曲的视频。&lt;/strong&gt;《魔兽世界》怀旧服“巫妖王之怒”今日已正式上线，诺森德大陆及等级上限也随之解锁，新服银色北伐军（5区PVP）也已开放。70级角色直升服务现已推出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1321271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2013年10月，著名医学期刊《柳叶刀》上发表了一篇堪比侦探小说的学术论文，主要作者来自瑞士，他们将一件尘封多年的国际公案旧事重提，那便是前巴勒斯坦领导人阿拉法特身故事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Chromium内核浏览器即将迎来英伟达RTX 40显卡的AV1编码支持](https://www.cnbeta.com/articles/tech/1321269.htm) | Tue Sep 27 2022 8:27 AM 
+- 💼 [HBO《龙之家族》执行制片人第2季开拍前退出剧组](https://hot.cnbeta.com/articles/movie/1321297.htm) | Tue Sep 27 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周，英伟达推出了基于 Ada Lovelace GPU 架构的 RTX 4090 和 RTX 4080 显卡，该公司承诺性能是上一代 RTX 30 系列 Ampere GPU 的四倍。&lt;strong&gt;不过除了游戏性能提升，RTX 40 显卡带来的另一个惊喜，就是对 AV1 媒体编码的支持（此前英伟达 GPU 只能解码 AV1 内容）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据 DEADLINE 独家报道，HBO的《龙之家族》剧集的执行制片人队伍再次发生了变化。乔斯林·迪亚兹（JocelynDiaz）将不会重返《权力的游戏》续集，目前该剧集已经确认续订第 2 季。消息人士称，她有一份为期一年的合同，其中包含第 2 季的去留选择权，最终她选择离开。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《名侦探柯南：犯人犯泽先生》第一话新截图：柯南画风很诡异](https://hot.cnbeta.com/articles/comic/1321267.htm) | Tue Sep 27 2022 8:19 AM 
+- 💂 [Google Chrome 106今日发布 包含一些实验性的功能](https://www.cnbeta.com/articles/tech/1321295.htm) | Tue Sep 27 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今日（9月27日），《名侦探柯南：犯人犯泽先生》官方公布了第一话新截图，动画将于10月4日在网飞播出&lt;/strong&gt;，将由苍井翔太担任配音，OP《捕まえて、今夜。》由新浜レオン演唱，EP《Secret, voice of my heart》由仓木麻衣演唱。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1321267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google Chrome 105浏览器发布至今已有四周时间，这意味着现在是该浏览器下一个主要版本的上市时间。&lt;strong&gt;在新的API和功能方面，Chrome 106并不像它的前辈那样是一个重要的更新，但是它仍然包含了一些有趣的功能，并将在今天的晚些时候开始推送。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [MIT科学家设计“细胞漫游者” 用于探索和增强细胞的内部世界](https://www.cnbeta.com/articles/science/1321265.htm) | Tue Sep 27 2022 8:09 AM 
+- 🚀 [网友在论坛上以2万港币叫卖偷跑的Gigabyte RTX 4090显卡](https://www.cnbeta.com/articles/tech/1321293.htm) | Tue Sep 27 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;麻省理工学院媒体实验室（MIT Media Lab）的研究人员设计了一种微型天线，可以在活细胞内无线操作，为医疗诊断和治疗以及其他科学过程提供了可能性&lt;/strong&gt;，因为这种天线有可能实时监测甚至指导细胞活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;早些时候，一位香港网友在论坛上分享了在官方解禁前、于线上卖家那里购入的一张 Gigabyte GeForce RTX 4090 Gaming OC 显卡。&lt;/strong&gt;由于 RTX 40 系列要大约两周后才正式开售，网友们纷纷向这位神通广大的楼主发起询问。不过接近 20000 港币（约 2548 美元 / 1.83 万 RMB）的离谱报价 —— 较英伟达指导价高出近 1000 美元 —— 还是劝退了不少吃瓜群众。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《新·奥特曼》发布中字预告 10月13日在中国香港上映](https://hot.cnbeta.com/articles/movie/1321263.htm) | Tue Sep 27 2022 7:52 AM 
+- 🎊 [杭州女子买净水机被接下水道：全家喝2年废水](https://www.cnbeta.com/articles/tech/1321289.htm) | Tue Sep 27 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;电影《新·奥特曼》发布中字预告，已定档10月13日在中国香港上映。&lt;/strong&gt;本作是奥特曼系列55周年纪念电影，由庵野秀明担任企划、编剧，樋口真嗣执导，主演包括斋藤工、长泽雅美、西岛秀俊、有冈大贵等。 5月13日在日本上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果净水机管道接错，天天喝的全是废水，确实很令人无语。据1818黄金眼报道，近日杭州一位方女士反映，她家有一台净水机，&lt;strong&gt;用了两年才知道管子装反了，&lt;/strong&gt;&lt;strong&gt;纯水管接到了下水道，而他们喝的是“浓水”，也就是废水。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
