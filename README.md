@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [奔驰车机被曝推送广告遮挡导航界面 客服回应不清楚活动有弹窗](https://www.cnbeta.com/articles/tech/1321647.htm) | Wed Sep 28 2022 4:47 AM 
+- 🕯 [英特尔公布Z790芯片集：增加兼容PCIe Gen4的通道数量](https://www.cnbeta.com/articles/tech/1321659.htm) | Wed Sep 28 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，一位一汽大众 ID.6 纯电车车主反映，在使用车载导航驾驶时，中控屏突然出现弹窗广告，遮挡了行驶中的导航信息引发网友热议。不过，车机弹广告并非是大众专属，奔驰车机也出现了广告。据博主放出的图片显示，这款奔驰车的中控屏出现的广告位于顶部状态栏：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在推出第 13 代酷睿“Raptor Lake”桌面处理器之外，英特尔在本周二还宣布了配套的主板芯片集 Z790。由于 Raptor Lake 桌面处理器和第 12 代一样均基于 LGA1700 封装，因此这两代是互相兼容的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [山西天空漂浮巨型“玫瑰云” 专家答疑：火箭发动机喷出的余迹](https://www.cnbeta.com/articles/science/1321645.htm) | Wed Sep 28 2022 4:46 AM 
+- 💼 [Fast Company的Apple News访问被劫持并发送淫秽推送通知](https://www.cnbeta.com/articles/tech/1321657.htm) | Wed Sep 28 2022 5:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;漂亮的天象很容易吸引人。据@四川观察报道，9月26日，在山西忻州，市民在傍晚的天空中发现一朵“玫瑰云”，这朵玫瑰园从金色渐变为玫红色，飘在空中，诡谲又美丽，张女士表示：这朵云漂浮了一个多小时，五彩斑斓的！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;The Verge称，已经有一段时间没有发生过高调的媒体推送劫持事件了，但当地时间9月27日晚有人通过Fast Company发送了一个包含有种族污蔑和特定性行为邀请的Apple News通知。苹果在其Apple News Twitter账户上处理了这一事件，称它已经禁用了Fast Company的频道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [亚马逊页面曝光谷歌Pixel 7价格：599美元](https://www.cnbeta.com/articles/tech/1321643.htm) | Wed Sep 28 2022 4:44 AM 
+- 💂 [英特尔发布了XeSS超级采样技术的1.0 SDK](https://www.cnbeta.com/articles/tech/1321655.htm) | Wed Sep 28 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，据Phone Arena报道，亚马逊曝光了谷歌Pixel 7售价，&lt;strong&gt;卖599美元（约合人民币4300元），比iPhone 14便宜200美元。&lt;/strong&gt;和谷歌Pixel 6对比，谷歌Pixel 7整体升级幅度不大，&lt;strong&gt;芯片是谷歌最新定制的Google Tensor G2，Geekbench单核成绩是1068，多核成绩是3149，跟高通骁龙888相当。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在圣何塞举办的创新活动期间，Intel 正式发布了 XeSS 超级采样技术的 1.0 版 SDK 源码。&lt;/strong&gt;作为 AMD FSR 和 NVIDIA DLSS 的替代方案，XeSS 不仅适用于英特尔自家的 Arc Graphics 图形硬件，也兼容其它供应商的 GPU 硬件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [消息称iPhone 14需求不及预期 苹果取消今年增产计划](https://www.cnbeta.com/articles/tech/1321639.htm) | Wed Sep 28 2022 4:32 AM 
+- 🚀 [波音交付第100架737-800BCF](https://www.cnbeta.com/articles/tech/1321653.htm) | Wed Sep 28 2022 5:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月28日消息，知情人士透露，由于此前预期的新手机需求激增并未出现，苹果取消增加新款iPhone产量的既定计划。iPhone 14系列智能手机发布后，苹果公司曾希望新品上市能引发销量井喷，但迄今未能如愿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;波音公司今日宣布交付737-800波音改装货机（BCF）项目的第100架飞机，客户为世界上最大的租赁公司AerCap。&lt;/strong&gt;第100架737-800BCF的改装工作由上海波音航空改装维修工程有限公司（上海波音）完成，世界上首条737-800BCF改装线正是于2016年在这家波音合资维修企业启动的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [东风日产全新纯电Ariya艾睿雅上市 售价27.28万起](https://www.cnbeta.com/articles/tech/1321637.htm) | Wed Sep 28 2022 4:30 AM 
+- 🎊 [Windows 11 22H2小技巧：CTRL+Shift+C组合键可轻松复制文件路径](https://www.cnbeta.com/articles/tech/1321651.htm) | Wed Sep 28 2022 5:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，东风日产全新纯电动车Ariya艾睿雅正式上市。&lt;strong&gt;新车共推出4款车型，售价区间为27.28-34.28万元。&lt;/strong&gt;该车也是日产转型电动化道路上的一款重磅车型，基于CMF-EV平台打造，定位紧凑型SUV，将于10月开始交车，厂商给出了7000元置换补贴等购车优惠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着首轮更新推送的到来，许多人正在期盼着揭开 Windows 11 22H2 的更多彩蛋。&lt;strong&gt;而在周二的一条推文中，微软工程师 Jen Gentleman 就分享了一个有趣的小技巧。&lt;/strong&gt;可知在安装了 Windows 11 22H2 更新后，用户将能够使用 CTRL+ Shift + C 的组合键，拷贝选定文件的存储路径。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
