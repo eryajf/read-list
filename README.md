@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [飞行汽车？它不一定非要和汽车扯上关系](https://www.cnbeta.com/articles/tech/1321871.htm) | Wed Sep 28 2022 1:14 PM 
+- 🕯 [微软发布Windows 11 22H2带外更新KB5019311](https://www.cnbeta.com/articles/tech/1321883.htm) | Wed Sep 28 2022 3:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;飞行汽车成了新风口。从小鹏这样的造车新势力，到大众这样的老牌车企；再从波音空客这样的飞行器制造商，到Lilium 这样的飞行器初创企业，飞行汽车产业涌进了两股力量的新老血液，科幻感十足的飞行汽车产品近年来层出不穷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软刚刚发布了Windows 11版本22H2的带外更新，试图解决一些用户遇到的安装媒体错误。微软解释说，&lt;strong&gt;这一补丁解决了一些设置文件的本地化问题，主要用来纠正可能阻止创建刚刚发布不久的2022 Update版本新的安装媒介的故障。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [北溪泄漏之后 有个问题比能源危机更让人担忧](https://www.cnbeta.com/articles/tech/1321869.htm) | Wed Sep 28 2022 1:12 PM 
+- 💼 [2022 Q2全球十大晶圆代工厂商排名](https://www.cnbeta.com/articles/tech/1321881.htm) | Wed Sep 28 2022 3:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;俄罗斯位于波罗的海的两条北溪输气管道发生不明原因的泄漏，尽管目前还不清楚泄漏的程度，人们担心这一泄漏可能导致温室气体排放增加，带来气候灾难。虽然这两条管道都没有在运行，但都含有天然气——主要由甲烷组成，甲烷是一种强有力的温室气体，是气候变化的第二大原因，仅次于二氧化碳。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月28日消息，据市场研究机构集邦咨询TrendForce最新发布报告显示，今年第二季度前十大晶圆代工产值达到332.0亿美元，但因消费市况转弱，环比增幅已放缓至3.9%。具体厂商方面，台积电受惠于HPC、IoT与车用备货需求强劲，第二季度营收为181.5亿美元，排名第一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel Arc A770/A750官方图赏：金闪闪的中国独享设计](https://www.cnbeta.com/articles/tech/1321867.htm) | Wed Sep 28 2022 1:01 PM 
+- 💂 [查理兹塞隆曝好莱坞黑暗面 曾被导演要求当众换衣服](https://hot.cnbeta.com/articles/movie/1321879.htm) | Wed Sep 28 2022 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel今天正式发布了Arc A系列独立显卡的四款新品，包括Arc A770 16/8GB、Arc A750、Arc A310，加上此前的Arc A380，以及后续的Arc A580，终于要完成第一代布局了。Arc A770是旗舰满血版本，32个Xe核心，频率2100MHz，256-bit 16GHz GDDR6显存，功耗225W。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，47岁好莱坞知名影星查理兹·塞隆，在接受时尚杂志专访时透露，自己身为演员无法拒绝片场工作人员的指示，曾经有一些男人直接叫她在他们面前换衣服。她还透露出道多年对于角色的服装造型，向来没有主导权，穿衣风格得依男性喜好，甚至有男导演要求她当众换性感连身裙。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [长城哈弗H6 DHT-PHEV上市：纯电能跑110KM 15.98万起](https://www.cnbeta.com/articles/tech/1321865.htm) | Wed Sep 28 2022 1:01 PM 
+- 🚀 [放弃iPhone 14增产消息传出后苹果股价大跌：带崩美国半导体公司](https://www.cnbeta.com/articles/tech/1321877.htm) | Wed Sep 28 2022 2:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月28日晚间，哈弗H6 DHT-PHEV正式上市，新车共推出三款车型，&lt;strong&gt;售价区间15.98-17.38万元，纯电续航分为55km和110km两档。&lt;/strong&gt;外观来看，国产版也将沿用泰国版的整体造型，前脸拥有大尺寸的进气格栅，与哈弗神兽造型相似。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果的iPhone 14系列手机已经上市，高阶的Pro系列销量倒是火爆了一阵，然而标准版iPhone 14销量不佳。据报道，标准版iPhone以往是出货的主力，然而今年表现并不好，甚至开售当天价格就破发了，这也意味着消费者对其兴趣不大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [飓风“伊恩”进入墨西哥湾 朝着佛罗里达州的西海岸前进](https://www.cnbeta.com/articles/science/1321863.htm) | Wed Sep 28 2022 1:00 PM 
+- 🎊 [改买256GB的iPhone 14 苹果能赚走90%利润](https://www.cnbeta.com/articles/tech/1321875.htm) | Wed Sep 28 2022 2:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年9月27日，在古巴西部登陆后，3级飓风“伊恩”进入墨西哥湾，其轨迹瞄准了佛罗里达，似乎正朝着该州的西海岸前进。美国宇航局的Terra卫星在当地时间2022年9月27日中午（世界时间16:00）左右，使用其中分辨率成像光谱仪（MODIS）获得了这账飓风伊恩的自然色图像（上图）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在智能手机行业，苹果是标杆性的存在，虽然全球销量干不过三星，只能位居第二，然而他们一家就能赚走整个行业大部分利润，吸金能力爆表，苹果对赚钱的算计几乎体现在每个细节上，比如升级闪存容量，苹果都能大赚一笔。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
