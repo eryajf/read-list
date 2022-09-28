@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Redis】五大常见的数据类型之 Hash](https://juejin.cn/post/7148310072123195422) | Wed Sep 28 2022 6:14 AM 
+- 🤗 [非大厂如何搞前端基建、纯前端实现活体人脸检测｜掘金一周 09.28](https://juejin.cn/post/7148337116290744357) | Wed Sep 28 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-    我们都知道 Redis 提供了丰富的数据类型，常见的有五种：String，Hash，List，Set、Zset。今天我们就来详细的聊聊 Redis 这五大常见的数据类型之一 Hash； 
+    【掘金一周09.28】本期看点：那些你不知道的炫酷按钮交互效果、Spring中最常用的11个扩展点、一文带你玩转ProtoBuf... 
     </details> 
 
-- 🎡 [MySQL查询数据库表记录数](https://juejin.cn/post/7148308750955675655) | Wed Sep 28 2022 6:08 AM 
+- 🎡 [HashMap源码，看我这篇就够了](https://juejin.cn/post/7148312314314227725) | Wed Sep 28 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在做统计想查找一个数据库里基本所有的表数据量,下面这篇文章主要给大家介绍了关于MySQL如何统计一个数据库所有表的数据量的相关资料,文中通过示例代码介绍的非常详细,需要的朋友可以参考下 
+    ## HashMap源码深度剖析 ```markdown * HashMap底层数据结构&lpar;为什么引入红黑树、存储数据的过程、哈希碰撞相关问题&rpar; * HashMap成员变量&lpar;初始化容量是多少、负 
     </details> 
 
-- 🕯 [IDEA 插件开发教程（二）](https://juejin.cn/post/7147984442521288735) | Tue Sep 27 2022 9:10 AM 
+- 🕯 [webpack实战，手写loader和plugin](https://juejin.cn/post/7148294909366108167) | Wed Sep 28 2022 5:17 AM 
     <details><summary>展开描述 ...</summary> 
-    本文是 IDEA 插件开发教程的第二篇，通过本文你可以学会如何把一个老的插件项目运行起来，因为只有运行起来，才能更好的对插件进行分析，看看某个功能别人是如何实现的，提升自己的插件开发水平。 
+    序言 对于 webpack 来说， loader 和 plugin 可以算是需求程度最为广泛的配置项了。但是呢，单单止步于配置可能还不够。如果我们自己有时候想要 diy 一个需求，但是 webpack 
     </details> 
 
-- 🚀 [聊一聊Swift中的闭包](https://juejin.cn/post/7147973109482520583) | Tue Sep 27 2022 8:26 AM 
+- 🚀 [Node.js | 基础完结、综合训练 —— 路由应用实战教程](https://juejin.cn/post/7148269590353543175) | Wed Sep 28 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 Swift中的闭包Closure. 1 Swift中的闭包结构是什么样的? 2 什么是尾随闭包? 将一个很长的闭包表达式作为函数的最后一个实参. 使用尾随闭包可以增强函数 
+    经过前面的学习，我们已经对NodeJS的基础内容有了一定的了解，本篇文章将从0开始带大家去创建一个简易的NodeJS路由应用，快来围观吧！ 
     </details> 
 
-- 💪 [Reactive Programming相关概念了解入门](https://juejin.cn/post/7147961986888761358) | Tue Sep 27 2022 7:43 AM 
+- 💪 [深入浅出Nodejs中的大文件读写](https://juejin.cn/post/7148051371060068389) | Tue Sep 27 2022 1:30 PM 
     <details><summary>展开描述 ...</summary> 
-    为了应对 高并发环境下 的服务端编程，xx提出了一个实现异步编程的方案 - Reactive Programming，中文名称 反应式编程。 
+    笔者最近在做一些node端的文件读写和分片上传工作，在这个过程中，发现node读取的文件如果超过2G，超过了读取Blob最大值，会出现读取异常，此外在node中读写文件也受服务器RAM的限制等，需要分 
     </details> 
 <!-- juejin:END -->
 ### 少数派
