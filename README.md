@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [亚马逊即将举办线上沟通会 公布新一批家居智能硬件产品](https://www.cnbeta.com/articles/tech/1321849.htm) | Wed Sep 28 2022 12:41 PM 
+- 🕯 [飞行汽车？它不一定非要和汽车扯上关系](https://www.cnbeta.com/articles/tech/1321871.htm) | Wed Sep 28 2022 1:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;亚马逊有一些新产品即将面世，该公司今天将举行一个仅限受邀者参加的虚拟活动，预计将介绍其品牌阵容中的产品。亚马逊非常善于对其即将发布的产品进行保密，它通常利用其每年9月的活动来宣布大量的新产品。&lt;/strong&gt;这些产品可能来自亚马逊自己的产品阵容--包括Kindle、Fire TV和Echo--以及其收购的一些品牌，如Eero、Ring和Blink。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;飞行汽车成了新风口。从小鹏这样的造车新势力，到大众这样的老牌车企；再从波音空客这样的飞行器制造商，到Lilium 这样的飞行器初创企业，飞行汽车产业涌进了两股力量的新老血液，科幻感十足的飞行汽车产品近年来层出不穷。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马斯克聘请的分析师统计Twitter机器人的数量后发现比预期的要少](https://www.cnbeta.com/articles/tech/1321847.htm) | Wed Sep 28 2022 12:37 PM 
+- 💼 [北溪泄漏之后 有个问题比能源危机更让人担忧](https://www.cnbeta.com/articles/tech/1321869.htm) | Wed Sep 28 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在Twitter与埃隆-马斯克之争的最新争论中，这家社交媒体公司声称，马斯克聘请的两家分析公司统计平台上的机器人，发现的数量比他预期的少。Twitter的律师还说，直到最近，这位首席执行官的法律团队还在隐瞒这些数据。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;俄罗斯位于波罗的海的两条北溪输气管道发生不明原因的泄漏，尽管目前还不清楚泄漏的程度，人们担心这一泄漏可能导致温室气体排放增加，带来气候灾难。虽然这两条管道都没有在运行，但都含有天然气——主要由甲烷组成，甲烷是一种强有力的温室气体，是气候变化的第二大原因，仅次于二氧化碳。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [联想发布ThinkReality VRX：一款面向企业元宇宙的一体化VR头显](https://www.cnbeta.com/articles/tech/1321841.htm) | Wed Sep 28 2022 12:30 PM 
+- 💂 [Intel Arc A770/A750官方图赏：金闪闪的中国独享设计](https://www.cnbeta.com/articles/tech/1321867.htm) | Wed Sep 28 2022 1:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;联想今天发布了其最新的一体式虚拟现实头显，并称其被设计为&amp;quot;高质量、多功能和安全的企业元宇宙通道&amp;quot;。新的ThinkReality VRX头显由Snapdragon XR平台驱动，具有小巧的外形、薄饼式光学器件和全彩、高分辨率的信号直通能力，适用于混合现实应用。它还为企业提供全套的端到端服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel今天正式发布了Arc A系列独立显卡的四款新品，包括Arc A770 16/8GB、Arc A750、Arc A310，加上此前的Arc A380，以及后续的Arc A580，终于要完成第一代布局了。Arc A770是旗舰满血版本，32个Xe核心，频率2100MHz，256-bit 16GHz GDDR6显存，功耗225W。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NVIDIA再推公版 国行RTX 4090 Founders Edition将开售](https://www.cnbeta.com/articles/tech/1321839.htm) | Wed Sep 28 2022 12:27 PM 
+- 🚀 [长城哈弗H6 DHT-PHEV上市：纯电能跑110KM 15.98万起](https://www.cnbeta.com/articles/tech/1321865.htm) | Wed Sep 28 2022 1:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA已发布了新一代GeForce RTX 4090 / RTX 4080系列显卡，采用基于Ada Lovelace架构的GPU和台积电定制的4nm工艺，加上第三代RTX光追架构和DLSS 3等新技术，大幅度提升了性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月28日晚间，哈弗H6 DHT-PHEV正式上市，新车共推出三款车型，&lt;strong&gt;售价区间15.98-17.38万元，纯电续航分为55km和110km两档。&lt;/strong&gt;外观来看，国产版也将沿用泰国版的整体造型，前脸拥有大尺寸的进气格栅，与哈弗神兽造型相似。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [大神开盖暴力改造AMD Zen4锐龙处理器散热：温度暴降21℃](https://www.cnbeta.com/articles/tech/1321837.htm) | Wed Sep 28 2022 12:26 PM 
+- 🎊 [飓风“伊恩”进入墨西哥湾 朝着佛罗里达州的西海岸前进](https://www.cnbeta.com/articles/science/1321863.htm) | Wed Sep 28 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨晚，AMD Zen 4架构锐龙7000处理器正式开卖，国行方面，锐龙9 7950X 5499元、锐龙9 7900X 4299元、锐龙7 7700X 2999元、锐龙5 7600X 2249元。既然有新处理器，免不了被发烧友们拿来折腾。硬件大神Der8auer出手，给手头的Zen 4锐龙来了一波开盖降温。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年9月27日，在古巴西部登陆后，3级飓风“伊恩”进入墨西哥湾，其轨迹瞄准了佛罗里达，似乎正朝着该州的西海岸前进。美国宇航局的Terra卫星在当地时间2022年9月27日中午（世界时间16:00）左右，使用其中分辨率成像光谱仪（MODIS）获得了这账飓风伊恩的自然色图像（上图）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
