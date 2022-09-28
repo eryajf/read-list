@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊聊xxl-job二次开发 以及 IT糟糕的大环境](https://juejin.cn/post/7148429719845732383) | Wed Sep 28 2022 2:00 PM 
+- 🤗 [后疫情时代，RTE“沉浸式”体验还能这么玩？丨RTE 2022 编程挑战赛赛后专访](https://juejin.cn/post/7148444086762995725) | Wed Sep 28 2022 2:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    GGBOT 团队使用 flutter+Go 作为框架语言，深度使用了声网 RTC 技术，进行 Token 鉴权、云端录制、频道管理；借助环信 SDK 技术实现账号注册、聊天室创建与维护、房源群组等相关 
+    </details> 
+
+- 🎡 [数据开发也能双轮驱动?](https://juejin.cn/post/7148442601996156936) | Wed Sep 28 2022 2:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章主要讲解DataFactory的维度建模概念，业务驱动模型开发流程以及两种开发模式的对比。 通过本文了解DataFactory双轮驱动指哪两种开发模式？它们的具体流程是什么？分别适合什么场景 
+    </details> 
+
+- 🕯 [LeetCode判定是否互为字符重排使用JavaScript解题|前端学算法](https://juejin.cn/post/7148439523477684260) | Wed Sep 28 2022 2:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    使用JavaScript解决LeetCode判定是否互为字符重排的算法题，前端学习算法，每天三分钟一个知识点 
+    </details> 
+
+- 🚀 [聊聊xxl-job二次开发 以及 IT糟糕的大环境](https://juejin.cn/post/7148429719845732383) | Wed Sep 28 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
     “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第n篇文章，点击查看活动详情” 闲聊 1、最近身边蛮多朋友被裁员，让我深切感受到这个糟糕的大环境，而且不是说个人能力不行🙅，先大环境不咋地，然后 
     </details> 
 
-- 🎡 [车载行业有望成为下一个互联网行业时代风口](https://juejin.cn/post/7148428146277089287) | Wed Sep 28 2022 1:52 PM 
+- 💪 [车载行业有望成为下一个互联网行业时代风口](https://juejin.cn/post/7148428146277089287) | Wed Sep 28 2022 1:52 PM 
     <details><summary>展开描述 ...</summary> 
     Android系统在手机时代大家再熟悉不过了，起初Android本未涉足车载OS。 但部分供应商为了低成本应用将Android搬上了汽车，在大部分汽车电气化不足，自动驾驶尚处于概念之时，各色Andro 
-    </details> 
-
-- 🕯 [嘿，朋友，其实 CSS 动画超简单的 - animation 动画篇（配备各属性详解）](https://juejin.cn/post/7148427068772974629) | Wed Sep 28 2022 1:48 PM 
-    <details><summary>展开描述 ...</summary> 
-    上篇讲完了渐变动画，本篇我们讲一下 animation 动画，animation 动画相比渐变动画来讲功能更丰富，使用也更复杂，不过其中相通之处也很多，建议看完上篇再来看本篇可以更方便吸收。 常见使用 
-    </details> 
-
-- 🚀 [项目管理中常见的十个问题](https://juejin.cn/post/7148418473314992135) | Wed Sep 28 2022 1:16 PM 
-    <details><summary>展开描述 ...</summary> 
-    项目开发过程中会遇到很多问题，今天分享十个常见问题及应对思路。 问题一，线上出bug了，是先找责任人，还是先处理问题？ 
-    </details> 
-
-- 💪 [js 中以 ... 为前缀到底有几种用法？](https://juejin.cn/post/7148415918303870983) | Wed Sep 28 2022 1:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    ES6 开始，js 新增了剩余参数语法、展开语法等，它们有个共同之处就是都以 ... 这么个符号为前缀，好像很多地方都可以用到，但实际上又不是同一回事，容易让初学者晕头转向。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
