@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星手机电池极易鼓包引发老外集体吐槽](https://www.cnbeta.com/articles/tech/1321797.htm) | Wed Sep 28 2022 10:20 AM 
+- 🕯 [IDC：二季度显示器出货量小幅增长 2022下半年形势不容乐观](https://www.cnbeta.com/articles/tech/1321803.htm) | Wed Sep 28 2022 10:33 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;经历了 2020-2021 年的激增，COVID-19 大流行后时代的经济数据，表明市场正在全面降低对 PC 组件的需求。然而这一负面影响，似乎并未在显示器上得到体现。&lt;/strong&gt;由国际数据公司（IDC）最新分享的数据可知：与 2021 年 2 季度相比，2022 年 2 季度的全球显示器出货量增长了 2.7% —— 与 PC 和其它计算机组件的需求下降形成了鲜明对比。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [细节拉满：苹果AirPods Pro 2篆刻内容会弹窗显示](https://www.cnbeta.com/articles/tech/1321801.htm) | Wed Sep 28 2022 10:31 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;上周五，苹果的旗舰降噪无线耳机AirPods Pro 2已开始发售，首批用户已经用了几天时间。虽然整体在外观和体验上，AirPods Pro 2与上代没有带来巨大提升，甚至初代用户升级之后可能感受很小，但有些细节苹果还是十分到位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [人类之外的物种能否进化出文明？](https://www.cnbeta.com/articles/science/1321799.htm) | Wed Sep 28 2022 10:25 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国连线杂志网站8月22日刊登题为《人类之外的物种能否进化出文明》的文章。全文摘编如下：当人类文明走到尽头还会有另一个先进文明发展起来。相信这个论点是令人宽慰的，但先别这么快下结论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [三星手机电池极易鼓包引发老外集体吐槽](https://www.cnbeta.com/articles/tech/1321797.htm) | Wed Sep 28 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;来自英国的Up主Mrwhosetheboss没想到，自己的运气会这么差。日前，在发现手头的Galaxy Note 8出现电池鼓包问题后，他决定买一部新手机。可“屋漏偏逢连夜雨”，就在这时候，去翻找备用机的他看到，2015年购买的Galaxy S6和2019年买的S10居然出现了一模一样的鼓包情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [揭秘地球上有史以来最大的海洋](https://www.cnbeta.com/articles/science/1321795.htm) | Wed Sep 28 2022 10:18 AM 
+- 🎊 [揭秘地球上有史以来最大的海洋](https://www.cnbeta.com/articles/science/1321795.htm) | Wed Sep 28 2022 10:18 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;太平洋是地球历史上最大水体的残余物。据联合国教科文组织政府间海洋学委员会的数据，目前地球上面积最大的海洋太平洋覆盖了地球表面30%以上的面积，从哥伦比亚至马来半岛，太平洋东西最大宽度达12000英里（约合19000公里）。但这片辽阔的海洋只是地球历史上最大海洋的残余物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [研究人员介绍如何用无人机建造房屋](https://www.cnbeta.com/articles/tech/1321793.htm) | Wed Sep 28 2022 10:15 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据德国《世界报》网站9月25日报道，无人机可以在飞行中逐层建造大型物体——就像一台飞行的3D打印机。例如，未来可用这一方法在难以进入的地点或灾后建造临时住房，以及在不使用脚手架的情况下修复外墙。伦敦帝国理工学院的米尔科·科瓦奇领导的团队最近在《自然》杂志上介绍了他们的这一发明。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [英伟达澄清对RTX 40显卡电源功率要求担忧](https://www.cnbeta.com/articles/tech/1321791.htm) | Wed Sep 28 2022 10:15 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在英伟达的RTX 40 系列正式发布之前，有一些关于其功耗的令人不安的谣言，尤其是配备AD102 的 RTX4090。当时有人称英伟达下一代旗舰 AD102 RTX 40 系列显卡将需要900W 的 TGP 功耗。目前英伟达官方已经澄清该传闻并不属实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321791.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [不寻常的埃博拉病毒菌株在乌干达造成23人死亡 暂无疫苗和治疗方法可用](https://www.cnbeta.com/articles/tech/1321789.htm) | Wed Sep 28 2022 10:07 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;乌干达的卫生官员正在争分夺秒地应对由一种较少见的埃博拉病毒种类--苏丹埃博拉病毒（SUDV）--引起的突发埃博拉疫情，目前尚无疫苗或治疗方法。&lt;/strong&gt;迄今为止的信息表明，疫情应对工作可能比苏丹病毒的最初传播晚了三周，苏丹病毒的潜伏期长达21天，病例死亡率在41%至100%之间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
