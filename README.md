@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [非大厂如何搞前端基建、纯前端实现活体人脸检测｜掘金一周 09.28](https://juejin.cn/post/7148337116290744357) | Wed Sep 28 2022 7:59 AM 
+- 🤗 [我哭死😭，IntersectionObserver 怎么那么好用！](https://juejin.cn/post/7148344217494880269) | Wed Sep 28 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    【掘金一周09.28】本期看点：那些你不知道的炫酷按钮交互效果、Spring中最常用的11个扩展点、一文带你玩转ProtoBuf... 
+    什么玩意？？ 他是一个Web API，用我的4级英语直接翻译过来就是“交叉观察者”（如果你觉得不行，那就按照你的来），从字面意思理解他就是一位观察员，观察某些元素之间是否发生了交叉行为（狗头保命🐶 观 
     </details> 
 
-- 🎡 [HashMap源码，看我这篇就够了](https://juejin.cn/post/7148312314314227725) | Wed Sep 28 2022 6:23 AM 
+- 🎡 [prompt 综述](https://juejin.cn/post/7148336645199101960) | Wed Sep 28 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
-    ## HashMap源码深度剖析 ```markdown * HashMap底层数据结构&lpar;为什么引入红黑树、存储数据的过程、哈希碰撞相关问题&rpar; * HashMap成员变量&lpar;初始化容量是多少、负 
+    prompt的初衷是能够运用于zero shot和few shot的场景，使得语言模型可以在预训练阶段利用尽可能多的信息进行训练，后续也能最大效率的发挥其作用。 
     </details> 
 
-- 🕯 [webpack实战，手写loader和plugin](https://juejin.cn/post/7148294909366108167) | Wed Sep 28 2022 5:17 AM 
+- 🕯 [Ruby Programming | 连载 03 - Ruby 对象基础](https://juejin.cn/post/7148336602699202567) | Wed Sep 28 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
-    序言 对于 webpack 来说， loader 和 plugin 可以算是需求程度最为广泛的配置项了。但是呢，单单止步于配置可能还不够。如果我们自己有时候想要 diy 一个需求，但是 webpack 
+    一、Ruby 对象 Ruby 中所有的数据结构和值都是对象，包括基本的数字和字符串以及数组 Array、散列表 Hash 这样的复杂数据结构。 每个对象都能够响应一组特定的 消息，对象能够接收的每个消 
     </details> 
 
-- 🚀 [Node.js | 基础完结、综合训练 —— 路由应用实战教程](https://juejin.cn/post/7148269590353543175) | Wed Sep 28 2022 3:37 AM 
+- 🚀 [微服务后端开发的痛点！你遇到了嘛？](https://juejin.cn/post/7148330204270690318) | Wed Sep 28 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
-    经过前面的学习，我们已经对NodeJS的基础内容有了一定的了解，本篇文章将从0开始带大家去创建一个简易的NodeJS路由应用，快来围观吧！ 
+    从痛点出发 相信很多微服务后端开发的小伙伴，在日常工作中会遇到一个痛点： 本地开发了一个新功能或者解了一个bug后进行需要调试，由于k8s集群在云端，本地的服务是无法直接接入的，此时开发同学只能通过本 
     </details> 
 
-- 💪 [深入浅出Nodejs中的大文件读写](https://juejin.cn/post/7148051371060068389) | Tue Sep 27 2022 1:30 PM 
+- 💪 [Java&amp;C++题解与拓展——leetcode面试题17.09 第k个数【么的新知识】](https://juejin.cn/post/7148329967821488141) | Wed Sep 28 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-    笔者最近在做一些node端的文件读写和分片上传工作，在这个过程中，发现node读取的文件如果超过2G，超过了读取Blob最大值，会出现读取异常，此外在node中读写文件也受服务器RAM的限制等，需要分 
+    leetcode面试题17.09 第k个数解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
