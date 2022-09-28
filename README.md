@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [以色列国防巨头埃尔比特系统美国分公司遭黑客攻击](https://www.freebuf.com/news/345820.html) | Wed Sep 28 2022 6:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    以色列国防承包商埃尔比特系统美国分公司网络在6月初遭到黑客攻击。 
+    </details> 
+
 - 🦄 [美国网攻西工大另一图谋曝光：查询中国境内敏感身份人员信息](https://www.freebuf.com/news/345788.html) | Wed Sep 28 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
     进一步揭露了美国对西北工业大学组织网络攻击的目的：渗透控制中国基础设施核心设备，窃取中国用户隐私数据等。 
     </details> 
 
-- 🦄 [WitAwards 2022中国网络安全行业年度评选正式启动！](https://www.freebuf.com/fevents/345774.html) | Tue Sep 27 2022 10:54 AM 
+- 🦅 [WitAwards 2022中国网络安全行业年度评选正式启动！](https://www.freebuf.com/fevents/345774.html) | Tue Sep 27 2022 10:54 AM 
     <details><summary>展开描述 ...</summary> 
     即日起，WitAwards 2022中国网络安全行业年度评选正式启动，共设立五大奖项，并将在CIS 2022网络安全创新大会现场揭晓并颁奖。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 澳大利亚将全面修订隐私法；欧盟 ENISA 发布网络安全技能框架](https://www.freebuf.com/news/345706.html) | Tue Sep 27 2022 5:39 AM 
+- 🪄 [FreeBuf早报 | 澳大利亚将全面修订隐私法；欧盟 ENISA 发布网络安全技能框架](https://www.freebuf.com/news/345706.html) | Tue Sep 27 2022 5:39 AM 
     <details><summary>展开描述 ...</summary> 
     俄罗斯总统普京授予NSA 告密者斯诺登俄罗斯公民身份。 
     </details> 
 
-- 🪄 [匿名者向伊朗政府宣战，发起OpIran运动攻击政府网站](https://www.freebuf.com/news/345701.html) | Tue Sep 27 2022 4:13 AM 
+- 💻 [匿名者向伊朗政府宣战，发起OpIran运动攻击政府网站](https://www.freebuf.com/news/345701.html) | Tue Sep 27 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
     匿名者（Anonymous）黑客组织宣布发起针对伊朗的OpIran运动，攻击伊朗政府网站，包括情报机构和警方网站。 
-    </details> 
-
-- 💻 [普京正式授予斯诺登俄罗斯国籍](https://www.freebuf.com/news/345699.html) | Tue Sep 27 2022 4:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    俄罗斯总统普京正式签署命令，授予爱德华·斯诺登俄罗斯国籍，相应文件已发布在法律信息门户网站上。 
     </details> 
 <!-- freebuf:END -->
 
