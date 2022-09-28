@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [面向小众的 TWS：Cyberblade 主观体验](https://sspai.com/post/75968) | Wed Sep 28 2022 7:53 AM 
+- 👹 [从世乒赛团体赛开始，看懂每一场乒乓球比赛](https://sspai.com/post/75965) | Wed Sep 28 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022 年 9 月 30 日第 56 届国际乒联世界乒乓球团体锦标赛将于成都市正式举行。希望我这次的分享可以给想观看乒乓球比赛的各位提供一些入门信息。&lt;a href=&quot;https://sspai.com/post/75965&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [面向小众的 TWS：Cyberblade 主观体验](https://sspai.com/post/75968) | Wed Sep 28 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
     我的AirPodsPro2还没发货，我的AirPodsPro1已经吃灰很久。AirPodsPro的耳塞我越来越戴不稳，再加上比较「白开水」的调音，以及削弱后的主动降噪效果，让我觉得虽然AirPodsP ...&lt;a href=&quot;https://sspai.com/post/75968&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [Notion 的自动化改造之路：Notion x Zapier 初尝试](https://sspai.com/post/75842) | Wed Sep 28 2022 6:27 AM 
+- 🤭 [Notion 的自动化改造之路：Notion x Zapier 初尝试](https://sspai.com/post/75842) | Wed Sep 28 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75842&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [用代码编辑器进行知识管理：我用 VSCode 构建自己的笔记系统](https://sspai.com/post/75940) | Wed Sep 28 2022 3:29 AM 
+- 🥸 [用代码编辑器进行知识管理：我用 VSCode 构建自己的笔记系统](https://sspai.com/post/75940) | Wed Sep 28 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75940&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：PICO 4 系列 VR 一体机发布、Xiaomi Civi 2 发布等](https://sspai.com/post/75962) | Wed Sep 28 2022 1:00 AM 
+- 🙉 [派早报：PICO 4 系列 VR 一体机发布、Xiaomi Civi 2 发布等](https://sspai.com/post/75962) | Wed Sep 28 2022 1:00 AM 
     <details><summary>展开描述 ...</summary> 
     英特尔发布第 13 代酷睿处理器，Netflix 成立游戏工作室等。&lt;a href=&quot;https://sspai.com/post/75962&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [沙里淘金、自力更生：如何在大学官网里找到有用的信息](https://sspai.com/post/75946) | Tue Sep 27 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为大学公众号，没有舆情时最常见的仍然是同学的咨询求助；虽然大学生活的问题大多在学校网站上有现成、可靠的答案，但大部分大学生并不懂得如何寻找它；如果能够有一篇讲讲这些知识就好了，本文就起于这个念头。&lt;a href=&quot;https://sspai.com/post/75946&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
