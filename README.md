@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一位用户给Apple Watch Ultra钛合金外壳做了拉丝处理](https://www.cnbeta.com/articles/tech/1321903.htm) | Wed Sep 28 2022 4:27 PM 
+- 🕯 [索尼发布320GB/640GB存储卡：4999元起 写入速度700MB/s](https://www.cnbeta.com/articles/tech/1321913.htm) | Wed Sep 28 2022 5:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Apple Watch Ultra是一个非常有能力的设备，是专业运动员和去冒险的人的必备品。&lt;strong&gt;这款可穿戴设备采用了全新的设计，侧面有一个明亮的橙色行动按钮。尽管 &amp;quot;Ultra &amp;quot;的设计是为了承受艰难的条件，但你也可以把它作为日常手表使用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月28日，&lt;strong&gt;索尼发布了两款新的CFexpress Type A存储卡，分别是CEA-G320T和CEA-G640T&lt;/strong&gt;，两者均为支持高速读写性能的大容量存储卡。产品最高写入速度为700MB/s，支持VPG400视频性能速度认证，可以400MB/s的速度稳定地录制视频，并支持4K/120p高比特率视频拍摄。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究发现航天飞行与癌症和心脏病风险增加有关](https://www.cnbeta.com/articles/science/1321901.htm) | Wed Sep 28 2022 4:13 PM 
+- 💼 [华为、小米、OPPO、vivo联手 手机快充终于开始通用了](https://www.cnbeta.com/articles/tech/1321911.htm) | Wed Sep 28 2022 5:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;西奈山伊坎医学院的一项突破性研究发现，&lt;strong&gt;宇航员体细胞更有可能发生突变，这可能与太空飞行有关，提高了宇航员获得癌症和心脏病的终身风险。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;手机快充近年来是国产手机技术领先三星、苹果的地方，而且旦用难回，100W以上的快充不到半小时就能充满电，治好了大家的续航焦虑症。不过国内的四大品牌中，华为、小米、OPPO、vivo各家都自己的手机快充技术，而且大部分都不通用了，因为这些手机厂商会采用定制化的技术来提高快充标准，并将这些打造成差异化竞争，对快充头、电源线都有自己的要求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究人员探索使用机器人和人工智能开发更好的电池](https://www.cnbeta.com/articles/tech/1321899.htm) | Wed Sep 28 2022 4:02 PM 
+- 💂 [汽车导航弹窗广告？网友担心影响驾驶安全 车企回应](https://www.cnbeta.com/articles/tech/1321909.htm) | Wed Sep 28 2022 5:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;大约在今年年初，卡内基-梅隆大学的研究人员使用机器人系统又进行了几十次实验，以创造能让锂离子电池更快充电的电解质。&lt;/strong&gt;这是广泛采用电动汽车的一个主要障碍。他们研发的Clio系统，包括自动泵、阀门和仪器，将各种化学品混合在一起，然后根据关键的电池基准测量其性能。这些结果随后被输入Dragonfly，这是一个机器学习程序，可以提出可能更有效的不同化学组合。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，“车载导航中控屏出现弹窗广告”引发关注，车企回应称“非弹窗广告”，但表示“不会再进行类似推送”。到底发生了什么？为何导航出现弹窗引热议？有消息称，某消费者在驾驶一汽大众ID.6纯电车汽车行驶时，正在使用车载导航的中控屏出现弹窗广告，弹窗信息为“推荐购车有好礼！单车成交至高可获12000积分 即日起-9月30日！”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国宇航局准备应对伊恩飓风 SpaceX的Crew-5发射被推迟了](https://www.cnbeta.com/articles/science/1321897.htm) | Wed Sep 28 2022 4:01 PM 
+- 🚀 [马斯克要求上诉法院废除SEC禁令：不再审查其推文](https://www.cnbeta.com/articles/tech/1321907.htm) | Wed Sep 28 2022 4:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;飓风伊恩的威力推迟了美国国家航空航天局（NASA）用SpaceX火箭向国际空间站（ISS）发送四人乘组的计划。该机构昨天宣布，其Crew-5任务已被推迟，预计不早于10月4日发射。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，特斯拉CEO埃隆·马斯克（Elon Musk）的律师今日敦促美国联邦上诉法院，请求废除马斯克在2018年与美国证券交易委员会（SEC）所达成和解协议中的一项条款，即要求特斯拉的律师审查马斯克在Twitter上发布的帖子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [人工智能将10万个方程的量子物理问题减少到只有4个](https://www.cnbeta.com/articles/science/1321895.htm) | Wed Sep 28 2022 3:52 PM 
+- 🎊 [电商助农到底是不是伪命题？](https://www.cnbeta.com/articles/tech/1321905.htm) | Wed Sep 28 2022 4:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;科学家们训练了一种机器学习工具来捕捉电子在晶格上运动的物理现象，所使用的方程比通常所需的少得多，所有这些都没有牺牲准确性。到目前为止，一个令人生畏的量子问题需要10万个方程，而物理学家使用人工智能将其压缩到只有4个方程的小任务中。所有这些都是在不牺牲精度的情况下完成的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;老李家在黑龙江，种植的就是东方甄选主播董宇辉口中所说的普通玉米。几年前，老李的身边也曾有人试水种过几十亩黄糯玉米，但最终因为不划算而选择放弃。对于当地着重走量的生产模式，黄糯玉米的“性价比”显得没那么高。但如果是在今天，黄糯玉米的命运可能不一样了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
