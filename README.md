@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [MySQL自增主键值回溯问题](https://juejin.cn/post/7148302193714544654) | Wed Sep 28 2022 5:43 AM 
+- 🤗 [【Redis】五大常见的数据类型之 Hash](https://juejin.cn/post/7148310072123195422) | Wed Sep 28 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-    我们使用MySQL时，通常每一个表都会有一个自增主键ID，每新增一条数据，ID值就会自增1。但在8.0之前版本的MySQL中，这个自增值会存在一个回溯的问题。 例如，在一个新表中插入三条主键为1、2、 
+    我们都知道 Redis 提供了丰富的数据类型，常见的有五种：String，Hash，List，Set、Zset。今天我们就来详细的聊聊 Redis 这五大常见的数据类型之一 Hash； 
     </details> 
 
-- 🎡 [【Unity3D 教程系列第 3 篇】摄像机抖动现象和解决方案](https://juejin.cn/post/7148298998384689165) | Wed Sep 28 2022 5:31 AM 
+- 🎡 [MySQL查询数据库表记录数](https://juejin.cn/post/7148308750955675655) | Wed Sep 28 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-    摄像机抖动现象和解决方案。 新手在开发过程中，很容易犯，也很常见的一个错误就是项目在运行过程中出现屏幕抖动的现象，这是什么原因呢？ 
+    最近在做统计想查找一个数据库里基本所有的表数据量,下面这篇文章主要给大家介绍了关于MySQL如何统计一个数据库所有表的数据量的相关资料,文中通过示例代码介绍的非常详细,需要的朋友可以参考下 
     </details> 
 
-- 🕯 [Go 为什么能火？归功于这 5 个方面](https://juejin.cn/post/7148286386372608031) | Wed Sep 28 2022 4:42 AM 
+- 🕯 [IDEA 插件开发教程（二）](https://juejin.cn/post/7147984442521288735) | Tue Sep 27 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是煎鱼。 在国外的播客节目 Go Time #100 中，Rob Pike 和 Robert Griesemer（Go 的两位创始人）和主持人 Jerod Santo 讨论了 Go 语言的成 
+    本文是 IDEA 插件开发教程的第二篇，通过本文你可以学会如何把一个老的插件项目运行起来，因为只有运行起来，才能更好的对插件进行分析，看看某个功能别人是如何实现的，提升自己的插件开发水平。 
     </details> 
 
-- 🚀 [MobSDK 服务端API](https://juejin.cn/post/7148285412002234405) | Wed Sep 28 2022 4:40 AM 
+- 🚀 [聊一聊Swift中的闭包](https://juejin.cn/post/7147973109482520583) | Tue Sep 27 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    全维度广告审核体系、严格的反作弊机制、支持多维度的自主屏蔽，帮助您控制广告内容，避免因广告内容导致用户流失，保障流量生态健康 
+    我正在参加「掘金·启航计划」 Swift中的闭包Closure. 1 Swift中的闭包结构是什么样的? 2 什么是尾随闭包? 将一个很长的闭包表达式作为函数的最后一个实参. 使用尾随闭包可以增强函数 
     </details> 
 
-- 💪 [元宇宙人均月入过万？智联报告大揭秘&lpar;附下载&rpar;；华盛顿大学·线性代数进阶课程；电子书·深度神经网络应用&lpar;Keras&rpar;；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7148282443064147998) | Wed Sep 28 2022 4:30 AM 
+- 💪 [Reactive Programming相关概念了解入门](https://juejin.cn/post/7147961986888761358) | Tue Sep 27 2022 7:43 AM 
     <details><summary>展开描述 ...</summary> 
-    通用信息抽取UIE的PyTorch版、基于MPSGraph的ONNX推理引擎、Google Earth Engine机器学习包、Selective 白盒特征选择库、系统设计资源合辑、前沿论文… 
+    为了应对 高并发环境下 的服务端编程，xx提出了一个实现异步编程的方案 - Reactive Programming，中文名称 反应式编程。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
