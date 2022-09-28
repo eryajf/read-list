@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [流媒体服务Epix将改头换面 在2023年以MGM+的名义推出](https://hot.cnbeta.com/articles/movie/1321933.htm) | Wed Sep 28 2022 8:38 PM 
+- 🕯 [宝马正在基于亚马逊Alexa打造一个全新的车载定制语音助手](https://www.cnbeta.com/articles/tech/1321935.htm) | Wed Sep 28 2022 11:10 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;自2018年以来，宝马车主已经能使用亚马逊的Alexa作为他们的车内语音助手。但这家汽车制造商宣布，它将更进一步，据悉，它将利用亚马逊的Alexa核心技术打造自己的定制语音助手。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [流媒体服务Epix将改头换面 在2023年以MGM+的名义推出](https://hot.cnbeta.com/articles/movie/1321933.htm) | Wed Sep 28 2022 8:38 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在狮门公司将Starzplay更名为Lionsgate+的同一天，米高梅的Epix宣布它的品牌名称中也将有一个&amp;quot;+&amp;quot;。无广告的Epix流媒体服务今天宣布它将在2023年初更名MGM+重新启动。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [玛氏M&amp;M&#39;s推出紫色糖豆 数十年来首次带来新颜色](https://www.cnbeta.com/articles/tech/1321931.htm) | Wed Sep 28 2022 8:32 PM 
+- 💂 [玛氏M&amp;M&#39;s推出紫色糖豆 数十年来首次带来新颜色](https://www.cnbeta.com/articles/tech/1321931.htm) | Wed Sep 28 2022 8:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;M&amp;amp;M&amp;#39;s夹心巧克力糖豆是全世界家喻户晓的糖果，今天其母公司玛氏宣布推出一种&amp;quot;紫色&amp;quot;糖果，这也是有史以来第一个以女性形象示人的M&amp;amp;M花生糖豆。超过1000万名粉丝在5月投票决定在糖果彩虹中加入这种颜色，在水蓝色和粉红色中胜出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [俄罗斯监管机构要求苹果就将VK应用从App Store下架一事作出答复](https://www.cnbeta.com/articles/tech/1321929.htm) | Wed Sep 28 2022 8:25 PM 
+- 🚀 [俄罗斯监管机构要求苹果就将VK应用从App Store下架一事作出答复](https://www.cnbeta.com/articles/tech/1321929.htm) | Wed Sep 28 2022 8:25 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在苹果公司将VKontakte从应用商店中删除后，俄罗斯监管机构表示，这将损害其公民之间的沟通，并要求苹果公司做出解释。VKontakte是俄罗斯最大的社交网络应用。在苹果公司于9月28日下架该应用后，俄罗斯监管机构Roskomnadzor对该行动提出异议，称其具有&amp;quot;歧视性&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [EA透露光荣《WILD HEARTS》已开发4年时间](https://hot.cnbeta.com/articles/game/1321927.htm) | Wed Sep 28 2022 8:18 PM 
+- 🎊 [EA透露光荣《WILD HEARTS》已开发4年时间](https://hot.cnbeta.com/articles/game/1321927.htm) | Wed Sep 28 2022 8:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Omega Force日前终于解开了《WILDHEARTS》这款次世代狩猎游戏的面纱，该游戏将面向Xbox Series X/S, PS5和PC发行。虽然预告片展示的是仍在开发中的项目，但其美学、Kemono和Karakuri的设计脱颖而出。另外游戏很快即将发行，时间定位2023年2月。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1321927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [中国科学家打造观测宇宙的“龙虾眼”](https://www.cnbeta.com/articles/science/1321925.htm) | Wed Sep 28 2022 8:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大自然让龙虾进化出奇异的眼睛，继而又启发科学家设计出特殊的望远镜，让人类能够观测宇宙中出没无常、转瞬即逝的神秘现象。中科院国家天文台近日介绍，中国科学家研制的一台龙虾眼X射线望远镜已成功获得一批天体的X射线实测图像和能谱。这是国际上首次获得并公开发布的宽视场X射线聚焦成像天图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
