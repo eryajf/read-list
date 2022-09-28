@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [黑莓Q2营收1.68亿美元超预期 净亏损同比缩窄至5400万美元](https://www.cnbeta.com/articles/tech/1321445.htm) | Tue Sep 27 2022 11:21 PM 
+- 🕯 [令人惊叹的视频显示太阳日冕物质抛射的特写](https://www.cnbeta.com/articles/science/1321557.htm) | Wed Sep 28 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;黑莓&lpar;BB.US&rpar;公布了一份超预期的2023财年第二季度业绩。财报显示，黑莓Q2营收为1.68亿美元，同比下降4%，市场预期为1.658亿美元;净亏损5400万美元，上年同期为1.44亿美元;摊薄后每股亏损0.10美元，上年同期为0.25美元;Non-GAAP每股亏损0.05美元，市场预期为每股亏损0.07美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据BGR报道，天体摄影家Chuck Ayoub经常拍摄令人惊叹的星空镜头。现在，在多个社交媒体网站上分享他的作品的Ayoub，又拍摄到了太阳上的日冕物质抛射的美丽而可怕的视频。&lt;strong&gt; Ayoub在Instagram和Reddit上分享了这段视频，甚至还加入了一张地球大小的图片，以帮助展示射出物的巨大规模。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [福布斯：特斯拉CEO马斯克首次登顶美国富豪榜首](https://www.cnbeta.com/articles/tech/1321443.htm) | Tue Sep 27 2022 11:20 PM 
+- 💼 [不限于紧急信息 Garmin推出可卫星通信聊天的inReach Messenger](https://www.cnbeta.com/articles/tech/1321553.htm) | Wed Sep 28 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;北京时间9月28日凌晨消息，特斯拉CEO埃隆-马斯克现在是美国最富有的人。&lt;/strong&gt;福布斯公布2022年度美国400富豪榜，其中马斯克以2510亿美元的身价排名第一，远超亚马逊创始人杰夫-贝佐斯，后者以1510亿美元排名第二。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在 T-Mobile 和 SpaceX 展开合作、苹果在 iPhone 14 系列中引入卫星通信之后，智能手机通过卫星发送信息近期成为热门话题。事实上，Garmin 早在几年前就已经推出了这项功能，在 inReach Mini 和 Mini 2 在市场上取得不错反响之后，该公司近日推出了 &lt;a href=&quot;https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-inreach-messenger-easy-to-use-satellite-communicator-provides-messaging-and-security-when-outside-of-cellular-coverage/&quot; target=&quot;_blank&quot;&gt;inReach Messenger。&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [斯诺登入籍俄罗斯引多方关注 美方宣称他仍应回到美国接受审判](https://www.cnbeta.com/articles/tech/1321441.htm) | Tue Sep 27 2022 11:17 PM 
+- 💂 [“北溪”管道突发泄漏事故 欧盟或推迟对俄石油限价](https://www.cnbeta.com/articles/tech/1321551.htm) | Wed Sep 28 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;俄罗斯总统普京26日签署总统令，给予包括美国中央情报局前雇员、美国前防务承包商雇员爱德华·斯诺登在内的70多名外国人俄罗斯国籍。斯诺登称，获得俄罗斯国籍能让他家人的生活稳定下来。美国国务院方面则表示，斯诺登获得俄国籍不会影响华盛顿的立场，“他仍应回到美国接受审判”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;span style=&quot;&quot;&gt;周一到周二，北溪1号和2号&lt;/span&gt;&lt;span style=&quot;&quot;&gt;天然气&lt;/span&gt;管道监测发生三处泄露，瑞典和丹麦都记录到强烈的水下爆炸，据丹麦国防军公布的爆炸视频显示“北溪”&lt;span style=&quot;&quot;&gt;天然气&lt;/span&gt;管道上的三处气体泄漏点在海面上造成巨大动荡，最大的泄漏点在直径1公里的海面上产生湍流，最小的绕一圈大约200米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [零跑汽车在港IPO发行价定为每股48港元](https://www.cnbeta.com/articles/tech/1321439.htm) | Tue Sep 27 2022 11:16 PM 
+- 🚀 [AMD推出Zen 3锐龙V3000系列嵌入式处理器](https://www.cnbeta.com/articles/tech/1321549.htm) | Wed Sep 28 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间9月28日早间消息，零跑汽车在港IPO最终发售价定为每股48.00港元。零跑科技本次IPO募集资金约40%用于研发、约25%用于提升生产能力，约25%用于扩张业务及提升品牌知名度，约10%用于运营资金及一般公司用途。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;AMD 刚刚发布了锐龙嵌入式 V3000 系列 CPU，特点是升级了 Zen 3 核心，旨在为各种存储和网络系统提供可靠、可扩展的处理器性能。&lt;/strong&gt;与 V1000 系列相比，V3000 系列具有更高的 CPU 性能、DRAM 传输速率、CPU 核心数和 I/O 连接选项。其兼顾了先进性能和低功耗选项，并且可承受严苛的 24×7 操作环境和工作负载。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Apple Silicon推出两年后，英特尔仍希望苹果成为其芯片客户](https://www.cnbeta.com/articles/tech/1321437.htm) | Tue Sep 27 2022 11:15 PM 
+- 🎊 [迪士尼世界因飓风“伊恩”宣布关闭主题公园](https://www.cnbeta.com/articles/tech/1321547.htm) | Wed Sep 28 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔公司坚持认为它可以让苹果再次成为它的客户，一位高管称，尽管Apple Silicon取得了成功但公司可以赢回苹果。苹果的Mac系列的大多数产品已经脱离了英特尔的芯片，除了一台电脑之外，其他电脑都在搭载了Apple Sillion。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;考虑到飓风“伊恩”预计将在周三晚些时候或周四早些时候在佛罗里达州登陆，华特迪士尼世界将暂时关闭其主题公园。&lt;/strong&gt;“鉴于最新的预测，华特迪士尼世界的主题公园和水上乐园将在9月28日周三和9月29日周四关闭，”迪士尼公园周二晚在Twitter上发文称。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
