@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [COSLR - 在几分钟内查找、发送电子邮件和转换客户 - 使用 1 个平台](https://xinquji.com/posts/179889?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:35 AM 
+- 👀 [Znote - 运行代码片段并探索您的想法](https://xinquji.com/posts/179924?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     在几分钟内查找、发送电子邮件和转换客户 - 使用 1 个平台  
+     运行代码片段并探索您的想法  
     </details> 
 
-- 🥷 [Lord Of The Rent &lpar;LOTR&rpar; - 关于纽约市租金价格的病毒式迷你游戏](https://xinquji.com/posts/179888?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:33 AM 
+- 🥷 [Kana - 人工智能生成内容的中心](https://xinquji.com/posts/179923?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     关于纽约市租金价格的病毒式迷你游戏  
+     人工智能生成内容的中心  
     </details> 
 
-- 💼 [Another Darn To-Do List App - 完成任务的最激励方式。](https://xinquji.com/posts/179887?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:32 AM 
+- 💼 [Kindred Minds - 更好的、基于小组的 1:1 生活指导方法](https://xinquji.com/posts/179922?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     完成任务的最激励方式。  
+     更好的、基于小组的 1:1 生活指导方法  
     </details> 
 
-- 🦅 [Radiance - 在团队之间传递知识的视频工具](https://xinquji.com/posts/179886?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:31 AM 
+- 🦅 [Aprive - 第一个免费的房地产 CRM](https://xinquji.com/posts/179921?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     在团队之间传递知识的视频工具  
+     第一个免费的房地产 CRM  
     </details> 
 
-- 😺 [Bobo Color Book - 儿童绘本](https://xinquji.com/posts/179885?utm_campaign=xinquji-rss) | Wed Sep 28 2022 8:29 AM 
+- 😺 [Pakapou - 立即启动抽奖网站的唯一平台](https://xinquji.com/posts/179920?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     儿童绘本  
+     立即启动抽奖网站的唯一平台  
     </details> 
 <!-- xinquji:END -->
