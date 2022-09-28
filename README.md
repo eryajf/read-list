@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请求异常，求老铁们提供点排查思路](https://www.v2ex.com/t/883528#reply2) | Wed Sep 28 2022 5:50 AM
-- 🤗 [Go 实现 K8S 多集群管理平台、 Java 应用诊断](https://www.v2ex.com/t/883525#reply0) | Wed Sep 28 2022 5:25 AM
-- 🎭 [哈希冲撞的可能性](https://www.v2ex.com/t/883524#reply4) | Wed Sep 28 2022 5:22 AM
-- 🥷 [新手请教一个问题](https://www.v2ex.com/t/883500#reply7) | Wed Sep 28 2022 3:33 AM
-- 🐵 [真诚请教，如何正确地摆烂？](https://www.v2ex.com/t/883496#reply16) | Wed Sep 28 2022 3:22 AM<!-- v2ex:END -->
+- 🥸 [求助：上不了微软有关的网页，提示证书错误](https://www.v2ex.com/t/883565#reply0) | Wed Sep 28 2022 7:23 AM
+- 🤗 [阿里云请的都是傻子吗？](https://www.v2ex.com/t/883560#reply2) | Wed Sep 28 2022 7:08 AM
+- 🎭 [关于 https 网站加载 http 资源自动升级的问题](https://www.v2ex.com/t/883555#reply9) | Wed Sep 28 2022 6:55 AM
+- 🥷 [Linux 之父 Linus Torvalds 获颁英特尔首个终身成就创新奖](https://www.v2ex.com/t/883551#reply7) | Wed Sep 28 2022 6:48 AM
+- 🐵 [Visual Studio Code Python – 2022 年 9 月更新 Flake8、jupyter 中的 IntelliSense](https://www.v2ex.com/t/883542#reply0) | Wed Sep 28 2022 6:25 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
