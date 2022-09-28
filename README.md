@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [用代码编辑器进行知识管理：我用 VSCode 构建自己的笔记系统](https://sspai.com/post/75940) | Wed Sep 28 2022 3:29 AM 
+- 👹 [Notion 的自动化改造之路：Notion x Zapier 初尝试](https://sspai.com/post/75842) | Wed Sep 28 2022 6:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75842&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [用代码编辑器进行知识管理：我用 VSCode 构建自己的笔记系统](https://sspai.com/post/75940) | Wed Sep 28 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75940&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：PICO 4 系列 VR 一体机发布、Xiaomi Civi 2 发布等](https://sspai.com/post/75962) | Wed Sep 28 2022 1:00 AM 
+- 🤭 [派早报：PICO 4 系列 VR 一体机发布、Xiaomi Civi 2 发布等](https://sspai.com/post/75962) | Wed Sep 28 2022 1:00 AM 
     <details><summary>展开描述 ...</summary> 
     英特尔发布第 13 代酷睿处理器，Netflix 成立游戏工作室等。&lt;a href=&quot;https://sspai.com/post/75962&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [沙里淘金、自力更生：如何在大学官网里找到有用的信息](https://sspai.com/post/75946) | Tue Sep 27 2022 9:30 AM 
+- 🥸 [沙里淘金、自力更生：如何在大学官网里找到有用的信息](https://sspai.com/post/75946) | Tue Sep 27 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     作为大学公众号，没有舆情时最常见的仍然是同学的咨询求助；虽然大学生活的问题大多在学校网站上有现成、可靠的答案，但大部分大学生并不懂得如何寻找它；如果能够有一篇讲讲这些知识就好了，本文就起于这个念头。&lt;a href=&quot;https://sspai.com/post/75946&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [咖啡地图 | 亚洲产地综合篇](https://sspai.com/post/75920) | Tue Sep 27 2022 8:30 AM 
+- 🙉 [咖啡地图 | 亚洲产地综合篇](https://sspai.com/post/75920) | Tue Sep 27 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
     作为亚洲为数不多的咖啡产地，之前着重介绍了中国云南、越南等地。但亚洲还有很多产地，比如印度尼西亚、巴布亚新几内亚、也门等等。整体篇幅不大，所以准备合并起来变为亚洲产地综合篇给大家一起介绍。印度尼西亚印 ...&lt;a href=&quot;https://sspai.com/post/75920&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [为什么 iPhone 14 Pro 在我看来是「里程碑式」的一代？](https://sspai.com/post/75926) | Tue Sep 27 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    我说它是里程碑，是因为我看到一个更接近完全体的 Pro，看到它试图重塑 iOS 的核心体验，看到它在影像上构建的新赛道。&lt;a href=&quot;https://sspai.com/post/75926&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
