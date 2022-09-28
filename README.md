@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [爱因斯坦的头发为何乱蓬蓬？我们找到了罕见的乱发综合症的基因](http://jandan.net/p/111404) | Wed Sep 28 2022 3:34 AM 
+- 🚀 [《自然》撤回了2020年轰动一时的常温超导论文](http://jandan.net/p/111406) | Wed Sep 28 2022 6:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    15℃在高压环境里实现超导的材料 
+    </details> 
+
+- 🙉 [爱因斯坦的头发为何乱蓬蓬？我们找到了罕见的乱发综合症的基因](http://jandan.net/p/111404) | Wed Sep 28 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     头发会从各个角度支楞起来，几乎不可能驯服 
     </details> 
 
-- 🙉 [NASA小行星重定向项目 用飞行器撞击小行星，改变其轨道的测试](http://jandan.net/p/111400) | Wed Sep 28 2022 3:07 AM 
+- 🎉 [NASA小行星重定向项目 用飞行器撞击小行星，改变其轨道的测试](http://jandan.net/p/111400) | Wed Sep 28 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     昨天的热点 
     </details> 
 
-- 🎉 [今日好价 0928](http://jandan.net/p/111403) | Wed Sep 28 2022 2:37 AM 
+- 🐲 [今日好价 0928](http://jandan.net/p/111403) | Wed Sep 28 2022 2:37 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：50 
     </details> 
 
-- 🐲 [故事：午夜婚礼的秘密](http://jandan.net/p/111401) | Tue Sep 27 2022 12:28 PM 
+-  [故事：午夜婚礼的秘密](http://jandan.net/p/111401) | Tue Sep 27 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
     一个根据真实事件改编的恐怖小说。 
-    </details> 
-
--  [携带抗生素分子的微型机器人剿灭了实验鼠肺部的致病细菌](http://jandan.net/p/111399) | Tue Sep 27 2022 4:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    研究人员还确定，微型机器人比静脉注射抗生素更有效 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
