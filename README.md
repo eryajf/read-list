@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我哭死😭，IntersectionObserver 怎么那么好用！](https://juejin.cn/post/7148344217494880269) | Wed Sep 28 2022 8:26 AM 
+- 🤗 [Vue组件间的通信方式浅析](https://juejin.cn/post/7148339490006761509) | Wed Sep 28 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    什么玩意？？ 他是一个Web API，用我的4级英语直接翻译过来就是“交叉观察者”（如果你觉得不行，那就按照你的来），从字面意思理解他就是一位观察员，观察某些元素之间是否发生了交叉行为（狗头保命🐶 观 
+    在Vue组件库开发过程中，Vue组件之间的通信一直是一个重要的话题，本文将系统的罗列出几种不使用 Vuex，比较实用的组件间的通信方式，供大家参考 
     </details> 
 
-- 🎡 [prompt 综述](https://juejin.cn/post/7148336645199101960) | Wed Sep 28 2022 7:57 AM 
+- 🎡 [不得不看的 Handler 消息处理机制（源码实战）](https://juejin.cn/post/7148337440669827102) | Wed Sep 28 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    Android 中的异步消息处理主要由四个部分组成，Message、Handler、MessageQueue、Looper但是当我们提到 Android异步处理机制的时候，我们首先会想到Handler 
+    </details> 
+
+- 🕯 [prompt 综述](https://juejin.cn/post/7148336645199101960) | Wed Sep 28 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
     prompt的初衷是能够运用于zero shot和few shot的场景，使得语言模型可以在预训练阶段利用尽可能多的信息进行训练，后续也能最大效率的发挥其作用。 
     </details> 
 
-- 🕯 [Ruby Programming | 连载 03 - Ruby 对象基础](https://juejin.cn/post/7148336602699202567) | Wed Sep 28 2022 7:57 AM 
+- 🚀 [Ruby Programming | 连载 03 - Ruby 对象基础](https://juejin.cn/post/7148336602699202567) | Wed Sep 28 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
     一、Ruby 对象 Ruby 中所有的数据结构和值都是对象，包括基本的数字和字符串以及数组 Array、散列表 Hash 这样的复杂数据结构。 每个对象都能够响应一组特定的 消息，对象能够接收的每个消 
     </details> 
 
-- 🚀 [微服务后端开发的痛点！你遇到了嘛？](https://juejin.cn/post/7148330204270690318) | Wed Sep 28 2022 7:32 AM 
+- 💪 [你应该知道的Java8新特性之Lambda表达式](https://juejin.cn/post/7148334544755064846) | Wed Sep 28 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-    从痛点出发 相信很多微服务后端开发的小伙伴，在日常工作中会遇到一个痛点： 本地开发了一个新功能或者解了一个bug后进行需要调试，由于k8s集群在云端，本地的服务是无法直接接入的，此时开发同学只能通过本 
-    </details> 
-
-- 💪 [Java&amp;C++题解与拓展——leetcode面试题17.09 第k个数【么的新知识】](https://juejin.cn/post/7148329967821488141) | Wed Sep 28 2022 7:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    leetcode面试题17.09 第k个数解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    Lambd表达式 Lambda表达式是一个匿名函数，我们可以把 Lambda 表达式理解为是一段可以传递的代码（将代码 像数据一样进行传递）。可以写出更简洁、更灵活的代码。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
