@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Privatus 6.4 浏览器数据缓存](https://xclient.info/s/privatus.html) | Tue Sep 27 2022 12:15 AM 
+- 🦏 [USBclean 3.7 U盘杀毒工具](https://xclient.info/s/usbclean.html) | Wed Sep 28 2022 12:52 AM 
     <details><summary>展开描述 ...</summary> 
-    Privatus是Mac os平台上的一款帮助用户清理网页的缓存，支持的浏览器有很多: Safari,、 Chrome、 Firefox、 Camino、Chromium这些常用的浏览器都能使用Privatus快速的清理，使用方便简单，不占用很多的内存。 
+    USBclean是一款在Mac平台上强大的U盘病毒查杀工具，USBclean可以帮助你快速方便地去除所有那些讨厌的垃圾文件也可以帮你将USB驱动器进行格式化，你可以轻松从系统菜单栏上启动USBclean并直接运行。 
     </details> 
 
--  [Mela 1.6.2 食谱管理器](https://xclient.info/s/mela.html) | Tue Sep 27 2022 12:14 AM 
+-  [Start 6.0 快捷启动工具](https://xclient.info/s/start.html) | Wed Sep 28 2022 12:51 AM 
     <details><summary>展开描述 ...</summary> 
-    Mela是Mac电脑上的一款简单、优雅、现代的食谱管理器，可与iCloud同步。订阅你喜欢的食谱博客，在Mela的本地食谱查看器中查看所有的食谱。 
+    start 是Mac平台上的一款快捷启动应用，是macOS的开始菜单，允许您快速查找和构造您的程序。 
     </details> 
 
-- ⚗️ [Soulver 3.6.2 多功能计算器](https://xclient.info/s/soulver.html) | Tue Sep 27 2022 12:09 AM 
+- ⚗️ [Softorino YouTube Converter 5.0.96 又一款 Youtube 视频下载工具](https://xclient.info/s/softorino-youtube-converter.html) | Wed Sep 28 2022 12:50 AM 
     <details><summary>展开描述 ...</summary> 
-    Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
+    一款好用的 Youtube 视频一键下载工具 
     </details> 
 
-- 🔥 [Wondershare Filmora X 11.7.1 优秀的视频编辑工具](https://xclient.info/s/filmora.html) | Tue Sep 27 2022 12:08 AM 
+- 🔥 [Scrutiny 12.4.6 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Wed Sep 28 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
-    Wondershare Filmora是一款由Wondershare出品的优秀的视频编辑工具，简单易用。 
+    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
     </details> 
 
-- 🌋 [Wondershare PDFelement Pro 9.1.0 OCR 强大的PDF编辑工具](https://xclient.info/s/wondershare-pdf-element.html) | Tue Sep 27 2022 12:07 AM 
+- 🌋 [Squeezer 2.5.2 图片压缩工具](https://xclient.info/s/squeezer.html) | Wed Sep 28 2022 12:48 AM 
     <details><summary>展开描述 ...</summary> 
-    PDFelement可是能为你提供强大的编辑功能滴，支持OCR光学识别引擎，有效的提升文字的识别效率，另外PDFelement支持PDF转换等功能，在保证原有完整文档的基础上，提供了多样的风格和样式。 
+    Squeezer是Mac平台上的一款多功能压缩工具。 
     </details> 
 <!-- xclient:END -->
 
