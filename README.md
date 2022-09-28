@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软发布Windows 11 22H2带外更新KB5019311](https://www.cnbeta.com/articles/tech/1321883.htm) | Wed Sep 28 2022 3:20 PM 
+- 🕯 [一位用户给Apple Watch Ultra钛合金外壳做了拉丝处理](https://www.cnbeta.com/articles/tech/1321903.htm) | Wed Sep 28 2022 4:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软刚刚发布了Windows 11版本22H2的带外更新，试图解决一些用户遇到的安装媒体错误。微软解释说，&lt;strong&gt;这一补丁解决了一些设置文件的本地化问题，主要用来纠正可能阻止创建刚刚发布不久的2022 Update版本新的安装媒介的故障。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Apple Watch Ultra是一个非常有能力的设备，是专业运动员和去冒险的人的必备品。&lt;strong&gt;这款可穿戴设备采用了全新的设计，侧面有一个明亮的橙色行动按钮。尽管 &amp;quot;Ultra &amp;quot;的设计是为了承受艰难的条件，但你也可以把它作为日常手表使用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [2022 Q2全球十大晶圆代工厂商排名](https://www.cnbeta.com/articles/tech/1321881.htm) | Wed Sep 28 2022 3:02 PM 
+- 💼 [研究发现航天飞行与癌症和心脏病风险增加有关](https://www.cnbeta.com/articles/science/1321901.htm) | Wed Sep 28 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月28日消息，据市场研究机构集邦咨询TrendForce最新发布报告显示，今年第二季度前十大晶圆代工产值达到332.0亿美元，但因消费市况转弱，环比增幅已放缓至3.9%。具体厂商方面，台积电受惠于HPC、IoT与车用备货需求强劲，第二季度营收为181.5亿美元，排名第一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;西奈山伊坎医学院的一项突破性研究发现，&lt;strong&gt;宇航员体细胞更有可能发生突变，这可能与太空飞行有关，提高了宇航员获得癌症和心脏病的终身风险。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [查理兹塞隆曝好莱坞黑暗面 曾被导演要求当众换衣服](https://hot.cnbeta.com/articles/movie/1321879.htm) | Wed Sep 28 2022 3:01 PM 
+- 💂 [研究人员探索使用机器人和人工智能开发更好的电池](https://www.cnbeta.com/articles/tech/1321899.htm) | Wed Sep 28 2022 4:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，47岁好莱坞知名影星查理兹·塞隆，在接受时尚杂志专访时透露，自己身为演员无法拒绝片场工作人员的指示，曾经有一些男人直接叫她在他们面前换衣服。她还透露出道多年对于角色的服装造型，向来没有主导权，穿衣风格得依男性喜好，甚至有男导演要求她当众换性感连身裙。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;大约在今年年初，卡内基-梅隆大学的研究人员使用机器人系统又进行了几十次实验，以创造能让锂离子电池更快充电的电解质。&lt;/strong&gt;这是广泛采用电动汽车的一个主要障碍。他们研发的Clio系统，包括自动泵、阀门和仪器，将各种化学品混合在一起，然后根据关键的电池基准测量其性能。这些结果随后被输入Dragonfly，这是一个机器学习程序，可以提出可能更有效的不同化学组合。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [放弃iPhone 14增产消息传出后苹果股价大跌：带崩美国半导体公司](https://www.cnbeta.com/articles/tech/1321877.htm) | Wed Sep 28 2022 2:58 PM 
+- 🚀 [美国宇航局准备应对伊恩飓风 SpaceX的Crew-5发射被推迟了](https://www.cnbeta.com/articles/science/1321897.htm) | Wed Sep 28 2022 4:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果的iPhone 14系列手机已经上市，高阶的Pro系列销量倒是火爆了一阵，然而标准版iPhone 14销量不佳。据报道，标准版iPhone以往是出货的主力，然而今年表现并不好，甚至开售当天价格就破发了，这也意味着消费者对其兴趣不大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;飓风伊恩的威力推迟了美国国家航空航天局（NASA）用SpaceX火箭向国际空间站（ISS）发送四人乘组的计划。该机构昨天宣布，其Crew-5任务已被推迟，预计不早于10月4日发射。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [改买256GB的iPhone 14 苹果能赚走90%利润](https://www.cnbeta.com/articles/tech/1321875.htm) | Wed Sep 28 2022 2:54 PM 
+- 🎊 [人工智能将10万个方程的量子物理问题减少到只有4个](https://www.cnbeta.com/articles/science/1321895.htm) | Wed Sep 28 2022 3:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在智能手机行业，苹果是标杆性的存在，虽然全球销量干不过三星，只能位居第二，然而他们一家就能赚走整个行业大部分利润，吸金能力爆表，苹果对赚钱的算计几乎体现在每个细节上，比如升级闪存容量，苹果都能大赚一笔。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;科学家们训练了一种机器学习工具来捕捉电子在晶格上运动的物理现象，所使用的方程比通常所需的少得多，所有这些都没有牺牲准确性。到目前为止，一个令人生畏的量子问题需要10万个方程，而物理学家使用人工智能将其压缩到只有4个方程的小任务中。所有这些都是在不牺牲精度的情况下完成的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
