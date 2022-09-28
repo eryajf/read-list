@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [令人惊叹的视频显示太阳日冕物质抛射的特写](https://www.cnbeta.com/articles/science/1321557.htm) | Wed Sep 28 2022 2:04 AM 
+- 🕯 [奔驰车机被曝推送广告遮挡导航界面 客服回应不清楚活动有弹窗](https://www.cnbeta.com/articles/tech/1321647.htm) | Wed Sep 28 2022 4:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据BGR报道，天体摄影家Chuck Ayoub经常拍摄令人惊叹的星空镜头。现在，在多个社交媒体网站上分享他的作品的Ayoub，又拍摄到了太阳上的日冕物质抛射的美丽而可怕的视频。&lt;strong&gt; Ayoub在Instagram和Reddit上分享了这段视频，甚至还加入了一张地球大小的图片，以帮助展示射出物的巨大规模。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，一位一汽大众 ID.6 纯电车车主反映，在使用车载导航驾驶时，中控屏突然出现弹窗广告，遮挡了行驶中的导航信息引发网友热议。不过，车机弹广告并非是大众专属，奔驰车机也出现了广告。据博主放出的图片显示，这款奔驰车的中控屏出现的广告位于顶部状态栏：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [不限于紧急信息 Garmin推出可卫星通信聊天的inReach Messenger](https://www.cnbeta.com/articles/tech/1321553.htm) | Wed Sep 28 2022 1:59 AM 
+- 💼 [山西天空漂浮巨型“玫瑰云” 专家答疑：火箭发动机喷出的余迹](https://www.cnbeta.com/articles/science/1321645.htm) | Wed Sep 28 2022 4:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在 T-Mobile 和 SpaceX 展开合作、苹果在 iPhone 14 系列中引入卫星通信之后，智能手机通过卫星发送信息近期成为热门话题。事实上，Garmin 早在几年前就已经推出了这项功能，在 inReach Mini 和 Mini 2 在市场上取得不错反响之后，该公司近日推出了 &lt;a href=&quot;https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-inreach-messenger-easy-to-use-satellite-communicator-provides-messaging-and-security-when-outside-of-cellular-coverage/&quot; target=&quot;_blank&quot;&gt;inReach Messenger。&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;漂亮的天象很容易吸引人。据@四川观察报道，9月26日，在山西忻州，市民在傍晚的天空中发现一朵“玫瑰云”，这朵玫瑰园从金色渐变为玫红色，飘在空中，诡谲又美丽，张女士表示：这朵云漂浮了一个多小时，五彩斑斓的！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“北溪”管道突发泄漏事故 欧盟或推迟对俄石油限价](https://www.cnbeta.com/articles/tech/1321551.htm) | Wed Sep 28 2022 1:56 AM 
+- 💂 [亚马逊页面曝光谷歌Pixel 7价格：599美元](https://www.cnbeta.com/articles/tech/1321643.htm) | Wed Sep 28 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;span style=&quot;&quot;&gt;周一到周二，北溪1号和2号&lt;/span&gt;&lt;span style=&quot;&quot;&gt;天然气&lt;/span&gt;管道监测发生三处泄露，瑞典和丹麦都记录到强烈的水下爆炸，据丹麦国防军公布的爆炸视频显示“北溪”&lt;span style=&quot;&quot;&gt;天然气&lt;/span&gt;管道上的三处气体泄漏点在海面上造成巨大动荡，最大的泄漏点在直径1公里的海面上产生湍流，最小的绕一圈大约200米。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，据Phone Arena报道，亚马逊曝光了谷歌Pixel 7售价，&lt;strong&gt;卖599美元（约合人民币4300元），比iPhone 14便宜200美元。&lt;/strong&gt;和谷歌Pixel 6对比，谷歌Pixel 7整体升级幅度不大，&lt;strong&gt;芯片是谷歌最新定制的Google Tensor G2，Geekbench单核成绩是1068，多核成绩是3149，跟高通骁龙888相当。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [AMD推出Zen 3锐龙V3000系列嵌入式处理器](https://www.cnbeta.com/articles/tech/1321549.htm) | Wed Sep 28 2022 1:55 AM 
+- 🚀 [消息称iPhone 14需求不及预期 苹果取消今年增产计划](https://www.cnbeta.com/articles/tech/1321639.htm) | Wed Sep 28 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;AMD 刚刚发布了锐龙嵌入式 V3000 系列 CPU，特点是升级了 Zen 3 核心，旨在为各种存储和网络系统提供可靠、可扩展的处理器性能。&lt;/strong&gt;与 V1000 系列相比，V3000 系列具有更高的 CPU 性能、DRAM 传输速率、CPU 核心数和 I/O 连接选项。其兼顾了先进性能和低功耗选项，并且可承受严苛的 24×7 操作环境和工作负载。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月28日消息，知情人士透露，由于此前预期的新手机需求激增并未出现，苹果取消增加新款iPhone产量的既定计划。iPhone 14系列智能手机发布后，苹果公司曾希望新品上市能引发销量井喷，但迄今未能如愿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [迪士尼世界因飓风“伊恩”宣布关闭主题公园](https://www.cnbeta.com/articles/tech/1321547.htm) | Wed Sep 28 2022 1:53 AM 
+- 🎊 [东风日产全新纯电Ariya艾睿雅上市 售价27.28万起](https://www.cnbeta.com/articles/tech/1321637.htm) | Wed Sep 28 2022 4:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;考虑到飓风“伊恩”预计将在周三晚些时候或周四早些时候在佛罗里达州登陆，华特迪士尼世界将暂时关闭其主题公园。&lt;/strong&gt;“鉴于最新的预测，华特迪士尼世界的主题公园和水上乐园将在9月28日周三和9月29日周四关闭，”迪士尼公园周二晚在Twitter上发文称。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，东风日产全新纯电动车Ariya艾睿雅正式上市。&lt;strong&gt;新车共推出4款车型，售价区间为27.28-34.28万元。&lt;/strong&gt;该车也是日产转型电动化道路上的一款重磅车型，基于CMF-EV平台打造，定位紧凑型SUV，将于10月开始交车，厂商给出了7000元置换补贴等购车优惠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
