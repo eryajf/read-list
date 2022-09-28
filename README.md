@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软不再开发iOS版SwiftKey 现有版本将于10月5日自App Store删除](https://www.cnbeta.com/articles/tech/1321919.htm) | Wed Sep 28 2022 7:12 PM 
+- 🕯 [EA透露光荣《WILD HEARTS》已开发4年时间](https://hot.cnbeta.com/articles/game/1321927.htm) | Wed Sep 28 2022 8:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Omega Force日前终于解开了《WILDHEARTS》这款次世代狩猎游戏的面纱，该游戏将面向Xbox Series X/S, PS5和PC发行。虽然预告片展示的是仍在开发中的项目，但其美学、Kemono和Karakuri的设计脱颖而出。另外游戏很快即将发行，时间定位2023年2月。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1321927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [中国科学家打造观测宇宙的“龙虾眼”](https://www.cnbeta.com/articles/science/1321925.htm) | Wed Sep 28 2022 8:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;大自然让龙虾进化出奇异的眼睛，继而又启发科学家设计出特殊的望远镜，让人类能够观测宇宙中出没无常、转瞬即逝的神秘现象。中科院国家天文台近日介绍，中国科学家研制的一台龙虾眼X射线望远镜已成功获得一批天体的X射线实测图像和能谱。这是国际上首次获得并公开发布的宽视场X射线聚焦成像天图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [10月下旬我国西部可见日偏食天象](https://www.cnbeta.com/articles/tech/1321923.htm) | Wed Sep 28 2022 8:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;记者从北京天文馆获悉，在即将到来的10月份，我国西部部分地区可以看到一次日偏食天象，水星西大距和猎户座流星雨也将先后上演。北京时间10月25日，在亚洲西部、欧洲、非洲东北部，人们可以看到一次日偏食天象。我国大部分地区与这次天象观测无缘，只有在新疆、西藏、青海和甘肃西部的部分地区人们可以看到这次天象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [“从鱼到人”演化过程长达5亿年左右 化石揭秘人类演化史](https://www.cnbeta.com/articles/science/1321921.htm) | Wed Sep 28 2022 8:16 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;记者从中国科学院古脊椎动物与古人类研究所获悉，中科院朱敏院士领衔的科研团队经过多年的野外考察与研究，揭示了有颌脊椎动物起源与早期演化的重要信息，在“从鱼到人”的探源研究领域取得重要突破，系列科研成果北京时间9月28日在国际学术期刊《自然》在线发表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [微软不再开发iOS版SwiftKey 现有版本将于10月5日自App Store删除](https://www.cnbeta.com/articles/tech/1321919.htm) | Wed Sep 28 2022 7:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;微软的iOS版SwiftKey第三方键盘已经有一年多没有更新了，这激起了关于该应用变成废弃软件的讨论。这些传闻现在成为了现实。微软将于10月5日将iOS版SwiftKey从App Store中删除。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [分析师郭明錤称苹果汽车团队在2022年底前开始重组](https://www.cnbeta.com/articles/tech/1321917.htm) | Wed Sep 28 2022 7:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在经历了一些年的相对沉默之后，据称苹果汽车团队正在重新开始工作，在今年年底之前有可能进行重组改革。&lt;/strong&gt;天风证券分析师郭明錤周三在Twitter上发了一条推文，分享了他基于&amp;quot;调查&amp;quot;做出的预测。目前还不清楚郭明錤所说的调查包括哪些人。消息来源更多是在供应方，而不是在苹果内部。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [《赛博朋克2077》销量突破2000万 “往日之影”全力制作中](https://hot.cnbeta.com/articles/game/1321915.htm) | Wed Sep 28 2022 5:44 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;《赛博朋克2077》的低开高走，二次走红在游戏行业算得上励志，截至今天（2022年9月28日），这一CD Projekt Red公司的科幻动作角色扮演游戏已经在全球范围内售出超过2000万份。&lt;/strong&gt;根据VGChartz的报道，该数字比今年4月中旬的1800万份销量有了明显上升。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1321915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [索尼发布320GB/640GB存储卡：4999元起 写入速度700MB/s](https://www.cnbeta.com/articles/tech/1321913.htm) | Wed Sep 28 2022 5:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月28日，&lt;strong&gt;索尼发布了两款新的CFexpress Type A存储卡，分别是CEA-G320T和CEA-G640T&lt;/strong&gt;，两者均为支持高速读写性能的大容量存储卡。产品最高写入速度为700MB/s，支持VPG400视频性能速度认证，可以400MB/s的速度稳定地录制视频，并支持4K/120p高比特率视频拍摄。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [华为、小米、OPPO、vivo联手 手机快充终于开始通用了](https://www.cnbeta.com/articles/tech/1321911.htm) | Wed Sep 28 2022 5:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;手机快充近年来是国产手机技术领先三星、苹果的地方，而且旦用难回，100W以上的快充不到半小时就能充满电，治好了大家的续航焦虑症。不过国内的四大品牌中，华为、小米、OPPO、vivo各家都自己的手机快充技术，而且大部分都不通用了，因为这些手机厂商会采用定制化的技术来提高快充标准，并将这些打造成差异化竞争，对快充头、电源线都有自己的要求。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
