@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [空间复杂度](https://juejin.cn/post/7148378281799057438) | Wed Sep 28 2022 10:40 AM 
+- 🤗 [你可能不需要 Astro](https://juejin.cn/post/7148391839731548174) | Wed Sep 28 2022 11:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    astro 卷吗？ 问：astro 卷吗？ 答：卷！ 问：为什么？ 答：并非新概念！ 问：要学习吗？ 答：可以学习！ Astro 特点 主静态、支持局部动态[岛架构（局部js动态渲染）] 由 vite 
+    </details> 
+
+- 🎡 [Go+Redis实现分布式互斥锁和红锁](https://juejin.cn/post/7148391514966589477) | Wed Sep 28 2022 11:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    在项目中我们经常有需要使用分布式锁的场景，而Redis是实现分布式锁最常见的一种方式，这篇文章主要是使用Go+Redis实现互斥锁和红锁。 
+    </details> 
+
+- 🕯 [从图灵机到量子计算机，计算机可以解决所有问题吗？](https://juejin.cn/post/7148390668614762503) | Wed Sep 28 2022 11:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    从图灵机到量子计算机，可计算问题的范围有没有改变？图灵机和冯·诺依曼机又有什么不同呢？这个世界是可计算的吗？ 
+    </details> 
+
+- 🚀 [空间复杂度](https://juejin.cn/post/7148378281799057438) | Wed Sep 28 2022 10:40 AM 
     <details><summary>展开描述 ...</summary> 
     空间复杂度 空间复杂度是对程序执行过程中临时占用空间大小度量的指标，一般空间复杂度表示为S&lpar;n&rpar; = O&lpar;f&lpar;n&rpar;&rpar;，其中n表示输入规模，fn表示一段程序代码。 空间复杂度和时间复杂度的有类似的情形如 
     </details> 
 
-- 🎡 [浅浅了解一下加密知识](https://juejin.cn/post/7148359183581544455) | Wed Sep 28 2022 9:24 AM 
+- 💪 [Redis 持久化策略浅析](https://juejin.cn/post/7148375096783011854) | Wed Sep 28 2022 10:26 AM 
     <details><summary>展开描述 ...</summary> 
-    一个小需求，做出了一次线上小bug。从翻车事故中偶然发现的知识盲区，即使是前端也要浅浅了解一下加密知识~ 
-    </details> 
-
-- 🕯 [理解 React 18 中的 useId Hooks](https://juejin.cn/post/7148349754789855239) | Wed Sep 28 2022 8:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 React 18 带有许多特性，例如自动批处理、并发和新的 Hooks。 这些 Hooks 通常都有非常 
-    </details> 
-
-- 🚀 [微服务面试必问的Dubbo，这么详细还怕自己找不到工作？](https://juejin.cn/post/7148349682287116324) | Wed Sep 28 2022 8:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 大家好，我是小羽。 Dubbo 起源于阿里巴巴，对于我们做电商开发的人来说，基本是首选的技术，那么为何一 
-    </details> 
-
-- 💪 [GooseFS 在云端数据湖存储上的降本增效实践](https://juejin.cn/post/7148349568785072142) | Wed Sep 28 2022 8:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    导语 | 本文推选自腾讯云开发者社区-【技思广益 · 腾讯技术人原创集】专栏。该专栏是腾讯云开发者社区为腾讯技术人与广泛开发者打造的分享交流窗口。栏目邀约腾讯技术人分享原创的技术积淀，与广泛开发者互启 
+    Redis即远程字典服务，是一个开源的内存高速缓存数据存储服务。本文针对Redis的持久化机制RDB和AOF的策略分享。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
