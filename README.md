@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [麻烦最近一直攻击论坛上几家 DNS 的人消停点吧](https://www.v2ex.com/t/883659#reply7) | Wed Sep 28 2022 1:06 PM
-- 🤗 [不用代理如何防止网站根据 ip 跳转不同语言页面](https://www.v2ex.com/t/883651#reply2) | Wed Sep 28 2022 12:30 PM
-- 🎭 [一个外行想基于兴趣学一下编程，总感觉力不从心是怎么回事呢？](https://www.v2ex.com/t/883647#reply12) | Wed Sep 28 2022 12:12 PM
-- 🥷 [Jellyfin 各种中文乱码怎么解决？或者有没有更好的替代平台？](https://www.v2ex.com/t/883642#reply12) | Wed Sep 28 2022 11:36 AM
-- 🐵 [中国天气网这是怎么了？](https://www.v2ex.com/t/883635#reply16) | Wed Sep 28 2022 10:45 AM<!-- v2ex:END -->
+- 🥸 [麻烦最近一直攻击论坛上几家 DNS 的人消停点吧](https://www.v2ex.com/t/883659#reply12) | Wed Sep 28 2022 1:06 PM
+- 🤗 [不用代理如何防止网站根据 ip 跳转不同语言页面](https://www.v2ex.com/t/883651#reply3) | Wed Sep 28 2022 12:30 PM
+- 🎭 [搞不明白 16G 内存都被啥吃了？](https://www.v2ex.com/t/883648#reply12) | Wed Sep 28 2022 12:25 PM
+- 🥷 [一个外行想基于兴趣学一下编程，总感觉力不从心是怎么回事呢？](https://www.v2ex.com/t/883647#reply14) | Wed Sep 28 2022 12:12 PM
+- 🐵 [Jellyfin 各种中文乱码怎么解决？或者有没有更好的替代平台？](https://www.v2ex.com/t/883642#reply12) | Wed Sep 28 2022 11:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
