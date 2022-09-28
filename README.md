@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [IDC：二季度显示器出货量小幅增长 2022下半年形势不容乐观](https://www.cnbeta.com/articles/tech/1321803.htm) | Wed Sep 28 2022 10:33 AM 
+- 🕯 [亚马逊即将举办线上沟通会 公布新一批家居智能硬件产品](https://www.cnbeta.com/articles/tech/1321849.htm) | Wed Sep 28 2022 12:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;经历了 2020-2021 年的激增，COVID-19 大流行后时代的经济数据，表明市场正在全面降低对 PC 组件的需求。然而这一负面影响，似乎并未在显示器上得到体现。&lt;/strong&gt;由国际数据公司（IDC）最新分享的数据可知：与 2021 年 2 季度相比，2022 年 2 季度的全球显示器出货量增长了 2.7% —— 与 PC 和其它计算机组件的需求下降形成了鲜明对比。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;亚马逊有一些新产品即将面世，该公司今天将举行一个仅限受邀者参加的虚拟活动，预计将介绍其品牌阵容中的产品。亚马逊非常善于对其即将发布的产品进行保密，它通常利用其每年9月的活动来宣布大量的新产品。&lt;/strong&gt;这些产品可能来自亚马逊自己的产品阵容--包括Kindle、Fire TV和Echo--以及其收购的一些品牌，如Eero、Ring和Blink。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [细节拉满：苹果AirPods Pro 2篆刻内容会弹窗显示](https://www.cnbeta.com/articles/tech/1321801.htm) | Wed Sep 28 2022 10:31 AM 
+- 💼 [马斯克聘请的分析师统计Twitter机器人的数量后发现比预期的要少](https://www.cnbeta.com/articles/tech/1321847.htm) | Wed Sep 28 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周五，苹果的旗舰降噪无线耳机AirPods Pro 2已开始发售，首批用户已经用了几天时间。虽然整体在外观和体验上，AirPods Pro 2与上代没有带来巨大提升，甚至初代用户升级之后可能感受很小，但有些细节苹果还是十分到位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在Twitter与埃隆-马斯克之争的最新争论中，这家社交媒体公司声称，马斯克聘请的两家分析公司统计平台上的机器人，发现的数量比他预期的少。Twitter的律师还说，直到最近，这位首席执行官的法律团队还在隐瞒这些数据。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [人类之外的物种能否进化出文明？](https://www.cnbeta.com/articles/science/1321799.htm) | Wed Sep 28 2022 10:25 AM 
+- 💂 [联想发布ThinkReality VRX：一款面向企业元宇宙的一体化VR头显](https://www.cnbeta.com/articles/tech/1321841.htm) | Wed Sep 28 2022 12:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国连线杂志网站8月22日刊登题为《人类之外的物种能否进化出文明》的文章。全文摘编如下：当人类文明走到尽头还会有另一个先进文明发展起来。相信这个论点是令人宽慰的，但先别这么快下结论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;联想今天发布了其最新的一体式虚拟现实头显，并称其被设计为&amp;quot;高质量、多功能和安全的企业元宇宙通道&amp;quot;。新的ThinkReality VRX头显由Snapdragon XR平台驱动，具有小巧的外形、薄饼式光学器件和全彩、高分辨率的信号直通能力，适用于混合现实应用。它还为企业提供全套的端到端服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星手机电池极易鼓包引发老外集体吐槽](https://www.cnbeta.com/articles/tech/1321797.htm) | Wed Sep 28 2022 10:20 AM 
+- 🚀 [NVIDIA再推公版 国行RTX 4090 Founders Edition将开售](https://www.cnbeta.com/articles/tech/1321839.htm) | Wed Sep 28 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来自英国的Up主Mrwhosetheboss没想到，自己的运气会这么差。日前，在发现手头的Galaxy Note 8出现电池鼓包问题后，他决定买一部新手机。可“屋漏偏逢连夜雨”，就在这时候，去翻找备用机的他看到，2015年购买的Galaxy S6和2019年买的S10居然出现了一模一样的鼓包情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA已发布了新一代GeForce RTX 4090 / RTX 4080系列显卡，采用基于Ada Lovelace架构的GPU和台积电定制的4nm工艺，加上第三代RTX光追架构和DLSS 3等新技术，大幅度提升了性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [揭秘地球上有史以来最大的海洋](https://www.cnbeta.com/articles/science/1321795.htm) | Wed Sep 28 2022 10:18 AM 
+- 🎊 [大神开盖暴力改造AMD Zen4锐龙处理器散热：温度暴降21℃](https://www.cnbeta.com/articles/tech/1321837.htm) | Wed Sep 28 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;太平洋是地球历史上最大水体的残余物。据联合国教科文组织政府间海洋学委员会的数据，目前地球上面积最大的海洋太平洋覆盖了地球表面30%以上的面积，从哥伦比亚至马来半岛，太平洋东西最大宽度达12000英里（约合19000公里）。但这片辽阔的海洋只是地球历史上最大海洋的残余物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨晚，AMD Zen 4架构锐龙7000处理器正式开卖，国行方面，锐龙9 7950X 5499元、锐龙9 7900X 4299元、锐龙7 7700X 2999元、锐龙5 7600X 2249元。既然有新处理器，免不了被发烧友们拿来折腾。硬件大神Der8auer出手，给手头的Zen 4锐龙来了一波开盖降温。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
