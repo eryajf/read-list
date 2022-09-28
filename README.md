@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Znote - 运行代码片段并探索您的想法](https://xinquji.com/posts/179924?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:35 AM 
+- 👀 [Ultimate Canva Resource Collection - 120 多个 Canva 技巧、原则、链接和课程](https://xinquji.com/posts/179936?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-     运行代码片段并探索您的想法  
+     120 多个 Canva 技巧、原则、链接和课程  
     </details> 
 
-- 🥷 [Kana - 人工智能生成内容的中心](https://xinquji.com/posts/179923?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:33 AM 
+- 🥷 [No Stress Hacks - 减轻压力的 100 个技巧](https://xinquji.com/posts/179935?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     人工智能生成内容的中心  
+     减轻压力的 100 个技巧  
     </details> 
 
-- 💼 [Kindred Minds - 更好的、基于小组的 1:1 生活指导方法](https://xinquji.com/posts/179922?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:32 AM 
+- 💼 [Bounsel Flow - 复制粘贴够了，欢迎来到 Bounsel Flow](https://xinquji.com/posts/179934?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-     更好的、基于小组的 1:1 生活指导方法  
+     复制粘贴够了，欢迎来到 Bounsel Flow  
     </details> 
 
-- 🦅 [Aprive - 第一个免费的房地产 CRM](https://xinquji.com/posts/179921?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:31 AM 
+- 🦅 [Google SERP API - 谷歌实时自然搜索结果](https://xinquji.com/posts/179933?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-     第一个免费的房地产 CRM  
+     谷歌实时自然搜索结果  
     </details> 
 
-- 😺 [Pakapou - 立即启动抽奖网站的唯一平台](https://xinquji.com/posts/179920?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:30 AM 
+- 😺 [My First Million - Catalog of Greatness - 想法、故障、框架等的总结](https://xinquji.com/posts/179932?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-     立即启动抽奖网站的唯一平台  
+     想法、故障、框架等的总结  
     </details> 
 <!-- xinquji:END -->
