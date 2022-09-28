@@ -378,24 +378,24 @@
     一年一度的 TiDB Hackathon 又来啦！TiDB Hackathon 2022 主题为 「... 
     </details> 
 
-- 🎡 [Android 混淆规则是如何生效的？](https://juejin.cn/post/7148456353332215838) | Wed Sep 28 2022 3:44 PM 
+- 🎡 [【数据处理】Seaborn-NBA数据分析案例（3）](https://juejin.cn/post/7148459002660126733) | Wed Sep 28 2022 3:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第4篇文章，点击查看活动详情 注意：本案例使用 Jupyter NotebookJupyterNotebook 进行案例演示，数据集为NBA球员信 
+    </details> 
+
+- 🕯 [Android 混淆规则是如何生效的？](https://juejin.cn/post/7148456353332215838) | Wed Sep 28 2022 3:44 PM 
     <details><summary>展开描述 ...</summary> 
     记录一下关于 Android 中关于混淆配置文件的生效规则、混淆规则的细节、build 产物中和混淆相关的内容及其作用。 
     </details> 
 
-- 🕯 [Java反射详解，学以致用，实战案例（AOP修改参数、Mybatis拦截器实现自动填充）](https://juejin.cn/post/7148454894826061831) | Wed Sep 28 2022 3:36 PM 
+- 🚀 [Java反射详解，学以致用，实战案例（AOP修改参数、Mybatis拦截器实现自动填充）](https://juejin.cn/post/7148454894826061831) | Wed Sep 28 2022 3:36 PM 
     <details><summary>展开描述 ...</summary> 
     你觉得Java反射在你心里是个什么地位呢？ 本文详细解释Java反射，附带实战案例（AOP修改参数、Mybatis拦截器实现自动填充），希望能够学以致用，做到举一反三 
     </details> 
 
-- 🚀 [后疫情时代，RTE“沉浸式”体验还能这么玩？丨RTE 2022 编程挑战赛赛后专访](https://juejin.cn/post/7148444086762995725) | Wed Sep 28 2022 2:54 PM 
+- 💪 [后疫情时代，RTE“沉浸式”体验还能这么玩？丨RTE 2022 编程挑战赛赛后专访](https://juejin.cn/post/7148444086762995725) | Wed Sep 28 2022 2:54 PM 
     <details><summary>展开描述 ...</summary> 
     GGBOT 团队使用 flutter+Go 作为框架语言，深度使用了声网 RTC 技术，进行 Token 鉴权、云端录制、频道管理；借助环信 SDK 技术实现账号注册、聊天室创建与维护、房源群组等相关 
-    </details> 
-
-- 💪 [数据开发也能双轮驱动?](https://juejin.cn/post/7148442601996156936) | Wed Sep 28 2022 2:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章主要讲解DataFactory的维度建模概念，业务驱动模型开发流程以及两种开发模式的对比。 通过本文了解DataFactory双轮驱动指哪两种开发模式？它们的具体流程是什么？分别适合什么场景 
     </details> 
 <!-- juejin:END -->
 ### 少数派
