@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [后疫情时代，RTE“沉浸式”体验还能这么玩？丨RTE 2022 编程挑战赛赛后专访](https://juejin.cn/post/7148444086762995725) | Wed Sep 28 2022 2:54 PM 
+- 🤗 [TiDB Hackathon 2022丨总奖金池超 35 万！邀你唤醒代码世界的更多可能性！](https://juejin.cn/post/7148465698082144269) | Wed Sep 28 2022 4:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    一年一度的 TiDB Hackathon 又来啦！TiDB Hackathon 2022 主题为 「... 
+    </details> 
+
+- 🎡 [Android 混淆规则是如何生效的？](https://juejin.cn/post/7148456353332215838) | Wed Sep 28 2022 3:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    记录一下关于 Android 中关于混淆配置文件的生效规则、混淆规则的细节、build 产物中和混淆相关的内容及其作用。 
+    </details> 
+
+- 🕯 [Java反射详解，学以致用，实战案例（AOP修改参数、Mybatis拦截器实现自动填充）](https://juejin.cn/post/7148454894826061831) | Wed Sep 28 2022 3:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    你觉得Java反射在你心里是个什么地位呢？ 本文详细解释Java反射，附带实战案例（AOP修改参数、Mybatis拦截器实现自动填充），希望能够学以致用，做到举一反三 
+    </details> 
+
+- 🚀 [后疫情时代，RTE“沉浸式”体验还能这么玩？丨RTE 2022 编程挑战赛赛后专访](https://juejin.cn/post/7148444086762995725) | Wed Sep 28 2022 2:54 PM 
     <details><summary>展开描述 ...</summary> 
     GGBOT 团队使用 flutter+Go 作为框架语言，深度使用了声网 RTC 技术，进行 Token 鉴权、云端录制、频道管理；借助环信 SDK 技术实现账号注册、聊天室创建与维护、房源群组等相关 
     </details> 
 
-- 🎡 [数据开发也能双轮驱动?](https://juejin.cn/post/7148442601996156936) | Wed Sep 28 2022 2:49 PM 
+- 💪 [数据开发也能双轮驱动?](https://juejin.cn/post/7148442601996156936) | Wed Sep 28 2022 2:49 PM 
     <details><summary>展开描述 ...</summary> 
     本篇文章主要讲解DataFactory的维度建模概念，业务驱动模型开发流程以及两种开发模式的对比。 通过本文了解DataFactory双轮驱动指哪两种开发模式？它们的具体流程是什么？分别适合什么场景 
-    </details> 
-
-- 🕯 [LeetCode判定是否互为字符重排使用JavaScript解题|前端学算法](https://juejin.cn/post/7148439523477684260) | Wed Sep 28 2022 2:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    使用JavaScript解决LeetCode判定是否互为字符重排的算法题，前端学习算法，每天三分钟一个知识点 
-    </details> 
-
-- 🚀 [聊聊xxl-job二次开发 以及 IT糟糕的大环境](https://juejin.cn/post/7148429719845732383) | Wed Sep 28 2022 2:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第n篇文章，点击查看活动详情” 闲聊 1、最近身边蛮多朋友被裁员，让我深切感受到这个糟糕的大环境，而且不是说个人能力不行🙅，先大环境不咋地，然后 
-    </details> 
-
-- 💪 [车载行业有望成为下一个互联网行业时代风口](https://juejin.cn/post/7148428146277089287) | Wed Sep 28 2022 1:52 PM 
-    <details><summary>展开描述 ...</summary> 
-    Android系统在手机时代大家再熟悉不过了，起初Android本未涉足车载OS。 但部分供应商为了低成本应用将Android搬上了汽车，在大部分汽车电气化不足，自动驾驶尚处于概念之时，各色Andro 
     </details> 
 <!-- juejin:END -->
 ### 少数派
