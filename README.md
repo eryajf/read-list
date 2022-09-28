@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔公布Z790芯片集：增加兼容PCIe Gen4的通道数量](https://www.cnbeta.com/articles/tech/1321659.htm) | Wed Sep 28 2022 5:56 AM 
+- 🕯 [特斯拉Semi电动卡车被发现在交付前被运往美国各地](https://www.cnbeta.com/articles/tech/1321713.htm) | Wed Sep 28 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在推出第 13 代酷睿“Raptor Lake”桌面处理器之外，英特尔在本周二还宣布了配套的主板芯片集 Z790。由于 Raptor Lake 桌面处理器和第 12 代一样均基于 LGA1700 封装，因此这两代是互相兼容的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Electrek报道，&lt;strong&gt;在期待已久的交付开始之前，几辆特斯拉Semi电动卡车被发现正被运往美国各地。&lt;/strong&gt;特斯拉Semi是一款全电动的Class 8卡车，早在2017年就已经亮相了，原定于2019年正式交付。该车辆项目被推迟了多年，直到最近，外界预计Semi电动卡车要到2023年才会投入生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Fast Company的Apple News访问被劫持并发送淫秽推送通知](https://www.cnbeta.com/articles/tech/1321657.htm) | Wed Sep 28 2022 5:50 AM 
+- 💼 [研究人员在地球深处发现一个“钻石工厂”](https://www.cnbeta.com/articles/science/1321711.htm) | Wed Sep 28 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;The Verge称，已经有一段时间没有发生过高调的媒体推送劫持事件了，但当地时间9月27日晚有人通过Fast Company发送了一个包含有种族污蔑和特定性行为邀请的Apple News通知。苹果在其Apple News Twitter账户上处理了这一事件，称它已经禁用了Fast Company的频道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在地球表面，钢铁因水和空气而生锈。但在地球内部的深处呢？地球上最大的碳储存是地心，其中90%的碳被埋在那里。科学家们已经证明，停留在构造板块顶部并落入内部的海洋地壳含有水合矿物，偶尔可以到达地核和地幔的边界。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔发布了XeSS超级采样技术的1.0 SDK](https://www.cnbeta.com/articles/tech/1321655.htm) | Wed Sep 28 2022 5:41 AM 
+- 💂 [英特尔在创新大会上展出了一款34核的Raptor Lake-S芯片晶圆](https://www.cnbeta.com/articles/tech/1321709.htm) | Wed Sep 28 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在圣何塞举办的创新活动期间，Intel 正式发布了 XeSS 超级采样技术的 1.0 版 SDK 源码。&lt;/strong&gt;作为 AMD FSR 和 NVIDIA DLSS 的替代方案，XeSS 不仅适用于英特尔自家的 Arc Graphics 图形硬件，也兼容其它供应商的 GPU 硬件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨日，英特尔正式发布了 13 代 Raptor Lake 桌面处理器，顶级型号的酷睿 i9-13900KS 具有 8P+16E（24C / 32T）的混合式核心架构设计。&lt;strong&gt;然而据 Tom&amp;#39;s Hardware 爆料，该公司似乎还在酝酿一款配备了 34 个高性能 Raptor Cove 核心的处理器。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [波音交付第100架737-800BCF](https://www.cnbeta.com/articles/tech/1321653.htm) | Wed Sep 28 2022 5:37 AM 
+- 🚀 [A卡N卡一样用：首款支持Intel XeSS技术的游戏正式上线补丁](https://www.cnbeta.com/articles/tech/1321707.htm) | Wed Sep 28 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;波音公司今日宣布交付737-800波音改装货机（BCF）项目的第100架飞机，客户为世界上最大的租赁公司AerCap。&lt;/strong&gt;第100架737-800BCF的改装工作由上海波音航空改装维修工程有限公司（上海波音）完成，世界上首条737-800BCF改装线正是于2016年在这家波音合资维修企业启动的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据Steam游戏页面的公告，&lt;strong&gt;《古墓丽影：暗影》在最新推送的更新补丁中，已经正式加入了DX12下的XeSS超采样技术支持，成为全球首款正式支持Intel XeSS技术的游戏。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Windows 11 22H2小技巧：CTRL+Shift+C组合键可轻松复制文件路径](https://www.cnbeta.com/articles/tech/1321651.htm) | Wed Sep 28 2022 5:22 AM 
+- 🎊 [谷歌相册疑似出现严重错误 大量用户反馈照片被锐化](https://www.cnbeta.com/articles/tech/1321705.htm) | Wed Sep 28 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着首轮更新推送的到来，许多人正在期盼着揭开 Windows 11 22H2 的更多彩蛋。&lt;strong&gt;而在周二的一条推文中，微软工程师 Jen Gentleman 就分享了一个有趣的小技巧。&lt;/strong&gt;可知在安装了 Windows 11 22H2 更新后，用户将能够使用 CTRL+ Shift + C 的组合键，拷贝选定文件的存储路径。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;目前有相当多的用户使用Google相册&lpar;Google Photos&rpar;备份自己的照片 , &amp;nbsp;毕竟备份后手机本地照片就可以删掉。当然使用Google相册备份照片也是有代价的，那就是只能以压缩图片上传，否则就会占用Google账号的空间配额。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
