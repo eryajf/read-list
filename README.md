@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [EA透露光荣《WILD HEARTS》已开发4年时间](https://hot.cnbeta.com/articles/game/1321927.htm) | Wed Sep 28 2022 8:18 PM 
+- 🕯 [流媒体服务Epix将改头换面 在2023年以MGM+的名义推出](https://hot.cnbeta.com/articles/movie/1321933.htm) | Wed Sep 28 2022 8:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在狮门公司将Starzplay更名为Lionsgate+的同一天，米高梅的Epix宣布它的品牌名称中也将有一个&amp;quot;+&amp;quot;。无广告的Epix流媒体服务今天宣布它将在2023年初更名MGM+重新启动。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [玛氏M&amp;M&#39;s推出紫色糖豆 数十年来首次带来新颜色](https://www.cnbeta.com/articles/tech/1321931.htm) | Wed Sep 28 2022 8:32 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;M&amp;amp;M&amp;#39;s夹心巧克力糖豆是全世界家喻户晓的糖果，今天其母公司玛氏宣布推出一种&amp;quot;紫色&amp;quot;糖果，这也是有史以来第一个以女性形象示人的M&amp;amp;M花生糖豆。超过1000万名粉丝在5月投票决定在糖果彩虹中加入这种颜色，在水蓝色和粉红色中胜出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [俄罗斯监管机构要求苹果就将VK应用从App Store下架一事作出答复](https://www.cnbeta.com/articles/tech/1321929.htm) | Wed Sep 28 2022 8:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在苹果公司将VKontakte从应用商店中删除后，俄罗斯监管机构表示，这将损害其公民之间的沟通，并要求苹果公司做出解释。VKontakte是俄罗斯最大的社交网络应用。在苹果公司于9月28日下架该应用后，俄罗斯监管机构Roskomnadzor对该行动提出异议，称其具有&amp;quot;歧视性&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [EA透露光荣《WILD HEARTS》已开发4年时间](https://hot.cnbeta.com/articles/game/1321927.htm) | Wed Sep 28 2022 8:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Omega Force日前终于解开了《WILDHEARTS》这款次世代狩猎游戏的面纱，该游戏将面向Xbox Series X/S, PS5和PC发行。虽然预告片展示的是仍在开发中的项目，但其美学、Kemono和Karakuri的设计脱颖而出。另外游戏很快即将发行，时间定位2023年2月。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1321927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中国科学家打造观测宇宙的“龙虾眼”](https://www.cnbeta.com/articles/science/1321925.htm) | Wed Sep 28 2022 8:17 PM 
+- 🎊 [中国科学家打造观测宇宙的“龙虾眼”](https://www.cnbeta.com/articles/science/1321925.htm) | Wed Sep 28 2022 8:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;大自然让龙虾进化出奇异的眼睛，继而又启发科学家设计出特殊的望远镜，让人类能够观测宇宙中出没无常、转瞬即逝的神秘现象。中科院国家天文台近日介绍，中国科学家研制的一台龙虾眼X射线望远镜已成功获得一批天体的X射线实测图像和能谱。这是国际上首次获得并公开发布的宽视场X射线聚焦成像天图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [10月下旬我国西部可见日偏食天象](https://www.cnbeta.com/articles/tech/1321923.htm) | Wed Sep 28 2022 8:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;记者从北京天文馆获悉，在即将到来的10月份，我国西部部分地区可以看到一次日偏食天象，水星西大距和猎户座流星雨也将先后上演。北京时间10月25日，在亚洲西部、欧洲、非洲东北部，人们可以看到一次日偏食天象。我国大部分地区与这次天象观测无缘，只有在新疆、西藏、青海和甘肃西部的部分地区人们可以看到这次天象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [“从鱼到人”演化过程长达5亿年左右 化石揭秘人类演化史](https://www.cnbeta.com/articles/science/1321921.htm) | Wed Sep 28 2022 8:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;记者从中国科学院古脊椎动物与古人类研究所获悉，中科院朱敏院士领衔的科研团队经过多年的野外考察与研究，揭示了有颌脊椎动物起源与早期演化的重要信息，在“从鱼到人”的探源研究领域取得重要突破，系列科研成果北京时间9月28日在国际学术期刊《自然》在线发表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1321921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [微软不再开发iOS版SwiftKey 现有版本将于10月5日自App Store删除](https://www.cnbeta.com/articles/tech/1321919.htm) | Wed Sep 28 2022 7:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软的iOS版SwiftKey第三方键盘已经有一年多没有更新了，这激起了关于该应用变成废弃软件的讨论。这些传闻现在成为了现实。微软将于10月5日将iOS版SwiftKey从App Store中删除。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
