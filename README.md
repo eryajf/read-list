@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [Meta 关闭大规模俄罗斯欺诈新闻“网络”](https://www.freebuf.com/news/345904.html) | Thu Sep 29 2022 2:50 AM 
+- 🦄 [国家标准《信息安全技术 网络安全信息报送指南（征求意见稿）》发布](https://www.freebuf.com/news/345923.html) | Thu Sep 29 2022 6:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    《报送指南》描述了网络安全信息报送的信息类型、要素、格式规范，以及网络安全信息报送活动的参与角色、基本流程、报送方式。 
+    </details> 
+
+- 🦄 [《网络安全标准实践指南—健康码防伪技术指南》发布](https://www.freebuf.com/news/345921.html) | Thu Sep 29 2022 5:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    《实践指南》给出了现场核验场景下健康码防伪的技术指南，指导健康码服务的技术提供方提高防伪能力，提升整体安全水平。 
+    </details> 
+
+- 🦅 [Meta 关闭大规模俄罗斯欺诈新闻“网络”](https://www.freebuf.com/news/345904.html) | Thu Sep 29 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
     该网络用于在欧洲各地 60 多个冒充新闻机构的网站上发布虚假信息。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 美国网攻西工大另一图谋曝光；Meta大规模关闭俄罗斯欺诈新闻网站](https://www.freebuf.com/news/345879.html) | Wed Sep 28 2022 11:39 AM 
+- 🪄 [FreeBuf早报 | 美国网攻西工大另一图谋曝光；Meta大规模关闭俄罗斯欺诈新闻网站](https://www.freebuf.com/news/345879.html) | Wed Sep 28 2022 11:39 AM 
     <details><summary>展开描述 ...</summary> 
     渗透控制中国基础设施核心设备，窃取中国用户隐私数据，入侵过程中还查询一批中国境内敏感身份人员。 
     </details> 
 
-- 🦅 [DVWA解题步骤](https://www.freebuf.com/articles/web/344098.html) | Wed Sep 28 2022 10:04 AM 
+- 💻 [DVWA解题步骤](https://www.freebuf.com/articles/web/344098.html) | Wed Sep 28 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     这里要用到sql的基本知识，在此就不多做赘述。 
-    </details> 
-
-- 🪄 [全国信安标委发布《信息安全技术 网络安全众测服务要求》（征求意见稿）](https://www.freebuf.com/news/345854.html) | Wed Sep 28 2022 9:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    网络安全众测服务是指，以自愿的方式组织非特定的自然人或组织，在审计及监督下，对网络产品和系统等开展漏洞发现等安全测试的过程。 
-    </details> 
-
-- 💻 [以色列国防巨头埃尔比特系统美国分公司遭黑客攻击](https://www.freebuf.com/news/345820.html) | Wed Sep 28 2022 6:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    以色列国防承包商埃尔比特系统美国分公司网络在6月初遭到黑客攻击。 
     </details> 
 <!-- freebuf:END -->
 
