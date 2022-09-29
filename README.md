@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国产干线大型客机C919获得民航管理局颁发的合格证证书](https://www.cnbeta.com/articles/tech/1322301.htm) | Thu Sep 29 2022 11:16 AM 
+- 🕯 [减薪、关店、巨亏，国美“临崖”谁来救？](https://www.cnbeta.com/articles/tech/1322329.htm) | Thu Sep 29 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国产大飞机C919终于等到了这一天——9月29日，&lt;strong&gt;中国自行研制的、具有自主知识产权的中短程商用干线双发喷气式大型客机C919于9月29日获得民航管理局颁发的合格证证书。&lt;/strong&gt;C919型客机于2017年5月5日成功首飞，2020年11月27日获得首个型号检查核准书。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上海的徐家汇，是魔都最繁华的商业中心之一，从来都不缺少人流。9月26日晚上6点，正值下班高峰期，拥挤的人群排着队乘坐扶梯，商场、餐厅人满为患，连天桥上都是来来往往的行人。然而，坐落于此的国美电器徐汇二店格外冷清，除了穿着红色国美制服的促销员，几乎没有顾客。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Twitch暂时限制浏览器支持 只在Chrome、Edge和Firefox下可工作](https://hot.cnbeta.com/articles/game/1322299.htm) | Thu Sep 29 2022 11:14 AM 
+- 💼 [供应商battle东方甄选“6元玉米”再起波澜](https://www.cnbeta.com/articles/tech/1322327.htm) | Thu Sep 29 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在Twitch宣布Chrome、Edge和Firefox是这个流行的流媒体平台目前唯一正式支持的网络浏览器之后，由于沟通不畅导致了一些混乱。公告中没有提供这么做的原因，尽管看起来这些限制是暂时的，以便Twitch可以定位并关闭用于创建大量僵尸账户的接入点。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本来已经以辛巴致歉而告一段落的东方甄选8元玉米争议，因为抖音用户“东北农嫂”的一番言论再次引发热议。近日，自称是东方甄选玉米供应商的“东北农嫂”在抖音直播中声称，自己是东方甄选6元一根玉米的供应商，在她直播间同样的玉米一根只要3.6元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美情报界希望开发出可揭示匿名作者身份的AI](https://www.cnbeta.com/articles/tech/1322297.htm) | Thu Sep 29 2022 11:13 AM 
+- 💂 [RPCS3模拟器开始支持AMD Ryzen 7000&quot;Zen 4&quot;AVX-512指令集](https://hot.cnbeta.com/articles/game/1322325.htm) | Thu Sep 29 2022 12:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;外媒报道称，&lt;strong&gt;美国情报界已经启动了一项 AI 开发计划，希望能够有效地推断出匿名写手的身份、或通过巧妙改变文字来伪装其身份。&lt;/strong&gt;美国国家情报局局长办公室 ODNI 表示，在情报高级研究项目活动（IARPA）基础结构上使用的“人类可解文本归因”（HIATUS）计划，旨在构建可执行“语言指纹识别”的软件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼PS3模拟器&amp;quot;RPCSE3&amp;quot;的最新版本现在已经更新，以支持AMD Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU的AVX-512指令。带有AVX-512指令的AMD Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU现在可以提升索尼PS3&amp;quot;RPCS3&amp;quot;模拟器的性能。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国超越德国成为第二大汽车出口国 仅次于日本](https://www.cnbeta.com/articles/tech/1322295.htm) | Thu Sep 29 2022 11:00 AM 
+- 🚀 [Search On：谷歌介绍其更迎合年轻人的一系列搜索体验改进](https://www.cnbeta.com/articles/tech/1322323.htm) | Thu Sep 29 2022 12:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国产车在国内市场的市占率不断攀升，而今，自主品牌相继出海布局海外市场，这也带动了中国汽车出口量的增长。9月29日消息，据报道：2021年，中国汽车出口201.5万辆，同比增长101%，全球排名仅次于日本的382万辆和德国的230万辆，超越韩国位居第三。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Google 今日宣布了要对传统搜索体验加以改造，以便用户能够更加自然地探索信息。&lt;/strong&gt;为实现这一目标，该公司正在引入诸多新功能，包括深入研究主题的工具和其它变更。这些改变，旨在为搜索赋予一种更直观的使用体验，以新颖的方式凸显地图、图像、甚至视频片段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“点读机女孩”本人出镜称已保研中传 硕本连读共七年](https://hot.cnbeta.com/articles/funny/1322293.htm) | Thu Sep 29 2022 10:58 AM 
+- 🎊 [数据显示新能源汽车质量可靠 二手故障率仅不到传统燃油车的1/10](https://www.cnbeta.com/articles/tech/1322321.htm) | Thu Sep 29 2022 12:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月28号，“点读机女孩”高君雨通过视频账号官宣喜讯，她被成功保研到中国传媒大学，硕本连读共七年的时间。消息曝光之后，诸多网友纷纷表示恭喜，终于“妈妈再也不用担心你的学习啦”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1322293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;瓜子二手车大数据发现：主流新能源汽车品牌以及国产自主热销品牌的二手车整体质量可靠；传统燃油车中故障率最高TOP10榜单中，知名合资品牌车系是重灾区；知名国外品牌双标严重，进口版与国产版的二手车故障率差异甚大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
