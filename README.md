@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Swift - LeetCode - 字符串中的第一个唯一字符](https://juejin.cn/post/7148708707113631775) | Thu Sep 29 2022 8:00 AM 
+- 🤗 [JAVA集合最全地图，这一篇足矣](https://juejin.cn/post/7148701396597768200) | Thu Sep 29 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
-    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情” 题目 给定一个字符串 s ，找到 它的第一个不重复的字符，并返回它的索引。如果不存在，则返回 -1。 示例 1： 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 概述 Java提供了大量的容器类数据接口，比如ArrayList, HashSet等等，我们在项目中都大 
     </details> 
 
-- 🎡 [干货！看完这份阿里大牛分享的从分布式到微服务手册，我失眠了](https://juejin.cn/post/7148706274417311757) | Thu Sep 29 2022 7:51 AM 
+- 🎡 [Spring Boot 自动装配原理，你知道？](https://juejin.cn/post/7148700947353927717) | Thu Sep 29 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-    随着用户增长，并发请求增加以及业务越来越复杂，架构设计往往不得不由单体向分布式系统演进，而分布式事务成了影响架构落地的首要难点。 不管是社区开源的ByteTCC、LCN，还是阿里的Seata，开发者们 
+    前言 假如你在面试过程中被问到 Spring Boot 自动装配原理，你该如何回答？ 没有深入了解的 
     </details> 
 
-- 🕯 [Vite开发阶段发生了什么？](https://juejin.cn/post/7148691211757781005) | Thu Sep 29 2022 6:53 AM 
+- 🕯 [不会F12？这个方法解决移动端页面pc预览](https://juejin.cn/post/7148671182072447012) | Thu Sep 29 2022 5:37 AM 
     <details><summary>展开描述 ...</summary> 
-    作者 前言 2222年了，众所周知的是，Vite已然成为当下最流行的构建工具之一，凭借它与众不同的特性，受到了无数前端程序员们的青睐。 1.Vite的优势在哪里？ ​ Vite的主要优势实际上是在开发 
+    作为开发者，开发H5页面，或其他手机端网页，我们会习以为常的打开F12 调到手机模式下进行预览调试，正常情况下用户会使用手机打开该项目，所以我们不太会考虑移动端项目在PC分辨率下的内容显示 当领导要求 
     </details> 
 
-- 🚀 [高性能 RPC 框架 CloudWeGo-Kitex 内外统一的开源实践](https://juejin.cn/post/7148688078083915807) | Thu Sep 29 2022 6:40 AM 
+- 🚀 [Docker Swarm vs kubernetes](https://juejin.cn/post/7148657448188903454) | Thu Sep 29 2022 4:43 AM 
     <details><summary>展开描述 ...</summary> 
-    日前，字节跳动技术社区 ByteTech 举办的第七期字节跳动技术沙龙圆满落幕，字节跳动字节跳动基础架构服务框架资深研发工程师杨芮，跟大家分享了《高性能 RPC 框架 Kitex 内外统一的开源实践》 
+    在kubernetes（k8s）火遍大江南北的背景下，为何我们在搭建微服务集群的时候，选择了Swarm，而没有选择k8s呢？ 
     </details> 
 
-- 💪 [【Redis】五大常见的数据类型之 List](https://juejin.cn/post/7148687227038466078) | Thu Sep 29 2022 6:38 AM 
+- 💪 [Zookeeper如何网络通信+监听？看一看Watch机制](https://juejin.cn/post/7148636956644081694) | Thu Sep 29 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    我们都知道 Redis 提供了丰富的数据类型，常见的有五种：String，Hash，List，Set、Zset。今天我们就来详细的聊聊 Redis 这五大常见的数据类型之一 List； 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第4篇文章，点击查看活动详情 Zookeeper Watch机制 Watcher是一种简单的机制，使客户端得到关于ZooKeeper集合中的更改的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
