@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [城市/越野双版本：Dragonfly推出Hyperscooter四轮电动滑板车](https://www.cnbeta.com/articles/tech/1322261.htm) | Thu Sep 29 2022 10:17 AM 
+- 🕯 [国产干线大型客机C919获得民航管理局颁发的合格证证书](https://www.cnbeta.com/articles/tech/1322301.htm) | Thu Sep 29 2022 11:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Dragonfly 刚刚推出了一款造型独特的四轮电动滑板车，特点是配备了加强型的转向柱。&lt;strong&gt;即便如此，Hyperscooter 的重量还是控制在了 40 磅（18 公斤）之内、且速度可达 25 mph（40 km/h）。&lt;/strong&gt;目前该产品已在 Dragonfly 英国官网上架预售，如果一切顺利，其有望于今年 12 月发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国产大飞机C919终于等到了这一天——9月29日，&lt;strong&gt;中国自行研制的、具有自主知识产权的中短程商用干线双发喷气式大型客机C919于9月29日获得民航管理局颁发的合格证证书。&lt;/strong&gt;C919型客机于2017年5月5日成功首飞，2020年11月27日获得首个型号检查核准书。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [小米12T Pro真机泄露：2亿主摄加持 像素数是12S Ultra的4倍](https://www.cnbeta.com/articles/tech/1322259.htm) | Thu Sep 29 2022 9:44 AM 
+- 💼 [Twitch暂时限制浏览器支持 只在Chrome、Edge和Firefox下可工作](https://hot.cnbeta.com/articles/game/1322299.htm) | Thu Sep 29 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，小米12T Pro真机照在社交平台上泄露。如图所示，&lt;strong&gt;小米12T Pro工业设计与国行版Redmi K50至尊版一致&lt;/strong&gt;，二者都是搭载骁龙8+旗舰处理器，标配1.5K直屏，&lt;strong&gt;主要区别在于影像。&lt;/strong&gt;据悉，&lt;strong&gt;小米12T Pro后置主摄为2亿像素，其像素数量是小米12S Ultra的4倍，是迄今为止像素最高的小米手机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在Twitch宣布Chrome、Edge和Firefox是这个流行的流媒体平台目前唯一正式支持的网络浏览器之后，由于沟通不畅导致了一些混乱。公告中没有提供这么做的原因，尽管看起来这些限制是暂时的，以便Twitch可以定位并关闭用于创建大量僵尸账户的接入点。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel Arc A7旗舰显卡非公版首秀：还是蓝戟、华擎两家](https://www.cnbeta.com/articles/tech/1322257.htm) | Thu Sep 29 2022 9:42 AM 
+- 💂 [美情报界希望开发出可揭示匿名作者身份的AI](https://www.cnbeta.com/articles/tech/1322297.htm) | Thu Sep 29 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel日前发布了Arc A770、A750、A310四款新的独立显卡，官方特意打造了A770、A750的限量公版。非公版呢？Intel创新大会上，&lt;strong&gt;官方展示了蓝戟、华擎的各两款设计，他们也是迄今唯二面向推出Arc A380显卡的品牌。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;外媒报道称，&lt;strong&gt;美国情报界已经启动了一项 AI 开发计划，希望能够有效地推断出匿名写手的身份、或通过巧妙改变文字来伪装其身份。&lt;/strong&gt;美国国家情报局局长办公室 ODNI 表示，在情报高级研究项目活动（IARPA）基础结构上使用的“人类可解文本归因”（HIATUS）计划，旨在构建可执行“语言指纹识别”的软件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [SK Hynix展示非常规容量的48GB和96GB DDR5 RDIMM](https://www.cnbeta.com/articles/tech/1322255.htm) | Thu Sep 29 2022 9:41 AM 
+- 🚀 [中国超越德国成为第二大汽车出口国 仅次于日本](https://www.cnbeta.com/articles/tech/1322295.htm) | Thu Sep 29 2022 11:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;SK Hynix在2022年的英特尔InnovatiON活动中展示了一些非常规的服务器内存容量：48GB和96GB容量规格的DDR5 RDIMMs，当然也有常见的32GB、64GB和128GB的密度，&lt;/strong&gt;这些产品的数据速率为DDR5-5600和DDR5-6400。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国产车在国内市场的市占率不断攀升，而今，自主品牌相继出海布局海外市场，这也带动了中国汽车出口量的增长。9月29日消息，据报道：2021年，中国汽车出口201.5万辆，同比增长101%，全球排名仅次于日本的382万辆和德国的230万辆，超越韩国位居第三。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究人员成功测试了一种经济有效的“液体活检”](https://www.cnbeta.com/articles/science/1322253.htm) | Thu Sep 29 2022 9:23 AM 
+- 🎊 [“点读机女孩”本人出镜称已保研中传 硕本连读共七年](https://hot.cnbeta.com/articles/funny/1322293.htm) | Thu Sep 29 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;由加州大学洛杉矶分校琼森综合癌症中心领导的研究测试了一种具有成本效益的方法，其通过血液样本中的无细胞DNA进行了早期癌症检测。&lt;/strong&gt;早期检测仍是成功治疗许多癌症的最重要因素。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月28号，“点读机女孩”高君雨通过视频账号官宣喜讯，她被成功保研到中国传媒大学，硕本连读共七年的时间。消息曝光之后，诸多网友纷纷表示恭喜，终于“妈妈再也不用担心你的学习啦”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1322293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
