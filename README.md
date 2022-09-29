@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔分享Sapphire Rapids-SP芯片的首批加速器基准测试成绩](https://www.cnbeta.com/articles/tech/1322231.htm) | Thu Sep 29 2022 8:28 AM 
+- 🕯 [研究人员成功测试了一种经济有效的“液体活检”](https://www.cnbeta.com/articles/science/1322253.htm) | Thu Sep 29 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在创新活动的第二天，英特尔放出了 Sapphire Rapids 至强可扩展芯片的首份基准测试数据。&lt;/strong&gt;可知除了进一步缩小与 AMD EPYC 竞品之间的核心数差距，蓝厂还展示了 Sapphire Rapids 的加速器封装。这些固定功能的硬件组件，可为特定类型的服务器工作负载提供远快于 CPU 内核的加速运行体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;由加州大学洛杉矶分校琼森综合癌症中心领导的研究测试了一种具有成本效益的方法，其通过血液样本中的无细胞DNA进行了早期癌症检测。&lt;/strong&gt;早期检测仍是成功治疗许多癌症的最重要因素。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Energy Dome和Ørsted签署谅解备忘录 部署200MWh储能设施](https://www.cnbeta.com/articles/tech/1322229.htm) | Thu Sep 29 2022 8:20 AM 
+- 💼 [我国北方首条大型跨海沉管隧道 大连湾海底隧道全线贯通](https://www.cnbeta.com/articles/tech/1322251.htm) | Thu Sep 29 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;意大利初创公司 Energy Dome 昨天宣布与丹麦风能巨头 Ørsted 签署谅解备忘录 &lpar;MoU&rpar;。&lt;/strong&gt;本次合作将在多个 Ørsted 站点使用 Energy Dome 的 CO2 电池技术，从而部署 20 megawatt &lpar;MW&rpar;/200 MWh 的储能设施。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;9月29日，我国北方首条大型跨海沉管隧道——大连湾海底隧道实现全幅贯通，较原计划提前1个月。&lt;/strong&gt;海底沉管段全长3035米，由18节沉管和1个最终接头构成，其中标准管节长180米，单节沉管重量约6万吨。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究人员重建了所有哺乳动物最早的共同祖先的基因组](https://www.cnbeta.com/articles/science/1322227.htm) | Thu Sep 29 2022 8:13 AM 
+- 💂 [曾试图提醒泰坦尼克号注意冰山的美莎巴号的残骸已被发现](https://www.cnbeta.com/articles/science/1322249.htm) | Thu Sep 29 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大约1.8亿年前，有一种早期的哺乳动物成为地球上所有哺乳动物最早的已知共同祖先，从蓝鲸到骆驼、犀牛、考拉，还有人类等。&lt;strong&gt;人们对这种动物知之甚少，但其基因组的组织现在已经由一个国际研究团队通过计算重建。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据CNN报道，&lt;strong&gt;一艘曾试图警告泰坦尼克号注意前方冰山的船只的残骸在爱尔兰海底被发现。&lt;/strong&gt;1912年4月15日，英国商船“美莎巴号”（SS Mesaba）在穿越大西洋时向泰坦尼克号发出了警告的无线电信息。泰坦尼克号收到了这一信息，但没有到达该船的主要控制中心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [影星汤姆·汉克斯表示他的电影只有四部“还不错”](https://hot.cnbeta.com/articles/movie/1322225.htm) | Thu Sep 29 2022 8:12 AM 
+- 🚀 [PowerUp Toys推出Tornado Updraft 12轻木模型电动遥控飞机](https://www.cnbeta.com/articles/tech/1322247.htm) | Thu Sep 29 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;汤姆·汉克斯可能在他数十年的好莱坞职业生涯中积累了大量的作品：《费城故事》、《阿甘正传》和《荒岛余生》等等。&lt;strong&gt;但这位演员最近透露，他认为其中只有四部电影可以被称为“还不错”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一些网友可能还记得小时候制作的“橡皮筋动力”轻木模型飞机。虽然酷炫且充满乐趣，但其缺点也相当明显。除了飞行时间不够长，玩家也无法对其加以遥控。&lt;strong&gt;好消息是，PowerUp Toys 刚刚推出了一款名叫 Tornado Updraft 12 的轻木模型电动遥控飞机，并且售价低至 105 美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [巫师前传剧集《巫师：血源》新剧照 杨紫琼等主演](https://www.cnbeta.com/articles/tech/1322223.htm) | Thu Sep 29 2022 8:11 AM 
+- 🎊 [漫威幻视演员参演《阿甘正传》导演新片《Here》](https://hot.cnbeta.com/articles/movie/1322245.htm) | Thu Sep 29 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日《巫师》前传剧集《巫师：血源》新剧照曝光，杨紫琼等主演亮相。&lt;/strong&gt;杨紫琼饰演剑精灵Scían，索菲亚·布朗饰演吟游歌者Éile、劳伦斯·欧弗林饰演复仇战士Fjall。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;漫威超级英雄幻视的演员保罗·贝坦尼将与影星汤姆·汉克斯和罗宾·赖特一起出演即将开拍的《阿甘正传》导演罗伯特·泽米基斯新剧情片《Here》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
