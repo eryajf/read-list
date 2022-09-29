@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [图数据 3D 可视化在 Explorer 中的应用](https://juejin.cn/post/7148640273835229191) | Thu Sep 29 2022 3:35 AM 
+- 🤗 [牛掰！Alibaba大牛在续神著“全栈技能修炼手册”GitHub星标88K+](https://juejin.cn/post/7148698523003781128) | Thu Sep 29 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 图数据可视化是现代 Web 可视化技术中比较常见的一种展示方式，Explorer 在可视化图数据领域，尤其是在图形渲染性能等领域积累了较丰富的经验 
+    今天在GitHub上面淘到一本牛逼的全栈技能修炼手册：使用Angular和Spring Boot 打造全栈应用 本书将大量的技术思想贯穿于前、后端这两条主线中。 前端:Angular 后端:Sprin 
     </details> 
 
-- 🎡 [得物基于 StarRocks 的 OLAP 需求实践](https://juejin.cn/post/7148632950844850212) | Thu Sep 29 2022 3:07 AM 
+- 🎡 [GO---基本结构和数据类型](https://juejin.cn/post/7148694368604389407) | Thu Sep 29 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-    StarRocks是 新一代极速全场景MPP数据库，可以用 StarRocks 来支持多种数据分析场景的极速分析； 架构简洁，采用了全面向量化引擎，并配备全新设计的 CBO 优化器。 
+    kubernetes 的开发语言就是 GO ，也就是说要想深入的去理解他的工作流程我们就需要去学习这个编程语言，包括其一些编码的骚操作这些。 
     </details> 
 
-- 🕯 [Compose 动画艺术探索之属性动画](https://juejin.cn/post/7148631147705008142) | Thu Sep 29 2022 3:00 AM 
+- 🕯 [MySQL 面试中常见的问题有哪些？](https://juejin.cn/post/7148676265422585893) | Thu Sep 29 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-    属性动画在日常开发中使用的频率不要太高，但如果使用 Compose 该怎么办呢？不要担心，官方也为 Compose 提供了属性动画的实现，一起来看看吧！！！ 
+    正好，前几天刚给公司招聘了一个Java后端开发的人员 小于哥：ACID是什么?可以详细说一下吗? 候选人蒙蔽了 
     </details> 
 
-- 🚀 [由浅入深、详解Android中Drawable的那些事](https://juejin.cn/post/7148630011010875422) | Thu Sep 29 2022 2:55 AM 
+- 🚀 [Go 源码解读｜如何用好 errors 库的 errors.Is&lpar;&rpar; 与 errors.As&lpar;&rpar; 方法](https://juejin.cn/post/7148673417066053646) | Thu Sep 29 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇将完整的描述开发中常见各种 Drawable ,以及如何自定义及更好的运用,符合工程化实践的背景。本篇难度较低，不涉及源码，适合轻松阅读。 
+    写作这篇文章的原因是我在写单元测试的时候，有时会调用 Go 的 errors 库中 errors.Is&lpar;&rpar; 和 errors.As&lpar;&rpar; 方法，借此做一个分析总结。 
     </details> 
 
-- 💪 [微众银行：全局数据血缘治理的实践 - AIOps 实时检测和深度分析金融数据](https://juejin.cn/post/7148627769180553252) | Thu Sep 29 2022 2:47 AM 
+- 💪 [从零到一搭建基础架构&lpar;1&rpar;-玩转maven依赖版本管理](https://juejin.cn/post/7148673133292027911) | Thu Sep 29 2022 5:43 AM 
     <details><summary>展开描述 ...</summary> 
-    微众银行是国内首家互联网银行，专注为小微企业和普罗大众提供在线金融服务。为了对全局数据的来源及影响范围进行实时检测和深度分析，目前全行 AIOps 都已经接入 NebulaGraph 平台。 
+    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ Hello，这里是爱 Coding，爱 Hiphop，爱喝点小酒的 AKA 柏炎。 对于工作1-3年的’小白 
     </details> 
 <!-- juejin:END -->
 ### 少数派
