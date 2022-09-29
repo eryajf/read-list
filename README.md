@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Linux bash 脚本中使用 test 命令大全](https://www.v2ex.com/t/883908#reply0) | Thu Sep 29 2022 2:00 PM
-- 🤗 [刚续费了 Jetbrains 全家桶三年](https://www.v2ex.com/t/883905#reply7) | Thu Sep 29 2022 1:50 PM
-- 🎭 [能源之星 X， Windows 续航增强软件 EnergyStar 的图形界面版](https://www.v2ex.com/t/883898#reply0) | Thu Sep 29 2022 1:05 PM
-- 🥷 [MIT 关于 VR 的这个在线课程怎么样啊？有没有一起组队的，学费可以省 260 刀（11 月 15 开课）](https://www.v2ex.com/t/883894#reply0) | Thu Sep 29 2022 12:41 PM
-- 🐵 [请问存在类似于[diskgenius.efi]或者[分区助手.efi]这种东西嘛?](https://www.v2ex.com/t/883893#reply12) | Thu Sep 29 2022 12:37 PM<!-- v2ex:END -->
+- 🥸 [国内哪家邮箱支持 smtp/tls 加密啊](https://www.v2ex.com/t/883926#reply3) | Thu Sep 29 2022 4:05 PM
+- 🤗 [ios 相册的图片或视频的信息中，有一条“从 bilibili 存储”这种东西，算不算 exif？授权给别的应用能读取到么？](https://www.v2ex.com/t/883920#reply1) | Thu Sep 29 2022 3:25 PM
+- 🎭 [Linux bash 脚本中使用 test 命令大全](https://www.v2ex.com/t/883908#reply0) | Thu Sep 29 2022 2:00 PM
+- 🥷 [刚续费了 Jetbrains 全家桶三年](https://www.v2ex.com/t/883905#reply11) | Thu Sep 29 2022 1:50 PM
+- 🐵 [能源之星 X， Windows 续航增强软件 EnergyStar 的图形界面版](https://www.v2ex.com/t/883898#reply0) | Thu Sep 29 2022 1:05 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
