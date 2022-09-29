@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究人员成功测试了一种经济有效的“液体活检”](https://www.cnbeta.com/articles/science/1322253.htm) | Thu Sep 29 2022 9:23 AM 
+- 🕯 [城市/越野双版本：Dragonfly推出Hyperscooter四轮电动滑板车](https://www.cnbeta.com/articles/tech/1322261.htm) | Thu Sep 29 2022 10:17 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Dragonfly 刚刚推出了一款造型独特的四轮电动滑板车，特点是配备了加强型的转向柱。&lt;strong&gt;即便如此，Hyperscooter 的重量还是控制在了 40 磅（18 公斤）之内、且速度可达 25 mph（40 km/h）。&lt;/strong&gt;目前该产品已在 Dragonfly 英国官网上架预售，如果一切顺利，其有望于今年 12 月发货。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [小米12T Pro真机泄露：2亿主摄加持 像素数是12S Ultra的4倍](https://www.cnbeta.com/articles/tech/1322259.htm) | Thu Sep 29 2022 9:44 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日消息，小米12T Pro真机照在社交平台上泄露。如图所示，&lt;strong&gt;小米12T Pro工业设计与国行版Redmi K50至尊版一致&lt;/strong&gt;，二者都是搭载骁龙8+旗舰处理器，标配1.5K直屏，&lt;strong&gt;主要区别在于影像。&lt;/strong&gt;据悉，&lt;strong&gt;小米12T Pro后置主摄为2亿像素，其像素数量是小米12S Ultra的4倍，是迄今为止像素最高的小米手机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Intel Arc A7旗舰显卡非公版首秀：还是蓝戟、华擎两家](https://www.cnbeta.com/articles/tech/1322257.htm) | Thu Sep 29 2022 9:42 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Intel日前发布了Arc A770、A750、A310四款新的独立显卡，官方特意打造了A770、A750的限量公版。非公版呢？Intel创新大会上，&lt;strong&gt;官方展示了蓝戟、华擎的各两款设计，他们也是迄今唯二面向推出Arc A380显卡的品牌。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [SK Hynix展示非常规容量的48GB和96GB DDR5 RDIMM](https://www.cnbeta.com/articles/tech/1322255.htm) | Thu Sep 29 2022 9:41 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;SK Hynix在2022年的英特尔InnovatiON活动中展示了一些非常规的服务器内存容量：48GB和96GB容量规格的DDR5 RDIMMs，当然也有常见的32GB、64GB和128GB的密度，&lt;/strong&gt;这些产品的数据速率为DDR5-5600和DDR5-6400。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [研究人员成功测试了一种经济有效的“液体活检”](https://www.cnbeta.com/articles/science/1322253.htm) | Thu Sep 29 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;由加州大学洛杉矶分校琼森综合癌症中心领导的研究测试了一种具有成本效益的方法，其通过血液样本中的无细胞DNA进行了早期癌症检测。&lt;/strong&gt;早期检测仍是成功治疗许多癌症的最重要因素。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [我国北方首条大型跨海沉管隧道 大连湾海底隧道全线贯通](https://www.cnbeta.com/articles/tech/1322251.htm) | Thu Sep 29 2022 9:19 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;9月29日，我国北方首条大型跨海沉管隧道——大连湾海底隧道实现全幅贯通，较原计划提前1个月。&lt;/strong&gt;海底沉管段全长3035米，由18节沉管和1个最终接头构成，其中标准管节长180米，单节沉管重量约6万吨。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [曾试图提醒泰坦尼克号注意冰山的美莎巴号的残骸已被发现](https://www.cnbeta.com/articles/science/1322249.htm) | Thu Sep 29 2022 9:12 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据CNN报道，&lt;strong&gt;一艘曾试图警告泰坦尼克号注意前方冰山的船只的残骸在爱尔兰海底被发现。&lt;/strong&gt;1912年4月15日，英国商船“美莎巴号”（SS Mesaba）在穿越大西洋时向泰坦尼克号发出了警告的无线电信息。泰坦尼克号收到了这一信息，但没有到达该船的主要控制中心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [PowerUp Toys推出Tornado Updraft 12轻木模型电动遥控飞机](https://www.cnbeta.com/articles/tech/1322247.htm) | Thu Sep 29 2022 8:55 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一些网友可能还记得小时候制作的“橡皮筋动力”轻木模型飞机。虽然酷炫且充满乐趣，但其缺点也相当明显。除了飞行时间不够长，玩家也无法对其加以遥控。&lt;strong&gt;好消息是，PowerUp Toys 刚刚推出了一款名叫 Tornado Updraft 12 的轻木模型电动遥控飞机，并且售价低至 105 美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [漫威幻视演员参演《阿甘正传》导演新片《Here》](https://hot.cnbeta.com/articles/movie/1322245.htm) | Thu Sep 29 2022 8:55 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;漫威超级英雄幻视的演员保罗·贝坦尼将与影星汤姆·汉克斯和罗宾·赖特一起出演即将开拍的《阿甘正传》导演罗伯特·泽米基斯新剧情片《Here》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
