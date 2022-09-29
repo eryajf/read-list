@@ -835,28 +835,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Confidence - 直接在 Salesforce 中运行数千个预测模拟](https://xinquji.com/posts/179967?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:32 AM 
+- 👀 [Agoston &lpar;Beta&rpar; - 在数小时内编写任何想法，实时扩展或在任何地方部署](https://xinquji.com/posts/179979?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-     直接在 Salesforce 中运行数千个预测模拟  
+     在数小时内编写任何想法，实时扩展或在任何地方部署  
     </details> 
 
-- 🥷 [DecideOn - 谁先走？](https://xinquji.com/posts/179966?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:32 AM 
+- 🥷 [Stardust Adventure Coffee - 美味的咖啡，无论你在哪里](https://xinquji.com/posts/179978?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-     谁先走？  
+     美味的咖啡，无论你在哪里  
     </details> 
 
-- 💼 [Lucid - 世界上最重要的知识，可视化](https://xinquji.com/posts/179965?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:29 AM 
+- 💼 [ShopMe - 将您的所有电子商务愿望清单合二为一](https://xinquji.com/posts/179977?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     世界上最重要的知识，可视化  
+     将您的所有电子商务愿望清单合二为一  
     </details> 
 
-- 🦅 [Send It - 没有更多的信息](https://xinquji.com/posts/179964?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:29 AM 
+- 🦅 [Figtree - 一种友好但极简的无衬线字体](https://xinquji.com/posts/179976?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     没有更多的信息  
+     一种友好但极简的无衬线字体  
     </details> 
 
-- 😺 [Submit.com - 简化表单管理、分析、合规性和工作流程](https://xinquji.com/posts/179963?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:27 AM 
+- 😺 [Salesmsg for Slack - 简单、可扩展、双向的商务短信，现在在 Slack 上](https://xinquji.com/posts/179975?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     简化表单管理、分析、合规性和工作流程  
+     简单、可扩展、双向的商务短信，现在在 Slack 上  
     </details> 
 <!-- xinquji:END -->
