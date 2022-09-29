@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [每年近千万名孕妇因这项技术受惠：华人科学家会再拿诺贝尔吗？](https://www.cnbeta.com/articles/science/1322389.htm) | Thu Sep 29 2022 5:39 PM 
+- 🕯 [《魔兽世界》正式服“巨龙时代”将于11月29日上线](https://hot.cnbeta.com/articles/game/1322393.htm) | Thu Sep 29 2022 7:07 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;魔兽世界运营团队日前在官网更新消息：《魔兽世界》“巨龙时代”内容更新于北京时间11月29日上线。巨龙一族的先祖故居巨龙群岛正在苏醒，许多遗忘已久的秘密等待着发掘。在古老的家园重见天日之时，巨龙向冒险者和探宝者发出了号召。响应他们的召唤，一同揭示等待着他们的神奇奥秘。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [高端机型也难逃市场寒气？苹果股价跌起来也狠](https://www.cnbeta.com/articles/tech/1322391.htm) | Thu Sep 29 2022 7:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;有分析师表示，过去两周，市场情绪和硬通货数据进一步恶化，如果全球危机恶化引发的抛售加剧，个人投资者抛售的可能性大幅增加。投资者应该密切关注苹果和特斯拉的股价走势，因为这两只股票可能是零售行业最后的希望。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [每年近千万名孕妇因这项技术受惠：华人科学家会再拿诺贝尔吗？](https://www.cnbeta.com/articles/science/1322389.htm) | Thu Sep 29 2022 5:39 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“诺奖风向标”向一位华人科学家抛出了橄榄枝。当地时间2022年9月28日，生物医学领域的重要奖项拉斯克奖（The Lasker Awards）正式公布，今年共设立3个奖项：基础医学研究奖、临床医学研究奖以及公共服务奖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [全球二氧化碳浓度继续升高](https://www.cnbeta.com/articles/tech/1322387.htm) | Thu Sep 29 2022 5:38 PM 
+- 🚀 [全球二氧化碳浓度继续升高](https://www.cnbeta.com/articles/tech/1322387.htm) | Thu Sep 29 2022 5:38 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;29日，中国气象局对外发布的《2020年中国温室气体公报（总第10期）》（简称“公报”）显示，2020年全球二氧化碳浓度继续升高。&lt;/strong&gt;公报与联合国世界气象组织（WMO）发布的《2020年WMO温室气体公报》相呼应，报告了中国2020年主要温室气体监测数据情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [欧委会以法律途径督促欧盟11国完成“禁塑令”立法](https://www.cnbeta.com/articles/tech/1322385.htm) | Thu Sep 29 2022 5:37 PM 
+- 🎊 [欧委会以法律途径督促欧盟11国完成“禁塑令”立法](https://www.cnbeta.com/articles/tech/1322385.htm) | Thu Sep 29 2022 5:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当地时间9月29日， 欧盟委员会分别向11个欧盟成员国发送了理由意见书（reasoned opinions）或正式通知函，起因是他们未能在规定时间内完成欧盟《一次性塑料制品条例》在本国的立法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Google宣布将于明年关闭其云游戏服务Stadia并向玩家退款](https://hot.cnbeta.com/articles/game/1322383.htm) | Thu Sep 29 2022 5:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Google正在关闭其云游戏服务Stadia。该服务将为玩家保留到2023年1月18日。&lt;/strong&gt;Google将退还所有通过Google商店购买的Stadia硬件费用，以及从Stadia商店购买的所有游戏和附加内容的费用，Google预计这些退款将在1月中旬完成。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [国庆期间气温大跳水 三地暴跌20℃](https://www.cnbeta.com/articles/tech/1322381.htm) | Thu Sep 29 2022 5:20 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;十一国庆长假就要来了！是不是已经规划好了去哪里浪一浪？可惜，这次天公不作美，全国多地将遭遇气温大跳水。据中央气象台预计，&lt;strong&gt;国庆假期期间&lpar;10月1日至7日&rpar;，四川北部、陕西南部、华北南部、黄淮等地有强降雨；江南、华南北部多高温少雨天气；强冷空气将影响我国大部；华北黄淮局地有雾。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
