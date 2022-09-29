@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [translate.google.cn 似乎准备要关闭了](https://www.v2ex.com/t/883934#reply0) | Thu Sep 29 2022 9:06 PM
+- 🥸 [translate.google.cn 似乎准备要关闭了](https://www.v2ex.com/t/883934#reply2) | Thu Sep 29 2022 9:06 PM
 - 🤗 [批量 ocr 扫描件，格式特殊，求思路](https://www.v2ex.com/t/883929#reply0) | Thu Sep 29 2022 5:56 PM
 - 🎭 [国内哪家邮箱支持 smtp/tls 加密啊](https://www.v2ex.com/t/883926#reply6) | Thu Sep 29 2022 4:05 PM
 - 🥷 [ios 相册的图片或视频的信息中，有一条“从 bilibili 存储”这种东西，算不算 exif？授权给别的应用能读取到么？](https://www.v2ex.com/t/883920#reply4) | Thu Sep 29 2022 3:25 PM
