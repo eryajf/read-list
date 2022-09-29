@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中兴发布超级700M室内5G CPE：通吃四大运营商5G、4G频段](https://www.cnbeta.com/articles/tech/1322205.htm) | Thu Sep 29 2022 7:31 AM 
+- 🕯 [英特尔分享Sapphire Rapids-SP芯片的首批加速器基准测试成绩](https://www.cnbeta.com/articles/tech/1322231.htm) | Thu Sep 29 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月29日消息，今日，中兴通讯宣布推出全新5G+Wi-Fi 6室内CPE产品——MC888S，适用于视频直播、企业办公、家庭上网、学生宿舍、门店商铺、农村农场等各行各业与场景。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在创新活动的第二天，英特尔放出了 Sapphire Rapids 至强可扩展芯片的首份基准测试数据。&lt;/strong&gt;可知除了进一步缩小与 AMD EPYC 竞品之间的核心数差距，蓝厂还展示了 Sapphire Rapids 的加速器封装。这些固定功能的硬件组件，可为特定类型的服务器工作负载提供远快于 CPU 内核的加速运行体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [因法律问题 Fedora Linux禁用了Mesa的H.264/H.265/VC1 VA-API支持](https://www.cnbeta.com/articles/tech/1322203.htm) | Thu Sep 29 2022 7:24 AM 
+- 💼 [Energy Dome和Ørsted签署谅解备忘录 部署200MWh储能设施](https://www.cnbeta.com/articles/tech/1322229.htm) | Thu Sep 29 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于当前正在使用 Mesa VA-API、或类似的开源驱动程序来加速 H.264、H.265 或 VC1 解码的 Fedora Linux 用户来说，这里有个坏消息。&lt;strong&gt;如果无法顺利搞定法律方面的问题，你将不得不回退到 CPU 软解、或依赖其它第三方 Mesa 构建版本。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;意大利初创公司 Energy Dome 昨天宣布与丹麦风能巨头 Ørsted 签署谅解备忘录 &lpar;MoU&rpar;。&lt;/strong&gt;本次合作将在多个 Ørsted 站点使用 Energy Dome 的 CO2 电池技术，从而部署 20 megawatt &lpar;MW&rpar;/200 MWh 的储能设施。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [供应链回应苹果放弃增产iPhone 14：总量订单并没有调整 Pro量更大](https://www.cnbeta.com/articles/tech/1322201.htm) | Thu Sep 29 2022 7:19 AM 
+- 💂 [研究人员重建了所有哺乳动物最早的共同祖先的基因组](https://www.cnbeta.com/articles/science/1322227.htm) | Thu Sep 29 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近两天，苹果放弃增产iPhone 14的话题闹的沸沸扬扬。消息称因需求量下滑，苹果紧急取消了增产计划，整体订单量下调。这也引发市场上震动，甚至苹果股价都一度大跌，最高损失千亿市值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大约1.8亿年前，有一种早期的哺乳动物成为地球上所有哺乳动物最早的已知共同祖先，从蓝鲸到骆驼、犀牛、考拉，还有人类等。&lt;strong&gt;人们对这种动物知之甚少，但其基因组的组织现在已经由一个国际研究团队通过计算重建。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Lilium计划每年生产400辆飞行出租车](https://www.cnbeta.com/articles/tech/1322199.htm) | Thu Sep 29 2022 7:15 AM 
+- 🚀 [影星汤姆·汉克斯表示他的电影只有四部“还不错”](https://hot.cnbeta.com/articles/movie/1322225.htm) | Thu Sep 29 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;德国飞行出租车开发商Lilium Air Mobility的新任首席执行官Klaus Roewe表示，该公司计划打造自己的产能，每年生产约400辆电动Lilium Jet飞行出租车，同时利用好各种能够提供公共研究支持的政府计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;汤姆·汉克斯可能在他数十年的好莱坞职业生涯中积累了大量的作品：《费城故事》、《阿甘正传》和《荒岛余生》等等。&lt;strong&gt;但这位演员最近透露，他认为其中只有四部电影可以被称为“还不错”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“东方甄选回应下架玉米”冲上热搜 一根卖6块钱真的“丧良心”么？](https://www.cnbeta.com/articles/tech/1322197.htm) | Thu Sep 29 2022 7:15 AM 
+- 🎊 [巫师前传剧集《巫师：血源》新剧照 杨紫琼等主演](https://www.cnbeta.com/articles/tech/1322223.htm) | Thu Sep 29 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据证券时报，9月29日，&lt;strong&gt;“东方甄选回应下架玉米”消息冲上热搜。&lt;/strong&gt;近期有网友发现在东方甄选电商平台已经无法搜索到“玉米”。客服回应称，为了保证品质，厂家不能超量生产，产品的产量是不固定的，只要厂家有产能就会尽快上架商品链接。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日《巫师》前传剧集《巫师：血源》新剧照曝光，杨紫琼等主演亮相。&lt;/strong&gt;杨紫琼饰演剑精灵Scían，索菲亚·布朗饰演吟游歌者Éile、劳伦斯·欧弗林饰演复仇战士Fjall。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
