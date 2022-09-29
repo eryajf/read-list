@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [人类血栓中首次发现微塑料、染料颗粒](https://www.cnbeta.com/articles/tech/1322349.htm) | Thu Sep 29 2022 2:24 PM 
+- 🕯 [苹果公司正在为伊恩飓风救灾工作捐款](https://www.cnbeta.com/articles/tech/1322369.htm) | Thu Sep 29 2022 3:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;直径小于5毫米，甚至小到微纳米级的塑料，被称为微塑料，它们可能是人类健康的“隐形杀手”。国际学术期刊《先进研究杂志》近日刊发的一篇论文中提到，南京医科大学夏彦恺教授团队联合中国科学院南京土壤研究所骆永明教授团队首次在人体血栓样本中发现了一定数量和不同类型的微塑料和染料颗粒。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司首席执行官蒂姆-库克表示，该公司正在进行未公开的捐款，以帮助受伊恩飓风影响的人们，并感谢该地区的第一线救援者。蒂姆-库克中断了他目前的欧洲之行，在Twitter上说，公司对佛罗里达州和伊恩飓风沿线的人们的安全感到担忧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Windows 11的新功能让高级用户对进程和文件有更大的控制权](https://www.cnbeta.com/articles/tech/1322347.htm) | Thu Sep 29 2022 2:10 PM 
+- 💼 [消费者需求疲软惹担忧 美银罕见下调苹果评级至“中性”](https://www.cnbeta.com/articles/tech/1322367.htm) | Thu Sep 29 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软的文件资源管理器的功能随着操作系统的升级日益变得强大，而且今年晚些时候它还将通过Windows 11 22H2的第二次更新获得对标签的支持，但它远非完美，它可能会报错，而且有些时候很烦人，例如当你试图删除其他程序正在使用的文件时，文件资源管理器的功能可以防止用户删除一个似乎在Windows其他地方使用的文件或文件夹。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由于担心消费者需求疲软，美国银行罕见地下调了对苹果&lpar;AAPL.US&rpar;的股票评级。&lt;span style=&quot;&quot;&gt;美银分析师Wamsi Mohan将对苹果的评级由“买入”下调至“中性”，目标价由185美元下调至160美元&lt;/span&gt;，同时还下调了对苹果在2023财年的业绩预期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Chrome产品经理介绍了向Manifest V3新扩展标准迁移的详细时间表](https://www.cnbeta.com/articles/tech/1322345.htm) | Thu Sep 29 2022 1:57 PM 
+- 💂 [Counterpoint：2022年第二季度全球手机市场收入同比下降2%至958亿美元](https://www.cnbeta.com/articles/tech/1322365.htm) | Thu Sep 29 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在周三的一篇 Chrome 开发者博客文章中，Google 产品经理 David Li 详解了向 Manifest V3 转进的更多细节。&lt;/strong&gt;通过提供更高的透明度和权限控制、添加严格的协议以访问扩展程序上下文之外的资源、并确保扩展程序在所有设备上正常运行，这项变动将使 Chrome 用户在浏览和安装扩展程序时感到更加安全和放心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月29日，根据Counterpoint市场监测服务的最新研究，全球手机市场收入连续第二个季度下降，2022年第二季度同比下降2%，环比下降15%，至958亿美元。尽管同期平均售价&lpar;ASP&rpar;上涨了6%，但受到不确定性等因素，导致全球手机出货量下降，进而导致收入的下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [YouTube将在健康相关查询的搜索结果中显示其它患者的真实感受](https://www.cnbeta.com/articles/tech/1322343.htm) | Thu Sep 29 2022 1:37 PM 
+- 🚀 [亚马逊收购iRobot交易受民主党议员阻挠](https://www.cnbeta.com/articles/tech/1322363.htm) | Thu Sep 29 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;YouTube周三宣布，从本周开始，当用户输入与健康有关的查询时，它将在搜索结果中显示一个名为&amp;quot;Personal Stories（现身说法）&amp;quot;的新栏目。&lt;/strong&gt;该公司说，当人们在YouTube上搜索某些健康状况的视频时，它将显示一个以被诊断患有这些疾病的人的视频为主的板块。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国民主党议员Elizabeth Warren和其他五名国会议员正在敦促美国联邦贸易委员会阻止亚马逊&lpar;AMZN.US&rpar;收购iRobot &lpar;IRBT.US&rpar;的计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [DALL-E 2 同源：机器学习研究员分享“文本到宝可梦”图像生成器](https://hot.cnbeta.com/articles/comic/1322341.htm) | Thu Sep 29 2022 1:21 PM 
+- 🎊 [刘德华、周杰伦以后开线上演唱会可能没那么容易了](https://hot.cnbeta.com/articles/movie/1322361.htm) | Thu Sep 29 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在经历了九代《精灵宝可梦》之后，玩家们有时难免吐槽开发者只是从帽子里随机抽取单词，然后观察它们到底会在玩家群体中引发怎样的化学反应。&lt;strong&gt;对于抱着“这么搞我也行”心态的粉丝，这里有一款独特的人工智能生成器可以推荐给大家。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1322341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年以来，周杰伦、梁静茹、李健、刘德华等明星都举办了现象级的线上演唱会，屡屡登上热搜，并引发网友们的集体怀旧。伴随行业的发展，行业规范措施也开始逐步完善。9月26日，文化和旅游部（下称“文旅部”）发布《关于规范网络演出剧（节）目经营活动、推动行业健康有序发展的通知（征求意见稿）》（下称《通知》），公开征求意见的截止日期为10月10日。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
