@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [牛掰！Alibaba大牛在续神著“全栈技能修炼手册”GitHub星标88K+](https://juejin.cn/post/7148698523003781128) | Thu Sep 29 2022 7:21 AM 
+- 🤗 [Swift - LeetCode - 字符串中的第一个唯一字符](https://juejin.cn/post/7148708707113631775) | Thu Sep 29 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-    今天在GitHub上面淘到一本牛逼的全栈技能修炼手册：使用Angular和Spring Boot 打造全栈应用 本书将大量的技术思想贯穿于前、后端这两条主线中。 前端:Angular 后端:Sprin 
+    “我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第1篇文章，点击查看活动详情” 题目 给定一个字符串 s ，找到 它的第一个不重复的字符，并返回它的索引。如果不存在，则返回 -1。 示例 1： 
     </details> 
 
-- 🎡 [GO---基本结构和数据类型](https://juejin.cn/post/7148694368604389407) | Thu Sep 29 2022 7:05 AM 
+- 🎡 [干货！看完这份阿里大牛分享的从分布式到微服务手册，我失眠了](https://juejin.cn/post/7148706274417311757) | Thu Sep 29 2022 7:51 AM 
     <details><summary>展开描述 ...</summary> 
-    kubernetes 的开发语言就是 GO ，也就是说要想深入的去理解他的工作流程我们就需要去学习这个编程语言，包括其一些编码的骚操作这些。 
+    随着用户增长，并发请求增加以及业务越来越复杂，架构设计往往不得不由单体向分布式系统演进，而分布式事务成了影响架构落地的首要难点。 不管是社区开源的ByteTCC、LCN，还是阿里的Seata，开发者们 
     </details> 
 
-- 🕯 [MySQL 面试中常见的问题有哪些？](https://juejin.cn/post/7148676265422585893) | Thu Sep 29 2022 5:56 AM 
+- 🕯 [Vite开发阶段发生了什么？](https://juejin.cn/post/7148691211757781005) | Thu Sep 29 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-    正好，前几天刚给公司招聘了一个Java后端开发的人员 小于哥：ACID是什么?可以详细说一下吗? 候选人蒙蔽了 
+    作者 前言 2222年了，众所周知的是，Vite已然成为当下最流行的构建工具之一，凭借它与众不同的特性，受到了无数前端程序员们的青睐。 1.Vite的优势在哪里？ ​ Vite的主要优势实际上是在开发 
     </details> 
 
-- 🚀 [Go 源码解读｜如何用好 errors 库的 errors.Is&lpar;&rpar; 与 errors.As&lpar;&rpar; 方法](https://juejin.cn/post/7148673417066053646) | Thu Sep 29 2022 5:45 AM 
+- 🚀 [高性能 RPC 框架 CloudWeGo-Kitex 内外统一的开源实践](https://juejin.cn/post/7148688078083915807) | Thu Sep 29 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-    写作这篇文章的原因是我在写单元测试的时候，有时会调用 Go 的 errors 库中 errors.Is&lpar;&rpar; 和 errors.As&lpar;&rpar; 方法，借此做一个分析总结。 
+    日前，字节跳动技术社区 ByteTech 举办的第七期字节跳动技术沙龙圆满落幕，字节跳动字节跳动基础架构服务框架资深研发工程师杨芮，跟大家分享了《高性能 RPC 框架 Kitex 内外统一的开源实践》 
     </details> 
 
-- 💪 [从零到一搭建基础架构&lpar;1&rpar;-玩转maven依赖版本管理](https://juejin.cn/post/7148673133292027911) | Thu Sep 29 2022 5:43 AM 
+- 💪 [【Redis】五大常见的数据类型之 List](https://juejin.cn/post/7148687227038466078) | Thu Sep 29 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ Hello，这里是爱 Coding，爱 Hiphop，爱喝点小酒的 AKA 柏炎。 对于工作1-3年的’小白 
+    我们都知道 Redis 提供了丰富的数据类型，常见的有五种：String，Hash，List，Set、Zset。今天我们就来详细的聊聊 Redis 这五大常见的数据类型之一 List； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
