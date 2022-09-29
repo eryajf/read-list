@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Alienware推出全新游戏设备，包括Aurora R15主机和新款QD-OLED显示器](https://www.cnbeta.com/articles/tech/1322135.htm) | Thu Sep 29 2022 5:59 AM 
+- 🕯 [中兴发布超级700M室内5G CPE：通吃四大运营商5G、4G频段](https://www.cnbeta.com/articles/tech/1322205.htm) | Thu Sep 29 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Dell旗下的Alienware品牌宣布，推出三款全新游戏设备，分别是Aurora R15主机、Tenkeyless游戏键盘和旗下第二款QD-OLED游戏显示器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月29日消息，今日，中兴通讯宣布推出全新5G+Wi-Fi 6室内CPE产品——MC888S，适用于视频直播、企业办公、家庭上网、学生宿舍、门店商铺、农村农场等各行各业与场景。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [电动自行车换电服务提供商Gogoro新获一笔3.45亿美元的贷款](https://www.cnbeta.com/articles/tech/1322133.htm) | Thu Sep 29 2022 5:57 AM 
+- 💼 [因法律问题 Fedora Linux禁用了Mesa的H.264/H.265/VC1 VA-API支持](https://www.cnbeta.com/articles/tech/1322203.htm) | Thu Sep 29 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;从中国台湾地区一路扩张出来的电动自行车换电服务提供商 Gogoro，刚刚签署了一项价值 3.45 亿美元的五年期信贷协议。&lt;/strong&gt;监管文件指出，此举旨在不确定的经济条件下增强其资金流动性，贷方则是由兆丰国际商业银行牵头的 10 家银团。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于当前正在使用 Mesa VA-API、或类似的开源驱动程序来加速 H.264、H.265 或 VC1 解码的 Fedora Linux 用户来说，这里有个坏消息。&lt;strong&gt;如果无法顺利搞定法律方面的问题，你将不得不回退到 CPU 软解、或依赖其它第三方 Mesa 构建版本。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《死侍3》剧组晒主创合照：小贱贱狼叔肖恩喜笑颜开](https://hot.cnbeta.com/articles/movie/1322131.htm) | Thu Sep 29 2022 5:56 AM 
+- 💂 [供应链回应苹果放弃增产iPhone 14：总量订单并没有调整 Pro量更大](https://www.cnbeta.com/articles/tech/1322201.htm) | Thu Sep 29 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨日，漫威电影《死侍3》正式定档2024年9月6日上映，同时休·杰克曼官宣回归出演金刚狼。&lt;strong&gt;《死侍3》剧组晒出了瑞恩·雷诺兹、休·杰克曼和导演肖恩·利维合影，三个帅哥喜笑颜开。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近两天，苹果放弃增产iPhone 14的话题闹的沸沸扬扬。消息称因需求量下滑，苹果紧急取消了增产计划，整体订单量下调。这也引发市场上震动，甚至苹果股价都一度大跌，最高损失千亿市值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [AAA：自动紧急制动在防止正常速度下的撞车方面表现并不出色](https://www.cnbeta.com/articles/tech/1322129.htm) | Thu Sep 29 2022 5:54 AM 
+- 🚀 [Lilium计划每年生产400辆飞行出租车](https://www.cnbeta.com/articles/tech/1322199.htm) | Thu Sep 29 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据美国汽车协会&lpar;AAA&rpar;的新研究，自动紧急制动&lpar;AEB&rpar;在防止低速追尾事故方面相当出色，但当车辆以更平均的速度行驶时就有点糟糕了。&lt;/strong&gt;从2022年9月开始，所有在美国销售的新车都必须标配AEB，它使用面向前方的摄像头和其他传感器以在即将发生碰撞时自动实施刹车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;德国飞行出租车开发商Lilium Air Mobility的新任首席执行官Klaus Roewe表示，该公司计划打造自己的产能，每年生产约400辆电动Lilium Jet飞行出租车，同时利用好各种能够提供公共研究支持的政府计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [亚马逊持续强化Alexa车辆辅助应用布局 与宝马深入合作](https://www.cnbeta.com/articles/tech/1322127.htm) | Thu Sep 29 2022 5:52 AM 
+- 🎊 [“东方甄选回应下架玉米”冲上热搜 一根卖6块钱真的“丧良心”么？](https://www.cnbeta.com/articles/tech/1322197.htm) | Thu Sep 29 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据智车派了解，针对车内使用Alexa数字助理服务需求，亚马逊在最近的发布会中，更新了2018年推出的Echo Auto设计，让使用者能在车辆行驶过程中更方便地使用Alexa数字助理服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据证券时报，9月29日，&lt;strong&gt;“东方甄选回应下架玉米”消息冲上热搜。&lt;/strong&gt;近期有网友发现在东方甄选电商平台已经无法搜索到“玉米”。客服回应称，为了保证品质，厂家不能超量生产，产品的产量是不固定的，只要厂家有产能就会尽快上架商品链接。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
