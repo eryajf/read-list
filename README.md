@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google宣布将于明年关闭其云游戏服务Stadia并向玩家退款](https://hot.cnbeta.com/articles/game/1322383.htm) | Thu Sep 29 2022 5:26 PM 
+- 🕯 [每年近千万名孕妇因这项技术受惠：华人科学家会再拿诺贝尔吗？](https://www.cnbeta.com/articles/science/1322389.htm) | Thu Sep 29 2022 5:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“诺奖风向标”向一位华人科学家抛出了橄榄枝。当地时间2022年9月28日，生物医学领域的重要奖项拉斯克奖（The Lasker Awards）正式公布，今年共设立3个奖项：基础医学研究奖、临床医学研究奖以及公共服务奖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [全球二氧化碳浓度继续升高](https://www.cnbeta.com/articles/tech/1322387.htm) | Thu Sep 29 2022 5:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;29日，中国气象局对外发布的《2020年中国温室气体公报（总第10期）》（简称“公报”）显示，2020年全球二氧化碳浓度继续升高。&lt;/strong&gt;公报与联合国世界气象组织（WMO）发布的《2020年WMO温室气体公报》相呼应，报告了中国2020年主要温室气体监测数据情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [欧委会以法律途径督促欧盟11国完成“禁塑令”立法](https://www.cnbeta.com/articles/tech/1322385.htm) | Thu Sep 29 2022 5:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当地时间9月29日， 欧盟委员会分别向11个欧盟成员国发送了理由意见书（reasoned opinions）或正式通知函，起因是他们未能在规定时间内完成欧盟《一次性塑料制品条例》在本国的立法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Google宣布将于明年关闭其云游戏服务Stadia并向玩家退款](https://hot.cnbeta.com/articles/game/1322383.htm) | Thu Sep 29 2022 5:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Google正在关闭其云游戏服务Stadia。该服务将为玩家保留到2023年1月18日。&lt;/strong&gt;Google将退还所有通过Google商店购买的Stadia硬件费用，以及从Stadia商店购买的所有游戏和附加内容的费用，Google预计这些退款将在1月中旬完成。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国庆期间气温大跳水 三地暴跌20℃](https://www.cnbeta.com/articles/tech/1322381.htm) | Thu Sep 29 2022 5:20 PM 
+- 🎊 [国庆期间气温大跳水 三地暴跌20℃](https://www.cnbeta.com/articles/tech/1322381.htm) | Thu Sep 29 2022 5:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;十一国庆长假就要来了！是不是已经规划好了去哪里浪一浪？可惜，这次天公不作美，全国多地将遭遇气温大跳水。据中央气象台预计，&lt;strong&gt;国庆假期期间&lpar;10月1日至7日&rpar;，四川北部、陕西南部、华北南部、黄淮等地有强降雨；江南、华南北部多高温少雨天气；强冷空气将影响我国大部；华北黄淮局地有雾。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [在华为线下店里买了台“山寨手机”：竟然是官方出的？](https://www.cnbeta.com/articles/tech/1322379.htm) | Thu Sep 29 2022 5:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近我在 B 站冲浪的时候，发现了一期东南卫视的帮忙类节目，里头上演了一场抓马好戏。&lt;strong&gt;有位姓谢的女士，在福州的一家华为体验店里，花了&amp;nbsp;3999&amp;nbsp;元买了一台&amp;nbsp;“ 华为智选手机 ”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [今年会出现罕见的寒冬吗？南方干旱何时了？官方解读](https://www.cnbeta.com/articles/tech/1322377.htm) | Thu Sep 29 2022 5:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;目前，我国多地正在陆续入秋，那么冬天还会远吗？今年的冬天是寒冬还是暖冬呢？南方的干旱啥时候是个头？10月例行新闻发布会上，中国气象局对此给出了解读。在全球变暖的背景下，1986年以来，暖冬出现的频率增加。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [用了20多年的进网许可贴纸 以后可能看不到了](https://www.cnbeta.com/articles/tech/1322375.htm) | Thu Sep 29 2022 5:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;闲来无事网上冲浪的时候，看到这么一条新闻。进网许可，这四个字差友们应该不陌生吧，咱们买新手机的时候，里头都会有一张进网许可贴纸。还记得在最早的手机上，这个贴纸是在电池槽里的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
