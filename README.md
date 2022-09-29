@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [USBclean 3.7 U盘杀毒工具](https://xclient.info/s/usbclean.html) | Wed Sep 28 2022 12:52 AM 
+- 🦏 [Tagr 5.5.2 文件元数据管理](https://xclient.info/s/tagr.html) | Thu Sep 29 2022 12:40 AM 
     <details><summary>展开描述 ...</summary> 
-    USBclean是一款在Mac平台上强大的U盘病毒查杀工具，USBclean可以帮助你快速方便地去除所有那些讨厌的垃圾文件也可以帮你将USB驱动器进行格式化，你可以轻松从系统菜单栏上启动USBclean并直接运行。 
+    Tagr是Mac上一款音频元数据编辑器，您可以轻松地编辑信息，例如歌曲的艺术家，标题或专辑封面 
     </details> 
 
--  [Start 6.0 快捷启动工具](https://xclient.info/s/start.html) | Wed Sep 28 2022 12:51 AM 
+-  [IconJar 2.11.2 图标素材管理工具](https://xclient.info/s/iconjar.html) | Thu Sep 29 2022 12:34 AM 
     <details><summary>展开描述 ...</summary> 
-    start 是Mac平台上的一款快捷启动应用，是macOS的开始菜单，允许您快速查找和构造您的程序。 
+    IconJar 是一个可以帮助设计师搜索、收集、管理的素材工具，可以极大的提高设计师们的素材库使用效率，减少寻找有效素材的时间，提高工作效率 
     </details> 
 
-- ⚗️ [Softorino YouTube Converter 5.0.96 又一款 Youtube 视频下载工具](https://xclient.info/s/softorino-youtube-converter.html) | Wed Sep 28 2022 12:50 AM 
+- ⚗️ [Unite 4.2.1 网站转桌面应用](https://xclient.info/s/unite.html) | Thu Sep 29 2022 12:33 AM 
     <details><summary>展开描述 ...</summary> 
-    一款好用的 Youtube 视频一键下载工具 
+    Unite 使您可以快速，轻松地将网站转换为macOS上全功能的原生应用程序。 
     </details> 
 
-- 🔥 [Scrutiny 12.4.6 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Wed Sep 28 2022 12:49 AM 
+- 🔥 [FastScripts 3.2.1 脚本调用工具](https://xclient.info/s/fastscripts.html) | Thu Sep 29 2022 12:32 AM 
     <details><summary>展开描述 ...</summary> 
-    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
+    FastScripts 是一款Mac OS平台上的脚本调用工具，让用户快速在任何应用程序中通过菜单执行AppleScript或shell脚本，用户可将菜单中的任何脚本自定义快捷键还通过方便的快捷键编辑脚本。 
     </details> 
 
-- 🌋 [Squeezer 2.5.2 图片压缩工具](https://xclient.info/s/squeezer.html) | Wed Sep 28 2022 12:48 AM 
+- 🌋 [Cookie 6.8.1 浏览器隐私保护](https://xclient.info/s/cookie.html) | Thu Sep 29 2022 12:31 AM 
     <details><summary>展开描述 ...</summary> 
-    Squeezer是Mac平台上的一款多功能压缩工具。 
+    Cookie可以帮助你一键查看和清除所有安装的浏览器内的Cookie、历史记录、缓存，并且可以防止网站Cookie的追踪，提高对个人数据隐私的保护。 
     </details> 
 <!-- xclient:END -->
 
