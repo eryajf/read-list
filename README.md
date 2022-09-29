@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [YouTube将在健康相关查询的搜索结果中显示其它患者的真实感受](https://www.cnbeta.com/articles/tech/1322343.htm) | Thu Sep 29 2022 1:37 PM 
+- 🕯 [人类血栓中首次发现微塑料、染料颗粒](https://www.cnbeta.com/articles/tech/1322349.htm) | Thu Sep 29 2022 2:24 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;直径小于5毫米，甚至小到微纳米级的塑料，被称为微塑料，它们可能是人类健康的“隐形杀手”。国际学术期刊《先进研究杂志》近日刊发的一篇论文中提到，南京医科大学夏彦恺教授团队联合中国科学院南京土壤研究所骆永明教授团队首次在人体血栓样本中发现了一定数量和不同类型的微塑料和染料颗粒。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Windows 11的新功能让高级用户对进程和文件有更大的控制权](https://www.cnbeta.com/articles/tech/1322347.htm) | Thu Sep 29 2022 2:10 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;微软的文件资源管理器的功能随着操作系统的升级日益变得强大，而且今年晚些时候它还将通过Windows 11 22H2的第二次更新获得对标签的支持，但它远非完美，它可能会报错，而且有些时候很烦人，例如当你试图删除其他程序正在使用的文件时，文件资源管理器的功能可以防止用户删除一个似乎在Windows其他地方使用的文件或文件夹。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Chrome产品经理介绍了向Manifest V3新扩展标准迁移的详细时间表](https://www.cnbeta.com/articles/tech/1322345.htm) | Thu Sep 29 2022 1:57 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;在周三的一篇 Chrome 开发者博客文章中，Google 产品经理 David Li 详解了向 Manifest V3 转进的更多细节。&lt;/strong&gt;通过提供更高的透明度和权限控制、添加严格的协议以访问扩展程序上下文之外的资源、并确保扩展程序在所有设备上正常运行，这项变动将使 Chrome 用户在浏览和安装扩展程序时感到更加安全和放心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [YouTube将在健康相关查询的搜索结果中显示其它患者的真实感受](https://www.cnbeta.com/articles/tech/1322343.htm) | Thu Sep 29 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;YouTube周三宣布，从本周开始，当用户输入与健康有关的查询时，它将在搜索结果中显示一个名为&amp;quot;Personal Stories（现身说法）&amp;quot;的新栏目。&lt;/strong&gt;该公司说，当人们在YouTube上搜索某些健康状况的视频时，它将显示一个以被诊断患有这些疾病的人的视频为主的板块。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [DALL-E 2 同源：机器学习研究员分享“文本到宝可梦”图像生成器](https://hot.cnbeta.com/articles/comic/1322341.htm) | Thu Sep 29 2022 1:21 PM 
+- 🎊 [DALL-E 2 同源：机器学习研究员分享“文本到宝可梦”图像生成器](https://hot.cnbeta.com/articles/comic/1322341.htm) | Thu Sep 29 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在经历了九代《精灵宝可梦》之后，玩家们有时难免吐槽开发者只是从帽子里随机抽取单词，然后观察它们到底会在玩家群体中引发怎样的化学反应。&lt;strong&gt;对于抱着“这么搞我也行”心态的粉丝，这里有一款独特的人工智能生成器可以推荐给大家。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1322341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Adobe推出Photoshop与Premiere Elements 2023版](https://www.cnbeta.com/articles/tech/1322339.htm) | Thu Sep 29 2022 1:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Adobe公司今天推出了新版本的Photoshop Elements和Premiere Elements照片和视频编辑软件，相比专业软件定价较低，主要针对那些希望用简单的编辑工具来增强照片和视频的休闲用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Intel 60核心至强Sapphire Rapids首次公开 支持AVX-512](https://www.cnbeta.com/articles/tech/1322337.htm) | Thu Sep 29 2022 1:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel Sapphire Rapids第四代可扩展至强原计划2021年发布，但因为瑕疵太多，一再跳票，目前仅出货了少数评估样品给客户，&lt;strong&gt;消息称正式发布要到明年第二季度，推迟足足两年。&lt;/strong&gt;创新大会上，Intel首次公开展示了新至强，并首次进行了跑分，还是60核心顶级版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [传《极品飞车22》即将公布 预告片已经制作好](https://hot.cnbeta.com/articles/game/1322335.htm) | Thu Sep 29 2022 12:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据知名舅舅党Tom Henderson爆料EA和Criterion已经准备好公布新的《极品飞车》游戏——《极品飞车：Unbound》。公布预告已经准备好，时长大概1分钟半，音乐来自A$AP Rocky。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
