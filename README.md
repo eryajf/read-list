@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [一文了解智能汽车网安政策和法规](https://www.freebuf.com/articles/neopoints/345975.html) | Thu Sep 29 2022 8:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    完善的法律体系为基础，切实夯筑网络安全的底座，为智能汽车腾飞打下基础。 
+    </details> 
+
 - 🦄 [国家标准《信息安全技术 网络安全信息报送指南（征求意见稿）》发布](https://www.freebuf.com/news/345923.html) | Thu Sep 29 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
     《报送指南》描述了网络安全信息报送的信息类型、要素、格式规范，以及网络安全信息报送活动的参与角色、基本流程、报送方式。 
     </details> 
 
-- 🦄 [《网络安全标准实践指南—健康码防伪技术指南》发布](https://www.freebuf.com/news/345921.html) | Thu Sep 29 2022 5:24 AM 
+- 🦅 [《网络安全标准实践指南—健康码防伪技术指南》发布](https://www.freebuf.com/news/345921.html) | Thu Sep 29 2022 5:24 AM 
     <details><summary>展开描述 ...</summary> 
     《实践指南》给出了现场核验场景下健康码防伪的技术指南，指导健康码服务的技术提供方提高防伪能力，提升整体安全水平。 
     </details> 
 
-- 🦅 [Meta 关闭大规模俄罗斯欺诈新闻“网络”](https://www.freebuf.com/news/345904.html) | Thu Sep 29 2022 2:50 AM 
+- 🪄 [Meta 关闭大规模俄罗斯欺诈新闻“网络”](https://www.freebuf.com/news/345904.html) | Thu Sep 29 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
     该网络用于在欧洲各地 60 多个冒充新闻机构的网站上发布虚假信息。 
     </details> 
 
-- 🪄 [记一次内网靶场渗透测试](https://www.freebuf.com/articles/network/345895.html) | Thu Sep 29 2022 2:03 AM 
+- 💻 [记一次内网靶场渗透测试](https://www.freebuf.com/articles/network/345895.html) | Thu Sep 29 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
     程序员小星在研究内网渗透，对部分内网靶场进行了测试，所以想和大家从测试过程、检测过程以及域渗透过程这3个方面来分享一下我在打内网靶场中的经历。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 美国网攻西工大另一图谋曝光；Meta大规模关闭俄罗斯欺诈新闻网站](https://www.freebuf.com/news/345879.html) | Wed Sep 28 2022 11:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    渗透控制中国基础设施核心设备，窃取中国用户隐私数据，入侵过程中还查询一批中国境内敏感身份人员。 
     </details> 
 <!-- freebuf:END -->
 
