@@ -348,14 +348,14 @@
     该网络用于在欧洲各地 60 多个冒充新闻机构的网站上发布虚假信息。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 美国网攻西工大另一图谋曝光；Meta大规模关闭俄罗斯欺诈新闻网站](https://www.freebuf.com/news/345879.html) | Wed Sep 28 2022 11:39 AM 
+- 🪄 [记一次内网靶场渗透测试](https://www.freebuf.com/articles/network/345895.html) | Thu Sep 29 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-    渗透控制中国基础设施核心设备，窃取中国用户隐私数据，入侵过程中还查询一批中国境内敏感身份人员。 
+    程序员小星在研究内网渗透，对部分内网靶场进行了测试，所以想和大家从测试过程、检测过程以及域渗透过程这3个方面来分享一下我在打内网靶场中的经历。 
     </details> 
 
-- 💻 [DVWA解题步骤](https://www.freebuf.com/articles/web/344098.html) | Wed Sep 28 2022 10:04 AM 
+- 💻 [FreeBuf早报 | 美国网攻西工大另一图谋曝光；Meta大规模关闭俄罗斯欺诈新闻网站](https://www.freebuf.com/news/345879.html) | Wed Sep 28 2022 11:39 AM 
     <details><summary>展开描述 ...</summary> 
-    这里要用到sql的基本知识，在此就不多做赘述。 
+    渗透控制中国基础设施核心设备，窃取中国用户隐私数据，入侵过程中还查询一批中国境内敏感身份人员。 
     </details> 
 <!-- freebuf:END -->
 
