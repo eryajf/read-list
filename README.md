@@ -373,9 +373,9 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [go colly爬虫一个](https://juejin.cn/post/7148752862388944926) | Thu Sep 29 2022 10:56 AM 
+- 🤗 [力扣——1326. 灌溉花园的最少水龙头数目](https://juejin.cn/post/7148764750275411976) | Thu Sep 29 2022 11:39 AM 
     <details><summary>展开描述 ...</summary> 
-    贡献某CC，go源码爬虫一个，基于colly，效果是根据输入的浏览器cookie及excel必要行列号，从excel中读取公司名称，查询公司法人及电话号码。并写回到excel中指定行。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 力扣——1326. 灌溉花园的最少水龙头数目 1326. 灌溉花园的最少水龙头数目 在 x 轴上有一个一 
     </details> 
 
 - 🎡 [跨模态学习能力再升级，EasyNLP电商文图检索效果刷新SOTA](https://juejin.cn/post/7148744512783777823) | Thu Sep 29 2022 10:21 AM 
@@ -383,19 +383,19 @@
     简介： 本⽂简要介绍我们在电商下对CLIP模型的优化，以及上述模型在公开数据集上的评测结果。最后，我们介绍如何在EasyNLP框架中调用上述电商CLIP模型。 作者：熊兮、欢夏、章捷、临在 导读 多模 
     </details> 
 
-- 🕯 [数据大屏最简单自适应方案，无需适配rem单位](https://juejin.cn/post/7148733509744459790) | Thu Sep 29 2022 9:37 AM 
+- 🕯 [IDEA顺序启动多个Spring Boot微服务](https://juejin.cn/post/7148731455957368845) | Thu Sep 29 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-    是否还在为rem适配感到烦恼？和我一样，不想去考虑单位的大小?这是除rem单位以外的另一种数据大屏适配方案。用最少的工作量，最简单的方法解决问题。可作于学习，可用于工作。 
+    详细步骤 1. 打开Services 在idea打开View ——&gt; Tool Windows ——&gt; Services: 2. 添加服务 添加服务，选择Spring Boot 就会出现如下服务列表： 
     </details> 
 
-- 🚀 [货拉拉基于混合云的大数据成本管控体系建设实践](https://juejin.cn/post/7148710975665864712) | Thu Sep 29 2022 8:09 AM 
+- 🚀 [Oasis 快速实现一个 N 阶魔方](https://juejin.cn/post/7148730218901930020) | Thu Sep 29 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
-    企业降本增效是越来越热门的话题，除去较为粗暴的“毕业”之外，企业还可以在许多地方下功夫，例如降低大数据成本、营销成本、运营成本等等。本文从货拉拉业务背景出发，介绍整个大数据成本管控的挑战。 
+    相信很多同学都玩过魔方，那么你知道如何开发一个魔方的游戏么？今天这篇文章为大家带来使用 Oasis 快速实现 N 阶魔方的总结分享，感谢蚂蚁集团工程师箕宿的投稿和分享，也欢迎广大读者的交流反馈～ 
     </details> 
 
-- 💪 [【2022更新】Web Components中引入外部CSS的9种方法](https://juejin.cn/post/7148710545913282596) | Thu Sep 29 2022 8:08 AM 
+- 💪 [Windows 内存管理知识总结](https://juejin.cn/post/7148729056576405541) | Thu Sep 29 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
-    开发中，会遇到需要引入外部CSS到Shadow DOM情况，那么如何处理呢？作者就最近遇到的情况给出如下几种方案。 一、@import 示例代码 优点：此方法兼容性非常好，点击查看caniuse 缺点 
+    工作中遇到了 32位 windows 程序虚拟内存不足的问题，于是对 Windows 内存相关知识做了调研探索 
     </details> 
 <!-- juejin:END -->
 ### 少数派
