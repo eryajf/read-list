@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [tRNS 经颅随机噪声刺激可以提高认知和专注能力](http://jandan.net/p/111319) | Thu Sep 29 2022 3:26 AM 
+- 🚀 [YouTuber用4chan政治不正确版的内容训练AI，让AI冒充人类在该版块大量发帖](http://jandan.net/p/111346) | Thu Sep 29 2022 10:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    4chan用户过了两天才意识到问题 
+    </details> 
+
+- 🙉 [tRNS 经颅随机噪声刺激可以提高认知和专注能力](http://jandan.net/p/111319) | Thu Sep 29 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
     当你工作或学习时，是否需要一点背景音？ 
     </details> 
 
-- 🙉 [今日好价 0929](http://jandan.net/p/111408) | Thu Sep 29 2022 3:08 AM 
+- 🎉 [今日好价 0929](http://jandan.net/p/111408) | Thu Sep 29 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：53 
     </details> 
 
-- 🎉 [《自然》撤回了2020年轰动一时的常温超导论文](http://jandan.net/p/111406) | Wed Sep 28 2022 6:38 AM 
+- 🐲 [《自然》撤回了2020年轰动一时的常温超导论文](http://jandan.net/p/111406) | Wed Sep 28 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
     15℃在高压环境里实现超导的材料 
     </details> 
 
-- 🐲 [爱因斯坦的头发为何乱蓬蓬？我们找到了罕见的乱发综合症的基因](http://jandan.net/p/111404) | Wed Sep 28 2022 3:34 AM 
+-  [爱因斯坦的头发为何乱蓬蓬？我们找到了罕见的乱发综合症的基因](http://jandan.net/p/111404) | Wed Sep 28 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     头发会从各个角度支楞起来，几乎不可能驯服 
-    </details> 
-
--  [NASA小行星重定向项目 用飞行器撞击小行星，改变其轨道的测试](http://jandan.net/p/111400) | Wed Sep 28 2022 3:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    昨天的热点 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
