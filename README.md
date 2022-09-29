@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果公司正在为伊恩飓风救灾工作捐款](https://www.cnbeta.com/articles/tech/1322369.htm) | Thu Sep 29 2022 3:20 PM 
+- 🕯 [Argo AI无人驾驶出租车在奥斯汀正式通过Lyft提供服务](https://www.cnbeta.com/articles/tech/1322373.htm) | Thu Sep 29 2022 3:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;打车巨头Lyft和自动驾驶汽车技术公司Argo AI现在正式在德克萨斯州的奥斯汀提供公共无人驾驶出租车服务。&lt;/strong&gt;这是继迈阿密之后，Lyft和Argo经营商业无人驾驶出租车服务的第二个城市，迈阿密于12月推出了这项服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [新研究称比特币对气候的破坏与牛肉和原油相似](https://www.cnbeta.com/articles/tech/1322371.htm) | Thu Sep 29 2022 3:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;根据今天发表在《科学报告》杂志上的一项新研究，比特币对世界造成的环境和社会损害与牛肉生产和转化为汽油燃烧的石油工业等臭名昭著的行业相当。&lt;/strong&gt;研究发现，在2016年至2021年期间，每1美元的比特币市场价值平均产生35美分的全球气候损害。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果公司正在为伊恩飓风救灾工作捐款](https://www.cnbeta.com/articles/tech/1322369.htm) | Thu Sep 29 2022 3:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果公司首席执行官蒂姆-库克表示，该公司正在进行未公开的捐款，以帮助受伊恩飓风影响的人们，并感谢该地区的第一线救援者。蒂姆-库克中断了他目前的欧洲之行，在Twitter上说，公司对佛罗里达州和伊恩飓风沿线的人们的安全感到担忧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [消费者需求疲软惹担忧 美银罕见下调苹果评级至“中性”](https://www.cnbeta.com/articles/tech/1322367.htm) | Thu Sep 29 2022 3:16 PM 
+- 🚀 [消费者需求疲软惹担忧 美银罕见下调苹果评级至“中性”](https://www.cnbeta.com/articles/tech/1322367.htm) | Thu Sep 29 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;由于担心消费者需求疲软，美国银行罕见地下调了对苹果&lpar;AAPL.US&rpar;的股票评级。&lt;span style=&quot;&quot;&gt;美银分析师Wamsi Mohan将对苹果的评级由“买入”下调至“中性”，目标价由185美元下调至160美元&lt;/span&gt;，同时还下调了对苹果在2023财年的业绩预期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Counterpoint：2022年第二季度全球手机市场收入同比下降2%至958亿美元](https://www.cnbeta.com/articles/tech/1322365.htm) | Thu Sep 29 2022 3:15 PM 
+- 🎊 [Counterpoint：2022年第二季度全球手机市场收入同比下降2%至958亿美元](https://www.cnbeta.com/articles/tech/1322365.htm) | Thu Sep 29 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;9月29日，根据Counterpoint市场监测服务的最新研究，全球手机市场收入连续第二个季度下降，2022年第二季度同比下降2%，环比下降15%，至958亿美元。尽管同期平均售价&lpar;ASP&rpar;上涨了6%，但受到不确定性等因素，导致全球手机出货量下降，进而导致收入的下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [亚马逊收购iRobot交易受民主党议员阻挠](https://www.cnbeta.com/articles/tech/1322363.htm) | Thu Sep 29 2022 3:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国民主党议员Elizabeth Warren和其他五名国会议员正在敦促美国联邦贸易委员会阻止亚马逊&lpar;AMZN.US&rpar;收购iRobot &lpar;IRBT.US&rpar;的计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [刘德华、周杰伦以后开线上演唱会可能没那么容易了](https://hot.cnbeta.com/articles/movie/1322361.htm) | Thu Sep 29 2022 3:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年以来，周杰伦、梁静茹、李健、刘德华等明星都举办了现象级的线上演唱会，屡屡登上热搜，并引发网友们的集体怀旧。伴随行业的发展，行业规范措施也开始逐步完善。9月26日，文化和旅游部（下称“文旅部”）发布《关于规范网络演出剧（节）目经营活动、推动行业健康有序发展的通知（征求意见稿）》（下称《通知》），公开征求意见的截止日期为10月10日。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
