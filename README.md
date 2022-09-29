@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [用手机给自己的环境建个模，没有 LiDAR 也能用：Polycam](https://sspai.com/post/75985) | Thu Sep 29 2022 6:30 AM 
+- 👹 [相信对谈的力量，一些播客小心得](https://sspai.com/post/75945) | Thu Sep 29 2022 8:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    多做几期吧，再坚持久一点吧，慢慢往前走，道路会开拓出来的。&lt;a href=&quot;https://sspai.com/post/75945&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [用手机给自己的环境建个模，没有 LiDAR 也能用：Polycam](https://sspai.com/post/75985) | Thu Sep 29 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     Polycam 的理想是人人有 AR 用。&lt;a href=&quot;https://sspai.com/post/75985&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [城市漫步指南：武汉，属于大江大湖的浪漫](https://sspai.com/post/75964) | Thu Sep 29 2022 3:34 AM 
+- 🤭 [城市漫步指南：武汉，属于大江大湖的浪漫](https://sspai.com/post/75964) | Thu Sep 29 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     请跟随我的脚步，一起去感受这属于大江大湖的浪漫吧。&lt;a href=&quot;https://sspai.com/post/75964&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：亚马逊推出多款新品、罗技更新 Mac 专属产品线等](https://sspai.com/post/75987) | Thu Sep 29 2022 12:54 AM 
+- 🥸 [派早报：亚马逊推出多款新品、罗技更新 Mac 专属产品线等](https://sspai.com/post/75987) | Thu Sep 29 2022 12:54 AM 
     <details><summary>展开描述 ...</summary> 
     宏碁发布升级版掠夺者 Orion 7000、铠侠展示首款 2TB microSDXC 存储卡原型等。&lt;a href=&quot;https://sspai.com/post/75987&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [从世乒赛团体赛开始，看懂每一场乒乓球比赛](https://sspai.com/post/75965) | Wed Sep 28 2022 9:30 AM 
+- 🙉 [从世乒赛团体赛开始，看懂每一场乒乓球比赛](https://sspai.com/post/75965) | Wed Sep 28 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     2022 年 9 月 30 日第 56 届国际乒联世界乒乓球团体锦标赛将于成都市正式举行。希望我这次的分享可以给想观看乒乓球比赛的各位提供一些入门信息。&lt;a href=&quot;https://sspai.com/post/75965&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [面向小众的 TWS：Cyberblade 主观体验](https://sspai.com/post/75968) | Wed Sep 28 2022 7:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    我的AirPodsPro2还没发货，我的AirPodsPro1已经吃灰很久。AirPodsPro的耳塞我越来越戴不稳，再加上比较「白开水」的调音，以及削弱后的主动降噪效果，让我觉得虽然AirPodsP ...&lt;a href=&quot;https://sspai.com/post/75968&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
