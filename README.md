@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [教程 | 疑是 BUG？一招使用本地账户安装 Win11 22H2 &lpar;家庭版也可用&rpar;](https://www.v2ex.com/t/883881#reply0) | Thu Sep 29 2022 10:35 AM
-- 🤗 [xxl-job 里定时任务触发实现疑问](https://www.v2ex.com/t/883875#reply1) | Thu Sep 29 2022 9:52 AM
-- 🎭 [WPF 使用 DrawingContext 绘制温度计](https://www.v2ex.com/t/883871#reply0) | Thu Sep 29 2022 9:28 AM
-- 🥷 [请教个 mysql 更新问题](https://www.v2ex.com/t/883870#reply8) | Thu Sep 29 2022 9:27 AM
-- 🐵 [mysql 效率问题](https://www.v2ex.com/t/883869#reply1) | Thu Sep 29 2022 9:25 AM<!-- v2ex:END -->
+- 🥸 [请问存在类似于[diskgenius.efi]或者[分区助手.efi]这种东西嘛?](https://www.v2ex.com/t/883893#reply0) | Thu Sep 29 2022 12:37 PM
+- 🤗 [请问 kafka Python 客户端用哪个](https://www.v2ex.com/t/883892#reply0) | Thu Sep 29 2022 12:36 PM
+- 🎭 [求一个 json 工具](https://www.v2ex.com/t/883891#reply1) | Thu Sep 29 2022 12:27 PM
+- 🥷 [Python2 已经很熟练了，想要学习 Python3，有没有专门的书籍或教程？](https://www.v2ex.com/t/883886#reply4) | Thu Sep 29 2022 11:26 AM
+- 🐵 [教程 | 疑是 BUG？一招使用本地账户安装 Win11 22H2 &lpar;家庭版也可用&rpar;](https://www.v2ex.com/t/883881#reply5) | Thu Sep 29 2022 10:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
