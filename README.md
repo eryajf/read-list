@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [韩国一载有198名乘客波音777客机起飞时撞机](https://www.cnbeta.com/articles/tech/1322033.htm) | Thu Sep 29 2022 2:04 AM 
+- 🕯 [大量《微软飞行模拟》玩家勇闯美国佛州飓风“伊恩”](https://hot.cnbeta.com/articles/game/1322117.htm) | Thu Sep 29 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月29日消息，据报道，当地时间9月28日晚上，大韩航空公司的一架波音777客机在英国伦敦希思罗机场，与冰岛航空公司的一架客机发生轻微碰撞。乘客拍摄的现场照片显示，一架飞机的机翼，撞上了另一架飞机的尾翼，不过撞击的力度不大，现场没有飞机零部件脱落。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《微软飞行模拟》拥有堪称技术奇迹的地球模拟，并且还可以对现实世界实时的天气进行精确模拟。如果现实世界中某个地方正在下雨、下雪或是暴风雨，在游戏中玩家驾驶飞机经过那里的时候也会遇到同样的天气，这一切都是实时的。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [体验一周多5000M宽带后：用户调侃不能天天测速](https://www.cnbeta.com/articles/tech/1322031.htm) | Thu Sep 29 2022 1:57 AM 
+- 💼 [塔塔汽车在印度推出1万美元电动汽车，低配版续航250公里](https://www.cnbeta.com/articles/tech/1322115.htm) | Thu Sep 29 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;之前我们报道了江苏有网友开通了5000M宽带，不过从其一周多体验来看，可用的环境实在是太少了。有网友在论坛中分享了自己开通江苏电信5000M宽带套餐的全过程，在新套餐的加持下网速飙升，经测试达到了4682.67Mbps。据悉，该套餐无法用作商业用途，仅供个人家庭使用，资费标准最低为699元每月，最高则达到了每月1599元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月29日消息，当地时间周三印度汽车制造商塔塔汽车在当地市场推出售价1万美元的电动汽车，希望进一步扩大其在印度市场的领先地位。塔塔汽车目前是印度唯一的电动汽车制造商。在政府补贴和高进口关税的帮助下，塔塔汽车在印度电动汽车市场处于领先地位，其希望借助廉价电动汽车吸引更多买家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《碧海黑帆》再次延期 原定于2018年发售](https://hot.cnbeta.com/articles/game/1322029.htm) | Thu Sep 29 2022 1:55 AM 
+- 💂 [韦伯望远镜捕捉到IC 5332螺旋星系细节：酷似骨骼旋涡](https://www.cnbeta.com/articles/science/1322113.htm) | Thu Sep 29 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;预定于今年11月发布的《碧海黑帆》再次跳票，但愿这是最后一次。该作原定于2018年（！）面市，历经一系列延期甚至重启后挣扎着活到现在，如今它需要追加工期以进一步完善及润色：“尽管游戏开发已宣告完成，但过去两周由QA及内测玩家提供的反馈可知，游戏需要进一步润色并调整平衡”，育碧昨日发表声明称。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月29日消息，美国国家航空航天局（NASA）旗下詹姆斯·韦伯太空望远镜最近拍摄了一张新照片，捕捉到IC 5332螺旋星系“前所未有的细节”。IC 5332距离地球2900万光年，跨度约6.6万光年，大约是银河系的三分之一。在韦伯望远镜的观测下，IC 5332通常被尘埃遮蔽的星系“骨架”一览无遗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软升级媒体创建工具 引入Windows 11 22H2更新支持](https://www.cnbeta.com/articles/tech/1322027.htm) | Thu Sep 29 2022 1:55 AM 
+- 🚀 [零跑汽车今日于港交所上市，开盘破发一度跌超30%](https://www.cnbeta.com/articles/tech/1322111.htm) | Thu Sep 29 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;媒体创建工具是一款非常实用的 Windows 工具，通过它可以创建引导盘方便用户安装 Windows 系统。近日，&lt;a href=&quot;https://go.microsoft.com/fwlink/?linkid=2156295&quot; target=&quot;_blank&quot;&gt;媒体创建工具&lt;/a&gt;在近日的更新中引入了对 Windows 11 22H2 功能更新的支持，整个操作过程也非常简单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月29日，浙江零跑科技股份有限公司（下称“零跑汽车”，09863.HK）正式在港上市，开盘即遭破发，低开14.58%；开盘后股价继续下挫，一度跌超31%，最低报32.2港元/股。截至发稿时间，零跑汽车股价为33.150港元/股，总市值335.44亿港元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [爆卖的“俄罗斯老奶粉”你敢买吗？有店铺销量过万 睁大双眼别被骗](https://www.cnbeta.com/articles/tech/1322025.htm) | Thu Sep 29 2022 1:54 AM 
+- 🎊 [女孩网购毒蛇当宠物 一个月后身亡被判赔33万多：卖方、快递都有责](https://www.cnbeta.com/articles/tech/1322109.htm) | Thu Sep 29 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，爆卖的“俄罗斯老奶粉”吸引了很多人的关注，月销量轻松过万，这到底是是什么情况？虽然博主不同，但文案大同小异，画面要么是长腿俄国小姐姐，要么是腱子肉老铁，画面一转，一排排壮硕奶牛疯狂产奶。它们不断重复一个概念，这款奶粉经过时间提炼，十几年包装都没变过，原始的，就是纯粹的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近年来，有关毒蜘蛛、毒蛇、鳄鱼等异宠伤人事件屡屡发生，饲养异宠背后的安全隐患远比我们想象的严重。野生动物野性难驯，如果作为宠物饲养，极易因为监管不善，造成自己和他人的人身和财产损失。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
