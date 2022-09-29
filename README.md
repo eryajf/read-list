@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [宝马正在基于亚马逊Alexa打造一个全新的车载定制语音助手](https://www.cnbeta.com/articles/tech/1321935.htm) | Wed Sep 28 2022 11:10 PM 
+- 🕯 [韩国一载有198名乘客波音777客机起飞时撞机](https://www.cnbeta.com/articles/tech/1322033.htm) | Thu Sep 29 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自2018年以来，宝马车主已经能使用亚马逊的Alexa作为他们的车内语音助手。但这家汽车制造商宣布，它将更进一步，据悉，它将利用亚马逊的Alexa核心技术打造自己的定制语音助手。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月29日消息，据报道，当地时间9月28日晚上，大韩航空公司的一架波音777客机在英国伦敦希思罗机场，与冰岛航空公司的一架客机发生轻微碰撞。乘客拍摄的现场照片显示，一架飞机的机翼，撞上了另一架飞机的尾翼，不过撞击的力度不大，现场没有飞机零部件脱落。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [流媒体服务Epix将改头换面 在2023年以MGM+的名义推出](https://hot.cnbeta.com/articles/movie/1321933.htm) | Wed Sep 28 2022 8:38 PM 
+- 💼 [体验一周多5000M宽带后：用户调侃不能天天测速](https://www.cnbeta.com/articles/tech/1322031.htm) | Thu Sep 29 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在狮门公司将Starzplay更名为Lionsgate+的同一天，米高梅的Epix宣布它的品牌名称中也将有一个&amp;quot;+&amp;quot;。无广告的Epix流媒体服务今天宣布它将在2023年初更名MGM+重新启动。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1321933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;之前我们报道了江苏有网友开通了5000M宽带，不过从其一周多体验来看，可用的环境实在是太少了。有网友在论坛中分享了自己开通江苏电信5000M宽带套餐的全过程，在新套餐的加持下网速飙升，经测试达到了4682.67Mbps。据悉，该套餐无法用作商业用途，仅供个人家庭使用，资费标准最低为699元每月，最高则达到了每月1599元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [玛氏M&amp;M&#39;s推出紫色糖豆 数十年来首次带来新颜色](https://www.cnbeta.com/articles/tech/1321931.htm) | Wed Sep 28 2022 8:32 PM 
+- 💂 [《碧海黑帆》再次延期 原定于2018年发售](https://hot.cnbeta.com/articles/game/1322029.htm) | Thu Sep 29 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;M&amp;amp;M&amp;#39;s夹心巧克力糖豆是全世界家喻户晓的糖果，今天其母公司玛氏宣布推出一种&amp;quot;紫色&amp;quot;糖果，这也是有史以来第一个以女性形象示人的M&amp;amp;M花生糖豆。超过1000万名粉丝在5月投票决定在糖果彩虹中加入这种颜色，在水蓝色和粉红色中胜出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;预定于今年11月发布的《碧海黑帆》再次跳票，但愿这是最后一次。该作原定于2018年（！）面市，历经一系列延期甚至重启后挣扎着活到现在，如今它需要追加工期以进一步完善及润色：“尽管游戏开发已宣告完成，但过去两周由QA及内测玩家提供的反馈可知，游戏需要进一步润色并调整平衡”，育碧昨日发表声明称。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [俄罗斯监管机构要求苹果就将VK应用从App Store下架一事作出答复](https://www.cnbeta.com/articles/tech/1321929.htm) | Wed Sep 28 2022 8:25 PM 
+- 🚀 [微软升级媒体创建工具 引入Windows 11 22H2更新支持](https://www.cnbeta.com/articles/tech/1322027.htm) | Thu Sep 29 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在苹果公司将VKontakte从应用商店中删除后，俄罗斯监管机构表示，这将损害其公民之间的沟通，并要求苹果公司做出解释。VKontakte是俄罗斯最大的社交网络应用。在苹果公司于9月28日下架该应用后，俄罗斯监管机构Roskomnadzor对该行动提出异议，称其具有&amp;quot;歧视性&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1321929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;媒体创建工具是一款非常实用的 Windows 工具，通过它可以创建引导盘方便用户安装 Windows 系统。近日，&lt;a href=&quot;https://go.microsoft.com/fwlink/?linkid=2156295&quot; target=&quot;_blank&quot;&gt;媒体创建工具&lt;/a&gt;在近日的更新中引入了对 Windows 11 22H2 功能更新的支持，整个操作过程也非常简单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [EA透露光荣《WILD HEARTS》已开发4年时间](https://hot.cnbeta.com/articles/game/1321927.htm) | Wed Sep 28 2022 8:18 PM 
+- 🎊 [爆卖的“俄罗斯老奶粉”你敢买吗？有店铺销量过万 睁大双眼别被骗](https://www.cnbeta.com/articles/tech/1322025.htm) | Thu Sep 29 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Omega Force日前终于解开了《WILDHEARTS》这款次世代狩猎游戏的面纱，该游戏将面向Xbox Series X/S, PS5和PC发行。虽然预告片展示的是仍在开发中的项目，但其美学、Kemono和Karakuri的设计脱颖而出。另外游戏很快即将发行，时间定位2023年2月。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1321927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，爆卖的“俄罗斯老奶粉”吸引了很多人的关注，月销量轻松过万，这到底是是什么情况？虽然博主不同，但文案大同小异，画面要么是长腿俄国小姐姐，要么是腱子肉老铁，画面一转，一排排壮硕奶牛疯狂产奶。它们不断重复一个概念，这款奶粉经过时间提炼，十几年包装都没变过，原始的，就是纯粹的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
