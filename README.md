@@ -835,28 +835,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Ultimate Canva Resource Collection - 120 多个 Canva 技巧、原则、链接和课程](https://xinquji.com/posts/179936?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:53 AM 
+- 👀 [Confidence - 直接在 Salesforce 中运行数千个预测模拟](https://xinquji.com/posts/179967?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     120 多个 Canva 技巧、原则、链接和课程  
+     直接在 Salesforce 中运行数千个预测模拟  
     </details> 
 
-- 🥷 [No Stress Hacks - 减轻压力的 100 个技巧](https://xinquji.com/posts/179935?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:51 AM 
+- 🥷 [DecideOn - 谁先走？](https://xinquji.com/posts/179966?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     减轻压力的 100 个技巧  
+     谁先走？  
     </details> 
 
-- 💼 [Bounsel Flow - 复制粘贴够了，欢迎来到 Bounsel Flow](https://xinquji.com/posts/179934?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:49 AM 
+- 💼 [Lucid - 世界上最重要的知识，可视化](https://xinquji.com/posts/179965?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     复制粘贴够了，欢迎来到 Bounsel Flow  
+     世界上最重要的知识，可视化  
     </details> 
 
-- 🦅 [Google SERP API - 谷歌实时自然搜索结果](https://xinquji.com/posts/179933?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:47 AM 
+- 🦅 [Send It - 没有更多的信息](https://xinquji.com/posts/179964?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     谷歌实时自然搜索结果  
+     没有更多的信息  
     </details> 
 
-- 😺 [My First Million - Catalog of Greatness - 想法、故障、框架等的总结](https://xinquji.com/posts/179932?utm_campaign=xinquji-rss) | Thu Sep 29 2022 6:44 AM 
+- 😺 [Submit.com - 简化表单管理、分析、合规性和工作流程](https://xinquji.com/posts/179963?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     想法、故障、框架等的总结  
+     简化表单管理、分析、合规性和工作流程  
     </details> 
 <!-- xinquji:END -->
