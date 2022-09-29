@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [减薪、关店、巨亏，国美“临崖”谁来救？](https://www.cnbeta.com/articles/tech/1322329.htm) | Thu Sep 29 2022 12:22 PM 
+- 🕯 [YouTube将在健康相关查询的搜索结果中显示其它患者的真实感受](https://www.cnbeta.com/articles/tech/1322343.htm) | Thu Sep 29 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上海的徐家汇，是魔都最繁华的商业中心之一，从来都不缺少人流。9月26日晚上6点，正值下班高峰期，拥挤的人群排着队乘坐扶梯，商场、餐厅人满为患，连天桥上都是来来往往的行人。然而，坐落于此的国美电器徐汇二店格外冷清，除了穿着红色国美制服的促销员，几乎没有顾客。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;YouTube周三宣布，从本周开始，当用户输入与健康有关的查询时，它将在搜索结果中显示一个名为&amp;quot;Personal Stories（现身说法）&amp;quot;的新栏目。&lt;/strong&gt;该公司说，当人们在YouTube上搜索某些健康状况的视频时，它将显示一个以被诊断患有这些疾病的人的视频为主的板块。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [供应商battle东方甄选“6元玉米”再起波澜](https://www.cnbeta.com/articles/tech/1322327.htm) | Thu Sep 29 2022 12:21 PM 
+- 💼 [DALL-E 2 同源：机器学习研究员分享“文本到宝可梦”图像生成器](https://hot.cnbeta.com/articles/comic/1322341.htm) | Thu Sep 29 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本来已经以辛巴致歉而告一段落的东方甄选8元玉米争议，因为抖音用户“东北农嫂”的一番言论再次引发热议。近日，自称是东方甄选玉米供应商的“东北农嫂”在抖音直播中声称，自己是东方甄选6元一根玉米的供应商，在她直播间同样的玉米一根只要3.6元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在经历了九代《精灵宝可梦》之后，玩家们有时难免吐槽开发者只是从帽子里随机抽取单词，然后观察它们到底会在玩家群体中引发怎样的化学反应。&lt;strong&gt;对于抱着“这么搞我也行”心态的粉丝，这里有一款独特的人工智能生成器可以推荐给大家。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1322341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [RPCS3模拟器开始支持AMD Ryzen 7000&quot;Zen 4&quot;AVX-512指令集](https://hot.cnbeta.com/articles/game/1322325.htm) | Thu Sep 29 2022 12:13 PM 
+- 💂 [Adobe推出Photoshop与Premiere Elements 2023版](https://www.cnbeta.com/articles/tech/1322339.htm) | Thu Sep 29 2022 1:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼PS3模拟器&amp;quot;RPCSE3&amp;quot;的最新版本现在已经更新，以支持AMD Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU的AVX-512指令。带有AVX-512指令的AMD Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU现在可以提升索尼PS3&amp;quot;RPCS3&amp;quot;模拟器的性能。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Adobe公司今天推出了新版本的Photoshop Elements和Premiere Elements照片和视频编辑软件，相比专业软件定价较低，主要针对那些希望用简单的编辑工具来增强照片和视频的休闲用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Search On：谷歌介绍其更迎合年轻人的一系列搜索体验改进](https://www.cnbeta.com/articles/tech/1322323.htm) | Thu Sep 29 2022 12:11 PM 
+- 🚀 [Intel 60核心至强Sapphire Rapids首次公开 支持AVX-512](https://www.cnbeta.com/articles/tech/1322337.htm) | Thu Sep 29 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Google 今日宣布了要对传统搜索体验加以改造，以便用户能够更加自然地探索信息。&lt;/strong&gt;为实现这一目标，该公司正在引入诸多新功能，包括深入研究主题的工具和其它变更。这些改变，旨在为搜索赋予一种更直观的使用体验，以新颖的方式凸显地图、图像、甚至视频片段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel Sapphire Rapids第四代可扩展至强原计划2021年发布，但因为瑕疵太多，一再跳票，目前仅出货了少数评估样品给客户，&lt;strong&gt;消息称正式发布要到明年第二季度，推迟足足两年。&lt;/strong&gt;创新大会上，Intel首次公开展示了新至强，并首次进行了跑分，还是60核心顶级版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [数据显示新能源汽车质量可靠 二手故障率仅不到传统燃油车的1/10](https://www.cnbeta.com/articles/tech/1322321.htm) | Thu Sep 29 2022 12:10 PM 
+- 🎊 [传《极品飞车22》即将公布 预告片已经制作好](https://hot.cnbeta.com/articles/game/1322335.htm) | Thu Sep 29 2022 12:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;瓜子二手车大数据发现：主流新能源汽车品牌以及国产自主热销品牌的二手车整体质量可靠；传统燃油车中故障率最高TOP10榜单中，知名合资品牌车系是重灾区；知名国外品牌双标严重，进口版与国产版的二手车故障率差异甚大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据知名舅舅党Tom Henderson爆料EA和Criterion已经准备好公布新的《极品飞车》游戏——《极品飞车：Unbound》。公布预告已经准备好，时长大概1分钟半，音乐来自A$AP Rocky。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
