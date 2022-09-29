@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [力扣——1326. 灌溉花园的最少水龙头数目](https://juejin.cn/post/7148764750275411976) | Thu Sep 29 2022 11:39 AM 
+- 🤗 [获取echart曲线上任意点位的值](https://juejin.cn/post/7148777191021477901) | Thu Sep 29 2022 12:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    智慧农业里有一个很重要的功能是控制温室生长环境，让农作物生长的更好。于是，我们需要在曲线上根据不同农作物设置不同的环境数据。 
+    </details> 
+
+- 🎡 [node里的fs模块有哪些呢，都整理好了，来瞅瞅呗](https://juejin.cn/post/7148775955480182820) | Thu Sep 29 2022 12:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、是什么 fs（filesystem），该模块提供本地文件的读写能力，基本上是POSIX文件操作命令的简单包装 可以说，所有与文件的操作都是通过fs核心模块实现 导入模块如下： 这个模块对所有文件系 
+    </details> 
+
+- 🕯 [力扣——1326. 灌溉花园的最少水龙头数目](https://juejin.cn/post/7148764750275411976) | Thu Sep 29 2022 11:39 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 力扣——1326. 灌溉花园的最少水龙头数目 1326. 灌溉花园的最少水龙头数目 在 x 轴上有一个一 
     </details> 
 
-- 🎡 [面试官：谈谈你对前端安全防御的理解](https://juejin.cn/post/7148761621714698276) | Thu Sep 29 2022 11:26 AM 
+- 🚀 [面试官：谈谈你对前端安全防御的理解](https://juejin.cn/post/7148761621714698276) | Thu Sep 29 2022 11:26 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 1.引言 每逢前端面试，80%的候选人都会被问到这个问题。这问题确确实实是一道八股文。为了应付面试，我自 
     </details> 
 
-- 🕯 [Sentinel源码3-入口类和SlotChain构建过程](https://juejin.cn/post/7148760487574896654) | Thu Sep 29 2022 11:22 AM 
+- 💪 [Sentinel源码3-入口类和SlotChain构建过程](https://juejin.cn/post/7148760487574896654) | Thu Sep 29 2022 11:22 AM 
     <details><summary>展开描述 ...</summary> 
     Sentinel的测试用例和流控体验，注解版源码分析入口，默认Context创建，查找并创建SlotChain调用链 
-    </details> 
-
-- 🚀 [Monaco Editor 中的 Keybinding 机制](https://juejin.cn/post/7148760566494920735) | Thu Sep 29 2022 11:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    ## 一、前言 前段时间碰到了一个 Keybinding 相关的问题，于是探究了一番，首先大家可能会有两个问题：Monaco Editor 是啥？Keybinding 又是啥？ - **Monac 
-    </details> 
-
-- 💪 [项目适配 Oracle 改造及 SSL 安全性配置问题汇总](https://juejin.cn/post/7148760174340587534) | Thu Sep 29 2022 11:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    项目开发初期使用 MySQL ，后期需要适配 Oracle ，总结适配过程及多数据库支持时，从开发初期就需要考虑的几点。 另外，总结几点最近半年开发过程中的技术问题。坑都填了，也该是时候记录一下 
     </details> 
 <!-- juejin:END -->
 ### 少数派
