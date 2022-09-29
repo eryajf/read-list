@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JAVA集合最全地图，这一篇足矣](https://juejin.cn/post/7148701396597768200) | Thu Sep 29 2022 7:32 AM 
+- 🤗 [Nuxtjs 项目使用 svg-sprite-loader 更改 svg 的颜色](https://juejin.cn/post/7148730973247504415) | Thu Sep 29 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 概述 Java提供了大量的容器类数据接口，比如ArrayList, HashSet等等，我们在项目中都大 
+    我正在参加「掘金·启航计划」 前言 由于一些原因，最新的公司项目要使用的技术切换到了 Nuxt.js，也就是 Vue 的 ssr 服务端渲染框架。 项目需求 在新项目的开发过程中，遇到了一个需求：有一 
     </details> 
 
-- 🎡 [Spring Boot 自动装配原理，你知道？](https://juejin.cn/post/7148700947353927717) | Thu Sep 29 2022 7:30 AM 
+- 🎡 [上下拖拽元素动效](https://juejin.cn/post/7148727824302473223) | Thu Sep 29 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 假如你在面试过程中被问到 Spring Boot 自动装配原理，你该如何回答？ 没有深入了解的 
+    前言 在工作中实现的一个元素上下拖拽的动效，给大家分享一下，其中用到了本地存储记录拖拽的历史坐标，用EventBus做了拖拽时锁住点击方法&lpar;防止用户在拖拽鼠标松开后触发点击事件的方法&rpar;，大家可根据自己 
     </details> 
 
-- 🕯 [不会F12？这个方法解决移动端页面pc预览](https://juejin.cn/post/7148671182072447012) | Thu Sep 29 2022 5:37 AM 
+- 🕯 [哇哦，icon 还能这么玩？快来瞧瞧吧！](https://juejin.cn/post/7148727278460436488) | Thu Sep 29 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-    作为开发者，开发H5页面，或其他手机端网页，我们会习以为常的打开F12 调到手机模式下进行预览调试，正常情况下用户会使用手机打开该项目，所以我们不太会考虑移动端项目在PC分辨率下的内容显示 当领导要求 
+    对于icon的印象，大多数人都只是使用静态的icon，很少有人会想到icon也能玩的这么花里胡哨。如果你还不知道这个效果，那你就out了，快来跟我一起学习一下吧，保证会让你大开眼界！ 
     </details> 
 
-- 🚀 [Docker Swarm vs kubernetes](https://juejin.cn/post/7148657448188903454) | Thu Sep 29 2022 4:43 AM 
+- 🚀 [Slate.js 入门（六）- 数据存储和序列化](https://juejin.cn/post/7148713098902241294) | Thu Sep 29 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-    在kubernetes（k8s）火遍大江南北的背景下，为何我们在搭建微服务集群的时候，选择了Swarm，而没有选择k8s呢？ 
+    通过本篇文章，你将学会如何在 Slate.js 中实时保存、序列化和反序列化你所编辑的富文本内容... 
     </details> 
 
-- 💪 [Zookeeper如何网络通信+监听？看一看Watch机制](https://juejin.cn/post/7148636956644081694) | Thu Sep 29 2022 3:22 AM 
+- 💪 [Mac&amp;Linux常用命令](https://juejin.cn/post/7148701328200433695) | Thu Sep 29 2022 7:32 AM 
     <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第4篇文章，点击查看活动详情 Zookeeper Watch机制 Watcher是一种简单的机制，使客户端得到关于ZooKeeper集合中的更改的 
+    Linux命令是在命令行（CLI）上运行的程序。命令行是接受文本行并将其处理成计算机指令的界面。任何图形用户界面 &lpar;GUI&rpar; 都是命令行程序的抽象。通过 GUI 进行多步骤处理的任务有时候可以通过在命 
     </details> 
 <!-- juejin:END -->
 ### 少数派
