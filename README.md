@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [大量《微软飞行模拟》玩家勇闯美国佛州飓风“伊恩”](https://hot.cnbeta.com/articles/game/1322117.htm) | Thu Sep 29 2022 3:47 AM 
+- 🕯 [Alienware推出全新游戏设备，包括Aurora R15主机和新款QD-OLED显示器](https://www.cnbeta.com/articles/tech/1322135.htm) | Thu Sep 29 2022 5:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《微软飞行模拟》拥有堪称技术奇迹的地球模拟，并且还可以对现实世界实时的天气进行精确模拟。如果现实世界中某个地方正在下雨、下雪或是暴风雨，在游戏中玩家驾驶飞机经过那里的时候也会遇到同样的天气，这一切都是实时的。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Dell旗下的Alienware品牌宣布，推出三款全新游戏设备，分别是Aurora R15主机、Tenkeyless游戏键盘和旗下第二款QD-OLED游戏显示器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [塔塔汽车在印度推出1万美元电动汽车，低配版续航250公里](https://www.cnbeta.com/articles/tech/1322115.htm) | Thu Sep 29 2022 3:45 AM 
+- 💼 [电动自行车换电服务提供商Gogoro新获一笔3.45亿美元的贷款](https://www.cnbeta.com/articles/tech/1322133.htm) | Thu Sep 29 2022 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月29日消息，当地时间周三印度汽车制造商塔塔汽车在当地市场推出售价1万美元的电动汽车，希望进一步扩大其在印度市场的领先地位。塔塔汽车目前是印度唯一的电动汽车制造商。在政府补贴和高进口关税的帮助下，塔塔汽车在印度电动汽车市场处于领先地位，其希望借助廉价电动汽车吸引更多买家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;从中国台湾地区一路扩张出来的电动自行车换电服务提供商 Gogoro，刚刚签署了一项价值 3.45 亿美元的五年期信贷协议。&lt;/strong&gt;监管文件指出，此举旨在不确定的经济条件下增强其资金流动性，贷方则是由兆丰国际商业银行牵头的 10 家银团。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [韦伯望远镜捕捉到IC 5332螺旋星系细节：酷似骨骼旋涡](https://www.cnbeta.com/articles/science/1322113.htm) | Thu Sep 29 2022 3:45 AM 
+- 💂 [《死侍3》剧组晒主创合照：小贱贱狼叔肖恩喜笑颜开](https://hot.cnbeta.com/articles/movie/1322131.htm) | Thu Sep 29 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月29日消息，美国国家航空航天局（NASA）旗下詹姆斯·韦伯太空望远镜最近拍摄了一张新照片，捕捉到IC 5332螺旋星系“前所未有的细节”。IC 5332距离地球2900万光年，跨度约6.6万光年，大约是银河系的三分之一。在韦伯望远镜的观测下，IC 5332通常被尘埃遮蔽的星系“骨架”一览无遗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨日，漫威电影《死侍3》正式定档2024年9月6日上映，同时休·杰克曼官宣回归出演金刚狼。&lt;strong&gt;《死侍3》剧组晒出了瑞恩·雷诺兹、休·杰克曼和导演肖恩·利维合影，三个帅哥喜笑颜开。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [零跑汽车今日于港交所上市，开盘破发一度跌超30%](https://www.cnbeta.com/articles/tech/1322111.htm) | Thu Sep 29 2022 3:44 AM 
+- 🚀 [AAA：自动紧急制动在防止正常速度下的撞车方面表现并不出色](https://www.cnbeta.com/articles/tech/1322129.htm) | Thu Sep 29 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月29日，浙江零跑科技股份有限公司（下称“零跑汽车”，09863.HK）正式在港上市，开盘即遭破发，低开14.58%；开盘后股价继续下挫，一度跌超31%，最低报32.2港元/股。截至发稿时间，零跑汽车股价为33.150港元/股，总市值335.44亿港元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;根据美国汽车协会&lpar;AAA&rpar;的新研究，自动紧急制动&lpar;AEB&rpar;在防止低速追尾事故方面相当出色，但当车辆以更平均的速度行驶时就有点糟糕了。&lt;/strong&gt;从2022年9月开始，所有在美国销售的新车都必须标配AEB，它使用面向前方的摄像头和其他传感器以在即将发生碰撞时自动实施刹车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [女孩网购毒蛇当宠物 一个月后身亡被判赔33万多：卖方、快递都有责](https://www.cnbeta.com/articles/tech/1322109.htm) | Thu Sep 29 2022 3:43 AM 
+- 🎊 [亚马逊持续强化Alexa车辆辅助应用布局 与宝马深入合作](https://www.cnbeta.com/articles/tech/1322127.htm) | Thu Sep 29 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近年来，有关毒蜘蛛、毒蛇、鳄鱼等异宠伤人事件屡屡发生，饲养异宠背后的安全隐患远比我们想象的严重。野生动物野性难驯，如果作为宠物饲养，极易因为监管不善，造成自己和他人的人身和财产损失。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据智车派了解，针对车内使用Alexa数字助理服务需求，亚马逊在最近的发布会中，更新了2018年推出的Echo Auto设计，让使用者能在车辆行驶过程中更方便地使用Alexa数字助理服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
