@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [mysql 效率问题](https://www.v2ex.com/t/883869#reply0) | Thu Sep 29 2022 9:25 AM
-- 🤗 [关于字符串的疑问](https://www.v2ex.com/t/883865#reply0) | Thu Sep 29 2022 9:12 AM
-- 🎭 [我用自己理解的领域驱动设计，写了一个基础开发平台，本着学习的心态和大家分享，欢迎大家提供意见或建议](https://www.v2ex.com/t/883857#reply0) | Thu Sep 29 2022 8:51 AM
-- 🥷 [谷歌翻译用不了](https://www.v2ex.com/t/883853#reply10) | Thu Sep 29 2022 8:43 AM
-- 🐵 [2022 年， PHP 转 Android，学习什么比较好?](https://www.v2ex.com/t/883852#reply1) | Thu Sep 29 2022 8:43 AM<!-- v2ex:END -->
+- 🥸 [xxl-job 里定时任务触发实现疑问](https://www.v2ex.com/t/883875#reply1) | Thu Sep 29 2022 9:52 AM
+- 🤗 [WPF 使用 DrawingContext 绘制温度计](https://www.v2ex.com/t/883871#reply0) | Thu Sep 29 2022 9:28 AM
+- 🎭 [请教个 mysql 更新问题](https://www.v2ex.com/t/883870#reply7) | Thu Sep 29 2022 9:27 AM
+- 🥷 [mysql 效率问题](https://www.v2ex.com/t/883869#reply1) | Thu Sep 29 2022 9:25 AM
+- 🐵 [关于字符串的疑问](https://www.v2ex.com/t/883865#reply0) | Thu Sep 29 2022 9:12 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
