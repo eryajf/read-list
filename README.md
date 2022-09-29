@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Mybatis】Mybatis generator如何修改Mapper.java文件](https://juejin.cn/post/7148794323637813261) | Thu Sep 29 2022 1:34 PM 
+- 🤗 [跑 npm scripts，其实有更香的方式](https://juejin.cn/post/7148816702917050399) | Thu Sep 29 2022 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-    我写的代码生成插件Gitee地址 同样是在扩展 Mybatis generator插件的时候，有这样一个 
+    每个前端项目都有 npm scripts，我们会用 npm scripts 来组织编译、打包、lint 等任务。 大家可能经常会跑 npm scripts，但却对这些命令行工具是怎么实现的并不了解。  
     </details> 
 
-- 🎡 [六六力扣刷题数组之二分查找](https://juejin.cn/post/7148792614228066341) | Thu Sep 29 2022 1:28 PM 
+- 🎡 [什么是socket？](https://juejin.cn/post/7148813575740456990) | Thu Sep 29 2022 2:48 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两天晒网，刷几天，然 
+    你一直在听别人谈论&quot;`sockets`&quot;，或许你也想搞明白这到底是个什么东西。 好吧，它们其实就是：「使用标准的`Unix file descriptors`（Unix文件描述符）与其他程序进行沟通 
     </details> 
 
-- 🕯 [“软硬结合”- 转转搜索少无结果模块简介](https://juejin.cn/post/7148788569295814686) | Thu Sep 29 2022 1:12 PM 
+- 🕯 [想要造轮子, 你知道反射机制吗？](https://juejin.cn/post/7148813463308435463) | Thu Sep 29 2022 2:48 PM 
     <details><summary>展开描述 ...</summary> 
-    任何APP的搜索场景下，相关性与流量效率都是两大核心目标。是全都想要还是有所侧重，往往也会根据业务不同而取舍不同。 
+    平时写代码的过程中，我们使用不同的工具框架来提升开发效率，除了基础框架之外，我们自己也想造轮子，封装各种业务平台功能； 一旦需造轮子的时候，那么就需要使用Java造轮子利器：反射； 
     </details> 
 
-- 🚀 [获取echart曲线上任意点位的值](https://juejin.cn/post/7148777191021477901) | Thu Sep 29 2022 12:27 PM 
+- 🚀 [LeetCode最大重复子字符串使用JavaScript解题|前端学算法](https://juejin.cn/post/7148810623726878727) | Thu Sep 29 2022 2:37 PM 
     <details><summary>展开描述 ...</summary> 
-    智慧农业里有一个很重要的功能是控制温室生长环境，让农作物生长的更好。于是，我们需要在曲线上根据不同农作物设置不同的环境数据。 
+    前端使用JavaScript解决leetcode最大重复字符串算法，前端学算法，每天三分钟学会一个知识点 
     </details> 
 
-- 💪 [node里的fs模块有哪些呢，都整理好了，来瞅瞅呗](https://juejin.cn/post/7148775955480182820) | Thu Sep 29 2022 12:22 PM 
+- 💪 [当 Json 遇到 Map](https://juejin.cn/post/7148809872774004749) | Thu Sep 29 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-    一、是什么 fs（filesystem），该模块提供本地文件的读写能力，基本上是POSIX文件操作命令的简单包装 可以说，所有与文件的操作都是通过fs核心模块实现 导入模块如下： 这个模块对所有文件系 
+    了解一下日常开发中关于 Json 解析的一些非常规用法，以及使用 fastjson 的一些总结和经验 
     </details> 
 <!-- juejin:END -->
 ### 少数派
