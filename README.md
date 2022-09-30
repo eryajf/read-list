@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果自动驾驶汽车车队司机数量增加，但汽车数量仍保持不变](https://www.cnbeta.com/articles/tech/1322533.htm) | Fri Sep 30 2022 2:30 AM 
+- 🕯 [Google预热Pixel 7：三种配色 多角度展示](https://www.cnbeta.com/articles/tech/1322585.htm) | Fri Sep 30 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果正在继续慢慢扩大其在加州的自动驾驶汽车测试项目。&lt;strong&gt;根据加州机动车管理局公布的新数据，苹果车队现迎来了15名新登记的司机。然而自动驾驶汽车的数量却仍保持在69辆。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在两天前放出 Pixel 7 Pro 的预热短视频之后，今天 Google 再次放出了 Pixel 7 的预热视频。在这段 50 秒的视频中，同样以多角度展示 Pixel 7 的外观设计，可以看到 Obsidian、Snow 和 Lemongrass 三种颜色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新证据表明火星南极冰盖下有液态水](https://www.cnbeta.com/articles/science/1322531.htm) | Fri Sep 30 2022 2:29 AM 
+- 💼 [《莎木》动画版或将只有一季 第二季虽已筹备但无定数](https://hot.cnbeta.com/articles/comic/1322583.htm) | Fri Sep 30 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据发表在最新一期《自然·天文学》杂志上的论文，&lt;strong&gt;一个国际研究小组利用雷达以外的数据提供了首个独立的证据，证明火星南极冰盖下存在液态水。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;经典游戏改编的《莎木》动画版制作人Jason DeMarco日前发推谈到了动画版的进展，&lt;strong&gt;表示担忧《莎木》动画版或将只有一季，因为目前关于第二季的准备工作很顺利，但迟迟没有上级官方的明确指示。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1322583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [家具释放甲醛深层机制揭示](https://www.cnbeta.com/articles/science/1322529.htm) | Fri Sep 30 2022 2:28 AM 
+- 💂 [漫威真人剧集《装甲战争》将改成电影](https://hot.cnbeta.com/articles/movie/1322581.htm) | Fri Sep 30 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国马萨诸塞大学阿默斯特分校和北德克萨斯大学联合领导的一项新研究，进一步加深了人们对家庭和办公室中的木材如何释放甲醛的理解，并开发出一种低成本方法，能减轻甲醛造成的损害。团队已为该方法申请了专利，相关研究最近发表在最近的《绿色化学》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;来自外媒的报道称，漫威正在制作当中的真人剧集《装甲战争》将改成电影。&lt;/strong&gt;该剧集最早于2020年宣布，此后一直没有公开消息，粉丝甚至一度认为该剧已被抛弃。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [为削减开支，亚马逊计划在美国只保留一个呼叫中心](https://www.cnbeta.com/articles/tech/1322525.htm) | Fri Sep 30 2022 2:26 AM 
+- 🚀 [雪铁龙将其最新EV概念车缩减为MPV微型皮卡](https://www.cnbeta.com/articles/tech/1322579.htm) | Fri Sep 30 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据知情人士透露，&lt;strong&gt;亚马逊将关闭其在美国其它所有客户呼叫中心，只保留其中一个，并将数百名办公室员工转移到远程办公，以节省房地产成本。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;雪铁龙试图实现“以少胜多”，其提出了将概念车转为量产车Ami的后续产品。据了解，全新的Oli是一款家庭大小的电动车，具有类似SUV的实用性、MPV的多功能性和城市通勤车的尺寸和效率。它有坚固的迷你Hummer外观、小皮卡床、248英里（400公里）的全电动动力系统及大量可持续发展的部件和表面处理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [环保专家担心“北溪”漏气将释放大量甲烷](https://www.cnbeta.com/articles/science/1322523.htm) | Fri Sep 30 2022 2:25 AM 
+- 🎊 [苹果关闭iOS 16/16.0.1签署通道 但可降级至iOS 15.7](https://www.cnbeta.com/articles/tech/1322577.htm) | Fri Sep 30 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;从俄罗斯向欧洲输送天然气的两大管道“北溪-1”和“北溪-2”漏气事件引发全球关注，相关国家政府和环境保护人士开始担心其潜在环境影响。&lt;/strong&gt;美联社28日报道，这起事故可能会成为迄今规模最大的甲烷泄漏事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在经过 3 个月的 Beta 测试之后，iOS 16 于今年 9 月 12 日正式发布。随后苹果推出了两个维护版本更新 iOS 16.0.1 和 iOS 16.0.2。&lt;strong&gt;今天苹果宣布不再为 iOS 16 和 iOS 16.0.1 提供签署服务，这意味着已升级 iOS 16.0.2 用户无法降级了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
