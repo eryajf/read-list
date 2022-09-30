@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [火山引擎 RTC 自研音频编码器 NICO 实践之路](https://juejin.cn/post/7149067909468258335) | Fri Sep 30 2022 7:14 AM 
+- 🤗 [&lpar;五&rpar;MySQL索引应用篇：建立索引的正确姿势与使用索引的最佳指南！](https://juejin.cn/post/7149074488649318431) | Fri Sep 30 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    RTC 自研 NICO 编码器给出的解决方案，兼容 Opus 编码器的同时，提供更高的编码质量和抗丢包能力。 
+    索引大家都用过，但你的SQL与索引真的合格吗？本章则一起携手共探建立索引的正确姿势与使用索引的最佳指南！让你对索引的建立与使用，更加得心应手~ 
     </details> 
 
-- 🎡 [前端也学一下 Lua 呀](https://juejin.cn/post/7149062790848708616) | Fri Sep 30 2022 6:55 AM 
+- 🎡 [如何使用netlify部署vue应用程序](https://juejin.cn/post/7149071605167456270) | Fri Sep 30 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么要学 lua ？ neovim/nvchad/... 支持 lua 写配置文件 WezTerm 也是用 lua 写配置文件 用 lua 写配置，其实更多的是倾向于嵌入式编程，写配置用 json/ 
+    Netlify是一个现代网站自动化系统，其JAM架构代表了现代网站的发展趋势。所谓JAM，就是指基于客户端JavaScript、可重用API和预构等 
     </details> 
 
-- 🕯 [图解Seata AT模式TM处理流程](https://juejin.cn/post/7148965129399795719) | Fri Sep 30 2022 12:36 AM 
+- 🕯 [SpringCloud实践系列（二）：Ribbon负载均衡](https://juejin.cn/post/7149053391652519967) | Fri Sep 30 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-    我们根据源码解读画出了下图，该图示展现了TM在整个Seata AT模式的分布式事务中所起的作用，从上图中可以看出，TM主要有两个作用 
+    Ribbon是负载均衡器，用于解决服务集群的负载均衡。它只是一个类库，集成于消费方进程，消费方通过它来获取到服务提供方的地址。 
     </details> 
 
-- 🚀 [图解LeetCode——面试题 01.08. 零矩阵（难度：中等）](https://juejin.cn/post/7148873270052257800) | Thu Sep 29 2022 7:08 PM 
+- 🚀 [从源码看Vue中的render函数调用时机与执行细节](https://juejin.cn/post/7149023546046414856) | Fri Sep 30 2022 4:25 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 一、题目 编写一种算法，若M × N 矩阵中某个元素为0，则将其所在的行与列清零。 二、示例 2.1&gt;  
+    背景 摸鱼的时候看到有网友说面试问到了render函数和beforeMount钩子哪个先触发的问题，我印象中是先触发beforeMount钩子，不过本着严谨的精神，拒绝印象流，还是去翻了一下Vue2源 
     </details> 
 
-- 💪 [iOS老司机可落地的中大型iOS项目中的设计模式优化Tips](https://juejin.cn/post/7148829090995240974) | Thu Sep 29 2022 3:48 PM 
+- 💪 [浅析微前端架构下的Web性能分析](https://juejin.cn/post/7149020722575179807) | Fri Sep 30 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 1. 前言: 设计模式可以在大型项目中有哪些可落地的优化？ 本人目前负责一个中大型iOS项目，用PPRows跑一下项目根文件，目前代码量约28W。 在这样一个大型项目中， 
+    我们都知道Web性能关乎用户体验，进一步影响用户留存、转化率，显然用户体验不友好，最终导致流失。可见Web页面性能对用户和企业而言，可谓举足轻重。 因此，对Web页面的性能分析相关性能优化，是开发者不 
     </details> 
 <!-- juejin:END -->
 ### 少数派
