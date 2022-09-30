@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日带货：2022款卫衣 [更新带货商品]](http://jandan.net/p/111410) | Fri Sep 30 2022 3:22 AM 
+- 🚀 [Meta公司推出了由文字生成视频的AI Make-A-Video](http://jandan.net/p/111412) | Fri Sep 30 2022 6:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    目前清晰度还不行，但算力问题，时间就能解决 
+    </details> 
+
+- 🙉 [脑力小体操 非常巧妙的 3天平和8银币 谜题](http://jandan.net/p/111121) | Fri Sep 30 2022 6:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    假期快乐 
+    </details> 
+
+- 🎉 [太阳系里的行星 质量越大自转越快吗](http://jandan.net/p/111385) | Fri Sep 30 2022 6:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    凡事总有例外 
+    </details> 
+
+- 🐲 [今日带货：2022款卫衣 [更新带货商品]](http://jandan.net/p/111410) | Fri Sep 30 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
     太难了。 
     </details> 
 
-- 🙉 [关于睡眠，我们做对了没有？](http://jandan.net/p/111405) | Thu Sep 29 2022 3:36 PM 
+-  [关于睡眠，我们做对了没有？](http://jandan.net/p/111405) | Thu Sep 29 2022 3:36 PM 
     <details><summary>展开描述 ...</summary> 
     晚安zzZ 
-    </details> 
-
-- 🎉 [第一只有记载的会捕鱼的狐狸](http://jandan.net/p/111409) | Thu Sep 29 2022 10:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    “我们研究这种狐狸多年，但从未想到会有这样的事情。” 
-    </details> 
-
-- 🐲 [YouTuber用4chan政治不正确版的内容训练AI，让AI冒充人类在该版块大量发帖](http://jandan.net/p/111346) | Thu Sep 29 2022 10:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    4chan用户过了两天才意识到问题 
-    </details> 
-
--  [tRNS 经颅随机噪声刺激可以提高认知和专注能力](http://jandan.net/p/111319) | Thu Sep 29 2022 3:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    当你工作或学习时，是否需要一点背景音？ 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
