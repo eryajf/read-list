@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《小美人鱼》女主亮相巴黎时装周 造型让人一眼难忘](https://hot.cnbeta.com/articles/movie/1322671.htm) | Fri Sep 30 2022 9:27 AM 
+- 🕯 [Brave浏览器将阻止烦人的cookie数据收集询问弹窗](https://www.cnbeta.com/articles/tech/1322681.htm) | Fri Sep 30 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日《小美人鱼》真人电影主演哈莉·贝利在巴黎时装周亮相，她的造型让人看一眼便难忘，窒息感瞬涌。一起来欣赏下她的美图吧！此前哈莉·贝利因长相和肤色遭网暴后，还发自拍照并附文：“艰难困苦，玉汝于成&lpar;what doesn’t kill you makes you stronger&rpar;”，她还配了一个吐舌头的表情，以示自己心情不错，能坦然面对那些网络上的闲言碎语。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在欧洲《通用数据保护条例》（GDPR）实施后，网上冲浪的人们还是被各个网站的“数据收集知情同意书”给烦到。&lt;/strong&gt;如下图所示，网页弹窗会询问用户是否允许广告商收集 cookie 数据。尴尬的是，就算你逐一回绝，在某些情况下，这些横幅本身也可作为追踪器 —— 因其甚至在用户有机会选择退出之前，就参与了侵犯隐私的数据交换。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [FAA：波音尚未提交对737MAX7进行认证的关键文件](https://www.cnbeta.com/articles/tech/1322669.htm) | Fri Sep 30 2022 9:26 AM 
+- 💼 [研究发现大部分驯鹿放牧地受到了人类活动扩张的威胁](https://www.cnbeta.com/articles/science/1322679.htm) | Fri Sep 30 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国联邦航空管理局（FAA）向波音公司（BA.US）表示，该公司尚未完成在12月前认证737 MAX 7所需的关键工作。FAA航空安全执行主任Lirio Liu在9月19日的信中告知波音，该机构对飞机制造商提交的文件感到担忧，并寻求讨论“接收剩余文件的时间”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;驯鹿放牧在挪威北部、瑞典和芬兰有着悠久的历史。它塑造了芬诺斯堪迪亚山脉的景观，也被视为缓解气候变化对植被影响的手段。然而一项新的研究显示，这种放牧地的大部分面临着累积的压力并受到人类活动向北扩展的威胁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“喊一嗓子”就能让小球悬空？不是魔法，是声音的力量](https://www.cnbeta.com/articles/science/1322667.htm) | Fri Sep 30 2022 8:57 AM 
+- 💂 [苹果韩总部遭反垄断机构突击检查，被指向开发者收取33%佣金](https://www.cnbeta.com/articles/tech/1322677.htm) | Fri Sep 30 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;没有人接触这个小球，但是它稳稳当当停在半空中。这是什么魔法吗？不，这是超声悬浮的魅力。著名科幻作家亚瑟·克拉克（Arthur C. Clark）曾说过：“任何足够先进的技术都与魔法无异”。声悬浮技术就是这样一种魔法般的存在，见过的人都会惊叹于它的神奇。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果的韩国总部被反垄断监管机构突击检查，因为有开发者投诉苹果向他们收取超30%的标准App Store佣金率。&lt;/strong&gt;当地媒体周一报道了韩国公平贸易委员会&lpar;KFTC&rpar;的黎明突袭行动，Foss Patents博客周五也进行了报道，其强调了该国对苹果涉嫌滥用市场力量的持续调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google为Colab服务推出新的“即用即付”选项](https://www.cnbeta.com/articles/tech/1322665.htm) | Fri Sep 30 2022 8:51 AM 
+- 🚀 [欧米茄推出Speedmaster X-33 Marstimer火星表 售6400美元](https://www.cnbeta.com/articles/tech/1322675.htm) | Fri Sep 30 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Colab 是谷歌提供的一项服务，旨在允许任何人通过 Web 浏览器编写和执行任意 Python 代码。&lt;strong&gt;不过现在，全称 Google Colaboratory 的这项服务，正在推出“即用即付”的新计划。&lt;/strong&gt;据悉，自 2020 年推出高级订阅选项以来，这是 Google 首次为 Colab 带来新的定价方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;尽管尚未有人类宇航员踏上火星，但这并不能阻挡欧米茄（Omega）与欧洲宇航局（ESA）合作开发 Speedmaster X-33 Marstimer 手表。&lt;/strong&gt;作为一款能够追踪时间的模拟 / 数字石英表，它不仅能够在地球上使用、同时也做好了奔赴红色星球的准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [理想L7发布 旗下首款五座中大型SUV：33.98万起](https://www.cnbeta.com/articles/tech/1322663.htm) | Fri Sep 30 2022 8:44 AM 
+- 🎊 [芯片大厂 跌跌不休](https://www.cnbeta.com/articles/tech/1322673.htm) | Fri Sep 30 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在理想L8后，理想汽车旗下首款五座中大型SUV L7也正式推出。&lt;strong&gt;其中L7 Pro定价33.98万元，L7 Max定价37.98万元。&lt;/strong&gt;理想L7今日将开启预订，需要1000元意向金，11月亮相广州车展，12月进行全国巡展，明年2月底开启交付。李想表示，如果准备花30多万买一款豪华中大型五座SUV，那么L7绝对值得等待。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;过去很长一段时间困扰全球半导体业的芯片短缺，似乎有了明显的缓解。反映到资本市场上，由于市场需求放缓和芯片制造商的库存增加，整个半导体行业将出现低迷，于是投资者开始纷纷抛售半导体巨头的股票，英伟达、英特尔、台积电、联发科等半导体芯片巨头股价开始大幅下跌，进入技术性熊市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
