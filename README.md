@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Agoston &lpar;Beta&rpar; - 在数小时内编写任何想法，实时扩展或在任何地方部署](https://xinquji.com/posts/179979?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:49 AM 
+- 👀 [Parseable Log Storage - 简单、高效、快速的日志存储和查询系统](https://xinquji.com/posts/180007?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     在数小时内编写任何想法，实时扩展或在任何地方部署  
+     简单、高效、快速的日志存储和查询系统  
     </details> 
 
-- 🥷 [Stardust Adventure Coffee - 美味的咖啡，无论你在哪里](https://xinquji.com/posts/179978?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:47 AM 
+- 🥷 [Freelancer Kit - 使用 Notion 轻松管理您的自由职业者业务](https://xinquji.com/posts/180006?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     美味的咖啡，无论你在哪里  
+     使用 Notion 轻松管理您的自由职业者业务  
     </details> 
 
-- 💼 [ShopMe - 将您的所有电子商务愿望清单合二为一](https://xinquji.com/posts/179977?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:45 AM 
+- 💼 [Dockcase 2.5&amp;quot; Smart Hard Drive Enclosure - 您的数据守护者，不再担心数据丢失](https://xinquji.com/posts/180005?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     将您的所有电子商务愿望清单合二为一  
+     您的数据守护者，不再担心数据丢失  
     </details> 
 
-- 🦅 [Figtree - 一种友好但极简的无衬线字体](https://xinquji.com/posts/179976?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:42 AM 
+- 🦅 [Alphalerts - 收件箱的智能选项、股票和加密警报](https://xinquji.com/posts/180004?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     一种友好但极简的无衬线字体  
+     收件箱的智能选项、股票和加密警报  
     </details> 
 
-- 😺 [Salesmsg for Slack - 简单、可扩展、双向的商务短信，现在在 Slack 上](https://xinquji.com/posts/179975?utm_campaign=xinquji-rss) | Fri Sep 30 2022 6:40 AM 
+- 😺 [Astogi - Asana 中的自动唯一任务编号并跟踪提交](https://xinquji.com/posts/180003?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     简单、可扩展、双向的商务短信，现在在 Slack 上  
+     Asana 中的自动唯一任务编号并跟踪提交  
     </details> 
 <!-- xinquji:END -->
