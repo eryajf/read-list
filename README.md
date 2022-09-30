@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Tagr 5.5.2 文件元数据管理](https://xclient.info/s/tagr.html) | Thu Sep 29 2022 12:40 AM 
+- 🦏 [iA Writer 6.0.4 简单好用的 markdown 写作工具](https://xclient.info/s/ia-writer.html) | Fri Sep 30 2022 12:29 AM 
     <details><summary>展开描述 ...</summary> 
-    Tagr是Mac上一款音频元数据编辑器，您可以轻松地编辑信息，例如歌曲的艺术家，标题或专辑封面 
+    iA Writer 提供了独特的 无干扰模式，该模式隐藏了一切可能对写作造成干扰的界面元素，只留下一张白纸、一个键盘。 
     </details> 
 
--  [IconJar 2.11.2 图标素材管理工具](https://xclient.info/s/iconjar.html) | Thu Sep 29 2022 12:34 AM 
+-  [Start 6.0.1 快捷启动工具](https://xclient.info/s/start.html) | Fri Sep 30 2022 12:29 AM 
     <details><summary>展开描述 ...</summary> 
-    IconJar 是一个可以帮助设计师搜索、收集、管理的素材工具，可以极大的提高设计师们的素材库使用效率，减少寻找有效素材的时间，提高工作效率 
+    start 是Mac平台上的一款快捷启动应用，是macOS的开始菜单，允许您快速查找和构造您的程序。 
     </details> 
 
-- ⚗️ [Unite 4.2.1 网站转桌面应用](https://xclient.info/s/unite.html) | Thu Sep 29 2022 12:33 AM 
+- ⚗️ [Vellum 3.3.5 电子书制作工具](https://xclient.info/s/vellum.html) | Fri Sep 30 2022 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Unite 使您可以快速，轻松地将网站转换为macOS上全功能的原生应用程序。 
+    Vellum 是一款Mac上优秀的电子书制作工具，把文本生成为图文格式的电子书，如iBooks, Kindle， Nook等，简单易用。 
     </details> 
 
-- 🔥 [FastScripts 3.2.1 脚本调用工具](https://xclient.info/s/fastscripts.html) | Thu Sep 29 2022 12:32 AM 
+- 🔥 [Valentina Studio Pro 12.5.6 数据库管理软件](https://xclient.info/s/valentina-studio-pr.html) | Fri Sep 30 2022 12:27 AM 
     <details><summary>展开描述 ...</summary> 
-    FastScripts 是一款Mac OS平台上的脚本调用工具，让用户快速在任何应用程序中通过菜单执行AppleScript或shell脚本，用户可将菜单中的任何脚本自定义快捷键还通过方便的快捷键编辑脚本。 
+    Valentina Studio 是一个MySQL、PostgreSQL、Valentina DB 和 SQLite 等数据库最好的免费管理软件。它拥有架构编辑器，数据编辑器，SQL 编辑器以及查询生成器等，让你轻松管理数据库。 
     </details> 
 
-- 🌋 [Cookie 6.8.1 浏览器隐私保护](https://xclient.info/s/cookie.html) | Thu Sep 29 2022 12:31 AM 
+- 🌋 [Kaleidoscope 3.7 功能强大的对比工具](https://xclient.info/s/kaleidoscope.html) | Fri Sep 30 2022 12:26 AM 
     <details><summary>展开描述 ...</summary> 
-    Cookie可以帮助你一键查看和清除所有安装的浏览器内的Cookie、历史记录、缓存，并且可以防止网站Cookie的追踪，提高对个人数据隐私的保护。 
+    Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。 
     </details> 
 <!-- xclient:END -->
 
