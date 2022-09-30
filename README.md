@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [&lpar;五&rpar;MySQL索引应用篇：建立索引的正确姿势与使用索引的最佳指南！](https://juejin.cn/post/7149074488649318431) | Fri Sep 30 2022 7:40 AM 
+- 🤗 [这个国庆，带老婆去看一场烟花雨](https://juejin.cn/post/7149086876236775454) | Fri Sep 30 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
-    索引大家都用过，但你的SQL与索引真的合格吗？本章则一起携手共探建立索引的正确姿势与使用索引的最佳指南！让你对索引的建立与使用，更加得心应手~ 
+    你知道如何用 canvas 实现烟花秀吗？初中的三角函数相关的知识点你还记得吗？如果想要玩好 canvas，三角函数的知识不能忘。快来跟我一起学习如何制作一场烟花雨吧，并带上你的女朋友一起观看这场烟花 
     </details> 
 
-- 🎡 [如何使用netlify部署vue应用程序](https://juejin.cn/post/7149071605167456270) | Fri Sep 30 2022 7:29 AM 
+- 🎡 [1 📖 《JavaScript高级程序设计》__ 什么是JavaScript？](https://juejin.cn/post/7149083218426200094) | Fri Sep 30 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Netlify是一个现代网站自动化系统，其JAM架构代表了现代网站的发展趋势。所谓JAM，就是指基于客户端JavaScript、可重用API和预构等 
+    工作这么多年，到现在为止对这本书都没有一个系统的知识点记录，这次想从头再读一遍这一本JavaScript高级程序设计【第4版】，并把重要的知识点与自己的见解记录下来，分享给大家，关注专栏吧~ 
     </details> 
 
-- 🕯 [SpringCloud实践系列（二）：Ribbon负载均衡](https://juejin.cn/post/7149053391652519967) | Fri Sep 30 2022 6:19 AM 
+- 🕯 [Gradle迁移指南：从Groovy到KTS](https://juejin.cn/post/7149082070604578824) | Fri Sep 30 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    Ribbon是负载均衡器，用于解决服务集群的负载均衡。它只是一个类库，集成于消费方进程，消费方通过它来获取到服务提供方的地址。 
+    Android Gradle 插件早在 4.0 就支持在 Gradle 构建配置中使用 Kotlin 脚本 &lpar;KTS&rpar;，用于替代 Groovy，不来试试吗？ 
     </details> 
 
-- 🚀 [从源码看Vue中的render函数调用时机与执行细节](https://juejin.cn/post/7149023546046414856) | Fri Sep 30 2022 4:25 AM 
+- 🚀 [Android十大板块预习文档；告别查找繁琐](https://juejin.cn/post/7149081925989335048) | Fri Sep 30 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 摸鱼的时候看到有网友说面试问到了render函数和beforeMount钩子哪个先触发的问题，我印象中是先触发beforeMount钩子，不过本着严谨的精神，拒绝印象流，还是去翻了一下Vue2源 
+    前言 提前祝福大家国庆快乐，今天准时下班，摸摸鱼但是不要被抓到🤣，昨天晚上汇集整理了Android十个板块的内容，具体如下，已形成PDF版 从面试专题，到音视频，车载应用，性能优化，Flutter，c 
     </details> 
 
-- 💪 [浅析微前端架构下的Web性能分析](https://juejin.cn/post/7149020722575179807) | Fri Sep 30 2022 4:12 AM 
+- 💪 [使用CSS3动画和box-shadow实现炫酷行星旋转](https://juejin.cn/post/7149081789355524132) | Fri Sep 30 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    我们都知道Web性能关乎用户体验，进一步影响用户留存、转化率，显然用户体验不友好，最终导致流失。可见Web页面性能对用户和企业而言，可谓举足轻重。 因此，对Web页面的性能分析相关性能优化，是开发者不 
+    通过box-shadow和css动画实现行星旋转效果 作为开发人员，要站在用户的角度进行考虑，一些效果不能够太突兀，需要有过渡 
     </details> 
 <!-- juejin:END -->
 ### 少数派
