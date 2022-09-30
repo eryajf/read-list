@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [韩国半导体产量四年多来首次下降](https://www.cnbeta.com/articles/tech/1322761.htm) | Fri Sep 30 2022 6:35 PM 
+- 🕯 [苹果公司将2014年发售的iPhone 6加入&quot;过时产品&quot;名单](https://www.cnbeta.com/articles/tech/1322765.htm) | Fri Sep 30 2022 8:03 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司今天更新了其过时产品名单，在其中增加了iPhone 6，因为距离该设备发售已经超过5年了，不过iPhone 6发布时有一些独特的状况，所以它加入名单的时间有点与众不同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [GeForce RTX 4090定制显卡在欧洲电商现身 售价从1999到2549欧元不等](https://www.cnbeta.com/articles/tech/1322763.htm) | Fri Sep 30 2022 7:22 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;欧洲在线零售商Proshop推出了NVIDIA GeForce RTX 4090定制显卡，这是欧洲最著名的PC硬件在线商店之一。与美国零售商Newegg相比，这家在线零售商倾向提供更多定制卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [韩国半导体产量四年多来首次下降](https://www.cnbeta.com/articles/tech/1322761.htm) | Fri Sep 30 2022 6:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据韩国统计局表示，韩国半导体产量四年多来首次下降，这表明芯片制造商正面临全球需求放缓的局面。韩国统计局周五公布的数据显示，8月份半导体产量较上年同期下滑1.7%，与7月份17.3%的增幅相比大幅逆转，这也是自2018年1月以来产量首次下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Windows 11的系统托盘有了很大的改进 缺失的功能终于被填补](https://www.cnbeta.com/articles/tech/1322759.htm) | Fri Sep 30 2022 5:46 PM 
+- 🚀 [Windows 11的系统托盘有了很大的改进 缺失的功能终于被填补](https://www.cnbeta.com/articles/tech/1322759.htm) | Fri Sep 30 2022 5:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;几周前，微软从开发频道恢复了Windows 11预览版中重新设计的系统托盘。那时，我们称这种重新设计的工作是&amp;quot;一半改进，一半削弱&amp;quot;，因为改进与被删除的功能混合在一起，如将图标拖入和拖出任务栏的能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [宏碁借助英特尔Arc A770开始尝试进入独立GPU市场](https://www.cnbeta.com/articles/tech/1322757.htm) | Fri Sep 30 2022 5:42 PM 
+- 🎊 [宏碁借助英特尔Arc A770开始尝试进入独立GPU市场](https://www.cnbeta.com/articles/tech/1322757.htm) | Fri Sep 30 2022 5:42 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;PC硬件厂商宏碁今天在Twitter上宣布将以其自有品牌英特尔Arc GPU正式进入独立GPU市场。该公司将启用其面向游戏的Predator品牌，推出自己的Intel Arc A770，即Predator BiFrost。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [让病毒针对自己？这种新药可使新冠病毒“自断生路”](https://www.cnbeta.com/articles/science/1322755.htm) | Fri Sep 30 2022 5:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据29日发表在《自然·化学生物学》杂志上的论文，美国斯克利普斯研究所的科学家们设计了一种名为NMT5的新药，&lt;strong&gt;可使新冠病毒“自断生路”&lt;/strong&gt;。新冠病毒通常会附着在人类ACE2受体上进而感染细胞，而这种药物能附着在新冠病毒上，当病毒靠近细胞时，附着的药物可以暂时改变人类ACE2受体，&lt;strong&gt;这意味着病毒进入细胞的路径被阻断&lt;/strong&gt;，而在没有病毒的情况下，ACE2可以正常工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [苹果AirPods Pro 2抢先拆解：性能爆表，用料设计升级](https://www.cnbeta.com/articles/tech/1322753.htm) | Fri Sep 30 2022 3:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着苹果第一代 AirPods 真无线耳机发布，带动了TWS耳机市场的快速崛起，整个产业链从外观设计到电池、充电、芯片方案等都有了非常大的提升。后续苹果公司又相继发布了AirPods 2、AirPods Pro 和 AirPods 3等多代产品，产品性能逐步提升，功能不断丰富，深受消费者的认可，苹果产品持续占据TWS耳机榜首。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
