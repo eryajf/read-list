@@ -648,29 +648,29 @@
 ### v2方圆
 
 <!-- v2fy:START -->
-- 😺 [获取Windows商店app离线安装包](https://v2fy.com/p/2022-08-30-mic-1661837657000/) | Tue Aug 30 2022 5:52 AM 
+- 😺 [如何用macOS玩转Linux？ macOS配置Paralles 安装的 ubuntu20.04 arm64 并通过iTerm ssh自动操作虚拟机](https://v2fy.com/p/2022-09-30-parallels-1664531254000/) | Fri Sep 30 2022 9:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    title: 如何用macOS玩转Linux？ macOS配置Paralles 安装的 ubuntu20.04 [&amp;#8230;] 
+    </details> 
+
+- 💃 [获取Windows商店app离线安装包](https://v2fy.com/p/2022-08-30-mic-1661837657000/) | Tue Aug 30 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
     title: 获取Windows商店app离线安装包 推荐在线解析小工具 https://store.rg-a [&amp;#8230;] 
     </details> 
 
-- 💃 [用搜索Lite移除广告,优化安卓Color OS搜索体验](https://v2fy.com/p/2022-07-31-search-lite-1659257623000/) | Sun Jul 31 2022 9:45 AM 
+- 💡 [用搜索Lite移除广告,优化安卓Color OS搜索体验](https://v2fy.com/p/2022-07-31-search-lite-1659257623000/) | Sun Jul 31 2022 9:45 AM 
     <details><summary>展开描述 ...</summary> 
     title: 用搜索Lite移除广告,优化安卓Color OS搜索体验 我前两年换安卓一加8，是因为iOS太封 [&amp;#8230;] 
     </details> 
 
-- 💡 [轻松从微软服务器高速下载各种版本的Windows镜像](https://v2fy.com/p/2022-07-18-download-windows-1658156978000/) | Mon Jul 18 2022 3:24 PM 
+- 🐘 [轻松从微软服务器高速下载各种版本的Windows镜像](https://v2fy.com/p/2022-07-18-download-windows-1658156978000/) | Mon Jul 18 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
     title: 轻松从微软服务器高速下载各种版本的Windows镜像 网站地址：https://uupdump. [&amp;#8230;] 
     </details> 
 
-- 🐘 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/) | Sun Jul 10 2022 4:25 AM 
+- 🪜 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/) | Sun Jul 10 2022 4:25 AM 
     <details><summary>展开描述 ...</summary> 
     title: Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类 [&amp;#8230;] 
-    </details> 
-
-- 🪜 [为WordPress网站提供类似GitBook的侧边目录](https://v2fy.com/p/2022-05-22-wordpress-side-1653217493000/) | Sun May 22 2022 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    title: 为WordPress网站提供类似GitBook的侧边目录 为WordPress网站提供类似Git [&amp;#8230;] 
     </details> 
 <!-- v2fy:END -->
 
