@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [力扣：472. 连接词](https://juejin.cn/post/7149151188741521416) | Fri Sep 30 2022 12:38 PM 
+- 🤗 [Chrome 106版本升级后的Canvas Bug排查](https://juejin.cn/post/7149161800825569293) | Fri Sep 30 2022 1:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    在国庆前答疑值班中发现一个很奇怪的问题，用户把chrome升级到了106 版本后，加载前端页面居然非常的卡顿，单次卡顿的时长已经长达8秒以上，极其影响用户体验，最终定位到是Canvas的锅... 
+    </details> 
+
+- 🎡 [【数据处理】北京市租房案例实战（5）](https://juejin.cn/post/7149158656800456735) | Fri Sep 30 2022 1:07 PM 
+    <details><summary>展开描述 ...</summary> 
+    我报名参加金石计划1期挑战——瓜分10万奖池，这是我的第10篇文章，点击查看活动详情 1. 引言 1.1 任务描述： 本节，我们继续完善北京市租房数据处理实战，数据集基本处理请参考本系列文章：【数据处 
+    </details> 
+
+- 🕯 [力扣：472. 连接词](https://juejin.cn/post/7149151188741521416) | Fri Sep 30 2022 12:38 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 力扣——472. 连接词 472. 连接词 给你一个 不含重复 单词的字符串数组 words ，请你找出 
     </details> 
 
-- 🎡 [Reflect API 和 Object 静态方法的对比](https://juejin.cn/post/7149111768944476196) | Fri Sep 30 2022 10:05 AM 
+- 🚀 [22. ES6 Class 的基本语法](https://juejin.cn/post/7149150672384950285) | Fri Sep 30 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-    Proxy 一般需要和 Reflect 联合使用，Proxy 对象拦截操作，Reflect 完成默认行为，然后就可以在 Proxy 对象中部署额外的功能。 
+    1. JavaScript类的由来 1.1 生成实例对象的传统方法 JavaScript 语言中，生成实例对象的传统方法是通过构造函数。下面是一个例子。 上面这种写法跟传统的面向对象语言（比如 C++ 
     </details> 
 
-- 🕯 [线上服务宕机，码农试用期被毕业，原因竟是给MySQL加个字段](https://juejin.cn/post/7149108907250712584) | Fri Sep 30 2022 9:54 AM 
+- 💪 [聊聊 React 中被低估的 useSyncExternalStore Hooks](https://juejin.cn/post/7149140019326746654) | Fri Sep 30 2022 11:55 AM 
     <details><summary>展开描述 ...</summary> 
-    工作中最常遇到的问题，怎么给线上频繁使用的大表添加字段？有同学会说直接使用MySQL就可以添加，线下数据库怎么整都行，但是如果在线上数据库这样操作，整个服务都有宕机的风险！自己也离毕业不远了。 
-    </details> 
-
-- 🚀 [面试官：给爷手撕个轮播图吧](https://juejin.cn/post/7149104780651511839) | Fri Sep 30 2022 9:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    引言 这两年大环境不太好，前端面试难度也呈现了指数级增长，面试官一上来就让我手撕这，手撕那。我tm手撕你吧。我一天没事干去某牛招聘网站上看面筋，意外发现一个应届生吐槽面试官让他手撕轮播图。我顿时一惊， 
-    </details> 
-
-- 💪 [小米手机安装charles证书到系统证书](https://juejin.cn/post/7149098344445378568) | Fri Sep 30 2022 9:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    1.开启usb调试 设置-&gt; 更多设置 -&gt; 开发者选项 -&gt; usb调试打开 2.开启root 小米手机设置-&gt; 应用管理 -&gt; 权限管理 -&gt; 开启root 3.两个重要目录 4.执行命令获取sy 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 在 React 18 中新增加了很多 Hooks，其中包括 useSyncExternalStore&lpar;&rpar; 
     </details> 
 <!-- juejin:END -->
 ### 少数派
