@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [“要命”的广告弹窗](https://www.freebuf.com/articles/346101.html) | Fri Sep 30 2022 6:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    本该起保驾护航的汽车中控，却可能因广告弹窗成为潜在的马路杀手。 
+    </details> 
+
 - 🦄 [反转？美国国家安全局雇员向外国特工泄密，对方实为FBI卧底](https://www.freebuf.com/news/346079.html) | Fri Sep 30 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
     该雇员向一名冒充外国特工的联邦调查局卧底探员，发送被盗的机密信息摘录。 
     </details> 
 
-- 🦄 [为了被重新聘用，被解雇员工竟黑了公司网络](https://www.freebuf.com/news/346062.html) | Fri Sep 30 2022 3:31 AM 
+- 🦅 [CyberBattleSim-（内网自动化渗透）研究分析](https://www.freebuf.com/articles/network/336371.html) | Fri Sep 30 2022 3:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    CyberBattleSim是一款微软365 Defender团队开源的人工智能攻防对抗模拟工具，来源于微软的一个实验性研究项目。 
+    </details> 
+
+- 🪄 [为了被重新聘用，被解雇员工竟黑了公司网络](https://www.freebuf.com/news/346062.html) | Fri Sep 30 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     据悉，这名被解雇员工之所以这么做是为了让前公司以更高的薪水重新雇用他。 
     </details> 
 
-- 🦅 [65% 的公司正在考虑采用 VPN 替代方案](https://www.freebuf.com/news/346058.html) | Fri Sep 30 2022 3:19 AM 
+- 💻 [65% 的公司正在考虑采用 VPN 替代方案](https://www.freebuf.com/news/346058.html) | Fri Sep 30 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     VPN 风险报告表明，网络攻击者继续利用长期存在的安全漏洞，增加了对 VPN 的攻击。 
-    </details> 
-
-- 🪄 [微软：勒索组织正在将开源软件武器化](https://www.freebuf.com/news/346057.html) | Fri Sep 30 2022 3:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    微软称某勒索组织正在对合法的开源软件进行木马化，并将其用于技术、国防和媒体娱乐等许多行业的后门组织。 
-    </details> 
-
-- 💻 [一文了解智能汽车网安政策和法规](https://www.freebuf.com/articles/neopoints/345975.html) | Thu Sep 29 2022 8:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    完善的法律体系为基础，切实夯筑网络安全的底座，为智能汽车腾飞打下基础。 
     </details> 
 <!-- freebuf:END -->
 
