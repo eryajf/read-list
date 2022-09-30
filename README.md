@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [让病毒针对自己？这种新药可使新冠病毒“自断生路”](https://www.cnbeta.com/articles/science/1322755.htm) | Fri Sep 30 2022 5:14 PM 
+- 🕯 [Windows 11的系统托盘有了很大的改进 缺失的功能终于被填补](https://www.cnbeta.com/articles/tech/1322759.htm) | Fri Sep 30 2022 5:46 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;几周前，微软从开发频道恢复了Windows 11预览版中重新设计的系统托盘。那时，我们称这种重新设计的工作是&amp;quot;一半改进，一半削弱&amp;quot;，因为改进与被删除的功能混合在一起，如将图标拖入和拖出任务栏的能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [宏碁借助英特尔Arc A770开始尝试进入独立GPU市场](https://www.cnbeta.com/articles/tech/1322757.htm) | Fri Sep 30 2022 5:42 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;PC硬件厂商宏碁今天在Twitter上宣布将以其自有品牌英特尔Arc GPU正式进入独立GPU市场。该公司将启用其面向游戏的Predator品牌，推出自己的Intel Arc A770，即Predator BiFrost。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [让病毒针对自己？这种新药可使新冠病毒“自断生路”](https://www.cnbeta.com/articles/science/1322755.htm) | Fri Sep 30 2022 5:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据29日发表在《自然·化学生物学》杂志上的论文，美国斯克利普斯研究所的科学家们设计了一种名为NMT5的新药，&lt;strong&gt;可使新冠病毒“自断生路”&lt;/strong&gt;。新冠病毒通常会附着在人类ACE2受体上进而感染细胞，而这种药物能附着在新冠病毒上，当病毒靠近细胞时，附着的药物可以暂时改变人类ACE2受体，&lt;strong&gt;这意味着病毒进入细胞的路径被阻断&lt;/strong&gt;，而在没有病毒的情况下，ACE2可以正常工作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果AirPods Pro 2抢先拆解：性能爆表，用料设计升级](https://www.cnbeta.com/articles/tech/1322753.htm) | Fri Sep 30 2022 3:37 PM 
+- 🚀 [苹果AirPods Pro 2抢先拆解：性能爆表，用料设计升级](https://www.cnbeta.com/articles/tech/1322753.htm) | Fri Sep 30 2022 3:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;随着苹果第一代 AirPods 真无线耳机发布，带动了TWS耳机市场的快速崛起，整个产业链从外观设计到电池、充电、芯片方案等都有了非常大的提升。后续苹果公司又相继发布了AirPods 2、AirPods Pro 和 AirPods 3等多代产品，产品性能逐步提升，功能不断丰富，深受消费者的认可，苹果产品持续占据TWS耳机榜首。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [传索尼硅基OLED已通过苹果测试认证](https://www.cnbeta.com/articles/tech/1322751.htm) | Fri Sep 30 2022 3:23 PM 
+- 🎊 [传索尼硅基OLED已通过苹果测试认证](https://www.cnbeta.com/articles/tech/1322751.htm) | Fri Sep 30 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;供应链消息人士向集微网透露，索尼硅基OLED已经通过苹果测试认证，并加大设备采购，以扩大产能，保证苹果硅基OLED订单需求。根据韩国证券公司NH Investment&amp;amp;Securities近期发布的报告，苹果MR设备将搭载3000PPI&amp;nbsp;硅基OLED（OLED on Silicon&rpar;，于11月左右启动量产，明年第一季亮相。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Intel Arc A770、Arc A750显卡图赏](https://www.cnbeta.com/articles/tech/1322749.htm) | Fri Sep 30 2022 3:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月28日举办的创新大会上，Intel正式发布了Arc系列最高端的显卡Arc A770，10月12日正式上市。Intel显卡从高到低分别是Arc 7、Arc 5及Arc 3系列。规格方面，&lt;strong&gt;A770是满血32组Xe单元，搭配256-bit&amp;nbsp;8/16GB显存，带宽560Gbps，频率2100MHz，256bit位宽，TDP功耗225W。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [SSD价格狂跌不止：美光/铠侠等厂商纷纷减产NAND芯片](https://www.cnbeta.com/articles/tech/1322747.htm) | Fri Sep 30 2022 3:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在美光公布财报并宣布将明年的资本开支削减30%、芯片封装设备方面的投资砍掉一半后，另一大颗粒原厂铠侠（Kioxia）也坐不住了。据媒体报道，铠侠决定减少位于四日市和北上市的3D NAND产量，原因是高通胀、宏观经济不景气以及一些地缘事件造成PC、其它电子设备等需求放缓。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
