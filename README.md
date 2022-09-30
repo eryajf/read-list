@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [技术下午茶：产品经理是如何工作的？如何才算一份好的需求文档？如何设计一个简单的列表，它应该具备哪些基本功能？](https://juejin.cn/post/7149000851733479460) | Fri Sep 30 2022 2:55 AM 
+- 🤗 [【云原生】Nacos中的事件发布与订阅--观察者模式](https://juejin.cn/post/7149041953714208805) | Fri Sep 30 2022 5:35 AM 
     <details><summary>展开描述 ...</summary> 
-    经常会被产品童鞋问到关于求职面试相关的问题，作为一只从业经历5年的B端产品汪，再回过头来看待这些标准的面试问题，总是有些不同的感悟。 那么今天就来分享下在产品求职面试中会被经常问到的几个问题..... 
+    EventDispatcher EventDispatcher在Nacos中是一个事件发布与订阅的类 
     </details> 
 
-- 🎡 [shell训练营 ｜ 1. Shell 的基本介绍、常用命令以及 Shell 的流程控制](https://juejin.cn/post/7148998561785446413) | Fri Sep 30 2022 2:45 AM 
+- 🎡 [Sentinel源码5-滑动时间窗口&lpar;统计数据StatisticSlot&rpar;](https://juejin.cn/post/7149036319635669028) | Fri Sep 30 2022 5:12 AM 
     <details><summary>展开描述 ...</summary> 
-    puppeteer爬虫实现浏览器行为的自动化，shell脚本实现计算机行为的自动化；本篇为【Shell 的基本介绍、常用命令以及 Shell 的流程控制】 
+    Sentinel采用滑动时间窗口统计数据各种维度的数据，比如QPS，RT等，以及滑动时间窗口的代码实现 
     </details> 
 
-- 🕯 [iOS小技能： app侧退出登录处理流程](https://juejin.cn/post/7148996177508335647) | Fri Sep 30 2022 2:37 AM 
+- 🕯 [运维成本降低 50%，丽迅物流是如何应对大规模容器镜像管理挑战的](https://juejin.cn/post/7149022584019877919) | Fri Sep 30 2022 4:20 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 引言 登录处理流程： 上篇：前置知识https://blog.csdn.net/u011018979/a 
+    通过本文，丽迅物流运维总负责人阳磊分享了关于基于 ACR EE 加速企业业务云原生化进程的实践经验。 
     </details> 
 
-- 🚀 [84. 柱状图中最大的矩形 : 单调栈经典运用题](https://juejin.cn/post/7148995742776950815) | Fri Sep 30 2022 2:36 AM 
+- 🚀 [深挖Cerebras：世界上最大AI芯片的架构设计](https://juejin.cn/post/7149015615636766751) | Fri Sep 30 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-    我报名参加金石计划一期挑战——瓜分10万奖池，这是我的第28篇文章，点击查看活动详情 题目描述 这是 LeetCode 上的 84. 柱状图中最大的矩形 ，难度为 中等。 Tag : 「单调栈」 给定 
+    我们可以，但不是通过传统技术做到这一点，而是通过非结构化稀疏加速、晶圆级芯片和集群横向扩展的结合将性能提升三个数量级。神经网络模型规模依然呈指数级增长，可以使用这些大模型的公司很少，而且未来只会更少。 
     </details> 
 
-- 💪 [Java&amp;C++题解与拓展——leetcode面试题01.08 零矩阵【么的新知识】](https://juejin.cn/post/7148996028048670734) | Fri Sep 30 2022 2:36 AM 
+- 💪 [【Flutter 绘制探索】进度与裁剪 - CustomClipper 的使用](https://juejin.cn/post/7149007816118763527) | Fri Sep 30 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode面试题01.08 零矩阵解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 1 天，点击查看活动详情 0. 前言 在上传文件时，为了缓解等待的焦虑，一般希望显示上传的 进度，来给用户任务进度的 反馈。在 
     </details> 
 <!-- juejin:END -->
 ### 少数派
