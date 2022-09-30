@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Brave浏览器将阻止烦人的cookie数据收集询问弹窗](https://www.cnbeta.com/articles/tech/1322681.htm) | Fri Sep 30 2022 10:09 AM 
+- 🕯 [Canonical已放出Ubuntu 22.10 beta测试版本](https://www.cnbeta.com/articles/tech/1322689.htm) | Fri Sep 30 2022 11:14 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;本周四，Canonical 放出了 Ubuntu 22.10（Kinetic Kudu）操作系统的 beta 测试版本，以便在 2022 年 10 月 20 日正式发布前完成充分的测试。&lt;/strong&gt;9to5Linux 指出，新版系统采用了 5.19 版 Linux 内核。但除了 GNOME 43 之外，Canonical 也提供了多种其它风味的 Linux 桌面环境。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [又一款名为&quot;Lunar Shift&quot;的Xbox Series X/S手柄已被泄露出来](https://hot.cnbeta.com/articles/game/1322687.htm) | Fri Sep 30 2022 10:59 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;又一款新的Xbox X/S系列手柄设计似乎已经泄露，Twitter用户Espía de Ofertas在亚马逊上发现了&amp;quot;Lunar Shift&amp;quot;手柄，该手柄似乎自带银色效果，包装上将其描述为&amp;quot;超现实的光泽&amp;quot;。如果图片是真实的，该手柄将可以&amp;quot;随着光线和运动而改变颜色&amp;quot;，并在其机身上有一个&amp;quot;独特的颜色漩涡设计&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果申请了一项反向充电专利 插图描绘了两部iPhone“背靠背”](https://www.cnbeta.com/articles/tech/1322683.htm) | Fri Sep 30 2022 10:28 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;Patently Apple 刚刚曝光了一项新公布的苹果专利申请，可知其主要与 iPhone 智能机的反向充电功能有关。&lt;/strong&gt;一些人猜测，这家库比蒂诺科技巨头或很快提供无线电源分享功能。不过更有趣的是，文档中有提到 ——“将两部 iPhone 背靠背放置，以便其中一台能够给另一台充电”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Brave浏览器将阻止烦人的cookie数据收集询问弹窗](https://www.cnbeta.com/articles/tech/1322681.htm) | Fri Sep 30 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;在欧洲《通用数据保护条例》（GDPR）实施后，网上冲浪的人们还是被各个网站的“数据收集知情同意书”给烦到。&lt;/strong&gt;如下图所示，网页弹窗会询问用户是否允许广告商收集 cookie 数据。尴尬的是，就算你逐一回绝，在某些情况下，这些横幅本身也可作为追踪器 —— 因其甚至在用户有机会选择退出之前，就参与了侵犯隐私的数据交换。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究发现大部分驯鹿放牧地受到了人类活动扩张的威胁](https://www.cnbeta.com/articles/science/1322679.htm) | Fri Sep 30 2022 9:56 AM 
+- 🎊 [研究发现大部分驯鹿放牧地受到了人类活动扩张的威胁](https://www.cnbeta.com/articles/science/1322679.htm) | Fri Sep 30 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;驯鹿放牧在挪威北部、瑞典和芬兰有着悠久的历史。它塑造了芬诺斯堪迪亚山脉的景观，也被视为缓解气候变化对植被影响的手段。然而一项新的研究显示，这种放牧地的大部分面临着累积的压力并受到人类活动向北扩展的威胁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [苹果韩总部遭反垄断机构突击检查，被指向开发者收取33%佣金](https://www.cnbeta.com/articles/tech/1322677.htm) | Fri Sep 30 2022 9:48 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果的韩国总部被反垄断监管机构突击检查，因为有开发者投诉苹果向他们收取超30%的标准App Store佣金率。&lt;/strong&gt;当地媒体周一报道了韩国公平贸易委员会&lpar;KFTC&rpar;的黎明突袭行动，Foss Patents博客周五也进行了报道，其强调了该国对苹果涉嫌滥用市场力量的持续调查。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [欧米茄推出Speedmaster X-33 Marstimer火星表 售6400美元](https://www.cnbeta.com/articles/tech/1322675.htm) | Fri Sep 30 2022 9:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;尽管尚未有人类宇航员踏上火星，但这并不能阻挡欧米茄（Omega）与欧洲宇航局（ESA）合作开发 Speedmaster X-33 Marstimer 手表。&lt;/strong&gt;作为一款能够追踪时间的模拟 / 数字石英表，它不仅能够在地球上使用、同时也做好了奔赴红色星球的准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [芯片大厂 跌跌不休](https://www.cnbeta.com/articles/tech/1322673.htm) | Fri Sep 30 2022 9:29 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;过去很长一段时间困扰全球半导体业的芯片短缺，似乎有了明显的缓解。反映到资本市场上，由于市场需求放缓和芯片制造商的库存增加，整个半导体行业将出现低迷，于是投资者开始纷纷抛售半导体巨头的股票，英伟达、英特尔、台积电、联发科等半导体芯片巨头股价开始大幅下跌，进入技术性熊市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
