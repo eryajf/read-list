@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Parseable Log Storage - 简单、高效、快速的日志存储和查询系统](https://xinquji.com/posts/180007?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:34 AM 
+- 👀 [10X Managers - 成为高绩效经理和领导者](https://xinquji.com/posts/180017?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-     简单、高效、快速的日志存储和查询系统  
+     成为高绩效经理和领导者  
     </details> 
 
-- 🥷 [Freelancer Kit - 使用 Notion 轻松管理您的自由职业者业务](https://xinquji.com/posts/180006?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:33 AM 
+- 🥷 [Personal Money Manager - 您的多合一个人资金管理系统](https://xinquji.com/posts/180016?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 Notion 轻松管理您的自由职业者业务  
+     您的多合一个人资金管理系统  
     </details> 
 
-- 💼 [Dockcase 2.5&amp;quot; Smart Hard Drive Enclosure - 您的数据守护者，不再担心数据丢失](https://xinquji.com/posts/180005?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:31 AM 
+- 💼 [The Ultimate Web3 Pocket Guide - 详细的、技术性的、包罗万象的 web3 领域指南](https://xinquji.com/posts/180015?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     您的数据守护者，不再担心数据丢失  
+     详细的、技术性的、包罗万象的 web3 领域指南  
     </details> 
 
-- 🦅 [Alphalerts - 收件箱的智能选项、股票和加密警报](https://xinquji.com/posts/180004?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:31 AM 
+- 🦅 [Jobs from Larry - 你梦想的工作现在只是一条推文](https://xinquji.com/posts/180014?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     收件箱的智能选项、股票和加密警报  
+     你梦想的工作现在只是一条推文  
     </details> 
 
-- 😺 [Astogi - Asana 中的自动唯一任务编号并跟踪提交](https://xinquji.com/posts/180003?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:29 AM 
+- 😺 [Ringermetrics - Oura Ring 的漂亮而现代的 Web 仪表板](https://xinquji.com/posts/180013?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     Asana 中的自动唯一任务编号并跟踪提交  
+     Oura Ring 的漂亮而现代的 Web 仪表板  
     </details> 
 <!-- xinquji:END -->
