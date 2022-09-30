@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果公司将2014年发售的iPhone 6加入&quot;过时产品&quot;名单](https://www.cnbeta.com/articles/tech/1322765.htm) | Fri Sep 30 2022 8:03 PM 
+- 🕯 [网传《极品飞车22》测试计划于10/13-18进行](https://hot.cnbeta.com/articles/game/1322773.htm) | Fri Sep 30 2022 9:02 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据报道，Criterion Games的《极品飞车》（极品飞车22）新作名为《极品飞车：无束》（Need for Speed Unbound），这款游戏的情报已经流传了很长一段时间。一些游戏实机内容已经泄露，展示了更多程式化的“动漫元素”，内部人士汤姆·亨德森表示，新作公布近在咫尺。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果公司CEO蒂姆·库克：&quot;我不确定普通人是否能解释什么是元宇宙&quot;](https://www.cnbeta.com/articles/tech/1322771.htm) | Fri Sep 30 2022 8:58 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司首席执行官蒂姆-库克本周一直在欧洲巡回演出，接受各种媒体出版物的采访。增强现实一直是库克讨论的一个主题，这也是他在接受荷兰出版物《Bright》（隶属RTL新闻）采访时再次提出的一个话题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Google发布Lyra V2超低比特率语音编解码器](https://www.cnbeta.com/articles/tech/1322769.htm) | Fri Sep 30 2022 8:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;去年，Google宣布了用于低比特率的Lyra语音编解码器，与开放的AV1编解码器相结合，可以在20多年前的56kbps的Modem连接上实现语音聊天。Lyra利用机器学习和其他技术进行极低比特率的语音压缩后，甚至可以在3kbps的速度下顽强工作。Google去年开放了Lyra的源码，而今天他们宣布了Lyra V2的可用性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Backdoor.Stegmap：一种隐藏在微软Windows标志中的恶意软件](https://www.cnbeta.com/articles/tech/1322767.htm) | Fri Sep 30 2022 8:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;基于恶意软件的活动正在变成越来越复杂的威胁，能够针对多种设备和操作系统。新的技术和&amp;quot;技巧&amp;quot;不断被添加，而已经知道的解决方案往往时不时地重新出现。隐写术，虽然既不是一种新技术，也不是一种在图像中隐藏数据的流行技术，但确实被一个名为Witchetty的组织用于新的间谍软件活动中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [苹果公司将2014年发售的iPhone 6加入&quot;过时产品&quot;名单](https://www.cnbeta.com/articles/tech/1322765.htm) | Fri Sep 30 2022 8:03 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果公司今天更新了其过时产品名单，在其中增加了iPhone 6，因为距离该设备发售已经超过5年了，不过iPhone 6发布时有一些独特的状况，所以它加入名单的时间有点与众不同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [GeForce RTX 4090定制显卡在欧洲电商现身 售价从1999到2549欧元不等](https://www.cnbeta.com/articles/tech/1322763.htm) | Fri Sep 30 2022 7:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;欧洲在线零售商Proshop推出了NVIDIA GeForce RTX 4090定制显卡，这是欧洲最著名的PC硬件在线商店之一。与美国零售商Newegg相比，这家在线零售商倾向提供更多定制卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [韩国半导体产量四年多来首次下降](https://www.cnbeta.com/articles/tech/1322761.htm) | Fri Sep 30 2022 6:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据韩国统计局表示，韩国半导体产量四年多来首次下降，这表明芯片制造商正面临全球需求放缓的局面。韩国统计局周五公布的数据显示，8月份半导体产量较上年同期下滑1.7%，与7月份17.3%的增幅相比大幅逆转，这也是自2018年1月以来产量首次下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Windows 11的系统托盘有了很大的改进 缺失的功能终于被填补](https://www.cnbeta.com/articles/tech/1322759.htm) | Fri Sep 30 2022 5:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;几周前，微软从开发频道恢复了Windows 11预览版中重新设计的系统托盘。那时，我们称这种重新设计的工作是&amp;quot;一半改进，一半削弱&amp;quot;，因为改进与被删除的功能混合在一起，如将图标拖入和拖出任务栏的能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [宏碁借助英特尔Arc A770开始尝试进入独立GPU市场](https://www.cnbeta.com/articles/tech/1322757.htm) | Fri Sep 30 2022 5:42 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;PC硬件厂商宏碁今天在Twitter上宣布将以其自有品牌英特尔Arc GPU正式进入独立GPU市场。该公司将启用其面向游戏的Predator品牌，推出自己的Intel Arc A770，即Predator BiFrost。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
