@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [13代酷睿平台专享：英特尔演示可让电脑智能待机的Wi-Fi Sensing技术](https://www.cnbeta.com/articles/tech/1322607.htm) | Fri Sep 30 2022 5:58 AM 
+- 🕯 [AMD向渠道合作伙伴披露2022-2023桌面芯片路线图 锐龙7000X3D在列](https://www.cnbeta.com/articles/tech/1322641.htm) | Fri Sep 30 2022 7:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前，我们已经在某些消费电子设备上见到过基于蓝牙信号检测的“近距感应”、并且能够通过手表给配对的手机 / 笔记本电脑智能上锁或解锁的功能演示。但在本月早些时候的一项演示中，英特尔还介绍了基于 Wi-Fi 无线网络的智能感知体验。&lt;strong&gt;具体说来是，在 Wi-Fi Proximity Sensing 功能开启后，电脑可根据特定的无线频率变化，来了解用户何时接近或远离了系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由 @benson60843125 和 @sebuahsarang 在 Twitter 上分享的谍照可知，AMD 已经向渠道合作伙伴披露了 2022-2023 年的桌面芯片路线图。&lt;strong&gt;除了证实 Ryzen 7000X3D 的存在，可知 Ryzen 5000 系列处理器也会与之一同演进。&lt;/strong&gt;从时间表来看，Ryzen Threadripper 5000 系列 HEDT 产品线会到 2023 年底才被取代，但目前尚不清楚后续的规划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [日本东京国立博物馆将高达纳入“未来国宝”展览](https://hot.cnbeta.com/articles/comic/1322605.htm) | Fri Sep 30 2022 5:54 AM 
+- 💼 [Blainjet半旋翼机概念有望实现前所未有的VTOL性能](https://www.cnbeta.com/articles/tech/1322639.htm) | Fri Sep 30 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;万代南梦宫 Filmworks在秋季活动 Gundam Conference 2022 中宣布，日本东京国立博物馆将在其“150年后的国宝展”展览中展示高达系列。&lt;/strong&gt;该系列的一系列物品将与 2022 年 11月 2 日至 2023 年 1月 29 日期间展出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1322605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Blainjett的半球形旋翼概念带来了一种完全独特和左翼的VTOL飞行方式。该公司在开发Horizon eVTOL悬浮摩托时提出了这个想法的骨架并试图解决如何产生大量有效的垂直推力而不占用大量空间或让旁人接触快速旋转的螺旋桨的问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [智利科学家发现1.2万年前动物遗骸 或为大象近亲](https://www.cnbeta.com/articles/science/1322603.htm) | Fri Sep 30 2022 5:51 AM 
+- 💂 [刘强东明州案将于10月3日开庭：双方均亲自出庭，刘强东章泽天日前已现身美国](https://www.cnbeta.com/articles/tech/1322637.htm) | Fri Sep 30 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据路透社当地时间27日报道，&lt;strong&gt;近期，智利科学家在该国南部一冰川湖附近发现了几个可追溯到12000年前的生物遗骸。&lt;/strong&gt;科学家们推测，这些重达4吨，高约3米的大型生物可能是现代大象已经灭绝的近亲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;搜狐科技获悉，北京时间10月3日晚10点（美国明尼苏达州10月3日早9点），刘强东“明州事件”民事诉讼将开庭审理，据了解，刘强东与案件女方Liu Jingyao将亲自出庭。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [奔驰与沃尔沃汽车因风暴暂停美国工厂生产](https://www.cnbeta.com/articles/tech/1322601.htm) | Fri Sep 30 2022 5:48 AM 
+- 🚀 [软银或对愿景基金裁员超三成 上季度巨亏230亿美元](https://www.cnbeta.com/articles/tech/1322635.htm) | Fri Sep 30 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;梅赛德斯奔驰和沃尔沃汽车在9月29日宣布，将暂停各自位于美国南卡罗莱纳州的工厂，原因是一场大规模风暴即将来临。在此之前，这场风暴已经在美国造成大规模破坏，并导致至少7人死亡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;综合外媒报道，&lt;strong&gt;软银集团计划对旗下愿景基金裁员超30%。在截至6月的三个月，软银集团遭遇史诗级巨亏。&lt;/strong&gt;据彭博社援引知情人士消息报道，软银集团已开始在亏损的愿景基金裁员，预计裁员人数将超过30%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美第二季度GDP下滑0.6% 经济陷入技术性衰退](https://www.cnbeta.com/articles/tech/1322599.htm) | Fri Sep 30 2022 5:47 AM 
+- 🎊 [翼龙无人机在“中华水塔”开展人工降雨](https://www.cnbeta.com/articles/tech/1322633.htm) | Fri Sep 30 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间9月29日，美国商务部公布的最终修正数据显示，2022年第二季度美国国内生产总值（GDP）按年率计算下降0.6%，与此前公布的修正数据持平。这也意味着美国经济连续两个季度出现下滑，陷入技术性衰退。分析认为，随着美联储持续激进加息对各项经济活动产生抑制作用，美国今年下半年的经济前景也不容乐观。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《环球时报》记者30日从航空工业处获悉，9月27日，中国气象局人工影响天气中心联合中国气象局气象探测中心、中国航空工业集团有限公司（以下简称“航空工业”）所属中航无人机公司等多家单位，在“中华水塔”三江源地区的阿尼玛卿冰川地区，利用搭载了云微物理探测和人工影响天气催化设备的翼龙-2H大型无人机，对降水云系进行探测并成功实施人工增雨（雪）催化作业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
