@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【云原生】Nacos中的事件发布与订阅--观察者模式](https://juejin.cn/post/7149041953714208805) | Fri Sep 30 2022 5:35 AM 
+- 🤗 [火山引擎 RTC 自研音频编码器 NICO 实践之路](https://juejin.cn/post/7149067909468258335) | Fri Sep 30 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-    EventDispatcher EventDispatcher在Nacos中是一个事件发布与订阅的类 
+    RTC 自研 NICO 编码器给出的解决方案，兼容 Opus 编码器的同时，提供更高的编码质量和抗丢包能力。 
     </details> 
 
-- 🎡 [Sentinel源码5-滑动时间窗口&lpar;统计数据StatisticSlot&rpar;](https://juejin.cn/post/7149036319635669028) | Fri Sep 30 2022 5:12 AM 
+- 🎡 [前端也学一下 Lua 呀](https://juejin.cn/post/7149062790848708616) | Fri Sep 30 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-    Sentinel采用滑动时间窗口统计数据各种维度的数据，比如QPS，RT等，以及滑动时间窗口的代码实现 
+    为什么要学 lua ？ neovim/nvchad/... 支持 lua 写配置文件 WezTerm 也是用 lua 写配置文件 用 lua 写配置，其实更多的是倾向于嵌入式编程，写配置用 json/ 
     </details> 
 
-- 🕯 [运维成本降低 50%，丽迅物流是如何应对大规模容器镜像管理挑战的](https://juejin.cn/post/7149022584019877919) | Fri Sep 30 2022 4:20 AM 
+- 🕯 [图解Seata AT模式TM处理流程](https://juejin.cn/post/7148965129399795719) | Fri Sep 30 2022 12:36 AM 
     <details><summary>展开描述 ...</summary> 
-    通过本文，丽迅物流运维总负责人阳磊分享了关于基于 ACR EE 加速企业业务云原生化进程的实践经验。 
+    我们根据源码解读画出了下图，该图示展现了TM在整个Seata AT模式的分布式事务中所起的作用，从上图中可以看出，TM主要有两个作用 
     </details> 
 
-- 🚀 [深挖Cerebras：世界上最大AI芯片的架构设计](https://juejin.cn/post/7149015615636766751) | Fri Sep 30 2022 3:52 AM 
+- 🚀 [图解LeetCode——面试题 01.08. 零矩阵（难度：中等）](https://juejin.cn/post/7148873270052257800) | Thu Sep 29 2022 7:08 PM 
     <details><summary>展开描述 ...</summary> 
-    我们可以，但不是通过传统技术做到这一点，而是通过非结构化稀疏加速、晶圆级芯片和集群横向扩展的结合将性能提升三个数量级。神经网络模型规模依然呈指数级增长，可以使用这些大模型的公司很少，而且未来只会更少。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 一、题目 编写一种算法，若M × N 矩阵中某个元素为0，则将其所在的行与列清零。 二、示例 2.1&gt;  
     </details> 
 
-- 💪 [【Flutter 绘制探索】进度与裁剪 - CustomClipper 的使用](https://juejin.cn/post/7149007816118763527) | Fri Sep 30 2022 3:22 AM 
+- 💪 [iOS老司机可落地的中大型iOS项目中的设计模式优化Tips](https://juejin.cn/post/7148829090995240974) | Thu Sep 29 2022 3:48 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 1 天，点击查看活动详情 0. 前言 在上传文件时，为了缓解等待的焦虑，一般希望显示上传的 进度，来给用户任务进度的 反馈。在 
+    我正在参加「掘金·启航计划」 1. 前言: 设计模式可以在大型项目中有哪些可落地的优化？ 本人目前负责一个中大型iOS项目，用PPRows跑一下项目根文件，目前代码量约28W。 在这样一个大型项目中， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
