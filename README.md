@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [十一宅家出行都适宜，这些产品值得选购](https://sspai.com/post/75982) | Fri Sep 30 2022 9:00 AM 
+- 👹 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/76013) | Fri Sep 30 2022 10:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[国产]三悦有了新工作、[电影]子弹列车、[国产]底线、[动画]爱跃星空Entergalactic、[英剧]古宅老友记第四季、[美剧]怪物：杰夫瑞·达莫故事、[动画]永久少 ...&lt;a href=&quot;https://sspai.com/post/76013&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派周报：搜索的边界](https://sspai.com/prime/story/pi-weekly-011) | Fri Sep 30 2022 9:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    时至今日，搜索的入口、方式都前所未有地丰富，「能不能搜到」的问题日渐变成「搜到之后怎么办」的问题。在这样的背景下，掌握具体的搜索技巧尽管仍有价值，但尽早意识到搜索的能力边界，提高自己鉴别信息来源、去伪存真的能力，或许才是更面向未来的「比特素养」。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-011&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🤭 [十一宅家出行都适宜，这些产品值得选购](https://sspai.com/post/75982) | Fri Sep 30 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
     国庆即将到来，我们为你挑选了一批实用的玩意，有些适合家中，有些也可以方便你的外出旅游。&lt;a href=&quot;https://sspai.com/post/75982&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [这些关于摄影的装备、技巧和理论，助你假期拍摄更顺利](https://sspai.com/post/75837) | Fri Sep 30 2022 8:36 AM 
+- 🥸 [这些关于摄影的装备、技巧和理论，助你假期拍摄更顺利](https://sspai.com/post/75837) | Fri Sep 30 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
     在踏上长假旅途之前，先从头脑到装备武装起来吧。&lt;a href=&quot;https://sspai.com/post/75837&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm) | Fri Sep 30 2022 6:20 AM 
+- 🙉 [在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm) | Fri Sep 30 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
     获得完全无缝的「节假日闹钟」体验，iOS 用户终于不用再羡慕 Android 用户的节假日闹钟了。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/shortcuts-holiday-alarm&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🥸 [户外不完全吃饱指南](https://sspai.com/post/75980) | Fri Sep 30 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    说在前面过去几年，户外运动越发受人们关注。大量的城市人口受够了压抑的「钢铁森林」，转而寻觅真正的森林解放压力。户外活动条件多变，限制也比较多，当然为了不仅仅是满足吃饱肚子，实际上也要兼顾到不同的环境和 ...&lt;a href=&quot;https://sspai.com/post/75980&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：Cloudflare 推出 CAPTCHA 替代方案 Turnstile、Google 宣布关闭 Stadia 云游戏串流平台](https://sspai.com/post/76002) | Fri Sep 30 2022 1:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    Adobe 承诺 Figma 会继续使用当前免费增值的定价模式，雷蛇将推出 5G 游戏掌机等&lt;a href=&quot;https://sspai.com/post/76002&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
