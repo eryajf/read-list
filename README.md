@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google预热Pixel 7：三种配色 多角度展示](https://www.cnbeta.com/articles/tech/1322585.htm) | Fri Sep 30 2022 3:49 AM 
+- 🕯 [13代酷睿平台专享：英特尔演示可让电脑智能待机的Wi-Fi Sensing技术](https://www.cnbeta.com/articles/tech/1322607.htm) | Fri Sep 30 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在两天前放出 Pixel 7 Pro 的预热短视频之后，今天 Google 再次放出了 Pixel 7 的预热视频。在这段 50 秒的视频中，同样以多角度展示 Pixel 7 的外观设计，可以看到 Obsidian、Snow 和 Lemongrass 三种颜色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前，我们已经在某些消费电子设备上见到过基于蓝牙信号检测的“近距感应”、并且能够通过手表给配对的手机 / 笔记本电脑智能上锁或解锁的功能演示。但在本月早些时候的一项演示中，英特尔还介绍了基于 Wi-Fi 无线网络的智能感知体验。&lt;strong&gt;具体说来是，在 Wi-Fi Proximity Sensing 功能开启后，电脑可根据特定的无线频率变化，来了解用户何时接近或远离了系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《莎木》动画版或将只有一季 第二季虽已筹备但无定数](https://hot.cnbeta.com/articles/comic/1322583.htm) | Fri Sep 30 2022 3:46 AM 
+- 💼 [日本东京国立博物馆将高达纳入“未来国宝”展览](https://hot.cnbeta.com/articles/comic/1322605.htm) | Fri Sep 30 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;经典游戏改编的《莎木》动画版制作人Jason DeMarco日前发推谈到了动画版的进展，&lt;strong&gt;表示担忧《莎木》动画版或将只有一季，因为目前关于第二季的准备工作很顺利，但迟迟没有上级官方的明确指示。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1322583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;万代南梦宫 Filmworks在秋季活动 Gundam Conference 2022 中宣布，日本东京国立博物馆将在其“150年后的国宝展”展览中展示高达系列。&lt;/strong&gt;该系列的一系列物品将与 2022 年 11月 2 日至 2023 年 1月 29 日期间展出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1322605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [漫威真人剧集《装甲战争》将改成电影](https://hot.cnbeta.com/articles/movie/1322581.htm) | Fri Sep 30 2022 3:45 AM 
+- 💂 [智利科学家发现1.2万年前动物遗骸 或为大象近亲](https://www.cnbeta.com/articles/science/1322603.htm) | Fri Sep 30 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;来自外媒的报道称，漫威正在制作当中的真人剧集《装甲战争》将改成电影。&lt;/strong&gt;该剧集最早于2020年宣布，此后一直没有公开消息，粉丝甚至一度认为该剧已被抛弃。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据路透社当地时间27日报道，&lt;strong&gt;近期，智利科学家在该国南部一冰川湖附近发现了几个可追溯到12000年前的生物遗骸。&lt;/strong&gt;科学家们推测，这些重达4吨，高约3米的大型生物可能是现代大象已经灭绝的近亲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [雪铁龙将其最新EV概念车缩减为MPV微型皮卡](https://www.cnbeta.com/articles/tech/1322579.htm) | Fri Sep 30 2022 3:43 AM 
+- 🚀 [奔驰与沃尔沃汽车因风暴暂停美国工厂生产](https://www.cnbeta.com/articles/tech/1322601.htm) | Fri Sep 30 2022 5:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;雪铁龙试图实现“以少胜多”，其提出了将概念车转为量产车Ami的后续产品。据了解，全新的Oli是一款家庭大小的电动车，具有类似SUV的实用性、MPV的多功能性和城市通勤车的尺寸和效率。它有坚固的迷你Hummer外观、小皮卡床、248英里（400公里）的全电动动力系统及大量可持续发展的部件和表面处理。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;梅赛德斯奔驰和沃尔沃汽车在9月29日宣布，将暂停各自位于美国南卡罗莱纳州的工厂，原因是一场大规模风暴即将来临。在此之前，这场风暴已经在美国造成大规模破坏，并导致至少7人死亡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果关闭iOS 16/16.0.1签署通道 但可降级至iOS 15.7](https://www.cnbeta.com/articles/tech/1322577.htm) | Fri Sep 30 2022 3:42 AM 
+- 🎊 [美第二季度GDP下滑0.6% 经济陷入技术性衰退](https://www.cnbeta.com/articles/tech/1322599.htm) | Fri Sep 30 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在经过 3 个月的 Beta 测试之后，iOS 16 于今年 9 月 12 日正式发布。随后苹果推出了两个维护版本更新 iOS 16.0.1 和 iOS 16.0.2。&lt;strong&gt;今天苹果宣布不再为 iOS 16 和 iOS 16.0.1 提供签署服务，这意味着已升级 iOS 16.0.2 用户无法降级了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间9月29日，美国商务部公布的最终修正数据显示，2022年第二季度美国国内生产总值（GDP）按年率计算下降0.6%，与此前公布的修正数据持平。这也意味着美国经济连续两个季度出现下滑，陷入技术性衰退。分析认为，随着美联储持续激进加息对各项经济活动产生抑制作用，美国今年下半年的经济前景也不容乐观。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
