@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国产大飞机C919正式拿证：内部设计首次公开](https://www.cnbeta.com/articles/tech/1322729.htm) | Fri Sep 30 2022 1:53 PM 
+- 🕯 [迄今最大的便携式电池Zendure SuperBase V开始众筹](https://www.cnbeta.com/articles/tech/1322737.htm) | Fri Sep 30 2022 2:02 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;。&lt;/strong&gt;6.4千瓦时的轮上电池不仅可以通过可堆叠的模块扩展到64千瓦时，而且它将电子储存在该公司所谓的 &amp;quot;第一个半固态电池的家庭能源系统 &amp;quot;中。它可以接受高达3000瓦的太阳能输入，可以在2级电动车站充电，并包括外部行车灯、语音控制和电动车轮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [微软在最新Windows 11测试版中新增有关Widgets小工具的设置项](https://www.cnbeta.com/articles/tech/1322735.htm) | Fri Sep 30 2022 2:01 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;微软在开发频道向用户发布了一个新的Windows 11预览版构建，根据官方的更新日志，其中一个基本的改进是针对小工具的。原始版本的Windows 11带有小工具，这是一个新功能，后来有了很大的发展，最新的Windows 11预览版构建进一步发展了它。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Windows 11任务栏的上下文菜单喜迎任务管理器的回归](https://www.cnbeta.com/articles/tech/1322733.htm) | Fri Sep 30 2022 1:57 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;最近的Windows 11预览版对那些希望以更容易的方式访问任务管理器的用户来说是个好消息。&lt;/strong&gt;近两年前推出的第一版Windows 11将任务管理器的上下文菜单快捷方式从任务栏移至开始菜单。不言而喻，一些人在寻找该应用程序时感到迷茫，所以这方面的反馈是比较明显的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [iPhone 14面板订单与iPhone 13相比下降38% Pro Max生产强劲](https://www.cnbeta.com/articles/tech/1322731.htm) | Fri Sep 30 2022 1:56 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;我们已经听说了不少关于iPhone 14 Pro机型的销售情况比iPhone 14系列的其他机型好的消息。现在，Display Supply Chain Consultants公司的分析师Ross Young（罗斯·杨）有了一些额外的数据支撑这种说法，这次的重点是iPhone 14和iPhone 14 Pro的出货量与去年的iPhone 13阵容相比。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [国产大飞机C919正式拿证：内部设计首次公开](https://www.cnbeta.com/articles/tech/1322729.htm) | Fri Sep 30 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据央视、中国商飞的官方消息，&lt;strong&gt;中国民航局已经正式向中国商飞公司颁发了国产大飞机C919的型号合格证，为其交付并投入商业运营打开了最有决定性的绿灯！&lt;/strong&gt;同时，C919项目团队代表也接受了国家高规格的接待并发去贺信。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [环球影业请到新锐写手苏贾塔·黛执笔 筹拍全新《美国派》](https://hot.cnbeta.com/articles/movie/1322727.htm) | Fri Sep 30 2022 1:51 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;环球影业请到新锐写手苏贾塔·黛执笔《美国派》新片，原作于99年公映，创下2.35亿美元全球票房。眼见钱来如此容易，环球接连量产了三部续作与五部番外篇。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [飓风伊恩淹没了佛罗里达州的一些医院 更多的基础设施面临挑战](https://www.cnbeta.com/articles/tech/1322725.htm) | Fri Sep 30 2022 1:49 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项新的研究发现，海平面的上升和风暴强度的增加将使越来越多的医院面临洪水的危险，就像本周面临飓风伊恩的医院。本周，伊恩使水涌入位于佛罗里达州夏洛特港的HCA佛罗里达福赛特医院。周三，飓风在迈尔斯堡以北的沿海城市肆虐，淹没了建筑物的下层，狂风还掀开屋顶让瓢泼大雨从上面灌进来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [联想网站展示基于第十代ThinkPad X1 Carbon打造的30周年纪念版](https://www.cnbeta.com/articles/tech/1322723.htm) | Fri Sep 30 2022 1:45 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;五年前，联想以ThinkPad 25庆祝其ThinkPad品牌成立25周年，这是一款特别版的ThinkPad，采用经典的IBM风格键盘。&lt;strong&gt;又是五年过去，联想正在推出另一款纪念版的ThinkPad，需要注意的是这款号称新的30周年纪念版的ThinkPad X1 Carbon G10并没有像上一次那样安装IBM复古键盘。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [电动汽车初创公司Arrival已经生产出其第一辆测试用整车](https://www.cnbeta.com/articles/tech/1322721.htm) | Fri Sep 30 2022 1:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;电动汽车初创公司Arrival周五表示，它已经生产出其第一辆电池电动车，这是向其大规模向商业客户提供面包车的目标迈出的重要一步。Arrival公司的面包车是在该公司位于英国比斯特的微型工厂生产的第一辆车，该工厂的工艺与众不同，使用自主移动机器人来完成组装，而不是传统的装配线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
