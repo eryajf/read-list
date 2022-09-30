@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [背景跟随滑动的按钮菜单效果](https://juejin.cn/post/7149188833421033485) | Fri Sep 30 2022 3:04 PM 
+- 🤗 [Swift - LeetCode - 判断子序列](https://juejin.cn/post/7149201975799152671) | Fri Sep 30 2022 3:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 题目 给定字符串 s 和 t，判断 s 是否为 t 的子序列。 字符串的一个子序列是原始字符串删除一些（ 
+    </details> 
+
+- 🎡 [测试文](https://juejin.cn/post/7149197002138468366) | Fri Sep 30 2022 3:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    Cloud Studio 是基于浏览器的集成式开发环境（IDE），为开发者提供了一个稳定的云端工作站。用户在使用 Cloud Studio 时无需安装，随时随地打开浏览器就能使用。底层资源自动弹性扩缩 
+    </details> 
+
+- 🕯 [JavaScript基础与变量](https://juejin.cn/post/7149194077353803807) | Fri Sep 30 2022 3:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    语句 JavaScript 程序的执行单位为行（line），也就是一行一行地执行。一般情况下，每一行就是一个语句。语句（statement）是为了完成某种任务而进行的操作，比如下面就是一行赋值语句。  
+    </details> 
+
+- 🚀 [CSS实现背景跟随滑动的按钮菜单效果](https://juejin.cn/post/7149188833421033485) | Fri Sep 30 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
     通过transition过渡属性，可以将相关css属性的变化，改为一个持续一段时间的连续过程，而不是使css样式的改变立即生效，其过程按照指定的曲线速率变化...... 
     </details> 
 
-- 🎡 [【算法题解】 Day2 字符串](https://juejin.cn/post/7149186065751310350) | Fri Sep 30 2022 2:57 PM 
+- 💪 [【算法题解】 Day2 字符串](https://juejin.cn/post/7149186065751310350) | Fri Sep 30 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
     今天的算法是 字符串 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
-    </details> 
-
-- 🕯 [02 - JSX? 是什么](https://juejin.cn/post/7149173045344043022) | Fri Sep 30 2022 2:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 React使用JSX进行开发，什么是JSX 与JavaScript有什么区别呢？ 一、JSX 在介绍JS 
-    </details> 
-
-- 🚀 [一条道简单的算法引发的思考](https://juejin.cn/post/7149163392425525262) | Fri Sep 30 2022 1:25 PM 
-    <details><summary>展开描述 ...</summary> 
-    前两天有个小兄弟问我一道数据结构简单的算法题怎么做，题目如下一看到题目，心里想：这不就是简单的`xxx`题目吗，于是我很快就给他写了出来，后面发现才发现没那么简单。。。 
-    </details> 
-
-- 💪 [Chrome 106版本升级后的Canvas Bug排查](https://juejin.cn/post/7149161800825569293) | Fri Sep 30 2022 1:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    在国庆前答疑值班中发现一个很奇怪的问题，用户把chrome升级到了106 版本后，加载前端页面居然非常的卡顿，单次卡顿的时长已经长达8秒以上，极其影响用户体验，最终定位到是Canvas的锅... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
