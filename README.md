@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [24.5%！全新溶剂使3D/2D双层钙钛矿光伏电池更加稳定高效](https://www.cnbeta.com/articles/science/1322661.htm) | Fri Sep 30 2022 8:24 AM 
+- 🕯 [《小美人鱼》女主亮相巴黎时装周 造型让人一眼难忘](https://hot.cnbeta.com/articles/movie/1322671.htm) | Fri Sep 30 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;长期以来，太阳能电池一直是全球可再生能源愿景的一部分，但目前市场上的太阳能电池大多使用硅作为材料，这使得它们的造价相对较高。这就是金属卤化物钙钛矿出现的原因。这种晶体结构不仅能将光转化为电能，成本也比硅基光伏电池低得多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日《小美人鱼》真人电影主演哈莉·贝利在巴黎时装周亮相，她的造型让人看一眼便难忘，窒息感瞬涌。一起来欣赏下她的美图吧！此前哈莉·贝利因长相和肤色遭网暴后，还发自拍照并附文：“艰难困苦，玉汝于成&lpar;what doesn’t kill you makes you stronger&rpar;”，她还配了一个吐舌头的表情，以示自己心情不错，能坦然面对那些网络上的闲言碎语。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [争议不断的Palantir宣布与美国国防部续签了价值2.29亿美元的合约](https://www.cnbeta.com/articles/tech/1322659.htm) | Fri Sep 30 2022 8:21 AM 
+- 💼 [FAA：波音尚未提交对737MAX7进行认证的关键文件](https://www.cnbeta.com/articles/tech/1322669.htm) | Fri Sep 30 2022 9:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;周四的时候，陷入争议的数据分析公司 Palantir Technologies 宣布，其已被美国国防部授予一份价值 2.29 亿美元的合约。&lt;/strong&gt;在一年的合约期内，该公司将为特种部队、联合参谋部和武装部队的所有分支机构，提供人工智能（AI）和机器学习（ML）的技术支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国联邦航空管理局（FAA）向波音公司（BA.US）表示，该公司尚未完成在12月前认证737 MAX 7所需的关键工作。FAA航空安全执行主任Lirio Liu在9月19日的信中告知波音，该机构对飞机制造商提交的文件感到担忧，并寻求讨论“接收剩余文件的时间”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [理想One换代车型理想L8今日上市：百项豪华配置 综合续航可达1315公里](https://www.cnbeta.com/articles/tech/1322657.htm) | Fri Sep 30 2022 8:19 AM 
+- 💂 [“喊一嗓子”就能让小球悬空？不是魔法，是声音的力量](https://www.cnbeta.com/articles/science/1322667.htm) | Fri Sep 30 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月30日15:00，理想汽车L8发布会举办，作为理想ONE的“接棒者”，理想L8此次亮相也同步上市。L8共推出两款车型，&lt;strong&gt;L8 Pro和L8 Max，价格分别为35.98万和39.98万元，&lt;/strong&gt;新车即刻开订，11月初正式开启交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;没有人接触这个小球，但是它稳稳当当停在半空中。这是什么魔法吗？不，这是超声悬浮的魅力。著名科幻作家亚瑟·克拉克（Arthur C. Clark）曾说过：“任何足够先进的技术都与魔法无异”。声悬浮技术就是这样一种魔法般的存在，见过的人都会惊叹于它的神奇。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [SK海力士展示48/96GB DDR5内存 美光和三星也有同样计划](https://www.cnbeta.com/articles/tech/1322655.htm) | Fri Sep 30 2022 8:16 AM 
+- 🚀 [Google为Colab服务推出新的“即用即付”选项](https://www.cnbeta.com/articles/tech/1322665.htm) | Fri Sep 30 2022 8:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在英特尔“Intel Innovation”峰会上，SK海力士在现场展示了一些新的DDR5内存模块。除了DIMM和SO-DIMM，还有RDIMM的产品，更为罕见的是，出现了48GB和96GB这样非常规容量的DDR5内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Colab 是谷歌提供的一项服务，旨在允许任何人通过 Web 浏览器编写和执行任意 Python 代码。&lt;strong&gt;不过现在，全称 Google Colaboratory 的这项服务，正在推出“即用即付”的新计划。&lt;/strong&gt;据悉，自 2020 年推出高级订阅选项以来，这是 Google 首次为 Colab 带来新的定价方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [理想ONE“接棒者”！理想L8正式上市：35.98万起](https://www.cnbeta.com/articles/tech/1322653.htm) | Fri Sep 30 2022 8:13 AM 
+- 🎊 [理想L7发布 旗下首款五座中大型SUV：33.98万起](https://www.cnbeta.com/articles/tech/1322663.htm) | Fri Sep 30 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月30日15:00，理想汽车L8发布会召开，作为理想ONE的“接棒者”，理想L8此次亮相也同步上市。L8共推出两款车型，&lt;strong&gt;L8 Pro和L8 Max，价格分别为35.98万和39.98万元，&lt;/strong&gt;新车即刻开订，11月初正式开启交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在理想L8后，理想汽车旗下首款五座中大型SUV L7也正式推出。&lt;strong&gt;其中L7 Pro定价33.98万元，L7 Max定价37.98万元。&lt;/strong&gt;理想L7今日将开启预订，需要1000元意向金，11月亮相广州车展，12月进行全国巡展，明年2月底开启交付。李想表示，如果准备花30多万买一款豪华中大型五座SUV，那么L7绝对值得等待。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
