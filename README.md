@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [一文了解智能汽车网安政策和法规](https://www.freebuf.com/articles/neopoints/345975.html) | Thu Sep 29 2022 8:49 AM 
+- 🦄 [反转？美国国家安全局雇员向外国特工泄密，对方实为FBI卧底](https://www.freebuf.com/news/346079.html) | Fri Sep 30 2022 4:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    该雇员向一名冒充外国特工的联邦调查局卧底探员，发送被盗的机密信息摘录。 
+    </details> 
+
+- 🦄 [为了被重新聘用，被解雇员工竟黑了公司网络](https://www.freebuf.com/news/346062.html) | Fri Sep 30 2022 3:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    据悉，这名被解雇员工之所以这么做是为了让前公司以更高的薪水重新雇用他。 
+    </details> 
+
+- 🦅 [65% 的公司正在考虑采用 VPN 替代方案](https://www.freebuf.com/news/346058.html) | Fri Sep 30 2022 3:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    VPN 风险报告表明，网络攻击者继续利用长期存在的安全漏洞，增加了对 VPN 的攻击。 
+    </details> 
+
+- 🪄 [微软：勒索组织正在将开源软件武器化](https://www.freebuf.com/news/346057.html) | Fri Sep 30 2022 3:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    微软称某勒索组织正在对合法的开源软件进行木马化，并将其用于技术、国防和媒体娱乐等许多行业的后门组织。 
+    </details> 
+
+- 💻 [一文了解智能汽车网安政策和法规](https://www.freebuf.com/articles/neopoints/345975.html) | Thu Sep 29 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
     完善的法律体系为基础，切实夯筑网络安全的底座，为智能汽车腾飞打下基础。 
-    </details> 
-
-- 🦄 [FreeBuf早报 | 女子玩“羊了个羊”被骗9万元；中央网信办深入开展网络辟谣标签工作](https://www.freebuf.com/news/345971.html) | Thu Sep 29 2022 8:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    近日，常州严女士在玩“羊了个羊”游戏时，为了获取道具观看广告，误入贷款陷阱被骗9万元。 
-    </details> 
-
-- 🦅 [国家标准《信息安全技术 网络安全信息报送指南（征求意见稿）》发布](https://www.freebuf.com/news/345923.html) | Thu Sep 29 2022 6:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    《报送指南》描述了网络安全信息报送的信息类型、要素、格式规范，以及网络安全信息报送活动的参与角色、基本流程、报送方式。 
-    </details> 
-
-- 🪄 [《网络安全标准实践指南—健康码防伪技术指南》发布](https://www.freebuf.com/news/345921.html) | Thu Sep 29 2022 5:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    《实践指南》给出了现场核验场景下健康码防伪的技术指南，指导健康码服务的技术提供方提高防伪能力，提升整体安全水平。 
-    </details> 
-
-- 💻 [Meta 关闭大规模俄罗斯欺诈新闻“网络”](https://www.freebuf.com/news/345904.html) | Thu Sep 29 2022 2:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    该网络用于在欧洲各地 60 多个冒充新闻机构的网站上发布虚假信息。 
     </details> 
 <!-- freebuf:END -->
 
