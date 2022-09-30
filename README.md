@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [迄今最大的便携式电池Zendure SuperBase V开始众筹](https://www.cnbeta.com/articles/tech/1322737.htm) | Fri Sep 30 2022 2:02 PM 
+- 🕯 [传索尼硅基OLED已通过苹果测试认证](https://www.cnbeta.com/articles/tech/1322751.htm) | Fri Sep 30 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;。&lt;/strong&gt;6.4千瓦时的轮上电池不仅可以通过可堆叠的模块扩展到64千瓦时，而且它将电子储存在该公司所谓的 &amp;quot;第一个半固态电池的家庭能源系统 &amp;quot;中。它可以接受高达3000瓦的太阳能输入，可以在2级电动车站充电，并包括外部行车灯、语音控制和电动车轮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;供应链消息人士向集微网透露，索尼硅基OLED已经通过苹果测试认证，并加大设备采购，以扩大产能，保证苹果硅基OLED订单需求。根据韩国证券公司NH Investment&amp;amp;Securities近期发布的报告，苹果MR设备将搭载3000PPI&amp;nbsp;硅基OLED（OLED on Silicon&rpar;，于11月左右启动量产，明年第一季亮相。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软在最新Windows 11测试版中新增有关Widgets小工具的设置项](https://www.cnbeta.com/articles/tech/1322735.htm) | Fri Sep 30 2022 2:01 PM 
+- 💼 [Intel Arc A770、Arc A750显卡图赏](https://www.cnbeta.com/articles/tech/1322749.htm) | Fri Sep 30 2022 3:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软在开发频道向用户发布了一个新的Windows 11预览版构建，根据官方的更新日志，其中一个基本的改进是针对小工具的。原始版本的Windows 11带有小工具，这是一个新功能，后来有了很大的发展，最新的Windows 11预览版构建进一步发展了它。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月28日举办的创新大会上，Intel正式发布了Arc系列最高端的显卡Arc A770，10月12日正式上市。Intel显卡从高到低分别是Arc 7、Arc 5及Arc 3系列。规格方面，&lt;strong&gt;A770是满血32组Xe单元，搭配256-bit&amp;nbsp;8/16GB显存，带宽560Gbps，频率2100MHz，256bit位宽，TDP功耗225W。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Windows 11任务栏的上下文菜单喜迎任务管理器的回归](https://www.cnbeta.com/articles/tech/1322733.htm) | Fri Sep 30 2022 1:57 PM 
+- 💂 [SSD价格狂跌不止：美光/铠侠等厂商纷纷减产NAND芯片](https://www.cnbeta.com/articles/tech/1322747.htm) | Fri Sep 30 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;最近的Windows 11预览版对那些希望以更容易的方式访问任务管理器的用户来说是个好消息。&lt;/strong&gt;近两年前推出的第一版Windows 11将任务管理器的上下文菜单快捷方式从任务栏移至开始菜单。不言而喻，一些人在寻找该应用程序时感到迷茫，所以这方面的反馈是比较明显的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在美光公布财报并宣布将明年的资本开支削减30%、芯片封装设备方面的投资砍掉一半后，另一大颗粒原厂铠侠（Kioxia）也坐不住了。据媒体报道，铠侠决定减少位于四日市和北上市的3D NAND产量，原因是高通胀、宏观经济不景气以及一些地缘事件造成PC、其它电子设备等需求放缓。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14面板订单与iPhone 13相比下降38% Pro Max生产强劲](https://www.cnbeta.com/articles/tech/1322731.htm) | Fri Sep 30 2022 1:56 PM 
+- 🚀 [第七届虎扑女神大赛落幕：刘亦菲夺冠 首次二封](https://hot.cnbeta.com/articles/movie/1322745.htm) | Fri Sep 30 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们已经听说了不少关于iPhone 14 Pro机型的销售情况比iPhone 14系列的其他机型好的消息。现在，Display Supply Chain Consultants公司的分析师Ross Young（罗斯·杨）有了一些额外的数据支撑这种说法，这次的重点是iPhone 14和iPhone 14 Pro的出货量与去年的iPhone 13阵容相比。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据虎扑的步行街官微，日前，&lt;strong&gt;虎扑第七届女神大赛落下帷幕，刘亦菲（代表角色赵灵儿）夺冠。&lt;/strong&gt;此次，和刘亦菲进入最终PK的是周慧敏（代表角色阮梅），最终还是“神仙姐姐”凭借56%的相对支持率领先一筹。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国产大飞机C919正式拿证：内部设计首次公开](https://www.cnbeta.com/articles/tech/1322729.htm) | Fri Sep 30 2022 1:53 PM 
+- 🎊 [二手市场和供应链均出现了iPhone 14系列部分机型需求低迷的迹象](https://www.cnbeta.com/articles/tech/1322743.htm) | Fri Sep 30 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据央视、中国商飞的官方消息，&lt;strong&gt;中国民航局已经正式向中国商飞公司颁发了国产大飞机C919的型号合格证，为其交付并投入商业运营打开了最有决定性的绿灯！&lt;/strong&gt;同时，C919项目团队代表也接受了国家高规格的接待并发去贺信。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据SellCell收集的数据，在去年同一时间段，iPhone 14机型的贬值幅度是iPhone 13的两倍以上。SellCell的分析是基于40多家回购商的平均换购价值。数据显示，iPhone 14和iPhone 14 Plus在保值方面表现不佳，在上市后同样的10天时间里，折价幅度是iPhone 13和iPhone 13 mini的两倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
