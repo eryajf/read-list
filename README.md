@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Canonical已放出Ubuntu 22.10 beta测试版本](https://www.cnbeta.com/articles/tech/1322689.htm) | Fri Sep 30 2022 11:14 AM 
+- 🕯 [为迎接梦天实验舱 问天实验舱在轨转位](https://www.cnbeta.com/articles/science/1322697.htm) | Fri Sep 30 2022 12:44 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据中国载人航天工程办公室消息：今天（9月30日）12时44分，经过约1小时的天地协同，问天实验舱完成转位。中国空间站组合体转为两舱“L”构型在轨飞行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [胖东来也被东北农嫂“绊倒” 农产品销售的水有多深？](https://www.cnbeta.com/articles/tech/1322695.htm) | Fri Sep 30 2022 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一根玉米，不仅在直播电商江湖掀起一片浪，这浪还拍到了线下卖场。9月30日，东北农嫂与“胖东来召回8.5元玉米”双双登上热搜。近期“6元玉米”一系列连锁反应，折射出农产品市场背后“非标”的痛点，而解决问题的方式，最终还是要靠建设标准化体系。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [C919获民航局颁发型号合格证 将于年底交付首架飞机](https://www.cnbeta.com/articles/tech/1322693.htm) | Fri Sep 30 2022 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;国产大飞机迎来重要里程碑。9月30日，据新华社报道，C919大型客机9月完成全部适航审定工作后获中国民用航空局颁发的型号合格证，将于2022年底交付首架飞机。&lt;/strong&gt;C919大型客机是我国首次按照国际通行适航标准自行研制、具有自主知识产权的喷气式干线客机，于2007年立项，2017年首飞。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [布里斯班：Wing送餐无人机飞落高架电线导致数千人停电](https://www.cnbeta.com/articles/tech/1322691.htm) | Fri Sep 30 2022 12:36 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一架由Alphabet子公司Wing运营的送餐无人机降落在澳大利亚布里斯班的高架电线上并起火，导致能源公司Energex关闭了电网以应对这一事件，这导致数千户家庭遭遇断电。约有2000人在大约45分钟内失去电力供应，而其中300名客户停电长达3小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [Canonical已放出Ubuntu 22.10 beta测试版本](https://www.cnbeta.com/articles/tech/1322689.htm) | Fri Sep 30 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;本周四，Canonical 放出了 Ubuntu 22.10（Kinetic Kudu）操作系统的 beta 测试版本，以便在 2022 年 10 月 20 日正式发布前完成充分的测试。&lt;/strong&gt;9to5Linux 指出，新版系统采用了 5.19 版 Linux 内核。但除了 GNOME 43 之外，Canonical 也提供了多种其它风味的 Linux 桌面环境。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [又一款名为&quot;Lunar Shift&quot;的Xbox Series X/S手柄已被泄露出来](https://hot.cnbeta.com/articles/game/1322687.htm) | Fri Sep 30 2022 10:59 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;又一款新的Xbox X/S系列手柄设计似乎已经泄露，Twitter用户Espía de Ofertas在亚马逊上发现了&amp;quot;Lunar Shift&amp;quot;手柄，该手柄似乎自带银色效果，包装上将其描述为&amp;quot;超现实的光泽&amp;quot;。如果图片是真实的，该手柄将可以&amp;quot;随着光线和运动而改变颜色&amp;quot;，并在其机身上有一个&amp;quot;独特的颜色漩涡设计&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [苹果申请了一项反向充电专利 插图描绘了两部iPhone“背靠背”](https://www.cnbeta.com/articles/tech/1322683.htm) | Fri Sep 30 2022 10:28 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Patently Apple 刚刚曝光了一项新公布的苹果专利申请，可知其主要与 iPhone 智能机的反向充电功能有关。&lt;/strong&gt;一些人猜测，这家库比蒂诺科技巨头或很快提供无线电源分享功能。不过更有趣的是，文档中有提到 ——“将两部 iPhone 背靠背放置，以便其中一台能够给另一台充电”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Brave浏览器将阻止烦人的cookie数据收集询问弹窗](https://www.cnbeta.com/articles/tech/1322681.htm) | Fri Sep 30 2022 10:09 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在欧洲《通用数据保护条例》（GDPR）实施后，网上冲浪的人们还是被各个网站的“数据收集知情同意书”给烦到。&lt;/strong&gt;如下图所示，网页弹窗会询问用户是否允许广告商收集 cookie 数据。尴尬的是，就算你逐一回绝，在某些情况下，这些横幅本身也可作为追踪器 —— 因其甚至在用户有机会选择退出之前，就参与了侵犯隐私的数据交换。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [研究发现大部分驯鹿放牧地受到了人类活动扩张的威胁](https://www.cnbeta.com/articles/science/1322679.htm) | Fri Sep 30 2022 9:56 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;驯鹿放牧在挪威北部、瑞典和芬兰有着悠久的历史。它塑造了芬诺斯堪迪亚山脉的景观，也被视为缓解气候变化对植被影响的手段。然而一项新的研究显示，这种放牧地的大部分面临着累积的压力并受到人类活动向北扩展的威胁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
