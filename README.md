@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [AcWing——第 71 场周赛](https://juejin.cn/post/7149516963876700167) | Sat Oct 01 2022 12:18 PM 
+- 🤗 [Go WEB进阶实战：结合电商项目深入理解Go知识点，灵活应用。](https://juejin.cn/post/7149536197319065636) | Sat Oct 01 2022 1:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    这篇文章更进一步，结合电商系统，把Go语言的知识点应用到商业项目中，让大家结合实际的场景去理解，这样对大家更有帮助！每个知识点的最后也都附上了详解链接，方便大家去查漏补缺。下面就开始和我进阶实战吧。 
+    </details> 
+
+- 🎡 [Gitee + PicGo 免费个人图床搭建！](https://juejin.cn/post/7149527583250448414) | Sat Oct 01 2022 1:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 平时我们写博客或者 markdown 时候会用到图片 
+    </details> 
+
+- 🕯 [OpenDataV低代码平台增加自定义属性编辑](https://juejin.cn/post/7149527571661586463) | Sat Oct 01 2022 1:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    上一篇我们讲到了怎么在OpenDataV中添加自己的组件，为了让大家更快的上手我们的平台，这一次针对 
+    </details> 
+
+- 🚀 [设计一款随机选择器工具类](https://juejin.cn/post/7149517341494083597) | Sat Oct 01 2022 12:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    需求 设计一个随机选择器工具类库，适用于随机选择或者抽奖程序。 可随机选取单个/多个选项 可重复选取&lpar;pick&rpar;/非重复选取&lpar;take&rpar;选项 选项通过权重控制选中几率 可重置为 take 前选项 
+    </details> 
+
+- 💪 [AcWing——第 71 场周赛](https://juejin.cn/post/7149516963876700167) | Sat Oct 01 2022 12:18 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 AcWing——第 71 场周赛 4621. 三个整数 问题解析 因为数据很小，仅有1≤a≤b≤c≤d≤ 
-    </details> 
-
-- 🎡 [算法入门之链表简介](https://juejin.cn/post/7149514152472477732) | Sat Oct 01 2022 12:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 链表简介 前言 链表为数据结构中第二种基本结构，一般链表就是指在物理结构上非连续，非有序的数据结构，链表 
-    </details> 
-
-- 🕯 [【云原生】Hive on k8s 环境部署](https://juejin.cn/post/7149487706991493156) | Sat Oct 01 2022 10:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、概述 Hive 架构 Hive 客户端架构 二、开始部署 因为hive依赖与Hadoop，所以这里是在把hive封装在Hadoop ha on k8s 编排中，关于更多，可以参考：【云原生】Had 
-    </details> 
-
-- 🚀 [如何优雅的备份MySQL数据？看这篇文章就够了](https://juejin.cn/post/7149484822161784868) | Sat Oct 01 2022 10:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是一灯，今天一块学习一下如何优雅安全的备份MySQL数据？ 1. 为什么要备份数据 先说一下为什么需要备份MySQL数据？ 一句话总结就是：为了保证数据的安全性。 
-    </details> 
-
-- 💪 [LC-3 汇编语言 中断实验](https://juejin.cn/post/7149483445180678152) | Sat Oct 01 2022 10:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    ​持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 题目描述 一、实验目的与要求 （1）使用实验证明：中断驱动的输入、输出可以中断一个正在运行的程序，执行 
     </details> 
 <!-- juejin:END -->
 ### 少数派
