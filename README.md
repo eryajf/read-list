@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [10X Managers - 成为高绩效经理和领导者](https://xinquji.com/posts/180017?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:47 AM 
+- 👀 [Notionkey - keyboard designed for Notion - 在 Notion 中更好的写作体验](https://xinquji.com/posts/180040?utm_campaign=xinquji-rss) | Sun Oct 02 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     成为高绩效经理和领导者  
+     在 Notion 中更好的写作体验  
     </details> 
 
-- 🥷 [Personal Money Manager - 您的多合一个人资金管理系统](https://xinquji.com/posts/180016?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:45 AM 
+- 🥷 [Investic - 寻找最佳库存从未如此简单](https://xinquji.com/posts/180039?utm_campaign=xinquji-rss) | Sun Oct 02 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     您的多合一个人资金管理系统  
+     寻找最佳库存从未如此简单  
     </details> 
 
-- 💼 [The Ultimate Web3 Pocket Guide - 详细的、技术性的、包罗万象的 web3 领域指南](https://xinquji.com/posts/180015?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:42 AM 
+- 💼 [SoldLive - Shopify 应用程序用于自动化和扩展 FB 和 IG Live 销售](https://xinquji.com/posts/180038?utm_campaign=xinquji-rss) | Sun Oct 02 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     详细的、技术性的、包罗万象的 web3 领域指南  
+     Shopify 应用程序用于自动化和扩展 FB 和 IG Live 销售  
     </details> 
 
-- 🦅 [Jobs from Larry - 你梦想的工作现在只是一条推文](https://xinquji.com/posts/180014?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:42 AM 
+- 🦅 [Rememory - 传播爱。保持联系](https://xinquji.com/posts/180037?utm_campaign=xinquji-rss) | Sun Oct 02 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     你梦想的工作现在只是一条推文  
+     传播爱。保持联系  
     </details> 
 
-- 😺 [Ringermetrics - Oura Ring 的漂亮而现代的 Web 仪表板](https://xinquji.com/posts/180013?utm_campaign=xinquji-rss) | Sat Oct 01 2022 6:40 AM 
+- 😺 [Limpet - easy links and snippets - 使用可爱的蓝色外壳节省获取链接的时间](https://xinquji.com/posts/180036?utm_campaign=xinquji-rss) | Sun Oct 02 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     Oura Ring 的漂亮而现代的 Web 仪表板  
+     使用可爱的蓝色外壳节省获取链接的时间  
     </details> 
 <!-- xinquji:END -->
