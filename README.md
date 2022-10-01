@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [dd 的纯净 debian11 系统如何开启 ipv6](https://www.v2ex.com/t/884267#reply0) | Sat Oct 01 2022 1:37 PM
+- 🥸 [dd 的纯净 debian11 系统如何开启 ipv6](https://www.v2ex.com/t/884267#reply6) | Sat Oct 01 2022 1:37 PM
 - 🤗 [mysql 里面为什么有时候子查询需要 alias，有时候则不需要呢？](https://www.v2ex.com/t/884256#reply3) | Sat Oct 01 2022 12:33 PM
 - 🎭 [有老哥讲过脱口秀吗？](https://www.v2ex.com/t/884244#reply4) | Sat Oct 01 2022 11:13 AM
 - 🥷 [手表上删除好友是个好功能吗?](https://www.v2ex.com/t/884238#reply1) | Sat Oct 01 2022 10:27 AM
