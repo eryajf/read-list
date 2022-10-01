@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊一聊mysql主键](https://juejin.cn/post/7149557196987039774) | Sat Oct 01 2022 2:54 PM 
+- 🤗 [SpringBoot中配置freemarker忽略自动配置](https://juejin.cn/post/7149564930235056159) | Sat Oct 01 2022 3:25 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 大多数场景 我身边朋友包括一些大厂的，一些核心业务或边缘业务，用的比较多的还是自增。 具体怎么说呢？ 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 or set spring.freemarker.checkTemplateLocation=false 
     </details> 
 
-- 🎡 [简简单单整个冒泡排序](https://juejin.cn/post/7149555722810818590) | Sat Oct 01 2022 2:48 PM 
+- 🎡 [从ifelse到策略模式，谈谈我对设计模式的理解](https://juejin.cn/post/7149564941710655519) | Sat Oct 01 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
-    一、是什么 冒泡排序（Bubble Sort），是一种计算机科学领域的较简单的排序算法 冒泡排序的思想就是在每次遍历一遍未排序的数列之后，将一个数据元素浮上去（也就是排好了一个数据） 如同碳酸饮料中二 
+    我正在参加「掘金·启航计划」 前言 一提到设计模式大家都会觉得很厉害，但是要用好设计模式确实不容易。甚至有很多人都不知道该在什么场景下使用设计模式。我之前就是这样，小傅哥的《重学Java设计模式》我也 
     </details> 
 
-- 🕯 [03 - react组件化](https://juejin.cn/post/7149554684545237023) | Sat Oct 01 2022 2:44 PM 
+- 🕯 [Swift - LeetCode - 二进制手表](https://juejin.cn/post/7149563420927328263) | Sat Oct 01 2022 3:18 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 一、模块、组件 模块 1、模块简单来说就是向外提供特定功能的js程序, 一般就是一个js文件 2、为什么 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 题目 二进制手表顶部有 4 个 LED 代表 小时（0-11），底部的 6 个 LED 代表 分钟（0- 
     </details> 
 
-- 🚀 [Netty入门到弹幕系统实战](https://juejin.cn/post/7149543899566964744) | Sat Oct 01 2022 2:02 PM 
+- 🚀 [数据库的存储过程该如何使用？](https://juejin.cn/post/7149563348278296583) | Sat Oct 01 2022 3:18 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 一、IO模型 阻塞式IO模型 非阻塞式IO模型 IO复用 信号驱动式IO 异步IO Linux IO流程 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 使用存储过程 存储过程 存储过程简单来说，就是为了以后的使用而保存的一条或多条MySQL语句的集合。可将 
     </details> 
 
-- 💪 [【SSO单点登录】传统Cookie和Session会话机制](https://juejin.cn/post/7149543396346953759) | Sat Oct 01 2022 2:01 PM 
+- 💪 [【爬虫】（一）fossies.org](https://juejin.cn/post/7149562006494937125) | Sat Oct 01 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
-    --- theme: smartblue highlight: solarized-light -- 
+    因为毕设是基于机器学习的，所以需要大量的样本来训练模型和检验成果，因此，通过爬虫，在合法合规的情况下，爬取自己所需要的资源，在此进行记录，本期站点：fossies.org； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
