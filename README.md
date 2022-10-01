@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [react native入门配置](https://juejin.cn/post/7149413889925447711) | Sat Oct 01 2022 5:38 AM 
+- 🤗 [2022年我的面试万字总结（浏览器原理篇）](https://juejin.cn/post/7149438206419664927) | Sat Oct 01 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-    网上已经有很多react native的入门教程了，这里就不多赘述了。重点讲一些别人没有讲的优化的配置把。 1.配置镜像 注意: 项目中有两个build.gradle，注意分清楚是\android\b 
+    又到了金九银十季，最近我也是奔波于各种面试。我自己总结了很多方向的前端面试题，一共15万字。借着国庆这个假期，也把这些题目总结分享给大家，也祝正在面试的朋友们能够拿到满意的offer。 
     </details> 
 
-- 🎡 [遍历序列构造二叉树总结](https://juejin.cn/post/7149410444279545892) | Sat Oct 01 2022 5:25 AM 
+- 🎡 [objc4-818.2源码太爽了，没什么比苹果的源码更直接更真理](https://juejin.cn/post/7149434056529149965) | Sat Oct 01 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-    从中序与后序遍历序列构造二叉树 题目 根据一棵树的中序遍历与后序遍历构造二叉树。 注意: 你可以假设树中没有重复的元素。 例如，给出 返回如下的二叉树： 解题思路 根据题意, 我们知道后序遍历的形式是 
+    前言为什么会想要调试源码? 苹果开源了部分源码, 但相似内容太多, 找不到代码见的对应关系, 如果能像自己工程一样进行跳转那多好哇苹果源码开源:https://opensource.apple.com 
     </details> 
 
-- 🕯 [如何创建 Angular library 并在生产环境中消费](https://juejin.cn/post/7149407181358497822) | Sat Oct 01 2022 5:12 AM 
+- 🕯 [Qiankun实践——彻底解决无法切换路由的问题](https://juejin.cn/post/7149433264598417445) | Sat Oct 01 2022 6:52 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 本文使用的 Github 项目：https://github.com/wangzixi-diablo/a 
+    哈喽，大家好，我是海怪。今天想跟大家分享一个在使用 Qiankun 中遇到的问题，相信不少人也会遇到过，那就是：**在主应用切换路由时，无法切换对应子应用的路由。好吧，这句话听着就不像人 
     </details> 
 
-- 🚀 [Shell程序设计相关基础语法](https://juejin.cn/post/7149400488658616333) | Sat Oct 01 2022 4:47 AM 
+- 🚀 [SpringBoot 优雅地实现文件的上传和下载](https://juejin.cn/post/7149427562832199688) | Sat Oct 01 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 Shell被称之为程序设计语言，那么肯定是有相关语法的，接下来我们来了解一下Shell程序设计的相关语法 
+    如何SpringBoot 优雅地实现文件上传和下载？如何SpringBoot 优雅地实现文件上传和下载？这才是正确方式！ 
     </details> 
 
-- 💪 [前端布局之浅谈BFC](https://juejin.cn/post/7149398890008018974) | Sat Oct 01 2022 4:39 AM 
+- 💪 [[Linux修炼]用一个相亲例子初识shell](https://juejin.cn/post/7149350274253979684) | Sat Oct 01 2022 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 大家好，我是 CoderBin 1. 文档流 在介绍BFC之前，需要先给大家介绍一下文档流。 我们常说的 
+    知道什么是shell吗？要是不知道的话来看看我这篇文章吧。本文用一个简单的相亲例子来帮助你初步认识shell，希望对你有所帮助。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
