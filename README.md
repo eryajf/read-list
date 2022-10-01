@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SpringBoot中配置freemarker忽略自动配置](https://juejin.cn/post/7149564930235056159) | Sat Oct 01 2022 3:25 PM 
+- 🤗 [Spring-ApplicationContext](https://juejin.cn/post/7149566009383321608) | Sat Oct 01 2022 3:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、ApplicationContext   ApplicationContext到底是什么？字面含义是应用的上下文。这块我们需要看看ApplicationContext的具体的结构。   通过App 
+    </details> 
+
+- 🎡 [23. ES6 Class 的继承](https://juejin.cn/post/7149565844333264904) | Sat Oct 01 2022 3:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    1. 类的继承extends简介 Class 可以通过extends关键字实现继承，让子类继承父类的属性和方法。extends 的写法比 ES5 的原型链继承，要清晰和方便很多。 上面示例中，Poin 
+    </details> 
+
+- 🕯 [Spring-初始化源码分析](https://juejin.cn/post/7149565489675517988) | Sat Oct 01 2022 3:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    Spring初始化源码分析 一、refresh方法 二、prepareRefresh   完成一些刷新前的准备工作. 三、obtainFreshBeanFactory   在obtainFreshBe 
+    </details> 
+
+- 🚀 [SpringBoot中配置freemarker忽略自动配置](https://juejin.cn/post/7149564930235056159) | Sat Oct 01 2022 3:25 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 or set spring.freemarker.checkTemplateLocation=false 
     </details> 
 
-- 🎡 [从ifelse到策略模式，谈谈我对设计模式的理解](https://juejin.cn/post/7149564941710655519) | Sat Oct 01 2022 3:24 PM 
+- 💪 [从ifelse到策略模式，谈谈我对设计模式的理解](https://juejin.cn/post/7149564941710655519) | Sat Oct 01 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
     我正在参加「掘金·启航计划」 前言 一提到设计模式大家都会觉得很厉害，但是要用好设计模式确实不容易。甚至有很多人都不知道该在什么场景下使用设计模式。我之前就是这样，小傅哥的《重学Java设计模式》我也 
-    </details> 
-
-- 🕯 [Swift - LeetCode - 二进制手表](https://juejin.cn/post/7149563420927328263) | Sat Oct 01 2022 3:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 题目 二进制手表顶部有 4 个 LED 代表 小时（0-11），底部的 6 个 LED 代表 分钟（0- 
-    </details> 
-
-- 🚀 [数据库的存储过程该如何使用？](https://juejin.cn/post/7149563348278296583) | Sat Oct 01 2022 3:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 使用存储过程 存储过程 存储过程简单来说，就是为了以后的使用而保存的一条或多条MySQL语句的集合。可将 
-    </details> 
-
-- 💪 [【爬虫】（一）fossies.org](https://juejin.cn/post/7149562006494937125) | Sat Oct 01 2022 3:12 PM 
-    <details><summary>展开描述 ...</summary> 
-    因为毕设是基于机器学习的，所以需要大量的样本来训练模型和检验成果，因此，通过爬虫，在合法合规的情况下，爬取自己所需要的资源，在此进行记录，本期站点：fossies.org； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
