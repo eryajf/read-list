@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [2022年前8月我国手机产量9.9亿台 同比下降4.5%](https://www.cnbeta.com/articles/tech/1323007.htm) | Sat Oct 01 2022 3:15 PM 
+- 🕯 [一只巧克力兔子引发多年官司 瑞士最高法院裁定瑞士莲胜诉](https://www.cnbeta.com/articles/tech/1323017.htm) | Sat Oct 01 2022 5:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨日，工信部发布了《2022年1—8月份电子信息制造业运行情况》，1—8月份，我国规模以上电子信息制造业增加值同比增长9.3%，增速分别超出工业、高技术制造业5.7和0.9个百分点。8月份，规模以上电子信息制造业增加值同比增长5.5%，较7月份回落1.8个百分点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;span style=&quot;&quot;&gt;因为一款巧克力造型与瑞士知名巧克力生产商“瑞士莲”的兔子巧克力十分相似，德国零售巨头利德尔在2018年被瑞士莲告上法庭，就在近日，&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;瑞士最高法院裁定，瑞士莲胜诉&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;，要求利德尔停止在瑞士销售这款产品，且必须销毁所有相关库存。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [五年前与特斯拉分手的自动驾驶公司站上新起点](https://www.cnbeta.com/articles/tech/1323005.htm) | Sat Oct 01 2022 3:13 PM 
+- 💼 [据报道TikTok仍计划在美国推出直播带货服务](https://hot.cnbeta.com/articles/movie/1323015.htm) | Sat Oct 01 2022 5:45 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月30日，英特尔旗下自动驾驶公司Mobileye正式递交了美国IPO申请。五年前，Mobileye与特斯拉终止合作，并被英特尔以153亿美元收购。Mobileye递交IPO站上了业务发展的新起点，但同时也正处于美国科技股IPO市场经历近20年来最严重的危机之际。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;TikTok可能终究不会放弃在美国的直播带货。根据《金融时报》的报道，该公司正寻求与合作伙伴TalkShopLive合作，在北美推出直播购物功能。TalkShopLive是一个位于洛杉矶的购物直播平台，正如《金融时报》所指出的，沃尔玛和微软的MSN等公司都用它来举办购物直播。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [调查称北溪事故由相当于数百公斤炸药爆炸引起](https://www.cnbeta.com/articles/tech/1323003.htm) | Sat Oct 01 2022 3:11 PM 
+- 💂 [国产大飞机C919年内交付 院士称性能已达到空客320同等水平](https://www.cnbeta.com/articles/tech/1323013.htm) | Sat Oct 01 2022 5:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，丹麦和瑞典9月30日发布的一份报告说，影响波罗的海“北溪”天然气管道的4起泄漏事件是由相当于数百公斤炸药的水下爆炸引起的。报道称，两国在提交给联合国安理会的联合报告中说：“爆炸的强度分别为里氏2.3级和2.1级，很可能相当于几百公斤的炸药。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;由中国自行研制的、具有自主知识产权的中短程商用干线双发喷气式大型客机C919，于9月29日获得民航管理局颁发的合格证证书。&lt;/strong&gt;将于2022年底交付首架飞机，首家客户为东航。日前，中国工程院院士张彦仲在接受采访时，解答了C919研发、幕后的相关问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [等了三年的AirPods Pro 2 依然是TWS耳机天花板](https://www.cnbeta.com/articles/tech/1323001.htm) | Sat Oct 01 2022 2:17 PM 
+- 🚀 [中国影史票房冠军：《长津湖》电视首播收视率第一](https://hot.cnbeta.com/articles/movie/1323011.htm) | Sat Oct 01 2022 5:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为一款时隔三年才换代的数码产品，第二代 AirPods Pro 可以说是让很多人一阵好等，这里面也包括托尼本人。就算第一代 AirPods Pro 很能打，但是隔了这么多年才更新换代，苹果也真够能憋的……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月2日消息，据@电影频道融媒体中心 官微，10月1日国庆节18:30起，&lt;strong&gt;电影《长津湖》在CCTV-6电影频道电视首播。酷云EYE实时数据显示，影片目前收视率占全频道第一位。&lt;/strong&gt;影片由陈凯歌、徐克、林超贤联合执导，在去年国庆档上映，目前稳居中国影史票房冠军。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [9月安卓手机性能榜：ROG立大功 天玑9000+以一胜九](https://www.cnbeta.com/articles/tech/1322999.htm) | Sat Oct 01 2022 1:40 PM 
+- 🎊 [哈勃太空望远镜探测到矮星系的“保护罩”：麦哲伦日冕](https://www.cnbeta.com/articles/science/1323009.htm) | Sat Oct 01 2022 5:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大家10月好，当你看到这份榜单的时候就已经是身处国庆节十一假期里了，先祝大家国庆快乐。回顾9月份，Android手机市场带来的新品并不多，按照价格来看份量最重的是vivo&amp;nbsp;X&amp;nbsp;Fold+，其次是ROG6天玑至尊版，最后是小米Civi&amp;nbsp;2。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;研究人员证实了难以捉摸的麦哲伦日冕的存在，这是一个由热的、电离气体组成的保护性光环，以前只在理论上认为有。几十亿年来，银河系最庞大的宇宙伙伴--大麦哲伦云和小麦哲伦云--一直在太空中进行着动荡的旅行，在被我们自己的银河系的引力撕裂的同时相互绕行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
