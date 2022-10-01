@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一只巧克力兔子引发多年官司 瑞士最高法院裁定瑞士莲胜诉](https://www.cnbeta.com/articles/tech/1323017.htm) | Sat Oct 01 2022 5:46 PM 
+- 🕯 [比一根头发细100万倍：科学家开发出无损超细纳米管道](https://www.cnbeta.com/articles/science/1323025.htm) | Sat Oct 01 2022 9:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;约翰-霍普金斯大学的研究人员在仅为人类单根头发宽度的百万分之一的微观管道上工作，设计了一种方法来保护这些最微小的管道，防止最小的泄漏。由自我组装、自我修复的纳米管构建的无泄漏管道可以连接到不同的生物结构上，这是向开发纳米管网络迈出的巨大一步，有朝一日可能将专门的药物、蛋白质和分子运送到人体的特定细胞。最近《科学进展》杂志概述了高度精确的测量结果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [一种蛋白质可能揭示了与年龄相关的视力丧失的秘密](https://www.cnbeta.com/articles/science/1323023.htm) | Sat Oct 01 2022 9:02 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;桑福德·伯纳姆·普雷比斯大学的教授弗朗西斯卡·马拉西博士正在领导一项研究，该研究揭示了黄斑变性背后的分子机制，黄斑变性占所有年龄相关视力损失的90%以上。这项研究描述了参与黄斑变性和其他与年龄有关的疾病（如阿尔茨海默氏症和动脉粥样硬化）的一种关键血液蛋白的灵活结构，该研究发表在《生物物理学杂志》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Google正尝试让部分人付费才能在YouTube上观看4K视频](https://www.cnbeta.com/articles/tech/1323021.htm) | Sat Oct 01 2022 8:59 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Google试图将客户转化为YouTube高级用户的手段正在成为话题。该公司正在努力用多个横幅宣传Premium，而内容创作者可以在其视频中使用的不可跳过的广告的增加也可以被人们看作是为获得更多用户而进行的低烈度打击。而现在，Google已经想出了另一种方法，迫使用户考虑购买Premium。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [动视暴雪首席合规官离职 曾因回应公司指控惹争议](https://hot.cnbeta.com/articles/game/1323019.htm) | Sat Oct 01 2022 8:46 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据报道，动视暴雪首席合规官弗朗西丝·汤森德（Frances Townsend）因去年对公司性侵指控的回应而受到密切关注，如今，随着动视暴雪出售给微软交易的即将完成，汤森德也将辞职。汤森德2021年3月加盟动视暴雪，除了担任首席合规官，她还兼任动视暴雪企业事务执行副总裁。离职后（当地时间周五），汤森德将担任公司董事会、以及CEO鲍比·科蒂克（BobbyKotick）的顾问。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [一只巧克力兔子引发多年官司 瑞士最高法院裁定瑞士莲胜诉](https://www.cnbeta.com/articles/tech/1323017.htm) | Sat Oct 01 2022 5:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;span style=&quot;&quot;&gt;因为一款巧克力造型与瑞士知名巧克力生产商“瑞士莲”的兔子巧克力十分相似，德国零售巨头利德尔在2018年被瑞士莲告上法庭，就在近日，&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;瑞士最高法院裁定，瑞士莲胜诉&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;，要求利德尔停止在瑞士销售这款产品，且必须销毁所有相关库存。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [据报道TikTok仍计划在美国推出直播带货服务](https://hot.cnbeta.com/articles/movie/1323015.htm) | Sat Oct 01 2022 5:45 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;TikTok可能终究不会放弃在美国的直播带货。根据《金融时报》的报道，该公司正寻求与合作伙伴TalkShopLive合作，在北美推出直播购物功能。TalkShopLive是一个位于洛杉矶的购物直播平台，正如《金融时报》所指出的，沃尔玛和微软的MSN等公司都用它来举办购物直播。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [国产大飞机C919年内交付 院士称性能已达到空客320同等水平](https://www.cnbeta.com/articles/tech/1323013.htm) | Sat Oct 01 2022 5:38 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;由中国自行研制的、具有自主知识产权的中短程商用干线双发喷气式大型客机C919，于9月29日获得民航管理局颁发的合格证证书。&lt;/strong&gt;将于2022年底交付首架飞机，首家客户为东航。日前，中国工程院院士张彦仲在接受采访时，解答了C919研发、幕后的相关问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [中国影史票房冠军：《长津湖》电视首播收视率第一](https://hot.cnbeta.com/articles/movie/1323011.htm) | Sat Oct 01 2022 5:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月2日消息，据@电影频道融媒体中心 官微，10月1日国庆节18:30起，&lt;strong&gt;电影《长津湖》在CCTV-6电影频道电视首播。酷云EYE实时数据显示，影片目前收视率占全频道第一位。&lt;/strong&gt;影片由陈凯歌、徐克、林超贤联合执导，在去年国庆档上映，目前稳居中国影史票房冠军。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [哈勃太空望远镜探测到矮星系的“保护罩”：麦哲伦日冕](https://www.cnbeta.com/articles/science/1323009.htm) | Sat Oct 01 2022 5:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;研究人员证实了难以捉摸的麦哲伦日冕的存在，这是一个由热的、电离气体组成的保护性光环，以前只在理论上认为有。几十亿年来，银河系最庞大的宇宙伙伴--大麦哲伦云和小麦哲伦云--一直在太空中进行着动荡的旅行，在被我们自己的银河系的引力撕裂的同时相互绕行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
