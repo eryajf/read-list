@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《FIFA 23》对比《eFootball 2023》画质 谁更胜一筹？](https://hot.cnbeta.com/articles/game/1322975.htm) | Sat Oct 01 2022 9:50 AM 
+- 🕯 [C919适航取证有多难？距离商业载客运行还远吗？](https://www.cnbeta.com/articles/tech/1322981.htm) | Sat Oct 01 2022 11:12 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月29日，中国民航局向中国商飞颁发C919飞机型号合格证，标志着C919具备了进入市场运营的安全资质。C919大型客机是我国首次按照国际通行适航标准自行研制、具有自主知识产权的喷气式干线客机，C919大型客机研制成功，获得型号合格证，标志着我国具备自主研制世界一流大型客机能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [研究发现权属权利界定不清的土地所有权会增加森林砍伐率](https://www.cnbeta.com/articles/science/1322979.htm) | Sat Oct 01 2022 11:10 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;热带森林砍伐导致生物多样性和碳储量的广泛退化。研究人员现在能够测试巴西的土地使用权和森林砍伐率之间的关系。他们的研究结果表明，土地权利界定不清与森林砍伐率的增加是相辅相成的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [生物学家创造出一种新型人类细胞 有助于研究早期胚胎发育](https://www.cnbeta.com/articles/science/1322977.htm) | Sat Oct 01 2022 11:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;鲁汶大学的Vincent Pasque教授和他的同事在实验室里利用干细胞创造了一种新型的人类细胞。这种新细胞密切反映了早期人类胚胎中的自然对应物。因此，科学家们能够更好地了解胚胎植入子宫后的情况。研究结果最近发表在《细胞干细胞》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《FIFA 23》对比《eFootball 2023》画质 谁更胜一筹？](https://hot.cnbeta.com/articles/game/1322975.htm) | Sat Oct 01 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日有视频对EA的《FIFA 23》和KONAMI的《eFootball 2023》进行了对比。这两款作品均登陆两世代主机。不过，与《eFootball 2023》不同，《FIFA 23》在新主机上的画质更好一些。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [蔚来三季度交付创历史新高 ET5已开启交付](https://www.cnbeta.com/articles/tech/1322973.htm) | Sat Oct 01 2022 9:49 AM 
+- 🎊 [蔚来三季度交付创历史新高 ET5已开启交付](https://www.cnbeta.com/articles/tech/1322973.htm) | Sat Oct 01 2022 9:49 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;10月1日消息，继华为与赛力斯打造的AITO品牌公布9月交付量之后，新势力品牌蔚来也晒出了9月战绩。据蔚来官方数据，&lt;strong&gt;2022年9月，蔚来交付新车10,878台；三季度交付新车31,607台，同比增长29.3%，创季度交付新高。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [远征68号任务在空间站正式开始 SpaceX正计划进行乘员互换](https://www.cnbeta.com/articles/science/1322971.htm) | Sat Oct 01 2022 9:49 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;远征68号任务在国际空间站（ISS）上正式开始，七名宇航员在一起生活和工作，乘员互换还没有结束，四名SpaceX Crew-5成员即将发射到轨道实验室倒计时工作已经展开。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [从造电车到机器人：马斯克要让特斯拉转型AI巨头](https://www.cnbeta.com/articles/tech/1322969.htm) | Sat Oct 01 2022 9:20 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这是一场以招聘AI人才为目的的发布会。特斯拉用最硬核的发布会方式，展示了自己全面转型AI巨头的雄心。特斯拉不仅要做自动驾驶的电车，还要打造真正普及的人形机器人，并且开放自己的机器学习超级计算机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [特斯拉人形机器人能搬快递了！FSD年底可全球推送](https://www.cnbeta.com/articles/tech/1322967.htm) | Sat Oct 01 2022 9:20 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉的人形机器人来了，成本不到2万美元（约合人民币14万元），最快3年内或许就能买到。就在今天，特斯拉又一次举办了AI DAY活动，仍然发挥了延迟开始的传统艺能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
