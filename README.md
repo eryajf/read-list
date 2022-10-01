@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [从造电车到机器人：马斯克要让特斯拉转型AI巨头](https://www.cnbeta.com/articles/tech/1322969.htm) | Sat Oct 01 2022 9:20 AM 
+- 🕯 [《FIFA 23》对比《eFootball 2023》画质 谁更胜一筹？](https://hot.cnbeta.com/articles/game/1322975.htm) | Sat Oct 01 2022 9:50 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日有视频对EA的《FIFA 23》和KONAMI的《eFootball 2023》进行了对比。这两款作品均登陆两世代主机。不过，与《eFootball 2023》不同，《FIFA 23》在新主机上的画质更好一些。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [蔚来三季度交付创历史新高 ET5已开启交付](https://www.cnbeta.com/articles/tech/1322973.htm) | Sat Oct 01 2022 9:49 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月1日消息，继华为与赛力斯打造的AITO品牌公布9月交付量之后，新势力品牌蔚来也晒出了9月战绩。据蔚来官方数据，&lt;strong&gt;2022年9月，蔚来交付新车10,878台；三季度交付新车31,607台，同比增长29.3%，创季度交付新高。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [远征68号任务在空间站正式开始 SpaceX正计划进行乘员互换](https://www.cnbeta.com/articles/science/1322971.htm) | Sat Oct 01 2022 9:49 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;远征68号任务在国际空间站（ISS）上正式开始，七名宇航员在一起生活和工作，乘员互换还没有结束，四名SpaceX Crew-5成员即将发射到轨道实验室倒计时工作已经展开。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [从造电车到机器人：马斯克要让特斯拉转型AI巨头](https://www.cnbeta.com/articles/tech/1322969.htm) | Sat Oct 01 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;这是一场以招聘AI人才为目的的发布会。特斯拉用最硬核的发布会方式，展示了自己全面转型AI巨头的雄心。特斯拉不仅要做自动驾驶的电车，还要打造真正普及的人形机器人，并且开放自己的机器学习超级计算机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉人形机器人能搬快递了！FSD年底可全球推送](https://www.cnbeta.com/articles/tech/1322967.htm) | Sat Oct 01 2022 9:20 AM 
+- 🎊 [特斯拉人形机器人能搬快递了！FSD年底可全球推送](https://www.cnbeta.com/articles/tech/1322967.htm) | Sat Oct 01 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;特斯拉的人形机器人来了，成本不到2万美元（约合人民币14万元），最快3年内或许就能买到。就在今天，特斯拉又一次举办了AI DAY活动，仍然发挥了延迟开始的传统艺能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [“北溪”泄漏时管线内约有8亿立方米天然气](https://www.cnbeta.com/articles/tech/1322965.htm) | Sat Oct 01 2022 9:19 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间9月30日，联合国安理会在俄罗斯代表的团队要求下，就“北溪”天然气管道泄漏一事举行公开会。俄罗斯天然气工业股份公司发言人库普里亚诺夫就“北溪”管道泄漏的发生时间、地点等问题做了具体说明。他表示，在“北溪-1”和“北溪-2”管道破裂时，三条线中共有约8亿立方米的天然气，相当于丹麦三个月的天然气用量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《霍格沃兹之遗》新预告 明年2月10日发售](https://hot.cnbeta.com/articles/game/1322963.htm) | Sat Oct 01 2022 9:18 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，《霍格沃兹之遗》官方公布一段（非）授权霍格沃茨学生生活指南预告，《霍格沃兹之遗》预计于2023年2月10日发售，登陆PlayStation 5、Xbox Series、PS4、Xbox One和PC&lpar;Steam&rpar;平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《守望先锋：归来》推出三大项目 为LGBTQ+保驾护航](https://hot.cnbeta.com/articles/game/1322961.htm) | Sat Oct 01 2022 9:17 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;动视暴雪近日宣布，将在《守望先锋：归来》电竞和休闲游戏场景中推出三大项目，用以关怀LGBTQ+玩家群体。在暴雪题为“Calling All Heroes”的博客中，《守望先锋》团队和电竞项目《守望先锋》联赛（OWL）团队宣布将在游戏中共同开发“防御矩阵”、“挑战者杯”和“解说训练营”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
