@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [等了三年的AirPods Pro 2 依然是TWS耳机天花板](https://www.cnbeta.com/articles/tech/1323001.htm) | Sat Oct 01 2022 2:17 PM 
+- 🕯 [2022年前8月我国手机产量9.9亿台 同比下降4.5%](https://www.cnbeta.com/articles/tech/1323007.htm) | Sat Oct 01 2022 3:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;昨日，工信部发布了《2022年1—8月份电子信息制造业运行情况》，1—8月份，我国规模以上电子信息制造业增加值同比增长9.3%，增速分别超出工业、高技术制造业5.7和0.9个百分点。8月份，规模以上电子信息制造业增加值同比增长5.5%，较7月份回落1.8个百分点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [五年前与特斯拉分手的自动驾驶公司站上新起点](https://www.cnbeta.com/articles/tech/1323005.htm) | Sat Oct 01 2022 3:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月30日，英特尔旗下自动驾驶公司Mobileye正式递交了美国IPO申请。五年前，Mobileye与特斯拉终止合作，并被英特尔以153亿美元收购。Mobileye递交IPO站上了业务发展的新起点，但同时也正处于美国科技股IPO市场经历近20年来最严重的危机之际。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [调查称北溪事故由相当于数百公斤炸药爆炸引起](https://www.cnbeta.com/articles/tech/1323003.htm) | Sat Oct 01 2022 3:11 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据报道，丹麦和瑞典9月30日发布的一份报告说，影响波罗的海“北溪”天然气管道的4起泄漏事件是由相当于数百公斤炸药的水下爆炸引起的。报道称，两国在提交给联合国安理会的联合报告中说：“爆炸的强度分别为里氏2.3级和2.1级，很可能相当于几百公斤的炸药。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [等了三年的AirPods Pro 2 依然是TWS耳机天花板](https://www.cnbeta.com/articles/tech/1323001.htm) | Sat Oct 01 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;作为一款时隔三年才换代的数码产品，第二代 AirPods Pro 可以说是让很多人一阵好等，这里面也包括托尼本人。就算第一代 AirPods Pro 很能打，但是隔了这么多年才更新换代，苹果也真够能憋的……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [9月安卓手机性能榜：ROG立大功 天玑9000+以一胜九](https://www.cnbeta.com/articles/tech/1322999.htm) | Sat Oct 01 2022 1:40 PM 
+- 🎊 [9月安卓手机性能榜：ROG立大功 天玑9000+以一胜九](https://www.cnbeta.com/articles/tech/1322999.htm) | Sat Oct 01 2022 1:40 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;大家10月好，当你看到这份榜单的时候就已经是身处国庆节十一假期里了，先祝大家国庆快乐。回顾9月份，Android手机市场带来的新品并不多，按照价格来看份量最重的是vivo&amp;nbsp;X&amp;nbsp;Fold+，其次是ROG6天玑至尊版，最后是小米Civi&amp;nbsp;2。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [210W不是终点 不到10分钟满电的更高功率快充正在路上](https://www.cnbeta.com/articles/tech/1322997.htm) | Sat Oct 01 2022 1:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“骁龙旗舰芯、大底主摄、高刷屏、旗舰散热......”，你有没有发现，今天的智能手机同质化现象愈发严重，各家旗舰手机的核心硬件配置几乎完全一致，如何利用差异化卖点打动用户成了厂商发力的方向。“快充”就是其中之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [国庆档最强黑马《万里归途》票房突破2亿 评分9.6](https://hot.cnbeta.com/articles/movie/1322995.htm) | Sat Oct 01 2022 1:38 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据灯塔专业版实时数据，&lt;strong&gt;截至10月1日18时8分，影片《万里归途》票房突破2亿。&lt;/strong&gt;截至10月1日16时54分，2022年国庆档新片总票房&lpar;含点映及预售&rpar;突破3亿，《万里归途》以票房2.02亿（含点映及预售）领跑 。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [SIE主管曾飞往欧盟 表达对微软收购动视暴雪担忧](https://hot.cnbeta.com/articles/game/1322993.htm) | Sat Oct 01 2022 1:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据外媒Dealreporter报道，SIE老大Jim Ryan上个月飞往了布鲁塞尔去和欧盟监管人员会面，后者正审查微软对动视暴雪的收购案。据悉，Jim Ryan 9月8日亲自访问了欧盟总部，以表达对竞争对手687亿美元收购案的担忧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
