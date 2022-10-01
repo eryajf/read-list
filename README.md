@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [9月安卓手机性能榜：ROG立大功 天玑9000+以一胜九](https://www.cnbeta.com/articles/tech/1322999.htm) | Sat Oct 01 2022 1:40 PM 
+- 🕯 [等了三年的AirPods Pro 2 依然是TWS耳机天花板](https://www.cnbeta.com/articles/tech/1323001.htm) | Sat Oct 01 2022 2:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;作为一款时隔三年才换代的数码产品，第二代 AirPods Pro 可以说是让很多人一阵好等，这里面也包括托尼本人。就算第一代 AirPods Pro 很能打，但是隔了这么多年才更新换代，苹果也真够能憋的……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [9月安卓手机性能榜：ROG立大功 天玑9000+以一胜九](https://www.cnbeta.com/articles/tech/1322999.htm) | Sat Oct 01 2022 1:40 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;大家10月好，当你看到这份榜单的时候就已经是身处国庆节十一假期里了，先祝大家国庆快乐。回顾9月份，Android手机市场带来的新品并不多，按照价格来看份量最重的是vivo&amp;nbsp;X&amp;nbsp;Fold+，其次是ROG6天玑至尊版，最后是小米Civi&amp;nbsp;2。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [210W不是终点 不到10分钟满电的更高功率快充正在路上](https://www.cnbeta.com/articles/tech/1322997.htm) | Sat Oct 01 2022 1:39 PM 
+- 💂 [210W不是终点 不到10分钟满电的更高功率快充正在路上](https://www.cnbeta.com/articles/tech/1322997.htm) | Sat Oct 01 2022 1:39 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“骁龙旗舰芯、大底主摄、高刷屏、旗舰散热......”，你有没有发现，今天的智能手机同质化现象愈发严重，各家旗舰手机的核心硬件配置几乎完全一致，如何利用差异化卖点打动用户成了厂商发力的方向。“快充”就是其中之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国庆档最强黑马《万里归途》票房突破2亿 评分9.6](https://hot.cnbeta.com/articles/movie/1322995.htm) | Sat Oct 01 2022 1:38 PM 
+- 🚀 [国庆档最强黑马《万里归途》票房突破2亿 评分9.6](https://hot.cnbeta.com/articles/movie/1322995.htm) | Sat Oct 01 2022 1:38 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据灯塔专业版实时数据，&lt;strong&gt;截至10月1日18时8分，影片《万里归途》票房突破2亿。&lt;/strong&gt;截至10月1日16时54分，2022年国庆档新片总票房&lpar;含点映及预售&rpar;突破3亿，《万里归途》以票房2.02亿（含点映及预售）领跑 。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [SIE主管曾飞往欧盟 表达对微软收购动视暴雪担忧](https://hot.cnbeta.com/articles/game/1322993.htm) | Sat Oct 01 2022 1:37 PM 
+- 🎊 [SIE主管曾飞往欧盟 表达对微软收购动视暴雪担忧](https://hot.cnbeta.com/articles/game/1322993.htm) | Sat Oct 01 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据外媒Dealreporter报道，SIE老大Jim Ryan上个月飞往了布鲁塞尔去和欧盟监管人员会面，后者正审查微软对动视暴雪的收购案。据悉，Jim Ryan 9月8日亲自访问了欧盟总部，以表达对竞争对手687亿美元收购案的担忧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [传腾讯正大举收购海外游戏公司 尤其注重欧洲](https://hot.cnbeta.com/articles/game/1322991.htm) | Sat Oct 01 2022 1:36 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据路透社报道，中国游戏巨头腾讯正在更换收购策略，正大举寻求拥有海外游戏公司的大部分股权或控股权。此前腾讯投资海外公司一般是购买小部分股权，而现在更倾向于全盘收购，这是为了抵消在中国国内增长放缓的影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
