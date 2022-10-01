@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [明白了iOS的Object-C“alloc”原理实现，对开发太重要，帮你解决很多工作问题](https://juejin.cn/post/7149446524991176741) | Sat Oct 01 2022 7:45 AM 
+- 🤗 [JavaScript iframe 多窗口通信实战](https://juejin.cn/post/7149466271766020109) | Sat Oct 01 2022 9:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 我最近在完善 easyjobs 代码共享的功能。 左侧是代码编辑器，右侧下方有一个控制台。 当我们在左侧 
+    </details> 
+
+- 🎡 [【译】漫谈网络](https://juejin.cn/post/7149462318118600717) | Sat Oct 01 2022 8:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习计算机怎么能不谈网络分层呢。下面我们就简单了解一下网络是怎样工作的，并且举一些如何`SOCK_DGRAM` 封包的例子。 
+    </details> 
+
+- 🕯 [【Nacos云原生】阅读源码第一步,本地启动Nacos](https://juejin.cn/post/7149461581892419592) | Sat Oct 01 2022 8:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 在我们去阅读Nacos源码之前,我们得先了解Nacos是干嘛的,以及怎么用,这样有利于我们更容易 
+    </details> 
+
+- 🚀 [【云原生】Nacos-TaskManager 任务管理的使用](https://juejin.cn/post/7149461142783983630) | Sat Oct 01 2022 8:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    任务管理类 因为Nacos中有很多地方使用了这个TaskManager,所以我们得先了解一下这个类是干啥 
+    </details> 
+
+- 💪 [明白了iOS的Object-C“alloc”原理实现，对开发太重要，帮你解决很多工作问题](https://juejin.cn/post/7149446524991176741) | Sat Oct 01 2022 7:45 AM 
     <details><summary>展开描述 ...</summary> 
     前言 前面我们使用官方开源的objc源码进行了编译调试 objc4-818.2源码编译调试笔记 前言为什么会想要调试源码? 苹果开源了部分源码, 但相似内容太多, 基本找不到代码见的对应关系 
-    </details> 
-
-- 🎡 [力扣：413. 等差数列划分](https://juejin.cn/post/7149445908730478606) | Sat Oct 01 2022 7:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 力扣——413. 等差数列划分 413. 等差数列划分 如果一个数列 至少有三个元素 ，并且任意两个相邻 
-    </details> 
-
-- 🕯 [聊一聊 react reactive](https://juejin.cn/post/7149442332168257549) | Sat Oct 01 2022 7:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 谈起 reactive，大家都会想起 Vue3 的「响应式数据劫持」（或者依赖追踪） 通过 Proxy 创建响应式对象，在对象属性被访问时收集副作用（一个可执行函数），在对象属性被修改时依次执行 
-    </details> 
-
-- 🚀 [2022年我的面试万字总结（浏览器原理篇）](https://juejin.cn/post/7149438206419664927) | Sat Oct 01 2022 7:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    又到了金九银十季，最近我也是奔波于各种面试。我自己总结了很多方向的前端面试题，一共15万字。借着国庆这个假期，也把这些题目总结分享给大家，也祝正在面试的朋友们能够拿到满意的offer。 
-    </details> 
-
-- 💪 [objc4-818.2源码太爽了，没什么比苹果的源码更直接更真理](https://juejin.cn/post/7149434056529149965) | Sat Oct 01 2022 6:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言为什么会想要调试源码? 苹果开源了部分源码, 但相似内容太多, 找不到代码见的对应关系, 如果能像自己工程一样进行跳转那多好哇苹果源码开源:https://opensource.apple.com 
     </details> 
 <!-- juejin:END -->
 ### 少数派
