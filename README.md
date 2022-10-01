@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter 组件集录 | 新一代 Button 按钮参上](https://juejin.cn/post/7149478456609210375) | Sat Oct 01 2022 9:50 AM 
+- 🤗 [【云原生】Hive on k8s 环境部署](https://juejin.cn/post/7149487706991493156) | Sat Oct 01 2022 10:25 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 2 天，点击查看活动详情 0. 按钮一族现状 随着 Flutter 3.3 的发布，RaisedButton 组件从 Flut 
+    一、概述 Hive 架构 Hive 客户端架构 二、开始部署 因为hive依赖与Hadoop，所以这里是在把hive封装在Hadoop ha on k8s 编排中，关于更多，可以参考：【云原生】Had 
     </details> 
 
-- 🎡 [基于阿里Semantatic Human Matting算法，实现精细化人物抠图](https://juejin.cn/post/7149463513067421727) | Sat Oct 01 2022 8:50 AM 
+- 🎡 [如何优雅的备份MySQL数据？看这篇文章就够了](https://juejin.cn/post/7149484822161784868) | Sat Oct 01 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 人像抠图 基于深度学习技术研发的人像抠图技术。可识别视频图像中的人像区域，包括头部、半身、全身位置，抠出 
+    大家好，我是一灯，今天一块学习一下如何优雅安全的备份MySQL数据？ 1. 为什么要备份数据 先说一下为什么需要备份MySQL数据？ 一句话总结就是：为了保证数据的安全性。 
     </details> 
 
-- 🕯 [【源码】Spring-BeanNameGenerator](https://juejin.cn/post/7149451276206473230) | Sat Oct 01 2022 8:03 AM 
+- 🕯 [LC-3 汇编语言 中断实验](https://juejin.cn/post/7149483445180678152) | Sat Oct 01 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第N天，点击查看活动详情 BeanNameGenerator 接口 在 Spring 中每个 bean 都要有一个id或者name 
+    ​持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 题目描述 一、实验目的与要求 （1）使用实验证明：中断驱动的输入、输出可以中断一个正在运行的程序，执行 
     </details> 
 
-- 🚀 [正则匹配之提取表达式](https://juejin.cn/post/7149445129281994782) | Sat Oct 01 2022 7:39 AM 
+- 🚀 [你会用Redis做消息队列吗？](https://juejin.cn/post/7149483006686822430) | Sat Oct 01 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-    国庆快乐呀，各位 正则表达式通过 （） 进行捕获变量进而进行分组，分组后我们通过 Group 的数字去取 
+    说到消息队列，大家首先想到的是rabitmq, rocketmq，kafka等。这些消息队列在生产中都很成熟，但它们相对来说比较重量级。 Redis同样可做队列用，但是得熟悉它的优缺点。 
     </details> 
 
-- 💪 [OpenHarmony如何控制屏幕亮度](https://juejin.cn/post/7149438885158715428) | Sat Oct 01 2022 7:15 AM 
+- 💪 [记录ES一次死锁问题排查](https://juejin.cn/post/7149482080967000077) | Sat Oct 01 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
-    大家在拿到dayu之后，都吐槽说，会经常熄屏，不利于调试，那么有没有一种办法，可以让app不熄屏呢，答案是有的，今天我们就来揭秘一下，如何控制屏幕亮度 1.控制屏幕常亮 首先导入模块 接下来在项目中使 
+    1、问题概述 业务流程 1、从kafka消费数据。 2、业务解析，组装数据。 3、将组装好的数据，使用bulkProcessor.add&lpar;indexRequest&rpar;，异步批量提交数据到ES。 问题描述 
     </details> 
 <!-- juejin:END -->
 ### 少数派
