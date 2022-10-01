@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家发现使食物看起来更美味的秘密](https://www.cnbeta.com/articles/science/1322885.htm) | Sat Oct 01 2022 2:24 AM 
+- 🕯 [梦露传记电影《金发梦露》引观众不满：充满了性别歧视与剥削](https://hot.cnbeta.com/articles/movie/1322919.htm) | Sat Oct 01 2022 4:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据最近的一项研究，一家餐厅可能通过使用汉堡或其他菜单项目的吸引人的照片来提高销售额，特别是如果使用了正确的滤镜。&lt;strong&gt;根据这项研究，在色彩饱和度高的照片中，食物看起来更新鲜、更美味&lt;/strong&gt;，这增加了观众购买菜单物品的意愿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;玛丽莲·梦露的传记电影《金发梦露》在不久前登陆了Netflix平台，然而，伴随而来的还有网友们的争议这部电影目前在多个国家的netflix排行榜上登顶，然而一些观众却对电影表达了批评。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Tusass与爱立信合作，为格陵兰岛提供5G连接](https://www.cnbeta.com/articles/tech/1322883.htm) | Sat Oct 01 2022 2:21 AM 
+- 💼 [人猿泰山将拍新版电影 符合21世纪观众审美](https://hot.cnbeta.com/articles/movie/1322917.htm) | Sat Oct 01 2022 4:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;当地时间9月30日，Tusass跟爱立信一起宣布了一项广泛的合作以实现无线格陵兰的共同愿景。&lt;/strong&gt;从2022年的试点开始，非独立&lpar;NSA&rpar;固定无线接入&lpar;FWA&rpar; 5G将在Sisimiut、Maniitsoq和Narsaq推出，然后在该国其他地方实现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;新浪电影今日（10月1日）消息，索尼影业将打造《人猿泰山》新版电影，将打造符合21世纪观众审美的新编，目前还没有任何阵容信息。&lt;/strong&gt;泰山的故事被多次影视化，讲述一个孤儿人类男孩在丛林中被猿猴养大，此后他爱上了人类女子Jane，因此离开了丛林，结了婚，去了英国。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [神舟十四号航天员乘组在中国空间站为新中国庆生](https://www.cnbeta.com/articles/science/1322881.htm) | Sat Oct 01 2022 2:16 AM 
+- 💂 [“蝙蝠侠”贝尔想加盟《星战》 只想演头撞门的风暴兵](https://hot.cnbeta.com/articles/movie/1322915.htm) | Sat Oct 01 2022 4:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;昨天（9月30日），问天实验舱完成转位后，中国空间站组合体由两舱“一”字构型转变为两舱“L”字构型。&lt;/strong&gt;中国空间站以全新的构型迎来新中国73周年华诞，神舟十四号航天员乘组也送出了祝福，这也是航天员首次在空间站为新中国庆生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;克里斯蒂安·贝尔还是想要加盟《星球大战》，而且就想演一个头撞到门的风暴兵。&lt;/strong&gt;在接受好莱坞报道者采访时，这位前蝙蝠侠男星透露他仍然想要前往“那个遥远的宇宙”，而且他脑海里已有一个非常具体的角色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究发现了解释前列腺癌严重程度的种族差异的基因特征](https://www.cnbeta.com/articles/science/1322879.htm) | Sat Oct 01 2022 2:15 AM 
+- 🚀 [科学家们首次成功地测量了一种奇异的原子结合](https://www.cnbeta.com/articles/science/1322913.htm) | Sat Oct 01 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近发表在《&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05154-6&quot; target=&quot;_self&quot;&gt;自然&lt;/a&gt;》和《&lt;a href=&quot;https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01096-w&quot; target=&quot;_self&quot;&gt;基因组医学&lt;/a&gt;》杂志上的&lt;strong&gt;两项突破性研究发现了解释前列腺癌严重程度的种族差异的基因特征&lt;/strong&gt;，特别是在撒哈拉以南非洲。通过对澳大利亚、巴西和南非捐赠者的前列腺癌肿瘤进行遗传分析，该团队开发了一种新的前列腺癌分类法（分类方案）和癌症驱动因素，不仅可以根据患者的遗传血统进行区分，还可以预测哪些癌症有可能成为威胁生命的疾病，这项工作目前还很困难。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;源自可以通过光来相互吸引。从理论上讲，这种效应已经被预测了很长时间。&lt;strong&gt;然而维也纳科技大学的维也纳量子科技中心&lpar;VCQ&rpar;通过跟因斯布鲁克大学的合作首次测量了这种奇异的原子结合。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Stadia育碧游戏将通过Connect转移至PC](https://hot.cnbeta.com/articles/game/1322877.htm) | Sat Oct 01 2022 2:10 AM 
+- 🎊 [俄宇航员已从太空空间站撤离并返回地球](https://www.cnbeta.com/articles/science/1322911.htm) | Sat Oct 01 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着谷歌云游戏服务Stadia即将于2023年1月关闭，和谷歌Stadia深度合作的游戏厂商育碧公布了转移计划。&lt;strong&gt;育碧将允许玩家将Stadia上的育碧游戏通过育碧Connect转移到PC上。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间9月29日，“联盟号&lpar;Soyuz&rpar;”飞船于美东部时间凌晨3点34分从国际空间站&lpar;ISS&rpar;解锁，其载着俄罗斯宇航局宇航员Oleg Artemyev、Denis Matveev和Sergey Korsakov回到地球。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
