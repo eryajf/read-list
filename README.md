@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今年获得搞笑诺贝尔奖的社交模型 ：背后八卦他人，有时候也会带来好的结果](http://jandan.net/p/111421) | Sat Oct 01 2022 5:10 AM 
+- 🚀 [为什么南半球的海洋 升温速度更快？](http://jandan.net/p/111420) | Sat Oct 01 2022 6:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    额外的热量进入环境之中，被海洋吸收，相当于我们每秒在水下引爆一颗原子弹。 
+    </details> 
+
+- 🙉 [比起不喝咖啡的人，每天喝2到3杯咖啡的人往往寿命更长，心血管疾病更少](http://jandan.net/p/111414) | Sat Oct 01 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    注意，这项研究并没有声称多喝咖啡可以延长寿命 
+    </details> 
+
+- 🎉 [今年获得搞笑诺贝尔奖的社交模型 ：背后八卦他人，有时候也会带来好的结果](http://jandan.net/p/111421) | Sat Oct 01 2022 5:10 AM 
     <details><summary>展开描述 ...</summary> 
     社会普遍认为，散播八卦是道德上有瑕疵的行为。但矛盾的是，这种的交流也是人类互动的主要内容这一。 
     </details> 
 
-- 🙉 [今日好价 1001](http://jandan.net/p/111418) | Sat Oct 01 2022 3:28 AM 
+- 🐲 [今日好价 1001](http://jandan.net/p/111418) | Sat Oct 01 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     节日快乐 
     </details> 
 
-- 🎉 [发霉啦：今天，我问老公我们是否能重新点燃曾经的激情](http://jandan.net/p/111413) | Fri Sep 30 2022 7:54 AM 
+-  [发霉啦：今天，我问老公我们是否能重新点燃曾经的激情](http://jandan.net/p/111413) | Fri Sep 30 2022 7:54 AM 
     <details><summary>展开描述 ...</summary> 
     下周休刊 
-    </details> 
-
-- 🐲 [Meta公司推出了由文字生成视频的AI Make-A-Video](http://jandan.net/p/111412) | Fri Sep 30 2022 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    目前清晰度还不行，但算力问题，时间就能解决 
-    </details> 
-
--  [脑力小体操 非常巧妙的 3天平和8银币 谜题](http://jandan.net/p/111121) | Fri Sep 30 2022 6:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    假期快乐 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
