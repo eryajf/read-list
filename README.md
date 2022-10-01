@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [梦露传记电影《金发梦露》引观众不满：充满了性别歧视与剥削](https://hot.cnbeta.com/articles/movie/1322919.htm) | Sat Oct 01 2022 4:07 AM 
+- 🕯 [特斯拉现在有16万名客户在运行其完全自动驾驶测试版](https://www.cnbeta.com/articles/tech/1322949.htm) | Sat Oct 01 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;玛丽莲·梦露的传记电影《金发梦露》在不久前登陆了Netflix平台，然而，伴随而来的还有网友们的争议这部电影目前在多个国家的netflix排行榜上登顶，然而一些观众却对电影表达了批评。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉的Optimus机器人原型并不是该公司在周五晚上的人工智能日演讲中分享的唯一内容。自动驾驶总监Ashok Elluswamy在特斯拉人工智能日期间上台发言，谈及该公司的全自动驾驶软件如何改进。他透露，现在有16万客户在运行测试版软件，而去年这个时候只有2000人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [人猿泰山将拍新版电影 符合21世纪观众审美](https://hot.cnbeta.com/articles/movie/1322917.htm) | Sat Oct 01 2022 4:07 AM 
+- 💼 [Realme 10的电池和快充规格通过FCC列表得到确认](https://www.cnbeta.com/articles/tech/1322947.htm) | Sat Oct 01 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;新浪电影今日（10月1日）消息，索尼影业将打造《人猿泰山》新版电影，将打造符合21世纪观众审美的新编，目前还没有任何阵容信息。&lt;/strong&gt;泰山的故事被多次影视化，讲述一个孤儿人类男孩在丛林中被猿猴养大，此后他爱上了人类女子Jane，因此离开了丛林，结了婚，去了英国。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Realme预计将很快推出该公司Realme 10系列的新机型。&lt;strong&gt;最近，Realme 10在美国认证网站FCC上被发现，它的一些关键规格也随之被披露：5000mAh电池，支持33W快速充电。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“蝙蝠侠”贝尔想加盟《星战》 只想演头撞门的风暴兵](https://hot.cnbeta.com/articles/movie/1322915.htm) | Sat Oct 01 2022 4:06 AM 
+- 💂 [5G通信网络今天在印度正式商用 资费有望全球最便宜](https://www.cnbeta.com/articles/tech/1322945.htm) | Sat Oct 01 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;克里斯蒂安·贝尔还是想要加盟《星球大战》，而且就想演一个头撞到门的风暴兵。&lt;/strong&gt;在接受好莱坞报道者采访时，这位前蝙蝠侠男星透露他仍然想要前往“那个遥远的宇宙”，而且他脑海里已有一个非常具体的角色。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1322915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;印度5G网络的商用仪式定于今天进行。总理纳伦德拉-莫迪将在新德里Pragati Maidan举行的2022年印度移动大会（IMC）上宣布&lt;strong&gt;启动&lt;/strong&gt;5G信号网络。&lt;/strong&gt;5G将彻底改变印度的数字之旅。它不仅仅是一个面向消费者的移动网络，还实现一些无线网络以前不可能实现的用例。即使在消费者领域，5G也将通过实现电信公司急于寻求盈利的云游戏等用例而产生巨大的变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [科学家们首次成功地测量了一种奇异的原子结合](https://www.cnbeta.com/articles/science/1322913.htm) | Sat Oct 01 2022 4:02 AM 
+- 🚀 [三星专利暗示Galaxy手机将装备长焦镜头防抖位移传感器](https://www.cnbeta.com/articles/tech/1322943.htm) | Sat Oct 01 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;源自可以通过光来相互吸引。从理论上讲，这种效应已经被预测了很长时间。&lt;strong&gt;然而维也纳科技大学的维也纳量子科技中心&lpar;VCQ&rpar;通过跟因斯布鲁克大学的合作首次测量了这种奇异的原子结合。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周公布的一项三星专利描述了一种用于未来手机的带有传感器移位稳定功能的手机摄像头，该文件还明确提到了除经典手机类型之外的几个未来的外形因素，一直以来三星的产品包含经典的OIS镜头。&lt;strong&gt;2021年春天就有传闻称三星正在测试带有传感器移位图像稳定功能的手机摄像头，现在这一切正以专利文件的形式确定下来。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [俄宇航员已从太空空间站撤离并返回地球](https://www.cnbeta.com/articles/science/1322911.htm) | Sat Oct 01 2022 3:56 AM 
+- 🎊 [AITO问界系列9月交付10142辆再创历史新高](https://www.cnbeta.com/articles/tech/1322941.htm) | Sat Oct 01 2022 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间9月29日，“联盟号&lpar;Soyuz&rpar;”飞船于美东部时间凌晨3点34分从国际空间站&lpar;ISS&rpar;解锁，其载着俄罗斯宇航局宇航员Oleg Artemyev、Denis Matveev和Sergey Korsakov回到地球。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;继8月首次交付破万之后，AITO问界系列再传捷报。10月1日消息，据&lt;strong&gt;AITO汽车官方数据，AITO问界系列9月交付再创历史新高，达到10142辆，连续两个月单月交付量破万，站稳高端新能源SUV市场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
