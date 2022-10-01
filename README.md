@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉现在有16万名客户在运行其完全自动驾驶测试版](https://www.cnbeta.com/articles/tech/1322949.htm) | Sat Oct 01 2022 7:24 AM 
+- 🕯 [GeForce RTX 4090 CUDA基准测试显示其性能比3090 Ti提高了60%](https://www.cnbeta.com/articles/tech/1322959.htm) | Sat Oct 01 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉的Optimus机器人原型并不是该公司在周五晚上的人工智能日演讲中分享的唯一内容。自动驾驶总监Ashok Elluswamy在特斯拉人工智能日期间上台发言，谈及该公司的全自动驾驶软件如何改进。他透露，现在有16万客户在运行测试版软件，而去年这个时候只有2000人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英伟达GeForce RTX 4090显卡的第一个非官方基准测试在其发布之前已经在Geekbench 5数据库中被泄露。虽然NVIDIA一直在向玩家提供DLSS 3和光线追踪的性能数据，但关于其下一代部件的性能表现信息却很少。&lt;strong&gt;现在，我们在Geekbench 5 CUDA数据库中得到了第一个非DLSS和非RT的基准测试结果。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Realme 10的电池和快充规格通过FCC列表得到确认](https://www.cnbeta.com/articles/tech/1322947.htm) | Sat Oct 01 2022 7:17 AM 
+- 💼 [腾讯新研究登Nature子刊 让细胞与计算机“对话”辅助精准治癌](https://www.cnbeta.com/articles/science/1322957.htm) | Sat Oct 01 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Realme预计将很快推出该公司Realme 10系列的新机型。&lt;strong&gt;最近，Realme 10在美国认证网站FCC上被发现，它的一些关键规格也随之被披露：5000mAh电池，支持33W快速充电。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;腾讯把BERT方法用于&lt;strong&gt;单细胞注释技术&lt;/strong&gt;，还登上了&lt;strong&gt;Nature子刊&lt;/strong&gt;。能辅助医生精准治癌的那种。此次聚焦的单细胞RNA测序（scRNA-seq）技术，一直被称为生命科学领域的革命性工具，对于“&lt;strong&gt;精准医疗&lt;/strong&gt;”具有极高的应用价值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [5G通信网络今天在印度正式商用 资费有望全球最便宜](https://www.cnbeta.com/articles/tech/1322945.htm) | Sat Oct 01 2022 7:14 AM 
+- 💂 [Facebook App将取代Android的WebView 但不会使用Custom Tabs](https://www.cnbeta.com/articles/tech/1322955.htm) | Sat Oct 01 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;印度5G网络的商用仪式定于今天进行。总理纳伦德拉-莫迪将在新德里Pragati Maidan举行的2022年印度移动大会（IMC）上宣布&lt;strong&gt;启动&lt;/strong&gt;5G信号网络。&lt;/strong&gt;5G将彻底改变印度的数字之旅。它不仅仅是一个面向消费者的移动网络，还实现一些无线网络以前不可能实现的用例。即使在消费者领域，5G也将通过实现电信公司急于寻求盈利的云游戏等用例而产生巨大的变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当你在其他应用程序中打开一个链接时，它通常会在你的浏览器（如Chrome）或Custom Tabs中启动。Facebook选择在其自己的应用内浏览器中打开网页，该浏览器由Android系统WebView提供。接下来，Facebook的主要应用很快就会改变支撑其应用内浏览器的内容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星专利暗示Galaxy手机将装备长焦镜头防抖位移传感器](https://www.cnbeta.com/articles/tech/1322943.htm) | Sat Oct 01 2022 7:08 AM 
+- 🚀 [加密货币业者对F1的赞助规模在新加坡大奖赛赛场受到考验](https://www.cnbeta.com/articles/tech/1322953.htm) | Sat Oct 01 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周公布的一项三星专利描述了一种用于未来手机的带有传感器移位稳定功能的手机摄像头，该文件还明确提到了除经典手机类型之外的几个未来的外形因素，一直以来三星的产品包含经典的OIS镜头。&lt;strong&gt;2021年春天就有传闻称三星正在测试带有传感器移位图像稳定功能的手机摄像头，现在这一切正以专利文件的形式确定下来。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在5月份的一级方程式大奖赛上，加密货币公司赞助这项运动的展示令人眼花缭乱，Crypto.com的蓝色品牌覆盖了赛道上所有可以想象的表面。当新加坡在本周末举办最受欢迎的汽车运动时，数字资产的能见度却将低得多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [AITO问界系列9月交付10142辆再创历史新高](https://www.cnbeta.com/articles/tech/1322941.htm) | Sat Oct 01 2022 7:02 AM 
+- 🎊 [海天味业回应酱油添加剂争议：酱油致癌一说明显造谣](https://www.cnbeta.com/articles/tech/1322951.htm) | Sat Oct 01 2022 7:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继8月首次交付破万之后，AITO问界系列再传捷报。10月1日消息，据&lt;strong&gt;AITO汽车官方数据，AITO问界系列9月交付再创历史新高，达到10142辆，连续两个月单月交付量破万，站稳高端新能源SUV市场。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近两个月，各大社交平台，“海克斯科技”“科技与狠活”话题热度不断蹿升，引发广大网友对食品添加剂使用和中国食品安全的讨论。9月30日晚，海天味业发声明回应酱油添加剂争议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
