@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [网传《极品飞车22》测试计划于10/13-18进行](https://hot.cnbeta.com/articles/game/1322773.htm) | Fri Sep 30 2022 9:02 PM 
+- 🕯 [科学家发现使食物看起来更美味的秘密](https://www.cnbeta.com/articles/science/1322885.htm) | Sat Oct 01 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，Criterion Games的《极品飞车》（极品飞车22）新作名为《极品飞车：无束》（Need for Speed Unbound），这款游戏的情报已经流传了很长一段时间。一些游戏实机内容已经泄露，展示了更多程式化的“动漫元素”，内部人士汤姆·亨德森表示，新作公布近在咫尺。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据最近的一项研究，一家餐厅可能通过使用汉堡或其他菜单项目的吸引人的照片来提高销售额，特别是如果使用了正确的滤镜。&lt;strong&gt;根据这项研究，在色彩饱和度高的照片中，食物看起来更新鲜、更美味&lt;/strong&gt;，这增加了观众购买菜单物品的意愿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果公司CEO蒂姆·库克：&quot;我不确定普通人是否能解释什么是元宇宙&quot;](https://www.cnbeta.com/articles/tech/1322771.htm) | Fri Sep 30 2022 8:58 PM 
+- 💼 [Tusass与爱立信合作，为格陵兰岛提供5G连接](https://www.cnbeta.com/articles/tech/1322883.htm) | Sat Oct 01 2022 2:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司首席执行官蒂姆-库克本周一直在欧洲巡回演出，接受各种媒体出版物的采访。增强现实一直是库克讨论的一个主题，这也是他在接受荷兰出版物《Bright》（隶属RTL新闻）采访时再次提出的一个话题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;当地时间9月30日，Tusass跟爱立信一起宣布了一项广泛的合作以实现无线格陵兰的共同愿景。&lt;/strong&gt;从2022年的试点开始，非独立&lpar;NSA&rpar;固定无线接入&lpar;FWA&rpar; 5G将在Sisimiut、Maniitsoq和Narsaq推出，然后在该国其他地方实现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Google发布Lyra V2超低比特率语音编解码器](https://www.cnbeta.com/articles/tech/1322769.htm) | Fri Sep 30 2022 8:54 PM 
+- 💂 [神舟十四号航天员乘组在中国空间站为新中国庆生](https://www.cnbeta.com/articles/science/1322881.htm) | Sat Oct 01 2022 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年，Google宣布了用于低比特率的Lyra语音编解码器，与开放的AV1编解码器相结合，可以在20多年前的56kbps的Modem连接上实现语音聊天。Lyra利用机器学习和其他技术进行极低比特率的语音压缩后，甚至可以在3kbps的速度下顽强工作。Google去年开放了Lyra的源码，而今天他们宣布了Lyra V2的可用性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;昨天（9月30日），问天实验舱完成转位后，中国空间站组合体由两舱“一”字构型转变为两舱“L”字构型。&lt;/strong&gt;中国空间站以全新的构型迎来新中国73周年华诞，神舟十四号航天员乘组也送出了祝福，这也是航天员首次在空间站为新中国庆生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Backdoor.Stegmap：一种隐藏在微软Windows标志中的恶意软件](https://www.cnbeta.com/articles/tech/1322767.htm) | Fri Sep 30 2022 8:49 PM 
+- 🚀 [研究发现了解释前列腺癌严重程度的种族差异的基因特征](https://www.cnbeta.com/articles/science/1322879.htm) | Sat Oct 01 2022 2:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;基于恶意软件的活动正在变成越来越复杂的威胁，能够针对多种设备和操作系统。新的技术和&amp;quot;技巧&amp;quot;不断被添加，而已经知道的解决方案往往时不时地重新出现。隐写术，虽然既不是一种新技术，也不是一种在图像中隐藏数据的流行技术，但确实被一个名为Witchetty的组织用于新的间谍软件活动中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近发表在《&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05154-6&quot; target=&quot;_self&quot;&gt;自然&lt;/a&gt;》和《&lt;a href=&quot;https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01096-w&quot; target=&quot;_self&quot;&gt;基因组医学&lt;/a&gt;》杂志上的&lt;strong&gt;两项突破性研究发现了解释前列腺癌严重程度的种族差异的基因特征&lt;/strong&gt;，特别是在撒哈拉以南非洲。通过对澳大利亚、巴西和南非捐赠者的前列腺癌肿瘤进行遗传分析，该团队开发了一种新的前列腺癌分类法（分类方案）和癌症驱动因素，不仅可以根据患者的遗传血统进行区分，还可以预测哪些癌症有可能成为威胁生命的疾病，这项工作目前还很困难。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果公司将2014年发售的iPhone 6加入&quot;过时产品&quot;名单](https://www.cnbeta.com/articles/tech/1322765.htm) | Fri Sep 30 2022 8:03 PM 
+- 🎊 [Stadia育碧游戏将通过Connect转移至PC](https://hot.cnbeta.com/articles/game/1322877.htm) | Sat Oct 01 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天更新了其过时产品名单，在其中增加了iPhone 6，因为距离该设备发售已经超过5年了，不过iPhone 6发布时有一些独特的状况，所以它加入名单的时间有点与众不同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着谷歌云游戏服务Stadia即将于2023年1月关闭，和谷歌Stadia深度合作的游戏厂商育碧公布了转移计划。&lt;strong&gt;育碧将允许玩家将Stadia上的育碧游戏通过育碧Connect转移到PC上。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
