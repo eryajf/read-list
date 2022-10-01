@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/76013) | Fri Sep 30 2022 10:13 AM 
+- 👹 [城市漫步指南 | 为我踟蹰停酒盏，与君约略说杭州](https://sspai.com/post/75929) | Sat Oct 01 2022 3:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    作为一个没怎么见过黄叶的广东人，希望下次和你在漫天黄叶的季节里相遇。&lt;a href=&quot;https://sspai.com/post/75929&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/76013) | Fri Sep 30 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[国产]三悦有了新工作、[电影]子弹列车、[国产]底线、[动画]爱跃星空Entergalactic、[英剧]古宅老友记第四季、[美剧]怪物：杰夫瑞·达莫故事、[动画]永久少 ...&lt;a href=&quot;https://sspai.com/post/76013&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派周报：搜索的边界](https://sspai.com/prime/story/pi-weekly-011) | Fri Sep 30 2022 9:55 AM 
+- 🤭 [派周报：搜索的边界](https://sspai.com/prime/story/pi-weekly-011) | Fri Sep 30 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
     时至今日，搜索的入口、方式都前所未有地丰富，「能不能搜到」的问题日渐变成「搜到之后怎么办」的问题。在这样的背景下，掌握具体的搜索技巧尽管仍有价值，但尽早意识到搜索的能力边界，提高自己鉴别信息来源、去伪存真的能力，或许才是更面向未来的「比特素养」。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-011&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [十一宅家出行都适宜，这些产品值得选购](https://sspai.com/post/75982) | Fri Sep 30 2022 9:00 AM 
+- 🥸 [十一宅家出行都适宜，这些产品值得选购](https://sspai.com/post/75982) | Fri Sep 30 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
     国庆即将到来，我们为你挑选了一批实用的玩意，有些适合家中，有些也可以方便你的外出旅游。&lt;a href=&quot;https://sspai.com/post/75982&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [这些关于摄影的装备、技巧和理论，助你假期拍摄更顺利](https://sspai.com/post/75837) | Fri Sep 30 2022 8:36 AM 
+- 🙉 [这些关于摄影的装备、技巧和理论，助你假期拍摄更顺利](https://sspai.com/post/75837) | Fri Sep 30 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
     在踏上长假旅途之前，先从头脑到装备武装起来吧。&lt;a href=&quot;https://sspai.com/post/75837&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm) | Fri Sep 30 2022 6:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    获得完全无缝的「节假日闹钟」体验，iOS 用户终于不用再羡慕 Android 用户的节假日闹钟了。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/shortcuts-holiday-alarm&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
