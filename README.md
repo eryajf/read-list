@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【SSO单点登录】传统Cookie和Session会话机制](https://juejin.cn/post/7149543396346953759) | Sat Oct 01 2022 2:01 PM 
+- 🤗 [聊一聊mysql主键](https://juejin.cn/post/7149557196987039774) | Sat Oct 01 2022 2:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 大多数场景 我身边朋友包括一些大厂的，一些核心业务或边缘业务，用的比较多的还是自增。 具体怎么说呢？ 
+    </details> 
+
+- 🎡 [简简单单整个冒泡排序](https://juejin.cn/post/7149555722810818590) | Sat Oct 01 2022 2:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、是什么 冒泡排序（Bubble Sort），是一种计算机科学领域的较简单的排序算法 冒泡排序的思想就是在每次遍历一遍未排序的数列之后，将一个数据元素浮上去（也就是排好了一个数据） 如同碳酸饮料中二 
+    </details> 
+
+- 🕯 [03 - react组件化](https://juejin.cn/post/7149554684545237023) | Sat Oct 01 2022 2:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 一、模块、组件 模块 1、模块简单来说就是向外提供特定功能的js程序, 一般就是一个js文件 2、为什么 
+    </details> 
+
+- 🚀 [Netty入门到弹幕系统实战](https://juejin.cn/post/7149543899566964744) | Sat Oct 01 2022 2:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 一、IO模型 阻塞式IO模型 非阻塞式IO模型 IO复用 信号驱动式IO 异步IO Linux IO流程 
+    </details> 
+
+- 💪 [【SSO单点登录】传统Cookie和Session会话机制](https://juejin.cn/post/7149543396346953759) | Sat Oct 01 2022 2:01 PM 
     <details><summary>展开描述 ...</summary> 
     --- theme: smartblue highlight: solarized-light -- 
-    </details> 
-
-- 🎡 [开源系统推荐短信网关](https://juejin.cn/post/7149541220694360072) | Sat Oct 01 2022 1:52 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 \ 前言 Tips 开源项目推荐系列是，小六六平时不是会逛逛开源平台嘛！然后就想着把一些项目分享给到大家 
-    </details> 
-
-- 🕯 [LeetCode快乐数使用JavaScript解题|前端学算法](https://juejin.cn/post/7149539647809388580) | Sat Oct 01 2022 1:46 PM 
-    <details><summary>展开描述 ...</summary> 
-    国庆快乐，我来给大家助助兴，用JavaScript来解决LeetCode快乐数；国庆也不能停止我解题，每天只需三分钟，算法技巧收入囊中 
-    </details> 
-
-- 🚀 [Go WEB进阶实战：结合电商项目深入理解Go知识点，灵活应用。](https://juejin.cn/post/7149536197319065636) | Sat Oct 01 2022 1:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    这篇文章更进一步，结合电商系统，把Go语言的知识点应用到商业项目中，让大家结合实际的场景去理解，这样对大家更有帮助！每个知识点的最后也都附上了详解链接，方便大家去查漏补缺。下面就开始和我进阶实战吧。 
-    </details> 
-
-- 💪 [Gitee + PicGo 免费个人图床搭建！](https://juejin.cn/post/7149527583250448414) | Sat Oct 01 2022 1:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 平时我们写博客或者 markdown 时候会用到图片 
     </details> 
 <!-- juejin:END -->
 ### 少数派
