@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【算法题解】 Day3 链表](https://juejin.cn/post/7149389609288843277) | Sat Oct 01 2022 4:05 AM 
+- 🤗 [react native入门配置](https://juejin.cn/post/7149413889925447711) | Sat Oct 01 2022 5:38 AM 
     <details><summary>展开描述 ...</summary> 
-    今天的算法是 链表 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
+    网上已经有很多react native的入门教程了，这里就不多赘述了。重点讲一些别人没有讲的优化的配置把。 1.配置镜像 注意: 项目中有两个build.gradle，注意分清楚是\android\b 
     </details> 
 
-- 🎡 [独家小配方 - Promise 使用小技巧](https://juejin.cn/post/7149386909041557540) | Sat Oct 01 2022 3:53 AM 
+- 🎡 [遍历序列构造二叉树总结](https://juejin.cn/post/7149410444279545892) | Sat Oct 01 2022 5:25 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 虽然现在前端开发中大部分的异步代码中的回调都在慢慢的被 Promise 所取代，然而大部分的原生 API 
+    从中序与后序遍历序列构造二叉树 题目 根据一棵树的中序遍历与后序遍历构造二叉树。 注意: 你可以假设树中没有重复的元素。 例如，给出 返回如下的二叉树： 解题思路 根据题意, 我们知道后序遍历的形式是 
     </details> 
 
-- 🕯 [2 📖 《JavaScript高级程序设计》__ HTML中的JavaScript](https://juejin.cn/post/7149370043908751368) | Sat Oct 01 2022 2:48 AM 
+- 🕯 [如何创建 Angular library 并在生产环境中消费](https://juejin.cn/post/7149407181358497822) | Sat Oct 01 2022 5:12 AM 
     <details><summary>展开描述 ...</summary> 
-    工作这么多年，到现在为止对这本书都没有一个系统的知识点记录，这次想从头再读一遍这一本JavaScript高级程序设计【第4版】，并把重要的知识点与自己的见解记录下来，分享给大家，关注专栏吧~ 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 本文使用的 Github 项目：https://github.com/wangzixi-diablo/a 
     </details> 
 
-- 🚀 [浅谈ARouter原理](https://juejin.cn/post/7149368392288305166) | Sat Oct 01 2022 2:41 AM 
+- 🚀 [Shell程序设计相关基础语法](https://juejin.cn/post/7149400488658616333) | Sat Oct 01 2022 4:47 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 前言 。带你简单理解ARouter的原理。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 Shell被称之为程序设计语言，那么肯定是有相关语法的，接下来我们来了解一下Shell程序设计的相关语法 
     </details> 
 
-- 💪 [深入浅出Handler&lpar;七&rpar;  IdleHandler的巧用](https://juejin.cn/post/7149363576078565389) | Sat Oct 01 2022 2:22 AM 
+- 💪 [前端布局之浅谈BFC](https://juejin.cn/post/7149398890008018974) | Sat Oct 01 2022 4:39 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 一、前言 之前的同步屏障我们提到了如何提高消息队列中消息的优先级,那有些消息可能就比较懂事了, 他们知道 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 大家好，我是 CoderBin 1. 文档流 在介绍BFC之前，需要先给大家介绍一下文档流。 我们常说的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
