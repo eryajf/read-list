@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Spring Boot集成阿里云视频点播服务的过程记录](https://juejin.cn/post/7149348828460613645) | Sat Oct 01 2022 1:30 AM 
+- 🤗 [【算法题解】 Day3 链表](https://juejin.cn/post/7149389609288843277) | Sat Oct 01 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-    使用Spring Boot集成阿里云视频点播服务，对接其上传SDK、服务端SDK、播放器SDK，最终完成一个Demo演示。 
+    今天的算法是 链表 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
     </details> 
 
-- 🎡 [告别丑陋判空，一个Optional类搞定](https://juejin.cn/post/7149345919077449764) | Sat Oct 01 2022 1:14 AM 
+- 🎡 [独家小配方 - Promise 使用小技巧](https://juejin.cn/post/7149386909041557540) | Sat Oct 01 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 概述 最近项目组内做code review，充斥着大量的、原始的、丑陋的判空语句，大致类似下面的代码：  
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 虽然现在前端开发中大部分的异步代码中的回调都在慢慢的被 Promise 所取代，然而大部分的原生 API 
     </details> 
 
-- 🕯 [739. 每日温度 : 单调栈模板题](https://juejin.cn/post/7149338237121593351) | Sat Oct 01 2022 12:43 AM 
+- 🕯 [2 📖 《JavaScript高级程序设计》__ HTML中的JavaScript](https://juejin.cn/post/7149370043908751368) | Sat Oct 01 2022 2:48 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 题目描述 这是 LeetCode 上的 739. 每日温度 ，难度为 中等。 Tag : 「单调栈」 给 
+    工作这么多年，到现在为止对这本书都没有一个系统的知识点记录，这次想从头再读一遍这一本JavaScript高级程序设计【第4版】，并把重要的知识点与自己的见解记录下来，分享给大家，关注专栏吧~ 
     </details> 
 
-- 🚀 [Sentinel源码6-流控管理FlowSlot](https://juejin.cn/post/7149336225906688008) | Sat Oct 01 2022 12:36 AM 
+- 🚀 [浅谈ARouter原理](https://juejin.cn/post/7149368392288305166) | Sat Oct 01 2022 2:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Sentinel流控管理FlowSlot，Rule规则配置，DefaultController快速失败流控、RateLimiterController匀速排队流控 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 前言 。带你简单理解ARouter的原理。 
     </details> 
 
-- 💪 [带你5分钟搞懂MySQL存储引擎](https://juejin.cn/post/7149320508645834783) | Fri Sep 30 2022 11:39 PM 
+- 💪 [深入浅出Handler&lpar;七&rpar;  IdleHandler的巧用](https://juejin.cn/post/7149363576078565389) | Sat Oct 01 2022 2:22 AM 
     <details><summary>展开描述 ...</summary> 
-    MySQL中的数据通过不同的技术存储在文件（或者内存）中，这些技术中的每一种技术都使用不同的存储机制、索引技巧、锁定级别等不同的功能和能力，这些不同的技术以及配套的相关功能被称为存储引擎。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 一、前言 之前的同步屏障我们提到了如何提高消息队列中消息的优先级,那有些消息可能就比较懂事了, 他们知道 
     </details> 
 <!-- juejin:END -->
 ### 少数派
