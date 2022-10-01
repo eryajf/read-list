@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [GeForce RTX 4090 CUDA基准测试显示其性能比3090 Ti提高了60%](https://www.cnbeta.com/articles/tech/1322959.htm) | Sat Oct 01 2022 7:48 AM 
+- 🕯 [从造电车到机器人：马斯克要让特斯拉转型AI巨头](https://www.cnbeta.com/articles/tech/1322969.htm) | Sat Oct 01 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英伟达GeForce RTX 4090显卡的第一个非官方基准测试在其发布之前已经在Geekbench 5数据库中被泄露。虽然NVIDIA一直在向玩家提供DLSS 3和光线追踪的性能数据，但关于其下一代部件的性能表现信息却很少。&lt;strong&gt;现在，我们在Geekbench 5 CUDA数据库中得到了第一个非DLSS和非RT的基准测试结果。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这是一场以招聘AI人才为目的的发布会。特斯拉用最硬核的发布会方式，展示了自己全面转型AI巨头的雄心。特斯拉不仅要做自动驾驶的电车，还要打造真正普及的人形机器人，并且开放自己的机器学习超级计算机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [腾讯新研究登Nature子刊 让细胞与计算机“对话”辅助精准治癌](https://www.cnbeta.com/articles/science/1322957.htm) | Sat Oct 01 2022 7:37 AM 
+- 💼 [特斯拉人形机器人能搬快递了！FSD年底可全球推送](https://www.cnbeta.com/articles/tech/1322967.htm) | Sat Oct 01 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;腾讯把BERT方法用于&lt;strong&gt;单细胞注释技术&lt;/strong&gt;，还登上了&lt;strong&gt;Nature子刊&lt;/strong&gt;。能辅助医生精准治癌的那种。此次聚焦的单细胞RNA测序（scRNA-seq）技术，一直被称为生命科学领域的革命性工具，对于“&lt;strong&gt;精准医疗&lt;/strong&gt;”具有极高的应用价值。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1322957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉的人形机器人来了，成本不到2万美元（约合人民币14万元），最快3年内或许就能买到。就在今天，特斯拉又一次举办了AI DAY活动，仍然发挥了延迟开始的传统艺能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Facebook App将取代Android的WebView 但不会使用Custom Tabs](https://www.cnbeta.com/articles/tech/1322955.htm) | Sat Oct 01 2022 7:34 AM 
+- 💂 [“北溪”泄漏时管线内约有8亿立方米天然气](https://www.cnbeta.com/articles/tech/1322965.htm) | Sat Oct 01 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当你在其他应用程序中打开一个链接时，它通常会在你的浏览器（如Chrome）或Custom Tabs中启动。Facebook选择在其自己的应用内浏览器中打开网页，该浏览器由Android系统WebView提供。接下来，Facebook的主要应用很快就会改变支撑其应用内浏览器的内容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间9月30日，联合国安理会在俄罗斯代表的团队要求下，就“北溪”天然气管道泄漏一事举行公开会。俄罗斯天然气工业股份公司发言人库普里亚诺夫就“北溪”管道泄漏的发生时间、地点等问题做了具体说明。他表示，在“北溪-1”和“北溪-2”管道破裂时，三条线中共有约8亿立方米的天然气，相当于丹麦三个月的天然气用量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [加密货币业者对F1的赞助规模在新加坡大奖赛赛场受到考验](https://www.cnbeta.com/articles/tech/1322953.htm) | Sat Oct 01 2022 7:31 AM 
+- 🚀 [《霍格沃兹之遗》新预告 明年2月10日发售](https://hot.cnbeta.com/articles/game/1322963.htm) | Sat Oct 01 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在5月份的一级方程式大奖赛上，加密货币公司赞助这项运动的展示令人眼花缭乱，Crypto.com的蓝色品牌覆盖了赛道上所有可以想象的表面。当新加坡在本周末举办最受欢迎的汽车运动时，数字资产的能见度却将低得多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，《霍格沃兹之遗》官方公布一段（非）授权霍格沃茨学生生活指南预告，《霍格沃兹之遗》预计于2023年2月10日发售，登陆PlayStation 5、Xbox Series、PS4、Xbox One和PC&lpar;Steam&rpar;平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [海天味业回应酱油添加剂争议：酱油致癌一说明显造谣](https://www.cnbeta.com/articles/tech/1322951.htm) | Sat Oct 01 2022 7:25 AM 
+- 🎊 [《守望先锋：归来》推出三大项目 为LGBTQ+保驾护航](https://hot.cnbeta.com/articles/game/1322961.htm) | Sat Oct 01 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近两个月，各大社交平台，“海克斯科技”“科技与狠活”话题热度不断蹿升，引发广大网友对食品添加剂使用和中国食品安全的讨论。9月30日晚，海天味业发声明回应酱油添加剂争议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1322951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;动视暴雪近日宣布，将在《守望先锋：归来》电竞和休闲游戏场景中推出三大项目，用以关怀LGBTQ+玩家群体。在暴雪题为“Calling All Heroes”的博客中，《守望先锋》团队和电竞项目《守望先锋》联赛（OWL）团队宣布将在游戏中共同开发“防御矩阵”、“挑战者杯”和“解说训练营”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1322961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
