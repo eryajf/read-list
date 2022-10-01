@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022年我的面试万字总结（浏览器原理篇）](https://juejin.cn/post/7149438206419664927) | Sat Oct 01 2022 7:12 AM 
+- 🤗 [明白了iOS的Object-C“alloc”原理实现，对开发太重要，帮你解决很多工作问题](https://juejin.cn/post/7149446524991176741) | Sat Oct 01 2022 7:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 前面我们使用官方开源的objc源码进行了编译调试 objc4-818.2源码编译调试笔记 前言为什么会想要调试源码? 苹果开源了部分源码, 但相似内容太多, 基本找不到代码见的对应关系 
+    </details> 
+
+- 🎡 [力扣：413. 等差数列划分](https://juejin.cn/post/7149445908730478606) | Sat Oct 01 2022 7:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 力扣——413. 等差数列划分 413. 等差数列划分 如果一个数列 至少有三个元素 ，并且任意两个相邻 
+    </details> 
+
+- 🕯 [聊一聊 react reactive](https://juejin.cn/post/7149442332168257549) | Sat Oct 01 2022 7:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 谈起 reactive，大家都会想起 Vue3 的「响应式数据劫持」（或者依赖追踪） 通过 Proxy 创建响应式对象，在对象属性被访问时收集副作用（一个可执行函数），在对象属性被修改时依次执行 
+    </details> 
+
+- 🚀 [2022年我的面试万字总结（浏览器原理篇）](https://juejin.cn/post/7149438206419664927) | Sat Oct 01 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
     又到了金九银十季，最近我也是奔波于各种面试。我自己总结了很多方向的前端面试题，一共15万字。借着国庆这个假期，也把这些题目总结分享给大家，也祝正在面试的朋友们能够拿到满意的offer。 
     </details> 
 
-- 🎡 [objc4-818.2源码太爽了，没什么比苹果的源码更直接更真理](https://juejin.cn/post/7149434056529149965) | Sat Oct 01 2022 6:57 AM 
+- 💪 [objc4-818.2源码太爽了，没什么比苹果的源码更直接更真理](https://juejin.cn/post/7149434056529149965) | Sat Oct 01 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
     前言为什么会想要调试源码? 苹果开源了部分源码, 但相似内容太多, 找不到代码见的对应关系, 如果能像自己工程一样进行跳转那多好哇苹果源码开源:https://opensource.apple.com 
-    </details> 
-
-- 🕯 [Qiankun实践——彻底解决无法切换路由的问题](https://juejin.cn/post/7149433264598417445) | Sat Oct 01 2022 6:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    哈喽，大家好，我是海怪。今天想跟大家分享一个在使用 Qiankun 中遇到的问题，相信不少人也会遇到过，那就是：**在主应用切换路由时，无法切换对应子应用的路由。好吧，这句话听着就不像人 
-    </details> 
-
-- 🚀 [SpringBoot 优雅地实现文件的上传和下载](https://juejin.cn/post/7149427562832199688) | Sat Oct 01 2022 6:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    如何SpringBoot 优雅地实现文件上传和下载？如何SpringBoot 优雅地实现文件上传和下载？这才是正确方式！ 
-    </details> 
-
-- 💪 [[Linux修炼]用一个相亲例子初识shell](https://juejin.cn/post/7149350274253979684) | Sat Oct 01 2022 1:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    知道什么是shell吗？要是不知道的话来看看我这篇文章吧。本文用一个简单的相亲例子来帮助你初步认识shell，希望对你有所帮助。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
