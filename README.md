@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Swift - LeetCode - 判断子序列](https://juejin.cn/post/7149201975799152671) | Fri Sep 30 2022 3:58 PM 
+- 🤗 [Spring Boot集成阿里云视频点播服务的过程记录](https://juejin.cn/post/7149348828460613645) | Sat Oct 01 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 题目 给定字符串 s 和 t，判断 s 是否为 t 的子序列。 字符串的一个子序列是原始字符串删除一些（ 
+    使用Spring Boot集成阿里云视频点播服务，对接其上传SDK、服务端SDK、播放器SDK，最终完成一个Demo演示。 
     </details> 
 
-- 🎡 [测试文](https://juejin.cn/post/7149197002138468366) | Fri Sep 30 2022 3:35 PM 
+- 🎡 [告别丑陋判空，一个Optional类搞定](https://juejin.cn/post/7149345919077449764) | Sat Oct 01 2022 1:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Cloud Studio 是基于浏览器的集成式开发环境（IDE），为开发者提供了一个稳定的云端工作站。用户在使用 Cloud Studio 时无需安装，随时随地打开浏览器就能使用。底层资源自动弹性扩缩 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 概述 最近项目组内做code review，充斥着大量的、原始的、丑陋的判空语句，大致类似下面的代码：  
     </details> 
 
-- 🕯 [JavaScript基础与变量](https://juejin.cn/post/7149194077353803807) | Fri Sep 30 2022 3:24 PM 
+- 🕯 [739. 每日温度 : 单调栈模板题](https://juejin.cn/post/7149338237121593351) | Sat Oct 01 2022 12:43 AM 
     <details><summary>展开描述 ...</summary> 
-    语句 JavaScript 程序的执行单位为行（line），也就是一行一行地执行。一般情况下，每一行就是一个语句。语句（statement）是为了完成某种任务而进行的操作，比如下面就是一行赋值语句。  
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 题目描述 这是 LeetCode 上的 739. 每日温度 ，难度为 中等。 Tag : 「单调栈」 给 
     </details> 
 
-- 🚀 [CSS实现背景跟随滑动的按钮菜单效果](https://juejin.cn/post/7149188833421033485) | Fri Sep 30 2022 3:04 PM 
+- 🚀 [Sentinel源码6-流控管理FlowSlot](https://juejin.cn/post/7149336225906688008) | Sat Oct 01 2022 12:36 AM 
     <details><summary>展开描述 ...</summary> 
-    通过transition过渡属性，可以将相关css属性的变化，改为一个持续一段时间的连续过程，而不是使css样式的改变立即生效，其过程按照指定的曲线速率变化...... 
+    Sentinel流控管理FlowSlot，Rule规则配置，DefaultController快速失败流控、RateLimiterController匀速排队流控 
     </details> 
 
-- 💪 [【算法题解】 Day2 字符串](https://juejin.cn/post/7149186065751310350) | Fri Sep 30 2022 2:57 PM 
+- 💪 [带你5分钟搞懂MySQL存储引擎](https://juejin.cn/post/7149320508645834783) | Fri Sep 30 2022 11:39 PM 
     <details><summary>展开描述 ...</summary> 
-    今天的算法是 字符串 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
+    MySQL中的数据通过不同的技术存储在文件（或者内存）中，这些技术中的每一种技术都使用不同的存储机制、索引技巧、锁定级别等不同的功能和能力，这些不同的技术以及配套的相关功能被称为存储引擎。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
