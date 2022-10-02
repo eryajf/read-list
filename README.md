@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [驱动页面曝光AMD计划推出Radeon Pro W6300 2GB入门工作站显卡](https://www.cnbeta.com/articles/tech/1323133.htm) | Sun Oct 02 2022 7:12 AM 
+- 🕯 [那个发射火箭失败的男人 用Emoji书写兰亭集序](https://www.cnbeta.com/articles/tech/1323177.htm) | Sun Oct 02 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;采用了被大砍一刀的 Navi 24 GPU 核心的 Radeon RX 6400，在游戏显卡市场的存在感相当微弱。&lt;strong&gt;即便如此，AMD 官网上还是冒出了一个独特的 Radeon Pro W6300 工作站型号。&lt;/strong&gt;早些时候，@Komachi_Ensaka 在 AMD 专业图形卡的驱动支持页面发现了它的身影。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;八月底，徐冰的作品摆进了故宫。由故宫博物院、腾讯公司发起的《照见天地心——中国书房的意与象》展览的三年筹办期间，向六位当代艺术家白明、刘丹、唐明修、徐冰、徐累、张永和开放了所有品类文物的选择、研习，并邀请他们为本次展览进行历时一年的创作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星Galaxy A14新机渲染图曝光](https://www.cnbeta.com/articles/tech/1323131.htm) | Sun Oct 02 2022 6:04 AM 
+- 💼 [外媒检查了100多部闲置的三星Galaxy智能机 未发现电池鼓包](https://www.cnbeta.com/articles/tech/1323175.htm) | Sun Oct 02 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年 12 月和今年 3 月，三星陆续推出 5G / 4G 版本的 Galaxy A13 智能机。6 月份的时候，这家韩国电子巨头又提供了采用联发科 Helio G80 SoC 的机型。&lt;strong&gt;但在接下来的几个月里，我们很有希望看到继任者 Galaxy A14 的到来&lt;/strong&gt; —— 因为 GizNext 刚刚携手 @OnLeaks，独家曝光了这款新机的渲染图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周早些时候，SamMobile 建议有 Galaxy 旧手机的用户检查其电池是否有鼓包等异常。&lt;strong&gt;但在与 GalaxyClub 的伙计们一样，对放置在办公室和家里的百余部 Galaxy 智能机进行检验之后，其确定这件事的发生几率、并没有大家想象的那么离谱。&lt;/strong&gt;具体说来是，SamMobile 翻找了手头大约 50 部 Galaxy 手机、而 GalaxyClub 验证了大约 60 部。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉披露自研Dojo超算项目新进展 测试性能强到一度让电网跳闸](https://www.cnbeta.com/articles/tech/1323129.htm) | Sun Oct 02 2022 5:30 AM 
+- 💂 [圣母院、佛像和名画，还有什么是AI不能修的？](https://www.cnbeta.com/articles/tech/1323173.htm) | Sun Oct 02 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为特斯拉自行定制的超算平台，Doji 旨在为该公司的人工智能（AI）/ 机器学习（ML）应用提供支撑。尤其是利用其自动驾驶车队采集的视频数据，以展开相关训练。&lt;strong&gt;此前这家电动汽车巨头已经拥有一台基于 NVIDIA GPU 的大型超算，但 Dojo 已用上特斯拉的自研芯片和全套基础设施。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;人工智能，让我们穿越时空。&lt;/strong&gt;如何利用数字化之力让文化遗产更好地“活”起来，成了不少人关心的问题。数字技术和文化遗产的深度融合，一是可以强化对文化遗产存量破损的针对性修复与增量破损的前瞻性预防，让文化遗产得到妥善保护、实现数字永生；二是可以将文化遗产跟大众以多重形式连接，让人们可以近距离接触、了解和感受文化遗产的魅力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微星首批AMD B650主板售价曝光 AM5中端新选199美元起](https://www.cnbeta.com/articles/tech/1323127.htm) | Sun Oct 02 2022 4:33 AM 
+- 🚀 [为玩18禁黄游中国网友众筹1340万 结果被坑惨了](https://hot.cnbeta.com/articles/game/1323171.htm) | Sun Oct 02 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于高昂的首发定价和仅支持新一代 DDR5 内存，AMD 锐龙 7000 系列台式处理器和 X670 / X670E 芯片组主板也劝退了不少铁杆粉丝。不过熟悉近些年 DIY 市场规律的消费者，显然更期待红队的中端 B650 / B650E 产品线。&lt;strong&gt;周六，@Momomo_us 在 Twitter 上晒出了一张截图，展示了美国零售商 B&amp;amp;H 的 B650 主板首发报价，可知最低“仅需”199 美元（约 1416 RMB）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天聊的这件事，可以用那句小品名台词来概括：&lt;strong&gt;猪撞树上你知道拐了，大鼻涕流嘴里你知道甩了，中国玩家打差评你知道要出简中了。&lt;/strong&gt;一切起因要从前段时间一家名为“马头社”的游戏公司，发布了一则充满了机翻味道的中文“嘲讽公告”说起，先简单概括一下公告内容：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中科大校友一次意外事故 造就了让3000万人摘掉眼镜的手术](https://www.cnbeta.com/articles/tech/1323125.htm) | Sun Oct 02 2022 4:22 AM 
+- 🎊 [《装机模拟器2》新预告 10月12日Epic发售](https://hot.cnbeta.com/articles/game/1323169.htm) | Sun Oct 02 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;密歇根大学一次意外的实验室事故，导致中国博士生视网膜中心烧伤（嘶，好痛）。但也就是这么一次意外，后来造福了3000多万近视患者——&lt;strong&gt;飞秒激光LASIK手术&lt;/strong&gt;就此萌芽。今年的金鹅奖，就颁给了该实验室的五人组，以表彰他们在近视手术领域所做出的突出贡献。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（10月2日），《装机模拟器2》最新预告，该作将于10月12日发售，Epic Game商城独占发售。在职业模式（Career Mode）中开启属于你自己的 PC 业务，学习如何组装并修复 PC。升级你的工作间，随着升级而解锁新的工具与设备。赚取利润，并为你的顾客们超长发挥，看着好评飞涌而来。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
