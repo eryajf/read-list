@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NASA Ingenuity直升机发现其掉落在火星上的异物](https://www.cnbeta.com/articles/science/1323189.htm) | Sun Oct 02 2022 9:30 AM 
+- 🕯 [外媒：Stadia云游戏亡于没人信任Google](https://hot.cnbeta.com/articles/game/1323193.htm) | Sun Oct 02 2022 10:57 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;尽管英伟达 GeForce Now 和微软 Xbox Cloud Gaming 在云游戏市场吸引力相当高的关注度，&lt;strong&gt;但搜索巨头 Google 旗下的 Stadia 平台，还是于近日被揭示了最终的结局。&lt;/strong&gt;7 月下旬，@GoogleStadia 官方推特账号还在那澄清这项云游戏服务不会被关停、8 月份又迎来了 Party Stream 直播功能增强 —— 直到 9 月下旬被官宣将于 2023 年 1 月 18 日正式道别。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [低成本甲烷转甲醇：科学家成功在常温常压下实现光催化](https://www.cnbeta.com/articles/science/1323191.htm) | Sun Oct 02 2022 10:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在投递给《化学通讯》期刊的一篇文章中，&lt;strong&gt;来自巴西圣卡洛斯联邦大学（UFSCar）的一支研究团队，详细介绍了如何通过在“光氧化”过程中使用光和分散的过渡金属（比如铜），成功地将甲烷转化为甲醇。&lt;/strong&gt;更棒的是，这项技术可在相对温和的常温（25℃）常压（1 bar）下得到运用，意味着他们找到了一种将这种强效温室气体、制成液态燃料的好方法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [NASA Ingenuity直升机发现其掉落在火星上的异物](https://www.cnbeta.com/articles/science/1323189.htm) | Sun Oct 02 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;来自火星直升机的导航相机的画面显示了一小块异物碎片（FOD）。在Ingenuity火星直升机第33次飞行期间，从火星直升机的导航相机（Navcam）的镜头（见以下视频）中看到了一小块异物碎片（FOD）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [2022 全球程序员薪资排行：中国倒数，美国写Go最挣钱](https://www.cnbeta.com/articles/tech/1323187.htm) | Sun Oct 02 2022 9:25 AM 
+- 🚀 [2022 全球程序员薪资排行：中国倒数，美国写Go最挣钱](https://www.cnbeta.com/articles/tech/1323187.htm) | Sun Oct 02 2022 9:25 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;2022 年全球程序员薪资排行榜单来了：中国上榜全球薪酬&lt;strong&gt;最低&lt;/strong&gt;国家名单，排名&lt;strong&gt;倒 9&lt;/strong&gt;。并且，榜单上程序员全球最高年薪和最低年薪之间相差 &lt;strong&gt;102885 美元&lt;/strong&gt;&amp;nbsp;（约合人民币 70 万元）。what？？？差距有这么大？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华为P60系列用上骁龙8 Gen2：最快明年3月见](https://www.cnbeta.com/articles/tech/1323185.htm) | Sun Oct 02 2022 9:03 AM 
+- 🎊 [华为P60系列用上骁龙8 Gen2：最快明年3月见](https://www.cnbeta.com/articles/tech/1323185.htm) | Sun Oct 02 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年9月，时隔两年的华为Mate 50系列发布，凭借华为自研XMAGE影像、北斗短报文、华为昆仑玻璃等特性，新机推出后受到许多消费者抢购，市场也出现了部分型号一机难求的现象。按照华为新机迭代策略，下一款旗舰新机将是华为P系列。今日，数码博主“厂长是关同学”透露，&lt;strong&gt;预计华为P60系列发布会时间在2023年3月-4月期间。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [新研究发现智能机有助提升用户记忆力 而不是导致“数字痴呆”](https://www.cnbeta.com/articles/science/1323183.htm) | Sun Oct 02 2022 8:56 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在近期发表于《实验心理学杂志：总论》上的一项新研究中，&lt;strong&gt;伦敦大学学院（UCL）研究人员指出 —— 使用智能手机等数字设备，实际上可能有益于个人的记忆能力、而不是让用户变得懒惰或健忘。&lt;/strong&gt;此前曾有神经科学家担心技术的过度使用，可能导致人类认知能力的下降，也就是所谓的“数字痴呆”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [NASA更新波音Starliner首次载人前往空间站任务的乘员分配情况](https://www.cnbeta.com/articles/science/1323181.htm) | Sun Oct 02 2022 8:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国国家航空航天局（NASA）向国际空间站（ISS）发射的波音&amp;quot;Starliner&amp;quot;-1号已经增加了两名宇航员，这将是该航天器在完成飞行测试和认证后的首次载人任务。在这次任务中，美国宇航局的宇航员Scott Tingle和Mike Fincke将分别担任CST-100 Starliner航天器的指挥官和飞行员。两位宇航员以前都曾作为机组成员在空间站上飞行过。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
