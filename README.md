@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [巨型&quot;超级神经元&quot;在超级老人的大脑中被发现](https://www.cnbeta.com/articles/science/1323249.htm) | Sun Oct 02 2022 8:18 PM 
+- 🕯 [iPhone 14 Plus的交货时间开始增长 Pro机型的需求量仍然很大](https://www.cnbeta.com/articles/tech/1323257.htm) | Sun Oct 02 2022 11:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一家产品供应跟踪机构称，相对于iPhone 13 Pro，iPhone 14 Pro机型的需求量仍然很高，而iPhone 14的需求量显然比iPhone 13弱，但对于iPhone 14 Plus来说，似乎有一个好消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [[图]七款华擎B650/B650E主板规格曝光](https://www.cnbeta.com/articles/tech/1323255.htm) | Sun Oct 02 2022 10:59 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;国外可以媒体 VideoCardz 分享了华擎即将推出的 B650 和 B650E 两款主板的规格信息。只不过和微星的 B650 主板一样，本次泄露遗憾的是依然没有售价方面的信息。本次泄露的共有七款型号，包括四款 B650E 和三款 B650 型号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [[图]特斯拉第3季度交付34万辆 再次刷新季度记录](https://www.cnbeta.com/articles/tech/1323253.htm) | Sun Oct 02 2022 10:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;特斯拉近日宣布 2022 年第 3 季度共计交付 343830 辆汽车，再次刷新季度记录。这表明这家由埃隆·马斯克 &lpar;Elon Musk&rpar; 拥有的公司已从第 2 季度受疫情影响而停产的阴霾中走出来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Linux Kernel 6.0稳定版正式发布 新功能/新特性盘点](https://www.cnbeta.com/articles/tech/1323251.htm) | Sun Oct 02 2022 10:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;没有遇到意外，&lt;a href=&quot;https://lkml.org/lkml/2022/10/2/255&quot; target=&quot;_blank&quot;&gt;Linus Torvalds 于今天推出了 Linux 6.0 稳定版&lt;/a&gt;。国外科技媒体 Phoenix 盘点了新版本即将引入的诸多新功能新特性。该媒体于今年 8 月中旬 Linux Kernel 6.0 合并窗口期时曾撰写过此类文章，而今天发布的文章在重新回顾了这些新功能新特性之外，还整合了之后 Linux 团队做出的调整。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [巨型&quot;超级神经元&quot;在超级老人的大脑中被发现](https://www.cnbeta.com/articles/science/1323249.htm) | Sun Oct 02 2022 8:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;与认知能力一般的同龄人和患有早期阿尔茨海默病的人相比，超级老人（指的是80岁以上的身体与精神都表现出强健的老年人）大脑内负责记忆的entorhinal皮层的神经元明显较大。与比超级老人年轻20至30岁的人相比甚至更大，并且他们的神经元没有藏有tau缠结，这是阿尔茨海默病的一个标志性特征。这些发现刊载在9月30日发表在《神经科学杂志》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [云南大学丛培允课题组在《Current Biology》发文揭示触手冠动物的祖先形态](https://www.cnbeta.com/articles/science/1323247.htm) | Sun Oct 02 2022 7:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年9月27日，古生物研究院丛培允课题组与国内外合作者共同揭示了两侧对称动物的一个特殊支系——触手冠类（包括腕足动物门、帚虫动物门和苔藓虫动物门）在寒武纪早期的形态特征，相关成果以A Cambrian tommotiid preserving soft tissues reveals the metameric ancestry of lophophorates为题发表在Cell出版社旗下的Current Biology杂志。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [苹果高管接受日媒采访时谈及iPhone 14 Pro的灵动岛设计理念](https://www.cnbeta.com/articles/tech/1323245.htm) | Sun Oct 02 2022 7:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在一次新的采访中，苹果公司软件工程高级副总裁Craig Federighi（克雷格·费德里吉）和苹果公司人机界面设计副总裁Alan Dye（阿兰·戴伊）坐下来讨论了iPhone 14 Pro的灵动岛背后的想法以及它是如何开发的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [从国际空间站拍摄的四级飓风“伊恩”的惊人照片](https://www.cnbeta.com/articles/science/1323243.htm) | Sun Oct 02 2022 4:57 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;飓风伊恩出现在一张惊人的照片中，这张照片是由国际空间站（ISS）上的宇航员拍摄的。当这张照片被拍下时，国际空间站正在伯利兹以东的加勒比海上空258英里处运行。当时，伊恩就在古巴的南部，正在增强力量，并向佛罗里达州方向前进。前景（左起）是与拉斯韦特舱对接的联盟MS-22号乘员船，以及与普里察尔舱对接的联盟MS-21号乘员船。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [天玑8000处理器加持：索尼XQ-DS99新机现身Geekbench](https://www.cnbeta.com/articles/tech/1323241.htm) | Sun Oct 02 2022 4:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，索尼一款型号为XQ-DS99的新机突然出现在了Geekbench平台，其处理器等详细参数也因此公布。根据Geekbench放出的参数，&lt;strong&gt;XQ-DS99搭载了一颗天玑8000处理器，拥有12GB内存，运行Android 12系统，单核跑分867分，多核跑分3484分。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
