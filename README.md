@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Kafka中生产消息时的三种分区分配策略](https://juejin.cn/post/7149794702441594910) | Sun Oct 02 2022 6:16 AM 
+- 🤗 [【恶魔的眼睛】鼠标在哪儿，眼睛就在哪儿！](https://juejin.cn/post/7149808616202043405) | Sun Oct 02 2022 7:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 前言 今天外甥女在动画片里面居然看到一个小怪兽，摄像头往哪边移动，小怪兽的眼睛就往哪边看。她看着小怪兽的 
+    </details> 
+
+- 🎡 [从屏幕旋转到安卓页面数据保存恢复](https://juejin.cn/post/7149804182000631839) | Sun Oct 02 2022 6:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 　　开篇先提出一个面试中比较常问的问题。当手机屏幕旋转后，当前页面的生命周期经历了什么过程？我们带着这个 
+    </details> 
+
+- 🕯 [Lua 起航 —— 一些常用基础语法](https://juejin.cn/post/7149798066055938079) | Sun Oct 02 2022 6:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    Lua 起航 —— 常用基础语法 一、注释 二、标识符 三、全局变量 四、数据类型 五、作用域 六、循环语句 七、if 语句 八、goto 九、关系符号 
+    </details> 
+
+- 🚀 [【前端工程化】我开源了个高效的图片压缩工具 - fast-imagemin-cli](https://juejin.cn/post/7149797338897186846) | Sun Oct 02 2022 6:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    Hello,我是Xc,一位因antfu结缘开源的前端菜鸟,今天和大家分享最近开源的一个高效的图片压缩工具fast-imagemin-cli。 
+    </details> 
+
+- 💪 [Kafka中生产消息时的三种分区分配策略](https://juejin.cn/post/7149794702441594910) | Sun Oct 02 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
     KafkaProducer在发送消息的时候,需要指定发送到哪个分区, 那么这个分区策略都有哪些呢？我们今天来看一下 
-    </details> 
-
-- 🎡 [多网络情况下,Kafka客户端如何选择合适的网络发起请求](https://juejin.cn/post/7149794023631224868) | Sun Oct 02 2022 6:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近有个同学问了我一个非常有意思的问题, 今天我根据这个问题来给大家好好分析一下。前提知识我们都知道, 每个Broker都可以配置多个监听器, 用来用于网络分流。 
-    </details> 
-
-- 🕯 [Vue 实例生命周期钩子](https://juejin.cn/post/7149790045019308046) | Sun Oct 02 2022 5:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 每个 Vue 实例在被创建时都要经过一系列的初始化过程——例如，需要设置数据监听、编译模板、将实例挂载到 
-    </details> 
-
-- 🚀 [Vue 模板语法](https://juejin.cn/post/7149788775600619527) | Sun Oct 02 2022 5:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 Vue.js 使用了基于 HTML 的模板语法，允许开发者声明式地将 DOM 绑定至底层 Vue 实例的 
-    </details> 
-
-- 💪 [一次 vue2 Watch 监听失效引发的对 Watch 的思考](https://juejin.cn/post/7149762007128866852) | Sun Oct 02 2022 4:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    一次项目中遇到的 bug 让我对 watch 有了更深的认识。从源码角度分析此次 bug ，简单高效。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
