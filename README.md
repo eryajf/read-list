@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星Galaxy A14新机渲染图曝光](https://www.cnbeta.com/articles/tech/1323131.htm) | Sun Oct 02 2022 6:04 AM 
+- 🕯 [驱动页面曝光AMD计划推出Radeon Pro W6300 2GB入门工作站显卡](https://www.cnbeta.com/articles/tech/1323133.htm) | Sun Oct 02 2022 7:12 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;采用了被大砍一刀的 Navi 24 GPU 核心的 Radeon RX 6400，在游戏显卡市场的存在感相当微弱。&lt;strong&gt;即便如此，AMD 官网上还是冒出了一个独特的 Radeon Pro W6300 工作站型号。&lt;/strong&gt;早些时候，@Komachi_Ensaka 在 AMD 专业图形卡的驱动支持页面发现了它的身影。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [三星Galaxy A14新机渲染图曝光](https://www.cnbeta.com/articles/tech/1323131.htm) | Sun Oct 02 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;去年 12 月和今年 3 月，三星陆续推出 5G / 4G 版本的 Galaxy A13 智能机。6 月份的时候，这家韩国电子巨头又提供了采用联发科 Helio G80 SoC 的机型。&lt;strong&gt;但在接下来的几个月里，我们很有希望看到继任者 Galaxy A14 的到来&lt;/strong&gt; —— 因为 GizNext 刚刚携手 @OnLeaks，独家曝光了这款新机的渲染图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉披露自研Dojo超算项目新进展 测试性能强到一度让电网跳闸](https://www.cnbeta.com/articles/tech/1323129.htm) | Sun Oct 02 2022 5:30 AM 
+- 💂 [特斯拉披露自研Dojo超算项目新进展 测试性能强到一度让电网跳闸](https://www.cnbeta.com/articles/tech/1323129.htm) | Sun Oct 02 2022 5:30 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;作为特斯拉自行定制的超算平台，Doji 旨在为该公司的人工智能（AI）/ 机器学习（ML）应用提供支撑。尤其是利用其自动驾驶车队采集的视频数据，以展开相关训练。&lt;strong&gt;此前这家电动汽车巨头已经拥有一台基于 NVIDIA GPU 的大型超算，但 Dojo 已用上特斯拉的自研芯片和全套基础设施。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微星首批AMD B650主板售价曝光 AM5中端新选199美元起](https://www.cnbeta.com/articles/tech/1323127.htm) | Sun Oct 02 2022 4:33 AM 
+- 🚀 [微星首批AMD B650主板售价曝光 AM5中端新选199美元起](https://www.cnbeta.com/articles/tech/1323127.htm) | Sun Oct 02 2022 4:33 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;由于高昂的首发定价和仅支持新一代 DDR5 内存，AMD 锐龙 7000 系列台式处理器和 X670 / X670E 芯片组主板也劝退了不少铁杆粉丝。不过熟悉近些年 DIY 市场规律的消费者，显然更期待红队的中端 B650 / B650E 产品线。&lt;strong&gt;周六，@Momomo_us 在 Twitter 上晒出了一张截图，展示了美国零售商 B&amp;amp;H 的 B650 主板首发报价，可知最低“仅需”199 美元（约 1416 RMB）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中科大校友一次意外事故 造就了让3000万人摘掉眼镜的手术](https://www.cnbeta.com/articles/tech/1323125.htm) | Sun Oct 02 2022 4:22 AM 
+- 🎊 [中科大校友一次意外事故 造就了让3000万人摘掉眼镜的手术](https://www.cnbeta.com/articles/tech/1323125.htm) | Sun Oct 02 2022 4:22 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;密歇根大学一次意外的实验室事故，导致中国博士生视网膜中心烧伤（嘶，好痛）。但也就是这么一次意外，后来造福了3000多万近视患者——&lt;strong&gt;飞秒激光LASIK手术&lt;/strong&gt;就此萌芽。今年的金鹅奖，就颁给了该实验室的五人组，以表彰他们在近视手术领域所做出的突出贡献。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [外媒：尼日利亚将考虑购买中国国产C919大型客机](https://www.cnbeta.com/articles/tech/1323123.htm) | Sun Oct 02 2022 4:21 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据路透社1日报道，尼日利亚民航部长西里卡表示，随着尼日利亚计划在2025年左右将尼日利亚航空拥有的飞机数量规模扩大至30架，该国将考虑购买中国国产C919大型客机。在加拿大蒙特利尔出席国际民航组织大会的西里卡1日接受路透社采访时表示，尼日利亚航空将使用空客和波音飞机，但也愿意考虑中国国产C919大型客机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
