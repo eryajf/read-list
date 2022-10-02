@@ -367,7 +367,7 @@
 - 🥸 [陈硕这次在在 C++ 技术大会上的分享，感觉挺受用的](https://www.v2ex.com/t/884339#reply1) | Sun Oct 02 2022 4:20 AM
 - 🤗 [feed43 证书过期 Reeder 无法订阅](https://www.v2ex.com/t/884333#reply2) | Sun Oct 02 2022 3:09 AM
 - 🎭 [Win10 开 SMB，电视无线连接，播放电影卡顿](https://www.v2ex.com/t/884326#reply5) | Sun Oct 02 2022 2:43 AM
-- 🥷 [dexie.js 求助](https://www.v2ex.com/t/884322#reply2) | Sun Oct 02 2022 2:13 AM
+- 🥷 [dexie.js 求助](https://www.v2ex.com/t/884322#reply4) | Sun Oct 02 2022 2:13 AM
 - 🐵 [有哪些趣味刷 Python 题目的网站](https://www.v2ex.com/t/884307#reply5) | Sat Oct 01 2022 9:37 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
