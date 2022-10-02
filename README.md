@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [js 和 css 是如何影响DOM树构建的？](https://juejin.cn/post/7149863863557554212) | Sun Oct 02 2022 10:46 AM 
+- 🤗 [【单向数据流 / 单向绑定原则】自定义组件绑定事件未触发 | 避坑](https://juejin.cn/post/7149877814471655431) | Sun Oct 02 2022 11:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、前言 二、需求 &amp; 效果 直接上效果： 三、踩坑代码 3.1 自定义组件 非常简单的自定义组件写法，仅用了一个 props 自定义属性，接收来自父组件的数据。 3.2 使用 使用的时候仅需将自定义 
+    </details> 
+
+- 🎡 [js 和 css 是如何影响DOM树构建的？](https://juejin.cn/post/7149863863557554212) | Sun Oct 02 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 大家好，我是coderBin js 和 css 是如何影响DOM树构建的？ 先做个总结，然后再进行具体的 
     </details> 
 
-- 🎡 [3分钟，terraform 快速入门实践](https://juejin.cn/post/7149860126420107294) | Sun Oct 02 2022 10:31 AM 
+- 🕯 [3分钟，terraform 快速入门实践](https://juejin.cn/post/7149860126420107294) | Sun Oct 02 2022 10:31 AM 
     <details><summary>展开描述 ...</summary> 
     安装和基本使用 创建项目 Docker Nginx App with terraform 初始化项目 注意：当曾经设置或者修改过 provider 相关配置后，需要重新初始化一次来更新元配置 init 
     </details> 
 
-- 🕯 [解密 Golang json 库中的 RawMessage](https://juejin.cn/post/7149848236017057805) | Sun Oct 02 2022 9:43 AM 
+- 🚀 [解密 Golang json 库中的 RawMessage](https://juejin.cn/post/7149848236017057805) | Sun Oct 02 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
     json 作为一种通用的编解码协议，可读性上比 protobuf 等协议要好一些，同时编码的 size 也会比 xml 这类协议要小，在市面上用的非常多。今天我们来学习下 RawMessage。 
     </details> 
 
-- 🚀 [比羊了个羊还难的游戏：捕获YoYo](https://juejin.cn/post/7149846598858571783) | Sun Oct 02 2022 9:37 AM 
+- 💪 [比羊了个羊还难的游戏：捕获YoYo](https://juejin.cn/post/7149846598858571783) | Sun Oct 02 2022 9:37 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 游戏玩法 玩家通过鼠标点击的方式打开灯光，假如运气好找到yoyo的藏身地，那么游戏会直接结束，假如运气不 
-    </details> 
-
-- 💪 [Android Handler（3）消息休眠、唤醒简单分析](https://juejin.cn/post/7149846387029786661) | Sun Oct 02 2022 9:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    要了解handler休眠、唤醒机制，在native层，消息循环的休眠和唤醒使用了Linux内核的epoll机制 首先我们要了解一下linux下的epoll机制。从百度拷贝过来借鉴下。 epoll是什么 
     </details> 
 <!-- juejin:END -->
 ### 少数派
