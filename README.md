@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【恶魔的眼睛】鼠标在哪儿，眼睛就在哪儿！](https://juejin.cn/post/7149808616202043405) | Sun Oct 02 2022 7:12 AM 
+- 🤗 [聊一聊redisson及优雅实现](https://juejin.cn/post/7149822807189225509) | Sun Oct 02 2022 8:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 可重入性 【多个业务线同一时刻n条扣款，如果用setnx，我怎么监控的加锁解锁线程？死锁不得发生呐？】  
+    </details> 
+
+- 🎡 [学习一波PerspectiveCamera&lpar;透视相机&rpar;，此道甚难](https://juejin.cn/post/7149820572074475556) | Sun Oct 02 2022 7:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情。今日学习一波three.js的PerspectiveCamera&lpar;透视相机&rpar;知识点。 
+    </details> 
+
+- 🕯 [【恶魔的眼睛】鼠标在哪儿，眼睛就在哪儿！](https://juejin.cn/post/7149808616202043405) | Sun Oct 02 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 前言 今天外甥女在动画片里面居然看到一个小怪兽，摄像头往哪边移动，小怪兽的眼睛就往哪边看。她看着小怪兽的 
     </details> 
 
-- 🎡 [从屏幕旋转到安卓页面数据保存恢复](https://juejin.cn/post/7149804182000631839) | Sun Oct 02 2022 6:54 AM 
+- 🚀 [从屏幕旋转到安卓页面数据保存恢复](https://juejin.cn/post/7149804182000631839) | Sun Oct 02 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 　　开篇先提出一个面试中比较常问的问题。当手机屏幕旋转后，当前页面的生命周期经历了什么过程？我们带着这个 
     </details> 
 
-- 🕯 [Lua 起航 —— 一些常用基础语法](https://juejin.cn/post/7149798066055938079) | Sun Oct 02 2022 6:32 AM 
+- 💪 [Lua 起航 —— 一些常用基础语法](https://juejin.cn/post/7149798066055938079) | Sun Oct 02 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
     Lua 起航 —— 常用基础语法 一、注释 二、标识符 三、全局变量 四、数据类型 五、作用域 六、循环语句 七、if 语句 八、goto 九、关系符号 
-    </details> 
-
-- 🚀 [【前端工程化】我开源了个高效的图片压缩工具 - fast-imagemin-cli](https://juejin.cn/post/7149797338897186846) | Sun Oct 02 2022 6:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    Hello,我是Xc,一位因antfu结缘开源的前端菜鸟,今天和大家分享最近开源的一个高效的图片压缩工具fast-imagemin-cli。 
-    </details> 
-
-- 💪 [Kafka中生产消息时的三种分区分配策略](https://juejin.cn/post/7149794702441594910) | Sun Oct 02 2022 6:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    KafkaProducer在发送消息的时候,需要指定发送到哪个分区, 那么这个分区策略都有哪些呢？我们今天来看一下 
     </details> 
 <!-- juejin:END -->
 ### 少数派
