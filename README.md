@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华为P60系列用上骁龙8 Gen2：最快明年3月见](https://www.cnbeta.com/articles/tech/1323185.htm) | Sun Oct 02 2022 9:03 AM 
+- 🕯 [NASA Ingenuity直升机发现其掉落在火星上的异物](https://www.cnbeta.com/articles/science/1323189.htm) | Sun Oct 02 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;来自火星直升机的导航相机的画面显示了一小块异物碎片（FOD）。在Ingenuity火星直升机第33次飞行期间，从火星直升机的导航相机（Navcam）的镜头（见以下视频）中看到了一小块异物碎片（FOD）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [2022 全球程序员薪资排行：中国倒数，美国写Go最挣钱](https://www.cnbeta.com/articles/tech/1323187.htm) | Sun Oct 02 2022 9:25 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;2022 年全球程序员薪资排行榜单来了：中国上榜全球薪酬&lt;strong&gt;最低&lt;/strong&gt;国家名单，排名&lt;strong&gt;倒 9&lt;/strong&gt;。并且，榜单上程序员全球最高年薪和最低年薪之间相差 &lt;strong&gt;102885 美元&lt;/strong&gt;&amp;nbsp;（约合人民币 70 万元）。what？？？差距有这么大？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [华为P60系列用上骁龙8 Gen2：最快明年3月见](https://www.cnbeta.com/articles/tech/1323185.htm) | Sun Oct 02 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年9月，时隔两年的华为Mate 50系列发布，凭借华为自研XMAGE影像、北斗短报文、华为昆仑玻璃等特性，新机推出后受到许多消费者抢购，市场也出现了部分型号一机难求的现象。按照华为新机迭代策略，下一款旗舰新机将是华为P系列。今日，数码博主“厂长是关同学”透露，&lt;strong&gt;预计华为P60系列发布会时间在2023年3月-4月期间。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新研究发现智能机有助提升用户记忆力 而不是导致“数字痴呆”](https://www.cnbeta.com/articles/science/1323183.htm) | Sun Oct 02 2022 8:56 AM 
+- 🚀 [新研究发现智能机有助提升用户记忆力 而不是导致“数字痴呆”](https://www.cnbeta.com/articles/science/1323183.htm) | Sun Oct 02 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在近期发表于《实验心理学杂志：总论》上的一项新研究中，&lt;strong&gt;伦敦大学学院（UCL）研究人员指出 —— 使用智能手机等数字设备，实际上可能有益于个人的记忆能力、而不是让用户变得懒惰或健忘。&lt;/strong&gt;此前曾有神经科学家担心技术的过度使用，可能导致人类认知能力的下降，也就是所谓的“数字痴呆”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NASA更新波音Starliner首次载人前往空间站任务的乘员分配情况](https://www.cnbeta.com/articles/science/1323181.htm) | Sun Oct 02 2022 8:38 AM 
+- 🎊 [NASA更新波音Starliner首次载人前往空间站任务的乘员分配情况](https://www.cnbeta.com/articles/science/1323181.htm) | Sun Oct 02 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国国家航空航天局（NASA）向国际空间站（ISS）发射的波音&amp;quot;Starliner&amp;quot;-1号已经增加了两名宇航员，这将是该航天器在完成飞行测试和认证后的首次载人任务。在这次任务中，美国宇航局的宇航员Scott Tingle和Mike Fincke将分别担任CST-100 Starliner航天器的指挥官和飞行员。两位宇航员以前都曾作为机组成员在空间站上飞行过。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Google日本的沙雕Gboard键盘新增“单行”物理外形](https://www.cnbeta.com/articles/tech/1323179.htm) | Sun Oct 02 2022 8:31 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在推出&amp;quot;茶杯版&amp;quot;一年后，Google日本又为Android的默认键盘应用推出了新的物理外形：&amp;quot;Gboard栏&amp;quot;，这个设计理念极为沙雕的键盘将按键排列成一条直线，&amp;quot;这样你就不必四处寻找&amp;quot;。官方称它是&amp;quot;极简设计&amp;quot;，长度为1650毫米，好处是，它占用很少的垂直桌面空间，因此&amp;quot;即使在文件堆积如山的办公桌上也很方便&amp;quot;，至于横向空间……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [那个发射火箭失败的男人 用Emoji书写兰亭集序](https://www.cnbeta.com/articles/tech/1323177.htm) | Sun Oct 02 2022 8:23 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;八月底，徐冰的作品摆进了故宫。由故宫博物院、腾讯公司发起的《照见天地心——中国书房的意与象》展览的三年筹办期间，向六位当代艺术家白明、刘丹、唐明修、徐冰、徐累、张永和开放了所有品类文物的选择、研习，并邀请他们为本次展览进行历时一年的创作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
