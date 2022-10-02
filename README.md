@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Notionkey - keyboard designed for Notion - 在 Notion 中更好的写作体验](https://xinquji.com/posts/180040?utm_campaign=xinquji-rss) | Sun Oct 02 2022 6:26 AM 
+- 👀 [The User Engagement Audit - 消除用户参与和保留的猜测](https://xinquji.com/posts/180066?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     在 Notion 中更好的写作体验  
+     消除用户参与和保留的猜测  
     </details> 
 
-- 🥷 [Investic - 寻找最佳库存从未如此简单](https://xinquji.com/posts/180039?utm_campaign=xinquji-rss) | Sun Oct 02 2022 6:24 AM 
+- 🥷 [Bedrok - 保证自由职业者的工作](https://xinquji.com/posts/180065?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     寻找最佳库存从未如此简单  
+     保证自由职业者的工作  
     </details> 
 
-- 💼 [SoldLive - Shopify 应用程序用于自动化和扩展 FB 和 IG Live 销售](https://xinquji.com/posts/180038?utm_campaign=xinquji-rss) | Sun Oct 02 2022 6:24 AM 
+- 💼 [Pedal - 用于管理和维护车辆的汽车应用程序](https://xinquji.com/posts/180064?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     Shopify 应用程序用于自动化和扩展 FB 和 IG Live 销售  
+     用于管理和维护车辆的汽车应用程序  
     </details> 
 
-- 🦅 [Rememory - 传播爱。保持联系](https://xinquji.com/posts/180037?utm_campaign=xinquji-rss) | Sun Oct 02 2022 6:22 AM 
+- 🦅 [Welcome Center Estonia - 寻找公司并获得更深入的见解](https://xinquji.com/posts/180063?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     传播爱。保持联系  
+     寻找公司并获得更深入的见解  
     </details> 
 
-- 😺 [Limpet - easy links and snippets - 使用可爱的蓝色外壳节省获取链接的时间](https://xinquji.com/posts/180036?utm_campaign=xinquji-rss) | Sun Oct 02 2022 6:22 AM 
+- 😺 [Reddit Tales - Reddit 上的最佳故事视频直接发送给您](https://xinquji.com/posts/180062?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     使用可爱的蓝色外壳节省获取链接的时间  
+     Reddit 上的最佳故事视频直接发送给您  
     </details> 
 <!-- xinquji:END -->
