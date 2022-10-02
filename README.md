@@ -338,24 +338,24 @@
     本该起保驾护航的汽车中控，却可能因广告弹窗成为潜在的马路杀手。 
     </details> 
 
-- 🦄 [反转？美国国家安全局雇员向外国特工泄密，对方实为FBI卧底](https://www.freebuf.com/news/346079.html) | Fri Sep 30 2022 4:19 AM 
+- 🦄 [FreeBuf周报 | 普京正式授予斯诺登俄罗斯国籍；勒索组织正在将开源软件武器化](https://www.freebuf.com/news/346087.html) | Fri Sep 30 2022 5:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
+    </details> 
+
+- 🦅 [反转？美国国家安全局雇员向外国特工泄密，对方实为FBI卧底](https://www.freebuf.com/news/346079.html) | Fri Sep 30 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
     该雇员向一名冒充外国特工的联邦调查局卧底探员，发送被盗的机密信息摘录。 
     </details> 
 
-- 🦅 [CyberBattleSim-（内网自动化渗透）研究分析](https://www.freebuf.com/articles/network/336371.html) | Fri Sep 30 2022 3:45 AM 
+- 🪄 [CyberBattleSim-（内网自动化渗透）研究分析](https://www.freebuf.com/articles/network/336371.html) | Fri Sep 30 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
     CyberBattleSim是一款微软365 Defender团队开源的人工智能攻防对抗模拟工具，来源于微软的一个实验性研究项目。 
     </details> 
 
-- 🪄 [为了被重新聘用，被解雇员工竟黑了公司网络](https://www.freebuf.com/news/346062.html) | Fri Sep 30 2022 3:31 AM 
+- 💻 [为了被重新聘用，被解雇员工竟黑了公司网络](https://www.freebuf.com/news/346062.html) | Fri Sep 30 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     据悉，这名被解雇员工之所以这么做是为了让前公司以更高的薪水重新雇用他。 
-    </details> 
-
-- 💻 [65% 的公司正在考虑采用 VPN 替代方案](https://www.freebuf.com/news/346058.html) | Fri Sep 30 2022 3:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    VPN 风险报告表明，网络攻击者继续利用长期存在的安全漏洞，增加了对 VPN 的攻击。 
     </details> 
 <!-- freebuf:END -->
 
