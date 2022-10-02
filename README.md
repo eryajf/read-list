@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面试官：设计一个异步并发限制吧](https://juejin.cn/post/7149758196091977765) | Sun Oct 02 2022 3:54 AM 
+- 🤗 [一次 vue2 Watch 监听失效引发的对 Watch 的思考](https://juejin.cn/post/7149762007128866852) | Sun Oct 02 2022 4:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    一次项目中遇到的 bug 让我对 watch 有了更深的认识。从源码角度分析此次 bug ，简单高效。 
+    </details> 
+
+- 🎡 [面试官：设计一个异步并发限制吧](https://juejin.cn/post/7149758196091977765) | Sun Oct 02 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 引言 异步问题是一个十分热门的问题，同时异步的处理也是十分复杂的问题。无论在前端还是后端，我们都绕不开异 
     </details> 
 
-- 🎡 [Mobx结合mobx-react-lite在react hooks项目中的使用](https://juejin.cn/post/7149758152932589582) | Sun Oct 02 2022 3:54 AM 
+- 🕯 [Mobx结合mobx-react-lite在react hooks项目中的使用](https://juejin.cn/post/7149758152932589582) | Sun Oct 02 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
     本文总结了如何使用Mobx和mobx-react-lite在react hooks项目中实现状态管理，详细介绍了相关API和使用方法、步骤 
     </details> 
 
-- 🕯 [05-blog-用户注册](https://juejin.cn/post/7149758068593688583) | Sun Oct 02 2022 3:53 AM 
+- 🚀 [05-blog-用户注册](https://juejin.cn/post/7149758068593688583) | Sun Oct 02 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 上篇文章已经将json web token的加签和解签流程走完了，在业务场景中是当收到了用户登录的信息时 
     </details> 
 
-- 🚀 [力扣：第88场双周赛](https://juejin.cn/post/7149757861592072199) | Sun Oct 02 2022 3:52 AM 
+- 💪 [力扣：第88场双周赛](https://juejin.cn/post/7149757861592072199) | Sun Oct 02 2022 3:52 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 力扣——第88场双周赛 
-    </details> 
-
-- 💪 [Docker常用镜像命令之——FORM、MAINTAINER、RUN](https://juejin.cn/post/7149753570379137054) | Sun Oct 02 2022 3:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，本篇文章写一些Dockerfile配置文件的常用命令,FORM、MAINTAINER、RUN； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
