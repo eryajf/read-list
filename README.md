@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [从国际空间站拍摄的四级飓风“伊恩”的惊人照片](https://www.cnbeta.com/articles/science/1323243.htm) | Sun Oct 02 2022 4:57 PM 
+- 🕯 [巨型&quot;超级神经元&quot;在超级老人的大脑中被发现](https://www.cnbeta.com/articles/science/1323249.htm) | Sun Oct 02 2022 8:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;与认知能力一般的同龄人和患有早期阿尔茨海默病的人相比，超级老人（指的是80岁以上的身体与精神都表现出强健的老年人）大脑内负责记忆的entorhinal皮层的神经元明显较大。与比超级老人年轻20至30岁的人相比甚至更大，并且他们的神经元没有藏有tau缠结，这是阿尔茨海默病的一个标志性特征。这些发现刊载在9月30日发表在《神经科学杂志》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [云南大学丛培允课题组在《Current Biology》发文揭示触手冠动物的祖先形态](https://www.cnbeta.com/articles/science/1323247.htm) | Sun Oct 02 2022 7:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;2022年9月27日，古生物研究院丛培允课题组与国内外合作者共同揭示了两侧对称动物的一个特殊支系——触手冠类（包括腕足动物门、帚虫动物门和苔藓虫动物门）在寒武纪早期的形态特征，相关成果以A Cambrian tommotiid preserving soft tissues reveals the metameric ancestry of lophophorates为题发表在Cell出版社旗下的Current Biology杂志。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果高管接受日媒采访时谈及iPhone 14 Pro的灵动岛设计理念](https://www.cnbeta.com/articles/tech/1323245.htm) | Sun Oct 02 2022 7:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在一次新的采访中，苹果公司软件工程高级副总裁Craig Federighi（克雷格·费德里吉）和苹果公司人机界面设计副总裁Alan Dye（阿兰·戴伊）坐下来讨论了iPhone 14 Pro的灵动岛背后的想法以及它是如何开发的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [从国际空间站拍摄的四级飓风“伊恩”的惊人照片](https://www.cnbeta.com/articles/science/1323243.htm) | Sun Oct 02 2022 4:57 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;飓风伊恩出现在一张惊人的照片中，这张照片是由国际空间站（ISS）上的宇航员拍摄的。当这张照片被拍下时，国际空间站正在伯利兹以东的加勒比海上空258英里处运行。当时，伊恩就在古巴的南部，正在增强力量，并向佛罗里达州方向前进。前景（左起）是与拉斯韦特舱对接的联盟MS-22号乘员船，以及与普里察尔舱对接的联盟MS-21号乘员船。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [天玑8000处理器加持：索尼XQ-DS99新机现身Geekbench](https://www.cnbeta.com/articles/tech/1323241.htm) | Sun Oct 02 2022 4:52 PM 
+- 🎊 [天玑8000处理器加持：索尼XQ-DS99新机现身Geekbench](https://www.cnbeta.com/articles/tech/1323241.htm) | Sun Oct 02 2022 4:52 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，索尼一款型号为XQ-DS99的新机突然出现在了Geekbench平台，其处理器等详细参数也因此公布。根据Geekbench放出的参数，&lt;strong&gt;XQ-DS99搭载了一颗天玑8000处理器，拥有12GB内存，运行Android 12系统，单核跑分867分，多核跑分3484分。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [9月安卓手机性价比榜：骁龙8+旗舰不足3000元](https://www.cnbeta.com/articles/tech/1323239.htm) | Sun Oct 02 2022 3:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;十一国庆节，是商家历来都不可能错过的大促日子，所以在这个时间点上，我们带来的性价比榜单就愈发显得重要了一些。9月份的性价比榜单中，我们依旧根据价格分为五个部分，涵盖了从0-5000元以上的所有产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [9月安卓手机好评榜：Mate50 Pro上榜 小米12S Ultra蝉联](https://www.cnbeta.com/articles/tech/1323237.htm) | Sun Oct 02 2022 3:33 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月份安卓性能榜和性价比榜单之后，我们就迎来了好评榜，本期好评榜的机型中，小米12S&amp;nbsp;Ultra蝉联了好评榜冠军，华为时隔两年推出的Mate50&amp;nbsp;Pro旗舰紧随其后，发布当月就上榜，可见人们对于Mate50系列的期待真的太久了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [18岁奥运冠军被保送至浙大 一年工夫快认不出来了](https://www.cnbeta.com/articles/tech/1323235.htm) | Sun Oct 02 2022 3:20 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年的冬奥会上，年仅17岁的管晨辰摘得体操女子平衡木冠军，无论是比赛中的“袋鼠摇”，还是接受采访时的可爱跳，都萌翻了全场，在网上走红。不过，不同于全红婵继续一次次冲击冠军，管晨辰选择了“急流勇退”，不久前证实自己已经提交了退役申请。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
