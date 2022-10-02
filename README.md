@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求推荐个 vnc view 的 c++库](https://www.v2ex.com/t/884393#reply1) | Sun Oct 02 2022 10:54 AM
-- 🤗 [关于二本学历的程序员学习路线设计](https://www.v2ex.com/t/884392#reply4) | Sun Oct 02 2022 10:45 AM
+- 🥸 [求推荐个 vnc view 的 c++库](https://www.v2ex.com/t/884393#reply2) | Sun Oct 02 2022 10:54 AM
+- 🤗 [关于二本学历的程序员学习路线设计](https://www.v2ex.com/t/884392#reply14) | Sun Oct 02 2022 10:45 AM
 - 🎭 [XXL-RPC v1.7.0，分布式服务框架](https://www.v2ex.com/t/884388#reply0) | Sun Oct 02 2022 10:05 AM
-- 🥷 [何去何从？](https://www.v2ex.com/t/884372#reply8) | Sun Oct 02 2022 7:08 AM
+- 🥷 [何去何从？](https://www.v2ex.com/t/884372#reply9) | Sun Oct 02 2022 7:08 AM
 - 🐵 [请教大佬 js 和 Python 鼠标单击和双击 callback 问题](https://www.v2ex.com/t/884371#reply0) | Sun Oct 02 2022 7:08 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
