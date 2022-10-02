@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Spring-ApplicationContext](https://juejin.cn/post/7149566009383321608) | Sat Oct 01 2022 3:28 PM 
+- 🤗 [cypress 的错误消息 - the element has become detached or removed from the dom](https://juejin.cn/post/7149726124744900644) | Sun Oct 02 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-    一、ApplicationContext   ApplicationContext到底是什么？字面含义是应用的上下文。这块我们需要看看ApplicationContext的具体的结构。   通过App 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 这个错误消息的分析和解决方案，可以参考 Cypress 的官方文档。 这个错误消息提示我们，我们编写的  
     </details> 
 
-- 🎡 [23. ES6 Class 的继承](https://juejin.cn/post/7149565844333264904) | Sat Oct 01 2022 3:27 PM 
+- 🎡 [【爬虫】（二）windows10download.com](https://juejin.cn/post/7149719672848384030) | Sun Oct 02 2022 1:26 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 类的继承extends简介 Class 可以通过extends关键字实现继承，让子类继承父类的属性和方法。extends 的写法比 ES5 的原型链继承，要清晰和方便很多。 上面示例中，Poin 
+    因为毕设是基于机器学习的，所以需要大量的样本来训练模型和检验成果，因此，通过爬虫，在合法合规的情况下，爬取自己所需要的资源，在此进行记录，本期站点：windows10download.com； 
     </details> 
 
-- 🕯 [Spring-初始化源码分析](https://juejin.cn/post/7149565489675517988) | Sat Oct 01 2022 3:26 PM 
+- 🕯 [2022年我的面试万字总结（CSS篇）](https://juejin.cn/post/7149716216167268366) | Sun Oct 02 2022 1:12 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring初始化源码分析 一、refresh方法 二、prepareRefresh   完成一些刷新前的准备工作. 三、obtainFreshBeanFactory   在obtainFreshBe 
+    又到了金九银十季，最近我也是奔波于各种面试。我自己总结整理了很多方向的前端面试题。借着国庆这个假期，也把这些题目总结分享给大家，也祝正在面试的朋友们能够拿到满意的offer。 
     </details> 
 
-- 🚀 [SpringBoot中配置freemarker忽略自动配置](https://juejin.cn/post/7149564930235056159) | Sat Oct 01 2022 3:25 PM 
+- 🚀 [next.js 源码解析 - API 路由篇](https://juejin.cn/post/7149705834144989197) | Sun Oct 02 2022 12:32 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 or set spring.freemarker.checkTemplateLocation=false 
+    鉴于上篇了解了下 next.js 的 API 路由功能，本篇乘热打铁了解下 next.js API 路由相关的源码，看看源码是否有什么文档中没有的内容 
     </details> 
 
-- 💪 [从ifelse到策略模式，谈谈我对设计模式的理解](https://juejin.cn/post/7149564941710655519) | Sat Oct 01 2022 3:24 PM 
+- 💪 [MySQL的启动选项和系统变量你知道多少？](https://juejin.cn/post/7149704014098071583) | Sun Oct 02 2022 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言 一提到设计模式大家都会觉得很厉害，但是要用好设计模式确实不容易。甚至有很多人都不知道该在什么场景下使用设计模式。我之前就是这样，小傅哥的《重学Java设计模式》我也 
+    当我们启动程序的时候会需要一些设置项，各个设置项一般都有各自的默认值，我们可以在程序启动的时候去修改这些默认值，在启动时指定的设置项被称为启动选项，启动选项决定了程序启动后的行为。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
