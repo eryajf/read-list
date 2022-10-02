@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [The User Engagement Audit - 消除用户参与和保留的猜测](https://xinquji.com/posts/180066?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:28 AM 
+- 👀 [SpeakHub.live - 轻巧、强大的实时聊天解决方案](https://xinquji.com/posts/180067?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     轻巧、强大的实时聊天解决方案  
+    </details> 
+
+- 🥷 [The User Engagement Audit - 消除用户参与和保留的猜测](https://xinquji.com/posts/180066?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
      消除用户参与和保留的猜测  
     </details> 
 
-- 🥷 [Bedrok - 保证自由职业者的工作](https://xinquji.com/posts/180065?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:28 AM 
+- 💼 [Bedrok - 保证自由职业者的工作](https://xinquji.com/posts/180065?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
      保证自由职业者的工作  
     </details> 
 
-- 💼 [Pedal - 用于管理和维护车辆的汽车应用程序](https://xinquji.com/posts/180064?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:26 AM 
+- 🦅 [Pedal - 用于管理和维护车辆的汽车应用程序](https://xinquji.com/posts/180064?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
      用于管理和维护车辆的汽车应用程序  
     </details> 
 
-- 🦅 [Welcome Center Estonia - 寻找公司并获得更深入的见解](https://xinquji.com/posts/180063?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:26 AM 
+- 😺 [Welcome Center Estonia - 寻找公司并获得更深入的见解](https://xinquji.com/posts/180063?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
      寻找公司并获得更深入的见解  
-    </details> 
-
-- 😺 [Reddit Tales - Reddit 上的最佳故事视频直接发送给您](https://xinquji.com/posts/180062?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:24 AM 
-    <details><summary>展开描述 ...</summary> 
-     Reddit 上的最佳故事视频直接发送给您  
     </details> 
 <!-- xinquji:END -->
