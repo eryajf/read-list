@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [比一根头发细100万倍：科学家开发出无损超细纳米管道](https://www.cnbeta.com/articles/science/1323025.htm) | Sat Oct 01 2022 9:05 PM 
+- 🕯 [苹果拒绝台积电涨价 NVIDIA与联发科计划跟进](https://www.cnbeta.com/articles/tech/1323085.htm) | Sun Oct 02 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;约翰-霍普金斯大学的研究人员在仅为人类单根头发宽度的百万分之一的微观管道上工作，设计了一种方法来保护这些最微小的管道，防止最小的泄漏。由自我组装、自我修复的纳米管构建的无泄漏管道可以连接到不同的生物结构上，这是向开发纳米管网络迈出的巨大一步，有朝一日可能将专门的药物、蛋白质和分子运送到人体的特定细胞。最近《科学进展》杂志概述了高度精确的测量结果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;台积电一直被称为“天字一号代工厂”，不仅技术优势明显，市场地位更是无敌，但最近却连遭打击，原定明年涨价的计划被第一大客户苹果严词拒绝，现在另一主要客户NVIDIA也不干了。&lt;strong&gt;根据此前业内消息，台积电计划明年将代工价格提高6-9％不等，后来改为3-6％，其中成熟工艺涨幅较大。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [一种蛋白质可能揭示了与年龄相关的视力丧失的秘密](https://www.cnbeta.com/articles/science/1323023.htm) | Sat Oct 01 2022 9:02 PM 
+- 💼 [openEuler操作系统新版发布：鸿蒙欧拉实现互联互通](https://www.cnbeta.com/articles/tech/1323083.htm) | Sun Oct 02 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;桑福德·伯纳姆·普雷比斯大学的教授弗朗西斯卡·马拉西博士正在领导一项研究，该研究揭示了黄斑变性背后的分子机制，黄斑变性占所有年龄相关视力损失的90%以上。这项研究描述了参与黄斑变性和其他与年龄有关的疾病（如阿尔茨海默氏症和动脉粥样硬化）的一种关键血液蛋白的灵活结构，该研究发表在《生物物理学杂志》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，国产操作系统openEuler发布了 22.09正式版本更新，&lt;strong&gt;作为社区捐赠后的首个创新版本，22.09全量代码达6.7亿行，新增代码2012万行，其中内核新增原创代码4.8万行。&lt;/strong&gt;据悉，openEuler 22.09版本新增了对SW-64、LoongArch架构的系统镜像，增加了对于ARM架构内存容错率的增强，SME、商密加速等特性的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Google正尝试让部分人付费才能在YouTube上观看4K视频](https://www.cnbeta.com/articles/tech/1323021.htm) | Sat Oct 01 2022 8:59 PM 
+- 💂 [小米6款手机停止官方维修服务：Redmi首款真旗舰K20 Pro在列](https://www.cnbeta.com/articles/tech/1323081.htm) | Sun Oct 02 2022 2:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google试图将客户转化为YouTube高级用户的手段正在成为话题。该公司正在努力用多个横幅宣传Premium，而内容创作者可以在其视频中使用的不可跳过的广告的增加也可以被人们看作是为获得更多用户而进行的低烈度打击。而现在，Google已经想出了另一种方法，迫使用户考虑购买Premium。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月2日消息，近日，小米官方发布了一则停止服务产品公告，由于生产商不再供应售后服务所需零配件，维修物料超过法定供应年限，从10月1日起，小米、Redmi多款手机停止提供维修服务。具体的机型包括：&lt;strong&gt;小米8、小米9 SE、小米9透明版、小米9透明尊享版、Redmi K20 Pro、Redmi K20 Pro尊享。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [动视暴雪首席合规官离职 曾因回应公司指控惹争议](https://hot.cnbeta.com/articles/game/1323019.htm) | Sat Oct 01 2022 8:46 PM 
+- 🚀 [谷歌云游戏平台Stadia意外宣布关停 厂商紧急抢救玩家数据](https://hot.cnbeta.com/articles/game/1323079.htm) | Sun Oct 02 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，动视暴雪首席合规官弗朗西丝·汤森德（Frances Townsend）因去年对公司性侵指控的回应而受到密切关注，如今，随着动视暴雪出售给微软交易的即将完成，汤森德也将辞职。汤森德2021年3月加盟动视暴雪，除了担任首席合规官，她还兼任动视暴雪企业事务执行副总裁。离职后（当地时间周五），汤森德将担任公司董事会、以及CEO鲍比·科蒂克（BobbyKotick）的顾问。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;就在近日，云游戏行业的先驱谷歌突然宣布，&lt;strong&gt;将在2023年1月18日正式关停旗下云游戏服务平台Stadia。&lt;/strong&gt;这一毫无征兆的消息传出之后，玩家与开发者均是一片哗然，大量原定将上线Stadia平台的游戏将要改动发行计划，而玩家也将面临成百上千小时的存档“化为乌有”的风险。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [一只巧克力兔子引发多年官司 瑞士最高法院裁定瑞士莲胜诉](https://www.cnbeta.com/articles/tech/1323017.htm) | Sat Oct 01 2022 5:46 PM 
+- 🎊 [官方澄清《极限竞速：地平线4》即将下架：短期内不会](https://hot.cnbeta.com/articles/game/1323077.htm) | Sun Oct 02 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;span style=&quot;&quot;&gt;因为一款巧克力造型与瑞士知名巧克力生产商“瑞士莲”的兔子巧克力十分相似，德国零售巨头利德尔在2018年被瑞士莲告上法庭，就在近日，&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;瑞士最高法院裁定，瑞士莲胜诉&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;，要求利德尔停止在瑞士销售这款产品，且必须销毁所有相关库存。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在上个月，有传闻称《极限竞速：地平线4》因为车型和音乐版权到期，即将从商店下架，甚至这还让该作登上了当周的Steam热销榜第二，现在《极限竞速：地平线》的社区经理T10ManteoMax澄清了该传闻。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
