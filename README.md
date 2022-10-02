@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一次 vue2 Watch 监听失效引发的对 Watch 的思考](https://juejin.cn/post/7149762007128866852) | Sun Oct 02 2022 4:12 AM 
+- 🤗 [Kafka中生产消息时的三种分区分配策略](https://juejin.cn/post/7149794702441594910) | Sun Oct 02 2022 6:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    KafkaProducer在发送消息的时候,需要指定发送到哪个分区, 那么这个分区策略都有哪些呢？我们今天来看一下 
+    </details> 
+
+- 🎡 [多网络情况下,Kafka客户端如何选择合适的网络发起请求](https://juejin.cn/post/7149794023631224868) | Sun Oct 02 2022 6:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近有个同学问了我一个非常有意思的问题, 今天我根据这个问题来给大家好好分析一下。前提知识我们都知道, 每个Broker都可以配置多个监听器, 用来用于网络分流。 
+    </details> 
+
+- 🕯 [Vue 实例生命周期钩子](https://juejin.cn/post/7149790045019308046) | Sun Oct 02 2022 5:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 每个 Vue 实例在被创建时都要经过一系列的初始化过程——例如，需要设置数据监听、编译模板、将实例挂载到 
+    </details> 
+
+- 🚀 [Vue 模板语法](https://juejin.cn/post/7149788775600619527) | Sun Oct 02 2022 5:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 Vue.js 使用了基于 HTML 的模板语法，允许开发者声明式地将 DOM 绑定至底层 Vue 实例的 
+    </details> 
+
+- 💪 [一次 vue2 Watch 监听失效引发的对 Watch 的思考](https://juejin.cn/post/7149762007128866852) | Sun Oct 02 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
     一次项目中遇到的 bug 让我对 watch 有了更深的认识。从源码角度分析此次 bug ，简单高效。 
-    </details> 
-
-- 🎡 [面试官：设计一个异步并发限制吧](https://juejin.cn/post/7149758196091977765) | Sun Oct 02 2022 3:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 引言 异步问题是一个十分热门的问题，同时异步的处理也是十分复杂的问题。无论在前端还是后端，我们都绕不开异 
-    </details> 
-
-- 🕯 [Mobx结合mobx-react-lite在react hooks项目中的使用](https://juejin.cn/post/7149758152932589582) | Sun Oct 02 2022 3:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文总结了如何使用Mobx和mobx-react-lite在react hooks项目中实现状态管理，详细介绍了相关API和使用方法、步骤 
-    </details> 
-
-- 🚀 [05-blog-用户注册](https://juejin.cn/post/7149758068593688583) | Sun Oct 02 2022 3:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 上篇文章已经将json web token的加签和解签流程走完了，在业务场景中是当收到了用户登录的信息时 
-    </details> 
-
-- 💪 [力扣：第88场双周赛](https://juejin.cn/post/7149757861592072199) | Sun Oct 02 2022 3:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 力扣——第88场双周赛 
     </details> 
 <!-- juejin:END -->
 ### 少数派
