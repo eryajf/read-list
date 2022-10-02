@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [外媒：Stadia云游戏亡于没人信任Google](https://hot.cnbeta.com/articles/game/1323193.htm) | Sun Oct 02 2022 10:57 AM 
+- 🕯 [数据显示牙齿健康状况不佳与更大的老年痴呆症风险有关](https://www.cnbeta.com/articles/tech/1323201.htm) | Sun Oct 02 2022 12:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;新的研究表明，牙齿脱落和不良的牙周健康可能会提高认知能力下降和痴呆症的风险。根据对医学文献中所有相关研究的回顾，牙周健康不良和牙齿脱落可能会提高罹患老年痴呆和认知能力下降的机会。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [AMD发布19h新系列CPU微码 对应最新的Ryzen 7000系列](https://www.cnbeta.com/articles/tech/1323199.htm) | Sun Oct 02 2022 12:32 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;AMD周五在linux-firmware.git上游发布了新的Family 19h CPU微代码。AMD Family 19h适用于Zen 3和Zen 3+处理器，以及新推出的Zen 4处理器，后者对应的是最新发布的Ryzen 7000系列桌面处理器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [诺贝尔奖即将揭晓 这些华人科学家被看好](https://www.cnbeta.com/articles/tech/1323197.htm) | Sun Oct 02 2022 12:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;每年10月，是一年一度的诺贝尔奖季。受新冠疫情影响，2020年和2021年的诺贝尔奖线下颁奖礼都被迫取消了，今年的诺贝尔奖颁奖典礼有望回归线下，并邀请前两年的获奖者参加。在历史上，要预测诺奖花落谁家是极其困难的。这不仅因为入围名单和提名人都是秘密的，而且诺奖通常奖励给几十年前的重大科学发现，时间跨度之长使得每一年的奖项都难以预测。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [80分钟纽约飞伦敦？新概念核动力客机三倍音速载客170人](https://www.cnbeta.com/articles/tech/1323195.htm) | Sun Oct 02 2022 12:24 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;西班牙设计师维纳尔斯（Oscar Viñals）提出了超音速核动力客机方案，该客机将以超过三倍的音速搭载170名乘客，从美国纽约飞到英国伦敦仅需80分钟。不过，这种新概念客机首先需要在冷核聚变反应堆技术上取得突破。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [外媒：Stadia云游戏亡于没人信任Google](https://hot.cnbeta.com/articles/game/1323193.htm) | Sun Oct 02 2022 10:57 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;尽管英伟达 GeForce Now 和微软 Xbox Cloud Gaming 在云游戏市场吸引力相当高的关注度，&lt;strong&gt;但搜索巨头 Google 旗下的 Stadia 平台，还是于近日被揭示了最终的结局。&lt;/strong&gt;7 月下旬，@GoogleStadia 官方推特账号还在那澄清这项云游戏服务不会被关停、8 月份又迎来了 Party Stream 直播功能增强 —— 直到 9 月下旬被官宣将于 2023 年 1 月 18 日正式道别。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [低成本甲烷转甲醇：科学家成功在常温常压下实现光催化](https://www.cnbeta.com/articles/science/1323191.htm) | Sun Oct 02 2022 10:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在投递给《化学通讯》期刊的一篇文章中，&lt;strong&gt;来自巴西圣卡洛斯联邦大学（UFSCar）的一支研究团队，详细介绍了如何通过在“光氧化”过程中使用光和分散的过渡金属（比如铜），成功地将甲烷转化为甲醇。&lt;/strong&gt;更棒的是，这项技术可在相对温和的常温（25℃）常压（1 bar）下得到运用，意味着他们找到了一种将这种强效温室气体、制成液态燃料的好方法。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [NASA Ingenuity直升机发现其掉落在火星上的异物](https://www.cnbeta.com/articles/science/1323189.htm) | Sun Oct 02 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来自火星直升机的导航相机的画面显示了一小块异物碎片（FOD）。在Ingenuity火星直升机第33次飞行期间，从火星直升机的导航相机（Navcam）的镜头（见以下视频）中看到了一小块异物碎片（FOD）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [2022 全球程序员薪资排行：中国倒数，美国写Go最挣钱](https://www.cnbeta.com/articles/tech/1323187.htm) | Sun Oct 02 2022 9:25 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022 年全球程序员薪资排行榜单来了：中国上榜全球薪酬&lt;strong&gt;最低&lt;/strong&gt;国家名单，排名&lt;strong&gt;倒 9&lt;/strong&gt;。并且，榜单上程序员全球最高年薪和最低年薪之间相差 &lt;strong&gt;102885 美元&lt;/strong&gt;&amp;nbsp;（约合人民币 70 万元）。what？？？差距有这么大？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [华为P60系列用上骁龙8 Gen2：最快明年3月见](https://www.cnbeta.com/articles/tech/1323185.htm) | Sun Oct 02 2022 9:03 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年9月，时隔两年的华为Mate 50系列发布，凭借华为自研XMAGE影像、北斗短报文、华为昆仑玻璃等特性，新机推出后受到许多消费者抢购，市场也出现了部分型号一机难求的现象。按照华为新机迭代策略，下一款旗舰新机将是华为P系列。今日，数码博主“厂长是关同学”透露，&lt;strong&gt;预计华为P60系列发布会时间在2023年3月-4月期间。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
