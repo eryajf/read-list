@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [全球玩家两年里消费37亿美元 原神成为当今第三大创收手游](http://jandan.net/p/111424) | Sun Oct 02 2022 5:00 AM 
+- 🚀 [现代社交/通信应用 导致小孩子每周损失一晚的睡眠](http://jandan.net/p/111377) | Sun Oct 02 2022 1:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    他们睡着之前总忍不住拿起手机看看朋友们发布了啥 
+    </details> 
+
+- 🙉 [全球玩家两年里消费37亿美元 原神成为当今第三大创收手游](http://jandan.net/p/111424) | Sun Oct 02 2022 5:00 AM 
     <details><summary>展开描述 ...</summary> 
     次于腾讯的《绝地求生》&lpar;两年 49 亿美元&rpar;，和同样来自腾讯的《王者荣耀》——排名第一——两年55亿美元 
     </details> 
 
-- 🙉 [谷歌在搜索结果里添加更详细的网络论坛的帖子内容](http://jandan.net/p/111419) | Sun Oct 02 2022 2:40 AM 
+- 🎉 [谷歌在搜索结果里添加更详细的网络论坛的帖子内容](http://jandan.net/p/111419) | Sun Oct 02 2022 2:40 AM 
     <details><summary>展开描述 ...</summary> 
     还为本地新闻相关搜索添加了新功能 
     </details> 
 
-- 🎉 [今日好价 1002](http://jandan.net/p/111423) | Sat Oct 01 2022 5:12 PM 
+- 🐲 [今日好价 1002](http://jandan.net/p/111423) | Sat Oct 01 2022 5:12 PM 
     <details><summary>展开描述 ...</summary> 
     大家节日快乐 
     </details> 
 
-- 🐲 [为什么南半球的海洋 升温速度更快？](http://jandan.net/p/111420) | Sat Oct 01 2022 6:04 AM 
+-  [为什么南半球的海洋 升温速度更快？](http://jandan.net/p/111420) | Sat Oct 01 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
     额外的热量进入环境之中，被海洋吸收，相当于我们每秒在水下引爆一颗原子弹。 
-    </details> 
-
--  [比起不喝咖啡的人，每天喝2到3杯咖啡的人往往寿命更长，心血管疾病更少](http://jandan.net/p/111414) | Sat Oct 01 2022 6:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    注意，这项研究并没有声称多喝咖啡可以延长寿命 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
