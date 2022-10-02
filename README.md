@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [“被嫌弃”的骁龙7：OPPO Reno9或改用骁龙778G处理器](https://www.cnbeta.com/articles/tech/1323233.htm) | Sun Oct 02 2022 3:19 PM 
+- 🕯 [9月安卓手机性价比榜：骁龙8+旗舰不足3000元](https://www.cnbeta.com/articles/tech/1323239.htm) | Sun Oct 02 2022 3:34 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;十一国庆节，是商家历来都不可能错过的大促日子，所以在这个时间点上，我们带来的性价比榜单就愈发显得重要了一些。9月份的性价比榜单中，我们依旧根据价格分为五个部分，涵盖了从0-5000元以上的所有产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [9月安卓手机好评榜：Mate50 Pro上榜 小米12S Ultra蝉联](https://www.cnbeta.com/articles/tech/1323237.htm) | Sun Oct 02 2022 3:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月份安卓性能榜和性价比榜单之后，我们就迎来了好评榜，本期好评榜的机型中，小米12S&amp;nbsp;Ultra蝉联了好评榜冠军，华为时隔两年推出的Mate50&amp;nbsp;Pro旗舰紧随其后，发布当月就上榜，可见人们对于Mate50系列的期待真的太久了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [18岁奥运冠军被保送至浙大 一年功夫快认不出来了](https://www.cnbeta.com/articles/tech/1323235.htm) | Sun Oct 02 2022 3:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;去年的冬奥会上，年仅17岁的管晨辰摘得体操女子平衡木冠军，无论是比赛中的“袋鼠摇”，还是接受采访时的可爱跳，都萌翻了全场，在网上走红。不过，不同于全红婵继续一次次冲击冠军，管晨辰选择了“急流勇退”，不久前证实自己已经提交了退役申请。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [“被嫌弃”的骁龙7：OPPO Reno9或改用骁龙778G处理器](https://www.cnbeta.com/articles/tech/1323233.htm) | Sun Oct 02 2022 3:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一般来说，厂商在推出新机时，都会遵循“买新不买旧”的原则，采用相对较新的处理器。但根据知名博主数码闲聊站今天透露的信息，&lt;strong&gt;OPPO Reno系列的新机，Reno9将不会遵循这一“惯例”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [1分钟乾坤大挪移：医生隔着妈妈肚皮将宝宝调了个头](https://www.cnbeta.com/articles/science/1323231.htm) | Sun Oct 02 2022 3:18 PM 
+- 🎊 [1分钟乾坤大挪移：医生隔着妈妈肚皮将宝宝调了个头](https://www.cnbeta.com/articles/science/1323231.htm) | Sun Oct 02 2022 3:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，在湖南长沙，一名孕期36周的准妈妈被发现胎位不正，肚子里的宝宝头朝上，屁股朝下。经过评估，&lt;strong&gt;湖南妇女儿童医院的郑岚琳主任医师隔着妈妈的肚皮，来了一招“乾坤大挪移”——臀位外倒转术。不到1分钟，医生就让宝宝掉了个头，顺利头朝下、屁股朝上，胎位瞬间转成头位。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Apple SIM不再适用于激活iPad上的运营商数据套餐](https://www.cnbeta.com/articles/tech/1323229.htm) | Sun Oct 02 2022 3:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据苹果公司的一份支持文件，从10月1日起，苹果SIM卡不再可用于激活支持的iPad型号上接下来的蜂窝数据套餐。苹果SIM卡于2014年推出，旨在让iPad用户激活全球多个运营商的蜂窝数据计划。最初，苹果SIM卡是一张物理的nano-SIM卡，但它被嵌入到后来的iPad Pro型号内。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [NASA完成对飓风“伊恩”过后Artemis I月球火箭的初步损害评估](https://www.cnbeta.com/articles/science/1323227.htm) | Sun Oct 02 2022 3:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月30日星期五，NASA阿特米斯团队进行了初步检查，以评估四级飓风“伊恩”在佛罗里达州肯尼迪航天中心的潜在影响。评估结果显示没有发现对Artemis I飞行硬件造成损害。设施处于良好状态，仅在几个地方发现了轻微的水侵入。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [CAPSTONE团队继续为恢复航天器运作而努力](https://www.cnbeta.com/articles/science/1323225.htm) | Sun Oct 02 2022 3:11 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月8日，CAPSTONE航天器执行了一次计划中的轨道修正机动。在该演习接近尾声时发生了一个问题，使CAPSTONE进入安全模式。后来，导航数据显示，航天器正在翻滚，任务控制人员还发现机载计算机系统正在定期重置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
