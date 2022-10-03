@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一加Nord手表正式发布：配备1.78英寸OLED屏幕 电池续航长达30天](https://www.cnbeta.com/articles/tech/1323379.htm) | Mon Oct 03 2022 6:55 AM 
+- 🕯 [哈勃捕捉到正在相互施加引力作用的星系对Arp-Madore 608-333](https://www.cnbeta.com/articles/science/1323397.htm) | Mon Oct 03 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一加在2021年3月加入了智能手表的世界，而今天它也将其经济实惠的子品牌Nord带入其中。现在就让我们认识一下OnePlus Nord Watch--一款拥有大而明亮的屏幕、运动追踪和长达30天电池寿命的智能手表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在哈勃太空望远镜拍摄的这张令人惊叹的图片中，构成Arp-Madore 608-333这对壮观的互动星系似乎并排漂浮着。虽然它们在这张图片中看起来很宁静，没有受到干扰，但是通过相互的引力作用，这两个星系正在巧妙地相互影响，从而扰乱和扭曲了两个星系。这一漫长的星系互动是由哈勃的高级观测相机（ACS）拍摄的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [李想：理想汽车用3年时间与百亿投入实现了核心技术的全栈自研](https://www.cnbeta.com/articles/tech/1323377.htm) | Mon Oct 03 2022 6:51 AM 
+- 💼 [Pixel 7系列规格全面泄露 与你想象的完全一样](https://www.cnbeta.com/articles/tech/1323395.htm) | Mon Oct 03 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月3日消息，今日，理想汽车官微发布一张长图，介绍理想汽车的核心技术、供应链体系和智造能力。其中核心技术方面，展示了增程电动2.0系统，包括自研的1.5T增程器、自研五合一电驱、自研高压三合一驱动电机等等，还有对800V高压平台的全面布局。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google将于10月6日推出Pixel 7系列，在过去的几个月里，我们已经看到了足够多关于这两款即将推出的设备的信息。有些是通过泄密，有些是通过Google自己，&lt;strong&gt;现在，即将推出的手机的整个规格表在网上泄露了，当然对于Pixel这个不温不火的产品来说，大家都不会感到惊讶。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [两位中国作家：诺贝尔文学奖大热门](https://www.cnbeta.com/articles/tech/1323375.htm) | Mon Oct 03 2022 6:50 AM 
+- 💂 [尽管不断拒绝 苹果还是选择从明年开始向台积电支付每片晶圆多6%的费用](https://www.cnbeta.com/articles/tech/1323393.htm) | Mon Oct 03 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;诺奖又要来了。据诺贝尔奖官网消息，2022年诺贝尔奖将于10月3日至10日陆续颁布。10月3日，诺贝尔生理学或医学奖公布；10月4日，诺贝尔物理学奖公布；10月5日，诺贝尔化学奖公布；10月6日，诺贝尔文学奖公布。2022年诺贝尔奖的奖金为1000万瑞典克朗（约合642万元人民币）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果可能占台积电收入的25%，尽管公司近期传出一直在拒绝晶圆涨价，但这并不意味着该公司对芯片价格上涨有足够的议价权。全球经济格局继续见证转变，它迫使芯片制造商推出各种晶圆的价格上涨，一份报告称，从明年开始，台积电的客户将不得不支付高达6%的涨幅。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [岸本齐史绘制《火影忍者》动画20周年贺图 官方网站今日上线](https://hot.cnbeta.com/articles/comic/1323373.htm) | Mon Oct 03 2022 6:50 AM 
+- 🚀 [澳门宣布启动载荷专家澳门区选拔工作](https://www.cnbeta.com/articles/science/1323391.htm) | Mon Oct 03 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为了纪念《火影忍者》动画播出20周年，官方公开了一些列回顾历史故事的视觉图片，以及由漫画原作者岸本齐史绘制的纪念插画和祝贺评语。官方还将在10月3日18:00公开《火影忍者》20周年全新PV，在各个主题曲中，将播出全新绘制的各个名场景。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1323373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;澳门特区政府民航局、教育及青年发展局和卫生局3日联合举行新闻发布会。会上介绍，为满足载人航天工程后续飞行任务需要，国家第四批预备航天员选拔工作已于近期启动，共选拔12至14名预备航天员，并首次在港澳地区选拔载荷专家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [被嫌弃的40岁打工人](https://www.cnbeta.com/articles/tech/1323371.htm) | Mon Oct 03 2022 6:48 AM 
+- 🎊 [微软或将推出“Lunar Shift”Xbox手柄 附带变色功能](https://hot.cnbeta.com/articles/game/1323389.htm) | Mon Oct 03 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“我的朋友圈，哪里有适合我的工作！”9月的一天，徐力在失业大半年后，在朋友圈里发出了找工作的信息。徐力之前在大厂做过，今年上半年因为大厂不景气被裁，半年找工作下来，结果是屡战屡败。他将自己求职不顺的原因归结为，已经40岁了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在PS5手柄力推触觉反馈和自适应扳机功能之后，近年来主机厂商开始在手柄领域偷偷较起劲来。如今，Xbox似乎又要出招了。近日有消息称，Xbox即将推出全新手柄。虽然从外观来看，这款“Lunar Shift”手柄与常规手柄的布局和按键材质并没有什么区别，但它的一些功能确实有些与众不同。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
