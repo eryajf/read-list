@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Ultimate Study Dashboard - 用于提高 Notion 生产力的教育仪表板](https://xinquji.com/posts/180105?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:36 AM 
+- 👀 [Exponential DeFi - 跨链发现、评估和投资流动资金池](https://xinquji.com/posts/180110?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-     用于提高 Notion 生产力的教育仪表板  
+     跨链发现、评估和投资流动资金池  
     </details> 
 
-- 🥷 [Mintlix - 无代码 NFT 生成器](https://xinquji.com/posts/180104?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:34 AM 
+- 🥷 [WP Block Mindmap - 从降价内容到交互式思维导图](https://xinquji.com/posts/180109?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     无代码 NFT 生成器  
+     从降价内容到交互式思维导图  
     </details> 
 
-- 💼 [Edith &amp;amp; Nous - 面向作家和出版商的 SaaS 平台](https://xinquji.com/posts/180103?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:32 AM 
+- 💼 [AnnounceBot 2.0 - 新员工入职并在特殊场合祝愿他们](https://xinquji.com/posts/180108?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-     面向作家和出版商的 SaaS 平台  
+     新员工入职并在特殊场合祝愿他们  
     </details> 
 
-- 🦅 [Mario Kart Tour 3.0 - 环游世界](https://xinquji.com/posts/180102?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:32 AM 
+- 🦅 [Life Clock - 24 小时制你的一生](https://xinquji.com/posts/180107?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     环游世界  
+     24 小时制你的一生  
     </details> 
 
-- 😺 [bilinkle - 全新的问答应用](https://xinquji.com/posts/180101?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:30 AM 
+- 😺 [TabSpace - 舒适的新标签页中的智能暂存空间](https://xinquji.com/posts/180106?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     全新的问答应用  
+     舒适的新标签页中的智能暂存空间  
     </details> 
 <!-- xinquji:END -->
