@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [超级油轮“新伊敦”因采用130英尺长的船帆而减少了9.8%的燃料使用量](https://www.cnbeta.com/articles/tech/1323339.htm) | Mon Oct 03 2022 3:34 AM 
+- 🕯 [暴雪《守望先锋》今日停服：续作“归来”10月5日上线免费玩](https://hot.cnbeta.com/articles/game/1323353.htm) | Mon Oct 03 2022 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着航运业的去碳化进程，巨大的船帆可能会卷土重来，&lt;/strong&gt;招商轮船子公司CMES已经接收了一艘新的超级油轮M/V&amp;quot;New Aden&amp;quot;（新伊敦），它安装的的四个大型船帆将把航行时的平均燃料消耗减少近10%。几千年来，风帆是大型船舶的主要动力来源。德国发明家鲁道夫-迪塞尔在1897年启动并运行了他的第一台发动机，第一艘以柴油为动力的船舶在1903年出海。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;10月3日，暴雪《守望先锋》将正式停服，今晚0点左右将无法登陆，这款6年的大作迎来了落幕。&lt;/strong&gt;虽然《守望先锋》与当年的《魔兽世界》《魔兽争霸》《暗黑破坏神》等作品还差些距离，但曾经也是红极一时，势头凶猛，不仅荣获TGA年度最佳游戏奖，甚至彼时热度有超越《英雄联盟》的趋势，堪称一部经典之作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[视频]知名游戏主播Dream终于露真容 主频道粉丝超3400万](https://hot.cnbeta.com/articles/game/1323337.htm) | Mon Oct 03 2022 3:28 AM 
+- 💼 [从科普的初衷走向了追求流量的结果 “海克斯科技”究竟伤害了谁？](https://hot.cnbeta.com/articles/movie/1323351.htm) | Mon Oct 03 2022 4:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p style=&quot;text-align: left;&quot;&gt;Dream 是一位在油管平台上非常出名的游戏主播，但是他的真容从未示人。&lt;strong&gt;不过在上周日，他在最新一期视频中终于展示了自己的真容，在上线短短 45 分钟观看量就超过 100 万次。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“海克斯科技”一词，爆红网络。这个出自游戏《英雄联盟》的词语，特指一种魔法和科技融合的顶尖技术，但在短视频博主口中，它成为了将食材“化腐朽为神奇”的方式。奶茶是用奶精粉和植脂末调配而成；牛排是用碎肉和边角料压制而成；燕窝则是明胶片和植脂末加糖浆泡出来的；一勺三花淡奶入锅，自来水立刻变成白色羊汤……&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《黑豹2》新剧照欣赏 新老面孔齐聚瓦坎达](https://hot.cnbeta.com/articles/movie/1323335.htm) | Mon Oct 03 2022 3:23 AM 
+- 💂 [我们的免疫系统不是对手：冠状病毒蛋白被发现会切断关键的免疫途径](https://www.cnbeta.com/articles/science/1323349.htm) | Mon Oct 03 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《黑豹2》演员温斯顿·杜克近日在社交媒体上分享本片多张剧照，从中可以看到姆巴库、娜吉雅和莉莉·威廉姆斯等角色。《黑豹2》电影时长2个小时41分钟，是MCU第四阶段最长的电影，也是整个MCU最长的非《复仇者联盟》电影。而在《复联》系列中，也只有3小时1分钟的《复仇者联盟4：终局之战》胜过《黑豹2》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;来自SLAC同步加速器的强大X射线显示，我们免疫系统的基本线路似乎无法与邪恶的SARS-CoV-2蛋白相匹敌。科学家们在过去两年中对SARS-CoV-2病毒进行了深入研究，为COVID-19疫苗和抗病毒治疗奠定了基础。能源部SLAC国家加速器实验室的研究人员现在首次看到了该病毒最关键的相互作用之一，这可能有助于开发更精确的治疗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《侏罗纪世界3》导演：《侏罗纪公园》电影应只有一部](https://hot.cnbeta.com/articles/movie/1323333.htm) | Mon Oct 03 2022 3:22 AM 
+- 🚀 [恩智浦警告说欧盟的微芯片资金远远落后于2030年的目标](https://www.cnbeta.com/articles/tech/1323347.htm) | Mon Oct 03 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;导演科林·特雷沃罗认为，《侏罗纪公园》电影应该只有一部，结果他最终拍出了《侏罗纪世界》，而且连拍了三部。在近日接受媒体采访时，特雷沃罗表示斯皮尔伯格的《侏罗纪公园》其内核就是“无法系列化”的电影，本来就没打算拍续集，所以想要为了给这个系列趟出一条新路，就必须让这个系列完成进化，找一些新的切入点，特别是在《侏罗纪世界3》之后。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;欧洲最著名的微芯片公司之一恩智浦的CEO周四警告说，欧盟对半导体行业的预期投资不足以实现其2030年的目标。&amp;quot;事实上，这还远远不够。&amp;quot;&lt;/strong&gt;恩智浦半导体的首席执行官Kurt Sievers在德累斯顿的一个行业聚会上说：&amp;quot;我们计算过，我们需要在欧洲投资5000亿欧元，才能达到《欧盟芯片法案》中制定的20%的市场份额目标，&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [比亚迪半导体IPO发行注册程序再中止](https://www.cnbeta.com/articles/tech/1323331.htm) | Mon Oct 03 2022 3:22 AM 
+- 🎊 [青岛石老人被风雨损毁 上半部分坍塌 原因找到了](https://www.cnbeta.com/articles/tech/1323345.htm) | Mon Oct 03 2022 4:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月30日，深交所披露，比亚迪半导体股份有限公司（以下简称“比亚迪半导体”）因IPO注册申请文件中记载的财务资料已过有效期，需要补充提交，根据《创业板首次公开发行股票注册管理办法（试行）》第二十九条的相关规定，其发行注册程序中止。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月3日消息，昨晚青岛遭遇数小时的雷雨大风，有市民发现青岛著名地标“石老人”坍塌。据曝光的现场画面显示，&lt;strong&gt;石老人的“头部”和“胳膊”损毁严重，碎石一片。市民纷纷表示惋惜，诸多市民闻讯赶到现场，记录下石老人“最后的模样”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
