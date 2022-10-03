@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nginx使用手册](https://juejin.cn/post/7150168625775640613) | Mon Oct 03 2022 6:27 AM 
+- 🤗 [【SSO单点登录】JWT入门概述&amp;&amp;残留的安全问题](https://juejin.cn/post/7150205073161715743) | Mon Oct 03 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 Nginx手册 Nginx配置 1. 代理实战配置 首先安装nginx 将vue项目buid好&lpar;stat 
+    - 前后端分离会话问题以及解决方案 - JWT概述入门 - JWT优势 - JWT残留的问题 -redis白名单&amp;黑名单机制 - HTTPS中的数字签名机制 
     </details> 
 
-- 🎡 [实战 Go：怎样快速实现一个极简任务调度系统](https://juejin.cn/post/7150156954394951694) | Mon Oct 03 2022 5:49 AM 
+- 🎡 [Rust 101](https://juejin.cn/post/7150187051621548046) | Mon Oct 03 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
-    在爬虫管理平台Crawlab中，任务调度是其中的核心模块。本篇文章会教读者用 Go 语言编写一个非常简单的任务调度系统。 
+    Rust 入门，笔记，合集。久违的学习笔记上新！我满怀热情地学习《The Rust Programming Language》 
     </details> 
 
-- 🕯 [公式代码都有了，速来学LSTM 长短期记忆网络](https://juejin.cn/post/7149945453482606622) | Sun Oct 02 2022 4:00 PM 
+- 🕯 [HTTP协议客户端之HttpClient的基本使用](https://juejin.cn/post/7150185778079858701) | Mon Oct 03 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 之前我还会写手动实现，就是实现以下计算过程，然而实际上其实就是用代码堆出来计算公式，也没什么意思，以后就 
+    常用HTTP协议客户端包括有：httpclient、restTemplate、okHttp。HttpClient提供高效的、最新的、功能丰富的支持 HTTP 协议的客户端编程工具包。 
     </details> 
 
-- 🚀 [深入理解Redux——手撸一个简单版Redux](https://juejin.cn/post/7149945514736222239) | Sun Oct 02 2022 4:00 PM 
+- 🚀 [深入浅出Android底层&lpar;二&rpar;-Android中的IPC-Binder机制](https://juejin.cn/post/7150093018756808717) | Mon Oct 03 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章介绍和分析了Redux，基于官方文档的指导一步一步&lpar;createStore/combineReducers/Connect/Provider&rpar;实现一个简单的Redux，并用于一个计数器App。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 前言 在上一篇Android的IPC-Binder机制中,我们提及了Android中的Binder机制并 
     </details> 
 
-- 💪 [一文，教你搭建前端自动化测试环境](https://juejin.cn/post/7149942424939266078) | Sun Oct 02 2022 3:48 PM 
+- 💪 [Android导航栏的处理-HostStatusLayout加入底部的导航栏适配](https://juejin.cn/post/7150088571313979399) | Mon Oct 03 2022 1:17 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情。希望通过这一篇文章能让大家对Vue项目下自动化测试环境的搭建有个初步的认识 
+    其实大部分的应用都只需要使用到状态栏，导航栏由系统去管理，为什么不自己管理导航栏，就是导航栏的坑太多。 背景设置的坑，判断是否存在的坑，手动设置隐藏显示导航栏的坑，导航栏高度获取的坑 
     </details> 
 <!-- juejin:END -->
 ### 少数派
