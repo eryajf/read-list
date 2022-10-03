@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AMD下一代Zen 5 CPU在HWiNFO软件中获得早期支持](https://www.cnbeta.com/articles/tech/1323457.htm) | Mon Oct 03 2022 12:43 PM 
+- 🕯 [苹果CEO蒂姆·库克获教皇方济各特别接见](https://www.cnbeta.com/articles/tech/1323479.htm) | Mon Oct 03 2022 1:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD甚至还没有开始提供其Zen 4 CPU，就已经在监控软件HWiNFO中加入了对其下一代Zen 5 CPU的支持。AMD的第一个Zen 4 CPU系列，代号为Raphael，刚刚作为Ryzen 7000系列进入消费市场。现在，该公司正计划为EPYC推出Genoa CPU，为Ryzen移动系列推出Phoenix Point / Dragon Range CPU。然而，这不会是Zen 4的终点，还有几个定制的SOC和Zen 4 V-Cache芯片正在工作中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司CEO蒂姆-库克的欧洲之旅仍在继续，教皇弗朗西斯与苹果公司首席执行官库克进行了私人会晤。迄今为止，库克在英国、德国和意大利进行了未经提前宣布的访问，并在那里被授予荣誉学位。他现在访问了梵蒂冈城，在那里他与教皇弗朗西斯会面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家用新的无细胞蛋白质结晶方法推进结构生物学的发展](https://www.cnbeta.com/articles/science/1323455.htm) | Mon Oct 03 2022 12:37 PM 
+- 💼 [即将推出的M2 Extreme芯片可能包含48核CPU/160核GPU 支持384GB内存](https://www.cnbeta.com/articles/tech/1323477.htm) | Mon Oct 03 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;东京理工大学开发了一种新的无细胞蛋白质结晶（CFPC）方法，包括直接的蛋白质结晶，是结构生物学领域的一个重大进步。这项技术将使我们能够分析用传统方法无法研究的不稳定的蛋白质。分析这些将增加我们对细胞过程和功能的了解。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们还不知道苹果公司为即将到来的Mac Pro型号带来的顶配版Apple Silicon确切计划，但基于从M1处理器发展历程的推断，Macworld做了一些推测。明年我们可能会看到M2 Extreme芯片的发布，为新的Mac Pro提供动力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉7纳米以下FSD芯片层面 台积电很可能会抢走三星的所有蛋糕](https://www.cnbeta.com/articles/tech/1323453.htm) | Mon Oct 03 2022 12:13 PM 
+- 💂 [索尼PS5惊现重大漏洞：可越狱 随意安装第三方软件](https://www.cnbeta.com/articles/tech/1323475.htm) | Mon Oct 03 2022 1:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉一直在稳步提高其定制的高级驾驶辅助系统（ADAS）的完全自动驾驶（FSD）能力，该系统被称为Autopilot，FSD芯片在这方面发挥着关键作用。现在，如果关于此事的最新报道属实，那么台积电似乎要抢走三星在特斯拉的蛋糕了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据海外最新消息，最近索尼PS5最近被发现了一个重大漏洞，能让主机时间越狱，随意安装非官方认证的第三方软件。根据曝光的界面显示，&lt;strong&gt;利用该漏洞可以访问系统调试菜单，也能安装PS4 PKG文件，MOD制作者Lance McDonald就通过这个漏洞安装了《寂静岭PT》。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [B站诉争“哔哩哔哩”食品商标胜诉：属于驰名商标](https://www.cnbeta.com/articles/tech/1323451.htm) | Mon Oct 03 2022 12:09 PM 
+- 🚀 [被传或重蹈雷曼兄弟倒台覆辙 这家国际大行到底发生了什么](https://www.cnbeta.com/articles/tech/1323473.htm) | Mon Oct 03 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，广受关注的B站诉争“哔哩哔哩”商标一案终于落下帷幕。判决书显示，北京高级人民法院作出终审裁定：“哔哩哔哩bilibili”（以下简称“哔哩哔哩”）商标为相关公众广为知晓，属于驰名商标，并撤销北京知识产权法院判决以及国家知识产权局的一审裁定。晋江健德食品有限公司（以下简称“健德食品”）公司抢注的“哔哩哔哩 ”商标为无效商标。判决时间为9月6日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;周一欧洲股市跳空低开，身陷漩涡的瑞士信贷盘初跳水近7%，续创历史新低。近日，瑞士信贷（Credit Suisse AG，下称“瑞信”）突然成为了全球市场的焦点。这家瑞士第二大银行开始为生存而战，股价周一再创新低，有关未来破产的猜测愈演愈烈。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [玛莎拉蒂GranTurismo Folgore官图发布](https://www.cnbeta.com/articles/tech/1323449.htm) | Mon Oct 03 2022 12:07 PM 
+- 🎊 [父子相隔40年同获诺贝尔医学奖 他找到了人类起源的秘密](https://www.cnbeta.com/articles/science/1323471.htm) | Mon Oct 03 2022 1:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月3日，玛莎拉蒂正式发布了旗下GranTurismo Folgore官图，该车是全新玛莎拉蒂GranTurismo的纯电动版本，未来玛莎拉蒂品牌所有纯电版本的车都会叫Folgore。新车将搭载3台电机，理论最大功率高达1200马力，预计将会在2023年正式发布并上市销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“人类总是对自己的起源感兴趣。我们从哪里来？我们和我们的祖先有什么关系？是什么让我们智人与其他原始人类不同？”Svante Pääbo 的开创性研究完成了一件看似不可能的事情：对已经灭绝的尼安德特人（Neanderthal）的基因组进行测序。他还发现了一种此前不为人知的原始人类：丹尼索瓦人（Denisova）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
