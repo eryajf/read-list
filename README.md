@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [动态规划之杨辉三角](https://juejin.cn/post/7150240310168125470) | Mon Oct 03 2022 11:05 AM 
+- 🤗 [力扣：第313场周赛](https://juejin.cn/post/7150262990183333902) | Mon Oct 03 2022 12:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 力扣——第313场周赛 2427. 公因子的数目 问题解析 先对a分解因数，并且用哈希表记录下来。 再对 
+    </details> 
+
+- 🎡 [动态规划之杨辉三角](https://juejin.cn/post/7150240310168125470) | Mon Oct 03 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
     杨辉三角，是二项式系数在三角形中的一种几何排列，中国南宋数学家杨辉1261年所著的《详解九章算法》一书中出现。 
     </details> 
 
-- 🎡 [Google 云架构之 DevOps 持续集成](https://juejin.cn/post/7150229404349071396) | Mon Oct 03 2022 10:27 AM 
+- 🕯 [Google 云架构之 DevOps 持续集成](https://juejin.cn/post/7150229404349071396) | Mon Oct 03 2022 10:27 AM 
     <details><summary>展开描述 ...</summary> 
     软件系统非常复杂，对一个文件进行明显简单、独立的更改可能会对整个系统造成意外的影响。 当大量开发者处理相关系统时，协调代码更新是个难题，而且不同开发者所做的更改可能并不兼容。 持续集成 &lpar;CI&rpar; 这一 
     </details> 
 
-- 🕯 [说一说spring boot优雅集成redisson](https://juejin.cn/post/7150227622071369741) | Mon Oct 03 2022 10:16 AM 
+- 🚀 [说一说spring boot优雅集成redisson](https://juejin.cn/post/7150227622071369741) | Mon Oct 03 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 拔剑起蒿莱👥👥👥👥 今天简单说一下集成及注意事项。 redisson支持redis单机、集群、哨兵 
     </details> 
 
-- 🚀 [js进阶手写常见函数](https://juejin.cn/post/7150219170905325599) | Mon Oct 03 2022 9:43 AM 
+- 💪 [js进阶手写常见函数](https://juejin.cn/post/7150219170905325599) | Mon Oct 03 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
     JavaScript进阶的必要性 无论是学习react还是vue，它们都是js的应用框架。剥去他们的壳子看到的始终是js，所以作为一个前端大厨必须要熟练掌握好js这个大勺，才能烧出一顿好菜 无论是自我 
-    </details> 
-
-- 💪 [Node.js实现大文件断点续传](https://juejin.cn/post/7150211869863575560) | Mon Oct 03 2022 9:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 平常业务需求：上传图片、Excel等，毕竟几M的大小可以很快就上传到服务器。 针对于上传视频等大文件几百M或者几G的大小，就需要等待比较长的时间。 这就产生了对应的解决方法，对于大文件上传时的暂 
     </details> 
 <!-- juejin:END -->
 ### 少数派
