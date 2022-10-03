@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [小孩子从几岁开始学计算机编程比较好？](https://www.v2ex.com/t/884505#reply17) | Mon Oct 03 2022 8:42 AM
+- 🥸 [小孩子从几岁开始学计算机编程比较好？](https://www.v2ex.com/t/884505#reply24) | Mon Oct 03 2022 8:42 AM
 - 🤗 [为什么 select &lpar;select row1 from table1&rpar; as row2，当 table1 为空时，结果是 null 而不是空呢？](https://www.v2ex.com/t/884502#reply1) | Mon Oct 03 2022 8:20 AM
 - 🎭 [如何才能让 esxi 下的 windows 虚拟机显示正常呢？](https://www.v2ex.com/t/884498#reply5) | Mon Oct 03 2022 7:50 AM
 - 🥷 [谷歌发布 Lyra V2 超低比特率语音编解码器，可在 56kbps 网速下语音聊天](https://www.v2ex.com/t/884497#reply4) | Mon Oct 03 2022 7:46 AM
