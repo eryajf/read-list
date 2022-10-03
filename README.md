@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [专家谈海天添加剂风波：应理性看待 含量不超标对人体没有伤害](https://www.cnbeta.com/articles/tech/1323425.htm) | Mon Oct 03 2022 10:36 AM 
+- 🕯 [AMD下一代Zen 5 CPU在HWiNFO软件中获得早期支持](https://www.cnbeta.com/articles/tech/1323457.htm) | Mon Oct 03 2022 12:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，各大社交平台，“&lt;strong&gt;海克斯科技”“科技与狠活”话题热度不断蹿升，引发广大网友对食品添加剂使用和食品安全的讨论。&lt;/strong&gt;“酱油一哥”海天味业近日被多个抖音短视频账号爆料，国内售卖的海天酱油含食品添加剂，而日本售卖的海天酱油却零添加，因此质疑海天味业在执行“双标”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD甚至还没有开始提供其Zen 4 CPU，就已经在监控软件HWiNFO中加入了对其下一代Zen 5 CPU的支持。AMD的第一个Zen 4 CPU系列，代号为Raphael，刚刚作为Ryzen 7000系列进入消费市场。现在，该公司正计划为EPYC推出Genoa CPU，为Ryzen移动系列推出Phoenix Point / Dragon Range CPU。然而，这不会是Zen 4的终点，还有几个定制的SOC和Zen 4 V-Cache芯片正在工作中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软Windows 10 22H2准备就绪 ISO下载链接已经被发现](https://www.cnbeta.com/articles/tech/1323423.htm) | Mon Oct 03 2022 10:34 AM 
+- 💼 [科学家用新的无细胞蛋白质结晶方法推进结构生物学的发展](https://www.cnbeta.com/articles/science/1323455.htm) | Mon Oct 03 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软上个月开始推出其Windows 11 22H2版功能更新，现在，微软也准备为Windows 10发布22H2功能更新。&lt;strong&gt;今年6月，微软在Windows 11 2022更新推出期间确认，Windows 10的更新也即将推出。当时公司预计应该在10月份就能看到更新，这意味着该公司内部正准备很快将其部署到服务器上，ISO下载链接已经被发现。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;东京理工大学开发了一种新的无细胞蛋白质结晶（CFPC）方法，包括直接的蛋白质结晶，是结构生物学领域的一个重大进步。这项技术将使我们能够分析用传统方法无法研究的不稳定的蛋白质。分析这些将增加我们对细胞过程和功能的了解。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [为了随时随地能敲代码 他用树莓派手搓一台Linux掌上电脑](https://www.cnbeta.com/articles/tech/1323421.htm) | Mon Oct 03 2022 10:27 AM 
+- 💂 [特斯拉7纳米以下FSD芯片层面 台积电很可能会抢走三星的所有蛋糕](https://www.cnbeta.com/articles/tech/1323453.htm) | Mon Oct 03 2022 12:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;手搓一台巴掌大小Linux电脑，只需树莓派加点儿零件就行？你没看错，&lt;strong&gt;有人都做出来了&lt;/strong&gt;。36键触控键盘，4.3英寸触摸显示屏，Linux系统，功能一应俱全，单手可握：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉一直在稳步提高其定制的高级驾驶辅助系统（ADAS）的完全自动驾驶（FSD）能力，该系统被称为Autopilot，FSD芯片在这方面发挥着关键作用。现在，如果关于此事的最新报道属实，那么台积电似乎要抢走三星在特斯拉的蛋糕了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉投资者如履薄冰？](https://www.cnbeta.com/articles/tech/1323419.htm) | Mon Oct 03 2022 10:25 AM 
+- 🚀 [B站诉争“哔哩哔哩”食品商标胜诉：属于驰名商标](https://www.cnbeta.com/articles/tech/1323451.htm) | Mon Oct 03 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据标准普尔全球的数据，特斯拉拥有强大的散户投资者基础，他们拥有约 37% 的股票。其中，许多人只能被描述为埃隆马斯克的崇拜者，他们占特斯拉估值的大部分，使其远高于其他汽车制造商。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，广受关注的B站诉争“哔哩哔哩”商标一案终于落下帷幕。判决书显示，北京高级人民法院作出终审裁定：“哔哩哔哩bilibili”（以下简称“哔哩哔哩”）商标为相关公众广为知晓，属于驰名商标，并撤销北京知识产权法院判决以及国家知识产权局的一审裁定。晋江健德食品有限公司（以下简称“健德食品”）公司抢注的“哔哩哔哩 ”商标为无效商标。判决时间为9月6日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [三星Galaxy S23手机壳泄露 相机突起与Fold4的设计一致](https://www.cnbeta.com/articles/tech/1323417.htm) | Mon Oct 03 2022 10:25 AM 
+- 🎊 [玛莎拉蒂GranTurismo Folgore官图发布](https://www.cnbeta.com/articles/tech/1323449.htm) | Mon Oct 03 2022 12:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在上周的渲染图Galaxy S23和S23+公布之后，我们现在得到了一个后续的泄露，即为较小型号的S23设计的两个保护壳。这两款保护壳显示，香草型号的按钮位置将保持在S22上的位置，而相机突起现在将采用更薄的设计，与Galaxy Z Fold4上的设计一致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月3日，玛莎拉蒂正式发布了旗下GranTurismo Folgore官图，该车是全新玛莎拉蒂GranTurismo的纯电动版本，未来玛莎拉蒂品牌所有纯电版本的车都会叫Folgore。新车将搭载3台电机，理论最大功率高达1200马力，预计将会在2023年正式发布并上市销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
