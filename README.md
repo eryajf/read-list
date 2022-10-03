@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [几乎1/4的Steam游戏用户已经更新至Windows 11](https://www.cnbeta.com/articles/tech/1323509.htm) | Mon Oct 03 2022 4:11 PM 
+- 🕯 [我国科学家揭示蚁群组成“超有机体”的分子机制](https://www.cnbeta.com/articles/science/1323511.htm) | Mon Oct 03 2022 5:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，我国科学家领衔的中外联合研究团队揭示了蚂蚁群体和多细胞生物在发育和演化上的相似之处，为将蚁群视为超有机体的理论找到了证据支持。10月3日，该研究成果正式在国际学术期刊《自然-生态与演化》上线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [几乎1/4的Steam游戏用户已经更新至Windows 11](https://www.cnbeta.com/articles/tech/1323509.htm) | Mon Oct 03 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;来自Valve的最新数据揭示了关于游戏玩家用来访问平台的电脑的新细节。2022年9月的Steam硬件和软件调查显示，&lt;strong&gt;Windows 11市场份额持续稳定地攀升，现在几乎每四个Steam用户中就有一个运行微软的最新操作系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [App Store小型应用开发者援助基金的放款即将开始](https://www.cnbeta.com/articles/tech/1323507.htm) | Mon Oct 03 2022 4:01 PM 
+- 💂 [App Store小型应用开发者援助基金的放款即将开始](https://www.cnbeta.com/articles/tech/1323507.htm) | Mon Oct 03 2022 4:01 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;申请参加苹果公司1亿美元的App Store集体诉讼和解案件的开发者被告知，付款应该最快在10月开始。&lt;/strong&gt;小应用程序开发者援助基金是作为苹果公司解决诉讼的一部分而设立的，该公司也对其应用程序商店的管理法则进行了修改。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [AirPods Pro 2耳塞电池容量大了15% 但充电盒却没有什么改进](https://www.cnbeta.com/articles/tech/1323505.htm) | Mon Oct 03 2022 3:57 PM 
+- 🚀 [AirPods Pro 2耳塞电池容量大了15% 但充电盒却没有什么改进](https://www.cnbeta.com/articles/tech/1323505.htm) | Mon Oct 03 2022 3:57 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;监管文件显示，第二代AirPods Pro更长的电池寿命部分是通过使用物理上更大的电池实现的。官方数据显示，与第一代AirPods Pro相比，第二代型号的电池寿命增加了1.5小时，并启用了主动降噪功能，总时长为6小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [大摩：预计苹果App Store 9月净营收同比下降5% 创有记录以来最大降幅](https://www.cnbeta.com/articles/tech/1323503.htm) | Mon Oct 03 2022 3:04 PM 
+- 🎊 [大摩：预计苹果App Store 9月净营收同比下降5% 创有记录以来最大降幅](https://www.cnbeta.com/articles/tech/1323503.htm) | Mon Oct 03 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;摩根士丹利援引相关统计数据表示，预计苹果（AAPL.US）App Store 9月份净营收同比下降5%，这将是该公司“有记录以来最严重的下滑”。摩根士丹利援引Sensor Tower的第三方数据指出，苹果的App Store 在中国市场持续疲软，并且，在日本和美国市场的增长也有所放缓。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [特斯拉股价跌7.3% Q3全球交付量不及预期](https://www.cnbeta.com/articles/tech/1323501.htm) | Mon Oct 03 2022 3:02 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉第三季度向客户交付了343830辆汽车，低于分析师预期的358000辆。该公司称，Q3交付量不及预期的原因是物流问题，导致第三季度末在运输中的车辆增加。其股价盘前一度下跌6.5%，截至发稿，该股下跌4.74%，报252.69美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
