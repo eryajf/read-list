@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [港澳地区航天载荷专家初选要求公布：须为中国籍永久居民、普通话较好](https://www.cnbeta.com/articles/science/1323291.htm) | Mon Oct 03 2022 1:48 AM 
+- 🕯 [超级油轮“新伊敦”因采用130英尺长的船帆而减少了9.8%的燃料使用量](https://www.cnbeta.com/articles/tech/1323339.htm) | Mon Oct 03 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我国第四批预备航天员选拔工作已于近期启动，并首次在港澳地区选拔载荷专家。香港星岛网、大公文汇全媒体消息称，香港特区政府10月2日宣布正式启动初选程序，其后公布载荷专家候选对象基本要求，其中包括须为中国籍香港永久居民、普通话要较好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;随着航运业的去碳化进程，巨大的船帆可能会卷土重来，&lt;/strong&gt;招商轮船子公司CMES已经接收了一艘新的超级油轮M/V&amp;quot;New Aden&amp;quot;（新伊敦），它安装的的四个大型船帆将把航行时的平均燃料消耗减少近10%。几千年来，风帆是大型船舶的主要动力来源。德国发明家鲁道夫-迪塞尔在1897年启动并运行了他的第一台发动机，第一艘以柴油为动力的船舶在1903年出海。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉2022 AI Day会议纪要：Optimus后续的生产规模可能会达到数百万台](https://www.cnbeta.com/articles/tech/1323289.htm) | Mon Oct 03 2022 1:45 AM 
+- 💼 [[视频]知名游戏主播Dream终于露真容 主频道粉丝超3400万](https://hot.cnbeta.com/articles/game/1323337.htm) | Mon Oct 03 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉2022 AI Day会议纪要，本次AI日主要展示了人形机器人Optimus、自动驾驶研发进程、以及Dojo超算。特斯拉人形机器人亮相首次亮相，并做了一个舞蹈动作。之后，该公司展示了一些机器人做其他任务的视频片段，比如捡箱子、浇水等。最后，特斯拉展示了将量产的机器人外形，不过功能还不全，只是进行简单展示。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-align: left;&quot;&gt;Dream 是一位在油管平台上非常出名的游戏主播，但是他的真容从未示人。&lt;strong&gt;不过在上周日，他在最新一期视频中终于展示了自己的真容，在上线短短 45 分钟观看量就超过 100 万次。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国庆假期第三天：游客达最高承载量 多景区已停止预约](https://www.cnbeta.com/articles/tech/1323287.htm) | Mon Oct 03 2022 1:38 AM 
+- 💂 [《黑豹2》新剧照欣赏 新老面孔齐聚瓦坎达](https://hot.cnbeta.com/articles/movie/1323335.htm) | Mon Oct 03 2022 3:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天是10月3日，国庆假期第三天，想必不少人还在前往景区旅行的路上，&lt;strong&gt;但目前已经有不少景区达到游客最高承载量，停止预约。&lt;/strong&gt;据“中国黄山”微信公众号1日消息，10月2日黄山风景区门票预约数量已达最大承载量，按照限量、预约、错峰要求，停止预约。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《黑豹2》演员温斯顿·杜克近日在社交媒体上分享本片多张剧照，从中可以看到姆巴库、娜吉雅和莉莉·威廉姆斯等角色。《黑豹2》电影时长2个小时41分钟，是MCU第四阶段最长的电影，也是整个MCU最长的非《复仇者联盟》电影。而在《复联》系列中，也只有3小时1分钟的《复仇者联盟4：终局之战》胜过《黑豹2》。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[图]Meta新规：Facebook Marketplace停用车船交易帖/房源](https://www.cnbeta.com/articles/tech/1323285.htm) | Mon Oct 03 2022 1:15 AM 
+- 🚀 [《侏罗纪世界3》导演：《侏罗纪公园》电影应只有一部](https://hot.cnbeta.com/articles/movie/1323333.htm) | Mon Oct 03 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;普通消费者想要购买一辆二手车往往会遇到非常多的障碍，而 Facebook Marketplace 和 OfferUp 等平台上充斥着大量来自经销商的误导性二手汽车信息，让消费者购买二手车变得更加困难。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;导演科林·特雷沃罗认为，《侏罗纪公园》电影应该只有一部，结果他最终拍出了《侏罗纪世界》，而且连拍了三部。在近日接受媒体采访时，特雷沃罗表示斯皮尔伯格的《侏罗纪公园》其内核就是“无法系列化”的电影，本来就没打算拍续集，所以想要为了给这个系列趟出一条新路，就必须让这个系列完成进化，找一些新的切入点，特别是在《侏罗纪世界3》之后。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [超级识别者为何能对人脸过目不忘？新研究探究其中奥秘](https://www.cnbeta.com/articles/science/1323283.htm) | Mon Oct 03 2022 12:44 AM 
+- 🎊 [比亚迪半导体IPO发行注册程序再中止](https://www.cnbeta.com/articles/tech/1323331.htm) | Mon Oct 03 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一项新的研究表明，对人脸有过目不忘本事的“超级识别者”（super-recogniser）比普通观察者更均匀地分散他们的目光。&lt;/strong&gt;超级识别者即便是在后视镜中看到他们儿时的熟人，都可以立即认出他们。他们不仅可以帮助警察部门和安全组织识别嫌疑人，而且有时候也会作为私人和非官方调查员。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月30日，深交所披露，比亚迪半导体股份有限公司（以下简称“比亚迪半导体”）因IPO注册申请文件中记载的财务资料已过有效期，需要补充提交，根据《创业板首次公开发行股票注册管理办法（试行）》第二十九条的相关规定，其发行注册程序中止。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
