@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【SSO单点登录】JWT入门概述&amp;&amp;残留的安全问题](https://juejin.cn/post/7150205073161715743) | Mon Oct 03 2022 8:49 AM 
+- 🤗 [说一说spring boot优雅集成redisson](https://juejin.cn/post/7150227622071369741) | Mon Oct 03 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
-    - 前后端分离会话问题以及解决方案 - JWT概述入门 - JWT优势 - JWT残留的问题 -redis白名单&amp;黑名单机制 - HTTPS中的数字签名机制 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 拔剑起蒿莱👥👥👥👥 今天简单说一下集成及注意事项。 redisson支持redis单机、集群、哨兵 
     </details> 
 
-- 🎡 [Rust 101](https://juejin.cn/post/7150187051621548046) | Mon Oct 03 2022 7:38 AM 
+- 🎡 [一文快速上手高性能网络框架netty](https://juejin.cn/post/7150198854237814792) | Mon Oct 03 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-    Rust 入门，笔记，合集。久违的学习笔记上新！我满怀热情地学习《The Rust Programming Language》 
+    netty是一款异步的事件驱动的网络程序框架，支持快速地开发可维护的高性能的面向协议的服务器和客户端。本文对netty的工作流程与主要组件作介绍。 
     </details> 
 
-- 🕯 [HTTP协议客户端之HttpClient的基本使用](https://juejin.cn/post/7150185778079858701) | Mon Oct 03 2022 7:34 AM 
+- 🕯 [业务需求分析中的三板斧-详细分析](https://juejin.cn/post/7150197692331720711) | Mon Oct 03 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
-    常用HTTP协议客户端包括有：httpclient、restTemplate、okHttp。HttpClient提供高效的、最新的、功能丰富的支持 HTTP 协议的客户端编程工具包。 
+    我正在参加「掘金·启航计划」 在对业务价值、业务用例和流程进行分析之后，接下来就要对业务进行详细分析。我们知道，程序本身就是一个状态机。那现在我们用程序来描述一个需求，也就是要用一个状态机来描述需求， 
     </details> 
 
-- 🚀 [深入浅出Android底层&lpar;二&rpar;-Android中的IPC-Binder机制](https://juejin.cn/post/7150093018756808717) | Mon Oct 03 2022 1:35 AM 
+- 🚀 [【python小游戏】用python写一款小游戏--贪吃蛇](https://juejin.cn/post/7150193444445487135) | Mon Oct 03 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 前言 在上一篇Android的IPC-Binder机制中,我们提及了Android中的Binder机制并 
+    ​ 今天，突发奇想的想用python写一款小游戏--贪吃蛇。相信大家都玩过，那么玩一款自己写的是一种什么样的体验呢。 ​ 我们首先导入相关模块 那么这三个模块有什么意思呢。 
     </details> 
 
-- 💪 [Android导航栏的处理-HostStatusLayout加入底部的导航栏适配](https://juejin.cn/post/7150088571313979399) | Mon Oct 03 2022 1:17 AM 
+- 💪 [Vue响应式依赖收集原理分析-vue高级必备](https://juejin.cn/post/7150187591101317151) | Mon Oct 03 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    其实大部分的应用都只需要使用到状态栏，导航栏由系统去管理，为什么不自己管理导航栏，就是导航栏的坑太多。 背景设置的坑，判断是否存在的坑，手动设置隐藏显示导航栏的坑，导航栏高度获取的坑 
+    背景 在 Vue 的初始化阶段，_init 方法执行的时候，会执行 initState&lpar;vm&rpar; ，它的定义在 src/core/instance/state.js 中。在初始化 data 和 prop 
     </details> 
 <!-- juejin:END -->
 ### 少数派
