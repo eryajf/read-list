@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [非侵入性、3分钟诊断帕金森症](http://jandan.net/p/111428) | Mon Oct 03 2022 11:53 AM 
+- 🚀 [图像生成AI，压缩图像的效果好于JPEG或WebP](http://jandan.net/p/111407) | Mon Oct 03 2022 3:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    视觉伪影更少 
+    </details> 
+
+- 🙉 [非侵入性、3分钟诊断帕金森症](http://jandan.net/p/111428) | Mon Oct 03 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
     在采集皮肤拭子后3分钟 
     </details> 
 
-- 🙉 [找工作，哪种人际关系最有帮助？是通过密友还是不太熟的陌生人](http://jandan.net/p/111365) | Mon Oct 03 2022 6:27 AM 
+- 🎉 [找工作，哪种人际关系最有帮助？是通过密友还是不太熟的陌生人](http://jandan.net/p/111365) | Mon Oct 03 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
     1973 年，美国社会学家马克·格兰诺维特在社交网络的背景下创造了“弱关系的力量”这一短语 
     </details> 
 
-- 🎉 [今日好价 1003](http://jandan.net/p/111426) | Mon Oct 03 2022 2:57 AM 
+- 🐲 [今日好价 1003](http://jandan.net/p/111426) | Mon Oct 03 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：32 
     </details> 
 
-- 🐲 [现代社交/通信应用 导致小孩子每周损失一晚的睡眠](http://jandan.net/p/111377) | Sun Oct 02 2022 1:03 PM 
+-  [现代社交/通信应用 导致小孩子每周损失一晚的睡眠](http://jandan.net/p/111377) | Sun Oct 02 2022 1:03 PM 
     <details><summary>展开描述 ...</summary> 
     他们睡着之前总忍不住拿起手机看看朋友们发布了啥 
-    </details> 
-
--  [全球玩家两年里消费37亿美元 原神成为当今第三大创收手游](http://jandan.net/p/111424) | Sun Oct 02 2022 5:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    次于腾讯的《绝地求生》&lpar;两年 49 亿美元&rpar;，和同样来自腾讯的《王者荣耀》——排名第一——两年55亿美元 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
