@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Looking forword a developer to work on snapano.com](https://www.v2ex.com/t/884475#reply1) | Mon Oct 03 2022 3:51 AM
-- 🤗 [想換 NAS 系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464#reply31) | Mon Oct 03 2022 3:13 AM
-- 🎭 [前两天买 cn2 的服务器被坑了 今天发现有很多用魔方搭建的 价格特别便宜 是坑吗？](https://www.v2ex.com/t/884457#reply6) | Mon Oct 03 2022 2:53 AM
-- 🥷 [eslint 不能识别 assert 语法？](https://www.v2ex.com/t/884448#reply3) | Mon Oct 03 2022 2:01 AM
-- 🐵 [作为大龄程序员，你如何持续的保持自己的竞争优势](https://www.v2ex.com/t/884436#reply12) | Sun Oct 02 2022 11:35 PM<!-- v2ex:END -->
+- 🥸 [为什么 select &lpar;select row1 from table1&rpar; as row2，当 table1 为空时，结果是 null 而不是空呢？](https://www.v2ex.com/t/884502#reply0) | Mon Oct 03 2022 8:20 AM
+- 🤗 [如何才能让 esxi 下的 windows 虚拟机显示正常呢？](https://www.v2ex.com/t/884498#reply4) | Mon Oct 03 2022 7:50 AM
+- 🎭 [谷歌发布 Lyra V2 超低比特率语音编解码器，可在 56kbps 网速下语音聊天](https://www.v2ex.com/t/884497#reply1) | Mon Oct 03 2022 7:46 AM
+- 🥷 [Looking forword a developer to work on snapano.com](https://www.v2ex.com/t/884475#reply2) | Mon Oct 03 2022 3:51 AM
+- 🐵 [想換 NAS 系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464#reply38) | Mon Oct 03 2022 3:13 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
