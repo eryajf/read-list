@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [天文学家估算：银河系有数百亿颗“超级地球”](https://www.cnbeta.com/articles/science/1323359.htm) | Mon Oct 03 2022 6:35 AM 
+- 🕯 [一加Nord手表正式发布：配备1.78英寸OLED屏幕 电池续航长达30天](https://www.cnbeta.com/articles/tech/1323379.htm) | Mon Oct 03 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月3日消息，，仅在银河系就有数百亿颗“超级地球”存在，它们比我们现在生活的地球更常见，也更适合人类居住。天文学家经常发现太阳系外围绕恒星运行的行星，并将它们称为“系外行星”。2022年夏天，NASA负责凌日系外行星调查卫星的团队发现了几颗特别有趣的系外行星，它们在其母恒星的宜居带运行。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一加在2021年3月加入了智能手表的世界，而今天它也将其经济实惠的子品牌Nord带入其中。现在就让我们认识一下OnePlus Nord Watch--一款拥有大而明亮的屏幕、运动追踪和长达30天电池寿命的智能手表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Firefly Aerospace成功发射Alpha火箭进入轨道 官方发布全程视频](https://www.cnbeta.com/articles/science/1323357.htm) | Mon Oct 03 2022 6:32 AM 
+- 💼 [李想：理想汽车用3年时间与百亿投入实现了核心技术的全栈自研](https://www.cnbeta.com/articles/tech/1323377.htm) | Mon Oct 03 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;德克萨斯州的初创公司Firefly Aerospace在周末成功发射了其Alpha火箭，加入了越来越多的具有轨道能力的太空初创公司的行列。这次任务将一组卫星部署到低地球轨道，标志着这家新成立的发射服务提供商迈出了期待已久的一步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月3日消息，今日，理想汽车官微发布一张长图，介绍理想汽车的核心技术、供应链体系和智造能力。其中核心技术方面，展示了增程电动2.0系统，包括自研的1.5T增程器、自研五合一电驱、自研高压三合一驱动电机等等，还有对800V高压平台的全面布局。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [“入侵者”出击：一名A-6攻击机飞行员的自白](https://www.cnbeta.com/articles/tech/1323355.htm) | Mon Oct 03 2022 6:06 AM 
+- 💂 [两位中国作家：诺贝尔文学奖大热门](https://www.cnbeta.com/articles/tech/1323375.htm) | Mon Oct 03 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;故事的主人公Francesco Chierici（呼号Paco）是一名A-6“入侵者”双座攻击机的驾驶员，积累了数千飞行小时并亲身经历了包括A-6在内格鲁曼舰载机家族集体谢幕的大结局。Paco不是那种在机场周围长大，从小立志当飞行员的孩子，认识的人里也没有飞行员。他纯粹是为了大学学费才报名参加海军预备军官学校，上大三之前有幸坐在F-14的后座上天兜了一次，从那时起才决心投身飞行事业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;诺奖又要来了。据诺贝尔奖官网消息，2022年诺贝尔奖将于10月3日至10日陆续颁布。10月3日，诺贝尔生理学或医学奖公布；10月4日，诺贝尔物理学奖公布；10月5日，诺贝尔化学奖公布；10月6日，诺贝尔文学奖公布。2022年诺贝尔奖的奖金为1000万瑞典克朗（约合642万元人民币）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [暴雪《守望先锋》今日停服：续作“归来”10月5日上线免费玩](https://hot.cnbeta.com/articles/game/1323353.htm) | Mon Oct 03 2022 4:24 AM 
+- 🚀 [岸本齐史绘制《火影忍者》动画20周年贺图 官方网站今日上线](https://hot.cnbeta.com/articles/comic/1323373.htm) | Mon Oct 03 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;10月3日，暴雪《守望先锋》将正式停服，今晚0点左右将无法登陆，这款6年的大作迎来了落幕。&lt;/strong&gt;虽然《守望先锋》与当年的《魔兽世界》《魔兽争霸》《暗黑破坏神》等作品还差些距离，但曾经也是红极一时，势头凶猛，不仅荣获TGA年度最佳游戏奖，甚至彼时热度有超越《英雄联盟》的趋势，堪称一部经典之作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了纪念《火影忍者》动画播出20周年，官方公开了一些列回顾历史故事的视觉图片，以及由漫画原作者岸本齐史绘制的纪念插画和祝贺评语。官方还将在10月3日18:00公开《火影忍者》20周年全新PV，在各个主题曲中，将播出全新绘制的各个名场景。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1323373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [从科普的初衷走向了追求流量的结果 “海克斯科技”究竟伤害了谁？](https://hot.cnbeta.com/articles/movie/1323351.htm) | Mon Oct 03 2022 4:12 AM 
+- 🎊 [被嫌弃的40岁打工人](https://www.cnbeta.com/articles/tech/1323371.htm) | Mon Oct 03 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“海克斯科技”一词，爆红网络。这个出自游戏《英雄联盟》的词语，特指一种魔法和科技融合的顶尖技术，但在短视频博主口中，它成为了将食材“化腐朽为神奇”的方式。奶茶是用奶精粉和植脂末调配而成；牛排是用碎肉和边角料压制而成；燕窝则是明胶片和植脂末加糖浆泡出来的；一勺三花淡奶入锅，自来水立刻变成白色羊汤……&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“我的朋友圈，哪里有适合我的工作！”9月的一天，徐力在失业大半年后，在朋友圈里发出了找工作的信息。徐力之前在大厂做过，今年上半年因为大厂不景气被裁，半年找工作下来，结果是屡战屡败。他将自己求职不顺的原因归结为，已经40岁了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
