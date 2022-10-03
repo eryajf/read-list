@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Music庆祝其曲库中的歌曲数量突破一亿首大关](https://www.cnbeta.com/articles/tech/1323483.htm) | Mon Oct 03 2022 2:33 PM 
+- 🕯 [大摩：预计苹果App Store 9月净营收同比下降5% 创有记录以来最大降幅](https://www.cnbeta.com/articles/tech/1323503.htm) | Mon Oct 03 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司刚刚宣布，它的Apple Music曲库的曲目数量已经突破了1亿大关。借此，该公司回顾了iTunes发明的21年，当时通过大容量iPod，人们的口袋里最多可以有1000首歌曲，而现在用户在Apple Music上可以拥有10万倍以上的歌曲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;摩根士丹利援引相关统计数据表示，预计苹果（AAPL.US）App Store 9月份净营收同比下降5%，这将是该公司“有记录以来最严重的下滑”。摩根士丹利援引Sensor Tower的第三方数据指出，苹果的App Store 在中国市场持续疲软，并且，在日本和美国市场的增长也有所放缓。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [意大利法院撤销对苹果和亚马逊的反垄断罚款](https://www.cnbeta.com/articles/tech/1323481.htm) | Mon Oct 03 2022 2:13 PM 
+- 💼 [特斯拉股价跌7.3% Q3全球交付量不及预期](https://www.cnbeta.com/articles/tech/1323501.htm) | Mon Oct 03 2022 3:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;周一，一份文件显示，意大利一家行政法院取消了该国反垄断机构对美国科技巨头苹果和亚马逊涉嫌串通的罚款。&lt;/strong&gt;反垄断机构曾在2021年对这两家公司共处以超过2亿欧元（1.953亿美元）的罚款，理由是在销售苹果和Beats产品时涉嫌反竞争合作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉第三季度向客户交付了343830辆汽车，低于分析师预期的358000辆。该公司称，Q3交付量不及预期的原因是物流问题，导致第三季度末在运输中的车辆增加。其股价盘前一度下跌6.5%，截至发稿，该股下跌4.74%，报252.69美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果CEO蒂姆·库克获教皇方济各特别接见](https://www.cnbeta.com/articles/tech/1323479.htm) | Mon Oct 03 2022 1:55 PM 
+- 💂 [Wisk Aero公司展示四座自动驾驶空中出租车](https://www.cnbeta.com/articles/tech/1323499.htm) | Mon Oct 03 2022 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司CEO蒂姆-库克的欧洲之旅仍在继续，教皇弗朗西斯与苹果公司首席执行官库克进行了私人会晤。迄今为止，库克在英国、德国和意大利进行了未经提前宣布的访问，并在那里被授予荣誉学位。他现在访问了梵蒂冈城，在那里他与教皇弗朗西斯会面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;空中出租车初创公司Wisk Aero发布了其第六代飞机，这是一种全电动四座飞机，可以在没有人类飞行员的情况下飞行。&lt;/strong&gt;这家由波音支持的公司表示，它将向联邦航空管理局申请批准商业空中出租车服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [即将推出的M2 Extreme芯片可能包含48核CPU/160核GPU 支持384GB内存](https://www.cnbeta.com/articles/tech/1323477.htm) | Mon Oct 03 2022 1:53 PM 
+- 🚀 [时隔6年，诺贝尔首奖再现“单人获奖者”](https://www.cnbeta.com/articles/science/1323497.htm) | Mon Oct 03 2022 3:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们还不知道苹果公司为即将到来的Mac Pro型号带来的顶配版Apple Silicon确切计划，但基于从M1处理器发展历程的推断，Macworld做了一些推测。明年我们可能会看到M2 Extreme芯片的发布，为新的Mac Pro提供动力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;span style=&quot;&quot;&gt;2022年诺贝尔生理学或医学奖，属于瑞典著名生物学家、进化遗传学权威斯万特·帕博（Svante Pääbo）。&lt;/span&gt;这也是自2016年以来，该奖项的颁奖页面上，首次只挂上一个人的头像。自打6年前，日本人大隅良典因“在细胞自噬机制方面的发现”获奖之后，诺贝尔生理学或医学奖再没授予过单个人，从来都是两三位科学家共同上台领奖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [索尼PS5惊现重大漏洞：可越狱 随意安装第三方软件](https://www.cnbeta.com/articles/tech/1323475.htm) | Mon Oct 03 2022 1:49 PM 
+- 🎊 [苹果公司准备在iOS 16.0.3系统中修复更多已发现的Bug](https://www.cnbeta.com/articles/tech/1323495.htm) | Mon Oct 03 2022 2:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据海外最新消息，最近索尼PS5最近被发现了一个重大漏洞，能让主机时间越狱，随意安装非官方认证的第三方软件。根据曝光的界面显示，&lt;strong&gt;利用该漏洞可以访问系统调试菜单，也能安装PS4 PKG文件，MOD制作者Lance McDonald就通过这个漏洞安装了《寂静岭PT》。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iOS 16.0.2在上个月发布，对iPhone 14的问题、过多的复制和粘贴权限提示等进行了一些错误修复。现在，有证据表明，苹果正计划发布iOS 16.0.3，并进行更多的错误修复。即将发布的iOS 16.0.3软件更新的证据已经出现在苹果爱好者网站的分析日志中，这在过去是一个可靠的指标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
