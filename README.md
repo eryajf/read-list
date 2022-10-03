@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果CEO蒂姆·库克获教皇方济各特别接见](https://www.cnbeta.com/articles/tech/1323479.htm) | Mon Oct 03 2022 1:55 PM 
+- 🕯 [Apple Music庆祝其曲库中的歌曲数量突破一亿首大关](https://www.cnbeta.com/articles/tech/1323483.htm) | Mon Oct 03 2022 2:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司刚刚宣布，它的Apple Music曲库的曲目数量已经突破了1亿大关。借此，该公司回顾了iTunes发明的21年，当时通过大容量iPod，人们的口袋里最多可以有1000首歌曲，而现在用户在Apple Music上可以拥有10万倍以上的歌曲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [意大利法院撤销对苹果和亚马逊的反垄断罚款](https://www.cnbeta.com/articles/tech/1323481.htm) | Mon Oct 03 2022 2:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;周一，一份文件显示，意大利一家行政法院取消了该国反垄断机构对美国科技巨头苹果和亚马逊涉嫌串通的罚款。&lt;/strong&gt;反垄断机构曾在2021年对这两家公司共处以超过2亿欧元（1.953亿美元）的罚款，理由是在销售苹果和Beats产品时涉嫌反竞争合作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果CEO蒂姆·库克获教皇方济各特别接见](https://www.cnbeta.com/articles/tech/1323479.htm) | Mon Oct 03 2022 1:55 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果公司CEO蒂姆-库克的欧洲之旅仍在继续，教皇弗朗西斯与苹果公司首席执行官库克进行了私人会晤。迄今为止，库克在英国、德国和意大利进行了未经提前宣布的访问，并在那里被授予荣誉学位。他现在访问了梵蒂冈城，在那里他与教皇弗朗西斯会面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [即将推出的M2 Extreme芯片可能包含48核CPU/160核GPU 支持384GB内存](https://www.cnbeta.com/articles/tech/1323477.htm) | Mon Oct 03 2022 1:53 PM 
+- 🚀 [即将推出的M2 Extreme芯片可能包含48核CPU/160核GPU 支持384GB内存](https://www.cnbeta.com/articles/tech/1323477.htm) | Mon Oct 03 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;我们还不知道苹果公司为即将到来的Mac Pro型号带来的顶配版Apple Silicon确切计划，但基于从M1处理器发展历程的推断，Macworld做了一些推测。明年我们可能会看到M2 Extreme芯片的发布，为新的Mac Pro提供动力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [索尼PS5惊现重大漏洞：可越狱 随意安装第三方软件](https://www.cnbeta.com/articles/tech/1323475.htm) | Mon Oct 03 2022 1:49 PM 
+- 🎊 [索尼PS5惊现重大漏洞：可越狱 随意安装第三方软件](https://www.cnbeta.com/articles/tech/1323475.htm) | Mon Oct 03 2022 1:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据海外最新消息，最近索尼PS5最近被发现了一个重大漏洞，能让主机时间越狱，随意安装非官方认证的第三方软件。根据曝光的界面显示，&lt;strong&gt;利用该漏洞可以访问系统调试菜单，也能安装PS4 PKG文件，MOD制作者Lance McDonald就通过这个漏洞安装了《寂静岭PT》。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [被传或重蹈雷曼兄弟倒台覆辙 这家国际大行到底发生了什么](https://www.cnbeta.com/articles/tech/1323473.htm) | Mon Oct 03 2022 1:10 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;周一欧洲股市跳空低开，身陷漩涡的瑞士信贷盘初跳水近7%，续创历史新低。近日，瑞士信贷（Credit Suisse AG，下称“瑞信”）突然成为了全球市场的焦点。这家瑞士第二大银行开始为生存而战，股价周一再创新低，有关未来破产的猜测愈演愈烈。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [父子相隔40年同获诺贝尔医学奖 他找到了人类起源的秘密](https://www.cnbeta.com/articles/science/1323471.htm) | Mon Oct 03 2022 1:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“人类总是对自己的起源感兴趣。我们从哪里来？我们和我们的祖先有什么关系？是什么让我们智人与其他原始人类不同？”Svante Pääbo 的开创性研究完成了一件看似不可能的事情：对已经灭绝的尼安德特人（Neanderthal）的基因组进行测序。他还发现了一种此前不为人知的原始人类：丹尼索瓦人（Denisova）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
