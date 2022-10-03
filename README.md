@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [SpeakHub.live - 轻巧、强大的实时聊天解决方案](https://xinquji.com/posts/180067?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:30 AM 
+- 👀 [Ultimate Study Dashboard - 用于提高 Notion 生产力的教育仪表板](https://xinquji.com/posts/180105?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     轻巧、强大的实时聊天解决方案  
+     用于提高 Notion 生产力的教育仪表板  
     </details> 
 
-- 🥷 [The User Engagement Audit - 消除用户参与和保留的猜测](https://xinquji.com/posts/180066?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:28 AM 
+- 🥷 [Mintlix - 无代码 NFT 生成器](https://xinquji.com/posts/180104?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     消除用户参与和保留的猜测  
+     无代码 NFT 生成器  
     </details> 
 
-- 💼 [Bedrok - 保证自由职业者的工作](https://xinquji.com/posts/180065?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:28 AM 
+- 💼 [Edith &amp;amp; Nous - 面向作家和出版商的 SaaS 平台](https://xinquji.com/posts/180103?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     保证自由职业者的工作  
+     面向作家和出版商的 SaaS 平台  
     </details> 
 
-- 🦅 [Pedal - 用于管理和维护车辆的汽车应用程序](https://xinquji.com/posts/180064?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:26 AM 
+- 🦅 [Mario Kart Tour 3.0 - 环游世界](https://xinquji.com/posts/180102?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     用于管理和维护车辆的汽车应用程序  
+     环游世界  
     </details> 
 
-- 😺 [Welcome Center Estonia - 寻找公司并获得更深入的见解](https://xinquji.com/posts/180063?utm_campaign=xinquji-rss) | Mon Oct 03 2022 6:26 AM 
+- 😺 [bilinkle - 全新的问答应用](https://xinquji.com/posts/180101?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     寻找公司并获得更深入的见解  
+     全新的问答应用  
     </details> 
 <!-- xinquji:END -->
