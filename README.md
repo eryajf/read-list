@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [字节跳动开源！超好用的视频抠图工具；GitHub开源项目维护协作指南；自动化数据清洗工具包；强化学习入门教程；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7150142286062419975) | Mon Oct 03 2022 4:44 AM 
+- 🤗 [Nginx使用手册](https://juejin.cn/post/7150168625775640613) | Mon Oct 03 2022 6:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 Nginx手册 Nginx配置 1. 代理实战配置 首先安装nginx 将vue项目buid好&lpar;stat 
+    </details> 
+
+- 🎡 [实战 Go：怎样快速实现一个极简任务调度系统](https://juejin.cn/post/7150156954394951694) | Mon Oct 03 2022 5:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    在爬虫管理平台Crawlab中，任务调度是其中的核心模块。本篇文章会教读者用 Go 语言编写一个非常简单的任务调度系统。 
+    </details> 
+
+- 🕯 [Docker常用镜像命令之——ADD、COPY、ENV、WORKDIR、EXPOSE](https://juejin.cn/post/7150156852565655559) | Mon Oct 03 2022 5:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，本篇文章我们了解一下镜像常用的命令，ADD,COPY、ENV、WORKDIR、EXPOSE 
+    </details> 
+
+- 🚀 [图解LeetCode——1784. 检查二进制字符串字段（难度：简单）](https://juejin.cn/post/7150154231771561991) | Mon Oct 03 2022 5:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 一、题目 给定一个二进制字符串不带前导零（即：以0开头），如果s最多包含一个连续的1段，返回true 。 
+    </details> 
+
+- 💪 [字节跳动开源！超好用的视频抠图工具；GitHub开源项目维护协作指南；自动化数据清洗工具包；强化学习入门教程；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7150142286062419975) | Mon Oct 03 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
     可生成动画的AI绘画&lpar;本地版&rpar;、字节跳动开源的视频抠图工具、适用于分类和回归任务的机器学习方法、自动化数据预处理/数据清洗工具包、强化学习教程、GitHub 开源项目维护协作指南、控制论相关资源列表… 
-    </details> 
-
-- 🎡 [iOS小技能：app侧登录流程【上篇】 （前置知识）](https://juejin.cn/post/7150136629884092452) | Mon Oct 03 2022 4:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 引言 上篇：前置知识https://blog.csdn.net/u011018979/article/d 
-    </details> 
-
-- 🕯 [【算法题解】 Day5 贪心](https://juejin.cn/post/7150121563910569991) | Mon Oct 03 2022 3:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天的算法是 「贪心」 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
-    </details> 
-
-- 🚀 [一文搞懂Go语言标准库，log](https://juejin.cn/post/7150114485993717790) | Mon Oct 03 2022 2:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 Go 语言的标准库中提供了一个简单的 log 日志包，它不仅提供了很多函数，还定义了一个包含很多方法的类 
-    </details> 
-
-- 💪 [Flutter — 文本为什么可以被编辑？如何自定义编辑的行为？](https://juejin.cn/post/7150114035030032415) | Mon Oct 03 2022 2:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    文字是人类用符号记录表达信息以传之久远的方式和工具。那么在Flutter中，文本为什么可以被编辑呢？我们又该如何自定义文本编辑的行为呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
