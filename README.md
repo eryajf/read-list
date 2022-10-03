@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14 Plus的交货时间开始增长 Pro机型的需求量仍然很大](https://www.cnbeta.com/articles/tech/1323257.htm) | Sun Oct 02 2022 11:17 PM 
+- 🕯 [港澳地区航天载荷专家初选要求公布：须为中国籍永久居民、普通话较好](https://www.cnbeta.com/articles/science/1323291.htm) | Mon Oct 03 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一家产品供应跟踪机构称，相对于iPhone 13 Pro，iPhone 14 Pro机型的需求量仍然很高，而iPhone 14的需求量显然比iPhone 13弱，但对于iPhone 14 Plus来说，似乎有一个好消息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我国第四批预备航天员选拔工作已于近期启动，并首次在港澳地区选拔载荷专家。香港星岛网、大公文汇全媒体消息称，香港特区政府10月2日宣布正式启动初选程序，其后公布载荷专家候选对象基本要求，其中包括须为中国籍香港永久居民、普通话要较好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[图]七款华擎B650/B650E主板规格曝光](https://www.cnbeta.com/articles/tech/1323255.htm) | Sun Oct 02 2022 10:59 PM 
+- 💼 [特斯拉2022 AI Day会议纪要：Optimus后续的生产规模可能会达到数百万台](https://www.cnbeta.com/articles/tech/1323289.htm) | Mon Oct 03 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国外可以媒体 VideoCardz 分享了华擎即将推出的 B650 和 B650E 两款主板的规格信息。只不过和微星的 B650 主板一样，本次泄露遗憾的是依然没有售价方面的信息。本次泄露的共有七款型号，包括四款 B650E 和三款 B650 型号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉2022 AI Day会议纪要，本次AI日主要展示了人形机器人Optimus、自动驾驶研发进程、以及Dojo超算。特斯拉人形机器人亮相首次亮相，并做了一个舞蹈动作。之后，该公司展示了一些机器人做其他任务的视频片段，比如捡箱子、浇水等。最后，特斯拉展示了将量产的机器人外形，不过功能还不全，只是进行简单展示。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[图]特斯拉第3季度交付34万辆 再次刷新季度记录](https://www.cnbeta.com/articles/tech/1323253.htm) | Sun Oct 02 2022 10:40 PM 
+- 💂 [国庆假期第三天：游客达最高承载量 多景区已停止预约](https://www.cnbeta.com/articles/tech/1323287.htm) | Mon Oct 03 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉近日宣布 2022 年第 3 季度共计交付 343830 辆汽车，再次刷新季度记录。这表明这家由埃隆·马斯克 &lpar;Elon Musk&rpar; 拥有的公司已从第 2 季度受疫情影响而停产的阴霾中走出来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天是10月3日，国庆假期第三天，想必不少人还在前往景区旅行的路上，&lt;strong&gt;但目前已经有不少景区达到游客最高承载量，停止预约。&lt;/strong&gt;据“中国黄山”微信公众号1日消息，10月2日黄山风景区门票预约数量已达最大承载量，按照限量、预约、错峰要求，停止预约。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Linux Kernel 6.0稳定版正式发布 新功能/新特性盘点](https://www.cnbeta.com/articles/tech/1323251.htm) | Sun Oct 02 2022 10:27 PM 
+- 🚀 [[图]Meta新规：Facebook Marketplace停用车船交易帖/房源](https://www.cnbeta.com/articles/tech/1323285.htm) | Mon Oct 03 2022 1:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;没有遇到意外，&lt;a href=&quot;https://lkml.org/lkml/2022/10/2/255&quot; target=&quot;_blank&quot;&gt;Linus Torvalds 于今天推出了 Linux 6.0 稳定版&lt;/a&gt;。国外科技媒体 Phoenix 盘点了新版本即将引入的诸多新功能新特性。该媒体于今年 8 月中旬 Linux Kernel 6.0 合并窗口期时曾撰写过此类文章，而今天发布的文章在重新回顾了这些新功能新特性之外，还整合了之后 Linux 团队做出的调整。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;普通消费者想要购买一辆二手车往往会遇到非常多的障碍，而 Facebook Marketplace 和 OfferUp 等平台上充斥着大量来自经销商的误导性二手汽车信息，让消费者购买二手车变得更加困难。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [巨型&quot;超级神经元&quot;在超级老人的大脑中被发现](https://www.cnbeta.com/articles/science/1323249.htm) | Sun Oct 02 2022 8:18 PM 
+- 🎊 [超级识别者为何能对人脸过目不忘？新研究探究其中奥秘](https://www.cnbeta.com/articles/science/1323283.htm) | Mon Oct 03 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;与认知能力一般的同龄人和患有早期阿尔茨海默病的人相比，超级老人（指的是80岁以上的身体与精神都表现出强健的老年人）大脑内负责记忆的entorhinal皮层的神经元明显较大。与比超级老人年轻20至30岁的人相比甚至更大，并且他们的神经元没有藏有tau缠结，这是阿尔茨海默病的一个标志性特征。这些发现刊载在9月30日发表在《神经科学杂志》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一项新的研究表明，对人脸有过目不忘本事的“超级识别者”（super-recogniser）比普通观察者更均匀地分散他们的目光。&lt;/strong&gt;超级识别者即便是在后视镜中看到他们儿时的熟人，都可以立即认出他们。他们不仅可以帮助警察部门和安全组织识别嫌疑人，而且有时候也会作为私人和非官方调查员。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
