@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [国产系统Linux下的软件分享](https://juejin.cn/post/7150313187047538725) | Mon Oct 03 2022 3:47 PM 
+- 🤗 [手摸手提桶跑路——LeetCode438. 找到字符串中所有字母异位词](https://juejin.cn/post/7150320640292028446) | Mon Oct 03 2022 4:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    给定两个字符串 s 和 p，找到 s 中所有 p 的异位词的子串，返回这些子串的起始索引。不考虑答案输出的顺序。异位词指由相同字母重排列形成的字符串（包括相同的字符串）。 
+    </details> 
+
+- 🎡 [Winform中Textbox、NumericUpDown等修改高度，禁止输入数字或内容的实现](https://juejin.cn/post/7150315546171408398) | Mon Oct 03 2022 3:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    Winform中的Textbox、NumericUpDown控件通常在单行的情况下，无法直接通过`Height`属性修改高度，但很多时候我们需要调整其高度，使其显示的更加合理，主要介绍三种方法... 
+    </details> 
+
+- 🕯 [Dubbo 常用的几个使用技巧](https://juejin.cn/post/7150314357262385182) | Mon Oct 03 2022 3:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 Dubbo 性能测试 通过测试我们初步可以判断 dubbo 的接口性能在 9k -1w 左右 配置多个注 
+    </details> 
+
+- 🚀 [国产系统Linux下的软件分享](https://juejin.cn/post/7150313187047538725) | Mon Oct 03 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 本人linux小白，最近单位更换国产电脑使用了一段时间国产系统。看多了windows下的软件分享，今天我 
     </details> 
 
-- 🎡 [Swift - LeetCode - 数字转换为十六进制数](https://juejin.cn/post/7150311319114088455) | Mon Oct 03 2022 3:42 PM 
+- 💪 [Swift - LeetCode - 数字转换为十六进制数](https://juejin.cn/post/7150311319114088455) | Mon Oct 03 2022 3:42 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 题目 给定一个整数，编写一个算法将这个数转换为十六进制数。对于负整数，我们通常使用 补码运算 方法。 注 
-    </details> 
-
-- 🕯 [sqlc 加 golang-migrate 使用记录](https://juejin.cn/post/7150310189629964324) | Mon Oct 03 2022 3:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    sqlc 这个库的核心思想就是把 sql 代码转为 Go 代码。 因此我使用这个库的流程大概为： 写好要用的 sql 代码 运行 sqlc generate 使用自动生成的增删改成函数。 这里面我遇到 
-    </details> 
-
-- 🚀 [算法入门之队列](https://juejin.cn/post/7150303804305440776) | Mon Oct 03 2022 3:12 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 算法入门之队列 前言 队列和栈及其类似，队列在现实生活中的例子就是隧道，单通道一条线，先进去的先出来，后 
-    </details> 
-
-- 💪 [Objective-C调试技巧——iOS开发者的Debug指南](https://juejin.cn/post/7150299501289275399) | Mon Oct 03 2022 2:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    开发者们在使用Objective-C开发过程中难免会遇到各种类型的bug或难题，而熟练使用IDE工具进行调试无疑会提高开发效率，这里我总结了常用的调试技巧，种类丰富，希望对读者有所帮助。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
