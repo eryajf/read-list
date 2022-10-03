@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [算法入门之队列](https://juejin.cn/post/7150303804305440776) | Mon Oct 03 2022 3:12 PM 
+- 🤗 [国产系统Linux下的软件分享](https://juejin.cn/post/7150313187047538725) | Mon Oct 03 2022 3:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 本人linux小白，最近单位更换国产电脑使用了一段时间国产系统。看多了windows下的软件分享，今天我 
+    </details> 
+
+- 🎡 [Swift - LeetCode - 数字转换为十六进制数](https://juejin.cn/post/7150311319114088455) | Mon Oct 03 2022 3:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 题目 给定一个整数，编写一个算法将这个数转换为十六进制数。对于负整数，我们通常使用 补码运算 方法。 注 
+    </details> 
+
+- 🕯 [sqlc 加 golang-migrate 使用记录](https://juejin.cn/post/7150310189629964324) | Mon Oct 03 2022 3:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    sqlc 这个库的核心思想就是把 sql 代码转为 Go 代码。 因此我使用这个库的流程大概为： 写好要用的 sql 代码 运行 sqlc generate 使用自动生成的增删改成函数。 这里面我遇到 
+    </details> 
+
+- 🚀 [算法入门之队列](https://juejin.cn/post/7150303804305440776) | Mon Oct 03 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 算法入门之队列 前言 队列和栈及其类似，队列在现实生活中的例子就是隧道，单通道一条线，先进去的先出来，后 
     </details> 
 
-- 🎡 [Objective-C调试技巧——iOS开发者的Debug指南](https://juejin.cn/post/7150299501289275399) | Mon Oct 03 2022 2:54 PM 
+- 💪 [Objective-C调试技巧——iOS开发者的Debug指南](https://juejin.cn/post/7150299501289275399) | Mon Oct 03 2022 2:54 PM 
     <details><summary>展开描述 ...</summary> 
     开发者们在使用Objective-C开发过程中难免会遇到各种类型的bug或难题，而熟练使用IDE工具进行调试无疑会提高开发效率，这里我总结了常用的调试技巧，种类丰富，希望对读者有所帮助。 
-    </details> 
-
-- 🕯 [不允许还有Java程序员不了解BlockingQueue阻塞队列的实现原理](https://juejin.cn/post/7150297762783838222) | Mon Oct 03 2022 2:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    我们平时开发中好像很少使用到BlockingQueue（阻塞队列），比如我们想要存储一组数据的时候会使用ArrayList，想要存储键值对数据会使用HashMap，在什么场景下需要用到Blocking 
-    </details> 
-
-- 🚀 [面试官：你能用异步模拟红绿灯？](https://juejin.cn/post/7150297319995342855) | Mon Oct 03 2022 2:45 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 引言 异步的问题是程序员绕不开的话题，无论在实际开发上还是在面试中，我们总会遇到各种蛋疼的问题，但是细细 
-    </details> 
-
-- 💪 [六六力扣刷题哈希表之有效的字母异位词](https://juejin.cn/post/7150294939916566564) | Mon Oct 03 2022 2:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两天晒网，刷几天，然 
     </details> 
 <!-- juejin:END -->
 ### 少数派
