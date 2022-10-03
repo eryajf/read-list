@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [彭博社：索尼或将为PS VR2备货200万台迎接首发](https://hot.cnbeta.com/articles/game/1323411.htm) | Mon Oct 03 2022 8:42 AM 
+- 🕯 [2022年诺贝尔生理学或医学奖揭晓 瑞典科学家Svante Pääbo获奖](https://www.cnbeta.com/articles/tech/1323415.htm) | Mon Oct 03 2022 10:20 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;北京时间10月3日，“2022年诺贝尔生理学或医学奖”获奖名单揭晓，瑞典科学家斯万特·帕博（Svante Pääbo）获得奖项，以表彰他对已灭绝人种的基因组和人类进化的发现。他将获得1000万瑞典克朗奖金（约合642万元人民币）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [另一组Pixel 7和7 Pro渲染图与手册出现 参数描述与传闻并不一致](https://www.cnbeta.com/articles/tech/1323413.htm) | Mon Oct 03 2022 10:18 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;距离Google的Pixel 7发布会还有三天时间，让我们来欣赏一下Pixel 7、Pixel 7 Pro的高清晰媒体渲染图，以及直接从这两款手机和Pixel Watch的说明书中提取的素材，由于这份说明书编写时间较早，部分配置与最新的传闻已经不一致：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [彭博社：索尼或将为PS VR2备货200万台迎接首发](https://hot.cnbeta.com/articles/game/1323411.htm) | Mon Oct 03 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据彭博社报道，索尼计划在明年 3 月之前生产出 200 万台 PS VR2 头显，欲为这代产品打造一次盛大的首发。彭博社的匿名消息源透露，大规模生产从 9 月就开始了，暂时还没有面临供应链方面的限制。不过在明年初开卖后，生产规模可能会根据销售情况有所调整。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [稀有钻石显示地幔或含有大量水](https://www.cnbeta.com/articles/science/1323409.htm) | Mon Oct 03 2022 8:41 AM 
+- 🚀 [稀有钻石显示地幔或含有大量水](https://www.cnbeta.com/articles/science/1323409.htm) | Mon Oct 03 2022 8:41 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据《科学美国人》月刊网站9月26日报道，来自博茨瓦纳的一颗宝石级钻石上有一处美丽的蓝色瑕疵，这实际上是来自地球内部深处的一块微小碎片——它表明，地幔中含有大量的水。这处瑕疵的术语是包体，看起来像鱼眼——中心呈深蓝色，被“白雾”包围。但它实际上是来自地下660公里处——位于上、下地幔的边界——的一小块尖晶橄榄石。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323409.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [任天堂影视子公司官网公布  “Nintendo Pictures”](https://hot.cnbeta.com/articles/movie/1323407.htm) | Mon Oct 03 2022 8:40 AM 
+- 🎊 [任天堂影视子公司官网公布  “Nintendo Pictures”](https://hot.cnbeta.com/articles/movie/1323407.htm) | Mon Oct 03 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日（10月3日），任天堂全资影视子公司“Nintendo Pictures”官网公布，任天堂于7月14日全资收购了日本影音制作公司Dynamo Pictures，并将其更名为“Nintendo Pictures”，感兴趣的玩家可以&lt;a href=&quot;https://nintendo-pictures.co.jp/?continueFlag=61332c578895405dc4240449759a60ac&quot; target=&quot;_blank&quot;&gt;点击此处&lt;/a&gt;进入官方页面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [iPS血小板输血安全性得到确认](https://www.cnbeta.com/articles/science/1323405.htm) | Mon Oct 03 2022 8:40 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据日本《产经新闻》10月1日报道，日本京都大学研究团队9月30日宣布，利用再生障碍性贫血患者血液制造诱导性多能干细胞（iPS细胞）并将其转化为血小板输入患者体内的临床研究得到了安全性确认。&lt;/strong&gt;患者输血后，研究人员经过一年时间的观察，没有发现导致特殊问题的副作用。这是向着临床应用迈出的一大步，今后将进一步确认该疗法的有效性，力争降低成本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Google相册、主页和安全应用程序将进入Wear OS 证实了此前泄漏的信息](https://www.cnbeta.com/articles/tech/1323403.htm) | Mon Oct 03 2022 8:37 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google很有可能在即将于10月6日举行的Pixel 7系列活动中公布其Pixel Watch。而且，我们已经有了一些将在Wear OS上运行的应用程序的线索，Wear OS是Google为智能手表和其他可穿戴设备设计的Android操作系统。Google相册、Google Home和个人安全应用等应用大概会在下周与Pixel Watch一起推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
