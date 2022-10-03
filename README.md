@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [说一说spring boot优雅集成redisson](https://juejin.cn/post/7150227622071369741) | Mon Oct 03 2022 10:16 AM 
+- 🤗 [动态规划之杨辉三角](https://juejin.cn/post/7150240310168125470) | Mon Oct 03 2022 11:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    杨辉三角，是二项式系数在三角形中的一种几何排列，中国南宋数学家杨辉1261年所著的《详解九章算法》一书中出现。 
+    </details> 
+
+- 🎡 [Google 云架构之 DevOps 持续集成](https://juejin.cn/post/7150229404349071396) | Mon Oct 03 2022 10:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    软件系统非常复杂，对一个文件进行明显简单、独立的更改可能会对整个系统造成意外的影响。 当大量开发者处理相关系统时，协调代码更新是个难题，而且不同开发者所做的更改可能并不兼容。 持续集成 &lpar;CI&rpar; 这一 
+    </details> 
+
+- 🕯 [说一说spring boot优雅集成redisson](https://juejin.cn/post/7150227622071369741) | Mon Oct 03 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 拔剑起蒿莱👥👥👥👥 今天简单说一下集成及注意事项。 redisson支持redis单机、集群、哨兵 
     </details> 
 
-- 🎡 [一文快速上手高性能网络框架netty](https://juejin.cn/post/7150198854237814792) | Mon Oct 03 2022 8:25 AM 
+- 🚀 [js进阶手写常见函数](https://juejin.cn/post/7150219170905325599) | Mon Oct 03 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-    netty是一款异步的事件驱动的网络程序框架，支持快速地开发可维护的高性能的面向协议的服务器和客户端。本文对netty的工作流程与主要组件作介绍。 
+    JavaScript进阶的必要性 无论是学习react还是vue，它们都是js的应用框架。剥去他们的壳子看到的始终是js，所以作为一个前端大厨必须要熟练掌握好js这个大勺，才能烧出一顿好菜 无论是自我 
     </details> 
 
-- 🕯 [业务需求分析中的三板斧-详细分析](https://juejin.cn/post/7150197692331720711) | Mon Oct 03 2022 8:21 AM 
+- 💪 [Node.js实现大文件断点续传](https://juejin.cn/post/7150211869863575560) | Mon Oct 03 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 在对业务价值、业务用例和流程进行分析之后，接下来就要对业务进行详细分析。我们知道，程序本身就是一个状态机。那现在我们用程序来描述一个需求，也就是要用一个状态机来描述需求， 
-    </details> 
-
-- 🚀 [【python小游戏】用python写一款小游戏--贪吃蛇](https://juejin.cn/post/7150193444445487135) | Mon Oct 03 2022 8:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    ​ 今天，突发奇想的想用python写一款小游戏--贪吃蛇。相信大家都玩过，那么玩一款自己写的是一种什么样的体验呢。 ​ 我们首先导入相关模块 那么这三个模块有什么意思呢。 
-    </details> 
-
-- 💪 [Vue响应式依赖收集原理分析-vue高级必备](https://juejin.cn/post/7150187591101317151) | Mon Oct 03 2022 7:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    背景 在 Vue 的初始化阶段，_init 方法执行的时候，会执行 initState&lpar;vm&rpar; ，它的定义在 src/core/instance/state.js 中。在初始化 data 和 prop 
+    前言 平常业务需求：上传图片、Excel等，毕竟几M的大小可以很快就上传到服务器。 针对于上传视频等大文件几百M或者几G的大小，就需要等待比较长的时间。 这就产生了对应的解决方法，对于大文件上传时的暂 
     </details> 
 <!-- juejin:END -->
 ### 少数派
