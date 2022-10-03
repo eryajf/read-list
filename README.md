@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [IDC预测：2026年全球可折叠手机出货量达4150万台](https://www.cnbeta.com/articles/tech/1323517.htm) | Mon Oct 03 2022 10:13 PM 
+- 🕯 [摩根士丹利分析师：App Store九月总营收预估下降5%](https://www.cnbeta.com/articles/tech/1323529.htm) | Mon Oct 03 2022 11:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;a href=&quot;https://www.idc.com/getdoc.jsp?containerId=prUS49735722&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;市场分析公司 IDC &lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;预测可折叠手机出货量在 2026 年将会达到 4150 万台。&lt;/strong&gt;IDC 表示伴随着成本的降低和可供用户挑选的型号增多，可折叠设备开始取代传统的手机和平板电脑。 IDC 预计 2022 年至 2026 年间，可折叠设备的出货量复合年增长率将达到 38.7%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;摩根士丹利分析师埃里克·伍德林（Erik Woodring）本周一表示，苹果 App Store 在今年 9 月的总营收预估下降 5%。&lt;/strong&gt;他表示这一结论是基于 Sensor Tower 的数据得出的，后者是一家跟踪应用下载和销售的公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [古尔曼：AirPods Max和初代AirPods Pro不会获得自适应通透模式](https://www.cnbeta.com/articles/tech/1323515.htm) | Mon Oct 03 2022 10:05 PM 
+- 💼 [SideQuest完成1200万美元A轮融资 由Google领投](https://www.cnbeta.com/articles/tech/1323527.htm) | Mon Oct 03 2022 11:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;彭博社马克·古尔曼（Mark Gurman）表示，初代 AirPods Pro 和 AirPods Max 并不会获得 AirPods Pro 2 的自适应通透（Adaptive Transparency）模式。该设置出现在 iOS 16.1 Beta 3 中只是一个 BUG。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;SideQuest 近日完成了 1200 万美元的 A 轮融资，由 Google 旗下的风投部门 GV 领投&lt;/strong&gt;。SideQuest 主要为 Meta 的 Quest VR 头显创建可替代的应用商城，这允许开发人员发布和销售最初可能不符合 Meta 严格的商店审批流程的实验性游戏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[图]FCC认证文件显示2021款Siri遥控器原本有指托区域](https://www.cnbeta.com/articles/tech/1323513.htm) | Mon Oct 03 2022 9:55 PM 
+- 💂 [[图]iOS端Gmail和Google News更新：支持Widget](https://www.cnbeta.com/articles/tech/1323525.htm) | Mon Oct 03 2022 11:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据国外媒体近日深挖苹果提交给 FCC 的认证文件，发现随第二代 Apple TV 推出的苹果 2021 年款 Siri Remote 原本采用不同的设计。&lt;strong&gt;在认证文件展示的多张图片中，遥控器后部有一个浅凹的椭圆形指托区域，可能是用来提高抓握感。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google 是首批支持 iOS 16 Widget 的公司之一，今天 Gmail 和 Google News 两款应用也加入支持行列。苹果用户现在可以访问 App Store，下载或者更新这两款应用程序，从而获得全新的 Widget 体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [我国科学家揭示蚁群组成“超有机体”的分子机制](https://www.cnbeta.com/articles/science/1323511.htm) | Mon Oct 03 2022 5:21 PM 
+- 🚀 [《地铁：逃离》动画师Andrii Korzinkin在俄乌冲突中受伤去世](https://hot.cnbeta.com/articles/game/1323523.htm) | Mon Oct 03 2022 10:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，我国科学家领衔的中外联合研究团队揭示了蚂蚁群体和多细胞生物在发育和演化上的相似之处，为将蚁群视为超有机体的理论找到了证据支持。10月3日，该研究成果正式在国际学术期刊《自然-生态与演化》上线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;《地铁：逃离》（Metro Exodus）动画师安德烈·科尔津金（Andrii Korzinkin）因在保卫祖国乌克兰的战斗任务中受伤而去世&lt;/strong&gt;。就像许多其他乌克兰游戏开发商一样，Korzinkin 决定自愿参军以对抗俄罗斯。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [几乎1/4的Steam游戏用户已经更新至Windows 11](https://www.cnbeta.com/articles/tech/1323509.htm) | Mon Oct 03 2022 4:11 PM 
+- 🎊 [苹果再次上诉要求取消高通5G/WiFi专利 美最高法依然拒绝](https://www.cnbeta.com/articles/tech/1323521.htm) | Mon Oct 03 2022 10:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来自Valve的最新数据揭示了关于游戏玩家用来访问平台的电脑的新细节。2022年9月的Steam硬件和软件调查显示，&lt;strong&gt;Windows 11市场份额持续稳定地攀升，现在几乎每四个Steam用户中就有一个运行微软的最新操作系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国最高法院认为苹果可能会面临高通公司提起的后续诉讼可能，因此拒绝审理苹果公司取消高通 5G 和无线技术专利的申请。&lt;/strong&gt;苹果于 2022 年 6 月也做出类似尝试，但法官维持了下级法院对苹果的判决。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
