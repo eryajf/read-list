@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [趁着换季，给衣柜来一次断舍离](https://sspai.com/post/75973) | Sun Oct 02 2022 7:00 AM 
+- 👹 [译文 | 一年一会：听职业摄影师 Austin Mann 聊 iPhone 14 Pro 影像系统](https://sspai.com/post/76025) | Mon Oct 03 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    高分辨率成像能力、运动模式防抖功能、支持 4K 24 帧的电影效果模式， 对于创意十足的专业人士来说，iPhone 14 Pro 已然成为了一个强大的摄录工具。&lt;a href=&quot;https://sspai.com/post/76025&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [趁着换季，给衣柜来一次断舍离](https://sspai.com/post/75973) | Sun Oct 02 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     我视换季为重新调整衣橱秩序的好机会。我非常享受收拾整理家的过程。对我来说，这个过程中最有意思的部分就是从现在的状态回溯至过去，思考整个系统如何变成了现在的状态；然后吸取过去的经验，试想怎样的排序方式才能满足未来八个月里我的需求，一个和未来的自己对抗的游戏。&lt;a href=&quot;https://sspai.com/post/75973&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [6 个视频，3 万粉丝，少数派作者是怎么运营 B 站的？](https://sspai.com/post/75780) | Sun Oct 02 2022 3:28 AM 
+- 🤭 [6 个视频，3 万粉丝，少数派作者是怎么运营 B 站的？](https://sspai.com/post/75780) | Sun Oct 02 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75780&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [一日一技｜Obsidian Command 进阶用法三则](https://sspai.com/post/75847) | Sat Oct 01 2022 7:00 AM 
+- 🥸 [一日一技｜Obsidian Command 进阶用法三则](https://sspai.com/post/75847) | Sat Oct 01 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     Obsidian 内建了一个命令面板（Command Palette），用于快速搜索并执行命令。尽管 Obsidian 一直在更新，也已经增加了许多呼声颇高的内容，但还是没有往命令面板上做文章。那么本文将介绍三款优秀的社区插件，让 Obsidian 的命令更为好用。&lt;a href=&quot;https://sspai.com/post/75847&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [城市漫步指南 | 为我踟蹰停酒盏，与君约略说杭州](https://sspai.com/post/75929) | Sat Oct 01 2022 3:00 AM 
+- 🙉 [城市漫步指南 | 为我踟蹰停酒盏，与君约略说杭州](https://sspai.com/post/75929) | Sat Oct 01 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     作为一个没怎么见过黄叶的广东人，希望下次和你在漫天黄叶的季节里相遇。&lt;a href=&quot;https://sspai.com/post/75929&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/76013) | Fri Sep 30 2022 10:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[国产]三悦有了新工作、[电影]子弹列车、[国产]底线、[动画]爱跃星空Entergalactic、[英剧]古宅老友记第四季、[美剧]怪物：杰夫瑞·达莫故事、[动画]永久少 ...&lt;a href=&quot;https://sspai.com/post/76013&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
