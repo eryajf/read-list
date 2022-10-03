@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [作为大龄程序员，你如何持续的保持自己的竞争优势](https://www.v2ex.com/t/884436#reply2) | Sun Oct 02 2022 11:35 PM
-- 🤗 [iQDNS 2.0 - 永久公益公共加密 DNS 新特性 新解析逻辑 完美定位国内外 CDN IP 问题](https://www.v2ex.com/t/884435#reply6) | Sun Oct 02 2022 11:27 PM
-- 🎭 [今天听说一个玄学算法，写了一下，确实玄学？](https://www.v2ex.com/t/884426#reply18) | Sun Oct 02 2022 4:55 PM
-- 🥷 [免费在线音乐网站推荐（一边做事一边听音乐时比较适合，例如骑行）](https://www.v2ex.com/t/884422#reply10) | Sun Oct 02 2022 4:25 PM
-- 🐵 [游戏党慎更新 22h2](https://www.v2ex.com/t/884419#reply19) | Sun Oct 02 2022 3:24 PM<!-- v2ex:END -->
+- 🥸 [想換 NAS 系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464#reply5) | Mon Oct 03 2022 3:13 AM
+- 🤗 [前两天买 cn2 的服务器被坑了 今天发现有很多用魔方搭建的 价格特别便宜 是坑吗？](https://www.v2ex.com/t/884457#reply0) | Mon Oct 03 2022 2:53 AM
+- 🎭 [eslint 不能识别 assert 语法？](https://www.v2ex.com/t/884448#reply3) | Mon Oct 03 2022 2:01 AM
+- 🥷 [作为大龄程序员，你如何持续的保持自己的竞争优势](https://www.v2ex.com/t/884436#reply5) | Sun Oct 02 2022 11:35 PM
+- 🐵 [iQDNS 2.0 - 永久公益公共加密 DNS 新特性 新解析逻辑 完美定位国内外 CDN IP 问题](https://www.v2ex.com/t/884435#reply8) | Sun Oct 02 2022 11:27 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
