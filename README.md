@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [大摩：预计苹果App Store 9月净营收同比下降5% 创有记录以来最大降幅](https://www.cnbeta.com/articles/tech/1323503.htm) | Mon Oct 03 2022 3:04 PM 
+- 🕯 [几乎1/4的Steam游戏用户已经更新至Windows 11](https://www.cnbeta.com/articles/tech/1323509.htm) | Mon Oct 03 2022 4:11 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;来自Valve的最新数据揭示了关于游戏玩家用来访问平台的电脑的新细节。2022年9月的Steam硬件和软件调查显示，&lt;strong&gt;Windows 11市场份额持续稳定地攀升，现在几乎每四个Steam用户中就有一个运行微软的最新操作系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [App Store小型应用开发者援助基金的放款即将开始](https://www.cnbeta.com/articles/tech/1323507.htm) | Mon Oct 03 2022 4:01 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;申请参加苹果公司1亿美元的App Store集体诉讼和解案件的开发者被告知，付款应该最快在10月开始。&lt;/strong&gt;小应用程序开发者援助基金是作为苹果公司解决诉讼的一部分而设立的，该公司也对其应用程序商店的管理法则进行了修改。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [AirPods Pro 2耳塞电池容量大了15% 但充电盒却没有什么改进](https://www.cnbeta.com/articles/tech/1323505.htm) | Mon Oct 03 2022 3:57 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;监管文件显示，第二代AirPods Pro更长的电池寿命部分是通过使用物理上更大的电池实现的。官方数据显示，与第一代AirPods Pro相比，第二代型号的电池寿命增加了1.5小时，并启用了主动降噪功能，总时长为6小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [大摩：预计苹果App Store 9月净营收同比下降5% 创有记录以来最大降幅](https://www.cnbeta.com/articles/tech/1323503.htm) | Mon Oct 03 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;摩根士丹利援引相关统计数据表示，预计苹果（AAPL.US）App Store 9月份净营收同比下降5%，这将是该公司“有记录以来最严重的下滑”。摩根士丹利援引Sensor Tower的第三方数据指出，苹果的App Store 在中国市场持续疲软，并且，在日本和美国市场的增长也有所放缓。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉股价跌7.3% Q3全球交付量不及预期](https://www.cnbeta.com/articles/tech/1323501.htm) | Mon Oct 03 2022 3:02 PM 
+- 🎊 [特斯拉股价跌7.3% Q3全球交付量不及预期](https://www.cnbeta.com/articles/tech/1323501.htm) | Mon Oct 03 2022 3:02 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;特斯拉第三季度向客户交付了343830辆汽车，低于分析师预期的358000辆。该公司称，Q3交付量不及预期的原因是物流问题，导致第三季度末在运输中的车辆增加。其股价盘前一度下跌6.5%，截至发稿，该股下跌4.74%，报252.69美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Wisk Aero公司展示四座自动驾驶空中出租车](https://www.cnbeta.com/articles/tech/1323499.htm) | Mon Oct 03 2022 3:01 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;空中出租车初创公司Wisk Aero发布了其第六代飞机，这是一种全电动四座飞机，可以在没有人类飞行员的情况下飞行。&lt;/strong&gt;这家由波音支持的公司表示，它将向联邦航空管理局申请批准商业空中出租车服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [时隔6年，诺贝尔首奖再现“单人获奖者”](https://www.cnbeta.com/articles/science/1323497.htm) | Mon Oct 03 2022 3:00 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;span style=&quot;&quot;&gt;2022年诺贝尔生理学或医学奖，属于瑞典著名生物学家、进化遗传学权威斯万特·帕博（Svante Pääbo）。&lt;/span&gt;这也是自2016年以来，该奖项的颁奖页面上，首次只挂上一个人的头像。自打6年前，日本人大隅良典因“在细胞自噬机制方面的发现”获奖之后，诺贝尔生理学或医学奖再没授予过单个人，从来都是两三位科学家共同上台领奖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [苹果公司准备在iOS 16.0.3系统中修复更多已发现的Bug](https://www.cnbeta.com/articles/tech/1323495.htm) | Mon Oct 03 2022 2:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iOS 16.0.2在上个月发布，对iPhone 14的问题、过多的复制和粘贴权限提示等进行了一些错误修复。现在，有证据表明，苹果正计划发布iOS 16.0.3，并进行更多的错误修复。即将发布的iOS 16.0.3软件更新的证据已经出现在苹果爱好者网站的分析日志中，这在过去是一个可靠的指标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
