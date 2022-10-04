@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [摩根士丹利分析师：App Store九月总营收预估下降5%](https://www.cnbeta.com/articles/tech/1323529.htm) | Mon Oct 03 2022 11:23 PM 
+- 🕯 [央视探访呼伦贝尔号旅游专列：淋浴酒吧K歌一应俱全 绿皮车也能如此豪华](https://www.cnbeta.com/articles/tech/1323593.htm) | Tue Oct 04 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;摩根士丹利分析师埃里克·伍德林（Erik Woodring）本周一表示，苹果 App Store 在今年 9 月的总营收预估下降 5%。&lt;/strong&gt;他表示这一结论是基于 Sensor Tower 的数据得出的，后者是一家跟踪应用下载和销售的公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在“绿皮车”上睡双人床是什么体验？在当下的旅游列车上，不仅有完善的休闲娱乐设施，还有体贴的管家全程提供服务。据央视网报道，在呼伦贝尔号旅游专列上，游客可沉浸式体验“极北之旅”，&lt;strong&gt;这列火车上有11节车厢，并有22位管家全程提供服务，44位游客拥有8到12平米的私人包间。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [SideQuest完成1200万美元A轮融资 由Google领投](https://www.cnbeta.com/articles/tech/1323527.htm) | Mon Oct 03 2022 11:16 PM 
+- 💼 [Intel基辛格：科技CEO还是要懂技术的 只看Excel可不行](https://www.cnbeta.com/articles/tech/1323591.htm) | Tue Oct 04 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;SideQuest 近日完成了 1200 万美元的 A 轮融资，由 Google 旗下的风投部门 GV 领投&lt;/strong&gt;。SideQuest 主要为 Meta 的 Quest VR 头显创建可替代的应用商城，这允许开发人员发布和销售最初可能不符合 Meta 严格的商店审批流程的实验性游戏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为驰骋半导体行业50多年的龙头公司，Intel最近几年的日子有点烦心，x86市场遭遇AMD的挑战，之前的14nm工艺也被吐槽，直到2021年2月份换了CEO，上任CEO是CFO财务出身的，接任的CEO帕特·基辛格则是Intel 30多年的技术老将。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[图]iOS端Gmail和Google News更新：支持Widget](https://www.cnbeta.com/articles/tech/1323525.htm) | Mon Oct 03 2022 11:01 PM 
+- 💂 [华为Mate 50 Pro喜迎新功能 支持戴口罩人脸识别](https://www.cnbeta.com/articles/tech/1323589.htm) | Tue Oct 04 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google 是首批支持 iOS 16 Widget 的公司之一，今天 Gmail 和 Google News 两款应用也加入支持行列。苹果用户现在可以访问 App Store，下载或者更新这两款应用程序，从而获得全新的 Widget 体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如今，出门戴口罩已经成为常态，很多小伙伴都在期待手机支持支持戴口罩识别。近日，数码博主@曦夕Katarina 透露称，&lt;strong&gt;华为Mate50 Pro的全新鸿蒙HarmonyOS 3.0.0.150版本，有望支持戴口罩识别。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《地铁：逃离》动画师Andrii Korzinkin在俄乌冲突中受伤去世](https://hot.cnbeta.com/articles/game/1323523.htm) | Mon Oct 03 2022 10:51 PM 
+- 🚀 [PC业寒气逼人 供应商确认DDR5内存普及延期一年](https://www.cnbeta.com/articles/tech/1323587.htm) | Tue Oct 04 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;《地铁：逃离》（Metro Exodus）动画师安德烈·科尔津金（Andrii Korzinkin）因在保卫祖国乌克兰的战斗任务中受伤而去世&lt;/strong&gt;。就像许多其他乌克兰游戏开发商一样，Korzinkin 决定自愿参军以对抗俄罗斯。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着AMD锐龙7000及Intel 13代酷睿的发布，这两家对DDR5内存的支持已经到位，大家都期望DDR5内存能够快速普及，然而现在的形势已经变了，PC市场需求下滑，厂商现在想得都是如何过冬，DDR5普及之路要延期一年之久。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果再次上诉要求取消高通5G/WiFi专利 美最高法依然拒绝](https://www.cnbeta.com/articles/tech/1323521.htm) | Mon Oct 03 2022 10:35 PM 
+- 🎊 [上海徐家汇建站150年来录得首次10月气温35℃+ 刷新纪录](https://www.cnbeta.com/articles/tech/1323585.htm) | Tue Oct 04 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国最高法院认为苹果可能会面临高通公司提起的后续诉讼可能，因此拒绝审理苹果公司取消高通 5G 和无线技术专利的申请。&lt;/strong&gt;苹果于 2022 年 6 月也做出类似尝试，但法官维持了下级法院对苹果的判决。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一不小心又见证了历史！据上海市气象局官微消息，10月3日午后，徐家汇站气温再度突破高温线，成为今年第50个高温日，13时20分气温已达35.7℃。&lt;strong&gt;徐家汇站建站150年来从来没有在10月出现过35℃以上高温天气，这是第一次！这也会成为历史10月最高气温纪录！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
