@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [C# TreeView](https://juejin.cn/post/7150661423914450957) | Tue Oct 04 2022 2:18 PM 
+- 🤗 [面向对象究竟是什么鬼？该如何理解？](https://juejin.cn/post/7150673107290685477) | Tue Oct 04 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 前言： TreeView使用集合Nodes包含分配给TreeView控件的所有TreeNode对象。 此 
+    基本所有的高级语言都支持面向对象编程（Object Oriented Programming, OOP），理解 OOP 的概念是程序员的基本要求；然而很多书籍对 OOP 的讲解都是照本宣科，把一个简单 
     </details> 
 
-- 🎡 [04 - react中的state（组件核心属性）](https://juejin.cn/post/7150659176035778568) | Tue Oct 04 2022 2:11 PM 
+- 🎡 [JavaScript 循环语句](https://juejin.cn/post/7150669686751887397) | Tue Oct 04 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 state 本有状态之意，在react中需管理数据状态，此时state就诞生了。state可以存储数据供 
+    循环语句之for 循环语句用于重复执行某个操作，它有多种形式。 for语句是循环命令的另一种形式，可以指定循环的起点、终点和终止条件。它的格式如下。 for语句后面的括号里面，有三个表达式。 下面是一 
     </details> 
 
-- 🕯 [动态规划之最长递增子序列](https://juejin.cn/post/7150654466268594207) | Tue Oct 04 2022 1:52 PM 
+- 🕯 [推荐12个值得学习的TypeScript宝库！](https://juejin.cn/post/7150668738990178312) | Tue Oct 04 2022 2:47 PM 
     <details><summary>展开描述 ...</summary> 
-    给你一个整数数组nums ，找到其中最长严格递增子序列的长度。子序列是由数组派生而来的序列，删除（或不删除）数组中的元素而不改变其余元素的顺序。 
+    TypeScript是微软开发的一个开源的编程语言，通过在JavaScript的基础上添加静态类型定义构建而成。TypeScript通过TypeScript编译器或Babel转译为JavaScript 
     </details> 
 
-- 🚀 [解析 Golang 读取 json 神器 —— gjson](https://juejin.cn/post/7150651352057249822) | Tue Oct 04 2022 1:39 PM 
+- 🚀 [Spring事务原理一（如何织入AOP）](https://juejin.cn/post/7150668741972328479) | Tue Oct 04 2022 2:47 PM 
     <details><summary>展开描述 ...</summary> 
-    json 的反序列化是线上服务中非常耗 cpu 的操作，很多时候我们只需要读取 json 中的某个属性值。这个时候对整个 json 进行反序列化显然成本过高，有没有什么办法能简化操作，不需要预先定义。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 直入主题 我们想要了解spring的事务原理，首先从注解EnableTransactionManagem 
     </details> 
 
-- 💪 [记录学习：vue-动态组件](https://juejin.cn/post/7150639745909915678) | Tue Oct 04 2022 12:54 PM 
+- 💪 [LeetCode合并二叉树使用JavaScript解题|前端学算法](https://juejin.cn/post/7150666042837041183) | Tue Oct 04 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
-    动态组件 看个例子 一般来讲，我们会这样实现一个tabs的切换 而动态组件形式则可以写成is的形式，这样可以让不熟悉的人看不懂代码。从而提高自己的核心竞争力。 
+    前端使用JavaScript解决LeetCode合并二叉树的算法题，前端学算法，每天三分钟了解一个知识点 
     </details> 
 <!-- juejin:END -->
 ### 少数派
