@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Redis】redis安装与客户端redis-cli的使用&lpar;批量操作&rpar;](https://juejin.cn/post/7150506254434058277) | Tue Oct 04 2022 4:17 AM 
+- 🤗 [stylus修改主题 以及系统目录更改](https://juejin.cn/post/7150525997572587533) | Tue Oct 04 2022 5:34 AM 
     <details><summary>展开描述 ...</summary> 
-    在Centos中安装Redis 安装步骤 先创建一个文件夹用于存放redis mkdir /data/redis &amp; cd /data/redis 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 stylus 修改主题 安装stylus 当安装完成后 使用时可能会出现版本冲突 使用命令降低版本号即可 
     </details> 
 
-- 🎡 [【Redis】位图以及位图的使用场景&lpar;统计在线人数和用户在线状态&rpar;](https://juejin.cn/post/7150505736907259917) | Tue Oct 04 2022 4:15 AM 
+- 🎡 [Swiper 实现 两行四列 轮播图](https://juejin.cn/post/7150525637025857544) | Tue Oct 04 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
-    位图 位图的最大优点之一是，它们在存储信息时通常可以节省大量空间 位图不是一个真实的数据类型，而是定义在 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 案例效果 基本样式 所需文件 循环遍历 
     </details> 
 
-- 🕯 [Zustand：更强大的 React 状态管理库](https://juejin.cn/post/7150504990505697310) | Tue Oct 04 2022 4:11 AM 
+- 🕯 [【Redis】四大特殊的数据类型之 HyperLogLog](https://juejin.cn/post/7150518115846553637) | Tue Oct 04 2022 5:04 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 介绍 在这篇文章中，我会介绍 Zustand 在实际项目中的使用。 我会构建一个 GitHub 用户搜索 
+    我们都知道 Redis 提供了丰富的数据类型，特殊的有四种：BitMap，HLL，GEO，Stream。今天我们就来详细的聊聊 Redis 这四大特殊的数据类型之一 HyperLogLog； 
     </details> 
 
-- 🚀 [Android Jetpack Compose快速上手](https://juejin.cn/post/7150495589707284487) | Tue Oct 04 2022 3:35 AM 
+- 🚀 [Docker常用镜像命令之——CMD、ENTRYPOINT以及VOLUME命令](https://juejin.cn/post/7150517549422084109) | Tue Oct 04 2022 5:01 AM 
     <details><summary>展开描述 ...</summary> 
-    一、Jetpack Compose简介 Jetpack Compose是Google推出的一个用于构建原生Android 界面的工具包，旨在帮助开发者更快、更轻松地在Android 平台上构建原生客户 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，本篇文章我们继续了解Docker常用的镜像命令，CMD、ENTRYPOINT以及VOLUME命令 
     </details> 
 
-- 💪 [Visual Studio Code Active File in StatusBar 扩展以及 Extension API 概述](https://juejin.cn/post/7150493335428268039) | Tue Oct 04 2022 3:29 AM 
+- 💪 [谷歌翻译结束了中国大陆业务；投资炼金术！用户投资交易辅助系统；矢量搜索应用指南与最佳实践；可调整参数的AI绘图插件；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7150514470975078414) | Tue Oct 04 2022 4:50 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 这个扩展可以在 Visual Studio Code 的状态栏上实时显示当前选中文件在文件系统中的绝对路 
+    投资炼金术用户投资交易辅助系统、为机器学习与复杂数据设计的快速可扩展数据库、视频恢复工具包、基于GPT-3的自然语言查询工具、txt2img2img 绘图插件、前沿论文… 
     </details> 
 <!-- juejin:END -->
 ### 少数派
