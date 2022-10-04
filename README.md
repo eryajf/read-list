@@ -365,7 +365,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [redis 事务，当 multi 发送给服务器之后，服务器能在 multi 和 exec 之间这段时间内执行来自别的客户端的命令吗？](https://www.v2ex.com/t/884672#reply2) | Tue Oct 04 2022 4:55 PM
-- 🤗 [安卓 8.0 开了免打扰之后，明明已经给 QQ 开了白名单，也允许响铃，但是 QQ 就是没有默认的“叮咚”提示音](https://www.v2ex.com/t/884670#reply0) | Tue Oct 04 2022 4:18 PM
+- 🤗 [安卓 8.0 开了免打扰之后，明明已经给 QQ 开了白名单，也允许响铃，但是 QQ 就是没有默认的“叮咚”提示音](https://www.v2ex.com/t/884670#reply1) | Tue Oct 04 2022 4:18 PM
 - 🎭 [磁盘空间被谁给占用了](https://www.v2ex.com/t/884666#reply3) | Tue Oct 04 2022 2:53 PM
 - 🥷 [请教下： SUSE 15 SP4 用 Win 远程桌面 为什么输入用户名密码黑屏了？](https://www.v2ex.com/t/884659#reply0) | Tue Oct 04 2022 1:20 PM
 - 🐵 [《说透 Kubernetes 云原生监控》系列文章，交流收藏](https://www.v2ex.com/t/884658#reply5) | Tue Oct 04 2022 1:11 PM<!-- v2ex:END -->
