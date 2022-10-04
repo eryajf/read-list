@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [张朝阳：杨振宁比霍金更伟大 但霍金对大众的传播更好](https://www.cnbeta.com/articles/science/1323731.htm) | Tue Oct 04 2022 12:24 PM 
+- 🕯 [摩尔线程国产显卡偷跑：2GB显存 支持4K 售价800元](https://www.cnbeta.com/articles/tech/1323741.htm) | Tue Oct 04 2022 1:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;霍金是教科书中经常出现的物理学家，这或许跟他本人励志的经历有关。有很多人好奇，究竟是霍金更伟大，还是成就非凡的杨振宁伟大？这个问题在网上引起了很多讨论。在前不久的举行的“科学大家杨振宁百岁华诞”活动中，搜狐CEO张朝阳谈到这个问题时表示，“这不算一个问题，（霍金与杨振宁）不是一个level”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近几年，国产GPU显卡也遍地开花，除了AI加速、HPC计算等高性能领域，还有不少厂商开始做桌面级显卡，大家期待它们直接在游戏上挑战AMD、NVIDIA是不现实的，但在入门级的办公及生产力市场，国产GPU仍可一战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家研发AI激光炮塔击杀蟑螂 项目已开源](https://www.cnbeta.com/articles/tech/1323729.htm) | Tue Oct 04 2022 12:23 PM 
+- 💼 [IBM对红帽存储业务进行&quot;准收购&quot; 旗下人员和知产全面融合](https://www.cnbeta.com/articles/tech/1323739.htm) | Tue Oct 04 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;广东的同学应该都体验过蟑螂的折磨。没到过南方的同学可能不太理解：&lt;strong&gt;“区区一个蟑螂，那不是一拖鞋的事”&lt;/strong&gt;？不，北方人眼中的蟑螂和北方人看到的南方蟑螂是不一样的。据说，蟑螂还有特别强的进化能力，蟑螂药只能管几代，只要用几次，蟑螂就能产生抗药性，生物消灭感觉有点难。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;早在2019年，IBM就完成了对红帽的收购，而今天两家公司传出的最新消息是IBM后续对红帽存储团队的&amp;quot;准收购&amp;quot;，这意味着红帽的存储业务团队被转移到IBM存储团队，除了人员被转移之外，相关产品及知识产权同样将被转移到IBM存储。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [LG在达拉斯首次展示136英寸4K microLED豪华电视机](https://www.cnbeta.com/articles/tech/1323727.htm) | Tue Oct 04 2022 12:21 PM 
+- 💂 [小米12T/12T Pro正式发布 旗舰机型配备2亿像素摄像头和SD 8+ Gen 1](https://www.cnbeta.com/articles/tech/1323737.htm) | Tue Oct 04 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;LG最近在达拉斯举行的CEDIA 2022家庭技术博览会上首次公开展示了其MAGNIT 4K 136英寸豪华电视，它结合了AI增强处理、智能电视平台和Micro LED技术，承诺提供&amp;quot;家庭影院、数字艺术和娱乐体验&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;小米在提供了一款具有令人印象深刻的1英寸传感器的手机后，现在正进入2亿像素时代。这款手机的成像传感器并不很大，但表现仍然相当令人印象深刻。像往常一样，T系列是独立设计，而不是小米12系列的继任者或升级版。这些产品与12S机型也没有什么关系，所以让我们用新的眼光来看待它们。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [富士康对iPhone 14带动的收入依然持&quot;谨慎乐观&quot;态度](https://www.cnbeta.com/articles/tech/1323725.htm) | Tue Oct 04 2022 12:11 PM 
+- 🚀 [闲鱼：部分卖家10月8日起须支持7天无理由退货](https://www.cnbeta.com/articles/tech/1323735.htm) | Tue Oct 04 2022 12:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;富士康在9月份创造了新的销售纪录，使苹果的主要装配伙伴在第四季度业绩前&amp;quot;谨慎乐观&amp;quot;。&lt;/strong&gt;在9月14日推出iPhone之后，苹果的供应链成员预计将受到智能手机系列季节性高销量的提振。尽管在全球经济不景气的背景下，主要组装公司富士康似乎要感受到这种影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;闲鱼并不全是个人间的交易，还有商家在上面卖货。对于这部分商家，闲鱼也要求支持7天无理由退货了。&lt;strong&gt;近日，闲鱼发布了关于新增《闲鱼社区七天无理由退货规范》的公示通知&lt;/strong&gt;，通知显示，此规则于2022年9月30日至2022年10月7日进行公示通知，于2022年10月8日生效。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [强大的X1级太阳耀斑已经从太阳喷发出来](https://www.cnbeta.com/articles/science/1323723.htm) | Tue Oct 04 2022 12:01 PM 
+- 🎊 [Redmi首款平板发布：2K 90Hz高刷屏 横扫千元市场](https://www.cnbeta.com/articles/tech/1323733.htm) | Tue Oct 04 2022 12:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;太阳发出了强烈的太阳耀斑，整个活动周期在2022年10月2日美国东部时间下午4点25分（太平洋时间下午1点25分）达到顶峰。美国宇航局的太阳动力学观测站不断观察太阳，捕捉到了该事件的图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月4日消息，&lt;strong&gt;Redmi的首款平板电脑Redmi Pad已在印度推出，采用了金属一体式设计，正面配有10.61寸大屏，售价14999 印度卢比（约1300元人民币）起。&lt;/strong&gt;Redmi Pad的屏幕是该机的主要卖点，&lt;strong&gt;2K LCD屏，分辨率为2000x1200，刷新率为90Hz，400nits亮度&lt;/strong&gt;，NTSC色域为70%，内置SGS护眼，通过了TUV莱茵认证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
