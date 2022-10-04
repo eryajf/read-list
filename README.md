@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星启动五年芯片发展计划：产能扩大3倍 2027年推出1.4纳米工艺](https://www.cnbeta.com/articles/tech/1323797.htm) | Tue Oct 04 2022 10:09 PM 
+- 🕯 [澳大利亚鬃狮蜥脑图谱揭示大脑进化的秘密](https://www.cnbeta.com/articles/science/1323803.htm) | Tue Oct 04 2022 11:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;来自马克斯-普朗克研究所的多名科学家近日发表论文，通过对澳大利亚鬃狮蜥的大脑进行分析后，为脊椎动物大脑的进化提供了重要的见解。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [[图]非常规XFX Radeon RX 6700 XL 10 GB专用矿卡流出](https://www.cnbeta.com/articles/tech/1323801.htm) | Tue Oct 04 2022 10:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;受加密寒冷影响很多矿场纷纷倒闭，这也流出了大量的矿卡，而其中就有一些不太常规的显卡。&lt;/strong&gt;例如本文接下来要介绍的这款讯景（XFX）Radeon RX 6700 XL 显卡，采用可定制、三风扇模型，应该是专门为了挖矿而设计的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [[图]Pixel 7系列高清渲染图和电池等诸多细节曝光](https://www.cnbeta.com/articles/tech/1323799.htm) | Tue Oct 04 2022 10:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Pixel 7 系列正式发布虽然要等待本周四，但目前已经有关于该旗舰的诸多信息流出，包括官方预热、泄露的渲染图、营销材料、上手等等。在发布会正式开始之前，德国科技媒体 WinFuture 分享了 Pixel 7 和 Pixel 7 Pro 两款型号的更多高清渲染图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [三星启动五年芯片发展计划：产能扩大3倍 2027年推出1.4纳米工艺](https://www.cnbeta.com/articles/tech/1323797.htm) | Tue Oct 04 2022 10:09 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;三星宣布了为期五年的发展计划，计划在 2027 年提高多种高端芯片的产能。通过该发展计划，三星希望从半导体巨头台积电中夺回市场。&lt;/strong&gt;三星电子于 10 月 3 日在美国加州硅谷召开了“三星晶圆代工论坛&amp;amp;SAFE论坛”，在随后发布的新闻稿中，三星承诺到 2027 年将先进节点的产能扩大“三倍以上”。该公司还计划在 2025 年推出 2 纳米工艺，到 2027 年推出 1.4 纳米工艺。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“海基一号”投产刷新我国海上单体石油生产平台新高](https://www.cnbeta.com/articles/tech/1323795.htm) | Tue Oct 04 2022 8:31 PM 
+- 🎊 [“海基一号”投产刷新我国海上单体石油生产平台新高](https://www.cnbeta.com/articles/tech/1323795.htm) | Tue Oct 04 2022 8:31 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;深水导管架平台“海基一号”3日在南海陆丰油田作业区正式投产。平台总高度达340.5米，总重量超4万吨，高度和重量均刷新了我国海上单体石油生产平台纪录。“海基一号”位于珠江口盆地海域，由中国海洋石油集团有限公司自主设计建造。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [iOS 16.1 Beta下使用黑色壁纸或黑暗模式时 灵动岛周围会增加灰色边框](https://www.cnbeta.com/articles/tech/1323793.htm) | Tue Oct 04 2022 8:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在最新的iOS 16.1测试版中，苹果调整了iPhone 14 Pro和Pro Max上灵动岛的设计，使其在黑暗背景下更加明显。&lt;/strong&gt;当使用深色壁纸或激活黑暗模式的深色界面时，当屏幕变暗或灵动岛处于主动使用状态时，灵动岛外部会有一个浅灰色的边框。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [因为围墙花园和付费墙 互联网档案馆发现自己越来越难记录互联网](https://www.cnbeta.com/articles/tech/1323791.htm) | Tue Oct 04 2022 8:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自从互联网档案馆（Internet Archive）开始保存各种数字资料，包括软件、游戏、电影、图像，当然还有网页至今已超过26年。Wayback Machine是处理不断增加的收集和整理互联网快照任务的机制，自90年代中期以来，它已经取得了长足的进步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323791.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [首个欧洲量子计算机网络将于2023年投入使用](https://www.cnbeta.com/articles/tech/1323789.htm) | Tue Oct 04 2022 7:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;欧洲高性能计算联合企业（EuroHPC JU）10月4日宣布，将选择捷克、德国、西班牙、法国、意大利、波兰六个成员国来部署史上第一个欧洲量子计算机网络，它将整合这六个国家现有的超级计算机，形成一个量子计算网络，于2023年下半年投入使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
