@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Google 翻译退出中国后如何正常使用其 Chrome 插件](https://www.v2ex.com/t/884631#reply0) | Tue Oct 04 2022 8:26 AM
-- 🤗 [有没有什么办法能搞到推特开发者账号？](https://www.v2ex.com/t/884630#reply1) | Tue Oct 04 2022 8:14 AM
+- 🥸 [Google 翻译退出中国后如何正常使用其 Chrome 插件](https://www.v2ex.com/t/884631#reply8) | Tue Oct 04 2022 8:26 AM
+- 🤗 [有没有什么办法能搞到推特开发者账号？](https://www.v2ex.com/t/884630#reply2) | Tue Oct 04 2022 8:14 AM
 - 🎭 [有没有提供词典功能的 language server 给编辑器用？](https://www.v2ex.com/t/884617#reply2) | Tue Oct 04 2022 6:46 AM
-- 🥷 [专注于码农新闻聚合的良心应用“推酷”终于撑不住了，有任何替代品没有？](https://www.v2ex.com/t/884605#reply3) | Tue Oct 04 2022 4:44 AM
+- 🥷 [专注于码农新闻聚合的良心应用“推酷”终于撑不住了，有任何替代品没有？](https://www.v2ex.com/t/884605#reply4) | Tue Oct 04 2022 4:44 AM
 - 🐵 [有南大在校的吗？镜像站怎么了](https://www.v2ex.com/t/884600#reply10) | Tue Oct 04 2022 3:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
