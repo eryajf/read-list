@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Exponential DeFi - 跨链发现、评估和投资流动资金池](https://xinquji.com/posts/180110?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:47 AM 
+- 👀 [Padel Watch - 通过 Apple Watch 跟踪您的板球比赛](https://xinquji.com/posts/180141?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     跨链发现、评估和投资流动资金池  
+     通过 Apple Watch 跟踪您的板球比赛  
     </details> 
 
-- 🥷 [WP Block Mindmap - 从降价内容到交互式思维导图](https://xinquji.com/posts/180109?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:45 AM 
+- 🥷 [ToolPool - 一站式解决方案，为您的工作提供所有工具](https://xinquji.com/posts/180140?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     从降价内容到交互式思维导图  
+     一站式解决方案，为您的工作提供所有工具  
     </details> 
 
-- 💼 [AnnounceBot 2.0 - 新员工入职并在特殊场合祝愿他们](https://xinquji.com/posts/180108?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:43 AM 
+- 💼 [YouCheck - 安全地买卖文件的软件，没有诈骗](https://xinquji.com/posts/180139?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     新员工入职并在特殊场合祝愿他们  
+     安全地买卖文件的软件，没有诈骗  
     </details> 
 
-- 🦅 [Life Clock - 24 小时制你的一生](https://xinquji.com/posts/180107?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:40 AM 
+- 🦅 [The Remote Job - 在很酷的行业中寻找远程工作](https://xinquji.com/posts/180138?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     24 小时制你的一生  
+     在很酷的行业中寻找远程工作  
     </details> 
 
-- 😺 [TabSpace - 舒适的新标签页中的智能暂存空间](https://xinquji.com/posts/180106?utm_campaign=xinquji-rss) | Tue Oct 04 2022 6:38 AM 
+- 😺 [Moolah - 自动优惠券猎人](https://xinquji.com/posts/180137?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     舒适的新标签页中的智能暂存空间  
+     自动优惠券猎人  
     </details> 
 <!-- xinquji:END -->
