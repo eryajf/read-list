@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [不要错过10月的天象亮点：巨行星之夜、火星逆行、猎户座流星雨](https://www.cnbeta.com/articles/science/1323655.htm) | Tue Oct 04 2022 4:30 AM 
+- 🕯 [官方发布：神舟十四号航天员乘组在轨拍摄作品](https://www.cnbeta.com/articles/science/1323669.htm) | Tue Oct 04 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年10月的天象亮点有哪些？根据美国宇航局（NASA）的说法，&lt;strong&gt;在整个10月，整晚都可以欣赏到木星和土星这两颗气态巨行星。然后观察火星开始“逆行”&lt;/strong&gt;，在接下来的几个月里每晚向西而不是向东移动。最后，人们可以在10月20日晚上观赏猎户座流星雨。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年国庆佳节，中国航天员首次在太空度过。中国载人航天工程办公室官方发布神舟十四号乘组航天员在轨拍摄的摄影作品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [改写历史：科学家公布首个具同形孢子蕨类植物的全长基因组](https://www.cnbeta.com/articles/science/1323653.htm) | Tue Oct 04 2022 4:09 AM 
+- 💼 [瑞典科学家斩获诺奖：父亲40年前同获诺贝尔医学奖 母亲对他的影响最大](https://www.cnbeta.com/articles/tech/1323667.htm) | Tue Oct 04 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;蕨类植物因拥有大量的染色体和大量的DNA而闻名。目前，一种不比餐盘大的蕨类植物保持着最高的染色体数量记录，它的每个细胞核中都有720对染色体。科学家们一直对蕨类植物囤积DNA的倾向感到困惑，而它们的基因组难以处理的大小也使得对它们进行测序、组装和解释成为挑战。现在，&lt;strong&gt;最近发表在《自然-植物》杂志上的&lt;a href=&quot;https://www.nature.com/articles/s41477-022-01226-7&quot; target=&quot;_self&quot;&gt;两篇&lt;/a&gt;&lt;a href=&quot;https://www.nature.com/articles/s41477-022-01146-6&quot; target=&quot;_self&quot;&gt;文章&lt;/a&gt;改写了历史，首次公布了具同形孢子蕨类植物的全长基因组&lt;/strong&gt;，这是一个巨大的群体，包含了所有现代蕨类植物多样性的99%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据诺贝尔奖官网10月3日的消息，2022年诺贝尔生理学或医学奖率先揭晓。来自瑞典的科学家斯万特·帕博（Svante Pääbo）获奖，他在发现“关于已灭绝人类基因组和人类进化的发现 ”方面作出了突出贡献。 ↑2022年诺贝尔生理学或医学奖授予瑞典科学家斯万特·帕博。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新研究可能改变人们对自闭症患者的认识](https://www.cnbeta.com/articles/science/1323651.htm) | Tue Oct 04 2022 3:53 AM 
+- 💂 [《辐射》系列25周年系列庆祝活动 《辐射76》免费体验](https://www.cnbeta.com/articles/tech/1323665.htm) | Tue Oct 04 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;人们普遍认为，自闭症患者识别他人情绪的能力较差，而且对他们如何有效地识别他人的情绪没有什么见解。然而，澳&lt;strong&gt;大利亚最近的一项研究表明，自闭症患者在识别面部情绪表达方面的准确度仅比非自闭症患者略低。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Bethesda宣布将在本月的《辐射》系列25周年期间举行多种促销活动。Bethesda周一表示，他们正在计划为期一个月的系列“特别活动”，其中包括开发者回顾作品展、促销活动和社区赠礼活动。促销活动包括《辐射76》七天免费试玩，从本周开始截止到10月10日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [FDA批准了由冰桶挑战赛捐款者资助研发的治疗方法](https://www.cnbeta.com/articles/science/1323649.htm) | Tue Oct 04 2022 3:42 AM 
+- 🚀 [中国笔记本电脑市场数据：华为暴涨100% 距离第2名一步之遥](https://www.cnbeta.com/articles/tech/1323663.htm) | Tue Oct 04 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;社交媒体上的挑战并不新鲜，但现在我们似乎等来了一个真正积极的结果。自2014年以来，肌萎缩性脊髓侧索硬化症（ALS）的冰桶挑战已经促使成千上万的社交媒体用户用冰水浇了自己一身，并向ALS协会捐款。现在，这项挑战已经筹集了超过200万美元的资金，直接用于新批准的ALS药物治疗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，市场调研机构Canalys发布最新报告，显示&lt;strong&gt;2022年第二季度华为笔记本一枝独秀，成为中国大陆市场的一匹黑马。&lt;/strong&gt;在中国大陆市场，前五位分别为联想（37%）、戴尔（11%）、华为（10%）、华硕（9%）、惠普（7%）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [普渡大学科学家发现“生命起源背后的化学”](https://www.cnbeta.com/articles/science/1323647.htm) | Tue Oct 04 2022 3:39 AM 
+- 🎊 [“长得最高”的西红柿：中国空间站种西红柿长出幼苗](https://www.cnbeta.com/articles/science/1323661.htm) | Tue Oct 04 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;普渡大学的化学家们发现了一种在水中发生肽形成反应的机制--这在过去几十年来一直困惑着科学家们。Graham Cooks说：“这基本上是生命起源背后的化学。”&lt;/strong&gt;他是普渡大学理学院分析化学的亨利-博恩-哈斯杰出教授。“这是第一次证明原始分子，简单的氨基酸，在纯水滴中自发形成肽，即生命的组成部分。这是一个戏剧性的发现。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月4日，中国载人航天工程网官方微博“载人航天小喇叭”晒出了神舟十四号航天员在轨拍摄作品。这组摄影作品一共12张照片，其中一颗幼苗引发网友关注。&lt;strong&gt;原来是航天员蔡旭哲在中国空间站种植的西红柿，长出幼苗了！网友直呼：这可能是长得最高的西红柿。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
