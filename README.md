@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [专注于码农新闻聚合的良心应用“推酷”终于撑不住了，有任何替代品没有？](https://www.v2ex.com/t/884605#reply2) | Tue Oct 04 2022 4:44 AM
-- 🤗 [有南大在校的吗？镜像站怎么了](https://www.v2ex.com/t/884600#reply8) | Tue Oct 04 2022 3:58 AM
-- 🎭 [请问现在远程控制 GUI 桌面的方案还是 VNC 吗?](https://www.v2ex.com/t/884597#reply2) | Tue Oct 04 2022 3:40 AM
-- 🥷 [求助：服务器命令无输出](https://www.v2ex.com/t/884595#reply6) | Tue Oct 04 2022 3:30 AM
-- 🐵 [nodejs 里多个定时任务里用到相同的变量, 会不会有线程安全的问题?](https://www.v2ex.com/t/884591#reply3) | Tue Oct 04 2022 3:22 AM<!-- v2ex:END -->
+- 🥸 [有没有提供词典功能的 language server 给编辑器用？](https://www.v2ex.com/t/884617#reply2) | Tue Oct 04 2022 6:46 AM
+- 🤗 [专注于码农新闻聚合的良心应用“推酷”终于撑不住了，有任何替代品没有？](https://www.v2ex.com/t/884605#reply3) | Tue Oct 04 2022 4:44 AM
+- 🎭 [有南大在校的吗？镜像站怎么了](https://www.v2ex.com/t/884600#reply8) | Tue Oct 04 2022 3:58 AM
+- 🥷 [请问现在远程控制 GUI 桌面的方案还是 VNC 吗?](https://www.v2ex.com/t/884597#reply4) | Tue Oct 04 2022 3:40 AM
+- 🐵 [求助：服务器命令无输出](https://www.v2ex.com/t/884595#reply6) | Tue Oct 04 2022 3:30 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
