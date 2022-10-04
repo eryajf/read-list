@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1004](http://jandan.net/p/111429) | Tue Oct 04 2022 3:57 AM 
+- 🚀 [即使是老人，重量训练也会加强神经元和肌肉之间的联系，减缓肌肉损失](http://jandan.net/p/111425) | Tue Oct 04 2022 5:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    以前一直无法证明举重训练可以加强运动神经元和肌肉之间的联系。 
+    </details> 
+
+- 🙉 [今日好价 1004](http://jandan.net/p/111429) | Tue Oct 04 2022 3:57 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：34 
     </details> 
 
-- 🙉 [图像生成AI，压缩图像的效果好于JPEG或WebP](http://jandan.net/p/111407) | Mon Oct 03 2022 3:26 PM 
+- 🎉 [图像生成AI，压缩图像的效果好于JPEG或WebP](http://jandan.net/p/111407) | Mon Oct 03 2022 3:26 PM 
     <details><summary>展开描述 ...</summary> 
     视觉伪影更少 
     </details> 
 
-- 🎉 [非侵入性、3分钟诊断帕金森症](http://jandan.net/p/111428) | Mon Oct 03 2022 11:53 AM 
+- 🐲 [非侵入性、3分钟诊断帕金森症](http://jandan.net/p/111428) | Mon Oct 03 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
     在采集皮肤拭子后3分钟 
     </details> 
 
-- 🐲 [找工作，哪种人际关系最有帮助？是通过密友还是不太熟的陌生人](http://jandan.net/p/111365) | Mon Oct 03 2022 6:27 AM 
+-  [找工作，哪种人际关系最有帮助？是通过密友还是不太熟的陌生人](http://jandan.net/p/111365) | Mon Oct 03 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
     1973 年，美国社会学家马克·格兰诺维特在社交网络的背景下创造了“弱关系的力量”这一短语 
-    </details> 
-
--  [今日好价 1003](http://jandan.net/p/111426) | Mon Oct 03 2022 2:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：32 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
