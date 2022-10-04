@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [南大教授眼中的诺奖得主安东·塞林格：导师对基础物理一直充满好奇](https://www.cnbeta.com/articles/science/1323785.htm) | Tue Oct 04 2022 7:22 PM 
+- 🕯 [首个欧洲量子计算机网络将于2023年投入使用](https://www.cnbeta.com/articles/tech/1323789.htm) | Tue Oct 04 2022 7:29 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;欧洲高性能计算联合企业（EuroHPC JU）10月4日宣布，将选择捷克、德国、西班牙、法国、意大利、波兰六个成员国来部署史上第一个欧洲量子计算机网络，它将整合这六个国家现有的超级计算机，形成一个量子计算网络，于2023年下半年投入使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [开审前戏剧性反转：马斯克提议仍按原报价收购 推特一度涨超17%](https://www.cnbeta.com/articles/tech/1323787.htm) | Tue Oct 04 2022 7:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;距离收购案庭审不到两周，媒体爆出马斯克提议按原报价收购的消息，此后递交监管方文件确认该提议。消息传出后，Twitter股价盘中拉升，不到十分钟，日内涨幅从不足0.9%扩大到10%以上，盘中曾暂停交易。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [南大教授眼中的诺奖得主安东·塞林格：导师对基础物理一直充满好奇](https://www.cnbeta.com/articles/science/1323785.htm) | Tue Oct 04 2022 7:22 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;北京时间10月4日下午，瑞典皇家科学院宣布，将2022年诺贝尔物理学奖授予法国物理学家阿兰·阿斯佩（Alain Aspect）、美国理论和实验物理学家约翰·弗朗西斯·克劳泽（John F. Clauser）和奥地利物理学家安东·塞林格（Anton Zeilinger），以表彰他们通过光子纠缠实验，确定贝尔不等式在量子世界中不成立，并开创了量子信息这一学科。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [埃隆·马斯克提议继续推进440亿美元的Twitter交易](https://www.cnbeta.com/articles/tech/1323783.htm) | Tue Oct 04 2022 4:46 PM 
+- 🚀 [埃隆·马斯克提议继续推进440亿美元的Twitter交易](https://www.cnbeta.com/articles/tech/1323783.htm) | Tue Oct 04 2022 4:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，特斯拉首席执行官埃隆-马斯克&lpar;Elon Musk&rpar;再次提出以440亿美元收购Twitter，这一潜在收购的消息在华尔街引起了震动。马斯克和Twitter的关系很紧张，因为这位特斯拉首席执行官提出收购该公司，然后因为所谓的机器人占比数据描述不准确问题而退出。在这一事件的最新剧情中，埃隆似乎再次想要控制Twitter。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [谷歌开始推广其iOS 16锁屏小工具](https://www.cnbeta.com/articles/tech/1323781.htm) | Tue Oct 04 2022 4:15 PM 
+- 🎊 [谷歌开始推广其iOS 16锁屏小工具](https://www.cnbeta.com/articles/tech/1323781.htm) | Tue Oct 04 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;谷歌iOS 16锁屏小工具现在已经开始到来。&lt;/strong&gt;伴随着苹果新的移动操作系统iOS 16的推出，这家搜索巨头上个月曾预告它计划支持iPhone的最新功能，即允许用户直接在手机锁屏上放置小部件，提供信息并方便用户访问喜爱的应用程序。谷歌表示，它将很快发布一些顶级应用的部件，包括搜索、地图、Gmail等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [非官方应用商店对苹果的诉讼被驳回后 Cydia运营主体提出上诉](https://www.cnbeta.com/articles/tech/1323779.htm) | Tue Oct 04 2022 4:11 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据法庭文件，Cydia母公司SaurikIT, LLC在美国地区法官Yvonne Gonzalez Rogers上个月驳回该公司对苹果的反垄断诉讼后，已向美国第九巡回上诉法院提出上诉。&lt;/strong&gt;SaurikIT在2020年底起诉苹果公司，称鉴于App Store是用户可以在iPhone和iPad上下载应用的唯一授权市场，该公司对iOS应用分发有非法垄断的嫌疑。诉状还称，苹果公司&amp;quot;一直试图扼杀其他应用商店，&amp;quot;其中包括Cydia。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [苹果公司正在试探性地踏入更多美国本土制造领域](https://www.cnbeta.com/articles/tech/1323777.htm) | Tue Oct 04 2022 4:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司正在慢慢地在美国增加更多的制造基地，公司发布的2021财年供应商名单显示，截至2021年9月，其180家供应商中有48家已将部分业务转移到美国。这个数字比2020年的25家供应商有所增加。重点是加州，超过30个生产基地在加州，而2020年还不到10个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
