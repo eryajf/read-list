@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [官方发布：神舟十四号航天员乘组在轨拍摄作品](https://www.cnbeta.com/articles/science/1323669.htm) | Tue Oct 04 2022 6:30 AM 
+- 🕯 [科学家设计出食油微生物 排泄出世界上最便宜的&quot;清洁&quot;氢气](https://www.cnbeta.com/articles/science/1323681.htm) | Tue Oct 04 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年国庆佳节，中国航天员首次在太空度过。中国载人航天工程办公室官方发布神舟十四号乘组航天员在轨拍摄的摄影作品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;德克萨斯州的Cemvita公司在实验室和现场测试了一种迷人的新技术后，表示未来清洁氢气的价格可以低于1美元/公斤。这个想法是将专门开发的微生物泵入枯竭的油井，在那里它们会吃油并排泄氢气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [瑞典科学家斩获诺奖：父亲40年前同获诺贝尔医学奖 母亲对他的影响最大](https://www.cnbeta.com/articles/tech/1323667.htm) | Tue Oct 04 2022 6:28 AM 
+- 💼 [关于三星Galaxy S23系列的电池和摄像头的更多细节被披露](https://www.cnbeta.com/articles/tech/1323679.htm) | Tue Oct 04 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据诺贝尔奖官网10月3日的消息，2022年诺贝尔生理学或医学奖率先揭晓。来自瑞典的科学家斯万特·帕博（Svante Pääbo）获奖，他在发现“关于已灭绝人类基因组和人类进化的发现 ”方面作出了突出贡献。 ↑2022年诺贝尔生理学或医学奖授予瑞典科学家斯万特·帕博。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星Galaxy S23、Galaxy S23+和Galaxy S23 Ultra上个月通过了3C认证，配备25W充电器，但认证机构没有透露它们的电池容量。&lt;strong&gt;有传言称，Galaxy S23的电池容量将在3900毫安时左右（比S22的电池大200毫安时），现在，关于Galaxy S23 Plus和Ultra型号电池的细节也浮出水面。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《辐射》系列25周年系列庆祝活动 《辐射76》免费体验](https://www.cnbeta.com/articles/tech/1323665.htm) | Tue Oct 04 2022 6:20 AM 
+- 💂 [回收利用技术的突破将一种常见的塑料变成另一种塑料](https://www.cnbeta.com/articles/science/1323677.htm) | Tue Oct 04 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Bethesda宣布将在本月的《辐射》系列25周年期间举行多种促销活动。Bethesda周一表示，他们正在计划为期一个月的系列“特别活动”，其中包括开发者回顾作品展、促销活动和社区赠礼活动。促销活动包括《辐射76》七天免费试玩，从本周开始截止到10月10日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了减少与塑料制造和处置相关的环境负担，科学家们展示了一种新的升级回收技术，它能将一种常见的塑料形式变成另一种。该团队表示，他们也有办法扩大和实施他们的技术，他们认为这种技术的广泛运用可能会让全球温室气体排放的大规模减少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国笔记本电脑市场数据：华为暴涨100% 距离第2名一步之遥](https://www.cnbeta.com/articles/tech/1323663.htm) | Tue Oct 04 2022 6:10 AM 
+- 🚀 [比亚迪将特斯拉赶下了王座](https://www.cnbeta.com/articles/tech/1323675.htm) | Tue Oct 04 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，市场调研机构Canalys发布最新报告，显示&lt;strong&gt;2022年第二季度华为笔记本一枝独秀，成为中国大陆市场的一匹黑马。&lt;/strong&gt;在中国大陆市场，前五位分别为联想（37%）、戴尔（11%）、华为（10%）、华硕（9%）、惠普（7%）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;span style=&quot;&quot;&gt;新能源市场的王者之争愈发激烈了。一边是比亚迪9月卖车超20万辆，不断给市场惊喜；一边是特斯拉销售下滑，推出的人形机器人也被吐槽，股价狂泻，这两位全球新能源汽车的巨头，来到了新赛点。“迪王”10月3日公布的产销数据显示，今年9月，比亚迪月度销量首次突破20万辆，达到201259辆，同比增长151.2%。其中新能源乘用车销量200973辆，同比增长187%。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“长得最高”的西红柿：中国空间站种西红柿长出幼苗](https://www.cnbeta.com/articles/science/1323661.htm) | Tue Oct 04 2022 6:10 AM 
+- 🎊 [美国因飓风“伊恩”遇难人数过百](https://www.cnbeta.com/articles/tech/1323673.htm) | Tue Oct 04 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月4日，中国载人航天工程网官方微博“载人航天小喇叭”晒出了神舟十四号航天员在轨拍摄作品。这组摄影作品一共12张照片，其中一颗幼苗引发网友关注。&lt;strong&gt;原来是航天员蔡旭哲在中国空间站种植的西红柿，长出幼苗了！网友直呼：这可能是长得最高的西红柿。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据美国媒体报道，截至3日晚，飓风“伊恩”已在美国造成百余人遇难。统计数据显示，美国佛罗里达州已确认101人遇难，北卡罗来纳州已确认4人遇难。在佛罗里达州，利县和夏洛特县分别确认54人和24人遇难。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
