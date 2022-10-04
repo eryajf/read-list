@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [首个欧洲量子计算机网络将于2023年投入使用](https://www.cnbeta.com/articles/tech/1323789.htm) | Tue Oct 04 2022 7:29 PM 
+- 🕯 [“海基一号”投产刷新我国海上单体石油生产平台新高](https://www.cnbeta.com/articles/tech/1323795.htm) | Tue Oct 04 2022 8:31 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;深水导管架平台“海基一号”3日在南海陆丰油田作业区正式投产。平台总高度达340.5米，总重量超4万吨，高度和重量均刷新了我国海上单体石油生产平台纪录。“海基一号”位于珠江口盆地海域，由中国海洋石油集团有限公司自主设计建造。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iOS 16.1 Beta下使用黑色壁纸或黑暗模式时 灵动岛周围会增加灰色边框](https://www.cnbeta.com/articles/tech/1323793.htm) | Tue Oct 04 2022 8:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;在最新的iOS 16.1测试版中，苹果调整了iPhone 14 Pro和Pro Max上灵动岛的设计，使其在黑暗背景下更加明显。&lt;/strong&gt;当使用深色壁纸或激活黑暗模式的深色界面时，当屏幕变暗或灵动岛处于主动使用状态时，灵动岛外部会有一个浅灰色的边框。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [因为围墙花园和付费墙 互联网档案馆发现自己越来越难记录互联网](https://www.cnbeta.com/articles/tech/1323791.htm) | Tue Oct 04 2022 8:26 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;自从互联网档案馆（Internet Archive）开始保存各种数字资料，包括软件、游戏、电影、图像，当然还有网页至今已超过26年。Wayback Machine是处理不断增加的收集和整理互联网快照任务的机制，自90年代中期以来，它已经取得了长足的进步。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323791.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [首个欧洲量子计算机网络将于2023年投入使用](https://www.cnbeta.com/articles/tech/1323789.htm) | Tue Oct 04 2022 7:29 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;欧洲高性能计算联合企业（EuroHPC JU）10月4日宣布，将选择捷克、德国、西班牙、法国、意大利、波兰六个成员国来部署史上第一个欧洲量子计算机网络，它将整合这六个国家现有的超级计算机，形成一个量子计算网络，于2023年下半年投入使用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [开审前戏剧性反转：马斯克提议仍按原报价收购 推特一度涨超17%](https://www.cnbeta.com/articles/tech/1323787.htm) | Tue Oct 04 2022 7:23 PM 
+- 🎊 [开审前戏剧性反转：马斯克提议仍按原报价收购 推特一度涨超17%](https://www.cnbeta.com/articles/tech/1323787.htm) | Tue Oct 04 2022 7:23 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;距离收购案庭审不到两周，媒体爆出马斯克提议按原报价收购的消息，此后递交监管方文件确认该提议。消息传出后，Twitter股价盘中拉升，不到十分钟，日内涨幅从不足0.9%扩大到10%以上，盘中曾暂停交易。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [南大教授眼中的诺奖得主安东·塞林格：导师对基础物理一直充满好奇](https://www.cnbeta.com/articles/science/1323785.htm) | Tue Oct 04 2022 7:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间10月4日下午，瑞典皇家科学院宣布，将2022年诺贝尔物理学奖授予法国物理学家阿兰·阿斯佩（Alain Aspect）、美国理论和实验物理学家约翰·弗朗西斯·克劳泽（John F. Clauser）和奥地利物理学家安东·塞林格（Anton Zeilinger），以表彰他们通过光子纠缠实验，确定贝尔不等式在量子世界中不成立，并开创了量子信息这一学科。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [埃隆·马斯克提议继续推进440亿美元的Twitter交易](https://www.cnbeta.com/articles/tech/1323783.htm) | Tue Oct 04 2022 4:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，特斯拉首席执行官埃隆-马斯克&lpar;Elon Musk&rpar;再次提出以440亿美元收购Twitter，这一潜在收购的消息在华尔街引起了震动。马斯克和Twitter的关系很紧张，因为这位特斯拉首席执行官提出收购该公司，然后因为所谓的机器人占比数据描述不准确问题而退出。在这一事件的最新剧情中，埃隆似乎再次想要控制Twitter。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [谷歌开始推广其iOS 16锁屏小工具](https://www.cnbeta.com/articles/tech/1323781.htm) | Tue Oct 04 2022 4:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;谷歌iOS 16锁屏小工具现在已经开始到来。&lt;/strong&gt;伴随着苹果新的移动操作系统iOS 16的推出，这家搜索巨头上个月曾预告它计划支持iPhone的最新功能，即允许用户直接在手机锁屏上放置小部件，提供信息并方便用户访问喜爱的应用程序。谷歌表示，它将很快发布一些顶级应用的部件，包括搜索、地图、Gmail等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
