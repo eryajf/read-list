@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [macOS Monterey 2K 屏开 HiDPI](https://juejin.cn/post/7150466186600251399) | Tue Oct 04 2022 1:41 AM 
+- 🤗 [NRF52832学习笔记（4）——GPIO输出接口使用](https://juejin.cn/post/7150491849474441224) | Tue Oct 04 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-    MacBook Monterey 2K 屏开 HiDPI 苹果原装 2k 和 1080p 都一言难尽啊（什么时候学学隔壁巨硬家极为先进的缩放技术），还是得开 HiDPI 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 一、硬件连接 按键名称 引脚 控制方法 蜂鸣器 14 高电平响、低电平停 LED灯 23 高电平亮、低电 
     </details> 
 
-- 🎡 [制作了一个马赛克图片转换器](https://juejin.cn/post/7150465824690536484) | Tue Oct 04 2022 1:39 AM 
+- 🎡 [【算法题解】 Day6 BFS | DFS](https://juejin.cn/post/7150491716028465189) | Tue Oct 04 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 制作了一个马赛克图片转换器，可以将图片转换成马赛克风格，并可转换为 css box-shadow 进行输 
+    今天的算法是 「BFS | DFS」 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
     </details> 
 
-- 🕯 [图解LeetCode——921. 使括号有效的最少添加（难度：中等）](https://juejin.cn/post/7150464878791098375) | Tue Oct 04 2022 1:36 AM 
+- 🕯 [软件版本命名规则](https://juejin.cn/post/7150491405901627423) | Tue Oct 04 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 一、题目 只有满足下面几点之一，括号字符串才是有效的： 给定一个括号字符串 s ，移动N次，你就可以在字 
+    作为一名程序开发者，对自己开发软件的版本名称，或许觉得只是一个很简单的事情：将程序编译打包部署。但实际发布时，可能常出现版本发布错误的问题。因此，作为一名开发者，对软件发布版本命名应该要有一定的了解 
     </details> 
 
-- 🚀 [2022年我的面试万字总结（JS篇上）](https://juejin.cn/post/7150462512817782815) | Tue Oct 04 2022 1:29 AM 
+- 🚀 [关于 index.ts 在大型 Angular 项目中的应用](https://juejin.cn/post/7150491580556640264) | Tue Oct 04 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-    又到了金九银十季，最近我也是奔波于各种面试。我自己总结整理了很多方向的前端面试题。借着国庆这个假期，也把这些题目总结分享给大家，也祝正在面试的朋友们能够拿到满意的offer。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 对于 Angular来说，模块&lpar;module&rpar;是一个容器/包&lpar;container/package&rpar;，用来 
     </details> 
 
-- 💪 [OrthographicCamera&lpar;正交相机&rpar;，2D场景渲染之光](https://juejin.cn/post/7150462071576985607) | Tue Oct 04 2022 1:26 AM 
+- 💪 [【Flutter 异步编程 - 肆】 | 异步任务状态与组件构建](https://juejin.cn/post/7150490723215736863) | Tue Oct 04 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情。据说Three.js的OrthographicCamera&lpar;正交相机&rpar;很适合渲染2D场景。 
+    一、 用户交互与界面的反馈 经过前三篇，我们已经对异步概念有了基本的认知，也认识了 Future 和 Stream 两个对象的基本使用。Flutter 作为 UI 框架，最重要的工作是通过 构建组件  
     </details> 
 <!-- juejin:END -->
 ### 少数派
