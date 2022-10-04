@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [央视探访呼伦贝尔号旅游专列：淋浴酒吧K歌一应俱全 绿皮车也能如此豪华](https://www.cnbeta.com/articles/tech/1323593.htm) | Tue Oct 04 2022 1:56 AM 
+- 🕯 [FDA批准了由冰桶挑战赛捐款者资助研发的治疗方法](https://www.cnbeta.com/articles/science/1323649.htm) | Tue Oct 04 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在“绿皮车”上睡双人床是什么体验？在当下的旅游列车上，不仅有完善的休闲娱乐设施，还有体贴的管家全程提供服务。据央视网报道，在呼伦贝尔号旅游专列上，游客可沉浸式体验“极北之旅”，&lt;strong&gt;这列火车上有11节车厢，并有22位管家全程提供服务，44位游客拥有8到12平米的私人包间。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;社交媒体上的挑战并不新鲜，但现在我们似乎等来了一个真正积极的结果。自2014年以来，肌萎缩性脊髓侧索硬化症（ALS）的冰桶挑战已经促使成千上万的社交媒体用户用冰水浇了自己一身，并向ALS协会捐款。现在，这项挑战已经筹集了超过200万美元的资金，直接用于新批准的ALS药物治疗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Intel基辛格：科技CEO还是要懂技术的 只看Excel可不行](https://www.cnbeta.com/articles/tech/1323591.htm) | Tue Oct 04 2022 1:51 AM 
+- 💼 [普渡大学科学家发现“生命起源背后的化学”](https://www.cnbeta.com/articles/science/1323647.htm) | Tue Oct 04 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为驰骋半导体行业50多年的龙头公司，Intel最近几年的日子有点烦心，x86市场遭遇AMD的挑战，之前的14nm工艺也被吐槽，直到2021年2月份换了CEO，上任CEO是CFO财务出身的，接任的CEO帕特·基辛格则是Intel 30多年的技术老将。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;普渡大学的化学家们发现了一种在水中发生肽形成反应的机制--这在过去几十年来一直困惑着科学家们。Graham Cooks说：“这基本上是生命起源背后的化学。”&lt;/strong&gt;他是普渡大学理学院分析化学的亨利-博恩-哈斯杰出教授。“这是第一次证明原始分子，简单的氨基酸，在纯水滴中自发形成肽，即生命的组成部分。这是一个戏剧性的发现。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华为Mate 50 Pro喜迎新功能 支持戴口罩人脸识别](https://www.cnbeta.com/articles/tech/1323589.htm) | Tue Oct 04 2022 1:51 AM 
+- 💂 [SpinLaunch的创新卫星发射系统完成第10次试飞](https://www.cnbeta.com/articles/tech/1323645.htm) | Tue Oct 04 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如今，出门戴口罩已经成为常态，很多小伙伴都在期待手机支持支持戴口罩识别。近日，数码博主@曦夕Katarina 透露称，&lt;strong&gt;华为Mate50 Pro的全新鸿蒙HarmonyOS 3.0.0.150版本，有望支持戴口罩识别。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;总部位于美国 Long Beach 的太空公司 SpinLaunch 近日宣布成功完成了第 10 次试飞，通过旋转离心力这种创新方式将小型卫星送上轨道。&lt;/strong&gt;公告称，该试飞于 9 月 27 日发射，是 11 个月内的第 10 次测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [PC业寒气逼人 供应商确认DDR5内存普及延期一年](https://www.cnbeta.com/articles/tech/1323587.htm) | Tue Oct 04 2022 1:50 AM 
+- 🚀 [英国暂停数据改革法案 重新思考如何取代GDPR](https://www.cnbeta.com/articles/tech/1323643.htm) | Tue Oct 04 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着AMD锐龙7000及Intel 13代酷睿的发布，这两家对DDR5内存的支持已经到位，大家都期望DDR5内存能够快速普及，然而现在的形势已经变了，PC市场需求下滑，厂商现在想得都是如何过冬，DDR5普及之路要延期一年之久。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据TechCrunch报道，英国政府已经确认，在新任首相特拉斯组建的新内阁的领导下，数字立法草案再次暂停。&lt;strong&gt;英国政府称其在最近几个月推出的数据改革法案被搁置，而部长们正在重新审视。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [上海徐家汇建站150年来录得首次10月气温35℃+ 刷新纪录](https://www.cnbeta.com/articles/tech/1323585.htm) | Tue Oct 04 2022 1:48 AM 
+- 🎊 [iOS 16最多允许用户自定义创建200个锁屏壁纸](https://www.cnbeta.com/articles/tech/1323641.htm) | Tue Oct 04 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一不小心又见证了历史！据上海市气象局官微消息，10月3日午后，徐家汇站气温再度突破高温线，成为今年第50个高温日，13时20分气温已达35.7℃。&lt;strong&gt;徐家汇站建站150年来从来没有在10月出现过35℃以上高温天气，这是第一次！这也会成为历史10月最高气温纪录！&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iOS 16 的核心功能之一，就是允许用户自定义 iPhone 锁屏界面。该功能允许用户创建具有不同壁纸、字体设置甚至小部件的多个集合。&lt;strong&gt;然而，尽管可以设置多个自定义选项，最新版本的 iPhone 操作系统不会让您创建任意数量的自定义锁屏。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
