@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [FDA批准了由冰桶挑战赛捐款者资助研发的治疗方法](https://www.cnbeta.com/articles/science/1323649.htm) | Tue Oct 04 2022 3:42 AM 
+- 🕯 [不要错过10月的天象亮点：巨行星之夜、火星逆行、猎户座流星雨](https://www.cnbeta.com/articles/science/1323655.htm) | Tue Oct 04 2022 4:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;2022年10月的天象亮点有哪些？根据美国宇航局（NASA）的说法，&lt;strong&gt;在整个10月，整晚都可以欣赏到木星和土星这两颗气态巨行星。然后观察火星开始“逆行”&lt;/strong&gt;，在接下来的几个月里每晚向西而不是向东移动。最后，人们可以在10月20日晚上观赏猎户座流星雨。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [改写历史：科学家公布首个具同形孢子蕨类植物的全长基因组](https://www.cnbeta.com/articles/science/1323653.htm) | Tue Oct 04 2022 4:09 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;蕨类植物因拥有大量的染色体和大量的DNA而闻名。目前，一种不比餐盘大的蕨类植物保持着最高的染色体数量记录，它的每个细胞核中都有720对染色体。科学家们一直对蕨类植物囤积DNA的倾向感到困惑，而它们的基因组难以处理的大小也使得对它们进行测序、组装和解释成为挑战。现在，&lt;strong&gt;最近发表在《自然-植物》杂志上的&lt;a href=&quot;https://www.nature.com/articles/s41477-022-01226-7&quot; target=&quot;_self&quot;&gt;两篇&lt;/a&gt;&lt;a href=&quot;https://www.nature.com/articles/s41477-022-01146-6&quot; target=&quot;_self&quot;&gt;文章&lt;/a&gt;改写了历史，首次公布了具同形孢子蕨类植物的全长基因组&lt;/strong&gt;，这是一个巨大的群体，包含了所有现代蕨类植物多样性的99%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [新研究可能改变人们对自闭症患者的认识](https://www.cnbeta.com/articles/science/1323651.htm) | Tue Oct 04 2022 3:53 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;人们普遍认为，自闭症患者识别他人情绪的能力较差，而且对他们如何有效地识别他人的情绪没有什么见解。然而，澳&lt;strong&gt;大利亚最近的一项研究表明，自闭症患者在识别面部情绪表达方面的准确度仅比非自闭症患者略低。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [FDA批准了由冰桶挑战赛捐款者资助研发的治疗方法](https://www.cnbeta.com/articles/science/1323649.htm) | Tue Oct 04 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;社交媒体上的挑战并不新鲜，但现在我们似乎等来了一个真正积极的结果。自2014年以来，肌萎缩性脊髓侧索硬化症（ALS）的冰桶挑战已经促使成千上万的社交媒体用户用冰水浇了自己一身，并向ALS协会捐款。现在，这项挑战已经筹集了超过200万美元的资金，直接用于新批准的ALS药物治疗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [普渡大学科学家发现“生命起源背后的化学”](https://www.cnbeta.com/articles/science/1323647.htm) | Tue Oct 04 2022 3:39 AM 
+- 🎊 [普渡大学科学家发现“生命起源背后的化学”](https://www.cnbeta.com/articles/science/1323647.htm) | Tue Oct 04 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;普渡大学的化学家们发现了一种在水中发生肽形成反应的机制--这在过去几十年来一直困惑着科学家们。Graham Cooks说：“这基本上是生命起源背后的化学。”&lt;/strong&gt;他是普渡大学理学院分析化学的亨利-博恩-哈斯杰出教授。“这是第一次证明原始分子，简单的氨基酸，在纯水滴中自发形成肽，即生命的组成部分。这是一个戏剧性的发现。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [SpinLaunch的创新卫星发射系统完成第10次试飞](https://www.cnbeta.com/articles/tech/1323645.htm) | Tue Oct 04 2022 3:33 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;总部位于美国 Long Beach 的太空公司 SpinLaunch 近日宣布成功完成了第 10 次试飞，通过旋转离心力这种创新方式将小型卫星送上轨道。&lt;/strong&gt;公告称，该试飞于 9 月 27 日发射，是 11 个月内的第 10 次测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [英国暂停数据改革法案 重新思考如何取代GDPR](https://www.cnbeta.com/articles/tech/1323643.htm) | Tue Oct 04 2022 3:28 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据TechCrunch报道，英国政府已经确认，在新任首相特拉斯组建的新内阁的领导下，数字立法草案再次暂停。&lt;strong&gt;英国政府称其在最近几个月推出的数据改革法案被搁置，而部长们正在重新审视。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [iOS 16最多允许用户自定义创建200个锁屏壁纸](https://www.cnbeta.com/articles/tech/1323641.htm) | Tue Oct 04 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iOS 16 的核心功能之一，就是允许用户自定义 iPhone 锁屏界面。该功能允许用户创建具有不同壁纸、字体设置甚至小部件的多个集合。&lt;strong&gt;然而，尽管可以设置多个自定义选项，最新版本的 iPhone 操作系统不会让您创建任意数量的自定义锁屏。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
