@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [小程序面试8问，你能接下几招？](https://juejin.cn/post/7150542902651781127) | Tue Oct 04 2022 6:38 AM 
+- 🤗 [总结几个二叉树概念：高度，深度，坡度](https://juejin.cn/post/7150553720541937671) | Tue Oct 04 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-    你在面试的时候有被问到过小程序吗？你答上来了吗？下面的这面试官8问你能接招吗？掌握这8道面试题，基本在面试中就能如鱼得水了 
+    最小高度树 题目 给定一个有序整数数组，元素各不相同且按升序排列，编写一个算法，创建一棵高度最小的二叉搜索树。 示例 解题思路 首先我们先复习一下二叉搜索树的定义：对于树中的所有子树，左子树上的值都小 
     </details> 
 
-- 🎡 [如何高效加载资源和手撸一个资源加载器](https://juejin.cn/post/7150535619423240199) | Tue Oct 04 2022 6:11 AM 
+- 🎡 [vue+threejs写物体动画：物体缩放动画](https://juejin.cn/post/7150471893127004173) | Tue Oct 04 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是云牧，这次说的是资源加载，包含如何统计页面渲染加载时间和优化，最后我们会手动实现一个资源加载器。包含缓存，依赖，进度控制等 
+     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，[点击查看活动详情]&lpar;https://juejin.cn/post/71 
     </details> 
 
-- 🕯 [stylus修改主题 以及系统目录更改](https://juejin.cn/post/7150525997572587533) | Tue Oct 04 2022 5:34 AM 
+- 🕯 [Neovim插件制作UI](https://juejin.cn/post/7150471557121310727) | Tue Oct 04 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 stylus 修改主题 安装stylus 当安装完成后 使用时可能会出现版本冲突 使用命令降低版本号即可 
+    如何在Lua中为Neovim插件制作UI ，翻译自官方Github的推荐的原文，该文章利用插件翻译会导致源码部分和注释部分都翻译，看起来难受，所以在此翻译。 
     </details> 
 
-- 🚀 [Swiper 实现 两行四列 轮播图](https://juejin.cn/post/7150525637025857544) | Tue Oct 04 2022 5:32 AM 
+- 🚀 [云原生日志收集方案Loki](https://juejin.cn/post/7150469420605767717) | Tue Oct 04 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 案例效果 基本样式 所需文件 循环遍历 
+    Loki是一款轻量级的云原生日志收集应用。帮助公司在低资源的情况下快速收集日志，一站式平台浏览日志查询内容。 
     </details> 
 
-- 💪 [【Redis】四大特殊的数据类型之 HyperLogLog](https://juejin.cn/post/7150518115846553637) | Tue Oct 04 2022 5:04 AM 
+- 💪 [2. Makefile 基础规则](https://juejin.cn/post/7150465330517639181) | Tue Oct 04 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-    我们都知道 Redis 提供了丰富的数据类型，特殊的有四种：BitMap，HLL，GEO，Stream。今天我们就来详细的聊聊 Redis 这四大特殊的数据类型之一 HyperLogLog； 
+    Makefile的基础规则与命名方式 更新目标文件的依据 时间戳检验测试 依赖执行顺序 变量的使用 「.PHONY」与「-」的作用与使用方法 - 编写一段程序的`makefile`文件。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
