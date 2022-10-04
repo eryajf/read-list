@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [NRF52832学习笔记（4）——GPIO输出接口使用](https://juejin.cn/post/7150491849474441224) | Tue Oct 04 2022 3:21 AM 
+- 🤗 [【Redis】redis安装与客户端redis-cli的使用&lpar;批量操作&rpar;](https://juejin.cn/post/7150506254434058277) | Tue Oct 04 2022 4:17 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 一、硬件连接 按键名称 引脚 控制方法 蜂鸣器 14 高电平响、低电平停 LED灯 23 高电平亮、低电 
+    在Centos中安装Redis 安装步骤 先创建一个文件夹用于存放redis mkdir /data/redis &amp; cd /data/redis 
     </details> 
 
-- 🎡 [【算法题解】 Day6 BFS | DFS](https://juejin.cn/post/7150491716028465189) | Tue Oct 04 2022 3:21 AM 
+- 🎡 [【Redis】位图以及位图的使用场景&lpar;统计在线人数和用户在线状态&rpar;](https://juejin.cn/post/7150505736907259917) | Tue Oct 04 2022 4:15 AM 
     <details><summary>展开描述 ...</summary> 
-    今天的算法是 「BFS | DFS」 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
+    位图 位图的最大优点之一是，它们在存储信息时通常可以节省大量空间 位图不是一个真实的数据类型，而是定义在 
     </details> 
 
-- 🕯 [软件版本命名规则](https://juejin.cn/post/7150491405901627423) | Tue Oct 04 2022 3:19 AM 
+- 🕯 [Zustand：更强大的 React 状态管理库](https://juejin.cn/post/7150504990505697310) | Tue Oct 04 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
-    作为一名程序开发者，对自己开发软件的版本名称，或许觉得只是一个很简单的事情：将程序编译打包部署。但实际发布时，可能常出现版本发布错误的问题。因此，作为一名开发者，对软件发布版本命名应该要有一定的了解 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 介绍 在这篇文章中，我会介绍 Zustand 在实际项目中的使用。 我会构建一个 GitHub 用户搜索 
     </details> 
 
-- 🚀 [关于 index.ts 在大型 Angular 项目中的应用](https://juejin.cn/post/7150491580556640264) | Tue Oct 04 2022 3:19 AM 
+- 🚀 [Android Jetpack Compose快速上手](https://juejin.cn/post/7150495589707284487) | Tue Oct 04 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 对于 Angular来说，模块&lpar;module&rpar;是一个容器/包&lpar;container/package&rpar;，用来 
+    一、Jetpack Compose简介 Jetpack Compose是Google推出的一个用于构建原生Android 界面的工具包，旨在帮助开发者更快、更轻松地在Android 平台上构建原生客户 
     </details> 
 
-- 💪 [【Flutter 异步编程 - 肆】 | 异步任务状态与组件构建](https://juejin.cn/post/7150490723215736863) | Tue Oct 04 2022 3:16 AM 
+- 💪 [Visual Studio Code Active File in StatusBar 扩展以及 Extension API 概述](https://juejin.cn/post/7150493335428268039) | Tue Oct 04 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    一、 用户交互与界面的反馈 经过前三篇，我们已经对异步概念有了基本的认知，也认识了 Future 和 Stream 两个对象的基本使用。Flutter 作为 UI 框架，最重要的工作是通过 构建组件  
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 这个扩展可以在 Visual Studio Code 的状态栏上实时显示当前选中文件在文件系统中的绝对路 
     </details> 
 <!-- juejin:END -->
 ### 少数派
