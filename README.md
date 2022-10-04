@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Axure RP 教程，如何在 Axure RP 中制作下拉搜索框？](https://juejin.cn/post/7150582947572088862) | Tue Oct 04 2022 9:15 AM 
+- 🤗 [LeetCode 121：买卖股票的时机](https://juejin.cn/post/7150606313578299405) | Tue Oct 04 2022 10:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情.  买卖股票的最佳时机 题目描述 给定一个数组 prices ，它的第 i 个元素 prices[i]  
+    </details> 
+
+- 🎡 [【极简动态规划 正则表达式匹配】](https://juejin.cn/post/7150598800355098632) | Tue Oct 04 2022 10:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 那就干吧！ 这个专栏都是刷的题目都是关于动态规划的,我会由浅入深、循序渐进，刷题就是这样需要连续不断的记 
+    </details> 
+
+- 🕯 [Axure RP 教程，如何在 Axure RP 中制作下拉搜索框？](https://juejin.cn/post/7150582947572088862) | Tue Oct 04 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
     欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中制作下拉搜索框。 
     </details> 
 
-- 🎡 [【SSO单点登录】JWT如何防篡改&amp;&amp;主动注销【黑白名单机制】](https://juejin.cn/post/7150581286929694751) | Tue Oct 04 2022 9:07 AM 
+- 🚀 [【SSO单点登录】JWT如何防篡改&amp;&amp;主动注销【黑白名单机制】](https://juejin.cn/post/7150581286929694751) | Tue Oct 04 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
     JWT残留的问题 如何防止JWT被篡改？ 扩展-- 数字签名 主动注销 白名单机制 黑名单机制 续签问题 OAuth2.0的refresh token刷新机制 
     </details> 
 
-- 🕯 [力扣：921. 使括号有效的最少添加](https://juejin.cn/post/7150581068561645604) | Tue Oct 04 2022 9:07 AM 
+- 💪 [力扣：921. 使括号有效的最少添加](https://juejin.cn/post/7150581068561645604) | Tue Oct 04 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 力扣——921. 使括号有效的最少添加 921. 使括号有效的最少添加 只有满足下面几点之一，括号字符串 
-    </details> 
-
-- 🚀 [使用 HammerDB 对 Citus 和 Postgres 进行 Benchmark，每分钟200万新订单处理测试&lpar;官方博客&rpar;](https://juejin.cn/post/7150580235065360421) | Tue Oct 04 2022 9:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    HammerDB 为您提供的用于比较基准运行的主要数字称为 NOPM（每分钟新订单数）。HammerDB 使用 NOPM 而不是 TPS（每秒事务数），以使 HammerDB 支持的不同数据库之间的数 
-    </details> 
-
-- 💪 [新旧身份证&lpar;继承&rpar;](https://juejin.cn/post/7150580097357971463) | Tue Oct 04 2022 9:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    ​​​持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 题目描述 按下述方式定义一个日期类CDate和描述15位身份证号的旧身份证类COldID: 然后以 
     </details> 
 <!-- juejin:END -->
 ### 少数派
