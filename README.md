@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [手摸手提桶跑路——LeetCode438. 找到字符串中所有字母异位词](https://juejin.cn/post/7150320640292028446) | Mon Oct 03 2022 4:18 PM 
+- 🤗 [macOS Monterey 2K 屏开 HiDPI](https://juejin.cn/post/7150466186600251399) | Tue Oct 04 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    给定两个字符串 s 和 p，找到 s 中所有 p 的异位词的子串，返回这些子串的起始索引。不考虑答案输出的顺序。异位词指由相同字母重排列形成的字符串（包括相同的字符串）。 
+    MacBook Monterey 2K 屏开 HiDPI 苹果原装 2k 和 1080p 都一言难尽啊（什么时候学学隔壁巨硬家极为先进的缩放技术），还是得开 HiDPI 
     </details> 
 
-- 🎡 [Winform中Textbox、NumericUpDown等修改高度，禁止输入数字或内容的实现](https://juejin.cn/post/7150315546171408398) | Mon Oct 03 2022 3:56 PM 
+- 🎡 [制作了一个马赛克图片转换器](https://juejin.cn/post/7150465824690536484) | Tue Oct 04 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Winform中的Textbox、NumericUpDown控件通常在单行的情况下，无法直接通过`Height`属性修改高度，但很多时候我们需要调整其高度，使其显示的更加合理，主要介绍三种方法... 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 制作了一个马赛克图片转换器，可以将图片转换成马赛克风格，并可转换为 css box-shadow 进行输 
     </details> 
 
-- 🕯 [Dubbo 常用的几个使用技巧](https://juejin.cn/post/7150314357262385182) | Mon Oct 03 2022 3:52 PM 
+- 🕯 [图解LeetCode——921. 使括号有效的最少添加（难度：中等）](https://juejin.cn/post/7150464878791098375) | Tue Oct 04 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 Dubbo 性能测试 通过测试我们初步可以判断 dubbo 的接口性能在 9k -1w 左右 配置多个注 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 一、题目 只有满足下面几点之一，括号字符串才是有效的： 给定一个括号字符串 s ，移动N次，你就可以在字 
     </details> 
 
-- 🚀 [国产系统Linux下的软件分享](https://juejin.cn/post/7150313187047538725) | Mon Oct 03 2022 3:47 PM 
+- 🚀 [2022年我的面试万字总结（JS篇上）](https://juejin.cn/post/7150462512817782815) | Tue Oct 04 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 本人linux小白，最近单位更换国产电脑使用了一段时间国产系统。看多了windows下的软件分享，今天我 
+    又到了金九银十季，最近我也是奔波于各种面试。我自己总结整理了很多方向的前端面试题。借着国庆这个假期，也把这些题目总结分享给大家，也祝正在面试的朋友们能够拿到满意的offer。 
     </details> 
 
-- 💪 [Swift - LeetCode - 数字转换为十六进制数](https://juejin.cn/post/7150311319114088455) | Mon Oct 03 2022 3:42 PM 
+- 💪 [OrthographicCamera&lpar;正交相机&rpar;，2D场景渲染之光](https://juejin.cn/post/7150462071576985607) | Tue Oct 04 2022 1:26 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 题目 给定一个整数，编写一个算法将这个数转换为十六进制数。对于负整数，我们通常使用 补码运算 方法。 注 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情。据说Three.js的OrthographicCamera&lpar;正交相机&rpar;很适合渲染2D场景。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
