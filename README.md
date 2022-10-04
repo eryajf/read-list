@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美光投资1000亿美元 &quot;全美最大半导体制造厂&quot;将在纽约兴建](https://www.cnbeta.com/articles/tech/1323753.htm) | Tue Oct 04 2022 2:33 PM 
+- 🕯 [谷歌发布Nest Wifi Pro路由器 支持Wi-Fi 6E](https://www.cnbeta.com/articles/tech/1323761.htm) | Tue Oct 04 2022 3:24 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;谷歌正在加强其网状网络产品的力度。周二，它宣布了Nest Wifi Pro，这是一款支持三频Wi-Fi 6E的路由器，可实现更快的潜在速度，每个路由器可连接100台设备，最多可连接300台设备。&lt;/strong&gt;就速度而言，与普通的谷歌Nest Wifi相比，这是一个很大的升级，后者是在2019年发布的，配备了双频802.11ac功能（如今被称为Wi-Fi 5）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [租赁公司Sixt将向比亚迪购买10万辆电动车用于欧洲车队](https://www.cnbeta.com/articles/tech/1323759.htm) | Tue Oct 04 2022 3:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;汽车租赁公司Sixt周二表示，从现在到2028年将打算向中国汽车制造商比亚迪购买超过10万辆电动汽车，用于其欧洲车队。&lt;/strong&gt;Sixt最初只承诺购买&amp;quot;几千辆&amp;quot;电动车，其中第一批将在今年交付，该公司在一份声明中说。Sixt表示，它将在2022年第四季度首先在德国、法国、荷兰和英国部署其新的比亚迪汽车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [俄罗斯人躲避征兵动员给诈骗犯罪分子可乘之机](https://www.cnbeta.com/articles/tech/1323757.htm) | Tue Oct 04 2022 2:57 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;自从俄罗斯总统弗拉基米尔-普京在乌克兰前线面临挫折后下令进行部分动员以来，&lt;strong&gt;俄罗斯男子和国家征兵官员正在进行一场涉及技术和网络犯罪服务的 &amp;quot;猫捉老鼠&amp;quot;游戏。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [部分Google地图活跃用户现在可获得免费的Google Fi无线服务](https://www.cnbeta.com/articles/tech/1323755.htm) | Tue Oct 04 2022 2:42 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;给Google地图上的元素发送评论有时可以为你带来好处，现在一些身在美国的本地导游称号的参与者收到了免费提供Google Fi服务的邀请。&lt;strong&gt;一些谷歌地图用户最近可能收到通知，说他们有资格在今年剩余时间内获得免费的Google Fi无线服务。假设收到通知用户这接受一优惠，那么三个月的Google Fi覆盖范围的免费服务195美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [美光投资1000亿美元 &quot;全美最大半导体制造厂&quot;将在纽约兴建](https://www.cnbeta.com/articles/tech/1323753.htm) | Tue Oct 04 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;半导体公司美光在周二的一份新闻稿中宣布，该公司正承诺投资1000亿美元在纽约州雪城附近建造一个芯片工厂。美光公司介绍说这是&amp;quot;美国历史上最大的半导体制造厂&amp;quot;。此举是由于美光希望利用拜登政府8月份通过的2800亿美元的CHIPS和科学法案的资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [CPU功耗奔向400W Intel推水冷散热：15000W都能压](https://www.cnbeta.com/articles/tech/1323751.htm) | Tue Oct 04 2022 2:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不论是AMD、NVIDIA还是Intel，大家购买他们的新一代CPU及GPU时都会面临两个问题，一个是价格、性能都在大幅提升，另一个就是功耗越来越夸张，散热压力大增，这事对普通消费者来说还能凑合接受，但对企业级用户来说，散热问题直接关系运营成本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [印度电动车初创公司Euler Motors融资6000万美元](https://www.cnbeta.com/articles/tech/1323749.htm) | Tue Oct 04 2022 2:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Euler Motors是一家设计和制造商用电动汽车的印度初创公司，在新一轮融资中筹集了6000万美元&lt;/strong&gt;，因为它正在努力提高其生产能力并扩大其产品范围。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [AirPods Pro 2出现bug 提示新机用户&quot;尽快更换电池&quot;](https://www.cnbeta.com/articles/tech/1323747.htm) | Tue Oct 04 2022 2:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一个错误正在提醒一些第二代AirPods Pro机主尽快&amp;quot;更换&amp;quot;电池，有趣的是他们拿到这款耳机也才几周时间。当AirPods Pro耳塞或MagSafe充电盒的电池电量不足时，这个错误似乎会从附近设备的Find My应用中触发电池更换通知。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [微软网站增加专题网页 详细介绍收购动视暴雪的好处](https://hot.cnbeta.com/articles/game/1323745.htm) | Tue Oct 04 2022 2:05 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;微软的官方网站上增加了一个新的专题网页，阐述了该公司即将收购动视暴雪的所有好处。&lt;/strong&gt;主题是&amp;quot;我们的游戏愿景&amp;quot;。该页面包含介绍，称微软和Xbox团队&amp;quot;希望让人们能够随时随地在任何设备上玩游戏&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
