@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [力扣：921. 使括号有效的最少添加](https://juejin.cn/post/7150581068561645604) | Tue Oct 04 2022 9:07 AM 
+- 🤗 [Axure RP 教程，如何在 Axure RP 中制作下拉搜索框？](https://juejin.cn/post/7150582947572088862) | Tue Oct 04 2022 9:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中制作下拉搜索框。 
+    </details> 
+
+- 🎡 [【SSO单点登录】JWT如何防篡改&amp;&amp;主动注销【黑白名单机制】](https://juejin.cn/post/7150581286929694751) | Tue Oct 04 2022 9:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    JWT残留的问题 如何防止JWT被篡改？ 扩展-- 数字签名 主动注销 白名单机制 黑名单机制 续签问题 OAuth2.0的refresh token刷新机制 
+    </details> 
+
+- 🕯 [力扣：921. 使括号有效的最少添加](https://juejin.cn/post/7150581068561645604) | Tue Oct 04 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 力扣——921. 使括号有效的最少添加 921. 使括号有效的最少添加 只有满足下面几点之一，括号字符串 
     </details> 
 
-- 🎡 [新旧身份证&lpar;继承&rpar;](https://juejin.cn/post/7150580097357971463) | Tue Oct 04 2022 9:02 AM 
+- 🚀 [使用 HammerDB 对 Citus 和 Postgres 进行 Benchmark，每分钟200万新订单处理测试&lpar;官方博客&rpar;](https://juejin.cn/post/7150580235065360421) | Tue Oct 04 2022 9:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    HammerDB 为您提供的用于比较基准运行的主要数字称为 NOPM（每分钟新订单数）。HammerDB 使用 NOPM 而不是 TPS（每秒事务数），以使 HammerDB 支持的不同数据库之间的数 
+    </details> 
+
+- 💪 [新旧身份证&lpar;继承&rpar;](https://juejin.cn/post/7150580097357971463) | Tue Oct 04 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
     ​​​持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 题目描述 按下述方式定义一个日期类CDate和描述15位身份证号的旧身份证类COldID: 然后以 
-    </details> 
-
-- 🕯 [Equation&lpar;类与对象+构造&rpar;](https://juejin.cn/post/7150579436558123039) | Tue Oct 04 2022 9:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    ​​持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 题目描述 建立一个类Equation，表达方程ax2+bx+c=0。类中至少包含以下方法： 1、无参 
-    </details> 
-
-- 🚀 [Leetcode:无重复字符的最长子串](https://juejin.cn/post/7150579088330080270) | Tue Oct 04 2022 8:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 引言 无重复字符的最长字串问题是大肠算法面试十分十分十分高频的算法题目，它的经典之处在于题目可以使用多种 
-    </details> 
-
-- 💪 [跟我一起使用 compose 做一个跨平台的黑白棋游戏（2）界面布局](https://juejin.cn/post/7150528430793031717) | Tue Oct 04 2022 5:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上一篇文章中，我们讲解了实现这个游戏的总体思路，这篇文章我们将讲解如何实现游戏界面。 本文将涉及到 compose 的自定义绘制与触摸处理 
     </details> 
 <!-- juejin:END -->
 ### 少数派
