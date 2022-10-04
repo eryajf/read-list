@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔对Arc GPU在数据中心和服务器中的使用持开放态度](https://www.cnbeta.com/articles/tech/1323705.htm) | Tue Oct 04 2022 10:22 AM 
+- 🕯 [张朝阳：杨振宁比霍金更伟大 但霍金对大众的传播更好](https://www.cnbeta.com/articles/science/1323731.htm) | Tue Oct 04 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔似乎对其Arc游戏GPU在数据中心和服务器中的使用持开放态度，这是CEO基辛格在最近接受ServerTheHome采访时指出的。英特尔的Arc品牌GPU主要是为游戏领域设计的，而该公司还将提供其FLEX品牌的GPU，旨在为工作站领域服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;霍金是教科书中经常出现的物理学家，这或许跟他本人励志的经历有关。有很多人好奇，究竟是霍金更伟大，还是成就非凡的杨振宁伟大？这个问题在网上引起了很多讨论。在前不久的举行的“科学大家杨振宁百岁华诞”活动中，搜狐CEO张朝阳谈到这个问题时表示，“这不算一个问题，（霍金与杨振宁）不是一个level”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三位科学家共同获得2022年诺贝尔物理学奖](https://www.cnbeta.com/articles/tech/1323703.htm) | Tue Oct 04 2022 9:57 AM 
+- 💼 [科学家研发AI激光炮塔击杀蟑螂 项目已开源](https://www.cnbeta.com/articles/tech/1323729.htm) | Tue Oct 04 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间10月4日17:45，在瑞典首都斯德哥尔摩，瑞典皇家科学院宣布，&lt;strong&gt;将2022年诺贝尔物理学奖授予Alain Aspect、John F. Clauser 和 Anton Zeilinger，以表彰他们在量子信息科学研究方面作出的贡献。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;广东的同学应该都体验过蟑螂的折磨。没到过南方的同学可能不太理解：&lt;strong&gt;“区区一个蟑螂，那不是一拖鞋的事”&lt;/strong&gt;？不，北方人眼中的蟑螂和北方人看到的南方蟑螂是不一样的。据说，蟑螂还有特别强的进化能力，蟑螂药只能管几代，只要用几次，蟑螂就能产生抗药性，生物消灭感觉有点难。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323729.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软证实Windows 11 22H2在复制大文件时会出现性能下降的问题](https://www.cnbeta.com/articles/tech/1323701.htm) | Tue Oct 04 2022 9:53 AM 
+- 💂 [LG在达拉斯首次展示136英寸4K microLED豪华电视机](https://www.cnbeta.com/articles/tech/1323727.htm) | Tue Oct 04 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软已经确认了最近发布的Windows 11 2022更新中的另一个问题。Windows服务器工程组的首席项目经理Ned Pyle在技术社区论坛上发表了一篇文章，警告用户在从远程计算机复制大文件到运行最新版本Windows 11的系统时出现性能下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;LG最近在达拉斯举行的CEDIA 2022家庭技术博览会上首次公开展示了其MAGNIT 4K 136英寸豪华电视，它结合了AI增强处理、智能电视平台和Micro LED技术，承诺提供&amp;quot;家庭影院、数字艺术和娱乐体验&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [万事达卡发布打击欺诈行为的新系统Crypto Secure 进一步深入加密货币领域](https://www.cnbeta.com/articles/tech/1323699.htm) | Tue Oct 04 2022 9:46 AM 
+- 🚀 [富士康对iPhone 14带动的收入依然持&quot;谨慎乐观&quot;态度](https://www.cnbeta.com/articles/tech/1323725.htm) | Tue Oct 04 2022 12:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;万事达卡将于周二首次推出一款新的软件，帮助银行识别和切断来自易受欺诈的加密货币交易所的交易，该系统名为Crypto Secure，使用&amp;quot;复杂的&amp;quot;人工智能算法来确定与万事达支付网络上的加密货币交易所有关的犯罪风险。&lt;/strong&gt;该系统依赖于区块链的数据，区块链是加密货币交易的公共记录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;富士康在9月份创造了新的销售纪录，使苹果的主要装配伙伴在第四季度业绩前&amp;quot;谨慎乐观&amp;quot;。&lt;/strong&gt;在9月14日推出iPhone之后，苹果的供应链成员预计将受到智能手机系列季节性高销量的提振。尽管在全球经济不景气的背景下，主要组装公司富士康似乎要感受到这种影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [SOAR望远镜捕捉到DART与小行星Dimorphos碰撞后的巨大碎片痕迹](https://www.cnbeta.com/articles/science/1323697.htm) | Tue Oct 04 2022 9:17 AM 
+- 🎊 [强大的X1级太阳耀斑已经从太阳喷发出来](https://www.cnbeta.com/articles/science/1323723.htm) | Tue Oct 04 2022 12:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;位于智利的SOAR望远镜在Dimorphos小行星被NASA的DART航天器撞击两天后，拍摄到了从该小行星表面炸出的超过10000公里长的碎片痕迹。美国宇航局的双小行星重定向测试（DART）航天器在2022年9月26日星期一故意撞向Didymos双小行星系统中的小行星Dimorphos，即小行星的卫星。这是第一次行星防御试验，其中一个航天器试图通过动能撞击来修改小行星的轨道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;太阳发出了强烈的太阳耀斑，整个活动周期在2022年10月2日美国东部时间下午4点25分（太平洋时间下午1点25分）达到顶峰。美国宇航局的太阳动力学观测站不断观察太阳，捕捉到了该事件的图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
