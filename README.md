@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Padel Watch - 通过 Apple Watch 跟踪您的板球比赛](https://xinquji.com/posts/180141?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:33 AM 
+- 👀 [Compensation Hub - 发现、比较、定制和分享薪酬计划](https://xinquji.com/posts/180156?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     通过 Apple Watch 跟踪您的板球比赛  
+     发现、比较、定制和分享薪酬计划  
     </details> 
 
-- 🥷 [ToolPool - 一站式解决方案，为您的工作提供所有工具](https://xinquji.com/posts/180140?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:32 AM 
+- 🥷 [GitStory - 互联网 Git 的时光机](https://xinquji.com/posts/180155?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-     一站式解决方案，为您的工作提供所有工具  
+     互联网 Git 的时光机  
     </details> 
 
-- 💼 [YouCheck - 安全地买卖文件的软件，没有诈骗](https://xinquji.com/posts/180139?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:31 AM 
+- 💼 [Technicaly - 只需 599 美元 / 月即可为您的初创公司聘请技术作家](https://xinquji.com/posts/180154?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-     安全地买卖文件的软件，没有诈骗  
+     只需 599 美元 / 月即可为您的初创公司聘请技术作家  
     </details> 
 
-- 🦅 [The Remote Job - 在很酷的行业中寻找远程工作](https://xinquji.com/posts/180138?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:29 AM 
+- 🦅 [PageProof checklists - 实现创意工作合规的简单方法](https://xinquji.com/posts/180153?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-     在很酷的行业中寻找远程工作  
+     实现创意工作合规的简单方法  
     </details> 
 
-- 😺 [Moolah - 自动优惠券猎人](https://xinquji.com/posts/180137?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:29 AM 
+- 😺 [TopHap Explorer - 每个人的房地产见解](https://xinquji.com/posts/180152?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     自动优惠券猎人  
+     每个人的房地产见解  
     </details> 
 <!-- xinquji:END -->
