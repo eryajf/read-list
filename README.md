@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [图像生成AI，压缩图像的效果好于JPEG或WebP](http://jandan.net/p/111407) | Mon Oct 03 2022 3:26 PM 
+- 🚀 [今日好价 1004](http://jandan.net/p/111429) | Tue Oct 04 2022 3:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：34 
+    </details> 
+
+- 🙉 [图像生成AI，压缩图像的效果好于JPEG或WebP](http://jandan.net/p/111407) | Mon Oct 03 2022 3:26 PM 
     <details><summary>展开描述 ...</summary> 
     视觉伪影更少 
     </details> 
 
-- 🙉 [非侵入性、3分钟诊断帕金森症](http://jandan.net/p/111428) | Mon Oct 03 2022 11:53 AM 
+- 🎉 [非侵入性、3分钟诊断帕金森症](http://jandan.net/p/111428) | Mon Oct 03 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
     在采集皮肤拭子后3分钟 
     </details> 
 
-- 🎉 [找工作，哪种人际关系最有帮助？是通过密友还是不太熟的陌生人](http://jandan.net/p/111365) | Mon Oct 03 2022 6:27 AM 
+- 🐲 [找工作，哪种人际关系最有帮助？是通过密友还是不太熟的陌生人](http://jandan.net/p/111365) | Mon Oct 03 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
     1973 年，美国社会学家马克·格兰诺维特在社交网络的背景下创造了“弱关系的力量”这一短语 
     </details> 
 
-- 🐲 [今日好价 1003](http://jandan.net/p/111426) | Mon Oct 03 2022 2:57 AM 
+-  [今日好价 1003](http://jandan.net/p/111426) | Mon Oct 03 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：32 
-    </details> 
-
--  [现代社交/通信应用 导致小孩子每周损失一晚的睡眠](http://jandan.net/p/111377) | Sun Oct 02 2022 1:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    他们睡着之前总忍不住拿起手机看看朋友们发布了啥 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
