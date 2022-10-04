@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [SOAR望远镜捕捉到DART与小行星Dimorphos碰撞后的巨大碎片痕迹](https://www.cnbeta.com/articles/science/1323697.htm) | Tue Oct 04 2022 9:17 AM 
+- 🕯 [英特尔对Arc GPU在数据中心和服务器中的使用持开放态度](https://www.cnbeta.com/articles/tech/1323705.htm) | Tue Oct 04 2022 10:22 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;英特尔似乎对其Arc游戏GPU在数据中心和服务器中的使用持开放态度，这是CEO基辛格在最近接受ServerTheHome采访时指出的。英特尔的Arc品牌GPU主要是为游戏领域设计的，而该公司还将提供其FLEX品牌的GPU，旨在为工作站领域服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [三位科学家共同获得2022年诺贝尔物理学奖](https://www.cnbeta.com/articles/tech/1323703.htm) | Tue Oct 04 2022 9:57 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;北京时间10月4日17:45，在瑞典首都斯德哥尔摩，瑞典皇家科学院宣布，&lt;strong&gt;将2022年诺贝尔物理学奖授予Alain Aspect、John F. Clauser 和 Anton Zeilinger，以表彰他们在量子信息科学研究方面作出的贡献。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [微软证实Windows 11 22H2在复制大文件时会出现性能下降的问题](https://www.cnbeta.com/articles/tech/1323701.htm) | Tue Oct 04 2022 9:53 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;微软已经确认了最近发布的Windows 11 2022更新中的另一个问题。Windows服务器工程组的首席项目经理Ned Pyle在技术社区论坛上发表了一篇文章，警告用户在从远程计算机复制大文件到运行最新版本Windows 11的系统时出现性能下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [万事达卡发布打击欺诈行为的新系统Crypto Secure 进一步深入加密货币领域](https://www.cnbeta.com/articles/tech/1323699.htm) | Tue Oct 04 2022 9:46 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;万事达卡将于周二首次推出一款新的软件，帮助银行识别和切断来自易受欺诈的加密货币交易所的交易，该系统名为Crypto Secure，使用&amp;quot;复杂的&amp;quot;人工智能算法来确定与万事达支付网络上的加密货币交易所有关的犯罪风险。&lt;/strong&gt;该系统依赖于区块链的数据，区块链是加密货币交易的公共记录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [SOAR望远镜捕捉到DART与小行星Dimorphos碰撞后的巨大碎片痕迹](https://www.cnbeta.com/articles/science/1323697.htm) | Tue Oct 04 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;位于智利的SOAR望远镜在Dimorphos小行星被NASA的DART航天器撞击两天后，拍摄到了从该小行星表面炸出的超过10000公里长的碎片痕迹。美国宇航局的双小行星重定向测试（DART）航天器在2022年9月26日星期一故意撞向Didymos双小行星系统中的小行星Dimorphos，即小行星的卫星。这是第一次行星防御试验，其中一个航天器试图通过动能撞击来修改小行星的轨道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [纹身设计师控告《WWE 2K》系列纹身设计侵权案胜诉](https://hot.cnbeta.com/articles/game/1323695.htm) | Tue Oct 04 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;纹身设计师因设计被《WWE 2K》游戏抄袭，起诉2K Sports及其母公司Take-Two并获得胜诉。Catherine Alexander于2018年发起诉讼，称她的纹身设计在未经允许的情况下出现在《WWE 2K16》、《WWE 2K17》和《WWE 2K18》游戏中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [日媒：特斯拉同款车美国售价高于中国 差距还在拉大](https://www.cnbeta.com/articles/tech/1323693.htm) | Tue Oct 04 2022 8:11 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据《日本经济新闻》4日报道，在电动汽车（EV）的两大市场美国和中国，美国特斯拉公司同一车型的售价差距在拉大。在持续出现高通货膨胀的美国，由于2021年以后反复涨价，其主力车型“Model 3”的最低配置款在美国的售价比在中国高出大约7840美元（1美元约合人民币7.1元）。另一方面，特斯拉在中国进行了实打实的打折，开始直面与当地车企的激烈竞争。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [华硕成立元宇宙公司 将建立NFT平台打造个性化收藏品](https://www.cnbeta.com/articles/tech/1323691.htm) | Tue Oct 04 2022 8:06 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据界面新闻今日报道，华硕正式进军元宇宙，&lt;strong&gt;成立“华硕元宇宙股份有限公司”。&lt;/strong&gt;据了解，&lt;strong&gt;华硕将会整合云端运算、人工智慧、区块链等资源，推出“跨界应用NFT平台”。&lt;/strong&gt;该平台可以通过艺术、摄影、时尚、影音和游戏等相关内容及IP，让更多人在元宇宙中，透过NFT打造个人化角色、空间，甚至拥有现实中遥不可及的梦幻收藏品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [传Meta拟关闭其纽约一办公室](https://www.cnbeta.com/articles/tech/1323689.htm) | Tue Oct 04 2022 7:59 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据知情人士透露，在缩减了位于纽约的扩张计划后，Meta Platforms（META.US）计划关闭其在纽约的一个办公室。知情人士称，该公司正在行使选择权，终止其在曼哈顿公园大道南225号的租约。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
