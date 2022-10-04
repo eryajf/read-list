@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌发布Nest Wifi Pro路由器 支持Wi-Fi 6E](https://www.cnbeta.com/articles/tech/1323761.htm) | Tue Oct 04 2022 3:24 PM 
+- 🕯 [谷歌开始推广其iOS 16锁屏小工具](https://www.cnbeta.com/articles/soft/1323781.htm) | Tue Oct 04 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;谷歌正在加强其网状网络产品的力度。周二，它宣布了Nest Wifi Pro，这是一款支持三频Wi-Fi 6E的路由器，可实现更快的潜在速度，每个路由器可连接100台设备，最多可连接300台设备。&lt;/strong&gt;就速度而言，与普通的谷歌Nest Wifi相比，这是一个很大的升级，后者是在2019年发布的，配备了双频802.11ac功能（如今被称为Wi-Fi 5）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;谷歌iOS 16锁屏小工具现在已经开始到来。&lt;/strong&gt;伴随着苹果新的移动操作系统iOS 16的推出，这家搜索巨头上个月曾预告它计划支持iPhone的最新功能，即允许用户直接在手机锁屏上放置小部件，提供信息并方便用户访问喜爱的应用程序。谷歌表示，它将很快发布一些顶级应用的部件，包括搜索、地图、Gmail等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1323781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [租赁公司Sixt将向比亚迪购买10万辆电动车用于欧洲车队](https://www.cnbeta.com/articles/tech/1323759.htm) | Tue Oct 04 2022 3:12 PM 
+- 💼 [非官方应用商店对苹果的诉讼被驳回后 Cydia运营主体提出上诉](https://www.cnbeta.com/articles/tech/1323779.htm) | Tue Oct 04 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;汽车租赁公司Sixt周二表示，从现在到2028年将打算向中国汽车制造商比亚迪购买超过10万辆电动汽车，用于其欧洲车队。&lt;/strong&gt;Sixt最初只承诺购买&amp;quot;几千辆&amp;quot;电动车，其中第一批将在今年交付，该公司在一份声明中说。Sixt表示，它将在2022年第四季度首先在德国、法国、荷兰和英国部署其新的比亚迪汽车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;根据法庭文件，Cydia母公司SaurikIT, LLC在美国地区法官Yvonne Gonzalez Rogers上个月驳回该公司对苹果的反垄断诉讼后，已向美国第九巡回上诉法院提出上诉。&lt;/strong&gt;SaurikIT在2020年底起诉苹果公司，称鉴于App Store是用户可以在iPhone和iPad上下载应用的唯一授权市场，该公司对iOS应用分发有非法垄断的嫌疑。诉状还称，苹果公司&amp;quot;一直试图扼杀其他应用商店，&amp;quot;其中包括Cydia。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [俄罗斯人躲避征兵动员给诈骗犯罪分子可乘之机](https://www.cnbeta.com/articles/tech/1323757.htm) | Tue Oct 04 2022 2:57 PM 
+- 💂 [苹果公司正在试探性地踏入更多美国本土制造领域](https://www.cnbeta.com/articles/tech/1323777.htm) | Tue Oct 04 2022 4:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自从俄罗斯总统弗拉基米尔-普京在乌克兰前线面临挫折后下令进行部分动员以来，&lt;strong&gt;俄罗斯男子和国家征兵官员正在进行一场涉及技术和网络犯罪服务的 &amp;quot;猫捉老鼠&amp;quot;游戏。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司正在慢慢地在美国增加更多的制造基地，公司发布的2021财年供应商名单显示，截至2021年9月，其180家供应商中有48家已将部分业务转移到美国。这个数字比2020年的25家供应商有所增加。重点是加州，超过30个生产基地在加州，而2020年还不到10个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [部分Google地图活跃用户现在可获得免费的Google Fi无线服务](https://www.cnbeta.com/articles/tech/1323755.htm) | Tue Oct 04 2022 2:42 PM 
+- 🚀 [让恐龙灭绝的小行星引发了毁灭性的全球海啸](https://www.cnbeta.com/articles/science/1323775.htm) | Tue Oct 04 2022 4:02 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;给Google地图上的元素发送评论有时可以为你带来好处，现在一些身在美国的本地导游称号的参与者收到了免费提供Google Fi服务的邀请。&lt;strong&gt;一些谷歌地图用户最近可能收到通知，说他们有资格在今年剩余时间内获得免费的Google Fi无线服务。假设收到通知用户这接受一优惠，那么三个月的Google Fi覆盖范围的免费服务195美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;科学家们长期以来一直在研究位于墨西哥南部尤卡坦半岛下的奇克苏鲁布撞击坑&lt;/strong&gt;。该撞击坑是大约6600万年前一次改变地球的撞击结果。这次撞击是由一块岩石以大约每小时27000英里的速度砸向地球而形成的，颠覆了地球上的生命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美光投资1000亿美元 &quot;全美最大半导体制造厂&quot;将在纽约兴建](https://www.cnbeta.com/articles/tech/1323753.htm) | Tue Oct 04 2022 2:33 PM 
+- 🎊 [六大旗舰荒野信号测试：华为没5G依然第一 最差果然是iPhone](https://www.cnbeta.com/articles/tech/1323773.htm) | Tue Oct 04 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;半导体公司美光在周二的一份新闻稿中宣布，该公司正承诺投资1000亿美元在纽约州雪城附近建造一个芯片工厂。美光公司介绍说这是&amp;quot;美国历史上最大的半导体制造厂&amp;quot;。此举是由于美光希望利用拜登政府8月份通过的2800亿美元的CHIPS和科学法案的资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iPhone手机信号差，已经成为公认“真理”，而每一代安卓旗舰都号称自己的信号很牛。是骡子是马，拉出来遛遛。近日，数字尾巴编辑部就对六款最新旗舰进行了野外信号测试，&lt;strong&gt;结果华为第一，iPhone果然倒数第一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
