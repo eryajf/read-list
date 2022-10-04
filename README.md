@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面向对象究竟是什么鬼？该如何理解？](https://juejin.cn/post/7150673107290685477) | Tue Oct 04 2022 3:04 PM 
+- 🤗 [Swift - LeetCode - 最长回文串](https://juejin.cn/post/7150683501325451300) | Tue Oct 04 2022 3:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 题目 给定一个包含大写字母和小写字母的字符串 s，返回 通过这些字母构造成的 最长的回文串。 在构造过程 
+    </details> 
+
+- 🎡 [六六力扣刷题哈希表之两个数组的交集](https://juejin.cn/post/7150679839551750152) | Tue Oct 04 2022 3:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两天晒网，刷几天，然 
+    </details> 
+
+- 🕯 [TCP/IP 4 层协议分层](https://juejin.cn/post/7150678024894021663) | Tue Oct 04 2022 3:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 TCP/IP 4 层协议 应用层 应用层是最上层的，我们能直接接触到的层，我们日常所使用的软件都是在应用 
+    </details> 
+
+- 🚀 [面向对象究竟是什么鬼？该如何理解？](https://juejin.cn/post/7150673107290685477) | Tue Oct 04 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
     基本所有的高级语言都支持面向对象编程（Object Oriented Programming, OOP），理解 OOP 的概念是程序员的基本要求；然而很多书籍对 OOP 的讲解都是照本宣科，把一个简单 
     </details> 
 
-- 🎡 [JavaScript 循环语句](https://juejin.cn/post/7150669686751887397) | Tue Oct 04 2022 2:50 PM 
+- 💪 [JavaScript 循环语句](https://juejin.cn/post/7150669686751887397) | Tue Oct 04 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
     循环语句之for 循环语句用于重复执行某个操作，它有多种形式。 for语句是循环命令的另一种形式，可以指定循环的起点、终点和终止条件。它的格式如下。 for语句后面的括号里面，有三个表达式。 下面是一 
-    </details> 
-
-- 🕯 [推荐12个值得学习的TypeScript宝库！](https://juejin.cn/post/7150668738990178312) | Tue Oct 04 2022 2:47 PM 
-    <details><summary>展开描述 ...</summary> 
-    TypeScript是微软开发的一个开源的编程语言，通过在JavaScript的基础上添加静态类型定义构建而成。TypeScript通过TypeScript编译器或Babel转译为JavaScript 
-    </details> 
-
-- 🚀 [Spring事务原理一（如何织入AOP）](https://juejin.cn/post/7150668741972328479) | Tue Oct 04 2022 2:47 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 直入主题 我们想要了解spring的事务原理，首先从注解EnableTransactionManagem 
-    </details> 
-
-- 💪 [LeetCode合并二叉树使用JavaScript解题|前端学算法](https://juejin.cn/post/7150666042837041183) | Tue Oct 04 2022 2:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    前端使用JavaScript解决LeetCode合并二叉树的算法题，前端学算法，每天三分钟了解一个知识点 
     </details> 
 <!-- juejin:END -->
 ### 少数派
