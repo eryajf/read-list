@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家设计出食油微生物 排泄出世界上最便宜的&quot;清洁&quot;氢气](https://www.cnbeta.com/articles/science/1323681.htm) | Tue Oct 04 2022 7:19 AM 
+- 🕯 [日媒：特斯拉同款车美国售价高于中国 差距还在拉大](https://www.cnbeta.com/articles/tech/1323693.htm) | Tue Oct 04 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;德克萨斯州的Cemvita公司在实验室和现场测试了一种迷人的新技术后，表示未来清洁氢气的价格可以低于1美元/公斤。这个想法是将专门开发的微生物泵入枯竭的油井，在那里它们会吃油并排泄氢气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据《日本经济新闻》4日报道，在电动汽车（EV）的两大市场美国和中国，美国特斯拉公司同一车型的售价差距在拉大。在持续出现高通货膨胀的美国，由于2021年以后反复涨价，其主力车型“Model 3”的最低配置款在美国的售价比在中国高出大约7840美元（1美元约合人民币7.1元）。另一方面，特斯拉在中国进行了实打实的打折，开始直面与当地车企的激烈竞争。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [关于三星Galaxy S23系列的电池和摄像头的更多细节被披露](https://www.cnbeta.com/articles/tech/1323679.htm) | Tue Oct 04 2022 7:07 AM 
+- 💼 [华硕成立元宇宙公司 将建立NFT平台打造个性化收藏品](https://www.cnbeta.com/articles/tech/1323691.htm) | Tue Oct 04 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星Galaxy S23、Galaxy S23+和Galaxy S23 Ultra上个月通过了3C认证，配备25W充电器，但认证机构没有透露它们的电池容量。&lt;strong&gt;有传言称，Galaxy S23的电池容量将在3900毫安时左右（比S22的电池大200毫安时），现在，关于Galaxy S23 Plus和Ultra型号电池的细节也浮出水面。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据界面新闻今日报道，华硕正式进军元宇宙，&lt;strong&gt;成立“华硕元宇宙股份有限公司”。&lt;/strong&gt;据了解，&lt;strong&gt;华硕将会整合云端运算、人工智慧、区块链等资源，推出“跨界应用NFT平台”。&lt;/strong&gt;该平台可以通过艺术、摄影、时尚、影音和游戏等相关内容及IP，让更多人在元宇宙中，透过NFT打造个人化角色、空间，甚至拥有现实中遥不可及的梦幻收藏品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [回收利用技术的突破将一种常见的塑料变成另一种塑料](https://www.cnbeta.com/articles/science/1323677.htm) | Tue Oct 04 2022 7:05 AM 
+- 💂 [传Meta拟关闭其纽约一办公室](https://www.cnbeta.com/articles/tech/1323689.htm) | Tue Oct 04 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为了减少与塑料制造和处置相关的环境负担，科学家们展示了一种新的升级回收技术，它能将一种常见的塑料形式变成另一种。该团队表示，他们也有办法扩大和实施他们的技术，他们认为这种技术的广泛运用可能会让全球温室气体排放的大规模减少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据知情人士透露，在缩减了位于纽约的扩张计划后，Meta Platforms（META.US）计划关闭其在纽约的一个办公室。知情人士称，该公司正在行使选择权，终止其在曼哈顿公园大道南225号的租约。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [比亚迪将特斯拉赶下了王座](https://www.cnbeta.com/articles/tech/1323675.htm) | Tue Oct 04 2022 7:00 AM 
+- 🚀 [《指环王》第二季开拍](https://hot.cnbeta.com/articles/movie/1323687.htm) | Tue Oct 04 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;span style=&quot;&quot;&gt;新能源市场的王者之争愈发激烈了。一边是比亚迪9月卖车超20万辆，不断给市场惊喜；一边是特斯拉销售下滑，推出的人形机器人也被吐槽，股价狂泻，这两位全球新能源汽车的巨头，来到了新赛点。“迪王”10月3日公布的产销数据显示，今年9月，比亚迪月度销量首次突破20万辆，达到201259辆，同比增长151.2%。其中新能源乘用车销量200973辆，同比增长187%。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊宣布这部史上最贵剧集已于当地时间本周一在伦敦郊外的Bray摄影棚开拍下一季，同为八集编制。该剧首季在新西兰拍摄，期间因疫情关系拖了18个月之久，制作周期同样名列电视剧之最。第二季搬到英国拍摄，据说能节省经费。亚马逊正将英国打造为拍摄基地，供旗下多个节目使用（比如黑袍纠察队）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美国因飓风“伊恩”遇难人数过百](https://www.cnbeta.com/articles/tech/1323673.htm) | Tue Oct 04 2022 6:50 AM 
+- 🎊 [VLC开发商VideoLAN就遭遇禁令向印度监管部门发出法律通知](https://www.cnbeta.com/articles/tech/1323685.htm) | Tue Oct 04 2022 7:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国媒体报道，截至3日晚，飓风“伊恩”已在美国造成百余人遇难。统计数据显示，美国佛罗里达州已确认101人遇难，北卡罗来纳州已确认4人遇难。在佛罗里达州，利县和夏洛特县分别确认54人和24人遇难。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;流行媒体播放器VLC的开发商和运营商VideoLAN向印度信息技术和电信部（DoT）提交了一份法律通知，称该机构在封杀VLC的网站之前没有通知该软件开发商，也没有给它一个解释的机会。VideoLAN总裁和主要开发者Jean-Baptiste Kempf在早些时候的采访中称，自今年2月以来，印度电信运营商一直在封锁VideoLAN的网站，该网站列出了下载VLC的链接。印度是VLC的最大市场之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
