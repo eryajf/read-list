@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [stylus修改主题 以及系统目录更改](https://juejin.cn/post/7150525997572587533) | Tue Oct 04 2022 5:34 AM 
+- 🤗 [小程序面试8问，你能接下几招？](https://juejin.cn/post/7150542902651781127) | Tue Oct 04 2022 6:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    你在面试的时候有被问到过小程序吗？你答上来了吗？下面的这面试官8问你能接招吗？掌握这8道面试题，基本在面试中就能如鱼得水了 
+    </details> 
+
+- 🎡 [如何高效加载资源和手撸一个资源加载器](https://juejin.cn/post/7150535619423240199) | Tue Oct 04 2022 6:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是云牧，这次说的是资源加载，包含如何统计页面渲染加载时间和优化，最后我们会手动实现一个资源加载器。包含缓存，依赖，进度控制等 
+    </details> 
+
+- 🕯 [stylus修改主题 以及系统目录更改](https://juejin.cn/post/7150525997572587533) | Tue Oct 04 2022 5:34 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 stylus 修改主题 安装stylus 当安装完成后 使用时可能会出现版本冲突 使用命令降低版本号即可 
     </details> 
 
-- 🎡 [Swiper 实现 两行四列 轮播图](https://juejin.cn/post/7150525637025857544) | Tue Oct 04 2022 5:32 AM 
+- 🚀 [Swiper 实现 两行四列 轮播图](https://juejin.cn/post/7150525637025857544) | Tue Oct 04 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 案例效果 基本样式 所需文件 循环遍历 
     </details> 
 
-- 🕯 [【Redis】四大特殊的数据类型之 HyperLogLog](https://juejin.cn/post/7150518115846553637) | Tue Oct 04 2022 5:04 AM 
+- 💪 [【Redis】四大特殊的数据类型之 HyperLogLog](https://juejin.cn/post/7150518115846553637) | Tue Oct 04 2022 5:04 AM 
     <details><summary>展开描述 ...</summary> 
     我们都知道 Redis 提供了丰富的数据类型，特殊的有四种：BitMap，HLL，GEO，Stream。今天我们就来详细的聊聊 Redis 这四大特殊的数据类型之一 HyperLogLog； 
-    </details> 
-
-- 🚀 [Docker常用镜像命令之——CMD、ENTRYPOINT以及VOLUME命令](https://juejin.cn/post/7150517549422084109) | Tue Oct 04 2022 5:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，本篇文章我们继续了解Docker常用的镜像命令，CMD、ENTRYPOINT以及VOLUME命令 
-    </details> 
-
-- 💪 [谷歌翻译结束了中国大陆业务；投资炼金术！用户投资交易辅助系统；矢量搜索应用指南与最佳实践；可调整参数的AI绘图插件；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7150514470975078414) | Tue Oct 04 2022 4:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    投资炼金术用户投资交易辅助系统、为机器学习与复杂数据设计的快速可扩展数据库、视频恢复工具包、基于GPT-3的自然语言查询工具、txt2img2img 绘图插件、前沿论文… 
     </details> 
 <!-- juejin:END -->
 ### 少数派
