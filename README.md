@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [日媒：特斯拉同款车美国售价高于中国 差距还在拉大](https://www.cnbeta.com/articles/tech/1323693.htm) | Tue Oct 04 2022 8:11 AM 
+- 🕯 [SOAR望远镜捕捉到DART与小行星Dimorphos碰撞后的巨大碎片痕迹](https://www.cnbeta.com/articles/science/1323697.htm) | Tue Oct 04 2022 9:17 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;位于智利的SOAR望远镜在Dimorphos小行星被NASA的DART航天器撞击两天后，拍摄到了从该小行星表面炸出的超过10000公里长的碎片痕迹。美国宇航局的双小行星重定向测试（DART）航天器在2022年9月26日星期一故意撞向Didymos双小行星系统中的小行星Dimorphos，即小行星的卫星。这是第一次行星防御试验，其中一个航天器试图通过动能撞击来修改小行星的轨道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [纹身设计师控告《WWE 2K》系列纹身设计侵权案胜诉](https://hot.cnbeta.com/articles/game/1323695.htm) | Tue Oct 04 2022 8:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;纹身设计师因设计被《WWE 2K》游戏抄袭，起诉2K Sports及其母公司Take-Two并获得胜诉。Catherine Alexander于2018年发起诉讼，称她的纹身设计在未经允许的情况下出现在《WWE 2K16》、《WWE 2K17》和《WWE 2K18》游戏中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [日媒：特斯拉同款车美国售价高于中国 差距还在拉大](https://www.cnbeta.com/articles/tech/1323693.htm) | Tue Oct 04 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据《日本经济新闻》4日报道，在电动汽车（EV）的两大市场美国和中国，美国特斯拉公司同一车型的售价差距在拉大。在持续出现高通货膨胀的美国，由于2021年以后反复涨价，其主力车型“Model 3”的最低配置款在美国的售价比在中国高出大约7840美元（1美元约合人民币7.1元）。另一方面，特斯拉在中国进行了实打实的打折，开始直面与当地车企的激烈竞争。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华硕成立元宇宙公司 将建立NFT平台打造个性化收藏品](https://www.cnbeta.com/articles/tech/1323691.htm) | Tue Oct 04 2022 8:06 AM 
+- 🚀 [华硕成立元宇宙公司 将建立NFT平台打造个性化收藏品](https://www.cnbeta.com/articles/tech/1323691.htm) | Tue Oct 04 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据界面新闻今日报道，华硕正式进军元宇宙，&lt;strong&gt;成立“华硕元宇宙股份有限公司”。&lt;/strong&gt;据了解，&lt;strong&gt;华硕将会整合云端运算、人工智慧、区块链等资源，推出“跨界应用NFT平台”。&lt;/strong&gt;该平台可以通过艺术、摄影、时尚、影音和游戏等相关内容及IP，让更多人在元宇宙中，透过NFT打造个人化角色、空间，甚至拥有现实中遥不可及的梦幻收藏品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [传Meta拟关闭其纽约一办公室](https://www.cnbeta.com/articles/tech/1323689.htm) | Tue Oct 04 2022 7:59 AM 
+- 🎊 [传Meta拟关闭其纽约一办公室](https://www.cnbeta.com/articles/tech/1323689.htm) | Tue Oct 04 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据知情人士透露，在缩减了位于纽约的扩张计划后，Meta Platforms（META.US）计划关闭其在纽约的一个办公室。知情人士称，该公司正在行使选择权，终止其在曼哈顿公园大道南225号的租约。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《指环王》第二季开拍](https://hot.cnbeta.com/articles/movie/1323687.htm) | Tue Oct 04 2022 7:56 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊宣布这部史上最贵剧集已于当地时间本周一在伦敦郊外的Bray摄影棚开拍下一季，同为八集编制。该剧首季在新西兰拍摄，期间因疫情关系拖了18个月之久，制作周期同样名列电视剧之最。第二季搬到英国拍摄，据说能节省经费。亚马逊正将英国打造为拍摄基地，供旗下多个节目使用（比如黑袍纠察队）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [VLC开发商VideoLAN就遭遇禁令向印度监管部门发出法律通知](https://www.cnbeta.com/articles/tech/1323685.htm) | Tue Oct 04 2022 7:50 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;流行媒体播放器VLC的开发商和运营商VideoLAN向印度信息技术和电信部（DoT）提交了一份法律通知，称该机构在封杀VLC的网站之前没有通知该软件开发商，也没有给它一个解释的机会。VideoLAN总裁和主要开发者Jean-Baptiste Kempf在早些时候的采访中称，自今年2月以来，印度电信运营商一直在封锁VideoLAN的网站，该网站列出了下载VLC的链接。印度是VLC的最大市场之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
