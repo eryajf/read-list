@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [摩尔线程国产显卡偷跑：2GB显存 支持4K 售价800元](https://www.cnbeta.com/articles/tech/1323741.htm) | Tue Oct 04 2022 1:50 PM 
+- 🕯 [美光投资1000亿美元 &quot;全美最大半导体制造厂&quot;将在纽约兴建](https://www.cnbeta.com/articles/tech/1323753.htm) | Tue Oct 04 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近几年，国产GPU显卡也遍地开花，除了AI加速、HPC计算等高性能领域，还有不少厂商开始做桌面级显卡，大家期待它们直接在游戏上挑战AMD、NVIDIA是不现实的，但在入门级的办公及生产力市场，国产GPU仍可一战。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;半导体公司美光在周二的一份新闻稿中宣布，该公司正承诺投资1000亿美元在纽约州雪城附近建造一个芯片工厂。美光公司介绍说这是&amp;quot;美国历史上最大的半导体制造厂&amp;quot;。此举是由于美光希望利用拜登政府8月份通过的2800亿美元的CHIPS和科学法案的资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323753.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [IBM对红帽存储业务进行&quot;准收购&quot; 旗下人员和知产全面融合](https://www.cnbeta.com/articles/tech/1323739.htm) | Tue Oct 04 2022 1:12 PM 
+- 💼 [CPU功耗奔向400W Intel推水冷散热：15000W都能压](https://www.cnbeta.com/articles/tech/1323751.htm) | Tue Oct 04 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;早在2019年，IBM就完成了对红帽的收购，而今天两家公司传出的最新消息是IBM后续对红帽存储团队的&amp;quot;准收购&amp;quot;，这意味着红帽的存储业务团队被转移到IBM存储团队，除了人员被转移之外，相关产品及知识产权同样将被转移到IBM存储。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不论是AMD、NVIDIA还是Intel，大家购买他们的新一代CPU及GPU时都会面临两个问题，一个是价格、性能都在大幅提升，另一个就是功耗越来越夸张，散热压力大增，这事对普通消费者来说还能凑合接受，但对企业级用户来说，散热问题直接关系运营成本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [小米12T/12T Pro正式发布 旗舰机型配备2亿像素摄像头和SD 8+ Gen 1](https://www.cnbeta.com/articles/tech/1323737.htm) | Tue Oct 04 2022 1:06 PM 
+- 💂 [印度电动车初创公司Euler Motors融资6000万美元](https://www.cnbeta.com/articles/tech/1323749.htm) | Tue Oct 04 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;小米在提供了一款具有令人印象深刻的1英寸传感器的手机后，现在正进入2亿像素时代。这款手机的成像传感器并不很大，但表现仍然相当令人印象深刻。像往常一样，T系列是独立设计，而不是小米12系列的继任者或升级版。这些产品与12S机型也没有什么关系，所以让我们用新的眼光来看待它们。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Euler Motors是一家设计和制造商用电动汽车的印度初创公司，在新一轮融资中筹集了6000万美元&lt;/strong&gt;，因为它正在努力提高其生产能力并扩大其产品范围。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [闲鱼：部分卖家10月8日起须支持7天无理由退货](https://www.cnbeta.com/articles/tech/1323735.htm) | Tue Oct 04 2022 12:50 PM 
+- 🚀 [AirPods Pro 2出现bug 提示新机用户&quot;尽快更换电池&quot;](https://www.cnbeta.com/articles/tech/1323747.htm) | Tue Oct 04 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;闲鱼并不全是个人间的交易，还有商家在上面卖货。对于这部分商家，闲鱼也要求支持7天无理由退货了。&lt;strong&gt;近日，闲鱼发布了关于新增《闲鱼社区七天无理由退货规范》的公示通知&lt;/strong&gt;，通知显示，此规则于2022年9月30日至2022年10月7日进行公示通知，于2022年10月8日生效。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一个错误正在提醒一些第二代AirPods Pro机主尽快&amp;quot;更换&amp;quot;电池，有趣的是他们拿到这款耳机也才几周时间。当AirPods Pro耳塞或MagSafe充电盒的电池电量不足时，这个错误似乎会从附近设备的Find My应用中触发电池更换通知。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Redmi首款平板发布：2K 90Hz高刷屏 横扫千元市场](https://www.cnbeta.com/articles/tech/1323733.htm) | Tue Oct 04 2022 12:47 PM 
+- 🎊 [微软网站增加专题网页 详细介绍收购动视暴雪的好处](https://hot.cnbeta.com/articles/game/1323745.htm) | Tue Oct 04 2022 2:05 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月4日消息，&lt;strong&gt;Redmi的首款平板电脑Redmi Pad已在印度推出，采用了金属一体式设计，正面配有10.61寸大屏，售价14999 印度卢比（约1300元人民币）起。&lt;/strong&gt;Redmi Pad的屏幕是该机的主要卖点，&lt;strong&gt;2K LCD屏，分辨率为2000x1200，刷新率为90Hz，400nits亮度&lt;/strong&gt;，NTSC色域为70%，内置SGS护眼，通过了TUV莱茵认证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;微软的官方网站上增加了一个新的专题网页，阐述了该公司即将收购动视暴雪的所有好处。&lt;/strong&gt;主题是&amp;quot;我们的游戏愿景&amp;quot;。该页面包含介绍，称微软和Xbox团队&amp;quot;希望让人们能够随时随地在任何设备上玩游戏&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
