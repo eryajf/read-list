@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌开始推广其iOS 16锁屏小工具](https://www.cnbeta.com/articles/soft/1323781.htm) | Tue Oct 04 2022 4:15 PM 
+- 🕯 [埃隆·马斯克提议继续推进440亿美元的Twitter交易](https://www.cnbeta.com/articles/tech/1323783.htm) | Tue Oct 04 2022 4:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;谷歌iOS 16锁屏小工具现在已经开始到来。&lt;/strong&gt;伴随着苹果新的移动操作系统iOS 16的推出，这家搜索巨头上个月曾预告它计划支持iPhone的最新功能，即允许用户直接在手机锁屏上放置小部件，提供信息并方便用户访问喜爱的应用程序。谷歌表示，它将很快发布一些顶级应用的部件，包括搜索、地图、Gmail等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1323781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，特斯拉首席执行官埃隆-马斯克&lpar;Elon Musk&rpar;再次提出以440亿美元收购Twitter，这一潜在收购的消息在华尔街引起了震动。马斯克和Twitter的关系很紧张，因为这位特斯拉首席执行官提出收购该公司，然后因为所谓的机器人占比数据描述不准确问题而退出。在这一事件的最新剧情中，埃隆似乎再次想要控制Twitter。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [非官方应用商店对苹果的诉讼被驳回后 Cydia运营主体提出上诉](https://www.cnbeta.com/articles/tech/1323779.htm) | Tue Oct 04 2022 4:11 PM 
+- 💼 [谷歌开始推广其iOS 16锁屏小工具](https://www.cnbeta.com/articles/tech/1323781.htm) | Tue Oct 04 2022 4:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;谷歌iOS 16锁屏小工具现在已经开始到来。&lt;/strong&gt;伴随着苹果新的移动操作系统iOS 16的推出，这家搜索巨头上个月曾预告它计划支持iPhone的最新功能，即允许用户直接在手机锁屏上放置小部件，提供信息并方便用户访问喜爱的应用程序。谷歌表示，它将很快发布一些顶级应用的部件，包括搜索、地图、Gmail等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [非官方应用商店对苹果的诉讼被驳回后 Cydia运营主体提出上诉](https://www.cnbeta.com/articles/tech/1323779.htm) | Tue Oct 04 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;根据法庭文件，Cydia母公司SaurikIT, LLC在美国地区法官Yvonne Gonzalez Rogers上个月驳回该公司对苹果的反垄断诉讼后，已向美国第九巡回上诉法院提出上诉。&lt;/strong&gt;SaurikIT在2020年底起诉苹果公司，称鉴于App Store是用户可以在iPhone和iPad上下载应用的唯一授权市场，该公司对iOS应用分发有非法垄断的嫌疑。诉状还称，苹果公司&amp;quot;一直试图扼杀其他应用商店，&amp;quot;其中包括Cydia。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果公司正在试探性地踏入更多美国本土制造领域](https://www.cnbeta.com/articles/tech/1323777.htm) | Tue Oct 04 2022 4:07 PM 
+- 🚀 [苹果公司正在试探性地踏入更多美国本土制造领域](https://www.cnbeta.com/articles/tech/1323777.htm) | Tue Oct 04 2022 4:07 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果公司正在慢慢地在美国增加更多的制造基地，公司发布的2021财年供应商名单显示，截至2021年9月，其180家供应商中有48家已将部分业务转移到美国。这个数字比2020年的25家供应商有所增加。重点是加州，超过30个生产基地在加州，而2020年还不到10个。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [让恐龙灭绝的小行星引发了毁灭性的全球海啸](https://www.cnbeta.com/articles/science/1323775.htm) | Tue Oct 04 2022 4:02 PM 
+- 🎊 [让恐龙灭绝的小行星引发了毁灭性的全球海啸](https://www.cnbeta.com/articles/science/1323775.htm) | Tue Oct 04 2022 4:02 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;科学家们长期以来一直在研究位于墨西哥南部尤卡坦半岛下的奇克苏鲁布撞击坑&lt;/strong&gt;。该撞击坑是大约6600万年前一次改变地球的撞击结果。这次撞击是由一块岩石以大约每小时27000英里的速度砸向地球而形成的，颠覆了地球上的生命。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [六大旗舰荒野信号测试：华为没5G依然第一 最差果然是iPhone](https://www.cnbeta.com/articles/tech/1323773.htm) | Tue Oct 04 2022 3:55 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone手机信号差，已经成为公认“真理”，而每一代安卓旗舰都号称自己的信号很牛。是骡子是马，拉出来遛遛。近日，数字尾巴编辑部就对六款最新旗舰进行了野外信号测试，&lt;strong&gt;结果华为第一，iPhone果然倒数第一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
