@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [宣布收购推特后马斯克提到一款“万能应用” 美媒：听起来很像微信](https://www.cnbeta.com/articles/tech/1323979.htm) | Wed Oct 05 2022 7:30 AM 
+- 🕯 [Vivaldi 5.5发布 在Windows 11上提供任务面板和Snap支持](https://www.cnbeta.com/articles/tech/1323983.htm) | Wed Oct 05 2022 8:10 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Vivaldi为其浏览器发布了一个新的更新，5.5版现在可供下载，其中有各种改进和新功能，如新的任务提醒面板，Windows 11上的Snap支持，更快的地址栏，以及保护用户免受电子邮件诈骗的安全改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [NASA和SpaceX今日将向国际空间站发射Crew-5飞船](https://www.cnbeta.com/articles/science/1323981.htm) | Wed Oct 05 2022 7:53 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国国家航空航天局（NASA）将对即将进行的SpaceX Crew-5前往国际空间站（ISS）的发射活动进行现场报道。Crew-5仍定于美国东部时间10月5日星期三中午从美国国家航空航天局佛罗里达州肯尼迪航天中心的39A发射场升空。一天多一点之后，10月6日星期四下午4点57分，名为&amp;quot;奋进号&amp;quot;的龙飞船计划与空间站对接。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [宣布收购推特后马斯克提到一款“万能应用” 美媒：听起来很像微信](https://www.cnbeta.com/articles/tech/1323979.htm) | Wed Oct 05 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“马斯克的万能应用程序‘X’听起来很像中国的微信。”美国彭博社当地时间4日以此为题对马斯克收购推特事件进行了报道，并提到了中国手机应用程序——微信。关于万能应用程序“X”，彭博社称，马斯克并未透露更多细节。但报道表示，根据马斯克此前言论推测，他所说的这款万能应用程序听起来很像是中国的“超级应用程序”——微信。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [索尼开发实时服务型游戏并不意味着放弃单机游戏](https://hot.cnbeta.com/articles/game/1323977.htm) | Wed Oct 05 2022 7:22 AM 
+- 🚀 [索尼开发实时服务型游戏并不意味着放弃单机游戏](https://hot.cnbeta.com/articles/game/1323977.htm) | Wed Oct 05 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;PlayStation工作室老大Herman Hulst近日介绍称，索尼对实时服务型游戏的专注并不意味着他们打算停止公司赖以成名的单人剧情化游戏体验的制作。索尼曾在今年五月表示，他们当前正有12款实时服务型游戏正在规划中，将在2026年3月之前投向市场。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [角川书店董事长涉嫌贿赂东京奥组委官员被正式起诉](https://hot.cnbeta.com/articles/game/1323975.htm) | Wed Oct 05 2022 7:21 AM 
+- 🎊 [角川书店董事长涉嫌贿赂东京奥组委官员被正式起诉](https://hot.cnbeta.com/articles/game/1323975.htm) | Wed Oct 05 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;FromSoftware母公司角川书店董事长近日已被以行贿罪提起诉讼。角川书店董事长角川历彦于9月14日因涉嫌行贿罪被逮捕。如今，他已被正式起诉，罪名是向东京奥组委官员幸会6900万日元（约合人民币340万元）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《绝地求生》万圣节活动公布 将与《黎明杀机》联动](https://hot.cnbeta.com/articles/game/1323973.htm) | Wed Oct 05 2022 7:21 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;万圣节在即，Krafton 宣布将与 Behavior Interactive 建立合作伙伴关系，并推出《绝地求生》以及《绝地求生：未来之役》和其旗下的恐怖游戏IP《黎明杀机》的联动活动。此次联动活动中《绝地求生》端游将是主角。活动为期两个月，将于 10 月 19 日登陆 PC，10 月 20 日登陆游戏主机，分别持续至 12月 7 日和 8 日。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Bug频现差评如潮 《羊了个羊》App上架App Store](https://hot.cnbeta.com/articles/game/1323971.htm) | Wed Oct 05 2022 7:20 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;火热三消游戏《羊了个羊》一直以小游戏的方式存在于微信和抖音等平台，由于太过火爆以及小程序的运行机制，导致多次游戏服务器崩溃，因此该游戏开发者在前阵子采访中表示《羊了个羊》将上线AppStore。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
