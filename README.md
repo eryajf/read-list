@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软阻止使用动态磁盘的计算机升级Windows 11 22H2 出现0x8007001错误](https://www.cnbeta.com/articles/tech/1324003.htm) | Wed Oct 05 2022 11:09 AM 
+- 🕯 [信息图显示iPhone占苹果年收入的52% 但公司已经很好地实现了收入多样化](https://www.cnbeta.com/articles/tech/1324025.htm) | Wed Oct 05 2022 12:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软上个月发布了Windows 11 2022功能更新。该更新正在逐步向拥有兼容PC的用户推出。自去年最初的21H2发布以来，系统要求没有改变，这意味着在你已经有一台支持的PC的情况下应该收到更新。不过也有例外，微软似乎已经阻止了使用动态磁盘系统的更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司销售在其最大的收入来源iPhone的同时推出了多种产品，但该公司每年的移动设备家族继续赚取最多的钱。&lt;strong&gt;一份信息图表显示，苹果公司每年产生的收入有一半以上是来自于iPhone。用户名为iPhone 15 Ultra的Twitter账户分享的信息图显示，iPhone为苹果创造了高达1917亿美元的收入，占据了整个收入来源的52%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [韩国艺术家、漫画家金政基因病去世 年仅47岁](https://hot.cnbeta.com/articles/comic/1324001.htm) | Wed Oct 05 2022 11:03 AM 
+- 💼 [摩托罗拉Devon 5G效果图与完整规格曝光](https://www.cnbeta.com/articles/tech/1324023.htm) | Wed Oct 05 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月5日，官方宣布韩国艺术家、漫画家金政基因突发疾病于10月3日去世，享年47岁。金政基先生为一名优秀的艺术家，其在速写上的艺术造诣更是对无数人产生了深厚影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1324001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;摩托罗拉Devon的5G规格和效果图已经被披露，&lt;/strong&gt;这与刚才介绍的Maui不一样，不是首次出现的名字，我们上次谈到Devon是在6月份，当时报道了摩托罗拉进入2023年的路线图中出现了它。据说Devon是一款由骁龙680芯片组带动的4G中低端智能手机，而这款设备上个月以Moto G32的身份抵达。显然，Devon的5G版本也在开发中，以下显示的图片就是这款手机的模样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [今天是史蒂夫·乔布斯逝世11周年 专题档案网站不久前上线](https://www.cnbeta.com/articles/tech/1323999.htm) | Wed Oct 05 2022 10:51 AM 
+- 💂 [摩托罗拉入门级新机Maui的设计与规格在上市前曝光](https://www.cnbeta.com/articles/tech/1324021.htm) | Wed Oct 05 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天是史蒂夫-乔布斯逝世11周年，享年56岁，那是在苹果公司推出iPhone 4S和Siri的第二天。Laurene Powell Jobs、Tim Cook和Jony Ive最近在与记者Kara Swisher的座谈中讨论了乔布斯的遗产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年，摩托罗拉推出了各细分市场的手机，从入门级到成熟的旗舰机，甚至是可折叠设备。然而，这个联想的子公司还没有完成今年的工作：还有一款入门级手机，即摩托罗拉Maui准备在今年年底前推出。一个可靠的工业来源整理出该手机的渲染图和关键规格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [加劳德特大学被苹果授予“苹果杰出学校”称号](https://www.cnbeta.com/articles/tech/1323997.htm) | Wed Oct 05 2022 10:47 AM 
+- 🚀 [苹果将在未来为更多产品带来彩色钛合金材质表面处理](https://www.cnbeta.com/articles/tech/1324019.htm) | Wed Oct 05 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司授予位于华盛顿特区的Galludet（加劳德特）大学杰出学校的地位，以表彰其包括美国手语教学的工作。Galludet大学和苹果公司有着长久的历史往来，最近包括蒂姆·库克被邀请在该大学2022年的毕业典礼上发表演讲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司今年没有在任何一款iPhone 14机型上使用钛合金表面处理，但它在宣布Apple Watch Ultra时引入了这种材料。根据最新的专利，该技术打算以后将这种表面处理带到更多的产品系列中，而且是以多种颜色选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“快银”主演《Dahmer》成网飞最热美剧之一](https://hot.cnbeta.com/articles/movie/1323995.htm) | Wed Oct 05 2022 10:33 AM 
+- 🎊 [微软加快推送速度 Windows 11 22H2现在可供更多用户使用](https://www.cnbeta.com/articles/tech/1324017.htm) | Wed Oct 05 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据 Deadline 报道，《Dahmer：怪物——杰夫瑞·达默的故事》迅速成为了网飞 Netflix 流媒体平台有史以来最热门的电视剧之一。该剧由曾在《X战警》中饰演过“快银”的演员埃文·彼得斯（Evan Peters）主演，他在剧中扮演了臭名昭著的连环杀手杰夫瑞·莱昂内尔·达默。剧集仅在网飞上线后首周观看时长就达到了惊人的 2.9984 亿小时。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管微软上个月开始推出Windows 11 2022更新（版本22H2），但许多用户无论如何按动&amp;quot;检查更新&amp;quot;按钮，都无法使他们的系统达到最新版本。如果你是那些被困在原始Windows 11版本上的倒霉用户之一，好消息是微软现在正在加紧推出Windows 11 2022更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
