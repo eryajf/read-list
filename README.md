@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google将向亚利桑那州支付8500万美元和解金以了结追踪用户的诉讼](https://www.cnbeta.com/articles/tech/1324081.htm) | Wed Oct 05 2022 5:48 PM 
+- 🕯 [万能的铁块：山寨电源玩得可以有多野？](https://www.cnbeta.com/articles/tech/1324093.htm) | Wed Oct 05 2022 11:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google将向亚利桑那州支付8500万美元的和解金，以了结该公司非法追踪Android设备用户位置的指控。亚利桑那州总检察长马克·布尔诺维奇在2020年5月起诉Google，声称其Android手机和应用程序的软件中内置了&amp;quot;黑暗模式&amp;quot;（可以操纵用户行为的设计战术）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;铁块，在PC和数码设备中是很常见的，不过它们的作用通常只有一种，就是增加配重。例如我们经常会在鼠标中见到各类可调的配重块，这样就可以满足每个人对于鼠标重量的不同需求。如果铁块出现在电源类设备中，这就要打起几分精神来了，毕竟没听说电源有配重的需求。当然也有个例外，那就是无线充电器，为了保证在桌面的平稳，其内部多半会有各种千奇百怪造型的配重铁块。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Epic Games CEO蒂姆·斯威尼批评苹果公司在App Store中的提价行为](https://www.cnbeta.com/articles/tech/1324079.htm) | Wed Oct 05 2022 5:40 PM 
+- 💼 [研究显示类似地球淡蓝行星只占潜在宜居星球1%](https://www.cnbeta.com/articles/science/1324091.htm) | Wed Oct 05 2022 11:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天开始在所有使用欧元的地区和国家实施App Store涨价，涨价的原因是欧元对美元的疲软。Epic Games首席执行官蒂姆-斯威尼（Tim Sweeney）就价格更新发表了看法，表示苹果没有任何理由这么做。其公司目前正陷入与苹果的法律争斗中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月6日消息，一项最新研究显示，类似地球这样的“淡蓝行星”在宇宙中可能及其罕见，只占潜在宜居星球的1%。总部位于瑞士的国际空间科学研究所发现，类似地球的行星（即约30%表面被陆地覆盖）可能只占恒星宜居带岩石行星的1%。而大约80%的潜在宜居星球完全以陆地为主，约19%是纯粹的海洋世界。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [RTX4090非公版现身海外电商平台 上架即破发](https://www.cnbeta.com/articles/tech/1324077.htm) | Wed Oct 05 2022 5:23 PM 
+- 💂 [《守望先锋2》RTX 4090：1440P跑出超500FPS](https://hot.cnbeta.com/articles/game/1324089.htm) | Wed Oct 05 2022 11:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，西班牙电商平台CoolMod现货上架RTX4090非公版，官方指导价为1949欧元（约合人民币13574元），而其官网标价为1899.94欧元（约合人民币13227元），相差50欧元（约合人民币348元）。但即便欧洲区上架即破发也比国行12999元的起售价贵了不少，不是很推荐大家到欧区购买，还是等等国行吧，原价抢购就好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;《守望先锋2》最近以抢先体验形式发售，为了庆祝该作的推出，英伟达发布了其最新RTX 4000系列显卡在1440P分辨率下的跑分数据。&lt;/strong&gt;RTX 4090：超过500FPS（507），RTX 4080（16GB）：368FPS，RTX 4080（12GB）：接近300FPS（296FPS），比RTX 3080（249FPS）快了将近50FPS……&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [海天酱油为何出口的没防腐剂？海天否认双标持续引热议](https://www.cnbeta.com/articles/tech/1324075.htm) | Wed Oct 05 2022 5:21 PM 
+- 🚀 [《极品飞车22：无束》首批截图泄露 全新设计风格](https://hot.cnbeta.com/articles/game/1324087.htm) | Wed Oct 05 2022 11:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日被多个自媒体爆料——国内售卖的海天酱油含食品添加剂，有一堆化学名词：谷氨酸钠、三氯蔗糖、苯甲酸钠……而日本售卖的一款海天酱油的标示却是“干干净净”，只有水、大豆、食用盐、砂糖、小麦。9月30日，海天味业发布声明，10月5日#海天味业再发声明否认双标#登上热搜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日本零售商 Neowing日前泄露《极品飞车22：无束》（Need for Speed Unbound）的首批截图。这些截图将让你对游戏的新艺术风格有所了解。EA计划将于今晚11点正式发布《极品飞车22：无束》。据报道，这款新的NFS游戏只会出现在本世代平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果CEO蒂姆·库克发文纪念史蒂夫·乔布斯：一个伟大的想法可以改变世界](https://www.cnbeta.com/articles/tech/1324073.htm) | Wed Oct 05 2022 4:45 PM 
+- 🎊 [我国实现百公里自由空间时频传递](https://www.cnbeta.com/articles/science/1324085.htm) | Wed Oct 05 2022 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天是苹果公司联合创始人史蒂夫·乔布斯罹患胰腺癌去世11周年。每一年，苹果公司CEO蒂姆·库克都会在Twitter上纪念这位科技界的远见卓识，今年也不例外。今年的推文包括一张乔布斯的照片和一条关于他的工作如何帮助催化变革的描述。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，中国科学技术大学潘建伟团队与上海技物所、新疆天文台等单位合作，首次在国际上实现百公里级的自由空间高精度时间频率传递实验，实验结果有望对暗物质探测、物理学基本常数检验、相对论检验等基础物理学研究产生重要影响。该成果于北京时间10月5日晚在国际学术期刊《自然》杂志发表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
