@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [奔驰最便宜轿车 新款A级家族官图发布](https://www.cnbeta.com/articles/tech/1324055.htm) | Wed Oct 05 2022 1:56 PM 
+- 🕯 [新研发的RNA工具可以照亮大脑电路甚至编辑特定的细胞](https://www.cnbeta.com/articles/science/1324067.htm) | Wed Oct 05 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月5日，新款奔驰A级家族官图正式发布，此次发布车型涵盖两厢版、三厢版、A 35与A 45 S共四款。作为中期改款车型，新款A级家族主要针对前脸造型进行了升级，融入了新家族式设计元素，&lt;strong&gt;包括换装满天星样式的造型、贯穿式前包围&lt;/strong&gt;等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;杜克大学的科学家们已经开发出一种基于RNA的编辑工具，针对单个细胞，而不是基因。它能够精确瞄准任何类型的细胞，并有选择地添加任何感兴趣的蛋白质。研究人员说，该工具可以使修改非常具体的细胞和细胞功能来管理疾病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [这体积头一次见 1.3万元英伟达RTX 4090图赏](https://www.cnbeta.com/articles/tech/1324053.htm) | Wed Oct 05 2022 1:56 PM 
+- 💼 [中国调味品协会发文支持海天味业 国人为何谈添加剂色变？](https://www.cnbeta.com/articles/tech/1324065.htm) | Wed Oct 05 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新一代旗舰RTX 4090终于在10月12日上市了，定价12999元起。现在这款显卡已经来到我们评测室，下面为大家带来图赏。&lt;strong&gt;RTX 40系列基于全新设计的Ada Lovelace GPU架构，在性能、效率上都实现了巨大的代际飞跃&lt;/strong&gt;，无论是实时光线追踪，还是AI神经网络渲染，都可以说开启了新时代。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近期海天味业食品添加剂“双标”风波在网络平台持续发酵。&lt;strong&gt;10月5日，海天味业再次发布声明称，食品添加剂广泛应用于各国的食品制造中，各企业按照各国标准和产品特性合法合规使用食品添加剂，海天售卖的国内国外产品内控标准是一致的，并未“双标”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [西部数据加固型闪迪PRO-640固态硬盘 支持Thunderbolt 3连接](https://www.cnbeta.com/articles/tech/1324051.htm) | Wed Oct 05 2022 1:55 PM 
+- 💂 [路虎跳出“乌龟”图案四次都没修好 车主还找出“车辆隔离通知”](https://www.cnbeta.com/articles/tech/1324063.htm) | Wed Oct 05 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p style=&quot;text-align: justify;&quot;&gt;西部数据发布了坚固耐用的闪迪PRO-640固态硬盘，该硬盘具有高速、防水和防尘的特点。PRO-640具有与40Gbps的Thunderbolt 3和10Gbps的USB 3.2 Gen 2的双模式兼容性，可通过单个端口进行数据传输而无需额外供电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不允许售卖的车辆，竟然被卖给了消费者，如今出了事，麻烦也就随之而来。据1818黄金眼报道，去年8月份，&lt;strong&gt;蒋先生买了一辆路虎发现混动版，花了30多万&lt;/strong&gt;，价格确实足够低，目前已经开了2万多公里。不过新车买回来第二个月，在驾驶过程中他就发现仪表盘跳出来一只“乌龟”，随后是一系列的故障，电动部分的功能失效，动力出现1-2秒的失效，发动机并介入。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究发现火山超级大爆发需要几百万去形成](https://www.cnbeta.com/articles/science/1324049.htm) | Wed Oct 05 2022 1:51 PM 
+- 🚀 [6999元起 iPhone 14 Plus即将开售 转售贬值率创最高纪录](https://www.cnbeta.com/articles/tech/1324061.htm) | Wed Oct 05 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据布里斯托尔大学和苏格兰大学环境研究中心最近的研究，超级火山喷发发生在地壳深处的巨大岩浆积累，这些岩浆产生了数百万年，迅速到达地表并粉碎了先前存在的岩石。一个国际科学家小组能够利用地壳流动模型证明，在四次已知的巨大超级爆发之前的几百万年里，预先存在的柱状体--由凝固的岩浆或熔岩构成的侵入性岩石体就已经形成，并且这些柱状体被新放置的岩浆破坏的速度极快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国庆假期转眼就要接近尾声，后天的10月7日是假期最后一天，同时也是iPhone 14 Plus的首发日期。按照以往管理，首批参与iPhone 14 Plus预订的用户，今明两天就会收到快递信息，&lt;strong&gt;最快10月7日当天上午就能收到新机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324061.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Facebook正尝试让用户自定规则选择他们感兴趣的帖子](https://www.cnbeta.com/articles/tech/1324047.htm) | Wed Oct 05 2022 1:18 PM 
+- 🎊 [科学家们可能已经弄清楚了天王星倾斜角与众不同的原因](https://www.cnbeta.com/articles/science/1324059.htm) | Wed Oct 05 2022 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着最近利润的缩减，Facebook一直在关闭不受欢迎的应用程序，并专注于其核心服务。为此，它正在更新主要的Facebook Feed，让用户看到更少或更多来自朋友、小组和页面的帖子。这将反过来让它把用户的反馈纳入Feed排名，&amp;quot;使我们的人工智能系统更聪明，反应更迅速&amp;quot;，它在一篇博文中说。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;天王星一直是天文学家们研究的一颗引人入胜的行星。天王星于1781年首次被发现，很快就因其奇怪的、极其&amp;quot;不正常&amp;quot;的倾斜而闻名。这颗来自太阳的第七颗行星似乎总是按照自己的节奏行进，虽然它可能与我们太阳系中的其他冰巨头有一些相似之处，但天王星的倾斜的自转轴线角度一直让科学家感到困惑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
