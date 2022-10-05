@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [欧洲暴发史上最大规模禽流感 近5000万只禽类被扑杀](https://www.cnbeta.com/articles/tech/1323941.htm) | Wed Oct 05 2022 3:54 AM 
+- 🕯 [宠物机器人Loona正在众筹 看起来就像来自于迪士尼动画电影](https://www.cnbeta.com/articles/tech/1323951.htm) | Wed Oct 05 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据埃菲社哥本哈根10月3日电，欧洲疾病预防与控制中心（ECDC）3日发出警告，欧洲正在经历有记录以来最大规模的高致病性禽流感疫情，病例数量和地理分布范围都创下历史纪录。&lt;/strong&gt;ECDC和欧盟食品安全局的最新数据显示，迄今共暴发2467起家禽疫情，4800万只禽类在受影响的场所被扑杀，发现187例圈养禽类病例和3573例野生动物病例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;几十年来，机器人宠物一直是科幻作品的主打，近年来，我们已经看到大量的机器人最终进入市场，并取得了不同的成功。最新的产品是Loona，这是一个看起来相当先进的机器人，它有很多技巧，其个性看上去就像是来自于迪士尼电影。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家研发新型纳米光子芯片 比MacBook Pro的处理器快数千倍](https://www.cnbeta.com/articles/science/1323939.htm) | Wed Oct 05 2022 3:46 AM 
+- 💼 [亚马逊已经停产面向儿童的互动视频聊天设备Amazon Glow](https://www.cnbeta.com/articles/tech/1323949.htm) | Wed Oct 05 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自无线电报和真空管时代以来，电子计算和通信已取得显着进步。事实上，当前消费设备所实现的处理能力和内存水平在几十年前是无法想象的。但随着计算和信息处理微型设备变得越来越小、越来越强大，这些设备正遇到量子物理定律强加的一些基本限制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊已经停产了Amazon Glow，这是一款互动视频聊天设备，专注于帮助孩子和亲人在大流行中通过互联网教育和娱乐。2021年推出的Amazon Glow结合了屏幕和投影仪，让孩子们可以接触到广泛的娱乐和教育内容。视频屏幕将孩子与视频通话另一端的远程人员连接起来，同时将游戏空间投射到一个硅胶垫上，不在同一地点的亲子都可以参与其中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《守望先锋 归来》今日上线 动画短片“零点危机”公布](https://hot.cnbeta.com/articles/game/1323937.htm) | Wed Oct 05 2022 3:41 AM 
+- 💂 [华为P50新版或月底发布 可能换用骁龙778G 4G](https://www.cnbeta.com/articles/tech/1323947.htm) | Wed Oct 05 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《守望先锋&amp;nbsp;归来》今日正式上线，中文动画短片“零点危机”发公布。10月5日我们一起“归来”！我受到了召唤，我必须回应，一如既往！《守望先锋：归来》的客户端预下载现已开启，安装游戏需要64位的Windows 10及以上版本操作系统，下载内容约50GB。本作将由35名英雄加入，以2个月为赛季周期持续更新，并将推出全新PVE玩法。前作现已关服。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上个月，华为正式发布了Mate50系列旗舰手机，目前市场反响非常出色。根据博主厂长是关同学最新消息，&lt;strong&gt;本月底华为还将召开新品发布会，此前曝光过的全新机型P50 Pocket new也将登场。&lt;/strong&gt;据悉，华为P50 Pocket new其实早在Mate50发布前就已经入网，具体型号为BAL-AL80，对比之下，老款P50 Pocket的型号为BAL-AL00。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [索尼仍将继续跨世代发售PS4游戏 按具体情况决定](https://hot.cnbeta.com/articles/game/1323935.htm) | Wed Oct 05 2022 3:41 AM 
+- 🚀 [海天味业再发声明否认“双标” 中国调味品协会称支持企业追究造谣者责任](https://www.cnbeta.com/articles/tech/1323945.htm) | Wed Oct 05 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在PS5发售之后，虽然我们看到了一些新主机独占游戏，比如《瑞奇与叮当：分离》、《恶魔之魂：重制版》和《死亡回归》，但到目前为止PlayStation大部分第一方游戏都还是跨世代的，比如《漫威蜘蛛侠：迈尔斯·莫拉莱斯》、《GT赛车7》和《地平线：西之绝境》都登陆了PS4平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近期，海天味业食品添加剂“双标”风波在网络上持续发酵。10月5日，海天味业再次发布声明称，海天售卖的国内国外产品内控标准是一致的，并未双标。在海天看来，食品添加剂广泛应用于世界各国的食品制造中，包括美国，欧盟、日本等发达国家无一例外。各国对食品添加剂均有明确的法规标准，这些标准本身并没有高低之分、优劣之别。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美国劳工委员会称动视暴雪对QA工会进行了报复和打压](https://www.cnbeta.com/articles/tech/1323933.htm) | Wed Oct 05 2022 3:40 AM 
+- 🎊 [造型别致的雪铁龙纯电皮卡首秀 搭载全新“双人字”车标](https://www.cnbeta.com/articles/tech/1323943.htm) | Wed Oct 05 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据《华盛顿邮报》报道，美国国家劳资关系委员会认为，代表Raven Software QA 测试人员的工会对动视暴雪提起的投诉至少有一部分是有道理的。董事会已经确定，动视暴雪4月份决定提高除Raven 之外的所有 QA测试人员的最低时薪，这是对员工因受保护的工会活动进行报复的证据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，雪铁龙OLI电动皮卡概念车在法国巴黎全球首秀，新车外观造型十分奇特，而且使用了回收材料，&lt;strong&gt;并且配备了雪铁龙全新“双人字”车标&lt;/strong&gt;。外观来看，这款车拥有鲜明的个性，突显出多功能特性：其前舱十分扁平、车顶和皮卡床板均由回收蜂窝硬纸板制作，异常坚硬，即使成年人站在车顶也没有任何问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
