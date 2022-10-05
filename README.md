@@ -804,29 +804,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [西班牙阿尔罕布拉宫装饰墙壁的金箔为何呈现淤青般的紫色？](http://jandan.net/p/111432) | Wed Oct 05 2022 5:30 AM 
+- 🚀 [其它条件完全一样，剔除关税等限制，跨境贸易的成本为何还是高于境内贸易](http://jandan.net/p/111434) | Wed Oct 05 2022 7:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    比如说几个欧盟成员国，明明路程、人工和商品类型都一样，但跨境就比境内运输成本更高 
+    </details> 
+
+- 🙉 [我们终于知道细菌和古生菌是如何游泳的](http://jandan.net/p/111433) | Wed Oct 05 2022 7:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    虽然课本上含混地说，是通过鞭毛。 
+    </details> 
+
+- 🎉 [西班牙阿尔罕布拉宫装饰墙壁的金箔为何呈现淤青般的紫色？](http://jandan.net/p/111432) | Wed Oct 05 2022 5:30 AM 
     <details><summary>展开描述 ...</summary> 
     800年的历史 
     </details> 
 
-- 🙉 [今日好价 1005](http://jandan.net/p/111431) | Wed Oct 05 2022 3:19 AM 
+- 🐲 [今日好价 1005](http://jandan.net/p/111431) | Wed Oct 05 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：30 
     </details> 
 
-- 🎉 [诺贝尔物理学奖：颁发给观察到量子纠缠和创立量子信息科学的三位物理学家](http://jandan.net/p/111430) | Tue Oct 04 2022 1:27 PM 
+-  [诺贝尔物理学奖：颁发给观察到量子纠缠和创立量子信息科学的三位物理学家](http://jandan.net/p/111430) | Tue Oct 04 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
     大家要努力啊 
-    </details> 
-
-- 🐲 [狗子能够嗅到你的压力](http://jandan.net/p/111417) | Tue Oct 04 2022 9:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    当我们感到压力时，会经由汗液和呼吸产生不同的气味 
-    </details> 
-
--  [即使是老人，重量训练也会加强神经元和肌肉之间的联系，减缓肌肉损失](http://jandan.net/p/111425) | Tue Oct 04 2022 5:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    以前一直无法证明举重训练可以加强运动神经元和肌肉之间的联系。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
