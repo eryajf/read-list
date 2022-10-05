@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Google 搜索很多中文词汇只有几十条结果](https://www.v2ex.com/t/884763#reply2) | Wed Oct 05 2022 9:02 AM
-- 🤗 [neovim v0.8 发布了!](https://www.v2ex.com/t/884758#reply0) | Wed Oct 05 2022 8:29 AM
-- 🎭 [2022 年有哪些值得推荐的云服务器？](https://www.v2ex.com/t/884757#reply10) | Wed Oct 05 2022 8:19 AM
-- 🥷 [使用 rsync 同步 2 台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755#reply2) | Wed Oct 05 2022 7:34 AM
-- 🐵 [旧手机当 Linux 服务器的吐槽和讨论](https://www.v2ex.com/t/884743#reply13) | Wed Oct 05 2022 6:26 AM<!-- v2ex:END -->
+- 🥸 [小软件收到第一个会员订阅](https://www.v2ex.com/t/884770#reply5) | Wed Oct 05 2022 9:32 AM
+- 🤗 [Google 搜索很多中文词汇只有几十条结果](https://www.v2ex.com/t/884763#reply4) | Wed Oct 05 2022 9:02 AM
+- 🎭 [neovim v0.8 发布了!](https://www.v2ex.com/t/884758#reply2) | Wed Oct 05 2022 8:29 AM
+- 🥷 [2022 年有哪些值得推荐的云服务器？](https://www.v2ex.com/t/884757#reply12) | Wed Oct 05 2022 8:19 AM
+- 🐵 [使用 rsync 同步 2 台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755#reply2) | Wed Oct 05 2022 7:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
