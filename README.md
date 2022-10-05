@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [像 天眼查 企查查 这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727#reply2) | Wed Oct 05 2022 5:13 AM
-- 🤗 [求一些 k8s 学习资料](https://www.v2ex.com/t/884720#reply1) | Wed Oct 05 2022 4:41 AM
-- 🎭 [目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下 Pixel、一加和三星了？](https://www.v2ex.com/t/884716#reply18) | Wed Oct 05 2022 4:23 AM
-- 🥷 [做一个类似 apple icloud 本地备份的软件，实现 windows 上软件和文件的云端备份](https://www.v2ex.com/t/884707#reply2) | Wed Oct 05 2022 3:39 AM
-- 🐵 [个人电脑装 Linux ，文件系统选 ext4 还是 btrfs](https://www.v2ex.com/t/884693#reply20) | Wed Oct 05 2022 2:23 AM<!-- v2ex:END -->
+- 🥸 [旧手机当 Linux 服务器的吐槽和讨论](https://www.v2ex.com/t/884743#reply2) | Wed Oct 05 2022 6:26 AM
+- 🤗 [像 天眼查 企查查 这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727#reply14) | Wed Oct 05 2022 5:13 AM
+- 🎭 [求一些 k8s 学习资料](https://www.v2ex.com/t/884720#reply2) | Wed Oct 05 2022 4:41 AM
+- 🥷 [目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下 Pixel、一加和三星了？](https://www.v2ex.com/t/884716#reply22) | Wed Oct 05 2022 4:23 AM
+- 🐵 [translucentTB 没法透明任务栏了？](https://www.v2ex.com/t/884711#reply2) | Wed Oct 05 2022 4:03 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
