@@ -383,19 +383,19 @@
     1. 开始 项目要在多个页面上加自定义导航栏，还要有渐变效果，就是随着页面上滑，导航栏透明度由0逐渐变为1。这里面有几个基本点需要注意下。 2. page的样式 page 不能是height: 100 
     </details> 
 
-- 🕯 [【Android爬坑周记】用SplashScreen做一个会动的开屏！](https://juejin.cn/post/7150692699350237191) | Tue Oct 04 2022 4:21 PM 
+- 🕯 [从理解路由到实现一套Router（路由）](https://juejin.cn/post/7150794643985137695) | Tue Oct 04 2022 10:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    平时在Vue项目中经常用到路由，但是也仅仅处于会用的层面，很多基础知识并不是真正的理解。于是就趁着十一”小长假“查阅了很多资料，总结下路由相关的知识，查缺不漏，加深自己对路由的理解。 路由 在 Web 
+    </details> 
+
+- 🚀 [Spring Security系列教程07--基于内存模型实现授权](https://juejin.cn/post/7150756785651974174) | Tue Oct 04 2022 8:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    --- highlight: a11y-dark --- 持续创作，加速成长！这是我参与「掘金日新计 
+    </details> 
+
+- 💪 [【Android爬坑周记】用SplashScreen做一个会动的开屏！](https://juejin.cn/post/7150692699350237191) | Tue Oct 04 2022 4:21 PM 
     <details><summary>展开描述 ...</summary> 
     Android 12以上加入了SplashScreen，并且支持开屏动画了！让我们一步一步做一个开屏动画吧！ 
-    </details> 
-
-- 🚀 [【微服务专题】深入理解与实践微服务架构&lpar;十三&rpar;之Gateway谓词与过滤器功能实践](https://juejin.cn/post/7150691487880052743) | Tue Oct 04 2022 4:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 7. 如何配置谓词和过滤器 上面我们快速上手了网关路由的谓词配置和过滤器配置，相当于已经使用过Gatew 
-    </details> 
-
-- 💪 [手把手教你实现 seq2seq](https://juejin.cn/post/7150690387315654693) | Tue Oct 04 2022 4:12 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 前边刚说了encoder-decoder框架，也写了大体的代码思路。但是有思路不代表能写出东西来，今天就 
     </details> 
 <!-- juejin:END -->
 ### 少数派
