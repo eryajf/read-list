@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Vivaldi 5.5发布 在Windows 11上提供任务面板和Snap支持](https://www.cnbeta.com/articles/tech/1323983.htm) | Wed Oct 05 2022 8:10 AM 
+- 🕯 [Google选择南非作为其在非洲的第一个云服务区域](https://www.cnbeta.com/articles/tech/1323991.htm) | Wed Oct 05 2022 9:15 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;科技巨头Google今天宣布在南非推出一个云区域，这是它在非洲大陆的第一个云区域，从而开始追赶几年前进入非洲大陆的亚马逊网络服务（AWS）和微软Azure等其他顶级供应商。Google表示，它还在内罗毕（肯尼亚）、拉各斯（尼日利亚）和开普敦和约翰内斯堡（南非）建设专用云互联服务，将客户的内部网络与Google的网络连接起来，以寻求为其非洲的客户和合作伙伴提供全面的云功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果要求供应商将部分AirPods和Beats的生产转移到印度](https://www.cnbeta.com/articles/tech/1323989.htm) | Wed Oct 05 2022 9:09 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据日经新闻周三报道，苹果公司正在要求其供应商首次将一些AirPods和Beats耳机的生产转移到印度，这可能是新德里在推动本地制造业方面的又一次胜利。报道援引消息人士的话说，苹果iPhone的装配商富士康正准备在印度生产Beats耳机，并希望最终也能在印度生产AirPods。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [网络协议分析工具Wireshark 4.0.0最新版发布](https://www.cnbeta.com/articles/tech/1323987.htm) | Wed Oct 05 2022 9:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;著名的开源网络协议分析器Wireshark 4.0的最新版本已经发布。Wireshark 4.0引入了一个更强大的显示过滤器语法，它有许多新的扩展，重新设计了转换和端点对话框，默认的主窗口布局得到了改进，改进了十六进制转储的导入，更快的MaxMind地理定位处理，以及其他各种改进和修复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [孙正义会见李在镕细节曝光，ARM会易主三星吗？](https://www.cnbeta.com/articles/tech/1323985.htm) | Wed Oct 05 2022 8:57 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;知情人士称，软银集团CEO孙正义&lpar;Masayoshi Son&rpar;周二会见了三星电子副会长李在镕&lpar; Lee Jae-yong&rpar;，讨论了旗下芯片设计公司ARM与三星进行长期合作的事宜，但没有提出向三星出售全部或部分ARM股份。孙正义在10月1日抵达韩国，这是他三年来首次海外旅行。他在出访前表示，会和三星讨论与ARM建立战略联盟的事宜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [Vivaldi 5.5发布 在Windows 11上提供任务面板和Snap支持](https://www.cnbeta.com/articles/tech/1323983.htm) | Wed Oct 05 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Vivaldi为其浏览器发布了一个新的更新，5.5版现在可供下载，其中有各种改进和新功能，如新的任务提醒面板，Windows 11上的Snap支持，更快的地址栏，以及保护用户免受电子邮件诈骗的安全改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [NASA和SpaceX今日将向国际空间站发射Crew-5飞船](https://www.cnbeta.com/articles/science/1323981.htm) | Wed Oct 05 2022 7:53 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国国家航空航天局（NASA）将对即将进行的SpaceX Crew-5前往国际空间站（ISS）的发射活动进行现场报道。Crew-5仍定于美国东部时间10月5日星期三中午从美国国家航空航天局佛罗里达州肯尼迪航天中心的39A发射场升空。一天多一点之后，10月6日星期四下午4点57分，名为&amp;quot;奋进号&amp;quot;的龙飞船计划与空间站对接。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [宣布收购推特后马斯克提到一款“万能应用” 美媒：听起来很像微信](https://www.cnbeta.com/articles/tech/1323979.htm) | Wed Oct 05 2022 7:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“马斯克的万能应用程序‘X’听起来很像中国的微信。”美国彭博社当地时间4日以此为题对马斯克收购推特事件进行了报道，并提到了中国手机应用程序——微信。关于万能应用程序“X”，彭博社称，马斯克并未透露更多细节。但报道表示，根据马斯克此前言论推测，他所说的这款万能应用程序听起来很像是中国的“超级应用程序”——微信。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [索尼开发实时服务型游戏并不意味着放弃单机游戏](https://hot.cnbeta.com/articles/game/1323977.htm) | Wed Oct 05 2022 7:22 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;PlayStation工作室老大Herman Hulst近日介绍称，索尼对实时服务型游戏的专注并不意味着他们打算停止公司赖以成名的单人剧情化游戏体验的制作。索尼曾在今年五月表示，他们当前正有12款实时服务型游戏正在规划中，将在2026年3月之前投向市场。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [角川书店董事长涉嫌贿赂东京奥组委官员被正式起诉](https://hot.cnbeta.com/articles/game/1323975.htm) | Wed Oct 05 2022 7:21 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;FromSoftware母公司角川书店董事长近日已被以行贿罪提起诉讼。角川书店董事长角川历彦于9月14日因涉嫌行贿罪被逮捕。如今，他已被正式起诉，罪名是向东京奥组委官员幸会6900万日元（约合人民币340万元）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
