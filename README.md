@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果CEO蒂姆·库克发文纪念史蒂夫·乔布斯：一个伟大的想法可以改变世界](https://www.cnbeta.com/articles/tech/1324073.htm) | Wed Oct 05 2022 4:45 PM 
+- 🕯 [Epic Games CEO蒂姆·斯威尼批评苹果公司在App Store中的提价行为](https://www.cnbeta.com/articles/tech/1324079.htm) | Wed Oct 05 2022 5:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司今天开始在所有使用欧元的地区和国家实施App Store涨价，涨价的原因是欧元对美元的疲软。Epic Games首席执行官蒂姆-斯威尼（Tim Sweeney）就价格更新发表了看法，表示苹果没有任何理由这么做。其公司目前正陷入与苹果的法律争斗中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [RTX4090非公版现身海外电商平台 上架即破发](https://www.cnbeta.com/articles/tech/1324077.htm) | Wed Oct 05 2022 5:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，西班牙电商平台CoolMod现货上架RTX4090非公版，官方指导价为1949欧元（约合人民币13574元），而其官网标价为1899.94欧元（约合人民币13227元），相差50欧元（约合人民币348元）。但即便欧洲区上架即破发也比国行12999元的起售价贵了不少，不是很推荐大家到欧区购买，还是等等国行吧，原价抢购就好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [海天酱油为何出口的没防腐剂？海天否认双标持续引热议](https://www.cnbeta.com/articles/tech/1324075.htm) | Wed Oct 05 2022 5:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日被多个自媒体爆料——国内售卖的海天酱油含食品添加剂，有一堆化学名词：谷氨酸钠、三氯蔗糖、苯甲酸钠……而日本售卖的一款海天酱油的标示却是“干干净净”，只有水、大豆、食用盐、砂糖、小麦。9月30日，海天味业发布声明，10月5日#海天味业再发声明否认双标#登上热搜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [苹果CEO蒂姆·库克发文纪念史蒂夫·乔布斯：一个伟大的想法可以改变世界](https://www.cnbeta.com/articles/tech/1324073.htm) | Wed Oct 05 2022 4:45 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天是苹果公司联合创始人史蒂夫·乔布斯罹患胰腺癌去世11周年。每一年，苹果公司CEO蒂姆·库克都会在Twitter上纪念这位科技界的远见卓识，今年也不例外。今年的推文包括一张乔布斯的照片和一条关于他的工作如何帮助催化变革的描述。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [灭绝恐龙的小行星曾引发全球巨浪 波浪高达数英里](https://www.cnbeta.com/articles/science/1324071.htm) | Wed Oct 05 2022 4:17 PM 
+- 🎊 [灭绝恐龙的小行星曾引发全球巨浪 波浪高达数英里](https://www.cnbeta.com/articles/science/1324071.htm) | Wed Oct 05 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;6600万年前，一颗数英里宽的小行星撞击了地球，几乎消灭了所有的恐龙和大约四分之三的地球动植物物种。根据10月4日在线发表在AGU Advances杂志上的密歇根大学领导的一项新研究，&lt;strong&gt;它还引发了一场巨大海啸，海浪高达一英里，在距离墨西哥尤卡坦半岛的撞击地点数千英里的地方冲刷海底。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [《Wild Heart》7分钟实机演示  动作流畅灵活](https://hot.cnbeta.com/articles/game/1324069.htm) | Wed Oct 05 2022 4:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由光荣特库摩制作，EA发行的动作狩猎游戏《Wild Heart》公开了7分钟的实机演示，该作将在2023年2月17日发售，登陆PC（Origin/Steam/Epic）、XSX/S和PS5。化身自然之力，驯服狂暴世界。&lt;strong&gt;《Wild Heart》演示：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [新研发的RNA工具可以照亮大脑电路甚至编辑特定的细胞](https://www.cnbeta.com/articles/science/1324067.htm) | Wed Oct 05 2022 3:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;杜克大学的科学家们已经开发出一种基于RNA的编辑工具，针对单个细胞，而不是基因。它能够精确瞄准任何类型的细胞，并有选择地添加任何感兴趣的蛋白质。研究人员说，该工具可以使修改非常具体的细胞和细胞功能来管理疾病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [中国调味品协会发文支持海天味业 国人为何谈添加剂色变？](https://www.cnbeta.com/articles/tech/1324065.htm) | Wed Oct 05 2022 3:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期海天味业食品添加剂“双标”风波在网络平台持续发酵。&lt;strong&gt;10月5日，海天味业再次发布声明称，食品添加剂广泛应用于各国的食品制造中，各企业按照各国标准和产品特性合法合规使用食品添加剂，海天售卖的国内国外产品内控标准是一致的，并未“双标”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
