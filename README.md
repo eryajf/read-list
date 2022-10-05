@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [澳大利亚鬃狮蜥脑图谱揭示大脑进化的秘密](https://www.cnbeta.com/articles/science/1323803.htm) | Tue Oct 04 2022 11:23 PM 
+- 🕯 [亚马逊确认暂停零售业务招聘 目前员工数量过多](https://www.cnbeta.com/articles/tech/1323857.htm) | Wed Oct 05 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来自马克斯-普朗克研究所的多名科学家近日发表论文，通过对澳大利亚鬃狮蜥的大脑进行分析后，为脊椎动物大脑的进化提供了重要的见解。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月5日消息，当地时间周二亚马逊证实，公司暂停旗下零售业务的人事招聘工作。此前有报道援引亚马逊内部通知称，&lt;strong&gt;亚马逊要求人事招聘专员在未来几天关闭零售岗位的所有招聘信息，并建议他们暂时不要打电话联系求职者。亚马逊发言人布拉德·格拉瑟&lpar;Brad Glasser&rpar;则表示，整个公司仍有大量空缺职位。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[图]非常规XFX Radeon RX 6700 XL 10 GB专用矿卡流出](https://www.cnbeta.com/articles/tech/1323801.htm) | Tue Oct 04 2022 10:48 PM 
+- 💼 [马斯克在推特解释：收购推特会加速打造“全能应用X”](https://www.cnbeta.com/articles/tech/1323855.htm) | Wed Oct 05 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;受加密寒冷影响很多矿场纷纷倒闭，这也流出了大量的矿卡，而其中就有一些不太常规的显卡。&lt;/strong&gt;例如本文接下来要介绍的这款讯景（XFX）Radeon RX 6700 XL 显卡，采用可定制、三风扇模型，应该是专门为了挖矿而设计的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月5日消息，当地时间周二特斯拉首席执行官埃隆·马斯克（Elon Musk）在社交媒体推特就再次同意推动交易一事回应称，“收购推特是加速打造万能应用X的催化剂”。马斯克还补充称，收购推特将他原计划的X项目提前了三到五年时间，“但我可能是错的”。除此之外，马斯克没有透露更多细节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [[图]Pixel 7系列高清渲染图和电池等诸多细节曝光](https://www.cnbeta.com/articles/tech/1323799.htm) | Tue Oct 04 2022 10:33 PM 
+- 💂 [Meta被曝正悄悄裁员 或波及1.2万名员工](https://www.cnbeta.com/articles/tech/1323853.htm) | Wed Oct 05 2022 1:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Pixel 7 系列正式发布虽然要等待本周四，但目前已经有关于该旗舰的诸多信息流出，包括官方预热、泄露的渲染图、营销材料、上手等等。在发布会正式开始之前，德国科技媒体 WinFuture 分享了 Pixel 7 和 Pixel 7 Pro 两款型号的更多高清渲染图。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月5日消息，多位员工透露，Facebook母公司Meta公司正在通过改变业绩预期来悄悄进行裁员，这可能会影响到该公司多达15%（或1.2万名）员工。上周参加每周问答活动时，Meta首席执行官马克·扎克伯格（Mark Zuckerberg）明确表示，该公司将延长自5月份以来始终在实行的招聘冻结政策。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星启动五年芯片发展计划：产能扩大3倍 2027年推出1.4纳米工艺](https://www.cnbeta.com/articles/tech/1323797.htm) | Tue Oct 04 2022 10:09 PM 
+- 🚀 [任性首富变卦 马斯克为何又想收购推特了？](https://www.cnbeta.com/articles/tech/1323851.htm) | Wed Oct 05 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;三星宣布了为期五年的发展计划，计划在 2027 年提高多种高端芯片的产能。通过该发展计划，三星希望从半导体巨头台积电中夺回市场。&lt;/strong&gt;三星电子于 10 月 3 日在美国加州硅谷召开了“三星晶圆代工论坛&amp;amp;SAFE论坛”，在随后发布的新闻稿中，三星承诺到 2027 年将先进节点的产能扩大“三倍以上”。该公司还计划在 2025 年推出 2 纳米工艺，到 2027 年推出 1.4 纳米工艺。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间10月5日消息，埃隆·马斯克&lpar;Elon Musk&rpar;对待Twitter收购交易的态度在周二出现了大反转。马斯克在一系列审前裁决中的败诉，可能已经让他预感到了法庭审判的艰难。就在马斯克与Twitter的收购纠纷即将正式开庭的几天前，马斯克在周二突然提议，继续执行以每股54.20美元收购Twitter的原定计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“海基一号”投产刷新我国海上单体石油生产平台新高](https://www.cnbeta.com/articles/tech/1323795.htm) | Tue Oct 04 2022 8:31 PM 
+- 🎊 [天文学家发现银河系的死亡恒星的“墓地”](https://www.cnbeta.com/articles/science/1323849.htm) | Wed Oct 05 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;深水导管架平台“海基一号”3日在南海陆丰油田作业区正式投产。平台总高度达340.5米，总重量超4万吨，高度和重量均刷新了我国海上单体石油生产平台纪录。“海基一号”位于珠江口盆地海域，由中国海洋石油集团有限公司自主设计建造。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;“银河地下世界”的第一张地图揭示了一个延伸到银河系高度三倍的“墓地”，几乎三分之一的天体已完全从银河系中抛出。&lt;/strong&gt;悉尼大学悉尼天文学研究所的博士生David Sweeney说：“这些死亡恒星的紧凑残骸显示出与可见星系根本不同的分布和结构。”他是最新一期《皇家天文学会月刊》上这篇论文的主要作者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
