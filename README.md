@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Compensation Hub - 发现、比较、定制和分享薪酬计划](https://xinquji.com/posts/180156?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:51 AM 
+- 👀 [Stabill - 节省您在汽车燃料上的钱，解决您今天的汽油价格](https://xinquji.com/posts/180191?utm_campaign=xinquji-rss) | Thu Oct 06 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     发现、比较、定制和分享薪酬计划  
+     节省您在汽车燃料上的钱，解决您今天的汽油价格  
     </details> 
 
-- 🥷 [GitStory - 互联网 Git 的时光机](https://xinquji.com/posts/180155?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:49 AM 
+- 🥷 [Zumvie - SaaS 的全功能产品演示](https://xinquji.com/posts/180190?utm_campaign=xinquji-rss) | Thu Oct 06 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     互联网 Git 的时光机  
+     SaaS 的全功能产品演示  
     </details> 
 
-- 💼 [Technicaly - 只需 599 美元 / 月即可为您的初创公司聘请技术作家](https://xinquji.com/posts/180154?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:47 AM 
+- 💼 [Fizz - 你的大学社区](https://xinquji.com/posts/180189?utm_campaign=xinquji-rss) | Thu Oct 06 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     只需 599 美元 / 月即可为您的初创公司聘请技术作家  
+     你的大学社区  
     </details> 
 
-- 🦅 [PageProof checklists - 实现创意工作合规的简单方法](https://xinquji.com/posts/180153?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:47 AM 
+- 🦅 [MergeCSV - 不再进行数据清理](https://xinquji.com/posts/180188?utm_campaign=xinquji-rss) | Thu Oct 06 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     实现创意工作合规的简单方法  
+     不再进行数据清理  
     </details> 
 
-- 😺 [TopHap Explorer - 每个人的房地产见解](https://xinquji.com/posts/180152?utm_campaign=xinquji-rss) | Wed Oct 05 2022 6:45 AM 
+- 😺 [The Productive Phone Wallpaper Pack - 手机壁纸可帮助您有意识地停止厄运滚动](https://xinquji.com/posts/180187?utm_campaign=xinquji-rss) | Thu Oct 06 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     每个人的房地产见解  
+     手机壁纸可帮助您有意识地停止厄运滚动  
     </details> 
 <!-- xinquji:END -->
