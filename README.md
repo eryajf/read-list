@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [宠物机器人Loona正在众筹 看起来就像来自于迪士尼动画电影](https://www.cnbeta.com/articles/tech/1323951.htm) | Wed Oct 05 2022 6:33 AM 
+- 🕯 [宣布收购推特后马斯克提到一款“万能应用” 美媒：听起来很像微信](https://www.cnbeta.com/articles/tech/1323979.htm) | Wed Oct 05 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;几十年来，机器人宠物一直是科幻作品的主打，近年来，我们已经看到大量的机器人最终进入市场，并取得了不同的成功。最新的产品是Loona，这是一个看起来相当先进的机器人，它有很多技巧，其个性看上去就像是来自于迪士尼电影。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“马斯克的万能应用程序‘X’听起来很像中国的微信。”美国彭博社当地时间4日以此为题对马斯克收购推特事件进行了报道，并提到了中国手机应用程序——微信。关于万能应用程序“X”，彭博社称，马斯克并未透露更多细节。但报道表示，根据马斯克此前言论推测，他所说的这款万能应用程序听起来很像是中国的“超级应用程序”——微信。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [亚马逊已经停产面向儿童的互动视频聊天设备Amazon Glow](https://www.cnbeta.com/articles/tech/1323949.htm) | Wed Oct 05 2022 6:28 AM 
+- 💼 [索尼开发实时服务型游戏并不意味着放弃单机游戏](https://hot.cnbeta.com/articles/game/1323977.htm) | Wed Oct 05 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊已经停产了Amazon Glow，这是一款互动视频聊天设备，专注于帮助孩子和亲人在大流行中通过互联网教育和娱乐。2021年推出的Amazon Glow结合了屏幕和投影仪，让孩子们可以接触到广泛的娱乐和教育内容。视频屏幕将孩子与视频通话另一端的远程人员连接起来，同时将游戏空间投射到一个硅胶垫上，不在同一地点的亲子都可以参与其中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;PlayStation工作室老大Herman Hulst近日介绍称，索尼对实时服务型游戏的专注并不意味着他们打算停止公司赖以成名的单人剧情化游戏体验的制作。索尼曾在今年五月表示，他们当前正有12款实时服务型游戏正在规划中，将在2026年3月之前投向市场。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华为P50新版或月底发布 可能换用骁龙778G 4G](https://www.cnbeta.com/articles/tech/1323947.htm) | Wed Oct 05 2022 6:19 AM 
+- 💂 [角川书店董事长涉嫌贿赂东京奥组委官员被正式起诉](https://hot.cnbeta.com/articles/game/1323975.htm) | Wed Oct 05 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上个月，华为正式发布了Mate50系列旗舰手机，目前市场反响非常出色。根据博主厂长是关同学最新消息，&lt;strong&gt;本月底华为还将召开新品发布会，此前曝光过的全新机型P50 Pocket new也将登场。&lt;/strong&gt;据悉，华为P50 Pocket new其实早在Mate50发布前就已经入网，具体型号为BAL-AL80，对比之下，老款P50 Pocket的型号为BAL-AL00。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;FromSoftware母公司角川书店董事长近日已被以行贿罪提起诉讼。角川书店董事长角川历彦于9月14日因涉嫌行贿罪被逮捕。如今，他已被正式起诉，罪名是向东京奥组委官员幸会6900万日元（约合人民币340万元）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [海天味业再发声明否认“双标” 中国调味品协会称支持企业追究造谣者责任](https://www.cnbeta.com/articles/tech/1323945.htm) | Wed Oct 05 2022 6:17 AM 
+- 🚀 [《绝地求生》万圣节活动公布 将与《黎明杀机》联动](https://hot.cnbeta.com/articles/game/1323973.htm) | Wed Oct 05 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期，海天味业食品添加剂“双标”风波在网络上持续发酵。10月5日，海天味业再次发布声明称，海天售卖的国内国外产品内控标准是一致的，并未双标。在海天看来，食品添加剂广泛应用于世界各国的食品制造中，包括美国，欧盟、日本等发达国家无一例外。各国对食品添加剂均有明确的法规标准，这些标准本身并没有高低之分、优劣之别。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;万圣节在即，Krafton 宣布将与 Behavior Interactive 建立合作伙伴关系，并推出《绝地求生》以及《绝地求生：未来之役》和其旗下的恐怖游戏IP《黎明杀机》的联动活动。此次联动活动中《绝地求生》端游将是主角。活动为期两个月，将于 10 月 19 日登陆 PC，10 月 20 日登陆游戏主机，分别持续至 12月 7 日和 8 日。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [造型别致的雪铁龙纯电皮卡首秀 搭载全新“双人字”车标](https://www.cnbeta.com/articles/tech/1323943.htm) | Wed Oct 05 2022 6:15 AM 
+- 🎊 [Bug频现差评如潮 《羊了个羊》App上架App Store](https://hot.cnbeta.com/articles/game/1323971.htm) | Wed Oct 05 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，雪铁龙OLI电动皮卡概念车在法国巴黎全球首秀，新车外观造型十分奇特，而且使用了回收材料，&lt;strong&gt;并且配备了雪铁龙全新“双人字”车标&lt;/strong&gt;。外观来看，这款车拥有鲜明的个性，突显出多功能特性：其前舱十分扁平、车顶和皮卡床板均由回收蜂窝硬纸板制作，异常坚硬，即使成年人站在车顶也没有任何问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;火热三消游戏《羊了个羊》一直以小游戏的方式存在于微信和抖音等平台，由于太过火爆以及小程序的运行机制，导致多次游戏服务器崩溃，因此该游戏开发者在前阵子采访中表示《羊了个羊》将上线AppStore。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
