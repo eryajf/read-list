@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新研发的RNA工具可以照亮大脑电路甚至编辑特定的细胞](https://www.cnbeta.com/articles/science/1324067.htm) | Wed Oct 05 2022 3:14 PM 
+- 🕯 [苹果CEO蒂姆·库克发文纪念史蒂夫·乔布斯：一个伟大的想法可以改变世界](https://www.cnbeta.com/articles/tech/1324073.htm) | Wed Oct 05 2022 4:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天是苹果公司联合创始人史蒂夫·乔布斯罹患胰腺癌去世11周年。每一年，苹果公司CEO蒂姆·库克都会在Twitter上纪念这位科技界的远见卓识，今年也不例外。今年的推文包括一张乔布斯的照片和一条关于他的工作如何帮助催化变革的描述。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [灭绝恐龙的小行星曾引发全球巨浪 波浪高达数英里](https://www.cnbeta.com/articles/science/1324071.htm) | Wed Oct 05 2022 4:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;6600万年前，一颗数英里宽的小行星撞击了地球，几乎消灭了所有的恐龙和大约四分之三的地球动植物物种。根据10月4日在线发表在AGU Advances杂志上的密歇根大学领导的一项新研究，&lt;strong&gt;它还引发了一场巨大海啸，海浪高达一英里，在距离墨西哥尤卡坦半岛的撞击地点数千英里的地方冲刷海底。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [《Wild Heart》7分钟实机演示  动作流畅灵活](https://hot.cnbeta.com/articles/game/1324069.htm) | Wed Oct 05 2022 4:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;由光荣特库摩制作，EA发行的动作狩猎游戏《Wild Heart》公开了7分钟的实机演示，该作将在2023年2月17日发售，登陆PC（Origin/Steam/Epic）、XSX/S和PS5。化身自然之力，驯服狂暴世界。&lt;strong&gt;《Wild Heart》演示：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [新研发的RNA工具可以照亮大脑电路甚至编辑特定的细胞](https://www.cnbeta.com/articles/science/1324067.htm) | Wed Oct 05 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;杜克大学的科学家们已经开发出一种基于RNA的编辑工具，针对单个细胞，而不是基因。它能够精确瞄准任何类型的细胞，并有选择地添加任何感兴趣的蛋白质。研究人员说，该工具可以使修改非常具体的细胞和细胞功能来管理疾病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中国调味品协会发文支持海天味业 国人为何谈添加剂色变？](https://www.cnbeta.com/articles/tech/1324065.htm) | Wed Oct 05 2022 3:07 PM 
+- 🎊 [中国调味品协会发文支持海天味业 国人为何谈添加剂色变？](https://www.cnbeta.com/articles/tech/1324065.htm) | Wed Oct 05 2022 3:07 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近期海天味业食品添加剂“双标”风波在网络平台持续发酵。&lt;strong&gt;10月5日，海天味业再次发布声明称，食品添加剂广泛应用于各国的食品制造中，各企业按照各国标准和产品特性合法合规使用食品添加剂，海天售卖的国内国外产品内控标准是一致的，并未“双标”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [路虎跳出“乌龟”图案四次都没修好 车主还找出“车辆隔离通知”](https://www.cnbeta.com/articles/tech/1324063.htm) | Wed Oct 05 2022 3:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不允许售卖的车辆，竟然被卖给了消费者，如今出了事，麻烦也就随之而来。据1818黄金眼报道，去年8月份，&lt;strong&gt;蒋先生买了一辆路虎发现混动版，花了30多万&lt;/strong&gt;，价格确实足够低，目前已经开了2万多公里。不过新车买回来第二个月，在驾驶过程中他就发现仪表盘跳出来一只“乌龟”，随后是一系列的故障，电动部分的功能失效，动力出现1-2秒的失效，发动机并介入。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324063.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [6999元起 iPhone 14 Plus即将开售 转售贬值率创最高纪录](https://www.cnbeta.com/articles/tech/1324061.htm) | Wed Oct 05 2022 3:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国庆假期转眼就要接近尾声，后天的10月7日是假期最后一天，同时也是iPhone 14 Plus的首发日期。按照以往管理，首批参与iPhone 14 Plus预订的用户，今明两天就会收到快递信息，&lt;strong&gt;最快10月7日当天上午就能收到新机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324061.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [科学家们可能已经弄清楚了天王星倾斜角与众不同的原因](https://www.cnbeta.com/articles/science/1324059.htm) | Wed Oct 05 2022 3:01 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天王星一直是天文学家们研究的一颗引人入胜的行星。天王星于1781年首次被发现，很快就因其奇怪的、极其&amp;quot;不正常&amp;quot;的倾斜而闻名。这颗来自太阳的第七颗行星似乎总是按照自己的节奏行进，虽然它可能与我们太阳系中的其他冰巨头有一些相似之处，但天王星的倾斜的自转轴线角度一直让科学家感到困惑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
