@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Swift - LeetCode - 最长回文串](https://juejin.cn/post/7150683501325451300) | Tue Oct 04 2022 3:44 PM 
+- 🤗 [Spring事务原理二（事务拦截逻辑）](https://juejin.cn/post/7150832732052914189) | Wed Oct 05 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 题目 给定一个包含大写字母和小写字母的字符串 s，返回 通过这些字母构造成的 最长的回文串。 在构造过程 
+    当代理对象的方法被调用时，最终会调用到TransactionInterceptor的invoke&lpar;&rpar;方法上面。对于为什么会调用到invoke&lpar;&rpar;方法的小伙伴，需要取了解一下动态代理的原理，可阅读博客: 
     </details> 
 
-- 🎡 [六六力扣刷题哈希表之两个数组的交集](https://juejin.cn/post/7150679839551750152) | Tue Oct 04 2022 3:31 PM 
+- 🎡 [大话数据结构之“树”](https://juejin.cn/post/7150832390116966436) | Wed Oct 05 2022 1:22 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两天晒网，刷几天，然 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 大话数据结构 一、数据结构绪论 逻辑结构： 集合结构 线性结构 线性结构中的数据元素是一对一的关系 树形 
     </details> 
 
-- 🕯 [TCP/IP 4 层协议分层](https://juejin.cn/post/7150678024894021663) | Tue Oct 04 2022 3:23 PM 
+- 🕯 [811. 子域名访问计数 : 简单哈希表运用题](https://juejin.cn/post/7150830007550656520) | Wed Oct 05 2022 1:13 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 TCP/IP 4 层协议 应用层 应用层是最上层的，我们能直接接触到的层，我们日常所使用的软件都是在应用 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 题目描述 这是 LeetCode 上的 811. 子域名访问计数 ，难度为 中等。 Tag : 「模拟」 
     </details> 
 
-- 🚀 [面向对象究竟是什么鬼？该如何理解？](https://juejin.cn/post/7150673107290685477) | Tue Oct 04 2022 3:04 PM 
+- 🚀 [JVM自带内存调优工具](https://juejin.cn/post/7150829320749973518) | Wed Oct 05 2022 1:11 AM 
     <details><summary>展开描述 ...</summary> 
-    基本所有的高级语言都支持面向对象编程（Object Oriented Programming, OOP），理解 OOP 的概念是程序员的基本要求；然而很多书籍对 OOP 的讲解都是照本宣科，把一个简单 
+    jdk在安装的时候会提供一些性能分析、故障诊断、JVM监控之类的工具，了解这些工具对我们分析JVM内存、JVM调优有一定的帮助， 
     </details> 
 
-- 💪 [JavaScript 循环语句](https://juejin.cn/post/7150669686751887397) | Tue Oct 04 2022 2:50 PM 
+- 💪 [【kafka源码】kafka分区副本的分配规则](https://juejin.cn/post/7150828585404596237) | Wed Oct 05 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    循环语句之for 循环语句用于重复执行某个操作，它有多种形式。 for语句是循环命令的另一种形式，可以指定循环的起点、终点和终止条件。它的格式如下。 for语句后面的括号里面，有三个表达式。 下面是一 
+    源码分析 创建Topic的源码入口 AdminManager.createTopics&lpar;&rpar; 以下只列出了 
     </details> 
 <!-- juejin:END -->
 ### 少数派
