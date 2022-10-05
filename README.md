@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [图解LeetCode——811. 子域名访问计数（难度：中等）](https://juejin.cn/post/7150939652516478984) | Wed Oct 05 2022 8:19 AM 
+- 🤗 [NRF52832学习笔记（5）——SPI&lpar;主机&rpar;接口使用](https://juejin.cn/post/7150946463726436389) | Wed Oct 05 2022 8:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 一、硬件连接 功能口 引脚 MISO 17 MOSI 18 CLK 20 CSN 19 二、移植文件 注 
+    </details> 
+
+- 🎡 [Jetpack从入门到几乎入门（二）](https://juejin.cn/post/7150940351174279198) | Wed Oct 05 2022 8:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    Jetpack从入门到几乎入门（二） 我正在参加「掘金·启航计划」 前言 Jetpack系列： Jetpack从入门到几乎入门（一） - 掘金 &lpar;juejin.cn&rpar; 本文是我在学习guolin大神的 
+    </details> 
+
+- 🕯 [对抗生成网络GAN系列——WGAN原理及实战演练](https://juejin.cn/post/7150940183218061348) | Wed Oct 05 2022 8:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文详细介绍了WGAN的原理，从通俗的角度带大家理解WGAN的原理。并且在代码实现中给出了WGAN较原始GAN做出的4点改变，让你能够搭建自己的WGAN网络。 
+    </details> 
+
+- 🚀 [图解LeetCode——811. 子域名访问计数（难度：中等）](https://juejin.cn/post/7150939652516478984) | Wed Oct 05 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 一、题目 网站域名 &quot;discuss.leetcode.com&quot; 由多个子域名组成。顶级域名为 &quot;com 
     </details> 
 
-- 🎡 [Flutter 开发前奏- 安装和下载](https://juejin.cn/post/7150937256306409509) | Wed Oct 05 2022 8:12 AM 
+- 💪 [Flutter 开发前奏- 安装和下载](https://juejin.cn/post/7150937256306409509) | Wed Oct 05 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
     “我正在参加「掘金·启航计划」” 前言： Flutter 介绍 flutter的官网地址 关于flutter的 自身优点： 跨平台：Linux 、 Android 、 IOS 、 Fuchsia  原 
-    </details> 
-
-- 🕯 [真·007！核酸采样机器人现身郑州；Python3面试准备与速查表；实时语音转文字工具库；AI绘画根据文本创建纹理；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7150936741971492901) | Wed Oct 05 2022 8:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    三款Stable Diffusion模型工具：Tensorflow/Keras移植版、根据文本创建纹理背景、M1 Mac 版一键式安装；强化学习与自动调度工具库、实时语音转文字工具库、视觉扩散模型资源 
-    </details> 
-
-- 🚀 [LeetCode 198：打家劫舍](https://juejin.cn/post/7150932642446180365) | Wed Oct 05 2022 7:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情. 198. 打家劫舍 描述 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的现金，影响你偷窃 
-    </details> 
-
-- 💪 [ContentProvider&lpar;2&rpar;:  provider 的安装与发布](https://juejin.cn/post/7150930389240905759) | Wed Oct 05 2022 7:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文分析 AMS 端对 provider 的处理，其中包括 provider 进程的创建， provider 进程发布 provider 到 AMS，以及 AMS 返回什么数据给客户端 
     </details> 
 <!-- juejin:END -->
 ### 少数派
