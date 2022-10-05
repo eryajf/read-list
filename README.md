@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《守望先锋 归来》今日上线 动画短片“零点危机”公布](https://hot.cnbeta.com/articles/game/1323937.htm) | Wed Oct 05 2022 3:41 AM 
+- 🕯 [欧洲暴发史上最大规模禽流感 近5000万只禽类被扑杀](https://www.cnbeta.com/articles/tech/1323941.htm) | Wed Oct 05 2022 3:54 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;据埃菲社哥本哈根10月3日电，欧洲疾病预防与控制中心（ECDC）3日发出警告，欧洲正在经历有记录以来最大规模的高致病性禽流感疫情，病例数量和地理分布范围都创下历史纪录。&lt;/strong&gt;ECDC和欧盟食品安全局的最新数据显示，迄今共暴发2467起家禽疫情，4800万只禽类在受影响的场所被扑杀，发现187例圈养禽类病例和3573例野生动物病例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [科学家研发新型纳米光子芯片 比MacBook Pro的处理器快数千倍](https://www.cnbeta.com/articles/science/1323939.htm) | Wed Oct 05 2022 3:46 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;自无线电报和真空管时代以来，电子计算和通信已取得显着进步。事实上，当前消费设备所实现的处理能力和内存水平在几十年前是无法想象的。但随着计算和信息处理微型设备变得越来越小、越来越强大，这些设备正遇到量子物理定律强加的一些基本限制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [《守望先锋 归来》今日上线 动画短片“零点危机”公布](https://hot.cnbeta.com/articles/game/1323937.htm) | Wed Oct 05 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《守望先锋&amp;nbsp;归来》今日正式上线，中文动画短片“零点危机”发公布。10月5日我们一起“归来”！我受到了召唤，我必须回应，一如既往！《守望先锋：归来》的客户端预下载现已开启，安装游戏需要64位的Windows 10及以上版本操作系统，下载内容约50GB。本作将由35名英雄加入，以2个月为赛季周期持续更新，并将推出全新PVE玩法。前作现已关服。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [索尼仍将继续跨世代发售PS4游戏 按具体情况决定](https://hot.cnbeta.com/articles/game/1323935.htm) | Wed Oct 05 2022 3:41 AM 
+- 🚀 [索尼仍将继续跨世代发售PS4游戏 按具体情况决定](https://hot.cnbeta.com/articles/game/1323935.htm) | Wed Oct 05 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在PS5发售之后，虽然我们看到了一些新主机独占游戏，比如《瑞奇与叮当：分离》、《恶魔之魂：重制版》和《死亡回归》，但到目前为止PlayStation大部分第一方游戏都还是跨世代的，比如《漫威蜘蛛侠：迈尔斯·莫拉莱斯》、《GT赛车7》和《地平线：西之绝境》都登陆了PS4平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美国劳工委员会称动视暴雪对QA工会进行了报复和打压](https://www.cnbeta.com/articles/tech/1323933.htm) | Wed Oct 05 2022 3:40 AM 
+- 🎊 [美国劳工委员会称动视暴雪对QA工会进行了报复和打压](https://www.cnbeta.com/articles/tech/1323933.htm) | Wed Oct 05 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据《华盛顿邮报》报道，美国国家劳资关系委员会认为，代表Raven Software QA 测试人员的工会对动视暴雪提起的投诉至少有一部分是有道理的。董事会已经确定，动视暴雪4月份决定提高除Raven 之外的所有 QA测试人员的最低时薪，这是对员工因受保护的工会活动进行报复的证据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [研究发现即使是少量的运动也能极大地增加大脑的体积](https://www.cnbeta.com/articles/science/1323931.htm) | Wed Oct 05 2022 3:37 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;锻炼使身体和心灵都保持健康，但对于体育锻炼如何以及在哪些方面影响我们的大脑却知之甚少。&amp;quot;在以前的研究中，大脑通常被视为一个整体，&amp;quot;神经科学家和当前研究的主要作者Fabienne Fox说。&amp;quot;我们的目标是对大脑进行更详细的研究，并找出体育活动对大脑的哪些区域影响最大。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [BentiX无人机：专为预算有限的水下探险者而设计](https://www.cnbeta.com/articles/tech/1323929.htm) | Wed Oct 05 2022 3:36 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然没有完全的工业ROV（遥控无人潜水器）那么昂贵，但小型水下无人机的价格仍然高达数千美元。&lt;strong&gt;BentiX的设计是不同的，因为它可以以大约999美元的价格买到。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
