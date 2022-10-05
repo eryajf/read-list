@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [uni-app小程序沉浸式导航](https://juejin.cn/post/7150884321422180383) | Wed Oct 05 2022 4:43 AM 
+- 🤗 [LeetCode 122：买卖股票的最佳时机 II](https://juejin.cn/post/7150893816231231495) | Wed Oct 05 2022 5:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情. 买卖股票的最佳时机 II 题目描述 给你一个整数数组 prices ，其中 prices[i] 表示某 
+    </details> 
+
+- 🎡 [uni-app小程序沉浸式导航](https://juejin.cn/post/7150884321422180383) | Wed Oct 05 2022 4:43 AM 
     <details><summary>展开描述 ...</summary> 
     1. 开始 项目要在多个页面上加自定义导航栏，还要有渐变效果，就是随着页面上滑，导航栏透明度由0逐渐变为1。这里面有几个基本点需要注意下。 2. page的样式 page 不能是height: 100 
     </details> 
 
-- 🎡 [Axure RP 教程，如何在 Axure RP 中设置搜索框交互？](https://juejin.cn/post/7150870175468748808) | Wed Oct 05 2022 3:50 AM 
+- 🕯 [【Android爬坑周记】用SplashScreen做一个会动的开屏！](https://juejin.cn/post/7150692699350237191) | Tue Oct 04 2022 4:21 PM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中设置搜索框交互。 
+    Android 12以上加入了SplashScreen，并且支持开屏动画了！让我们一步一步做一个开屏动画吧！ 
     </details> 
 
-- 🕯 [制作了一个马赛克图片转换器 - 实现篇](https://juejin.cn/post/7150857452362137637) | Wed Oct 05 2022 3:00 AM 
+- 🚀 [【微服务专题】深入理解与实践微服务架构&lpar;十三&rpar;之Gateway谓词与过滤器功能实践](https://juejin.cn/post/7150691487880052743) | Tue Oct 04 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
-    上文有讲到我制作了一个马赛克图片转换器，可以将图片转换成马赛克风格，并可转换为 `css box-shadow` 进行输出。本文将在实现原理和细节 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 7. 如何配置谓词和过滤器 上面我们快速上手了网关路由的谓词配置和过滤器配置，相当于已经使用过Gatew 
     </details> 
 
-- 🚀 [两个支付宝小程序之间带参扫码在线付款实现](https://juejin.cn/post/7150681135129821215) | Tue Oct 04 2022 3:36 PM 
+- 💪 [手把手教你实现 seq2seq](https://juejin.cn/post/7150690387315654693) | Tue Oct 04 2022 4:12 PM 
     <details><summary>展开描述 ...</summary> 
-    业务场景：小程序A有一个订单付款码，二维码中带了一个订单id，需要将这个id作为参数传递给小程序B，小程序B用支付宝扫码后获取到该参数，并且加载该订单后发起支付宝支付； 实现思路：支付宝官网 给我们提 
-    </details> 
-
-- 💪 [探秘Java：一个对象的生成（下）](https://juejin.cn/post/7150680864957939742) | Tue Oct 04 2022 3:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    在上一篇文章中笔者较为详细地介绍了对象生成相关的基本知识，在学习这些基础知识的过程中可以发现有一个关键性角色贯穿了一个对象生成的整个生命周期——类型信息，这次我们就来具体了解一下。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 前边刚说了encoder-decoder框架，也写了大体的代码思路。但是有思路不代表能写出东西来，今天就 
     </details> 
 <!-- juejin:END -->
 ### 少数派
