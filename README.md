@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google选择南非作为其在非洲的第一个云服务区域](https://www.cnbeta.com/articles/tech/1323991.htm) | Wed Oct 05 2022 9:15 AM 
+- 🕯 [微软阻止使用动态磁盘的计算机升级Windows 11 22H2 出现0x8007001错误](https://www.cnbeta.com/articles/tech/1324003.htm) | Wed Oct 05 2022 11:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;科技巨头Google今天宣布在南非推出一个云区域，这是它在非洲大陆的第一个云区域，从而开始追赶几年前进入非洲大陆的亚马逊网络服务（AWS）和微软Azure等其他顶级供应商。Google表示，它还在内罗毕（肯尼亚）、拉各斯（尼日利亚）和开普敦和约翰内斯堡（南非）建设专用云互联服务，将客户的内部网络与Google的网络连接起来，以寻求为其非洲的客户和合作伙伴提供全面的云功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软上个月发布了Windows 11 2022功能更新。该更新正在逐步向拥有兼容PC的用户推出。自去年最初的21H2发布以来，系统要求没有改变，这意味着在你已经有一台支持的PC的情况下应该收到更新。不过也有例外，微软似乎已经阻止了使用动态磁盘系统的更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果要求供应商将部分AirPods和Beats的生产转移到印度](https://www.cnbeta.com/articles/tech/1323989.htm) | Wed Oct 05 2022 9:09 AM 
+- 💼 [韩国艺术家、漫画家金政基因病去世 年仅47岁](https://hot.cnbeta.com/articles/comic/1324001.htm) | Wed Oct 05 2022 11:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据日经新闻周三报道，苹果公司正在要求其供应商首次将一些AirPods和Beats耳机的生产转移到印度，这可能是新德里在推动本地制造业方面的又一次胜利。报道援引消息人士的话说，苹果iPhone的装配商富士康正准备在印度生产Beats耳机，并希望最终也能在印度生产AirPods。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月5日，官方宣布韩国艺术家、漫画家金政基因突发疾病于10月3日去世，享年47岁。金政基先生为一名优秀的艺术家，其在速写上的艺术造诣更是对无数人产生了深厚影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1324001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [网络协议分析工具Wireshark 4.0.0最新版发布](https://www.cnbeta.com/articles/tech/1323987.htm) | Wed Oct 05 2022 9:07 AM 
+- 💂 [今天是史蒂夫·乔布斯逝世11周年 专题档案网站不久前上线](https://www.cnbeta.com/articles/tech/1323999.htm) | Wed Oct 05 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;著名的开源网络协议分析器Wireshark 4.0的最新版本已经发布。Wireshark 4.0引入了一个更强大的显示过滤器语法，它有许多新的扩展，重新设计了转换和端点对话框，默认的主窗口布局得到了改进，改进了十六进制转储的导入，更快的MaxMind地理定位处理，以及其他各种改进和修复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天是史蒂夫-乔布斯逝世11周年，享年56岁，那是在苹果公司推出iPhone 4S和Siri的第二天。Laurene Powell Jobs、Tim Cook和Jony Ive最近在与记者Kara Swisher的座谈中讨论了乔布斯的遗产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [孙正义会见李在镕细节曝光，ARM会易主三星吗？](https://www.cnbeta.com/articles/tech/1323985.htm) | Wed Oct 05 2022 8:57 AM 
+- 🚀 [加劳德特大学被苹果授予“苹果杰出学校”称号](https://www.cnbeta.com/articles/tech/1323997.htm) | Wed Oct 05 2022 10:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知情人士称，软银集团CEO孙正义&lpar;Masayoshi Son&rpar;周二会见了三星电子副会长李在镕&lpar; Lee Jae-yong&rpar;，讨论了旗下芯片设计公司ARM与三星进行长期合作的事宜，但没有提出向三星出售全部或部分ARM股份。孙正义在10月1日抵达韩国，这是他三年来首次海外旅行。他在出访前表示，会和三星讨论与ARM建立战略联盟的事宜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司授予位于华盛顿特区的Galludet（加劳德特）大学杰出学校的地位，以表彰其包括美国手语教学的工作。Galludet大学和苹果公司有着长久的历史往来，最近包括蒂姆·库克被邀请在该大学2022年的毕业典礼上发表演讲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Vivaldi 5.5发布 在Windows 11上提供任务面板和Snap支持](https://www.cnbeta.com/articles/tech/1323983.htm) | Wed Oct 05 2022 8:10 AM 
+- 🎊 [“快银”主演《Dahmer》成网飞最热美剧之一](https://hot.cnbeta.com/articles/movie/1323995.htm) | Wed Oct 05 2022 10:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Vivaldi为其浏览器发布了一个新的更新，5.5版现在可供下载，其中有各种改进和新功能，如新的任务提醒面板，Windows 11上的Snap支持，更快的地址栏，以及保护用户免受电子邮件诈骗的安全改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据 Deadline 报道，《Dahmer：怪物——杰夫瑞·达默的故事》迅速成为了网飞 Netflix 流媒体平台有史以来最热门的电视剧之一。该剧由曾在《X战警》中饰演过“快银”的演员埃文·彼得斯（Evan Peters）主演，他在剧中扮演了臭名昭著的连环杀手杰夫瑞·莱昂内尔·达默。剧集仅在网飞上线后首周观看时长就达到了惊人的 2.9984 亿小时。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1323995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
