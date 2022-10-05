@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [旧手机当 Linux 服务器的吐槽和讨论](https://www.v2ex.com/t/884743#reply12) | Wed Oct 05 2022 6:26 AM
-- 🤗 [像 天眼查 企查查 这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727#reply29) | Wed Oct 05 2022 5:13 AM
-- 🎭 [求一些 k8s 学习资料](https://www.v2ex.com/t/884720#reply3) | Wed Oct 05 2022 4:41 AM
-- 🥷 [目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下 Pixel、一加和三星了？](https://www.v2ex.com/t/884716#reply28) | Wed Oct 05 2022 4:23 AM
-- 🐵 [translucentTB 没法透明任务栏了？](https://www.v2ex.com/t/884711#reply3) | Wed Oct 05 2022 4:03 AM<!-- v2ex:END -->
+- 🥸 [2022 年有哪些值得推荐的云服务器？](https://www.v2ex.com/t/884757#reply2) | Wed Oct 05 2022 8:19 AM
+- 🤗 [使用 rsync 同步 2 台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755#reply2) | Wed Oct 05 2022 7:34 AM
+- 🎭 [旧手机当 Linux 服务器的吐槽和讨论](https://www.v2ex.com/t/884743#reply13) | Wed Oct 05 2022 6:26 AM
+- 🥷 [像 天眼查 企查查 这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727#reply30) | Wed Oct 05 2022 5:13 AM
+- 🐵 [求一些 k8s 学习资料](https://www.v2ex.com/t/884720#reply3) | Wed Oct 05 2022 4:41 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
