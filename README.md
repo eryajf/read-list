@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【算法题解】 Day7 偷懒的一天](https://juejin.cn/post/7151025362225332237) | Wed Oct 05 2022 1:52 PM 
+- 🤗 [后端开发者的M1 Macbook开发环境搭建](https://juejin.cn/post/7151038446696398885) | Wed Oct 05 2022 2:43 PM 
     <details><summary>展开描述 ...</summary> 
-    I&#39;m so sorry, 今天出去玩了，所以只有每日一题的签到，偷懒了偷懒了，下次不会了，sos... 
+    介绍针对Java开发者，Macbook m1芯片笔记本的开发环境搭建，同时介绍作者使用过程中体验比较好的一些软件 
     </details> 
 
-- 🎡 [六六力扣刷题哈希表之快乐数](https://juejin.cn/post/7151025285243076639) | Wed Oct 05 2022 1:52 PM 
+- 🎡 [1. 统计有序矩阵中的负数](https://juejin.cn/post/7151038411082563614) | Wed Oct 05 2022 2:41 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两天晒网，刷几天，然 
+    --- theme: channing-cyan highlight: smartblue --- 持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情  
     </details> 
 
-- 🕯 [Linux命令系列之top——里面藏着很多鲜为人知的宝藏知识](https://juejin.cn/post/7151019602456084511) | Wed Oct 05 2022 1:31 PM 
+- 🕯 [【SSO单点登录】JWT续签问题 &amp;&amp; OAuth2.0 中的refreshToken刷新机制](https://juejin.cn/post/7151033800577777694) | Wed Oct 05 2022 2:23 PM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章主要给大家深入介绍top命令的各种项的具体含义，以及在交互模式下我么如何高效的使用命令完成工作！ 
+    ①JWT续签问题 ②快过期时返回新的token ③refreshToken ④如何判断refreshToken的有效性 ⑤OAuth2.0 中的refreshToken刷新机制 ⑥刷新token的情况 
     </details> 
 
-- 🚀 [以码为梦，心向远方，路在脚下](https://juejin.cn/post/7151018768691363847) | Wed Oct 05 2022 1:27 PM 
+- 🚀 [验证与恢复二叉搜索树](https://juejin.cn/post/7151032328179941389) | Wed Oct 05 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 时光如水流逝 时光匆匆流逝，从不停歇；世间万物在更新，而我们也在不断成长。岁月是那么的公平，公平到从不多 
+    恢复二叉搜索树 题目 给你二叉搜索树的根节点 root ，该树中的两个节点被错误地交换。请在不改变其结构的情况下，恢复这棵树。 示例1： 示例2： 解决思路 根据题意可知，是二叉搜索树，这就是意味着节 
     </details> 
 
-- 💪 [LeetCode 未知数的平方根使用JavaScript解题|前端学算法](https://juejin.cn/post/7151011564832292901) | Wed Oct 05 2022 1:00 PM 
+- 💪 [Azure | AZ-204 认证之旅-ASP VS ASE](https://juejin.cn/post/7151030961952686110) | Wed Oct 05 2022 2:12 PM 
     <details><summary>展开描述 ...</summary> 
-    前端使用JavaScript解决LeetCode未知数的平方根问题；前端学算法每天三分钟学会一个知识点 
+    前几篇文章讲到了APP应用服务，但是其是如何立足于Azure的架构体系的呢？这篇文章带大家来认识Azure服务的中流砥柱ASP和ASE。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
