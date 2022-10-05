@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [亚马逊确认暂停零售业务招聘 目前员工数量过多](https://www.cnbeta.com/articles/tech/1323857.htm) | Wed Oct 05 2022 1:56 AM 
+- 🕯 [《守望先锋 归来》今日上线 动画短片“零点危机”公布](https://hot.cnbeta.com/articles/game/1323937.htm) | Wed Oct 05 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月5日消息，当地时间周二亚马逊证实，公司暂停旗下零售业务的人事招聘工作。此前有报道援引亚马逊内部通知称，&lt;strong&gt;亚马逊要求人事招聘专员在未来几天关闭零售岗位的所有招聘信息，并建议他们暂时不要打电话联系求职者。亚马逊发言人布拉德·格拉瑟&lpar;Brad Glasser&rpar;则表示，整个公司仍有大量空缺职位。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《守望先锋&amp;nbsp;归来》今日正式上线，中文动画短片“零点危机”发公布。10月5日我们一起“归来”！我受到了召唤，我必须回应，一如既往！《守望先锋：归来》的客户端预下载现已开启，安装游戏需要64位的Windows 10及以上版本操作系统，下载内容约50GB。本作将由35名英雄加入，以2个月为赛季周期持续更新，并将推出全新PVE玩法。前作现已关服。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马斯克在推特解释：收购推特会加速打造“全能应用X”](https://www.cnbeta.com/articles/tech/1323855.htm) | Wed Oct 05 2022 1:55 AM 
+- 💼 [索尼仍将继续跨世代发售PS4游戏 按具体情况决定](https://hot.cnbeta.com/articles/game/1323935.htm) | Wed Oct 05 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月5日消息，当地时间周二特斯拉首席执行官埃隆·马斯克（Elon Musk）在社交媒体推特就再次同意推动交易一事回应称，“收购推特是加速打造万能应用X的催化剂”。马斯克还补充称，收购推特将他原计划的X项目提前了三到五年时间，“但我可能是错的”。除此之外，马斯克没有透露更多细节。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在PS5发售之后，虽然我们看到了一些新主机独占游戏，比如《瑞奇与叮当：分离》、《恶魔之魂：重制版》和《死亡回归》，但到目前为止PlayStation大部分第一方游戏都还是跨世代的，比如《漫威蜘蛛侠：迈尔斯·莫拉莱斯》、《GT赛车7》和《地平线：西之绝境》都登陆了PS4平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1323935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Meta被曝正悄悄裁员 或波及1.2万名员工](https://www.cnbeta.com/articles/tech/1323853.htm) | Wed Oct 05 2022 1:55 AM 
+- 💂 [美国劳工委员会称动视暴雪对QA工会进行了报复和打压](https://www.cnbeta.com/articles/tech/1323933.htm) | Wed Oct 05 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月5日消息，多位员工透露，Facebook母公司Meta公司正在通过改变业绩预期来悄悄进行裁员，这可能会影响到该公司多达15%（或1.2万名）员工。上周参加每周问答活动时，Meta首席执行官马克·扎克伯格（Mark Zuckerberg）明确表示，该公司将延长自5月份以来始终在实行的招聘冻结政策。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据《华盛顿邮报》报道，美国国家劳资关系委员会认为，代表Raven Software QA 测试人员的工会对动视暴雪提起的投诉至少有一部分是有道理的。董事会已经确定，动视暴雪4月份决定提高除Raven 之外的所有 QA测试人员的最低时薪，这是对员工因受保护的工会活动进行报复的证据。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [任性首富变卦 马斯克为何又想收购推特了？](https://www.cnbeta.com/articles/tech/1323851.htm) | Wed Oct 05 2022 1:54 AM 
+- 🚀 [研究发现即使是少量的运动也能极大地增加大脑的体积](https://www.cnbeta.com/articles/science/1323931.htm) | Wed Oct 05 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间10月5日消息，埃隆·马斯克&lpar;Elon Musk&rpar;对待Twitter收购交易的态度在周二出现了大反转。马斯克在一系列审前裁决中的败诉，可能已经让他预感到了法庭审判的艰难。就在马斯克与Twitter的收购纠纷即将正式开庭的几天前，马斯克在周二突然提议，继续执行以每股54.20美元收购Twitter的原定计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;锻炼使身体和心灵都保持健康，但对于体育锻炼如何以及在哪些方面影响我们的大脑却知之甚少。&amp;quot;在以前的研究中，大脑通常被视为一个整体，&amp;quot;神经科学家和当前研究的主要作者Fabienne Fox说。&amp;quot;我们的目标是对大脑进行更详细的研究，并找出体育活动对大脑的哪些区域影响最大。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [天文学家发现银河系的死亡恒星的“墓地”](https://www.cnbeta.com/articles/science/1323849.htm) | Wed Oct 05 2022 1:53 AM 
+- 🎊 [BentiX无人机：专为预算有限的水下探险者而设计](https://www.cnbeta.com/articles/tech/1323929.htm) | Wed Oct 05 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;“银河地下世界”的第一张地图揭示了一个延伸到银河系高度三倍的“墓地”，几乎三分之一的天体已完全从银河系中抛出。&lt;/strong&gt;悉尼大学悉尼天文学研究所的博士生David Sweeney说：“这些死亡恒星的紧凑残骸显示出与可见星系根本不同的分布和结构。”他是最新一期《皇家天文学会月刊》上这篇论文的主要作者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1323849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然没有完全的工业ROV（遥控无人潜水器）那么昂贵，但小型水下无人机的价格仍然高达数千美元。&lt;strong&gt;BentiX的设计是不同的，因为它可以以大约999美元的价格买到。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1323929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
