@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SpringBoot应用自定义logback日志](https://juejin.cn/post/7150974849999962148) | Wed Oct 05 2022 10:36 AM 
+- 🤗 [JAVA8时间工具类](https://juejin.cn/post/7150998292887765029) | Wed Oct 05 2022 12:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    JAVA8时间工具类 ========== 前言 -- 因为JDK1.7的时间工具类Date和C 
+    </details> 
+
+- 🎡 [力扣：209.长度最小的子数组](https://juejin.cn/post/7150990521266094116) | Wed Oct 05 2022 11:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 力扣——209.长度最小的子数组 209. 长度最小的子数组 问题解析 给定一个含有 n 个正整数的数组 
+    </details> 
+
+- 🕯 [JavaScript设计模式之单例模式](https://juejin.cn/post/7150986499935666190) | Wed Oct 05 2022 11:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文将介绍单例模式的概念和使用场景，配合一些demo代码和开源第三方库的使用让读者对单例模式有更深刻的理解。 
+    </details> 
+
+- 🚀 [10.1玩嗨了吧，让我看看还有谁在卷](https://juejin.cn/post/7150982084554096670) | Wed Oct 05 2022 11:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 一、背景 传统的web开发实现登陆功能，一般的做法是输入账号密码、或者输入手机号及短信验证码进行登录 服 
+    </details> 
+
+- 💪 [SpringBoot应用自定义logback日志](https://juejin.cn/post/7150974849999962148) | Wed Oct 05 2022 10:36 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 概述 默认情况下，SpringBoot内部使用logback作为系统日志实现的框架，将日志输出到控制台， 
-    </details> 
-
-- 🎡 [时间老去,Ruby不死,Ruby语言基础入门教程之Ruby3全平台开发环境搭建](https://juejin.cn/post/7150966209016496141) | Wed Oct 05 2022 10:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    无论是语法还是理念，都让Ruby开发者感受到款待，如此，Ruby代码就像活了过来，它们时而高声，却藏不住优雅，时而细语，却意外地铿锵，真是美妙，这种庄重而温柔的魅力，用那一代奉松本行弘为偶像的人的话说 
-    </details> 
-
-- 🕯 [macOS 上如何写自定义命令行工具？](https://juejin.cn/post/7150964312008294437) | Wed Oct 05 2022 9:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 大家好，我是前端西瓜哥，今天来说说怎么在 macOS 上写自定义命令行工具。 苹果的 masOS 系统的 
-    </details> 
-
-- 🚀 [前端的 FFmpeg? 可能还没准备好](https://juejin.cn/post/7150962372130111518) | Wed Oct 05 2022 9:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    在前端执行FFmpeg? 听起来很酷吧, 基于Webassembly技术，将FFmpeg编译成wasm就能在前端运行, 各种视频合成，分割，转码之类之前只能交给户端的任务还不是手到拈来？ 
-    </details> 
-
-- 💪 [Azure | AZ-204 认证之旅-应用服务（三）](https://juejin.cn/post/7150959372250644516) | Wed Oct 05 2022 9:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    上两篇文章应用服务及其创建方式，那么创建完成以后呢？这篇文章我们一起来了解身份验证和授权、Azure服务的混合连接、本地缓存和弹性伸缩。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
