@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [六六力扣刷题哈希表之两数之和](https://juejin.cn/post/7151289050354155527) | Thu Oct 06 2022 6:55 AM 
+- 🤗 [动态规划之打家劫舍二](https://juejin.cn/post/7151303139973890078) | Thu Oct 06 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两天晒网，刷几天，然 
+    你是一个专业的小偷，计划偷窃沿街的房屋，每间房内都藏有一定的现金。这个地方所有的房屋都 围成一圈 ，这意味着第一个房屋和最后一个房屋是紧挨着的。同时，相邻的房屋装有相互连通的防盗系统，如果两间相邻的房 
     </details> 
 
-- 🎡 [【超详细保姆级】从零开始你的第一个 Unity 项目](https://juejin.cn/post/7151286248974319652) | Thu Oct 06 2022 6:44 AM 
+- 🎡 [Point_Array](https://juejin.cn/post/7151303094034006053) | Thu Oct 06 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
-    一、前言 Unity3D 是一款优秀的 3D 游戏引擎，可以开发各种各样的游戏，比如多人在线角色角色扮演游戏、赛车游戏、动作竞技游戏以及射击游戏等等。在移动平台，Unity3D 的地位更是举足轻重，目 
+    ​持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 题目描述 上面是我们曾经练习过的一个习题，请在原来代码的基础上作以下修改：1、增加自写的拷贝构造函数； 
     </details> 
 
-- 🕯 [【Java·API】：有关日期时间类的简单记录](https://juejin.cn/post/7151283164357328904) | Thu Oct 06 2022 6:31 AM 
+- 🕯 [统计工龄 C++ mapYYDS](https://juejin.cn/post/7151302273071120397) | Thu Oct 06 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-    Date类、SimpleDateFormat类、LocalDate类、LocalTime类、LocalDateTime类、DateTimeFormatter类、Period类以及Duration类。 
+    ​持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 题目描述 给定公司N名员工的工龄，要求按工龄增序输出每个工龄段有多少员工。 输入 输入首先给出正整数N 
     </details> 
 
-- 🚀 [Python 3.12 目标：还可以更快！](https://juejin.cn/post/7151276855113285669) | Thu Oct 06 2022 6:06 AM 
+- 🚀 [Spring Security系列教程08--基于默认数据库模型实现授权](https://juejin.cn/post/7151129564008153119) | Wed Oct 05 2022 8:55 PM 
     <details><summary>展开描述 ...</summary> 
-    按照发布计划，Python 3.11.0 将于 2022 年 10 月 24 日发布。 据测试，3.11 相比于 3.10，将会有 10-60% 的性能提升，这个成果主要归功于“Faster CPyt 
+    --- highlight: a11y-dark --- 持续创作，加速成长！这是我参与「掘金日新计 
     </details> 
 
-- 💪 [主机字节序和网络字节序](https://juejin.cn/post/7151275797171404813) | Thu Oct 06 2022 6:03 AM 
+- 💪 [TensorBoard 一行代码实现指标可视化](https://juejin.cn/post/7151059411350323207) | Wed Oct 05 2022 4:02 PM 
     <details><summary>展开描述 ...</summary> 
-    TCP/IP网络采用的是大端，是规定好的一种数据表示格式，它与具体的CPU类型、操作系统等无关，从而可以保证数据在不同主机之间传输时能够被正确解释。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 跑深度学习模型，我们会有各种指标以及loss。想要可视化怎么办？初学者肯定是学的用matplotlib自 
     </details> 
 <!-- juejin:END -->
 ### 少数派
