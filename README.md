@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [法国一法院降低了对苹果公司控制第三方分销商定价的反垄断罚款](https://www.cnbeta.com/articles/tech/1324357.htm) | Thu Oct 06 2022 3:19 PM 
+- 🕯 [一位前Facebook工程师想帮助你建立自己的手机网络](https://www.cnbeta.com/articles/tech/1324367.htm) | Thu Oct 06 2022 4:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据路透社报道，法国一家上诉法院今天降低了法国竞争管理局对苹果公司的罚款，之前监管机构开出罚单的原因是苹果公司涉嫌&amp;quot;对其分销和零售网络的反竞争行为&amp;quot;。该报告称，罚款已从最初的11亿欧元降至3.72亿欧元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一家新公司想让你成为你自己的手机运营商，即使你离家在外也能使用你的互联网连接，并漫游到其他做同样事情的人的网络。&lt;/strong&gt;这家公司由前Facebook工程师卡希夫-阿里&lpar;Kashif Ali&rpar;领导，名为Ukama，它在以工程和创客为重点的网站Crowd Supply上发起了一项众筹活动，将其设备提供给愿意尝试这种技术并开始建立网络的人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google的Pixel 7和7 Pro将可以修复你以前手抖拍的模糊照片](https://www.cnbeta.com/articles/tech/1324355.htm) | Thu Oct 06 2022 3:16 PM 
+- 💼 [一台道具车就能送公司上市 北美贾跃亭教你如何用嘴造电车](https://www.cnbeta.com/articles/tech/1324365.htm) | Thu Oct 06 2022 4:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google表示，用户将能够使用Pixel 7回溯其Google照片库，并使用一个名为Photo Unblur的功能修复旧的模糊照片。到目前为止，该功能是Google最新手机独有的，类似于Pixel 6推出的Magic Eraser功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这些年，在刮起八级大狂风的造车风口下……一个个新势力明里暗里的，都表示自己是“ 颠覆者 ”，是下一个特斯拉。只不过有趣的是，谁是下一个特斯拉还没个准儿， &lt;strong&gt;但 “ 谁是下一个贾跃亭 ”，却已经先出现了标准答案&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Google提供未来Pixel平板电脑的更多信息：可变身家居智能显示器](https://www.cnbeta.com/articles/tech/1324353.htm) | Thu Oct 06 2022 3:13 PM 
+- 💂 [今天是Windows 11发布一周年](https://www.cnbeta.com/articles/tech/1324363.htm) | Thu Oct 06 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们已经知道，Pixel平板电脑从I/O开始就被提及，这是该公司预告的即将推出的三款硬件设备之一。另外两款 - Pixel 7和Pixel Watch已经到来。而那些一直在等待该公司下一次推出平板电脑的人，则要等到明年了。不过，谷歌产品经理Rose Yao今天在发布会上公布了一些关键功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Windows 11到今天已经一岁了，这一微软最新和最先进的操作系统在当地时间2021年10月5日面向所有用户发布。&lt;/strong&gt;与大多数人习惯的传统现代Windows体验相比，Windows 11带来了很多变化，包括居中的任务栏图标和受Windows 10X（微软停止研发的操作系统）启发的新的开始菜单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google发布Tensor G2处理器 除了制程升级之外改变不大](https://www.cnbeta.com/articles/tech/1324351.htm) | Thu Oct 06 2022 3:09 PM 
+- 🚀 [《海贼王：奥德赛》全新预告 明年1月12日发售](https://hot.cnbeta.com/articles/game/1324361.htm) | Thu Oct 06 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;正如预期的那样，Google今天推出了其最新的Pixel手机系列，以及Pixel手表。手表采用了三星Exynos芯片，而新的Pixel则再次使用了Google自主研发的Tensor处理器。现在是第二代，Google在会上表示Tensor G2处理器可以为手机提供两倍的夜视处理速度和更清晰的照片（Face Unblur），以及改进的超级分辨率缩放（Pixel 7 Pro最高达30倍）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;万代公布了RPG游戏《海贼王：奥德赛》的全新预告，介绍了雪花王国，该作预计在2023年1月12日在日本发售，1月13日在全球发行，登陆Steam、PS5、XSX/S和PS4平台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《海贼王：奥德赛》新预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Google再次喊话苹果尽快采用RCS以改善短信体验](https://www.cnbeta.com/articles/tech/1324349.htm) | Thu Oct 06 2022 3:06 PM 
+- 🎊 [Uber和Motional达成合作 计划10年内在全美实现自动驾驶出租车](https://www.cnbeta.com/articles/tech/1324359.htm) | Thu Oct 06 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在周四举行的大型Pixel活动的舞台上，Google再次公开指责苹果公司没有采用RCS来改善短信。Google没有说&amp;quot;苹果&amp;quot;这个词，但很明显该公司指的是谁。Google的布莱恩-拉科夫斯基（Brian Rakowski）在发布会上说：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Uber正在重新参与自动驾驶出租车的游戏，只是这一次它利用第三方来处理自动驾驶技术。&lt;/strong&gt;Motional是Aptiv-Hyundai的合资企业，负责自动驾驶汽车技术的商业化，将在今年晚些时候将其自动驾驶出租车投入Uber网络，作为为期10年的运营协议的一部分，最终将在北美的主要城市推广。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
