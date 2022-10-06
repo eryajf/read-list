@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Windows 环境下访问阻止软件推荐](https://www.v2ex.com/t/884879#reply0) | Thu Oct 06 2022 6:21 AM
+- 🥸 [Windows 环境下访问阻止软件推荐](https://www.v2ex.com/t/884879#reply1) | Thu Oct 06 2022 6:21 AM
 - 🤗 [Pyinstaller 打包无头浏览器，弹出 cmd 窗口的问题](https://www.v2ex.com/t/884875#reply0) | Thu Oct 06 2022 5:55 AM
-- 🎭 [AWS/Azure/GCP Kubernetes 服务性价比比较](https://www.v2ex.com/t/884864#reply9) | Thu Oct 06 2022 4:49 AM
-- 🥷 [Explorer Patcher 治好了我的强迫症](https://www.v2ex.com/t/884861#reply3) | Thu Oct 06 2022 4:19 AM
+- 🎭 [AWS/Azure/GCP Kubernetes 服务性价比比较](https://www.v2ex.com/t/884864#reply10) | Thu Oct 06 2022 4:49 AM
+- 🥷 [Explorer Patcher 治好了我的强迫症](https://www.v2ex.com/t/884861#reply5) | Thu Oct 06 2022 4:19 AM
 - 🐵 [有没有性价比高的， 4+1 口支持 802.1x 认证的千兆交换机？](https://www.v2ex.com/t/884853#reply6) | Thu Oct 06 2022 3:07 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
