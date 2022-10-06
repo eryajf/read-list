@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [孙正义到访后 传三星已实质性放弃Arm收购动议](https://www.cnbeta.com/articles/tech/1324287.htm) | Thu Oct 06 2022 9:19 AM 
+- 🕯 [谷歌Pixel 7 Pro详细参数揭开：性能打不过高通联发科](https://www.cnbeta.com/articles/tech/1324297.htm) | Thu Oct 06 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据韩媒Infostock Daily报道，在10月4日孙正义到访三星总部，与李在镕副会长会晤后，尽管双方讨论了中长期全面合作计划，但三星方面已经实质性放弃了对Arm公司的收购动议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，知名爆料人Roland Quandt公布了谷歌Pixel 7 Pro详细参数。据悉，&lt;strong&gt;谷歌Pixel 7 Pro采用6.7英寸屏幕，配备康宁Victus玻璃，分辨率为1440×3120，刷新率为120Hz，&lt;/strong&gt;搭载Google Tensor G2处理器，后置5000万广角主摄+4800万长焦+1200万超广角三摄，前置1080万，标配12GB内存，电池为5000mAh。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [DeepMind攻克50年数学难题 史上最快矩阵乘法算法登Nature封面](https://www.cnbeta.com/articles/tech/1324285.htm) | Thu Oct 06 2022 8:47 AM 
+- 💼 [埃隆·马斯克的Twitter取证日程被推迟 因为其正在努力推进完成交易](https://www.cnbeta.com/articles/tech/1324295.htm) | Thu Oct 06 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;DeepMind碾压人类高手的AI围棋大师AlphaZero，下一个目标是数学算法！现已发现50年以来最快的矩阵乘法算法。下围棋碾压人类的AlphaZero，开始搞数学算法了，先从矩阵乘法开始！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据英国《金融时报》和彭博社报道，埃隆·马斯克将不再于周四上午接受Twitter律师的质询，此前双方同意推迟此次取证日程，因为他们正在努力完成对该社交媒体网络440亿美元的收购。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软正探讨注资印度休闲游戏平台Zupee](https://hot.cnbeta.com/articles/game/1324283.htm) | Thu Oct 06 2022 8:45 AM 
+- 💂 [三星因“经济因素”将旗舰平板电脑Galaxy Tab S9系列推迟到明年发布](https://www.cnbeta.com/articles/tech/1324293.htm) | Thu Oct 06 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近几周，微软就投资印度游戏平台Zupee进行了对话，并提议主导一轮超过1亿美元的投资，这是Windows制造商在关键海外市场扩大其云业务的一系列赌注中的最新一次。两位消息人士透露，两家公司还没有达成协议，交易有可能无法实现。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星曾计划在今年推出Galaxy Tab S9系列，但由于包括经济在内的一些因素，该公司显然没有什么选择，只能推迟发布。Galaxy Tab S9系列原计划于2022年12月推出，但据The Elec报道，三星正面临着某些经济挑战，迫使这家韩国巨头在产品和市场策略上变得更保守。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [米哈游解释为何《原神》不会增加新常驻后期玩法](https://hot.cnbeta.com/articles/game/1324281.htm) | Thu Oct 06 2022 8:41 AM 
+- 🚀 [新型Android恶意软件&quot;RatMilad&quot;乔装正常应用以监视受害者](https://www.cnbeta.com/articles/tech/1324291.htm) | Thu Oct 06 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自推出以来，《原神》的后期乏力，养成角色后无处可用一直被许多玩家诟病。但是根据最新的采访，米哈游似乎无意在短期内添加更多基于战斗的后期玩法。在最近接受 Gamespot 采访时，米哈游回应了一些玩家社区长期存在的批评。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;移动安全公司Zimperium发现了一种名为&amp;quot;RatMilad&amp;quot;的新Android恶意软件，目标是中东地区的移动设备。据该公司称，该恶意软件被用于网络间谍活动、敲诈勒索或窃听受害者的谈话。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [我在办公室鱼缸里 找到了窃密设备](https://www.cnbeta.com/articles/tech/1324279.htm) | Thu Oct 06 2022 8:40 AM 
+- 🎊 [猫头鹰（Noctua）推出用于AMD AM5的NA-TPG1导热膏防护装置](https://www.cnbeta.com/articles/tech/1324289.htm) | Thu Oct 06 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一间豪华的办公室内，何志会与他的同事手持检测设备，紧张地进行工作，目标是找到可能隐藏在公司角落的“窃听器”。数日前，该公司一项商业机密莫名其妙泄露，被竞争对手得知，董事长怀疑遭商业间谍窃密，派秘书邀请何志会等人前来做反窃密检测。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Noctua（猫头鹰）今天发布了用于AMD最新基于AM5的Ryzen处理器的NA-TPG1导热膏防护装置。因为这一代处理器的独特外形设计，当散热器贴合的同时，多余的导热膏会被向外挤压。对于AM5 CPU，这些多余的膏状物往往会积聚在散热器两侧的切口处，并可能变得难以清除。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
