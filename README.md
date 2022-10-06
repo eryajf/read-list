@@ -403,7 +403,7 @@
 <!-- sspai:START -->
 - 👹 [看什么 Café | 千变万化不离其宗，电影片头那些有趣「改编」](https://sspai.com/post/76017) | Thu Oct 06 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    编者按：1895年12月28日，在巴黎卡普辛路14号的大咖啡馆，历史上最著名的一场电影放映出现了——卢米埃尔兄弟的一系列短片和其他演出一起成为了咖啡馆的助兴节目，而咖啡馆也正是那时人们谈论电影和艺术的 ...&lt;a href=&quot;https://sspai.com/post/76017&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    编者按：1895年在巴黎卡普辛路14号的大咖啡馆，卢米埃尔兄弟的短片成了咖啡馆的助兴节目，而咖啡馆也正是那时人们谈论电影和艺术的重要场所。「看什么Café」作为「本周看什么」栏目的衍生，旨在为热爱影视 ...&lt;a href=&quot;https://sspai.com/post/76017&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
 - 🐘 [以最简单的方式理解 HIIT，然后动起来](https://sspai.com/post/76004) | Wed Oct 05 2022 7:06 AM 
