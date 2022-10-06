@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [给 Hooks 写单元测试的两个示例](https://juejin.cn/post/7151349316534140941) | Thu Oct 06 2022 10:48 AM 
+- 🤗 [C# SerialPort](https://juejin.cn/post/7151371063903911949) | Thu Oct 06 2022 12:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 前言 SerilPort是串口进行数据通信的一个控件，今天博主教大家如何进行配置SerialPort对端 
+    </details> 
+
+- 🎡 [面试官：你能用异步模拟超时重传机制？](https://juejin.cn/post/7151370458581958693) | Thu Oct 06 2022 12:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 引言 前面我讲解了两篇有关异步的逻辑思维题目，一个是红绿灯转换，还有一个是异步并发限制。有小伙伴私信我说 
+    </details> 
+
+- 🕯 [你是不是已经忘了,原码，反码和补码](https://juejin.cn/post/7151364978300174344) | Thu Oct 06 2022 11:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    复习下古老的知识，如果你是刚入门计算机的话，这也是基础知识。学习这个并不能让我们成为大神，但是大神都懂这个。 
+    </details> 
+
+- 🚀 [ContentProvider&lpar;3&rpar;: 客户端处理 provider](https://juejin.cn/post/7151359999107661855) | Thu Oct 06 2022 11:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    前面一篇文章分析了 AMS 端处理 provider 的逻辑，本文来分析客户端如何处理获取的 provider 
+    </details> 
+
+- 💪 [给 Hooks 写单元测试的两个示例](https://juejin.cn/post/7151349316534140941) | Thu Oct 06 2022 10:48 AM 
     <details><summary>展开描述 ...</summary> 
     本文将通过通过编写两个自定义 hook，给大家展示如何给 React 的自定义 Hook 写单元测试。 usePrevious 相信大家对这个自定义 hook 肯定不陌生，使用的话就是如下： 实现就是 
-    </details> 
-
-- 🎡 [一文搞懂Go语言标准库，OS](https://juejin.cn/post/7151349014644916260) | Thu Oct 06 2022 10:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 os 包提供了操作系统函数的不依赖平台的接口。设计为Unix风格的，错误处理是go风格的； 
-    </details> 
-
-- 🕯 [你看好云原生吗？](https://juejin.cn/post/7151342298884735007) | Thu Oct 06 2022 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    我是甜点cc，云原生是一种思想，一种解决方案。希望越来越多的人参与进来，期待云原生可以发展的越来越好，成长壮大！ 
-    </details> 
-
-- 🚀 [解决chrome浏览器应用商店排版混乱问题](https://juejin.cn/post/7151340076784418846) | Thu Oct 06 2022 10:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    可能是某个插件导致的,勾选上面的复选框清除数据即可 解决方法：清除缓存。&lpar; chrome://settings/clearBrowserData&rpar; 然后重新加载页面&lpar;Cmd+Shift+R&rpar; 
-    </details> 
-
-- 💪 [【Redis】二、Redis中字典结构](https://juejin.cn/post/7151338741318025252) | Thu Oct 06 2022 10:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    Redis的字典使用哈希表作为底层实现，一个哈希表里面有多个哈希表节点,而每个哈希表节点保存了字典中的一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
