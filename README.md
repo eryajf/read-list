@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Stabill - 节省您在汽车燃料上的钱，解决您今天的汽油价格](https://xinquji.com/posts/180191?utm_campaign=xinquji-rss) | Thu Oct 06 2022 6:39 AM 
+- 👀 [Kanye Tweet Generator - 使用 AI 生成 Kanye 推文](https://xinquji.com/posts/180219?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     节省您在汽车燃料上的钱，解决您今天的汽油价格  
+     使用 AI 生成 Kanye 推文  
     </details> 
 
-- 🥷 [Zumvie - SaaS 的全功能产品演示](https://xinquji.com/posts/180190?utm_campaign=xinquji-rss) | Thu Oct 06 2022 6:37 AM 
+- 🥷 [Founder Salary Report by Pilot.com - 来自全球创始人的薪资数据](https://xinquji.com/posts/180218?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     SaaS 的全功能产品演示  
+     来自全球创始人的薪资数据  
     </details> 
 
-- 💼 [Fizz - 你的大学社区](https://xinquji.com/posts/180189?utm_campaign=xinquji-rss) | Thu Oct 06 2022 6:35 AM 
+- 💼 [Skeema - 整理您的思想和浏览器](https://xinquji.com/posts/180217?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     你的大学社区  
+     整理您的思想和浏览器  
     </details> 
 
-- 🦅 [MergeCSV - 不再进行数据清理](https://xinquji.com/posts/180188?utm_campaign=xinquji-rss) | Thu Oct 06 2022 6:32 AM 
+- 🦅 [Kintsugi Mindful Wellness - 由您的声音驱动的日记和自我保健平台](https://xinquji.com/posts/180216?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     不再进行数据清理  
+     由您的声音驱动的日记和自我保健平台  
     </details> 
 
-- 😺 [The Productive Phone Wallpaper Pack - 手机壁纸可帮助您有意识地停止厄运滚动](https://xinquji.com/posts/180187?utm_campaign=xinquji-rss) | Thu Oct 06 2022 6:30 AM 
+- 😺 [Mahlx All in One Video Downloader - 直接从互联网轻松下载视频和音乐](https://xinquji.com/posts/180215?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     手机壁纸可帮助您有意识地停止厄运滚动  
+     直接从互联网轻松下载视频和音乐  
     </details> 
 <!-- xinquji:END -->
