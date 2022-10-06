@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌Pixel 7 Pro详细参数揭开：性能打不过高通联发科](https://www.cnbeta.com/articles/tech/1324297.htm) | Thu Oct 06 2022 9:54 AM 
+- 🕯 [喜剧动作片《枪口下的婚礼》首曝预告](https://hot.cnbeta.com/articles/movie/1324317.htm) | Thu Oct 06 2022 12:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，知名爆料人Roland Quandt公布了谷歌Pixel 7 Pro详细参数。据悉，&lt;strong&gt;谷歌Pixel 7 Pro采用6.7英寸屏幕，配备康宁Victus玻璃，分辨率为1440×3120，刷新率为120Hz，&lt;/strong&gt;搭载Google Tensor G2处理器，后置5000万广角主摄+4800万长焦+1200万超广角三摄，前置1080万，标配12GB内存，电池为5000mAh。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;詹妮弗·洛佩兹、乔什·杜哈明主演动作喜剧片《枪口下的婚礼（Shotgun Wedding）》首曝预告，将于2023年1月27日上线亚马逊。在《枪口下的婚礼》中，达西（詹妮弗-洛佩兹）和汤姆（乔什·杜哈明）召集他们可爱但固执己见的家人，举行最终目的地婚礼，而这对夫妇开始临阵退缩。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [埃隆·马斯克的Twitter取证日程被推迟 因为其正在努力推进完成交易](https://www.cnbeta.com/articles/tech/1324295.htm) | Thu Oct 06 2022 9:53 AM 
+- 💼 [首发12999元起 RTX 4090公版显卡国行10月15日正式开售](https://www.cnbeta.com/articles/tech/1324315.htm) | Thu Oct 06 2022 12:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据英国《金融时报》和彭博社报道，埃隆·马斯克将不再于周四上午接受Twitter律师的质询，此前双方同意推迟此次取证日程，因为他们正在努力完成对该社交媒体网络440亿美元的收购。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，NVIDIA正式官宣，RTX 4090显卡将于10月15日在国内线下现货首发。据悉，&lt;strong&gt;此次NVIDIA将联合沈阳京东MALL、与华硕、七彩虹和微星赛达厂商一同，开售RTX 4090显卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [三星因“经济因素”将旗舰平板电脑Galaxy Tab S9系列推迟到明年发布](https://www.cnbeta.com/articles/tech/1324293.htm) | Thu Oct 06 2022 9:50 AM 
+- 💂 [2022年诺贝尔文学奖揭晓：82岁法国作家安妮·埃尔诺](https://www.cnbeta.com/articles/tech/1324313.htm) | Thu Oct 06 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星曾计划在今年推出Galaxy Tab S9系列，但由于包括经济在内的一些因素，该公司显然没有什么选择，只能推迟发布。Galaxy Tab S9系列原计划于2022年12月推出，但据The Elec报道，三星正面临着某些经济挑战，迫使这家韩国巨头在产品和市场策略上变得更保守。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;央视新闻消息，当地时间10月6日，瑞典文学院宣布，&lt;span style=&quot;&quot;&gt;将2022年诺贝尔文学奖授予法国作家安妮·埃尔诺（Annie Ernaux）。&lt;/span&gt;据澎湃新闻，获奖评语是“因她的勇气和临床的敏锐性揭示了个人记忆的根源、隔阂和集体约束”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新型Android恶意软件&quot;RatMilad&quot;乔装正常应用以监视受害者](https://www.cnbeta.com/articles/tech/1324291.htm) | Thu Oct 06 2022 9:46 AM 
+- 🚀 [马斯克收购推特再生变数 传两家资管公司已不再就交易融资进行谈判](https://www.cnbeta.com/articles/tech/1324311.htm) | Thu Oct 06 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;移动安全公司Zimperium发现了一种名为&amp;quot;RatMilad&amp;quot;的新Android恶意软件，目标是中东地区的移动设备。据该公司称，该恶意软件被用于网络间谍活动、敲诈勒索或窃听受害者的谈话。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324291.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉CEO马斯克收购推特恐遇到新麻烦，据知情人士透露，阿波罗全球管理公司（APO.US）和第六街（Sixth Street Partners）已不再与马斯克进行谈判。这两家公司一直在寻求为马斯克提出的440亿美元收购推特（TWTR.US）的计划提供融资。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [猫头鹰（Noctua）推出用于AMD AM5的NA-TPG1导热膏防护装置](https://www.cnbeta.com/articles/tech/1324289.htm) | Thu Oct 06 2022 9:43 AM 
+- 🎊 [用磁铁影响细胞：在实验室生长肉类的更好方法](https://www.cnbeta.com/articles/science/1324309.htm) | Thu Oct 06 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Noctua（猫头鹰）今天发布了用于AMD最新基于AM5的Ryzen处理器的NA-TPG1导热膏防护装置。因为这一代处理器的独特外形设计，当散热器贴合的同时，多余的导热膏会被向外挤压。对于AM5 CPU，这些多余的膏状物往往会积聚在散热器两侧的切口处，并可能变得难以清除。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;通过用磁铁磁化动物细胞，新加坡国立大学（NUS）的研究人员发现了一种生产人造细胞肉的革命性方法。通过使用更少的动物产品，这种创新方法简化了细胞肉的生产，使其更安全、更清洁、更具成本效益。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
