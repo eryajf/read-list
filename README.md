@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022年了Android开发的你还在用ButterKnife?kotlin-android-extensions？来试试ViewBinding吧【转载】](https://juejin.cn/post/7151330775521034271) | Thu Oct 06 2022 9:38 AM 
+- 🤗 [给 Hooks 写单元测试的两个示例](https://juejin.cn/post/7151349316534140941) | Thu Oct 06 2022 10:48 AM 
     <details><summary>展开描述 ...</summary> 
-    有关ViewBinding 的相关介绍官方介绍的比我详细 👇 详见官方文档 此文只记录如何简洁的在Android开发中base类中如何配置使用viewBinding来提高开发效率. Activity中 
+    本文将通过通过编写两个自定义 hook，给大家展示如何给 React 的自定义 Hook 写单元测试。 usePrevious 相信大家对这个自定义 hook 肯定不陌生，使用的话就是如下： 实现就是 
     </details> 
 
-- 🎡 [Spring Cloud Alibaba-Feign的源码分析](https://juejin.cn/post/7151329209221120037) | Thu Oct 06 2022 9:30 AM 
+- 🎡 [一文搞懂Go语言标准库，OS](https://juejin.cn/post/7151349014644916260) | Thu Oct 06 2022 10:47 AM 
     <details><summary>展开描述 ...</summary> 
-    一、源码分析 1、 源码推演 我们在想为什么我们调用接口StockFeignClient就能调用对应的服务呢？ StockFeignClient接口代码如下： StockFeignClient接⼝打个 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 os 包提供了操作系统函数的不依赖平台的接口。设计为Unix风格的，错误处理是go风格的； 
     </details> 
 
-- 🕯 [JAVA-WebService概念与应用](https://juejin.cn/post/7151319364342874120) | Thu Oct 06 2022 8:55 AM 
+- 🕯 [你看好云原生吗？](https://juejin.cn/post/7151342298884735007) | Thu Oct 06 2022 10:22 AM 
     <details><summary>展开描述 ...</summary> 
-    webservice基本概念 简介 webservice即web服务，它时一种跨编程语言和跨操作系统平台的远程调用技术 Java中共有三种Webservice规范 
+    我是甜点cc，云原生是一种思想，一种解决方案。希望越来越多的人参与进来，期待云原生可以发展的越来越好，成长壮大！ 
     </details> 
 
-- 🚀 [【算法题解】 Day8 二分查找](https://juejin.cn/post/7151316532491419684) | Thu Oct 06 2022 8:42 AM 
+- 🚀 [解决chrome浏览器应用商店排版混乱问题](https://juejin.cn/post/7151340076784418846) | Thu Oct 06 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
-    今天的算法是 「二分查找」 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
+    可能是某个插件导致的,勾选上面的复选框清除数据即可 解决方法：清除缓存。&lpar; chrome://settings/clearBrowserData&rpar; 然后重新加载页面&lpar;Cmd+Shift+R&rpar; 
     </details> 
 
-- 💪 [Typora+MinIO+Java代码打造舒适写作环境](https://juejin.cn/post/7151313024941293581) | Thu Oct 06 2022 8:28 AM 
+- 💪 [【Redis】二、Redis中字典结构](https://juejin.cn/post/7151338741318025252) | Thu Oct 06 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-    前面小二介绍过使用Typora+PicGo+LskyPro打造舒适写作环境，那时候需要使用水印功能，但是小二在升级LskyPro2.x版本发现有很多不如人意的东西，遂弃用LskyPro使用MinIO 
+    Redis的字典使用哈希表作为底层实现，一个哈希表里面有多个哈希表节点,而每个哈希表节点保存了字典中的一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
