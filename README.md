@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于 mysql count 太慢的问题](https://www.v2ex.com/t/884917#reply2) | Thu Oct 06 2022 10:51 AM
-- 🤗 [关于 NTFS3 不支持 mmap rw，可行性讨论](https://www.v2ex.com/t/884909#reply0) | Thu Oct 06 2022 10:01 AM
-- 🎭 [x86 架构的多 cpu 服务器是否就是 NUMA 架构？](https://www.v2ex.com/t/884899#reply6) | Thu Oct 06 2022 8:56 AM
-- 🥷 [个人部署小鸡服务器有什么好的选择？](https://www.v2ex.com/t/884895#reply2) | Thu Oct 06 2022 8:47 AM
-- 🐵 [Windows 环境下访问阻止软件推荐](https://www.v2ex.com/t/884879#reply3) | Thu Oct 06 2022 6:21 AM<!-- v2ex:END -->
+- 🥸 [群晖对比威联通，系统好用在哪里](https://www.v2ex.com/t/884925#reply2) | Thu Oct 06 2022 12:33 PM
+- 🤗 [程序员刚工作，如何选择行业和技术方向，希望前辈指点](https://www.v2ex.com/t/884923#reply3) | Thu Oct 06 2022 12:17 PM
+- 🎭 [关于 mysql count 太慢的问题](https://www.v2ex.com/t/884917#reply12) | Thu Oct 06 2022 10:51 AM
+- 🥷 [关于 NTFS3 不支持 mmap rw，可行性讨论](https://www.v2ex.com/t/884909#reply0) | Thu Oct 06 2022 10:01 AM
+- 🐵 [x86 架构的多 cpu 服务器是否就是 NUMA 架构？](https://www.v2ex.com/t/884899#reply10) | Thu Oct 06 2022 8:56 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
