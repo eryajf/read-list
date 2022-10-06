@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国总统拜登赦免数以千计的大麻犯罪行为 敦促各州长也这样做](https://www.cnbeta.com/articles/tech/1324381.htm) | Thu Oct 06 2022 8:11 PM 
+- 🕯 [iPad发明者托尼·法德尔称希望看到iPhone转为USB-C接口](https://www.cnbeta.com/articles/tech/1324395.htm) | Thu Oct 06 2022 11:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在周四的一份总统官方声明中，总统乔·拜登赦免了所有持有简单大麻的联邦罪行，并表示他的政府计划审查大麻是否仍应像海洛因、LSD和摇头丸一样被列为附表一毒品。据CNBC报道，哥伦比亚特区有6500多名曾因简单持有大麻被定罪的人将受到影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iPad的发明者托尼·法德尔认为，苹果应该将iPhone转移到USB-C，声称这是&amp;quot;正确的事情&amp;quot;。周二，欧盟通过了一项法律，要求智能手机、平板电脑、相机和其他消费电子产品的制造商使用USB-C为其设备充电。一位Twitter用户问法德尔，他是否认为欧盟的规定会阻碍苹果公司的未来项目？得到回应说：他不相信会这样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [气候变化使今年的旱情恶化20倍 而且看不到缓解的迹象](https://www.cnbeta.com/articles/tech/1324379.htm) | Thu Oct 06 2022 8:00 PM 
+- 💼 [《网络奇兵：重制版》很可能推迟到2023年3月发行](https://hot.cnbeta.com/articles/game/1324393.htm) | Thu Oct 06 2022 11:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;严重的干旱限制了农作物的生长，让电力供应持续紧张，并助长了整个夏天北美、欧洲和亚洲的失控大火。根据世界天气归属倡议的国际研究小组的一项全面的新研究，由于人类引起的气候变化，北半球的这些灾难性夏季干旱的可能性增加了20倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《网络奇兵：重制版》很可能会推迟到2023年3月发行。该游戏的Steam官方产品页面中已经列出了新的发行日期。Prime Matter原本计划在2022年发行这款游戏。现在游戏的Steam官方产品页面已经更新了发行日期，注明了将于2023年3月推出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [编辑推文选项扩展至美国的Twitter Blue订阅用户](https://www.cnbeta.com/articles/tech/1324377.htm) | Thu Oct 06 2022 6:50 PM 
+- 💂 [Valve表示Steam Deck现在无需预订即可购买](https://hot.cnbeta.com/articles/game/1324391.htm) | Thu Oct 06 2022 11:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Twitter今天宣布，美国区域的Twitter Blue订阅用户现在可以使用过去一个月来一直在测试的编辑推文功能。本周早些时候，Twitter向加拿大、澳大利亚和新西兰的Twitter Blue用户提供了一个编辑按钮，并承诺在美国进行功能扩展，而这比预期来得更快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Valve已经宣布Steam Deck掌机已经无需等待可直接购买。用户现在可以直接从官方Steam Deck网站上购买，无需预订并等待购买序列排到自己。Valve在推特上也发布信息：“从今天开始，Steam Deck无需预订即可购买。”“现在就订购，我们马上就给你发货。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Microsoft Store的性能和产品发现能力得到改善](https://www.cnbeta.com/articles/tech/1324375.htm) | Thu Oct 06 2022 6:47 PM 
+- 🚀 [瑞典解封“北溪”管道泄漏点附近海域](https://www.cnbeta.com/articles/tech/1324389.htm) | Thu Oct 06 2022 11:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;除了在开发频道推出新的Windows 11预览版外，微软还宣布了对微软商店（Microsoft Store）应用的一些改进，该商店将很快承载第三方Windows 11小工具。与此同时，本次更新还引入了性能增强，以及可发现性的改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;瑞典安全局6日宣布，该局对“北溪-1”和“北溪-2”天然气管道泄漏点的现场调查已完毕，瑞典附近的“北溪”管道泄漏点周围海域已被解封。瑞典安全局当天在一份新闻公报中说，该局负责对“北溪”管道泄漏事件进行调查，并由一名检察官领导。目前现场调查工作已经完成，对该海域的封锁已解除。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果27英寸miniLED显示屏有望在2023年初上市](https://www.cnbeta.com/articles/tech/1324373.htm) | Thu Oct 06 2022 6:43 PM 
+- 🎊 [法国政府宣布全国节能计划以应对能源危机](https://www.cnbeta.com/articles/tech/1324387.htm) | Thu Oct 06 2022 11:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;供应链传言表明，苹果将在2023年第一季度推出一款新的27英寸显示屏，最大的变化是采用miniLED背光。&lt;/strong&gt;自从苹果披露更&amp;quot;实惠&amp;quot;的Studio Display以来，关于27英寸显示屏即将回归的传言一直在流传，相比面向行业的Pro Display XDR型号，这一普及型缺乏HDR、ProMotion和苹果MacBook Pro和12.9英寸iPad Pro中出现过的迷你LED背光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为应对日益严峻的能源危机，法国政府6日推出全国节能计划，号召全国积极行动起来，以避免冬季出现能源停供的危险。&lt;strong&gt;当天，法国总理博尔内率领多位部长在巴黎凡尔赛门展览中心宣布了这项节能计划，涉及公共行政部门、经济领域和家庭生活等多个方面。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
