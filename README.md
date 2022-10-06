@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [万能的铁块：山寨电源玩得可以有多野？](https://www.cnbeta.com/articles/tech/1324093.htm) | Wed Oct 05 2022 11:23 PM 
+- 🕯 [恒星记得它们的过去吗？研究为恒星进化的旧理论带来新曙光](https://www.cnbeta.com/articles/science/1324133.htm) | Thu Oct 06 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;铁块，在PC和数码设备中是很常见的，不过它们的作用通常只有一种，就是增加配重。例如我们经常会在鼠标中见到各类可调的配重块，这样就可以满足每个人对于鼠标重量的不同需求。如果铁块出现在电源类设备中，这就要打起几分精神来了，毕竟没听说电源有配重的需求。当然也有个例外，那就是无线充电器，为了保证在桌面的平稳，其内部多半会有各种千奇百怪造型的配重铁块。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;从新生儿到青少年，处于“年轻时期”的恒星构成了一个重大的科学挑战。由于其复杂性，在理论模型中对恒星的形成过程进行建模是极具挑战性的。观察一颗恒星的振荡是找出更多关于恒星的年龄、结构或形成的少数方法之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究显示类似地球淡蓝行星只占潜在宜居星球1%](https://www.cnbeta.com/articles/science/1324091.htm) | Wed Oct 05 2022 11:10 PM 
+- 💼 [16年Google广告业务主管自立门户 Neeva搜索引擎登陆欧洲市场](https://www.cnbeta.com/articles/tech/1324131.htm) | Thu Oct 06 2022 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月6日消息，一项最新研究显示，类似地球这样的“淡蓝行星”在宇宙中可能及其罕见，只占潜在宜居星球的1%。总部位于瑞士的国际空间科学研究所发现，类似地球的行星（即约30%表面被陆地覆盖）可能只占恒星宜居带岩石行星的1%。而大约80%的潜在宜居星球完全以陆地为主，约19%是纯粹的海洋世界。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本周四，Neeva 宣布登陆英国、法国和德国市场。Neeva 是一款主打无广告、无追踪的搜索引擎，去年在美国发布之后目前已经有超过 60 万。&lt;/strong&gt;该搜索引擎由斯里达尔·拉马斯瓦米（Sridhar Ramaswamy）创建，他此前曾在 Google 工作 16 年并负责广告业务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《守望先锋2》RTX 4090：1440P跑出超500FPS](https://hot.cnbeta.com/articles/game/1324089.htm) | Wed Oct 05 2022 11:09 PM 
+- 💂 [科学家现开始通过空中视角对虎鲸捕杀大白鲨展开研究](https://www.cnbeta.com/articles/science/1324129.htm) | Thu Oct 06 2022 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;《守望先锋2》最近以抢先体验形式发售，为了庆祝该作的推出，英伟达发布了其最新RTX 4000系列显卡在1440P分辨率下的跑分数据。&lt;/strong&gt;RTX 4090：超过500FPS（507），RTX 4080（16GB）：368FPS，RTX 4080（12GB）：接近300FPS（296FPS），比RTX 3080（249FPS）快了将近50FPS……&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前，我们已经听说过虎鲸如何在南非猎杀大白鲨。虽然科学家们的研究结果是基于对鲨鱼尸体的检查，但他们现在通过分析捕猎行动中的空中视频获得了新的见解。来自南非Dyer Island保护信托基金的研究人员先前发表了在南非甘斯拜海岸进行的为期五年半的研究结果，在此期间，他们追踪到14条贴有标签的大白鲨逃离了有虎鲸存在的地区。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《极品飞车22：无束》首批截图泄露 全新设计风格](https://hot.cnbeta.com/articles/game/1324087.htm) | Wed Oct 05 2022 11:08 PM 
+- 🚀 [Google宣布Imagen Video：根据简短文本内容生成短视频](https://www.cnbeta.com/articles/tech/1324127.htm) | Thu Oct 06 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本零售商 Neowing日前泄露《极品飞车22：无束》（Need for Speed Unbound）的首批截图。这些截图将让你对游戏的新艺术风格有所了解。EA计划将于今晚11点正式发布《极品飞车22：无束》。据报道，这款新的NFS游戏只会出现在本世代平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;继日前 Meta 宣布 Make-A-Video 之后，Google 今天宣布了 &lt;a href=&quot;https://imagen.research.google/video/&quot; target=&quot;_blank&quot;&gt;Imagen Video&lt;/a&gt; 人工智能系统，可以根据简短文本内容（例如泰迪熊洗碗）生成视频片段。&lt;/strong&gt;虽然目前生成的短视频清晰度不够，但 Google 声称 Imagen Video 是朝着具有“高度可控性”和世界知识的系统迈出的一步，包括生成镜头的能力在一系列艺术风格中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [我国实现百公里自由空间时频传递](https://www.cnbeta.com/articles/science/1324085.htm) | Wed Oct 05 2022 11:04 PM 
+- 🎊 [韦伯与哈勃望远镜的合作获得了对星系VV 191的超凡观察](https://www.cnbeta.com/articles/science/1324125.htm) | Thu Oct 06 2022 1:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，中国科学技术大学潘建伟团队与上海技物所、新疆天文台等单位合作，首次在国际上实现百公里级的自由空间高精度时间频率传递实验，实验结果有望对暗物质探测、物理学基本常数检验、相对论检验等基础物理学研究产生重要影响。该成果于北京时间10月5日晚在国际学术期刊《自然》杂志发表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;有史以来最伟大的太空伙伴故事之一的最新篇章是关于尘埃的。&lt;strong&gt;全新的詹姆斯-韦伯太空望远镜和老牌的哈勃太空望远镜通过结合它们的力量来为一对星系提供了一个超凡的视角，其结果对星际尘埃发出了新的光芒。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
