@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Redis】四大特殊的数据类型之 Stream](https://juejin.cn/post/7151390238093508639) | Thu Oct 06 2022 1:28 PM 
+- 🤗 [IntersectionObserver - 监视你的 DOM 元素相交](https://juejin.cn/post/7151403750115147790) | Thu Oct 06 2022 2:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 IntersectionObserver 用于监听元素是否进入视口（与视口是否存在相交），在图片懒加载等 
+    </details> 
+
+- 🎡 [【数据处理】Pandas库：画图与文件读取](https://juejin.cn/post/7151403935251562509) | Thu Oct 06 2022 2:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 1. Pandas画图 pandas库中集成了matplotlib库，可以直接进行调用，在相应的Data 
+    </details> 
+
+- 🕯 [微信小程序的生命周期概览](https://juejin.cn/post/7151402790823133215) | Thu Oct 06 2022 2:15 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 一、是什么 跟vue、react框架一样，微信小程序框架也存在生命周期，实质也是一堆会在特定时期执行的函 
+    </details> 
+
+- 🚀 [一点点js和一点点css实现霓虹字体](https://juejin.cn/post/7151402031956115492) | Thu Oct 06 2022 2:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 前情提要 每个前端er在下定决心从事前端工作的时候，或许是被高薪迷蒙了双眼，或许是偏爱酷炫的css样式， 
+    </details> 
+
+- 💪 [【Redis】四大特殊的数据类型之 Stream](https://juejin.cn/post/7151390238093508639) | Thu Oct 06 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
     我们都知道 Redis 提供了丰富的数据类型，特殊的有四种：BitMap，HLL，GEO，Stream。今天我们就来详细的聊聊 Redis 这四大特殊的数据类型之一 Stream； 
-    </details> 
-
-- 🎡 [LeetCode 字符串单词个数使用JavaScript解题|前端学算法](https://juejin.cn/post/7151389257452486664) | Thu Oct 06 2022 1:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    前端使用JavaScript解决leetcode字符串单词个数，前端学习算法，每天三分钟学习一个知识点 
-    </details> 
-
-- 🕯 [虚拟线程 - VirtualThread源码透视](https://juejin.cn/post/7151384844365692958) | Thu Oct 06 2022 1:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    前提 JDK19于2022-09-20发布GA版本，该版本提供了虚拟线程的预览功能。下载JDK19之后翻看了一下有关虚拟线程的一些源码，跟早些时候的Loom项目构建版本基本并没有很大出入，也跟第三方J 
-    </details> 
-
-- 🚀 [算法入门之树简介](https://juejin.cn/post/7151383232758906916) | Thu Oct 06 2022 12:59 PM 
-    <details><summary>展开描述 ...</summary> 
-    算法入门之树简介 ======== 像我们熟知的栈、队列、散列表等这些都是一对一存储称为线性结构， 
-    </details> 
-
-- 💪 [ACM2022四川省赛：J. Mex Tree](https://juejin.cn/post/7151383146791960583) | Thu Oct 06 2022 12:59 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 ACM2022四川省赛——J. Mex Tree Problem J. Mex Tree 小水獭幼儿园的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
