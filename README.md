@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [一位前Facebook工程师想帮助你建立自己的手机网络](https://www.cnbeta.com/articles/tech/1324367.htm) | Thu Oct 06 2022 4:20 PM 
+- 🕯 [宠托师、婚庆化妆师……年轻人假期兼职图鉴里有你吗？](https://www.cnbeta.com/articles/tech/1324371.htm) | Thu Oct 06 2022 5:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;对于大部分人来说，国庆假期意味着放松和休息。不过也有一批年轻人，抓住国庆假期这一“搞钱”时机，发挥所长各显神通，为自己赚点外快。年轻人通过什么方式在国庆假期赚钱？又有哪些有趣的经历？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Twitter正在使其众包的事实检查对所有美国用户可见](https://www.cnbeta.com/articles/tech/1324369.htm) | Thu Oct 06 2022 5:03 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在上个月扩大了被称为Birdwatch的Twitter众包事实核查项目后&lt;strong&gt;，Twitter今天早上宣布事实核查人员在推文上留下的注释现在将对所有美国用户可见。&lt;/strong&gt;然而，这并不意味着美国的每个人都能参与Birdwatch。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [一位前Facebook工程师想帮助你建立自己的手机网络](https://www.cnbeta.com/articles/tech/1324367.htm) | Thu Oct 06 2022 4:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;一家新公司想让你成为你自己的手机运营商，即使你离家在外也能使用你的互联网连接，并漫游到其他做同样事情的人的网络。&lt;/strong&gt;这家公司由前Facebook工程师卡希夫-阿里&lpar;Kashif Ali&rpar;领导，名为Ukama，它在以工程和创客为重点的网站Crowd Supply上发起了一项众筹活动，将其设备提供给愿意尝试这种技术并开始建立网络的人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [一台道具车就能送公司上市 北美贾跃亭教你如何用嘴造电车](https://www.cnbeta.com/articles/tech/1324365.htm) | Thu Oct 06 2022 4:16 PM 
+- 🚀 [一台道具车就能送公司上市 北美贾跃亭教你如何用嘴造电车](https://www.cnbeta.com/articles/tech/1324365.htm) | Thu Oct 06 2022 4:16 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;这些年，在刮起八级大狂风的造车风口下……一个个新势力明里暗里的，都表示自己是“ 颠覆者 ”，是下一个特斯拉。只不过有趣的是，谁是下一个特斯拉还没个准儿， &lt;strong&gt;但 “ 谁是下一个贾跃亭 ”，却已经先出现了标准答案&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [今天是Windows 11发布一周年](https://www.cnbeta.com/articles/tech/1324363.htm) | Thu Oct 06 2022 3:59 PM 
+- 🎊 [今天是Windows 11发布一周年](https://www.cnbeta.com/articles/tech/1324363.htm) | Thu Oct 06 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Windows 11到今天已经一岁了，这一微软最新和最先进的操作系统在当地时间2021年10月5日面向所有用户发布。&lt;/strong&gt;与大多数人习惯的传统现代Windows体验相比，Windows 11带来了很多变化，包括居中的任务栏图标和受Windows 10X（微软停止研发的操作系统）启发的新的开始菜单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《海贼王：奥德赛》全新预告 明年1月12日发售](https://hot.cnbeta.com/articles/game/1324361.htm) | Thu Oct 06 2022 3:55 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;万代公布了RPG游戏《海贼王：奥德赛》的全新预告，介绍了雪花王国，该作预计在2023年1月12日在日本发售，1月13日在全球发行，登陆Steam、PS5、XSX/S和PS4平台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《海贼王：奥德赛》新预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Uber和Motional达成合作 计划10年内在全美实现自动驾驶出租车](https://www.cnbeta.com/articles/tech/1324359.htm) | Thu Oct 06 2022 3:54 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Uber正在重新参与自动驾驶出租车的游戏，只是这一次它利用第三方来处理自动驾驶技术。&lt;/strong&gt;Motional是Aptiv-Hyundai的合资企业，负责自动驾驶汽车技术的商业化，将在今年晚些时候将其自动驾驶出租车投入Uber网络，作为为期10年的运营协议的一部分，最终将在北美的主要城市推广。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
