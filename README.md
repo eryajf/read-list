@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [C# SerialPort](https://juejin.cn/post/7151371063903911949) | Thu Oct 06 2022 12:12 PM 
+- 🤗 [【Redis】四大特殊的数据类型之 Stream](https://juejin.cn/post/7151390238093508639) | Thu Oct 06 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 前言 SerilPort是串口进行数据通信的一个控件，今天博主教大家如何进行配置SerialPort对端 
+    我们都知道 Redis 提供了丰富的数据类型，特殊的有四种：BitMap，HLL，GEO，Stream。今天我们就来详细的聊聊 Redis 这四大特殊的数据类型之一 Stream； 
     </details> 
 
-- 🎡 [面试官：你能用异步模拟超时重传机制？](https://juejin.cn/post/7151370458581958693) | Thu Oct 06 2022 12:10 PM 
+- 🎡 [LeetCode 字符串单词个数使用JavaScript解题|前端学算法](https://juejin.cn/post/7151389257452486664) | Thu Oct 06 2022 1:24 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 引言 前面我讲解了两篇有关异步的逻辑思维题目，一个是红绿灯转换，还有一个是异步并发限制。有小伙伴私信我说 
+    前端使用JavaScript解决leetcode字符串单词个数，前端学习算法，每天三分钟学习一个知识点 
     </details> 
 
-- 🕯 [你是不是已经忘了,原码，反码和补码](https://juejin.cn/post/7151364978300174344) | Thu Oct 06 2022 11:49 AM 
+- 🕯 [虚拟线程 - VirtualThread源码透视](https://juejin.cn/post/7151384844365692958) | Thu Oct 06 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-    复习下古老的知识，如果你是刚入门计算机的话，这也是基础知识。学习这个并不能让我们成为大神，但是大神都懂这个。 
+    前提 JDK19于2022-09-20发布GA版本，该版本提供了虚拟线程的预览功能。下载JDK19之后翻看了一下有关虚拟线程的一些源码，跟早些时候的Loom项目构建版本基本并没有很大出入，也跟第三方J 
     </details> 
 
-- 🚀 [ContentProvider&lpar;3&rpar;: 客户端处理 provider](https://juejin.cn/post/7151359999107661855) | Thu Oct 06 2022 11:32 AM 
+- 🚀 [算法入门之树简介](https://juejin.cn/post/7151383232758906916) | Thu Oct 06 2022 12:59 PM 
     <details><summary>展开描述 ...</summary> 
-    前面一篇文章分析了 AMS 端处理 provider 的逻辑，本文来分析客户端如何处理获取的 provider 
+    算法入门之树简介 ======== 像我们熟知的栈、队列、散列表等这些都是一对一存储称为线性结构， 
     </details> 
 
-- 💪 [给 Hooks 写单元测试的两个示例](https://juejin.cn/post/7151349316534140941) | Thu Oct 06 2022 10:48 AM 
+- 💪 [ACM2022四川省赛：J. Mex Tree](https://juejin.cn/post/7151383146791960583) | Thu Oct 06 2022 12:59 PM 
     <details><summary>展开描述 ...</summary> 
-    本文将通过通过编写两个自定义 hook，给大家展示如何给 React 的自定义 Hook 写单元测试。 usePrevious 相信大家对这个自定义 hook 肯定不陌生，使用的话就是如下： 实现就是 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 ACM2022四川省赛——J. Mex Tree Problem J. Mex Tree 小水獭幼儿园的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
