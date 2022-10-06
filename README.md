@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[视频]iPhone 14 Plus就是单纯的大 还是能有什么意外之喜？](https://www.cnbeta.com/articles/tech/1324241.htm) | Thu Oct 06 2022 6:29 AM 
+- 🕯 [有预付费手机用户发现自己没有资格玩《守望先锋：归来》](https://hot.cnbeta.com/articles/game/1324261.htm) | Thu Oct 06 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;iPhone 14 Plus&lt;/strong&gt;，由于是14系列&lt;strong&gt;开售最晚&lt;/strong&gt;的一位选手，所以近期iPhone相关热议好像都跟这款机器没啥关系，显得十分神秘。那么在真实体验中，这台Plus到底就是单纯的大了，还是能有什么&lt;strong&gt;意外之喜&lt;/strong&gt;？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国预付费手机用户是没有资格玩《守望先锋：归来》的。《守望先锋：归来》玩家需要将手机号绑定至战网账号方可进入游戏，但美国预付费手机和VOIP用户无法使用这项服务。在《守望先锋：归来》上线之前，暴雪已经公布本作拥有短信安全保护功能，并表示“这是经过业界考验的反作弊与反骚扰解决方案”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [华强北“芯片赌徒”梦碎：从豪赚1000万 到血本无归](https://www.cnbeta.com/articles/tech/1324239.htm) | Thu Oct 06 2022 6:27 AM 
+- 💼 [快递保价保不了实际损失？一不留神你就成冤大头了](https://www.cnbeta.com/articles/tech/1324259.htm) | Thu Oct 06 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“进口芯片那9个月的行情，就是&lt;strong&gt;击鼓传花，看谁是最后一个接盘侠&lt;/strong&gt;。”在华强北做了20多年电子元器件生意的李政说。从2020年开始，因供货紧张引发的“断芯潮”，在华强北激起千层浪。2021年，随着芯片价格水涨船高，华强北芯片行业迎来了几十年未遇的行情，各式各样的造福神话在此上演：95后采购员辞职后炒芯挣了几百万，90后老板半年赚下几千万……&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;最近，网络上关于快递保价的讨论一下子多了起来。几则相关新闻一下子引爆了舆论，&lt;/strong&gt;一位客户保价18000元的手办邮寄过程中出现损坏，顺丰只愿意赔偿500元；更早些时候，还出现了保价8000元的黄金在同城配送中丢失平台方只愿意赔偿2000元的事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [亏损53亿、市值腰斩，零跑汽车领跑无望](https://www.cnbeta.com/articles/tech/1324237.htm) | Thu Oct 06 2022 6:23 AM 
+- 💂 [售价不到2万卢比的笔记本电脑 印度Jio Book近距离上手](https://www.cnbeta.com/articles/tech/1324257.htm) | Thu Oct 06 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;资本市场终于迎来了第四家造车新势力。9月29日，零跑汽车正式在港交所主板挂牌上市，同时也是首家将港交所作为首发上市地的造车新势力。不过，零跑汽车上市首日便遭遇了寒流，其股价连续大幅下挫。截至上市首日港股收盘，零跑汽车的股价较48港元的发行价下跌33.5%至31.9港元，而截至9月30日收盘，其股价再度下跌22.26%至24.8港元，对应总市值为283.39亿港元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月3日，运营商Jio在2022年印度移动大会（IMC）宣布其在印度销售的首款笔记本电脑--Jio Book。Jio进入笔记本电脑领域的这一开创性步骤是该公司产品组合中的一个重要发展。Jio与高通和微软合作生产Jio Book，顺便说一下，它是&amp;quot;印度制造&amp;quot;的。之前谈到了Jio Book在印度的价格和它的供应细节，现在终于迎来了近距离上手的机会。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iOS 16.1 Beta 4更新带来设置项 用户可定义是否在粘贴内容时弹窗确认](https://www.cnbeta.com/articles/tech/1324235.htm) | Thu Oct 06 2022 6:17 AM 
+- 🚀 [麻省理工学院的化学工程师正在破解除碳的难题](https://www.cnbeta.com/articles/science/1324255.htm) | Thu Oct 06 2022 6:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，苹果为iPhone用户推送了iOS 16.1 Beta 4更新，此次更新中，苹果对系统的粘贴权限管理再次进行了修改。在此次更新后，&lt;strong&gt;苹果增加了“从其他App粘贴”开关，允许用户在从其他App粘贴内容时，在允许、拒绝或是询问三种形式之间进行选择。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;麻省理工学院的化学工程衍生公司Verdox一直在享受杰出的一年。这家于2019年推出的碳捕获和清除初创公司在2月宣布从包括比尔-盖茨的突破性能源风险投资公司在内的一系列投资者那里获得了8000万美元的资金。4月又在被彭博新能源财经认可为年度最佳能源先锋之一之后，该公司和合作伙伴Carbfix赢得了100万美元的XPRIZE碳清除里程碑奖项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Lightning接口时代终结的开始 iPad 10预计将于本月发布](https://www.cnbeta.com/articles/tech/1324233.htm) | Thu Oct 06 2022 6:16 AM 
+- 🎊 [微软警告IT管理员关于Windows 11 2022更新&lpar;22H2&rpar;的.ppkg预配包被破坏了](https://www.cnbeta.com/articles/tech/1324253.htm) | Thu Oct 06 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，据MacRumors报道，苹果将在本月推出iPad新品，这次苹果可能会直接上架新品，不举办新品发布会。据爆料，&lt;strong&gt;苹果将会带来新款iPad Pro和iPad 10，其中iPad 10价格亲民，定价在300美元左右。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;正如报道所说，微软上个月开始推出Windows 11的22H2版本。正如人们所预料到的那样，这次推出并非没有问题和漏洞。例如，许多用户报告更新失败，错误代码是&amp;quot;0x800f0806&amp;quot;。还有一些常见的问题，如打印机问题，一个新的打印机策略导致2022年更新后打印机无法检测到，还有复制文件会导致性能减慢，主要是在远程情况下的bug。部分问题推动微软在受影响的设备上完全阻止了更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
