@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [编辑推文选项扩展至美国的Twitter Blue订阅用户](https://www.cnbeta.com/articles/tech/1324377.htm) | Thu Oct 06 2022 6:50 PM 
+- 🕯 [美国总统拜登赦免数以千计的大麻犯罪行为 敦促各州长也这样做](https://www.cnbeta.com/articles/tech/1324381.htm) | Thu Oct 06 2022 8:11 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在周四的一份总统官方声明中，总统乔·拜登赦免了所有持有简单大麻的联邦罪行，并表示他的政府计划审查大麻是否仍应像海洛因、LSD和摇头丸一样被列为附表一毒品。据CNBC报道，哥伦比亚特区有6500多名曾因简单持有大麻被定罪的人将受到影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [气候变化使今年的旱情恶化20倍 而且看不到缓解的迹象](https://www.cnbeta.com/articles/tech/1324379.htm) | Thu Oct 06 2022 8:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;严重的干旱限制了农作物的生长，让电力供应持续紧张，并助长了整个夏天北美、欧洲和亚洲的失控大火。根据世界天气归属倡议的国际研究小组的一项全面的新研究，由于人类引起的气候变化，北半球的这些灾难性夏季干旱的可能性增加了20倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [编辑推文选项扩展至美国的Twitter Blue订阅用户](https://www.cnbeta.com/articles/tech/1324377.htm) | Thu Oct 06 2022 6:50 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Twitter今天宣布，美国区域的Twitter Blue订阅用户现在可以使用过去一个月来一直在测试的编辑推文功能。本周早些时候，Twitter向加拿大、澳大利亚和新西兰的Twitter Blue用户提供了一个编辑按钮，并承诺在美国进行功能扩展，而这比预期来得更快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Microsoft Store的性能和产品发现能力得到改善](https://www.cnbeta.com/articles/tech/1324375.htm) | Thu Oct 06 2022 6:47 PM 
+- 🚀 [Microsoft Store的性能和产品发现能力得到改善](https://www.cnbeta.com/articles/tech/1324375.htm) | Thu Oct 06 2022 6:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;除了在开发频道推出新的Windows 11预览版外，微软还宣布了对微软商店（Microsoft Store）应用的一些改进，该商店将很快承载第三方Windows 11小工具。与此同时，本次更新还引入了性能增强，以及可发现性的改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果27英寸miniLED显示屏有望在2023年初上市](https://www.cnbeta.com/articles/tech/1324373.htm) | Thu Oct 06 2022 6:43 PM 
+- 🎊 [苹果27英寸miniLED显示屏有望在2023年初上市](https://www.cnbeta.com/articles/tech/1324373.htm) | Thu Oct 06 2022 6:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;供应链传言表明，苹果将在2023年第一季度推出一款新的27英寸显示屏，最大的变化是采用miniLED背光。&lt;/strong&gt;自从苹果披露更&amp;quot;实惠&amp;quot;的Studio Display以来，关于27英寸显示屏即将回归的传言一直在流传，相比面向行业的Pro Display XDR型号，这一普及型缺乏HDR、ProMotion和苹果MacBook Pro和12.9英寸iPad Pro中出现过的迷你LED背光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [宠托师、婚庆化妆师……年轻人假期兼职图鉴里有你吗？](https://www.cnbeta.com/articles/tech/1324371.htm) | Thu Oct 06 2022 5:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于大部分人来说，国庆假期意味着放松和休息。不过也有一批年轻人，抓住国庆假期这一“搞钱”时机，发挥所长各显神通，为自己赚点外快。年轻人通过什么方式在国庆假期赚钱？又有哪些有趣的经历？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Twitter正在使其众包的事实检查对所有美国用户可见](https://www.cnbeta.com/articles/tech/1324369.htm) | Thu Oct 06 2022 5:03 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在上个月扩大了被称为Birdwatch的Twitter众包事实核查项目后&lt;strong&gt;，Twitter今天早上宣布事实核查人员在推文上留下的注释现在将对所有美国用户可见。&lt;/strong&gt;然而，这并不意味着美国的每个人都能参与Birdwatch。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
