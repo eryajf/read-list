@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [喜剧动作片《枪口下的婚礼》首曝预告](https://hot.cnbeta.com/articles/movie/1324317.htm) | Thu Oct 06 2022 12:35 PM 
+- 🕯 [HTC预告推出新款小型Vive VR头显](https://www.cnbeta.com/articles/tech/1324323.htm) | Thu Oct 06 2022 1:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当Meta和TikTok的所有者字节跳动为成为制造虚拟或增强现实硬件的高端社交媒体/元数据公司而战时，HTC正在提醒大家，它在游戏中也有一席之地。在没有提供任何额外细节的情况下，公司在周四早上发布了这条简单的预告性推文：“要不小，要不回家玩。”暗示推出新款小型Vive VR头显，并附上了一张图片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Logitech G和赫曼·米勒再次合作推出Vantum游戏椅](https://www.cnbeta.com/articles/tech/1324321.htm) | Thu Oct 06 2022 1:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;Logitech G和Herman Miller联合推出了Vantum游戏椅。&lt;/strong&gt;它现在可以以995美元的价格订购，这与1500美元的Embody有很大的价格差异，虽然Embody合作款是在赫曼米勒的椅子目录中已有的设计上对游戏玩家进行了调整，但Vantum似乎完全是一把新椅子。它将有多种颜色选择（白色、红色和黑色），每种颜色都有12年的保修期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [尽管预计销售疲软 亚马逊仍计划在假期雇佣15万名员工](https://www.cnbeta.com/articles/tech/1324319.htm) | Thu Oct 06 2022 1:22 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;尽管销售增长放缓，而且预计假日购物季将不太活跃，但亚马逊&lpar;AMZN.US&rpar;仍计划招聘15万名季节性员工，与去年持平。亚马逊通常在每年的这个时候雇佣大批临时工，帮助其仓库储存、包装和运输商品。亚马逊在一份声明中表示，根据员工在美国的职位和地点，他们的平均时薪可以超过19美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [喜剧动作片《枪口下的婚礼》首曝预告](https://hot.cnbeta.com/articles/movie/1324317.htm) | Thu Oct 06 2022 12:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;詹妮弗·洛佩兹、乔什·杜哈明主演动作喜剧片《枪口下的婚礼（Shotgun Wedding）》首曝预告，将于2023年1月27日上线亚马逊。在《枪口下的婚礼》中，达西（詹妮弗-洛佩兹）和汤姆（乔什·杜哈明）召集他们可爱但固执己见的家人，举行最终目的地婚礼，而这对夫妇开始临阵退缩。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [首发12999元起 RTX 4090公版显卡国行10月15日正式开售](https://www.cnbeta.com/articles/tech/1324315.htm) | Thu Oct 06 2022 12:35 PM 
+- 🎊 [首发12999元起 RTX 4090公版显卡国行10月15日正式开售](https://www.cnbeta.com/articles/tech/1324315.htm) | Thu Oct 06 2022 12:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天，NVIDIA正式官宣，RTX 4090显卡将于10月15日在国内线下现货首发。据悉，&lt;strong&gt;此次NVIDIA将联合沈阳京东MALL、与华硕、七彩虹和微星赛达厂商一同，开售RTX 4090显卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [2022年诺贝尔文学奖揭晓：82岁法国作家安妮·埃尔诺](https://www.cnbeta.com/articles/tech/1324313.htm) | Thu Oct 06 2022 12:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;央视新闻消息，当地时间10月6日，瑞典文学院宣布，&lt;span style=&quot;&quot;&gt;将2022年诺贝尔文学奖授予法国作家安妮·埃尔诺（Annie Ernaux）。&lt;/span&gt;据澎湃新闻，获奖评语是“因她的勇气和临床的敏锐性揭示了个人记忆的根源、隔阂和集体约束”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [马斯克收购推特再生变数 传两家资管公司已不再就交易融资进行谈判](https://www.cnbeta.com/articles/tech/1324311.htm) | Thu Oct 06 2022 12:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉CEO马斯克收购推特恐遇到新麻烦，据知情人士透露，阿波罗全球管理公司（APO.US）和第六街（Sixth Street Partners）已不再与马斯克进行谈判。这两家公司一直在寻求为马斯克提出的440亿美元收购推特（TWTR.US）的计划提供融资。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [用磁铁影响细胞：在实验室生长肉类的更好方法](https://www.cnbeta.com/articles/science/1324309.htm) | Thu Oct 06 2022 12:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;通过用磁铁磁化动物细胞，新加坡国立大学（NUS）的研究人员发现了一种生产人造细胞肉的革命性方法。通过使用更少的动物产品，这种创新方法简化了细胞肉的生产，使其更安全、更清洁、更具成本效益。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
