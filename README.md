@@ -502,11 +502,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [OBS Studio 最强免费直播软件 - 开源跨平台电脑录屏直播推流工具 &lpar;专业主播 UP 入门必备&rpar;](https://www.iplaysoft.com/obs-studio.html) | Fri Sep 30 2022 9:30 PM
-- 🧑‍🏫 [Parallels Desktop 18 激活码 - 苹果 Mac 最新版 PD 虚拟机下载 &lpar;支持Win11/macOS Ventura&rpar;](https://www.iplaysoft.com/parallels-desktop.html) | Tue Sep 27 2022 12:00 PM
-- 🥰 [金山云技术体 - 免费可商用中文字体下载！现代科技风格 / 适合制作 PPT 海报 LOGO 设计](https://www.iplaysoft.com/kingsoft-cloud-tech-font.html) | Mon Sep 26 2022 1:52 PM
-- 💻 [Windows 11 22H2 &lpar;2022&rpar; 正式版新功能特性汇总！升级前必看](https://www.iplaysoft.com/p/win11-22h2-features) | Sun Sep 25 2022 6:52 PM
-- 🎃 [支付宝又疯了！红包金额大增 - 无套路每天能领取，直接当钱用](https://www.iplaysoft.com/news/3586) | Fri Sep 23 2022 1:02 AM<!-- iplaysoft:END -->
+- 🧐 [谷歌翻译中国版停服！教你解决修复 Chrome 浏览器内置网页翻译功能的方法教程](https://www.iplaysoft.com/fix-chrome-translate.html) | Thu Oct 06 2022 11:20 AM
+- 🧑‍🏫 [OBS Studio 最强免费直播软件 - 开源跨平台电脑录屏直播推流工具 &lpar;专业主播 UP 入门必备&rpar;](https://www.iplaysoft.com/obs-studio.html) | Fri Sep 30 2022 9:30 PM
+- 🥰 [Parallels Desktop 18 激活码 - 苹果 Mac 最新版 PD 虚拟机下载 &lpar;支持Win11/macOS Ventura&rpar;](https://www.iplaysoft.com/parallels-desktop.html) | Tue Sep 27 2022 12:00 PM
+- 💻 [金山云技术体 - 免费可商用中文字体下载！现代科技风格 / 适合制作 PPT 海报 LOGO 设计](https://www.iplaysoft.com/kingsoft-cloud-tech-font.html) | Mon Sep 26 2022 1:52 PM
+- 🎃 [Windows 11 22H2 &lpar;2022&rpar; 正式版新功能特性汇总！升级前必看](https://www.iplaysoft.com/p/win11-22h2-features) | Sun Sep 25 2022 6:52 PM<!-- iplaysoft:END -->
 
 ### 苹果fans
 
