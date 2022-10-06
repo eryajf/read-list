@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [支持AVX-512的AMD Ryzen 9 7950X成为运行RPCS3模拟器的首选](https://www.cnbeta.com/articles/tech/1324273.htm) | Thu Oct 06 2022 8:26 AM 
+- 🕯 [孙正义到访后 传三星已实质性放弃Arm收购动议](https://www.cnbeta.com/articles/tech/1324287.htm) | Thu Oct 06 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在开发者的CPU排名表中显示，AMD Ryzen 9 7950X已成为索尼PS3模拟器RPCS3的最佳选择。AMD的最新处理器超越了所有竞争对手，包括英特尔。此外，RPCS3几天前刚刚获得了AVX-512支持，对开源仿真器来说，幸运的是，AMD最新的Zen 4微架构支持AVX-512指令。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据韩媒Infostock Daily报道，在10月4日孙正义到访三星总部，与李在镕副会长会晤后，尽管双方讨论了中长期全面合作计划，但三星方面已经实质性放弃了对Arm公司的收购动议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [三星谈论下一代DRAM解决方案：GDDR7、DDR5、LPDDR5X和V-NAND](https://www.cnbeta.com/articles/tech/1324271.htm) | Thu Oct 06 2022 7:44 AM 
+- 💼 [DeepMind攻克50年数学难题 史上最快矩阵乘法算法登Nature封面](https://www.cnbeta.com/articles/tech/1324285.htm) | Thu Oct 06 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星公布了其下一代DRAM和内存解决方案的计划，包括GDDR7、DDR5、LPDDR5X和V-NAND。作为先进半导体技术的全球领导者，三星电子今天在2022年三星技术日上展示了一系列尖端的半导体解决方案，这些解决方案将在十年内推动数字转型。自2017年以来的年度会议，该活动在三年后回到了圣何塞希尔顿酒店的Signia by Hilton酒店亲自出席。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;DeepMind碾压人类高手的AI围棋大师AlphaZero，下一个目标是数学算法！现已发现50年以来最快的矩阵乘法算法。下围棋碾压人类的AlphaZero，开始搞数学算法了，先从矩阵乘法开始！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马斯克想把Twitter变成微信 但他可能很难成功](https://www.cnbeta.com/articles/tech/1324269.htm) | Thu Oct 06 2022 7:39 AM 
+- 💂 [微软正探讨注资印度休闲游戏平台Zupee](https://hot.cnbeta.com/articles/game/1324283.htm) | Thu Oct 06 2022 8:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉CEO马斯克正在从中国社交媒体平台微信中汲取灵感，同时为收购Twitter规划未来。深陷Twitter收购纷争的马斯克，日前重新发起对这家互联网巨头的收购，价格仍为440亿美元。他还称，希望在收购Twitter之后，开发一款名为“X”的超级应用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近几周，微软就投资印度游戏平台Zupee进行了对话，并提议主导一轮超过1亿美元的投资，这是Windows制造商在关键海外市场扩大其云业务的一系列赌注中的最新一次。两位消息人士透露，两家公司还没有达成协议，交易有可能无法实现。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [支付宝（中国）未获高新企业认证？蚂蚁集团：资格到期后未再主动申请](https://www.cnbeta.com/articles/tech/1324267.htm) | Thu Oct 06 2022 7:38 AM 
+- 🚀 [米哈游解释为何《原神》不会增加新常驻后期玩法](https://hot.cnbeta.com/articles/game/1324281.htm) | Thu Oct 06 2022 8:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月6日下午消息，近期，上海市高新技术企业认定指导小组公告了2022年第一批撤销高新技术企业资格企业名单，包括上海数字证书认证中心有限公司、上海优也信息科技有限公司、支付宝（中国）网络科技有限公司、上海行麒机电科技有限公司在内的14家企业在名单中，引发媒体关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自推出以来，《原神》的后期乏力，养成角色后无处可用一直被许多玩家诟病。但是根据最新的采访，米哈游似乎无意在短期内添加更多基于战斗的后期玩法。在最近接受 Gamespot 采访时，米哈游回应了一些玩家社区长期存在的批评。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [索尼：PlayStation收购工作室是为帮助他们成长](https://hot.cnbeta.com/articles/game/1324265.htm) | Thu Oct 06 2022 7:37 AM 
+- 🎊 [我在办公室鱼缸里 找到了窃密设备](https://www.cnbeta.com/articles/tech/1324279.htm) | Thu Oct 06 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然PlayStation工作室正在挥舞支票簿疯狂购买开发工作室，但他们并不认为买到手的工作室会脱离市场。在最近的采访中，PlayStation工作室老大Hermen Hulst表示他们正在帮助新工作室的成长。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一间豪华的办公室内，何志会与他的同事手持检测设备，紧张地进行工作，目标是找到可能隐藏在公司角落的“窃听器”。数日前，该公司一项商业机密莫名其妙泄露，被竞争对手得知，董事长怀疑遭商业间谍窃密，派秘书邀请何志会等人前来做反窃密检测。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
