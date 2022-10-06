@@ -833,28 +833,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Kanye Tweet Generator - 使用 AI 生成 Kanye 推文](https://xinquji.com/posts/180219?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:34 AM 
+- 👀 [Paypersafe - 只需点击几下即可出售和分享您的所有数字内容](https://xinquji.com/posts/180228?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 AI 生成 Kanye 推文  
+     只需点击几下即可出售和分享您的所有数字内容  
     </details> 
 
-- 🥷 [Founder Salary Report by Pilot.com - 来自全球创始人的薪资数据](https://xinquji.com/posts/180218?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:32 AM 
+- 🥷 [Slides Builder for Notion - 始终保持最新的幻灯片，100% 在 Notion](https://xinquji.com/posts/180227?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-     来自全球创始人的薪资数据  
+     始终保持最新的幻灯片，100% 在 Notion  
     </details> 
 
-- 💼 [Skeema - 整理您的思想和浏览器](https://xinquji.com/posts/180217?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:32 AM 
+- 💼 [Do You Need A Meeting? - 不要在不必要的会议上浪费时间](https://xinquji.com/posts/180226?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     整理您的思想和浏览器  
+     不要在不必要的会议上浪费时间  
     </details> 
 
-- 🦅 [Kintsugi Mindful Wellness - 由您的声音驱动的日记和自我保健平台](https://xinquji.com/posts/180216?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:30 AM 
+- 🦅 [Dewey - 访问研究数据的更好方法](https://xinquji.com/posts/180225?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     由您的声音驱动的日记和自我保健平台  
+     访问研究数据的更好方法  
     </details> 
 
-- 😺 [Mahlx All in One Video Downloader - 直接从互联网轻松下载视频和音乐](https://xinquji.com/posts/180215?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:30 AM 
+- 😺 [Bitcoin &amp;amp; Crypto Price Widget - 以当地货币关注您最喜欢的加密货币](https://xinquji.com/posts/180224?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     直接从互联网轻松下载视频和音乐  
+     以当地货币关注您最喜欢的加密货币  
     </details> 
 <!-- xinquji:END -->
