@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [动态规划之打家劫舍二](https://juejin.cn/post/7151303139973890078) | Thu Oct 06 2022 7:48 AM 
+- 🤗 [JAVA-WebService概念与应用](https://juejin.cn/post/7151319364342874120) | Thu Oct 06 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-    你是一个专业的小偷，计划偷窃沿街的房屋，每间房内都藏有一定的现金。这个地方所有的房屋都 围成一圈 ，这意味着第一个房屋和最后一个房屋是紧挨着的。同时，相邻的房屋装有相互连通的防盗系统，如果两间相邻的房 
+    webservice基本概念 简介 webservice即web服务，它时一种跨编程语言和跨操作系统平台的远程调用技术 Java中共有三种Webservice规范，分别是JAX-WS&lpar;JAX-RPC&rpar; 
     </details> 
 
-- 🎡 [Point_Array](https://juejin.cn/post/7151303094034006053) | Thu Oct 06 2022 7:48 AM 
+- 🎡 [【算法题解】 Day8 二分查找](https://juejin.cn/post/7151316532491419684) | Thu Oct 06 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
-    ​持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 题目描述 上面是我们曾经练习过的一个习题，请在原来代码的基础上作以下修改：1、增加自写的拷贝构造函数； 
+    今天的算法是 「二分查找」 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
     </details> 
 
-- 🕯 [统计工龄 C++ mapYYDS](https://juejin.cn/post/7151302273071120397) | Thu Oct 06 2022 7:47 AM 
+- 🕯 [Typora+MinIO+Java代码打造舒适写作环境](https://juejin.cn/post/7151313024941293581) | Thu Oct 06 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-    ​持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 题目描述 给定公司N名员工的工龄，要求按工龄增序输出每个工龄段有多少员工。 输入 输入首先给出正整数N 
+    前面小二介绍过使用Typora+PicGo+LskyPro打造舒适写作环境，那时候需要使用水印功能，但是小二在升级LskyPro2.x版本发现有很多不如人意的东西，遂弃用LskyPro使用MinIO 
     </details> 
 
-- 🚀 [Spring Security系列教程08--基于默认数据库模型实现授权](https://juejin.cn/post/7151129564008153119) | Wed Oct 05 2022 8:55 PM 
+- 🚀 [红袖添香,绝代妖娆,Ruby语言基础入门教程之Ruby3基础语法,第一次亲密接触EP01](https://juejin.cn/post/7151313049947734030) | Thu Oct 06 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    --- highlight: a11y-dark --- 持续创作，加速成长！这是我参与「掘金日新计 
+    Ruby是一门在面向对象层面无所不用其极的解释型编程语言。 我们可以把编写Ruby代码看作是一场行为上的艺术，编码就像跳舞一样，Ruby的每一步都很优雅，几乎没有一步是多余的。 
     </details> 
 
-- 💪 [TensorBoard 一行代码实现指标可视化](https://juejin.cn/post/7151059411350323207) | Wed Oct 05 2022 4:02 PM 
+- 💪 [【Go实现】实践GoF的23种设计模式：访问者模式](https://juejin.cn/post/7151311707795619854) | Thu Oct 06 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 跑深度学习模型，我们会有各种指标以及loss。想要可视化怎么办？初学者肯定是学的用matplotlib自 
+    访问者模式的目的是，解耦数据结构和算法，使得系统能够在不改变现有代码结构的基础上，为对象新增一种新的操作。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
