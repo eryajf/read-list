@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [很多博主说的 K8S“降本增效”的体现在哪里？](https://www.v2ex.com/t/884940#reply7) | Thu Oct 06 2022 2:58 PM
-- 🤗 [C++一个指针，我怎么知道传进来的地址是在堆上还是在栈上？](https://www.v2ex.com/t/884939#reply11) | Thu Oct 06 2022 2:44 PM
-- 🎭 [一道算法题求思路](https://www.v2ex.com/t/884938#reply2) | Thu Oct 06 2022 2:34 PM
-- 🥷 [安卓开发有什么渠道能兼职吗？](https://www.v2ex.com/t/884934#reply0) | Thu Oct 06 2022 2:03 PM
-- 🐵 [lycoris-recoil.com 的这些过渡动画是手写 CSS 实现的吗，还是用了什么框架/生成器？看起来挺炫的。](https://www.v2ex.com/t/884932#reply9) | Thu Oct 06 2022 1:54 PM<!-- v2ex:END -->
+- 🥸 [大家有没有什么好的记工作笔记的方法](https://www.v2ex.com/t/884947#reply3) | Thu Oct 06 2022 4:02 PM
+- 🤗 [Windows 下有什么办法可以远程监控资源占用呢？](https://www.v2ex.com/t/884945#reply3) | Thu Oct 06 2022 3:47 PM
+- 🎭 [继续发问，爱站 站长之家这类各种数据查询站，如何实现的？](https://www.v2ex.com/t/884944#reply0) | Thu Oct 06 2022 3:45 PM
+- 🥷 [很多博主说的 K8S“降本增效”的体现在哪里？](https://www.v2ex.com/t/884940#reply10) | Thu Oct 06 2022 2:58 PM
+- 🐵 [C++一个指针，我怎么知道传进来的地址是在堆上还是在栈上？](https://www.v2ex.com/t/884939#reply11) | Thu Oct 06 2022 2:44 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
