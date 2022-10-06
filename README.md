@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [x86 架构的多 cpu 服务器是否就是 NUMA 架构？](https://www.v2ex.com/t/884899#reply0) | Thu Oct 06 2022 8:56 AM
-- 🤗 [个人部署小鸡服务器有什么好的选择？](https://www.v2ex.com/t/884895#reply1) | Thu Oct 06 2022 8:47 AM
-- 🎭 [Windows 环境下访问阻止软件推荐](https://www.v2ex.com/t/884879#reply2) | Thu Oct 06 2022 6:21 AM
-- 🥷 [Pyinstaller 打包无头浏览器，弹出 cmd 窗口的问题](https://www.v2ex.com/t/884875#reply3) | Thu Oct 06 2022 5:55 AM
-- 🐵 [AWS/Azure/GCP Kubernetes 服务性价比比较](https://www.v2ex.com/t/884864#reply10) | Thu Oct 06 2022 4:49 AM<!-- v2ex:END -->
+- 🥸 [关于 NTFS3 不支持 mmap rw，可行性讨论](https://www.v2ex.com/t/884909#reply0) | Thu Oct 06 2022 10:01 AM
+- 🤗 [x86 架构的多 cpu 服务器是否就是 NUMA 架构？](https://www.v2ex.com/t/884899#reply3) | Thu Oct 06 2022 8:56 AM
+- 🎭 [个人部署小鸡服务器有什么好的选择？](https://www.v2ex.com/t/884895#reply2) | Thu Oct 06 2022 8:47 AM
+- 🥷 [Windows 环境下访问阻止软件推荐](https://www.v2ex.com/t/884879#reply2) | Thu Oct 06 2022 6:21 AM
+- 🐵 [Pyinstaller 打包无头浏览器，弹出 cmd 窗口的问题](https://www.v2ex.com/t/884875#reply3) | Thu Oct 06 2022 5:55 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
