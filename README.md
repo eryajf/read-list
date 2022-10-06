@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JAVA-WebService概念与应用](https://juejin.cn/post/7151319364342874120) | Thu Oct 06 2022 8:55 AM 
+- 🤗 [2022年了Android开发的你还在用ButterKnife?kotlin-android-extensions？来试试ViewBinding吧【转载】](https://juejin.cn/post/7151330775521034271) | Thu Oct 06 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
-    webservice基本概念 简介 webservice即web服务，它时一种跨编程语言和跨操作系统平台的远程调用技术 Java中共有三种Webservice规范，分别是JAX-WS&lpar;JAX-RPC&rpar; 
+    有关ViewBinding 的相关介绍官方介绍的比我详细 👇 详见官方文档 此文只记录如何简洁的在Android开发中base类中如何配置使用viewBinding来提高开发效率. Activity中 
     </details> 
 
-- 🎡 [【算法题解】 Day8 二分查找](https://juejin.cn/post/7151316532491419684) | Thu Oct 06 2022 8:42 AM 
+- 🎡 [Spring Cloud Alibaba-Feign的源码分析](https://juejin.cn/post/7151329209221120037) | Thu Oct 06 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、源码分析 1、 源码推演 我们在想为什么我们调用接口StockFeignClient就能调用对应的服务呢？ StockFeignClient接口代码如下： StockFeignClient接⼝打个 
+    </details> 
+
+- 🕯 [JAVA-WebService概念与应用](https://juejin.cn/post/7151319364342874120) | Thu Oct 06 2022 8:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    webservice基本概念 简介 webservice即web服务，它时一种跨编程语言和跨操作系统平台的远程调用技术 Java中共有三种Webservice规范 
+    </details> 
+
+- 🚀 [【算法题解】 Day8 二分查找](https://juejin.cn/post/7151316532491419684) | Thu Oct 06 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
     今天的算法是 「二分查找」 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
     </details> 
 
-- 🕯 [Typora+MinIO+Java代码打造舒适写作环境](https://juejin.cn/post/7151313024941293581) | Thu Oct 06 2022 8:28 AM 
+- 💪 [Typora+MinIO+Java代码打造舒适写作环境](https://juejin.cn/post/7151313024941293581) | Thu Oct 06 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
     前面小二介绍过使用Typora+PicGo+LskyPro打造舒适写作环境，那时候需要使用水印功能，但是小二在升级LskyPro2.x版本发现有很多不如人意的东西，遂弃用LskyPro使用MinIO 
-    </details> 
-
-- 🚀 [红袖添香,绝代妖娆,Ruby语言基础入门教程之Ruby3基础语法,第一次亲密接触EP01](https://juejin.cn/post/7151313049947734030) | Thu Oct 06 2022 8:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    Ruby是一门在面向对象层面无所不用其极的解释型编程语言。 我们可以把编写Ruby代码看作是一场行为上的艺术，编码就像跳舞一样，Ruby的每一步都很优雅，几乎没有一步是多余的。 
-    </details> 
-
-- 💪 [【Go实现】实践GoF的23种设计模式：访问者模式](https://juejin.cn/post/7151311707795619854) | Thu Oct 06 2022 8:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    访问者模式的目的是，解耦数据结构和算法，使得系统能够在不改变现有代码结构的基础上，为对象新增一种新的操作。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
