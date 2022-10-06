@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [宠托师、婚庆化妆师……年轻人假期兼职图鉴里有你吗？](https://www.cnbeta.com/articles/tech/1324371.htm) | Thu Oct 06 2022 5:14 PM 
+- 🕯 [编辑推文选项扩展至美国的Twitter Blue订阅用户](https://www.cnbeta.com/articles/tech/1324377.htm) | Thu Oct 06 2022 6:50 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Twitter今天宣布，美国区域的Twitter Blue订阅用户现在可以使用过去一个月来一直在测试的编辑推文功能。本周早些时候，Twitter向加拿大、澳大利亚和新西兰的Twitter Blue用户提供了一个编辑按钮，并承诺在美国进行功能扩展，而这比预期来得更快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Microsoft Store的性能和产品发现能力得到改善](https://www.cnbeta.com/articles/tech/1324375.htm) | Thu Oct 06 2022 6:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;除了在开发频道推出新的Windows 11预览版外，微软还宣布了对微软商店（Microsoft Store）应用的一些改进，该商店将很快承载第三方Windows 11小工具。与此同时，本次更新还引入了性能增强，以及可发现性的改进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果27英寸miniLED显示屏有望在2023年初上市](https://www.cnbeta.com/articles/tech/1324373.htm) | Thu Oct 06 2022 6:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;供应链传言表明，苹果将在2023年第一季度推出一款新的27英寸显示屏，最大的变化是采用miniLED背光。&lt;/strong&gt;自从苹果披露更&amp;quot;实惠&amp;quot;的Studio Display以来，关于27英寸显示屏即将回归的传言一直在流传，相比面向行业的Pro Display XDR型号，这一普及型缺乏HDR、ProMotion和苹果MacBook Pro和12.9英寸iPad Pro中出现过的迷你LED背光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [宠托师、婚庆化妆师……年轻人假期兼职图鉴里有你吗？](https://www.cnbeta.com/articles/tech/1324371.htm) | Thu Oct 06 2022 5:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;对于大部分人来说，国庆假期意味着放松和休息。不过也有一批年轻人，抓住国庆假期这一“搞钱”时机，发挥所长各显神通，为自己赚点外快。年轻人通过什么方式在国庆假期赚钱？又有哪些有趣的经历？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Twitter正在使其众包的事实检查对所有美国用户可见](https://www.cnbeta.com/articles/tech/1324369.htm) | Thu Oct 06 2022 5:03 PM 
+- 🎊 [Twitter正在使其众包的事实检查对所有美国用户可见](https://www.cnbeta.com/articles/tech/1324369.htm) | Thu Oct 06 2022 5:03 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在上个月扩大了被称为Birdwatch的Twitter众包事实核查项目后&lt;strong&gt;，Twitter今天早上宣布事实核查人员在推文上留下的注释现在将对所有美国用户可见。&lt;/strong&gt;然而，这并不意味着美国的每个人都能参与Birdwatch。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [一位前Facebook工程师想帮助你建立自己的手机网络](https://www.cnbeta.com/articles/tech/1324367.htm) | Thu Oct 06 2022 4:20 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一家新公司想让你成为你自己的手机运营商，即使你离家在外也能使用你的互联网连接，并漫游到其他做同样事情的人的网络。&lt;/strong&gt;这家公司由前Facebook工程师卡希夫-阿里&lpar;Kashif Ali&rpar;领导，名为Ukama，它在以工程和创客为重点的网站Crowd Supply上发起了一项众筹活动，将其设备提供给愿意尝试这种技术并开始建立网络的人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [一台道具车就能送公司上市 北美贾跃亭教你如何用嘴造电车](https://www.cnbeta.com/articles/tech/1324365.htm) | Thu Oct 06 2022 4:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这些年，在刮起八级大狂风的造车风口下……一个个新势力明里暗里的，都表示自己是“ 颠覆者 ”，是下一个特斯拉。只不过有趣的是，谁是下一个特斯拉还没个准儿， &lt;strong&gt;但 “ 谁是下一个贾跃亭 ”，却已经先出现了标准答案&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [今天是Windows 11发布一周年](https://www.cnbeta.com/articles/tech/1324363.htm) | Thu Oct 06 2022 3:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Windows 11到今天已经一岁了，这一微软最新和最先进的操作系统在当地时间2021年10月5日面向所有用户发布。&lt;/strong&gt;与大多数人习惯的传统现代Windows体验相比，Windows 11带来了很多变化，包括居中的任务栏图标和受Windows 10X（微软停止研发的操作系统）启发的新的开始菜单。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
