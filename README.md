@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [以最简单的方式理解 HIIT，然后动起来](https://sspai.com/post/76004) | Wed Oct 05 2022 7:06 AM 
+- 👹 [看什么 Café | 千变万化不离其宗，电影片头那些有趣「改编」](https://sspai.com/post/76017) | Thu Oct 06 2022 3:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    编者按：1895年12月28日，在巴黎卡普辛路14号的大咖啡馆，历史上最著名的一场电影放映出现了——卢米埃尔兄弟的一系列短片和其他演出一起成为了咖啡馆的助兴节目，而咖啡馆也正是那时人们谈论电影和艺术的 ...&lt;a href=&quot;https://sspai.com/post/76017&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [以最简单的方式理解 HIIT，然后动起来](https://sspai.com/post/76004) | Wed Oct 05 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
     一块场地里摆着一圈各种小器械：哑铃，壶铃，药球，牛角沙袋，跳箱，瑞士球……每一个器械对应着一个指定的动作，构成一个「训练站」。学员们每人占据其中的一个训练站，在教练下令「开始」后以最快的速度不断重复指 ...&lt;a href=&quot;https://sspai.com/post/76004&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [不买可以先收藏 12：如何理性高效地选购适合自己的二手房](https://sspai.com/post/75977) | Wed Oct 05 2022 3:00 AM 
+- 🤭 [不买可以先收藏 12：如何理性高效地选购适合自己的二手房](https://sspai.com/post/75977) | Wed Oct 05 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     以上就是一个中年大叔的一路折腾，一路看房慢慢总结下来的一些实实在在的经验或者踩过的坑，希望能够给予初次看房的朋友一些有效的帮助，并祝大家都能顺顺利利地买到自己心仪的房子。&lt;a href=&quot;https://sspai.com/post/75977&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [锁屏小组件、专注模式过滤、状态标签……文本效率工具 Drafts 5 更新详解](https://sspai.com/post/76034) | Tue Oct 04 2022 7:00 AM 
+- 🥸 [锁屏小组件、专注模式过滤、状态标签……文本效率工具 Drafts 5 更新详解](https://sspai.com/post/76034) | Tue Oct 04 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     随着 iOS 16 正式版更新，Drafts 也适配了不少新特性，相信无论你是哪种 Drafts 用户都会非常满意这次更新中的这些新功能的。&lt;a href=&quot;https://sspai.com/post/76034&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [数据可视化怎么配色？这些技巧值得一试。](https://sspai.com/post/75989) | Tue Oct 04 2022 3:00 AM 
+- 🙉 [数据可视化怎么配色？这些技巧值得一试。](https://sspai.com/post/75989) | Tue Oct 04 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     用上这些知识你也可以给图表配上一个实用又好看的颜色。&lt;a href=&quot;https://sspai.com/post/75989&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/76029) | Mon Oct 03 2022 9:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/76029&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
