@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么目前没有 Android 系统用 Btrfs（及可行性讨论）](https://www.v2ex.com/t/884834#reply0) | Wed Oct 05 2022 11:58 PM
-- 🤗 [n.e is not a function 问题记录](https://www.v2ex.com/t/884829#reply1) | Wed Oct 05 2022 5:02 PM
-- 🎭 [debian 用着用着就报错 hard LOCKUP, 有没有大佬懂的](https://www.v2ex.com/t/884828#reply4) | Wed Oct 05 2022 4:38 PM
-- 🥷 [求解 MySQL 8.0 Left Join 的表使用 PARTITION 分区的问题](https://www.v2ex.com/t/884818#reply2) | Wed Oct 05 2022 2:53 PM
-- 🐵 [JVM、运维大佬过来看看这个问题](https://www.v2ex.com/t/884811#reply4) | Wed Oct 05 2022 2:17 PM<!-- v2ex:END -->
+- 🥸 [有没有性价比高的， 4+1 口支持 802.1x 认证的千兆交换机？](https://www.v2ex.com/t/884853#reply2) | Thu Oct 06 2022 3:07 AM
+- 🤗 [有什么框架能够把本地命令包装成 web api 的吗？](https://www.v2ex.com/t/884848#reply9) | Thu Oct 06 2022 2:38 AM
+- 🎭 [如何低成本选择瘦客户机连接远程桌面](https://www.v2ex.com/t/884847#reply5) | Thu Oct 06 2022 2:38 AM
+- 🥷 [为什么目前没有 Android 系统用 Btrfs（及可行性讨论）](https://www.v2ex.com/t/884834#reply5) | Wed Oct 05 2022 11:58 PM
+- 🐵 [n.e is not a function 问题记录](https://www.v2ex.com/t/884829#reply1) | Wed Oct 05 2022 5:02 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
