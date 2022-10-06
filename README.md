@@ -368,7 +368,7 @@
 - 🤗 [大家有没有什么好的记工作笔记的方法](https://www.v2ex.com/t/884947#reply7) | Thu Oct 06 2022 4:02 PM
 - 🎭 [Windows 下有什么办法可以远程监控资源占用呢？](https://www.v2ex.com/t/884945#reply4) | Thu Oct 06 2022 3:47 PM
 - 🥷 [继续发问，爱站 站长之家这类各种数据查询站，如何实现的？](https://www.v2ex.com/t/884944#reply0) | Thu Oct 06 2022 3:45 PM
-- 🐵 [很多博主说的 K8S“降本增效”的体现在哪里？](https://www.v2ex.com/t/884940#reply14) | Thu Oct 06 2022 2:58 PM<!-- v2ex:END -->
+- 🐵 [很多博主说的 K8S“降本增效”的体现在哪里？](https://www.v2ex.com/t/884940#reply15) | Thu Oct 06 2022 2:58 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
