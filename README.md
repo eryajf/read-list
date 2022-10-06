@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《使命召唤19：现代战争2》全新预告 大战一触即发](https://hot.cnbeta.com/articles/game/1324341.htm) | Thu Oct 06 2022 2:31 PM 
+- 🕯 [法国一法院降低了对苹果公司控制第三方分销商定价的反垄断罚款](https://www.cnbeta.com/articles/tech/1324357.htm) | Thu Oct 06 2022 3:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《使命召唤19：现代战争2》公开了全新的预告，展示了游戏的背景、斗战特色等信息，也让玩家感受到游玩的冲动。该作预计在2022年10月28日发售，登陆PC、PS4、PS5、Xbox One和Xbox Series X/S平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据路透社报道，法国一家上诉法院今天降低了法国竞争管理局对苹果公司的罚款，之前监管机构开出罚单的原因是苹果公司涉嫌&amp;quot;对其分销和零售网络的反竞争行为&amp;quot;。该报告称，罚款已从最初的11亿欧元降至3.72亿欧元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《极品飞车22：不羁》正式公开 12月2日发售](https://hot.cnbeta.com/articles/game/1324339.htm) | Thu Oct 06 2022 2:31 PM 
+- 💼 [Google的Pixel 7和7 Pro将可以修复你以前手抖拍的模糊照片](https://www.cnbeta.com/articles/tech/1324355.htm) | Thu Oct 06 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《极品飞车22：不羁》正式公开，该作将于12月2日发售，登陆PC，PS5和Xbox Series X|S，“自下而上，赛至巅峰”。预购的玩家可提前3天，也就是在11月底游玩游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google表示，用户将能够使用Pixel 7回溯其Google照片库，并使用一个名为Photo Unblur的功能修复旧的模糊照片。到目前为止，该功能是Google最新手机独有的，类似于Pixel 6推出的Magic Eraser功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [酱油里全是“科技与狠活”？“0添加”真的更好吗？](https://www.cnbeta.com/articles/tech/1324337.htm) | Thu Oct 06 2022 2:28 PM 
+- 💂 [Google提供未来Pixel平板电脑的更多信息：可变身家居智能显示器](https://www.cnbeta.com/articles/tech/1324353.htm) | Thu Oct 06 2022 3:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，食品安全领域“风波再起”，一系列打着“海克斯科技”（游戏《英雄联盟》中的超强技术）名头的“食品造假”内容在网上疯传。其中，&lt;strong&gt;酱油产品中的食品添加剂问题，尤其是其中的防腐剂问题&lt;/strong&gt;，又成了大家关注的焦点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们已经知道，Pixel平板电脑从I/O开始就被提及，这是该公司预告的即将推出的三款硬件设备之一。另外两款 - Pixel 7和Pixel Watch已经到来。而那些一直在等待该公司下一次推出平板电脑的人，则要等到明年了。不过，谷歌产品经理Rose Yao今天在发布会上公布了一些关键功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [谷歌Pixel 7 Pro跑分现身：Tensor G2性能仅追平骁龙888](https://www.cnbeta.com/articles/tech/1324335.htm) | Thu Oct 06 2022 2:11 PM 
+- 🚀 [Google发布Tensor G2处理器 除了制程升级之外改变不大](https://www.cnbeta.com/articles/tech/1324351.htm) | Thu Oct 06 2022 3:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今晚11点，谷歌将举行新品发布会，推出包括Pixel 7 Pro在内的多款新品，目前，这款新机的跑分成绩也已经正式出炉。根据Geekbench显示的数据，&lt;strong&gt;Pixel 7 Pro搭载的这颗Tensor G2获得了3149分的多核成绩，单核成绩则是1068分，相比Pixel系列此前的设备明显更高。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;正如预期的那样，Google今天推出了其最新的Pixel手机系列，以及Pixel手表。手表采用了三星Exynos芯片，而新的Pixel则再次使用了Google自主研发的Tensor处理器。现在是第二代，Google在会上表示Tensor G2处理器可以为手机提供两倍的夜视处理速度和更清晰的照片（Face Unblur），以及改进的超级分辨率缩放（Pixel 7 Pro最高达30倍）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [波士顿动力、Agility等公司写信谴责武器化的&quot;通用&quot;机器人](https://www.cnbeta.com/articles/tech/1324333.htm) | Thu Oct 06 2022 2:10 PM 
+- 🎊 [Google再次喊话苹果尽快采用RCS以改善短信体验](https://www.cnbeta.com/articles/tech/1324349.htm) | Thu Oct 06 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天上午，一群著名的机器人公司发表了一封公开信，谴责&amp;quot;通用&amp;quot;机器人的武器化。由波士顿动力公司、Agility公司、ANYbotics公司、Clearpath Robotics公司、Open Robotics公司签署的这封信，部分内容指出：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在周四举行的大型Pixel活动的舞台上，Google再次公开指责苹果公司没有采用RCS来改善短信。Google没有说&amp;quot;苹果&amp;quot;这个词，但很明显该公司指的是谁。Google的布莱恩-拉科夫斯基（Brian Rakowski）在发布会上说：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
