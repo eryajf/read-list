@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [有预付费手机用户发现自己没有资格玩《守望先锋：归来》](https://hot.cnbeta.com/articles/game/1324261.htm) | Thu Oct 06 2022 7:07 AM 
+- 🕯 [支持AVX-512的AMD Ryzen 9 7950X成为运行RPCS3模拟器的首选](https://www.cnbeta.com/articles/tech/1324273.htm) | Thu Oct 06 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国预付费手机用户是没有资格玩《守望先锋：归来》的。《守望先锋：归来》玩家需要将手机号绑定至战网账号方可进入游戏，但美国预付费手机和VOIP用户无法使用这项服务。在《守望先锋：归来》上线之前，暴雪已经公布本作拥有短信安全保护功能，并表示“这是经过业界考验的反作弊与反骚扰解决方案”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在开发者的CPU排名表中显示，AMD Ryzen 9 7950X已成为索尼PS3模拟器RPCS3的最佳选择。AMD的最新处理器超越了所有竞争对手，包括英特尔。此外，RPCS3几天前刚刚获得了AVX-512支持，对开源仿真器来说，幸运的是，AMD最新的Zen 4微架构支持AVX-512指令。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [快递保价保不了实际损失？一不留神你就成冤大头了](https://www.cnbeta.com/articles/tech/1324259.htm) | Thu Oct 06 2022 7:07 AM 
+- 💼 [三星谈论下一代DRAM解决方案：GDDR7、DDR5、LPDDR5X和V-NAND](https://www.cnbeta.com/articles/tech/1324271.htm) | Thu Oct 06 2022 7:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;最近，网络上关于快递保价的讨论一下子多了起来。几则相关新闻一下子引爆了舆论，&lt;/strong&gt;一位客户保价18000元的手办邮寄过程中出现损坏，顺丰只愿意赔偿500元；更早些时候，还出现了保价8000元的黄金在同城配送中丢失平台方只愿意赔偿2000元的事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星公布了其下一代DRAM和内存解决方案的计划，包括GDDR7、DDR5、LPDDR5X和V-NAND。作为先进半导体技术的全球领导者，三星电子今天在2022年三星技术日上展示了一系列尖端的半导体解决方案，这些解决方案将在十年内推动数字转型。自2017年以来的年度会议，该活动在三年后回到了圣何塞希尔顿酒店的Signia by Hilton酒店亲自出席。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [售价不到2万卢比的笔记本电脑 印度Jio Book近距离上手](https://www.cnbeta.com/articles/tech/1324257.htm) | Thu Oct 06 2022 7:05 AM 
+- 💂 [马斯克想把Twitter变成微信 但他可能很难成功](https://www.cnbeta.com/articles/tech/1324269.htm) | Thu Oct 06 2022 7:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月3日，运营商Jio在2022年印度移动大会（IMC）宣布其在印度销售的首款笔记本电脑--Jio Book。Jio进入笔记本电脑领域的这一开创性步骤是该公司产品组合中的一个重要发展。Jio与高通和微软合作生产Jio Book，顺便说一下，它是&amp;quot;印度制造&amp;quot;的。之前谈到了Jio Book在印度的价格和它的供应细节，现在终于迎来了近距离上手的机会。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉CEO马斯克正在从中国社交媒体平台微信中汲取灵感，同时为收购Twitter规划未来。深陷Twitter收购纷争的马斯克，日前重新发起对这家互联网巨头的收购，价格仍为440亿美元。他还称，希望在收购Twitter之后，开发一款名为“X”的超级应用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [麻省理工学院的化学工程师正在破解除碳的难题](https://www.cnbeta.com/articles/science/1324255.htm) | Thu Oct 06 2022 6:58 AM 
+- 🚀 [支付宝（中国）未获高新企业认证？蚂蚁集团：资格到期后未再主动申请](https://www.cnbeta.com/articles/tech/1324267.htm) | Thu Oct 06 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;麻省理工学院的化学工程衍生公司Verdox一直在享受杰出的一年。这家于2019年推出的碳捕获和清除初创公司在2月宣布从包括比尔-盖茨的突破性能源风险投资公司在内的一系列投资者那里获得了8000万美元的资金。4月又在被彭博新能源财经认可为年度最佳能源先锋之一之后，该公司和合作伙伴Carbfix赢得了100万美元的XPRIZE碳清除里程碑奖项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月6日下午消息，近期，上海市高新技术企业认定指导小组公告了2022年第一批撤销高新技术企业资格企业名单，包括上海数字证书认证中心有限公司、上海优也信息科技有限公司、支付宝（中国）网络科技有限公司、上海行麒机电科技有限公司在内的14家企业在名单中，引发媒体关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微软警告IT管理员关于Windows 11 2022更新&lpar;22H2&rpar;的.ppkg预配包被破坏了](https://www.cnbeta.com/articles/tech/1324253.htm) | Thu Oct 06 2022 6:51 AM 
+- 🎊 [索尼：PlayStation收购工作室是为帮助他们成长](https://hot.cnbeta.com/articles/game/1324265.htm) | Thu Oct 06 2022 7:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;正如报道所说，微软上个月开始推出Windows 11的22H2版本。正如人们所预料到的那样，这次推出并非没有问题和漏洞。例如，许多用户报告更新失败，错误代码是&amp;quot;0x800f0806&amp;quot;。还有一些常见的问题，如打印机问题，一个新的打印机策略导致2022年更新后打印机无法检测到，还有复制文件会导致性能减慢，主要是在远程情况下的bug。部分问题推动微软在受影响的设备上完全阻止了更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然PlayStation工作室正在挥舞支票簿疯狂购买开发工作室，但他们并不认为买到手的工作室会脱离市场。在最近的采访中，PlayStation工作室老大Hermen Hulst表示他们正在帮助新工作室的成长。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
