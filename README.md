@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [HTC预告推出新款小型Vive VR头显](https://www.cnbeta.com/articles/tech/1324323.htm) | Thu Oct 06 2022 1:51 PM 
+- 🕯 [《使命召唤19：现代战争2》全新预告 大战一触即发](https://hot.cnbeta.com/articles/game/1324341.htm) | Thu Oct 06 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当Meta和TikTok的所有者字节跳动为成为制造虚拟或增强现实硬件的高端社交媒体/元数据公司而战时，HTC正在提醒大家，它在游戏中也有一席之地。在没有提供任何额外细节的情况下，公司在周四早上发布了这条简单的预告性推文：“要不小，要不回家玩。”暗示推出新款小型Vive VR头显，并附上了一张图片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《使命召唤19：现代战争2》公开了全新的预告，展示了游戏的背景、斗战特色等信息，也让玩家感受到游玩的冲动。该作预计在2022年10月28日发售，登陆PC、PS4、PS5、Xbox One和Xbox Series X/S平台。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Logitech G和赫曼·米勒再次合作推出Vantum游戏椅](https://www.cnbeta.com/articles/tech/1324321.htm) | Thu Oct 06 2022 1:48 PM 
+- 💼 [《极品飞车22：不羁》正式公开 12月2日发售](https://hot.cnbeta.com/articles/game/1324339.htm) | Thu Oct 06 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Logitech G和Herman Miller联合推出了Vantum游戏椅。&lt;/strong&gt;它现在可以以995美元的价格订购，这与1500美元的Embody有很大的价格差异，虽然Embody合作款是在赫曼米勒的椅子目录中已有的设计上对游戏玩家进行了调整，但Vantum似乎完全是一把新椅子。它将有多种颜色选择（白色、红色和黑色），每种颜色都有12年的保修期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《极品飞车22：不羁》正式公开，该作将于12月2日发售，登陆PC，PS5和Xbox Series X|S，“自下而上，赛至巅峰”。预购的玩家可提前3天，也就是在11月底游玩游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [尽管预计销售疲软 亚马逊仍计划在假期雇佣15万名员工](https://www.cnbeta.com/articles/tech/1324319.htm) | Thu Oct 06 2022 1:22 PM 
+- 💂 [酱油里全是“科技与狠活”？“0添加”真的更好吗？](https://www.cnbeta.com/articles/tech/1324337.htm) | Thu Oct 06 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管销售增长放缓，而且预计假日购物季将不太活跃，但亚马逊&lpar;AMZN.US&rpar;仍计划招聘15万名季节性员工，与去年持平。亚马逊通常在每年的这个时候雇佣大批临时工，帮助其仓库储存、包装和运输商品。亚马逊在一份声明中表示，根据员工在美国的职位和地点，他们的平均时薪可以超过19美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，食品安全领域“风波再起”，一系列打着“海克斯科技”（游戏《英雄联盟》中的超强技术）名头的“食品造假”内容在网上疯传。其中，&lt;strong&gt;酱油产品中的食品添加剂问题，尤其是其中的防腐剂问题&lt;/strong&gt;，又成了大家关注的焦点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [喜剧动作片《枪口下的婚礼》首曝预告](https://hot.cnbeta.com/articles/movie/1324317.htm) | Thu Oct 06 2022 12:35 PM 
+- 🚀 [谷歌Pixel 7 Pro跑分现身：Tensor G2性能仅追平骁龙888](https://www.cnbeta.com/articles/tech/1324335.htm) | Thu Oct 06 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;詹妮弗·洛佩兹、乔什·杜哈明主演动作喜剧片《枪口下的婚礼（Shotgun Wedding）》首曝预告，将于2023年1月27日上线亚马逊。在《枪口下的婚礼》中，达西（詹妮弗-洛佩兹）和汤姆（乔什·杜哈明）召集他们可爱但固执己见的家人，举行最终目的地婚礼，而这对夫妇开始临阵退缩。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今晚11点，谷歌将举行新品发布会，推出包括Pixel 7 Pro在内的多款新品，目前，这款新机的跑分成绩也已经正式出炉。根据Geekbench显示的数据，&lt;strong&gt;Pixel 7 Pro搭载的这颗Tensor G2获得了3149分的多核成绩，单核成绩则是1068分，相比Pixel系列此前的设备明显更高。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [首发12999元起 RTX 4090公版显卡国行10月15日正式开售](https://www.cnbeta.com/articles/tech/1324315.htm) | Thu Oct 06 2022 12:35 PM 
+- 🎊 [波士顿动力、Agility等公司写信谴责武器化的&quot;通用&quot;机器人](https://www.cnbeta.com/articles/tech/1324333.htm) | Thu Oct 06 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，NVIDIA正式官宣，RTX 4090显卡将于10月15日在国内线下现货首发。据悉，&lt;strong&gt;此次NVIDIA将联合沈阳京东MALL、与华硕、七彩虹和微星赛达厂商一同，开售RTX 4090显卡。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天上午，一群著名的机器人公司发表了一封公开信，谴责&amp;quot;通用&amp;quot;机器人的武器化。由波士顿动力公司、Agility公司、ANYbotics公司、Clearpath Robotics公司、Open Robotics公司签署的这封信，部分内容指出：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
