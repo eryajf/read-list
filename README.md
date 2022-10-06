@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Winform控件优化之TabControl控件的使用和常用功能](https://juejin.cn/post/7151058213029281806) | Wed Oct 05 2022 3:59 PM 
+- 🤗 [图解LeetCode——927. 三等分（难度：困难）](https://juejin.cn/post/7151206482103500813) | Thu Oct 06 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-    TabControl是一个分页切换（tab）控件，不同的页框内可以呈现不同的内容，将主要介绍调整tab的左右侧显示、设置多行tab、禁用或删除tabpage、隐藏TabControl头部的选项卡等 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 一、题目 给定一个由 0 和 1 组成的数组 arr ，将数组分成  3 个非空的部分 ，使得所有这些部 
     </details> 
 
-- 🎡 [Swift - LeetCode - Fizz Buzz](https://juejin.cn/post/7151056854506799141) | Wed Oct 05 2022 3:54 PM 
+- 🎡 [【RocketMq 系列】springboot RocketMq 入门教程](https://juejin.cn/post/7151201904414949383) | Thu Oct 06 2022 1:17 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 题目 给你一个整数 n，找出从 1 到 n 各个整数的 Fizz Buzz 表示，并用字符串数组 ans 
+    Apache RocketMQ 自诞生以来，因其架构简单、业务功能丰富、具备极强可扩展性等特点被众多企业开发者以及云厂商广泛采用。 
     </details> 
 
-- 🕯 [深度剖析Java的volatile实现原理，再也不怕面试官问了](https://juejin.cn/post/7151055833571262501) | Wed Oct 05 2022 3:50 PM 
+- 🕯 [大话数据结构之排序算法](https://juejin.cn/post/7151200652280987656) | Thu Oct 06 2022 1:11 AM 
     <details><summary>展开描述 ...</summary> 
-    上篇文章我们讲了synchronized的用法和实现原理，我们总爱说synchronized是重量级锁，volatile是轻量级锁。为什么volatile是轻量级锁，体现在哪些方面？以及volatil 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 算法介绍 算法时间复杂度，一般通过 O&lpar;&rpar;来体现，我们称为大 O 记法。 常数阶 线性阶 对数阶 平方阶 
     </details> 
 
-- 🚀 [C# Chart](https://juejin.cn/post/7151052402215354376) | Wed Oct 05 2022 3:36 PM 
+- 🚀 [实现基于EFK日志平台收集Kubernetes集群日志信息](https://juejin.cn/post/7151193151703613453) | Thu Oct 06 2022 12:43 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 前言： 前段时间学习Chart控件，对Chart控件的，怕以后忘记，所以总结一下自己的学习成果，怕以后忘 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 kubernetes集群基于EFK实现日志收集平台 1.EFK工作原理 Elasticsearch 一个 
     </details> 
 
-- 💪 [JavaScript 字符串](https://juejin.cn/post/7151051508929265700) | Wed Oct 05 2022 3:32 PM 
+- 💪 [家庭教育对人的影响非常重要](https://juejin.cn/post/7151083380849770533) | Wed Oct 05 2022 5:36 PM 
     <details><summary>展开描述 ...</summary> 
-    字符串 字符串就是零个或多个排在一起的字符，放在单引号或双引号之中。 单引号字符串的内部，可以使用双引号。双引号字符串的内部，可以使用单引号。 如果要在单引号字符串的内部，使用单引号，就必须在内部的单 
+    前言 小时候经常会听到一些故事：孟母三迁，因为生长环境各种恶劣，要么就是氛围不好，要么就是没有好的学习资源，然后一位母亲为了孩子的未来发展迁移三次住处，最终孩子在这种环境下有所成就。 也听过一个小偷在 
     </details> 
 <!-- juejin:END -->
 ### 少数派
