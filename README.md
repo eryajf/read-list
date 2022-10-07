@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [SpringBoot 第三方类作为 Bean 如何添加生命周期方法？](https://www.v2ex.com/t/885110#reply1) | Fri Oct 07 2022 3:29 PM
+- 🥸 [SpringBoot 第三方类作为 Bean 如何添加生命周期方法？](https://www.v2ex.com/t/885110#reply2) | Fri Oct 07 2022 3:29 PM
 - 🤗 [24 岁非本专业大专准备自学转行前端，求劝退](https://www.v2ex.com/t/885109#reply14) | Fri Oct 07 2022 3:28 PM
 - 🎭 [请问有好的程序设计类书籍推荐吗？](https://www.v2ex.com/t/885104#reply2) | Fri Oct 07 2022 2:58 PM
 - 🥷 [如何平衡自己的时间去学习自己感兴趣的另一门编程语言](https://www.v2ex.com/t/885103#reply5) | Fri Oct 07 2022 2:54 PM
