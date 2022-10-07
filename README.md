@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [对眼科疾病的新认识：3D图谱揭示了人类视网膜细胞内的DNA组织](https://www.cnbeta.com/articles/science/1324601.htm) | Fri Oct 07 2022 9:19 AM 
+- 🕯 [大规模研究称默沙东新冠口服药无法降低住院风险 小分子药遭质疑](https://www.cnbeta.com/articles/tech/1324613.htm) | Fri Oct 07 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国国家眼科研究所（NEI）的科学家绘制了人类视网膜细胞染色质的组织图。这些纤维将30亿个核苷酸长的DNA分子包装成紧凑的结构，形成每个细胞核内的染色体。&lt;/strong&gt;由此产生的综合基因调控网络提供了对一般基因表达调控的见解，以及对罕见和常见眼科疾病中视网膜功能的见解。该研究将于今天（2022年10月7日）发表在《自然通讯》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新冠小分子口服药能否降低住院风险？根据最近发表的一项英国大规模临床试验结果，默沙东的新冠抗病毒口服药并不能降低新冠高风险成年患者的住院和死亡风险。周四公布的一项针对超过2.5万人的临床试验初步结果显示，服用默沙东及其合作伙伴Ridgeback公司合作研发的抗新冠病毒口服药物莫诺拉韦（molnupiravir），虽然可以缩短患者的康复时间，但与安慰剂组相比，该药物在降低住院率方面没有任何益处。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [GeForce RTX 4080 16GB 3DMark基准测试成绩泄露 比RTX 3080快62%](https://www.cnbeta.com/articles/tech/1324599.htm) | Fri Oct 07 2022 9:03 AM 
+- 💼 [又有爆料称大锤并未开发《使命召唤：高级战争2》](https://hot.cnbeta.com/articles/game/1324611.htm) | Fri Oct 07 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据称，3DMark中的NVIDIA GeForce RTX 4080 16 GB显卡基准测试成绩已经泄露，显示其性能比RTX 3080快了60%。这块NVIDIA GeForce RTX 4080 16 GB显卡是在Chiphell论坛上发现的，根据楼主提供的数据，它在3DMark Time Spy基准测试中获得了28929分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;报道称，Treyarch的下一款《使命召唤》游戏将于2024年发售，随后是Sledgehammer Games开发的《使命召唤》新作。近日有传言表示，Sledgehammer Games开发的是《使命召唤：高级战争2》，但随后又有爆料人出面澄清消息不实。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苏姿丰在专访期间披露了AMD成功转型和Zen CPU横空出世的秘辛](https://www.cnbeta.com/articles/tech/1324597.htm) | Fri Oct 07 2022 9:01 AM 
+- 💂 [Windows 11 Build 25217预览 修复平板任务栏相关的多个问题](https://www.cnbeta.com/articles/tech/1324609.htm) | Fri Oct 07 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在接受挪威主权财富基金采访时，AMD CEO 苏姿丰博士（Dr. Lisa Su）分享了她对当前公司业绩、整个行业、以及员工生产力重要性的看法。&lt;/strong&gt;期间她还分享了在工作期间的一些有趣经历，比如自己很喜欢首次拿到新产品时的感觉。此外 Lisa Su 解释称，在 AMD 的工作很是吸引她，因为该公司一直处在技术开发的前沿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;微软刚刚向 Dev 通道的 Insider 测试者们，推送了 Windows 11 Build 25217 编译版本。&lt;/strong&gt;不过它仍属于 22H2 分支，因为被称作“23H2”的 Sun Valley 3 开发似乎已被取消，以转向每三年发布一个主要的新 Windows 版本。如果一切顺利，微软或于 2023 年的某个时候正式推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [一女子与微软公司和解了儿童识字工具的&quot;Windows&quot;品牌争端](https://www.cnbeta.com/articles/tech/1324595.htm) | Fri Oct 07 2022 8:57 AM 
+- 🚀 [可能与高通骁龙7 Gen2有关的芯片架构表现细节浮出水面](https://www.cnbeta.com/articles/tech/1324607.htm) | Fri Oct 07 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;像许多其他公司一样，微软对产品品牌和名称的纠纷并不陌生。无论是SkyDrive到OneDrive或PureView都不罚闹上法院的案例，此类案件的最新情节是这家科技巨头发现自己正在为其&amp;quot;Windows&amp;quot;品牌与一位制作教学工具的女子凯特·麦肯锡有可能再次闹上公堂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;可能是骁龙7 Gen2的细节浮出水面，迄今为止，骁龙7仅在几款手机中使用，远远没有达到之前的700系列芯片的普及程度。而接下来高通公司有一款新的7系列芯片，即SM7475，尽管它在骁龙家族中的地位还不太清楚。这可能是Snapdragon 7 Gen 2，也可能被称为7+ Gen 1。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《守望先锋：归来》国际服停服大修 现已恢复](https://hot.cnbeta.com/articles/game/1324593.htm) | Fri Oct 07 2022 8:24 AM 
+- 🎊 [中国科大发现土卫二冰下海洋中有丰富的磷供给潜在地外生命](https://www.cnbeta.com/articles/science/1324603.htm) | Fri Oct 07 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天（10 月 7 日）暴雪在《守望先锋》官方推特账号上宣布，计划关闭《守望先锋：归来》服务器，以进行一些重大修复。目前这些修复已经分别在今天早上的6 点至 7 点，以及 9 点至中午 12 点分别完成。更新完成后，国际服玩家需要更新游戏客户端。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，中国科学技术大学地球和空间科学学院的郝记华研究员与美国西南研究员的ChristopherGlein研究员等学者合作，构建模拟土卫二海水化学，发现土卫二水体中含有很丰富的溶解态磷酸根，可以支持潜在微生物的起源与繁盛。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
