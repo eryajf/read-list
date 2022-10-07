@@ -833,28 +833,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Paypersafe - 只需点击几下即可出售和分享您的所有数字内容](https://xinquji.com/posts/180228?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:46 AM 
+- 👀 [Onboarding Love - 来自 Airbnb、Canva 等顶级 SaaS 的 100 多个用户入职流程](https://xinquji.com/posts/180256?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     只需点击几下即可出售和分享您的所有数字内容  
+     来自 Airbnb、Canva 等顶级 SaaS 的 100 多个用户入职流程  
     </details> 
 
-- 🥷 [Slides Builder for Notion - 始终保持最新的幻灯片，100% 在 Notion](https://xinquji.com/posts/180227?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:43 AM 
+- 🥷 [Blotion - 使用 Notion 生成极简博客](https://xinquji.com/posts/180255?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     始终保持最新的幻灯片，100% 在 Notion  
+     使用 Notion 生成极简博客  
     </details> 
 
-- 💼 [Do You Need A Meeting? - 不要在不必要的会议上浪费时间](https://xinquji.com/posts/180226?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:41 AM 
+- 💼 [Timesets - 使用类似番茄钟的计时器和秒表来管理您的时间](https://xinquji.com/posts/180254?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     不要在不必要的会议上浪费时间  
+     使用类似番茄钟的计时器和秒表来管理您的时间  
     </details> 
 
-- 🦅 [Dewey - 访问研究数据的更好方法](https://xinquji.com/posts/180225?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:41 AM 
+- 🦅 [Constructo - Dungeons Builder - 3D VTT，可让您构建地图并在其上进行游戏](https://xinquji.com/posts/180253?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     访问研究数据的更好方法  
+     3D VTT，可让您构建地图并在其上进行游戏  
     </details> 
 
-- 😺 [Bitcoin &amp;amp; Crypto Price Widget - 以当地货币关注您最喜欢的加密货币](https://xinquji.com/posts/180224?utm_campaign=xinquji-rss) | Fri Oct 07 2022 6:39 AM 
+- 😺 [NoCoder.Space - 当你可以 NoCode 时为什么要编码？](https://xinquji.com/posts/180252?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     以当地货币关注您最喜欢的加密货币  
+     当你可以 NoCode 时为什么要编码？  
     </details> 
 <!-- xinquji:END -->
