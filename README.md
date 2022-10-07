@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《守望先锋：归来》国际服停服大修 现已恢复](https://hot.cnbeta.com/articles/game/1324593.htm) | Fri Oct 07 2022 8:24 AM 
+- 🕯 [对眼科疾病的新认识：3D图谱揭示了人类视网膜细胞内的DNA组织](https://www.cnbeta.com/articles/science/1324601.htm) | Fri Oct 07 2022 9:19 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;美国国家眼科研究所（NEI）的科学家绘制了人类视网膜细胞染色质的组织图。这些纤维将30亿个核苷酸长的DNA分子包装成紧凑的结构，形成每个细胞核内的染色体。&lt;/strong&gt;由此产生的综合基因调控网络提供了对一般基因表达调控的见解，以及对罕见和常见眼科疾病中视网膜功能的见解。该研究将于今天（2022年10月7日）发表在《自然通讯》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [GeForce RTX 4080 16GB 3DMark基准测试成绩泄露 比RTX 3080快62%](https://www.cnbeta.com/articles/tech/1324599.htm) | Fri Oct 07 2022 9:03 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据称，3DMark中的NVIDIA GeForce RTX 4080 16 GB显卡基准测试成绩已经泄露，显示其性能比RTX 3080快了60%。这块NVIDIA GeForce RTX 4080 16 GB显卡是在Chiphell论坛上发现的，根据楼主提供的数据，它在3DMark Time Spy基准测试中获得了28929分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苏姿丰在专访期间披露了AMD成功转型和Zen CPU横空出世的秘辛](https://www.cnbeta.com/articles/tech/1324597.htm) | Fri Oct 07 2022 9:01 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;在接受挪威主权财富基金采访时，AMD CEO 苏姿丰博士（Dr. Lisa Su）分享了她对当前公司业绩、整个行业、以及员工生产力重要性的看法。&lt;/strong&gt;期间她还分享了在工作期间的一些有趣经历，比如自己很喜欢首次拿到新产品时的感觉。此外 Lisa Su 解释称，在 AMD 的工作很是吸引她，因为该公司一直处在技术开发的前沿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [一女子与微软公司和解了儿童识字工具的&quot;Windows&quot;品牌争端](https://www.cnbeta.com/articles/tech/1324595.htm) | Fri Oct 07 2022 8:57 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;像许多其他公司一样，微软对产品品牌和名称的纠纷并不陌生。无论是SkyDrive到OneDrive或PureView都不罚闹上法院的案例，此类案件的最新情节是这家科技巨头发现自己正在为其&amp;quot;Windows&amp;quot;品牌与一位制作教学工具的女子凯特·麦肯锡有可能再次闹上公堂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [《守望先锋：归来》国际服停服大修 现已恢复](https://hot.cnbeta.com/articles/game/1324593.htm) | Fri Oct 07 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天（10 月 7 日）暴雪在《守望先锋》官方推特账号上宣布，计划关闭《守望先锋：归来》服务器，以进行一些重大修复。目前这些修复已经分别在今天早上的6 点至 7 点，以及 9 点至中午 12 点分别完成。更新完成后，国际服玩家需要更新游戏客户端。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [ES7在德国命名EL7 蔚来：继续应诉奥迪](https://www.cnbeta.com/articles/tech/1324591.htm) | Fri Oct 07 2022 8:22 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;即将在明天凌晨举行的NIO Berlin 2022活动上，蔚来会宣布进入德国、荷兰、丹麦、瑞典市场并发布三款新车。新浪科技了解到，10月7日凌晨，蔚来已经在其欧洲各国官网更新了产品信息。网站显示，这三款车型分别是智能电动旗舰轿车ET7、智能电动中型轿跑ET5以及智能电动中大型SUV EL7。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [新款摩托罗拉Moto E32到货印度 搭载Helio G37 SoC和5000万像素摄像头](https://www.cnbeta.com/articles/tech/1324589.htm) | Fri Oct 07 2022 8:17 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;摩托罗拉6月份在印度推出了Moto E32s，今天该公司又在亚洲市场推出了Moto E32。但印度的Moto E32与5月在欧洲宣布的Moto E32不一样，后者配备的是紫光Unisoc T606 SoC，90Hz HD+ LCD，1600万像素三摄，以及5000毫安时电池，也就是说它实际上是Moto E22s的一个版本，只不过主摄像头不同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [PC市场疲软 AMD大幅下调2022 Q3财季营收预期](https://www.cnbeta.com/articles/tech/1324587.htm) | Fri Oct 07 2022 8:09 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在周四收盘时向美国证券交易委员会（SEC）提交的一份文件中，&lt;strong&gt;芯片制造商 AMD 披露 —— 在宏观经济不景气的情况下，其客户端计算事业部的营收，正面临显著低于预期的压力。&lt;/strong&gt;此前，该公司在 2022 Q2 财季的报告中预测可实现 55% 的年增长，但最新提交的预警数据，推测 2022 Q3 财季只能实现 29% 的年营收增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [英特尔酷睿i9-13900K猛禽湖CPU被超频至8.2GHz 且还有上升空间](https://www.cnbeta.com/articles/tech/1324585.htm) | Fri Oct 07 2022 8:08 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔的酷睿i9-13900K猛禽湖CPU被使用液氮超频到非常惊人的8.2GHz时钟频率。这一壮举是由传奇超频者Allen Golibersuch（又名SPLAVE）在几小时前的英特尔创造者挑战赛上实现的。在活动期间，英特尔邀请SPLAVE通过Livestream展示猛禽湖芯片的一些超频能力，让我们看到了8.2GHz的极端频率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
