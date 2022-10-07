@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NASA SpaceX Crew-5宇航员已进入轨道](https://www.cnbeta.com/articles/science/1324523.htm) | Fri Oct 07 2022 5:31 AM 
+- 🕯 [2022年国庆档总票房突破14亿：《万里归途》以绝对优势领跑](https://hot.cnbeta.com/articles/movie/1324545.htm) | Fri Oct 07 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在美东部时间周三中午从位于佛罗里达州的NASA肯尼迪航天中心的39A发射场向国际空间站发射后，被分配到NASA的SpaceX Crew-5任务的乘员已进入轨道。&lt;/strong&gt;这批国际船员将作为NASA跟SpaceX在轨道实验室上的第五次商业船员轮换任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;灯塔专业版数据显示，截至10月7日9时44分，&lt;strong&gt;2022国庆档（10月1日-10月7日）总票房（含预售）突破14亿。&lt;/strong&gt;其中&lt;strong&gt;《万里归途》以绝对优势领跑，&lt;/strong&gt;由饶晓志执导，秦海燕、史册、雷志龙、步京委编剧，郭帆、王红卫监制，张译、王俊凯、殷桃领衔主演，张子贤主演，是一部聚焦外交官撤侨的电影。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Sultim_t为《雷神之锤1》带来英伟达RTX GPU光追Mod](https://hot.cnbeta.com/articles/game/1324521.htm) | Fri Oct 07 2022 5:04 AM 
+- 💼 [腰椎间盘突出开始折磨年轻人了 一个动作自测](https://www.cnbeta.com/articles/tech/1324543.htm) | Fri Oct 07 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在英伟达为《Quake II》带来光线追踪支持之后，一些人也想知道该公司为何没有将这一功能带到初代作品上。&lt;strong&gt;好消息是，尽管官方没有给出回应，多产的 Mod 制作者 Sultim Tsyrendashiev，还是于近日填补了这一空白！&lt;/strong&gt;更棒的是，sultim_t 希望粉丝们能够再耐心等待一段时间，因为他正在积极筹备另一个备受期待的项目。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;25岁的年龄，75岁的腰。数据显示，中国腰椎病患者已经突破2亿，25～39岁的年轻人腰椎间盘突出检出率更是高达13.93%，居各年龄段的首位。久坐、高强度工作、工作时间越来越长，诸多因素叠加，让年轻人的腰越来越差。今日，一篇《&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/ttarticle/p/show?id=2309404821880954814589&quot; target=&quot;_blank&quot;&gt;腰椎间盘突出开始折磨年轻人了&lt;/a&gt;》的文章引发网友热议。&lt;strong&gt;11位受“腰突”折磨的年轻人接受了采访，他们的年龄基本都在30岁以内，最小的发病时只有16岁。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NASA詹姆斯-韦伯太空望远镜图像在X射线过滤器下发光](https://www.cnbeta.com/articles/science/1324519.htm) | Fri Oct 07 2022 4:53 AM 
+- 💂 [iPhone 14 Plus上市即破发 网友晒上手图：坐等双11继续降价](https://www.cnbeta.com/articles/tech/1324541.htm) | Fri Oct 07 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年1月，NASA期待已久的价值数十亿美元的詹姆斯-韦伯太空望远镜&lpar;JWST&rpar;到达了距离地球100万英里的引力安全空间。7月，它开始让人们叹为观止。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国庆假期最后一天，iPhone 14 Plus迎来首销。今天上午，首批预订的用户已经拿到机器，不少网友晒出了真机上手图。和预想的一样，在6999元的定价、配置上没有大的更新、外观没有变化等多重因素叠加下，iPhone 14 Plus上市即破发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [扎克伯格的元宇宙转型受挫 旗舰应用连员工都不想用](https://www.cnbeta.com/articles/tech/1324517.htm) | Fri Oct 07 2022 4:48 AM 
+- 🚀 [加密代币攻击事件曝光后 Binance紧急叫停了Smart Chian](https://www.cnbeta.com/articles/tech/1324539.htm) | Fri Oct 07 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;内部备忘录显示，Facebook母公司Meta的旗舰元宇宙应用“地平线世界”（Horizon Worlds）存在太多质量问题，甚至连它的开发团队都不怎么使用它。&lt;/strong&gt;“地平线世界”允许人们在虚拟世界中创建不显示腿部的虚拟化身，并进行互动，是Meta CEO马克·扎克伯格（Mark Zuckerberg）向元宇宙转型的一项关键举措。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在遭受了所谓的“潜在利用”之后，加密货币交易所 Binance 的 Smart Chain 于本周四被踩下了急刹车。&lt;/strong&gt;官方解释称，在检测到了不正常的活动之后，该平台暂停了 BSC 的推行。Coindesk 报道称，一名攻击者将 100 至 1.1 亿美元的加密代币，从 BSC 区块链中转移了出去。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [世界首例：三名脊柱裂婴儿在出生前接受了干细胞治疗](https://www.cnbeta.com/articles/science/1324515.htm) | Fri Oct 07 2022 4:08 AM 
+- 🎊 [《阿凡达4》第一幕已经完成 第三部拍摄已进入尾声](https://hot.cnbeta.com/articles/movie/1324537.htm) | Fri Oct 07 2022 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在一项世界首创的临床试验中，三名婴儿在接受了干细胞治疗脊柱裂后出生。&lt;/strong&gt;据悉，治疗包括在胎儿仍在子宫内发育时对其脊柱进行干细胞修补，一年后的早期结果显示，这样的做法是有前景的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在釜山国际电影节上，《阿凡达》系列制片人约翰·朗道透露，《阿凡达4》的第一幕内容已经拍摄完成。&lt;/strong&gt;约翰·朗道表示，电影制作团队已经完成了《阿凡达4》第一幕内容的拍摄，第一幕主要是为后续故事发展打下基调，后续内容我们还未开始拍摄。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
