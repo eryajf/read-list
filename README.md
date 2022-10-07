@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPad发明者托尼·法德尔称希望看到iPhone转为USB-C接口](https://www.cnbeta.com/articles/tech/1324395.htm) | Thu Oct 06 2022 11:26 PM 
+- 🕯 [开播14年 湖南卫视《天天向上》将改版升级](https://hot.cnbeta.com/articles/movie/1324453.htm) | Fri Oct 07 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPad的发明者托尼·法德尔认为，苹果应该将iPhone转移到USB-C，声称这是&amp;quot;正确的事情&amp;quot;。周二，欧盟通过了一项法律，要求智能手机、平板电脑、相机和其他消费电子产品的制造商使用USB-C为其设备充电。一位Twitter用户问法德尔，他是否认为欧盟的规定会阻碍苹果公司的未来项目？得到回应说：他不相信会这样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月6日晚间，湖南卫视《天天向上》官方微博预告，&lt;strong&gt;《天天向上》节目即日起将开启升级改版，继续传播主流价值、引领青年文化、探索科学新知、敬请期待。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《网络奇兵：重制版》很可能推迟到2023年3月发行](https://hot.cnbeta.com/articles/game/1324393.htm) | Thu Oct 06 2022 11:22 PM 
+- 💼 [跑分数据显示苹果A16 GPU相比其前辈A15的改进并不明显](https://www.cnbeta.com/articles/tech/1324451.htm) | Fri Oct 07 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《网络奇兵：重制版》很可能会推迟到2023年3月发行。该游戏的Steam官方产品页面中已经列出了新的发行日期。Prime Matter原本计划在2022年发行这款游戏。现在游戏的Steam官方产品页面已经更新了发行日期，注明了将于2023年3月推出。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;针对苹果A16仿生（A16 Bionic）图形处理器的最新性能测试显示，与前代产品相比，其改进并不明显。&lt;/strong&gt;A16 Bionic首次出现于iPhone 14 Pro和Pro Max机型，目前已经通过了几个基准性能测试，目的是试图研究新的芯片组比其前身和其他旗舰芯片如骁龙8+第一代要好多少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Valve表示Steam Deck现在无需预订即可购买](https://hot.cnbeta.com/articles/game/1324391.htm) | Thu Oct 06 2022 11:21 PM 
+- 💂 [《超级马力欧兄弟大电影》预告公布 明年4月7日北美上映](https://hot.cnbeta.com/articles/game/1324449.htm) | Fri Oct 07 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Valve已经宣布Steam Deck掌机已经无需等待可直接购买。用户现在可以直接从官方Steam Deck网站上购买，无需预订并等待购买序列排到自己。Valve在推特上也发布信息：“从今天开始，Steam Deck无需预订即可购买。”“现在就订购，我们马上就给你发货。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;环球影业今日正式公开了《超级马力欧兄弟大电影》先导预告，&lt;strong&gt;本片由任天堂和《卑鄙的我》制作公司ILLUMINATION联合制作，由Aaron Horvath和Michael Jelenic联合执导，将于2023年4月7日在北美上映，&lt;/strong&gt;2023年4月27日登陆日本影院，暂无上线流媒体计划。电影里高度还原了蘑菇王国，讲诉了酷霸王入侵企鹅王国等事件。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [瑞典解封“北溪”管道泄漏点附近海域](https://www.cnbeta.com/articles/tech/1324389.htm) | Thu Oct 06 2022 11:20 PM 
+- 🚀 [《极品飞车22》主机版支持4K/60FPS “热度”设定回归](https://hot.cnbeta.com/articles/game/1324447.htm) | Fri Oct 07 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;瑞典安全局6日宣布，该局对“北溪-1”和“北溪-2”天然气管道泄漏点的现场调查已完毕，瑞典附近的“北溪”管道泄漏点周围海域已被解封。瑞典安全局当天在一份新闻公报中说，该局负责对“北溪”管道泄漏事件进行调查，并由一名检察官领导。目前现场调查工作已经完成，对该海域的封锁已解除。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《极品飞车22：不羁》公布后，开发商Criterion Games接受了IGN独家采访，确认本作采用寒霜引擎，主机版支持4K/60FPS，开放世界（湖岸市），物理效果也支持高帧数运行，将为汽车的物理运动带来更多的控制和细微之处。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [法国政府宣布全国节能计划以应对能源危机](https://www.cnbeta.com/articles/tech/1324387.htm) | Thu Oct 06 2022 11:19 PM 
+- 🎊 [法拉第未来执行董事长辞职 据称遭到死亡威胁](https://www.cnbeta.com/articles/tech/1324445.htm) | Fri Oct 07 2022 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为应对日益严峻的能源危机，法国政府6日推出全国节能计划，号召全国积极行动起来，以避免冬季出现能源停供的危险。&lt;strong&gt;当天，法国总理博尔内率领多位部长在巴黎凡尔赛门展览中心宣布了这项节能计划，涉及公共行政部门、经济领域和家庭生活等多个方面。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月7日消息，美国当地时间周四，法拉第未来的执行董事长苏珊·斯文森&lpar;Susan Swenson&rpar;宣布辞职。此前该公司称，某些董事受到了死亡威胁和毫无根据的指控，这加速了该公司领导层的过渡计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
