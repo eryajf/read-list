@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ResizeObserver - 监视 DOM 大小的变化](https://juejin.cn/post/7151631878628311048) | Fri Oct 07 2022 5:04 AM 
+- 🤗 [详解 TS 中的类型推断与放宽](https://juejin.cn/post/7151647959938957343) | Fri Oct 07 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第10天，点击查看活动详情 ResizeObserver 用于监听元素的大小尺寸变化，常见用于监听自适应大小的元素变化引起的宽高变 
+    我们知道在编码时即使不标注变量类型，TypeScript 编译器也能推断出变量类型，那 TypeScript 编译器是怎么进行类型推断，在类型推断时又是如何判断兼容性的呢？此文，正好为你解开这个疑惑。 
     </details> 
 
-- 🎡 [一文吃透 Kotlin 中眼花缭乱的函数家族...](https://juejin.cn/post/7151626949965086734) | Fri Oct 07 2022 4:53 AM 
+- 🎡 [新研究！AI扫描视网膜即可预测心脏病；康奈尔大学『智能系统机器学习』课程；MLOps简化平台；公益活动报名小程序&lpar;开源&rpar;；前沿论文 | ShowMeAI资讯日报](https://juejin.cn/post/7151645329862393864) | Fri Oct 07 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-    料想 Kotlin 开发者对于其庞大繁杂的函数家族必深有感触：包括但不限于简化函数、lambda 表达式、匿名函数、高阶函数、扩展函数、内联函数、闭包、顶层函数、局部函数、运算符重载函数等。 细看这些 
+    MLOps简化平台、基于Transformer的检测算法工具包、公益培训报名小程序、开源目标检测/实例分割工具、大规模多语言代码生成模型、图神经网络&lpar;GNN&rpar;系统资源清单、前沿论文… 
     </details> 
 
-- 🕯 [Docker | 安装](https://juejin.cn/post/7151627168949207053) | Fri Oct 07 2022 4:47 AM 
+- 🕯 [源码解析Seata AT模式中分支事务的提交或回滚是如何被触发的](https://juejin.cn/post/7151641831724285960) | Fri Oct 07 2022 5:43 AM 
     <details><summary>展开描述 ...</summary> 
-    我是甜点cc，本文记录 Docker 系列的安装，讲解在centos 7 环境安装docker环境，并简单运行一个hello world，以及安装中的问题解决。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第10天，点击查看活动详情 前言 在之前的博客中，已经介绍过了TM在seata AT模式中的处理流程、TC在seata分布式事务中 
     </details> 
 
-- 🚀 [「Python」sklearn第一弹-标准化和非线性转化](https://juejin.cn/post/7151623631020228638) | Fri Oct 07 2022 4:37 AM 
+- 🚀 [【微信小程序】三分钟学会小程序的条件渲染](https://juejin.cn/post/7151617388209766430) | Fri Oct 07 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一 起开启掘金创作之路。 标准化 Z-score 这种方法基于原始数据的均值mean和标准差standard deviation进行数据的标准化。 将特征A的原始值x使用 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 这篇文章是三分钟学会小程序的条件渲染教程，所谓的条件渲染就是判断是否需要把代码渲染到展示页面上。使用以下 
     </details> 
 
-- 💪 [浏览器打印最佳实践](https://juejin.cn/post/7151622002988548103) | Fri Oct 07 2022 4:28 AM 
+- 💪 [Pinia的基本使用](https://juejin.cn/post/7151615567760195614) | Fri Oct 07 2022 4:03 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是云牧，这篇文章要讲的是关于浏览器里打印的一些实践方案，针对不同场景的不同的解决策略以及优缺点。 
+    官网：Installation | Pinia &lpar;vuejs.org&rpar; 安装 基本使用 在 main.js 中引入 pinia 在 src 文件夹下创建 counter 文件 在组件中使用 直接从 c 
     </details> 
 <!-- juejin:END -->
 ### 少数派
