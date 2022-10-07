@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用Flutter，历时三个月，我写了一个桌面版本的象棋打谱软件，象棋助手](https://juejin.cn/post/7151757666337947656) | Fri Oct 07 2022 1:13 PM 
+- 🤗 [六六力扣刷题哈希表之赎金信](https://juejin.cn/post/7151778435063349262) | Fri Oct 07 2022 2:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两天晒网，刷几天，然 
+    </details> 
+
+- 🎡 [restful 接口设计规范](https://juejin.cn/post/7151768493279412232) | Fri Oct 07 2022 1:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 restful 接口设计规范 1.URL中不能有动词，只能是名词 说明: restful风格将应该遵循统 
+    </details> 
+
+- 🕯 [动态规划之最长回文子串](https://juejin.cn/post/7151763737207619592) | Fri Oct 07 2022 1:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    “回文串”是一个正着读和反着读都是一样的字符串，比如“level”或者“noon”等等的字符串就是回文串。 
+    </details> 
+
+- 🚀 [使用Flutter，历时三个月，我写了一个桌面版本的象棋打谱软件，象棋助手](https://juejin.cn/post/7151757666337947656) | Fri Oct 07 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
     简介 象棋助手是一个跨平台的象棋打谱软件，支持在Windows、macOS以及Linux操作系统上面使用。目前该项目已通过官网对外发布，可通过官网下载使用。 目前该软件已支持大部分象棋打谱功能，未支持 
     </details> 
 
-- 🎡 [Winform控件优化之自定义控件的本质【从圆角控件看自定义的本质，Region区域无法反锯齿的问题】](https://juejin.cn/post/7151756435456540703) | Fri Oct 07 2022 1:13 PM 
+- 💪 [Winform控件优化之自定义控件的本质【从圆角控件看自定义的本质，Region区域无法反锯齿的问题】](https://juejin.cn/post/7151756435456540703) | Fri Oct 07 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
     自定义控件的本质只有两点：重绘控件Region区域&lpar;圆角、多边形、图片等&rpar;，这是整个控件的真实范围；重绘图形，在原有Region范围内，重绘不同的图形&lpar;圆角、多边形、图片等&rpar;作为背景...... 
-    </details> 
-
-- 🕯 [深入理解New操作符](https://juejin.cn/post/7151754786176499742) | Fri Oct 07 2022 1:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    当我们对函数进行实例化时，需要用new操作符来实现。那么，对于它的底层实现原理你是否清楚呢？本文就跟大家分享下它的原理并用一个函数来模拟实现它，欢迎各位感兴趣的开发者阅读本文。 
-    </details> 
-
-- 🚀 [第3讲：MySQL数据库中常见的几种表字段数据类型](https://juejin.cn/post/7151753966324285447) | Fri Oct 07 2022 12:59 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 MySQL数据库中常见的几种表字段数据类型 在MySQL数据库中，数据类型有很多种，主要分为三大类：数值 
-    </details> 
-
-- 💪 [Swift 中类型安全的 Assets](https://juejin.cn/post/7151753366450733063) | Fri Oct 07 2022 12:56 PM 
-    <details><summary>展开描述 ...</summary> 
-    编码时，当我们需要引用颜色、字体、图片等资源文件时，往往都是硬编码的方式，比如加载图片： UIImage&lpar;named: &quot;logo&quot;&rpar;，显然这种字符串的硬编码不够优雅。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
