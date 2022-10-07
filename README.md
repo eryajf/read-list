@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Obscurity - 带有“模糊”文字读数的定制表盘](https://xinquji.com/posts/180257?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:34 AM 
+- 👀 [小飞机网盘 - 下载不限速、一键转存无上限、无损音视频在线播放](https://xinquji.com/posts/179835?utm_campaign=xinquji-rss) | Sat Oct 08 2022 8:51 AM 
+    <details><summary>展开描述 ...</summary> 
+     下载不限速、一键转存无上限、无损音视频在线播放  
+    </details> 
+
+- 🥷 [遇见夏天 - 来自陌生人的陪伴 - 匿名匹配的聊天 App。希望通过举报机制营造健康的环境，帮助你找到合拍的人](https://xinquji.com/posts/179798?utm_campaign=xinquji-rss) | Sat Oct 08 2022 8:50 AM 
+    <details><summary>展开描述 ...</summary> 
+     匿名匹配的聊天 App。希望通过举报机制营造健康的环境，帮助你找到合拍的人  
+    </details> 
+
+- 💼 [Obscurity - 带有“模糊”文字读数的定制表盘](https://xinquji.com/posts/180257?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
      带有“模糊”文字读数的定制表盘  
     </details> 
 
-- 🥷 [Onboarding Love - 来自 Airbnb、Canva 等顶级 SaaS 的 100 多个用户入职流程](https://xinquji.com/posts/180256?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:32 AM 
+- 🦅 [Onboarding Love - 来自 Airbnb、Canva 等顶级 SaaS 的 100 多个用户入职流程](https://xinquji.com/posts/180256?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
      来自 Airbnb、Canva 等顶级 SaaS 的 100 多个用户入职流程  
     </details> 
 
-- 💼 [Blotion - 使用 Notion 生成极简博客](https://xinquji.com/posts/180255?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:32 AM 
+- 😺 [Blotion - 使用 Notion 生成极简博客](https://xinquji.com/posts/180255?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
      使用 Notion 生成极简博客  
-    </details> 
-
-- 🦅 [Timesets - 使用类似番茄钟的计时器和秒表来管理您的时间](https://xinquji.com/posts/180254?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     使用类似番茄钟的计时器和秒表来管理您的时间  
-    </details> 
-
-- 😺 [Constructo - Dungeons Builder - 3D VTT，可让您构建地图并在其上进行游戏](https://xinquji.com/posts/180253?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     3D VTT，可让您构建地图并在其上进行游戏  
     </details> 
 <!-- xinquji:END -->
