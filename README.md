@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [这颗星真闪耀，快摘下来送给你老婆😁](https://juejin.cn/post/7151787893692825608) | Fri Oct 07 2022 3:11 PM 
+- 🤗 [【面试精讲】Java：Exception 和 Error 有什么区别？](https://juejin.cn/post/7151794044220375076) | Fri Oct 07 2022 3:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    世界上存在永远不会出错的程序吗？也许这只会出现在程序员的梦中。快来看博主如何理解经典面试问题：请对比 Exception 和 Error，另外，运行时异常与一般异常有什么区别？ 
+    </details> 
+
+- 🎡 [掘金网页端测试](https://juejin.cn/post/7151793986674360356) | Fri Oct 07 2022 3:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试 
+    </details> 
+
+- 🕯 [用 Jetpack Compose 写一个 BottomSheetDialog](https://juejin.cn/post/7151792921698631717) | Fri Oct 07 2022 3:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    BottomSheetDialog 是 Android Material 库中提供的一个弹窗类，其特点就是会从屏幕底部弹出，支持拖拽回弹效果，以及拖拽关闭弹窗，在 Android 应用开发中广泛应用  
+    </details> 
+
+- 🚀 [线程池常用的技巧](https://juejin.cn/post/7151792884579041317) | Fri Oct 07 2022 3:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 线程池动态拓容 创建线程池 动态拓展容量 触发方式，我们可以通过 apollo 配置或者通过延迟任务定期 
+    </details> 
+
+- 💪 [这颗星真闪耀，快摘下来送给你老婆😁](https://juejin.cn/post/7151787893692825608) | Fri Oct 07 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 前言 最近在小破站闲逛，看到了很多有意思的内容，也学到了很多有用的知识，刚好最近学到了一个非常炫酷、非常 
-    </details> 
-
-- 🎡 [JavaScript 字符串方法与属性（下）](https://juejin.cn/post/7151782522186121230) | Fri Oct 07 2022 2:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    String.prototype.indexOf&lpar;&rpar; indexOf方法用于确定一个字符串在另一个字符串中第一次出现的位置，返回结果是匹配开始的位置。如果返回-1，就表示不匹配。 indexOf方法还 
-    </details> 
-
-- 🕯 [再有人说synchronized是重量级锁，就把这篇文章扔给他看](https://juejin.cn/post/7151779113844391973) | Fri Oct 07 2022 2:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    synchronized作为Java程序员最常用同步工具，很多人却对它的用法和实现原理一知半解，以至于还有不少人认为synchronized是重量级锁，性能较差，尽量少用。 
-    </details> 
-
-- 🚀 [六六力扣刷题哈希表之赎金信](https://juejin.cn/post/7151778435063349262) | Fri Oct 07 2022 2:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两天晒网，刷几天，然 
-    </details> 
-
-- 💪 [【算法题解】 Day9 二叉搜索树](https://juejin.cn/post/7151777361996808205) | Fri Oct 07 2022 2:30 PM 
-    <details><summary>展开描述 ...</summary> 
-    今天的算法是 「二叉搜索树」 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
     </details> 
 <!-- juejin:END -->
 ### 少数派
