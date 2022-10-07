@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [CDPR预测开发《2077》续作需要350-500名人员](https://hot.cnbeta.com/articles/game/1324659.htm) | Fri Oct 07 2022 2:12 PM 
+- 🕯 [我国成功发射微厘空间北斗低轨导航增强系统S5/S6试验卫星](https://www.cnbeta.com/articles/tech/1324667.htm) | Fri Oct 07 2022 3:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;北京时间2022年10月7日21时10分，中国太原卫星发射中心在黄海海域使用长征十一号海射运载火箭，采用“一箭双星”方式，成功将微厘空间北斗低轨导航增强系统S5/S6试验卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [世卫警告：这4款咳嗽糖浆或与66名儿童死亡有关](https://www.cnbeta.com/articles/tech/1324665.htm) | Fri Oct 07 2022 2:59 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;世界卫生组织10月6日对4款咳嗽糖浆发布全球警告，这4款糖浆可能与冈比亚的儿童急性肾脏损伤和死亡病例有关。据英国广播公司（BBC）报道，世卫组织表示，由印度公司生产的四款咳嗽药“盐酸异丙嗪口服液”“Kofexmalin婴儿止咳糖浆”“Makoff婴儿止咳糖浆”“Magrip N感冒糖浆”可能与冈比亚发现的儿童急性肾损伤病例及66例相关死亡病例“存在潜在关联”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [递交招股书10个月后 创维电器IPO被终止](https://www.cnbeta.com/articles/tech/1324663.htm) | Fri Oct 07 2022 2:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;创维电器股份有限公司（简称：“创维电器”）日前在深交所创业板的IPO被终止。这距离其递交招股书，已相隔10个月时间。其中，3.64亿元用于年产80万台商用冷柜、多门冰箱及80万台干衣机、双子星洗衣机生产线扩建项目，1.14亿元用于研发中心建设项目，1亿元用于高效营销网络建设项目，2.4亿元用于补充流动资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [你的“电动爹”，这个国庆又又又趴窝了吗？](https://www.cnbeta.com/articles/tech/1324661.htm) | Fri Oct 07 2022 2:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;每个长假电动汽车都会准时上演的传统艺能，今年也没有缺席。今年国庆假期刚开始，一位“尊贵的特斯拉车主”就分享了他的返乡故事：从深圳开特斯拉回湖南永州老家，全程 500 公里，表显续航 435 公里。途中遇到大堵车，下不了高速，充不上电，车辆瞬间失去动力、只能滑行、屏幕强制关机，最终只能花 2000 元叫自费拖车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [CDPR预测开发《2077》续作需要350-500名人员](https://hot.cnbeta.com/articles/game/1324659.htm) | Fri Oct 07 2022 2:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在近期的投资人电话会议上，CDPR CFO Piotr Nielubowicz感觉开发《赛博朋克2077》续作（代号为Orion）需要350-500名开发者。他表示负责开发续作的北美工作室将包括波士顿和加拿大温哥华两个团队，该项目也会得到波兰开发人员的协助。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [EA曾开发一款带剧情的《植物大战僵尸》游戏](https://hot.cnbeta.com/articles/game/1324657.htm) | Fri Oct 07 2022 2:11 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据IGN报道，EA曾开发过一个很有野心的故事驱动的《植物大战僵尸》动作冒险游戏，代号为“热浴盆（Hot Tub）”。但在2016年底被取消，当时EA将开发资源转移到Visceral Games来开发《星战》游戏，然而这款《星战》游戏后来也被取消。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [美国佛州一女子加害亲姊妹：因其玩游戏时和男友互动过于亲密](https://www.cnbeta.com/articles/tech/1324655.htm) | Fri Oct 07 2022 1:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“由爱故生忧，由爱故生怖，若离于爱者，无忧亦无怖”。据媒体报道，9月26日，来自美国佛罗里达的21岁女子Fatiha Marzan被捕，原因是她加害了自己的亲妹妹。事情有些让人心酸，Marzan称，&lt;strong&gt;发现妹妹Sayma Marzan在玩Valorant（《无畏契约》）这款游戏时和她（指姐姐）异地恋5年的男友打情骂俏&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [SpaceX在31小时内的第三次猎鹰9号发射因&quot;微小的氦气泄漏&quot;而被中止](https://www.cnbeta.com/articles/science/1324653.htm) | Fri Oct 07 2022 1:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;SpaceX公司原本计划在超过31小时内实现三次猎鹰9号发射，在箭载计算机检测到埃隆·马斯克所说的&amp;quot;微小的氦气泄漏&amp;quot;后，火箭在升空前几秒钟被取消。按照马斯克的说法，SpaceX&amp;quot;不希望让客户的卫星承担任何风险&amp;quot;，因此该公司已经停止了10月6日的发射尝试，以检查火箭，分析从今晚的尝试中收集的数据，并确保一切正常。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Meta警告100万Facebook用户可能被安装了密码窃取应用](https://www.cnbeta.com/articles/tech/1324651.htm) | Fri Oct 07 2022 12:54 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Meta公司警告100万Facebook用户，他们的账户信息可能已经被来自苹果或Google商店的第三方应用程序泄露了。&lt;/strong&gt;在一份新的报告中，该公司的安全研究人员说，在过去的一年里，他们已经发现了400多个旨在劫持用户的Facebook账户凭证的诈骗应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
