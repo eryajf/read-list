@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [卖1.3万的RTX 4090下周首发 厂商提醒：要配1200W电源](https://www.cnbeta.com/articles/tech/1324647.htm) | Fri Oct 07 2022 12:47 PM 
+- 🕯 [美国佛州一女子加害亲姊妹：因其玩游戏时和男友互动过于亲密](https://www.cnbeta.com/articles/tech/1324655.htm) | Fri Oct 07 2022 1:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“由爱故生忧，由爱故生怖，若离于爱者，无忧亦无怖”。据媒体报道，9月26日，来自美国佛罗里达的21岁女子Fatiha Marzan被捕，原因是她加害了自己的亲妹妹。事情有些让人心酸，Marzan称，&lt;strong&gt;发现妹妹Sayma Marzan在玩Valorant（《无畏契约》）这款游戏时和她（指姐姐）异地恋5年的男友打情骂俏&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [SpaceX在31小时内的第三次猎鹰9号发射因&quot;微小的氦气泄漏&quot;而被中止](https://www.cnbeta.com/articles/science/1324653.htm) | Fri Oct 07 2022 1:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;SpaceX公司原本计划在超过31小时内实现三次猎鹰9号发射，在箭载计算机检测到埃隆·马斯克所说的&amp;quot;微小的氦气泄漏&amp;quot;后，火箭在升空前几秒钟被取消。按照马斯克的说法，SpaceX&amp;quot;不希望让客户的卫星承担任何风险&amp;quot;，因此该公司已经停止了10月6日的发射尝试，以检查火箭，分析从今晚的尝试中收集的数据，并确保一切正常。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Meta警告100万Facebook用户可能被安装了密码窃取应用](https://www.cnbeta.com/articles/tech/1324651.htm) | Fri Oct 07 2022 12:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;Meta公司警告100万Facebook用户，他们的账户信息可能已经被来自苹果或Google商店的第三方应用程序泄露了。&lt;/strong&gt;在一份新的报告中，该公司的安全研究人员说，在过去的一年里，他们已经发现了400多个旨在劫持用户的Facebook账户凭证的诈骗应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [&quot;持久的后果&quot;：2020年可能深刻损害了美国年轻人的社交发展](https://www.cnbeta.com/articles/tech/1324649.htm) | Fri Oct 07 2022 12:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;COVID-19大流行病的爆发，乔治-弗洛伊德的谋杀，以及有争议的美国总统选举，使2020年成为一个非常紧张的一年。根据最近的研究，这些危机可能影响了年轻成年人在人生关键时刻的社会发展。·虽然其他研究已经研究了压力源如何影响一生的社会发展，但这项研究强调了成年早期的意义，以及它如何可能受到外部事件的影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [卖1.3万的RTX 4090下周首发 厂商提醒：要配1200W电源](https://www.cnbeta.com/articles/tech/1324647.htm) | Fri Oct 07 2022 12:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;RTX 4090显卡将于10月15日在国内线下现货首发，起售价12999元。打算入手的朋友，除了准备好银子也要注意平台的电源是否满足要求。&lt;/strong&gt;尽管NVIDIA给FE公版的参考电源是额定850W即可，但非公版的情况就没这么绝对了。同德RTX 4090 GameRock OC建议用户配置额定1200W的电源，华硕、索泰等部分型号也需要1000W的电源。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [黑客从Binance的BNB链中窃取5.7亿美元的加密代币](https://www.cnbeta.com/articles/tech/1324645.htm) | Fri Oct 07 2022 12:45 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于加密货币来说，这无疑是艰难的一年，在周四晚上超过5亿美元的加密货币代币从加密货币巨头Binance被盗之后更是让这一现状雪上加霜。该漏洞严重影响了Binance Bridge，这是一个跨链桥，允许代币在Binance加密货币交易所运营的两个相关区块链之间转移，并统称为BNB Chain。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [CentOS Hyperscale SIG继续调整CentOS Stream以适应大规模部署](https://www.cnbeta.com/articles/tech/1324643.htm) | Fri Oct 07 2022 12:42 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在过去的两年里，CentOS Hyperscale小组一直致力于调整CentOS Stream，使其更适用于大规模的部署，如Twitter、Facebook/Meta和其他大型公司的部署。本周，这个特别兴趣小组发布了他们最新的季度报告，概述了他们的活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [自动驾驶比人靠谱12.5% Waymo整出了数学模型证明](https://www.cnbeta.com/articles/tech/1324641.htm) | Fri Oct 07 2022 12:39 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自动驾驶老前辈Waymo发话：我们的AI司机能够规避&lt;strong&gt;75%&lt;/strong&gt;的碰撞事故发生，减少&lt;strong&gt;93%&lt;/strong&gt;的严重受伤，统统高于理想状态下人类司机模型的62.5%和84%。等等，你发现问题没有？如此精确的&lt;strong&gt;定量描述自动驾驶安全性&lt;/strong&gt;，Waymo的依据是什么？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [分析师认为由于AMD的PC出货量下降 台积电可能会面临收入冲击](https://www.cnbeta.com/articles/tech/1324639.htm) | Fri Oct 07 2022 12:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在芯片设计商AMD昨天宣布其2022年第三财季的收入将比上一季度的指引有所下降后，台湾的一位分析师认为，这一宣布将使台湾半导体制造公司（TSMC）的收入预测变得棘手。台积电是世界上最大的合同芯片制造商，它与AMD的合作关系已经证明是后者能够定期向市场提供技术先进的产品的关键。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
