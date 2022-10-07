@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求大佬赐一个 Shell 脚本](https://www.v2ex.com/t/885043#reply0) | Fri Oct 07 2022 8:26 AM
-- 🤗 [请教 sql 数据表设计的问题](https://www.v2ex.com/t/885022#reply3) | Fri Oct 07 2022 7:09 AM
-- 🎭 [腾讯云轻量服务器蜂驰版测评及横向对比](https://www.v2ex.com/t/885021#reply4) | Fri Oct 07 2022 7:01 AM
-- 🥷 [迁移阿里云 CDN 到 Cloudflare](https://www.v2ex.com/t/885020#reply1) | Fri Oct 07 2022 6:59 AM
-- 🐵 [Linux 系统上如何设置让某一个用户创建的进程几乎完全不影响到系统上其它用户进程的调度？](https://www.v2ex.com/t/885004#reply12) | Fri Oct 07 2022 5:07 AM<!-- v2ex:END -->
+- 🥸 [火绒的自定义防护能报，但是防护无效。难道火绒不值得用？](https://www.v2ex.com/t/885056#reply0) | Fri Oct 07 2022 9:19 AM
+- 🤗 [求推荐几本程序员读的书](https://www.v2ex.com/t/885054#reply4) | Fri Oct 07 2022 9:01 AM
+- 🎭 [请教一个关于`数据权限问题`的方案设计](https://www.v2ex.com/t/885051#reply1) | Fri Oct 07 2022 8:45 AM
+- 🥷 [买了新电脑，可是 vscode 花屏了，求解](https://www.v2ex.com/t/885050#reply1) | Fri Oct 07 2022 8:45 AM
+- 🐵 [2022 年 10 月了，有好的咕咕机（支持 WebAPI 远程控制的打印机）替代品吗](https://www.v2ex.com/t/885046#reply2) | Fri Oct 07 2022 8:28 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
