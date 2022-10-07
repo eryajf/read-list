@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [六六力扣刷题哈希表之赎金信](https://juejin.cn/post/7151778435063349262) | Fri Oct 07 2022 2:33 PM 
+- 🤗 [这颗星真闪耀，快摘下来送给你老婆😁](https://juejin.cn/post/7151787893692825608) | Fri Oct 07 2022 3:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 前言 最近在小破站闲逛，看到了很多有意思的内容，也学到了很多有用的知识，刚好最近学到了一个非常炫酷、非常 
+    </details> 
+
+- 🎡 [JavaScript 字符串方法与属性（下）](https://juejin.cn/post/7151782522186121230) | Fri Oct 07 2022 2:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    String.prototype.indexOf&lpar;&rpar; indexOf方法用于确定一个字符串在另一个字符串中第一次出现的位置，返回结果是匹配开始的位置。如果返回-1，就表示不匹配。 indexOf方法还 
+    </details> 
+
+- 🕯 [再有人说synchronized是重量级锁，就把这篇文章扔给他看](https://juejin.cn/post/7151779113844391973) | Fri Oct 07 2022 2:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    synchronized作为Java程序员最常用同步工具，很多人却对它的用法和实现原理一知半解，以至于还有不少人认为synchronized是重量级锁，性能较差，尽量少用。 
+    </details> 
+
+- 🚀 [六六力扣刷题哈希表之赎金信](https://juejin.cn/post/7151778435063349262) | Fri Oct 07 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 前言 之前小六六一直觉得自己的算法比较菜，算是一个短板吧，以前刷题也还真是三天打鱼，两天晒网，刷几天，然 
     </details> 
 
-- 🎡 [restful 接口设计规范](https://juejin.cn/post/7151768493279412232) | Fri Oct 07 2022 1:54 PM 
+- 💪 [【算法题解】 Day9 二叉搜索树](https://juejin.cn/post/7151777361996808205) | Fri Oct 07 2022 2:30 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 restful 接口设计规范 1.URL中不能有动词，只能是名词 说明: restful风格将应该遵循统 
-    </details> 
-
-- 🕯 [动态规划之最长回文子串](https://juejin.cn/post/7151763737207619592) | Fri Oct 07 2022 1:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    “回文串”是一个正着读和反着读都是一样的字符串，比如“level”或者“noon”等等的字符串就是回文串。 
-    </details> 
-
-- 🚀 [使用Flutter，历时三个月，我写了一个桌面版本的象棋打谱软件，象棋助手](https://juejin.cn/post/7151757666337947656) | Fri Oct 07 2022 1:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    简介 象棋助手是一个跨平台的象棋打谱软件，支持在Windows、macOS以及Linux操作系统上面使用。目前该项目已通过官网对外发布，可通过官网下载使用。 目前该软件已支持大部分象棋打谱功能，未支持 
-    </details> 
-
-- 💪 [Winform控件优化之自定义控件的本质【从圆角控件看自定义的本质，Region区域无法反锯齿的问题】](https://juejin.cn/post/7151756435456540703) | Fri Oct 07 2022 1:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    自定义控件的本质只有两点：重绘控件Region区域&lpar;圆角、多边形、图片等&rpar;，这是整个控件的真实范围；重绘图形，在原有Region范围内，重绘不同的图形&lpar;圆角、多边形、图片等&rpar;作为背景...... 
+    今天的算法是 「二叉搜索树」 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
     </details> 
 <!-- juejin:END -->
 ### 少数派
