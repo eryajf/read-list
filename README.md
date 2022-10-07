@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [开播14年 湖南卫视《天天向上》将改版升级](https://hot.cnbeta.com/articles/movie/1324453.htm) | Fri Oct 07 2022 1:59 AM 
+- 🕯 [调查显示中国EV电池市场占有率正在迅速上升](https://www.cnbeta.com/articles/tech/1324513.htm) | Fri Oct 07 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月6日晚间，湖南卫视《天天向上》官方微博预告，&lt;strong&gt;《天天向上》节目即日起将开启升级改版，继续传播主流价值、引领青年文化、探索科学新知、敬请期待。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;市场研究公司SNE Research在10月6日表示，今年1月至8月，全球EV电池的使用量为287.6GWh，这比一年前增长了78.7%。CATL EV电池的使用量同比增长114.7%，达到102.2GWh，该公司的市场份额从29.6%上升到35.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [跑分数据显示苹果A16 GPU相比其前辈A15的改进并不明显](https://www.cnbeta.com/articles/tech/1324451.htm) | Fri Oct 07 2022 1:58 AM 
+- 💼 [不是C94？iPhone 14标配全新C91M快充数据线](https://www.cnbeta.com/articles/tech/1324511.htm) | Fri Oct 07 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;针对苹果A16仿生（A16 Bionic）图形处理器的最新性能测试显示，与前代产品相比，其改进并不明显。&lt;/strong&gt;A16 Bionic首次出现于iPhone 14 Pro和Pro Max机型，目前已经通过了几个基准性能测试，目的是试图研究新的芯片组比其前身和其他旗舰芯片如骁龙8+第一代要好多少。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着 iPhone 14 系列全面发货，2022 年已是 iPhone 手机标配 USB PD 充电功能的第 5 个年头。虽然充电器已被环保政策减配掉，但从 iPhone 11 Pro 开始，USB-C to Lightning 快充数据线就成为标配。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《超级马力欧兄弟大电影》预告公布 明年4月7日北美上映](https://hot.cnbeta.com/articles/game/1324449.htm) | Fri Oct 07 2022 1:53 AM 
+- 💂 [新开发的AI眼部扫描可提供中风和心脏病风险评分](https://www.cnbeta.com/articles/tech/1324509.htm) | Fri Oct 07 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;环球影业今日正式公开了《超级马力欧兄弟大电影》先导预告，&lt;strong&gt;本片由任天堂和《卑鄙的我》制作公司ILLUMINATION联合制作，由Aaron Horvath和Michael Jelenic联合执导，将于2023年4月7日在北美上映，&lt;/strong&gt;2023年4月27日登陆日本影院，暂无上线流媒体计划。电影里高度还原了蘑菇王国，讲诉了酷霸王入侵企鹅王国等事件。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;英国的一个研究小组开发了一个全自动的人工智能&lpar;AI&rpar;系统，它可以扫描视网膜图像以了解血管健康状况并帮助识别那些患有心脏病和中风的高危人群。&lt;/strong&gt;据悉，类风湿性关节炎和甲状腺机能亢进等疾病可以从眼睛中检测出来，最近的创新表明像阿尔茨海默病和帕金森氏症这样的神经退行性疾病可以通过视网膜扫描进行诊断。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《极品飞车22》主机版支持4K/60FPS “热度”设定回归](https://hot.cnbeta.com/articles/game/1324447.htm) | Fri Oct 07 2022 1:50 AM 
+- 🚀 [他在全世界偷偷安装摄像头 到底是偷窥狂还是艺术家？](https://www.cnbeta.com/articles/tech/1324507.htm) | Fri Oct 07 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《极品飞车22：不羁》公布后，开发商Criterion Games接受了IGN独家采访，确认本作采用寒霜引擎，主机版支持4K/60FPS，开放世界（湖岸市），物理效果也支持高帧数运行，将为汽车的物理运动带来更多的控制和细微之处。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你可能闯过红绿灯。也许当时正四下无人，车辆稀少，闯一次也没人在乎。&lt;strong&gt;但如果我说，其实你的一举一动都正被某个人关注，而且他还随时准备举报你呢？&lt;/strong&gt;2019 年的幻影节（ Mirage Festival ）上，就展出了这么一个让人些许不适的装置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [法拉第未来执行董事长辞职 据称遭到死亡威胁](https://www.cnbeta.com/articles/tech/1324445.htm) | Fri Oct 07 2022 1:49 AM 
+- 🎊 [因被奥迪起诉：蔚来ES7欧洲市场更名为EL7](https://www.cnbeta.com/articles/tech/1324505.htm) | Fri Oct 07 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月7日消息，美国当地时间周四，法拉第未来的执行董事长苏珊·斯文森&lpar;Susan Swenson&rpar;宣布辞职。此前该公司称，某些董事受到了死亡威胁和毫无根据的指控，这加速了该公司领导层的过渡计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国内造车新势力和新能源车企，都在积极出海并布局欧洲市场，作为国内造车新势力的先行者之一，蔚来汽车去年就进入了挪威市场，而今年又相继进入了德国、丹麦、荷兰等国家。近期，蔚来从9月21日到30日，将要开着ET7访问10个欧洲城市，拜访用户顾问团、合作伙伴、同事，了解各地牛屋和换电站建设进度，体验充电是否便利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
