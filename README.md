@@ -805,29 +805,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [浴中奇思：为什么洗澡的时候 会勃发奇思妙想](http://jandan.net/p/111444) | Fri Oct 07 2022 6:38 AM 
+- 🚀 [DeepMind的人工智能 AlphaTensor 找到了更快的矩阵乘法算法](http://jandan.net/p/111439) | Fri Oct 07 2022 11:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    虽然实际运算可以看出优势，但我们不知道为什么这个算法会比经典的更好 
+    </details> 
+
+- 🙉 [浴中奇思：为什么洗澡的时候 会勃发奇思妙想](http://jandan.net/p/111444) | Fri Oct 07 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
     对一项任务坚定不移的专注可能是创造力的敌人。 
     </details> 
 
-- 🙉 [最近两年，全球年轻人整体变得更加情绪化和神经质](http://jandan.net/p/111440) | Fri Oct 07 2022 4:10 AM 
+- 🎉 [最近两年，全球年轻人整体变得更加情绪化和神经质](http://jandan.net/p/111440) | Fri Oct 07 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
     原因似乎很显然 
     </details> 
 
-- 🎉 [今日好价 1007](http://jandan.net/p/111441) | Fri Oct 07 2022 3:39 AM 
+- 🐲 [今日好价 1007](http://jandan.net/p/111441) | Fri Oct 07 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：36 
     </details> 
 
-- 🐲 [简单说说 获得诺贝尔奖的 点击化学 是什么东西](http://jandan.net/p/111438) | Thu Oct 06 2022 9:06 AM 
+-  [简单说说 获得诺贝尔奖的 点击化学 是什么东西](http://jandan.net/p/111438) | Thu Oct 06 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
     媒体喜欢用乐高类做类比，但个人感觉更接近磁铁：允许一大堆反应物里，特定两类分子像磁铁一样精确结合在一起 
-    </details> 
-
--  [牙龈疾病与阿兹海默、糖尿病等疾病显著相关](http://jandan.net/p/111427) | Thu Oct 06 2022 8:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    牙龈疾病的最早阶段&lpar;牙龈炎&rpar;是可治疗和可逆的 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
