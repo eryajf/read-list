@@ -805,29 +805,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1007](http://jandan.net/p/111441) | Fri Oct 07 2022 3:39 AM 
+- 🚀 [最近两年，全球年轻人整体变得更加情绪化和神经质](http://jandan.net/p/111440) | Fri Oct 07 2022 4:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    原因似乎很显然 
+    </details> 
+
+- 🙉 [今日好价 1007](http://jandan.net/p/111441) | Fri Oct 07 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：36 
     </details> 
 
-- 🙉 [简单说说 获得诺贝尔奖的 点击化学 是什么东西](http://jandan.net/p/111438) | Thu Oct 06 2022 9:06 AM 
+- 🎉 [简单说说 获得诺贝尔奖的 点击化学 是什么东西](http://jandan.net/p/111438) | Thu Oct 06 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
     媒体喜欢用乐高类做类比，但个人感觉更接近磁铁：允许一大堆反应物里，特定两类分子像磁铁一样精确结合在一起 
     </details> 
 
-- 🎉 [牙龈疾病与阿兹海默、糖尿病等疾病显著相关](http://jandan.net/p/111427) | Thu Oct 06 2022 8:35 AM 
+- 🐲 [牙龈疾病与阿兹海默、糖尿病等疾病显著相关](http://jandan.net/p/111427) | Thu Oct 06 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
     牙龈疾病的最早阶段&lpar;牙龈炎&rpar;是可治疗和可逆的 
     </details> 
 
-- 🐲 [原来，月球可以在数小时内成型](http://jandan.net/p/111436) | Thu Oct 06 2022 4:59 AM 
+-  [原来，月球可以在数小时内成型](http://jandan.net/p/111436) | Thu Oct 06 2022 4:59 AM 
     <details><summary>展开描述 ...</summary> 
     我们最大的自然卫星由地球与未知古行星之间的暴力交媾孕育而出。科学家以希腊神话里的Titan神Theia命名古行星，Theia是Selene的母亲，而后者恰是月亮女神。 
-    </details> 
-
--  [今日好价 1006](http://jandan.net/p/111435) | Thu Oct 06 2022 3:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    新版 iOS app 已过审，可以微信登录吐槽了。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
