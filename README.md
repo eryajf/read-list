@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国佛州一女子加害亲姊妹：因其玩游戏时和男友互动过于亲密](https://www.cnbeta.com/articles/tech/1324655.htm) | Fri Oct 07 2022 1:14 PM 
+- 🕯 [CDPR预测开发《2077》续作需要350-500名人员](https://hot.cnbeta.com/articles/game/1324659.htm) | Fri Oct 07 2022 2:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在近期的投资人电话会议上，CDPR CFO Piotr Nielubowicz感觉开发《赛博朋克2077》续作（代号为Orion）需要350-500名开发者。他表示负责开发续作的北美工作室将包括波士顿和加拿大温哥华两个团队，该项目也会得到波兰开发人员的协助。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [EA曾开发一款带剧情的《植物大战僵尸》游戏](https://hot.cnbeta.com/articles/game/1324657.htm) | Fri Oct 07 2022 2:11 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据IGN报道，EA曾开发过一个很有野心的故事驱动的《植物大战僵尸》动作冒险游戏，代号为“热浴盆（Hot Tub）”。但在2016年底被取消，当时EA将开发资源转移到Visceral Games来开发《星战》游戏，然而这款《星战》游戏后来也被取消。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [美国佛州一女子加害亲姊妹：因其玩游戏时和男友互动过于亲密](https://www.cnbeta.com/articles/tech/1324655.htm) | Fri Oct 07 2022 1:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“由爱故生忧，由爱故生怖，若离于爱者，无忧亦无怖”。据媒体报道，9月26日，来自美国佛罗里达的21岁女子Fatiha Marzan被捕，原因是她加害了自己的亲妹妹。事情有些让人心酸，Marzan称，&lt;strong&gt;发现妹妹Sayma Marzan在玩Valorant（《无畏契约》）这款游戏时和她（指姐姐）异地恋5年的男友打情骂俏&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [SpaceX在31小时内的第三次猎鹰9号发射因&quot;微小的氦气泄漏&quot;而被中止](https://www.cnbeta.com/articles/science/1324653.htm) | Fri Oct 07 2022 1:12 PM 
+- 🚀 [SpaceX在31小时内的第三次猎鹰9号发射因&quot;微小的氦气泄漏&quot;而被中止](https://www.cnbeta.com/articles/science/1324653.htm) | Fri Oct 07 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;SpaceX公司原本计划在超过31小时内实现三次猎鹰9号发射，在箭载计算机检测到埃隆·马斯克所说的&amp;quot;微小的氦气泄漏&amp;quot;后，火箭在升空前几秒钟被取消。按照马斯克的说法，SpaceX&amp;quot;不希望让客户的卫星承担任何风险&amp;quot;，因此该公司已经停止了10月6日的发射尝试，以检查火箭，分析从今晚的尝试中收集的数据，并确保一切正常。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Meta警告100万Facebook用户可能被安装了密码窃取应用](https://www.cnbeta.com/articles/tech/1324651.htm) | Fri Oct 07 2022 12:54 PM 
+- 🎊 [Meta警告100万Facebook用户可能被安装了密码窃取应用](https://www.cnbeta.com/articles/tech/1324651.htm) | Fri Oct 07 2022 12:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Meta公司警告100万Facebook用户，他们的账户信息可能已经被来自苹果或Google商店的第三方应用程序泄露了。&lt;/strong&gt;在一份新的报告中，该公司的安全研究人员说，在过去的一年里，他们已经发现了400多个旨在劫持用户的Facebook账户凭证的诈骗应用程序。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [&quot;持久的后果&quot;：2020年可能深刻损害了美国年轻人的社交发展](https://www.cnbeta.com/articles/tech/1324649.htm) | Fri Oct 07 2022 12:51 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;COVID-19大流行病的爆发，乔治-弗洛伊德的谋杀，以及有争议的美国总统选举，使2020年成为一个非常紧张的一年。根据最近的研究，这些危机可能影响了年轻成年人在人生关键时刻的社会发展。·虽然其他研究已经研究了压力源如何影响一生的社会发展，但这项研究强调了成年早期的意义，以及它如何可能受到外部事件的影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [卖1.3万的RTX 4090下周首发 厂商提醒：要配1200W电源](https://www.cnbeta.com/articles/tech/1324647.htm) | Fri Oct 07 2022 12:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;RTX 4090显卡将于10月15日在国内线下现货首发，起售价12999元。打算入手的朋友，除了准备好银子也要注意平台的电源是否满足要求。&lt;/strong&gt;尽管NVIDIA给FE公版的参考电源是额定850W即可，但非公版的情况就没这么绝对了。同德RTX 4090 GameRock OC建议用户配置额定1200W的电源，华硕、索泰等部分型号也需要1000W的电源。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
