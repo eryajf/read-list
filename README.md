@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [重新认识CSS的尺寸体系，熟悉但是不多](https://juejin.cn/post/7151576254897422372) | Fri Oct 07 2022 1:29 AM 
+- 🤗 [Android性能优化 -- 图论在启动优化中的应用](https://juejin.cn/post/7151597415768784933) | Fri Oct 07 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情。今天重新认识了CSS的尺寸体系。 
+    基于拓扑排序算法完成Application依赖项任务排序，利用并发编程思想完成任务集中分发处理，完成启动优化 
     </details> 
 
-- 🎡 [iOS小技能：app信息查询（应用内调转到app store进行评论）](https://juejin.cn/post/7151575085353009182) | Fri Oct 07 2022 1:24 AM 
+- 🎡 [【Android】设计模式之单例模式](https://juejin.cn/post/7151584359110639653) | Fri Oct 07 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 前言 应用内调转到app store进行评论：itms-apps://itunes.apple.com/ 
+    设计模式，不仅面试官爱问，而且在做一些架构上的设计，或者一些库的封装上，也是必不可少的要素。那么今天我们来捋一捋最常见，也最容易理解的设计模式——单例模式。 
     </details> 
 
-- 🕯 [关于 SAP UI5 ODataModel.createEntry 返回的 context 对象](https://juejin.cn/post/7151572445005086751) | Fri Oct 07 2022 1:14 AM 
+- 🕯 [一段华为网络实验室实习经历](https://juejin.cn/post/7151576826807091207) | Fri Oct 07 2022 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 在返回的上下文中使用创建的 API 返回的 Promise 对象，以便在持久化或重置时获得通知。使用 i 
+    &gt;持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，[点击查看活动详情]&lpar;https://juejin.cn/post/7147654075599978532 &quot;https 
     </details> 
 
-- 🚀 [【RocketMq 系列】RocketMq 消息重试机制、死信队列](https://juejin.cn/post/7151571345199874084) | Fri Oct 07 2022 1:10 AM 
+- 🚀 [[官文翻译]Futter超快数据库Isar - 概念 - 增查改删](https://juejin.cn/post/7151556796996403213) | Fri Oct 07 2022 12:14 AM 
     <details><summary>展开描述 ...</summary> 
-    消息队列中的消息消费时并不能保证总是成功的，那失败的消息该怎么进行消息补偿呢？这就用到今天的主角消息重试和死信队列了。 
+    Futter超快数据库Isar - 概念 - 增查改删。 当你已经定义好集合后，学习一下如何操作它们！ 在做任何事之前，都必须打开一个 Isar 实例。每上实例需要有写权限的目录。 如果没有指定目录， 
     </details> 
 
-- 💪 [判断元素在亿级数据中是否存在-布隆过滤算法](https://juejin.cn/post/7151570516866760717) | Fri Oct 07 2022 1:06 AM 
+- 💪 [Go 为什么能火？归功于这 5 个方面](https://juejin.cn/post/7151538417673699359) | Thu Oct 06 2022 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第10天，点击查看活动详情 题目： 现在有一个非常庞大的数据，假设全是 int 类型。现在我给你一个数，你需要告诉我它是否存在其中 
+    大家好，我是煎鱼。在国外的播客节目 Go Time #100 中，Rob Pike 和 Robert... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
