@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求教个 PHP 的 substr 问题 ....](https://www.v2ex.com/t/884964#reply8) | Fri Oct 07 2022 1:11 AM
-- 🤗 [cloudflare 的 rules 撰写请教](https://www.v2ex.com/t/884949#reply6) | Thu Oct 06 2022 4:38 PM
-- 🎭 [大家有没有什么好的记工作笔记的方法](https://www.v2ex.com/t/884947#reply17) | Thu Oct 06 2022 4:02 PM
-- 🥷 [Windows 下有什么办法可以远程监控资源占用呢？](https://www.v2ex.com/t/884945#reply8) | Thu Oct 06 2022 3:47 PM
-- 🐵 [继续发问，爱站 站长之家这类各种数据查询站，如何实现的？](https://www.v2ex.com/t/884944#reply1) | Thu Oct 06 2022 3:45 PM<!-- v2ex:END -->
+- 🥸 [`ad hoc`到底是什么意思](https://www.v2ex.com/t/884985#reply4) | Fri Oct 07 2022 3:24 AM
+- 🤗 [安卓上有什么系统级别的类似 Adblock 的网络监控和拦截工具吗？](https://www.v2ex.com/t/884981#reply4) | Fri Oct 07 2022 3:06 AM
+- 🎭 [有没有比 docusaurus 好看的文档生成工具](https://www.v2ex.com/t/884977#reply5) | Fri Oct 07 2022 2:48 AM
+- 🥷 [请教 满减算法](https://www.v2ex.com/t/884974#reply17) | Fri Oct 07 2022 2:14 AM
+- 🐵 [求教个 PHP 的 substr 问题 ....](https://www.v2ex.com/t/884964#reply15) | Fri Oct 07 2022 1:11 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
