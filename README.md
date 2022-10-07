@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [我国成功发射微厘空间北斗低轨导航增强系统S5/S6试验卫星](https://www.cnbeta.com/articles/tech/1324667.htm) | Fri Oct 07 2022 3:17 PM 
+- 🕯 [网友给iPhone 14 Plus一个中评：拍照不如小米 总体来说挺糟糕](https://www.cnbeta.com/articles/tech/1324679.htm) | Fri Oct 07 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间2022年10月7日21时10分，中国太原卫星发射中心在黄海海域使用长征十一号海射运载火箭，采用“一箭双星”方式，成功将微厘空间北斗低轨导航增强系统S5/S6试验卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，iPhone 14 Plus于10月7日正式发售，起售价6999元。与iPhone 14 Pro Max的火爆相比，iPhone 14 Plus首销“略显冷清”，&lt;strong&gt;第三方渠道甚至破发，比官网价格便宜400元左右。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [世卫警告：这4款咳嗽糖浆或与66名儿童死亡有关](https://www.cnbeta.com/articles/tech/1324665.htm) | Fri Oct 07 2022 2:59 PM 
+- 💼 [雷蛇噬魂鲨极速版耳机发布：50mm驱动单元 499元起](https://www.cnbeta.com/articles/tech/1324677.htm) | Fri Oct 07 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;世界卫生组织10月6日对4款咳嗽糖浆发布全球警告，这4款糖浆可能与冈比亚的儿童急性肾脏损伤和死亡病例有关。据英国广播公司（BBC）报道，世卫组织表示，由印度公司生产的四款咳嗽药“盐酸异丙嗪口服液”“Kofexmalin婴儿止咳糖浆”“Makoff婴儿止咳糖浆”“Magrip N感冒糖浆”可能与冈比亚发现的儿童急性肾损伤病例及66例相关死亡病例“存在潜在关联”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324665.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月7日消息，雷蛇发布了噬魂鲨极速版PlayStation授权和雷蛇噬魂鲨X PlayStation授权耳机，售价分别为999元和499元。据了解，噬魂鲨极速版PlayStation授权采用了&lt;strong&gt;Razer HyperSpeed Wireless无线技术，可以带来更好的音画同步表现。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [递交招股书10个月后 创维电器IPO被终止](https://www.cnbeta.com/articles/tech/1324663.htm) | Fri Oct 07 2022 2:41 PM 
+- 💂 [车主呼吁增程车不要和纯电抢充电桩 你赞同吗？](https://www.cnbeta.com/articles/tech/1324675.htm) | Fri Oct 07 2022 3:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;创维电器股份有限公司（简称：“创维电器”）日前在深交所创业板的IPO被终止。这距离其递交招股书，已相隔10个月时间。其中，3.64亿元用于年产80万台商用冷柜、多门冰箱及80万台干衣机、双子星洗衣机生产线扩建项目，1.14亿元用于研发中心建设项目，1亿元用于高效营销网络建设项目，2.4亿元用于补充流动资金。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;每逢节假日，高速服务区的电动汽车充电桩都显得格外不够用，等着给车子充电的往往会排成长队。近日，有网友发博呼吁&lt;strong&gt;在这种场景下，增程车主能把充电桩让给出纯电车&lt;/strong&gt;。该网友表示：“服务区四个充电桩，其中三个被增程车占用，拜托以理想车主为代表的增程式车主们，&lt;strong&gt;节假日期间的高速服务区充电资源很稀缺，你们就别和纯电车主抢充电桩了，谢谢&lt;/strong&gt;。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [你的“电动爹”，这个国庆又又又趴窝了吗？](https://www.cnbeta.com/articles/tech/1324661.htm) | Fri Oct 07 2022 2:40 PM 
+- 🚀 [AirPods Pro 2两周使用心得：音质不再“白开水” 自适应通透太拉胯](https://www.cnbeta.com/articles/tech/1324673.htm) | Fri Oct 07 2022 3:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;每个长假电动汽车都会准时上演的传统艺能，今年也没有缺席。今年国庆假期刚开始，一位“尊贵的特斯拉车主”就分享了他的返乡故事：从深圳开特斯拉回湖南永州老家，全程 500 公里，表显续航 435 公里。途中遇到大堵车，下不了高速，充不上电，车辆瞬间失去动力、只能滑行、屏幕强制关机，最终只能花 2000 元叫自费拖车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天这篇文章笔者主要和大家分享下使用 AirPods Pro 2 经过2周后的心得，聊聊这款耳机的优缺点有哪些，以及它值不值得买。废话不多说，先聊聊这次重点升级的音质。“白开水”被很多人用来调侃AirPods的音质，但这一次AirPods Pro 2 的音质跟一代相比却有着很大的进步，尤其是在低频的部分更加沉稳和饱满，同时声场也更加开阔了，初听甚至让我有点惊讶——这还是AirPods吗？！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [CDPR预测开发《2077》续作需要350-500名人员](https://hot.cnbeta.com/articles/game/1324659.htm) | Fri Oct 07 2022 2:12 PM 
+- 🎊 [泰格豪雅推出Carrera系列保时捷RS 2.7限量腕表 5.47万起](https://www.cnbeta.com/articles/tech/1324671.htm) | Fri Oct 07 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在近期的投资人电话会议上，CDPR CFO Piotr Nielubowicz感觉开发《赛博朋克2077》续作（代号为Orion）需要350-500名开发者。他表示负责开发续作的北美工作室将包括波士顿和加拿大温哥华两个团队，该项目也会得到波兰开发人员的协助。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了纪念在1972年推出的保时捷911 Carrera RS 2.7车型，泰格豪雅（TAG Heuer）推出两款Carrera（卡莱拉）系列保时捷RS 2.7限量版腕表，分为蓝色和红色两种版本，&lt;strong&gt;全球限量分别为500枚和250枚，国内售价为5.47-17.46万元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
