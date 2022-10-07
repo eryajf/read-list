@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [287. 寻找重复数 : 简单原地哈希运用题](https://juejin.cn/post/7151681389149028366) | Fri Oct 07 2022 8:16 AM 
+- 🤗 [面试突击88：加入事务和嵌套事务有什么区别？](https://juejin.cn/post/7151693604132487182) | Fri Oct 07 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 题目描述 这是 LeetCode 上的 287. 寻找重复数 ，难度为 中等。 Tag : 「桶排序」、 
+    加入事务和嵌套事务是指在 Spring 事务传播机制中的加入事务（REQUIRED）和嵌套事务... 
     </details> 
 
-- 🎡 [LeetCode 695.岛屿的最大面积](https://juejin.cn/post/7151677960620081160) | Fri Oct 07 2022 8:04 AM 
+- 🎡 [Kafka源码分析1 - Producer初始化](https://juejin.cn/post/7151686121842278436) | Fri Oct 07 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情. 695.岛屿的最大面积 题目描述 给你一个大小为 m x n 的二进制矩阵 grid 。 岛屿 是由一 
+    Kafka源码分析1 - Producer初始化 本文针对kafka3.3版本，对Producer初始化做了简要说明，解释了常用的参数和核心的组件 
     </details> 
 
-- 🕯 [LeetCode 419.甲板上的战舰](https://juejin.cn/post/7151675930216235044) | Fri Oct 07 2022 7:55 AM 
+- 🕯 [Dubbo3 源码系列之启动篇--服务导出](https://juejin.cn/post/7151679972229414919) | Fri Oct 07 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情. LeetCode 419.甲板上的战舰 题目描述 给你一个大小为 m x n 的矩阵 board 表示 
+    在阅读开始之前希望读者和我一样带着一个问题去阅读，Dubbo3新增了应用级的服务注册的，那么Dubbo是怎么在原来的接口级别的基础上支持的应用级注册呢？ 
     </details> 
 
-- 🚀 [【云原生】Azkaban on k8s 讲解与实战操作](https://juejin.cn/post/7151673929470312456) | Fri Oct 07 2022 7:48 AM 
+- 🚀 [写一个ThinkPHP SwaggerV3 扩展包](https://juejin.cn/post/7151677271584014366) | Fri Oct 07 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-    大数据平台技术框架支持的开发语言多种多样，开发人员的背景差异也很大，这就产生出很多不同类型的程序（任务）运行在大数据平台之上，如：MapReduce、Hive、Pig、Spark、Java、Shell 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 目录 源码：https://github.com/liaoshengping/think-swagger 安装： 创建包 🌰 我在tp的根目录下创 
     </details> 
 
-- 💪 [FreeRTOS记录（九、一个裸机工程转FreeRTOS的实例）](https://juejin.cn/post/7151634707577307149) | Fri Oct 07 2022 5:18 AM 
+- 💪 [聊聊vue3-nextTick](https://juejin.cn/post/7151676194922954789) | Fri Oct 07 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 对于裸机向FreeRTOS的转变，简单可以用下图表示： 我们前面的文章介绍过的FreeRTOS的任务原理 
+    一直在使用 `vue` 框架进行开发工作，心血来潮翻了翻源码，看到了 `nextTick` 的实现过程，借助本文记录下个人的理解。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
