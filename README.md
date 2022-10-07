@@ -383,19 +383,19 @@
     本篇讲述了在实战项目中，引入 MVP 架构对业务代码进行重构的心路历程。从信心满满到逐渐失落，最后。。。 
     </details> 
 
-- 🕯 [【面试精讲】Java：Exception 和 Error 有什么区别？](https://juejin.cn/post/7151794044220375076) | Fri Oct 07 2022 3:34 PM 
+- 🕯 [在Tomcat中启用虚拟线程特性](https://juejin.cn/post/7151801112595529759) | Fri Oct 07 2022 4:02 PM 
     <details><summary>展开描述 ...</summary> 
-    世界上存在永远不会出错的程序吗？也许这只会出现在程序员的梦中。快来看博主如何理解经典面试问题：请对比 Exception 和 Error，另外，运行时异常与一般异常有什么区别？ 
+    前提 趁着国庆前后阅读了虚拟线程相关的源码，写了一篇《虚拟线程 - VirtualThread源码透视》，里面介绍了虚拟线程的实现原理和使用示例。需要准备做一下前期准备： 安装OpenJDK-19或者 
     </details> 
 
-- 🚀 [掘金网页端测试](https://juejin.cn/post/7151793986674360356) | Fri Oct 07 2022 3:34 PM 
+- 🚀 [10分钟学会github工作流程](https://juejin.cn/post/7151800431297953805) | Fri Oct 07 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
-    网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试 
+    一.引言 Github是日常开发中绕不开的问题，我们日常使用github进行多人项目开发是否标准？是否还在一顿梭哈git pull,git push和git merge?今天我将完整的讲解一套标准的g 
     </details> 
 
-- 💪 [用 Jetpack Compose 写一个 BottomSheetDialog](https://juejin.cn/post/7151792921698631717) | Fri Oct 07 2022 3:30 PM 
+- 💪 [[教你做小游戏] 用JS实现平均每步仅占10bit位的象棋历史记录保存方案（decode篇）](https://juejin.cn/post/7151799385087557646) | Fri Oct 07 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-    BottomSheetDialog 是 Android Material 库中提供的一个弹窗类，其特点就是会从屏幕底部弹出，支持拖拽回弹效果，以及拖拽关闭弹窗，在 Android 应用开发中广泛应用  
+    之前讲到了我设计的方案：每一步操作需要4+1+2=7至4+1+4+5=14个二进制位。今天开发实现了象棋历史记录的保存方案，尽可能降低了空间的占用。基于该方案可以实现悔棋操作。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
