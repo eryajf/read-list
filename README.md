@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [预期中Google的可折叠Pixel手机何时出现？分析师认为是明年1季度](https://www.cnbeta.com/articles/tech/1324573.htm) | Fri Oct 07 2022 7:28 AM 
+- 🕯 [《守望先锋：归来》国际服停服大修 现已恢复](https://hot.cnbeta.com/articles/game/1324593.htm) | Fri Oct 07 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google昨天宣布了几款新设备，包括Pixel 7和7 Pro，以及其首款智能手表（现在已经开始预购）。它还向我们展示了Pixel平板电脑开发中的最新信息并承诺它将在明年推出。用户还期待听到Google发布一些关于其有史以来第一款可折叠手机的消息，即所谓的&amp;quot;Pixel Fold&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天（10 月 7 日）暴雪在《守望先锋》官方推特账号上宣布，计划关闭《守望先锋：归来》服务器，以进行一些重大修复。目前这些修复已经分别在今天早上的6 点至 7 点，以及 9 点至中午 12 点分别完成。更新完成后，国际服玩家需要更新游戏客户端。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [谷歌Pixel 7系新机依然599美元起售 或挖走三星苹果更多潜在客户](https://www.cnbeta.com/articles/tech/1324571.htm) | Fri Oct 07 2022 7:26 AM 
+- 💼 [ES7在德国命名EL7 蔚来：继续应诉奥迪](https://www.cnbeta.com/articles/tech/1324591.htm) | Fri Oct 07 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在周四的 Made by Google 活动期间，谷歌正式推出了 Pixel 7 系旗舰智能机。&lt;strong&gt;与 799 美元的苹果 iPhone 14、以及 800 美元的三星 Galaxy S22 等竞品相比，维持 599 美元起步价的 Pixel 7 似乎更具吸引力。&lt;/strong&gt;尽管定价与去年的 Pixel 6 相同，但在经济大环境不景气和通胀等压力下，消费者的购机预算也可能降级。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324571.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;即将在明天凌晨举行的NIO Berlin 2022活动上，蔚来会宣布进入德国、荷兰、丹麦、瑞典市场并发布三款新车。新浪科技了解到，10月7日凌晨，蔚来已经在其欧洲各国官网更新了产品信息。网站显示，这三款车型分别是智能电动旗舰轿车ET7、智能电动中型轿跑ET5以及智能电动中大型SUV EL7。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Windows Server Insider Preview构建版本25217的ISO镜像现在可供下载](https://www.cnbeta.com/articles/tech/1324569.htm) | Fri Oct 07 2022 7:22 AM 
+- 💂 [新款摩托罗拉Moto E32到货印度 搭载Helio G37 SoC和5000万像素摄像头](https://www.cnbeta.com/articles/tech/1324589.htm) | Fri Oct 07 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;几个小时前，微软向Windows 11开发频道推出了build 25217，其中包括任务栏和小工具的修复，更新的微软商店体验，增强的Teams聊天体验，以及搜索的隐藏用户体验变化。像往常一样，该公司也为Windows Server Insider Preview发布了相同的构建版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324569.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;摩托罗拉6月份在印度推出了Moto E32s，今天该公司又在亚洲市场推出了Moto E32。但印度的Moto E32与5月在欧洲宣布的Moto E32不一样，后者配备的是紫光Unisoc T606 SoC，90Hz HD+ LCD，1600万像素三摄，以及5000毫安时电池，也就是说它实际上是Moto E22s的一个版本，只不过主摄像头不同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《极品飞车22：不羁》将持续更新 说唱歌手主持新模式](https://hot.cnbeta.com/articles/game/1324567.htm) | Fri Oct 07 2022 7:17 AM 
+- 🚀 [PC市场疲软 AMD大幅下调2022 Q3财季营收预期](https://www.cnbeta.com/articles/tech/1324587.htm) | Fri Oct 07 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;EA新作《极品飞车22：不羁》将于12月发售，并于昨晚公布了首支预告片。虽然其艺术风格将会走动漫风格路线，但竞速的紧张感依然未变。但其多人游戏效果如何?在接受IGN采访时，本作创意总监Kieran Crimmins表示会做到无缝效果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324567.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在周四收盘时向美国证券交易委员会（SEC）提交的一份文件中，&lt;strong&gt;芯片制造商 AMD 披露 —— 在宏观经济不景气的情况下，其客户端计算事业部的营收，正面临显著低于预期的压力。&lt;/strong&gt;此前，该公司在 2022 Q2 财季的报告中预测可实现 55% 的年增长，但最新提交的预警数据，推测 2022 Q3 财季只能实现 29% 的年营收增长。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [E-Ink和夏普合作开发用于下一代电子纸的氧化物背板](https://www.cnbeta.com/articles/tech/1324565.htm) | Fri Oct 07 2022 7:15 AM 
+- 🎊 [英特尔酷睿i9-13900K猛禽湖CPU被超频至8.2GHz 且还有上升空间](https://www.cnbeta.com/articles/tech/1324585.htm) | Fri Oct 07 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;E Ink技术供应商元太控股和夏普显示技术公司（SDTC）宣布彼此合作，并采用SDTC的氧化铟镓锌（IGZO*2）背板用于电子阅读器和电子笔记产品的电子纸模块。E Ink已经开发使用氧化物薄膜晶体管（TFT）的电泳技术超过10年，并将在使用氧化物TFT的基础上扩大其电子纸产品系列。夏普在2012年是第一个大规模生产用于显示器的氧化物TFT的公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔的酷睿i9-13900K猛禽湖CPU被使用液氮超频到非常惊人的8.2GHz时钟频率。这一壮举是由传奇超频者Allen Golibersuch（又名SPLAVE）在几小时前的英特尔创造者挑战赛上实现的。在活动期间，英特尔邀请SPLAVE通过Livestream展示猛禽湖芯片的一些超频能力，让我们看到了8.2GHz的极端频率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
