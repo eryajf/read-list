@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [调查显示中国EV电池市场占有率正在迅速上升](https://www.cnbeta.com/articles/tech/1324513.htm) | Fri Oct 07 2022 3:45 AM 
+- 🕯 [NASA SpaceX Crew-5宇航员已进入轨道](https://www.cnbeta.com/articles/science/1324523.htm) | Fri Oct 07 2022 5:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;市场研究公司SNE Research在10月6日表示，今年1月至8月，全球EV电池的使用量为287.6GWh，这比一年前增长了78.7%。CATL EV电池的使用量同比增长114.7%，达到102.2GWh，该公司的市场份额从29.6%上升到35.5%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在美东部时间周三中午从位于佛罗里达州的NASA肯尼迪航天中心的39A发射场向国际空间站发射后，被分配到NASA的SpaceX Crew-5任务的乘员已进入轨道。&lt;/strong&gt;这批国际船员将作为NASA跟SpaceX在轨道实验室上的第五次商业船员轮换任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [不是C94？iPhone 14标配全新C91M快充数据线](https://www.cnbeta.com/articles/tech/1324511.htm) | Fri Oct 07 2022 3:40 AM 
+- 💼 [Sultim_t为《雷神之锤1》带来英伟达RTX GPU光追Mod](https://hot.cnbeta.com/articles/game/1324521.htm) | Fri Oct 07 2022 5:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着 iPhone 14 系列全面发货，2022 年已是 iPhone 手机标配 USB PD 充电功能的第 5 个年头。虽然充电器已被环保政策减配掉，但从 iPhone 11 Pro 开始，USB-C to Lightning 快充数据线就成为标配。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在英伟达为《Quake II》带来光线追踪支持之后，一些人也想知道该公司为何没有将这一功能带到初代作品上。&lt;strong&gt;好消息是，尽管官方没有给出回应，多产的 Mod 制作者 Sultim Tsyrendashiev，还是于近日填补了这一空白！&lt;/strong&gt;更棒的是，sultim_t 希望粉丝们能够再耐心等待一段时间，因为他正在积极筹备另一个备受期待的项目。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新开发的AI眼部扫描可提供中风和心脏病风险评分](https://www.cnbeta.com/articles/tech/1324509.htm) | Fri Oct 07 2022 3:38 AM 
+- 💂 [NASA詹姆斯-韦伯太空望远镜图像在X射线过滤器下发光](https://www.cnbeta.com/articles/science/1324519.htm) | Fri Oct 07 2022 4:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;英国的一个研究小组开发了一个全自动的人工智能&lpar;AI&rpar;系统，它可以扫描视网膜图像以了解血管健康状况并帮助识别那些患有心脏病和中风的高危人群。&lt;/strong&gt;据悉，类风湿性关节炎和甲状腺机能亢进等疾病可以从眼睛中检测出来，最近的创新表明像阿尔茨海默病和帕金森氏症这样的神经退行性疾病可以通过视网膜扫描进行诊断。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年1月，NASA期待已久的价值数十亿美元的詹姆斯-韦伯太空望远镜&lpar;JWST&rpar;到达了距离地球100万英里的引力安全空间。7月，它开始让人们叹为观止。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [他在全世界偷偷安装摄像头 到底是偷窥狂还是艺术家？](https://www.cnbeta.com/articles/tech/1324507.htm) | Fri Oct 07 2022 3:34 AM 
+- 🚀 [扎克伯格的元宇宙转型受挫 旗舰应用连员工都不想用](https://www.cnbeta.com/articles/tech/1324517.htm) | Fri Oct 07 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你可能闯过红绿灯。也许当时正四下无人，车辆稀少，闯一次也没人在乎。&lt;strong&gt;但如果我说，其实你的一举一动都正被某个人关注，而且他还随时准备举报你呢？&lt;/strong&gt;2019 年的幻影节（ Mirage Festival ）上，就展出了这么一个让人些许不适的装置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;内部备忘录显示，Facebook母公司Meta的旗舰元宇宙应用“地平线世界”（Horizon Worlds）存在太多质量问题，甚至连它的开发团队都不怎么使用它。&lt;/strong&gt;“地平线世界”允许人们在虚拟世界中创建不显示腿部的虚拟化身，并进行互动，是Meta CEO马克·扎克伯格（Mark Zuckerberg）向元宇宙转型的一项关键举措。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [因被奥迪起诉：蔚来ES7欧洲市场更名为EL7](https://www.cnbeta.com/articles/tech/1324505.htm) | Fri Oct 07 2022 3:32 AM 
+- 🎊 [世界首例：三名脊柱裂婴儿在出生前接受了干细胞治疗](https://www.cnbeta.com/articles/science/1324515.htm) | Fri Oct 07 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国内造车新势力和新能源车企，都在积极出海并布局欧洲市场，作为国内造车新势力的先行者之一，蔚来汽车去年就进入了挪威市场，而今年又相继进入了德国、丹麦、荷兰等国家。近期，蔚来从9月21日到30日，将要开着ET7访问10个欧洲城市，拜访用户顾问团、合作伙伴、同事，了解各地牛屋和换电站建设进度，体验充电是否便利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在一项世界首创的临床试验中，三名婴儿在接受了干细胞治疗脊柱裂后出生。&lt;/strong&gt;据悉，治疗包括在胎儿仍在子宫内发育时对其脊柱进行干细胞修补，一年后的早期结果显示，这样的做法是有前景的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
