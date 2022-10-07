@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android性能优化 -- 图论在启动优化中的应用](https://juejin.cn/post/7151597415768784933) | Fri Oct 07 2022 2:50 AM 
+- 🤗 [ResizeObserver - 监视 DOM 大小的变化](https://juejin.cn/post/7151631878628311048) | Fri Oct 07 2022 5:04 AM 
     <details><summary>展开描述 ...</summary> 
-    基于拓扑排序算法完成Application依赖项任务排序，利用并发编程思想完成任务集中分发处理，完成启动优化 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第10天，点击查看活动详情 ResizeObserver 用于监听元素的大小尺寸变化，常见用于监听自适应大小的元素变化引起的宽高变 
     </details> 
 
-- 🎡 [【Android】设计模式之单例模式](https://juejin.cn/post/7151584359110639653) | Fri Oct 07 2022 2:00 AM 
+- 🎡 [一文吃透 Kotlin 中眼花缭乱的函数家族...](https://juejin.cn/post/7151626949965086734) | Fri Oct 07 2022 4:53 AM 
     <details><summary>展开描述 ...</summary> 
-    设计模式，不仅面试官爱问，而且在做一些架构上的设计，或者一些库的封装上，也是必不可少的要素。那么今天我们来捋一捋最常见，也最容易理解的设计模式——单例模式。 
+    料想 Kotlin 开发者对于其庞大繁杂的函数家族必深有感触：包括但不限于简化函数、lambda 表达式、匿名函数、高阶函数、扩展函数、内联函数、闭包、顶层函数、局部函数、运算符重载函数等。 细看这些 
     </details> 
 
-- 🕯 [一段华为网络实验室实习经历](https://juejin.cn/post/7151576826807091207) | Fri Oct 07 2022 1:36 AM 
+- 🕯 [Docker | 安装](https://juejin.cn/post/7151627168949207053) | Fri Oct 07 2022 4:47 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt;持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，[点击查看活动详情]&lpar;https://juejin.cn/post/7147654075599978532 &quot;https 
+    我是甜点cc，本文记录 Docker 系列的安装，讲解在centos 7 环境安装docker环境，并简单运行一个hello world，以及安装中的问题解决。 
     </details> 
 
-- 🚀 [[官文翻译]Futter超快数据库Isar - 概念 - 增查改删](https://juejin.cn/post/7151556796996403213) | Fri Oct 07 2022 12:14 AM 
+- 🚀 [「Python」sklearn第一弹-标准化和非线性转化](https://juejin.cn/post/7151623631020228638) | Fri Oct 07 2022 4:37 AM 
     <details><summary>展开描述 ...</summary> 
-    Futter超快数据库Isar - 概念 - 增查改删。 当你已经定义好集合后，学习一下如何操作它们！ 在做任何事之前，都必须打开一个 Isar 实例。每上实例需要有写权限的目录。 如果没有指定目录， 
+    本文已参与「新人创作礼」活动，一 起开启掘金创作之路。 标准化 Z-score 这种方法基于原始数据的均值mean和标准差standard deviation进行数据的标准化。 将特征A的原始值x使用 
     </details> 
 
-- 💪 [Go 为什么能火？归功于这 5 个方面](https://juejin.cn/post/7151538417673699359) | Thu Oct 06 2022 11:03 PM 
+- 💪 [浏览器打印最佳实践](https://juejin.cn/post/7151622002988548103) | Fri Oct 07 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是煎鱼。在国外的播客节目 Go Time #100 中，Rob Pike 和 Robert... 
+    大家好，我是云牧，这篇文章要讲的是关于浏览器里打印的一些实践方案，针对不同场景的不同的解决策略以及优缺点。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
