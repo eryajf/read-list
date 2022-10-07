@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [MVP 架构最终审判 —— MVP 解决了哪些痛点，又引入了哪些坑？（一）](https://juejin.cn/post/7151809622586687524) | Fri Oct 07 2022 4:35 PM 
+- 🤗 [🤣🤣电摇嘲讽还能这么玩？使用 Canvas 将视频转为像素风！](https://juejin.cn/post/7151879459249848351) | Fri Oct 07 2022 9:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    相信大家平时都有见过将一个视频转为像素风的操作，你知道它是怎么做的吗？本文手把手教大家通过 canvas 来将视频转化为伪像素风。 
+    </details> 
+
+- 🎡 [MVP 架构最终审判 —— MVP 解决了哪些痛点，又引入了哪些坑？（一）](https://juejin.cn/post/7151809622586687524) | Fri Oct 07 2022 4:35 PM 
     <details><summary>展开描述 ...</summary> 
     本篇讲述了在实战项目中，引入 MVP 架构对业务代码进行重构的心路历程。从信心满满到逐渐失落，最后。。。 
     </details> 
 
-- 🎡 [【面试精讲】Java：Exception 和 Error 有什么区别？](https://juejin.cn/post/7151794044220375076) | Fri Oct 07 2022 3:34 PM 
+- 🕯 [【面试精讲】Java：Exception 和 Error 有什么区别？](https://juejin.cn/post/7151794044220375076) | Fri Oct 07 2022 3:34 PM 
     <details><summary>展开描述 ...</summary> 
     世界上存在永远不会出错的程序吗？也许这只会出现在程序员的梦中。快来看博主如何理解经典面试问题：请对比 Exception 和 Error，另外，运行时异常与一般异常有什么区别？ 
     </details> 
 
-- 🕯 [掘金网页端测试](https://juejin.cn/post/7151793986674360356) | Fri Oct 07 2022 3:34 PM 
+- 🚀 [掘金网页端测试](https://juejin.cn/post/7151793986674360356) | Fri Oct 07 2022 3:34 PM 
     <details><summary>展开描述 ...</summary> 
     网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试网页端测试 
     </details> 
 
-- 🚀 [用 Jetpack Compose 写一个 BottomSheetDialog](https://juejin.cn/post/7151792921698631717) | Fri Oct 07 2022 3:30 PM 
+- 💪 [用 Jetpack Compose 写一个 BottomSheetDialog](https://juejin.cn/post/7151792921698631717) | Fri Oct 07 2022 3:30 PM 
     <details><summary>展开描述 ...</summary> 
     BottomSheetDialog 是 Android Material 库中提供的一个弹窗类，其特点就是会从屏幕底部弹出，支持拖拽回弹效果，以及拖拽关闭弹窗，在 Android 应用开发中广泛应用  
-    </details> 
-
-- 💪 [线程池常用的技巧](https://juejin.cn/post/7151792884579041317) | Fri Oct 07 2022 3:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 线程池动态拓容 创建线程池 动态拓展容量 触发方式，我们可以通过 apollo 配置或者通过延迟任务定期 
     </details> 
 <!-- juejin:END -->
 ### 少数派
