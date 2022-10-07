@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [2022年国庆档总票房突破14亿：《万里归途》以绝对优势领跑](https://hot.cnbeta.com/articles/movie/1324545.htm) | Fri Oct 07 2022 6:32 AM 
+- 🕯 [预期中Google的可折叠Pixel手机何时出现？分析师认为是明年1季度](https://www.cnbeta.com/articles/tech/1324573.htm) | Fri Oct 07 2022 7:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;灯塔专业版数据显示，截至10月7日9时44分，&lt;strong&gt;2022国庆档（10月1日-10月7日）总票房（含预售）突破14亿。&lt;/strong&gt;其中&lt;strong&gt;《万里归途》以绝对优势领跑，&lt;/strong&gt;由饶晓志执导，秦海燕、史册、雷志龙、步京委编剧，郭帆、王红卫监制，张译、王俊凯、殷桃领衔主演，张子贤主演，是一部聚焦外交官撤侨的电影。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google昨天宣布了几款新设备，包括Pixel 7和7 Pro，以及其首款智能手表（现在已经开始预购）。它还向我们展示了Pixel平板电脑开发中的最新信息并承诺它将在明年推出。用户还期待听到Google发布一些关于其有史以来第一款可折叠手机的消息，即所谓的&amp;quot;Pixel Fold&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324573.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [腰椎间盘突出开始折磨年轻人了 一个动作自测](https://www.cnbeta.com/articles/tech/1324543.htm) | Fri Oct 07 2022 6:30 AM 
+- 💼 [谷歌Pixel 7系新机依然599美元起售 或挖走三星苹果更多潜在客户](https://www.cnbeta.com/articles/tech/1324571.htm) | Fri Oct 07 2022 7:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;25岁的年龄，75岁的腰。数据显示，中国腰椎病患者已经突破2亿，25～39岁的年轻人腰椎间盘突出检出率更是高达13.93%，居各年龄段的首位。久坐、高强度工作、工作时间越来越长，诸多因素叠加，让年轻人的腰越来越差。今日，一篇《&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/ttarticle/p/show?id=2309404821880954814589&quot; target=&quot;_blank&quot;&gt;腰椎间盘突出开始折磨年轻人了&lt;/a&gt;》的文章引发网友热议。&lt;strong&gt;11位受“腰突”折磨的年轻人接受了采访，他们的年龄基本都在30岁以内，最小的发病时只有16岁。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在周四的 Made by Google 活动期间，谷歌正式推出了 Pixel 7 系旗舰智能机。&lt;strong&gt;与 799 美元的苹果 iPhone 14、以及 800 美元的三星 Galaxy S22 等竞品相比，维持 599 美元起步价的 Pixel 7 似乎更具吸引力。&lt;/strong&gt;尽管定价与去年的 Pixel 6 相同，但在经济大环境不景气和通胀等压力下，消费者的购机预算也可能降级。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324571.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14 Plus上市即破发 网友晒上手图：坐等双11继续降价](https://www.cnbeta.com/articles/tech/1324541.htm) | Fri Oct 07 2022 6:29 AM 
+- 💂 [Windows Server Insider Preview构建版本25217的ISO镜像现在可供下载](https://www.cnbeta.com/articles/tech/1324569.htm) | Fri Oct 07 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国庆假期最后一天，iPhone 14 Plus迎来首销。今天上午，首批预订的用户已经拿到机器，不少网友晒出了真机上手图。和预想的一样，在6999元的定价、配置上没有大的更新、外观没有变化等多重因素叠加下，iPhone 14 Plus上市即破发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;几个小时前，微软向Windows 11开发频道推出了build 25217，其中包括任务栏和小工具的修复，更新的微软商店体验，增强的Teams聊天体验，以及搜索的隐藏用户体验变化。像往常一样，该公司也为Windows Server Insider Preview发布了相同的构建版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324569.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [加密代币攻击事件曝光后 Binance紧急叫停了Smart Chian](https://www.cnbeta.com/articles/tech/1324539.htm) | Fri Oct 07 2022 6:18 AM 
+- 🚀 [《极品飞车22：不羁》将持续更新 说唱歌手主持新模式](https://hot.cnbeta.com/articles/game/1324567.htm) | Fri Oct 07 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在遭受了所谓的“潜在利用”之后，加密货币交易所 Binance 的 Smart Chain 于本周四被踩下了急刹车。&lt;/strong&gt;官方解释称，在检测到了不正常的活动之后，该平台暂停了 BSC 的推行。Coindesk 报道称，一名攻击者将 100 至 1.1 亿美元的加密代币，从 BSC 区块链中转移了出去。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;EA新作《极品飞车22：不羁》将于12月发售，并于昨晚公布了首支预告片。虽然其艺术风格将会走动漫风格路线，但竞速的紧张感依然未变。但其多人游戏效果如何?在接受IGN采访时，本作创意总监Kieran Crimmins表示会做到无缝效果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324567.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《阿凡达4》第一幕已经完成 第三部拍摄已进入尾声](https://hot.cnbeta.com/articles/movie/1324537.htm) | Fri Oct 07 2022 6:05 AM 
+- 🎊 [E-Ink和夏普合作开发用于下一代电子纸的氧化物背板](https://www.cnbeta.com/articles/tech/1324565.htm) | Fri Oct 07 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在釜山国际电影节上，《阿凡达》系列制片人约翰·朗道透露，《阿凡达4》的第一幕内容已经拍摄完成。&lt;/strong&gt;约翰·朗道表示，电影制作团队已经完成了《阿凡达4》第一幕内容的拍摄，第一幕主要是为后续故事发展打下基调，后续内容我们还未开始拍摄。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;E Ink技术供应商元太控股和夏普显示技术公司（SDTC）宣布彼此合作，并采用SDTC的氧化铟镓锌（IGZO*2）背板用于电子阅读器和电子笔记产品的电子纸模块。E Ink已经开发使用氧化物薄膜晶体管（TFT）的电泳技术超过10年，并将在使用氧化物TFT的基础上扩大其电子纸产品系列。夏普在2012年是第一个大规模生产用于显示器的氧化物TFT的公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
