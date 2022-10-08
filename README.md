@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [金立手机公司经营异常 未履行金额超13亿元](https://www.cnbeta.com/articles/tech/1324975.htm) | Sat Oct 08 2022 3:06 PM 
+- 🕯 [疑似OPPO Reno 9系列相机布局图曝光](https://www.cnbeta.com/articles/tech/1324983.htm) | Sat Oct 08 2022 7:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天，博主熊猫很禿然绘制了一张疑似OPPO Reno9系列的相机布局图。如图所示，&lt;strong&gt;该机的摄像头布局与OPPO Reno8 Pro相似，背部摄像头共有三颗，环形闪光灯位于右下角。&lt;/strong&gt;据爆料，OPPO Reno9系列有两款机型，&lt;strong&gt;传闻Reno9标准版搭载高通骁龙778G系列处理器，Reno9 Pro搭载联发科天玑8000系列处理器。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [为起床设多个闹钟可能会导致慢性疲劳](https://www.cnbeta.com/articles/tech/1324981.htm) | Sat Oct 08 2022 7:03 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;很多上班族和学生担心自己早上起不来，就会设置多个闹钟，&lt;strong&gt;有的人甚至每五分钟就让闹钟响一次，殊不知，这种习惯对身体并不友好。&lt;/strong&gt;研究表明，设置多个闹钟会对人造成慢性的疲劳，长期处于疲劳状态，&lt;strong&gt;不仅会降低工作效率，还会诱发疾病。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [华为P60 Pro外观照首曝光：用上骁龙8 Gen2 4G 最快明年3月见](https://www.cnbeta.com/articles/tech/1324979.htm) | Sat Oct 08 2022 7:03 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;日前，有数码博主爆料称，华为P60系列将于明年3-4月亮相，将搭载高通最新的骁龙8 Gen 2移动平台。爆料中还提到，P60然定位4G机型，依然缺席5G，但P60系列会搭载高通将在年底发布的旗舰SoC——骁龙8 Gen2，该博主称，P60的工程版相机部分惊喜不大，不过可以期待下软件上的新技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [苹果公司自研调制解调器可能要到2025年才会在iPhone上出现](https://www.cnbeta.com/articles/tech/1324977.htm) | Sat Oct 08 2022 7:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;分析师预计，高通公司可能在未来几年内仍是苹果公司的调制解调器供应商，而使用苹果公司设计的调制解调器的iPhone的前景可能最早要推到2025年。由于2019年的专利诉讼和解，芯片制造商高通公司是苹果公司的主要调制解调器供应商，但iPhone制造商仍在推出自己的型号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [金立手机公司经营异常 未履行金额超13亿元](https://www.cnbeta.com/articles/tech/1324975.htm) | Sat Oct 08 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;10月8日消息，天眼查显示，近日，&lt;strong&gt;深圳市金立通信设备有限公司因通过登记的住所或经营场所无法联系，被深圳市市场和质量监督管理委员会福田局列入经营异常名录。&lt;/strong&gt;该公司成立于2002年8月，注册资本2亿人民币，法定代表人、董事长、总经理为刘立荣，为第一大股东，持股41.4%。风险信息显示，&lt;strong&gt;该公司存在多个失信被执行人、限制消费令、终本案件信息，未履行金额超13亿元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [奈飞原创电影将首次登陆美国三大院线，谁会是赢家？](https://hot.cnbeta.com/articles/movie/1324973.htm) | Sat Oct 08 2022 3:02 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国主要的三家大型连锁影院将首次上映流媒体巨头奈飞（NFLX.US）的最新原创电影。10月7日，奈飞宣布与AMC院线（AMC.US）、Regal Cinemas和Cinemark（CNK.N）达成历史性的合作，标志着将奈飞电影首次登陆美国大型院线。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [孙正义并未向三星提出投资ARM建议？IPO或是其更优选择](https://www.cnbeta.com/articles/tech/1324971.htm) | Sat Oct 08 2022 3:01 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星拟收购软银集团旗下芯片IP设计公司ARM一事，或已实质性破灭。据路透社援引韩国当地媒体报道，当地时间10月4日，软银集团创始人兼首席执行官孙正义（Masayoshi Son）与三星掌门人李在镕（ Lee Jae-yong）进行商谈，讨论了Arm和三星电子之间的长期合作，但没有提议三星投资ARM。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [又一商界精英猝死，运动是真凶吗？](https://www.cnbeta.com/articles/tech/1324969.htm) | Sat Oct 08 2022 3:00 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月7日晚，华为心声社区发讣告称，公司监事会副主席丁耘先生，因突发疾病于10月7日凌晨不幸逝世，享年53岁。根据华为官网消息，丁耘1969年出生，在华为工作了26年，是华为重要的管理者之一，身兼监事会副主席、总干部部部长、企业BG总裁和运营商BG总裁等职务。其中，仅企业BG和运营商BG两项业务，每年就给华为贡献4000亿元左右的收入。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [苹果新品iPhone 14 Plus上市破发 拼多多直降500元](https://www.cnbeta.com/articles/tech/1324967.htm) | Sat Oct 08 2022 1:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone 14 Plus上市并未出现一机难求的情况。10月7日，苹果今年新机型iPhone 14 Plus上市就在第三方平台遭遇破发。中国证券报记者注意到，在苹果官网，iPhone 14 Plus有现货。在拼多多平台，iPhone 14 Plus领券直降500元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
