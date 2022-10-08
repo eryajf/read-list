@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [因滥用 Optus 泄露的数据信息敲诈受害者，19岁少年被捕](https://www.freebuf.com/news/346232.html) | Sat Oct 08 2022 5:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    澳大利亚联邦警察（AFP）逮捕了一名来自悉尼的19岁青少年，该少年被指控试图利用上月底 Optus 泄露的数据信息，敲诈受害者。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 英国首相个人手机号遭曝光；丰田道歉：约296000条客户信息被泄露](https://www.freebuf.com/news/346189.html) | Fri Oct 07 2022 1:34 PM 
     <details><summary>展开描述 ...</summary> 
     丰田汽车表示，发现T-Connect服务中296019条客户信息疑遭泄露，包括电子邮件地址和客户号码。 
     </details> 
 
-- 🦄 [“要命”的广告弹窗](https://www.freebuf.com/articles/346101.html) | Fri Sep 30 2022 6:03 AM 
+- 🦅 [“要命”的广告弹窗](https://www.freebuf.com/articles/346101.html) | Fri Sep 30 2022 6:03 AM 
     <details><summary>展开描述 ...</summary> 
     本该起保驾护航的汽车中控，却可能因广告弹窗成为潜在的马路杀手。 
     </details> 
 
-- 🦅 [FreeBuf周报 | 普京正式授予斯诺登俄罗斯国籍；勒索组织正在将开源软件武器化](https://www.freebuf.com/news/346087.html) | Fri Sep 30 2022 5:43 AM 
+- 🪄 [FreeBuf周报 | 普京正式授予斯诺登俄罗斯国籍；勒索组织正在将开源软件武器化](https://www.freebuf.com/news/346087.html) | Fri Sep 30 2022 5:43 AM 
     <details><summary>展开描述 ...</summary> 
     我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🪄 [反转？美国国家安全局雇员向外国特工泄密，对方实为FBI卧底](https://www.freebuf.com/news/346079.html) | Fri Sep 30 2022 4:19 AM 
+- 💻 [反转？美国国家安全局雇员向外国特工泄密，对方实为FBI卧底](https://www.freebuf.com/news/346079.html) | Fri Sep 30 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
     该雇员向一名冒充外国特工的联邦调查局卧底探员，发送被盗的机密信息摘录。 
-    </details> 
-
-- 💻 [CyberBattleSim-（内网自动化渗透）研究分析](https://www.freebuf.com/articles/network/336371.html) | Fri Sep 30 2022 3:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    CyberBattleSim是一款微软365 Defender团队开源的人工智能攻防对抗模拟工具，来源于微软的一个实验性研究项目。 
     </details> 
 <!-- freebuf:END -->
 
