@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我收集的11个编程小技巧](https://juejin.cn/post/7151979943990132744) | Sat Oct 08 2022 3:35 AM 
+- 🤗 [【C/C++】952. 按公因数计算最大组件大小](https://juejin.cn/post/7151988897802059813) | Sat Oct 08 2022 4:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第11天，点击查看活动详情 本文包括题目描述、题目整理、题目的解题思路以及具体的实现和代码，逐步对题目进行详细解析，深入浅出总结 
+    </details> 
+
+- 🎡 [数据结构与算法-基础（十三）红黑树（1）概述](https://juejin.cn/post/7151987094917742629) | Sat Oct 08 2022 4:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    红黑树是数据结构中重要的一种结构，其本质是通过定义一些性质，让二叉树分布结构变的相对合理，并在动态添加或者删除的过程中去修复结构。红黑树在搜索、添加、删除这 3 种操作的效率相对比较均衡。 
+    </details> 
+
+- 🕯 [国庆假期，我搞了一套对标大厂的前端规范](https://juejin.cn/post/7151983972828839943) | Sat Oct 08 2022 3:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    任何能提高代码可维护性、降低代码理解成本、降低代码的容错率和提高项目可扩展性的统一标准，称之为规范标准； 但是如何去落实规范就是一个难题了，我相信本文能给您答案 ~ 
+    </details> 
+
+- 🚀 [cgo 机制 - 从 c 调用 go](https://juejin.cn/post/7151982900442267655) | Sat Oct 08 2022 3:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    文｜朱德江（GitHub ID：doujiang24&rpar; MOSN 项目核心开发者蚂蚁集团技术专家 专注于云原生网关研发的相关工作 本文 4656 字 阅读 12 分钟 一、前言 去年刚学 go 语言的 
+    </details> 
+
+- 💪 [我收集的11个编程小技巧](https://juejin.cn/post/7151979943990132744) | Sat Oct 08 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第11天，点击查看活动详情 编程小技巧 打印时间 替换填充字符串 日期时间api 复制文件 计算页数的技巧 给数字补位，4将变成0 
-    </details> 
-
-- 🎡 [要求必须使用强密码](https://juejin.cn/post/7151972782262190116) | Sat Oct 08 2022 3:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们现在处于网络时代，时常要登录各种网站、论坛、邮箱、网上银行等等，这些访问常需要帐户+密码的身份认证，因此我们不断地注册用户，就有了数不清的网络帐户和密码。 
-    </details> 
-
-- 🕯 [iOS小技能：使用PlistBuddy/plutil进行增删改查plist文件](https://juejin.cn/post/7151969500424831012) | Sat Oct 08 2022 2:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 defaults、plutil、PlistBuddy的区别: defaults命令使用domain的概念访问plist文件，而且对命令的文件书写方式要求严格（比如不能带.plist），有的时候还 
-    </details> 
-
-- 🚀 [CSS进阶向--纯css实现流光边框（二）](https://juejin.cn/post/7151963567753953317) | Sat Oct 08 2022 2:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第N天，点击查看活动详情 前言 上一篇 CSS进阶向--纯css实现流光边框 实现了一个类似激光灯带的按钮边框效果，但是使用了四个 
-    </details> 
-
-- 💪 [简单实现手势缩放version 1](https://juejin.cn/post/7151820840105934855) | Fri Oct 07 2022 5:45 PM 
-    <details><summary>展开描述 ...</summary> 
-    简单实现图片缩放功能。通过继承ImageView，和ScaleDetector#onScale接口实现功能。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
