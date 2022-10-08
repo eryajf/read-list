@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有几十个闲钱，有想法一起的吗](https://www.v2ex.com/t/885398#reply1) | Sat Oct 08 2022 3:23 PM
-- 🤗 [C++在什么情况下会把拷贝构造函数写成私有的？](https://www.v2ex.com/t/885397#reply6) | Sat Oct 08 2022 3:22 PM
-- 🎭 [码农上班上出来与世隔绝感了怎么排解](https://www.v2ex.com/t/885395#reply2) | Sat Oct 08 2022 2:50 PM
-- 🥷 [看到个业务系统用的这种表达式是如何实现的？有什么高深的技术吗？](https://www.v2ex.com/t/885391#reply8) | Sat Oct 08 2022 2:27 PM
-- 🐵 [请教下大佬们， windows7 怎么查看之前复制粘贴过的文档视频的具体记录呢，目前还没重启过。](https://www.v2ex.com/t/885382#reply0) | Sat Oct 08 2022 1:36 PM<!-- v2ex:END -->
+- 🥸 [随便搜索了一圈，怎么现在谈到算法都是 AI 一类的？有没有其他传统逻辑性的](https://www.v2ex.com/t/885407#reply2) | Sat Oct 08 2022 4:54 PM
+- 🤗 [有几十个闲钱，有想法一起的吗](https://www.v2ex.com/t/885398#reply1) | Sat Oct 08 2022 3:23 PM
+- 🎭 [C++在什么情况下会把拷贝构造函数写成私有的？](https://www.v2ex.com/t/885397#reply6) | Sat Oct 08 2022 3:22 PM
+- 🥷 [码农上班上出来与世隔绝感了怎么排解](https://www.v2ex.com/t/885395#reply3) | Sat Oct 08 2022 2:50 PM
+- 🐵 [看到个业务系统用的这种表达式是如何实现的？有什么高深的技术吗？](https://www.v2ex.com/t/885391#reply8) | Sat Oct 08 2022 2:27 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
