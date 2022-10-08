@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [iA Writer 6.0.4 简单好用的 markdown 写作工具](https://xclient.info/s/ia-writer.html) | Fri Sep 30 2022 12:29 AM 
+- 🦏 [Disk Expert Pro 3.8.2 磁盘分析管理工具](https://xclient.info/s/disk-expert.html) | Sat Oct 08 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    iA Writer 提供了独特的 无干扰模式，该模式隐藏了一切可能对写作造成干扰的界面元素，只留下一张白纸、一个键盘。 
+    Disk Expert是一款Mac平台的磁盘分析管理工具 ，能让帮助我们轻松找到当前mac电脑中最大的文件和文件夹，会扫描您的硬盘驱动器分区，直观地显示磁盘空间的使用，建立了一个冗余内容的列表。 
     </details> 
 
--  [Start 6.0.1 快捷启动工具](https://xclient.info/s/start.html) | Fri Sep 30 2022 12:29 AM 
+-  [Bartender 4.2.11 一款实用的菜单栏管理工具](https://xclient.info/s/bartender.html) | Sat Oct 08 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
-    start 是Mac平台上的一款快捷启动应用，是macOS的开始菜单，允许您快速查找和构造您的程序。 
+    Bartender是一款非常实用的Menubar菜单栏管理小助手。随着Mac使用时间的增长，那原本简洁的菜单栏也自然而然会慢慢变长，加上某些应用 的菜单栏也有一定的长度，这时候用Bartender来对杂乱的菜单栏进行管理是再好不过的了。 
     </details> 
 
-- ⚗️ [Vellum 3.3.5 电子书制作工具](https://xclient.info/s/vellum.html) | Fri Sep 30 2022 12:28 AM 
+- ⚗️ [VideoDuke 2.9 视频下载](https://xclient.info/s/videoduke.html) | Sat Oct 08 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    Vellum 是一款Mac上优秀的电子书制作工具，把文本生成为图文格式的电子书，如iBooks, Kindle， Nook等，简单易用。 
+    VideoDuke 支持在网站视频下载所有流行格式的视频文件，可以以各种文件格式保存。只需将链接粘贴到应用中即可完成。 
     </details> 
 
-- 🔥 [Valentina Studio Pro 12.5.6 数据库管理软件](https://xclient.info/s/valentina-studio-pr.html) | Fri Sep 30 2022 12:27 AM 
+- 🔥 [Color UI 2.2.6 设计辅助工具](https://xclient.info/s/color-ui.html) | Sat Oct 08 2022 1:04 AM 
     <details><summary>展开描述 ...</summary> 
-    Valentina Studio 是一个MySQL、PostgreSQL、Valentina DB 和 SQLite 等数据库最好的免费管理软件。它拥有架构编辑器，数据编辑器，SQL 编辑器以及查询生成器等，让你轻松管理数据库。 
+    Color UI 可以探索生动的颜色，并将它们转换为各种格式。专为设计师和开发人员的需求而定制。用这个整洁的应用程序为你的工作流程增添色彩吧。 
     </details> 
 
-- 🌋 [Kaleidoscope 3.7 功能强大的对比工具](https://xclient.info/s/kaleidoscope.html) | Fri Sep 30 2022 12:26 AM 
+- 🌋 [BBEdit 14.6 代码编辑器](https://xclient.info/s/bbedit.html) | Sat Oct 08 2022 12:56 AM 
     <details><summary>展开描述 ...</summary> 
-    Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。 
+    BBEdit 是一款著名代码编辑器。BBEdit适用于Mac OS平台版本, 用于编辑HTML文件, 文本文件及程序源代码 
     </details> 
 <!-- xclient:END -->
 
