@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [卫星对比图像揭示了飓风伊恩造成的佛罗里达州大停电范围](https://www.cnbeta.com/articles/science/1324839.htm) | Sat Oct 08 2022 5:29 AM 
+- 🕯 [紧随T-Mobile：AT&amp;T确认正在开发基于卫星的通讯覆盖服务](https://www.cnbeta.com/articles/tech/1324845.htm) | Sat Oct 08 2022 6:26 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;在 T-Mobile 携手 SpaceX 官宣了基于星链卫星的通讯合作之后，美国运营商 AT&amp;amp;T 现也确认正在开发自己的卫星覆盖服务。&lt;/strong&gt;不同的是，AT&amp;amp;T 没有选择 Starlink 作为其应急移动网络的合作伙伴，而是打算利用 AST SpaceMobile 的卫星网络来构建这项扩展服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Visa携手FTX推出支付卡 客户无需烦恼于加密货币的幕后转换](https://www.cnbeta.com/articles/tech/1324843.htm) | Sat Oct 08 2022 6:13 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;即使在 2022 年经历了持续的价格暴跌，Visa 仍试图通过与 FTX 交易所合作，为加密货币投资者们提供代币的消费渠道。&lt;/strong&gt;新款借记卡已在美国推出，特点是直连用户的 FTX 加密货币投资账户。可知这项服务覆盖了 40 个市场区域，且主要为拉美和欧亚地区。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [JetCycle推出售价12000欧元的纯人力水翼艇](https://www.cnbeta.com/articles/tech/1324841.htm) | Sat Oct 08 2022 5:51 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最为一项新颖的水上运动项目，水翼艇（hydrofoil）可能会让初学者感到有些难以掌握。&lt;strong&gt;毕竟通过第三方视角，试图在水面上平衡一副狭窄的框架、同时用力踩踏以将之抬起并保持悬停，似乎是件很不自然的事情。&lt;/strong&gt;不过本文要为大家介绍的，则是来自一家名为 JetCycle 的法国公司的解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [卫星对比图像揭示了飓风伊恩造成的佛罗里达州大停电范围](https://www.cnbeta.com/articles/science/1324839.htm) | Sat Oct 08 2022 5:29 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;遭受了飓风伊恩的袭击后，位于美国西海岸的多个城市，也经历了持续数日的停电。&lt;/strong&gt;2022 年 9 月 28-29 日，4 级飓风携数英尺高的风暴潮，席卷了佛罗里达州的西南海岸。并以每小时 150 英里（240 公里）的持续风速，在该州大片地区倾泻了超过一英尺的降雨。风暴过后数小时内，数以百万计的住宅和商业客户失去了电力和照明。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [UL Solutions更新3DMark基准测试软件 支持英特尔XeSS性能评估](https://www.cnbeta.com/articles/tech/1324837.htm) | Sat Oct 08 2022 4:57 AM 
+- 🎊 [UL Solutions更新3DMark基准测试软件 支持英特尔XeSS性能评估](https://www.cnbeta.com/articles/tech/1324837.htm) | Sat Oct 08 2022 4:57 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;周三的时候，UL Solutions 介绍了 3DMark 基准测试软件的一项功能更新 —— 全面支持英特尔 Xe 超级采样技术（简称 XeSS）的性能评估。&lt;/strong&gt;对于 3DMark 专业版客户来说，如果你的年度许可证仍在有效期，那现在就可以升级体验。遗憾的是，拥有旧版永久许可证的客户，仍需购买新的年度许可证后，才能解锁 XeSS 功能测试选项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [多美女阵容《蜘蛛夫人》新片场照 达妹亮相](https://hot.cnbeta.com/articles/movie/1324835.htm) | Sat Oct 08 2022 4:28 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日超级英雄新片《蜘蛛夫人》新片场照曝光，“达妹”达科塔·约翰逊亮相，男主造型也随之曝光，一起来欣赏下吧！《蜘蛛夫人》是索尼的漫威角色宇宙中第一部以女性为主角的超英电影，由S·J·克拉克森执导，达科塔·约翰逊、西德妮·斯威尼、塞莱斯特·奥康纳等主演，定档于2023年10月6日在北美上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《极品飞车22：不羁》完整车型列表：有143辆车可供收集和定制](https://hot.cnbeta.com/articles/game/1324833.htm) | Sat Oct 08 2022 4:10 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《极品飞车22：不羁》将于12月2日登陆PC、PS5和XSX/S平台。该作已上架Steam平台，标准版248元，豪华版288元。EA已确认游戏里有143辆车可供收集和定制，包含灵活小巧的欧洲车，马力强劲的美国肌肉车，以及超跑等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《名侦探柯南：警校篇》新章确定10月29日开播](https://hot.cnbeta.com/articles/comic/1324831.htm) | Sat Oct 08 2022 4:02 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;讲述正篇中人气超绝的安室透＝降谷零在警校时的故事，《名侦探柯南》外传警察学校篇第4弹《CASE. 诸伏景光》官方宣布将于10月29日开播，敬请期待。《名侦探柯南 警察学校篇》由青山刚昌负责全面监修，新井隆广作画，以《名侦探柯南》中的降谷零（安室透）以及与他同期的松田阵平、伊达航、萩原研二、诸伏景光为主角的官方外传。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1324831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
