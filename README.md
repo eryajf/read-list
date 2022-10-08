@@ -590,14 +590,14 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [crazy games网页小游戏](https://iui.su/1988/) | Sat Oct 08 2022 2:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    crazy games，一个类似4399的网页游戏平台，游戏的丰富性和可玩性要好很多，所有游戏统统免费，由于是国外网站，部分稍微大一点的网页游戏加载时间较长，可以等待片刻。官网https://w... 
-    </details> 
-
-- 🫣 [2022 年 10 月每日分享](https://iui.su/161/) | Fri Oct 07 2022 2:48 PM 
+- 🌊 [2022 年 10 月每日分享](https://iui.su/161/) | Sat Oct 08 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。10月8日crazygam... 
+    </details> 
+
+- 🫣 [crazy games网页小游戏](https://iui.su/1988/) | Sat Oct 08 2022 2:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    crazy games，一个类似4399的网页游戏平台，游戏的丰富性和可玩性要好很多，所有游戏统统免费，由于是国外网站，部分稍微大一点的网页游戏加载时间较长，可以等待片刻。官网https://w... 
     </details> 
 
 - 🌜 [Microsoft Store 应用免账户下载](https://iui.su/1890/) | Tue Oct 04 2022 1:54 PM 
