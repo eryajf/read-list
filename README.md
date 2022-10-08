@@ -803,29 +803,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1008](http://jandan.net/p/111445) | Sat Oct 08 2022 3:22 AM 
+- 🚀 [应用基因编辑技术，解决现代工业酿造啤酒口味不如古法发酵啤酒的问题](http://jandan.net/p/111446) | Sat Oct 08 2022 5:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    高大的圆柱形发酵罐已经取代了过去啤酒厂的大木桶，但据说，这影响了啤酒的味道。 
+    </details> 
+
+- 🙉 [今日好价 1008](http://jandan.net/p/111445) | Sat Oct 08 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：45 
     </details> 
 
-- 🙉 [DeepMind的人工智能 AlphaTensor 找到了更快的矩阵乘法算法](http://jandan.net/p/111439) | Fri Oct 07 2022 11:53 AM 
+- 🎉 [DeepMind的人工智能 AlphaTensor 找到了更快的矩阵乘法算法](http://jandan.net/p/111439) | Fri Oct 07 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
     虽然实际运算可以看出优势，但我们不知道为什么这个算法会比经典的更好 
     </details> 
 
-- 🎉 [浴中奇思：为什么洗澡的时候 会勃发奇思妙想](http://jandan.net/p/111444) | Fri Oct 07 2022 6:38 AM 
+- 🐲 [浴中奇思：为什么洗澡的时候 会勃发奇思妙想](http://jandan.net/p/111444) | Fri Oct 07 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
     对一项任务坚定不移的专注可能是创造力的敌人。 
     </details> 
 
-- 🐲 [最近两年，全球年轻人整体变得更加情绪化和神经质](http://jandan.net/p/111440) | Fri Oct 07 2022 4:10 AM 
+-  [最近两年，全球年轻人整体变得更加情绪化和神经质](http://jandan.net/p/111440) | Fri Oct 07 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
     原因似乎很显然 
-    </details> 
-
--  [今日好价 1007](http://jandan.net/p/111441) | Fri Oct 07 2022 3:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：36 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
