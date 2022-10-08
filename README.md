@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [写给小白的Figma插件开发教程（1）](https://juejin.cn/post/7152075320584044558) | Sat Oct 08 2022 9:45 AM 
+- 🤗 [车机空调系统开发（HVAC），温暖一整个冬天！](https://juejin.cn/post/7152103207743782943) | Sat Oct 08 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
-    1、为什么有这一篇？ 作为一个前端，肯定会有 UI 给你出设计图，大概率会用到 Figma，或者 类似的产品，简单来说你就是需要将这个图还原到网页/app内 Figma 大概这样&lpar;登陆后&rpar; ps: 如 
+    前言 现在的季节除了寒冷就是炎热；而轿车作为我们重要的交通工具。空调几乎小车一启动就开启。而作为Android车载应用开发，我们要怎样去开发一款空调系统呢？ 1. HVAC 功能介绍 HVAC 全称： 
     </details> 
 
-- 🎡 [Netty系列（一）：基础概念及体系结构](https://juejin.cn/post/7152061881581043719) | Sat Oct 08 2022 8:53 AM 
+- 🎡 [Elasticsearch：Hadoop 大数据集成 （Hadoop =＞ Elasticsearch）](https://juejin.cn/post/7152101056887914533) | Sat Oct 08 2022 11:25 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 Netty系列（一）：基础概念及体系结构 1、什么是Netty 2、JDK 原生 NIO 程序的问题 JDK 原生也有一套网络应用程序 API，但是存在一系列问题，主要如 
+    在本文章中，我们将学习如何使用 Elasticsearch Hadoop 处理大量数据。 对于我们的练习，我们将使用一个简单的 Apache access 日志来表示我们的 “大数据”。 我们将学习如 
     </details> 
 
-- 🕯 [DeepRec 大规模稀疏模型训练推理引擎](https://juejin.cn/post/7152060878983004174) | Sat Oct 08 2022 8:49 AM 
+- 🕯 [深入浅出react&lpar;带你手写一个简易版react&rpar;](https://juejin.cn/post/7152093251619520549) | Sat Oct 08 2022 10:56 AM 
     <details><summary>展开描述 ...</summary> 
-    导读： 本文将以下三个方面展开介绍： DeepRec背景（我们为什么要做DeepRec） DeepRec功能（设计动机和实现） DeepRec社区（最新发布的2206版本主要功能） DeepRec背景 
+    本篇是进阶学习react的首篇文章，带你一起手写实现react的基本工作流程，包含工作单元，fiber，函数组件，hook实现等等，快来学一学吧 
     </details> 
 
-- 🚀 [5 分钟完成 ZooKeeper 数据迁移](https://juejin.cn/post/7152059814938411021) | Sat Oct 08 2022 8:45 AM 
+- 🚀 [性能大PK count&lpar;*&rpar;、count&lpar;1&rpar;和count&lpar;列&rpar;](https://juejin.cn/post/7152086171244298254) | Sat Oct 08 2022 10:28 AM 
     <details><summary>展开描述 ...</summary> 
-    MSE 提供了多种数据迁移的方案，其中主流的方案可以通过 MSE Sync 进行实时同步，这样能够达到平滑不停机的目的，本文将介绍另外一种数据迁移的方式，主要针对业务支持停机的场景，进行一个补充，操作 
+    我正在参加「掘金·启航计划」 最近的工作中，我听到组内两名研发同学在交流数据统计性能的时候，聊到了以下内容： 有点儿好奇，难道 count&lpar;1&rpar; 的性能真的就比 count&lpar;*&rpar; 要好吗？ 
     </details> 
 
-- 💪 [InnoDB行格式详解，看这一文就够了](https://juejin.cn/post/7152058786662842399) | Sat Oct 08 2022 8:41 AM 
+- 💪 [Dubbo Mesh 总体技术架构方案](https://juejin.cn/post/7152080476650340365) | Sat Oct 08 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-    我们平时是以记录为单位来向表中插入数据的，这些记录在磁盘上的存放方式被称为行格式或者记录格式，行格式分别是compact、redundant、dynamic和compressed行格式。 
+    Dubbo Mesh 作为 Dubbo 全面拥抱云原生的又一个里程碑项目，将为 Dubbo 用户提供平滑升级到 Service Mesh 架构的解决方案，同时继续基于 Dubbo 强大可扩展性底座提供 
     </details> 
 <!-- juejin:END -->
 ### 少数派
