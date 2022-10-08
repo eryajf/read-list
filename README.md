@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [🤣🤣电摇嘲讽还能这么玩？使用 Canvas 将视频转为像素风！](https://juejin.cn/post/7151879459249848351) | Fri Oct 07 2022 9:33 PM 
+- 🤗 [Fragment 占位组件 并不会生成一个标签与路由组件的lazyLoad](https://juejin.cn/post/7151944117633679397) | Sat Oct 08 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    相信大家平时都有见过将一个视频转为像素风的操作，你知道它是怎么做的吗？本文手把手教大家通过 canvas 来将视频转化为伪像素风。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第10天，点击查看活动详情 Fragment表示占位组件 并不会生成一个标签 帮助解决了报错问题 其他什么都不会生成 使用 作用  
     </details> 
 
-- 🎡 [MVP 架构最终审判 —— MVP 解决了哪些痛点，又引入了哪些坑？（一）](https://juejin.cn/post/7151809622586687524) | Fri Oct 07 2022 4:35 PM 
+- 🎡 [组件优化（解决 Component 的2个问题 ）提高效率](https://juejin.cn/post/7151943734035218468) | Sat Oct 08 2022 1:15 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇讲述了在实战项目中，引入 MVP 架构对业务代码进行重构的心路历程。从信心满满到逐渐失落，最后。。。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第10天，点击查看活动详情 Component的2个问题 效率高的做法 原因 解决 案例 
     </details> 
 
-- 🕯 [在Tomcat中启用虚拟线程特性](https://juejin.cn/post/7151801112595529759) | Fri Oct 07 2022 4:02 PM 
+- 🕯 [浅谈数据迁移](https://juejin.cn/post/7151942224031252510) | Sat Oct 08 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    前提 趁着国庆前后阅读了虚拟线程相关的源码，写了一篇《虚拟线程 - VirtualThread源码透视》，里面介绍了虚拟线程的实现原理和使用示例。需要准备做一下前期准备： 安装OpenJDK-19或者 
+    在正常的版本迭代过程中，随着项目的扩展升级，经常会涉及到将原有功能的数据结构进行修改，因此也出现了需要做数据迁移的情况 
     </details> 
 
-- 🚀 [10分钟学会github工作流程](https://juejin.cn/post/7151800431297953805) | Fri Oct 07 2022 3:59 PM 
+- 🚀 [docker基础知识--镜像](https://juejin.cn/post/7151940547039461406) | Sat Oct 08 2022 1:02 AM 
     <details><summary>展开描述 ...</summary> 
-    一.引言 Github是日常开发中绕不开的问题，我们日常使用github进行多人项目开发是否标准？是否还在一顿梭哈git pull,git push和git merge?今天我将完整的讲解一套标准的g 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 docker 架构 Docker的核心组件包括： Docker 客户端：Client Docker 服务 
     </details> 
 
-- 💪 [[教你做小游戏] 用JS实现平均每步仅占10bit位的象棋历史记录保存方案（decode篇）](https://juejin.cn/post/7151799385087557646) | Fri Oct 07 2022 3:55 PM 
+- 💪 [Koa+mongoDb手把手实战「前端发布平台」后端！值得收藏～](https://juejin.cn/post/7151939505883185183) | Sat Oct 08 2022 12:58 AM 
     <details><summary>展开描述 ...</summary> 
-    之前讲到了我设计的方案：每一步操作需要4+1+2=7至4+1+4+5=14个二进制位。今天开发实现了象棋历史记录的保存方案，尽可能降低了空间的占用。基于该方案可以实现悔棋操作。 
+    纯前端不了解全栈开发但想学？赶紧看过来！本文通过node server实战分享，带你快速上手全栈开发，掌握后端开发实战技巧。通过koa2 + mongo实现服务端功能以完成前端发布平台的业务需求。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
