@@ -383,19 +383,19 @@
     题目： Dota2 的世界里有两个阵营：Radiant&lpar;天辉&rpar;和 Dire&lpar;夜魇&rpar; Dota2 参议院由来自两派的参议员组成。现在参议院希望对一个 Dota2 游戏里的改变作出决定。他们以一个基于轮为 
     </details> 
 
-- 🕯 [为什么今年许多Java后端选择了Android开发？](https://juejin.cn/post/7152141954040463368) | Sat Oct 08 2022 2:04 PM 
+- 🕯 [24. ES6 模块Module 的语法](https://juejin.cn/post/7152149326897086472) | Sat Oct 08 2022 2:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    1.JavaScript模块（module）概述 历史上，JavaScript 一直没有模块（module）体系，无法将一个大程序拆分成互相依赖的小文件，再用简单的方法拼装起来。其他语言都有这项功能， 
+    </details> 
+
+- 🚀 [为什么今年许多Java后端选择了Android开发？](https://juejin.cn/post/7152141954040463368) | Sat Oct 08 2022 2:04 PM 
     <details><summary>展开描述 ...</summary> 
     家人们，史上最难就业季来袭： 大厂不断裁员、开始缩招锁hc 简历被刷、实习留用被鸽 …… 今年受到疫情和经济市场的影响，就业市场非常不乐观： 互联网陷入“寒冬”，字节、腾讯、虾皮等大厂不断裁员、缩招… 
     </details> 
 
-- 🚀 [开源杂谈 : 理解开源框架的定制思路](https://juejin.cn/post/7152140861537517576) | Sat Oct 08 2022 1:59 PM 
+- 💪 [开源杂谈 : 理解开源框架的定制思路](https://juejin.cn/post/7152140861537517576) | Sat Oct 08 2022 1:59 PM 
     <details><summary>展开描述 ...</summary> 
     一 . 前言 作为开源软件,是有可能无法满足业务场景的. 这一篇主要从思想的角度来看 ,如何对开源框架进行深度的改造. 主要以 SpringMVC DispatchServlet 的定制为案例. 二. 
-    </details> 
-
-- 💪 [Android Compose 动画使用详解&lpar;二&rpar;状态改变动画animateXxxAsState](https://juejin.cn/post/7152131735281467400) | Sat Oct 08 2022 1:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    在Compose中提供了一系列动画API，其中有一类API跟属性动画非常类似，它就是animateXxxAsState：状态改变动画，本篇将从其api的使用开始带你真正走进Compose的动画世界 
     </details> 
 <!-- juejin:END -->
 ### 少数派
