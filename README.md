@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Disk Expert Pro 3.8.2 磁盘分析管理工具](https://xclient.info/s/disk-expert.html) | Sat Oct 08 2022 1:08 AM 
+- 🦏 [AYVY 1.21.1 图片查看工具](https://xclient.info/s/ayvy.html) | Sat Oct 08 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
-    Disk Expert是一款Mac平台的磁盘分析管理工具 ，能让帮助我们轻松找到当前mac电脑中最大的文件和文件夹，会扫描您的硬盘驱动器分区，直观地显示磁盘空间的使用，建立了一个冗余内容的列表。 
+    AYVY是Mac电脑上的一款简单快速的图片查看工具，它可以满足您的所有需求。 
     </details> 
 
--  [Bartender 4.2.11 一款实用的菜单栏管理工具](https://xclient.info/s/bartender.html) | Sat Oct 08 2022 1:06 AM 
+-  [Navicat Premium Essentials 16.1.3 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Sat Oct 08 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
-    Bartender是一款非常实用的Menubar菜单栏管理小助手。随着Mac使用时间的增长，那原本简洁的菜单栏也自然而然会慢慢变长，加上某些应用 的菜单栏也有一定的长度，这时候用Bartender来对杂乱的菜单栏进行管理是再好不过的了。 
+    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
     </details> 
 
-- ⚗️ [VideoDuke 2.9 视频下载](https://xclient.info/s/videoduke.html) | Sat Oct 08 2022 1:05 AM 
+- ⚗️ [Wondershare Filmora X 11.7.3 优秀的视频编辑工具](https://xclient.info/s/filmora.html) | Sat Oct 08 2022 2:44 AM 
     <details><summary>展开描述 ...</summary> 
-    VideoDuke 支持在网站视频下载所有流行格式的视频文件，可以以各种文件格式保存。只需将链接粘贴到应用中即可完成。 
+    Wondershare Filmora是一款由Wondershare出品的优秀的视频编辑工具，简单易用。 
     </details> 
 
-- 🔥 [Color UI 2.2.6 设计辅助工具](https://xclient.info/s/color-ui.html) | Sat Oct 08 2022 1:04 AM 
+- 🔥 [Scrutiny 12.4.7 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Sat Oct 08 2022 2:42 AM 
     <details><summary>展开描述 ...</summary> 
-    Color UI 可以探索生动的颜色，并将它们转换为各种格式。专为设计师和开发人员的需求而定制。用这个整洁的应用程序为你的工作流程增添色彩吧。 
+    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
     </details> 
 
-- 🌋 [BBEdit 14.6 代码编辑器](https://xclient.info/s/bbedit.html) | Sat Oct 08 2022 12:56 AM 
+- 🌋 [Photos Exif Editor 2.17 照片元数据编辑](https://xclient.info/s/photos-exif-editor.html) | Sat Oct 08 2022 2:38 AM 
     <details><summary>展开描述 ...</summary> 
-    BBEdit 是一款著名代码编辑器。BBEdit适用于Mac OS平台版本, 用于编辑HTML文件, 文本文件及程序源代码 
+    Photos Exif Editor照片EXIF编辑器是一个直观的应用程序，可以在任何时间编辑数千张照片的EXIF，IPTC和XMP数据！ 
     </details> 
 <!-- xclient:END -->
 
