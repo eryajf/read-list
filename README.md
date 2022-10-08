@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [go ecosystem is not for me](https://www.v2ex.com/t/885234#reply0) | Sat Oct 08 2022 5:28 AM
-- 🤗 [正确的指法应该成为职场人的基本要求吗？](https://www.v2ex.com/t/885230#reply3) | Sat Oct 08 2022 5:19 AM
-- 🎭 [84 岁图灵奖得主高德纳的《计算机程序设计艺术：卷 4B》出版](https://www.v2ex.com/t/885228#reply1) | Sat Oct 08 2022 5:15 AM
-- 🥷 [现在做 html 的静态网站还有前途吗？](https://www.v2ex.com/t/885201#reply18) | Sat Oct 08 2022 3:39 AM
-- 🐵 [cloudflare 的验证码 Turnstile 国内稳定吗？](https://www.v2ex.com/t/885196#reply0) | Sat Oct 08 2022 3:31 AM<!-- v2ex:END -->
+- 🥸 [Jimmer: 一个面向 Java 和 Kotlin 的革命性 ORM](https://www.v2ex.com/t/885244#reply0) | Sat Oct 08 2022 6:06 AM
+- 🤗 [现在做网站应该怎么做，是不是日落西山了](https://www.v2ex.com/t/885241#reply17) | Sat Oct 08 2022 5:54 AM
+- 🎭 [《Easy 搞定 Golang 设计模式》（学 Go 语言设计模式，如此简单）](https://www.v2ex.com/t/885239#reply1) | Sat Oct 08 2022 5:46 AM
+- 🥷 [go ecosystem is not for me](https://www.v2ex.com/t/885234#reply0) | Sat Oct 08 2022 5:28 AM
+- 🐵 [正确的指法应该成为职场人的基本要求吗？](https://www.v2ex.com/t/885230#reply32) | Sat Oct 08 2022 5:19 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
