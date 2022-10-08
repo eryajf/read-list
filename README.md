@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Docker | 镜像浅析，以及制作自己的镜像](https://juejin.cn/post/7151966071342235684) | Sat Oct 08 2022 2:41 AM 
+- 🤗 [我收集的11个编程小技巧](https://juejin.cn/post/7151979943990132744) | Sat Oct 08 2022 3:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第11天，点击查看活动详情 编程小技巧 打印时间 替换填充字符串 日期时间api 复制文件 计算页数的技巧 给数字补位，4将变成0 
+    </details> 
+
+- 🎡 [要求必须使用强密码](https://juejin.cn/post/7151972782262190116) | Sat Oct 08 2022 3:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们现在处于网络时代，时常要登录各种网站、论坛、邮箱、网上银行等等，这些访问常需要帐户+密码的身份认证，因此我们不断地注册用户，就有了数不清的网络帐户和密码。 
+    </details> 
+
+- 🕯 [iOS小技能：使用PlistBuddy/plutil进行增删改查plist文件](https://juejin.cn/post/7151969500424831012) | Sat Oct 08 2022 2:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 defaults、plutil、PlistBuddy的区别: defaults命令使用domain的概念访问plist文件，而且对命令的文件书写方式要求严格（比如不能带.plist），有的时候还 
+    </details> 
+
+- 🚀 [Docker | 镜像浅析，以及制作自己的镜像](https://juejin.cn/post/7151966071342235684) | Sat Oct 08 2022 2:41 AM 
     <details><summary>展开描述 ...</summary> 
     我是甜点cc，本文主要讲述我对Docker镜像的理解，以及如何制作一个简单的Docker镜像。欢迎访问 
     </details> 
 
-- 🎡 [swoole（一）laravel8配置使用swoole](https://juejin.cn/post/7151965685122334756) | Sat Oct 08 2022 2:40 AM 
+- 💪 [swoole（一）laravel8配置使用swoole](https://juejin.cn/post/7151965685122334756) | Sat Oct 08 2022 2:40 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 php安装swoole扩展请移步swoole官方网站： https://wiki.swoole.com/ 
-    </details> 
-
-- 🕯 [【算法题解】 Day10 BFS | DFS](https://juejin.cn/post/7151963935275483167) | Sat Oct 08 2022 2:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天的算法是 「BFS | DFS」 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
-    </details> 
-
-- 🚀 [缺流量时代，App们需要如何突围？](https://juejin.cn/post/7151963198319493127) | Sat Oct 08 2022 2:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    你的App里多久没有出现过一款新应用了？ 距离上一个现象级的应用抖音出现已经过去了6年，那些曾经频繁上新移动应用的互联网大厂们，如今都按下了按停键。App市场万马齐喑，巨头创新不断，应用市场中小团队异 
-    </details> 
-
-- 💪 [议题征集｜Flink Forward Asia 2022 正式启动](https://juejin.cn/post/7151963224357732360) | Sat Oct 08 2022 2:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    Flink Forward Asia 2022 议题火热征集中，投递日期截止至 10 月 14 日。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
