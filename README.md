@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [紧随T-Mobile：AT&amp;T确认正在开发基于卫星的通讯覆盖服务](https://www.cnbeta.com/articles/tech/1324845.htm) | Sat Oct 08 2022 6:26 AM 
+- 🕯 [Polestar Q3交付9215辆汽车 今年迄今为止交付超3万辆](https://www.cnbeta.com/articles/tech/1324873.htm) | Sat Oct 08 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在 T-Mobile 携手 SpaceX 官宣了基于星链卫星的通讯合作之后，美国运营商 AT&amp;amp;T 现也确认正在开发自己的卫星覆盖服务。&lt;/strong&gt;不同的是，AT&amp;amp;T 没有选择 Starlink 作为其应急移动网络的合作伙伴，而是打算利用 AST SpaceMobile 的卫星网络来构建这项扩展服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;吉利控股集团旗下高端电动汽车品牌Polestar（中文名“极星”）宣布，其在2022年第三季度交付了9215辆汽车，这使该公司今年迄今为止的总交付量达到30400辆。&lt;/strong&gt;相比之下，该公司在2022年第二季度交付了9410辆汽车，略高于第三季度，在2022年第一季度交付了11790辆汽车，远高于第三季度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Visa携手FTX推出支付卡 客户无需烦恼于加密货币的幕后转换](https://www.cnbeta.com/articles/tech/1324843.htm) | Sat Oct 08 2022 6:13 AM 
+- 💼 [《大富翁11》新增挑战模式 卡片系统升级](https://hot.cnbeta.com/articles/game/1324871.htm) | Sat Oct 08 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;即使在 2022 年经历了持续的价格暴跌，Visa 仍试图通过与 FTX 交易所合作，为加密货币投资者们提供代币的消费渠道。&lt;/strong&gt;新款借记卡已在美国推出，特点是直连用户的 FTX 加密货币投资账户。可知这项服务覆盖了 40 个市场区域，且主要为拉美和欧亚地区。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《大富翁》系列作为享誉全球华人群体30多年的强手棋游戏，预计将于今年（2022）内于PC与NS平台发布最新作《大富翁11》，最新作首发14位经典角色，在12张地图上争夺大富翁的荣誉，Steam平台预约页面已上线，快快加入心愿单，一起成为大富翁。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [JetCycle推出售价12000欧元的纯人力水翼艇](https://www.cnbeta.com/articles/tech/1324841.htm) | Sat Oct 08 2022 5:51 AM 
+- 💂 [CDPR首席技术官：未来将在所有平台上测试新作](https://hot.cnbeta.com/articles/game/1324869.htm) | Sat Oct 08 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最为一项新颖的水上运动项目，水翼艇（hydrofoil）可能会让初学者感到有些难以掌握。&lt;strong&gt;毕竟通过第三方视角，试图在水面上平衡一副狭窄的框架、同时用力踩踏以将之抬起并保持悬停，似乎是件很不自然的事情。&lt;/strong&gt;不过本文要为大家介绍的，则是来自一家名为 JetCycle 的法国公司的解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;《赛博朋克2077》开发商CDPR在一次深度采访中透露，他们未来将在多个平台上测试其产品的质量，而不仅仅只是PC端。&lt;/strong&gt;CDPR的首席技术官Patel zawdyn表示：“开发过程中遇到的主要风险与所有目标平台上的稳定性和性能有关，我们从一开始就在每个平台上测试游戏玩法质量，并不只关注开发者的PC版本。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [卫星对比图像揭示了飓风伊恩造成的佛罗里达州大停电范围](https://www.cnbeta.com/articles/science/1324839.htm) | Sat Oct 08 2022 5:29 AM 
+- 🚀 [字节跳动2021年收入4391亿元 净亏损6041亿元 研发支出1039亿元](https://www.cnbeta.com/articles/tech/1324867.htm) | Sat Oct 08 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;遭受了飓风伊恩的袭击后，位于美国西海岸的多个城市，也经历了持续数日的停电。&lt;/strong&gt;2022 年 9 月 28-29 日，4 级飓风携数英尺高的风暴潮，席卷了佛罗里达州的西南海岸。并以每小时 150 英里（240 公里）的持续风速，在该州大片地区倾泻了超过一英尺的降雨。风暴过后数小时内，数以百万计的住宅和商业客户失去了电力和照明。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据《华尔街日报》报道，字节跳动向员工披露的一份财报显示， 字节跳动2021年收入增长近80%达到617亿美元（4390.6亿人民币）。据报告声称，主要是由于那些证券的会计处理，字节跳动2021年的净亏损增加了87%以上，达到849亿美元（6041.48 亿人民币）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [UL Solutions更新3DMark基准测试软件 支持英特尔XeSS性能评估](https://www.cnbeta.com/articles/tech/1324837.htm) | Sat Oct 08 2022 4:57 AM 
+- 🎊 [蔚来欧洲发布会举行 推出长期租车业务 月租费用近万](https://www.cnbeta.com/articles/tech/1324865.htm) | Sat Oct 08 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;周三的时候，UL Solutions 介绍了 3DMark 基准测试软件的一项功能更新 —— 全面支持英特尔 Xe 超级采样技术（简称 XeSS）的性能评估。&lt;/strong&gt;对于 3DMark 专业版客户来说，如果你的年度许可证仍在有效期，那现在就可以升级体验。遗憾的是，拥有旧版永久许可证的客户，仍需购买新的年度许可证后，才能解锁 XeSS 功能测试选项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NIO Berlin蔚来欧洲发布会在德国柏林正式举行。据悉，此次发布会上，蔚来宣布产品、全体系服务和创新商业模式在德国、荷兰、瑞典和丹麦市场落地。此外，蔚来官方还强调了打造全球化用户社区的重要性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
