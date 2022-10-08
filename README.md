@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [1993年的马力欧真人电影，为什么是任天堂的黑历史？](https://hot.cnbeta.com/articles/movie/1324691.htm) | Fri Oct 07 2022 5:54 PM 
+- 🕯 [铁坂的守护者 《守望先锋：归来》雾子CG短片公布](https://hot.cnbeta.com/articles/game/1324789.htm) | Sat Oct 08 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我不知道你有没有看凌晨四点的《超级马力欧兄弟》预告片。我反正看了，感觉还不错。“小黄人”团队做动画肯定没得说，“星爵”配音的“妈妈咪呀”还没出声，但想来不会太坏，至于游戏还原与否……&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（10月8日），暴雪公布《守望先锋：归来》新英雄“雾子”最新动画短片，《守望先锋：归来》已于10月5日免费上线。雾子是铁坂神社的打理人，也是一名出色的忍者和医师。在岛田家族没落之后，她立誓要从无恶不作的桥元家族手中保护自己的家乡。雾子师承母亲——朝，习得了致命的忍术。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《原神》全新角色妮露PV 战技施展不同类型的舞步](https://hot.cnbeta.com/articles/game/1324689.htm) | Fri Oct 07 2022 5:54 PM 
+- 💼 [不安分的汇率：台积电与昭和电工的一喜一悲](https://www.cnbeta.com/articles/tech/1324787.htm) | Sat Oct 08 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《原神》今日公布了全新角色妮露的角色宣传片，对妮露来说，同台表演的伙伴，幕后支持的成员，和台下的观众，都是一场演出不可或缺的组成部分。她的身影在台上被月光点亮，她的心则因身边的星辰闪耀。&lt;strong&gt;《原神》预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324689.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;进入9月份以来，台积电的订单量和议价权的微妙关系出现了一些不同寻常的变化。各种迹象显示，台积电“蛮横”的涨价能力貌似暂时告一段落，由于对个人电脑和其他消费技术设备的需求迅速放缓，台积电成熟工艺节点的利用率出现下滑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马斯克“被迫收购”推特 又得卖特斯拉？](https://www.cnbeta.com/articles/tech/1324687.htm) | Fri Oct 07 2022 5:53 PM 
+- 💂 [新一股冷空气节后再登场 中东部多地气温将再创新低](https://www.cnbeta.com/articles/tech/1324785.htm) | Sat Oct 08 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;有分析称，马斯克卖特斯拉股票去收购推特，“就像是拿一盒鱼子酱去换一块2美元的披萨一样”。本周，马斯克出人意料地决定恢复对推特的收购。这一消息拉动了推特的股价大涨，但是对马斯克的特斯拉来说，这可不是个好迹象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国天气网讯 国庆假期期间，一股寒潮席卷我国中东部大部地区，带来剧烈降温。眼下寒潮影响基本收尾，但假期之后，新一股冷空气又将接踵登场，10月8日至10日将给中东部地区再次带来降温，这次华南地区气温也将明显下滑，最低气温或将普遍降至20℃以下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [智利持续山火致数十尊复活节岛石像严重受损](https://www.cnbeta.com/articles/tech/1324685.htm) | Fri Oct 07 2022 5:51 PM 
+- 🚀 [全球海底管线陷入安全危机？](https://www.cnbeta.com/articles/tech/1324783.htm) | Sat Oct 08 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间6日，智利文化部发布通报称，本月初以来发生在智利复活节岛上的大规模山火已烧毁100多公顷山林，并造成数十尊复活节岛石像严重受损，其中部分被毁石像恐难以再修复。石像具体受损情况仍在统计中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;瑞典安全局6日发表声明称，调查显示在瑞典专属经济区内出现泄漏的“北溪”管道有被炸药引爆的迹象，管道受到严重破坏，“可能是蓄意行为”。几天前，挪威海底电缆也出现断裂事件，进一步加剧了外界对海底管道和线缆遭攻击的担忧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《哥谭骑士》发售预告 10月21日登陆PC和主机](https://hot.cnbeta.com/articles/game/1324683.htm) | Fri Oct 07 2022 5:48 PM 
+- 🎊 [研究：病毒利用来自环境的信息来“决定”何时在宿主体内停留、繁殖和爆发](https://www.cnbeta.com/articles/science/1324781.htm) | Sat Oct 08 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;发行商华纳兄弟游戏公司和开发商蒙特利尔WB游戏公司公布了《哥谭骑士》的全新预告，该作将于10月21日发售，登陆Steam、Epic、PS5、XSX/S平台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《哥谭骑士》全新预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项新研究表明，&lt;strong&gt;病毒正在利用来自其环境的信息来“决定”何时在其宿主体内停留，何时繁殖和爆发，以杀死宿主细胞。这项工作对抗病毒药物的开发有重要意义。&lt;/strong&gt;该研究由马里兰大学巴尔的摩郡分校（UMBC）的研究人员领导，最近发表在《&lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fmicb.2022.918015/full&quot; target=&quot;_self&quot;&gt;微生物学前沿&lt;/a&gt;》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
