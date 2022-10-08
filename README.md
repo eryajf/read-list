@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [今天是世界候鸟日，来聊聊科技以外的事……](https://sspai.com/post/76066) | Sat Oct 08 2022 7:00 AM 
+- 👹 [如何理解摄影：浅议摄影的创造性](https://sspai.com/post/76044) | Sat Oct 08 2022 8:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于摄影的「创造性」解读。&lt;a href=&quot;https://sspai.com/post/76044&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [今天是世界候鸟日，来聊聊科技以外的事……](https://sspai.com/post/76066) | Sat Oct 08 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     编注：今天（10月8日）是世界候鸟日，少数派与红树林基金会在深圳福田红树林保护区拍摄了一段视频，你可以点此观看完整视频。感谢vivo为本视频提供设备支持及相关赞助。我们与候鸟大概二十年前，我从东北小城 ...&lt;a href=&quot;https://sspai.com/post/76066&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [回首 16 载，经典永流传：MacBook Pro 发展史](https://sspai.com/post/76007) | Sat Oct 08 2022 6:30 AM 
+- 🤭 [回首 16 载，经典永流传：MacBook Pro 发展史](https://sspai.com/post/76007) | Sat Oct 08 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     众所周知， MacBook Pro 本身的故事，开始于 MacBook Pro 之前。&lt;a href=&quot;https://sspai.com/post/76007&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [一日一技 | 妙用 Keynote 实现数据可视化](https://sspai.com/post/76001) | Sat Oct 08 2022 3:30 AM 
+- 🥸 [一日一技 | 妙用 Keynote 实现数据可视化](https://sspai.com/post/76001) | Sat Oct 08 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     为同一篇文章的配图，既然数据来源不同，各份报告的设计不一致，那么作者也就有统一视觉效果的责任；而相比 PS 等传统制图工具，Keynote 灵活简单，要修改文件中的数据也很方便，更是可以直接制作动画。&lt;a href=&quot;https://sspai.com/post/76001&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：Pixel 7 系列及 Pixel Watch 发布、欧洲议会通过充电器规格统一法案等](https://sspai.com/post/76061) | Sat Oct 08 2022 1:03 AM 
+- 🙉 [派早报：Pixel 7 系列及 Pixel Watch 发布、欧洲议会通过充电器规格统一法案等](https://sspai.com/post/76061) | Sat Oct 08 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
     USB-IF 简化设备规范标识，微软确认部分虚拟化功能会影响游戏表现等。&lt;a href=&quot;https://sspai.com/post/76061&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [你不曾想到的奇妙用处，「在线会议」还有这些新玩法](https://sspai.com/post/76043) | Fri Oct 07 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    这几年疫情原因，线上会议逐渐成为大家日常生活场景之一。比如公司内开会、跨公司内外，亦或是各种丰富多样的线上分享。在线会议的存在，可谓是给人们提供了最直接又方便的连接。除了开会和分享，其实在线会议也可以 ...&lt;a href=&quot;https://sspai.com/post/76043&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
