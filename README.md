@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔与SiFive共同演示高性能RISC-V Horse Creek开发板](https://www.cnbeta.com/articles/tech/1324943.htm) | Sat Oct 08 2022 10:20 AM 
+- 🕯 [AMD EPYC 9654P Genoa现身：96个Zen 4内核和3.7 GHz时钟](https://www.cnbeta.com/articles/tech/1324947.htm) | Sat Oct 08 2022 10:43 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;AMD的EPYC 9654P - Genoa CPU的第一款产品在Geekbench基准测试中被发现，它具有96个Zen 4核心，运行频率3.7 GHz。&lt;/strong&gt;AMD EPYC 9654将是Genoa EPYC 9000系列的一部分。该CPU将提供总共96个内核和192个线程，这是Genoa系列的最大内核数。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [CPU过热不一定是AMD/Intel的锅 FD召回水冷散热器](https://www.cnbeta.com/articles/tech/1324945.htm) | Sat Oct 08 2022 10:23 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;CPU性能越来越强，伴随而来的还有CPU功耗更高，发热更大，不少人都上了高端的风冷甚至水冷散热器。如果你发现了水冷也压不住CPU发热了，这锅还真不一定是AMD或者Intel要背的，可能是散热器出问题了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [英特尔与SiFive共同演示高性能RISC-V Horse Creek开发板](https://www.cnbeta.com/articles/tech/1324943.htm) | Sat Oct 08 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;去年，英特尔宣布开发Horse Creek平台，与SiFive合作开发新的高性能RISC-V开发系统，作为该公司英特尔代工服务（IFS）的一部分，并努力促进RISC-V的采用。据称，这些开发板是SiFive自己的HiFive开发板的延续，旨在发展RISC-V生态系统和加速原型开发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google分享Pixel 7 Pro 30倍超分辨率变焦样本的图库](https://www.cnbeta.com/articles/tech/1324941.htm) | Sat Oct 08 2022 10:15 AM 
+- 🚀 [Google分享Pixel 7 Pro 30倍超分辨率变焦样本的图库](https://www.cnbeta.com/articles/tech/1324941.htm) | Sat Oct 08 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;所谓的超级分辨率变焦无疑是Pixel 7 Pro相对于其前代产品的最大升级之一。它是软件、硬件和机器学习的结合，即使实际的光学长焦变焦上限为5倍，也能拍出可靠的30倍变焦照片。为了展示所谓的超级分辨率变焦的威力，Google分享了一个照片库，展示Pixel 7 Pro的能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [四名Crew-5任务空间站新成员开始了解站内生活情况](https://www.cnbeta.com/articles/science/1324939.htm) | Sat Oct 08 2022 10:10 AM 
+- 🎊 [四名Crew-5任务空间站新成员开始了解站内生活情况](https://www.cnbeta.com/articles/science/1324939.htm) | Sat Oct 08 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;周五，现在生活在国际空间站（ISS）上的11名乘员在周四SpaceX Crew-5任务抵达后度过了短暂的一天。现在，四名Crew-5成员正式成为远征68号飞行工程师，并将在未来几天内适应轨道上的生活，他们将花时间熟悉空间站系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [海天否认双标 添加剂风波影响几何？超市未下架 有下滑但好于预期](https://www.cnbeta.com/articles/tech/1324937.htm) | Sat Oct 08 2022 10:07 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国庆期间，海天味业酱油添加剂事件持续发酵，尽管一周内公司两度发布声明，但网络上质疑未断。记者从山东、湖南等地的经销商处获悉，舆论风波对调味品近期销量影响有限，超市亦未下架。有多位山东县级经销商对记者表示，销量下滑幅度好于预期。就添加剂事件及其销量影响，财联社记者致函海天味业证券部邮箱采访，截至发稿，未获回复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [浙江现全球新物种白盖鸡油菌 外形奶白色肉质坚实](https://www.cnbeta.com/articles/science/1324935.htm) | Sat Oct 08 2022 10:06 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据央视新闻今日报道，&lt;strong&gt;浙江大学生命科学学院食用菌研究所林文飞在天目山自然保护区发现一种全球新物种——白盖鸡油菌。&lt;/strong&gt;白盖鸡油菌担子果非常小，其菌盖表面光滑，稍微油腻，颜色为奶油白色至灰白色，中部凹陷，边缘不规则强烈弯曲，呈波浪状；肉质坚实；气味不明显。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
