@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果新品iPhone 14 Plus上市破发 拼多多直降500元](https://www.cnbeta.com/articles/tech/1324967.htm) | Sat Oct 08 2022 1:52 PM 
+- 🕯 [金立手机公司经营异常 未履行金额超13亿元](https://www.cnbeta.com/articles/tech/1324975.htm) | Sat Oct 08 2022 3:06 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月8日消息，天眼查显示，近日，&lt;strong&gt;深圳市金立通信设备有限公司因通过登记的住所或经营场所无法联系，被深圳市市场和质量监督管理委员会福田局列入经营异常名录。&lt;/strong&gt;该公司成立于2002年8月，注册资本2亿人民币，法定代表人、董事长、总经理为刘立荣，为第一大股东，持股41.4%。风险信息显示，&lt;strong&gt;该公司存在多个失信被执行人、限制消费令、终本案件信息，未履行金额超13亿元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [奈飞原创电影将首次登陆美国三大院线，谁会是赢家？](https://hot.cnbeta.com/articles/movie/1324973.htm) | Sat Oct 08 2022 3:02 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国主要的三家大型连锁影院将首次上映流媒体巨头奈飞（NFLX.US）的最新原创电影。10月7日，奈飞宣布与AMC院线（AMC.US）、Regal Cinemas和Cinemark（CNK.N）达成历史性的合作，标志着将奈飞电影首次登陆美国大型院线。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [孙正义并未向三星提出投资ARM建议？IPO或是其更优选择](https://www.cnbeta.com/articles/tech/1324971.htm) | Sat Oct 08 2022 3:01 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;三星拟收购软银集团旗下芯片IP设计公司ARM一事，或已实质性破灭。据路透社援引韩国当地媒体报道，当地时间10月4日，软银集团创始人兼首席执行官孙正义（Masayoshi Son）与三星掌门人李在镕（ Lee Jae-yong）进行商谈，讨论了Arm和三星电子之间的长期合作，但没有提议三星投资ARM。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [又一商界精英猝死，运动是真凶吗？](https://www.cnbeta.com/articles/tech/1324969.htm) | Sat Oct 08 2022 3:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月7日晚，华为心声社区发讣告称，公司监事会副主席丁耘先生，因突发疾病于10月7日凌晨不幸逝世，享年53岁。根据华为官网消息，丁耘1969年出生，在华为工作了26年，是华为重要的管理者之一，身兼监事会副主席、总干部部部长、企业BG总裁和运营商BG总裁等职务。其中，仅企业BG和运营商BG两项业务，每年就给华为贡献4000亿元左右的收入。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [苹果新品iPhone 14 Plus上市破发 拼多多直降500元](https://www.cnbeta.com/articles/tech/1324967.htm) | Sat Oct 08 2022 1:52 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;iPhone 14 Plus上市并未出现一机难求的情况。10月7日，苹果今年新机型iPhone 14 Plus上市就在第三方平台遭遇破发。中国证券报记者注意到，在苹果官网，iPhone 14 Plus有现货。在拼多多平台，iPhone 14 Plus领券直降500元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [《超级马力欧兄弟大电影》预告首日观看量超6100万](https://hot.cnbeta.com/articles/game/1324965.htm) | Sat Oct 08 2022 1:50 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月7日任天堂发布了《超级马力欧兄弟大电影》首支预告片，根据分析师Benji-Sales统计，预告片首日观看量超过了6100万次（不含反应和分析视频）。需要指出的是，以上统计并不准确，实际观看次数可能会更多，Facebook上IGN、星爵个人频道以及其他一些媒体的账户也都有大量观看。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [台积电季度营收仍创新高 但9月份营收环比下滑4.5%](https://www.cnbeta.com/articles/tech/1324963.htm) | Sat Oct 08 2022 1:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;代工巨头台积电披露的9月份营收站稳新台币2000亿元大关，为单月营收次高，终止连续创新高纪录。10月7日，台积电公布的数据显示：9月份合并营收为2082.48亿元（以下单位均为新台币），环比减4.5%，同比增36.4%，创下单月历史次高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [理想再添新对手 27.88万起的自游家NV发售](https://www.cnbeta.com/articles/tech/1324961.htm) | Sat Oct 08 2022 12:43 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月8日晚，自游家NIUTRON旗下首款车型NV正式开卖，共推出三款车型，&lt;strong&gt;纯电版售价27.88和31.88万元，增程版28.88万元&lt;/strong&gt;。自游家NIUTRON品牌由小牛创始人李一男创立，该车官图已经发布，与目前主流的眯眯眼造型不同，NV前脸大灯采用了复古圆形造型，而切割圆顶的设计与路虎有些异曲同工之妙，整体样式十分有特点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [NASA小型CAPSTONE月球探测器终于停止了在太空中的翻滚](https://www.cnbeta.com/articles/science/1324959.htm) | Sat Oct 08 2022 12:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国宇航局的月球探测器CAPSTONE正在重新受到控制。微波炉大小的CAPSTONE在9月8日的一次引擎点火后，已经在安全模式下运行了一个月，在地面控制的指令下，它终于停止了在顺时针方向的翻滚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
