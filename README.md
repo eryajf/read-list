@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [疑似OPPO Reno 9系列相机布局图曝光](https://www.cnbeta.com/articles/tech/1324983.htm) | Sat Oct 08 2022 7:05 PM 
+- 🕯 [泄露的英特尔酷睿Alder Lake BIOS的5.9GB源代码被发布到GitHub上](https://www.cnbeta.com/articles/tech/1324985.htm) | Sat Oct 08 2022 8:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;之前我们报道过英特尔酷睿Alder Lake BIOS的源代码已在被完整地泄露了，未压缩版本的容量有5.9GB，它似乎可能是在主板供应商工作的人泄露的，也可能是一个PC品牌的制造伙伴意外泄露的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [疑似OPPO Reno 9系列相机布局图曝光](https://www.cnbeta.com/articles/tech/1324983.htm) | Sat Oct 08 2022 7:05 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天，博主熊猫很禿然绘制了一张疑似OPPO Reno9系列的相机布局图。如图所示，&lt;strong&gt;该机的摄像头布局与OPPO Reno8 Pro相似，背部摄像头共有三颗，环形闪光灯位于右下角。&lt;/strong&gt;据爆料，OPPO Reno9系列有两款机型，&lt;strong&gt;传闻Reno9标准版搭载高通骁龙778G系列处理器，Reno9 Pro搭载联发科天玑8000系列处理器。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [为起床设多个闹钟可能会导致慢性疲劳](https://www.cnbeta.com/articles/tech/1324981.htm) | Sat Oct 08 2022 7:03 PM 
+- 💂 [为起床设多个闹钟可能会导致慢性疲劳](https://www.cnbeta.com/articles/tech/1324981.htm) | Sat Oct 08 2022 7:03 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;很多上班族和学生担心自己早上起不来，就会设置多个闹钟，&lt;strong&gt;有的人甚至每五分钟就让闹钟响一次，殊不知，这种习惯对身体并不友好。&lt;/strong&gt;研究表明，设置多个闹钟会对人造成慢性的疲劳，长期处于疲劳状态，&lt;strong&gt;不仅会降低工作效率，还会诱发疾病。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [华为P60 Pro外观照首曝光：用上骁龙8 Gen2 4G 最快明年3月见](https://www.cnbeta.com/articles/tech/1324979.htm) | Sat Oct 08 2022 7:03 PM 
+- 🚀 [华为P60 Pro外观照首曝光：用上骁龙8 Gen2 4G 最快明年3月见](https://www.cnbeta.com/articles/tech/1324979.htm) | Sat Oct 08 2022 7:03 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;日前，有数码博主爆料称，华为P60系列将于明年3-4月亮相，将搭载高通最新的骁龙8 Gen 2移动平台。爆料中还提到，P60然定位4G机型，依然缺席5G，但P60系列会搭载高通将在年底发布的旗舰SoC——骁龙8 Gen2，该博主称，P60的工程版相机部分惊喜不大，不过可以期待下软件上的新技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果公司自研调制解调器可能要到2025年才会在iPhone上出现](https://www.cnbeta.com/articles/tech/1324977.htm) | Sat Oct 08 2022 7:00 PM 
+- 🎊 [苹果公司自研调制解调器可能要到2025年才会在iPhone上出现](https://www.cnbeta.com/articles/tech/1324977.htm) | Sat Oct 08 2022 7:00 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;分析师预计，高通公司可能在未来几年内仍是苹果公司的调制解调器供应商，而使用苹果公司设计的调制解调器的iPhone的前景可能最早要推到2025年。由于2019年的专利诉讼和解，芯片制造商高通公司是苹果公司的主要调制解调器供应商，但iPhone制造商仍在推出自己的型号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [金立手机公司经营异常 未履行金额超13亿元](https://www.cnbeta.com/articles/tech/1324975.htm) | Sat Oct 08 2022 3:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月8日消息，天眼查显示，近日，&lt;strong&gt;深圳市金立通信设备有限公司因通过登记的住所或经营场所无法联系，被深圳市市场和质量监督管理委员会福田局列入经营异常名录。&lt;/strong&gt;该公司成立于2002年8月，注册资本2亿人民币，法定代表人、董事长、总经理为刘立荣，为第一大股东，持股41.4%。风险信息显示，&lt;strong&gt;该公司存在多个失信被执行人、限制消费令、终本案件信息，未履行金额超13亿元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
