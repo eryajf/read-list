@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [铁坂的守护者 《守望先锋：归来》雾子CG短片公布](https://hot.cnbeta.com/articles/game/1324789.htm) | Sat Oct 08 2022 1:47 AM 
+- 🕯 [《守望先锋2》出师不利 游戏服务器经历两天三次下线以修复问题](https://hot.cnbeta.com/articles/game/1324827.htm) | Sat Oct 08 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（10月8日），暴雪公布《守望先锋：归来》新英雄“雾子”最新动画短片，《守望先锋：归来》已于10月5日免费上线。雾子是铁坂神社的打理人，也是一名出色的忍者和医师。在岛田家族没落之后，她立誓要从无恶不作的桥元家族手中保护自己的家乡。雾子师承母亲——朝，习得了致命的忍术。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在周四两次关停《守望先锋 2》服务器，以修复某些问题之后，暴雪又在周五再次进行了维护。&lt;/strong&gt;官方表示，该游戏或在当晚 9 点前后，经历持续一个小时的停机维护。在自家论坛上的一篇帖子中，暴雪给出了详细的解释，包括针对某些较大问题的工程修复和相关更新。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [不安分的汇率：台积电与昭和电工的一喜一悲](https://www.cnbeta.com/articles/tech/1324787.htm) | Sat Oct 08 2022 1:46 AM 
+- 💼 [消息称苹果一直积极准备2纳米芯片 最早2025年量产](https://www.cnbeta.com/articles/tech/1324825.htm) | Sat Oct 08 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;进入9月份以来，台积电的订单量和议价权的微妙关系出现了一些不同寻常的变化。各种迹象显示，台积电“蛮横”的涨价能力貌似暂时告一段落，由于对个人电脑和其他消费技术设备的需求迅速放缓，台积电成熟工艺节点的利用率出现下滑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;消息人士称，苹果一直在积极准备2纳米芯片，并希望与台积电合作，为其内部开发的处理器应用新节点。据悉，苹果iPhone、iPad和Mac所搭载的自研A系列和M系列芯片都是交由芯片制造商台积电代工的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新一股冷空气节后再登场 中东部多地气温将再创新低](https://www.cnbeta.com/articles/tech/1324785.htm) | Sat Oct 08 2022 1:45 AM 
+- 💂 [《极品飞车22》中文官网上线 全新截图展示没有动漫元素的实际世界](https://hot.cnbeta.com/articles/game/1324823.htm) | Sat Oct 08 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国天气网讯 国庆假期期间，一股寒潮席卷我国中东部大部地区，带来剧烈降温。眼下寒潮影响基本收尾，但假期之后，新一股冷空气又将接踵登场，10月8日至10日将给中东部地区再次带来降温，这次华南地区气温也将明显下滑，最低气温或将普遍降至20℃以下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;推主Okami Games分享了《极品飞车22：不羁》的新截图，展示了没有开启动漫元素风格的实际画面。有玩家推测，《极品飞车22》的动漫元素很有可能仅限于人物和飙车特效，游戏世界仍然是走真实路线。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [全球海底管线陷入安全危机？](https://www.cnbeta.com/articles/tech/1324783.htm) | Sat Oct 08 2022 1:45 AM 
+- 🚀 [单人脚踩飞行器酷炫极致 定价高达近30万欧元](https://www.cnbeta.com/articles/tech/1324821.htm) | Sat Oct 08 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;瑞典安全局6日发表声明称，调查显示在瑞典专属经济区内出现泄漏的“北溪”管道有被炸药引爆的迹象，管道受到严重破坏，“可能是蓄意行为”。几天前，挪威海底电缆也出现断裂事件，进一步加剧了外界对海底管道和线缆遭攻击的担忧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;法国人弗兰克•扎帕塔可能是这个世界上最会玩的高人之一了，其研发已久的单人脚踩飞行器等经多次亮相各种秀，引发民众围观惊叹，不仅仅是因为真的酷炫，这套设备的价格同样惊人，达到了297500欧元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究：病毒利用来自环境的信息来“决定”何时在宿主体内停留、繁殖和爆发](https://www.cnbeta.com/articles/science/1324781.htm) | Sat Oct 08 2022 1:44 AM 
+- 🎊 [半导体设备景气度走到十字路口](https://www.cnbeta.com/articles/tech/1324819.htm) | Sat Oct 08 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项新研究表明，&lt;strong&gt;病毒正在利用来自其环境的信息来“决定”何时在其宿主体内停留，何时繁殖和爆发，以杀死宿主细胞。这项工作对抗病毒药物的开发有重要意义。&lt;/strong&gt;该研究由马里兰大学巴尔的摩郡分校（UMBC）的研究人员领导，最近发表在《&lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fmicb.2022.918015/full&quot; target=&quot;_self&quot;&gt;微生物学前沿&lt;/a&gt;》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“可能现在最紧缺的设备是氮气柜。”一家封测设备厂商负责人苦笑道。今年二季度，全球半导体市场营收在连续增长8个季度之后逆转，首次出现下滑。在此之前，结构性分化的趋势已经显而易见，一方面，消费电子需求萎靡迫使渠道商开始清库存，前期被爆炒的部分芯片，渠道价格开始回落；另一方面，汽车电子等半导体的供应依然紧张，甚至面临涨价压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
