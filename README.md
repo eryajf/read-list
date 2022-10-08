@@ -388,14 +388,14 @@
     前言 defaults、plutil、PlistBuddy的区别: defaults命令使用domain的概念访问plist文件，而且对命令的文件书写方式要求严格（比如不能带.plist），有的时候还 
     </details> 
 
-- 🚀 [Docker | 镜像浅析，以及制作自己的镜像](https://juejin.cn/post/7151966071342235684) | Sat Oct 08 2022 2:41 AM 
+- 🚀 [CSS进阶向--纯css实现流光边框（二）](https://juejin.cn/post/7151963567753953317) | Sat Oct 08 2022 2:31 AM 
     <details><summary>展开描述 ...</summary> 
-    我是甜点cc，本文主要讲述我对Docker镜像的理解，以及如何制作一个简单的Docker镜像。欢迎访问 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第N天，点击查看活动详情 前言 上一篇 CSS进阶向--纯css实现流光边框 实现了一个类似激光灯带的按钮边框效果，但是使用了四个 
     </details> 
 
-- 💪 [swoole（一）laravel8配置使用swoole](https://juejin.cn/post/7151965685122334756) | Sat Oct 08 2022 2:40 AM 
+- 💪 [简单实现手势缩放version 1](https://juejin.cn/post/7151820840105934855) | Fri Oct 07 2022 5:45 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天，点击查看活动详情 php安装swoole扩展请移步swoole官方网站： https://wiki.swoole.com/ 
+    简单实现图片缩放功能。通过继承ImageView，和ScaleDetector#onScale接口实现功能。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
