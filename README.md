@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华为53岁“接班人”意外离世 被称为“通信行业的重大损失”](https://www.cnbeta.com/articles/tech/1324923.htm) | Sat Oct 08 2022 8:51 AM 
+- 🕯 [英特尔与SiFive共同演示高性能RISC-V Horse Creek开发板](https://www.cnbeta.com/articles/tech/1324943.htm) | Sat Oct 08 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月7日深夜，华为心声社区的主页变成黑白样式，“华为家事”认证账号在华为内部论坛心声社区发布了一则讣告：“我们怀着沉痛的心情通知：公司监事会副主席丁耘先生因突发疾病，于2022年10月7日凌晨不幸去世，享年53岁（1969~2022）。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去年，英特尔宣布开发Horse Creek平台，与SiFive合作开发新的高性能RISC-V开发系统，作为该公司英特尔代工服务（IFS）的一部分，并努力促进RISC-V的采用。据称，这些开发板是SiFive自己的HiFive开发板的延续，旨在发展RISC-V生态系统和加速原型开发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《守望先锋：归来》上线 Gamestop开始销毁《守望先锋》光盘](https://www.cnbeta.com/articles/tech/1324921.htm) | Sat Oct 08 2022 8:50 AM 
+- 💼 [Google分享Pixel 7 Pro 30倍超分辨率变焦样本的图库](https://www.cnbeta.com/articles/tech/1324941.htm) | Sat Oct 08 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日， Gamestop员工“ksihinata”发布TikTok视频透露公司高层在内部邮件要求商店员工销毁《守望先锋》的所有PS4/X1实体光盘，由于《守望先锋：归来》（OW2）的免费推出，《守望先锋》1代的光盘彻底失去作用，目前《守望先锋》1代实体光盘只能当作收藏品看待。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;所谓的超级分辨率变焦无疑是Pixel 7 Pro相对于其前代产品的最大升级之一。它是软件、硬件和机器学习的结合，即使实际的光学长焦变焦上限为5倍，也能拍出可靠的30倍变焦照片。为了展示所谓的超级分辨率变焦的威力，Google分享了一个照片库，展示Pixel 7 Pro的能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [上市不到半个月：保时捷反超母公司大众成为欧洲市值最高车企](https://www.cnbeta.com/articles/tech/1324919.htm) | Sat Oct 08 2022 8:22 AM 
+- 💂 [四名Crew-5任务空间站新成员开始了解站内生活情况](https://www.cnbeta.com/articles/science/1324939.htm) | Sat Oct 08 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月29日，保时捷在德国法兰克福证券交易所上市，其母公司大众汽车将上市价格定为每股82.5欧元，上市后保时捷品牌估值达到750亿欧元。上市首日，保时捷的市值约为754.3亿欧元，略低于大众汽车集团，但超越了法拉利等竞争对手，不过据最新信息显示，&lt;strong&gt;保时捷已经超越大众成为欧洲最有价值汽车商，仅次于特斯拉、丰田和比亚迪&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;周五，现在生活在国际空间站（ISS）上的11名乘员在周四SpaceX Crew-5任务抵达后度过了短暂的一天。现在，四名Crew-5成员正式成为远征68号飞行工程师，并将在未来几天内适应轨道上的生活，他们将花时间熟悉空间站系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google Pixel 7 Pro拆解视频 多处胶水粘合让维修相当困难](https://www.cnbeta.com/articles/tech/1324917.htm) | Sat Oct 08 2022 8:20 AM 
+- 🚀 [海天否认双标 添加剂风波影响几何？超市未下架 有下滑但好于预期](https://www.cnbeta.com/articles/tech/1324937.htm) | Sat Oct 08 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google在10月6日的活动上宣布了其Pixel 7 Pro，并向我们展示了这款手机的能力，PBKreviews的一个新拆解视频让我们更近距离地看到了这款手机的内部。Pixel 7 Pro是Google目前最高端的智能手机，如果你从Google或其授权经销商处购买Pixel 7系列手机，Google为其提供一年的保修。然而，Google没有透露保修是否适用于意外跌落、磨损或今天的拆卸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国庆期间，海天味业酱油添加剂事件持续发酵，尽管一周内公司两度发布声明，但网络上质疑未断。记者从山东、湖南等地的经销商处获悉，舆论风波对调味品近期销量影响有限，超市亦未下架。有多位山东县级经销商对记者表示，销量下滑幅度好于预期。就添加剂事件及其销量影响，财联社记者致函海天味业证券部邮箱采访，截至发稿，未获回复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [疑似公版NVIDIA GeForce RTX 4070照片泄露 双插槽高度已确认](https://www.cnbeta.com/articles/tech/1324915.htm) | Sat Oct 08 2022 8:16 AM 
+- 🎊 [浙江现全球新物种白盖鸡油菌 外形奶白色肉质坚实](https://www.cnbeta.com/articles/science/1324935.htm) | Sat Oct 08 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据称，NVIDIA即将推出的中端GPU GeForce RTX 4070的照片已被发布到网上。名为摩尔定律已死（Moore&amp;#39;s Law is Dead）的账户发布了一张照片，展示了一块未发布的RTX 4070显卡。&lt;/strong&gt;风扇叶片的设计与RTX 4090/4080系列一致。不过与AD102/AD103 GPU不同的是，这块卡似乎要薄得多，几乎可以确定是双槽高度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据央视新闻今日报道，&lt;strong&gt;浙江大学生命科学学院食用菌研究所林文飞在天目山自然保护区发现一种全球新物种——白盖鸡油菌。&lt;/strong&gt;白盖鸡油菌担子果非常小，其菌盖表面光滑，稍微油腻，颜色为奶油白色至灰白色，中部凹陷，边缘不规则强烈弯曲，呈波浪状；肉质坚实；气味不明显。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324935.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
