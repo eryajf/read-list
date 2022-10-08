@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [使用基于 GPLv3 协议开源的软件提供 Web 服务，这个 Web 服务按协议也应该开源吗？](https://www.v2ex.com/t/885290#reply1) | Sat Oct 08 2022 7:47 AM
-- 🤗 [pandas 新手，使用 pd.cut 怎么自定义开闭区间？](https://www.v2ex.com/t/885279#reply1) | Sat Oct 08 2022 7:29 AM
-- 🎭 [阿里云的 SLB 是啥配置，是有硬件加速什么的吗](https://www.v2ex.com/t/885277#reply2) | Sat Oct 08 2022 7:27 AM
-- 🥷 [npm install 遇上 git 源如何提速?](https://www.v2ex.com/t/885275#reply10) | Sat Oct 08 2022 7:22 AM
-- 🐵 [数据结构求助](https://www.v2ex.com/t/885261#reply13) | Sat Oct 08 2022 6:45 AM<!-- v2ex:END -->
+- 🥸 [windows 环境，有无绿色的 markdown 编辑器？](https://www.v2ex.com/t/885311#reply10) | Sat Oct 08 2022 8:34 AM
+- 🤗 [使用基于 GPLv3 协议开源的软件提供 Web 服务，这个 Web 服务按协议也应该开源吗？](https://www.v2ex.com/t/885290#reply1) | Sat Oct 08 2022 7:47 AM
+- 🎭 [pandas 新手，使用 pd.cut 怎么自定义开闭区间？](https://www.v2ex.com/t/885279#reply3) | Sat Oct 08 2022 7:29 AM
+- 🥷 [阿里云的 SLB 是啥配置，是有硬件加速什么的吗](https://www.v2ex.com/t/885277#reply3) | Sat Oct 08 2022 7:27 AM
+- 🐵 [npm install 遇上 git 源如何提速?](https://www.v2ex.com/t/885275#reply13) | Sat Oct 08 2022 7:22 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
