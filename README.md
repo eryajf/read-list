@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：Pixel 7 系列及 Pixel Watch 发布、欧洲议会通过充电器规格统一法案等](https://sspai.com/post/76061) | Sat Oct 08 2022 1:03 AM 
+- 👹 [一日一技 | 妙用 Keynote 实现数据可视化](https://sspai.com/post/76001) | Sat Oct 08 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    为同一篇文章的配图，既然数据来源不同，各份报告的设计不一致，那么作者也就有统一视觉效果的责任；而相比 PS 等传统制图工具，Keynote 灵活简单，要修改文件中的数据也很方便，更是可以直接制作动画。&lt;a href=&quot;https://sspai.com/post/76001&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：Pixel 7 系列及 Pixel Watch 发布、欧洲议会通过充电器规格统一法案等](https://sspai.com/post/76061) | Sat Oct 08 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
     USB-IF 简化设备规范标识，微软确认部分虚拟化功能会影响游戏表现等。&lt;a href=&quot;https://sspai.com/post/76061&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [你不曾想到的奇妙用处，「在线会议」还有这些新玩法](https://sspai.com/post/76043) | Fri Oct 07 2022 7:00 AM 
+- 🤭 [你不曾想到的奇妙用处，「在线会议」还有这些新玩法](https://sspai.com/post/76043) | Fri Oct 07 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     这几年疫情原因，线上会议逐渐成为大家日常生活场景之一。比如公司内开会、跨公司内外，亦或是各种丰富多样的线上分享。在线会议的存在，可谓是给人们提供了最直接又方便的连接。除了开会和分享，其实在线会议也可以 ...&lt;a href=&quot;https://sspai.com/post/76043&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [Google 的新手机和第一款手表，讲的是你已经听过的老故事](https://sspai.com/post/76051) | Fri Oct 07 2022 4:00 AM 
+- 🥸 [Google 的新手机和第一款手表，讲的是你已经听过的老故事](https://sspai.com/post/76051) | Fri Oct 07 2022 4:00 AM 
     <details><summary>展开描述 ...</summary> 
     Google 秋季硬件发布会回顾。&lt;a href=&quot;https://sspai.com/post/76051&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [新玩意 122｜少数派的作者们最近买了啥？](https://sspai.com/post/76045) | Thu Oct 06 2022 6:37 AM 
+- 🙉 [新玩意 122｜少数派的作者们最近买了啥？](https://sspai.com/post/76045) | Thu Oct 06 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/76045&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [看什么 Café | 千变万化不离其宗，电影片头那些有趣「改编」](https://sspai.com/post/76017) | Thu Oct 06 2022 3:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    编者按：1895年在巴黎卡普辛路14号的大咖啡馆，卢米埃尔兄弟的短片成了咖啡馆的助兴节目，而咖啡馆也正是那时人们谈论电影和艺术的重要场所。「看什么Café」作为「本周看什么」栏目的衍生，旨在为热爱影视 ...&lt;a href=&quot;https://sspai.com/post/76017&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
