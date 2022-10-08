@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Python2 有什么不错的内存分析工具](https://www.v2ex.com/t/885352#reply1) | Sat Oct 08 2022 11:03 AM
-- 🤗 [训练 AI 模仿动漫中声优的声音，然后用 AI 给自己的视频配音，但在宣传时完全不提原来的声优，是否存在侵权风险？（可能相当于音色是否有版权？）不确定是否存在这样的技术，但非常喜欢最近在看的一部日本新番里一个角色的声音，突然很想研究这种技术](https://www.v2ex.com/t/885347#reply5) | Sat Oct 08 2022 10:40 AM
-- 🎭 [输入的提示信息怎么让大多数人容易理解](https://www.v2ex.com/t/885334#reply7) | Sat Oct 08 2022 9:44 AM
-- 🥷 [Tech Lead 的 Tech](https://www.v2ex.com/t/885330#reply2) | Sat Oct 08 2022 9:40 AM
-- 🐵 [[ Python ] 关于轮询的问题 http 还是 socketIO](https://www.v2ex.com/t/885328#reply2) | Sat Oct 08 2022 9:30 AM<!-- v2ex:END -->
+- 🥸 [家里有公网 IP，拿在做个人用的代理中继有风险吗？](https://www.v2ex.com/t/885367#reply2) | Sat Oct 08 2022 12:22 PM
+- 🤗 [Python2 有什么不错的内存分析工具](https://www.v2ex.com/t/885352#reply1) | Sat Oct 08 2022 11:03 AM
+- 🎭 [训练 AI 模仿动漫中声优的声音，然后用 AI 给自己的视频配音，但在宣传时完全不提原来的声优，是否存在侵权风险？（可能相当于音色是否有版权？）不确定是否存在这样的技术，但非常喜欢最近在看的一部日本新番里一个角色的声音，突然很想研究这种技术](https://www.v2ex.com/t/885347#reply11) | Sat Oct 08 2022 10:40 AM
+- 🥷 [输入的提示信息怎么让大多数人容易理解](https://www.v2ex.com/t/885334#reply7) | Sat Oct 08 2022 9:44 AM
+- 🐵 [Tech Lead 的 Tech](https://www.v2ex.com/t/885330#reply2) | Sat Oct 08 2022 9:40 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
