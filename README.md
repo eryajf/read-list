@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么同样是手机模拟 x86 windows， QEMU 和 ExaGear 性能差距如此之大？](https://www.v2ex.com/t/885143#reply1) | Sat Oct 08 2022 1:25 AM
-- 🤗 [国庆 7 天长假你们内卷了吗？](https://www.v2ex.com/t/885137#reply6) | Sat Oct 08 2022 1:05 AM
-- 🎭 [如何禁止支付宝自动刷脸😅](https://www.v2ex.com/t/885134#reply5) | Sat Oct 08 2022 12:58 AM
-- 🥷 [请教一下， xcode 如何让 option+delete 表现的像 vscode 一样](https://www.v2ex.com/t/885129#reply4) | Sat Oct 08 2022 12:27 AM
-- 🐵 [[ Java 笑话]public static void main&lpar;String[] args&rpar;{}](https://www.v2ex.com/t/885128#reply7) | Sat Oct 08 2022 12:24 AM<!-- v2ex:END -->
+- 🥸 [cloudflare 的验证码 Turnstile 国内稳定吗？](https://www.v2ex.com/t/885196#reply0) | Sat Oct 08 2022 3:31 AM
+- 🤗 [ArrayList.set 提示 第二个参数 element 类型是 NoThing ？](https://www.v2ex.com/t/885193#reply0) | Sat Oct 08 2022 3:27 AM
+- 🎭 [《Easy 搞定 Go 语言设计模式》&lpar;Golang 设计模式，如此简单&rpar;](https://www.v2ex.com/t/885184#reply1) | Sat Oct 08 2022 3:08 AM
+- 🥷 [ES 有没有希伯来文&lpar;hebrew&rpar;的 analyzer？](https://www.v2ex.com/t/885181#reply0) | Sat Oct 08 2022 3:01 AM
+- 🐵 [推荐 | 极度省心！ 3 个 Windows 原版 ISO 镜像下载站](https://www.v2ex.com/t/885177#reply3) | Sat Oct 08 2022 2:56 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
