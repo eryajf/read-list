@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [车机空调系统开发（HVAC），温暖一整个冬天！](https://juejin.cn/post/7152103207743782943) | Sat Oct 08 2022 11:35 AM 
+- 🤗 [Android Compose 动画使用详解&lpar;二&rpar;状态改变动画animateXxxAsState](https://juejin.cn/post/7152131735281467400) | Sat Oct 08 2022 1:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    在Compose中提供了一系列动画API，其中有一类API跟属性动画非常类似，它就是animateXxxAsState：状态改变动画，本篇将从其api的使用开始带你真正走进Compose的动画世界 
+    </details> 
+
+- 🎡 [Android中高级进阶开发面试题冲刺合集（一）](https://juejin.cn/post/7152120655238922271) | Sat Oct 08 2022 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    以下主要针对往期收录的面试题进行一个分类归纳整理，方便大家统一回顾和参考。今天是第一集（Java 基础部分）~ 
+    </details> 
+
+- 🕯 [车机空调系统开发（HVAC），温暖一整个冬天！](https://juejin.cn/post/7152103207743782943) | Sat Oct 08 2022 11:35 AM 
     <details><summary>展开描述 ...</summary> 
     前言 现在的季节除了寒冷就是炎热；而轿车作为我们重要的交通工具。空调几乎小车一启动就开启。而作为Android车载应用开发，我们要怎样去开发一款空调系统呢？ 1. HVAC 功能介绍 HVAC 全称： 
     </details> 
 
-- 🎡 [Elasticsearch：Hadoop 大数据集成 （Hadoop =＞ Elasticsearch）](https://juejin.cn/post/7152101056887914533) | Sat Oct 08 2022 11:25 AM 
+- 🚀 [Elasticsearch：Hadoop 大数据集成 （Hadoop =＞ Elasticsearch）](https://juejin.cn/post/7152101056887914533) | Sat Oct 08 2022 11:25 AM 
     <details><summary>展开描述 ...</summary> 
     在本文章中，我们将学习如何使用 Elasticsearch Hadoop 处理大量数据。 对于我们的练习，我们将使用一个简单的 Apache access 日志来表示我们的 “大数据”。 我们将学习如 
     </details> 
 
-- 🕯 [深入浅出react&lpar;带你手写一个简易版react&rpar;](https://juejin.cn/post/7152093251619520549) | Sat Oct 08 2022 10:56 AM 
+- 💪 [深入浅出react&lpar;带你手写一个简易版react&rpar;](https://juejin.cn/post/7152093251619520549) | Sat Oct 08 2022 10:56 AM 
     <details><summary>展开描述 ...</summary> 
     本篇是进阶学习react的首篇文章，带你一起手写实现react的基本工作流程，包含工作单元，fiber，函数组件，hook实现等等，快来学一学吧 
-    </details> 
-
-- 🚀 [性能大PK count&lpar;*&rpar;、count&lpar;1&rpar;和count&lpar;列&rpar;](https://juejin.cn/post/7152086171244298254) | Sat Oct 08 2022 10:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 最近的工作中，我听到组内两名研发同学在交流数据统计性能的时候，聊到了以下内容： 有点儿好奇，难道 count&lpar;1&rpar; 的性能真的就比 count&lpar;*&rpar; 要好吗？ 
-    </details> 
-
-- 💪 [Dubbo Mesh 总体技术架构方案](https://juejin.cn/post/7152080476650340365) | Sat Oct 08 2022 10:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    Dubbo Mesh 作为 Dubbo 全面拥抱云原生的又一个里程碑项目，将为 Dubbo 用户提供平滑升级到 Service Mesh 架构的解决方案，同时继续基于 Dubbo 强大可扩展性底座提供 
     </details> 
 <!-- juejin:END -->
 ### 少数派
