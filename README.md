@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《守望先锋2》出师不利 游戏服务器经历两天三次下线以修复问题](https://hot.cnbeta.com/articles/game/1324827.htm) | Sat Oct 08 2022 3:25 AM 
+- 🕯 [多美女阵容《蜘蛛夫人》新片场照 达妹亮相](https://hot.cnbeta.com/articles/movie/1324835.htm) | Sat Oct 08 2022 4:28 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日超级英雄新片《蜘蛛夫人》新片场照曝光，“达妹”达科塔·约翰逊亮相，男主造型也随之曝光，一起来欣赏下吧！《蜘蛛夫人》是索尼的漫威角色宇宙中第一部以女性为主角的超英电影，由S·J·克拉克森执导，达科塔·约翰逊、西德妮·斯威尼、塞莱斯特·奥康纳等主演，定档于2023年10月6日在北美上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《极品飞车22：不羁》完整车型列表：有143辆车可供收集和定制](https://hot.cnbeta.com/articles/game/1324833.htm) | Sat Oct 08 2022 4:10 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《极品飞车22：不羁》将于12月2日登陆PC、PS5和XSX/S平台。该作已上架Steam平台，标准版248元，豪华版288元。EA已确认游戏里有143辆车可供收集和定制，包含灵活小巧的欧洲车，马力强劲的美国肌肉车，以及超跑等。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [《名侦探柯南：警校篇》新章确定10月29日开播](https://hot.cnbeta.com/articles/comic/1324831.htm) | Sat Oct 08 2022 4:02 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;讲述正篇中人气超绝的安室透＝降谷零在警校时的故事，《名侦探柯南》外传警察学校篇第4弹《CASE. 诸伏景光》官方宣布将于10月29日开播，敬请期待。《名侦探柯南 警察学校篇》由青山刚昌负责全面监修，新井隆广作画，以《名侦探柯南》中的降谷零（安室透）以及与他同期的松田阵平、伊达航、萩原研二、诸伏景光为主角的官方外传。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1324831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [配件制造商在正式发布前开始销售重新设计的第10代iPad的保护壳](https://www.cnbeta.com/articles/tech/1324829.htm) | Sat Oct 08 2022 3:39 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据9to5Mac报道，有传言称，苹果将在本月晚些时候推出iPad新品。现在，&lt;strong&gt;配件制造商已经开始在正式发布之前销售重新设计的（并且不存在的）第10代 iPad 的保护壳，这表明新产品确实即将推出。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [《守望先锋2》出师不利 游戏服务器经历两天三次下线以修复问题](https://hot.cnbeta.com/articles/game/1324827.htm) | Sat Oct 08 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;在周四两次关停《守望先锋 2》服务器，以修复某些问题之后，暴雪又在周五再次进行了维护。&lt;/strong&gt;官方表示，该游戏或在当晚 9 点前后，经历持续一个小时的停机维护。在自家论坛上的一篇帖子中，暴雪给出了详细的解释，包括针对某些较大问题的工程修复和相关更新。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [消息称苹果一直积极准备2纳米芯片 最早2025年量产](https://www.cnbeta.com/articles/tech/1324825.htm) | Sat Oct 08 2022 3:18 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;消息人士称，苹果一直在积极准备2纳米芯片，并希望与台积电合作，为其内部开发的处理器应用新节点。据悉，苹果iPhone、iPad和Mac所搭载的自研A系列和M系列芯片都是交由芯片制造商台积电代工的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [《极品飞车22》中文官网上线 全新截图展示没有动漫元素的实际世界](https://hot.cnbeta.com/articles/game/1324823.htm) | Sat Oct 08 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;推主Okami Games分享了《极品飞车22：不羁》的新截图，展示了没有开启动漫元素风格的实际画面。有玩家推测，《极品飞车22》的动漫元素很有可能仅限于人物和飙车特效，游戏世界仍然是走真实路线。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [单人脚踩飞行器酷炫极致 定价高达近30万欧元](https://www.cnbeta.com/articles/tech/1324821.htm) | Sat Oct 08 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;法国人弗兰克•扎帕塔可能是这个世界上最会玩的高人之一了，其研发已久的单人脚踩飞行器等经多次亮相各种秀，引发民众围观惊叹，不仅仅是因为真的酷炫，这套设备的价格同样惊人，达到了297500欧元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [半导体设备景气度走到十字路口](https://www.cnbeta.com/articles/tech/1324819.htm) | Sat Oct 08 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“可能现在最紧缺的设备是氮气柜。”一家封测设备厂商负责人苦笑道。今年二季度，全球半导体市场营收在连续增长8个季度之后逆转，首次出现下滑。在此之前，结构性分化的趋势已经显而易见，一方面，消费电子需求萎靡迫使渠道商开始清库存，前期被爆炒的部分芯片，渠道价格开始回落；另一方面，汽车电子等半导体的供应依然紧张，甚至面临涨价压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
