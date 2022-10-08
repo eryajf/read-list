@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [台积电季度营收仍创新高 但9月份营收环比下滑4.5%](https://www.cnbeta.com/articles/tech/1324963.htm) | Sat Oct 08 2022 1:21 PM 
+- 🕯 [苹果新品iPhone 14 Plus上市破发 拼多多直降500元](https://www.cnbeta.com/articles/tech/1324967.htm) | Sat Oct 08 2022 1:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;iPhone 14 Plus上市并未出现一机难求的情况。10月7日，苹果今年新机型iPhone 14 Plus上市就在第三方平台遭遇破发。中国证券报记者注意到，在苹果官网，iPhone 14 Plus有现货。在拼多多平台，iPhone 14 Plus领券直降500元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《超级马力欧兄弟大电影》预告首日观看量超6100万](https://hot.cnbeta.com/articles/game/1324965.htm) | Sat Oct 08 2022 1:50 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月7日任天堂发布了《超级马力欧兄弟大电影》首支预告片，根据分析师Benji-Sales统计，预告片首日观看量超过了6100万次（不含反应和分析视频）。需要指出的是，以上统计并不准确，实际观看次数可能会更多，Facebook上IGN、星爵个人频道以及其他一些媒体的账户也都有大量观看。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [台积电季度营收仍创新高 但9月份营收环比下滑4.5%](https://www.cnbeta.com/articles/tech/1324963.htm) | Sat Oct 08 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;代工巨头台积电披露的9月份营收站稳新台币2000亿元大关，为单月营收次高，终止连续创新高纪录。10月7日，台积电公布的数据显示：9月份合并营收为2082.48亿元（以下单位均为新台币），环比减4.5%，同比增36.4%，创下单月历史次高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [理想再添新对手 27.88万起的自游家NV发售](https://www.cnbeta.com/articles/tech/1324961.htm) | Sat Oct 08 2022 12:43 PM 
+- 🚀 [理想再添新对手 27.88万起的自游家NV发售](https://www.cnbeta.com/articles/tech/1324961.htm) | Sat Oct 08 2022 12:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;10月8日晚，自游家NIUTRON旗下首款车型NV正式开卖，共推出三款车型，&lt;strong&gt;纯电版售价27.88和31.88万元，增程版28.88万元&lt;/strong&gt;。自游家NIUTRON品牌由小牛创始人李一男创立，该车官图已经发布，与目前主流的眯眯眼造型不同，NV前脸大灯采用了复古圆形造型，而切割圆顶的设计与路虎有些异曲同工之妙，整体样式十分有特点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NASA小型CAPSTONE月球探测器终于停止了在太空中的翻滚](https://www.cnbeta.com/articles/science/1324959.htm) | Sat Oct 08 2022 12:41 PM 
+- 🎊 [NASA小型CAPSTONE月球探测器终于停止了在太空中的翻滚](https://www.cnbeta.com/articles/science/1324959.htm) | Sat Oct 08 2022 12:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;美国宇航局的月球探测器CAPSTONE正在重新受到控制。微波炉大小的CAPSTONE在9月8日的一次引擎点火后，已经在安全模式下运行了一个月，在地面控制的指令下，它终于停止了在顺时针方向的翻滚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [国庆假期国内旅游出游4.22亿人次 已恢复至2019年的60%水平](https://www.cnbeta.com/articles/tech/1324957.htm) | Sat Oct 08 2022 12:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国庆七天假期已经过去，今年很多人依然选择了出门旅游，这次的旅游行业表现如何？文化和旅游部公布了相关数据，国庆假期国内旅游出游4.22亿人次。经文化和旅游部数据中心测算，2022年国庆节假期7天，&lt;strong&gt;全国国内旅游出游4.22亿人次，同比减少18.2%，按可比口径恢复至2019年同期的60.7%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [椰树集团直播带货风格引争议 网友称将擦边进行到底](https://www.cnbeta.com/articles/tech/1324955.htm) | Sat Oct 08 2022 12:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，椰树集团开始直播带货，但直播间风格却引得网友吐槽。有网友称椰树集团的营销“一直行走在擦边最前沿”，也有网友认为，还是熟悉的配方。&lt;/strong&gt;值得一提的是，椰树集团因争议性广告曾多次被罚款整改。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
