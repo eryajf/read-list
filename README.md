@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [AYVY 1.21.1 图片查看工具](https://xclient.info/s/ayvy.html) | Sat Oct 08 2022 2:47 AM 
+- 🦏 [CheckBook Pro 2.7.10 个人理财工具](https://xclient.info/s/checkbook-pro.html) | Sat Oct 08 2022 4:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    CheckBook Pro 是一个Mac平台的个人理财工具，界面友好，轻松管理我们的财务信息，支持所有功能，在支票簿，我们有力的简单的个人财务管理。 
+    </details> 
+
+-  [AYVY 1.21.1 图片查看工具](https://xclient.info/s/ayvy.html) | Sat Oct 08 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
     AYVY是Mac电脑上的一款简单快速的图片查看工具，它可以满足您的所有需求。 
     </details> 
 
--  [Navicat Premium Essentials 16.1.3 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Sat Oct 08 2022 2:46 AM 
+- ⚗️ [Navicat Premium Essentials 16.1.3 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Sat Oct 08 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
     Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
     </details> 
 
-- ⚗️ [Wondershare Filmora X 11.7.3 优秀的视频编辑工具](https://xclient.info/s/filmora.html) | Sat Oct 08 2022 2:44 AM 
+- 🔥 [Wondershare Filmora X 11.7.3 优秀的视频编辑工具](https://xclient.info/s/filmora.html) | Sat Oct 08 2022 2:44 AM 
     <details><summary>展开描述 ...</summary> 
     Wondershare Filmora是一款由Wondershare出品的优秀的视频编辑工具，简单易用。 
     </details> 
 
-- 🔥 [Scrutiny 12.4.7 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Sat Oct 08 2022 2:42 AM 
+- 🌋 [Scrutiny 12.4.7 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Sat Oct 08 2022 2:42 AM 
     <details><summary>展开描述 ...</summary> 
     Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
-    </details> 
-
-- 🌋 [Photos Exif Editor 2.17 照片元数据编辑](https://xclient.info/s/photos-exif-editor.html) | Sat Oct 08 2022 2:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    Photos Exif Editor照片EXIF编辑器是一个直观的应用程序，可以在任何时间编辑数千张照片的EXIF，IPTC和XMP数据！ 
     </details> 
 <!-- xclient:END -->
 
