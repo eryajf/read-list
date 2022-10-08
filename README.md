@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [🎁 获奖名单公示-码上掘金挑战赛](https://juejin.cn/post/7152073188359766024) | Sat Oct 08 2022 9:37 AM 
+- 🤗 [写给小白的Figma插件开发教程（1）](https://juejin.cn/post/7152075320584044558) | Sat Oct 08 2022 9:45 AM 
     <details><summary>展开描述 ...</summary> 
-    码上掘金挑战赛于9月25日正式落下帷幕，经历了一个国庆假期，获奖名单也已经出来了，来看看你获奖了没？ 
+    1、为什么有这一篇？ 作为一个前端，肯定会有 UI 给你出设计图，大概率会用到 Figma，或者 类似的产品，简单来说你就是需要将这个图还原到网页/app内 Figma 大概这样&lpar;登陆后&rpar; ps: 如 
     </details> 
 
-- 🎡 [带你可视化理解go内存](https://juejin.cn/post/7152051732846116895) | Sat Oct 08 2022 8:13 AM 
+- 🎡 [Netty系列（一）：基础概念及体系结构](https://juejin.cn/post/7152061881581043719) | Sat Oct 08 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-    导语 | 本文推选自腾讯云开发者社区-【技思广益 · 腾讯技术人原创集】专栏。该专栏是腾讯云开发者社区为腾讯技术人与广泛开发者打造的分享交流窗口。栏目邀约腾讯技术人分享原创的技术积淀，与广泛开发者互启 
+    我正在参加「掘金·启航计划」 Netty系列（一）：基础概念及体系结构 1、什么是Netty 2、JDK 原生 NIO 程序的问题 JDK 原生也有一套网络应用程序 API，但是存在一系列问题，主要如 
     </details> 
 
-- 🕯 [KubeSphere 社区双周报 | 功能亮点抢“鲜”看 | 2022-09-30](https://juejin.cn/post/7152050484038074398) | Sat Oct 08 2022 8:08 AM 
+- 🕯 [DeepRec 大规模稀疏模型训练推理引擎](https://juejin.cn/post/7152060878983004174) | Sat Oct 08 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-    KubeSphere 从诞生的第一天起便秉持着开源、开放的理念，并且以社区的方式成长，如今 KubeSphere 已经成为全球最受欢迎的开源容器平台之一。这些都离不开社区小伙伴的共同努力，你们为 K 
+    导读： 本文将以下三个方面展开介绍： DeepRec背景（我们为什么要做DeepRec） DeepRec功能（设计动机和实现） DeepRec社区（最新发布的2206版本主要功能） DeepRec背景 
     </details> 
 
-- 🚀 [Flowable 流程实例的挂起（暂停）与激活](https://juejin.cn/post/7152048723894206472) | Sat Oct 08 2022 8:01 AM 
+- 🚀 [5 分钟完成 ZooKeeper 数据迁移](https://juejin.cn/post/7152059814938411021) | Sat Oct 08 2022 8:45 AM 
     <details><summary>展开描述 ...</summary> 
-    今天来和小伙伴们聊一聊流程的挂起和激活。 这块实际上涉及到两部分内容： 流程定义的挂起和激活。 流程实例的挂起和激活。 一个定义好的流程，如果挂起了，那么就无法据此创建新的流程。 一个流程实例如果挂起 
+    MSE 提供了多种数据迁移的方案，其中主流的方案可以通过 MSE Sync 进行实时同步，这样能够达到平滑不停机的目的，本文将介绍另外一种数据迁移的方式，主要针对业务支持停机的场景，进行一个补充，操作 
     </details> 
 
-- 💪 [Vue3组件库打包指南，一次生成esm、esm-bundle、commonjs、umd四种格式](https://juejin.cn/post/7152045316294836260) | Sat Oct 08 2022 7:48 AM 
+- 💪 [InnoDB行格式详解，看这一文就够了](https://juejin.cn/post/7152058786662842399) | Sat Oct 08 2022 8:41 AM 
     <details><summary>展开描述 ...</summary> 
-    读完本文，你可以了解到如何将Vue3组件库打包成esm、esm-bundle、commonjs、umd四种格式。 
+    我们平时是以记录为单位来向表中插入数据的，这些记录在磁盘上的存放方式被称为行格式或者记录格式，行格式分别是compact、redundant、dynamic和compressed行格式。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
