@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Acqui - 在巴西收购 beta 和小型初创公司的市场](https://xinquji.com/posts/180284?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:28 AM 
+- 👀 [一帧秒创 - 为图文创作者和营销机构提供一键图文转视频（TTV）服务](https://xinquji.com/posts/179836?utm_campaign=xinquji-rss) | Sun Oct 09 2022 8:05 AM 
+    <details><summary>展开描述 ...</summary> 
+     为图文创作者和营销机构提供一键图文转视频（TTV）服务  
+    </details> 
+
+- 🥷 [Digital Checklist - 检查您的数字安全的简单清单](https://xinquji.com/posts/180287?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:32 AM 
+    <details><summary>展开描述 ...</summary> 
+     检查您的数字安全的简单清单  
+    </details> 
+
+- 💼 [The 2hO Network - 一个安全的远程网络，让您在全球范围内保持联系](https://xinquji.com/posts/180286?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     一个安全的远程网络，让您在全球范围内保持联系  
+    </details> 
+
+- 🦅 [Sweetjab - 结合来自 GitHub 的问题和拉取请求](https://xinquji.com/posts/180285?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:29 AM 
+    <details><summary>展开描述 ...</summary> 
+     结合来自 GitHub 的问题和拉取请求  
+    </details> 
+
+- 😺 [Acqui - 在巴西收购 beta 和小型初创公司的市场](https://xinquji.com/posts/180284?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
      在巴西收购 beta 和小型初创公司的市场  
-    </details> 
-
-- 🥷 [Leadpals - 每个月都有新客户](https://xinquji.com/posts/180283?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:27 AM 
-    <details><summary>展开描述 ...</summary> 
-     每个月都有新客户  
-    </details> 
-
-- 💼 [Quotier - 报价 API](https://xinquji.com/posts/180282?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:26 AM 
-    <details><summary>展开描述 ...</summary> 
-     报价 API  
-    </details> 
-
-- 🦅 [Ethsock: Token Transfer - 可视化以太坊中的代币转移，一次一个区块](https://xinquji.com/posts/180281?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:25 AM 
-    <details><summary>展开描述 ...</summary> 
-     可视化以太坊中的代币转移，一次一个区块  
-    </details> 
-
-- 😺 [HackerTest - 帮助您准备技术面试的指南](https://xinquji.com/posts/180280?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:24 AM 
-    <details><summary>展开描述 ...</summary> 
-     帮助您准备技术面试的指南  
     </details> 
 <!-- xinquji:END -->
