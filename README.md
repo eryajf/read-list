@@ -378,24 +378,24 @@
     #极客观点 聚焦于技术方向、程序员职业发展、个人成长等主题，致力于发起有价值的讨论，输出有价值的观点... 
     </details> 
 
-- 🎡 [111.二叉树的最小深度](https://juejin.cn/post/7152160227389866014) | Sat Oct 08 2022 3:16 PM 
+- 🎡 [满地坑！细数关于日志的10个问题](https://juejin.cn/post/7152173254734512141) | Sat Oct 08 2022 4:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    如果你是一名后端开发人员，想必应该非常清楚在应用系统运行期间，打印日志有多么重要。 它不但能够记录服务运行情况及轨迹，还有助于提升故障排查及定位问题的效率，甚至还可以对其进行分析及监控，洞察系统隐患。 
+    </details> 
+
+- 🕯 [[教你做小游戏] 极致压缩：用2至5位二进制表示17种可能性](https://juejin.cn/post/7152171490207596558) | Sat Oct 08 2022 3:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    车和炮有17个可移动范围，我需要用二进制来描述。基于可变长二进制，这17种可能性，我平均用了4.12个bit位就表示了。快来学习一下吧！ 
+    </details> 
+
+- 🚀 [111.二叉树的最小深度](https://juejin.cn/post/7152160227389866014) | Sat Oct 08 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
     题目： 给定一个二叉树，找出其最小深度。 最小深度是从根节点到最近叶子节点的最短路径上的节点数量。 说明： 叶子节点是指没有子节点的节点。 解法： 
     </details> 
 
-- 🕯 [649.Dota2 参议院](https://juejin.cn/post/7152152604268003359) | Sat Oct 08 2022 2:46 PM 
+- 💪 [649.Dota2 参议院](https://juejin.cn/post/7152152604268003359) | Sat Oct 08 2022 2:46 PM 
     <details><summary>展开描述 ...</summary> 
     题目： Dota2 的世界里有两个阵营：Radiant&lpar;天辉&rpar;和 Dire&lpar;夜魇&rpar; Dota2 参议院由来自两派的参议员组成。现在参议院希望对一个 Dota2 游戏里的改变作出决定。他们以一个基于轮为 
-    </details> 
-
-- 🚀 [24. ES6 模块Module 的语法](https://juejin.cn/post/7152149326897086472) | Sat Oct 08 2022 2:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    1.JavaScript模块（module）概述 历史上，JavaScript 一直没有模块（module）体系，无法将一个大程序拆分成互相依赖的小文件，再用简单的方法拼装起来。其他语言都有这项功能， 
-    </details> 
-
-- 💪 [为什么今年许多Java后端选择了Android开发？](https://juejin.cn/post/7152141954040463368) | Sat Oct 08 2022 2:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    家人们，史上最难就业季来袭： 大厂不断裁员、开始缩招锁hc 简历被刷、实习留用被鸽 …… 今年受到疫情和经济市场的影响，就业市场非常不乐观： 互联网陷入“寒冬”，字节、腾讯、虾皮等大厂不断裁员、缩招… 
     </details> 
 <!-- juejin:END -->
 ### 少数派
