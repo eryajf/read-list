@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Polestar Q3交付9215辆汽车 今年迄今为止交付超3万辆](https://www.cnbeta.com/articles/tech/1324873.htm) | Sat Oct 08 2022 7:19 AM 
+- 🕯 [上市不到半个月：保时捷反超母公司大众成为欧洲市值最高车企](https://www.cnbeta.com/articles/tech/1324919.htm) | Sat Oct 08 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;吉利控股集团旗下高端电动汽车品牌Polestar（中文名“极星”）宣布，其在2022年第三季度交付了9215辆汽车，这使该公司今年迄今为止的总交付量达到30400辆。&lt;/strong&gt;相比之下，该公司在2022年第二季度交付了9410辆汽车，略高于第三季度，在2022年第一季度交付了11790辆汽车，远高于第三季度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月29日，保时捷在德国法兰克福证券交易所上市，其母公司大众汽车将上市价格定为每股82.5欧元，上市后保时捷品牌估值达到750亿欧元。上市首日，保时捷的市值约为754.3亿欧元，略低于大众汽车集团，但超越了法拉利等竞争对手，不过据最新信息显示，&lt;strong&gt;保时捷已经超越大众成为欧洲最有价值汽车商，仅次于特斯拉、丰田和比亚迪&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《大富翁11》新增挑战模式 卡片系统升级](https://hot.cnbeta.com/articles/game/1324871.htm) | Sat Oct 08 2022 7:16 AM 
+- 💼 [Google Pixel 7 Pro拆解视频 多处胶水粘合让维修相当困难](https://www.cnbeta.com/articles/tech/1324917.htm) | Sat Oct 08 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《大富翁》系列作为享誉全球华人群体30多年的强手棋游戏，预计将于今年（2022）内于PC与NS平台发布最新作《大富翁11》，最新作首发14位经典角色，在12张地图上争夺大富翁的荣誉，Steam平台预约页面已上线，快快加入心愿单，一起成为大富翁。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google在10月6日的活动上宣布了其Pixel 7 Pro，并向我们展示了这款手机的能力，PBKreviews的一个新拆解视频让我们更近距离地看到了这款手机的内部。Pixel 7 Pro是Google目前最高端的智能手机，如果你从Google或其授权经销商处购买Pixel 7系列手机，Google为其提供一年的保修。然而，Google没有透露保修是否适用于意外跌落、磨损或今天的拆卸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [CDPR首席技术官：未来将在所有平台上测试新作](https://hot.cnbeta.com/articles/game/1324869.htm) | Sat Oct 08 2022 7:14 AM 
+- 💂 [疑似公版NVIDIA GeForce RTX 4070照片泄露 双插槽高度已确认](https://www.cnbeta.com/articles/tech/1324915.htm) | Sat Oct 08 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;《赛博朋克2077》开发商CDPR在一次深度采访中透露，他们未来将在多个平台上测试其产品的质量，而不仅仅只是PC端。&lt;/strong&gt;CDPR的首席技术官Patel zawdyn表示：“开发过程中遇到的主要风险与所有目标平台上的稳定性和性能有关，我们从一开始就在每个平台上测试游戏玩法质量，并不只关注开发者的PC版本。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1324869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据称，NVIDIA即将推出的中端GPU GeForce RTX 4070的照片已被发布到网上。名为摩尔定律已死（Moore&amp;#39;s Law is Dead）的账户发布了一张照片，展示了一块未发布的RTX 4070显卡。&lt;/strong&gt;风扇叶片的设计与RTX 4090/4080系列一致。不过与AD102/AD103 GPU不同的是，这块卡似乎要薄得多，几乎可以确定是双槽高度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [字节跳动2021年收入4391亿元 净亏损6041亿元 研发支出1039亿元](https://www.cnbeta.com/articles/tech/1324867.htm) | Sat Oct 08 2022 7:11 AM 
+- 🚀 [真·拿嘴做视频：Meta“AI导演”一句话搞定视频素材](https://www.cnbeta.com/articles/tech/1324913.htm) | Sat Oct 08 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据《华尔街日报》报道，字节跳动向员工披露的一份财报显示， 字节跳动2021年收入增长近80%达到617亿美元（4390.6亿人民币）。据报告声称，主要是由于那些证券的会计处理，字节跳动2021年的净亏损增加了87%以上，达到849亿美元（6041.48 亿人民币）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你以为这是哪部纪录片的画面？No，No，No！视频里的每一帧，都是AI生成的。还是你告诉它，来段“画笔在画布上的特写”，它就能直接整出画面的那种。不仅能无中生画笔，按着马头喝水也不是不可以。同样是一句“马儿喝水”，这只AI就抛出了这样的画面：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [蔚来欧洲发布会举行 推出长期租车业务 月租费用近万](https://www.cnbeta.com/articles/tech/1324865.htm) | Sat Oct 08 2022 7:09 AM 
+- 🎊 [“十周年”发布会展望：Surface Pro 9、Laptop 5和Studio 3或闪亮登场](https://www.cnbeta.com/articles/tech/1324911.htm) | Sat Oct 08 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NIO Berlin蔚来欧洲发布会在德国柏林正式举行。据悉，此次发布会上，蔚来宣布产品、全体系服务和创新商业模式在德国、荷兰、瑞典和丹麦市场落地。此外，蔚来官方还强调了打造全球化用户社区的重要性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2012 年 10 月，微软发布了首款 Surface 产品。&lt;strong&gt;而美东时间 2022 年 10 月 12 日（周三）上午 10 点，该公司即将发布十周年新品 —— 预计包括智能机、笔记本电脑、变形本、台式机，以及相关配件。&lt;/strong&gt;不过在此之前，TheVerge 已经对本轮硬件更新大举展望了一番。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
