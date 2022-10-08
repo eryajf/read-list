@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [cloudflare 的验证码 Turnstile 国内稳定吗？](https://www.v2ex.com/t/885196#reply0) | Sat Oct 08 2022 3:31 AM
-- 🤗 [ArrayList.set 提示 第二个参数 element 类型是 NoThing ？](https://www.v2ex.com/t/885193#reply0) | Sat Oct 08 2022 3:27 AM
-- 🎭 [《Easy 搞定 Go 语言设计模式》&lpar;Golang 设计模式，如此简单&rpar;](https://www.v2ex.com/t/885184#reply1) | Sat Oct 08 2022 3:08 AM
-- 🥷 [ES 有没有希伯来文&lpar;hebrew&rpar;的 analyzer？](https://www.v2ex.com/t/885181#reply0) | Sat Oct 08 2022 3:01 AM
-- 🐵 [推荐 | 极度省心！ 3 个 Windows 原版 ISO 镜像下载站](https://www.v2ex.com/t/885177#reply3) | Sat Oct 08 2022 2:56 AM<!-- v2ex:END -->
+- 🥸 [现在做 html 的静态网站还有前途吗？](https://www.v2ex.com/t/885201#reply14) | Sat Oct 08 2022 3:39 AM
+- 🤗 [cloudflare 的验证码 Turnstile 国内稳定吗？](https://www.v2ex.com/t/885196#reply0) | Sat Oct 08 2022 3:31 AM
+- 🎭 [ArrayList.set 提示 第二个参数 element 类型是 NoThing ？](https://www.v2ex.com/t/885193#reply0) | Sat Oct 08 2022 3:27 AM
+- 🥷 [《Easy 搞定 Go 语言设计模式》&lpar;Golang 设计模式，如此简单&rpar;](https://www.v2ex.com/t/885184#reply1) | Sat Oct 08 2022 3:08 AM
+- 🐵 [ES 有没有希伯来文&lpar;hebrew&rpar;的 analyzer？](https://www.v2ex.com/t/885181#reply0) | Sat Oct 08 2022 3:01 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
