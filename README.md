@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国庆假期国内旅游出游4.22亿人次 已恢复至2019年的60%水平](https://www.cnbeta.com/articles/tech/1324957.htm) | Sat Oct 08 2022 12:18 PM 
+- 🕯 [台积电季度营收仍创新高 但9月份营收环比下滑4.5%](https://www.cnbeta.com/articles/tech/1324963.htm) | Sat Oct 08 2022 1:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;代工巨头台积电披露的9月份营收站稳新台币2000亿元大关，为单月营收次高，终止连续创新高纪录。10月7日，台积电公布的数据显示：9月份合并营收为2082.48亿元（以下单位均为新台币），环比减4.5%，同比增36.4%，创下单月历史次高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [理想再添新对手 27.88万起的自游家NV发售](https://www.cnbeta.com/articles/tech/1324961.htm) | Sat Oct 08 2022 12:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月8日晚，自游家NIUTRON旗下首款车型NV正式开卖，共推出三款车型，&lt;strong&gt;纯电版售价27.88和31.88万元，增程版28.88万元&lt;/strong&gt;。自游家NIUTRON品牌由小牛创始人李一男创立，该车官图已经发布，与目前主流的眯眯眼造型不同，NV前脸大灯采用了复古圆形造型，而切割圆顶的设计与路虎有些异曲同工之妙，整体样式十分有特点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [NASA小型CAPSTONE月球探测器终于停止了在太空中的翻滚](https://www.cnbeta.com/articles/science/1324959.htm) | Sat Oct 08 2022 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国宇航局的月球探测器CAPSTONE正在重新受到控制。微波炉大小的CAPSTONE在9月8日的一次引擎点火后，已经在安全模式下运行了一个月，在地面控制的指令下，它终于停止了在顺时针方向的翻滚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [国庆假期国内旅游出游4.22亿人次 已恢复至2019年的60%水平](https://www.cnbeta.com/articles/tech/1324957.htm) | Sat Oct 08 2022 12:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;国庆七天假期已经过去，今年很多人依然选择了出门旅游，这次的旅游行业表现如何？文化和旅游部公布了相关数据，国庆假期国内旅游出游4.22亿人次。经文化和旅游部数据中心测算，2022年国庆节假期7天，&lt;strong&gt;全国国内旅游出游4.22亿人次，同比减少18.2%，按可比口径恢复至2019年同期的60.7%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [椰树集团直播带货风格引争议 网友称将擦边进行到底](https://www.cnbeta.com/articles/tech/1324955.htm) | Sat Oct 08 2022 12:17 PM 
+- 🎊 [椰树集团直播带货风格引争议 网友称将擦边进行到底](https://www.cnbeta.com/articles/tech/1324955.htm) | Sat Oct 08 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;近日，椰树集团开始直播带货，但直播间风格却引得网友吐槽。有网友称椰树集团的营销“一直行走在擦边最前沿”，也有网友认为，还是熟悉的配方。&lt;/strong&gt;值得一提的是，椰树集团因争议性广告曾多次被罚款整改。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [陌陌签约主播在抖音直播被索赔千万违约金：一审判赔300万](https://hot.cnbeta.com/articles/movie/1324953.htm) | Sat Oct 08 2022 12:17 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月8日消息，据澎湃新闻报道，中国裁判文书网公布的判决书显示，2019年10月17日，原告天津合尔公司（陌陌科技全资子公司）与被告秦某某签订了《王牌主播直播协议》。&lt;strong&gt;约定甲方系乙方直播演艺或同类型节目的独家合作伙伴；&lt;/strong&gt;合作期限为3年，从2019年10月17日起至2022年10月16日止。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [遭遇“妓女”“荡妇”羞辱，谁能切除网暴毒瘤？](https://www.cnbeta.com/articles/tech/1324951.htm) | Sat Oct 08 2022 12:16 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2014年，销声匿迹多年的美国白宫前实习生莱温斯基重回公众视野。莱温斯基曾于1998年卷入与时任美国总统克林顿的性丑闻，并最终导致对方被国会弹劾。通过演讲和撰写署名文章，莱温斯基称自己很可能是遭受全球性网络欺凌的第一人。丑闻中的她，曾被贴上了“妓女”“荡妇”“蠢女人”等标签。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [铁打的苹果流水的供应链：大陆供应商7进8出背后](https://www.cnbeta.com/articles/tech/1324949.htm) | Sat Oct 08 2022 11:31 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在消费电子市场一片萧瑟之下，苹果iPhone 14 Pro系列的火爆再次证明了一个事实：需求只会迟到，但绝不会消失。回望苹果公司走过的40多年，如果说乔布斯代表了它的仰望星空，那么库克则更多代表了脚踏实地的部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
