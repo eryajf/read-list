@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AMD EPYC 9654P Genoa现身：96个Zen 4内核和3.7 GHz时钟](https://www.cnbeta.com/articles/tech/1324947.htm) | Sat Oct 08 2022 10:43 AM 
+- 🕯 [国庆假期国内旅游出游4.22亿人次 已恢复至2019年的60%水平](https://www.cnbeta.com/articles/tech/1324957.htm) | Sat Oct 08 2022 12:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;AMD的EPYC 9654P - Genoa CPU的第一款产品在Geekbench基准测试中被发现，它具有96个Zen 4核心，运行频率3.7 GHz。&lt;/strong&gt;AMD EPYC 9654将是Genoa EPYC 9000系列的一部分。该CPU将提供总共96个内核和192个线程，这是Genoa系列的最大内核数。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国庆七天假期已经过去，今年很多人依然选择了出门旅游，这次的旅游行业表现如何？文化和旅游部公布了相关数据，国庆假期国内旅游出游4.22亿人次。经文化和旅游部数据中心测算，2022年国庆节假期7天，&lt;strong&gt;全国国内旅游出游4.22亿人次，同比减少18.2%，按可比口径恢复至2019年同期的60.7%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [CPU过热不一定是AMD/Intel的锅 FD召回水冷散热器](https://www.cnbeta.com/articles/tech/1324945.htm) | Sat Oct 08 2022 10:23 AM 
+- 💼 [椰树集团直播带货风格引争议 网友称将擦边进行到底](https://www.cnbeta.com/articles/tech/1324955.htm) | Sat Oct 08 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;CPU性能越来越强，伴随而来的还有CPU功耗更高，发热更大，不少人都上了高端的风冷甚至水冷散热器。如果你发现了水冷也压不住CPU发热了，这锅还真不一定是AMD或者Intel要背的，可能是散热器出问题了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，椰树集团开始直播带货，但直播间风格却引得网友吐槽。有网友称椰树集团的营销“一直行走在擦边最前沿”，也有网友认为，还是熟悉的配方。&lt;/strong&gt;值得一提的是，椰树集团因争议性广告曾多次被罚款整改。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔与SiFive共同演示高性能RISC-V Horse Creek开发板](https://www.cnbeta.com/articles/tech/1324943.htm) | Sat Oct 08 2022 10:20 AM 
+- 💂 [陌陌签约主播在抖音直播被索赔千万违约金：一审判赔300万](https://hot.cnbeta.com/articles/movie/1324953.htm) | Sat Oct 08 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年，英特尔宣布开发Horse Creek平台，与SiFive合作开发新的高性能RISC-V开发系统，作为该公司英特尔代工服务（IFS）的一部分，并努力促进RISC-V的采用。据称，这些开发板是SiFive自己的HiFive开发板的延续，旨在发展RISC-V生态系统和加速原型开发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月8日消息，据澎湃新闻报道，中国裁判文书网公布的判决书显示，2019年10月17日，原告天津合尔公司（陌陌科技全资子公司）与被告秦某某签订了《王牌主播直播协议》。&lt;strong&gt;约定甲方系乙方直播演艺或同类型节目的独家合作伙伴；&lt;/strong&gt;合作期限为3年，从2019年10月17日起至2022年10月16日止。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1324953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google分享Pixel 7 Pro 30倍超分辨率变焦样本的图库](https://www.cnbeta.com/articles/tech/1324941.htm) | Sat Oct 08 2022 10:15 AM 
+- 🚀 [遭遇“妓女”“荡妇”羞辱，谁能切除网暴毒瘤？](https://www.cnbeta.com/articles/tech/1324951.htm) | Sat Oct 08 2022 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;所谓的超级分辨率变焦无疑是Pixel 7 Pro相对于其前代产品的最大升级之一。它是软件、硬件和机器学习的结合，即使实际的光学长焦变焦上限为5倍，也能拍出可靠的30倍变焦照片。为了展示所谓的超级分辨率变焦的威力，Google分享了一个照片库，展示Pixel 7 Pro的能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2014年，销声匿迹多年的美国白宫前实习生莱温斯基重回公众视野。莱温斯基曾于1998年卷入与时任美国总统克林顿的性丑闻，并最终导致对方被国会弹劾。通过演讲和撰写署名文章，莱温斯基称自己很可能是遭受全球性网络欺凌的第一人。丑闻中的她，曾被贴上了“妓女”“荡妇”“蠢女人”等标签。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [四名Crew-5任务空间站新成员开始了解站内生活情况](https://www.cnbeta.com/articles/science/1324939.htm) | Sat Oct 08 2022 10:10 AM 
+- 🎊 [铁打的苹果流水的供应链：大陆供应商7进8出背后](https://www.cnbeta.com/articles/tech/1324949.htm) | Sat Oct 08 2022 11:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;周五，现在生活在国际空间站（ISS）上的11名乘员在周四SpaceX Crew-5任务抵达后度过了短暂的一天。现在，四名Crew-5成员正式成为远征68号飞行工程师，并将在未来几天内适应轨道上的生活，他们将花时间熟悉空间站系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1324939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在消费电子市场一片萧瑟之下，苹果iPhone 14 Pro系列的火爆再次证明了一个事实：需求只会迟到，但绝不会消失。回望苹果公司走过的40多年，如果说乔布斯代表了它的仰望星空，那么库克则更多代表了脚踏实地的部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1324949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
