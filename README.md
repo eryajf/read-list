@@ -366,7 +366,7 @@
 <!-- v2ex:START -->
 - 🥸 [请教下大佬们， windows7 怎么查看之前复制粘贴过的文档视频的具体记录呢，目前还没重启过。](https://www.v2ex.com/t/885382#reply0) | Sat Oct 08 2022 1:36 PM
 - 🤗 [有没有什么开源的，可以用于食堂订餐、员工团购的好用的系统](https://www.v2ex.com/t/885381#reply0) | Sat Oct 08 2022 1:23 PM
-- 🎭 [目前日语 OCR 哪家最强？最好是离线可自部署的。前几天测试了下国产的 PaddlePaddle/PaddleOCR 识别中文能力还行，日文准确率极低，很多都识别不出来。](https://www.v2ex.com/t/885376#reply0) | Sat Oct 08 2022 1:03 PM
+- 🎭 [目前日语 OCR 哪家最强？最好是离线可自部署的。前几天测试了下国产的 PaddlePaddle/PaddleOCR 识别中文能力还行，日文准确率极低，很多都识别不出来。](https://www.v2ex.com/t/885376#reply2) | Sat Oct 08 2022 1:03 PM
 - 🥷 [家里有公网 IP，拿在做个人用的代理中继有风险吗？](https://www.v2ex.com/t/885367#reply4) | Sat Oct 08 2022 12:22 PM
 - 🐵 [Python2 有什么不错的内存分析工具](https://www.v2ex.com/t/885352#reply2) | Sat Oct 08 2022 11:03 AM<!-- v2ex:END -->
 
