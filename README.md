@@ -831,28 +831,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [小飞机网盘 - 下载不限速、一键转存无上限、无损音视频在线播放](https://xinquji.com/posts/179835?utm_campaign=xinquji-rss) | Sat Oct 08 2022 8:51 AM 
+- 👀 [Acqui - 在巴西收购 beta 和小型初创公司的市场](https://xinquji.com/posts/180284?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     下载不限速、一键转存无上限、无损音视频在线播放  
+     在巴西收购 beta 和小型初创公司的市场  
     </details> 
 
-- 🥷 [遇见夏天 - 来自陌生人的陪伴 - 匿名匹配的聊天 App。希望通过举报机制营造健康的环境，帮助你找到合拍的人](https://xinquji.com/posts/179798?utm_campaign=xinquji-rss) | Sat Oct 08 2022 8:50 AM 
+- 🥷 [Leadpals - 每个月都有新客户](https://xinquji.com/posts/180283?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     匿名匹配的聊天 App。希望通过举报机制营造健康的环境，帮助你找到合拍的人  
+     每个月都有新客户  
     </details> 
 
-- 💼 [Obscurity - 带有“模糊”文字读数的定制表盘](https://xinquji.com/posts/180257?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:34 AM 
+- 💼 [Quotier - 报价 API](https://xinquji.com/posts/180282?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     带有“模糊”文字读数的定制表盘  
+     报价 API  
     </details> 
 
-- 🦅 [Onboarding Love - 来自 Airbnb、Canva 等顶级 SaaS 的 100 多个用户入职流程](https://xinquji.com/posts/180256?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:32 AM 
+- 🦅 [Ethsock: Token Transfer - 可视化以太坊中的代币转移，一次一个区块](https://xinquji.com/posts/180281?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     来自 Airbnb、Canva 等顶级 SaaS 的 100 多个用户入职流程  
+     可视化以太坊中的代币转移，一次一个区块  
     </details> 
 
-- 😺 [Blotion - 使用 Notion 生成极简博客](https://xinquji.com/posts/180255?utm_campaign=xinquji-rss) | Sat Oct 08 2022 6:32 AM 
+- 😺 [HackerTest - 帮助您准备技术面试的指南](https://xinquji.com/posts/180280?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 Notion 生成极简博客  
+     帮助您准备技术面试的指南  
     </details> 
 <!-- xinquji:END -->
