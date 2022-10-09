@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [椰树直播又被掐断 公司回应暂时不了解相关情况](https://hot.cnbeta.com/articles/movie/1325159.htm) | Sun Oct 09 2022 8:00 AM 
+- 🕯 [新技术里程碑：精确至1.2公里分辨率的全球地球系统模拟](https://www.cnbeta.com/articles/science/1325175.htm) | Sun Oct 09 2022 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据证券时报10月9日消息，10月8日晚间，椰树集团在停播两天后再次开播，但身穿瑜伽衣服的小姐姐才热舞几分钟，就被平台掐断，观看人数超过5万人。十分钟后，椰树集团恢复直播，但五分钟后再次被掐断。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;马克斯-普朗克气象研究所（MPI-M）在地球系统模拟中开启了一个新的篇章，这对气候科学家来说是一个梦想，而且在过去的时间里似乎非常遥远。10年前，Mitchell等人（2012年）在2008年WCRP世界气候预测建模峰会上首次强调，在2012年至2022年欧洲地球系统建模界的战略文件中，重新提出了一个长期的&amp;quot;大挑战&amp;quot;，即开发能够解决对流尺度运动（名义上是1公里左右水平分辨率）的全球气候模型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [我一个插画师给AI打下手，月入3千](https://www.cnbeta.com/articles/tech/1325157.htm) | Sun Oct 09 2022 7:59 AM 
+- 💼 [光伏产品价格暴涨 多晶硅骨干企业被约谈：不搞哄抬价格](https://www.cnbeta.com/articles/tech/1325173.htm) | Sun Oct 09 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AI生成厉害到什么程度？现在人类已经在为它打下手了。据一位画手网友分享，他们圈子里已经诞生了全新的工种！虽然乍一看名字别无二致都是“插画师”，但细看工作内容：使用AI绘画然后筛选精修。救，这不妥妥就是跟着AI干些边角料的活儿嘛~&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月9日下午，工信部官网发文《&lt;a class=&quot;f14_link&quot; href=&quot;https://www.miit.gov.cn/jgsj/dzs/gzdt/art/2022/art_e9956759c7ad46bc913986590c6c8065.html&quot; target=&quot;_blank&quot;&gt;三部门集体约谈部分光伏企业及行业机构&lt;/a&gt;》。文中称，&lt;strong&gt;近期国内光伏产业部分环节产品价格持续急剧上涨，引发产业链供应链剧烈震荡。&lt;/strong&gt;对此，工业和信息化部、市场监管总局、国家能源局三部门有关业务司局在组织开展光伏产业链供应链合作对接的基础上，&lt;strong&gt;近期集体约谈了部分多晶硅骨干企业及行业机构，引导相关单位加强自律自查和规范管理。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [电缆被故意切断 德国北部铁路运输中断](https://www.cnbeta.com/articles/tech/1325155.htm) | Sun Oct 09 2022 7:57 AM 
+- 💂 [仨小伙为省钱租1间房：不同时间睡 吃苦耐劳获网友鼓励](https://hot.cnbeta.com/articles/funny/1325171.htm) | Sun Oct 09 2022 8:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间8日下午，德国联邦交通部长维辛在新闻发布会上表示，德国两个不同地点的电缆被故意切断，随后便立即启动了安全机制，但目前没有肇事者的证据，犯罪动机尚不清楚。根据官方提供的信息，电缆故障初步认定在北莱茵-威斯特法伦州和柏林。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;合租这件事对一些年轻人来说并不陌生，可是三个人合租一张床的小单间，这样的画面，你能想象吗？据秒闻视频，一段租房顾问分享的视频引发讨论。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [传印度主动提出降低英国汽车进口关税 特斯拉还要等等](https://www.cnbeta.com/articles/tech/1325153.htm) | Sun Oct 09 2022 7:56 AM 
+- 🚀 [体验完Windows 11的首个大更新 我觉得他们欠了设计师工资……](https://www.cnbeta.com/articles/tech/1325169.htm) | Sun Oct 09 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月9日消息，消息人士透露，印度汽车制造商已经提议将从英国进口的汽车关税税率降低至30%，加入双方的贸易协议之中。这一举措可能会减轻汽车制造商打入印度市场的难度。知情人士称，这是印度汽车制造商在印度政府压力下首次支持下调汽车进口关税。印度政府希望当地汽车制造商主动降低进入市场的壁垒。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不知道差友们现在用的电脑系统是啥？是市场占比最高的 Windows 10，还是秉持经典的 Windows 7？或者是已经开始尝鲜 Windows 11 ？满打满算，距离 Windows 11 正式版发布已经接近一年了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Netflix《机动奥特曼》》最终季2023年春上线  作者亲绘海报公开](https://hot.cnbeta.com/articles/movie/1325151.htm) | Sun Oct 09 2022 7:55 AM 
+- 🎊 [RTX 4090下周上架 NVIDIA准备了4-5倍的货](https://www.cnbeta.com/articles/tech/1325167.htm) | Sun Oct 09 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;网飞版3DCG动画《机动奥特曼》第二季已经于4月14日独占上线，日前官方宣布最终第三季确定2023年春季独占上线发布，原作者清水荣一与下口智裕共同亲自打造的主艺图海报公开，一起来先睹为快。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;按计划，NVIDIA全新一代Ada Lovelace架构显卡将在下周开卖，其中RTX 4090打头阵，10月12日线上首发，10月15日线下铺货，建议零售价12999元起。至少就目前掌握的情况来看，RTX 4090的备货量非常足。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
