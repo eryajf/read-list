@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [幕后 | 去往「夜之城」的故事背后：CDPR 开发团队核心成员专访](https://sspai.com/post/76056) | Sun Oct 09 2022 3:30 AM 
+- 👹 [鼠标搭配 iPadOS，如何设置才能更好用？](https://sspai.com/post/76060) | Sun Oct 09 2022 6:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    写在前面2019年，苹果正式发布iPadOS，自此iPad就开始支持蓝牙外接鼠标，再次将iPad的生产力提到更高层次，也再次呼应了曾经的那句slogan：你的下一台电脑，何必是电脑。对于自带触控版的电 ...&lt;a href=&quot;https://sspai.com/post/76060&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [幕后 | 去往「夜之城」的故事背后：CDPR 开发团队核心成员专访](https://sspai.com/post/76056) | Sun Oct 09 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     游戏里和游戏外，《赛博朋克 2077》的开发者想要通过这款游戏传达些什么？ &lt;a href=&quot;https://sspai.com/post/76056&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：Steam Deck 开启现货销售模式、特斯拉将交付电动卡车等](https://sspai.com/post/76071) | Sun Oct 09 2022 12:29 AM 
+- 🤭 [派早报：Steam Deck 开启现货销售模式、特斯拉将交付电动卡车等](https://sspai.com/post/76071) | Sun Oct 09 2022 12:29 AM 
     <details><summary>展开描述 ...</summary> 
     自游家推出大型豪华 SUV、EA 将正式发布新启动器以取代 Origin 等。&lt;a href=&quot;https://sspai.com/post/76071&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [城市漫步指南：濑户内海的夏天](https://sspai.com/post/76059) | Sat Oct 08 2022 9:20 AM 
+- 🥸 [城市漫步指南：濑户内海的夏天](https://sspai.com/post/76059) | Sat Oct 08 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
     突发奇想的旅行8月的东京，酷暑难耐。伴随着高温天气的是愈来愈严重的新冠疫情，每天都有上万的人被感染。因此，我们开启了「东京逃离计划」。我们的第一站是濑户内海，三年一次的濑户内海国际艺术节正在举行，不容 ...&lt;a href=&quot;https://sspai.com/post/76059&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [如何理解摄影：浅议摄影的创造性](https://sspai.com/post/76044) | Sat Oct 08 2022 8:02 AM 
+- 🙉 [如何理解摄影：浅议摄影的创造性](https://sspai.com/post/76044) | Sat Oct 08 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
     关于摄影的「创造性」解读。&lt;a href=&quot;https://sspai.com/post/76044&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [今天是世界候鸟日，来聊聊科技以外的事……](https://sspai.com/post/76066) | Sat Oct 08 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    编注：今天（10月8日）是世界候鸟日，少数派与红树林基金会在深圳福田红树林保护区拍摄了一段视频，你可以点此观看完整视频。感谢vivo为本视频提供设备支持及相关赞助。我们与候鸟大概二十年前，我从东北小城 ...&lt;a href=&quot;https://sspai.com/post/76066&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
