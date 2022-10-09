@@ -373,9 +373,9 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [给我一首歌的时间，带你了解线程安全和死锁&lpar;2&rpar;](https://juejin.cn/post/7152411877312561159) | Sun Oct 09 2022 7:31 AM 
+- 🤗 [Three.js 之 19 realistic render 真实渲染](https://juejin.cn/post/7152438555246067719) | Sun Oct 09 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第12天，点击查看活动详情 大家好,我是bug郭,一名双非科班的在校大学生。对C/JAVA、数据结构、Spring系列框架、Lin 
+    本节学习了如何让模型更加真实的渲染。通过添加环境贴图、renderer 拟真优化等方式完成。通过outputEncoding, toneMapping 等能力让渲染更加真实 
     </details> 
 
 - 🎡 [Nginx优化与防盗链](https://juejin.cn/post/7152364592402792455) | Sun Oct 09 2022 4:29 AM 
