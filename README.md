@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新技术里程碑：精确至1.2公里分辨率的全球地球系统模拟](https://www.cnbeta.com/articles/science/1325175.htm) | Sun Oct 09 2022 8:46 AM 
+- 🕯 [车载激光雷达老大哥破产：一度引领固态方案 如今工资仅够发一个月](https://www.cnbeta.com/articles/tech/1325183.htm) | Sun Oct 09 2022 10:05 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;激光雷达的上车元年，行业鼻祖却倒在了量产的第一步。&lt;strong&gt;Ibeo&lt;/strong&gt;，刚刚申请了破产重组。Ibeo是谁？2017年全球首款激光雷达量产车——奥迪A8，背后就是Ibeo。它是全球第一个瞄准车规开发Lidar（激光雷达）的公司，一度是整个赛道内唯一能量产交付产品的玩家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [深圳至江门高铁正式开工：116公里要建5.5年](https://www.cnbeta.com/articles/tech/1325181.htm) | Sun Oct 09 2022 10:03 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月9日，&lt;strong&gt;深圳至江门高速铁路（以下简称深江高铁）正式开工建设，正线全长116公里，建设工期5.5年。&lt;/strong&gt;据介绍，深江高铁是我国“八纵八横”高铁网沿海通道的重要组成部分，线路起自新建的深圳西丽站，向西经东莞市、广州市、中山市、江门市，接入江门至湛江铁路江门站。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [科学家绘就全球首张家蚕超级泛基因组图谱](https://www.cnbeta.com/articles/science/1325179.htm) | Sun Oct 09 2022 9:57 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;家蚕是重要的经济昆虫和新兴模式生物，10月9日，西南大学发布最新科研成果：家蚕基因组生物学国家重点实验室团队完成家蚕大规模种质资源基因组解析，在全球首次绘就家蚕超级泛基因组图谱，并率先创建“数字家蚕”基因库，将我国家蚕基因研究推向设计育种阶段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [抖音、美团“变形记”](https://www.cnbeta.com/articles/tech/1325177.htm) | Sun Oct 09 2022 9:56 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;距离抖音团购的“500亿”还剩短短两个月。进军本地生活后，抖音曾在去年年底定下“保300亿元，争400亿元”的全年目标，而今年上半年，抖音又将这个目标提升至500亿元。近日，《IT时报》记者走访线下商家发现，本地生活市场正刮起一阵强劲的风，以抖音探店短视频引流团购的，正在改变本地生活服务的“游戏方式”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [新技术里程碑：精确至1.2公里分辨率的全球地球系统模拟](https://www.cnbeta.com/articles/science/1325175.htm) | Sun Oct 09 2022 8:46 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;马克斯-普朗克气象研究所（MPI-M）在地球系统模拟中开启了一个新的篇章，这对气候科学家来说是一个梦想，而且在过去的时间里似乎非常遥远。10年前，Mitchell等人（2012年）在2008年WCRP世界气候预测建模峰会上首次强调，在2012年至2022年欧洲地球系统建模界的战略文件中，重新提出了一个长期的&amp;quot;大挑战&amp;quot;，即开发能够解决对流尺度运动（名义上是1公里左右水平分辨率）的全球气候模型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [光伏产品价格暴涨 多晶硅骨干企业被约谈：不搞哄抬价格](https://www.cnbeta.com/articles/tech/1325173.htm) | Sun Oct 09 2022 8:42 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月9日下午，工信部官网发文《&lt;a class=&quot;f14_link&quot; href=&quot;https://www.miit.gov.cn/jgsj/dzs/gzdt/art/2022/art_e9956759c7ad46bc913986590c6c8065.html&quot; target=&quot;_blank&quot;&gt;三部门集体约谈部分光伏企业及行业机构&lt;/a&gt;》。文中称，&lt;strong&gt;近期国内光伏产业部分环节产品价格持续急剧上涨，引发产业链供应链剧烈震荡。&lt;/strong&gt;对此，工业和信息化部、市场监管总局、国家能源局三部门有关业务司局在组织开展光伏产业链供应链合作对接的基础上，&lt;strong&gt;近期集体约谈了部分多晶硅骨干企业及行业机构，引导相关单位加强自律自查和规范管理。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [仨小伙为省钱租1间房：不同时间睡 吃苦耐劳获网友鼓励](https://hot.cnbeta.com/articles/funny/1325171.htm) | Sun Oct 09 2022 8:41 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;合租这件事对一些年轻人来说并不陌生，可是三个人合租一张床的小单间，这样的画面，你能想象吗？据秒闻视频，一段租房顾问分享的视频引发讨论。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [体验完Windows 11的首个大更新 我觉得他们欠了设计师工资……](https://www.cnbeta.com/articles/tech/1325169.htm) | Sun Oct 09 2022 8:40 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不知道差友们现在用的电脑系统是啥？是市场占比最高的 Windows 10，还是秉持经典的 Windows 7？或者是已经开始尝鲜 Windows 11 ？满打满算，距离 Windows 11 正式版发布已经接近一年了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [RTX 4090下周上架 NVIDIA准备了4-5倍的货](https://www.cnbeta.com/articles/tech/1325167.htm) | Sun Oct 09 2022 8:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;按计划，NVIDIA全新一代Ada Lovelace架构显卡将在下周开卖，其中RTX 4090打头阵，10月12日线上首发，10月15日线下铺货，建议零售价12999元起。至少就目前掌握的情况来看，RTX 4090的备货量非常足。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
