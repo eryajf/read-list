@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [字节跳动抖音本地生活前端招聘](https://juejin.cn/post/7152443198990712863) | Sun Oct 09 2022 9:33 AM 
+- 🤗 [翻译- Discord CTO 分享 Discord 的数据库发展过程](https://juejin.cn/post/7152469696577536036) | Sun Oct 09 2022 11:17 AM 
     <details><summary>展开描述 ...</summary> 
-    字节跳动抖音本地生活招聘前端啦~ 殷切期待您的加入！ 简历发至 zengjingyi.0@bytedance.com 请注明『掘金』可以优先处理简历喔！也欢迎加微信「ShanaMaid」沟通。 
+    Discord 持续以超出我们预期的速度增长，用户生成内容也是如此。用户越多，聊天信息就越多，每天的消息已经远远超过了上亿条。我们很早就决定永久保存所有的聊天记录，这样用户就可以随时回来，并在任何设备 
     </details> 
 
-- 🎡 [linux后台运行命令screen的使用](https://juejin.cn/post/7152439677478567966) | Sun Oct 09 2022 9:19 AM 
+- 🎡 [image-webpack-loader安装失败怎么破](https://juejin.cn/post/7152469766521749540) | Sun Oct 09 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 在我们通过终端或ssh连接服务器使用时候，有时候一个训练程序可能需要训练几天才能完成，但是我们的终端可能 
+    最近项目中使用到了image-webpack-loader这个插件，image-webpack-loader一直安装不上咋整？？？ 
     </details> 
 
-- 🕯 [Node.js 基础与环境搭建「 Vue + Node.js 开发实战 」](https://juejin.cn/post/7152438910646222885) | Sun Oct 09 2022 9:16 AM 
+- 🕯 [关于架构设计的易变性，应该如何理解呢？](https://juejin.cn/post/7152460811699486757) | Sun Oct 09 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Node.js 是 JavaScript 的运行时环境，是一个基于 Google Chrome V8 引擎设计实现的、跨平台兼容的、可以运行在服务器端的脚本开发语言；如今，随着全栈开发技术的不断深入与 
+    我正在参加「掘金·启航计划」 一、架构设计分层 通常情况下，我们的架构设计图大概率会如下图这个样子了，首先声明一点，这其实并没有什么不妥的，这也是很典型的分层设计啦~ 关于各个分层的具体描述，就简单的 
     </details> 
 
-- 🚀 [Three.js 之 19 realistic render 真实渲染](https://juejin.cn/post/7152438555246067719) | Sun Oct 09 2022 9:15 AM 
+- 🚀 [车机多用户系统的适配问题](https://juejin.cn/post/7152449135902195749) | Sun Oct 09 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    本节学习了如何让模型更加真实的渲染。通过添加环境贴图、renderer 拟真优化等方式完成。通过outputEncoding, toneMapping 等能力让渲染更加真实 
+    多用户问题出现背景 记录一下多用户的适配问题： 背景是system/app下面新push了两个apk，一个是我们的业务场景apk一个是虚拟车CarService服务的apk，我们的apk需要链接Car 
     </details> 
 
-- 💪 [Framework大合集，从里到外分析的明明白白（下）](https://juejin.cn/post/7152434348992495624) | Sun Oct 09 2022 8:58 AM 
+- 💪 [SpringCloud之Nacos作为配置中心](https://juejin.cn/post/7152438783269421093) | Sun Oct 09 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 由于很多小伙伴在前前后后发现了一个问题，在很多大厂面试的时候基本上都会问到Framework这方面，刚好之前整理的 《十大模块手册》 刚好有这方面的内容，拿出来分享一下，主要借鉴，错误的地方一起 
+    我正在参加「掘金·启航计划」 。上一篇介绍了在SpringCloud Alibaba中Nacos作为注册中心的使用，今天继续讲解Nacos作为配置中心，该如何使用呢。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
