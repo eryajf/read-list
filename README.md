@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Typescript类型|学习笔记](https://juejin.cn/post/7152495981236813854) | Sun Oct 09 2022 12:58 PM 
+- 🤗 [实例讲述开发中的图片用户体验要点](https://juejin.cn/post/7152508328659140615) | Sun Oct 09 2022 1:45 PM 
     <details><summary>展开描述 ...</summary> 
-    &rpar;Javascript是一种动态类型的弱类型语言 Javascript超集： A.包含与兼容所有JS特性，支持共存 B.支持渐进式引入与升级 &lpar;2&rpar;TypeScript是一种静态类型的弱类型语言 静态 
+    在移动应用中，图片是最佳的视觉冲击元素，色彩丰富、吸引眼球的图片能够刺激用户的点击冲动，进而提高转化率。实际开发过程中，需要注意哪些用户体验点呢？ 
     </details> 
 
-- 🎡 [面试突击89：事务隔离级别和传播机制有什么区别？](https://juejin.cn/post/7152491270421053448) | Sun Oct 09 2022 12:41 PM 
+- 🎡 [Typescript类型|学习笔记](https://juejin.cn/post/7152495981236813854) | Sun Oct 09 2022 12:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    Javascript是一种动态类型的弱类型语言 Javascript超集： A.包含与兼容所有JS特性，支持共存 B.支持渐进式引入与升级 &lpar;2&rpar;TypeScript是一种静态类型的弱类型语言 静态 
+    </details> 
+
+- 🕯 [面试突击89：事务隔离级别和传播机制有什么区别？](https://juejin.cn/post/7152491270421053448) | Sun Oct 09 2022 12:41 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 事务隔离级别和事务传播机制都是对事务行为的规范，但二者描述的侧重点却不同。本文这里所说的事务隔离级别和事 
     </details> 
 
-- 🕯 [翻译- Discord CTO 分享 Discord 的数据库发展过程](https://juejin.cn/post/7152469696577536036) | Sun Oct 09 2022 11:17 AM 
+- 🚀 [翻译- Discord CTO 分享 Discord 的数据库发展过程](https://juejin.cn/post/7152469696577536036) | Sun Oct 09 2022 11:17 AM 
     <details><summary>展开描述 ...</summary> 
     Discord 持续以超出我们预期的速度增长，用户生成内容也是如此。用户越多，聊天信息就越多，每天的消息已经远远超过了上亿条。我们很早就决定永久保存所有的聊天记录，这样用户就可以随时回来，并在任何设备 
     </details> 
 
-- 🚀 [image-webpack-loader安装失败怎么破](https://juejin.cn/post/7152469766521749540) | Sun Oct 09 2022 11:15 AM 
+- 💪 [image-webpack-loader安装失败怎么破](https://juejin.cn/post/7152469766521749540) | Sun Oct 09 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
     最近项目中使用到了image-webpack-loader这个插件，image-webpack-loader一直安装不上咋整？？？ 
-    </details> 
-
-- 💪 [关于架构设计的易变性，应该如何理解呢？](https://juejin.cn/post/7152460811699486757) | Sun Oct 09 2022 10:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 一、架构设计分层 通常情况下，我们的架构设计图大概率会如下图这个样子了，首先声明一点，这其实并没有什么不妥的，这也是很典型的分层设计啦~ 关于各个分层的具体描述，就简单的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
