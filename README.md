@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国庆高速各种没电 开电车的又成怨种了…](https://www.cnbeta.com/articles/tech/1325123.htm) | Sun Oct 09 2022 6:27 AM 
+- 🕯 [椰树直播又被掐断 公司回应暂时不了解相关情况](https://hot.cnbeta.com/articles/movie/1325159.htm) | Sun Oct 09 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大概自去年以来，新能源车车主的酸甜苦辣，就总能从节假日的高速流传到网上，引发一轮热议。还记得，去年十一结束，差评君就写过这事。当时，有的新能源车主因为长时间堵车，电量见底，一家三口大热天不敢开空调，蹲在路边；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据证券时报10月9日消息，10月8日晚间，椰树集团在停播两天后再次开播，但身穿瑜伽衣服的小姐姐才热舞几分钟，就被平台掐断，观看人数超过5万人。十分钟后，椰树集团恢复直播，但五分钟后再次被掐断。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [这占了半本物理书的实验室里 走出了30个诺贝尔奖得主](https://www.cnbeta.com/articles/science/1325121.htm) | Sun Oct 09 2022 6:26 AM 
+- 💼 [我一个插画师给AI打下手，月入3千](https://www.cnbeta.com/articles/tech/1325157.htm) | Sun Oct 09 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;相信不少差友应该看过《货币战争》这样一本书。在这儿，有个非常非常传说的玩意 ——&amp;nbsp;罗斯柴尔德家族。在书里，这个始于 18 世纪的犹太家族是世界的幕后黑手之一，从拿破仑战争到南非的钻石，从教皇的宝藏到美国的秘密圆桌里，都扮演着一个呼风唤雨的角色。手握&amp;nbsp;“&amp;nbsp;50&amp;nbsp;万亿&amp;nbsp;”&amp;nbsp;美元，说一不二，无人不从，是妥妥的超级幕后黑手大反派配置了。&lt;strong&gt;当然，现实世界的罗斯柴尔德家族并没有像小说中那么牛叉，不过今天差评君想分享另一个故事，一个科研领域的&amp;nbsp;“罗斯柴尔德”&amp;nbsp;家族的故事。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AI生成厉害到什么程度？现在人类已经在为它打下手了。据一位画手网友分享，他们圈子里已经诞生了全新的工种！虽然乍一看名字别无二致都是“插画师”，但细看工作内容：使用AI绘画然后筛选精修。救，这不妥妥就是跟着AI干些边角料的活儿嘛~&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [LCD屏新旗舰：荣耀X40 GT发布定档10月13日](https://www.cnbeta.com/articles/tech/1325119.htm) | Sun Oct 09 2022 6:24 AM 
+- 💂 [电缆被故意切断 德国北部铁路运输中断](https://www.cnbeta.com/articles/tech/1325155.htm) | Sun Oct 09 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;稍早些时候，荣耀曾宣布将在10月推出新机：X40 GT。今天，&lt;strong&gt;荣耀官方放出了荣耀X40 GT的外观，并宣布将在10月13日正式发布这款新品。&lt;/strong&gt;荣耀X40 GT在外观上沿用了荣耀X40的“星环”设计，&lt;strong&gt;但得益于大量荧光绿的运用，以及模组中心的“GT”字样，它呈现出了与荣耀X40截然不同的气质，更像一款游戏手机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间8日下午，德国联邦交通部长维辛在新闻发布会上表示，德国两个不同地点的电缆被故意切断，随后便立即启动了安全机制，但目前没有肇事者的证据，犯罪动机尚不清楚。根据官方提供的信息，电缆故障初步认定在北莱茵-威斯特法伦州和柏林。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NVIDIA GeForce Experience推新版：RTX 40系显卡获8K录制支持](https://www.cnbeta.com/articles/tech/1325117.htm) | Sun Oct 09 2022 6:22 AM 
+- 🚀 [传印度主动提出降低英国汽车进口关税 特斯拉还要等等](https://www.cnbeta.com/articles/tech/1325153.htm) | Sun Oct 09 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，NVIDIA为GeForce Experience推送了3.26.0版本更新，加入了针对RTX 40系显卡，以及大量新游戏的支持。在新版本中，&lt;strong&gt;GeForce Experience的Shadowplay Recording功能将支持RTX 40系显卡的8K 60FPS HDR录制，符合硬件要求的用户通过Alt+F9快捷键即可开启录制。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月9日消息，消息人士透露，印度汽车制造商已经提议将从英国进口的汽车关税税率降低至30%，加入双方的贸易协议之中。这一举措可能会减轻汽车制造商打入印度市场的难度。知情人士称，这是印度汽车制造商在印度政府压力下首次支持下调汽车进口关税。印度政府希望当地汽车制造商主动降低进入市场的壁垒。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [水滴筹创始人沈鹏：开拓全球事业要因地制宜 中国以外不推行996](https://www.cnbeta.com/articles/tech/1325115.htm) | Sun Oct 09 2022 6:22 AM 
+- 🎊 [Netflix《机动奥特曼》》最终季2023年春上线  作者亲绘海报公开](https://hot.cnbeta.com/articles/movie/1325151.htm) | Sun Oct 09 2022 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于互联网大厂员工来说，“996”上班时间算是相当熟悉，是指早上九点上班，晚上九点下班，每周工作六天。这种工作方式，有人表示支持，有人则表示反对。毕竟对于大多数劳动者来说，干多拿多，给的钱到位，996不在话下。但也有反对声音，认为不该为了工作损害自己的身体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;网飞版3DCG动画《机动奥特曼》第二季已经于4月14日独占上线，日前官方宣布最终第三季确定2023年春季独占上线发布，原作者清水荣一与下口智裕共同亲自打造的主艺图海报公开，一起来先睹为快。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
