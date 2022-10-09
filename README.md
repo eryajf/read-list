@@ -368,7 +368,7 @@
 - 🤗 [nodejs 调用 dubbo 接口报错](https://www.v2ex.com/t/885654#reply0) | Sun Oct 09 2022 5:26 PM
 - 🎭 [Google Voice（GV）如何使用](https://www.v2ex.com/t/885649#reply2) | Sun Oct 09 2022 4:30 PM
 - 🥷 [有功能类似火绒剑的开源软件吗？](https://www.v2ex.com/t/885647#reply1) | Sun Oct 09 2022 4:13 PM
-- 🐵 [有什么小成本的方案来阻止 ddos](https://www.v2ex.com/t/885640#reply16) | Sun Oct 09 2022 3:10 PM<!-- v2ex:END -->
+- 🐵 [有什么小成本的方案来阻止 ddos](https://www.v2ex.com/t/885640#reply17) | Sun Oct 09 2022 3:10 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
