@@ -590,29 +590,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2022 年 10 月每日分享](https://iui.su/161/) | Sat Oct 08 2022 9:03 AM 
+- 🌊 [2022 年 10 月每日分享](https://iui.su/161/) | Sun Oct 09 2022 5:21 AM 
     <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。10月8日crazygam... 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。10月9日Noise Fl... 
     </details> 
 
-- 🫣 [crazy games网页小游戏](https://iui.su/1988/) | Sat Oct 08 2022 2:53 AM 
+- 🫣 [macOS 看图软件Picture View](https://iui.su/3688/) | Sun Oct 09 2022 4:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    Picture View是一款不错的Mac本地看图应用，加载图片快速，没有多余功能，免费使用，可以替代默认看图软件。.dmg下载dmg文件来自Picture View看图官网：https://w... 
+    </details> 
+
+- 🌜 [crazy games网页小游戏](https://iui.su/1988/) | Sat Oct 08 2022 2:53 AM 
     <details><summary>展开描述 ...</summary> 
     crazy games，一个类似4399的网页游戏平台，游戏的丰富性和可玩性要好很多，所有游戏统统免费，由于是国外网站，部分稍微大一点的网页游戏加载时间较长，可以等待片刻。官网https://w... 
     </details> 
 
-- 🌜 [Microsoft Store 应用免账户下载](https://iui.su/1890/) | Tue Oct 04 2022 1:54 PM 
+- 🏊 [Microsoft Store 应用免账户下载](https://iui.su/1890/) | Tue Oct 04 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
     在最新的微软商店中，微软要求用户下载商店的应用需登陆账户方可下载。这对一些从不使用微软账户且应用必须依赖商店下载的用户带来了困扰。GetStoreApp，绕开了微软商店官方提供的应用下载渠道。用... 
     </details> 
 
-- 🏊 [悦录 - 免费语音转写app](https://iui.su/3600/) | Tue Oct 04 2022 1:38 PM 
+- 🚦 [悦录 - 免费语音转写app](https://iui.su/3600/) | Tue Oct 04 2022 1:38 PM 
     <details><summary>展开描述 ...</summary> 
     悦录 是原i笛云听写改名后的语音转写app，自然语言处理、声纹识别、语音识别等核心语音技术，实现了录音器械级别的语音质量，可以满足您在知识学习、采访录音、交谈对话、实时笔记等多种场景下的录音转文... 
-    </details> 
-
-- 🚦 [路由器固件资源下载](https://iui.su/1789/) | Tue Oct 04 2022 10:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为一个爱鼓捣路由器的爱好者，整理出一个固件的资源，方便喜欢折腾的小伙伴 @王德发投稿 固件仓库https://pan.w2nn.ml/zh-CN提供一些刷机工具和一些固件的下载，找不到的固件和... 
     </details> 
 <!-- iui:END -->
 
