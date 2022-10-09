@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [添加剂“双标”事件发酵 海天味业三回应](https://www.cnbeta.com/articles/tech/1325195.htm) | Sun Oct 09 2022 1:38 PM 
+- 🕯 [哥白尼哨兵2号《太空探索地球》系列：特拉西梅诺湖 - 意大利第四大湖泊](https://www.cnbeta.com/articles/science/1325209.htm) | Sun Oct 09 2022 1:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;10月9日晚间，海天味业（603288.SH）发布公告回应了近期备受关注的添加剂“双标”事件。&lt;/strong&gt;前不久，海天味业被多个短视频账号爆料执行“双标”——国内售卖的海天酱油含食品添加剂，而日本售卖的海天酱油却零添加。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特拉西梅诺湖是意大利第四大湖，在本周欧洲航天局（ESA）的&amp;quot;太空看地球&amp;quot;图片中出现。特拉西梅诺湖位于意大利中部，在佩鲁贾以西约20公里（12英里），面积约为128平方公里（50平方英里）。它很浅，最大深度只有6米（20英尺）左右，不过湖水的水位会根据气象和气候条件而变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国际油价五连涨 成品油价这次怎么调？](https://www.cnbeta.com/articles/tech/1325193.htm) | Sun Oct 09 2022 1:35 PM 
+- 💼 [AirPods和Mac配件可能会在2024年改用USB-C接口](https://www.cnbeta.com/articles/tech/1325207.htm) | Sun Oct 09 2022 1:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;新一轮成品油调价窗口即将于10月10日24时开启，但“搁浅”的可能性较大。&lt;/strong&gt;国家发展改革委价格监测中心表示，预计在本轮成品油调价窗口，调价“搁浅”的可能性较大。根据现行石油价格管理办法，此次调价若“搁浅”，未调金额将纳入下次调价时累加或冲抵。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据彭博社记者Mark Gurman报道，所有三种型号的AirPods和Mac配件，如Magic Keyboard和Magic Trackpad，都有可能在2024年前过渡到USB-C。&lt;/strong&gt;本周早些时候，欧洲议会批准了一项新的指令，迫使制造商在2024年底之前在欧洲销售的各种设备上提供USB-C作为通用充电端口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新车只“租”不卖？蔚来在欧洲玩起“新花样”](https://www.cnbeta.com/articles/tech/1325191.htm) | Sun Oct 09 2022 1:33 PM 
+- 💂 [《守望先锋2》自动购买bug被修复 但暴雪不会退款](https://hot.cnbeta.com/articles/game/1325205.htm) | Sun Oct 09 2022 1:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间10月8日，在NIO Berlin 2022发布会上，蔚来宣布进一步在欧洲市场开展业务，开始在德国、荷兰、丹麦、瑞典四国市场提供服务。据介绍，&lt;span style=&quot;&quot;&gt;蔚来三款全新车型ET7、EL7和ET5将以订阅模式在上述四国市场开启预订。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《守望先锋2》“自动购买”bug现已被修复，但暴雪并不会退款。在《守望先锋》Reddit板块上，有玩家爆料称在和一些好友聊天并浏览英雄画廊时，这款游戏“出人意外地解锁了Junnker Queen的Plutonium皮肤。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [河南一影院禁止携带蜜雪冰城入内 店员称原因不便透露](https://www.cnbeta.com/articles/tech/1325189.htm) | Sun Oct 09 2022 1:31 PM 
+- 🚀 [三星开始生产LTPS TFT技术的MicroLED电视](https://www.cnbeta.com/articles/tech/1325203.htm) | Sun Oct 09 2022 1:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据澎湃新闻10月9日报道，有网友发布的图片显示，河南濮阳一电影院入口处有“本影城恕不接待蜜雪冰城食品，请谨慎购买”横幅。记者问及原因，店员表示：原因不便透露。10月9日，该影院回应称，横幅撤下了，仍谢绝携带蜜雪冰城入内。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;MicroLED被看作是OLED之后的下一代自发光显示面板，而三星早已在CES 2018上首次展示了采用新显示技术的The Wall MicroLED电视。MicroLED主要优势在于每个像素均由实际的发光二极管组成，能够提供更好的视角、更亮的显示亮度、以及更高的对比度等，三星一直希望进一步改进MicroLED技术并扩大其面板的生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [1-8月宁德时代电池全球装车量突破100GWh超去年全年](https://www.cnbeta.com/articles/tech/1325187.htm) | Sun Oct 09 2022 1:29 PM 
+- 🎊 [霍乱不是甲类传染病吗，为啥武大的病例不危险？](https://www.cnbeta.com/articles/science/1325201.htm) | Sun Oct 09 2022 1:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，全球资讯机构SNE Research公布了最新的全球电动汽车电池装车数据。尽管全球消费心理普遍萎缩，但在中国市场的主导下，全球电动汽车电池市场连续26个月保持了增长势头。数据显示，2022年1-8月，全球电动汽车电池装车总量达287.6 GWh，同比增长78.7%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周初，网上曝出武汉大学有一位学生出现感染性腹泻，诊断为霍乱。霍乱，堪称“跑肚之王”，腹泻界的扛把子，是我国法定传染病中唯二的甲类传染病之一（另一个是鼠疫），令人闻之色变。这种急性腹泻疾病，若不加以治疗，可在数小时内使人死亡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
