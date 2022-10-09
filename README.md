@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [车载激光雷达老大哥破产：一度引领固态方案 如今工资仅够发一个月](https://www.cnbeta.com/articles/tech/1325183.htm) | Sun Oct 09 2022 10:05 AM 
+- 🕯 [添加剂“双标”事件发酵 海天味业三回应](https://www.cnbeta.com/articles/tech/1325195.htm) | Sun Oct 09 2022 1:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;激光雷达的上车元年，行业鼻祖却倒在了量产的第一步。&lt;strong&gt;Ibeo&lt;/strong&gt;，刚刚申请了破产重组。Ibeo是谁？2017年全球首款激光雷达量产车——奥迪A8，背后就是Ibeo。它是全球第一个瞄准车规开发Lidar（激光雷达）的公司，一度是整个赛道内唯一能量产交付产品的玩家。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;10月9日晚间，海天味业（603288.SH）发布公告回应了近期备受关注的添加剂“双标”事件。&lt;/strong&gt;前不久，海天味业被多个短视频账号爆料执行“双标”——国内售卖的海天酱油含食品添加剂，而日本售卖的海天酱油却零添加。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [深圳至江门高铁正式开工：116公里要建5.5年](https://www.cnbeta.com/articles/tech/1325181.htm) | Sun Oct 09 2022 10:03 AM 
+- 💼 [国际油价五连涨 成品油价这次怎么调？](https://www.cnbeta.com/articles/tech/1325193.htm) | Sun Oct 09 2022 1:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月9日，&lt;strong&gt;深圳至江门高速铁路（以下简称深江高铁）正式开工建设，正线全长116公里，建设工期5.5年。&lt;/strong&gt;据介绍，深江高铁是我国“八纵八横”高铁网沿海通道的重要组成部分，线路起自新建的深圳西丽站，向西经东莞市、广州市、中山市、江门市，接入江门至湛江铁路江门站。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;新一轮成品油调价窗口即将于10月10日24时开启，但“搁浅”的可能性较大。&lt;/strong&gt;国家发展改革委价格监测中心表示，预计在本轮成品油调价窗口，调价“搁浅”的可能性较大。根据现行石油价格管理办法，此次调价若“搁浅”，未调金额将纳入下次调价时累加或冲抵。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科学家绘就全球首张家蚕超级泛基因组图谱](https://www.cnbeta.com/articles/science/1325179.htm) | Sun Oct 09 2022 9:57 AM 
+- 💂 [新车只“租”不卖？蔚来在欧洲玩起“新花样”](https://www.cnbeta.com/articles/tech/1325191.htm) | Sun Oct 09 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;家蚕是重要的经济昆虫和新兴模式生物，10月9日，西南大学发布最新科研成果：家蚕基因组生物学国家重点实验室团队完成家蚕大规模种质资源基因组解析，在全球首次绘就家蚕超级泛基因组图谱，并率先创建“数字家蚕”基因库，将我国家蚕基因研究推向设计育种阶段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间10月8日，在NIO Berlin 2022发布会上，蔚来宣布进一步在欧洲市场开展业务，开始在德国、荷兰、丹麦、瑞典四国市场提供服务。据介绍，&lt;span style=&quot;&quot;&gt;蔚来三款全新车型ET7、EL7和ET5将以订阅模式在上述四国市场开启预订。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325191.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [抖音、美团“变形记”](https://www.cnbeta.com/articles/tech/1325177.htm) | Sun Oct 09 2022 9:56 AM 
+- 🚀 [河南一影院禁止携带蜜雪冰城入内 店员称原因不便透露](https://www.cnbeta.com/articles/tech/1325189.htm) | Sun Oct 09 2022 1:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;距离抖音团购的“500亿”还剩短短两个月。进军本地生活后，抖音曾在去年年底定下“保300亿元，争400亿元”的全年目标，而今年上半年，抖音又将这个目标提升至500亿元。近日，《IT时报》记者走访线下商家发现，本地生活市场正刮起一阵强劲的风，以抖音探店短视频引流团购的，正在改变本地生活服务的“游戏方式”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据澎湃新闻10月9日报道，有网友发布的图片显示，河南濮阳一电影院入口处有“本影城恕不接待蜜雪冰城食品，请谨慎购买”横幅。记者问及原因，店员表示：原因不便透露。10月9日，该影院回应称，横幅撤下了，仍谢绝携带蜜雪冰城入内。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [新技术里程碑：精确至1.2公里分辨率的全球地球系统模拟](https://www.cnbeta.com/articles/science/1325175.htm) | Sun Oct 09 2022 8:46 AM 
+- 🎊 [1-8月宁德时代电池全球装车量突破100GWh超去年全年](https://www.cnbeta.com/articles/tech/1325187.htm) | Sun Oct 09 2022 1:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;马克斯-普朗克气象研究所（MPI-M）在地球系统模拟中开启了一个新的篇章，这对气候科学家来说是一个梦想，而且在过去的时间里似乎非常遥远。10年前，Mitchell等人（2012年）在2008年WCRP世界气候预测建模峰会上首次强调，在2012年至2022年欧洲地球系统建模界的战略文件中，重新提出了一个长期的&amp;quot;大挑战&amp;quot;，即开发能够解决对流尺度运动（名义上是1公里左右水平分辨率）的全球气候模型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，全球资讯机构SNE Research公布了最新的全球电动汽车电池装车数据。尽管全球消费心理普遍萎缩，但在中国市场的主导下，全球电动汽车电池市场连续26个月保持了增长势头。数据显示，2022年1-8月，全球电动汽车电池装车总量达287.6 GWh，同比增长78.7%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
