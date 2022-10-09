@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [我国成功发射先进天基太阳天文台卫星 专家解读：为何研制，如何“逐日”？](https://www.cnbeta.com/articles/science/1325043.htm) | Sun Oct 09 2022 2:00 AM 
+- 🕯 [传亨利·卡维尔也将客串《闪电侠》《神奇女侠3》剧本已完成初稿](https://hot.cnbeta.com/articles/movie/1325107.htm) | Sun Oct 09 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据新华社9日消息，10月9日7时43分，我国在酒泉卫星发射中心使用长征二号丁运载火箭，成功将先进天基太阳天文台卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。这颗卫星主要用于太阳耀斑爆发和日冕物质抛射与太阳磁场之间的因果关系等研究，并为空间天气预报提供数据支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着《黑亚当》上映临近，关于DCEU的传言又多了起来。昨日爆料巨石强森劝说华纳让亨利·卡维尔版超人出现在《黑亚当》彩蛋中。今日更有爆料称“亨超”也将出现在《闪电侠》的彩蛋中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [科学家从古冰河时期山谷中发现未来冰原变化的新线索](https://www.cnbeta.com/articles/science/1325041.htm) | Sun Oct 09 2022 1:53 AM 
+- 💼 [研究发现世界下一个超级大陆--阿玛西亚](https://www.cnbeta.com/articles/science/1325105.htm) | Sun Oct 09 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;埋藏在北海海底的深谷记录了曾经覆盖英国和欧洲的古代冰原是如何将水排出以阻止自己坍塌的。一项新研究使研究小组大为吃惊，他们发现这些山谷只用了几百年的时间就形成了，因为它们把大量的融水从冰下运到了海里。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新研究发现，世界上的下一个超级大陆--阿玛西亚--很可能在2亿到3亿年后太平洋关闭时形成。&lt;strong&gt;科廷大学领导的一个研究小组用一台超级计算机模拟了超级大陆的形成过程。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《西部世界》创制人再启新剧](https://hot.cnbeta.com/articles/movie/1325039.htm) | Sun Oct 09 2022 1:45 AM 
+- 💂 [小鹏入局，Kittyhawk关停，飞行汽车是伪命题？](https://www.cnbeta.com/articles/tech/1325103.htm) | Sun Oct 09 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;科幻新剧《外设》定于本月21号在亚马逊平台播出，试播集由《西部世界》二人组乔纳森·诺兰与丽萨·乔伊联手监制。该剧改编自威廉·吉布森的同名小说（The Peripheral），超杀女科洛·莫瑞兹领衔主演。她出席纽约漫展为新剧作宣传时称，自己玩枪枪枪可是一把好手，能痛扁对手：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“飞行汽车”作为汽车、航空、新能源三大领域的交点，同时又是新材料、人工智能、新一代信息技术最重要的应用场景，其在过去的几年时间内，一直是被誉为是风口之中的风口，引发资本持续追捧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [狗狗需要益生菌吗？看看研究怎么说](https://www.cnbeta.com/articles/science/1325037.htm) | Sun Oct 09 2022 1:34 AM 
+- 🚀 [传《我的世界》第三款衍生游戏正在开发中](https://hot.cnbeta.com/articles/game/1325101.htm) | Sun Oct 09 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微生物群是一个热门话题，而且它有充分的理由成为一个热门话题--它可以影响你的免疫系统、大脑功能和消化系统健康。当你家里有一只狗时，你还要担心确保所有的毛发中都有适当的细菌平衡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据业内人士Jez Corden的消息，除了《我的世界：地下城》和《我的世界：传奇》外，还有第三款《我的世界》衍生游戏正在开发中。在Xbox Two播客的最新一集中，Jez Corden透露了这一消息。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [DC Universe Infinite推Ultra套餐：让漫迷更快阅读到新漫画](https://hot.cnbeta.com/articles/comic/1325035.htm) | Sun Oct 09 2022 1:24 AM 
+- 🎊 [《原神》在海外宣布内购价格调整 包括日韩和欧元区等](https://hot.cnbeta.com/articles/game/1325099.htm) | Sun Oct 09 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;DC在其Universe Infinite漫画订阅服务中增加了一个全新的Ultra会员套餐--让用户在漫画上架一个月后就能以数字方式阅读这些漫画。&lt;/strong&gt;新套餐于周一推出，优惠期价格为99美元/年--持续到11月28日，至于之后的价格DC没有说明。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1325035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日米哈游在HOYOLAB社区发布公告称，为应对平台价格政策影响，将调整部分地区的《原神》内购价格，包括智利、埃及、日本、韩国、马来西亚、巴基斯坦、波兰、瑞典、越南以及欧元区，国区暂不受影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
