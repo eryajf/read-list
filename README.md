@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Three.js 之 19 realistic render 真实渲染](https://juejin.cn/post/7152438555246067719) | Sun Oct 09 2022 9:15 AM 
+- 🤗 [字节跳动抖音本地生活前端招聘](https://juejin.cn/post/7152443198990712863) | Sun Oct 09 2022 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    字节跳动抖音本地生活招聘前端啦~ 殷切期待您的加入！ 简历发至 zengjingyi.0@bytedance.com 请注明『掘金』可以优先处理简历喔！也欢迎加微信「ShanaMaid」沟通。 
+    </details> 
+
+- 🎡 [linux后台运行命令screen的使用](https://juejin.cn/post/7152439677478567966) | Sun Oct 09 2022 9:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 在我们通过终端或ssh连接服务器使用时候，有时候一个训练程序可能需要训练几天才能完成，但是我们的终端可能 
+    </details> 
+
+- 🕯 [Node.js 基础与环境搭建「 Vue + Node.js 开发实战 」](https://juejin.cn/post/7152438910646222885) | Sun Oct 09 2022 9:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    Node.js 是 JavaScript 的运行时环境，是一个基于 Google Chrome V8 引擎设计实现的、跨平台兼容的、可以运行在服务器端的脚本开发语言；如今，随着全栈开发技术的不断深入与 
+    </details> 
+
+- 🚀 [Three.js 之 19 realistic render 真实渲染](https://juejin.cn/post/7152438555246067719) | Sun Oct 09 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
     本节学习了如何让模型更加真实的渲染。通过添加环境贴图、renderer 拟真优化等方式完成。通过outputEncoding, toneMapping 等能力让渲染更加真实 
     </details> 
 
-- 🎡 [Nginx优化与防盗链](https://juejin.cn/post/7152364592402792455) | Sun Oct 09 2022 4:29 AM 
+- 💪 [Framework大合集，从里到外分析的明明白白（下）](https://juejin.cn/post/7152434348992495624) | Sun Oct 09 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    Ngnix优化 Ngnix优化主要有两种，一种是配置上的优化：隐藏版本信息，设置连接超时时间，配置防盗链等修改配置文件信息来对网页维护升级，提升nginx的性能与稳定性。 一种是内核上的优化：在优化内 
-    </details> 
-
-- 🕯 [FreeRTOS记录（十、FreeRTOS实现带 I2C 通讯的 ModbusRTU 协议从机实例）](https://juejin.cn/post/7152353101750468622) | Sun Oct 09 2022 3:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第11天，点击查看活动详情 本产品的功能就是通过红外测温传感器定时测量温度保存，设备通过RS484接口，使用ModbusRTU协议 
-    </details> 
-
-- 🚀 [OpenHarmony有氧拳击之应用端开发](https://juejin.cn/post/7152348656190881806) | Sun Oct 09 2022 3:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    继《OpenHarmony有氧拳击设备端的开发》后，本次为大家带来酷炫的应用端开发。如下，开发者伴随着音乐，律动出拳后，那开发板屡屡播放“挨打”效果，这究竟是怎么回事？让我们一探背后原因 
-    </details> 
-
-- 💪 [EMD算法实现轨道不平顺检测数据预处理](https://juejin.cn/post/7152344418064793636) | Sun Oct 09 2022 3:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    本程序复现了论文中的改进的经验模态分解&lpar;EMD&rpar;方法对信号进行分解，该方法根据信号本身的固有特性进行分解，具有自适应性强的特点。 
+    前言 由于很多小伙伴在前前后后发现了一个问题，在很多大厂面试的时候基本上都会问到Framework这方面，刚好之前整理的 《十大模块手册》 刚好有这方面的内容，拿出来分享一下，主要借鉴，错误的地方一起 
     </details> 
 <!-- juejin:END -->
 ### 少数派
