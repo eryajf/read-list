@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React 可组合 API 的设计原则](https://juejin.cn/post/7152528132027711502) | Sun Oct 09 2022 3:02 PM 
+- 🤗 [231.2 的幂](https://juejin.cn/post/7152543712646529032) | Sun Oct 09 2022 4:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    题目： 给你一个整数 n，请你判断该整数是否是 2 的幂次方。如果是，返回 true ；否则，返回 false 。 如果存在一个整数 x 使得 n == 2x ，则认为 n 是 2 的幂次方。 算法： 
+    </details> 
+
+- 🎡 [[教你做小游戏] 车炮能移动17个位置，针对90种出发点，如何建立0-16和目标点的映射？](https://juejin.cn/post/7152537902423998494) | Sun Oct 09 2022 3:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    象棋里，车有17个可移动范围，但车可以存在于象棋棋盘上任意位置。车有90个起点，在每个起点，都有17个目的地。如果我们仅存下了0-16这17个数字及其出发点，该如何知道目的地呢？这需要建立一种映射…… 
+    </details> 
+
+- 🕯 [在寒冬里，不要丧失斗志](https://juejin.cn/post/7152530211127427086) | Sun Oct 09 2022 3:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 或许出来工作久了，见的事情多了，经历的事情多了，打交道的人多了，就会发现自己的渺小，容易emo。我记得看过一个视频，里头有人讲了一句话：眼界开了有时也是一件糟糕的事，因为很多事情其实是无能为力， 
+    </details> 
+
+- 🚀 [React 可组合 API 的设计原则](https://juejin.cn/post/7152528132027711502) | Sun Oct 09 2022 3:02 PM 
     <details><summary>展开描述 ...</summary> 
     组件化是 React 的核心思想，把独立组件组合起来使用，是对抗项目增长过程中复杂性快速上升的主要手段，在本文中，我们将深入探讨用于分解组件和设计可组合 API 的主要原则。 
     </details> 
 
-- 🎡 [想要字体图标设计师却给了SVG？没关系，自己转](https://juejin.cn/post/7152520567600447495) | Sun Oct 09 2022 2:33 PM 
+- 💪 [想要字体图标设计师却给了SVG？没关系，自己转](https://juejin.cn/post/7152520567600447495) | Sun Oct 09 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
     读完本文，你可以了解到如何将`svg`图标转换成字体图标文件，以及如何设计一个简洁的Vue图标组件。 
-    </details> 
-
-- 🕯 [webpack中异步加载&lpar;懒加载&rpar;原理](https://juejin.cn/post/7152516872330543141) | Sun Oct 09 2022 2:19 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文是 从零到亿系统性的建立前端构建知识体系✨ 中的第二篇，整体难度 ⭐️⭐️。 承接上文（从构建产物洞悉模块化原理），本文将继续从分析构建产物出发，探索 Webpack 中异步加载（懒加载）的原理 
-    </details> 
-
-- 🚀 [实例讲述开发中的图片用户体验要点](https://juejin.cn/post/7152508328659140615) | Sun Oct 09 2022 1:45 PM 
-    <details><summary>展开描述 ...</summary> 
-    在移动应用中，图片是最佳的视觉冲击元素，色彩丰富、吸引眼球的图片能够刺激用户的点击冲动，进而提高转化率。实际开发过程中，需要注意哪些用户体验点呢？ 
-    </details> 
-
-- 💪 [Typescript类型|学习笔记](https://juejin.cn/post/7152495981236813854) | Sun Oct 09 2022 12:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    Javascript是一种动态类型的弱类型语言 Javascript超集： A.包含与兼容所有JS特性，支持共存 B.支持渐进式引入与升级 &lpar;2&rpar;TypeScript是一种静态类型的弱类型语言 静态 
     </details> 
 <!-- juejin:END -->
 ### 少数派
