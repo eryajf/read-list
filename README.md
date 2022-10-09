@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [玩音游，可提高老年人的短期记忆](http://jandan.net/p/111448) | Sat Oct 08 2022 9:52 AM 
+- 🚀 [短篇故事：打印罪](http://jandan.net/p/111450) | Sun Oct 09 2022 4:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    3D打印机和快速成型等技术将摧毁了所有依赖商标和专利的行业 
+    </details> 
+
+- 🙉 [今日好价 1009](http://jandan.net/p/111449) | Sun Oct 09 2022 3:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：36 
+    </details> 
+
+- 🎉 [玩音游，可提高老年人的短期记忆](http://jandan.net/p/111448) | Sat Oct 08 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     面向老人的益智游戏，未来国内游戏市场的蓝海？ 
     </details> 
 
-- 🙉 [超罕见疾病 进行性骨化性纤维发育不良 &lpar;FOP&rpar;](http://jandan.net/p/111447) | Sat Oct 08 2022 7:05 AM 
+- 🐲 [超罕见疾病 进行性骨化性纤维发育不良 &lpar;FOP&rpar;](http://jandan.net/p/111447) | Sat Oct 08 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
     现在全世界有约 800 名患者被诊断出患有 FOP 
     </details> 
 
-- 🎉 [应用基因编辑技术，解决现代工业酿造啤酒口味不如古法发酵啤酒的问题](http://jandan.net/p/111446) | Sat Oct 08 2022 5:54 AM 
+-  [应用基因编辑技术，解决现代工业酿造啤酒口味不如古法发酵啤酒的问题](http://jandan.net/p/111446) | Sat Oct 08 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
     高大的圆柱形发酵罐已经取代了过去啤酒厂的大木桶，但据说，这影响了啤酒的味道。 
-    </details> 
-
-- 🐲 [今日好价 1008](http://jandan.net/p/111445) | Sat Oct 08 2022 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：45 
-    </details> 
-
--  [DeepMind的人工智能 AlphaTensor 找到了更快的矩阵乘法算法](http://jandan.net/p/111439) | Fri Oct 07 2022 11:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    虽然实际运算可以看出优势，但我们不知道为什么这个算法会比经典的更好 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
