@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [CheckBook Pro 2.7.10 个人理财工具](https://xclient.info/s/checkbook-pro.html) | Sat Oct 08 2022 4:28 AM 
+- 🦏 [Mirror for Samsung TV 3.8 Samsung智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-samsung-tv.html) | Sun Oct 09 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
-    CheckBook Pro 是一个Mac平台的个人理财工具，界面友好，轻松管理我们的财务信息，支持所有功能，在支票簿，我们有力的简单的个人财务管理。 
+    Mirror for Samsung TV是Mac os系统上Samsung智能电视影像投放软件，用户通过该软件可以将Mac电脑的影像投放在Samsung智能电视上。 
     </details> 
 
--  [AYVY 1.21.1 图片查看工具](https://xclient.info/s/ayvy.html) | Sat Oct 08 2022 2:47 AM 
+-  [Mirror for TCL TV 3.8 TCL智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-tcl-tv.html) | Sun Oct 09 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-    AYVY是Mac电脑上的一款简单快速的图片查看工具，它可以满足您的所有需求。 
+    您的 Mac 到任何TCL智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
     </details> 
 
-- ⚗️ [Navicat Premium Essentials 16.1.3 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Sat Oct 08 2022 2:46 AM 
+- ⚗️ [Mirror for Sony TV 3.8 Sony智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-sony-tv.html) | Sun Oct 09 2022 12:43 AM 
     <details><summary>展开描述 ...</summary> 
-    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
+    Mirror for Sony TV是Mac os系统上Sony智能电视影像投放软件，用户通过该软件可以将Mac电脑的影像投放在Sony智能电视上。 
     </details> 
 
-- 🔥 [Wondershare Filmora X 11.7.3 优秀的视频编辑工具](https://xclient.info/s/filmora.html) | Sat Oct 08 2022 2:44 AM 
+- 🔥 [Mirror for Chromecast 2.10 Chromecast屏幕镜像应用](https://xclient.info/s/mirror-for-chromecast.html) | Sun Oct 09 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    Wondershare Filmora是一款由Wondershare出品的优秀的视频编辑工具，简单易用。 
+    您的 Mac 到任何Chromecast屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
     </details> 
 
-- 🌋 [Scrutiny 12.4.7 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html) | Sat Oct 08 2022 2:42 AM 
+- 🌋 [Mirror for Hisense TV 3.9 Hisense智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-hisense-tv.html) | Sun Oct 09 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    Scrutiny是一款网站SEO工具，它能够自动检测目标网站的坏链、HTML验证、描述Description、标题Title等SEO信息，并具有强大的报告导出功能。 
+    您的 Mac 到任何Hisense智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
     </details> 
 <!-- xclient:END -->
 
