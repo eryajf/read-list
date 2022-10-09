@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vite插件实现骨架屏自动化](https://juejin.cn/post/7152406737100734495) | Sun Oct 09 2022 7:12 AM 
+- 🤗 [给我一首歌的时间，带你了解线程安全和死锁&lpar;2&rpar;](https://juejin.cn/post/7152411877312561159) | Sun Oct 09 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-    骨架屏属于锦上添花的功能，理想状态下开发者应该是不需要过分关注的，因此从开发体验上来看，手动编写骨架屏并不是很好的解决方案。因此本文主要研究另外一种骨架屏自动生成方案：通过vite插件自动注入骨架屏。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第12天，点击查看活动详情 大家好,我是bug郭,一名双非科班的在校大学生。对C/JAVA、数据结构、Spring系列框架、Lin 
     </details> 
 
-- 🎡 [【杰哥带你玩转Android自动化】学亿点有备无患的&quot;姿势&quot;](https://juejin.cn/post/7152406662576832526) | Sun Oct 09 2022 7:11 AM 
+- 🎡 [Nginx优化与防盗链](https://juejin.cn/post/7152364592402792455) | Sun Oct 09 2022 4:29 AM 
     <details><summary>展开描述 ...</summary> 
-    🤡 本节简要学习了亿点和自动化有关的 &quot;姿势&lpar;知识&rpar;&quot;，包括：OCR文字识别、消息推送、图片处理、获取当前页面的所有控件信息。看似轻松愉快的一节，但实操性极强。杰哥建议：即使不自己跟着写一遍，也要 
+    Ngnix优化 Ngnix优化主要有两种，一种是配置上的优化：隐藏版本信息，设置连接超时时间，配置防盗链等修改配置文件信息来对网页维护升级，提升nginx的性能与稳定性。 一种是内核上的优化：在优化内 
     </details> 
 
-- 🕯 [MQTT 协议快速体验](https://juejin.cn/post/7152342138066305055) | Sun Oct 09 2022 3:00 AM 
+- 🕯 [FreeRTOS记录（十、FreeRTOS实现带 I2C 通讯的 ModbusRTU 协议从机实例）](https://juejin.cn/post/7152353101750468622) | Sun Oct 09 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将通过讲解与演示向读者展示MQTT协议的入门使用流程，开发者可以通过本文以更简单的方式理解MQTT相关概念，快速开始MQTT服务及应用的开发。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第11天，点击查看活动详情 本产品的功能就是通过红外测温传感器定时测量温度保存，设备通过RS484接口，使用ModbusRTU协议 
     </details> 
 
-- 🚀 [Spring 源码阅读 41：AutowiredAnnotationBeanPostProcessor 分析（2）](https://juejin.cn/post/7152341387868897310) | Sun Oct 09 2022 2:57 AM 
+- 🚀 [OpenHarmony有氧拳击之应用端开发](https://juejin.cn/post/7152348656190881806) | Sun Oct 09 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了自动装配注解后处理器中的 postProcessMergedBeanDefinition 方法解析 BeanDefinition 中添加了注入注解的属性和方法。 
+    继《OpenHarmony有氧拳击设备端的开发》后，本次为大家带来酷炫的应用端开发。如下，开发者伴随着音乐，律动出拳后，那开发板屡屡播放“挨打”效果，这究竟是怎么回事？让我们一探背后原因 
     </details> 
 
-- 💪 [谈谈JAVA中对象和类、this、super和static关键字](https://juejin.cn/post/7152322068468465677) | Sun Oct 09 2022 1:42 AM 
+- 💪 [EMD算法实现轨道不平顺检测数据预处理](https://juejin.cn/post/7152344418064793636) | Sun Oct 09 2022 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-    Java对象究竟是什么？ 对象：对象是类的一个实例，有状态和行为。 类：类是一个模板，它描述一类对象的行为和状态。 例如 通过上面的例子，我们可以发现 面向对象提出一种计算机世界里解决复杂软件工程的方 
+    本程序复现了论文中的改进的经验模态分解&lpar;EMD&rpar;方法对信号进行分解，该方法根据信号本身的固有特性进行分解，具有自适应性强的特点。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
