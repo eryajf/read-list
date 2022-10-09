@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [研发利器，我开发了云同步编译工具](https://juejin.cn/post/7152350929604476958) | Sun Oct 09 2022 3:34 AM 
+- 🤗 [Spring 扩展之集成常用配置中心](https://juejin.cn/post/7152369961120301069) | Sun Oct 09 2022 4:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    我正在参加「掘金·启航计划」 大家好，这篇文章跟大家来聊下 Spring 中提供的常用扩展点。重点介绍下 Spring 基于这些扩展点怎么跟配置中心（Apollo、Nacos、Zookeeper、Co 
+    </details> 
+
+- 🎡 [一文入门go-micro开发微服务](https://juejin.cn/post/7152363750769557512) | Sun Oct 09 2022 4:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    分布式微服务架构已成趋势，越来越多的公司在从单体应用或集中式应用向分布式应用转型。开篇类比了主流Go微服务框架的特点，Go的微服务生态可以说是百家争鸣。这篇文章将带你入门使用go-micro开发微服务 
+    </details> 
+
+- 🕯 [开发利器，我开发了云同步编译工具](https://juejin.cn/post/7152350929604476958) | Sun Oct 09 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     SyncKit 主要将本地的项目同步到远程设备，在远程设备上进行编译，然后将编译的结果拉回本地，自动安装 
     </details> 
 
-- 🎡 [chrome扩展训练营 ｜ 框架升级：Vue 开发实现一图一诗（新开 tab 页打开自己的内容）](https://juejin.cn/post/7152349666523709476) | Sun Oct 09 2022 3:30 AM 
+- 🚀 [chrome扩展训练营 ｜ 框架升级：Vue 开发实现一图一诗（新开 tab 页打开自己的内容）](https://juejin.cn/post/7152349666523709476) | Sun Oct 09 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     实战篇啦，经过前面系列文章，我们对 chrome 扩展的开发已经有了大致了解（不了解？👆），最最基础一点，chrome 扩展其实就是 html/css/js 三大件 
     </details> 
 
-- 🕯 [说说 Spring 定时任务如何大规模企业级运用](https://juejin.cn/post/7152346134411903013) | Sun Oct 09 2022 3:16 AM 
+- 💪 [说说 Spring 定时任务如何大规模企业级运用](https://juejin.cn/post/7152346134411903013) | Sun Oct 09 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     本文主要从 Spring 定时任务的运行机制进行剖析阐述，并对如何扩展框架原生能力以满足企业级生产环境运行定时任务所需各种场景提出了相应的建议，用户可作参考构建自己内部定时任务方案。 
-    </details> 
-
-- 🚀 [如何使用流程 中的 DataObject 并为流程设置租户](https://juejin.cn/post/7152345988122804255) | Sun Oct 09 2022 3:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    不知道小伙伴们有没有留意过，在 Flowable 流程图的绘制过程中，我们可以编写一个名为 dataObject 的元素，这个元素可以指定变量的 id、名称以及数据类型等各种属性，并且在流程实例启动的 
-    </details> 
-
-- 💪 [Discord 的数据库发展过程](https://juejin.cn/post/7152344989496770590) | Sun Oct 09 2022 3:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    Discord continues to grow faster than we expected and so does our user-generated content. With more  
     </details> 
 <!-- juejin:END -->
 ### 少数派
