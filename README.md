@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英国一Apple Store门店已在为明年iPhone 15的推出作准备](https://www.cnbeta.com/articles/tech/1325249.htm) | Sun Oct 09 2022 5:24 PM 
+- 🕯 [飓风搅动的沉积物在佛罗里达州的西海岸产生了五颜六色的漩涡](https://www.cnbeta.com/articles/science/1325253.htm) | Sun Oct 09 2022 5:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;2022年9月28日，飓风伊恩形成强大的四级风暴，以每小时约150英里（240公里）的持续风速猛烈袭击了佛罗里达州的西南海岸。然而，风并不是这场强大风暴的唯一破坏性成分；水也是一个主要因素，其形式是灾难性的风暴潮、无情的倾盆大雨和强烈的洪水。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iPhone 14的碰撞检测功能让其在过山车上不断拨打911](https://www.cnbeta.com/articles/tech/1325251.htm) | Sun Oct 09 2022 5:31 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;iPhone 14的新碰撞检测功能本应在检测到发生车祸时提醒当局，但它有一个意想不到的副作用：在过山车上疯狂拨打911。&lt;/strong&gt;根据《华尔街日报》的报道，该功能已使执法部门多次被派往游乐园，因为他们误以为惊险刺激的游乐设施的大范围转弯、加速和急刹车是真正的紧急情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [英国一Apple Store门店已在为明年iPhone 15的推出作准备](https://www.cnbeta.com/articles/tech/1325249.htm) | Sun Oct 09 2022 5:24 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;英国至少有一家Apple Store预计在明年的秋季和假期期间会有异常多的人流，这个时间段预计会有iPhone 15系列的发布。苹果米尔顿凯恩斯的员工被告知，他们在2023年9月15日至2023年10月7日，以及2023年12月2日至2024年1月初之间不得请假。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国产自主架构 龙芯CPU支持开放“鸿蒙”](https://www.cnbeta.com/articles/tech/1325245.htm) | Sun Oct 09 2022 5:20 PM 
+- 🚀 [中国车要把欧美百年车企按在地上摩擦？你别说 我看有戏！](https://www.cnbeta.com/articles/tech/1325247.htm) | Sun Oct 09 2022 5:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;1901 年，慈禧的66岁大寿，袁世凯送了她辆汽车。&lt;strong&gt;她在故宫院里绕了一圈后感慨道：“ 这车得吃很多草吧。”&lt;/strong&gt;这是个真实的笑话，但背后是中国汽车工业落后的开始。当&amp;nbsp;1956 年中国第一辆解放牌汽车下线的时候，英国的民用汽车销量已经突破五六万了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [国产自主架构 龙芯CPU支持开放“鸿蒙”](https://www.cnbeta.com/articles/tech/1325245.htm) | Sun Oct 09 2022 5:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;龙芯中科、润和软件联合宣布，经过共同努力，&lt;strong&gt;龙芯2K0500开发板、OpenHarmony操作系统已经完成适配验证，LoongArch龙架构平台对于OpenHarmony已形成初步支持&lt;/strong&gt;，万物互联的生态体系与龙芯平台即将全面连接。OpenHarmony是华为捐献、全球开发者共建的开源分布式操作系统，由开放原子开源基金会孵化及运营，国内众多厂商已基于其形成多个跨终端全领域的发行版操作系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [哈尔滨出现大量瓢虫 不让烧麦秆惹的祸？](https://www.cnbeta.com/articles/tech/1325243.htm) | Sun Oct 09 2022 5:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着天气的转冷，许多昆虫都变得越来越不活跃，但是这几天哈尔滨却比较反常，一种昆虫突然大量聚集，密密麻麻地出现，让当地居民十分头疼。一位网友做了一个视频合集，从视频中可以看到，这些昆虫大量停留在房屋外墙、玻璃上，地面更是铺了满满一层，在外面行驶的汽车也会撞死许多，以至于整个挡风玻璃都是“爆浆”的昆虫尸体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [SWIFT为央行数字货币全球网络制定蓝图，14家银行参与](https://www.cnbeta.com/articles/tech/1325241.htm) | Sun Oct 09 2022 5:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;环球银行金融电信协会（SWIFT）称，央行数字货币和通证化资产可以转移到现有金融基础设施，并以此制定了央行数字货币全球网络的蓝图。当地时间10月5日，SWIFT在官网公布了央行数字货币（CBDC）和通证化资产（Tokenised assets）用于跨境支付与交易的试验结果，表明二者可在现有金融基础设施上顺畅流动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325241.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [欧洲暴发史上最大规模禽流感 鸡蛋会涨价吗？](https://www.cnbeta.com/articles/tech/1325239.htm) | Sun Oct 09 2022 5:13 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英国、法国、德国……一场大规模禽流感正席卷欧美地区。此前，受通胀、地缘政治、春季禽流感等因素影响，多国鸡肉、鸡蛋价格已经历一波上涨。近期国外禽流感病例又急剧上升，鸡肉、鸡蛋价格会否再度攀升？对中国有影响吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
