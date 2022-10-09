@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [泄露约30万用户信息，丰田公开道歉](https://www.freebuf.com/news/346273.html) | Sat Oct 08 2022 10:00 AM 
+- 🦄 [芯片制造商 ADATA（威刚）否认遭到 RansomHouse 组织攻击](https://www.freebuf.com/news/346304.html) | Sun Oct 09 2022 3:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    中国台湾芯片制造商 ADATA（威刚）否认近期遭到来自 RansomHouse 组织的网络攻击。 
+    </details> 
+
+- 🦄 [《信息安全技术 软件供应链安全要求》（征求意见稿）发布](https://www.freebuf.com/news/346297.html) | Sun Oct 09 2022 3:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    《安全要求》给出了软件供应链安全保护目标，规定了软件供应链组织管理和供应活动管理的安全要求。 
+    </details> 
+
+- 🦅 [400万条2K Games用户数据正在暗网上出售](https://www.freebuf.com/news/346294.html) | Sun Oct 09 2022 2:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    在黑客论坛上，2K的游戏支持数据库已被挂出进行销售，包括用户 id、用户名、电子邮件、真实姓名等信息，总计达到400万条。 
+    </details> 
+
+- 🪄 [泄露约30万用户信息，丰田公开道歉](https://www.freebuf.com/news/346273.html) | Sat Oct 08 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
     丰田汽车公司旗下T-Connect服务出现安全事故，近三十万用户的个人信息可能已经被攻击者窃取。 
     </details> 
 
-- 🦄 [FreeBuf早报 | LofyGang向开源软件大量投毒；黑客从Binance窃取超过5.7亿美元](https://www.freebuf.com/news/346237.html) | Sat Oct 08 2022 6:17 AM 
+- 💻 [FreeBuf早报 | LofyGang向开源软件大量投毒；黑客从Binance窃取超过5.7亿美元](https://www.freebuf.com/news/346237.html) | Sat Oct 08 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
     LofyGang 威胁组织正在使用 200 多个恶意 NPM 包和数千个安装程序来窃取信用卡数据、游戏和流媒体帐户，然后在地下黑客论坛中售卖被盗凭据和战利品。 
-    </details> 
-
-- 🦅 [因滥用 Optus 泄露的数据信息敲诈受害者，19岁少年被捕](https://www.freebuf.com/news/346232.html) | Sat Oct 08 2022 5:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    澳大利亚联邦警察（AFP）逮捕了一名来自悉尼的19岁青少年，该少年被指控试图利用上月底 Optus 泄露的数据信息，敲诈受害者。 
-    </details> 
-
-- 🪄 [FreeBuf早报 | 英国首相个人手机号遭曝光；丰田道歉：约296000条客户信息被泄露](https://www.freebuf.com/news/346189.html) | Fri Oct 07 2022 1:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    丰田汽车表示，发现T-Connect服务中296019条客户信息疑遭泄露，包括电子邮件地址和客户号码。 
-    </details> 
-
-- 💻 [再探WebSocket内存马&lpar;内存马系列篇八&rpar;](https://www.freebuf.com/vuls/346129.html) | Sat Oct 01 2022 12:52 PM 
-    <details><summary>展开描述 ...</summary> 
-    接下来我们需要学习建立在其上的一种内存马, tomcat-websocket内存马的实现。 
     </details> 
 <!-- freebuf:END -->
 
