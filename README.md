@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Spring 扩展之集成常用配置中心](https://juejin.cn/post/7152369961120301069) | Sun Oct 09 2022 4:49 AM 
+- 🤗 [vite插件实现骨架屏自动化](https://juejin.cn/post/7152406737100734495) | Sun Oct 09 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 大家好，这篇文章跟大家来聊下 Spring 中提供的常用扩展点。重点介绍下 Spring 基于这些扩展点怎么跟配置中心（Apollo、Nacos、Zookeeper、Co 
+    骨架屏属于锦上添花的功能，理想状态下开发者应该是不需要过分关注的，因此从开发体验上来看，手动编写骨架屏并不是很好的解决方案。因此本文主要研究另外一种骨架屏自动生成方案：通过vite插件自动注入骨架屏。 
     </details> 
 
-- 🎡 [一文入门go-micro开发微服务](https://juejin.cn/post/7152363750769557512) | Sun Oct 09 2022 4:27 AM 
+- 🎡 [【杰哥带你玩转Android自动化】学亿点有备无患的&quot;姿势&quot;](https://juejin.cn/post/7152406662576832526) | Sun Oct 09 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    分布式微服务架构已成趋势，越来越多的公司在从单体应用或集中式应用向分布式应用转型。开篇类比了主流Go微服务框架的特点，Go的微服务生态可以说是百家争鸣。这篇文章将带你入门使用go-micro开发微服务 
+    🤡 本节简要学习了亿点和自动化有关的 &quot;姿势&lpar;知识&rpar;&quot;，包括：OCR文字识别、消息推送、图片处理、获取当前页面的所有控件信息。看似轻松愉快的一节，但实操性极强。杰哥建议：即使不自己跟着写一遍，也要 
     </details> 
 
-- 🕯 [开发利器，我开发了云同步编译工具](https://juejin.cn/post/7152350929604476958) | Sun Oct 09 2022 3:34 AM 
+- 🕯 [MQTT 协议快速体验](https://juejin.cn/post/7152342138066305055) | Sun Oct 09 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    SyncKit 主要将本地的项目同步到远程设备，在远程设备上进行编译，然后将编译的结果拉回本地，自动安装 
+    本文将通过讲解与演示向读者展示MQTT协议的入门使用流程，开发者可以通过本文以更简单的方式理解MQTT相关概念，快速开始MQTT服务及应用的开发。 
     </details> 
 
-- 🚀 [chrome扩展训练营 ｜ 框架升级：Vue 开发实现一图一诗（新开 tab 页打开自己的内容）](https://juejin.cn/post/7152349666523709476) | Sun Oct 09 2022 3:30 AM 
+- 🚀 [Spring 源码阅读 41：AutowiredAnnotationBeanPostProcessor 分析（2）](https://juejin.cn/post/7152341387868897310) | Sun Oct 09 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
-    实战篇啦，经过前面系列文章，我们对 chrome 扩展的开发已经有了大致了解（不了解？👆），最最基础一点，chrome 扩展其实就是 html/css/js 三大件 
+    本文介绍了自动装配注解后处理器中的 postProcessMergedBeanDefinition 方法解析 BeanDefinition 中添加了注入注解的属性和方法。 
     </details> 
 
-- 💪 [说说 Spring 定时任务如何大规模企业级运用](https://juejin.cn/post/7152346134411903013) | Sun Oct 09 2022 3:16 AM 
+- 💪 [谈谈JAVA中对象和类、this、super和static关键字](https://juejin.cn/post/7152322068468465677) | Sun Oct 09 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要从 Spring 定时任务的运行机制进行剖析阐述，并对如何扩展框架原生能力以满足企业级生产环境运行定时任务所需各种场景提出了相应的建议，用户可作参考构建自己内部定时任务方案。 
+    Java对象究竟是什么？ 对象：对象是类的一个实例，有状态和行为。 类：类是一个模板，它描述一类对象的行为和状态。 例如 通过上面的例子，我们可以发现 面向对象提出一种计算机世界里解决复杂软件工程的方 
     </details> 
 <!-- juejin:END -->
 ### 少数派
