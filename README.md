@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [一帧秒创 - 为图文创作者和营销机构提供一键图文转视频（TTV）服务](https://xinquji.com/posts/179836?utm_campaign=xinquji-rss) | Sun Oct 09 2022 8:05 AM 
+- 👀 [Big Sale - 促销活动的最佳 3D 包](https://xinquji.com/posts/180310?utm_campaign=xinquji-rss) | Mon Oct 10 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     为图文创作者和营销机构提供一键图文转视频（TTV）服务  
+     促销活动的最佳 3D 包  
     </details> 
 
-- 🥷 [Digital Checklist - 检查您的数字安全的简单清单](https://xinquji.com/posts/180287?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:32 AM 
+- 🥷 [Web Mask - 部署前的集成测试](https://xinquji.com/posts/180309?utm_campaign=xinquji-rss) | Mon Oct 10 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     检查您的数字安全的简单清单  
+     部署前的集成测试  
     </details> 
 
-- 💼 [The 2hO Network - 一个安全的远程网络，让您在全球范围内保持联系](https://xinquji.com/posts/180286?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:30 AM 
+- 💼 [Echelon - 由 Web3 驱动的去中心化人才市场](https://xinquji.com/posts/180308?utm_campaign=xinquji-rss) | Mon Oct 10 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     一个安全的远程网络，让您在全球范围内保持联系  
+     由 Web3 驱动的去中心化人才市场  
     </details> 
 
-- 🦅 [Sweetjab - 结合来自 GitHub 的问题和拉取请求](https://xinquji.com/posts/180285?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:29 AM 
+- 🦅 [Robowars - 不错的老塔防游戏](https://xinquji.com/posts/180307?utm_campaign=xinquji-rss) | Mon Oct 10 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-     结合来自 GitHub 的问题和拉取请求  
+     不错的老塔防游戏  
     </details> 
 
-- 😺 [Acqui - 在巴西收购 beta 和小型初创公司的市场](https://xinquji.com/posts/180284?utm_campaign=xinquji-rss) | Sun Oct 09 2022 6:28 AM 
+- 😺 [KhataBuddy - 发票、支付、库存和电子商务](https://xinquji.com/posts/180306?utm_campaign=xinquji-rss) | Mon Oct 10 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     在巴西收购 beta 和小型初创公司的市场  
+     发票、支付、库存和电子商务  
     </details> 
 <!-- xinquji:END -->
