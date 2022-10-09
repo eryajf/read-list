@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [传亨利·卡维尔也将客串《闪电侠》《神奇女侠3》剧本已完成初稿](https://hot.cnbeta.com/articles/movie/1325107.htm) | Sun Oct 09 2022 3:48 AM 
+- 🕯 [国庆高速各种没电 开电车的又成怨种了…](https://www.cnbeta.com/articles/tech/1325123.htm) | Sun Oct 09 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着《黑亚当》上映临近，关于DCEU的传言又多了起来。昨日爆料巨石强森劝说华纳让亨利·卡维尔版超人出现在《黑亚当》彩蛋中。今日更有爆料称“亨超”也将出现在《闪电侠》的彩蛋中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大概自去年以来，新能源车车主的酸甜苦辣，就总能从节假日的高速流传到网上，引发一轮热议。还记得，去年十一结束，差评君就写过这事。当时，有的新能源车主因为长时间堵车，电量见底，一家三口大热天不敢开空调，蹲在路边；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325123.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究发现世界下一个超级大陆--阿玛西亚](https://www.cnbeta.com/articles/science/1325105.htm) | Sun Oct 09 2022 3:45 AM 
+- 💼 [这占了半本物理书的实验室里 走出了30个诺贝尔奖得主](https://www.cnbeta.com/articles/science/1325121.htm) | Sun Oct 09 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新研究发现，世界上的下一个超级大陆--阿玛西亚--很可能在2亿到3亿年后太平洋关闭时形成。&lt;strong&gt;科廷大学领导的一个研究小组用一台超级计算机模拟了超级大陆的形成过程。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;相信不少差友应该看过《货币战争》这样一本书。在这儿，有个非常非常传说的玩意 ——&amp;nbsp;罗斯柴尔德家族。在书里，这个始于 18 世纪的犹太家族是世界的幕后黑手之一，从拿破仑战争到南非的钻石，从教皇的宝藏到美国的秘密圆桌里，都扮演着一个呼风唤雨的角色。手握&amp;nbsp;“&amp;nbsp;50&amp;nbsp;万亿&amp;nbsp;”&amp;nbsp;美元，说一不二，无人不从，是妥妥的超级幕后黑手大反派配置了。&lt;strong&gt;当然，现实世界的罗斯柴尔德家族并没有像小说中那么牛叉，不过今天差评君想分享另一个故事，一个科研领域的&amp;nbsp;“罗斯柴尔德”&amp;nbsp;家族的故事。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325121.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [小鹏入局，Kittyhawk关停，飞行汽车是伪命题？](https://www.cnbeta.com/articles/tech/1325103.htm) | Sun Oct 09 2022 3:39 AM 
+- 💂 [LCD屏新旗舰：荣耀X40 GT发布定档10月13日](https://www.cnbeta.com/articles/tech/1325119.htm) | Sun Oct 09 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“飞行汽车”作为汽车、航空、新能源三大领域的交点，同时又是新材料、人工智能、新一代信息技术最重要的应用场景，其在过去的几年时间内，一直是被誉为是风口之中的风口，引发资本持续追捧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;稍早些时候，荣耀曾宣布将在10月推出新机：X40 GT。今天，&lt;strong&gt;荣耀官方放出了荣耀X40 GT的外观，并宣布将在10月13日正式发布这款新品。&lt;/strong&gt;荣耀X40 GT在外观上沿用了荣耀X40的“星环”设计，&lt;strong&gt;但得益于大量荧光绿的运用，以及模组中心的“GT”字样，它呈现出了与荣耀X40截然不同的气质，更像一款游戏手机。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325119.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [传《我的世界》第三款衍生游戏正在开发中](https://hot.cnbeta.com/articles/game/1325101.htm) | Sun Oct 09 2022 3:39 AM 
+- 🚀 [NVIDIA GeForce Experience推新版：RTX 40系显卡获8K录制支持](https://www.cnbeta.com/articles/tech/1325117.htm) | Sun Oct 09 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据业内人士Jez Corden的消息，除了《我的世界：地下城》和《我的世界：传奇》外，还有第三款《我的世界》衍生游戏正在开发中。在Xbox Two播客的最新一集中，Jez Corden透露了这一消息。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，NVIDIA为GeForce Experience推送了3.26.0版本更新，加入了针对RTX 40系显卡，以及大量新游戏的支持。在新版本中，&lt;strong&gt;GeForce Experience的Shadowplay Recording功能将支持RTX 40系显卡的8K 60FPS HDR录制，符合硬件要求的用户通过Alt+F9快捷键即可开启录制。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325117.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《原神》在海外宣布内购价格调整 包括日韩和欧元区等](https://hot.cnbeta.com/articles/game/1325099.htm) | Sun Oct 09 2022 3:38 AM 
+- 🎊 [水滴筹创始人沈鹏：开拓全球事业要因地制宜 中国以外不推行996](https://www.cnbeta.com/articles/tech/1325115.htm) | Sun Oct 09 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日米哈游在HOYOLAB社区发布公告称，为应对平台价格政策影响，将调整部分地区的《原神》内购价格，包括智利、埃及、日本、韩国、马来西亚、巴基斯坦、波兰、瑞典、越南以及欧元区，国区暂不受影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于互联网大厂员工来说，“996”上班时间算是相当熟悉，是指早上九点上班，晚上九点下班，每周工作六天。这种工作方式，有人表示支持，有人则表示反对。毕竟对于大多数劳动者来说，干多拿多，给的钱到位，996不在话下。但也有反对声音，认为不该为了工作损害自己的身体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
