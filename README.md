@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [http 2.0 一篇就够了](https://juejin.cn/post/7152308470207741966) | Sun Oct 09 2022 12:51 AM 
+- 🤗 [前端必备的25个CLI命令行](https://juejin.cn/post/7152338517425651720) | Sun Oct 09 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
-    http1.1已经很好了，用的非常广泛了，http2.0又是做什么的呢？改善了哪些功能点呢？敬请观看 
+    命令行可以说是程序员的基本功，但是记起来颇为费力，有些命令只是偶尔用了几次就忘记了，本文就来总结一下对于前端来说的必备25个命令行... 
     </details> 
 
-- 🎡 [考你个并查集，你竟然抠脚！](https://juejin.cn/post/7152307899304247332) | Sun Oct 09 2022 12:48 AM 
+- 🎡 [写给小白的教程之如何写网页交互文档docsify](https://juejin.cn/post/7152334633228009479) | Sun Oct 09 2022 2:31 AM 
     <details><summary>展开描述 ...</summary> 
-    在以前江湖上有很多门派，各门派见的徒子徒孙碰面难免切磋。为了不让大家打乱套，都要喊一句：”报上名来“ —— 在下叶问，佛山咏春派，师承陈华顺。 
+    1、为啥有这一篇 ？ 2、怎么做？ mac 全局安装 请加 sudo 这样初始化 起一个 服务 更新这个文件 ./docs/README.md 非常nice ！ 本节完～ 你可写自己的文档 3、项目地 
     </details> 
 
-- 🕯 [Flutter - 快速实现聊天会话列表的效果，完美💯](https://juejin.cn/post/7152307272436154405) | Sun Oct 09 2022 12:45 AM 
+- 🕯 [【算法题解】 Day11 数学](https://juejin.cn/post/7152318347734941710) | Sun Oct 09 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
-    聊天会话页的列表效果 1、聊天数据不满一屏时，顶部显示所有聊天数据 2、插入消息时 如果最新消息紧靠列表底部时，则插入消息会使列表向上推 如果不是紧靠列表底部，则固定到当前聊天位置 
+    今天的算法是 「数学」 相关，“算法题解系列文章旨在精选重点与易错的算法题，总结常见的算法思路与可能出现的错误，以实战习题的形式理解算法，使用算法。” 
     </details> 
 
-- 🚀 [【Flutter 异步编程 -伍】 |  深入剖析 Future 类源码实现](https://juejin.cn/post/7152303127494918180) | Sun Oct 09 2022 12:29 AM 
+- 🚀 [Spring&amp;SpringBoot常用注解总结](https://juejin.cn/post/7152145116872835080) | Sat Oct 08 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
-    一、Future 中的监听与通知 在日常开发中，我们一般知道对 Future 对象通过 then、onError 设置回调方法进行监听。但很少有机会了解 Future 中的回调是何时触发的， Futu 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 Spring/Spring Boot 常用注解总结！ 分类 注解 说明 @SpringBootAppli 
     </details> 
 
-- 💪 [创建现代npm包的最佳实践](https://juejin.cn/post/7152302632143421470) | Sun Oct 09 2022 12:27 AM 
+- 💪 [Java爬虫框架之WebMagic的学习总结](https://juejin.cn/post/7152142471550468126) | Sat Oct 08 2022 2:05 PM 
     <details><summary>展开描述 ...</summary> 
-    技术一直在变化，我们的流程和做法也需要跟上这些变化。因此，虽然npm已经有12年的历史了，但围绕 npm 包创建的做法应该更现代。 在这节课中，我们使用现代最佳实践（截至2022年）一步一步地创建一个 
+    WebMagic是一个简单灵活的Java爬虫框架。基于WebMagic，可以快速开发出一个高效、易维护的爬虫。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
