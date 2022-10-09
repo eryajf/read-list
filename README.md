@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [哥白尼哨兵2号《太空探索地球》系列：特拉西梅诺湖 - 意大利第四大湖泊](https://www.cnbeta.com/articles/science/1325209.htm) | Sun Oct 09 2022 1:59 PM 
+- 🕯 [厌倦了数据泄露让印尼人破罐破摔 开始反向支持暴露13亿张SIM卡信息的黑客](https://www.cnbeta.com/articles/tech/1325229.htm) | Sun Oct 09 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特拉西梅诺湖是意大利第四大湖，在本周欧洲航天局（ESA）的&amp;quot;太空看地球&amp;quot;图片中出现。特拉西梅诺湖位于意大利中部，在佩鲁贾以西约20公里（12英里），面积约为128平方公里（50平方英里）。它很浅，最大深度只有6米（20英尺）左右，不过湖水的水位会根据气象和气候条件而变化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;8月31日，一个名为Bjorka的用户在一个名为Breached Forums的鲜为人知的网站上发布了一条信息，标题很平淡。&amp;quot;印度尼西亚SIM卡（电话号码）注册13亿&amp;quot;。这几个字预示着对13亿张SIM卡注册的巨大数据黑客攻击--它揭示了国民身份号码、电话号码、电信供应商的名称等等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AirPods和Mac配件可能会在2024年改用USB-C接口](https://www.cnbeta.com/articles/tech/1325207.htm) | Sun Oct 09 2022 1:52 PM 
+- 💼 [Windows 95曾发布专门的补丁 只是为了修复《模拟城市》中的兼容问题](https://www.cnbeta.com/articles/tech/1325227.htm) | Sun Oct 09 2022 2:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据彭博社记者Mark Gurman报道，所有三种型号的AirPods和Mac配件，如Magic Keyboard和Magic Trackpad，都有可能在2024年前过渡到USB-C。&lt;/strong&gt;本周早些时候，欧洲议会批准了一项新的指令，迫使制造商在2024年底之前在欧洲销售的各种设备上提供USB-C作为通用充电端口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-align: left;&quot;&gt;在PC上很容易把向后兼容视为理所当然，以至于我们甚至很少使用&amp;quot;向后兼容&amp;quot;这个短语。大多数老游戏都能简单地运行，而对于其他的东西，通常有一个内置于Windows或DOSBox的兼容模式来让它运行。这并不是偶然发生的，正如一位前微软程序员的旧博文所解释的那样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《守望先锋2》自动购买bug被修复 但暴雪不会退款](https://hot.cnbeta.com/articles/game/1325205.htm) | Sun Oct 09 2022 1:44 PM 
+- 💂 [因远程办公关闭摄像头而被跨国公司解雇的荷兰员工在法庭上获赔75000欧元](https://www.cnbeta.com/articles/tech/1325225.htm) | Sun Oct 09 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《守望先锋2》“自动购买”bug现已被修复，但暴雪并不会退款。在《守望先锋》Reddit板块上，有玩家爆料称在和一些好友聊天并浏览英雄画廊时，这款游戏“出人意外地解锁了Junnker Queen的Plutonium皮肤。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325205.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一家美国企业的一名远程雇员因拒绝在工作时打开网络摄像头而被解雇，荷兰法院以不当解雇为由判给他大约7.5万欧元。这名诺德·布拉班特省迪森市的居民之前被总部位于佛罗里达州米拉玛的软件开发公司Chetu Inc.的Rijswijk分公司聘用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星开始生产LTPS TFT技术的MicroLED电视](https://www.cnbeta.com/articles/tech/1325203.htm) | Sun Oct 09 2022 1:44 PM 
+- 🚀 [伊朗国营广播公司电视节目的直播被抗议者入侵](https://www.cnbeta.com/articles/tech/1325223.htm) | Sun Oct 09 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;MicroLED被看作是OLED之后的下一代自发光显示面板，而三星早已在CES 2018上首次展示了采用新显示技术的The Wall MicroLED电视。MicroLED主要优势在于每个像素均由实际的发光二极管组成，能够提供更好的视角、更亮的显示亮度、以及更高的对比度等，三星一直希望进一步改进MicroLED技术并扩大其面板的生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;伊朗国营广播公司周六的直播显然遭到了黑客攻击，一则新闻公告被该国正在进行的抗议活动打断。屏幕上出现了一个面具，随后是最高领袖阿里-哈梅内伊的图像，他周围有火焰。该组织自称&amp;quot;Adalat Ali&amp;quot;，意为&amp;quot;阿里的正义&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [霍乱不是甲类传染病吗，为啥武大的病例不危险？](https://www.cnbeta.com/articles/science/1325201.htm) | Sun Oct 09 2022 1:44 PM 
+- 🎊 [9月新能源车销量出炉：比亚迪20万辆一枝独秀 碾压特斯拉](https://www.cnbeta.com/articles/tech/1325221.htm) | Sun Oct 09 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周初，网上曝出武汉大学有一位学生出现感染性腹泻，诊断为霍乱。霍乱，堪称“跑肚之王”，腹泻界的扛把子，是我国法定传染病中唯二的甲类传染病之一（另一个是鼠疫），令人闻之色变。这种急性腹泻疾病，若不加以治疗，可在数小时内使人死亡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月9日，乘联会公布2022年9月新能源乘用车厂商批发销量，预估&lt;strong&gt;9月销量66.4万辆，环比8月约增长5%，同比去年9月增长约90%。&lt;/strong&gt;具体厂商方面，&lt;strong&gt;比亚迪以超过200973辆的销量一枝独秀&lt;/strong&gt;，不仅是唯一突破10万销量的厂商，也是唯一突破20万销量的厂商。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
