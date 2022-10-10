@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [芯片制造商 ADATA（威刚）否认遭到 RansomHouse 组织攻击](https://www.freebuf.com/news/346304.html) | Sun Oct 09 2022 3:29 AM 
+- 🦄 [FreeBuf早报 | 宜家智能照明系统存缺陷；英特尔第12代处理器源码遭泄露](https://www.freebuf.com/news/346341.html) | Sun Oct 09 2022 8:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    攻击者只需一个畸形的 Zigbee 框架，就可控制某些宜家智能照明设备，使用户无法关灯。 
+    </details> 
+
+- 🦄 [RSAC2022议题分享：OT逆向工程](https://www.freebuf.com/articles/web/346306.html) | Sun Oct 09 2022 3:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    OT技术（OT）是一类硬件和软件，用于监控和控制物理设备的性能，主要运用于制造业、运输业和公众服务业等一系列的工业控制系统中。 
+    </details> 
+
+- 🦅 [芯片制造商 ADATA（威刚）否认遭到 RansomHouse 组织攻击](https://www.freebuf.com/news/346304.html) | Sun Oct 09 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     中国台湾芯片制造商 ADATA（威刚）否认近期遭到来自 RansomHouse 组织的网络攻击。 
     </details> 
 
-- 🦄 [《信息安全技术 软件供应链安全要求》（征求意见稿）发布](https://www.freebuf.com/news/346297.html) | Sun Oct 09 2022 3:07 AM 
+- 🪄 [《信息安全技术 软件供应链安全要求》（征求意见稿）发布](https://www.freebuf.com/news/346297.html) | Sun Oct 09 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     《安全要求》给出了软件供应链安全保护目标，规定了软件供应链组织管理和供应活动管理的安全要求。 
     </details> 
 
-- 🦅 [400万条2K Games用户数据正在暗网上出售](https://www.freebuf.com/news/346294.html) | Sun Oct 09 2022 2:51 AM 
+- 💻 [400万条2K Games用户数据正在暗网上出售](https://www.freebuf.com/news/346294.html) | Sun Oct 09 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
     在黑客论坛上，2K的游戏支持数据库已被挂出进行销售，包括用户 id、用户名、电子邮件、真实姓名等信息，总计达到400万条。 
-    </details> 
-
-- 🪄 [泄露约30万用户信息，丰田公开道歉](https://www.freebuf.com/news/346273.html) | Sat Oct 08 2022 10:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    丰田汽车公司旗下T-Connect服务出现安全事故，近三十万用户的个人信息可能已经被攻击者窃取。 
-    </details> 
-
-- 💻 [FreeBuf早报 | LofyGang向开源软件大量投毒；黑客从Binance窃取超过5.7亿美元](https://www.freebuf.com/news/346237.html) | Sat Oct 08 2022 6:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    LofyGang 威胁组织正在使用 200 多个恶意 NPM 包和数千个安装程序来窃取信用卡数据、游戏和流媒体帐户，然后在地下黑客论坛中售卖被盗凭据和战利品。 
     </details> 
 <!-- freebuf:END -->
 
