@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [djay Pro AI 4.0.10 专业的DJ工具](https://xclient.info/s/djay-pro.html) | Mon Oct 10 2022 1:56 AM 
+- 🦏 [One Switch 1.27 一键切换系统各项功能](https://xclient.info/s/one-switch.html) | Mon Oct 10 2022 2:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    One Switch 是Mac平台上的一款集合一键切换系统各项功能的工具。One Switch Mac版是一款小巧的应用程序，旨在通过快速访问一些重要的交换机来提高您的效率。它可以从菜单栏打开，只需点击几下即可切换某些系统功能。 
+    </details> 
+
+-  [PhotoSweeper X 4.6.0 重复照片查找删除工具](https://xclient.info/s/photosweeper.html) | Mon Oct 10 2022 2:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    PhotoSweeper可以快速有效的从你的电脑中删除重复照片,可以对照片分组对比,可以选择格式,尺寸,文件大小. 
+    </details> 
+
+- ⚗️ [Grids for Instagram 8.2 在桌面端更加优雅地浏览Instagram](https://xclient.info/s/grids-for-instagram.html) | Mon Oct 10 2022 2:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    Grids带给您Mac上的全新的Instagram体验。完美支持VPN和代理连接！ 
+    </details> 
+
+- 🔥 [djay Pro AI 4.0.10 专业的DJ工具](https://xclient.info/s/djay-pro.html) | Mon Oct 10 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
     djay Pro是Mac os平台上的一款非常专业的DJ工具，帮助你即时访问数以百万计的音频轨道 
     </details> 
 
--  [Mirror for Samsung TV 3.8 Samsung智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-samsung-tv.html) | Sun Oct 09 2022 12:45 AM 
+- 🌋 [Mirror for Samsung TV 3.8 Samsung智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-samsung-tv.html) | Sun Oct 09 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
     Mirror for Samsung TV是Mac os系统上Samsung智能电视影像投放软件，用户通过该软件可以将Mac电脑的影像投放在Samsung智能电视上。 
-    </details> 
-
-- ⚗️ [Mirror for TCL TV 3.8 TCL智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-tcl-tv.html) | Sun Oct 09 2022 12:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    您的 Mac 到任何TCL智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
-    </details> 
-
-- 🔥 [Mirror for Sony TV 3.8 Sony智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-sony-tv.html) | Sun Oct 09 2022 12:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    Mirror for Sony TV是Mac os系统上Sony智能电视影像投放软件，用户通过该软件可以将Mac电脑的影像投放在Sony智能电视上。 
-    </details> 
-
-- 🌋 [Mirror for Chromecast 2.10 Chromecast屏幕镜像应用](https://xclient.info/s/mirror-for-chromecast.html) | Sun Oct 09 2022 12:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    您的 Mac 到任何Chromecast屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
     </details> 
 <!-- xclient:END -->
 
