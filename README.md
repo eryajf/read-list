@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [MobPush Android For Unity](https://juejin.cn/post/7152769671022936072) | Mon Oct 10 2022 6:40 AM 
+- 🤗 [Flowable 设置任务处理人的四种方式](https://juejin.cn/post/7152792262999539720) | Mon Oct 10 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    MobPush是MobTech推出的一款免费的推送服务工具，客户端SDK支持iOS和Android两大平台，集成方便简单快捷，且提供完整的可视化数据和强大的管理后台 
+    @[toc] 上篇文章松哥和大家分享了 Flowable 中的 ReceiveTask，这只是流程中任务的一种，今天我们就一起来看另外一个更为常见的 Task--UserTask。 UserTask  
     </details> 
 
-- 🎡 [深入理解 Android Studio Sync 流程](https://juejin.cn/post/7152769459541770254) | Mon Oct 10 2022 6:39 AM 
+- 🎡 [Javascript系列值dom操作以及client、scroll及offset整理](https://juejin.cn/post/7152790976682000398) | Mon Oct 10 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-    本文对 Android Studio Sync 入口到 Gradle 构建结束阶段进行了深入的源码分析，并分别从 Android Studio 和 Gradle 视角梳理了 Sync 整体流程。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 整理这篇dom操作的初衷，也就是希望自己的知识能够有个体系吧，点连成线，线成为面，笔者也只是极其普通的前 
     </details> 
 
-- 🕯 [RocketMQ DLedger架构在小米的大规模实践](https://juejin.cn/post/7152768942195343390) | Mon Oct 10 2022 6:36 AM 
+- 🕯 [React 可组合 API 的设计原则](https://juejin.cn/post/7152528132027711502) | Sun Oct 09 2022 3:02 PM 
     <details><summary>展开描述 ...</summary> 
-    DLedger架构作为RocketMQ 4.5 推出的全新架构，稳定性有保障。小米的在线核心业务规模巨大，需要很高的可靠性保证，因此选择了DLedger架构。小米希望用数据说话，积极地拥抱社区发展并认 
+    组件化是 React 的核心思想，把独立组件组合起来使用，是对抗项目增长过程中复杂性快速上升的主要手段，在本文中，我们将深入探讨用于分解组件和设计可组合 API 的主要原则。 
     </details> 
 
-- 🚀 [Android中高级进阶开发面试题冲刺合集（四）](https://juejin.cn/post/7152767713192968222) | Mon Oct 10 2022 6:32 AM 
+- 🚀 [搭建npm私服，我为什么推荐Verdaccio？](https://juejin.cn/post/7152508589385449479) | Sun Oct 09 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
-    以下主要针对往期收录的面试题进行一个分类归纳整理，方便大家统一回顾和参考。本篇是安卓面试题的第四集~ 
+    npm私服是什么? 在自己的服务器上部署一个支持发布、下载、版本管理等服务的npm仓库就是npm私服，也叫私有化部署npm 众所周知的原因，国内下载npm包特别慢甚至... 
     </details> 
 
-- 💪 [写给小白的Code Review 教程（1）](https://juejin.cn/post/7152766253453541390) | Mon Oct 10 2022 6:27 AM 
+- 💪 [JavaScript - 手写call、apply和bind函数](https://juejin.cn/post/7152504357190107149) | Sun Oct 09 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
-    为啥有这一篇 ？ 发现关注技术本身，关注实现，关注优化，关注性能，关注复用，关注成本很多，但关注代码怎么写？写成什么样比较好？很少 真的是程序员和代码有一个能跑就行吗？ 先说不好的样子 1、 重复的代 
+    我正在参加「掘金·启航计划」 前言 无论在面试时还是使用中，难免会遇到改变this指向的问题，这时我们便会想到call、apply、bind，可对于他们的底层是如何实现，大多数人不太清楚，如果你对他们 
     </details> 
 <!-- juejin:END -->
 ### 少数派
