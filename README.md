@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Citus 11 官方手册脑图 - PostgreSQL 超大规模分布式数据库解决方案上手指南](https://juejin.cn/post/7152844553618194469) | Mon Oct 10 2022 11:31 AM 
+- 🤗 [AgileBoot - 基于SpringBoot + Vue3的前后端快速开发脚手架](https://juejin.cn/post/7152871067151777829) | Mon Oct 10 2022 1:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    基于Springboot + vue3的前后端快速开发脚手架。 基于Ruoyi进行完全重构改造。欢迎大家使用~给意见~ 
+    </details> 
+
+- 🎡 [Android内存抖动（主要原因分析+6个优化小技巧）](https://juejin.cn/post/7152861867113709605) | Mon Oct 10 2022 12:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 内存抖动概念 简单来说就是： 在程序需要对象的时候，在堆当中分配出来一块空间，使用完毕以后， GC 帮我 
+    </details> 
+
+- 🕯 [糟了，线上服务出现OOM了](https://juejin.cn/post/7152845602882060324) | Mon Oct 10 2022 11:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 前一段时间，公司同事的一个线上服务OOM的问题，我觉得挺有意思的，在这里跟大家一起分享一下。 我当时其实也参与了一部分问题的定位。 1 案发现场 他们有个mq消费者服务，在某一天下午，出现OOM 
+    </details> 
+
+- 🚀 [Citus 11 官方手册脑图 - PostgreSQL 超大规模分布式数据库解决方案上手指南](https://juejin.cn/post/7152844553618194469) | Mon Oct 10 2022 11:31 AM 
     <details><summary>展开描述 ...</summary> 
     脑图大纲 入门 什么是Citus？ Citus 可以扩展多远？ 何时使用 Citus 多租户数据库 实时分析 使用注意事项 何时 Citus 不合适 快速教程 多租户应用程序 数据模型和示例数据 创建 
     </details> 
 
-- 🎡 [Docker系列学习&lpar;12&rpar; -- 联合文件系统](https://juejin.cn/post/7152837100826525727) | Mon Oct 10 2022 11:03 AM 
+- 💪 [Docker系列学习&lpar;12&rpar; -- 联合文件系统](https://juejin.cn/post/7152837100826525727) | Mon Oct 10 2022 11:03 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第12天，点击查看活动详情 生命不息，学习不止 题外话 今天这是意想不到的一天，早上起床看外面阳光明媚，结果出门发现刮大风，这自行 
-    </details> 
-
-- 🕯 [两道题有趣的题考验你的js知识，80%的人都不知道答案](https://juejin.cn/post/7152829289707077663) | Mon Oct 10 2022 10:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言： 作为前端开发工程师，JavaScript是我们主要的开发语言，是每个人必须要掌握的，它是弱类型语言，本身语法也比较简单，但是在我们平时使用中也会遇到很多奇奇怪怪的 
-    </details> 
-
-- 🚀 [云原生爱好者周刊：在浏览器中运行 Linux 系统 | 2022-10-10](https://juejin.cn/post/7152823391257378829) | Mon Oct 10 2022 10:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    Confluent 官网已经放出了[《Kafka 权威指南第二版：大规模实时数据和流处理》]&lpar;https://www.confluent.io/resources/kafka-the-definit 
-    </details> 
-
-- 💪 [PolarDB-X 全局二级索引](https://juejin.cn/post/7152817686018261000) | Mon Oct 10 2022 9:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介： 索引是数据库的基础组件，早在1970年代，SystemR 就已经通过增加索引来支持多维度查询。单机数据库中，索引主要按照用途和使用的数据结构分为 BTree 索引、Hash 索引、全文索引、空 
     </details> 
 <!-- juejin:END -->
 ### 少数派
