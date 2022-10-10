@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [小册上新｜IntelliJ  IDE 插件开发指南](https://juejin.cn/post/7152806683399028743) | Mon Oct 10 2022 9:03 AM 
+- 🤗 [RocketMQ 5.0：无状态代理模式的探索与实践](https://juejin.cn/post/7152814345083158565) | Mon Oct 10 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    小册将通过实践案例，从简单特性到复杂特性，整理了一个系统性、体系化的学习路径，通过解决实际问题，结合实际场景编写程序功能，来学习相关的知识。为了叙述简洁，后文中的插件指的都是在 IntelliJ ID 
+    未来，我们期望RocketMQ底层的Broker和NameServer 更多聚焦在存储的特性上，比如业务型消息存储的事务、定时、顺序等，快速构建消息索引、打造一致性多副本提升消息可靠性、多级存储来达到 
     </details> 
 
-- 🎡 [Android车载多媒体开发——MediaSession框架](https://juejin.cn/post/7152802586737770527) | Mon Oct 10 2022 8:47 AM 
+- 🎡 [Xmake v2.7.2 发布，更加智能化构建第三方库](https://juejin.cn/post/7152813783214194696) | Mon Oct 10 2022 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-    一、多媒体应用架构 1.1 音视频传统应用架构 通常，传统的播放音频或视频的多媒体应用由两部分组成： 播放器：用于吸收数字媒体并将其呈现为视频和/或音频； 界面：带有用于运行播放器并显示播放器状态（可 
+    Xmake 是一个基于 Lua 的轻量级跨平台构建工具。 它非常的轻量，没有任何依赖，因为它内置了 Lua 运行时。 
     </details> 
 
-- 🕯 [深入浅出的理解小程序插件及组件、控件的区别](https://juejin.cn/post/7152800306114330655) | Mon Oct 10 2022 8:38 AM 
+- 🕯 [详解webpack构建优化](https://juejin.cn/post/7152809454927347748) | Mon Oct 10 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-    由于在小程序开发中需要引入插件，但被几个概念难住了，虽然能够了解大致的含义，但是对于每一个概念的理解又不是很深入，所以深入学习了解了几个“概念模糊”的知识点。 
+    当项目越来越复杂时，会面临着构建速度慢和构建出来的文件体积大的问题。webapck构建优化对于大项目是必须要考虑的一件事，下面我们就从速度和体积两方面来探讨构建优化的策略。 分析工具 在优化之前，我们 
     </details> 
 
-- 🚀 [JS算法之动态规划](https://juejin.cn/post/7152798100925448200) | Mon Oct 10 2022 8:30 AM 
+- 🚀 [Axure RP 教程，如何在 Axure RP 中制作高保真密码文本字段？](https://juejin.cn/post/7152807440709320711) | Mon Oct 10 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    在采用动态规划时，总是用递归的思路分析问题，即把大问题分成小问题，再把小问题的解合起来形成大问题的解。 找出描述大问题的解和小问题的解之间递归关系的状态转移方程是采用动态规划解决问题的关键所在 
+    欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中制作高保真密码文本字段。 
     </details> 
 
-- 💪 [架构大合集，轻松应对工作需求（上）](https://juejin.cn/post/7152798100908670983) | Mon Oct 10 2022 8:30 AM 
+- 💪 [RocketMQ Streams在云安全及 IoT 场景下的大规模最佳实践](https://juejin.cn/post/7152805695497175076) | Mon Oct 10 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 本文讲述： 数据结构和算法，23种设计模式， OKhttp，Retrofit， Glide， Dagger2， MVP，MVC,MVVM,MVI, Jetpack Room, 可能字数限制会分为 
+    RocketMQ Streams的第三个应用场景是IOT。IOT是典型的边缘计算场景，挑战在于需要用4core 8g来混部其业务和RocketMQ Streams任务，几百个任务的压力非常大。而且它需 
     </details> 
 <!-- juejin:END -->
 ### 少数派
