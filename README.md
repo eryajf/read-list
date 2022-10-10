@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：法官推迟推特诉马斯克案庭审；微软推出新款 Xbox 迷你冰箱等](https://sspai.com/post/76088) | Mon Oct 10 2022 12:46 AM 
+- 👹 [不是你的怀旧助手：多亲 F22 Pro 两周体验](https://sspai.com/post/76092) | Mon Oct 10 2022 3:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    敲碎怀旧梦的不是产品本身。&lt;a href=&quot;https://sspai.com/post/76092&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：法官推迟推特诉马斯克案庭审；微软推出新款 Xbox 迷你冰箱等](https://sspai.com/post/76088) | Mon Oct 10 2022 12:46 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事法官推迟推特诉马斯克案庭审并设定最后期限近日，在马斯克逆转此前数月的强硬立场、提议以原定价格继续收购推特之后，该案主审法官批准了马斯克推迟开庭的请求，要求马斯克必须在10月28日之前 ...&lt;a href=&quot;https://sspai.com/post/76088&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [临终关怀——用生命的质量代替无谓的时长](https://sspai.com/prime/story/hospice-care) | Sun Oct 09 2022 9:58 AM 
+- 🤭 [临终关怀——用生命的质量代替无谓的时长](https://sspai.com/prime/story/hospice-care) | Sun Oct 09 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
     临终关怀是这场「暴风雨」中唯一可以遮蔽的地方，在医护及家属的陪伴下，就像拥有了可依偎的取暖炉，在我们在生命的最后阶段，可以从容的面对死亡。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/hospice-care&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [了解干眼症：让眼里常含泪水，别对屏幕爱得深沉](https://sspai.com/post/76078) | Sun Oct 09 2022 8:00 AM 
+- 🥸 [了解干眼症：让眼里常含泪水，别对屏幕爱得深沉](https://sspai.com/post/76078) | Sun Oct 09 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     在中国有超过 20% 的人口有各种程度的干眼症，今天我们就来聊聊它的成因、症状，以及我们可以做些什么来缓解症状，并防止情况恶化。&lt;a href=&quot;https://sspai.com/post/76078&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [鼠标搭配 iPadOS，如何设置才能更好用？](https://sspai.com/post/76060) | Sun Oct 09 2022 6:28 AM 
+- 🙉 [鼠标搭配 iPadOS，如何设置才能更好用？](https://sspai.com/post/76060) | Sun Oct 09 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
     写在前面2019年，苹果正式发布iPadOS，自此iPad就开始支持蓝牙外接鼠标，再次将iPad的生产力提到更高层次，也再次呼应了曾经的那句slogan：你的下一台电脑，何必是电脑。对于自带触控版的电 ...&lt;a href=&quot;https://sspai.com/post/76060&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [幕后 | 去往「夜之城」的故事背后：CDPR 开发团队核心成员专访](https://sspai.com/post/76056) | Sun Oct 09 2022 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    游戏里和游戏外，《赛博朋克 2077》的开发者想要通过这款游戏传达些什么？ &lt;a href=&quot;https://sspai.com/post/76056&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
