@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华强北，告别“水货”天堂？](https://www.cnbeta.com/articles/tech/1325555.htm) | Mon Oct 10 2022 12:44 PM 
+- 🕯 [网传徐克版《神雕侠侣》2024-2025年开拍](https://hot.cnbeta.com/articles/movie/1325565.htm) | Mon Oct 10 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;水货“背包客”刘浩（化名）把华强北附近的房子退掉了，搬到了近十五公里外的布吉，如今跑一趟华强北要转一次地铁、花费近1小时，但可以把房租由1.2万元压缩至几千元。租金还不是最主要的，刘浩最近发现，和iPhone 14系列在华略显“冷清”的销量一样，“水货”在华强北也不再炙手可热。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;网传徐克版《神雕侠侣》开机时间为2024-2025年，名单中还有《封神传奇2》和《追龙3》。徐克版《神雕侠侣》改编自金庸同名武侠小说，由徐克导演、施南生监制。徐克曾经表示，《神雕侠侣》是他看的第一本武侠小说，因此对他影响深远。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google 艺术与文化实验室推出“自然韵律”体验项目](https://www.cnbeta.com/articles/tech/1325553.htm) | Mon Oct 10 2022 12:40 PM 
+- 💼 [反攻BBA老家却不为卖更多的车 蔚来要在欧洲讲什么样的汽车创新故事？](https://www.cnbeta.com/articles/tech/1325563.htm) | Mon Oct 10 2022 1:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;感谢&lt;a href=&quot;https://www.goofan.com&quot; target=&quot;_blank&quot;&gt;茶叶蛋&lt;/a&gt;的投递&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;10 月 10 日是 &lt;a href=&quot;https://www.who.int/campaigns/world-mental-health-day/2022&quot;&gt;世界心理健康日&lt;/a&gt; &lpar;World Mental Health Day&rpar;，今天，Google 艺术与文化实验室，携手美国 &lt;a href=&quot;https://www.artsandmindlab.org/&quot;&gt;约翰霍普金斯大学国际艺术 + 思维实验室&lt;/a&gt; &lpar;IAM 实验室&rpar; 以及 Google 的&amp;quot;幸福&amp;quot;实验室 &lpar;Wellbeing Lab&rpar;，一起合作打造出最新体验，以帮助人们体验心灵内在的片刻平静。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间10月8日零时，蔚来NIO Berlin现场，仿佛又让中国媒体们回到了几年前的蔚来发布会现场，不过这场欧洲发布会，唯一让中国媒体感觉新鲜的，就是蔚来宣布在包括德国、荷兰、丹麦、瑞典开启的订阅模式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [网传问界M7后排空调不能制热 客服：前排空调可满足全车取暖需求](https://www.cnbeta.com/articles/tech/1325551.htm) | Mon Oct 10 2022 12:07 PM 
+- 💂 [曾孵化国内首个破亿众筹项目 京东众筹今日正式暂停运营](https://www.cnbeta.com/articles/tech/1325561.htm) | Mon Oct 10 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日多地迎来寒潮，气温骤降，开车途中必须打开空调才能保证乘坐舒适度。不过有AITO问界M7的车主反映称，自己的车辆后两排空调不能制热，打电话问了客服，结果得到的回应是&lt;strong&gt;后排空调没有制热功能，只能制冷&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月，京麦商家中心曾发布公告，表示将在10月暂停运营京东众筹业务。今天，&lt;strong&gt;京东众筹业务正式暂停业务，已上线的项目还将继续进行众筹，且众筹成功后能够正常发货。&lt;/strong&gt;虽然官方表示京东众筹仅仅是“暂停运营”，但在用户看来，这无疑意味着京东已经放弃了在众筹项目上继续投入资源。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究发现加工纤维含量高的饮食可能会增加癌症风险](https://www.cnbeta.com/articles/tech/1325549.htm) | Mon Oct 10 2022 12:06 PM 
+- 🚀 [创维发布首款4K 144Hz miniLED专业显示器 标配屏幕挂灯](https://www.cnbeta.com/articles/tech/1325559.htm) | Mon Oct 10 2022 12:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;许多人经常食用富含纤维的食物，以促进减肥和抵御癌症和糖尿病等慢性疾病。然而，根据托莱多大学最近的一项研究，食用高度精制的纤维可能会提高某些人患肝癌的风险，特别是那些有隐性血管畸形的人。这一发现在发表于《胃肠病学》杂志的一份报告中有所描述，它增加了托莱多大学不断扩大的知识体系，即我们的肠道在疾病起源中所扮演的被低估的角色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月10日消息，创维发布了行业首款支持144Hz高刷的MiniLED专业设计显示器D80（32英寸）。屏幕方面，&lt;strong&gt;采用mini LED背光技术，4K分辨率，覆盖99% DCI-P3广色域，色准ΔE＜1，满足DisplayHDR 1000标准认证，也就是HDR最高亮度超1000尼特，还支持10种专业色彩模式。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [三星通过首批Tizen操作系统授权交易寻求智能电视领域的增长](https://www.cnbeta.com/articles/tech/1325547.htm) | Mon Oct 10 2022 11:55 AM 
+- 🎊 [只晒太阳一年能跑1700公里 广汽丰田bZ4X上市：19.98万起](https://www.cnbeta.com/articles/tech/1325557.htm) | Mon Oct 10 2022 12:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星已经确认了首批搭载其Tizen操作系统（OS）的第三方智能电视制造商，一些制造商准备今年在欧洲和大洋洲推出搭载Tizen的电视。Tizen是一个基于Linux的操作系统，由Linux基金会主持了十多年，三星一直是该项目的主要开发者和推动者，将其用于无数的设备，包括智能手表、厨房电器、相机、智能手机和电视。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月10日，广汽丰田bZ4X正式上市。&lt;strong&gt;新车共推出5款配置车型，售价格区间为19.98-28.78万元。&lt;/strong&gt;新车基于丰田e-TNGA架构打造，定位纯电动中型SUV，将提供两驱和四驱两种驱动形式，CLTC工况最长续航里程可达615km。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
