@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Mirror for Samsung TV 3.8 Samsung智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-samsung-tv.html) | Sun Oct 09 2022 12:45 AM 
+- 🦏 [djay Pro AI 4.0.10 专业的DJ工具](https://xclient.info/s/djay-pro.html) | Mon Oct 10 2022 1:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    djay Pro是Mac os平台上的一款非常专业的DJ工具，帮助你即时访问数以百万计的音频轨道 
+    </details> 
+
+-  [Mirror for Samsung TV 3.8 Samsung智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-samsung-tv.html) | Sun Oct 09 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
     Mirror for Samsung TV是Mac os系统上Samsung智能电视影像投放软件，用户通过该软件可以将Mac电脑的影像投放在Samsung智能电视上。 
     </details> 
 
--  [Mirror for TCL TV 3.8 TCL智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-tcl-tv.html) | Sun Oct 09 2022 12:44 AM 
+- ⚗️ [Mirror for TCL TV 3.8 TCL智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-tcl-tv.html) | Sun Oct 09 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
     您的 Mac 到任何TCL智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
     </details> 
 
-- ⚗️ [Mirror for Sony TV 3.8 Sony智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-sony-tv.html) | Sun Oct 09 2022 12:43 AM 
+- 🔥 [Mirror for Sony TV 3.8 Sony智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-sony-tv.html) | Sun Oct 09 2022 12:43 AM 
     <details><summary>展开描述 ...</summary> 
     Mirror for Sony TV是Mac os系统上Sony智能电视影像投放软件，用户通过该软件可以将Mac电脑的影像投放在Sony智能电视上。 
     </details> 
 
-- 🔥 [Mirror for Chromecast 2.10 Chromecast屏幕镜像应用](https://xclient.info/s/mirror-for-chromecast.html) | Sun Oct 09 2022 12:42 AM 
+- 🌋 [Mirror for Chromecast 2.10 Chromecast屏幕镜像应用](https://xclient.info/s/mirror-for-chromecast.html) | Sun Oct 09 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
     您的 Mac 到任何Chromecast屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
-    </details> 
-
-- 🌋 [Mirror for Hisense TV 3.9 Hisense智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-hisense-tv.html) | Sun Oct 09 2022 12:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    您的 Mac 到任何Hisense智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
     </details> 
 <!-- xclient:END -->
 
