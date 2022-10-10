@@ -343,9 +343,9 @@
     英特尔已向知名硬件网站Tom&#39;s Hardware确认其第十二代酷睿处理器Alder Lake 的UEFI BIOS 源代码已泄露。 
     </details> 
 
-- 🦅 [三城联动，四大特色，CIS 2022多维时空观众报名开启](https://www.freebuf.com/fevents/346377.html) | Mon Oct 10 2022 2:01 AM 
+- 🦅 [三城联动，四大特色 | CIS 2022大会各地观众限量报名开启](https://www.freebuf.com/fevents/346377.html) | Mon Oct 10 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    2022年，CIS即将迎来八岁“生日”，让我们共聚多维时空，来一场网安知识狂欢。 
+    11月16日，上海不见不散！ 
     </details> 
 
 - 🪄 [FreeBuf早报 | 宜家智能照明系统存缺陷；英特尔第12代处理器源码遭泄露](https://www.freebuf.com/news/346341.html) | Sun Oct 09 2022 8:25 AM 
