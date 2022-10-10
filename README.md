@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [加州理工科学家开发出了可拍摄神经信号传播的新型超快相机](https://www.cnbeta.com/articles/science/1325501.htm) | Mon Oct 10 2022 9:20 AM 
+- 🕯 [Google Pixel 7拆解视频显示其相比Pixel 7 Pro略易维修](https://www.cnbeta.com/articles/tech/1325509.htm) | Mon Oct 10 2022 9:46 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Google Pixel 7和7 Pro将在本周晚些时候上市销售（仅在部分市场），官方将为它提供3个操作系统更新和5年的安全补丁。但是，如果有什么东西坏了怎么办？PBKreviews的拆解视频检查了Pixel 7和它的可修复性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [2023年元旦起插混和增程式不再享受上海免费绿牌](https://www.cnbeta.com/articles/tech/1325507.htm) | Mon Oct 10 2022 9:41 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;插电式、增程式混动车辆，今后将无法再免费获得上海绿牌，对于上海地区的消费者来说，想买车的抓紧了。10月10日消息，根据上海市最新出台的《上海市鼓励购买和使用新能源汽车实施办法》，&lt;strong&gt;自2023年1月1日起，对消费者购买或受让插电混动汽车（含增程式）的，不再发放专用牌照额度。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [暴跌1000多美元 AMD RX 6900 XT旗舰卡现价格史低](https://www.cnbeta.com/articles/tech/1325505.htm) | Mon Oct 10 2022 9:41 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;狂潮彻底退去，加之更新换代，显卡降价将成为近一段时间的一个主流趋势，有时候还会相当猛，当然也看不同地区和市场。&lt;strong&gt;在北美，AMD曾经的旗舰卡RX 6900 XT就一路走低，甚至跌破了700美元，相比年初的高点低了超过1000美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [娶我 渔船都是你的 女主播带货信口开河被罚4万](https://hot.cnbeta.com/articles/funny/1325503.htm) | Mon Oct 10 2022 9:40 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;“我爸说了，只要你娶了我，后面所有的船都是你的！”“原产地的野生梭子蟹，1块想要吗？想要来我直播间，1箱只赚你1块！”&lt;strong&gt;今年8月，一位女主播直播兜售梭子蟹，直播过程中信口开河，雷人语录层出不穷。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [加州理工科学家开发出了可拍摄神经信号传播的新型超快相机](https://www.cnbeta.com/articles/science/1325501.htm) | Mon Oct 10 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;无论伸手触摸桌面上的何种物品，大脑都需要花一些时间来分析。但从指尖传导而来的信号，刹那间就可抵达大脑皮层。&lt;strong&gt;研究指出，触摸信号的神经传导速度超过 100 英里/小时（160 公里/小时）。而且某些神经信号甚至可以接近 300 mph（约 480 km/h）。&lt;/strong&gt;现在，加州理工学院的科学家们又介绍了一种新型超快相机，特点是能够记录信号脉冲穿过神经细胞时的镜头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [宇宙级杀猪盘：“俄宇航员”称要回地球 骗日本老人21万](https://hot.cnbeta.com/articles/funny/1325499.htm) | Mon Oct 10 2022 9:05 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;相较于盗号假扮熟人，诈骗个电话费、生活费什么的低级诈骗方式，“杀猪盘”的诈骗危害要更大，不仅诈骗金钱，还会欺骗感情，最终受害者落个人财两空。只不过，现如今的杀猪盘，诈骗分子的脑洞也是越来越大，就连“宇航员回地球”这样的离谱背景，也能编排出来。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [微软Surface发布会活动将于10月12日举办 部分新机配置细节汇总](https://www.cnbeta.com/articles/tech/1325497.htm) | Mon Oct 10 2022 8:58 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软的Surface发布会活动将于10月12日举行，随着这一天的临近，更多的粉丝对这家科技巨头可能公布的设备越来越好奇。截至目前，有消息称微软将给我们带来Surface Pro 9，Surface Laptop 5，以及新的Surface Studio台式机Surface Pro 9是在一份公布的FCC文件中被发现后，预计将在此次活动中出场的最大牌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [沪指跌破3000点 芯片股集体大跌](https://www.cnbeta.com/articles/tech/1325495.htm) | Mon Oct 10 2022 8:49 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月10日电，大盘全天高开低走，沪指跌破3000点整数关口，科创50指数跌超4%。盘面上，养殖板块逆势活跃，鸡肉股大涨，晓鸣股份涨超10%，益生股份、华统股份涨停。能源相关板块集体走强，油气方向领涨，准油股份、贝肯能源、宝莫股份涨停。下跌方面，芯片股集体大跌，北方华创跌停，多股跌超10%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [出租视频会员判赔200万 被告辩称视频公司会员制度不合理](https://www.cnbeta.com/articles/tech/1325493.htm) | Mon Oct 10 2022 8:48 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;企查查App显示，北京爱奇艺科技有限公司与安徽省刀锋网络科技有限公司不正当竞争纠纷的案件民事判决书公开。文书显示，爱奇艺公司主张刀锋公司在其运营的平台中的影视专区提供视频会员账号租赁服务，并与出租方合作分成行为构成不正当竞争。被告刀锋公司辩称爱奇艺公司的会员制度不合理，导致用户存在出租或租赁视频账号的需求，故视频账号租赁属于合理的经营模式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
