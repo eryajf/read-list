@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [「React 深入」一文玩转React Hooks的单元测试](https://juejin.cn/post/7152709386752753701) | Mon Oct 10 2022 2:46 AM 
+- 🤗 [chrome扩展训练营 ｜ 5. chrome扩展脚手架实现](https://juejin.cn/post/7152730899325386766) | Mon Oct 10 2022 4:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    文章中提到的脚手架帮我们解决了需要一直复制粘贴项目或者手动更改常规配置的烦恼，在本文中，我们将通过 vue-chrome-cli 的学习，收获：如何实现一个脚手架 
+    </details> 
+
+- 🎡 [Hackathon 实用指南丨快速给 TiDB 新增一个功能](https://juejin.cn/post/7152712174534656030) | Mon Oct 10 2022 2:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    TiDB Hackathon 2022 火热报名中！你报名了吗（还没报名看这里）？你有 idea 了吗（没有 idea 看这里）？ 有了 idea，但是不够了解 TiDB，不知道如何动手实践？本文将通 
+    </details> 
+
+- 🕯 [「React 深入」一文玩转React Hooks的单元测试](https://juejin.cn/post/7152709386752753701) | Mon Oct 10 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是小杜杜，俗话说得好，光说不练假把式，我始终认为实践才是最好的老师，有关React Hooks的单元测试却很少，或者说并不全面，所以今天就来详细讲讲有关React Hooks如何进行单元测试 
     </details> 
 
-- 🎡 [一次磁盘占用率 100% 的排查记录](https://juejin.cn/post/7152703078548897806) | Mon Oct 10 2022 2:21 AM 
+- 🚀 [Logstash： Grok 模式示例](https://juejin.cn/post/7152708022786064392) | Mon Oct 10 2022 2:40 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 你好，我是悟空。 最近遇到一个服务器的问题：磁盘满了，占用率 100%~ 这个问题太常见了，于是先来排查一波是哪些文件占用了大量磁盘。 一、排查磁盘占用率100% 1.1 
+    Logstash 可以轻松解析 CSV 和 JSON 文件，因为这些格式的数据组织得很好，可以进行 Elasticsearch 分析。 但是，有时我们需要处理非结构化数据，例如纯文本日志。 在这些情况 
     </details> 
 
-- 🕯 [实时营销引擎在vivo营销自动化中的实践 | 引擎篇04](https://juejin.cn/post/7152701753946095629) | Mon Oct 10 2022 2:16 AM 
+- 💪 [摹客RP，新增图文选项卡组件！](https://juejin.cn/post/7152706065501519880) | Mon Oct 10 2022 2:33 AM 
     <details><summary>展开描述 ...</summary> 
-    重点分析介绍在营销自动化业务中实时营销场景的背景价值、实时营销引擎架构以及项目开发过程中如何利用动态队列做好业务流量隔离，动态发布，使用规则引擎来提升营销规则的配置效率等几种关键技术设计实践。 
-    </details> 
-
-- 🚀 [一次性弄懂Unicode和UTF-8](https://juejin.cn/post/7152699935660441636) | Mon Oct 10 2022 2:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    在日常开发的过程中，有关 Unicode 、UTF-8 的问题并不常出现，但在阅读技术文章或源码时出现频率就比较高了。本文就带你了解Unicode和UTF-8的相关知识~ 
-    </details> 
-
-- 💪 [各大中间件底层技术-分布式一致性协议 Raft 详解](https://juejin.cn/post/7152698364507734047) | Mon Oct 10 2022 2:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 正式介绍 Raft 协议之前，我们先来举个职场产研团队的一个例子。 方式一： 在一个技术团队内假设 
+    Hello，小伙伴们，又到了摹客的新功能播报时间。 本月更新，摹客RP新增新的组件——图文选项卡组件，可用于快速制作手机项目底部导航等模块。摹客协作针对任务管理模块做了不小的调整，评论功能可插入图片， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
