@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [传闻称基于AMD硬件方案的Frontier Exascale超算的启动进展不顺](https://www.cnbeta.com/articles/tech/1325381.htm) | Mon Oct 10 2022 3:37 AM 
+- 🕯 [国家能源局印发《能源碳达峰碳中和标准化提升行动计划》](https://www.cnbeta.com/articles/tech/1325399.htm) | Mon Oct 10 2022 5:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;橡树岭国家实验室（ORNL）的 Frontier 超算，使用了 AMD EPYC Trento CPU 和 Instinct MI550X GPU 加速卡。&lt;/strong&gt;为构建这套百亿亿级（Exascale）超算系统，ORNL 还选用了 HPE 的 Slingshot 连接方案。据悉，HPE 的 Cray EX 架构，是专为大型应用程序而创建的。如果一切顺利，Frontier 将于 2023 年起向研究人员开放访问，以协助其开展相关科学研究。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据国家能源局10月9日消息，国家能源局印发《能源碳达峰碳中和标准化提升行动计划》。&lt;/strong&gt;到2025年，初步建立起较为完善、可有力支撑和引领能源绿色低碳转型的能源标准体系，能源标准从数量规模型向质量效益型转变，标准组织体系进一步完善，能源标准与技术创新和产业发展良好互动，有效推动能源绿色低碳转型、节能降碳、技术创新、产业链碳减排。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [深圳又发大额消费补贴 买华为Mate50系列能省2000元](https://www.cnbeta.com/articles/tech/1325379.htm) | Mon Oct 10 2022 3:18 AM 
+- 💼 [吉比特增持《羊了个羊》研发商简游科技10%股权](https://hot.cnbeta.com/articles/game/1325397.htm) | Mon Oct 10 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，深圳又发大额电子消费补贴了！购买vivo&amp;nbsp;X Fold+和华为Mate 50RS保时捷版等高端旗舰的，&lt;strong&gt;最高享15%比例优惠，最高能省2000元。&lt;/strong&gt;此前，深圳就曾开展过多次消费电子产品促销活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月10日消息，在上证e互动平台，吉比特在回答投资者提问时表示，《羊了个羊》的研发商为北京简游科技有限公司，公司通过控股子公司厦门雷霆网络科技股份有限公司间接持有其20%的股权（其中10%股权为公司依据首次投资时约定于近日增持）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [因涉嫌发表反犹言论 Twitter限制了Kanye West的账号使用](https://hot.cnbeta.com/articles/music/1325377.htm) | Mon Oct 10 2022 3:15 AM 
+- 💂 [转转Q3手机行情：iPhone14没“十三香” 华为Mate50仍在加价](https://www.cnbeta.com/articles/tech/1325395.htm) | Mon Oct 10 2022 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在被 Instagram 平台限制后，改名“Ye”的 Kanye West 决定重返 Twitter 。&lt;strong&gt;然而周六的时候，外媒报道称其社交媒体账号再次被限。&lt;/strong&gt;Twitter 官方证实，起因是 Kanye West 于周六发布了一条涉嫌反犹太主义的推文。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1325377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月10日，转转集团发布《2022年三季度手机市场行情报告》，二手市场，苹果iPhone的交易量仍居第一，但该季度iPhone交易占比下降至28.89%；国产手机品牌三季度交易量均在上涨，其中小米（含红米）连续6个季度成为二手国产手机市场销量第一品牌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软XGP到底赚了多少钱？2021年创造29亿美元收入](https://hot.cnbeta.com/articles/game/1325375.htm) | Mon Oct 10 2022 3:05 AM 
+- 🚀 [IDC：三季度全球PC发货量总计7420万台 同比下降15%](https://www.cnbeta.com/articles/tech/1325393.htm) | Mon Oct 10 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软收购动视暴雪的交易需要全球多个监管机构批准，最近巴西经济保护管理委员会&lpar;CADE&rpar;批准了这项交易，并披露了一份文件，公布了有关Xbox的一些数据。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月10日，根据国际数据公司&lpar;IDC&rpar;全球个人计算设备季度追踪的初步结果，2022第三季度，全球PC发货量总计7,420万台，传统PC市场继续下滑。需求降温和供应不平衡导致同比收缩15.0%。然而，由于Windows 7即将停止支持，当前PC出货量主要由商业更新驱动，出货量仍远高于疫前的水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [海天味业股价暴跌逾8% 添加剂风波影响仍未平息](https://www.cnbeta.com/articles/tech/1325373.htm) | Mon Oct 10 2022 3:03 AM 
+- 🎊 [月壤玻璃微球揭秘地月系统小行星撞击事件](https://www.cnbeta.com/articles/science/1325391.htm) | Mon Oct 10 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;添加剂的事情，让海天味业陷入了被动，不少用户吐槽该公司双标，虽然其连发三个声明，但市场依然不买账，&lt;strong&gt;国庆假期后的第一天（10月10日）开盘，海天味业股价就出现了大跌，集合竞价时还一度出现了跌停，截至发稿时，股价已经跌幅超8%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;小行星撞击是人类文明未来面临的潜在灾难之一。地球上记录有约200次大型撞击事件，直径数千米的小行星撞击足以造成生物大灭绝。地球形成45亿年以来撞击通量呈指数下降。那么，地月系统小行星撞击频率是否一直平稳衰减？数量众多的近地小行星是否可能导致未来撞击事件突然增加？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
