@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [网传徐克版《神雕侠侣》2024-2025年开拍](https://hot.cnbeta.com/articles/movie/1325565.htm) | Mon Oct 10 2022 1:42 PM 
+- 🕯 [新研究显示高研发成本不能解释高药价](https://www.cnbeta.com/articles/tech/1325587.htm) | Mon Oct 10 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;网传徐克版《神雕侠侣》开机时间为2024-2025年，名单中还有《封神传奇2》和《追龙3》。徐克版《神雕侠侣》改编自金庸同名武侠小说，由徐克导演、施南生监制。徐克曾经表示，《神雕侠侣》是他看的第一本武侠小说，因此对他影响深远。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;多年来，制药业专利的捍卫者喜欢声称，他们之所以需要专利，之所以不得不对药物收取高额费用，是因为新药的研发成本很高&lt;/strong&gt;。这些数字不断上升。之前人们谈论的数字是每种新药6亿美元。然后，它跳到8亿美元。然后是10亿美元。我听到他们声称的最新数字是每个新药平均15亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [反攻BBA老家却不为卖更多的车 蔚来要在欧洲讲什么样的汽车创新故事？](https://www.cnbeta.com/articles/tech/1325563.htm) | Mon Oct 10 2022 1:01 PM 
+- 💼 [人工智能把我们带到了它想要的地方](https://www.cnbeta.com/articles/tech/1325585.htm) | Mon Oct 10 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间10月8日零时，蔚来NIO Berlin现场，仿佛又让中国媒体们回到了几年前的蔚来发布会现场，不过这场欧洲发布会，唯一让中国媒体感觉新鲜的，就是蔚来宣布在包括德国、荷兰、丹麦、瑞典开启的订阅模式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们观看、阅读和购买的许多东西都是通过YouTube、Twitter和亚马逊等网站的推荐系统进入我们的视野。算法进行了个性化处理，旨在获得广告浏览量、点击量或购买量。&lt;strong&gt;有时，AI的建议让我们感到沮丧，似乎他们根本不了解我们，或者太了解我们，预测什么会让我们浪费时间或进入焦虑和错误信息的兔子洞。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [曾孵化国内首个破亿众筹项目 京东众筹今日正式暂停运营](https://www.cnbeta.com/articles/tech/1325561.htm) | Mon Oct 10 2022 1:00 PM 
+- 💂 [苹果回应iPhone 14碰撞检测功能误报问题：没有单一的“银色子弹”](https://www.cnbeta.com/articles/tech/1325583.htm) | Mon Oct 10 2022 2:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月，京麦商家中心曾发布公告，表示将在10月暂停运营京东众筹业务。今天，&lt;strong&gt;京东众筹业务正式暂停业务，已上线的项目还将继续进行众筹，且众筹成功后能够正常发货。&lt;/strong&gt;虽然官方表示京东众筹仅仅是“暂停运营”，但在用户看来，这无疑意味着京东已经放弃了在众筹项目上继续投入资源。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;继过山车触发新的iPhone 14碰撞检测等问题后，苹果公司高管一直在透露更多关于它如何工作的信息。有真实的撞车，也有错误的坐过山车时手机疯狂报警的报告，再加上独立测试表明，崩溃检测不会总是有效。现在，苹果公司的两位高管出面回应碰撞检测是如何工作的，为什么会出现这些故障，或误报的情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [创维发布首款4K 144Hz miniLED专业显示器 标配屏幕挂灯](https://www.cnbeta.com/articles/tech/1325559.htm) | Mon Oct 10 2022 12:59 PM 
+- 🚀 [分析师：iPhone明年将转向USB-C 但这&quot;只是一个权宜之计&quot;](https://www.cnbeta.com/articles/tech/1325581.htm) | Mon Oct 10 2022 2:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月10日消息，创维发布了行业首款支持144Hz高刷的MiniLED专业设计显示器D80（32英寸）。屏幕方面，&lt;strong&gt;采用mini LED背光技术，4K分辨率，覆盖99% DCI-P3广色域，色准ΔE＜1，满足DisplayHDR 1000标准认证，也就是HDR最高亮度超1000尼特，还支持10种专业色彩模式。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果将在明年的iPhone 15系列中将其电缆接口转换到USB-C，彭博社分析师马克-古尔曼对此很肯定，他写道：&amp;quot;iPhone 15基本上锁定在2023年秋季获得USB-C，比规定的时间早一年。&amp;quot;由于新的欧盟法律在技术上要求将USB-C适用于从2024年秋季开始销售的新款便携式电子设备，因此苹果可以再挤出一年的时间使用Lightning接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [只晒太阳一年能跑1700公里 广汽丰田bZ4X上市：19.98万起](https://www.cnbeta.com/articles/tech/1325557.htm) | Mon Oct 10 2022 12:58 PM 
+- 🎊 [研究发现叶酸治疗与自杀风险降低有关](https://www.cnbeta.com/articles/science/1325579.htm) | Mon Oct 10 2022 2:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月10日，广汽丰田bZ4X正式上市。&lt;strong&gt;新车共推出5款配置车型，售价格区间为19.98-28.78万元。&lt;/strong&gt;新车基于丰田e-TNGA架构打造，定位纯电动中型SUV，将提供两驱和四驱两种驱动形式，CLTC工况最长续航里程可达615km。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一种常见的、价格低廉的营养补充剂与自杀企图和自我伤害减少44%有关。2020年美国有近46000人死于自杀，这是美国的主要死亡原因之一。为了减少自杀的风险，&lt;strong&gt;专家们推荐了许多策略和治疗方法，包括心理治疗、经济支持、同伴支持，以及抗抑郁药等药物，但很少有人会把叶酸补充剂放在这个清单上。然而，最近在芝加哥大学进行的一项令人大开眼界的研究可能会改变这种情况。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
