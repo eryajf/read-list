@@ -343,19 +343,19 @@
     英特尔已向知名硬件网站Tom&#39;s Hardware确认其第十二代酷睿处理器Alder Lake 的UEFI BIOS 源代码已泄露。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 宜家智能照明系统存缺陷；英特尔第12代处理器源码遭泄露](https://www.freebuf.com/news/346341.html) | Sun Oct 09 2022 8:25 AM 
+- 🦅 [三城联动，四大特色，CIS 2022多维时空观众报名开启](https://www.freebuf.com/fevents/346377.html) | Mon Oct 10 2022 2:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022年，CIS即将迎来八岁“生日”，让我们共聚多维时空，来一场网安知识狂欢。 
+    </details> 
+
+- 🪄 [FreeBuf早报 | 宜家智能照明系统存缺陷；英特尔第12代处理器源码遭泄露](https://www.freebuf.com/news/346341.html) | Sun Oct 09 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者只需一个畸形的 Zigbee 框架，就可控制某些宜家智能照明设备，使用户无法关灯。 
     </details> 
 
-- 🪄 [RSAC2022议题分享：OT逆向工程](https://www.freebuf.com/articles/web/346306.html) | Sun Oct 09 2022 3:32 AM 
+- 💻 [RSAC2022议题分享：OT逆向工程](https://www.freebuf.com/articles/web/346306.html) | Sun Oct 09 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
     OT技术（OT）是一类硬件和软件，用于监控和控制物理设备的性能，主要运用于制造业、运输业和公众服务业等一系列的工业控制系统中。 
-    </details> 
-
-- 💻 [芯片制造商 ADATA（威刚）否认遭到 RansomHouse 组织攻击](https://www.freebuf.com/news/346304.html) | Sun Oct 09 2022 3:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    中国台湾芯片制造商 ADATA（威刚）否认近期遭到来自 RansomHouse 组织的网络攻击。 
     </details> 
 <!-- freebuf:END -->
 
