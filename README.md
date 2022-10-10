@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google Pixel 7拆解视频显示其相比Pixel 7 Pro略易维修](https://www.cnbeta.com/articles/tech/1325509.htm) | Mon Oct 10 2022 9:46 AM 
+- 🕯 [2022年诺贝尔经济学奖揭晓 3名经济学家获奖](https://www.cnbeta.com/articles/tech/1325515.htm) | Mon Oct 10 2022 11:17 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据诺贝尔奖官网消息，北京时间10月10日，2022年诺贝尔经济学奖揭晓，Ben S． Bernanke，Douglas W． Diamond和Philip H． Dybvig因“对银行和金融危机的研究”获奖。与其他诺贝尔奖不同的是，诺贝尔经济学奖是唯一一个并非根据创始人阿尔弗雷德•诺贝尔（Alfred Nobel）遗愿设立的奖项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [腾讯搁置收购黑鲨手机 减缓硬件投入聚焦软件技术层面](https://www.cnbeta.com/articles/tech/1325513.htm) | Mon Oct 10 2022 11:08 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月10日，第一财经记者向腾讯内部人士确认了搁置收购黑鲨手机的消息。据了解，搁置该收购计划的原因既包括外界大环境变化也包括企业自身调整。天眼查App显示，黑鲨手机关联公司南昌黑鲨科技有限公司成立于2017年8月，法定代表人为罗语周，注册资本约7308万元人民币。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [阿基米德名场面：新研究证实适度分心更能激发灵感](https://www.cnbeta.com/articles/science/1325511.htm) | Mon Oct 10 2022 11:03 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;说到“灵光一闪”，许多人脑海中浮现的，可能是阿基米德在泡澡时联想到的“浮力等于排水重量”。&lt;strong&gt;而近日发表于《美学、创造力和艺术心理学》杂志上的一篇文章，就很好地解释了人们为何容易在浴室里放松时发散思维。&lt;/strong&gt;明尼苏达大学哲学助理教授 Zac Irving 在合著论文中表示，当一个人从事“无意识”的任务时，更可能在浮想联翩中得出创造性的解决方案。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Google Pixel 7拆解视频显示其相比Pixel 7 Pro略易维修](https://www.cnbeta.com/articles/tech/1325509.htm) | Mon Oct 10 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Google Pixel 7和7 Pro将在本周晚些时候上市销售（仅在部分市场），官方将为它提供3个操作系统更新和5年的安全补丁。但是，如果有什么东西坏了怎么办？PBKreviews的拆解视频检查了Pixel 7和它的可修复性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [2023年元旦起插混和增程式不再享受上海免费绿牌](https://www.cnbeta.com/articles/tech/1325507.htm) | Mon Oct 10 2022 9:41 AM 
+- 🎊 [2023年元旦起插混和增程式不再享受上海免费绿牌](https://www.cnbeta.com/articles/tech/1325507.htm) | Mon Oct 10 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;插电式、增程式混动车辆，今后将无法再免费获得上海绿牌，对于上海地区的消费者来说，想买车的抓紧了。10月10日消息，根据上海市最新出台的《上海市鼓励购买和使用新能源汽车实施办法》，&lt;strong&gt;自2023年1月1日起，对消费者购买或受让插电混动汽车（含增程式）的，不再发放专用牌照额度。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [暴跌1000多美元 AMD RX 6900 XT旗舰卡现价格史低](https://www.cnbeta.com/articles/tech/1325505.htm) | Mon Oct 10 2022 9:41 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;狂潮彻底退去，加之更新换代，显卡降价将成为近一段时间的一个主流趋势，有时候还会相当猛，当然也看不同地区和市场。&lt;strong&gt;在北美，AMD曾经的旗舰卡RX 6900 XT就一路走低，甚至跌破了700美元，相比年初的高点低了超过1000美元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [娶我 渔船都是你的 女主播带货信口开河被罚4万](https://hot.cnbeta.com/articles/funny/1325503.htm) | Mon Oct 10 2022 9:40 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“我爸说了，只要你娶了我，后面所有的船都是你的！”“原产地的野生梭子蟹，1块想要吗？想要来我直播间，1箱只赚你1块！”&lt;strong&gt;今年8月，一位女主播直播兜售梭子蟹，直播过程中信口开河，雷人语录层出不穷。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [加州理工科学家开发出了可拍摄神经信号传播的新型超快相机](https://www.cnbeta.com/articles/science/1325501.htm) | Mon Oct 10 2022 9:20 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;无论伸手触摸桌面上的何种物品，大脑都需要花一些时间来分析。但从指尖传导而来的信号，刹那间就可抵达大脑皮层。&lt;strong&gt;研究指出，触摸信号的神经传导速度超过 100 英里/小时（160 公里/小时）。而且某些神经信号甚至可以接近 300 mph（约 480 km/h）。&lt;/strong&gt;现在，加州理工学院的科学家们又介绍了一种新型超快相机，特点是能够记录信号脉冲穿过神经细胞时的镜头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
