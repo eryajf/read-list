@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三叠纪标本中发现翼龙的早期亲属](https://www.cnbeta.com/articles/science/1325259.htm) | Sun Oct 09 2022 8:17 PM 
+- 🕯 [椰树“擦边”上热搜 直播多次遭中断 网友吵起来了](https://hot.cnbeta.com/articles/movie/1325331.htm) | Mon Oct 10 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;100多年前，在苏格兰的东北部首次发现了一个小小的三叠纪爬行动物化石。现在，一项新的分析显示，它是后来成为翼龙的物种的近亲，也就是家喻户晓的恐龙时代的标志性的能够飞行的爬行动物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;椰树集团试水抖音直播带货，“熟悉的配方，熟悉的味道”再度引发热议。近日，抖音直播间内，蓝色背景上方有“椰树集团”黄色大字，4名女主播身着紧身上衣，在直播间一边跟着音乐表演才艺，一边展示椰树牌产品。评论区有网友调侃，“还是熟悉的配方”“‘从小喝到大’被罚了照样我行我素”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [据传iPhone SE 4将采用6.1英寸LCD显示屏 继续保留刘海](https://www.cnbeta.com/articles/tech/1325257.htm) | Sun Oct 09 2022 8:12 PM 
+- 💼 [《海贼王：红发歌姬》确定11月4日北美公映 时代广场活动盛况空前](https://hot.cnbeta.com/articles/comic/1325329.htm) | Mon Oct 10 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Display Supply Chain Consultants &lpar;DSCC&rpar;分析师Ross Young称，第四代iPhone SE将采用6.1英寸LCD显示屏，并在显示屏顶部继续保留自iPhone X以来就存在的刘海。Young表示已经修改了对第四代iPhone SE的预期。2021年10月，在提供对苹果计划的洞察力方面有着非常好的记录的杨说，该公司计划在2024年发布一个新的iPhone SE型号，配备5.7至6.1英寸的“打孔”液晶显示屏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;纽约当地时间10月8日晚间，《海贼王：红发歌姬》官方降临时代广场举行大型宣传活动，宣布超人气动画电影《海贼王：红发歌姬》确定11月4日美国•加拿大公映，11月3日澳大利亚•新西兰公映，现场粉丝蜂拥而来，盛况空前。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1325329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14 Plus刚上市就破发 被指“年度最不保值手机”之一](https://www.cnbeta.com/articles/tech/1325255.htm) | Sun Oct 09 2022 6:52 PM 
+- 💂 [电源厂商Enermax列出RTX 4070/4060和RX 7000系列显卡参考功耗](https://www.cnbeta.com/articles/tech/1325327.htm) | Mon Oct 10 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国庆假期的最后一天，即10月7日，是iPhone 14 Plus的首发日期。在6999元的定价、配置上没有大的更新、外观没有变化等多重因素叠加下，iPhone 14 Plus上市即破发。据10月8日的第三方渠道报价，刚刚正式发售的iPhone14 Plus大幅破发，低于官方价格400-1000元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了方便 PC DIY 玩家参考，许多电源供应器厂商都有在官网上提供简易的电脑组件功耗计算器。不过近日，有眼尖的人们发现 —— &lt;strong&gt;安耐美（Enermax）刚刚更新了网页列表、并且曝光了几款尚未正式发布的英伟达 GeForce RTX 40 和 AMD Radeon RX 7000 系列显卡型号。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [飓风搅动的沉积物在佛罗里达州的西海岸产生了五颜六色的漩涡](https://www.cnbeta.com/articles/science/1325253.htm) | Sun Oct 09 2022 5:53 PM 
+- 🚀 [低成本“风力收割机”可将微风变电能](https://www.cnbeta.com/articles/science/1325325.htm) | Mon Oct 10 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年9月28日，飓风伊恩形成强大的四级风暴，以每小时约150英里（240公里）的持续风速猛烈袭击了佛罗里达州的西南海岸。然而，风并不是这场强大风暴的唯一破坏性成分；水也是一个主要因素，其形式是灾难性的风暴潮、无情的倾盆大雨和强烈的洪水。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新加坡科学家开发出一种低成本的“风力收割机”，可捕捉微风般柔和的风能，将其储存为电能。实验显示，当暴露在速度低至2米/秒的风中时，该设备可产生3伏电压及290微瓦的电力，足以为商业传感器供电，让其将数据发送到手机或计算机上。相关研究发表于最近的《机械系统与信号处理》杂志。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [iPhone 14的碰撞检测功能让其在过山车上不断拨打911](https://www.cnbeta.com/articles/tech/1325251.htm) | Sun Oct 09 2022 5:31 PM 
+- 🎊 [椰树椰汁，“黑红”到底](https://www.cnbeta.com/articles/tech/1325323.htm) | Mon Oct 10 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;iPhone 14的新碰撞检测功能本应在检测到发生车祸时提醒当局，但它有一个意想不到的副作用：在过山车上疯狂拨打911。&lt;/strong&gt;根据《华尔街日报》的报道，该功能已使执法部门多次被派往游乐园，因为他们误以为惊险刺激的游乐设施的大范围转弯、加速和急刹车是真正的紧急情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;饮料届最常上热搜的，恐怕就是椰树牌椰汁了。当年凭借word风格的土味包装和“从小喝到大”的辣眼睛广告语，椰树牌椰汁也算是“黑红”出圈。尽管广告风格一直饱受又“土”又“污”的质疑，椰树集团的品味却始终如一，如今更是把这种风格照搬进了直播间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
