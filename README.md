@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究认为Long COVID-19可能源于肺部过度活跃的免疫反应](https://www.cnbeta.com/articles/tech/1325479.htm) | Mon Oct 10 2022 8:16 AM 
+- 🕯 [加州理工科学家开发出了可拍摄神经信号传播的新型超快相机](https://www.cnbeta.com/articles/science/1325501.htm) | Mon Oct 10 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在COVID-19大流行开始后不久，出现了一些传闻，说以前健康的人在感染SARS-CoV-2后出现了挥之不去的症状，没有完全康复。这些病人开始称自己&amp;quot;Long COVID&amp;quot;长病程感染者。引起呼吸道疾病的病毒，如流感和COVID-19在感染的头几周内会导致轻微到严重的症状。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;无论伸手触摸桌面上的何种物品，大脑都需要花一些时间来分析。但从指尖传导而来的信号，刹那间就可抵达大脑皮层。&lt;strong&gt;研究指出，触摸信号的神经传导速度超过 100 英里/小时（160 公里/小时）。而且某些神经信号甚至可以接近 300 mph（约 480 km/h）。&lt;/strong&gt;现在，加州理工学院的科学家们又介绍了一种新型超快相机，特点是能够记录信号脉冲穿过神经细胞时的镜头。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD发布新的P-State EPP驱动 提高Linux环境下的CPU电源效率](https://www.cnbeta.com/articles/tech/1325477.htm) | Mon Oct 10 2022 8:08 AM 
+- 💼 [宇宙级杀猪盘：“俄宇航员”称要回地球 骗日本老人21万](https://hot.cnbeta.com/articles/funny/1325499.htm) | Mon Oct 10 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD公司最近为基于Linux的计算机更新了P-state EPP驱动程序，在CPU电源效率方面提供了良好的提升。该公司正在利用ACPI CPPC能源偏好性能信息来控制CPU的功率，使处理器更加高效并提高性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;相较于盗号假扮熟人，诈骗个电话费、生活费什么的低级诈骗方式，“杀猪盘”的诈骗危害要更大，不仅诈骗金钱，还会欺骗感情，最终受害者落个人财两空。只不过，现如今的杀猪盘，诈骗分子的脑洞也是越来越大，就连“宇航员回地球”这样的离谱背景，也能编排出来。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [海天味业因添加剂风波股价大跌 老对手千禾味业直播间卖断货](https://www.cnbeta.com/articles/tech/1325475.htm) | Mon Oct 10 2022 8:04 AM 
+- 💂 [微软Surface发布会活动将于10月12日举办 部分新机配置细节汇总](https://www.cnbeta.com/articles/tech/1325497.htm) | Mon Oct 10 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在刚刚过去的十一假期，海天味业多次登上热搜。在最新的回应中，海天味业表示：海天味业产品销往全球80多个国家和地区，无论是国内市场还是国际市场，公司均有高中低不同档次的产品，均销售含食品添加剂的产品及不含食品添加剂的产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软的Surface发布会活动将于10月12日举行，随着这一天的临近，更多的粉丝对这家科技巨头可能公布的设备越来越好奇。截至目前，有消息称微软将给我们带来Surface Pro 9，Surface Laptop 5，以及新的Surface Studio台式机Surface Pro 9是在一份公布的FCC文件中被发现后，预计将在此次活动中出场的最大牌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [蒙古航空公司波音737 Max飞机复飞中国航线](https://www.cnbeta.com/articles/tech/1325473.htm) | Mon Oct 10 2022 8:03 AM 
+- 🚀 [沪指跌破3000点 芯片股集体大跌](https://www.cnbeta.com/articles/tech/1325495.htm) | Mon Oct 10 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;波音737 Max飞机在2018、2019年的两次空难中导致346人遇难，之后被多国禁飞，4年后的今年才被部分国家允许复飞，今天该机型也首次复飞中国航线，不过国内目前还没有正式批准737 Max的国内复飞。根据FlightRadar24的数据，&lt;strong&gt;蒙古航空公司旗下一架由乌兰巴托起飞的航班于北京时间10日上午8点18分在广州降落。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月10日电，大盘全天高开低走，沪指跌破3000点整数关口，科创50指数跌超4%。盘面上，养殖板块逆势活跃，鸡肉股大涨，晓鸣股份涨超10%，益生股份、华统股份涨停。能源相关板块集体走强，油气方向领涨，准油股份、贝肯能源、宝莫股份涨停。下跌方面，芯片股集体大跌，北方华创跌停，多股跌超10%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [中国6最多的联通手机号拍卖：1366万起 6万次围观无一人出价](https://www.cnbeta.com/articles/tech/1325471.htm) | Mon Oct 10 2022 7:59 AM 
+- 🎊 [出租视频会员判赔200万 被告辩称视频公司会员制度不合理](https://www.cnbeta.com/articles/tech/1325493.htm) | Mon Oct 10 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上个月，&lt;a class=&quot;f14_link&quot; href=&quot;https://zc-item.taobao.com/auction/683452489857.htm?spm=a2129.27076131.puimod-pc-search-list_2004318340.1&amp;pmid=3279665111_1663033371178&amp;pmtk=20140647.0.0.0.27064540.puimod-pc-search-navbar_5143927030.vault-jump&amp;path=27064540%2C27076131&amp;track_id=da9284d6-0de9-4a38-82bc-3641156d4810&quot; target=&quot;_blank&quot;&gt;阿里拍卖平台&lt;/a&gt;上线了一个“超级靓号”，&lt;strong&gt;号称是中国6最多、最顺利的号码——15666666666。&lt;/strong&gt;该号码一经上架就引发了全网关注。根据平台显示，&lt;strong&gt;今天上午该号码已经正式开拍，起拍价为1366万，加价幅度为5万元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;企查查App显示，北京爱奇艺科技有限公司与安徽省刀锋网络科技有限公司不正当竞争纠纷的案件民事判决书公开。文书显示，爱奇艺公司主张刀锋公司在其运营的平台中的影视专区提供视频会员账号租赁服务，并与出租方合作分成行为构成不正当竞争。被告刀锋公司辩称爱奇艺公司的会员制度不合理，导致用户存在出租或租赁视频账号的需求，故视频账号租赁属于合理的经营模式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
