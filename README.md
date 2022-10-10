@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RocketMQ 5.0：无状态代理模式的探索与实践](https://juejin.cn/post/7152814345083158565) | Mon Oct 10 2022 9:33 AM 
+- 🤗 [Citus 11 官方手册脑图 - PostgreSQL 超大规模分布式数据库解决方案上手指南](https://juejin.cn/post/7152844553618194469) | Mon Oct 10 2022 11:31 AM 
     <details><summary>展开描述 ...</summary> 
-    未来，我们期望RocketMQ底层的Broker和NameServer 更多聚焦在存储的特性上，比如业务型消息存储的事务、定时、顺序等，快速构建消息索引、打造一致性多副本提升消息可靠性、多级存储来达到 
+    脑图大纲 入门 什么是Citus？ Citus 可以扩展多远？ 何时使用 Citus 多租户数据库 实时分析 使用注意事项 何时 Citus 不合适 快速教程 多租户应用程序 数据模型和示例数据 创建 
     </details> 
 
-- 🎡 [Xmake v2.7.2 发布，更加智能化构建第三方库](https://juejin.cn/post/7152813783214194696) | Mon Oct 10 2022 9:31 AM 
+- 🎡 [Docker系列学习&lpar;12&rpar; -- 联合文件系统](https://juejin.cn/post/7152837100826525727) | Mon Oct 10 2022 11:03 AM 
     <details><summary>展开描述 ...</summary> 
-    Xmake 是一个基于 Lua 的轻量级跨平台构建工具。 它非常的轻量，没有任何依赖，因为它内置了 Lua 运行时。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第12天，点击查看活动详情 生命不息，学习不止 题外话 今天这是意想不到的一天，早上起床看外面阳光明媚，结果出门发现刮大风，这自行 
     </details> 
 
-- 🕯 [详解webpack构建优化](https://juejin.cn/post/7152809454927347748) | Mon Oct 10 2022 9:14 AM 
+- 🕯 [两道题有趣的题考验你的js知识，80%的人都不知道答案](https://juejin.cn/post/7152829289707077663) | Mon Oct 10 2022 10:31 AM 
     <details><summary>展开描述 ...</summary> 
-    当项目越来越复杂时，会面临着构建速度慢和构建出来的文件体积大的问题。webapck构建优化对于大项目是必须要考虑的一件事，下面我们就从速度和体积两方面来探讨构建优化的策略。 分析工具 在优化之前，我们 
+    我正在参加「掘金·启航计划」 前言： 作为前端开发工程师，JavaScript是我们主要的开发语言，是每个人必须要掌握的，它是弱类型语言，本身语法也比较简单，但是在我们平时使用中也会遇到很多奇奇怪怪的 
     </details> 
 
-- 🚀 [Axure RP 教程，如何在 Axure RP 中制作高保真密码文本字段？](https://juejin.cn/post/7152807440709320711) | Mon Oct 10 2022 9:06 AM 
+- 🚀 [云原生爱好者周刊：在浏览器中运行 Linux 系统 | 2022-10-10](https://juejin.cn/post/7152823391257378829) | Mon Oct 10 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中制作高保真密码文本字段。 
+    Confluent 官网已经放出了[《Kafka 权威指南第二版：大规模实时数据和流处理》]&lpar;https://www.confluent.io/resources/kafka-the-definit 
     </details> 
 
-- 💪 [RocketMQ Streams在云安全及 IoT 场景下的大规模最佳实践](https://juejin.cn/post/7152805695497175076) | Mon Oct 10 2022 9:00 AM 
+- 💪 [PolarDB-X 全局二级索引](https://juejin.cn/post/7152817686018261000) | Mon Oct 10 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-    RocketMQ Streams的第三个应用场景是IOT。IOT是典型的边缘计算场景，挑战在于需要用4core 8g来混部其业务和RocketMQ Streams任务，几百个任务的压力非常大。而且它需 
+    简介： 索引是数据库的基础组件，早在1970年代，SystemR 就已经通过增加索引来支持多维度查询。单机数据库中，索引主要按照用途和使用的数据结构分为 BTree 索引、Hash 索引、全文索引、空 
     </details> 
 <!-- juejin:END -->
 ### 少数派
