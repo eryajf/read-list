@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果发布watchOS 9.0.2 修复麦克风、Spotify流媒体中断等问题](https://www.cnbeta.com/articles/tech/1325605.htm) | Mon Oct 10 2022 5:38 PM 
+- 🕯 [获得诺贝尔奖的美联储主席伯南克是何方神圣？](https://www.cnbeta.com/articles/tech/1325619.htm) | Mon Oct 10 2022 11:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;除了iOS 16.0.3，苹果今天还发布了watchOS 9.0.2，为Apple Watch用户修复了几个错误。&lt;/strong&gt;该更新解决了与Spotify播放流媒体时的问题和Apple Watch Series 8/Ultra用户的麦克风中断有关的d错误，以及其他一些错误。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;&lt;span style=&quot;&quot;&gt;是爱撒钱的“本直升机”，还是驱逐危机的“巨人”？&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;&quot;&gt;北京时间10月10日晚，2022年诺贝尔经济学奖得主揭晓。美联储前主席本·伯南克（Ben&amp;nbsp;Bernanke）、Douglas W． Diamond和Philip H． Dybvig共享了这一殊荣，以“表彰他们对银行和金融危机的研究”。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iOS 16.0.3现已推出 为iPhone 14 Pro机型提供更多错误修复](https://www.cnbeta.com/articles/tech/1325603.htm) | Mon Oct 10 2022 5:36 PM 
+- 💼 [“空中写卡”的eSIM走红 SIM卡会被完全取代吗？](https://www.cnbeta.com/articles/tech/1325617.htm) | Mon Oct 10 2022 11:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在发布iOS 16.0.2几周后，苹果现在向所有用户提供iOS 16.0.3。通过这个版本的操作系统，该公司正在解决影响iPhone 14 Pro和iPhone 14 Pro Max用户的几个错误。根据iPhone的发布说明，iOS 16.0.3为以下错误提供了修复：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“正组织相关单位，研究推进eSIM技术在平板电脑、便携式计算机及智能手机设备上的应用，待条件成熟后扩大eSIM技术应用范围。”近日，工信部在回复网友提问中谈到的eSIM引发关注。这种不用手机开槽插卡，直接集成在手机内部的eSIM到底是什么？有什么优势？未来会完全取代SIM卡吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [日本小伙用最黑油漆涂满全身 吸收99.4%可见光](https://hot.cnbeta.com/articles/funny/1325601.htm) | Mon Oct 10 2022 4:17 PM 
+- 💂 [乘高铁抽电子烟被拘5天 专家呼吁纳入控烟条例](https://www.cnbeta.com/articles/tech/1325615.htm) | Mon Oct 10 2022 11:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;让自己变白的人很多，你见过让自己变黑的人吗？还是那种最黑的那种。近日，日本油管视频主播Hajime因为一组特殊户外出镜照彻底火了一把。他用世界上几乎最黑的市售油漆涂满全身，引当地网友关注。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;长期游走在禁烟边缘的电子烟，在一些公共场所已经明确被禁。近日，有网友发布G689次高铁上有乘客在吸电子烟的视频。10月8日，12306客服回应媒体称，高铁上可以携带电子烟，但不能抽，高铁上抽烟被发现或触发烟雾报警器将送警方处理，情节严重的要担负刑事责任。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Intel显卡性能超越RTX 3060是有条件的](https://www.cnbeta.com/articles/tech/1325599.htm) | Mon Oct 10 2022 4:10 PM 
+- 🚀 [[评论]利用平台漏洞“薅羊毛”被判刑并不冤](https://www.cnbeta.com/articles/tech/1325613.htm) | Mon Oct 10 2022 11:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel在9月底正式发布了Arc A770及A750系列显卡，这是Arc品牌下的旗舰级显卡，算上A380、A310及A580等，代号“炼金术师”的GPU家族布局算是完成了。售价方面，A750 8GB显卡售价289元，A770 8GB版售价329美元，A770 16GB版售价349美元，对标的主要是友商的RTX 3060显卡，后者售价依然在400多美元以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;因为利用平台漏洞“薅羊毛”而获刑，在多地均有判决的案例。此前在上海，曾有5人因为利用肯德基手机客户端和微信客户端之间数据不同步的漏洞获利20多万元，结果因此获刑。法院一审认为，各被告人通过发起虚假交易获取退券退款的行为，是基于两个客户端之间数据不同步，使被害单位在错误的基础上进行财产处分，进而造成财产损失，故各被告人的行为符合诈骗罪的构成要件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [“世界上最小的鸡”走红网络 到底能不能吃？](https://hot.cnbeta.com/articles/funny/1325597.htm) | Mon Oct 10 2022 4:08 PM 
+- 🎊 [自行车铃铛AirBell：隐藏着一个苹果AirTag](https://www.cnbeta.com/articles/tech/1325611.htm) | Mon Oct 10 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久，小婷在网上购买了几只芦丁鸡养在家里，她希望依靠这些小鸡实现“吃蛋自由”，她养鸡的目的是“吃蛋”。&lt;strong&gt;上游新闻记者在网上看到，芦丁鸡被称为“世界上最小的鸡”，目前在网上有较高人气，不少网友在饲养。芦丁鸡到底是什么动物?&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;骑城市自行车会遇到两个必然情况：小偷会盯上你、游客会走在你的路上。AirBell解决了这两个问题，它将苹果的一个AirTag追踪器谨慎地藏在一个小的机械铃铛里。在许多大城市，自行车被盗是一个不幸的现实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
