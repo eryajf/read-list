@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [AgileBoot - 基于SpringBoot + Vue3的前后端快速开发脚手架](https://juejin.cn/post/7152871067151777829) | Mon Oct 10 2022 1:13 PM 
+- 🤗 [Vue组件库文档站点的搭建思路](https://juejin.cn/post/7152898360498716702) | Mon Oct 10 2022 3:00 PM 
     <details><summary>展开描述 ...</summary> 
-    基于Springboot + vue3的前后端快速开发脚手架。 基于Ruoyi进行完全重构改造。欢迎大家使用~给意见~ 
+    读完本文，可以了解到如何使用`Vite`的`Api`接口来启动服务、如何动态生成多语言的页面路由等。 
     </details> 
 
-- 🎡 [Android内存抖动（主要原因分析+6个优化小技巧）](https://juejin.cn/post/7152861867113709605) | Mon Oct 10 2022 12:38 PM 
+- 🎡 [[教你做小游戏] 太卷了！开发象棋，为了减少40%存储空间，我学了下Huffman Coding](https://juejin.cn/post/7152887680299171870) | Mon Oct 10 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 内存抖动概念 简单来说就是： 在程序需要对象的时候，在堆当中分配出来一块空间，使用完毕以后， GC 帮我 
+    以前存储象棋棋盘状态需要43字符，现在基于Huffman Coding，我只用了25个字符，减少了40%存储空间！快来看看我的编码方式吧！ 
     </details> 
 
-- 🕯 [糟了，线上服务出现OOM了](https://juejin.cn/post/7152845602882060324) | Mon Oct 10 2022 11:35 AM 
+- 🕯 [落地 Kotlin 代码规范，DeteKt了解一下~](https://juejin.cn/post/7152886037746827277) | Mon Oct 10 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 前一段时间，公司同事的一个线上服务OOM的问题，我觉得挺有意思的，在这里跟大家一起分享一下。 我当时其实也参与了一部分问题的定位。 1 案发现场 他们有个mq消费者服务，在某一天下午，出现OOM 
+    各个团队多少都有一些自己的代码规范，但制定代码规范简单，困难的是如何落地。如果完全依赖人力Code Review难免有所遗漏。 这个时候就需要通过静态代码检查工具在每次提交代码时自动检查 
     </details> 
 
-- 🚀 [Citus 11 官方手册脑图 - PostgreSQL 超大规模分布式数据库解决方案上手指南](https://juejin.cn/post/7152844553618194469) | Mon Oct 10 2022 11:31 AM 
+- 🚀 [从 Vue 转换看 Webpack 和 Vite 代码转换机制的差异](https://juejin.cn/post/7152884493529923621) | Mon Oct 10 2022 2:05 PM 
     <details><summary>展开描述 ...</summary> 
-    脑图大纲 入门 什么是Citus？ Citus 可以扩展多远？ 何时使用 Citus 多租户数据库 实时分析 使用注意事项 何时 Citus 不合适 快速教程 多租户应用程序 数据模型和示例数据 创建 
+    我们知道，Webpack 是使用 loader 转换代码的，而 Vite/Rollup 则是使用插件转换代码，那这两种机制有什么差异呢？我们用 Vue 的转换来说明一下。 
     </details> 
 
-- 💪 [Docker系列学习&lpar;12&rpar; -- 联合文件系统](https://juejin.cn/post/7152837100826525727) | Mon Oct 10 2022 11:03 AM 
+- 💪 [25. ES6 模块的加载实现](https://juejin.cn/post/7152879051991056414) | Mon Oct 10 2022 1:45 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第12天，点击查看活动详情 生命不息，学习不止 题外话 今天这是意想不到的一天，早上起床看外面阳光明媚，结果出门发现刮大风，这自行 
+    介绍如何在浏览器和 Node.js 之中加载 ES6 模块。 1. 浏览器加载 ES6 模块——import命令 1.1 传统方法——加载 JavaScript 脚本 HTML 网页中，浏览器通过&lt;s 
     </details> 
 <!-- juejin:END -->
 ### 少数派
