@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [发霉啦：今天，我的未婚夫回来了](http://jandan.net/p/111454) | Mon Oct 10 2022 7:04 AM 
+- 🚀 [化学界有200年历史的谜团：质子如何通过水？](http://jandan.net/p/111455) | Mon Oct 10 2022 9:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    或许我们找到了答案 
+    </details> 
+
+- 🙉 [猫猫也是可以被训练好的](http://jandan.net/p/111453) | Mon Oct 10 2022 8:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    人类为什么没像对狗子那样，通过人工选择，培育出亲人类的猫咪呢？ 
+    </details> 
+
+- 🎉 [发霉啦：今天，我的未婚夫回来了](http://jandan.net/p/111454) | Mon Oct 10 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
     YD周一特辑 
     </details> 
 
-- 🙉 [素食者抑郁的风险高2倍，但原因你肯定猜错了](http://jandan.net/p/111442) | Mon Oct 10 2022 6:17 AM 
+- 🐲 [素食者抑郁的风险高2倍，但原因你肯定猜错了](http://jandan.net/p/111442) | Mon Oct 10 2022 6:17 AM 
     <details><summary>展开描述 ...</summary> 
     寻找饮食与特定健康问题之间的联系并假定前者通过某种形式的营养缺乏导致后者，思路简单、合理又直接。 
     </details> 
 
-- 🎉 [今日好价 1010](http://jandan.net/p/111452) | Mon Oct 10 2022 2:36 AM 
+-  [今日好价 1010](http://jandan.net/p/111452) | Mon Oct 10 2022 2:36 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：44 
-    </details> 
-
-- 🐲 [脑力小体操 大家的空间感有多强呢](http://jandan.net/p/111386) | Sun Oct 09 2022 3:52 PM 
-    <details><summary>展开描述 ...</summary> 
-    很多人都做错了的简单题 
-    </details> 
-
--  [普林斯顿大学每年的基金收益已能覆盖所有运营开销，并盈余19亿美元](http://jandan.net/p/111451) | Sun Oct 09 2022 12:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    全球高校里第一台财富永动机 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
