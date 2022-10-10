@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iOS 16.0.3现已推出 为iPhone 14 Pro机型提供更多错误修复](https://www.cnbeta.com/articles/tech/1325603.htm) | Mon Oct 10 2022 5:36 PM 
+- 🕯 [苹果发布watchOS 9.0.2 修复麦克风、Spotify流媒体中断等问题](https://www.cnbeta.com/articles/tech/1325605.htm) | Mon Oct 10 2022 5:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;除了iOS 16.0.3，苹果今天还发布了watchOS 9.0.2，为Apple Watch用户修复了几个错误。&lt;/strong&gt;该更新解决了与Spotify播放流媒体时的问题和Apple Watch Series 8/Ultra用户的麦克风中断有关的d错误，以及其他一些错误。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iOS 16.0.3现已推出 为iPhone 14 Pro机型提供更多错误修复](https://www.cnbeta.com/articles/tech/1325603.htm) | Mon Oct 10 2022 5:36 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在发布iOS 16.0.2几周后，苹果现在向所有用户提供iOS 16.0.3。通过这个版本的操作系统，该公司正在解决影响iPhone 14 Pro和iPhone 14 Pro Max用户的几个错误。根据iPhone的发布说明，iOS 16.0.3为以下错误提供了修复：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [日本小伙用最黑油漆涂满全身 吸收99.4%可见光](https://hot.cnbeta.com/articles/funny/1325601.htm) | Mon Oct 10 2022 4:17 PM 
+- 💂 [日本小伙用最黑油漆涂满全身 吸收99.4%可见光](https://hot.cnbeta.com/articles/funny/1325601.htm) | Mon Oct 10 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;让自己变白的人很多，你见过让自己变黑的人吗？还是那种最黑的那种。近日，日本油管视频主播Hajime因为一组特殊户外出镜照彻底火了一把。他用世界上几乎最黑的市售油漆涂满全身，引当地网友关注。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel显卡性能超越RTX 3060是有条件的](https://www.cnbeta.com/articles/tech/1325599.htm) | Mon Oct 10 2022 4:10 PM 
+- 🚀 [Intel显卡性能超越RTX 3060是有条件的](https://www.cnbeta.com/articles/tech/1325599.htm) | Mon Oct 10 2022 4:10 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Intel在9月底正式发布了Arc A770及A750系列显卡，这是Arc品牌下的旗舰级显卡，算上A380、A310及A580等，代号“炼金术师”的GPU家族布局算是完成了。售价方面，A750 8GB显卡售价289元，A770 8GB版售价329美元，A770 16GB版售价349美元，对标的主要是友商的RTX 3060显卡，后者售价依然在400多美元以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [“世界上最小的鸡”走红网络 到底能不能吃？](https://hot.cnbeta.com/articles/funny/1325597.htm) | Mon Oct 10 2022 4:08 PM 
+- 🎊 [“世界上最小的鸡”走红网络 到底能不能吃？](https://hot.cnbeta.com/articles/funny/1325597.htm) | Mon Oct 10 2022 4:08 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;前不久，小婷在网上购买了几只芦丁鸡养在家里，她希望依靠这些小鸡实现“吃蛋自由”，她养鸡的目的是“吃蛋”。&lt;strong&gt;上游新闻记者在网上看到，芦丁鸡被称为“世界上最小的鸡”，目前在网上有较高人气，不少网友在饲养。芦丁鸡到底是什么动物?&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [美银：因需求放缓 苹果iPad出货量或在短期内下滑](https://www.cnbeta.com/articles/tech/1325595.htm) | Mon Oct 10 2022 3:56 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国银行分析师Wamsi Mohan周一发表研报表示，由于与新冠疫情有关的影响，苹果的iPad产品可能会在短期内面临阻力。目前，该分析师予以苹果评级为“买入”，目标价为160美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
