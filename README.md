@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Order Suite - 订单管理、库存管理和库存管理](https://xinquji.com/posts/180344?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:32 AM 
+- 👀 [ParagraphAI - 第一款由 GPT-3 提供支持的移动 AI 写作助手应用程序](https://xinquji.com/posts/180352?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-     订单管理、库存管理和库存管理  
+     第一款由 GPT-3 提供支持的移动 AI 写作助手应用程序  
     </details> 
 
-- 🥷 [Sunlighter - 你的每周音乐汇总](https://xinquji.com/posts/180343?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:32 AM 
+- 🥷 [Discovery Phase Checklist 2.0 - 您在软件发现阶段的助手](https://xinquji.com/posts/180351?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     你的每周音乐汇总  
+     您在软件发现阶段的助手  
     </details> 
 
-- 💼 [Dopamine Detox Notion Template - 通过重置你的多巴胺来重新控制他们的生活](https://xinquji.com/posts/180342?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:30 AM 
+- 💼 [Any Photo Puzzle - 使用任何照片玩益智游戏](https://xinquji.com/posts/180350?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-     通过重置你的多巴胺来重新控制他们的生活  
+     使用任何照片玩益智游戏  
     </details> 
 
-- 🦅 [CometVPN - 快速、稳定和廉价的 VPN 让您的体验飞涨](https://xinquji.com/posts/180341?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:30 AM 
+- 🦅 [HTTP Status Tester - 由前 Google 批量测试 URL 的 HTTP 响应](https://xinquji.com/posts/180349?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     快速、稳定和廉价的 VPN 让您的体验飞涨  
+     由前 Google 批量测试 URL 的 HTTP 响应  
     </details> 
 
-- 😺 [Weighlos - 一起减肥——从未如此简单](https://xinquji.com/posts/180340?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:28 AM 
+- 😺 [Vysen - 您的任务管理自动化](https://xinquji.com/posts/180348?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     一起减肥——从未如此简单  
+     您的任务管理自动化  
     </details> 
 <!-- xinquji:END -->
