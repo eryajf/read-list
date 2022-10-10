@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [452.用最少数量的箭引爆气球](https://juejin.cn/post/7152776796022177800) | Mon Oct 10 2022 7:07 AM 
+- 🤗 [MobPush Android For Unity](https://juejin.cn/post/7152769671022936072) | Mon Oct 10 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-    题目： 有一些球形气球贴在一堵用 XY 平面表示的墙面上。墙面上的气球记录在整数数组 points ，其中points[i] = [xstart, xend] 表示水平直径在 xstart 和 xen 
+    MobPush是MobTech推出的一款免费的推送服务工具，客户端SDK支持iOS和Android两大平台，集成方便简单快捷，且提供完整的可视化数据和强大的管理后台 
     </details> 
 
-- 🎡 [WebRTC前端必学的技术🔥,谈谈浏览器关于渲染流程、缓存以及网络请求的原理,虚拟线程 - VirtualThread源码透视| 酱酱的下午茶第84期](https://juejin.cn/post/7152727580859170847) | Mon Oct 10 2022 3:57 AM 
+- 🎡 [深入理解 Android Studio Sync 流程](https://juejin.cn/post/7152769459541770254) | Mon Oct 10 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-    今日看点：WebRTC 从实战到未来！迎接风口，前端必学的技术🔥， 吃透Promise？先实现一个再说（包含所有方法），SQL优化思路+经典案例分析，一文吃透 Kotlin 中眼花缭乱的函数家族.. 
+    本文对 Android Studio Sync 入口到 Gradle 构建结束阶段进行了深入的源码分析，并分别从 Android Studio 和 Gradle 视角梳理了 Sync 整体流程。 
     </details> 
 
-- 🕯 [Axure RP 教程，如何在 Axure RP 中绘制扇形图？](https://juejin.cn/post/7152726152958705672) | Mon Oct 10 2022 3:51 AM 
+- 🕯 [RocketMQ DLedger架构在小米的大规模实践](https://juejin.cn/post/7152768942195343390) | Mon Oct 10 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中绘制扇区图。 
+    DLedger架构作为RocketMQ 4.5 推出的全新架构，稳定性有保障。小米的在线核心业务规模巨大，需要很高的可靠性保证，因此选择了DLedger架构。小米希望用数据说话，积极地拥抱社区发展并认 
     </details> 
 
-- 🚀 [什么是微服务的可扩展性、高可用性和性能伸缩？](https://juejin.cn/post/7152724008218148878) | Mon Oct 10 2022 3:42 AM 
+- 🚀 [Android中高级进阶开发面试题冲刺合集（四）](https://juejin.cn/post/7152767713192968222) | Mon Oct 10 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-    Overview 可扩展性、高可用性和性能 术语可扩展性、高可用性、性能和关键任务对于不同的组织或组织内的不同部门来说可能意味着不同的事情。它们经常互换，造成混乱，导致管理不善的期望、实现延迟或不切实 
+    以下主要针对往期收录的面试题进行一个分类归纳整理，方便大家统一回顾和参考。本篇是安卓面试题的第四集~ 
     </details> 
 
-- 💪 [论如何参与一个开源项目](https://juejin.cn/post/7152695026517016584) | Mon Oct 10 2022 1:50 AM 
+- 💪 [写给小白的Code Review 教程（1）](https://juejin.cn/post/7152766253453541390) | Mon Oct 10 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-    说起开源项目，好像人人都懂：不过就是一群人一起写了些东西，并且这些东西是公开的，大家都能看。但要细说，可能大多数的开发者都说不出个所以然，甚至不知道怎么提issue。 
+    为啥有这一篇 ？ 发现关注技术本身，关注实现，关注优化，关注性能，关注复用，关注成本很多，但关注代码怎么写？写成什么样比较好？很少 真的是程序员和代码有一个能跑就行吗？ 先说不好的样子 1、 重复的代 
     </details> 
 <!-- juejin:END -->
 ### 少数派
