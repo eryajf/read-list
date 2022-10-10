@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [椰树“擦边”上热搜 直播多次遭中断 网友吵起来了](https://hot.cnbeta.com/articles/movie/1325331.htm) | Mon Oct 10 2022 1:48 AM 
+- 🕯 [传闻称基于AMD硬件方案的Frontier Exascale超算的启动进展不顺](https://www.cnbeta.com/articles/tech/1325381.htm) | Mon Oct 10 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;椰树集团试水抖音直播带货，“熟悉的配方，熟悉的味道”再度引发热议。近日，抖音直播间内，蓝色背景上方有“椰树集团”黄色大字，4名女主播身着紧身上衣，在直播间一边跟着音乐表演才艺，一边展示椰树牌产品。评论区有网友调侃，“还是熟悉的配方”“‘从小喝到大’被罚了照样我行我素”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;橡树岭国家实验室（ORNL）的 Frontier 超算，使用了 AMD EPYC Trento CPU 和 Instinct MI550X GPU 加速卡。&lt;/strong&gt;为构建这套百亿亿级（Exascale）超算系统，ORNL 还选用了 HPE 的 Slingshot 连接方案。据悉，HPE 的 Cray EX 架构，是专为大型应用程序而创建的。如果一切顺利，Frontier 将于 2023 年起向研究人员开放访问，以协助其开展相关科学研究。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《海贼王：红发歌姬》确定11月4日北美公映 时代广场活动盛况空前](https://hot.cnbeta.com/articles/comic/1325329.htm) | Mon Oct 10 2022 1:46 AM 
+- 💼 [深圳又发大额消费补贴 买华为Mate50系列能省2000元](https://www.cnbeta.com/articles/tech/1325379.htm) | Mon Oct 10 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;纽约当地时间10月8日晚间，《海贼王：红发歌姬》官方降临时代广场举行大型宣传活动，宣布超人气动画电影《海贼王：红发歌姬》确定11月4日美国•加拿大公映，11月3日澳大利亚•新西兰公映，现场粉丝蜂拥而来，盛况空前。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1325329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，深圳又发大额电子消费补贴了！购买vivo&amp;nbsp;X Fold+和华为Mate 50RS保时捷版等高端旗舰的，&lt;strong&gt;最高享15%比例优惠，最高能省2000元。&lt;/strong&gt;此前，深圳就曾开展过多次消费电子产品促销活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [电源厂商Enermax列出RTX 4070/4060和RX 7000系列显卡参考功耗](https://www.cnbeta.com/articles/tech/1325327.htm) | Mon Oct 10 2022 1:44 AM 
+- 💂 [因涉嫌发表反犹言论 Twitter限制了Kanye West的账号使用](https://hot.cnbeta.com/articles/music/1325377.htm) | Mon Oct 10 2022 3:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为了方便 PC DIY 玩家参考，许多电源供应器厂商都有在官网上提供简易的电脑组件功耗计算器。不过近日，有眼尖的人们发现 —— &lt;strong&gt;安耐美（Enermax）刚刚更新了网页列表、并且曝光了几款尚未正式发布的英伟达 GeForce RTX 40 和 AMD Radeon RX 7000 系列显卡型号。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在被 Instagram 平台限制后，改名“Ye”的 Kanye West 决定重返 Twitter 。&lt;strong&gt;然而周六的时候，外媒报道称其社交媒体账号再次被限。&lt;/strong&gt;Twitter 官方证实，起因是 Kanye West 于周六发布了一条涉嫌反犹太主义的推文。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1325377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [低成本“风力收割机”可将微风变电能](https://www.cnbeta.com/articles/science/1325325.htm) | Mon Oct 10 2022 1:43 AM 
+- 🚀 [微软XGP到底赚了多少钱？2021年创造29亿美元收入](https://hot.cnbeta.com/articles/game/1325375.htm) | Mon Oct 10 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新加坡科学家开发出一种低成本的“风力收割机”，可捕捉微风般柔和的风能，将其储存为电能。实验显示，当暴露在速度低至2米/秒的风中时，该设备可产生3伏电压及290微瓦的电力，足以为商业传感器供电，让其将数据发送到手机或计算机上。相关研究发表于最近的《机械系统与信号处理》杂志。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软收购动视暴雪的交易需要全球多个监管机构批准，最近巴西经济保护管理委员会&lpar;CADE&rpar;批准了这项交易，并披露了一份文件，公布了有关Xbox的一些数据。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [椰树椰汁，“黑红”到底](https://www.cnbeta.com/articles/tech/1325323.htm) | Mon Oct 10 2022 1:41 AM 
+- 🎊 [海天味业股价暴跌逾8% 添加剂风波影响仍未平息](https://www.cnbeta.com/articles/tech/1325373.htm) | Mon Oct 10 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;饮料届最常上热搜的，恐怕就是椰树牌椰汁了。当年凭借word风格的土味包装和“从小喝到大”的辣眼睛广告语，椰树牌椰汁也算是“黑红”出圈。尽管广告风格一直饱受又“土”又“污”的质疑，椰树集团的品味却始终如一，如今更是把这种风格照搬进了直播间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;添加剂的事情，让海天味业陷入了被动，不少用户吐槽该公司双标，虽然其连发三个声明，但市场依然不买账，&lt;strong&gt;国庆假期后的第一天（10月10日）开盘，海天味业股价就出现了大跌，集合竞价时还一度出现了跌停，截至发稿时，股价已经跌幅超8%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
