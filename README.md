@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国家能源局印发《能源碳达峰碳中和标准化提升行动计划》](https://www.cnbeta.com/articles/tech/1325399.htm) | Mon Oct 10 2022 5:59 AM 
+- 🕯 [高效的新催化剂可将混合塑料垃圾转化为丙烷](https://www.cnbeta.com/articles/science/1325465.htm) | Mon Oct 10 2022 7:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据国家能源局10月9日消息，国家能源局印发《能源碳达峰碳中和标准化提升行动计划》。&lt;/strong&gt;到2025年，初步建立起较为完善、可有力支撑和引领能源绿色低碳转型的能源标准体系，能源标准从数量规模型向质量效益型转变，标准组织体系进一步完善，能源标准与技术创新和产业发展良好互动，有效推动能源绿色低碳转型、节能降碳、技术创新、产业链碳减排。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;塑料垃圾是我们这个时代最紧迫的环境问题之一，而对不同类型的塑料进行分类使得回收变得很棘手。现在，麻省理工学院的工程师们已经开发出一种有效的新催化剂，可以将混合塑料分解成丙烷，然后可以作为燃料燃烧或用于制造新塑料。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [吉比特增持《羊了个羊》研发商简游科技10%股权](https://hot.cnbeta.com/articles/game/1325397.htm) | Mon Oct 10 2022 5:58 AM 
+- 💼 [神经科学家发现小脑的新功能：情感记忆](https://www.cnbeta.com/articles/science/1325463.htm) | Mon Oct 10 2022 7:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月10日消息，在上证e互动平台，吉比特在回答投资者提问时表示，《羊了个羊》的研发商为北京简游科技有限公司，公司通过控股子公司厦门雷霆网络科技股份有限公司间接持有其20%的股权（其中10%股权为公司依据首次投资时约定于近日增持）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;小脑主要以调节运动而闻名。巴塞尔大学的科学家们现在发现，小脑在记忆情感经历方面也发挥着重要作用。积极和消极的情绪体验在人类记忆中都储存得特别好。这种现象对我们的生存很重要，因为我们需要记住危险的情况，以便在将来避免它们。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [转转Q3手机行情：iPhone14没“十三香” 华为Mate50仍在加价](https://www.cnbeta.com/articles/tech/1325395.htm) | Mon Oct 10 2022 5:57 AM 
+- 💂 [iPhone 14 Plus开箱兼容性测试：14.5V可突破28W快充 常态9V3A即可满足](https://www.cnbeta.com/articles/tech/1325461.htm) | Mon Oct 10 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月10日，转转集团发布《2022年三季度手机市场行情报告》，二手市场，苹果iPhone的交易量仍居第一，但该季度iPhone交易占比下降至28.89%；国产手机品牌三季度交易量均在上涨，其中小米（含红米）连续6个季度成为二手国产手机市场销量第一品牌。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年最后一台iPhone 14 Plus，由于本身发货比较晚，所以这台手机的内容，自然就成了最后与大家见面的一款。20W以内充电器，功率基本都可以跑到充电器的峰值。20W以上，与iPhone14不同的是，14 Plus的峰值可以一段时间维持高功率，最高可以到27W，常态下也可以维持25W、26W的高功率而不是短暂的一瞬间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [IDC：三季度全球PC发货量总计7420万台 同比下降15%](https://www.cnbeta.com/articles/tech/1325393.htm) | Mon Oct 10 2022 5:54 AM 
+- 🚀 [极氪纯电MPV 009内饰官图首发 配有中文按键](https://www.cnbeta.com/articles/tech/1325459.htm) | Mon Oct 10 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月10日，根据国际数据公司&lpar;IDC&rpar;全球个人计算设备季度追踪的初步结果，2022第三季度，全球PC发货量总计7,420万台，传统PC市场继续下滑。需求降温和供应不平衡导致同比收缩15.0%。然而，由于Windows 7即将停止支持，当前PC出货量主要由商业更新驱动，出货量仍远高于疫前的水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月10日，极氪汽车官方发布了旗下首款MPV车型&lt;strong&gt;ZEEKR 009&lt;/strong&gt;的内饰官图。从最新的官图来看，ZEEKR 009内饰布局与ZEEKR 001有着类似的家族化风格，官方将其命名为涟漪式驾控空间，配有全液晶仪表盘、大尺寸的中控屏很有科技感，同时还使用了非常具有豪华感的皮质材料。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [月壤玻璃微球揭秘地月系统小行星撞击事件](https://www.cnbeta.com/articles/science/1325391.htm) | Mon Oct 10 2022 5:54 AM 
+- 🎊 [Terzan 1：升级后的哈勃望远镜时隔数年后捕捉到的耀眼球状星团](https://www.cnbeta.com/articles/science/1325457.htm) | Mon Oct 10 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;小行星撞击是人类文明未来面临的潜在灾难之一。地球上记录有约200次大型撞击事件，直径数千米的小行星撞击足以造成生物大灭绝。地球形成45亿年以来撞击通量呈指数下降。那么，地月系统小行星撞击频率是否一直平稳衰减？数量众多的近地小行星是否可能导致未来撞击事件突然增加？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Terzan 1是一个球状星团，位于天蝎座中距离地球大约22000光年的地方。它是土耳其-亚美尼亚天文学家Agop Terzan在1966年到1971年间发现的11个球状星团之一。这是他在法国工作的时期，主要是在里昂天文台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
