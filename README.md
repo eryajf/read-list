@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 宜家智能照明系统存缺陷；英特尔第12代处理器源码遭泄露](https://www.freebuf.com/news/346341.html) | Sun Oct 09 2022 8:25 AM 
+- 🦄 [宜家智能照明系统发现漏洞，可能导致灯泡闪烁恢复出厂设置](https://www.freebuf.com/articles/network/346423.html) | Mon Oct 10 2022 4:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    研究人员在宜家的智能照明系统中发现了两个漏洞，允许攻击者控制该系统并使灯泡快速闪烁，还可能导致恢复出厂设置。 
+    </details> 
+
+- 🦄 [英特尔确认Alder Lake BIOS源代码已泄露](https://www.freebuf.com/news/346409.html) | Mon Oct 10 2022 3:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    英特尔已向知名硬件网站Tom&#39;s Hardware确认其第十二代酷睿处理器Alder Lake 的UEFI BIOS 源代码已泄露。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | 宜家智能照明系统存缺陷；英特尔第12代处理器源码遭泄露](https://www.freebuf.com/news/346341.html) | Sun Oct 09 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者只需一个畸形的 Zigbee 框架，就可控制某些宜家智能照明设备，使用户无法关灯。 
     </details> 
 
-- 🦄 [RSAC2022议题分享：OT逆向工程](https://www.freebuf.com/articles/web/346306.html) | Sun Oct 09 2022 3:32 AM 
+- 🪄 [RSAC2022议题分享：OT逆向工程](https://www.freebuf.com/articles/web/346306.html) | Sun Oct 09 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
     OT技术（OT）是一类硬件和软件，用于监控和控制物理设备的性能，主要运用于制造业、运输业和公众服务业等一系列的工业控制系统中。 
     </details> 
 
-- 🦅 [芯片制造商 ADATA（威刚）否认遭到 RansomHouse 组织攻击](https://www.freebuf.com/news/346304.html) | Sun Oct 09 2022 3:29 AM 
+- 💻 [芯片制造商 ADATA（威刚）否认遭到 RansomHouse 组织攻击](https://www.freebuf.com/news/346304.html) | Sun Oct 09 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     中国台湾芯片制造商 ADATA（威刚）否认近期遭到来自 RansomHouse 组织的网络攻击。 
-    </details> 
-
-- 🪄 [《信息安全技术 软件供应链安全要求》（征求意见稿）发布](https://www.freebuf.com/news/346297.html) | Sun Oct 09 2022 3:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    《安全要求》给出了软件供应链安全保护目标，规定了软件供应链组织管理和供应活动管理的安全要求。 
-    </details> 
-
-- 💻 [400万条2K Games用户数据正在暗网上出售](https://www.freebuf.com/news/346294.html) | Sun Oct 09 2022 2:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    在黑客论坛上，2K的游戏支持数据库已被挂出进行销售，包括用户 id、用户名、电子邮件、真实姓名等信息，总计达到400万条。 
     </details> 
 <!-- freebuf:END -->
 
