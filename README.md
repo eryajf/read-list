@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Big Sale - 促销活动的最佳 3D 包](https://xinquji.com/posts/180310?utm_campaign=xinquji-rss) | Mon Oct 10 2022 6:24 AM 
+- 👀 [Order Suite - 订单管理、库存管理和库存管理](https://xinquji.com/posts/180344?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     促销活动的最佳 3D 包  
+     订单管理、库存管理和库存管理  
     </details> 
 
-- 🥷 [Web Mask - 部署前的集成测试](https://xinquji.com/posts/180309?utm_campaign=xinquji-rss) | Mon Oct 10 2022 6:22 AM 
+- 🥷 [Sunlighter - 你的每周音乐汇总](https://xinquji.com/posts/180343?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     部署前的集成测试  
+     你的每周音乐汇总  
     </details> 
 
-- 💼 [Echelon - 由 Web3 驱动的去中心化人才市场](https://xinquji.com/posts/180308?utm_campaign=xinquji-rss) | Mon Oct 10 2022 6:20 AM 
+- 💼 [Dopamine Detox Notion Template - 通过重置你的多巴胺来重新控制他们的生活](https://xinquji.com/posts/180342?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     由 Web3 驱动的去中心化人才市场  
+     通过重置你的多巴胺来重新控制他们的生活  
     </details> 
 
-- 🦅 [Robowars - 不错的老塔防游戏](https://xinquji.com/posts/180307?utm_campaign=xinquji-rss) | Mon Oct 10 2022 6:19 AM 
+- 🦅 [CometVPN - 快速、稳定和廉价的 VPN 让您的体验飞涨](https://xinquji.com/posts/180341?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     不错的老塔防游戏  
+     快速、稳定和廉价的 VPN 让您的体验飞涨  
     </details> 
 
-- 😺 [KhataBuddy - 发票、支付、库存和电子商务](https://xinquji.com/posts/180306?utm_campaign=xinquji-rss) | Mon Oct 10 2022 6:18 AM 
+- 😺 [Weighlos - 一起减肥——从未如此简单](https://xinquji.com/posts/180340?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     发票、支付、库存和电子商务  
+     一起减肥——从未如此简单  
     </details> 
 <!-- xinquji:END -->
