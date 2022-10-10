@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [chrome扩展训练营 ｜ 5. chrome扩展脚手架实现](https://juejin.cn/post/7152730899325386766) | Mon Oct 10 2022 4:11 AM 
+- 🤗 [452.用最少数量的箭引爆气球](https://juejin.cn/post/7152776796022177800) | Mon Oct 10 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-    文章中提到的脚手架帮我们解决了需要一直复制粘贴项目或者手动更改常规配置的烦恼，在本文中，我们将通过 vue-chrome-cli 的学习，收获：如何实现一个脚手架 
+    题目： 有一些球形气球贴在一堵用 XY 平面表示的墙面上。墙面上的气球记录在整数数组 points ，其中points[i] = [xstart, xend] 表示水平直径在 xstart 和 xen 
     </details> 
 
-- 🎡 [Hackathon 实用指南丨快速给 TiDB 新增一个功能](https://juejin.cn/post/7152712174534656030) | Mon Oct 10 2022 2:56 AM 
+- 🎡 [WebRTC前端必学的技术🔥,谈谈浏览器关于渲染流程、缓存以及网络请求的原理,虚拟线程 - VirtualThread源码透视| 酱酱的下午茶第84期](https://juejin.cn/post/7152727580859170847) | Mon Oct 10 2022 3:57 AM 
     <details><summary>展开描述 ...</summary> 
-    TiDB Hackathon 2022 火热报名中！你报名了吗（还没报名看这里）？你有 idea 了吗（没有 idea 看这里）？ 有了 idea，但是不够了解 TiDB，不知道如何动手实践？本文将通 
+    今日看点：WebRTC 从实战到未来！迎接风口，前端必学的技术🔥， 吃透Promise？先实现一个再说（包含所有方法），SQL优化思路+经典案例分析，一文吃透 Kotlin 中眼花缭乱的函数家族.. 
     </details> 
 
-- 🕯 [「React 深入」一文玩转React Hooks的单元测试](https://juejin.cn/post/7152709386752753701) | Mon Oct 10 2022 2:46 AM 
+- 🕯 [Axure RP 教程，如何在 Axure RP 中绘制扇形图？](https://juejin.cn/post/7152726152958705672) | Mon Oct 10 2022 3:51 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是小杜杜，俗话说得好，光说不练假把式，我始终认为实践才是最好的老师，有关React Hooks的单元测试却很少，或者说并不全面，所以今天就来详细讲讲有关React Hooks如何进行单元测试 
+    欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中绘制扇区图。 
     </details> 
 
-- 🚀 [Logstash： Grok 模式示例](https://juejin.cn/post/7152708022786064392) | Mon Oct 10 2022 2:40 AM 
+- 🚀 [什么是微服务的可扩展性、高可用性和性能伸缩？](https://juejin.cn/post/7152724008218148878) | Mon Oct 10 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-    Logstash 可以轻松解析 CSV 和 JSON 文件，因为这些格式的数据组织得很好，可以进行 Elasticsearch 分析。 但是，有时我们需要处理非结构化数据，例如纯文本日志。 在这些情况 
+    Overview 可扩展性、高可用性和性能 术语可扩展性、高可用性、性能和关键任务对于不同的组织或组织内的不同部门来说可能意味着不同的事情。它们经常互换，造成混乱，导致管理不善的期望、实现延迟或不切实 
     </details> 
 
-- 💪 [摹客RP，新增图文选项卡组件！](https://juejin.cn/post/7152706065501519880) | Mon Oct 10 2022 2:33 AM 
+- 💪 [论如何参与一个开源项目](https://juejin.cn/post/7152695026517016584) | Mon Oct 10 2022 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-    Hello，小伙伴们，又到了摹客的新功能播报时间。 本月更新，摹客RP新增新的组件——图文选项卡组件，可用于快速制作手机项目底部导航等模块。摹客协作针对任务管理模块做了不小的调整，评论功能可插入图片， 
+    说起开源项目，好像人人都懂：不过就是一群人一起写了些东西，并且这些东西是公开的，大家都能看。但要细说，可能大多数的开发者都说不出个所以然，甚至不知道怎么提issue。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
