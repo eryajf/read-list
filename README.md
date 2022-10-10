@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flowable 设置任务处理人的四种方式](https://juejin.cn/post/7152792262999539720) | Mon Oct 10 2022 8:08 AM 
+- 🤗 [小册上新｜IntelliJ  IDE 插件开发指南](https://juejin.cn/post/7152806683399028743) | Mon Oct 10 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-    @[toc] 上篇文章松哥和大家分享了 Flowable 中的 ReceiveTask，这只是流程中任务的一种，今天我们就一起来看另外一个更为常见的 Task--UserTask。 UserTask  
+    小册将通过实践案例，从简单特性到复杂特性，整理了一个系统性、体系化的学习路径，通过解决实际问题，结合实际场景编写程序功能，来学习相关的知识。为了叙述简洁，后文中的插件指的都是在 IntelliJ ID 
     </details> 
 
-- 🎡 [Javascript系列值dom操作以及client、scroll及offset整理](https://juejin.cn/post/7152790976682000398) | Mon Oct 10 2022 8:02 AM 
+- 🎡 [Android车载多媒体开发——MediaSession框架](https://juejin.cn/post/7152802586737770527) | Mon Oct 10 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 整理这篇dom操作的初衷，也就是希望自己的知识能够有个体系吧，点连成线，线成为面，笔者也只是极其普通的前 
+    一、多媒体应用架构 1.1 音视频传统应用架构 通常，传统的播放音频或视频的多媒体应用由两部分组成： 播放器：用于吸收数字媒体并将其呈现为视频和/或音频； 界面：带有用于运行播放器并显示播放器状态（可 
     </details> 
 
-- 🕯 [React 可组合 API 的设计原则](https://juejin.cn/post/7152528132027711502) | Sun Oct 09 2022 3:02 PM 
+- 🕯 [深入浅出的理解小程序插件及组件、控件的区别](https://juejin.cn/post/7152800306114330655) | Mon Oct 10 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
-    组件化是 React 的核心思想，把独立组件组合起来使用，是对抗项目增长过程中复杂性快速上升的主要手段，在本文中，我们将深入探讨用于分解组件和设计可组合 API 的主要原则。 
+    由于在小程序开发中需要引入插件，但被几个概念难住了，虽然能够了解大致的含义，但是对于每一个概念的理解又不是很深入，所以深入学习了解了几个“概念模糊”的知识点。 
     </details> 
 
-- 🚀 [搭建npm私服，我为什么推荐Verdaccio？](https://juejin.cn/post/7152508589385449479) | Sun Oct 09 2022 1:46 PM 
+- 🚀 [JS算法之动态规划](https://juejin.cn/post/7152798100925448200) | Mon Oct 10 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
-    npm私服是什么? 在自己的服务器上部署一个支持发布、下载、版本管理等服务的npm仓库就是npm私服，也叫私有化部署npm 众所周知的原因，国内下载npm包特别慢甚至... 
+    在采用动态规划时，总是用递归的思路分析问题，即把大问题分成小问题，再把小问题的解合起来形成大问题的解。 找出描述大问题的解和小问题的解之间递归关系的状态转移方程是采用动态规划解决问题的关键所在 
     </details> 
 
-- 💪 [JavaScript - 手写call、apply和bind函数](https://juejin.cn/post/7152504357190107149) | Sun Oct 09 2022 1:32 PM 
+- 💪 [架构大合集，轻松应对工作需求（上）](https://juejin.cn/post/7152798100908670983) | Mon Oct 10 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言 无论在面试时还是使用中，难免会遇到改变this指向的问题，这时我们便会想到call、apply、bind，可对于他们的底层是如何实现，大多数人不太清楚，如果你对他们 
+    前言 本文讲述： 数据结构和算法，23种设计模式， OKhttp，Retrofit， Glide， Dagger2， MVP，MVC,MVVM,MVI, Jetpack Room, 可能字数限制会分为 
     </details> 
 <!-- juejin:END -->
 ### 少数派
