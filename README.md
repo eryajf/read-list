@@ -365,7 +365,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [没写过 PHP ，临时需要，有 V 友能帮忙把这 20 行 JavaScript 移植到 PHP 吗？](https://www.v2ex.com/t/885938#reply2) | Mon Oct 10 2022 6:11 PM
-- 🤗 [分享一个小工具，方便经常性地备份重要的小数据到邮箱](https://www.v2ex.com/t/885927#reply7) | Mon Oct 10 2022 4:03 PM
+- 🤗 [分享一个小工具，方便经常性地备份重要的小数据到邮箱](https://www.v2ex.com/t/885927#reply8) | Mon Oct 10 2022 4:03 PM
 - 🎭 [个人开发者 开发 app 注册这个功能 ，需要用到短信推送](https://www.v2ex.com/t/885914#reply3) | Mon Oct 10 2022 2:49 PM
 - 🥷 [Upwork 修改虚拟货币政策随想](https://www.v2ex.com/t/885912#reply0) | Mon Oct 10 2022 2:39 PM
 - 🐵 [Co-Founder 创始人互助邀请函](https://www.v2ex.com/t/885905#reply2) | Mon Oct 10 2022 2:27 PM<!-- v2ex:END -->
