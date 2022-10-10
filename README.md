@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新研究显示高研发成本不能解释高药价](https://www.cnbeta.com/articles/tech/1325587.htm) | Mon Oct 10 2022 3:15 PM 
+- 🕯 [日本小伙用最黑油漆涂满全身 吸收99.4%可见光](https://hot.cnbeta.com/articles/funny/1325601.htm) | Mon Oct 10 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;多年来，制药业专利的捍卫者喜欢声称，他们之所以需要专利，之所以不得不对药物收取高额费用，是因为新药的研发成本很高&lt;/strong&gt;。这些数字不断上升。之前人们谈论的数字是每种新药6亿美元。然后，它跳到8亿美元。然后是10亿美元。我听到他们声称的最新数字是每个新药平均15亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;让自己变白的人很多，你见过让自己变黑的人吗？还是那种最黑的那种。近日，日本油管视频主播Hajime因为一组特殊户外出镜照彻底火了一把。他用世界上几乎最黑的市售油漆涂满全身，引当地网友关注。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [人工智能把我们带到了它想要的地方](https://www.cnbeta.com/articles/tech/1325585.htm) | Mon Oct 10 2022 3:08 PM 
+- 💼 [Intel显卡性能超越RTX 3060是有条件的](https://www.cnbeta.com/articles/tech/1325599.htm) | Mon Oct 10 2022 4:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们观看、阅读和购买的许多东西都是通过YouTube、Twitter和亚马逊等网站的推荐系统进入我们的视野。算法进行了个性化处理，旨在获得广告浏览量、点击量或购买量。&lt;strong&gt;有时，AI的建议让我们感到沮丧，似乎他们根本不了解我们，或者太了解我们，预测什么会让我们浪费时间或进入焦虑和错误信息的兔子洞。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel在9月底正式发布了Arc A770及A750系列显卡，这是Arc品牌下的旗舰级显卡，算上A380、A310及A580等，代号“炼金术师”的GPU家族布局算是完成了。售价方面，A750 8GB显卡售价289元，A770 8GB版售价329美元，A770 16GB版售价349美元，对标的主要是友商的RTX 3060显卡，后者售价依然在400多美元以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果回应iPhone 14碰撞检测功能误报问题：没有单一的“银色子弹”](https://www.cnbeta.com/articles/tech/1325583.htm) | Mon Oct 10 2022 2:52 PM 
+- 💂 [“世界上最小的鸡”走红网络 到底能不能吃？](https://hot.cnbeta.com/articles/funny/1325597.htm) | Mon Oct 10 2022 4:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继过山车触发新的iPhone 14碰撞检测等问题后，苹果公司高管一直在透露更多关于它如何工作的信息。有真实的撞车，也有错误的坐过山车时手机疯狂报警的报告，再加上独立测试表明，崩溃检测不会总是有效。现在，苹果公司的两位高管出面回应碰撞检测是如何工作的，为什么会出现这些故障，或误报的情况。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久，小婷在网上购买了几只芦丁鸡养在家里，她希望依靠这些小鸡实现“吃蛋自由”，她养鸡的目的是“吃蛋”。&lt;strong&gt;上游新闻记者在网上看到，芦丁鸡被称为“世界上最小的鸡”，目前在网上有较高人气，不少网友在饲养。芦丁鸡到底是什么动物?&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1325597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [分析师：iPhone明年将转向USB-C 但这&quot;只是一个权宜之计&quot;](https://www.cnbeta.com/articles/tech/1325581.htm) | Mon Oct 10 2022 2:40 PM 
+- 🚀 [美银：因需求放缓 苹果iPad出货量或在短期内下滑](https://www.cnbeta.com/articles/tech/1325595.htm) | Mon Oct 10 2022 3:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果将在明年的iPhone 15系列中将其电缆接口转换到USB-C，彭博社分析师马克-古尔曼对此很肯定，他写道：&amp;quot;iPhone 15基本上锁定在2023年秋季获得USB-C，比规定的时间早一年。&amp;quot;由于新的欧盟法律在技术上要求将USB-C适用于从2024年秋季开始销售的新款便携式电子设备，因此苹果可以再挤出一年的时间使用Lightning接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国银行分析师Wamsi Mohan周一发表研报表示，由于与新冠疫情有关的影响，苹果的iPad产品可能会在短期内面临阻力。目前，该分析师予以苹果评级为“买入”，目标价为160美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究发现叶酸治疗与自杀风险降低有关](https://www.cnbeta.com/articles/science/1325579.htm) | Mon Oct 10 2022 2:34 PM 
+- 🎊 [《狂野之心》8分半钟实机演示 一场狩猎盛宴来袭](https://hot.cnbeta.com/articles/game/1325593.htm) | Mon Oct 10 2022 3:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一种常见的、价格低廉的营养补充剂与自杀企图和自我伤害减少44%有关。2020年美国有近46000人死于自杀，这是美国的主要死亡原因之一。为了减少自杀的风险，&lt;strong&gt;专家们推荐了许多策略和治疗方法，包括心理治疗、经济支持、同伴支持，以及抗抑郁药等药物，但很少有人会把叶酸补充剂放在这个清单上。然而，最近在芝加哥大学进行的一项令人大开眼界的研究可能会改变这种情况。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;外媒GameSpot为玩家带来了EA和光荣合作的新作《狂野之心》8分半钟实机演示，通过实机玩家对该作的玩法、系统有了初步的了解，让我们先一睹为快！&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《狂野之心》实机演示：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
