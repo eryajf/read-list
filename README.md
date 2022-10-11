@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Java on Azure Tooling 的更新 – 2022 年 9 月 Azure 虚拟机增强与 Azure Cosmos DB 资源管理](https://www.v2ex.com/t/886114#reply0) | Tue Oct 11 2022 8:21 AM
-- 🤗 [通过公众号或者小程序抢票的技术原理是什么？](https://www.v2ex.com/t/886111#reply6) | Tue Oct 11 2022 8:13 AM
-- 🎭 [Netty Flush 延迟](https://www.v2ex.com/t/886110#reply0) | Tue Oct 11 2022 8:09 AM
-- 🥷 [请教大佬一个问题，有一个需求更新 30 张表的一个字段，怎么去实现？](https://www.v2ex.com/t/886103#reply13) | Tue Oct 11 2022 7:53 AM
-- 🐵 [Java on Azure Tooling 的更新 – 2022 年 9 月 Azure 虚拟机增强， Azure Cosmos DB 资源管理](https://www.v2ex.com/t/886100#reply0) | Tue Oct 11 2022 7:48 AM<!-- v2ex:END -->
+- 🥸 [django admin 部分自带的 css 文件 collectstatic，生成的文件大小为 0？](https://www.v2ex.com/t/886127#reply0) | Tue Oct 11 2022 8:56 AM
+- 🤗 [win11 修改默认浏览器后 桌面应用跳转到浏览器无响应](https://www.v2ex.com/t/886124#reply0) | Tue Oct 11 2022 8:36 AM
+- 🎭 [Java on Azure Tooling 的更新 – 2022 年 9 月 Azure 虚拟机增强与 Azure Cosmos DB 资源管理](https://www.v2ex.com/t/886114#reply0) | Tue Oct 11 2022 8:21 AM
+- 🥷 [通过公众号或者小程序抢票的技术原理是什么？](https://www.v2ex.com/t/886111#reply10) | Tue Oct 11 2022 8:13 AM
+- 🐵 [Netty Flush 延迟](https://www.v2ex.com/t/886110#reply4) | Tue Oct 11 2022 8:09 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
