@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [Baby talk：36种语言文化里的照顾者与婴儿交流时 表现出一致的特性](http://jandan.net/p/111458) | Tue Oct 11 2022 6:23 AM 
+- 🚀 [特朗普前幕僚为美国保守人士开发的约会应用，有个致命的小问题：没有女性用户](http://jandan.net/p/111460) | Tue Oct 11 2022 8:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    The Right Stuff宣传要为有共同价值观的人牵起红线，在 Apple Store 的评分为 2.5 星 
+    </details> 
+
+- 🙉 [Baby talk：36种语言文化里的照顾者与婴儿交流时 表现出一致的特性](http://jandan.net/p/111458) | Tue Oct 11 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
     看护者与婴儿交谈的方式，通常包括高音、慢节奏、生动的语气。 
     </details> 
 
-- 🙉 [绘制香蕉基因进化树，为现代香蕉找到三种贡献了基因的未知祖先](http://jandan.net/p/111457) | Tue Oct 11 2022 5:54 AM 
+- 🎉 [绘制香蕉基因进化树，为现代香蕉找到三种贡献了基因的未知祖先](http://jandan.net/p/111457) | Tue Oct 11 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
     找到香蕉失踪的祖先是当务之急——这将使我们能够保护它们提供的生物多样性，并培育出更好的香蕉。 
     </details> 
 
-- 🎉 [今日好价 1011](http://jandan.net/p/111456) | Tue Oct 11 2022 3:00 AM 
+- 🐲 [今日好价 1011](http://jandan.net/p/111456) | Tue Oct 11 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：51 
     </details> 
 
-- 🐲 [化学界有200年历史的谜团：质子如何通过水？](http://jandan.net/p/111455) | Mon Oct 10 2022 9:22 AM 
+-  [化学界有200年历史的谜团：质子如何通过水？](http://jandan.net/p/111455) | Mon Oct 10 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
     或许我们找到了答案 
-    </details> 
-
--  [猫猫也是可以被训练好的](http://jandan.net/p/111453) | Mon Oct 10 2022 8:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    人类为什么没像对狗子那样，通过人工选择，培育出亲人类的猫咪呢？ 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
