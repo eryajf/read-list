@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [单元测试的爱恨情仇，作为码农们，你们写单元测试么？](https://www.v2ex.com/t/886162#reply0) | Tue Oct 11 2022 11:01 AM
-- 🤗 [关于 Jellyfin Plex emby 服务端转码的疑惑](https://www.v2ex.com/t/886157#reply2) | Tue Oct 11 2022 10:37 AM
-- 🎭 [试用了几个国内的表格 OCR 功能，大厂并不优秀啊](https://www.v2ex.com/t/886143#reply7) | Tue Oct 11 2022 9:40 AM
-- 🥷 [web3 高级后端 golang 工程师 base：北京望京南](https://www.v2ex.com/t/886141#reply1) | Tue Oct 11 2022 9:36 AM
-- 🐵 [GitHub 是不是出 bug 了，今天收到了几封历史 issue 的邮件](https://www.v2ex.com/t/886140#reply5) | Tue Oct 11 2022 9:35 AM<!-- v2ex:END -->
+- 🥸 [程序员-转行卖水果怎么样？](https://www.v2ex.com/t/886181#reply1) | Tue Oct 11 2022 12:41 PM
+- 🤗 [白群晖断开连接](https://www.v2ex.com/t/886179#reply0) | Tue Oct 11 2022 12:33 PM
+- 🎭 [Linux 出大版本 6.0 了！](https://www.v2ex.com/t/886168#reply6) | Tue Oct 11 2022 11:53 AM
+- 🥷 [求推荐一些比较优质的 reactjs+nestjs 项目模版](https://www.v2ex.com/t/886165#reply0) | Tue Oct 11 2022 11:42 AM
+- 🐵 [Alder Lake iGPU 硬解不稳定, 过一段时间就崩溃](https://www.v2ex.com/t/886164#reply0) | Tue Oct 11 2022 11:24 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
