@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vue组件库文档站点的搭建思路](https://juejin.cn/post/7152898360498716702) | Mon Oct 10 2022 3:00 PM 
+- 🤗 [Fabric.js 保存自定义属性](https://juejin.cn/post/7153068432303325220) | Tue Oct 11 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-    读完本文，可以了解到如何使用`Vite`的`Api`接口来启动服务、如何动态生成多语言的页面路由等。 
+    🐥 创建一个矩形，这个矩形有自己的 ID 属性，在执行序列化操作出来的结果却看不到 ID 属性了？？？ 
     </details> 
 
-- 🎡 [[教你做小游戏] 太卷了！开发象棋，为了减少40%存储空间，我学了下Huffman Coding](https://juejin.cn/post/7152887680299171870) | Mon Oct 10 2022 2:18 PM 
+- 🎡 [Flutter 组件集录 |  日期范围组件 -  DateRangePickerDialog](https://juejin.cn/post/7153054582162063390) | Tue Oct 11 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    以前存储象棋棋盘状态需要43字符，现在基于Huffman Coding，我只用了25个字符，减少了40%存储空间！快来看看我的编码方式吧！ 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 3 天，点击查看活动详情 前言 今天随手翻翻源码，突然看到 showDateRangePicker，心中狂喜。原来 Flutt 
     </details> 
 
-- 🕯 [落地 Kotlin 代码规范，DeteKt了解一下~](https://juejin.cn/post/7152886037746827277) | Mon Oct 10 2022 2:11 PM 
+- 🕯 [更好维护的发布订阅模式应用](https://juejin.cn/post/7153054152749219871) | Tue Oct 11 2022 1:03 AM 
     <details><summary>展开描述 ...</summary> 
-    各个团队多少都有一些自己的代码规范，但制定代码规范简单，困难的是如何落地。如果完全依赖人力Code Review难免有所遗漏。 这个时候就需要通过静态代码检查工具在每次提交代码时自动检查 
+    基于 TypeScript 的静态能力，解决传统 JavaScript 发布订阅模式在应用中的一些痛点，以求提升开发人员的编码体验。 
     </details> 
 
-- 🚀 [从 Vue 转换看 Webpack 和 Vite 代码转换机制的差异](https://juejin.cn/post/7152884493529923621) | Mon Oct 10 2022 2:05 PM 
+- 🚀 [对前端项目打包产物分析入库的好处](https://juejin.cn/post/7153053769100427300) | Tue Oct 11 2022 1:02 AM 
     <details><summary>展开描述 ...</summary> 
-    我们知道，Webpack 是使用 loader 转换代码的，而 Vite/Rollup 则是使用插件转换代码，那这两种机制有什么差异呢？我们用 Vue 的转换来说明一下。 
+    对前端项目打包产物分析的好处有很多。如果我们前端的项目没有把打包产物监控起来，会存在以下几个问题： 哪次commit，把项目体积拉大了，性能又变差了？ （有些同学可能在开发过程中没关注性能问题，导致后 
     </details> 
 
-- 💪 [25. ES6 模块的加载实现](https://juejin.cn/post/7152879051991056414) | Mon Oct 10 2022 1:45 PM 
+- 💪 [Qiankun实践——实现一个 JS 沙箱](https://juejin.cn/post/7153046840231854087) | Tue Oct 11 2022 12:35 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍如何在浏览器和 Node.js 之中加载 ES6 模块。 1. 浏览器加载 ES6 模块——import命令 1.1 传统方法——加载 JavaScript 脚本 HTML 网页中，浏览器通过&lt;s 
+    今天就带大家一起来实现一个简化版的 Qiankun JS 沙箱吧。其中大部分逻辑会做精简处理，不会考虑一些异常情况。学有余力的同学可以直接 Clone 源码... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
