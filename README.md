@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1011](http://jandan.net/p/111456) | Tue Oct 11 2022 3:00 AM 
+- 🚀 [绘制香蕉基因进化树，为现代香蕉找到三种贡献了基因的未知祖先](http://jandan.net/p/111457) | Tue Oct 11 2022 5:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    找到香蕉失踪的祖先是当务之急——这将使我们能够保护它们提供的生物多样性，并培育出更好的香蕉。 
+    </details> 
+
+- 🙉 [今日好价 1011](http://jandan.net/p/111456) | Tue Oct 11 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：51 
     </details> 
 
-- 🙉 [化学界有200年历史的谜团：质子如何通过水？](http://jandan.net/p/111455) | Mon Oct 10 2022 9:22 AM 
+- 🎉 [化学界有200年历史的谜团：质子如何通过水？](http://jandan.net/p/111455) | Mon Oct 10 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
     或许我们找到了答案 
     </details> 
 
-- 🎉 [猫猫也是可以被训练好的](http://jandan.net/p/111453) | Mon Oct 10 2022 8:41 AM 
+- 🐲 [猫猫也是可以被训练好的](http://jandan.net/p/111453) | Mon Oct 10 2022 8:41 AM 
     <details><summary>展开描述 ...</summary> 
     人类为什么没像对狗子那样，通过人工选择，培育出亲人类的猫咪呢？ 
     </details> 
 
-- 🐲 [发霉啦：今天，我的未婚夫回来了](http://jandan.net/p/111454) | Mon Oct 10 2022 7:04 AM 
+-  [发霉啦：今天，我的未婚夫回来了](http://jandan.net/p/111454) | Mon Oct 10 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
     YD周一特辑 
-    </details> 
-
--  [素食者抑郁的风险高2倍，但原因你肯定猜错了](http://jandan.net/p/111442) | Mon Oct 10 2022 6:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    寻找饮食与特定健康问题之间的联系并假定前者通过某种形式的营养缺乏导致后者，思路简单、合理又直接。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
