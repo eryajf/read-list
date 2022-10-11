@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求 Mac 换 Windows 笔记本推荐](https://www.v2ex.com/t/886041#reply2) | Tue Oct 11 2022 4:28 AM
-- 🤗 [关于 TCP delayed ACK 问题](https://www.v2ex.com/t/886029#reply4) | Tue Oct 11 2022 3:42 AM
-- 🎭 [有人在参与 flare on 9 吗](https://www.v2ex.com/t/886024#reply0) | Tue Oct 11 2022 3:34 AM
-- 🥷 [PVE7.2 安装磁盘和网络问题.](https://www.v2ex.com/t/886016#reply2) | Tue Oct 11 2022 3:21 AM
-- 🐵 [Linux 下有什么好用的 pdf ocr 识别软件](https://www.v2ex.com/t/886011#reply0) | Tue Oct 11 2022 3:13 AM<!-- v2ex:END -->
+- 🥸 [win10 / win11 系统声音忽大忽小的 BUG，求大佬指导](https://www.v2ex.com/t/886060#reply0) | Tue Oct 11 2022 5:59 AM
+- 🤗 [手机厂商为自定义 ROM 设置了哪些障碍](https://www.v2ex.com/t/886049#reply0) | Tue Oct 11 2022 5:22 AM
+- 🎭 [现在的同步技术是不是不完善？ iPhone 备忘录被曝莫名清空！](https://www.v2ex.com/t/886046#reply1) | Tue Oct 11 2022 4:57 AM
+- 🥷 [最近大家很悲观，不知道明年就业行情怎么样，准备明年 4 月凑满四年经验跑路，你们继续跳槽还是苟？](https://www.v2ex.com/t/886043#reply13) | Tue Oct 11 2022 4:44 AM
+- 🐵 [求 Mac 换 Windows 笔记本推荐](https://www.v2ex.com/t/886041#reply14) | Tue Oct 11 2022 4:28 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
