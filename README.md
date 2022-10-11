@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [因突发情况被困外地，怎样尽可能坐上正常航班离开？](https://sspai.com/post/76106) | Tue Oct 11 2022 6:45 AM 
+- 👹 [属于大众的 iPhone：iPhone 14 上手体验](https://sspai.com/post/76104) | Tue Oct 11 2022 8:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    在灵动岛的闪耀光环下，iPhone 14 系列或许是你日常使用或赠送亲友时更为理性的选择。&lt;a href=&quot;https://sspai.com/post/76104&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [因突发情况被困外地，怎样尽可能坐上正常航班离开？](https://sspai.com/post/76106) | Tue Oct 11 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76106&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [巧思外加树莓派，特斯拉用上 CarPlay](https://sspai.com/post/76097) | Tue Oct 11 2022 3:28 AM 
+- 🤭 [巧思外加树莓派，特斯拉用上 CarPlay](https://sspai.com/post/76097) | Tue Oct 11 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76097&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：过山车可能触发 iPhone 车祸检测，微软确认 22H2 版本有复制问题等](https://sspai.com/post/76112) | Tue Oct 11 2022 1:06 AM 
+- 🥸 [派早报：过山车可能触发 iPhone 车祸检测，微软确认 22H2 版本有复制问题等](https://sspai.com/post/76112) | Tue Oct 11 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
     英特尔证实 Alder Lake BIOS 的源代码泄露，前优步安全主管被判向当局隐瞒黑客行为有罪等&lt;a href=&quot;https://sspai.com/post/76112&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/76102) | Mon Oct 10 2022 9:52 AM 
+- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/76102) | Mon Oct 10 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/76102&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [不惧静默凛冬，在消费主义陷阱里填补家的快乐](https://sspai.com/post/76093) | Mon Oct 10 2022 7:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    「家」是一个很有安全感的字眼，每当看到它就能浮现出一些很愉悦的记忆：一边吃的饱饱得一边追喜欢的剧、冲了一个热水澡后裹进温暖的被窝里、在私密空间里不修边幅地呈现最自然的自己……而拥有自己的房子后，安全感 ...&lt;a href=&quot;https://sspai.com/post/76093&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
