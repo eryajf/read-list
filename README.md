@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android中高级进阶开发面试题冲刺合集（六）](https://juejin.cn/post/7153156328066646053) | Tue Oct 11 2022 7:40 AM 
+- 🤗 [Android中高级进阶开发面试题冲刺合集（七）](https://juejin.cn/post/7153166602102374414) | Tue Oct 11 2022 8:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    以下主要针对往期收录的面试题进行一个分类归纳整理，方便大家统一回顾和参考。本篇是安卓开发音视频面试题第七集~ 
+    </details> 
+
+- 🎡 [Android中高级进阶开发面试题冲刺合集（六）](https://juejin.cn/post/7153156328066646053) | Tue Oct 11 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
     以下主要针对往期收录的面试题进行一个分类归纳整理，方便大家统一回顾和参考。本篇是安卓开发面试题的第六集~ 
     </details> 
 
-- 🎡 [Qiankun实践——加载一个微应用](https://juejin.cn/post/7153141951183716383) | Tue Oct 11 2022 6:45 AM 
+- 🕯 [K8S 生态周报| Prometheus 新版本内存用量大幅度优化！](https://juejin.cn/post/7153152414835540005) | Tue Oct 11 2022 7:25 AM 
     <details><summary>展开描述 ...</summary> 
-    上两篇文章分别带大家手写了 Qiankun 的 JS 沙箱以及 CSS 沙箱。这两次实践都是分开做的，比较割裂，做完一遍可以加深对沙箱的理解，但具体 Qiankun 怎么把它们用在加载微应用上的，可能 
+    大家好，我是张晋涛。 由于上周在假期，所以没有推送新的文章。大家的假期过的如何呢？本次将为大家分享 Prometheus 的最新动态 
     </details> 
 
-- 🕯 [一个惊人的问题，parseInt&lpar;0.0000005&rpar; 返回结果是“5”？](https://juejin.cn/post/7153141685719465991) | Tue Oct 11 2022 6:43 AM 
+- 🚀 [架构大合集，轻松面对工作需求（下）](https://juejin.cn/post/7153150284846333983) | Tue Oct 11 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言 作为前端开发工程师，JavaScript是我们主要的开发语言，是每个人必须要掌握的，它是弱类型语言，本身语法也比较简单，最近我偶然间发现了一个奇怪的问题，parse 
+    前言 本文讲述： 数据结构和算法，23种设计模式， OKhttp，Retrofit， Glide， Dagger2， MVP，MVC,MVVM,MVI, Jetpack Room, 解锁 《Andro 
     </details> 
 
-- 🚀 [Qiankun实践——实现一个CSS沙箱](https://juejin.cn/post/7153140440777097224) | Tue Oct 11 2022 6:38 AM 
+- 💪 [27. 读懂 ECMAScript 6 规格文件](https://juejin.cn/post/7153149079445307422) | Tue Oct 11 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 前言 哈喽，大家好，我是海怪。 上篇文章讲了如何实现一个 Qiankun 的 JS 沙箱（实际应该是 3 个 
-    </details> 
-
-- 💪 [Vite 项目配置环境变量和全局变量](https://juejin.cn/post/7153129286415679518) | Tue Oct 11 2022 5:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    Vite 项目配置环境变量和全局变量 因为公司项目有多个环境，而我接手的这个前端项目比较老（前一段时间把项目的构建配置重构了一下，从老版本的 Webpack 换成了 Vite），区分不同环境也是直接用 
+    1. ECMAScript 规格文件 规格文件是计算机语言的官方标准，详细描述语法规则和实现方法。 一般来说，没有必要阅读规格文件，但是，如果遇到疑难的语法问题，实在找不到答案，这时可以去查看规格文件 
     </details> 
 <!-- juejin:END -->
 ### 少数派
