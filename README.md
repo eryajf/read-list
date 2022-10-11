@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新西兰征税计划：农场动物打嗝、撒尿要付费](https://www.cnbeta.com/articles/tech/1326059.htm) | Tue Oct 11 2022 8:15 PM 
+- 🕯 [第三季度全球PC出货量暴降19.5%：创20多年来最大降幅](https://www.cnbeta.com/articles/tech/1326079.htm) | Tue Oct 11 2022 11:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据央视新闻，新西兰政府11日提议&lt;span style=&quot;&quot;&gt;对农场动物打嗝、撒尿排放的温室气体征税，以应对气候变化。&lt;/span&gt;和十多年前所提的“放屁税”一样，这次征税提议遭到反对。根据新西兰政府提出的计划，“打嗝、撒尿税”从2025年开始征收，税价未定。新西兰政府称，农场主可以通过提高气候友好型产品的价格以收回缴税开支。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你平时除了工作还会用电脑吗？&lt;strong&gt;近日分析机构Canalys发布了2022年第三季度全球PC出货量报告，台式机和笔记本电脑在第三季度的总出货量同比下降18%至6940万台。&lt;/strong&gt;其中，笔记本电脑出货量受影响最大，同比下降19%至5470万台；台式机出货量相对稳定，总计为1470万台，同比下降11%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Meta元宇宙形象终于有了腿部](https://www.cnbeta.com/articles/tech/1326057.htm) | Tue Oct 11 2022 7:11 PM 
+- 💼 [苹果iOS 16.1 beta 5发布 正式版月底推出 iPhone XR等加入电量百分比](https://www.cnbeta.com/articles/tech/1326077.htm) | Tue Oct 11 2022 11:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Meta公司周二在其Meta Connect活动上宣布，其下一代元宇宙形象将包含腿脚，并且能够支持在网上更多地方使用来自Meta地平线的头像。&lt;/strong&gt;Meta公司首席执行官马克·扎克伯格在活动中说：&amp;quot;腿真的不太好做，我们将首先把腿带到地平线[世界]，随着我们改进我们的技术栈，我们将不断把它们带到更多的体验中。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;距离上次推送时隔一周时间，&lt;strong&gt;苹果今天凌晨正式推送了iOS 16.1 beta 5 &lpar;20B5072b&rpar;系统。&lt;/strong&gt;这次系统上的改进非常小，几乎没有功能升级，已升级的用户也反馈称没有感知到任何变化。而这也就意味着，目前iOS 16.1经过了几次测试，整个使用体验已经非常完善，应该很快就会迎来正式版。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Meta宣布推出售价1499美元的Quest Pro头显](https://www.cnbeta.com/articles/tech/1326055.htm) | Tue Oct 11 2022 7:01 PM 
+- 💂 [《钢铁侠VR》《生化4 VR》开发商被Meta收购](https://hot.cnbeta.com/articles/game/1326075.htm) | Tue Oct 11 2022 11:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在2022年Meta Connect大会上，首席执行官马克·扎克伯格宣布了该公司最新的虚拟现实头显，但在多年努力降低进入VR世界的成本后，新宣布的Quest Pro似乎是为了突破技术界限。&lt;strong&gt;这款新设备与之前的产品线Quest同名，但与大众市场400美元以下的的头显没有什么共同之处。Meta公司将Quest Pro的价位提高到1500美元，并视其为一种生产力设备。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Meta宣布收购了三家游戏开发商，其中就有《钢铁侠VR》开发商Camouflaj 和《生化危机4 VR》开发商Armature。在Meta Connect 2022直播大会上，该公司宣布收购Camouflaj，Armature Studio和Twisted Pixel。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [水货iPhone的4手生意 华强北走向衰落](https://www.cnbeta.com/articles/tech/1326053.htm) | Tue Oct 11 2022 7:00 PM 
+- 🚀 [微软宣布Xbox云游戏将登陆Meta Quest](https://hot.cnbeta.com/articles/game/1326073.htm) | Tue Oct 11 2022 11:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在华强北水货市场摸爬滚打10年之久的小林，终于决定结束自己的华强北生涯，选择回家乡发展。“现在根本干不下去了，抓得严、也不好卖，以后华强北不会再有水货机了。以前的华强北卖水货手机太赚钱了，随随便便从香港背回来几台手机，就能日赚大几千，不知道多少人赚得盆满钵满。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软宣布Xbox云游戏将登陆Meta Quest。在Meta Connect 2022直播上，微软CEO纳德拉公布了这一消息。随后Meta在新闻博客中表示：“Xbox云游戏将让你串流数百款高质量游戏到各种设备上，未来将包括Meta Quest 2。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [北大与字节合作推古籍数字化平台：3年完成万部古籍整理](https://www.cnbeta.com/articles/tech/1326051.htm) | Tue Oct 11 2022 6:59 PM 
+- 🎊 [特斯拉在美销量出现下滑，但仍拥有该市场2/3的EV份额](https://www.cnbeta.com/articles/tech/1326071.htm) | Tue Oct 11 2022 11:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，由“北京大学—字节跳动数字人文开放实验室”研发的古籍数字化平台“识典古籍”测试版正式上线。据介绍，该平台涵盖390部经典古籍，主要来自《四部丛刊》，共计3000多万字，即日起向公众免费开放。未来三年将陆续完成一万种古籍的智能化整理工作，基本覆盖儒家、道家和佛学的核心典籍目录，届时将全部免费开放。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;虽然特斯拉在美国的市场份额下滑，但这家汽车制造商仍拥有这个快速增长的市场的三分之二的份额。&lt;/strong&gt;多年来，特斯拉一直主导着其本国的电动汽车市场。预计随着更多的电动汽车选择的冲击和帮助美国市场的增长，特斯拉对市场的控制将被削弱，但就目前而言，美国的电动汽车市场仍极其依赖特斯拉的生产和交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
