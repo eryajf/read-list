@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Facebook改名近一年，“All in 元宇宙”效果如何？扎克伯格得先说清这几个问题](https://www.cnbeta.com/articles/tech/1325801.htm) | Tue Oct 11 2022 5:58 AM 
+- 🕯 [微软为Edge必应搜索引入Xbox云游戏便捷启动入口](https://hot.cnbeta.com/articles/game/1325865.htm) | Tue Oct 11 2022 7:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据报道，今年的Facebook Connect大会将于美国东部时间10月11日10点（北京时间10月12日凌晨1点）开幕，届时马克·扎克伯格将就元宇宙发表主题演讲。&lt;/strong&gt;就在约一年前，扎克伯格向外界宣布，Facebook将更名为Meta。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;过去几个月，微软对其云游戏服务进行了一系列持续的开发。&lt;strong&gt;其中就包括允许玩家在必应（Bing）搜索结果页面，通过直接点击 Play 按钮来启动体验。&lt;/strong&gt;不过前提是，该服务仅涵盖 Xbox Game Pass Ultimate 订阅中的游戏，且玩家需要在 Microsoft Edge 浏览器上访问必应（而不是 Google Chrome）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Yummy推出可个性化定制的食谱AI](https://www.cnbeta.com/articles/tech/1325799.htm) | Tue Oct 11 2022 5:57 AM 
+- 💼 [研究称古代火星生命可能已在自我引发的气候变化中消亡](https://www.cnbeta.com/articles/science/1325863.htm) | Tue Oct 11 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前我们已见识过音乐和绘画等 AI 艺术创作，&lt;strong&gt;但一家名叫 Yummy 的爱沙尼亚初创企业，也想到了利用人工智能、根据个人口味偏好和饮食禁忌而调整食谱，并输出 AI 生成的菜肴图像。&lt;/strong&gt;联合创始人兼首席执行官 Martin Salo 在接受外媒采访时称，该公司正借助生成式 AI 和其它尖端技术，来构建完全可定制的膳食计划和杂货购物体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;人类可能不是太阳系中第一个面临自身活动改变其母星气候的威胁的生命体。&lt;strong&gt;一个新的模型表明，古代火星曾经适合居住，足以支持产生甲烷的微生物，而它们可能已经通过对红色星球的大气层造成不可挽回的破坏而消灭了自己。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [深圳将加快基于RISC-V等架构芯片研发：最高奖励1000万](https://www.cnbeta.com/articles/tech/1325797.htm) | Tue Oct 11 2022 5:56 AM 
+- 💂 [Linux 6.1性能分析工具迎来AMD CPU的perf mem与c2c支持](https://www.cnbeta.com/articles/tech/1325861.htm) | Tue Oct 11 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;半导体行业的发展程度是衡量一个国家科技发展水平的核心指标。近年来，为了进一步鼓励国内半导体的整体发展，国家相关部委出台了一系列支持和引导半导体行业发展的政策法规。据广东省半导体行业协会消息，深圳市发改委近日发布《深圳市关于促进半导体与集成电路产业高质量发展的若干措施（征求意见稿）》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Phoronix 报道称：&lt;strong&gt;作为一款性能分析工具，Linux 6.1 中的“perf”内核子系统，刚刚添加了对 AMD CPU Cache-To-Cache 和内存报告功能的支持。&lt;/strong&gt;其中 perf mem 用于各种内存统计，而 perf c2c 则用于 CPU 的缓存到缓存信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [统一充电接口或让苹果每年损失百亿：iPhone 14将成闪电接口绝唱](https://www.cnbeta.com/articles/tech/1325795.htm) | Tue Oct 11 2022 5:55 AM 
+- 🚀 [研究人员开发Echoes应用程序 可将智能手机变成电子听诊器](https://www.cnbeta.com/articles/science/1325859.htm) | Tue Oct 11 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，欧盟的一项统一充电接口的新规，让苹果站在了风口浪尖。&lt;strong&gt;星图金融研究院研究员雒佑认为，苹果一直是统一充电接口的反对者，背后有着复杂的原因。&lt;/strong&gt;据悉，Lightning接口诞生于2012年，正反使用都可以正常工作，在当时，这一接口的推出无疑是一大进步。但十年间，在数据传输技术突飞猛进，苹果仍然坚持使用这一接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，智能手机开始对我们管理日常健康的方式产生真正的影响，而它们可能产生重大影响的一个领域是监测我们的心脏。一项新研究表明，&lt;strong&gt;一个旨在将智能手机变成电子听诊器的应用程序可以在人群中捕捉可靠、高质量的用户心跳记录，然后医生可以用它来远程监测心脏状况的进展。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [3DMark定于周三推出Speed Way DirectX 12 Ultimate基准测试工具](https://www.cnbeta.com/articles/tech/1325793.htm) | Tue Oct 11 2022 5:32 AM 
+- 🎊 [[图]印度5G网络网速实测 最高可超过500Mbps](https://www.cnbeta.com/articles/tech/1325857.htm) | Tue Oct 11 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;3DMark“Speed Way”是一项全新的 GPU 基准测试，展示了将为下一代游戏体验提供支撑的图形技术。&lt;/strong&gt;UL Solutions 很高兴地宣布，由 Lenovo Legion 赞助的 Speed Way 将于 10 月 12 日正式到来，其团队一直努力让 Speed Way 为今秋推出的新 PC 硬件做好准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;目前印度已经推进 5G 网络部署，预估将会在 2024 年全面部署完成。根据流行的互联网测试公司 Ookla 的最新数据，&lt;strong&gt;印度运营商 Jio 的 5G 速度达到 598.58Mbps，速度最快，而竞争对手 Airtel 在德里的速度为 197.98Mbps。&lt;/strong&gt;不过伴随着 5G 在印度全国范围的铺开，这个网速应该会有所下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
