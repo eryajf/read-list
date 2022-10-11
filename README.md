@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [git 小白代码合并问题请教](https://www.v2ex.com/t/886093#reply3) | Tue Oct 11 2022 7:16 AM
-- 🤗 [Java on Azure Tooling 的更新 – 2022 年 9 月 Azure Cosmos DB 资源管理， Azure 虚拟机增强](https://www.v2ex.com/t/886090#reply0) | Tue Oct 11 2022 7:11 AM
-- 🎭 [青椒一个 js 作用域和压缩的问题](https://www.v2ex.com/t/886087#reply2) | Tue Oct 11 2022 7:02 AM
-- 🥷 [阿里云服务优惠](https://www.v2ex.com/t/886078#reply0) | Tue Oct 11 2022 6:49 AM
-- 🐵 [mongoose 外键查询问题](https://www.v2ex.com/t/886074#reply1) | Tue Oct 11 2022 6:40 AM<!-- v2ex:END -->
+- 🥸 [Java on Azure Tooling 的更新 – 2022 年 9 月 Azure 虚拟机增强与 Azure Cosmos DB 资源管理](https://www.v2ex.com/t/886114#reply0) | Tue Oct 11 2022 8:21 AM
+- 🤗 [通过公众号或者小程序抢票的技术原理是什么？](https://www.v2ex.com/t/886111#reply6) | Tue Oct 11 2022 8:13 AM
+- 🎭 [Netty Flush 延迟](https://www.v2ex.com/t/886110#reply0) | Tue Oct 11 2022 8:09 AM
+- 🥷 [请教大佬一个问题，有一个需求更新 30 张表的一个字段，怎么去实现？](https://www.v2ex.com/t/886103#reply13) | Tue Oct 11 2022 7:53 AM
+- 🐵 [Java on Azure Tooling 的更新 – 2022 年 9 月 Azure 虚拟机增强， Azure Cosmos DB 资源管理](https://www.v2ex.com/t/886100#reply0) | Tue Oct 11 2022 7:48 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
