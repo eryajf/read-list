@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14 Pro紫色版被吐槽品控不稳 两台同型号机型色差明显](https://www.cnbeta.com/articles/tech/1325951.htm) | Tue Oct 11 2022 10:24 AM 
+- 🕯 [Intel史上最好的6款CPU：你用过几款？](https://www.cnbeta.com/articles/tech/1325961.htm) | Tue Oct 11 2022 11:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone 14系列四款新机都已上市，目前来看标准版表现稍差，而Pro版则是非常火热。由于今年全新的灵动岛、4800万像素主摄等配置大升级，选择Pro的用户非常多，&lt;strong&gt;而独有的暗紫色也是大家的首选。&lt;/strong&gt;这次iPhone 14 Pro的暗紫色并不是纯色，而是类似渐变色的效果，不同光线下呈现出的效果不同，但这个工艺苹果似乎还并没完全把控住。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;成立50多年来，Intel制造了大量CPU产品，那么有没有一款或者几款让你印象深刻，并愿意奉之为经典呢？来自DT的编辑Matthew Connatser整理了6款，不知道你同意否？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google Pixel Watch将获得至少3年的Wear OS更新 包括功能升级](https://www.cnbeta.com/articles/tech/1325949.htm) | Tue Oct 11 2022 10:22 AM 
+- 💼 [特斯拉电动重卡终于投产 马斯克不敢再等](https://www.cnbeta.com/articles/tech/1325959.htm) | Tue Oct 11 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为Pixel Watch产品发布的一部分，Google已经详细说明了Wear OS设备将获得至少三年的更新。这段时间从&amp;quot;该设备首次在美国的Google商店上市时&amp;quot;开始。第一代Pixel Watch将获得&amp;quot;保证的软件更新，&amp;quot;至少到&amp;quot;2025年10月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亮相5年之后，特斯拉的纯电卡车Semi Truck（下称Semi）终于要投产了。10月6日，马斯克在Twitter上发文称，Semi将于今年12月1日交付给百事可乐。在百事加州工厂园区内，已经有若干个特斯拉Megacharger充电站在静静等待着第一批15辆Semi卡车的到来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [这6种营养素中国人普遍缺乏 照着吃可以补回来](https://www.cnbeta.com/articles/science/1325947.htm) | Tue Oct 11 2022 10:11 AM 
+- 💂 [TCL华星全新喷墨打印OLED折叠屏亮相：20万次弯曲无压力](https://www.cnbeta.com/articles/tech/1325957.htm) | Tue Oct 11 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;现在我国居民的生活水平已经有了显著提高，特别是在饮食方面，从以往连温饱都是个难题，到现在不仅能吃饱，还能吃的很好。不过，吃的好并不意味着营养摄入也充足。&lt;strong&gt;根据《中国居民膳食指南科学研究报告（2021）》中的数据，我国居民仍然缺乏钙、锌、维生素A、B族维生素、维生素D、膳食纤维等部分营养素。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着柔性OLED面板飞速发展，屏幕折痕问题、屏幕各项性能参数也都有了明显改进和提升。日前，TCL华星全球首发的17英寸IGZO喷墨打印OLED折叠显示器在北京展览馆亮相。该产品由TCL华星与广东聚华印刷显示技术有限公司（简称“聚华”）联合研制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NASA研发新型固态电池 能量密度比特斯拉电池高一倍](https://www.cnbeta.com/articles/science/1325945.htm) | Tue Oct 11 2022 10:10 AM 
+- 🚀 [2022中国载人航天有多忙？还有4大任务 明年还有大招](https://www.cnbeta.com/articles/science/1325955.htm) | Tue Oct 11 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据外媒报道，美国宇航局&lpar;NASA&rpar;宣布其研究人员正在进行SABERS&lpar;改进固态电池充电效率和安全性&rpar;项目，而且取得了十分不错的成果，研发了一款能量密度达500Wh/kg的动力电池，其能量密度是现代电动汽车电池的两倍多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年，对中国航天，尤其是载人航天来说意义重大，今年我国将正式完成天宫空间站的建设，还有4大任务需要完成。据央视报道，当前，空间站建造已进入收官阶段，&lt;strong&gt;按计划年底前将实施梦天实验舱、天舟五号、神舟十五号飞行和神舟十四号返回等4次任务，完成空间站建造。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [制作方发文否认梁朝伟加盟《鱿鱼游戏2》](https://hot.cnbeta.com/articles/movie/1325943.htm) | Tue Oct 11 2022 10:09 AM 
+- 🎊 [打了八年，奈飞和院线第一次“停战”](https://hot.cnbeta.com/articles/movie/1325953.htm) | Tue Oct 11 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年，由Netflix（奈飞）拍摄的《鱿鱼游戏》开播后，在全球范围内引发了观影热潮，甚至不少游戏以及电影后续也融入了鱿鱼游戏的元素，而该剧的续集——《鱿鱼游戏2》也在近日开启制作。此前，曾有消息表示，影帝梁朝伟或将参与拍摄《鱿鱼游戏2》，而这一消息在今日得到了验证。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;打了好几年，奈飞和院线的“冷战”出现缓和的迹象。10月7日，Netflix宣布将在11月23日至29日进行为期一周的《利刃出鞘2》影院放映活动，该电影将在AMC、Regal和Cinemark的600家影院的荧幕上放映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
