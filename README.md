@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [SaaS Weekly - 收件箱中最好的精选 SaaS 文章](https://xinquji.com/posts/180393?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:46 AM 
+- 👀 [Board3 - 专注于web3的招聘平台](https://xinquji.com/posts/180353?utm_campaign=xinquji-rss) | Wed Oct 12 2022 8:09 AM 
+    <details><summary>展开描述 ...</summary> 
+     专注于web3的招聘平台  
+    </details> 
+
+- 🥷 [SaaS Weekly - 收件箱中最好的精选 SaaS 文章](https://xinquji.com/posts/180393?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
      收件箱中最好的精选 SaaS 文章  
     </details> 
 
-- 🥷 [Interview Sandbox - 编码、编译、视频聊天、白板和 AI 助手](https://xinquji.com/posts/180392?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:44 AM 
+- 💼 [Interview Sandbox - 编码、编译、视频聊天、白板和 AI 助手](https://xinquji.com/posts/180392?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
      编码、编译、视频聊天、白板和 AI 助手  
     </details> 
 
-- 💼 [Dynamic Survey Builder - 构建可以在电子邮件中完成的调查](https://xinquji.com/posts/180391?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:42 AM 
+- 🦅 [Dynamic Survey Builder - 构建可以在电子邮件中完成的调查](https://xinquji.com/posts/180391?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
      构建可以在电子邮件中完成的调查  
     </details> 
 
-- 🦅 [Fearless - 帮助企业家获得反馈的服务](https://xinquji.com/posts/180390?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:40 AM 
+- 😺 [Fearless - 帮助企业家获得反馈的服务](https://xinquji.com/posts/180390?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
      帮助企业家获得反馈的服务  
-    </details> 
-
-- 😺 [Uptime - 自动化 Shopify 商店 QA 测试和平台状态警报](https://xinquji.com/posts/180389?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     自动化 Shopify 商店 QA 测试和平台状态警报  
     </details> 
 <!-- xinquji:END -->
