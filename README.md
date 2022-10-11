@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android中高级进阶开发面试题冲刺合集（七）](https://juejin.cn/post/7153166602102374414) | Tue Oct 11 2022 8:21 AM 
+- 🤗 [Jetpack Compose|聊聊Modifier的特性](https://juejin.cn/post/7153189769147580446) | Tue Oct 11 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-    以下主要针对往期收录的面试题进行一个分类归纳整理，方便大家统一回顾和参考。本篇是安卓开发音视频面试题第七集~ 
+    本文将会介绍Jetpack Compose中的Modifier。通过本文将可以了解到修饰符的特性，掌握了修饰符的特性再结合官方文档属性值列表我们可以轻松的完成Jetpack Compose UI的修饰 
     </details> 
 
-- 🎡 [Android中高级进阶开发面试题冲刺合集（六）](https://juejin.cn/post/7153156328066646053) | Tue Oct 11 2022 7:40 AM 
+- 🎡 [ES集群异常修复与进阶实践](https://juejin.cn/post/7153164339334086663) | Tue Oct 11 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-    以下主要针对往期收录的面试题进行一个分类归纳整理，方便大家统一回顾和参考。本篇是安卓开发面试题的第六集~ 
+    ES 出现failed to execute pipeline for a bulk request问题 已知情况： 当前环境各组件运行正常，数据由HBase侧不停写入ES； 索引 
     </details> 
 
-- 🕯 [K8S 生态周报| Prometheus 新版本内存用量大幅度优化！](https://juejin.cn/post/7153152414835540005) | Tue Oct 11 2022 7:25 AM 
+- 🕯 [初探 Compose for Wear OS：实现一个简易选择APP](https://juejin.cn/post/7153162218345857060) | Tue Oct 11 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是张晋涛。 由于上周在假期，所以没有推送新的文章。大家的假期过的如何呢？本次将为大家分享 Prometheus 的最新动态 
+    本文简述如何使用 Compose for Wear OS 为 Wear OS 编写应用，并通过实践编写一个《今天吃什么》APP的方式入门 Wear OS开发，以及解答使用过程中可能遇到的问题。 
     </details> 
 
-- 🚀 [架构大合集，轻松面对工作需求（下）](https://juejin.cn/post/7153150284846333983) | Tue Oct 11 2022 7:16 AM 
+- 🚀 [WWDC22 - DNS安全：DNSSEC](https://juejin.cn/post/7153158833388159013) | Tue Oct 11 2022 7:51 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 本文讲述： 数据结构和算法，23种设计模式， OKhttp，Retrofit， Glide， Dagger2， MVP，MVC,MVVM,MVI, Jetpack Room, 解锁 《Andro 
+    在我看来，很多知识点看起来似乎在我们日常工作中用不到，但是能帮助我们从一个更宏观更全局的角度去理解我们面对的需求或者说工程项目。跳出单个业务，跳出单个团队看问题，其实是非常重要的。 
     </details> 
 
-- 💪 [27. 读懂 ECMAScript 6 规格文件](https://juejin.cn/post/7153149079445307422) | Tue Oct 11 2022 7:12 AM 
+- 💪 [你知道Vue中router实现原理吗?](https://juejin.cn/post/7152892881332600839) | Mon Oct 10 2022 2:37 PM 
     <details><summary>展开描述 ...</summary> 
-    1. ECMAScript 规格文件 规格文件是计算机语言的官方标准，详细描述语法规则和实现方法。 一般来说，没有必要阅读规格文件，但是，如果遇到疑难的语法问题，实在找不到答案，这时可以去查看规格文件 
+    我正在参加「掘金·启航计划」 前言 在我们了解router的实现原理之前，我们先来聊聊vue的路由跳转到底是怎样的吧！ 首先，我们知道vue创建的项目其实是一个单页应用。在我们对vue项目进行打包以后 
     </details> 
 <!-- juejin:END -->
 ### 少数派
