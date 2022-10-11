@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [阿里云国际站不实名采购条件](https://www.v2ex.com/t/885966#reply0) | Tue Oct 11 2022 1:32 AM
-- 🤗 [通用参数与通用数据字典规范，大伙是如何约束多产品的规范设计的](https://www.v2ex.com/t/885961#reply6) | Tue Oct 11 2022 1:27 AM
-- 🎭 [[LG 显示器售后维修记录] type c 怼爆： 500 -&gt; 免费？ （实时更新](https://www.v2ex.com/t/885955#reply5) | Tue Oct 11 2022 1:09 AM
-- 🥷 [「唤醒记忆」 Netty（一）-- Why Netty](https://www.v2ex.com/t/885953#reply0) | Tue Oct 11 2022 1:07 AM
-- 🐵 [Windows11 更改默认 SSH 客户端为“Bash”出现“系统无法访问此文件。”错误](https://www.v2ex.com/t/885945#reply5) | Tue Oct 11 2022 12:20 AM<!-- v2ex:END -->
+- 🥸 [求 Mac 换 Windows 笔记本推荐](https://www.v2ex.com/t/886041#reply2) | Tue Oct 11 2022 4:28 AM
+- 🤗 [关于 TCP delayed ACK 问题](https://www.v2ex.com/t/886029#reply4) | Tue Oct 11 2022 3:42 AM
+- 🎭 [有人在参与 flare on 9 吗](https://www.v2ex.com/t/886024#reply0) | Tue Oct 11 2022 3:34 AM
+- 🥷 [PVE7.2 安装磁盘和网络问题.](https://www.v2ex.com/t/886016#reply2) | Tue Oct 11 2022 3:21 AM
+- 🐵 [Linux 下有什么好用的 pdf ocr 识别软件](https://www.v2ex.com/t/886011#reply0) | Tue Oct 11 2022 3:13 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
