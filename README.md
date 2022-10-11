@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [能效无敌：RTX 4090降至250W功耗仍能领先3090 Ti](https://www.cnbeta.com/articles/tech/1326039.htm) | Tue Oct 11 2022 4:21 PM 
+- 🕯 [英特尔和Google云联手推出Mount Evans芯片以提高数据中心性能](https://www.cnbeta.com/articles/tech/1326045.htm) | Tue Oct 11 2022 4:46 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;英特尔公司和Alphabet公司的Google云周二表示，他们已经推出了一款共同设计的芯片，可以使数据中心更加安全和高效。代号为Mount Evans的E2000芯片从昂贵的中央处理器（CPU）手中接过了为网卡打包数据的工作，原本这些任务由中央处理器负责计算。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [这张卖到12999元的RTX4090，性能到底有多夸张？](https://www.cnbeta.com/articles/tech/1326043.htm) | Tue Oct 11 2022 4:40 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;咳咳，你们没猜错，万众期待的英伟达 公版 RTX 4090，今天终于正式解禁、猛兽出笼了！托尼其实在两周之前，就拿到了这块大 &lt;strong&gt;“ 巨型板砖 ”&lt;/strong&gt;，网上调侃说这玩意儿像空调外机似的，那是一点都没有夸张。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [RTX 4090浮点性能首次突破100万亿次大关 超频功耗666.6W](https://www.cnbeta.com/articles/tech/1326041.htm) | Tue Oct 11 2022 4:38 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;2008年，AMD&lpar;ATI&rpar; Radeon HD 4850发布，55nm工艺，9.56亿个晶体管，800个流处理器，核心频率625MHz，256-bit 512MB GDDR3显存，浮点性能第一次突破1TFlops&lpar;每秒1万亿次计算&rpar;。然后，14年过去了，100TFlops&lpar;每秒100万亿次计算&rpar;的关卡终于被突破，使用的是超频版RTX 4090。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [能效无敌：RTX 4090降至250W功耗仍能领先3090 Ti](https://www.cnbeta.com/articles/tech/1326039.htm) | Tue Oct 11 2022 4:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今晚RTX 4090显卡解禁了，有关性能测试的部分大家看得差不多了，这一代显卡让很多人有些担忧的是功耗，TGP提升到了450W，比上代提升了100W，而且散热器非常夸张。而且官方建议配备850W电源，部分AIC的非公版显卡要求更高，推荐配置1200W电源，这更吓坏了不少人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [上海机场联络线项目盾构掘进创纪录 建成后虹桥到浦东机场缩短到40分钟](https://www.cnbeta.com/articles/tech/1326037.htm) | Tue Oct 11 2022 4:15 PM 
+- 🎊 [上海机场联络线项目盾构掘进创纪录 建成后虹桥到浦东机场缩短到40分钟](https://www.cnbeta.com/articles/tech/1326037.htm) | Tue Oct 11 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据中国铁道建筑报消息，&lt;strong&gt;由中铁十四局承建的上海机场联络线2标单月推进288环，进尺达到576米，平均日进尺19.2米，创造了全预制大直径泥水盾构国内最快纪录。&lt;/strong&gt;据了解，上海机场联络线是上海市首条市域铁路，正线全长68.6公里，是国内首条与国铁网络互通互联的市域铁路示范工程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [分析师认为苹果的下一个MacBook生产中心可能是泰国](https://www.cnbeta.com/articles/tech/1326035.htm) | Tue Oct 11 2022 3:56 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天风证券分析师郭明錤称，苹果转移生产地点的努力将集中在将更多的全球iPhone订单转移到印度，而将MacBook的生产转移到泰国。目前苹果的全系列MacBook Air和MacBook Pro机型都在中国工厂组装。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《极品飞车：不羁》全新实机演示 可自定义风格特效](https://hot.cnbeta.com/articles/game/1326033.htm) | Tue Oct 11 2022 3:40 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《极品飞车：不羁》在今日公布了一段实机演示，玩家可以自定义风格，选择驾驶特效，该作预计在12月2日发售，登陆PS5、XSX|S和PC平台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《极品飞车：不羁》实机演示：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [“吃饱饭后还有第二个胃来装甜点” 竟然是真的？](https://www.cnbeta.com/articles/science/1326031.htm) | Tue Oct 11 2022 3:38 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不知道大家有没有过这样的经历，在一顿饱餐之后，感觉已经吃不下了，但是看到甜点后，依然能够大快朵颐。&lt;strong&gt;明明已经吃饱了，为啥肚子还能“腾出地方”继续吃下甜点？&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
