@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [V社可能在开发新的VR头显](https://www.cnbeta.com/articles/tech/1326023.htm) | Tue Oct 11 2022 2:29 PM 
+- 🕯 [消息人士透露索尼目标在23财年出货3000万台PlayStation 5](https://hot.cnbeta.com/articles/game/1326029.htm) | Tue Oct 11 2022 2:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;PlayStation 5是一台神话般的游戏机，发布至今似乎没有人能够得到，即使它的价位还在提高。然而，索尼似乎想通过在下一个财政年度销售更多的游戏机来解决这个问题。这一信息是由与Insider Gaming交谈的消息人士提供的，此前他们在关于PlayStation 5可拆卸光盘驱动器版本的独家报道中简要地提到了这一点。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [越来越贵的中国汽车走向全球 新能源车优势明显](https://www.cnbeta.com/articles/tech/1326027.htm) | Tue Oct 11 2022 2:50 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;9月，中国汽车出口30.1万辆，同比增长73.9%。这也是继今年8月以后，中国汽车出口第二次实现单月出口突破30万辆。中国汽车工业协会（下称“中汽协”）在10月11日发布上述数据。根据中国海关总署的统计，今年前八个月，中国汽车出口达到191万辆，超越了德国，仅次于日本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Cell：为什么女性更容易患阿尔茨海默氏症](https://www.cnbeta.com/articles/tech/1326025.htm) | Tue Oct 11 2022 2:49 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p class=&quot;fk_text&quot;&gt;研究人员在大脑组织中发现了一种机制，可以解释为什么女性更容易患阿尔茨海默症。他们说，这一发现可能有助于研发治疗该疾病的新药。具体来说，研究人员发现，与男性相比，女性大脑中某种酶的表达量更高，导致一种名为tau的蛋白质的积累量更大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [V社可能在开发新的VR头显](https://www.cnbeta.com/articles/tech/1326023.htm) | Tue Oct 11 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;对于那些寻找相对便宜硬件的人来说，VR市场上有很多选择，而且在接下来的几个月甚至几年里，显然还会出现更多选择。然而，如果你愿意掏钱，就硬件实力而言，没有什么能打败Valve Index——而且似乎V社也在寻求进一步投资虚拟现实领域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [历史性一刻：特斯拉电动车攻克欧洲汽车大本营](https://www.cnbeta.com/articles/tech/1326021.htm) | Tue Oct 11 2022 2:26 PM 
+- 🎊 [历史性一刻：特斯拉电动车攻克欧洲汽车大本营](https://www.cnbeta.com/articles/tech/1326021.htm) | Tue Oct 11 2022 2:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;特斯拉成功踢馆，Model Y击败BBAV成9月德国最畅销车型。特斯拉Model Y 9月成功击败大众高尔夫等竞争对手，成为德国最畅销的汽车。德国车辆管理局的数据显示，9月特斯拉Model Y新注册数量达到9846辆，远超在德国很受欢迎的大众高尔夫，成为当月汽车市场销冠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [新款特斯拉Model S Plaid国内售价曝光 约103.399万元](https://www.cnbeta.com/articles/tech/1326019.htm) | Tue Oct 11 2022 2:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在交付“跳票”接近1年后，近日有网友晒出了自己的特斯拉Model S &lpar; 参数&lt;span style=&quot;&quot;&gt;|&lt;/span&gt;询价&lt;span style=&quot;&quot;&gt;|&lt;/span&gt;图片 &rpar; Plaid交付信息，需要支付尾款1,013,990元，算上订购时的2万元订金，选择了白色内饰的Plaid版，约为103.399万元（图片源自社交平台）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [一项研究认为古代火星可能充斥着生命](https://www.cnbeta.com/articles/science/1326017.htm) | Tue Oct 11 2022 2:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据一项模拟年轻火星条件的研究，在火星历史的早期，这颗红色星球很可能适合甲烷菌居住。&lt;/strong&gt;根据亚利桑那大学的科学家领导的一项新的研究，如果火星上曾经有生命，那么在这个星球的幼年时期的条件很可能会支持它。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326017.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [一个季度最多净赚近100亿 “宁王”市值暴涨重回万亿](https://www.cnbeta.com/articles/tech/1326015.htm) | Tue Oct 11 2022 2:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;深交所去年的一项调查显示，2021年投资者证券账户平均资产规模为60.6万元。如果在昨天临近收盘前将这笔资产用来购置动力电池龙头企业宁德时代（SZ300750，股价416.30元，市值1.02万亿元）的股票，一天过去将可获得约3.62万元收益，大致相当于3台全新512GB版本iPhone14 Pro Max。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
