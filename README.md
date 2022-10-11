@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软为Edge必应搜索引入Xbox云游戏便捷启动入口](https://hot.cnbeta.com/articles/game/1325865.htm) | Tue Oct 11 2022 7:35 AM 
+- 🕯 [CPU-Z数据库曝光酷睿i3-13100：4C/8T无小核 疑似12代马甲提频](https://www.cnbeta.com/articles/tech/1325905.htm) | Tue Oct 11 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;过去几个月，微软对其云游戏服务进行了一系列持续的开发。&lt;strong&gt;其中就包括允许玩家在必应（Bing）搜索结果页面，通过直接点击 Play 按钮来启动体验。&lt;/strong&gt;不过前提是，该服务仅涵盖 Xbox Game Pass Ultimate 订阅中的游戏，且玩家需要在 Microsoft Edge 浏览器上访问必应（而不是 Google Chrome）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在持续数周的传闻之后，&lt;strong&gt;@TUM_APISAK 刚刚在 Twitter 上晒出了 i3-13100 台式处理器的 CPU-Z 截图，确认了英特尔仍在制造四核处理器 —— 尽管是以酷睿入门 SKU 的形式。&lt;/strong&gt;不过作为一款 4C / 8T 的 CPU，它最大的特点，反而是没有配备规模较小的 Gracemont 小核（E-cores）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究称古代火星生命可能已在自我引发的气候变化中消亡](https://www.cnbeta.com/articles/science/1325863.htm) | Tue Oct 11 2022 7:23 AM 
+- 💼 [疑似OPPO Reno9真机曝光 外观大变样 还有曲面屏幕](https://www.cnbeta.com/articles/tech/1325903.htm) | Tue Oct 11 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;人类可能不是太阳系中第一个面临自身活动改变其母星气候的威胁的生命体。&lt;strong&gt;一个新的模型表明，古代火星曾经适合居住，足以支持产生甲烷的微生物，而它们可能已经通过对红色星球的大气层造成不可挽回的破坏而消灭了自己。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;目前，在OPPO的官方商城上，有三款在售的OPPO Reno8机型，他们的发布时间均在今年上半年，凭借着比较不错的外观设计和优秀的产品素质，这些OPPO Rno8机型也获得了不少消费者的喜爱。而随着时间的推移和越来越多OPPO Reno9信息的流出，我们能够明显地感受到，OPPO Reno新机或许即将到来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Linux 6.1性能分析工具迎来AMD CPU的perf mem与c2c支持](https://www.cnbeta.com/articles/tech/1325861.htm) | Tue Oct 11 2022 7:16 AM 
+- 💂 [一夜蒸发960多亿 芯片巨头们的“寒冬”如何熬过去](https://www.cnbeta.com/articles/tech/1325901.htm) | Tue Oct 11 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Phoronix 报道称：&lt;strong&gt;作为一款性能分析工具，Linux 6.1 中的“perf”内核子系统，刚刚添加了对 AMD CPU Cache-To-Cache 和内存报告功能的支持。&lt;/strong&gt;其中 perf mem 用于各种内存统计，而 perf c2c 则用于 CPU 的缓存到缓存信息。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月8日，一则“美国芯片巨头一夜暴跌近14%”的话题登上微博热搜，阅读量达1.3亿。市值近1000亿美元的美国芯片公司AMD，10月6日发布了一份极其糟糕的初步财报，吓坏了美股市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究人员开发Echoes应用程序 可将智能手机变成电子听诊器](https://www.cnbeta.com/articles/science/1325859.htm) | Tue Oct 11 2022 7:13 AM 
+- 🚀 [iPhone14 Plus遇冷Pro卖爆 被称最不保值手机](https://www.cnbeta.com/articles/tech/1325899.htm) | Tue Oct 11 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，智能手机开始对我们管理日常健康的方式产生真正的影响，而它们可能产生重大影响的一个领域是监测我们的心脏。一项新研究表明，&lt;strong&gt;一个旨在将智能手机变成电子听诊器的应用程序可以在人群中捕捉可靠、高质量的用户心跳记录，然后医生可以用它来远程监测心脏状况的进展。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iPhone 14系列开售近一个月，Pro系列愈加火热，与此相对的是iPhone 14 Plus最高降价已经达到了千元级别。根据Sandalwood电商市场监测数据，系列四款机型之间的销售额对冲之后，7天销售额相比往年甚至还上升了17%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [[图]印度5G网络网速实测 最高可超过500Mbps](https://www.cnbeta.com/articles/tech/1325857.htm) | Tue Oct 11 2022 7:10 AM 
+- 🎊 [Lightning接口“末日”降至，下一个撬开苹果“城墙”的将是Chiplet](https://www.cnbeta.com/articles/tech/1325897.htm) | Tue Oct 11 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;目前印度已经推进 5G 网络部署，预估将会在 2024 年全面部署完成。根据流行的互联网测试公司 Ookla 的最新数据，&lt;strong&gt;印度运营商 Jio 的 5G 速度达到 598.58Mbps，速度最快，而竞争对手 Airtel 在德里的速度为 197.98Mbps。&lt;/strong&gt;不过伴随着 5G 在印度全国范围的铺开，这个网速应该会有所下降。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;商业成功的基本法则到底是什么？互联网巨头说要“开放”，苹果公司告诉你是“封闭”。近日，欧洲议会通过的一则法案撬动了苹果公司坚固的“城墙”。这则由欧洲议会以压倒性优势投票通过的法案规定，从2024年底开始，欧洲市场销售的手机、平板电脑、数码相机、便携式导航系统等便携智能设备新机都必须使用USB Type-C的充电接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
