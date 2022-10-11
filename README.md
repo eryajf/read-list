@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [uni app锚点定位 、自动吸顶、滚动自动选择对应的锚点](https://juejin.cn/post/7153085070017265678) | Tue Oct 11 2022 3:03 AM 
+- 🤗 [Android中高级进阶开发面试题冲刺合集（六）](https://juejin.cn/post/7153156328066646053) | Tue Oct 11 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    uni app开发小程序锚点定位 、自动吸顶、页面滚动的时候自动选择对应的锚点、优化选中的时候来回切换的问题 
+    以下主要针对往期收录的面试题进行一个分类归纳整理，方便大家统一回顾和参考。本篇是安卓开发面试题的第六集~ 
     </details> 
 
-- 🎡 [DCM：中间件家族迎来新成员，属实牛逼](https://juejin.cn/post/7153053512882978823) | Tue Oct 11 2022 1:00 AM 
+- 🎡 [Qiankun实践——加载一个微应用](https://juejin.cn/post/7153141951183716383) | Tue Oct 11 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-    现代应用无时无刻不在与数据打交道，数据计算无处不在，报表统计、数据分析、业务处理不一而足。当前数据处理的主要手段仍然是以关系数据库为代表的相关技术，虽然使用高级语言（如Java）硬编码 
+    上两篇文章分别带大家手写了 Qiankun 的 JS 沙箱以及 CSS 沙箱。这两次实践都是分开做的，比较割裂，做完一遍可以加深对沙箱的理解，但具体 Qiankun 怎么把它们用在加载微应用上的，可能 
     </details> 
 
-- 🕯 [浏览器文件保存的探索](https://juejin.cn/post/7152815411023593480) | Mon Oct 10 2022 9:37 AM 
+- 🕯 [一个惊人的问题，parseInt&lpar;0.0000005&rpar; 返回结果是“5”？](https://juejin.cn/post/7153141685719465991) | Tue Oct 11 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将带你了解现代浏览器下载的机制，以及根据这个原理实现浏览器的前端本地文件生成与下载。可以让开发者在面对某种特别需求时，极大地提高用户体验。 
+    我正在参加「掘金·启航计划」 前言 作为前端开发工程师，JavaScript是我们主要的开发语言，是每个人必须要掌握的，它是弱类型语言，本身语法也比较简单，最近我偶然间发现了一个奇怪的问题，parse 
     </details> 
 
-- 🚀 [【PC端web移植到ipad端web项目落地经验】-移动端ipad web开发小结](https://juejin.cn/post/7152812781769588766) | Mon Oct 10 2022 9:27 AM 
+- 🚀 [Qiankun实践——实现一个CSS沙箱](https://juejin.cn/post/7153140440777097224) | Tue Oct 11 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-    背景：pc端项目原本都是固定写死的宽高，没做适配效果。需求：将pc端的web改造支持ipad显示，保持布局正常。 一、PC端到ipad端的web适配方案 考虑方案有如下几种： 动态计算meta标签大小 
+    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 前言 哈喽，大家好，我是海怪。 上篇文章讲了如何实现一个 Qiankun 的 JS 沙箱（实际应该是 3 个 
     </details> 
 
-- 💪 [GraphQL在react中的应用](https://juejin.cn/post/7152810866772017159) | Mon Oct 10 2022 9:19 AM 
+- 💪 [Vite 项目配置环境变量和全局变量](https://juejin.cn/post/7153129286415679518) | Tue Oct 11 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是 GraphQL GraphQL由Facebook发起，其手机客户端自2012年起，就全面采用了GraphQL查询语言， 2015年， Facebook全面开源了第一份GraphQL规范。 
+    Vite 项目配置环境变量和全局变量 因为公司项目有多个环境，而我接手的这个前端项目比较老（前一段时间把项目的构建配置重构了一下，从老版本的 Webpack 换成了 Vite），区分不同环境也是直接用 
     </details> 
 <!-- juejin:END -->
 ### 少数派
