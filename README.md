@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [程序员-转行卖水果怎么样？](https://www.v2ex.com/t/886181#reply11) | Tue Oct 11 2022 12:41 PM
-- 🤗 [白群晖断开连接](https://www.v2ex.com/t/886179#reply0) | Tue Oct 11 2022 12:33 PM
-- 🎭 [Linux 出大版本 6.0 了！](https://www.v2ex.com/t/886168#reply11) | Tue Oct 11 2022 11:53 AM
-- 🥷 [求推荐一些比较优质的 reactjs+nestjs 项目模版](https://www.v2ex.com/t/886165#reply0) | Tue Oct 11 2022 11:42 AM
-- 🐵 [Alder Lake iGPU 硬解不稳定, 过一段时间就崩溃](https://www.v2ex.com/t/886164#reply0) | Tue Oct 11 2022 11:24 AM<!-- v2ex:END -->
+- 🥸 [有没有这种轻量级的逻辑表达式库（C/C++）？比如我输入 A&gt;2 &amp;&amp; B &lt; 1 表达式; 然后设置 A =2,B=0, 判定表达式结果为 false。](https://www.v2ex.com/t/886194#reply1) | Tue Oct 11 2022 2:27 PM
+- 🤗 [请问如何优雅的将 PostgreSQL 数据同步到 Oracle？](https://www.v2ex.com/t/886190#reply2) | Tue Oct 11 2022 1:56 PM
+- 🎭 [程序员-转行卖水果怎么样？](https://www.v2ex.com/t/886181#reply18) | Tue Oct 11 2022 12:41 PM
+- 🥷 [白群晖断开连接](https://www.v2ex.com/t/886179#reply2) | Tue Oct 11 2022 12:33 PM
+- 🐵 [Linux 出大版本 6.0 了！](https://www.v2ex.com/t/886168#reply14) | Tue Oct 11 2022 11:53 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
