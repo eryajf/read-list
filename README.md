@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Meta元宇宙形象终于有了腿部](https://www.cnbeta.com/articles/tech/1326057.htm) | Tue Oct 11 2022 7:11 PM 
+- 🕯 [新西兰征税计划：农场动物打嗝、撒尿要付费](https://www.cnbeta.com/articles/tech/1326059.htm) | Tue Oct 11 2022 8:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据央视新闻，新西兰政府11日提议&lt;span style=&quot;&quot;&gt;对农场动物打嗝、撒尿排放的温室气体征税，以应对气候变化。&lt;/span&gt;和十多年前所提的“放屁税”一样，这次征税提议遭到反对。根据新西兰政府提出的计划，“打嗝、撒尿税”从2025年开始征收，税价未定。新西兰政府称，农场主可以通过提高气候友好型产品的价格以收回缴税开支。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Meta元宇宙形象终于有了腿部](https://www.cnbeta.com/articles/tech/1326057.htm) | Tue Oct 11 2022 7:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;Meta公司周二在其Meta Connect活动上宣布，其下一代元宇宙形象将包含腿脚，并且能够支持在网上更多地方使用来自Meta地平线的头像。&lt;/strong&gt;Meta公司首席执行官马克·扎克伯格在活动中说：&amp;quot;腿真的不太好做，我们将首先把腿带到地平线[世界]，随着我们改进我们的技术栈，我们将不断把它们带到更多的体验中。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Meta宣布推出售价1499美元的Quest Pro头显](https://www.cnbeta.com/articles/tech/1326055.htm) | Tue Oct 11 2022 7:01 PM 
+- 💂 [Meta宣布推出售价1499美元的Quest Pro头显](https://www.cnbeta.com/articles/tech/1326055.htm) | Tue Oct 11 2022 7:01 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在2022年Meta Connect大会上，首席执行官马克·扎克伯格宣布了该公司最新的虚拟现实头显，但在多年努力降低进入VR世界的成本后，新宣布的Quest Pro似乎是为了突破技术界限。&lt;strong&gt;这款新设备与之前的产品线Quest同名，但与大众市场400美元以下的的头显没有什么共同之处。Meta公司将Quest Pro的价位提高到1500美元，并视其为一种生产力设备。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [水货iPhone的4手生意 华强北走向衰落](https://www.cnbeta.com/articles/tech/1326053.htm) | Tue Oct 11 2022 7:00 PM 
+- 🚀 [水货iPhone的4手生意 华强北走向衰落](https://www.cnbeta.com/articles/tech/1326053.htm) | Tue Oct 11 2022 7:00 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在华强北水货市场摸爬滚打10年之久的小林，终于决定结束自己的华强北生涯，选择回家乡发展。“现在根本干不下去了，抓得严、也不好卖，以后华强北不会再有水货机了。以前的华强北卖水货手机太赚钱了，随随便便从香港背回来几台手机，就能日赚大几千，不知道多少人赚得盆满钵满。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [北大与字节合作推古籍数字化平台：3年完成万部古籍整理](https://www.cnbeta.com/articles/tech/1326051.htm) | Tue Oct 11 2022 6:59 PM 
+- 🎊 [北大与字节合作推古籍数字化平台：3年完成万部古籍整理](https://www.cnbeta.com/articles/tech/1326051.htm) | Tue Oct 11 2022 6:59 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，由“北京大学—字节跳动数字人文开放实验室”研发的古籍数字化平台“识典古籍”测试版正式上线。据介绍，该平台涵盖390部经典古籍，主要来自《四部丛刊》，共计3000多万字，即日起向公众免费开放。未来三年将陆续完成一万种古籍的智能化整理工作，基本覆盖儒家、道家和佛学的核心典籍目录，届时将全部免费开放。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [扎克伯格正在犯一个典型的硅谷错误：Meta成为了10年前的雅虎](https://www.cnbeta.com/articles/tech/1326049.htm) | Tue Oct 11 2022 6:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，Facebook母公司Meta CEO马克·扎克伯格（Mark Zuckerberg）正在犯一个典型的硅谷错误，即大约10年前雅虎CEO玛丽莎·梅耶尔（Marissa Mayer）所犯下的错误。后来，雅虎被出售，梅耶尔辞职。而这一次，Meta和扎克伯格能否实现其“元宇宙”愿景呢？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
