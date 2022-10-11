@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [StoreDot极快电池单元在生产就绪EV中实现了1000次充电周期](https://www.cnbeta.com/articles/tech/1325929.htm) | Tue Oct 11 2022 9:13 AM 
+- 🕯 [iPhone 14 Pro紫色版被吐槽品控不稳 两台同型号机型色差明显](https://www.cnbeta.com/articles/tech/1325951.htm) | Tue Oct 11 2022 10:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;电动汽车电池初创公司StoreDot日前宣布，其极快充电&lpar;XFC&rpar;电池单元技术在生产就绪的EV上已经完成了超1000个的充电周期。&lt;/strong&gt;StoreDot表示，其XFC电动车电池单元可在短短10分钟内从10-80%的容量反复充电，然后在重新充电前放电1小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iPhone 14系列四款新机都已上市，目前来看标准版表现稍差，而Pro版则是非常火热。由于今年全新的灵动岛、4800万像素主摄等配置大升级，选择Pro的用户非常多，&lt;strong&gt;而独有的暗紫色也是大家的首选。&lt;/strong&gt;这次iPhone 14 Pro的暗紫色并不是纯色，而是类似渐变色的效果，不同光线下呈现出的效果不同，但这个工艺苹果似乎还并没完全把控住。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [西门子歌美飒14-222 DD海上风力涡轮机创下24小时发电新纪录](https://www.cnbeta.com/articles/tech/1325927.htm) | Tue Oct 11 2022 9:07 AM 
+- 💼 [Google Pixel Watch将获得至少3年的Wear OS更新 包括功能升级](https://www.cnbeta.com/articles/tech/1325949.htm) | Tue Oct 11 2022 10:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;西班牙-德国风能巨头 Siemens Gamesa 的 14-222 DD 海上风力涡轮原型机，刚刚创下了 24 小时内单机输出 359 兆瓦时的世界纪录。&lt;/strong&gt;在丹麦 Østerild 完成了 10 个月电网输送测试后，西门子歌美飒很快又实现了这一里程碑。该公司称，这部分能源足够一辆类似特斯拉 Model 3 的中型电动汽车行驶约 112 万英里（180 万公里）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为Pixel Watch产品发布的一部分，Google已经详细说明了Wear OS设备将获得至少三年的更新。这段时间从&amp;quot;该设备首次在美国的Google商店上市时&amp;quot;开始。第一代Pixel Watch将获得&amp;quot;保证的软件更新，&amp;quot;至少到&amp;quot;2025年10月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [为找完美的手机 网友连拆60多台iPhone 14 Pro Max](https://www.cnbeta.com/articles/tech/1325925.htm) | Tue Oct 11 2022 9:02 AM 
+- 💂 [这6种营养素中国人普遍缺乏 照着吃可以补回来](https://www.cnbeta.com/articles/science/1325947.htm) | Tue Oct 11 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果的iPhone 14系列手机已经上市，售价不菲，大家买新机都希望找到一台没什么瑕疵的型号，遇到品控不太好的可能会换机，然而有网友为了找到心目中完美的手机，连续拆机60多台，还表示自己没偷没抢，谁也管不着。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;现在我国居民的生活水平已经有了显著提高，特别是在饮食方面，从以往连温饱都是个难题，到现在不仅能吃饱，还能吃的很好。不过，吃的好并不意味着营养摄入也充足。&lt;strong&gt;根据《中国居民膳食指南科学研究报告（2021）》中的数据，我国居民仍然缺乏钙、锌、维生素A、B族维生素、维生素D、膳食纤维等部分营养素。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [国产首款高性能4K级显卡“风华1号”开始量产](https://www.cnbeta.com/articles/tech/1325923.htm) | Tue Oct 11 2022 9:02 AM 
+- 🚀 [NASA研发新型固态电池 能量密度比特斯拉电池高一倍](https://www.cnbeta.com/articles/science/1325945.htm) | Tue Oct 11 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;去年11月，&lt;strong&gt;芯动科技发布首款国产高性能4K级显卡GPU——“风华1号”，&lt;/strong&gt;包括“风华1号”A型卡（单芯桌面端）、“风华1号”B型卡（双芯服务器端）两款，采用12nm制程工艺。“风华1号”发布后，就有关注这款显卡的人询问：“什么时候才能用上？”经过近一年时间的等待，“风华1号”的脚步终于近了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据外媒报道，美国宇航局&lpar;NASA&rpar;宣布其研究人员正在进行SABERS&lpar;改进固态电池充电效率和安全性&rpar;项目，而且取得了十分不错的成果，研发了一款能量密度达500Wh/kg的动力电池，其能量密度是现代电动汽车电池的两倍多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [外媒：谷歌或冠名英超热刺足球俱乐部新球场 价值3.75亿英镑](https://www.cnbeta.com/articles/tech/1325921.htm) | Tue Oct 11 2022 9:01 AM 
+- 🎊 [制作方发文否认梁朝伟加盟《鱿鱼游戏2》](https://hot.cnbeta.com/articles/movie/1325943.htm) | Tue Oct 11 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月11日消息，据国外媒体报道，英超托特纳姆热刺足球俱乐部的新球场已经开放了三年半，但依旧还没有赞助商冠名。&lt;strong&gt;日前有消息人士称，Google正与其就其场馆冠名权进行谈判。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去年，由Netflix（奈飞）拍摄的《鱿鱼游戏》开播后，在全球范围内引发了观影热潮，甚至不少游戏以及电影后续也融入了鱿鱼游戏的元素，而该剧的续集——《鱿鱼游戏2》也在近日开启制作。此前，曾有消息表示，影帝梁朝伟或将参与拍摄《鱿鱼游戏2》，而这一消息在今日得到了验证。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
