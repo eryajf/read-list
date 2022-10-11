@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Intel史上最好的6款CPU：你用过几款？](https://www.cnbeta.com/articles/tech/1325961.htm) | Tue Oct 11 2022 11:08 AM 
+- 🕯 [Google涂鸦致敬埃及著名历史学家 Mostafa El-Abbadi](https://www.cnbeta.com/articles/tech/1325991.htm) | Tue Oct 11 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;成立50多年来，Intel制造了大量CPU产品，那么有没有一款或者几款让你印象深刻，并愿意奉之为经典呢？来自DT的编辑Matthew Connatser整理了6款，不知道你同意否？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;感谢&lt;a href=&quot;https://www.goofan.com/2022/10/mostafa-el-abbadis-94th-birthday/&quot; target=&quot;_blank&quot;&gt;茶叶蛋&lt;/a&gt;的投递&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;今年 10 月 10 日的 Google Doodle 是为了纪念 Mostafa El-Abbadi &lpar;穆斯塔法-艾尔-阿巴迪&rpar; 诞辰 94 周年。El-Abbadi &lpar;阿巴迪&rpar; 是埃及著名历史学家、著名希腊罗马研究教授，于 2017 年去世，他最伟大的成就是对亚历山大图书馆的重建和复兴做出了伟大贡献。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉电动重卡终于投产 马斯克不敢再等](https://www.cnbeta.com/articles/tech/1325959.htm) | Tue Oct 11 2022 11:07 AM 
+- 💼 [特斯拉异议“特舒拉”商标成功 此前曾告“特斯拉啤酒”侵权](https://www.cnbeta.com/articles/tech/1325989.htm) | Tue Oct 11 2022 12:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亮相5年之后，特斯拉的纯电卡车Semi Truck（下称Semi）终于要投产了。10月6日，马斯克在Twitter上发文称，Semi将于今年12月1日交付给百事可乐。在百事加州工厂园区内，已经有若干个特斯拉Megacharger充电站在静静等待着第一批15辆Semi卡车的到来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325959.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;因为商标“近似”或者“擦边”，商标主体间出现不少“商标纷争”事件，特斯拉也不例外。近日，天眼查APP显示，第53436164号“特舒拉”商标不予注册的商标文书公开。文书显示，特斯拉（上海）有限公司对广州睿捷汽车用品有限公司申请的“特舒拉”商标提出异议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [TCL华星全新喷墨打印OLED折叠屏亮相：20万次弯曲无压力](https://www.cnbeta.com/articles/tech/1325957.htm) | Tue Oct 11 2022 11:05 AM 
+- 💂 [分析师称PlayStation 5美国进口量在上个月大幅增加 上月同比增长400%](https://hot.cnbeta.com/articles/game/1325987.htm) | Tue Oct 11 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着柔性OLED面板飞速发展，屏幕折痕问题、屏幕各项性能参数也都有了明显改进和提升。日前，TCL华星全球首发的17英寸IGZO喷墨打印OLED折叠显示器在北京展览馆亮相。该产品由TCL华星与广东聚华印刷显示技术有限公司（简称“聚华”）联合研制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一位分析师声称，在过去几个月里，PlayStation 5的美国进口量大大增加。著名的MST金融分析师大卫-吉布森在Twitter上说，进口数据似乎表明，索尼互动在过去几个月里一直在增加其在美国的进口，2022年9月的进口量甚至同比增长了400%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [2022中国载人航天有多忙？还有4大任务 明年还有大招](https://www.cnbeta.com/articles/science/1325955.htm) | Tue Oct 11 2022 11:05 AM 
+- 🚀 [青少年仍对iPhone和Apple Watch感到兴奋 而对VR则不那么感冒](https://www.cnbeta.com/articles/tech/1325985.htm) | Tue Oct 11 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年，对中国航天，尤其是载人航天来说意义重大，今年我国将正式完成天宫空间站的建设，还有4大任务需要完成。据央视报道，当前，空间站建造已进入收官阶段，&lt;strong&gt;按计划年底前将实施梦天实验舱、天舟五号、神舟十五号飞行和神舟十四号返回等4次任务，完成空间站建造。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项针对美国青少年的调查表明，下一代人仍然对iPhone超级兴奋，而且越来越多的人在手腕上绑上了Apple Watch。分析公司Piper Sandler对美国青少年的半年期调查显示，自上次报告以来，iPhone拥有率保持在87%，青少年的iPhone购买意向也保持在88%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [打了八年，奈飞和院线第一次“停战”](https://hot.cnbeta.com/articles/movie/1325953.htm) | Tue Oct 11 2022 11:04 AM 
+- 🎊 [调查发现许多美国司机将部分自动驾驶汽车视为全自动](https://www.cnbeta.com/articles/tech/1325983.htm) | Tue Oct 11 2022 12:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;打了好几年，奈飞和院线的“冷战”出现缓和的迹象。10月7日，Netflix宣布将在11月23日至29日进行为期一周的《利刃出鞘2》影院放映活动，该电影将在AMC、Regal和Cinemark的600家影院的荧幕上放映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项新的研究发现，使用特斯拉自动驾驶仪或通用汽车超级巡航等高级驾驶辅助系统的司机，尽管有警告，但往往把他们的车辆当作完全自动驾驶来使用。高速公路安全保险协会（IIHS）是一个由行业资助的组织，它日常敦促汽车制造商制造更安全的车辆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
