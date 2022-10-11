@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [The Turn List - 简单、低功耗、无地图的地图应用程序](https://xinquji.com/posts/180385?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:33 AM 
+- 👀 [SaaS Weekly - 收件箱中最好的精选 SaaS 文章](https://xinquji.com/posts/180393?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     简单、低功耗、无地图的地图应用程序  
+     收件箱中最好的精选 SaaS 文章  
     </details> 
 
-- 🥷 [Cyberbackpack 2.0 Daypack Work Bag - 市场上唯一可以为手机充电的背包](https://xinquji.com/posts/180384?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:33 AM 
+- 🥷 [Interview Sandbox - 编码、编译、视频聊天、白板和 AI 助手](https://xinquji.com/posts/180392?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-     市场上唯一可以为手机充电的背包  
+     编码、编译、视频聊天、白板和 AI 助手  
     </details> 
 
-- 💼 [AwesomeHunt - 社区策划的任何主题的学习资源列表](https://xinquji.com/posts/180383?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:31 AM 
+- 💼 [Dynamic Survey Builder - 构建可以在电子邮件中完成的调查](https://xinquji.com/posts/180391?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     社区策划的任何主题的学习资源列表  
+     构建可以在电子邮件中完成的调查  
     </details> 
 
-- 🦅 [Grace for iOS 16 - 新的锁屏小部件和高效父母的快捷方式](https://xinquji.com/posts/180382?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:31 AM 
+- 🦅 [Fearless - 帮助企业家获得反馈的服务](https://xinquji.com/posts/180390?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     新的锁屏小部件和高效父母的快捷方式  
+     帮助企业家获得反馈的服务  
     </details> 
 
-- 😺 [IdeaX - 由 IdeaX 产生酷而独特的创业想法](https://xinquji.com/posts/180381?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:29 AM 
+- 😺 [Uptime - 自动化 Shopify 商店 QA 测试和平台状态警报](https://xinquji.com/posts/180389?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     由 IdeaX 产生酷而独特的创业想法  
+     自动化 Shopify 商店 QA 测试和平台状态警报  
     </details> 
 <!-- xinquji:END -->
