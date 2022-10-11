@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google涂鸦致敬埃及著名历史学家 Mostafa El-Abbadi](https://www.cnbeta.com/articles/tech/1325991.htm) | Tue Oct 11 2022 12:21 PM 
+- 🕯 [通用汽车现在进入了能源行业](https://www.cnbeta.com/articles/tech/1326011.htm) | Tue Oct 11 2022 1:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;感谢&lt;a href=&quot;https://www.goofan.com/2022/10/mostafa-el-abbadis-94th-birthday/&quot; target=&quot;_blank&quot;&gt;茶叶蛋&lt;/a&gt;的投递&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;今年 10 月 10 日的 Google Doodle 是为了纪念 Mostafa El-Abbadi &lpar;穆斯塔法-艾尔-阿巴迪&rpar; 诞辰 94 周年。El-Abbadi &lpar;阿巴迪&rpar; 是埃及著名历史学家、著名希腊罗马研究教授，于 2017 年去世，他最伟大的成就是对亚历山大图书馆的重建和复兴做出了伟大贡献。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;通用汽车公司正在向房主、企业和公用事业部门推出新的能源产品系列&lt;/strong&gt;，这是电动汽车攻势的下一步，目的是在制造和销售电动汽车之外创造收入，并直接针对特斯拉。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉异议“特舒拉”商标成功 此前曾告“特斯拉啤酒”侵权](https://www.cnbeta.com/articles/tech/1325989.htm) | Tue Oct 11 2022 12:15 PM 
+- 💼 [Google Docs将很快支持在文档中嵌入其他应用](https://www.cnbeta.com/articles/tech/1326009.htm) | Tue Oct 11 2022 1:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;因为商标“近似”或者“擦边”，商标主体间出现不少“商标纷争”事件，特斯拉也不例外。近日，天眼查APP显示，第53436164号“特舒拉”商标不予注册的商标文书公开。文书显示，特斯拉（上海）有限公司对广州睿捷汽车用品有限公司申请的“特舒拉”商标提出异议。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;@符号即将成为Google Docs中最重要的功能。随着Google继续投资，使工作空间成为一个更加连接和强大的平台，它也在向第三方开发者大力开放Docs。今后，你只需要输入&amp;quot;@&amp;quot;和你要找的文件或应用程序的名称，就能在Google文档中看到并编辑它。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [分析师称PlayStation 5美国进口量在上个月大幅增加 上月同比增长400%](https://hot.cnbeta.com/articles/game/1325987.htm) | Tue Oct 11 2022 12:14 PM 
+- 💂 [比亚迪订8艘滚装船打造出海舰队 能成“海上印钞机”吗？](https://www.cnbeta.com/articles/tech/1326007.htm) | Tue Oct 11 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一位分析师声称，在过去几个月里，PlayStation 5的美国进口量大大增加。著名的MST金融分析师大卫-吉布森在Twitter上说，进口数据似乎表明，索尼互动在过去几个月里一直在增加其在美国的进口，2022年9月的进口量甚至同比增长了400%。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着中国汽车出海潮的来临，汽车运输船航运市场开始复苏。有分析机构推测，到2030年，全球还需建造100-200艘新的汽车运输船。在此环境下，诸如上汽集团、比亚迪等汽车企业，纷纷斥巨资拓充或开始打造属于自身的舰队。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [青少年仍对iPhone和Apple Watch感到兴奋 而对VR则不那么感冒](https://www.cnbeta.com/articles/tech/1325985.htm) | Tue Oct 11 2022 12:09 PM 
+- 🚀 [高通胀背景下 亚马逊等零售商假日购物季提前开始](https://www.cnbeta.com/articles/tech/1326005.htm) | Tue Oct 11 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项针对美国青少年的调查表明，下一代人仍然对iPhone超级兴奋，而且越来越多的人在手腕上绑上了Apple Watch。分析公司Piper Sandler对美国青少年的半年期调查显示，自上次报告以来，iPhone拥有率保持在87%，青少年的iPhone购买意向也保持在88%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊&lpar;AMZM.US&rpar;以今年的第二场大型促销活动为假日购物季增添了活力，不仅如此，沃尔玛&lpar;WMT.US&rpar;和百思买&lpar;BBY.US&rpar;等竞争对手也加入了降价促销的行列，以吸引因通胀而紧缩圣诞预算的消费者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [调查发现许多美国司机将部分自动驾驶汽车视为全自动](https://www.cnbeta.com/articles/tech/1325983.htm) | Tue Oct 11 2022 12:06 PM 
+- 🎊 [谷歌宣布与Coinbase合作：允许用户使用加密货币支付云服务](https://www.cnbeta.com/articles/tech/1326003.htm) | Tue Oct 11 2022 1:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项新的研究发现，使用特斯拉自动驾驶仪或通用汽车超级巡航等高级驾驶辅助系统的司机，尽管有警告，但往往把他们的车辆当作完全自动驾驶来使用。高速公路安全保险协会（IIHS）是一个由行业资助的组织，它日常敦促汽车制造商制造更安全的车辆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;谷歌今日宣布，通过与数字加密货币交易平台Coinbase合作，从明年年初开始，将允许一些客户使用数字加密货币来支付云服务。作为合作的一部分，Coinbase将把部分应用转移到谷歌云平台上。这笔交易是在谷歌的Cloud Next大会上宣布的，分析人士称，此举可能吸引一些“前沿公司”使用谷歌的云服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
