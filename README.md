@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《哥谭骑士》豪华版预告 10月21日正式发售](https://hot.cnbeta.com/articles/game/1325791.htm) | Tue Oct 11 2022 4:38 AM 
+- 🕯 [Facebook改名近一年，“All in 元宇宙”效果如何？扎克伯格得先说清这几个问题](https://www.cnbeta.com/articles/tech/1325801.htm) | Tue Oct 11 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（10月11日），华纳公布《哥谭骑士》豪华版预告，《哥谭骑士》将于10月21日发售，登陆Steam、Epic、PS5、XSX/S平台。《哥谭骑士》是一款开放世界的动作角色扮演游戏，游戏背景设置在有史以来最为生动、最具互动性的哥谭市。选择独行或与另一位英雄结伴巡逻哥谭的五个街区，随时准备空降现场并打击罪犯。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325791.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据报道，今年的Facebook Connect大会将于美国东部时间10月11日10点（北京时间10月12日凌晨1点）开幕，届时马克·扎克伯格将就元宇宙发表主题演讲。&lt;/strong&gt;就在约一年前，扎克伯格向外界宣布，Facebook将更名为Meta。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《守望先锋：归来》只肝不氪 需用5年才能解锁雾子全饰品](https://hot.cnbeta.com/articles/game/1325789.htm) | Tue Oct 11 2022 4:24 AM 
+- 💼 [Yummy推出可个性化定制的食谱AI](https://www.cnbeta.com/articles/tech/1325799.htm) | Tue Oct 11 2022 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《守望先锋：归来》已于10月5日正式上线，其战利品箱子的取消以及过高的皮肤售价，让不少老玩家感到不满。国外Reddit论坛用户Autumn_hi计算了下，在只肝不氪的情况下，想解锁《守望先锋：归来》新英雄雾子的全部饰品，至少需要15600金币。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325789.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前我们已见识过音乐和绘画等 AI 艺术创作，&lt;strong&gt;但一家名叫 Yummy 的爱沙尼亚初创企业，也想到了利用人工智能、根据个人口味偏好和饮食禁忌而调整食谱，并输出 AI 生成的菜肴图像。&lt;/strong&gt;联合创始人兼首席执行官 Martin Salo 在接受外媒采访时称，该公司正借助生成式 AI 和其它尖端技术，来构建完全可定制的膳食计划和杂货购物体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔Arc A770显卡在欧洲售价曝光 售价461欧元](https://www.cnbeta.com/articles/tech/1325787.htm) | Tue Oct 11 2022 4:20 AM 
+- 💂 [深圳将加快基于RISC-V等架构芯片研发：最高奖励1000万](https://www.cnbeta.com/articles/tech/1325797.htm) | Tue Oct 11 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔 Arc A770 显卡预订于明天发售，不过已经提前现身德国零售网站 Geizahls。目前英特尔官方宣布该显卡在美国市场的售价为 349 美元，但是官方并未宣布其在欧洲市场的售价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;半导体行业的发展程度是衡量一个国家科技发展水平的核心指标。近年来，为了进一步鼓励国内半导体的整体发展，国家相关部委出台了一系列支持和引导半导体行业发展的政策法规。据广东省半导体行业协会消息，深圳市发改委近日发布《深圳市关于促进半导体与集成电路产业高质量发展的若干措施（征求意见稿）》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新加坡团队开发AI新工具 可用文本直接生产3DVR图像](https://www.cnbeta.com/articles/tech/1325785.htm) | Tue Oct 11 2022 4:16 AM 
+- 🚀 [统一充电接口或让苹果每年损失百亿：iPhone 14将成闪电接口绝唱](https://www.cnbeta.com/articles/tech/1325795.htm) | Tue Oct 11 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如今各种AI图像生成软件正火，不过基本都是生成2D类图像，日前来自新加坡的一个科研团队宣布，正在开发文本直接生产3D&lt;a target=&quot;_blank&quot; href=&quot;https://www.3dmgame.com/tag/vr_1/&quot;&gt;VR&lt;/a&gt;图像的AI系统，如果项目完成，将对今后的绘图、电影、动漫乃至游戏等领域造成巨大的冲击和影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，欧盟的一项统一充电接口的新规，让苹果站在了风口浪尖。&lt;strong&gt;星图金融研究院研究员雒佑认为，苹果一直是统一充电接口的反对者，背后有着复杂的原因。&lt;/strong&gt;据悉，Lightning接口诞生于2012年，正反使用都可以正常工作，在当时，这一接口的推出无疑是一大进步。但十年间，在数据传输技术突飞猛进，苹果仍然坚持使用这一接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [木星卫星最清晰地基图像揭示了它们的冰冻景观](https://www.cnbeta.com/articles/science/1325783.htm) | Tue Oct 11 2022 4:12 AM 
+- 🎊 [3DMark定于周三推出Speed Way DirectX 12 Ultimate基准测试工具](https://www.cnbeta.com/articles/tech/1325793.htm) | Tue Oct 11 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期，地球上的望远镜对木星最大的两颗卫星所拍摄的最详细的图像揭示了构成其冰冻表面的化学鸡尾酒。来自莱斯特大学物理和天文学学院的行星科学家公布了欧罗巴（木卫二）和甘尼米德（木卫三）的新图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;3DMark“Speed Way”是一项全新的 GPU 基准测试，展示了将为下一代游戏体验提供支撑的图形技术。&lt;/strong&gt;UL Solutions 很高兴地宣布，由 Lenovo Legion 赞助的 Speed Way 将于 10 月 12 日正式到来，其团队一直努力让 Speed Way 为今秋推出的新 PC 硬件做好准备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
