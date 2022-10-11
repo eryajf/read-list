@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [消息人士透露索尼目标在23财年出货3000万台PlayStation 5](https://hot.cnbeta.com/articles/game/1326029.htm) | Tue Oct 11 2022 2:54 PM 
+- 🕯 [能效无敌：RTX 4090降至250W功耗仍能领先3090 Ti](https://www.cnbeta.com/articles/tech/1326039.htm) | Tue Oct 11 2022 4:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;PlayStation 5是一台神话般的游戏机，发布至今似乎没有人能够得到，即使它的价位还在提高。然而，索尼似乎想通过在下一个财政年度销售更多的游戏机来解决这个问题。这一信息是由与Insider Gaming交谈的消息人士提供的，此前他们在关于PlayStation 5可拆卸光盘驱动器版本的独家报道中简要地提到了这一点。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326029.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今晚RTX 4090显卡解禁了，有关性能测试的部分大家看得差不多了，这一代显卡让很多人有些担忧的是功耗，TGP提升到了450W，比上代提升了100W，而且散热器非常夸张。而且官方建议配备850W电源，部分AIC的非公版显卡要求更高，推荐配置1200W电源，这更吓坏了不少人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [越来越贵的中国汽车走向全球 新能源车优势明显](https://www.cnbeta.com/articles/tech/1326027.htm) | Tue Oct 11 2022 2:50 PM 
+- 💼 [上海机场联络线项目盾构掘进创纪录 建成后虹桥到浦东机场缩短到40分钟](https://www.cnbeta.com/articles/tech/1326037.htm) | Tue Oct 11 2022 4:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月，中国汽车出口30.1万辆，同比增长73.9%。这也是继今年8月以后，中国汽车出口第二次实现单月出口突破30万辆。中国汽车工业协会（下称“中汽协”）在10月11日发布上述数据。根据中国海关总署的统计，今年前八个月，中国汽车出口达到191万辆，超越了德国，仅次于日本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中国铁道建筑报消息，&lt;strong&gt;由中铁十四局承建的上海机场联络线2标单月推进288环，进尺达到576米，平均日进尺19.2米，创造了全预制大直径泥水盾构国内最快纪录。&lt;/strong&gt;据了解，上海机场联络线是上海市首条市域铁路，正线全长68.6公里，是国内首条与国铁网络互通互联的市域铁路示范工程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Cell：为什么女性更容易患阿尔茨海默氏症](https://www.cnbeta.com/articles/tech/1326025.htm) | Tue Oct 11 2022 2:49 PM 
+- 💂 [分析师认为苹果的下一个MacBook生产中心可能是泰国](https://www.cnbeta.com/articles/tech/1326035.htm) | Tue Oct 11 2022 3:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p class=&quot;fk_text&quot;&gt;研究人员在大脑组织中发现了一种机制，可以解释为什么女性更容易患阿尔茨海默症。他们说，这一发现可能有助于研发治疗该疾病的新药。具体来说，研究人员发现，与男性相比，女性大脑中某种酶的表达量更高，导致一种名为tau的蛋白质的积累量更大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;天风证券分析师郭明錤称，苹果转移生产地点的努力将集中在将更多的全球iPhone订单转移到印度，而将MacBook的生产转移到泰国。目前苹果的全系列MacBook Air和MacBook Pro机型都在中国工厂组装。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326035.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [V社可能在开发新的VR头显](https://www.cnbeta.com/articles/tech/1326023.htm) | Tue Oct 11 2022 2:29 PM 
+- 🚀 [《极品飞车：不羁》全新实机演示 可自定义风格特效](https://hot.cnbeta.com/articles/game/1326033.htm) | Tue Oct 11 2022 3:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对于那些寻找相对便宜硬件的人来说，VR市场上有很多选择，而且在接下来的几个月甚至几年里，显然还会出现更多选择。然而，如果你愿意掏钱，就硬件实力而言，没有什么能打败Valve Index——而且似乎V社也在寻求进一步投资虚拟现实领域。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《极品飞车：不羁》在今日公布了一段实机演示，玩家可以自定义风格，选择驾驶特效，该作预计在12月2日发售，登陆PS5、XSX|S和PC平台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《极品飞车：不羁》实机演示：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326033.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [历史性一刻：特斯拉电动车攻克欧洲汽车大本营](https://www.cnbeta.com/articles/tech/1326021.htm) | Tue Oct 11 2022 2:26 PM 
+- 🎊 [“吃饱饭后还有第二个胃来装甜点” 竟然是真的？](https://www.cnbeta.com/articles/science/1326031.htm) | Tue Oct 11 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉成功踢馆，Model Y击败BBAV成9月德国最畅销车型。特斯拉Model Y 9月成功击败大众高尔夫等竞争对手，成为德国最畅销的汽车。德国车辆管理局的数据显示，9月特斯拉Model Y新注册数量达到9846辆，远超在德国很受欢迎的大众高尔夫，成为当月汽车市场销冠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不知道大家有没有过这样的经历，在一顿饱餐之后，感觉已经吃不下了，但是看到甜点后，依然能够大快朵颐。&lt;strong&gt;明明已经吃饱了，为啥肚子还能“腾出地方”继续吃下甜点？&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326031.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
