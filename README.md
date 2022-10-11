@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [One Switch 1.27 一键切换系统各项功能](https://xclient.info/s/one-switch.html) | Mon Oct 10 2022 2:20 AM 
+- 🦏 [Slidepad 1.3.7 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Tue Oct 11 2022 12:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。 
+    </details> 
+
+-  [WebScraper 4.15.5 网页数据的爬取](https://xclient.info/s/webscraper.html) | Tue Oct 11 2022 12:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    WebScraper是一款运行在Mac平台上非常好用的网站数据提取工具，可以帮您在10分钟内轻松实现网页数据的爬取，只需输入起始网址即可开始，操作简单、功能强大。 
+    </details> 
+
+- ⚗️ [PhotoMill X 2.2.0 批量处理图片工具](https://xclient.info/s/photomill-x.html) | Tue Oct 11 2022 12:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    PhotoMill是一款批量处理图片的工具，可以帮助用户在照片上添加水印、日期、转换图像格式、调整图片亮度等多种便捷功能 
+    </details> 
+
+- 🔥 [Cisdem PDF Converter OCR 7.5.0 fix PDF格式转换应用](https://xclient.info/s/cisdem-pdf-converter-ocr.html) | Tue Oct 11 2022 12:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    Cisdem PDF Converter OCR 是一款Mac上强大的万能PDF格式转换工具，这款软件可以将PDF转换为Word, Text, PowerPoint, Excel, Rtfd, ePub, HTML, keynote等格式，简单易用，很不错 
+    </details> 
+
+- 🌋 [One Switch 1.27 一键切换系统各项功能](https://xclient.info/s/one-switch.html) | Mon Oct 10 2022 2:20 AM 
     <details><summary>展开描述 ...</summary> 
     One Switch 是Mac平台上的一款集合一键切换系统各项功能的工具。One Switch Mac版是一款小巧的应用程序，旨在通过快速访问一些重要的交换机来提高您的效率。它可以从菜单栏打开，只需点击几下即可切换某些系统功能。 
-    </details> 
-
--  [PhotoSweeper X 4.6.0 重复照片查找删除工具](https://xclient.info/s/photosweeper.html) | Mon Oct 10 2022 2:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    PhotoSweeper可以快速有效的从你的电脑中删除重复照片,可以对照片分组对比,可以选择格式,尺寸,文件大小. 
-    </details> 
-
-- ⚗️ [Grids for Instagram 8.2 在桌面端更加优雅地浏览Instagram](https://xclient.info/s/grids-for-instagram.html) | Mon Oct 10 2022 2:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    Grids带给您Mac上的全新的Instagram体验。完美支持VPN和代理连接！ 
-    </details> 
-
-- 🔥 [djay Pro AI 4.0.10 专业的DJ工具](https://xclient.info/s/djay-pro.html) | Mon Oct 10 2022 1:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    djay Pro是Mac os平台上的一款非常专业的DJ工具，帮助你即时访问数以百万计的音频轨道 
-    </details> 
-
-- 🌋 [Mirror for Samsung TV 3.8 Samsung智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-samsung-tv.html) | Sun Oct 09 2022 12:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    Mirror for Samsung TV是Mac os系统上Samsung智能电视影像投放软件，用户通过该软件可以将Mac电脑的影像投放在Samsung智能电视上。 
     </details> 
 <!-- xclient:END -->
 
