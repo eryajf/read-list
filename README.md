@@ -333,7 +333,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [CIS 2022定制版冰阔落，就等你了！](https://www.freebuf.com/fevents/346555.html) | Tue Oct 11 2022 6:46 AM 
+- 🦄 [定制CIS 2022冰阔落，就送周边大礼包](https://www.freebuf.com/fevents/346555.html) | Tue Oct 11 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
     快来写上你的定制化标语，更有FreeBuf周边好礼相送~ 
     </details> 
