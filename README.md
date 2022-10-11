@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Jetpack Compose|聊聊Modifier的特性](https://juejin.cn/post/7153189769147580446) | Tue Oct 11 2022 9:50 AM 
+- 🤗 [深度学习可视化工具visdom使用](https://juejin.cn/post/7153176383814893598) | Tue Oct 11 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将会介绍Jetpack Compose中的Modifier。通过本文将可以了解到修饰符的特性，掌握了修饰符的特性再结合官方文档属性值列表我们可以轻松的完成Jetpack Compose UI的修饰 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 1 visdom 1.1 vidsom介绍 visdom的github主页：https://github 
     </details> 
 
-- 🎡 [ES集群异常修复与进阶实践](https://juejin.cn/post/7153164339334086663) | Tue Oct 11 2022 8:11 AM 
+- 🎡 [Vue3学习笔记 ｜ 第一天](https://juejin.cn/post/7153173369281019934) | Tue Oct 11 2022 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-    ES 出现failed to execute pipeline for a bulk request问题 已知情况： 当前环境各组件运行正常，数据由HBase侧不停写入ES； 索引 
+    Vue学习—&gt;Vue3 1. Vue2是怎么样的？ Vue 2 是一个响应式驱动的、内置虚拟 DOM、组件 化、用在浏览器开发，并且有一个运行时把这些模块很好地管理起来的框架。  2. Vue2存在哪 
     </details> 
 
-- 🕯 [初探 Compose for Wear OS：实现一个简易选择APP](https://juejin.cn/post/7153162218345857060) | Tue Oct 11 2022 8:03 AM 
+- 🕯 [React项目中封装Input输入框只能输入数字的hooks方法](https://juejin.cn/post/7153172389877006372) | Tue Oct 11 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
-    本文简述如何使用 Compose for Wear OS 为 Wear OS 编写应用，并通过实践编写一个《今天吃什么》APP的方式入门 Wear OS开发，以及解答使用过程中可能遇到的问题。 
+    今天就来聊一聊在项目中经常遇见的需求：Input输入框只能输入数字，之前遇见这样的需求都是在项目中直接进行编码的，这次就来将其封装为一个hook，方便后续在项目中去进行引用。 
     </details> 
 
-- 🚀 [WWDC22 - DNS安全：DNSSEC](https://juejin.cn/post/7153158833388159013) | Tue Oct 11 2022 7:51 AM 
+- 🚀 [你需要知道的微前端](https://juejin.cn/post/7153168397994803207) | Tue Oct 11 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    在我看来，很多知识点看起来似乎在我们日常工作中用不到，但是能帮助我们从一个更宏观更全局的角度去理解我们面对的需求或者说工程项目。跳出单个业务，跳出单个团队看问题，其实是非常重要的。 
+    什么是微前端 来源 微服务的思想和概念⼀开始是为了解决后端服务不断扩展带来的⼀系列例如项⽬过⼤导致的复杂度不可控、难以维护、单⼀进程 容错率低，故障可能在进程内扩散导致服务全局上的不可⽤、扩展困难等等 
     </details> 
 
-- 💪 [你知道Vue中router实现原理吗?](https://juejin.cn/post/7152892881332600839) | Mon Oct 10 2022 2:37 PM 
+- 💪 [Netty系列（二）：核心功能——传输 （Transport）](https://juejin.cn/post/7153166751427985422) | Tue Oct 11 2022 8:21 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言 在我们了解router的实现原理之前，我们先来聊聊vue的路由跳转到底是怎样的吧！ 首先，我们知道vue创建的项目其实是一个单页应用。在我们对vue项目进行打包以后 
+    我正在参加「掘金·启航计划」 Netty核心功能——传输 （Transport） Netty 为它所有的传输实现提供了一个通用 API，这使得这种转换比直接使用 JDK 所能够达到的简单得多。所产生的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
