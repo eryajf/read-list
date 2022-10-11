@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [CPU-Z数据库曝光酷睿i3-13100：4C/8T无小核 疑似12代马甲提频](https://www.cnbeta.com/articles/tech/1325905.htm) | Tue Oct 11 2022 8:29 AM 
+- 🕯 [StoreDot极快电池单元在生产就绪EV中实现了1000次充电周期](https://www.cnbeta.com/articles/tech/1325929.htm) | Tue Oct 11 2022 9:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在持续数周的传闻之后，&lt;strong&gt;@TUM_APISAK 刚刚在 Twitter 上晒出了 i3-13100 台式处理器的 CPU-Z 截图，确认了英特尔仍在制造四核处理器 —— 尽管是以酷睿入门 SKU 的形式。&lt;/strong&gt;不过作为一款 4C / 8T 的 CPU，它最大的特点，反而是没有配备规模较小的 Gracemont 小核（E-cores）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;电动汽车电池初创公司StoreDot日前宣布，其极快充电&lpar;XFC&rpar;电池单元技术在生产就绪的EV上已经完成了超1000个的充电周期。&lt;/strong&gt;StoreDot表示，其XFC电动车电池单元可在短短10分钟内从10-80%的容量反复充电，然后在重新充电前放电1小时。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [疑似OPPO Reno9真机曝光 外观大变样 还有曲面屏幕](https://www.cnbeta.com/articles/tech/1325903.htm) | Tue Oct 11 2022 8:20 AM 
+- 💼 [西门子歌美飒14-222 DD海上风力涡轮机创下24小时发电新纪录](https://www.cnbeta.com/articles/tech/1325927.htm) | Tue Oct 11 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;目前，在OPPO的官方商城上，有三款在售的OPPO Reno8机型，他们的发布时间均在今年上半年，凭借着比较不错的外观设计和优秀的产品素质，这些OPPO Rno8机型也获得了不少消费者的喜爱。而随着时间的推移和越来越多OPPO Reno9信息的流出，我们能够明显地感受到，OPPO Reno新机或许即将到来。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;西班牙-德国风能巨头 Siemens Gamesa 的 14-222 DD 海上风力涡轮原型机，刚刚创下了 24 小时内单机输出 359 兆瓦时的世界纪录。&lt;/strong&gt;在丹麦 Østerild 完成了 10 个月电网输送测试后，西门子歌美飒很快又实现了这一里程碑。该公司称，这部分能源足够一辆类似特斯拉 Model 3 的中型电动汽车行驶约 112 万英里（180 万公里）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [一夜蒸发960多亿 芯片巨头们的“寒冬”如何熬过去](https://www.cnbeta.com/articles/tech/1325901.htm) | Tue Oct 11 2022 8:19 AM 
+- 💂 [为找完美的手机 网友连拆60多台iPhone 14 Pro Max](https://www.cnbeta.com/articles/tech/1325925.htm) | Tue Oct 11 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月8日，一则“美国芯片巨头一夜暴跌近14%”的话题登上微博热搜，阅读量达1.3亿。市值近1000亿美元的美国芯片公司AMD，10月6日发布了一份极其糟糕的初步财报，吓坏了美股市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果的iPhone 14系列手机已经上市，售价不菲，大家买新机都希望找到一台没什么瑕疵的型号，遇到品控不太好的可能会换机，然而有网友为了找到心目中完美的手机，连续拆机60多台，还表示自己没偷没抢，谁也管不着。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone14 Plus遇冷Pro卖爆 被称最不保值手机](https://www.cnbeta.com/articles/tech/1325899.htm) | Tue Oct 11 2022 8:18 AM 
+- 🚀 [国产首款高性能4K级显卡“风华1号”开始量产](https://www.cnbeta.com/articles/tech/1325923.htm) | Tue Oct 11 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone 14系列开售近一个月，Pro系列愈加火热，与此相对的是iPhone 14 Plus最高降价已经达到了千元级别。根据Sandalwood电商市场监测数据，系列四款机型之间的销售额对冲之后，7天销售额相比往年甚至还上升了17%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;去年11月，&lt;strong&gt;芯动科技发布首款国产高性能4K级显卡GPU——“风华1号”，&lt;/strong&gt;包括“风华1号”A型卡（单芯桌面端）、“风华1号”B型卡（双芯服务器端）两款，采用12nm制程工艺。“风华1号”发布后，就有关注这款显卡的人询问：“什么时候才能用上？”经过近一年时间的等待，“风华1号”的脚步终于近了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Lightning接口“末日”降至，下一个撬开苹果“城墙”的将是Chiplet](https://www.cnbeta.com/articles/tech/1325897.htm) | Tue Oct 11 2022 8:17 AM 
+- 🎊 [外媒：谷歌或冠名英超热刺足球俱乐部新球场 价值3.75亿英镑](https://www.cnbeta.com/articles/tech/1325921.htm) | Tue Oct 11 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;商业成功的基本法则到底是什么？互联网巨头说要“开放”，苹果公司告诉你是“封闭”。近日，欧洲议会通过的一则法案撬动了苹果公司坚固的“城墙”。这则由欧洲议会以压倒性优势投票通过的法案规定，从2024年底开始，欧洲市场销售的手机、平板电脑、数码相机、便携式导航系统等便携智能设备新机都必须使用USB Type-C的充电接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月11日消息，据国外媒体报道，英超托特纳姆热刺足球俱乐部的新球场已经开放了三年半，但依旧还没有赞助商冠名。&lt;strong&gt;日前有消息人士称，Google正与其就其场馆冠名权进行谈判。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
