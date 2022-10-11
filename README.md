@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [美国多家机场遭网络攻击，疑似亲俄黑客所为](https://www.freebuf.com/news/346538.html) | Tue Oct 11 2022 5:48 AM 
+- 🦄 [CIS 2022定制版冰阔落，就等你了！](https://www.freebuf.com/fevents/346555.html) | Tue Oct 11 2022 6:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    快来写上你的定制化标语，更有FreeBuf周边好礼相送~ 
+    </details> 
+
+- 🦄 [美国多个机场因网络攻击发生故障，和俄罗斯有关？](https://www.freebuf.com/news/346538.html) | Tue Oct 11 2022 5:48 AM 
     <details><summary>展开描述 ...</summary> 
     亲俄黑客组织 “KillNet ”声称对美国几个主要机场的网站进行了分布式拒绝服务（DDoS）攻击。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 伊朗抗议者劫持国有电视台直播；日本IPA发布2022《信息安全白皮书》](https://www.freebuf.com/news/346484.html) | Mon Oct 10 2022 9:59 AM 
+- 🦅 [FreeBuf早报 | 伊朗抗议者劫持国有电视台直播；日本IPA发布2022《信息安全白皮书》](https://www.freebuf.com/news/346484.html) | Mon Oct 10 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
     在过去两年中，超过九成（91%）的网络安全专家在工作中遇到过心理健康挑战。 
     </details> 
 
-- 🦅 [宜家智能照明系统发现漏洞，可能导致灯泡闪烁恢复出厂设置](https://www.freebuf.com/articles/network/346423.html) | Mon Oct 10 2022 4:13 AM 
+- 🪄 [宜家智能照明系统发现漏洞，可能导致灯泡闪烁恢复出厂设置](https://www.freebuf.com/articles/network/346423.html) | Mon Oct 10 2022 4:13 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员在宜家的智能照明系统中发现了两个漏洞，允许攻击者控制该系统并使灯泡快速闪烁，还可能导致恢复出厂设置。 
     </details> 
 
-- 🪄 [英特尔确认Alder Lake BIOS源代码已泄露](https://www.freebuf.com/news/346409.html) | Mon Oct 10 2022 3:05 AM 
+- 💻 [英特尔确认Alder Lake BIOS源代码已泄露](https://www.freebuf.com/news/346409.html) | Mon Oct 10 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
     英特尔已向知名硬件网站Tom&#39;s Hardware确认其第十二代酷睿处理器Alder Lake 的UEFI BIOS 源代码已泄露。 
-    </details> 
-
-- 💻 [三城联动，四大特色 | CIS 2022大会各地观众限量报名开启](https://www.freebuf.com/fevents/346377.html) | Mon Oct 10 2022 2:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    11月16日，上海不见不散！ 
     </details> 
 <!-- freebuf:END -->
 
