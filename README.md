@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [试用了几个国内的表格 OCR 功能，大厂并不优秀啊](https://www.v2ex.com/t/886143#reply5) | Tue Oct 11 2022 9:40 AM
-- 🤗 [web3 高级后端 golang 工程师 base：北京望京南](https://www.v2ex.com/t/886141#reply1) | Tue Oct 11 2022 9:36 AM
-- 🎭 [GitHub 是不是出 bug 了，今天收到了几封历史 issue 的邮件](https://www.v2ex.com/t/886140#reply5) | Tue Oct 11 2022 9:35 AM
-- 🥷 [django admin 部分自带的 css 文件 collectstatic，生成的文件大小为 0？](https://www.v2ex.com/t/886127#reply0) | Tue Oct 11 2022 8:56 AM
-- 🐵 [win11 修改默认浏览器后 桌面应用跳转到浏览器无响应](https://www.v2ex.com/t/886124#reply1) | Tue Oct 11 2022 8:36 AM<!-- v2ex:END -->
+- 🥸 [单元测试的爱恨情仇，作为码农们，你们写单元测试么？](https://www.v2ex.com/t/886162#reply0) | Tue Oct 11 2022 11:01 AM
+- 🤗 [关于 Jellyfin Plex emby 服务端转码的疑惑](https://www.v2ex.com/t/886157#reply2) | Tue Oct 11 2022 10:37 AM
+- 🎭 [试用了几个国内的表格 OCR 功能，大厂并不优秀啊](https://www.v2ex.com/t/886143#reply7) | Tue Oct 11 2022 9:40 AM
+- 🥷 [web3 高级后端 golang 工程师 base：北京望京南](https://www.v2ex.com/t/886141#reply1) | Tue Oct 11 2022 9:36 AM
+- 🐵 [GitHub 是不是出 bug 了，今天收到了几封历史 issue 的邮件](https://www.v2ex.com/t/886140#reply5) | Tue Oct 11 2022 9:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
