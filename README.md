@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔和Google云联手推出Mount Evans芯片以提高数据中心性能](https://www.cnbeta.com/articles/tech/1326045.htm) | Tue Oct 11 2022 4:46 PM 
+- 🕯 [Meta元宇宙形象终于有了腿部](https://www.cnbeta.com/articles/tech/1326057.htm) | Tue Oct 11 2022 7:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔公司和Alphabet公司的Google云周二表示，他们已经推出了一款共同设计的芯片，可以使数据中心更加安全和高效。代号为Mount Evans的E2000芯片从昂贵的中央处理器（CPU）手中接过了为网卡打包数据的工作，原本这些任务由中央处理器负责计算。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Meta公司周二在其Meta Connect活动上宣布，其下一代元宇宙形象将包含腿脚，并且能够支持在网上更多地方使用来自Meta地平线的头像。&lt;/strong&gt;Meta公司首席执行官马克·扎克伯格在活动中说：&amp;quot;腿真的不太好做，我们将首先把腿带到地平线[世界]，随着我们改进我们的技术栈，我们将不断把它们带到更多的体验中。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [这张卖到12999元的RTX4090，性能到底有多夸张？](https://www.cnbeta.com/articles/tech/1326043.htm) | Tue Oct 11 2022 4:40 PM 
+- 💼 [Meta宣布推出售价1499美元的Quest Pro头显](https://www.cnbeta.com/articles/tech/1326055.htm) | Tue Oct 11 2022 7:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;咳咳，你们没猜错，万众期待的英伟达 公版 RTX 4090，今天终于正式解禁、猛兽出笼了！托尼其实在两周之前，就拿到了这块大 &lt;strong&gt;“ 巨型板砖 ”&lt;/strong&gt;，网上调侃说这玩意儿像空调外机似的，那是一点都没有夸张。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326043.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在2022年Meta Connect大会上，首席执行官马克·扎克伯格宣布了该公司最新的虚拟现实头显，但在多年努力降低进入VR世界的成本后，新宣布的Quest Pro似乎是为了突破技术界限。&lt;strong&gt;这款新设备与之前的产品线Quest同名，但与大众市场400美元以下的的头显没有什么共同之处。Meta公司将Quest Pro的价位提高到1500美元，并视其为一种生产力设备。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [RTX 4090浮点性能首次突破100万亿次大关 超频功耗666.6W](https://www.cnbeta.com/articles/tech/1326041.htm) | Tue Oct 11 2022 4:38 PM 
+- 💂 [水货iPhone的4手生意 华强北走向衰落](https://www.cnbeta.com/articles/tech/1326053.htm) | Tue Oct 11 2022 7:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2008年，AMD&lpar;ATI&rpar; Radeon HD 4850发布，55nm工艺，9.56亿个晶体管，800个流处理器，核心频率625MHz，256-bit 512MB GDDR3显存，浮点性能第一次突破1TFlops&lpar;每秒1万亿次计算&rpar;。然后，14年过去了，100TFlops&lpar;每秒100万亿次计算&rpar;的关卡终于被突破，使用的是超频版RTX 4090。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326041.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在华强北水货市场摸爬滚打10年之久的小林，终于决定结束自己的华强北生涯，选择回家乡发展。“现在根本干不下去了，抓得严、也不好卖，以后华强北不会再有水货机了。以前的华强北卖水货手机太赚钱了，随随便便从香港背回来几台手机，就能日赚大几千，不知道多少人赚得盆满钵满。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [能效无敌：RTX 4090降至250W功耗仍能领先3090 Ti](https://www.cnbeta.com/articles/tech/1326039.htm) | Tue Oct 11 2022 4:21 PM 
+- 🚀 [北大与字节合作推古籍数字化平台：3年完成万部古籍整理](https://www.cnbeta.com/articles/tech/1326051.htm) | Tue Oct 11 2022 6:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今晚RTX 4090显卡解禁了，有关性能测试的部分大家看得差不多了，这一代显卡让很多人有些担忧的是功耗，TGP提升到了450W，比上代提升了100W，而且散热器非常夸张。而且官方建议配备850W电源，部分AIC的非公版显卡要求更高，推荐配置1200W电源，这更吓坏了不少人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326039.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，由“北京大学—字节跳动数字人文开放实验室”研发的古籍数字化平台“识典古籍”测试版正式上线。据介绍，该平台涵盖390部经典古籍，主要来自《四部丛刊》，共计3000多万字，即日起向公众免费开放。未来三年将陆续完成一万种古籍的智能化整理工作，基本覆盖儒家、道家和佛学的核心典籍目录，届时将全部免费开放。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [上海机场联络线项目盾构掘进创纪录 建成后虹桥到浦东机场缩短到40分钟](https://www.cnbeta.com/articles/tech/1326037.htm) | Tue Oct 11 2022 4:15 PM 
+- 🎊 [扎克伯格正在犯一个典型的硅谷错误：Meta成为了10年前的雅虎](https://www.cnbeta.com/articles/tech/1326049.htm) | Tue Oct 11 2022 6:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据中国铁道建筑报消息，&lt;strong&gt;由中铁十四局承建的上海机场联络线2标单月推进288环，进尺达到576米，平均日进尺19.2米，创造了全预制大直径泥水盾构国内最快纪录。&lt;/strong&gt;据了解，上海机场联络线是上海市首条市域铁路，正线全长68.6公里，是国内首条与国铁网络互通互联的市域铁路示范工程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326037.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，Facebook母公司Meta CEO马克·扎克伯格（Mark Zuckerberg）正在犯一个典型的硅谷错误，即大约10年前雅虎CEO玛丽莎·梅耶尔（Marissa Mayer）所犯下的错误。后来，雅虎被出售，梅耶尔辞职。而这一次，Meta和扎克伯格能否实现其“元宇宙”愿景呢？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
