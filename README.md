@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [ParagraphAI - 第一款由 GPT-3 提供支持的移动 AI 写作助手应用程序](https://xinquji.com/posts/180352?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:48 AM 
+- 👀 [The Turn List - 简单、低功耗、无地图的地图应用程序](https://xinquji.com/posts/180385?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     第一款由 GPT-3 提供支持的移动 AI 写作助手应用程序  
+     简单、低功耗、无地图的地图应用程序  
     </details> 
 
-- 🥷 [Discovery Phase Checklist 2.0 - 您在软件发现阶段的助手](https://xinquji.com/posts/180351?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:46 AM 
+- 🥷 [Cyberbackpack 2.0 Daypack Work Bag - 市场上唯一可以为手机充电的背包](https://xinquji.com/posts/180384?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     您在软件发现阶段的助手  
+     市场上唯一可以为手机充电的背包  
     </details> 
 
-- 💼 [Any Photo Puzzle - 使用任何照片玩益智游戏](https://xinquji.com/posts/180350?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:43 AM 
+- 💼 [AwesomeHunt - 社区策划的任何主题的学习资源列表](https://xinquji.com/posts/180383?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     使用任何照片玩益智游戏  
+     社区策划的任何主题的学习资源列表  
     </details> 
 
-- 🦅 [HTTP Status Tester - 由前 Google 批量测试 URL 的 HTTP 响应](https://xinquji.com/posts/180349?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:41 AM 
+- 🦅 [Grace for iOS 16 - 新的锁屏小部件和高效父母的快捷方式](https://xinquji.com/posts/180382?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     由前 Google 批量测试 URL 的 HTTP 响应  
+     新的锁屏小部件和高效父母的快捷方式  
     </details> 
 
-- 😺 [Vysen - 您的任务管理自动化](https://xinquji.com/posts/180348?utm_campaign=xinquji-rss) | Tue Oct 11 2022 6:39 AM 
+- 😺 [IdeaX - 由 IdeaX 产生酷而独特的创业想法](https://xinquji.com/posts/180381?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     您的任务管理自动化  
+     由 IdeaX 产生酷而独特的创业想法  
     </details> 
 <!-- xinquji:END -->
