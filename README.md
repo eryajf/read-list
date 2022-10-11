@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [有人评测和分析了为什么 Windows PC 笔记本电脑的续航时间远小于苹果 MacBook Pro/ Air](http://www.mac52ipod.cn/post/apple-silicone-mac-macbook-pro-air-windows-pc-laptop-battery-life.php) | Mon Sep 26 2022 1:09 AM 
+- 👨‍🏫 [苹果对「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求](http://www.mac52ipod.cn/post/apple-device-7-7-inch.php) | Tue Oct 11 2022 7:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	看到了&lt;u&gt;&lt;a href=&quot;https://twitter.com/DetroitBORG/status/1506362460307169280&quot; target=&quot;_blank&quot; title=&quot;苹果&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;一条 tweet&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，如下图所示，几个苹果设备「完美」得摞在了一起。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6711&quot; border=&quot;0&quot; alt=&quot;苹果电脑&quot; title=&quot;苹果电脑&quot; /&gt;&lt;/p&gt;&lt;p&gt;然后我查了一下，苹果对于「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Mac mini：7.7 × 7.7 英寸&lt;/li&gt;&lt;li&gt;Mac Studio：7.7 × 7.7 英寸&lt;/li&gt;&lt;li&gt;Power Mac G4 Cube：8 × 8 英寸&lt;/li&gt;&lt;li&gt;第一代 Apple TV：7.8 × 7.8 英寸&lt;/li&gt;&lt;li&gt;AirPort Time Capsule：7.7 × 7.7 英寸&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%259C%25BA%25E8%25BA%25AB&quot; rel=&quot;tag&quot;&gt;机身&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A4%2596%25E5%25A3%25B3&quot; rel=&quot;tag&quot;&gt;外壳&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B0%25BA%25E5%25AF%25B8&quot; rel=&quot;tag&quot;&gt;尺寸&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [有人评测和分析了为什么 Windows PC 笔记本电脑的续航时间远小于苹果 MacBook Pro/ Air](http://www.mac52ipod.cn/post/apple-silicone-mac-macbook-pro-air-windows-pc-laptop-battery-life.php) | Mon Sep 26 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [在苹果 iPhone 锁屏界面一键启动 App / 健康码 / 付款码 / 快捷指令：锁屏启动 &lpar;Lock Launcher&rpar;](http://www.mac52ipod.cn/post/apple-ios-iphone-app-lock-launcher.php) | Sat Sep 24 2022 5:11 AM 
+- 🦏 [在苹果 iPhone 锁屏界面一键启动 App / 健康码 / 付款码 / 快捷指令：锁屏启动 &lpar;Lock Launcher&rpar;](http://www.mac52ipod.cn/post/apple-ios-iphone-app-lock-launcher.php) | Sat Sep 24 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [Apple新闻之苹果将在欧洲、日韩等国家上调 App Store 的应用售价和内付费价格](http://www.mac52ipod.cn/post/apple-app-store-raise-prices-in-japan-europe-korea-and-more-countries.php) | Thu Sep 22 2022 4:51 AM 
+- 🚀 [Apple新闻之苹果将在欧洲、日韩等国家上调 App Store 的应用售价和内付费价格](http://www.mac52ipod.cn/post/apple-app-store-raise-prices-in-japan-europe-korea-and-more-countries.php) | Thu Sep 22 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Mac技巧之让你上网时自动通过网站的图形验证码：Noptcha: ReCAPTCHA  hCAPTCHA Solver](http://www.mac52ipod.cn/post/chrome-hcaptcha-recaptcha-extension-noptcha.php) | Tue Sep 20 2022 2:52 AM 
+- 🏊 [Mac技巧之让你上网时自动通过网站的图形验证码：Noptcha: ReCAPTCHA  hCAPTCHA Solver](http://www.mac52ipod.cn/post/chrome-hcaptcha-recaptcha-extension-noptcha.php) | Tue Sep 20 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	上网时经常被网站推到  reCAPTCHA或 hCAPTCHA 图形验证页面，如下图所示。美其名曰为了验证我是个人还是个恶意攻击网站的程序，但实际上很可能是利用我帮 IT 公司们训练图像识别 AI（我就发现 Google 经常给我弹 reCAPTCHA 验证）。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6666&quot; border=&quot;0&quot; alt=&quot;我是人类 reCAPTCHA 图形验证码&quot; title=&quot;我是人类 reCAPTCHA 图形验证码&quot; /&gt;&lt;/p&gt;&lt;p&gt;此前推荐过一个通过 AI 自动识别验证信息的浏览器扩展 &lt;u&gt;&lt;a href=&quot;/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster&quot;&gt;&lt;font color=#0000FF&gt;Buster&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，最近又发现一个类似的「用魔法打败魔法、用 AI 打败 AI 训练题」的工具：Noptcha，不仅支持自动通过 reCAPTCHA 验证，还加上了对 hCAPTCHA 的支持。&lt;/p&gt;&lt;p&gt;Noptcha: ReCAPTCHA &amp; hCAPTCHA Solver 下载 &lt;u&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo&quot; target=&quot;_blank&quot; title=&quot;Noptcha: ReCAPTCHA &amp; hCAPTCHA Solver 下载&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=hcaptch&quot; rel=&quot;tag&quot;&gt;hcaptch&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=recaptcha&quot; rel=&quot;tag&quot;&gt;recaptcha&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=ai&quot; rel=&quot;tag&quot;&gt;ai&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [苹果给开发者和设计师们分享了很多 Sketch 和 PhotoShop 等软件可用的设计资源](http://www.mac52ipod.cn/post/apple-developer-designer-resources-sketch-photoshop-png-svg-pdf.php) | Sun Sep 18 2022 8:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果官网的开发者中心分享了图标、模板等很多设计资源，有 Sketch、PhotoShop、PNG、SVG、PDF 等对应资源下载。&lt;/p&gt;&lt;p&gt;感兴趣的直接去 &lt;u&gt;&lt;a href=&quot;https://developer.apple.com/design/resources/&quot; target=&quot;_blank&quot; title=&quot;Apple Design Resource - Apple Developer&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://developer.apple.com/design/resources/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt; 看看吧&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%25AE%25BE%25E8%25AE%25A1&quot; rel=&quot;tag&quot;&gt;设计&lt;/a&gt;
 
  
     </details> 
