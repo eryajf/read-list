@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [获得诺贝尔奖的美联储主席伯南克是何方神圣？](https://www.cnbeta.com/articles/tech/1325619.htm) | Mon Oct 10 2022 11:20 PM 
+- 🕯 [精工联名奥特曼55周年纪念款腕表公开 全球限量3400块](https://hot.cnbeta.com/articles/comic/1325721.htm) | Tue Oct 11 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;&lt;span style=&quot;&quot;&gt;是爱撒钱的“本直升机”，还是驱逐危机的“巨人”？&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;&quot;&gt;北京时间10月10日晚，2022年诺贝尔经济学奖得主揭晓。美联储前主席本·伯南克（Ben&amp;nbsp;Bernanke）、Douglas W． Diamond和Philip H． Dybvig共享了这一殊荣，以“表彰他们对银行和金融危机的研究”。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;经典名作《奥特曼7》即将于2022年10月迎来播出55周年纪念，作为纪念，特别联动日本精工手表推出55周年联动限量版腕表，全球限量3400块，收藏价值十足。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1325721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“空中写卡”的eSIM走红 SIM卡会被完全取代吗？](https://www.cnbeta.com/articles/tech/1325617.htm) | Mon Oct 10 2022 11:18 PM 
+- 💼 [迪士尼将拍真人版《一千零一夜》电影](https://hot.cnbeta.com/articles/movie/1325719.htm) | Tue Oct 11 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“正组织相关单位，研究推进eSIM技术在平板电脑、便携式计算机及智能手机设备上的应用，待条件成熟后扩大eSIM技术应用范围。”近日，工信部在回复网友提问中谈到的eSIM引发关注。这种不用手机开槽插卡，直接集成在手机内部的eSIM到底是什么？有什么优势？未来会完全取代SIM卡吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日据外媒Deadline报道，迪士尼将拍一部充满奇幻和科幻色彩的真人电影，其灵感来自中东经典民间故事《一千零一夜》。该片暂命名为《一千零一夜》，由《王者之路》编剧阿拉什·阿梅尔负责剧本并制作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1325719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [乘高铁抽电子烟被拘5天 专家呼吁纳入控烟条例](https://www.cnbeta.com/articles/tech/1325615.htm) | Mon Oct 10 2022 11:17 PM 
+- 💂 [Steam Deck自定义开机画面 《绝命毒师》等风格各异](https://hot.cnbeta.com/articles/game/1325717.htm) | Tue Oct 11 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;长期游走在禁烟边缘的电子烟，在一些公共场所已经明确被禁。近日，有网友发布G689次高铁上有乘客在吸电子烟的视频。10月8日，12306客服回应媒体称，高铁上可以携带电子烟，但不能抽，高铁上抽烟被发现或触发烟雾报警器将送警方处理，情节严重的要担负刑事责任。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;V社近日公布的Steam Deck3.3.2更新允许玩家自定义掌机开机动画，目前网上已出现了SteamDeck发烧友制作的各种创意开机画面，其中包括绝命毒师风格、刺猬索尼克风格、怪奇物语风格、GameCube风格、辐射哔哔小子风格等等，一起来看看吧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1325717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[评论]利用平台漏洞“薅羊毛”被判刑并不冤](https://www.cnbeta.com/articles/tech/1325613.htm) | Mon Oct 10 2022 11:16 PM 
+- 🚀 [研究：用改良的疱疹病毒进行实验性治疗可治愈晚期癌症](https://www.cnbeta.com/articles/science/1325715.htm) | Tue Oct 11 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;因为利用平台漏洞“薅羊毛”而获刑，在多地均有判决的案例。此前在上海，曾有5人因为利用肯德基手机客户端和微信客户端之间数据不同步的漏洞获利20多万元，结果因此获刑。法院一审认为，各被告人通过发起虚假交易获取退券退款的行为，是基于两个客户端之间数据不同步，使被害单位在错误的基础上进行财产处分，进而造成财产损失，故各被告人的行为符合诈骗罪的构成要件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;科学家们利用一种改良版的疱疹病毒成功地治愈了晚期癌症。&lt;/strong&gt;一名参加该灭癌病毒试验的患者在治疗后看到他的癌细胞完全消失。据伦敦癌症研究所称，15个多月后，他的癌症一直没有复发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [自行车铃铛AirBell：隐藏着一个苹果AirTag](https://www.cnbeta.com/articles/tech/1325611.htm) | Mon Oct 10 2022 11:14 PM 
+- 🎊 [天宫课堂第三课明日开讲：将展示问天舱神奇设备和太空植物](https://www.cnbeta.com/articles/science/1325713.htm) | Tue Oct 11 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;骑城市自行车会遇到两个必然情况：小偷会盯上你、游客会走在你的路上。AirBell解决了这两个问题，它将苹果的一个AirTag追踪器谨慎地藏在一个小的机械铃铛里。在许多大城市，自行车被盗是一个不幸的现实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1325611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中国载人航天工程办公室消息，&lt;strong&gt;天宫课堂第三课定于10月12日（明天）下午15时45分开始，神舟十四号飞行乘组航天员陈冬、刘洋、蔡旭哲将进行太空授课。&lt;/strong&gt;本次太空授课活动将继续采取天地互动方式进行，中央广播电视总台将面向全球进行现场直播。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1325713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
