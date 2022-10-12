@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NVIDIA新驱动发布：DirectX 12游戏性能暴涨24.6％](https://www.cnbeta.com/articles/tech/1326481.htm) | Wed Oct 12 2022 4:38 PM 
+- 🕯 [从太空俯瞰地球 这名欧洲宇航员念了一句中国古文](https://www.cnbeta.com/articles/science/1326485.htm) | Wed Oct 12 2022 5:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;正在国际空间站上执行驻留任务的意大利首位女性航天员萨曼莎·克里斯托福雷蒂，10月12日在太空中“书写”了一段中国式浪漫。当天，她在个人推特账号上发布了一组太空摄影作品，并配上一句描写宇宙景观的中国古文，既展现太空视角下的家园之美，又展现自己不俗的中文功底。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [研究表明猴子等其它灵长类动物或将很快下到地面生活](https://www.cnbeta.com/articles/science/1326483.htm) | Wed Oct 12 2022 4:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;根据进化论，人类和猩猩、猴子都属于“近亲”，但它们已经不可能再进化成人类，不过根据一项新的研究，猴子或许将很快到地面来生活！人类的祖先其实就生活在树上，后来由于环境的变化，被迫来到地面上，逐渐进化为现在的人类。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [NVIDIA新驱动发布：DirectX 12游戏性能暴涨24.6％](https://www.cnbeta.com/articles/tech/1326481.htm) | Wed Oct 12 2022 4:38 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;RTX 4090上架开卖的同时，NVIDIA发布了新版驱动程序522.25，不但支持新卡，还开启了DLSS 3，并且针对一系列热门的DX12游戏进行了优化，性能提升幅度最大可达24.6％。DLSS 3游戏首发三款《Portal RTX》、《Racer RTX》、《赛博朋克2077》，近期将陆续迎来&lt;strong&gt;《漫威蜘蛛侠：重制版》、《光明记忆：无限》、《瘟疫传说：安魂曲》、《F1 22》、《逆水寒》“拂云庭”、《生死轮回》、《微软模拟飞行》、《超级人类》。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“超杀女”科洛·莫瑞兹新剧《外围》首映 鳞鳞金属上衣超惹眼](https://hot.cnbeta.com/articles/movie/1326479.htm) | Wed Oct 12 2022 3:56 PM 
+- 🚀 [“超杀女”科洛·莫瑞兹新剧《外围》首映 鳞鳞金属上衣超惹眼](https://hot.cnbeta.com/articles/movie/1326479.htm) | Wed Oct 12 2022 3:56 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当地时间2022年10月11日，美国洛杉矶艾斯酒店，“超杀女”科洛·莫瑞兹出席新剧《外围》&lpar;The Peripheral&rpar;首映礼，亮晶晶的鳞片上衣尤为吸睛。她在个人号上说“纽约，很棒的一周。谢谢所有来漫展参加我们剧组活动的人。你们马上就能看到《外围》这部剧，它会让你们大吃一惊的。我爱这些人超越一切。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美国宇航局为阿特米斯一号登月任务确定新的11月发射日期](https://www.cnbeta.com/articles/science/1326477.htm) | Wed Oct 12 2022 3:53 PM 
+- 🎊 [美国宇航局为阿特米斯一号登月任务确定新的11月发射日期](https://www.cnbeta.com/articles/science/1326477.htm) | Wed Oct 12 2022 3:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;对于一项酝酿多年的任务，多等几天又算得了什么？美国国家航空航天局（NASA）将人类送回月球的第一个重大步骤现在可能会在11月14日进行。周三，NASA宣布了一组新的潜在发射日期，以执行无人驾驶的Artemis I绕月任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [照片显示一台Surface Duo正在运行Windows 11风格的Android 12L](https://www.cnbeta.com/articles/tech/1326475.htm) | Wed Oct 12 2022 3:49 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;几天前，一份新报告披露了微软双屏智能手机即将更新的细节，公司将用Android 12L更新其Surface Duo设备，该操作系统将引入一个重新设计的UI，类似于Windows 11的设计风格。今天Windows Central已经发布了面向初代和第二代Surface Duo的即将到来的Android 12L更新的第一批真机运行图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [太空游客丹尼斯蒂托预订了SpaceX星际飞船两个月球席位](https://www.cnbeta.com/articles/tech/1326473.htm) | Wed Oct 12 2022 3:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;丹尼斯蒂托在2001年成为第一个飞往国际空间站的私人资助太空游客，他在周二（10月12日）透露，&lt;strong&gt;他和他的妻子秋子已经在SpaceX第二次环月飞行中预订了座位，乘坐仍在开发中的Starship运载火箭飞往月球。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
