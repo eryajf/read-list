@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [索尼将重拍科幻电影《太空英雌芭芭丽娜》 西德妮·斯威尼担任女主角](https://hot.cnbeta.com/articles/movie/1326425.htm) | Wed Oct 12 2022 12:42 PM 
+- 🕯 [公版归来！RTX 4090今晚开售：1.3万起步 最高16899](https://www.cnbeta.com/articles/tech/1326439.htm) | Wed Oct 12 2022 1:48 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据外媒报道，索尼决定重拍科幻片《太空英雌芭芭丽娜》，并选定《亢奋》《好莱坞往事》女星西德妮·斯威尼担任女主角。由简·方达主演的 《太空英雌芭芭丽娜》1968年上映，算是情色和科幻结合的Cult经典，芭芭丽娜是公元四万年的女詹姆斯·邦德，专门收服太空星系中的妖魔鬼怪。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月12日晚21点，NVIDIA RTX 4090非公版卡正式解禁，同步上市发售，各家AIC都第一时间上架了新品。值得一提的是，&lt;strong&gt;RTX 4090 FE公版卡这次回归国内市场，定价12999元，但数量可能不多，信仰N饭一定要赶紧下手。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《极品飞车22》新截图 详解驾驶特效“涂鸦”](https://hot.cnbeta.com/articles/game/1326423.htm) | Wed Oct 12 2022 12:41 PM 
+- 💼 [“不可能打工”当事人公司被强制执行39万：涉及借贷纠纷](https://www.cnbeta.com/articles/tech/1326437.htm) | Wed Oct 12 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Criterion Games近日发布了《极品飞车22》的新玩法，重点展示了玩家能在他们汽车上装备的各种特效。被称为Tags（涂鸦），这些突出的动作比如加速，烟雾痕迹等。在更深度的博客中美术总监Darren White详解了Tags和其他自定义效果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据天眼查信息显示，&lt;strong&gt;近日，扬言“这辈子不可能打工”的网络红人周立齐联合创始的广西飞驴电动车科技有限公司成为被执行人，执行标的39万余元。&lt;/strong&gt;案件详情显示，这起执行关联案件的起诉方为陈某某，&lt;strong&gt;案由为民间借贷纠纷。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果、Google和三星将很快在印度发布当地5G网络支持的软件更新](https://www.cnbeta.com/articles/tech/1326421.htm) | Wed Oct 12 2022 12:34 PM 
+- 💂 [国内最新高端轿车销量榜公布：宝马3系太强 蔚来要成？](https://www.cnbeta.com/articles/tech/1326435.htm) | Wed Oct 12 2022 1:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果、Google和三星周三共同表示，他们将在全球第二大无线市场印度推出软件更新，使各自的手机产品支持5G，而就在几天前，当地政府开始推动这些手机制造商加快努力。印度最大的两家运营商Reliance Jio和Airtel最近几周已经开始在选定的印度城市提供5G服务，但该国许多受欢迎的手机目前不支持当地的信号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;现如今，年轻人的消费力逐渐增强，一些主打高端市场的汽车厂商对汽车的动力表现和智能化程度也随之更加重视。如果你预算在30万以上，你会买什么车？是BBA的经典车型，还是蔚来等造车新势力的智能化车型？先撇开各位的答案，我们来看看国内高端轿车市场如今是怎样的竞争格局。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Google开始为Android和Chrome推出Passkey扫码登录支持](https://www.cnbeta.com/articles/tech/1326419.htm) | Wed Oct 12 2022 12:30 PM 
+- 🚀 [RTX 4080 16GB/12GB性能对比：能差30%](https://www.cnbeta.com/articles/tech/1326433.htm) | Wed Oct 12 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果、Google、微软和业内其他公司希望用只需要你解锁设备的&amp;quot;Passkeys&amp;quot;取代网站/应用程序的密码。从今天开始，Android和Google浏览器将支持用这种密码登录。Google将使用通行证的体验等同于现有的密码管理器，在那里你只需确认个人的设备密码/指纹，系统会向需要登录的机制自动输入保存的凭证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年NVIDIA同时首发了RTX 4080 16GB和12GB，规格上的区别较为明显，那么实际性能差异如何呢？VCZ基于三款游戏《瘟疫传说：安魂曲（A Plague Tale: Requiem）》、《F1 2022》和《微软飞行模拟》做了性能分析，其中数据均来自官方PPT，并非纸面推演或者工程卡偷跑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [蓝戟Arc A770、A750显卡首发开卖：比Intel便宜500 真碾压RTX3060](https://www.cnbeta.com/articles/tech/1326417.htm) | Wed Oct 12 2022 12:23 PM 
+- 🎊 [欲减少对中国制造依赖 苹果正向印度iPhone组装厂转移更多资源](https://www.cnbeta.com/articles/tech/1326431.htm) | Wed Oct 12 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月12日，Intel Arc A7系列显卡在国内正式上线，官方限量公版售价A750 2499元、A770 3199元。这比预期的略贵一些，尤其是对标的RTX 3060都已经来到2500元左右，A770可是号称性价比要吊打人家的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当前，iPhone主要有三大生产地，分别是中国、印度和巴西，但是后两者的份额很低，量级甚至最多只能满足本国需求。不过，&lt;strong&gt;一份新的报道指出，苹果已经开始了一项3~5年的中期计划，内容就是向印度iPhone工厂倾斜更多资源。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
