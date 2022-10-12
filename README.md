@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [科学家开发廉价的风力采集装置 从柔和的微风中产生电力](https://www.cnbeta.com/articles/science/1326283.htm) | Wed Oct 12 2022 6:28 AM 
+- 🕯 [抖音集团上线新 LOGO](https://www.cnbeta.com/articles/tech/1326309.htm) | Wed Oct 12 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然风能系统可以有一些相当大的形式，&lt;strong&gt;但新加坡南洋理工大学（NTU）的科学家们一直在研究另一端的低成本解决方案。&lt;/strong&gt;该团队已经开发出一种廉价的装置，其敏感度足以从微风中捕捉能量并将其转化为电能，产生的能量足以运行一个小型商业传感器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近日，抖音集团目前已上线新 LOGO，抖音集团在其抖音、微信公众号的账号头像均已完成更换。&lt;/strong&gt;据香港公司注册处网站显示，5月6日，字节跳动（香港）有限公司已更名为抖音集团&lpar;香港&rpar;有限公司，公司性质为私人股份有限公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [鸿海科技日预告第3弹 量产版MODEL C预告片释出](https://www.cnbeta.com/articles/tech/1326281.htm) | Wed Oct 12 2022 6:27 AM 
+- 💼 [腾讯地图PC端将于11月11日停止服务 手机App正常运营](https://www.cnbeta.com/articles/tech/1326307.htm) | Wed Oct 12 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;鸿海&lpar;2317&rpar;一年一度的“2022鸿海科技日”（HHTD22）将于下周二（18日）登场，集团近日暖身动作频频，今（11）日再度对外公布量产版的MODEL C预告片，表示外观及性能均较原型车再进化，详细规格、效能等资讯将于活动当日对外公布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;腾讯有一项业务终止了！&lt;strong&gt;腾讯地图今日在网页版弹窗公告称，PC端将于11月11日停止服务。&lt;/strong&gt;不过并不是地图服务直接被砍，手机App还在正常运营中，官方也在公告中推荐下载腾讯地图App。&lt;/strong&gt;另外，在今年5月份，被腾讯收购的搜狗旗下搜狗地图也已经正式下线，当时官网就是被腾讯地图PC端的网址取代。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [KillNet黑客组织向美国机场网站发动了DDoS攻击](https://www.cnbeta.com/articles/tech/1326279.htm) | Wed Oct 12 2022 6:26 AM 
+- 💂 [《传奇》公司胜诉 一公司承担4.8亿元债务连带责任](https://www.cnbeta.com/articles/tech/1326305.htm) | Wed Oct 12 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;由 KillNet 在官方电报频道中发布的信息可知，这一亲俄黑客组织针对一批美国大型机场的网站，发动了大规模的分布式拒绝服务（DDoS）攻击。&lt;/strong&gt;受害者包括了杰斐逊亚特兰大（ATL）、洛杉矶（LAX）、芝加哥奥黑尔（ORD）、奥兰多（MCO）、丹佛（DIA）、凤凰城天港（PHX）等国际机场，以及肯塔基州、密西西比州、夏威夷等地的高客流量航站楼。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，恺英网络公告称收到上海高院《民事判决书》，&lt;strong&gt;上海恺英网络科技有限公司对浙江欢游网络科技有限公司在（2019）京04执172号执行裁定书项下的4.8亿元债务承担连带清偿责任。&lt;/strong&gt;恺英网络表示，本次上海高院二审判决已生效，&lt;strong&gt;公司尊重上海高院就本案作出的二审判决，但并不认同本案结论。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小伙上重点大学后沉迷游戏20年没回家 劝大家适当玩游戏](https://www.cnbeta.com/articles/tech/1326277.htm) | Wed Oct 12 2022 6:20 AM 
+- 🚀 [因日本女乒输球太快致录像失败 《间谍过家家》引网友不满](https://hot.cnbeta.com/articles/comic/1326303.htm) | Wed Oct 12 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，广东东莞寮步警方巡逻时发现一男子没有“二标四实”信息，也无法提供有效的身份信息。经详细询问，得知男子叫阿龙，&lt;strong&gt;身份证早已丢失，身上没钱，也无固定的住所，平时四处流浪靠捡废品为生。阿龙表示自2002考上重点大学后，因沉迷游戏离家出走，已有二十年没回家，跟家人早已失去联系。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，TV动画《间谍过家家》第14话的开播时间更改，导致大量观众没能成功录制电视录像，引发了日本网友的不满。动画第14集原本计划日本当天23点播出，因东京电视台插播世乒赛而推迟至23点50分。不料中国女乒3：0击败日本女乒，比赛结束太快，动画又改到23点26分播放，这就导致许多日本观众设定的定时录像没有完整录下动画。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1326303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [RTX 4090性能强悍引众媒体点赞：除了贵没毛病 老黄没让人失望](https://www.cnbeta.com/articles/tech/1326275.htm) | Wed Oct 12 2022 6:18 AM 
+- 🎊 [凛冬将至，能源危机或使欧洲汽车产量损失数百万辆](https://www.cnbeta.com/articles/tech/1326297.htm) | Wed Oct 12 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着评测解禁，外界对RTX 4090的认知越来越多，不过从目前一些外媒送出的观点看，这个显卡性能非常的强大，除了贵没啥太大毛病。&lt;strong&gt;更多媒体测试的数据显示，RTX 4090性能强大毋庸置疑，其能够将4K帧率推高至100s，老黄在这块没有让人失望，不过1599美元的定价，让了最忠实的发烧友之外的其他人都难以入手。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;因欧洲地区迫在眉睫的能源危机将给供应链带来压力，从本季度开始到2023年底，欧洲汽车制造商每季度的产量可能都会下降逾100万辆。一家汽车市场预测机构表示，从今年11月到明年春天，零部件短缺和供应瓶颈可能是欧洲汽车制造商最沉重的负担，尤其是在寒冷的冬季，能源供应减少的情况下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
