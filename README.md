@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [法国零售商已接受英特尔Arc A750/A770预订 售价379.99/439.99欧元](https://www.cnbeta.com/articles/tech/1326333.htm) | Wed Oct 12 2022 8:26 AM 
+- 🕯 [SSD主控芯片巨头喊话：闪存市场触底 现在已经是亏本卖](https://www.cnbeta.com/articles/tech/1326373.htm) | Wed Oct 12 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔 Arc A7 系列独显即将在数小时后发售，不过某些欧洲零售商已经提前放出产品页面，并接受用户订单。法国运营商 Topachat 和 LDLC 已经接受 Arc A770 和 A750 两款显卡的预订，A770 的售价为 439.99 欧元，A750 的售价为 379.99 欧元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;全球存储芯片市场今年本来就是熊市，再加上下半年开始PC、手机以及数据中心市场的需求都在下滑，内存及闪存厂商日子都不好过，SSD主控芯片巨头群联则表示现在的价格已经低于成本价了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[图]Android端Vivaldi 5.5发布：优化欢迎流程 自定义标签自动关闭时间](https://www.cnbeta.com/articles/tech/1326331.htm) | Wed Oct 12 2022 8:18 AM 
+- 💼 [现代汽车宣布2025年将所有车型转换为SDV](https://www.cnbeta.com/articles/tech/1326371.htm) | Wed Oct 12 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Vivaldi 是一款知名的免费跨平台浏览器。&lt;a href=&quot;https://vivaldi.com/press/vivaldi-on-android-introduces-new-welcome-flow-and-auto-closing-of-inactive-tabs/&quot; target=&quot;_blank&quot;&gt;该团队今天宣布了适用于 Android 平台的 Vivaldi 5.5 版本更新&lt;/a&gt;，在优化性能之外带来了全新的启动体验，让新用户更容易了解该浏览器的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月12日消息，现代汽车集团日前宣布了一项新的全球战略，即到2025年将所有车辆转变为软件定义型车辆 &lpar;SDV&rpar;。对此，该集团称此举将带来前所未有的移动时代，让客户可以随时随地自由地远程升级其车辆的性能和功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [飞船方向盘版特斯拉中国交付在即：百万起步，免购置税，不装任何雷达](https://www.cnbeta.com/articles/tech/1326329.htm) | Wed Oct 12 2022 8:12 AM 
+- 💂 [科学家在太空中探测到一次规模“前所未有的”伽玛射线暴](https://www.cnbeta.com/articles/science/1326369.htm) | Wed Oct 12 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;终于，等了一年多时间，特斯拉Model S/X即将在中国开启交付。极具科幻感的太空飞船式——方形方向盘、更加直观方便的液晶仪表、为游戏娱乐而进一步优化的横向中控大屏，统统成为了现实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;科学家们在太空中发现了一种“前所未有的”能量爆发&lt;/strong&gt;，其被称为伽玛射线暴（GRB），它在某些波长上看起来比迄今为止观察到的任何此类事件都要明亮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [PS5缺货还涨价 大量日本玩家购买游戏PC转投Steam](https://hot.cnbeta.com/articles/game/1326327.htm) | Wed Oct 12 2022 8:06 AM 
+- 🚀 [魅族手机新专利：一底三镜头 可旋转切换](https://www.cnbeta.com/articles/tech/1326367.htm) | Wed Oct 12 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于疫情等各种原因，索尼的PS5主机自发售至今始终处于供货不足的状态，今年9月时官方还涨价，近日有日本分析师表示，不少实际调查数据都显示正在有大量的日本玩家购买高性能游戏PC转投Steam阵营。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月12日消息，魅族的一项手机摄像装置新专利近日获得授权。专利摘要显示，该魅族手机将会配备一颗感光原件，三个镜头，以及可以旋转的感光架。&lt;strong&gt;用户可以通过移动任意一个镜头模组与感光模组相对应，以实现不同的摄像功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Wear OS会像Android一样每年发布一次重大更新](https://www.cnbeta.com/articles/tech/1326325.htm) | Wed Oct 12 2022 8:05 AM 
+- 🎊 [外媒：亚马逊将关闭仓库机器人初创公司Canvas](https://www.cnbeta.com/articles/tech/1326365.htm) | Wed Oct 12 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;数日前，Google 发布了 Pixel Watch，官方承诺这款手表将获得至少 3 年的 Wear OS 系统更新。那么对于像三星这样非官方的 Wear OS 手表又会如何呢？&lt;strong&gt;Wear OS 产品经理比约恩·基尔本（Björn Kilburn）在接受《&lt;a href=&quot;https://www.wired.com/story/google-wear-os-3-pixel-watch-software/&quot; target=&quot;_blank&quot;&gt;Wired&lt;/a&gt;》采访时透露 Google 计划像手机端一样每年发布 Wear OS 更新。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月12日消息，据外媒报道，&lt;strong&gt;亚马逊正在缩减一些机器人项目以降低成本，其2019年以超过1亿美元收购的仓库机器人初创公司Canvas也正在被关闭。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
