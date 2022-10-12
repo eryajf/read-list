@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [天文学家无法解释黑洞吞噬恒星多年后的“打嗝”现象](https://www.cnbeta.com/articles/science/1326253.htm) | Wed Oct 12 2022 5:45 AM 
+- 🕯 [科学家开发廉价的风力采集装置 从柔和的微风中产生电力](https://www.cnbeta.com/articles/science/1326283.htm) | Wed Oct 12 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，人们已经看到黑洞会吞噬过于靠近的恒星，从而产生了明亮的恒星“表演”。但是现在，人们看到一个黑洞做了一件从未见过的事情：&lt;strong&gt;它在吞噬一颗恒星数年后仍会“打嗝”，让天文学家感到困惑不已。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326253.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然风能系统可以有一些相当大的形式，&lt;strong&gt;但新加坡南洋理工大学（NTU）的科学家们一直在研究另一端的低成本解决方案。&lt;/strong&gt;该团队已经开发出一种廉价的装置，其敏感度足以从微风中捕捉能量并将其转化为电能，产生的能量足以运行一个小型商业传感器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [李国庆一句话引热议：建议大学生毕业后歇一年 去旅游](https://www.cnbeta.com/articles/tech/1326251.htm) | Wed Oct 12 2022 5:41 AM 
+- 💼 [鸿海科技日预告第3弹 量产版MODEL C预告片释出](https://www.cnbeta.com/articles/tech/1326281.htm) | Wed Oct 12 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月12日消息，李国庆近期发视频表示，&lt;strong&gt;1000万毕业生中可以有400万人“歇一年”，去“行万里路”，&lt;/strong&gt;每三个月换一个城市，找到可以免费住宿的家庭，并且每天花1-2个小时陪陪这个家庭的孩子，也就是效仿国外的“玩伴”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;鸿海&lpar;2317&rpar;一年一度的“2022鸿海科技日”（HHTD22）将于下周二（18日）登场，集团近日暖身动作频频，今（11）日再度对外公布量产版的MODEL C预告片，表示外观及性能均较原型车再进化，详细规格、效能等资讯将于活动当日对外公布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [NamX HUV氢气车开订 气罐可单手提走换气](https://www.cnbeta.com/articles/tech/1326249.htm) | Wed Oct 12 2022 5:41 AM 
+- 💂 [KillNet黑客组织向美国机场网站发动了DDoS攻击](https://www.cnbeta.com/articles/tech/1326279.htm) | Wed Oct 12 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;法国造车新势力也玩起了氢燃料汽车，日前，由宾尼法利纳设计，法国造车新势力NamX推出的氢燃料电池SUV公布了相关预定信息。消费者只需在10月17日支付1000欧元（约合人民币6955元）即可预定，NamX HUV将会亮相巴黎车展，预计2025年第四季度交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;由 KillNet 在官方电报频道中发布的信息可知，这一亲俄黑客组织针对一批美国大型机场的网站，发动了大规模的分布式拒绝服务（DDoS）攻击。&lt;/strong&gt;受害者包括了杰斐逊亚特兰大（ATL）、洛杉矶（LAX）、芝加哥奥黑尔（ORD）、奥兰多（MCO）、丹佛（DIA）、凤凰城天港（PHX）等国际机场，以及肯塔基州、密西西比州、夏威夷等地的高客流量航站楼。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [董明珠称32年没休过假 68岁仍坚守岗位：直言是实干家](https://www.cnbeta.com/articles/tech/1326247.htm) | Wed Oct 12 2022 5:39 AM 
+- 🚀 [小伙上重点大学后沉迷游戏20年没回家 劝大家适当玩游戏](https://www.cnbeta.com/articles/tech/1326277.htm) | Wed Oct 12 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;董明珠又上热搜了，这位女强人用自己的行动诠释着什么是真的实干家。近日，&lt;strong&gt;董明珠在南风窗 《致敬实干家》节目中表示，我的个人生活离开格力我就没的说了，一天三餐饭，很简单。我的乐趣是每天要看我的报表。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，广东东莞寮步警方巡逻时发现一男子没有“二标四实”信息，也无法提供有效的身份信息。经详细询问，得知男子叫阿龙，&lt;strong&gt;身份证早已丢失，身上没钱，也无固定的住所，平时四处流浪靠捡废品为生。阿龙表示自2002考上重点大学后，因沉迷游戏离家出走，已有二十年没回家，跟家人早已失去联系。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [AI绘制版《漠河舞厅》MV火了 网友：感觉AI读懂了歌词](https://hot.cnbeta.com/articles/movie/1326245.htm) | Wed Oct 12 2022 5:37 AM 
+- 🎊 [RTX 4090性能强悍引众媒体点赞：除了贵没毛病 老黄没让人失望](https://www.cnbeta.com/articles/tech/1326275.htm) | Wed Oct 12 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;是“新海诚吗？”不，是AI。AI作画真的太强悍了！简直让不会画画的手残党平地起飞，变身“新海诚”！就在国庆假期，B站上有名叫“拯救世界的狗子”的Up主，使用AI生成图画工具Midjourney给《漠河舞厅》整首歌配了一条MV。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着评测解禁，外界对RTX 4090的认知越来越多，不过从目前一些外媒送出的观点看，这个显卡性能非常的强大，除了贵没啥太大毛病。&lt;strong&gt;更多媒体测试的数据显示，RTX 4090性能强大毋庸置疑，其能够将4K帧率推高至100s，老黄在这块没有让人失望，不过1599美元的定价，让了最忠实的发烧友之外的其他人都难以入手。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
