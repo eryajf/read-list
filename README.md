@@ -378,24 +378,24 @@
     本文主要针对往期收录的面试题进行一个分类归纳整理，方便统一回顾和参考。本篇是面试题的第九集【完结篇】~ 
     </details> 
 
-- 🎡 [用脚教你使用Appium自动测试你的React Native](https://juejin.cn/post/7153571132891725854) | Wed Oct 12 2022 10:30 AM 
+- 🎡 [【第20题】npm run xxx 的执行过程](https://juejin.cn/post/7153601063542521886) | Wed Oct 12 2022 12:25 PM 
     <details><summary>展开描述 ...</summary> 
-    Appium[ æpi&#39;ʌm ] Appium是一款开源测试工具，可以用来测试安卓/iOS/Windows端的原生应用和Web混合应用。 工作原理 Appium有一个客户端-服务器架构。Appium客 
+    面试题目&lpar;字节&rpar;： 答案解析： 以npm run start为例 最常见的就是&quot;start&quot;: &quot;vue-cli-service serve&quot;， 执行过程： npm会创建一个shell脚本; 在she 
     </details> 
 
-- 🕯 [Android 音视频开发之交叉编译](https://juejin.cn/post/7153565687498637343) | Wed Oct 12 2022 10:08 AM 
+- 🕯 [【第19题】vue for循环中key有什么作用](https://juejin.cn/post/7153599908484743176) | Wed Oct 12 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 本文分别为： 交叉编译 Clang交叉编译 X264 FAAC CameraX 今天来说一下关于今天先说一下音视频交叉编译一些内容🤨 解锁 《Android十大板块文档》 音视频大合集，从初中高 
+    题目描述： 答案解析： 这道题目实际考察的是对虚拟dom对象中diff算法的理解。 diff算法的本质是：找出新旧两个虚拟dom对象之间的差异，目的是尽可能复用节点，提高性能。 key的主要作用就是在 
     </details> 
 
-- 🚀 [OC项目用Swift开发方便吗？](https://juejin.cn/post/7153564241659297806) | Wed Oct 12 2022 10:03 AM 
+- 🚀 [Eureka源码2-Eureka预备知识和核心类](https://juejin.cn/post/7153596448586596359) | Wed Oct 12 2022 12:10 PM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言 公司有个项目一直是用 OC 进行开发，现在想改成 Swift 来开发。那先说一下为什么有这样的想法，我们都知道 Swift 代码更简单，易维护，安全而且快，网络上也 
+    Eureka的Region和AZ概念，客户端核心类，服务端核心类功能和属性说明，Jersey通信矿建 
     </details> 
 
-- 💪 [什么是浏览器层爆炸？聊一聊安全且正确使用缓存的那些事、2022年编译加速的8个实用技巧 | 酱酱的下午茶第86期](https://juejin.cn/post/7153559121311039518) | Wed Oct 12 2022 9:43 AM 
+- 💪 [比监督学习做的更好：半监督学习](https://juejin.cn/post/7153593591363797023) | Wed Oct 12 2022 11:57 AM 
     <details><summary>展开描述 ...</summary> 
-    【掘金酱的下午茶】亮点： 什么是浏览器层爆炸？ 包教包会 - 手把手为组件库支持volar React 核心技术分析—让跨端动态化成为可能 聊一聊安全且正确使用缓存的那些事 —— 关于缓存可靠性、关乎 
+    为什么半监督学习是机器学习的未来。 监督学习是人工智能领域的第一种学习类型。从它的概念开始，无数的算法，从简单的逻辑回归到大规模的神经网络，都已经被研究用来提高精确度和预测能力。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
