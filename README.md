@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [近一年时间过去了，VMware的这一漏洞仍悬而未决](https://www.freebuf.com/news/346632.html) | Wed Oct 12 2022 5:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    VMware于10月11日通知客户，vCenter Server 8.0仍在等待补丁来解决 2021 年 11 月披露的高严重性特权提升漏洞。 
+    </details> 
+
 - 🦄 [键盘残余热量可能泄露密码，20秒内拍下键盘热像图，密码泄露86%](https://www.freebuf.com/articles/database/346627.html) | Wed Oct 12 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
     在20秒内拍摄热像图时，密码的还原率为86%；30秒内拍摄，密码的还原率为76%；60秒内拍摄，密码还原率为62%。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 奇虎和大疆被美方列入黑名单；英国建立“国防网络学院”](https://www.freebuf.com/news/346601.html) | Tue Oct 11 2022 11:11 AM 
+- 🦅 [Canary保护机制及绕过](https://www.freebuf.com/articles/system/346608.html) | Tue Oct 11 2022 1:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文是Canary保护机制及绕过一些学习心得，分享一下，以便大家学习。 
+    </details> 
+
+- 🪄 [FreeBuf早报 | 奇虎和大疆被美方列入黑名单；英国建立“国防网络学院”](https://www.freebuf.com/news/346601.html) | Tue Oct 11 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
     五角大楼将奇虎 360、深圳大疆、北京知道创宇和中科曙光等 13 家中国公司列入黑名单。 
     </details> 
 
-- 🦅 [《信息安全技术 智能手机预装应用程序基本安全要求（征求意见稿）》发布](https://www.freebuf.com/news/346595.html) | Tue Oct 11 2022 9:59 AM 
+- 💻 [《信息安全技术 智能手机预装应用程序基本安全要求（征求意见稿）》发布](https://www.freebuf.com/news/346595.html) | Tue Oct 11 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
     《安全要求》给出了智能手机预装应用程序的基本安全要求，适用于智能手机生产企业的生产活动，也可为相关监管、第三方评估工作提供参考。 
-    </details> 
-
-- 🪄 [定制CIS 2022冰阔落，就送周边大礼包](https://www.freebuf.com/fevents/346555.html) | Tue Oct 11 2022 6:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    快来写上你的定制化标语，更有FreeBuf周边好礼相送~ 
-    </details> 
-
-- 💻 [美国多个机场因网络攻击发生故障，和俄罗斯有关？](https://www.freebuf.com/news/346538.html) | Tue Oct 11 2022 5:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    亲俄黑客组织 “KillNet ”声称对美国几个主要机场的网站进行了分布式拒绝服务（DDoS）攻击。 
     </details> 
 <!-- freebuf:END -->
 
