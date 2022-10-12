@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [公版归来！RTX 4090今晚开售：1.3万起步 最高16899](https://www.cnbeta.com/articles/tech/1326439.htm) | Wed Oct 12 2022 1:48 PM 
+- 🕯 [微软Presenter+和音频底座在Surface发布会上曝光](https://www.cnbeta.com/articles/tech/1326451.htm) | Wed Oct 12 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月12日晚21点，NVIDIA RTX 4090非公版卡正式解禁，同步上市发售，各家AIC都第一时间上架了新品。值得一提的是，&lt;strong&gt;RTX 4090 FE公版卡这次回归国内市场，定价12999元，但数量可能不多，信仰N饭一定要赶紧下手。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软披露了两款旨在改善混合会议体验的新产品。Microsoft Presenter+和Microsoft Audio Dock。这两款设备旨在改善Teams会议；Presenter+是第一个经Teams认证的演示控制器，而Audio Dock则提供出色的音频和降噪麦克风，以提升会议体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“不可能打工”当事人公司被强制执行39万：涉及借贷纠纷](https://www.cnbeta.com/articles/tech/1326437.htm) | Wed Oct 12 2022 1:18 PM 
+- 💼 [微软Adaptive Accessories配件将于10月25日起在部分市场上市](https://www.cnbeta.com/articles/tech/1326449.htm) | Wed Oct 12 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据天眼查信息显示，&lt;strong&gt;近日，扬言“这辈子不可能打工”的网络红人周立齐联合创始的广西飞驴电动车科技有限公司成为被执行人，执行标的39万余元。&lt;/strong&gt;案件详情显示，这起执行关联案件的起诉方为陈某某，&lt;strong&gt;案由为民间借贷纠纷。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软宣布，其新一代自适应配件（Adaptive Accessories）系列将从10月25日开始发售。该公司表示，主要为残疾用户设计的这一特定阵容将在选定的市场上出售，但没有说具体是哪些市场。自适应配件系列包括微软自适应鼠标，它可以根据用户需要进行定制，还有微软自适应集线器，它可以协助轻松链接D-pad、操纵杆或双按钮等辅助用设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国内最新高端轿车销量榜公布：宝马3系太强 蔚来要成？](https://www.cnbeta.com/articles/tech/1326435.htm) | Wed Oct 12 2022 1:17 PM 
+- 💂 [微软Surface Laptop 5发布：配备Thunderbolt 4 没有提供AMD型号](https://www.cnbeta.com/articles/tech/1326447.htm) | Wed Oct 12 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;现如今，年轻人的消费力逐渐增强，一些主打高端市场的汽车厂商对汽车的动力表现和智能化程度也随之更加重视。如果你预算在30万以上，你会买什么车？是BBA的经典车型，还是蔚来等造车新势力的智能化车型？先撇开各位的答案，我们来看看国内高端轿车市场如今是怎样的竞争格局。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326435.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软今天以新的Surface Laptop 5型号刷新了其Surface Laptop笔记本电脑阵容。虽然该公司过去为Surface提供了AMD和英特尔芯片选项，但今年的型号是纯英特尔架构的，作为基本元素之一，新一代机型增加了Thunderbolt 4支持。这一新增功能对创作者来说非常重要，因为它是高速数据传输和支持多个4K显示器的理想选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [RTX 4080 16GB/12GB性能对比：能差30%](https://www.cnbeta.com/articles/tech/1326433.htm) | Wed Oct 12 2022 1:16 PM 
+- 🚀 [微软发布Surface Studio 2 Plus 配备11代英特尔CPU和RTX 3060](https://www.cnbeta.com/articles/tech/1326445.htm) | Wed Oct 12 2022 2:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年NVIDIA同时首发了RTX 4080 16GB和12GB，规格上的区别较为明显，那么实际性能差异如何呢？VCZ基于三款游戏《瘟疫传说：安魂曲（A Plague Tale: Requiem）》、《F1 2022》和《微软飞行模拟》做了性能分析，其中数据均来自官方PPT，并非纸面推演或者工程卡偷跑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326433.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;等待Surface Studio一体机更新的Surface粉丝终于可以欢呼了。微软已经宣布了Surface Studio 2+， 名字里多了个加号的Surface Studio 2的更新版本，拥有更强大的硬件和各种小变化。&lt;/strong&gt;Surface Studio 2+延续了微软在2016年底推出的设计风格。它是一款28英寸的一体机，带有&amp;quot;零重力&amp;quot;铰链，可以毫不费力地将电脑变成一个巨大的绘图板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [欲减少对中国制造依赖 苹果正向印度iPhone组装厂转移更多资源](https://www.cnbeta.com/articles/tech/1326431.htm) | Wed Oct 12 2022 1:16 PM 
+- 🎊 [Intel第三家盟友 PC巨头宏碁杀入显卡市场](https://www.cnbeta.com/articles/tech/1326443.htm) | Wed Oct 12 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当前，iPhone主要有三大生产地，分别是中国、印度和巴西，但是后两者的份额很低，量级甚至最多只能满足本国需求。不过，&lt;strong&gt;一份新的报道指出，苹果已经开始了一项3~5年的中期计划，内容就是向印度iPhone工厂倾斜更多资源。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326431.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;时隔24年之后，Intel在今年又杀回了高性能游戏卡市场，旗下的Arc品牌显卡已经陆续上市，今晚高端的Arc A770显卡也开卖了，Intel官方售价3199元起。要想混好显卡市场，合作伙伴是不能少的，现在除了Intel自己品牌的Arc显卡之外，第三方的盟友主要是华擎及蓝戟，Intel显然也在说服更多厂商加入，&lt;strong&gt;10月初Acer宏碁成为了第三家主要盟友，也从PC整机市场杀入了显卡领域。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
