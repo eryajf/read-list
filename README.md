@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [定制CIS 2022冰阔落，就送周边大礼包](https://www.freebuf.com/fevents/346555.html) | Tue Oct 11 2022 6:46 AM 
+- 🦄 [FreeBuf早报 | 奇虎和大疆被美方列入黑名单；英国建立“国防网络学院”](https://www.freebuf.com/news/346601.html) | Tue Oct 11 2022 11:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    五角大楼将奇虎 360、深圳大疆、北京知道创宇和中科曙光等 13 家中国公司列入黑名单。 
+    </details> 
+
+- 🦄 [《信息安全技术 智能手机预装应用程序基本安全要求（征求意见稿）》发布](https://www.freebuf.com/news/346595.html) | Tue Oct 11 2022 9:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    《安全要求》给出了智能手机预装应用程序的基本安全要求，适用于智能手机生产企业的生产活动，也可为相关监管、第三方评估工作提供参考。 
+    </details> 
+
+- 🦅 [定制CIS 2022冰阔落，就送周边大礼包](https://www.freebuf.com/fevents/346555.html) | Tue Oct 11 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
     快来写上你的定制化标语，更有FreeBuf周边好礼相送~ 
     </details> 
 
-- 🦄 [美国多个机场因网络攻击发生故障，和俄罗斯有关？](https://www.freebuf.com/news/346538.html) | Tue Oct 11 2022 5:48 AM 
+- 🪄 [美国多个机场因网络攻击发生故障，和俄罗斯有关？](https://www.freebuf.com/news/346538.html) | Tue Oct 11 2022 5:48 AM 
     <details><summary>展开描述 ...</summary> 
     亲俄黑客组织 “KillNet ”声称对美国几个主要机场的网站进行了分布式拒绝服务（DDoS）攻击。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 伊朗抗议者劫持国有电视台直播；日本IPA发布2022《信息安全白皮书》](https://www.freebuf.com/news/346484.html) | Mon Oct 10 2022 9:59 AM 
+- 💻 [FreeBuf早报 | 伊朗抗议者劫持国有电视台直播；日本IPA发布2022《信息安全白皮书》](https://www.freebuf.com/news/346484.html) | Mon Oct 10 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
     在过去两年中，超过九成（91%）的网络安全专家在工作中遇到过心理健康挑战。 
-    </details> 
-
-- 🪄 [宜家智能照明系统发现漏洞，可能导致灯泡闪烁恢复出厂设置](https://www.freebuf.com/articles/network/346423.html) | Mon Oct 10 2022 4:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    研究人员在宜家的智能照明系统中发现了两个漏洞，允许攻击者控制该系统并使灯泡快速闪烁，还可能导致恢复出厂设置。 
-    </details> 
-
-- 💻 [英特尔确认Alder Lake BIOS源代码已泄露](https://www.freebuf.com/news/346409.html) | Mon Oct 10 2022 3:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    英特尔已向知名硬件网站Tom&#39;s Hardware确认其第十二代酷睿处理器Alder Lake 的UEFI BIOS 源代码已泄露。 
     </details> 
 <!-- freebuf:END -->
 
