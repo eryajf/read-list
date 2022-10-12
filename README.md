@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软Presenter+和音频底座在Surface发布会上曝光](https://www.cnbeta.com/articles/tech/1326451.htm) | Wed Oct 12 2022 2:38 PM 
+- 🕯 [比特币开采软件正在进行十多年来第一次大改造](https://www.cnbeta.com/articles/tech/1326471.htm) | Wed Oct 12 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软披露了两款旨在改善混合会议体验的新产品。Microsoft Presenter+和Microsoft Audio Dock。这两款设备旨在改善Teams会议；Presenter+是第一个经Teams认证的演示控制器，而Audio Dock则提供出色的音频和降噪麦克风，以提升会议体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本周二，一个开发者联盟在一个开源许可下发布了Stratum V2，供业界测试。&lt;/strong&gt;挖矿所用的软件刚刚得到了自2012年底以来的第一次升级，包括支付巨头Block在内的公司联盟正试图帮助推动这个开源协议成为行业标准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软Adaptive Accessories配件将于10月25日起在部分市场上市](https://www.cnbeta.com/articles/tech/1326449.htm) | Wed Oct 12 2022 2:33 PM 
+- 💼 [微软：即使每个COD玩家放弃索尼 PS用户基数还是比Xbox多很多](https://hot.cnbeta.com/articles/game/1326469.htm) | Wed Oct 12 2022 3:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软宣布，其新一代自适应配件（Adaptive Accessories）系列将从10月25日开始发售。该公司表示，主要为残疾用户设计的这一特定阵容将在选定的市场上出售，但没有说具体是哪些市场。自适应配件系列包括微软自适应鼠标，它可以根据用户需要进行定制，还有微软自适应集线器，它可以协助轻松链接D-pad、操纵杆或双按钮等辅助用设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;微软方面回应了英国竞争和市场局（CMA）对收购680亿美元收购动视暴雪案的一系列担忧，并提出了一个有趣的统计数字。&lt;/strong&gt;面对不断“微软拥有《使命召唤》是否会对PlayStation造成不公地阻碍”盘问，微软回应说即使PlayStation上的每个COD玩家都投奔Xbox，索尼的用户基数还是比Xbox“多很多”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软Surface Laptop 5发布：配备Thunderbolt 4 没有提供AMD型号](https://www.cnbeta.com/articles/tech/1326447.htm) | Wed Oct 12 2022 2:28 PM 
+- 💂 [抖音集团焕新 “字节跳动”成为历史？](https://www.cnbeta.com/articles/tech/1326467.htm) | Wed Oct 12 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软今天以新的Surface Laptop 5型号刷新了其Surface Laptop笔记本电脑阵容。虽然该公司过去为Surface提供了AMD和英特尔芯片选项，但今年的型号是纯英特尔架构的，作为基本元素之一，新一代机型增加了Thunderbolt 4支持。这一新增功能对创作者来说非常重要，因为它是高速数据传输和支持多个4K显示器的理想选择。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这也是自今年5月字节跳动（香港）有限公司更名抖音集团（香港）有限公司后，公司进一步“去字节跳动”的重要信号。抖音集团已换新装！10月12日，字节跳动被曝出旗下数个公司陆续更名，由“抖音”替代“字节跳动”成为公司名称核心组成部分，如将“字节跳动有限公司”改为“抖音有限公司”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软发布Surface Studio 2 Plus 配备11代英特尔CPU和RTX 3060](https://www.cnbeta.com/articles/tech/1326445.htm) | Wed Oct 12 2022 2:21 PM 
+- 🚀 [首届电动垂直起降飞机比赛在南澳大利亚启动](https://www.cnbeta.com/articles/tech/1326465.htm) | Wed Oct 12 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;等待Surface Studio一体机更新的Surface粉丝终于可以欢呼了。微软已经宣布了Surface Studio 2+， 名字里多了个加号的Surface Studio 2的更新版本，拥有更强大的硬件和各种小变化。&lt;/strong&gt;Surface Studio 2+延续了微软在2016年底推出的设计风格。它是一款28英寸的一体机，带有&amp;quot;零重力&amp;quot;铰链，可以毫不费力地将电脑变成一个巨大的绘图板。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Alauda Aeronautics公司在去年的远程驾驶eVTOL飞行比赛中获胜，最近又成功完成了第250次试飞，&lt;strong&gt;现在又宣布在南澳大利亚盐碱地上进行的首次无人驾驶EXA比赛当中获得冠军。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Intel第三家盟友 PC巨头宏碁杀入显卡市场](https://www.cnbeta.com/articles/tech/1326443.htm) | Wed Oct 12 2022 2:16 PM 
+- 🎊 [索尼SIE继续向CMA陈情：CoD还是交给我独占最放心](https://hot.cnbeta.com/articles/game/1326463.htm) | Wed Oct 12 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;时隔24年之后，Intel在今年又杀回了高性能游戏卡市场，旗下的Arc品牌显卡已经陆续上市，今晚高端的Arc A770显卡也开卖了，Intel官方售价3199元起。要想混好显卡市场，合作伙伴是不能少的，现在除了Intel自己品牌的Arc显卡之外，第三方的盟友主要是华擎及蓝戟，Intel显然也在说服更多厂商加入，&lt;strong&gt;10月初Acer宏碁成为了第三家主要盟友，也从PC整机市场杀入了显卡领域。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼担心微软收购动视-暴雪之后会利用CoD搞差异化竞争，比如为Xbox版本增加某些特色或独家内容，以吸引玩家放弃PlayStation平台转投Xbox。当然还有XGP订阅制带来的影响。SIE向英国监管机构CMA痛陈其利害，表示即便PlayStation今后仍可获得CoD作品，保不齐微软会耍一些小伎俩，导致PlayStation玩家叛逃。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
