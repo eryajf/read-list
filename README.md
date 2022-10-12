@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [KUN 应用开发流程【实用教程】](https://juejin.cn/post/7153499658189275166) | Wed Oct 12 2022 5:53 AM 
+- 🤗 [大厂都在用的代码规范与代码检测工作流](https://juejin.cn/post/7153511642687340558) | Wed Oct 12 2022 6:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    一般来说，团队协作中最让人抓狂的就是代码规范，同时这也是最容易妥协的地方。所以好的代码规范能让团队减少很多无谓的“争吵”和时间的浪费。 下面介绍一下，大厂都在用的代码规范与代码检测工作流。 
+    </details> 
+
+- 🎡 [flutter:一篇文章入门go_router](https://juejin.cn/post/7153503260614393886) | Wed Oct 12 2022 6:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    flutter go_router go_router是Flutter官方开发的一个Flutter的声明式路由包。 go_router 包的目的是使用声明式路由来降低复杂性，无论您的目标平台是什么（移 
+    </details> 
+
+- 🕯 [OpenKruise v1.3：新增自定义 Pod Probe 探针能力与大规模集群性能显著提升](https://juejin.cn/post/7153502826570727438) | Wed Oct 12 2022 6:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    在版本 v1.3 中，OpenKruise 提供了新的 CRD 资源 PodProbeMarker，改善了大规模集群的一些性能问题，Advanced DaemonSet 支持镜像预热，以及 Clone 
+    </details> 
+
+- 🚀 [精一技or擅百技？——协同时代下的原型工具应该怎么做](https://juejin.cn/post/7153500787904086023) | Wed Oct 12 2022 5:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    写在前面 大家对原型工具应该不陌生，无论是设计师还是产品经理，或多或少都接触过原型图的工具，比如较为大众熟知的Axure，国内运用较为广泛的墨刀和摹客，以及一些较为小众的产品。不难发现，大多数工具类产 
+    </details> 
+
+- 💪 [KUN 应用开发流程【实用教程】](https://juejin.cn/post/7153499658189275166) | Wed Oct 12 2022 5:53 AM 
     <details><summary>展开描述 ...</summary> 
     作者：闲鱼技术——古尘 前言 本文从KUN在闲鱼落地为出发点，介绍如何通过KUN实现Web和Flutter技术增强你的移动应用程序。 在结合了Web和Flutter的各自优势，以及它们背后良好的生态和 
-    </details> 
-
-- 🎡 [4 种 Kafka 网络中断和网络分区场景分析](https://juejin.cn/post/7153493571927179295) | Wed Oct 12 2022 5:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    1. 单个 broker 节点和 leader 节点网络中断 网络中断前： broker-1 和 broker-0（leader）间的网络中断后，单边中断，zk 可用（zk-1 为 leader，zk 
-    </details> 
-
-- 🕯 [前端脚手架搭建](https://juejin.cn/post/7153485337174474759) | Wed Oct 12 2022 4:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第12天，点击查看活动详情 commander options基础特性解析 
-    </details> 
-
-- 🚀 [Java&amp;C++题解与拓展——leetcode817.链表组件【么的新知识】](https://juejin.cn/post/7153483155964428301) | Wed Oct 12 2022 4:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    leetcode817.链表组件解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
-    </details> 
-
-- 💪 [低代码海报平台的编辑器难点剖析](https://juejin.cn/post/7153474886822952991) | Wed Oct 12 2022 4:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    通过上一篇文章，我们对乔巴乐高海报平台的整体架构有了初步的了解。今天我们深入到编辑器部分，对其中的难点和实现细节进行分析。 这是目前生产的编辑器页面： 对应的原型图： 不难看出和市面上大部分低代码平台 
     </details> 
 <!-- juejin:END -->
 ### 少数派
