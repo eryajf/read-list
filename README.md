@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [JetBrains Fleet 开始进行公开测试了](https://www.v2ex.com/t/886469#reply0) | Wed Oct 12 2022 1:20 PM
-- 🤗 [mac 如何找到代理的 PAC 文件？](https://www.v2ex.com/t/886464#reply0) | Wed Oct 12 2022 1:04 PM
-- 🎭 [求推荐 Windows 笔记本 TypeC 拓展坞](https://www.v2ex.com/t/886456#reply4) | Wed Oct 12 2022 12:39 PM
-- 🥷 [Jetbrains fleet pubilc preview 了，可立刻下载体验！](https://www.v2ex.com/t/886447#reply21) | Wed Oct 12 2022 11:46 AM
-- 🐵 [可以通过关闭 Gmail 功能再重新启用的方式来更改 Google 账号名吗？](https://www.v2ex.com/t/886445#reply1) | Wed Oct 12 2022 11:35 AM<!-- v2ex:END -->
+- 🥸 [30G 的数据库如何高效搬运到服务器？](https://www.v2ex.com/t/886484#reply0) | Wed Oct 12 2022 2:32 PM
+- 🤗 [一直显示“谷歌 play 正在更新”怎么办？](https://www.v2ex.com/t/886483#reply3) | Wed Oct 12 2022 2:25 PM
+- 🎭 [JetBrains Fleet 开始进行公开测试了](https://www.v2ex.com/t/886469#reply3) | Wed Oct 12 2022 1:20 PM
+- 🥷 [mac 如何找到代理的 PAC 文件？](https://www.v2ex.com/t/886464#reply2) | Wed Oct 12 2022 1:04 PM
+- 🐵 [求推荐 Windows 笔记本 TypeC 拓展坞](https://www.v2ex.com/t/886456#reply5) | Wed Oct 12 2022 12:39 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
