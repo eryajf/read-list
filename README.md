@@ -335,7 +335,7 @@
 <!-- freebuf:START -->
 - 🦄 [近一年时间过去了，VMware的这一漏洞仍悬而未决](https://www.freebuf.com/news/346632.html) | Wed Oct 12 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
-    VMware于10月11日通知客户，vCenter Server 8.0仍在等待补丁来解决 2021 年 11 月披露的高严重性特权提升漏洞。 
+    VMware于10月11日通知客户，vCenter Server 8.0仍在等待补丁来解决去年 11 月披露的高严重性特权提升漏洞。 
     </details> 
 
 - 🦄 [键盘残余热量可能泄露密码，20秒内拍下键盘热像图，密码泄露86%](https://www.freebuf.com/articles/database/346627.html) | Wed Oct 12 2022 3:55 AM 
