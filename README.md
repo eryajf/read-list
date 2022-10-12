@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Intel发布31.0.101.3490显卡驱动 新增A770/A750显卡支持](https://www.cnbeta.com/articles/soft/1326387.htm) | Wed Oct 12 2022 10:33 AM 
+- 🕯 [索尼将重拍科幻电影《太空英雌芭芭丽娜》 西德妮·斯威尼担任女主角](https://hot.cnbeta.com/articles/movie/1326425.htm) | Wed Oct 12 2022 12:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，Intel的Arc A770和A750两款显卡正式在国内发售，而显卡驱动也同步带来了31.0.101.3490&lt;strong&gt;版本&lt;/strong&gt;&lt;a class=&quot;f14_link&quot; href=&quot;https://www.intel.com/content/www/us/en/download/726609/intel-arc-graphics-windows-dch-driver.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;更新&lt;/strong&gt;&lt;/a&gt;。作为新显卡发售后的首次驱动更新，&lt;strong&gt;31.0.101.3490版本理所应当的加入了对A770以及A750两款显卡的驱动支持，这或许能够在一定程度上提升显卡的实际性能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1326387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据外媒报道，索尼决定重拍科幻片《太空英雌芭芭丽娜》，并选定《亢奋》《好莱坞往事》女星西德妮·斯威尼担任女主角。由简·方达主演的 《太空英雌芭芭丽娜》1968年上映，算是情色和科幻结合的Cult经典，芭芭丽娜是公元四万年的女詹姆斯·邦德，专门收服太空星系中的妖魔鬼怪。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [保时捷上架1700的中国菜刀：能拍蒜但国内不卖](https://hot.cnbeta.com/articles/funny/1326385.htm) | Wed Oct 12 2022 10:33 AM 
+- 💼 [《极品飞车22》新截图 详解驾驶特效“涂鸦”](https://hot.cnbeta.com/articles/game/1326423.htm) | Wed Oct 12 2022 12:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，保时捷设计在官网上架一款连刀柄部分都是不锈钢的一体式中国菜刀，售价240美元（约1700元人民币）。虽然价格不菲，但是有保时捷背书，这款菜刀在多国已经售罄。美、英等国官网已经销售一空。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1326385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Criterion Games近日发布了《极品飞车22》的新玩法，重点展示了玩家能在他们汽车上装备的各种特效。被称为Tags（涂鸦），这些突出的动作比如加速，烟雾痕迹等。在更深度的博客中美术总监Darren White详解了Tags和其他自定义效果。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国空间站第三次太空授课活动取得圆满成功](https://www.cnbeta.com/articles/science/1326383.htm) | Wed Oct 12 2022 9:48 AM 
+- 💂 [苹果、Google和三星将很快在印度发布当地5G网络支持的软件更新](https://www.cnbeta.com/articles/tech/1326421.htm) | Wed Oct 12 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间2022年10月12日16时01分，“天宫课堂”第三课在中国空间站开讲，新晋“太空教师”陈冬、刘洋、蔡旭哲为广大青少年带来一场精彩的太空科普课，这是中国航天员首次在问天实验舱内进行授课。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果、Google和三星周三共同表示，他们将在全球第二大无线市场印度推出软件更新，使各自的手机产品支持5G，而就在几天前，当地政府开始推动这些手机制造商加快努力。印度最大的两家运营商Reliance Jio和Airtel最近几周已经开始在选定的印度城市提供5G服务，但该国许多受欢迎的手机目前不支持当地的信号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Intel A770/A750公版显卡上架：2499元起售](https://www.cnbeta.com/articles/tech/1326381.htm) | Wed Oct 12 2022 9:45 AM 
+- 🚀 [Google开始为Android和Chrome推出Passkey扫码登录支持](https://www.cnbeta.com/articles/tech/1326419.htm) | Wed Oct 12 2022 12:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，&lt;strong&gt;Intel的A770和A750两款显卡正式在电商平台上架开启预售，售价分别为3199元和2499元。&lt;/strong&gt;从商店页信息来看，目前预购的显卡，预计最晚将在10月22前发货。根据官方信息，&lt;strong&gt;A750显卡采用了28个Xe核心，配备8GB 16Fbps 256bit GDDR6显存，TDP 225W，GPU频率2050MHz&lt;/strong&gt;，并有4个DP 2.0接口和1个HDMI 2.1接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果、Google、微软和业内其他公司希望用只需要你解锁设备的&amp;quot;Passkeys&amp;quot;取代网站/应用程序的密码。从今天开始，Android和Google浏览器将支持用这种密码登录。Google将使用通行证的体验等同于现有的密码管理器，在那里你只需确认个人的设备密码/指纹，系统会向需要登录的机制自动输入保存的凭证。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [国际空间站的部分工作人员准备返回地球 研究工作持续进行中](https://www.cnbeta.com/articles/science/1326379.htm) | Wed Oct 12 2022 9:38 AM 
+- 🎊 [蓝戟Arc A770、A750显卡首发开卖：比Intel便宜500 真碾压RTX3060](https://www.cnbeta.com/articles/tech/1326417.htm) | Wed Oct 12 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;周二是国际空间站（ISS）上忙碌的一天，11名乘员在先进的空间研究和轨道实验室的维护之间分配时间。四名宇航员也开始将他们的注意力转向返回地球的工作，以结束4月份开始的任务。远征68号的两名新乘员将他们的科学活动集中于在太空中种植农作物和操纵自由飞行的机器人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月12日，Intel Arc A7系列显卡在国内正式上线，官方限量公版售价A750 2499元、A770 3199元。这比预期的略贵一些，尤其是对标的RTX 3060都已经来到2500元左右，A770可是号称性价比要吊打人家的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
