@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大家对量化基金 私募基金怎么看？](https://www.v2ex.com/t/886326#reply3) | Wed Oct 12 2022 3:54 AM
-- 🤗 [按秒进行分库分表是个好的选择吗？](https://www.v2ex.com/t/886317#reply1) | Wed Oct 12 2022 3:33 AM
-- 🎭 [腾讯云的新 RHEL（C8）套壳项目 OpenCloud 现已开放。](https://www.v2ex.com/t/886311#reply0) | Wed Oct 12 2022 3:26 AM
-- 🥷 [请教一下大家在监控 K8s 的 worker 节点的连接情况的问题](https://www.v2ex.com/t/886285#reply1) | Wed Oct 12 2022 2:42 AM
-- 🐵 [求推荐 trello 类似的 kanban 软件， 可以 Windows 本地使用](https://www.v2ex.com/t/886269#reply5) | Wed Oct 12 2022 2:14 AM<!-- v2ex:END -->
+- 🥸 [吐槽 Fiverr 接的副业](https://www.v2ex.com/t/886351#reply1) | Wed Oct 12 2022 5:37 AM
+- 🤗 [谷歌的送中策略又更改了？](https://www.v2ex.com/t/886342#reply1) | Wed Oct 12 2022 4:58 AM
+- 🎭 [[成都] [台资] Cocos 游戏开发 [13k-15k] 13 薪 &lpar;不加班&rpar; &lpar;Gamefi&rpar;](https://www.v2ex.com/t/886341#reply1) | Wed Oct 12 2022 4:48 AM
+- 🥷 [大家对量化基金 私募基金怎么看？](https://www.v2ex.com/t/886326#reply6) | Wed Oct 12 2022 3:54 AM
+- 🐵 [按秒进行分库分表是个好的选择吗？](https://www.v2ex.com/t/886317#reply3) | Wed Oct 12 2022 3:33 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
