@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [比特币开采软件正在进行十多年来第一次大改造](https://www.cnbeta.com/articles/tech/1326471.htm) | Wed Oct 12 2022 3:17 PM 
+- 🕯 [NVIDIA新驱动发布：DirectX 12游戏性能暴涨24.6％](https://www.cnbeta.com/articles/tech/1326481.htm) | Wed Oct 12 2022 4:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;本周二，一个开发者联盟在一个开源许可下发布了Stratum V2，供业界测试。&lt;/strong&gt;挖矿所用的软件刚刚得到了自2012年底以来的第一次升级，包括支付巨头Block在内的公司联盟正试图帮助推动这个开源协议成为行业标准。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;RTX 4090上架开卖的同时，NVIDIA发布了新版驱动程序522.25，不但支持新卡，还开启了DLSS 3，并且针对一系列热门的DX12游戏进行了优化，性能提升幅度最大可达24.6％。DLSS 3游戏首发三款《Portal RTX》、《Racer RTX》、《赛博朋克2077》，近期将陆续迎来&lt;strong&gt;《漫威蜘蛛侠：重制版》、《光明记忆：无限》、《瘟疫传说：安魂曲》、《F1 22》、《逆水寒》“拂云庭”、《生死轮回》、《微软模拟飞行》、《超级人类》。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软：即使每个COD玩家放弃索尼 PS用户基数还是比Xbox多很多](https://hot.cnbeta.com/articles/game/1326469.htm) | Wed Oct 12 2022 3:14 PM 
+- 💼 [“超杀女”科洛·莫瑞兹新剧《外围》首映 鳞鳞金属上衣超惹眼](https://hot.cnbeta.com/articles/movie/1326479.htm) | Wed Oct 12 2022 3:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;微软方面回应了英国竞争和市场局（CMA）对收购680亿美元收购动视暴雪案的一系列担忧，并提出了一个有趣的统计数字。&lt;/strong&gt;面对不断“微软拥有《使命召唤》是否会对PlayStation造成不公地阻碍”盘问，微软回应说即使PlayStation上的每个COD玩家都投奔Xbox，索尼的用户基数还是比Xbox“多很多”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间2022年10月11日，美国洛杉矶艾斯酒店，“超杀女”科洛·莫瑞兹出席新剧《外围》&lpar;The Peripheral&rpar;首映礼，亮晶晶的鳞片上衣尤为吸睛。她在个人号上说“纽约，很棒的一周。谢谢所有来漫展参加我们剧组活动的人。你们马上就能看到《外围》这部剧，它会让你们大吃一惊的。我爱这些人超越一切。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [抖音集团焕新 “字节跳动”成为历史？](https://www.cnbeta.com/articles/tech/1326467.htm) | Wed Oct 12 2022 3:08 PM 
+- 💂 [美国宇航局为阿特米斯一号登月任务确定新的11月发射日期](https://www.cnbeta.com/articles/science/1326477.htm) | Wed Oct 12 2022 3:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这也是自今年5月字节跳动（香港）有限公司更名抖音集团（香港）有限公司后，公司进一步“去字节跳动”的重要信号。抖音集团已换新装！10月12日，字节跳动被曝出旗下数个公司陆续更名，由“抖音”替代“字节跳动”成为公司名称核心组成部分，如将“字节跳动有限公司”改为“抖音有限公司”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对于一项酝酿多年的任务，多等几天又算得了什么？美国国家航空航天局（NASA）将人类送回月球的第一个重大步骤现在可能会在11月14日进行。周三，NASA宣布了一组新的潜在发射日期，以执行无人驾驶的Artemis I绕月任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [首届电动垂直起降飞机比赛在南澳大利亚启动](https://www.cnbeta.com/articles/tech/1326465.htm) | Wed Oct 12 2022 3:04 PM 
+- 🚀 [照片显示一台Surface Duo正在运行Windows 11风格的Android 12L](https://www.cnbeta.com/articles/tech/1326475.htm) | Wed Oct 12 2022 3:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Alauda Aeronautics公司在去年的远程驾驶eVTOL飞行比赛中获胜，最近又成功完成了第250次试飞，&lt;strong&gt;现在又宣布在南澳大利亚盐碱地上进行的首次无人驾驶EXA比赛当中获得冠军。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;几天前，一份新报告披露了微软双屏智能手机即将更新的细节，公司将用Android 12L更新其Surface Duo设备，该操作系统将引入一个重新设计的UI，类似于Windows 11的设计风格。今天Windows Central已经发布了面向初代和第二代Surface Duo的即将到来的Android 12L更新的第一批真机运行图像。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [索尼SIE继续向CMA陈情：CoD还是交给我独占最放心](https://hot.cnbeta.com/articles/game/1326463.htm) | Wed Oct 12 2022 2:57 PM 
+- 🎊 [太空游客丹尼斯蒂托预订了SpaceX星际飞船两个月球席位](https://www.cnbeta.com/articles/tech/1326473.htm) | Wed Oct 12 2022 3:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼担心微软收购动视-暴雪之后会利用CoD搞差异化竞争，比如为Xbox版本增加某些特色或独家内容，以吸引玩家放弃PlayStation平台转投Xbox。当然还有XGP订阅制带来的影响。SIE向英国监管机构CMA痛陈其利害，表示即便PlayStation今后仍可获得CoD作品，保不齐微软会耍一些小伎俩，导致PlayStation玩家叛逃。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;丹尼斯蒂托在2001年成为第一个飞往国际空间站的私人资助太空游客，他在周二（10月12日）透露，&lt;strong&gt;他和他的妻子秋子已经在SpaceX第二次环月飞行中预订了座位，乘坐仍在开发中的Starship运载火箭飞往月球。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
