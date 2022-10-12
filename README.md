@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [小册上新｜ 点亮你的 Redis 7 技能树，轻松晋升为行业技术大牛](https://juejin.cn/post/7153549264889593863) | Wed Oct 12 2022 9:05 AM 
+- 🤗 [什么是浏览器层爆炸？聊一聊安全且正确使用缓存的那些事、2022年编译加速的8个实用技巧 | 酱酱的下午茶第86期](https://juejin.cn/post/7153559121311039518) | Wed Oct 12 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-    知晓 Redis 的线程模型，才能真正理解为什么在生产环境中不能用 HGETALL 命令进行查询；学习了 Lua 脚本的知识，才能基于 Redis 设计出一个可用的分布式锁 
+    【掘金酱的下午茶】亮点： 什么是浏览器层爆炸？ 包教包会 - 手把手为组件库支持volar React 核心技术分析—让跨端动态化成为可能 聊一聊安全且正确使用缓存的那些事 —— 关于缓存可靠性、关乎 
     </details> 
 
-- 🎡 [el-table 虚拟滚动](https://juejin.cn/post/7153537820622241806) | Wed Oct 12 2022 8:20 AM 
+- 🎡 [JavaScript | a+b：动态类型是灾难之源还是最好的特性？（下）](https://juejin.cn/post/7153555320269668366) | Wed Oct 12 2022 9:28 AM 
     <details><summary>展开描述 ...</summary> 
-    el-table 虚拟滚动el-table 虚拟滚动el-table 虚拟滚动el-table 虚拟滚动el-table 虚拟滚动el-table 虚拟滚动el-table 虚拟滚动el-tablee 
+    a+b:动态类型是灾难之源还是最好的特性？（下） 上一篇，我们说到如何将复杂的类型转换缩减到两条简单的规 
     </details> 
 
-- 🕯 [Android FFmpeg音视频解码播放](https://juejin.cn/post/7153534274744877087) | Wed Oct 12 2022 8:08 AM 
+- 🕯 [一次Linux logger无法发送消息的问题追溯](https://juejin.cn/post/7153550661500534797) | Wed Oct 12 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 看到很多都对音视频这块非常的感兴趣，接下来就长篇赘述一下音视频的前前后后，应该从明天开始从音视频的初中高三个层次展开浅谈🤣 本文分别为： FFmpeg简介 FFmpeg音视频解码播放 Clang 
+    常规使用，logger无法给本地系统日志和远端发送消息，无显式报错，而在这之前能够正常工作。 具体复现如下： 排查与定位 首先排除rsyslog升级、配置等原因，因为之前一直正常运行， 
     </details> 
 
-- 🚀 [Docker系列学习&lpar;14&rpar; -- 容器内镜像分层详解](https://juejin.cn/post/7153533328300179487) | Wed Oct 12 2022 8:02 AM 
+- 🚀 [Go语言系列：两三天也学不完Go语言的进阶语法知识](https://juejin.cn/post/7153546868448821285) | Wed Oct 12 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第14天，点击查看活动详情 生命不息，学习不止 题外话 今天又是阳光明媚的一天，已经上了五天班了，明天就应该能放假了吧，然而并不能 
+    拖了很久没有更文的Go语言进阶语法终于搞定了，感兴趣的小伙伴赶紧进来看起来，come on！come on！ 
     </details> 
 
-- 💪 [10 张图 | 一文带你用 Mac M1 跑 RocketMQ](https://juejin.cn/post/7153532688110977038) | Wed Oct 12 2022 8:01 AM 
+- 💪 [为什么不要在 useEffect 中进行 API 调用？](https://juejin.cn/post/7153546377832693768) | Wed Oct 12 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 这是悟空的第 166 篇原创文章 你好，我是悟空。 本文主要内容如下： 目录 前言 最近在倒腾RocketMQ消息队列，首先就得把 RocketMQ 跑起来对吧，我们一般 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 随着 React 的版本更新，内置 Hooks 越来越多了。很多 Hook 可能你压根都没听说过。但是  
     </details> 
 <!-- juejin:END -->
 ### 少数派
