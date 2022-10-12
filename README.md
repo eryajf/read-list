@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国4‰盐度下耐盐常规稻再破纪录 亩产超691公斤](https://www.cnbeta.com/articles/tech/1326489.htm) | Wed Oct 12 2022 7:57 PM 
+- 🕯 [扎克伯格做了一个新的VR设备，并打算卖你一万块……](https://www.cnbeta.com/articles/tech/1326505.htm) | Wed Oct 12 2022 11:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“稻”喜！青岛的耐盐碱水稻产量有了新突破！10月11日，随着青岛海水稻研究发展中心（以下简称“中心”）组织的耐盐碱水稻专家测评会圆满完成，中国海水稻实现4‰盐度下耐盐常规稻产量新高度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;提到元宇宙 （ Metaverse ） ，关于它的争论就没有停下来过，但无论如何，看样子扎克伯格都打算一条路走到底了。毕竟自家的 Quest 2 VR 设备确实卖爆了，&lt;strong&gt;就连公司名都从 Facebook 改成了 Meta ……&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326505.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新冠XBB变异株扰动亚洲 新加坡发声：无证据显示致病性上升](https://www.cnbeta.com/articles/tech/1326487.htm) | Wed Oct 12 2022 7:08 PM 
+- 💼 [智能汽车要接着用Android吗？工信部原部长敲警钟：操作系统比芯片更迫切](https://www.cnbeta.com/articles/tech/1326503.htm) | Wed Oct 12 2022 11:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着2022年进入秋末，有关新冠病毒变异的进展又回到了舆论焦点，全世界都在紧张关注今年冬季是否会出现又一个席卷全球的新毒王。而今年九月以来新加坡的确诊病例快速增长，也将新冠XBB变异株推到台前。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月11日，汽车9月销量榜出炉。根据乘联会发布的数据，9月乘用车市场零售销量为194.7万辆，其中新能源汽车达到61.1万辆，创近5年的月销数据新高，渗透率进一步提升。“金九”销售数据展示着汽车“新能源革命”的冰山一角。在这场变革中，与电动化风潮并行的，还有智能化。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [从太空俯瞰地球 这名欧洲宇航员念了一句中国古文](https://www.cnbeta.com/articles/science/1326485.htm) | Wed Oct 12 2022 5:08 PM 
+- 💂 [字节跳动与唱片公司谈判 借TikTok在全球扩大音乐服务](https://hot.cnbeta.com/articles/music/1326501.htm) | Wed Oct 12 2022 11:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;正在国际空间站上执行驻留任务的意大利首位女性航天员萨曼莎·克里斯托福雷蒂，10月12日在太空中“书写”了一段中国式浪漫。当天，她在个人推特账号上发布了一组太空摄影作品，并配上一句描写宇宙景观的中国古文，既展现太空视角下的家园之美，又展现自己不俗的中文功底。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间10月13日消息，知情人士称，字节跳动已开始与唱片公司展开谈判，希望在全球范围内扩展其流媒体音乐服务，以便与Spotify 等行业领导者竞争。知情人士称，谈判中仍存在重大障碍，&lt;strong&gt;但是字节跳动希望最终将其音乐服务最终被整合到TikTok中，成为在世界各地分发音乐的一个主要平台。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1326501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究表明猴子等其它灵长类动物或将很快下到地面生活](https://www.cnbeta.com/articles/science/1326483.htm) | Wed Oct 12 2022 4:43 PM 
+- 🚀 [Netflix与英国电视收视率机构BARB合作：将披露平台收视率数字](https://www.cnbeta.com/articles/tech/1326499.htm) | Wed Oct 12 2022 11:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据进化论，人类和猩猩、猴子都属于“近亲”，但它们已经不可能再进化成人类，不过根据一项新的研究，猴子或许将很快到地面来生活！人类的祖先其实就生活在树上，后来由于环境的变化，被迫来到地面上，逐渐进化为现在的人类。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在对收视率数字讳莫如深多年之后，Netflix跟英国电视收视率机构Broadcasters Audience Research Board（简称BARB）展开了合作。&lt;/strong&gt;据悉，后者是英国一个报告广播和流媒体数字的组织。从11月开始，该组织将测量Netflix的每日流媒体数字并报告其每月的覆盖率和确定的总观看份额。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NVIDIA新驱动发布：DirectX 12游戏性能暴涨24.6％](https://www.cnbeta.com/articles/tech/1326481.htm) | Wed Oct 12 2022 4:38 PM 
+- 🎊 [苹果“惩罚”成立工会员工：不再给予医疗和教育新福利](https://www.cnbeta.com/articles/tech/1326497.htm) | Wed Oct 12 2022 11:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;RTX 4090上架开卖的同时，NVIDIA发布了新版驱动程序522.25，不但支持新卡，还开启了DLSS 3，并且针对一系列热门的DX12游戏进行了优化，性能提升幅度最大可达24.6％。DLSS 3游戏首发三款《Portal RTX》、《Racer RTX》、《赛博朋克2077》，近期将陆续迎来&lt;strong&gt;《漫威蜘蛛侠：重制版》、《光明记忆：无限》、《瘟疫传说：安魂曲》、《F1 22》、《逆水寒》“拂云庭”、《生死轮回》、《微软模拟飞行》、《超级人类》。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果公司将不再向唯一一家加入工会的零售店的员工发放最新福利&lt;/strong&gt;，此举可能会加剧这家科技巨头的劳资关系紧张。目前，苹果只有马里兰州巴尔的摩的一家零售店成立了工会。知情人士称，&lt;strong&gt;苹果在本周告诉零售和企业员工，公司将增加外部教育课程和医疗保健的福利。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
