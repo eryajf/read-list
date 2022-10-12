@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求推荐 Windows 笔记本 TypeC 拓展坞](https://www.v2ex.com/t/886456#reply0) | Wed Oct 12 2022 12:39 PM
-- 🤗 [Jetbrains fleet pubilc preview 了，可立刻下载体验！](https://www.v2ex.com/t/886447#reply12) | Wed Oct 12 2022 11:46 AM
-- 🎭 [可以通过关闭 Gmail 功能再重新启用的方式来更改 Google 账号名吗？](https://www.v2ex.com/t/886445#reply1) | Wed Oct 12 2022 11:35 AM
-- 🥷 [闲暇搞个副业挣点睡后收入](https://www.v2ex.com/t/886444#reply2) | Wed Oct 12 2022 11:31 AM
-- 🐵 [甲状腺结节，突然被体检报告打击到](https://www.v2ex.com/t/886441#reply19) | Wed Oct 12 2022 11:17 AM<!-- v2ex:END -->
+- 🥸 [JetBrains Fleet 开始进行公开测试了](https://www.v2ex.com/t/886469#reply0) | Wed Oct 12 2022 1:20 PM
+- 🤗 [mac 如何找到代理的 PAC 文件？](https://www.v2ex.com/t/886464#reply0) | Wed Oct 12 2022 1:04 PM
+- 🎭 [求推荐 Windows 笔记本 TypeC 拓展坞](https://www.v2ex.com/t/886456#reply4) | Wed Oct 12 2022 12:39 PM
+- 🥷 [Jetbrains fleet pubilc preview 了，可立刻下载体验！](https://www.v2ex.com/t/886447#reply21) | Wed Oct 12 2022 11:46 AM
+- 🐵 [可以通过关闭 Gmail 功能再重新启用的方式来更改 Google 账号名吗？](https://www.v2ex.com/t/886445#reply1) | Wed Oct 12 2022 11:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
