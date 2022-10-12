@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [秒验 运营商SDK错误码](https://juejin.cn/post/7153447428744560647) | Wed Oct 12 2022 2:30 AM 
+- 🤗 [commander options基础特性解析-12](https://juejin.cn/post/7153485337174474759) | Wed Oct 12 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
-    秒验是一款帮助开发者实现一键验证功能的产品，从根源上降低企业验证成本， 有效提高拉新转化率，降低因验证带来的流失率，3秒完成手机号验证 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第12天，点击查看活动详情 commander options基础特性解析 
     </details> 
 
-- 🎡 [Android Compose 动画使用详解&lpar;三&rpar;自定义animateXxxAsState动画](https://juejin.cn/post/7153446996882227236) | Wed Oct 12 2022 2:28 AM 
+- 🎡 [Beats：如何在 Elastic Stack 中得到并使用 Root CA Certificate fingerprint](https://juejin.cn/post/7153465137871978504) | Wed Oct 12 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇通过animateDpAsState的源码分析对animateValueAsState进行了探索，并详细介绍了如何通过其实现自定义animateXxxAsState动画Api 
+    在我之前的很多文章中，我基本上使用的 CA 证书来进行配置的。在很多其它的场合，我们可以使用 fingerprint 来进行连接。那么我们该如何得到并使用这个证书呢？ 我们先安装之前的教程 “Elas 
     </details> 
 
-- 🕯 [监控生产环境中的机器学习模型](https://juejin.cn/post/7153436480340230181) | Wed Oct 12 2022 1:47 AM 
+- 🕯 [秒验 客户端SDK返回码](https://juejin.cn/post/7153465000257044494) | Wed Oct 12 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 在许多方面，旅程才刚刚开始。你怎么知道你的模型的行为是否符合你的预期？下周/月/年，当客户（或欺 
+    秒验是一款帮助开发者实现一键验证功能的产品，从根源上降低企业验证成本，有效提高拉新转化率，降低因验证问题/验证失败带来的流失率，3秒完成手机号验证 
     </details> 
 
-- 🚀 [MMCV 全新升级，新增超全数据变换功能，还有两大变化](https://juejin.cn/post/7153434816329809933) | Wed Oct 12 2022 1:41 AM 
+- 🚀 [前端面试之CSS重点概念精讲](https://juejin.cn/post/7153455877670846477) | Wed Oct 12 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-    MMCV 在上一篇文章中，我们带大家了解了新一代训练架构 MMEngine ，既然 Runner、Hook 这些核心组件都在 MMEngine 里实现了，那 MMCV 还有啥嘞？架构升级后，我们还能用 
+    大家好，我是柒八九。 今天，我们又开辟了一个新的篇幅 --前端面试。即是把一些平时常用的概念和工具方法整理和罗列，也算是一种变向的未雨绸缪。 该系列的文章，大部分都是前面文章的知识点汇总，但是也不乏参 
     </details> 
 
-- 💪 [EasyCV DataHub 提供多领域视觉数据集下载，助力模型生产](https://juejin.cn/post/7153434515774373919) | Wed Oct 12 2022 1:39 AM 
+- 💪 [《卓有成效的工程师》书评](https://juejin.cn/post/7153454532406542343) | Wed Oct 12 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    EasyCV汇总了不同领域的常用数据集的介绍和下载地址，方便用户快速下载数据集进行论文指标对齐、模型效果对比、以及实际场景下的模型训练。 
+    关于本书 本书英文版《The Effective Engineer》 出版时间是 2015 年，中文版出版时间是 2022 年的 7 月 1 号，是一本很新的书。用 Effective 命名的图书大多 
     </details> 
 <!-- juejin:END -->
 ### 少数派
