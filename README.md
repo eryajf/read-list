@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Slidepad 1.3.7 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Tue Oct 11 2022 12:56 AM 
+- 🦏 [GlueMotion 2.0.8 缩时摄影](https://xclient.info/s/gluemotion.html) | Wed Oct 12 2022 12:41 AM 
     <details><summary>展开描述 ...</summary> 
-    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。 
+    GlueMotion是Mac平台上的一款缩时摄影师的理想工具。GlueMotion Mac版允许用户批量对图像进行编辑、去闪烁，并将图像序列汇编成缩时影片。 
     </details> 
 
--  [WebScraper 4.15.5 网页数据的爬取](https://xclient.info/s/webscraper.html) | Tue Oct 11 2022 12:55 AM 
+-  [Mirror for Android TV 2.8 Android屏幕镜像应用](https://xclient.info/s/mirror-for-android-tv.html) | Wed Oct 12 2022 12:40 AM 
     <details><summary>展开描述 ...</summary> 
-    WebScraper是一款运行在Mac平台上非常好用的网站数据提取工具，可以帮您在10分钟内轻松实现网页数据的爬取，只需输入起始网址即可开始，操作简单、功能强大。 
+    Mirror for Android TV是Mac os系统上Android智能电视影像投放软件，用户通过该软件可以将Mac电脑的影像投放在Android 智能电视上。 
     </details> 
 
-- ⚗️ [PhotoMill X 2.2.0 批量处理图片工具](https://xclient.info/s/photomill-x.html) | Tue Oct 11 2022 12:54 AM 
+- ⚗️ [Mirror for Fire TV 2.8 Amazon Fire TV屏幕镜像应用](https://xclient.info/s/mirror-for-fire-tv.html) | Wed Oct 12 2022 12:39 AM 
     <details><summary>展开描述 ...</summary> 
-    PhotoMill是一款批量处理图片的工具，可以帮助用户在照片上添加水印、日期、转换图像格式、调整图片亮度等多种便捷功能 
+    您的 Mac 到任何Amazon Fire TV屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
     </details> 
 
-- 🔥 [Cisdem PDF Converter OCR 7.5.0 fix PDF格式转换应用](https://xclient.info/s/cisdem-pdf-converter-ocr.html) | Tue Oct 11 2022 12:53 AM 
+- 🔥 [Mirror for Hisense TV 3.9.1 Hisense智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-hisense-tv.html) | Wed Oct 12 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    Cisdem PDF Converter OCR 是一款Mac上强大的万能PDF格式转换工具，这款软件可以将PDF转换为Word, Text, PowerPoint, Excel, Rtfd, ePub, HTML, keynote等格式，简单易用，很不错 
+    您的 Mac 到任何Hisense智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
     </details> 
 
-- 🌋 [One Switch 1.27 一键切换系统各项功能](https://xclient.info/s/one-switch.html) | Mon Oct 10 2022 2:20 AM 
+- 🌋 [Mirror for LG TV 3.8 LG智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-lg-tv.html) | Wed Oct 12 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    One Switch 是Mac平台上的一款集合一键切换系统各项功能的工具。One Switch Mac版是一款小巧的应用程序，旨在通过快速访问一些重要的交换机来提高您的效率。它可以从菜单栏打开，只需点击几下即可切换某些系统功能。 
+    您的 Mac 到任何LG智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
     </details> 
 <!-- xclient:END -->
 
