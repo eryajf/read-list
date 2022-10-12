@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国空间站第三次太空授课活动取得圆满成功](https://www.cnbeta.com/articles/science/1326383.htm) | Wed Oct 12 2022 9:48 AM 
+- 🕯 [Intel发布31.0.101.3490显卡驱动 新增A770/A750显卡支持](https://www.cnbeta.com/articles/soft/1326387.htm) | Wed Oct 12 2022 10:33 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天，Intel的Arc A770和A750两款显卡正式在国内发售，而显卡驱动也同步带来了31.0.101.3490&lt;strong&gt;版本&lt;/strong&gt;&lt;a class=&quot;f14_link&quot; href=&quot;https://www.intel.com/content/www/us/en/download/726609/intel-arc-graphics-windows-dch-driver.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;更新&lt;/strong&gt;&lt;/a&gt;。作为新显卡发售后的首次驱动更新，&lt;strong&gt;31.0.101.3490版本理所应当的加入了对A770以及A750两款显卡的驱动支持，这或许能够在一定程度上提升显卡的实际性能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1326387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [保时捷上架1700的中国菜刀：能拍蒜但国内不卖](https://hot.cnbeta.com/articles/funny/1326385.htm) | Wed Oct 12 2022 10:33 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，保时捷设计在官网上架一款连刀柄部分都是不锈钢的一体式中国菜刀，售价240美元（约1700元人民币）。虽然价格不菲，但是有保时捷背书，这款菜刀在多国已经售罄。美、英等国官网已经销售一空。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1326385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [中国空间站第三次太空授课活动取得圆满成功](https://www.cnbeta.com/articles/science/1326383.htm) | Wed Oct 12 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;北京时间2022年10月12日16时01分，“天宫课堂”第三课在中国空间站开讲，新晋“太空教师”陈冬、刘洋、蔡旭哲为广大青少年带来一场精彩的太空科普课，这是中国航天员首次在问天实验舱内进行授课。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Intel A770/A750公版显卡上架：2499元起售](https://www.cnbeta.com/articles/tech/1326381.htm) | Wed Oct 12 2022 9:45 AM 
+- 🚀 [Intel A770/A750公版显卡上架：2499元起售](https://www.cnbeta.com/articles/tech/1326381.htm) | Wed Oct 12 2022 9:45 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天，&lt;strong&gt;Intel的A770和A750两款显卡正式在电商平台上架开启预售，售价分别为3199元和2499元。&lt;/strong&gt;从商店页信息来看，目前预购的显卡，预计最晚将在10月22前发货。根据官方信息，&lt;strong&gt;A750显卡采用了28个Xe核心，配备8GB 16Fbps 256bit GDDR6显存，TDP 225W，GPU频率2050MHz&lt;/strong&gt;，并有4个DP 2.0接口和1个HDMI 2.1接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国际空间站的部分工作人员准备返回地球 研究工作持续进行中](https://www.cnbeta.com/articles/science/1326379.htm) | Wed Oct 12 2022 9:38 AM 
+- 🎊 [国际空间站的部分工作人员准备返回地球 研究工作持续进行中](https://www.cnbeta.com/articles/science/1326379.htm) | Wed Oct 12 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;周二是国际空间站（ISS）上忙碌的一天，11名乘员在先进的空间研究和轨道实验室的维护之间分配时间。四名宇航员也开始将他们的注意力转向返回地球的工作，以结束4月份开始的任务。远征68号的两名新乘员将他们的科学活动集中于在太空中种植农作物和操纵自由飞行的机器人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《龙之家族》时间跳跃引不满 R.R.马丁：需要四季讲完故事](https://hot.cnbeta.com/articles/movie/1326377.htm) | Wed Oct 12 2022 9:28 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美剧《龙之家族》的剧情推进速度和《权力的游戏》完全不同，而近期剧情中突然的时间跳跃也引发了系列粉丝激烈的讨论。日前，原著作者乔治R.R.马丁对这部系列前传美剧给出了自己的看法。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [他：21个月拿下清华博士 击败NASA打破欧美垄断](https://www.cnbeta.com/articles/science/1326375.htm) | Wed Oct 12 2022 9:26 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;1年9个月拿到清华博士学位，一作发表SCI论文27篇，曾在国际大赛击败NASA……&lt;strong&gt;航天学霸姜宇&lt;/strong&gt;的故事，霸榜昨晚热搜。据介绍，他现在工作于&lt;strong&gt;西安卫星测控中心&lt;/strong&gt;，研究领域中有五个处于国内领先水平，三个达到国际领先水平。网友看后也纷纷称他为大神。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326375.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
