@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [Matrix 圆桌 | 2022 年选择米家，除了性价比你还能获得什么？](https://sspai.com/post/76118) | Tue Oct 11 2022 9:30 AM 
+- 👹 [派早报：Meta Quest Pro 发布、联发科推出天玑 1080 移动平台等](https://sspai.com/post/76134) | Wed Oct 12 2022 1:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    Apple 面向开发者推出 Ask Apple，YouTube 面向创作者推出标识名等。&lt;a href=&quot;https://sspai.com/post/76134&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [Matrix 圆桌 | 2022 年选择米家，除了性价比你还能获得什么？](https://sspai.com/post/76118) | Tue Oct 11 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     这次 Martix 圆桌邀请到了我们的社区作者们一起来聊聊自己买过的米家产品，希望能帮大家了解米家的产品。&lt;a href=&quot;https://sspai.com/post/76118&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [属于大众的 iPhone：iPhone 14 上手体验](https://sspai.com/post/76104) | Tue Oct 11 2022 8:06 AM 
+- 🤭 [属于大众的 iPhone：iPhone 14 上手体验](https://sspai.com/post/76104) | Tue Oct 11 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
     在灵动岛的闪耀光环下，iPhone 14 系列或许是你日常使用或赠送亲友时更为理性的选择。&lt;a href=&quot;https://sspai.com/post/76104&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [因突发情况被困外地，怎样尽可能坐上正常航班离开？](https://sspai.com/post/76106) | Tue Oct 11 2022 6:45 AM 
+- 🥸 [因突发情况被困外地，怎样尽可能坐上正常航班离开？](https://sspai.com/post/76106) | Tue Oct 11 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76106&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [巧思外加树莓派，特斯拉用上 CarPlay](https://sspai.com/post/76097) | Tue Oct 11 2022 3:28 AM 
+- 🙉 [巧思外加树莓派，特斯拉用上 CarPlay](https://sspai.com/post/76097) | Tue Oct 11 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76097&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：过山车可能触发 iPhone 车祸检测，微软确认 22H2 版本有复制问题等](https://sspai.com/post/76112) | Tue Oct 11 2022 1:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    英特尔证实 Alder Lake BIOS 的源代码泄露，前优步安全主管被判向当局隐瞒黑客行为有罪等&lt;a href=&quot;https://sspai.com/post/76112&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
