@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [第三季度全球PC出货量暴降19.5%：创20多年来最大降幅](https://www.cnbeta.com/articles/tech/1326079.htm) | Tue Oct 11 2022 11:20 PM 
+- 🕯 [95后女孩用10斤巧克力神还原《武林外传》小院：回忆杀了](https://www.cnbeta.com/articles/tech/1326171.htm) | Wed Oct 12 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你平时除了工作还会用电脑吗？&lt;strong&gt;近日分析机构Canalys发布了2022年第三季度全球PC出货量报告，台式机和笔记本电脑在第三季度的总出货量同比下降18%至6940万台。&lt;/strong&gt;其中，笔记本电脑出货量受影响最大，同比下降19%至5470万台；台式机出货量相对稳定，总计为1470万台，同比下降11%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;来见识下这位95后的手工大神。据媒体报道，&lt;strong&gt;山东青岛一女生耗时一个月，使用10斤巧克力，复刻了《武林外传》里的小院，堪称神还原。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果iOS 16.1 beta 5发布 正式版月底推出 iPhone XR等加入电量百分比](https://www.cnbeta.com/articles/tech/1326077.htm) | Tue Oct 11 2022 11:19 PM 
+- 💼 [[图]混合用途开发为伦敦巴特西发电站带来新的活力](https://www.cnbeta.com/articles/tech/1326169.htm) | Wed Oct 12 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;距离上次推送时隔一周时间，&lt;strong&gt;苹果今天凌晨正式推送了iOS 16.1 beta 5 &lpar;20B5072b&rpar;系统。&lt;/strong&gt;这次系统上的改进非常小，几乎没有功能升级，已升级的用户也反馈称没有感知到任何变化。而这也就意味着，目前iOS 16.1经过了几次测试，整个使用体验已经非常完善，应该很快就会迎来正式版。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，标志性是一个在建筑领域经常被过度使用的词，但人们对伦敦的巴特西发电站使用这个词没有异议。&lt;strong&gt;在退役近40年后，这座著名的装饰艺术建筑被WilkinsonEyre精心修复，对细节的关注令人印象深刻，将其改造成一个混合用途的开发项目，保留了其原有的特色。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《钢铁侠VR》《生化4 VR》开发商被Meta收购](https://hot.cnbeta.com/articles/game/1326075.htm) | Tue Oct 11 2022 11:18 PM 
+- 💂 [Snapchat推全新AR体验：可“试穿”和购买万圣节服装](https://www.cnbeta.com/articles/tech/1326167.htm) | Wed Oct 12 2022 2:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Meta宣布收购了三家游戏开发商，其中就有《钢铁侠VR》开发商Camouflaj 和《生化危机4 VR》开发商Armature。在Meta Connect 2022直播大会上，该公司宣布收购Camouflaj，Armature Studio和Twisted Pixel。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Snapchat 今天宣布推出全新的 AR 体验，允许用户直接在应用内“试穿”和购买万圣节服装。&lt;/strong&gt;从今天开始，Snapchat 用户可以试穿和购买《怪奇物语》、《哈利波特》系列、《鱿鱼游戏》、《我的世界》、《捉鬼敢死队》等热门影视角色的服装。新的 AR 体验是与服装公司 Disguise 合作推出的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软宣布Xbox云游戏将登陆Meta Quest](https://hot.cnbeta.com/articles/game/1326073.htm) | Tue Oct 11 2022 11:18 PM 
+- 🚀 [苹果宣布推出面向开发者的Ask Apple互动问答活动](https://www.cnbeta.com/articles/tech/1326165.htm) | Wed Oct 12 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软宣布Xbox云游戏将登陆Meta Quest。在Meta Connect 2022直播上，微软CEO纳德拉公布了这一消息。随后Meta在新闻博客中表示：“Xbox云游戏将让你串流数百款高质量游戏到各种设备上，未来将包括Meta Quest 2。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;周二的时候，苹果官宣了一项“Ask Apple”互动问答企划。&lt;strong&gt;该功能旨在让开发者从该公司工程师和专家那里，更好地获得应用程序开发方面的帮助&lt;/strong&gt; —— 比如 WWDC 开发者大会 / beta 测试中新引入的功能、“灵动岛”（Dynamic Island）交互、以及如何向 SwiftUI 迁移等方面。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [特斯拉在美销量出现下滑，但仍拥有该市场2/3的EV份额](https://www.cnbeta.com/articles/tech/1326071.htm) | Tue Oct 11 2022 11:18 PM 
+- 🎊 [华强北破解美版iPhone 14 Pro：原机中框直接开SIM卡槽](https://www.cnbeta.com/articles/tech/1326163.htm) | Wed Oct 12 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;虽然特斯拉在美国的市场份额下滑，但这家汽车制造商仍拥有这个快速增长的市场的三分之二的份额。&lt;/strong&gt;多年来，特斯拉一直主导着其本国的电动汽车市场。预计随着更多的电动汽车选择的冲击和帮助美国市场的增长，特斯拉对市场的控制将被削弱，但就目前而言，美国的电动汽车市场仍极其依赖特斯拉的生产和交付。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年苹果在iPhone 14系列上非常激进，&lt;strong&gt;美版直接全系都取消了实体SIM卡，全部使用eSIM，手机上连卡槽都没了。&lt;/strong&gt;这给中国水货市场造成了巨大打击，以往美版是水货市场最受欢迎的版本，价格相比国行能拉开上千元的优势，而且使用起来并无任何影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
