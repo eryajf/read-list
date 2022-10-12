@@ -366,8 +366,8 @@
 <!-- v2ex:START -->
 - 🥸 [有什么可以替代腾讯的云开发网关吗？](https://www.v2ex.com/t/886508#reply0) | Wed Oct 12 2022 6:58 PM
 - 🤗 [公司要上一台上网行为管理，选哪家好啊](https://www.v2ex.com/t/886503#reply1) | Wed Oct 12 2022 5:50 PM
-- 🎭 [腾讯为什么不把 qq 邮箱好好整一下？](https://www.v2ex.com/t/886502#reply5) | Wed Oct 12 2022 5:19 PM
-- 🥷 [想找一个这样的开源系统，满足多人文档共享编辑，按照一定的流程传送。](https://www.v2ex.com/t/886499#reply0) | Wed Oct 12 2022 4:25 PM
+- 🎭 [腾讯为什么不把 qq 邮箱好好整一下？](https://www.v2ex.com/t/886502#reply6) | Wed Oct 12 2022 5:19 PM
+- 🥷 [想找一个这样的开源系统，满足多人文档共享编辑，按照一定的流程传送。](https://www.v2ex.com/t/886499#reply2) | Wed Oct 12 2022 4:25 PM
 - 🐵 [请问微软商店怎么看应用的更新日志版本历史记录](https://www.v2ex.com/t/886493#reply0) | Wed Oct 12 2022 3:22 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
