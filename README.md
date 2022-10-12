@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [95后女孩用10斤巧克力神还原《武林外传》小院：回忆杀了](https://www.cnbeta.com/articles/tech/1326171.htm) | Wed Oct 12 2022 2:11 AM 
+- 🕯 [传&quot;无聊猿&quot;母公司遭美证监会调查：NFT也不能随意发行？](https://www.cnbeta.com/articles/tech/1326239.htm) | Wed Oct 12 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来见识下这位95后的手工大神。据媒体报道，&lt;strong&gt;山东青岛一女生耗时一个月，使用10斤巧克力，复刻了《武林外传》里的小院，堪称神还原。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据知情人士透露，NFT头像收藏项目“无聊猿游艇俱乐部”&lpar;BAYC&rpar;母公司Y&lt;strong&gt;uga Labs正在接受美国证券交易委员会（SEC）的调查，理由是NFT是否应被视为未注册证券。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[图]混合用途开发为伦敦巴特西发电站带来新的活力](https://www.cnbeta.com/articles/tech/1326169.htm) | Wed Oct 12 2022 2:10 AM 
+- 💼 [经营13年后 日产宣布退出俄罗斯市场：以1欧元出售旗下业务](https://www.cnbeta.com/articles/tech/1326237.htm) | Wed Oct 12 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，标志性是一个在建筑领域经常被过度使用的词，但人们对伦敦的巴特西发电站使用这个词没有异议。&lt;strong&gt;在退役近40年后，这座著名的装饰艺术建筑被WilkinsonEyre精心修复，对细节的关注令人印象深刻，将其改造成一个混合用途的开发项目，保留了其原有的特色。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日消息，日产汽车宣布完全退出俄罗斯市场，其俄罗斯公司的所有本地业务，&lt;strong&gt;都将出售给俄罗斯汽车与汽车发动机科学研究所，价格仅为1欧元&lt;/strong&gt;，预计将出现约1000亿日元（约合7亿欧元）的非正常亏损。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Snapchat推全新AR体验：可“试穿”和购买万圣节服装](https://www.cnbeta.com/articles/tech/1326167.htm) | Wed Oct 12 2022 2:09 AM 
+- 💂 [SK海力士宣布维持全球工厂的现有运转](https://www.cnbeta.com/articles/tech/1326235.htm) | Wed Oct 12 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Snapchat 今天宣布推出全新的 AR 体验，允许用户直接在应用内“试穿”和购买万圣节服装。&lt;/strong&gt;从今天开始，Snapchat 用户可以试穿和购买《怪奇物语》、《哈利波特》系列、《鱿鱼游戏》、《我的世界》、《捉鬼敢死队》等热门影视角色的服装。新的 AR 体验是与服装公司 Disguise 合作推出的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;SK 海力士（SK hynix Inc.）今天宣布，美国政府已经对其商务部工业与安全局 &lpar;BIS&rpar; 于 2022 年 10 月 7 日星期五宣布的出口管制法规做出澄清。&lt;/strong&gt;在 BIS 的正式信函中，该机构向 SK hynix 保证，该公司及其当前的供应商、业务合作伙伴在没有其他许可要求情况下，仍被授权从事必要的活动，以在一年内维持目前在中国的集成电路生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果宣布推出面向开发者的Ask Apple互动问答活动](https://www.cnbeta.com/articles/tech/1326165.htm) | Wed Oct 12 2022 2:07 AM 
+- 🚀 [盲人摸象：分析师难以预估苹果在2022年3季度到底售出了多少台Mac](https://www.cnbeta.com/articles/tech/1326233.htm) | Wed Oct 12 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;周二的时候，苹果官宣了一项“Ask Apple”互动问答企划。&lt;strong&gt;该功能旨在让开发者从该公司工程师和专家那里，更好地获得应用程序开发方面的帮助&lt;/strong&gt; —— 比如 WWDC 开发者大会 / beta 测试中新引入的功能、“灵动岛”（Dynamic Island）交互、以及如何向 SwiftUI 迁移等方面。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;过去几年，苹果一直没有披露 iPhone、Mac 和 iPad 的销售数据，导致分析师、客户、投资者和其他人始终对设备的实际销售状况一无所知。对于市场分析师来说，这也使得他们难以准确预估苹果产品的出货量。&lt;strong&gt;以 2022 年 3 季度的 Mac 销售数据为例，包括 Gartner、IDC 和 Canalys 在内的知名机构，都没能给出相对一致的意见。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [华强北破解美版iPhone 14 Pro：原机中框直接开SIM卡槽](https://www.cnbeta.com/articles/tech/1326163.htm) | Wed Oct 12 2022 2:06 AM 
+- 🎊 [SEMI预计2025年全球300mm半导体晶圆厂产能将创新高](https://www.cnbeta.com/articles/tech/1326231.htm) | Wed Oct 12 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年苹果在iPhone 14系列上非常激进，&lt;strong&gt;美版直接全系都取消了实体SIM卡，全部使用eSIM，手机上连卡槽都没了。&lt;/strong&gt;这给中国水货市场造成了巨大打击，以往美版是水货市场最受欢迎的版本，价格相比国行能拉开上千元的优势，而且使用起来并无任何影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在周二新披露的展望报告中，SEMI 预计到 2025 年的时候，全球 300 mm 半导体晶圆厂的产能将再创新高。&lt;/strong&gt;SEMI 总裁兼首席执行官 Ajit Manocha 表示：“尽管某些芯片短缺已得到缓解，但另一些芯片的供应仍然紧张。不过苏子和半导体行业扩大 300 mm 晶圆厂产能，其正努力为满足广大新兴应用的长期需求而奠定基础”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
