@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么是浏览器层爆炸？聊一聊安全且正确使用缓存的那些事、2022年编译加速的8个实用技巧 | 酱酱的下午茶第86期](https://juejin.cn/post/7153559121311039518) | Wed Oct 12 2022 9:43 AM 
+- 🤗 [Android中高级进阶开发面试题冲刺合集（九）【完结篇】](https://juejin.cn/post/7153610945028161566) | Wed Oct 12 2022 1:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要针对往期收录的面试题进行一个分类归纳整理，方便统一回顾和参考。本篇是面试题的第九集【完结篇】~ 
+    </details> 
+
+- 🎡 [用脚教你使用Appium自动测试你的React Native](https://juejin.cn/post/7153571132891725854) | Wed Oct 12 2022 10:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    Appium[ æpi&#39;ʌm ] Appium是一款开源测试工具，可以用来测试安卓/iOS/Windows端的原生应用和Web混合应用。 工作原理 Appium有一个客户端-服务器架构。Appium客 
+    </details> 
+
+- 🕯 [Android 音视频开发之交叉编译](https://juejin.cn/post/7153565687498637343) | Wed Oct 12 2022 10:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 本文分别为： 交叉编译 Clang交叉编译 X264 FAAC CameraX 今天来说一下关于今天先说一下音视频交叉编译一些内容🤨 解锁 《Android十大板块文档》 音视频大合集，从初中高 
+    </details> 
+
+- 🚀 [OC项目用Swift开发方便吗？](https://juejin.cn/post/7153564241659297806) | Wed Oct 12 2022 10:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    我正在参加「掘金·启航计划」 前言 公司有个项目一直是用 OC 进行开发，现在想改成 Swift 来开发。那先说一下为什么有这样的想法，我们都知道 Swift 代码更简单，易维护，安全而且快，网络上也 
+    </details> 
+
+- 💪 [什么是浏览器层爆炸？聊一聊安全且正确使用缓存的那些事、2022年编译加速的8个实用技巧 | 酱酱的下午茶第86期](https://juejin.cn/post/7153559121311039518) | Wed Oct 12 2022 9:43 AM 
     <details><summary>展开描述 ...</summary> 
     【掘金酱的下午茶】亮点： 什么是浏览器层爆炸？ 包教包会 - 手把手为组件库支持volar React 核心技术分析—让跨端动态化成为可能 聊一聊安全且正确使用缓存的那些事 —— 关于缓存可靠性、关乎 
-    </details> 
-
-- 🎡 [JavaScript | a+b：动态类型是灾难之源还是最好的特性？（下）](https://juejin.cn/post/7153555320269668366) | Wed Oct 12 2022 9:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    a+b:动态类型是灾难之源还是最好的特性？（下） 上一篇，我们说到如何将复杂的类型转换缩减到两条简单的规 
-    </details> 
-
-- 🕯 [一次Linux logger无法发送消息的问题追溯](https://juejin.cn/post/7153550661500534797) | Wed Oct 12 2022 9:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    常规使用，logger无法给本地系统日志和远端发送消息，无显式报错，而在这之前能够正常工作。 具体复现如下： 排查与定位 首先排除rsyslog升级、配置等原因，因为之前一直正常运行， 
-    </details> 
-
-- 🚀 [Go语言系列：两三天也学不完Go语言的进阶语法知识](https://juejin.cn/post/7153546868448821285) | Wed Oct 12 2022 8:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    拖了很久没有更文的Go语言进阶语法终于搞定了，感兴趣的小伙伴赶紧进来看起来，come on！come on！ 
-    </details> 
-
-- 💪 [为什么不要在 useEffect 中进行 API 调用？](https://juejin.cn/post/7153546377832693768) | Wed Oct 12 2022 8:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 随着 React 的版本更新，内置 Hooks 越来越多了。很多 Hook 可能你压根都没听说过。但是  
     </details> 
 <!-- juejin:END -->
 ### 少数派
