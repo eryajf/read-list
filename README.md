@@ -378,24 +378,24 @@
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第12天，点击查看活动详情 commander options基础特性解析 
     </details> 
 
-- 🎡 [Beats：如何在 Elastic Stack 中得到并使用 Root CA Certificate fingerprint](https://juejin.cn/post/7153465137871978504) | Wed Oct 12 2022 3:38 AM 
+- 🎡 [低代码海报平台的编辑器难点剖析](https://juejin.cn/post/7153474886822952991) | Wed Oct 12 2022 4:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过上一篇文章，我们对乔巴乐高海报平台的整体架构有了初步的了解。今天我们深入到编辑器部分，对其中的难点和实现细节进行分析。 这是目前生产的编辑器页面： 对应的原型图： 不难看出和市面上大部分低代码平台 
+    </details> 
+
+- 🕯 [苹果Mac微调音量、亮度小技巧](https://juejin.cn/post/7153469039723937829) | Wed Oct 12 2022 3:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    一般来说调整Mac音量、亮度，只要简单按下对应的功能键即可快速调整，屏幕上也会出现代表调整量大小的「格数」方便用户查看。 
+    </details> 
+
+- 🚀 [Beats：如何在 Elastic Stack 中得到并使用 Root CA Certificate fingerprint](https://juejin.cn/post/7153465137871978504) | Wed Oct 12 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
     在我之前的很多文章中，我基本上使用的 CA 证书来进行配置的。在很多其它的场合，我们可以使用 fingerprint 来进行连接。那么我们该如何得到并使用这个证书呢？ 我们先安装之前的教程 “Elas 
     </details> 
 
-- 🕯 [秒验 客户端SDK返回码](https://juejin.cn/post/7153465000257044494) | Wed Oct 12 2022 3:37 AM 
+- 💪 [秒验 客户端SDK返回码](https://juejin.cn/post/7153465000257044494) | Wed Oct 12 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     秒验是一款帮助开发者实现一键验证功能的产品，从根源上降低企业验证成本，有效提高拉新转化率，降低因验证问题/验证失败带来的流失率，3秒完成手机号验证 
-    </details> 
-
-- 🚀 [前端面试之CSS重点概念精讲](https://juejin.cn/post/7153455877670846477) | Wed Oct 12 2022 3:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是柒八九。 今天，我们又开辟了一个新的篇幅 --前端面试。即是把一些平时常用的概念和工具方法整理和罗列，也算是一种变向的未雨绸缪。 该系列的文章，大部分都是前面文章的知识点汇总，但是也不乏参 
-    </details> 
-
-- 💪 [《卓有成效的工程师》书评](https://juejin.cn/post/7153454532406542343) | Wed Oct 12 2022 2:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于本书 本书英文版《The Effective Engineer》 出版时间是 2015 年，中文版出版时间是 2022 年的 7 月 1 号，是一本很新的书。用 Effective 命名的图书大多 
     </details> 
 <!-- juejin:END -->
 ### 少数派
