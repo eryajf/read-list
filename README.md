@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [commander options基础特性解析-12](https://juejin.cn/post/7153485337174474759) | Wed Oct 12 2022 4:58 AM 
+- 🤗 [KUN 应用开发流程【实用教程】](https://juejin.cn/post/7153499658189275166) | Wed Oct 12 2022 5:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    作者：闲鱼技术——古尘 前言 本文从KUN在闲鱼落地为出发点，介绍如何通过KUN实现Web和Flutter技术增强你的移动应用程序。 在结合了Web和Flutter的各自优势，以及它们背后良好的生态和 
+    </details> 
+
+- 🎡 [4 种 Kafka 网络中断和网络分区场景分析](https://juejin.cn/post/7153493571927179295) | Wed Oct 12 2022 5:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    1. 单个 broker 节点和 leader 节点网络中断 网络中断前： broker-1 和 broker-0（leader）间的网络中断后，单边中断，zk 可用（zk-1 为 leader，zk 
+    </details> 
+
+- 🕯 [前端脚手架搭建](https://juejin.cn/post/7153485337174474759) | Wed Oct 12 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第12天，点击查看活动详情 commander options基础特性解析 
     </details> 
 
-- 🎡 [低代码海报平台的编辑器难点剖析](https://juejin.cn/post/7153474886822952991) | Wed Oct 12 2022 4:19 AM 
+- 🚀 [Java&amp;C++题解与拓展——leetcode817.链表组件【么的新知识】](https://juejin.cn/post/7153483155964428301) | Wed Oct 12 2022 4:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    leetcode817.链表组件解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    </details> 
+
+- 💪 [低代码海报平台的编辑器难点剖析](https://juejin.cn/post/7153474886822952991) | Wed Oct 12 2022 4:19 AM 
     <details><summary>展开描述 ...</summary> 
     通过上一篇文章，我们对乔巴乐高海报平台的整体架构有了初步的了解。今天我们深入到编辑器部分，对其中的难点和实现细节进行分析。 这是目前生产的编辑器页面： 对应的原型图： 不难看出和市面上大部分低代码平台 
-    </details> 
-
-- 🕯 [苹果Mac微调音量、亮度小技巧](https://juejin.cn/post/7153469039723937829) | Wed Oct 12 2022 3:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    一般来说调整Mac音量、亮度，只要简单按下对应的功能键即可快速调整，屏幕上也会出现代表调整量大小的「格数」方便用户查看。 
-    </details> 
-
-- 🚀 [Beats：如何在 Elastic Stack 中得到并使用 Root CA Certificate fingerprint](https://juejin.cn/post/7153465137871978504) | Wed Oct 12 2022 3:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    在我之前的很多文章中，我基本上使用的 CA 证书来进行配置的。在很多其它的场合，我们可以使用 fingerprint 来进行连接。那么我们该如何得到并使用这个证书呢？ 我们先安装之前的教程 “Elas 
-    </details> 
-
-- 💪 [秒验 客户端SDK返回码](https://juejin.cn/post/7153465000257044494) | Wed Oct 12 2022 3:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    秒验是一款帮助开发者实现一键验证功能的产品，从根源上降低企业验证成本，有效提高拉新转化率，降低因验证问题/验证失败带来的流失率，3秒完成手机号验证 
     </details> 
 <!-- juejin:END -->
 ### 少数派
