@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [大厂都在用的代码规范与代码检测工作流](https://juejin.cn/post/7153511642687340558) | Wed Oct 12 2022 6:39 AM 
+- 🤗 [小册上新｜ 点亮你的 Redis 7 技能树，轻松晋升为行业技术大牛](https://juejin.cn/post/7153549264889593863) | Wed Oct 12 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-    一般来说，团队协作中最让人抓狂的就是代码规范，同时这也是最容易妥协的地方。所以好的代码规范能让团队减少很多无谓的“争吵”和时间的浪费。 下面介绍一下，大厂都在用的代码规范与代码检测工作流。 
+    知晓 Redis 的线程模型，才能真正理解为什么在生产环境中不能用 HGETALL 命令进行查询；学习了 Lua 脚本的知识，才能基于 Redis 设计出一个可用的分布式锁 
     </details> 
 
-- 🎡 [flutter:一篇文章入门go_router](https://juejin.cn/post/7153503260614393886) | Wed Oct 12 2022 6:06 AM 
+- 🎡 [Spark AQE SkewedJoin 在字节跳动的实践和优化](https://juejin.cn/post/7153521409107427342) | Wed Oct 12 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-    flutter go_router go_router是Flutter官方开发的一个Flutter的声明式路由包。 go_router 包的目的是使用声明式路由来降低复杂性，无论您的目标平台是什么（移 
+    本文首先介绍 Spark AQE SkewedJoin 的基本原理以及字节跳动在实践中遇到的问题；其次介绍针对遇到问题所做的相关优化和功能增强；此外，我们还将分享 SkewedJoin 的使用经验。 
     </details> 
 
-- 🕯 [OpenKruise v1.3：新增自定义 Pod Probe 探针能力与大规模集群性能显著提升](https://juejin.cn/post/7153502826570727438) | Wed Oct 12 2022 6:04 AM 
+- 🕯 [Web Components 四板斧](https://juejin.cn/post/7153521106916212744) | Wed Oct 12 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-    在版本 v1.3 中，OpenKruise 提供了新的 CRD 资源 PodProbeMarker，改善了大规模集群的一些性能问题，Advanced DaemonSet 支持镜像预热，以及 Clone 
+    Web Components 是一组 Web 平台 API，允许开发人员创建新的自定义、可重用、被封装的 HTML 标记。单 Web Components 不是一门单一的技术，而是四门技术的组合。 
     </details> 
 
-- 🚀 [精一技or擅百技？——协同时代下的原型工具应该怎么做](https://juejin.cn/post/7153500787904086023) | Wed Oct 12 2022 5:56 AM 
+- 🚀 [【高并发】ScheduledThreadPoolExecutor与Timer的区别和简单示例](https://juejin.cn/post/7153516893285023780) | Wed Oct 12 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    写在前面 大家对原型工具应该不陌生，无论是设计师还是产品经理，或多或少都接触过原型图的工具，比如较为大众熟知的Axure，国内运用较为广泛的墨刀和摹客，以及一些较为小众的产品。不难发现，大多数工具类产 
+    JDK 1.5开始提供ScheduledThreadPoolExecutor类，ScheduledThreadPoolExecutor类继承ThreadPoolExecutor类重用线程池实现了任务的 
     </details> 
 
-- 💪 [KUN 应用开发流程【实用教程】](https://juejin.cn/post/7153499658189275166) | Wed Oct 12 2022 5:53 AM 
+- 💪 [Android中高级进阶开发面试题冲刺合集（八）【Flutter篇】](https://juejin.cn/post/7153515946374594573) | Wed Oct 12 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-    作者：闲鱼技术——古尘 前言 本文从KUN在闲鱼落地为出发点，介绍如何通过KUN实现Web和Flutter技术增强你的移动应用程序。 在结合了Web和Flutter的各自优势，以及它们背后良好的生态和 
+    本文主要针对往期收录的面试题进行一个分类归纳整理，方便统一回顾和参考。本篇是安卓面试题的第八集（Flutter篇）~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
