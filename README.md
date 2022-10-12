@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android中高级进阶开发面试题冲刺合集（九）【完结篇】](https://juejin.cn/post/7153610945028161566) | Wed Oct 12 2022 1:05 PM 
+- 🤗 [UData查询引擎优化-如何让一条SQL性能提升数倍](https://juejin.cn/post/7153657655104536583) | Wed Oct 12 2022 4:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第14天，点击查看活动详情1 UData-解决数据使用的最后一公里1.1 背景在大数据的范畴，我们经历了数据产业化的历程，从各个生 
+    </details> 
+
+- 🎡 [Android中高级进阶开发面试题冲刺合集（九）【完结篇】](https://juejin.cn/post/7153610945028161566) | Wed Oct 12 2022 1:05 PM 
     <details><summary>展开描述 ...</summary> 
     本文主要针对往期收录的面试题进行一个分类归纳整理，方便统一回顾和参考。本篇是面试题的第九集【完结篇】~ 
     </details> 
 
-- 🎡 [【第20题】npm run xxx 的执行过程](https://juejin.cn/post/7153601063542521886) | Wed Oct 12 2022 12:25 PM 
+- 🕯 [【第20题】npm run xxx 的执行过程](https://juejin.cn/post/7153601063542521886) | Wed Oct 12 2022 12:25 PM 
     <details><summary>展开描述 ...</summary> 
     面试题目&lpar;字节&rpar;： 答案解析： 以npm run start为例 最常见的就是&quot;start&quot;: &quot;vue-cli-service serve&quot;， 执行过程： npm会创建一个shell脚本; 在she 
     </details> 
 
-- 🕯 [【第19题】vue for循环中key有什么作用](https://juejin.cn/post/7153599908484743176) | Wed Oct 12 2022 12:24 PM 
+- 🚀 [【第19题】vue for循环中key有什么作用](https://juejin.cn/post/7153599908484743176) | Wed Oct 12 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
     题目描述： 答案解析： 这道题目实际考察的是对虚拟dom对象中diff算法的理解。 diff算法的本质是：找出新旧两个虚拟dom对象之间的差异，目的是尽可能复用节点，提高性能。 key的主要作用就是在 
     </details> 
 
-- 🚀 [Eureka源码2-Eureka预备知识和核心类](https://juejin.cn/post/7153596448586596359) | Wed Oct 12 2022 12:10 PM 
+- 💪 [Eureka源码2-Eureka预备知识和核心类](https://juejin.cn/post/7153596448586596359) | Wed Oct 12 2022 12:10 PM 
     <details><summary>展开描述 ...</summary> 
     Eureka的Region和AZ概念，客户端核心类，服务端核心类功能和属性说明，Jersey通信矿建 
-    </details> 
-
-- 💪 [比监督学习做的更好：半监督学习](https://juejin.cn/post/7153593591363797023) | Wed Oct 12 2022 11:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    为什么半监督学习是机器学习的未来。 监督学习是人工智能领域的第一种学习类型。从它的概念开始，无数的算法，从简单的逻辑回归到大规模的神经网络，都已经被研究用来提高精确度和预测能力。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
