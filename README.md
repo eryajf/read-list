@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Board3 - 专注于web3的招聘平台](https://xinquji.com/posts/180353?utm_campaign=xinquji-rss) | Wed Oct 12 2022 8:09 AM 
+- 👀 [Shimmer - 1:1 ADHD 辅导，比其他方法便宜 5-10 倍](https://xinquji.com/posts/180425?utm_campaign=xinquji-rss) | Thu Oct 13 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-     专注于web3的招聘平台  
+     1:1 ADHD 辅导，比其他方法便宜 5-10 倍  
     </details> 
 
-- 🥷 [SaaS Weekly - 收件箱中最好的精选 SaaS 文章](https://xinquji.com/posts/180393?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:46 AM 
+- 🥷 [Emailify for Figma - 从 Figma 设计和导出可用于生产的 HTML 电子邮件](https://xinquji.com/posts/180424?utm_campaign=xinquji-rss) | Thu Oct 13 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     收件箱中最好的精选 SaaS 文章  
+     从 Figma 设计和导出可用于生产的 HTML 电子邮件  
     </details> 
 
-- 💼 [Interview Sandbox - 编码、编译、视频聊天、白板和 AI 助手](https://xinquji.com/posts/180392?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:44 AM 
+- 💼 [Top 200 Linkedin Creators Worldwide - 基于 ultime AI 的领英影响者名单](https://xinquji.com/posts/180423?utm_campaign=xinquji-rss) | Thu Oct 13 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     编码、编译、视频聊天、白板和 AI 助手  
+     基于 ultime AI 的领英影响者名单  
     </details> 
 
-- 🦅 [Dynamic Survey Builder - 构建可以在电子邮件中完成的调查](https://xinquji.com/posts/180391?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:42 AM 
+- 🦅 [Shoot YOUR Shot - AI Edition - 让你的推特被人工智能烤熟](https://xinquji.com/posts/180422?utm_campaign=xinquji-rss) | Thu Oct 13 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     构建可以在电子邮件中完成的调查  
+     让你的推特被人工智能烤熟  
     </details> 
 
-- 😺 [Fearless - 帮助企业家获得反馈的服务](https://xinquji.com/posts/180390?utm_campaign=xinquji-rss) | Wed Oct 12 2022 6:40 AM 
+- 😺 [Appcues Mobile - 在几分钟而不是几周内提高您的移动采用率](https://xinquji.com/posts/180421?utm_campaign=xinquji-rss) | Thu Oct 13 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     帮助企业家获得反馈的服务  
+     在几分钟而不是几周内提高您的移动采用率  
     </details> 
 <!-- xinquji:END -->
