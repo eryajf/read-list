@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Future与FutureTask](https://juejin.cn/post/7153555967160877064) | Wed Oct 12 2022 9:30 AM 
+- 🤗 [小册上新｜ 点亮你的 Redis 7 技能树，轻松晋升为行业技术大牛](https://juejin.cn/post/7153549264889593863) | Wed Oct 12 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-    Future Future就是对于具体的Runnable或者Callable任务的执行结果进行取消、查询是否完成、获取结果等操作。必要时可以通过get方法获取执行结果，该方法会阻塞直到任务返回结果。  
+    知晓 Redis 的线程模型，才能真正理解为什么在生产环境中不能用 HGETALL 命令进行查询；学习了 Lua 脚本的知识，才能基于 Redis 设计出一个可用的分布式锁 
     </details> 
 
-- 🎡 [jvm运行时数据区及线程](https://juejin.cn/post/7153555263859982349) | Wed Oct 12 2022 9:28 AM 
+- 🎡 [el-table 虚拟滚动](https://juejin.cn/post/7153537820622241806) | Wed Oct 12 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 运行时数据区（Runtime Data Area）： calss文件通过类加载器加载（load、link、initialize）到内存当中，这个内存就是属于运行时数据区， 
+    el-table 虚拟滚动el-table 虚拟滚动el-table 虚拟滚动el-table 虚拟滚动el-table 虚拟滚动el-table 虚拟滚动el-table 虚拟滚动el-tablee 
     </details> 
 
-- 🕯 [有哪些适合程序员看的网站？](https://juejin.cn/post/7153529332332232712) | Wed Oct 12 2022 7:47 AM 
+- 🕯 [Android FFmpeg音视频解码播放](https://juejin.cn/post/7153534274744877087) | Wed Oct 12 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    程序员网站大汇总，除了技术提升、算法刷题、课程学习、电子书籍的网站，还有兼职副业平台！ 一、技术提升 GitHub 程序员托管代码的平台，很多开发者都会在上面找各种各样的开源项目来学习 
+    前言 看到很多都对音视频这块非常的感兴趣，接下来就长篇赘述一下音视频的前前后后，应该从明天开始从音视频的初中高三个层次展开浅谈🤣 本文分别为： FFmpeg简介 FFmpeg音视频解码播放 Clang 
     </details> 
 
-- 🚀 [前端性能-首次加载优化70%](https://juejin.cn/post/7153527700286603300) | Wed Oct 12 2022 7:41 AM 
+- 🚀 [Docker系列学习&lpar;14&rpar; -- 容器内镜像分层详解](https://juejin.cn/post/7153533328300179487) | Wed Oct 12 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-    打包体积优化！！！优化一半！！首次加载速度优化！！优化一半！！要让我们的项目fast fast fast！！ 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第14天，点击查看活动详情 生命不息，学习不止 题外话 今天又是阳光明媚的一天，已经上了五天班了，明天就应该能放假了吧，然而并不能 
     </details> 
 
-- 💪 [Koordinator v0.7: 为任务调度领域注入新活力](https://juejin.cn/post/7153526019897425956) | Wed Oct 12 2022 7:34 AM 
+- 💪 [10 张图 | 一文带你用 Mac M1 跑 RocketMQ](https://juejin.cn/post/7153532688110977038) | Wed Oct 12 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-    在这个版本中着重建设了机器学习、大数据场景需要的任务调度能力，例如 Coscheduling、ElasticQuota 和精细化的 GPU 共享调度能力。并在调度问题诊断分析方面得到了增强，重调度器也 
+    我正在参加「掘金·启航计划」 这是悟空的第 166 篇原创文章 你好，我是悟空。 本文主要内容如下： 目录 前言 最近在倒腾RocketMQ消息队列，首先就得把 RocketMQ 跑起来对吧，我们一般 
     </details> 
 <!-- juejin:END -->
 ### 少数派
