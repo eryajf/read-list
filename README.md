@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [抖音集团上线新 LOGO](https://www.cnbeta.com/articles/tech/1326309.htm) | Wed Oct 12 2022 7:24 AM 
+- 🕯 [法国零售商已接受英特尔Arc A750/A770预订 售价379.99/439.99欧元](https://www.cnbeta.com/articles/tech/1326333.htm) | Wed Oct 12 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;近日，抖音集团目前已上线新 LOGO，抖音集团在其抖音、微信公众号的账号头像均已完成更换。&lt;/strong&gt;据香港公司注册处网站显示，5月6日，字节跳动（香港）有限公司已更名为抖音集团&lpar;香港&rpar;有限公司，公司性质为私人股份有限公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔 Arc A7 系列独显即将在数小时后发售，不过某些欧洲零售商已经提前放出产品页面，并接受用户订单。法国运营商 Topachat 和 LDLC 已经接受 Arc A770 和 A750 两款显卡的预订，A770 的售价为 439.99 欧元，A750 的售价为 379.99 欧元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [腾讯地图PC端将于11月11日停止服务 手机App正常运营](https://www.cnbeta.com/articles/tech/1326307.htm) | Wed Oct 12 2022 7:20 AM 
+- 💼 [[图]Android端Vivaldi 5.5发布：优化欢迎流程 自定义标签自动关闭时间](https://www.cnbeta.com/articles/tech/1326331.htm) | Wed Oct 12 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;腾讯有一项业务终止了！&lt;strong&gt;腾讯地图今日在网页版弹窗公告称，PC端将于11月11日停止服务。&lt;/strong&gt;不过并不是地图服务直接被砍，手机App还在正常运营中，官方也在公告中推荐下载腾讯地图App。&lt;/strong&gt;另外，在今年5月份，被腾讯收购的搜狗旗下搜狗地图也已经正式下线，当时官网就是被腾讯地图PC端的网址取代。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Vivaldi 是一款知名的免费跨平台浏览器。&lt;a href=&quot;https://vivaldi.com/press/vivaldi-on-android-introduces-new-welcome-flow-and-auto-closing-of-inactive-tabs/&quot; target=&quot;_blank&quot;&gt;该团队今天宣布了适用于 Android 平台的 Vivaldi 5.5 版本更新&lt;/a&gt;，在优化性能之外带来了全新的启动体验，让新用户更容易了解该浏览器的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《传奇》公司胜诉 一公司承担4.8亿元债务连带责任](https://www.cnbeta.com/articles/tech/1326305.htm) | Wed Oct 12 2022 7:19 AM 
+- 💂 [飞船方向盘版特斯拉中国交付在即：百万起步，免购置税，不装任何雷达](https://www.cnbeta.com/articles/tech/1326329.htm) | Wed Oct 12 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，恺英网络公告称收到上海高院《民事判决书》，&lt;strong&gt;上海恺英网络科技有限公司对浙江欢游网络科技有限公司在（2019）京04执172号执行裁定书项下的4.8亿元债务承担连带清偿责任。&lt;/strong&gt;恺英网络表示，本次上海高院二审判决已生效，&lt;strong&gt;公司尊重上海高院就本案作出的二审判决，但并不认同本案结论。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;终于，等了一年多时间，特斯拉Model S/X即将在中国开启交付。极具科幻感的太空飞船式——方形方向盘、更加直观方便的液晶仪表、为游戏娱乐而进一步优化的横向中控大屏，统统成为了现实。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [因日本女乒输球太快致录像失败 《间谍过家家》引网友不满](https://hot.cnbeta.com/articles/comic/1326303.htm) | Wed Oct 12 2022 7:19 AM 
+- 🚀 [PS5缺货还涨价 大量日本玩家购买游戏PC转投Steam](https://hot.cnbeta.com/articles/game/1326327.htm) | Wed Oct 12 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，TV动画《间谍过家家》第14话的开播时间更改，导致大量观众没能成功录制电视录像，引发了日本网友的不满。动画第14集原本计划日本当天23点播出，因东京电视台插播世乒赛而推迟至23点50分。不料中国女乒3：0击败日本女乒，比赛结束太快，动画又改到23点26分播放，这就导致许多日本观众设定的定时录像没有完整录下动画。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1326303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由于疫情等各种原因，索尼的PS5主机自发售至今始终处于供货不足的状态，今年9月时官方还涨价，近日有日本分析师表示，不少实际调查数据都显示正在有大量的日本玩家购买高性能游戏PC转投Steam阵营。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [凛冬将至，能源危机或使欧洲汽车产量损失数百万辆](https://www.cnbeta.com/articles/tech/1326297.htm) | Wed Oct 12 2022 7:12 AM 
+- 🎊 [Wear OS会像Android一样每年发布一次重大更新](https://www.cnbeta.com/articles/tech/1326325.htm) | Wed Oct 12 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;因欧洲地区迫在眉睫的能源危机将给供应链带来压力，从本季度开始到2023年底，欧洲汽车制造商每季度的产量可能都会下降逾100万辆。一家汽车市场预测机构表示，从今年11月到明年春天，零部件短缺和供应瓶颈可能是欧洲汽车制造商最沉重的负担，尤其是在寒冷的冬季，能源供应减少的情况下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;数日前，Google 发布了 Pixel Watch，官方承诺这款手表将获得至少 3 年的 Wear OS 系统更新。那么对于像三星这样非官方的 Wear OS 手表又会如何呢？&lt;strong&gt;Wear OS 产品经理比约恩·基尔本（Björn Kilburn）在接受《&lt;a href=&quot;https://www.wired.com/story/google-wear-os-3-pixel-watch-software/&quot; target=&quot;_blank&quot;&gt;Wired&lt;/a&gt;》采访时透露 Google 计划像手机端一样每年发布 Wear OS 更新。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
