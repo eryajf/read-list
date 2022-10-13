@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [一日一技 | 怎样将 iPhone 备份保存到 Mac 的外部存储设备](https://sspai.com/post/76016) | Thu Oct 13 2022 6:22 AM 
+- 👹 [一度成为「网红爆款」的 CCD 相机，它拍照真的更好看吗？](https://sspai.com/post/76138) | Thu Oct 13 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    在怀念那个时代过去的同时，就让它们随着时间慢慢被遗忘在时间的长河里吧。&lt;a href=&quot;https://sspai.com/post/76138&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [一日一技 | 怎样将 iPhone 备份保存到 Mac 的外部存储设备](https://sspai.com/post/76016) | Thu Oct 13 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76016&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [獭可派 | 远离职业病，我们换一种方式办公](https://sspai.com/post/76155) | Thu Oct 13 2022 2:27 AM 
+- 🤭 [獭可派 | 远离职业病，我们换一种方式办公](https://sspai.com/post/76155) | Thu Oct 13 2022 2:27 AM 
     <details><summary>展开描述 ...</summary> 
     Prime订阅会员请由通知中心系统消息处领取专属优惠券。Prime订阅会员请由通知中心系统消息处领取专属优惠券。Prime订阅会员请由通知中心系统消息处领取专属优惠券。Prime订阅会员请由通知中心系 ...&lt;a href=&quot;https://sspai.com/post/76155&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：微软召开新品发布会、三星召开 SDC22 开发者大会等](https://sspai.com/post/76153) | Thu Oct 13 2022 12:53 AM 
+- 🥸 [派早报：微软召开新品发布会、三星召开 SDC22 开发者大会等](https://sspai.com/post/76153) | Thu Oct 13 2022 12:53 AM 
     <details><summary>展开描述 ...</summary> 
     索尼发布新款 HT 系列高端回音壁音响、宝马计划将休闲游戏引入新车系等。&lt;a href=&quot;https://sspai.com/post/76153&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [软硬上新菜，AI 作甜点：微软秋季硬件发布会回顾](https://sspai.com/post/76152) | Wed Oct 12 2022 11:00 PM 
+- 🙉 [软硬上新菜，AI 作甜点：微软秋季硬件发布会回顾](https://sspai.com/post/76152) | Wed Oct 12 2022 11:00 PM 
     <details><summary>展开描述 ...</summary> 
     除了三款新硬件，微软这次也结合 Windows 11、AI 创造工作工具与 Microsoft 365 服务带来了不一样的新东西。&lt;a href=&quot;https://sspai.com/post/76152&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [城市漫步指南：北海道的夏日浪漫](https://sspai.com/post/76091) | Wed Oct 12 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    突发奇想的旅行8月的东京，酷暑难耐。伴随着高温天气的是愈来愈严重的新冠疫情，每天都有上万的人被感染。因此，我们开启了「东京逃离计划」。我们的第一站是濑户内海，领略了一番荒岛风情后，整个人也被太阳晒黑了 ...&lt;a href=&quot;https://sspai.com/post/76091&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
