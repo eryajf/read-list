@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JS装饰器的实现原理](https://juejin.cn/post/7153833151217795080) | Thu Oct 13 2022 3:27 AM 
+- 🤗 [Go 语言官方依赖注入工具 Wire 使用指北、签约文章专栏推荐｜掘金一周 10.13](https://juejin.cn/post/7153840551148978207) | Thu Oct 13 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在使用TS+Vue的开发模式，发现项目中大量使用了装饰器，看得我手足无措，今天特意研究一下实现原理，方便自己理解这块知识点。 装饰器的常见作用 装饰一个类的属性 装饰一个类 装饰器只能针对类和类的 
+    【掘金一周 10.13】本期看点：Redis 持久化策略浅析、初探自然语言预训练技术演进之路、签约文章专栏来了！ 
     </details> 
 
-- 🎡 [给社区开发者的 App Review 建议（一）](https://juejin.cn/post/7153827702322462727) | Thu Oct 13 2022 3:05 AM 
+- 🎡 [【代码大全】精华总结之模块化设计&lpar;7&rpar;](https://juejin.cn/post/7153840389315788830) | Thu Oct 13 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-    前阵子我们开展了一次问卷调查，收集了读者朋友们关于 App Review 的一些问题。首先非常感谢大家配合参与问卷调查的，近期我们也组织了几个对 App Review 有相当经验的老司机来做了专题交流 
+    目的 继续 阅读 继续输出 模块化设计的目标是使每个子程序都成为一个“黑盒子”，你知道进入盒子和从盒子里出来的是什么，却不知道里边发生什么。它的接口非常简单，功能明确，对任何一个特定的输入, 第六章  
     </details> 
 
-- 🕯 [Serverless架构演进与实践](https://juejin.cn/post/7153826580416954381) | Thu Oct 13 2022 3:01 AM 
+- 🕯 [Axure RP 教程，如何在 Axure RP 中制作交互式应用导航框架？](https://juejin.cn/post/7153836319066554398) | Thu Oct 13 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Serverless的全称是Serverless computing无服务器运算，又被称为函数即服务（Function-as-a-Service，缩写为 FaaS），是云计算的一种模型。 
+    欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中制作交互式应用导航框架。 
     </details> 
 
-- 🚀 [MobTech短信验证常见问题](https://juejin.cn/post/7153824669194256415) | Thu Oct 13 2022 2:53 AM 
+- 🚀 [Fleet 公测版已放出，Jetbrains 下一代分布式代码编辑器抢先体验](https://juejin.cn/post/7153835287066443790) | Thu Oct 13 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-    短信验证码SDK，为开发者提供全球通用的短信验证码工具，开发者可以用其在App植入短信验证码SDK、简单设置即可短信验证，集成快速便捷，且后期易于管理。 
+    Fleet 公测版已放出，Jetbrains 下一代分布式代码编辑器抢先体验 今天早上一醒来就收到了 Jetbrains 的邮件，原来是之前预约了很久的 Fleet 编辑器终于发布了公测版 
     </details> 
 
-- 💪 [10分钟教你写一个数据库](https://juejin.cn/post/7153820264587853838) | Thu Oct 13 2022 2:36 AM 
+- 💪 [红袖添香,绝代妖娆,Ruby语言基础入门教程之Ruby3基础数据类型&lpar;data types&rpar;EP02](https://juejin.cn/post/7153831785032319013) | Thu Oct 13 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-    今天教大家借助一款框架快速实现一个数据库，这个框架就是Calcite，下面会带大家通过两个例子快速教会大家怎么实现，一个是可以通过 SQL 语句的方式可以直接查询文件内容，第二个是模拟 Mysql 查 
+    Ruby是强类型静态语言，即Ruby中一旦某一个对象被定义类型，如果不通过强制转换操作，那么它永远就是该数据类型，并且只有在Ruby解释器运行时才会检测对象数据类型，它的一切皆为对象 
     </details> 
 <!-- juejin:END -->
 ### 少数派
