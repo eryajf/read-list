@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [导致蛀牙的微生物能够在牙齿上形成超级有机体](https://www.cnbeta.com/articles/science/1326857.htm) | Thu Oct 13 2022 1:46 PM 
+- 🕯 [Outlook将很快支持对邮件作出表情反应而不发送回复](https://www.cnbeta.com/articles/tech/1326863.htm) | Thu Oct 13 2022 2:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一段时间以来，人们如何通过电子邮件进行互动已经有点僵化，从如何发送电子邮件到撰写回复。虽然说清楚并确保将信息信息正确地转达给收件人是极其必要的，但在有些情况下，回应可能显得有些多余了。根据微软365路线图，用户可能很快就能在Outlook中只需点击一下就用最简单的方式能对邮件做出反应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [科学家捕捉到一个黑洞在打嗝的时候把三年前吸入的恒星吐出](https://www.cnbeta.com/articles/science/1326861.htm) | Thu Oct 13 2022 2:07 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;之前的观测发现，黑洞虽然引力大到光线都无法逃脱，但它在吞噬恒星时实际上会打嗝。但是，让科学家们没有想到的是，他们发现一个黑洞在吞噬了一颗恒星三年后开始&amp;quot;打嗝&amp;quot;，竟然把一颗碎裂的恒星残骸吐出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [火狐新服务为用户提供虚拟电话号码以减少垃圾电话和短信](https://www.cnbeta.com/articles/tech/1326859.htm) | Thu Oct 13 2022 1:59 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Firefox Relay是Mozilla的一项服务，旨在提供虚拟的电子邮件地址来隐藏你的真实电子邮件地址，&lt;strong&gt;现在它正在将服务扩展到提供虚拟电话号码。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [导致蛀牙的微生物能够在牙齿上形成超级有机体](https://www.cnbeta.com/articles/science/1326857.htm) | Thu Oct 13 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据牙科医学院科学家领导的研究，&lt;strong&gt;这些多细胞、跨领域的集合体对抗菌剂和清除的抵抗力更强&lt;/strong&gt;，并且比它们的单一物种等价物造成更广泛的牙齿腐烂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [一加N300将于下个月在北美推出 快速充电功率提升到33W](https://www.cnbeta.com/articles/tech/1326855.htm) | Thu Oct 13 2022 1:32 PM 
+- 🎊 [一加N300将于下个月在北美推出 快速充电功率提升到33W](https://www.cnbeta.com/articles/tech/1326855.htm) | Thu Oct 13 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;OnePlus透露了关于其即将推出的Nord N300的一些细节，首先是一个在入门级别中机型中很少见的规格：33W快速有线充电。公司发言人Spenser Blank说，该设备将于下个月在北美上市，它将在那里从销售情况非常好的OnePlus N200机型手里接过衣钵。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [又有报告再次确认上周发布的iPhone 14 Plus销量&quot;低于预期&quot;](https://www.cnbeta.com/articles/tech/1326853.htm) | Thu Oct 13 2022 1:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在iPhone 14 Plus发布后不到一周，又出现了一份关于iPhone 14和iPhone 14 Plus销量意外下降的报告，表明苹果可能最快在本月主动减少设备的库存和部件订单。DigiTimes的付费报告称，iPhone 14和iPhone 14 Plus的销售被iPhone 14 Pro和iPhone 14 Pro Max的&amp;quot;热烈&amp;quot;反应大大掩盖了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [鸡蛋灌饼摊主撞脸周杰伦成网红：自我调侃“周饼伦”](https://hot.cnbeta.com/articles/funny/1326851.htm) | Thu Oct 13 2022 1:27 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近20年的华语流行音乐发展中，周杰伦靠着出色的才华留下了浓墨重彩的一笔。周杰伦走红后，模仿其声音、发型乃至相貌的人层出不穷。当然，也有一些“老天爷赏饭”的天然存在。据星视频报道，日前在河北保定，网友们发现一位长得酷似周杰伦的鸡蛋灌饼摊主。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1326851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Intel下下下下代至强曝光：革命性的PCIe 6.0第一次落地](https://www.cnbeta.com/articles/tech/1326849.htm) | Thu Oct 13 2022 1:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;桌面上，Intel早早就公布了Meteor Lakke 14代酷睿、Arrow Lake 15代酷睿、Lunar Lake 16代酷睿、Nova Lake 17代酷睿……在服务器数据中心，Intel可扩展至强也是公开了长期路线图，包括&lt;strong&gt;第四代Sapphire Rapids&lpar;Intel 7工艺&rpar;、第五代Dmerald Rapids&lpar;Intel 7工艺&rpar;、第六代Granite Rapids/Sierra Forest&lpar;Intel 3工艺/后者大小核&rpar;、第七代Diamond Rapids。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
