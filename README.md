@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [visual studio 有只复制错误描述的功能吗？](https://www.v2ex.com/t/886676#reply0) | Thu Oct 13 2022 8:27 AM
-- 🤗 [邀请：创建一个以数据安全为主题的中文播客节目 #8](https://www.v2ex.com/t/886667#reply0) | Thu Oct 13 2022 8:05 AM
+- 🥸 [求助，删除不了绑定在谷歌上的信用卡](https://www.v2ex.com/t/886685#reply0) | Thu Oct 13 2022 8:46 AM
+- 🤗 [visual studio 有只复制错误描述的功能吗？](https://www.v2ex.com/t/886676#reply0) | Thu Oct 13 2022 8:27 AM
 - 🎭 [WPF 使用 DrawingContext 绘制刻度条](https://www.v2ex.com/t/886665#reply0) | Thu Oct 13 2022 7:53 AM
 - 🥷 [@Google 翻译, Are u ok? Thank you very much!](https://www.v2ex.com/t/886662#reply0) | Thu Oct 13 2022 7:49 AM
-- 🐵 [为什么国外一个小公司做出来的东西，大公司会买账？](https://www.v2ex.com/t/886657#reply12) | Thu Oct 13 2022 7:36 AM<!-- v2ex:END -->
+- 🐵 [为什么国外一个小公司做出来的东西，大公司会买账？](https://www.v2ex.com/t/886657#reply16) | Thu Oct 13 2022 7:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
