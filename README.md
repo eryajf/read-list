@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [印度启动5G网络引发网络诈骗 孟买警方发出警告](https://www.cnbeta.com/articles/tech/1326687.htm) | Thu Oct 13 2022 6:00 AM 
+- 🕯 [GeForce 522.25 Game Ready驱动更新 提到三款RTX 30显卡新品](https://www.cnbeta.com/articles/tech/1326751.htm) | Thu Oct 13 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在印度总理纳伦德拉·莫迪（Narendra Modi）于 10 月 1 日宣布在印度启动 5G 服务之后，5G 网络正分阶段在印度缓慢推出。&lt;strong&gt;在带来更快的网络体验同时，在印度也出现了各种诈骗活动。孟买警方发布最新警告：欺诈者以提供 5G 升级指南为由进行欺骗。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326687.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在今日放出的 522.25 Game Ready 图形驱动程序中，&lt;strong&gt;英伟达不仅带来了针对 GeForce RTX 4090 的最新优化，还包含了新款 RTX 3070 Ti（16GB GDDR6X）和 RTX 3060（8GB GDDR6）SKU 。&lt;/strong&gt;在接到 westlake 爆料后，VideoCardz 对 nv.dispig.inf 文件展开了深入调查，结果发现了三款新型号显卡的设备 ID 。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326751.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [消息称日本投资基金JIP正寻求与多家日本公司合作收购东芝](https://www.cnbeta.com/articles/tech/1326685.htm) | Thu Oct 13 2022 5:58 AM 
+- 💼 [全新丰田凯美瑞效果图曝光](https://www.cnbeta.com/articles/tech/1326749.htm) | Thu Oct 13 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月13日消息，据国外媒体报道，&lt;strong&gt;知情人士称，日本私募股权公司“日本产业合作伙伴”（Japan Industrial Partners，简称JIP）正寻求与多家日本公司合作收购半导体制造商东芝。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326685.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，有海外媒体曝光了一组全&lt;strong&gt;新一代丰田凯美瑞&lt;/strong&gt;的效果图。从图片来看，全新美瑞或将采用与新一代丰田皇冠Crossover相似的设计思路，前进气格删采用了大嘴式的造型，狭长的前大灯拥有LED光源，就样式来讲，&lt;strong&gt;与比亚迪汉似乎也有很多相似之处&lt;/strong&gt;，将丰田牛头标更换为“汉”倒也不违和。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [ESA分享太阳轨道器捕捉的新太阳旋转画面](https://www.cnbeta.com/articles/science/1326683.htm) | Thu Oct 13 2022 5:52 AM 
+- 💂 [男子下班遇领导按住电梯要求加班 当事人：不害怕被开除](https://www.cnbeta.com/articles/tech/1326747.htm) | Thu Oct 13 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;欧洲的太阳轨道器在其在太阳活动加强情况下进行的最近接近时捕捉到了太阳系中心恒星的惊人镜头。操作该航天器的欧航局&lpar;ESA&rpar;在当地时间周三航天器最接近或近日点的当天发布了这一画面。这些图像显示了太阳轨道器在9月20日和周一（10月10日）之间对这颗恒星进行的20天的观测。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月13日消息，据后浪视频报道，&lt;strong&gt;浙江杭州李先生反映，他下午6点半下班遇上领导，被按住电梯拦住要求回去加班。&lt;/strong&gt;李先生称，领导说他任务没完成，大家都在加班，质问他怎么好意思下班的。&lt;strong&gt;随后他坚持离开，被领导单独发微信私聊批评。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果开始销售官方翻新的 Studio Display 型号](https://www.cnbeta.com/articles/tech/1326681.htm) | Thu Oct 13 2022 5:48 AM 
+- 🚀 [新游唱出来 索尼“One Room Playground”宣传片](https://hot.cnbeta.com/articles/game/1326745.htm) | Thu Oct 13 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果公司今天开始在美国提供翻新的Studio Display型号，自2022年3月推出以来，该显示器首次以较低的价格出售。&lt;/strong&gt;Studio Display有多个型号可供购买，包括带有可倾斜调节支架的基本型号和带有纳米纹理玻璃的型号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（10月13日），PS日本公开全新宣传片“One Room Playground”（ぷにぷに電機×パソコン音楽クラブ），通过歌曲介绍《最终幻想16》、《战神诸神黄昏》等21款即将上线或已经上线PS4/PS5平台的新游阵容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [亲自到店卖了一台车 余承东称把汽车玩明白了](https://www.cnbeta.com/articles/tech/1326679.htm) | Thu Oct 13 2022 5:43 AM 
+- 🎊 [外媒：亚马逊将关闭虚拟旅游业务“Amazon Explore”](https://www.cnbeta.com/articles/tech/1326743.htm) | Thu Oct 13 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国庆假期期间，华为智能汽车解决方案BU CEO余承东，接受了汽车博主“吴佩”的采访，在节目中，余承东表达不少他对问界汽车的看法，并且还亲自到华为零售店，卖出了一台问界M7。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月13日消息，据外媒报道，&lt;strong&gt;为降低成本，亚马逊正在关闭一项名为“Amazon Explore”的虚拟旅游业务。&lt;/strong&gt;亚马逊方面在一份声明中表示: “亚马逊始终在试验和测试类似于Amazon Explore的想法。虽然我们将逐步终止这一服务，但我们将通过继续创新和投资的方式来满足用户。在此过渡时期，我们正在为受影响的员工提供支持，并努力在亚马逊内部寻找其他机会。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
