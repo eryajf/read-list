@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Outlook将很快支持对邮件作出表情反应而不发送回复](https://www.cnbeta.com/articles/tech/1326863.htm) | Thu Oct 13 2022 2:19 PM 
+- 🕯 [谷歌3D视频通话亭Project Starline将在现实世界中进行测试](https://www.cnbeta.com/articles/tech/1326871.htm) | Thu Oct 13 2022 3:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;当Meta公司试图说服消费者戴上它的VR头盔进入metaverse时，谷歌继续试验一种不同的虚拟现实：它的全息视频聊天项目被称为Project Starline。&lt;/strong&gt;去年宣布的Project Starline是一个视频通话亭，它使用3D图像、高分辨率相机、定制的深度传感器和突破性的光场显示，为屏幕两边的通话者创造了逼真的体验，而且所有这些都不需要头显。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [“全面叫停新设网络小贷”并非新说法 互联网贷款监管正处深水区](https://www.cnbeta.com/articles/tech/1326869.htm) | Thu Oct 13 2022 3:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最近，针对互联网贷款问题，银保监会在人民网“领导留言板”上的一则回复引起广泛关注，其中最关键的说法是：“全面叫停新设网络小额贷款从业机构”。事实上，类似说法早在2017年就有文件提及，之后未有明确放开信号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Sandmarc为Apple Watch Ultra制作钛合金版表带](https://www.cnbeta.com/articles/tech/1326867.htm) | Thu Oct 13 2022 3:06 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;以摄影配件闻名的Sandmarc公司为Apple Watch Ultra推出了一款钛金属表带。这款产品由二级纯级钛制成，耐腐蚀和耐氧化，材质决定了这是一款轻巧的表带，极高的强度也适合在旅途中冒险，颜色可以完美配合Apple Watch Ultra的表面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [老黄撒谎了 NVIDIA SLI还活着？](https://www.cnbeta.com/articles/tech/1326865.htm) | Thu Oct 13 2022 3:03 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;RTX 40系列发布会，黄仁勋亲口确认，新架构已经彻底移除NVLink互连模块，意味着不再可能多卡互连，SLI从此成为历史名词。随着非公版RTX 4090的解禁上市，我们发现，这次确实没有了NVLink桥接金手指，似乎一切已经尘埃落定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [Outlook将很快支持对邮件作出表情反应而不发送回复](https://www.cnbeta.com/articles/tech/1326863.htm) | Thu Oct 13 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一段时间以来，人们如何通过电子邮件进行互动已经有点僵化，从如何发送电子邮件到撰写回复。虽然说清楚并确保将信息信息正确地转达给收件人是极其必要的，但在有些情况下，回应可能显得有些多余了。根据微软365路线图，用户可能很快就能在Outlook中只需点击一下就用最简单的方式能对邮件做出反应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [科学家捕捉到一个黑洞在打嗝的时候把三年前吸入的恒星吐出](https://www.cnbeta.com/articles/science/1326861.htm) | Thu Oct 13 2022 2:07 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;之前的观测发现，黑洞虽然引力大到光线都无法逃脱，但它在吞噬恒星时实际上会打嗝。但是，让科学家们没有想到的是，他们发现一个黑洞在吞噬了一颗恒星三年后开始&amp;quot;打嗝&amp;quot;，竟然把一颗碎裂的恒星残骸吐出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326861.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [火狐新服务为用户提供虚拟电话号码以减少垃圾电话和短信](https://www.cnbeta.com/articles/tech/1326859.htm) | Thu Oct 13 2022 1:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Firefox Relay是Mozilla的一项服务，旨在提供虚拟的电子邮件地址来隐藏你的真实电子邮件地址，&lt;strong&gt;现在它正在将服务扩展到提供虚拟电话号码。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326859.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [导致蛀牙的微生物能够在牙齿上形成超级有机体](https://www.cnbeta.com/articles/science/1326857.htm) | Thu Oct 13 2022 1:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据牙科医学院科学家领导的研究，&lt;strong&gt;这些多细胞、跨领域的集合体对抗菌剂和清除的抵抗力更强&lt;/strong&gt;，并且比它们的单一物种等价物造成更广泛的牙齿腐烂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [一加N300将于下个月在北美推出 快速充电功率提升到33W](https://www.cnbeta.com/articles/tech/1326855.htm) | Thu Oct 13 2022 1:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;OnePlus透露了关于其即将推出的Nord N300的一些细节，首先是一个在入门级别中机型中很少见的规格：33W快速有线充电。公司发言人Spenser Blank说，该设备将于下个月在北美上市，它将在那里从销售情况非常好的OnePlus N200机型手里接过衣钵。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
