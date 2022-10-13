@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [UData查询引擎优化-如何让一条SQL性能提升数倍](https://juejin.cn/post/7153657655104536583) | Wed Oct 12 2022 4:06 PM 
+- 🤗 [多摄像头实时目标跟踪和计数，使用YOLOv4，Deep SORT和Flask](https://juejin.cn/post/7153804449171898376) | Thu Oct 13 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第14天，点击查看活动详情1 UData-解决数据使用的最后一公里1.1 背景在大数据的范畴，我们经历了数据产业化的历程，从各个生 
+    使用DETRAC训练带有v3标注的数据集训练了YOLOv4和Deep SORT模型。我提供了将DETRAC训练图像和v3标注转换为正确格式的脚本，用于训练YOLOv4模型和Deep SORT跟踪模型。 
     </details> 
 
-- 🎡 [Android中高级进阶开发面试题冲刺合集（九）【完结篇】](https://juejin.cn/post/7153610945028161566) | Wed Oct 12 2022 1:05 PM 
+- 🎡 [Vue3 组件库 | Varlet v2.0.0 发布了 🎉🎉🎉](https://juejin.cn/post/7153688517120851975) | Wed Oct 12 2022 6:06 PM 
     <details><summary>展开描述 ...</summary> 
-    本文主要针对往期收录的面试题进行一个分类归纳整理，方便统一回顾和参考。本篇是面试题的第九集【完结篇】~ 
+    写在前面 经过了社区贡献者们的两个月努力，Varlet 的 2.0 版本终于发布了！ 🎉🎉🎉，这次版本更新主要是对组件库整体做了一次重构和细节优化，同时撇去了一些技术债务&lpar;舒服了舒服了&rpar;。主要的变更看 
     </details> 
 
-- 🕯 [【第20题】npm run xxx 的执行过程](https://juejin.cn/post/7153601063542521886) | Wed Oct 12 2022 12:25 PM 
+- 🕯 [【前端&amp;运维那点事儿】三：详解Linux中的用户和用户组](https://juejin.cn/post/7153680439121543182) | Wed Oct 12 2022 5:37 PM 
     <details><summary>展开描述 ...</summary> 
-    面试题目&lpar;字节&rpar;： 答案解析： 以npm run start为例 最常见的就是&quot;start&quot;: &quot;vue-cli-service serve&quot;， 执行过程： npm会创建一个shell脚本; 在she 
+    这篇文章来介绍一下Linux中的用户和组以及相关命令； Linux同Windows一样，都是多用户多任务的操作系统，在Linux中为了防止资源发生冲突，不同的用户拥有不同的权限，每个用户可以在权限允 
     </details> 
 
-- 🚀 [【第19题】vue for循环中key有什么作用](https://juejin.cn/post/7153599908484743176) | Wed Oct 12 2022 12:24 PM 
+- 🚀 [Element Plus 组件库相关技术揭秘：3.ESLint 核心原理剖析](https://juejin.cn/post/7153659360177029150) | Wed Oct 12 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
-    题目描述： 答案解析： 这道题目实际考察的是对虚拟dom对象中diff算法的理解。 diff算法的本质是：找出新旧两个虚拟dom对象之间的差异，目的是尽可能复用节点，提高性能。 key的主要作用就是在 
+    任何工具我们都只有理解它的原理才能真正地掌握它，所以下面我们将从 ESLint 的原理剖析开始吧。近半个月的啃源码的研究结果：ESLint 修复源码的方式居然仅是使用 slice 函数对源码进行截取替 
     </details> 
 
-- 💪 [Eureka源码2-Eureka预备知识和核心类](https://juejin.cn/post/7153596448586596359) | Wed Oct 12 2022 12:10 PM 
+- 💪 [[Android开发学iOS系列] 快速上手UIKit](https://juejin.cn/post/7153659635772162056) | Wed Oct 12 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
-    Eureka的Region和AZ概念，客户端核心类，服务端核心类功能和属性说明，Jersey通信矿建 
+    UIKit是苹果官方的framework, 其中包含了各种UI组件, window和view, 事件处理, 交互, 动画, 资源管理等基础设施支持.本文带你快速上手写代码. 
     </details> 
 <!-- juejin:END -->
 ### 少数派
