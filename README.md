@@ -348,14 +348,14 @@
     在20秒内拍摄热像图时，密码的还原率为86%；30秒内拍摄，密码的还原率为76%；60秒内拍摄，密码还原率为62%。 
     </details> 
 
-- 🪄 [Canary保护机制及绕过](https://www.freebuf.com/articles/system/346608.html) | Tue Oct 11 2022 1:27 PM 
+- 🪄 [十大 CICD 安全风险（三）](https://www.freebuf.com/articles/web/346624.html) | Wed Oct 12 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
-    本文是Canary保护机制及绕过一些学习心得，分享一下，以便大家学习。 
+    在上一篇文章，我们了解了依赖链滥用和基于流水线的访问控制不足这两大安全风险，并给出缓解风险的安全建议。本篇文章将着重介绍 PPE 风险，并提供缓解相关风险的安全建议与实践。Poisoned Pipeline Execution &lpar;PPE&rpar; 风险指的是攻击者能够访问源代码控制系统，但无法访问构建环境，通过将恶意代码/命令注入构建流水线配置来操纵构建过程，本质上是“中毒的”流水线和运行恶意代码作为构建 
     </details> 
 
-- 💻 [FreeBuf早报 | 奇虎和大疆被美方列入黑名单；英国建立“国防网络学院”](https://www.freebuf.com/news/346601.html) | Tue Oct 11 2022 11:11 AM 
+- 💻 [Canary保护机制及绕过](https://www.freebuf.com/articles/system/346608.html) | Tue Oct 11 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
-    五角大楼将奇虎 360、深圳大疆、北京知道创宇和中科曙光等 13 家中国公司列入黑名单。 
+    本文是Canary保护机制及绕过一些学习心得，分享一下，以便大家学习。 
     </details> 
 <!-- freebuf:END -->
 
