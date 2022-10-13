@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [2022产业观察 | 漏洞武器化，成为勒索软件锋利的“矛”](https://www.freebuf.com/articles/network/346683.html) | Wed Oct 12 2022 11:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们发现，勒索即服务（RaaS）愈加成熟，旧的恶意软件变体回归，新的变体不断发展，漏洞愈发武器化，勒索生态逐渐工业化。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 八种让人意想不到的数据泄露方式；VMware某漏洞一年仍未修补](https://www.freebuf.com/news/346650.html) | Wed Oct 12 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
     一个名为 Polonium的APT组织所使用新的自定义后门和工具，对以色列进行间谍活动。 
     </details> 
 
-- 🦄 [近一年时间过去了，VMware的这一漏洞仍悬而未决](https://www.freebuf.com/news/346632.html) | Wed Oct 12 2022 5:36 AM 
+- 🦅 [近一年时间过去了，VMware的这一漏洞仍悬而未决](https://www.freebuf.com/news/346632.html) | Wed Oct 12 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
     VMware于10月11日通知客户，vCenter Server 8.0仍在等待补丁来解决去年 11 月披露的高严重性特权提升漏洞。 
     </details> 
 
-- 🦅 [键盘残余热量可能泄露密码，20秒内拍下键盘热像图，密码泄露86%](https://www.freebuf.com/articles/database/346627.html) | Wed Oct 12 2022 3:55 AM 
+- 🪄 [键盘残余热量可能泄露密码，20秒内拍下键盘热像图，密码泄露86%](https://www.freebuf.com/articles/database/346627.html) | Wed Oct 12 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
     在20秒内拍摄热像图时，密码的还原率为86%；30秒内拍摄，密码的还原率为76%；60秒内拍摄，密码还原率为62%。 
     </details> 
 
-- 🪄 [十大 CICD 安全风险（三）](https://www.freebuf.com/articles/web/346624.html) | Wed Oct 12 2022 2:47 AM 
+- 💻 [十大 CICD 安全风险（三）](https://www.freebuf.com/articles/web/346624.html) | Wed Oct 12 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
     在上一篇文章，我们了解了依赖链滥用和基于流水线的访问控制不足这两大安全风险，并给出缓解风险的安全建议。本篇文章将着重介绍 PPE 风险，并提供缓解相关风险的安全建议与实践。Poisoned Pipeline Execution &lpar;PPE&rpar; 风险指的是攻击者能够访问源代码控制系统，但无法访问构建环境，通过将恶意代码/命令注入构建流水线配置来操纵构建过程，本质上是“中毒的”流水线和运行恶意代码作为构建 
-    </details> 
-
-- 💻 [Canary保护机制及绕过](https://www.freebuf.com/articles/system/346608.html) | Tue Oct 11 2022 1:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文是Canary保护机制及绕过一些学习心得，分享一下，以便大家学习。 
     </details> 
 <!-- freebuf:END -->
 
