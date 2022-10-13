@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [斯嘉丽·约翰逊感慨演艺生涯或将结束：长久以来被束缚在固定的形象框架中](https://hot.cnbeta.com/articles/movie/1326771.htm) | Thu Oct 13 2022 8:22 AM 
+- 🕯 [剧透警告 《黑亚当》片尾彩蛋超人登场](https://hot.cnbeta.com/articles/movie/1326779.htm) | Thu Oct 13 2022 9:20 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;DC超级英雄电影《黑亚当》将于10月21日登陆北美，不过该影片的片尾彩蛋已经曝光，亨利·卡维尔所饰演的超人登场。&lt;/strong&gt;多年来，巨石强森一直希望他饰演的黑亚当能和亨利·卡维尔饰演的超人来一次正面交锋，而在不久前接受采访，巨石强森甚至直言其拍摄《黑亚当》的“全部意义”就是为了能和超人打一架。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [微软Office即将淡出舞台 现重塑整合为Microsoft 365](https://www.cnbeta.com/articles/tech/1326777.htm) | Thu Oct 13 2022 9:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;微软正在重塑 Microsoft Office 品牌。在经过长达 30 多年的发展，&lt;strong&gt;Microsoft Office 更名为“Microsoft 365”&lt;/strong&gt;，以更好的提现这家软件巨头不断增长的生产力应用程序集。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Linux 6.1继续为LoongArch带来新的CPU功能特性](https://www.cnbeta.com/articles/tech/1326775.htm) | Thu Oct 13 2022 9:02 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;尽管 Linux 社区早就通过 5.19 合并引入了对 LoongArch CPU 的初步支持，但它仍未迈过可向公众推送的成熟期。在此期间，开发人员有在坚持为其填补功能特性上的短板 —— 比如在 Linux 6.0 中带来的 LoongArch PCI 支持和其它变动。&lt;strong&gt;现在，Linux 6.1 内核又为源自 MIPS64 和 RISC-V 的 LoongArch CPU 带来了新的附加功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Chrome新增“Memory Saver”功能：告诉你每个标签可释放多少内存](https://www.cnbeta.com/articles/tech/1326773.htm) | Thu Oct 13 2022 8:58 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Google 在努力改善 Chrome 节能表现的同时，也在积极改善这款浏览器的性能。近日，&lt;strong&gt;Google 为 Chrome 新增了性能页面，以帮助用户管理 Chrome 消耗的内存量以及它如何影响电池寿命。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [斯嘉丽·约翰逊感慨演艺生涯或将结束：长久以来被束缚在固定的形象框架中](https://hot.cnbeta.com/articles/movie/1326771.htm) | Thu Oct 13 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，据外媒报道，知名女演员斯嘉丽·约翰逊在一次播客采访中提到自己当前的职业生涯。目前已经37岁的她感慨自己的演员生涯或许快要结束了。斯嘉丽说到：“我的演艺生涯从七岁开始，在年轻的时候我就被贴上了‘过度性感’的标签并被束缚在这一框架之中，我曾一度认为我的银幕形象丧失了多样化的能力。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [“世界上第二好的电脑”又出了最新款](https://www.cnbeta.com/articles/tech/1326769.htm) | Thu Oct 13 2022 8:20 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;从2012年发布第一台 Surface 电脑，到2022年的今天，这个微软旗下的硬件品牌，终于迈过了十年大关。从市场份额来看，Surface 品牌仍然属于“小众”。即便如此，它的最大贡献就是引领了 Windows 消费电子产品的设计风潮，不仅为其它&amp;nbsp;OEM 品牌提供了参考，更让一批数量相当巨大、出于各种原因无法使用苹果电脑的用户，能够享受和 MacBook 水准相当，且最为“纯正”的微软设计和 Windows 产品体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326769.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [天文学家设计“早期预警”系统 在大质量恒星即将成为超新星时发出警报](https://www.cnbeta.com/articles/science/1326767.htm) | Thu Oct 13 2022 8:15 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;来自利物浦约翰摩尔斯大学和法国蒙彼利埃大学的天文学家设计了一个“早期预警”系统：当一颗大质量恒星即将在超新星爆炸中结束其生命时发出警报。&lt;/strong&gt;这项工作于10月13日发表在《&lt;a href=&quot;https://academic.oup.com/mnras/article/517/1/1483/6759199&quot; target=&quot;_self&quot;&gt;皇家天文学会月刊&lt;/a&gt;》上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [[图]国行Surface Pro 9/Laptop 5和Surface Studio 2+新品已上架预售](https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/) | Thu Oct 13 2022 8:07 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在今天召开的新品发布会上，微软正式推出了包括 Surface Laptop 5、Surface Studio 2 Plus 和 Surface Pro 9 在内的诸多新品。在发布会结束之后，&lt;strong&gt;微软中国官网已经放出了这些 Surface 新品的预售，将于今年 10 月 25 日陆续发货。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;访问:&lt;/strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://c.duomai.com/track.php?site_id=242986&amp;euid=&amp;t=https://www.microsoftstore.com.cn/&quot; style=&quot;text-decoration: underline; color: rgb&lpar;192, 0, 0&rpar;;&quot;&gt;&lt;span style=&quot;color: rgb&lpar;192, 0, 0&rpar;;&quot;&gt;&lt;strong&gt;微软中国在线商店&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://c.duomai.com/track.php?site_id=242986&amp;euid=&amp;t=https://www.microsoftstore.com.cn/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [亚太地区单机容量最大风电机组下线 单台机组每年可输出6350万度电](https://www.cnbeta.com/articles/tech/1326763.htm) | Thu Oct 13 2022 8:05 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月13日，&lt;strong&gt;我国自主研制的13.6兆瓦海上风电机组在福建三峡海上风电国际产业园下线。该机组是当前全球范围内叶轮直径最大、亚太地区单机容量最大的风电机组&lt;/strong&gt;，标志着我国海上风电大容量机组在高端装备研发制造能力上实现重要突破。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
