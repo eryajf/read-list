@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [台积电2nm工艺好于预期：功耗直降30% 2025年量产](https://www.cnbeta.com/articles/tech/1326835.htm) | Thu Oct 13 2022 12:45 PM 
+- 🕯 [导致蛀牙的微生物能够在牙齿上形成超级有机体](https://www.cnbeta.com/articles/science/1326857.htm) | Thu Oct 13 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天的财报会上，台积电不仅公布了Q3季度业绩，同时也透露了最新的工艺进展，3nm工艺的需求已经超过了预期，明年会满载量产，而2nm工艺也进度喜人，2025年量产。台积电在6月份正式公布了2nm工艺，并透露了一些技术细节，相比3nm工艺，&lt;strong&gt;在相同功耗下，2nm速度快10~15%；相同速度下，功耗降低25~30%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据牙科医学院科学家领导的研究，&lt;strong&gt;这些多细胞、跨领域的集合体对抗菌剂和清除的抵抗力更强&lt;/strong&gt;，并且比它们的单一物种等价物造成更广泛的牙齿腐烂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1326857.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [V12动力加身 法拉利首款SUV国内发布定档](https://www.cnbeta.com/articles/tech/1326833.htm) | Thu Oct 13 2022 12:43 PM 
+- 💼 [一加N300将于下个月在北美推出 快速充电功率提升到33W](https://www.cnbeta.com/articles/tech/1326855.htm) | Thu Oct 13 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;&lt;strong&gt;法拉利首款SUV&lt;/strong&gt;车型Purosangue将于10月24日在国内正式亮相&lt;/strong&gt;，该车此前在9月14日全球首发，但需要注意的是，新车在法拉利内部不被定义为SUV车型，而是FUV，意味“法拉利多功能车”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;OnePlus透露了关于其即将推出的Nord N300的一些细节，首先是一个在入门级别中机型中很少见的规格：33W快速有线充电。公司发言人Spenser Blank说，该设备将于下个月在北美上市，它将在那里从销售情况非常好的OnePlus N200机型手里接过衣钵。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326855.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [时隔18年！奥斯卡经典音乐电影 《放牛班的春天》有望11月内地重映](https://www.cnbeta.com/articles/tech/1326831.htm) | Thu Oct 13 2022 12:42 PM 
+- 💂 [又有报告再次确认上周发布的iPhone 14 Plus销量&quot;低于预期&quot;](https://www.cnbeta.com/articles/tech/1326853.htm) | Thu Oct 13 2022 1:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月13日消息，今日博主有爆料称，&lt;strong&gt;经典法国电影《放牛班的春天》发行通知释出有望重映，目前通知中透露的上映时间为2022年11月待映。&lt;/strong&gt;该片豆瓣评分9.3分，曾于2004年10月16日在中国内地上映。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在iPhone 14 Plus发布后不到一周，又出现了一份关于iPhone 14和iPhone 14 Plus销量意外下降的报告，表明苹果可能最快在本月主动减少设备的库存和部件订单。DigiTimes的付费报告称，iPhone 14和iPhone 14 Plus的销售被iPhone 14 Pro和iPhone 14 Pro Max的&amp;quot;热烈&amp;quot;反应大大掩盖了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326853.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [布鲁斯南：我有机会成为蝙蝠侠 但败于导演面前大放厥词](https://hot.cnbeta.com/articles/movie/1326829.htm) | Thu Oct 13 2022 12:42 PM 
+- 🚀 [鸡蛋灌饼摊主撞脸周杰伦成网红：自我调侃“周饼伦”](https://hot.cnbeta.com/articles/funny/1326851.htm) | Thu Oct 13 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;007硬汉皮尔斯·布鲁斯南如今入职DC宇宙，在《黑亚当》中出演知名反派命运博士。其实这位演员多年前有机会一步到位，代言DC核心角色布鲁斯·韦恩，但他自己搞砸了。布鲁斯南参加吉米秀时透露，他受邀面试89版《蝙蝠侠》时，却在导演蒂姆·伯顿面前大放厥词，于是与老爷失之交臂：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近20年的华语流行音乐发展中，周杰伦靠着出色的才华留下了浓墨重彩的一笔。周杰伦走红后，模仿其声音、发型乃至相貌的人层出不穷。当然，也有一些“老天爷赏饭”的天然存在。据星视频报道，日前在河北保定，网友们发现一位长得酷似周杰伦的鸡蛋灌饼摊主。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1326851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [泄露的报告说微软的Hololens AR眼镜在美国陆军中并不受欢迎](https://www.cnbeta.com/articles/tech/1326827.htm) | Thu Oct 13 2022 12:39 PM 
+- 🎊 [Intel下下下下代至强曝光：革命性的PCIe 6.0第一次落地](https://www.cnbeta.com/articles/tech/1326849.htm) | Thu Oct 13 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据彭博社看到的内部军事评估材料，微软的增强现实Hololens护目镜在美国陆军的测试中并不受欢迎。测试头盔的士兵抱怨他们受到了&amp;quot;影响任务的身体损伤&amp;quot;，并说佩戴护目镜会导致头痛、恶心和眼疲劳。彭博社看到的一份为陆军和国防部官员准备的摘要说认为这项技术的被接受程度&amp;quot;仍然很低&amp;quot;，士兵们抱怨说，这些头盔&amp;quot;无助于他们完成任务的能力&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;桌面上，Intel早早就公布了Meteor Lakke 14代酷睿、Arrow Lake 15代酷睿、Lunar Lake 16代酷睿、Nova Lake 17代酷睿……在服务器数据中心，Intel可扩展至强也是公开了长期路线图，包括&lt;strong&gt;第四代Sapphire Rapids&lpar;Intel 7工艺&rpar;、第五代Dmerald Rapids&lpar;Intel 7工艺&rpar;、第六代Granite Rapids/Sierra Forest&lpar;Intel 3工艺/后者大小核&rpar;、第七代Diamond Rapids。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
