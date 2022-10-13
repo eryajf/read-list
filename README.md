@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [亚马逊销售旺季遇罢工潮 员工要求提高待遇](https://www.cnbeta.com/articles/tech/1326787.htm) | Thu Oct 13 2022 10:13 AM 
+- 🕯 [《黑亚当》彩蛋曝光 超人登场 亨利·卡维尔亮相](https://hot.cnbeta.com/articles/movie/1326807.htm) | Thu Oct 13 2022 11:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊正在进行今年的第二次Prime 会员日促销活动，旨在提早获得黑色星期五和网络星期一的优惠。但在吸引消费者的同时，处理通过亚马逊设施、仓库和航空枢纽的大量包裹的工人要求更好的薪酬和工作条件。随着亚马逊即将进入其最繁忙的季节之一，停工、罢工示威活动和另一个仓库或将工会化的“威胁”都迫在眉睫。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;DC超级英雄电影《黑亚当》将于10月21日登陆北美，不过该影片的片尾彩蛋已经曝光，亨利·卡维尔所饰演的超人登场。多年来，巨石强森一直希望他饰演的黑亚当能和亨利·卡维尔饰演的超人来一次正面交锋，而在不久前接受采访，巨石强森甚至直言其拍摄《黑亚当》的“全部意义”就是为了能和超人打一架。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [扎克伯格元宇宙第二季：“天价”VR和企业版](https://www.cnbeta.com/articles/tech/1326785.htm) | Thu Oct 13 2022 10:08 AM 
+- 💼 [刘作虎预告一加三段式按键回归 称光成本就上亿](https://www.cnbeta.com/articles/tech/1326805.htm) | Thu Oct 13 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月12日凌晨，Meta Connect大会如期举办，Meta CEO扎克伯格的“元宇宙”迎来2.0版本。去年同期，扎克伯格在Connect大会上宣布将Facebook改名为Meta，将“元宇宙”视为今后公司最大发展方向，行业为之一振。但大会结束后，他的畅想招来的更多是批评，人们认为想象过于超前，展示的硬件成果也多处于开发阶段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，一加创始人刘作虎晒图预告一加三段式按键回归。网友猜测，&lt;strong&gt;刘作虎暗示一加11系列新品可能会采用三段式按键。&lt;/strong&gt;三段式按键堪称是一加手机的经典设计，此前刘作虎表示，&lt;strong&gt;一加可能是Android机里唯一保留三段式按键设计的品牌，5年时间耗费了亿级成本，但极高的好评表明了它的价值。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326805.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [桌面版成鸡肋？腾讯地图PC端下月停用 百度高德称正常运营](https://www.cnbeta.com/articles/tech/1326783.htm) | Thu Oct 13 2022 10:07 AM 
+- 💂 [谷歌Pixel 7 Pro DXOMARK影像分公布：与荣耀Magic4并列全球第一](https://www.cnbeta.com/articles/tech/1326803.htm) | Thu Oct 13 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;腾讯地图停止了PC端服务，更聚焦于移动端。10月12日，据腾讯地图在网页版提示称，腾讯地图PC端（个人电脑端）将于11月11日停止服务，移动用户可以下载腾讯地图App（应用程序）使用。腾讯地图于2013年9月由腾讯旗下SOSO地图更名而来，自此入局互联网地图行业“三国杀”，另外两家主要竞争对手为百度地图和高德地图（阿里旗下）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日，知名评测机构DXOMARK公布了谷歌新一代旗舰——Pixel 7 Pro的影像分数，令人意外的是，&lt;strong&gt;该机型以影像总分147分，与荣耀Magic4至臻版并列DXOMARK全球影像排行榜第一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [告别第三方付费软件 Windows 11截图工具将新增屏幕录制功能](https://www.cnbeta.com/articles/tech/1326781.htm) | Thu Oct 13 2022 9:30 AM 
+- 🚀 [微软推出新的安全更新通知RSS服务](https://www.cnbeta.com/articles/tech/1326801.htm) | Thu Oct 13 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在Windows 10以前，要想在Windows上进行录屏，通常需要使用三方软件，而且鲜有免费版本。&lt;strong&gt;不过，为了方便游戏用户，微软在Windows 10的Xbox GameBar中首次加入了屏幕录制功能，已经可以取代相当一部分录屏软件的功效。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;RSS源可能不像以前那么流行了，但对于某些事情来说，它们是保持更新的最有效和最有用的手段之一。微软意识到了这一点，在听取了客户的反馈意见后，推出了一个新的RSS提要，以使人们更容易了解该公司的最新安全通知。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [剧透警告 《黑亚当》片尾彩蛋超人登场](https://hot.cnbeta.com/articles/movie/1326779.htm) | Thu Oct 13 2022 9:20 AM 
+- 🎊 [蔚来李斌：特斯拉如果不改进产品和服务、很快会被淘汰](https://www.cnbeta.com/articles/tech/1326799.htm) | Thu Oct 13 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;DC超级英雄电影《黑亚当》将于10月21日登陆北美，不过该影片的片尾彩蛋已经曝光，亨利·卡维尔所饰演的超人登场。&lt;/strong&gt;多年来，巨石强森一直希望他饰演的黑亚当能和亨利·卡维尔饰演的超人来一次正面交锋，而在不久前接受采访，巨石强森甚至直言其拍摄《黑亚当》的“全部意义”就是为了能和超人打一架。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;好嘛，斌哥又high了。这不蔚来刚在柏林开了一场进军德国的发布会，用租赁的方式开启德国落地，在车企巨头之乡秀肌肉。斌言斌语自然也不能少，果然被老外摆了一道，随口就要李斌评价一下汽车友商们。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
