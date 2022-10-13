@@ -365,7 +365,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [群晖 Synology Photos 无法在线预览视频？](https://www.v2ex.com/t/886790#reply0) | Thu Oct 13 2022 4:44 PM
-- 🤗 [Windows 运行 ffmpeg 批量脚本的时候，如何在不中断的情况下限制 CPU 使用率](https://www.v2ex.com/t/886777#reply12) | Thu Oct 13 2022 3:44 PM
+- 🤗 [Windows 运行 ffmpeg 批量脚本的时候，如何在不中断的情况下限制 CPU 使用率](https://www.v2ex.com/t/886777#reply15) | Thu Oct 13 2022 3:44 PM
 - 🎭 [小辣鸡又来求助了，网站挂掉了，救救我](https://www.v2ex.com/t/886776#reply7) | Thu Oct 13 2022 3:44 PM
 - 🥷 [jQuery 中 Ajax 跨域配置疑问](https://www.v2ex.com/t/886775#reply2) | Thu Oct 13 2022 3:43 PM
 - 🐵 [用 Java 的并发类也会抛 ConcurrentModificationException 吗？](https://www.v2ex.com/t/886771#reply0) | Thu Oct 13 2022 3:36 PM<!-- v2ex:END -->
