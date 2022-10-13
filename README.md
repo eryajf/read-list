@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [我的 Deepin 又坏了!](https://www.v2ex.com/t/886751#reply0) | Thu Oct 13 2022 1:42 PM
-- 🤗 [现在如何注册/购买 google voice 帐号？](https://www.v2ex.com/t/886750#reply1) | Thu Oct 13 2022 1:39 PM
-- 🎭 [Windows11 无法登录的 bug 有人遇到过吗](https://www.v2ex.com/t/886743#reply1) | Thu Oct 13 2022 12:48 PM
-- 🥷 [富强了，但是 chrome 右键还是不能翻译](https://www.v2ex.com/t/886741#reply1) | Thu Oct 13 2022 12:28 PM
-- 🐵 [单元测试问题请教](https://www.v2ex.com/t/886728#reply12) | Thu Oct 13 2022 11:35 AM<!-- v2ex:END -->
+- 🥸 [obsidian 1.0 了](https://www.v2ex.com/t/886760#reply0) | Thu Oct 13 2022 2:24 PM
+- 🤗 [我的 Deepin 又坏了!](https://www.v2ex.com/t/886751#reply4) | Thu Oct 13 2022 1:42 PM
+- 🎭 [现在如何注册/购买 google voice 帐号？](https://www.v2ex.com/t/886750#reply3) | Thu Oct 13 2022 1:39 PM
+- 🥷 [Windows11 无法登录的 bug 有人遇到过吗](https://www.v2ex.com/t/886743#reply1) | Thu Oct 13 2022 12:48 PM
+- 🐵 [富强了，但是 chrome 右键还是不能翻译](https://www.v2ex.com/t/886741#reply1) | Thu Oct 13 2022 12:28 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
