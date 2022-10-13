@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [theatrejs 真的是牛逼](https://www.v2ex.com/t/886768#reply1) | Thu Oct 13 2022 2:56 PM
-- 🤗 [共同盖楼分享那些 Linux 桌面环境应用续集](https://www.v2ex.com/t/886764#reply2) | Thu Oct 13 2022 2:36 PM
-- 🎭 [obsidian 1.0 了](https://www.v2ex.com/t/886760#reply2) | Thu Oct 13 2022 2:24 PM
-- 🥷 [我的 Deepin 又坏了!](https://www.v2ex.com/t/886751#reply10) | Thu Oct 13 2022 1:42 PM
-- 🐵 [现在如何注册/购买 google voice 帐号？](https://www.v2ex.com/t/886750#reply5) | Thu Oct 13 2022 1:39 PM<!-- v2ex:END -->
+- 🥸 [Windows 运行 ffmpeg 批量脚本的时候，如何在不中断的情况下限制 CPU 使用率](https://www.v2ex.com/t/886777#reply4) | Thu Oct 13 2022 3:44 PM
+- 🤗 [小辣鸡又来求助了，网站挂掉了，救救我](https://www.v2ex.com/t/886776#reply5) | Thu Oct 13 2022 3:44 PM
+- 🎭 [jQuery 中 Ajax 跨域配置疑问](https://www.v2ex.com/t/886775#reply1) | Thu Oct 13 2022 3:43 PM
+- 🥷 [用 Java 的并发类也会抛 ConcurrentModificationException 吗？](https://www.v2ex.com/t/886771#reply0) | Thu Oct 13 2022 3:36 PM
+- 🐵 [theatrejs 真的是牛逼](https://www.v2ex.com/t/886768#reply1) | Thu Oct 13 2022 2:56 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
