@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌3D视频通话亭Project Starline将在现实世界中进行测试](https://www.cnbeta.com/articles/tech/1326871.htm) | Thu Oct 13 2022 3:21 PM 
+- 🕯 [Apple Card将为Daily Cash带来新的储蓄账户](https://www.cnbeta.com/articles/tech/1326879.htm) | Thu Oct 13 2022 3:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司今晚通过新闻稿宣布，Apple Card用户很快就能通过将其Daily Cash自动存入高盛公司的高收益储蓄账户来增加他们在钱包中的奖励。全过程没有任何费用，没有最低存款额，也没有最低余额要求。有了这个账户，用户将能够直接从钱包中花费、发送和保存Daily Cash。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [索尼ZV-1F轻便型Vlog相机发布 售价3499元](https://www.cnbeta.com/articles/tech/1326877.htm) | Thu Oct 13 2022 3:42 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;10月13日，索尼正式发布了轻便型Vlog相机新品ZV-1F。&lt;/strong&gt;ZV-1F采用超广角20mm F2.0大光圈定焦镜头设计，适合多人自拍或拍摄带有广阔背景的画面。最大光圈为F2.0，拥有出色的背景虚化能力，配合支持照片和视频的背景清晰/虚化一键切换功能，更容易突出拍摄主体，同时带来柔美的背景虚化效果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [我国吸入式新冠疫苗获批 仅限规定人群序贯加强紧急使用](https://www.cnbeta.com/articles/tech/1326875.htm) | Thu Oct 13 2022 3:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据新华社消息，我国新型新冠病毒疫苗研发取得新进展，又有一款吸入用腺病毒载体疫苗、一款重组蛋白疫苗获批，&lt;strong&gt;可用于规定人群完成两剂灭活疫苗接种6个月后，进行序贯加强免疫紧急使用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [暴雪调查《守望先锋2》bug 导致玩家PC关机或重启](https://hot.cnbeta.com/articles/game/1326873.htm) | Thu Oct 13 2022 3:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;暴雪表示正在调查《守望先锋2》的一个bug，该Bug会导致一些PC关机或重启。暴雪其中一个客服官推承认了这个Bug，这也是影响《守望先锋2》诸多游戏发行问题中的最新一个。暴雪呼吁遇到这个bug的玩家提供DDDIAG协助调查。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [谷歌3D视频通话亭Project Starline将在现实世界中进行测试](https://www.cnbeta.com/articles/tech/1326871.htm) | Thu Oct 13 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;当Meta公司试图说服消费者戴上它的VR头盔进入metaverse时，谷歌继续试验一种不同的虚拟现实：它的全息视频聊天项目被称为Project Starline。&lt;/strong&gt;去年宣布的Project Starline是一个视频通话亭，它使用3D图像、高分辨率相机、定制的深度传感器和突破性的光场显示，为屏幕两边的通话者创造了逼真的体验，而且所有这些都不需要头显。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [“全面叫停新设网络小贷”并非新说法 互联网贷款监管正处深水区](https://www.cnbeta.com/articles/tech/1326869.htm) | Thu Oct 13 2022 3:08 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，针对互联网贷款问题，银保监会在人民网“领导留言板”上的一则回复引起广泛关注，其中最关键的说法是：“全面叫停新设网络小额贷款从业机构”。事实上，类似说法早在2017年就有文件提及，之后未有明确放开信号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Sandmarc为Apple Watch Ultra制作钛合金版表带](https://www.cnbeta.com/articles/tech/1326867.htm) | Thu Oct 13 2022 3:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;以摄影配件闻名的Sandmarc公司为Apple Watch Ultra推出了一款钛金属表带。这款产品由二级纯级钛制成，耐腐蚀和耐氧化，材质决定了这是一款轻巧的表带，极高的强度也适合在旅途中冒险，颜色可以完美配合Apple Watch Ultra的表面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [老黄撒谎了 NVIDIA SLI还活着？](https://www.cnbeta.com/articles/tech/1326865.htm) | Thu Oct 13 2022 3:03 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;RTX 40系列发布会，黄仁勋亲口确认，新架构已经彻底移除NVLink互连模块，意味着不再可能多卡互连，SLI从此成为历史名词。随着非公版RTX 4090的解禁上市，我们发现，这次确实没有了NVLink桥接金手指，似乎一切已经尘埃落定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Outlook将很快支持对邮件作出表情反应而不发送回复](https://www.cnbeta.com/articles/tech/1326863.htm) | Thu Oct 13 2022 2:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一段时间以来，人们如何通过电子邮件进行互动已经有点僵化，从如何发送电子邮件到撰写回复。虽然说清楚并确保将信息信息正确地转达给收件人是极其必要的，但在有些情况下，回应可能显得有些多余了。根据微软365路线图，用户可能很快就能在Outlook中只需点击一下就用最简单的方式能对邮件做出反应。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326863.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
