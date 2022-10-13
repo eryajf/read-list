@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Card将为Daily Cash带来新的储蓄账户](https://www.cnbeta.com/articles/tech/1326879.htm) | Thu Oct 13 2022 3:52 PM 
+- 🕯 [1.3万元起的RTX 4090全球性断货 NVIDIA想出一个妙招](https://www.cnbeta.com/articles/tech/1326887.htm) | Thu Oct 13 2022 4:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;RTX 4090虽然价格高达1.3万元起步，贵的卖到了1.6万元之上，但在RTX 40系列中反而是性价比最好的，性能提升幅度也非常感人。虽然之前有说法称，这次备货是以往的3倍，绝对管够，但是开卖之后还是“秒光”，无论国内还是欧美都没多少货——京东上只有两款显示有货，还需要预约。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [在快手上看完这群大爷大妈 我羞愧到想退网](https://hot.cnbeta.com/articles/movie/1326885.htm) | Thu Oct 13 2022 4:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;现如今，爷爷奶奶们平日都在干嘛？在世超的记忆里，老一辈玩不转智能手机，平时最大消遣就是楼下一起打牌唠嗑，又或者在躺椅上看电视，晚上去跳跳广场舞。但最近，世超发现，在短视频平台上，藏着好多与以往‘&amp;nbsp;不通网&amp;nbsp;’相去甚远的老年弄潮儿。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [消息称欧盟失去耐心 明年对谷歌广告业务提起反垄断指控](https://www.cnbeta.com/articles/tech/1326883.htm) | Thu Oct 13 2022 4:36 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据报道，多位知情人士今日称，欧盟将于明年对谷歌的数字广告业务提出反垄断指控，因为双方的和解谈判进展缓慢，欧盟委员会已经失去了耐心。在过去的10多年，谷歌母公司Alphabet一直在拓展营收源，包括销售硬件、订阅服务和云计算技术等。但到目前为止，广告业务仍是Alphabet最赚钱的业务，占其年营收的约80%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [全面叫停新设网络小贷机构 银保监会再次强调强监管](https://www.cnbeta.com/articles/tech/1326881.htm) | Thu Oct 13 2022 4:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，针对互联网贷款问题，中国银保监会在人民网“领导留言板”上关于“全面叫停新设网络小额贷款从业机构” 的一则回复引起广泛关注。事实上，类似说法早在2017年就有文件提及，之后未有明确放开信号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [Apple Card将为Daily Cash带来新的储蓄账户](https://www.cnbeta.com/articles/tech/1326879.htm) | Thu Oct 13 2022 3:52 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果公司今晚通过新闻稿宣布，Apple Card用户很快就能通过将其Daily Cash自动存入高盛公司的高收益储蓄账户来增加他们在钱包中的奖励。全过程没有任何费用，没有最低存款额，也没有最低余额要求。有了这个账户，用户将能够直接从钱包中花费、发送和保存Daily Cash。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [索尼ZV-1F轻便型Vlog相机发布 售价3499元](https://www.cnbeta.com/articles/tech/1326877.htm) | Thu Oct 13 2022 3:42 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;10月13日，索尼正式发布了轻便型Vlog相机新品ZV-1F。&lt;/strong&gt;ZV-1F采用超广角20mm F2.0大光圈定焦镜头设计，适合多人自拍或拍摄带有广阔背景的画面。最大光圈为F2.0，拥有出色的背景虚化能力，配合支持照片和视频的背景清晰/虚化一键切换功能，更容易突出拍摄主体，同时带来柔美的背景虚化效果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [我国吸入式新冠疫苗获批 仅限规定人群序贯加强紧急使用](https://www.cnbeta.com/articles/tech/1326875.htm) | Thu Oct 13 2022 3:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据新华社消息，我国新型新冠病毒疫苗研发取得新进展，又有一款吸入用腺病毒载体疫苗、一款重组蛋白疫苗获批，&lt;strong&gt;可用于规定人群完成两剂灭活疫苗接种6个月后，进行序贯加强免疫紧急使用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [暴雪调查《守望先锋2》bug 导致玩家PC关机或重启](https://hot.cnbeta.com/articles/game/1326873.htm) | Thu Oct 13 2022 3:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;暴雪表示正在调查《守望先锋2》的一个bug，该Bug会导致一些PC关机或重启。暴雪其中一个客服官推承认了这个Bug，这也是影响《守望先锋2》诸多游戏发行问题中的最新一个。暴雪呼吁遇到这个bug的玩家提供DDDIAG协助调查。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1326873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [谷歌3D视频通话亭Project Starline将在现实世界中进行测试](https://www.cnbeta.com/articles/tech/1326871.htm) | Thu Oct 13 2022 3:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;当Meta公司试图说服消费者戴上它的VR头盔进入metaverse时，谷歌继续试验一种不同的虚拟现实：它的全息视频聊天项目被称为Project Starline。&lt;/strong&gt;去年宣布的Project Starline是一个视频通话亭，它使用3D图像、高分辨率相机、定制的深度传感器和突破性的光场显示，为屏幕两边的通话者创造了逼真的体验，而且所有这些都不需要头显。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
