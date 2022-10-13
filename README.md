@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：微软召开新品发布会、三星召开 SDC22 开发者大会等](https://sspai.com/post/76153) | Thu Oct 13 2022 12:53 AM 
+- 👹 [獭可派 | 远离职业病，我们换一种方式办公](https://sspai.com/post/76155) | Thu Oct 13 2022 2:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    Prime订阅会员请由通知中心系统消息处领取专属优惠券。Prime订阅会员请由通知中心系统消息处领取专属优惠券。Prime订阅会员请由通知中心系统消息处领取专属优惠券。Prime订阅会员请由通知中心系 ...&lt;a href=&quot;https://sspai.com/post/76155&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：微软召开新品发布会、三星召开 SDC22 开发者大会等](https://sspai.com/post/76153) | Thu Oct 13 2022 12:53 AM 
     <details><summary>展开描述 ...</summary> 
     索尼发布新款 HT 系列高端回音壁音响、宝马计划将休闲游戏引入新车系等。&lt;a href=&quot;https://sspai.com/post/76153&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [软硬上新菜，AI 作甜点：微软秋季硬件发布会回顾](https://sspai.com/post/76152) | Wed Oct 12 2022 11:00 PM 
+- 🤭 [软硬上新菜，AI 作甜点：微软秋季硬件发布会回顾](https://sspai.com/post/76152) | Wed Oct 12 2022 11:00 PM 
     <details><summary>展开描述 ...</summary> 
     除了三款新硬件，微软这次也结合 Windows 11、AI 创造工作工具与 Microsoft 365 服务带来了不一样的新东西。&lt;a href=&quot;https://sspai.com/post/76152&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [城市漫步指南：北海道的夏日浪漫](https://sspai.com/post/76091) | Wed Oct 12 2022 9:30 AM 
+- 🥸 [城市漫步指南：北海道的夏日浪漫](https://sspai.com/post/76091) | Wed Oct 12 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     突发奇想的旅行8月的东京，酷暑难耐。伴随着高温天气的是愈来愈严重的新冠疫情，每天都有上万的人被感染。因此，我们开启了「东京逃离计划」。我们的第一站是濑户内海，领略了一番荒岛风情后，整个人也被太阳晒黑了 ...&lt;a href=&quot;https://sspai.com/post/76091&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [App Store 生态日渐完善，离不开背后它的支持：与开发者聊应用审核](https://sspai.com/post/75316) | Wed Oct 12 2022 8:02 AM 
+- 🙉 [App Store 生态日渐完善，离不开背后它的支持：与开发者聊应用审核](https://sspai.com/post/75316) | Wed Oct 12 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
     这次我们想从一个常有用户关注但又有点不一样的角度——App Store 审核——和几位开发者们聊聊 Apple 近年在此方面作出的改变与进步。&lt;a href=&quot;https://sspai.com/post/75316&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [掌握数据的主动权：我的全自动文档备份、加密与安全策略](https://sspai.com/post/76130) | Wed Oct 12 2022 3:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    云端的便捷与绝对的隐私不可兼得，但可以找到平衡点。&lt;a href=&quot;https://sspai.com/post/76130&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
