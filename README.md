@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《黑亚当》彩蛋曝光 超人登场 亨利·卡维尔亮相](https://hot.cnbeta.com/articles/movie/1326807.htm) | Thu Oct 13 2022 11:16 AM 
+- 🕯 [台积电2nm工艺好于预期：功耗直降30% 2025年量产](https://www.cnbeta.com/articles/tech/1326835.htm) | Thu Oct 13 2022 12:45 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;DC超级英雄电影《黑亚当》将于10月21日登陆北美，不过该影片的片尾彩蛋已经曝光，亨利·卡维尔所饰演的超人登场。多年来，巨石强森一直希望他饰演的黑亚当能和亨利·卡维尔饰演的超人来一次正面交锋，而在不久前接受采访，巨石强森甚至直言其拍摄《黑亚当》的“全部意义”就是为了能和超人打一架。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326807.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天的财报会上，台积电不仅公布了Q3季度业绩，同时也透露了最新的工艺进展，3nm工艺的需求已经超过了预期，明年会满载量产，而2nm工艺也进度喜人，2025年量产。台积电在6月份正式公布了2nm工艺，并透露了一些技术细节，相比3nm工艺，&lt;strong&gt;在相同功耗下，2nm速度快10~15%；相同速度下，功耗降低25~30%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [刘作虎预告一加三段式按键回归 称光成本就上亿](https://www.cnbeta.com/articles/tech/1326805.htm) | Thu Oct 13 2022 11:15 AM 
+- 💼 [V12动力加身 法拉利首款SUV国内发布定档](https://www.cnbeta.com/articles/tech/1326833.htm) | Thu Oct 13 2022 12:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，一加创始人刘作虎晒图预告一加三段式按键回归。网友猜测，&lt;strong&gt;刘作虎暗示一加11系列新品可能会采用三段式按键。&lt;/strong&gt;三段式按键堪称是一加手机的经典设计，此前刘作虎表示，&lt;strong&gt;一加可能是Android机里唯一保留三段式按键设计的品牌，5年时间耗费了亿级成本，但极高的好评表明了它的价值。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326805.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;&lt;strong&gt;法拉利首款SUV&lt;/strong&gt;车型Purosangue将于10月24日在国内正式亮相&lt;/strong&gt;，该车此前在9月14日全球首发，但需要注意的是，新车在法拉利内部不被定义为SUV车型，而是FUV，意味“法拉利多功能车”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [谷歌Pixel 7 Pro DXOMARK影像分公布：与荣耀Magic4并列全球第一](https://www.cnbeta.com/articles/tech/1326803.htm) | Thu Oct 13 2022 11:14 AM 
+- 💂 [时隔18年！奥斯卡经典音乐电影 《放牛班的春天》有望11月内地重映](https://www.cnbeta.com/articles/tech/1326831.htm) | Thu Oct 13 2022 12:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日，知名评测机构DXOMARK公布了谷歌新一代旗舰——Pixel 7 Pro的影像分数，令人意外的是，&lt;strong&gt;该机型以影像总分147分，与荣耀Magic4至臻版并列DXOMARK全球影像排行榜第一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326803.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月13日消息，今日博主有爆料称，&lt;strong&gt;经典法国电影《放牛班的春天》发行通知释出有望重映，目前通知中透露的上映时间为2022年11月待映。&lt;/strong&gt;该片豆瓣评分9.3分，曾于2004年10月16日在中国内地上映。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软推出新的安全更新通知RSS服务](https://www.cnbeta.com/articles/tech/1326801.htm) | Thu Oct 13 2022 11:11 AM 
+- 🚀 [布鲁斯南：我有机会成为蝙蝠侠 但败于导演面前大放厥词](https://hot.cnbeta.com/articles/movie/1326829.htm) | Thu Oct 13 2022 12:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;RSS源可能不像以前那么流行了，但对于某些事情来说，它们是保持更新的最有效和最有用的手段之一。微软意识到了这一点，在听取了客户的反馈意见后，推出了一个新的RSS提要，以使人们更容易了解该公司的最新安全通知。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;007硬汉皮尔斯·布鲁斯南如今入职DC宇宙，在《黑亚当》中出演知名反派命运博士。其实这位演员多年前有机会一步到位，代言DC核心角色布鲁斯·韦恩，但他自己搞砸了。布鲁斯南参加吉米秀时透露，他受邀面试89版《蝙蝠侠》时，却在导演蒂姆·伯顿面前大放厥词，于是与老爷失之交臂：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [蔚来李斌：特斯拉如果不改进产品和服务、很快会被淘汰](https://www.cnbeta.com/articles/tech/1326799.htm) | Thu Oct 13 2022 11:07 AM 
+- 🎊 [泄露的报告说微软的Hololens AR眼镜在美国陆军中并不受欢迎](https://www.cnbeta.com/articles/tech/1326827.htm) | Thu Oct 13 2022 12:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;好嘛，斌哥又high了。这不蔚来刚在柏林开了一场进军德国的发布会，用租赁的方式开启德国落地，在车企巨头之乡秀肌肉。斌言斌语自然也不能少，果然被老外摆了一道，随口就要李斌评价一下汽车友商们。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据彭博社看到的内部军事评估材料，微软的增强现实Hololens护目镜在美国陆军的测试中并不受欢迎。测试头盔的士兵抱怨他们受到了&amp;quot;影响任务的身体损伤&amp;quot;，并说佩戴护目镜会导致头痛、恶心和眼疲劳。彭博社看到的一份为陆军和国防部官员准备的摘要说认为这项技术的被接受程度&amp;quot;仍然很低&amp;quot;，士兵们抱怨说，这些头盔&amp;quot;无助于他们完成任务的能力&amp;quot;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
