@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [「微服务网关实战三」详细理解 SCG 路由、断言与过滤器](https://juejin.cn/post/7153854448798793735) | Thu Oct 13 2022 4:49 AM 
+- 🤗 [做正确的事以及正确地做事——读《战略》](https://juejin.cn/post/7153908592842637325) | Thu Oct 13 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-    详细了解 Spring Cloud Gateway 的路由、断言和过滤器概念，助力你更好的理解 Spring Cloud Gateway 使用。 
+    一句话总结 “战略就是我们在面临关键阶段的重大抉择时，如何做正确的事以及正确地做事”。三次工业革命都发生在西方世界，都是生产力走在了生产关系的前面。面对大工业时代，西方的线性思维方式得到了广泛的认可， 
     </details> 
 
-- 🎡 [29. JavaScript 二进制数组](https://juejin.cn/post/7153852616680669214) | Thu Oct 13 2022 4:43 AM 
+- 🎡 [Web3背景下的数字藏品与NFT](https://juejin.cn/post/7153873396969766926) | Thu Oct 13 2022 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-    ArrayBuffer对象、TypedArray视图和DataView视图是 JavaScript 操作二进制数据的一个接口。这些对象早就存在，属于独立的规格（2011 年 2 月发布），ES6 将它 
+    前言 在最近的一两年，会发现元宇宙、Web3等词频繁出现，而各大厂也在布局元宇宙相关的赛道，比如虚拟世界元宇宙、VR、数字藏品等等。而国内的数字藏品在最近的几个月发展中，表现得比较亮眼，初具雏形。所以 
     </details> 
 
-- 🕯 [Go 语言官方依赖注入工具 Wire 使用指北、签约文章专栏推荐｜掘金一周 10.13](https://juejin.cn/post/7153840551148978207) | Thu Oct 13 2022 3:55 AM 
+- 🕯 [&lpar;八&rpar;MySQL锁机制：高并发场景下该如何保证数据读写的安全性？](https://juejin.cn/post/7153869469394305061) | Thu Oct 13 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-    【掘金一周 10.13】本期看点：Redis 持久化策略浅析、初探自然语言预训练技术演进之路、签约文章专栏来了！ 
+    MySQL内部采用多线程执行业务SQL，但多线程虽然性能优异，但在高并发情况下自然也会带来一系列隐患问题，那MySQL是如何保障并发读写数据时的安全性呢？本文咱们一起来聊一聊MySQL的锁机制。 
     </details> 
 
-- 🚀 [【代码大全】精华总结之模块化设计&lpar;7&rpar;](https://juejin.cn/post/7153840389315788830) | Thu Oct 13 2022 3:54 AM 
+- 🚀 [如何让JOIN跑得更快、异步分片计算在腾讯文档的实践、关于架构设计的易变性，应该如何理解呢？| 酱酱的下午茶第87期](https://juejin.cn/post/7153866595150856228) | Thu Oct 13 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
-    目的 继续 阅读 继续输出 模块化设计的目标是使每个子程序都成为一个“黑盒子”，你知道进入盒子和从盒子里出来的是什么，却不知道里边发生什么。它的接口非常简单，功能明确，对任何一个特定的输入, 第六章  
+    今日看点：异步分片计算在腾讯文档的实践、来用Vite+React快速开发浏览器插件、Vue组件库文档站点的搭建思路、教你做小游戏] 太卷了！开发象棋，为了减少40%存储空间，我学了下 
     </details> 
 
-- 💪 [Axure RP 教程，如何在 Axure RP 中制作交互式应用导航框架？](https://juejin.cn/post/7153836319066554398) | Thu Oct 13 2022 3:39 AM 
+- 💪 [用 Charles 断点调试 HTTPS 请求，原理揭秘](https://juejin.cn/post/7153862485378859038) | Thu Oct 13 2022 5:20 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中制作交互式应用导航框架。 
+    现在的网站基本都是 https 的，而 charles 是常用的 http 抓包工具，所以用 charles 调试 https 请求是常见的需求。 今天就分享下如何用 charles 调试 https 
     </details> 
 <!-- juejin:END -->
 ### 少数派
