@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [心碎进入 emo 模式](https://www.v2ex.com/t/886723#reply0) | Thu Oct 13 2022 11:18 AM
-- 🤗 [k8s 的练习环境](https://www.v2ex.com/t/886707#reply4) | Thu Oct 13 2022 10:25 AM
-- 🎭 [ssr 有哪些好的方案吗？](https://www.v2ex.com/t/886701#reply11) | Thu Oct 13 2022 9:58 AM
-- 🥷 [求助，删除不了绑定在谷歌上的信用卡](https://www.v2ex.com/t/886685#reply0) | Thu Oct 13 2022 8:46 AM
-- 🐵 [visual studio 有只复制错误描述的功能吗？](https://www.v2ex.com/t/886676#reply0) | Thu Oct 13 2022 8:27 AM<!-- v2ex:END -->
+- 🥸 [富强了，但是 chrome 右键还是不能翻译](https://www.v2ex.com/t/886741#reply0) | Thu Oct 13 2022 12:28 PM
+- 🤗 [单元测试问题请教](https://www.v2ex.com/t/886728#reply12) | Thu Oct 13 2022 11:35 AM
+- 🎭 [心碎进入 emo 模式](https://www.v2ex.com/t/886723#reply2) | Thu Oct 13 2022 11:18 AM
+- 🥷 [k8s 的练习环境](https://www.v2ex.com/t/886707#reply10) | Thu Oct 13 2022 10:25 AM
+- 🐵 [ssr 有哪些好的方案吗？](https://www.v2ex.com/t/886701#reply13) | Thu Oct 13 2022 9:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
