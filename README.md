@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Airbabble - 一键与世界分享您的声音](https://xinquji.com/posts/180459?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:33 AM 
+- 👀 [Inity - 使用 Inity 掌控您的财务状况](https://xinquji.com/posts/180474?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-     一键与世界分享您的声音  
+     使用 Inity 掌控您的财务状况  
     </details> 
 
-- 🥷 [This Wallpaper Does Not Exist - AI 生成的壁纸和背景图片](https://xinquji.com/posts/180458?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:33 AM 
+- 🥷 [Ruleset - 为贷方提供决策即服务](https://xinquji.com/posts/180473?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-     AI 生成的壁纸和背景图片  
+     为贷方提供决策即服务  
     </details> 
 
-- 💼 [LeadQuest by DropFriends - 不废话，只是引导](https://xinquji.com/posts/180457?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:31 AM 
+- 💼 [Side-Venture Toolbox - 建立附加收入的工具箱和社区](https://xinquji.com/posts/180472?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-     不废话，只是引导  
+     建立附加收入的工具箱和社区  
     </details> 
 
-- 🦅 [Plaid Identity Verification - 在短短 10 秒内验证全球用户](https://xinquji.com/posts/180456?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:31 AM 
+- 🦅 [The Modern Health - 幸福并肩](https://xinquji.com/posts/180471?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     在短短 10 秒内验证全球用户  
+     幸福并肩  
     </details> 
 
-- 😺 [MetMate - 人工智能驱动的协作会议平台](https://xinquji.com/posts/180455?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:29 AM 
+- 😺 [MonitUp - Freelancer - 自由职业者的生产力测量工具](https://xinquji.com/posts/180470?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-     人工智能驱动的协作会议平台  
+     自由职业者的生产力测量工具  
     </details> 
 <!-- xinquji:END -->
