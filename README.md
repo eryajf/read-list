@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [剧透警告 《黑亚当》片尾彩蛋超人登场](https://hot.cnbeta.com/articles/movie/1326779.htm) | Thu Oct 13 2022 9:20 AM 
+- 🕯 [亚马逊销售旺季遇罢工潮 员工要求提高待遇](https://www.cnbeta.com/articles/tech/1326787.htm) | Thu Oct 13 2022 10:13 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;亚马逊正在进行今年的第二次Prime 会员日促销活动，旨在提早获得黑色星期五和网络星期一的优惠。但在吸引消费者的同时，处理通过亚马逊设施、仓库和航空枢纽的大量包裹的工人要求更好的薪酬和工作条件。随着亚马逊即将进入其最繁忙的季节之一，停工、罢工示威活动和另一个仓库或将工会化的“威胁”都迫在眉睫。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326787.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [扎克伯格元宇宙第二季：“天价”VR和企业版](https://www.cnbeta.com/articles/tech/1326785.htm) | Thu Oct 13 2022 10:08 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月12日凌晨，Meta Connect大会如期举办，Meta CEO扎克伯格的“元宇宙”迎来2.0版本。去年同期，扎克伯格在Connect大会上宣布将Facebook改名为Meta，将“元宇宙”视为今后公司最大发展方向，行业为之一振。但大会结束后，他的畅想招来的更多是批评，人们认为想象过于超前，展示的硬件成果也多处于开发阶段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [桌面版成鸡肋？腾讯地图PC端下月停用 百度高德称正常运营](https://www.cnbeta.com/articles/tech/1326783.htm) | Thu Oct 13 2022 10:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;腾讯地图停止了PC端服务，更聚焦于移动端。10月12日，据腾讯地图在网页版提示称，腾讯地图PC端（个人电脑端）将于11月11日停止服务，移动用户可以下载腾讯地图App（应用程序）使用。腾讯地图于2013年9月由腾讯旗下SOSO地图更名而来，自此入局互联网地图行业“三国杀”，另外两家主要竞争对手为百度地图和高德地图（阿里旗下）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [告别第三方付费软件 Windows 11截图工具将新增屏幕录制功能](https://www.cnbeta.com/articles/tech/1326781.htm) | Thu Oct 13 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在Windows 10以前，要想在Windows上进行录屏，通常需要使用三方软件，而且鲜有免费版本。&lt;strong&gt;不过，为了方便游戏用户，微软在Windows 10的Xbox GameBar中首次加入了屏幕录制功能，已经可以取代相当一部分录屏软件的功效。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [剧透警告 《黑亚当》片尾彩蛋超人登场](https://hot.cnbeta.com/articles/movie/1326779.htm) | Thu Oct 13 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;DC超级英雄电影《黑亚当》将于10月21日登陆北美，不过该影片的片尾彩蛋已经曝光，亨利·卡维尔所饰演的超人登场。&lt;/strong&gt;多年来，巨石强森一直希望他饰演的黑亚当能和亨利·卡维尔饰演的超人来一次正面交锋，而在不久前接受采访，巨石强森甚至直言其拍摄《黑亚当》的“全部意义”就是为了能和超人打一架。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326779.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [微软Office即将淡出舞台 现重塑整合为Microsoft 365](https://www.cnbeta.com/articles/tech/1326777.htm) | Thu Oct 13 2022 9:07 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软正在重塑 Microsoft Office 品牌。在经过长达 30 多年的发展，&lt;strong&gt;Microsoft Office 更名为“Microsoft 365”&lt;/strong&gt;，以更好的提现这家软件巨头不断增长的生产力应用程序集。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Linux 6.1继续为LoongArch带来新的CPU功能特性](https://www.cnbeta.com/articles/tech/1326775.htm) | Thu Oct 13 2022 9:02 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管 Linux 社区早就通过 5.19 合并引入了对 LoongArch CPU 的初步支持，但它仍未迈过可向公众推送的成熟期。在此期间，开发人员有在坚持为其填补功能特性上的短板 —— 比如在 Linux 6.0 中带来的 LoongArch PCI 支持和其它变动。&lt;strong&gt;现在，Linux 6.1 内核又为源自 MIPS64 和 RISC-V 的 LoongArch CPU 带来了新的附加功能。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Chrome新增“Memory Saver”功能：告诉你每个标签可释放多少内存](https://www.cnbeta.com/articles/tech/1326773.htm) | Thu Oct 13 2022 8:58 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google 在努力改善 Chrome 节能表现的同时，也在积极改善这款浏览器的性能。近日，&lt;strong&gt;Google 为 Chrome 新增了性能页面，以帮助用户管理 Chrome 消耗的内存量以及它如何影响电池寿命。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326773.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [斯嘉丽·约翰逊感慨演艺生涯或将结束：长久以来被束缚在固定的形象框架中](https://hot.cnbeta.com/articles/movie/1326771.htm) | Thu Oct 13 2022 8:22 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，据外媒报道，知名女演员斯嘉丽·约翰逊在一次播客采访中提到自己当前的职业生涯。目前已经37岁的她感慨自己的演员生涯或许快要结束了。斯嘉丽说到：“我的演艺生涯从七岁开始，在年轻的时候我就被贴上了‘过度性感’的标签并被束缚在这一框架之中，我曾一度认为我的银幕形象丧失了多样化的能力。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326771.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
