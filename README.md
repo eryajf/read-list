@@ -378,24 +378,24 @@
     最近在使用TS+Vue的开发模式，发现项目中大量使用了装饰器，看得我手足无措，今天特意研究一下实现原理，方便自己理解这块知识点。 装饰器的常见作用 装饰一个类的属性 装饰一个类 装饰器只能针对类和类的 
     </details> 
 
-- 🎡 [超实用开发加速工具收集，分享给你吧～](https://juejin.cn/post/7153816077229621256) | Thu Oct 13 2022 2:20 AM 
+- 🎡 [给社区开发者的 App Review 建议（一）](https://juejin.cn/post/7153827702322462727) | Thu Oct 13 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
-    汇总整理日常开发常用分类集合 该库是从之前KJEmitterView当中独立拆解出来使用，后续有相关也会慢慢补充 
+    前阵子我们开展了一次问卷调查，收集了读者朋友们关于 App Review 的一些问题。首先非常感谢大家配合参与问卷调查的，近期我们也组织了几个对 App Review 有相当经验的老司机来做了专题交流 
     </details> 
 
-- 🕯 [针对springboot查询的数据null转空串](https://juejin.cn/post/7153815113852518430) | Thu Oct 13 2022 2:16 AM 
+- 🕯 [Serverless架构演进与实践](https://juejin.cn/post/7153826580416954381) | Thu Oct 13 2022 3:01 AM 
     <details><summary>展开描述 ...</summary> 
-    jackson对null的处理 第一种方式:SpringBoot中使用Jackson将null值转化为&quot;&quot; 在实际项目中难免会遇到null值的出现，但是我们转json时并不希望出现NULL值，而是将N 
+    Serverless的全称是Serverless computing无服务器运算，又被称为函数即服务（Function-as-a-Service，缩写为 FaaS），是云计算的一种模型。 
     </details> 
 
-- 🚀 [React 18 新特性之自动批量更新](https://juejin.cn/post/7153814771937067044) | Thu Oct 13 2022 2:15 AM 
+- 🚀 [MobTech短信验证常见问题](https://juejin.cn/post/7153824669194256415) | Thu Oct 13 2022 2:53 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 1 什么是批量更新 1.1 概念 批量更新（Batching）：将多次 state 更新合并到一次 re 
+    短信验证码SDK，为开发者提供全球通用的短信验证码工具，开发者可以用其在App植入短信验证码SDK、简单设置即可短信验证，集成快速便捷，且后期易于管理。 
     </details> 
 
-- 💪 [Elasticsearch：运用 Python 实时通过 Logstash 写入日志到 Elasticsearch](https://juejin.cn/post/7153814621164404772) | Thu Oct 13 2022 2:14 AM 
+- 💪 [10分钟教你写一个数据库](https://juejin.cn/post/7153820264587853838) | Thu Oct 13 2022 2:36 AM 
     <details><summary>展开描述 ...</summary> 
-    在我之前的文章，我详细地介绍了如何通过 Filebeat 来收集日志并写入到 Elasticsearch。你可以阅读我之前的文章： Beats: 使用 Filebeat 进行日志结构化 - Pytho 
+    今天教大家借助一款框架快速实现一个数据库，这个框架就是Calcite，下面会带大家通过两个例子快速教会大家怎么实现，一个是可以通过 SQL 语句的方式可以直接查询文件内容，第二个是模拟 Mysql 查 
     </details> 
 <!-- juejin:END -->
 ### 少数派
