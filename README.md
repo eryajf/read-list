@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [obsidian 1.0 了](https://www.v2ex.com/t/886760#reply0) | Thu Oct 13 2022 2:24 PM
-- 🤗 [我的 Deepin 又坏了!](https://www.v2ex.com/t/886751#reply4) | Thu Oct 13 2022 1:42 PM
-- 🎭 [现在如何注册/购买 google voice 帐号？](https://www.v2ex.com/t/886750#reply3) | Thu Oct 13 2022 1:39 PM
-- 🥷 [Windows11 无法登录的 bug 有人遇到过吗](https://www.v2ex.com/t/886743#reply1) | Thu Oct 13 2022 12:48 PM
-- 🐵 [富强了，但是 chrome 右键还是不能翻译](https://www.v2ex.com/t/886741#reply1) | Thu Oct 13 2022 12:28 PM<!-- v2ex:END -->
+- 🥸 [theatrejs 真的是牛逼](https://www.v2ex.com/t/886768#reply1) | Thu Oct 13 2022 2:56 PM
+- 🤗 [共同盖楼分享那些 Linux 桌面环境应用续集](https://www.v2ex.com/t/886764#reply2) | Thu Oct 13 2022 2:36 PM
+- 🎭 [obsidian 1.0 了](https://www.v2ex.com/t/886760#reply2) | Thu Oct 13 2022 2:24 PM
+- 🥷 [我的 Deepin 又坏了!](https://www.v2ex.com/t/886751#reply10) | Thu Oct 13 2022 1:42 PM
+- 🐵 [现在如何注册/购买 google voice 帐号？](https://www.v2ex.com/t/886750#reply5) | Thu Oct 13 2022 1:39 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
