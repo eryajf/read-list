@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Go 语言官方依赖注入工具 Wire 使用指北、签约文章专栏推荐｜掘金一周 10.13](https://juejin.cn/post/7153840551148978207) | Thu Oct 13 2022 3:55 AM 
+- 🤗 [「微服务网关实战三」详细理解 SCG 路由、断言与过滤器](https://juejin.cn/post/7153854448798793735) | Thu Oct 13 2022 4:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    详细了解 Spring Cloud Gateway 的路由、断言和过滤器概念，助力你更好的理解 Spring Cloud Gateway 使用。 
+    </details> 
+
+- 🎡 [29. JavaScript 二进制数组](https://juejin.cn/post/7153852616680669214) | Thu Oct 13 2022 4:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    ArrayBuffer对象、TypedArray视图和DataView视图是 JavaScript 操作二进制数据的一个接口。这些对象早就存在，属于独立的规格（2011 年 2 月发布），ES6 将它 
+    </details> 
+
+- 🕯 [Go 语言官方依赖注入工具 Wire 使用指北、签约文章专栏推荐｜掘金一周 10.13](https://juejin.cn/post/7153840551148978207) | Thu Oct 13 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
     【掘金一周 10.13】本期看点：Redis 持久化策略浅析、初探自然语言预训练技术演进之路、签约文章专栏来了！ 
     </details> 
 
-- 🎡 [【代码大全】精华总结之模块化设计&lpar;7&rpar;](https://juejin.cn/post/7153840389315788830) | Thu Oct 13 2022 3:54 AM 
+- 🚀 [【代码大全】精华总结之模块化设计&lpar;7&rpar;](https://juejin.cn/post/7153840389315788830) | Thu Oct 13 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
     目的 继续 阅读 继续输出 模块化设计的目标是使每个子程序都成为一个“黑盒子”，你知道进入盒子和从盒子里出来的是什么，却不知道里边发生什么。它的接口非常简单，功能明确，对任何一个特定的输入, 第六章  
     </details> 
 
-- 🕯 [Axure RP 教程，如何在 Axure RP 中制作交互式应用导航框架？](https://juejin.cn/post/7153836319066554398) | Thu Oct 13 2022 3:39 AM 
+- 💪 [Axure RP 教程，如何在 Axure RP 中制作交互式应用导航框架？](https://juejin.cn/post/7153836319066554398) | Thu Oct 13 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
     欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中制作交互式应用导航框架。 
-    </details> 
-
-- 🚀 [Fleet 公测版已放出，Jetbrains 下一代分布式代码编辑器抢先体验](https://juejin.cn/post/7153835287066443790) | Thu Oct 13 2022 3:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    Fleet 公测版已放出，Jetbrains 下一代分布式代码编辑器抢先体验 今天早上一醒来就收到了 Jetbrains 的邮件，原来是之前预约了很久的 Fleet 编辑器终于发布了公测版 
-    </details> 
-
-- 💪 [红袖添香,绝代妖娆,Ruby语言基础入门教程之Ruby3基础数据类型&lpar;data types&rpar;EP02](https://juejin.cn/post/7153831785032319013) | Thu Oct 13 2022 3:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    Ruby是强类型静态语言，即Ruby中一旦某一个对象被定义类型，如果不通过强制转换操作，那么它永远就是该数据类型，并且只有在Ruby解释器运行时才会检测对象数据类型，它的一切皆为对象 
     </details> 
 <!-- juejin:END -->
 ### 少数派
