@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [GlueMotion 2.0.8 缩时摄影](https://xclient.info/s/gluemotion.html) | Wed Oct 12 2022 12:41 AM 
+- 🦏 [Alfred 5.0.3&lpar;2087&rpar; 效率神器](https://xclient.info/s/alfred.html) | Thu Oct 13 2022 12:26 AM 
     <details><summary>展开描述 ...</summary> 
-    GlueMotion是Mac平台上的一款缩时摄影师的理想工具。GlueMotion Mac版允许用户批量对图像进行编辑、去闪烁，并将图像序列汇编成缩时影片。 
+    Alfred 这是一款被称之为Mac效率神器的App，有了Alfred 你甚至无需鼠标就可以实现各种操作，包括出发各种文件、网络操作，其UI界面使用方便，而且不是通过命令来实现，是开发者们和键盘刘童鞋们的神器，比之此前类似的软件——Pack和Power来说完全是秒杀的节奏。 
     </details> 
 
--  [Mirror for Android TV 2.8 Android屏幕镜像应用](https://xclient.info/s/mirror-for-android-tv.html) | Wed Oct 12 2022 12:40 AM 
+-  [Fix My iPhone 2.2.7 系统恢复](https://xclient.info/s/fix-my-iphone.html) | Thu Oct 13 2022 12:23 AM 
     <details><summary>展开描述 ...</summary> 
-    Mirror for Android TV是Mac os系统上Android智能电视影像投放软件，用户通过该软件可以将Mac电脑的影像投放在Android 智能电视上。 
+    Fix My iPhone 是Mac平台上的一款iOS系统恢复软件。如果你的iPhone出现黑屏、升级失败、卡在Apple标志等问题都可以使用Fix My iPhone 来修复，而且不会丢失数据。 
     </details> 
 
-- ⚗️ [Mirror for Fire TV 2.8 Amazon Fire TV屏幕镜像应用](https://xclient.info/s/mirror-for-fire-tv.html) | Wed Oct 12 2022 12:39 AM 
+- ⚗️ [Omni Recover 3.4.3 iPhone数据恢复软件](https://xclient.info/s/omni-recover.html) | Thu Oct 13 2022 12:16 AM 
     <details><summary>展开描述 ...</summary> 
-    您的 Mac 到任何Amazon Fire TV屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
+    Omni Recover是一款恢复iPhone数据恢复最好的软件。它可以与您所有的苹果设备，iOS和iTunes版本无缝地配合使用。 
     </details> 
 
-- 🔥 [Mirror for Hisense TV 3.9.1 Hisense智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-hisense-tv.html) | Wed Oct 12 2022 12:38 AM 
+- 🔥 [Theine 3.4.6 防止系统休眠工具](https://xclient.info/s/theine.html) | Thu Oct 13 2022 12:15 AM 
     <details><summary>展开描述 ...</summary> 
-    您的 Mac 到任何Hisense智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
+    Theine 是一款防止 Mac 休眠/屏幕变暗/启动屏幕保护的应用。只需单击任务栏的图标即可开启/关才，支持定义自定义全局热键。它快速，轻巧并且针对macOS 10.15 Catalina进行了优化。 
     </details> 
 
-- 🌋 [Mirror for LG TV 3.8 LG智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-lg-tv.html) | Wed Oct 12 2022 12:38 AM 
+- 🌋 [SyncBird Pro 3.8.6 iOS内容管理软件](https://xclient.info/s/syncbird-pro.html) | Thu Oct 13 2022 12:14 AM 
     <details><summary>展开描述 ...</summary> 
-    您的 Mac 到任何LG智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
+    SyncBird Pro是一款运行在Mac平台上的iOS内容管理软件，你可以使用SyncBird Mac版在iPhone、iPad和Mac之间转移音乐、照片、视频、书籍等内容，SyncBird Mac版还支持转换格式、双向同步、导入等实用的功能。 
     </details> 
 <!-- xclient:END -->
 
