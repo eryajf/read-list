@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Shimmer - 1:1 ADHD 辅导，比其他方法便宜 5-10 倍](https://xinquji.com/posts/180425?utm_campaign=xinquji-rss) | Thu Oct 13 2022 6:39 AM 
+- 👀 [Airbabble - 一键与世界分享您的声音](https://xinquji.com/posts/180459?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     1:1 ADHD 辅导，比其他方法便宜 5-10 倍  
+     一键与世界分享您的声音  
     </details> 
 
-- 🥷 [Emailify for Figma - 从 Figma 设计和导出可用于生产的 HTML 电子邮件](https://xinquji.com/posts/180424?utm_campaign=xinquji-rss) | Thu Oct 13 2022 6:38 AM 
+- 🥷 [This Wallpaper Does Not Exist - AI 生成的壁纸和背景图片](https://xinquji.com/posts/180458?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     从 Figma 设计和导出可用于生产的 HTML 电子邮件  
+     AI 生成的壁纸和背景图片  
     </details> 
 
-- 💼 [Top 200 Linkedin Creators Worldwide - 基于 ultime AI 的领英影响者名单](https://xinquji.com/posts/180423?utm_campaign=xinquji-rss) | Thu Oct 13 2022 6:37 AM 
+- 💼 [LeadQuest by DropFriends - 不废话，只是引导](https://xinquji.com/posts/180457?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     基于 ultime AI 的领英影响者名单  
+     不废话，只是引导  
     </details> 
 
-- 🦅 [Shoot YOUR Shot - AI Edition - 让你的推特被人工智能烤熟](https://xinquji.com/posts/180422?utm_campaign=xinquji-rss) | Thu Oct 13 2022 6:36 AM 
+- 🦅 [Plaid Identity Verification - 在短短 10 秒内验证全球用户](https://xinquji.com/posts/180456?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     让你的推特被人工智能烤熟  
+     在短短 10 秒内验证全球用户  
     </details> 
 
-- 😺 [Appcues Mobile - 在几分钟而不是几周内提高您的移动采用率](https://xinquji.com/posts/180421?utm_campaign=xinquji-rss) | Thu Oct 13 2022 6:35 AM 
+- 😺 [MetMate - 人工智能驱动的协作会议平台](https://xinquji.com/posts/180455?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     在几分钟而不是几周内提高您的移动采用率  
+     人工智能驱动的协作会议平台  
     </details> 
 <!-- xinquji:END -->
