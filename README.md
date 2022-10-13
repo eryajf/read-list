@@ -338,7 +338,7 @@
     本篇文章中，我们将会了解凭据使用环境管理不善与不安全的系统配置，并给出相应的风险缓解建议。 
     </details> 
 
-- 🦄 [2022产业观察 | 漏洞武器化，成为勒索软件锋利的“矛”](https://www.freebuf.com/articles/network/346683.html) | Wed Oct 12 2022 11:04 AM 
+- 🦄 [2022产业观察 | 勒索软件锋利的“矛”：漏洞武器化](https://www.freebuf.com/articles/network/346683.html) | Wed Oct 12 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
     我们发现，勒索即服务（RaaS）愈加成熟，旧的恶意软件变体回归，新的变体不断发展，漏洞愈发武器化，勒索生态逐渐工业化。 
     </details> 
