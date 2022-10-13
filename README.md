@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2023 届秋招回顾，寒气逼人。。。](https://juejin.cn/post/7153986552287690760) | Thu Oct 13 2022 1:22 PM 
+- 🤗 [JavaScript设计模式之策略模式](https://juejin.cn/post/7154024674207203335) | Thu Oct 13 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-    最近几天朋友圈被一篇文章刷屏了，是一位参与了 2023 届秋招的同学分享的秋招回顾总结。 都说今年的秋招难，寒气弥漫，那我们一起来看看这位同学是如何准备秋招、如何应对焦虑，最终拿到 offer 的吧！ 
+    本文将介绍策略模式的基本概念和使用场景，配合Axios源码中策略模式的使用和本人工作中重构代码的一次经历，使读者能更加深刻的理解策略模式 
     </details> 
 
-- 🎡 [转转推荐场景EE题解决思路](https://juejin.cn/post/7153983193258360868) | Thu Oct 13 2022 1:08 PM 
+- 🎡 [brython | HTML 元素](https://juejin.cn/post/7154021896894283813) | Thu Oct 13 2022 3:39 PM 
     <details><summary>展开描述 ...</summary> 
-    在Exploitation中最重要的是 Relevance &lpar; 相关性 &rpar; 的计算，其根本思想是根据用户浏览、观看和收藏的内容等用户行为数据推测该用户可能采取的行动。 
+    本篇将讲述brython的HTML元素。我们打开brython的官网，选择browser.html，我们会发现其brython支持很多的标签，以及元素。 
     </details> 
 
-- 🕯 [隐秘的 MySQL 类型转换](https://juejin.cn/post/7153975482973847560) | Thu Oct 13 2022 12:39 PM 
+- 🕯 [前端需要去了解的nodejs知识&lpar;express路由详解&rpar;](https://juejin.cn/post/7154012895242616840) | Thu Oct 13 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 本文来自于我近期工作中遇到的一个真实问题，稍作整理后分享给大家~ 1、问题开篇 一张用户表，其中 phone 添加了普通索引： 分别执行以下 SQL： 1、字符串类型查询 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 在上一节中我们简单了解了express的一些基础用法，本文主要分析下express的核心功能路由的使用。 
     </details> 
 
-- 🚀 [vue router 4 源码篇：导航守卫该如何设计（二）](https://juejin.cn/post/7153958470499172382) | Thu Oct 13 2022 11:33 AM 
+- 🚀 [声网高纯：领域和方向要聚焦，用最专业的方法做最专业的事丨人物专访](https://juejin.cn/post/7154009438624579591) | Thu Oct 13 2022 2:53 PM 
     <details><summary>展开描述 ...</summary> 
-    哈喽大咖好，我是跑手，本次给大家继续探讨vue-router@4.x源码中有关导航守卫部分。在这章节中，你可以更系统并全面学习vue router的路由拦截模式和守卫设计模式 
+    RTC 技术和多媒体实时处理技术向来以高复杂度著称，而在 web 平台上由于性能和可扩展性问题，其所受的制约尤为明显，但新一代媒体处理与通信的标准。 
     </details> 
 
-- 💪 [Eureka源码3-Client启动入口&lpar;注册，续约，定时任务&rpar;](https://juejin.cn/post/7153951353063079943) | Thu Oct 13 2022 11:05 AM 
+- 💪 [Android性能优化系列篇（二）：启动优化](https://juejin.cn/post/7153991850750115853) | Thu Oct 13 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
-    EurekaClient启动入口，DiscoveryClient类，服务注册，定时任务（定时更新客户端注册表，定时续约，定时更新Client信息给Server） 
+    汇总了一下众多大佬的性能优化文章，知识点，主要包含： UI优化/启动优化/崩溃优化/卡顿优化/安全性优化/弱网优化/APP深度优化等等等~ 本篇是第二篇：启动优化！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
