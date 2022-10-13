@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [express的实现｜3.完善路由](https://juejin.cn/post/7153895588507942942) | Thu Oct 13 2022 7:28 AM 
+- 🤗 [发布动态的话题？记录EditText中如何输入自定义#话题](https://juejin.cn/post/7153932700066250760) | Thu Oct 13 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-    关于路由，上文只是简单的实现了单一请求匹配单一应答，对于`express`的路由系统而言，其实还有更重要的两个特性没有体现 - 多匹配机制 - 多回调机制 
+    之前的文章我们都讲到了WX盆友圈动态列表的效果，九宫格控件的实现,那么索性就把发布动态的流程也讲一下。发布其实就是输入文本框，然后选择图片或视频，然后传到资源服务器，数据提交给后端。主要麻烦的一个点就 
     </details> 
 
-- 🎡 [React组件库Concis | 组件突破50+,移动端concis起步,新增英语文档,持续更新中...](https://juejin.cn/post/7153895360824344607) | Thu Oct 13 2022 7:28 AM 
+- 🎡 [前端脚手架搭建-2](https://juejin.cn/post/7153922667996217380) | Thu Oct 13 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-    concis react组件库持续更新中，组件突破50+,移动端concis起步,新增英语文档,欢迎小伙伴加入... 
+    # 初始化项目 1.创建项目 ``` mkidr cli-build cd cli-build npm init -y ``` 2.创建入口文件 ``` // bin/index.js #!/ 
     </details> 
 
-- 🕯 [货拉拉大数据对Bitmap的探索与实践（下）](https://juejin.cn/post/7153890509054803976) | Thu Oct 13 2022 7:10 AM 
+- 🕯 [Android性能优化系列篇（一）：UI优化](https://juejin.cn/post/7153920894921801764) | Thu Oct 13 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    以上介绍了Apache Druid中如何构建bitmap索引和维度字典来实现高效查询的，以及我们基于全局字典编码+bitmap实现的精确去重方案改造，使其能够支持整形高基围的精准去重场景。 
+    从网上汇总搜集众多大佬的性能优化文章，整理出来部分知识点，本篇是性能优化系列的第一篇文章：UI优化！ 
     </details> 
 
-- 🚀 [字节跳动大规模企业级 HTTP 框架 Hertz 设计实践](https://juejin.cn/post/7153889167385526308) | Thu Oct 13 2022 7:04 AM 
+- 🚀 [Axure RP 教程，如何在 Axure RP 中只用画布制作交互式移动应用？](https://juejin.cn/post/7153919838095114253) | Thu Oct 13 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    日前，字节跳动技术社区 ByteTech 举办的第七期字节跳动技术沙龙圆满落幕，本期沙龙以《字节高性能开源微服务框架：CloudWeGo》为主题。 
+    欢迎观看 Axure RP 中文版教程，小编带大家学习 Axure RP 的基本工具和使用技巧，了解如何在 Axure RP 中只用画布制作交互式移动应用。 
     </details> 
 
-- 💪 [正则校验收录](https://juejin.cn/post/7153886541515849759) | Thu Oct 13 2022 6:54 AM 
+- 💪 [前端国际化的思考与实践](https://juejin.cn/post/7153913303176052773) | Thu Oct 13 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
-    持续收录，个别未经过自己测试，`如有问题请留言，共同探讨，莫要不当言论辱没`，欢迎收藏。如有雷同，出处一样 
+    写在开头 之前一直听别人在后台模板中或者博客模板中提到国际化，i18n等，但是自己只是百度谷歌浏览了解一下，并未深入，直到上月公司开始拓展海外市场。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
