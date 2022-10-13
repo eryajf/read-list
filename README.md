@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [1.3万元起的RTX 4090全球性断货 NVIDIA想出一个妙招](https://www.cnbeta.com/articles/tech/1326887.htm) | Thu Oct 13 2022 4:48 PM 
+- 🕯 [没核显的酷睿i9-13900KF意外偷跑 频率很含蓄](https://www.cnbeta.com/articles/tech/1326889.htm) | Thu Oct 13 2022 5:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Intel 13代酷睿K/KF系列将于10月20日21点解禁上市。不过现在，一颗无核显的i9-13900KF意外偷跑，有人泄露了包装盒局部，型号、需要独显等字样清晰可见。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326889.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [1.3万元起的RTX 4090全球性断货 NVIDIA想出一个妙招](https://www.cnbeta.com/articles/tech/1326887.htm) | Thu Oct 13 2022 4:48 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;RTX 4090虽然价格高达1.3万元起步，贵的卖到了1.6万元之上，但在RTX 40系列中反而是性价比最好的，性能提升幅度也非常感人。虽然之前有说法称，这次备货是以往的3倍，绝对管够，但是开卖之后还是“秒光”，无论国内还是欧美都没多少货——京东上只有两款显示有货，还需要预约。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326887.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [在快手上看完这群大爷大妈 我羞愧到想退网](https://hot.cnbeta.com/articles/movie/1326885.htm) | Thu Oct 13 2022 4:41 PM 
+- 💂 [在快手上看完这群大爷大妈 我羞愧到想退网](https://hot.cnbeta.com/articles/movie/1326885.htm) | Thu Oct 13 2022 4:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;现如今，爷爷奶奶们平日都在干嘛？在世超的记忆里，老一辈玩不转智能手机，平时最大消遣就是楼下一起打牌唠嗑，又或者在躺椅上看电视，晚上去跳跳广场舞。但最近，世超发现，在短视频平台上，藏着好多与以往‘&amp;nbsp;不通网&amp;nbsp;’相去甚远的老年弄潮儿。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1326885.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [消息称欧盟失去耐心 明年对谷歌广告业务提起反垄断指控](https://www.cnbeta.com/articles/tech/1326883.htm) | Thu Oct 13 2022 4:36 PM 
+- 🚀 [消息称欧盟失去耐心 明年对谷歌广告业务提起反垄断指控](https://www.cnbeta.com/articles/tech/1326883.htm) | Thu Oct 13 2022 4:36 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，多位知情人士今日称，欧盟将于明年对谷歌的数字广告业务提出反垄断指控，因为双方的和解谈判进展缓慢，欧盟委员会已经失去了耐心。在过去的10多年，谷歌母公司Alphabet一直在拓展营收源，包括销售硬件、订阅服务和云计算技术等。但到目前为止，广告业务仍是Alphabet最赚钱的业务，占其年营收的约80%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326883.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [全面叫停新设网络小贷机构 银保监会再次强调强监管](https://www.cnbeta.com/articles/tech/1326881.htm) | Thu Oct 13 2022 4:35 PM 
+- 🎊 [全面叫停新设网络小贷机构 银保监会再次强调强监管](https://www.cnbeta.com/articles/tech/1326881.htm) | Thu Oct 13 2022 4:35 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日，针对互联网贷款问题，中国银保监会在人民网“领导留言板”上关于“全面叫停新设网络小额贷款从业机构” 的一则回复引起广泛关注。事实上，类似说法早在2017年就有文件提及，之后未有明确放开信号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326881.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Apple Card将为Daily Cash带来新的储蓄账户](https://www.cnbeta.com/articles/tech/1326879.htm) | Thu Oct 13 2022 3:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今晚通过新闻稿宣布，Apple Card用户很快就能通过将其Daily Cash自动存入高盛公司的高收益储蓄账户来增加他们在钱包中的奖励。全过程没有任何费用，没有最低存款额，也没有最低余额要求。有了这个账户，用户将能够直接从钱包中花费、发送和保存Daily Cash。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1326879.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
