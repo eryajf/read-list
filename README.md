@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Eureka源码4-服务离线源码&lpar;状态变更&rpar;解析](https://juejin.cn/post/7154327636448116772) | Fri Oct 14 2022 11:26 AM 
+- 🤗 [Shell中运算操作和常见错误解决](https://juejin.cn/post/7154367331303424036) | Fri Oct 14 2022 2:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    运算操作 四则运算 不经常写脚本的同学，遇到的第一个坎就是这个——shell脚本中不能直接做加减乘除（报错command not found）： 可以在线Shell工具尝试undefinedBash  
+    </details> 
+
+- 🎡 [Java&amp;C++题解与拓展——leetcode940.不同的子序列 II【么的新知识？】](https://juejin.cn/post/7154350493886578702) | Fri Oct 14 2022 12:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    leetcode940.不同的子序列 II解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    </details> 
+
+- 🕯 [浅谈基于Web的跨平台桌面应用开发](https://juejin.cn/post/7154348142350041101) | Fri Oct 14 2022 12:45 PM 
+    <details><summary>展开描述 ...</summary> 
+    0 前言 近些年来，跨平台跨端一直是比较热门的话题，Write once, run anywhere，一直是我们开发者所期望的，跨平台方案的优势十分明显，对于开发者而言，可以做到一次开发，多端复用，一 
+    </details> 
+
+- 🚀 [Eureka源码4-服务离线源码&lpar;状态变更&rpar;解析](https://juejin.cn/post/7154327636448116772) | Fri Oct 14 2022 11:26 AM 
     <details><summary>展开描述 ...</summary> 
     服务下架基于Actuator和EurekeServer两种方式进行操作，服务状态变更和删除状态源码分析 
     </details> 
 
-- 🎡 [React魔法堂：echarts-for-react源码略读](https://juejin.cn/post/7154317775727493157) | Fri Oct 14 2022 10:47 AM 
+- 💪 [React魔法堂：echarts-for-react源码略读](https://juejin.cn/post/7154317775727493157) | Fri Oct 14 2022 10:47 AM 
     <details><summary>展开描述 ...</summary> 
     前言 在当前工业4.0和智能制造的产业升级浪潮当中，智慧大屏无疑是展示企业IT成果的最有效方式之一。然而其背后怎么能缺少ECharts的身影呢？对于React应用而言，直接使用ECharts并不是最高 
-    </details> 
-
-- 🕯 [【前端&amp;运维那点事儿】四：Linux中的文件权限管理](https://juejin.cn/post/7154308100437049351) | Fri Oct 14 2022 10:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上一篇文章中，介绍了用户和用户组的相关内容，这篇文章介绍一下与用户息息相关的文件权限管理； 这篇文章中的主要内容如下： ls -l回显详解； 文件权限 文件夹权限 修改权限相关的命令 
-    </details> 
-
-- 🚀 [Android Framework | 读懂异常调用栈](https://juejin.cn/post/7154301024482623519) | Fri Oct 14 2022 9:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    异常，是程序未按预设逻辑运行的一种提示。Java中的异常输出通常包含一句提示语和其发生时的调用栈。多数情况下，这些提示是直接且清晰的。但如果我们将异常捕获后封装一下重新抛出，或者让它发生在跨进程通信 
-    </details> 
-
-- 💪 [D2C 设计稿转代码是怎么实现的？自己做一个可行吗？](https://juejin.cn/post/7154300576925220871) | Fri Oct 14 2022 9:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    D2C 是指 Design to Code，设计稿转代码，输入是 sketch、figma、PSD 等设计稿，输出是 vue、react、小程序等各平台的前端代码。 对前端工程师来说，如果能直接把设计 
     </details> 
 <!-- juejin:END -->
 ### 少数派
