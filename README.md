@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [苹果对「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求](http://www.mac52ipod.cn/post/apple-device-7-7-inch.php) | Tue Oct 11 2022 7:17 AM 
+- 👨‍🏫 [苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2](http://www.mac52ipod.cn/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin-2.php) | Fri Oct 14 2022 2:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	此前推荐过基于 iOS CoreML 机器学习的垃圾短信过滤应用：&lt;u&gt;&lt;a href=&quot;/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin.php&quot; target=&quot;_blank&quot; title=&quot;苹果 iPhone 垃圾短信过滤应用：熊猫吃短信&quot;&gt;&lt;font color=#0000FF&gt;熊猫吃短信&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。不需要做任何配置，不需要联网（所以也不用担心信息泄露），过滤垃圾短信的效果也非常好，连苹果官方都在应用商店多次推荐。&lt;/p&gt;&lt;p&gt;现在，开发者推出了新版：熊猫吃短信2。新版支持更加详细的短信分类，在垃圾短信之外可以单独分类交易记录、订单物流、公益短信、运营商等短信。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6715&quot; border=&quot;0&quot; alt=&quot;苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2&quot; title=&quot;苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2&quot; /&gt;&lt;/p&gt;&lt;p&gt;如果你担心短信被误删：打开信息应用就能看到，信息里面会多一个“由熊猫吃短信过滤”的标签页，所有过滤的信息都在那里面，短信不会消失的。&lt;/p&gt;&lt;p&gt;熊猫吃短信2 - 垃圾短信拦截 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/app/panda2/id1642682818&quot; target=&quot;_blank&quot; title=&quot;熊猫吃短信2 - 垃圾短信拦截&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/app/panda2/id1642682818&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%259F%25AD%25E4%25BF%25A1&quot; rel=&quot;tag&quot;&gt;短信&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [苹果对「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求](http://www.mac52ipod.cn/post/apple-device-7-7-inch.php) | Tue Oct 11 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [有人评测和分析了为什么 Windows PC 笔记本电脑的续航时间远小于苹果 MacBook Pro/ Air](http://www.mac52ipod.cn/post/apple-silicone-mac-macbook-pro-air-windows-pc-laptop-battery-life.php) | Mon Sep 26 2022 1:09 AM 
+- 🦏 [有人评测和分析了为什么 Windows PC 笔记本电脑的续航时间远小于苹果 MacBook Pro/ Air](http://www.mac52ipod.cn/post/apple-silicone-mac-macbook-pro-air-windows-pc-laptop-battery-life.php) | Mon Sep 26 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [在苹果 iPhone 锁屏界面一键启动 App / 健康码 / 付款码 / 快捷指令：锁屏启动 &lpar;Lock Launcher&rpar;](http://www.mac52ipod.cn/post/apple-ios-iphone-app-lock-launcher.php) | Sat Sep 24 2022 5:11 AM 
+- 🚀 [在苹果 iPhone 锁屏界面一键启动 App / 健康码 / 付款码 / 快捷指令：锁屏启动 &lpar;Lock Launcher&rpar;](http://www.mac52ipod.cn/post/apple-ios-iphone-app-lock-launcher.php) | Sat Sep 24 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [Apple新闻之苹果将在欧洲、日韩等国家上调 App Store 的应用售价和内付费价格](http://www.mac52ipod.cn/post/apple-app-store-raise-prices-in-japan-europe-korea-and-more-countries.php) | Thu Sep 22 2022 4:51 AM 
+- 🏊 [Apple新闻之苹果将在欧洲、日韩等国家上调 App Store 的应用售价和内付费价格](http://www.mac52ipod.cn/post/apple-app-store-raise-prices-in-japan-europe-korea-and-more-countries.php) | Thu Sep 22 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	苹果官网公布了通知，App Store 下个月在这些国家涨价：日本、韩国、瑞典、越南、波兰、智利、埃及、马来西亚、巴基斯坦、以及所有使用欧元的国家。&lt;/p&gt;&lt;p&gt;涨价既涉及 App 售价，也涉及内付费价格（比如游戏里面买道具、视频或音乐 App 里买会员）。&lt;/p&gt;&lt;p&gt;在越南的涨价原因是有新税法，在欧元区还有日韩等国家涨价的原因应该是欧元、日元等货币贬值幅度太大了&lt;/p&gt;&lt;p&gt;至于涨价幅度，每个国家不一样，以影响面最大的欧元区举例吧，原价 0.99 欧元的 App，要涨到 1.19 欧元了。其它各档也有类似幅度的涨价，比如 9.99 欧元的 App 要涨价到 11.99 欧元。&lt;/p&gt;&lt;p&gt;苹果官网原文&amp;nbsp;&amp;nbsp;&lt;u&gt;&lt;a href=&quot;https://developer.apple.com/news/?id=e1b1hcmv&amp;1663640181&quot; target=&quot;_blank&quot; title=&quot;Upcoming price and tax changes for apps and in-app purchases&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://developer.apple.com/news/?id=e1b1hcmv&amp;1663640181&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=appstore&quot; rel=&quot;tag&quot;&gt;appstore&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Mac技巧之让你上网时自动通过网站的图形验证码：Noptcha: ReCAPTCHA  hCAPTCHA Solver](http://www.mac52ipod.cn/post/chrome-hcaptcha-recaptcha-extension-noptcha.php) | Tue Sep 20 2022 2:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	上网时经常被网站推到  reCAPTCHA或 hCAPTCHA 图形验证页面，如下图所示。美其名曰为了验证我是个人还是个恶意攻击网站的程序，但实际上很可能是利用我帮 IT 公司们训练图像识别 AI（我就发现 Google 经常给我弹 reCAPTCHA 验证）。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6666&quot; border=&quot;0&quot; alt=&quot;我是人类 reCAPTCHA 图形验证码&quot; title=&quot;我是人类 reCAPTCHA 图形验证码&quot; /&gt;&lt;/p&gt;&lt;p&gt;此前推荐过一个通过 AI 自动识别验证信息的浏览器扩展 &lt;u&gt;&lt;a href=&quot;/post/chrome-firefox-edge-opera-recaptcha-extension-buster.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之让你上网时自动通过网站的我是人类 reCAPTCHA 图形验证码：Buster&quot;&gt;&lt;font color=#0000FF&gt;Buster&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，最近又发现一个类似的「用魔法打败魔法、用 AI 打败 AI 训练题」的工具：Noptcha，不仅支持自动通过 reCAPTCHA 验证，还加上了对 hCAPTCHA 的支持。&lt;/p&gt;&lt;p&gt;Noptcha: ReCAPTCHA &amp; hCAPTCHA Solver 下载 &lt;u&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo&quot; target=&quot;_blank&quot; title=&quot;Noptcha: ReCAPTCHA &amp; hCAPTCHA Solver 下载&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=hcaptch&quot; rel=&quot;tag&quot;&gt;hcaptch&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=recaptcha&quot; rel=&quot;tag&quot;&gt;recaptcha&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=ai&quot; rel=&quot;tag&quot;&gt;ai&lt;/a&gt;
 
  
     </details> 
