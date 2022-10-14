@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美国零售业巨头克罗格以246亿美元收购艾伯森](https://www.cnbeta.com/articles/tech/1327281.htm) | Fri Oct 14 2022 5:30 PM 
+- 🕯 [科学家在旅行者2号数据中发现了天王星周围的神秘尘环](https://www.cnbeta.com/articles/science/1327285.htm) | Fri Oct 14 2022 6:04 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;科学家们发现了一个关于天王星环的新谜团，它深埋在美国宇航局标志性的旅行者2号任务的数据中。&lt;/strong&gt;旅行者2号在1986年1月飞过天王星，发现了10颗卫星和两个星环，同时成为第一个也是迄今为止唯一一个访问这个冰巨星的航天器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [三星终于详细介绍了One UI 5.0的顶级功能](https://www.cnbeta.com/articles/tech/1327283.htm) | Fri Oct 14 2022 5:53 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;自从三星在其三星开发者大会上宣布基于Android 13的One UI 5.0以来，才过了一段时间，&lt;strong&gt;虽然当时只是一个公告，但这家韩国公司现在提前对更新内容进行了一些具体说明。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [美国零售业巨头克罗格以246亿美元收购艾伯森](https://www.cnbeta.com/articles/tech/1327281.htm) | Fri Oct 14 2022 5:30 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;span style=&quot;&quot;&gt;全美第一大杂货商克罗格计划收购第二大杂货商艾伯森，交易总规模达到246亿美元。本周四，媒体率先披露了该信息。根据收购计划，克罗格将以34.10美元/股的价格收购艾伯森，并承担艾伯森约47亿美元的净债务。作为交易的一部分，艾伯森将向其股东支付高达40亿美元的特别现金股息。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [一位25岁的模型玩家去世了，他的母亲决定继承他的遗志](https://hot.cnbeta.com/articles/game/1327279.htm) | Fri Oct 14 2022 5:27 PM 
+- 🚀 [一位25岁的模型玩家去世了，他的母亲决定继承他的遗志](https://hot.cnbeta.com/articles/game/1327279.htm) | Fri Oct 14 2022 5:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;闲鱼上，有家名不见传的模型小店。店里常会挂出一些店主自制的&amp;nbsp;“&amp;nbsp;模型改件&amp;nbsp;”&amp;nbsp;，因为 3D 打印的手艺好，价格便宜，所以被不少学生党视为宝藏。从这家店的主页看得出来，店主应该是个《&amp;nbsp;赛博朋克 2077 》粉丝，由于头像是久保带人的《&amp;nbsp;龙与魔女》，没准儿还是个资深二次元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [显卡史上第一次 RTX 4080 12GB突然取消](https://www.cnbeta.com/articles/tech/1327277.htm) | Fri Oct 14 2022 5:25 PM 
+- 🎊 [显卡史上第一次 RTX 4080 12GB突然取消](https://www.cnbeta.com/articles/tech/1327277.htm) | Fri Oct 14 2022 5:25 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;RTX 40系列发布后，被吐槽最多的除了价格偏高，就是“RTX 4080 12GB”。它和RTX 4080 16GB乍一看属于同一系列，非常接近，但其实是两种核心，规格相差极大，而且只有192-bit显存位宽，x70系列在历史上甚至都没有过如此之低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [这件看起来“平平无奇”的文物 竟然藏着秦统一天下的秘密？](https://www.cnbeta.com/articles/science/1327275.htm) | Fri Oct 14 2022 5:25 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;每年的10月14日，是“世界标准日”。今天要跟大家分享的这件文物，就与“标准”密不可分——&lt;strong&gt;它，叫做“商鞅方升”。&lt;/strong&gt;商鞅方升深2.3厘米，通长18.7厘米，宽6.9厘米，重0.7千克，也就比一个成年人的手掌略大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [出口量翻倍的中国电车，这次要反攻欧洲了？](https://www.cnbeta.com/articles/tech/1327273.htm) | Fri Oct 14 2022 5:24 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;都说买车要在&amp;nbsp;“&amp;nbsp;金九银十&amp;nbsp;”，一年之中到了这个时间段，厂家为了冲业绩变着法儿的搞促销，这时候下单肯定不亏。这不，刚过去的九月，主机厂们就纷纷放出了喜人战绩，国内市场整体销量也是一片大好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
