@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022 JavaScript 年度报告（翻译）](https://juejin.cn/post/7154242322169856036) | Fri Oct 14 2022 5:55 AM 
+- 🤗 [Android性能优化系列篇（三）：崩溃优化+卡顿优化](https://juejin.cn/post/7154255411351126047) | Fri Oct 14 2022 6:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    汇总了一下众多大佬的性能优化文章，知识点，主要包含： UI优化/启动优化/崩溃优化/卡顿优化/安全性优化/弱网优化/APP深度优化等等等~ 本篇是第三篇：崩溃优化+卡顿优化 
+    </details> 
+
+- 🎡 [WebRtc简述（实现游览器和游览器之间点对点通信）](https://juejin.cn/post/7154248201585819679) | Fri Oct 14 2022 6:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 什么是 WebRTC 跨平台、低时延、端对端**的音视频实时通信技术 概述 WebRTC（Real-Ti 
+    </details> 
+
+- 🕯 [2022 JavaScript 年度报告（翻译）](https://juejin.cn/post/7154242322169856036) | Fri Oct 14 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
     随着 Web 平台的成熟，我们希望看到更多地直接采用其各种 API 和功能，因为这样做是有意义的。对于那些需要框架来获得更好的开发者体验的体验，我们希望看到框架作者有更多的优化和机会来采用新的 API 
     </details> 
 
-- 🎡 [JavaScript设计模式之策略模式](https://juejin.cn/post/7154024674207203335) | Thu Oct 13 2022 3:50 PM 
+- 🚀 [怎样在Go中简单快速地生成固定长度的随机字符串](https://juejin.cn/post/7154206953940451335) | Fri Oct 14 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将介绍策略模式的基本概念和使用场景，配合Axios源码中策略模式的使用和本人工作中重构代码的一次经历，使读者能更加深刻的理解策略模式 
+    Q：怎样在Go语言中简单并快速地生成固定长度的随机字符串？ A： 问题里有问到“最快和最简单的的方式”，我们会实现最快的方式。接下来我们会一步步迭代，最终实现最快的方式。每次迭代的基准测试代码放在了答 
     </details> 
 
-- 🕯 [vue router 4 源码篇：导航守卫该如何设计（二）](https://juejin.cn/post/7153958470499172382) | Thu Oct 13 2022 11:33 AM 
+- 💪 [使用Mask R-CNN模型实现人体关键节点标注](https://juejin.cn/post/7154196527987032094) | Fri Oct 14 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-    哈喽大咖好，我是跑手，本次给大家继续探讨vue-router@4.x源码中有关导航守卫部分。在这章节中，你可以更系统并全面学习vue router的路由拦截模式和守卫设计模式 
-    </details> 
-
-- 🚀 [&lpar;八&rpar;MySQL锁机制：高并发场景下该如何保证数据读写的安全性？](https://juejin.cn/post/7153869469394305061) | Thu Oct 13 2022 5:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    MySQL内部采用多线程执行业务SQL，但多线程虽然性能优异，但在高并发情况下自然也会带来一系列隐患问题，那MySQL是如何保障并发读写数据时的安全性呢？本文咱们一起来聊一聊MySQL的锁机制。 
-    </details> 
-
-- 💪 [「微服务网关实战三」详细理解 SCG 路由、断言与过滤器](https://juejin.cn/post/7153854448798793735) | Thu Oct 13 2022 4:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    详细了解 Spring Cloud Gateway 的路由、断言和过滤器概念，助力你更好的理解 Spring Cloud Gateway 使用。 
+    ModelArts是面向开发者的一站式AI开发平台，帮助用户快速创建和部署模型，管理全周期 AI 工作流。在本案例中，我们将展示如何对基础的Mask R-CNN进行扩展，完成人体关键节点标注的任务。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
