@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《守望先锋：归来》部分英雄太强 暴雪：想平衡要等第二赛季](https://www.cnbeta.com/articles/tech/1327215.htm) | Fri Oct 14 2022 12:37 PM 
+- 🕯 [消息称苹果MR头显支持虹膜扫描：方便支付和多账号登录](https://www.cnbeta.com/articles/tech/1327227.htm) | Fri Oct 14 2022 1:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《守望先锋：归来》上线已有一段时间，玩家反馈部分英雄的强度有点“超模”，不过暴雪考虑到多方面因素计划在第二赛季再进行平衡调整。暴雪表示，通过各个英雄的游戏出场率以及胜率来看，目前的游戏平衡已经做的非常不错了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;知情人士今日称，苹果公司将于明年推出人们那期待已久的混合现实（MR）头显，支持虹膜扫描等功能，让竞争对手Meta的最新产品望尘莫及。据两位帮助苹果开发MR头显的人士透露，苹果的MR头显支持虹膜扫描功能，可对佩戴者的虹膜进行扫描。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [日本官方：《游戏王》作者高桥和希死因确认 晚公布考虑被救少女精神状态](https://hot.cnbeta.com/articles/comic/1327213.htm) | Fri Oct 14 2022 12:36 PM 
+- 💼 [Google正改版移动搜索结果页细节 将&quot;广告&quot;换成&quot;赞助&quot;字样](https://www.cnbeta.com/articles/tech/1327225.htm) | Fri Oct 14 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《游戏王》作者高桥和希7月时被发现在冲绳名护市外海意外身亡，当时官方宣布将调查死因。我们曾报道，10月12日美国《星条旗报》证实，高桥和希是在见义勇为的过程中，为营救卷入漩涡的3人而遭遇了意外。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1327213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;多年来，Google让人难以将广告和有机搜索结果一目了然地分开。在目前的迭代中，当用户进行搜索时，两者之间唯一的区别是用粗体字写的&amp;quot;广告&amp;quot;--而且很容易错过。今天，这家搜索巨头正在对这一点进行小的改变，在搜索结果中出现的广告旁边，用粗体的&amp;quot;赞助&amp;quot;标签取代了&amp;quot;广告&amp;quot;标签。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [9月份纯电动车销量榜：特斯拉“大小王”继续霸榜](https://www.cnbeta.com/articles/tech/1327211.htm) | Fri Oct 14 2022 12:30 PM 
+- 💂 [同步NVIDIA首发：全国第一家装RTX 4090的网吧](https://www.cnbeta.com/articles/tech/1327223.htm) | Fri Oct 14 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;刚刚过去的9月，国内狭义乘用车市场销量达192.2万辆，同比增长21.5%，环比8月的187.1万辆增长2.8%，汽车市场继续快速复苏，而新能源阵营销量也再创历史新高，&lt;strong&gt;9月销量70.8万辆，同比增长93.9%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周刚刚发售的RTX 4090，居然有网吧已经配上了？据&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s/YxrwOONBefOj921HFqj-mQ&quot; target=&quot;_blank&quot;&gt;索泰官方消息&lt;/a&gt;，&lt;strong&gt;位于广西柳州的鸿翔电竞馆在10月12日RTX 4090首销当日就为店内机器装上了RTX 4090，而且很可能是全国第一家装上RTX 4090的网吧。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [百公里仅需燃油车一半花销：上海首批氢能源网约车上路运营](https://www.cnbeta.com/articles/tech/1327209.htm) | Fri Oct 14 2022 12:29 PM 
+- 🚀 [AMD官宣11月3日揭晓RDNA3架构显卡](https://www.cnbeta.com/articles/tech/1327221.htm) | Fri Oct 14 2022 12:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当前，随着各地支持氢能产业政策的密集出台，氢能源技术的提升以及加氢基础设施的不断完善，氢能在交通领域的应用也日渐广泛。据央视报道，近日，&lt;strong&gt;上海推出首批80辆氢能源网约车投入商业运营&lt;/strong&gt;，那么新能源汽车离大规模商业应用还有多远？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据AMD官方目前发布的消息，&lt;strong&gt;AMD将在20天后的11月3日正式面向全世界揭晓RDNA3架构显卡。&lt;/strong&gt;按照目前的节奏来看，AMD大概率会在11月3日揭晓RDNA3架构显卡的规格与性能信息，而发售时间则可能会定在12月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [SOFIA探测到一种全新类型的组合新星喷发](https://www.cnbeta.com/articles/science/1327207.htm) | Fri Oct 14 2022 12:27 PM 
+- 🎊 [五家车企陷入弹窗门：新老玩家都有 到底谁之过？](https://www.cnbeta.com/articles/tech/1327219.htm) | Fri Oct 14 2022 12:55 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天文学家利用SOFIA（平流层红外天文观测站）发现了一些独特的东西。他们发现了一种新型的恒星爆发，这种爆发在所研究的系统类型中以前从未见过。通过一些巧妙的科学侦查工作，天文学家们能够确定使这种爆发与众不同的特征，并将其归入全新类别。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;车企竟把中控车机当成新一代广告位！？近期，一汽大众、奔驰等车企都因为车机弹窗广告上了热搜。据网友爆料，不久前一名一汽大众 ID.6 车主在使用导航时，车机屏幕界面突然弹出了一则广告 —— 用近半个屏幕的位置向车主宣传新出的拉新政策。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
