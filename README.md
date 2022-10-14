@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Vmware workstation 16 为撒创立的虚拟机不支持内嵌虚拟?](https://www.v2ex.com/t/887051#reply0) | Fri Oct 14 2022 6:40 PM
-- 🤗 [Java 不用 Spring 还能用点什么？](https://www.v2ex.com/t/887018#reply24) | Fri Oct 14 2022 2:10 PM
-- 🎭 [大佬们，怎么控制本地请求 API 的频率？](https://www.v2ex.com/t/887013#reply4) | Fri Oct 14 2022 1:27 PM
-- 🥷 [Goravel V1 正式版发布，让 Go 开发更简单、高效！](https://www.v2ex.com/t/887010#reply5) | Fri Oct 14 2022 1:18 PM
-- 🐵 [这几天通过腾讯云香港轻量访问 youtube, 超慢。。。](https://www.v2ex.com/t/886999#reply12) | Fri Oct 14 2022 12:22 PM<!-- v2ex:END -->
+- 🥸 [本地化部署的 NovelAI 具有潜在的反序列化攻击风险](https://www.v2ex.com/t/887052#reply0) | Fri Oct 14 2022 8:02 PM
+- 🤗 [Vmware workstation 16 为撒创立的虚拟机不支持内嵌虚拟?](https://www.v2ex.com/t/887051#reply0) | Fri Oct 14 2022 6:40 PM
+- 🎭 [Java 不用 Spring 还能用点什么？](https://www.v2ex.com/t/887018#reply24) | Fri Oct 14 2022 2:10 PM
+- 🥷 [大佬们，怎么控制本地请求 API 的频率？](https://www.v2ex.com/t/887013#reply4) | Fri Oct 14 2022 1:27 PM
+- 🐵 [Goravel V1 正式版发布，让 Go 开发更简单、高效！](https://www.v2ex.com/t/887010#reply5) | Fri Oct 14 2022 1:18 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
