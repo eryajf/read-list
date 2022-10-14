@@ -367,8 +367,8 @@
 - 🥸 [关于萤石云设备，以及类似的情况一般怎么处理比较好](https://www.v2ex.com/t/886943#reply0) | Fri Oct 14 2022 7:30 AM
 - 🤗 [Spring Cloud Gateway 使用过滤器工厂时，如何改变过滤器在调用链中的顺序？](https://www.v2ex.com/t/886936#reply0) | Fri Oct 14 2022 7:05 AM
 - 🎭 [七牛云的 cdn 配置不成功 一直 404 {&quot;error&quot;: &quot;Document not found&quot;}](https://www.v2ex.com/t/886934#reply3) | Fri Oct 14 2022 7:04 AM
-- 🥷 [Python - Requests 爬虫 爬取亚马逊产品页, Headers 被识别为机器人](https://www.v2ex.com/t/886930#reply6) | Fri Oct 14 2022 6:52 AM
-- 🐵 [为了公司发展，需要我们软件部门全员改合约到老板的一家新公司，会有什么风险吗](https://www.v2ex.com/t/886929#reply41) | Fri Oct 14 2022 6:50 AM<!-- v2ex:END -->
+- 🥷 [Python - Requests 爬虫 爬取亚马逊产品页, Headers 被识别为机器人](https://www.v2ex.com/t/886930#reply12) | Fri Oct 14 2022 6:52 AM
+- 🐵 [为了公司发展，需要我们软件部门全员改合约到老板的一家新公司，会有什么风险吗](https://www.v2ex.com/t/886929#reply47) | Fri Oct 14 2022 6:50 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
