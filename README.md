@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [消息称苹果MR头显支持虹膜扫描：方便支付和多账号登录](https://www.cnbeta.com/articles/tech/1327227.htm) | Fri Oct 14 2022 1:59 PM 
+- 🕯 [Intel i3-N305意外现身 8核8线程全部小核心](https://www.cnbeta.com/articles/tech/1327239.htm) | Fri Oct 14 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知情人士今日称，苹果公司将于明年推出人们那期待已久的混合现实（MR）头显，支持虹膜扫描等功能，让竞争对手Meta的最新产品望尘莫及。据两位帮助苹果开发MR头显的人士透露，苹果的MR头显支持虹膜扫描功能，可对佩戴者的虹膜进行扫描。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel 12代酷睿首次引入了大小核组成的混合架构，但也有一些无小核的型号，并且即将推出无大核的型号，也就是Alder Lake-N系列。它基于Gracemont CPU架构，最多8核心8线程，分为两组，同时集成Xe LP架构核心，最多32单元，支持AV1、H.264、H.265视频编解码。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Google正改版移动搜索结果页细节 将&quot;广告&quot;换成&quot;赞助&quot;字样](https://www.cnbeta.com/articles/tech/1327225.htm) | Fri Oct 14 2022 1:13 PM 
+- 💼 [特斯拉德国工厂遭遇技术瓶颈 推迟电池生产计划](https://www.cnbeta.com/articles/tech/1327237.htm) | Fri Oct 14 2022 2:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;多年来，Google让人难以将广告和有机搜索结果一目了然地分开。在目前的迭代中，当用户进行搜索时，两者之间唯一的区别是用粗体字写的&amp;quot;广告&amp;quot;--而且很容易错过。今天，这家搜索巨头正在对这一点进行小的改变，在搜索结果中出现的广告旁边，用粗体的&amp;quot;赞助&amp;quot;标签取代了&amp;quot;广告&amp;quot;标签。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，由于技术问题，特斯拉已推迟在德国工厂生产电池的计划。业内人士称，特斯拉推迟在德国工厂生产电池，并不是因为美国的税收优惠政策，也不是因为能源成本问题，而是一项关键、高度复杂的生产技术，出现了重大延误。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [同步NVIDIA首发：全国第一家装RTX 4090的网吧](https://www.cnbeta.com/articles/tech/1327223.htm) | Fri Oct 14 2022 1:00 PM 
+- 💂 [世纪互联版微软365服务及Teams明年正式入华](https://www.cnbeta.com/articles/tech/1327235.htm) | Fri Oct 14 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周刚刚发售的RTX 4090，居然有网吧已经配上了？据&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s/YxrwOONBefOj921HFqj-mQ&quot; target=&quot;_blank&quot;&gt;索泰官方消息&lt;/a&gt;，&lt;strong&gt;位于广西柳州的鸿翔电竞馆在10月12日RTX 4090首销当日就为店内机器装上了RTX 4090，而且很可能是全国第一家装上RTX 4090的网吧。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月13日，微软中国举办 Ignite 的分会场“Ignite China 中国技术峰会”，宣布多项针对中国市场的更新。由世纪互联运营的Teams以及Microsoft 365服务，将于2023年上半年正式推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [AMD官宣11月3日揭晓RDNA3架构显卡](https://www.cnbeta.com/articles/tech/1327221.htm) | Fri Oct 14 2022 12:58 PM 
+- 🚀 [罗素·克劳自导自演惊悚片《扑克脸》曝预告](https://hot.cnbeta.com/articles/movie/1327233.htm) | Fri Oct 14 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据AMD官方目前发布的消息，&lt;strong&gt;AMD将在20天后的11月3日正式面向全世界揭晓RDNA3架构显卡。&lt;/strong&gt;按照目前的节奏来看，AMD大概率会在11月3日揭晓RDNA3架构显卡的规格与性能信息，而发售时间则可能会定在12月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327221.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;奥斯卡影帝罗素·克劳自编自导自演的惊悚片《扑克脸》首曝预告，影片讲述克劳扮演的亿万富翁本想通过扑克游戏“玩弄”他的朋友，没想到半路却遇到入室抢劫的。影片将于今年11月22日北美上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [五家车企陷入弹窗门：新老玩家都有 到底谁之过？](https://www.cnbeta.com/articles/tech/1327219.htm) | Fri Oct 14 2022 12:55 PM 
+- 🎊 [台积电Q3财报：智能手机为营收最大贡献者 库存调整持续至明年](https://www.cnbeta.com/articles/tech/1327231.htm) | Fri Oct 14 2022 2:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;车企竟把中控车机当成新一代广告位！？近期，一汽大众、奔驰等车企都因为车机弹窗广告上了热搜。据网友爆料，不久前一名一汽大众 ID.6 车主在使用导航时，车机屏幕界面突然弹出了一则广告 —— 用近半个屏幕的位置向车主宣传新出的拉新政策。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月13日，台积电公布了2022年第三季度财报，数据显示，台积电第三季度总营收202亿美元，同比增长35.9%，环比增长11.4%。毛利率达60.4%，营业利润率达50.6%，均超出市场预期。不过在当天举行的电话财报会议上，台积电总裁魏哲家表示“预计在2023年，半导体行业可能会迎来下滑（周期）。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
