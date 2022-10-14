@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Alfred 5.0.3&lpar;2087&rpar; 效率神器](https://xclient.info/s/alfred.html) | Thu Oct 13 2022 12:26 AM 
+- 🦏 [ToothFairy 2.8.2 一键切换连接蓝牙设备](https://xclient.info/s/tooth-fairy.html) | Fri Oct 14 2022 12:02 AM 
     <details><summary>展开描述 ...</summary> 
-    Alfred 这是一款被称之为Mac效率神器的App，有了Alfred 你甚至无需鼠标就可以实现各种操作，包括出发各种文件、网络操作，其UI界面使用方便，而且不是通过命令来实现，是开发者们和键盘刘童鞋们的神器，比之此前类似的软件——Pack和Power来说完全是秒杀的节奏。 
+    Tooth Fairy是一款一键切换连接蓝牙设备的小工具 
     </details> 
 
--  [Fix My iPhone 2.2.7 系统恢复](https://xclient.info/s/fix-my-iphone.html) | Thu Oct 13 2022 12:23 AM 
+-  [TinkerTool System 7.91 系统深度设置维护工具](https://xclient.info/s/tinkertool-system.html) | Fri Oct 14 2022 12:01 AM 
     <details><summary>展开描述 ...</summary> 
-    Fix My iPhone 是Mac平台上的一款iOS系统恢复软件。如果你的iPhone出现黑屏、升级失败、卡在Apple标志等问题都可以使用Fix My iPhone 来修复，而且不会丢失数据。 
+    TinkerTool System 是一款Mac平台的系统深度设置维护工具，以帮助你修改一些系统隐藏的属性,包括系统界面字体,是否不显示隐藏文件等 
     </details> 
 
-- ⚗️ [Omni Recover 3.4.3 iPhone数据恢复软件](https://xclient.info/s/omni-recover.html) | Thu Oct 13 2022 12:16 AM 
+- ⚗️ [Slidepad 1.3.8 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Fri Oct 14 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    Omni Recover是一款恢复iPhone数据恢复最好的软件。它可以与您所有的苹果设备，iOS和iTunes版本无缝地配合使用。 
+    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。 
     </details> 
 
-- 🔥 [Theine 3.4.6 防止系统休眠工具](https://xclient.info/s/theine.html) | Thu Oct 13 2022 12:15 AM 
+- 🔥 [iReal Pro 2022.9 编曲软件](https://xclient.info/s/ireal-pro.html) | Thu Oct 13 2022 11:59 PM 
     <details><summary>展开描述 ...</summary> 
-    Theine 是一款防止 Mac 休眠/屏幕变暗/启动屏幕保护的应用。只需单击任务栏的图标即可开启/关才，支持定义自定义全局热键。它快速，轻巧并且针对macOS 10.15 Catalina进行了优化。 
+    iReal Pro是一款应用在mac平台上的乐谱编曲软件，它拥有强大的乐谱风格伴奏功能。 
     </details> 
 
-- 🌋 [SyncBird Pro 3.8.6 iOS内容管理软件](https://xclient.info/s/syncbird-pro.html) | Thu Oct 13 2022 12:14 AM 
+- 🌋 [Rhinoceros 7.23.22282.13002 强大的3D造型软件](https://xclient.info/s/rhino.html) | Thu Oct 13 2022 11:58 PM 
     <details><summary>展开描述 ...</summary> 
-    SyncBird Pro是一款运行在Mac平台上的iOS内容管理软件，你可以使用SyncBird Mac版在iPhone、iPad和Mac之间转移音乐、照片、视频、书籍等内容，SyncBird Mac版还支持转换格式、双向同步、导入等实用的功能。 
+    Rhino，中文名称犀牛，是一款超强的三维建模工具，它包含了所有的NURBS建模功能，用它建模感觉非常流畅，所以大家经常用它来建模，然后导出高精度模型给其他三维软件使用。 
     </details> 
 <!-- xclient:END -->
 
