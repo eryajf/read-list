@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国内最畅销的燃油轿车 新款日产轩逸曝光](https://www.cnbeta.com/articles/tech/1327059.htm) | Fri Oct 14 2022 3:45 AM 
+- 🕯 [12天8板、市值涨了25亿的彩虹集团到底出口了多少电热毯：21万元](https://www.cnbeta.com/articles/tech/1327079.htm) | Fri Oct 14 2022 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为&lt;strong&gt;国内卖的最好的燃油轿车&lt;/strong&gt;，日产轩逸的地位几乎无车可以撼动，不过随着比亚迪秦PLUS DM-i的崛起，轩逸的压力也与日俱增，是时候做出改变了。近日，新款日产轩逸得到曝光，相比于现款，其外观变化非常大，可以看到其在保留家族V字轮廓的同时，采用了更加简洁且年轻化的前脸，与现款相比无疑更加时尚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;12天8板的电热毯制造商成都彩虹电器（集团）股份有限公司（下称“彩虹集团）回复深圳证券交易所（下称“深交所”）关注函提出的7大问题。10月13日晚，彩虹集团发布《关于对深圳证券交易所关注函回复的公告》称，2022年公司获得一些产品出口订单，但总体上数量少金额低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [耶鲁两栖机器龟登上自然杂志封面：可变形 能爬行游泳](https://www.cnbeta.com/articles/tech/1327057.htm) | Fri Oct 14 2022 3:45 AM 
+- 💼 [在北京骑摩托：既为了通勤，也为了生活](https://www.cnbeta.com/articles/tech/1327077.htm) | Fri Oct 14 2022 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;机器人、机器狗甚至机器蟑螂，想必大家都有所耳闻，但机器龟估计是一个新鲜概念。有人会问：乌龟爬那么慢，造个机器龟有啥用？其实不然，乌龟是一种两栖动物，如果机器龟造出来，将可以在陆地和水中运行，从而提高在特定环境中的运用率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自2022年以来，户外运动越来越热，摩托车成了继滑雪、露营、飞盘之后，又一项被年轻人所追捧的“新潮流”。跑山、摩旅，还有赛道与极限越野，以及大街上不时响起的轰鸣声，正成为一种新的生活方式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《神鬼寓言》纪念牌被盗12年 开发者eBay找回](https://hot.cnbeta.com/articles/game/1327055.htm) | Fri Oct 14 2022 3:21 AM 
+- 💂 [马斯克正被美监管当局调查 推特要求提供文件被拒](https://www.cnbeta.com/articles/tech/1327075.htm) | Fri Oct 14 2022 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;原版《神鬼寓言》的以为开发者近日透露，他最近发现了在 12 年前丢失后，团队开发游戏后获得的纪念牌匾。Mike Ducker在《神鬼寓言》系列开发中担任了程序员的职位，本周他在推特上分享了自己如何失去并最终与这块牌匾重聚的故事。他写道：“我为了制作《神鬼寓言》而获得的纪念牌自2010 年可能被盗走以来一直丢失。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;社交媒体推特（Twitter）再次要求特斯拉CEO埃隆·马斯克（Elon Musk）提交与监管机构的沟通文件。当地时间10月13日，彭博社报道称，最新公开的法庭文件显示，马斯克正在接受美国监管机构的调查，推特律师于6日致信法官，要求马斯克提交与监管机构的“相关沟通文件的副本”。这一事情发生在马斯克提出继续以440亿美元收购推特之后。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [合资中型轿车添强敌 国产豪华红旗H6亮相：罕见双中置排气](https://www.cnbeta.com/articles/tech/1327053.htm) | Fri Oct 14 2022 3:20 AM 
+- 🚀 [新东方旗下Okay智慧教育被曝裁员：停发工资，社保、公积金断交](https://www.cnbeta.com/articles/tech/1327073.htm) | Fri Oct 14 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国产车里，一汽红旗的设计师审美确实在线，不信，看看这款即将登场的&lt;strong&gt;红旗H6&lt;/strong&gt;。虽然申报图像素较低，但还是能够看出H6的外观和动力等相关信息，与新一代H5相同，全新H6的前脸依旧是家族化设计，前脸为直瀑式大嘴方案，内部则点缀有不规则的装饰件，有效提升了视觉张力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月14日消息，&lt;strong&gt;日前，有认证为“点石经纬员工”的网友爆料称，新东方旗下全资子公司Okay智慧教育&lpar;公司主体点石经纬&rpar;暴力裁员，已经不发放9月工资，社保、公积金断交。&lt;/strong&gt;到目前为止，公司上层没有任何公告通知。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Nosewise手持式嗅觉仪为VR游戏带来另一维度的独特体验](https://www.cnbeta.com/articles/tech/1327051.htm) | Fri Oct 14 2022 3:14 AM 
+- 🎊 [北京奔驰EQE SUV申报信息曝光 轴距超3m，双电机四驱](https://www.cnbeta.com/articles/tech/1327071.htm) | Fri Oct 14 2022 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;数十年来，许多人都在寻求将“气味”带到电视或电影节目中。而随着虚拟现实（VR）概念的普及，瑞典科学家也希望通过一款“手持式嗅觉仪”，为虚拟视界中的用户带来另一维度的独特体验。&lt;strong&gt;据悉，在斯德哥尔摩大学 Jonas Olofsson 教授的带领下，其与马尔默大学研究人员展示了新近开发的 Nosewise 装置。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在工信部最新一批《道路机动车辆生产企业及产品公告》新产品公示中，我们看到了即将由北京奔驰国产的EQE SUV新车申报信息。&lt;/strong&gt;在外观上设计上，新车有明显的EQ家族风格，而与轿车版本相比，这款SUV车型的头灯没有那么修长了，反而显得更加“厚实”一些，另外由于车头更高了，所以像中间的封闭饰板和底部的通风口面积也相应增加了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
