@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Inity - 使用 Inity 掌控您的财务状况](https://xinquji.com/posts/180474?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:57 AM 
+- 👀 [Scardle - Wordle 添加了 10k+ 个晦涩的单词以增加难度](https://xinquji.com/posts/180495?utm_campaign=xinquji-rss) | Sat Oct 15 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 Inity 掌控您的财务状况  
+     Wordle 添加了 10k+ 个晦涩的单词以增加难度  
     </details> 
 
-- 🥷 [Ruleset - 为贷方提供决策即服务](https://xinquji.com/posts/180473?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:55 AM 
+- 🥷 [Next-Level Database Techniques For Devs - 学习秘密 SQL 功能以成为数据库向导](https://xinquji.com/posts/180494?utm_campaign=xinquji-rss) | Sat Oct 15 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-     为贷方提供决策即服务  
+     学习秘密 SQL 功能以成为数据库向导  
     </details> 
 
-- 💼 [Side-Venture Toolbox - 建立附加收入的工具箱和社区](https://xinquji.com/posts/180472?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:53 AM 
+- 💼 [Sootly - 一款极具挑战性的手机文字游戏](https://xinquji.com/posts/180493?utm_campaign=xinquji-rss) | Sat Oct 15 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     建立附加收入的工具箱和社区  
+     一款极具挑战性的手机文字游戏  
     </details> 
 
-- 🦅 [The Modern Health - 幸福并肩](https://xinquji.com/posts/180471?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:51 AM 
+- 🦅 [Blokada 6: New features - 以最简单有效的形式进行广告拦截](https://xinquji.com/posts/180492?utm_campaign=xinquji-rss) | Sat Oct 15 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     幸福并肩  
+     以最简单有效的形式进行广告拦截  
     </details> 
 
-- 😺 [MonitUp - Freelancer - 自由职业者的生产力测量工具](https://xinquji.com/posts/180470?utm_campaign=xinquji-rss) | Fri Oct 14 2022 6:49 AM 
+- 😺 [ClipSaver - 保存过去并发现新发型](https://xinquji.com/posts/180491?utm_campaign=xinquji-rss) | Sat Oct 15 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     自由职业者的生产力测量工具  
+     保存过去并发现新发型  
     </details> 
 <!-- xinquji:END -->
