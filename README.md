@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 工信部通报38款侵害用户权益 App；印度5G网络引发各种网络诈骗](https://www.freebuf.com/news/346739.html) | Thu Oct 13 2022 9:42 AM 
+- 🦄 [Canary保护机制及绕过](https://www.freebuf.com/articles/system/346608.html) | Thu Oct 13 2022 11:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文是Canary保护机制及绕过一些学习心得，分享一下，以便大家学习。 
+    </details> 
+
+- 🦄 [”三哥“，核酸信息泄露该管管了！](https://www.freebuf.com/news/346742.html) | Thu Oct 13 2022 10:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    一旦核酸信息泄露，民众就几乎“裸奔了”，给其工作生活增加许多障碍。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | 工信部通报38款侵害用户权益 App；印度5G网络引发各种网络诈骗](https://www.freebuf.com/news/346739.html) | Thu Oct 13 2022 9:42 AM 
     <details><summary>展开描述 ...</summary> 
     印度孟买警方就 5G 相关诈骗发出警告，骗子们通过提供升级到 5G 连接的指导来欺骗用户。 
     </details> 
 
-- 🦄 [听说网安人压力贼大？](https://www.freebuf.com/news/346733.html) | Thu Oct 13 2022 8:53 AM 
+- 🪄 [听说网安人压力贼大？](https://www.freebuf.com/news/346733.html) | Thu Oct 13 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
     你最近感到压力山大吗？ 
     </details> 
 
-- 🦅 [十大 CICD 安全风险（四）](https://www.freebuf.com/articles/web/346723.html) | Thu Oct 13 2022 6:43 AM 
+- 💻 [十大 CICD 安全风险（四）](https://www.freebuf.com/articles/web/346723.html) | Thu Oct 13 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
     本篇文章中，我们将会了解凭据使用环境管理不善与不安全的系统配置，并给出相应的风险缓解建议。 
-    </details> 
-
-- 🪄 [2022产业观察 | 勒索软件锋利的“矛”：漏洞武器化](https://www.freebuf.com/articles/network/346683.html) | Wed Oct 12 2022 11:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们发现，勒索即服务（RaaS）愈加成熟，旧的恶意软件变体回归，新的变体不断发展，漏洞愈发武器化，勒索生态逐渐工业化。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 八种让人意想不到的数据泄露方式；VMware某漏洞一年仍未修补](https://www.freebuf.com/news/346650.html) | Wed Oct 12 2022 8:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    一个名为 Polonium的APT组织所使用新的自定义后门和工具，对以色列进行间谍活动。 
     </details> 
 <!-- freebuf:END -->
 
