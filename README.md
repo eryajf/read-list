@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [Magniber勒索软件通过JavaScript文件感染Windows用户](https://www.freebuf.com/news/346826.html) | Fri Oct 14 2022 7:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    注意，在恢复数据之前，用户应确保其备份未被感染。 
+    </details> 
+
 - 🦄 [Canary保护机制及绕过](https://www.freebuf.com/articles/system/346608.html) | Thu Oct 13 2022 11:46 AM 
     <details><summary>展开描述 ...</summary> 
     本文是Canary保护机制及绕过一些学习心得，分享一下，以便大家学习。 
     </details> 
 
-- 🦄 [”三哥“，核酸信息泄露该管管了！](https://www.freebuf.com/news/346742.html) | Thu Oct 13 2022 10:00 AM 
+- 🦅 [”三哥“，核酸信息泄露该管管了！](https://www.freebuf.com/news/346742.html) | Thu Oct 13 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
     一旦核酸信息泄露，民众就几乎“裸奔了”，给其工作生活增加许多障碍。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 工信部通报38款侵害用户权益 App；印度5G网络引发各种网络诈骗](https://www.freebuf.com/news/346739.html) | Thu Oct 13 2022 9:42 AM 
+- 🪄 [FreeBuf早报 | 工信部通报38款侵害用户权益 App；印度5G网络引发各种网络诈骗](https://www.freebuf.com/news/346739.html) | Thu Oct 13 2022 9:42 AM 
     <details><summary>展开描述 ...</summary> 
     印度孟买警方就 5G 相关诈骗发出警告，骗子们通过提供升级到 5G 连接的指导来欺骗用户。 
     </details> 
 
-- 🪄 [听说网安人压力贼大？](https://www.freebuf.com/news/346733.html) | Thu Oct 13 2022 8:53 AM 
+- 💻 [听说网安人压力贼大？](https://www.freebuf.com/news/346733.html) | Thu Oct 13 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
     你最近感到压力山大吗？ 
-    </details> 
-
-- 💻 [十大 CICD 安全风险（四）](https://www.freebuf.com/articles/web/346723.html) | Thu Oct 13 2022 6:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章中，我们将会了解凭据使用环境管理不善与不安全的系统配置，并给出相应的风险缓解建议。 
     </details> 
 <!-- freebuf:END -->
 
