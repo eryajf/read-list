@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [基础入门到高效进阶，我的 macOS 术与器](https://sspai.com/post/75805) | Fri Oct 14 2022 6:41 AM 
+- 👹 [新功能感知不强、旧体验原地踏步：BOSE QuietComfort 消噪耳塞 II 体验报告](https://sspai.com/post/76164) | Fri Oct 14 2022 7:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    无论何时都能让你从聒噪之中抽身出来，是为 quiet；帮你在音乐世界中寻求内心的平静与慰藉，是为 comfort。&lt;a href=&quot;https://sspai.com/post/76164&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [基础入门到高效进阶，我的 macOS 术与器](https://sspai.com/post/75805) | Fri Oct 14 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
     希望本文可以帮你找到自己最钟意、最趁手的技巧和软件。&lt;a href=&quot;https://sspai.com/post/75805&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [《少数派创作手册》现已上线，欢迎与我们继续共创](https://sspai.com/post/76154) | Fri Oct 14 2022 3:14 AM 
+- 🤭 [《少数派创作手册》现已上线，欢迎与我们继续共创](https://sspai.com/post/76154) | Fri Oct 14 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
     作者是少数派最宝贵的财富。为了服务作者，少数派一路上做出了不少努力。这既包括在功能上提供简洁实用的编辑器、个人主页和统计信息，也包括从制度上建立有竞争力的奖励机制、尽量发挥文章价值的选编流程。但如果说 ...&lt;a href=&quot;https://sspai.com/post/76154&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：荣耀 X40 GT 5G 发布、Netflix 推出带有广告的基础订阅等级](https://sspai.com/post/76173) | Fri Oct 14 2022 1:00 AM 
+- 🥸 [派早报：荣耀 X40 GT 5G 发布、Netflix 推出带有广告的基础订阅等级](https://sspai.com/post/76173) | Fri Oct 14 2022 1:00 AM 
     <details><summary>展开描述 ...</summary> 
     Google 将 Passkey 带至 Android 和 Chrome，Firefox Relay 功能将为用户提供虚拟号码等&lt;a href=&quot;https://sspai.com/post/76173&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [新玩意 123｜少数派的编辑们最近买了啥？](https://sspai.com/post/76169) | Thu Oct 13 2022 9:23 AM 
+- 🙉 [新玩意 123｜少数派的编辑们最近买了啥？](https://sspai.com/post/76169) | Thu Oct 13 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/76169&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [一度成为「网红爆款」的 CCD 相机，它拍照真的更好看吗？](https://sspai.com/post/76138) | Thu Oct 13 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    在怀念那个时代过去的同时，就让它们随着时间慢慢被遗忘在时间的长河里吧。&lt;a href=&quot;https://sspai.com/post/76138&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
