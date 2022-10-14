@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [12天8板、市值涨了25亿的彩虹集团到底出口了多少电热毯：21万元](https://www.cnbeta.com/articles/tech/1327079.htm) | Fri Oct 14 2022 6:06 AM 
+- 🕯 [Android和iOS端Outlook即将获得定时发送功能](https://www.cnbeta.com/articles/tech/1327133.htm) | Fri Oct 14 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;12天8板的电热毯制造商成都彩虹电器（集团）股份有限公司（下称“彩虹集团）回复深圳证券交易所（下称“深交所”）关注函提出的7大问题。10月13日晚，彩虹集团发布《关于对深圳证券交易所关注函回复的公告》称，2022年公司获得一些产品出口订单，但总体上数量少金额低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据 Microsoft 365 路线图，Android 和 iOS 端 Outlook 即将获得“定时发送”（Schedule and send）功能，允许用户延迟发送电子邮件。这项功能和网页端和桌面端 Outlook 的“Delay delivery”非常相似。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [在北京骑摩托：既为了通勤，也为了生活](https://www.cnbeta.com/articles/tech/1327077.htm) | Fri Oct 14 2022 6:06 AM 
+- 💼 [外媒称三星电子正计划将BSPDN技术用于2nm制程工艺](https://www.cnbeta.com/articles/tech/1327131.htm) | Fri Oct 14 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自2022年以来，户外运动越来越热，摩托车成了继滑雪、露营、飞盘之后，又一项被年轻人所追捧的“新潮流”。跑山、摩旅，还有赛道与极限越野，以及大街上不时响起的轰鸣声，正成为一种新的生活方式。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月14日消息，据国外媒体报道，三星电子采用全环绕栅极晶体管架构的3nm制程工艺，已在6月30日开始初步生产芯片，所代工的首批晶圆，在7月25日正式发货。在3nm制程工艺开始量产之后，三星电子芯片制程工艺研发的重点，就将集中在更先进的2nm制程工艺上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马斯克正被美监管当局调查 推特要求提供文件被拒](https://www.cnbeta.com/articles/tech/1327075.htm) | Fri Oct 14 2022 6:05 AM 
+- 💂 [明月追火星奇幻大片明日上演 肉眼清晰可见](https://www.cnbeta.com/articles/science/1327129.htm) | Fri Oct 14 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;社交媒体推特（Twitter）再次要求特斯拉CEO埃隆·马斯克（Elon Musk）提交与监管机构的沟通文件。当地时间10月13日，彭博社报道称，最新公开的法庭文件显示，马斯克正在接受美国监管机构的调查，推特律师于6日致信法官，要求马斯克提交与监管机构的“相关沟通文件的副本”。这一事情发生在马斯克提出继续以440亿美元收购推特之后。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月14日消息，据中国气象局介绍，天文科普专家表示，10月15日晨，&lt;strong&gt;红色火星将与一轮明月在西南方天空“邂逅”，届时只要天气晴好，这幕浪漫的“星月童话”肉眼清晰可见。&lt;/strong&gt;据专家介绍，想看到这幕奇景的观众可于15日早晨进行观测：火星位于凸月的左下方不远处，微微泛红，非常醒目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新东方旗下Okay智慧教育被曝裁员：停发工资，社保、公积金断交](https://www.cnbeta.com/articles/tech/1327073.htm) | Fri Oct 14 2022 6:04 AM 
+- 🚀 [网友阴阳J.K.罗琳怎么睡得着 回应：收入多 抵消痛苦](https://www.cnbeta.com/articles/tech/1327127.htm) | Fri Oct 14 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月14日消息，&lt;strong&gt;日前，有认证为“点石经纬员工”的网友爆料称，新东方旗下全资子公司Okay智慧教育&lpar;公司主体点石经纬&rpar;暴力裁员，已经不发放9月工资，社保、公积金断交。&lt;/strong&gt;到目前为止，公司上层没有任何公告通知。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们曾报道，J.K.罗琳曾因某些言论陷入了跨性别争议。有人在推特上质问她：你流失了这么多的粉丝，晚上是怎么睡得着的？她对此淡然地回复：我看了看最近收到的版税支票，痛苦立马就消失了。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [北京奔驰EQE SUV申报信息曝光 轴距超3m，双电机四驱](https://www.cnbeta.com/articles/tech/1327071.htm) | Fri Oct 14 2022 6:03 AM 
+- 🎊 [麦当劳推变形金刚手办像姜文 网友二创简直神似](https://hot.cnbeta.com/articles/funny/1327125.htm) | Fri Oct 14 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在工信部最新一批《道路机动车辆生产企业及产品公告》新产品公示中，我们看到了即将由北京奔驰国产的EQE SUV新车申报信息。&lt;/strong&gt;在外观上设计上，新车有明显的EQ家族风格，而与轿车版本相比，这款SUV车型的头灯没有那么修长了，反而显得更加“厚实”一些，另外由于车头更高了，所以像中间的封闭饰板和底部的通风口面积也相应增加了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，麦当劳开心乐园餐推出新款“变形金刚”系列玩具，&lt;strong&gt;其中一款的身体和头盔的造型来自变形金刚里的“钢锁”，被网友调侃很像姜文。&lt;/strong&gt;对此，微博网友@血腥的喜剧演员 跑了五个麦当劳店终于买到这款玩具，并进行了二创，&lt;strong&gt;戴上眼镜，粘上头发后，简直与姜文神似，一口大白牙非常喜庆。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1327125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
