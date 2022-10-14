@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1014](http://jandan.net/p/111475) | Fri Oct 14 2022 3:42 AM 
+- 🚀 [第一例大规模通过可穿戴设备采集长期真实数据的 步行-健康 研究](http://jandan.net/p/111476) | Fri Oct 14 2022 4:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    肥胖、糖尿病、高血压、抑郁症和睡眠呼吸暂停可以通过增加每日步数和强度来避免 
+    </details> 
+
+- 🙉 [今日好价 1014](http://jandan.net/p/111475) | Fri Oct 14 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：40 
     </details> 
 
-- 🙉 [上期脑力小体操 3天平和8银币谜题  答案详解](http://jandan.net/p/111474) | Thu Oct 13 2022 2:04 PM 
+- 🎉 [上期脑力小体操 3天平和8银币谜题  答案详解](http://jandan.net/p/111474) | Thu Oct 13 2022 2:04 PM 
     <details><summary>展开描述 ...</summary> 
     若不是之前有人在评论里表示希望看到这期答案，本来应该在月末出的 
     </details> 
 
-- 🎉 [发霉啦：今天，我换了个新牙医](http://jandan.net/p/111472) | Thu Oct 13 2022 6:23 AM 
+- 🐲 [发霉啦：今天，我换了个新牙医](http://jandan.net/p/111472) | Thu Oct 13 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
     连上7天班，这不得更两期啊 
     </details> 
 
-- 🐲 [玩电子游戏需要多少脑细胞？看看非凡的人造合成神经元系统](http://jandan.net/p/111471) | Thu Oct 13 2022 6:10 AM 
+-  [玩电子游戏需要多少脑细胞？看看非凡的人造合成神经元系统](http://jandan.net/p/111471) | Thu Oct 13 2022 6:10 AM 
     <details><summary>展开描述 ...</summary> 
     首个显示神经元可调整其功能以执行特定任务的合成生物智能实验 
-    </details> 
-
--  [苏格兰的新石器时代遗迹显示，在农业之初，土地肥沃无需使用粪肥](http://jandan.net/p/111463) | Thu Oct 13 2022 5:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    农耕文明的出现，有很多前提条件。而这些条件在相当多的人类早期聚集地凑巧全部能满足 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
