@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JavaScript设计模式之策略模式](https://juejin.cn/post/7154024674207203335) | Thu Oct 13 2022 3:50 PM 
+- 🤗 [express的实现 ｜ 4.中间件](https://juejin.cn/post/7154177670438191140) | Fri Oct 14 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将介绍策略模式的基本概念和使用场景，配合Axios源码中策略模式的使用和本人工作中重构代码的一次经历，使读者能更加深刻的理解策略模式 
+    - express 中 use 的第一个参数是匹配路径 不传相当于&quot;/&quot; - 中间件匹配机制是惰性匹配，即匹配路径为`/a`的中间件，访问`/aa`时同样会被执行（这也意味着不传匹配路径时即所有请求都 
     </details> 
 
-- 🎡 [brython | HTML 元素](https://juejin.cn/post/7154021896894283813) | Thu Oct 13 2022 3:39 PM 
+- 🎡 [Flutter从0到1实现高性能、多功能的富文本编辑器（1）](https://juejin.cn/post/7154151529572728868) | Fri Oct 14 2022 12:02 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇将讲述brython的HTML元素。我们打开brython的官网，选择browser.html，我们会发现其brython支持很多的标签，以及元素。 
+    经过前面两篇文章的基础知识铺垫，我们终于要进入到专栏的核心内容 — 富文本。富文本编辑器可以说是APP中最复杂，但使用场景又极广的组件之一。例如各大笔记APP的核心功能、闲鱼的商品发布功能、还 
     </details> 
 
-- 🕯 [前端需要去了解的nodejs知识&lpar;express路由详解&rpar;](https://juejin.cn/post/7154012895242616840) | Thu Oct 13 2022 3:06 PM 
+- 🕯 [【云原生】Elasticsearch + Kibana on k8s 讲解与实战操作](https://juejin.cn/post/7154028372899659813) | Thu Oct 13 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情 在上一节中我们简单了解了express的一些基础用法，本文主要分析下express的核心功能路由的使用。 
+    Elasticsearch是一个基于Lucene的搜索引擎。它提供了具有HTTP Web界面和无架构JSON文档的分布式，多租户能力的全文搜索引擎。Elasticsearch是用Java开发的，根据A 
     </details> 
 
-- 🚀 [声网高纯：领域和方向要聚焦，用最专业的方法做最专业的事丨人物专访](https://juejin.cn/post/7154009438624579591) | Thu Oct 13 2022 2:53 PM 
+- 🚀 [Kotlin内存陷阱 | inline虽好，但别滥用](https://juejin.cn/post/7154027324344631327) | Thu Oct 13 2022 4:00 PM 
     <details><summary>展开描述 ...</summary> 
-    RTC 技术和多媒体实时处理技术向来以高复杂度著称，而在 web 平台上由于性能和可扩展性问题，其所受的制约尤为明显，但新一代媒体处理与通信的标准。 
+    引言 inline ，翻译过来为 内联 ，在 Kotlin 中，一般建议用于 高阶函数 中，目的是用来弥补其运行时的 额外开销。 其原理也比较简单，在调用时将我们的代码移动到调用处使用,从而降低方法调 
     </details> 
 
-- 💪 [Android性能优化系列篇（二）：启动优化](https://juejin.cn/post/7153991850750115853) | Thu Oct 13 2022 1:42 PM 
+- 💪 [你不知道的 Python RawString 和 open文件的newline换行符，遇坑折腾半天终于搞定，总结此文！](https://juejin.cn/post/7154026867333267492) | Thu Oct 13 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
-    汇总了一下众多大佬的性能优化文章，知识点，主要包含： UI优化/启动优化/崩溃优化/卡顿优化/安全性优化/弱网优化/APP深度优化等等等~ 本篇是第二篇：启动优化！ 
+    用Python，把字符串A中的占位符正则替换为字符串B，但是B中包含连续的字符&quot;\&quot;和&quot;n&quot;，结果都转成了换行符，太坑了！此后，我完全搞懂了 Raw String 和 open文件的newline。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
