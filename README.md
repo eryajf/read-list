@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Shell中运算操作和常见错误解决](https://juejin.cn/post/7154367331303424036) | Fri Oct 14 2022 2:00 PM 
+- 🤗 [brython | 获取input等标签的内容](https://juejin.cn/post/7154386972780265508) | Fri Oct 14 2022 3:15 PM 
+    <details><summary>展开描述 ...</summary> 
+    通过上一篇的学习，我们初步掌握了使用brython向document插入HTML标签的方法，本章我们主要学习如何获取input标签的内容。 
+    </details> 
+
+- 🎡 [前端脚手架-3](https://juejin.cn/post/7154382534728482824) | Fri Oct 14 2022 2:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第14天，点击查看活动详情 初始化项目 1.创建项目 2.创建入口文件 3.编写命令 4.本地软链 检查Node版本 1.新建li 
+    </details> 
+
+- 🕯 [Shell中运算操作和常见错误解决](https://juejin.cn/post/7154367331303424036) | Fri Oct 14 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
     运算操作 四则运算 不经常写脚本的同学，遇到的第一个坎就是这个——shell脚本中不能直接做加减乘除（报错command not found）： 可以在线Shell工具尝试undefinedBash  
     </details> 
 
-- 🎡 [Java&amp;C++题解与拓展——leetcode940.不同的子序列 II【么的新知识？】](https://juejin.cn/post/7154350493886578702) | Fri Oct 14 2022 12:55 PM 
+- 🚀 [Java&amp;C++题解与拓展——leetcode940.不同的子序列 II【么的新知识？】](https://juejin.cn/post/7154350493886578702) | Fri Oct 14 2022 12:55 PM 
     <details><summary>展开描述 ...</summary> 
     leetcode940.不同的子序列 II解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
     </details> 
 
-- 🕯 [浅谈基于Web的跨平台桌面应用开发](https://juejin.cn/post/7154348142350041101) | Fri Oct 14 2022 12:45 PM 
+- 💪 [浅谈基于Web的跨平台桌面应用开发](https://juejin.cn/post/7154348142350041101) | Fri Oct 14 2022 12:45 PM 
     <details><summary>展开描述 ...</summary> 
     0 前言 近些年来，跨平台跨端一直是比较热门的话题，Write once, run anywhere，一直是我们开发者所期望的，跨平台方案的优势十分明显，对于开发者而言，可以做到一次开发，多端复用，一 
-    </details> 
-
-- 🚀 [Eureka源码4-服务离线源码&lpar;状态变更&rpar;解析](https://juejin.cn/post/7154327636448116772) | Fri Oct 14 2022 11:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    服务下架基于Actuator和EurekeServer两种方式进行操作，服务状态变更和删除状态源码分析 
-    </details> 
-
-- 💪 [React魔法堂：echarts-for-react源码略读](https://juejin.cn/post/7154317775727493157) | Fri Oct 14 2022 10:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 在当前工业4.0和智能制造的产业升级浪潮当中，智慧大屏无疑是展示企业IT成果的最有效方式之一。然而其背后怎么能缺少ECharts的身影呢？对于React应用而言，直接使用ECharts并不是最高 
     </details> 
 <!-- juejin:END -->
 ### 少数派
