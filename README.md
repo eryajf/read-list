@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Watch Ultra快慢充电究竟差在哪里？](https://www.cnbeta.com/articles/tech/1327151.htm) | Fri Oct 14 2022 8:19 AM 
+- 🕯 [黑鲨“搁浅”，游戏手机集体预警](https://hot.cnbeta.com/articles/game/1327167.htm) | Fri Oct 14 2022 9:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Apple Watch Ultra 针对运动型用户，拥有全新的外观设计和更好的防水防震性能；并且同样搭载 Apple Watch 核心功能，包括健身记录跟踪、高低心率通知和 SOS 紧急联络，以及创新车祸检测功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;热门赛道的领跑品牌忽然“塌房”，让手机圈大呼看不懂。日前，不少媒体报道称，黑鲨近期正在大幅收缩岗位数量，此次裁撤涉及公司各个部门，裁员比例近50%。同时报道援引知情人士爆料，腾讯对黑鲨的收购计划搁浅，或是导致黑鲨裁员的一大原因。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [RTX 4090被发现仍预留NVLink电路设计， 英伟达或有所保留](https://www.cnbeta.com/articles/tech/1327149.htm) | Fri Oct 14 2022 8:17 AM 
+- 💼 [新一轮冷空气来袭 明天起多地降温或超10℃](https://www.cnbeta.com/articles/tech/1327165.htm) | Fri Oct 14 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不少人发现英伟达基于Ada Lovelace架构的GeForce RTX 4090已不像上一代GeForce RTX 3090那样，支持NVLink桥接器，随后英伟达发布的NVIDIA RTX 6000 Ada Generation也没有提供支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然国庆后的这几天全国大部分地区温度回升了一些，但新一轮的较强冷空气已经蓄势待发了。据中央气象台预计，&lt;strong&gt;明天（10月15日）起至17日一股较强冷空气将影响中东部地区，东北、华北多地降温幅度将超10℃。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [台积电，没有带来好消息](https://www.cnbeta.com/articles/tech/1327147.htm) | Fri Oct 14 2022 8:16 AM 
+- 💂 [诺基亚C31国行版发布：国产紫光展锐芯 顶配只要869元](https://www.cnbeta.com/articles/tech/1327163.htm) | Fri Oct 14 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;台积电是全球最大、最先进的半导体生产商，因此是半导体行业的“风向标”，也是整个 IT 行业严重依赖半导体作为其关键驱动力的领先指标。在截至 9 月的第三季度中，这家台湾代工厂的收入增长了 35.9% 至 202.5 亿美元，同比增长47.9%，环比增长也高达14.8%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月初，诺基亚手机之家HMD&amp;nbsp;Global推出C系列新成员——诺基亚C31，经过一个多月的等待，&lt;strong&gt;诺基亚C31国行版终于将在10月15日上午10:00正式发售，提供4GB+64GB、4+128GB两款配置，首发价分别为799元和869元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NASA SpaceX Crew-4返回地球时间再次推迟](https://www.cnbeta.com/articles/science/1327145.htm) | Fri Oct 14 2022 8:15 AM 
+- 🚀 [微风也能发电？新设备生产廉价还能储能 或成小型锂电替代品](https://www.cnbeta.com/articles/tech/1327161.htm) | Fri Oct 14 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Crew-4原定于美国东部时间10月12日周三晚上7点05分从国际空间站&lpar;ISS&rpar;分离从而开启他们返回地球的旅程。由于溅落区附近的恶劣天气，返回家园的时间被推迟了，新的计划是在10月13日周四上午10:05分离。由于持续的天气问题，返回地球的时间再次被推迟了一天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;风能系统一般需要较大的风力才能发电，但新加坡南洋理工大学的科学家们一直在研究另一种低成本的解决方案。近期，该团队开发了一种便宜的设备，它足够灵敏，可以从微风中捕获能量，并将其转化为电能，产生的电量足以运行一个小型商业传感器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [罗技G502 X游戏鼠标上架：HERO 25K传感器+LIGHTFORCE光学微动](https://www.cnbeta.com/articles/tech/1327143.htm) | Fri Oct 14 2022 8:06 AM 
+- 🎊 [部分PS5玩家提前玩到《FIFA 23》的世界杯模式](https://hot.cnbeta.com/articles/game/1327159.htm) | Fri Oct 14 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今日，罗技G系列新品——G502 X游戏鼠标正式开售，首发499元。&lt;/strong&gt;在外形设计上，G502 X游戏鼠标采用薄壁外骨骼以及轻量化滚轮等部件，将鼠标整体重量缩减，重量仅有89克。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《FIFA 23》计划于下月上线专门的世界杯（World Cup）模式，不过现在部分 PlayStation 5 玩家提前玩到了这个模式。援引国外科技媒体 VGC 报道，部分 PS5 玩家已经提前体验到了该模式。油管频道 Inception FC 还放出了实机演示。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
