@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Apple Watch创下美国市场新纪录 现在有30%的iPhone用户拥有它](https://www.cnbeta.com/articles/tech/1327187.htm) | Fri Oct 14 2022 10:20 AM 
+- 🕯 [三季报预喜顺丰收涨超8%、产能爬坡申通涨停 快递有序价值竞争要来了？](https://www.cnbeta.com/articles/tech/1327189.htm) | Fri Oct 14 2022 10:53 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;三季报及双11快递旺季来临前，快递公司股价迎来全线上涨。10月14日，《每日经济新闻》记者发现，截至今日收盘，申通快递&lpar;002468，SZ&rpar;股价涨停，顺丰控股&lpar;002352，SZ&rpar;、韵达股份（002120，SZ）、圆通速递（600233，SH）股价分别上涨8.21%、4.77%、3.54%，“京东系”德邦股份&lpar;603056，SH&rpar;上涨4.87%，港股京东物流（02618.HK）亦收涨2.66%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Apple Watch创下美国市场新纪录 现在有30%的iPhone用户拥有它](https://www.cnbeta.com/articles/tech/1327187.htm) | Fri Oct 14 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;新的研究报告称，Apple Watch实现了其最高的半年&amp;quot;附加率&amp;quot;，即同时拥有活跃Watch的iPhone用户的比例。Apple Watch已经多次主导了整个智能手表行业，在2021年第二季度已经超过了1亿活跃用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [对话苹果副总裁：希望没人用到的新功能](https://www.cnbeta.com/articles/tech/1327185.htm) | Fri Oct 14 2022 10:07 AM 
+- 💂 [对话苹果副总裁：希望没人用到的新功能](https://www.cnbeta.com/articles/tech/1327185.htm) | Fri Oct 14 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;“我们希望你永远用不到这个功能。”2022 年的苹果秋季发布会，随着新款 iPhone 和 Apple Watch 发布，苹果上线了一个新功能：车祸检测。简单来说，如果你购买了今年新款的 iPhone 或 Apple Watch，当你发生严重车祸时，你的手机或手表，会感知到车祸的发生，帮你联系紧急联系人，或者是急救报警。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [废矿井发现140年前牛仔裤：样式和现代几乎一模一样 拍出62万元](https://hot.cnbeta.com/articles/funny/1327183.htm) | Fri Oct 14 2022 9:58 AM 
+- 🚀 [废矿井发现140年前牛仔裤：样式和现代几乎一模一样 拍出62万元](https://hot.cnbeta.com/articles/funny/1327183.htm) | Fri Oct 14 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;作为曾经劳工穿的工作服，任谁也想不到，牛仔裤如今竟成为全球最流行的裤子品类之一。更让人想不到的是，140年前的牛仔裤和如今对比起来，样式和版型也几乎一样。据“极目新闻”报道，近日，在美国新墨西哥州的一个小镇拍卖会上，&lt;strong&gt;一条1880年代的李维斯牛仔裤以8.74万美元（约合人民币62.69万元）售出。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1327183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [海外主要芯片厂商今年股价集体腰斩 行业面临长期影响](https://www.cnbeta.com/articles/tech/1327181.htm) | Fri Oct 14 2022 9:47 AM 
+- 🎊 [海外主要芯片厂商今年股价集体腰斩 行业面临长期影响](https://www.cnbeta.com/articles/tech/1327181.htm) | Fri Oct 14 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在需求不振和出口受限等多重因素的影响下，全球半导体厂商正在经历行业低迷期。主要芯片厂商和设备供应商今年以来股价集体腰斩。今年至今，全球营收排名前十的芯片公司股价跌幅都接近或超过三分之一。根据研究机构Gartner发布的2021年全球十大半导体公司，分别为三星、英特尔、海士力、美光、高通、博通、联发科、德州仪器、英伟达和AMD。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [PS5越狱太可怕：能读取游戏光盘内的3D模型文件](https://www.cnbeta.com/articles/tech/1327179.htm) | Fri Oct 14 2022 9:44 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前我们曾报道，已经有“民间大神”利用机器本身的系统漏洞实现了PS5主机的越狱。虽然通过这种方式实现的越狱有一定的局限性，越狱只适用于在4.03或更低版本的PS5主机，且运行不太稳定，但也能做到安装PS4 PKG文件这样的操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
