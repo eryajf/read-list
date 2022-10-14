@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 KubeSphere 实现微服务的灰度发布](https://juejin.cn/post/7154294677947056141) | Fri Oct 14 2022 9:17 AM 
+- 🤗 [【前端&amp;运维那点事儿】四：Linux中的文件权限管理](https://juejin.cn/post/7154308100437049351) | Fri Oct 14 2022 10:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    在上一篇文章中，介绍了用户和用户组的相关内容，这篇文章介绍一下与用户息息相关的文件权限管理； 这篇文章中的主要内容如下： ls -l回显详解； 文件权限 文件夹权限 修改权限相关的命令 
+    </details> 
+
+- 🎡 [Android Framework | 读懂异常调用栈](https://juejin.cn/post/7154301024482623519) | Fri Oct 14 2022 9:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    异常，是程序未按预设逻辑运行的一种提示。Java中的异常输出通常包含一句提示语和其发生时的调用栈。多数情况下，这些提示是直接且清晰的。但如果我们将异常捕获后封装一下重新抛出，或者让它发生在跨进程通信 
+    </details> 
+
+- 🕯 [D2C 设计稿转代码是怎么实现的？自己做一个可行吗？](https://juejin.cn/post/7154300576925220871) | Fri Oct 14 2022 9:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    D2C 是指 Design to Code，设计稿转代码，输入是 sketch、figma、PSD 等设计稿，输出是 vue、react、小程序等各平台的前端代码。 对前端工程师来说，如果能直接把设计 
+    </details> 
+
+- 🚀 [🤸🏼‍♂️ TS 类型体操快速入门（简单题）分析及总结](https://juejin.cn/post/7154297753063915556) | Fri Oct 14 2022 9:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习类型体操要求对于 TS 的基本语法有了解，最好是有实际使用过，不然还是比较难理解的，也很难在解题的过程中学习如何将这些技巧反哺到实际项目的优化中。 
+    </details> 
+
+- 💪 [使用 KubeSphere 实现微服务的灰度发布](https://juejin.cn/post/7154294677947056141) | Fri Oct 14 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
     ## 前言 今天来说一说，在 KubeSphere 中两个 &quot; 小姐姐 &quot; 如何来回切换，这是什么意思哩？其实就是互联网产品中常用的灰度发布方式。 互联网产品需要快速迭代上线，既要保证新功能运行 
-    </details> 
-
-- 🎡 [2. JSON语法规则](https://juejin.cn/post/7154294427798732837) | Fri Oct 14 2022 9:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    JSON 的语法与 JavaScript 中的对象很像，在 JSON 中主要使用以下两种方式来表示数据： Object（对象）：键/值对（名称/值）的集合，使用花括号{ }定义。在每个键/值对中，以键 
-    </details> 
-
-- 🕯 [Android音视频开发之openGL视频录制](https://juejin.cn/post/7154291518688198686) | Fri Oct 14 2022 9:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 周五了，说实话根本不想动，今天就来的时间就来水一下度过八。 新增：Flutter番外篇：Flutter面试-项目实战-电子书 解锁 《Android十一大板块文档》 音视频大合集，从初中高到面试 
-    </details> 
-
-- 🚀 [如何练就超强学习力](https://juejin.cn/post/7154290896127655972) | Fri Oct 14 2022 9:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    什么是学习 获得了自己不知道的知识和技能就是学习 多个角度解释一个问题 学习思维模型可以练习 定义一个概念就是学习的起点，通过学习来改变something，去发生让某事改变。学习前和学习后会有一些变化 
-    </details> 
-
-- 💪 [Luminar Neo 教程，如何将 Luminar Neo 安装为插件？](https://juejin.cn/post/7154290413929512997) | Fri Oct 14 2022 9:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 教程，小编带大家学习 Luminar Neo的基本工具和使用技巧，了解如何将 Luminar Neo 安装为插件。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
