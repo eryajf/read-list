@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Java 不用 Spring 还能用点什么？](https://www.v2ex.com/t/887018#reply22) | Fri Oct 14 2022 2:10 PM
+- 🥸 [Java 不用 Spring 还能用点什么？](https://www.v2ex.com/t/887018#reply24) | Fri Oct 14 2022 2:10 PM
 - 🤗 [大佬们，怎么控制本地请求 API 的频率？](https://www.v2ex.com/t/887013#reply4) | Fri Oct 14 2022 1:27 PM
 - 🎭 [Goravel V1 正式版发布，让 Go 开发更简单、高效！](https://www.v2ex.com/t/887010#reply5) | Fri Oct 14 2022 1:18 PM
 - 🥷 [这几天通过腾讯云香港轻量访问 youtube, 超慢。。。](https://www.v2ex.com/t/886999#reply11) | Fri Oct 14 2022 12:22 PM
