@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [express的实现 ｜ 4.中间件](https://juejin.cn/post/7154177670438191140) | Fri Oct 14 2022 1:44 AM 
+- 🤗 [📢 金石计划 活动开奖咯！](https://juejin.cn/post/7154205876818018334) | Fri Oct 14 2022 3:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    🎉金石计划一期——瓜分10万元现金大奖活动正式落幕啦！赶紧看看获奖名单上是否有你吧！点击查看&gt;&gt;&gt; 
+    </details> 
+
+- 🎡 [express的实现 ｜ 4.中间件](https://juejin.cn/post/7154177670438191140) | Fri Oct 14 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
     - express 中 use 的第一个参数是匹配路径 不传相当于&quot;/&quot; - 中间件匹配机制是惰性匹配，即匹配路径为`/a`的中间件，访问`/aa`时同样会被执行（这也意味着不传匹配路径时即所有请求都 
     </details> 
 
-- 🎡 [Flutter从0到1实现高性能、多功能的富文本编辑器（1）](https://juejin.cn/post/7154151529572728868) | Fri Oct 14 2022 12:02 AM 
+- 🕯 [React 渲染的未来](https://juejin.cn/post/7154175507280429070) | Fri Oct 14 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    经过前面两篇文章的基础知识铺垫，我们终于要进入到专栏的核心内容 — 富文本。富文本编辑器可以说是APP中最复杂，但使用场景又极广的组件之一。例如各大笔记APP的核心功能、闲鱼的商品发布功能、还 
+    在过去的几年中，React 的流行度一直在增加，而且还在加速。React 每周的 npm 下载量超过 1400 万次 ，React Devtools Chrome 扩展有超过 300 万 的周活跃用户 
     </details> 
 
-- 🕯 [【云原生】Elasticsearch + Kibana on k8s 讲解与实战操作](https://juejin.cn/post/7154028372899659813) | Thu Oct 13 2022 4:04 PM 
+- 🚀 [使用深度学习从视频中估计车辆的速度](https://juejin.cn/post/7154173987805724709) | Fri Oct 14 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-    Elasticsearch是一个基于Lucene的搜索引擎。它提供了具有HTTP Web界面和无架构JSON文档的分布式，多租户能力的全文搜索引擎。Elasticsearch是用Java开发的，根据A 
+    使用光流 + CNN的方法来预测车辆的速度，用PyTorch实现，有代码。 我想要解决的问题是：在一辆车里有一个摄像头，我想知道车开得有多快。你显然不能看速度表，只能看视频片段本身。 
     </details> 
 
-- 🚀 [Kotlin内存陷阱 | inline虽好，但别滥用](https://juejin.cn/post/7154027324344631327) | Thu Oct 13 2022 4:00 PM 
+- 💪 [前端高效开发小方案-demo](https://juejin.cn/post/7154173604362453029) | Fri Oct 14 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-    引言 inline ，翻译过来为 内联 ，在 Kotlin 中，一般建议用于 高阶函数 中，目的是用来弥补其运行时的 额外开销。 其原理也比较简单，在调用时将我们的代码移动到调用处使用,从而降低方法调 
-    </details> 
-
-- 💪 [你不知道的 Python RawString 和 open文件的newline换行符，遇坑折腾半天终于搞定，总结此文！](https://juejin.cn/post/7154026867333267492) | Thu Oct 13 2022 3:59 PM 
-    <details><summary>展开描述 ...</summary> 
-    用Python，把字符串A中的占位符正则替换为字符串B，但是B中包含连续的字符&quot;\&quot;和&quot;n&quot;，结果都转成了换行符，太坑了！此后，我完全搞懂了 Raw String 和 open文件的newline。 
+    开发过程中，除了自身掌握的专业知识外，正确的开发流程和团队协助，也能让开发质量和速度有质的提升 1. 理解需求 开发任何需求，第一步都是理解原型和确认需求 1-1. 需求阅览 拿到原型图时，阅览层次应 
     </details> 
 <!-- juejin:END -->
 ### 少数派
