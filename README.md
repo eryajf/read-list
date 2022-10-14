@@ -66,29 +66,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第74期-2022年第39周](https://wiki.eryajf.net/pages/cc327d/) | Sat Oct 08 2022 9:28 AM 
+- 🫶 [学习周刊-总第75期-2022年第40周](https://wiki.eryajf.net/pages/34698c/) | Fri Oct 14 2022 10:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第75期-一个开源的SCRM 
+    </details> 
+
+- 🧰 [学习周刊-总第74期-2022年第39周](https://wiki.eryajf.net/pages/cc327d/) | Sat Oct 08 2022 9:28 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第74期-一个go语言输出着色包 
     </details> 
 
-- 🧰 [学习周刊-总第73期-2022年第38周](https://wiki.eryajf.net/pages/3d89ea/) | Fri Sep 30 2022 8:38 AM 
+- 🌏 [学习周刊-总第73期-2022年第38周](https://wiki.eryajf.net/pages/3d89ea/) | Fri Sep 30 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第73期-k8s集群常用监控指标 
     </details> 
 
-- 🌏 [学习周刊-总第72期-2022年第37周](https://wiki.eryajf.net/pages/430bd1/) | Fri Sep 23 2022 8:50 AM 
+- 😎 [学习周刊-总第72期-2022年第37周](https://wiki.eryajf.net/pages/430bd1/) | Fri Sep 23 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第72期-有些事，不能忘 
     </details> 
 
-- 😎 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/) | Tue Sep 20 2022 11:11 PM 
+- 💂 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/) | Tue Sep 20 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
     本文来介绍当我们的npm私服配置完毕之后，如何上传到nexus私服中 
-    </details> 
-
-- 💂 [将maven本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/f5007c/) | Tue Sep 20 2022 11:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文来介绍当我们的maven私服配置完毕之后，如何上传到nexus私服中 
     </details> 
 <!-- eryajf:END -->
 
