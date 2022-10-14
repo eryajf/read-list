@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [黑鲨“搁浅”，游戏手机集体预警](https://hot.cnbeta.com/articles/game/1327167.htm) | Fri Oct 14 2022 9:23 AM 
+- 🕯 [Apple Watch创下美国市场新纪录 现在有30%的iPhone用户拥有它](https://www.cnbeta.com/articles/tech/1327187.htm) | Fri Oct 14 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;热门赛道的领跑品牌忽然“塌房”，让手机圈大呼看不懂。日前，不少媒体报道称，黑鲨近期正在大幅收缩岗位数量，此次裁撤涉及公司各个部门，裁员比例近50%。同时报道援引知情人士爆料，腾讯对黑鲨的收购计划搁浅，或是导致黑鲨裁员的一大原因。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新的研究报告称，Apple Watch实现了其最高的半年&amp;quot;附加率&amp;quot;，即同时拥有活跃Watch的iPhone用户的比例。Apple Watch已经多次主导了整个智能手表行业，在2021年第二季度已经超过了1亿活跃用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新一轮冷空气来袭 明天起多地降温或超10℃](https://www.cnbeta.com/articles/tech/1327165.htm) | Fri Oct 14 2022 9:09 AM 
+- 💼 [对话苹果副总裁：希望没人用到的新功能](https://www.cnbeta.com/articles/tech/1327185.htm) | Fri Oct 14 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然国庆后的这几天全国大部分地区温度回升了一些，但新一轮的较强冷空气已经蓄势待发了。据中央气象台预计，&lt;strong&gt;明天（10月15日）起至17日一股较强冷空气将影响中东部地区，东北、华北多地降温幅度将超10℃。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“我们希望你永远用不到这个功能。”2022 年的苹果秋季发布会，随着新款 iPhone 和 Apple Watch 发布，苹果上线了一个新功能：车祸检测。简单来说，如果你购买了今年新款的 iPhone 或 Apple Watch，当你发生严重车祸时，你的手机或手表，会感知到车祸的发生，帮你联系紧急联系人，或者是急救报警。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [诺基亚C31国行版发布：国产紫光展锐芯 顶配只要869元](https://www.cnbeta.com/articles/tech/1327163.htm) | Fri Oct 14 2022 9:09 AM 
+- 💂 [废矿井发现140年前牛仔裤：样式和现代几乎一模一样 拍出62万元](https://hot.cnbeta.com/articles/funny/1327183.htm) | Fri Oct 14 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月初，诺基亚手机之家HMD&amp;nbsp;Global推出C系列新成员——诺基亚C31，经过一个多月的等待，&lt;strong&gt;诺基亚C31国行版终于将在10月15日上午10:00正式发售，提供4GB+64GB、4+128GB两款配置，首发价分别为799元和869元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为曾经劳工穿的工作服，任谁也想不到，牛仔裤如今竟成为全球最流行的裤子品类之一。更让人想不到的是，140年前的牛仔裤和如今对比起来，样式和版型也几乎一样。据“极目新闻”报道，近日，在美国新墨西哥州的一个小镇拍卖会上，&lt;strong&gt;一条1880年代的李维斯牛仔裤以8.74万美元（约合人民币62.69万元）售出。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1327183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微风也能发电？新设备生产廉价还能储能 或成小型锂电替代品](https://www.cnbeta.com/articles/tech/1327161.htm) | Fri Oct 14 2022 9:00 AM 
+- 🚀 [海外主要芯片厂商今年股价集体腰斩 行业面临长期影响](https://www.cnbeta.com/articles/tech/1327181.htm) | Fri Oct 14 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;风能系统一般需要较大的风力才能发电，但新加坡南洋理工大学的科学家们一直在研究另一种低成本的解决方案。近期，该团队开发了一种便宜的设备，它足够灵敏，可以从微风中捕获能量，并将其转化为电能，产生的电量足以运行一个小型商业传感器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在需求不振和出口受限等多重因素的影响下，全球半导体厂商正在经历行业低迷期。主要芯片厂商和设备供应商今年以来股价集体腰斩。今年至今，全球营收排名前十的芯片公司股价跌幅都接近或超过三分之一。根据研究机构Gartner发布的2021年全球十大半导体公司，分别为三星、英特尔、海士力、美光、高通、博通、联发科、德州仪器、英伟达和AMD。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [部分PS5玩家提前玩到《FIFA 23》的世界杯模式](https://hot.cnbeta.com/articles/game/1327159.htm) | Fri Oct 14 2022 8:55 AM 
+- 🎊 [PS5越狱太可怕：能读取游戏光盘内的3D模型文件](https://www.cnbeta.com/articles/tech/1327179.htm) | Fri Oct 14 2022 9:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《FIFA 23》计划于下月上线专门的世界杯（World Cup）模式，不过现在部分 PlayStation 5 玩家提前玩到了这个模式。援引国外科技媒体 VGC 报道，部分 PS5 玩家已经提前体验到了该模式。油管频道 Inception FC 还放出了实机演示。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前我们曾报道，已经有“民间大神”利用机器本身的系统漏洞实现了PS5主机的越狱。虽然通过这种方式实现的越狱有一定的局限性，越狱只适用于在4.03或更低版本的PS5主机，且运行不太稳定，但也能做到安装PS4 PKG文件这样的操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
