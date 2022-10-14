@@ -343,19 +343,19 @@
     计算机取证是网络攻防战的一个重要领域，涉及收集在计算机上执行的活动的证据。 
     </details> 
 
-- 🦅 [SAST + SCA: 结合使用安全升级](https://www.freebuf.com/articles/web/346769.html) | Fri Oct 14 2022 1:21 AM 
+- 🦅 [混合云安全怎么做 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/346792.html) | Fri Oct 14 2022 3:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    企业部署混合云如何保障安全，同时兼顾高效管理与成本控制？ 
+    </details> 
+
+- 🪄 [SAST + SCA: 结合使用安全升级](https://www.freebuf.com/articles/web/346769.html) | Fri Oct 14 2022 1:21 AM 
     <details><summary>展开描述 ...</summary> 
     据 SAP 称，当今85%的安全攻击针对的是软件应用程序，因此一些列应用程序安全测试工具也应运而生。 
     </details> 
 
-- 🪄 [Canary保护机制及绕过](https://www.freebuf.com/articles/system/346608.html) | Thu Oct 13 2022 11:46 AM 
+- 💻 [Canary保护机制及绕过](https://www.freebuf.com/articles/system/346608.html) | Thu Oct 13 2022 11:46 AM 
     <details><summary>展开描述 ...</summary> 
     本文是Canary保护机制及绕过一些学习心得，分享一下，以便大家学习。 
-    </details> 
-
-- 💻 [”三哥“，核酸信息泄露该管管了！](https://www.freebuf.com/news/346742.html) | Thu Oct 13 2022 10:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    一旦核酸信息泄露，民众就几乎“裸奔了”，给其工作生活增加许多障碍。 
     </details> 
 <!-- freebuf:END -->
 
