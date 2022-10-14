@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [十大 CICD 安全风险（四）](https://www.freebuf.com/articles/web/346723.html) | Thu Oct 13 2022 6:43 AM 
+- 🦄 [FreeBuf早报 | 工信部通报38款侵害用户权益 App；印度5G网络引发各种网络诈骗](https://www.freebuf.com/news/346739.html) | Thu Oct 13 2022 9:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    印度孟买警方就 5G 相关诈骗发出警告，骗子们通过提供升级到 5G 连接的指导来欺骗用户。 
+    </details> 
+
+- 🦄 [听说网安人压力贼大？](https://www.freebuf.com/news/346733.html) | Thu Oct 13 2022 8:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    你最近感到压力山大吗？ 
+    </details> 
+
+- 🦅 [十大 CICD 安全风险（四）](https://www.freebuf.com/articles/web/346723.html) | Thu Oct 13 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
     本篇文章中，我们将会了解凭据使用环境管理不善与不安全的系统配置，并给出相应的风险缓解建议。 
     </details> 
 
-- 🦄 [2022产业观察 | 勒索软件锋利的“矛”：漏洞武器化](https://www.freebuf.com/articles/network/346683.html) | Wed Oct 12 2022 11:04 AM 
+- 🪄 [2022产业观察 | 勒索软件锋利的“矛”：漏洞武器化](https://www.freebuf.com/articles/network/346683.html) | Wed Oct 12 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
     我们发现，勒索即服务（RaaS）愈加成熟，旧的恶意软件变体回归，新的变体不断发展，漏洞愈发武器化，勒索生态逐渐工业化。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 八种让人意想不到的数据泄露方式；VMware某漏洞一年仍未修补](https://www.freebuf.com/news/346650.html) | Wed Oct 12 2022 8:36 AM 
+- 💻 [FreeBuf早报 | 八种让人意想不到的数据泄露方式；VMware某漏洞一年仍未修补](https://www.freebuf.com/news/346650.html) | Wed Oct 12 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
     一个名为 Polonium的APT组织所使用新的自定义后门和工具，对以色列进行间谍活动。 
-    </details> 
-
-- 🪄 [近一年时间过去了，VMware的这一漏洞仍悬而未决](https://www.freebuf.com/news/346632.html) | Wed Oct 12 2022 5:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    VMware于10月11日通知客户，vCenter Server 8.0仍在等待补丁来解决去年 11 月披露的高严重性特权提升漏洞。 
-    </details> 
-
-- 💻 [键盘残余热量可能泄露密码，20秒内拍下键盘热像图，密码泄露86%](https://www.freebuf.com/articles/database/346627.html) | Wed Oct 12 2022 3:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    在20秒内拍摄热像图时，密码的还原率为86%；30秒内拍摄，密码的还原率为76%；60秒内拍摄，密码还原率为62%。 
     </details> 
 <!-- freebuf:END -->
 
