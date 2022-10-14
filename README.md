@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我们都有美好的未来](https://juejin.cn/post/7154257335878189087) | Fri Oct 14 2022 6:52 AM 
+- 🤗 [2022 JavaScript 年度报告（翻译）](https://juejin.cn/post/7154242322169856036) | Fri Oct 14 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-    从善待厂毕业了，年终没有，季度奖也没有，好在N+1还有 同一个组的小伙伴吃了最后一顿散伙饭 后来，陆陆续续知道了其他人的动向 
+    随着 Web 平台的成熟，我们希望看到更多地直接采用其各种 API 和功能，因为这样做是有意义的。对于那些需要框架来获得更好的开发者体验的体验，我们希望看到框架作者有更多的优化和机会来采用新的 API 
     </details> 
 
-- 🎡 [撸了一个简易的配置中心，顺带整合到了SpringCloud](https://juejin.cn/post/7154222139443740709) | Fri Oct 14 2022 4:37 AM 
+- 🎡 [JavaScript设计模式之策略模式](https://juejin.cn/post/7154024674207203335) | Thu Oct 13 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是三友~~ 最近突然心血来潮（就是闲的）就想着撸一个简单的配置中心，顺便也照葫芦画瓢给整合到SpringCloud。 本文大纲 配置中心的概述 随着历史的车轮不断的前进，技术不断的进步，单体 
+    本文将介绍策略模式的基本概念和使用场景，配合Axios源码中策略模式的使用和本人工作中重构代码的一次经历，使读者能更加深刻的理解策略模式 
     </details> 
 
-- 🕯 [设计模式：设计模式概述](https://juejin.cn/post/7154220326585368607) | Fri Oct 14 2022 4:29 AM 
+- 🕯 [vue router 4 源码篇：导航守卫该如何设计（二）](https://juejin.cn/post/7153958470499172382) | Thu Oct 13 2022 11:33 AM 
     <details><summary>展开描述 ...</summary> 
-    1.课程安排 24 理论课时 + 8 实践课时 2.引言 设计模式是一门与语言无关的课程，设计模式是一种软件设计的方法，用于指导软件的开发；通过学习设计模式我们更好的理解Java的三大特性：封装，继承 
+    哈喽大咖好，我是跑手，本次给大家继续探讨vue-router@4.x源码中有关导航守卫部分。在这章节中，你可以更系统并全面学习vue router的路由拦截模式和守卫设计模式 
     </details> 
 
-- 🚀 [本地缓存实现的时候需要考虑什么——按需应对实际使用场景](https://juejin.cn/post/7154212378316374030) | Fri Oct 14 2022 3:58 AM 
+- 🚀 [&lpar;八&rpar;MySQL锁机制：高并发场景下该如何保证数据读写的安全性？](https://juejin.cn/post/7153869469394305061) | Thu Oct 13 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇我们一起探讨下项目中本地缓存的各种使用场景与应对实现策略，也通过本篇介绍的几个本地缓存的实现策略与关键特性的支持，体会到本地缓存使用与构建的关注要点。 
+    MySQL内部采用多线程执行业务SQL，但多线程虽然性能优异，但在高并发情况下自然也会带来一系列隐患问题，那MySQL是如何保障并发读写数据时的安全性呢？本文咱们一起来聊一聊MySQL的锁机制。 
     </details> 
 
-- 💪 [单刷 3 届 Hackathon，朝着理想中的数据库出发丨TiDB Hackathon 选手访谈](https://juejin.cn/post/7154205491886260232) | Fri Oct 14 2022 3:31 AM 
+- 💪 [「微服务网关实战三」详细理解 SCG 路由、断言与过滤器](https://juejin.cn/post/7153854448798793735) | Thu Oct 13 2022 4:49 AM 
     <details><summary>展开描述 ...</summary> 
-    单刷 3 届 Hackathon，朝着理想中的数据库出发丨TiDB Hackathon 选手访谈 TiDB Hackathon 2022 正在火热报名中，截止目前已经收到 230+ 位参赛者报名，组队 
+    详细了解 Spring Cloud Gateway 的路由、断言和过滤器概念，助力你更好的理解 Spring Cloud Gateway 使用。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
