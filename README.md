@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [群晖 Synology Photos 无法在线预览视频？](https://www.v2ex.com/t/886790#reply0) | Thu Oct 13 2022 4:44 PM
-- 🤗 [Windows 运行 ffmpeg 批量脚本的时候，如何在不中断的情况下限制 CPU 使用率](https://www.v2ex.com/t/886777#reply16) | Thu Oct 13 2022 3:44 PM
-- 🎭 [小辣鸡又来求助了，网站挂掉了，救救我](https://www.v2ex.com/t/886776#reply8) | Thu Oct 13 2022 3:44 PM
-- 🥷 [jQuery 中 Ajax 跨域配置疑问](https://www.v2ex.com/t/886775#reply2) | Thu Oct 13 2022 3:43 PM
-- 🐵 [用 Java 的并发类也会抛 ConcurrentModificationException 吗？](https://www.v2ex.com/t/886771#reply0) | Thu Oct 13 2022 3:36 PM<!-- v2ex:END -->
+- 🥸 [如果代码没有 bug、也没有性能问题，是否还会为了其他目标来优化重构？](https://www.v2ex.com/t/886836#reply0) | Fri Oct 14 2022 2:19 AM
+- 🤗 [IDEA 如何查询筛选子类调用父类方法？](https://www.v2ex.com/t/886828#reply6) | Fri Oct 14 2022 1:57 AM
+- 🎭 [个人开源的 pcl.js 上了阮一峰的科技爱好者周刊](https://www.v2ex.com/t/886814#reply8) | Fri Oct 14 2022 1:23 AM
+- 🥷 [把每一 bug 都当最后一 bug 来修, 然后也不要重构](https://www.v2ex.com/t/886806#reply41) | Fri Oct 14 2022 12:59 AM
+- 🐵 [Linux 主力机 ps pr 有没有替代品](https://www.v2ex.com/t/886805#reply9) | Fri Oct 14 2022 12:53 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
