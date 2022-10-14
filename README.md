@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【工作实践篇】等待轮询结果后再发请求](https://juejin.cn/post/7154293755729117221) | Fri Oct 14 2022 9:14 AM 
+- 🤗 [使用 KubeSphere 实现微服务的灰度发布](https://juejin.cn/post/7154294677947056141) | Fri Oct 14 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-    为啥会有这篇 ？ 一些同学说 想看 工作中常用的一些操作分享， 它来了 在一些场景下我们需要去重复请求接口 数据 经典场景 实现 其实 实现轮询 非常 简单 先给一个 最简单轮询版本 看起来 非常 简 
+    ## 前言 今天来说一说，在 KubeSphere 中两个 &quot; 小姐姐 &quot; 如何来回切换，这是什么意思哩？其实就是互联网产品中常用的灰度发布方式。 互联网产品需要快速迭代上线，既要保证新功能运行 
     </details> 
 
-- 🎡 [Docker系列学习&lpar;16&rpar; -- 数据卷三种挂载方式](https://juejin.cn/post/7154281713307222047) | Fri Oct 14 2022 8:28 AM 
+- 🎡 [2. JSON语法规则](https://juejin.cn/post/7154294427798732837) | Fri Oct 14 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情 生命不息，学习不止 题外话 今天又是阳光明媚的一天，终于来到周五啦，哇咔咔，我看好了一个郊区的小游乐项 
+    JSON 的语法与 JavaScript 中的对象很像，在 JSON 中主要使用以下两种方式来表示数据： Object（对象）：键/值对（名称/值）的集合，使用花括号{ }定义。在每个键/值对中，以键 
     </details> 
 
-- 🕯 [阿里云事件生态再升级：使用 EventBridge 驱动全量云产品](https://juejin.cn/post/7154281660358328328) | Fri Oct 14 2022 8:26 AM 
+- 🕯 [Android音视频开发之openGL视频录制](https://juejin.cn/post/7154291518688198686) | Fri Oct 14 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-    阿里云 EventBridge 作为云上事件枢纽，早已集成了云上产品的各类事件，用户开通 EventBridge 后使用内置的云服务专用总线就可以监听这些事件，无需创建任何额外资源。 
+    前言 周五了，说实话根本不想动，今天就来的时间就来水一下度过八。 新增：Flutter番外篇：Flutter面试-项目实战-电子书 解锁 《Android十一大板块文档》 音视频大合集，从初中高到面试 
     </details> 
 
-- 🚀 [在flutter中动态地改变应用启动器图标](https://juejin.cn/post/7154273858395537439) | Fri Oct 14 2022 7:57 AM 
+- 🚀 [如何练就超强学习力](https://juejin.cn/post/7154290896127655972) | Fri Oct 14 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    在本文中，我们将讨论如何在 Flutter 应用程序的运行时动态更改多个应用程序启动器图标。 在 pubspec.yaml 文件中添加以下依赖项。 flutter_dynamic_icon：https 
+    什么是学习 获得了自己不知道的知识和技能就是学习 多个角度解释一个问题 学习思维模型可以练习 定义一个概念就是学习的起点，通过学习来改变something，去发生让某事改变。学习前和学习后会有一些变化 
     </details> 
 
-- 💪 [Flutter — 根据不同的屏幕尺寸有效缩放 UI](https://juejin.cn/post/7154271406132297764) | Fri Oct 14 2022 7:47 AM 
+- 💪 [Luminar Neo 教程，如何将 Luminar Neo 安装为插件？](https://juejin.cn/post/7154290413929512997) | Fri Oct 14 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇文章是关于什么的？ 由于我们可以完全控制所有像素，我们可能想要画一个像这样的矩形。 太棒了！我们有一个矩形，但现在，看看如果我们在iPhone 5s&lpar;4英寸显示屏&rpar;和iPhone XS Max&lpar;6 
+    欢迎观看 Luminar Neo 教程，小编带大家学习 Luminar Neo的基本工具和使用技巧，了解如何将 Luminar Neo 安装为插件。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
