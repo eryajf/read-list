@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果可能计划在明年重新设计信息应用 以配合头显产品的登场](https://www.cnbeta.com/articles/tech/1327265.htm) | Fri Oct 14 2022 3:19 PM 
+- 🕯 [美国零售业巨头克罗格以246亿美元收购艾伯森](https://www.cnbeta.com/articles/tech/1327281.htm) | Fri Oct 14 2022 5:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，苹果公司正在开发新版本的&amp;quot;信息&amp;quot;应用程序，可能会在明年与混合现实头显一起发布。被称为&amp;quot;Majin Bu&amp;quot;的Twitter泄密者今天声称，苹果正在开发一个全新的iMessage版本，具有新的主页视图、聊天室、视频剪辑等功能。据称，该应用程序提供了&amp;quot;新的AR聊天功能&amp;quot;，因此，它&amp;quot;应该&amp;quot;在明年与苹果的头显一起发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;span style=&quot;&quot;&gt;全美第一大杂货商克罗格计划收购第二大杂货商艾伯森，交易总规模达到246亿美元。本周四，媒体率先披露了该信息。根据收购计划，克罗格将以34.10美元/股的价格收购艾伯森，并承担艾伯森约47亿美元的净债务。作为交易的一部分，艾伯森将向其股东支付高达40亿美元的特别现金股息。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [宏碁Intel Arc A770显卡突然杀出 比RTX 3060贵多了](https://www.cnbeta.com/articles/tech/1327263.htm) | Fri Oct 14 2022 3:10 PM 
+- 💼 [一位25岁的模型玩家去世了，他的母亲决定继承他的遗志](https://hot.cnbeta.com/articles/game/1327279.htm) | Fri Oct 14 2022 5:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel Arc A系列桌面独立显卡一直只有蓝戟、华擎两家品牌活跃在零售市场，现在宏碁也意外加入了！&lt;strong&gt;在宏碁台湾官网上，一款Predator BiFrost Intel Arc A770 OC显卡已经悄然上架开卖，12900元新台币，约合人民币2900元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;闲鱼上，有家名不见传的模型小店。店里常会挂出一些店主自制的&amp;nbsp;“&amp;nbsp;模型改件&amp;nbsp;”&amp;nbsp;，因为 3D 打印的手艺好，价格便宜，所以被不少学生党视为宝藏。从这家店的主页看得出来，店主应该是个《&amp;nbsp;赛博朋克 2077 》粉丝，由于头像是久保带人的《&amp;nbsp;龙与魔女》，没准儿还是个资深二次元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [我国CAD与计算机图形学领域开拓者之一刘慎权逝世 享年92岁](https://www.cnbeta.com/articles/tech/1327261.htm) | Fri Oct 14 2022 3:10 PM 
+- 💂 [显卡史上第一次 RTX 4080 12GB突然取消](https://www.cnbeta.com/articles/tech/1327277.htm) | Fri Oct 14 2022 5:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月14日消息，据中科院计算所消息，我国优秀的科学工作者、&lt;strong&gt;计算机辅助设计与计算机图形学领域的杰出专家&lt;/strong&gt;、中国科学院计算技术研究所研究员、博士生导师、&lt;strong&gt;原CAD研究室主任刘慎权先生2022年10月12日7时在北京逝世，享年92岁。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;RTX 40系列发布后，被吐槽最多的除了价格偏高，就是“RTX 4080 12GB”。它和RTX 4080 16GB乍一看属于同一系列，非常接近，但其实是两种核心，规格相差极大，而且只有192-bit显存位宽，x70系列在历史上甚至都没有过如此之低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Windows 365应用已经在Windows 11的微软商店上线](https://www.cnbeta.com/articles/tech/1327259.htm) | Fri Oct 14 2022 3:08 PM 
+- 🚀 [这件看起来“平平无奇”的文物 竟然藏着秦统一天下的秘密？](https://www.cnbeta.com/articles/science/1327275.htm) | Fri Oct 14 2022 5:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年，在微软为开发者和IT专业人士举办的年度会议Ignite 2022期间，该公司发布了许多新的服务以及对其旧有产品的增强。Windows 365在增加包括政府版在内的订阅层级后还推出了一个新的应用程序，名称同样是Windows 365，当时微软表示它将在Windows 11的微软商店中提供。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;每年的10月14日，是“世界标准日”。今天要跟大家分享的这件文物，就与“标准”密不可分——&lt;strong&gt;它，叫做“商鞅方升”。&lt;/strong&gt;商鞅方升深2.3厘米，通长18.7厘米，宽6.9厘米，重0.7千克，也就比一个成年人的手掌略大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果AR头显可能使用虹膜扫描进行用户识别](https://www.cnbeta.com/articles/tech/1327257.htm) | Fri Oct 14 2022 2:58 PM 
+- 🎊 [出口量翻倍的中国电车，这次要反攻欧洲了？](https://www.cnbeta.com/articles/tech/1327273.htm) | Fri Oct 14 2022 5:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一份新报告称，苹果眼镜或其他苹果AR头显可能使用虹膜检测，而不是Face ID或Touch ID。The Information周五早上发表的报告称，两个未指明的消息来源告诉他们，苹果即将推出的AR设备将在用户戴上头显时使用虹膜扫描来识别用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;都说买车要在&amp;nbsp;“&amp;nbsp;金九银十&amp;nbsp;”，一年之中到了这个时间段，厂家为了冲业绩变着法儿的搞促销，这时候下单肯定不亏。这不，刚过去的九月，主机厂们就纷纷放出了喜人战绩，国内市场整体销量也是一片大好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
