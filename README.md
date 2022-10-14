@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [可维修笔记本电脑公司Framework宣布翻新件业务 二手折扣带质保](https://www.cnbeta.com/articles/tech/1327027.htm) | Fri Oct 14 2022 2:21 AM 
+- 🕯 [国内最畅销的燃油轿车 新款日产轩逸曝光](https://www.cnbeta.com/articles/tech/1327059.htm) | Fri Oct 14 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管目前自愿响应的企业并不多，Framework 还是成为了让笔记本电脑等电子产品更易于维修的运动先锋。与 Fairphone 一样，Framework 希望在不牺牲最终项目的情况下，将其视作该公司技术的核心原则。&lt;strong&gt;现在，Framework 又在消费级电子废物的再利用上迈出了新的一步 —— 通过一项翻新计划，以折扣价销售其二手笔记本电脑和相关组件。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327027.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为&lt;strong&gt;国内卖的最好的燃油轿车&lt;/strong&gt;，日产轩逸的地位几乎无车可以撼动，不过随着比亚迪秦PLUS DM-i的崛起，轩逸的压力也与日俱增，是时候做出改变了。近日，新款日产轩逸得到曝光，相比于现款，其外观变化非常大，可以看到其在保留家族V字轮廓的同时，采用了更加简洁且年轻化的前脸，与现款相比无疑更加时尚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美媒：扎克伯格已无力回天，该辞职了](https://www.cnbeta.com/articles/tech/1327025.htm) | Fri Oct 14 2022 2:19 AM 
+- 💼 [耶鲁两栖机器龟登上自然杂志封面：可变形 能爬行游泳](https://www.cnbeta.com/articles/tech/1327057.htm) | Fri Oct 14 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间10月14日消息，&lt;strong&gt;美国《商业内幕》资深记者李妮特·洛佩兹&lpar;Linette Lopez&rpar;周四撰文称，Facebook创始人马克·扎克伯格&lpar;Mark Zuckerberg&rpar;已无力回天，是时候辞职了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327025.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;机器人、机器狗甚至机器蟑螂，想必大家都有所耳闻，但机器龟估计是一个新鲜概念。有人会问：乌龟爬那么慢，造个机器龟有啥用？其实不然，乌龟是一种两栖动物，如果机器龟造出来，将可以在陆地和水中运行，从而提高在特定环境中的运用率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美国最受员工喜欢公司榜单出炉：戴尔问鼎第一 苹果等巨头缺席](https://www.cnbeta.com/articles/tech/1327023.htm) | Fri Oct 14 2022 2:16 AM 
+- 💂 [《神鬼寓言》纪念牌被盗12年 开发者eBay找回](https://hot.cnbeta.com/articles/game/1327055.htm) | Fri Oct 14 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;通过和总部位于佛罗里达州的最佳实践研究所 &lpar;BPI&rpar; 合作，Newsweek 对来自 450 家公司（涵盖各种规模的企业）超过 140 万名员工进行了问卷调查，以寻找哪些美国公司最受员工喜欢。&lt;/strong&gt;在本次调查数据中，还综合了 Glassdoor 等网站的公开评级和其他研究来最终敲定排名。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327023.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;原版《神鬼寓言》的以为开发者近日透露，他最近发现了在 12 年前丢失后，团队开发游戏后获得的纪念牌匾。Mike Ducker在《神鬼寓言》系列开发中担任了程序员的职位，本周他在推特上分享了自己如何失去并最终与这块牌匾重聚的故事。他写道：“我为了制作《神鬼寓言》而获得的纪念牌自2010 年可能被盗走以来一直丢失。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [9月轿车销量排名出炉：比亚迪秦一举击溃轩逸不败神话](https://www.cnbeta.com/articles/tech/1327021.htm) | Fri Oct 14 2022 2:14 AM 
+- 🚀 [合资中型轿车添强敌 国产豪华红旗H6亮相：罕见双中置排气](https://www.cnbeta.com/articles/tech/1327053.htm) | Fri Oct 14 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;刚刚过去的9月，国内狭义乘用车市场销量达192.2万辆，同比增长21.5%，环比8月的187.1万辆增长2.8%。其中，轿车细分市场9月销量为98.1万辆，同比增长28.2%，环比8月的94.9万辆增长3.4%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327021.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国产车里，一汽红旗的设计师审美确实在线，不信，看看这款即将登场的&lt;strong&gt;红旗H6&lt;/strong&gt;。虽然申报图像素较低，但还是能够看出H6的外观和动力等相关信息，与新一代H5相同，全新H6的前脸依旧是家族化设计，前脸为直瀑式大嘴方案，内部则点缀有不规则的装饰件，有效提升了视觉张力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [在裁员这件事上，硅谷大厂的“心眼”还真多](https://www.cnbeta.com/articles/tech/1327019.htm) | Fri Oct 14 2022 2:13 AM 
+- 🎊 [Nosewise手持式嗅觉仪为VR游戏带来另一维度的独特体验](https://www.cnbeta.com/articles/tech/1327051.htm) | Fri Oct 14 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在裁员这件事情上，我们常常能在一些科技公司们身上看到语言的艺术。比如把裁员信变成“毕业通知”，把业务关停说成“结构优化”，把辞退淘汰描述成“向社会输送人才”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327019.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;数十年来，许多人都在寻求将“气味”带到电视或电影节目中。而随着虚拟现实（VR）概念的普及，瑞典科学家也希望通过一款“手持式嗅觉仪”，为虚拟视界中的用户带来另一维度的独特体验。&lt;strong&gt;据悉，在斯德哥尔摩大学 Jonas Olofsson 教授的带领下，其与马尔默大学研究人员展示了新近开发的 Nosewise 装置。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
