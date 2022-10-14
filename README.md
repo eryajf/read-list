@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三季报预喜顺丰收涨超8%、产能爬坡申通涨停 快递有序价值竞争要来了？](https://www.cnbeta.com/articles/tech/1327189.htm) | Fri Oct 14 2022 10:53 AM 
+- 🕯 [《守望先锋：归来》部分英雄太强 暴雪：想平衡要等第二赛季](https://www.cnbeta.com/articles/tech/1327215.htm) | Fri Oct 14 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三季报及双11快递旺季来临前，快递公司股价迎来全线上涨。10月14日，《每日经济新闻》记者发现，截至今日收盘，申通快递&lpar;002468，SZ&rpar;股价涨停，顺丰控股&lpar;002352，SZ&rpar;、韵达股份（002120，SZ）、圆通速递（600233，SH）股价分别上涨8.21%、4.77%、3.54%，“京东系”德邦股份&lpar;603056，SH&rpar;上涨4.87%，港股京东物流（02618.HK）亦收涨2.66%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327189.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《守望先锋：归来》上线已有一段时间，玩家反馈部分英雄的强度有点“超模”，不过暴雪考虑到多方面因素计划在第二赛季再进行平衡调整。暴雪表示，通过各个英雄的游戏出场率以及胜率来看，目前的游戏平衡已经做的非常不错了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Apple Watch创下美国市场新纪录 现在有30%的iPhone用户拥有它](https://www.cnbeta.com/articles/tech/1327187.htm) | Fri Oct 14 2022 10:20 AM 
+- 💼 [日本官方：《游戏王》作者高桥和希死因确认 晚公布考虑被救少女精神状态](https://hot.cnbeta.com/articles/comic/1327213.htm) | Fri Oct 14 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新的研究报告称，Apple Watch实现了其最高的半年&amp;quot;附加率&amp;quot;，即同时拥有活跃Watch的iPhone用户的比例。Apple Watch已经多次主导了整个智能手表行业，在2021年第二季度已经超过了1亿活跃用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327187.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《游戏王》作者高桥和希7月时被发现在冲绳名护市外海意外身亡，当时官方宣布将调查死因。我们曾报道，10月12日美国《星条旗报》证实，高桥和希是在见义勇为的过程中，为营救卷入漩涡的3人而遭遇了意外。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1327213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [对话苹果副总裁：希望没人用到的新功能](https://www.cnbeta.com/articles/tech/1327185.htm) | Fri Oct 14 2022 10:07 AM 
+- 💂 [9月份纯电动车销量榜：特斯拉“大小王”继续霸榜](https://www.cnbeta.com/articles/tech/1327211.htm) | Fri Oct 14 2022 12:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“我们希望你永远用不到这个功能。”2022 年的苹果秋季发布会，随着新款 iPhone 和 Apple Watch 发布，苹果上线了一个新功能：车祸检测。简单来说，如果你购买了今年新款的 iPhone 或 Apple Watch，当你发生严重车祸时，你的手机或手表，会感知到车祸的发生，帮你联系紧急联系人，或者是急救报警。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327185.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;刚刚过去的9月，国内狭义乘用车市场销量达192.2万辆，同比增长21.5%，环比8月的187.1万辆增长2.8%，汽车市场继续快速复苏，而新能源阵营销量也再创历史新高，&lt;strong&gt;9月销量70.8万辆，同比增长93.9%。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [废矿井发现140年前牛仔裤：样式和现代几乎一模一样 拍出62万元](https://hot.cnbeta.com/articles/funny/1327183.htm) | Fri Oct 14 2022 9:58 AM 
+- 🚀 [百公里仅需燃油车一半花销：上海首批氢能源网约车上路运营](https://www.cnbeta.com/articles/tech/1327209.htm) | Fri Oct 14 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为曾经劳工穿的工作服，任谁也想不到，牛仔裤如今竟成为全球最流行的裤子品类之一。更让人想不到的是，140年前的牛仔裤和如今对比起来，样式和版型也几乎一样。据“极目新闻”报道，近日，在美国新墨西哥州的一个小镇拍卖会上，&lt;strong&gt;一条1880年代的李维斯牛仔裤以8.74万美元（约合人民币62.69万元）售出。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1327183.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当前，随着各地支持氢能产业政策的密集出台，氢能源技术的提升以及加氢基础设施的不断完善，氢能在交通领域的应用也日渐广泛。据央视报道，近日，&lt;strong&gt;上海推出首批80辆氢能源网约车投入商业运营&lt;/strong&gt;，那么新能源汽车离大规模商业应用还有多远？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327209.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [海外主要芯片厂商今年股价集体腰斩 行业面临长期影响](https://www.cnbeta.com/articles/tech/1327181.htm) | Fri Oct 14 2022 9:47 AM 
+- 🎊 [SOFIA探测到一种全新类型的组合新星喷发](https://www.cnbeta.com/articles/science/1327207.htm) | Fri Oct 14 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在需求不振和出口受限等多重因素的影响下，全球半导体厂商正在经历行业低迷期。主要芯片厂商和设备供应商今年以来股价集体腰斩。今年至今，全球营收排名前十的芯片公司股价跌幅都接近或超过三分之一。根据研究机构Gartner发布的2021年全球十大半导体公司，分别为三星、英特尔、海士力、美光、高通、博通、联发科、德州仪器、英伟达和AMD。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;天文学家利用SOFIA（平流层红外天文观测站）发现了一些独特的东西。他们发现了一种新型的恒星爆发，这种爆发在所研究的系统类型中以前从未见过。通过一些巧妙的科学侦查工作，天文学家们能够确定使这种爆发与众不同的特征，并将其归入全新类别。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327207.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
