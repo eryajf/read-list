@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Android和iOS端Outlook即将获得定时发送功能](https://www.cnbeta.com/articles/tech/1327133.htm) | Fri Oct 14 2022 7:31 AM 
+- 🕯 [Apple Watch Ultra快慢充电究竟差在哪里？](https://www.cnbeta.com/articles/tech/1327151.htm) | Fri Oct 14 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据 Microsoft 365 路线图，Android 和 iOS 端 Outlook 即将获得“定时发送”（Schedule and send）功能，允许用户延迟发送电子邮件。这项功能和网页端和桌面端 Outlook 的“Delay delivery”非常相似。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Apple Watch Ultra 针对运动型用户，拥有全新的外观设计和更好的防水防震性能；并且同样搭载 Apple Watch 核心功能，包括健身记录跟踪、高低心率通知和 SOS 紧急联络，以及创新车祸检测功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [外媒称三星电子正计划将BSPDN技术用于2nm制程工艺](https://www.cnbeta.com/articles/tech/1327131.htm) | Fri Oct 14 2022 7:30 AM 
+- 💼 [RTX 4090被发现仍预留NVLink电路设计， 英伟达或有所保留](https://www.cnbeta.com/articles/tech/1327149.htm) | Fri Oct 14 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月14日消息，据国外媒体报道，三星电子采用全环绕栅极晶体管架构的3nm制程工艺，已在6月30日开始初步生产芯片，所代工的首批晶圆，在7月25日正式发货。在3nm制程工艺开始量产之后，三星电子芯片制程工艺研发的重点，就将集中在更先进的2nm制程工艺上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不少人发现英伟达基于Ada Lovelace架构的GeForce RTX 4090已不像上一代GeForce RTX 3090那样，支持NVLink桥接器，随后英伟达发布的NVIDIA RTX 6000 Ada Generation也没有提供支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [明月追火星奇幻大片明日上演 肉眼清晰可见](https://www.cnbeta.com/articles/science/1327129.htm) | Fri Oct 14 2022 7:18 AM 
+- 💂 [台积电，没有带来好消息](https://www.cnbeta.com/articles/tech/1327147.htm) | Fri Oct 14 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月14日消息，据中国气象局介绍，天文科普专家表示，10月15日晨，&lt;strong&gt;红色火星将与一轮明月在西南方天空“邂逅”，届时只要天气晴好，这幕浪漫的“星月童话”肉眼清晰可见。&lt;/strong&gt;据专家介绍，想看到这幕奇景的观众可于15日早晨进行观测：火星位于凸月的左下方不远处，微微泛红，非常醒目。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;台积电是全球最大、最先进的半导体生产商，因此是半导体行业的“风向标”，也是整个 IT 行业严重依赖半导体作为其关键驱动力的领先指标。在截至 9 月的第三季度中，这家台湾代工厂的收入增长了 35.9% 至 202.5 亿美元，同比增长47.9%，环比增长也高达14.8%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327147.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [网友阴阳J.K.罗琳怎么睡得着 回应：收入多 抵消痛苦](https://www.cnbeta.com/articles/tech/1327127.htm) | Fri Oct 14 2022 7:15 AM 
+- 🚀 [NASA SpaceX Crew-4返回地球时间再次推迟](https://www.cnbeta.com/articles/science/1327145.htm) | Fri Oct 14 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们曾报道，J.K.罗琳曾因某些言论陷入了跨性别争议。有人在推特上质问她：你流失了这么多的粉丝，晚上是怎么睡得着的？她对此淡然地回复：我看了看最近收到的版税支票，痛苦立马就消失了。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Crew-4原定于美国东部时间10月12日周三晚上7点05分从国际空间站&lpar;ISS&rpar;分离从而开启他们返回地球的旅程。由于溅落区附近的恶劣天气，返回家园的时间被推迟了，新的计划是在10月13日周四上午10:05分离。由于持续的天气问题，返回地球的时间再次被推迟了一天。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [麦当劳推变形金刚手办像姜文 网友二创简直神似](https://hot.cnbeta.com/articles/funny/1327125.htm) | Fri Oct 14 2022 7:14 AM 
+- 🎊 [罗技G502 X游戏鼠标上架：HERO 25K传感器+LIGHTFORCE光学微动](https://www.cnbeta.com/articles/tech/1327143.htm) | Fri Oct 14 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，麦当劳开心乐园餐推出新款“变形金刚”系列玩具，&lt;strong&gt;其中一款的身体和头盔的造型来自变形金刚里的“钢锁”，被网友调侃很像姜文。&lt;/strong&gt;对此，微博网友@血腥的喜剧演员 跑了五个麦当劳店终于买到这款玩具，并进行了二创，&lt;strong&gt;戴上眼镜，粘上头发后，简直与姜文神似，一口大白牙非常喜庆。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1327125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今日，罗技G系列新品——G502 X游戏鼠标正式开售，首发499元。&lt;/strong&gt;在外形设计上，G502 X游戏鼠标采用薄壁外骨骼以及轻量化滚轮等部件，将鼠标整体重量缩减，重量仅有89克。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
