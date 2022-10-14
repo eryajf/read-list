@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Intel i3-N305意外现身 8核8线程全部小核心](https://www.cnbeta.com/articles/tech/1327239.htm) | Fri Oct 14 2022 2:38 PM 
+- 🕯 [苹果可能计划在明年重新设计信息应用 以配合头显产品的登场](https://www.cnbeta.com/articles/tech/1327265.htm) | Fri Oct 14 2022 3:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel 12代酷睿首次引入了大小核组成的混合架构，但也有一些无小核的型号，并且即将推出无大核的型号，也就是Alder Lake-N系列。它基于Gracemont CPU架构，最多8核心8线程，分为两组，同时集成Xe LP架构核心，最多32单元，支持AV1、H.264、H.265视频编解码。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327239.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，苹果公司正在开发新版本的&amp;quot;信息&amp;quot;应用程序，可能会在明年与混合现实头显一起发布。被称为&amp;quot;Majin Bu&amp;quot;的Twitter泄密者今天声称，苹果正在开发一个全新的iMessage版本，具有新的主页视图、聊天室、视频剪辑等功能。据称，该应用程序提供了&amp;quot;新的AR聊天功能&amp;quot;，因此，它&amp;quot;应该&amp;quot;在明年与苹果的头显一起发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉德国工厂遭遇技术瓶颈 推迟电池生产计划](https://www.cnbeta.com/articles/tech/1327237.htm) | Fri Oct 14 2022 2:36 PM 
+- 💼 [宏碁Intel Arc A770显卡突然杀出 比RTX 3060贵多了](https://www.cnbeta.com/articles/tech/1327263.htm) | Fri Oct 14 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，由于技术问题，特斯拉已推迟在德国工厂生产电池的计划。业内人士称，特斯拉推迟在德国工厂生产电池，并不是因为美国的税收优惠政策，也不是因为能源成本问题，而是一项关键、高度复杂的生产技术，出现了重大延误。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327237.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel Arc A系列桌面独立显卡一直只有蓝戟、华擎两家品牌活跃在零售市场，现在宏碁也意外加入了！&lt;strong&gt;在宏碁台湾官网上，一款Predator BiFrost Intel Arc A770 OC显卡已经悄然上架开卖，12900元新台币，约合人民币2900元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [世纪互联版微软365服务及Teams明年正式入华](https://www.cnbeta.com/articles/tech/1327235.htm) | Fri Oct 14 2022 2:16 PM 
+- 💂 [我国CAD与计算机图形学领域开拓者之一刘慎权逝世 享年92岁](https://www.cnbeta.com/articles/tech/1327261.htm) | Fri Oct 14 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月13日，微软中国举办 Ignite 的分会场“Ignite China 中国技术峰会”，宣布多项针对中国市场的更新。由世纪互联运营的Teams以及Microsoft 365服务，将于2023年上半年正式推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327235.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月14日消息，据中科院计算所消息，我国优秀的科学工作者、&lt;strong&gt;计算机辅助设计与计算机图形学领域的杰出专家&lt;/strong&gt;、中国科学院计算技术研究所研究员、博士生导师、&lt;strong&gt;原CAD研究室主任刘慎权先生2022年10月12日7时在北京逝世，享年92岁。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [罗素·克劳自导自演惊悚片《扑克脸》曝预告](https://hot.cnbeta.com/articles/movie/1327233.htm) | Fri Oct 14 2022 2:13 PM 
+- 🚀 [Windows 365应用已经在Windows 11的微软商店上线](https://www.cnbeta.com/articles/tech/1327259.htm) | Fri Oct 14 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;奥斯卡影帝罗素·克劳自编自导自演的惊悚片《扑克脸》首曝预告，影片讲述克劳扮演的亿万富翁本想通过扑克游戏“玩弄”他的朋友，没想到半路却遇到入室抢劫的。影片将于今年11月22日北美上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327233.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年，在微软为开发者和IT专业人士举办的年度会议Ignite 2022期间，该公司发布了许多新的服务以及对其旧有产品的增强。Windows 365在增加包括政府版在内的订阅层级后还推出了一个新的应用程序，名称同样是Windows 365，当时微软表示它将在Windows 11的微软商店中提供。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [台积电Q3财报：智能手机为营收最大贡献者 库存调整持续至明年](https://www.cnbeta.com/articles/tech/1327231.htm) | Fri Oct 14 2022 2:01 PM 
+- 🎊 [苹果AR头显可能使用虹膜扫描进行用户识别](https://www.cnbeta.com/articles/tech/1327257.htm) | Fri Oct 14 2022 2:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月13日，台积电公布了2022年第三季度财报，数据显示，台积电第三季度总营收202亿美元，同比增长35.9%，环比增长11.4%。毛利率达60.4%，营业利润率达50.6%，均超出市场预期。不过在当天举行的电话财报会议上，台积电总裁魏哲家表示“预计在2023年，半导体行业可能会迎来下滑（周期）。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一份新报告称，苹果眼镜或其他苹果AR头显可能使用虹膜检测，而不是Face ID或Touch ID。The Information周五早上发表的报告称，两个未指明的消息来源告诉他们，苹果即将推出的AR设备将在用户戴上头显时使用虹膜扫描来识别用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
