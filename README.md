@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vue.config.js 多环境配置](https://juejin.cn/post/7154578265154256910) | Sat Oct 15 2022 3:40 AM 
+- 🤗 [浅谈Spark之NativeSQL引擎](https://juejin.cn/post/7154603975403110436) | Sat Oct 15 2022 5:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们在Spark任务的DAG图中很容易看到WSCG（全阶段代码生成）的身影。CodeGen技术从算子融合角度解决虚函数开销和中间数据物化问题：简单来说，CodeGen框架通过生成与手写代码语 
+    </details> 
+
+- 🎡 [摩天轮动画的实现揭秘](https://juejin.cn/post/7154596739440181279) | Sat Oct 15 2022 4:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    摩天轮动画的实现揭秘 恰好近期业务上开发了类似这样的摩天轮动画，我将其中的实现原理分享给大家。摩天轮动画主要分为 2 部分，一个是摩天轮上每个房间位置布局，另一个就是旋转动画了。 
+    </details> 
+
+- 🕯 [基于 Java 的 CSS 压缩和格式化算法的实现和分析](https://juejin.cn/post/7154594150136938503) | Sat Oct 15 2022 4:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文是基于 Java 的 CSS 压缩和格式化的算法分析和实现文章。 最近因为我个人开发的软件的很多用户对自定义 CSS 要求的呼声太高，所以，我决定在应用内增加一个自定义 CSS 的功能。 
+    </details> 
+
+- 🚀 [vue.config.js 多环境配置](https://juejin.cn/post/7154578265154256910) | Sat Oct 15 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
     vue.config.js 多环境配置vue.config.js 多环境配置vue.config.js 多环境配置vue.config.js 多环境配置vue.config.js 多环境配置vue.c 
     </details> 
 
-- 🎡 [详解核方法-背景介绍【白板推导系列笔记】](https://juejin.cn/post/7154566439221854239) | Sat Oct 15 2022 2:52 AM 
+- 💪 [详解核方法-背景介绍【白板推导系列笔记】](https://juejin.cn/post/7154566439221854239) | Sat Oct 15 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第15天，点击查看活动详情 核方法相关的概念有三个Kernel Method（从思想角度）、Kernel Trick（从计算角度） 
-    </details> 
-
-- 🕯 [Android 搜索框架使用](https://juejin.cn/post/7154560903537491975) | Sat Oct 15 2022 2:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    App中搜索功能是必不可少的，搜索功能可以帮助用户快速获取想要的信息。对此，Android提供了一个搜索框架，本文介绍如何通过搜索框架实现搜索功能。 
-    </details> 
-
-- 🚀 [详解文本生成图像的仿射变换模块（Affine Transformation）和条件批量标准化（CBN）](https://juejin.cn/post/7154558470262358029) | Sat Oct 15 2022 2:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    仿射变换又称仿射映射，是指在几何中，一个向量空间进行一次线性变换并接上一个平移，变换为另一个向量空间。 仿射变换是在几何上定义为两个向量空间之间的一个仿射变换 
-    </details> 
-
-- 💪 [OpenCV用指针扫描图像](https://juejin.cn/post/7154555898579386382) | Sat Oct 15 2022 2:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    在大多数图像处理任务中，我们需要扫描图像的所有像素才能执行计算，由于需要访问大量像素，我们必须以高效的方法进行扫描。本节我们将介绍如何使用指针实现高效扫描图像的方法。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
