@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软加大无障碍设计力度 多项计划造福残障玩家](https://hot.cnbeta.com/articles/game/1327459.htm) | Sat Oct 15 2022 8:48 AM 
+- 🕯 [OPPO Find N2即将登场：能单手操作的折叠屏](https://www.cnbeta.com/articles/tech/1327465.htm) | Sat Oct 15 2022 9:59 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日消息，博主数码闲聊站暗示，OPPO Find N2内屏尺寸大概率仍然是7.1英寸。这意味着新款折叠屏的外屏尺寸跟上一代相差不大，&lt;strong&gt;可能还是5.49英寸，跟iPhone 13 mini相当，这将是一款可以单手操作的折叠屏旗舰。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [百元神机Redmi A1+发布：联发科Helio A22、内置5000mAh大电池](https://www.cnbeta.com/articles/tech/1327463.htm) | Sat Oct 15 2022 9:58 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月15日消息，&lt;strong&gt;Redmi在印度发布了全新入门级机型Redmi A1+，较上一代Redmi A1新增指纹解锁功能。&lt;/strong&gt;该机将于10月17日中午12点通过Flipkart正式开售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [《哈利·波特》电影马尔福演员称 J·K罗琳几乎没来过片场](https://hot.cnbeta.com/articles/movie/1327461.htm) | Sat Oct 15 2022 9:53 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《哈利·波特》作者J.K. 罗琳除了作为原著的作家以外，还长久以来被称为电影的导演和玩具的设计师。但根据马尔福演员 Tome Felton 在接受《独立报》关于他的书《超越魔杖：巫师成长的魔法和混乱》的采访时说，她对电影拍摄的参与远比人们像的要少。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [微软加大无障碍设计力度 多项计划造福残障玩家](https://hot.cnbeta.com/articles/game/1327459.htm) | Sat Oct 15 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在最近一场面向残障玩家的游戏发布会活动中，Xbox透露了其下一步计划，将会“帮助开发者创造更多无障碍和包容性体验”。这些升级和改动将会直接基于微软所获得的反馈进行，从而制造出更多无障碍体验内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美国医生警告：新冠口服药与心血管药联用有风险](https://www.cnbeta.com/articles/tech/1327457.htm) | Sat Oct 15 2022 8:48 AM 
+- 🎊 [美国医生警告：新冠口服药与心血管药联用有风险](https://www.cnbeta.com/articles/tech/1327457.htm) | Sat Oct 15 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;辉瑞的新冠小分子抗病毒药物Paxlovid是目前全球范围内使用最为广泛的一种常用新冠口服药，尤其是用于有心血管疾病等高危因素的患者，以预防严重新冠疾病的风险增加。然而Paxlovid与一些常用药物之间的相互作用可能引发风险，&lt;strong&gt;美国临床医生近日强调，在使用新冠小分子药物Paxlovid时要特别谨慎，尤其是在与他汀类药物和一些心衰药物联用时，可能会产生危险的药物相互作用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [广汽本田ZR-V致在e:HEV申报 配本田第四代混动](https://www.cnbeta.com/articles/tech/1327455.htm) | Sat Oct 15 2022 8:47 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最新一批申报目录中包含广汽本田&lt;strong&gt;ZR-V致在e：HEV&lt;/strong&gt;申报信息，该车燃油版日前已上市，共推出三款车型，售价区间为15.99-19.59万元。该车与全新一代思域同平台打造，定位高于缤智，但要低于皓影，为全新入门级紧凑型SUV，&lt;strong&gt;车身尺寸为4568/1840/1621mm，轴距为2655mm&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [梵高名画《向日葵》被泼番茄汁后续：玻璃保护的画作已重新展出](https://www.cnbeta.com/articles/tech/1327453.htm) | Sat Oct 15 2022 8:46 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;价值5.6亿元的梵高名画《向日葵》，竟然被人故意泼了番茄汁！据英国媒体报道，当地时间10月14日，&lt;strong&gt;“停止采石油&lpar;Just Stop Oil&rpar;”组织的两位环保人士，在英国伦敦国家美术馆向梵高名作《向日葵》泼洒了番茄汁，还当场发表演讲&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [MacRumors畅想了苹果AR/VR头显的十大尖端特性](https://www.cnbeta.com/articles/tech/1327451.htm) | Sat Oct 15 2022 7:59 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在凭借 iPhone、iPad 和 Apple Watch 和软件服务主导市场多年之后，许多人期待着苹果公司能够在增强（AR）和虚拟现实（VR）领域引领新的风潮。&lt;strong&gt;对于传说已久的头显，MacRumors 也贴心地汇总了十个潜力点。&lt;/strong&gt;首先，这家库比蒂诺科技巨头正在使用索尼的两款 4K 超高清 Micro-OLED 显示屏，据称像素密度达到了 3000 PPI 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
