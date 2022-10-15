@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [爱驰汽车回应车辆街头自动驾驶撞车：初判为停车挂挡失误](https://www.cnbeta.com/articles/tech/1327419.htm) | Sat Oct 15 2022 6:33 AM 
+- 🕯 [《使命召唤19》反作弊团队：不存在崩溃误封行为](https://hot.cnbeta.com/articles/game/1327445.htm) | Sat Oct 15 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，一爱驰U5街头“自动驾驶”撞车事件引发不小的关注。根据曝光的现场视频显示，&lt;strong&gt;一辆爱驰U5在没有司机操作的情况下，在公共道路上跑了起来。&lt;/strong&gt;一名男子手持电话一边接听一边小跑追车，期间还不住地向正常行驶的车辆招手，示意避让，结果最终还是装上了对象的现代轿车。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《使命召唤》品牌反作弊团队近日证实，在《使命召唤19：现代战争2》的公测期间，他们对超过2万个玩家账号进行了封禁。此次公测于9月18日-20日在PlayStation平台进行，9月24日-26日在其它平台进行。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [黑客利用Wi-Fi无人机远程渗透了金融公司内网](https://www.cnbeta.com/articles/tech/1327417.htm) | Sat Oct 15 2022 6:29 AM 
+- 💼 [摩托罗拉Moto E22s将于10月17日在印度推出](https://www.cnbeta.com/articles/tech/1327443.htm) | Sat Oct 15 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;本周早些时候，The Register 报道了今夏了一起无人机袭击事件。然而受害的私人投资公司却对此保持沉默，仅同意根据保密协议与安全人员展开探讨。&lt;/strong&gt;据说当时网络管理员发现公司的 Confluence 页面在局域网内表现出了奇怪的行为，而 Confluence 则是 Atlassian 开发的基于 Web 的远程写作软件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;摩托罗拉上周在印度推出了新的Moto E32，这与在欧洲宣布的Moto E32不同，它将在亚洲国家推出的下一款智能手机是Moto E22s。该型号将于10月17日在印度推出，并将于10月22日开始通过Flipkart和当地主流零售店销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [六车AEB夜间实测：带激光雷达的理想L9倒数第一](https://www.cnbeta.com/articles/tech/1327415.htm) | Sat Oct 15 2022 6:29 AM 
+- 💂 [满电能跑1202公里 奔驰史上最节能汽车VISION EQXX登陆中国](https://www.cnbeta.com/articles/tech/1327441.htm) | Sat Oct 15 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为主动安全中最重要的一环，AEB已经成为了不少新车的标配，不过不同主机厂使用的AEB方案不同，表现也不同。此外，随着激光雷达的逐步装车，加上部分厂家的引导性宣传，逐渐成为了新的“爆点”，&lt;strong&gt;更是有观点认为“无激光、不成车”&lt;/strong&gt;，那么搭载了激光雷达的车型，在AEB表现时真的就会轻松碾压使用视觉、毫米波雷达等更为传统的方案吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月15日，据奔驰官方消息，旗下全新电动概念车&lt;strong&gt;VISION EQXX&lt;/strong&gt;正式在中国亮相。该车自今年全球首发以来，已经在欧洲多地完成实际道路的能效测试，今年4月，VISION EQXX从德国辛德芬根出发到法国卡西斯，&lt;strong&gt;经过11小时32分钟的长途跋涉完成1008公里的公路旅行&lt;/strong&gt;，还尚存约140公里的续航里程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [鄱阳湖几月无雨：上万斤鱼搁浅 20多人自费转运](https://www.cnbeta.com/articles/tech/1327413.htm) | Sat Oct 15 2022 6:25 AM 
+- 🚀 [《使命召唤19》10.19开预载 本体/战区2分离下载](https://hot.cnbeta.com/articles/game/1327439.htm) | Sat Oct 15 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;由于鄱阳湖区域已有几个月没有下雨，干旱导致大量的鱼搁浅在岸边。&lt;/strong&gt;据近日报道，当地有好心民众觉得这么多鱼如果被活活旱死挺可惜，就组织了朋友自费开车将这些鱼成批成批的运到了赣江。他们一行共有二十多人，已经将那个水坑搁浅的鱼基本上都转运走了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日，PS数据博主@PlayStationSize公布了《使命召唤19：现代战争2》各模式的预载时间。战役模式预载时间为10月19日，10月20日预购玩家可以游玩。多人游戏、合作模式以及《战区2》（可选安装）将于10月21日开启预载，同月28日正式上线。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [长城魏牌80内饰谍照：理想ONE同款大连屏装车](https://www.cnbeta.com/articles/tech/1327411.htm) | Sat Oct 15 2022 6:21 AM 
+- 🎊 [消息称英特尔至少准备了22款第13代酷睿Raptor Lake台式机CPU](https://www.cnbeta.com/articles/tech/1327437.htm) | Sat Oct 15 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在最新一期的工信部申报图中，长城魏牌全新中大型SUV&lt;strong&gt;魏80&lt;/strong&gt;进行了申报，该车搭载一套插电混动系统，&lt;strong&gt;未来上市后或将落在30-40万元之间&lt;/strong&gt;，与理想L8、问界M7等车型展开竞争。近日，@汽车之家获取了一组该车的内饰谍照，可以看出其设计风格和思路。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;英特尔似乎正在准备至少22个新的第13代猛禽湖（Raptor Lake）桌面CPU，这是技嘉公司在其Z790板的CPU支持列表中透露的。&lt;/strong&gt;英特尔将在下周的10月20日推出新的猛禽湖K系列CPU。虽然最初的阵容只包括&amp;quot;K&amp;quot;或无锁SKU，但也有计划在每个部分下推出主流和预算级芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
