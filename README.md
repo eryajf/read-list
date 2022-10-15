@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软高级经理预告下周Windows将有&quot;令人兴奋的东西&quot;出现](https://www.cnbeta.com/articles/tech/1327515.htm) | Sat Oct 15 2022 6:21 PM 
+- 🕯 [Binance Pool启动5亿美元基金以支持比特币开采](https://www.cnbeta.com/articles/tech/1327517.htm) | Sat Oct 15 2022 9:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;加密货币的冬天正在给开设虚拟矿场的公司带来损失，这让加密货币交易所Binance开始为比特币（BTC）矿工提供借贷便利。Binance Pool已经为私人和公共矿工启动了一个5亿美元的借贷项目。矿工将需要以实物或数字资产的形式为贷款提供担保，贷款期限为18-24个月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [微软高级经理预告下周Windows将有&quot;令人兴奋的东西&quot;出现](https://www.cnbeta.com/articles/tech/1327515.htm) | Sat Oct 15 2022 6:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;微软的一名高级经理刚刚为Windows预告了&amp;quot;一些令人兴奋的事情&amp;quot;，时间就在下周。&lt;/strong&gt;克拉顿·亨德里克斯是微软负责Windows基础部门的项目经理，其监督的关键Windows功能之一是任务管理器。虽然没有任何证据表明是这样，但有可能下周会有一个与任务管理器相关的新功能或增强功能登陆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [微软详细介绍了Edge 106能源效率的改进](https://www.cnbeta.com/articles/tech/1327513.htm) | Sat Oct 15 2022 6:19 PM 
+- 💂 [微软详细介绍了Edge 106能源效率的改进](https://www.cnbeta.com/articles/tech/1327513.htm) | Sat Oct 15 2022 6:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;本月早些时候，微软向稳定频道的所有用户发布了Edge 106。除了发布说明中一些不那么令人印象深刻的变化外，微软浏览器的最新版本侧重于通过为内置的效率模式增加一些额外的功能来提高其能源效率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Razer Edge公布：一款外观犀利的Android云游戏掌机](https://www.cnbeta.com/articles/tech/1327511.htm) | Sat Oct 15 2022 6:11 PM 
+- 🚀 [Razer Edge公布：一款外观犀利的Android云游戏掌机](https://www.cnbeta.com/articles/tech/1327511.htm) | Sat Oct 15 2022 6:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Razer终于展示了它的便携式Android游戏掌机Edge。好消息是：它看起来比我们上次在2021年12月看到它时要好得多。Edge将在2023年1月发布仅Wi-Fi版本，售价399.99美元，随后在2023年初通过Verizon发布5G版本。它将支持运营商的超宽频5G网络。Razer采用了类似Steam Deck的预订模式，人们只需要支付5美元就可以参与预订。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Razer发布为家庭游戏主机设计的Hammerhead HyperSpeed降噪无线耳塞](https://hot.cnbeta.com/articles/game/1327509.htm) | Sat Oct 15 2022 6:08 PM 
+- 🎊 [Razer发布为家庭游戏主机设计的Hammerhead HyperSpeed降噪无线耳塞](https://hot.cnbeta.com/articles/game/1327509.htm) | Sat Oct 15 2022 6:08 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Razer曾为游戏机发布了众多罩耳式耳机，该公司将在11月为PlayStation和Xbox带来Hammerhead无线耳塞，售价149.99美元。每款游戏机都有对应的Hammerhead HyperSpeed的颜色型号（PlayStation为白色配蓝色，Xbox为黑色配绿色）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [据传搭配iPad的苹果智能家居中心底座即将面世](https://www.cnbeta.com/articles/tech/1327507.htm) | Sat Oct 15 2022 6:01 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司正计划将iPad变成一个智能家居中心和扬声器，使其成为家庭中更重要的固定设备，可以住在厨房的台面上。苹果的HomeKit平台依靠iPad、Apple TV和HomePod mini等设备来运作。然而，目前还没有一个能作为家庭的中央可控和专用设备，这显然是苹果渴望改变的现状。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
