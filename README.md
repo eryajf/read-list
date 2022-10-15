@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【云原生】Spark on k8s 讲解与实战操作](https://juejin.cn/post/7154700557326761997) | Sat Oct 15 2022 11:36 AM 
+- 🤗 [【技术提升计划】「攀登技术领域的巅峰」教你学透MySQL技术原理及设计调优](https://juejin.cn/post/7154729168469508109) | Sat Oct 15 2022 1:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    个人简介         Hi，大家好，我是李浩宇/Alex，目前在一家互联网公司担任技术研发经理，之前曾就职于神州数码和优酷。擅长的领域是Java技术体系（Java源码分析和JVM原理分析）， My 
+    </details> 
+
+- 🎡 [【云原生】Spark on k8s 讲解与实战操作](https://juejin.cn/post/7154700557326761997) | Sat Oct 15 2022 11:36 AM 
     <details><summary>展开描述 ...</summary> 
     Apache Spark 是专为大规模数据处理而设计的快速通用的计算引擎。Spark是UC Berkeley AMP lab &lpar;加州大学伯克利分校的AMP实验室&rpar;所开源的类Hadoop MapRedu 
     </details> 
 
-- 🎡 [行业实践：RocketMQ 业务集成典型行业应用和实践](https://juejin.cn/post/7154696433843585031) | Sat Oct 15 2022 11:18 AM 
+- 🕯 [行业实践：RocketMQ 业务集成典型行业应用和实践](https://juejin.cn/post/7154696433843585031) | Sat Oct 15 2022 11:18 AM 
     <details><summary>展开描述 ...</summary> 
     本文讲述了 RocketMQ 的业务消息场景、一些功能特性的使用方法，包括事务消息、定时消息、消息全链路灰度等，欢迎大家尝试使用。 
     </details> 
 
-- 🕯 [Java&amp;C++题解与拓展——leetcode1441.用栈操作构建数组【么的新知识】](https://juejin.cn/post/7154694884379590692) | Sat Oct 15 2022 11:13 AM 
+- 🚀 [Java&amp;C++题解与拓展——leetcode1441.用栈操作构建数组【么的新知识】](https://juejin.cn/post/7154694884379590692) | Sat Oct 15 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
     leetcode1441.用栈操作构建数组解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
     </details> 
 
-- 🚀 [C# Timer控件学习，使用Timer解决按钮幂等性问题](https://juejin.cn/post/7154685103241691167) | Sat Oct 15 2022 10:32 AM 
+- 💪 [C# Timer控件学习，使用Timer解决按钮幂等性问题](https://juejin.cn/post/7154685103241691167) | Sat Oct 15 2022 10:32 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第14天，点击查看活动详情 前言： Timer是一个定时器，作为C#开发Timer控件是我们用的比较多的一个控件，它的功能很简单， 
-    </details> 
-
-- 💪 [Linux读写缓存Page Cache](https://juejin.cn/post/7154678682345766919) | Sat Oct 15 2022 10:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    读写缓存Page Cache Linux对文件读写并不是每次都进行磁盘IO，而是将对应的磁盘文件缓存到内存上，之后对该文件的操作实际上也是对内存的读写， 缓存俗称页缓存&lpar;page cache&rpar;。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
