@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端脚手架-4](https://juejin.cn/post/7154753505012482062) | Sat Oct 15 2022 2:58 PM 
+- 🤗 [【前端&amp;运维那点事儿】五：迈向Shell的第一步：Shell基础](https://juejin.cn/post/7154766441655304223) | Sat Oct 15 2022 3:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    从这篇文章开始开始介绍shell，在这篇文章先来介绍一下shell以及bash的功能和技巧； 🍓 什么是Shell Shell是一个命令行解释器，它连接了用户和Linux内核，向用户提供了一个高效 
+    </details> 
+
+- 🎡 [前端脚手架-4](https://juejin.cn/post/7154753505012482062) | Sat Oct 15 2022 2:58 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第15天，点击查看活动详情 初始化项目 1.创建项目 2.创建入口文件 3.编写命令 4.本地软链 检查Node版本 1.新建li 
     </details> 
 
-- 🎡 [MySQL : explain 快速查询手册](https://juejin.cn/post/7154744473048580110) | Sat Oct 15 2022 2:23 PM 
+- 🕯 [MySQL : explain 快速查询手册](https://juejin.cn/post/7154744473048580110) | Sat Oct 15 2022 2:23 PM 
     <details><summary>展开描述 ...</summary> 
     一. 前言 上一篇整理完了 MySQL 的性能优化方式 , 其中最常用的就是 explain . 这一篇来详细看看 explain 中各个参数的含义和扩展 , 整理出来便于使用时快速查询 二 . ex 
     </details> 
 
-- 🕯 [【技术提升计划】「攀登技术领域的巅峰」教你学透MySQL技术原理及设计调优](https://juejin.cn/post/7154729168469508109) | Sat Oct 15 2022 1:23 PM 
+- 🚀 [【技术提升计划】「攀登技术领域的巅峰」教你学透MySQL技术原理及设计调优](https://juejin.cn/post/7154729168469508109) | Sat Oct 15 2022 1:23 PM 
     <details><summary>展开描述 ...</summary> 
     个人简介         Hi，大家好，我是李浩宇/Alex，目前在一家互联网公司担任技术研发经理，之前曾就职于神州数码和优酷。擅长的领域是Java技术体系（Java源码分析和JVM原理分析）， My 
     </details> 
 
-- 🚀 [&lpar;10月最新&rpar; 前端图形学实战: 从零开发几何画板&lpar;vue3 + vite版&rpar;](https://juejin.cn/post/7154723970007171108) | Sat Oct 15 2022 1:04 PM 
+- 💪 [&lpar;10月最新&rpar; 前端图形学实战: 从零开发几何画板&lpar;vue3 + vite版&rpar;](https://juejin.cn/post/7154723970007171108) | Sat Oct 15 2022 1:04 PM 
     <details><summary>展开描述 ...</summary> 
     本文是 100+前端几何学应用案例 专栏的第二篇文章, 今天分享一下从零搭建一款可视化几何画板, 采用大家最熟悉的vue3和typescript来实现 
-    </details> 
-
-- 💪 [【云原生】Spark on k8s 讲解与实战操作](https://juejin.cn/post/7154700557326761997) | Sat Oct 15 2022 11:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    Apache Spark 是专为大规模数据处理而设计的快速通用的计算引擎。Spark是UC Berkeley AMP lab &lpar;加州大学伯克利分校的AMP实验室&rpar;所开源的类Hadoop MapRedu 
     </details> 
 <!-- juejin:END -->
 ### 少数派
