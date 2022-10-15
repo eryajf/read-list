@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [小型哺乳动物被认为是一种威胁生命的疾病的孵化器](https://www.cnbeta.com/articles/science/1327471.htm) | Sat Oct 15 2022 10:36 AM 
+- 🕯 [moto X40年底登场 首批搭载骁龙8 Gen2](https://www.cnbeta.com/articles/tech/1327479.htm) | Sat Oct 15 2022 12:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今日消息，博主数码闲聊站透露，&lt;strong&gt;moto X40采用FHD+全面屏，搭载高通骁龙8 Gen2旗舰处理器，后置主摄为5000万像素。&lt;/strong&gt;和moto X30 Pro对比，moto X40处理器升级到了骁龙8 Gen2，但是主摄不是2亿像素，而是5000万，&lt;strong&gt;数码闲聊站称“应该是杀低价的”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [国家邮政局明确2025年底禁用不可降解邮件包装](https://www.cnbeta.com/articles/tech/1327477.htm) | Sat Oct 15 2022 12:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月14日，国家邮政局举行2022年第四季度例行新闻发布会，介绍邮政快递业绿色发展“9917”工程进展情况。截至9月底，全行业采购使用符合标准的包装材料和规范包装操作两个比例均达到90%，累计投放可循环快递箱（盒）978万个，在邮政快递营业揽投网点布设回收装置12.2万个，回收复用瓦楞纸箱6.4亿个，快递包装绿色治理工作取得初步成效。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [新旗舰小米13入网 搭载骁龙8 Gen2运行MIUI 14系统](https://www.cnbeta.com/articles/tech/1327475.htm) | Sat Oct 15 2022 12:15 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今年九月有消息称，小米最新旗舰机型小米13机型已经入网，将搭载最新的骁龙8 Gen2移动平台，预计将在年底前发布，紧接着关于这款小米13的消息也陆续放出，包括其内部代号“fuxi（伏羲）”和“nvwa（女娲）”，以及Android&amp;nbsp;13的MIUI 14系统，可以推测这两款机型分别为小米13和小米13 Pro。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [新款大众朗逸曝光 配全新1.5T发动机](https://www.cnbeta.com/articles/tech/1327473.htm) | Sat Oct 15 2022 12:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，上汽大众朗逸在工信部进行了申报，&lt;strong&gt;其最大的亮点在于换装了大众集团最新的1.5T四缸机&lt;/strong&gt;，尾标300TSI。外观方面依旧维持原来的设计，前脸拥有较宽的横向条幅，前大灯完全包裹在中网中，配合运动风格的前包围，显得很大气，此外，该车还可选装满天星状的格栅，更为时尚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [小型哺乳动物被认为是一种威胁生命的疾病的孵化器](https://www.cnbeta.com/articles/science/1327471.htm) | Sat Oct 15 2022 10:36 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;由于真菌感染在人类中呈上升趋势，卫生官员了解这些病原体的来源至关重要。发表在《真菌生物学前沿》上的一项新研究显示，小型哺乳动物可以作为这些真菌感染的储库。这意味着这些啮齿类动物可能充当新出现的真菌病原体的储库、散布媒介和孵化器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [联想推出ThinkBook UC100无线耳机：磁吸设计、支持一机双联](https://www.cnbeta.com/articles/tech/1327469.htm) | Sat Oct 15 2022 10:32 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今日，联想推出了新款无线蓝牙耳机——ThinkBook UC100，新品目前开启众测报名，0元可试用。&lt;/strong&gt;据介绍，新款耳机采用流线型项圈设计，亲肤软胶材质，使佩戴更加柔软舒适，另有倾斜式耳管设计，消除入耳的压迫感。&lt;strong&gt;左右耳塞则采用磁吸式设计，防止缠绕，更加便于携带。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [NVIDIA证实GPU的&quot;LHR&quot;挖矿限制器已被取消](https://www.cnbeta.com/articles/tech/1327467.htm) | Sat Oct 15 2022 10:31 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA在RTX 3000显卡上限制Ethereum挖矿的软件限制已经正式结束，因为它现在已经无关紧要。周五，NVIDIA发言人证实，在用户开始报告Windows和Linux的最新NVIDIA驱动程序版本中没有挖矿限制后，该公司已经删除了&amp;quot;Lite Hash Rate&amp;quot;限制器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [OPPO Find N2即将登场：能单手操作的折叠屏](https://www.cnbeta.com/articles/tech/1327465.htm) | Sat Oct 15 2022 9:59 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，博主数码闲聊站暗示，OPPO Find N2内屏尺寸大概率仍然是7.1英寸。这意味着新款折叠屏的外屏尺寸跟上一代相差不大，&lt;strong&gt;可能还是5.49英寸，跟iPhone 13 mini相当，这将是一款可以单手操作的折叠屏旗舰。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [百元神机Redmi A1+发布：联发科Helio A22、内置5000mAh大电池](https://www.cnbeta.com/articles/tech/1327463.htm) | Sat Oct 15 2022 9:58 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月15日消息，&lt;strong&gt;Redmi在印度发布了全新入门级机型Redmi A1+，较上一代Redmi A1新增指纹解锁功能。&lt;/strong&gt;该机将于10月17日中午12点通过Flipkart正式开售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
