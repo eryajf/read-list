@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [brython | 获取input等标签的内容](https://juejin.cn/post/7154386972780265508) | Fri Oct 14 2022 3:15 PM 
+- 🤗 [BUUCTF密码进阶-DAY5](https://juejin.cn/post/7154523176629305375) | Sat Oct 15 2022 12:04 AM 
     <details><summary>展开描述 ...</summary> 
-    通过上一篇的学习，我们初步掌握了使用brython向document插入HTML标签的方法，本章我们主要学习如何获取input标签的内容。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第17天，点击查看活动详情 [UTCTF2020]OTP 下载附件得到一些很奇怪的东西： 搞不懂这些字符串是什么意思，网上了解一下 
     </details> 
 
-- 🎡 [前端脚手架-3](https://juejin.cn/post/7154382534728482824) | Fri Oct 14 2022 2:58 PM 
+- 🎡 [Flutter桌面小工具 -- 灵动岛【Windows版本】](https://juejin.cn/post/7154420798059446309) | Fri Oct 14 2022 5:28 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第14天，点击查看活动详情 初始化项目 1.创建项目 2.创建入口文件 3.编写命令 4.本地软链 检查Node版本 1.新建li 
+    使用Flutter动画，实现灵动岛的效果； 并且将其作为一个在windows上，置顶可自由拖拽的小工具。 
     </details> 
 
-- 🕯 [Shell中运算操作和常见错误解决](https://juejin.cn/post/7154367331303424036) | Fri Oct 14 2022 2:00 PM 
+- 🕯 [【网络基础】手把手带你配置EIGRP协议 ！](https://juejin.cn/post/7154405831612579870) | Fri Oct 14 2022 4:32 PM 
     <details><summary>展开描述 ...</summary> 
-    运算操作 四则运算 不经常写脚本的同学，遇到的第一个坎就是这个——shell脚本中不能直接做加减乘除（报错command not found）： 可以在线Shell工具尝试undefinedBash  
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，[点击查看活动详情]&lpar;h 
     </details> 
 
-- 🚀 [Java&amp;C++题解与拓展——leetcode940.不同的子序列 II【么的新知识？】](https://juejin.cn/post/7154350493886578702) | Fri Oct 14 2022 12:55 PM 
+- 🚀 [Cube 技术解读 | Cube 渲染设计的前世今生](https://juejin.cn/post/7154403974370557989) | Fri Oct 14 2022 4:22 PM 
     <details><summary>展开描述 ...</summary> 
-    leetcode940.不同的子序列 II解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情作者：何瑾&lpar;潇珺&rpar;本文为《Cube 技术解读》系列第四篇文章，往期文章欢迎大家回顾。《Cube 技术解读 
     </details> 
 
-- 💪 [浅谈基于Web的跨平台桌面应用开发](https://juejin.cn/post/7154348142350041101) | Fri Oct 14 2022 12:45 PM 
+- 💪 [Git Submodules 介绍（通俗易懂，总结了工作完全够用的所有 submodule 命令）](https://juejin.cn/post/7154398231449829383) | Fri Oct 14 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
-    0 前言 近些年来，跨平台跨端一直是比较热门的话题，Write once, run anywhere，一直是我们开发者所期望的，跨平台方案的优势十分明显，对于开发者而言，可以做到一次开发，多端复用，一 
+    我开发的象棋、五子棋、斗地主等游戏，有很多公共依赖。我是用Git Submodules管理的，今天向大家介绍一下Git Submodules使用方法。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
