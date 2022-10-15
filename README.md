@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有开源的小区的网站？ 主要是简单的信息发布，二手，等](https://www.v2ex.com/t/887197#reply4) | Sat Oct 15 2022 1:24 PM
+- 🥸 [有没有开源的小区的网站？ 主要是简单的信息发布，二手，等](https://www.v2ex.com/t/887197#reply5) | Sat Oct 15 2022 1:24 PM
 - 🤗 [vue3 在插槽里面用父组件传过来的数据的属性引用遇到语法检测： unknown，怎么修改。](https://www.v2ex.com/t/887169#reply8) | Sat Oct 15 2022 10:26 AM
-- 🎭 [我们刚给开源社区贡献第一的同学发了个 iwatch, 有没有想问的～](https://www.v2ex.com/t/887165#reply5) | Sat Oct 15 2022 10:18 AM
+- 🎭 [我们刚给开源社区贡献第一的同学发了个 iwatch, 有没有想问的～](https://www.v2ex.com/t/887165#reply7) | Sat Oct 15 2022 10:18 AM
 - 🥷 [华硕服务器主板的 IPMI 功能完全是个垃圾？](https://www.v2ex.com/t/887157#reply4) | Sat Oct 15 2022 9:15 AM
-- 🐵 [笔记本装两块硬盘如何做到双系统自由切换？](https://www.v2ex.com/t/887154#reply27) | Sat Oct 15 2022 9:02 AM<!-- v2ex:END -->
+- 🐵 [笔记本装两块硬盘如何做到双系统自由切换？](https://www.v2ex.com/t/887154#reply30) | Sat Oct 15 2022 9:02 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
