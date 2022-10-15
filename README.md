@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [迫于云手机每月开销，若自己 PC 搭建云手机服务器，手机仅用浏览器操作，是否可行](https://www.v2ex.com/t/887067#reply1) | Sat Oct 15 2022 1:59 AM
-- 🤗 [甲骨文出了个首个基于虚拟线程非 Servlet 非响应式的微服务框架](https://www.v2ex.com/t/887057#reply1) | Sat Oct 15 2022 12:24 AM
-- 🎭 [本地化部署的 NovelAI 具有潜在的反序列化攻击风险](https://www.v2ex.com/t/887052#reply0) | Fri Oct 14 2022 8:02 PM
-- 🥷 [Vmware workstation 16 为撒创立的虚拟机不支持内嵌虚拟?](https://www.v2ex.com/t/887051#reply4) | Fri Oct 14 2022 6:40 PM
-- 🐵 [Java 不用 Spring 还能用点什么？](https://www.v2ex.com/t/887018#reply26) | Fri Oct 14 2022 2:10 PM<!-- v2ex:END -->
+- 🥸 [像车辆定位，儿童手表定位之类应用的数据是如何存储和查询的？](https://www.v2ex.com/t/887099#reply0) | Sat Oct 15 2022 4:26 AM
+- 🤗 [大家的代码注释有写中文的吗?](https://www.v2ex.com/t/887092#reply7) | Sat Oct 15 2022 4:06 AM
+- 🎭 [迫于云手机每月开销，若自己 PC 搭建云手机服务器，手机仅用浏览器操作，是否可行](https://www.v2ex.com/t/887067#reply10) | Sat Oct 15 2022 1:59 AM
+- 🥷 [甲骨文出了个首个基于虚拟线程非 Servlet 非响应式的微服务框架](https://www.v2ex.com/t/887057#reply2) | Sat Oct 15 2022 12:24 AM
+- 🐵 [本地化部署的 NovelAI 具有潜在的反序列化攻击风险](https://www.v2ex.com/t/887052#reply0) | Fri Oct 14 2022 8:02 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
