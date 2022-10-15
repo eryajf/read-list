@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [各位会修改测试环境的时间去测试代码吗](https://www.v2ex.com/t/887137#reply1) | Sat Oct 15 2022 7:44 AM
-- 🤗 [Symmetric NAT 目前有没有什么方法穿透做 P2P](https://www.v2ex.com/t/887132#reply2) | Sat Oct 15 2022 7:14 AM
-- 🎭 [关于 vscode tasks.json selectedText 的问题](https://www.v2ex.com/t/887123#reply0) | Sat Oct 15 2022 6:28 AM
-- 🥷 [想买一个家用服务器实现以下功能，你们说可以吗？如何实现呢？应该买什么？](https://www.v2ex.com/t/887119#reply6) | Sat Oct 15 2022 6:23 AM
-- 🐵 [开源社区半月实习日记](https://www.v2ex.com/t/887117#reply13) | Sat Oct 15 2022 6:00 AM<!-- v2ex:END -->
+- 🥸 [华硕服务器主板的 IPMI 功能完全是个垃圾？](https://www.v2ex.com/t/887157#reply0) | Sat Oct 15 2022 9:15 AM
+- 🤗 [笔记本装两块硬盘如何做到双系统自由切换？](https://www.v2ex.com/t/887154#reply0) | Sat Oct 15 2022 9:02 AM
+- 🎭 [[接] 怎么用 Java 的并发类 ConcurrentHashMap 抛出 ConcurrentModificationException？](https://www.v2ex.com/t/887146#reply1) | Sat Oct 15 2022 8:33 AM
+- 🥷 [.net framework4.8 GRPC 生成代码生成时找不到](https://www.v2ex.com/t/887144#reply0) | Sat Oct 15 2022 8:30 AM
+- 🐵 [各位会修改测试环境的时间去测试代码吗](https://www.v2ex.com/t/887137#reply4) | Sat Oct 15 2022 7:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
