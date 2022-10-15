@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [数据中心淘汰硬盘正成电子垃圾问题](https://www.cnbeta.com/articles/tech/1327289.htm) | Fri Oct 14 2022 11:20 PM 
+- 🕯 [Euro-NCAP公布调查结果：没有证据表明特斯拉在碰撞测试中作弊](https://www.cnbeta.com/articles/tech/1327353.htm) | Sat Oct 15 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;伴随着越来越多的企业迁移到云端，包括微软、亚马逊和 IBM 在内的很多公司在运营过程中会淘汰数百万块物理机械硬盘，而这些硬盘最终也成为电子垃圾问题。&lt;/strong&gt;援引金融时报报道，亚马逊、微软、Google和其他领先的云服务提供商以及银行、政府机构和执法机构每年都在销毁数百万块物理数据存储设备。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327289.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;欧洲新车安全评鉴协会（Euro-NCAP）近日表示，经过深入的调查后并未发现特斯拉在碰撞测试中使用特别代码进行作弊的证据。&lt;/strong&gt;特斯拉在碰撞安全方面有着令人难以置信的记录。其电动汽车一直获得全球汽车安全机构的最高安全评级。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [[图]Satechi推适用于MacBook Pro的Eco-HardShell保护套](https://www.cnbeta.com/articles/tech/1327287.htm) | Fri Oct 14 2022 10:39 PM 
+- 💼 [振荡的免疫反应：解释唐氏综合症患者的病毒感染悖论](https://www.cnbeta.com/articles/science/1327351.htm) | Sat Oct 15 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Satechi 近日推出了适用于 2021 年款 MacBook Pro 的笔记本保护套--Eco-HardShell Case。&lt;/strong&gt;这款保护套具有防刮擦和防指纹处理，可保护封闭式设备。半透明的外壳确保苹果客户仍然可以看到他们电脑的设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;唐氏综合症患者的病毒感染频率较低。然而，一旦出现，这些感染会导致更严重的疾病。&lt;strong&gt;新的研究结果显示，这是由 21 号染色体部分编码的抗病毒细胞因子 I 型干扰素 &lpar;IFN-I&rpar; 的表达增加引起的。&lt;/strong&gt;IFN-I水平的升高最初会导致免疫反应的过度活跃，但身体对此进行过度矫正以减少炎症，从而导致在病毒攻击的后期增加脆弱性。这一发现于10月14日发表在《&lt;a href=&quot;https://www.cell.com/immunity/fulltext/S1074-7613&lpar;22&rpar;00501-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1074761322005015%3Fshowall%3Dtrue&quot; target=&quot;_self&quot;&gt;免疫&lt;/a&gt;》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科学家在旅行者2号数据中发现了天王星周围的神秘尘环](https://www.cnbeta.com/articles/science/1327285.htm) | Fri Oct 14 2022 6:04 PM 
+- 💂 [花钱看马赛克 Netflix让大家一夜梦回2007](https://www.cnbeta.com/articles/tech/1327349.htm) | Sat Oct 15 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;科学家们发现了一个关于天王星环的新谜团，它深埋在美国宇航局标志性的旅行者2号任务的数据中。&lt;/strong&gt;旅行者2号在1986年1月飞过天王星，发现了10颗卫星和两个星环，同时成为第一个也是迄今为止唯一一个访问这个冰巨星的航天器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自从出现了订阅用户的大规模流失，过去几个月来，Netflix一直在筹备着广告版服务，希望开辟一条除订阅以外的新致富路。昨天，这个名为“Basic With Ads”的服务正式揭晓：&lt;strong&gt;价格6.99美元一个月，每小时4-5分钟的广告，视频质量上限为720p/HD，并且不允许缓存内容。&lt;/strong&gt;该服务将于11 月 3 日起在在美国、澳大利亚、巴西、加拿大、法国、德国等12个国家推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星终于详细介绍了One UI 5.0的顶级功能](https://www.cnbeta.com/articles/tech/1327283.htm) | Fri Oct 14 2022 5:53 PM 
+- 🚀 [GALAX菲律宾发布会现场惊现GeForce RTX 4050显卡包装盒](https://www.cnbeta.com/articles/tech/1327347.htm) | Sat Oct 15 2022 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自从三星在其三星开发者大会上宣布基于Android 13的One UI 5.0以来，才过了一段时间，&lt;strong&gt;虽然当时只是一个公告，但这家韩国公司现在提前对更新内容进行了一些具体说明。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;英伟达刚刚推出了 GeForce RTX 40 系列高端显卡，但看起来 AIB 合作伙伴已经做好了提供包括 RTX 4050 在内的主流 SKU 的规划。&lt;/strong&gt;由 u/TheBloodNinja 在 Reddit 上的爆料可知，在近日于菲律宾举办的新品发布会上，影驰（GALAX）不仅展示了该公司的最新 RTX 40 产品设计、还意外漏出了在某个角落的“RTX 4050”包装盒。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327347.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美国零售业巨头克罗格以246亿美元收购艾伯森](https://www.cnbeta.com/articles/tech/1327281.htm) | Fri Oct 14 2022 5:30 PM 
+- 🎊 [特斯拉德州工厂航拍视频意外发现两辆被白布遮盖的Cybertruck](https://www.cnbeta.com/articles/tech/1327345.htm) | Sat Oct 15 2022 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;span style=&quot;&quot;&gt;全美第一大杂货商克罗格计划收购第二大杂货商艾伯森，交易总规模达到246亿美元。本周四，媒体率先披露了该信息。根据收购计划，克罗格将以34.10美元/股的价格收购艾伯森，并承担艾伯森约47亿美元的净债务。作为交易的一部分，艾伯森将向其股东支付高达40亿美元的特别现金股息。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Cybertruck 开始量产之前，其原型或者车架近日现身德克萨斯州的 Gigafactory。&lt;/strong&gt;Cybertruck是有史以来最受期待的电动汽车之一。特斯拉估计有超过 100 万辆电动皮卡的积压订单，这意味着有很多人关注车辆计划，人们正试图追踪生产进度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327345.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
