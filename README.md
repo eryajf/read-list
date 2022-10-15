@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派周报 | 强推 USB Type-C 会阻碍创新吗？](https://sspai.com/prime/story/pi-weekly-013) | Fri Oct 14 2022 12:38 PM 
+- 👹 [前瞻：也许没有发布会的十月，我们还能期待哪些 Apple 新品？](https://sspai.com/post/76191) | Sat Oct 15 2022 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    少数派为大家搜集了一些有关于 10 月 Apple 新品的爆料消息，也许能引起你的换机欲望。&lt;a href=&quot;https://sspai.com/post/76191&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派周报 | 强推 USB Type-C 会阻碍创新吗？](https://sspai.com/prime/story/pi-weekly-013) | Fri Oct 14 2022 12:38 PM 
     <details><summary>展开描述 ...</summary> 
     欧盟将强制手机使用 USB Type-C 端口的消息成为了科技界的头条，但质疑的观点也不在少数，反对意见主要集中在对于强制标准是否会阻碍创新的担忧。本文从信息角度补充一些在报道中被忽略的细节，以便读者形成自己的判断。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-013&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/76185) | Fri Oct 14 2022 9:51 AM 
+- 🤭 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/76185) | Fri Oct 14 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[动画]链锯人、[日剧]静雪、[电影]沼泽深处的女孩、[动画]BLEACH死神千年血战篇、[美剧]小谢尔顿第六季、[韩剧]真正胜负、[动画]福星小子、[日剧]第一企鹅！几则 ...&lt;a href=&quot;https://sspai.com/post/76185&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新功能感知不强、旧体验原地踏步：BOSE QuietComfort 消噪耳塞 II 体验报告](https://sspai.com/post/76164) | Fri Oct 14 2022 7:59 AM 
+- 🥸 [新功能感知不强、旧体验原地踏步：BOSE QuietComfort 消噪耳塞 II 体验报告](https://sspai.com/post/76164) | Fri Oct 14 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
     无论何时都能让你从聒噪之中抽身出来，是为 quiet；帮你在音乐世界中寻求内心的平静与慰藉，是为 comfort。&lt;a href=&quot;https://sspai.com/post/76164&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [基础入门到高效进阶，我的 macOS 术与器](https://sspai.com/post/75805) | Fri Oct 14 2022 6:41 AM 
+- 🙉 [基础入门到高效进阶，我的 macOS 术与器](https://sspai.com/post/75805) | Fri Oct 14 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
     希望本文可以帮你找到自己最钟意、最趁手的技巧和软件。&lt;a href=&quot;https://sspai.com/post/75805&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [《少数派创作手册》现已上线，欢迎与我们继续共创](https://sspai.com/post/76154) | Fri Oct 14 2022 3:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    作者是少数派最宝贵的财富。为了服务作者，少数派一路上做出了不少努力。这既包括在功能上提供简洁实用的编辑器、个人主页和统计信息，也包括从制度上建立有竞争力的奖励机制、尽量发挥文章价值的选编流程。但如果说 ...&lt;a href=&quot;https://sspai.com/post/76154&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
