@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《英雄联盟》新英雄“奎桑提” 动画预告公布](https://hot.cnbeta.com/articles/music/1327403.htm) | Sat Oct 15 2022 4:00 AM 
+- 🕯 [爱驰汽车回应车辆街头自动驾驶撞车：初判为停车挂挡失误](https://www.cnbeta.com/articles/tech/1327419.htm) | Sat Oct 15 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（10月15日），拳头官方公布《英雄联盟》新英雄“奎桑提”动画预告，据介绍，新英雄奎桑提来自于纳祖芒，是一名猎手。目前，英雄联盟暂未公布新英雄的定位、技能和上线时间。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1327403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，一爱驰U5街头“自动驾驶”撞车事件引发不小的关注。根据曝光的现场视频显示，&lt;strong&gt;一辆爱驰U5在没有司机操作的情况下，在公共道路上跑了起来。&lt;/strong&gt;一名男子手持电话一边接听一边小跑追车，期间还不住地向正常行驶的车辆招手，示意避让，结果最终还是装上了对象的现代轿车。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [诺基亚C31首发预售：国产紫光展锐芯加持 799元起](https://www.cnbeta.com/articles/tech/1327401.htm) | Sat Oct 15 2022 3:49 AM 
+- 💼 [黑客利用Wi-Fi无人机远程渗透了金融公司内网](https://www.cnbeta.com/articles/tech/1327417.htm) | Sat Oct 15 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天上午10点，诺基亚旗下新机型Nokia C31正式开启首发预售，&lt;strong&gt;到手价仅需799元起步，将于10月20日发售。诺基亚C31最大的亮点就是搭载了一颗国产自研处理器——紫光展锐9863A1。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;本周早些时候，The Register 报道了今夏了一起无人机袭击事件。然而受害的私人投资公司却对此保持沉默，仅同意根据保密协议与安全人员展开探讨。&lt;/strong&gt;据说当时网络管理员发现公司的 Confluence 页面在局域网内表现出了奇怪的行为，而 Confluence 则是 Atlassian 开发的基于 Web 的远程写作软件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [戴森官网特惠季今日启动 多款人气清洁家电折扣价放出](https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.dyson.cn/sale/promotion.html) | Sat Oct 15 2022 3:42 AM 
+- 💂 [六车AEB夜间实测：带激光雷达的理想L9倒数第一](https://www.cnbeta.com/articles/tech/1327415.htm) | Sat Oct 15 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;戴森官网特惠季&lt;/strong&gt;&lt;strong&gt;今日启动，活动时间持续至今年双11，多款人气清洁家电打折销售，三款超值戴森爆款产品直降300-700元不等，让你拥有即好用，又省力的清洁好帮手。&lt;/strong&gt;活动时间：10/15-11/11（赠品以活动页面为准）。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;访问：&lt;/strong&gt;&lt;a href=&quot;https://c.duomai.com/track.php?site_id=242986&amp;euid=&amp;t=https://www.dyson.cn/sale/promotion.html&quot; target=&quot;_blank&quot; style=&quot;color: rgb&lpar;192, 0, 0&rpar;; text-decoration: underline;&quot;&gt;&lt;span style=&quot;color: rgb&lpar;192, 0, 0&rpar;;&quot;&gt;戴森11·11官网特惠季活动大厅&lt;/span&gt;&lt;/a&gt;&lt;/p&gt; &lt;a href=&quot;https://c.duomai.com/track.php?site_id=242986&amp;euid=&amp;t=https://www.dyson.cn/sale/promotion.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为主动安全中最重要的一环，AEB已经成为了不少新车的标配，不过不同主机厂使用的AEB方案不同，表现也不同。此外，随着激光雷达的逐步装车，加上部分厂家的引导性宣传，逐渐成为了新的“爆点”，&lt;strong&gt;更是有观点认为“无激光、不成车”&lt;/strong&gt;，那么搭载了激光雷达的车型，在AEB表现时真的就会轻松碾压使用视觉、毫米波雷达等更为传统的方案吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327415.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [台积电5nm工艺季度营收首次超过7nm 成第一大营收来源](https://www.cnbeta.com/articles/tech/1327397.htm) | Sat Oct 15 2022 3:36 AM 
+- 🚀 [鄱阳湖几月无雨：上万斤鱼搁浅 20多人自费转运](https://www.cnbeta.com/articles/tech/1327413.htm) | Sat Oct 15 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据国外媒体报道，当前全球最大的晶圆代工商台积电，已经发布了他们的第三季度的财报，营收202.3亿美元，首次超过200亿美元，同比大增35.9%，创下新高，92.68亿美元的净利润，同比也大增超过30%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;由于鄱阳湖区域已有几个月没有下雨，干旱导致大量的鱼搁浅在岸边。&lt;/strong&gt;据近日报道，当地有好心民众觉得这么多鱼如果被活活旱死挺可惜，就组织了朋友自费开车将这些鱼成批成批的运到了赣江。他们一行共有二十多人，已经将那个水坑搁浅的鱼基本上都转运走了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327413.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [英国竞争市场管理局就微软动视暴雪收购论点提出质疑](https://www.cnbeta.com/articles/tech/1327395.htm) | Sat Oct 15 2022 3:34 AM 
+- 🎊 [长城魏牌80内饰谍照：理想ONE同款大连屏装车](https://www.cnbeta.com/articles/tech/1327411.htm) | Sat Oct 15 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;英国竞争和市场管理局（CMA）今天（10月 15 日）发布了一份问题声明，列出了微软收购动视暴雪的一些担忧，并驳斥了这家Xbox 制造商的几个关键论点。&lt;/strong&gt;它解决的第一个问题是，此次收购是否会导致Xbox 独占《使命召唤》（CMA术语为“止赎”），微软表示无意这样做，但只是承诺在未来几年内继续登陆PlayStation。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在最新一期的工信部申报图中，长城魏牌全新中大型SUV&lt;strong&gt;魏80&lt;/strong&gt;进行了申报，该车搭载一套插电混动系统，&lt;strong&gt;未来上市后或将落在30-40万元之间&lt;/strong&gt;，与理想L8、问界M7等车型展开竞争。近日，@汽车之家获取了一组该车的内饰谍照，可以看出其设计风格和思路。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
