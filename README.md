@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [MacRumors畅想了苹果AR/VR头显的十大尖端特性](https://www.cnbeta.com/articles/tech/1327451.htm) | Sat Oct 15 2022 7:59 AM 
+- 🕯 [微软加大无障碍设计力度 多项计划造福残障玩家](https://hot.cnbeta.com/articles/game/1327459.htm) | Sat Oct 15 2022 8:48 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在最近一场面向残障玩家的游戏发布会活动中，Xbox透露了其下一步计划，将会“帮助开发者创造更多无障碍和包容性体验”。这些升级和改动将会直接基于微软所获得的反馈进行，从而制造出更多无障碍体验内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [美国医生警告：新冠口服药与心血管药联用有风险](https://www.cnbeta.com/articles/tech/1327457.htm) | Sat Oct 15 2022 8:48 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;辉瑞的新冠小分子抗病毒药物Paxlovid是目前全球范围内使用最为广泛的一种常用新冠口服药，尤其是用于有心血管疾病等高危因素的患者，以预防严重新冠疾病的风险增加。然而Paxlovid与一些常用药物之间的相互作用可能引发风险，&lt;strong&gt;美国临床医生近日强调，在使用新冠小分子药物Paxlovid时要特别谨慎，尤其是在与他汀类药物和一些心衰药物联用时，可能会产生危险的药物相互作用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [广汽本田ZR-V致在e:HEV申报 配本田第四代混动](https://www.cnbeta.com/articles/tech/1327455.htm) | Sat Oct 15 2022 8:47 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最新一批申报目录中包含广汽本田&lt;strong&gt;ZR-V致在e：HEV&lt;/strong&gt;申报信息，该车燃油版日前已上市，共推出三款车型，售价区间为15.99-19.59万元。该车与全新一代思域同平台打造，定位高于缤智，但要低于皓影，为全新入门级紧凑型SUV，&lt;strong&gt;车身尺寸为4568/1840/1621mm，轴距为2655mm&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [梵高名画《向日葵》被泼番茄汁后续：玻璃保护的画作已重新展出](https://www.cnbeta.com/articles/tech/1327453.htm) | Sat Oct 15 2022 8:46 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;价值5.6亿元的梵高名画《向日葵》，竟然被人故意泼了番茄汁！据英国媒体报道，当地时间10月14日，&lt;strong&gt;“停止采石油&lpar;Just Stop Oil&rpar;”组织的两位环保人士，在英国伦敦国家美术馆向梵高名作《向日葵》泼洒了番茄汁，还当场发表演讲&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [MacRumors畅想了苹果AR/VR头显的十大尖端特性](https://www.cnbeta.com/articles/tech/1327451.htm) | Sat Oct 15 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在凭借 iPhone、iPad 和 Apple Watch 和软件服务主导市场多年之后，许多人期待着苹果公司能够在增强（AR）和虚拟现实（VR）领域引领新的风潮。&lt;strong&gt;对于传说已久的头显，MacRumors 也贴心地汇总了十个潜力点。&lt;/strong&gt;首先，这家库比蒂诺科技巨头正在使用索尼的两款 4K 超高清 Micro-OLED 显示屏，据称像素密度达到了 3000 PPI 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [“打工女皇”吴士宏消失20年后露面 回应“2亿年薪”传闻](https://www.cnbeta.com/articles/tech/1327449.htm) | Sat Oct 15 2022 7:42 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;她曾是一名只有初中学历的小护士，最后却自学英语逆袭成为微软中国总经理；她曾身患白血病命悬一线，最后却成为传闻中年薪2亿的“打工女皇”。如日中天之际，她为何突然消失20年？负债累累、重度抑郁后，59岁的她为何却能走出低谷卷土重来？10月14日，凤凰网财经《封面直播》对话商界传奇人物吴士宏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [登上顶级数学期刊的中国研究员现身微博发表感言](https://www.cnbeta.com/articles/science/1327447.htm) | Sat Oct 15 2022 7:24 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周，一位来自中国的研究员郇真，&lt;strong&gt;以独立作者身份完成的研究成果&lt;/strong&gt;，被世界最难发表数学期刊之一的Acta Mathematica接收。此事报道后，引起了业内外的震动，作为顶级数学四大顶刊之一，过去我国大陆地区仅有9篇文章（由中国研究机构完成）被录取，其中有6位作者当选院士！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《使命召唤19》反作弊团队：不存在崩溃误封行为](https://hot.cnbeta.com/articles/game/1327445.htm) | Sat Oct 15 2022 7:18 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《使命召唤》品牌反作弊团队近日证实，在《使命召唤19：现代战争2》的公测期间，他们对超过2万个玩家账号进行了封禁。此次公测于9月18日-20日在PlayStation平台进行，9月24日-26日在其它平台进行。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [摩托罗拉Moto E22s将于10月17日在印度推出](https://www.cnbeta.com/articles/tech/1327443.htm) | Sat Oct 15 2022 7:14 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;摩托罗拉上周在印度推出了新的Moto E32，这与在欧洲宣布的Moto E32不同，它将在亚洲国家推出的下一款智能手机是Moto E22s。该型号将于10月17日在印度推出，并将于10月22日开始通过Flipkart和当地主流零售店销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
