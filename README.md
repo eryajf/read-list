@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [OPPO Find N2即将登场：能单手操作的折叠屏](https://www.cnbeta.com/articles/tech/1327465.htm) | Sat Oct 15 2022 9:59 AM 
+- 🕯 [小型哺乳动物被认为是一种威胁生命的疾病的孵化器](https://www.cnbeta.com/articles/science/1327471.htm) | Sat Oct 15 2022 10:36 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;由于真菌感染在人类中呈上升趋势，卫生官员了解这些病原体的来源至关重要。发表在《真菌生物学前沿》上的一项新研究显示，小型哺乳动物可以作为这些真菌感染的储库。这意味着这些啮齿类动物可能充当新出现的真菌病原体的储库、散布媒介和孵化器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [联想推出ThinkBook UC100无线耳机：磁吸设计、支持一机双联](https://www.cnbeta.com/articles/tech/1327469.htm) | Sat Oct 15 2022 10:32 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;今日，联想推出了新款无线蓝牙耳机——ThinkBook UC100，新品目前开启众测报名，0元可试用。&lt;/strong&gt;据介绍，新款耳机采用流线型项圈设计，亲肤软胶材质，使佩戴更加柔软舒适，另有倾斜式耳管设计，消除入耳的压迫感。&lt;strong&gt;左右耳塞则采用磁吸式设计，防止缠绕，更加便于携带。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [NVIDIA证实GPU的&quot;LHR&quot;挖矿限制器已被取消](https://www.cnbeta.com/articles/tech/1327467.htm) | Sat Oct 15 2022 10:31 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;NVIDIA在RTX 3000显卡上限制Ethereum挖矿的软件限制已经正式结束，因为它现在已经无关紧要。周五，NVIDIA发言人证实，在用户开始报告Windows和Linux的最新NVIDIA驱动程序版本中没有挖矿限制后，该公司已经删除了&amp;quot;Lite Hash Rate&amp;quot;限制器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [OPPO Find N2即将登场：能单手操作的折叠屏](https://www.cnbeta.com/articles/tech/1327465.htm) | Sat Oct 15 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日消息，博主数码闲聊站暗示，OPPO Find N2内屏尺寸大概率仍然是7.1英寸。这意味着新款折叠屏的外屏尺寸跟上一代相差不大，&lt;strong&gt;可能还是5.49英寸，跟iPhone 13 mini相当，这将是一款可以单手操作的折叠屏旗舰。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [百元神机Redmi A1+发布：联发科Helio A22、内置5000mAh大电池](https://www.cnbeta.com/articles/tech/1327463.htm) | Sat Oct 15 2022 9:58 AM 
+- 🎊 [百元神机Redmi A1+发布：联发科Helio A22、内置5000mAh大电池](https://www.cnbeta.com/articles/tech/1327463.htm) | Sat Oct 15 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;10月15日消息，&lt;strong&gt;Redmi在印度发布了全新入门级机型Redmi A1+，较上一代Redmi A1新增指纹解锁功能。&lt;/strong&gt;该机将于10月17日中午12点通过Flipkart正式开售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [《哈利·波特》电影马尔福演员称 J·K罗琳几乎没来过片场](https://hot.cnbeta.com/articles/movie/1327461.htm) | Sat Oct 15 2022 9:53 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《哈利·波特》作者J.K. 罗琳除了作为原著的作家以外，还长久以来被称为电影的导演和玩具的设计师。但根据马尔福演员 Tome Felton 在接受《独立报》关于他的书《超越魔杖：巫师成长的魔法和混乱》的采访时说，她对电影拍摄的参与远比人们像的要少。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [微软加大无障碍设计力度 多项计划造福残障玩家](https://hot.cnbeta.com/articles/game/1327459.htm) | Sat Oct 15 2022 8:48 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在最近一场面向残障玩家的游戏发布会活动中，Xbox透露了其下一步计划，将会“帮助开发者创造更多无障碍和包容性体验”。这些升级和改动将会直接基于微软所获得的反馈进行，从而制造出更多无障碍体验内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [美国医生警告：新冠口服药与心血管药联用有风险](https://www.cnbeta.com/articles/tech/1327457.htm) | Sat Oct 15 2022 8:48 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;辉瑞的新冠小分子抗病毒药物Paxlovid是目前全球范围内使用最为广泛的一种常用新冠口服药，尤其是用于有心血管疾病等高危因素的患者，以预防严重新冠疾病的风险增加。然而Paxlovid与一些常用药物之间的相互作用可能引发风险，&lt;strong&gt;美国临床医生近日强调，在使用新冠小分子药物Paxlovid时要特别谨慎，尤其是在与他汀类药物和一些心衰药物联用时，可能会产生危险的药物相互作用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
