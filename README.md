@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [奇怪的联系 美国电影院线的每日票房数据可以预测股市回报](http://jandan.net/p/111469) | Fri Oct 14 2022 10:04 AM 
+- 🚀 [前景 当AI成为老板](http://jandan.net/p/111468) | Sat Oct 15 2022 4:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    自动化的不仅仅是劳动力。管理人员也是。 
+    </details> 
+
+- 🙉 [今日带货：摩飞锅](http://jandan.net/p/111478) | Sat Oct 15 2022 4:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：45 
+    </details> 
+
+- 🎉 [奇怪的联系 美国电影院线的每日票房数据可以预测股市回报](http://jandan.net/p/111469) | Fri Oct 14 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     对国内市场应该不好使 
     </details> 
 
-- 🙉 [为干细胞的内部分子过程构建数学模型](http://jandan.net/p/111477) | Fri Oct 14 2022 9:59 AM 
+- 🐲 [为干细胞的内部分子过程构建数学模型](http://jandan.net/p/111477) | Fri Oct 14 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
     因为现在还没有直接的实时观测手段，只能通过理论推测那些关键过程的节点 
     </details> 
 
-- 🎉 [第一例大规模通过可穿戴设备采集长期真实数据的 步行-健康 研究](http://jandan.net/p/111476) | Fri Oct 14 2022 4:59 AM 
+-  [第一例大规模通过可穿戴设备采集长期真实数据的 步行-健康 研究](http://jandan.net/p/111476) | Fri Oct 14 2022 4:59 AM 
     <details><summary>展开描述 ...</summary> 
     肥胖、糖尿病、高血压、抑郁症和睡眠呼吸暂停可以通过增加每日步数和强度来避免 
-    </details> 
-
-- 🐲 [今日好价 1014](http://jandan.net/p/111475) | Fri Oct 14 2022 3:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：40 
-    </details> 
-
--  [上期脑力小体操 3天平和8银币谜题  答案详解](http://jandan.net/p/111474) | Thu Oct 13 2022 2:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    若不是之前有人在评论里表示希望看到这期答案，本来应该在月末出的 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
