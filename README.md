@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《使命召唤19》反作弊团队：不存在崩溃误封行为](https://hot.cnbeta.com/articles/game/1327445.htm) | Sat Oct 15 2022 7:18 AM 
+- 🕯 [MacRumors畅想了苹果AR/VR头显的十大尖端特性](https://www.cnbeta.com/articles/tech/1327451.htm) | Sat Oct 15 2022 7:59 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在凭借 iPhone、iPad 和 Apple Watch 和软件服务主导市场多年之后，许多人期待着苹果公司能够在增强（AR）和虚拟现实（VR）领域引领新的风潮。&lt;strong&gt;对于传说已久的头显，MacRumors 也贴心地汇总了十个潜力点。&lt;/strong&gt;首先，这家库比蒂诺科技巨头正在使用索尼的两款 4K 超高清 Micro-OLED 显示屏，据称像素密度达到了 3000 PPI 。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [“打工女皇”吴士宏消失20年后露面 回应“2亿年薪”传闻](https://www.cnbeta.com/articles/tech/1327449.htm) | Sat Oct 15 2022 7:42 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;她曾是一名只有初中学历的小护士，最后却自学英语逆袭成为微软中国总经理；她曾身患白血病命悬一线，最后却成为传闻中年薪2亿的“打工女皇”。如日中天之际，她为何突然消失20年？负债累累、重度抑郁后，59岁的她为何却能走出低谷卷土重来？10月14日，凤凰网财经《封面直播》对话商界传奇人物吴士宏。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [登上顶级数学期刊的中国研究员现身微博发表感言](https://www.cnbeta.com/articles/science/1327447.htm) | Sat Oct 15 2022 7:24 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;本周，一位来自中国的研究员郇真，&lt;strong&gt;以独立作者身份完成的研究成果&lt;/strong&gt;，被世界最难发表数学期刊之一的Acta Mathematica接收。此事报道后，引起了业内外的震动，作为顶级数学四大顶刊之一，过去我国大陆地区仅有9篇文章（由中国研究机构完成）被录取，其中有6位作者当选院士！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327447.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《使命召唤19》反作弊团队：不存在崩溃误封行为](https://hot.cnbeta.com/articles/game/1327445.htm) | Sat Oct 15 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;《使命召唤》品牌反作弊团队近日证实，在《使命召唤19：现代战争2》的公测期间，他们对超过2万个玩家账号进行了封禁。此次公测于9月18日-20日在PlayStation平台进行，9月24日-26日在其它平台进行。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327445.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [摩托罗拉Moto E22s将于10月17日在印度推出](https://www.cnbeta.com/articles/tech/1327443.htm) | Sat Oct 15 2022 7:14 AM 
+- 🎊 [摩托罗拉Moto E22s将于10月17日在印度推出](https://www.cnbeta.com/articles/tech/1327443.htm) | Sat Oct 15 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;摩托罗拉上周在印度推出了新的Moto E32，这与在欧洲宣布的Moto E32不同，它将在亚洲国家推出的下一款智能手机是Moto E22s。该型号将于10月17日在印度推出，并将于10月22日开始通过Flipkart和当地主流零售店销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327443.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [满电能跑1202公里 奔驰史上最节能汽车VISION EQXX登陆中国](https://www.cnbeta.com/articles/tech/1327441.htm) | Sat Oct 15 2022 7:11 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月15日，据奔驰官方消息，旗下全新电动概念车&lt;strong&gt;VISION EQXX&lt;/strong&gt;正式在中国亮相。该车自今年全球首发以来，已经在欧洲多地完成实际道路的能效测试，今年4月，VISION EQXX从德国辛德芬根出发到法国卡西斯，&lt;strong&gt;经过11小时32分钟的长途跋涉完成1008公里的公路旅行&lt;/strong&gt;，还尚存约140公里的续航里程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327441.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《使命召唤19》10.19开预载 本体/战区2分离下载](https://hot.cnbeta.com/articles/game/1327439.htm) | Sat Oct 15 2022 7:10 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日，PS数据博主@PlayStationSize公布了《使命召唤19：现代战争2》各模式的预载时间。战役模式预载时间为10月19日，10月20日预购玩家可以游玩。多人游戏、合作模式以及《战区2》（可选安装）将于10月21日开启预载，同月28日正式上线。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327439.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [消息称英特尔至少准备了22款第13代酷睿Raptor Lake台式机CPU](https://www.cnbeta.com/articles/tech/1327437.htm) | Sat Oct 15 2022 7:07 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;英特尔似乎正在准备至少22个新的第13代猛禽湖（Raptor Lake）桌面CPU，这是技嘉公司在其Z790板的CPU支持列表中透露的。&lt;/strong&gt;英特尔将在下周的10月20日推出新的猛禽湖K系列CPU。虽然最初的阵容只包括&amp;quot;K&amp;quot;或无锁SKU，但也有计划在每个部分下推出主流和预算级芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327437.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
