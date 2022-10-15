@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [BUUCTF密码进阶-DAY5](https://juejin.cn/post/7154523176629305375) | Sat Oct 15 2022 12:04 AM 
+- 🤗 [vue.config.js 多环境配置](https://juejin.cn/post/7154578265154256910) | Sat Oct 15 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第17天，点击查看活动详情 [UTCTF2020]OTP 下载附件得到一些很奇怪的东西： 搞不懂这些字符串是什么意思，网上了解一下 
+    vue.config.js 多环境配置vue.config.js 多环境配置vue.config.js 多环境配置vue.config.js 多环境配置vue.config.js 多环境配置vue.c 
     </details> 
 
-- 🎡 [Flutter桌面小工具 -- 灵动岛【Windows版本】](https://juejin.cn/post/7154420798059446309) | Fri Oct 14 2022 5:28 PM 
+- 🎡 [详解核方法-背景介绍【白板推导系列笔记】](https://juejin.cn/post/7154566439221854239) | Sat Oct 15 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
-    使用Flutter动画，实现灵动岛的效果； 并且将其作为一个在windows上，置顶可自由拖拽的小工具。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第15天，点击查看活动详情 核方法相关的概念有三个Kernel Method（从思想角度）、Kernel Trick（从计算角度） 
     </details> 
 
-- 🕯 [【网络基础】手把手带你配置EIGRP协议 ！](https://juejin.cn/post/7154405831612579870) | Fri Oct 14 2022 4:32 PM 
+- 🕯 [Android 搜索框架使用](https://juejin.cn/post/7154560903537491975) | Sat Oct 15 2022 2:30 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，[点击查看活动详情]&lpar;h 
+    App中搜索功能是必不可少的，搜索功能可以帮助用户快速获取想要的信息。对此，Android提供了一个搜索框架，本文介绍如何通过搜索框架实现搜索功能。 
     </details> 
 
-- 🚀 [Cube 技术解读 | Cube 渲染设计的前世今生](https://juejin.cn/post/7154403974370557989) | Fri Oct 14 2022 4:22 PM 
+- 🚀 [详解文本生成图像的仿射变换模块（Affine Transformation）和条件批量标准化（CBN）](https://juejin.cn/post/7154558470262358029) | Sat Oct 15 2022 2:21 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情作者：何瑾&lpar;潇珺&rpar;本文为《Cube 技术解读》系列第四篇文章，往期文章欢迎大家回顾。《Cube 技术解读 
+    仿射变换又称仿射映射，是指在几何中，一个向量空间进行一次线性变换并接上一个平移，变换为另一个向量空间。 仿射变换是在几何上定义为两个向量空间之间的一个仿射变换 
     </details> 
 
-- 💪 [Git Submodules 介绍（通俗易懂，总结了工作完全够用的所有 submodule 命令）](https://juejin.cn/post/7154398231449829383) | Fri Oct 14 2022 3:59 PM 
+- 💪 [OpenCV用指针扫描图像](https://juejin.cn/post/7154555898579386382) | Sat Oct 15 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    我开发的象棋、五子棋、斗地主等游戏，有很多公共依赖。我是用Git Submodules管理的，今天向大家介绍一下Git Submodules使用方法。 
+    在大多数图像处理任务中，我们需要扫描图像的所有像素才能执行计算，由于需要访问大量像素，我们必须以高效的方法进行扫描。本节我们将介绍如何使用指针实现高效扫描图像的方法。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
