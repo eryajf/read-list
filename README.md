@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅谈Spark之NativeSQL引擎](https://juejin.cn/post/7154603975403110436) | Sat Oct 15 2022 5:19 AM 
+- 🤗 [手把手教你使用Vue3指定状态管理库--Pinia](https://juejin.cn/post/7154397845456420878) | Fri Oct 14 2022 3:57 PM 
     <details><summary>展开描述 ...</summary> 
-    我们在Spark任务的DAG图中很容易看到WSCG（全阶段代码生成）的身影。CodeGen技术从算子融合角度解决虚函数开销和中间数据物化问题：简单来说，CodeGen框架通过生成与手写代码语 
+    Pinia 与 Vuex 一样，是作为 Vue 的“状态存储库”，用来实现 跨页面/组件 形式的数据状态共享。在平时的开发过程中，Vue 组件之间可以通过 Props 和 Events 
     </details> 
 
-- 🎡 [摩天轮动画的实现揭秘](https://juejin.cn/post/7154596739440181279) | Sat Oct 15 2022 4:49 AM 
+- 🎡 [基于craco配置的react项目的webpack构建优化](https://juejin.cn/post/7154351787246354462) | Fri Oct 14 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
-    摩天轮动画的实现揭秘 恰好近期业务上开发了类似这样的摩天轮动画，我将其中的实现原理分享给大家。摩天轮动画主要分为 2 部分，一个是摩天轮上每个房间位置布局，另一个就是旋转动画了。 
+    craco webpack 构建速度 构建体积 thread-loader cache-loader hard-source-webpack-plugin 持久化缓存 inxlude Spl 
     </details> 
 
-- 🕯 [基于 Java 的 CSS 压缩和格式化算法的实现和分析](https://juejin.cn/post/7154594150136938503) | Sat Oct 15 2022 4:39 AM 
+- 🕯 [Vue3源码学习-3 | 设计思路](https://juejin.cn/post/7154346302032052254) | Fri Oct 14 2022 12:39 PM 
     <details><summary>展开描述 ...</summary> 
-    本文是基于 Java 的 CSS 压缩和格式化的算法分析和实现文章。 最近因为我个人开发的软件的很多用户对自定义 CSS 要求的呼声太高，所以，我决定在应用内增加一个自定义 CSS 的功能。 
+    Vue3源码学习-3 | 设计思路 在第一节中，我们阐述了框架设计是权衡的艺术；在第二节中，详细讨论了框架设计的几个核心要素。而框架设计讲究全局视角的把控，存在着一条核心思路，并围绕核心展开。在这一节 
     </details> 
 
-- 🚀 [vue.config.js 多环境配置](https://juejin.cn/post/7154578265154256910) | Sat Oct 15 2022 3:40 AM 
+- 🚀 [从零开始的JVM学习--类文件结构](https://juejin.cn/post/7154334863225520141) | Fri Oct 14 2022 11:54 AM 
     <details><summary>展开描述 ...</summary> 
-    vue.config.js 多环境配置vue.config.js 多环境配置vue.config.js 多环境配置vue.config.js 多环境配置vue.config.js 多环境配置vue.c 
+    JVM 可以理解的代码就叫「字节码」（即扩展名为 .class 的文件），它不面向任何特定的处理器，只面向虚拟机。 通过「字节码」的方式，在一定程度上解决了传统解释型语言执行效率低的问题。 
     </details> 
 
-- 💪 [详解核方法-背景介绍【白板推导系列笔记】](https://juejin.cn/post/7154566439221854239) | Sat Oct 15 2022 2:52 AM 
+- 💪 [JWT基础学习总结token基础功能全实现演示&lpar;神鸟篇&rpar;](https://juejin.cn/post/7154329231147663368) | Fri Oct 14 2022 11:33 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第15天，点击查看活动详情 核方法相关的概念有三个Kernel Method（从思想角度）、Kernel Trick（从计算角度） 
+    学习后端这么久，认证机制无疑是非常重要的一个部分，而且缺一不可，你知道哪些常见的认证机制呢？它们实现的过程和优缺点又有哪些呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
