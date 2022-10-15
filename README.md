@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [moto X40年底登场 首批搭载骁龙8 Gen2](https://www.cnbeta.com/articles/tech/1327479.htm) | Sat Oct 15 2022 12:35 PM 
+- 🕯 [韩国老人质疑谷歌地图侵犯私生活：“我家客厅在地图上被360度展示”](https://www.cnbeta.com/articles/tech/1327489.htm) | Sat Oct 15 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，博主数码闲聊站透露，&lt;strong&gt;moto X40采用FHD+全面屏，搭载高通骁龙8 Gen2旗舰处理器，后置主摄为5000万像素。&lt;/strong&gt;和moto X30 Pro对比，moto X40处理器升级到了骁龙8 Gen2，但是主摄不是2亿像素，而是5000万，&lt;strong&gt;数码闲聊站称“应该是杀低价的”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据韩联社15报道，一名80岁的韩国老人近日在谷歌地图的“街景视图”上偶然发现，自家客厅正在被360度全方位展示。&lt;span style=&quot;&quot;&gt;当事人表示，自己并未在网上上传过相关照片，因此质疑自家电脑可能被黑客入侵，谷歌地图图像上传系统也存在侵犯个人隐私等问题。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [国家邮政局明确2025年底禁用不可降解邮件包装](https://www.cnbeta.com/articles/tech/1327477.htm) | Sat Oct 15 2022 12:17 PM 
+- 💼 [《黑袍纠察队》第四季新图曝光 祖国人和儿子亮相](https://hot.cnbeta.com/articles/movie/1327487.htm) | Sat Oct 15 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月14日，国家邮政局举行2022年第四季度例行新闻发布会，介绍邮政快递业绿色发展“9917”工程进展情况。截至9月底，全行业采购使用符合标准的包装材料和规范包装操作两个比例均达到90%，累计投放可循环快递箱（盒）978万个，在邮政快递营业揽投网点布设回收装置12.2万个，回收复用瓦楞纸箱6.4亿个，快递包装绿色治理工作取得初步成效。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《黑袍纠察队》第四季新图曝光，祖国人、祖国人儿子莱恩、深海、火车头回归！《黑袍纠察队》是亚马逊发行的漫画改编剧，第一季2019年上线Prime Video，第三季已经在今年6月播出。该剧讲述了资本使用药物培育出“超级英雄”，“纠察队”成员与以“祖国人”为首的邪恶“超级英雄”斗争的故事。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [新旗舰小米13入网 搭载骁龙8 Gen2运行MIUI 14系统](https://www.cnbeta.com/articles/tech/1327475.htm) | Sat Oct 15 2022 12:15 PM 
+- 💂 [2021年全球SSD出货量达到了1.27亿 金士顿和威刚位居前二](https://www.cnbeta.com/articles/tech/1327485.htm) | Sat Oct 15 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年九月有消息称，小米最新旗舰机型小米13机型已经入网，将搭载最新的骁龙8 Gen2移动平台，预计将在年底前发布，紧接着关于这款小米13的消息也陆续放出，包括其内部代号“fuxi（伏羲）”和“nvwa（女娲）”，以及Android&amp;nbsp;13的MIUI 14系统，可以推测这两款机型分别为小米13和小米13 Pro。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管受到了主控芯片和PMIC组件的交货时间延长至32周的影响，但根据TrendForce的最新统计数据，2021年通过全球分销渠道的SSD出货量达到了1.27亿，同比增长11%。这些出货的SSD里面，42%的3D NAND芯片来自于三星、SK海力士、美光、铠侠（Kioxia）和西部数据，剩下的58%包括了仅购买组件进行组装的SSD厂商。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新款大众朗逸曝光 配全新1.5T发动机](https://www.cnbeta.com/articles/tech/1327473.htm) | Sat Oct 15 2022 12:14 PM 
+- 🚀 [传PS5和XSX升级版将很快被3A厂商拿到](https://hot.cnbeta.com/articles/game/1327483.htm) | Sat Oct 15 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，上汽大众朗逸在工信部进行了申报，&lt;strong&gt;其最大的亮点在于换装了大众集团最新的1.5T四缸机&lt;/strong&gt;，尾标300TSI。外观方面依旧维持原来的设计，前脸拥有较宽的横向条幅，前大灯完全包裹在中网中，配合运动风格的前包围，显得很大气，此外，该车还可选装满天星状的格栅，更为时尚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年早些时候，国内厂商TCL公开曝光了本世代主机升级版将于2023年或2024年发售。当时很多人以为这仅仅是一个市场推测，然而经常准确泄露GTA消息的舅舅党Tez2近日爆料，PS5/XSX升级版将很快被3A工作室拿到。这个传闻得到了外媒Kotaku的证实。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [小型哺乳动物被认为是一种威胁生命的疾病的孵化器](https://www.cnbeta.com/articles/science/1327471.htm) | Sat Oct 15 2022 10:36 AM 
+- 🎊 [英特尔CEO表示愿意在其工厂生产AMD与NVIDIA芯片](https://www.cnbeta.com/articles/tech/1327481.htm) | Sat Oct 15 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于真菌感染在人类中呈上升趋势，卫生官员了解这些病原体的来源至关重要。发表在《真菌生物学前沿》上的一项新研究显示，小型哺乳动物可以作为这些真菌感染的储库。这意味着这些啮齿类动物可能充当新出现的真菌病原体的储库、散布媒介和孵化器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在接受The Verge采访时，英特尔首席执行官Pat Gelsinger（帕特）对AMD和NVIDIA使用他们的工厂制造世界一流的CPU和GPU持开放态度。在采访中，帕特说，在俄亥俄晶圆厂的落成典礼上，他与一些来自无晶圆厂公司的首席执行官坐下来，欢迎他们，甚至提出把他们的标志放在制造新产品的晶圆厂旁边。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
