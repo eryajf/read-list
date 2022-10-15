@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android 自定义view基础之Paint 类](https://juejin.cn/post/7154668444607070244) | Sat Oct 15 2022 9:29 AM 
+- 🤗 [C# Timer控件学习，使用Timer解决按钮幂等性问题](https://juejin.cn/post/7154685103241691167) | Sat Oct 15 2022 10:32 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 Android 自定义view 大致会经历 measure :对 view进行测量 ，Layout:对测 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第14天，点击查看活动详情 前言： Timer是一个定时器，作为C#开发Timer控件是我们用的比较多的一个控件，它的功能很简单， 
     </details> 
 
-- 🎡 [Luminar Neo 教程，如何使用 Luminar Neo 作为 macOS 扩展的照片？](https://juejin.cn/post/7154665395385794597) | Sat Oct 15 2022 9:19 AM 
+- 🎡 [Linux读写缓存Page Cache](https://juejin.cn/post/7154678682345766919) | Sat Oct 15 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何使用 Luminar Neo 作为 macOS 扩展的照片。 
+    读写缓存Page Cache Linux对文件读写并不是每次都进行磁盘IO，而是将对应的磁盘文件缓存到内存上，之后对该文件的操作实际上也是对内存的读写， 缓存俗称页缓存&lpar;page cache&rpar;。 
     </details> 
 
-- 🕯 [Project Reactor源码阅读-flatMap](https://juejin.cn/post/7154665098458431524) | Sat Oct 15 2022 9:15 AM 
+- 🕯 [Apache RocketMQ 在阿里云大规模商业化实践之路](https://juejin.cn/post/7154678159953100831) | Sat Oct 15 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章首先会介绍flatMap基本使用，然后从源码角度分析flatMap实现原理，并且详细介绍其队列融合工作流程。 
+    作者：周新宇 阿里云消息队列 RocketMQ 商业化历程 RocketMQ 诞生于 2012 年，诞生即开源。2012～2015 年，RocketMQ 一直在通过内部电商业务打磨自身服务能力,并在  
     </details> 
 
-- 🚀 [【源码学习】第14期 | 如何持久化存储数据？推荐你试试configstore！](https://juejin.cn/post/7154664800461520933) | Sat Oct 15 2022 9:14 AM 
+- 🚀 [浅谈Netty线程模型](https://juejin.cn/post/7154678122036592671) | Sat Oct 15 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-    本文参加了由公众号@若川视野 发起的每周源码共读活动，点击了解详情一起参与。 第10期 | configstore 存储 前言     configstore 是一个轻量级的键值对存储方案，可以将内容 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第15天，点击查看活动详情 前言 看到这个标题，可能有小伙伴要奇怪了，你的TSP三个解法的系列博文去哪了？好吧，我承认我有鸽的成分 
     </details> 
 
-- 💪 [简单理解Vue的data为啥只能是函数](https://juejin.cn/post/7154664015333949470) | Sat Oct 15 2022 9:12 AM 
+- 💪 [从一个简单的初始化远程git仓库工具开始学习前端脚手架的建设](https://juejin.cn/post/7154677337160679461) | Sat Oct 15 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在学习vue的时候vue2只有在组件中严格要求data必须是一个函数，而在普通vue实例中，data可以是一个对象，但是在vue3出现后data必须一个函数，当时看着官方文档说的是好像是对象的引 
+    1. 开篇 在开始之前我们得知道我们要做的东西是什么样的 -&gt; 一个能根据git地址初始化远程仓库的工具 说到这里你就会说：“git不是提供了一个clone命令给你用吗？” ok，那我们用clone来 
     </details> 
 <!-- juejin:END -->
 ### 少数派
