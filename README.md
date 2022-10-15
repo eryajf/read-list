@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [“窃·格瓦拉”的十年，潮起又潮去](https://www.cnbeta.com/articles/tech/1327501.htm) | Sat Oct 15 2022 4:11 PM 
+- 🕯 [RTX 30系列有望出新卡 三款未发布新品现身](https://www.cnbeta.com/articles/tech/1327503.htm) | Sat Oct 15 2022 4:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;距离RTX 40系列首批产品的发布已经过去了一段时间，其中最为顶级的RTX 4090已经正式开售，除了英伟达的公版外，也有很多其它品牌的各种产品可选。而与此同时RTX 30系列似乎也还有新品要与大家见面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [“窃·格瓦拉”的十年，潮起又潮去](https://www.cnbeta.com/articles/tech/1327501.htm) | Sat Oct 15 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;这两年的流行文化很是奇怪。老的游戏IP不停在复刻，几十年的旧番突然有了第二季，仿佛印证了那句“互联网的潮流永远在复古”，给我的感觉就是“死去的回忆不停地在攻击我”。如果不是微博热搜上突然冒出来一个“不可能打工当事人公司被强执”，我大概不会想起世上还有“周立齐”这号人物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [向Ultra看齐 消息称小米13 Pro主摄升级到索尼IMX989](https://www.cnbeta.com/articles/tech/1327499.htm) | Sat Oct 15 2022 3:34 PM 
+- 💂 [向Ultra看齐 消息称小米13 Pro主摄升级到索尼IMX989](https://www.cnbeta.com/articles/tech/1327499.htm) | Sat Oct 15 2022 3:34 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日消息，博主i冰宇宙爆料，&lt;strong&gt;小米13 Pro主摄跟小米12S Ultra一致，配备的是索尼IMX989。&lt;/strong&gt;和上一代小米12 Pro使用的索尼IMX707相比，&lt;strong&gt;小米13 Pro主摄从1/1.28英寸跃升至1英寸怪兽级大底，&lt;/strong&gt;意味着影像会有“脱胎换骨”般的大提升。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPhone 14对比iPhone 13 两项升级决定你适合买哪一款](https://www.cnbeta.com/articles/tech/1327497.htm) | Sat Oct 15 2022 3:33 PM 
+- 🚀 [iPhone 14对比iPhone 13 两项升级决定你适合买哪一款](https://www.cnbeta.com/articles/tech/1327497.htm) | Sat Oct 15 2022 3:33 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;iPhone 14发布多时，最近有不少朋友经常问我，iPhone 14和iPhone 13哪一个值得买？我能理解为什么会有这样的疑问，说到底还是iPhone 14和iPhone 13之间的差距太小了，小到已经很难让你把iPhone 14作为迭代机型去看。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [72岁谭咏麟每周踢4场球：哪天我26岁了哪天就退休了](https://hot.cnbeta.com/articles/music/1327495.htm) | Sat Oct 15 2022 3:32 PM 
+- 🎊 [72岁谭咏麟每周踢4场球：哪天我26岁了哪天就退休了](https://hot.cnbeta.com/articles/music/1327495.htm) | Sat Oct 15 2022 3:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;时隔三年，“校长”谭咏麟再次推出自己的新专辑《倾·听》，里面收录了8首他精心挑选的国语歌曲，再由他重新改编用广东话演绎出来。直活力满满的谭咏麟表示，音乐创作和生活都要追“新”，人不工作才容易老。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1327495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [美国19岁少女每天记忆被重置 任何事超12小时记不住](https://www.cnbeta.com/articles/science/1327493.htm) | Sat Oct 15 2022 3:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国19岁少女每天都以为是2017年10月13日，&lt;a class=&quot;f14_link&quot; href=&quot;https://baijiahao.baidu.com/s?id=1746678269635514006&amp;wfr=spider&amp;for=pc&quot; target=&quot;_blank&quot;&gt;她的记忆像被“重置”一般&lt;/a&gt;。原是在2017年10月12日，她在一次越野跑训练中，被队友击中头部。5年前，确切地说是在2017年10月12日，年仅14岁的她在一次越野跑训练中，不小心被其他孩子撞倒，摔到了右侧的太阳穴。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
