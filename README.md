@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter 动画剖析&lpar;一&rpar;  彻底掌握动画的使用](https://juejin.cn/post/7154662336182583309) | Sat Oct 15 2022 9:05 AM 
+- 🤗 [Android 自定义view基础之Paint 类](https://juejin.cn/post/7154668444607070244) | Sat Oct 15 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-    早期的动画片是利用大量图片进行快速切换从而达到一种看似连续的动画效果，这就是最早期的帧动画，利用人的视觉延迟产生的一种连续的效果，其实现在的动画也是这个原理， 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 Android 自定义view 大致会经历 measure :对 view进行测量 ，Layout:对测 
     </details> 
 
-- 🎡 [从零开始的MMORPG游戏服务器&lpar;1&rpar; - Beacon Server](https://juejin.cn/post/7154657165779664910) | Sat Oct 15 2022 8:45 AM 
+- 🎡 [Luminar Neo 教程，如何使用 Luminar Neo 作为 macOS 扩展的照片？](https://juejin.cn/post/7154665395385794597) | Sat Oct 15 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 今天来实现服务器的第一个部件 - beacon_server。 功能解析 为了建立Elixir集群，需要 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何使用 Luminar Neo 作为 macOS 扩展的照片。 
     </details> 
 
-- 🕯 [&lpar;0, eval&rpar;&lpar;&quot;x = 100&quot;&rpar; ：一行让严格模式形同虚设的破坏性设计（下）](https://juejin.cn/post/7154657020392505358) | Sat Oct 15 2022 8:44 AM 
+- 🕯 [Project Reactor源码阅读-flatMap](https://juejin.cn/post/7154665098458431524) | Sat Oct 15 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    接上篇，这一讲我们仍然讲动态执行。之前我说到过，setTimeout 和 setInterval 的第一个参数可以使用字符串 
+    本篇文章首先会介绍flatMap基本使用，然后从源码角度分析flatMap实现原理，并且详细介绍其队列融合工作流程。 
     </details> 
 
-- 🚀 [vue如何二次封装一个高频可复用的组件](https://juejin.cn/post/7154656509715021837) | Sat Oct 15 2022 8:42 AM 
+- 🚀 [【源码学习】第14期 | 如何持久化存储数据？推荐你试试configstore！](https://juejin.cn/post/7154664800461520933) | Sat Oct 15 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 在我们的业务里，我们通常会二次封装一些高频业务组件，比如弹框，抽屉，表单等这些业务组件，为什么要二次封装 
+    本文参加了由公众号@若川视野 发起的每周源码共读活动，点击了解详情一起参与。 第10期 | configstore 存储 前言     configstore 是一个轻量级的键值对存储方案，可以将内容 
     </details> 
 
-- 💪 [组员大眼瞪小眼，forEach处理异步任务遇到的坑](https://juejin.cn/post/7154650750038048781) | Sat Oct 15 2022 8:20 AM 
+- 💪 [简单理解Vue的data为啥只能是函数](https://juejin.cn/post/7154664015333949470) | Sat Oct 15 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-    时间发生在上周，一位组员遇到一个问题，几个同事都没能帮忙解决，我在这边就开门见山，他在forEach处理了异步，但是始终不能顺序执行，至此想要的数据怎么都拿不到，组员绞尽脑汁， 
+    前言 在学习vue的时候vue2只有在组件中严格要求data必须是一个函数，而在普通vue实例中，data可以是一个对象，但是在vue3出现后data必须一个函数，当时看着官方文档说的是好像是对象的引 
     </details> 
 <!-- juejin:END -->
 ### 少数派
