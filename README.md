@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [组员大眼瞪小眼，forEach处理异步任务遇到的坑](https://juejin.cn/post/7154650750038048781) | Sat Oct 15 2022 8:20 AM 
+- 🤗 [Flutter 动画剖析&lpar;一&rpar;  彻底掌握动画的使用](https://juejin.cn/post/7154662336182583309) | Sat Oct 15 2022 9:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    早期的动画片是利用大量图片进行快速切换从而达到一种看似连续的动画效果，这就是最早期的帧动画，利用人的视觉延迟产生的一种连续的效果，其实现在的动画也是这个原理， 
+    </details> 
+
+- 🎡 [从零开始的MMORPG游戏服务器&lpar;1&rpar; - Beacon Server](https://juejin.cn/post/7154657165779664910) | Sat Oct 15 2022 8:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 今天来实现服务器的第一个部件 - beacon_server。 功能解析 为了建立Elixir集群，需要 
+    </details> 
+
+- 🕯 [&lpar;0, eval&rpar;&lpar;&quot;x = 100&quot;&rpar; ：一行让严格模式形同虚设的破坏性设计（下）](https://juejin.cn/post/7154657020392505358) | Sat Oct 15 2022 8:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    接上篇，这一讲我们仍然讲动态执行。之前我说到过，setTimeout 和 setInterval 的第一个参数可以使用字符串 
+    </details> 
+
+- 🚀 [vue如何二次封装一个高频可复用的组件](https://juejin.cn/post/7154656509715021837) | Sat Oct 15 2022 8:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 在我们的业务里，我们通常会二次封装一些高频业务组件，比如弹框，抽屉，表单等这些业务组件，为什么要二次封装 
+    </details> 
+
+- 💪 [组员大眼瞪小眼，forEach处理异步任务遇到的坑](https://juejin.cn/post/7154650750038048781) | Sat Oct 15 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
     时间发生在上周，一位组员遇到一个问题，几个同事都没能帮忙解决，我在这边就开门见山，他在forEach处理了异步，但是始终不能顺序执行，至此想要的数据怎么都拿不到，组员绞尽脑汁， 
-    </details> 
-
-- 🎡 [express的实现 ｜ 5.错误处理](https://juejin.cn/post/7154645659046379551) | Sat Oct 15 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    应用规则： - 首先进行错误中间件注册（错误中间件区别普通中间件就在于它有四个参数） - 应用时，只要在执行`next`函数时传递参数，就会执行到错误中间件的回调中，并且会将值传递给`err` 
-    </details> 
-
-- 🕯 [全面剖析分布式缓存高可用方案：哨兵机制](https://juejin.cn/post/7154645151128748039) | Sat Oct 15 2022 7:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 开发工作中对于分布式缓存高可用方案（搭建Redis缓存高可用方案），Redis主从架构下是如何保证高可用的呢？ 我们知道是应用了哨兵机制来实现。那Redis 服务部署的哨 
-    </details> 
-
-- 🚀 [Touch事件分发是Android最重要的因素之一，也是与用户互动交互的重要桥梁，理解了它对你的程序道路又一次增添色彩](https://juejin.cn/post/7154640268753371166) | Sat Oct 15 2022 7:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    一.概述 事件分发有多种类型, 本文主要介绍Touch相关的事件分发. 整个事件分发流程中，会有大量MotionEvent对象，该对象用于记录所有与移动相关的事件，比如手指触摸屏幕事件。 
-    </details> 
-
-- 💪 [Android进阶宝典 -- JVM运行时数据区](https://juejin.cn/post/7154636835170287646) | Sat Oct 15 2022 7:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    详解JVM虚拟机内存模型，着重分析堆栈的内存接口，包括方法的调用、对象的创建过程，对于逃逸分析做简单介绍 
     </details> 
 <!-- juejin:END -->
 ### 少数派
