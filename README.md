@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Tribecrafters Job Board - 将社区经理与社区领导的组织配对](https://xinquji.com/posts/180522?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:29 AM 
+- 👀 [GamerCoins &lpar;Mobile&rpar; - 一键获取游戏奖励](https://xinquji.com/posts/180528?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     将社区经理与社区领导的组织配对  
+     一键获取游戏奖励  
     </details> 
 
-- 🥷 [locol - 在视频中重新发现您的社区](https://xinquji.com/posts/180521?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:28 AM 
+- 🥷 [List of 150+ Free Notion Templates - 找到您梦想中的 Notion 工作空间](https://xinquji.com/posts/180527?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     在视频中重新发现您的社区  
+     找到您梦想中的 Notion 工作空间  
     </details> 
 
-- 💼 [Graycrown - 简单、轻松、有趣的游戏启动器](https://xinquji.com/posts/180520?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:28 AM 
+- 💼 [Ithire - 我们正在创造一些伟大的东西](https://xinquji.com/posts/180526?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     简单、轻松、有趣的游戏启动器  
+     我们正在创造一些伟大的东西  
     </details> 
 
-- 🦅 [LeadX- LinkedIn Leads - 从 LinkedIn 获取高质量的电子邮件潜在客户](https://xinquji.com/posts/180519?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:27 AM 
+- 🦅 [Nexa - 资本化和自由职业者的教育经验](https://xinquji.com/posts/180525?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     从 LinkedIn 获取高质量的电子邮件潜在客户  
+     资本化和自由职业者的教育经验  
     </details> 
 
-- 😺 [takle - UGC 内容市场](https://xinquji.com/posts/180518?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:27 AM 
+- 😺 [57 Seconds - 我们让您的团队的销售变得简单](https://xinquji.com/posts/180524?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     UGC 内容市场  
+     我们让您的团队的销售变得简单  
     </details> 
 <!-- xinquji:END -->
