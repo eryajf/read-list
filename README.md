@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [RTX 30系列有望出新卡 三款未发布新品现身](https://www.cnbeta.com/articles/tech/1327503.htm) | Sat Oct 15 2022 4:52 PM 
+- 🕯 [微软高级经理预告下周Windows将有&quot;令人兴奋的东西&quot;出现](https://www.cnbeta.com/articles/tech/1327515.htm) | Sat Oct 15 2022 6:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;距离RTX 40系列首批产品的发布已经过去了一段时间，其中最为顶级的RTX 4090已经正式开售，除了英伟达的公版外，也有很多其它品牌的各种产品可选。而与此同时RTX 30系列似乎也还有新品要与大家见面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327503.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;微软的一名高级经理刚刚为Windows预告了&amp;quot;一些令人兴奋的事情&amp;quot;，时间就在下周。&lt;/strong&gt;克拉顿·亨德里克斯是微软负责Windows基础部门的项目经理，其监督的关键Windows功能之一是任务管理器。虽然没有任何证据表明是这样，但有可能下周会有一个与任务管理器相关的新功能或增强功能登陆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“窃·格瓦拉”的十年，潮起又潮去](https://www.cnbeta.com/articles/tech/1327501.htm) | Sat Oct 15 2022 4:11 PM 
+- 💼 [微软详细介绍了Edge 106能源效率的改进](https://www.cnbeta.com/articles/tech/1327513.htm) | Sat Oct 15 2022 6:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这两年的流行文化很是奇怪。老的游戏IP不停在复刻，几十年的旧番突然有了第二季，仿佛印证了那句“互联网的潮流永远在复古”，给我的感觉就是“死去的回忆不停地在攻击我”。如果不是微博热搜上突然冒出来一个“不可能打工当事人公司被强执”，我大概不会想起世上还有“周立齐”这号人物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本月早些时候，微软向稳定频道的所有用户发布了Edge 106。除了发布说明中一些不那么令人印象深刻的变化外，微软浏览器的最新版本侧重于通过为内置的效率模式增加一些额外的功能来提高其能源效率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [向Ultra看齐 消息称小米13 Pro主摄升级到索尼IMX989](https://www.cnbeta.com/articles/tech/1327499.htm) | Sat Oct 15 2022 3:34 PM 
+- 💂 [Razer Edge公布：一款外观犀利的Android云游戏掌机](https://www.cnbeta.com/articles/tech/1327511.htm) | Sat Oct 15 2022 6:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，博主i冰宇宙爆料，&lt;strong&gt;小米13 Pro主摄跟小米12S Ultra一致，配备的是索尼IMX989。&lt;/strong&gt;和上一代小米12 Pro使用的索尼IMX707相比，&lt;strong&gt;小米13 Pro主摄从1/1.28英寸跃升至1英寸怪兽级大底，&lt;/strong&gt;意味着影像会有“脱胎换骨”般的大提升。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Razer终于展示了它的便携式Android游戏掌机Edge。好消息是：它看起来比我们上次在2021年12月看到它时要好得多。Edge将在2023年1月发布仅Wi-Fi版本，售价399.99美元，随后在2023年初通过Verizon发布5G版本。它将支持运营商的超宽频5G网络。Razer采用了类似Steam Deck的预订模式，人们只需要支付5美元就可以参与预订。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14对比iPhone 13 两项升级决定你适合买哪一款](https://www.cnbeta.com/articles/tech/1327497.htm) | Sat Oct 15 2022 3:33 PM 
+- 🚀 [Razer发布为家庭游戏主机设计的Hammerhead HyperSpeed降噪无线耳塞](https://hot.cnbeta.com/articles/game/1327509.htm) | Sat Oct 15 2022 6:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone 14发布多时，最近有不少朋友经常问我，iPhone 14和iPhone 13哪一个值得买？我能理解为什么会有这样的疑问，说到底还是iPhone 14和iPhone 13之间的差距太小了，小到已经很难让你把iPhone 14作为迭代机型去看。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Razer曾为游戏机发布了众多罩耳式耳机，该公司将在11月为PlayStation和Xbox带来Hammerhead无线耳塞，售价149.99美元。每款游戏机都有对应的Hammerhead HyperSpeed的颜色型号（PlayStation为白色配蓝色，Xbox为黑色配绿色）。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [72岁谭咏麟每周踢4场球：哪天我26岁了哪天就退休了](https://hot.cnbeta.com/articles/music/1327495.htm) | Sat Oct 15 2022 3:32 PM 
+- 🎊 [据传搭配iPad的苹果智能家居中心底座即将面世](https://www.cnbeta.com/articles/tech/1327507.htm) | Sat Oct 15 2022 6:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;时隔三年，“校长”谭咏麟再次推出自己的新专辑《倾·听》，里面收录了8首他精心挑选的国语歌曲，再由他重新改编用广东话演绎出来。直活力满满的谭咏麟表示，音乐创作和生活都要追“新”，人不工作才容易老。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1327495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司正计划将iPad变成一个智能家居中心和扬声器，使其成为家庭中更重要的固定设备，可以住在厨房的台面上。苹果的HomeKit平台依靠iPad、Apple TV和HomePod mini等设备来运作。然而，目前还没有一个能作为家庭的中央可控和专用设备，这显然是苹果渴望改变的现状。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327507.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
