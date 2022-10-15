@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于 vscode tasks.json selectedText 的问题](https://www.v2ex.com/t/887123#reply0) | Sat Oct 15 2022 6:28 AM
-- 🤗 [想买一个家用服务器实现以下功能，你们说可以吗？如何实现呢？应该买什么？](https://www.v2ex.com/t/887119#reply1) | Sat Oct 15 2022 6:23 AM
-- 🎭 [开源社区半月实习日记](https://www.v2ex.com/t/887117#reply0) | Sat Oct 15 2022 6:00 AM
-- 🥷 [昨晚第一次试装了下 opensuse tumbleweed 被桌面的完成度震惊了](https://www.v2ex.com/t/887111#reply3) | Sat Oct 15 2022 5:19 AM
-- 🐵 [就差最后一步， Windows 就能基本满足我的需求了。](https://www.v2ex.com/t/887110#reply10) | Sat Oct 15 2022 5:18 AM<!-- v2ex:END -->
+- 🥸 [Symmetric NAT 目前有没有什么方法穿透做 P2P](https://www.v2ex.com/t/887132#reply0) | Sat Oct 15 2022 7:14 AM
+- 🤗 [关于 vscode tasks.json selectedText 的问题](https://www.v2ex.com/t/887123#reply0) | Sat Oct 15 2022 6:28 AM
+- 🎭 [想买一个家用服务器实现以下功能，你们说可以吗？如何实现呢？应该买什么？](https://www.v2ex.com/t/887119#reply4) | Sat Oct 15 2022 6:23 AM
+- 🥷 [开源社区半月实习日记](https://www.v2ex.com/t/887117#reply7) | Sat Oct 15 2022 6:00 AM
+- 🐵 [昨晚第一次试装了下 opensuse tumbleweed 被桌面的完成度震惊了](https://www.v2ex.com/t/887111#reply5) | Sat Oct 15 2022 5:19 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
