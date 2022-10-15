@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【技术提升计划】「攀登技术领域的巅峰」教你学透MySQL技术原理及设计调优](https://juejin.cn/post/7154729168469508109) | Sat Oct 15 2022 1:23 PM 
+- 🤗 [前端脚手架-4](https://juejin.cn/post/7154753505012482062) | Sat Oct 15 2022 2:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第15天，点击查看活动详情 初始化项目 1.创建项目 2.创建入口文件 3.编写命令 4.本地软链 检查Node版本 1.新建li 
+    </details> 
+
+- 🎡 [MySQL : explain 快速查询手册](https://juejin.cn/post/7154744473048580110) | Sat Oct 15 2022 2:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    一. 前言 上一篇整理完了 MySQL 的性能优化方式 , 其中最常用的就是 explain . 这一篇来详细看看 explain 中各个参数的含义和扩展 , 整理出来便于使用时快速查询 二 . ex 
+    </details> 
+
+- 🕯 [【技术提升计划】「攀登技术领域的巅峰」教你学透MySQL技术原理及设计调优](https://juejin.cn/post/7154729168469508109) | Sat Oct 15 2022 1:23 PM 
     <details><summary>展开描述 ...</summary> 
     个人简介         Hi，大家好，我是李浩宇/Alex，目前在一家互联网公司担任技术研发经理，之前曾就职于神州数码和优酷。擅长的领域是Java技术体系（Java源码分析和JVM原理分析）， My 
     </details> 
 
-- 🎡 [【云原生】Spark on k8s 讲解与实战操作](https://juejin.cn/post/7154700557326761997) | Sat Oct 15 2022 11:36 AM 
+- 🚀 [&lpar;10月最新&rpar; 前端图形学实战: 从零开发几何画板&lpar;vue3 + vite版&rpar;](https://juejin.cn/post/7154723970007171108) | Sat Oct 15 2022 1:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文是 100+前端几何学应用案例 专栏的第二篇文章, 今天分享一下从零搭建一款可视化几何画板, 采用大家最熟悉的vue3和typescript来实现 
+    </details> 
+
+- 💪 [【云原生】Spark on k8s 讲解与实战操作](https://juejin.cn/post/7154700557326761997) | Sat Oct 15 2022 11:36 AM 
     <details><summary>展开描述 ...</summary> 
     Apache Spark 是专为大规模数据处理而设计的快速通用的计算引擎。Spark是UC Berkeley AMP lab &lpar;加州大学伯克利分校的AMP实验室&rpar;所开源的类Hadoop MapRedu 
-    </details> 
-
-- 🕯 [行业实践：RocketMQ 业务集成典型行业应用和实践](https://juejin.cn/post/7154696433843585031) | Sat Oct 15 2022 11:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文讲述了 RocketMQ 的业务消息场景、一些功能特性的使用方法，包括事务消息、定时消息、消息全链路灰度等，欢迎大家尝试使用。 
-    </details> 
-
-- 🚀 [Java&amp;C++题解与拓展——leetcode1441.用栈操作构建数组【么的新知识】](https://juejin.cn/post/7154694884379590692) | Sat Oct 15 2022 11:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    leetcode1441.用栈操作构建数组解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
-    </details> 
-
-- 💪 [C# Timer控件学习，使用Timer解决按钮幂等性问题](https://juejin.cn/post/7154685103241691167) | Sat Oct 15 2022 10:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第14天，点击查看活动详情 前言： Timer是一个定时器，作为C#开发Timer控件是我们用的比较多的一个控件，它的功能很简单， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
