@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [手把手教你使用Vue3指定状态管理库--Pinia](https://juejin.cn/post/7154397845456420878) | Fri Oct 14 2022 3:57 PM 
+- 🤗 [HTTP缓存自述](https://juejin.cn/post/7154580786115674148) | Sat Oct 15 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-    Pinia 与 Vuex 一样，是作为 Vue 的“状态存储库”，用来实现 跨页面/组件 形式的数据状态共享。在平时的开发过程中，Vue 组件之间可以通过 Props 和 Events 
+    很久以前我还没有出生，当时服务器需要处理太多的请求，经常抱怨自己压力特别大，快吃不消了。于是就呼叫 HTTP，设计一个缓存类的东西，来做服务器的助手，于是我诞生了，我的使命是使用网页打开速度更快，使服 
     </details> 
 
-- 🎡 [基于craco配置的react项目的webpack构建优化](https://juejin.cn/post/7154351787246354462) | Fri Oct 14 2022 1:00 PM 
+- 🎡 [一个登录案例包学会 Pinia](https://juejin.cn/post/7154579554034515982) | Sat Oct 15 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-    craco webpack 构建速度 构建体积 thread-loader cache-loader hard-source-webpack-plugin 持久化缓存 inxlude Spl 
+    Pinia 删减了复杂的概念，简化了数据流转的过程，只剩下 store、state、getters、actions 这四个核心功能。本文使用一个用户登录的案例，来学习 Pinia 的使用。 
     </details> 
 
-- 🕯 [Vue3源码学习-3 | 设计思路](https://juejin.cn/post/7154346302032052254) | Fri Oct 14 2022 12:39 PM 
+- 🕯 [电商架构技术干货（一）](https://juejin.cn/post/7154572798055153700) | Sat Oct 15 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue3源码学习-3 | 设计思路 在第一节中，我们阐述了框架设计是权衡的艺术；在第二节中，详细讨论了框架设计的几个核心要素。而框架设计讲究全局视角的把控，存在着一条核心思路，并围绕核心展开。在这一节 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第18天，点击查看活动详情 一、架构讲解 大型电商系统架构图： 1、缓存架构 nginx本地缓存+redis分布式缓存+tomca 
     </details> 
 
-- 🚀 [从零开始的JVM学习--类文件结构](https://juejin.cn/post/7154334863225520141) | Fri Oct 14 2022 11:54 AM 
+- 🚀 [JavaScript小技能:原型链的运作机制、Promise链](https://juejin.cn/post/7154567264115621918) | Sat Oct 15 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-    JVM 可以理解的代码就叫「字节码」（即扩展名为 .class 的文件），它不面向任何特定的处理器，只面向虚拟机。 通过「字节码」的方式，在一定程度上解决了传统解释型语言执行效率低的问题。 
+    引言 回调函数是一个被传递到另一个函数中的会在适当的时候被调用的函数，如事件处理程序就是一种特殊类型的回调函数。 Promise是一个由异步函数返回的可以向我们指示当前操作所处的状态的对象。在基于 P 
     </details> 
 
-- 💪 [JWT基础学习总结token基础功能全实现演示&lpar;神鸟篇&rpar;](https://juejin.cn/post/7154329231147663368) | Fri Oct 14 2022 11:33 AM 
+- 💪 [原理篇：Seata TCC模式是如何解决幂等性、资源悬挂、空回滚问题的](https://juejin.cn/post/7154565453674643487) | Sat Oct 15 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    学习后端这么久，认证机制无疑是非常重要的一个部分，而且缺一不可，你知道哪些常见的认证机制呢？它们实现的过程和优缺点又有哪些呢？ 
+    那么Seata会帮助开发人员处理幂等性、资源悬挂、空回滚等问题，那么我们这篇文章来看看Seata TCC是如何解决这三个问题的。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
