@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Scardle - Wordle 添加了 10k+ 个晦涩的单词以增加难度](https://xinquji.com/posts/180495?utm_campaign=xinquji-rss) | Sat Oct 15 2022 6:25 AM 
+- 👀 [Tribecrafters Job Board - 将社区经理与社区领导的组织配对](https://xinquji.com/posts/180522?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     Wordle 添加了 10k+ 个晦涩的单词以增加难度  
+     将社区经理与社区领导的组织配对  
     </details> 
 
-- 🥷 [Next-Level Database Techniques For Devs - 学习秘密 SQL 功能以成为数据库向导](https://xinquji.com/posts/180494?utm_campaign=xinquji-rss) | Sat Oct 15 2022 6:23 AM 
+- 🥷 [locol - 在视频中重新发现您的社区](https://xinquji.com/posts/180521?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     学习秘密 SQL 功能以成为数据库向导  
+     在视频中重新发现您的社区  
     </details> 
 
-- 💼 [Sootly - 一款极具挑战性的手机文字游戏](https://xinquji.com/posts/180493?utm_campaign=xinquji-rss) | Sat Oct 15 2022 6:22 AM 
+- 💼 [Graycrown - 简单、轻松、有趣的游戏启动器](https://xinquji.com/posts/180520?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     一款极具挑战性的手机文字游戏  
+     简单、轻松、有趣的游戏启动器  
     </details> 
 
-- 🦅 [Blokada 6: New features - 以最简单有效的形式进行广告拦截](https://xinquji.com/posts/180492?utm_campaign=xinquji-rss) | Sat Oct 15 2022 6:20 AM 
+- 🦅 [LeadX- LinkedIn Leads - 从 LinkedIn 获取高质量的电子邮件潜在客户](https://xinquji.com/posts/180519?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     以最简单有效的形式进行广告拦截  
+     从 LinkedIn 获取高质量的电子邮件潜在客户  
     </details> 
 
-- 😺 [ClipSaver - 保存过去并发现新发型](https://xinquji.com/posts/180491?utm_campaign=xinquji-rss) | Sat Oct 15 2022 6:18 AM 
+- 😺 [takle - UGC 内容市场](https://xinquji.com/posts/180518?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     保存过去并发现新发型  
+     UGC 内容市场  
     </details> 
 <!-- xinquji:END -->
