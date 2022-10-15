@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [把狗狗当孩子养，狗爸妈的育儿风格会影响狗子的行为模式和性格](http://jandan.net/p/111479) | Sat Oct 15 2022 9:29 AM 
+- 🚀 [北大校友群传出骇人听闻的消息：张益唐刚刚证明了朗道-西格尔猜想](http://jandan.net/p/111480) | Sat Oct 15 2022 2:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    zsbd 
+    </details> 
+
+- 🙉 [把狗狗当孩子养，狗爸妈的育儿风格会影响狗子的行为模式和性格](http://jandan.net/p/111479) | Sat Oct 15 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
     这一点和人类儿童一样，父母的育儿风格会影响孩子的成长 
     </details> 
 
-- 🙉 [前景 当AI成为老板](http://jandan.net/p/111468) | Sat Oct 15 2022 4:34 AM 
+- 🎉 [前景 当AI成为老板](http://jandan.net/p/111468) | Sat Oct 15 2022 4:34 AM 
     <details><summary>展开描述 ...</summary> 
     自动化的不仅仅是劳动力。管理人员也是。 
     </details> 
 
-- 🎉 [今日带货：摩飞锅](http://jandan.net/p/111478) | Sat Oct 15 2022 4:03 AM 
+- 🐲 [今日带货：摩飞锅](http://jandan.net/p/111478) | Sat Oct 15 2022 4:03 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：45 
     </details> 
 
-- 🐲 [奇怪的联系 美国电影院线的每日票房数据可以预测股市回报](http://jandan.net/p/111469) | Fri Oct 14 2022 10:04 AM 
+-  [奇怪的联系 美国电影院线的每日票房数据可以预测股市回报](http://jandan.net/p/111469) | Fri Oct 14 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     对国内市场应该不好使 
-    </details> 
-
--  [为干细胞的内部分子过程构建数学模型](http://jandan.net/p/111477) | Fri Oct 14 2022 9:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    因为现在还没有直接的实时观测手段，只能通过理论推测那些关键过程的节点 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
