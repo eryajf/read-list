@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现一个黑洞在将恒星撕成碎片多年后再次亮起](https://www.cnbeta.com/articles/science/1327585.htm) | Sun Oct 16 2022 4:26 AM 
+- 🕯 [全球数据库为人类对地球的影响提供了一个量化快照](https://www.cnbeta.com/articles/science/1327587.htm) | Sun Oct 16 2022 4:43 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;如果你在世界任何地方的一座大城市很可能很容易从附近的快餐店抓到一个便宜的汉堡包。但你可能没有意识到，这个便宜的汉堡里的肉实际上可以说明人类如何塑造地球的宏大叙事。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [研究发现一个黑洞在将恒星撕成碎片多年后再次亮起](https://www.cnbeta.com/articles/science/1327585.htm) | Sun Oct 16 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;2018年10月，一颗小恒星被撕成了碎片，当时它徘徊在距离地球6.65亿光年的星系中，离一个黑洞很近。虽然这听起来很令人兴奋，但对于那些在扫描夜空时偶尔目睹这些暴力事件的天文学家来说，这一事件并不令人惊讶。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究：我们体内有一个时钟，它可以帮助决定何时吃饭、睡觉更好](https://www.cnbeta.com/articles/science/1327583.htm) | Sun Oct 16 2022 3:35 AM 
+- 💂 [研究：我们体内有一个时钟，它可以帮助决定何时吃饭、睡觉更好](https://www.cnbeta.com/articles/science/1327583.htm) | Sun Oct 16 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;你是否曾经遭受过时差的困扰，这则是你感受到被研究人员称之为生物钟或昼夜节律的影响的例子--这个“主起搏器”使身体对一天的流逝作出同步反应。据悉，这个“时钟”是由下丘脑中的约2万个神经元组成。这个靠近大脑中心的区域会协调身体的无意识功能，如呼吸和血压。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [迈凯轮疑正在开发一款全电动SUV](https://www.cnbeta.com/articles/tech/1327581.htm) | Sun Oct 16 2022 3:13 AM 
+- 🚀 [迈凯轮疑正在开发一款全电动SUV](https://www.cnbeta.com/articles/tech/1327581.htm) | Sun Oct 16 2022 3:13 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;迈凯伦官方正在研发一款电动家庭用车。迈凯轮新任CEO Michael Leiters在最近接受的一次采访中证实，该品牌正在寻求将其产品组合扩展到新的领域，以此来创造更多收入。Leiters还强烈暗示，迈凯轮的“家庭汽车”将会是全电动的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NASA“露西号”将飞掠地球以进行重力辅助](https://www.cnbeta.com/articles/science/1327579.htm) | Sun Oct 16 2022 3:08 AM 
+- 🎊 [NASA“露西号”将飞掠地球以进行重力辅助](https://www.cnbeta.com/articles/science/1327579.htm) | Sun Oct 16 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;NASA任务工程师将持续跟踪“露西号&lpar;Lucy&rpar;”航天器，因为它准备在10月16日飞掠地球以进行重力辅助。这将使它能利用这个星球的引力来获得一些轨道能量并使自己走上通往木星特洛伊小行星的路线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [现在可以在Surface Duo 2上安装Windows 详细教程已公布](https://www.cnbeta.com/articles/tech/1327577.htm) | Sun Oct 16 2022 2:50 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软的Surface Duo智能手机提供了独特的双屏幕和生产力功能，虽然市场表现平平，但使Surface Duo优于普通iPhone或三星Galaxy的另一点是它运行Windows 11的能力（当然是非官方的）。&lt;strong&gt;之前这种能力只在第一代Surface Duo上提供，而现在Surface Duo 2的所有者也可以试试他们的运气，把Android 11换成Windows。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
