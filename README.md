@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2](http://www.mac52ipod.cn/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin-2.php) | Fri Oct 14 2022 2:34 AM 
+- 👨‍🏫 [Mac技巧之锁定苹果笔记本电脑键盘：免费软件 KeyboardCleanTool](http://www.mac52ipod.cn/post/apple-mac-macos-app-keyboardcleantool.php) | Sun Oct 16 2022 2:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	如果你想擦一下 Mac 的键盘，或者在键盘上面放个东西（比如把外置键盘放在 MacBook Pro/Air 键盘上面用，或者把纸垫在键盘上面写写字），可以试试 KeyboardCleanTool 这款免费软件，把苹果笔记本电脑的键盘锁定。整个软件只有一个按钮，点击就锁定和解锁键盘，简单粗暴。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6697&quot; border=&quot;0&quot; alt=&quot;Mac技巧之锁定苹果笔记本电脑键盘：免费软件 KeyboardCleanTool&quot; title=&quot;Mac技巧之锁定苹果笔记本电脑键盘：免费软件 KeyboardCleanTool&quot; /&gt;&lt;/p&gt;&lt;p&gt;KeyboardCleanTool 官网下载 &lt;u&gt;&lt;a href=&quot;https://folivora.ai/keyboardcleantool&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之锁定苹果笔记本电脑键盘：免费软件 KeyboardCleanTool&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://folivora.ai/keyboardcleantool&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%2594%25AE%25E7%259B%2598&quot; rel=&quot;tag&quot;&gt;键盘&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2](http://www.mac52ipod.cn/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin-2.php) | Fri Oct 14 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [苹果对「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求](http://www.mac52ipod.cn/post/apple-device-7-7-inch.php) | Tue Oct 11 2022 7:17 AM 
+- 🦏 [苹果对「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求](http://www.mac52ipod.cn/post/apple-device-7-7-inch.php) | Tue Oct 11 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [有人评测和分析了为什么 Windows PC 笔记本电脑的续航时间远小于苹果 MacBook Pro/ Air](http://www.mac52ipod.cn/post/apple-silicone-mac-macbook-pro-air-windows-pc-laptop-battery-life.php) | Mon Sep 26 2022 1:09 AM 
+- 🚀 [有人评测和分析了为什么 Windows PC 笔记本电脑的续航时间远小于苹果 MacBook Pro/ Air](http://www.mac52ipod.cn/post/apple-silicone-mac-macbook-pro-air-windows-pc-laptop-battery-life.php) | Mon Sep 26 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [在苹果 iPhone 锁屏界面一键启动 App / 健康码 / 付款码 / 快捷指令：锁屏启动 &lpar;Lock Launcher&rpar;](http://www.mac52ipod.cn/post/apple-ios-iphone-app-lock-launcher.php) | Sat Sep 24 2022 5:11 AM 
+- 🏊 [在苹果 iPhone 锁屏界面一键启动 App / 健康码 / 付款码 / 快捷指令：锁屏启动 &lpar;Lock Launcher&rpar;](http://www.mac52ipod.cn/post/apple-ios-iphone-app-lock-launcher.php) | Sat Sep 24 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	这是个中国个人开发者 @hzlzh 制作的苹果 iOS App，在你的 iPhone 锁屏页面添加各种功能入口，让你一键启动 App、打开付款码/健康码/行程码、运行快捷指令 …… &lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6714&quot; border=&quot;0&quot; alt=&quot;锁屏启动 &lpar;Lock Launcher&rpar;&quot; title=&quot;锁屏启动 &lpar;Lock Launcher&rpar;&quot; /&gt;&lt;/p&gt;&lt;p&gt;官网有视频介绍 &lt;u&gt;&lt;a href=&quot;https://locklauncher.com/&quot; target=&quot;_blank&quot; title=&quot;锁屏启动 &lpar;Lock Launcher&rpar; 官网” rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://locklauncher.com/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;锁屏启动 &lpar;Lock Launcher&rpar; 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/app/id1636719674&quot; target=&quot;_blank&quot; title=&quot;锁屏启动 &lpar;Lock Launcher&rpar;&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/app/id1636719674&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=launcher&quot; rel=&quot;tag&quot;&gt;launcher&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2588%25E7%258E%2587&quot; rel=&quot;tag&quot;&gt;效率&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [Apple新闻之苹果将在欧洲、日韩等国家上调 App Store 的应用售价和内付费价格](http://www.mac52ipod.cn/post/apple-app-store-raise-prices-in-japan-europe-korea-and-more-countries.php) | Thu Sep 22 2022 4:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	苹果官网公布了通知，App Store 下个月在这些国家涨价：日本、韩国、瑞典、越南、波兰、智利、埃及、马来西亚、巴基斯坦、以及所有使用欧元的国家。&lt;/p&gt;&lt;p&gt;涨价既涉及 App 售价，也涉及内付费价格（比如游戏里面买道具、视频或音乐 App 里买会员）。&lt;/p&gt;&lt;p&gt;在越南的涨价原因是有新税法，在欧元区还有日韩等国家涨价的原因应该是欧元、日元等货币贬值幅度太大了&lt;/p&gt;&lt;p&gt;至于涨价幅度，每个国家不一样，以影响面最大的欧元区举例吧，原价 0.99 欧元的 App，要涨到 1.19 欧元了。其它各档也有类似幅度的涨价，比如 9.99 欧元的 App 要涨价到 11.99 欧元。&lt;/p&gt;&lt;p&gt;苹果官网原文&amp;nbsp;&amp;nbsp;&lt;u&gt;&lt;a href=&quot;https://developer.apple.com/news/?id=e1b1hcmv&amp;1663640181&quot; target=&quot;_blank&quot; title=&quot;Upcoming price and tax changes for apps and in-app purchases&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://developer.apple.com/news/?id=e1b1hcmv&amp;1663640181&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=appstore&quot; rel=&quot;tag&quot;&gt;appstore&lt;/a&gt;
 
  
     </details> 
