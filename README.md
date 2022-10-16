@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google宣布推出KataOS操作系统 利用Rust和seL4微内核](https://www.cnbeta.com/articles/tech/1327663.htm) | Sun Oct 16 2022 9:18 AM 
+- 🕯 [仿和牛的3D打印肉 动物干细胞“养成”，你会吃么？](https://www.cnbeta.com/articles/science/1327683.htm) | Sun Oct 16 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Google本周宣布发布KataOS（开发代号Sparrow）作为他们最新专注于运行环境侧重于机器学习工作负载的嵌入式设备的操作系统。&lt;/strong&gt;KataOS从设计上就具备安全意识，专门使用Rust编程语言，并建立在seL4微内核的基础之上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;3D打印肉已经能吃到了？还是动物干细胞“养成”的那种。&lt;/strong&gt;据央视财经最新消息，以色列一家初创公司正将3D打印肉产品投入商业领域。不同于我们常见的“植物肉”，这种产品是通过提取动物干细胞培养出来的，肥瘦纹理均可定制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [林志颖车祸后首现身 汽车博主：有人在说谎](https://www.cnbeta.com/articles/tech/1327661.htm) | Sun Oct 16 2022 9:15 AM 
+- 💼 [PSVR2新专利能让玩家感受到自己碰到的东西](https://www.cnbeta.com/articles/tech/1327681.htm) | Sun Oct 16 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在10月15日、48岁生日当天，因为车祸远离公共视线很久的林颖现身亮相，并表示“不要再担心我，大家都要健康快乐。”林志颖看起来有些瘦削，但精神状况不错。对于7月份的车祸，媒体称，林志颖也做出回应，有一些细节记不起了，但是确定车祸前系了安全带，因为不系安全带这辆车会一路狂叫无法安宁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;到目前为止，我们已经听到了很多关于索尼PSVR2配置的具体信息。眼动追踪、耳机反馈、4K HDR显示和其他功能都将被用于新设备，但最近一项新专利指出，这台设备可能还会搭载其它科技配置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [开发者怒斥微软Xbox：指责XSS限制了一整代游戏发展](https://hot.cnbeta.com/articles/game/1327659.htm) | Sun Oct 16 2022 9:14 AM 
+- 💂 [英特尔酷睿i9-13900KF猛禽湖CPU在华硕215美元的B660主板上超频到6GHz](https://www.cnbeta.com/articles/tech/1327679.htm) | Sun Oct 16 2022 10:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;众所周知，微软在次世代游戏主机上选择了以索尼截然不同的战略，除了性能达到目前天花板的Xbox Series X外，还推出了一款“缩水”版的Xbox Series S。作为目前最便宜的次世代主机，XSS成为了不少新玩家接触游戏主机的契机，但却一直就开发者毫不掩饰对这款主机的不满。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔的猛禽湖酷睿i9-13900KF处理器在华硕215美元的B660主板上展示了一些令人印象深刻的超频潜力。这款属于第13代猛禽湖系列的处理器被发现在华硕ROG Strix B660-F游戏主板上达到5.97 GHz的超频频率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究表明COVID-19引起的心肌炎风险比疫苗大7倍](https://www.cnbeta.com/articles/tech/1327657.htm) | Sun Oct 16 2022 8:32 AM 
+- 🚀 [索尼PlayStation VR2的用户手册图像在网上泄露](https://www.cnbeta.com/articles/tech/1327677.htm) | Sun Oct 16 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据宾夕法尼亚州立医学院科学家最近的一项研究，感染COVID-19后，患心肌炎的风险比接种COVID-19疫苗后高七倍。心肌炎患者的症状各不相同，取决于他们目前的心血管健康状况、炎症的严重程度和其他因素。他们经常会出现胸痛、呼吸急促或心跳不规律的症状。在严重的情况下，心肌炎可导致心脏衰竭和死亡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;随着PlayStation VR2（PSVR2）将在&amp;quot;2023年初&amp;quot;发布，看起来索尼已经在准备制造这个装置了，因为PSVR2的手册图片已经泄露到网上。&lt;/strong&gt;在Twitter上，硬件分析师布拉德-林奇表示，索尼似乎已经成功从开发套件的整体重量上又减去了70克。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [一些与表情符号有关的搜索关键词会让Google服务器出错](https://www.cnbeta.com/articles/tech/1327655.htm) | Sun Oct 16 2022 8:30 AM 
+- 🎊 [小工具Fluent Flyouts恢复Windows电池指示器飞出功能并增加更多内容](https://www.cnbeta.com/articles/tech/1327675.htm) | Sun Oct 16 2022 10:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;表情符号--你要么喜欢它们，要么讨厌它们，而目前看来，Google不喜欢它们的程度相当高。感到困惑的网友报告说，进行某些有关表情符号的搜索会导致Google超时，并显示一个服务器错误。这个奇怪的问题还没有得到解释，但有一些关于发生了什么的理论被提出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;又一个实用的第三方应用程序试图修复微软在Windows 11中破坏的东西。&lt;/strong&gt;与Windows 10不同的是，微软的最新操作系统没有为音量指示器、网络和电池控制提供单独的飞出界面。所有这些设置都位于一个控制中心内，需要更多的点击来快速调整各种设置。此外，用户不再有选项可以在不打开&amp;quot;设置&amp;quot;应用程序的情况下改变电源模式。Fluent Flyouts应用程序旨在解决所有这些问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
