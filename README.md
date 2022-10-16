@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [仿和牛的3D打印肉 动物干细胞“养成”，你会吃么？](https://www.cnbeta.com/articles/science/1327683.htm) | Sun Oct 16 2022 11:12 AM 
+- 🕯 [悬疑喜剧片《福尔摩斯小姐2》发新片场照](https://hot.cnbeta.com/articles/movie/1327699.htm) | Sun Oct 16 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;3D打印肉已经能吃到了？还是动物干细胞“养成”的那种。&lt;/strong&gt;据央视财经最新消息，以色列一家初创公司正将3D打印肉产品投入商业领域。不同于我们常见的“植物肉”，这种产品是通过提取动物干细胞培养出来的，肥瘦纹理均可定制。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327683.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据外媒报道，英国悬疑喜剧电影《福尔摩斯小姐2》发布新片场照，主演米莉·波比·布朗和亨利·卡维尔等人的“工作场景”出现在影迷们的面前。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [PSVR2新专利能让玩家感受到自己碰到的东西](https://www.cnbeta.com/articles/tech/1327681.htm) | Sun Oct 16 2022 11:10 AM 
+- 💼 [因PC市场表现下滑 AMD削减Ryzen 7000&quot;Zen 4&quot;CPU生产计划](https://www.cnbeta.com/articles/tech/1327697.htm) | Sun Oct 16 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;到目前为止，我们已经听到了很多关于索尼PSVR2配置的具体信息。眼动追踪、耳机反馈、4K HDR显示和其他功能都将被用于新设备，但最近一项新专利指出，这台设备可能还会搭载其它科技配置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327681.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据AMD的一份内部报告，该公司正计划降低其Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU的生产计划。在PC市场下滑和AM5平台整体反响不佳的情况下，AMD正计划降低Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU的产量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔酷睿i9-13900KF猛禽湖CPU在华硕215美元的B660主板上超频到6GHz](https://www.cnbeta.com/articles/tech/1327679.htm) | Sun Oct 16 2022 10:58 AM 
+- 💂 [黑洞三年没吃饭却以50%光速吐了 哈佛天文学家迎来一生最伟大的发现](https://www.cnbeta.com/articles/science/1327695.htm) | Sun Oct 16 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;英特尔的猛禽湖酷睿i9-13900KF处理器在华硕215美元的B660主板上展示了一些令人印象深刻的超频潜力。这款属于第13代猛禽湖系列的处理器被发现在华硕ROG Strix B660-F游戏主板上达到5.97 GHz的超频频率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327679.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;沉寂三年的黑洞，再次点亮夜空。大量天文台齐刷刷把望远镜对准它，然后……科学家们就都蒙圈了。上次它被观测到是因为吞噬了一颗恒星，这一次居然是它&lt;strong&gt;时隔三年又“吐”了&lt;/strong&gt;：大量恒星物质以&lt;strong&gt;50%光速&lt;/strong&gt;喷涌而出，成为史上观测到最亮的黑洞喷射事件之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [索尼PlayStation VR2的用户手册图像在网上泄露](https://www.cnbeta.com/articles/tech/1327677.htm) | Sun Oct 16 2022 10:55 AM 
+- 🚀 [动物都是色盲？人家的视觉可能比你还丰富](https://www.cnbeta.com/articles/science/1327693.htm) | Sun Oct 16 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着PlayStation VR2（PSVR2）将在&amp;quot;2023年初&amp;quot;发布，看起来索尼已经在准备制造这个装置了，因为PSVR2的手册图片已经泄露到网上。&lt;/strong&gt;在Twitter上，硬件分析师布拉德-林奇表示，索尼似乎已经成功从开发套件的整体重量上又减去了70克。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;同样的玩具球，我该买红色的还是绿色的？万一我买回来我的猫咪和狗狗不喜欢这个颜色怎么办？相信绝大部分“铲屎官”都曾纠结过这个问题。但是我可能要告诉你，你家的“主子”是不会介意玩具球是红是绿的，因为在它们眼中的世界里，这两个颜色没有什么区别。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [小工具Fluent Flyouts恢复Windows电池指示器飞出功能并增加更多内容](https://www.cnbeta.com/articles/tech/1327675.htm) | Sun Oct 16 2022 10:50 AM 
+- 🎊 [RTX3070不到2000元：二手矿卡便宜到发指 但你敢买吗？](https://www.cnbeta.com/articles/tech/1327691.htm) | Sun Oct 16 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;又一个实用的第三方应用程序试图修复微软在Windows 11中破坏的东西。&lt;/strong&gt;与Windows 10不同的是，微软的最新操作系统没有为音量指示器、网络和电池控制提供单独的飞出界面。所有这些设置都位于一个控制中心内，需要更多的点击来快速调整各种设置。此外，用户不再有选项可以在不打开&amp;quot;设置&amp;quot;应用程序的情况下改变电源模式。Fluent Flyouts应用程序旨在解决所有这些问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;显卡挖矿已成明日黄花，而曾经在矿场疲于奔命的显卡们，正大量出现在二手市场，可以说是泛滥成灾，也对正常新卡造成了严重冲击。&lt;strong&gt;二手矿卡由于长时间在高负载下持续运行，尤其是显存几乎持续满负载，伤害是非常大的，花屏死机都会是常事儿。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
