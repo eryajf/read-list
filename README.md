@@ -403,7 +403,7 @@
 <!-- sspai:START -->
 - 👹 [编程新手如何远离「依赖冲突」？盘点 Python 虚拟环境搭建方案](https://sspai.com/post/75978) | Sun Oct 16 2022 6:58 AM 
     <details><summary>展开描述 ...</summary> 
-    在 Python 社区生态里，我们可以有多种方式去创建一个干净虚拟环境，本小节笔者主要会简单介绍四个热门解决方案。&lt;a href=&quot;https://sspai.com/post/75978&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/271&quot; target=&quot;_blank&quot;&gt;《100 小时后请叫我程序员》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    在 Python 社区生态里，我们可以有多种方式去创建一个干净虚拟环境，本小节笔者主要会简单介绍四个热门解决方案。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/75978&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/271&quot; target=&quot;_blank&quot;&gt;《100 小时后请叫我程序员》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
 - 🐘 [是什么让任天堂成为换壳之王？](https://sspai.com/post/76205) | Sun Oct 16 2022 3:50 AM 
