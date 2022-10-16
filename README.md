@@ -378,24 +378,24 @@
     1.每日一题 2.测试案例 3.迭代法 3.1图解思路 迭代法解决链表反转的问题的常用方法。对于一个链表1-》2-》3。这里要注意的一个细节就是head是有值的，它指向的是链表的第一个节点。 我们定义 
     </details> 
 
-- 🎡 [搭建个人知识库：Obsidian 1.0 正式发布](https://juejin.cn/post/7154930680453922824) | Sun Oct 16 2022 2:25 AM 
+- 🎡 [不要因bundle size太大责备开发者](https://juejin.cn/post/7154948728871190535) | Sun Oct 16 2022 3:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 大家好我是飞叶，一个前端UP主，最近外网有个新的SSR框架Qwik比较火，GitHub上它的仓库star数以每天100的速度在增长，今天就通过翻译一篇文章来引入QWIK。 当然如果你不想读这些， 
+    </details> 
+
+- 🕯 [Compose 动画艺术探索之灵动岛](https://juejin.cn/post/7154944949132197924) | Sun Oct 16 2022 3:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    说起灵动岛，大家肯定都不陌生，这是苹果14中算是最大的更新了，能在缺点上玩出花，这个产品思路确实厉害👍，灵动岛看着挺炫，其实实现并不复杂，今天带大家来使用Compose实现属于安卓的灵动岛！！！ 
+    </details> 
+
+- 🚀 [搭建个人知识库：Obsidian 1.0 正式发布](https://juejin.cn/post/7154930680453922824) | Sun Oct 16 2022 2:25 AM 
     <details><summary>展开描述 ...</summary> 
     Obsidian是一款科研笔记和知识管理软件，最近obsidian终于抛掉beta版的帽子，开启了1.0时代。Obsidian是基于Markdown文件的本地知识管理软件，并且开发者承诺Obsidia 
     </details> 
 
-- 🕯 [【C/C++】1413. 逐步求和得到正数的最小值](https://juejin.cn/post/7154928916421935135) | Sun Oct 16 2022 2:18 AM 
+- 💪 [【C/C++】1413. 逐步求和得到正数的最小值](https://juejin.cn/post/7154928916421935135) | Sun Oct 16 2022 2:18 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第19天，点击查看活动详情 本文包括题目描述、题目整理、题目的解题思路以及具体的实现和代码，逐步对题目进行详细解析，深入浅出总结 
-    </details> 
-
-- 🚀 [有了这个库，这些爬虫都不用亲自写了！](https://juejin.cn/post/7154928227754967048) | Sun Oct 16 2022 2:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    想必大家平时可能会做一些数据分析，那么数据分析肯定就少不了数据。 数据从哪里来呢？我们可以通过网络爬虫来爬取数据，但是这个还是需要耗费一定时间的。 这时候就会有朋友说了，有没有现成的数据呢？当然有了， 
-    </details> 
-
-- 💪 [Eureka源码6-同步注册表机制](https://juejin.cn/post/7154912732658008100) | Sun Oct 16 2022 1:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    EurekaServer启动之后，需要同步集群中的所有注册表，更新预期心跳请求数，根据规则匹配计算实例状态 
     </details> 
 <!-- juejin:END -->
 ### 少数派
