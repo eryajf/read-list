@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [悬疑喜剧片《福尔摩斯小姐2》发新片场照](https://hot.cnbeta.com/articles/movie/1327699.htm) | Sun Oct 16 2022 12:36 PM 
+- 🕯 [《仙剑奇侠传四》官方小说被曝抄袭 部分段落完整照搬](https://hot.cnbeta.com/articles/game/1327705.htm) | Sun Oct 16 2022 2:01 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月14日，仙剑奇侠传官方正式宣布，《仙剑奇侠传四》将推出全新官方授权小说，小说由苏末那（代表作《山海经之上古密约》）执笔，姚壮宪亲自负责监修。不过现在有网友发帖称，&lt;strong&gt;《仙剑奇侠传四》官方小说疑似抄袭此前同人小说《仙剑奇侠传四》木剑星空版。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [不可能超频的AMD处理器超了 锐龙7 5800X3D跑到5.5GHz](https://www.cnbeta.com/articles/tech/1327703.htm) | Sun Oct 16 2022 2:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今年4月份，AMD发布了首款堆叠3D V-Cache缓存的游戏处理器锐龙7 5800X3D，集成多达100MB缓存，游戏性能直接碾压所有对手。但是，为了大容量缓存，它牺牲了频率，只有区区3.4-4.5GHz，比锐龙7 5800分别低了400MHz、200MHz。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [生产线将转移到中国？宝马回应MINI牛津工厂将暂停电动车生产](https://www.cnbeta.com/articles/tech/1327701.htm) | Sun Oct 16 2022 1:58 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据报道，宝马集团将停止在英国牛津工厂生产MINI电动车型，并将在明年年底前把该生产线转移到中国。宝马中国方面今日（10月16日）对第一财经记者表示，牛津工厂将暂停电动车生产，但不会停止生产MINI车型，并明确与长城汽车合作的光束汽车将生产纯电动MINI。不过，对于MINI电动车是否将只在中国生产，截至发稿记者未获得回复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [悬疑喜剧片《福尔摩斯小姐2》发新片场照](https://hot.cnbeta.com/articles/movie/1327699.htm) | Sun Oct 16 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据外媒报道，英国悬疑喜剧电影《福尔摩斯小姐2》发布新片场照，主演米莉·波比·布朗和亨利·卡维尔等人的“工作场景”出现在影迷们的面前。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [因PC市场表现下滑 AMD削减Ryzen 7000&quot;Zen 4&quot;CPU生产计划](https://www.cnbeta.com/articles/tech/1327697.htm) | Sun Oct 16 2022 12:36 PM 
+- 🎊 [因PC市场表现下滑 AMD削减Ryzen 7000&quot;Zen 4&quot;CPU生产计划](https://www.cnbeta.com/articles/tech/1327697.htm) | Sun Oct 16 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据AMD的一份内部报告，该公司正计划降低其Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU的生产计划。在PC市场下滑和AM5平台整体反响不佳的情况下，AMD正计划降低Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU的产量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [黑洞三年没吃饭却以50%光速吐了 哈佛天文学家迎来一生最伟大的发现](https://www.cnbeta.com/articles/science/1327695.htm) | Sun Oct 16 2022 12:32 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;沉寂三年的黑洞，再次点亮夜空。大量天文台齐刷刷把望远镜对准它，然后……科学家们就都蒙圈了。上次它被观测到是因为吞噬了一颗恒星，这一次居然是它&lt;strong&gt;时隔三年又“吐”了&lt;/strong&gt;：大量恒星物质以&lt;strong&gt;50%光速&lt;/strong&gt;喷涌而出，成为史上观测到最亮的黑洞喷射事件之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [动物都是色盲？人家的视觉可能比你还丰富](https://www.cnbeta.com/articles/science/1327693.htm) | Sun Oct 16 2022 12:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;同样的玩具球，我该买红色的还是绿色的？万一我买回来我的猫咪和狗狗不喜欢这个颜色怎么办？相信绝大部分“铲屎官”都曾纠结过这个问题。但是我可能要告诉你，你家的“主子”是不会介意玩具球是红是绿的，因为在它们眼中的世界里，这两个颜色没有什么区别。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [RTX3070不到2000元：二手矿卡便宜到发指 但你敢买吗？](https://www.cnbeta.com/articles/tech/1327691.htm) | Sun Oct 16 2022 12:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;显卡挖矿已成明日黄花，而曾经在矿场疲于奔命的显卡们，正大量出现在二手市场，可以说是泛滥成灾，也对正常新卡造成了严重冲击。&lt;strong&gt;二手矿卡由于长时间在高负载下持续运行，尤其是显存几乎持续满负载，伤害是非常大的，花屏死机都会是常事儿。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327691.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
