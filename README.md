@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [满江红 - 它可能是人类逆转气候变暖的希望](https://www.cnbeta.com/articles/science/1327609.htm) | Sun Oct 16 2022 7:19 AM 
+- 🕯 [融合戏曲与歌剧，蒲松龄的《画皮》被改编成美国当代故事](https://hot.cnbeta.com/articles/music/1327653.htm) | Sun Oct 16 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;气候变化可以说是现在人类面临的最严峻的挑战了。近年来，不少研究者把希望寄托于我国古人在两千年前使用的一种农业黑科技，因为它很可能在数千万年前让地球快速降温，冷到两极都冻上了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;纽约中国当代音乐节已经举办到第五届，音乐节艺术总监蔡金冬是美国最为活跃的中国指挥家之一，他将传播中国当代音乐视为人生后半程的重要事业。美国当地时间10月15日晚，中国作曲家郝维亚的室内歌剧《画皮》首场公演在纽约上州的哈德逊歌剧院收官，当66岁的指挥家蔡金冬携导演迈克尔·霍夫曼及三位歌剧演员登台谢幕时，台下掌声雷动。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1327653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [马斯克称尽管“星链”亏损 仍会免费为乌克兰政府提供服务](https://www.cnbeta.com/articles/tech/1327607.htm) | Sun Oct 16 2022 6:52 AM 
+- 💼 [迪士尼探险家协会S.E.A.将制电影 瑞安确定担任制片人](https://hot.cnbeta.com/articles/movie/1327651.htm) | Sun Oct 16 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据路透社报道，美国太空探索技术公司（SpaceX）首席执行官埃隆•马斯克16日表态称，SpaceX将继续为“星链”项目在乌克兰提供的服务出资，而在此前一天，他刚宣称已经无法再负担这笔费用。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327607.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;擅长发掘自身IP的迪士尼又将 推出“全新”IP系列了，继《加勒比海盗》等之后，来自东京迪士尼海洋的神秘组织Society of Explorers and Adventurers即将拍摄电影，“死侍”瑞安•雷诺兹已经确定担任制片人。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [5G手机超4G：爆发前夜 5G被低估了](https://www.cnbeta.com/articles/tech/1327605.htm) | Sun Oct 16 2022 6:51 AM 
+- 💂 [《微软飞行模拟》升级档将支持FSR 2.0和DLSS 3](https://hot.cnbeta.com/articles/game/1327649.htm) | Sun Oct 16 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不久前，Counterpoint合伙人兼研究副总裁尼尔·沙阿发布数据表示，第一批主流5G手机如三星Galaxy S10 5G推出仅三年后，全球5G手机的出货量现已首次超过了4G手机。截至2022年第二季度，5G手机占全球手机出货量的49.9%，以微弱优势首次超过4G手机的49.7%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327605.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软近日宣布，《微软飞行模拟》新版beta升级档即将发布，将为AMD FSR 2.0和NVIDIA DLSS 3提供支持。Beta升级档1.29.22.0将为DX12提供全新内存碎片管理系统，防止显存溢出。另外，该补丁还将优化大气层模拟，针对上升气流模拟和流体力学计算进行优化和调整。升级档还将修复部分崩溃问题。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPhone 14销量暴跌 苹果错误估计了用户对于“改变”的重视程度](https://www.cnbeta.com/articles/tech/1327603.htm) | Sun Oct 16 2022 6:45 AM 
+- 🚀 [富坚义博公布最新原稿 疑似《全职猎人》暗黑大陆](https://hot.cnbeta.com/articles/comic/1327647.htm) | Sun Oct 16 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;iPhone 14的普通版，可能今年存在感最低的苹果手机。&lt;span style=&quot;&quot;&gt;近日，有报道称iPhone 14和iPhone 14 Plus （以&lt;/span&gt;下简称 iPhone 14 普通版&lt;span style=&quot;&quot;&gt;）的销量低于预期，苹果最快可能在本月减少设计零部件的库存和订单。而与之相对的是 iPhone 14 Pro / Pro Max（以下简称），由于市场对Pro系列需求不断增高，苹果也正在将产能从非Pro系列转移到Pro系列机型上。&lt;/span&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;备受关注的《全职猎人》漫画即将在阔别粉丝3年多，10月24日连载再开了，日前富坚义博依然在坚持公布原告进度，16日今天放出了看似模糊实则精细的新原稿，粉丝惊呼画功依然厉害，或疑似《全职猎人》暗黑大陆一景。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1327647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [张益唐被曝已证明黎曼猜想相关问题 震动数学界](https://www.cnbeta.com/articles/science/1327601.htm) | Sun Oct 16 2022 6:44 AM 
+- 🎊 [育碧新游Project U就是《探路者》 游戏新细节泄露](https://hot.cnbeta.com/articles/game/1327645.htm) | Sun Oct 16 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Breaking News！网传数学家张益唐，已经攻克了朗道-西格尔零点猜想（Landau-Siegel Zeros Conjecture）。而这则消息，据说是张益唐在参加北京大学校友Zoom线上会议时亲口所述。如此爆料，可谓是在数学界轰动不已。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327601.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;育碧合作射击游戏新作Project U已经于10月14日进入封闭测试阶段。最近有泄露信息证实，育碧安纳西公司已经在此项目中投入多年时间。而且这款游戏的部分功能结构与育碧旗下已停服的大逃杀游戏《超猎都市》有些相似。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
