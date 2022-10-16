@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《仙剑奇侠传四》官方小说被曝抄袭 部分段落完整照搬](https://hot.cnbeta.com/articles/game/1327705.htm) | Sun Oct 16 2022 2:01 PM 
+- 🕯 [即将推出的11英寸iPad Pro并不会采用mini-LED显示屏](https://www.cnbeta.com/articles/tech/1327719.htm) | Sun Oct 16 2022 5:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月14日，仙剑奇侠传官方正式宣布，《仙剑奇侠传四》将推出全新官方授权小说，小说由苏末那（代表作《山海经之上古密约》）执笔，姚壮宪亲自负责监修。不过现在有网友发帖称，&lt;strong&gt;《仙剑奇侠传四》官方小说疑似抄袭此前同人小说《仙剑奇侠传四》木剑星空版。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;显示器行业分析师Ross Young今天表示，即将推出的11英寸iPad Pro将采用目前这一代机型中的LED Liquid Retina显示屏，而不是更大的12.9英寸尺寸中的较新的mini-LED显示技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [不可能超频的AMD处理器超了 锐龙7 5800X3D跑到5.5GHz](https://www.cnbeta.com/articles/tech/1327703.htm) | Sun Oct 16 2022 2:00 PM 
+- 💼 [苹果macOS Ventura预计将在10月的最后一周推出](https://www.cnbeta.com/articles/tech/1327717.htm) | Sun Oct 16 2022 5:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年4月份，AMD发布了首款堆叠3D V-Cache缓存的游戏处理器锐龙7 5800X3D，集成多达100MB缓存，游戏性能直接碾压所有对手。但是，为了大容量缓存，它牺牲了频率，只有区区3.4-4.5GHz，比锐龙7 5800分别低了400MHz、200MHz。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据彭博社记者Mark Gurman报道，苹果公司计划在10月24日这一周与iPadOS 16一起发布macOS Ventura。Gurman在他的最新通讯中说，macOS Ventura的第一个版本增加了对新的14英寸和16英寸MacBook Pro机型的支持，这些机型预计将在&amp;quot;不久的将来&amp;quot;发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [生产线将转移到中国？宝马回应MINI牛津工厂将暂停电动车生产](https://www.cnbeta.com/articles/tech/1327701.htm) | Sun Oct 16 2022 1:58 PM 
+- 💂 [食草动物的眼睛在两边 食肉动物的却在前面：为什么?](https://www.cnbeta.com/articles/science/1327715.htm) | Sun Oct 16 2022 5:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，宝马集团将停止在英国牛津工厂生产MINI电动车型，并将在明年年底前把该生产线转移到中国。宝马中国方面今日（10月16日）对第一财经记者表示，牛津工厂将暂停电动车生产，但不会停止生产MINI车型，并明确与长城汽车合作的光束汽车将生产纯电动MINI。不过，对于MINI电动车是否将只在中国生产，截至发稿记者未获得回复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果你去动物园里，观看一些我们熟悉的动物的话，你可能会发现，&lt;strong&gt;那些食草动物的眼睛基本是在两侧，而那些食肉动物的眼睛则基本在前面。&lt;/strong&gt;所以，我们经常会认为两只眼睛长在正前方的就是食肉动物，而长两边的就是食草动物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [悬疑喜剧片《福尔摩斯小姐2》发新片场照](https://hot.cnbeta.com/articles/movie/1327699.htm) | Sun Oct 16 2022 12:36 PM 
+- 🚀 [这位高中生发明的电动机 可能要引发电车革命](https://www.cnbeta.com/articles/tech/1327713.htm) | Sun Oct 16 2022 5:03 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据外媒报道，英国悬疑喜剧电影《福尔摩斯小姐2》发布新片场照，主演米莉·波比·布朗和亨利·卡维尔等人的“工作场景”出现在影迷们的面前。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;17 岁的时候你在干嘛？做不完的习题，打不够的篮球，看不腻的 ta ？&lt;strong&gt;美国小伙子罗伯特&amp;nbsp;·&amp;nbsp;桑松（&amp;nbsp;Robert Sansone&amp;nbsp;）的&amp;nbsp;17&amp;nbsp;岁，手搓了个汽车电动机，直接拿到了被誉为科技界青少年世界杯的 IEFS 冠军和 75000&amp;nbsp;美元的奖金。&lt;/strong&gt;他的研究还被媒体称作，“&amp;nbsp;可能发明了一个会改变电动汽车行业的电机&amp;nbsp;”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [因PC市场表现下滑 AMD削减Ryzen 7000&quot;Zen 4&quot;CPU生产计划](https://www.cnbeta.com/articles/tech/1327697.htm) | Sun Oct 16 2022 12:36 PM 
+- 🎊 [荣耀畅玩40 Plus真机照泄露：经典双环、双曲面后盖](https://www.cnbeta.com/articles/tech/1327711.htm) | Sun Oct 16 2022 5:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据AMD的一份内部报告，该公司正计划降低其Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU的生产计划。在PC市场下滑和AM5平台整体反响不佳的情况下，AMD正计划降低Ryzen 7000&amp;quot;Zen 4&amp;quot;CPU的产量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月17日消息，博主“旺仔百事通”放出了荣耀新机畅玩40 Plus的真机照。从图片可以看出，&lt;strong&gt;该机后摄依旧采用了家族式的ID设计，双环后摄极具辨识度&lt;/strong&gt;，一眼就可以认出这是荣耀的机器。与上一代相比，其闪光灯由圆环内部移到了镜头模组左侧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
