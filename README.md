@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [创新突破：国产直径12毫米的细绳 能拉动20多吨重卡](https://www.cnbeta.com/articles/science/1327565.htm) | Sun Oct 16 2022 2:21 AM 
+- 🕯 [研究发现一个黑洞在将恒星撕成碎片多年后再次亮起](https://www.cnbeta.com/articles/science/1327585.htm) | Sun Oct 16 2022 4:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国防科技装备以及民用工业生产的进步，离不开各式材料创新。而今，我国航空航天尖端材料，关键技术又一次实现突破，高性能纤维实现国产化。10月16日消息，据“央视军事”报道，微米级高性能纤维已经实现国产化，国产高性能纤维，单根直径只有14微米，是头发丝的六分之一。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2018年10月，一颗小恒星被撕成了碎片，当时它徘徊在距离地球6.65亿光年的星系中，离一个黑洞很近。虽然这听起来很令人兴奋，但对于那些在扫描夜空时偶尔目睹这些暴力事件的天文学家来说，这一事件并不令人惊讶。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《瘟疫传说：安魂曲》4090显卡8K超高画质效果展示](https://hot.cnbeta.com/articles/game/1327563.htm) | Sun Oct 16 2022 2:14 AM 
+- 💼 [研究：我们体内有一个时钟，它可以帮助决定何时吃饭、睡觉更好](https://www.cnbeta.com/articles/science/1327583.htm) | Sun Oct 16 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《瘟疫传说:安魂曲》即将于几天后在各大平台发行，DSOGaming分享了一段视频，展示了游戏前10分钟内容的8K/超高画质效果，显卡使用了NVIDIA最新的旗舰卡GeForce RTX 4090，并采用了DLSS2。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你是否曾经遭受过时差的困扰，这则是你感受到被研究人员称之为生物钟或昼夜节律的影响的例子--这个“主起搏器”使身体对一天的流逝作出同步反应。据悉，这个“时钟”是由下丘脑中的约2万个神经元组成。这个靠近大脑中心的区域会协调身体的无意识功能，如呼吸和血压。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《灌篮高手》全新动画电影作者亲绘海报 12月3日上映](https://hot.cnbeta.com/articles/comic/1327561.htm) | Sun Oct 16 2022 2:13 AM 
+- 💂 [迈凯轮疑正在开发一款全电动SUV](https://www.cnbeta.com/articles/tech/1327581.htm) | Sun Oct 16 2022 3:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;井上雄彦担任原作、编剧导演的《灌篮高手》全新动画电影《THE FIRST SLAM DUNK》即将于12月3日上映，日前官方公布了最新海报，由井上雄彦亲自绘制，敬请期待。《灌篮高手》是日本漫画家井上雄彦以高中篮球为题材的少年漫画，于《周刊少年Jump》1990年42号~1996年27号上连载，单行本在17个国家和地区发行。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1327561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;迈凯伦官方正在研发一款电动家庭用车。迈凯轮新任CEO Michael Leiters在最近接受的一次采访中证实，该品牌正在寻求将其产品组合扩展到新的领域，以此来创造更多收入。Leiters还强烈暗示，迈凯轮的“家庭汽车”将会是全电动的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《我的世界》1.20升级档新细节 嗅探者投票胜出](https://hot.cnbeta.com/articles/game/1327559.htm) | Sun Oct 16 2022 2:12 AM 
+- 🚀 [NASA“露西号”将飞掠地球以进行重力辅助](https://www.cnbeta.com/articles/science/1327579.htm) | Sun Oct 16 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《我的世界》1.20升级档将于明年发布。在今天的Minecraft Live 2022活动中，Mojang团队介绍了升级档的部分内容。在活动中，厂商展示了骆驼、悬挂指示牌、凿刻书架和竹制物品等内容。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NASA任务工程师将持续跟踪“露西号&lpar;Lucy&rpar;”航天器，因为它准备在10月16日飞掠地球以进行重力辅助。这将使它能利用这个星球的引力来获得一些轨道能量并使自己走上通往木星特洛伊小行星的路线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327579.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《我的世界：传奇》明年春季发售 全新CG演示赏](https://hot.cnbeta.com/articles/game/1327557.htm) | Sun Oct 16 2022 2:12 AM 
+- 🎊 [现在可以在Surface Duo 2上安装Windows 详细教程已公布](https://www.cnbeta.com/articles/tech/1327577.htm) | Sun Oct 16 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在动作/策略游戏《我的世界：传奇》中，玩家将要对抗猪灵，拯救主世界。开发团队在Minecraft Live 2022活动期间宣布本作将于明年春季发售。除了大致发售时间之外，开发团队还公布了一段游戏CG演示：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软的Surface Duo智能手机提供了独特的双屏幕和生产力功能，虽然市场表现平平，但使Surface Duo优于普通iPhone或三星Galaxy的另一点是它运行Windows 11的能力（当然是非官方的）。&lt;strong&gt;之前这种能力只在第一代Surface Duo上提供，而现在Surface Duo 2的所有者也可以试试他们的运气，把Android 11换成Windows。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327577.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
