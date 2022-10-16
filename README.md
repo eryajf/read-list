@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [c/c++多线程读写问题，怎么反驳?](https://www.v2ex.com/t/887229#reply0) | Sat Oct 15 2022 11:16 PM
-- 🤗 [阿里巴巴技术手册:单表行数超过 500 万行或者单表容量超过 2GB，才推荐进行分库分表的理论依据？](https://www.v2ex.com/t/887224#reply5) | Sat Oct 15 2022 7:10 PM
-- 🎭 [RFC: First class support for promises and async/await](https://www.v2ex.com/t/887223#reply0) | Sat Oct 15 2022 6:30 PM
-- 🥷 [线上项目并发问题，深夜在线求救](https://www.v2ex.com/t/887220#reply5) | Sat Oct 15 2022 5:28 PM
-- 🐵 [ZFS 和 mdadm 创建的软 Raid1，有什么区别吗？](https://www.v2ex.com/t/887216#reply0) | Sat Oct 15 2022 4:44 PM<!-- v2ex:END -->
+- 🥸 [YUV 色彩空间](https://www.v2ex.com/t/887254#reply0) | Sun Oct 16 2022 2:19 AM
+- 🤗 [开始使用 Yubikey](https://www.v2ex.com/t/887251#reply4) | Sun Oct 16 2022 2:07 AM
+- 🎭 [关于鼠标悬停在文字上显示原文对照 - 谷歌网页翻译](https://www.v2ex.com/t/887250#reply0) | Sun Oct 16 2022 2:05 AM
+- 🥷 [微信聊天记录迁移到电脑功能今天突然找不到了](https://www.v2ex.com/t/887247#reply0) | Sun Oct 16 2022 1:58 AM
+- 🐵 [有大佬知道 SAP SD， SAP-PP 这些岗位这些具体是干啥的吗？](https://www.v2ex.com/t/887241#reply0) | Sun Oct 16 2022 1:26 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
