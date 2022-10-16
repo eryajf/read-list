@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JavaScript奇怪行为大赏](https://juejin.cn/post/7155070829879885831) | Sun Oct 16 2022 11:29 AM 
+- 🤗 [Markdown文件居然也可以直接作为Vue路由组件？](https://juejin.cn/post/7155089099399888910) | Sun Oct 16 2022 12:43 PM 
+    <details><summary>展开描述 ...</summary> 
+    读完本文，你可以了解到如何通过编写一个`Vite`插件来支持使用`markdown`文件直接作为路由组件。 
+    </details> 
+
+- 🎡 [9个技巧让你的PyTorch模型训练变得飞快！](https://juejin.cn/post/7155087222268657695) | Sun Oct 16 2022 12:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    一个step by step的指南，非常的实用。 本指南从最简单的结构到最复杂的改动都有，可以使你的网络得到最大的好处。 
+    </details> 
+
+- 🕯 [FastFormers：实现Transformers在CPU上223倍的推理加速](https://juejin.cn/post/7155086658780528676) | Sun Oct 16 2022 12:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    使用多头注意力的Transform在cpu上实现222倍的加速。自BERT紧随Transformer诞生以来，几乎在所有与语言相关的任务中都占据着主导地位，无论是问答、情感分析、文本分类还是文本生成。 
+    </details> 
+
+- 🚀 [JavaScript奇怪行为大赏](https://juejin.cn/post/7155070829879885831) | Sun Oct 16 2022 11:29 AM 
     <details><summary>展开描述 ...</summary> 
     JavaScript是一种存在多种设计「缺陷」的脚本语言，这是它的缺点，也是它的强大之处。JavaScript奇怪行为，你遇到过吗 
     </details> 
 
-- 🎡 [面试突击90：过滤器和拦截器有什么区别？](https://juejin.cn/post/7155069405993369631) | Sun Oct 16 2022 11:24 AM 
+- 💪 [面试突击90：过滤器和拦截器有什么区别？](https://juejin.cn/post/7155069405993369631) | Sun Oct 16 2022 11:24 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第3天，点击查看活动详情 过滤器（Filter）和拦截器（Interceptor）都是基于 AOP（Aspect Oriented 
-    </details> 
-
-- 🕯 [Docker系列学习&lpar;18&rpar; -- docker容器网络模式](https://juejin.cn/post/7155065615290466312) | Sun Oct 16 2022 11:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第18天，点击查看活动详情 生命不息，学习不止 题外话 今天又是阳光明媚的一天，周日了，昨天玩了一圈，今天要好好休息一下，准备看看 
-    </details> 
-
-- 🚀 [【Go实现】实践GoF的23种设计模式：代理模式](https://juejin.cn/post/7155062296429985799) | Sun Oct 16 2022 10:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    代理模式为一个对象提供一种代理以控制对该对象的访问。 它是一个使用率非常高的设计模式，在现实生活中，也是很常见。 
-    </details> 
-
-- 💪 [你了解浏览器原理吗？浏览器的缓存机制及缓存策略是什么？](https://juejin.cn/post/7155061544538243108) | Sun Oct 16 2022 10:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    在前端开发中，我们追求性能和用户体验。对于一个网站，查看性能最简单的方式就是打开网站的速度。而一个好的缓存策略可以大大提升网站的性能，使得已经下载后的资源被重复利用，减少客户端和服务器之间的请求次数， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
