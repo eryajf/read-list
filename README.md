@@ -821,28 +821,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [GamerCoins &lpar;Mobile&rpar; - 一键获取游戏奖励](https://xinquji.com/posts/180528?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:37 AM 
+- 👀 [Ultra - 快速 JavaScript 包管理器](https://xinquji.com/posts/180560?utm_campaign=xinquji-rss) | Mon Oct 17 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     一键获取游戏奖励  
+     快速 JavaScript 包管理器  
     </details> 
 
-- 🥷 [List of 150+ Free Notion Templates - 找到您梦想中的 Notion 工作空间](https://xinquji.com/posts/180527?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:35 AM 
+- 🥷 [NFT Diffusion - AI 生成的 NFT 头像](https://xinquji.com/posts/180559?utm_campaign=xinquji-rss) | Mon Oct 17 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     找到您梦想中的 Notion 工作空间  
+     AI 生成的 NFT 头像  
     </details> 
 
-- 💼 [Ithire - 我们正在创造一些伟大的东西](https://xinquji.com/posts/180526?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:33 AM 
+- 💼 [manim.studio - 在这里让您的产品设计更好](https://xinquji.com/posts/180558?utm_campaign=xinquji-rss) | Mon Oct 17 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-     我们正在创造一些伟大的东西  
+     在这里让您的产品设计更好  
     </details> 
 
-- 🦅 [Nexa - 资本化和自由职业者的教育经验](https://xinquji.com/posts/180525?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:33 AM 
+- 🦅 [Gather: Your Desk Simplified - 简化办公桌的磁性组织](https://xinquji.com/posts/180557?utm_campaign=xinquji-rss) | Mon Oct 17 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-     资本化和自由职业者的教育经验  
+     简化办公桌的磁性组织  
     </details> 
 
-- 😺 [57 Seconds - 我们让您的团队的销售变得简单](https://xinquji.com/posts/180524?utm_campaign=xinquji-rss) | Sun Oct 16 2022 6:31 AM 
+- 😺 [Nifty Lottery - 赢得并增加您的网站流量](https://xinquji.com/posts/180556?utm_campaign=xinquji-rss) | Mon Oct 17 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-     我们让您的团队的销售变得简单  
+     赢得并增加您的网站流量  
     </details> 
 <!-- xinquji:END -->
