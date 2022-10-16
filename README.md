@@ -364,9 +364,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[记录]-正在远程办公的我被通知研发部需要持续 996 工作制到 11 月底](https://www.v2ex.com/t/887312#reply2) | Sun Oct 16 2022 7:49 AM
-- 🤗 [看到一个自制触摸屏拓展手机屏幕的视频，市面上有没有现成的？](https://www.v2ex.com/t/887309#reply3) | Sun Oct 16 2022 7:32 AM
-- 🎭 [就差最后一步， mac 就能基本满足我的需求了。](https://www.v2ex.com/t/887305#reply12) | Sun Oct 16 2022 7:20 AM
+- 🥸 [[记录]-正在远程办公的我被通知研发部需要持续 996 工作制到 11 月底](https://www.v2ex.com/t/887312#reply9) | Sun Oct 16 2022 7:49 AM
+- 🤗 [看到一个自制触摸屏拓展手机屏幕的视频，市面上有没有现成的？](https://www.v2ex.com/t/887309#reply5) | Sun Oct 16 2022 7:32 AM
+- 🎭 [就差最后一步， mac 就能基本满足我的需求了。](https://www.v2ex.com/t/887305#reply21) | Sun Oct 16 2022 7:20 AM
 - 🥷 [用了 aws nlb 之后偶发性 tcp 握手延迟](https://www.v2ex.com/t/887287#reply1) | Sun Oct 16 2022 5:46 AM
 - 🐵 [RGB 与 YUV 相互转换](https://www.v2ex.com/t/887286#reply1) | Sun Oct 16 2022 5:42 AM<!-- v2ex:END -->
 
