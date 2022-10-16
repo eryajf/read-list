@@ -792,29 +792,30 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [用人类细胞3D打印类脑组织块，再移植到大鼠脑内，成功接入大鼠的脑功能](http://jandan.net/p/111482) | Sun Oct 16 2022 6:16 AM 
+- 🚀 [全球首个基于国内数据的衰老评估AI显示：不快乐+孤独+失眠，生理年龄加1.65岁](http://jandan.net/p/111483) | Sun Oct 16 2022 6:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    这种影响超过了其他人口特征，包括生理性别、居住区域、婚姻状况和吸烟状况
+ 
+    </details> 
+
+- 🙉 [用人类细胞3D打印类脑组织块，再移植到大鼠脑内，成功接入大鼠的脑功能](http://jandan.net/p/111482) | Sun Oct 16 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
     以前研究培养皿里的组织，都是静态的，无法真实模拟人类的脑发育。 
     </details> 
 
-- 🙉 [今日好价 1016](http://jandan.net/p/111481) | Sun Oct 16 2022 3:21 AM 
+- 🎉 [今日好价 1016](http://jandan.net/p/111481) | Sun Oct 16 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：47 
     </details> 
 
-- 🎉 [北大校友群传出骇人听闻的消息：张益唐刚刚证明了朗道-西格尔猜想](http://jandan.net/p/111480) | Sat Oct 15 2022 2:21 PM 
+- 🐲 [北大校友群传出骇人听闻的消息：张益唐刚刚证明了朗道-西格尔猜想](http://jandan.net/p/111480) | Sat Oct 15 2022 2:21 PM 
     <details><summary>展开描述 ...</summary> 
     zsbd 
     </details> 
 
-- 🐲 [把狗狗当孩子养，狗爸妈的育儿风格会影响狗子的行为模式和性格](http://jandan.net/p/111479) | Sat Oct 15 2022 9:29 AM 
+-  [把狗狗当孩子养，狗爸妈的育儿风格会影响狗子的行为模式和性格](http://jandan.net/p/111479) | Sat Oct 15 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
     这一点和人类儿童一样，父母的育儿风格会影响孩子的成长 
-    </details> 
-
--  [前景 当AI成为老板](http://jandan.net/p/111468) | Sat Oct 15 2022 4:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    自动化的不仅仅是劳动力。管理人员也是。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
