@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Gradle-1】入门Gradle，前置必读](https://juejin.cn/post/7155109977579847710) | Sun Oct 16 2022 2:01 PM 
+- 🤗 [又实现了一个酷炫的动感激光，不来看看？](https://juejin.cn/post/7155143639302144037) | Sun Oct 16 2022 4:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 8 天，点击查看活动详情 前言 大家好，我是爱吃鱼的桶哥Z，最近比较忙，一直都没空更新文章。刚好周末了，可以好好的放松一下，顺 
+    </details> 
+
+- 🎡 [实施风险应对](https://juejin.cn/post/7155137320797077541) | Sun Oct 16 2022 3:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第17天，点击查看活动详情 前言 风险应对策略不一定能够全部清除内在风险，还可能会遗留剩余风险。 
+    </details> 
+
+- 🕯 [ULID规范解读与实现原理](https://juejin.cn/post/7155119516853207077) | Sun Oct 16 2022 2:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    前提 最近发现各个频道推荐了很多ULID相关文章，这里对ULID的规范文件进行解读，并且基于Java语言自行实现ULID，通过此实现过程展示ULID的底层原理。 ULID出现的背景 ULID全称是Un 
+    </details> 
+
+- 🚀 [大数据Hadoop之——新一代流式数据湖平台 Apache Hudi](https://juejin.cn/post/7155115479961436191) | Sun Oct 16 2022 2:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    Hudi（Hadoop Upserts Deletes and Incrementals），简称Hudi，是一个流式数据湖平台，支持对海量数据快速更新，内置表格式，支持事务的存储层、 一系列表服务、数 
+    </details> 
+
+- 💪 [【Gradle-1】入门Gradle，前置必读](https://juejin.cn/post/7155109977579847710) | Sun Oct 16 2022 2:01 PM 
     <details><summary>展开描述 ...</summary> 
     做开发这么久了，你是否对Gradle又爱又恨？是否对Gradle的配置一知半解？是否每次编译结果都像开盲盒一样？是否想知道Gradle背后执行的原理？是否也想手写Plugin？ 
-    </details> 
-
-- 🎡 [开发一个前端脚手架](https://juejin.cn/post/7155098964771995678) | Sun Oct 16 2022 1:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    开发脚手架并不复杂，主要涉及5个知识点，分别是，可执行的命令、收集交互数据、下载项目模板、模版引擎和抽象语法树，本文将逐一介绍它们 
-    </details> 
-
-- 🕯 [Markdown文件居然也可以直接作为Vue路由组件？](https://juejin.cn/post/7155089099399888910) | Sun Oct 16 2022 12:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    读完本文，你可以了解到如何通过编写一个`Vite`插件来支持使用`markdown`文件直接作为路由组件。 
-    </details> 
-
-- 🚀 [9个技巧让你的PyTorch模型训练变得飞快！](https://juejin.cn/post/7155087222268657695) | Sun Oct 16 2022 12:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    一个step by step的指南，非常的实用。 本指南从最简单的结构到最复杂的改动都有，可以使你的网络得到最大的好处。 
-    </details> 
-
-- 💪 [FastFormers：实现Transformers在CPU上223倍的推理加速](https://juejin.cn/post/7155086658780528676) | Sun Oct 16 2022 12:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    使用多头注意力的Transform在cpu上实现222倍的加速。自BERT紧随Transformer诞生以来，几乎在所有与语言相关的任务中都占据着主导地位，无论是问答、情感分析、文本分类还是文本生成。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
