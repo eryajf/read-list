@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【C/C++】1413. 逐步求和得到正数的最小值](https://juejin.cn/post/7154928916421935135) | Sun Oct 16 2022 2:18 AM 
+- 🤗 [『牛客_每日一题』反转链表](https://juejin.cn/post/7154988291505258503) | Sun Oct 16 2022 6:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    1.每日一题 2.测试案例 3.迭代法 3.1图解思路 迭代法解决链表反转的问题的常用方法。对于一个链表1-》2-》3。这里要注意的一个细节就是head是有值的，它指向的是链表的第一个节点。 我们定义 
+    </details> 
+
+- 🎡 [搭建个人知识库：Obsidian 1.0 正式发布](https://juejin.cn/post/7154930680453922824) | Sun Oct 16 2022 2:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    Obsidian是一款科研笔记和知识管理软件，最近obsidian终于抛掉beta版的帽子，开启了1.0时代。Obsidian是基于Markdown文件的本地知识管理软件，并且开发者承诺Obsidia 
+    </details> 
+
+- 🕯 [【C/C++】1413. 逐步求和得到正数的最小值](https://juejin.cn/post/7154928916421935135) | Sun Oct 16 2022 2:18 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第19天，点击查看活动详情 本文包括题目描述、题目整理、题目的解题思路以及具体的实现和代码，逐步对题目进行详细解析，深入浅出总结 
     </details> 
 
-- 🎡 [有了这个库，这些爬虫都不用亲自写了！](https://juejin.cn/post/7154928227754967048) | Sun Oct 16 2022 2:16 AM 
+- 🚀 [有了这个库，这些爬虫都不用亲自写了！](https://juejin.cn/post/7154928227754967048) | Sun Oct 16 2022 2:16 AM 
     <details><summary>展开描述 ...</summary> 
     想必大家平时可能会做一些数据分析，那么数据分析肯定就少不了数据。 数据从哪里来呢？我们可以通过网络爬虫来爬取数据，但是这个还是需要耗费一定时间的。 这时候就会有朋友说了，有没有现成的数据呢？当然有了， 
     </details> 
 
-- 🕯 [Eureka源码6-同步注册表机制](https://juejin.cn/post/7154912732658008100) | Sun Oct 16 2022 1:18 AM 
+- 💪 [Eureka源码6-同步注册表机制](https://juejin.cn/post/7154912732658008100) | Sun Oct 16 2022 1:18 AM 
     <details><summary>展开描述 ...</summary> 
     EurekaServer启动之后，需要同步集群中的所有注册表，更新预期心跳请求数，根据规则匹配计算实例状态 
-    </details> 
-
-- 🚀 [RSA攻击解密算法进阶](https://juejin.cn/post/7154895800709939237) | Sun Oct 16 2022 12:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    之前简单讲了一下RSA算法的原理以及计算方法大家有没有学会呢？今天给大家带来的是RSA算法的进阶，进阶内容不止拘泥于RSA的一般算法，也是我在平常经常遇见的类型，多了一些限制性的条件。 
-    </details> 
-
-- 💪 [FrameQueue队列分析](https://juejin.cn/post/7154801958551814174) | Sat Oct 15 2022 6:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    FFplay 播放器有两种队列，PacketQueue 跟 FrameQueue。FrameQueue 的数据就是从 PacketQueue 里面解码出来的（会经过滤镜）。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
