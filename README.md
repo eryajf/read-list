@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [即将推出的11英寸iPad Pro并不会采用mini-LED显示屏](https://www.cnbeta.com/articles/tech/1327719.htm) | Sun Oct 16 2022 5:13 PM 
+- 🕯 [新技术十分钟完成电动汽车充电](https://www.cnbeta.com/articles/science/1327721.htm) | Sun Oct 16 2022 8:01 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据发表在最新一期《自然》上的一项研究，美国宾夕法尼亚州立大学研究人员开发出一种突破性技术，将电动汽车电池的充电时间缩短为仅10分钟，这是更短充电时间和更长驾驶里程之间的破纪录组合。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [即将推出的11英寸iPad Pro并不会采用mini-LED显示屏](https://www.cnbeta.com/articles/tech/1327719.htm) | Sun Oct 16 2022 5:13 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;显示器行业分析师Ross Young今天表示，即将推出的11英寸iPad Pro将采用目前这一代机型中的LED Liquid Retina显示屏，而不是更大的12.9英寸尺寸中的较新的mini-LED显示技术。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果macOS Ventura预计将在10月的最后一周推出](https://www.cnbeta.com/articles/tech/1327717.htm) | Sun Oct 16 2022 5:09 PM 
+- 💂 [苹果macOS Ventura预计将在10月的最后一周推出](https://www.cnbeta.com/articles/tech/1327717.htm) | Sun Oct 16 2022 5:09 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据彭博社记者Mark Gurman报道，苹果公司计划在10月24日这一周与iPadOS 16一起发布macOS Ventura。Gurman在他的最新通讯中说，macOS Ventura的第一个版本增加了对新的14英寸和16英寸MacBook Pro机型的支持，这些机型预计将在&amp;quot;不久的将来&amp;quot;发布。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [食草动物的眼睛在两边 食肉动物的却在前面：为什么?](https://www.cnbeta.com/articles/science/1327715.htm) | Sun Oct 16 2022 5:03 PM 
+- 🚀 [食草动物的眼睛在两边 食肉动物的却在前面：为什么?](https://www.cnbeta.com/articles/science/1327715.htm) | Sun Oct 16 2022 5:03 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;如果你去动物园里，观看一些我们熟悉的动物的话，你可能会发现，&lt;strong&gt;那些食草动物的眼睛基本是在两侧，而那些食肉动物的眼睛则基本在前面。&lt;/strong&gt;所以，我们经常会认为两只眼睛长在正前方的就是食肉动物，而长两边的就是食草动物。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [这位高中生发明的电动机 可能要引发电车革命](https://www.cnbeta.com/articles/tech/1327713.htm) | Sun Oct 16 2022 5:03 PM 
+- 🎊 [这位高中生发明的电动机 可能要引发电车革命](https://www.cnbeta.com/articles/tech/1327713.htm) | Sun Oct 16 2022 5:03 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;17 岁的时候你在干嘛？做不完的习题，打不够的篮球，看不腻的 ta ？&lt;strong&gt;美国小伙子罗伯特&amp;nbsp;·&amp;nbsp;桑松（&amp;nbsp;Robert Sansone&amp;nbsp;）的&amp;nbsp;17&amp;nbsp;岁，手搓了个汽车电动机，直接拿到了被誉为科技界青少年世界杯的 IEFS 冠军和 75000&amp;nbsp;美元的奖金。&lt;/strong&gt;他的研究还被媒体称作，“&amp;nbsp;可能发明了一个会改变电动汽车行业的电机&amp;nbsp;”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [荣耀畅玩40 Plus真机照泄露：经典双环、双曲面后盖](https://www.cnbeta.com/articles/tech/1327711.htm) | Sun Oct 16 2022 5:01 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月17日消息，博主“旺仔百事通”放出了荣耀新机畅玩40 Plus的真机照。从图片可以看出，&lt;strong&gt;该机后摄依旧采用了家族式的ID设计，双环后摄极具辨识度&lt;/strong&gt;，一眼就可以认出这是荣耀的机器。与上一代相比，其闪光灯由圆环内部移到了镜头模组左侧。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
