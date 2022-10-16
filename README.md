@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [融合戏曲与歌剧，蒲松龄的《画皮》被改编成美国当代故事](https://hot.cnbeta.com/articles/music/1327653.htm) | Sun Oct 16 2022 8:15 AM 
+- 🕯 [Google宣布推出KataOS操作系统 利用Rust和seL4微内核](https://www.cnbeta.com/articles/tech/1327663.htm) | Sun Oct 16 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;纽约中国当代音乐节已经举办到第五届，音乐节艺术总监蔡金冬是美国最为活跃的中国指挥家之一，他将传播中国当代音乐视为人生后半程的重要事业。美国当地时间10月15日晚，中国作曲家郝维亚的室内歌剧《画皮》首场公演在纽约上州的哈德逊歌剧院收官，当66岁的指挥家蔡金冬携导演迈克尔·霍夫曼及三位歌剧演员登台谢幕时，台下掌声雷动。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1327653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Google本周宣布发布KataOS（开发代号Sparrow）作为他们最新专注于运行环境侧重于机器学习工作负载的嵌入式设备的操作系统。&lt;/strong&gt;KataOS从设计上就具备安全意识，专门使用Rust编程语言，并建立在seL4微内核的基础之上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [迪士尼探险家协会S.E.A.将制电影 瑞安确定担任制片人](https://hot.cnbeta.com/articles/movie/1327651.htm) | Sun Oct 16 2022 8:13 AM 
+- 💼 [林志颖车祸后首现身 汽车博主：有人在说谎](https://www.cnbeta.com/articles/tech/1327661.htm) | Sun Oct 16 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;擅长发掘自身IP的迪士尼又将 推出“全新”IP系列了，继《加勒比海盗》等之后，来自东京迪士尼海洋的神秘组织Society of Explorers and Adventurers即将拍摄电影，“死侍”瑞安•雷诺兹已经确定担任制片人。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在10月15日、48岁生日当天，因为车祸远离公共视线很久的林颖现身亮相，并表示“不要再担心我，大家都要健康快乐。”林志颖看起来有些瘦削，但精神状况不错。对于7月份的车祸，媒体称，林志颖也做出回应，有一些细节记不起了，但是确定车祸前系了安全带，因为不系安全带这辆车会一路狂叫无法安宁。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《微软飞行模拟》升级档将支持FSR 2.0和DLSS 3](https://hot.cnbeta.com/articles/game/1327649.htm) | Sun Oct 16 2022 8:12 AM 
+- 💂 [开发者怒斥微软Xbox：指责XSS限制了一整代游戏发展](https://hot.cnbeta.com/articles/game/1327659.htm) | Sun Oct 16 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软近日宣布，《微软飞行模拟》新版beta升级档即将发布，将为AMD FSR 2.0和NVIDIA DLSS 3提供支持。Beta升级档1.29.22.0将为DX12提供全新内存碎片管理系统，防止显存溢出。另外，该补丁还将优化大气层模拟，针对上升气流模拟和流体力学计算进行优化和调整。升级档还将修复部分崩溃问题。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;众所周知，微软在次世代游戏主机上选择了以索尼截然不同的战略，除了性能达到目前天花板的Xbox Series X外，还推出了一款“缩水”版的Xbox Series S。作为目前最便宜的次世代主机，XSS成为了不少新玩家接触游戏主机的契机，但却一直就开发者毫不掩饰对这款主机的不满。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [富坚义博公布最新原稿 疑似《全职猎人》暗黑大陆](https://hot.cnbeta.com/articles/comic/1327647.htm) | Sun Oct 16 2022 8:12 AM 
+- 🚀 [研究表明COVID-19引起的心肌炎风险比疫苗大7倍](https://www.cnbeta.com/articles/tech/1327657.htm) | Sun Oct 16 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;备受关注的《全职猎人》漫画即将在阔别粉丝3年多，10月24日连载再开了，日前富坚义博依然在坚持公布原告进度，16日今天放出了看似模糊实则精细的新原稿，粉丝惊呼画功依然厉害，或疑似《全职猎人》暗黑大陆一景。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1327647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据宾夕法尼亚州立医学院科学家最近的一项研究，感染COVID-19后，患心肌炎的风险比接种COVID-19疫苗后高七倍。心肌炎患者的症状各不相同，取决于他们目前的心血管健康状况、炎症的严重程度和其他因素。他们经常会出现胸痛、呼吸急促或心跳不规律的症状。在严重的情况下，心肌炎可导致心脏衰竭和死亡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [育碧新游Project U就是《探路者》 游戏新细节泄露](https://hot.cnbeta.com/articles/game/1327645.htm) | Sun Oct 16 2022 8:12 AM 
+- 🎊 [一些与表情符号有关的搜索关键词会让Google服务器出错](https://www.cnbeta.com/articles/tech/1327655.htm) | Sun Oct 16 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;育碧合作射击游戏新作Project U已经于10月14日进入封闭测试阶段。最近有泄露信息证实，育碧安纳西公司已经在此项目中投入多年时间。而且这款游戏的部分功能结构与育碧旗下已停服的大逃杀游戏《超猎都市》有些相似。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;表情符号--你要么喜欢它们，要么讨厌它们，而目前看来，Google不喜欢它们的程度相当高。感到困惑的网友报告说，进行某些有关表情符号的搜索会导致Google超时，并显示一个服务器错误。这个奇怪的问题还没有得到解释，但有一些关于发生了什么的理论被提出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
