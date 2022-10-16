@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [pycharm 导入错误&lpar;ImportError: cannot import name &#39;launch&#39; from partially initialized module &#39;pyppeteer&#39;&rpar;](https://www.v2ex.com/t/887383#reply1) | Sun Oct 16 2022 3:10 PM
-- 🤗 [给从事数据开发的同学们分享一下来自真实项目的数据管理经验](https://www.v2ex.com/t/887377#reply0) | Sun Oct 16 2022 2:20 PM
-- 🎭 [初试 Pyppeteer 爬虫, 直接访问不了网页, Help me pls...](https://www.v2ex.com/t/887376#reply5) | Sun Oct 16 2022 2:16 PM
-- 🥷 [给网页全屏视频时加一个过渡动画好不好实现](https://www.v2ex.com/t/887371#reply1) | Sun Oct 16 2022 1:53 PM
-- 🐵 [0 基础设计自学转码，挑战 30 天看完犀牛书。](https://www.v2ex.com/t/887364#reply9) | Sun Oct 16 2022 1:26 PM<!-- v2ex:END -->
+- 🥸 [YUV 数据分析](https://www.v2ex.com/t/887396#reply0) | Sun Oct 16 2022 4:14 PM
+- 🤗 [还有没有那种百十块钱买 10 年的腾讯云、阿里云优惠路子？](https://www.v2ex.com/t/887392#reply3) | Sun Oct 16 2022 3:58 PM
+- 🎭 [pycharm 导入错误&lpar;ImportError: cannot import name &#39;launch&#39; from partially initialized module &#39;pyppeteer&#39;&rpar;](https://www.v2ex.com/t/887383#reply1) | Sun Oct 16 2022 3:10 PM
+- 🥷 [给从事数据开发的同学们分享一下来自真实项目的数据管理经验](https://www.v2ex.com/t/887377#reply0) | Sun Oct 16 2022 2:20 PM
+- 🐵 [初试 Pyppeteer 爬虫, 直接访问不了网页, Help me pls...](https://www.v2ex.com/t/887376#reply6) | Sun Oct 16 2022 2:16 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
