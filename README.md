@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [『牛客_每日一题』反转链表](https://juejin.cn/post/7154988291505258503) | Sun Oct 16 2022 6:09 AM 
+- 🤗 [还不会用 TS 封装 Axiso？我教你啊](https://juejin.cn/post/7154991998989959181) | Sun Oct 16 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-    1.每日一题 2.测试案例 3.迭代法 3.1图解思路 迭代法解决链表反转的问题的常用方法。对于一个链表1-》2-》3。这里要注意的一个细节就是head是有值的，它指向的是链表的第一个节点。 我们定义 
+    本文将从泛型入手，然后了解 Axios 中的部分类型，延续 JS 版本的极简风，教你封装出一个可用的清爽版 Axios。 
     </details> 
 
-- 🎡 [高性能图片优化方案](https://juejin.cn/post/7154949546882105374) | Sun Oct 16 2022 3:39 AM 
+- 🎡 [实现PXE批量网络装机及kickstrat无人值守安装](https://juejin.cn/post/7154956693439250440) | Sun Oct 16 2022 4:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    PXE概述和部署PXE批量装机 PXE简介 PXE（预启动执行环境，在操作系统之前运行）是由Intel公司开发的网络引导技术，c/s架构，允许客户机通过网络从远程服务器下载引导镜像，并加载安装文件或者 
+    </details> 
+
+- 🕯 [Spring源码解读『Bean扩展接口』](https://juejin.cn/post/7154955068146450462) | Sun Oct 16 2022 4:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第17天，点击查看活动详情 上篇文章我们介绍了Spring Bean的初始化流程，在最后我们提到在通过populateBean方法 
+    </details> 
+
+- 🚀 [Chromium 渲染流水线——字节码到像素的一生](https://juejin.cn/post/7154953254399393806) | Sun Oct 16 2022 3:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文将深入介绍 Chromium 内核组成结构，并以渲染流水线为主线，从接收字节码开始，按渲染流程来一步一步分析这个字节码究竟是如何转变成屏幕上的像素点的。 
+    </details> 
+
+- 💪 [高性能图片优化方案](https://juejin.cn/post/7154949546882105374) | Sun Oct 16 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
     目录介绍 01.图片基础概念介绍 1.1 图片占用内存介绍 1.2 加载网络图片流程 1.3 三方库加载图片逻辑 1.4 从网络直接拉取图片 1.5 加载图片的流程 1.6 Bitmap能直接存储吗  
-    </details> 
-
-- 🕯 [不要因bundle size太大责备开发者](https://juejin.cn/post/7154948728871190535) | Sun Oct 16 2022 3:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 大家好我是飞叶，一个前端UP主，最近外网有个新的SSR框架Qwik比较火，GitHub上它的仓库star数以每天100的速度在增长，今天就通过翻译一篇文章来引入QWIK。 当然如果你不想读这些， 
-    </details> 
-
-- 🚀 [Compose 动画艺术探索之灵动岛](https://juejin.cn/post/7154944949132197924) | Sun Oct 16 2022 3:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    说起灵动岛，大家肯定都不陌生，这是苹果14中算是最大的更新了，能在缺点上玩出花，这个产品思路确实厉害👍，灵动岛看着挺炫，其实实现并不复杂，今天带大家来使用Compose实现属于安卓的灵动岛！！！ 
-    </details> 
-
-- 💪 [搭建个人知识库：Obsidian 1.0 正式发布](https://juejin.cn/post/7154930680453922824) | Sun Oct 16 2022 2:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    Obsidian是一款科研笔记和知识管理软件，最近obsidian终于抛掉beta版的帽子，开启了1.0时代。Obsidian是基于Markdown文件的本地知识管理软件，并且开发者承诺Obsidia 
     </details> 
 <!-- juejin:END -->
 ### 少数派
