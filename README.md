@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CV攻城狮入门VIT&lpar;vision transformer&rpar;之旅——VIT代码实战篇](https://juejin.cn/post/7155291186796691469) | Mon Oct 17 2022 1:44 AM 
+- 🤗 [DCNv2回顾，可变形卷积网络升级版，可用于各种视觉相关任务](https://juejin.cn/post/7155292168804892680) | Mon Oct 17 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-    本文为大家介绍了VIT的源码部分，针对流程图为大家梳理整个VIT搭建的过程，让你也能够独立搭建VIT模型，快来一起学学吧！！！ 
+    对DCN，DCNv1进行了升级，更多的可变形，更好的结果。本文回顾了由中国科技大学和微软亚洲研究院&lpar;MSRA&rpar;联合发布的Deformable ConvNets v2 &lpar;DCNv2&rpar; 。 
     </details> 
 
-- 🎡 [Lazada D11 体验升级技术实践](https://juejin.cn/post/7155285199679389733) | Mon Oct 17 2022 1:21 AM 
+- 🎡 [医学图像分割：UNet++](https://juejin.cn/post/7155290377887416350) | Mon Oct 17 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情作者：余浩斐&lpar;浩斐&rpar;拥有 6.8 亿人口的东南亚市场正在经历爆发式增长，作为东南亚领先的电商平台和阿里巴 
+    使用一系列的网格状的密集跳跃路径来提升分割的准确性。UNet++的目标是通过在编码器和解码器之间加入Dense block和卷积层来提高分割精度。 
     </details> 
 
-- 🕯 [HPC、AI与云计算：当智能时代三叉戟在亚马逊云科技完美融合](https://juejin.cn/post/7155285068838076424) | Mon Oct 17 2022 1:20 AM 
+- 🕯 [Compose 的 Navigation 很难用？我给你封装一个超好用的！](https://juejin.cn/post/7155289564775448607) | Mon Oct 17 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情希腊神话中，海神与丰收之神波塞冬手持三叉戟，为航船保驾护航，为农人带来清泉。从此之后，三叉戟经常用来比喻 
+    Navigation 组件支持 Jetpack Compose 应用。我们可以在利用 Navigation 组件的基础架构和功能，在可组合项之间导航。然而，在项目中使用之后，我发现这个组件真的不好用： 
     </details> 
 
-- 🚀 [H3C校园网双出口配置](https://juejin.cn/post/7155280859333918734) | Mon Oct 17 2022 1:04 AM 
+- 🚀 [精读《Headless 组件用法与原理》](https://juejin.cn/post/7155287102119706637) | Mon Oct 17 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情在前面文章中介绍了Cisco与华为设备的相关配置与应用，最后通过一个企业级的案例理解H3C的具体应用。 
+    Headless 组件即无 UI 组件，框架仅提供逻辑，UI 交给业务实现。这样带来的好处是业务有极大的 UI 自定义空间，而对框架来说，只考虑逻辑可以让自己更轻松的覆盖更多场景，满足更多开发者不同的 
     </details> 
 
-- 💪 [502问题怎么排查？](https://juejin.cn/post/7155280646112280613) | Mon Oct 17 2022 1:03 AM 
+- 💪 [我用canvas带你看一场流星雨](https://juejin.cn/post/7155284391596392461) | Mon Oct 17 2022 1:18 AM 
     <details><summary>展开描述 ...</summary> 
-    刚工作那会，有一次，上游调用我服务的老哥说，你的服务报&quot;502错误了，快去看看是为什么吧&quot;。 当时那个服务里正好有个调用日志，平时会记录各种200,4xx状态码的信息。于是我跑到服务日志里去搜索。。。 
+    今天，我决定用canvas为大家带来一场流星雨视觉盛宴。昙花和流星瞬间之美令我无法忘怀，大自然神奇的造物者给了我们许多的美，不论瞬间的还是永恒的，我们都要用真心去欣赏去品味。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
