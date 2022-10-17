@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端脚手架搭建-6](https://juejin.cn/post/7155455932271427592) | Mon Oct 17 2022 12:24 PM 
+- 🤗 [WebCodecs视频导出实践](https://juejin.cn/post/7155463807115116574) | Mon Oct 17 2022 12:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    背景 Web视频编辑器即基于浏览器的视频编辑工具，可以实现视频拼接、滤镜等功能点，一般包含视频导入、预览和导出功能。在众多编辑器中，绝大部分编辑器选择了服务端导出，因为服务端编解码能力更强，导出速度更 
+    </details> 
+
+- 🎡 [怎么微信浏览器里 打开APP](https://juejin.cn/post/7155463475446333453) | Mon Oct 17 2022 12:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近在做一个需求，希望在微信浏览器里打开 h5 页面，然后直接唤起自家的 APP。搜索一番，发现微信早在 2020 年就开放一个标签，用于打开 APP，再也不需要干儿子了。 没有太多研究时间，大致说下 
+    </details> 
+
+- 🕯 [前端脚手架搭建-6](https://juejin.cn/post/7155455932271427592) | Mon Oct 17 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第17天，点击查看活动详情 初始化项目 1.创建项目 2.创建入口文件 3.编写命令 4.本地软链 检查Node版本 1.新建li 
     </details> 
 
-- 🎡 [react项目代码比对插件使用优化记录](https://juejin.cn/post/7155448577970896904) | Mon Oct 17 2022 11:55 AM 
+- 🚀 [react项目代码比对插件使用优化记录](https://juejin.cn/post/7155448577970896904) | Mon Oct 17 2022 11:55 AM 
     <details><summary>展开描述 ...</summary> 
     react code diff ，代码diff、日志diff展示插件小优化，增加两侧比对代码同步滚动等功能 
     </details> 
 
-- 🕯 [Eureka源码7-Server端&lpar;处理服务注册请求&rpar;](https://juejin.cn/post/7155444032183730213) | Mon Oct 17 2022 11:37 AM 
+- 💪 [Eureka源码7-Server端&lpar;处理服务注册请求&rpar;](https://juejin.cn/post/7155444032183730213) | Mon Oct 17 2022 11:37 AM 
     <details><summary>展开描述 ...</summary> 
     EurekaServer注册表详解，服务注册源码入口，注册表注册核心步骤register方法源码解析 
-    </details> 
-
-- 🚀 [前端食堂技术周刊第 55 期：Rollup v3.0.0、Volar 1.0 Nika、TypeScript 十年、2022 Web 网络年鉴、JavaScri](https://juejin.cn/post/7155435611619328036) | Mon Oct 17 2022 11:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    - Rollup v3.0.0 - Volar 1.0 Nika - TypeScript 十年，不忘初心 - 2022 Web 网络年鉴 - Resumable vs. Hydration - 
-    </details> 
-
-- 💪 [阿里面试官：如何给所有的async函数添加try/catch？](https://juejin.cn/post/7155434131831128094) | Mon Oct 17 2022 10:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    三面的时候被问到了这个问题，当时思路虽然正确，可惜表述的不够清晰 后来花了一些时间整理了下思路，那么如何实现给所有的async函数添加try/catch呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
