@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [微软语音在线合成](https://juejin.cn/post/7155374327276257316) | Mon Oct 17 2022 7:07 AM 
+- 🤗 [FFplay序列号分析](https://juejin.cn/post/7155351642731855909) | Mon Oct 17 2022 5:39 AM 
     <details><summary>展开描述 ...</summary> 
-    中文语言支持如下： 区域设置 &lpar;BCP-47&rpar; 语言 语音转文本 自定义语音识别支持 文本转语音声音 神经网络定制声音 zh-CN 中文（普通话，简体） zh-CN 音频 + 人工标记的脚本 纯文本  
+    在之前的几篇文章里面，都零零散散提及过序列号这个概念。但是 序列号 这个概念对于 FFplay 播放器 非常重要的，很多代码都跟序列号有关。所以单独写一篇文章介绍序列号。 序列号 主要是给 快进快退 
     </details> 
 
-- 🎡 [深入理解 Spring Cloud Gateway 的原理](https://juejin.cn/post/7155324185290473485) | Mon Oct 17 2022 3:52 AM 
+- 🎡 [会用 Performance 工具，就能深入理解 Event Loop](https://juejin.cn/post/7155350299295612941) | Mon Oct 17 2022 5:35 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 你好，我是悟空。 本篇给大家带来的是微服务框架中非常重要的一个组件 API 网关。 本文已收录至《深入剖析 Spring Cloud 底层架构原理》 所有文章已同步至 h 
+    网页加载后，浏览器会解析 html、执行 js、渲染 css，这些工作都是在 Event Loop 里完成的，理解了 Event Loop 就能理解网页的运行流程。 但很多人对 Event Loop  
     </details> 
 
-- 🕯 [Luminar Neo 教程，如何在 Luminar Neo 中添加用于编辑的图像文件夹？](https://juejin.cn/post/7155320038877036552) | Mon Oct 17 2022 3:37 AM 
+- 🕯 [老司机 iOS 周报 #219 | 2022-10-17](https://juejin.cn/post/7155348188688285710) | Mon Oct 17 2022 5:26 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo的基本工具和使用技巧，了解如何在 Luminar Neo 中添加用于编辑的图像文件夹。 
+    老司机 iOS 周报，只为你呈现有价值的信息。 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎 
     </details> 
 
-- 🚀 [年度大促将至，企业如何进行性能压测](https://juejin.cn/post/7155316804473061407) | Mon Oct 17 2022 3:24 AM 
+- 🚀 [从局部变量说起，关于一个莫得名堂的引用和一个坑！](https://juejin.cn/post/7155334298084573198) | Mon Oct 17 2022 4:33 AM 
     <details><summary>展开描述 ...</summary> 
-    随着无线设备的普及和 5G 的大力建设，越来越多的线上系统、小程序成为了人们生活中必不可少的工具。与此同时，年底各类大促活动接踵而至，对于这些电商软件而言，都会面对一个问题：系统能承受多少用户同时访问 
+    你好呀，我是歪歪。 今天带大家盘一个有点意思的基础知识啊。 有多基础呢，先给你上个代码： 请问，上面代码中，位于 method 方法中的 object 对象，在方法执行完成之后，是否可以被垃圾回收？  
     </details> 
 
-- 💪 [Java&amp;C++题解与拓展——leetcode904.水果成篮【么的新知识】](https://juejin.cn/post/7155315083826954248) | Mon Oct 17 2022 3:17 AM 
+- 💪 [Elastic 在 SIEM 市场继续获得动力](https://juejin.cn/post/7155327624892383240) | Mon Oct 17 2022 4:06 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode904.水果成篮解题思路，用Java和C++两种语言分别编写，并对所使用类和方法进行学习记录。 
+    作者：Mike Nichols，Mike Paquette Elastic 仅在市场上推出了两年就成功交付了领先的安全信息和事件管理 &lpar;SIEM&rpar; 产品。 根据 IDC 2021 年全球安全信息和事件 
     </details> 
 <!-- juejin:END -->
 ### 少数派
