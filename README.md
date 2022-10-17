@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Cybersling Crossbody Bag - 你一直在等待的吊索](https://xinquji.com/posts/180561?utm_campaign=xinquji-rss) | Mon Oct 17 2022 6:32 AM 
+- 👀 [Dastia - 跟踪、路由和自动化潜在客户](https://xinquji.com/posts/180600?utm_campaign=xinquji-rss) | Tue Oct 18 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     你一直在等待的吊索  
+     跟踪、路由和自动化潜在客户  
     </details> 
 
-- 🥷 [Ultra - 快速 JavaScript 包管理器](https://xinquji.com/posts/180560?utm_campaign=xinquji-rss) | Mon Oct 17 2022 6:29 AM 
+- 🥷 [Bells and Wishes - 在线团体贺卡，非常适合办公场合](https://xinquji.com/posts/180599?utm_campaign=xinquji-rss) | Tue Oct 18 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     快速 JavaScript 包管理器  
+     在线团体贺卡，非常适合办公场合  
     </details> 
 
-- 💼 [NFT Diffusion - AI 生成的 NFT 头像](https://xinquji.com/posts/180559?utm_campaign=xinquji-rss) | Mon Oct 17 2022 6:28 AM 
+- 💼 [Master Playbook for Tiktok - 关于在 Tiktok 上成长所需的一切的详细指南](https://xinquji.com/posts/180598?utm_campaign=xinquji-rss) | Tue Oct 18 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     AI 生成的 NFT 头像  
+     关于在 Tiktok 上成长所需的一切的详细指南  
     </details> 
 
-- 🦅 [manim.studio - 在这里让您的产品设计更好](https://xinquji.com/posts/180558?utm_campaign=xinquji-rss) | Mon Oct 17 2022 6:27 AM 
+- 🦅 [RMNDM - 语音笔记和提醒应用程序](https://xinquji.com/posts/180597?utm_campaign=xinquji-rss) | Tue Oct 18 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     在这里让您的产品设计更好  
+     语音笔记和提醒应用程序  
     </details> 
 
-- 😺 [Gather: Your Desk Simplified - 简化办公桌的磁性组织](https://xinquji.com/posts/180557?utm_campaign=xinquji-rss) | Mon Oct 17 2022 6:26 AM 
+- 😺 [Magicul X - Design File Editor - 免费在线编辑 Adob​​e XD 和 Figma 文件](https://xinquji.com/posts/180596?utm_campaign=xinquji-rss) | Tue Oct 18 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     简化办公桌的磁性组织  
+     免费在线编辑 Adob​​e XD 和 Figma 文件  
     </details> 
 <!-- xinquji:END -->
