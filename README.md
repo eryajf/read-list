@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Linux 哪种桌面环境对多屏支持最好？](https://www.v2ex.com/t/887419#reply6) | Mon Oct 17 2022 1:47 AM
-- 🤗 [Win11 一个非常难受的细节](https://www.v2ex.com/t/887417#reply13) | Mon Oct 17 2022 1:39 AM
-- 🎭 [Tg 如何在开源客户端时判断是否官方客户端？能不能通过提取官方客户端的 apihash 或类似标识数据来伪造官方客户端？自己产品有类似的需求，在开源客户端同时对第三方客户端加入一些额外的风控，想看看有什么好的实现。](https://www.v2ex.com/t/887416#reply5) | Mon Oct 17 2022 1:29 AM
-- 🥷 [我准备写个「协作广场」方便找队友、找事做……](https://www.v2ex.com/t/887409#reply10) | Mon Oct 17 2022 1:14 AM
-- 🐵 [vscode 中的 workspace 在实践中使用广泛吗?](https://www.v2ex.com/t/887405#reply12) | Mon Oct 17 2022 1:11 AM<!-- v2ex:END -->
+- 🥸 [问一下大佬，有没有好一点的数据库管理字段的说明文档。](https://www.v2ex.com/t/887483#reply1) | Mon Oct 17 2022 4:28 AM
+- 🤗 [Ansible 出现&quot;Failed to validate the SSL certificate&quot;](https://www.v2ex.com/t/887480#reply0) | Mon Oct 17 2022 4:15 AM
+- 🎭 [android 录屏时添加遮罩层 应该怎么实现？？](https://www.v2ex.com/t/887461#reply7) | Mon Oct 17 2022 3:20 AM
+- 🥷 [Windows 上有那些程序或插件可以将图片切片成拼图](https://www.v2ex.com/t/887453#reply3) | Mon Oct 17 2022 3:09 AM
+- 🐵 [蒙特利尔-零基础转码，挑战 2023.2.9 找到实习](https://www.v2ex.com/t/887452#reply9) | Mon Oct 17 2022 3:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
