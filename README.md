@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：英伟达取消受争议的 RTX 4080 12GB 版；Razer 发布 Android 系统掌机 Edge](https://sspai.com/post/76206) | Mon Oct 17 2022 12:47 AM 
+- 👹 [全平台、更智能，老牌邮件应用 Spark 推出 3.0 大更新](https://sspai.com/post/76214) | Mon Oct 17 2022 3:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果你正在物色一款免费、好用的邮件客户端，那么不妨来看看更新完 3.0 大版本的 Spark 是否能够满足你的需求。&lt;a href=&quot;https://sspai.com/post/76214&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：英伟达取消受争议的 RTX 4080 12GB 版；Razer 发布 Android 系统掌机 Edge](https://sspai.com/post/76206) | Mon Oct 17 2022 12:47 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事英伟达取消受争议的RTX408012GB版10月14日，英伟达通过官方网站表示将取消此前备受争议的RTX408012GB版。英伟达原本在九月底发布了新品RTX4090和RTX4080 ...&lt;a href=&quot;https://sspai.com/post/76206&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [编程新手如何远离「依赖冲突」？盘点 Python 虚拟环境搭建方案](https://sspai.com/post/75978) | Sun Oct 16 2022 6:58 AM 
+- 🤭 [编程新手如何远离「依赖冲突」？盘点 Python 虚拟环境搭建方案](https://sspai.com/post/75978) | Sun Oct 16 2022 6:58 AM 
     <details><summary>展开描述 ...</summary> 
     在 Python 社区生态里，我们可以有多种方式去创建一个干净虚拟环境，本小节笔者主要会简单介绍四个热门解决方案。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/75978&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/271&quot; target=&quot;_blank&quot;&gt;《100 小时后请叫我程序员》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [是什么让任天堂成为换壳之王？](https://sspai.com/post/76205) | Sun Oct 16 2022 3:50 AM 
+- 🥸 [是什么让任天堂成为换壳之王？](https://sspai.com/post/76205) | Sun Oct 16 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     DS Lite 的各种改进实打实的将玩家的游戏体验提升了一个量级——用一句话来形容就是「唯一的不同，是处处都不同」。&lt;a href=&quot;https://sspai.com/post/76205&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [从配色选择到系统功能妙用：这些技巧让 iPhone 更有个性](https://sspai.com/post/76168) | Sat Oct 15 2022 9:00 AM 
+- 🙉 [从配色选择到系统功能妙用：这些技巧让 iPhone 更有个性](https://sspai.com/post/76168) | Sat Oct 15 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
     除了换壁纸和手机壳，这些方式也能让你的 iPhone 化身可爱精灵。&lt;a href=&quot;https://sspai.com/post/76168&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [前瞻：也许没有发布会的十月，我们还能期待哪些 Apple 新品？](https://sspai.com/post/76191) | Sat Oct 15 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    少数派为大家搜集了一些有关于 10 月 Apple 新品的爆料消息，也许能引起你的换机欲望。&lt;a href=&quot;https://sspai.com/post/76191&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
