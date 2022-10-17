@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [拐点已至 我国第一大淡水湖水域面积开始恢复](https://www.cnbeta.com/articles/tech/1327999.htm) | Mon Oct 17 2022 9:32 AM 
+- 🕯 [厂商展示锐龙5 7600X性能时主板温度飙上152℃ 可能是BUG](https://www.cnbeta.com/articles/tech/1328001.htm) | Mon Oct 17 2022 9:58 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;AMD日前在印度孟买举办体验活动，联合众多主板厂商对外展示Zen4架构锐龙7000处理器的表现。不过，&lt;strong&gt;NBCheck在现场发现有趣一幕，在一张技嘉X670E平台上运行的锐龙5 7600X，显示芯片组温度高达152.6℃。&lt;/strong&gt;对此，厂商回应称，可能是BUG。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [拐点已至 我国第一大淡水湖水域面积开始恢复](https://www.cnbeta.com/articles/tech/1327999.htm) | Mon Oct 17 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;由于遭遇严重干旱，我国第一大淡水湖鄱阳湖的水域面积创下了历史新低，部分河段甚至干涸，露出了河床，现在鄱阳湖的拐点终于来了，水域面积开始恢复。据央视报道，记者从江西省生态气象中心获悉，通过最新一次卫星遥感监测，&lt;strong&gt;鄱阳湖水域面积较前期增加了105平方公里已达至705平方公里。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [消息称下一款一加高端机型将去掉Pro 命名为OnePlus 11](https://www.cnbeta.com/articles/tech/1327997.htm) | Mon Oct 17 2022 9:27 AM 
+- 💂 [消息称下一款一加高端机型将去掉Pro 命名为OnePlus 11](https://www.cnbeta.com/articles/tech/1327997.htm) | Mon Oct 17 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;在经历了忙碌的一年后，OnePlus正在为2023年做准备。我们已经开始听到关于下一个旗舰机的传言和报道，据推测新机将被称为OnePlus 11 Pro。&lt;strong&gt;与它的前辈一样，这款手机预计将在2023年1月推出。然而，可能会有更多惊喜给我们。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [支付宝可以转账给微信好友？网友实际体验：但没完全转](https://www.cnbeta.com/articles/tech/1327995.htm) | Mon Oct 17 2022 9:22 AM 
+- 🚀 [支付宝可以转账给微信好友？网友实际体验：但没完全转](https://www.cnbeta.com/articles/tech/1327995.htm) | Mon Oct 17 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;近日一条“支付宝已支持给微信QQ好友转账”占据热搜，有网友发现支付宝居然可以转账给微信好友。&lt;strong&gt;不过通过实际测试发现，支付宝转账微信好友并不是直接转账，而是输入金额后会生成一个二维码，然后发在微信或是QQ可以扫码领取，对方领取到自己的支付宝账户，&lt;/strong&gt;超过24小时未领取会自动退回。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [仅凭DNA还原嫌疑犯3D人脸 加拿大警方一通操作却被网友骂惨了](https://www.cnbeta.com/articles/tech/1327993.htm) | Mon Oct 17 2022 9:22 AM 
+- 🎊 [仅凭DNA还原嫌疑犯3D人脸 加拿大警方一通操作却被网友骂惨了](https://www.cnbeta.com/articles/tech/1327993.htm) | Mon Oct 17 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;只凭 DNA 就还原出罪犯的长相，还是 &lt;strong&gt;3D 版&lt;/strong&gt;的？没错，只需要一个 AI 模型，就能还原出这人的&lt;strong&gt;年龄、肤色、瞳色&lt;/strong&gt;&lt;strong&gt;、甚至整个 3D 头像&lt;/strong&gt;……即使在此之前，没有任何人目击过这个嫌疑犯也没关系，用它合成的照片直接就能&lt;strong&gt;发布通缉令&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [三星显示：与OLED面板相比 MicroLED面板可能用于AR设备](https://www.cnbeta.com/articles/tech/1327991.htm) | Mon Oct 17 2022 9:21 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，三星电子旗下面板制造商三星显示（Samsung Display）的一位高管表示，与OLED显示面板相比，MicroLED面板可能用于增强现实（AR）设备。三星显示集团领导人Kim Min-woo表示，这是因为AR设备需要高亮度，这将需要开发新的发光二极管，而OLED无法实现。与LED相比，OLED的亮度水平传统上较低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
