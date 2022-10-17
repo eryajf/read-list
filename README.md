@@ -792,30 +792,30 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [好消息 天文学家认为他们已经可以提前预警超新星爆发](http://jandan.net/p/111489) | Mon Oct 17 2022 4:18 AM 
+- 🚀 [往北极撒上一层玻璃球，提高阳光反射率的做法，会适得其反](http://jandan.net/p/111492) | Mon Oct 17 2022 5:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    对赌博风险极高且基本上未经测试的地球工程，需要严格审查 
+    </details> 
+
+- 🙉 [好消息 天文学家认为他们已经可以提前预警超新星爆发](http://jandan.net/p/111489) | Mon Oct 17 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
     如果是“本地”的超新星，我们人类既无法阻止也没能力逃跑，但现在，起码能提前知道会怎么没的了 
     </details> 
 
-- 🙉 [今日好价 1017](http://jandan.net/p/111490) | Mon Oct 17 2022 4:06 AM 
+- 🎉 [今日好价 1017](http://jandan.net/p/111490) | Mon Oct 17 2022 4:06 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：34 
     </details> 
 
-- 🎉 [刚才，如果用Google搜索若干带“emojis”的短语，就会返回“服务器错误”](http://jandan.net/p/111488) | Sun Oct 16 2022 3:54 PM 
+- 🐲 [刚才，如果用Google搜索若干带“emojis”的短语，就会返回“服务器错误”](http://jandan.net/p/111488) | Sun Oct 16 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     现在貌似已经修好了 
     </details> 
 
-- 🐲 [全球首个基于国内数据的衰老评估AI显示：不快乐+孤独+失眠，生理年龄加1.65岁](http://jandan.net/p/111483) | Sun Oct 16 2022 6:38 AM 
+-  [全球首个基于国内数据的衰老评估AI显示：不快乐+孤独+失眠，生理年龄加1.65岁](http://jandan.net/p/111483) | Sun Oct 16 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
     这种影响超过了其他人口特征，包括生理性别、居住区域、婚姻状况和吸烟状况
  
-    </details> 
-
--  [用人类细胞3D打印类脑组织块，再移植到大鼠脑内，成功接入大鼠的脑功能](http://jandan.net/p/111482) | Sun Oct 16 2022 6:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    以前研究培养皿里的组织，都是静态的，无法真实模拟人类的脑发育。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
