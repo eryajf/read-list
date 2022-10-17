@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [windows 上面有没有能实现 Linux 上 docker 的这种操作](https://www.v2ex.com/t/887651#reply0) | Mon Oct 17 2022 3:18 PM
-- 🤗 [凹语言支持 JetBrains Fleet 语法高亮](https://www.v2ex.com/t/887647#reply0) | Mon Oct 17 2022 2:50 PM
-- 🎭 [想找一个初级 Linux 系统运维的工作，必须掌握哪些技能啊](https://www.v2ex.com/t/887643#reply1) | Mon Oct 17 2022 2:38 PM
-- 🥷 [求推荐一个低功耗 2L 小主机，需求非常明确](https://www.v2ex.com/t/887642#reply1) | Mon Oct 17 2022 2:34 PM
-- 🐵 [实现了一套 Go 语言缓存中间件，支持批量处理](https://www.v2ex.com/t/887630#reply0) | Mon Oct 17 2022 1:47 PM<!-- v2ex:END -->
+- 🥸 [群晖 Cloud Sync 自动导出的加密密钥是一堆代码咋整](https://www.v2ex.com/t/887660#reply0) | Mon Oct 17 2022 4:06 PM
+- 🤗 [想干程序员，几乎从零开始，求指点方向](https://www.v2ex.com/t/887658#reply3) | Mon Oct 17 2022 3:58 PM
+- 🎭 [windows 上面有没有能实现 Linux 上 docker 的这种操作](https://www.v2ex.com/t/887651#reply3) | Mon Oct 17 2022 3:18 PM
+- 🥷 [凹语言支持 JetBrains Fleet 语法高亮](https://www.v2ex.com/t/887647#reply0) | Mon Oct 17 2022 2:50 PM
+- 🐵 [想找一个初级 Linux 系统运维的工作，必须掌握哪些技能啊](https://www.v2ex.com/t/887643#reply3) | Mon Oct 17 2022 2:38 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
