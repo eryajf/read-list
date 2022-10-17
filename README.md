@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Aeromine设计屋顶风力系统 提供的能量比同等价格的太阳能产品多50%](https://www.cnbeta.com/articles/tech/1327877.htm) | Mon Oct 17 2022 4:44 AM 
+- 🕯 [MINI电动车生产线将从“故乡”转移到中国？宝马回应](https://www.cnbeta.com/articles/tech/1327905.htm) | Mon Oct 17 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，&lt;strong&gt;Aeromine公司称，其独特的“不动的”屋顶风力发电机比同等价格的太阳能阵列多提供50%的能量，&lt;/strong&gt;而只占用10%的屋顶空间，并且或多或少地安静地运行。在独立测试中，它们似乎是合法的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327877.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据环球时报报道，继德国大众日前宣布24亿欧元（约合人民币168亿元）的在华投资项目后，又传出德国另一车企宝马集团计划将MINI电动车生产线从英国迁移到中国。&lt;strong&gt;&lt;span style=&quot;&quot;&gt;据第一财经报道，宝马中国方面10月16日对记者表示，&lt;/span&gt;&lt;span style=&quot;&quot;&gt;牛津工厂将暂停电动车生产，但不会停止生产MINI车型，并明确与长城汽车合作的光束汽车将生产纯电动MINI。&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中兴AX5400 Pro+旗舰路由官宣：12核自研芯 升级双2.5Ge](https://www.cnbeta.com/articles/tech/1327875.htm) | Mon Oct 17 2022 3:58 AM 
+- 💼 [CNES的MICROSCOPE任务的最终结果达到了创纪录的精度水平](https://www.cnbeta.com/articles/science/1327903.htm) | Mon Oct 17 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月17日消息，今日，中兴手机官方宣布，年度重磅新品——&lt;strong&gt;中兴路由器AX5400 Pro+将于10月20日正式发布。&lt;/strong&gt;从预热海报来看，中兴路由器AX5400 Pro+采用6天线设计，机身侧面为散热开孔，造型类似星舰设计，整体外观与AX5400 Pro变化不大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327875.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;法国国家太空研究中心（CNES）的MICROSCOPE（等效原理观测阻力补偿微卫星）任务已交付其最新成果，并以前所未有的10-15的精度证实了等效原理。 &lt;/strong&gt;这些结果表明，物体在真空中以相同的加速度下落，无论其成分或质量如何，这意味着等效原理在今天仍然坚定不移，以标志着爱因斯坦在一个多世纪前提出的广义相对论的又一次胜利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究发现某种蛋白质的水平升高会增加糖尿病和癌症死亡的风险](https://www.cnbeta.com/articles/science/1327873.htm) | Mon Oct 17 2022 3:52 AM 
+- 💂 [纪念《雷神4》MovieNEX即将发售 官方公布新幕后花絮](https://hot.cnbeta.com/articles/movie/1327901.htm) | Mon Oct 17 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;瑞典一项对近4000人进行的长达22年的调查发现，那些血液中前列腺素水平处于最高1/4的人患糖尿病的可能性增加76%，死于癌症的可能性增加43%。根据最近的研&lt;/strong&gt;究，那些蛋白质前列腺素水平升高的人--它主要存在于身体表面和器官的上皮细胞中--可能更容易患糖尿病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;漫威系列名作新篇《雷神4：爱与雷霆》即将于10月26日发售MovieNEX版，作为纪念，漫威影业官方日前公布了一段特别版新幕后制作花絮，展示了不少未公开画面以及神杀者演员贝尔的访谈，一起来欣赏下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新型抗生素骨水泥提升了抗击葡萄球菌感染的能力](https://www.cnbeta.com/articles/science/1327869.htm) | Mon Oct 17 2022 3:43 AM 
+- 🚀 [美国新型土葬：特制棺材 遗体30天分解成土壤](https://www.cnbeta.com/articles/tech/1327899.htm) | Mon Oct 17 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;膝关节和髋关节置换等手术可能使患者面临潜在的细菌感染，而骨水泥的使用是医生降低风险的一种方法。这些材料将人工关节固定到位，如果加载抗生素则可以防止该部位的有害细菌。但耐药性细菌的增加要求用新的方法来解决这些类型的问题，而一种强有力的新形式骨水泥正准备与之斗争。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在《三体 2 黑暗森林》这部科幻小说中，刘慈欣对未来的丧葬假想了一种可能：当飞向太空已经成为低成本、低风险的交通方式之后，将人类骨灰带入太空的“太空葬”将成为流行趋势，因为外星人将占领地球，传统的落叶归根思想将不得不被人们抛弃。&lt;strong&gt;现实世界，并没有外星人入侵的桥段，而人类长久以来形成的落叶归根观念反而越发强化且追溯潮流。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [网友喊话马斯克：好姐妹的特斯拉Model Y充电时烧了](https://www.cnbeta.com/articles/tech/1327867.htm) | Mon Oct 17 2022 3:34 AM 
+- 🎊 [马斯克再次证实特斯拉Model Y Performance的赛道模式](https://www.cnbeta.com/articles/tech/1327897.htm) | Mon Oct 17 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，名为Alyas Jalili的网友在社交平台喊话马斯克，自己姐妹的Model Y在充电时着火，&lt;strong&gt;她强调火是从电池开始烧起的，幸亏当时人不在车内。随后，消防人员将获扑灭。&lt;/strong&gt;从视频中来看，车辆后部烧毁的更为严重，且车顶和前部塑料配件，都被完全烧损，整车接近报废状态。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;周末时候，伊隆·马斯克重申了 Model Y Performance 的赛道模式 —— 尽管早在 2020 年就放出了预告，但该模式迄今尚未推送到该车型上。&lt;/strong&gt;针对 Twitter 网友的提问，特斯拉 CEO 承认 —— Model Y 的赛道模式，并不像听起来那么容易。另一方面，Model 3 Performance 和 Model S Plaid 早就提供了这项特性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
