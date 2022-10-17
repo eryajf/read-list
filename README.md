@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [FFplay序列号分析](https://juejin.cn/post/7155351642731855909) | Mon Oct 17 2022 5:39 AM 
+- 🤗 [iPhone 移除描述文件详细步骤（Apple Configurator 2）](https://juejin.cn/post/7155361067479072775) | Mon Oct 17 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-    在之前的几篇文章里面，都零零散散提及过序列号这个概念。但是 序列号 这个概念对于 FFplay 播放器 非常重要的，很多代码都跟序列号有关。所以单独写一篇文章介绍序列号。 序列号 主要是给 快进快退 
+    1、Mac 电脑 App Store 安装 Apple Configurator 2 2、将手机连接电脑，并信任，然后就会连接上手机，双击手机，然后选中描述文件菜单，选中需要删除的描述文件，点击顶部菜 
     </details> 
 
-- 🎡 [会用 Performance 工具，就能深入理解 Event Loop](https://juejin.cn/post/7155350299295612941) | Mon Oct 17 2022 5:35 AM 
+- 🎡 [&lpar;九&rpar;MySQL之MVCC机制：为什么你改了的数据我还看不见？](https://juejin.cn/post/7155359629050904584) | Mon Oct 17 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-    网页加载后，浏览器会解析 html、执行 js、渲染 css，这些工作都是在 Event Loop 里完成的，理解了 Event Loop 就能理解网页的运行流程。 但很多人对 Event Loop  
+    增、删、改是数据库中十分常见的操作，但为什么一个事务对一条数据进行变更操作后，另外一个事务却看不见呢？这背后的一切究竟是何原理？本篇与诸位携手共探MySQL-MVCC机制。 
     </details> 
 
-- 🕯 [老司机 iOS 周报 #219 | 2022-10-17](https://juejin.cn/post/7155348188688285710) | Mon Oct 17 2022 5:26 AM 
+- 🕯 [RocketMQ：写一个生产者程序要注意些什么](https://juejin.cn/post/7155348744379547655) | Mon Oct 17 2022 5:28 AM 
     <details><summary>展开描述 ...</summary> 
-    老司机 iOS 周报，只为你呈现有价值的信息。 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 背景 消息队列是我们日常工作中最长用到的中间件之一，那么写一个生产者程序要注意什么，这里已 Rocket 
     </details> 
 
-- 🚀 [从局部变量说起，关于一个莫得名堂的引用和一个坑！](https://juejin.cn/post/7155334298084573198) | Mon Oct 17 2022 4:33 AM 
+- 🚀 [HMR系列二：整体流程梳理](https://juejin.cn/post/7155310911039733774) | Mon Oct 17 2022 3:01 AM 
     <details><summary>展开描述 ...</summary> 
-    你好呀，我是歪歪。 今天带大家盘一个有点意思的基础知识啊。 有多基础呢，先给你上个代码： 请问，上面代码中，位于 method 方法中的 object 对象，在方法执行完成之后，是否可以被垃圾回收？  
+    在上一篇中我们主要是了解了 HMR 的简单概念以及相关 API，也手动实现了文件的 HMR。 接下来我们来梳理一下在 vite 中，当我们对文件代码做出改变时，整个 HMR 的流程是怎样的。 
     </details> 
 
-- 💪 [Elastic 在 SIEM 市场继续获得动力](https://juejin.cn/post/7155327624892383240) | Mon Oct 17 2022 4:06 AM 
+- 💪 [开源云原生平台对比 KubeSphere vs Rainbond](https://juejin.cn/post/7155310248784298014) | Mon Oct 17 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    作者：Mike Nichols，Mike Paquette Elastic 仅在市场上推出了两年就成功交付了领先的安全信息和事件管理 &lpar;SIEM&rpar; 产品。 根据 IDC 2021 年全球安全信息和事件 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情。最近因为工作需要，需要找一个功能完善的云原生应用平台 
     </details> 
 <!-- juejin:END -->
 ### 少数派
