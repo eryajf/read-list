@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [安卓开发小白 AS 突然字段报红 求解！](https://www.v2ex.com/t/887522#reply0) | Mon Oct 17 2022 6:49 AM
-- 🤗 [私有化在线协同画图平台 Excalidraw](https://www.v2ex.com/t/887515#reply2) | Mon Oct 17 2022 6:22 AM
-- 🎭 [ubuntu 22.10 马上要来了，冒险升级，控制更加精致，操作方便性有提高](https://www.v2ex.com/t/887498#reply3) | Mon Oct 17 2022 5:41 AM
-- 🥷 [vue3+TS，父组件传值给子组件，但是父组件显示没有该属性](https://www.v2ex.com/t/887497#reply2) | Mon Oct 17 2022 5:39 AM
-- 🐵 [问一下大佬，有没有好一点的数据库管理字段的说明文档。](https://www.v2ex.com/t/887483#reply3) | Mon Oct 17 2022 4:28 AM<!-- v2ex:END -->
+- 🥸 [事业单位干了 3 个月，干不下去了， 22 届毕业生，还能找到工作吗？](https://www.v2ex.com/t/887535#reply0) | Mon Oct 17 2022 7:43 AM
+- 🤗 [各位大佬能说一下程序猿的职业病都有哪些吗？日常都需要注意什么](https://www.v2ex.com/t/887533#reply4) | Mon Oct 17 2022 7:33 AM
+- 🎭 [未 root 手机如何访问电脑本地 pwa 网页？](https://www.v2ex.com/t/887527#reply4) | Mon Oct 17 2022 7:20 AM
+- 🥷 [有熟悉 mac 的 pfctl 包过滤吗？](https://www.v2ex.com/t/887525#reply0) | Mon Oct 17 2022 7:03 AM
+- 🐵 [安卓开发小白 AS 突然字段报红 求解！](https://www.v2ex.com/t/887522#reply14) | Mon Oct 17 2022 6:49 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
