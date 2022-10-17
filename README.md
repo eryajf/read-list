@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现年轻LGBTQ+人群在网上遭遇仇恨言论可能性是原来的两倍以上](https://www.cnbeta.com/articles/tech/1328087.htm) | Mon Oct 17 2022 7:14 PM 
+- 🕯 [继向梵高画作泼番茄汤后 肇事组织成员爬上英国80余米高塔楼致交通堵塞](https://www.cnbeta.com/articles/tech/1328095.htm) | Mon Oct 17 2022 8:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当地时间10月17日，两名“停止石油运动（Just Stop Oil）”的抗议者爬上泰晤士河上的一座主要桥梁，造成了严重的交通延误，就在几天前，该组织的活动人士向梵高的代表作《&lt;a href=&quot;https://finance.sina.com.cn/realstock/company/sz300111/nc.shtml&quot; class=&quot;keyword&quot; target=&quot;_blank&quot; data-sudaclick=&quot;content_marketkeywords_p&quot;&gt;向日葵&lt;/a&gt;》泼洒番茄汤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [日本仙台市启用全球首个无人机海啸预警系统](https://www.cnbeta.com/articles/tech/1328093.htm) | Mon Oct 17 2022 8:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;日本宫城县仙台市10月17日开始全面运用小型无人机，在发布海啸警报等情况下自动飞行，用扬声器呼吁沿海地区的人避难。外媒报道称，这是世界上首个无人机海啸预警系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [德国将3座核电站运营时间延长至2023年](https://www.cnbeta.com/articles/tech/1328091.htm) | Mon Oct 17 2022 8:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;德国总理朔尔茨17日正式宣布，将德国剩余3座核电站的运营时间延长至2023年4月15日。据报道，朔尔茨已正式向相关部门宣布了这一决定，接下来德国政府将正式启动立法流程，以便伊萨尔二号核电站、内卡韦斯特海姆二号核电站和埃姆斯兰核电站可以在2022年12月31日之后继续运营至2023年4月15日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [NASA开始测试火星样本返回任务的防护罩](https://www.cnbeta.com/articles/science/1328089.htm) | Mon Oct 17 2022 7:35 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;任何太空任务，包括NASA的火星样本返回，都有一个潜在的危险，就是微陨石。&lt;strong&gt;这些微小的岩石可以每秒飞行50英里（180000英里/小时）。在这种极端的速度下，即使是灰尘也会对航天器造成损害。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [研究发现年轻LGBTQ+人群在网上遭遇仇恨言论可能性是原来的两倍以上](https://www.cnbeta.com/articles/tech/1328087.htm) | Mon Oct 17 2022 7:14 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;根据一份关于年轻人如何使用互联网的新报告，&lt;strong&gt;年轻的LGBTQ+人与那些认同为异性恋的人相比，在网上遭遇仇恨言论的可能性要高出两倍多。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [Intel蝰蛇峡谷NUC迷你机：包装盒竟是个“棺材”？](https://www.cnbeta.com/articles/tech/1328085.htm) | Mon Oct 17 2022 5:50 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，Intel上架了代号“蝰蛇峡谷”&lpar;Serpent Canyon&rpar;的新一代NUC迷你机，配备12代酷睿i7-12700H处理器、Arc A770M独立显卡，体积约2.5升，价格高达10999元。&lt;strong&gt;有外媒拿到了蝰蛇峡谷的评测套装，惊奇地发现，它的包装盒，居然是老外棺材的形状，实在难以捉摸。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [DisplayPort 2.1标准正式发布 与USB4完全合体](https://www.cnbeta.com/articles/tech/1328083.htm) | Mon Oct 17 2022 5:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;DisplayPort 2.0标准诞生超过三年之后，VESA组织今天正式发布了DisplayPort 2.1标准规范&lpar;以下简称DP 2.1&rpar;。这次没有在带宽上大做文章，而是和USB4牢牢结合在了一起。再加上雷电接口也是同样的形态，越来越有大一统的架势了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [我们的三星SSD崩了 中招的人还不少](https://www.cnbeta.com/articles/tech/1328081.htm) | Mon Oct 17 2022 4:44 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;事情的经过是这样的。国庆节长假之后的第一个工作日，大家并没有什么时间摸鱼，因为要赶紧把测试 RTX 4090&amp;nbsp;显卡的环境给搭建起来。说白了就是做好准备工作，比如把配件组装起来，以及下载大量的游戏和软件，这样后续的测试才能进行下去。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [技嘉加盟 Intel Arc显卡再迈一大步](https://www.cnbeta.com/articles/tech/1328079.htm) | Mon Oct 17 2022 4:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel Arc A系列显卡虽然走得很艰难，但也在一步一步向前，产品线已经基本齐备，合作品牌也越来越多。蓝戟、华擎、微星、宏碁等之后，技嘉也要加入Intel Arc显卡的行列了！&lt;strong&gt;欧亚经济委员会&lpar;ECC&rpar;认证产品库中，已经出现了技嘉的多达五款Intel Arc显卡，都来自入门级A3系列&lt;/strong&gt;，包括：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
