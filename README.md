@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Riot Games收购了《坦克世界》的开发商Wargaming Sydney](https://hot.cnbeta.com/articles/game/1328073.htm) | Mon Oct 17 2022 3:13 PM 
+- 🕯 [技嘉加盟 Intel Arc显卡再迈一大步](https://www.cnbeta.com/articles/tech/1328079.htm) | Mon Oct 17 2022 4:28 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Intel Arc A系列显卡虽然走得很艰难，但也在一步一步向前，产品线已经基本齐备，合作品牌也越来越多。蓝戟、华擎、微星、宏碁等之后，技嘉也要加入Intel Arc显卡的行列了！&lt;strong&gt;欧亚经济委员会&lpar;ECC&rpar;认证产品库中，已经出现了技嘉的多达五款Intel Arc显卡，都来自入门级A3系列&lt;/strong&gt;，包括：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [未开封的初代iPhone落锤成交 最终拍出约合26万元](https://www.cnbeta.com/articles/tech/1328077.htm) | Mon Oct 17 2022 4:03 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;如果你的手里还有2007年的那款初代iPhone，尤其还没开封使用的话，那么可能真的会值一大笔钱。据悉，在日前LCG &lpar;伦敦资本集团&rpar;拍卖会上，&lt;strong&gt;这部原封盒子、甚至连保护贴膜都还没撕掉的原汁原味初代iPhone，最终以39339.60美元的价格成交，约合人民币26万元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Razer Edge正式公布 旗下首款Android掌机](https://hot.cnbeta.com/articles/game/1328075.htm) | Mon Oct 17 2022 4:01 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;RazerCon 2022在周末拉开帷幕，今天首席执行官陈民亮正式宣布了该公司的第一款Android掌机--Razer Edge。该设备在上个月末被预告，它是一款5G游戏机，支持亚6GHz和毫米波连接。5G版本将由Verizon独家经营，同时还将支持LTE、UMTS、全球LTE和LTE Cat 22频段。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328075.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Riot Games收购了《坦克世界》的开发商Wargaming Sydney](https://hot.cnbeta.com/articles/game/1328073.htm) | Mon Oct 17 2022 3:13 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;视频游戏开发商和发行商Riot Games宣布收购Wargaming Sydney，这同样是一家游戏软件开发工作室，隶属于总部位于塞浦路斯的Wargaming公司，该公司是《坦克世界》和《战舰世界》等游戏背后的发行商。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14 Pro Max DXO得分146分 一分之差屈居第三](https://www.cnbeta.com/articles/tech/1328071.htm) | Mon Oct 17 2022 3:10 PM 
+- 🎊 [iPhone 14 Pro Max DXO得分146分 一分之差屈居第三](https://www.cnbeta.com/articles/tech/1328071.htm) | Mon Oct 17 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天，DXOMARK官方公布了iPhone 14 Pro Max的相机评测成绩，&lt;strong&gt;总成绩为146，无论总分还是子项分都和早先评测的iPhone 14 Pro完全一致。&lt;/strong&gt;它俩落后Google Pixel 7 Pro、荣耀Magic 4至臻版，仅以一分之差，并列屈居第三。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [微软澄清Office品牌不会消失 单机版还会继续提供](https://www.cnbeta.com/articles/tech/1328069.htm) | Mon Oct 17 2022 3:09 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;前不久微软表示将推出Microsoft 365应用取代现有的Office应用。甚至，Office.com网站、Office移动应用程序和适用于Windows的Office Hub程序也将更名。于是，一些媒体表示，Office品牌要被微软放弃了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Electron上运行的Windows 95新版发布 支持Chromium及黑暗模式](https://www.cnbeta.com/articles/tech/1328067.htm) | Mon Oct 17 2022 3:08 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Windows 95已经发布27个年头了，虽然更为现代的Windows 11早已经是PC上的新宠，但Windows社区的许多成员可能仍然认为Windows 95是微软所能创造的最伟大的产品之一。因此著名的GitHub项目Electron Windows 95一直以来都让许多人感兴趣。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [英特尔发布面向Meteor Lake和Sierra Forest CPU的GCC编译器补丁](https://www.cnbeta.com/articles/tech/1328065.htm) | Mon Oct 17 2022 3:04 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;英特尔已经发布了GNU编译器集合或GCC的新补丁，这将有助于支持即将到来的Meteor Lake和Sierra Forest CPU。&lt;/strong&gt;GCC包括几种编码语言和库，如C、C++等，为利用Linux、Ubuntu等操作系统的用户提供一个开源的编译选项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
