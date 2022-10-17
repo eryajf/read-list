@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [推荐一款 Android 第三方推特 app](https://www.v2ex.com/t/887614#reply7) | Mon Oct 17 2022 11:53 AM
-- 🤗 [想裸辞求锤醒](https://www.v2ex.com/t/887600#reply33) | Mon Oct 17 2022 11:05 AM
-- 🎭 [求助 免费打工](https://www.v2ex.com/t/887598#reply0) | Mon Oct 17 2022 11:03 AM
-- 🥷 [Windows 编译环境介绍](https://www.v2ex.com/t/887588#reply1) | Mon Oct 17 2022 10:25 AM
-- 🐵 [拼多多是怎么做到分享的助力链接域名不是自己的呢？](https://www.v2ex.com/t/887582#reply24) | Mon Oct 17 2022 9:55 AM<!-- v2ex:END -->
+- 🥸 [实现了一套 Go 语言缓存中间件，支持批量处理](https://www.v2ex.com/t/887630#reply0) | Mon Oct 17 2022 1:47 PM
+- 🤗 [快速上手 vs2019](https://www.v2ex.com/t/887620#reply0) | Mon Oct 17 2022 1:10 PM
+- 🎭 [凉心云的这款轻量还值得续吗？](https://www.v2ex.com/t/887619#reply5) | Mon Oct 17 2022 1:01 PM
+- 🥷 [推荐一款 Android 第三方推特 app](https://www.v2ex.com/t/887614#reply9) | Mon Oct 17 2022 11:53 AM
+- 🐵 [想裸辞求锤醒](https://www.v2ex.com/t/887600#reply44) | Mon Oct 17 2022 11:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
