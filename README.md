@@ -792,30 +792,30 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [刚才，如果用Google搜索若干带“emojis”的短语，就会返回“服务器错误”](http://jandan.net/p/111488) | Sun Oct 16 2022 3:54 PM 
+- 🚀 [好消息 天文学家认为他们已经可以提前预警超新星爆发](http://jandan.net/p/111489) | Mon Oct 17 2022 4:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果是“本地”的超新星，我们人类既无法阻止也没能力逃跑，但现在，起码能提前知道会怎么没的了 
+    </details> 
+
+- 🙉 [今日好价 1017](http://jandan.net/p/111490) | Mon Oct 17 2022 4:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：34 
+    </details> 
+
+- 🎉 [刚才，如果用Google搜索若干带“emojis”的短语，就会返回“服务器错误”](http://jandan.net/p/111488) | Sun Oct 16 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     现在貌似已经修好了 
     </details> 
 
-- 🙉 [全球首个基于国内数据的衰老评估AI显示：不快乐+孤独+失眠，生理年龄加1.65岁](http://jandan.net/p/111483) | Sun Oct 16 2022 6:38 AM 
+- 🐲 [全球首个基于国内数据的衰老评估AI显示：不快乐+孤独+失眠，生理年龄加1.65岁](http://jandan.net/p/111483) | Sun Oct 16 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
     这种影响超过了其他人口特征，包括生理性别、居住区域、婚姻状况和吸烟状况
  
     </details> 
 
-- 🎉 [用人类细胞3D打印类脑组织块，再移植到大鼠脑内，成功接入大鼠的脑功能](http://jandan.net/p/111482) | Sun Oct 16 2022 6:16 AM 
+-  [用人类细胞3D打印类脑组织块，再移植到大鼠脑内，成功接入大鼠的脑功能](http://jandan.net/p/111482) | Sun Oct 16 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
     以前研究培养皿里的组织，都是静态的，无法真实模拟人类的脑发育。 
-    </details> 
-
-- 🐲 [今日好价 1016](http://jandan.net/p/111481) | Sun Oct 16 2022 3:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：47 
-    </details> 
-
--  [北大校友群传出骇人听闻的消息：张益唐刚刚证明了朗道-西格尔猜想](http://jandan.net/p/111480) | Sat Oct 15 2022 2:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    zsbd 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
