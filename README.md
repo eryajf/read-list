@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | Fortinet身份漏洞的POC已发布；接棒微软0path为WIN7提供服务](https://www.freebuf.com/news/346931.html) | Fri Oct 14 2022 11:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近披露的影响 Fortinet 严重安全漏洞已提供概念验证 &lpar;PoC&rpar; 漏洞利用代码，因此用户必须迅速采取行动以应用补丁。 
+    </details> 
+
 - 🦄 [FreeBuf周报 | VMware某漏洞一年仍未修补；宜家智能照明系统发现漏洞](https://www.freebuf.com/news/346841.html) | Fri Oct 14 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
     我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🦄 [Magniber勒索软件通过JavaScript文件感染Windows用户](https://www.freebuf.com/news/346826.html) | Fri Oct 14 2022 7:05 AM 
+- 🦅 [Magniber勒索软件通过JavaScript文件感染Windows用户](https://www.freebuf.com/news/346826.html) | Fri Oct 14 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
     注意，在恢复数据之前，用户应确保其备份未被感染。 
     </details> 
 
-- 🦅 [Sangfor华东战队：Windows计算机取证【上】](https://www.freebuf.com/sectool/346821.html) | Fri Oct 14 2022 6:40 AM 
+- 🪄 [Sangfor华东战队：Windows计算机取证【上】](https://www.freebuf.com/sectool/346821.html) | Fri Oct 14 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
     计算机取证是网络攻防战的一个重要领域，涉及收集在计算机上执行的活动的证据。 
     </details> 
 
-- 🪄 [混合云安全怎么做 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/346792.html) | Fri Oct 14 2022 3:02 AM 
+- 💻 [混合云安全怎么做 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/346792.html) | Fri Oct 14 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     企业部署混合云如何保障安全，同时兼顾高效管理与成本控制？ 
-    </details> 
-
-- 💻 [SAST + SCA: 结合使用安全升级](https://www.freebuf.com/articles/web/346769.html) | Fri Oct 14 2022 1:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    据 SAP 称，当今85%的安全攻击针对的是软件应用程序，因此一些列应用程序安全测试工具也应运而生。 
     </details> 
 <!-- freebuf:END -->
 
