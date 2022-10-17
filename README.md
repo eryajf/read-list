@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [谈论从把多项目合并成一个项目中获得的收益](https://juejin.cn/post/7155401030593691655) | Mon Oct 17 2022 8:50 AM 
+- 🤗 [iOS嵌入虚拟引擎unity3d](https://juejin.cn/post/7155408587135647780) | Mon Oct 17 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
-    在开源社区流行着这样两种项目管理的方式: multirepos和monorepos, 接下来我们就谈谈这两者的得与失 
+    我正在参加「掘金·启航计划」 前言 最近虚拟引擎还是很火的，QQ超级秀，淘宝人生，抖音仔仔，玩的都是虚拟偶像，那如果我们 APP 如果也想做类似的功能，那我们好做吗，有没有什么优缺点，用什么方案比较好 
     </details> 
 
-- 🎡 [记录仿抖音的视频播放并缓存预加载视频的效果实现](https://juejin.cn/post/7155381983814615048) | Mon Oct 17 2022 7:36 AM 
+- 🎡 [Java 19中新推出的虚拟线程到底是怎么回事儿？](https://juejin.cn/post/7155406687598280740) | Mon Oct 17 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-    我们的动态列表并不是九宫格和一些图片文本的信息流展示，我们还包含和和WX盆友圈一样的视频功能。其中有一个快捷入口可以播放视频列表，类似抖音的效果。 
+    最近，JDK 19发布了，推出了几个新的特性，其中有一个比较值得关注的那就是新增了虚拟线程。 很多人可能比较疑惑，到底什么是虚拟线程，和我们现在使用的平台线程有啥区别呢？ 要说清楚JDK 19中的虚拟 
     </details> 
 
-- 🕯 [git branch --set-upstream-to=origin/master](https://juejin.cn/post/7155379042642821133) | Mon Oct 17 2022 7:25 AM 
+- 🕯 [Android性能优化系列篇（四）：安全性优化](https://juejin.cn/post/7155406446287388703) | Mon Oct 17 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    原因: git 本地新建一个分支后，必须要做远程分支关联。如果没有关联， git 会在下面的操作中提示你显示的添加关联。关联目的是如果在本地分支下操作： git pull , git push ，不需 
+    汇总了一下众多大佬的性能优化文章，知识点，主要包含：UI优化/启动优化/崩溃优化/卡顿优化/安全性优化/弱网优化/APP深度优化等等等~ 本篇是第四篇：安全性优化 
     </details> 
 
-- 🚀 [音视频大合集，先从零开始万事开头难](https://juejin.cn/post/7155378216843575332) | Mon Oct 17 2022 7:22 AM 
+- 🚀 [&lpar;0, eval&rpar;&lpar;&quot;x = 100&quot;&rpar; ：一行让严格模式形同虚设的破坏性设计（下）](https://juejin.cn/post/7155406405611028511) | Mon Oct 17 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 周六按时发了工资。好好休息了两天，出去消费了一波美滋滋🤣🤣🤣 顺带有粉丝找我问有没有openGL ES比较深入的学习内容，和Recyclerview的.抽空弄一波。 前几天零零散散的更新了一些音 
+    &lpar;0, eval&rpar;&lpar;&quot;x = 100&quot;&rpar; ：一行让严格模式形同虚设的破坏性设计（下） 接上篇，这一讲我们 
     </details> 
 
-- 💪 [如何寻找软件外包公司?](https://juejin.cn/post/7155377045940207646) | Mon Oct 17 2022 7:17 AM 
+- 💪 [Luminar Neo 教程，如何在 Luminar Neo 中编辑单个图像？](https://juejin.cn/post/7155403657230909447) | Mon Oct 17 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-    做软件外包的公司和个人太多了，暂不说个人做私活的程序员，光注册的外包公司都2万多家，从2万家里面挑选靠谱的有多么困难。 现在的软件外包商可以分为三类... ... 
+    欢迎观看 Luminar Neo 教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中编辑单个图像。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
