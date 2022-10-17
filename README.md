@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [ToothFairy 2.8.2 一键切换连接蓝牙设备](https://xclient.info/s/tooth-fairy.html) | Fri Oct 14 2022 12:02 AM 
+- 🦏 [SideNotes 1.4.8 办公笔记本](https://xclient.info/s/sidenotes.html) | Mon Oct 17 2022 12:48 AM 
     <details><summary>展开描述 ...</summary> 
-    Tooth Fairy是一款一键切换连接蓝牙设备的小工具 
+    SideNotes 可以让你可以用一种简洁、快速、有条理的方式记录下所有嗡嗡作响的想法。享受其无干扰的工作流程。使用副录，你可以保存你的想法，图片，任务列表和更多。 
     </details> 
 
--  [TinkerTool System 7.91 系统深度设置维护工具](https://xclient.info/s/tinkertool-system.html) | Fri Oct 14 2022 12:01 AM 
+-  [Goldie App 2.1 黄金比例设计工具](https://xclient.info/s/goldie-app.html) | Mon Oct 17 2022 12:47 AM 
     <details><summary>展开描述 ...</summary> 
-    TinkerTool System 是一款Mac平台的系统深度设置维护工具，以帮助你修改一些系统隐藏的属性,包括系统界面字体,是否不显示隐藏文件等 
+    Goldie App是mac上一款非常强大的黄金比例设计工具，体积小巧，可以驻留在系统的菜单栏之上，随时提供给用户调用。而且拥有独特的计算功能，可以帮助你在任何需要的时候获得精确的黄金比例。 
     </details> 
 
-- ⚗️ [Slidepad 1.3.8 iPad式APP切换工具](https://xclient.info/s/slidepad.html) | Fri Oct 14 2022 12:00 AM 
+- ⚗️ [MWeb 4.3.7 专业的Markdown写作、记笔记、静态博客生成软件](https://xclient.info/s/mweb.html) | Mon Oct 17 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
-    通过Slidepad可以能够帮助我们在系统侧边上设置一个窗口提供我们使用，通过该窗口能够快速放置你最喜欢的网络应用程序和网站，然后只需单击一下就可以在它们之间切换。它甚至支持通知，并允许您为每个应用程序或网站定义声音设置。 
+    MWeb 是一站式的 Markdown 编辑和静态网站生成解决方案 
     </details> 
 
-- 🔥 [iReal Pro 2022.9 编曲软件](https://xclient.info/s/ireal-pro.html) | Thu Oct 13 2022 11:59 PM 
+- 🔥 [Wondershare Recoverit 10.6.0.27 数据恢复](https://xclient.info/s/wondershare-recoverit.html) | Mon Oct 17 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
-    iReal Pro是一款应用在mac平台上的乐谱编曲软件，它拥有强大的乐谱风格伴奏功能。 
+    Wondershare Recoverit 是一个非常可靠的数据恢复工具，它可以从任何存储介质中恢复数据。无论你的数据从哪里丢失，它就能从哪里帮您找回来，包括删除的文件，回收站，格式化磁盘，分区丢失，外部设备，病毒攻击数据等等。 
     </details> 
 
-- 🌋 [Rhinoceros 7.23.22282.13002 强大的3D造型软件](https://xclient.info/s/rhino.html) | Thu Oct 13 2022 11:58 PM 
+- 🌋 [Swinsian 3.0 Preview 2 569 专业的好用的Mac音乐播放器](https://xclient.info/s/swinsian.html) | Mon Oct 17 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    Rhino，中文名称犀牛，是一款超强的三维建模工具，它包含了所有的NURBS建模功能，用它建模感觉非常流畅，所以大家经常用它来建模，然后导出高精度模型给其他三维软件使用。 
+    Swinsian 是Mac os平台上的一款专业的好用的Mac音乐播放器，Swinsian可以管理自己的音频文件，你可以自己根据自己的浏览方式浏览自己的音频文件，这款软件要比iTunes好用的多，不需要那么繁琐的操作，还可以通过这款软件下载文件到移动设备。 
     </details> 
 <!-- xclient:END -->
 
