@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [香菜：为什么有人咬牙切齿 有人爱得不行？](https://www.cnbeta.com/articles/tech/1327973.htm) | Mon Oct 17 2022 8:33 AM 
+- 🕯 [拐点已至 我国第一大淡水湖水域面积开始恢复](https://www.cnbeta.com/articles/tech/1327999.htm) | Mon Oct 17 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;香菜对大家来说再熟悉不过了，作为在公元前 2000 年就开始种植的一种植物，它常见于世界各地美食中。然而，有些人却觉得香菜的气味令人作呕，给香菜的气味贴上了“肥皂味”甚至“臭虫味”的标签。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;由于遭遇严重干旱，我国第一大淡水湖鄱阳湖的水域面积创下了历史新低，部分河段甚至干涸，露出了河床，现在鄱阳湖的拐点终于来了，水域面积开始恢复。据央视报道，记者从江西省生态气象中心获悉，通过最新一次卫星遥感监测，&lt;strong&gt;鄱阳湖水域面积较前期增加了105平方公里已达至705平方公里。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [古DNA：现代人与尼安德特人共存了几千年](https://www.cnbeta.com/articles/science/1327971.htm) | Mon Oct 17 2022 8:32 AM 
+- 💼 [消息称下一款一加高端机型将去掉Pro 命名为OnePlus 11](https://www.cnbeta.com/articles/tech/1327997.htm) | Mon Oct 17 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据发表在《Scientific Reports》上的一项模拟研究，&lt;strong&gt;在尼安德特人消失之前，现代人可能已经在法国和西班牙北部与尼安德特人共存了1400年到2900年。&lt;/strong&gt;这些发现加深了我们对这两种人类在该地区存在的认识。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在经历了忙碌的一年后，OnePlus正在为2023年做准备。我们已经开始听到关于下一个旗舰机的传言和报道，据推测新机将被称为OnePlus 11 Pro。&lt;strong&gt;与它的前辈一样，这款手机预计将在2023年1月推出。然而，可能会有更多惊喜给我们。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [辛吉飞揭秘“科技与狠活”结果翻车 俄罗斯真的生产巧克力](https://www.cnbeta.com/articles/tech/1327969.htm) | Mon Oct 17 2022 8:31 AM 
+- 💂 [支付宝可以转账给微信好友？网友实际体验：但没完全转](https://www.cnbeta.com/articles/tech/1327995.htm) | Mon Oct 17 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近一段时间，很多人被“我一勺三花淡奶”、“全是科技与狠活”等短视频刷屏，在网上揭秘食品内幕的网友辛吉飞也被戏称为“绝命毒师”，然而他在短食品平台风生水起，但在微博上揭秘的时候却翻车了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日一条“支付宝已支持给微信QQ好友转账”占据热搜，有网友发现支付宝居然可以转账给微信好友。&lt;strong&gt;不过通过实际测试发现，支付宝转账微信好友并不是直接转账，而是输入金额后会生成一个二维码，然后发在微信或是QQ可以扫码领取，对方领取到自己的支付宝账户，&lt;/strong&gt;超过24小时未领取会自动退回。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [印度电商巨头Flipkart推出Flipverse 致力打造元宇宙购物体验](https://www.cnbeta.com/articles/tech/1327967.htm) | Mon Oct 17 2022 8:24 AM 
+- 🚀 [仅凭DNA还原嫌疑犯3D人脸 加拿大警方一通操作却被网友骂惨了](https://www.cnbeta.com/articles/tech/1327993.htm) | Mon Oct 17 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为了在本月的节日期间吸引更多消费者，Flipkart 刚刚推出了一款“元宇宙”产品，以便潜在顾客发现并购物。&lt;strong&gt;作为这家印度电商巨头的最新 web3 试验场，Flipverse 旨在增强消费者的购物体验。&lt;/strong&gt;据悉，这家得到沃尔玛支持、总部位于班加罗尔的公司，与 Polygon 孵化的 eDAO 合作推出了该元宇宙产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;只凭 DNA 就还原出罪犯的长相，还是 &lt;strong&gt;3D 版&lt;/strong&gt;的？没错，只需要一个 AI 模型，就能还原出这人的&lt;strong&gt;年龄、肤色、瞳色&lt;/strong&gt;&lt;strong&gt;、甚至整个 3D 头像&lt;/strong&gt;……即使在此之前，没有任何人目击过这个嫌疑犯也没关系，用它合成的照片直接就能&lt;strong&gt;发布通缉令&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [三星Galaxy M54手机曝光：将配备骁龙888芯片](https://www.cnbeta.com/articles/tech/1327965.htm) | Mon Oct 17 2022 8:24 AM 
+- 🎊 [三星显示：与OLED面板相比 MicroLED面板可能用于AR设备](https://www.cnbeta.com/articles/tech/1327991.htm) | Mon Oct 17 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10 月 17 日消息，三星此前发布了 Galaxy M52 和 Galaxy M53 中端智能手机，其继任者 Galaxy M54 也在路上了。爆料显示，三星 Galaxy M54 将配备高刷新率屏幕，高端处理器和大容量电池。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，三星电子旗下面板制造商三星显示（Samsung Display）的一位高管表示，与OLED显示面板相比，MicroLED面板可能用于增强现实（AR）设备。三星显示集团领导人Kim Min-woo表示，这是因为AR设备需要高亮度，这将需要开发新的发光二极管，而OLED无法实现。与LED相比，OLED的亮度水平传统上较低。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
