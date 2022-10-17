@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [厂商展示锐龙5 7600X性能时主板温度飙上152℃ 可能是BUG](https://www.cnbeta.com/articles/tech/1328001.htm) | Mon Oct 17 2022 9:58 AM 
+- 🕯 [Galaxy S23跑分数据出现在Geekbench上 关键细节得到确认](https://www.cnbeta.com/articles/tech/1328015.htm) | Mon Oct 17 2022 11:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD日前在印度孟买举办体验活动，联合众多主板厂商对外展示Zen4架构锐龙7000处理器的表现。不过，&lt;strong&gt;NBCheck在现场发现有趣一幕，在一张技嘉X670E平台上运行的锐龙5 7600X，显示芯片组温度高达152.6℃。&lt;/strong&gt;对此，厂商回应称，可能是BUG。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;就在昨天，属于Galaxy S23系列的透明外壳被泄露出来，证实了很多人猜测的一些关键设计细节，今天，我们第一次看到Galaxy S23出现在Geekbench上，又展示了性能方面的细节；有些我们已经知道，有些对我们来说是新的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [拐点已至 我国第一大淡水湖水域面积开始恢复](https://www.cnbeta.com/articles/tech/1327999.htm) | Mon Oct 17 2022 9:32 AM 
+- 💼 [PHP 8.2获准在Fedora 38中引入](https://www.cnbeta.com/articles/tech/1328013.htm) | Mon Oct 17 2022 11:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;由于遭遇严重干旱，我国第一大淡水湖鄱阳湖的水域面积创下了历史新低，部分河段甚至干涸，露出了河床，现在鄱阳湖的拐点终于来了，水域面积开始恢复。据央视报道，记者从江西省生态气象中心获悉，通过最新一次卫星遥感监测，&lt;strong&gt;鄱阳湖水域面积较前期增加了105平方公里已达至705平方公里。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;人们都知道Fedora倾向于使用最先进的软件包版本，明年春天Fedora Linux 38将为那些想在这个现代的、由Red Hat赞助的Linux发行版上运行LAMP的用户提供PHP 8.2。上周，Fedora工程和指导委员会（FESCo）批准将F38的PHP包升级到PHP 8.2。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [消息称下一款一加高端机型将去掉Pro 命名为OnePlus 11](https://www.cnbeta.com/articles/tech/1327997.htm) | Mon Oct 17 2022 9:27 AM 
+- 💂 [联想再战水墨屏：YOGA Paper墨水平板真机现身](https://www.cnbeta.com/articles/tech/1328011.htm) | Mon Oct 17 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在经历了忙碌的一年后，OnePlus正在为2023年做准备。我们已经开始听到关于下一个旗舰机的传言和报道，据推测新机将被称为OnePlus 11 Pro。&lt;strong&gt;与它的前辈一样，这款手机预计将在2023年1月推出。然而，可能会有更多惊喜给我们。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今天，&lt;strong&gt;微博博主、联想消费者营销总监胖大乖儿晒出了联想YOGA旗下一款新品的真机照片。&lt;/strong&gt;这款被命名为YOGA Paper的墨水平板采用了不对称的布局设计&lt;/strong&gt;，靠近左手握持的一次边框较厚，在为触控笔腾出空间的同时，也能够减少误触的概率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [支付宝可以转账给微信好友？网友实际体验：但没完全转](https://www.cnbeta.com/articles/tech/1327995.htm) | Mon Oct 17 2022 9:22 AM 
+- 🚀 [首个骁龙8G2跑分曝光：频率冲上3.4GHz 性能大涨24%](https://www.cnbeta.com/articles/tech/1328009.htm) | Mon Oct 17 2022 10:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日一条“支付宝已支持给微信QQ好友转账”占据热搜，有网友发现支付宝居然可以转账给微信好友。&lt;strong&gt;不过通过实际测试发现，支付宝转账微信好友并不是直接转账，而是输入金额后会生成一个二维码，然后发在微信或是QQ可以扫码领取，对方领取到自己的支付宝账户，&lt;/strong&gt;超过24小时未领取会自动退回。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;预计11月份高通就会发布新一代骁龙8旗舰——骁龙8 Gen2（简称骁龙8G2）了，现在首个跑分也泄露了，设备是三星的Galaxy S23系列，CPU大核频率3.4GHz，GK5单核1524分，多核4597分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [仅凭DNA还原嫌疑犯3D人脸 加拿大警方一通操作却被网友骂惨了](https://www.cnbeta.com/articles/tech/1327993.htm) | Mon Oct 17 2022 9:22 AM 
+- 🎊 [realme 10 Pro+通过CQC认证 数字系列回归国内](https://www.cnbeta.com/articles/tech/1328007.htm) | Mon Oct 17 2022 10:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;只凭 DNA 就还原出罪犯的长相，还是 &lt;strong&gt;3D 版&lt;/strong&gt;的？没错，只需要一个 AI 模型，就能还原出这人的&lt;strong&gt;年龄、肤色、瞳色&lt;/strong&gt;&lt;strong&gt;、甚至整个 3D 头像&lt;/strong&gt;……即使在此之前，没有任何人目击过这个嫌疑犯也没关系，用它合成的照片直接就能&lt;strong&gt;发布通缉令&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;就在不久前，曾有消息称realme正计划让数字系列回归国内市场，&lt;strong&gt;而现在，Realme一款型号为RMX6386的机型通过国内CQC认证，证明了这一消息的正确性。&lt;/strong&gt;从已知信息来看，&lt;strong&gt;RMX6386这一型号对应的是realme 10 Pro+这款新机，它搭载联发科天玑1080处理器，支持60W快充，并有一块AMOLED屏幕。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
