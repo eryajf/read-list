@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [iPhone 移除描述文件详细步骤（Apple Configurator 2）](https://juejin.cn/post/7155361067479072775) | Mon Oct 17 2022 6:16 AM 
+- 🤗 [从零到一搭建基础架构&lpar;3&rpar;-base模块搭建上篇](https://juejin.cn/post/7155368689842257928) | Mon Oct 17 2022 6:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ Hello，这里是爱 Coding，爱 Hiphop，爱喝点小酒的 AKA 柏炎。 本篇是手把手搭建基础架构 
+    </details> 
+
+- 🎡 [iPhone 移除描述文件详细步骤（Apple Configurator 2）](https://juejin.cn/post/7155361067479072775) | Mon Oct 17 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
     1、Mac 电脑 App Store 安装 Apple Configurator 2 2、将手机连接电脑，并信任，然后就会连接上手机，双击手机，然后选中描述文件菜单，选中需要删除的描述文件，点击顶部菜 
     </details> 
 
-- 🎡 [&lpar;九&rpar;MySQL之MVCC机制：为什么你改了的数据我还看不见？](https://juejin.cn/post/7155359629050904584) | Mon Oct 17 2022 6:09 AM 
+- 🕯 [&lpar;九&rpar;MySQL之MVCC机制：为什么你改了的数据我还看不见？](https://juejin.cn/post/7155359629050904584) | Mon Oct 17 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
     增、删、改是数据库中十分常见的操作，但为什么一个事务对一条数据进行变更操作后，另外一个事务却看不见呢？这背后的一切究竟是何原理？本篇与诸位携手共探MySQL-MVCC机制。 
     </details> 
 
-- 🕯 [RocketMQ：写一个生产者程序要注意些什么](https://juejin.cn/post/7155348744379547655) | Mon Oct 17 2022 5:28 AM 
+- 🚀 [RocketMQ：写一个生产者程序要注意些什么](https://juejin.cn/post/7155348744379547655) | Mon Oct 17 2022 5:28 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 背景 消息队列是我们日常工作中最长用到的中间件之一，那么写一个生产者程序要注意什么，这里已 Rocket 
     </details> 
 
-- 🚀 [HMR系列二：整体流程梳理](https://juejin.cn/post/7155310911039733774) | Mon Oct 17 2022 3:01 AM 
+- 💪 [HMR系列二：整体流程梳理](https://juejin.cn/post/7155310911039733774) | Mon Oct 17 2022 3:01 AM 
     <details><summary>展开描述 ...</summary> 
     在上一篇中我们主要是了解了 HMR 的简单概念以及相关 API，也手动实现了文件的 HMR。 接下来我们来梳理一下在 vite 中，当我们对文件代码做出改变时，整个 HMR 的流程是怎样的。 
-    </details> 
-
-- 💪 [开源云原生平台对比 KubeSphere vs Rainbond](https://juejin.cn/post/7155310248784298014) | Mon Oct 17 2022 2:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第2天，点击查看活动详情。最近因为工作需要，需要找一个功能完善的云原生应用平台 
     </details> 
 <!-- juejin:END -->
 ### 少数派
