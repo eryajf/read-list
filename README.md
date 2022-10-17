@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [岂单止于快 盘点近年手机快充闪充发展史](https://www.cnbeta.com/articles/tech/1327739.htm) | Sun Oct 16 2022 11:15 PM 
+- 🕯 [剑桥大学在癌症方面的新突破或将成为游戏规则改变者](https://www.cnbeta.com/articles/science/1327835.htm) | Mon Oct 17 2022 2:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近些年来，随着手机性能的不断提升，以及人们生活对手机依赖性的增强，对快充的需求也与日俱增。2022年7月19日，iQOO发布了iQOO&amp;nbsp;10&amp;nbsp;Pro，这是第一款突破200W功率快充的手机，从最初的5V1A充电，到如今的200W快充，手机充电的功率已经提升了将近40倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;癌症具有从身体任何部位扩散到另一个部位的可怕能力--这也是使这些衰弱的疾病如此致命的部分原因。这一被称为“转移”的过程一直令科学家感到困惑。不过&lt;strong&gt;现在，一项新研究可能已经为研究人员指出了正确的方向，从而帮助他们了解癌症是如何扩散的，而这也可能在未来带来新的治疗方案。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《我的世界》联动蝙蝠侠DLC明天正式上线](https://hot.cnbeta.com/articles/game/1327737.htm) | Sun Oct 16 2022 11:11 PM 
+- 💼 [爱好者耗时2个多月在《我的世界》中打造出整个“宇宙”](https://hot.cnbeta.com/articles/game/1327833.htm) | Mon Oct 17 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，Mojong宣布沙盒建造游戏《我的世界》将与《蝙蝠侠》联动，在10月18日推出全新的《蝙蝠侠》DLC。通过该DLC，玩家可以在游戏中探索哥谭市，并与小丑等反派角色战斗。&lt;strong&gt;《我的世界》蝙蝠侠DLC预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们此前已看到不少大神在《我的世界》（Minecraft）中创建的各种东西，从知名建筑设计到功能强大的超级计算机等等。&lt;strong&gt;但 Minecraft 爱好者 Christopher Slayton 决定是时候进一步扩大规模，在游戏中创建了整个“宇宙”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [黑曜石CEO希望退休之前能再开发一款新辐射游戏](https://hot.cnbeta.com/articles/game/1327735.htm) | Sun Oct 16 2022 11:10 PM 
+- 💂 [盖茨基金会承诺将捐出12亿美元用于消除脊髓灰质炎](https://www.cnbeta.com/articles/tech/1327831.htm) | Mon Oct 17 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管在此之前的辐射系列25周年纪念推特上，黑曜石工作室官方表态自己太忙，没时间参与辐射系列新作开发，但是在短短几天之后，我们听到了不同的声音。黑曜石工作室高层在接受媒体采访时对外透露，想要开发辐射新作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;比尔和梅林达-盖茨基金会于当地时间周日在世界各地卫生专家齐聚的柏林峰会上作出承诺，它将投资12亿美元用于消灭骨髓灰质炎。&lt;/strong&gt;“消除脊髓灰质炎指日可待。但是，尽管我们已经取得了进展，这种疾病仍是一种威胁，”该基金会的联合主席比尔-盖茨在一份声明中说道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327831.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《猎天使魔女3》神谷英树Twitter被暂时封禁](https://hot.cnbeta.com/articles/game/1327733.htm) | Sun Oct 16 2022 11:09 PM 
+- 🚀 [哈佛研究人员发现疼痛对人体具有保护性](https://www.cnbeta.com/articles/science/1327829.htm) | Mon Oct 17 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在《猎天使魔女3》配音演员争议之后，白金工作室副总裁神谷英树的Twitter账号被暂时限制。被限制之前，神谷英树最近的一条推文是：“我警告你……”。虽然账户被限制并不是完全删除，但它确实阻止了用户使用twitter。虽然账户经常因为违反Twitter的服务条款而被锁定，但也有可能是因为有人试图通过欺诈手段访问该账户。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对小鼠的新研究阐明了疼痛神经元如何保护肠道免受损害。疼痛是进化过程中检测伤害和让我们知道有问题的最有效机制之一。它就像一个警告系统，告诉我们要停下来并关注我们的身体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327829.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [香港下定决心竞争全球虚拟资产中心](https://www.cnbeta.com/articles/tech/1327731.htm) | Sun Oct 16 2022 11:09 PM 
+- 🎊 [科学家绘制出首张“银河系地下世界”地图：揭示银河系死星墓地](https://www.cnbeta.com/articles/science/1327827.htm) | Mon Oct 17 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;香港已下定决心与新加坡、伦敦、纽约等城市争夺全球加密金融中心和虚拟资产中心地位。10月16日，香港财政司司长陈茂波发表文章《香港的创科发展》，并指出要推动香港发展成国际虚拟资产中心。陈茂波表示：“政策宣言将清晰表达政府立场，向全球业界展示我们&lt;strong&gt;推动香港发展成国际虚拟资产中心的愿景&lt;/strong&gt;，以及与全球资产业界一同探索金融创新的承担和决心。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项新研究绘制了我们银河系古老的死亡恒星的第一张地图。在这张“银河系地下世界 ”的地图中，悉尼大学的一项研究揭示了一个巨大的墓地，它延伸到了银河系高度的三倍。另外它还指出了死亡恒星的位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327827.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
