@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [继向梵高画作泼番茄汤后 肇事组织成员爬上英国80余米高塔楼致交通堵塞](https://www.cnbeta.com/articles/tech/1328095.htm) | Mon Oct 17 2022 8:20 PM 
+- 🕯 [BioNTech：2030年前癌症疫苗或将问世 利用mRNA技术摧毁癌细胞](https://www.cnbeta.com/articles/science/1328103.htm) | Mon Oct 17 2022 11:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;据《卫报》10月16日消息，德国生物技术公司BioNTech的创始人在接受BBC采访时称，针对癌症的疫苗可能2030年前上市。&lt;/strong&gt;BioNTech是欧洲最大生物技术独角兽，与美国辉瑞合作研发生产了mRNA新冠疫苗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [意在补贴 特斯拉将4680电池德国产线搬回美国](https://www.cnbeta.com/articles/tech/1328101.htm) | Mon Oct 17 2022 11:22 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;当特斯拉在德国的格伦海德（Grünheide）建立其在欧洲的首家超级工厂时，原本打算配套建一个电池工厂。毕竟，埃隆·马斯克（Elon Musk）在2020年发推文说，德国工厂将测试“很多新技术”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [TikTok宣布提高直播年龄要求](https://www.cnbeta.com/articles/tech/1328099.htm) | Mon Oct 17 2022 11:21 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;TikTok正在更新其流媒体直播系统以限制孩子们的直播并允许流媒体人只接触成年人。在一篇博文中，TikTok宣布了对其流媒体直播功能的一系列改变，包括新年龄门槛方法和创作者工具。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [传英特尔将自动驾驶部门Mobileye估值定为不到200亿美元：远低于预期](https://www.cnbeta.com/articles/tech/1328097.htm) | Mon Oct 17 2022 11:19 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据熟知内情的消息人士透露，英特尔计划将其自动驾驶汽车部门Mobileye以远低于此前预期的估值IPO（首次公开募股）上市。消息人士称，英特尔最初预计的Mobileye估值约为500亿美元，但现在的目标则仅为不到200亿美元，而且在IPO中发售的股票数量也将少于最初的计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [继向梵高画作泼番茄汤后 肇事组织成员爬上英国80余米高塔楼致交通堵塞](https://www.cnbeta.com/articles/tech/1328095.htm) | Mon Oct 17 2022 8:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当地时间10月17日，两名“停止石油运动（Just Stop Oil）”的抗议者爬上泰晤士河上的一座主要桥梁，造成了严重的交通延误，就在几天前，该组织的活动人士向梵高的代表作《&lt;a href=&quot;https://finance.sina.com.cn/realstock/company/sz300111/nc.shtml&quot; class=&quot;keyword&quot; target=&quot;_blank&quot; data-sudaclick=&quot;content_marketkeywords_p&quot;&gt;向日葵&lt;/a&gt;》泼洒番茄汤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [日本仙台市启用全球首个无人机海啸预警系统](https://www.cnbeta.com/articles/tech/1328093.htm) | Mon Oct 17 2022 8:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本宫城县仙台市10月17日开始全面运用小型无人机，在发布海啸警报等情况下自动飞行，用扬声器呼吁沿海地区的人避难。外媒报道称，这是世界上首个无人机海啸预警系统。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328093.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [德国将3座核电站运营时间延长至2023年](https://www.cnbeta.com/articles/tech/1328091.htm) | Mon Oct 17 2022 8:18 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;德国总理朔尔茨17日正式宣布，将德国剩余3座核电站的运营时间延长至2023年4月15日。据报道，朔尔茨已正式向相关部门宣布了这一决定，接下来德国政府将正式启动立法流程，以便伊萨尔二号核电站、内卡韦斯特海姆二号核电站和埃姆斯兰核电站可以在2022年12月31日之后继续运营至2023年4月15日。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [NASA开始测试火星样本返回任务的防护罩](https://www.cnbeta.com/articles/science/1328089.htm) | Mon Oct 17 2022 7:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;任何太空任务，包括NASA的火星样本返回，都有一个潜在的危险，就是微陨石。&lt;strong&gt;这些微小的岩石可以每秒飞行50英里（180000英里/小时）。在这种极端的速度下，即使是灰尘也会对航天器造成损害。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [研究发现年轻LGBTQ+人群在网上遭遇仇恨言论可能性是原来的两倍以上](https://www.cnbeta.com/articles/tech/1328087.htm) | Mon Oct 17 2022 7:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据一份关于年轻人如何使用互联网的新报告，&lt;strong&gt;年轻的LGBTQ+人与那些认同为异性恋的人相比，在网上遭遇仇恨言论的可能性要高出两倍多。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
