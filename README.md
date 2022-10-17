@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [又实现了一个酷炫的动感激光，不来看看？](https://juejin.cn/post/7155143639302144037) | Sun Oct 16 2022 4:13 PM 
+- 🤗 [CV攻城狮入门VIT&lpar;vision transformer&rpar;之旅——VIT代码实战篇](https://juejin.cn/post/7155291186796691469) | Mon Oct 17 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 8 天，点击查看活动详情 前言 大家好，我是爱吃鱼的桶哥Z，最近比较忙，一直都没空更新文章。刚好周末了，可以好好的放松一下，顺 
+    本文为大家介绍了VIT的源码部分，针对流程图为大家梳理整个VIT搭建的过程，让你也能够独立搭建VIT模型，快来一起学学吧！！！ 
     </details> 
 
-- 🎡 [实施风险应对](https://juejin.cn/post/7155137320797077541) | Sun Oct 16 2022 3:48 PM 
+- 🎡 [Lazada D11 体验升级技术实践](https://juejin.cn/post/7155285199679389733) | Mon Oct 17 2022 1:21 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第17天，点击查看活动详情 前言 风险应对策略不一定能够全部清除内在风险，还可能会遗留剩余风险。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情作者：余浩斐&lpar;浩斐&rpar;拥有 6.8 亿人口的东南亚市场正在经历爆发式增长，作为东南亚领先的电商平台和阿里巴 
     </details> 
 
-- 🕯 [ULID规范解读与实现原理](https://juejin.cn/post/7155119516853207077) | Sun Oct 16 2022 2:38 PM 
+- 🕯 [HPC、AI与云计算：当智能时代三叉戟在亚马逊云科技完美融合](https://juejin.cn/post/7155285068838076424) | Mon Oct 17 2022 1:20 AM 
     <details><summary>展开描述 ...</summary> 
-    前提 最近发现各个频道推荐了很多ULID相关文章，这里对ULID的规范文件进行解读，并且基于Java语言自行实现ULID，通过此实现过程展示ULID的底层原理。 ULID出现的背景 ULID全称是Un 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情希腊神话中，海神与丰收之神波塞冬手持三叉戟，为航船保驾护航，为农人带来清泉。从此之后，三叉戟经常用来比喻 
     </details> 
 
-- 🚀 [大数据Hadoop之——新一代流式数据湖平台 Apache Hudi](https://juejin.cn/post/7155115479961436191) | Sun Oct 16 2022 2:22 PM 
+- 🚀 [Three.js 进阶之旅：神奇的粒子系统-迷失太空 👨‍🚀](https://juejin.cn/post/7155278132806123557) | Mon Oct 17 2022 12:54 AM 
     <details><summary>展开描述 ...</summary> 
-    Hudi（Hadoop Upserts Deletes and Incrementals），简称Hudi，是一个流式数据湖平台，支持对海量数据快速更新，内置表格式，支持事务的存储层、 一系列表服务、数 
+    粒子 particle 和 精灵 sprite 是在三维开发中经常用到的网格模型，在 Three.js 中使用 THREE.Points 可以非常容易地创建很多细小的物体，可以用来模拟星辰、雨滴、雪花 
     </details> 
 
-- 💪 [【Gradle-1】入门Gradle，前置必读](https://juejin.cn/post/7155109977579847710) | Sun Oct 16 2022 2:01 PM 
+- 💪 [极客的浪漫「GitHub 热点速览 v.22.41」](https://juejin.cn/post/7155277880195776548) | Mon Oct 17 2022 12:53 AM 
     <details><summary>展开描述 ...</summary> 
-    做开发这么久了，你是否对Gradle又爱又恨？是否对Gradle的配置一知半解？是否每次编译结果都像开盲盒一样？是否想知道Gradle背后执行的原理？是否也想手写Plugin？ 
+    极客的浪漫，是怀旧复古的开源操作系统 SerenityOS 献上的情书；也是实用派用 AI 作画工具 novelai-bot 生成二次元女友。LxgwWenKai 用仿宋 / 楷体中文字体书写而成的那 
     </details> 
 <!-- juejin:END -->
 ### 少数派
