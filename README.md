@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从零到一搭建基础架构&lpar;3&rpar;-base模块搭建上篇](https://juejin.cn/post/7155368689842257928) | Mon Oct 17 2022 6:45 AM 
+- 🤗 [谈论从把多项目合并成一个项目中获得的收益](https://juejin.cn/post/7155401030593691655) | Mon Oct 17 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ Hello，这里是爱 Coding，爱 Hiphop，爱喝点小酒的 AKA 柏炎。 本篇是手把手搭建基础架构 
+    在开源社区流行着这样两种项目管理的方式: multirepos和monorepos, 接下来我们就谈谈这两者的得与失 
     </details> 
 
-- 🎡 [iPhone 移除描述文件详细步骤（Apple Configurator 2）](https://juejin.cn/post/7155361067479072775) | Mon Oct 17 2022 6:16 AM 
+- 🎡 [记录仿抖音的视频播放并缓存预加载视频的效果实现](https://juejin.cn/post/7155381983814615048) | Mon Oct 17 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
-    1、Mac 电脑 App Store 安装 Apple Configurator 2 2、将手机连接电脑，并信任，然后就会连接上手机，双击手机，然后选中描述文件菜单，选中需要删除的描述文件，点击顶部菜 
+    我们的动态列表并不是九宫格和一些图片文本的信息流展示，我们还包含和和WX盆友圈一样的视频功能。其中有一个快捷入口可以播放视频列表，类似抖音的效果。 
     </details> 
 
-- 🕯 [&lpar;九&rpar;MySQL之MVCC机制：为什么你改了的数据我还看不见？](https://juejin.cn/post/7155359629050904584) | Mon Oct 17 2022 6:09 AM 
+- 🕯 [git branch --set-upstream-to=origin/master](https://juejin.cn/post/7155379042642821133) | Mon Oct 17 2022 7:25 AM 
     <details><summary>展开描述 ...</summary> 
-    增、删、改是数据库中十分常见的操作，但为什么一个事务对一条数据进行变更操作后，另外一个事务却看不见呢？这背后的一切究竟是何原理？本篇与诸位携手共探MySQL-MVCC机制。 
+    原因: git 本地新建一个分支后，必须要做远程分支关联。如果没有关联， git 会在下面的操作中提示你显示的添加关联。关联目的是如果在本地分支下操作： git pull , git push ，不需 
     </details> 
 
-- 🚀 [RocketMQ：写一个生产者程序要注意些什么](https://juejin.cn/post/7155348744379547655) | Mon Oct 17 2022 5:28 AM 
+- 🚀 [音视频大合集，先从零开始万事开头难](https://juejin.cn/post/7155378216843575332) | Mon Oct 17 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 背景 消息队列是我们日常工作中最长用到的中间件之一，那么写一个生产者程序要注意什么，这里已 Rocket 
+    前言 周六按时发了工资。好好休息了两天，出去消费了一波美滋滋🤣🤣🤣 顺带有粉丝找我问有没有openGL ES比较深入的学习内容，和Recyclerview的.抽空弄一波。 前几天零零散散的更新了一些音 
     </details> 
 
-- 💪 [HMR系列二：整体流程梳理](https://juejin.cn/post/7155310911039733774) | Mon Oct 17 2022 3:01 AM 
+- 💪 [如何寻找软件外包公司?](https://juejin.cn/post/7155377045940207646) | Mon Oct 17 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-    在上一篇中我们主要是了解了 HMR 的简单概念以及相关 API，也手动实现了文件的 HMR。 接下来我们来梳理一下在 vite 中，当我们对文件代码做出改变时，整个 HMR 的流程是怎样的。 
+    做软件外包的公司和个人太多了，暂不说个人做私活的程序员，光注册的外包公司都2万多家，从2万家里面挑选靠谱的有多么困难。 现在的软件外包商可以分为三类... ... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
