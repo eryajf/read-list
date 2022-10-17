@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [MINI电动车生产线将从“故乡”转移到中国？宝马回应](https://www.cnbeta.com/articles/tech/1327905.htm) | Mon Oct 17 2022 6:46 AM 
+- 🕯 [《战神：诸神黄昏》临近发售 有玩家已经提前上手游玩](https://hot.cnbeta.com/articles/game/1327933.htm) | Mon Oct 17 2022 7:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据环球时报报道，继德国大众日前宣布24亿欧元（约合人民币168亿元）的在华投资项目后，又传出德国另一车企宝马集团计划将MINI电动车生产线从英国迁移到中国。&lt;strong&gt;&lt;span style=&quot;&quot;&gt;据第一财经报道，宝马中国方面10月16日对记者表示，&lt;/span&gt;&lt;span style=&quot;&quot;&gt;牛津工厂将暂停电动车生产，但不会停止生产MINI车型，并明确与长城汽车合作的光束汽车将生产纯电动MINI。&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;圣莫妮卡工作室《战神》系列新作《战神：诸神黄昏》临近发售，不少玩家已经迫不及待的想和奎托斯父子一起探索北欧世界。但急归急，还是要等到正式发售那一天才能上手。而推特网友mrpyo1在今日发文称，自己发现部分玩家已经拿到游戏并开始上手游玩。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [CNES的MICROSCOPE任务的最终结果达到了创纪录的精度水平](https://www.cnbeta.com/articles/science/1327903.htm) | Mon Oct 17 2022 6:45 AM 
+- 💼 [LG新能源正同丰田谈判 向丰田美国工厂供应电动汽车电池](https://www.cnbeta.com/articles/tech/1327931.htm) | Mon Oct 17 2022 7:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;法国国家太空研究中心（CNES）的MICROSCOPE（等效原理观测阻力补偿微卫星）任务已交付其最新成果，并以前所未有的10-15的精度证实了等效原理。 &lt;/strong&gt;这些结果表明，物体在真空中以相同的加速度下落，无论其成分或质量如何，这意味着等效原理在今天仍然坚定不移，以标志着爱因斯坦在一个多世纪前提出的广义相对论的又一次胜利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1327903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月17日消息，据国外媒体报道，&lt;strong&gt;在年初同本田签订供应协议之后，当前全球第二大电动汽车电池制造商LG新能源，又在同丰田进行谈判。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [纪念《雷神4》MovieNEX即将发售 官方公布新幕后花絮](https://hot.cnbeta.com/articles/movie/1327901.htm) | Mon Oct 17 2022 6:43 AM 
+- 💂 [Minecraft Live 2022精彩回顾《我的世界》1.20版本更新预告](https://hot.cnbeta.com/articles/game/1327929.htm) | Mon Oct 17 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;漫威系列名作新篇《雷神4：爱与雷霆》即将于10月26日发售MovieNEX版，作为纪念，漫威影业官方日前公布了一段特别版新幕后制作花絮，展示了不少未公开画面以及神杀者演员贝尔的访谈，一起来欣赏下。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1327901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为沙盒游戏爱好者的一场盛会，如果你错过了上周的 Minecraft Live 2022 直播活动，那不妨看下这篇“精彩回顾”。&lt;/strong&gt;据悉，Mojang Studios 在活动期间放出了一系列公告，让我们对未来更新感到激动不已。首先聊聊即将到来的 1.20 版本。尽管尚未披露官方名称，但它至少会带来沙漠骆驼。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1327929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国新型土葬：特制棺材 遗体30天分解成土壤](https://www.cnbeta.com/articles/tech/1327899.htm) | Mon Oct 17 2022 6:41 AM 
+- 🚀 [利率上升影响融资 东芝收购交易或无法如期完成](https://www.cnbeta.com/articles/tech/1327927.htm) | Mon Oct 17 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在《三体 2 黑暗森林》这部科幻小说中，刘慈欣对未来的丧葬假想了一种可能：当飞向太空已经成为低成本、低风险的交通方式之后，将人类骨灰带入太空的“太空葬”将成为流行趋势，因为外星人将占领地球，传统的落叶归根思想将不得不被人们抛弃。&lt;strong&gt;现实世界，并没有外星人入侵的桥段，而人类长久以来形成的落叶归根观念反而越发强化且追溯潮流。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;收购东芝公司可能是今年亚洲最大的收购案，但知情人士透露，由日本产业伙伴&lpar;JIP&rpar;牵头的财团以及由日本政府支持的产业革新投资机构&lpar;JIC&rpar;牵头的财团可能难以在此前设定的11月7日最后期限之前完成融资承诺。在美国和其他地区借贷成本上升的情况下，一些全球银行对东芝等大型收购交易持谨慎态度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马斯克再次证实特斯拉Model Y Performance的赛道模式](https://www.cnbeta.com/articles/tech/1327897.htm) | Mon Oct 17 2022 6:37 AM 
+- 🎊 [中国首家元宇宙新闻与传播学院在南开大学推出](https://www.cnbeta.com/articles/tech/1327925.htm) | Mon Oct 17 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;周末时候，伊隆·马斯克重申了 Model Y Performance 的赛道模式 —— 尽管早在 2020 年就放出了预告，但该模式迄今尚未推送到该车型上。&lt;/strong&gt;针对 Twitter 网友的提问，特斯拉 CEO 承认 —— Model Y 的赛道模式，并不像听起来那么容易。另一方面，Model 3 Performance 和 Model S Plaid 早就提供了这项特性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;百年学府南开大学校庆日暨南开大学新闻与传播学院成立一周年之际，中国首家元宇宙新闻与传播学院今日（10月17日）在南开大学推出，根据南开大学新闻与传播学院秀山堂现实物理空间虚拟复制的数字空间正式上线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1327925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
