@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Galaxy S23跑分数据出现在Geekbench上 关键细节得到确认](https://www.cnbeta.com/articles/tech/1328015.htm) | Mon Oct 17 2022 11:13 AM 
+- 🕯 [Riot Games收购了《坦克世界》的开发商Wargaming Sydney](https://hot.cnbeta.com/articles/game/1328073.htm) | Mon Oct 17 2022 3:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在昨天，属于Galaxy S23系列的透明外壳被泄露出来，证实了很多人猜测的一些关键设计细节，今天，我们第一次看到Galaxy S23出现在Geekbench上，又展示了性能方面的细节；有些我们已经知道，有些对我们来说是新的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328015.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;视频游戏开发商和发行商Riot Games宣布收购Wargaming Sydney，这同样是一家游戏软件开发工作室，隶属于总部位于塞浦路斯的Wargaming公司，该公司是《坦克世界》和《战舰世界》等游戏背后的发行商。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328073.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [PHP 8.2获准在Fedora 38中引入](https://www.cnbeta.com/articles/tech/1328013.htm) | Mon Oct 17 2022 11:00 AM 
+- 💼 [iPhone 14 Pro Max DXO得分146分 一分之差屈居第三](https://www.cnbeta.com/articles/tech/1328071.htm) | Mon Oct 17 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;人们都知道Fedora倾向于使用最先进的软件包版本，明年春天Fedora Linux 38将为那些想在这个现代的、由Red Hat赞助的Linux发行版上运行LAMP的用户提供PHP 8.2。上周，Fedora工程和指导委员会（FESCo）批准将F38的PHP包升级到PHP 8.2。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328013.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，DXOMARK官方公布了iPhone 14 Pro Max的相机评测成绩，&lt;strong&gt;总成绩为146，无论总分还是子项分都和早先评测的iPhone 14 Pro完全一致。&lt;/strong&gt;它俩落后Google Pixel 7 Pro、荣耀Magic 4至臻版，仅以一分之差，并列屈居第三。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328071.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [联想再战水墨屏：YOGA Paper墨水平板真机现身](https://www.cnbeta.com/articles/tech/1328011.htm) | Mon Oct 17 2022 10:55 AM 
+- 💂 [微软澄清Office品牌不会消失 单机版还会继续提供](https://www.cnbeta.com/articles/tech/1328069.htm) | Mon Oct 17 2022 3:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今天，&lt;strong&gt;微博博主、联想消费者营销总监胖大乖儿晒出了联想YOGA旗下一款新品的真机照片。&lt;/strong&gt;这款被命名为YOGA Paper的墨水平板采用了不对称的布局设计&lt;/strong&gt;，靠近左手握持的一次边框较厚，在为触控笔腾出空间的同时，也能够减少误触的概率。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328011.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;前不久微软表示将推出Microsoft 365应用取代现有的Office应用。甚至，Office.com网站、Office移动应用程序和适用于Windows的Office Hub程序也将更名。于是，一些媒体表示，Office品牌要被微软放弃了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328069.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [首个骁龙8G2跑分曝光：频率冲上3.4GHz 性能大涨24%](https://www.cnbeta.com/articles/tech/1328009.htm) | Mon Oct 17 2022 10:54 AM 
+- 🚀 [Electron上运行的Windows 95新版发布 支持Chromium及黑暗模式](https://www.cnbeta.com/articles/tech/1328067.htm) | Mon Oct 17 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;预计11月份高通就会发布新一代骁龙8旗舰——骁龙8 Gen2（简称骁龙8G2）了，现在首个跑分也泄露了，设备是三星的Galaxy S23系列，CPU大核频率3.4GHz，GK5单核1524分，多核4597分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Windows 95已经发布27个年头了，虽然更为现代的Windows 11早已经是PC上的新宠，但Windows社区的许多成员可能仍然认为Windows 95是微软所能创造的最伟大的产品之一。因此著名的GitHub项目Electron Windows 95一直以来都让许多人感兴趣。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328067.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [realme 10 Pro+通过CQC认证 数字系列回归国内](https://www.cnbeta.com/articles/tech/1328007.htm) | Mon Oct 17 2022 10:53 AM 
+- 🎊 [英特尔发布面向Meteor Lake和Sierra Forest CPU的GCC编译器补丁](https://www.cnbeta.com/articles/tech/1328065.htm) | Mon Oct 17 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;就在不久前，曾有消息称realme正计划让数字系列回归国内市场，&lt;strong&gt;而现在，Realme一款型号为RMX6386的机型通过国内CQC认证，证明了这一消息的正确性。&lt;/strong&gt;从已知信息来看，&lt;strong&gt;RMX6386这一型号对应的是realme 10 Pro+这款新机，它搭载联发科天玑1080处理器，支持60W快充，并有一块AMOLED屏幕。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;英特尔已经发布了GNU编译器集合或GCC的新补丁，这将有助于支持即将到来的Meteor Lake和Sierra Forest CPU。&lt;/strong&gt;GCC包括几种编码语言和库，如C、C++等，为利用Linux、Ubuntu等操作系统的用户提供一个开源的编译选项。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328065.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
