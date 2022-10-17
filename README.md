@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [字节招聘 | 高级安全工程师、技术专家岗等你来投！](https://www.freebuf.com/jobs/347056.html) | Mon Oct 17 2022 10:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    欢迎有隐私合规安全、数据安全、客户端/移动安全&amp;amp;QA经验的的同仁！ 
+    </details> 
+
 - 🦄 [加密货币平台Mango Markets遭攻击损失超1亿美元，黑客宣布返还6700万](https://www.freebuf.com/articles/blockchain-articles/347025.html) | Mon Oct 17 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
     一位自称对此次攻击负责的黑客，称要归还部分被盗资金，约6700万美元，余下的金额则当作名义上的漏洞赏金。 
     </details> 
 
-- 🦄 [因盗取信息，下载“果照”，一学生被判 13 个月监禁](https://www.freebuf.com/news/346999.html) | Mon Oct 17 2022 5:14 AM 
+- 🦅 [因盗取信息，下载“果照”，一学生被判 13 个月监禁](https://www.freebuf.com/news/346999.html) | Mon Oct 17 2022 5:14 AM 
     <details><summary>展开描述 ...</summary> 
     美国地区法院法官 Silvia Carreño Coll 以网络跟踪罪判处 Iván Santell-Velázquez 13 个月监禁。 
     </details> 
 
-- 🦅 [FreeBuf早报 | Fortinet身份漏洞的POC已发布；接棒微软0path为WIN7提供服务](https://www.freebuf.com/news/346931.html) | Fri Oct 14 2022 11:14 AM 
+- 🪄 [FreeBuf早报 | Fortinet身份漏洞的POC已发布；接棒微软0path为WIN7提供服务](https://www.freebuf.com/news/346931.html) | Fri Oct 14 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
     最近披露的影响 Fortinet 严重安全漏洞已提供概念验证 &lpar;PoC&rpar; 漏洞利用代码，因此用户必须迅速采取行动以应用补丁。 
     </details> 
 
-- 🪄 [FreeBuf周报 | VMware某漏洞一年仍未修补；宜家智能照明系统发现漏洞](https://www.freebuf.com/news/346841.html) | Fri Oct 14 2022 7:40 AM 
+- 💻 [FreeBuf周报 | VMware某漏洞一年仍未修补；宜家智能照明系统发现漏洞](https://www.freebuf.com/news/346841.html) | Fri Oct 14 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
     我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
-    </details> 
-
-- 💻 [Magniber勒索软件通过JavaScript文件感染Windows用户](https://www.freebuf.com/news/346826.html) | Fri Oct 14 2022 7:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    注意，在恢复数据之前，用户应确保其备份未被感染。 
     </details> 
 <!-- freebuf:END -->
 
