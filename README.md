@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何屏蔽银行骚扰电话？](https://www.v2ex.com/t/887569#reply3) | Mon Oct 17 2022 9:25 AM
-- 🤗 [走进 VR 世界， PICO 前端职位火热招聘中，欢迎来聊](https://www.v2ex.com/t/887567#reply0) | Mon Oct 17 2022 9:19 AM
-- 🎭 [公司要求用户敏感数据加密存储，大伙有什么建议吗？](https://www.v2ex.com/t/887563#reply5) | Mon Oct 17 2022 9:16 AM
-- 🥷 [请问有什么开源的自动化测试平台吗](https://www.v2ex.com/t/887559#reply0) | Mon Oct 17 2022 9:08 AM
-- 🐵 [小米路由器 AX6000 内置的 DDNS 服务有人添加成功么？为啥我一直是“保存中”](https://www.v2ex.com/t/887558#reply2) | Mon Oct 17 2022 9:02 AM<!-- v2ex:END -->
+- 🥸 [Windows 编译环境介绍](https://www.v2ex.com/t/887588#reply0) | Mon Oct 17 2022 10:25 AM
+- 🤗 [拼多多是怎么做到分享的助力链接域名不是自己的呢？](https://www.v2ex.com/t/887582#reply11) | Mon Oct 17 2022 9:55 AM
+- 🎭 [做了这几步， Mac 和 Windows 都能更好地满足我的需求了。](https://www.v2ex.com/t/887577#reply1) | Mon Oct 17 2022 9:39 AM
+- 🥷 [Linux 编译基础](https://www.v2ex.com/t/887574#reply1) | Mon Oct 17 2022 9:37 AM
+- 🐵 [如何屏蔽银行骚扰电话？](https://www.v2ex.com/t/887569#reply11) | Mon Oct 17 2022 9:25 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
