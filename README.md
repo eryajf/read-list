@@ -348,14 +348,14 @@
     美国地区法院法官 Silvia Carreño Coll 以网络跟踪罪判处 Iván Santell-Velázquez 13 个月监禁。 
     </details> 
 
-- 🪄 [FreeBuf早报 | Fortinet身份漏洞的POC已发布；接棒微软0path为WIN7提供服务](https://www.freebuf.com/news/346931.html) | Fri Oct 14 2022 11:14 AM 
+- 🪄 [AD-Resolute详解](https://www.freebuf.com/articles/web/346963.html) | Sun Oct 16 2022 12:02 PM 
     <details><summary>展开描述 ...</summary> 
-    最近披露的影响 Fortinet 严重安全漏洞已提供概念验证 &lpar;PoC&rpar; 漏洞利用代码，因此用户必须迅速采取行动以应用补丁。 
+    Hack The Box的Active Directory 101 系列域渗透的靶机Resolute。 
     </details> 
 
-- 💻 [FreeBuf周报 | VMware某漏洞一年仍未修补；宜家智能照明系统发现漏洞](https://www.freebuf.com/news/346841.html) | Fri Oct 14 2022 7:40 AM 
+- 💻 [FreeBuf早报 | Fortinet身份漏洞的POC已发布；接棒微软0path为WIN7提供服务](https://www.freebuf.com/news/346931.html) | Fri Oct 14 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-    我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
+    最近披露的影响 Fortinet 严重安全漏洞已提供概念验证 &lpar;PoC&rpar; 漏洞利用代码，因此用户必须迅速采取行动以应用补丁。 
     </details> 
 <!-- freebuf:END -->
 
