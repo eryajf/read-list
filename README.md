@@ -113,11 +113,11 @@
 ### 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🦣 [独立产品灵感周刊 DecoHack #033 – 免费的博客主题推荐](https://www.decohack.com/Post/1068) | Mon Oct 10 2022 8:14 AM
-- 👺 [独立产品灵感周刊 DecoHack #032 – 有趣的井盖设计](https://www.decohack.com/Post/1053) | Mon Sep 26 2022 7:38 AM
--  [独立产品灵感周刊 DecoHack #031 – 用 AI 给黑白照片上色哪家好？](https://www.decohack.com/Post/1040) | Mon Sep 19 2022 9:28 AM
-- 🐲 [独立产品灵感周刊 DecoHack #030 – iOS16正式发布](https://www.decohack.com/Post/1023) | Tue Sep 13 2022 8:18 AM
-- 🦅 [独立产品灵感周刊 DecoHack #029 – 随便逛逛谷歌街景](https://www.decohack.com/Post/1004) | Mon Sep 05 2022 5:50 AM<!-- DecoHack:END -->
+- 🦣 [独立产品灵感周刊 DecoHack #034 – 谷歌的前端开发课程](https://www.decohack.com/Post/1085) | Mon Oct 17 2022 11:01 AM
+- 👺 [独立产品灵感周刊 DecoHack #033 – 免费的博客主题推荐](https://www.decohack.com/Post/1068) | Mon Oct 10 2022 8:14 AM
+-  [独立产品灵感周刊 DecoHack #032 – 有趣的井盖设计](https://www.decohack.com/Post/1053) | Mon Sep 26 2022 7:38 AM
+- 🐲 [独立产品灵感周刊 DecoHack #031 – 用 AI 给黑白照片上色哪家好？](https://www.decohack.com/Post/1040) | Mon Sep 19 2022 9:28 AM
+- 🦅 [独立产品灵感周刊 DecoHack #030 – iOS16正式发布](https://www.decohack.com/Post/1023) | Tue Sep 13 2022 8:18 AM<!-- DecoHack:END -->
 
 ### 独立开发变现周刊
 
