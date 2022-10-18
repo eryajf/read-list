@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《使命召唤19：现代战争2》官方PC系统配置公布](https://hot.cnbeta.com/articles/game/1328541.htm) | Tue Oct 18 2022 8:20 PM 
+- 🕯 [iOS 16.1候选版本发布：引入iCloud共享照片图库 实时活动支持第三方APP](https://www.cnbeta.com/articles/tech/1328547.htm) | Tue Oct 18 2022 10:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果今天面向开发人员推出了 iOS 16.1 的候选版本，正式版预估将会在下周推出。根据官方公开的更新日志，本次更新主要引入了 iCloud 共享照片图库，可以实现家人照片共享并保持更新状态。本次更新还在实时活动中加入了第三方 APP 的支持，并包括针对 iPhone 的其他功能和错误修复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [[视频]同为5nm工艺 Pixel 7 Pro性能竟明显落后于iPhone 14 Plus](https://www.cnbeta.com/articles/tech/1328545.htm) | Tue Oct 18 2022 10:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;时间已迈入 10 月下旬，这意味着今年的旗舰手机差不多都已经登场了。在今年的旗舰中，Pixel 7 Pro 和 iPhone 14 Plus 的起售价均为 899 美元，如果这两台手机放在你面前让你挑选，你会选择谁？国外油管频道 Max Tech 带来了两者的对比。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Windows 11 2022 Update和NVIDIA驱动仍存兼容性问题](https://www.cnbeta.com/articles/tech/1328543.htm) | Tue Oct 18 2022 9:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Windows 11 2022 Update 虽然增强了诸多游戏功能，但是和 NVIDIA 驱动之间存在兼容性问题。英伟达迅速发布了紧急软件更新来解决这个问题，该更新随后整合到 Game Ready 驱动程序中。由于显示驱动是累积的，该更新也整合到最新的 522.25 更新中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《使命召唤19：现代战争2》官方PC系统配置公布](https://hot.cnbeta.com/articles/game/1328541.htm) | Tue Oct 18 2022 8:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;动视和Infinity Ward刚刚公布了《使命召唤19：现代战争2》官方PC系统要求。公司还表示，这款新的COD游戏只适用于支持AVX指令的Intel和AMD CPU。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [瑞典媒体首次曝光“北溪”断面视频 几乎排除意外事件可能性](https://www.cnbeta.com/articles/tech/1328539.htm) | Tue Oct 18 2022 8:20 PM 
+- 🎊 [瑞典媒体首次曝光“北溪”断面视频 几乎排除意外事件可能性](https://www.cnbeta.com/articles/tech/1328539.htm) | Tue Oct 18 2022 8:20 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据瑞典当地媒体《瑞典快报》（Expressen）周二（10月18日）的报道，该报记者在波罗的海80米深处拍摄到了“北溪-1”天然气管道的断裂位置的画面。报道称，该报于周一通过遥控无人潜水器拍摄的视频显示，超过50米的管道可能丢失，也可能被埋在海床下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Windows 10 2022 Update现已推出 带来&quot;一系列有限的生产力功能&quot;](https://www.cnbeta.com/articles/tech/1328537.htm) | Tue Oct 18 2022 7:19 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;微软已经开始为Windows 10推出最新的功能更新，Windows 10 2022更新现在可以作为一个启用包提供给那些坚持使用老式Windows 10（2004版和更新版）的人。&lt;/strong&gt;微软尚未公布Windows 10 2022更新（或22H2）的官方更新日志，但不要把希望寄托得太高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Windows 11 Moment 1 更新正式发布 现已可下载](https://www.cnbeta.com/articles/tech/1328535.htm) | Tue Oct 18 2022 7:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软已经开始推出之前承诺的Windows 11的一批新功能。该更新又称&amp;quot;Moment 1&amp;quot;，现在可用于所有运行Windows 11 2022更新的合格系统，用户可以在微软的官方视频中查看Windows 11的最新功能更新中有哪些新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [离了大谱 Intel Arc显卡待机功耗达47W 一招搞定](https://www.cnbeta.com/articles/tech/1328533.htm) | Tue Oct 18 2022 6:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel Arc A7系列显卡发布后，很快被发现存在待机功耗过高的问题。还好很快，Intel就给出了解决方法。正常来说，显卡在待机时的功耗不会超过10W，但实测显示，Arc A770显卡啥也不干就会消耗多达45W左右，最高47W，Arc A750也会白白吃掉40W左右。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
