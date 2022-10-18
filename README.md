@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [阿里云国际站腾讯云国际站可提供实名账户，云主机，代充值可付 USDT](https://www.v2ex.com/t/887693#reply0) | Tue Oct 18 2022 2:03 AM
-- 🤗 [腾讯云海外便宜云服务器 数据库 云硬盘/储存对象 3.5 折，不限制新老](https://www.v2ex.com/t/887664#reply3) | Mon Oct 17 2022 4:43 PM
-- 🎭 [群晖 Cloud Sync 自动导出的加密密钥是一堆代码咋整](https://www.v2ex.com/t/887660#reply2) | Mon Oct 17 2022 4:06 PM
-- 🥷 [想干程序员，几乎从零开始，求指点方向](https://www.v2ex.com/t/887658#reply21) | Mon Oct 17 2022 3:58 PM
-- 🐵 [windows 上面有没有能实现 Linux 上 docker 的这种操作](https://www.v2ex.com/t/887651#reply6) | Mon Oct 17 2022 3:18 PM<!-- v2ex:END -->
+- 🥸 [Git 如何只添加一行改动？](https://www.v2ex.com/t/887749#reply1) | Tue Oct 18 2022 4:44 AM
+- 🤗 [用 Ubuntu18 与 clion 调试 FFmpeg](https://www.v2ex.com/t/887747#reply0) | Tue Oct 18 2022 4:27 AM
+- 🎭 [区块链游戏是否真的去中心化？或者存在的必要是为了割韭菜？](https://www.v2ex.com/t/887728#reply11) | Tue Oct 18 2022 3:12 AM
+- 🥷 [最近在调研开源的 HTTP 缓存方案， squid、varnish、问下各 CDN 厂商还有各大厂的同学你们都用的什么？](https://www.v2ex.com/t/887725#reply15) | Tue Oct 18 2022 2:59 AM
+- 🐵 [独立产品灵感周刊 DecoHack #034 - 谷歌的前端开发课程](https://www.v2ex.com/t/887724#reply0) | Tue Oct 18 2022 2:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
