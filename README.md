@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Dastia - 跟踪、路由和自动化潜在客户](https://xinquji.com/posts/180600?utm_campaign=xinquji-rss) | Tue Oct 18 2022 6:37 AM 
+- 👀 [Post Parrot - Reddit 的免费营销工具](https://xinquji.com/posts/180635?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     跟踪、路由和自动化潜在客户  
+     Reddit 的免费营销工具  
     </details> 
 
-- 🥷 [Bells and Wishes - 在线团体贺卡，非常适合办公场合](https://xinquji.com/posts/180599?utm_campaign=xinquji-rss) | Tue Oct 18 2022 6:35 AM 
+- 🥷 [Mind Tracker - 情绪和健康追踪器](https://xinquji.com/posts/180634?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     在线团体贺卡，非常适合办公场合  
+     情绪和健康追踪器  
     </details> 
 
-- 💼 [Master Playbook for Tiktok - 关于在 Tiktok 上成长所需的一切的详细指南](https://xinquji.com/posts/180598?utm_campaign=xinquji-rss) | Tue Oct 18 2022 6:35 AM 
+- 💼 [OTPfy - 保护应用程序](https://xinquji.com/posts/180633?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     关于在 Tiktok 上成长所需的一切的详细指南  
+     保护应用程序  
     </details> 
 
-- 🦅 [RMNDM - 语音笔记和提醒应用程序](https://xinquji.com/posts/180597?utm_campaign=xinquji-rss) | Tue Oct 18 2022 6:33 AM 
+- 🦅 [Figma Autoname - 一键命名所有 Figma 图层，免费且开源](https://xinquji.com/posts/180632?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     语音笔记和提醒应用程序  
+     一键命名所有 Figma 图层，免费且开源  
     </details> 
 
-- 😺 [Magicul X - Design File Editor - 免费在线编辑 Adob​​e XD 和 Figma 文件](https://xinquji.com/posts/180596?utm_campaign=xinquji-rss) | Tue Oct 18 2022 6:31 AM 
+- 😺 [Lingo Pals - 通过笔友帮助孩子学习外语](https://xinquji.com/posts/180631?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     免费在线编辑 Adob​​e XD 和 Figma 文件  
+     通过笔友帮助孩子学习外语  
     </details> 
 <!-- xinquji:END -->
