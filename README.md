@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [现在最轻量级的 Linux 服务器版本有啥推荐的吗？](https://www.v2ex.com/t/887940#reply3) | Tue Oct 18 2022 3:14 PM
-- 🤗 [凹语言 v0.2.3 发布](https://www.v2ex.com/t/887935#reply0) | Tue Oct 18 2022 3:08 PM
-- 🎭 [iptables 规则匹配遇到的问题](https://www.v2ex.com/t/887933#reply0) | Tue Oct 18 2022 3:04 PM
-- 🥷 [MongoDB 文档结构设计](https://www.v2ex.com/t/887922#reply4) | Tue Oct 18 2022 2:07 PM
-- 🐵 [关于 csv 大文件， Python 处理的问题](https://www.v2ex.com/t/887921#reply12) | Tue Oct 18 2022 2:05 PM<!-- v2ex:END -->
+- 🥸 [请问这段应该怎么翻译](https://www.v2ex.com/t/887950#reply4) | Tue Oct 18 2022 3:44 PM
+- 🤗 [现在最轻量级的 Linux 服务器版本有啥推荐的吗？](https://www.v2ex.com/t/887940#reply4) | Tue Oct 18 2022 3:14 PM
+- 🎭 [凹语言 v0.2.3 发布](https://www.v2ex.com/t/887935#reply0) | Tue Oct 18 2022 3:08 PM
+- 🥷 [iptables 规则匹配遇到的问题](https://www.v2ex.com/t/887933#reply1) | Tue Oct 18 2022 3:04 PM
+- 🐵 [MongoDB 文档结构设计](https://www.v2ex.com/t/887922#reply7) | Tue Oct 18 2022 2:07 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
