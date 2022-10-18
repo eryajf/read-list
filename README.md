@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Git 如何只添加一行改动？](https://www.v2ex.com/t/887749#reply1) | Tue Oct 18 2022 4:44 AM
-- 🤗 [用 Ubuntu18 与 clion 调试 FFmpeg](https://www.v2ex.com/t/887747#reply0) | Tue Oct 18 2022 4:27 AM
-- 🎭 [区块链游戏是否真的去中心化？或者存在的必要是为了割韭菜？](https://www.v2ex.com/t/887728#reply11) | Tue Oct 18 2022 3:12 AM
-- 🥷 [最近在调研开源的 HTTP 缓存方案， squid、varnish、问下各 CDN 厂商还有各大厂的同学你们都用的什么？](https://www.v2ex.com/t/887725#reply15) | Tue Oct 18 2022 2:59 AM
-- 🐵 [独立产品灵感周刊 DecoHack #034 - 谷歌的前端开发课程](https://www.v2ex.com/t/887724#reply0) | Tue Oct 18 2022 2:58 AM<!-- v2ex:END -->
+- 🥸 [职业发展瓶颈](https://www.v2ex.com/t/887759#reply3) | Tue Oct 18 2022 5:41 AM
+- 🤗 [不用 k8s,docker 情况下 怎么方便的滚动升级很多台的服务](https://www.v2ex.com/t/887757#reply3) | Tue Oct 18 2022 5:31 AM
+- 🎭 [调试基础知识及原理](https://www.v2ex.com/t/887751#reply0) | Tue Oct 18 2022 4:55 AM
+- 🥷 [Git 如何只添加一行改动？](https://www.v2ex.com/t/887749#reply6) | Tue Oct 18 2022 4:44 AM
+- 🐵 [用 Ubuntu18 与 clion 调试 FFmpeg](https://www.v2ex.com/t/887747#reply0) | Tue Oct 18 2022 4:27 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
