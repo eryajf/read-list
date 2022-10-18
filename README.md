@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新工具利用引力波窥视中子星内部](https://www.cnbeta.com/articles/science/1328411.htm) | Tue Oct 18 2022 9:28 AM 
+- 🕯 [澳大利亚Apple Store员工发起罢工一小时行动](https://www.cnbeta.com/articles/tech/1328425.htm) | Tue Oct 18 2022 10:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;想象一下，将一颗质量为太阳两倍的恒星压扁到曼哈顿的大小，其结果将是一颗中子星--宇宙中任何地方发现的最密集的天体。事实上，它们的密度超过了在地球上自然发现的任何物质的几十万亿倍。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328411.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;澳大利亚布里斯班、彻姆赛德和查尔斯顿的Apple Store员工宣布停止工作一小时，以抗议工资和工作条件。&lt;/strong&gt;正如之前所宣布的，同时也是零售和快餐业工会（RAFFWU）成员的Apple Store员工于2022年10月18日星期二举行了罢工。据《悉尼晨锋报》报道，这是一次历史性的抗议活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [欧盟担心马斯克会突然切断Starlink 考虑替乌克兰支付费用](https://www.cnbeta.com/articles/tech/1328409.htm) | Tue Oct 18 2022 9:16 AM 
+- 💼 [扎克伯格转型元宇宙是自废武功？大空头：就像可口可乐放弃原配方](https://www.cnbeta.com/articles/tech/1328423.htm) | Tue Oct 18 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在SpaceX要求五角大楼承担Starlink在乌克兰的卫星服务的资金后，欧盟正在考虑支付这些服务的费用。&lt;/strong&gt;欧盟担心SpaceX可能会突然切断服务，而这将会影响乌克兰军队的战时通信。欧盟&lpar;EU&rpar;首席外交官Josep Borrell在周一的欧盟会议上提出了这个问题。目前讨论仍处于早期阶段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328409.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间10月18日消息，电影《大空头》原型、著名投资者迈克尔·贝里&lpar;Michael Burry&rpar;日前表示，脸书母公司Meta艰难地向元宇宙转型，就好像可口可乐当年放弃原配方一样。贝里因为在2008年美国次贷危机爆发前成功做空美国房贷市场而出名。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [八块RTX 4090显卡阵列可在60分钟内破解八位密码](https://www.cnbeta.com/articles/tech/1328407.htm) | Tue Oct 18 2022 9:05 AM 
+- 💂 [罗永浩或将开启淘宝直播：最快双11首播](https://www.cnbeta.com/articles/tech/1328421.htm) | Tue Oct 18 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;暴力密码破解工具 Hashcat（最新版 6.2.6）的核心开发者山姆·克罗利（Sam Croley）和来自德克萨斯州奥斯汀的安全分析师合作，&lt;strong&gt;表示 NVIDIA GeForce RTX 4090 显卡运行 Hashcat 来破解某人密码，其效率是前代 RTX 3090 GPU 的两倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328407.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;经过两三年的直播带货，罗永浩基本还完了欠下的数亿债务，被网友戏称为真还传，前不久宣布退出直播，重新创业，不过最新消息称罗永浩将开启淘宝直播，最快双11首播。&lt;strong&gt;Tech星球爆料称，罗永浩将开启淘宝直播，并于“双11&amp;quot;首播。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [6.1英寸小屏骁龙8 Gen2旗舰 三星Galaxy S23详细参数泄露](https://www.cnbeta.com/articles/tech/1328405.htm) | Tue Oct 18 2022 9:03 AM 
+- 🚀 [联邦快递正在关闭其Roxo机器人送货测试计划](https://www.cnbeta.com/articles/tech/1328419.htm) | Tue Oct 18 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，爆料人Yogesh Brar曝光了三星Galaxy S23的详细参数。具体来说，三星Galaxy S23采用6.1英寸FHD+屏幕，刷新率为120Hz，&lt;strong&gt;搭载高通骁龙8 Gen2芯片，后置5000万+1200万+1000万三摄，配备8GB内存，电池为3900mAh，支持25W有线、15W无线充电。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328405.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;联邦快递正在停止其最后一英里的送货机器人Roxo的开发，联邦快递方面证实，该公司将把重点从机器人转移到更多&amp;quot;近期的机会&amp;quot;。Roxo是在2019年宣布与DEKA合作的机器人业务，DEKA同时也是iBot轮椅的制造商，它使用多组轮子来&amp;quot;行走&amp;quot;上下楼梯，并将用户从坐姿提高到眼睛的高度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [富士康：未来希望代工特斯拉汽车 先定个小目标](https://www.cnbeta.com/articles/tech/1328403.htm) | Tue Oct 18 2022 8:47 AM 
+- 🎊 [苹果最大代工厂正在押注电动车](https://www.cnbeta.com/articles/tech/1328417.htm) | Tue Oct 18 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;北京时间10月18日消息，富士康周二表示，希望有一天能够为特斯拉公司生产汽车。&lt;/strong&gt;眼下，富士康正在加大电动汽车的制造力度，以实现业务多元化。富士康董事长刘扬伟周二在公司年度科技日上表示，富士康希望将业务扩展到为汽车品牌制造电动汽车时，复制其在组装消费电子产品方面的成功水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328403.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;全球最大的合同电子制造商、苹果公司最大的代工厂富士康正在押注电动车领域，以摆脱对苹果这一最大客户的依赖，实现业务的多元化。周二，富士康母公司鸿海集团举行了一年一度的科技日，鸿海集团董事长刘扬伟称目前是电动车领域“百年难得一遇”的好时机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
