@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [SideNotes 1.4.8 办公笔记本](https://xclient.info/s/sidenotes.html) | Mon Oct 17 2022 12:48 AM 
+- 🦏 [Integrity Pro 12.5.0 网站死链清理优化检测器](https://xclient.info/s/integrity-pro.html) | Tue Oct 18 2022 12:22 AM 
     <details><summary>展开描述 ...</summary> 
-    SideNotes 可以让你可以用一种简洁、快速、有条理的方式记录下所有嗡嗡作响的想法。享受其无干扰的工作流程。使用副录，你可以保存你的想法，图片，任务列表和更多。 
+    Integrity Pro是一款Mac上的网站链接检测软件，能通过您所输入的网址找到已经损坏的链接，并且在完成之后还能以xml、dot和csv格式来生成站点地图。 
     </details> 
 
--  [Goldie App 2.1 黄金比例设计工具](https://xclient.info/s/goldie-app.html) | Mon Oct 17 2022 12:47 AM 
+-  [TurboCollage 7.2.7 照片拼贴工具](https://xclient.info/s/turbocollage.html) | Tue Oct 18 2022 12:21 AM 
     <details><summary>展开描述 ...</summary> 
-    Goldie App是mac上一款非常强大的黄金比例设计工具，体积小巧，可以驻留在系统的菜单栏之上，随时提供给用户调用。而且拥有独特的计算功能，可以帮助你在任何需要的时候获得精确的黄金比例。 
+    TurboCollage 是Mac上一款简单的照片拼贴工具软件，可以帮助用户将一连串美好的照片拼贴在一起，组合成一张最好的图像。 
     </details> 
 
-- ⚗️ [MWeb 4.3.7 专业的Markdown写作、记笔记、静态博客生成软件](https://xclient.info/s/mweb.html) | Mon Oct 17 2022 12:45 AM 
+- ⚗️ [Translate Tab 2.0.18 快速翻译工具](https://xclient.info/s/translate-tab.html) | Tue Oct 18 2022 12:16 AM 
     <details><summary>展开描述 ...</summary> 
-    MWeb 是一站式的 Markdown 编辑和静态网站生成解决方案 
+    Translate Tab可以直接在菜单栏调出，使用谷歌翻译作为后台支持，相当于你直接访问谷歌翻译网页，因此谷歌翻译提供的功能都能支持。 
     </details> 
 
-- 🔥 [Wondershare Recoverit 10.6.0.27 数据恢复](https://xclient.info/s/wondershare-recoverit.html) | Mon Oct 17 2022 12:45 AM 
+- 🔥 [Sublime Text 4 Build 4138 Dev](https://xclient.info/s/sublime-text.html) | Tue Oct 18 2022 12:15 AM 
     <details><summary>展开描述 ...</summary> 
-    Wondershare Recoverit 是一个非常可靠的数据恢复工具，它可以从任何存储介质中恢复数据。无论你的数据从哪里丢失，它就能从哪里帮您找回来，包括删除的文件，回收站，格式化磁盘，分区丢失，外部设备，病毒攻击数据等等。 
+    Sublime Text被称作Mac下的TextMate，而根据其官网介绍，Sublime Text的特点如下：拥有高效、没有干扰的界面，在编辑方面的多选、宏、代码片段等功能，以及很有特色的Minimap。 
     </details> 
 
-- 🌋 [Swinsian 3.0 Preview 2 569 专业的好用的Mac音乐播放器](https://xclient.info/s/swinsian.html) | Mon Oct 17 2022 12:42 AM 
+- 🌋 [AnyTrans for iOS 8.9.4.20221013 比itunes更好用的手机助手](https://xclient.info/s/anytrans-for-ios.html) | Tue Oct 18 2022 12:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Swinsian 是Mac os平台上的一款专业的好用的Mac音乐播放器，Swinsian可以管理自己的音频文件，你可以自己根据自己的浏览方式浏览自己的音频文件，这款软件要比iTunes好用的多，不需要那么繁琐的操作，还可以通过这款软件下载文件到移动设备。 
+    AnyTrans 操作界面简单易用，导入、导出音乐或应用程序就如同在使用资源管理器一样简单，内置视频格式转换工具，可以自动把导入的影片转成最合适的格式，传输速度更快！ 
     </details> 
 <!-- xclient:END -->
 
