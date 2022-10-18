@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [定向广告牌，一场隐私噩梦](http://jandan.net/p/111497) | Mon Oct 17 2022 12:53 PM 
+- 🚀 [BioNTech的创始团队预言 癌症疫苗在10年内就能成功](http://jandan.net/p/111491) | Tue Oct 18 2022 3:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    “我们认为治愈癌症或改变癌症患者生活的技术已在我们的掌握之中。” 
+    </details> 
+
+- 🙉 [今日好价 1018](http://jandan.net/p/111498) | Tue Oct 18 2022 3:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：45 
+    </details> 
+
+- 🎉 [定向广告牌，一场隐私噩梦](http://jandan.net/p/111497) | Mon Oct 17 2022 12:53 PM 
     <details><summary>展开描述 ...</summary> 
     广告商们在现实世界创建具有紧密针对性的广告。 
     </details> 
 
-- 🙉 [阿拉斯加取消了今年的雪蟹捕捞季](http://jandan.net/p/111495) | Mon Oct 17 2022 8:11 AM 
+- 🐲 [阿拉斯加取消了今年的雪蟹捕捞季](http://jandan.net/p/111495) | Mon Oct 17 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
     因为最近两年，在海岸栖息的雪蟹少了10亿只 
     </details> 
 
-- 🎉 [往北极撒上一层玻璃球，提高阳光反射率的做法，会适得其反](http://jandan.net/p/111492) | Mon Oct 17 2022 5:16 AM 
+-  [往北极撒上一层玻璃球，提高阳光反射率的做法，会适得其反](http://jandan.net/p/111492) | Mon Oct 17 2022 5:16 AM 
     <details><summary>展开描述 ...</summary> 
     对赌博风险极高且基本上未经测试的地球工程，需要严格审查 
-    </details> 
-
-- 🐲 [好消息 天文学家认为他们已经可以提前预警超新星爆发](http://jandan.net/p/111489) | Mon Oct 17 2022 4:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    如果是“本地”的超新星，我们人类既无法阻止也没能力逃跑，但现在，起码能提前知道会怎么没的了 
-    </details> 
-
--  [今日好价 1017](http://jandan.net/p/111490) | Mon Oct 17 2022 4:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：34 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
