@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [不算成功的探索，寻找 macOS 本地音乐播放管理软件](https://sspai.com/post/76158) | Tue Oct 18 2022 3:25 AM 
+- 👹 [用好这 2 个系统功能，让 iPhone 实现「多卡多待」 | 一日一技](https://sspai.com/post/76198) | Tue Oct 18 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    对于有三张或以上SIM卡的iPhone用户来说，目前的iPhone机型最多只支持双卡双待，如果不想额外多带一台手机，那么就只能通过物理换卡来解决。同理，类似的困境也同样困扰着iPhoneSE、iPho ...&lt;a href=&quot;https://sspai.com/post/76198&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [不算成功的探索，寻找 macOS 本地音乐播放管理软件](https://sspai.com/post/76158) | Tue Oct 18 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76158&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：VESA 公布 DisplayPort 2.1 标准，Amazon 计划发射互联网卫星等](https://sspai.com/post/76251) | Tue Oct 18 2022 1:12 AM 
+- 🤭 [派早报：VESA 公布 DisplayPort 2.1 标准，Amazon 计划发射互联网卫星等](https://sspai.com/post/76251) | Tue Oct 18 2022 1:12 AM 
     <details><summary>展开描述 ...</summary> 
     文件显示 Meta 的元宇宙项目呈现颓势，奔驰部分车型将支持 Apple Music 空间音频等&lt;a href=&quot;https://sspai.com/post/76251&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/76235) | Mon Oct 17 2022 9:44 AM 
+- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/76235) | Mon Oct 17 2022 9:44 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/76235&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [有惊喜也有遗憾，浅聊 iPhone 14 Pro 使用体验](https://sspai.com/post/76215) | Mon Oct 17 2022 8:19 AM 
+- 🙉 [有惊喜也有遗憾，浅聊 iPhone 14 Pro 使用体验](https://sspai.com/post/76215) | Mon Oct 17 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
     在与 iPhone 14 Pro 相处一段时间后，我对「灵动岛」的体验有了些许感受，iPhone 14 Pro 在功能和体验方面也留下了惊喜与遗憾，通过本文与大家讨论。&lt;a href=&quot;https://sspai.com/post/76215&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [用 Tasker 实现一键下载/更新小米应用商店安装包](https://sspai.com/prime/story/tasker-miui-store-download-update) | Mon Oct 17 2022 6:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    与其他商店相比，小米应用商店具有收录较全、强制要求上架 64 位版本的优点，但其网页版目前已经很难直接找到下载入口。就此，本文介绍怎样用 Tasker 一键下载小米应用商店安装包或者检查更新。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/tasker-miui-store-download-update&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
