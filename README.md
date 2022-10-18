@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iOS 16.1候选版本发布：引入iCloud共享照片图库 实时活动支持第三方APP](https://www.cnbeta.com/articles/tech/1328547.htm) | Tue Oct 18 2022 10:13 PM 
+- 🕯 [[视频]跌落测试表明iPhone 14 Plus比iPhone 14 Pro Max更耐摔](https://www.cnbeta.com/articles/tech/1328555.htm) | Tue Oct 18 2022 11:23 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;设备保险公司 Allstate 近日对 iPhone 14 Plus 和 iPhone 14 Pro Max 两款设备进行了跌落测试。本次测试是通过 Dropbot 完成的，该机器人旨在帮助确定设备在从 6 英尺高处单次撞击后的易碎性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果全新iPad 10制造过程中100%采用再生金原料](https://www.cnbeta.com/articles/tech/1328553.htm) | Tue Oct 18 2022 11:05 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月18日晚，苹果第十代iPad（iPad 10）正式发布，售价3599元起，将于10月20日接受预订，10月26日正式发售。在iPad 10中，苹果再一次将环保理念发挥到了极致，苹果表示，为了最大限度降低对环境影响，&lt;strong&gt;iPad 10在多块印刷电路板的镀层中采用100%再生金，这在iPad机型中尚属首次。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [下一代天玑旗舰芯片确定 天玑9200最快年底前亮相](https://www.cnbeta.com/articles/tech/1328551.htm) | Tue Oct 18 2022 11:04 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;数码爆料博主@数码闲聊站爆料称联发科&lt;strong&gt;下一代天玑系列旗舰芯片命名确定为“天玑9200”。&lt;/strong&gt;此前，天玑9200就被爆出出货时间比前代提前了许多，首款终端产品将会在年底前发布，大概率会是蓝厂的最新年度旗舰——vivo&amp;nbsp;X90系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [[图]联想展示笔记本原型：配卷轴屏幕 预估从9吋升至13.5吋](https://www.cnbeta.com/articles/tech/1328549.htm) | Tue Oct 18 2022 10:55 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在一段 Tech World 2022 演示视频中，联想展示了一款具备卷轴屏幕的笔记本原型。这款原型采用了传统的笔记本造型，但是屏幕部分可以向上延伸，从而提供更大的屏幕显示空间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [iOS 16.1候选版本发布：引入iCloud共享照片图库 实时活动支持第三方APP](https://www.cnbeta.com/articles/tech/1328547.htm) | Tue Oct 18 2022 10:13 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;苹果今天面向开发人员推出了 iOS 16.1 的候选版本，正式版预估将会在下周推出。根据官方公开的更新日志，本次更新主要引入了 iCloud 共享照片图库，可以实现家人照片共享并保持更新状态。本次更新还在实时活动中加入了第三方 APP 的支持，并包括针对 iPhone 的其他功能和错误修复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [[视频]同为5nm工艺 Pixel 7 Pro性能竟明显落后于iPhone 14 Plus](https://www.cnbeta.com/articles/tech/1328545.htm) | Tue Oct 18 2022 10:00 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;时间已迈入 10 月下旬，这意味着今年的旗舰手机差不多都已经登场了。在今年的旗舰中，Pixel 7 Pro 和 iPhone 14 Plus 的起售价均为 899 美元，如果这两台手机放在你面前让你挑选，你会选择谁？国外油管频道 Max Tech 带来了两者的对比。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328545.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [Windows 11 2022 Update和NVIDIA驱动仍存兼容性问题](https://www.cnbeta.com/articles/tech/1328543.htm) | Tue Oct 18 2022 9:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Windows 11 2022 Update 虽然增强了诸多游戏功能，但是和 NVIDIA 驱动之间存在兼容性问题。英伟达迅速发布了紧急软件更新来解决这个问题，该更新随后整合到 Game Ready 驱动程序中。由于显示驱动是累积的，该更新也整合到最新的 522.25 更新中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328543.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《使命召唤19：现代战争2》官方PC系统配置公布](https://hot.cnbeta.com/articles/game/1328541.htm) | Tue Oct 18 2022 8:20 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;动视和Infinity Ward刚刚公布了《使命召唤19：现代战争2》官方PC系统要求。公司还表示，这款新的COD游戏只适用于支持AVX指令的Intel和AMD CPU。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [瑞典媒体首次曝光“北溪”断面视频 几乎排除意外事件可能性](https://www.cnbeta.com/articles/tech/1328539.htm) | Tue Oct 18 2022 8:20 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据瑞典当地媒体《瑞典快报》（Expressen）周二（10月18日）的报道，该报记者在波罗的海80米深处拍摄到了“北溪-1”天然气管道的断裂位置的画面。报道称，该报于周一通过遥控无人潜水器拍摄的视频显示，超过50米的管道可能丢失，也可能被埋在海床下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
