@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [实习徒弟转正留下，师傅被裁了](https://www.v2ex.com/t/887910#reply3) | Tue Oct 18 2022 1:17 PM
-- 🤗 [FFmpeg 引入 NVIDIA 硬件编解码扩展](https://www.v2ex.com/t/887882#reply0) | Tue Oct 18 2022 11:34 AM
-- 🎭 [关于在 Windows 终端执行 Python 文件](https://www.v2ex.com/t/887871#reply11) | Tue Oct 18 2022 10:48 AM
-- 🥷 [微信测试版终于适配 Android12L 的 API，平板和折叠屏也能拥有分栏界面了](https://www.v2ex.com/t/887868#reply2) | Tue Oct 18 2022 10:36 AM
-- 🐵 [谷歌爬虫好像自带支持动态加载内容？那还要做 ssr 吗？](https://www.v2ex.com/t/887854#reply6) | Tue Oct 18 2022 9:49 AM<!-- v2ex:END -->
+- 🥸 [MongoDB 文档结构设计](https://www.v2ex.com/t/887922#reply2) | Tue Oct 18 2022 2:07 PM
+- 🤗 [关于 csv 大文件， Python 处理的问题](https://www.v2ex.com/t/887921#reply6) | Tue Oct 18 2022 2:05 PM
+- 🎭 [实习徒弟转正留下，师傅被裁了](https://www.v2ex.com/t/887910#reply3) | Tue Oct 18 2022 1:17 PM
+- 🥷 [FFmpeg 引入 NVIDIA 硬件编解码扩展](https://www.v2ex.com/t/887882#reply0) | Tue Oct 18 2022 11:34 AM
+- 🐵 [关于在 Windows 终端执行 Python 文件](https://www.v2ex.com/t/887871#reply12) | Tue Oct 18 2022 10:48 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
