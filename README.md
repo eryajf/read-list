@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [欧盟通过加密货币能源标签计划以降低加密行业能源消耗](https://www.cnbeta.com/articles/tech/1328465.htm) | Tue Oct 18 2022 12:31 PM 
+- 🕯 [Mozilla Firefox 106 正式发布 增加PDF编辑并降低Mac上的CPU使用率](https://www.cnbeta.com/articles/tech/1328479.htm) | Tue Oct 18 2022 1:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;欧盟将为比特币等加密货币开发一个能效标签，以控制该行业日益增长的耗电量。根据将于周二宣布的一份提案草案，欧盟委员会将与国际合作伙伴合作，提出一种分级措施，鼓励更环保的加密系统，如“权益证明&lpar;PoS&rpar;”。欧盟还将呼吁各国针对矿商的能源消耗制定今年冬季的目标。欧盟正试图减少使用俄罗斯的天然气度过这个冬季。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Mozilla向公众发布了Firefox 106版，增加了直接在浏览器中编辑PDF的功能。Firefox 106继续为用户增加隐私和定制功能。它还包括一个PDF编辑器、文本识别、新壁纸和一个名为Firefox View的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Meta收购Giphy交易最终被英国监管机构否决 后者将另寻买家](https://www.cnbeta.com/articles/tech/1328463.htm) | Tue Oct 18 2022 12:28 PM 
+- 💼 [新研究显示超加工食品比外界想象的更不健康](https://www.cnbeta.com/articles/science/1328477.htm) | Tue Oct 18 2022 1:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，Facebook母公司Meta收购Giphy交易今日被正式否决，Meta同意放弃交易，而Giphy将另寻买家。早在2020年5月，Meta就宣布以3.15亿美元收购GIF图片搜索引擎Giphy。虽然Meta已经完成了这笔交易，但去年11月底，英国反垄断监管机构“竞争与市场管理局”（CMA）又否决了这交易，要求Meta卖掉Giphy。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;长期以来，人们都知道，以超加工食品（UPF）为主的饮食更有可能导致肥胖。&lt;strong&gt;但最近的研究表明，高UPF消费也会增加心血管疾病、痴呆症的风险，而且根据最近一项涉及50,000名卫生专业人员的美国研究，还会增加患结肠癌的风险。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [80岁哈里森·福特加盟MCU 扮演罗斯将军](https://hot.cnbeta.com/articles/movie/1328461.htm) | Tue Oct 18 2022 12:25 PM 
+- 💂 [索尼新款DualSense Edge手柄将于明年1月26日到货 售价199.99美元](https://hot.cnbeta.com/articles/game/1328475.htm) | Tue Oct 18 2022 1:33 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日外媒“好莱坞报道者”确认，今年80岁的哈里森·福特加盟MCU，接替今年3月去世的威廉·赫特扮演“罗斯将军”，会在2024年5月上映的《美国队长4》和2024年7月上映的《雷霆特工队》中出现。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼将于1月推出新的DualSense Edge无线手柄，售价为199.99美元。这款&amp;quot;高性能&amp;quot;手柄是完全可定制的，就像微软的Xbox Elite手柄一样，它包括可拆卸的模拟拇指杆、LB/RB按钮、可更换的杆帽和多个控制配置文件。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [最后一刻的泄密认为苹果第十代iPad将配备横向FaceTime摄像头](https://www.cnbeta.com/articles/tech/1328459.htm) | Tue Oct 18 2022 12:22 PM 
+- 🚀 [Xbox Elite 2手柄现在可在Xbox设计实验室定制 起价149.99美元](https://hot.cnbeta.com/articles/game/1328473.htm) | Tue Oct 18 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在苹果在线商店都已经进入维护的最后一刻，有消息称，即将推出的第十代入门级iPad将配备一个横向的FaceTime摄像头刘海。Majin Bu在Twitter上分享了一张据称是即将推出的iPad的屏幕保护膜的样品图片，该图片显示FaceTime摄像头的正面有一个刘海。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软今天将其Xbox Elite 2手柄带到了该公司的Xbox设计实验室。玩家现在可以从149.99美元开始订购Xbox Elite 2的定制颜色，还可以选择购买和个性化单独的Elite配件包，或者以209.99美元购买包含所有Elite组件和手柄的套装。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [联想ThinkVision 27英寸显示器上市：100W满血Type-C 售价1999元](https://www.cnbeta.com/articles/tech/1328457.htm) | Tue Oct 18 2022 12:19 PM 
+- 🎊 [RTX 4090生产力性能实测 摄影师可以省下12999元了](https://www.cnbeta.com/articles/tech/1328471.htm) | Tue Oct 18 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;10月18日，联想ThinkVision P27h-30显示器开售，27英寸四窄边全面屏、100W满血Type-C接口，售价1999元。&lt;/strong&gt;其Type-C接口可以提供100W反向供电功率，满足多种移动设备的供电需求；同时可以传输音视频信号，取代笔记本适配器，让连接更简单，桌面更干净。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA的RTX 4090显卡已经上市开卖了，12999元的价格着实不便宜，不过游戏性能提升也很明显，不考虑DLSS3技术的加成，绝大多数游戏的4K+RT光追也能很流畅运行了。不差钱的话，游戏玩家可以考虑入手RTX 4090显卡，那其他需要高性能的用户要不要买？这就要涉及到RTX 4090另一方面——生产力了，设计师通常也很需要显卡的生产力水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
