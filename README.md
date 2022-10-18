@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [被植入皮肤和颅骨之间的小型无线设备有助于杀死癌细胞](https://www.cnbeta.com/articles/science/1328361.htm) | Tue Oct 18 2022 7:33 AM 
+- 🕯 [《利刃出鞘》主角和男人同居？ 导演：他是同性恋](https://hot.cnbeta.com/articles/movie/1328385.htm) | Tue Oct 18 2022 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;脑癌是最隐蔽的疾病形式之一，但斯坦福大学的研究人员现在已经开发出一种无线设备，可以帮助改善生存时间。&lt;strong&gt;当植入皮肤和颅骨之间时，这种远程激活的设备会加热金纳米粒子，从内部杀死癌细胞。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，《利刃出鞘2：玻璃洋葱》导演在接受外媒采访时，被问及主角和另一个男人住在一起，这是否意味着《利刃出鞘2：玻璃洋葱》的主角是同性恋？&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《新蝙蝠侠》谜语人演员称 剧本被DC安装跟踪装置防泄露](https://hot.cnbeta.com/articles/movie/1328359.htm) | Tue Oct 18 2022 7:30 AM 
+- 💼 [步Jeep后尘 Stellantis集团或在中国停产汽车](https://www.cnbeta.com/articles/tech/1328383.htm) | Tue Oct 18 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;电影制片厂不遗余力地阻止电影中的故事情节泄露，而众所周知，超级英雄电影更进一步保密。影片中饰演谜语人的演员保罗·达诺（Paul Dano）近日公开讨论了他拍摄《新蝙蝠侠》以及持有“特殊文件夹”的时光，该“文件夹”甚至被安装了“跟踪装置”来防止泄露。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年7月份，Stellantis集团宣布，由于之前宣布的Stellantis获得与广汽集团合资企业广汽菲克多数股份的计划缺乏进展，Stellantis将采用轻资产方式在中国发展Jeep品牌，并与广汽集团协商终止本地合资企业。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [漫威最火角色回归 钢铁侠将于《复联6》中再次出现](https://hot.cnbeta.com/articles/movie/1328357.htm) | Tue Oct 18 2022 7:26 AM 
+- 💂 [台风纳沙明天掠过海南 也将给广东等地带来明显降雨](https://www.cnbeta.com/articles/tech/1328381.htm) | Tue Oct 18 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2019年上映的《复仇者联盟4：终局之战》无疑是漫威和超级英雄粉丝心中的剧痛，&lt;strong&gt;该片中最受观众喜爱的钢铁侠为了打败灭霸，一个响指也夺走了自己的生命。&lt;/strong&gt;影片最后，复联成员们还为钢铁侠举办了一个葬礼，一众英雄出席让人泪奔。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据中央气象台消息，今年第20号台风“纳沙”目前正向我国华南沿海不断靠近，“纳沙”已于17日夜间加强为强台风级。18日中午1时，其中心位于海南省三沙市北偏东方向约150公里，预计“纳沙”将以每小时10~15公里的速度向西偏南方向移动，强度变化不大。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [本田全新喷气式飞机HondaJet Elite II发布 续航2865公里](https://www.cnbeta.com/articles/tech/1328355.htm) | Tue Oct 18 2022 7:24 AM 
+- 🚀 [手机靓号进价5000元能卖5万 高峰每月能卖200个号码](https://www.cnbeta.com/articles/tech/1328379.htm) | Tue Oct 18 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月17日，Honda的飞机事业子公司——Honda Aircraft Company（以下简称：HACI）在2022年美国公务航空大会暨展览会上，&lt;strong&gt;发布超轻型公务机HondaJet的升级版机型——HondaJet Elite II。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，联通手机靓号15666666666在拍卖网站挂出1366万元天价，引发网友关注热议。而在卖号网站、号贩子等渠道，价格过万元甚至更高的手机靓号并不鲜见。10月18日消息，据“时代财经”报道，此前专职从事靓号售卖的号贩子透露，&lt;strong&gt;“以前卖手机靓号，利润可以达到50%，甚至100%。”“高峰期每月能卖出200个号码，有时候卖一个号码能赚数万元”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [为证核污水安全性 日本用福岛核处理水养鱼以观察其生长情况](https://www.cnbeta.com/articles/tech/1328353.htm) | Tue Oct 18 2022 7:24 AM 
+- 🎊 [印度组装的iPhone 14 Pro Max已经面市 你买到没？](https://www.cnbeta.com/articles/tech/1328377.htm) | Tue Oct 18 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本福岛地震11年之后，核电站的污水处理依然是个难题，此前日本做出了将核污水排入大海的决定，但遭到了当地渔民及周边国家的反对，为了消除大家对核污水的安全性担心，日本已经开始试验用核处理水养鱼。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;iPhone 14系列已经上市有一段时间了，不少消费者也早已用上了新机，此前有消息称，印度组装生产的首批iPhone 14可能会在今年10月下旬或11月出货。从网友晒出的照片来看，&lt;strong&gt;有部分国行iPhone 14 Pro Max机型已经是印度生产组装。&lt;/strong&gt;据悉，首批iPhone 14大部分均为中国代工生产，现在后边几批也慢慢出货，基本是印度生产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328377.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
