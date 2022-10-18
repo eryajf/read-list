@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPad Pro和iPad现在附赠编织款USB-C电缆 也可单独购买](https://www.cnbeta.com/articles/tech/1328517.htm) | Tue Oct 18 2022 4:12 PM 
+- 🕯 [USB 80Gbps接口标准正式发布 USB 3.0/USB4称呼被淘汰](https://www.cnbeta.com/articles/tech/1328527.htm) | Tue Oct 18 2022 5:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天推出的新款iPad Pro和iPad型号首次在包装盒中包含一条一米长的USB-C编织充电线。苹果还通过其在线商店单独销售该编织线，在美国的定价为19美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;10月19日，USB-IF组织正式发布了全新的USB4 v2.0标准规范，带来了新一代USB 80Gbps接口，还有全新的命名体系。&lt;/strong&gt;说到命名骚操作，除了大名鼎鼎的微软“改名部”，最会玩的就是USB-IF组织了，从早期的Full Speed、High Speed，到后来的USB 3.2 Gen1/Gen2/Gen2x2，能让你分清楚算我输。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [在线捐20元就被“默认”打赏平台3元，合理吗？](https://www.cnbeta.com/articles/tech/1328515.htm) | Tue Oct 18 2022 3:57 PM 
+- 💼 [黄氏刀法惨烈翻车 RTX 4080 12GB被喷到取消发布](https://www.cnbeta.com/articles/tech/1328525.htm) | Tue Oct 18 2022 4:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京的张先生最近“有点烦”，起因是他在通过网络互助平台无忧筹给生病的朋友捐款时，发现在平台的“默认”设置下，自己也在向平台“捐款”。近期，张先生的一位朋友遭遇突发重疾，其家人在无忧筹平台发起了捐款。张先生通过链接点击进入捐款页面，准备捐款500元，但当他进入支付步骤时，显示的捐款金额变成了503元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这几天大家都被 NVIDIA 最新的旗舰显卡 RTX 4090&amp;nbsp;给刷屏了，它的性能也确实非常强大，没有辜负大家的期望。托尼自己也测了这块 4090，确实是科技与狠活的结晶，再加上 DLSS 3 的加持，管你什么游戏都能嘎嘎乱杀。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [搭载M2芯片的新款iPad Pro国行售价6799起 最高支持2TB](https://www.cnbeta.com/articles/tech/1328513.htm) | Tue Oct 18 2022 3:56 PM 
+- 💂 [M2 iPad Pro改进有多小？与2021年款完全相同的显示屏和相机硬件](https://www.cnbeta.com/articles/tech/1328523.htm) | Tue Oct 18 2022 4:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间10月18日晚间消息，苹果官网正式推出搭载M2芯片的新款iPad Pro，11寸国行售价6799元起，2TB版本16099元，12.9寸版本，9299元起，2TB版本18599元，对比前一代，11寸起步涨了600元，12.9寸则涨价了800元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据苹果网站上的对比表，从12.9英寸的iPad Pro开始，新的第六代机型包括与去年的机型完全相同的显示硬件。两款机型都采用了液体视网膜XDR显示屏，分辨率为2732×2048，每英寸像素为264ppi，支持ProMotion、True Tone、宽色彩等功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [专门用于第十代iPad的Magic Keyboard Folio发布 售价249美元](https://www.cnbeta.com/articles/tech/1328511.htm) | Tue Oct 18 2022 3:52 PM 
+- 🚀 [第十代iPad是苹果公司首次采用横向前置摄像头设计](https://www.cnbeta.com/articles/tech/1328521.htm) | Tue Oct 18 2022 4:39 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司为新iPad推出了Magic Keyboard Folio，这是一款与iPad Pro版本类似的键盘和支架。与更新的第十代iPad一起推出的iPad Magic Keyboard Folio是一个平板电脑的外壳，其中包含一个键盘。Magic Keyboard Folio由一个后盖和一个可拆卸的前盖组成，后盖可容纳键盘本身，覆盖了正面和背面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新的第十代iPad是有史以来第一个采用横向前置摄像头方向的iPad型号。正如传言所预期的那样，新iPad的前置摄像头现在位于该设备右边框的中间位置。这意味着，当以横向握持或与Magic Keyboard Folio等配件连接时，摄像头位于用户的视线中心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果公司为新iPad和iPad Pro分享9分钟的主题演讲式视频](https://www.cnbeta.com/articles/tech/1328509.htm) | Tue Oct 18 2022 3:47 PM 
+- 🎊 [Canalys: 2022年第三季度全球智能手机出货量下降了9%](https://www.cnbeta.com/articles/tech/1328519.htm) | Tue Oct 18 2022 4:37 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天通过其网站上的新闻稿宣布了新的iPad Pro和入门级iPad，而不是通过发布会活动。&lt;strong&gt;尽管如此，苹果还是发布了一段9分钟的视频，由不同的苹果员工讲述和介绍新iPad的细节。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;7-9月全球智能手机出货量的初步数字已经公布，Canalys报告显示市场依旧不景气，与去年相比下降了9%。消费者支出减少和经济不确定性的结合导致智能手机市场出现了自2014年第三季度以来最糟糕的季度结果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
