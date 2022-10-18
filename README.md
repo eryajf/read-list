@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [BioNTech：2030年前癌症疫苗或将问世 利用mRNA技术摧毁癌细胞](https://www.cnbeta.com/articles/science/1328103.htm) | Mon Oct 17 2022 11:25 PM 
+- 🕯 [研究发现关节炎治疗药物可促进脂肪信号传递 并能对抗肥胖小鼠的糖尿病](https://www.cnbeta.com/articles/science/1328219.htm) | Tue Oct 18 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据《卫报》10月16日消息，德国生物技术公司BioNTech的创始人在接受BBC采访时称，针对癌症的疫苗可能2030年前上市。&lt;/strong&gt;BioNTech是欧洲最大生物技术独角兽，与美国辉瑞合作研发生产了mRNA新冠疫苗。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;科学家们在研究一种用于治疗类风湿性关节炎的药物的活性时，发现它有一些令人惊讶的功能，其中一些功能在对抗糖尿病时可能是有用的。&lt;strong&gt;在小鼠模型上进行的研究表明，这种化合物具有解决与该病症相关的炎症的双重潜力，同时也提供了一种新陈代谢的推动力&lt;/strong&gt;，可以帮助调节食欲和促进肥胖者的健康脂肪信号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [意在补贴 特斯拉将4680电池德国产线搬回美国](https://www.cnbeta.com/articles/tech/1328101.htm) | Mon Oct 17 2022 11:22 PM 
+- 💼 [雷诺高管称电动汽车将占其2022年欧洲销量40%](https://www.cnbeta.com/articles/tech/1328217.htm) | Tue Oct 18 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当特斯拉在德国的格伦海德（Grünheide）建立其在欧洲的首家超级工厂时，原本打算配套建一个电池工厂。毕竟，埃隆·马斯克（Elon Musk）在2020年发推文说，德国工厂将测试“很多新技术”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;雷诺品牌首席运营官Fabrice Cambolive在巴黎车展开幕前表示，在过去两年中，纯电动和混合动力车型的销量在该品牌总销量中的占比几乎实现了翻倍。&lt;strong&gt;Cambolive表示：“在欧洲市场上，今年电动汽车在雷诺品牌销量中的占比将达到40%。”&lt;/strong&gt;他还补充说，雷诺品牌已经做好了准备，以在2030年之前过渡到电动汽车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [TikTok宣布提高直播年龄要求](https://www.cnbeta.com/articles/tech/1328099.htm) | Mon Oct 17 2022 11:21 PM 
+- 💂 [特斯拉最快将于11月底向欧洲客户交付Model S Plaid](https://www.cnbeta.com/articles/tech/1328215.htm) | Tue Oct 18 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;TikTok正在更新其流媒体直播系统以限制孩子们的直播并允许流媒体人只接触成年人。在一篇博文中，TikTok宣布了对其流媒体直播功能的一系列改变，包括新年龄门槛方法和创作者工具。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月18日消息，据外媒报道，&lt;strong&gt;此前下单预订Model S&amp;nbsp;Plaid的欧洲用户最近透露，特斯拉已经主动和他们联系，询问今年11月底或12月初是否可以交付新车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [传英特尔将自动驾驶部门Mobileye估值定为不到200亿美元：远低于预期](https://www.cnbeta.com/articles/tech/1328097.htm) | Mon Oct 17 2022 11:19 PM 
+- 🚀 [DARPA选择英特尔作为天基自适应通信节点计划第一阶段参与方](https://www.cnbeta.com/articles/tech/1328213.htm) | Tue Oct 18 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据熟知内情的消息人士透露，英特尔计划将其自动驾驶汽车部门Mobileye以远低于此前预期的估值IPO（首次公开募股）上市。消息人士称，英特尔最初预计的Mobileye估值约为500亿美元，但现在的目标则仅为不到200亿美元，而且在IPO中发售的股票数量也将少于最初的计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国国防高级研究计划局 &lpar;DARPA&rpar; 已选择英特尔作为“天基自适应通信节点 ”（Space-BACN）计划第一阶段的重要参与方，&lt;/strong&gt;该计划旨在创建一种低成本、可重新配置的光通信终端，可以在不同卫星星座之间转换信息。Space-BACN 卫星终端将实现卫星星座之间的通信，使数据能够以光速发送到地球周围的任何地方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [继向梵高画作泼番茄汤后 肇事组织成员爬上英国80余米高塔楼致交通堵塞](https://www.cnbeta.com/articles/tech/1328095.htm) | Mon Oct 17 2022 8:20 PM 
+- 🎊 [经过基因改造的浮萍可能是一种更可持续的生物燃料来源](https://www.cnbeta.com/articles/science/1328211.htm) | Tue Oct 18 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间10月17日，两名“停止石油运动（Just Stop Oil）”的抗议者爬上泰晤士河上的一座主要桥梁，造成了严重的交通延误，就在几天前，该组织的活动人士向梵高的代表作《&lt;a href=&quot;https://finance.sina.com.cn/realstock/company/sz300111/nc.shtml&quot; class=&quot;keyword&quot; target=&quot;_blank&quot; data-sudaclick=&quot;content_marketkeywords_p&quot;&gt;向日葵&lt;/a&gt;》泼洒番茄汤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328095.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;虽然玉米和大豆等植物是生物燃料的主要来源，但它们生长在原本可以用于种植粮食作物的土地上。&lt;strong&gt;考虑到这个问题，科学家们对可在废水中生长的产油浮萍进行了基因改造。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
