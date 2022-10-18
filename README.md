@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Mac技巧之锁定苹果笔记本电脑键盘：免费软件 KeyboardCleanTool](http://www.mac52ipod.cn/post/apple-mac-macos-app-keyboardcleantool.php) | Sun Oct 16 2022 2:24 AM 
+- 👨‍🏫 [Apple新闻之苹果发布了第 10 代 iPad、使用 M2 芯片的 iPad Pro、新 Apple TV](http://www.mac52ipod.cn/post/apple-announce-10th-gen-ipad-m2-ipad-pro-new-apple-tv.php) | Tue Oct 18 2022 3:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果今晚没开发布会，直接上架了新一代 iPad Pro、第 10 代 iPad、新一代 Apple TV。&lt;/p&gt;&lt;p&gt;新 iPad Pro 还是 11 寸和 12.9 寸两种尺寸，最大的变化是处理器从 M1 升级到 M2 了，CPU 快了 15%，GPU 快了 35%&lt;/p&gt;&lt;p&gt;除了换芯片，新一代 iPad Pro 能感应到 Apple Pencil 靠近屏幕，这样未来有更多有意思的交互。另外，网络方面，也支持 Wi-Fi 6E 了。&lt;/p&gt;&lt;p&gt;第 10 代 iPad 外形没什么变化，10.9 寸屏幕，USB-C 接口，A14 处理器，超广角前置摄像头 + 1200 万像素后摄像头，机身侧面有 Touch ID 指纹识别 …… 差不多就这么多重点了。&lt;/p&gt;&lt;p&gt;Apple TV 在中国没什么存在感，这次换代外形也没怎么变，A15 芯片，存储空间加倍（64GB、128GB），遥控器也升级了一下。&lt;/p&gt;&lt;p&gt;详细介绍还有价格，直接看苹果中国官网吧。&lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/ipad-pro/&quot; target=&quot;_blank&quot; title=&quot;苹果官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/ipad-pro/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，&lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/ipad/&quot; target=&quot;_blank&quot; title=&quot;苹果官网&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/ipad/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Mac技巧之锁定苹果笔记本电脑键盘：免费软件 KeyboardCleanTool](http://www.mac52ipod.cn/post/apple-mac-macos-app-keyboardcleantool.php) | Sun Oct 16 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2](http://www.mac52ipod.cn/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin-2.php) | Fri Oct 14 2022 2:34 AM 
+- 🦏 [苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2](http://www.mac52ipod.cn/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin-2.php) | Fri Oct 14 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [苹果对「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求](http://www.mac52ipod.cn/post/apple-device-7-7-inch.php) | Tue Oct 11 2022 7:17 AM 
+- 🚀 [苹果对「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求](http://www.mac52ipod.cn/post/apple-device-7-7-inch.php) | Tue Oct 11 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [有人评测和分析了为什么 Windows PC 笔记本电脑的续航时间远小于苹果 MacBook Pro/ Air](http://www.mac52ipod.cn/post/apple-silicone-mac-macbook-pro-air-windows-pc-laptop-battery-life.php) | Mon Sep 26 2022 1:09 AM 
+- 🏊 [有人评测和分析了为什么 Windows PC 笔记本电脑的续航时间远小于苹果 MacBook Pro/ Air](http://www.mac52ipod.cn/post/apple-silicone-mac-macbook-pro-air-windows-pc-laptop-battery-life.php) | Mon Sep 26 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	前几天在 B 站看了个视频：我们找到了 Windows 电脑续航差的原因！苹果 M2 深度分析 …… 虽然这个标题「营销味儿」有点儿浓，但内容还行。&lt;/p&gt;&lt;p&gt;感兴趣的可以直接去 Bilibili 观看 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV18B4y1b7gj&quot; target=&quot;_blank&quot; title=&quot;我们找到了 Windows 电脑续航差的原因！苹果 M2 深度分析&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV18B4y1b7gj&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2594%25B5%25E6%25B1%25A0&quot; rel=&quot;tag&quot;&gt;电池&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [在苹果 iPhone 锁屏界面一键启动 App / 健康码 / 付款码 / 快捷指令：锁屏启动 &lpar;Lock Launcher&rpar;](http://www.mac52ipod.cn/post/apple-ios-iphone-app-lock-launcher.php) | Sat Sep 24 2022 5:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	这是个中国个人开发者 @hzlzh 制作的苹果 iOS App，在你的 iPhone 锁屏页面添加各种功能入口，让你一键启动 App、打开付款码/健康码/行程码、运行快捷指令 …… &lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6714&quot; border=&quot;0&quot; alt=&quot;锁屏启动 &lpar;Lock Launcher&rpar;&quot; title=&quot;锁屏启动 &lpar;Lock Launcher&rpar;&quot; /&gt;&lt;/p&gt;&lt;p&gt;官网有视频介绍 &lt;u&gt;&lt;a href=&quot;https://locklauncher.com/&quot; target=&quot;_blank&quot; title=&quot;锁屏启动 &lpar;Lock Launcher&rpar; 官网” rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://locklauncher.com/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;锁屏启动 &lpar;Lock Launcher&rpar; 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/app/id1636719674&quot; target=&quot;_blank&quot; title=&quot;锁屏启动 &lpar;Lock Launcher&rpar;&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/app/id1636719674&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=launcher&quot; rel=&quot;tag&quot;&gt;launcher&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2588%25E7%258E%2587&quot; rel=&quot;tag&quot;&gt;效率&lt;/a&gt;
 
  
     </details> 
