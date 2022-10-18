@@ -348,7 +348,7 @@
     欢迎各位积极投票，心仪企业就“出道”。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 韩国多个网络平台瘫痪总统道歉；部分iPhone 14存在“不支持SIM卡”问题](https://www.freebuf.com/news/347061.html) | Mon Oct 17 2022 11:15 AM 
+- 🪄 [FreeBuf早报 | 韩国网络平台瘫痪总统道歉；部分iPhone 14存在不支持SIM卡问题](https://www.freebuf.com/news/347061.html) | Mon Oct 17 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
     韩国SK公司C&amp;amp;C板桥数据中心15日发生火灾，导致包括韩国“国民聊天工具”Kakao Talk在内的多个网络平台服务中断。 
     </details> 
