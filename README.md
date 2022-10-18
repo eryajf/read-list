@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [字节招聘 | 高级安全工程师、技术专家岗等你来投！](https://www.freebuf.com/jobs/347056.html) | Mon Oct 17 2022 10:30 AM 
+- 🦄 [「WitAwards中国网安行业2022年度评选」投票开启，PICK你心中NO.1](https://www.freebuf.com/fevents/347090.html) | Tue Oct 18 2022 1:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    欢迎各位积极投票，心仪企业就“出道”。 
+    </details> 
+
+- 🦄 [FreeBuf早报 | 韩国多个网络平台瘫痪，总统道歉；苹果承认部分iPhone 14存在“不支持SIM卡”问题](https://www.freebuf.com/news/347061.html) | Mon Oct 17 2022 11:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    韩国SK公司C&amp;amp;C板桥数据中心15日发生火灾，导致包括韩国“微信”Kakao Talk在内的多个网络平台服务中断。16日，韩国总统尹锡悦为此向公众表示歉意。 
+    </details> 
+
+- 🦅 [字节招聘 | 高级安全工程师、技术专家岗等你来投！](https://www.freebuf.com/jobs/347056.html) | Mon Oct 17 2022 10:30 AM 
     <details><summary>展开描述 ...</summary> 
     欢迎有隐私合规安全、数据安全、客户端/移动安全&amp;amp;QA经验的的同仁！ 
     </details> 
 
-- 🦄 [加密货币平台Mango Markets遭攻击损失超1亿美元，黑客宣布返还6700万](https://www.freebuf.com/articles/blockchain-articles/347025.html) | Mon Oct 17 2022 7:49 AM 
+- 🪄 [加密货币平台Mango Markets遭攻击损失超1亿美元，黑客宣布返还6700万](https://www.freebuf.com/articles/blockchain-articles/347025.html) | Mon Oct 17 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
     一位自称对此次攻击负责的黑客，称要归还部分被盗资金，约6700万美元，余下的金额则当作名义上的漏洞赏金。 
     </details> 
 
-- 🦅 [因盗取信息，下载“果照”，一学生被判 13 个月监禁](https://www.freebuf.com/news/346999.html) | Mon Oct 17 2022 5:14 AM 
+- 💻 [因盗取信息，下载“果照”，一学生被判 13 个月监禁](https://www.freebuf.com/news/346999.html) | Mon Oct 17 2022 5:14 AM 
     <details><summary>展开描述 ...</summary> 
     美国地区法院法官 Silvia Carreño Coll 以网络跟踪罪判处 Iván Santell-Velázquez 13 个月监禁。 
-    </details> 
-
-- 🪄 [AD-Resolute详解](https://www.freebuf.com/articles/web/346963.html) | Sun Oct 16 2022 12:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    Hack The Box的Active Directory 101 系列域渗透的靶机Resolute。 
-    </details> 
-
-- 💻 [FreeBuf早报 | Fortinet身份漏洞的POC已发布；接棒微软0path为WIN7提供服务](https://www.freebuf.com/news/346931.html) | Fri Oct 14 2022 11:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近披露的影响 Fortinet 严重安全漏洞已提供概念验证 &lpar;PoC&rpar; 漏洞利用代码，因此用户必须迅速采取行动以应用补丁。 
     </details> 
 <!-- freebuf:END -->
 
