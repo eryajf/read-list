@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Windows 10 2022 Update现已推出 带来&quot;一系列有限的生产力功能&quot;](https://www.cnbeta.com/articles/tech/1328537.htm) | Tue Oct 18 2022 7:19 PM 
+- 🕯 [《使命召唤19：现代战争2》官方PC系统配置公布](https://hot.cnbeta.com/articles/game/1328541.htm) | Tue Oct 18 2022 8:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;动视和Infinity Ward刚刚公布了《使命召唤19：现代战争2》官方PC系统要求。公司还表示，这款新的COD游戏只适用于支持AVX指令的Intel和AMD CPU。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328541.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [瑞典媒体首次曝光“北溪”断面视频 几乎排除意外事件可能性](https://www.cnbeta.com/articles/tech/1328539.htm) | Tue Oct 18 2022 8:20 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据瑞典当地媒体《瑞典快报》（Expressen）周二（10月18日）的报道，该报记者在波罗的海80米深处拍摄到了“北溪-1”天然气管道的断裂位置的画面。报道称，该报于周一通过遥控无人潜水器拍摄的视频显示，超过50米的管道可能丢失，也可能被埋在海床下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328539.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Windows 10 2022 Update现已推出 带来&quot;一系列有限的生产力功能&quot;](https://www.cnbeta.com/articles/tech/1328537.htm) | Tue Oct 18 2022 7:19 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;微软已经开始为Windows 10推出最新的功能更新，Windows 10 2022更新现在可以作为一个启用包提供给那些坚持使用老式Windows 10（2004版和更新版）的人。&lt;/strong&gt;微软尚未公布Windows 10 2022更新（或22H2）的官方更新日志，但不要把希望寄托得太高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Windows 11 Moment 1 更新正式发布 现已可下载](https://www.cnbeta.com/articles/tech/1328535.htm) | Tue Oct 18 2022 7:06 PM 
+- 🚀 [Windows 11 Moment 1 更新正式发布 现已可下载](https://www.cnbeta.com/articles/tech/1328535.htm) | Tue Oct 18 2022 7:06 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;微软已经开始推出之前承诺的Windows 11的一批新功能。该更新又称&amp;quot;Moment 1&amp;quot;，现在可用于所有运行Windows 11 2022更新的合格系统，用户可以在微软的官方视频中查看Windows 11的最新功能更新中有哪些新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [离了大谱 Intel Arc显卡待机功耗达47W 一招搞定](https://www.cnbeta.com/articles/tech/1328533.htm) | Tue Oct 18 2022 6:59 PM 
+- 🎊 [离了大谱 Intel Arc显卡待机功耗达47W 一招搞定](https://www.cnbeta.com/articles/tech/1328533.htm) | Tue Oct 18 2022 6:59 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Intel Arc A7系列显卡发布后，很快被发现存在待机功耗过高的问题。还好很快，Intel就给出了解决方法。正常来说，显卡在待机时的功耗不会超过10W，但实测显示，Arc A770显卡啥也不干就会消耗多达45W左右，最高47W，Arc A750也会白白吃掉40W左右。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [欧盟纯电动车5%中国造 品牌优势渐显](https://www.cnbeta.com/articles/tech/1328531.htm) | Tue Oct 18 2022 6:49 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;中国汽车品牌之所以在欧洲市场具有竞争优势，不仅仅是因为较高的性价比，而且车辆的安全性也已得到了大幅的提升，“中国制造”的形象早已不再是“廉价”的代名词。&lt;/strong&gt;中国电动车厂商正试图在欧洲站稳脚跟。近两年来，越来越多的中国电动车品牌赴欧洲发布新车型，与全球汽车制造商同台竞技，中国制造的出色表现也越来越受关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [mRNA癌症疫苗不是梦？](https://www.cnbeta.com/articles/tech/1328529.htm) | Tue Oct 18 2022 6:48 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;因新冠疫苗研究而加速，十年内人类或许可以打赢癌症攻坚战。当地时间上周日，德国生物技术公司BioNTech（百欧恩泰）联合创始人夫妇吴沙忻和厄兹莱姆·蒂雷吉在接受采访时称，mRNA疫苗技术可用于帮助摧毁癌细胞，这意味着癌症疫苗可能在2030年前问世。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
