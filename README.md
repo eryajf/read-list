@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Post Parrot - Reddit 的免费营销工具](https://xinquji.com/posts/180635?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:36 AM 
+- 👀 [International Intrigue - 你厚颜无耻的全球事务备忘单](https://xinquji.com/posts/180651?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-     Reddit 的免费营销工具  
+     你厚颜无耻的全球事务备忘单  
     </details> 
 
-- 🥷 [Mind Tracker - 情绪和健康追踪器](https://xinquji.com/posts/180634?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:36 AM 
+- 🥷 [AI Review Reply Assistant - 对每个客户评论的响应速度提高 3 倍](https://xinquji.com/posts/180650?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-     情绪和健康追踪器  
+     对每个客户评论的响应速度提高 3 倍  
     </details> 
 
-- 💼 [OTPfy - 保护应用程序](https://xinquji.com/posts/180633?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:34 AM 
+- 💼 [Touch - 更快地增加员工的钱](https://xinquji.com/posts/180649?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     保护应用程序  
+     更快地增加员工的钱  
     </details> 
 
-- 🦅 [Figma Autoname - 一键命名所有 Figma 图层，免费且开源](https://xinquji.com/posts/180632?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:34 AM 
+- 🦅 [git18n.com - 通过 Github 集成翻译和开发工作流程](https://xinquji.com/posts/180648?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-     一键命名所有 Figma 图层，免费且开源  
+     通过 Github 集成翻译和开发工作流程  
     </details> 
 
-- 😺 [Lingo Pals - 通过笔友帮助孩子学习外语](https://xinquji.com/posts/180631?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:33 AM 
+- 😺 [Virtual Nametags by Warmly, - 拥有您脸部周围的空间 - 免费缩放应用程序](https://xinquji.com/posts/180647?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-     通过笔友帮助孩子学习外语  
+     拥有您脸部周围的空间 - 免费缩放应用程序  
     </details> 
 <!-- xinquji:END -->
