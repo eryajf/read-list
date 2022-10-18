@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [手把手，教你实现一个优雅的图片预览](https://juejin.cn/post/7155789252075356190) | Tue Oct 18 2022 9:57 AM 
+- 🤗 [Java 19 发布，Loom 怎么解决 Java 的并发模型缺陷？丨未来源码](https://juejin.cn/post/7155767541497872414) | Tue Oct 18 2022 8:33 AM 
     <details><summary>展开描述 ...</summary> 
-    图片预览，实现了图片预览，关闭，以及滚动的时候的时候流程的动画效果，提升了用户体验，（附完整代码）！ 
+    面对复杂的特性生产环境，Loom试图通过引入虚拟线程和结构化来降低开发的难度，具体是如何实现的？一起进入本期【未来源码】一探究竟吧~ 
     </details> 
 
-- 🎡 [🔥 手撕babel插件-消灭console！](https://juejin.cn/post/7155765227986878494) | Tue Oct 18 2022 8:24 AM 
+- 🎡 [vue2日历组件，来找茬](https://juejin.cn/post/7155766323660718087) | Tue Oct 18 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-    起因 已经颓废了很久 因为实在不知道写啥了 突然我某个同事对我说 宝哥 你看这个页面好多console.log 不仅会影响性能 而且可能会被不法分子所利用 我觉得很有道理 所以我萌生了写一个小插件来去 
+    遇到一个需求，不用任何第三方库，只基于vue2实现一个日历组件，末尾附上我的代码，单文件。不要找文件长度的茬。下面是需求。欢迎找茬。开发时间两天半 
     </details> 
 
-- 🕯 [Kotlin的Collection与Sequence操作？他们之间有什么异同点？](https://juejin.cn/post/7155765126627344392) | Tue Oct 18 2022 8:23 AM 
+- 🕯 [Zookeeper 系统模型](https://juejin.cn/post/7155765762391539719) | Tue Oct 18 2022 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    在Android开发中，集合是我们必备的容器，Kotlin的标准库中提供了很多处理集合的方法，而且还提供了两种基于容器的工作方式：Collection 和 Sequence。 
+    数据模型 ZooKeeper 有一个分层命名空间，很像分布式文件系统。唯一的区别是命名空间中的每个节点都可以有与其关联的数据以及子节点。ZooKeeper 树中的每个节点都称为 znode。znode 
     </details> 
 
-- 🚀 [「CSS畅想」创意升级，办公位简笔画2.0来咯](https://juejin.cn/post/7155756696680267807) | Tue Oct 18 2022 7:50 AM 
+- 🚀 [【JAVA】接口和抽象类有什么区别？](https://juejin.cn/post/7155763657077424141) | Tue Oct 18 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第15天，点击查看活动详情。我将之前的办公位简笔画升级了，同时总结了一些CSS创意经验。 
+    Java 是非常典型的面向对象语言，曾经有一段时间，程序员整天把面向对象、设计模式挂在嘴边。虽然如今大家对这方面已经不再那么狂热，但是不可否认，掌握面向对象设计原则和技巧，是保证高质量代码的基础之一。 
     </details> 
 
-- 💪 [微前端性能优化的那些事](https://juejin.cn/post/7155754068764262414) | Tue Oct 18 2022 7:40 AM 
+- 💪 [【Nacos源码之配置管理 三】TaskManager 任务管理的使用](https://juejin.cn/post/7155755054492827656) | Tue Oct 18 2022 7:44 AM 
     <details><summary>展开描述 ...</summary> 
-    微前端性能优化的那些事 本文基于qiankun框架给大家分享下微前端性能的那些事，在解构巨石应用的基础上，页面体验获得巨大提升。 
+    任务管理类 因为Nacos中有很多地方使用了这个TaskManager,所以我们得先了解一下这个类是干啥用的,方便后面阅读源码时候不会吃力; 
     </details> 
 <!-- juejin:END -->
 ### 少数派
