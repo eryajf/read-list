@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [写给小白的hover后展示图片教程](https://juejin.cn/post/7155754896539516958) | Tue Oct 18 2022 7:44 AM 
+- 🤗 [less如何编译成css](https://juejin.cn/post/7155768824086822949) | Tue Oct 18 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
-    为啥有这篇 ？ 开发者群里 有小伙伴问 如何实现 hover 图片 展示 微信二维码 ，遂有空敲一下 解答一下 ps: 新手有问题非常正常，你的进步速度在于是否找到了靠谱的师傅 思想 代码 index 
+    less官网文档 less可运行在node或者浏览器端 新建一个文件index.less 1、color: saturate&lpar;@base, 5%&rpar;; color: #fe33ac; saturate: 
     </details> 
 
-- 🎡 [浅谈算法：分治算法竟然蕴藏着大自然的奥秘](https://juejin.cn/post/7155744700379430943) | Tue Oct 18 2022 7:04 AM 
+- 🎡 [『牛客_每日一题』岛屿数量](https://juejin.cn/post/7155754438689292301) | Tue Oct 18 2022 7:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    1.每日一题 2.解题思路：DFS 深度优先搜索一般用于树或者图的遍历，其他有分支的（如二维矩阵）也适用。它的原理是从初始点开始，一直沿着同一个分支遍历，直到该分支结束，然后回溯到上一级继续沿着一个分 
+    </details> 
+
+- 🕯 [Java&amp;C++题解与拓展——leetcode902.最大为N的数字组合【数位DP】](https://juejin.cn/post/7155752125761486861) | Tue Oct 18 2022 7:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    leetcode902.最大为N的数字组合解题思路，用Java和C++两种语言分别编写，并对所使用类和方法进行学习记录。 
+    </details> 
+
+- 🚀 [Observability：集群监控 （二） - Elastic Stack 8.x](https://juejin.cn/post/7155748642286993421) | Tue Oct 18 2022 7:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是之前的文章 “Observability：集群监控 （一） - Elastic Stack 8.x” 的续篇。在上一篇文章中，我详细地介绍了如何使用传统的收集器来监控 Elastic Stack。 
+    </details> 
+
+- 💪 [浅谈算法：分治算法竟然蕴藏着大自然的奥秘](https://juejin.cn/post/7155744700379430943) | Tue Oct 18 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
     算法在现代IT行业中有重要地位，是有了巧妙设计的算法，计算机才能以最小的资源和最大的效率来运行各种各样的软件程序。分治算法为什么快速而高效？或许我们可以从大自然中找到答案。 
-    </details> 
-
-- 🕯 [云原生爱好者周刊：野心很大的云原生数据库 SurrealDB](https://juejin.cn/post/7155743067528495111) | Tue Oct 18 2022 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    ## 开源项目推荐 ### [SurrealDB]&lpar;https://github.com/surrealdb/surrealdb&rpar; SurrealDB 是一个开源的端到端云原生数据库，同时支持  
-    </details> 
-
-- 🚀 [手把手入门 Vue教学](https://juejin.cn/post/7155741294642331656) | Tue Oct 18 2022 6:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    Vue 可以简要概述为：动态构建 用户界面 的 渐进式 框架，本文带你快速了解Vue 基础核心知识点 
-    </details> 
-
-- 💪 [浅析智慧医疗如何基于轻量技术打通服务闭环](https://juejin.cn/post/7155738223891709983) | Tue Oct 18 2022 6:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    智慧医疗作为充分应用计算机技术、信息技术建立的新型医疗方式，正随着新一代信息技术的普及和医疗健康领域需求的变化迎来爆发期。在智慧医疗的生态体系建设上，不仅持续推动了医药、医疗、医保和健康产业的发展·· 
     </details> 
 <!-- juejin:END -->
 ### 少数派
