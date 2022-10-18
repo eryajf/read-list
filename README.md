@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Mozilla Firefox 106 正式发布 增加PDF编辑并降低Mac上的CPU使用率](https://www.cnbeta.com/articles/tech/1328479.htm) | Tue Oct 18 2022 1:56 PM 
+- 🕯 [铠侠发布写不死的数据中心TLC SSD 最高容量7.7TB](https://www.cnbeta.com/articles/tech/1328485.htm) | Tue Oct 18 2022 2:06 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;想要写不死的SSD硬盘的玩家注意了，铠侠日前推出了面向数据中心的新一代XD7P系列硬盘，目前还是PCIe 4.0的，明年说是会推PCIe 5.0的，最高容量7.68TB，尽管是TLC闪存，但5年时间中每天擦写一遍都没问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [倪光南院士称中国自研芯片应在RISC-V上押宝以抓住时代机遇](https://www.cnbeta.com/articles/tech/1328483.htm) | Tue Oct 18 2022 2:02 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，中国工程院院士倪光南在数字世界专刊撰文指出，一直以来，我国芯片产业在“主流 CPU”架构上受制于人，在数字经济时代，建议我国积极抓住时代机遇，聚焦开源RISC-V架构，以全球视野积极谋划我国芯片产业发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Adobe AI现在能识别人脸特征以加快照片编辑速度](https://www.cnbeta.com/articles/soft/1328481.htm) | Tue Oct 18 2022 2:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;Adobe的Lightroom软件现在使用新的人工智能技术来选择物体、人物、服装和面部特征，试图使照片编辑更快、更强大。&lt;/strong&gt;该公司周二在其Max会议上说，这项新技术可用于Lightroom、Lightroom Classic和智能手机版的照片编辑软件。选择物体和人物的新工具扩展了早期选择主体和天空的人工智能工具。这项新技术显示了人工智能技术的发展速度之快，可以加快曾经完全不属于计算机的任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1328481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [Mozilla Firefox 106 正式发布 增加PDF编辑并降低Mac上的CPU使用率](https://www.cnbeta.com/articles/tech/1328479.htm) | Tue Oct 18 2022 1:56 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Mozilla向公众发布了Firefox 106版，增加了直接在浏览器中编辑PDF的功能。Firefox 106继续为用户增加隐私和定制功能。它还包括一个PDF编辑器、文本识别、新壁纸和一个名为Firefox View的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新研究显示超加工食品比外界想象的更不健康](https://www.cnbeta.com/articles/science/1328477.htm) | Tue Oct 18 2022 1:50 PM 
+- 🎊 [新研究显示超加工食品比外界想象的更不健康](https://www.cnbeta.com/articles/science/1328477.htm) | Tue Oct 18 2022 1:50 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;长期以来，人们都知道，以超加工食品（UPF）为主的饮食更有可能导致肥胖。&lt;strong&gt;但最近的研究表明，高UPF消费也会增加心血管疾病、痴呆症的风险，而且根据最近一项涉及50,000名卫生专业人员的美国研究，还会增加患结肠癌的风险。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [索尼新款DualSense Edge手柄将于明年1月26日到货 售价199.99美元](https://hot.cnbeta.com/articles/game/1328475.htm) | Tue Oct 18 2022 1:33 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼将于1月推出新的DualSense Edge无线手柄，售价为199.99美元。这款&amp;quot;高性能&amp;quot;手柄是完全可定制的，就像微软的Xbox Elite手柄一样，它包括可拆卸的模拟拇指杆、LB/RB按钮、可更换的杆帽和多个控制配置文件。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [Xbox Elite 2手柄现在可在Xbox设计实验室定制 起价149.99美元](https://hot.cnbeta.com/articles/game/1328473.htm) | Tue Oct 18 2022 1:10 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软今天将其Xbox Elite 2手柄带到了该公司的Xbox设计实验室。玩家现在可以从149.99美元开始订购Xbox Elite 2的定制颜色，还可以选择购买和个性化单独的Elite配件包，或者以209.99美元购买包含所有Elite组件和手柄的套装。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [RTX 4090生产力性能实测 摄影师可以省下12999元了](https://www.cnbeta.com/articles/tech/1328471.htm) | Tue Oct 18 2022 1:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA的RTX 4090显卡已经上市开卖了，12999元的价格着实不便宜，不过游戏性能提升也很明显，不考虑DLSS3技术的加成，绝大多数游戏的4K+RT光追也能很流畅运行了。不差钱的话，游戏玩家可以考虑入手RTX 4090显卡，那其他需要高性能的用户要不要买？这就要涉及到RTX 4090另一方面——生产力了，设计师通常也很需要显卡的生产力水平。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
