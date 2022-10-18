@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【手写系列】自己手写实现apply、call、bind](https://juejin.cn/post/7155713320254144519) | Tue Oct 18 2022 5:04 AM 
+- 🤗 [【项目实战】记录Webpack 4 升级到 5](https://juejin.cn/post/7155727521491714085) | Tue Oct 18 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-    apply&lpar;&rpar;方法指定this值和参数（参数以数组或者类数组对象的形式存在）的情况下调用某个函数，意思是它可以改变一个函数的执行环境，call和apply作用一样，不同的是两者的参数传入不一样， 
+    为啥要升级 ？ 构建速度提升（大概4倍 ） + 长效缓存 ps：着实是 文章封面 不好找 ～ 思想 开始 先清理依赖 使用 npm-check-updates 升级 依赖 对新手还行 当前 packa 
     </details> 
 
-- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中管理单个图像编辑中的图像？](https://juejin.cn/post/7155689409659011102) | Tue Oct 18 2022 3:30 AM 
+- 🎡 [BeanFactory和FactoryBean的区别  你脑子里有答案没](https://juejin.cn/post/7155718445990936589) | Tue Oct 18 2022 5:23 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中管理单个图像编辑集合中的图像。 
+    这个之前经常会遇到别人问 工作开发中我对于bean的使用比较少 就是偶尔启动出错才会出现 可能是水平有限 但是bean 也是非常核心的问题 书到用时方恨少 且看且珍惜 
     </details> 
 
-- 🕯 [摹客RP交互设计的产品测评](https://juejin.cn/post/7155686544626417677) | Tue Oct 18 2022 3:19 AM 
+- 🕯 [sdl_audio_callback音频播放线程分析](https://juejin.cn/post/7155715935792267277) | Tue Oct 18 2022 5:13 AM 
     <details><summary>展开描述 ...</summary> 
-    原型设计工具是很多交互设计师以及产品经理都会使用到的，国产原型工具越来越多，给了用户许多选择，而真正满足用户需求的原型设计软件，才是为大家所选择的。 一、产品评测简介 原型设计软件是设计师、产品经理使 
+    音频播放线程是之前在 audio_open&lpar;&rpar; 函数里面创建的，实际上就是回调函数 （ wanted_spec.callback）。当用 SDL 打开音频硬件设备的时候，SDL 库就会创建一个线程，来 
     </details> 
 
-- 🚀 [再添神器！Paddle.js 发布 OCR SDK](https://juejin.cn/post/7155685608977858567) | Tue Oct 18 2022 3:15 AM 
+- 🚀 [详解Object类和抽象类](https://juejin.cn/post/7155648006325272613) | Tue Oct 18 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
-    关键词：OCR、Paddle.js、PaddleOCR 01 前言 OCR（Optical Character Recognition，光学字符识别）是文字识别的统称，不仅支持文档或书本文字识别，还包 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第18天 @TOC 一、抽象类是什么？ 在面向对象的概念中，所有的对象都是通过类来描绘的，但是反过来，并不是所有的类都是用来描绘对 
     </details> 
 
-- 💪 [&lpar;10月最新&rpar; 前端图形学实战: 从零开发几何画板&lpar;vue3 + vite版&rpar;、使用fabric.js 快速开发一个图片编辑器 |  酱酱的下午茶第 90 期](https://juejin.cn/post/7155685723008401415) | Tue Oct 18 2022 3:15 AM 
+- 💪 [七千字带你了解异常处理](https://juejin.cn/post/7155647972926029855) | Tue Oct 18 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
-    本期下午茶看点：&lpar;10月最新&rpar; 前端图形学实战: 从零开发几何画板&lpar;vue3 + vite版&rpar;、使用fabric.js 快速开发一个图片编辑器、隐秘的 MySQL 类型转换... 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第18天 @TOC 一、初始异常 异常是程序中的一些错误，但并不是所有的错误都是异常，并且错误有时候是可以避免的。 java中常见 
     </details> 
 <!-- juejin:END -->
 ### 少数派
