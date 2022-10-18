@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [USB 80Gbps接口标准正式发布 USB 3.0/USB4称呼被淘汰](https://www.cnbeta.com/articles/tech/1328527.htm) | Tue Oct 18 2022 5:31 PM 
+- 🕯 [Windows 10 2022 Update现已推出 带来&quot;一系列有限的生产力功能&quot;](https://www.cnbeta.com/articles/tech/1328537.htm) | Tue Oct 18 2022 7:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;10月19日，USB-IF组织正式发布了全新的USB4 v2.0标准规范，带来了新一代USB 80Gbps接口，还有全新的命名体系。&lt;/strong&gt;说到命名骚操作，除了大名鼎鼎的微软“改名部”，最会玩的就是USB-IF组织了，从早期的Full Speed、High Speed，到后来的USB 3.2 Gen1/Gen2/Gen2x2，能让你分清楚算我输。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328527.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;微软已经开始为Windows 10推出最新的功能更新，Windows 10 2022更新现在可以作为一个启用包提供给那些坚持使用老式Windows 10（2004版和更新版）的人。&lt;/strong&gt;微软尚未公布Windows 10 2022更新（或22H2）的官方更新日志，但不要把希望寄托得太高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328537.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [黄氏刀法惨烈翻车 RTX 4080 12GB被喷到取消发布](https://www.cnbeta.com/articles/tech/1328525.htm) | Tue Oct 18 2022 4:47 PM 
+- 💼 [Windows 11 Moment 1 更新正式发布 现已可下载](https://www.cnbeta.com/articles/tech/1328535.htm) | Tue Oct 18 2022 7:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这几天大家都被 NVIDIA 最新的旗舰显卡 RTX 4090&amp;nbsp;给刷屏了，它的性能也确实非常强大，没有辜负大家的期望。托尼自己也测了这块 4090，确实是科技与狠活的结晶，再加上 DLSS 3 的加持，管你什么游戏都能嘎嘎乱杀。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328525.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软已经开始推出之前承诺的Windows 11的一批新功能。该更新又称&amp;quot;Moment 1&amp;quot;，现在可用于所有运行Windows 11 2022更新的合格系统，用户可以在微软的官方视频中查看Windows 11的最新功能更新中有哪些新功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328535.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [M2 iPad Pro改进有多小？与2021年款完全相同的显示屏和相机硬件](https://www.cnbeta.com/articles/tech/1328523.htm) | Tue Oct 18 2022 4:42 PM 
+- 💂 [离了大谱 Intel Arc显卡待机功耗达47W 一招搞定](https://www.cnbeta.com/articles/tech/1328533.htm) | Tue Oct 18 2022 6:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据苹果网站上的对比表，从12.9英寸的iPad Pro开始，新的第六代机型包括与去年的机型完全相同的显示硬件。两款机型都采用了液体视网膜XDR显示屏，分辨率为2732×2048，每英寸像素为264ppi，支持ProMotion、True Tone、宽色彩等功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328523.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel Arc A7系列显卡发布后，很快被发现存在待机功耗过高的问题。还好很快，Intel就给出了解决方法。正常来说，显卡在待机时的功耗不会超过10W，但实测显示，Arc A770显卡啥也不干就会消耗多达45W左右，最高47W，Arc A750也会白白吃掉40W左右。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328533.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [第十代iPad是苹果公司首次采用横向前置摄像头设计](https://www.cnbeta.com/articles/tech/1328521.htm) | Tue Oct 18 2022 4:39 PM 
+- 🚀 [欧盟纯电动车5%中国造 品牌优势渐显](https://www.cnbeta.com/articles/tech/1328531.htm) | Tue Oct 18 2022 6:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新的第十代iPad是有史以来第一个采用横向前置摄像头方向的iPad型号。正如传言所预期的那样，新iPad的前置摄像头现在位于该设备右边框的中间位置。这意味着，当以横向握持或与Magic Keyboard Folio等配件连接时，摄像头位于用户的视线中心。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328521.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;中国汽车品牌之所以在欧洲市场具有竞争优势，不仅仅是因为较高的性价比，而且车辆的安全性也已得到了大幅的提升，“中国制造”的形象早已不再是“廉价”的代名词。&lt;/strong&gt;中国电动车厂商正试图在欧洲站稳脚跟。近两年来，越来越多的中国电动车品牌赴欧洲发布新车型，与全球汽车制造商同台竞技，中国制造的出色表现也越来越受关注。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328531.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Canalys: 2022年第三季度全球智能手机出货量下降了9%](https://www.cnbeta.com/articles/tech/1328519.htm) | Tue Oct 18 2022 4:37 PM 
+- 🎊 [mRNA癌症疫苗不是梦？](https://www.cnbeta.com/articles/tech/1328529.htm) | Tue Oct 18 2022 6:48 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7-9月全球智能手机出货量的初步数字已经公布，Canalys报告显示市场依旧不景气，与去年相比下降了9%。消费者支出减少和经济不确定性的结合导致智能手机市场出现了自2014年第三季度以来最糟糕的季度结果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328519.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;因新冠疫苗研究而加速，十年内人类或许可以打赢癌症攻坚战。当地时间上周日，德国生物技术公司BioNTech（百欧恩泰）联合创始人夫妇吴沙忻和厄兹莱姆·蒂雷吉在接受采访时称，mRNA疫苗技术可用于帮助摧毁癌细胞，这意味着癌症疫苗可能在2030年前问世。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328529.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
