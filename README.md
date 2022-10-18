@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [咖啡地图 | 不能被忽略的非洲肯尼亚](https://sspai.com/post/76220) | Tue Oct 18 2022 7:57 AM 
+- 👹 [被「双链」掩盖光芒的优秀功能：探索大纲和内容块的正确打开方式](https://sspai.com/post/76245) | Tue Oct 18 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    面对新知识，什么时候应该放进独立的双链页面内？什么时候应该建立一个子内容块并直接输入？&lt;a href=&quot;https://sspai.com/post/76245&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [咖啡地图 | 不能被忽略的非洲肯尼亚](https://sspai.com/post/76220) | Tue Oct 18 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
     非洲可以算是咖啡生产中最重要的一个组成部分，除了咖啡基因库埃塞俄比亚外，还有很多地方，比如布隆迪、肯尼亚、马拉维、卢旺达、坦桑尼亚、赞比亚。其他几个地方的产量不算大，也不是特别主流，但是肯尼亚，作为非 ...&lt;a href=&quot;https://sspai.com/post/76220&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [用好这 2 个系统功能，让 iPhone 实现「多卡多待」 | 一日一技](https://sspai.com/post/76198) | Tue Oct 18 2022 6:30 AM 
+- 🤭 [用好这 2 个系统功能，让 iPhone 实现「多卡多待」 | 一日一技](https://sspai.com/post/76198) | Tue Oct 18 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     对于有三张或以上SIM卡的iPhone用户来说，目前的iPhone机型最多只支持双卡双待，如果不想额外多带一台手机，那么就只能通过物理换卡来解决。同理，类似的困境也同样困扰着iPhoneSE、iPho ...&lt;a href=&quot;https://sspai.com/post/76198&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [不算成功的探索，寻找 macOS 本地音乐播放管理软件](https://sspai.com/post/76158) | Tue Oct 18 2022 3:25 AM 
+- 🥸 [不算成功的探索，寻找 macOS 本地音乐播放管理软件](https://sspai.com/post/76158) | Tue Oct 18 2022 3:25 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76158&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：VESA 公布 DisplayPort 2.1 标准，Amazon 计划发射互联网卫星等](https://sspai.com/post/76251) | Tue Oct 18 2022 1:12 AM 
+- 🙉 [派早报：VESA 公布 DisplayPort 2.1 标准，Amazon 计划发射互联网卫星等](https://sspai.com/post/76251) | Tue Oct 18 2022 1:12 AM 
     <details><summary>展开描述 ...</summary> 
     文件显示 Meta 的元宇宙项目呈现颓势，奔驰部分车型将支持 Apple Music 空间音频等&lt;a href=&quot;https://sspai.com/post/76251&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/76235) | Mon Oct 17 2022 9:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/76235&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
