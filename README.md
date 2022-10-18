@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [角逐年度安全品牌影响力 |「WitAwards中国网安行业2022年度评选」火热进行中](https://www.freebuf.com/news/347201.html) | Tue Oct 18 2022 1:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    快来看看你支持的企业上榜了吗？你一票我一票，心仪品牌就“出道”。 
+    </details> 
+
 - 🦄 [澳大利亚零售巨头泄露220万用户数据，并被黑客在线出售](https://www.freebuf.com/news/347119.html) | Tue Oct 18 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
     澳大利亚零售巨头Woolworths 批露了近期旗下子公司MyDeal一起影响 220 万用户的数据泄露事件。 
     </details> 
 
-- 🦄 [俄罗斯对保加利亚发起网络攻击](https://www.freebuf.com/news/347110.html) | Tue Oct 18 2022 2:53 AM 
+- 🦅 [俄罗斯对保加利亚发起网络攻击](https://www.freebuf.com/news/347110.html) | Tue Oct 18 2022 2:53 AM 
     <details><summary>展开描述 ...</summary> 
     保加利亚政府机构的基础设施遭到大规模 DDoS 攻击，包括内务部、国防部、司法部、宪法法院等多个政府部门受到严重影响。 
     </details> 
 
-- 🦅 [「WitAwards中国网安行业2022年度评选」投票开启，PICK你心中NO.1](https://www.freebuf.com/fevents/347090.html) | Tue Oct 18 2022 1:35 AM 
+- 🪄 [「WitAwards中国网安行业2022年度评选」投票开启，PICK你心中NO.1](https://www.freebuf.com/fevents/347090.html) | Tue Oct 18 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
     欢迎各位积极投票，心仪企业就“出道”。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 韩国网络平台瘫痪总统道歉；部分iPhone 14存在不支持SIM卡问题](https://www.freebuf.com/news/347061.html) | Mon Oct 17 2022 11:15 AM 
+- 💻 [FreeBuf早报 | 韩国网络平台瘫痪总统道歉；部分iPhone 14存在不支持SIM卡问题](https://www.freebuf.com/news/347061.html) | Mon Oct 17 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
     韩国SK公司C&amp;amp;C板桥数据中心15日发生火灾，导致包括韩国“国民聊天工具”Kakao Talk在内的多个网络平台服务中断。 
-    </details> 
-
-- 💻 [字节招聘 | 高级安全工程师、技术专家岗等你来投！](https://www.freebuf.com/jobs/347056.html) | Mon Oct 17 2022 10:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    欢迎有隐私合规安全、数据安全、客户端/移动安全&amp;amp;QA经验的的同仁！ 
     </details> 
 <!-- freebuf:END -->
 
