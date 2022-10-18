@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【项目实战】记录Webpack 4 升级到 5](https://juejin.cn/post/7155727521491714085) | Tue Oct 18 2022 5:58 AM 
+- 🤗 [写给小白的hover后展示图片教程](https://juejin.cn/post/7155754896539516958) | Tue Oct 18 2022 7:44 AM 
     <details><summary>展开描述 ...</summary> 
-    为啥要升级 ？ 构建速度提升（大概4倍 ） + 长效缓存 ps：着实是 文章封面 不好找 ～ 思想 开始 先清理依赖 使用 npm-check-updates 升级 依赖 对新手还行 当前 packa 
+    为啥有这篇 ？ 开发者群里 有小伙伴问 如何实现 hover 图片 展示 微信二维码 ，遂有空敲一下 解答一下 ps: 新手有问题非常正常，你的进步速度在于是否找到了靠谱的师傅 思想 代码 index 
     </details> 
 
-- 🎡 [BeanFactory和FactoryBean的区别  你脑子里有答案没](https://juejin.cn/post/7155718445990936589) | Tue Oct 18 2022 5:23 AM 
+- 🎡 [浅谈算法：分治算法竟然蕴藏着大自然的奥秘](https://juejin.cn/post/7155744700379430943) | Tue Oct 18 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-    这个之前经常会遇到别人问 工作开发中我对于bean的使用比较少 就是偶尔启动出错才会出现 可能是水平有限 但是bean 也是非常核心的问题 书到用时方恨少 且看且珍惜 
+    算法在现代IT行业中有重要地位，是有了巧妙设计的算法，计算机才能以最小的资源和最大的效率来运行各种各样的软件程序。分治算法为什么快速而高效？或许我们可以从大自然中找到答案。 
     </details> 
 
-- 🕯 [sdl_audio_callback音频播放线程分析](https://juejin.cn/post/7155715935792267277) | Tue Oct 18 2022 5:13 AM 
+- 🕯 [云原生爱好者周刊：野心很大的云原生数据库 SurrealDB](https://juejin.cn/post/7155743067528495111) | Tue Oct 18 2022 6:58 AM 
     <details><summary>展开描述 ...</summary> 
-    音频播放线程是之前在 audio_open&lpar;&rpar; 函数里面创建的，实际上就是回调函数 （ wanted_spec.callback）。当用 SDL 打开音频硬件设备的时候，SDL 库就会创建一个线程，来 
+    ## 开源项目推荐 ### [SurrealDB]&lpar;https://github.com/surrealdb/surrealdb&rpar; SurrealDB 是一个开源的端到端云原生数据库，同时支持  
     </details> 
 
-- 🚀 [详解Object类和抽象类](https://juejin.cn/post/7155648006325272613) | Tue Oct 18 2022 12:49 AM 
+- 🚀 [手把手入门 Vue教学](https://juejin.cn/post/7155741294642331656) | Tue Oct 18 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第18天 @TOC 一、抽象类是什么？ 在面向对象的概念中，所有的对象都是通过类来描绘的，但是反过来，并不是所有的类都是用来描绘对 
+    Vue 可以简要概述为：动态构建 用户界面 的 渐进式 框架，本文带你快速了解Vue 基础核心知识点 
     </details> 
 
-- 💪 [七千字带你了解异常处理](https://juejin.cn/post/7155647972926029855) | Tue Oct 18 2022 12:49 AM 
+- 💪 [浅析智慧医疗如何基于轻量技术打通服务闭环](https://juejin.cn/post/7155738223891709983) | Tue Oct 18 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第18天 @TOC 一、初始异常 异常是程序中的一些错误，但并不是所有的错误都是异常，并且错误有时候是可以避免的。 java中常见 
+    智慧医疗作为充分应用计算机技术、信息技术建立的新型医疗方式，正随着新一代信息技术的普及和医疗健康领域需求的变化迎来爆发期。在智慧医疗的生态体系建设上，不仅持续推动了医药、医疗、医保和健康产业的发展·· 
     </details> 
 <!-- juejin:END -->
 ### 少数派
