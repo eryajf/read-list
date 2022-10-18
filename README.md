@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果将于10月24日发布iPadOS 16](https://www.cnbeta.com/articles/tech/1328501.htm) | Tue Oct 18 2022 3:23 PM 
+- 🕯 [iPad Pro和iPad现在附赠编织款USB-C电缆 也可单独购买](https://www.cnbeta.com/articles/tech/1328517.htm) | Tue Oct 18 2022 4:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今年，苹果将其移动操作系统的平板电脑版本iPadOS 16的发布日期从iOS 16的发布中分离出来，该公司刚刚宣布iPadOS 16更新将于10月24日星期一开始推出。&lt;/strong&gt;今天宣布的新款iPad将搭载最新的软件，与此同时也将作为基本型号的iPad（第五代及以后）、iPad mini（第五代及以后）、iPad Air（第三代及以后）以及所有iPad Pro平板电脑的更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司今天推出的新款iPad Pro和iPad型号首次在包装盒中包含一条一米长的USB-C编织充电线。苹果还通过其在线商店单独销售该编织线，在美国的定价为19美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果第十代iPad发布：升级A14仿生处理器 外形迭代终于完成](https://www.cnbeta.com/articles/tech/1328499.htm) | Tue Oct 18 2022 3:13 PM 
+- 💼 [在线捐20元就被“默认”打赏平台3元，合理吗？](https://www.cnbeta.com/articles/tech/1328515.htm) | Tue Oct 18 2022 3:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司第十代iPad的设计经过了全面改进，与iPad Pro和iPad Air的设计更加接近。与更新的M2 iPad Pro一起推出的第十代iPad，经历了所有新产品中最大的设计变化，之前的弧形边缘设计被换成了平边，与iPad Pro系列和iPhone的风格相匹配。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京的张先生最近“有点烦”，起因是他在通过网络互助平台无忧筹给生病的朋友捐款时，发现在平台的“默认”设置下，自己也在向平台“捐款”。近期，张先生的一位朋友遭遇突发重疾，其家人在无忧筹平台发起了捐款。张先生通过链接点击进入捐款页面，准备捐款500元，但当他进入支付步骤时，显示的捐款金额变成了503元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果发布2022款iPad Pro 配备M2芯片、悬停式Apple Pencil功能等](https://www.cnbeta.com/articles/tech/1328497.htm) | Tue Oct 18 2022 3:04 PM 
+- 💂 [搭载M2芯片的新款iPad Pro国行售价6799起 最高支持2TB](https://www.cnbeta.com/articles/tech/1328513.htm) | Tue Oct 18 2022 3:56 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果刚刚发布了新的第六代iPad Pro。该公司最新的旗舰平板电脑毫不意外地装备了M2芯片，该芯片今年早些时候首次在MacBook Air和13英寸MacBook Pro中首次亮相。&lt;/strong&gt;它将提供与以前相同的两种屏幕尺寸：可以选择12.9英寸和11英寸尺寸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间10月18日晚间消息，苹果官网正式推出搭载M2芯片的新款iPad Pro，11寸国行售价6799元起，2TB版本16099元，12.9寸版本，9299元起，2TB版本18599元，对比前一代，11寸起步涨了600元，12.9寸则涨价了800元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果发布配备A15 支持HDR10+的Apple TV 售价129美元](https://www.cnbeta.com/articles/tech/1328495.htm) | Tue Oct 18 2022 2:59 PM 
+- 🚀 [专门用于第十代iPad的Magic Keyboard Folio发布 售价249美元](https://www.cnbeta.com/articles/tech/1328511.htm) | Tue Oct 18 2022 3:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果公司今天宣布了一个新的Apple TV型号，配备A15仿生芯片并支持HDR10+，起价为129美元，新款Apple TV还配备了更新的Siri遥控器，并配有USB-C接口。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司为新iPad推出了Magic Keyboard Folio，这是一款与iPad Pro版本类似的键盘和支架。与更新的第十代iPad一起推出的iPad Magic Keyboard Folio是一个平板电脑的外壳，其中包含一个键盘。Magic Keyboard Folio由一个后盖和一个可拆卸的前盖组成，后盖可容纳键盘本身，覆盖了正面和背面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [东芝发布MG10 “御三家”压轴的20TB硬盘](https://www.cnbeta.com/articles/tech/1328493.htm) | Tue Oct 18 2022 2:57 PM 
+- 🎊 [苹果公司为新iPad和iPad Pro分享9分钟的主题演讲式视频](https://www.cnbeta.com/articles/tech/1328509.htm) | Tue Oct 18 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;姗姗来迟的东芝，终于推出了旗下首款20TB机械硬盘新品，隶属于MG10产品线。对比西数，东芝可是晚了一年的时间。另一大对手希捷，也在今年3月份拿出了20TB硬盘。&lt;strong&gt;规格方面，20TB的MG10采用10盘充氦封装，单盘2TB,7200转，提供12Gbps SAS接口或者6Gbps SATA3接口不同款式供客户选择。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司今天通过其网站上的新闻稿宣布了新的iPad Pro和入门级iPad，而不是通过发布会活动。&lt;strong&gt;尽管如此，苹果还是发布了一段9分钟的视频，由不同的苹果员工讲述和介绍新iPad的细节。&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
