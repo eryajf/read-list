@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [腾讯云海外便宜云服务器 数据库 云硬盘/储存对象 3.5 折，不限制新老](https://www.v2ex.com/t/887664#reply2) | Mon Oct 17 2022 4:43 PM
-- 🤗 [群晖 Cloud Sync 自动导出的加密密钥是一堆代码咋整](https://www.v2ex.com/t/887660#reply0) | Mon Oct 17 2022 4:06 PM
-- 🎭 [想干程序员，几乎从零开始，求指点方向](https://www.v2ex.com/t/887658#reply6) | Mon Oct 17 2022 3:58 PM
-- 🥷 [windows 上面有没有能实现 Linux 上 docker 的这种操作](https://www.v2ex.com/t/887651#reply5) | Mon Oct 17 2022 3:18 PM
-- 🐵 [凹语言支持 JetBrains Fleet 语法高亮](https://www.v2ex.com/t/887647#reply0) | Mon Oct 17 2022 2:50 PM<!-- v2ex:END -->
+- 🥸 [阿里云国际站腾讯云国际站可提供实名账户，云主机，代充值可付 USDT](https://www.v2ex.com/t/887693#reply0) | Tue Oct 18 2022 2:03 AM
+- 🤗 [腾讯云海外便宜云服务器 数据库 云硬盘/储存对象 3.5 折，不限制新老](https://www.v2ex.com/t/887664#reply3) | Mon Oct 17 2022 4:43 PM
+- 🎭 [群晖 Cloud Sync 自动导出的加密密钥是一堆代码咋整](https://www.v2ex.com/t/887660#reply2) | Mon Oct 17 2022 4:06 PM
+- 🥷 [想干程序员，几乎从零开始，求指点方向](https://www.v2ex.com/t/887658#reply21) | Mon Oct 17 2022 3:58 PM
+- 🐵 [windows 上面有没有能实现 Linux 上 docker 的这种操作](https://www.v2ex.com/t/887651#reply6) | Mon Oct 17 2022 3:18 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
