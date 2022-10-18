@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [澳大利亚Apple Store员工发起罢工一小时行动](https://www.cnbeta.com/articles/tech/1328425.htm) | Tue Oct 18 2022 10:24 AM 
+- 🕯 [塔克拉玛干沙漠罕见出现众多湖泊](https://hot.cnbeta.com/articles/funny/1328429.htm) | Tue Oct 18 2022 11:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;提到沙漠，恐怕不少人会联想到贫瘠、荒凉这次词语。不过，&lt;strong&gt;央视报道称，在我国最大的塔克拉玛干沙漠，出现了众多湖泊的壮观景象，可谓难得一见。&lt;/strong&gt;&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/3266943013/MaSeRyP8S&quot; target=&quot;_blank&quot;&gt;央视&lt;/a&gt;介绍，今年是新疆塔里木河近十年水量最大的一年，河水漫溢到附近的塔克拉玛干沙漠中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1328429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [NASA的行星猎手TESS脱离安全模式 恢复正常运行](https://www.cnbeta.com/articles/science/1328427.htm) | Tue Oct 18 2022 10:28 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月13日星期四，在美国东部时间下午6:30左右，美国宇航局的凌日系外行星调查（TESS）开始恢复正常运行。工程师们成功地给仪器通电，航天器恢复了常规的精确定位模式。TESS恢复了科学观测，储存在航天器上的所有科学数据将在下一次机会下载到地面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [澳大利亚Apple Store员工发起罢工一小时行动](https://www.cnbeta.com/articles/tech/1328425.htm) | Tue Oct 18 2022 10:24 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;澳大利亚布里斯班、彻姆赛德和查尔斯顿的Apple Store员工宣布停止工作一小时，以抗议工资和工作条件。&lt;/strong&gt;正如之前所宣布的，同时也是零售和快餐业工会（RAFFWU）成员的Apple Store员工于2022年10月18日星期二举行了罢工。据《悉尼晨锋报》报道，这是一次历史性的抗议活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [扎克伯格转型元宇宙是自废武功？大空头：就像可口可乐放弃原配方](https://www.cnbeta.com/articles/tech/1328423.htm) | Tue Oct 18 2022 10:21 AM 
+- 🚀 [扎克伯格转型元宇宙是自废武功？大空头：就像可口可乐放弃原配方](https://www.cnbeta.com/articles/tech/1328423.htm) | Tue Oct 18 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;北京时间10月18日消息，电影《大空头》原型、著名投资者迈克尔·贝里&lpar;Michael Burry&rpar;日前表示，脸书母公司Meta艰难地向元宇宙转型，就好像可口可乐当年放弃原配方一样。贝里因为在2008年美国次贷危机爆发前成功做空美国房贷市场而出名。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [罗永浩或将开启淘宝直播：最快双11首播](https://www.cnbeta.com/articles/tech/1328421.htm) | Tue Oct 18 2022 10:20 AM 
+- 🎊 [罗永浩或将开启淘宝直播：最快双11首播](https://www.cnbeta.com/articles/tech/1328421.htm) | Tue Oct 18 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;经过两三年的直播带货，罗永浩基本还完了欠下的数亿债务，被网友戏称为真还传，前不久宣布退出直播，重新创业，不过最新消息称罗永浩将开启淘宝直播，最快双11首播。&lt;strong&gt;Tech星球爆料称，罗永浩将开启淘宝直播，并于“双11&amp;quot;首播。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [联邦快递正在关闭其Roxo机器人送货测试计划](https://www.cnbeta.com/articles/tech/1328419.htm) | Tue Oct 18 2022 10:20 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;联邦快递正在停止其最后一英里的送货机器人Roxo的开发，联邦快递方面证实，该公司将把重点从机器人转移到更多&amp;quot;近期的机会&amp;quot;。Roxo是在2019年宣布与DEKA合作的机器人业务，DEKA同时也是iBot轮椅的制造商，它使用多组轮子来&amp;quot;行走&amp;quot;上下楼梯，并将用户从坐姿提高到眼睛的高度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [苹果最大代工厂正在押注电动车](https://www.cnbeta.com/articles/tech/1328417.htm) | Tue Oct 18 2022 9:56 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球最大的合同电子制造商、苹果公司最大的代工厂富士康正在押注电动车领域，以摆脱对苹果这一最大客户的依赖，实现业务的多元化。周二，富士康母公司鸿海集团举行了一年一度的科技日，鸿海集团董事长刘扬伟称目前是电动车领域“百年难得一遇”的好时机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
