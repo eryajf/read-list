@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现关节炎治疗药物可促进脂肪信号传递 并能对抗肥胖小鼠的糖尿病](https://www.cnbeta.com/articles/science/1328219.htm) | Tue Oct 18 2022 2:08 AM 
+- 🕯 [OceanEnergy计划在苏格兰测试、验证和商业化波浪能发电机OE35](https://www.cnbeta.com/articles/science/1328287.htm) | Tue Oct 18 2022 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;科学家们在研究一种用于治疗类风湿性关节炎的药物的活性时，发现它有一些令人惊讶的功能，其中一些功能在对抗糖尿病时可能是有用的。&lt;strong&gt;在小鼠模型上进行的研究表明，这种化合物具有解决与该病症相关的炎症的双重潜力，同时也提供了一种新陈代谢的推动力&lt;/strong&gt;，可以帮助调节食欲和促进肥胖者的健康脂肪信号。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328219.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;爱尔兰公司 OceanEnergy 已在夏威夷大规模测试其振荡水柱发生器，&lt;strong&gt;该公司已签署了一项为期四年的项目，在苏格兰奥克尼附近测试、验证和商业化其最大规模的波浪能发电机 OE35。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [雷诺高管称电动汽车将占其2022年欧洲销量40%](https://www.cnbeta.com/articles/tech/1328217.htm) | Tue Oct 18 2022 2:06 AM 
+- 💼 [苹果停止签署iOS 16.0.2 已升级用户无法再降级](https://www.cnbeta.com/articles/tech/1328285.htm) | Tue Oct 18 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;雷诺品牌首席运营官Fabrice Cambolive在巴黎车展开幕前表示，在过去两年中，纯电动和混合动力车型的销量在该品牌总销量中的占比几乎实现了翻倍。&lt;strong&gt;Cambolive表示：“在欧洲市场上，今年电动汽车在雷诺品牌销量中的占比将达到40%。”&lt;/strong&gt;他还补充说，雷诺品牌已经做好了准备，以在2030年之前过渡到电动汽车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328217.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在上周发布 iOS 16.0.3 更新之后，苹果于今天停止了 iOS 16.0.2 更新的签署，意味着已升级的 iPhone 用户无法再降级到 iOS 16.0.2。&lt;/strong&gt;目前苹果官方支持签署的 iOS 16 版本仅有 iOS 16.0.3 和 iOS 16.1 Beta。Apple 通常会随着时间的推移停止签署较旧的 iOS 版本，以防止用户降级到过时的软件版本。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328285.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉最快将于11月底向欧洲客户交付Model S Plaid](https://www.cnbeta.com/articles/tech/1328215.htm) | Tue Oct 18 2022 2:04 AM 
+- 💂 [0patch比微软官方更早推出MotW零日漏洞补丁](https://www.cnbeta.com/articles/tech/1328283.htm) | Tue Oct 18 2022 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月18日消息，据外媒报道，&lt;strong&gt;此前下单预订Model S&amp;nbsp;Plaid的欧洲用户最近透露，特斯拉已经主动和他们联系，询问今年11月底或12月初是否可以交付新车。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328215.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;援引 Bleeping Computer 报道，存在于 Windows Mark of the Web &lpar;MotW&rpar; 中的零日漏洞正被攻击者积极利用。&lt;/strong&gt;MotW 应用于提取 ZIP 存档文件、可执行文件和源自网络上不受信任位置的文档。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [DARPA选择英特尔作为天基自适应通信节点计划第一阶段参与方](https://www.cnbeta.com/articles/tech/1328213.htm) | Tue Oct 18 2022 2:01 AM 
+- 🚀 [研究发现重力正在不断塑造地球的表面](https://www.cnbeta.com/articles/science/1328281.htm) | Tue Oct 18 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;美国国防高级研究计划局 &lpar;DARPA&rpar; 已选择英特尔作为“天基自适应通信节点 ”（Space-BACN）计划第一阶段的重要参与方，&lt;/strong&gt;该计划旨在创建一种低成本、可重新配置的光通信终端，可以在不同卫星星座之间转换信息。Space-BACN 卫星终端将实现卫星星座之间的通信，使数据能够以光速发送到地球周围的任何地方。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328213.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据BGR报道，&lt;strong&gt;一项新研究显示，重力对地球的影响正在不断地塑造我们星球的表面。&lt;/strong&gt;当我们的星球形成时，它是通过将灰尘和岩石拉向其引力场来实现的。随着球体的膨胀，引力继续聚集更多的物质。现在，引力对地球的影响继续从内部深处塑造我们的星球。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [经过基因改造的浮萍可能是一种更可持续的生物燃料来源](https://www.cnbeta.com/articles/science/1328211.htm) | Tue Oct 18 2022 1:54 AM 
+- 🎊 [JD Power年度报告：美互联网服务提供商客户满意度下滑](https://www.cnbeta.com/articles/tech/1328279.htm) | Tue Oct 18 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;虽然玉米和大豆等植物是生物燃料的主要来源，但它们生长在原本可以用于种植粮食作物的土地上。&lt;strong&gt;考虑到这个问题，科学家们对可在废水中生长的产油浮萍进行了基因改造。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328211.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;当 6 月份的“美国客户满意度指数”公布时，宽带行业的数据相当难堪。而 JD Power 上周披露的最新调研结果，再一次让我们直面这一事实。&lt;/strong&gt;通过 2021 年 11 月 - 2022 年 8 月对 23000 人的访问，研究发现美国消费者对其 ISP 的满意度低于一年前。此外在 JD Power 划分的美东、中北、南部和西部四大区域中，有三大区域的宽带服务客户满意度评分不佳。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
