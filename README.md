@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [铠侠发布写不死的数据中心TLC SSD 最高容量7.7TB](https://www.cnbeta.com/articles/tech/1328485.htm) | Tue Oct 18 2022 2:06 PM 
+- 🕯 [苹果将于10月24日发布iPadOS 16](https://www.cnbeta.com/articles/tech/1328501.htm) | Tue Oct 18 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;想要写不死的SSD硬盘的玩家注意了，铠侠日前推出了面向数据中心的新一代XD7P系列硬盘，目前还是PCIe 4.0的，明年说是会推PCIe 5.0的，最高容量7.68TB，尽管是TLC闪存，但5年时间中每天擦写一遍都没问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今年，苹果将其移动操作系统的平板电脑版本iPadOS 16的发布日期从iOS 16的发布中分离出来，该公司刚刚宣布iPadOS 16更新将于10月24日星期一开始推出。&lt;/strong&gt;今天宣布的新款iPad将搭载最新的软件，与此同时也将作为基本型号的iPad（第五代及以后）、iPad mini（第五代及以后）、iPad Air（第三代及以后）以及所有iPad Pro平板电脑的更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328501.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [倪光南院士称中国自研芯片应在RISC-V上押宝以抓住时代机遇](https://www.cnbeta.com/articles/tech/1328483.htm) | Tue Oct 18 2022 2:02 PM 
+- 💼 [苹果第十代iPad发布：升级A14仿生处理器 外形迭代终于完成](https://www.cnbeta.com/articles/tech/1328499.htm) | Tue Oct 18 2022 3:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，中国工程院院士倪光南在数字世界专刊撰文指出，一直以来，我国芯片产业在“主流 CPU”架构上受制于人，在数字经济时代，建议我国积极抓住时代机遇，聚焦开源RISC-V架构，以全球视野积极谋划我国芯片产业发展。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司第十代iPad的设计经过了全面改进，与iPad Pro和iPad Air的设计更加接近。与更新的M2 iPad Pro一起推出的第十代iPad，经历了所有新产品中最大的设计变化，之前的弧形边缘设计被换成了平边，与iPad Pro系列和iPhone的风格相匹配。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328499.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Adobe AI现在能识别人脸特征以加快照片编辑速度](https://www.cnbeta.com/articles/soft/1328481.htm) | Tue Oct 18 2022 2:00 PM 
+- 💂 [苹果发布2022款iPad Pro 配备M2芯片、悬停式Apple Pencil功能等](https://www.cnbeta.com/articles/tech/1328497.htm) | Tue Oct 18 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;Adobe的Lightroom软件现在使用新的人工智能技术来选择物体、人物、服装和面部特征，试图使照片编辑更快、更强大。&lt;/strong&gt;该公司周二在其Max会议上说，这项新技术可用于Lightroom、Lightroom Classic和智能手机版的照片编辑软件。选择物体和人物的新工具扩展了早期选择主体和天空的人工智能工具。这项新技术显示了人工智能技术的发展速度之快，可以加快曾经完全不属于计算机的任务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/soft/1328481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果刚刚发布了新的第六代iPad Pro。该公司最新的旗舰平板电脑毫不意外地装备了M2芯片，该芯片今年早些时候首次在MacBook Air和13英寸MacBook Pro中首次亮相。&lt;/strong&gt;它将提供与以前相同的两种屏幕尺寸：可以选择12.9英寸和11英寸尺寸。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328497.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Mozilla Firefox 106 正式发布 增加PDF编辑并降低Mac上的CPU使用率](https://www.cnbeta.com/articles/tech/1328479.htm) | Tue Oct 18 2022 1:56 PM 
+- 🚀 [苹果发布配备A15 支持HDR10+的Apple TV 售价129美元](https://www.cnbeta.com/articles/tech/1328495.htm) | Tue Oct 18 2022 2:59 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Mozilla向公众发布了Firefox 106版，增加了直接在浏览器中编辑PDF的功能。Firefox 106继续为用户增加隐私和定制功能。它还包括一个PDF编辑器、文本识别、新壁纸和一个名为Firefox View的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果公司今天宣布了一个新的Apple TV型号，配备A15仿生芯片并支持HDR10+，起价为129美元，新款Apple TV还配备了更新的Siri遥控器，并配有USB-C接口。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [新研究显示超加工食品比外界想象的更不健康](https://www.cnbeta.com/articles/science/1328477.htm) | Tue Oct 18 2022 1:50 PM 
+- 🎊 [东芝发布MG10 “御三家”压轴的20TB硬盘](https://www.cnbeta.com/articles/tech/1328493.htm) | Tue Oct 18 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;长期以来，人们都知道，以超加工食品（UPF）为主的饮食更有可能导致肥胖。&lt;strong&gt;但最近的研究表明，高UPF消费也会增加心血管疾病、痴呆症的风险，而且根据最近一项涉及50,000名卫生专业人员的美国研究，还会增加患结肠癌的风险。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328477.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;姗姗来迟的东芝，终于推出了旗下首款20TB机械硬盘新品，隶属于MG10产品线。对比西数，东芝可是晚了一年的时间。另一大对手希捷，也在今年3月份拿出了20TB硬盘。&lt;strong&gt;规格方面，20TB的MG10采用10盘充氦封装，单盘2TB,7200转，提供12Gbps SAS接口或者6Gbps SATA3接口不同款式供客户选择。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
