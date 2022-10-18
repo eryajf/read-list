@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [「WitAwards中国网安行业2022年度评选」投票开启，PICK你心中NO.1](https://www.freebuf.com/fevents/347090.html) | Tue Oct 18 2022 1:35 AM 
+- 🦄 [澳大利亚零售巨头泄露220万用户数据，并被黑客在线出售](https://www.freebuf.com/news/347119.html) | Tue Oct 18 2022 3:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    澳大利亚零售巨头Woolworths 批露了近期旗下子公司MyDeal一起影响 220 万用户的数据泄露事件。 
+    </details> 
+
+- 🦄 [俄罗斯对保加利亚发起网络攻击](https://www.freebuf.com/news/347110.html) | Tue Oct 18 2022 2:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    保加利亚政府机构的基础设施遭到大规模 DDoS 攻击，包括内务部、国防部、司法部、宪法法院等多个政府部门受到严重影响。 
+    </details> 
+
+- 🦅 [「WitAwards中国网安行业2022年度评选」投票开启，PICK你心中NO.1](https://www.freebuf.com/fevents/347090.html) | Tue Oct 18 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
     欢迎各位积极投票，心仪企业就“出道”。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 韩国多个网络平台瘫痪，总统道歉；苹果承认部分iPhone 14存在“不支持SIM卡”问题](https://www.freebuf.com/news/347061.html) | Mon Oct 17 2022 11:15 AM 
+- 🪄 [FreeBuf早报 | 韩国多个网络平台瘫痪总统道歉；部分iPhone 14存在“不支持SIM卡”问题](https://www.freebuf.com/news/347061.html) | Mon Oct 17 2022 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-    韩国SK公司C&amp;amp;C板桥数据中心15日发生火灾，导致包括韩国“微信”Kakao Talk在内的多个网络平台服务中断。16日，韩国总统尹锡悦为此向公众表示歉意。 
+    韩国SK公司C&amp;amp;C板桥数据中心15日发生火灾，导致包括韩国“国民聊天工具”Kakao Talk在内的多个网络平台服务中断。 
     </details> 
 
-- 🦅 [字节招聘 | 高级安全工程师、技术专家岗等你来投！](https://www.freebuf.com/jobs/347056.html) | Mon Oct 17 2022 10:30 AM 
+- 💻 [字节招聘 | 高级安全工程师、技术专家岗等你来投！](https://www.freebuf.com/jobs/347056.html) | Mon Oct 17 2022 10:30 AM 
     <details><summary>展开描述 ...</summary> 
     欢迎有隐私合规安全、数据安全、客户端/移动安全&amp;amp;QA经验的的同仁！ 
-    </details> 
-
-- 🪄 [加密货币平台Mango Markets遭攻击损失超1亿美元，黑客宣布返还6700万](https://www.freebuf.com/articles/blockchain-articles/347025.html) | Mon Oct 17 2022 7:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    一位自称对此次攻击负责的黑客，称要归还部分被盗资金，约6700万美元，余下的金额则当作名义上的漏洞赏金。 
-    </details> 
-
-- 💻 [因盗取信息，下载“果照”，一学生被判 13 个月监禁](https://www.freebuf.com/news/346999.html) | Mon Oct 17 2022 5:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    美国地区法院法官 Silvia Carreño Coll 以网络跟踪罪判处 Iván Santell-Velázquez 13 个月监禁。 
     </details> 
 <!-- freebuf:END -->
 
