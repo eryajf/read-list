@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [塔克拉玛干沙漠罕见出现众多湖泊](https://hot.cnbeta.com/articles/funny/1328429.htm) | Tue Oct 18 2022 11:07 AM 
+- 🕯 [欧盟通过加密货币能源标签计划以降低加密行业能源消耗](https://www.cnbeta.com/articles/tech/1328465.htm) | Tue Oct 18 2022 12:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;提到沙漠，恐怕不少人会联想到贫瘠、荒凉这次词语。不过，&lt;strong&gt;央视报道称，在我国最大的塔克拉玛干沙漠，出现了众多湖泊的壮观景象，可谓难得一见。&lt;/strong&gt;&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/3266943013/MaSeRyP8S&quot; target=&quot;_blank&quot;&gt;央视&lt;/a&gt;介绍，今年是新疆塔里木河近十年水量最大的一年，河水漫溢到附近的塔克拉玛干沙漠中。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1328429.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;欧盟将为比特币等加密货币开发一个能效标签，以控制该行业日益增长的耗电量。根据将于周二宣布的一份提案草案，欧盟委员会将与国际合作伙伴合作，提出一种分级措施，鼓励更环保的加密系统，如“权益证明&lpar;PoS&rpar;”。欧盟还将呼吁各国针对矿商的能源消耗制定今年冬季的目标。欧盟正试图减少使用俄罗斯的天然气度过这个冬季。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NASA的行星猎手TESS脱离安全模式 恢复正常运行](https://www.cnbeta.com/articles/science/1328427.htm) | Tue Oct 18 2022 10:28 AM 
+- 💼 [Meta收购Giphy交易最终被英国监管机构否决 后者将另寻买家](https://www.cnbeta.com/articles/tech/1328463.htm) | Tue Oct 18 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月13日星期四，在美国东部时间下午6:30左右，美国宇航局的凌日系外行星调查（TESS）开始恢复正常运行。工程师们成功地给仪器通电，航天器恢复了常规的精确定位模式。TESS恢复了科学观测，储存在航天器上的所有科学数据将在下一次机会下载到地面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328427.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，Facebook母公司Meta收购Giphy交易今日被正式否决，Meta同意放弃交易，而Giphy将另寻买家。早在2020年5月，Meta就宣布以3.15亿美元收购GIF图片搜索引擎Giphy。虽然Meta已经完成了这笔交易，但去年11月底，英国反垄断监管机构“竞争与市场管理局”（CMA）又否决了这交易，要求Meta卖掉Giphy。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [澳大利亚Apple Store员工发起罢工一小时行动](https://www.cnbeta.com/articles/tech/1328425.htm) | Tue Oct 18 2022 10:24 AM 
+- 💂 [80岁哈里森·福特加盟MCU 扮演罗斯将军](https://hot.cnbeta.com/articles/movie/1328461.htm) | Tue Oct 18 2022 12:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;澳大利亚布里斯班、彻姆赛德和查尔斯顿的Apple Store员工宣布停止工作一小时，以抗议工资和工作条件。&lt;/strong&gt;正如之前所宣布的，同时也是零售和快餐业工会（RAFFWU）成员的Apple Store员工于2022年10月18日星期二举行了罢工。据《悉尼晨锋报》报道，这是一次历史性的抗议活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日外媒“好莱坞报道者”确认，今年80岁的哈里森·福特加盟MCU，接替今年3月去世的威廉·赫特扮演“罗斯将军”，会在2024年5月上映的《美国队长4》和2024年7月上映的《雷霆特工队》中出现。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [扎克伯格转型元宇宙是自废武功？大空头：就像可口可乐放弃原配方](https://www.cnbeta.com/articles/tech/1328423.htm) | Tue Oct 18 2022 10:21 AM 
+- 🚀 [最后一刻的泄密认为苹果第十代iPad将配备横向FaceTime摄像头](https://www.cnbeta.com/articles/tech/1328459.htm) | Tue Oct 18 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间10月18日消息，电影《大空头》原型、著名投资者迈克尔·贝里&lpar;Michael Burry&rpar;日前表示，脸书母公司Meta艰难地向元宇宙转型，就好像可口可乐当年放弃原配方一样。贝里因为在2008年美国次贷危机爆发前成功做空美国房贷市场而出名。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在苹果在线商店都已经进入维护的最后一刻，有消息称，即将推出的第十代入门级iPad将配备一个横向的FaceTime摄像头刘海。Majin Bu在Twitter上分享了一张据称是即将推出的iPad的屏幕保护膜的样品图片，该图片显示FaceTime摄像头的正面有一个刘海。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [罗永浩或将开启淘宝直播：最快双11首播](https://www.cnbeta.com/articles/tech/1328421.htm) | Tue Oct 18 2022 10:20 AM 
+- 🎊 [联想ThinkVision 27英寸显示器上市：100W满血Type-C 售价1999元](https://www.cnbeta.com/articles/tech/1328457.htm) | Tue Oct 18 2022 12:19 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;经过两三年的直播带货，罗永浩基本还完了欠下的数亿债务，被网友戏称为真还传，前不久宣布退出直播，重新创业，不过最新消息称罗永浩将开启淘宝直播，最快双11首播。&lt;strong&gt;Tech星球爆料称，罗永浩将开启淘宝直播，并于“双11&amp;quot;首播。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;10月18日，联想ThinkVision P27h-30显示器开售，27英寸四窄边全面屏、100W满血Type-C接口，售价1999元。&lt;/strong&gt;其Type-C接口可以提供100W反向供电功率，满足多种移动设备的供电需求；同时可以传输音视频信号，取代笔记本适配器，让连接更简单，桌面更干净。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
