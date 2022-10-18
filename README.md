@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [替代mini拥有Pro尺寸的14 Plus机型处境如何？iPhone 14 Plus充电评测](https://www.cnbeta.com/articles/tech/1328301.htm) | Tue Oct 18 2022 6:02 AM 
+- 🕯 [被植入皮肤和颅骨之间的小型无线设备有助于杀死癌细胞](https://www.cnbeta.com/articles/science/1328361.htm) | Tue Oct 18 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年9月15日，iPhone 14系列正式发售，充电头网也是第一时间预定所有新iPhone 进行充电测试，此前已经对标准版、Pro系列皆进行过详细充电测试，而今年不再拥有 mini 款，转而替代的为 Plus 款，也相信用户都已经去官网详细查看过资料；下面，马上开始对iPhone 14 Plus 进行充电测试，虽拥有Pro Max款类似机身尺寸，但在充电方面会不会有什么明显的优化提升呢？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328301.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;脑癌是最隐蔽的疾病形式之一，但斯坦福大学的研究人员现在已经开发出一种无线设备，可以帮助改善生存时间。&lt;strong&gt;当植入皮肤和颅骨之间时，这种远程激活的设备会加热金纳米粒子，从内部杀死癌细胞。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [能效出众：锁80W功耗的i9-13900K 跑分与i9-12900K相当](https://www.cnbeta.com/articles/tech/1328299.htm) | Tue Oct 18 2022 6:00 AM 
+- 💼 [《新蝙蝠侠》谜语人演员称 剧本被DC安装跟踪装置防泄露](https://hot.cnbeta.com/articles/movie/1328359.htm) | Tue Oct 18 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上市几天前，有关英特尔 13 代 Raptor Lake 酷睿 i9-13900K 处理器的新基准测试也陆续曝光。&lt;strong&gt;参考 @ECSM_Official 发布的 B 站动态，可知其在各种配置文件下、测试了新一代平台的 Cinebench R23 得分。&lt;/strong&gt;其中最让我们感到欣喜的，莫过于 i9-13900K 具有优秀的能效比 —— 只需 80W，即可达成与 12 代 Alder Lake 酷睿 i9-12900K 相当的性能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328299.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;电影制片厂不遗余力地阻止电影中的故事情节泄露，而众所周知，超级英雄电影更进一步保密。影片中饰演谜语人的演员保罗·达诺（Paul Dano）近日公开讨论了他拍摄《新蝙蝠侠》以及持有“特殊文件夹”的时光，该“文件夹”甚至被安装了“跟踪装置”来防止泄露。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [官方解读：2025年底 邮政快递网点禁止使用不可降解塑料包装袋](https://www.cnbeta.com/articles/tech/1328297.htm) | Tue Oct 18 2022 5:59 AM 
+- 💂 [漫威最火角色回归 钢铁侠将于《复联6》中再次出现](https://hot.cnbeta.com/articles/movie/1328357.htm) | Tue Oct 18 2022 7:26 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;“到2025年底，全国范围邮政快递网点禁止使用不可降解的塑料包装袋、塑料胶带、一次性塑料编织袋等。”&lt;/strong&gt;近期，快递包装绿色治理又有新动态。国家邮政局透露，加快推进快递包装减量化、标准化和循环化，大力实施“9917”工程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328297.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2019年上映的《复仇者联盟4：终局之战》无疑是漫威和超级英雄粉丝心中的剧痛，&lt;strong&gt;该片中最受观众喜爱的钢铁侠为了打败灭霸，一个响指也夺走了自己的生命。&lt;/strong&gt;影片最后，复联成员们还为钢铁侠举办了一个葬礼，一众英雄出席让人泪奔。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [锐龙9 7950X关掉8个核心：游戏性能神奇提升近20％](https://www.cnbeta.com/articles/tech/1328295.htm) | Tue Oct 18 2022 5:51 AM 
+- 🚀 [本田全新喷气式飞机HondaJet Elite II发布 续航2865公里](https://www.cnbeta.com/articles/tech/1328355.htm) | Tue Oct 18 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;锐龙7000系列依然维持CCD+IOD的小芯片组合设计，旗舰型号锐龙9 7950X拥有两个CCD，共计16个核心。如果你是游戏玩家，其实不太建议上锐龙9 7950X，因为多核心的它还是更适合内容创作，或者玩游戏的时候变通一下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328295.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月17日，Honda的飞机事业子公司——Honda Aircraft Company（以下简称：HACI）在2022年美国公务航空大会暨展览会上，&lt;strong&gt;发布超轻型公务机HondaJet的升级版机型——HondaJet Elite II。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [为什么挠自己不会痒？最新科学解释来了](https://www.cnbeta.com/articles/science/1328293.htm) | Tue Oct 18 2022 5:50 AM 
+- 🎊 [为证核污水安全性 日本用福岛核处理水养鱼以观察其生长情况](https://www.cnbeta.com/articles/tech/1328353.htm) | Tue Oct 18 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不知你发现没，自己咯吱自己不怎么痒——但别人轻挠你的胳肢窝，却很容易让你痒起来，甚至不能自已。这是个什么原理？？？不光你好奇，有一帮德国科学家也对此也颇感兴趣。他们针对人类瘙痒反应及自我瘙痒相关机制经过一番研究和实验，于近期公布了研究结论：&lt;strong&gt;人类在自己挠自己时，大脑会抑制瘙痒反应。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328293.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日本福岛地震11年之后，核电站的污水处理依然是个难题，此前日本做出了将核污水排入大海的决定，但遭到了当地渔民及周边国家的反对，为了消除大家对核污水的安全性担心，日本已经开始试验用核处理水养鱼。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
