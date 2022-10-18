@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java 19 发布，Loom 怎么解决 Java 的并发模型缺陷？丨未来源码](https://juejin.cn/post/7155767541497872414) | Tue Oct 18 2022 8:33 AM 
+- 🤗 [Android性能优化系列篇（五）：弱网优化](https://juejin.cn/post/7155788141075365919) | Tue Oct 18 2022 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-    面对复杂的特性生产环境，Loom试图通过引入虚拟线程和结构化来降低开发的难度，具体是如何实现的？一起进入本期【未来源码】一探究竟吧~ 
+    汇总了一下众多大佬的性能优化文章，知识点，主要包含： UI优化/启动优化/崩溃优化/卡顿优化/安全性优化/弱网优化/APP深度优化等等等~ 本篇是第五篇：弱网优化 
     </details> 
 
-- 🎡 [vue2日历组件，来找茬](https://juejin.cn/post/7155766323660718087) | Tue Oct 18 2022 8:28 AM 
+- 🎡 [好好的系统，为什么要分库分表？](https://juejin.cn/post/7155784807702593572) | Tue Oct 18 2022 9:40 AM 
     <details><summary>展开描述 ...</summary> 
-    遇到一个需求，不用任何第三方库，只基于vue2实现一个日历组件，末尾附上我的代码，单文件。不要找文件长度的茬。下面是需求。欢迎找茬。开发时间两天半 
+    大家好，我是小富～ 说在前边 今天是《分库分表 ShardingSphere 原理与实战》系列的开篇文章，之前写过几篇关于分库分表的文章反响都还不错，到现在公众号:程序员小富后台不断的有人留言、咨询分 
     </details> 
 
-- 🕯 [Zookeeper 系统模型](https://juejin.cn/post/7155765762391539719) | Tue Oct 18 2022 8:26 AM 
+- 🕯 [HTTP请求流程：为什么网站第二次打开速度会很快？](https://juejin.cn/post/7155782130604179470) | Tue Oct 18 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-    数据模型 ZooKeeper 有一个分层命名空间，很像分布式文件系统。唯一的区别是命名空间中的每个节点都可以有与其关联的数据以及子节点。ZooKeeper 树中的每个节点都称为 znode。znode 
+    HTTP请求流程：为什么网站第二次打开速度会很快？ 不知道你是否有过疑问：为什么通常在第一次访问一个站点 
     </details> 
 
-- 🚀 [【JAVA】接口和抽象类有什么区别？](https://juejin.cn/post/7155763657077424141) | Tue Oct 18 2022 8:18 AM 
+- 🚀 [Luminar Neo 教程，如何在 Luminar Neo 中编辑图像？](https://juejin.cn/post/7155776337163059237) | Tue Oct 18 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    Java 是非常典型的面向对象语言，曾经有一段时间，程序员整天把面向对象、设计模式挂在嘴边。虽然如今大家对这方面已经不再那么狂热，但是不可否认，掌握面向对象设计原则和技巧，是保证高质量代码的基础之一。 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中编辑图像。 
     </details> 
 
-- 💪 [【Nacos源码之配置管理 三】TaskManager 任务管理的使用](https://juejin.cn/post/7155755054492827656) | Tue Oct 18 2022 7:44 AM 
+- 💪 [Docker系列学习&lpar;20&rpar; -- docker-compose.ymal文件解析](https://juejin.cn/post/7155774595126018055) | Tue Oct 18 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-    任务管理类 因为Nacos中有很多地方使用了这个TaskManager,所以我们得先了解一下这个类是干啥用的,方便后面阅读源码时候不会吃力; 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第20天，点击查看活动详情 生命不息，学习不止 题外话 今天又是阳光明媚的一天，今天是周二，中午去吃面，我点了个卤蛋，服务员忘了给 
     </details> 
 <!-- juejin:END -->
 ### 少数派
