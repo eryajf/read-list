@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [android13 手机的应用怎么设置强制竖屏?](https://www.v2ex.com/t/887797#reply0) | Tue Oct 18 2022 7:38 AM
-- 🤗 [EF Core 统计当前月创建的数据数量（DateTimeOffset 类型）效率最高的方法是什么？](https://www.v2ex.com/t/887795#reply1) | Tue Oct 18 2022 7:36 AM
-- 🎭 [想问一下各位大佬，做一个这样的系统，需要学习什么东西呢？](https://www.v2ex.com/t/887777#reply5) | Tue Oct 18 2022 6:43 AM
-- 🥷 [8GB 内存，任务管理器里算只用了 4GB 出头，动不动就 OOM（程序被 kill，浏览器页面 crash），怎么找剩下的内存被什么用了？上次看到有用 CPU 性能换降低 JB IDE 内存用量的方法，找不到了，有没有 V 友能再发一遍？](https://www.v2ex.com/t/887775#reply5) | Tue Oct 18 2022 6:35 AM
-- 🐵 [不懂就问 关于 Java 动态配置定时任务的问题](https://www.v2ex.com/t/887771#reply10) | Tue Oct 18 2022 6:24 AM<!-- v2ex:END -->
+- 🥸 [go 有关 nil 的一个疑问？](https://www.v2ex.com/t/887817#reply3) | Tue Oct 18 2022 8:20 AM
+- 🤗 [2023 年码农进入哪个行业算是正确答案？](https://www.v2ex.com/t/887814#reply0) | Tue Oct 18 2022 8:17 AM
+- 🎭 [vue3 的 ref、reactive 中使用拓展运算符&lpar;...&rpar;会丧失响应式吗](https://www.v2ex.com/t/887811#reply1) | Tue Oct 18 2022 8:09 AM
+- 🥷 [如何检测 iOS app 是否从非 App Store 下载,比如脱壳,重新签名,Trollstore 等途径安装](https://www.v2ex.com/t/887803#reply1) | Tue Oct 18 2022 7:55 AM
+- 🐵 [请问大佬们 设计文档 CSCI 级设计决策中的“算法设计决策”](https://www.v2ex.com/t/887801#reply0) | Tue Oct 18 2022 7:52 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
