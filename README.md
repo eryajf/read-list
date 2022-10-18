@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [PMO与项目经理（PM）有什么区别？这又和PMP证书有何联系？](https://juejin.cn/post/7155667557088198686) | Tue Oct 18 2022 2:05 AM 
+- 🤗 [【手写系列】自己手写实现apply、call、bind](https://juejin.cn/post/7155713320254144519) | Tue Oct 18 2022 5:04 AM 
     <details><summary>展开描述 ...</summary> 
-    对于这类型的区别问题，一般都有一个相同的思路，分享给大家：首先分别认识它们名词解释，然后再是使用范围，最后是各自的发展穿插关系。 先分别说说PM和PMO分别是什么？ 然后再对比他们的区别和现状。 最后 
+    apply&lpar;&rpar;方法指定this值和参数（参数以数组或者类数组对象的形式存在）的情况下调用某个函数，意思是它可以改变一个函数的执行环境，call和apply作用一样，不同的是两者的参数传入不一样， 
     </details> 
 
-- 🎡 [Ceph集群CephFS文件存储核心概念及部署使用](https://juejin.cn/post/7155656346048659493) | Tue Oct 18 2022 1:21 AM 
+- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中管理单个图像编辑中的图像？](https://juejin.cn/post/7155689409659011102) | Tue Oct 18 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第12天，点击查看活动详情 Ceph集群CephFS文件存储核心概念及部署使用 1.CephFS文件存储核心概念 1.1.Ceph 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中管理单个图像编辑集合中的图像。 
     </details> 
 
-- 🕯 [手写编程语言-如何为 GScript 编写标准库](https://juejin.cn/post/7155516602513883167) | Mon Oct 17 2022 4:20 PM 
+- 🕯 [摹客RP交互设计的产品测评](https://juejin.cn/post/7155686544626417677) | Tue Oct 18 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-    版本更新最近 GScript 更新了 v0.0.11 版本，重点更新了：Docker 运行环境新增了... 
+    原型设计工具是很多交互设计师以及产品经理都会使用到的，国产原型工具越来越多，给了用户许多选择，而真正满足用户需求的原型设计软件，才是为大家所选择的。 一、产品评测简介 原型设计软件是设计师、产品经理使 
     </details> 
 
-- 🚀 [可靠数据传输——GBN协议和SR协议](https://juejin.cn/post/7155466389271248932) | Mon Oct 17 2022 1:04 PM 
+- 🚀 [再添神器！Paddle.js 发布 OCR SDK](https://juejin.cn/post/7155685608977858567) | Tue Oct 18 2022 3:15 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第9天 流水线可靠数据传输协议 rdt3.0，在功能上已经是一个完备的协议，但它的性能并不高，原因就在于它是一个停等协议，发送一个 
+    关键词：OCR、Paddle.js、PaddleOCR 01 前言 OCR（Optical Character Recognition，光学字符识别）是文字识别的统称，不仅支持文档或书本文字识别，还包 
     </details> 
 
-- 💪 [JavaScript数组切片方法](https://juejin.cn/post/7155447549023748104) | Mon Oct 17 2022 11:52 AM 
+- 💪 [&lpar;10月最新&rpar; 前端图形学实战: 从零开发几何画板&lpar;vue3 + vite版&rpar;、使用fabric.js 快速开发一个图片编辑器 |  酱酱的下午茶第 90 期](https://juejin.cn/post/7155685723008401415) | Tue Oct 18 2022 3:15 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第20天，点击查看活动详情 数组上的slice方法返回数组一部分的浅拷贝。它需要两个数字， astart和 an end。每个数组 
+    本期下午茶看点：&lpar;10月最新&rpar; 前端图形学实战: 从零开发几何画板&lpar;vue3 + vite版&rpar;、使用fabric.js 快速开发一个图片编辑器、隐秘的 MySQL 类型转换... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
