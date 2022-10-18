@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [less如何编译成css](https://juejin.cn/post/7155768824086822949) | Tue Oct 18 2022 8:37 AM 
+- 🤗 [手把手，教你实现一个优雅的图片预览](https://juejin.cn/post/7155789252075356190) | Tue Oct 18 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-    less官网文档 less可运行在node或者浏览器端 新建一个文件index.less 1、color: saturate&lpar;@base, 5%&rpar;; color: #fe33ac; saturate: 
+    图片预览，实现了图片预览，关闭，以及滚动的时候的时候流程的动画效果，提升了用户体验，（附完整代码）！ 
     </details> 
 
-- 🎡 [『牛客_每日一题』岛屿数量](https://juejin.cn/post/7155754438689292301) | Tue Oct 18 2022 7:42 AM 
+- 🎡 [🔥 手撕babel插件-消灭console！](https://juejin.cn/post/7155765227986878494) | Tue Oct 18 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-    1.每日一题 2.解题思路：DFS 深度优先搜索一般用于树或者图的遍历，其他有分支的（如二维矩阵）也适用。它的原理是从初始点开始，一直沿着同一个分支遍历，直到该分支结束，然后回溯到上一级继续沿着一个分 
+    起因 已经颓废了很久 因为实在不知道写啥了 突然我某个同事对我说 宝哥 你看这个页面好多console.log 不仅会影响性能 而且可能会被不法分子所利用 我觉得很有道理 所以我萌生了写一个小插件来去 
     </details> 
 
-- 🕯 [Java&amp;C++题解与拓展——leetcode902.最大为N的数字组合【数位DP】](https://juejin.cn/post/7155752125761486861) | Tue Oct 18 2022 7:33 AM 
+- 🕯 [Kotlin的Collection与Sequence操作？他们之间有什么异同点？](https://juejin.cn/post/7155765126627344392) | Tue Oct 18 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode902.最大为N的数字组合解题思路，用Java和C++两种语言分别编写，并对所使用类和方法进行学习记录。 
+    在Android开发中，集合是我们必备的容器，Kotlin的标准库中提供了很多处理集合的方法，而且还提供了两种基于容器的工作方式：Collection 和 Sequence。 
     </details> 
 
-- 🚀 [Observability：集群监控 （二） - Elastic Stack 8.x](https://juejin.cn/post/7155748642286993421) | Tue Oct 18 2022 7:19 AM 
+- 🚀 [「CSS畅想」创意升级，办公位简笔画2.0来咯](https://juejin.cn/post/7155756696680267807) | Tue Oct 18 2022 7:50 AM 
     <details><summary>展开描述 ...</summary> 
-    这是之前的文章 “Observability：集群监控 （一） - Elastic Stack 8.x” 的续篇。在上一篇文章中，我详细地介绍了如何使用传统的收集器来监控 Elastic Stack。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第15天，点击查看活动详情。我将之前的办公位简笔画升级了，同时总结了一些CSS创意经验。 
     </details> 
 
-- 💪 [浅谈算法：分治算法竟然蕴藏着大自然的奥秘](https://juejin.cn/post/7155744700379430943) | Tue Oct 18 2022 7:04 AM 
+- 💪 [微前端性能优化的那些事](https://juejin.cn/post/7155754068764262414) | Tue Oct 18 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    算法在现代IT行业中有重要地位，是有了巧妙设计的算法，计算机才能以最小的资源和最大的效率来运行各种各样的软件程序。分治算法为什么快速而高效？或许我们可以从大自然中找到答案。 
+    微前端性能优化的那些事 本文基于qiankun框架给大家分享下微前端性能的那些事，在解构巨石应用的基础上，页面体验获得巨大提升。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
