@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [蔚来“只租不卖”欧洲订阅模式或有变动，秦力洪称考虑开卖](https://www.cnbeta.com/articles/tech/1328763.htm) | Wed Oct 19 2022 6:02 AM 
+- 🕯 [加州理工学院的太空太阳能项目为其第一个轨道原型做准备](https://www.cnbeta.com/articles/science/1328785.htm) | Wed Oct 19 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;10月18日，针对网友所提蔚来汽车应在欧洲放弃“只租不卖”、提供“买断”选择的建议，蔚来汽车总裁秦力洪在用户App中回应称“考虑开卖”。&lt;/strong&gt;日前，蔚来汽车宣布以“订阅模式”进入德国、荷兰、丹麦、瑞典四国市场，提供ET7、EL7（ES7）、 ET5三款车型，车辆订阅期限从1个月至60个月不等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;加州理工学院雄心勃勃的太空太阳能项目，在一笔上亿美元的巨额捐款的支持下，正准备将其第一批原型发射到轨道上。&lt;/strong&gt;这些先进的超轻结构将收集、转换和无线发送能量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [诺基亚将在加拿大投资3.4亿加元打造研发中心 聚焦5G技术](https://www.cnbeta.com/articles/tech/1328761.htm) | Wed Oct 19 2022 6:00 AM 
+- 💼 [博主用AI预测《英雄联盟》S12冠军是RNG或JDG：曾押中高考作文](https://www.cnbeta.com/articles/tech/1328783.htm) | Wed Oct 19 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;加拿大政府与知名跨国通讯企业诺基亚公司10月17日共同宣布，诺基亚将在加首都渥太华地区投资3.4亿加元打造可持续的研发中心，以助加拿大向5G无线技术过渡。诺基亚将对位于渥太华地区卡纳塔的一个园区进行改造，以推动其在加拿大的无线技术研发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月21日起，《英雄联盟》S12将进行1/4半决赛，八支队伍将决出四强参与半决赛，最终会在11月6日举行最后的决赛。&lt;strong&gt;其中，1/4半决赛的抽签结果已经出炉，分别是：JDG vs RGE、T1 vs RNG、GEN vs DK、DRX vs EDG。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [好莱坞两大硬汉罕见同框 史泰龙阿诺共同做万圣节南瓜](https://hot.cnbeta.com/articles/movie/1328759.htm) | Wed Oct 19 2022 5:59 AM 
+- 💂 [Rose Young：配OLED面板的iPad Pro将于2024年上半年推出](https://www.cnbeta.com/articles/tech/1328781.htm) | Wed Oct 19 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;又快到了西方一年一度的万圣节，日前好莱坞两大硬汉史泰龙与阿诺德罕见同框，共同在制作万圣节南瓜头，看上去两位巨佬喜笑颜开，气色不错。史泰龙晒出两人合照表示，我与我的了不起的朋友阿诺德，一起在他的办公室制作万圣节南瓜头，这可真是硬汉老头们的难得自由时间呢！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据屏幕分析师 Ross Young 分享的最新消息，苹果有望在 2024 年推出装备 OLED 面板的 11/12.9 英寸 iPad Pro 型号。&lt;strong&gt;在推文中，Young 表示配 OLED 面板的 iPad Pro 将于 2024 年上半年推出。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [科学家提出或能像探测流星一样寻找暗物质的新方法](https://www.cnbeta.com/articles/science/1328757.htm) | Wed Oct 19 2022 5:58 AM 
+- 🚀 [微软和奥利奥联动 让你空出15分钟享用饼干](https://www.cnbeta.com/articles/tech/1328777.htm) | Wed Oct 19 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管暗物质占宇宙总质量的85%，但它仍难以被直接探测到。&lt;strong&gt;一项新研究提出了一种独特的方法来寻找暗物质，通过将地球的大气层作为一个巨大的探测器来探测像流星一样在空中流动的暗物质粒子。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软和不少品牌都有着紧密的合作，但近期和奥利奥（Oreo）的合作多少令人感到意外。不过双方的合作并不是微软为奥利奥提供各种产品支持，&lt;strong&gt;而是推出了配有“大眼夹”（Clippy）的奥利奥联名款饼干，供你在办公休息期间享用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [AMD预告新开发的GI-1.0开源全局照明技术 开放源码将很快释出](https://www.cnbeta.com/articles/tech/1328755.htm) | Wed Oct 19 2022 5:57 AM 
+- 🎊 [携手SK电讯：SK海力士展示首个基于CXL的计算内存解决方案](https://www.cnbeta.com/articles/tech/1328775.htm) | Wed Oct 19 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD 刚刚通过旗下 GPUOpen 项目，发表了一篇题为《GI-1.0》的新技术论文。&lt;strong&gt;作为一项用于实时全局照明的解决方案，它具有快速、可扩展的两级辐射缓存机制。不仅能够提供与其它 GI 实现相媲美的质量，同时据说速度也快得多。&lt;/strong&gt;此外 AMD 表示 GI-1.0 也将拥抱开源，但目前尚未正式向外界公布相关代码。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在 8 月展示早期 CXL 内存样品之后，SK 海力士又在 OCP 全球峰会上推出了首个基于 CXL 的计算内存解决方案（简称 CMS）。&lt;/strong&gt;作为业内领先的企业，SK 海力士与 SK 电讯达成了密切合作，以优化下一代高性能计算基础设施。而在 10 月 18 日于美国圣何塞举办的 2022 开放计算项目（OCP）全球峰会上，展示了 CMS 及其软件平台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
