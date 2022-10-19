@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [International Intrigue - 你厚颜无耻的全球事务备忘单](https://xinquji.com/posts/180651?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:55 AM 
+- 👀 [Cofertility - 捐出一半即可免费冷冻卵子](https://xinquji.com/posts/180683?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-     你厚颜无耻的全球事务备忘单  
+     捐出一半即可免费冷冻卵子  
     </details> 
 
-- 🥷 [AI Review Reply Assistant - 对每个客户评论的响应速度提高 3 倍](https://xinquji.com/posts/180650?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:53 AM 
+- 🥷 [Hyperproof - 扩展您的安全性和合规性 - SOC 2、ISO、NIST 等](https://xinquji.com/posts/180682?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     对每个客户评论的响应速度提高 3 倍  
+     扩展您的安全性和合规性 - SOC 2、ISO、NIST 等  
     </details> 
 
-- 💼 [Touch - 更快地增加员工的钱](https://xinquji.com/posts/180649?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:51 AM 
+- 💼 [Assembly Workflow Templates - 适用于任何角色、团队和用例的 100 多个灵活模板](https://xinquji.com/posts/180681?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     更快地增加员工的钱  
+     适用于任何角色、团队和用例的 100 多个灵活模板  
     </details> 
 
-- 🦅 [git18n.com - 通过 Github 集成翻译和开发工作流程](https://xinquji.com/posts/180648?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:51 AM 
+- 🦅 [MRKTPLACE - 思想家发表和交流有意义的想法的地方](https://xinquji.com/posts/180680?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     通过 Github 集成翻译和开发工作流程  
+     思想家发表和交流有意义的想法的地方  
     </details> 
 
-- 😺 [Virtual Nametags by Warmly, - 拥有您脸部周围的空间 - 免费缩放应用程序](https://xinquji.com/posts/180647?utm_campaign=xinquji-rss) | Wed Oct 19 2022 6:49 AM 
+- 😺 [Aqueduct - 将数据科学应用于生产](https://xinquji.com/posts/180679?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     拥有您脸部周围的空间 - 免费缩放应用程序  
+     将数据科学应用于生产  
     </details> 
 <!-- xinquji:END -->
