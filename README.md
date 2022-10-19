@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [“退网创业”的罗永浩，要回来直播了？“罗永浩”账号登陆淘宝直播平台](https://www.cnbeta.com/articles/tech/1328801.htm) | Wed Oct 19 2022 8:19 AM 
+- 🕯 [宜家和Kodiak合作在美国德州展开自动驾驶送货试点服务](https://www.cnbeta.com/articles/tech/1328825.htm) | Wed Oct 19 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月18日，“罗永浩”和“交个朋友严选店”两个账号登陆了淘宝直播平台，这是否预示着罗永浩将会在近期开启淘宝直播？据查，“罗永浩”以及“交个朋友”均已在淘宝直播上开通了账号，其中，“交个朋友严选店”主播粉丝达到了1.2万。此外，淘宝上还开通了“交个朋友严选店”店铺。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;自动驾驶卡车初创公司 Kodiak Robotics 今天宣布，公司已和宜家（IKEA）合作在美国德克萨斯州展开自动驾驶货车送货试点服务。&lt;/strong&gt;一辆配备 Kodiak Robotics 自动驾驶系统的半挂卡车每天从休斯顿附近的宜家仓库出发，送货到大约 300 英里外的达拉斯附近的一家商店。该半挂自动驾驶卡车在行使全程配有人类驾驶员，以便于在某些时候接管避免交通事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [女子眼中取出23枚隐形眼镜 自称每天忘记是否摘掉](https://www.cnbeta.com/articles/tech/1328799.htm) | Wed Oct 19 2022 8:13 AM 
+- 💼 [新抗癌技术在小鼠测试中表现出根除晚期癌症的能力](https://www.cnbeta.com/articles/science/1328823.htm) | Wed Oct 19 2022 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据媒体报道，美国加州一名医生从一位70多岁女子眼睛中取出23枚隐形眼镜，相关视频近日在国外社交平台上广泛流传。该视频是今年9月眼科医生卡特琳娜·库尔特耶娃在自己的社交平台上分享的，提醒大家注意用眼卫生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;耶鲁大学和罗德岛大学&lpar;URI&rpar;的研究人员展示了一种新的抗癌技术，他们将免疫治疗药物附着在一种寻找癌细胞酸性环境的分子上。&lt;/strong&gt;在对小鼠的测试中，单剂量足以根除甚至是晚期肿瘤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iOS端YouTube Music更新获Widget：可快速访问最近播放媒体](https://hot.cnbeta.com/articles/music/1328797.htm) | Wed Oct 19 2022 8:12 AM 
+- 💂 [科学家开发光激活的“智能塑料” 可用于柔性电子产品和机器人](https://www.cnbeta.com/articles/science/1328821.htm) | Wed Oct 19 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google 于上周宣布旗下多款应用将适配 iOS 16 推出锁屏 Widget，现在 YouTube Music 跟进获得“Recently Played”（近期播放）Widget，能够快速访问用户最近播放的视频、专辑或者专辑列表。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1328797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，塑料可以是硬的，也可以是软的，但塑料可以同时具有这两种特性吗？&lt;strong&gt;得克萨斯大学奥斯汀分校的科学家们一直在探索这个问题，并生产出一种首创的材料，这种材料在某些部分是柔韧的，而在其他部分是坚硬的，&lt;/strong&gt;他们认为有一天这种材料会被用于柔性电子产品和机器人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [RNG《Dota2》战队全员检测阳性 Entity队长祝早日康复](https://hot.cnbeta.com/articles/game/1328795.htm) | Wed Oct 19 2022 8:02 AM 
+- 🚀 [苹果在美国以外地区上调iPad Mini售价 欧洲涨幅最大](https://www.cnbeta.com/articles/tech/1328819.htm) | Wed Oct 19 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据 RNG 电竞俱乐部《Dota2》分部 10 月 17日发布的微博称，该战队选手全员以及总经理和领队均在核酸检测后确认阳性。目前《Dota2》国际邀请赛即将正式开赛，17 日时 RNG 战队正在参加小组预选赛。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据MacRumors报道，&lt;strong&gt;苹果在周二更新了其在线商店的新入门级iPad和iPad Pro型号后，大幅提高了非美国市场现有iPad mini型号的价格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [周星驰在INS开通首个社交账号 在线招纳Web3人才](https://www.cnbeta.com/articles/tech/1328793.htm) | Wed Oct 19 2022 8:02 AM 
+- 🎊 [13代酷睿真能超：i9-13900KF水冷轻轻松松6.2GHz](https://www.cnbeta.com/articles/tech/1328817.htm) | Wed Oct 19 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日周星驰在Instagram上开通了首个社交账号，公开寻找才华出众的Web3人才，并表示将亲自挑选人才。截至发文，周星驰的INS账号已经有10.6万粉丝，目前其动态仅有一个招人帖子，很多粉丝留言支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Intel 13代酷睿、AMD锐龙7000不但预设频率空前之高，还特别能超，尤其是13代酷睿，风冷可以轻易6GHz，液氮更是已达8.2GHz。OCN超频团队成员Codiee1337从一家零售商那里提前搞到了一颗i9-13900KF，8+16 24核心，睿频最高5.8GHz，无核显。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
