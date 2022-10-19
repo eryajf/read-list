@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新能源这桌菜，锂矿主吃肉 “宁王”“比茅”只配喝汤？](https://www.cnbeta.com/articles/tech/1328727.htm) | Wed Oct 19 2022 4:20 AM 
+- 🕯 [蔚来“只租不卖”欧洲订阅模式或有变动，秦力洪称考虑开卖](https://www.cnbeta.com/articles/tech/1328763.htm) | Wed Oct 19 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;喊了好几年的“白色石油”以及过去两年“过山车”般的二级市场行情后，锂矿巨头的财务报表终于在今年三季度的时候彻底“起飞”了。在10月16日公布的前三季度财务预测中，天齐锂业和赣锋锂业两大锂业巨头都公布了百亿级的利润预测。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;10月18日，针对网友所提蔚来汽车应在欧洲放弃“只租不卖”、提供“买断”选择的建议，蔚来汽车总裁秦力洪在用户App中回应称“考虑开卖”。&lt;/strong&gt;日前，蔚来汽车宣布以“订阅模式”进入德国、荷兰、丹麦、瑞典四国市场，提供ET7、EL7（ES7）、 ET5三款车型，车辆订阅期限从1个月至60个月不等。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Web3咖啡馆见闻：狂热、暴富、落寞，欲望永不打烊](https://www.cnbeta.com/articles/tech/1328725.htm) | Wed Oct 19 2022 4:10 AM 
+- 💼 [诺基亚将在加拿大投资3.4亿加元打造研发中心 聚焦5G技术](https://www.cnbeta.com/articles/tech/1328761.htm) | Wed Oct 19 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;走出五道口地铁站，穿过酒吧一条街，经过一条林荫小道，不远处是一家咖啡馆。它夹在电动车店和房产中介门店之间，灰色的墙面、黑色的logo、白色的店名，和四周闲适的氛围，划开一条硬朗的分割线。这是一家以Web3为主题的咖啡馆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;加拿大政府与知名跨国通讯企业诺基亚公司10月17日共同宣布，诺基亚将在加首都渥太华地区投资3.4亿加元打造可持续的研发中心，以助加拿大向5G无线技术过渡。诺基亚将对位于渥太华地区卡纳塔的一个园区进行改造，以推动其在加拿大的无线技术研发。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《赛博浪客》制作人表示：目前没有制作第二季的计划](https://hot.cnbeta.com/articles/movie/1328723.htm) | Wed Oct 19 2022 4:06 AM 
+- 💂 [好莱坞两大硬汉罕见同框 史泰龙阿诺共同做万圣节南瓜](https://hot.cnbeta.com/articles/movie/1328759.htm) | Wed Oct 19 2022 5:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《赛博朋克2077》改编动画《赛博浪客》于9月13日在网飞上线后，获得广泛好评，并带动游戏重回热门。那《赛博浪客》第二季将在何时推出呢？《赛博浪客》制作人表示，目前还没有制作第二季的计划。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;又快到了西方一年一度的万圣节，日前好莱坞两大硬汉史泰龙与阿诺德罕见同框，共同在制作万圣节南瓜头，看上去两位巨佬喜笑颜开，气色不错。史泰龙晒出两人合照表示，我与我的了不起的朋友阿诺德，一起在他的办公室制作万圣节南瓜头，这可真是硬汉老头们的难得自由时间呢！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [郭明錤：Apple TV售价将进一步下探 目标100美元以下](https://www.cnbeta.com/articles/tech/1328721.htm) | Wed Oct 19 2022 3:58 AM 
+- 🚀 [科学家提出或能像探测流星一样寻找暗物质的新方法](https://www.cnbeta.com/articles/science/1328757.htm) | Wed Oct 19 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;知名分析师郭明錤在最新推文中表示苹果可能会下调 Apple TV 的售价，以希望提高其市场占有率。&lt;/strong&gt;苹果于本周二宣布了新款 Apple TV 4K，该型号该模型看到了一些可预测的升级，包括增加的存储空间和更强大的 A15 芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管暗物质占宇宙总质量的85%，但它仍难以被直接探测到。&lt;strong&gt;一项新研究提出了一种独特的方法来寻找暗物质，通过将地球的大气层作为一个巨大的探测器来探测像流星一样在空中流动的暗物质粒子。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [不给糖就捣乱 任天堂免费提供2022万圣节特别壁纸](https://www.cnbeta.com/articles/tech/1328719.htm) | Wed Oct 19 2022 3:56 AM 
+- 🎊 [AMD预告新开发的GI-1.0开源全局照明技术 开放源码将很快释出](https://www.cnbeta.com/articles/tech/1328755.htm) | Wed Oct 19 2022 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;任天堂发布了2022年万圣节特别壁纸，供大家下载。&lt;/strong&gt;壁纸可在PC、手机，平板等多种设备上使用。即使2022年即将走到尾声，但任天堂依旧稳定输出，第一方大作《宝可梦 朱/紫》、《猎天使魔女3》等即将发售，《女神异闻录5皇家版》《双人成行》《哆啦A梦牧场物语2》《索尼克 未知边境》等第三方游戏加作也即将登陆Switch。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD 刚刚通过旗下 GPUOpen 项目，发表了一篇题为《GI-1.0》的新技术论文。&lt;strong&gt;作为一项用于实时全局照明的解决方案，它具有快速、可扩展的两级辐射缓存机制。不仅能够提供与其它 GI 实现相媲美的质量，同时据说速度也快得多。&lt;/strong&gt;此外 AMD 表示 GI-1.0 也将拥抱开源，但目前尚未正式向外界公布相关代码。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
