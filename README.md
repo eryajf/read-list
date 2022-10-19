@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [不得不说，这个 canvas 的旋转半圆效果可能会闪瞎你的双眼🐶](https://juejin.cn/post/7156253720030740488) | Wed Oct 19 2022 4:01 PM 
+- 🤗 [JFrog Xray 与 Amazon Security Hub 集成](https://juejin.cn/post/7156258779665793031) | Wed Oct 19 2022 4:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第19天，点击查看活动详情SecOps 需要警惕，但也需要可见性。借助 JFrog 最新的 Xray 与 Amazon Secur 
+    </details> 
+
+- 🎡 [与小程序的 2M 空间斗智斗勇之图片优化](https://juejin.cn/post/7156255848921038879) | Wed Oct 19 2022 4:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第19天，点击查看活动详情现在的网站或者 app 等各类应用，但凡有图片资源，基本上都是通过 CDN 的方式加载，而 CDN 方面 
+    </details> 
+
+- 🕯 [不得不说，这个 canvas 的旋转半圆效果可能会闪瞎你的双眼🐶](https://juejin.cn/post/7156253720030740488) | Wed Oct 19 2022 4:01 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 10 天，点击查看活动详情 前言 大家好，我是爱吃鱼的桶哥Z，在动画效果这方面来看，css 还是比 canvas 要略逊一筹， 
     </details> 
 
-- 🎡 [webassembly：小伙子，你渴望力量吗？](https://juejin.cn/post/7156250334082367496) | Wed Oct 19 2022 3:48 PM 
+- 🚀 [webassembly：小伙子，你渴望力量吗？](https://juejin.cn/post/7156250334082367496) | Wed Oct 19 2022 3:48 PM 
     <details><summary>展开描述 ...</summary> 
     本文为稀土掘金技术社区首发签约文章。webassbmbly具有很优秀的性能，并且可以将其他语言的代码转换为二进制文件，使得浏览器可以使用，有很大的发展前景~ 
     </details> 
 
-- 🕯 [使用brython做个迷宫游戏-2：制作地图](https://juejin.cn/post/7156240264862892063) | Wed Oct 19 2022 3:08 PM 
+- 💪 [公司没钱了，工资发不出来，作为员工怎么办？](https://juejin.cn/post/7156242740034928671) | Wed Oct 19 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
-    使用brython做个迷宫游戏-2：制作地图；本篇文章的核心点为熟悉brython如何操作table。 
-    </details> 
-
-- 🚀 [报名开启 | 第三届CID大会线下参会报名启动！](https://juejin.cn/post/7156239170984214564) | Wed Oct 19 2022 3:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    第三届「中国云计算基础架构开发者大会」将在2022年11月6日在杭州举办，为大家呈现30+精彩技术分享，内容涵盖网络、存储、虚拟化、云编排器、云操作系统、云安全、云固件、其他云原生技术等丰富议题。 
-    </details> 
-
-- 💪 [本地缓存至分布式缓存的演进，缓存和数据库不一致性问题的产生及解决](https://juejin.cn/post/7156237969202872350) | Wed Oct 19 2022 2:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    本地缓存至分布式缓存的演进，缓存和数据库不一致性问题的产生及解决，用图文并茂的方式，可运行的代码案例结合常见的面试题，一点点的推导和分析发生的问题。 
+    公司没钱了，工资发不出来，作为员工怎么办？ 现在大环境不好，很多公司都会遇到一些困难。如果公司真的有现金流还好，如果没有，还等着客户回款。那么就有点难办了。很多公司会采取延期发工资，先发80%、50% 
     </details> 
 <!-- juejin:END -->
 ### 少数派
