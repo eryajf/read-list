@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [发霉啦：今天，我在派对上喝大了](http://jandan.net/p/111505) | Wed Oct 19 2022 8:59 AM 
+- 🚀 [英国 虽然植物替代肉的销量有所增长 但肉类消费量并未下降](http://jandan.net/p/111459) | Wed Oct 19 2022 10:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    植物性食品的平均周销售量显著增加了57% 
+    </details> 
+
+- 🙉 [澳洲海岸上惊现一节神秘肉触手，TikTok视频火爆全网](http://jandan.net/p/111506) | Wed Oct 19 2022 10:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    但那到底是什么动物的哪块解剖结构？ 
+    </details> 
+
+- 🎉 [发霉啦：今天，我在派对上喝大了](http://jandan.net/p/111505) | Wed Oct 19 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
     如约而至 
     </details> 
 
-- 🙉 [11年长期追踪调查发现，恶性子宫癌的发病率和头发矫直剂的使用相关](http://jandan.net/p/111501) | Wed Oct 19 2022 7:31 AM 
+- 🐲 [11年长期追踪调查发现，恶性子宫癌的发病率和头发矫直剂的使用相关](http://jandan.net/p/111501) | Wed Oct 19 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
     美国，罕见且侵袭性的子宫癌的发病率正迅速上升 
     </details> 
 
-- 🎉 [今日好价 1019](http://jandan.net/p/111503) | Wed Oct 19 2022 3:14 AM 
+-  [今日好价 1019](http://jandan.net/p/111503) | Wed Oct 19 2022 3:14 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：42 
-    </details> 
-
-- 🐲 [社交媒体上很火的 核心记忆 是什么东西？](http://jandan.net/p/111499) | Tue Oct 18 2022 10:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    zsbd 
-    </details> 
-
--  [32亿像素 世界上最大的数码相机 甚至可看到月球上的尘埃&lpar;？&rpar;](http://jandan.net/p/111496) | Tue Oct 18 2022 8:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    zsbd 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
