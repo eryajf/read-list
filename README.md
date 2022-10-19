@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [人工智能可以取代艺术家吗？在 AI 生成艺术元年聊聊 AI](https://sspai.com/post/76277) | Wed Oct 19 2022 8:37 AM 
+- 👹 [解放双手，用 Biblioshiny 和 VOSviewer 快速梳理领域文献](https://sspai.com/post/75107) | Wed Oct 19 2022 9:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文我们介绍了两种快速了解科研领域和文献的工具。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/75107&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/278&quot; target=&quot;_blank&quot;&gt;《如何入门学术论文写作》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [人工智能可以取代艺术家吗？在 AI 生成艺术元年聊聊 AI](https://sspai.com/post/76277) | Wed Oct 19 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
     AI 生成艺术，或许会改变很多事情。&lt;a href=&quot;https://sspai.com/post/76277&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [手机影像横评：2022 年，哪台设备能拍出「好看」的照片？](https://sspai.com/post/76259) | Wed Oct 19 2022 6:30 AM 
+- 🤭 [手机影像横评：2022 年，哪台设备能拍出「好看」的照片？](https://sspai.com/post/76259) | Wed Oct 19 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     光影上主体要突出，色彩上熟悉又陌生——本期视频找来了 5 款手机，聊聊把照片拍好看这件事。&lt;a href=&quot;https://sspai.com/post/76259&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：Apple 推出多款新品、微软开始推送资源管理器标签页功能等](https://sspai.com/post/76275) | Wed Oct 19 2022 12:51 AM 
+- 🥸 [派早报：Apple 推出多款新品、微软开始推送资源管理器标签页功能等](https://sspai.com/post/76275) | Wed Oct 19 2022 12:51 AM 
     <details><summary>展开描述 ...</summary> 
     Netflix 推出个人账号资料转移功能，iOS 16.1 将引入复制粘贴权限设置等。&lt;a href=&quot;https://sspai.com/post/76275&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [一图流 | Apple 十月新品回顾](https://sspai.com/post/76273) | Tue Oct 18 2022 5:32 PM 
+- 🙉 [一图流 | Apple 十月新品回顾](https://sspai.com/post/76273) | Tue Oct 18 2022 5:32 PM 
     <details><summary>展开描述 ...</summary> 
     一张图了解 Apple 全新推出的 iPad Pro、iPad 及 Apple TV 4K。&lt;a href=&quot;https://sspai.com/post/76273&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [全面屏 iPad、M2 芯片 iPad Pro…… Apple 新品信息汇总](https://sspai.com/post/76272) | Tue Oct 18 2022 4:40 PM 
-    <details><summary>展开描述 ...</summary> 
-    Apple 线上发布 iPad 系列新品。其中，新版 iPad 采用了全面屏设计，增加全新键盘配件；新款 iPad Pro 配备了最新 M2 芯片，还有 Apple Pencil 悬停功能。&lt;a href=&quot;https://sspai.com/post/76272&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
