@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何使用Golang泛型提高编码效率](https://juejin.cn/post/7156105399585177637) | Wed Oct 19 2022 6:24 AM 
+- 🤗 [【React】使用useContext + useReducer实现一个简易版状态管理工具](https://juejin.cn/post/7156123099522400293) | Wed Oct 19 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
-    泛型让我们在使用Golang的时候能够抽取一些通用的代码，避免代码的重复拷贝，提高代码性能（避免类型转换），提高编码的效率和体验，提高代码可维护性。这篇文章主要是介绍我使用Golang泛型做过事情。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 前言 截止目前，我相信各位读者都接触了很多的hooks，什么useState，useRef不计其数。而 
     </details> 
 
-- 🎡 [Java&amp;C++题解与拓展——leetcode1700.无法吃午餐的学生数量【么的新知识】](https://juejin.cn/post/7156102614545858590) | Wed Oct 19 2022 6:14 AM 
+- 🎡 [拥抱GoFrame V2真香，我是Get到了数据模型和业务模型的点，你呢？](https://juejin.cn/post/7156119733312438279) | Wed Oct 19 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode1700.无法吃午餐的学生数量解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    你是不是不敢升级到新版本？明知道在用的版本不好用，但是因为种种原因不敢升级。没事，这个教程值得你看，带你一步一步了解新版本的特性，带你一步一步升级到新版本，分享了我的踩坑之旅。 
     </details> 
 
-- 🕯 [Elasticsearch：如何部署 Elasticsearch 来满足自己的要求](https://juejin.cn/post/7156099190869721118) | Wed Oct 19 2022 6:00 AM 
+- 🕯 [Kubernetes源码分析一叶知秋&lpar;四&rpar;kube-scheduler的启动和监控资源变化](https://juejin.cn/post/7156036585895493662) | Wed Oct 19 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-    在我之前的文章： Elasticsearch：我的 Elasticsearch 集群中应该有多少个分片？ Elasticsearch：管理 Elasticsearch 内存并进行故障排除 Elasti 
+    从创建pod的全流程入手，管中窥豹，一叶知秋，理解各个组件之间的相互协作。本次先对Kube-Scheduler部分的内容进行分析，由简入深的进行分析。 
     </details> 
 
-- 🚀 [testcontainers-java 新增对 TiDB 的支持](https://juejin.cn/post/7156090028710428679) | Wed Oct 19 2022 5:25 AM 
+- 🚀 [「数据密集型系统搭建」开卷篇｜什么是数据密集型系统](https://juejin.cn/post/7155851009435107336) | Tue Oct 18 2022 1:57 PM 
     <details><summary>展开描述 ...</summary> 
-    testcontainers-java 已于近期新增了对 TiDB 容器的支持。以后，在 Java 的应用程序中，你可以直接使用 Java 代码控制并创建 Docker 容器来使用 TiDB，并管理它 
+    「数据密集型系统搭建」开卷篇｜什么是数据密集型系统。系统具有数据密集型特点，底层建筑决定上层应用，数据层非常重要涉及的技术选型很多，建造者的终极之路需要突破自身界限完善能力，关注数据，抱紧业务变化。 
     </details> 
 
-- 💪 [『牛客_每日一题』循环队列](https://juejin.cn/post/7156084688111534116) | Wed Oct 19 2022 5:03 AM 
+- 💪 [Golang 内存调优 - 逃逸分析](https://juejin.cn/post/7155815911755087908) | Tue Oct 18 2022 11:40 AM 
     <details><summary>展开描述 ...</summary> 
-    1.每日一题 原题链接——》戳我戳我：传送法阵 描述 请你实现一个循环队列，该循环队列可利用的空间大小等于n个int型变量的大小。 操作： push x：将x加入到循环队列尾端。若循环队列已满，输出&quot; 
+    在计算机领域中，堆栈是非常重要的概念，数据结构中有堆栈，内存分配中也有堆栈；本该分配到函数栈空间的变量，被分配到了堆空间，称为内存逃逸，本文通过对Golang中内存逃逸进行整体描述和分析。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
