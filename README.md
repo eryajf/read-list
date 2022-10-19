@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [FFmpeg 静态编译](https://www.v2ex.com/t/888082#reply0) | Wed Oct 19 2022 4:51 AM
-- 🤗 [谷歌相册的人脸识别问题](https://www.v2ex.com/t/888075#reply4) | Wed Oct 19 2022 4:31 AM
-- 🎭 [Illustrator 的 JSX 脚本输出文件名问题](https://www.v2ex.com/t/888070#reply1) | Wed Oct 19 2022 4:07 AM
-- 🥷 [在 Linux 上的 打印驱动如果没有，可以尝试下 printer-driver-gutenprint](https://www.v2ex.com/t/888069#reply0) | Wed Oct 19 2022 3:59 AM
-- 🐵 [idc 自建 mysql 集群方案推荐](https://www.v2ex.com/t/888066#reply1) | Wed Oct 19 2022 3:57 AM<!-- v2ex:END -->
+- 🥸 [Linux 上有类似 fscapture 那种滚动截屏的程序吗?](https://www.v2ex.com/t/888103#reply0) | Wed Oct 19 2022 6:02 AM
+- 🤗 [FFmpeg 静态编译](https://www.v2ex.com/t/888082#reply1) | Wed Oct 19 2022 4:51 AM
+- 🎭 [谷歌相册的人脸识别问题](https://www.v2ex.com/t/888075#reply5) | Wed Oct 19 2022 4:31 AM
+- 🥷 [Illustrator 的 JSX 脚本输出文件名问题](https://www.v2ex.com/t/888070#reply3) | Wed Oct 19 2022 4:07 AM
+- 🐵 [在 Linux 上的 打印驱动如果没有，可以尝试下 printer-driver-gutenprint](https://www.v2ex.com/t/888069#reply2) | Wed Oct 19 2022 3:59 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
