@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Linux 上有类似 fscapture 那种滚动截屏的程序吗?](https://www.v2ex.com/t/888103#reply0) | Wed Oct 19 2022 6:02 AM
-- 🤗 [FFmpeg 静态编译](https://www.v2ex.com/t/888082#reply1) | Wed Oct 19 2022 4:51 AM
-- 🎭 [谷歌相册的人脸识别问题](https://www.v2ex.com/t/888075#reply5) | Wed Oct 19 2022 4:31 AM
-- 🥷 [Illustrator 的 JSX 脚本输出文件名问题](https://www.v2ex.com/t/888070#reply3) | Wed Oct 19 2022 4:07 AM
-- 🐵 [在 Linux 上的 打印驱动如果没有，可以尝试下 printer-driver-gutenprint](https://www.v2ex.com/t/888069#reply2) | Wed Oct 19 2022 3:59 AM<!-- v2ex:END -->
+- 🥸 [大家有什么推荐的浅色 neovim、终端主题吗](https://www.v2ex.com/t/888131#reply0) | Wed Oct 19 2022 7:38 AM
+- 🤗 [Python 列表赋值 BUG](https://www.v2ex.com/t/888120#reply9) | Wed Oct 19 2022 6:51 AM
+- 🎭 [数据同步大家都有什么方法？](https://www.v2ex.com/t/888118#reply5) | Wed Oct 19 2022 6:48 AM
+- 🥷 [现在有较为轻量且稳定的 Linux 桌面推荐吗](https://www.v2ex.com/t/888115#reply5) | Wed Oct 19 2022 6:31 AM
+- 🐵 [ffmpeg 合并 ts 问题](https://www.v2ex.com/t/888114#reply0) | Wed Oct 19 2022 6:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
