@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Integrity Pro 12.5.0 网站死链清理优化检测器](https://xclient.info/s/integrity-pro.html) | Tue Oct 18 2022 12:22 AM 
+- 🦏 [Screegle 2.1.3 屏幕共享工具](https://xclient.info/s/screegle.html) | Wed Oct 19 2022 12:30 AM 
     <details><summary>展开描述 ...</summary> 
-    Integrity Pro是一款Mac上的网站链接检测软件，能通过您所输入的网址找到已经损坏的链接，并且在完成之后还能以xml、dot和csv格式来生成站点地图。 
+    Screegle是Mac电脑上的一款专业屏幕共享工具，可让您在干净的桌面背景图像上共享您想要的任何窗口。您还可以录制带有语音的 Screegle 窗口视频，功能强大。 
     </details> 
 
--  [TurboCollage 7.2.7 照片拼贴工具](https://xclient.info/s/turbocollage.html) | Tue Oct 18 2022 12:21 AM 
+-  [PatterNodes 3.1.0 重复图形模式动画插画制作工具](https://xclient.info/s/patternodes.html) | Wed Oct 19 2022 12:29 AM 
     <details><summary>展开描述 ...</summary> 
-    TurboCollage 是Mac上一款简单的照片拼贴工具软件，可以帮助用户将一连串美好的照片拼贴在一起，组合成一张最好的图像。 
+    PatterNodes主要用于参数图形和插图，能轻松帮助用户创建图形模式，可以将进行颜色、间距、缩放、旋转等调整，支持导出多种格式的位图和矢量图。 
     </details> 
 
-- ⚗️ [Translate Tab 2.0.18 快速翻译工具](https://xclient.info/s/translate-tab.html) | Tue Oct 18 2022 12:16 AM 
+- ⚗️ [PowerPhotos 2.0.8 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Wed Oct 19 2022 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Translate Tab可以直接在菜单栏调出，使用谷歌翻译作为后台支持，相当于你直接访问谷歌翻译网页，因此谷歌翻译提供的功能都能支持。 
+    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
     </details> 
 
-- 🔥 [Sublime Text 4 Build 4138 Dev](https://xclient.info/s/sublime-text.html) | Tue Oct 18 2022 12:15 AM 
+- 🔥 [Piezo 1.7.10 录音软件](https://xclient.info/s/pizeo.html) | Wed Oct 19 2022 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Sublime Text被称作Mac下的TextMate，而根据其官网介绍，Sublime Text的特点如下：拥有高效、没有干扰的界面，在编辑方面的多选、宏、代码片段等功能，以及很有特色的Minimap。 
+    Piezo是一款Mac上非常好用的音频录音软件，你可以非常方便的使用Piezo进行Mac内置录音或麦克风录音，比如录制QQ和Skype聊天的语音、浏览器中正在播放音乐、播放器正在播放的视频等等都可以录制，且只需要单击一下按钮就可以 
     </details> 
 
-- 🌋 [AnyTrans for iOS 8.9.4.20221013 比itunes更好用的手机助手](https://xclient.info/s/anytrans-for-ios.html) | Tue Oct 18 2022 12:14 AM 
+- 🌋 [Mela 1.6.3 食谱管理器](https://xclient.info/s/mela.html) | Wed Oct 19 2022 12:26 AM 
     <details><summary>展开描述 ...</summary> 
-    AnyTrans 操作界面简单易用，导入、导出音乐或应用程序就如同在使用资源管理器一样简单，内置视频格式转换工具，可以自动把导入的影片转成最合适的格式，传输速度更快！ 
+    Mela是Mac电脑上的一款简单、优雅、现代的食谱管理器，可与iCloud同步。订阅你喜欢的食谱博客，在Mela的本地食谱查看器中查看所有的食谱。 
     </details> 
 <!-- xclient:END -->
 
