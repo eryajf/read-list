@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [『牛客_每日一题』循环队列](https://juejin.cn/post/7156084688111534116) | Wed Oct 19 2022 5:03 AM 
+- 🤗 [如何使用Golang泛型提高编码效率](https://juejin.cn/post/7156105399585177637) | Wed Oct 19 2022 6:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    泛型让我们在使用Golang的时候能够抽取一些通用的代码，避免代码的重复拷贝，提高代码性能（避免类型转换），提高编码的效率和体验，提高代码可维护性。这篇文章主要是介绍我使用Golang泛型做过事情。 
+    </details> 
+
+- 🎡 [Java&amp;C++题解与拓展——leetcode1700.无法吃午餐的学生数量【么的新知识】](https://juejin.cn/post/7156102614545858590) | Wed Oct 19 2022 6:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    leetcode1700.无法吃午餐的学生数量解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    </details> 
+
+- 🕯 [Elasticsearch：如何部署 Elasticsearch 来满足自己的要求](https://juejin.cn/post/7156099190869721118) | Wed Oct 19 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    在我之前的文章： Elasticsearch：我的 Elasticsearch 集群中应该有多少个分片？ Elasticsearch：管理 Elasticsearch 内存并进行故障排除 Elasti 
+    </details> 
+
+- 🚀 [testcontainers-java 新增对 TiDB 的支持](https://juejin.cn/post/7156090028710428679) | Wed Oct 19 2022 5:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    testcontainers-java 已于近期新增了对 TiDB 容器的支持。以后，在 Java 的应用程序中，你可以直接使用 Java 代码控制并创建 Docker 容器来使用 TiDB，并管理它 
+    </details> 
+
+- 💪 [『牛客_每日一题』循环队列](https://juejin.cn/post/7156084688111534116) | Wed Oct 19 2022 5:03 AM 
     <details><summary>展开描述 ...</summary> 
     1.每日一题 原题链接——》戳我戳我：传送法阵 描述 请你实现一个循环队列，该循环队列可利用的空间大小等于n个int型变量的大小。 操作： push x：将x加入到循环队列尾端。若循环队列已满，输出&quot; 
-    </details> 
-
-- 🎡 [Vite配置引出IIFE,CJS,AMD,UMD,ESM知识点](https://juejin.cn/post/7156080104408350727) | Wed Oct 19 2022 4:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    在vite&lpar;rollup&rpar;的打包配置里有一个format的选项，可以指定最终打包产物的格式，默认情况下是ES module，但是不同的场景可能会有所区别，本文就想通过这个来讲讲前端模块化... 
-    </details> 
-
-- 🕯 [video_thread视频解码线程分析](https://juejin.cn/post/7156070053694144549) | Wed Oct 19 2022 4:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    之前在 stream_component_open&lpar;&rpar; 里面的 decode_start&lpar;&rpar; 函数开启了 video_thread 线程，如下： 
-    </details> 
-
-- 🚀 [AgileBoot - 项目内统一的错误码设计](https://juejin.cn/post/7156062116712022023) | Wed Oct 19 2022 3:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章主要探讨关于统一错误码的设计，并提供笔者的实现 欢迎大家讨论，指正。 github:https://github.com/valarchie/AgileBoot-Back-End 
-    </details> 
-
-- 💪 [Luminar Neo 教程，如何在 Luminar Neo 中使用直方图？](https://juejin.cn/post/7156061231088926727) | Wed Oct 19 2022 3:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用直方图。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
