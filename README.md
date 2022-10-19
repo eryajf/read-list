@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开发 APP 需要多久？](https://juejin.cn/post/7156063964072411172) | Wed Oct 19 2022 3:43 AM 
+- 🤗 [『牛客_每日一题』循环队列](https://juejin.cn/post/7156084688111534116) | Wed Oct 19 2022 5:03 AM 
     <details><summary>展开描述 ...</summary> 
-    APP的开发周期主要取决于以下几点： 产品的类型和复杂度 产品的技术路线选择 开发者的技术能力和经验 产品复杂度和技术路线选择 产品的复杂程度直接决定了开发者的工作量，开发者需要的工时... ... 
+    1.每日一题 原题链接——》戳我戳我：传送法阵 描述 请你实现一个循环队列，该循环队列可利用的空间大小等于n个int型变量的大小。 操作： push x：将x加入到循环队列尾端。若循环队列已满，输出&quot; 
     </details> 
 
-- 🎡 [青训营 - 快乐出发 Flag 打卡活动「第一阶段统计」结果新鲜出炉~](https://juejin.cn/post/7156061397955280904) | Wed Oct 19 2022 3:33 AM 
+- 🎡 [Vite配置引出IIFE,CJS,AMD,UMD,ESM知识点](https://juejin.cn/post/7156080104408350727) | Wed Oct 19 2022 4:45 AM 
     <details><summary>展开描述 ...</summary> 
-    “一无所知的世界，走下去，才会有惊喜” 在第一次统计过程中，看到了大家坚持的模样，平时不经意间的点滴积累，总会在你需要的时候挺身而出，赋予你前所未有的力量。积累是一个好习惯，而习惯就像雨水， 
+    在vite&lpar;rollup&rpar;的打包配置里有一个format的选项，可以指定最终打包产物的格式，默认情况下是ES module，但是不同的场景可能会有所区别，本文就想通过这个来讲讲前端模块化... 
     </details> 
 
-- 🕯 [AST（抽象语法树）以及AST的广泛应用、利用 SplitingJS 配合 CSS 实现文字&quot;蠕动&quot;效果  |  酱酱的下午茶第91期](https://juejin.cn/post/7156054736397926430) | Wed Oct 19 2022 3:07 AM 
+- 🕯 [video_thread视频解码线程分析](https://juejin.cn/post/7156070053694144549) | Wed Oct 19 2022 4:07 AM 
     <details><summary>展开描述 ...</summary> 
-    【掘金酱的下午茶】亮点： 还不会用 TS 封装 Axios？我教你啊 利用 SplitingJS 配合 CSS 实现文字&quot;蠕动&quot;效果 从局部变量说起，关于一个莫得名堂的引用和一个坑！ Java 下数据 
+    之前在 stream_component_open&lpar;&rpar; 里面的 decode_start&lpar;&rpar; 函数开启了 video_thread 线程，如下： 
     </details> 
 
-- 🚀 [MobLink Android 快速集成](https://juejin.cn/post/7156048005487919140) | Wed Oct 19 2022 2:41 AM 
+- 🚀 [AgileBoot - 项目内统一的错误码设计](https://juejin.cn/post/7156062116712022023) | Wed Oct 19 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-    MobLink通过深度链接的技术，实现APP的链接化，提供Web与APP直接跳转的完全免费产品服务，实现网页间直接跳转升级为APP间直接跳转。本文为MobLink Android客户端集成指南 
+    本篇文章主要探讨关于统一错误码的设计，并提供笔者的实现 欢迎大家讨论，指正。 github:https://github.com/valarchie/AgileBoot-Back-End 
     </details> 
 
-- 💪 [揭秘百度智能测试在测试评估领域实践](https://juejin.cn/post/7156043909544542239) | Wed Oct 19 2022 2:25 AM 
+- 💪 [Luminar Neo 教程，如何在 Luminar Neo 中使用直方图？](https://juejin.cn/post/7156061231088926727) | Wed Oct 19 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-    本章节将从对应实践角度，介绍相关领域的目标、思路，涉及到的技术点、效果，希望能给到大家一定参考。。。 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用直方图。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
