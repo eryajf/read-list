@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [HashMap 滚瓜烂熟 ConcurrentHashMap支支吾吾](https://juejin.cn/post/7156200349685317663) | Wed Oct 19 2022 12:33 PM 
+- 🤗 [Android Compose 动画使用详解&lpar;四&rpar;动画配置之TweenSpec](https://juejin.cn/post/7156221166934294536) | Wed Oct 19 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
-    HashMap 背的滚瓜烂熟 ConcurrentHashMap支支吾吾 说的是我本人 说来惭愧 基本没用过ConcurrentHashMap 基本上没有使用的需求 
+    本文对Compose动画的配置AnimationSpec进行了简单的介绍，并详细介绍了TweenSpec的使用，通过TweenSpec我们可以对动画的时长、延迟时间以及动画速率曲线进行配置 
     </details> 
 
-- 🎡 [Redis常见异常汇总](https://juejin.cn/post/7156190989114146846) | Wed Oct 19 2022 11:56 AM 
+- 🎡 [聊聊 K8S：K8S集群搭建实战](https://juejin.cn/post/7156220816529555487) | Wed Oct 19 2022 1:52 PM 
     <details><summary>展开描述 ...</summary> 
-    Jedis虽然使用起来比较简单，但是不能根据使用场景设置合理的参数，也会产生很多问题，本文对这些常见问题进行逐一说明。 
+    一、环境准备 1.1 硬件要求 序号 硬件 硬件 1 CPU 至少2核 2 内存 至少2G 3 磁盘 至少50G 1.2 集群节点 主机名 主机IP k8s-master01 10.211.55.15 
     </details> 
 
-- 🕯 [vivo 鲁班平台 RocketMQ 消息灰度方案](https://juejin.cn/post/7156167729907499016) | Wed Oct 19 2022 10:27 AM 
+- 🕯 [字节跳动后端面经（11）](https://juejin.cn/post/7156218503773552654) | Wed Oct 19 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
-    实践是检验真理的唯一标准，我们进行了详细的灰度功能校验，分别是灰度版本订阅的topic&amp;tag不变、灰度版本订阅的topic增加、灰度版本订阅的topic减少、灰度版本订阅的tage变化以及灰度版本订 
+    MySQL索引数据结构、索引分类、联合索引、MySQL悲观锁和乐观锁怎么实现的 B+树、AVL、红黑 
     </details> 
 
-- 🚀 [Flutter语法检测及原理剖析-Fair语法检测实践](https://juejin.cn/post/7156160803719249933) | Wed Oct 19 2022 9:58 AM 
+- 🚀 [测试覆盖率治不好你的精神内耗](https://juejin.cn/post/7156218050981658638) | Wed Oct 19 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Fair是58技术开源的一个Flutter动态化的框架，能够实现UI和逻辑的动态化。 开发者在使 
+    在测试覆盖率的讨论里我越来越疑惑了，当他们在谈论测试覆盖率时，他们口中的 60%，70%亦或是99%究竟代表着什么 
     </details> 
 
-- 💪 [【JS 逆向百例】某音 X-Bogus 逆向分析，JSVMP 纯算法还原](https://juejin.cn/post/7156158350407761933) | Wed Oct 19 2022 9:50 AM 
+- 💪 [【热修复】实时生效&amp;重启生效](https://juejin.cn/post/7156215804445327373) | Wed Oct 19 2022 1:32 PM 
     <details><summary>展开描述 ...</summary> 
-    ![]&lpar;https://s2.loli.net/2022/10/11/evJuSnNIzDmqKY3.png&rpar; ## 声明 **本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代 
+    前言 热修复按生效类型一共分为两种：实时生效和重启应用生效。 每种类型按模块分为：Dex 文件修复、res 资源文件修复和 so 文件修复。同时在虚拟机层面要考虑 Dalvik 虚拟机和 ART 虚拟 
     </details> 
 <!-- juejin:END -->
 ### 少数派
