@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [加州理工学院的太空太阳能项目为其第一个轨道原型做准备](https://www.cnbeta.com/articles/science/1328785.htm) | Wed Oct 19 2022 7:30 AM 
+- 🕯 [“退网创业”的罗永浩，要回来直播了？“罗永浩”账号登陆淘宝直播平台](https://www.cnbeta.com/articles/tech/1328801.htm) | Wed Oct 19 2022 8:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;加州理工学院雄心勃勃的太空太阳能项目，在一笔上亿美元的巨额捐款的支持下，正准备将其第一批原型发射到轨道上。&lt;/strong&gt;这些先进的超轻结构将收集、转换和无线发送能量。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328785.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月18日，“罗永浩”和“交个朋友严选店”两个账号登陆了淘宝直播平台，这是否预示着罗永浩将会在近期开启淘宝直播？据查，“罗永浩”以及“交个朋友”均已在淘宝直播上开通了账号，其中，“交个朋友严选店”主播粉丝达到了1.2万。此外，淘宝上还开通了“交个朋友严选店”店铺。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328801.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [博主用AI预测《英雄联盟》S12冠军是RNG或JDG：曾押中高考作文](https://www.cnbeta.com/articles/tech/1328783.htm) | Wed Oct 19 2022 7:13 AM 
+- 💼 [女子眼中取出23枚隐形眼镜 自称每天忘记是否摘掉](https://www.cnbeta.com/articles/tech/1328799.htm) | Wed Oct 19 2022 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月21日起，《英雄联盟》S12将进行1/4半决赛，八支队伍将决出四强参与半决赛，最终会在11月6日举行最后的决赛。&lt;strong&gt;其中，1/4半决赛的抽签结果已经出炉，分别是：JDG vs RGE、T1 vs RNG、GEN vs DK、DRX vs EDG。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328783.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据媒体报道，美国加州一名医生从一位70多岁女子眼睛中取出23枚隐形眼镜，相关视频近日在国外社交平台上广泛流传。该视频是今年9月眼科医生卡特琳娜·库尔特耶娃在自己的社交平台上分享的，提醒大家注意用眼卫生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328799.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Rose Young：配OLED面板的iPad Pro将于2024年上半年推出](https://www.cnbeta.com/articles/tech/1328781.htm) | Wed Oct 19 2022 7:12 AM 
+- 💂 [iOS端YouTube Music更新获Widget：可快速访问最近播放媒体](https://hot.cnbeta.com/articles/music/1328797.htm) | Wed Oct 19 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据屏幕分析师 Ross Young 分享的最新消息，苹果有望在 2024 年推出装备 OLED 面板的 11/12.9 英寸 iPad Pro 型号。&lt;strong&gt;在推文中，Young 表示配 OLED 面板的 iPad Pro 将于 2024 年上半年推出。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328781.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Google 于上周宣布旗下多款应用将适配 iOS 16 推出锁屏 Widget，现在 YouTube Music 跟进获得“Recently Played”（近期播放）Widget，能够快速访问用户最近播放的视频、专辑或者专辑列表。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1328797.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [微软和奥利奥联动 让你空出15分钟享用饼干](https://www.cnbeta.com/articles/tech/1328777.htm) | Wed Oct 19 2022 7:07 AM 
+- 🚀 [RNG《Dota2》战队全员检测阳性 Entity队长祝早日康复](https://hot.cnbeta.com/articles/game/1328795.htm) | Wed Oct 19 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软和不少品牌都有着紧密的合作，但近期和奥利奥（Oreo）的合作多少令人感到意外。不过双方的合作并不是微软为奥利奥提供各种产品支持，&lt;strong&gt;而是推出了配有“大眼夹”（Clippy）的奥利奥联名款饼干，供你在办公休息期间享用。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328777.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据 RNG 电竞俱乐部《Dota2》分部 10 月 17日发布的微博称，该战队选手全员以及总经理和领队均在核酸检测后确认阳性。目前《Dota2》国际邀请赛即将正式开赛，17 日时 RNG 战队正在参加小组预选赛。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328795.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [携手SK电讯：SK海力士展示首个基于CXL的计算内存解决方案](https://www.cnbeta.com/articles/tech/1328775.htm) | Wed Oct 19 2022 7:03 AM 
+- 🎊 [周星驰在INS开通首个社交账号 在线招纳Web3人才](https://www.cnbeta.com/articles/tech/1328793.htm) | Wed Oct 19 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在 8 月展示早期 CXL 内存样品之后，SK 海力士又在 OCP 全球峰会上推出了首个基于 CXL 的计算内存解决方案（简称 CMS）。&lt;/strong&gt;作为业内领先的企业，SK 海力士与 SK 电讯达成了密切合作，以优化下一代高性能计算基础设施。而在 10 月 18 日于美国圣何塞举办的 2022 开放计算项目（OCP）全球峰会上，展示了 CMS 及其软件平台。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328775.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日周星驰在Instagram上开通了首个社交账号，公开寻找才华出众的Web3人才，并表示将亲自挑选人才。截至发文，周星驰的INS账号已经有10.6万粉丝，目前其动态仅有一个招人帖子，很多粉丝留言支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328793.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
