@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何整合 Spring Gateway 和 Spring OAuth2](https://www.v2ex.com/t/887979#reply1) | Tue Oct 18 2022 8:31 PM
-- 🤗 [有办法转换 IPv4 与 IPv6 的地址么？](https://www.v2ex.com/t/887975#reply4) | Tue Oct 18 2022 6:06 PM
-- 🎭 [tinywow.com 这个网站很好看, 用什么技术栈的? whatsrun 看不到](https://www.v2ex.com/t/887972#reply6) | Tue Oct 18 2022 5:38 PM
-- 🥷 [请问这段应该怎么翻译](https://www.v2ex.com/t/887950#reply7) | Tue Oct 18 2022 3:44 PM
-- 🐵 [现在最轻量级的 Linux 服务器版本有啥推荐的吗？](https://www.v2ex.com/t/887940#reply9) | Tue Oct 18 2022 3:14 PM<!-- v2ex:END -->
+- 🥸 [被带宽限制了，并发上不去，如何解决？](https://www.v2ex.com/t/887997#reply5) | Wed Oct 19 2022 1:07 AM
+- 🤗 [或者程序员需要这个域名](https://www.v2ex.com/t/887990#reply18) | Wed Oct 19 2022 12:35 AM
+- 🎭 [如何整合 Spring Gateway 和 Spring OAuth2](https://www.v2ex.com/t/887979#reply8) | Tue Oct 18 2022 8:31 PM
+- 🥷 [有办法转换 IPv4 与 IPv6 的地址么？](https://www.v2ex.com/t/887975#reply11) | Tue Oct 18 2022 6:06 PM
+- 🐵 [tinywow.com 这个网站很好看, 用什么技术栈的? whatsrun 看不到](https://www.v2ex.com/t/887972#reply9) | Tue Oct 18 2022 5:38 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
