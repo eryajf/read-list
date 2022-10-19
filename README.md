@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大家有什么推荐的浅色 neovim、终端主题吗](https://www.v2ex.com/t/888131#reply0) | Wed Oct 19 2022 7:38 AM
-- 🤗 [Python 列表赋值 BUG](https://www.v2ex.com/t/888120#reply9) | Wed Oct 19 2022 6:51 AM
-- 🎭 [数据同步大家都有什么方法？](https://www.v2ex.com/t/888118#reply5) | Wed Oct 19 2022 6:48 AM
-- 🥷 [现在有较为轻量且稳定的 Linux 桌面推荐吗](https://www.v2ex.com/t/888115#reply5) | Wed Oct 19 2022 6:31 AM
-- 🐵 [ffmpeg 合并 ts 问题](https://www.v2ex.com/t/888114#reply0) | Wed Oct 19 2022 6:31 AM<!-- v2ex:END -->
+- 🥸 [想问下大家一直说的谷歌服务是什么？](https://www.v2ex.com/t/888152#reply6) | Wed Oct 19 2022 8:21 AM
+- 🤗 [aptos 上币安给各位的启示?](https://www.v2ex.com/t/888144#reply0) | Wed Oct 19 2022 8:06 AM
+- 🎭 [Google Meeting 和 Zoom Meeting 中, 共享 Linux / Wayland Gnome 桌面](https://www.v2ex.com/t/888140#reply0) | Wed Oct 19 2022 7:53 AM
+- 🥷 [阿里巴巴 Noslate 正式开源 - 面向云原生的 JavaScript 容器方案](https://www.v2ex.com/t/888139#reply0) | Wed Oct 19 2022 7:49 AM
+- 🐵 [有什么能通过不受信任节点安全防篡改分发文件的方法吗？](https://www.v2ex.com/t/888136#reply21) | Wed Oct 19 2022 7:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
