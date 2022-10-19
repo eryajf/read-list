@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [&lpar;思路&rpar;看到很多人需要小额 crypto 的需求, 能不能搞个这样的论坛?](https://www.v2ex.com/t/888270#reply3) | Wed Oct 19 2022 6:09 PM
-- 🤗 [使用 AACS 技术加密的蓝光影片光盘全部副本的密钥都不一样吗？有什么办法完整在不解密的情况下把这个密钥备份进 ISO 吗？想在不对光盘内容做任何改动地备份我这几年购买的正版盘。](https://www.v2ex.com/t/888269#reply3) | Wed Oct 19 2022 5:36 PM
-- 🎭 [Windows 10 22H2 推送了](https://www.v2ex.com/t/888266#reply3) | Wed Oct 19 2022 5:09 PM
-- 🥷 [请教一下，关于 nginx 多个子目录反代的问题。](https://www.v2ex.com/t/888264#reply0) | Wed Oct 19 2022 5:04 PM
-- 🐵 [通过实体手机号携号转网的 GV 会被回收吗？](https://www.v2ex.com/t/888263#reply1) | Wed Oct 19 2022 4:49 PM<!-- v2ex:END -->
+- 🥸 [支持资源管理器标签页的 Windows 11 版本推送了](https://www.v2ex.com/t/888273#reply0) | Wed Oct 19 2022 10:45 PM
+- 🤗 [&lpar;思路&rpar;看到很多人需要小额 crypto 的需求, 能不能搞个这样的论坛?](https://www.v2ex.com/t/888270#reply3) | Wed Oct 19 2022 6:09 PM
+- 🎭 [使用 AACS 技术加密的蓝光影片光盘全部副本的密钥都不一样吗？有什么办法完整在不解密的情况下把这个密钥备份进 ISO 吗？想在不对光盘内容做任何改动地备份我这几年购买的正版盘。](https://www.v2ex.com/t/888269#reply4) | Wed Oct 19 2022 5:36 PM
+- 🥷 [Windows 10 22H2 推送了](https://www.v2ex.com/t/888266#reply4) | Wed Oct 19 2022 5:09 PM
+- 🐵 [请教一下，关于 nginx 多个子目录反代的问题。](https://www.v2ex.com/t/888264#reply1) | Wed Oct 19 2022 5:04 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
