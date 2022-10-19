@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Kindle卖这么贵 还赔钱：都因为一家垄断全球的中国厂商](https://www.cnbeta.com/articles/tech/1328929.htm) | Wed Oct 19 2022 5:26 PM 
+- 🕯 [美药管局申请法院禁止6家电子烟制造商“非法产销”](https://www.cnbeta.com/articles/tech/1328933.htm) | Wed Oct 19 2022 7:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国食品和药物管理局（下称“药管局”）18日通过美国司法部向联邦地区法院申请对6家电子烟制造商颁布永久性禁制令，指认这些企业在其电子烟产品上市前未向药管局提交审查申请，希望阻止涉事企业“非法制造、销售和分销产品”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [教培机构纷纷入局电商直播 会有下一个东方甄选吗？](https://www.cnbeta.com/articles/tech/1328931.htm) | Wed Oct 19 2022 7:32 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在教培转型的十字路口，第一个吃螃蟹的新东方成功了。东方甄选的现象级出圈，在三个月时间里为新东方带来了20亿元左右的GMV。珠玉在前，不少教培机构加入直播带货的行列，继豆神教育开设“豆神甄选”以来，好未来、高途也纷纷“下海”，分别推出“学家优品”和“高途好物”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Kindle卖这么贵 还赔钱：都因为一家垄断全球的中国厂商](https://www.cnbeta.com/articles/tech/1328929.htm) | Wed Oct 19 2022 5:26 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当你打开购物软件，准备在五花八门的品牌里，买一个心仪的泡面盖。定睛一看，你会发现它们的屏幕类型，怎么都叫 E ink 墨水屏？可能你以为，E ink 是一种屏幕技术的统称。就好像什么 LCD 显示屏。但其实，它只是一家公司的名字，中文名叫元太科技。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [RTX 3060 Ti升级GDDR6X显存：跑分飙升10％](https://www.cnbeta.com/articles/tech/1328927.htm) | Wed Oct 19 2022 5:22 PM 
+- 🚀 [RTX 3060 Ti升级GDDR6X显存：跑分飙升10％](https://www.cnbeta.com/articles/tech/1328927.htm) | Wed Oct 19 2022 5:22 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;RTX 40系列发布后，RTX 30系列还有升级款，RTX 3070 Ti、RTX 3060 Ti、RTX 3060的新版本都已经出现在驱动设备列表中，将会陆续低调上市。其中，RTX 3060 Ti核心规格不变，唯一的不同就是显存从GDDR6升级为GDDR6X。这能带来多少性能提升呢？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [120Gbps速度3倍于雷电4 Intel预览下一代雷电接口](https://www.cnbeta.com/articles/tech/1328925.htm) | Wed Oct 19 2022 5:21 PM 
+- 🎊 [120Gbps速度3倍于雷电4 Intel预览下一代雷电接口](https://www.cnbeta.com/articles/tech/1328925.htm) | Wed Oct 19 2022 5:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;在USB 80Gbps（原来的USB4 v2.0）正式公布后，Intel也首次预览了下一代雷电接口。Intel暂时没有使用“雷电5”的说法，但从多年惯例来看，应该跑不了。“雷电5”号称可以有着3倍雷电4的速度，也就是120Gbps&lt;/strong&gt;，不过这是一种特殊模式，主要用于单线连接高端显示器等场景，借助PAM3调制技术，可实现上行120Gbps（发送端），下行40Gbps（接收端），也就是非对称分流。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [说好的AR革命呢？罗永浩将入驻淘宝直播 下周开启双11首秀](https://www.cnbeta.com/articles/tech/1328923.htm) | Wed Oct 19 2022 4:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年6月份，在债务还了差不多的时候，罗永浩宣布退出“交个朋友”管理层，自己重新回到科技行业创业，选择的目标是AR，他之前表示下一个革命性计算平台就是AR了，不太可能是别的。不过罗永浩几个月来并没有公布AR方面的进展，反而要重回直播行业，昨天有传闻称他会加入淘宝直播，今天澎湃新闻也确认了消息，&lt;strong&gt;罗永浩将在10月24日晚上8时开启淘宝首场直播，直播间名为“罗永浩直播间”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [宝马百亿投资中国后将在美投资120多亿生产电动车](https://www.cnbeta.com/articles/tech/1328921.htm) | Wed Oct 19 2022 4:35 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为全球豪华汽车巨头，宝马在未来的电动汽车上也开始加大投资，这一次他们是多方下注，英国牛津的工厂还是战略核心，日前又透露说在中国投资上百亿生产电动车，今晚宝马公司又宣布在美国投资17亿美元，约合人民币123亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
