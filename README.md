@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [世界首个电磁橇设施在山东济南成功运行](https://www.cnbeta.com/articles/tech/1328913.htm) | Wed Oct 19 2022 3:25 PM 
+- 🕯 [说好的AR革命呢？罗永浩将入驻淘宝直播 下周开启双11首秀](https://www.cnbeta.com/articles/tech/1328923.htm) | Wed Oct 19 2022 4:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，阶段性建成的世界首个电磁推进地面超高速试验设施——“电磁橇”设施，在济南成功运行，对于吨级及以上物体最高推进速度可达每小时1030公里，创造了大质量超高速电磁推进技术的世界最高速度纪录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年6月份，在债务还了差不多的时候，罗永浩宣布退出“交个朋友”管理层，自己重新回到科技行业创业，选择的目标是AR，他之前表示下一个革命性计算平台就是AR了，不太可能是别的。不过罗永浩几个月来并没有公布AR方面的进展，反而要重回直播行业，昨天有传闻称他会加入淘宝直播，今天澎湃新闻也确认了消息，&lt;strong&gt;罗永浩将在10月24日晚上8时开启淘宝首场直播，直播间名为“罗永浩直播间”。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328923.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新款Apple TV和第十代iPad均提供4GB内存](https://www.cnbeta.com/articles/tech/1328911.htm) | Wed Oct 19 2022 2:39 PM 
+- 💼 [宝马百亿投资中国后将在美投资120多亿生产电动车](https://www.cnbeta.com/articles/tech/1328921.htm) | Wed Oct 19 2022 4:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Xcode准确揭示了几款iPhone、iPad和其他设备的内存量。，本周宣布的第三代Apple TV 4K和第十代iPad都配备了增加的RAM。新发布的Xcode 14.1候选版本证实，新的Apple TV和iPad都内置4GB的内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为全球豪华汽车巨头，宝马在未来的电动汽车上也开始加大投资，这一次他们是多方下注，英国牛津的工厂还是战略核心，日前又透露说在中国投资上百亿生产电动车，今晚宝马公司又宣布在美国投资17亿美元，约合人民币123亿元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328921.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [世界杯最小主办国卡塔尔：人口200多万接待百万球迷 安保靠外援](https://www.cnbeta.com/articles/tech/1328909.htm) | Wed Oct 19 2022 2:32 PM 
+- 💂 [特斯拉三季报即将出炉：盈利或接近历史新高 市场担忧需求下滑](https://www.cnbeta.com/articles/tech/1328919.htm) | Wed Oct 19 2022 4:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;除了经济效益外，卡塔尔更期待通过世界杯来提升国家软实力。再过一个月的时间，2022年国际足协世界杯将如期在卡塔尔举办。对于已经有着92年历史的世界杯来说，也十分新鲜，这是世界杯第一次在中东国家举办，也是第一次在北半球冬季比赛。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;与往常一样，在公布业绩后，特斯拉管理层将举行电话会议和问答。马斯克不会每次都参加电话会议，但他本周表示，他计划出席周三的分析师电话会议。随着零部件变得更加昂贵，以及由于供应链瓶颈而难以获得新车，特斯拉多次涨价。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328919.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉Cybertruck电池组将在弗里蒙特工厂制造](https://www.cnbeta.com/articles/tech/1328907.htm) | Wed Oct 19 2022 2:28 PM 
+- 🚀 [Waymo计划在洛杉矶推出自动驾驶出租车服务](https://www.cnbeta.com/articles/tech/1328917.htm) | Wed Oct 19 2022 4:07 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;知情人士告诉Teslarati，&lt;strong&gt;特斯拉计划在弗里蒙特工厂的一条新电池生产线上开始为即将到来的Cybertruck制造电池组。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Waymo表示，它计划在洛杉矶推出机器人出租车服务，这是这家Alphabet子公司正在加快商业化进程的另一个迹象。&lt;/strong&gt;自2019年以来，Waymo在洛杉矶已经有了一定的影响力，它定期绘制社区地图，包括市中心、Miracle Mile、Koreatown、Santa Monica、Westwood和West Hollywood。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328917.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微软正在打造Xbox移动游戏商店以对抗苹果和谷歌](https://hot.cnbeta.com/articles/game/1328905.htm) | Wed Oct 19 2022 2:17 PM 
+- 🎊 [中国天眼FAST发现宇宙中最大原子气体结构](https://www.cnbeta.com/articles/science/1328915.htm) | Wed Oct 19 2022 3:31 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;微软正在建立一个Xbox移动商店，直接在移动设备上提供游戏，挑战苹果和谷歌。&lt;/strong&gt;这家软件巨头在今年早些时候首次暗示了它将为游戏而打造下一代商店，微软已经在提交给英国竞争和市场管理局（CMA）的文件中悄悄透露了计划的细节。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国天眼FAST是当今世界上口径最大、灵敏度最高的单口径射电望远镜。近日，中国科学院国家天文台利用FAST进行成像观测，在致密星系群——“斯蒂芬五重星系”及周围天区，发现了1个尺度大约为两百万光年的巨大原子气体系统，也就是大量弥散的氢原子气体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328915.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
