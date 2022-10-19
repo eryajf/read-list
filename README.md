@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [2022年全球白帽常用工具前十排行榜发布](https://www.freebuf.com/articles/347260.html) | Wed Oct 19 2022 6:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    几十年来，攻击方、白帽和安全从业者的工具不断演进，成为网络安全长河中最具技术特色的灯塔。 
+    </details> 
+
 - 🦄 [在美国申请减免学生贷款？当心落入网络诈骗者圈套](https://www.freebuf.com/news/347236.html) | Wed Oct 19 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     美国学生贷款减免计划已于10月17日正式开放免费申请，目前已有超过800万人提交了减免还款申请。 
     </details> 
 
-- 🦄 [31 名嫌疑人因使用无钥匙入侵技术盗取汽车，在欧洲被捕](https://www.freebuf.com/news/347226.html) | Wed Oct 19 2022 3:07 AM 
+- 🦅 [31 名嫌疑人因使用无钥匙入侵技术盗取汽车，在欧洲被捕](https://www.freebuf.com/news/347226.html) | Wed Oct 19 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     31人因利用无钥匙入侵技术偷窃汽车在欧洲被捕。 
     </details> 
 
-- 🦅 [角逐年度安全品牌影响力 |「WitAwards中国网安行业2022年度评选」火热进行中](https://www.freebuf.com/news/347201.html) | Tue Oct 18 2022 1:56 PM 
+- 🪄 [角逐年度安全品牌影响力 |「WitAwards中国网安行业2022年度评选」火热进行中](https://www.freebuf.com/news/347201.html) | Tue Oct 18 2022 1:56 PM 
     <details><summary>展开描述 ...</summary> 
     快来看看你支持的企业上榜了吗？你一票我一票，心仪品牌就“出道”。 
     </details> 
 
-- 🪄 [FreeBuf早报 | Hashcat可在60分钟内破解八位密码；Lazarus疯狂盗取加密货币](https://www.freebuf.com/news/347187.html) | Tue Oct 18 2022 11:01 AM 
+- 💻 [FreeBuf早报 | Hashcat可在60分钟内破解八位密码；Lazarus疯狂盗取加密货币](https://www.freebuf.com/news/347187.html) | Tue Oct 18 2022 11:01 AM 
     <details><summary>展开描述 ...</summary> 
     暴力密码破解工具 Hashcat的核心开发者表示， 八块RTX 4090显卡阵列可在60分钟内破解八位密码。 
-    </details> 
-
-- 💻 [微信社工攻击防护方案](https://www.freebuf.com/articles/system/347157.html) | Tue Oct 18 2022 8:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    微信社工攻击防护方案，拒绝高科技和狠活。 
     </details> 
 <!-- freebuf:END -->
 
