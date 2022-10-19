@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [首款搭载tvOS的设备退场：苹果停售2015版Apple TV HD](https://www.cnbeta.com/articles/tech/1328659.htm) | Wed Oct 19 2022 2:05 AM 
+- 🕯 [新能源这桌菜，锂矿主吃肉 “宁王”“比茅”只配喝汤？](https://www.cnbeta.com/articles/tech/1328727.htm) | Wed Oct 19 2022 4:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨日晚，苹果发布了新一代的Apple TV 4K机顶盒，它搭载A15处理器，最大128GB存储空间，运行tvOS系统，性能强大。但很少有人注意到的是，&lt;strong&gt;苹果在新Apple TV推出的同时，悄然停止了另一款Apple TV的销售。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;喊了好几年的“白色石油”以及过去两年“过山车”般的二级市场行情后，锂矿巨头的财务报表终于在今年三季度的时候彻底“起飞”了。在10月16日公布的前三季度财务预测中，天齐锂业和赣锋锂业两大锂业巨头都公布了百亿级的利润预测。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328727.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [NXgenPort旨在在症状出现之前检测癌症患者的早期感染迹象](https://www.cnbeta.com/articles/tech/1328657.htm) | Wed Oct 19 2022 2:05 AM 
+- 💼 [Web3咖啡馆见闻：狂热、暴富、落寞，欲望永不打烊](https://www.cnbeta.com/articles/tech/1328725.htm) | Wed Oct 19 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据TechCrunch报道，NXgenPort是一家位于明尼苏达州圣保罗的初创公司，它希望在医生看病的间隙利用端口导管对癌症患者进行远程监控。&lt;strong&gt;NXgenPort周二在TechCrunch Disrupt Startup Battlefield上发表演讲，它正在建造一个可植入的化疗端口，其特点是增加了传感器和远程连接功能。&lt;/strong&gt;该端口将化疗端口的功效与传感器技术相结合，通过报告和跟踪患者在治疗过程中的反应，测量和远程监测早期并发症的发生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;走出五道口地铁站，穿过酒吧一条街，经过一条林荫小道，不远处是一家咖啡馆。它夹在电动车店和房产中介门店之间，灰色的墙面、黑色的logo、白色的店名，和四周闲适的氛围，划开一条硬朗的分割线。这是一家以Web3为主题的咖啡馆。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328725.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Twitter联合创始人创立的Bluesky公布了去中心化社交网络路线图](https://www.cnbeta.com/articles/tech/1328655.htm) | Wed Oct 19 2022 2:04 AM 
+- 💂 [《赛博浪客》制作人表示：目前没有制作第二季的计划](https://hot.cnbeta.com/articles/movie/1328723.htm) | Wed Oct 19 2022 4:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2019 年年底，Twitter 联合创始人杰克·多西（Jack Dorsey）宣布，他的公司已经组建了一个小型的独立开发团队，并为其制定了一个目标：创建一个去中心化的社交媒体协议，作为在线新标准的基石，不受企业和政府影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《赛博朋克2077》改编动画《赛博浪客》于9月13日在网飞上线后，获得广泛好评，并带动游戏重回热门。那《赛博浪客》第二季将在何时推出呢？《赛博浪客》制作人表示，目前还没有制作第二季的计划。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1328723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [涨价上千元 iPad 10与iPad 9有啥区别？](https://www.cnbeta.com/articles/tech/1328653.htm) | Wed Oct 19 2022 2:04 AM 
+- 🚀 [郭明錤：Apple TV售价将进一步下探 目标100美元以下](https://www.cnbeta.com/articles/tech/1328721.htm) | Wed Oct 19 2022 3:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在iPhone 14系列发布一个月后，苹果又出新品了，原本应该是主打低价的iPad产品线这次涨价了，&lt;strong&gt;iPad 10直接上涨千元，起售价3599元起。&lt;/strong&gt;需要注意的是，这次新品发布之后iPad 9并没有下架，甚至还涨价了100元继续在官网销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;知名分析师郭明錤在最新推文中表示苹果可能会下调 Apple TV 的售价，以希望提高其市场占有率。&lt;/strong&gt;苹果于本周二宣布了新款 Apple TV 4K，该型号该模型看到了一些可预测的升级，包括增加的存储空间和更强大的 A15 芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NVIDIA供货充足 1.3万RTX4090显卡开启降价模式](https://www.cnbeta.com/articles/tech/1328651.htm) | Wed Oct 19 2022 2:00 AM 
+- 🎊 [不给糖就捣乱 任天堂免费提供2022万圣节特别壁纸](https://www.cnbeta.com/articles/tech/1328719.htm) | Wed Oct 19 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;毕竟是万元的产品，而其需求还是在锐减的，叠加NVIDIA的供货充足，所以等待降价就是情理之中的事情。从一些第三方的平台，RTX4090已经开启降价模式，七彩虹RTX4090战斧豪华版闲鱼平台现货最低能到12099元，也有商户报12200元和12600元，京东平台预售12999元，均已破发，但是不包邮，顺丰到付。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;任天堂发布了2022年万圣节特别壁纸，供大家下载。&lt;/strong&gt;壁纸可在PC、手机，平板等多种设备上使用。即使2022年即将走到尾声，但任天堂依旧稳定输出，第一方大作《宝可梦 朱/紫》、《猎天使魔女3》等即将发售，《女神异闻录5皇家版》《双人成行》《哆啦A梦牧场物语2》《索尼克 未知边境》等第三方游戏加作也即将登陆Switch。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
