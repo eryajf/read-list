@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [世界杯最小主办国卡塔尔：人口200多万接待百万球迷 安保靠外援](https://www.cnbeta.com/articles/tech/1328909.htm) | Wed Oct 19 2022 2:32 PM 
+- 🕯 [世界首个电磁橇设施在山东济南成功运行](https://www.cnbeta.com/articles/tech/1328913.htm) | Wed Oct 19 2022 3:25 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，阶段性建成的世界首个电磁推进地面超高速试验设施——“电磁橇”设施，在济南成功运行，对于吨级及以上物体最高推进速度可达每小时1030公里，创造了大质量超高速电磁推进技术的世界最高速度纪录。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328913.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [新款Apple TV和第十代iPad均提供4GB内存](https://www.cnbeta.com/articles/tech/1328911.htm) | Wed Oct 19 2022 2:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Xcode准确揭示了几款iPhone、iPad和其他设备的内存量。，本周宣布的第三代Apple TV 4K和第十代iPad都配备了增加的RAM。新发布的Xcode 14.1候选版本证实，新的Apple TV和iPad都内置4GB的内存。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328911.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [世界杯最小主办国卡塔尔：人口200多万接待百万球迷 安保靠外援](https://www.cnbeta.com/articles/tech/1328909.htm) | Wed Oct 19 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;除了经济效益外，卡塔尔更期待通过世界杯来提升国家软实力。再过一个月的时间，2022年国际足协世界杯将如期在卡塔尔举办。对于已经有着92年历史的世界杯来说，也十分新鲜，这是世界杯第一次在中东国家举办，也是第一次在北半球冬季比赛。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328909.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉Cybertruck电池组将在弗里蒙特工厂制造](https://www.cnbeta.com/articles/tech/1328907.htm) | Wed Oct 19 2022 2:28 PM 
+- 🚀 [特斯拉Cybertruck电池组将在弗里蒙特工厂制造](https://www.cnbeta.com/articles/tech/1328907.htm) | Wed Oct 19 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;知情人士告诉Teslarati，&lt;strong&gt;特斯拉计划在弗里蒙特工厂的一条新电池生产线上开始为即将到来的Cybertruck制造电池组。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328907.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软正在打造Xbox移动游戏商店以对抗苹果和谷歌](https://hot.cnbeta.com/articles/game/1328905.htm) | Wed Oct 19 2022 2:17 PM 
+- 🎊 [微软正在打造Xbox移动游戏商店以对抗苹果和谷歌](https://hot.cnbeta.com/articles/game/1328905.htm) | Wed Oct 19 2022 2:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;微软正在建立一个Xbox移动商店，直接在移动设备上提供游戏，挑战苹果和谷歌。&lt;/strong&gt;这家软件巨头在今年早些时候首次暗示了它将为游戏而打造下一代商店，微软已经在提交给英国竞争和市场管理局（CMA）的文件中悄悄透露了计划的细节。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [爆料称iPhone SE 4将沿用iPhone XR的外形设计](https://www.cnbeta.com/articles/tech/1328903.htm) | Wed Oct 19 2022 2:14 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据知名泄密者Jon Prosser称，第四代iPhone SE将采用与iPhone XR几乎完全相同的设计。在他的Front Page Tech YouTube频道上的一段视频中说，第四代iPhone SE将沿用2018年的iPhone XR的设计。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [胶卷生产复苏柯达扩产 美国制造业薪资大涨为何仍招工难](https://www.cnbeta.com/articles/tech/1328901.htm) | Wed Oct 19 2022 2:12 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新的需求将为柯达创造新的就业机会，柯达表示，目前正在寻找75个空缺职位。但是现在的问题是，他们可能难以招到工人，或者需要为此支付更高的劳动报酬。小罐相机胶卷从未真正消失，但现在很难在商店货架上买到，这是由于胶卷产能不足。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
