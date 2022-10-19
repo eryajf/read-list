@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [宜家和Kodiak合作在美国德州展开自动驾驶送货试点服务](https://www.cnbeta.com/articles/tech/1328825.htm) | Wed Oct 19 2022 9:01 AM 
+- 🕯 [小米13 Pro的银色版本首次亮相](https://www.cnbeta.com/articles/tech/1328841.htm) | Wed Oct 19 2022 10:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;自动驾驶卡车初创公司 Kodiak Robotics 今天宣布，公司已和宜家（IKEA）合作在美国德克萨斯州展开自动驾驶货车送货试点服务。&lt;/strong&gt;一辆配备 Kodiak Robotics 自动驾驶系统的半挂卡车每天从休斯顿附近的宜家仓库出发，送货到大约 300 英里外的达拉斯附近的一家商店。该半挂自动驾驶卡车在行使全程配有人类驾驶员，以便于在某些时候接管避免交通事故。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328825.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，网上浮现一张泄露的图片展示了小米13 Pro的黑色版本。现在，TechGoing又提供了该型号的银色版本。该图片显示了一个方形的相机模块，在左边放置了一小一大两个相机。相机模块的右半部分放置了一个大摄像头，然后是一个药丸状的LED闪光灯和徕卡品牌。小米13 Pro的背板有着弯曲的边缘，形状与我们已经看到的黑色版本相同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [新抗癌技术在小鼠测试中表现出根除晚期癌症的能力](https://www.cnbeta.com/articles/science/1328823.htm) | Wed Oct 19 2022 9:01 AM 
+- 💼 [蓝箭真空型液氧甲烷发动机完成首次全系统试车：国内推力最大](https://www.cnbeta.com/articles/tech/1328839.htm) | Wed Oct 19 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;耶鲁大学和罗德岛大学&lpar;URI&rpar;的研究人员展示了一种新的抗癌技术，他们将免疫治疗药物附着在一种寻找癌细胞酸性环境的分子上。&lt;/strong&gt;在对小鼠的测试中，单剂量足以根除甚至是晚期肿瘤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328823.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月19日消息，近日，蓝箭航天“天鹊”真空型液氧甲烷发动机（ TQ-15A）在湖州成功完成了首次全系统热试车，试验时长20秒，试验过程中发动机起动关机正常、工作平稳。据介绍，TQ-15A为目前国内推力最大的真空型液氧甲烷发动机，真空推力达836千牛，是朱雀二号火箭第二批次的二级主发动机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [科学家开发光激活的“智能塑料” 可用于柔性电子产品和机器人](https://www.cnbeta.com/articles/science/1328821.htm) | Wed Oct 19 2022 8:56 AM 
+- 💂 [预计小米最早在23年6月取得造车资质 此前工程车已下线](https://www.cnbeta.com/articles/tech/1328837.htm) | Wed Oct 19 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，塑料可以是硬的，也可以是软的，但塑料可以同时具有这两种特性吗？&lt;strong&gt;得克萨斯大学奥斯汀分校的科学家们一直在探索这个问题，并生产出一种首创的材料，这种材料在某些部分是柔韧的，而在其他部分是坚硬的，&lt;/strong&gt;他们认为有一天这种材料会被用于柔性电子产品和机器人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328821.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;此前，小米集团创始人雷军曾透露，小米汽车的首台工程车已经于9月28日下线，小米汽车的下一个目标是将汽车工厂建设完工。不过目前为止，虽然距离高调宣布进军造车行业已经过去了数百天的时间，但是小米实际上还没有取得相关的汽车生产资质。这对于他们来说，无疑是一个必须解决的问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果在美国以外地区上调iPad Mini售价 欧洲涨幅最大](https://www.cnbeta.com/articles/tech/1328819.htm) | Wed Oct 19 2022 8:48 AM 
+- 🚀 [玩家曝PS4《战神：诸神黄昏》大小118GB 为前作两倍多](https://hot.cnbeta.com/articles/game/1328835.htm) | Wed Oct 19 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据MacRumors报道，&lt;strong&gt;苹果在周二更新了其在线商店的新入门级iPad和iPad Pro型号后，大幅提高了非美国市场现有iPad mini型号的价格。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328819.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;距离《战神：诸神黄昏》发售还有不到一个月，而巴西玩家@Ifnoelb今日发布推文表示，PS4版的《战神：诸神黄昏》文件大小为118.509GB。而对比来讲，2018年的《战神》仅有46GB。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [13代酷睿真能超：i9-13900KF水冷轻轻松松6.2GHz](https://www.cnbeta.com/articles/tech/1328817.htm) | Wed Oct 19 2022 8:47 AM 
+- 🎊 [已经有开发者收到索尼寄送的“PS5 Pro”开发机](https://hot.cnbeta.com/articles/game/1328833.htm) | Wed Oct 19 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Intel 13代酷睿、AMD锐龙7000不但预设频率空前之高，还特别能超，尤其是13代酷睿，风冷可以轻易6GHz，液氮更是已达8.2GHz。OCN超频团队成员Codiee1337从一家零售商那里提前搞到了一颗i9-13900KF，8+16 24核心，睿频最高5.8GHz，无核显。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328817.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;PS5已经推出两年时间了，虽然正值黄金期，但现在游戏主机的服役时间越来越短，通常3到4年就会有中期改款，看起来索尼已经在悄悄准备。业内人士Tez2给出消息，&lt;strong&gt;不少开发者已经收到了索尼寄送的“PS5 Pro”开发机。注意，这里的PS5 Pro是代指，开发者们被告知机器对应的就是中期升级款。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
