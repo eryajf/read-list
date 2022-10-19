@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android Compose 动画使用详解&lpar;四&rpar;动画配置之TweenSpec](https://juejin.cn/post/7156221166934294536) | Wed Oct 19 2022 1:53 PM 
+- 🤗 [不得不说，这个 canvas 的旋转半圆效果可能会闪瞎你的双眼🐶](https://juejin.cn/post/7156253720030740488) | Wed Oct 19 2022 4:01 PM 
     <details><summary>展开描述 ...</summary> 
-    本文对Compose动画的配置AnimationSpec进行了简单的介绍，并详细介绍了TweenSpec的使用，通过TweenSpec我们可以对动画的时长、延迟时间以及动画速率曲线进行配置 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 10 天，点击查看活动详情 前言 大家好，我是爱吃鱼的桶哥Z，在动画效果这方面来看，css 还是比 canvas 要略逊一筹， 
     </details> 
 
-- 🎡 [聊聊 K8S：K8S集群搭建实战](https://juejin.cn/post/7156220816529555487) | Wed Oct 19 2022 1:52 PM 
+- 🎡 [webassembly：小伙子，你渴望力量吗？](https://juejin.cn/post/7156250334082367496) | Wed Oct 19 2022 3:48 PM 
     <details><summary>展开描述 ...</summary> 
-    一、环境准备 1.1 硬件要求 序号 硬件 硬件 1 CPU 至少2核 2 内存 至少2G 3 磁盘 至少50G 1.2 集群节点 主机名 主机IP k8s-master01 10.211.55.15 
+    本文为稀土掘金技术社区首发签约文章。webassbmbly具有很优秀的性能，并且可以将其他语言的代码转换为二进制文件，使得浏览器可以使用，有很大的发展前景~ 
     </details> 
 
-- 🕯 [字节跳动后端面经（11）](https://juejin.cn/post/7156218503773552654) | Wed Oct 19 2022 1:42 PM 
+- 🕯 [使用brython做个迷宫游戏-2：制作地图](https://juejin.cn/post/7156240264862892063) | Wed Oct 19 2022 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-    MySQL索引数据结构、索引分类、联合索引、MySQL悲观锁和乐观锁怎么实现的 B+树、AVL、红黑 
+    使用brython做个迷宫游戏-2：制作地图；本篇文章的核心点为熟悉brython如何操作table。 
     </details> 
 
-- 🚀 [测试覆盖率治不好你的精神内耗](https://juejin.cn/post/7156218050981658638) | Wed Oct 19 2022 1:41 PM 
+- 🚀 [报名开启 | 第三届CID大会线下参会报名启动！](https://juejin.cn/post/7156239170984214564) | Wed Oct 19 2022 3:03 PM 
     <details><summary>展开描述 ...</summary> 
-    在测试覆盖率的讨论里我越来越疑惑了，当他们在谈论测试覆盖率时，他们口中的 60%，70%亦或是99%究竟代表着什么 
+    第三届「中国云计算基础架构开发者大会」将在2022年11月6日在杭州举办，为大家呈现30+精彩技术分享，内容涵盖网络、存储、虚拟化、云编排器、云操作系统、云安全、云固件、其他云原生技术等丰富议题。 
     </details> 
 
-- 💪 [【热修复】实时生效&amp;重启生效](https://juejin.cn/post/7156215804445327373) | Wed Oct 19 2022 1:32 PM 
+- 💪 [本地缓存至分布式缓存的演进，缓存和数据库不一致性问题的产生及解决](https://juejin.cn/post/7156237969202872350) | Wed Oct 19 2022 2:58 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 热修复按生效类型一共分为两种：实时生效和重启应用生效。 每种类型按模块分为：Dex 文件修复、res 资源文件修复和 so 文件修复。同时在虚拟机层面要考虑 Dalvik 虚拟机和 ART 虚拟 
+    本地缓存至分布式缓存的演进，缓存和数据库不一致性问题的产生及解决，用图文并茂的方式，可运行的代码案例结合常见的面试题，一点点的推导和分析发生的问题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
