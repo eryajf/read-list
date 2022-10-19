@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [美药管局申请法院禁止6家电子烟制造商“非法产销”](https://www.cnbeta.com/articles/tech/1328933.htm) | Wed Oct 19 2022 7:33 PM 
+- 🕯 [拜登政府批准28亿美元用于美国的EV电池和矿物生产](https://www.cnbeta.com/articles/tech/1328953.htm) | Wed Oct 19 2022 11:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国食品和药物管理局（下称“药管局”）18日通过美国司法部向联邦地区法院申请对6家电子烟制造商颁布永久性禁制令，指认这些企业在其电子烟产品上市前未向药管局提交审查申请，希望阻止涉事企业“非法制造、销售和分销产品”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328933.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;白宫于当地时间周三宣布，美国能源部&lpar;DOE&rpar;将从《两党基础设施法》中获得28亿美元的拨款，以此来支持其国内电池制造和矿产生产。&lt;/strong&gt;拜登政府也正在发起一项新的政府范围内的倡议以加强供应链来支持电动汽车&lpar;EV&rpar;制造。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [教培机构纷纷入局电商直播 会有下一个东方甄选吗？](https://www.cnbeta.com/articles/tech/1328931.htm) | Wed Oct 19 2022 7:32 PM 
+- 💼 [特斯拉第三季度营收214.54亿美元 净利润同比增长103%](https://www.cnbeta.com/articles/tech/1328951.htm) | Wed Oct 19 2022 11:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在教培转型的十字路口，第一个吃螃蟹的新东方成功了。东方甄选的现象级出圈，在三个月时间里为新东方带来了20亿元左右的GMV。珠玉在前，不少教培机构加入直播带货的行列，继豆神教育开设“豆神甄选”以来，好未来、高途也纷纷“下海”，分别推出“学家优品”和“高途好物”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328931.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;特斯拉汽车今天公布了该公司的2022财年第三季度财报。报告显示，特斯拉汽车第三季度总营收为214.54亿美元，与去年同期的137.57亿美元相比增长56%，而上一季度为169.34亿美元；归属于普通股股东的净利润为32.92亿美元，与去年同期归属于普通股股东的净利润的16.18亿美元相比增长103%，而上一季度归属于普通股股东的净利润为22.59亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Kindle卖这么贵 还赔钱：都因为一家垄断全球的中国厂商](https://www.cnbeta.com/articles/tech/1328929.htm) | Wed Oct 19 2022 5:26 PM 
+- 💂 [拜登基建法案电池产业首批补贴名单出炉 多家上市公司现身](https://www.cnbeta.com/articles/tech/1328949.htm) | Wed Oct 19 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当你打开购物软件，准备在五花八门的品牌里，买一个心仪的泡面盖。定睛一看，你会发现它们的屏幕类型，怎么都叫 E ink 墨水屏？可能你以为，E ink 是一种屏幕技术的统称。就好像什么 LCD 显示屏。但其实，它只是一家公司的名字，中文名叫元太科技。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328929.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间周三早晨，美国拜登政府宣布，&lt;span style=&quot;&quot;&gt;来自12个州的20处设施拿到总额为28亿美元的电动车电池制造及材料生产专项补贴&lt;/span&gt;，这也是美国基建法案下的首批补贴名单。&lt;strong&gt;作为背景，美国国会此前通过的《基建、芯片和科学法案》中，有关电动车本土产业的投资额超过&lt;span style=&quot;&quot;&gt;1350亿美元&lt;/span&gt;。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [RTX 3060 Ti升级GDDR6X显存：跑分飙升10％](https://www.cnbeta.com/articles/tech/1328927.htm) | Wed Oct 19 2022 5:22 PM 
+- 🚀 [Konami公布日式恐怖游戏新作《寂静岭f》](https://hot.cnbeta.com/articles/game/1328947.htm) | Wed Oct 19 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;RTX 40系列发布后，RTX 30系列还有升级款，RTX 3070 Ti、RTX 3060 Ti、RTX 3060的新版本都已经出现在驱动设备列表中，将会陆续低调上市。其中，RTX 3060 Ti核心规格不变，唯一的不同就是显存从GDDR6升级为GDDR6X。这能带来多少性能提升呢？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328927.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天（10月20日）早上的寂静岭系列直播活动上，Konami公开了数款寂静岭相关游戏作品，其中有一款名为《寂静岭f》的新作，故事设定在1960的日本，而且本作的开发工作是由台湾的NeoBards Entertainment负责。一起来看看预告片。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328947.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [120Gbps速度3倍于雷电4 Intel预览下一代雷电接口](https://www.cnbeta.com/articles/tech/1328925.htm) | Wed Oct 19 2022 5:21 PM 
+- 🎊 [《寂静岭：Townfall》正式公布 游戏全新预告欣赏](https://hot.cnbeta.com/articles/game/1328945.htm) | Wed Oct 19 2022 11:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在USB 80Gbps（原来的USB4 v2.0）正式公布后，Intel也首次预览了下一代雷电接口。Intel暂时没有使用“雷电5”的说法，但从多年惯例来看，应该跑不了。“雷电5”号称可以有着3倍雷电4的速度，也就是120Gbps&lt;/strong&gt;，不过这是一种特殊模式，主要用于单线连接高端显示器等场景，借助PAM3调制技术，可实现上行120Gbps（发送端），下行40Gbps（接收端），也就是非对称分流。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328925.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日&lpar;10月20日&rpar;在寂静岭系列直播活动上，科乐美公布了新作《寂静岭：Townfall》。该作由NO CODE Studios&lpar;《观测号》&rpar;开发，Annapurna Interactive&lpar;《星际拓荒》&rpar;负责发行。官方还发布了游戏新预告，一起来欣赏下吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
