@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [世界上95%的人都被通信网络覆盖 但40%的人却处于离线状态](https://www.cnbeta.com/articles/tech/1328851.htm) | Wed Oct 19 2022 11:09 AM 
+- 🕯 [三星预告与巴黎奢侈时尚品牌Maison Margiela的合作](https://www.cnbeta.com/articles/tech/1328873.htm) | Wed Oct 19 2022 12:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;GSMA发布了一份新报告，调查发现世界上95%的人生活在有移动网络覆盖的地区，但仍有40%的人处于离线状态，这个巨大的差距带来了&amp;quot;深远的影响&amp;quot;，特别是在中低收入国家，移动连接比宽带更重要。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;几年来，三星与时装设计师汤姆-布朗（Thom Browne）合作，创造了特别版的可折叠产品（以及智能手表），但今年的时尚联名产品却很少，直到最近。三星刚刚发布了与奢侈时尚品牌Maison Margiela合作的预告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328873.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [长期喝甜饮料危害到底有多大 30年间关联死亡人数几乎翻倍](https://www.cnbeta.com/articles/tech/1328849.htm) | Wed Oct 19 2022 11:06 AM 
+- 💼 [联想新ThinkPad X1 Fold折叠屏笔记本即将上市 最高可选i7-1260U](https://www.cnbeta.com/articles/tech/1328871.htm) | Wed Oct 19 2022 12:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你平常有喝奶茶或者其他饮料的习惯吗？如果答案是“有”的话，今天这条热搜可要注意了——文章显示：2022年7月，中国疾控中心周脉耕等发表在《欧洲公共健康杂志》上的一项研究发现，从1990年到2019年，&lt;strong&gt;30年间我国居民因过量摄入含糖饮料而死亡的人数几乎翻了一番&lt;/strong&gt;，过量摄入含糖饮料导致的死亡率也增加了35%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在今年的IFA 2022展会上，联想曾展示了第二代ThinkPad X1 Fold折叠屏笔记本，现在，联想官网公布了这款笔记本的详细参数信息。据悉，&lt;strong&gt;第二代ThinkPad X1 Fold能够选择i5-1230U或i7-1260U处理器，内存最高可选32GBLPDDR5-5200，内置M.2 2242 SSD，可选最大1TB存储空间。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328871.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果iPad Pro明天预售 顶配卖将近2万元](https://www.cnbeta.com/articles/tech/1328847.htm) | Wed Oct 19 2022 10:41 AM 
+- 💂 [新方法使科学家们能够以前所未有的细节观察细胞的分泌情况](https://www.cnbeta.com/articles/science/1328869.htm) | Wed Oct 19 2022 12:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，苹果官网显示，iPad Pro将于明天上午9点接受预订，10月26日正式开卖。售价方面，&lt;strong&gt;iPad Pro 11英寸版本起售价6799元，12.9英寸版本起售价9299元。&lt;/strong&gt;这次iPad Pro提供了Wi-Fi版和蜂窝版两种选择，最高提供2TB存储，其中iPad Pro 12.9英寸2TB蜂窝版价格达到了19799元，价格堪比苹果MacBook Pro。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们知道詹姆斯-韦伯望远镜刚刚能够捕捉到令人叹为观止的遥远星系的照片，而这些星系在以前只能看到朦胧的斑块。&lt;strong&gt;观察单细胞蛋白质分泌的&amp;quot;詹姆斯韦伯&amp;quot;则是由圣路易斯华盛顿大学的研究人员使用一种革命性的技术创造出来的，该技术可以对细胞产生的蛋白质实现惊人的详细可视化。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328869.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [SpaceX的航空卫星互联网服务Starlink Aviation明年开始运营](https://www.cnbeta.com/articles/tech/1328845.htm) | Wed Oct 19 2022 10:40 AM 
+- 🚀 [奥密克戎BQ.1.1开始在欧洲蔓延](https://www.cnbeta.com/articles/tech/1328867.htm) | Wed Oct 19 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;SpaceX公司宣布，随着明年Starlink Aviation的正式推出，该公司的卫星互联网服务Starlink将很快在特定的飞机上提供。该公司声称，该服务将为配备其航空终端的每架飞机提供高达350Mbps的互联网速度，它说这对于旅客在空中进行视频通话、在线游戏&amp;quot;和其他高数据率活动&amp;quot;来说足够快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据海外媒体周二（18日）报道，一种奥密克戎新型变异毒株BQ.1.1正在欧洲国家蔓延开来。据了解，这种毒株具有高度的免疫逃逸特性，更容易逃脱由先前感染或接种疫苗产生的抗体。根据Cov-Spectrum平台的数据，10月初，BQ.1.1感染者占法国阳性病例的16%，9月底为6%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328867.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究人员一种更容易和更安全合成药物的方法](https://www.cnbeta.com/articles/science/1328843.htm) | Wed Oct 19 2022 10:36 AM 
+- 🎊 [曝《寂静岭2》重制版将于明早公布 或登陆PS和Steam](https://hot.cnbeta.com/articles/game/1328865.htm) | Wed Oct 19 2022 12:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;研究人员正在利用碳化物的力量来改善药物制造。羧基是有机化学中适应性最强的构件之一，但它们在高温下出问题的可能也很大，由于它们在实验室中的爆炸性，科学家们经常避免使用这些非常活跃的分子。然而，在刚刚发表在《科学》杂志上的一项新研究中，来自俄亥俄州立大学的研究人员描述了一种新的、更安全的方法，将这些短命的、高能的分子变成更稳定的分子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《寂静岭》新作将于北京时间明日早上5点公布，油管直播页面已上线。ResetEra用户Toumari通过对油管直播页面进行数据挖掘发现，后台标签有多个《寂静岭》相关的条目，此外还出现了PlayStation和Steam。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328865.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
