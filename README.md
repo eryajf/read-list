@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [小米13 Pro的银色版本首次亮相](https://www.cnbeta.com/articles/tech/1328841.htm) | Wed Oct 19 2022 10:28 AM 
+- 🕯 [世界上95%的人都被通信网络覆盖 但40%的人却处于离线状态](https://www.cnbeta.com/articles/tech/1328851.htm) | Wed Oct 19 2022 11:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，网上浮现一张泄露的图片展示了小米13 Pro的黑色版本。现在，TechGoing又提供了该型号的银色版本。该图片显示了一个方形的相机模块，在左边放置了一小一大两个相机。相机模块的右半部分放置了一个大摄像头，然后是一个药丸状的LED闪光灯和徕卡品牌。小米13 Pro的背板有着弯曲的边缘，形状与我们已经看到的黑色版本相同。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;GSMA发布了一份新报告，调查发现世界上95%的人生活在有移动网络覆盖的地区，但仍有40%的人处于离线状态，这个巨大的差距带来了&amp;quot;深远的影响&amp;quot;，特别是在中低收入国家，移动连接比宽带更重要。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [蓝箭真空型液氧甲烷发动机完成首次全系统试车：国内推力最大](https://www.cnbeta.com/articles/tech/1328839.htm) | Wed Oct 19 2022 10:19 AM 
+- 💼 [长期喝甜饮料危害到底有多大 30年间关联死亡人数几乎翻倍](https://www.cnbeta.com/articles/tech/1328849.htm) | Wed Oct 19 2022 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月19日消息，近日，蓝箭航天“天鹊”真空型液氧甲烷发动机（ TQ-15A）在湖州成功完成了首次全系统热试车，试验时长20秒，试验过程中发动机起动关机正常、工作平稳。据介绍，TQ-15A为目前国内推力最大的真空型液氧甲烷发动机，真空推力达836千牛，是朱雀二号火箭第二批次的二级主发动机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你平常有喝奶茶或者其他饮料的习惯吗？如果答案是“有”的话，今天这条热搜可要注意了——文章显示：2022年7月，中国疾控中心周脉耕等发表在《欧洲公共健康杂志》上的一项研究发现，从1990年到2019年，&lt;strong&gt;30年间我国居民因过量摄入含糖饮料而死亡的人数几乎翻了一番&lt;/strong&gt;，过量摄入含糖饮料导致的死亡率也增加了35%。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [预计小米最早在23年6月取得造车资质 此前工程车已下线](https://www.cnbeta.com/articles/tech/1328837.htm) | Wed Oct 19 2022 10:08 AM 
+- 💂 [苹果iPad Pro明天预售 顶配卖将近2万元](https://www.cnbeta.com/articles/tech/1328847.htm) | Wed Oct 19 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;此前，小米集团创始人雷军曾透露，小米汽车的首台工程车已经于9月28日下线，小米汽车的下一个目标是将汽车工厂建设完工。不过目前为止，虽然距离高调宣布进军造车行业已经过去了数百天的时间，但是小米实际上还没有取得相关的汽车生产资质。这对于他们来说，无疑是一个必须解决的问题。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，苹果官网显示，iPad Pro将于明天上午9点接受预订，10月26日正式开卖。售价方面，&lt;strong&gt;iPad Pro 11英寸版本起售价6799元，12.9英寸版本起售价9299元。&lt;/strong&gt;这次iPad Pro提供了Wi-Fi版和蜂窝版两种选择，最高提供2TB存储，其中iPad Pro 12.9英寸2TB蜂窝版价格达到了19799元，价格堪比苹果MacBook Pro。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [玩家曝PS4《战神：诸神黄昏》大小118GB 为前作两倍多](https://hot.cnbeta.com/articles/game/1328835.htm) | Wed Oct 19 2022 10:06 AM 
+- 🚀 [SpaceX的航空卫星互联网服务Starlink Aviation明年开始运营](https://www.cnbeta.com/articles/tech/1328845.htm) | Wed Oct 19 2022 10:40 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;距离《战神：诸神黄昏》发售还有不到一个月，而巴西玩家@Ifnoelb今日发布推文表示，PS4版的《战神：诸神黄昏》文件大小为118.509GB。而对比来讲，2018年的《战神》仅有46GB。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328835.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;SpaceX公司宣布，随着明年Starlink Aviation的正式推出，该公司的卫星互联网服务Starlink将很快在特定的飞机上提供。该公司声称，该服务将为配备其航空终端的每架飞机提供高达350Mbps的互联网速度，它说这对于旅客在空中进行视频通话、在线游戏&amp;quot;和其他高数据率活动&amp;quot;来说足够快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [已经有开发者收到索尼寄送的“PS5 Pro”开发机](https://hot.cnbeta.com/articles/game/1328833.htm) | Wed Oct 19 2022 10:06 AM 
+- 🎊 [研究人员一种更容易和更安全合成药物的方法](https://www.cnbeta.com/articles/science/1328843.htm) | Wed Oct 19 2022 10:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;PS5已经推出两年时间了，虽然正值黄金期，但现在游戏主机的服役时间越来越短，通常3到4年就会有中期改款，看起来索尼已经在悄悄准备。业内人士Tez2给出消息，&lt;strong&gt;不少开发者已经收到了索尼寄送的“PS5 Pro”开发机。注意，这里的PS5 Pro是代指，开发者们被告知机器对应的就是中期升级款。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1328833.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;研究人员正在利用碳化物的力量来改善药物制造。羧基是有机化学中适应性最强的构件之一，但它们在高温下出问题的可能也很大，由于它们在实验室中的爆炸性，科学家们经常避免使用这些非常活跃的分子。然而，在刚刚发表在《科学》杂志上的一项新研究中，来自俄亥俄州立大学的研究人员描述了一种新的、更安全的方法，将这些短命的、高能的分子变成更稳定的分子。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1328843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
