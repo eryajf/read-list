@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Cofertility - 捐出一半即可免费冷冻卵子](https://xinquji.com/posts/180683?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:37 AM 
+- 👀 [Locale - 以 5 美元的运费发现并订购美国最好的食物](https://xinquji.com/posts/180691?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-     捐出一半即可免费冷冻卵子  
+     以 5 美元的运费发现并订购美国最好的食物  
     </details> 
 
-- 🥷 [Hyperproof - 扩展您的安全性和合规性 - SOC 2、ISO、NIST 等](https://xinquji.com/posts/180682?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:36 AM 
+- 🥷 [Vidstep - 为您的团队提供微培训](https://xinquji.com/posts/180690?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-     扩展您的安全性和合规性 - SOC 2、ISO、NIST 等  
+     为您的团队提供微培训  
     </details> 
 
-- 💼 [Assembly Workflow Templates - 适用于任何角色、团队和用例的 100 多个灵活模板](https://xinquji.com/posts/180681?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:34 AM 
+- 💼 [Dinero - 以有趣的方式积累财富](https://xinquji.com/posts/180689?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-     适用于任何角色、团队和用例的 100 多个灵活模板  
+     以有趣的方式积累财富  
     </details> 
 
-- 🦅 [MRKTPLACE - 思想家发表和交流有意义的想法的地方](https://xinquji.com/posts/180680?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:34 AM 
+- 🦅 [Hacker Stations - 技术专业人士的工作空间设置集合](https://xinquji.com/posts/180688?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     思想家发表和交流有意义的想法的地方  
+     技术专业人士的工作空间设置集合  
     </details> 
 
-- 😺 [Aqueduct - 将数据科学应用于生产](https://xinquji.com/posts/180679?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:32 AM 
+- 😺 [Kindle Highlight Export by Glasp - 一键从 Kindle 导出所有亮点和笔记](https://xinquji.com/posts/180687?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     将数据科学应用于生产  
+     一键从 Kindle 导出所有亮点和笔记  
     </details> 
 <!-- xinquji:END -->
