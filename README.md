@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[视频]跌落测试表明iPhone 14 Plus比iPhone 14 Pro Max更耐摔](https://www.cnbeta.com/articles/tech/1328555.htm) | Tue Oct 18 2022 11:23 PM 
+- 🕯 [首款搭载tvOS的设备退场：苹果停售2015版Apple TV HD](https://www.cnbeta.com/articles/tech/1328659.htm) | Wed Oct 19 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;设备保险公司 Allstate 近日对 iPhone 14 Plus 和 iPhone 14 Pro Max 两款设备进行了跌落测试。本次测试是通过 Dropbot 完成的，该机器人旨在帮助确定设备在从 6 英尺高处单次撞击后的易碎性。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨日晚，苹果发布了新一代的Apple TV 4K机顶盒，它搭载A15处理器，最大128GB存储空间，运行tvOS系统，性能强大。但很少有人注意到的是，&lt;strong&gt;苹果在新Apple TV推出的同时，悄然停止了另一款Apple TV的销售。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果全新iPad 10制造过程中100%采用再生金原料](https://www.cnbeta.com/articles/tech/1328553.htm) | Tue Oct 18 2022 11:05 PM 
+- 💼 [NXgenPort旨在在症状出现之前检测癌症患者的早期感染迹象](https://www.cnbeta.com/articles/tech/1328657.htm) | Wed Oct 19 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月18日晚，苹果第十代iPad（iPad 10）正式发布，售价3599元起，将于10月20日接受预订，10月26日正式发售。在iPad 10中，苹果再一次将环保理念发挥到了极致，苹果表示，为了最大限度降低对环境影响，&lt;strong&gt;iPad 10在多块印刷电路板的镀层中采用100%再生金，这在iPad机型中尚属首次。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据TechCrunch报道，NXgenPort是一家位于明尼苏达州圣保罗的初创公司，它希望在医生看病的间隙利用端口导管对癌症患者进行远程监控。&lt;strong&gt;NXgenPort周二在TechCrunch Disrupt Startup Battlefield上发表演讲，它正在建造一个可植入的化疗端口，其特点是增加了传感器和远程连接功能。&lt;/strong&gt;该端口将化疗端口的功效与传感器技术相结合，通过报告和跟踪患者在治疗过程中的反应，测量和远程监测早期并发症的发生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [下一代天玑旗舰芯片确定 天玑9200最快年底前亮相](https://www.cnbeta.com/articles/tech/1328551.htm) | Tue Oct 18 2022 11:04 PM 
+- 💂 [Twitter联合创始人创立的Bluesky公布了去中心化社交网络路线图](https://www.cnbeta.com/articles/tech/1328655.htm) | Wed Oct 19 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;数码爆料博主@数码闲聊站爆料称联发科&lt;strong&gt;下一代天玑系列旗舰芯片命名确定为“天玑9200”。&lt;/strong&gt;此前，天玑9200就被爆出出货时间比前代提前了许多，首款终端产品将会在年底前发布，大概率会是蓝厂的最新年度旗舰——vivo&amp;nbsp;X90系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2019 年年底，Twitter 联合创始人杰克·多西（Jack Dorsey）宣布，他的公司已经组建了一个小型的独立开发团队，并为其制定了一个目标：创建一个去中心化的社交媒体协议，作为在线新标准的基石，不受企业和政府影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [[图]联想展示笔记本原型：配卷轴屏幕 预估从9吋升至13.5吋](https://www.cnbeta.com/articles/tech/1328549.htm) | Tue Oct 18 2022 10:55 PM 
+- 🚀 [涨价上千元 iPad 10与iPad 9有啥区别？](https://www.cnbeta.com/articles/tech/1328653.htm) | Wed Oct 19 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在一段 Tech World 2022 演示视频中，联想展示了一款具备卷轴屏幕的笔记本原型。这款原型采用了传统的笔记本造型，但是屏幕部分可以向上延伸，从而提供更大的屏幕显示空间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328549.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在iPhone 14系列发布一个月后，苹果又出新品了，原本应该是主打低价的iPad产品线这次涨价了，&lt;strong&gt;iPad 10直接上涨千元，起售价3599元起。&lt;/strong&gt;需要注意的是，这次新品发布之后iPad 9并没有下架，甚至还涨价了100元继续在官网销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328653.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [iOS 16.1候选版本发布：引入iCloud共享照片图库 实时活动支持第三方APP](https://www.cnbeta.com/articles/tech/1328547.htm) | Tue Oct 18 2022 10:13 PM 
+- 🎊 [NVIDIA供货充足 1.3万RTX4090显卡开启降价模式](https://www.cnbeta.com/articles/tech/1328651.htm) | Wed Oct 19 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果今天面向开发人员推出了 iOS 16.1 的候选版本，正式版预估将会在下周推出。根据官方公开的更新日志，本次更新主要引入了 iCloud 共享照片图库，可以实现家人照片共享并保持更新状态。本次更新还在实时活动中加入了第三方 APP 的支持，并包括针对 iPhone 的其他功能和错误修复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328547.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;毕竟是万元的产品，而其需求还是在锐减的，叠加NVIDIA的供货充足，所以等待降价就是情理之中的事情。从一些第三方的平台，RTX4090已经开启降价模式，七彩虹RTX4090战斧豪华版闲鱼平台现货最低能到12099元，也有商户报12200元和12600元，京东平台预售12999元，均已破发，但是不包邮，顺丰到付。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1328651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
