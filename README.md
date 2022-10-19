@@ -338,7 +338,7 @@
     快动动小手指，助力心仪的网络安全创新产品“出道“吧。 
     </details> 
 
-- 🦄 [2022年全球白帽常用工具前十排行榜发布](https://www.freebuf.com/articles/347260.html) | Wed Oct 19 2022 6:29 AM 
+- 🦄 [2022年全球白帽常用工具排行榜TOP 10](https://www.freebuf.com/articles/347260.html) | Wed Oct 19 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
     几十年来，攻击方、白帽和安全从业者的工具不断演进，成为网络安全长河中最具技术特色的灯塔。 
     </details> 
