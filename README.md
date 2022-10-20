@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Arctic Wallet - 多链非托管加密钱包](https://xinquji.com/posts/180721?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:36 AM 
+- 👀 [Dasheet - 任何人都可以创建的数据可视化仪表板](https://xinquji.com/posts/180729?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-     多链非托管加密钱包  
+     任何人都可以创建的数据可视化仪表板  
     </details> 
 
-- 🥷 [eniston Knowledge Bases - 简单而强大的知识库软件](https://xinquji.com/posts/180720?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:34 AM 
+- 🥷 [Owledge - 向专家学习，成为成功的自由职业者](https://xinquji.com/posts/180728?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
-     简单而强大的知识库软件  
+     向专家学习，成为成功的自由职业者  
     </details> 
 
-- 💼 [Sleek Calendar 2.0 - 最清晰，最干净，最简单的日历和计划器](https://xinquji.com/posts/180719?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:34 AM 
+- 💼 [Kanjo Health - 通过游戏洞察力提供个性化的家庭心理保健](https://xinquji.com/posts/180727?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-     最清晰，最干净，最简单的日历和计划器  
+     通过游戏洞察力提供个性化的家庭心理保健  
     </details> 
 
-- 🦅 [Acho App Builder - 将业务数据转化为应用程序](https://xinquji.com/posts/180718?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:32 AM 
+- 🦅 [RankedVote - 如果只进行排名选择投票，SurveyMonkey](https://xinquji.com/posts/180726?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-     将业务数据转化为应用程序  
+     如果只进行排名选择投票，SurveyMonkey  
     </details> 
 
-- 😺 [Web3 Seems Legit - Web3 推特智慧，在每周时事通讯中策划](https://xinquji.com/posts/180717?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:31 AM 
+- 😺 [New Public - 建设更好的数字公共空间](https://xinquji.com/posts/180725?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-     Web3 推特智慧，在每周时事通讯中策划  
+     建设更好的数字公共空间  
     </details> 
 <!-- xinquji:END -->
