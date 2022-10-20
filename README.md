@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Intel宣布全新芯片代工模式：开放四种神技](https://www.cnbeta.com/articles/tech/1329339.htm) | Thu Oct 20 2022 4:18 PM 
+- 🕯 [背靠苹果还吃不饱饭 富士康打算赚特斯拉的钱了](https://www.cnbeta.com/articles/tech/1329343.htm) | Thu Oct 20 2022 5:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;相信大伙们都听说了，苹果最大的代工厂富士康，要造车了。&lt;strong&gt;在 10&amp;nbsp;月 18 日鸿海公司（&amp;nbsp;富士康的母公司&amp;nbsp;）的科技日上，也就是他们老板郭台铭生日的那天，富士康一口气发布了三辆车，分别是两厢车 Model B 、电动皮卡 Model V ，还有 Model C 量产版。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [鄱阳湖水域恢复105平方公里 太空卫星清晰可见](https://www.cnbeta.com/articles/tech/1329341.htm) | Thu Oct 20 2022 5:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今年夏秋季，长江流域经历了前所未有的干旱，诸多河流、湖泊水位急剧下降，不过进入10月份，形势终于好转。比如鄱阳湖，8月24日、9月5日、9月19日、9月27日、10月2日屡创水位新低，&lt;strong&gt;10月2日更是监测到今年以来最小水域面积，仅为600平方公里&lt;/strong&gt;，大片土地裸露，一度导致严重的扬沙天气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Intel宣布全新芯片代工模式：开放四种神技](https://www.cnbeta.com/articles/tech/1329339.htm) | Thu Oct 20 2022 4:18 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;2021年2月份Intel现任CEO基辛格上任之后，宣布了Intel史上最大规模的转型，推出了IDM 2.0战略，不仅要保住自己的x86芯片制造业务，同时还要重新杀入晶圆代工行业，跟三星、台积电抢市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [匹敌RTX 3080 Intel Arc显卡在国外售价被黄牛炒上天](https://www.cnbeta.com/articles/tech/1329337.htm) | Thu Oct 20 2022 4:17 PM 
+- 🚀 [匹敌RTX 3080 Intel Arc显卡在国外售价被黄牛炒上天](https://www.cnbeta.com/articles/tech/1329337.htm) | Thu Oct 20 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;10月12日，Intel Arc A7系列显卡在国内正式上线，官方限量公版售价A750 2499元、A770 3199元，其中A770主要对标RTX 3060，号称性价比吊打。尽管在国内市场的反响不算火热，可两款Arc显卡在海外则成了香饽饽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [谷歌被印度罚款1.6亿美元 存在Android相关垄断行为](https://www.cnbeta.com/articles/tech/1329335.htm) | Thu Oct 20 2022 4:13 PM 
+- 🎊 [谷歌被印度罚款1.6亿美元 存在Android相关垄断行为](https://www.cnbeta.com/articles/tech/1329335.htm) | Thu Oct 20 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;据报道，印度反垄断监管机构“竞争委员会”（CCI）今日宣布，已对谷歌处以133.8亿卢比（约合1.6195亿美元的）罚款，原因是该公司存在与Android移动设备相关的反竞争行为。此外，CCI还要求谷歌不得向智能手机制造商提供任何激励措施，让他们独家预装谷歌的搜索服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [RNG败北Ti11比赛 中单Maybe宣布退役：青春结束了](https://hot.cnbeta.com/articles/game/1329333.htm) | Thu Oct 20 2022 3:28 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今晚的Ti11比赛中，RNG的粉丝们可能要意难平了，不仅战队在比赛中输给了Entity，中单Maybe随后也在微博表示自己要退役了，宣称青春结束。&lt;strong&gt;MayBe表示，属于我的青春注定会有遗憾与意难平吧！谢谢所有人的关心与鼓励，我的青春结束了。Somnus out。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Meta推出更多的方法来保护人们在Instagram上免受虐待](https://www.cnbeta.com/articles/tech/1329331.htm) | Thu Oct 20 2022 3:27 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Meta公司推出了新的方法，以保护人们不在Instagram上看到该服务被滥用，Instagram是该公司的照片和短视频分享应用程序。这些新功能更多是对平台保护措施的改进，而不是全新的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
