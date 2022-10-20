@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何实现一个丝滑的点击水波效果](https://juejin.cn/post/7156404107627102244) | Thu Oct 20 2022 1:43 AM 
+- 🤗 [Windows 11 22H2 跳过系统初次启动时强制联网登录](https://juejin.cn/post/7156421272136581156) | Thu Oct 20 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本文为Varlet组件库源码主题阅读系列第九篇，读完本篇，可以了解到如何使用一个`div`创建一个点击的水波效果。 
+    前不久Windows 11的22H2版本发布了，可以说加入了很多便捷的功能，不过在安装新的系统并首次进入时会被要求强制使用在线账户联网登录，而在线账户常常因为网络问题无法登录，这将耗费我们大量时间。 
     </details> 
 
-- 🎡 [结构相似度索引（SSIM）全攻略：理论+代码（PyTorch）](https://juejin.cn/post/7156400018264424485) | Thu Oct 20 2022 1:27 AM 
+- 🎡 [详解闲鱼推荐系统、从0到1设计通用数据大屏搭建平台、WebCodecs视频导出实践 | 酱酱的下午茶第92期](https://juejin.cn/post/7156419288243372063) | Thu Oct 20 2022 2:42 AM 
     <details><summary>展开描述 ...</summary> 
-    有很多资料解释了SSIM背后的理论，但很少有资源深入研究细节，本文就是试图填补这一空白的谦虚尝试。最近，在实现一篇深度估计论文时，我遇到了术语结构相似性指数&lpar;SSIM&rpar; 。 
+    【掘金酱的下午茶】亮点： 现代 CSS 指南 -- at-rule 规则扫盲、 2022 你还不会微前端吗 &lpar;上&rpar; — 从巨石应用到微应用、 Three.js 进阶之旅：神奇的粒子 
     </details> 
 
-- 🕯 [【C/C++】1282. 用户分组](https://juejin.cn/post/7156397514717921287) | Thu Oct 20 2022 1:18 AM 
+- 🕯 [超强的苹果官网滚动文字特效实现](https://juejin.cn/post/7156417273463799838) | Thu Oct 20 2022 2:35 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，点击查看活动详情 本文包括题目描述、题目整理、题目的解题思路以及具体的实现和代码，逐步对题目进行详细解析，深入浅出总结 
+    每年的苹果新产品发布，其官网都会配套更新相应的单页滚动产品介绍页。其中的动画特效都非常有意思，今年 iPhone 14 Pro 的介绍页不例外。 最近，刚好有朋友问到，其对官网的一段文字特效特别感兴趣 
     </details> 
 
-- 🚀 [OKR之剑·理念篇03：OKR理念认同](https://juejin.cn/post/7156397485479428109) | Thu Oct 20 2022 1:17 AM 
+- 🚀 [部署LVS-DR群集](https://juejin.cn/post/7156259241408331790) | Wed Oct 19 2022 4:21 PM 
     <details><summary>展开描述 ...</summary> 
-    本文就我们对于OKR理念的理解和分析，和市面上一些变味的OKR实操，和大家探讨一下OKR理念，并初步介绍一下我们通过氛围来宣扬OKR理念的主要思路。 
+    1. LVS-DR工作原理 LVS-DR（Linux Virtual Server Director Server）工作模式，是生产环境中最常用的一种工作模式 LVS-DR模式，Director Se 
     </details> 
 
-- 💪 [深入浅出带你学习时间盲注](https://juejin.cn/post/7156388520779579405) | Thu Oct 20 2022 12:44 AM 
+- 💪 [webgl笔记&lpar;三&rpar; ——— 绘制图片](https://juejin.cn/post/7156204016538484767) | Wed Oct 19 2022 12:47 PM 
     <details><summary>展开描述 ...</summary> 
-    时间盲注又称延迟注入，适用于页面不会返回错误信息，只会回显一种界面&lpar;与布尔盲注类似&rpar;，其主要特征是利用sleep函数或者benchmark函数让mysql执行时间变长，制造时间延迟判断是否错报。 
+    我正在参加「掘金·启航计划」 摘要 上一篇文章介绍了webgl的坐标系，以及如何利用webgl并与屏幕进行交互，从而绘制点和线；这篇文章在此基础上将记录如何绘制三角形，以及利用三角形的绘制，与webg 
     </details> 
 <!-- juejin:END -->
 ### 少数派
