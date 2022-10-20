@@ -365,7 +365,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [FFmpeg 的 API 库介绍](https://www.v2ex.com/t/888574#reply0) | Thu Oct 20 2022 4:49 PM
-- 🤗 [如何禁止 Windows 10 的 Windows Update 安装所有驱动更新？](https://www.v2ex.com/t/888573#reply5) | Thu Oct 20 2022 4:45 PM
+- 🤗 [如何禁止 Windows 10 的 Windows Update 安装所有驱动更新？](https://www.v2ex.com/t/888573#reply7) | Thu Oct 20 2022 4:45 PM
 - 🎭 [VSCode Emmet 如何垂直生成标签?](https://www.v2ex.com/t/888571#reply1) | Thu Oct 20 2022 4:19 PM
 - 🥷 [越来越觉得自己是个可笑的笑话](https://www.v2ex.com/t/888565#reply13) | Thu Oct 20 2022 3:51 PM
 - 🐵 [我发现自己有代码仓鼠症，总喜欢扒拉 github 的一些开源代码，塞进自己的私有程序库。](https://www.v2ex.com/t/888561#reply5) | Thu Oct 20 2022 3:33 PM<!-- v2ex:END -->
