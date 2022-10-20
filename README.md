@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iPhone 14 Plus被认为仅能销售1000万台 但苹果仍计划坚持其总出货量目标](https://www.cnbeta.com/articles/tech/1329287.htm) | Thu Oct 20 2022 12:41 PM 
+- 🕯 [村田制作所认为2023年消费者对智能手机的需求将继续下降](https://www.cnbeta.com/articles/tech/1329311.htm) | Thu Oct 20 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;取消iPhone的&amp;quot;mini&amp;quot;版本并为基础型号加大屏幕的市场策略对改善苹果今年的销售没有什么作用，&lt;strong&gt;据称苹果已经向几个供应链伙伴发出通知，要求减少iPhone 14 Plus的产量。不过，这家科技巨头的目标仍然是在2022年达到新机型的总出货量目标，即最多9000万台。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为iPhone制造零部件的公司Murata Manufacturing（村田制作所）认为，智能手机销量的下降将持续到2023年。该公司估计，2021年，13.6亿部的出货量构成了全球智能手机市场。然而，2022日历年的总销量可能低于12亿部，这主要由中国市场的需求下降导致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [半价Model 3，撑起4万亿市值特斯拉？](https://www.cnbeta.com/articles/tech/1329283.htm) | Thu Oct 20 2022 12:32 PM 
+- 💼 [忽冷忽热！大范围升温之下 多地已回到初夏](https://www.cnbeta.com/articles/tech/1329309.htm) | Thu Oct 20 2022 1:49 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“特斯拉的市值，很可能超过苹果以及沙特阿美石油公司的市值总和。”这是特斯拉CEO埃隆·马斯克，在2022第三季度财报电话会上夸下的海口。他还预计，特斯拉市值将达到沙特阿美的2倍。作为参考，苹果目前的市值为2.3万亿美元，沙特阿美为2万亿美元，特斯拉市值约7000亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如今的天气越来越让人看不懂了。长时间、大范围、创纪录的酷热之后，冷空气连续来袭，很多地方“一夜入冬”，但最近几天，多地开始大范围升温，仿佛又回到了初夏。随着这一轮冷空气的主体南下，北方地区在过去两天率先开始升温，南方大部也在今天跟进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [突破100万安培 我国可控核聚变装置运行新记录诞生](https://www.cnbeta.com/articles/science/1329281.htm) | Thu Oct 20 2022 12:11 PM 
+- 💂 [传苹果正在测试支持M2 iPad Pro的macOS系统](https://www.cnbeta.com/articles/tech/1329307.htm) | Thu Oct 20 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月19日下午，中核集团科研团队再传佳绩，中国新一代“人造太阳”科学研究取得突破性进展，HL-2M等离子体电流突破100万安培，创造了我国可控核聚变装置运行新记录，标志着我国核聚变研发距离聚变点火迈进了重要一步，跻身国际第一方阵，技术水平居国际前列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一位泄密者声称，苹果正在为M2 iPad Pro开发一个专属的macOS版本，预计将在2023年的某个时间点推出。围绕iPad的主要抱怨之一是它缺乏桌面级软件支持，人们一直在呼吁苹果不仅要将Final Cut Pro移植到iPad上，还要将完整版的macOS移植到iPad上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [中国车为什么敢在欧洲卖那么贵？](https://www.cnbeta.com/articles/tech/1329279.htm) | Thu Oct 20 2022 12:09 PM 
+- 🚀 [消息称用于第十代iPad的键盘盖和Apple Pencil适配器配件将推迟数周发货](https://www.cnbeta.com/articles/tech/1329305.htm) | Thu Oct 20 2022 1:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近一批又一批中国品牌新能源汽车出海欧洲，光看看售价就觉得腰杆子不是一般的硬气，不妨感受下：比如，最近比亚迪汽车在欧洲发布的三款新车ATTO3（元PLUS）、汉以及唐的EV车型，售价分别为3.8万欧元、7.2万欧元以及7.2万欧元，约合人民币26.3万元、49.8万元以及49.8万元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;苹果最新的iPad的所有型号和配置仍然可以预购，并准时在2022年10月26日之前发货，但买家必须等待Apple Pencil、适配器和Magic Keyboard Folio。&lt;/strong&gt;苹果新的第十代iPad，加上更新的11英寸iPad Pro和12.9英寸iPad Pro，目前可以在10月26日发布之前进行预购。与苹果最近推出的许多产品不同，如iPhone 14 Pro和M2 MacBook Air，这些机型都还没有被推迟预订。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [阿迪朗达克的秋天 - 以卫星视角欣赏充满活力的色彩](https://www.cnbeta.com/articles/science/1329277.htm) | Thu Oct 20 2022 11:45 AM 
+- 🎊 [韩国：一场锂电池着火引发的“互联网大瘫痪”](https://www.cnbeta.com/articles/tech/1329303.htm) | Thu Oct 20 2022 1:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年夏天的干燥条件使美国许多地方的秋叶变得黯淡。然而，有一些地方的树叶颜色仍然流行，例如，纽约州东北部鲜艳的树叶颜色就并没有让赏叶者失望。2022年10月8日，当Landsat 9上的Operational Land Imager-2（OLI-2）获取这些卫星图像时，阿迪朗达克山的树叶处于本季的高峰或接近高峰的颜色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2万亿韩元市值蒸发。一场大火，导致了韩国网络大面积瘫痪。当地时间10月15日下午3点19分，位于韩国京畿道城南市盆唐区三平洞SK C&amp;amp;C板桥数据中心发生火灾。据韩国警方消息，起火地点为数据中心A栋地下3层电气室的锂电池架附近。电源堆放在五个电池架上，事发时，其中一个锂电池产生了火花并引发火灾，随后自动灭火设备启动并喷洒气体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
