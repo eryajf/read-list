@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [背靠苹果还吃不饱饭 富士康打算赚特斯拉的钱了](https://www.cnbeta.com/articles/tech/1329343.htm) | Thu Oct 20 2022 5:13 PM 
+- 🕯 [小行星2022 UQ1现被确认是露西号任务留下的太空垃圾](https://www.cnbeta.com/articles/science/1329363.htm) | Thu Oct 20 2022 11:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;相信大伙们都听说了，苹果最大的代工厂富士康，要造车了。&lt;strong&gt;在 10&amp;nbsp;月 18 日鸿海公司（&amp;nbsp;富士康的母公司&amp;nbsp;）的科技日上，也就是他们老板郭台铭生日的那天，富士康一口气发布了三辆车，分别是两厢车 Model B 、电动皮卡 Model V ，还有 Model C 量产版。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329343.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在大约一天的时间里，天文学家们认为他们捕捉到了一颗小行星，这是有记录以来观察到的距离地球最近的一次。但这个以前被称为小行星2022 UQ1的天体现在已经被正确地识别为一个助推器，它在2021年10月16日帮助NASA的露西航天器发射。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329363.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [鄱阳湖水域恢复105平方公里 太空卫星清晰可见](https://www.cnbeta.com/articles/tech/1329341.htm) | Thu Oct 20 2022 5:12 PM 
+- 💼 [科学家警告：气候变暖或造成北极病毒“溢出风险”](https://www.cnbeta.com/articles/science/1329361.htm) | Thu Oct 20 2022 11:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年夏秋季，长江流域经历了前所未有的干旱，诸多河流、湖泊水位急剧下降，不过进入10月份，形势终于好转。比如鄱阳湖，8月24日、9月5日、9月19日、9月27日、10月2日屡创水位新低，&lt;strong&gt;10月2日更是监测到今年以来最小水域面积，仅为600平方公里&lt;/strong&gt;，大片土地裸露，一度导致严重的扬沙天气。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329341.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;研究表明，随着全球气候变暖，北极病毒存在“溢出风险”。法新社18日报道称，科考队在加拿大黑曾湖地区进行采样，黑曾湖是全部水体位于北极圈以内的面积最大的湖泊。科考队收集的样本包括冰川融水形成河流的河床土壤，也包括黑曾湖本身的湖床土壤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329361.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Intel宣布全新芯片代工模式：开放四种神技](https://www.cnbeta.com/articles/tech/1329339.htm) | Thu Oct 20 2022 4:18 PM 
+- 💂 [Snap三季度营收不及预期 Snap美股盘后暴跌22%](https://www.cnbeta.com/articles/tech/1329359.htm) | Thu Oct 20 2022 11:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2021年2月份Intel现任CEO基辛格上任之后，宣布了Intel史上最大规模的转型，推出了IDM 2.0战略，不仅要保住自己的x86芯片制造业务，同时还要重新杀入晶圆代工行业，跟三星、台积电抢市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月20日周四，美国社交媒体SNAP发布第三季度业绩。财报显示，SNAP调整后每股收益为8美分，高于市场预期的小幅亏损或盈亏平衡。&lt;strong&gt;报告期内收入为11.3亿美元，低于市场预期的11.4亿美元，收入同比增速仅为5.7%，这是自公司2017年上市以来首次降至个位数，同时低于该公司自己在8月份预测的8%的增速。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329359.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [匹敌RTX 3080 Intel Arc显卡在国外售价被黄牛炒上天](https://www.cnbeta.com/articles/tech/1329337.htm) | Thu Oct 20 2022 4:17 PM 
+- 🚀 [《CoD19》4090可在4K/超高画质下超100FPS运行](https://hot.cnbeta.com/articles/game/1329357.htm) | Thu Oct 20 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月12日，Intel Arc A7系列显卡在国内正式上线，官方限量公版售价A750 2499元、A770 3199元，其中A770主要对标RTX 3060，号称性价比吊打。尽管在国内市场的反响不算火热，可两款Arc显卡在海外则成了香饽饽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;动视已将《使命召唤19：现代战争2》的单人战役部分提前提供给所有预购玩家。在这里国外媒体DSOGaming对其进行了测试，从画面来看，PC玩家还是可以当作一种享受。DSOGaming使用的是Inteli9 9900K，16GB 3800Mhz DDR4和NVIDIARTX 4090 Founders Edition。软件方面为64位 Windows 10和GeForce 522.25驱动。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [谷歌被印度罚款1.6亿美元 存在Android相关垄断行为](https://www.cnbeta.com/articles/tech/1329335.htm) | Thu Oct 20 2022 4:13 PM 
+- 🎊 [Intel i9 13900K首批第三方游戏基准测试分享](https://www.cnbeta.com/articles/tech/1329355.htm) | Thu Oct 20 2022 11:14 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，印度反垄断监管机构“竞争委员会”（CCI）今日宣布，已对谷歌处以133.8亿卢比（约合1.6195亿美元的）罚款，原因是该公司存在与Android移动设备相关的反竞争行为。此外，CCI还要求谷歌不得向智能手机制造商提供任何激励措施，让他们独家预装谷歌的搜索服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;英特尔已经解除了对英特尔酷睿i9-13900K情报的媒体合作伙伴禁令，这款全新旗舰CPU的首批游戏基准测试已经在网上浮出水面。因此，是时候看看新的英特尔高端CPU是否能够与AMD最新的高端锐龙CPU竞争了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
