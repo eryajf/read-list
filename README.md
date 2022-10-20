@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 德国网络安全负责人涉嫌“通俄”被解雇；Kakao CEO宣布辞职](https://www.freebuf.com/news/347301.html) | Wed Oct 19 2022 8:45 AM 
+- 🦄 [因配置错误，微软可能已泄露大量客户敏感数据](https://www.freebuf.com/news/347368.html) | Thu Oct 20 2022 3:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    错误配置可能导致未经身份验证的访问行为，从而暴露微软和客户之间某些业务文件、交易数据以及客户的个人信息。 
+    </details> 
+
+- 🦄 [实战打靶之Noter](https://www.freebuf.com/articles/web/347334.html) | Wed Oct 19 2022 11:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    靶机主要是从信息收集开始，发现是flask搭建的，然后使用flask unsign进行解密，暴力破解。接着使用枚举出的用户进行FTP登录，FTP登录之后，下载pdf文件，发现管理员账号和密码规则。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | 德国网络安全负责人涉嫌“通俄”被解雇；Kakao CEO宣布辞职](https://www.freebuf.com/news/347301.html) | Wed Oct 19 2022 8:45 AM 
     <details><summary>展开描述 ...</summary> 
     德国内政部长解雇了网络安全负责人Arne Schönbohm，他面临通过行业协会德国网络安全委员会与俄罗斯安全服务机构有联系的指控。 
     </details> 
 
-- 🦄 [年度创新安全产品花落谁家 |「WitAwards中国网安行业2022年度评选」火热进行中](https://www.freebuf.com/fevents/347287.html) | Wed Oct 19 2022 7:58 AM 
+- 🪄 [年度创新安全产品花落谁家 |「WitAwards中国网安行业2022年度评选」火热进行中](https://www.freebuf.com/fevents/347287.html) | Wed Oct 19 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
     快动动小手指，助力心仪的网络安全创新产品“出道“吧。 
     </details> 
 
-- 🦅 [2022年全球白帽常用工具排行榜TOP 10](https://www.freebuf.com/articles/347260.html) | Wed Oct 19 2022 6:29 AM 
+- 💻 [2022年全球白帽常用工具排行榜TOP 10](https://www.freebuf.com/articles/347260.html) | Wed Oct 19 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
     几十年来，攻击方、白帽和安全从业者的工具不断演进，成为网络安全长河中最具技术特色的灯塔。 
-    </details> 
-
-- 🪄 [在美国申请减免学生贷款？当心落入网络诈骗者圈套](https://www.freebuf.com/news/347236.html) | Wed Oct 19 2022 3:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    美国学生贷款减免计划已于10月17日正式开放免费申请，目前已有超过800万人提交了减免还款申请。 
-    </details> 
-
-- 💻 [31 名嫌疑人因使用无钥匙入侵技术盗取汽车，在欧洲被捕](https://www.freebuf.com/news/347226.html) | Wed Oct 19 2022 3:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    31人因利用无钥匙入侵技术偷窃汽车在欧洲被捕。 
     </details> 
 <!-- freebuf:END -->
 
