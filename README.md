@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JS_手写实现](https://juejin.cn/post/7156484807873003534) | Thu Oct 20 2022 6:56 AM 
+- 🤗 [10 分钟教会你如何看懂 MySQL 执行计划](https://juejin.cn/post/7156489649316167687) | Thu Oct 20 2022 7:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    通常查询慢查询SQL语句时会使用EXPLAIN命令来查看SQL语句的执行计划，通过返回的信息，可以了解到Mysql优化器是如何执行SQL语句，通过分析可以帮助我们提供优化的思路。 
+    </details> 
+
+- 🎡 [JS_手写实现](https://juejin.cn/post/7156484807873003534) | Thu Oct 20 2022 6:56 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是柒八九。 今天，我们继续前端面试的知识点。我们来谈谈关于JS手写的相关知识点和具体的算法。 该系列的文章，大部分都是前面文章的知识点汇总，如果想具体了解相关内容，请移步相关系列，进行探讨。 
     </details> 
 
-- 🎡 [OpenYurt v1.0 正式发布！一文了解三大社区 SIG 重点更新](https://juejin.cn/post/7156483277367443487) | Thu Oct 20 2022 6:50 AM 
+- 🕯 [OpenYurt v1.0 正式发布！一文了解三大社区 SIG 重点更新](https://juejin.cn/post/7156483277367443487) | Thu Oct 20 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
     经过 OpenYurt 社区各个 SIG 的一齐努力，OpenYurt v1.0 版本于北京时间 9 月 9 号正式发布。v1.0 版本重点关注代码品质提升，降低 OpenYurt 的入门门槛，以及核 
     </details> 
 
-- 🕯 [不想将部分代码打包到生产环境，怎么办？-----进阶突击篇](https://juejin.cn/post/7156481578690936863) | Thu Oct 20 2022 6:44 AM 
+- 🚀 [不想将部分代码打包到生产环境，怎么办？-----进阶突击篇](https://juejin.cn/post/7156481578690936863) | Thu Oct 20 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
     我正在参加「掘金·启航计划」，快来一起参与吧！ 前言 在前一篇文章里，我提到过，很不愿意采用字符串拼接本地测试代码的方式，经过这两天的思索，找到一个比较好的替代方式，即replace，具体内容见正文  
     </details> 
 
-- 🚀 [Flutter 组件集录 |  全面认识 AppBar  组件 - 使用篇](https://juejin.cn/post/7156481590950887432) | Thu Oct 20 2022 6:44 AM 
+- 💪 [Flutter 组件集录 |  全面认识 AppBar  组件 - 使用篇](https://juejin.cn/post/7156481590950887432) | Thu Oct 20 2022 6:44 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 6 天，点击查看活动详情 1. 前言 说起 AppBar 组件，大家都比较熟悉，默认情况下是一个 Material 风格的头部 
-    </details> 
-
-- 💪 [从4k到30k，产品路上我从未后悔](https://juejin.cn/post/7156480182642016293) | Thu Oct 20 2022 6:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    “你后不后悔做产品经理？” 对我而言，我不后悔，甚至希望能够一直做下去。 我的产品之路有些曲折，本打算继续考研，但奈何考研失败，从南京回到了成都。 刚踏入社会，对未来是迷茫的，加上是英语专业出身，自己 
     </details> 
 <!-- juejin:END -->
 ### 少数派
