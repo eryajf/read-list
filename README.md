@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android的RV列表刷新？Payload 与 Diff 的方式有什么异同？](https://juejin.cn/post/7156512023973462053) | Thu Oct 20 2022 8:42 AM 
+- 🤗 [设计模式之发布订阅模式](https://juejin.cn/post/7156528165848875039) | Thu Oct 20 2022 9:44 AM 
     <details><summary>展开描述 ...</summary> 
-    RecyclerView是我们常用的列表控件，一般来说当Item的数据改变的时候我们需要刷新当前的Item 。需要用到类似 Payload 与 Diff 之类的刷新方式 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第6天，点击查看活动详情 摘要 本文从上一篇的观察者模式出发，将需求进一步升级，推动代码演化到发布订阅模式。然后介绍了他的实现要点 
     </details> 
 
-- 🎡 [经久不衰的前端面试题：从输入URL到页面展示发生了什么？](https://juejin.cn/post/7156507687713243172) | Thu Oct 20 2022 8:25 AM 
+- 🎡 [Linux 0.11 boot：main 醒之前](https://juejin.cn/post/7156523175307247653) | Thu Oct 20 2022 9:25 AM 
     <details><summary>展开描述 ...</summary> 
-    浏览器里，从输入 URL 到页面展示，这中间发生了什么？ ”这是一道经典的面试题，能比较全面地考察应 
+    笔记：读 Linux 源码。 Linux 0.11 boot：main 醒之前 开机：操作系统 boot： bootsect 载入 kernel code setup：设中断，et 
     </details> 
 
-- 🕯 [Htmx 意外走红，我们从 React“退回去”后：代码行数减少 67%，JS 依赖项从 255 下降到 9](https://juejin.cn/post/7156507227669413895) | Thu Oct 20 2022 8:24 AM 
+- 🕯 [『牛客_每日一题』模板队列](https://juejin.cn/post/7156522982758678542) | Thu Oct 20 2022 9:25 AM 
     <details><summary>展开描述 ...</summary> 
-    本文来自InfoQ,作者:Tina，核子可乐 htmx 的走红 过去 Web 非常简单。URL 指向服务器，服务器将数据混合成 html，然后在浏览器上呈现该响应。围绕这种简单范式，诞生了各种 Jav 
+    1.每日一题 原题链接：戳我戳我 描述 请你实现一个队列。 操作： push x：将 x 加入队尾，保证 x 为 int 型整数。 pop：输出队首，并让队首出队 front：输出队首：队首不出队 输 
     </details> 
 
-- 🚀 [Socket 源码浅析 - 实现自定义 Socket 协议簇（1）Socket 简介](https://juejin.cn/post/7156490890645602335) | Thu Oct 20 2022 7:19 AM 
+- 🚀 [iOS 下载多文件管理](https://juejin.cn/post/7156519683670638629) | Thu Oct 20 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    浅入浅出 socket 源码。在 Linux 内核中，实现一个自定义的 socket 套接字协议簇。 
+    我正在参加「掘金·启航计划」 前言 项目自从接入 unity 后，关于资源方面下载数据就增多了，下载种类也变的不一样了。以前手动下载，直接调一下封装好的的 API 就好，也没什么难度，但现在又说什么静 
     </details> 
 
-- 💪 [Android新手开发指南-build.gradle篇（一）](https://juejin.cn/post/7156488537167609869) | Thu Oct 20 2022 7:11 AM 
+- 💪 [NPM包魔改利器 patch-package 给包打补丁](https://juejin.cn/post/7156518889151528997) | Thu Oct 20 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-    Android保姆级教程之build.gradle&lpar;:app&rpar;的初步涉及，浅谈targetSdk、compileSdk以及dependencies。 
+    缘起 当然其他方法也有很多种，patch-package 对比 其他方法 算是最优解吧 安装 大概意思就是说：大多数情况下在npm包 安装和卸载的时候 patch-package 会通过 diff 去 
     </details> 
 <!-- juejin:END -->
 ### 少数派
