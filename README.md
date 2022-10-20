@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《老友记》钱德勒演员：曾一天服用55片止痛药，导致结肠爆裂](https://hot.cnbeta.com/articles/movie/1329251.htm) | Thu Oct 20 2022 9:08 AM 
+- 🕯 [认清现实自降2万 一汽丰田首款纯电SUV上市定档：只需20万起](https://www.cnbeta.com/articles/tech/1329263.htm) | Thu Oct 20 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《老友记》钱德勒扮演者马修·派瑞在回忆录中透露自己因长期服用止痛片，导致结肠爆裂，四年前医生曾通知家人他只有2%的生存可能。马修直言其实在出演《老友记》时他就患上了严重的酒瘾，止痛药依赖成瘾也差点毁了他，最严重时他每天服用55片止痛片，体重下降到116斤。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一汽丰田品牌旗下首款纯电SUV车型&lt;strong&gt;bZ4X将于10月25日上市&lt;/strong&gt;。该车此前已开启预售，共推出五款车型，售价区间22~30万元，然而没过几天，其又官宣下调了高车的预售价格，&lt;strong&gt;最新版为20-29万元，相比于此前，最多便宜2万块&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPhone 14 Plus人气低迷：爆料称苹果砍去近40%订单](https://www.cnbeta.com/articles/tech/1329249.htm) | Thu Oct 20 2022 9:03 AM 
+- 💼 [ASML：所有EUV客户均订购了下一代高NA极紫外光刻机 单价翻番到26亿](https://www.cnbeta.com/articles/tech/1329261.htm) | Thu Oct 20 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;DigiTimes 援引多个供应链和渠道商的消息称：&lt;strong&gt;由于在推出后不到两周的销量很是低迷，苹果已向制造商发去通知，将该机型的产能大幅砍掉了近四成。&lt;/strong&gt;此外正如组件出货量变动所暗示的那样，据说苹果正在将更多产能向 iPhone 14 Pro / Pro Max 机型转移。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;ASML（荷兰阿斯麦）正抓紧研制其下一代高NA（0.55数值孔径）的EUV极紫外光刻机，在发布最新财报期间，AMSL透露，其存量EUV客户均订购了新一代设备。具体来说，在Intel和台积电之后，三星、SK海力士、美光等也下单高NA EUV光刻机了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [微软悄然公布WSA路线图：即将引入Android 13系统支持](https://www.cnbeta.com/articles/tech/1329247.htm) | Thu Oct 20 2022 8:53 AM 
+- 💂 [樱桃的最新机械键盘轴Ergo Clear的灵感来自十多年前的爱好者社区](https://www.cnbeta.com/articles/tech/1329259.htm) | Thu Oct 20 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软近日对 Windows 11 端的 Windows Subsystem for Android（WSA）子系统带来了一些更新。根据微软在 Github 上悄悄发布的更新路线图，WSA 的更新速度明显加快，并会在近期推出一个重大更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;德国键盘制造商Cherry从其现有的一个轴的流行版修改中获得了灵感，该公司在本周的一份新闻稿中宣布了新款键盘轴MX Ergo Clear，但其设计可以追溯到2011年机械键盘论坛GeekHack上的一个DIY修改。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [“只租不卖”不到2周 蔚来考虑在欧洲提供买断选项](https://www.cnbeta.com/articles/tech/1329245.htm) | Thu Oct 20 2022 8:48 AM 
+- 🚀 [3纳米芯片量产再度延后？台积电：制程发展符合预期、良率高](https://www.cnbeta.com/articles/tech/1329257.htm) | Thu Oct 20 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;蔚来考虑在先前“只租不卖”的欧洲市场提供买断选项。&lt;strong&gt;当地时间10月7日，蔚来在德国柏林举行欧洲发布会，共推出ET7、EL7和ET5三款车型，并宣布先期将以“只租不卖”的形式进入德国、荷兰、丹麦、瑞典四国市场，一度引发欧洲舆论的关注。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;日前韩媒报道称，台积电再度将3纳米芯片量产时程延后三个月。对此，台积电表示，3纳米制程的发展符合预期，良率高，将在第4季稍后量产。&lt;/strong&gt;据台媒《经济日报》报道，业界人士指出，韩媒之所以用“再度延后”的字眼，应与台积电最初释出“3纳米预计2022年下半年量产”的说法有关，韩媒可能认为“2022年下半年”指的是7月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [调查：67%的欧洲科技界女性认为与男性相比报酬过低 一半的人遭遇过性别歧视](https://www.cnbeta.com/articles/tech/1329243.htm) | Thu Oct 20 2022 8:48 AM 
+- 🎊 [韩媒称三星电子计划将图像传感器等更多非存储芯片外包](https://www.cnbeta.com/articles/tech/1329255.htm) | Thu Oct 20 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据TechCrunch报道，上个月，在国际同工同酬日，国际劳工组织（ILO）组织透露，全球女性的平均工资比男性低20%左右。黑人和西班牙裔女性的这种薪酬差距甚至更大，发现黑人女性的收入比白人男子低63%以上，西班牙裔或拉丁裔女性低57.3%。&lt;strong&gt;在一项又一项的调查中，这种公然的性别歧视不断被证明在科技行业中是明显的，而一项新的调查提供了另一个令人沮丧的关于女性如何被对待的一瞥。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;6月份就已开始采用3nm制程工艺为相关客户代工晶圆的三星电子，在芯片制造商方面其实实力不俗，他们旗下有多座芯片工厂，在技术方面也走在行业的前列。但即便三星电子在芯片制造方面实力不俗，他们也有将部分芯片外包其他厂商代工，去年就曾有报道称他们同其他厂商签订了图像传感器代工协议，并计划出售数百套晶圆厂的设备，支持相关的代工商建厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
