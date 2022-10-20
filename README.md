@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [认清现实自降2万 一汽丰田首款纯电SUV上市定档：只需20万起](https://www.cnbeta.com/articles/tech/1329263.htm) | Thu Oct 20 2022 10:16 AM 
+- 🕯 [三季度业绩创纪录 马斯克确认新平台存在](https://www.cnbeta.com/articles/tech/1329273.htm) | Thu Oct 20 2022 11:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一汽丰田品牌旗下首款纯电SUV车型&lt;strong&gt;bZ4X将于10月25日上市&lt;/strong&gt;。该车此前已开启预售，共推出五款车型，售价区间22~30万元，然而没过几天，其又官宣下调了高车的预售价格，&lt;strong&gt;最新版为20-29万元，相比于此前，最多便宜2万块&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329263.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在经历了二季度业绩的环比下跌后，特斯拉终于迎来了一次业绩爆发。10月20日，特斯拉发布了2022年三季度财报。财报显示，特斯拉在营业收入、营业利润和自由现金流方面再次创下记录。而这明显离不开中国在生产和销售领域的贡献，因为相关公布数据显示，在整个三季度中，上海工厂贡献了特斯拉全球交付量中的一半以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [ASML：所有EUV客户均订购了下一代高NA极紫外光刻机 单价翻番到26亿](https://www.cnbeta.com/articles/tech/1329261.htm) | Thu Oct 20 2022 10:15 AM 
+- 💼 [“秒”要被重新定义了 潘建伟团队这项“国际首次”研究功不可没](https://www.cnbeta.com/articles/science/1329271.htm) | Thu Oct 20 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;ASML（荷兰阿斯麦）正抓紧研制其下一代高NA（0.55数值孔径）的EUV极紫外光刻机，在发布最新财报期间，AMSL透露，其存量EUV客户均订购了新一代设备。具体来说，在Intel和台积电之后，三星、SK海力士、美光等也下单高NA EUV光刻机了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329261.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你以为的那个&lt;strong&gt;“一秒钟”&lt;/strong&gt;，可能不再是你以为的你以为了。之所以这么说，是因为中国科学技术大学&lt;strong&gt;潘建伟&lt;/strong&gt;团队完成了一项&lt;strong&gt;“国际首次”&lt;/strong&gt;的研究：实现百公里自由空间时频传递。并且这项研究已经在 &lt;strong&gt;Nature&lt;/strong&gt; 上发表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [樱桃的最新机械键盘轴Ergo Clear的灵感来自十多年前的爱好者社区](https://www.cnbeta.com/articles/tech/1329259.htm) | Thu Oct 20 2022 10:13 AM 
+- 💂 [国航实现国内首架宽体机国产可持续航空燃料交付飞行](https://www.cnbeta.com/articles/tech/1329269.htm) | Thu Oct 20 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;德国键盘制造商Cherry从其现有的一个轴的流行版修改中获得了灵感，该公司在本周的一份新闻稿中宣布了新款键盘轴MX Ergo Clear，但其设计可以追溯到2011年机械键盘论坛GeekHack上的一个DIY修改。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329259.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年10月20日，国航在天津空客交付中心接收空客350宽体机，并使用国产可持续航空燃料执行接收后的首次飞行。这是继2011年国航执飞中国首次生物燃料验证飞行后，在可持续航空燃料领域的又一次积极探索。国航成为国内首家使用国产可持续航空燃料交付宽体客机的航司，同时也是国内首家在空客、波音机型上均开展可持续航空燃料应用的航司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [3纳米芯片量产再度延后？台积电：制程发展符合预期、良率高](https://www.cnbeta.com/articles/tech/1329257.htm) | Thu Oct 20 2022 10:08 AM 
+- 🚀 [RTX 40还有4插槽巨型散热器 可压制900W功耗](https://www.cnbeta.com/articles/tech/1329267.htm) | Thu Oct 20 2022 11:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;日前韩媒报道称，台积电再度将3纳米芯片量产时程延后三个月。对此，台积电表示，3纳米制程的发展符合预期，良率高，将在第4季稍后量产。&lt;/strong&gt;据台媒《经济日报》报道，业界人士指出，韩媒之所以用“再度延后”的字眼，应与台积电最初释出“3纳米预计2022年下半年量产”的说法有关，韩媒可能认为“2022年下半年”指的是7月。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329257.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这几年，高端显卡功耗越来越高，散热器的设计和体积也越来越夸张。RTX 4090 FE公版第一次做到了3.5插槽，更厚的非公版比比皆是，4插槽也随处可见。据曝料，&lt;strong&gt;NVIDIA曾经为RTX 40设计过一个更暴力的散热器，完整的4插槽体积，最大散热能力达到惊人的900W，是现在RTX 4090的足足两倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [韩媒称三星电子计划将图像传感器等更多非存储芯片外包](https://www.cnbeta.com/articles/tech/1329255.htm) | Thu Oct 20 2022 9:41 AM 
+- 🎊 [俄罗斯巧克力“全是国产的”？不懂别乱说](https://www.cnbeta.com/articles/tech/1329265.htm) | Thu Oct 20 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;6月份就已开始采用3nm制程工艺为相关客户代工晶圆的三星电子，在芯片制造商方面其实实力不俗，他们旗下有多座芯片工厂，在技术方面也走在行业的前列。但即便三星电子在芯片制造方面实力不俗，他们也有将部分芯片外包其他厂商代工，去年就曾有报道称他们同其他厂商签订了图像传感器代工协议，并计划出售数百套晶圆厂的设备，支持相关的代工商建厂。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329255.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;以“科技与狠活”火爆网络的辛吉飞最近再放“狠话”：他声称俄罗斯地处北方，根本不产可可豆，因此也无法生产巧克力制品，并由此断言市场上的俄罗斯巧克力“全是国产的”……但这次买账的人却不那么多了。这番言论一出，辛吉飞受到了网友的激烈批评。那么问题来了，俄罗斯到底能不能产巧克力？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
