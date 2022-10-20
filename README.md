@@ -345,7 +345,7 @@
 
 - 🦅 [实战打靶之Noter](https://www.freebuf.com/articles/web/347334.html) | Wed Oct 19 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-    靶机主要是从信息收集开始，发现是flask搭建的，然后使用flask unsign进行解密，暴力破解。接着使用枚举出的用户进行FTP登录，FTP登录之后，下载pdf文件，发现管理员账号和密码规则。 
+    靶机主要是从信息收集开始，发现是flask搭建的，然后使用flask unsign进行解密，暴力破解。 
     </details> 
 
 - 🪄 [FreeBuf早报 | 德国网络安全负责人涉嫌“通俄”被解雇；Kakao CEO宣布辞职](https://www.freebuf.com/news/347301.html) | Wed Oct 19 2022 8:45 AM 
