@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [特斯拉承诺至多回购百亿美元股票 有那么多现金吗？](https://www.cnbeta.com/articles/tech/1329133.htm) | Thu Oct 20 2022 4:02 AM 
+- 🕯 [Ring 0级固件威胁：新型UEFI rootkit恶意软件BlackLotus曝光](https://www.cnbeta.com/articles/tech/1329141.htm) | Thu Oct 20 2022 5:39 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;最近引发广泛讨论的“BlackLotus”，属于一款相当全能的固件级 rootkit 恶意软件。特点是能够躲过各种删除操作，以及绕过先进的 Windows 防护措施。&lt;/strong&gt;此前这类高级攻击能力，仅被拥有深厚背景的机构所拥有，比如情报威胁组织。然而据报道，一款更新、更强大的 UEFT rootkit，正被人挂到暗网论坛上叫卖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [美能源部向电池公司发放28亿美元以推动国内生产](https://www.cnbeta.com/articles/tech/1329139.htm) | Thu Oct 20 2022 4:48 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;拜登-哈里斯政府通过能源部&lpar;DOE&rpar;于当地时间周三宣布，20家电池公司将获得28亿美元以用于在12个州建设和扩大商业规模的设施。&lt;/strong&gt;这是拜登总统的《基础设施法》中总共70亿美元的第一阶段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [《白雪公主》真人电影女主回应“政治正确”争议：这是必须的](https://hot.cnbeta.com/articles/movie/1329137.htm) | Thu Oct 20 2022 4:38 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日据外媒Vanityfair报道，迪士尼真人电影《白雪公主》女主瑞秋·泽格勒&lpar;Rachel Zegler&rpar;接受《名利场》采访，回应了由拉丁裔出演白雪公主的选角争议。&lt;/p&gt;&lt;p&gt;瑞秋·泽格勒表示：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [EA Sports将向女子足球投资1100万美元](https://hot.cnbeta.com/articles/game/1329135.htm) | Thu Oct 20 2022 4:28 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;EA Sports宣布将通过其StartingXI Fund向女子足球投资1100万美元。 该计划旨在发展这项运动，因为它将为游戏、联赛、俱乐部和运动员的投资提供资金。明年，游戏公司表示还将投资一项女子足球实习计划。它说这将扩展到每个当前和新的女子联盟合作伙伴。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [特斯拉承诺至多回购百亿美元股票 有那么多现金吗？](https://www.cnbeta.com/articles/tech/1329133.htm) | Thu Oct 20 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;10月20日消息，在周三公布第三季度财报时，特斯拉首席执行官埃隆·马斯克（Elon Musk）表示将斥资50亿美元到100亿美元回购股票，同时在市值方面赶超苹果。然而问题在于，特斯拉有苹果那么多可以支配的现金吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [天文学家可能发现迄今为止离地球最近的已知黑洞](https://www.cnbeta.com/articles/science/1329131.htm) | Thu Oct 20 2022 3:57 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天文学家可能已经发现了一个怪物黑洞，它是已知的最接近地球的黑洞之一。据研究小组称，这个黑洞的质量相当于12个太阳，它被发现悄悄地潜伏在我们的后院。对于黑暗到光都无法从其中逃脱的天体来说，黑洞在墨色的黑暗空间中很难被发现并不令人惊讶。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [传大众汽车集团考虑出售俄罗斯工厂](https://www.cnbeta.com/articles/tech/1329129.htm) | Thu Oct 20 2022 3:55 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大众汽车集团正在寻找投资者接管其俄罗斯卡卢加工厂，该工厂在俄乌局势升级后不久就停止了生产。大众汽车集团表示，正在考虑其俄罗斯业务的各种处理方案，其中一个方案是将资产出售给第三方。该集团在声明中表示，目前还没有做出决定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [宝马董事长称不应设定汽油车淘汰日期](https://www.cnbeta.com/articles/tech/1329127.htm) | Thu Oct 20 2022 3:55 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;盖世汽车讯 宝马董事长Oliver Zipse在10月19日表示，设定燃油车逐步淘汰日期或将导致“低价车型”在市场上消失，导致许多人难以购买汽车。&lt;/strong&gt;在宣布将在美国南卡罗莱纳州投资17亿美元生产电动汽车之前，Zipse在接受采访时表示，宝马还没有确定终止生产汽油动力汽车的日期，并建议美国不要禁止销售燃油车型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《暗黑破坏神4》后期封测即将开始 客户端更新了75G](https://hot.cnbeta.com/articles/game/1329125.htm) | Thu Oct 20 2022 3:54 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;之前暴雪宣布《暗黑破坏神4》后期封测将推出，在PC/PS4/PS5/XboxOne和XSX|S上进行，支持跨平台游玩和跨平台进度共享功能。&lt;/strong&gt;暴雪还给一些玩家发放了《暗黑4》封测资格。最近国外Reddit论坛网友GamingGuy93发帖称，《暗黑4》测试客户端有75G的更新，或许意味着封测即将开始。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
