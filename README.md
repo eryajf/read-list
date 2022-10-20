@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教 Python 接口统计](https://www.v2ex.com/t/888495#reply0) | Thu Oct 20 2022 10:06 AM
-- 🤗 [家人们国内哪家厂商的 4 层负载均衡可以负载云外的资源](https://www.v2ex.com/t/888494#reply0) | Thu Oct 20 2022 10:05 AM
-- 🎭 [有没有解析 word 文档为结构化数据的工具](https://www.v2ex.com/t/888493#reply0) | Thu Oct 20 2022 10:05 AM
-- 🥷 [有没有用游戏本跑 Linux 的，什么显卡比较好，或者有推荐的机器](https://www.v2ex.com/t/888488#reply0) | Thu Oct 20 2022 9:39 AM
-- 🐵 [怎么做到在微信网页中发送一个 get 请求就能打开华为快应用](https://www.v2ex.com/t/888474#reply0) | Thu Oct 20 2022 8:43 AM<!-- v2ex:END -->
+- 🥸 [手贱删除了个 windows 分区，还好没格式化，用一堆数据恢复软件都可以扫到，但没有 license key](https://www.v2ex.com/t/888505#reply5) | Thu Oct 20 2022 11:02 AM
+- 🤗 [请教 Python 接口统计](https://www.v2ex.com/t/888495#reply0) | Thu Oct 20 2022 10:06 AM
+- 🎭 [家人们国内哪家厂商的 4 层负载均衡可以负载云外的资源](https://www.v2ex.com/t/888494#reply0) | Thu Oct 20 2022 10:05 AM
+- 🥷 [有没有解析 word 文档为结构化数据的工具](https://www.v2ex.com/t/888493#reply1) | Thu Oct 20 2022 10:05 AM
+- 🐵 [有没有用游戏本跑 Linux 的，什么显卡比较好，或者有推荐的机器](https://www.v2ex.com/t/888488#reply0) | Thu Oct 20 2022 9:39 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
