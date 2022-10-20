@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：开发者已可提交适配灵动岛的 App、英特尔透露雷电 5 规格等](https://sspai.com/post/76307) | Thu Oct 20 2022 12:33 AM 
+- 👹 [iPhone 14 系列相机操作指南](https://sspai.com/post/76181) | Thu Oct 20 2022 3:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    其实我们永远不知道一张照片随着时间变化会有怎样的价值变化，而如果恰巧它真的会成为美好回忆的一部分，那么它的像素再怎么高都不过分。&lt;a href=&quot;https://sspai.com/post/76181&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：开发者已可提交适配灵动岛的 App、英特尔透露雷电 5 规格等](https://sspai.com/post/76307) | Thu Oct 20 2022 12:33 AM 
     <details><summary>展开描述 ...</summary> 
     东芝宣布推出 20TB 大容量机械硬盘、微软计划推出 Xbox 手游商店等。&lt;a href=&quot;https://sspai.com/post/76307&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [解放双手，用 Biblioshiny 和 VOSviewer 快速梳理领域文献](https://sspai.com/post/75107) | Wed Oct 19 2022 9:58 AM 
+- 🤭 [解放双手，用 Biblioshiny 和 VOSviewer 快速梳理领域文献](https://sspai.com/post/75107) | Wed Oct 19 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
     本文我们介绍了两种快速了解科研领域和文献的工具。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/75107&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/278&quot; target=&quot;_blank&quot;&gt;《如何入门学术论文写作》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [人工智能可以取代艺术家吗？在 AI 生成艺术元年聊聊 AI](https://sspai.com/post/76277) | Wed Oct 19 2022 8:37 AM 
+- 🥸 [人工智能可以取代艺术家吗？在 AI 生成艺术元年聊聊 AI](https://sspai.com/post/76277) | Wed Oct 19 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
     AI 生成艺术，或许会改变很多事情。&lt;a href=&quot;https://sspai.com/post/76277&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [手机影像横评：2022 年，哪台设备能拍出「好看」的照片？](https://sspai.com/post/76259) | Wed Oct 19 2022 6:30 AM 
+- 🙉 [手机影像横评：2022 年，哪台设备能拍出「好看」的照片？](https://sspai.com/post/76259) | Wed Oct 19 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     光影上主体要突出，色彩上熟悉又陌生——本期视频找来了 5 款手机，聊聊把照片拍好看这件事。&lt;a href=&quot;https://sspai.com/post/76259&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：Apple 推出多款新品、微软开始推送资源管理器标签页功能等](https://sspai.com/post/76275) | Wed Oct 19 2022 12:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    Netflix 推出个人账号资料转移功能，iOS 16.1 将引入复制粘贴权限设置等。&lt;a href=&quot;https://sspai.com/post/76275&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
