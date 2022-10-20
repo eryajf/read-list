@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [OpenBSD 7.2发布 支持Ampere Altra, Apple M2处理器](https://www.cnbeta.com/articles/tech/1329329.htm) | Thu Oct 20 2022 3:22 PM 
+- 🕯 [Intel宣布全新芯片代工模式：开放四种神技](https://www.cnbeta.com/articles/tech/1329339.htm) | Thu Oct 20 2022 4:18 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;就在Ubuntu 22.10发布的同一天，Theo de Raadt发布了OpenBSD 7.2，作为这个流行的BSD操作系统的最新版本。最值得一提的是，OpenBSD从这一版本开始支持Ampere Altra Arm服务器处理器。&lt;/strong&gt;在Ampere Altra在Linux上取得巨大成功，以及Altra / Altra Max在市场上被各种公共云服务提供商和其他组织所接受之后，各种BSD一直在努力支持Ampere Altra。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2021年2月份Intel现任CEO基辛格上任之后，宣布了Intel史上最大规模的转型，推出了IDM 2.0战略，不仅要保住自己的x86芯片制造业务，同时还要重新杀入晶圆代工行业，跟三星、台积电抢市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329339.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [AMD新一代RDNA 3显卡发布会官宣定档](https://www.cnbeta.com/articles/tech/1329327.htm) | Thu Oct 20 2022 3:12 PM 
+- 💼 [匹敌RTX 3080 Intel Arc显卡在国外售价被黄牛炒上天](https://www.cnbeta.com/articles/tech/1329337.htm) | Thu Oct 20 2022 4:17 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月20日晚间消息，AMD宣布，名为“together we advance_gaming（同超越，共成就 _ 游戏）”的新品活动&lt;strong&gt;将于北京时间11月4日（星期五）早晨4:00举办。&lt;/strong&gt;AMD将在官方账号进行全程直播，不出意外的话，CEO苏姿丰女士将主讲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月12日，Intel Arc A7系列显卡在国内正式上线，官方限量公版售价A750 2499元、A770 3199元，其中A770主要对标RTX 3060，号称性价比吊打。尽管在国内市场的反响不算火热，可两款Arc显卡在海外则成了香饽饽。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329337.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [爸爸“抄袭”4岁女儿涂鸦作品走红：最贵的卖了6666元](https://hot.cnbeta.com/articles/comic/1329325.htm) | Thu Oct 20 2022 3:11 PM 
+- 💂 [谷歌被印度罚款1.6亿美元 存在Android相关垄断行为](https://www.cnbeta.com/articles/tech/1329335.htm) | Thu Oct 20 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，一组女儿原创涂鸦、爸爸“抄袭”再创作的画作，凭借简洁明快、耐人寻味的画风迅速走红，并在网上大卖。据悉，父亲金河滨是80后，从小喜欢画画，现在从事设计工作，常在家画画。女儿金小美今年才4岁半，幼儿园中班，但耳濡目染之下，也喜欢拿画笔涂鸦，而且很随心。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1329325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，印度反垄断监管机构“竞争委员会”（CCI）今日宣布，已对谷歌处以133.8亿卢比（约合1.6195亿美元的）罚款，原因是该公司存在与Android移动设备相关的反竞争行为。此外，CCI还要求谷歌不得向智能手机制造商提供任何激励措施，让他们独家预装谷歌的搜索服务。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329335.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [这个采访手工耿上热搜的日本综艺，为什么会被那么多人喜欢](https://hot.cnbeta.com/articles/movie/1329323.htm) | Thu Oct 20 2022 2:45 PM 
+- 🚀 [RNG败北Ti11比赛 中单Maybe宣布退役：青春结束了](https://hot.cnbeta.com/articles/game/1329333.htm) | Thu Oct 20 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近几天，手工耿又一次登上了微博热搜榜。不过，这次不是因为他又鼓捣出了什么新作品，而是因为他被一档日本综艺节目给采访了。这本是件没什么好大惊小怪的事情，很多国内外都十分流行的网络红人与meme，都充分证明了，人类可能会因为生活的地区不同，而产生巨大的文化差异。但在某些层面上，让大家感到快乐的东西却又总是趋同。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今晚的Ti11比赛中，RNG的粉丝们可能要意难平了，不仅战队在比赛中输给了Entity，中单Maybe随后也在微博表示自己要退役了，宣称青春结束。&lt;strong&gt;MayBe表示，属于我的青春注定会有遗憾与意难平吧！谢谢所有人的关心与鼓励，我的青春结束了。Somnus out。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329333.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [谷歌让步？安卓和苹果之间的“大动作小表情”](https://www.cnbeta.com/articles/tech/1329321.htm) | Thu Oct 20 2022 2:44 PM 
+- 🎊 [Meta推出更多的方法来保护人们在Instagram上免受虐待](https://www.cnbeta.com/articles/tech/1329331.htm) | Thu Oct 20 2022 3:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间10月20日消息，谷歌面向安卓用户的Messages应用程序终于在功能上更接近于苹果的iMessages:它现在不仅可以显示iPhone用户发送的“Tapback”表情符号，还可以让安卓用户用自己设定的表情符号快速回复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Meta公司推出了新的方法，以保护人们不在Instagram上看到该服务被滥用，Instagram是该公司的照片和短视频分享应用程序。这些新功能更多是对平台保护措施的改进，而不是全新的功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329331.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
