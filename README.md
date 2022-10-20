@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [支持资源管理器标签页的 Windows 11 版本推送了](https://www.v2ex.com/t/888273#reply0) | Wed Oct 19 2022 10:45 PM
-- 🤗 [&lpar;思路&rpar;看到很多人需要小额 crypto 的需求, 能不能搞个这样的论坛?](https://www.v2ex.com/t/888270#reply3) | Wed Oct 19 2022 6:09 PM
-- 🎭 [使用 AACS 技术加密的蓝光影片光盘全部副本的密钥都不一样吗？有什么办法完整在不解密的情况下把这个密钥备份进 ISO 吗？想在不对光盘内容做任何改动地备份我这几年购买的正版盘。](https://www.v2ex.com/t/888269#reply4) | Wed Oct 19 2022 5:36 PM
-- 🥷 [Windows 10 22H2 推送了](https://www.v2ex.com/t/888266#reply4) | Wed Oct 19 2022 5:09 PM
-- 🐵 [请教一下，关于 nginx 多个子目录反代的问题。](https://www.v2ex.com/t/888264#reply1) | Wed Oct 19 2022 5:04 PM<!-- v2ex:END -->
+- 🥸 [双核高主频和 4 核低主频的 NAS 怎么选?](https://www.v2ex.com/t/888320#reply0) | Thu Oct 20 2022 2:03 AM
+- 🤗 [Java on Visual Studio Code 10 月更新 – 断点可视化提示、Lombok 代码操作](https://www.v2ex.com/t/888316#reply0) | Thu Oct 20 2022 1:55 AM
+- 🎭 [[请教] 每个接口都要一个 VO 吗？例如新增和更新只有主键 ID 不同的情况下](https://www.v2ex.com/t/888310#reply2) | Thu Oct 20 2022 1:44 AM
+- 🥷 [连接公共 WIFI，怎么手动弹出认证页面？](https://www.v2ex.com/t/888297#reply9) | Thu Oct 20 2022 1:20 AM
+- 🐵 [求教：该如何把数据集喂给 pod 内的模型训练容器呢？](https://www.v2ex.com/t/888279#reply7) | Thu Oct 20 2022 12:23 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
