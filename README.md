@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [1024程序员节来袭～不加班 加四重福利！](https://juejin.cn/post/7156528643512991757) | Thu Oct 20 2022 9:46 AM 
+- 🤗 [Android的RV列表刷新？Payload 与 Diff 的方式有什么异同？](https://juejin.cn/post/7156512023973462053) | Thu Oct 20 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
-    各位“爱码士”们，一年一度的1024程序员节马上到来 掘金小册为大家献上四重优惠～ 废话不多说，直接上福利攻略！ 
+    RecyclerView是我们常用的列表控件，一般来说当Item的数据改变的时候我们需要刷新当前的Item 。需要用到类似 Payload 与 Diff 之类的刷新方式 
     </details> 
 
-- 🎡 [Netty系列（三）：核心功能——数据容器（ByteBuf）](https://juejin.cn/post/7156502479264448520) | Thu Oct 20 2022 8:06 AM 
+- 🎡 [经久不衰的前端面试题：从输入URL到页面展示发生了什么？](https://juejin.cn/post/7156507687713243172) | Thu Oct 20 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 Netty核心功能——数据容器（ByteBuf） 1、简介 Netty 的数据处理 API 通过两个组件暴露——abstract class ByteBuf 和 inte 
+    浏览器里，从输入 URL 到页面展示，这中间发生了什么？ ”这是一道经典的面试题，能比较全面地考察应 
     </details> 
 
-- 🕯 [10 分钟教会你如何看懂 MySQL 执行计划](https://juejin.cn/post/7156489649316167687) | Thu Oct 20 2022 7:15 AM 
+- 🕯 [Htmx 意外走红，我们从 React“退回去”后：代码行数减少 67%，JS 依赖项从 255 下降到 9](https://juejin.cn/post/7156507227669413895) | Thu Oct 20 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-    通常查询慢查询SQL语句时会使用EXPLAIN命令来查看SQL语句的执行计划，通过返回的信息，可以了解到Mysql优化器是如何执行SQL语句，通过分析可以帮助我们提供优化的思路。 
+    本文来自InfoQ,作者:Tina，核子可乐 htmx 的走红 过去 Web 非常简单。URL 指向服务器，服务器将数据混合成 html，然后在浏览器上呈现该响应。围绕这种简单范式，诞生了各种 Jav 
     </details> 
 
-- 🚀 [Nodejs 服务端框架调研](https://juejin.cn/post/7156484446374330405) | Thu Oct 20 2022 6:54 AM 
+- 🚀 [Socket 源码浅析 - 实现自定义 Socket 协议簇（1）Socket 简介](https://juejin.cn/post/7156490890645602335) | Thu Oct 20 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-    近期公司在尝试使用 Nodejs 做服务端，具体背景就不展开了，重点是对于 Nodejs 的定位是 BFF，处理一些业务弱相关的需求，比如接口聚合、草稿缓存、用户个性化 UI 配置缓存、禁止多端登录等 
+    浅入浅出 socket 源码。在 Linux 内核中，实现一个自定义的 socket 套接字协议簇。 
     </details> 
 
-- 💪 [😕😕刚工作三天就被裁是一种怎样的体验](https://juejin.cn/post/7156483709338648613) | Thu Oct 20 2022 6:52 AM 
+- 💪 [Android新手开发指南-build.gradle篇（一）](https://juejin.cn/post/7156488537167609869) | Thu Oct 20 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 还有谁？刚上三天班就被公司公司的工作不适合我，叫我先提升一下。 后面我也向公司那边讨要了一个说法，我只能说他们那边的说辞让我有些不服气。 现在之所以把这件事在掘金上记录一下，一是记录一下自己的成 
+    Android保姆级教程之build.gradle&lpar;:app&rpar;的初步涉及，浅谈targetSdk、compileSdk以及dependencies。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
