@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英特尔酷睿i9-13900K刚刚发布便拿下8722.78MHz的超频纪录](https://www.cnbeta.com/articles/tech/1329315.htm) | Thu Oct 20 2022 2:14 PM 
+- 🕯 [OpenBSD 7.2发布 支持Ampere Altra, Apple M2处理器](https://www.cnbeta.com/articles/tech/1329329.htm) | Thu Oct 20 2022 3:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2014年8月，AMD FX 8370处理器实现了桌面CPU的最高频率。这是一个默认频率为4.0GHz的8722.78MHz的超频记录。&lt;strong&gt;8年多后，这一记录再次被打破，但却是用一种全新的CPU。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;就在Ubuntu 22.10发布的同一天，Theo de Raadt发布了OpenBSD 7.2，作为这个流行的BSD操作系统的最新版本。最值得一提的是，OpenBSD从这一版本开始支持Ampere Altra Arm服务器处理器。&lt;/strong&gt;在Ampere Altra在Linux上取得巨大成功，以及Altra / Altra Max在市场上被各种公共云服务提供商和其他组织所接受之后，各种BSD一直在努力支持Ampere Altra。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329329.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Canonical发布Ubuntu Linux 22.10 &quot;Kinetic Kudu&quot;](https://www.cnbeta.com/articles/tech/1329313.htm) | Thu Oct 20 2022 2:12 PM 
+- 💼 [AMD新一代RDNA 3显卡发布会官宣定档](https://www.cnbeta.com/articles/tech/1329327.htm) | Thu Oct 20 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，Canonical发布了Ubuntu 22.10。最新版本的操作系统--代号为&amp;quot;Kinetic Kudu&amp;quot;，壁纸看起来有点新意，但是从操作系统本身来看没有什么真正令人兴奋的内容可以找到。是的，它只是另一次变化不大的Ubuntu常规升级。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月20日晚间消息，AMD宣布，名为“together we advance_gaming（同超越，共成就 _ 游戏）”的新品活动&lt;strong&gt;将于北京时间11月4日（星期五）早晨4:00举办。&lt;/strong&gt;AMD将在官方账号进行全程直播，不出意外的话，CEO苏姿丰女士将主讲。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329327.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [村田制作所认为2023年消费者对智能手机的需求将继续下降](https://www.cnbeta.com/articles/tech/1329311.htm) | Thu Oct 20 2022 1:54 PM 
+- 💂 [爸爸“抄袭”4岁女儿涂鸦作品走红：最贵的卖了6666元](https://hot.cnbeta.com/articles/comic/1329325.htm) | Thu Oct 20 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为iPhone制造零部件的公司Murata Manufacturing（村田制作所）认为，智能手机销量的下降将持续到2023年。该公司估计，2021年，13.6亿部的出货量构成了全球智能手机市场。然而，2022日历年的总销量可能低于12亿部，这主要由中国市场的需求下降导致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，一组女儿原创涂鸦、爸爸“抄袭”再创作的画作，凭借简洁明快、耐人寻味的画风迅速走红，并在网上大卖。据悉，父亲金河滨是80后，从小喜欢画画，现在从事设计工作，常在家画画。女儿金小美今年才4岁半，幼儿园中班，但耳濡目染之下，也喜欢拿画笔涂鸦，而且很随心。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1329325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [忽冷忽热！大范围升温之下 多地已回到初夏](https://www.cnbeta.com/articles/tech/1329309.htm) | Thu Oct 20 2022 1:49 PM 
+- 🚀 [这个采访手工耿上热搜的日本综艺，为什么会被那么多人喜欢](https://hot.cnbeta.com/articles/movie/1329323.htm) | Thu Oct 20 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如今的天气越来越让人看不懂了。长时间、大范围、创纪录的酷热之后，冷空气连续来袭，很多地方“一夜入冬”，但最近几天，多地开始大范围升温，仿佛又回到了初夏。随着这一轮冷空气的主体南下，北方地区在过去两天率先开始升温，南方大部也在今天跟进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近几天，手工耿又一次登上了微博热搜榜。不过，这次不是因为他又鼓捣出了什么新作品，而是因为他被一档日本综艺节目给采访了。这本是件没什么好大惊小怪的事情，很多国内外都十分流行的网络红人与meme，都充分证明了，人类可能会因为生活的地区不同，而产生巨大的文化差异。但在某些层面上，让大家感到快乐的东西却又总是趋同。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [传苹果正在测试支持M2 iPad Pro的macOS系统](https://www.cnbeta.com/articles/tech/1329307.htm) | Thu Oct 20 2022 1:47 PM 
+- 🎊 [谷歌让步？安卓和苹果之间的“大动作小表情”](https://www.cnbeta.com/articles/tech/1329321.htm) | Thu Oct 20 2022 2:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一位泄密者声称，苹果正在为M2 iPad Pro开发一个专属的macOS版本，预计将在2023年的某个时间点推出。围绕iPad的主要抱怨之一是它缺乏桌面级软件支持，人们一直在呼吁苹果不仅要将Final Cut Pro移植到iPad上，还要将完整版的macOS移植到iPad上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间10月20日消息，谷歌面向安卓用户的Messages应用程序终于在功能上更接近于苹果的iMessages:它现在不仅可以显示iPhone用户发送的“Tapback”表情符号，还可以让安卓用户用自己设定的表情符号快速回复。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
