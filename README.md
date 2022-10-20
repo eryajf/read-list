@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [村田制作所认为2023年消费者对智能手机的需求将继续下降](https://www.cnbeta.com/articles/tech/1329311.htm) | Thu Oct 20 2022 1:54 PM 
+- 🕯 [英特尔酷睿i9-13900K刚刚发布便拿下8722.78MHz的超频纪录](https://www.cnbeta.com/articles/tech/1329315.htm) | Thu Oct 20 2022 2:14 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;2014年8月，AMD FX 8370处理器实现了桌面CPU的最高频率。这是一个默认频率为4.0GHz的8722.78MHz的超频记录。&lt;strong&gt;8年多后，这一记录再次被打破，但却是用一种全新的CPU。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329315.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Canonical发布Ubuntu Linux 22.10 &quot;Kinetic Kudu&quot;](https://www.cnbeta.com/articles/tech/1329313.htm) | Thu Oct 20 2022 2:12 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;今天，Canonical发布了Ubuntu 22.10。最新版本的操作系统--代号为&amp;quot;Kinetic Kudu&amp;quot;，壁纸看起来有点新意，但是从操作系统本身来看没有什么真正令人兴奋的内容可以找到。是的，它只是另一次变化不大的Ubuntu常规升级。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329313.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [村田制作所认为2023年消费者对智能手机的需求将继续下降](https://www.cnbeta.com/articles/tech/1329311.htm) | Thu Oct 20 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;为iPhone制造零部件的公司Murata Manufacturing（村田制作所）认为，智能手机销量的下降将持续到2023年。该公司估计，2021年，13.6亿部的出货量构成了全球智能手机市场。然而，2022日历年的总销量可能低于12亿部，这主要由中国市场的需求下降导致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329311.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [忽冷忽热！大范围升温之下 多地已回到初夏](https://www.cnbeta.com/articles/tech/1329309.htm) | Thu Oct 20 2022 1:49 PM 
+- 🚀 [忽冷忽热！大范围升温之下 多地已回到初夏](https://www.cnbeta.com/articles/tech/1329309.htm) | Thu Oct 20 2022 1:49 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;如今的天气越来越让人看不懂了。长时间、大范围、创纪录的酷热之后，冷空气连续来袭，很多地方“一夜入冬”，但最近几天，多地开始大范围升温，仿佛又回到了初夏。随着这一轮冷空气的主体南下，北方地区在过去两天率先开始升温，南方大部也在今天跟进。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329309.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [传苹果正在测试支持M2 iPad Pro的macOS系统](https://www.cnbeta.com/articles/tech/1329307.htm) | Thu Oct 20 2022 1:47 PM 
+- 🎊 [传苹果正在测试支持M2 iPad Pro的macOS系统](https://www.cnbeta.com/articles/tech/1329307.htm) | Thu Oct 20 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一位泄密者声称，苹果正在为M2 iPad Pro开发一个专属的macOS版本，预计将在2023年的某个时间点推出。围绕iPad的主要抱怨之一是它缺乏桌面级软件支持，人们一直在呼吁苹果不仅要将Final Cut Pro移植到iPad上，还要将完整版的macOS移植到iPad上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329307.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [消息称用于第十代iPad的键盘盖和Apple Pencil适配器配件将推迟数周发货](https://www.cnbeta.com/articles/tech/1329305.htm) | Thu Oct 20 2022 1:34 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果最新的iPad的所有型号和配置仍然可以预购，并准时在2022年10月26日之前发货，但买家必须等待Apple Pencil、适配器和Magic Keyboard Folio。&lt;/strong&gt;苹果新的第十代iPad，加上更新的11英寸iPad Pro和12.9英寸iPad Pro，目前可以在10月26日发布之前进行预购。与苹果最近推出的许多产品不同，如iPhone 14 Pro和M2 MacBook Air，这些机型都还没有被推迟预订。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329305.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [韩国：一场锂电池着火引发的“互联网大瘫痪”](https://www.cnbeta.com/articles/tech/1329303.htm) | Thu Oct 20 2022 1:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2万亿韩元市值蒸发。一场大火，导致了韩国网络大面积瘫痪。当地时间10月15日下午3点19分，位于韩国京畿道城南市盆唐区三平洞SK C&amp;amp;C板桥数据中心发生火灾。据韩国警方消息，起火地点为数据中心A栋地下3层电气室的锂电池架附近。电源堆放在五个电池架上，事发时，其中一个锂电池产生了火花并引发火灾，随后自动灭火设备启动并喷洒气体。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329303.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
