@@ -512,7 +512,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [Apple新闻之苹果发布了第 10 代 iPad、使用 M2 芯片的 iPad Pro、新 Apple TV](http://www.mac52ipod.cn/post/apple-announce-10th-gen-ipad-m2-ipad-pro-new-apple-tv.php) | Tue Oct 18 2022 3:54 PM 
+- 👨‍🏫 [你可以要求苹果在 Apple Map 的街景地图里为自己家打码](http://www.mac52ipod.cn/post/blur-your-house-in-apple-map.php) | Thu Oct 20 2022 3:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	如果你家被拍进了 Apple Map 的街景地图，而你又不想让自己家被别人在手机上「云游览」时看到，可以要求苹果在街景里对你家打码。苹果 CEO Tim Cook 位于加州 Palo Alto 的家就已经被打码了，可以看看效果↓&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6678&quot; border=&quot;0&quot; alt=&quot;苹果 CEO Tim Cook 的家在 Apple Map 街景里的打码效果&quot; title=&quot;苹果 CEO Tim Cook 的家在 Apple Map 街景里的打码效果&quot; /&gt;&lt;/p&gt;&lt;p&gt;苹果官网有个页面详细介绍 Apple Map 街景地图里的图片采集政策 &lt;u&gt;&lt;a href=&quot;https://maps.apple.com/imagecollection/&quot; target=&quot;_blank&quot; title=&quot;Apple Maps Image Collection&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://maps.apple.com/imagecollection/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，点击第二段里的「contact us」链接就能给苹果发邮件要求给自己家打码了。&lt;/p&gt;&lt;p&gt;题外话，苹果也会告知街景采集车近期开到过哪和要去哪拍摄，你既可以依此做好准备防止被拍到，也可以做好准备被全世界人看到 &lt;u&gt;&lt;a href=&quot;/post/apple-map-vehicles-schedule.php&quot; target=&quot;_blank&quot; title=&quot;查询苹果地图街景采集车近期开到过哪和要去哪拍摄&quot;&gt;&lt;font color=#0000FF&gt;以前写过博客介绍&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%259A%2590%25E7%25A7%2581&quot; rel=&quot;tag&quot;&gt;隐私&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=applemap&quot; rel=&quot;tag&quot;&gt;applemap&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%259C%25B0%25E5%259B%25BE&quot; rel=&quot;tag&quot;&gt;地图&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [Apple新闻之苹果发布了第 10 代 iPad、使用 M2 芯片的 iPad Pro、新 Apple TV](http://www.mac52ipod.cn/post/apple-announce-10th-gen-ipad-m2-ipad-pro-new-apple-tv.php) | Tue Oct 18 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -521,7 +530,7 @@
  
     </details> 
 
-- 🏊 [Mac技巧之锁定苹果笔记本电脑键盘：免费软件 KeyboardCleanTool](http://www.mac52ipod.cn/post/apple-mac-macos-app-keyboardcleantool.php) | Sun Oct 16 2022 2:24 AM 
+- 🦏 [Mac技巧之锁定苹果笔记本电脑键盘：免费软件 KeyboardCleanTool](http://www.mac52ipod.cn/post/apple-mac-macos-app-keyboardcleantool.php) | Sun Oct 16 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🦏 [苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2](http://www.mac52ipod.cn/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin-2.php) | Fri Oct 14 2022 2:34 AM 
+- 🚀 [苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2](http://www.mac52ipod.cn/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin-2.php) | Fri Oct 14 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,20 +548,11 @@
  
     </details> 
 
-- 🚀 [苹果对「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求](http://www.mac52ipod.cn/post/apple-device-7-7-inch.php) | Tue Oct 11 2022 7:17 AM 
+- 🏊 [苹果对「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求](http://www.mac52ipod.cn/post/apple-device-7-7-inch.php) | Tue Oct 11 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	看到了&lt;u&gt;&lt;a href=&quot;https://twitter.com/DetroitBORG/status/1506362460307169280&quot; target=&quot;_blank&quot; title=&quot;苹果&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;一条 tweet&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，如下图所示，几个苹果设备「完美」得摞在了一起。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6711&quot; border=&quot;0&quot; alt=&quot;苹果电脑&quot; title=&quot;苹果电脑&quot; /&gt;&lt;/p&gt;&lt;p&gt;然后我查了一下，苹果对于「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Mac mini：7.7 × 7.7 英寸&lt;/li&gt;&lt;li&gt;Mac Studio：7.7 × 7.7 英寸&lt;/li&gt;&lt;li&gt;Power Mac G4 Cube：8 × 8 英寸&lt;/li&gt;&lt;li&gt;第一代 Apple TV：7.8 × 7.8 英寸&lt;/li&gt;&lt;li&gt;AirPort Time Capsule：7.7 × 7.7 英寸&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%259C%25BA%25E8%25BA%25AB&quot; rel=&quot;tag&quot;&gt;机身&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A4%2596%25E5%25A3%25B3&quot; rel=&quot;tag&quot;&gt;外壳&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B0%25BA%25E5%25AF%25B8&quot; rel=&quot;tag&quot;&gt;尺寸&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [有人评测和分析了为什么 Windows PC 笔记本电脑的续航时间远小于苹果 MacBook Pro/ Air](http://www.mac52ipod.cn/post/apple-silicone-mac-macbook-pro-air-windows-pc-laptop-battery-life.php) | Mon Sep 26 2022 1:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	前几天在 B 站看了个视频：我们找到了 Windows 电脑续航差的原因！苹果 M2 深度分析 …… 虽然这个标题「营销味儿」有点儿浓，但内容还行。&lt;/p&gt;&lt;p&gt;感兴趣的可以直接去 Bilibili 观看 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV18B4y1b7gj&quot; target=&quot;_blank&quot; title=&quot;我们找到了 Windows 电脑续航差的原因！苹果 M2 深度分析&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV18B4y1b7gj&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%2594%25B5%25E6%25B1%25A0&quot; rel=&quot;tag&quot;&gt;电池&lt;/a&gt;
 
  
     </details> 
