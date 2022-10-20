@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入了解JS中for...in和for...of的区别](https://juejin.cn/post/7156477877192491015) | Thu Oct 20 2022 6:29 AM 
+- 🤗 [Web前端安全系列之：XSS攻防](https://juejin.cn/post/7156475916334399496) | Thu Oct 20 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-    无论是for...in还是for...of语句都是迭代一些东西。它们之间的主要区别在于它们的迭代方式。for...in语句以原始插入顺序迭代对象的可枚举属性。for...of语句遍历可迭代对象定义要迭 
+    前言 Web 安全的兴起       Web 攻击技术的发展也可以分为几个阶段。在 Web 1.0 时代，人们更多的是关注服务器端动态脚本的安全问题，比如将一个可执行脚本（俗称 webshell）上传 
     </details> 
 
-- 🎡 [JSEP 协议解读](https://juejin.cn/post/7156469757175136269) | Thu Oct 20 2022 5:58 AM 
+- 🎡 [直播预告｜音视频 + AI 技术的探索与实践](https://juejin.cn/post/7156475353488162824) | Thu Oct 20 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-    JSEP 对会话描述的处理简单而直接。每当需要交换 offer/answer 时，发起端通过调用 createOffer API 来创建 offer 
+    本期「七牛云音视频实践日 Live 2022-1024专场」，将视野聚焦到「音视频 + AI 技术的探索与实践」。10 月 23 日 （本周日）下午两点，让我们相约直播间，不见不散。 
     </details> 
 
-- 🕯 [Asta，SSR 特性优化的新框架](https://juejin.cn/post/7156455938851864607) | Thu Oct 20 2022 5:07 AM 
+- 🕯 [iOS老司机带你一起把App的崩溃率降到0.1%以下](https://juejin.cn/post/7156474966488121374) | Thu Oct 20 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-    这是一件真实发生的事情 事情的起因是，公司的大型 vue 项目需要改造成 vue ssr，我们用了两个月的时间，一点点迁移，最终一切都成功了—— 上线前一天，发现 qps 不到 100，所有努力白费  
+    前言: 如何把App的崩溃率降到0.1%以下? 对于崩溃率, 0.1%往往是很多公司的硬性要求合格线, 在达到0.1%崩溃率的过程中, 我们作为一线iOS开发者, 可以做些什么呢? 
     </details> 
 
-- 🚀 [patch-package 实现原理：如何保存恢复 node_modules 下的代码改动？](https://juejin.cn/post/7156454739415138341) | Thu Oct 20 2022 5:01 AM 
+- 🚀 [Android Jetpack系列之MVI架构](https://juejin.cn/post/7156471865542721566) | Thu Oct 20 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-    有时候我们需要修改 node_modules 下的一些代码，但是 node_modules 不会提交到 git 仓库，改动保存不下来，怎么办呢？ 这时候可以用 patch-package 这个工具。  
+    写在前面 在之前介绍MVVM的文章中，介绍了常用的MVC、MVP、MVVM架构及其对MVVM的封装使用，其中MVVM的主旨可以理解为数据驱动：Repository提供数据，ViewModel中发送数据 
     </details> 
 
-- 💪 [动态组件、异步组件以及生命周期和v-model🔥](https://juejin.cn/post/7156454276921819150) | Thu Oct 20 2022 5:00 AM 
+- 💪 [训练营 | 如何成为一名开源社区贡献者？](https://juejin.cn/post/7156471558364463112) | Thu Oct 20 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第21天，点击查看活动详情 Hello,又见面了,我是渔戈! 今天我们来讲讲动态组件、异步组件以及生命周期和v-model 那就先 
+    「云原生应用插件扩展训练营」由阿里云云原生团队围绕 KubeVela、OpenYurt、Koordinator、OpenKruise、Fluid 等云原生开源项目打造，为了帮助更多开发者感受开源社区的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
