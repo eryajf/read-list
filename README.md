@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [unraid docker ipv6 更新问题](https://www.v2ex.com/t/888541#reply0) | Thu Oct 20 2022 1:50 PM
-- 🤗 [RedissonClient, 这种 lock 风格有隐患吗？](https://www.v2ex.com/t/888537#reply5) | Thu Oct 20 2022 1:30 PM
-- 🎭 [AWS 注册的域名可以全球解析吗](https://www.v2ex.com/t/888519#reply16) | Thu Oct 20 2022 11:47 AM
-- 🥷 [关于一个按需引入的疑问](https://www.v2ex.com/t/888518#reply14) | Thu Oct 20 2022 11:47 AM
-- 🐵 [手搓了个 rss 提醒项目，支持 html,rss,json 的抓取](https://www.v2ex.com/t/888515#reply0) | Thu Oct 20 2022 11:35 AM<!-- v2ex:END -->
+- 🥸 [ESXI 下英特尔 4608P 如何取消 raid？从而使用全部 6T 空间？](https://www.v2ex.com/t/888554#reply0) | Thu Oct 20 2022 2:33 PM
+- 🤗 [AGPL 协议开源的软件，如果想允许付费购买商业版的用户不用以 AGPL 协议开源，需要双授权吗，有没有这些项目的 LICENSE 可以参考一下？](https://www.v2ex.com/t/888552#reply0) | Thu Oct 20 2022 2:27 PM
+- 🎭 [unraid docker ipv6 更新问题](https://www.v2ex.com/t/888541#reply0) | Thu Oct 20 2022 1:50 PM
+- 🥷 [RedissonClient, 这种 lock 风格有隐患吗？](https://www.v2ex.com/t/888537#reply6) | Thu Oct 20 2022 1:30 PM
+- 🐵 [AWS 注册的域名可以全球解析吗](https://www.v2ex.com/t/888519#reply16) | Thu Oct 20 2022 11:47 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
