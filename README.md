@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三季度业绩创纪录 马斯克确认新平台存在](https://www.cnbeta.com/articles/tech/1329273.htm) | Thu Oct 20 2022 11:18 AM 
+- 🕯 [iPhone 14 Plus被认为仅能销售1000万台 但苹果仍计划坚持其总出货量目标](https://www.cnbeta.com/articles/tech/1329287.htm) | Thu Oct 20 2022 12:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在经历了二季度业绩的环比下跌后，特斯拉终于迎来了一次业绩爆发。10月20日，特斯拉发布了2022年三季度财报。财报显示，特斯拉在营业收入、营业利润和自由现金流方面再次创下记录。而这明显离不开中国在生产和销售领域的贡献，因为相关公布数据显示，在整个三季度中，上海工厂贡献了特斯拉全球交付量中的一半以上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;取消iPhone的&amp;quot;mini&amp;quot;版本并为基础型号加大屏幕的市场策略对改善苹果今年的销售没有什么作用，&lt;strong&gt;据称苹果已经向几个供应链伙伴发出通知，要求减少iPhone 14 Plus的产量。不过，这家科技巨头的目标仍然是在2022年达到新机型的总出货量目标，即最多9000万台。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329287.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [“秒”要被重新定义了 潘建伟团队这项“国际首次”研究功不可没](https://www.cnbeta.com/articles/science/1329271.htm) | Thu Oct 20 2022 11:05 AM 
+- 💼 [半价Model 3，撑起4万亿市值特斯拉？](https://www.cnbeta.com/articles/tech/1329283.htm) | Thu Oct 20 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你以为的那个&lt;strong&gt;“一秒钟”&lt;/strong&gt;，可能不再是你以为的你以为了。之所以这么说，是因为中国科学技术大学&lt;strong&gt;潘建伟&lt;/strong&gt;团队完成了一项&lt;strong&gt;“国际首次”&lt;/strong&gt;的研究：实现百公里自由空间时频传递。并且这项研究已经在 &lt;strong&gt;Nature&lt;/strong&gt; 上发表。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329271.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;“特斯拉的市值，很可能超过苹果以及沙特阿美石油公司的市值总和。”这是特斯拉CEO埃隆·马斯克，在2022第三季度财报电话会上夸下的海口。他还预计，特斯拉市值将达到沙特阿美的2倍。作为参考，苹果目前的市值为2.3万亿美元，沙特阿美为2万亿美元，特斯拉市值约7000亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329283.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国航实现国内首架宽体机国产可持续航空燃料交付飞行](https://www.cnbeta.com/articles/tech/1329269.htm) | Thu Oct 20 2022 11:04 AM 
+- 💂 [突破100万安培 我国可控核聚变装置运行新记录诞生](https://www.cnbeta.com/articles/science/1329281.htm) | Thu Oct 20 2022 12:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年10月20日，国航在天津空客交付中心接收空客350宽体机，并使用国产可持续航空燃料执行接收后的首次飞行。这是继2011年国航执飞中国首次生物燃料验证飞行后，在可持续航空燃料领域的又一次积极探索。国航成为国内首家使用国产可持续航空燃料交付宽体客机的航司，同时也是国内首家在空客、波音机型上均开展可持续航空燃料应用的航司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329269.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月19日下午，中核集团科研团队再传佳绩，中国新一代“人造太阳”科学研究取得突破性进展，HL-2M等离子体电流突破100万安培，创造了我国可控核聚变装置运行新记录，标志着我国核聚变研发距离聚变点火迈进了重要一步，跻身国际第一方阵，技术水平居国际前列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [RTX 40还有4插槽巨型散热器 可压制900W功耗](https://www.cnbeta.com/articles/tech/1329267.htm) | Thu Oct 20 2022 11:03 AM 
+- 🚀 [中国车为什么敢在欧洲卖那么贵？](https://www.cnbeta.com/articles/tech/1329279.htm) | Thu Oct 20 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这几年，高端显卡功耗越来越高，散热器的设计和体积也越来越夸张。RTX 4090 FE公版第一次做到了3.5插槽，更厚的非公版比比皆是，4插槽也随处可见。据曝料，&lt;strong&gt;NVIDIA曾经为RTX 40设计过一个更暴力的散热器，完整的4插槽体积，最大散热能力达到惊人的900W，是现在RTX 4090的足足两倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329267.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近一批又一批中国品牌新能源汽车出海欧洲，光看看售价就觉得腰杆子不是一般的硬气，不妨感受下：比如，最近比亚迪汽车在欧洲发布的三款新车ATTO3（元PLUS）、汉以及唐的EV车型，售价分别为3.8万欧元、7.2万欧元以及7.2万欧元，约合人民币26.3万元、49.8万元以及49.8万元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [俄罗斯巧克力“全是国产的”？不懂别乱说](https://www.cnbeta.com/articles/tech/1329265.htm) | Thu Oct 20 2022 11:02 AM 
+- 🎊 [阿迪朗达克的秋天 - 以卫星视角欣赏充满活力的色彩](https://www.cnbeta.com/articles/science/1329277.htm) | Thu Oct 20 2022 11:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;以“科技与狠活”火爆网络的辛吉飞最近再放“狠话”：他声称俄罗斯地处北方，根本不产可可豆，因此也无法生产巧克力制品，并由此断言市场上的俄罗斯巧克力“全是国产的”……但这次买账的人却不那么多了。这番言论一出，辛吉飞受到了网友的激烈批评。那么问题来了，俄罗斯到底能不能产巧克力？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329265.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年夏天的干燥条件使美国许多地方的秋叶变得黯淡。然而，有一些地方的树叶颜色仍然流行，例如，纽约州东北部鲜艳的树叶颜色就并没有让赏叶者失望。2022年10月8日，当Landsat 9上的Operational Land Imager-2（OLI-2）获取这些卫星图像时，阿迪朗达克山的树叶处于本季的高峰或接近高峰的颜色。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
