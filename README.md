@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《大富翁11》登陆Steam/Switch 首周折扣59.4元](https://hot.cnbeta.com/articles/game/1329181.htm) | Thu Oct 20 2022 6:33 AM 
+- 🕯 [微软新视频揭开Microsoft 365面纱 即将替代Office](https://www.cnbeta.com/articles/tech/1329203.htm) | Thu Oct 20 2022 7:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月20日11:00，大宇旗下知名IP《大富翁》系列新作《大富翁11》已经正式发售，&lt;strong&gt;登陆Steam/Switch双平台。目前Steam国区售价66元，首发享10%折扣，59.40元即可入手；Switch平台港版售价129元港币。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在 2022 年的 Ignite 大会上，微软宣布 Office 将淡出历史舞台，Microsoft 365 订阅服务将接棒上线。该服务在整合 Word、Excel、PowerPoint 等现有 Office 应用之外，还附加了一些其他功能和新特性。现在，微软终于揭开了 Microsoft 365 的面纱。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329203.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [RTX 4080 12GB被骂取消：RTX 4070再砍一刀](https://www.cnbeta.com/articles/tech/1329179.htm) | Thu Oct 20 2022 6:33 AM 
+- 💼 [朱迪·丹奇批评《王冠》不尊重历史 损英王室形象](https://hot.cnbeta.com/articles/movie/1329199.htm) | Thu Oct 20 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;高不成低不就、不伦不类的RTX 4080 12GB在一片骂声中取消了发布，那么它是换个身份归来，比如说改名为RTX 4070 Ti或者RTX 4070，还是彻底消失呢？据曝料大神MLID得到的情报，&lt;strong&gt;RTX 4080 12GB在官宣取消的时候，刚刚才开始投产&lt;/strong&gt;，所以对AIC厂商的影响并不是很大，只是打乱了未来的市场规划，需要重新调整。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间10月20日消息，据外国媒体报道，知名演员、英国女爵士朱迪·丹奇近日发表公开信，称担心网飞剧集《王冠》对英国王室历史的展现将“不准确、伤害人们的感情”，认为其新季内容损害了英王室形象，呼吁网飞在该剧每集前加上“虚构”说明。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [发售14年后EA宣布关闭《红警3》等游戏服务器](https://hot.cnbeta.com/articles/game/1329177.htm) | Thu Oct 20 2022 6:32 AM 
+- 💂 [iPhone 14 Plus减产规模在70%-90% 刷新苹果历史](https://www.cnbeta.com/articles/tech/1329197.htm) | Thu Oct 20 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;如果是70后、80后游戏玩家，很可能会对《红警》游戏印象深刻，该系列游戏也在国内风靡一时，不过最新的《红警3》都是2008年发布的了，现在到了退场的时候了，EA宣布将关闭游戏服务器。据EA所说，《战地双雄》《雇佣兵2》《命令与征服：红色警戒3》《镜之边缘》《闪客2》等几款游戏将在未来两天内关闭游戏服务器，线上模式会受到影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果的 iPhone 14 Pro 和 iPhone 14 Pro Max 销量喜人，但同时发布的 iPhone 14 Plus 就完全是另一番场景了。援引 Economic Daily News 报道，iPhone 14 Plus 的减产幅度在 70% 至 90% 之间，可能是苹果历史上减产规模最大的手机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新的研究方法揭示了我们学习时大脑发生的变化](https://www.cnbeta.com/articles/science/1329175.htm) | Thu Oct 20 2022 6:30 AM 
+- 🚀 [研究人员在实验室中培育出高效“僵尸真菌”](https://www.cnbeta.com/articles/science/1329195.htm) | Thu Oct 20 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;加州拉霍亚——斯克里普斯研究中心的科学家们开发了一种新的工具来监测大脑的可塑性——当我们学习和体验事物时，从看电影到学习一首新歌或一门语言，我们的大脑是如何重塑和身体自适应的。他们的方法是测量由不同类型的脑细胞产生的蛋白质，这种方法有可能回答关于大脑如何工作的基本问题，并阐明许多导致大脑可塑性出错的脑部疾病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，虫草真菌已经进化出一种可怕的能力，可以“劫持”昆虫的身体--但它也被研究为一系列令人印象深刻的潜在药用效果。&lt;strong&gt;研究人员已经找到了一种方法，可以将其关键化学物质的产量提高100倍。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [科学家对质子的康普顿散射进行新的测量](https://www.cnbeta.com/articles/science/1329173.htm) | Thu Oct 20 2022 6:28 AM 
+- 🎊 [星际荣耀双曲线一号民营火箭发射失利原因找到](https://www.cnbeta.com/articles/science/1329193.htm) | Thu Oct 20 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;质子是一种位于原子核中的带有正电荷的核粒子。它是一个由夸克和胶子的基本构件组成的复合粒子。这些组成部分及其相互作用决定了质子的结构，包括其电荷和电流。当暴露在外部电场和磁场中时，这种结构会发生变形，这种现象被称为极化率。电磁极化率是对电磁场引起的变形的刚性的测量。&lt;strong&gt;通过测量电磁偏振率，研究人员可以了解到质子的内部结构。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2019年7月25日，星际荣耀公司的双曲线一号遥一火箭发射成功，也是我国民营航天首次成功入轨，但没想到，接下来的三发均未能取得成功。&lt;strong&gt;2022年5月13日，双曲线一号遥四火箭在我国酒泉卫星发射中心点火升空，火箭飞行异常，发射任务失利。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
