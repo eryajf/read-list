@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Locale - 以 5 美元的运费发现并订购美国最好的食物](https://xinquji.com/posts/180691?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:46 AM 
+- 👀 [Arctic Wallet - 多链非托管加密钱包](https://xinquji.com/posts/180721?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     以 5 美元的运费发现并订购美国最好的食物  
+     多链非托管加密钱包  
     </details> 
 
-- 🥷 [Vidstep - 为您的团队提供微培训](https://xinquji.com/posts/180690?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:45 AM 
+- 🥷 [eniston Knowledge Bases - 简单而强大的知识库软件](https://xinquji.com/posts/180720?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     为您的团队提供微培训  
+     简单而强大的知识库软件  
     </details> 
 
-- 💼 [Dinero - 以有趣的方式积累财富](https://xinquji.com/posts/180689?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:44 AM 
+- 💼 [Sleek Calendar 2.0 - 最清晰，最干净，最简单的日历和计划器](https://xinquji.com/posts/180719?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-     以有趣的方式积累财富  
+     最清晰，最干净，最简单的日历和计划器  
     </details> 
 
-- 🦅 [Hacker Stations - 技术专业人士的工作空间设置集合](https://xinquji.com/posts/180688?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:42 AM 
+- 🦅 [Acho App Builder - 将业务数据转化为应用程序](https://xinquji.com/posts/180718?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     技术专业人士的工作空间设置集合  
+     将业务数据转化为应用程序  
     </details> 
 
-- 😺 [Kindle Highlight Export by Glasp - 一键从 Kindle 导出所有亮点和笔记](https://xinquji.com/posts/180687?utm_campaign=xinquji-rss) | Thu Oct 20 2022 6:42 AM 
+- 😺 [Web3 Seems Legit - Web3 推特智慧，在每周时事通讯中策划](https://xinquji.com/posts/180717?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     一键从 Kindle 导出所有亮点和笔记  
+     Web3 推特智慧，在每周时事通讯中策划  
     </details> 
 <!-- xinquji:END -->
