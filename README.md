@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [IPv6与IPv4对比学习](https://juejin.cn/post/7156596855424417828) | Thu Oct 20 2022 2:11 PM 
+- 🤗 [你有多个前端项目，他们目录结构很像？有公共组件函数？该怎么复用？](https://juejin.cn/post/7156624721247731726) | Thu Oct 20 2022 3:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    我开发象棋、五子棋、斗地主、UNO时，有多个前端项目，他们目录结构很像，还有公共组件函数。我是如何通过自动化手段，提高开发效率的呢？ 
+    </details> 
+
+- 🎡 [Go Machine Learning](https://juejin.cn/post/7156604441028722718) | Thu Oct 20 2022 2:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    Go Machine Learning 前言 最近因为一直在弄部署整天c++写的非常头疼,趁着昨天把分割部署写好后打算换换口味,想着试试Go语言来实现一些机器学习,深度学习会是什么样子.之前推荐过Go 
+    </details> 
+
+- 🕯 [工作中如何做好技术积累](https://juejin.cn/post/7156603777577943053) | Thu Oct 20 2022 2:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    引言 古人云：“活到老，学到老。”互联网算是最辛苦的行业之一，“加班”对工程师来说已是“家常便饭”，同时互联网技术又日新月异，很多工程师都疲于应付，叫苦不堪。以至于长期以来流传一个很广的误解：35岁是 
+    </details> 
+
+- 🚀 [IPv6与IPv4对比学习](https://juejin.cn/post/7156596855424417828) | Thu Oct 20 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
     本文首先介绍了IPv4和IPv6的地址表示和数据报区别，然后详细介绍了编址方法的演进，最后介绍了各类地址的分配方式以及与IPv4和IPv6相关的协议，希望能对大家有所帮助。 
     </details> 
 
-- 🎡 [Java语言中的泛型的概念和使用方法](https://juejin.cn/post/7156596655565832205) | Thu Oct 20 2022 2:10 PM 
+- 💪 [Java语言中的泛型的概念和使用方法](https://juejin.cn/post/7156596655565832205) | Thu Oct 20 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
     当将各种不同数据类型的对象放入数组中，该数组不会记住对象的类型，当再次取出此对象时，该对象成为了**object类型**，但是它运行的时候，该对象的类型仍然是它加入数组时的数据类型。 
-    </details> 
-
-- 🕯 [IPv6与IPv4对比学习](https://juejin.cn/post/7156596586674389029) | Thu Oct 20 2022 2:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文首先介绍了IPv4和IPv6的地址表示和数据报区别，然后详细介绍了编址方法的演进，最后介绍了各类地址的分配方式以及与IPv4和IPv6相关的协议，希望对大家能有所帮助。 
-    </details> 
-
-- 🚀 [vite 发布基于 Ant Design Vue 二次封装的组件库到 npm](https://juejin.cn/post/7156585981611606047) | Thu Oct 20 2022 1:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    vite 发布基于 Ant Design Vue 二次封装的组件库到 npm，也可实现自定义组件库的发布，主要是以之前的两个组件 tButton 和 tTreeSelect为例，当然你也可以发布更多 
-    </details> 
-
-- 💪 [Android操作系统底层linux](https://juejin.cn/post/7156585405809164319) | Thu Oct 20 2022 1:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    2.6.x内核 Linux文件的访问权限： Android操作系统的目录结构 data目录： 保存应用程序的数据 dev目录 ： devices英文单词的缩写 mnt 外置的挂载上来的设备 proc  
     </details> 
 <!-- juejin:END -->
 ### 少数派
