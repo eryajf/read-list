@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华硕成立元宇宙公司 并推出首个NFT市场--艺术黑洞](https://www.cnbeta.com/articles/tech/1329053.htm) | Thu Oct 20 2022 2:07 AM 
+- 🕯 [特斯拉承诺至多回购百亿美元股票 有那么多现金吗？](https://www.cnbeta.com/articles/tech/1329133.htm) | Thu Oct 20 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;华硕（ASUS）于 10 月 4 日宣布成立“华硕元宇宙股份有限公司”，并推出了首个 NFT 艺术市场--&lt;a href=&quot;https://asusmeta.co/artblackhole/index&quot; target=&quot;_blank&quot;&gt;艺术黑洞（Art Black hole）&lt;/a&gt;。&lt;/strong&gt;该平台将整合艺术、摄影、时尚、影音和游戏等相关内容及 IP，允许艺术家和内容创作者托管他们的数字资产。此外华硕还推出 Web3 部门来监督其 NFT 和元宇宙战略。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月20日消息，在周三公布第三季度财报时，特斯拉首席执行官埃隆·马斯克（Elon Musk）表示将斥资50亿美元到100亿美元回购股票，同时在市值方面赶超苹果。然而问题在于，特斯拉有苹果那么多可以支配的现金吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [抗衰老研究通过喂食高糖饮食来延长蠕虫的寿命](https://www.cnbeta.com/articles/science/1329051.htm) | Thu Oct 20 2022 2:06 AM 
+- 💼 [天文学家可能发现迄今为止离地球最近的已知黑洞](https://www.cnbeta.com/articles/science/1329131.htm) | Thu Oct 20 2022 3:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新加坡南洋理工大学（NTU）的科学家们对蛔虫的衰老进行了新的研究，&lt;strong&gt;发现他们可以通过喂食高糖饮食来延长动物的寿命，从而得出了一些令人感兴趣的结果。&lt;/strong&gt;作者说，这一突破远不是建议人们采取这种生活方式的干预，而是强调了衰老过程中的一种新机制，并为解决与年龄有关的疾病的新疗法铺平了道路。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;天文学家可能已经发现了一个怪物黑洞，它是已知的最接近地球的黑洞之一。据研究小组称，这个黑洞的质量相当于12个太阳，它被发现悄悄地潜伏在我们的后院。对于黑暗到光都无法从其中逃脱的天体来说，黑洞在墨色的黑暗空间中很难被发现并不令人惊讶。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [2022年度野生动物摄影大赛作品赏析](https://www.cnbeta.com/articles/tech/1329049.htm) | Thu Oct 20 2022 1:58 AM 
+- 💂 [传大众汽车集团考虑出售俄罗斯工厂](https://www.cnbeta.com/articles/tech/1329129.htm) | Thu Oct 20 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年的年度野生动物摄影师大赛已进入第58个年头，它是世界上历史最悠久的摄影比赛之一，今年的获奖者涵盖了从超现实的访问一个现在由北极熊居住的废弃村庄到近距离观察一种奇怪的蜜蜂交配行为的一切。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329049.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;大众汽车集团正在寻找投资者接管其俄罗斯卡卢加工厂，该工厂在俄乌局势升级后不久就停止了生产。大众汽车集团表示，正在考虑其俄罗斯业务的各种处理方案，其中一个方案是将资产出售给第三方。该集团在声明中表示，目前还没有做出决定。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [日本制造到底有多依赖中国？进口中断两个月汽车、家电即无法生产](https://www.cnbeta.com/articles/tech/1329047.htm) | Thu Oct 20 2022 1:54 AM 
+- 🚀 [宝马董事长称不应设定汽油车淘汰日期](https://www.cnbeta.com/articles/tech/1329127.htm) | Thu Oct 20 2022 3:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，《日经中文网》发表了“如果日本脱离中国有多大代价？”的文章，分析指出，供应链脱离中国将大幅增加所有产品的成本。&lt;strong&gt;报导指出， 如果零部件等中国对日本的进口的80%中断两个月（约1.4万亿日元），日本不仅无法生产家用电器、汽车和树脂，而且也无法生产服装和食品&lt;/strong&gt;。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329047.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;盖世汽车讯 宝马董事长Oliver Zipse在10月19日表示，设定燃油车逐步淘汰日期或将导致“低价车型”在市场上消失，导致许多人难以购买汽车。&lt;/strong&gt;在宣布将在美国南卡罗莱纳州投资17亿美元生产电动汽车之前，Zipse在接受采访时表示，宝马还没有确定终止生产汽油动力汽车的日期，并建议美国不要禁止销售燃油车型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [iPad Pro国行预售开启：顶配卖将近2万元 比MacBook Air都贵](https://www.cnbeta.com/articles/tech/1329045.htm) | Thu Oct 20 2022 1:53 AM 
+- 🎊 [《暗黑破坏神4》后期封测即将开始 客户端更新了75G](https://hot.cnbeta.com/articles/game/1329125.htm) | Thu Oct 20 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，iPad Pro正式开启预售。售价方面，&lt;strong&gt;iPad Pro 11英寸版本起售价6799元，12.9英寸版本起售价9299元。这次iPad Pro提供了Wi-Fi版和蜂窝版两种选择，最高提供2TB存储，其中iPad Pro 12.9英寸2TB蜂窝版价格达到了19799元。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329045.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;之前暴雪宣布《暗黑破坏神4》后期封测将推出，在PC/PS4/PS5/XboxOne和XSX|S上进行，支持跨平台游玩和跨平台进度共享功能。&lt;/strong&gt;暴雪还给一些玩家发放了《暗黑4》封测资格。最近国外Reddit论坛网友GamingGuy93发帖称，《暗黑4》测试客户端有75G的更新，或许意味着封测即将开始。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329125.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
