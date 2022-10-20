@@ -122,29 +122,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第75期） : 我的SaaS模板代码库每月赚4千美元](https://www.ezindie.com/weekly/issue-75) | Fri Oct 14 2022 12:00 AM 
+- 💂 [独立开发变现周刊（第76期） : 一款两性关系治愈类iPhone应用是如何盈利的？](https://www.ezindie.com/weekly/issue-76) | Fri Oct 21 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一款两性关系治愈类iPhone应用是如何盈利的？ 
+    </details> 
+
+- 💡 [独立开发变现周刊（第75期） : 我的SaaS模板代码库每月赚4千美元](https://www.ezindie.com/weekly/issue-75) | Fri Oct 14 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。我的SaaS模板代码库每月赚4千美元 
     </details> 
 
-- 💡 [独立开发变现周刊（第74期） : 我的业余项目在3个月内月收入2500美元](https://www.ezindie.com/weekly/issue-74) | Fri Sep 30 2022 12:00 AM 
+- 🌋 [独立开发变现周刊（第74期） : 我的业余项目在3个月内月收入2500美元](https://www.ezindie.com/weekly/issue-74) | Fri Sep 30 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。我的业余项目在3个月内月收入2500美元 
     </details> 
 
-- 🌋 [独立开发变现周刊（第73期） : 0美元营销预算创建年收入7.2万美元的产品交易市场](https://www.ezindie.com/weekly/issue-73) | Fri Sep 23 2022 12:00 AM 
+- 🕴 [独立开发变现周刊（第73期） : 0美元营销预算创建年收入7.2万美元的产品交易市场](https://www.ezindie.com/weekly/issue-73) | Fri Sep 23 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。0美元营销预算创建年收入7.2万美元的产品交易市场 
     </details> 
 
-- 🕴 [独立开发变现周刊（第72期） : 在Reddit上验证想法，建立年收入18万美元的自动化求职平台](https://www.ezindie.com/weekly/issue-72) | Thu Sep 15 2022 12:00 AM 
+- 🎊 [独立开发变现周刊（第72期） : 在Reddit上验证想法，建立年收入18万美元的自动化求职平台](https://www.ezindie.com/weekly/issue-72) | Thu Sep 15 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。在Reddit上验证想法，建立年收入18万美元的自动化求职平台 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第71期） : 全力投入副业项目中，网络小工具获得了250万用户](https://www.ezindie.com/weekly/issue-71) | Fri Sep 09 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。全力投入副业项目中，网络小工具获得了250万用户 
     </details> 
 <!-- easyindie:END -->
 
