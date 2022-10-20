@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [这次 Android 版微信的大更新，可以「展开讲讲」](https://sspai.com/post/76313) | Thu Oct 20 2022 8:00 AM 
+- 👹 [新玩意 124｜少数派的编辑们最近买了啥？](https://sspai.com/post/76320) | Thu Oct 20 2022 9:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/76320&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [这次 Android 版微信的大更新，可以「展开讲讲」](https://sspai.com/post/76313) | Thu Oct 20 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     新版微信提供了类似华为「平行视界」的新界面，可以同时在左右并列显示以前只能全屏跳转的两个界面。&lt;a href=&quot;https://sspai.com/post/76313&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [我换上了 Wi-Fi 6，它用起来怎么样？](https://sspai.com/post/76305) | Thu Oct 20 2022 6:30 AM 
+- 🤭 [我换上了 Wi-Fi 6，它用起来怎么样？](https://sspai.com/post/76305) | Thu Oct 20 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     我对「消费升级」的理解是尽可能把生活中稀松平常但又必不可缺的物件用「我能买得起的最好一个」，当然这也有一个弊端是大家常说的「大材小用」，不过没关系，我觉得总有用上的一天。这是我生活中能自我掌握且少有的 ...&lt;a href=&quot;https://sspai.com/post/76305&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [iPhone 14 系列相机操作指南](https://sspai.com/post/76181) | Thu Oct 20 2022 3:16 AM 
+- 🥸 [iPhone 14 系列相机操作指南](https://sspai.com/post/76181) | Thu Oct 20 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     其实我们永远不知道一张照片随着时间变化会有怎样的价值变化，而如果恰巧它真的会成为美好回忆的一部分，那么它的像素再怎么高都不过分。&lt;a href=&quot;https://sspai.com/post/76181&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：开发者已可提交适配灵动岛的 App、英特尔透露雷电 5 规格等](https://sspai.com/post/76307) | Thu Oct 20 2022 12:33 AM 
+- 🙉 [派早报：开发者已可提交适配灵动岛的 App、英特尔透露雷电 5 规格等](https://sspai.com/post/76307) | Thu Oct 20 2022 12:33 AM 
     <details><summary>展开描述 ...</summary> 
     东芝宣布推出 20TB 大容量机械硬盘、微软计划推出 Xbox 手游商店等。&lt;a href=&quot;https://sspai.com/post/76307&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [解放双手，用 Biblioshiny 和 VOSviewer 快速梳理领域文献](https://sspai.com/post/75107) | Wed Oct 19 2022 9:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文我们介绍了两种快速了解科研领域和文献的工具。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/75107&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/278&quot; target=&quot;_blank&quot;&gt;《如何入门学术论文写作》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
