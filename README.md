@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [移动App更新暗示特斯拉将再次推出老带新购车奖励计划](https://www.cnbeta.com/articles/tech/1329231.htm) | Thu Oct 20 2022 8:15 AM 
+- 🕯 [《老友记》钱德勒演员：曾一天服用55片止痛药，导致结肠爆裂](https://hot.cnbeta.com/articles/movie/1329251.htm) | Thu Oct 20 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为了拉动销量，坚持直营的电动汽车制造商特斯拉（Tesla）也找到了“口口相传”的门道。&lt;strong&gt;通过将部分广告营销成本转化为“车主推荐福利”，新购车主可点击现有车主分享的链接、且双方都可获得奖励。&lt;/strong&gt;在促销的高峰期，该公司甚至向积累了足够高推荐数的客户赠送 Roadster 电动跑车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329231.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《老友记》钱德勒扮演者马修·派瑞在回忆录中透露自己因长期服用止痛片，导致结肠爆裂，四年前医生曾通知家人他只有2%的生存可能。马修直言其实在出演《老友记》时他就患上了严重的酒瘾，止痛药依赖成瘾也差点毁了他，最严重时他每天服用55片止痛片，体重下降到116斤。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329251.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [淘宝购物车扩容至300 新增分组、优惠筛选等功能](https://www.cnbeta.com/articles/tech/1329229.htm) | Thu Oct 20 2022 8:11 AM 
+- 💼 [iPhone 14 Plus人气低迷：爆料称苹果砍去近40%订单](https://www.cnbeta.com/articles/tech/1329249.htm) | Thu Oct 20 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，一则“日均千万人次收到购物车加满提示”的新闻登上热搜。该报道称，日均有1000万人次因购物车加满被提醒。据悉，就在今日，&lt;strong&gt;淘宝宣布对购物车进行扩容，购物车可装的宝贝数量上限从120个升级至300个，同时还新增分组、排序、优惠筛选等功能。此前，淘宝曾多次对购物车容量进行扩容。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329229.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;DigiTimes 援引多个供应链和渠道商的消息称：&lt;strong&gt;由于在推出后不到两周的销量很是低迷，苹果已向制造商发去通知，将该机型的产能大幅砍掉了近四成。&lt;/strong&gt;此外正如组件出货量变动所暗示的那样，据说苹果正在将更多产能向 iPhone 14 Pro / Pro Max 机型转移。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329249.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [500多亿立方米 南海发现中国第一个深水深层大气田](https://www.cnbeta.com/articles/tech/1329227.htm) | Thu Oct 20 2022 7:57 AM 
+- 💂 [微软悄然公布WSA路线图：即将引入Android 13系统支持](https://www.cnbeta.com/articles/tech/1329247.htm) | Thu Oct 20 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;中国海洋石油集团&lpar;中国海油&rpar;宣布，&lt;strong&gt;在海南岛东南部海域的琼东南盆地取得重大突破，发现了我国首个深水深层大气田宝岛21-1，探明地质储量超过500亿立方米，实现了松南-宝岛凹陷半个多世纪来的最大突破。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329227.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软近日对 Windows 11 端的 Windows Subsystem for Android（WSA）子系统带来了一些更新。根据微软在 Github 上悄悄发布的更新路线图，WSA 的更新速度明显加快，并会在近期推出一个重大更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329247.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《魔兽世界》幸运玩家同一天获得两匹超稀有坐骑](https://hot.cnbeta.com/articles/game/1329225.htm) | Thu Oct 20 2022 7:56 AM 
+- 🚀 [“只租不卖”不到2周 蔚来考虑在欧洲提供买断选项](https://www.cnbeta.com/articles/tech/1329245.htm) | Thu Oct 20 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一位《魔兽世界》玩家在同一天掉落了游戏中最稀有的两个坐骑。每个坐骑的掉落几率不到1%，这位玩家可能是《魔兽世界》历史上最幸运的玩家之一。&lt;/strong&gt;大多数《魔兽世界》玩家和坐骑收藏家都知道“无敌”和“无头骑士”坐骑的获取难度。魔兽世界玩家 Lyzosu 在同一天获得这两匹坐骑后，在 Reddit 论坛上炫耀了一番。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329225.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;蔚来考虑在先前“只租不卖”的欧洲市场提供买断选项。&lt;strong&gt;当地时间10月7日，蔚来在德国柏林举行欧洲发布会，共推出ET7、EL7和ET5三款车型，并宣布先期将以“只租不卖”的形式进入德国、荷兰、丹麦、瑞典四国市场，一度引发欧洲舆论的关注。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329245.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [传PS5 Pro开发组件已经分发至各大游戏厂 或2024年中上市](https://hot.cnbeta.com/articles/game/1329223.htm) | Thu Oct 20 2022 7:54 AM 
+- 🎊 [调查：67%的欧洲科技界女性认为与男性相比报酬过低 一半的人遭遇过性别歧视](https://www.cnbeta.com/articles/tech/1329243.htm) | Thu Oct 20 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期关于索尼下半代升级版主机的传闻屡见报端，日前据外媒报道，有知名舅舅党曝料称S5 Pro开发组件已经分发至各大游戏厂，PS5 Pro或将于2024年中期上市，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329223.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据TechCrunch报道，上个月，在国际同工同酬日，国际劳工组织（ILO）组织透露，全球女性的平均工资比男性低20%左右。黑人和西班牙裔女性的这种薪酬差距甚至更大，发现黑人女性的收入比白人男子低63%以上，西班牙裔或拉丁裔女性低57.3%。&lt;strong&gt;在一项又一项的调查中，这种公然的性别歧视不断被证明在科技行业中是明显的，而一项新的调查提供了另一个令人沮丧的关于女性如何被对待的一瞥。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329243.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
