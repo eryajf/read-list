@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Ring 0级固件威胁：新型UEFI rootkit恶意软件BlackLotus曝光](https://www.cnbeta.com/articles/tech/1329141.htm) | Thu Oct 20 2022 5:39 AM 
+- 🕯 [《大富翁11》登陆Steam/Switch 首周折扣59.4元](https://hot.cnbeta.com/articles/game/1329181.htm) | Thu Oct 20 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;最近引发广泛讨论的“BlackLotus”，属于一款相当全能的固件级 rootkit 恶意软件。特点是能够躲过各种删除操作，以及绕过先进的 Windows 防护措施。&lt;/strong&gt;此前这类高级攻击能力，仅被拥有深厚背景的机构所拥有，比如情报威胁组织。然而据报道，一款更新、更强大的 UEFT rootkit，正被人挂到暗网论坛上叫卖。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月20日11:00，大宇旗下知名IP《大富翁》系列新作《大富翁11》已经正式发售，&lt;strong&gt;登陆Steam/Switch双平台。目前Steam国区售价66元，首发享10%折扣，59.40元即可入手；Switch平台港版售价129元港币。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329181.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美能源部向电池公司发放28亿美元以推动国内生产](https://www.cnbeta.com/articles/tech/1329139.htm) | Thu Oct 20 2022 4:48 AM 
+- 💼 [RTX 4080 12GB被骂取消：RTX 4070再砍一刀](https://www.cnbeta.com/articles/tech/1329179.htm) | Thu Oct 20 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;拜登-哈里斯政府通过能源部&lpar;DOE&rpar;于当地时间周三宣布，20家电池公司将获得28亿美元以用于在12个州建设和扩大商业规模的设施。&lt;/strong&gt;这是拜登总统的《基础设施法》中总共70亿美元的第一阶段。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;高不成低不就、不伦不类的RTX 4080 12GB在一片骂声中取消了发布，那么它是换个身份归来，比如说改名为RTX 4070 Ti或者RTX 4070，还是彻底消失呢？据曝料大神MLID得到的情报，&lt;strong&gt;RTX 4080 12GB在官宣取消的时候，刚刚才开始投产&lt;/strong&gt;，所以对AIC厂商的影响并不是很大，只是打乱了未来的市场规划，需要重新调整。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《白雪公主》真人电影女主回应“政治正确”争议：这是必须的](https://hot.cnbeta.com/articles/movie/1329137.htm) | Thu Oct 20 2022 4:38 AM 
+- 💂 [发售14年后EA宣布关闭《红警3》等游戏服务器](https://hot.cnbeta.com/articles/game/1329177.htm) | Thu Oct 20 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日据外媒Vanityfair报道，迪士尼真人电影《白雪公主》女主瑞秋·泽格勒&lpar;Rachel Zegler&rpar;接受《名利场》采访，回应了由拉丁裔出演白雪公主的选角争议。&lt;/p&gt;&lt;p&gt;瑞秋·泽格勒表示：&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;如果是70后、80后游戏玩家，很可能会对《红警》游戏印象深刻，该系列游戏也在国内风靡一时，不过最新的《红警3》都是2008年发布的了，现在到了退场的时候了，EA宣布将关闭游戏服务器。据EA所说，《战地双雄》《雇佣兵2》《命令与征服：红色警戒3》《镜之边缘》《闪客2》等几款游戏将在未来两天内关闭游戏服务器，线上模式会受到影响。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [EA Sports将向女子足球投资1100万美元](https://hot.cnbeta.com/articles/game/1329135.htm) | Thu Oct 20 2022 4:28 AM 
+- 🚀 [新的研究方法揭示了我们学习时大脑发生的变化](https://www.cnbeta.com/articles/science/1329175.htm) | Thu Oct 20 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;EA Sports宣布将通过其StartingXI Fund向女子足球投资1100万美元。 该计划旨在发展这项运动，因为它将为游戏、联赛、俱乐部和运动员的投资提供资金。明年，游戏公司表示还将投资一项女子足球实习计划。它说这将扩展到每个当前和新的女子联盟合作伙伴。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;加州拉霍亚——斯克里普斯研究中心的科学家们开发了一种新的工具来监测大脑的可塑性——当我们学习和体验事物时，从看电影到学习一首新歌或一门语言，我们的大脑是如何重塑和身体自适应的。他们的方法是测量由不同类型的脑细胞产生的蛋白质，这种方法有可能回答关于大脑如何工作的基本问题，并阐明许多导致大脑可塑性出错的脑部疾病。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [特斯拉承诺至多回购百亿美元股票 有那么多现金吗？](https://www.cnbeta.com/articles/tech/1329133.htm) | Thu Oct 20 2022 4:02 AM 
+- 🎊 [科学家对质子的康普顿散射进行新的测量](https://www.cnbeta.com/articles/science/1329173.htm) | Thu Oct 20 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月20日消息，在周三公布第三季度财报时，特斯拉首席执行官埃隆·马斯克（Elon Musk）表示将斥资50亿美元到100亿美元回购股票，同时在市值方面赶超苹果。然而问题在于，特斯拉有苹果那么多可以支配的现金吗？&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;质子是一种位于原子核中的带有正电荷的核粒子。它是一个由夸克和胶子的基本构件组成的复合粒子。这些组成部分及其相互作用决定了质子的结构，包括其电荷和电流。当暴露在外部电场和磁场中时，这种结构会发生变形，这种现象被称为极化率。电磁极化率是对电磁场引起的变形的刚性的测量。&lt;strong&gt;通过测量电磁偏振率，研究人员可以了解到质子的内部结构。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
