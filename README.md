@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端组件级别的抽象方向](https://juejin.cn/post/7156575298501214221) | Thu Oct 20 2022 12:47 PM 
+- 🤗 [IPv6与IPv4对比学习](https://juejin.cn/post/7156596855424417828) | Thu Oct 20 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
-    模块化抽象的本质仍旧也逃离不了“高内聚、低耦合”这2个永恒的主题。更具体的，主要是为了性能和可维护性。 
+    本文首先介绍了IPv4和IPv6的地址表示和数据报区别，然后详细介绍了编址方法的演进，最后介绍了各类地址的分配方式以及与IPv4和IPv6相关的协议，希望能对大家有所帮助。 
     </details> 
 
-- 🎡 [用JS实现一个模板引擎](https://juejin.cn/post/7156566449350737927) | Thu Oct 20 2022 12:15 PM 
+- 🎡 [Java语言中的泛型的概念和使用方法](https://juejin.cn/post/7156596655565832205) | Thu Oct 20 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-    模板引擎，其作用是把模板渲染成html代码，常见的模板引擎有ejs等等，下面我们来手写一个简单的类ejs模板引擎。 
+    当将各种不同数据类型的对象放入数组中，该数组不会记住对象的类型，当再次取出此对象时，该对象成为了**object类型**，但是它运行的时候，该对象的类型仍然是它加入数组时的数据类型。 
     </details> 
 
-- 🕯 [Eureka源码9-Server端&lpar;处理Client状态修改和删除overridden状态请求&rpar;](https://juejin.cn/post/7156554844714008606) | Thu Oct 20 2022 11:31 AM 
+- 🕯 [IPv6与IPv4对比学习](https://juejin.cn/post/7156596586674389029) | Thu Oct 20 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-    Server端处理Client状态修改&lpar;statusUpdate方法&rpar;和删除overridden状态请求&lpar;deleteStatusUpdate方法&rpar; 
+    本文首先介绍了IPv4和IPv6的地址表示和数据报区别，然后详细介绍了编址方法的演进，最后介绍了各类地址的分配方式以及与IPv4和IPv6相关的协议，希望对大家能有所帮助。 
     </details> 
 
-- 🚀 [JS实现继承的方式，你会几种？](https://juejin.cn/post/7156555227229847582) | Thu Oct 20 2022 11:29 AM 
+- 🚀 [vite 发布基于 Ant Design Vue 二次封装的组件库到 npm](https://juejin.cn/post/7156585981611606047) | Thu Oct 20 2022 1:29 PM 
     <details><summary>展开描述 ...</summary> 
-    JS是如何实现继承的？你知道通过原型实现的继承和class继承有什么区别？你能手写一种原型继承方式嘛？ 
+    vite 发布基于 Ant Design Vue 二次封装的组件库到 npm，也可实现自定义组件库的发布，主要是以之前的两个组件 tButton 和 tTreeSelect为例，当然你也可以发布更多 
     </details> 
 
-- 💪 [从零到一搭建基础架构&lpar;5&rpar;-让你的RPC原地起飞](https://juejin.cn/post/7156550033087676430) | Thu Oct 20 2022 11:13 AM 
+- 💪 [Android操作系统底层linux](https://juejin.cn/post/7156585405809164319) | Thu Oct 20 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
-    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ Hello，这里是爱 Coding，爱 Hiphop，爱喝点小酒的 AKA 柏炎。 本篇是手把手搭建基础架构 
+    2.6.x内核 Linux文件的访问权限： Android操作系统的目录结构 data目录： 保存应用程序的数据 dev目录 ： devices英文单词的缩写 mnt 外置的挂载上来的设备 proc  
     </details> 
 <!-- juejin:END -->
 ### 少数派
