@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Upspace - 万物健康的社交平台](https://xinquji.com/posts/180759?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:35 AM 
+- 👀 [Launchcaster - 基于 Farcaster 构建的 Web3 产品搜寻](https://xinquji.com/posts/180761?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:39 AM 
+    <details><summary>展开描述 ...</summary> 
+     基于 Farcaster 构建的 Web3 产品搜寻  
+    </details> 
+
+- 🥷 [html.to.design - 将任何网站转换为完全可编辑的 Figma 设计](https://xinquji.com/posts/180760?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:37 AM 
+    <details><summary>展开描述 ...</summary> 
+     将任何网站转换为完全可编辑的 Figma 设计  
+    </details> 
+
+- 💼 [Upspace - 万物健康的社交平台](https://xinquji.com/posts/180759?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
      万物健康的社交平台  
     </details> 
 
-- 🥷 [Prompt Locker - 获取并提供有关您的 AI-gen 艺术的反馈，轻松保存收藏夹](https://xinquji.com/posts/180758?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:33 AM 
+- 🦅 [Prompt Locker - 获取并提供有关您的 AI-gen 艺术的反馈，轻松保存收藏夹](https://xinquji.com/posts/180758?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
      获取并提供有关您的 AI-gen 艺术的反馈，轻松保存收藏夹  
     </details> 
 
-- 💼 [goodtime - 安排休闲计划的简单方式](https://xinquji.com/posts/180757?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:32 AM 
+- 😺 [goodtime - 安排休闲计划的简单方式](https://xinquji.com/posts/180757?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
      安排休闲计划的简单方式  
-    </details> 
-
-- 🦅 [Loka, India&amp;#039;s 1st Metaverse - 一个元宇宙多人游戏应用程序](https://xinquji.com/posts/180756?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:31 AM 
-    <details><summary>展开描述 ...</summary> 
-     一个元宇宙多人游戏应用程序  
-    </details> 
-
-- 😺 [Dynamic Notch - 自定义 iPhone Dynamic Island 和 Notch](https://xinquji.com/posts/180755?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     自定义 iPhone Dynamic Island 和 Notch  
     </details> 
 <!-- xinquji:END -->
