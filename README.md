@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星Galaxy S23 Ultra跑分成绩现身Geekbench 将配备骁龙8 Gen 2](https://www.cnbeta.com/articles/tech/1329743.htm) | Fri Oct 21 2022 3:29 PM 
+- 🕯 [NASA为阿特米斯登月任务再订购3个猎户座乘员舱](https://www.cnbeta.com/articles/science/1329749.htm) | Fri Oct 21 2022 4:10 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;NASA决定继续制定其载人登月计划。&lt;strong&gt;NASA已从航空航天巨头洛克希德-马丁公司订购了另外三个猎户座载人舱，交易价值19.9亿美元。&lt;/strong&gt;这些航天器将用于NASA的Artemis月球计划，具体而言，Artemis任务六至八。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Intel 15代酷睿工艺出现分流 桌面台积电3nm、笔记本用自家20A](https://www.cnbeta.com/articles/tech/1329747.htm) | Fri Oct 21 2022 3:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;12代酷睿、13代酷睿都表现不错，Intel似乎有了王者归来的架势，也让人们对后边的Meteor Lake、Arrow Lake、Lunar Lake、Nova Lake……有了更多期待，尤其是Intel PPT做得非常漂亮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [消息称加里·布彻在Airbnb任职后将重返苹果公司](https://www.cnbeta.com/articles/tech/1329745.htm) | Fri Oct 21 2022 3:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;随着硬件设计副总裁埃文斯-汉基离开苹果，有消息称加里·布彻在Airbnb领导设计工作后将重新加入该公司。虽然苹果公司已经正式确认其工业设计副总裁埃文斯-汉基将离开公司，但它没有对可能的继任者发表评论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [三星Galaxy S23 Ultra跑分成绩现身Geekbench 将配备骁龙8 Gen 2](https://www.cnbeta.com/articles/tech/1329743.htm) | Fri Oct 21 2022 3:29 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;三星Galaxy S23系列预计将在2023年上半年推出。该公司可能会在2023年1月或2月举办新的Galaxy Unpacked活动中推出下一个Galaxy S系列旗舰手机。Galaxy S23系列可能包括三个新机型。这些机型包括Galaxy S23、S23 Ultra和Galaxy S23 Plus。三星Galaxy S23 Ultra将是这三款手机中最高档的产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果公司宣布首席产品设计师Evans Hankey即将离职](https://www.cnbeta.com/articles/tech/1329741.htm) | Fri Oct 21 2022 3:24 PM 
+- 🎊 [苹果公司宣布首席产品设计师Evans Hankey即将离职](https://www.cnbeta.com/articles/tech/1329741.htm) | Fri Oct 21 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;据彭博社记者Mark Gurman报道，苹果公司的工业设计副总裁Evans Hankey（埃文斯-汉基）计划明年离开公司。&lt;/strong&gt;苹果公司在一份声明中确认汉基将离开公司，但她的继任者还没有被提名。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [古天乐回应身体疾病：已完全康复 脖子里还有钛金属](https://hot.cnbeta.com/articles/movie/1329739.htm) | Fri Oct 21 2022 3:23 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;关于最近有媒体报答古天乐身体旧病的事情，古仔本人在微博作出回应。他表示感谢大家的问候关心，&lt;strong&gt;事情已经是多年前所发生，他已经通过手术痊愈。不过，古仔坦言，现在确实还有钛金属在颈部，当然自己已经完全康复，大家不用担心。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [蔚来调整欧洲“只租不卖”模式：月租1万元左右 可以买断](https://www.cnbeta.com/articles/tech/1329737.htm) | Fri Oct 21 2022 3:22 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本月早些时候，蔚来宣布进军欧洲市场，德国、荷兰、丹麦、瑞典四国推出了订阅模式，每月月租可达1万元，这种“只租不卖”的模式也引发了热议，现在蔚来宣布新的政策，用户也可以选择买断蔚来电动车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [AMD下代旗舰卡未发布先割两刀：24GB显存变20GB](https://www.cnbeta.com/articles/tech/1329735.htm) | Fri Oct 21 2022 3:21 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;AMD已经官宣，将于北京时间11月4日凌晨4点举办发布会，正式推出RDNA3架构的下一代显卡，预计命名RX 7000系列。据悉，AMD新卡的首发型号之一是RX 7900 XT，基于Navi 31大核心，原计划搭载24GB GDDR6显存，容量等同于RTX 4090，只不过仍然用不上更高频率的GDDR6X。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
