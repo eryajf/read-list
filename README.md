@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [马斯克：特斯拉目标2024年实现年产5万辆Semi 不采用4680电池](https://www.cnbeta.com/articles/tech/1329595.htm) | Fri Oct 21 2022 7:23 AM 
+- 🕯 [新研究揭示了夜间进食与抑郁焦虑情绪之间的联系](https://www.cnbeta.com/articles/science/1329615.htm) | Fri Oct 21 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;特斯拉为旗下半挂电动卡车 Semi 设定的量产目标是，最早在 2024 年实现年产 5 万辆。&lt;/strong&gt;特斯拉如果能够实现这个量产目标，那么它将成为全球最大的 Class 8 卡车制造商之一。经过五年的等待，特斯拉终于开始启动 Semi 的早期试产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在 2022 年 9 月 12 日发表于《美国国家科学院院刊》（PNAS）上的一篇文章中，研究人员探讨了为何《白天进食可防止夜间工作时的情绪脆弱》。&lt;/strong&gt;在这项模拟夜间工作的研究中，麻省总医院布莱根医疗保健系统创始成员、来自 BWH 妇女医院的研究人员们，认真审视了白天 vs 晚上进食对受试成员情绪的不同影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究：复原力是可以学习的 甚至可以被强化](https://www.cnbeta.com/articles/science/1329593.htm) | Fri Oct 21 2022 7:15 AM 
+- 💼 [价值1亿美元时 “AI作画”背后的团队开始互撕](https://www.cnbeta.com/articles/tech/1329613.htm) | Fri Oct 21 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;屈服于绝望感太容易了。这在我们面临全球政治动荡、经济动荡和没完没了的疫情时尤其如此。有些人如何比其他人更快地从逆境中恢复过来，而那些挣扎的人能否随着时间的推移教自己变得更有韧性？&lt;strong&gt;根据普林斯顿神经科学研究所的一个研究小组在小鼠身上进行的一项新研究，复原力是可以学习的，甚至可以得到加强。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Stable Diffusion 到底是谁的 Stable Diffusion？前几天，一家 AI 公司融资的消息吸引了不少人的目光。这家公司名叫 Stability AI，成立于 2020 年，在拿到本轮 1.01 亿美元的融资之后成为新晋独角兽，估值高达 10 亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [优步在印度德里推出电动汽车出租服务 未来将进一步扩大规模](https://www.cnbeta.com/articles/tech/1329591.htm) | Fri Oct 21 2022 7:12 AM 
+- 💂 [《黑豹2：瓦坎达万岁》全新预告：新任女黑豹登场、霸气后空翻](https://hot.cnbeta.com/articles/movie/1329611.htm) | Fri Oct 21 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;优步（Uber）已经为德里（印度首都特区）的部分用户提供电动汽车出租服务，并计划在未来几个月里进一步扩大该服务规模。&lt;/strong&gt;该电动出租服务目前仅限于预定行程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;漫威电影《黑豹2：瓦坎达万岁》发布新预告，新任黑豹登场，还有全新打斗画面！快来看看吧！影片将于11月11日北美上映，歌手蕾哈娜重磅加盟献唱两首新歌。《黑豹2》仍由前作导演瑞恩·库格勒执导，露皮塔·尼永奥、利蒂希娅·赖特、丹娜·奎里拉、马丁·弗里曼等回归主演，多米尼克·索恩、特诺切·韦尔塔、米凯拉·科尔全新加盟，将于11月11日北美上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [国际象棋大师尼曼起诉卡尔森等人发表诽谤性言论 要求赔偿1亿美元](https://www.cnbeta.com/articles/tech/1329589.htm) | Fri Oct 21 2022 7:01 AM 
+- 🚀 [1999年神机再现 诺基亚8210 4G开启预售 还能支付宝扫码](https://www.cnbeta.com/articles/tech/1329609.htm) | Fri Oct 21 2022 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据CNBC报道，&lt;strong&gt;国际象棋大师汉斯·尼曼（Hans Niemann）对世界冠军马格努斯·卡尔森（Magnus Carlsen）和其他人提起了1亿美元的诉讼，指控他们发表诽谤性言论，声称尼曼在比赛中作弊。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;1999年，诺基亚推出8210，出色的设计使它风靡世界。如今诺基亚复刻了这款经典手机，带来了全新的8210 4G，&lt;strong&gt;这款新品完美复刻诺基亚8210复古外观，拥有2.8英寸屏幕，机身轻至107g，&lt;/strong&gt;轻松装进口袋。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [宝马：氢气将会成为汽车的最理想动力来源](https://www.cnbeta.com/articles/tech/1329587.htm) | Fri Oct 21 2022 7:01 AM 
+- 🎊 [《生化危机4：重制版》新截图 艾什莉和艾达王太美丽](https://hot.cnbeta.com/articles/game/1329603.htm) | Fri Oct 21 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;宝马可能正在增加其电池汽车产品，并在越来越多的车型上添加“i”徽章，另外它还承诺到2030年使该集团一半的新车成为电动汽车，不过该公司董事长认为氢气而不是电池将很快成为最理想的动力来源。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日&lpar;10月21日&rpar;在生化危机展示会上，卡普空公布了《生化危机4：重制版》新预告。现在官方又公布了游戏新截图，展示了里昂、艾什莉、艾达王，商人和邪教教主等人。一起来欣赏下吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
