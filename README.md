@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [探索BottomSheet的背后秘密](https://juejin.cn/post/7156874737740677133) | Fri Oct 21 2022 8:10 AM 
+- 🤗 [SpringBoot MockMvcTest - api单元测试](https://juejin.cn/post/7156880428954189838) | Fri Oct 21 2022 8:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    JUnit 简介 JUnit是一款Java语言的单元测试框架，目前大多数Java开发环境都已经支持它了。JUnit测试也就是所谓的白盒测试，在程序员知道程序内部逻辑的基础上进行的测试，使用JUnit能 
+    </details> 
+
+- 🎡 [sudo，代表了Linux的绝对霸权！](https://juejin.cn/post/7156879459126083621) | Fri Oct 21 2022 8:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    su是一个Linux命令，浑身充满了power。可以切换到其他用户或者高权用户去干sth。 请原谅我这外企员工中英文夹杂式的表达，reason很简单，就是要你有很深的impression。 在很久很久 
+    </details> 
+
+- 🕯 [Docker系列学习&lpar;23&rpar; -- Docker Compose常用命令（3）](https://juejin.cn/post/7156875263714787336) | Fri Oct 21 2022 8:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，点击查看活动详情 生命不息，学习不止 题外话 今天又是阳光明媚的一天，今天是周五，everybody，周五了，美好的周六 
+    </details> 
+
+- 🚀 [[响应式编程] 你真的理解Empty v.s. Null 吗](https://juejin.cn/post/7156874947241967652) | Fri Oct 21 2022 8:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文重点介绍了在响应式编程中比较被忽略但容易误用的一个知识点，关于Null与Empty的语义理解，同时也介绍了Null的二义性问题以及在Reactor中是如何禁止null以及使用empty和无效值。 
+    </details> 
+
+- 💪 [探索BottomSheet的背后秘密](https://juejin.cn/post/7156874737740677133) | Fri Oct 21 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
     Bottom Sheet 在Android Design Support Library 23.2 版本引入，可以帮助我们快速实现半屏弹窗效果，让我们来探索其背后的工作原理～ 
-    </details> 
-
-- 🎡 [云原生分布式 PostgreSQL+Citus 集群在 Sentry 后端的实践](https://juejin.cn/post/7156868365288472613) | Fri Oct 21 2022 7:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    优化一个分布式系统的吞吐能力，除了应用本身代码外，很大程度上是在优化它所依赖的中间件集群处理能力。如：kafka/redis/rabbitmq/postgresql/分布式存储&lpar;CephFS,Juic 
-    </details> 
-
-- 🕯 [Vue3手写系列之ref](https://juejin.cn/post/7156861736023392263) | Fri Oct 21 2022 7:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    hello 大家好，🙎🏻‍♀️🙋🏻‍♀️🙆🏻‍♀️ 我是一个热爱知识传递，正在学习写作的作者，ClyingDeng。 本文给大家带来的是vue3 中 ref API的实现。 
-    </details> 
-
-- 🚀 [降维打击？「在线和协作」是不是原型工具的未来？](https://juejin.cn/post/7156859068651405348) | Fri Oct 21 2022 7:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    开篇一个问题：你经常使用腾讯文档、金山文档、石墨文档这样的在线协作文档产品吗？对于办公群体来说，他们早已是国民级应用。 在企业微信2022新品发布会上，腾讯文档宣布产品月活跃用户突破2亿。而另一边，金 
-    </details> 
-
-- 💪 [阿里巴巴 Noslate 正式开源 - 面向云原生的 JavaScript 容器方案](https://juejin.cn/post/7156855443388645413) | Fri Oct 21 2022 6:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天，向大家正式介绍阿里最新面向云原生场景，面向 Serverless 架构下的新开源产品， 代号 Noslate。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
