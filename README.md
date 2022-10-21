@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [新研究揭示了夜间进食与抑郁焦虑情绪之间的联系](https://www.cnbeta.com/articles/science/1329615.htm) | Fri Oct 21 2022 8:28 AM 
+- 🕯 [微软电脑管家在海外开启公测：官方御用清理工具](https://www.cnbeta.com/articles/tech/1329645.htm) | Fri Oct 21 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在 2022 年 9 月 12 日发表于《美国国家科学院院刊》（PNAS）上的一篇文章中，研究人员探讨了为何《白天进食可防止夜间工作时的情绪脆弱》。&lt;/strong&gt;在这项模拟夜间工作的研究中，麻省总医院布莱根医疗保健系统创始成员、来自 BWH 妇女医院的研究人员们，认真审视了白天 vs 晚上进食对受试成员情绪的不同影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软日前在国内推出了“微软电脑管家”，提供包括垃圾清理、大文件管理、存储感知、应用卸载等深度清理功能，可释放更多系统存储空间。&lt;strong&gt;援引国外科技媒体 Windows Lastest 报道，这款应用目前以 PC Manager 的名称开启公测，预估将会上架 Microsoft Store。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [价值1亿美元时 “AI作画”背后的团队开始互撕](https://www.cnbeta.com/articles/tech/1329613.htm) | Fri Oct 21 2022 8:16 AM 
+- 💼 [电动汽车投资方兴未艾：到2030年全球投资规模将达1.2万亿美元](https://www.cnbeta.com/articles/tech/1329641.htm) | Fri Oct 21 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Stable Diffusion 到底是谁的 Stable Diffusion？前几天，一家 AI 公司融资的消息吸引了不少人的目光。这家公司名叫 Stability AI，成立于 2020 年，在拿到本轮 1.01 亿美元的融资之后成为新晋独角兽，估值高达 10 亿美元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329613.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;北京时间10月21日下午消息，据报道，&lt;strong&gt;最新一项研究表明，全球主要汽车制造商对电动汽车的投资方兴未艾，到2030年预计将达到1.2万亿美元，用于研发和生产电动汽车，以及电池和其他原材料。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《黑豹2：瓦坎达万岁》全新预告：新任女黑豹登场、霸气后空翻](https://hot.cnbeta.com/articles/movie/1329611.htm) | Fri Oct 21 2022 8:15 AM 
+- 💂 [Windows 11文件管理器标签页功能存BUG：右上窗口按钮无法悬停](https://www.cnbeta.com/articles/tech/1329639.htm) | Fri Oct 21 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;漫威电影《黑豹2：瓦坎达万岁》发布新预告，新任黑豹登场，还有全新打斗画面！快来看看吧！影片将于11月11日北美上映，歌手蕾哈娜重磅加盟献唱两首新歌。《黑豹2》仍由前作导演瑞恩·库格勒执导，露皮塔·尼永奥、利蒂希娅·赖特、丹娜·奎里拉、马丁·弗里曼等回归主演，多米尼克·索恩、特诺切·韦尔塔、米凯拉·科尔全新加盟，将于11月11日北美上映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329611.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在日前发布的 Windows 11 Version 22H2（Moment 1）更新中，所有用户都可以在文件管理器中体验标签页功能。&lt;strong&gt;不过有用户反馈称该功能依然存在一些 BUG，其中最恼人的一个问题就是标题按钮（窗口按钮）无法悬停，鼠标移动到上面后会快速跳过。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [1999年神机再现 诺基亚8210 4G开启预售 还能支付宝扫码](https://www.cnbeta.com/articles/tech/1329609.htm) | Fri Oct 21 2022 8:14 AM 
+- 🚀 [特斯拉还需要一针“强心剂”](https://www.cnbeta.com/articles/tech/1329637.htm) | Fri Oct 21 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;1999年，诺基亚推出8210，出色的设计使它风靡世界。如今诺基亚复刻了这款经典手机，带来了全新的8210 4G，&lt;strong&gt;这款新品完美复刻诺基亚8210复古外观，拥有2.8英寸屏幕，机身轻至107g，&lt;/strong&gt;轻松装进口袋。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329609.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;“特斯拉市值有希望超过苹果和沙特阿美市值的总和，我预计特斯拉市值将达到沙特阿美的两倍！”&lt;/strong&gt;10月20日，特斯拉CEO埃隆·马斯克在特斯拉2022年Q3财报会议上夸下海口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [《生化危机4：重制版》新截图 艾什莉和艾达王太美丽](https://hot.cnbeta.com/articles/game/1329603.htm) | Fri Oct 21 2022 7:36 AM 
+- 🎊 [清华刘世霞教授斩获IEEE VIS 2022可视化技术成就奖](https://www.cnbeta.com/articles/science/1329635.htm) | Fri Oct 21 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日&lpar;10月21日&rpar;在生化危机展示会上，卡普空公布了《生化危机4：重制版》新预告。现在官方又公布了游戏新截图，展示了里昂、艾什莉、艾达王，商人和邪教教主等人。一起来欣赏下吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329603.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022年10月18日，电气与电子工程师协会可视化大会（IEEE VIS）公布了本届可视化技术成就奖两位得主，分别是：清华大学刘世霞教授和犹他大学 Valerio Pascucci 教授。该奖项本年度累计入选者有 20 位，获奖 2 位，而刘世霞是 IEEE VIS 迄今为止首位亚洲入选者，也是第二位华人入选者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
