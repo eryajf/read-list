@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [自己工作已完成， leader 在群里发一句周六来加班，如何应答](https://www.v2ex.com/t/888719#reply12) | Fri Oct 21 2022 6:13 AM
-- 🤗 [rust 真的是硬盘杀手](https://www.v2ex.com/t/888714#reply7) | Fri Oct 21 2022 6:04 AM
-- 🎭 [有什么 idea 插件能实现在 xml 中显示字段注释](https://www.v2ex.com/t/888707#reply3) | Fri Oct 21 2022 5:42 AM
-- 🥷 [Python parallel-ssh 这个库实现 os.walk 怎么做有人知道吗?](https://www.v2ex.com/t/888705#reply0) | Fri Oct 21 2022 5:34 AM
-- 🐵 [为什么公司不允许 ssh 链接 gitlab](https://www.v2ex.com/t/888699#reply33) | Fri Oct 21 2022 5:15 AM<!-- v2ex:END -->
+- 🥸 [Android 如何避免 APP 在通知栏拉屎](https://www.v2ex.com/t/888743#reply1) | Fri Oct 21 2022 7:23 AM
+- 🤗 [git rebase 命令主要啥作用](https://www.v2ex.com/t/888739#reply6) | Fri Oct 21 2022 7:09 AM
+- 🎭 [自己工作已完成， leader 在群里发一句周六来加班，如何应答](https://www.v2ex.com/t/888719#reply35) | Fri Oct 21 2022 6:13 AM
+- 🥷 [rust 真的是硬盘杀手](https://www.v2ex.com/t/888714#reply10) | Fri Oct 21 2022 6:04 AM
+- 🐵 [有什么 idea 插件能实现在 xml 中显示字段注释](https://www.v2ex.com/t/888707#reply3) | Fri Oct 21 2022 5:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
