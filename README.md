@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你应该知道的 githooks](https://juejin.cn/post/7156911260418703367) | Fri Oct 21 2022 10:33 AM 
+- 🤗 [建设工程项目策划](https://juejin.cn/post/7156960498171248671) | Fri Oct 21 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言 现代web开发中，多人合作项目已经是常态。在此场景下，为了提升合作效率和质量，减少因个人习惯分歧而导致的额外成本，标准化规范化的需求自然浮现出来，代码规范，comm 
+    建设工程项目策划 建设工程项目策划是指：通过调查研究和收集资料，在充分占有信息的基础上，针对建设工程项目的决策和实施，或决策和实施的某个问题进行组织，管理，经济和技术等方面的科学分析和论证，旨在为项目 
     </details> 
 
-- 🎡 [Angular 快速入门 ｜ Pipe &lpar; 自定义 Pipe &rpar;](https://juejin.cn/post/7156909944401297415) | Fri Oct 21 2022 10:27 AM 
+- 🎡 [了解 Flutter 开发者们的 IDE 使用情况](https://juejin.cn/post/7156955550637359134) | Fri Oct 21 2022 1:23 PM 
     <details><summary>展开描述 ...</summary> 
-    Pipe 作用于 html template 用来格式化/预处理你的 html template Angular 内置的 pipe 有下列 DatePipe：根据本地环境中的规则格式化日期值。 Upp 
+    Google 的 Flutter 团队负责构建和维护 Android Studio &lpar;基于 IntelliJ-IDEA&rpar; 和 Visual Studio Code &lpar;VS Code&rpar; 的支持。 
     </details> 
 
-- 🕯 [Angular 快速入门 ｜ Directive](https://juejin.cn/post/7156909110326362148) | Fri Oct 21 2022 10:25 AM 
+- 🕯 [音视频开发——FFmpeg学习教程](https://juejin.cn/post/7156953172173389832) | Fri Oct 21 2022 1:14 PM 
     <details><summary>展开描述 ...</summary> 
-    时光机 👾 Angular 快速入门 ｜ 项目配置 &lpar; angular.json / environment / proxy / tailwind &rpar; ✅ ✅ Angular 快速入门 ｜ Rxjs  
+    一、前言 音视频开发学习中，FFmpeg的学习为什么这么重要？ 因为FFmpeg 是一个开源软件，采用 LGPL 或 GPL 许可证（需要注意这里的开源协议，它具有『传染性』，会要求它的使用方也开源） 
     </details> 
 
-- 🚀 [Angular 快速入门 ｜ 项目配置 &lpar; angular.json / environment / proxy / tailwind &rpar;](https://juejin.cn/post/7156906340114235405) | Fri Oct 21 2022 10:15 AM 
+- 🚀 [MySQL基础-删除/更新行为](https://juejin.cn/post/7156952630885875726) | Fri Oct 21 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
-    由于最近工作的转变 技术栈也由 React 向 Angular 进行了切换 用了两/三个月的 Angular 打算写一些文章 也好有个积累 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第21天点击查看活动详情 删除/更新行为 添加了外键之后，再删除父表数据时产生的约束行为，我们就称为删除/更新行为。具体的删除/更 
     </details> 
 
-- 💪 [从0搭建vue3组件库:自动化发布、管理版本号、生成 changelog、tag](https://juejin.cn/post/7156904103438712846) | Fri Oct 21 2022 10:04 AM 
+- 💪 [利用Babel自动生成“Attribute”文档](https://juejin.cn/post/7156949648979329061) | Fri Oct 21 2022 1:04 PM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍如何使用`release-it`并应用到vue3组件库项目中,让组件库可以自动化发布、管理版本号、生成 changelog、tag等 
+    我正在参加「掘金·启航计划」 利用Babel自动解析源码属性上的注释生成对应Markdown文档，这个场景的应用主要包括在组件库文档对组件属性的介绍中，这一篇就通过编写一个Babel插件来 
     </details> 
 <!-- juejin:END -->
 ### 少数派
