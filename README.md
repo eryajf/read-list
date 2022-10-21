@@ -338,24 +338,24 @@
     快来看看你支持的企业上榜了吗？ 
     </details> 
 
-- 🦄 [7 个步骤，保障医疗行业免受网络威胁！](https://www.freebuf.com/news/347376.html) | Thu Oct 20 2022 5:10 AM 
+- 🦄 [Android逆向分析工具性能对比分析](https://www.freebuf.com/sectool/347405.html) | Thu Oct 20 2022 7:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文针对国内以及国外知名Android逆向工程工具进行横向评测。 
+    </details> 
+
+- 🦅 [7 个步骤，保障医疗行业免受网络威胁！](https://www.freebuf.com/news/347376.html) | Thu Oct 20 2022 5:10 AM 
     <details><summary>展开描述 ...</summary> 
     本文梳理了一些安全保障措施，希望能够为医疗行业网络安全建设带来一些帮助。 
     </details> 
 
-- 🦅 [因配置错误，微软可能已泄露大量客户敏感数据](https://www.freebuf.com/news/347368.html) | Thu Oct 20 2022 3:12 AM 
+- 🪄 [FreeBuf早报 | 新型UEFI rootkit恶意软件BlackLotus曝光；Lapsus$团伙成员被捕](https://www.freebuf.com/articles/347375.html) | Thu Oct 20 2022 5:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022 上半年中国 IT 安全服务市场厂商整体收入约为 12.25 亿美元。 
+    </details> 
+
+- 💻 [因配置错误，微软可能已泄露大量客户敏感数据](https://www.freebuf.com/news/347368.html) | Thu Oct 20 2022 3:12 AM 
     <details><summary>展开描述 ...</summary> 
     错误配置可能导致未经身份验证的访问行为，从而暴露微软和客户之间某些业务文件、交易数据以及客户的个人信息。 
-    </details> 
-
-- 🪄 [实战打靶之Noter](https://www.freebuf.com/articles/web/347334.html) | Wed Oct 19 2022 11:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    靶机主要是从信息收集开始，发现是flask搭建的，然后使用flask unsign进行解密，暴力破解。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 德国网络安全负责人涉嫌“通俄”被解雇；Kakao CEO宣布辞职](https://www.freebuf.com/news/347301.html) | Wed Oct 19 2022 8:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    德国内政部长解雇了网络安全负责人Arne Schönbohm，他面临通过行业协会德国网络安全委员会与俄罗斯安全服务机构有联系的指控。 
     </details> 
 <!-- freebuf:END -->
 
