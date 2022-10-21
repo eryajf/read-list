@@ -820,28 +820,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Dasheet - 任何人都可以创建的数据可视化仪表板](https://xinquji.com/posts/180729?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:47 AM 
+- 👀 [Upspace - 万物健康的社交平台](https://xinquji.com/posts/180759?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     任何人都可以创建的数据可视化仪表板  
+     万物健康的社交平台  
     </details> 
 
-- 🥷 [Owledge - 向专家学习，成为成功的自由职业者](https://xinquji.com/posts/180728?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:44 AM 
+- 🥷 [Prompt Locker - 获取并提供有关您的 AI-gen 艺术的反馈，轻松保存收藏夹](https://xinquji.com/posts/180758?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     向专家学习，成为成功的自由职业者  
+     获取并提供有关您的 AI-gen 艺术的反馈，轻松保存收藏夹  
     </details> 
 
-- 💼 [Kanjo Health - 通过游戏洞察力提供个性化的家庭心理保健](https://xinquji.com/posts/180727?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:42 AM 
+- 💼 [goodtime - 安排休闲计划的简单方式](https://xinquji.com/posts/180757?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-     通过游戏洞察力提供个性化的家庭心理保健  
+     安排休闲计划的简单方式  
     </details> 
 
-- 🦅 [RankedVote - 如果只进行排名选择投票，SurveyMonkey](https://xinquji.com/posts/180726?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:41 AM 
+- 🦅 [Loka, India&amp;#039;s 1st Metaverse - 一个元宇宙多人游戏应用程序](https://xinquji.com/posts/180756?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     如果只进行排名选择投票，SurveyMonkey  
+     一个元宇宙多人游戏应用程序  
     </details> 
 
-- 😺 [New Public - 建设更好的数字公共空间](https://xinquji.com/posts/180725?utm_campaign=xinquji-rss) | Fri Oct 21 2022 6:40 AM 
+- 😺 [Dynamic Notch - 自定义 iPhone Dynamic Island 和 Notch](https://xinquji.com/posts/180755?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     建设更好的数字公共空间  
+     自定义 iPhone Dynamic Island 和 Notch  
     </details> 
 <!-- xinquji:END -->
