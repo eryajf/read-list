@@ -237,29 +237,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [游记 | 在安吉大山里发现神仙级森林露营地](https://blog.ops-coffee.cn/r/anji-tianchi-forest-camping) | Tue Sep 13 2022 3:56 PM 
+- 👺 [基于多云构建监控告警系统](https://blog.ops-coffee.cn/s/mml5jzQVDzByf0F3sJN5dg) | Fri Oct 21 2022 9:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    基于多云构建监控告警系统 
+    </details> 
+
+- 💯 [游记 | 在安吉大山里发现神仙级森林露营地](https://blog.ops-coffee.cn/r/anji-tianchi-forest-camping) | Tue Sep 13 2022 3:56 PM 
     <details><summary>展开描述 ...</summary> 
     游记 | 在安吉大山里发现神仙级森林露营地 
     </details> 
 
-- 💯 [各系统或服务查询时区方法汇总](https://blog.ops-coffee.cn/t/linux-mysql-python-django-timezone) | Fri Sep 09 2022 12:03 PM 
+- 🚦 [各系统或服务查询时区方法汇总](https://blog.ops-coffee.cn/t/linux-mysql-python-django-timezone) | Fri Sep 09 2022 12:03 PM 
     <details><summary>展开描述 ...</summary> 
     各系统或服务查询时区方法汇总 
     </details> 
 
-- 🚦 [django-celery-beat clocked使用UTC时区问题](https://blog.ops-coffee.cn/t/django-celery-beat-clocked-utc-timezone) | Fri Sep 09 2022 7:12 AM 
+- 👨‍🏫 [django-celery-beat clocked使用UTC时区问题](https://blog.ops-coffee.cn/t/django-celery-beat-clocked-utc-timezone) | Fri Sep 09 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
     django-celery-beat clocked使用UTC时区问题 
     </details> 
 
-- 👨‍🏫 [Echarts常见问题处理](https://blog.ops-coffee.cn/t/echarts-options-config) | Tue Aug 16 2022 5:06 PM 
+- 🌮 [Echarts常见问题处理](https://blog.ops-coffee.cn/t/echarts-options-config) | Tue Aug 16 2022 5:06 PM 
     <details><summary>展开描述 ...</summary> 
     一些echarts的常见问题处理记录 
-    </details> 
-
-- 🌮 [Django Template常见用法及配置介绍](https://blog.ops-coffee.cn/django/django-template-config) | Thu Aug 11 2022 11:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    详细介绍Django Template的常见用法及配置 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
