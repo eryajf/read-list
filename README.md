@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [比二手更可靠，比全新价更低：值得关注的官翻渠道汇总](https://sspai.com/post/76354) | Fri Oct 21 2022 3:30 AM 
+- 👹 [用「功能性训练」来升级你的训练计划](https://sspai.com/post/76345) | Fri Oct 21 2022 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    前段时间刷到了施瓦辛格在五十年前的训练视频，在惊叹施瓦辛格完美身材的同时突然发现，五十年前的训练方式现在仍然被健身房的大多数人所推崇和使用：我们和五十年前一样，用同样的方式进行杠铃弯举，在同样的器械上 ...&lt;a href=&quot;https://sspai.com/post/76345&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [比二手更可靠，比全新价更低：值得关注的官翻渠道汇总](https://sspai.com/post/76354) | Fri Oct 21 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     像我一样苦于囊中羞涩的朋友，或许可以看一看由官方推出的翻新产品，它们不管是手机、电脑还是其他数码产品，由于都有着官方背书，翻新质量、售后服务都比二手市场更加可靠。&lt;a href=&quot;https://sspai.com/post/76354&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：Google 将为信息 app 添加一系列新功能、iQOO 发布 iQOO Neo7 新机等](https://sspai.com/post/76351) | Fri Oct 21 2022 1:02 AM 
+- 🤭 [派早报：Google 将为信息 app 添加一系列新功能、iQOO 发布 iQOO Neo7 新机等](https://sspai.com/post/76351) | Fri Oct 21 2022 1:02 AM 
     <details><summary>展开描述 ...</summary> 
     Blackmagic Design 宣布 DaVinci Resolve 将登陆 iPad，微软 WSA 迎来更新，未来支持与 Windows 互传文件等&lt;a href=&quot;https://sspai.com/post/76351&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新玩意 124｜少数派的编辑们最近买了啥？](https://sspai.com/post/76320) | Thu Oct 20 2022 9:05 AM 
+- 🥸 [新玩意 124｜少数派的编辑们最近买了啥？](https://sspai.com/post/76320) | Thu Oct 20 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/76320&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [这次 Android 版微信的大更新，可以「展开讲讲」](https://sspai.com/post/76313) | Thu Oct 20 2022 8:00 AM 
+- 🙉 [这次 Android 版微信的大更新，可以「展开讲讲」](https://sspai.com/post/76313) | Thu Oct 20 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     新版微信提供了类似华为「平行视界」的新界面，可以同时在左右并列显示以前只能全屏跳转的两个界面。&lt;a href=&quot;https://sspai.com/post/76313&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [我换上了 Wi-Fi 6，它用起来怎么样？](https://sspai.com/post/76305) | Thu Oct 20 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    我对「消费升级」的理解是尽可能把生活中稀松平常但又必不可缺的物件用「我能买得起的最好一个」，当然这也有一个弊端是大家常说的「大材小用」，不过没关系，我觉得总有用上的一天。这是我生活中能自我掌握且少有的 ...&lt;a href=&quot;https://sspai.com/post/76305&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
