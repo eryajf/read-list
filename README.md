@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [安全专家认为乌克兰仍可能面临网络攻击](https://www.cnbeta.com/articles/tech/1329723.htm) | Fri Oct 21 2022 1:53 PM 
+- 🕯 [三星Galaxy S23 Ultra跑分成绩现身Geekbench 将配备骁龙8 Gen 2](https://www.cnbeta.com/articles/tech/1329743.htm) | Fri Oct 21 2022 3:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在与俄罗斯开战近8个月后，乌克兰尚未遭受严重的网络攻击，这要归功于该国的网络防御系统，但专家说，随着战争的拖延和俄罗斯变得更加绝望，重大攻击仍可能发生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星Galaxy S23系列预计将在2023年上半年推出。该公司可能会在2023年1月或2月举办新的Galaxy Unpacked活动中推出下一个Galaxy S系列旗舰手机。Galaxy S23系列可能包括三个新机型。这些机型包括Galaxy S23、S23 Ultra和Galaxy S23 Plus。三星Galaxy S23 Ultra将是这三款手机中最高档的产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [神秘粒子7倍光速向地球飞来？](https://www.cnbeta.com/articles/science/1329721.htm) | Fri Oct 21 2022 1:30 PM 
+- 💼 [苹果公司宣布首席产品设计师Evans Hankey即将离职](https://www.cnbeta.com/articles/tech/1329741.htm) | Fri Oct 21 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据爱因斯坦的相对论，宇宙中的任何物体运动速度都不可能超过真空中的光速，没有例外，但有时候，我们也会看到一些“超光速”现象。在地球1.4亿光年之外，有一对双子星，合并触发了引力波，2017年8月17日经过地球，那也是人类第一次探测到中子星产生的引力波，也就是GW170817事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据彭博社记者Mark Gurman报道，苹果公司的工业设计副总裁Evans Hankey（埃文斯-汉基）计划明年离开公司。&lt;/strong&gt;苹果公司在一份声明中确认汉基将离开公司，但她的继任者还没有被提名。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《生化危机4：重制版》“碍事梨”脸模性感生活照](https://hot.cnbeta.com/articles/game/1329719.htm) | Fri Oct 21 2022 1:26 PM 
+- 💂 [古天乐回应身体疾病：已完全康复 脖子里还有钛金属](https://hot.cnbeta.com/articles/movie/1329739.htm) | Fri Oct 21 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《生化危机4：重制版》“碍事梨（Ashley）”脸模Ella Nyan是一位长期旅居日本的荷兰模特。最近她在其个人INS上分享了大量在日本的生活照。《生化危机4》碍事梨之前的配音演员是Carolyn Lawrence，目前尚不清楚是否回归，之前的脸模是Brooke Elizabeth Mathieson。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;关于最近有媒体报答古天乐身体旧病的事情，古仔本人在微博作出回应。他表示感谢大家的问候关心，&lt;strong&gt;事情已经是多年前所发生，他已经通过手术痊愈。不过，古仔坦言，现在确实还有钛金属在颈部，当然自己已经完全康复，大家不用担心。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [日元跌破151关口 刷新1990年来最低水平](https://www.cnbeta.com/articles/tech/1329717.htm) | Fri Oct 21 2022 1:25 PM 
+- 🚀 [蔚来调整欧洲“只租不卖”模式：月租1万元左右 可以买断](https://www.cnbeta.com/articles/tech/1329737.htm) | Fri Oct 21 2022 3:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;截至发稿，美元/日元报151.5。日元还没跌到头！受美日利差持续扩大影响，日元兑美元汇率在昨日跌破150关口后，周五继续跌破151，刷新1990年来最低水平。截至发稿，美元/日元报151.5。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本月早些时候，蔚来宣布进军欧洲市场，德国、荷兰、丹麦、瑞典四国推出了订阅模式，每月月租可达1万元，这种“只租不卖”的模式也引发了热议，现在蔚来宣布新的政策，用户也可以选择买断蔚来电动车。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [售价2499元起：Intel A770/A750公版卡今晚正式开卖](https://www.cnbeta.com/articles/tech/1329715.htm) | Fri Oct 21 2022 12:51 PM 
+- 🎊 [AMD下代旗舰卡未发布先割两刀：24GB显存变20GB](https://www.cnbeta.com/articles/tech/1329735.htm) | Fri Oct 21 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不久前，Intel官方在电商平台上架了AA770和A750两款公版显卡，&lt;strong&gt;今晚，这两款显卡终于正式开卖，售价分别为3199元和2499元。&lt;/strong&gt;根据官方信息，A750显卡采用了28个Xe核心，配备8GB 16Fbps 256bit GDDR6显存，TDP 225W，GPU频率2050MHz，并有4个DP 2.0接口和1个HDMI 2.1接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD已经官宣，将于北京时间11月4日凌晨4点举办发布会，正式推出RDNA3架构的下一代显卡，预计命名RX 7000系列。据悉，AMD新卡的首发型号之一是RX 7900 XT，基于Navi 31大核心，原计划搭载24GB GDDR6显存，容量等同于RTX 4090，只不过仍然用不上更高频率的GDDR6X。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
