@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [逐鹿年度优秀安全解决方案 | 「WitAwards中国网安行业2022年度评选」火热进行时](https://www.freebuf.com/fevents/347556.html) | Fri Oct 21 2022 7:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    滴水成河，积沙成塔，快为你心仪的方案助力！ 
+    </details> 
+
 - 🦄 [为强化软件供应链安全，谷歌启动GUAC开源项目](https://www.freebuf.com/news/347546.html) | Fri Oct 21 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
     10月20日，Google宣布正在为名为GUAC的开源项目寻找感兴趣的贡献者，以此进一步强化软件供应链安全。 
     </details> 
 
-- 🦄 [黑客使用新版 FurBall Android 恶意软件监视伊朗公民](https://www.freebuf.com/news/347519.html) | Fri Oct 21 2022 5:12 AM 
+- 🦅 [黑客使用新版 FurBall Android 恶意软件监视伊朗公民](https://www.freebuf.com/news/347519.html) | Fri Oct 21 2022 5:12 AM 
     <details><summary>展开描述 ...</summary> 
     “国内小猫”（Domestic Kitten）的伊朗攻击者正在进行一项新的恶意活动。 
     </details> 
 
-- 🦅 [谁是年度安全技术变革？|「WitAwards中国网安行业2022年度评选」火热进行中](https://www.freebuf.com/articles/347441.html) | Thu Oct 20 2022 10:56 AM 
+- 🪄 [谁是年度安全技术变革？|「WitAwards中国网安行业2022年度评选」火热进行中](https://www.freebuf.com/articles/347441.html) | Thu Oct 20 2022 10:56 AM 
     <details><summary>展开描述 ...</summary> 
     快来看看你支持的企业上榜了吗？ 
     </details> 
 
-- 🪄 [Java安全基础（四）Java的反射机制](https://www.freebuf.com/articles/web/347440.html) | Thu Oct 20 2022 10:41 AM 
+- 💻 [Java安全基础（四）Java的反射机制](https://www.freebuf.com/articles/web/347440.html) | Thu Oct 20 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
     今天更新一篇关于java反射机制的文章，初学Java安全，内容如有不恰当的地方，还请各位大佬指正。 
-    </details> 
-
-- 💻 [如何看待我国网络安全人才缺口矛盾 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/347437.html) | Thu Oct 20 2022 10:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    一边是人才紧缺的呼声高涨，一边却是急切地优化裁员，为何会出现这一看似矛盾的境况？ 
     </details> 
 <!-- freebuf:END -->
 
