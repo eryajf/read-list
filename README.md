@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NASA为阿特米斯登月任务再订购3个猎户座乘员舱](https://www.cnbeta.com/articles/science/1329749.htm) | Fri Oct 21 2022 4:10 PM 
+- 🕯 [中国DOTA2最后的天才少年：第7次错过了自己的梦想](https://hot.cnbeta.com/articles/game/1329763.htm) | Fri Oct 21 2022 5:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NASA决定继续制定其载人登月计划。&lt;strong&gt;NASA已从航空航天巨头洛克希德-马丁公司订购了另外三个猎户座载人舱，交易价值19.9亿美元。&lt;/strong&gt;这些航天器将用于NASA的Artemis月球计划，具体而言，Artemis任务六至八。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2022 年 10&amp;nbsp;月 20&amp;nbsp;日晚上 7 点， DOTA2 国际邀请赛（&amp;nbsp;以下简称 Ti ）淘汰赛败者组的最后一局比赛开始了。对阵双方是来自中国的 RNG 战队，以西欧赛区的 Entity 战队。败者组第一轮的赛制是 BO1 ， &lt;strong&gt;意味着一局定生死，败者淘汰，胜者则可以获得继续前进的机会。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Intel 15代酷睿工艺出现分流 桌面台积电3nm、笔记本用自家20A](https://www.cnbeta.com/articles/tech/1329747.htm) | Fri Oct 21 2022 3:41 PM 
+- 💼 [RTX 4080 12GB被喷到宣布退市 NVIDIA高管回应：性能和4080 16GB差距大](https://www.cnbeta.com/articles/tech/1329761.htm) | Fri Oct 21 2022 5:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;12代酷睿、13代酷睿都表现不错，Intel似乎有了王者归来的架势，也让人们对后边的Meteor Lake、Arrow Lake、Lunar Lake、Nova Lake……有了更多期待，尤其是Intel PPT做得非常漂亮。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;破天荒地，原定于11月16日发售的RTX 4080 12GB显卡，日前突遭NVIDIA取消。在官方声明中，NV给出的原因说是名字没起好，给玩家造成了困扰。对此，NVIDIA韩国区CEOKim Seung-gyu给出了进一步解释，他表示，基于消费者的反馈，&lt;strong&gt;公司发现，RTX 4080 12GB的命名造成了巨大困惑。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [消息称加里·布彻在Airbnb任职后将重返苹果公司](https://www.cnbeta.com/articles/tech/1329745.htm) | Fri Oct 21 2022 3:39 PM 
+- 💂 [&quot;韩版腾讯&quot;一场大火：韩国一夜退回石器时代 沦陷整整4天](https://www.cnbeta.com/articles/tech/1329759.htm) | Fri Oct 21 2022 5:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着硬件设计副总裁埃文斯-汉基离开苹果，有消息称加里·布彻在Airbnb领导设计工作后将重新加入该公司。虽然苹果公司已经正式确认其工业设计副总裁埃文斯-汉基将离开公司，但它没有对可能的继任者发表评论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在韩国，有这么一家公司：它是中国互联网在韩国的缩影；它从通讯软件起家，涵盖了移动支付、游戏、娱乐等各大领域；韩国 5175 万人口，有 4750 万人都是它的用户，应用覆盖了 97% 的人群，人送外号“ 互联网小三星 ”。甚至，连微信都差一点“ 沦陷 ”了。（ 韩国的媒体一再强调腾讯在微信上的成功是抄袭Kakao的典范 ）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星Galaxy S23 Ultra跑分成绩现身Geekbench 将配备骁龙8 Gen 2](https://www.cnbeta.com/articles/tech/1329743.htm) | Fri Oct 21 2022 3:29 PM 
+- 🚀 [日本“四大冥著”，终于凑齐了](https://hot.cnbeta.com/articles/comic/1329757.htm) | Fri Oct 21 2022 5:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星Galaxy S23系列预计将在2023年上半年推出。该公司可能会在2023年1月或2月举办新的Galaxy Unpacked活动中推出下一个Galaxy S系列旗舰手机。Galaxy S23系列可能包括三个新机型。这些机型包括Galaxy S23、S23 Ultra和Galaxy S23 Plus。三星Galaxy S23 Ultra将是这三款手机中最高档的产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国有四大名著，日本有“四大冥著”。指的不是小说，而是漫画：剧情黑暗致郁，人气角色说死就死，让人不忍卒读，但又实在太好看，让人舍不得不看。其中三个，《进击的巨人》、《咒术回战》、《宝石之国》已经被改编成动画，个个说起来都是破圈级名作。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1329757.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苹果公司宣布首席产品设计师Evans Hankey即将离职](https://www.cnbeta.com/articles/tech/1329741.htm) | Fri Oct 21 2022 3:24 PM 
+- 🎊 [澳大利亚男子血液含特殊抗体 献血60多年救了240万婴儿](https://www.cnbeta.com/articles/tech/1329755.htm) | Fri Oct 21 2022 5:20 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;据彭博社记者Mark Gurman报道，苹果公司的工业设计副总裁Evans Hankey（埃文斯-汉基）计划明年离开公司。&lt;/strong&gt;苹果公司在一份声明中确认汉基将离开公司，但她的继任者还没有被提名。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;献血可以拯救生命，但是很少有人能够做到持续60多年都不间断地献血，而且仅靠个人献血就拯救了240万人的生命。&lt;strong&gt;澳大利亚男子——詹姆斯·哈里森做到了这一点，因为他的血液中含有特殊的抗体，医生利用这些抗体制造了药剂，而这些药剂让数百万婴儿可以健康地出生。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329755.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
