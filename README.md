@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React魔法堂：size-sensor源码略读](https://juejin.cn/post/7156900558429749279) | Fri Oct 21 2022 9:50 AM 
+- 🤗 [Python 编码风格与规范](https://juejin.cn/post/7156900653497843726) | Fri Oct 21 2022 9:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划・10 月更文挑战」的第 4 天，点击查看活动详情 [TOC] 注意事项 本规范适用于所有使用 Python 语言作为开发语言的软件产品。 由于 Pytho 
+    </details> 
+
+- 🎡 [React魔法堂：size-sensor源码略读](https://juejin.cn/post/7156900558429749279) | Fri Oct 21 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
     前言 echarts-for-react在对echarts进行轻量级封装的基础上，额外提供图表尺寸自适应容器尺寸的这小而实用的功能，而这功能的背后就是本文想介绍的size-sensor了。 
     </details> 
 
-- 🎡 [前端全栈框架 -  Express 路由中间件详解 - 《手把手带你从零开始学全栈》](https://juejin.cn/post/7156884865097564168) | Fri Oct 21 2022 8:50 AM 
+- 🕯 [『牛客_每日一题』相差不超过k的最多数](https://juejin.cn/post/7156892050208587783) | Fri Oct 21 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-    上一节：前端全栈框架 Express 页面基础详解 前面说过，当请求到路由的时候会进入路由处理方法中，而路由处理方法本质上就是一个中间件，它包括3个参数，分别为： 请求对象 Request 返回对象  
+    1.每日一题 原题链接——》戳我戳我：传送法阵 描述 给定一个数组，选择一些数，要求选择的数中任意两数差的绝对值不超过 k 。问最多能选择多少个数？ 输入描述： 第一行输入两个正整数 n和k。 第二行 
     </details> 
 
-- 🕯 [你是个成熟的项目了，该学会自动构建自动部署了](https://juejin.cn/post/7156881546069147655) | Fri Oct 21 2022 8:36 AM 
+- 🚀 [Luminar Neo 教程，如何在 Luminar Neo 中使用开发工具？](https://juejin.cn/post/7156891974371377189) | Fri Oct 21 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言 之前部署项目的时候都是手动的打jar包，然后将jar包上传到服务器运行，非常麻烦。上个月去其他公司待了一段时间，发现了自动化部署这么一个好东西，只要本地一提交代码， 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用开发工具。 
     </details> 
 
-- 🚀 [这么写Controller层代码，简洁又优雅！](https://juejin.cn/post/7156840053170241543) | Fri Oct 21 2022 5:56 AM 
+- 💪 [前端需要去了解的nodejs知识（express应用搭建）](https://juejin.cn/post/7156890023839662117) | Fri Oct 21 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，点击查看活动详情 一个优秀的Controller层逻辑 从现状看问题 Controller 主要的工作有以下几项 接收请 
-    </details> 
-
-- 💪 [DRY 原则让测试整洁](https://juejin.cn/post/7156832528542728223) | Fri Oct 21 2022 5:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    &gt; 持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第20天，[点击查看活动详情]&lpar;https://juejin.cn/post/7147654075599978532 &quot;htt 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 前言 这是一个使用typescript和express的应用框架，快速搭建服务端项目。主要模块可以拆分为 
     </details> 
 <!-- juejin:END -->
 ### 少数派
