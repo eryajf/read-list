@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [研究发现久坐者的短暂运动或有助于肌肉再生](https://www.cnbeta.com/articles/science/1329495.htm) | Fri Oct 21 2022 3:40 AM 
+- 🕯 [英睿达P3 Plus 1TB上手体验：PCIe 4.0 M.2 SSD性价之选](https://www.cnbeta.com/articles/tech/1329517.htm) | Fri Oct 21 2022 4:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;围绕着整天坐着对健康的负面影响的证据不断增加，随之而来的是关于人们如何能够控制风险的新想法。&lt;strong&gt;一项新研究已经深入研究了起身进行短暂运动如两分钟的步行的代谢效果，另外还表明它可以改善饭后的糖分处理并帮助保持肌肉质量和质量。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329495.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;随着 PCIe 5.0 在 AMD / Intel 新一代硬件平台上的引入，消费级 M.2 固态存储市场也正经历着从 PCIe 3.0 x4 向 PCIe 4.0 x4 迭代转型的关键时期。&lt;/strong&gt;此前，我们已经体验过高端的英睿达 P5 / P5 Plus 型号，两者在 PCIe 3.0 / 4.0 产品线中都极具代表性。但是对于想要浅尝一下 PCIe 4.0 固态的 PC / PS5 玩家们来说，品质与性价比仍是其更为关注的两大因素。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [网友吐槽加州的建设速度比中国慢100倍 马斯克：确实](https://www.cnbeta.com/articles/tech/1329493.htm) | Fri Oct 21 2022 3:39 AM 
+- 💼 [涉及Apple Watch相关专利 苹果起诉健康检测公司Masimo](https://www.cnbeta.com/articles/tech/1329515.htm) | Fri Oct 21 2022 4:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为世界首屈一指的富豪以及科技圈大佬，马斯克的一言一行总是会吸引到巨量的目光。在国内，马斯克力挺华为以及对微信大加赞扬的事情也引发了广大网友的热烈讨论。近日，马斯克在Twitter上对中国的积极性发言又火了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329493.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间周四，苹果在美国特拉华州联邦法院提起一项诉讼[&lt;a href=&quot;https://fingfx.thomsonreuters.com/gfx/legaldocs/movakmnjlva/IP%20APPLE%20MASIMO%20PATENTS%20complaint.pdf&quot; target=&quot;_blank&quot;&gt;PDF&lt;/a&gt;]，指控健康检测公司Masimo推出的W1系列智能手表侵犯了其多项专利。据路透社报道，该诉讼指控Masimo侵犯了包括智能手表和健康监测技术在内的六项专利，以及包括Apple Watch和充电器设计元素在内的四项专利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [广西消委会实测：一杯奶茶能量值可高达6碗饭](https://www.cnbeta.com/articles/tech/1329491.htm) | Fri Oct 21 2022 3:33 AM 
+- 💂 [《暗黑破坏神4》后期封测实机泄露 暴雪叫别泄露他们偏泄露](https://www.cnbeta.com/articles/tech/1329513.htm) | Fri Oct 21 2022 3:58 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着奶茶的口感、选择、颜值日益丰富，奶茶成为许多年轻人经常购买的饮品。不过要注意的是，奶茶的能量其实比较高，&lt;strong&gt;据广西消委会实测，一杯奶茶大致相当于1.6-6碗米饭的能量值。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329491.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-indent: 0em;&quot;&gt;《暗黑破坏神4》后期封测已开启，没多久游戏实机演示就在网上泄露了。有网友在&lt;a href=&quot;https://gofile.io/d/Pfmctb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Gofile平台&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;分享了四个《暗黑4》封测演示视频，一起来欣赏下视频吧！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [大鼠研究表明：高糖饮食使舌头对甜味的反应性降低了50%](https://www.cnbeta.com/articles/science/1329489.htm) | Fri Oct 21 2022 3:30 AM 
+- 🚀 [科创板23家半导体公司三季度净利：逾九成增长，近半数同比增逾1倍](https://www.cnbeta.com/articles/tech/1329511.htm) | Fri Oct 21 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;吃了很多糖的人是否会对甜味变得不敏感？&lt;strong&gt;密歇根大学的科学家们发现了可能是这种情况的证据：一项对大鼠的新研究发现，那些高糖饮食的大鼠对甜味的反应性降低了50%之多。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329489.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在目前已披露三季度报告/业绩预告的科创板半导体公司中，逾九成营收和净利润双增，近半数净利润同比增逾1倍。&lt;/strong&gt;据不完全统计，截至10月20日，已有复旦微电、海光信息、华海清科、拓荆科技、澜起科技、钜泉科技、富创精密等23家科创板半导体上市公司披露了三季度报告/业绩预告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [微软在向CMA提交的新文件中指出云游戏仍不够成熟](https://hot.cnbeta.com/articles/game/1329487.htm) | Fri Oct 21 2022 3:28 AM 
+- 🎊 [索尼官宣新相机10月26日发布：新旗舰A7R5来了](https://www.cnbeta.com/articles/tech/1329509.htm) | Fri Oct 21 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;除了微软等老牌游戏巨头，Netflix 等后起之秀也在积极打造“云游戏”体验。在市场的一片欣欣向荣下，人们很容易忘记该技术仍处于起步阶段。&lt;/strong&gt;以微软为例，这家雷德蒙德科技巨头一直努力通过 Xbox Cloud Gaming 服务，向大众提供云游戏的前沿技术。感兴趣的玩家不仅能够获得 Game Pass Ultimate 订阅特权，还可在 Steam Deck 等移动设备和三星智能电视上体验。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月21日，索尼官方正式官宣：&lt;strong&gt;将于10月26日晚22点正式推出新款α相机。不出意外的话，它正是大家期盼依旧的A7R5。&lt;/strong&gt;上一代A7R4发布已经是3年前，是时候新王登基了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
