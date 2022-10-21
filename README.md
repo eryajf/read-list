@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SpringBoot MockMvcTest - api单元测试](https://juejin.cn/post/7156880428954189838) | Fri Oct 21 2022 8:31 AM 
+- 🤗 [React魔法堂：size-sensor源码略读](https://juejin.cn/post/7156900558429749279) | Fri Oct 21 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-    JUnit 简介 JUnit是一款Java语言的单元测试框架，目前大多数Java开发环境都已经支持它了。JUnit测试也就是所谓的白盒测试，在程序员知道程序内部逻辑的基础上进行的测试，使用JUnit能 
+    前言 echarts-for-react在对echarts进行轻量级封装的基础上，额外提供图表尺寸自适应容器尺寸的这小而实用的功能，而这功能的背后就是本文想介绍的size-sensor了。 
     </details> 
 
-- 🎡 [sudo，代表了Linux的绝对霸权！](https://juejin.cn/post/7156879459126083621) | Fri Oct 21 2022 8:28 AM 
+- 🎡 [前端全栈框架 -  Express 路由中间件详解 - 《手把手带你从零开始学全栈》](https://juejin.cn/post/7156884865097564168) | Fri Oct 21 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    su是一个Linux命令，浑身充满了power。可以切换到其他用户或者高权用户去干sth。 请原谅我这外企员工中英文夹杂式的表达，reason很简单，就是要你有很深的impression。 在很久很久 
+    上一节：前端全栈框架 Express 页面基础详解 前面说过，当请求到路由的时候会进入路由处理方法中，而路由处理方法本质上就是一个中间件，它包括3个参数，分别为： 请求对象 Request 返回对象  
     </details> 
 
-- 🕯 [Docker系列学习&lpar;23&rpar; -- Docker Compose常用命令（3）](https://juejin.cn/post/7156875263714787336) | Fri Oct 21 2022 8:12 AM 
+- 🕯 [你是个成熟的项目了，该学会自动构建自动部署了](https://juejin.cn/post/7156881546069147655) | Fri Oct 21 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，点击查看活动详情 生命不息，学习不止 题外话 今天又是阳光明媚的一天，今天是周五，everybody，周五了，美好的周六 
+    我正在参加「掘金·启航计划」 前言 之前部署项目的时候都是手动的打jar包，然后将jar包上传到服务器运行，非常麻烦。上个月去其他公司待了一段时间，发现了自动化部署这么一个好东西，只要本地一提交代码， 
     </details> 
 
-- 🚀 [[响应式编程] 你真的理解Empty v.s. Null 吗](https://juejin.cn/post/7156874947241967652) | Fri Oct 21 2022 8:10 AM 
+- 🚀 [这么写Controller层代码，简洁又优雅！](https://juejin.cn/post/7156840053170241543) | Fri Oct 21 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-    本文重点介绍了在响应式编程中比较被忽略但容易误用的一个知识点，关于Null与Empty的语义理解，同时也介绍了Null的二义性问题以及在Reactor中是如何禁止null以及使用empty和无效值。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，点击查看活动详情 一个优秀的Controller层逻辑 从现状看问题 Controller 主要的工作有以下几项 接收请 
     </details> 
 
-- 💪 [探索BottomSheet的背后秘密](https://juejin.cn/post/7156874737740677133) | Fri Oct 21 2022 8:10 AM 
+- 💪 [DRY 原则让测试整洁](https://juejin.cn/post/7156832528542728223) | Fri Oct 21 2022 5:26 AM 
     <details><summary>展开描述 ...</summary> 
-    Bottom Sheet 在Android Design Support Library 23.2 版本引入，可以帮助我们快速实现半屏弹窗效果，让我们来探索其背后的工作原理～ 
+    &gt; 持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第20天，[点击查看活动详情]&lpar;https://juejin.cn/post/7147654075599978532 &quot;htt 
     </details> 
 <!-- juejin:END -->
 ### 少数派
