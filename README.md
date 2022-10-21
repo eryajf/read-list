@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [飞书文档竟然不支持「文本绘图」](https://www.v2ex.com/t/888684#reply1) | Fri Oct 21 2022 4:18 AM
-- 🤗 [新显卡新 CPU 聊得火热，想问下大家装机后会装正版 Windows 系统吗](https://www.v2ex.com/t/888682#reply28) | Fri Oct 21 2022 4:08 AM
-- 🎭 [有 android framework 开发接私活么? 魔改一下 SystemUI](https://www.v2ex.com/t/888680#reply2) | Fri Oct 21 2022 4:02 AM
-- 🥷 [Android Apk 抓包求助](https://www.v2ex.com/t/888678#reply4) | Fri Oct 21 2022 3:56 AM
-- 🐵 [升级 Spring Boot 版本导致 jackson 序列化形式不一致的疑问](https://www.v2ex.com/t/888675#reply2) | Fri Oct 21 2022 3:53 AM<!-- v2ex:END -->
+- 🥸 [自己工作已完成， leader 在群里发一句周六来加班，如何应答](https://www.v2ex.com/t/888719#reply12) | Fri Oct 21 2022 6:13 AM
+- 🤗 [rust 真的是硬盘杀手](https://www.v2ex.com/t/888714#reply7) | Fri Oct 21 2022 6:04 AM
+- 🎭 [有什么 idea 插件能实现在 xml 中显示字段注释](https://www.v2ex.com/t/888707#reply3) | Fri Oct 21 2022 5:42 AM
+- 🥷 [Python parallel-ssh 这个库实现 os.walk 怎么做有人知道吗?](https://www.v2ex.com/t/888705#reply0) | Fri Oct 21 2022 5:34 AM
+- 🐵 [为什么公司不允许 ssh 链接 gitlab](https://www.v2ex.com/t/888699#reply33) | Fri Oct 21 2022 5:15 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
