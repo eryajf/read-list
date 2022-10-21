@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [中国信通院牵头的国际首个5G终端空口性能标准正式发布](https://www.cnbeta.com/articles/tech/1329559.htm) | Fri Oct 21 2022 6:38 AM 
+- 🕯 [马斯克：特斯拉目标2024年实现年产5万辆Semi 不采用4680电池](https://www.cnbeta.com/articles/tech/1329595.htm) | Fri Oct 21 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，中国信息通信研究院（以下简称“中国信通院”）主导的《NR用户设备多输入多输出（MIMO）空口（OTA）性能要求》（以下简称“NR MIMO OTA”）国际标准项目在2022年9月的3GPP RAN#97次全会上获批结项。&lt;strong&gt;在此基础上，国际标准TS38.151正式发布，这标志着5G终端空口性能要求标准正式落地，业界在5G终端整机测试标准化领域取得了突破性成果。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;特斯拉为旗下半挂电动卡车 Semi 设定的量产目标是，最早在 2024 年实现年产 5 万辆。&lt;/strong&gt;特斯拉如果能够实现这个量产目标，那么它将成为全球最大的 Class 8 卡车制造商之一。经过五年的等待，特斯拉终于开始启动 Semi 的早期试产。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [RAPIDFire自主防空炮塔可击落无人机群](https://www.cnbeta.com/articles/tech/1329557.htm) | Fri Oct 21 2022 6:35 AM 
+- 💼 [研究：复原力是可以学习的 甚至可以被强化](https://www.cnbeta.com/articles/science/1329593.htm) | Fri Oct 21 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;为了应对日益危险的低空、近距离水面和空中威胁，&lt;strong&gt;Nexter公司和泰雷兹集团&lpar;Thales&rpar;在巴黎举行的2022年欧洲海事防务展上发布了最新版本的RAPIDFire自主炮塔。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;屈服于绝望感太容易了。这在我们面临全球政治动荡、经济动荡和没完没了的疫情时尤其如此。有些人如何比其他人更快地从逆境中恢复过来，而那些挣扎的人能否随着时间的推移教自己变得更有韧性？&lt;strong&gt;根据普林斯顿神经科学研究所的一个研究小组在小鼠身上进行的一项新研究，复原力是可以学习的，甚至可以得到加强。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [漫谈电磁橇：航母电磁弹射用在地上是啥效果？](https://www.cnbeta.com/articles/science/1329555.htm) | Fri Oct 21 2022 6:31 AM 
+- 💂 [优步在印度德里推出电动汽车出租服务 未来将进一步扩大规模](https://www.cnbeta.com/articles/tech/1329591.htm) | Fri Oct 21 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球能玩转5nm以下工艺的芯片厂就只有台积电、三星及Intel了，原本自产自销的Intel也将重振代工业务，三家公司未来会直接竞争，先进工艺上会有激烈的竞赛，尤其是2nm以后的节点。作为目前产能最大、技术最先进的晶圆代工厂，台积电占了整个市场近60%的份额，7nm到4nm晶圆代工厂上没有对手，3nm工艺相比以往来说延期了半年，今年底才会量产，出货要到2023年了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;优步（Uber）已经为德里（印度首都特区）的部分用户提供电动汽车出租服务，并计划在未来几个月里进一步扩大该服务规模。&lt;/strong&gt;该电动出租服务目前仅限于预定行程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Meta宣布为Facebook推出Reel in Groups等诸多新功能](https://www.cnbeta.com/articles/tech/1329553.htm) | Fri Oct 21 2022 6:30 AM 
+- 🚀 [国际象棋大师尼曼起诉卡尔森等人发表诽谤性言论 要求赔偿1亿美元](https://www.cnbeta.com/articles/tech/1329589.htm) | Fri Oct 21 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在为 Instagram 推出多项功能来帮助用户躲避谩骂和滥用之后，Meta 公司今天也宣布为 Facebook 推出一些新的功能来保护用户。Meta 引入了多种新的方式来增强 Facebook 社区的互动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据CNBC报道，&lt;strong&gt;国际象棋大师汉斯·尼曼（Hans Niemann）对世界冠军马格努斯·卡尔森（Magnus Carlsen）和其他人提起了1亿美元的诉讼，指控他们发表诽谤性言论，声称尼曼在比赛中作弊。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [AMD将在CES 2023上推出Zen 4锐龙7000系列3D V-Cache处理器](https://www.cnbeta.com/articles/tech/1329551.htm) | Fri Oct 21 2022 6:29 AM 
+- 🎊 [宝马：氢气将会成为汽车的最理想动力来源](https://www.cnbeta.com/articles/tech/1329587.htm) | Fri Oct 21 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;WCCFTech 援引内部路线图爆料称，&lt;strong&gt;AMD 已计划在明年初的消费电子展（CES 2023）期间，推出基于 Zen 4 架构和 3D V-Cache 堆叠缓存的 Ryzen 7000 X3D 系列 AM5 台式处理器。&lt;/strong&gt;鉴于首次在消费级 CPU 市场试水 3D V-Cache 缓存的 Ryzen R7-5800X3D，仍是 PC 游戏芯片领域首屈一指的产品（甚至无惧英特尔 13 代 Raptor Lake 竞品），我们对 Zen 4 架构的新品更加充满了期待。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;宝马可能正在增加其电池汽车产品，并在越来越多的车型上添加“i”徽章，另外它还承诺到2030年使该集团一半的新车成为电动汽车，不过该公司董事长认为氢气而不是电池将很快成为最理想的动力来源。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
