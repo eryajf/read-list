@@ -353,9 +353,9 @@
     今天更新一篇关于java反射机制的文章，初学Java安全，内容如有不恰当的地方，还请各位大佬指正。 
     </details> 
 
-- 💻 [Android逆向分析工具性能对比分析](https://www.freebuf.com/sectool/347405.html) | Thu Oct 20 2022 7:20 AM 
+- 💻 [如何看待我国网络安全人才缺口矛盾 | FreeBuf甲方群话题讨论](https://www.freebuf.com/articles/neopoints/347437.html) | Thu Oct 20 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-    本文针对国内以及国外知名Android逆向工程工具进行横向评测。 
+    一边是人才紧缺的呼声高涨，一边却是急切地优化裁员，为何会出现这一看似矛盾的境况？ 
     </details> 
 <!-- freebuf:END -->
 
