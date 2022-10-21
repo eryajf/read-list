@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [在 VMware vSphere 中构建 Kubernetes 存储环境](https://juejin.cn/post/7156849481332293645) | Fri Oct 21 2022 6:32 AM 
+- 🤗 [探索BottomSheet的背后秘密](https://juejin.cn/post/7156874737740677133) | Fri Oct 21 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt; 作者：马伟，青云科技容器顾问，云原生爱好者，目前专注于云原生技术，云原生领域技术栈涉及 Kubernetes、KubeSphere、kubekey等。 相信很多小伙伴和企业在构建容器集群时都会 
+    Bottom Sheet 在Android Design Support Library 23.2 版本引入，可以帮助我们快速实现半屏弹窗效果，让我们来探索其背后的工作原理～ 
     </details> 
 
-- 🎡 [KubeSphere 集群配置 NFS 存储解决方案](https://juejin.cn/post/7156849569941159950) | Fri Oct 21 2022 6:31 AM 
+- 🎡 [云原生分布式 PostgreSQL+Citus 集群在 Sentry 后端的实践](https://juejin.cn/post/7156868365288472613) | Fri Oct 21 2022 7:45 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt; 作者：申红磊，QingCloud 容器解决方案架构师，开源项目爱好者，KubeSphere Member 在正式阅读本文之前，先友情提醒一下：不建议您在生产环境中使用 NFS 存储（特别是 K 
+    优化一个分布式系统的吞吐能力，除了应用本身代码外，很大程度上是在优化它所依赖的中间件集群处理能力。如：kafka/redis/rabbitmq/postgresql/分布式存储&lpar;CephFS,Juic 
     </details> 
 
-- 🕯 [5 大技术分享，揭秘抖音 iOS 背后的基础技术](https://juejin.cn/post/7156847631069610020) | Fri Oct 21 2022 6:25 AM 
+- 🕯 [Vue3手写系列之ref](https://juejin.cn/post/7156861736023392263) | Fri Oct 21 2022 7:19 AM 
     <details><summary>展开描述 ...</summary> 
-    11 月 12 日下午 2 点，字节跳动技术沙龙「抖音 iOS 基础技术大揭秘 Vol.02」将以免费线上直播的形式与大家见面，沙龙报名通道现已同步开启。 
+    hello 大家好，🙎🏻‍♀️🙋🏻‍♀️🙆🏻‍♀️ 我是一个热爱知识传递，正在学习写作的作者，ClyingDeng。 本文给大家带来的是vue3 中 ref API的实现。 
     </details> 
 
-- 🚀 [实战 CI/CD：利用 GitHub Actions 管理大型开源项目的自动化构建](https://juejin.cn/post/7156846188099502111) | Fri Oct 21 2022 6:19 AM 
+- 🚀 [降维打击？「在线和协作」是不是原型工具的未来？](https://juejin.cn/post/7156859068651405348) | Fri Oct 21 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-    如何用免费的CI/CD神器GitHub Actions来自动化大型开源项目？咱们以Crawlab举例说明～ 
+    开篇一个问题：你经常使用腾讯文档、金山文档、石墨文档这样的在线协作文档产品吗？对于办公群体来说，他们早已是国民级应用。 在企业微信2022新品发布会上，腾讯文档宣布产品月活跃用户突破2亿。而另一边，金 
     </details> 
 
-- 💪 [Vue.js 3 开源组件推荐：代码差异查看器插件](https://juejin.cn/post/7156839676677423112) | Fri Oct 21 2022 5:54 AM 
+- 💪 [阿里巴巴 Noslate 正式开源 - 面向云原生的 JavaScript 容器方案](https://juejin.cn/post/7156855443388645413) | Fri Oct 21 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    一个Vue.js差异查看器插件，可以用来比较两个代码片断之间的差异。 Github地址：https://github.com/hoiheart/vue-diff 支持语言： css xml: xml, 
+    今天，向大家正式介绍阿里最新面向云原生场景，面向 Serverless 架构下的新开源产品， 代号 Noslate。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
