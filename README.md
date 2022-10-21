@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [黑客使用新版 FurBall Android 恶意软件监视伊朗公民](https://www.freebuf.com/news/347519.html) | Fri Oct 21 2022 5:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    “国内小猫”（Domestic Kitten）的伊朗攻击者正在进行一项新的恶意活动。 
+    </details> 
+
 - 🦄 [谁是年度安全技术变革？|「WitAwards中国网安行业2022年度评选」火热进行中](https://www.freebuf.com/articles/347441.html) | Thu Oct 20 2022 10:56 AM 
     <details><summary>展开描述 ...</summary> 
     快来看看你支持的企业上榜了吗？ 
     </details> 
 
-- 🦄 [Java安全基础（四）Java的反射机制](https://www.freebuf.com/articles/web/347440.html) | Thu Oct 20 2022 10:41 AM 
+- 🦅 [Java安全基础（四）Java的反射机制](https://www.freebuf.com/articles/web/347440.html) | Thu Oct 20 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
     今天更新一篇关于java反射机制的文章，初学Java安全，内容如有不恰当的地方，还请各位大佬指正。 
     </details> 
 
-- 🦅 [Android逆向分析工具性能对比分析](https://www.freebuf.com/sectool/347405.html) | Thu Oct 20 2022 7:20 AM 
+- 🪄 [Android逆向分析工具性能对比分析](https://www.freebuf.com/sectool/347405.html) | Thu Oct 20 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
     本文针对国内以及国外知名Android逆向工程工具进行横向评测。 
     </details> 
 
-- 🪄 [7 个步骤，保障医疗行业免受网络威胁！](https://www.freebuf.com/news/347376.html) | Thu Oct 20 2022 5:10 AM 
+- 💻 [7 个步骤，保障医疗行业免受网络威胁！](https://www.freebuf.com/news/347376.html) | Thu Oct 20 2022 5:10 AM 
     <details><summary>展开描述 ...</summary> 
     本文梳理了一些安全保障措施，希望能够为医疗行业网络安全建设带来一些帮助。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 新型UEFI rootkit恶意软件BlackLotus曝光；Lapsus$团伙成员被捕](https://www.freebuf.com/articles/347375.html) | Thu Oct 20 2022 5:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    2022 上半年中国 IT 安全服务市场厂商整体收入约为 12.25 亿美元。 
     </details> 
 <!-- freebuf:END -->
 
