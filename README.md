@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [建设工程项目采购模式](https://juejin.cn/post/7156971344905650213) | Fri Oct 21 2022 2:26 PM 
+- 🤗 [建设工程项目管理规划的内容和编制方法](https://juejin.cn/post/7156975341066518542) | Fri Oct 21 2022 2:40 PM 
+    <details><summary>展开描述 ...</summary> 
+    建设工程项目管理规划 Project Management Plan 项目管理策划应由项目管理规划策划和项目管理配套策划组成。 项目管理规划应包括：项目管理规划大纲 和 项目管理实施规划。 项目管理配 
+    </details> 
+
+- 🎡 [建设工程项目采购模式](https://juejin.cn/post/7156971344905650213) | Fri Oct 21 2022 2:26 PM 
     <details><summary>展开描述 ...</summary> 
     工程发包 工程发包是指：建设单位采用一定的方式，在政府管理部门的监督下，遵循公开，公正，公平的原则，择优选定设计，勘查，施工单位的活动。 发包 建筑工程依法实行招标发包，对于不适用招标发包的可以直接发 
     </details> 
 
-- 🎡 [Java语言中的反射的概念和相关的类](https://juejin.cn/post/7156971308574572552) | Fri Oct 21 2022 2:24 PM 
+- 🕯 [Java语言中的反射的概念和相关的类](https://juejin.cn/post/7156971308574572552) | Fri Oct 21 2022 2:24 PM 
     <details><summary>展开描述 ...</summary> 
     Java开发者编写的任何Java源文件都需要经过编译，才能生成字节码文件（.class文件）。对于java虚拟机而言，装载到其中的字节码文件是一个类型为Class类的对象。（不是关键字class噢！） 
     </details> 
 
-- 🕯 [vue 日历 组件](https://juejin.cn/post/7156964464294002718) | Fri Oct 21 2022 1:57 PM 
+- 🚀 [Java基础面试题](https://juejin.cn/post/7156969987083599885) | Fri Oct 21 2022 2:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    重载和重写的区别？ 重载： 发生在同一个类中，方法名必须相同，参数类型不同、个数不同、顺序不同，方法返回值和访问修饰符可以不同，发生在编译时。 　　 重写： 发生在父子类中，方法名、参数列表必须相同， 
+    </details> 
+
+- 💪 [vue 日历 组件](https://juejin.cn/post/7156964464294002718) | Fri Oct 21 2022 1:57 PM 
     <details><summary>展开描述 ...</summary> 
     那位大佬来批评一下我的不足，不甚感激。不用任何第三方库，只基于vue2实现一个日历组件。代码有点长，为了发文章方便。私下代码是拆分了的 
-    </details> 
-
-- 🚀 [建设工程项目策划](https://juejin.cn/post/7156960498171248671) | Fri Oct 21 2022 1:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    建设工程项目策划 建设工程项目策划是指：通过调查研究和收集资料，在充分占有信息的基础上，针对建设工程项目的决策和实施，或决策和实施的某个问题进行组织，管理，经济和技术等方面的科学分析和论证，旨在为项目 
-    </details> 
-
-- 💪 [了解 Flutter 开发者们的 IDE 使用情况](https://juejin.cn/post/7156955550637359134) | Fri Oct 21 2022 1:23 PM 
-    <details><summary>展开描述 ...</summary> 
-    Google 的 Flutter 团队负责构建和维护 Android Studio &lpar;基于 IntelliJ-IDEA&rpar; 和 Visual Studio Code &lpar;VS Code&rpar; 的支持。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
