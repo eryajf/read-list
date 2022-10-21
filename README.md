@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [英睿达P3 Plus 1TB上手体验：PCIe 4.0 M.2 SSD性价之选](https://www.cnbeta.com/articles/tech/1329517.htm) | Fri Oct 21 2022 4:10 AM 
+- 🕯 [中国信通院牵头的国际首个5G终端空口性能标准正式发布](https://www.cnbeta.com/articles/tech/1329559.htm) | Fri Oct 21 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着 PCIe 5.0 在 AMD / Intel 新一代硬件平台上的引入，消费级 M.2 固态存储市场也正经历着从 PCIe 3.0 x4 向 PCIe 4.0 x4 迭代转型的关键时期。&lt;/strong&gt;此前，我们已经体验过高端的英睿达 P5 / P5 Plus 型号，两者在 PCIe 3.0 / 4.0 产品线中都极具代表性。但是对于想要浅尝一下 PCIe 4.0 固态的 PC / PS5 玩家们来说，品质与性价比仍是其更为关注的两大因素。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329517.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，中国信息通信研究院（以下简称“中国信通院”）主导的《NR用户设备多输入多输出（MIMO）空口（OTA）性能要求》（以下简称“NR MIMO OTA”）国际标准项目在2022年9月的3GPP RAN#97次全会上获批结项。&lt;strong&gt;在此基础上，国际标准TS38.151正式发布，这标志着5G终端空口性能要求标准正式落地，业界在5G终端整机测试标准化领域取得了突破性成果。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [涉及Apple Watch相关专利 苹果起诉健康检测公司Masimo](https://www.cnbeta.com/articles/tech/1329515.htm) | Fri Oct 21 2022 4:04 AM 
+- 💼 [RAPIDFire自主防空炮塔可击落无人机群](https://www.cnbeta.com/articles/tech/1329557.htm) | Fri Oct 21 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间周四，苹果在美国特拉华州联邦法院提起一项诉讼[&lt;a href=&quot;https://fingfx.thomsonreuters.com/gfx/legaldocs/movakmnjlva/IP%20APPLE%20MASIMO%20PATENTS%20complaint.pdf&quot; target=&quot;_blank&quot;&gt;PDF&lt;/a&gt;]，指控健康检测公司Masimo推出的W1系列智能手表侵犯了其多项专利。据路透社报道，该诉讼指控Masimo侵犯了包括智能手表和健康监测技术在内的六项专利，以及包括Apple Watch和充电器设计元素在内的四项专利。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329515.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了应对日益危险的低空、近距离水面和空中威胁，&lt;strong&gt;Nexter公司和泰雷兹集团&lpar;Thales&rpar;在巴黎举行的2022年欧洲海事防务展上发布了最新版本的RAPIDFire自主炮塔。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329557.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《暗黑破坏神4》后期封测实机泄露 暴雪叫别泄露他们偏泄露](https://www.cnbeta.com/articles/tech/1329513.htm) | Fri Oct 21 2022 3:58 AM 
+- 💂 [漫谈电磁橇：航母电磁弹射用在地上是啥效果？](https://www.cnbeta.com/articles/science/1329555.htm) | Fri Oct 21 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p style=&quot;text-indent: 0em;&quot;&gt;《暗黑破坏神4》后期封测已开启，没多久游戏实机演示就在网上泄露了。有网友在&lt;a href=&quot;https://gofile.io/d/Pfmctb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Gofile平台&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;分享了四个《暗黑4》封测演示视频，一起来欣赏下视频吧！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329513.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;全球能玩转5nm以下工艺的芯片厂就只有台积电、三星及Intel了，原本自产自销的Intel也将重振代工业务，三家公司未来会直接竞争，先进工艺上会有激烈的竞赛，尤其是2nm以后的节点。作为目前产能最大、技术最先进的晶圆代工厂，台积电占了整个市场近60%的份额，7nm到4nm晶圆代工厂上没有对手，3nm工艺相比以往来说延期了半年，今年底才会量产，出货要到2023年了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329555.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [科创板23家半导体公司三季度净利：逾九成增长，近半数同比增逾1倍](https://www.cnbeta.com/articles/tech/1329511.htm) | Fri Oct 21 2022 3:56 AM 
+- 🚀 [Meta宣布为Facebook推出Reel in Groups等诸多新功能](https://www.cnbeta.com/articles/tech/1329553.htm) | Fri Oct 21 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在目前已披露三季度报告/业绩预告的科创板半导体公司中，逾九成营收和净利润双增，近半数净利润同比增逾1倍。&lt;/strong&gt;据不完全统计，截至10月20日，已有复旦微电、海光信息、华海清科、拓荆科技、澜起科技、钜泉科技、富创精密等23家科创板半导体上市公司披露了三季度报告/业绩预告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329511.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在为 Instagram 推出多项功能来帮助用户躲避谩骂和滥用之后，Meta 公司今天也宣布为 Facebook 推出一些新的功能来保护用户。Meta 引入了多种新的方式来增强 Facebook 社区的互动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329553.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [索尼官宣新相机10月26日发布：新旗舰A7R5来了](https://www.cnbeta.com/articles/tech/1329509.htm) | Fri Oct 21 2022 3:56 AM 
+- 🎊 [AMD将在CES 2023上推出Zen 4锐龙7000系列3D V-Cache处理器](https://www.cnbeta.com/articles/tech/1329551.htm) | Fri Oct 21 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月21日，索尼官方正式官宣：&lt;strong&gt;将于10月26日晚22点正式推出新款α相机。不出意外的话，它正是大家期盼依旧的A7R5。&lt;/strong&gt;上一代A7R4发布已经是3年前，是时候新王登基了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329509.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;WCCFTech 援引内部路线图爆料称，&lt;strong&gt;AMD 已计划在明年初的消费电子展（CES 2023）期间，推出基于 Zen 4 架构和 3D V-Cache 堆叠缓存的 Ryzen 7000 X3D 系列 AM5 台式处理器。&lt;/strong&gt;鉴于首次在消费级 CPU 市场试水 3D V-Cache 缓存的 Ryzen R7-5800X3D，仍是 PC 游戏芯片领域首屈一指的产品（甚至无惧英特尔 13 代 Raptor Lake 竞品），我们对 Zen 4 架构的新品更加充满了期待。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329551.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
