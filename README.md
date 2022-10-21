@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何让调试线上 JS 报错像调试本地源码一样优雅？](https://juejin.cn/post/7156838915859562509) | Fri Oct 21 2022 5:51 AM 
+- 🤗 [在 VMware vSphere 中构建 Kubernetes 存储环境](https://juejin.cn/post/7156849481332293645) | Fri Oct 21 2022 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-    当线上有报错的时候，大家是怎么定位问题的呢？ 断点调试么？ 但是这时候代码是被压缩过的，变量名都是 a、b、c、d 这种，根本看不出啥来。 如果调试线上报错能像本地开发的时候一样就好了。 其实这是可以 
+    &gt; 作者：马伟，青云科技容器顾问，云原生爱好者，目前专注于云原生技术，云原生领域技术栈涉及 Kubernetes、KubeSphere、kubekey等。 相信很多小伙伴和企业在构建容器集群时都会 
     </details> 
 
-- 🎡 [Rust（20）： 模式匹配](https://juejin.cn/post/7156822932017610759) | Fri Oct 21 2022 4:50 AM 
+- 🎡 [KubeSphere 集群配置 NFS 存储解决方案](https://juejin.cn/post/7156849569941159950) | Fri Oct 21 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，点击查看活动详情 今天学习的内容是 Rust 中的函数。 函数 函数，和 if 条件控制，while、loop、for  
+    &gt; 作者：申红磊，QingCloud 容器解决方案架构师，开源项目爱好者，KubeSphere Member 在正式阅读本文之前，先友情提醒一下：不建议您在生产环境中使用 NFS 存储（特别是 K 
     </details> 
 
-- 🕯 [npm库coa被劫持，Vue CLI 创建项目失败的解决方案](https://juejin.cn/post/7156822609647108110) | Fri Oct 21 2022 4:48 AM 
+- 🕯 [5 大技术分享，揭秘抖音 iOS 背后的基础技术](https://juejin.cn/post/7156847631069610020) | Fri Oct 21 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-    踩坑经验分享：npm库coa被劫持，Vue CLI 创建项目失败的解决方案。既然问题出现了，接下来，就是去解决它。 
+    11 月 12 日下午 2 点，字节跳动技术沙龙「抖音 iOS 基础技术大揭秘 Vol.02」将以免费线上直播的形式与大家见面，沙龙报名通道现已同步开启。 
     </details> 
 
-- 🚀 [Android | Handler.runWithScissors 解析](https://juejin.cn/post/7156821621557166087) | Fri Oct 21 2022 4:43 AM 
+- 🚀 [实战 CI/CD：利用 GitHub Actions 管理大型开源项目的自动化构建](https://juejin.cn/post/7156846188099502111) | Fri Oct 21 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-    核心：在一个线程中通过 Handler 向另外一个线程发送消息，并等待另一个线程处理完成后再继续执行。 
+    如何用免费的CI/CD神器GitHub Actions来自动化大型开源项目？咱们以Crawlab举例说明～ 
     </details> 
 
-- 💪 [【综合】掘金专栏榜单百强@2022年10月](https://juejin.cn/post/7156818840511315981) | Fri Oct 21 2022 4:33 AM 
+- 💪 [Vue.js 3 开源组件推荐：代码差异查看器插件](https://juejin.cn/post/7156839676677423112) | Fri Oct 21 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-    【定期更新，建议收藏】 👉 最新更新时间：2022年10月20日18:10:32 本次参与排名的专栏数8480个，作者3764名。 参与本次榜单计算的作者来自于掘金 🏆推荐作者榜 的推荐、后端、人工智 
+    一个Vue.js差异查看器插件，可以用来比较两个代码片断之间的差异。 Github地址：https://github.com/hoiheart/vue-diff 支持语言： css xml: xml, 
     </details> 
 <!-- juejin:END -->
 ### 少数派
