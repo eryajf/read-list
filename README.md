@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [docker 的 ubuntu 容器为什么不自带 ip 命令和 ifconfig 命令？](https://www.v2ex.com/t/888782#reply3) | Fri Oct 21 2022 9:20 AM
-- 🤗 [有没有开源的英文语义分析库？用于外贸站的客服机器人，分析用户想干什么 assign 给对应部门客服的，目前用的关键词识别，设少了经常识别不出来，设多了经常识别错](https://www.v2ex.com/t/888779#reply0) | Fri Oct 21 2022 9:00 AM
-- 🎭 [前辈们，指导一下如何入门 asp.net core？](https://www.v2ex.com/t/888771#reply0) | Fri Oct 21 2022 8:48 AM
-- 🥷 [双十一了，有啥笔记本电脑推荐吗？预算 6500 以下。主要是现在的笔记本电脑撑不住了，又赶上了这个时间点。](https://www.v2ex.com/t/888762#reply23) | Fri Oct 21 2022 8:28 AM
-- 🐵 [Android 如何避免 APP 在通知栏拉屎](https://www.v2ex.com/t/888743#reply29) | Fri Oct 21 2022 7:23 AM<!-- v2ex:END -->
+- 🥸 [react-router-dom v6 动态路由报错](https://www.v2ex.com/t/888788#reply3) | Fri Oct 21 2022 9:31 AM
+- 🤗 [docker 的 ubuntu 容器为什么不自带 ip 命令和 ifconfig 命令？](https://www.v2ex.com/t/888782#reply9) | Fri Oct 21 2022 9:20 AM
+- 🎭 [有没有开源的英文语义分析库？用于外贸站的客服机器人，分析用户想干什么 assign 给对应部门客服的，目前用的关键词识别，设少了经常识别不出来，设多了经常识别错](https://www.v2ex.com/t/888779#reply3) | Fri Oct 21 2022 9:00 AM
+- 🥷 [前辈们，指导一下如何入门 asp.net core？](https://www.v2ex.com/t/888771#reply2) | Fri Oct 21 2022 8:48 AM
+- 🐵 [双十一了，有啥笔记本电脑推荐吗？预算 6500 以下。主要是现在的笔记本电脑撑不住了，又赶上了这个时间点。](https://www.v2ex.com/t/888762#reply25) | Fri Oct 21 2022 8:28 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
