@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [自动驾驶小巨头的“灾难性”上市](https://www.cnbeta.com/articles/tech/1329675.htm) | Fri Oct 21 2022 11:18 AM 
+- 🕯 [更多色泽的早期Windows 11官方壁纸下载](https://www.cnbeta.com/articles/tech/1329709.htm) | Fri Oct 21 2022 12:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;大部分人认为，Mobileye在当下这个最令人匪夷所思的时间点选择IPO，应该“归功”于英特尔。2015年，英特尔以高达150亿美元的价格，收购了这家以色列小巨头，其市场份额占据全球辅助驾驶芯片市场的70%。7年后，也就是2022年，英特尔却在美股逾50年最糟糕跌势下，推动Mobileye上市。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;几天前，我们报道了Windows 11早期版本内置壁纸的&amp;quot;原型&amp;quot;。绽放壁纸的&amp;quot;花瓣状&amp;quot;变体以极其细腻的的8K分辨率出现，但当时只提供了深色版本，&lt;strong&gt;那些想要泄露的浅色版本的朋友们今天也可以满载而归了，r/EpicBOnReddit已经发布了一些丰富多彩的重新填色版本，还包括一个光影照射版本。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [没了绿牌的插混车型，还香吗？](https://www.cnbeta.com/articles/tech/1329673.htm) | Fri Oct 21 2022 11:17 AM 
+- 💼 [《黑豹2》新角色海报：全员黑金、女黑豹炸裂来袭](https://www.cnbeta.com/articles/tech/1329707.htm) | Fri Oct 21 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;“现在还要不要考虑插混车型？”在新能源汽车领域里，插电式混动汽车一直都被视为“特殊”的过渡产品，享受与纯电动汽车同等新能源牌照指标的同时，又没有纯电动汽车的续航焦虑，因此，深受不少“求牌若渴”的车主青睐。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日（10月21日），《黑豹2》发布新预告的同时，也公布了一组新的角色海报，黑金来袭。《黑豹2》仍由前作导演瑞恩·库格勒执导，露皮塔·尼永奥、利蒂希娅·赖特、丹娜·奎里拉、马丁·弗里曼等回归主演，多米尼克·索恩、特诺切·韦尔塔、米凯拉·科尔全新加盟，将于11月11日北美上映。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [马斯克预言：全球经济衰退可能持续到2024年春天](https://www.cnbeta.com/articles/tech/1329671.htm) | Fri Oct 21 2022 11:15 AM 
+- 💂 [史上最贵“零食袋”：巴黎世家推出13000元乐事联名手包](https://hot.cnbeta.com/articles/funny/1329705.htm) | Fri Oct 21 2022 12:35 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;特斯拉首席执行官马斯克周五（10月21日）在社交媒体上表示，他认为经济衰退将持续到2024年春天，此前一天，他曾对全球部分地区的需求表露过担忧。当有用户询问马斯克本轮经济衰退会持续多久时，马斯克回复称，“只是猜测，但可能会持续到2024年春天。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年早些时候，巴黎世家推出了名叫Trash Pouch的提包，外观神似平时用的垃圾袋，一度引起了热烈讨论。但现在看来，&lt;strong&gt;垃圾袋还远远不是巴黎世家“行为艺术”的极限。&lt;/strong&gt;近日，&lt;strong&gt;巴黎世家与乐事合作，推出了一款在外观上一比一复刻乐事薯片包装的手包。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1329705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小行星“龙宫”沙粒样本中检测出气体](https://www.cnbeta.com/articles/science/1329669.htm) | Fri Oct 21 2022 11:14 AM 
+- 🚀 [亚马逊称对Google的恐惧使供应商放弃了电视硬件上的合作](https://www.cnbeta.com/articles/tech/1329703.htm) | Fri Oct 21 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日本宇宙航空研究开发机构（JAXA）、东京大学、九州大学等的团队日前宣布，从探测器“隼鸟2号”带回的小行星“龙宫”沙粒样本中检测出了气体。其中包括稀有气体氦和氖等，据悉将小行星的气体直接带回地球在全世界尚属首次。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊表示，超过半数的硬件供应商表示，由于担心Google的报复，他们无法与该电子商务集团建立电视产品的制造关系，这使得与搜索巨头的紧张关系升级，而亚马逊与Google在多个业务上存在竞争。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [Turtle Beach推出Xbox专用型新一代VelocityOne飞行摇杆](https://hot.cnbeta.com/articles/game/1329667.htm) | Fri Oct 21 2022 11:05 AM 
+- 🎊 [飞利浦发布Evnia 34M2C7600MV曲面游戏显示器](https://www.cnbeta.com/articles/tech/1329701.htm) | Fri Oct 21 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;业内知名的游戏外设制造商 Turtle Beach，刚刚推出了专为 Xbox 游戏玩家打造的新一代 VelocityOne Flightstick 。&lt;strong&gt;如果你想要在虚拟世界中获得身临其境、且得心应手的空战体验，那这款飞行摇杆或是一个不错的选择。&lt;/strong&gt;更棒的是，除了 Xbox One 和 Xbox Series X | S，新款 V1 也适用于 Windows PC 。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329667.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;飞利浦Evnia 34M2C7600MV是一款令人兴奋的新的曲面游戏显示器。它配备34英寸VA面板，提供WQHD分辨率，刷新率为165赫兹，并通过了DisplayHDR 1400认证，由于采用了迷你LED背光带来的1152个区域的局部调光能力，因此可提供1400尼特的亮度（在HDR内容下），而通常情况下，亮度也是非常好的720尼特。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
