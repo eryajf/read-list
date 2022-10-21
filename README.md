@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [更多色泽的早期Windows 11官方壁纸下载](https://www.cnbeta.com/articles/tech/1329709.htm) | Fri Oct 21 2022 12:43 PM 
+- 🕯 [安全专家认为乌克兰仍可能面临网络攻击](https://www.cnbeta.com/articles/tech/1329723.htm) | Fri Oct 21 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;几天前，我们报道了Windows 11早期版本内置壁纸的&amp;quot;原型&amp;quot;。绽放壁纸的&amp;quot;花瓣状&amp;quot;变体以极其细腻的的8K分辨率出现，但当时只提供了深色版本，&lt;strong&gt;那些想要泄露的浅色版本的朋友们今天也可以满载而归了，r/EpicBOnReddit已经发布了一些丰富多彩的重新填色版本，还包括一个光影照射版本。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在与俄罗斯开战近8个月后，乌克兰尚未遭受严重的网络攻击，这要归功于该国的网络防御系统，但专家说，随着战争的拖延和俄罗斯变得更加绝望，重大攻击仍可能发生。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329723.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《黑豹2》新角色海报：全员黑金、女黑豹炸裂来袭](https://www.cnbeta.com/articles/tech/1329707.htm) | Fri Oct 21 2022 12:36 PM 
+- 💼 [神秘粒子7倍光速向地球飞来？](https://www.cnbeta.com/articles/science/1329721.htm) | Fri Oct 21 2022 1:30 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（10月21日），《黑豹2》发布新预告的同时，也公布了一组新的角色海报，黑金来袭。《黑豹2》仍由前作导演瑞恩·库格勒执导，露皮塔·尼永奥、利蒂希娅·赖特、丹娜·奎里拉、马丁·弗里曼等回归主演，多米尼克·索恩、特诺切·韦尔塔、米凯拉·科尔全新加盟，将于11月11日北美上映。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据爱因斯坦的相对论，宇宙中的任何物体运动速度都不可能超过真空中的光速，没有例外，但有时候，我们也会看到一些“超光速”现象。在地球1.4亿光年之外，有一对双子星，合并触发了引力波，2017年8月17日经过地球，那也是人类第一次探测到中子星产生的引力波，也就是GW170817事件。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [史上最贵“零食袋”：巴黎世家推出13000元乐事联名手包](https://hot.cnbeta.com/articles/funny/1329705.htm) | Fri Oct 21 2022 12:35 PM 
+- 💂 [《生化危机4：重制版》“碍事梨”脸模性感生活照](https://hot.cnbeta.com/articles/game/1329719.htm) | Fri Oct 21 2022 1:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年早些时候，巴黎世家推出了名叫Trash Pouch的提包，外观神似平时用的垃圾袋，一度引起了热烈讨论。但现在看来，&lt;strong&gt;垃圾袋还远远不是巴黎世家“行为艺术”的极限。&lt;/strong&gt;近日，&lt;strong&gt;巴黎世家与乐事合作，推出了一款在外观上一比一复刻乐事薯片包装的手包。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1329705.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《生化危机4：重制版》“碍事梨（Ashley）”脸模Ella Nyan是一位长期旅居日本的荷兰模特。最近她在其个人INS上分享了大量在日本的生活照。《生化危机4》碍事梨之前的配音演员是Carolyn Lawrence，目前尚不清楚是否回归，之前的脸模是Brooke Elizabeth Mathieson。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [亚马逊称对Google的恐惧使供应商放弃了电视硬件上的合作](https://www.cnbeta.com/articles/tech/1329703.htm) | Fri Oct 21 2022 12:34 PM 
+- 🚀 [日元跌破151关口 刷新1990年来最低水平](https://www.cnbeta.com/articles/tech/1329717.htm) | Fri Oct 21 2022 1:25 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊表示，超过半数的硬件供应商表示，由于担心Google的报复，他们无法与该电子商务集团建立电视产品的制造关系，这使得与搜索巨头的紧张关系升级，而亚马逊与Google在多个业务上存在竞争。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329703.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;截至发稿，美元/日元报151.5。日元还没跌到头！受美日利差持续扩大影响，日元兑美元汇率在昨日跌破150关口后，周五继续跌破151，刷新1990年来最低水平。截至发稿，美元/日元报151.5。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [飞利浦发布Evnia 34M2C7600MV曲面游戏显示器](https://www.cnbeta.com/articles/tech/1329701.htm) | Fri Oct 21 2022 12:23 PM 
+- 🎊 [售价2499元起：Intel A770/A750公版卡今晚正式开卖](https://www.cnbeta.com/articles/tech/1329715.htm) | Fri Oct 21 2022 12:51 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;飞利浦Evnia 34M2C7600MV是一款令人兴奋的新的曲面游戏显示器。它配备34英寸VA面板，提供WQHD分辨率，刷新率为165赫兹，并通过了DisplayHDR 1400认证，由于采用了迷你LED背光带来的1152个区域的局部调光能力，因此可提供1400尼特的亮度（在HDR内容下），而通常情况下，亮度也是非常好的720尼特。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不久前，Intel官方在电商平台上架了AA770和A750两款公版显卡，&lt;strong&gt;今晚，这两款显卡终于正式开卖，售价分别为3199元和2499元。&lt;/strong&gt;根据官方信息，A750显卡采用了28个Xe核心，配备8GB 16Fbps 256bit GDDR6显存，TDP 225W，GPU频率2050MHz，并有4个DP 2.0接口和1个HDMI 2.1接口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
