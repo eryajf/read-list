@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软电脑管家在海外开启公测：官方御用清理工具](https://www.cnbeta.com/articles/tech/1329645.htm) | Fri Oct 21 2022 9:21 AM 
+- 🕯 [中国新能源汽车产销量居世界第一：已连续7年夺冠](https://www.cnbeta.com/articles/tech/1329663.htm) | Fri Oct 21 2022 10:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软日前在国内推出了“微软电脑管家”，提供包括垃圾清理、大文件管理、存储感知、应用卸载等深度清理功能，可释放更多系统存储空间。&lt;strong&gt;援引国外科技媒体 Windows Lastest 报道，这款应用目前以 PC Manager 的名称开启公测，预估将会上架 Microsoft Store。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;中国新能源汽车的产量和销量已经多年居世界第一，这一成绩着实出彩。10月21日消息，据新华网报道，在二十大第五场记者招待会上，生态环境部党组成员、副部长翟青表示，&lt;strong&gt;2021年，全国新能源汽车产销量均居世界第一&lt;/strong&gt;！&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [电动汽车投资方兴未艾：到2030年全球投资规模将达1.2万亿美元](https://www.cnbeta.com/articles/tech/1329641.htm) | Fri Oct 21 2022 9:11 AM 
+- 💼 [中国是全球森林增长最多国家 大气质量改善最快](https://www.cnbeta.com/articles/tech/1329661.htm) | Fri Oct 21 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;北京时间10月21日下午消息，据报道，&lt;strong&gt;最新一项研究表明，全球主要汽车制造商对电动汽车的投资方兴未艾，到2030年预计将达到1.2万亿美元，用于研发和生产电动汽车，以及电池和其他原材料。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月21日，国家生态环境部副部长翟青介绍了我国在自然生态建设方面的进展。据介绍，&lt;strong&gt;目前我国是全球森林资源增长最多的国家，也是人工造林面积最大的国家，是全球“增绿”的主力军。&lt;/strong&gt;数据显示，2020年，中国碳排放强度比2005年下降48.4%，超额完成向国际社会承诺的目标；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Windows 11文件管理器标签页功能存BUG：右上窗口按钮无法悬停](https://www.cnbeta.com/articles/tech/1329639.htm) | Fri Oct 21 2022 9:10 AM 
+- 💂 [研究发现气候变化导致的水温突然下降可导致灾难性的珊瑚崩溃](https://www.cnbeta.com/articles/science/1329659.htm) | Fri Oct 21 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在日前发布的 Windows 11 Version 22H2（Moment 1）更新中，所有用户都可以在文件管理器中体验标签页功能。&lt;strong&gt;不过有用户反馈称该功能依然存在一些 BUG，其中最恼人的一个问题就是标题按钮（窗口按钮）无法悬停，鼠标移动到上面后会快速跳过。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据一项新的研究，冷水冲击与东太平洋的灾难性珊瑚崩溃有关。与气候变化有关的海洋热浪被认为是世界上一些最著名的珊瑚礁系统大规模消亡的原因。然而，科学家们发现，灾难性的珊瑚死亡事件的根本原因是一个极端的天气事件，导致海温迅速下降达10度。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [特斯拉还需要一针“强心剂”](https://www.cnbeta.com/articles/tech/1329637.htm) | Fri Oct 21 2022 9:09 AM 
+- 🚀 [NanoGraf创下硅阳极18650锂离子电池新纪录 能力密度增至810Wh/L](https://www.cnbeta.com/articles/tech/1329657.htm) | Fri Oct 21 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;“特斯拉市值有希望超过苹果和沙特阿美市值的总和，我预计特斯拉市值将达到沙特阿美的两倍！”&lt;/strong&gt;10月20日，特斯拉CEO埃隆·马斯克在特斯拉2022年Q3财报会议上夸下海口。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;总部位于芝加哥的 NanoGraf Technologies，刚刚宣布了能量密度高达 810 Wh/L（容量 4.0 Ah）的圆柱形 18650 锂离子电池。&lt;/strong&gt;其实早在 2021 年，NanoGraf 就已经公布 800 Wh/L @ 3.8 Ah 的版本，但现在该公司又抵达了新的里程碑。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [清华刘世霞教授斩获IEEE VIS 2022可视化技术成就奖](https://www.cnbeta.com/articles/science/1329635.htm) | Fri Oct 21 2022 9:07 AM 
+- 🎊 [徕卡SL2-S推出全新记者版：升级芳纶纤维外壳 售价约4万元](https://www.cnbeta.com/articles/tech/1329655.htm) | Fri Oct 21 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022年10月18日，电气与电子工程师协会可视化大会（IEEE VIS）公布了本届可视化技术成就奖两位得主，分别是：清华大学刘世霞教授和犹他大学 Valerio Pascucci 教授。该奖项本年度累计入选者有 20 位，获奖 2 位，而刘世霞是 IEEE VIS 迄今为止首位亚洲入选者，也是第二位华人入选者。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;2020年12月，徕卡发布了全新的SL2-S全画幅相机，因为各方面扎实的表现获得了好评。近日，&lt;strong&gt;徕卡为SL2-S推出了新的记者版，在原版的基础上针对机身材质进行了升级。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
