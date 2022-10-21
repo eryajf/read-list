@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python 编码风格与规范](https://juejin.cn/post/7156900653497843726) | Fri Oct 21 2022 9:50 AM 
+- 🤗 [你应该知道的 githooks](https://juejin.cn/post/7156911260418703367) | Fri Oct 21 2022 10:33 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划・10 月更文挑战」的第 4 天，点击查看活动详情 [TOC] 注意事项 本规范适用于所有使用 Python 语言作为开发语言的软件产品。 由于 Pytho 
+    我正在参加「掘金·启航计划」 前言 现代web开发中，多人合作项目已经是常态。在此场景下，为了提升合作效率和质量，减少因个人习惯分歧而导致的额外成本，标准化规范化的需求自然浮现出来，代码规范，comm 
     </details> 
 
-- 🎡 [React魔法堂：size-sensor源码略读](https://juejin.cn/post/7156900558429749279) | Fri Oct 21 2022 9:50 AM 
+- 🎡 [Angular 快速入门 ｜ Pipe &lpar; 自定义 Pipe &rpar;](https://juejin.cn/post/7156909944401297415) | Fri Oct 21 2022 10:27 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 echarts-for-react在对echarts进行轻量级封装的基础上，额外提供图表尺寸自适应容器尺寸的这小而实用的功能，而这功能的背后就是本文想介绍的size-sensor了。 
+    Pipe 作用于 html template 用来格式化/预处理你的 html template Angular 内置的 pipe 有下列 DatePipe：根据本地环境中的规则格式化日期值。 Upp 
     </details> 
 
-- 🕯 [『牛客_每日一题』相差不超过k的最多数](https://juejin.cn/post/7156892050208587783) | Fri Oct 21 2022 9:17 AM 
+- 🕯 [Angular 快速入门 ｜ Directive](https://juejin.cn/post/7156909110326362148) | Fri Oct 21 2022 10:25 AM 
     <details><summary>展开描述 ...</summary> 
-    1.每日一题 原题链接——》戳我戳我：传送法阵 描述 给定一个数组，选择一些数，要求选择的数中任意两数差的绝对值不超过 k 。问最多能选择多少个数？ 输入描述： 第一行输入两个正整数 n和k。 第二行 
+    时光机 👾 Angular 快速入门 ｜ 项目配置 &lpar; angular.json / environment / proxy / tailwind &rpar; ✅ ✅ Angular 快速入门 ｜ Rxjs  
     </details> 
 
-- 🚀 [Luminar Neo 教程，如何在 Luminar Neo 中使用开发工具？](https://juejin.cn/post/7156891974371377189) | Fri Oct 21 2022 9:16 AM 
+- 🚀 [Angular 快速入门 ｜ 项目配置 &lpar; angular.json / environment / proxy / tailwind &rpar;](https://juejin.cn/post/7156906340114235405) | Fri Oct 21 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用开发工具。 
+    由于最近工作的转变 技术栈也由 React 向 Angular 进行了切换 用了两/三个月的 Angular 打算写一些文章 也好有个积累 
     </details> 
 
-- 💪 [前端需要去了解的nodejs知识（express应用搭建）](https://juejin.cn/post/7156890023839662117) | Fri Oct 21 2022 9:09 AM 
+- 💪 [从0搭建vue3组件库:自动化发布、管理版本号、生成 changelog、tag](https://juejin.cn/post/7156904103438712846) | Fri Oct 21 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 前言 这是一个使用typescript和express的应用框架，快速搭建服务端项目。主要模块可以拆分为 
+    本文介绍如何使用`release-it`并应用到vue3组件库项目中,让组件库可以自动化发布、管理版本号、生成 changelog、tag等 
     </details> 
 <!-- juejin:END -->
 ### 少数派
