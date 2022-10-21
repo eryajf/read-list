@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [建设工程项目策划](https://juejin.cn/post/7156960498171248671) | Fri Oct 21 2022 1:43 PM 
+- 🤗 [建设工程项目采购模式](https://juejin.cn/post/7156971344905650213) | Fri Oct 21 2022 2:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    工程发包 工程发包是指：建设单位采用一定的方式，在政府管理部门的监督下，遵循公开，公正，公平的原则，择优选定设计，勘查，施工单位的活动。 发包 建筑工程依法实行招标发包，对于不适用招标发包的可以直接发 
+    </details> 
+
+- 🎡 [Java语言中的反射的概念和相关的类](https://juejin.cn/post/7156971308574572552) | Fri Oct 21 2022 2:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    Java开发者编写的任何Java源文件都需要经过编译，才能生成字节码文件（.class文件）。对于java虚拟机而言，装载到其中的字节码文件是一个类型为Class类的对象。（不是关键字class噢！） 
+    </details> 
+
+- 🕯 [vue 日历 组件](https://juejin.cn/post/7156964464294002718) | Fri Oct 21 2022 1:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    那位大佬来批评一下我的不足，不甚感激。不用任何第三方库，只基于vue2实现一个日历组件。代码有点长，为了发文章方便。私下代码是拆分了的 
+    </details> 
+
+- 🚀 [建设工程项目策划](https://juejin.cn/post/7156960498171248671) | Fri Oct 21 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
     建设工程项目策划 建设工程项目策划是指：通过调查研究和收集资料，在充分占有信息的基础上，针对建设工程项目的决策和实施，或决策和实施的某个问题进行组织，管理，经济和技术等方面的科学分析和论证，旨在为项目 
     </details> 
 
-- 🎡 [了解 Flutter 开发者们的 IDE 使用情况](https://juejin.cn/post/7156955550637359134) | Fri Oct 21 2022 1:23 PM 
+- 💪 [了解 Flutter 开发者们的 IDE 使用情况](https://juejin.cn/post/7156955550637359134) | Fri Oct 21 2022 1:23 PM 
     <details><summary>展开描述 ...</summary> 
     Google 的 Flutter 团队负责构建和维护 Android Studio &lpar;基于 IntelliJ-IDEA&rpar; 和 Visual Studio Code &lpar;VS Code&rpar; 的支持。 
-    </details> 
-
-- 🕯 [音视频开发——FFmpeg学习教程](https://juejin.cn/post/7156953172173389832) | Fri Oct 21 2022 1:14 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、前言 音视频开发学习中，FFmpeg的学习为什么这么重要？ 因为FFmpeg 是一个开源软件，采用 LGPL 或 GPL 许可证（需要注意这里的开源协议，它具有『传染性』，会要求它的使用方也开源） 
-    </details> 
-
-- 🚀 [MySQL基础-删除/更新行为](https://juejin.cn/post/7156952630885875726) | Fri Oct 21 2022 1:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第21天点击查看活动详情 删除/更新行为 添加了外键之后，再删除父表数据时产生的约束行为，我们就称为删除/更新行为。具体的删除/更 
-    </details> 
-
-- 💪 [利用Babel自动生成“Attribute”文档](https://juejin.cn/post/7156949648979329061) | Fri Oct 21 2022 1:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 利用Babel自动解析源码属性上的注释生成对应Markdown文档，这个场景的应用主要包括在组件库文档对组件属性的介绍中，这一篇就通过编写一个Babel插件来 
     </details> 
 <!-- juejin:END -->
 ### 少数派
