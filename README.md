@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1022](http://jandan.net/p/111514) | Sat Oct 22 2022 3:10 AM 
+- 🚀 [首次单独培育出可被成功移植的毛囊组织](http://jandan.net/p/111516) | Sat Oct 22 2022 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    这项研究可以帮助治疗脱发，并为动物试验和药物筛选提供替代模型。 
+    </details> 
+
+- 🙉 [雷暴电场下的植物，叶尖会放电，并制造大量可清洁空气的自由基](http://jandan.net/p/111515) | Sat Oct 22 2022 5:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    对空气质量具有高度不可预测的影响。 
+    </details> 
+
+- 🎉 [今日好价 1022](http://jandan.net/p/111514) | Sat Oct 22 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：48 
     </details> 
 
-- 🙉 [我们或许发现了大脑在执行量子计算的信号](http://jandan.net/p/111510) | Fri Oct 21 2022 3:57 PM 
+- 🐲 [我们或许发现了大脑在执行量子计算的信号](http://jandan.net/p/111510) | Fri Oct 21 2022 3:57 PM 
     <details><summary>展开描述 ...</summary> 
     谁还不是个量子计算机不是 
     </details> 
 
-- 🎉 [高强度、高专注的连续工作后，我们的脑皮层以及决策方式会有何变化](http://jandan.net/p/111511) | Fri Oct 21 2022 12:48 PM 
+-  [高强度、高专注的连续工作后，我们的脑皮层以及决策方式会有何变化](http://jandan.net/p/111511) | Fri Oct 21 2022 12:48 PM 
     <details><summary>展开描述 ...</summary> 
     若你必须在漫长的一天结束时做出艰难的决定，请注意，你十有八九会倾向于采取省力的方案并追求短期回报。 
-    </details> 
-
-- 🐲 [之前被指用情趣用品作弊的国际象棋大师，发起了诽谤诉讼](http://jandan.net/p/111513) | Fri Oct 21 2022 10:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    emmm 
-    </details> 
-
--  [今日好价 1021](http://jandan.net/p/111512) | Fri Oct 21 2022 3:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：47 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
