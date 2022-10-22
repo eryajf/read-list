@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谷歌又闹大乌龙 Jeff Dean参与的新模型竟搞错Hinton生日](https://www.cnbeta.com/articles/tech/1329957.htm) | Sat Oct 22 2022 8:27 AM 
+- 🕯 [NVIDIA重点转向H100显卡 消息称RTX 4090缺货、涨价到明年](https://www.cnbeta.com/articles/tech/1329969.htm) | Sat Oct 22 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，谷歌研究员发布了关于指令微调的最新工作！然而却宣传图中出现了可笑的乌龙。几个小时之前，谷歌大脑的研究员们非常开心地晒出了自己最新的研究成果：“我们新开源的语言模型Flan-T5，在对1,800多种语言的任务进行指令微调后，显著提高了prompt和多步推理的能力。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;NVIDIA前几天正式开卖了RTX 4090显卡，这是新一代核弹/卡皇，售价12999元，虽然上市之前被人吐槽价格贵，甚至有破发的迹象，然而上市之后情况完全不一样，不仅没破发，价格也涨起来了。不止是涨价，&lt;strong&gt;首批发售之后RTX 4090显卡的供应情况显然也不乐观，各大品牌的官方旗舰店中普遍是预约中，也就是没货。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [烹饪自动化初创企业决定转型 为公寓居民提供高性价比新鲜餐食](https://www.cnbeta.com/articles/tech/1329955.htm) | Sat Oct 22 2022 8:25 AM 
+- 💼 [《西游记》白骨精老奶奶演员刘惠明逝世 享年93岁](https://hot.cnbeta.com/articles/movie/1329967.htm) | Sat Oct 22 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;当几年前与人机交互专家 Camilo Perez Quintero 一同创业时，当时还叫 YPC Technologies 公司，主要目标还是节省烹饪时间。&lt;/strong&gt;但在尝试将技术出售给大型食品服务公司、并且希望将平台提供给食品供应商和服务商之后，烹饪自动化初创企业 Jasper 现又转向了消费市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨日（10月21日），中国电影集团发布讣告，&lt;strong&gt;表演艺术家刘惠明&lt;/strong&gt;因病于10月19日在北京病逝，享年93岁。22日，孙悟空演员六小龄童在微博发文悼念刘惠明，表示：“刘惠明老师曾创造了央视版《西游记》中白骨精变化的老妪等艺术形象，刘老师一路走好。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [宝马计划提升德国工厂EV动力电池产能 以满足纯电Mini Countryman需求](https://www.cnbeta.com/articles/tech/1329953.htm) | Sat Oct 22 2022 7:46 AM 
+- 💂 [Mozilla Firefox 106.0.1版发布 修复AMD Zen处理器运行下崩溃问题](https://www.cnbeta.com/articles/tech/1329965.htm) | Sat Oct 22 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;本周早些时候，Electrek 报道了宝马正在将 Mini 车型产线转移到德国和中国工厂，以简化生产流程的消息。&lt;strong&gt;现在，这家老牌汽车制造商又宣布，其正努力提升 Mini Countryman 纯电跨界车型的 EV 动力电池产能。&lt;/strong&gt;按照计划，宝马定于 2023 年首发在德国莱比锡工厂生产的纯电 Mini Countryman 车型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新版本的Mozilla Firefox浏览器现在可以下载了，不过这次的更新日志只包括了一个修正。106.0.1版本现在可以在所有支持的桌面平台上使用，主要解决了使用AMD Zen 1 CPU的用户遇到的崩溃问题，正如Mozilla在更新日志中所解释的那样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [三星Galaxy A54泄漏信息暗示带来比前代产品更大的电池](https://www.cnbeta.com/articles/tech/1329951.htm) | Sat Oct 22 2022 7:33 AM 
+- 🚀 [美国多州供水系统中发现“永久化学物质”](https://www.cnbeta.com/articles/tech/1329963.htm) | Sat Oct 22 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三星Galaxy A54将接替今年早些时候推出的三星Galaxy A53。虽然距离发布会还有一段时间，但三星Galaxy A54已经成为传言的一部分。&lt;strong&gt;现在，这款智能手机的电池容量已经被泄露出来，信息表明这款手机将配备比三星Galaxy A53更大的电池。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据美国《国会山报》近日报道，美国政府问责局对各州数据的一项最新分析显示，在为6个州约950万人服务的供水系统中发现了“永久化学物质”。美国政府问责局本周发布一份报告称，在伊利诺伊州、马萨诸塞州、新罕布什尔州、新泽西州等6个州的至少18%的供水系统中发现了有毒的全氟和多氟烷基物质，影响约950万人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [DxOMark评iPhone 14 Pro屏幕素质：与Pro Max机型处于同一梯队](https://www.cnbeta.com/articles/tech/1329949.htm) | Sat Oct 22 2022 7:31 AM 
+- 🎊 [游戏厂商不发愁 国外免费手游社群会逼迫玩家氪金](https://hot.cnbeta.com/articles/game/1329961.htm) | Sat Oct 22 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;除了屏幕尺寸略小，iPhone 14 Pro 和 Pro Max 机型在硬件规格上相差并不大，比如相同的 A16 Bionic 处理器。&lt;strong&gt;周五的时候，DxOMark 又补充了前者的屏幕评估数据，再次表明它与后者在总体表现上处于同一梯队。&lt;/strong&gt;在可读性方面，iPhone 14 Pro 在室内和动态场景下稍暗，但其它属性并没有拖后腿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据国外媒体深度报道显示，社交压力可以促使玩家在免费手游中付费氪金。近日国外热门手游《生存国度》 和《权力的游戏：征服》都因为氪金促销广告而面临集体诉讼。这两款游戏面临的诉讼内容都是通过定价建立玩家的“成瘾行为”。但影响玩家的不仅是定价。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
